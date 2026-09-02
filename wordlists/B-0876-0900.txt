@@ -1,40 +1,3 @@
-applicant
-核心：指申请人——申请工作、学校、签证、贷款的人。
-构词是 apply + -ant（做…的人）。
-① There were 200 applicants.
-= 有两百名申请人。
-② Successful applicants will be contacted.
-= 入选者会收到通知。
-successful applicant = 获录取者
-③ Applicants must submit references.
-= 申请人须提交推荐信。
-词族：
-apply = 申请
-application = 申请
-构词：-ant 表示做某事的人
-同类：assistant、participant、accountant
-
-application
-核心：三条线：申请（申请书）、应用（把理论用到实处）、以及电脑上的
-应用程序。第三个义现在最常用，缩写就是 app。
-① I submitted my application.
-= 我提交了申请。
-② Fill in the application form.
-= 填写申请表。
-application form = 申请表
-③ It has practical applications.
-= 它有实际用途。
-这里：
-application = 应用
-④ Download the application.
-= 下载那个应用程序。
-缩写为 app。
-⑤ Apply two applications of paint.
-= 刷两遍漆。
-这里：
-application = 涂敷（一次）
-词族：applicant = 申请人
-
 applied
 核心：指学科"应用型的"，与 pure（纯理论的）相对。
 只作定语。applied science、applied linguistics。
@@ -430,3 +393,56 @@ cultural appropriation = 文化挪用
 appropriate = 挪用（动词，重音在后）
 注意：这两个意思褒贬差很远，
 拨款是中性，挪用是贬义。
+
+approval
+核心：三条线：正式的"批准"、态度上的"赞同"、
+以及商业上的 on approval（先试后买）。
+① The plan needs approval.
+= 那个计划需要批准。
+need approval = 需要审批
+② She nodded in approval.
+= 她点头表示赞同。
+in approval = 赞许地
+③ Goods are sent on approval.
+= 货品可先试后买。
+on approval = 试用满意再付款
+④ He sought her approval.
+= 他想得到她的认可。
+反义词：
+disapproval = 不赞成
+词族：approve = 批准；赞成
+
+approve
+核心：两个意思差别很大。approve of 是"赞成、看得上"（表态度），
+approve 直接接宾语是"正式批准"（有权限）。混用会闹笑话。
+① The board approved the plan.
+= 董事会批准了那个计划。
+及物 = 正式批准
+② Her parents don't approve of him.
+= 她父母看不上他。
+approve of = 赞成、认可
+③ The drug has been approved.
+= 那种药已获批准。
+④ I don't approve of smoking.
+= 我不赞成吸烟。
+词族：
+approval = 批准、赞同
+反义词：disapprove = 不赞成
+注意：approve of 后面接人或行为，
+approve 后面接方案文件。
+
+approving
+核心：指目光、语气"赞许的"，只作定语居多。
+和 approval 同源。
+① She gave an approving nod.
+= 她赞许地点了点头。
+an approving nod = 赞许的点头
+② He looked at her approvingly.
+= 他赞许地看着她。
+③ There were approving murmurs.
+= 传来赞同的低语。
+副词形式：
+approvingly = 赞许地
+反义词：
+disapproving = 不赞成的
+词族：approve、approval
