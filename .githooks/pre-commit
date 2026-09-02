@@ -1,0 +1,12 @@
+#!/bin/sh
+# 词表校验不通过就不许提交。
+# 起因：我把 commit 串在校验命令后面，校验失败也照样提交，
+# 结果 4 个重复词被推上线。判断不该由我在命令行里临时做。
+if git diff --cached --name-only | grep -q '^wordlists/'; then
+  echo "→ 词表有改动，运行校验…"
+  if ! python3 scripts/check-wordlist.py 'wordlists/A-*.txt' 'wordlists/B-*.txt'; then
+    echo
+    echo "❌ 校验未通过，提交已中止。修好再提交，或用 --no-verify 强行跳过（不建议）。"
+    exit 1
+  fi
+fi
