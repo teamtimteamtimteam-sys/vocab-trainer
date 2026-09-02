@@ -1,3 +1,35 @@
+ambitious
+核心：说人是"有抱负的"（褒义），说计划是"雄心勃勃的、目标定得很高
+的"——后者常暗示"可能太高了，不一定做得到"。
+① She is an ambitious young lawyer.
+= 她是个有抱负的年轻律师。
+② It's an ambitious project.
+= 那是个宏大的项目。
+暗示难度很高。
+③ He is ambitious to succeed.
+= 他一心想成功。
+be ambitious to do = 渴望做
+④ The target seems overly ambitious.
+= 那个目标定得太高了。
+副词形式：ambitiously = 雄心勃勃地
+
+ambivalence
+核心：指对同一事物同时抱有两种相反感受的"矛盾心理"，
+不可数。介词用 about 或 towards。
+① She felt ambivalence about leaving.
+= 她对离开心情矛盾。
+ambivalence about = 对…的矛盾心态
+② There is public ambivalence towards it.
+= 公众对此心态复杂。
+ambivalence towards = 对…的矛盾态度
+③ His ambivalence was clear.
+= 他的犹疑显而易见。
+词族：
+ambivalent = 矛盾的
+注意别混：
+ambivalence = 心情矛盾
+ambiguity = 含义不明
+
 ambivalent
 核心：指"心情矛盾的"——不是没想法，而是同时有正反两种感受。
 介词用 about 或 towards。
@@ -384,37 +416,3 @@ amoral = 不涉道德（没有道德维度）
 immoral = 不道德（违反道德）
 moral = 有道德的
 构词：a- 无 + moral 道德
-
-amorous
-核心：指"多情的、表达爱意的"，常带一点戏谑。
-可以说人，也可以说眼神、举动。
-① He made amorous advances.
-= 他大献殷勤。
-amorous advances = 求爱的举动
-② She gave him an amorous look.
-= 她抛给他一个含情的眼神。
-amorous look = 含情的目光
-③ The poem is amorous in tone.
-= 那首诗调子缠绵。
-副词形式：
-amorously = 多情地
-近义对照：
-amorous = 多情的（略戏谑）
-romantic = 浪漫的（通用）
-passionate = 热烈的（强度）
-
-amorphous
-核心：两条线：物理上"无固定形状的"（非晶态），
-和比喻义"没有明确结构的"（组织、想法）。
-① Amorphous solids lack structure.
-= 非晶固体没有晶格结构。
-amorphous solid = 非晶固体
-② It's an amorphous group.
-= 那是个结构松散的团体。
-amorphous group = 松散的群体
-③ His plan remains amorphous.
-= 他的计划还没成型。
-构词：a- 无 + morph 形状
-反义词：
-crystalline = 晶态的
-structured = 有结构的

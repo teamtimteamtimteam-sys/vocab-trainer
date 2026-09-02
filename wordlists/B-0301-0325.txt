@@ -1,3 +1,57 @@
+adjournment
+核心：指会议或庭审的"休会、延期"，也指休会的那段时间。
+正式用语，议会和法庭报道里高频。
+① The adjournment lasted an hour.
+= 休会持续了一小时。
+② They moved for an adjournment.
+= 他们动议休会。
+move for an adjournment = 提议休会
+③ The court granted an adjournment.
+= 法庭准予延期。
+grant an adjournment = 批准延期
+词族：
+adjourn = 休会
+近义对照：
+adjournment = 休会（会重开）
+postponement = 延期（改到以后）
+recess = 休庭、休会（短暂）
+
+adjudicate
+核心：指以裁判或仲裁人身份"裁决"争端。正式用语，多用于法律、
+比赛、投诉处理。介词用 on 或 in。
+① A judge adjudicated the dispute.
+= 一位法官裁决了那场纠纷。
+② She adjudicates on planning appeals.
+= 她裁决规划上诉案。
+adjudicate on = 就…作出裁决
+③ He adjudicated at the competition.
+= 他在那场比赛担任评委。
+词族：
+adjudication = 裁决
+adjudicator = 裁决人、评委
+近义对照：
+adjudicate 裁决（有权作决定）
+judge 评判（通用）
+mediate 调解（不作决定）
+
+adjudication
+核心：指由有权者作出的"裁决"，正式用语。法律、仲裁、
+比赛评审都用。
+① The case awaits adjudication.
+= 那个案子等待裁决。
+await adjudication = 等待裁决
+② Adjudication took three months.
+= 裁决花了三个月。
+③ The panel's adjudication is final.
+= 评审团的裁定是终局的。
+词族：
+adjudicate = 裁决
+adjudicator = 裁决人
+近义对照：
+adjudication = 裁决（有权作决定）
+mediation = 调解（不作决定）
+arbitration = 仲裁（双方约定）
+
 adjudicator
 核心：指作出裁决的人——法律上的裁决官、比赛的评委、
 争议的仲裁人。
@@ -84,24 +138,6 @@ adjustment to = 对…的适应
 词族：
 adjust = 调整
 adjustable = 可调的
-
-ad lib
-核心：指演出或讲话时"即兴发挥、临时现编"。
-可作动词、形容词、副词。也写作 ad-lib。
-① He ad libbed the whole speech.
-= 那篇讲话他全是即兴的。
-② She made an ad lib remark.
-= 她即兴说了句话。
-ad lib remark = 即兴发言
-③ The actor spoke ad lib.
-= 那名演员是现编台词。
-注意拼写：
-ad lib / ad-lib 都可以
-词源：拉丁语 ad libitum（随意）
-近义对照：
-ad lib = 即兴现编（无稿）
-improvise = 即兴创作（通用）
-wing it = 临场应付（口语）
 
 administer
 核心：三条线：管理机构、执行法规、以及医学上"给药"。都可以归到
@@ -414,40 +450,3 @@ admonishment = 训诫
 admonish = 温和告诫（正式）
 reprimand = 训斥（正式，较重）
 scold = 责骂（口语，多对小孩）
-
-adolescence
-核心：指青春期，大约十二到十八岁这段时间。不可数。比 puberty
-（生理上的青春期发育）范围更广，包含心理和社会层面。
-① Adolescence can be difficult.
-= 青春期可能很难熬。
-② He spent his adolescence abroad.
-= 他青春期是在国外度过的。
-③ Changes occur during adolescence.
-= 变化发生在青春期。
-常用搭配：
-early adolescence = 青春期早期
-reach adolescence = 进入青春期
-during adolescence = 在青春期
-词族：
-adolescent = 青少年
-注意区别：
-adolescence 青春期（心理社会）
-puberty 发育期（生理）
-youth 青年时期（更宽泛）
-
-adolescent
-核心：既是名词"青少年"，也是形容词"青春期的"。形容词用在成年人
-身上是贬义，指"幼稚"。比 teenager 正式，多用于医学和社科文本。
-① Adolescents need support.
-= 青少年需要支持。
-② She works with adolescent patients.
-= 她的病人是青少年。
-③ Stop being so adolescent.
-= 别那么幼稚。
-用于成年人 = 贬义
-④ Adolescent behaviour changes fast.
-= 青春期行为变化很快。
-近义对照：
-adolescent 青少年（正式）
-teenager 十几岁的（口语）
-youth 年轻人（可带负面）

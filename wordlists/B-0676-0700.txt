@@ -1,3 +1,37 @@
+amorous
+核心：指"多情的、表达爱意的"，常带一点戏谑。
+可以说人，也可以说眼神、举动。
+① He made amorous advances.
+= 他大献殷勤。
+amorous advances = 求爱的举动
+② She gave him an amorous look.
+= 她抛给他一个含情的眼神。
+amorous look = 含情的目光
+③ The poem is amorous in tone.
+= 那首诗调子缠绵。
+副词形式：
+amorously = 多情地
+近义对照：
+amorous = 多情的（略戏谑）
+romantic = 浪漫的（通用）
+passionate = 热烈的（强度）
+
+amorphous
+核心：两条线：物理上"无固定形状的"（非晶态），
+和比喻义"没有明确结构的"（组织、想法）。
+① Amorphous solids lack structure.
+= 非晶固体没有晶格结构。
+amorphous solid = 非晶固体
+② It's an amorphous group.
+= 那是个结构松散的团体。
+amorphous group = 松散的群体
+③ His plan remains amorphous.
+= 他的计划还没成型。
+构词：a- 无 + morph 形状
+反义词：
+crystalline = 晶态的
+structured = 有结构的
+
 amount
 核心：指不可数事物的"量"（金钱、时间、水），可数的东西要用
 number——an amount of people 是错的。动词 amount to 意为
@@ -383,42 +417,3 @@ solve an anagram = 解开字母重排
 anagram = 字母重排词
 palindrome = 回文（正反读一样）
 acronym = 首字母缩略词
-
-analogous
-核心：指"类似的、可类比的"，正式且偏学术。介词用 to 或 with。
-强调的是"结构或功能上相似"，不是外表像。
-① The heart is analogous to a pump.
-= 心脏类似于一个泵。
-analogous to = 类似于
-② The two cases are analogous.
-= 那两个案例可以类比。
-③ It's analogous with the earlier study.
-= 那和早先那项研究相似。
-词族：
-analogy = 类比
-analogously = 类似地
-注意发音：/əˈnæləɡəs/，
-重音在第二音节，g 发 /ɡ/。
-近义对照：
-analogous 可类比的（结构功能）
-similar 相似的（通用）
-
-analogy
-核心：指用一个熟悉的事物去说明另一个的"类比"。
-核心搭配 draw an analogy between、by analogy with。
-学术写作和教学里高频。
-① He drew an analogy between them.
-= 他把两者做了类比。
-draw an analogy between = 在…之间类比
-② The analogy is misleading.
-= 那个类比有误导性。
-③ By analogy with physics, we can say…
-= 类比物理学，可以说……
-by analogy with = 与…类比
-④ It's a useful analogy.
-= 那是个有用的类比。
-词族：analogous = 类似的
-近义对照：
-analogy 类比（说明道理）
-metaphor 隐喻（修辞）
-comparison 比较（通用）

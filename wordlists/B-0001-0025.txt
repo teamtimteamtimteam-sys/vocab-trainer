@@ -44,6 +44,54 @@ from A to Z = 从头到尾
 注意：作字母、成绩、血型讲时大写 A，
 作不定冠词时小写 a。
 
+a cappella
+核心：意大利语借词，音乐术语，指"无伴奏合唱"。
+既是形容词也是副词。
+① The choir sang a cappella.
+= 那个合唱团清唱。
+sing a cappella = 无伴奏演唱
+② It's an a cappella group.
+= 那是个阿卡贝拉组合。
+a cappella group = 无伴奏人声组合
+③ The arrangement is a cappella.
+= 那个编排是纯人声的。
+注意拼写：
+a cappella 两个 p、两个 l。
+词源：意大利语，原意「按教堂方式」。
+
+à la carte
+核心：法语借词，餐饮用语，指"按菜单单点"——
+和 set menu（套餐）相对，每道菜单独计价。
+① We ordered à la carte.
+= 我们是单点的。
+order à la carte = 按菜单单点
+② The à la carte menu is pricier.
+= 单点菜单更贵些。
+à la carte menu = 单点菜单
+③ They offer both set and à la carte.
+= 他们套餐和单点都有。
+注意拼写：
+à 上有反引号，也常写作 a la carte。
+反义对照：
+à la carte = 单点计价
+set menu / prix fixe = 定价套餐
+
+a priori
+核心：拉丁语借词，哲学术语，指"先验的"——不依赖经验、
+由推理得出的。和 a posteriori（后验的）配对。
+① That's an a priori assumption.
+= 那是个先验假设。
+a priori assumption = 先验假设
+② We know it a priori.
+= 我们凭推理就知道。
+③ A priori reasoning has limits.
+= 先验推理有其局限。
+a priori reasoning = 先验推理
+配对词：
+a priori = 先验（不依赖经验）
+a posteriori = 后验（基于经验）
+注意发音：/ˌeɪ praɪˈɔːraɪ/
+
 aardvark
 核心：指土豚，非洲的一种夜行性哺乳动物，长吻大耳，专吃蚂蚁白蚁。
 因为是许多英语词典的第一个词条而广为人知。
@@ -382,53 +430,3 @@ an abdication of duty = 失职
 = 退位危机持续了数周。
 abdication crisis = 退位危机
 词族：abdicate = 退位
-
-abdomen
-核心：解剖学上指腹部，比日常的 stomach 或 belly 正式，多用于医学
-文本。昆虫身体的第三节也叫 abdomen。
-① He felt pain in his abdomen.
-= 他腹部疼痛。
-② The wound was in the lower abdomen.
-= 伤口在下腹部。
-lower abdomen = 下腹部
-③ An insect's abdomen has segments.
-= 昆虫的腹部分节。
-词族：
-abdominal = 腹部的
-近义对照：
-abdomen 腹部（医学）
-stomach 胃、肚子（通用）
-belly 肚子（口语）
-tummy 肚肚（儿语）
-
-abdominal
-核心：解剖学形容词，"腹部的"。常见搭配 abdominal pain、
-abdominal muscles（腹肌，口语缩写 abs）。
-① He has abdominal pain.
-= 他腹痛。
-abdominal pain = 腹痛
-② She strengthened her abdominal muscles.
-= 她练了腹肌。
-abdominal muscles = 腹肌
-③ They performed abdominal surgery.
-= 他们做了腹部手术。
-abdominal surgery = 腹部外科手术
-口语缩写：abs = 腹肌
-词族：abdomen = 腹部
-
-abduct
-核心：指用暴力或欺骗"绑架、劫持"人，法律用语。
-和 kidnap 基本同义，abduct 更正式，常用于新闻和法律文本。
-① She was abducted at gunpoint.
-= 她被持枪绑架。
-at gunpoint = 持枪威胁下
-② Aliens abducted him, he claims.
-= 他声称被外星人劫走了。
-③ The child was abducted from school.
-= 那个孩子在学校被拐走。
-词族：
-abduction = 绑架
-abductor = 绑匪
-近义对照：
-abduct = 绑架（正式）
-kidnap = 绑架（通用，常为赎金）

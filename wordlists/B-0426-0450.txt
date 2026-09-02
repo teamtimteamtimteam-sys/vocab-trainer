@@ -1,3 +1,31 @@
+aftershave
+核心：指男士剃须后用的润肤水或须后水。不可数为主。
+可以作两个词 after-shave，也可连写。
+① He wears too much aftershave.
+= 他须后水抹太多了。
+② She bought him aftershave.
+= 她给他买了须后水。
+③ The aftershave stings.
+= 那款须后水有刺激感。
+aftershave lotion = 须后润肤水
+注意拼写：
+aftershave / after-shave 都可以。
+
+aftershock
+核心：字面指地震后的"余震"，比喻指重大事件后的"连锁冲击"。
+可数，常用复数。
+① A strong aftershock followed.
+= 随后发生了一次强余震。
+② Aftershocks continued for days.
+= 余震持续了好几天。
+③ The economic aftershocks were severe.
+= 经济上的连锁冲击很严重。
+economic aftershock = 经济余波
+配对词：
+shock = 主震、冲击
+aftershock = 余震、余波
+foreshock = 前震
+
 aftertaste
 核心：字面指食物饮料留在口中的"余味"，比喻指某段经历
 留下的"心里的滋味"，后者常是负面的。
@@ -145,6 +173,23 @@ for ages = 很久（口语）
 ageing = 老化的
 aged = …岁的；年老的
 
+age-old
+核心：指习俗、问题、争论"由来已久的"，只作定语。
+带连字符。常搭配 question、tradition、problem。
+① It's an age-old question.
+= 那是个古老的问题。
+an age-old question = 千古之问
+② They follow an age-old tradition.
+= 他们遵循一个古老传统。
+age-old tradition = 世代相传的习俗
+③ The age-old debate continues.
+= 那场旷日持久的争论还在继续。
+注意：age-old 只作定语。
+近义对照：
+age-old = 由来已久的
+ancient = 古代的（时间尺度更大）
+long-standing = 长期存在的
+
 aged
 核心：两个读音对应两个意思。读一个音节时是"…岁的"（aged 12），
 读两个音节时是"年老的"（the aged）。这是高频混淆点。
@@ -249,23 +294,6 @@ agency = 代理机构
 注意区别：
 agent 替别人办事的人
 broker 中间撮合的经纪人
-
-age-old
-核心：指习俗、问题、争论"由来已久的"，只作定语。
-带连字符。常搭配 question、tradition、problem。
-① It's an age-old question.
-= 那是个古老的问题。
-an age-old question = 千古之问
-② They follow an age-old tradition.
-= 他们遵循一个古老传统。
-age-old tradition = 世代相传的习俗
-③ The age-old debate continues.
-= 那场旷日持久的争论还在继续。
-注意：age-old 只作定语。
-近义对照：
-age-old = 由来已久的
-ancient = 古代的（时间尺度更大）
-long-standing = 长期存在的
 
 agglomeration
 核心：指杂七杂八堆在一起的"聚集体"，正式。
@@ -414,38 +442,3 @@ aggressive
 词族：
 aggression = 侵略、攻击性
 aggressively = 激进地
-
-aggressively
-核心：两条线，和形容词一样有褒贬两面：贬义的"咄咄逼人地"，
-和商业语境的"积极进取地"。
-① He responded aggressively.
-= 他反应得很有攻击性。
-respond aggressively = 强硬回应
-② They are expanding aggressively.
-= 他们在大举扩张。
-expand aggressively = 激进扩张
-③ The disease spread aggressively.
-= 那种病来势凶猛。
-spread aggressively = 迅猛扩散
-词族：
-aggressive = 好斗的；进取的
-aggression = 侵略；攻击性
-注意：褒贬全看语境。
-
-aggressor
-核心：指挑起冲突的一方，国际关系和法律语境用语。
-一定是负面，指"先动手的那个"。
-① The country was named the aggressor.
-= 那个国家被认定为侵略方。
-name the aggressor = 认定侵略者
-② The aggressor must withdraw.
-= 侵略方必须撤出。
-③ He acted as the aggressor.
-= 他是先动手的一方。
-词族：
-aggression = 侵略
-aggressive = 好斗的
-配对词：
-aggressor = 侵略方
-victim = 受害方
-defender = 防御方

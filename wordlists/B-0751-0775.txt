@@ -1,3 +1,41 @@
+annotate
+核心：指给文本"加注释、批注"。学术和编辑工作里常用。
+形容词 annotated 常出现在书名里：an annotated edition。
+① She annotated the manuscript.
+= 她给那份手稿加了批注。
+annotate a text = 给文本加注
+② It's an annotated edition.
+= 那是个注释版。
+annotated edition = 注释本
+③ Please annotate your code.
+= 请给你的代码加注释。
+④ The map is annotated.
+= 那张地图有标注。
+词族：
+annotation = 注释
+近义对照：
+annotate 加注释（说明性）
+comment 评论（可主观）
+label 标注（贴标签）
+
+annotation
+核心：指加在文本上的"注释、批注"，也指加注这个行为。
+学术和编辑工作常用。
+① The annotations are helpful.
+= 那些注释很有用。
+② He added annotations in the margin.
+= 他在页边加了批注。
+in the margin = 在页边
+③ Annotation takes time.
+= 加注释很费时间。
+词族：
+annotate = 加注释
+annotated = 有注释的
+近义对照：
+annotation = 注释（说明性）
+footnote = 脚注（页底）
+marginalia = 页边批注
+
 announce
 核心：底层是"正式地公开告知"。宣布消息、播报车次、通报某人到场都是
 它。比 tell 正式得多，对象通常是一群人而不是一个人。
@@ -420,39 +458,3 @@ answer = 回答；负责
 answerable = 须负责的（英式常用）
 accountable = 须问责的（通用）
 responsible = 有责任的（通用）
-
-ant
-核心：指蚂蚁，社会性昆虫。构词能力强：anthill、
-ant colony。习语 have ants in one's pants 指坐立不安。
-① Ants marched in a line.
-= 蚂蚁排成一列前进。
-② The anthill is huge.
-= 那个蚁丘很大。
-anthill = 蚁丘
-③ He has ants in his pants.
-= 他坐立不安。
-have ants in one's pants = 焦躁难安
-词族：
-ant colony = 蚁群
-群体昆虫：
-ant = 蚂蚁 / bee = 蜜蜂
-termite = 白蚁 / wasp = 黄蜂
-
-antagonism
-核心：指双方之间公开的"对立、敌对"，不可数。
-介词用 between 或 towards。
-① There is antagonism between them.
-= 他们之间存在对立。
-antagonism between = 之间的敌对
-② He showed open antagonism.
-= 他表现出公开的敌意。
-open antagonism = 公开对抗
-③ Antagonism towards reform grew.
-= 对改革的抵触加深了。
-词族：
-antagonist = 对手
-antagonize = 使敌对
-近义对照：
-antagonism = 对立（双方结构性）
-animosity = 积怨（个人情绪）
-hostility = 敌意（立场）

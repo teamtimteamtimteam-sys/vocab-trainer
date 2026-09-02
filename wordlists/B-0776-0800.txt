@@ -1,3 +1,39 @@
+ant
+核心：指蚂蚁，社会性昆虫。构词能力强：anthill、
+ant colony。习语 have ants in one's pants 指坐立不安。
+① Ants marched in a line.
+= 蚂蚁排成一列前进。
+② The anthill is huge.
+= 那个蚁丘很大。
+anthill = 蚁丘
+③ He has ants in his pants.
+= 他坐立不安。
+have ants in one's pants = 焦躁难安
+词族：
+ant colony = 蚁群
+群体昆虫：
+ant = 蚂蚁 / bee = 蜜蜂
+termite = 白蚁 / wasp = 黄蜂
+
+antagonism
+核心：指双方之间公开的"对立、敌对"，不可数。
+介词用 between 或 towards。
+① There is antagonism between them.
+= 他们之间存在对立。
+antagonism between = 之间的敌对
+② He showed open antagonism.
+= 他表现出公开的敌意。
+open antagonism = 公开对抗
+③ Antagonism towards reform grew.
+= 对改革的抵触加深了。
+词族：
+antagonist = 对手
+antagonize = 使敌对
+近义对照：
+antagonism = 对立（双方结构性）
+animosity = 积怨（个人情绪）
+hostility = 敌意（立场）
+
 antagonist
 核心：两条线：文学里与主角对立的"反派"，
 和一般意义上的"对手"。生化里还指"拮抗剂"。
@@ -376,41 +412,3 @@ antifreeze level = 防冻液液位
 相关词：
 coolant = 冷却液
 radiator = 散热器
-
-antipathy
-核心：指本能的"反感、厌恶"，正式。介词用 towards 或 to。
-不可数为主。
-① He feels antipathy towards bureaucracy.
-= 他对官僚作风深感反感。
-antipathy towards = 对…的反感
-② There is mutual antipathy.
-= 双方互有恶感。
-mutual antipathy = 相互反感
-③ Her antipathy was obvious.
-= 她的反感显而易见。
-构词：anti- 反 + path 感情
-反义词：
-sympathy = 同情、赞同
-近义对照：
-antipathy = 本能反感（正式）
-aversion = 厌恶（想躲开）
-dislike = 不喜欢（通用）
-
-antiquated
-核心：指制度、设备、观念"陈旧过时的"，贬义。
-比 old 带批评，暗示"早该换了"。
-① The system is antiquated.
-= 那套系统早就过时了。
-antiquated system = 老掉牙的系统
-② They use antiquated methods.
-= 他们用着陈旧的方法。
-antiquated method = 过时的方法
-③ The law is antiquated.
-= 那条法律早已不合时宜。
-词族：
-antique = 古董的
-antiquity = 古代
-近义对照：
-antiquated = 过时的（贬义）
-obsolete = 淘汰的（不再使用）
-outdated = 过时的（通用）

@@ -1,3 +1,35 @@
+adventure
+核心：指"有风险但让人兴奋的经历"。不可数时指冒险精神这种气质，
+可数时指一次具体的经历。
+① They went on an adventure.
+= 他们去冒险了。
+② He has a spirit of adventure.
+= 他有冒险精神。
+这里不可数。
+③ It was quite an adventure.
+= 那真是一段奇遇。
+词族：
+adventurous = 爱冒险的
+adventurer = 冒险家
+
+adventurer
+核心：两条线：喜欢冒险探索的"冒险家"（褒义），
+和为私利铤而走险的"投机者"（贬义）。靠语境判断。
+① She was a famous adventurer.
+= 她是位著名的探险家。
+② Adventurers explored the Arctic.
+= 冒险家们探索了北极。
+③ He was a political adventurer.
+= 他是个政治投机者。
+political adventurer = 政治投机分子
+词族：
+adventure = 冒险
+adventurous = 爱冒险的
+近义对照：
+adventurer = 冒险家（可褒可贬）
+explorer = 探险者（中性）
+opportunist = 机会主义者（贬义）
+
 adventurous
 核心：两条线：人"爱冒险的"，和事物"大胆新颖的"。
 说菜式、设计 adventurous 是褒义，指敢于创新。
@@ -425,38 +457,3 @@ aerobatic = 特技飞行的
 aerobatics = 特技飞行（飞机）
 acrobatics = 杂技（人体）
 aerobics = 有氧操（健身）
-
-aerobic
-核心：指"有氧的"。运动上是 aerobic exercise，生物学上指需要氧气
-的生物过程。复数名词 aerobics 指"有氧健身操"。
-① Running is aerobic exercise.
-= 跑步是有氧运动。
-aerobic exercise = 有氧运动
-② She does aerobics twice a week.
-= 她一周做两次有氧操。
-aerobics = 有氧健身操
-③ Aerobic bacteria need oxygen.
-= 好氧细菌需要氧气。
-常用搭配：
-aerobic capacity = 有氧能力
-aerobic fitness = 有氧体能
-反义词：
-aerobic 有氧 / anaerobic 无氧
-构词：aero- 空气 + bio- 生命
-
-aerobics
-核心：指有氧健身操这项运动，形式是复数但配单数动词。
-和 aerobic（形容词，有氧的）区分。
-① She does aerobics twice a week.
-= 她一周做两次有氧操。
-do aerobics = 做有氧操
-② Aerobics is good for the heart.
-= 有氧操对心脏好。
-配单数动词
-③ He teaches an aerobics class.
-= 他教有氧操课。
-aerobics class = 有氧操课程
-词族：
-aerobic = 有氧的
-注意：aerobics 指健身课程，
-aerobic exercise 指有氧运动这一类。

@@ -1,3 +1,75 @@
+addendum
+核心：指文件末尾追加的"附录、补充说明"，正式用语。
+注意复数是拉丁式的 addenda。
+① An addendum was attached.
+= 附上了一份补充说明。
+② See the addendum for details.
+= 详见附录。
+③ The contract has two addenda.
+= 那份合同有两个附件。
+注意复数：
+addendum → addenda
+近义对照：
+addendum = 追加补充（文件末尾）
+appendix = 附录（补充材料）
+supplement = 增补（单独成篇）
+
+addict
+核心：名词指"上瘾者"，前面常加成瘾对象：drug addict。口语里也
+半开玩笑地用（a chocolate addict）。动词 be addicted to 更常用。
+① He is a drug addict.
+= 他吸毒成瘾。
+drug addict = 瘾君子
+② She's a shopping addict.
+= 她是个购物狂。
+口语半开玩笑用法
+③ Addicts need treatment.
+= 成瘾者需要治疗。
+④ He became addicted to gambling.
+= 他染上了赌瘾。
+be addicted to = 对…上瘾
+词族：
+addiction = 瘾
+addictive = 使人上瘾的
+注意：to 是介词，后面接名词或 doing。
+
+addicted
+核心：指人"对某物上瘾的"，介词用 to，后接名词或 doing。
+医学义之外，口语里也半开玩笑地用。
+① He is addicted to gambling.
+= 他赌博成瘾。
+be addicted to = 对…上瘾
+② She's addicted to that show.
+= 她迷那部剧迷得不行。
+口语夸张用法
+③ Patients addicted to painkillers need help.
+= 止痛药成瘾的患者需要帮助。
+词族：
+addict = 成瘾者
+addiction = 瘾
+addictive = 使人上瘾的
+注意区别：
+addicted = 上瘾的（说人）
+addictive = 使人上瘾的（说物）
+
+addiction
+核心：指"成瘾"，可以是物质成瘾，也可以是行为成瘾。介词用 to。
+可数不可数都有：泛指时不可数，指具体某种瘾时可数。
+① He struggles with addiction.
+= 他在与成瘾抗争。
+不可数
+② She has an addiction to sugar.
+= 她对糖上瘾。
+an addiction to = 对…的瘾
+③ Gambling addiction is rising.
+= 赌博成瘾在增加。
+④ They treat drug addiction.
+= 他们治疗药物成瘾。
+词族：
+addict = 成瘾者
+addictive = 使人上瘾的
+注意：不说 addiction of。
+
 addictive
 核心：形容事物"让人上瘾"，可以是药物，也可以是游戏、剧集。
 注意主语是引起上瘾的东西，不是人——人上瘾用 addicted。
@@ -287,24 +359,6 @@ adhesive 粘合剂（正式、技术）
 glue 胶水（通用）
 paste 糨糊（稀的）
 
-ad hoc
-核心：拉丁语借词，指"为这一件事临时设立的"，不是常设的。
-既作形容词也作副词。常见 an ad hoc committee。
-① They set up an ad hoc committee.
-= 他们成立了个临时委员会。
-ad hoc committee = 特设委员会
-② Decisions were made ad hoc.
-= 决定是临时做的。
-③ It's an ad hoc arrangement.
-= 那是临时安排。
-ad hoc arrangement = 临时安排
-注意：ad hoc 常带"没章法、没规划"
-的隐含批评。
-近义对照：
-ad hoc = 临时特设（针对单一事项）
-temporary = 暂时的（时间上）
-improvised = 临场发挥的
-
 adjacent
 核心：指"紧挨着的、相邻的"，比 near 精确——一定是直接挨着。
 介词用 to。几何上指"邻边、邻角"。
@@ -398,57 +452,3 @@ adjournment = 休会
 adjourn 休会（正式，会重开）
 postpone 推迟（改到以后）
 cancel 取消（不再进行）
-
-adjournment
-核心：指会议或庭审的"休会、延期"，也指休会的那段时间。
-正式用语，议会和法庭报道里高频。
-① The adjournment lasted an hour.
-= 休会持续了一小时。
-② They moved for an adjournment.
-= 他们动议休会。
-move for an adjournment = 提议休会
-③ The court granted an adjournment.
-= 法庭准予延期。
-grant an adjournment = 批准延期
-词族：
-adjourn = 休会
-近义对照：
-adjournment = 休会（会重开）
-postponement = 延期（改到以后）
-recess = 休庭、休会（短暂）
-
-adjudicate
-核心：指以裁判或仲裁人身份"裁决"争端。正式用语，多用于法律、
-比赛、投诉处理。介词用 on 或 in。
-① A judge adjudicated the dispute.
-= 一位法官裁决了那场纠纷。
-② She adjudicates on planning appeals.
-= 她裁决规划上诉案。
-adjudicate on = 就…作出裁决
-③ He adjudicated at the competition.
-= 他在那场比赛担任评委。
-词族：
-adjudication = 裁决
-adjudicator = 裁决人、评委
-近义对照：
-adjudicate 裁决（有权作决定）
-judge 评判（通用）
-mediate 调解（不作决定）
-
-adjudication
-核心：指由有权者作出的"裁决"，正式用语。法律、仲裁、
-比赛评审都用。
-① The case awaits adjudication.
-= 那个案子等待裁决。
-await adjudication = 等待裁决
-② Adjudication took three months.
-= 裁决花了三个月。
-③ The panel's adjudication is final.
-= 评审团的裁定是终局的。
-词族：
-adjudicate = 裁决
-adjudicator = 裁决人
-近义对照：
-adjudication = 裁决（有权作决定）
-mediation = 调解（不作决定）
-arbitration = 仲裁（双方约定）

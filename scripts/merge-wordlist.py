@@ -4,6 +4,8 @@
 用法: python3 scripts/merge-wordlist.py A 5000
 """
 import sys, glob, io, os, re
+sys.path.insert(0, 'scripts')
+from wordkey import sort_key
 
 def main(prefix, size):
     files = sorted(glob.glob(f"wordlists/{prefix}-[0-9]*-[0-9]*.txt"))

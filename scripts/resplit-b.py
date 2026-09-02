@@ -14,8 +14,10 @@
 用法: python3 scripts/resplit-b.py [每批条数，默认 25]
 """
 import sys, io, glob, os
+sys.path.insert(0, 'scripts')
+from wordkey import sort_key
 
-KEY = lambda s: s.lower().replace(' ', '').replace('-', '').replace('.', '')
+KEY = sort_key   # 共用排序键，见 scripts/wordkey.py
 SIZE_DEFAULT = 25
 
 def main(size):

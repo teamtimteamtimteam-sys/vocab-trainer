@@ -1,3 +1,40 @@
+active
+核心：底层是"在动、在起作用"。人在动是"活跃、好动"，物质在起作用
+是"有活性的"，火山在动是"活的"，语法上主语在动是"主动语态"。
+① She leads an active life.
+= 她过着充实忙碌的生活。
+② He is active in local politics.
+= 他积极参与地方政治。
+be active in = 积极参与
+③ It's an active volcano.
+= 那是座活火山。
+④ The active ingredient is caffeine.
+= 有效成分是咖啡因。
+这里：
+active = 有活性的
+⑤ Use the active voice.
+= 用主动语态。
+反义词：
+active 主动 / passive 被动
+词族：actively = 积极地
+
+actively
+核心：指"积极主动地"，与被动等待相对。常修饰 seek、encourage、
+participate、pursue 这类动词。
+① They are actively seeking staff.
+= 他们正在积极招人。
+actively seek = 积极寻求
+② She actively participates.
+= 她积极参与。
+actively participate = 主动参与
+③ We actively encourage feedback.
+= 我们积极鼓励反馈。
+词族：
+active = 积极的
+activity = 活动
+反义词：
+passively = 被动地
+
 activism
 核心：指为推动社会或政治变革而进行的积极行动，不可数。前面常加
 限定：political / environmental / online activism。
@@ -239,6 +276,42 @@ ad break = 广告时段
 美式 ad / 英式 advert
 两边都可用 advertisement（正式）
 
+ad hoc
+核心：拉丁语借词，指"为这一件事临时设立的"，不是常设的。
+既作形容词也作副词。常见 an ad hoc committee。
+① They set up an ad hoc committee.
+= 他们成立了个临时委员会。
+ad hoc committee = 特设委员会
+② Decisions were made ad hoc.
+= 决定是临时做的。
+③ It's an ad hoc arrangement.
+= 那是临时安排。
+ad hoc arrangement = 临时安排
+注意：ad hoc 常带"没章法、没规划"
+的隐含批评。
+近义对照：
+ad hoc = 临时特设（针对单一事项）
+temporary = 暂时的（时间上）
+improvised = 临场发挥的
+
+ad lib
+核心：指演出或讲话时"即兴发挥、临时现编"。
+可作动词、形容词、副词。也写作 ad-lib。
+① He ad libbed the whole speech.
+= 那篇讲话他全是即兴的。
+② She made an ad lib remark.
+= 她即兴说了句话。
+ad lib remark = 即兴发言
+③ The actor spoke ad lib.
+= 那名演员是现编台词。
+注意拼写：
+ad lib / ad-lib 都可以
+词源：拉丁语 ad libitum（随意）
+近义对照：
+ad lib = 即兴现编（无稿）
+improvise = 即兴创作（通用）
+wing it = 临场应付（口语）
+
 adage
 核心：指流传已久的"格言、老话"，通常讲的是常识性道理。
 常见搭配 the old adage that…。
@@ -370,75 +443,3 @@ add up = 加起来说得通
 = 加起来是五百。
 add up to = 总计为
 词族：addition、additional
-
-addendum
-核心：指文件末尾追加的"附录、补充说明"，正式用语。
-注意复数是拉丁式的 addenda。
-① An addendum was attached.
-= 附上了一份补充说明。
-② See the addendum for details.
-= 详见附录。
-③ The contract has two addenda.
-= 那份合同有两个附件。
-注意复数：
-addendum → addenda
-近义对照：
-addendum = 追加补充（文件末尾）
-appendix = 附录（补充材料）
-supplement = 增补（单独成篇）
-
-addict
-核心：名词指"上瘾者"，前面常加成瘾对象：drug addict。口语里也
-半开玩笑地用（a chocolate addict）。动词 be addicted to 更常用。
-① He is a drug addict.
-= 他吸毒成瘾。
-drug addict = 瘾君子
-② She's a shopping addict.
-= 她是个购物狂。
-口语半开玩笑用法
-③ Addicts need treatment.
-= 成瘾者需要治疗。
-④ He became addicted to gambling.
-= 他染上了赌瘾。
-be addicted to = 对…上瘾
-词族：
-addiction = 瘾
-addictive = 使人上瘾的
-注意：to 是介词，后面接名词或 doing。
-
-addicted
-核心：指人"对某物上瘾的"，介词用 to，后接名词或 doing。
-医学义之外，口语里也半开玩笑地用。
-① He is addicted to gambling.
-= 他赌博成瘾。
-be addicted to = 对…上瘾
-② She's addicted to that show.
-= 她迷那部剧迷得不行。
-口语夸张用法
-③ Patients addicted to painkillers need help.
-= 止痛药成瘾的患者需要帮助。
-词族：
-addict = 成瘾者
-addiction = 瘾
-addictive = 使人上瘾的
-注意区别：
-addicted = 上瘾的（说人）
-addictive = 使人上瘾的（说物）
-
-addiction
-核心：指"成瘾"，可以是物质成瘾，也可以是行为成瘾。介词用 to。
-可数不可数都有：泛指时不可数，指具体某种瘾时可数。
-① He struggles with addiction.
-= 他在与成瘾抗争。
-不可数
-② She has an addiction to sugar.
-= 她对糖上瘾。
-an addiction to = 对…的瘾
-③ Gambling addiction is rising.
-= 赌博成瘾在增加。
-④ They treat drug addiction.
-= 他们治疗药物成瘾。
-词族：
-addict = 成瘾者
-addictive = 使人上瘾的
-注意：不说 addiction of。

@@ -1,3 +1,52 @@
+airfare
+核心：指飞机票价，可数。美式更常用，
+英式也说 air fare（分写）。
+① Airfares have risen.
+= 机票价格上涨了。
+② The airfare is included.
+= 机票费用已含。
+③ She paid her own airfare.
+= 她自付机票钱。
+pay one's own airfare = 自付机票
+注意拼写：
+airfare / air fare 都可以。
+相关词：
+fare = 车船票价
+ticket price = 票价（通用）
+
+airfield
+核心：指小型的"飞机场"，通常没有航站楼，用于通用航空
+或军事。比 airport 简陋。
+① The plane landed at a small airfield.
+= 飞机降落在一个小机场。
+② The airfield was disused.
+= 那个机场已经废弃。
+disused airfield = 废弃机场
+③ Military airfields are restricted.
+= 军用机场限制进入。
+注意区别：
+airport = 民航机场（有航站楼）
+airfield = 小型机场、军用机场
+airstrip = 简易跑道
+
+airflow
+核心：指空气的"流动、气流"，不可数。
+建筑通风、汽车设计、呼吸医学都用。
+① Good airflow keeps it cool.
+= 良好气流能保持凉爽。
+good airflow = 通风良好
+② The design improves airflow.
+= 那个设计改善了气流。
+improve airflow = 改善气流
+③ Airflow was restricted.
+= 气流受阻。
+词族：
+flow = 流动
+近义对照：
+airflow = 气流（技术）
+draught = 穿堂风（英式，常不受欢迎）
+breeze = 微风（自然）
+
 airgun
 核心：指用压缩空气发射弹丸的"气枪"，威力小于火药枪。
 英式也写 air gun。
@@ -202,23 +251,6 @@ at the airport = 在机场
 airport 民用机场
 airfield 小型机场、军用机场
 
-air raid
-核心：指从空中发动的"空袭"。二战和现代冲突报道里高频。
-可数，两个词分写。
-① The city suffered air raids.
-= 那座城市遭到空袭。
-suffer air raids = 遭受空袭
-② Air raid sirens sounded.
-= 空袭警报响了。
-air raid siren = 空袭警报
-③ They sheltered during the air raid.
-= 空袭时他们躲了起来。
-air raid shelter = 防空洞
-近义对照：
-air raid = 空袭（一次行动）
-airstrike = 空中打击（军事术语）
-bombing = 轰炸（通用）
-
 airship
 核心：指飞艇——靠轻于空气的气体升空、有动力可操纵的飞行器。
 和不可操纵的 balloon 区分。
@@ -365,35 +397,3 @@ airless = 不通风的
 词族：airily = 满不在乎地
 常用搭配：
 airy-fairy = 不切实际的（英式口语）
-
-aisle
-核心：指飞机、剧院、教堂、超市里两排座位或货架之间的"通道"。
-注意 s 不发音，这是高频读错点。
-① I prefer an aisle seat.
-= 我更喜欢靠通道的座位。
-aisle seat = 过道座位
-② She walked down the aisle.
-= 她走过教堂通道（出嫁）。
-walk down the aisle = 结婚
-③ It's in aisle five.
-= 那在第五排货架。
-④ Please keep the aisle clear.
-= 请保持通道畅通。
-注意发音：
-aisle 读 /aɪl/，与 isle 同音，
-s 不发音。
-
-ajar
-核心：只用来形容门窗"微微开着一条缝"。只作表语，几乎只和 door
-连用。搭配 leave the door ajar，比喻义是"留个余地"。
-① The door was ajar.
-= 门虚掩着。
-② Leave the window ajar.
-= 把窗户留条缝。
-leave ajar = 留一条缝
-③ He left the door ajar for her.
-= 他给她把门留了条缝。
-比喻用法：
-leave the door ajar = 留有余地
-注意：ajar 只作表语，
-不说 an ajar door。

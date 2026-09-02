@@ -1,3 +1,40 @@
+acclaim
+核心：指"公开的高度赞誉"，比 praise 隆重得多，多用于艺术作品和
+成就。名词不可数，动词常用被动 be acclaimed as。
+① The film won critical acclaim.
+= 那部电影赢得了评论界赞誉。
+critical acclaim = 评论界好评
+② She was acclaimed as a genius.
+= 她被誉为天才。
+be acclaimed as = 被誉为
+③ The book received wide acclaim.
+= 那本书广受好评。
+④ It's an acclaimed novel.
+= 那是部广受赞誉的小说。
+词族：
+acclaimed = 广受赞誉的
+近义对照：
+acclaim 公开赞誉（隆重）
+praise 表扬（通用）
+applause 掌声（字面）
+
+acclaimed
+核心：指作品或人"广受赞誉的"，只作定语。
+最高频的搭配是 critically acclaimed。
+① It's a critically acclaimed film.
+= 那是部广受好评的电影。
+critically acclaimed = 评论界盛赞的
+② She is an acclaimed novelist.
+= 她是位备受赞誉的小说家。
+acclaimed novelist = 知名小说家
+③ The album was widely acclaimed.
+= 那张专辑广获好评。
+widely acclaimed = 广受赞誉
+词族：
+acclaim = 赞誉
+注意：critically acclaimed 指
+"评论界叫好"，未必卖座。
+
 acclamation
 核心：指热烈的欢呼喝彩。政治语境里的 elected by acclamation
 指"以欢呼方式一致通过"，即不用正式投票。
@@ -264,6 +301,23 @@ in accordance with 依照（规则、法律）
 according to 据…所说（信息来源）
 注意：accordance 几乎不单独使用。
 
+according to
+核心：两个用法。一是引出信息来源，"据…说"——注意它暗示这只是
+对方的说法，不代表你认同。二是表示"按照、依据"某个标准。
+不能说 according to me，要说 in my opinion。
+① According to the report, sales rose.
+= 据那份报告，销量上升了。
+② According to him, she's leaving.
+= 照他的说法，她要走了。
+③ Arrange the files according to date.
+= 按日期排列文件。
+这里：
+according to = 依照
+④ Everything went according to plan.
+= 一切按计划进行。
+go according to plan = 按计划进行
+注意：不说 according to me。
+
 accordingly
 核心：两个用法：一是"因此、于是"（表结果，比 so 正式），
 二是"相应地"（按照情况调整）。学术和商务写作里都高频。
@@ -282,23 +336,6 @@ adjust accordingly = 相应调整
 accordingly 因此（正式）
 therefore 因此（论证）
 so 所以（口语）
-
-according to
-核心：两个用法。一是引出信息来源，"据…说"——注意它暗示这只是
-对方的说法，不代表你认同。二是表示"按照、依据"某个标准。
-不能说 according to me，要说 in my opinion。
-① According to the report, sales rose.
-= 据那份报告，销量上升了。
-② According to him, she's leaving.
-= 照他的说法，她要走了。
-③ Arrange the files according to date.
-= 按日期排列文件。
-这里：
-according to = 依照
-④ Everything went according to plan.
-= 一切按计划进行。
-go according to plan = 按计划进行
-注意：不说 according to me。
 
 accordion
 核心：指手风琴。演奏者叫 accordionist。形容词性用法
@@ -401,32 +438,3 @@ hold someone accountable = 追究责任
 注意区别：
 responsible 有责任（该做）
 accountable 须问责（要交代）
-
-accountancy
-核心：英式用语，指会计这个行业或专业。美式和国际上更常说
-accounting。不可数。
-① She trained in accountancy.
-= 她学的是会计专业。
-train in accountancy = 学会计
-② Accountancy firms are hiring.
-= 会计师事务所在招人。
-accountancy firm = 会计师事务所
-③ He left law for accountancy.
-= 他从法律转行做会计。
-注意英美差别：
-英式 accountancy = 会计行业
-美式 accounting = 会计（学科与行业）
-词族：accountant = 会计师
-
-accountant
-核心：指以记账、报税、审计为职业的人。注意和 accounting（会计
-这门学科和工作）区分。
-① She works as an accountant.
-= 她做会计。
-② Ask your accountant about the tax.
-= 税的事问你的会计。
-③ He is a chartered accountant.
-= 他是特许会计师。
-词族：
-accounting = 会计（学科、工作）
-accountancy = 会计业（英式）

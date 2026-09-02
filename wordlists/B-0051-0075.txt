@@ -1,3 +1,52 @@
+abnormality
+核心：指"异常之处"，可数用于具体的异常，不可数用于异常这个性质。
+医学语境最常见：genetic abnormality、heart abnormality。
+① Tests revealed an abnormality.
+= 检查发现了一处异常。
+② There was a genetic abnormality.
+= 存在一处基因异常。
+genetic abnormality = 基因异常
+③ No abnormality was detected.
+= 未检出异常。
+注意复数：
+abnormality → abnormalities
+词族：
+abnormal = 异常的
+反义词：
+normality = 正常状态
+
+abnormally
+核心：abnormal 的副词，"反常地、异常地"。最常见的是修饰
+形容词表示程度超出常态：abnormally high / low / cold。
+① Temperatures are abnormally high.
+= 气温异常偏高。
+abnormally high = 异常偏高
+② The results were abnormally low.
+= 结果异常偏低。
+③ He behaved abnormally.
+= 他举止反常。
+词族：
+abnormal = 异常的
+abnormality = 异常
+近义对照：
+abnormally = 反常地（暗示不该如此）
+unusually = 不寻常地（中性）
+
+aboard
+核心：表示"在（船、飞机、火车、大巴）上"或"上到…上面"。只用于
+交通工具，不能说 aboard a car。既是介词也是副词。
+① Welcome aboard!
+= 欢迎登机（登船）！
+也用来欢迎新同事加入。
+② There were 200 passengers aboard the plane.
+= 机上有两百名乘客。
+③ All aboard!
+= 请大家上车（上船）！
+注意区别：
+aboard = 在交通工具上
+on board = 同义，写成两个词
+abroad = 在国外（拼写只差一点）
+
 abode
 核心：正式或戏谑的"住所"。现在几乎只活在两个搭配里：
 place of abode（法律用语）和 right of abode（居留权）。
@@ -408,54 +457,3 @@ an abridgement of = …的节本
 英式 abridgement / 美式 abridgment
 词族：
 abridge = 删节
-
-abroad
-核心：指"在国外、到国外"，本身已含介词意味，所以前面不加 to 或
-in——go abroad 不说 go to abroad，这是高频错误。
-① She lives abroad.
-= 她住在国外。
-② He went abroad to study.
-= 他出国留学了。
-go abroad = 出国
-③ News of the defeat soon spread abroad.
-= 战败的消息很快传开了。
-这里是旧式用法：
-abroad = 广泛流传
-常用搭配：
-from abroad = 从国外
-at home and abroad = 国内外
-
-abrogate
-核心：极正式的法律用语，指正式"废除、撤销"条约、法律、权利。
-比 abolish 更技术化，多见于国际法文本。
-① The treaty was abrogated.
-= 那项条约被废除了。
-abrogate a treaty = 废除条约
-② They abrogated the agreement.
-= 他们撤销了那份协议。
-③ Rights cannot be abrogated.
-= 权利不可被剥夺。
-词族：
-abrogation = 废除
-近义对照：
-abrogate = 废除（条约、法律，极正式）
-abolish = 废除（制度）
-repeal = 废止（成文法条）
-revoke = 撤销（许可、命令）
-
-abrupt
-核心：核心义是"没有过渡的、突然中断的"。用于事件时指"猝然"，
-用于人的态度时指"话说得又短又冲"，后者是贬义。
-① The meeting came to an abrupt end.
-= 会议戛然而止。
-② There was an abrupt change in the weather.
-= 天气突变。
-③ He was abrupt with me on the phone.
-= 他在电话里对我很冲。
-这里：
-abrupt = 唐突无礼的
-副词形式：
-abruptly = 突然地、唐突地
-注意区别：
-abrupt = 突然（常含不悦）
-sudden = 突然（中性）

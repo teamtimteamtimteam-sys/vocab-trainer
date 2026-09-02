@@ -13,6 +13,8 @@ ap-，漏掉了 ao-（aorta、aortic、AOB）；更早还漏了 aa-（aardvark�
 用法: python3 scripts/audit-prefix.py [首字母，默认全部]
 """
 import sys, io, glob, string
+sys.path.insert(0, 'scripts')
+from wordkey import sort_key, prefix
 from collections import Counter
 
 # 各字母下确实存在牛津高阶词条的双字母前缀。逐个字母核对后填进来 ——
@@ -21,22 +23,28 @@ EXPECT = {
     'a': ['a'+c for c in string.ascii_lowercase],
 }
 
-KEY = lambda s: s.lower().replace(' ', '').replace('-', '').replace('.', '')
+KEY = sort_key   # 共用排序键，见 scripts/wordkey.py
 
 def main(letter=None):
     w = []
     for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
         for b in io.open(f, encoding='utf-8').read().split('\n\n'):
             if b.strip(): w.append(b.strip().split('\n')[0])
-    c = Counter(KEY(x)[:2] for x in w if len(KEY(x)) >= 2)
-    letters = [letter] if letter else sorted({KEY(x)[0] for x in w})
+    c = Counter(prefix(x) for x in w)
+    letters = [letter] if letter else sorted({prefix(x, 1) for x in w})
     gaps = []
     for L in letters:
         row = [(L + ch, c.get(L + ch, 0)) for ch in string.ascii_lowercase]
         nz = [i for i, (_, n) in enumerate(row) if n]
         if not nz: continue
         lo, hi = nz[0], nz[-1]
-        print(f"\n{L}- 段（共 {sum(n for _, n in row)} 条）")
+        # 首词只有一个字母的条目（a、a cappella、a priori）归不进双字母段，
+        # 单列出来，否则表里的合计会和总数对不上，看着像丢了词。
+        solo = [x for x in w if prefix(x) == L]
+        head = f"\n{L}- 段（共 {sum(n for _, n in row) + len(solo)} 条）"
+        print(head)
+        if solo:
+            print(f"  「{L}」及以「{L} 」开头的多词条目 {len(solo)} 条：{' '.join(solo)}")
         for i in range(0, 26, 6):
             print("  " + "  ".join(f"{p} {n:4}" if n else f"{p}    ·" for p, n in row[i:i+6]))
         # 只查「内部空段」是不够的 —— 顺序推进时漏段总发生在前沿，

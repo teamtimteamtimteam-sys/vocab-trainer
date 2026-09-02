@@ -1,3 +1,37 @@
+anger
+核心：不可数名词，指"愤怒"这种情绪。动词义是"激怒"。注意
+in anger 是"在气头上"，不是"生气地"（那是 angrily）。
+① He couldn't hide his anger.
+= 他掩饰不住怒气。
+不可数，不加 s。
+② She said it in anger.
+= 她是在气头上说的。
+in anger = 一时气愤之下
+③ The decision angered many.
+= 那个决定激怒了很多人。
+这里是动词。
+词族：
+angry = 生气的
+angrily = 生气地
+程度：
+annoyance 恼火 < anger 愤怒 < rage 暴怒
+
+angina
+核心：医学词，指心绞痛——冠状动脉供血不足引起的胸痛。
+全称 angina pectoris。不可数。
+① He suffers from angina.
+= 他有心绞痛。
+suffer from angina = 患心绞痛
+② Angina causes chest pain.
+= 心绞痛引起胸痛。
+chest pain = 胸痛
+③ The angina was triggered by exertion.
+= 那次心绞痛是用力引发的。
+注意发音：/ænˈdʒaɪnə/，
+重音在第二音节。
+相关词：
+heart attack = 心肌梗死（更严重）
+
 angle
 核心：几何上是"角"，摄影上是"角度"，比喻上是看问题的"视角"。
 动词义是"把…斜置"或"从某角度报道"。
@@ -401,41 +435,3 @@ anniversary → anniversaries
 注意区别：
 anniversary 周年纪念（按年）
 birthday 生日（人的）
-
-annotate
-核心：指给文本"加注释、批注"。学术和编辑工作里常用。
-形容词 annotated 常出现在书名里：an annotated edition。
-① She annotated the manuscript.
-= 她给那份手稿加了批注。
-annotate a text = 给文本加注
-② It's an annotated edition.
-= 那是个注释版。
-annotated edition = 注释本
-③ Please annotate your code.
-= 请给你的代码加注释。
-④ The map is annotated.
-= 那张地图有标注。
-词族：
-annotation = 注释
-近义对照：
-annotate 加注释（说明性）
-comment 评论（可主观）
-label 标注（贴标签）
-
-annotation
-核心：指加在文本上的"注释、批注"，也指加注这个行为。
-学术和编辑工作常用。
-① The annotations are helpful.
-= 那些注释很有用。
-② He added annotations in the margin.
-= 他在页边加了批注。
-in the margin = 在页边
-③ Annotation takes time.
-= 加注释很费时间。
-词族：
-annotate = 加注释
-annotated = 有注释的
-近义对照：
-annotation = 注释（说明性）
-footnote = 脚注（页底）
-marginalia = 页边批注

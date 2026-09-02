@@ -1,3 +1,38 @@
+algorithm
+核心：指解决问题的一套明确步骤，计算机科学核心词。现在日常也常
+指社交平台的"推荐算法"。注意结尾拼写是 -thm，不是 -thim。
+① The algorithm sorts the data.
+= 那个算法给数据排序。
+② Social media algorithms shape what we see.
+= 社交媒体算法决定我们看到什么。
+③ They improved the search algorithm.
+= 他们改进了搜索算法。
+search algorithm = 搜索算法
+词族：
+algorithmic = 算法的
+常用搭配：
+recommendation algorithm = 推荐算法
+注意拼写：algorithm 结尾 -thm。
+
+alias
+核心：名词指"化名、别名"，介词用法是"又名"（放在两个名字之间）。
+计算机里还指命令的"别名"。
+① He used an alias.
+= 他用了个化名。
+use an alias = 使用化名
+② John Smith, alias Peter Brown.
+= 约翰·史密斯，又名彼得·布朗。
+③ Set up a shell alias.
+= 设置一个命令别名。
+shell alias = 命令别名
+注意复数：
+alias → aliases
+近义对照：
+alias = 化名（掩饰身份）
+pseudonym = 笔名（写作用）
+pen name = 笔名（同义）
+nickname = 绰号（亲昵或戏称）
+
 alibi
 核心：法律用语，指"不在场证明"。比喻义在口语里指"借口"。
 介词用 for。
@@ -242,6 +277,40 @@ above all = 最重要的是
 = 总共有五十个。
 in all = 总计
 
+all right
+核心：三条线：状态"没事的"、质量"还行"、以及表示同意的"好吧"。
+标准写法是分开两个词——alright 虽常见但不被正式文体接受。
+① Are you all right?
+= 你没事吧？
+be all right = 安好
+② The film was all right.
+= 那部电影还行。
+这里只是"及格"，不是夸
+③ All right, I'll do it.
+= 好吧，我来做。
+表示同意
+④ It turned out all right.
+= 结果还不错。
+turn out all right = 结果没问题
+注意拼写：
+正式文体用 all right（两个词）。
+
+all-round
+核心：指人"全能的、多面手的"，或表现"全面的"。英式用法，
+美式说 all-around。只作定语。
+① He is an all-round athlete.
+= 他是个全能运动员。
+all-round athlete = 全能运动员
+② It was an all-round improvement.
+= 那是全方位的提升。
+all-round improvement = 全面改善
+③ She has all-round ability.
+= 她能力很全面。
+注意英美差别：
+英式 all-round / 美式 all-around
+词族：
+all-rounder = 多面手（英式）
+
 allay
 核心：指"减轻、平息（担忧、恐惧、疑虑）"，正式。
 宾语几乎总是负面情绪：fears、concerns、doubts、suspicions。
@@ -389,79 +458,3 @@ allegory → allegories
 allegory = 寓言（整部作品）
 fable = 寓言故事（多以动物讲道理）
 parable = 比喻故事（宗教训诫）
-
-allergen
-核心：指引起过敏反应的"过敏原"，如花粉、尘螨、坚果。
-医学和食品标签用语。可数。
-① Pollen is a common allergen.
-= 花粉是常见过敏原。
-common allergen = 常见过敏原
-② Labels must list allergens.
-= 标签必须标明过敏原。
-list allergens = 标注过敏原
-③ They removed the allergen.
-= 他们去除了那种过敏原。
-词族：
-allergy = 过敏
-allergic = 过敏的
-构词：allerg- 过敏 + -gen 产生者
-同类构词：
-carcinogen = 致癌物
-pathogen = 病原体
-
-allergic
-核心：医学上指"过敏的"，介词用 to；口语里比喻指"极其反感"。
-后者是半开玩笑的用法。
-① She is allergic to nuts.
-= 她对坚果过敏。
-be allergic to = 对…过敏
-② He had an allergic reaction.
-= 他出现了过敏反应。
-allergic reaction = 过敏反应
-③ I'm allergic to housework.
-= 我对做家务过敏。
-口语夸张用法
-④ Allergic symptoms appeared.
-= 出现了过敏症状。
-词族：allergy = 过敏
-注意：allergic 只作表语时用 to，
-作定语时直接修饰名词。
-
-allergy
-核心：指过敏症本身，可数。介词用 to。和 allergic 配对：
-have an allergy to 等于 be allergic to。
-① She has a nut allergy.
-= 她对坚果过敏。
-nut allergy = 坚果过敏
-② He has an allergy to pollen.
-= 他对花粉过敏。
-an allergy to = 对…的过敏
-③ Food allergies are common.
-= 食物过敏很常见。
-food allergy = 食物过敏
-注意复数：
-allergy → allergies
-词族：
-allergic = 过敏的
-allergen = 过敏原
-两种说法等价：
-have an allergy to = be allergic to
-
-alleviate
-核心：指"减轻（痛苦、问题、负担）"，正式用语。宾语一定是不好的
-东西：pain、poverty、stress、symptoms。不能说 alleviate happiness。
-① The drug alleviates pain.
-= 那种药能减轻疼痛。
-alleviate pain = 缓解疼痛
-② Measures to alleviate poverty are needed.
-= 需要扶贫措施。
-alleviate poverty = 减轻贫困
-③ It alleviated my concerns.
-= 那减轻了我的顾虑。
-词族：
-alleviation = 缓解
-近义对照：
-alleviate 减轻（正式，宾语是坏事）
-relieve 缓解（通用）
-ease 减轻（较口语）
-mitigate 缓和（减轻严重程度）

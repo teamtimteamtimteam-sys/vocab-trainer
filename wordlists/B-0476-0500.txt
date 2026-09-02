@@ -1,3 +1,33 @@
+agronomy
+核心：指农学——研究作物生产和土壤管理的学科。
+不可数。从业者叫 agronomist。
+① She studies agronomy.
+= 她学农学。
+② Agronomy improves crop yields.
+= 农学能提高作物产量。
+crop yield = 作物产量
+③ The agronomist advised the farmers.
+= 那位农艺师给农民做了指导。
+agronomist = 农艺师
+词族：
+agronomic = 农学的
+构词：agro- 田地 + -nomy 学科
+同类：economy、astronomy
+
+aground
+核心：航海用语，指船"搁浅"。只作表语，几乎只和 run 或 go 连用。
+① The ship ran aground.
+= 那艘船搁浅了。
+run aground = 搁浅
+② The boat went aground in fog.
+= 那条船在雾中搁浅了。
+③ The tanker lay aground.
+= 那艘油轮搁浅在那里。
+比喻用法：
+plans run aground = 计划受阻
+注意：aground 只作表语，
+不放在名词前。
+
 ague
 核心：古旧词，指伴有寒战和发热的"疟疾、寒热病"。
 现在只见于历史文本和文学作品，医学上说 malaria。
@@ -270,6 +300,56 @@ on air = 播出中
 = 那事还没定。
 up in the air = 悬而未决
 
+air conditioning
+核心：指空调这套系统或这项功能，不可数。
+口语缩写 air con（英式）或 AC（美式）。
+① The air conditioning broke down.
+= 空调坏了。
+② Does the room have air conditioning?
+= 那个房间有空调吗？
+③ Turn on the air con.
+= 把空调打开。
+air con = 空调（英式口语）
+注意英美差别：
+英式 air con / 美式 AC
+词族：
+air-conditioned = 有空调的
+注意：设备本身叫 air conditioner。
+
+air force
+核心：指一国的"空军"。和 army（陆军）、navy（海军）配对。
+专有名词里大写，如 the Royal Air Force。
+① He joined the air force.
+= 他参加了空军。
+join the air force = 参军入空军
+② The air force conducted drills.
+= 空军进行了演习。
+③ She served in the Royal Air Force.
+= 她曾在皇家空军服役。
+the Royal Air Force = 英国皇家空军
+军种对照：
+army = 陆军
+navy = 海军
+air force = 空军
+marines = 海军陆战队
+
+air raid
+核心：指从空中发动的"空袭"。二战和现代冲突报道里高频。
+可数，两个词分写。
+① The city suffered air raids.
+= 那座城市遭到空袭。
+suffer air raids = 遭受空袭
+② Air raid sirens sounded.
+= 空袭警报响了。
+air raid siren = 空袭警报
+③ They sheltered during the air raid.
+= 空袭时他们躲了起来。
+air raid shelter = 防空洞
+近义对照：
+air raid = 空袭（一次行动）
+airstrike = 空中打击（军事术语）
+bombing = 轰炸（通用）
+
 airbag
 核心：指汽车里的"安全气囊"。可数。
 和 seat belt 一起构成被动安全系统。
@@ -316,22 +396,6 @@ airbrush out of = 从…中抹掉
 注意：airbrush 作比喻义时
 含"掩饰真相"的批评意味。
 
-air conditioning
-核心：指空调这套系统或这项功能，不可数。
-口语缩写 air con（英式）或 AC（美式）。
-① The air conditioning broke down.
-= 空调坏了。
-② Does the room have air conditioning?
-= 那个房间有空调吗？
-③ Turn on the air con.
-= 把空调打开。
-air con = 空调（英式口语）
-注意英美差别：
-英式 air con / 美式 AC
-词族：
-air-conditioned = 有空调的
-注意：设备本身叫 air conditioner。
-
 aircraft
 核心：泛指一切飞行器，飞机、直升机、滑翔机都算。单复数同形——
 这是最容易错的地方，不说 aircrafts。
@@ -361,69 +425,3 @@ aircrew training = 机组培训
 flight crew = 飞行机组
 cabin crew = 客舱乘务组
 ground crew = 地勤
-
-airfare
-核心：指飞机票价，可数。美式更常用，
-英式也说 air fare（分写）。
-① Airfares have risen.
-= 机票价格上涨了。
-② The airfare is included.
-= 机票费用已含。
-③ She paid her own airfare.
-= 她自付机票钱。
-pay one's own airfare = 自付机票
-注意拼写：
-airfare / air fare 都可以。
-相关词：
-fare = 车船票价
-ticket price = 票价（通用）
-
-airfield
-核心：指小型的"飞机场"，通常没有航站楼，用于通用航空
-或军事。比 airport 简陋。
-① The plane landed at a small airfield.
-= 飞机降落在一个小机场。
-② The airfield was disused.
-= 那个机场已经废弃。
-disused airfield = 废弃机场
-③ Military airfields are restricted.
-= 军用机场限制进入。
-注意区别：
-airport = 民航机场（有航站楼）
-airfield = 小型机场、军用机场
-airstrip = 简易跑道
-
-airflow
-核心：指空气的"流动、气流"，不可数。
-建筑通风、汽车设计、呼吸医学都用。
-① Good airflow keeps it cool.
-= 良好气流能保持凉爽。
-good airflow = 通风良好
-② The design improves airflow.
-= 那个设计改善了气流。
-improve airflow = 改善气流
-③ Airflow was restricted.
-= 气流受阻。
-词族：
-flow = 流动
-近义对照：
-airflow = 气流（技术）
-draught = 穿堂风（英式，常不受欢迎）
-breeze = 微风（自然）
-
-air force
-核心：指一国的"空军"。和 army（陆军）、navy（海军）配对。
-专有名词里大写，如 the Royal Air Force。
-① He joined the air force.
-= 他参加了空军。
-join the air force = 参军入空军
-② The air force conducted drills.
-= 空军进行了演习。
-③ She served in the Royal Air Force.
-= 她曾在皇家空军服役。
-the Royal Air Force = 英国皇家空军
-军种对照：
-army = 陆军
-navy = 海军
-air force = 空军
-marines = 海军陆战队

@@ -1,3 +1,53 @@
+abdomen
+核心：解剖学上指腹部，比日常的 stomach 或 belly 正式，多用于医学
+文本。昆虫身体的第三节也叫 abdomen。
+① He felt pain in his abdomen.
+= 他腹部疼痛。
+② The wound was in the lower abdomen.
+= 伤口在下腹部。
+lower abdomen = 下腹部
+③ An insect's abdomen has segments.
+= 昆虫的腹部分节。
+词族：
+abdominal = 腹部的
+近义对照：
+abdomen 腹部（医学）
+stomach 胃、肚子（通用）
+belly 肚子（口语）
+tummy 肚肚（儿语）
+
+abdominal
+核心：解剖学形容词，"腹部的"。常见搭配 abdominal pain、
+abdominal muscles（腹肌，口语缩写 abs）。
+① He has abdominal pain.
+= 他腹痛。
+abdominal pain = 腹痛
+② She strengthened her abdominal muscles.
+= 她练了腹肌。
+abdominal muscles = 腹肌
+③ They performed abdominal surgery.
+= 他们做了腹部手术。
+abdominal surgery = 腹部外科手术
+口语缩写：abs = 腹肌
+词族：abdomen = 腹部
+
+abduct
+核心：指用暴力或欺骗"绑架、劫持"人，法律用语。
+和 kidnap 基本同义，abduct 更正式，常用于新闻和法律文本。
+① She was abducted at gunpoint.
+= 她被持枪绑架。
+at gunpoint = 持枪威胁下
+② Aliens abducted him, he claims.
+= 他声称被外星人劫走了。
+③ The child was abducted from school.
+= 那个孩子在学校被拐走。
+词族：
+abduction = 绑架
+abductor = 绑匪
+近义对照：
+abduct = 绑架（正式）
+kidnap = 绑架（通用，常为赎金）
+
 abduction
 核心：指绑架这一罪行或事件。可数不可数都有。
 child abduction 和 alien abduction 是两个高频搭配。
@@ -352,52 +402,3 @@ abnormally = 反常地
 反义词：
 abnormal 异常 / normal 正常
 词族：abnormality = 异常现象
-
-abnormality
-核心：指"异常之处"，可数用于具体的异常，不可数用于异常这个性质。
-医学语境最常见：genetic abnormality、heart abnormality。
-① Tests revealed an abnormality.
-= 检查发现了一处异常。
-② There was a genetic abnormality.
-= 存在一处基因异常。
-genetic abnormality = 基因异常
-③ No abnormality was detected.
-= 未检出异常。
-注意复数：
-abnormality → abnormalities
-词族：
-abnormal = 异常的
-反义词：
-normality = 正常状态
-
-abnormally
-核心：abnormal 的副词，"反常地、异常地"。最常见的是修饰
-形容词表示程度超出常态：abnormally high / low / cold。
-① Temperatures are abnormally high.
-= 气温异常偏高。
-abnormally high = 异常偏高
-② The results were abnormally low.
-= 结果异常偏低。
-③ He behaved abnormally.
-= 他举止反常。
-词族：
-abnormal = 异常的
-abnormality = 异常
-近义对照：
-abnormally = 反常地（暗示不该如此）
-unusually = 不寻常地（中性）
-
-aboard
-核心：表示"在（船、飞机、火车、大巴）上"或"上到…上面"。只用于
-交通工具，不能说 aboard a car。既是介词也是副词。
-① Welcome aboard!
-= 欢迎登机（登船）！
-也用来欢迎新同事加入。
-② There were 200 passengers aboard the plane.
-= 机上有两百名乘客。
-③ All aboard!
-= 请大家上车（上船）！
-注意区别：
-aboard = 在交通工具上
-on board = 同义，写成两个词
-abroad = 在国外（拼写只差一点）

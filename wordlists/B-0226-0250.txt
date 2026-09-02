@@ -1,3 +1,39 @@
+acquiesce
+核心：指"默许、不情愿地顺从"——关键在于不是主动同意，
+而是不反对。正式。介词用 in 或 to。
+① She acquiesced in the decision.
+= 她默认了那个决定。
+acquiesce in = 默许
+② He acquiesced to their demands.
+= 他勉强答应了他们的要求。
+acquiesce to = 顺从
+③ They acquiesced without protest.
+= 他们没抗议就接受了。
+注意发音：/ˌækwiˈes/
+词族：
+acquiescence = 默许
+近义对照：
+acquiesce = 默许（不反对）
+consent = 同意（主动）
+comply = 遵从（照做）
+
+acquiescence
+核心：指"默许"这种状态，常带批评意味——暗示"本该反对却没反对"。
+不可数。介词用 in 或 to。
+① Their silence implied acquiescence.
+= 他们的沉默意味着默许。
+imply acquiescence = 表示默许
+② His acquiescence surprised us.
+= 他的顺从让我们意外。
+③ Acquiescence in injustice is complicity.
+= 对不公的默许就是共谋。
+acquiescence in = 对…的默许
+词族：
+acquiesce = 默许
+近义对照：
+acquiescence = 默许（消极不反对）
+consent = 同意（积极表态）
+
 acquire
 核心：底层是"逐步得到并拥有"。得到的可以是技能、习惯、名声
 （靠积累），也可以是资产、公司（靠购买）。比 get 正式得多。
@@ -404,40 +440,3 @@ activation code = 激活码
 activate = 激活
 反义词：
 deactivation = 停用
-
-active
-核心：底层是"在动、在起作用"。人在动是"活跃、好动"，物质在起作用
-是"有活性的"，火山在动是"活的"，语法上主语在动是"主动语态"。
-① She leads an active life.
-= 她过着充实忙碌的生活。
-② He is active in local politics.
-= 他积极参与地方政治。
-be active in = 积极参与
-③ It's an active volcano.
-= 那是座活火山。
-④ The active ingredient is caffeine.
-= 有效成分是咖啡因。
-这里：
-active = 有活性的
-⑤ Use the active voice.
-= 用主动语态。
-反义词：
-active 主动 / passive 被动
-词族：actively = 积极地
-
-actively
-核心：指"积极主动地"，与被动等待相对。常修饰 seek、encourage、
-participate、pursue 这类动词。
-① They are actively seeking staff.
-= 他们正在积极招人。
-actively seek = 积极寻求
-② She actively participates.
-= 她积极参与。
-actively participate = 主动参与
-③ We actively encourage feedback.
-= 我们积极鼓励反馈。
-词族：
-active = 积极的
-activity = 活动
-反义词：
-passively = 被动地
