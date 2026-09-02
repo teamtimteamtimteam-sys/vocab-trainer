@@ -73,9 +73,23 @@ python3 scripts/merge-wordlist.py A 3000      # 合并成可导入的大文件
 at- 漏 atavistic/atheism/atoll/atonement/atrium/attaché/attainable/
 attenuate/attribution/attune。
 
-**唯一的根治办法是拿到牛津高阶的词条清单文件。** 在那之前，每个段至少要用
-两份独立来源的清单交叉核对，且宣布收全前把清单本身再扩一轮。归档区是现成的
-第二来源 —— 里面凡属于「已收全」段却不在主表的，都是遗漏。
+**词头清单已经到位**：`reference/OALD10_Cleaned_Learning_List.csv`，67264 条。
+完整性检查从此是机器的事：
+
+```bash
+python3 scripts/coverage.py a        # 按双字母段报缺词
+python3 scripts/coverage.py ab ac    # 看具体缺哪些词
+```
+
+脚本按用户裁定的边界过滤清单（词缀、全大写缩写不收），并把清单里同一条目的
+空格版与连字符版（abide by / abide-by）归一化合并。
+
+**第一次跑它就推翻了此前的结论**：我宣布「a 字母全部收全 1288 条」，
+实际清单有 3021 条，只收了 41%，26 个双字母段无一收全。漏的主要是三类：
+多词条目（absolute zero、absentee landlord、above board）、
+短语动词（abide by、abound in）、派生形式（abrasively、absent-mindedness）
+—— 全是我此前当作「写进别的词条里的注释」而没单列的。
+**每段动笔前和收尾后都必须跑 coverage.py，不要再凭记忆列清单。**
 
 ## 质量闸门：改尺子之前先想清楚
 

@@ -47,6 +47,7 @@ def main():
     print("  两者共有：编号连续、译文无中英混杂、无异体字符、跨批不重复")
     print()
     print("每收完一个字母段的固定动作")
+    print("  0. python3 scripts/coverage.py a         对照牛津高阶词头清单查缺 ★最重要")
     print("  1. python3 scripts/audit-prefix.py a      查双字母段有没有整段漏掉")
     print("  2. python3 scripts/resplit-b.py           按词典序重排并均匀分块")
     print("  3. python3 scripts/pull-pending.py --prune  清理已收录的归档条目")
