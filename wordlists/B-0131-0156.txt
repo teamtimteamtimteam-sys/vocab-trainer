@@ -1,87 +1,3 @@
-acceleration
-核心：两条线：物理上的"加速度"，和抽象的"加快"。
-汽车评测里的 0-60 acceleration 是高频说法。
-① The car has good acceleration.
-= 那辆车加速性能好。
-good acceleration = 加速性能好
-② Acceleration equals force over mass.
-= 加速度等于力除以质量。
-③ There was an acceleration in growth.
-= 增长加快了。
-an acceleration in = …的加快
-词族：
-accelerate = 加速
-accelerator = 油门；加速器
-反义词：
-deceleration = 减速
-
-accelerator
-核心：两个意思：汽车的"油门踏板"，和物理上的"粒子加速器"。
-英式说 accelerator，美式口语常说 gas pedal。
-① He pressed the accelerator.
-= 他踩下了油门。
-press / hit the accelerator = 踩油门
-② Take your foot off the accelerator.
-= 把脚从油门上挪开。
-③ They built a particle accelerator.
-= 他们建了台粒子加速器。
-particle accelerator = 粒子加速器
-注意英美差别：
-英式 accelerator / 美式 gas pedal
-词族：accelerate = 加速
-
-accent
-核心：一是"口音"，指某地或某国的人说话的语音特征；二是"重音"，
-指词里读得重的那个音节；三是比喻义"强调的重点"。
-① She speaks with a French accent.
-= 她带法国口音。
-② The accent falls on the first syllable.
-= 重音落在第一个音节。
-③ This year the accent is on quality.
-= 今年重点放在质量上。
-the accent is on = 侧重于
-④ Write the accent above the letter.
-= 在字母上方写重音符号。
-这里指变音符号。
-注意区别：
-accent = 口音（语音）
-dialect = 方言（词汇语法都不同）
-
-accented
-核心：两条线：说话"带某种口音的"，和文字上"带重音符号的"。
-第一条更常用，前面通常加限定词。
-① She spoke heavily accented English.
-= 她说的英语口音很重。
-heavily accented = 口音很重的
-② The letter is accented.
-= 那个字母带重音符号。
-③ He has a French-accented voice.
-= 他说话带法国口音。
-French-accented = 带法国口音的
-词族：
-accent = 口音；重音
-注意：说 heavily accented
-本身是中性描述，不含贬义。
-
-accentuate
-核心：指"使更突出、更明显"，可以是好的（衬托优点）
-也可以是坏的（凸显问题）。比 emphasize 更强调视觉或感官上的凸显。
-① The dress accentuates her figure.
-= 那条裙子衬出了她的身材。
-accentuate a figure = 凸显身材
-② The crisis accentuated the divide.
-= 那场危机加深了分裂。
-accentuate a divide = 加剧分歧
-③ Accentuate the positive.
-= 多想想好的一面。
-accentuate the positive = 强调积极面
-词族：
-accent = 重音；强调
-近义对照：
-accentuate = 使凸显（感官、视觉）
-emphasize = 强调（言语、论点）
-highlight = 突出（指出重点）
-
 accept
 核心：底层是"接过来并认可"。接物是"收下"，接提议是"答应"，接
 事实是"承认属实"，接人是"接纳进圈子"，接责任是"担下来"。
@@ -418,3 +334,105 @@ acclimatize to = 适应
 美式还常用 acclimate
 词族：
 acclimatization = 适应过程
+
+accolade
+核心：指正式的"荣誉、褒奖"，可以是奖项，也可以是一句公开的高度
+评价。可数，常用复数。比 award 更强调"荣誉"而非"奖品"。
+① The prize is the highest accolade.
+= 那个奖是最高荣誉。
+② She received many accolades.
+= 她获得了许多荣誉。
+③ It's an accolade he deserves.
+= 那是他应得的荣誉。
+④ Critics heaped accolades on her.
+= 评论家对她赞誉有加。
+heap accolades on = 大加褒奖
+近义对照：
+accolade 荣誉、褒奖（正式）
+award 奖项（经评定授予）
+honour 荣誉（通用）
+
+accommodate
+核心：底层是"腾出空间容纳"。容纳的可以是人（提供住宿）、数量
+（能坐多少人），也可以是抽象的需求和意见（迁就、照顾到）。
+这个词拼写极易错：两个 c、两个 m。
+① The hotel can accommodate 300 guests.
+= 那家酒店能容纳三百位客人。
+这里：
+accommodate = 容纳
+② We accommodated them for the night.
+= 我们让他们住了一晚。
+③ The schedule can accommodate your request.
+= 日程可以照顾到你的要求。
+这里：
+accommodate = 迁就、满足
+④ Eyes accommodate to darkness.
+= 眼睛会适应黑暗。
+accommodate to = 适应
+注意拼写：两个 c、两个 m。
+
+accommodating
+核心：指人"乐于配合、好说话的"，褒义。
+和 accommodate 的"迁就"这条线对应。
+① The staff were very accommodating.
+= 工作人员非常配合。
+very accommodating = 很好说话
+② He is accommodating to new ideas.
+= 他对新想法很包容。
+accommodating to = 对…包容
+③ They took an accommodating stance.
+= 他们采取了通融的立场。
+accommodating stance = 通融的姿态
+词族：
+accommodate = 容纳；迁就
+近义对照：
+accommodating = 乐于配合
+obliging = 乐于助人
+flexible = 灵活变通
+
+accommodation
+核心：主要指"住处"，英式用不可数，美式常用复数 accommodations。
+另有一层正式义指"折中、通融"。
+① We need accommodation for the night.
+= 我们需要住一晚的地方。
+英式不可数，不说 an accommodation。
+② The price includes accommodation.
+= 价格含住宿。
+③ They reached an accommodation.
+= 他们达成了折中方案。
+这里：
+accommodation = 通融、和解
+注意英美差别：
+英式 accommodation / 美式 accommodations
+
+accompaniment
+核心：两条线：音乐上的"伴奏"，和餐饮上"配着吃的东西"。都对应
+动词 accompany 的"伴随"这条线。介词用 to。
+① She sang to piano accompaniment.
+= 她在钢琴伴奏下演唱。
+to the accompaniment of = 在…伴奏下
+② Rice is the usual accompaniment.
+= 通常配米饭。
+an accompaniment to = …的配菜
+③ He played the accompaniment.
+= 他弹的是伴奏。
+④ Wine is a good accompaniment to cheese.
+= 葡萄酒和奶酪很配。
+词族：
+accompany = 伴奏、陪同
+accompanist = 伴奏者
+
+accompanist
+核心：指为独唱或独奏"伴奏的人"，通常是钢琴伴奏。
+注意重音在第二个音节。
+① She works as an accompanist.
+= 她做伴奏。
+② The accompanist played beautifully.
+= 伴奏弹得很美。
+③ He needs an accompanist.
+= 他需要一位伴奏。
+piano accompanist = 钢琴伴奏
+词族：
+accompany = 伴奏
+accompaniment = 伴奏
+注意发音：/əˈkʌmpənɪst/

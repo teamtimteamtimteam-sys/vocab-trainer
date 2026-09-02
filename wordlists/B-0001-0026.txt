@@ -408,3 +408,21 @@ escape from one's abductors = 逃离绑匪
 abductor muscle = 外展肌
 反义词（解剖）：
 abductor = 外展肌 / adductor 内收肌
+
+aberrant
+核心：正式用语，指"偏离常态的、异常的"，多用于行为、数据、
+细胞。语气比 unusual 重，暗示"不该是这样"。
+① He showed aberrant behaviour.
+= 他行为反常。
+aberrant behaviour = 异常行为
+② Aberrant cells were detected.
+= 检出了异常细胞。
+aberrant cells = 异常细胞
+③ The reading was aberrant.
+= 那个读数是异常值。
+词族：
+aberration = 反常现象
+近义对照：
+aberrant = 偏离常态（正式、学术）
+abnormal = 异常（医学、通用）
+deviant = 越轨（多指行为，贬义）

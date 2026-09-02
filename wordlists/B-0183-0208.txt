@@ -1,113 +1,3 @@
-accreditation
-核心：指学校、医院、实验室获得的官方"资质认证"。不可数为主。
-教育和医疗行业的核心词。
-① The school lost its accreditation.
-= 那所学校失去了认证资质。
-lose accreditation = 失去资质
-② They applied for accreditation.
-= 他们申请了认证。
-apply for accreditation = 申请认证
-③ Accreditation takes two years.
-= 认证要两年。
-accreditation body = 认证机构
-词族：accredit、accredited
-
-accredited
-核心：指机构或个人"经官方认可的"。常见搭配 accredited
-journalist（有采访资质的记者）、accredited course。
-① She is an accredited journalist.
-= 她是有采访资质的记者。
-accredited journalist = 持证记者
-② Only accredited labs may test.
-= 只有认证实验室可以检测。
-accredited lab = 认证实验室
-③ The programme is fully accredited.
-= 那个项目已完全获认证。
-fully accredited = 完全获认可的
-词族：accredit、accreditation
-
-accrue
-核心：指利息、权益、经验"逐渐累积起来"，金融和法律语境高频。
-不及物为主，介词用 to（归于谁）。
-① Interest accrues monthly.
-= 利息按月累积。
-interest accrues = 利息累计
-② Benefits accrue to shareholders.
-= 收益归于股东。
-accrue to = 归属于
-③ She accrued years of experience.
-= 她积累了多年经验。
-④ Accrued leave can be carried over.
-= 累积的假期可以结转。
-accrued leave = 累积假期
-词族：accrual = 应计项目
-近义对照：
-accrue = 累积（利息、权益，自动增长）
-accumulate = 积累（通用）
-
-accumulate
-核心：底层是"一点点堆积起来"。可以是物（灰尘、垃圾），可以是抽象
-的量（财富、经验、债务、利息）。既能及物也能不及物。
-① Dust accumulated on the shelves.
-= 架子上积了灰。
-② He accumulated a fortune.
-= 他积累了一笔财富。
-这里是及物用法。
-③ Interest accumulates monthly.
-= 利息按月累积。
-④ Evidence began to accumulate.
-= 证据开始积累起来。
-词族：
-accumulation = 积累
-注意区别：
-accumulate 逐渐积累（自然堆起）
-collect 收集（有意去搜集）
-
-accumulation
-核心：指"积累"这个过程或积累起来的"堆积物"。
-常见搭配 the accumulation of wealth / data / snow。
-① The accumulation of wealth took decades.
-= 财富积累花了几十年。
-the accumulation of = …的积累
-② Snow accumulation reached 30 cm.
-= 积雪达到三十厘米。
-snow accumulation = 积雪量
-③ There's an accumulation of dust.
-= 积了一层灰。
-词族：
-accumulate = 积累
-accumulative = 累积的
-
-accumulator
-核心：两条线：技术上的"蓄电池、储能装置"，和英式博彩里的
-"连串投注"。前者是最初的例词。
-① The device uses a small accumulator.
-= 该设备使用一个小型蓄能器。
-② The accumulator stores energy.
-= 蓄能器储存能量。
-③ He placed an accumulator bet.
-= 他下了个连串注。
-accumulator bet = 连串投注（英式）
-词族：
-accumulate = 积累
-近义对照：
-accumulator = 蓄能装置
-battery = 电池（通用）
-
-accuracy
-核心：指"与事实或标准相符的程度"。不可数。常见搭配 with great
-accuracy、the accuracy of。
-① He predicted it with great accuracy.
-= 他预测得非常准确。
-with accuracy = 准确地
-② I question the accuracy of the data.
-= 我质疑那些数据的准确性。
-③ Accuracy matters more than speed.
-= 准确比快更重要。
-反义词：
-accuracy 准确 / inaccuracy 不准确
-词族：accurate = 准确的
-
 accurate
 核心：指"与事实相符、没有误差"。可以说数据准确，也可以说人预测得
 准。和 precise 的差别：accurate 是"对不对"，precise 是"细不细"。
@@ -406,3 +296,134 @@ ache to do = 渴望做
 ache = 持续的钝痛
 pain = 疼痛（通用）
 sting = 刺痛
+
+achievable
+核心：指"能做到的、可实现的"，最常见的搭配是 achievable goals。
+在目标管理和励志语境里高频，常和 realistic 连用。
+① Set achievable goals.
+= 设定可实现的目标。
+achievable goals = 可实现的目标
+② The target is achievable.
+= 那个指标能达成。
+③ It's achievable within a year.
+= 一年内可以做到。
+④ Make it realistic and achievable.
+= 让它切实可行。
+反义词：
+achievable 可实现 / unachievable 无法实现
+词族：achieve = 实现
+
+achieve
+核心：指"通过努力得到"，宾语是目标、成绩、结果这类正面的东西。
+不能说 achieve a failure。被动用得也很多。
+① She achieved her ambition.
+= 她实现了抱负。
+② He achieved excellent results.
+= 他取得了优异的成绩。
+③ Nothing was achieved by arguing.
+= 争吵什么也没解决。
+④ The film achieved great success.
+= 那部电影获得了巨大成功。
+词族：
+achievement = 成就
+achievable = 可实现的
+注意：achieve 的宾语必须是正面的。
+
+achievement
+核心：既指"取得"这个行为，也指"取得的成果"。作"成果"讲时可数，
+作"取得"讲时不可数。
+① It was a remarkable achievement.
+= 那是项了不起的成就。
+② She is proud of her achievements.
+= 她为自己的成就自豪。
+③ The achievement of this goal takes time.
+= 实现这个目标需要时间。
+这里是不可数用法。
+常用搭配：
+a sense of achievement = 成就感
+
+achiever
+核心：指成就突出的人，最常见的是 high achiever（成绩优异者）
+和 underachiever（未发挥出应有水平的人）。
+① She is a high achiever.
+= 她是个成绩优异的人。
+high achiever = 高成就者
+② The school supports underachievers.
+= 那所学校帮助学习吃力的学生。
+underachiever = 表现低于潜力者
+③ Achievers set clear goals.
+= 有成就的人目标明确。
+词族：
+achieve = 实现
+achievement = 成就
+注意：high achiever 是褒义，
+但也可能暗示压力大。
+
+aching
+核心：两条线：身体"隐隐作痛的"，和感情上"渴望而痛苦的"。
+第二条偏文学，搭配 an aching heart。
+① I have aching legs.
+= 我腿酸痛。
+aching legs = 酸痛的腿
+② She felt an aching loneliness.
+= 她感到一种揪心的孤独。
+aching loneliness = 刺痛的孤独
+③ His muscles were aching.
+= 他肌肉酸痛。
+词族：
+ache = 疼痛
+注意区别：
+aching = 持续隐痛
+sharp = 刺痛
+sore = 酸痛（碰了更疼）
+
+acid
+核心：化学上指"酸"，与碱相对；形容词指"酸的、有腐蚀性的"；比喻
+义指言语"尖刻"。acid rain 和 acid test 是两个高频固定搭配。
+① Acid burns the skin.
+= 酸会灼伤皮肤。
+② The soil is too acid.
+= 那片土壤酸性太强。
+③ She made an acid remark.
+= 她说了句尖刻的话。
+这里：
+acid = 尖刻的
+④ Acid rain damages forests.
+= 酸雨破坏森林。
+⑤ This is the acid test.
+= 这是真正的考验。
+the acid test = 决定性的检验
+反义词：acid 酸 / alkali 碱
+
+acidic
+核心：化学上指"酸性的"，与碱性相对；日常也指食物"发酸的"。
+和形容词 acid 意思重叠，acidic 更偏技术。
+① The soil is acidic.
+= 那片土壤呈酸性。
+acidic soil = 酸性土壤
+② Citrus fruits are acidic.
+= 柑橘类水果偏酸。
+③ Acidic water damages pipes.
+= 酸性水会腐蚀管道。
+反义词：
+alkaline = 碱性的
+词族：
+acid = 酸
+acidity = 酸度
+
+acidity
+核心：指"酸度"这个可测量的性质。不可数。
+食品、土壤、葡萄酒的品评里都用。
+① Test the soil's acidity.
+= 测一下土壤酸度。
+soil acidity = 土壤酸度
+② The wine has balanced acidity.
+= 那款酒酸度平衡。
+balanced acidity = 酸度平衡
+③ High acidity harms fish.
+= 高酸度对鱼有害。
+high acidity = 高酸度
+词族：
+acid = 酸
+acidic = 酸性的
+反义词：alkalinity = 碱度

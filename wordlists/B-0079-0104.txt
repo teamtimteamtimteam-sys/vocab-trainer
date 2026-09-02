@@ -1,52 +1,3 @@
-abscess
-核心：医学词，指身体里化脓形成的"脓肿"。牙龈上的最常见。
-注意 sc 的读音，c 不发音。
-① He has an abscess on his gum.
-= 他牙龈上有个脓肿。
-② The abscess had to be drained.
-= 那个脓肿必须引流。
-③ An abscess formed under the skin.
-= 皮下形成了一个脓肿。
-注意发音：/ˈæbses/，
-中间的 c 不单独发音。
-近义对照：
-abscess 脓肿（有脓腔）
-boil 疖子（皮肤表面）
-ulcer 溃疡（表面溃烂）
-
-abscond
-核心：指携款或弃保"潜逃"，法律用语。介词用 with（带走什么）
-或 from（从哪里逃）。
-① He absconded with the funds.
-= 他卷款潜逃了。
-abscond with = 携…潜逃
-② The prisoner absconded from custody.
-= 那名囚犯脱逃了。
-abscond from = 从…潜逃
-③ Two suspects have absconded.
-= 两名嫌疑人在逃。
-词族：
-absconder = 潜逃者
-近义对照：
-abscond = 潜逃（法律，常携款或弃保）
-flee = 逃离（危险）
-escape = 逃脱（束缚）
-
-abseil
-核心：英式登山术语，指沿绳索"速降"下崖。美式说 rappel。
-既是动词也是名词。
-① They abseiled down the cliff.
-= 他们沿绳索速降下崖。
-abseil down = 沿绳下降
-② She learned to abseil.
-= 她学会了绳降。
-③ It was a 50-metre abseil.
-= 那是五十米的绳降。
-注意英美差别：
-英式 abseil / 美式 rappel
-注意发音：/ˈæbseɪl/，
-词源来自德语。
-
 absence
 核心：底层是"不在场"。具体指人的缺席，抽象指某物的缺乏。固定
 搭配 in the absence of 表示"在没有…的情况下"，学术写作里极常见。
@@ -435,3 +386,75 @@ abstain = 戒除
 近义对照：
 abstinent = 完全不碰
 abstemious = 有节制（少量可以）
+
+abstract
+核心：这个词有三个身份。形容词指"抽象的"，与具体相对；名词指
+论文前面的"摘要"；动词重音在后，指"提取、抽离"。艺术上的
+abstract art 指不描摹实物的抽象艺术。
+① It's an abstract concept.
+= 那是个抽象概念。
+② Beauty is abstract.
+= 美是抽象的。
+③ Read the abstract first.
+= 先看摘要。
+这里是名词，重音在前。
+④ He abstracted the key data.
+= 他提取了关键数据。
+这里是动词，重音在后。
+⑤ She paints abstract art.
+= 她画抽象画。
+反义词：
+abstract 抽象 / concrete 具体
+
+abstracted
+核心：指人"心不在焉、走神的"，和形容词 abstract（抽象的）
+意思完全不同——这是同一个词的两个身份，容易读错。
+① He had an abstracted look.
+= 他神情恍惚。
+an abstracted look = 出神的神情
+② She seemed abstracted today.
+= 她今天好像心不在焉。
+③ He answered in an abstracted way.
+= 他心不在焉地答着。
+注意区别：
+abstract = 抽象的（概念）
+abstracted = 走神的（人的状态）
+近义对照：
+abstracted = 出神（正式）
+absent-minded = 健忘走神（长期）
+distracted = 分心（受干扰）
+
+abstraction
+核心：三条线：抽象这个过程、抽象的"概念"本身、以及人的"出神"。
+学术写作里第一二条常见，第三条偏文学。
+① It's a useful abstraction.
+= 那是个有用的抽象概念。
+a useful abstraction = 有用的抽象
+② Justice is an abstraction.
+= 正义是个抽象概念。
+③ He stared in abstraction.
+= 他出神地盯着。
+in abstraction = 心不在焉地
+④ Abstraction hides complexity.
+= 抽象把复杂性藏了起来。
+词族：
+abstract = 抽象的
+反义词：
+concrete = 具体的
+
+abstruse
+核心：指学说、文章"深奥难懂的"，常带批评意味——暗示"本来可以
+说得更明白"。正式用语。
+① The theory is abstruse.
+= 那个理论晦涩难懂。
+② He writes in an abstruse style.
+= 他文风艰涩。
+an abstruse style = 艰深的文风
+③ Abstruse arguments lose readers.
+= 晦涩的论证会失去读者。
+abstruse arguments = 深奥的论证
+近义对照：
+abstruse = 深奥难懂（常含批评）
+obscure = 晦涩（不清楚）
+esoteric = 只有内行懂的
+profound = 深刻（褒义）

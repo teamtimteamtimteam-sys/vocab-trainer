@@ -1,75 +1,3 @@
-abstract
-核心：这个词有三个身份。形容词指"抽象的"，与具体相对；名词指
-论文前面的"摘要"；动词重音在后，指"提取、抽离"。艺术上的
-abstract art 指不描摹实物的抽象艺术。
-① It's an abstract concept.
-= 那是个抽象概念。
-② Beauty is abstract.
-= 美是抽象的。
-③ Read the abstract first.
-= 先看摘要。
-这里是名词，重音在前。
-④ He abstracted the key data.
-= 他提取了关键数据。
-这里是动词，重音在后。
-⑤ She paints abstract art.
-= 她画抽象画。
-反义词：
-abstract 抽象 / concrete 具体
-
-abstracted
-核心：指人"心不在焉、走神的"，和形容词 abstract（抽象的）
-意思完全不同——这是同一个词的两个身份，容易读错。
-① He had an abstracted look.
-= 他神情恍惚。
-an abstracted look = 出神的神情
-② She seemed abstracted today.
-= 她今天好像心不在焉。
-③ He answered in an abstracted way.
-= 他心不在焉地答着。
-注意区别：
-abstract = 抽象的（概念）
-abstracted = 走神的（人的状态）
-近义对照：
-abstracted = 出神（正式）
-absent-minded = 健忘走神（长期）
-distracted = 分心（受干扰）
-
-abstraction
-核心：三条线：抽象这个过程、抽象的"概念"本身、以及人的"出神"。
-学术写作里第一二条常见，第三条偏文学。
-① It's a useful abstraction.
-= 那是个有用的抽象概念。
-a useful abstraction = 有用的抽象
-② Justice is an abstraction.
-= 正义是个抽象概念。
-③ He stared in abstraction.
-= 他出神地盯着。
-in abstraction = 心不在焉地
-④ Abstraction hides complexity.
-= 抽象把复杂性藏了起来。
-词族：
-abstract = 抽象的
-反义词：
-concrete = 具体的
-
-abstruse
-核心：指学说、文章"深奥难懂的"，常带批评意味——暗示"本来可以
-说得更明白"。正式用语。
-① The theory is abstruse.
-= 那个理论晦涩难懂。
-② He writes in an abstruse style.
-= 他文风艰涩。
-an abstruse style = 艰深的文风
-③ Abstruse arguments lose readers.
-= 晦涩的论证会失去读者。
-abstruse arguments = 深奥的论证
-近义对照：
-abstruse = 深奥难懂（常含批评）
-obscure = 晦涩（不清楚）
-esoteric = 只有内行懂的
-profound = 深刻（褒义）
-
 absurd
 核心：指"荒唐到可笑"的地步，比 silly 重，带明显的否定评判。
 the absurd 作名词是哲学术语，指存在的荒诞性。
@@ -421,3 +349,87 @@ accelerate
 acceleration = 加速
 accelerator = 油门
 反义词：decelerate = 减速
+
+acceleration
+核心：两条线：物理上的"加速度"，和抽象的"加快"。
+汽车评测里的 0-60 acceleration 是高频说法。
+① The car has good acceleration.
+= 那辆车加速性能好。
+good acceleration = 加速性能好
+② Acceleration equals force over mass.
+= 加速度等于力除以质量。
+③ There was an acceleration in growth.
+= 增长加快了。
+an acceleration in = …的加快
+词族：
+accelerate = 加速
+accelerator = 油门；加速器
+反义词：
+deceleration = 减速
+
+accelerator
+核心：两个意思：汽车的"油门踏板"，和物理上的"粒子加速器"。
+英式说 accelerator，美式口语常说 gas pedal。
+① He pressed the accelerator.
+= 他踩下了油门。
+press / hit the accelerator = 踩油门
+② Take your foot off the accelerator.
+= 把脚从油门上挪开。
+③ They built a particle accelerator.
+= 他们建了台粒子加速器。
+particle accelerator = 粒子加速器
+注意英美差别：
+英式 accelerator / 美式 gas pedal
+词族：accelerate = 加速
+
+accent
+核心：一是"口音"，指某地或某国的人说话的语音特征；二是"重音"，
+指词里读得重的那个音节；三是比喻义"强调的重点"。
+① She speaks with a French accent.
+= 她带法国口音。
+② The accent falls on the first syllable.
+= 重音落在第一个音节。
+③ This year the accent is on quality.
+= 今年重点放在质量上。
+the accent is on = 侧重于
+④ Write the accent above the letter.
+= 在字母上方写重音符号。
+这里指变音符号。
+注意区别：
+accent = 口音（语音）
+dialect = 方言（词汇语法都不同）
+
+accented
+核心：两条线：说话"带某种口音的"，和文字上"带重音符号的"。
+第一条更常用，前面通常加限定词。
+① She spoke heavily accented English.
+= 她说的英语口音很重。
+heavily accented = 口音很重的
+② The letter is accented.
+= 那个字母带重音符号。
+③ He has a French-accented voice.
+= 他说话带法国口音。
+French-accented = 带法国口音的
+词族：
+accent = 口音；重音
+注意：说 heavily accented
+本身是中性描述，不含贬义。
+
+accentuate
+核心：指"使更突出、更明显"，可以是好的（衬托优点）
+也可以是坏的（凸显问题）。比 emphasize 更强调视觉或感官上的凸显。
+① The dress accentuates her figure.
+= 那条裙子衬出了她的身材。
+accentuate a figure = 凸显身材
+② The crisis accentuated the divide.
+= 那场危机加深了分裂。
+accentuate a divide = 加剧分歧
+③ Accentuate the positive.
+= 多想想好的一面。
+accentuate the positive = 强调积极面
+词族：
+accent = 重音；强调
+近义对照：
+accentuate = 使凸显（感官、视觉）
+emphasize = 强调（言语、论点）
+highlight = 突出（指出重点）

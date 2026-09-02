@@ -16,7 +16,7 @@
 import sys, io, glob, os
 
 KEY = lambda s: s.lower().replace(' ', '').replace('-', '')
-SIZE_DEFAULT, MIN_TAIL = 25, 10
+SIZE_DEFAULT = 25
 
 def main(size):
     ent = []
@@ -27,14 +27,16 @@ def main(size):
     if not ent: print("没有找到 B 词表"); return 1
     ent.sort(key=lambda x: KEY(x[0]))
 
-    # 切块：尾块不足 MIN_TAIL 条就并进上一块
-    chunks = [ent[i:i+size] for i in range(0, len(ent), size)]
-    if len(chunks) > 1 and len(chunks[-1]) < MIN_TAIL:
-        # 别写成 chunks[-2] += chunks.pop() —— Python 先算索引 -2（此时还没 pop），
-        # 再 pop（列表短一位），最后把结果写回 -2，指向的已经是另一个块了。
-        # 这个求值顺序陷阱曾覆盖掉一整块、造成 25 条词条丢失。
-        tail = chunks.pop()
-        chunks[-1] = chunks[-1] + tail
+    # 均匀分块，不是「切满 size 再留个尾巴」。
+    # 密度闸门量的是每个文件的均值，小文件的均值抖动很大 ——
+    # 曾切出 3 条和 11 条的尾巴文件，批均等式被拉到 2.0 卡在闸门下，
+    # 那是切分产物不是质量问题。均分后各块大小相差不超过 1，没有小尾巴。
+    k = max(1, round(len(ent) / size))
+    base, extra = divmod(len(ent), k)
+    chunks, i = [], 0
+    for j in range(k):
+        n = base + (1 if j < extra else 0)
+        chunks.append(ent[i:i+n]); i += n
 
     for f in glob.glob('wordlists/B-[0-9]*.txt'): os.remove(f)
     n = 0
