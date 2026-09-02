@@ -518,7 +518,7 @@ const INTERVALS  = [1, 2, 4, 7, 15, 30];   // 天，从整组背完当天起算
 const DAILY_CAP  = 5;                       // 每日复习配额（组）
 const DAY_START  = 4;                       // 凌晨 4:00 为一天分界
 const BACKUP_WARN_DAYS = 7;
-const APP_VERSION = "1.1.1";
+const APP_VERSION = "1.1.2";
 
 /* ---------------------------------------------------------------- utils */
 const $ = s => document.querySelector(s);
@@ -596,6 +596,7 @@ const S = {
   looseIds: [],        // 暂存区（未成组）的词 id，按 seq 递增
   quota: null,         // {date, ids:[]}
   lastNewGroupDate: "",
+  lastNewGroupId: null,   // 今天的新组额度被哪一组消耗了
   lastBackup: "",
   settings: { theme: "auto", fs: 1 },
   view: "home",
@@ -624,6 +625,7 @@ async function loadState() {
   S.nextSeq = await metaGet("nextSeq", 1);
   S.looseIds = await metaGet("looseIds", []);
   S.lastNewGroupDate = await metaGet("lastNewGroupDate", "");
+  S.lastNewGroupId = await metaGet("lastNewGroupId", null);
   S.lastBackup = await metaGet("lastBackup", "");
   await refreshQuota();
 }
@@ -961,7 +963,9 @@ async function startLearn(gid) {
     if (!canStartNewGroup().ok) { toast("今天已经开过新的一组了"); return; }
     g.state = "learning"; g.startedAt = todayKey(); g.learnSession = { idx: 0 };
     S.lastNewGroupDate = todayKey();
+    S.lastNewGroupId = g.id;
     await metaSet("lastNewGroupDate", S.lastNewGroupDate);
+    await metaSet("lastNewGroupId", S.lastNewGroupId);
     await req(store("groups", "readwrite").put(g));
   }
   const words = await getWords(g.wordIds);
@@ -1207,9 +1211,18 @@ async function resetGroup(gid) {
   await new Promise(res => { wt.transaction.oncomplete = res; });
   g.state = "pending"; g.learnedCount = 0; g.reviewStage = 0;
   g.completedAt = null; g.nextReviewDate = null; g.reviewSession = null; g.learnSession = null;
+  // 重置的如果正是今天消耗掉额度的那一组，把额度退回来 ——
+  // 否则会卡死：既不能重背这一组，也不能开新组。
+  // 只退这一组，重置旧组不会凭空变出今天的额度。
+  let refunded = false;
+  if (S.lastNewGroupDate === todayKey() && S.lastNewGroupId === g.id) {
+    S.lastNewGroupDate = ""; S.lastNewGroupId = null;
+    await metaSet("lastNewGroupDate", ""); await metaSet("lastNewGroupId", null);
+    refunded = true;
+  }
   await req(store("groups", "readwrite").put(g));
   await refreshQuota();
-  toast("组 #" + gid + " 已重置");
+  toast("组 #" + gid + " 已重置" + (refunded ? "，今日新组额度已退回" : ""));
   RENDER.grouplist();
 }
 window.resetGroup = resetGroup;

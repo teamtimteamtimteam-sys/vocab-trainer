@@ -1,7 +1,7 @@
 /* 背单词 · Service Worker
    策略：stale-while-revalidate —— 打开即用缓存（离线可用），
    同时后台拉新版本写回缓存，下次打开生效。 */
-const CACHE = "vocab-shell-v5";
+const CACHE = "vocab-shell-v6";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-180.png", "./icon-512.png"];
 
 self.addEventListener("install", e => {
