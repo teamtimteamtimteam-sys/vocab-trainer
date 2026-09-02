@@ -1,0 +1,61 @@
+# 收词范围的排除名单。用户裁定：
+#   ① 地区变体英语（苏格兰/爱尔兰）与国别变体借词（印度英语）一律不收
+#   ② 学科术语、化学医药、音乐文体、拟声口语、文化专名里的生僻词不收
+#
+# 判断线：雅思 6 分以上的人在一般阅读、新闻、学术文章里会不会遇到？
+#   会遇到 → 收（abiotic 出现在环境类阅读，acetaminophen 是美国最常见药名，
+#            accelerometer 是手机传感器，acuity 有 visual acuity 这个常用搭配）
+#   只在某个窄专业内部出现 → 不收
+#
+# 一行一个词，# 开头是注释。coverage.py 会把这些从应收清单里剔除。
+
+# --- 地区变体英语与国别变体借词 ---
+ach          # 苏格兰/爱尔兰感叹词
+aapa         # 印度英语，姐姐
+achcha       # 印度英语，好的
+achkan       # 印度英语，男式长外套
+
+# --- 学科术语：只在窄专业内部使用 ---
+acrolect     # 语言学，克里奥尔连续统术语
+accidence    # 语法学旧称，现说 morphology
+abscissa     # 数学，日常说 x-coordinate
+ablative     # 拉丁语语法的夺格
+acellular    # 生物学，无细胞的
+acyclic      # 化学与图论，无环的
+
+# --- 化学与医药：过窄 ---
+actinium     # 化学元素锕
+acyclovir    # 具体药名阿昔洛韦
+
+# --- 音乐与文体：只在专业内部 ---
+accelerando  # 乐谱术语，渐快
+
+# --- 拟声与口语：已过时 ---
+ack-ack      # 二战时期对高射炮的口语称呼
+
+# --- 文化专名：过窄 ---
+acanthus     # 建筑装饰用的老鼠簕叶饰
+aconite      # 毒草乌头
+ackee        # 牙买加国果西非荔枝果
+Acadian      # 加拿大阿卡迪亚人
+Aberdonian   # 阿伯丁人
+abba         # 阿拉姆语「父亲」，圣经用语
+
+# --- 古旧与文书用语 ---
+abed         # 古旧，日常说 in bed
+accoutred    # 古旧文学，装备齐全的
+acerbity     # 罕用名词，形容词 acerbic 已收
+acct.        # 表单缩写
+
+# --- 整词已废，现代英语不用（用户裁定）---
+# 注意只删「整词已废」的。词还在用、只是某个义项古旧的一律保留：
+#   abide（abide by 常用）、ail（ailing 常用）、alms（宗教语境仍用）
+#   aforesaid（法律文书仍是活的语域）、asylum（政治庇护义常用）
+ague         # 古病名，现说 malaria
+asunder      # 古旧文学，现说 apart / to pieces
+anon         # 作「不久」讲已废，署名 Anon. 属缩写
+abaft        # 航海古语，现说 behind / at the stern
+
+# --- 生僻动植物名 ---
+aardwolf     # 土狼，非洲鬣狗科，过窄
+aoudad       # 鬃毛羊，过窄

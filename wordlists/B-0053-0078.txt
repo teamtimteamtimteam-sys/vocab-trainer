@@ -1,124 +1,3 @@
-abjectly
-核心：abject 的副词，两个方向：程度上"极其地"（abjectly poor），
-态度上"卑屈地"（abjectly apologise）。
-① They live abjectly poor.
-= 他们过着赤贫的生活。
-abjectly poor = 赤贫的
-② He apologised abjectly.
-= 他低声下气地道歉。
-apologise abjectly = 卑微地道歉
-③ The attempt failed abjectly.
-= 那次尝试彻底失败。
-fail abjectly = 惨败
-词族：
-abject = 凄惨的；卑屈的
-
-abjure
-核心：极正式的"公开放弃、宣誓弃绝"，多用于信仰、誓言、
-主张。现在几乎只见于法律和历史文本。
-① He abjured his former beliefs.
-= 他公开放弃了从前的信仰。
-abjure beliefs = 弃绝信仰
-② They were forced to abjure violence.
-= 他们被迫宣布放弃暴力。
-③ She abjured all claims.
-= 她放弃了一切主张。
-词族：abjuration = 弃绝
-注意区别：
-abjure = 公开宣誓放弃（极正式）
-renounce = 正式放弃（正式）
-give up = 放弃（通用）
-
-ablation
-核心：两条线：医学上用手术或激光"消融"病变组织，
-和地质气候上冰雪的"消融"。不可数为主。
-① Cardiac ablation treats arrhythmia.
-= 心脏消融术治疗心律失常。
-cardiac ablation = 心脏消融
-② Glacier ablation accelerated.
-= 冰川消融加快了。
-glacier ablation = 冰川消融
-③ Laser ablation removes the layer.
-= 激光消融去除那一层。
-laser ablation = 激光烧蚀
-词族：ablate = 消融
-反义词（冰川学）：
-accumulation = 积累（降雪堆积）
-
-ablative
-核心：两条线：语法上拉丁语的"夺格"，
-和技术上"靠烧蚀散热的"（航天器隔热层）。
-① Latin has an ablative case.
-= 拉丁语有夺格。
-ablative case = 夺格
-② The ablative absolute is a construction.
-= 独立夺格是一种句法结构。
-ablative absolute = 独立夺格
-③ Ablative shielding protects the capsule.
-= 烧蚀防热层保护返回舱。
-ablative shielding = 烧蚀隔热层
-拉丁语格：
-nominative 主格 / accusative 宾格
-genitive 属格 / dative 与格
-ablative 夺格 / vocative 呼格
-
-ablaze
-核心：只作表语。字面指"燃烧着的"，比喻指"色彩鲜艳夺目"
-或"情绪炽烈"。搭配 set ablaze 是"点燃"。
-① The building was ablaze.
-= 那栋楼火光冲天。
-be ablaze = 熊熊燃烧
-② The garden was ablaze with colour.
-= 花园里色彩绚烂。
-ablaze with = 因…而绚烂
-③ Rioters set cars ablaze.
-= 暴徒点燃了汽车。
-set ablaze = 纵火焚烧
-④ Her eyes were ablaze with anger.
-= 她眼里燃着怒火。
-注意：ablaze 只作表语，
-不说 an ablaze building。
-
-able
-核心：核心义是"有本事做到某事"，最常见的形式是 be able to。和
-can 的差别在于：can 没有不定式和完成形式，所以要表达"将来能"
-"曾经成功做到"时只能用 able。另一个义是放在名词前，夸人能干。
-① Will you be able to come?
-= 你能来吗？
-be able to do = 能够做
-② He was able to escape through a window.
-= 他成功从窗户逃了出去。
-was able to 强调"实际做到了"，
-这层意思 could 表达不了。
-③ She is an able administrator.
-= 她是个能干的管理者。
-这里：
-able = 有才干的（放在名词前）
-反义词：
-able 能够 / unable 不能
-词族：ably = 出色地
-④ He served as an able seaman.
-= 他当过一等水兵。
-able seaman = 一等水兵（海军军衔）
-⑤ Ableism excludes disabled people.
-= 健全主义把残障者排除在外。
-ableism = 健全主义（歧视残障的偏见）
-
-able-bodied
-核心：指身体健全、有劳动能力的，常与残障相对。带连字符，只作定语。
-在征兵、救灾、劳动力统计的语境里最常见。
-① They recruited able-bodied men.
-= 他们招募身体健全的男子。
-able-bodied men = 身强力壮的男子
-② Every able-bodied adult helped.
-= 每个有劳力的成年人都来帮忙。
-③ The scheme excludes able-bodied claimants.
-= 那项计划不包括有劳动能力的申请人。
-反义词：
-disabled = 残障的
-注意：able-bodied 只作定语，
-且现在描述人时要留意语境是否得体。
-
 ablutions
 核心：指洗漱这件事，宗教上指净身仪式，日常用则带一点戏谑的正式腔。
 永远用复数。
@@ -440,3 +319,178 @@ abortion = 堕胎
 注意语用：
 abortionist 带贬义，
 中性说法是 abortion provider。
+
+abortive
+核心：指"没成功的、夭折的"，只作定语。最高频的搭配是
+an abortive attempt / coup。和 abort 同源，但不涉及医学义。
+① It was an abortive attempt.
+= 那是一次失败的尝试。
+an abortive attempt = 未遂的尝试
+② The abortive coup failed within hours.
+= 那场未遂政变几小时就垮了。
+abortive coup = 未遂政变
+③ They made an abortive effort to flee.
+= 他们试图逃走但没成功。
+词族：
+abort = 中止
+近义对照：
+abortive = 未遂的（只作定语）
+unsuccessful = 不成功的（通用）
+failed = 失败的（通用）
+
+abound
+核心：指"大量存在、多得很"，不及物，没有被动。两个结构：
+X abounds（X 很多）和 X abounds with / in Y（X 里满是 Y）。
+偏书面。
+① Rumours abound.
+= 传言四起。
+② The river abounds with fish.
+= 那条河里鱼很多。
+abound with / in = 富含、充满
+③ Opportunities abound here.
+= 这里机会很多。
+词族：
+abundant = 丰富的
+abundance = 丰富
+注意语体：abound 偏书面，
+口语说 there are lots of。
+④ The lake abounds in fish.
+= 那个湖里鱼很多。
+abound in = 富含（与 abound with 同义）
+
+about
+核心：这个词有两条主线。一条是"围绕、关于"——话题绕着某物转，
+于是有了"关于"；另一条是"在附近、四处"——空间上绕着转，于是有了
+"大约、差不多"和"到处"。理解了"绕"这个底层意象，十几个用法就串起来了。
+① It's a book about China.
+= 那是一本关于中国的书。
+这里：
+about = 关于
+② What are you talking about?
+= 你在说什么？
+③ There were about fifty people.
+= 大约有五十个人。
+这里：
+about = 大约
+④ He's about six feet tall.
+= 他大约六英尺高。
+⑤ The children were running about.
+= 孩子们跑来跑去。
+这里：
+about = 到处（英式，美式多用 around）
+⑥ Is there anyone about?
+= 附近有人吗？
+这里：
+about = 在附近
+⑦ I'm about to leave.
+= 我正要走。
+be about to do = 即将做
+⑧ There's something odd about him.
+= 他身上有点不对劲。
+这里：
+about = 在…身上（指特质）
+⑨ How about a coffee?
+= 喝杯咖啡怎么样？
+How about…? = …怎么样（提议）
+⑩ It's about time you left.
+= 你早该走了。
+It's about time = 早就该…了（带责备）
+⑪ The government made an about-turn.
+= 政府来了个一百八十度转弯。
+about-turn = 大转变、掉头（美式说 about-face）
+
+above
+核心：底层是"在…上方"，而且不接触。由此延伸出三层比喻：数量上
+的"超过"，地位上的"高于"，道德上的"不屑于做"。和 over 的差别是
+above 只说位置高低，over 还含"覆盖、越过"的意味。
+① The picture hangs above the fireplace.
+= 那幅画挂在壁炉上方。
+② The plane flew above the clouds.
+= 飞机在云层之上飞行。
+③ Temperatures rose above 40 degrees.
+= 气温升到了四十度以上。
+这里：
+above = 超过（数量）
+④ He is above me in rank.
+= 他职级比我高。
+⑤ She is above suspicion.
+= 她无可怀疑。
+be above suspicion = 清白得无可指摘
+⑥ He thinks he's above the law.
+= 他自以为凌驾于法律之上。
+⑦ See the example above.
+= 见上面的例子。
+这里是副词：
+above = 上文
+⑧ Children aged ten and above.
+= 十岁及以上的儿童。
+反义词：
+above 上方 / below 下方
+⑨ Their dealings were above board.
+= 他们的交易光明正大。
+above board = 光明磊落（源自牌桌上把手放在桌面）
+⑩ See the above-mentioned clause.
+= 见上述条款。
+above-mentioned = 上述的
+⑪ Put it above the fold.
+= 把它放在首屏。
+above-the-fold = 首屏的（原指报纸对折线以上）
+
+abracadabra
+核心：变魔术时说的咒语，相当于中文的"变！"。
+也引申指故弄玄虚的空话。
+① He waved his wand: "Abracadabra!"
+= 他一挥魔杖："变！"
+② Abracadabra, and it vanished.
+= 咒语一念，它就不见了。
+③ The report is full of abracadabra.
+= 那份报告净是些故弄玄虚的话。
+词源：可能源自阿拉姆语，
+中世纪曾作护身符上的咒文。
+同类咒语词：
+hocus-pocus = 咒语；骗人的把戏
+open sesame = 芝麻开门
+
+abrasion
+核心：两条线：皮肤上的"擦伤"，和物体表面的"磨损"。
+医学和材料学两个领域各用一条。
+① He suffered minor abrasions.
+= 他受了些轻微擦伤。
+minor abrasions = 轻微擦伤
+② The surface shows abrasion.
+= 表面有磨损。
+③ Abrasion resistance is important.
+= 耐磨性很重要。
+abrasion resistance = 耐磨性
+词族：
+abrasive = 有磨蚀性的；刺人的
+abrade = 磨损
+近义对照：
+abrasion = 擦伤（表皮）
+laceration = 撕裂伤
+bruise = 淤伤
+
+abrasive
+核心：字面指"有磨蚀性的"（砂纸、清洁剂），比喻指人说话"刺人、
+不客气"。后者是贬义，形容态度生硬到让人不舒服。
+① Use an abrasive cleaner.
+= 用带磨砂的清洁剂。
+② He has an abrasive manner.
+= 他态度很冲。
+这里带贬义。
+③ Sand is abrasive.
+= 沙子有磨蚀性。
+④ Her abrasive tone offended him.
+= 她生硬的口气冒犯了他。
+名词用法：
+abrasive = 研磨料
+近义对照：
+abrasive 刺人（态度粗糙）
+blunt 直率（不绕弯）
+harsh 严厉（评判重）
+⑤ She answered abrasively.
+= 她答得很冲。
+abrasively = 生硬刺人地
+⑥ His abrasiveness cost him friends.
+= 他的尖刻让他失去了朋友。
+abrasiveness = 态度生硬；磨蚀性

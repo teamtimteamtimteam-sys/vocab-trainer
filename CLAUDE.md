@@ -91,10 +91,18 @@ harsh = 严厉（评判重）
 |---|---|---|
 | 地区变体英语 | `ach`（苏格兰/爱尔兰）、`arty`（英式） | 哪个地区用，别处不说 |
 | 国别变体借词 | `achcha` `aapa` `achkan`（印度英语） | 标 Indian English，不是印地语词 |
-| 古旧词 | `ague` `abed` `asunder` `anon` | 注明已古旧，日常该说什么 |
+| 古旧词 | 只保留「词还在用、某个义项古旧」的 | 注明哪个义项旧了、现在该说什么 |
 | 专业术语 | `abscissa` `acrolect` `ablative` | 哪个学科用 |
 | 冒犯性词 | `airhead` `Abo` `asylum`（作精神病院讲） | 明确写「不礼貌」「已过时」 |
 | 商标通名化 | `Android` `AstroTurf` | 注明原为商标 |
+
+**不收的两类**（名单在 `reference/exclude.txt`，coverage.py 自动剔除）：
+① **地区变体英语与国别变体借词** —— ach（苏格兰）、achcha / aapa / achkan（印度英语）
+② **窄专业生僻词与整词已废的古旧词** —— acrolect、accidence、abscissa、actinium、
+accelerando、acanthus、aconite、ague、asunder、anon、abaft。
+判断线是「雅思 6 分以上的人在一般阅读、新闻、学术文章里会不会遇到」。
+**注意只删「整词已废」的古旧词** —— abide、ail、alms、aforesaid、asylum
+都是词还在用、只是某个义项旧了，这些保留，在词条里注明就好。
 
 **别把这些混称「方言」** —— 中文的「方言」指同一语言下的地方话，
 而 `achcha` 是印度英语的词、`ach` 是苏格兰英语的词，两者都是英语的

@@ -22,6 +22,19 @@ import sys, io, csv, glob, os, re, string
 sys.path.insert(0, 'scripts')
 from wordkey import sort_key, prefix
 
+def excluded():
+    """收词范围的排除名单，见 reference/exclude.txt。
+    用户裁定：地区变体英语与国别变体借词不收；学科术语、化学医药、
+    音乐文体、拟声口语、文化专名里的生僻词不收。
+    判断线是「雅思 6 分以上的人在一般阅读里会不会遇到」。"""
+    f = 'reference/exclude.txt'
+    if not os.path.exists(f): return set()
+    out = set()
+    for l in io.open(f, encoding='utf-8'):
+        l = l.split('#')[0].strip()
+        if l: out.add(sort_key(l))
+    return out
+
 def keep_names():
     """首字母大写的词头里，哪些算「已经进了词汇」。见 reference/proper-nouns-keep.txt。
     用户裁定：收 Achilles tendon、Adam's apple 这类已成词汇的，
@@ -43,11 +56,15 @@ def load_reference():
                     if c in ('headword', 'word', 'entry', 'term')), 0)
         start = 1 if any(c in ('headword', 'word', 'entry', 'term') for c in head) else 0
         words += [r[col].strip() for r in rows[start:] if len(r) > col and r[col].strip()]
+    # 这两个是本脚本自己的名单文件，不是词头清单 —— 曾经被当成词头读进来，
+    # 于是缺词列表里冒出「abba  # 阿拉姆语「父亲」」这种带注释的假词条。
+    OWN = {'exclude.txt', 'proper-nouns-keep.txt'}
     for f in sorted(glob.glob('reference/*.txt')):
+        if os.path.basename(f) in OWN: continue
         words += [l.strip() for l in io.open(f, encoding='utf-8', errors='replace')
                   if l.strip() and not l.startswith('#')]
 
-    keep = keep_names()
+    keep, skip = keep_names(), excluded()
     out = {}
     for w in words:
         # 商标条目：清单里有两种写法，带真 ™ 的 400 条，
@@ -65,6 +82,8 @@ def load_reference():
             continue
         k = sort_key(w)
         if not k: continue
+        if k in skip:
+            continue                                   # 排除名单，见 reference/exclude.txt
         if w[:1].isupper() and keep is not None and k not in keep:
             continue                                   # 纯人名地名商标，不收
         # 同一条目的多种写法，保留带空格那版（更接近词典写法）

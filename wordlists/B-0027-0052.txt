@@ -1,64 +1,3 @@
-abbess
-核心：指女修道院的院长。和 abbot（男修道院院长）配对。
-① The abbess ran the convent.
-= 那位女院长管理着修道院。
-② She was elected abbess.
-= 她被选为女院长。
-③ The abbess received them.
-= 女院长接见了他们。
-配对词：
-abbot = 男修道院院长
-abbess = 女修道院院长
-abbey = 修道院
-注意复数：abbess → abbesses
-
-abbey
-核心：指修道院，也指由修道院改建的大教堂。Westminster Abbey
-就是后一种。和 monastery、convent 的区别在于 abbey 由 abbot 或
-abbess 主持，规模更大。
-① They visited Westminster Abbey.
-= 他们参观了威斯敏斯特教堂。
-② The abbey was built in 1150.
-= 那座修道院建于一一五〇年。
-③ Monks lived in the abbey.
-= 僧侣住在修道院里。
-词族：
-abbot = 男修道院院长
-abbess = 女修道院院长
-近义对照：
-abbey 大修道院（有院长）
-monastery 男修道院
-convent 女修道院
-
-abbot
-核心：指男修道院的院长，是修道院的最高负责人。
-和 monk（普通僧侣）区分：abbot 是管事的那位。
-① The abbot led the prayers.
-= 院长主持了祷告。
-② He became abbot in 1520.
-= 他一五二〇年当上院长。
-③ The abbot's word was final.
-= 院长说了算。
-等级对照：
-abbot = 院长 / prior 副院长 / monk 修士
-词族：abbey = 修道院
-
-abbreviate
-核心：指把词或短语"缩写"成更短的形式。被动式最常用：
-be abbreviated to。注意宾语是文字，不是时间——缩短时间是 shorten。
-① "Doctor" is abbreviated to "Dr".
-= 「Doctor」缩写成「Dr」。
-be abbreviated to = 缩写为
-② The title was abbreviated.
-= 那个标题被缩短了。
-③ Please don't abbreviate names.
-= 请不要缩写姓名。
-词族：
-abbreviation = 缩写形式
-注意区别：
-abbreviate 缩写（文字）
-shorten 缩短（长度、时间）
-
 abbreviation
 核心：指缩写形式本身。介词用 for 或 of。和 acronym（首字母缩略词，
 可以拼读成一个词，如 NATO）、initialism（逐字母念，如 BBC）
@@ -185,36 +124,6 @@ escape from one's abductors = 逃离绑匪
 abductor muscle = 外展肌
 反义词（解剖）：
 abductor = 外展肌 / adductor 内收肌
-
-abed
-核心：古旧或文学用语，指"在床上"。只作表语。
-现在只见于诗歌、旧文本和固定说法。
-① He lay abed till noon.
-= 他躺到中午才起。
-lie abed = 赖床
-② Sick and abed, she waited.
-= 她卧病在床地等着。
-③ Gentlemen now abed shall think themselves accursed.
-= 此刻仍高卧床上的人将自恨错过。
-出自莎士比亚《亨利五世》
-注意语体：abed 已很古旧，
-日常说 in bed。
-
-Aberdonian
-核心：指苏格兰阿伯丁的人或事物。
-名词形容词同形。是国族／地名形容词的构词范例。
-① He is a proud Aberdonian.
-= 他是个自豪的阿伯丁人。
-② The Aberdonian accent is distinctive.
-= 阿伯丁口音很有辨识度。
-Aberdonian accent = 阿伯丁口音
-③ Aberdonian granite built the city.
-= 阿伯丁花岗岩造就了那座城。
-构词：Aberdeen + -onian
-同类构词：
-Glaswegian = 格拉斯哥人
-Liverpudlian = 利物浦人
-Mancunian = 曼彻斯特人
 
 aberrant
 核心：正式用语，指"偏离常态的、异常的"，多用于行为、数据、
@@ -409,3 +318,107 @@ abject failure = 惨败
 副词形式：abjectly = 卑屈地
 注意：abject 语气极重，
 只用于最坏的情况。
+
+abjectly
+核心：abject 的副词，两个方向：程度上"极其地"（abjectly poor），
+态度上"卑屈地"（abjectly apologise）。
+① They live abjectly poor.
+= 他们过着赤贫的生活。
+abjectly poor = 赤贫的
+② He apologised abjectly.
+= 他低声下气地道歉。
+apologise abjectly = 卑微地道歉
+③ The attempt failed abjectly.
+= 那次尝试彻底失败。
+fail abjectly = 惨败
+词族：
+abject = 凄惨的；卑屈的
+
+abjure
+核心：极正式的"公开放弃、宣誓弃绝"，多用于信仰、誓言、
+主张。现在几乎只见于法律和历史文本。
+① He abjured his former beliefs.
+= 他公开放弃了从前的信仰。
+abjure beliefs = 弃绝信仰
+② They were forced to abjure violence.
+= 他们被迫宣布放弃暴力。
+③ She abjured all claims.
+= 她放弃了一切主张。
+词族：abjuration = 弃绝
+注意区别：
+abjure = 公开宣誓放弃（极正式）
+renounce = 正式放弃（正式）
+give up = 放弃（通用）
+
+ablation
+核心：两条线：医学上用手术或激光"消融"病变组织，
+和地质气候上冰雪的"消融"。不可数为主。
+① Cardiac ablation treats arrhythmia.
+= 心脏消融术治疗心律失常。
+cardiac ablation = 心脏消融
+② Glacier ablation accelerated.
+= 冰川消融加快了。
+glacier ablation = 冰川消融
+③ Laser ablation removes the layer.
+= 激光消融去除那一层。
+laser ablation = 激光烧蚀
+词族：ablate = 消融
+反义词（冰川学）：
+accumulation = 积累（降雪堆积）
+
+ablaze
+核心：只作表语。字面指"燃烧着的"，比喻指"色彩鲜艳夺目"
+或"情绪炽烈"。搭配 set ablaze 是"点燃"。
+① The building was ablaze.
+= 那栋楼火光冲天。
+be ablaze = 熊熊燃烧
+② The garden was ablaze with colour.
+= 花园里色彩绚烂。
+ablaze with = 因…而绚烂
+③ Rioters set cars ablaze.
+= 暴徒点燃了汽车。
+set ablaze = 纵火焚烧
+④ Her eyes were ablaze with anger.
+= 她眼里燃着怒火。
+注意：ablaze 只作表语，
+不说 an ablaze building。
+
+able
+核心：核心义是"有本事做到某事"，最常见的形式是 be able to。和
+can 的差别在于：can 没有不定式和完成形式，所以要表达"将来能"
+"曾经成功做到"时只能用 able。另一个义是放在名词前，夸人能干。
+① Will you be able to come?
+= 你能来吗？
+be able to do = 能够做
+② He was able to escape through a window.
+= 他成功从窗户逃了出去。
+was able to 强调"实际做到了"，
+这层意思 could 表达不了。
+③ She is an able administrator.
+= 她是个能干的管理者。
+这里：
+able = 有才干的（放在名词前）
+反义词：
+able 能够 / unable 不能
+词族：ably = 出色地
+④ He served as an able seaman.
+= 他当过一等水兵。
+able seaman = 一等水兵（海军军衔）
+⑤ Ableism excludes disabled people.
+= 健全主义把残障者排除在外。
+ableism = 健全主义（歧视残障的偏见）
+
+able-bodied
+核心：指身体健全、有劳动能力的，常与残障相对。带连字符，只作定语。
+在征兵、救灾、劳动力统计的语境里最常见。
+① They recruited able-bodied men.
+= 他们招募身体健全的男子。
+able-bodied men = 身强力壮的男子
+② Every able-bodied adult helped.
+= 每个有劳力的成年人都来帮忙。
+③ The scheme excludes able-bodied claimants.
+= 那项计划不包括有劳动能力的申请人。
+反义词：
+disabled = 残障的
+注意：able-bodied 只作定语，
+且现在描述人时要留意语境是否得体。
