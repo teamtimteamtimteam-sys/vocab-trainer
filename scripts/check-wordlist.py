@@ -35,9 +35,17 @@ def parse(path):
             m = EQ.match(t)
             if m and re.search(r'[A-Za-z]', m.group(1)): e['eqs'] += 1
         if not e['senses']: e['issues'].append("没有 ①②③ 例句")
+        # 编号必须从 ① 开始且连续 —— 漏一个 ② 在 app 里会直接显示成 ①③
+        nums = [NUMS.index(t[0]) for _, t in b['lines'][1:] if t[0] in NUMS]
+        if nums and nums != list(range(len(nums))):
+            e['issues'].append("例句编号不连续：" + "".join(NUMS[i] for i in nums))
         for i, s in enumerate(e['senses']):
             if not s['tr']: e['issues'].append("例句 %s 缺少 = 中文翻译" % NUMS[i])
             if not re.search(r'[A-Za-z]', s['ex']): e['issues'].append("例句 %s 里没有英文" % NUMS[i])
+            # 译文行混进英文单词几乎都是手误（专名和缩写除外）
+            stray = re.findall(r'[A-Za-z]{3,}', s['tr'])
+            stray = [w for w in stray if not w[0].isupper()]
+            if stray: e['issues'].append("例句 %s 的中文译文里混入英文：%s" % (NUMS[i], "、".join(stray)))
         out.append(e)
     return out
 
