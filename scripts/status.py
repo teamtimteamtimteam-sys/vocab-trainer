@@ -46,6 +46,21 @@ def main():
     print("     批均等式 ≥2.13、讲解行/义项 ≥1.50")
     print("  两者共有：编号连续、译文无中英混杂、无异体字符、跨批不重复")
     print()
+    # 下一步做什么，直接算出来 —— 冷启动照着做即可，不必翻聊天记录
+    try:
+        import subprocess, re as _re
+        out = subprocess.run([sys.executable, 'scripts/coverage.py', 'a'],
+                             capture_output=True, text=True).stdout
+        nxt = next((l.split()[0] for l in out.splitlines()
+                    if l.strip().startswith('a') and '← 缺' in l), None)
+        if nxt:
+            print(f"下一步：补 {nxt}- 段")
+            print(f"  python3 scripts/coverage.py {nxt}    ← 先看缺什么，分「待并入 / 待新写 / 待推迟」三栏")
+            print(f"  待并入的写进词根条里并补例句（不单列），待新写的才立新条")
+            print(f"  写完跑 renumber.py → resplit-b.py → check-wordlist.py → coverage.py {nxt} 验收")
+            print()
+    except Exception:
+        pass
     print("每收完一个字母段的固定动作")
     print("  0. python3 scripts/coverage.py a         对照牛津高阶词头清单查缺 ★最重要")
     print("  1. python3 scripts/audit-prefix.py a      查双字母段有没有整段漏掉")
