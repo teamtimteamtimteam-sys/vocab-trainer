@@ -34,6 +34,22 @@ def parse(path):
                 continue
             m = EQ.match(t)
             if m and re.search(r'[A-Za-z]', m.group(1)): e['eqs'] += 1
+        # 混进异体字符（韩文、日文假名、西里尔等）几乎都是输入法手误，
+        # 肉眼极难发现 —— log = 원木 这种就是这么混进来的。
+        allowed = re.compile(
+            r'[\u4e00-\u9fff\u3400-\u4dbf'                 # 汉字
+            r'A-Za-z0-9'                                     # 拉丁字母数字
+            r'\u00c0-\u024f'                                # 带变音的拉丁字母
+            r'\u0250-\u02af\u02b0-\u02ff'                  # 国际音标（讲解里到处在用）
+            r'\u3000-\u303f\uff00-\uffef'                  # 中日文标点、全角
+            r'\u2010-\u203b\u2460-\u24ff\u2190-\u21ff'    # 破折号、序号、箭头
+            r'\u2713\u2714\u2717\u2718\u2022\u00b7\u00b0' # 勾叉、项目符号、度
+            r'\u0370-\u03ff'                                 # 希腊字母（音标 θ ð 等）
+            r'\u2248\u2260\u2264\u2265\u00d7\u00f7'          # 约等于、不等号、乘除
+            r'\s' + re.escape("=+-*/%<>()[]{}.,;:!?'\"&#@~$^_|\\`") + r']')
+        odd = sorted(set(c for l in (t for _, t in b['lines']) for c in l if not allowed.match(c)))
+        if odd:
+            e['issues'].append("混入异体字符：" + " ".join("%s(U+%04X)" % (c, ord(c)) for c in odd[:6]))
         if not e['senses']: e['issues'].append("没有 ①②③ 例句")
         # 编号必须从 ① 开始且连续 —— 漏一个 ② 在 app 里会直接显示成 ①③
         nums = [NUMS.index(t[0]) for _, t in b['lines'][1:] if t[0] in NUMS]
@@ -55,6 +71,8 @@ def parse(path):
 BASE_SE, BASE_EQ, BASE_CH = 2.28, 2.32, 156
 
 def main(paths):
+    # 查重按文件名前缀分组：A 和 B 是两个人各自的词表，
+    # 同一个词在两边各出现一次是正常的，不该判为重复。
     seen, dupes, fail, allw = {}, [], False, []
     print("%-26s%5s%8s%8s%8s%6s%6s" % ("文件", "词条", "均义项", "均等式", "均字符", "问题", "重复"))
     print("-" * 70)
@@ -64,8 +82,9 @@ def main(paths):
             print("%-26s  空文件" % os.path.basename(p)); fail = True; continue
         bad = [e for e in es if e['issues']]
         d = []
+        prefix = os.path.basename(p).split('-')[0]
         for e in es:
-            k = e['word'].lower()
+            k = (prefix, e['word'].lower())
             if k in seen: d.append((e['word'], seen[k])); dupes.append((e['word'], seen[k], p))
             else: seen[k] = os.path.basename(p)
         n = len(es)
