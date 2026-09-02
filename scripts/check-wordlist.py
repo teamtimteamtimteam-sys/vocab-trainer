@@ -49,6 +49,9 @@ def parse(path):
         out.append(e)
     return out
 
+# 基线取自第一批人工验收过的 A-0001-0050
+BASE_SE, BASE_EQ, BASE_CH = 2.28, 2.32, 156
+
 def main(paths):
     seen, dupes, fail, allw = {}, [], False, []
     print("%-26s%5s%8s%8s%8s%6s%6s" % ("文件", "词条", "均义项", "均等式", "均字符", "问题", "重复"))
@@ -64,12 +67,16 @@ def main(paths):
             if k in seen: d.append((e['word'], seen[k])); dupes.append((e['word'], seen[k], p))
             else: seen[k] = os.path.basename(p)
         n = len(es)
-        print("%-26s%5d%8.2f%8.2f%8.0f%6d%6d" % (
-            os.path.basename(p), n,
-            sum(len(e['senses']) for e in es) / n,
-            sum(e['eqs'] for e in es) / n,
-            sum(e['chars'] for e in es) / n,
-            len(bad), len(d)))
+        avg_se = sum(len(e['senses']) for e in es) / n
+        avg_eq = sum(e['eqs'] for e in es) / n
+        avg_ch = sum(e['chars'] for e in es) / n
+        # 密度闸门：低于基线 8% 直接判失败，不靠肉眼盯
+        flag = ""
+        if avg_se < BASE_SE * 0.92 or avg_eq < BASE_EQ * 0.92 or avg_ch < BASE_CH * 0.92:
+            flag = "  ← 密度低于基线，需补写"
+            fail = True
+        print("%-26s%5d%8.2f%8.2f%8.0f%6d%6d%s" % (
+            os.path.basename(p), n, avg_se, avg_eq, avg_ch, len(bad), len(d), flag))
         for e in bad[:5]:
             for m in e['issues']:
                 print("    第 %d 行  %s: %s" % (e['line'], e['word'], m)); fail = True
