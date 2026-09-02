@@ -1,3 +1,51 @@
+appal
+核心：指"使震惊、使骇然"，常用被动 be appalled。
+英式拼 appal，美式拼 appall。
+① The news appalled us.
+= 那消息让我们震惊。
+② I was appalled by the conditions.
+= 那种条件让我骇然。
+be appalled by = 对…感到震惊
+③ It appals me that this happens.
+= 这种事居然会发生，让我震惊。
+注意英美拼写：
+英式 appal / 美式 appall
+过去式两边都是 appalled。
+词族：appalling = 骇人的
+
+appalled
+核心：指人"感到震惊骇然的"，程度比 shocked 重，
+且带道德上的反感。介词用 by 或 at。
+① She was appalled at the waste.
+= 那种浪费让她震惊。
+appalled at = 对…骇然
+② Viewers were appalled.
+= 观众们震惊不已。
+③ He looked appalled.
+= 他一脸骇然。
+词族：
+appal = 使震惊
+appalling = 骇人的
+程度：
+surprised = 惊讶
+shocked = 震惊
+appalled = 骇然（带反感）
+
+appalling
+核心：指事物"骇人的、糟透了的"。既可以说真正可怕的事，
+也可以口语夸张地说"差得离谱"。
+① The conditions are appalling.
+= 那种条件糟糕透顶。
+appalling conditions = 恶劣至极的条件
+② It's an appalling waste.
+= 那是骇人的浪费。
+③ Her handwriting is appalling.
+= 她字写得惨不忍睹。
+口语夸张用法
+副词形式：
+appallingly = 骇人地
+词族：appal、appalled
+
 apparatus
 核心：三条线：成套的"设备器械"、体操的"器械"、
 以及组织的"机构体系"（the state apparatus）。
@@ -291,6 +339,40 @@ whet one's appetite = 引起兴趣
 appetizer = 开胃菜
 appetizing = 开胃的、诱人的
 
+appetizer
+核心：指正餐前的"开胃菜、前菜"。美式常用，
+英式更常说 starter。也拼作 appetiser。
+① We ordered appetizers.
+= 我们点了几道前菜。
+② The appetizer was excellent.
+= 那道开胃菜很棒。
+③ Shrimp makes a good appetizer.
+= 虾做前菜很合适。
+注意英美差别：
+美式 appetizer / 英式 starter
+注意拼写：appetizer / appetiser 都可以。
+一餐的顺序：
+starter / appetizer = 前菜
+main course = 主菜
+dessert = 甜点
+
+appetizing
+核心：指食物"看着诱人、让人有食欲的"。
+否定形式 unappetizing 用得同样多。
+① The smell is appetizing.
+= 那香味很诱人。
+appetizing smell = 诱人的香味
+② It looks appetizing.
+= 看着就有食欲。
+③ The photo made it appetizing.
+= 那张照片拍得让人想吃。
+反义词：
+unappetizing = 倒胃口的
+词族：
+appetite = 食欲
+appetizer = 开胃菜
+注意拼写：appetizing / appetising 都可以。
+
 applaud
 核心：字面是"鼓掌"，比喻是"称赞、赞许"。后者在正式文体里很常见，
 比如 applaud a decision。及物不及物都可以。
@@ -307,166 +389,35 @@ applause = 掌声（不可数）
 注意：applause 不可数，
 不说 an applause、applauses。
 
-application
-核心：三条线：申请（申请书）、应用（把理论用到实处）、以及电脑上的
-应用程序。第三个义现在最常用，缩写就是 app。
-① I submitted my application.
-= 我提交了申请。
-② Fill in the application form.
-= 填写申请表。
-application form = 申请表
-③ It has practical applications.
-= 它有实际用途。
-这里：
-application = 应用
-④ Download the application.
-= 下载那个应用程序。
-缩写为 app。
-⑤ Apply two applications of paint.
-= 刷两遍漆。
-这里：
-application = 涂敷（一次）
-词族：applicant = 申请人
-
-apply
-核心：底层是"把某物贴到、用到某处"。申请是"把自己递上去"，应用是
-"把规则用上去"，涂抹是"把东西敷上去"。apply for 和 apply to
-意思不同，要分清。
-① She applied for the job.
-= 她申请了那份工作。
-apply for = 申请（某职位）
-② He applied to three universities.
-= 他向三所大学递了申请。
-apply to = 向…申请
-③ The rule applies to everyone.
-= 那条规则适用于所有人。
-apply to = 适用于
-④ Apply the cream twice daily.
-= 每天涂两次药膏。
-这里：
-apply = 涂抹
-⑤ Apply the theory to practice.
-= 把理论用到实践中。
-apply A to B = 把 A 用到 B 上
-⑥ She applied herself to the task.
-= 她专心投入那项任务。
-apply oneself to = 专心致志于
-
-appoint
-核心：底层是"指定"。指定人担任职位是"任命"，指定时间地点是"约定"。
-后者现在多以 appointed（约定的）和 appointment 的形式出现。
-① They appointed her manager.
-= 他们任命她为经理。
-appoint someone + 职位
-② He was appointed to the board.
-= 他被任命进了董事会。
-be appointed to = 被任命到
-③ We met at the appointed time.
-= 我们在约定时间见了面。
-这里：
-appointed = 约定的
-④ An inquiry was appointed.
-= 设立了一个调查组。
+applause
+核心：指"掌声"，不可数——这是高频错点，
+不说 an applause 或 applauses。
+① The applause lasted minutes.
+= 掌声持续了好几分钟。
+② She received warm applause.
+= 她获得了热烈掌声。
+warm applause = 热烈的掌声
+③ A round of applause, please.
+= 请鼓掌。
+a round of applause = 一阵掌声
 词族：
-appointment = 任命；预约
-注意：make an appointment
-指约见医生、理发这类预约。
+applaud = 鼓掌；称赞
+注意：applause 不可数，
+「一阵掌声」说 a round of applause。
 
-appreciate
-核心：三条线看似无关，其实都是"看清它的价值"：懂得欣赏、心存感激、
-以及正确理解某个情况。第四条是金融上的"升值"。注意它不用于
-进行时，也不说 appreciate you to do。
-① I appreciate good music.
-= 我懂得欣赏好音乐。
-这里：
-appreciate = 欣赏
-② I'd appreciate your help.
-= 如蒙相助，不胜感激。
-I'd appreciate it if… = 如果…我会很感激
-③ I appreciate that it's difficult.
-= 我明白这事不容易。
-appreciate that = 理解、体谅
-④ The house has appreciated in value.
-= 那栋房子升值了。
-这里：
-appreciate = 增值
-词族：
-appreciation = 欣赏、感激
-反义词：depreciate = 贬值
-
-approach
-核心：底层是"靠近"。空间上走近、时间上临近、以及"着手处理某事的
-方式方法"。第三个义在雅思写作里最常用。名词还指"通往某处的路"。
-① Winter is approaching.
-= 冬天快到了。
-② He approached the door.
-= 他走近门口。
-及物，不加 to。
-③ We need a new approach.
-= 我们需要新的方法。
-这里：
-approach = 方法、途径
-④ She approached me with an offer.
-= 她带着一个提议来找我。
-approach someone with = 带着…找某人
-⑤ The approach to the house is steep.
-= 通往那栋房子的路很陡。
-⑥ His approach to the problem was practical.
-= 他处理问题的方式很务实。
-an approach to = 对待…的方法
-注意：动词 approach 及物，不说 approach to the door。
-
-appropriate
-核心：形容词指"合适、得体"，强调合乎场合与身份；动词重音在后，
-指"挪用、拨款"，是完全不同的意思。介词用 for 或 to。
-① Wear appropriate clothing.
-= 穿得体的衣服。
-② That remark was not appropriate.
-= 那句话不合适。
-③ It's appropriate for the occasion.
-= 那适合这个场合。
-be appropriate for = 适合于
-④ Funds were appropriated for the project.
-= 拨了款给那个项目。
-这里是动词，重音在后。
-副词形式：
-appropriately = 恰当地
-反义词：inappropriate = 不恰当的
-
-approve
-核心：两个意思差别很大。approve of 是"赞成、看得上"（表态度），
-approve 直接接宾语是"正式批准"（有权限）。混用会闹笑话。
-① The board approved the plan.
-= 董事会批准了那个计划。
-及物 = 正式批准
-② Her parents don't approve of him.
-= 她父母看不上他。
-approve of = 赞成、认可
-③ The drug has been approved.
-= 那种药已获批准。
-④ I don't approve of smoking.
-= 我不赞成吸烟。
-词族：
-approval = 批准、赞同
-反义词：disapprove = 不赞成
-注意：approve of 后面接人或行为，
-approve 后面接方案文件。
-
-approximately
-核心：正式场合的"大约"，比 about 书面。数据描述里高频，雅思小作文
-常用。形容词是 approximate，动词 approximate to 意为"接近于"。
-① It costs approximately £50.
-= 那大约要五十英镑。
-② Approximately 30% agreed.
-= 约有三成的人同意。
-③ The approximate figure is 200.
-= 大致数字是两百。
-这里是形容词。
-④ The result approximates to ours.
-= 那个结果接近我们的。
-approximate to = 接近于
-近义对照：
-approximately 大约（正式）
-about 大约（通用）
-roughly 粗略地（口语）
-around 大约（口语）
+apple
+核心：指苹果。构词和习语能力极强：apple pie、
+the apple of one's eye（掌上明珠）、Adam's apple（喉结）。
+① She ate an apple.
+= 她吃了个苹果。
+② Apple pie is a classic dessert.
+= 苹果派是道经典甜点。
+apple pie = 苹果派
+③ She's the apple of his eye.
+= 她是他的掌上明珠。
+the apple of one's eye = 心头至爱
+④ An apple a day keeps the doctor away.
+= 一天一苹果，医生远离我。
+常用搭配：
+Adam's apple = 喉结
+upset the apple cart = 打乱计划
