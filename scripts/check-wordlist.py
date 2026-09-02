@@ -123,5 +123,9 @@ def main(paths):
 if __name__ == "__main__":
     ps = []
     for a in sys.argv[1:]: ps += glob.glob(a)
+    # merged 是分批文件的派生副本，参与查重会把每个词都判成重复。
+    # 只有显式点名时才检查它（那时它是唯一输入，跨批查重自然只在它内部生效）。
+    if len(ps) > 1:
+        ps = [p for p in ps if '-merged-' not in os.path.basename(p)]
     if not ps: print("用法: check-wordlist.py '<glob>'"); sys.exit(2)
     sys.exit(main(ps))
