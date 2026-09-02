@@ -518,7 +518,7 @@ const INTERVALS  = [1, 2, 4, 7, 15, 30];   // 天，从整组背完当天起算
 const DAILY_CAP  = 5;                       // 每日复习配额（组）
 const DAY_START  = 4;                       // 凌晨 4:00 为一天分界
 const BACKUP_WARN_DAYS = 7;
-const APP_VERSION = "1.1.0";
+const APP_VERSION = "1.1.1";
 
 /* ---------------------------------------------------------------- utils */
 const $ = s => document.querySelector(s);
@@ -668,7 +668,7 @@ function canStartNewGroup() {
 
 /* ------------------------------------------------------------ 解析器 */
 const NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮";
-const SUMMARY_RE = /^(所以|总之|总结|归纳|综上|因此)/;
+const SUMMARY_RE = /^(所以|总之|总结|归纳|综上|因此|一个词|记住|词族|注意区别|对比|反义词|近义词)/;  // 只在最后一个例句之后、且其后不再出现新例句时才生效
 const EQ_RE = /^([A-Za-z][A-Za-z0-9’'\-\s.]{0,44}?)\s*=\s*(.+)$/;
 
 function classifyNote(line) {
