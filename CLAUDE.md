@@ -100,7 +100,10 @@ harsh = 严厉（评判重）
 ① **地区变体英语与国别变体借词** —— ach（苏格兰）、achcha / aapa / achkan（印度英语）
 ② **窄专业生僻词与整词已废的古旧词** —— acrolect、accidence、abscissa、actinium、
 accelerando、acanthus、aconite、ague、asunder、anon、abaft。
-判断线是「雅思 6 分以上的人在一般阅读、新闻、学术文章里会不会遇到」。
+**不要用「学习者会不会遇到」当判断线** —— 那是主观的，一用就开始自作主张地筛，
+a 段第一次只收 10%、ab- 段只收 31% 都是这么来的。排除只按客观类别走，
+其余一律收，不管看起来多冷僻。拿不准就收 —— 少收的代价（学的人搜不到）更大。
+
 **注意只删「整词已废」的古旧词** —— abide、ail、alms、aforesaid、asylum
 都是词还在用、只是某个义项旧了，这些保留，在词条里注明就好。
 
@@ -165,7 +168,7 @@ python3 scripts/coverage.py ab ac    # 看具体缺哪些词
 两条用户裁定已写进脚本：
 ① **首字母大写的条目只收「已经进了词汇」的** —— Achilles tendon、Adam's apple、
 Ayurvedic medicine、Alzheimer's 收，纯人名地名商标（Aaron、Aberdeen、Aga™）不收。
-判断标准是「背了对英语能力有没有帮助」。名单在 `reference/proper-nouns-keep.txt`，
+名单在 `reference/proper-nouns-keep.txt`，
 逐条过完记在那里，不再重复讨论。
 ② **多词条目和派生词一律并进词根的词条，不单列** —— abide by、abound in 写进
 abide / abound 条，abrasively、abrasiveness 写进 abrasive 条，并各配例句。
