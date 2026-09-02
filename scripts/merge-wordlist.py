@@ -30,7 +30,7 @@ def main(prefix, size):
     # A 不能这么做：A 是按词频由简到难排的，排字母序会毁掉难度梯度。
     if prefix == 'B':
         # 词典式排序：忽略空格和连字符，让 ad hoc / able-bodied 归到正确位置
-        entries.sort(key=lambda b: b.split('\n')[0].strip().lower().replace(' ','').replace('-',''))
+        entries.sort(key=lambda b: b.split('\n')[0].strip().lower().replace(' ','').replace('-','').replace('.',''))
         print("\n  B：已按字母顺序重排")
     n = len(entries)
     made = []

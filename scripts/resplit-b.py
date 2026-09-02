@@ -15,7 +15,7 @@
 """
 import sys, io, glob, os
 
-KEY = lambda s: s.lower().replace(' ', '').replace('-', '')
+KEY = lambda s: s.lower().replace(' ', '').replace('-', '').replace('.', '')
 SIZE_DEFAULT = 25
 
 def main(size):

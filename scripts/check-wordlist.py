@@ -5,7 +5,9 @@ import sys, re, io, glob, os
 
 NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟㊱㊲㊳㊴㊵㊶㊷㊸㊹㊺㊻㊼㊽㊾㊿"  # ①-⑳ ㉑-㉟ ㊱-㊿
 EQ = re.compile(r"^([A-Za-z][A-Za-z0-9’'\-\s.]{0,44}?)\s*=\s*(.+)$")
-WORD_OK = re.compile(r"^[A-Za-z][A-Za-z0-9’'\-. ]*$")
+# 词条首行允许带重音的拉丁字母 —— à la carte、café、cliché、naïve、
+# résumé、façade 都是牛津高阶的正当词条，不是输入法手误。
+WORD_OK = re.compile(r"^[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ0-9’'\-. ]*$")
 
 def parse(path):
     is_b = os.path.basename(path).startswith('B-')
