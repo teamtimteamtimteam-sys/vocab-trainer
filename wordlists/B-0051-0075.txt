@@ -1,119 +1,18 @@
-able-bodied
-核心：指身体健全、有劳动能力的，常与残障相对。带连字符，只作定语。
-在征兵、救灾、劳动力统计的语境里最常见。
-① They recruited able-bodied men.
-= 他们招募身体健全的男子。
-able-bodied men = 身强力壮的男子
-② Every able-bodied adult helped.
-= 每个有劳力的成年人都来帮忙。
-③ The scheme excludes able-bodied claimants.
-= 那项计划不包括有劳动能力的申请人。
-反义词：
-disabled = 残障的
-注意：able-bodied 只作定语，
-且现在描述人时要留意语境是否得体。
-
-ablutions
-核心：指洗漱这件事，宗教上指净身仪式，日常用则带一点戏谑的正式腔。
-永远用复数。
-① He performed his morning ablutions.
-= 他做了早晨的洗漱。
-perform one's ablutions = 洗漱（略带戏谑）
-② Ritual ablutions precede prayer.
-= 祷告前要先净身。
-ritual ablutions = 净身仪式
-③ The ablutions block is outside.
-= 盥洗房在外面。
-ablutions block = 盥洗区（军营、营地）
-注意：ablutions 永远用复数。
+abolition
+核心：abolish 的名词形式，指制度性的"废除"。历史上最常见的搭配是
+the abolition of slavery。不可数。
+① They fought for the abolition of slavery.
+= 他们为废奴而斗争。
+the abolition of = …的废除
+② The abolition of the tax was welcomed.
+= 废除那项税受到欢迎。
+③ He supports abolition of the death penalty.
+= 他支持废除死刑。
 词族：
-ablution = 洗涤（单数罕用）
-
-ably
-核心：able 的副词形式，"能干地、出色地"。最常见的搭配是
-ably assisted by（在…的得力协助下），多见于致谢和正式报道。
-① She was ably assisted by her team.
-= 她的团队给了她有力协助。
-ably assisted by = 得到…的得力协助
-② He ably defended the case.
-= 他出色地为那个案子辩护。
-③ The role was ably performed.
-= 那个角色演得很好。
-词族：
-able = 有能力的
-ability = 能力
-近义对照：
-ably = 能干地（正式）
-well = 好（通用）
-competently = 称职地
-
-abnegation
-核心：极正式的"克己、自我否弃"，多用于宗教和道德语境。
-最常见的形式是 self-abnegation。不可数。
-① Self-abnegation is central to the faith.
-= 克己是那种信仰的核心。
-self-abnegation = 自我克制
-② His life was one of abnegation.
-= 他一生都在自我节制。
-③ The vow requires abnegation of worldly goods.
-= 那个誓约要求放弃俗世财物。
-abnegation of = 对…的弃绝
-词族：
-abnegate = 放弃（罕用）
-近义对照：
-abnegation = 克己弃绝（宗教、道德）
-self-denial = 自我克制（通用）
-
-abnormality
-核心：指"异常之处"，可数用于具体的异常，不可数用于异常这个性质。
-医学语境最常见：genetic abnormality、heart abnormality。
-① Tests revealed an abnormality.
-= 检查发现了一处异常。
-② There was a genetic abnormality.
-= 存在一处基因异常。
-genetic abnormality = 基因异常
-③ No abnormality was detected.
-= 未检出异常。
-注意复数：
-abnormality → abnormalities
-词族：
-abnormal = 异常的
-反义词：
-normality = 正常状态
-
-abnormally
-核心：abnormal 的副词，"反常地、异常地"。最常见的是修饰
-形容词表示程度超出常态：abnormally high / low / cold。
-① Temperatures are abnormally high.
-= 气温异常偏高。
-abnormally high = 异常偏高
-② The results were abnormally low.
-= 结果异常偏低。
-③ He behaved abnormally.
-= 他举止反常。
-词族：
-abnormal = 异常的
-abnormality = 异常
-近义对照：
-abnormally = 反常地（暗示不该如此）
-unusually = 不寻常地（中性）
-
-abode
-核心：正式或戏谑的"住所"。现在几乎只活在两个搭配里：
-place of abode（法律用语）和 right of abode（居留权）。
-① Welcome to my humble abode.
-= 欢迎光临寒舍。
-humble abode = 寒舍（戏谑）
-② He has no fixed abode.
-= 他居无定所。
-of no fixed abode = 无固定住所（法律用语）
-③ She has right of abode here.
-= 她在这里有居留权。
-right of abode = 居留权
-词族：
-abide = 居住（古义）
-注意：abode 日常不用，
-说住处用 home 或 residence。
+abolish = 废除
+abolitionist = 废奴主义者
+注意：abolition 只用于制度、法律、
+习俗这类抽象事物。
 
 abolitionist
 核心：指主张废除某项制度的人，历史上特指废奴主义者，
@@ -236,6 +135,24 @@ abortive = 失败的
 注意：abort 强调"半途强行停止"，
 不是自然结束。
 
+abortion
+核心：医学上指"堕胎、流产"，是英语世界里政治色彩很强的词。
+另有一个引申义指计划"中途夭折"。动词是 abort。
+① Abortion is a divisive issue.
+= 堕胎是个有分歧的议题。
+② She had an abortion.
+= 她做了人工流产。
+have an abortion = 堕胎
+③ The mission was aborted.
+= 那次任务中止了。
+动词 abort = 中止
+④ They debate abortion rights.
+= 他们辩论堕胎权。
+词族：
+abortive = 失败的、夭折的
+注意语境：这个词在英语里
+政治敏感度很高，讨论时要谨慎。
+
 abortionist
 核心：指施行堕胎的人，尤指非法施行者。词本身带贬义和法律色彩，
 中性表述用 doctor 或 provider。
@@ -270,6 +187,89 @@ abortive = 未遂的（只作定语）
 unsuccessful = 不成功的（通用）
 failed = 失败的（通用）
 
+abound
+核心：指"大量存在、多得很"，不及物，没有被动。两个结构：
+X abounds（X 很多）和 X abounds with / in Y（X 里满是 Y）。
+偏书面。
+① Rumours abound.
+= 传言四起。
+② The river abounds with fish.
+= 那条河里鱼很多。
+abound with / in = 富含、充满
+③ Opportunities abound here.
+= 这里机会很多。
+词族：
+abundant = 丰富的
+abundance = 丰富
+注意语体：abound 偏书面，
+口语说 there are lots of。
+
+about
+核心：这个词有两条主线。一条是"围绕、关于"——话题绕着某物转，
+于是有了"关于"；另一条是"在附近、四处"——空间上绕着转，于是有了
+"大约、差不多"和"到处"。理解了"绕"这个底层意象，十几个用法就串起来了。
+① It's a book about China.
+= 那是一本关于中国的书。
+这里：
+about = 关于
+② What are you talking about?
+= 你在说什么？
+③ There were about fifty people.
+= 大约有五十个人。
+这里：
+about = 大约
+④ He's about six feet tall.
+= 他大约六英尺高。
+⑤ The children were running about.
+= 孩子们跑来跑去。
+这里：
+about = 到处（英式，美式多用 around）
+⑥ Is there anyone about?
+= 附近有人吗？
+这里：
+about = 在附近
+⑦ I'm about to leave.
+= 我正要走。
+be about to do = 即将做
+⑧ There's something odd about him.
+= 他身上有点不对劲。
+这里：
+about = 在…身上（指特质）
+⑨ How about a coffee?
+= 喝杯咖啡怎么样？
+How about…? = …怎么样（提议）
+⑩ It's about time you left.
+= 你早该走了。
+It's about time = 早就该…了（带责备）
+
+above
+核心：底层是"在…上方"，而且不接触。由此延伸出三层比喻：数量上
+的"超过"，地位上的"高于"，道德上的"不屑于做"。和 over 的差别是
+above 只说位置高低，over 还含"覆盖、越过"的意味。
+① The picture hangs above the fireplace.
+= 那幅画挂在壁炉上方。
+② The plane flew above the clouds.
+= 飞机在云层之上飞行。
+③ Temperatures rose above 40 degrees.
+= 气温升到了四十度以上。
+这里：
+above = 超过（数量）
+④ He is above me in rank.
+= 他职级比我高。
+⑤ She is above suspicion.
+= 她无可怀疑。
+be above suspicion = 清白得无可指摘
+⑥ He thinks he's above the law.
+= 他自以为凌驾于法律之上。
+⑦ See the example above.
+= 见上面的例子。
+这里是副词：
+above = 上文
+⑧ Children aged ten and above.
+= 十岁及以上的儿童。
+反义词：
+above 上方 / below 下方
+
 abrasion
 核心：两条线：皮肤上的"擦伤"，和物体表面的"磨损"。
 医学和材料学两个领域各用一条。
@@ -288,6 +288,60 @@ abrade = 磨损
 abrasion = 擦伤（表皮）
 laceration = 撕裂伤
 bruise = 淤伤
+
+abrasive
+核心：字面指"有磨蚀性的"（砂纸、清洁剂），比喻指人说话"刺人、
+不客气"。后者是贬义，形容态度生硬到让人不舒服。
+① Use an abrasive cleaner.
+= 用带磨砂的清洁剂。
+② He has an abrasive manner.
+= 他态度很冲。
+这里带贬义。
+③ Sand is abrasive.
+= 沙子有磨蚀性。
+④ Her abrasive tone offended him.
+= 她生硬的口气冒犯了他。
+名词用法：
+abrasive = 研磨料
+近义对照：
+abrasive 刺人（态度粗糙）
+blunt 直率（不绕弯）
+harsh 严厉（评判重）
+
+abreast
+核心：底层是"并排"。字面指并肩前行，比喻指"跟上（信息、发展）"，
+后者搭配 keep abreast of，是正式文体的高频短语。
+① They walked two abreast.
+= 他们两人并排走。
+… abreast = …人并排
+② Keep abreast of the news.
+= 随时了解新闻。
+keep abreast of = 跟上、了解最新
+③ He stays abreast of developments.
+= 他掌握着最新动态。
+④ The car drew abreast of us.
+= 那辆车追到了和我们并排。
+draw abreast of = 追平、并排
+注意：abreast 现在几乎只用在
+keep / stay abreast of 里。
+
+abridge
+核心：指把书、剧本"删节缩短"，保留主要内容。被动和过去分词形式
+最常用：an abridged edition。和 abbreviate 的差别：abbreviate
+缩的是词，abridge 缩的是长篇作品。
+① This is an abridged edition.
+= 这是删节本。
+abridged edition = 节本
+② The novel was abridged for radio.
+= 那部小说为广播做了删节。
+③ They abridged the speech.
+= 他们删减了那篇讲话。
+词族：
+abridgement = 节本
+反义词：unabridged = 未删节的
+注意区别：
+abridge 删节（长篇作品）
+abbreviate 缩写（词语）
 
 abridged
 核心：指书籍、录音"删节过的"。和 unabridged 配对，后者在有声书和
@@ -322,6 +376,22 @@ an abridgement of = …的节本
 词族：
 abridge = 删节
 
+abroad
+核心：指"在国外、到国外"，本身已含介词意味，所以前面不加 to 或
+in——go abroad 不说 go to abroad，这是高频错误。
+① She lives abroad.
+= 她住在国外。
+② He went abroad to study.
+= 他出国留学了。
+go abroad = 出国
+③ News of the defeat soon spread abroad.
+= 战败的消息很快传开了。
+这里是旧式用法：
+abroad = 广泛流传
+常用搭配：
+from abroad = 从国外
+at home and abroad = 国内外
+
 abrogate
 核心：极正式的法律用语，指正式"废除、撤销"条约、法律、权利。
 比 abolish 更技术化，多见于国际法文本。
@@ -339,6 +409,23 @@ abrogate = 废除（条约、法律，极正式）
 abolish = 废除（制度）
 repeal = 废止（成文法条）
 revoke = 撤销（许可、命令）
+
+abrupt
+核心：核心义是"没有过渡的、突然中断的"。用于事件时指"猝然"，
+用于人的态度时指"话说得又短又冲"，后者是贬义。
+① The meeting came to an abrupt end.
+= 会议戛然而止。
+② There was an abrupt change in the weather.
+= 天气突变。
+③ He was abrupt with me on the phone.
+= 他在电话里对我很冲。
+这里：
+abrupt = 唐突无礼的
+副词形式：
+abruptly = 突然地、唐突地
+注意区别：
+abrupt = 突然（常含不悦）
+sudden = 突然（中性）
 
 abruptly
 核心：两个方向：动作上"突然地"，态度上"唐突生硬地"。
@@ -370,36 +457,3 @@ the abruptness of = …的突然
 词族：
 abrupt = 突然的
 abruptly = 突然地
-
-abscond
-核心：指携款或弃保"潜逃"，法律用语。介词用 with（带走什么）
-或 from（从哪里逃）。
-① He absconded with the funds.
-= 他卷款潜逃了。
-abscond with = 携…潜逃
-② The prisoner absconded from custody.
-= 那名囚犯脱逃了。
-abscond from = 从…潜逃
-③ Two suspects have absconded.
-= 两名嫌疑人在逃。
-词族：
-absconder = 潜逃者
-近义对照：
-abscond = 潜逃（法律，常携款或弃保）
-flee = 逃离（危险）
-escape = 逃脱（束缚）
-
-abseil
-核心：英式登山术语，指沿绳索"速降"下崖。美式说 rappel。
-既是动词也是名词。
-① They abseiled down the cliff.
-= 他们沿绳索速降下崖。
-abseil down = 沿绳下降
-② She learned to abseil.
-= 她学会了绳降。
-③ It was a 50-metre abseil.
-= 那是五十米的绳降。
-注意英美差别：
-英式 abseil / 美式 rappel
-注意发音：/ˈæbseɪl/，
-词源来自德语。
