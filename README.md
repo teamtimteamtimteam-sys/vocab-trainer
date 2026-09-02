@@ -2,16 +2,29 @@
 
 纯前端单文件 PWA，数据全部存在设备本地（IndexedDB）。
 
-## 在 iPad 上安装
+## 在 iPad / iPhone 上安装
 
-1. 把 `index.html` 传到 iPad（AirDrop / iCloud Drive / 邮件都行）
-2. 用 **Safari** 打开
-3. 分享菜单 → **添加到主屏幕**
-4. **以后一律从主屏幕图标进入**
+**https://teamtimteamtimteam-sys.github.io/vocab-trainer/**
 
-> 第 4 步是硬性要求：加到主屏幕的 Web App 有自己独立的存储容器，不受 Safari
+1. 用 **Safari** 打开上面的地址（必须是 Safari，Chrome 等第三方浏览器没有「添加到主屏幕」）
+2. 分享菜单 → **添加到主屏幕**
+3. **以后一律从主屏幕图标进入**
+
+> 不要用 AirDrop 传 `index.html` 再本地打开：iOS 的 Safari 无法打开本地 `file://` 网页，
+> 「用其他应用打开」里也不会出现 Safari。必须走上面这个 HTTPS 地址。
+
+> 第 3 步是硬性要求：加到主屏幕的 Web App 有自己独立的存储容器，不受 Safari
 > 「连续 7 天无交互即清除脚本可写存储」的限制；用 Safari 标签页打开则不享受该豁免。
 > 删除主屏幕图标会一并删除数据 —— 所以请定期用「设置 → 导出备份 JSON」备份。
+
+**origin 决定存储**：进度绑定在 `teamtimteamtimteam-sys.github.io` 这个域名上。
+换地址访问 = 读不到原来的进度（可用备份 JSON 迁移）。
+
+### 离线
+
+首次打开后 Service Worker 会把整个 app 缓存下来，之后**完全离线可用**。
+更新策略是 stale-while-revalidate：打开即用缓存，后台拉新版本，下次打开生效。
+在「设置 → 关于」里可以看到版本号和离线缓存状态。
 
 ## 在 Mac 上开发预览
 
