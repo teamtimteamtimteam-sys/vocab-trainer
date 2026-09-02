@@ -50,6 +50,12 @@ def load_reference():
     keep = keep_names()
     out = {}
     for w in words:
+        # 商标条目：清单里有两种写法，带真 ™ 的 400 条，
+        # 以及被清洗成小写连字符「-…tm」的 100 条（academy-awardtm = Academy Award™）。
+        # 商标不是词汇，一律不收 —— 少数已成通名的（Android、AstroTurf）
+        # 已经单独列在 proper-nouns-keep.txt 里。
+        if '\u2122' in w or re.search(r'-[a-z]+tm$', w):
+            continue
         if re.search(r'_\d+$', w):                    # 清单里的编号伪影
             continue                                   # abstract-expressionist_1 / _2
         if w.startswith('-') or w.endswith('-'):      # 词缀条目，不收

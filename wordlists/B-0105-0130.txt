@@ -1,35 +1,3 @@
-absentee
-核心：指该到而没到的人。三个高频搭配：absentee landlord（不住在
-当地的房东）、absentee ballot（缺席选票，美式）、absentee rate。
-① The absentee was marked down.
-= 缺席者被记了下来。
-② He is an absentee landlord.
-= 他是个不在当地的房东。
-absentee landlord = 遥控房东
-③ She cast an absentee ballot.
-= 她投了缺席票。
-absentee ballot = 缺席选票（美式）
-④ Absentee numbers rose.
-= 缺勤人数上升了。
-词族：
-absence = 缺席
-absenteeism = 旷工现象
-
-absenteeism
-核心：指普遍性的"旷工、旷课"现象，不是某一次缺席——这是它和
-absence 的关键差别。管理和教育统计里高频。不可数。
-① Absenteeism is a growing problem.
-= 旷工正成为一个问题。
-② They reduced staff absenteeism.
-= 他们降低了员工缺勤率。
-staff absenteeism = 员工旷工
-③ High absenteeism hurts productivity.
-= 高缺勤率损害生产率。
-high absenteeism = 高缺勤率
-注意区别：
-absence = 一次缺席（具体）
-absenteeism = 旷工现象（普遍、统计）
-
 absently
 核心：指"心不在焉地"做某事，多修饰 nod、stare、stir 这类
 不用动脑的小动作。和 absent-minded 同源。
@@ -488,3 +456,53 @@ absurdity → absurdities
 词族：
 absurd = 荒谬的
 absurdly = 荒唐地
+
+absurdly
+核心：两个用法：一是"荒唐地"，二是纯粹加强语气的"极其"
+（absurdly cheap 就是"便宜得离谱"，不含贬义）。
+① He behaved absurdly.
+= 他举止荒唐。
+② The price was absurdly low.
+= 价格低得离谱。
+absurdly low = 低得不合常理
+③ It's absurdly simple.
+= 那简单得出奇。
+absurdly simple = 简单得离谱
+词族：
+absurd = 荒谬的
+absurdity = 荒谬
+注意：修饰形容词时
+absurdly 常只是加强语气。
+
+abundance
+核心：指"大量、丰富"，正面词。核心搭配是 an abundance of 和
+in abundance。不可数。
+① There is an abundance of food.
+= 食物很充足。
+an abundance of = 大量的
+② Wildlife exists here in abundance.
+= 这里野生动物很多。
+in abundance = 大量地
+③ The region has an abundance of water.
+= 那个地区水资源丰富。
+词族：
+abundant = 丰富的
+abundantly = 大量地
+反义词：
+abundance 丰富 / scarcity 稀缺
+注意：abundance 一般用于正面事物。
+
+abundant
+核心：指数量多到充足有余，正面词。常见搭配 abundant evidence、
+abundant supply。介词用 in，不用 of。
+① The region has abundant rainfall.
+= 那个地区雨量充沛。
+② There is abundant evidence for this.
+= 这方面证据充足。
+③ The area is abundant in wildlife.
+= 那一带野生动物丰富。
+be abundant in = 富含
+词族：
+abundance = 丰富
+abundantly = 大量地
+反义词：scarce = 稀缺的

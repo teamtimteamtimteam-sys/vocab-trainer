@@ -1,37 +1,3 @@
-acumen
-核心：指在某个领域的"敏锐判断力"，褒义。最高频的搭配是
-business acumen（商业头脑）和 political acumen。
-① She has great business acumen.
-= 她商业嗅觉很敏锐。
-business acumen = 商业头脑
-② His political acumen is respected.
-= 他的政治判断力受人敬重。
-political acumen = 政治敏锐度
-③ The role requires financial acumen.
-= 那个职位需要财务判断力。
-注意发音：
-英式 /ˈækjəmən/ 重音在前
-美式也说 /əˈkjuːmən/
-近义对照：
-acumen = 敏锐判断（专业领域）
-insight = 洞察（看透本质）
-shrewdness = 精明（识人识局）
-
-acupuncture
-核心：指针灸，源自中医。不可数。相关的人叫 acupuncturist。
-在英语里已是通行词汇，不需要解释。
-① She tried acupuncture for her back.
-= 她试了针灸治背痛。
-② Acupuncture originated in China.
-= 针灸起源于中国。
-③ He had acupuncture treatment.
-= 他做了针灸治疗。
-acupuncture treatment = 针灸治疗
-词族：
-acupuncturist = 针灸师
-注意发音：/ˈækjupʌŋktʃə(r)/
-构词：acu- 针 + puncture 刺
-
 acute
 核心：底层是"尖"。角是锐角，感觉是敏锐，问题是尖锐严重，疾病是
 急性（来得又快又猛）。医学上 acute 与 chronic 相对，这组对比要记牢。
@@ -50,6 +16,12 @@ acute = 严重的
 反义词：
 acute 急性 / chronic 慢性
 副词形式：acutely = 强烈地
+⑤ French uses the acute accent.
+= 法语用尖音符。
+acute accent = 尖音符（é 上面那一撇）
+⑥ The acuteness of his hearing surprised us.
+= 他听觉之敏锐让我们意外。
+acuteness = 敏锐；严重程度
 
 acutely
 核心：两个用法：一是"强烈地"（加强语气，最常见的是
@@ -67,6 +39,37 @@ acutely ill = 急性重症的
 acute = 敏锐的；急性的
 注意：acutely aware 是固定搭配，
 使用频率远高于其他用法。
+
+acyclic
+核心：两条线：化学上指分子"非环状的"（链状），
+和数学图论里的"无环的"。
+① Acyclic compounds form chains.
+= 非环状化合物呈链状。
+acyclic compound = 无环化合物
+② The graph is acyclic.
+= 那个图是无环的。
+directed acyclic graph = 有向无环图（DAG）
+③ Acyclic structures are simpler.
+= 无环结构更简单。
+构词：a- 无 + cyclic 环状的
+反义词：cyclic = 环状的
+计算机常用缩写：DAG
+
+acyclovir
+核心：抗病毒药阿昔洛韦，用于治疗疱疹类感染。
+不可数。英式也拼 aciclovir。
+① Acyclovir treats cold sores.
+= 阿昔洛韦可治唇疱疹。
+cold sore = 唇疱疹
+② Acyclovir is an antiviral.
+= 阿昔洛韦是抗病毒药。
+③ Take acyclovir at onset.
+= 一发病就服阿昔洛韦。
+注意英美拼写：
+美式 acyclovir / 英式 aciclovir
+同类抗病毒药：
+oseltamivir = 奥司他韦（流感）
+remdesivir = 瑞德西韦
 
 ad
 核心：advertisement 的口语简写，美式最常用。英式口语也说 advert。

@@ -1,155 +1,3 @@
-acidic
-核心：化学上指"酸性的"，与碱性相对；日常也指食物"发酸的"。
-和形容词 acid 意思重叠，acidic 更偏技术。
-① The soil is acidic.
-= 那片土壤呈酸性。
-acidic soil = 酸性土壤
-② Citrus fruits are acidic.
-= 柑橘类水果偏酸。
-③ Acidic water damages pipes.
-= 酸性水会腐蚀管道。
-反义词：
-alkaline = 碱性的
-词族：
-acid = 酸
-acidity = 酸度
-
-acidity
-核心：指"酸度"这个可测量的性质。不可数。
-食品、土壤、葡萄酒的品评里都用。
-① Test the soil's acidity.
-= 测一下土壤酸度。
-soil acidity = 土壤酸度
-② The wine has balanced acidity.
-= 那款酒酸度平衡。
-balanced acidity = 酸度平衡
-③ High acidity harms fish.
-= 高酸度对鱼有害。
-high acidity = 高酸度
-词族：
-acid = 酸
-acidic = 酸性的
-反义词：alkalinity = 碱度
-
-acknowledge
-核心：底层是"公开承认…是真的、是存在的"。承认事实、承认某人的
-身份地位、确认收到某物、点头示意——四层都是"我看见了并承认"。
-① He acknowledged his mistake.
-= 他承认了自己的错误。
-② She is acknowledged as an expert.
-= 她被公认为专家。
-be acknowledged as = 被公认为
-③ Please acknowledge receipt of this letter.
-= 请确认收到此信。
-acknowledge receipt = 确认收到
-④ He acknowledged me with a nod.
-= 他点头向我示意。
-⑤ The book acknowledges her help.
-= 那本书里致谢了她的帮助。
-词族：
-acknowledgement = 承认、致谢
-
-acknowledged
-核心：指某人或某事"被公认为…的"，只作定语或用在
-be acknowledged as 结构里。强调是外界公认，不是自封。
-① She is an acknowledged expert.
-= 她是公认的专家。
-an acknowledged expert = 公认的专家
-② He is acknowledged as the best.
-= 他被公认为最出色的。
-be acknowledged as = 被公认为
-③ It's an acknowledged fact.
-= 那是公认的事实。
-an acknowledged fact = 公认事实
-词族：
-acknowledge = 承认
-acknowledgement = 承认；致谢
-近义对照：
-acknowledged = 公认的（外界认定）
-renowned = 著名的（名气大）
-self-proclaimed = 自封的（反面）
-
-acknowledgement
-核心：三条线，全从动词来：承认某事、确认收到、以及书里的"致谢"。
-最后一条常用复数 acknowledgements，指书前的致谢页。
-① There was no acknowledgement of the error.
-= 没人承认那个错误。
-acknowledgement of = 对…的承认
-② Please send an acknowledgement.
-= 请回执确认。
-③ Read the acknowledgements.
-= 看看致谢部分。
-复数 = 致谢页
-④ He nodded in acknowledgement.
-= 他点头示意。
-in acknowledgement = 表示认可
-注意英美拼写：
-英式 acknowledgement
-美式常写 acknowledgment（无 e）
-
-acme
-核心：指某事物的"顶点、极致"，正式且偏文学。搭配固定：
-the acme of。日常少用，多见于书评和颂扬性文字。
-① It's the acme of good taste.
-= 那是品味的极致。
-the acme of = …的顶峰
-② She reached the acme of her career.
-= 她达到了事业的顶点。
-reach the acme = 登上巅峰
-③ The design is the acme of simplicity.
-= 那个设计是极简的典范。
-近义对照：
-acme = 极致（文学、正式）
-peak = 顶峰（通用）
-pinnacle = 巅峰（正式）
-zenith = 顶点（天文引申）
-
-acne
-核心：指痤疮、粉刺，医学词但日常通用。不可数——这是常见错点，
-不说 an acne 或 acnes。
-① She suffers from acne.
-= 她长痤疮。
-suffer from acne = 患痤疮
-② Acne is common in teenagers.
-= 青少年常长粉刺。
-③ The cream treats acne.
-= 那款药膏治痤疮。
-acne treatment = 痤疮治疗
-注意：acne 不可数，
-不说 an acne、acnes。
-近义对照：
-acne = 痤疮（医学总称）
-pimple = 一颗痘（可数）
-spot = 痘痘（英式口语）
-
-acolyte
-核心：两条线：宗教仪式上的"助祭"，和比喻义的"追随者、跟班"。
-第二条常带轻蔑，暗示"没有主见地跟着"。
-① He served as an acolyte.
-= 他做过助祭。
-② The leader arrived with his acolytes.
-= 那位领袖带着一帮随从到了。
-③ Her acolytes defended her online.
-= 她的拥趸在网上替她辩护。
-注意发音：/ˈækəlaɪt/
-近义对照：
-acolyte = 跟班（常含轻蔑）
-follower = 追随者（中性）
-disciple = 门徒（尊敬）
-
-acorn
-核心：指橡树的果实橡子。常见于一句谚语，讲小事物能长成大东西。
-① Squirrels bury acorns.
-= 松鼠会埋橡子。
-② An acorn fell from the oak.
-= 一颗橡子从橡树上掉下来。
-③ Great oaks from little acorns grow.
-= 合抱之木生于毫末。
-这是句谚语。
-词族：
-oak = 橡树
-注意发音：/ˈeɪkɔːn/
-
 acoustic
 核心：指"声音的、原声的"。音乐上指不用电扩音的（acoustic guitar），
 建筑上指与声学有关的。复数名词 acoustics 指某个空间的"音效"。
@@ -166,6 +14,12 @@ acoustics = 音响效果
 注意发音：
 acoustic 读 /əˈkuːstɪk/，
 c 发 /k/，ou 读长音。
+⑤ The hall performs acoustically well.
+= 那个厅的声学表现很好。
+acoustically = 在声学上
+⑥ An acoustician tuned the room.
+= 一位声学专家调校了那个房间。
+acoustician = 声学专家
 
 acoustics
 核心：两条线：某个空间的"音响效果"（用复数，配复数动词），
@@ -218,6 +72,12 @@ make someone's acquaintance = 结识（正式）
 注意区别：
 acquaintance 熟人（不熟）
 friend 朋友（有交情）
+⑤ Acquaintance rape is under-reported.
+= 熟人性侵报案率偏低。
+acquaintance rape = 熟人性侵
+⑥ Their acquaintanceship lasted years.
+= 他们的交往持续了多年。
+acquaintanceship = 相识关系
 
 acquainted
 核心：两条线：人与人"认识的"，和人对事"熟悉的"。都带 with。
@@ -256,6 +116,9 @@ acquiescence = 默许
 acquiesce = 默许（不反对）
 consent = 同意（主动）
 comply = 遵从（照做）
+④ He gave an acquiescent nod.
+= 他默然点了点头。
+acquiescent = 默许的、顺从的
 
 acquiescence
 核心：指"默许"这种状态，常带批评意味——暗示"本该反对却没反对"。
@@ -306,6 +169,9 @@ acquired skill = 习得的技能
 反义词：
 innate = 天生的
 词族：acquire = 获得
+④ Eye colour is not an acquired characteristic.
+= 眼睛颜色不是后天获得性状。
+acquired characteristic = 获得性状（生物学）
 
 acquisition
 核心：两条线，对应动词 acquire：商业上的"收购"，和学习上的
@@ -341,6 +207,9 @@ acquisition = 收购、习得
 acquisitive = 贪求占有（贬义）
 materialistic = 物质主义的
 greedy = 贪婪的（更直白）
+④ Her acquisitiveness worried them.
+= 她的占有欲让他们不安。
+acquisitiveness = 占有欲
 
 acquit
 核心：法律用语，指法庭"宣判无罪"，几乎总用被动 be acquitted of。
@@ -421,3 +290,174 @@ acrid smell = 刺鼻气味
 acrid = 刺鼻呛人（烟、化学味）
 pungent = 味道浓烈（可褒可贬）
 bitter = 苦的（味觉）
+
+acrimonious
+核心：指争执、离婚、谈判"充满火药味的"，双方带着怨气。
+最高频的搭配是 an acrimonious divorce / dispute。
+① They had an acrimonious divorce.
+= 他们离婚闹得很难看。
+acrimonious divorce = 撕破脸的离婚
+② The debate became acrimonious.
+= 那场辩论火药味十足。
+③ Negotiations ended acrimoniously.
+= 谈判在敌意中破裂。
+词族：
+acrimony = 敌意、怨恨
+副词形式：
+acrimoniously = 尖刻地
+近义对照：
+acrimonious = 满含怨气的（争执）
+hostile = 敌对的（立场）
+bitter = 积怨的（情绪）
+
+acrimony
+核心：指争执中的"怨恨、恶意"，不可数。
+常见搭配 without acrimony、bitter acrimony。
+① The split was without acrimony.
+= 那次分手没有恶言相向。
+without acrimony = 心平气和地
+② Bitter acrimony followed.
+= 随后是激烈的怨恨。
+bitter acrimony = 深重的敌意
+③ Acrimony poisoned the talks.
+= 敌意毁了那场会谈。
+词族：
+acrimonious = 充满敌意的
+近义对照：
+acrimony = 争执中的怨恨
+hostility = 敌意（立场性）
+resentment = 忿恨（积怨）
+
+acrobat
+核心：指杂技演员，尤指做翻腾、走钢丝这类技巧的人。
+比喻义可指立场灵活多变的人（political acrobat）。
+① The acrobat balanced on a wire.
+= 那位杂技演员在钢丝上保持平衡。
+② Acrobats performed at the circus.
+= 杂技演员在马戏团表演。
+③ He's a political acrobat.
+= 他是个政治变色龙。
+词族：
+acrobatic = 杂技般的
+acrobatics = 杂技
+注意发音：/ˈækrəbæt/
+
+acrobatic
+核心：指动作"杂技般的、灵活惊险的"。除了字面，
+体育解说里常用来夸守门员或球员的动作。
+① He made an acrobatic save.
+= 他做出一个鱼跃扑救。
+acrobatic save = 高难度扑救
+② The dancer is highly acrobatic.
+= 那名舞者动作技巧性极强。
+③ It was an acrobatic manoeuvre.
+= 那是个高难度动作。
+acrobatic manoeuvre = 特技动作
+词族：
+acrobat = 杂技演员
+acrobatics = 杂技
+④ He landed acrobatically.
+= 他以杂技般的动作落地。
+acrobatically = 杂技般地
+
+acrobatics
+核心：两条线：杂技这门技艺，和比喻义的"高难度腾挪"
+（mental acrobatics 指绞尽脑汁的诡辩）。形式是复数。
+① She trained in acrobatics.
+= 她练过杂技。
+② The show featured acrobatics.
+= 那场演出有杂技节目。
+③ It took mental acrobatics to justify.
+= 要自圆其说得费尽心机。
+mental acrobatics = 思维上的腾挪
+词族：
+acrobat = 杂技演员
+acrobatic = 杂技般的
+
+acrolect
+核心：语言学术语，指某个语言社群里最接近标准语的
+"高层变体"。和 basilect（最底层变体）相对。
+① The acrolect resembles standard English.
+= 高层变体接近标准英语。
+② Speakers shift between acrolect and basilect.
+= 说话人在高低变体间切换。
+③ Acrolect use signals education.
+= 使用高层变体是受教育的标志。
+克里奥尔语连续统：
+acrolect = 高层变体（近标准语）
+mesolect = 中层变体
+basilect = 底层变体（离标准语最远）
+
+acronym
+核心：指用首字母拼成、且能当一个词来读的缩略语，如 NATO、laser。
+逐字母念的（BBC、FBI）严格说叫 initialism，但日常也常混称
+acronym。
+① NATO is an acronym.
+= NATO 是个首字母缩略词。
+② The report is full of acronyms.
+= 那份报告满是缩略语。
+③ What does the acronym stand for?
+= 那个缩略语代表什么？
+stand for = 代表
+④ Laser started as an acronym.
+= 「laser」最初是个缩略词。
+注意区别：
+acronym 能拼读的（NATO、laser）
+initialism 逐字母念的（BBC、FBI）
+abbreviation 缩写（总称）
+
+acropolis
+核心：指古希腊城邦建在高处的"卫城"，
+大写特指雅典卫城。复数是拉丁式的。
+① They climbed to the Acropolis.
+= 他们登上了雅典卫城。
+② An acropolis served as refuge.
+= 卫城是避难之所。
+③ The acropolis dominates the city.
+= 卫城俯瞰着全城。
+注意复数：
+acropolis → acropoleis 或 acropolises
+构词：acro- 高处 + polis 城邦
+同源词：
+metropolis = 大都市
+necropolis = 陵园
+acrophobia = 恐高症
+
+across
+核心：底层意象是"从一边到另一边横穿"。由此有三层：横穿的动作、
+横穿之后到达的"对面"、以及范围上的"遍及各处"。和 through 的
+差别：across 走的是表面，through 是穿过内部。
+① He walked across the road.
+= 他横穿了马路。
+② The bank is across the street.
+= 银行在街对面。
+③ A bridge lies across the river.
+= 一座桥横跨河面。
+④ The company has offices across Europe.
+= 那家公司在欧洲各地设有办事处。
+这里：
+across = 遍及
+⑤ I came across an old photo.
+= 我偶然翻到一张旧照片。
+come across = 偶然发现
+⑥ He came across as arrogant.
+= 他给人的印象很傲慢。
+come across as = 给人…的印象
+注意区别：
+across 横穿表面 / through 穿过内部
+
+acrostic
+核心：指藏头诗——每行首字母连起来能拼出一个词或句子。
+名词形容词同形。
+① The poem is an acrostic.
+= 那首诗是藏头诗。
+② An acrostic spells her name.
+= 那首藏头诗拼出了她的名字。
+③ He wrote an acrostic puzzle.
+= 他编了个藏头字谜。
+acrostic puzzle = 藏头字谜
+构词：acro- 端点 + stichos 行
+同类文字游戏：
+anagram = 字母重排
+palindrome = 回文
+lipogram = 避字文

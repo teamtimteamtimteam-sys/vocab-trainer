@@ -1,3 +1,18 @@
+accompanist
+核心：指为独唱或独奏"伴奏的人"，通常是钢琴伴奏。
+注意重音在第二个音节。
+① She works as an accompanist.
+= 她做伴奏。
+② The accompanist played beautifully.
+= 伴奏弹得很美。
+③ He needs an accompanist.
+= 他需要一位伴奏。
+piano accompanist = 钢琴伴奏
+词族：
+accompany = 伴奏
+accompaniment = 伴奏
+注意发音：/əˈkʌmpənɪst/
+
 accompany
 核心：底层是"跟着一起出现"。人跟人是"陪同"，事跟事是"伴随"，
 音乐上是"伴奏"。被动式 be accompanied by 在正式文体里极常见。
@@ -13,6 +28,9 @@ be accompanied by = 附有、伴随
 词族：
 accompaniment = 伴奏、伴随物
 注意：accompany 后面不加 with。
+⑤ Read the accompanying notes.
+= 请阅读随附说明。
+accompanying = 随附的、伴随的
 
 accomplice
 核心：法律用语，指参与犯罪的"同伙、帮凶"。介词用 in（参与某罪）
@@ -215,6 +233,9 @@ on account of = 因为
 = 那家代理公司经手三个大客户。
 这里：
 account = 客户（广告业用语）
+⑪ She is an account executive.
+= 她是客户经理。
+account executive = 客户主管（广告业）
 
 accountability
 核心：指"对结果负责、须做出交代"的状态，是治理和管理领域的核心词。
@@ -299,6 +320,20 @@ accounting 会计（学科、工作）
 accountancy 会计业（英式）
 accountant 会计师（人）
 
+accoutred
+核心：正式或文学用语，指"装备齐全的、穿戴整齐的"。
+美式拼 accoutered。常用被动。
+① He was fully accoutred for the climb.
+= 他为攀登装备齐全。
+fully accoutred = 全副装备
+② Knights rode out accoutred in mail.
+= 骑士们披挂锁子甲出发。
+③ The room was richly accoutred.
+= 那房间陈设华丽。
+注意英美拼写：
+英式 accoutred / 美式 accoutered
+词族：accoutrements = 全套行头
+
 accoutrements
 核心：指某项活动配套的"全套装备行头"，常带一点戏谑。
 永远用复数。也拼作 accouterments（美式）。
@@ -363,6 +398,23 @@ accredited lab = 认证实验室
 fully accredited = 完全获认可的
 词族：accredit、accreditation
 
+accretion
+核心：指一层层"添加积累"起来的过程或结果。
+地质、天文、法律都用。正式。
+① Coral grows by accretion.
+= 珊瑚靠层层沉积生长。
+② Planets form through accretion.
+= 行星通过吸积形成。
+accretion disc = 吸积盘（天文）
+③ It's an accretion of small changes.
+= 那是无数小改动累积的结果。
+an accretion of = …的层层累积
+词族：accrete = 逐层积聚
+近义对照：
+accretion = 层层添加（缓慢附着）
+accumulation = 积累（数量增多）
+aggregation = 汇集（分散合起来）
+
 accrue
 核心：指利息、权益、经验"逐渐累积起来"，金融和法律语境高频。
 不及物为主，介词用 to（归于谁）。
@@ -382,51 +434,18 @@ accrued leave = 累积假期
 accrue = 累积（利息、权益，自动增长）
 accumulate = 积累（通用）
 
-accumulate
-核心：底层是"一点点堆积起来"。可以是物（灰尘、垃圾），可以是抽象
-的量（财富、经验、债务、利息）。既能及物也能不及物。
-① Dust accumulated on the shelves.
-= 架子上积了灰。
-② He accumulated a fortune.
-= 他积累了一笔财富。
-这里是及物用法。
-③ Interest accumulates monthly.
-= 利息按月累积。
-④ Evidence began to accumulate.
-= 证据开始积累起来。
-词族：
-accumulation = 积累
-注意区别：
-accumulate 逐渐积累（自然堆起）
-collect 收集（有意去搜集）
-
-accumulation
-核心：指"积累"这个过程或积累起来的"堆积物"。
-常见搭配 the accumulation of wealth / data / snow。
-① The accumulation of wealth took decades.
-= 财富积累花了几十年。
-the accumulation of = …的积累
-② Snow accumulation reached 30 cm.
-= 积雪达到三十厘米。
-snow accumulation = 积雪量
-③ There's an accumulation of dust.
-= 积了一层灰。
-词族：
-accumulate = 积累
-accumulative = 累积的
-
-accumulator
-核心：两条线：技术上的"蓄电池、储能装置"，和英式博彩里的
-"连串投注"。前者是最初的例词。
-① The device uses a small accumulator.
-= 该设备使用一个小型蓄能器。
-② The accumulator stores energy.
-= 蓄能器储存能量。
-③ He placed an accumulator bet.
-= 他下了个连串注。
-accumulator bet = 连串投注（英式）
-词族：
-accumulate = 积累
-近义对照：
-accumulator = 蓄能装置
-battery = 电池（通用）
+acct.
+核心：account 的书面缩写，用于表单、账单和记账。
+带句点。日常写作不用。
+① Enter your acct. number.
+= 请填写账号。
+acct. number = 账号
+② The invoice lists acct. details.
+= 那张发票列出了账户信息。
+③ Acct. is short for account.
+= 「acct.」是「account」的缩写。
+同类缩写：
+approx. = approximately
+dept. = department
+est. = established / estimated
+attn. = attention（收件人）
