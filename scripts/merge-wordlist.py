@@ -29,7 +29,8 @@ def main(prefix, size):
     # 所以 B 在合并时按词条首行重新排字母序 —— 生成顺序就不再要紧。
     # A 不能这么做：A 是按词频由简到难排的，排字母序会毁掉难度梯度。
     if prefix == 'B':
-        entries.sort(key=lambda b: b.split('\n')[0].strip().lower())
+        # 词典式排序：忽略空格和连字符，让 ad hoc / able-bodied 归到正确位置
+        entries.sort(key=lambda b: b.split('\n')[0].strip().lower().replace(' ','').replace('-',''))
         print("\n  B：已按字母顺序重排")
     n = len(entries)
     made = []

@@ -187,42 +187,6 @@ ad break = 广告时段
 美式 ad / 英式 advert
 两边都可用 advertisement（正式）
 
-ad hoc
-核心：拉丁语借词，指"为这一件事临时设立的"，不是常设的。
-既作形容词也作副词。常见 an ad hoc committee。
-① They set up an ad hoc committee.
-= 他们成立了个临时委员会。
-ad hoc committee = 特设委员会
-② Decisions were made ad hoc.
-= 决定是临时做的。
-③ It's an ad hoc arrangement.
-= 那是临时安排。
-ad hoc arrangement = 临时安排
-注意：ad hoc 常带"没章法、没规划"
-的隐含批评。
-近义对照：
-ad hoc = 临时特设（针对单一事项）
-temporary = 暂时的（时间上）
-improvised = 临场发挥的
-
-ad lib
-核心：指演出或讲话时"即兴发挥、临时现编"。
-可作动词、形容词、副词。也写作 ad-lib。
-① He ad libbed the whole speech.
-= 那篇讲话他全是即兴的。
-② She made an ad lib remark.
-= 她即兴说了句话。
-ad lib remark = 即兴发言
-③ The actor spoke ad lib.
-= 那名演员是现编台词。
-注意拼写：
-ad lib / ad-lib 都可以
-词源：拉丁语 ad libitum（随意）
-近义对照：
-ad lib = 即兴现编（无稿）
-improvise = 即兴创作（通用）
-wing it = 临场应付（口语）
-
 adage
 核心：指流传已久的"格言、老话"，通常讲的是常识性道理。
 常见搭配 the old adage that…。
@@ -444,3 +408,35 @@ addictive 使人上瘾的（说事物）
 addicted 上瘾的（说人）
 The game is addictive.
 He is addicted to the game.
+
+addition
+核心：两层。一是数学上的"加法"，二是"新增的人或物"。in addition
+和 in addition to 是学术写作的高频连接词。
+① He is good at addition.
+= 他擅长加法。
+② The baby is a new addition to the family.
+= 那个婴儿是家里的新成员。
+③ In addition, we offer free delivery.
+= 此外我们还提供免费配送。
+in addition = 此外
+④ In addition to English, she speaks Thai.
+= 除英语外她还会泰语。
+in addition to = 除…之外还
+注意区别：
+in addition 后面不接名词，
+in addition to 后面必须接名词。
+
+additional
+核心：指"在原有基础上另加的"，比 extra 正式，多用于书面和商务。
+只作定语，不作表语。
+① There will be an additional charge.
+= 会有额外费用。
+② We need additional information.
+= 我们需要补充信息。
+③ Additional staff were hired.
+= 又雇了些员工。
+副词形式：
+additionally = 此外
+近义词：
+additional 额外的（正式）
+extra 额外的（口语）

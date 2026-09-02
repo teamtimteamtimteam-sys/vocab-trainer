@@ -1,20 +1,3 @@
-adjust
-核心：底层是"做小幅度的改动使之更合适"。调机器是及物用法，人去
-适应新情况是不及物加 to。和 adapt 的差别：adjust 改的幅度小，
-adapt 可能是结构性的改变。
-① Adjust the mirror before driving.
-= 开车前调好后视镜。
-② She adjusted her tie.
-= 她整了整领带。
-③ It took time to adjust to the climate.
-= 适应那里的气候花了些时间。
-adjust to = 适应
-④ Prices are adjusted for inflation.
-= 价格按通胀做了调整。
-词族：
-adjustment = 调整
-adjustable = 可调节的
-
 adjustable
 核心：指"可调节的"，家具、设备、利率都能用。
 adjustable rate mortgage 是金融高频词。
@@ -48,6 +31,24 @@ adjustment to = 对…的适应
 词族：
 adjust = 调整
 adjustable = 可调的
+
+ad lib
+核心：指演出或讲话时"即兴发挥、临时现编"。
+可作动词、形容词、副词。也写作 ad-lib。
+① He ad libbed the whole speech.
+= 那篇讲话他全是即兴的。
+② She made an ad lib remark.
+= 她即兴说了句话。
+ad lib remark = 即兴发言
+③ The actor spoke ad lib.
+= 那名演员是现编台词。
+注意拼写：
+ad lib / ad-lib 都可以
+词源：拉丁语 ad libitum（随意）
+近义对照：
+ad lib = 即兴现编（无稿）
+improvise = 即兴创作（通用）
+wing it = 临场应付（口语）
 
 administer
 核心：三条线：管理机构、执行法规、以及医学上"给药"。都可以归到
@@ -216,6 +217,58 @@ admiration = 钦佩
 admirable = 令人钦佩的
 admirer = 仰慕者
 
+admirer
+核心：两条线：欣赏某人才能的"仰慕者"，和对某人有爱慕之情的"追求者"。
+第二条常见于 a secret admirer（暗恋者）。
+① He is a great admirer of her work.
+= 他很欣赏她的作品。
+an admirer of = …的仰慕者
+② She has many admirers.
+= 她有很多爱慕者。
+③ A secret admirer sent flowers.
+= 有个暗恋者送了花。
+a secret admirer = 暗恋者
+词族：
+admire = 钦佩
+admiration = 钦佩
+近义对照：
+admirer = 仰慕者（欣赏或爱慕）
+fan = 粉丝（追捧）
+supporter = 支持者（立场）
+
+admiring
+核心：指目光、评论"充满赞赏的"。只作定语。
+常修饰 glance、look、crowd、comment。
+① She gave him an admiring glance.
+= 她赞赏地看了他一眼。
+an admiring glance = 赞许的一瞥
+② An admiring crowd gathered.
+= 一群仰慕者聚了过来。
+③ He made admiring comments.
+= 他说了些赞赏的话。
+admiring comments = 赞赏的评论
+副词形式：
+admiringly = 赞赏地
+词族：admire、admirer
+
+admissible
+核心：法律用语为主，指证据"可被法庭采纳的"。
+和 inadmissible 配对使用频率同样高。
+① The evidence is not admissible.
+= 那份证据不可采纳。
+admissible evidence = 可采纳的证据
+② Hearsay is generally inadmissible.
+= 传闻证据一般不予采纳。
+inadmissible = 不可采纳的
+③ The court ruled it admissible.
+= 法庭裁定其可采纳。
+rule admissible = 裁定可采纳
+词族：
+admit = 准许进入
+admission = 准入
+注意：admissible 主要用于证据，
+不用来说人。
+
 admission
 核心：三条线，对应动词 admit：承认（an admission of guilt）、
 入场准入（admission fee）、以及入院入学。第一条最容易被忽略。
@@ -258,6 +311,22 @@ be admitted to hospital = 入院
 admission = 承认、入场、录取
 注意拼写：admitted 双写 t。
 
+admittance
+核心：只指"进入的许可"，比 admission 窄——admission 还有"承认"
+和"入场费"的意思，admittance 只有准入这一条。多见于告示牌。
+① No admittance.
+= 禁止入内。
+告示常用语
+② He gained admittance to the building.
+= 他获准进入那栋楼。
+gain admittance to = 获准进入
+③ Admittance is by ticket only.
+= 凭票入场。
+注意区别：
+admittance = 准入（只此一义）
+admission = 准入；承认；入场费
+词族：admit = 准许进入
+
 admittedly
 核心：句首副词，用来"先承认对方有理，再转折"。是学术写作和辩论里
 的高频让步标记，后面通常跟 but 或 however。
@@ -273,6 +342,25 @@ admittedly
 admittedly 诚然（承认后转折）
 granted 姑且承认（同样用法）
 of course 当然（不一定转折）
+
+admonish
+核心：指"温和但严肃地告诫、责备"，比 scold 正式且轻。
+也可指"劝告某人做某事"。常用被动。
+① The judge admonished him.
+= 法官告诫了他。
+② She was admonished for lateness.
+= 她因迟到受到告诫。
+be admonished for = 因…受责备
+③ He admonished them to be careful.
+= 他叮嘱他们要小心。
+admonish someone to do = 劝告某人做
+词族：
+admonition = 告诫
+admonishment = 训诫
+近义对照：
+admonish = 温和告诫（正式）
+reprimand = 训斥（正式，较重）
+scold = 责骂（口语，多对小孩）
 
 adolescence
 核心：指青春期，大约十二到十八岁这段时间。不可数。比 puberty
@@ -329,6 +417,22 @@ adoption = 收养、采纳
 adoptive = 收养的
 注意别混：adopt 收养 / adapt 适应
 
+adopted
+核心：指孩子"被收养的"，也指国家或家乡"选择接受的"
+（one's adopted country 指移居后认同的国家）。
+① She has an adopted son.
+= 她有个收养的儿子。
+an adopted son = 养子
+② Britain is his adopted country.
+= 英国是他移居后的国家。
+adopted country = 移居定居的国家
+③ The adopted child thrived.
+= 那个被收养的孩子长得很好。
+注意区别：
+adopted = 被收养的（说孩子）
+adoptive = 收养别人的（说父母）
+an adopted child / adoptive parents
+
 adoption
 核心：两条线，对应动词 adopt：法律上的"收养"，和"采纳、采用"
 （政策、技术、方法）。第二条在商业和科技语境里极高频。
@@ -345,107 +449,3 @@ put up for adoption = 送交收养
 词族：
 adopt = 收养；采纳
 adoptive = 收养的
-
-adorable
-核心：指"可爱得让人想抱一抱"，多用于孩子、宠物、小物件。
-语气很暖，口语高频。比 cute 程度更深。
-① What an adorable baby!
-= 多可爱的宝宝！
-② The puppy is adorable.
-= 那只小狗太可爱了。
-③ She wore an adorable dress.
-= 她穿了条很可爱的裙子。
-常用搭配：
-absolutely adorable = 可爱极了
-词族：
-adore = 极喜爱
-adorably = 可爱地
-程度：
-cute 可爱 < adorable 萌得不行
-
-adore
-核心：两层：一是"深深爱着"（比 love 更强烈），二是口语里的"超喜欢"
-（相当于 really like）。宗教语境里指"崇拜"。不用于进行时。
-① She adores her grandchildren.
-= 她非常疼爱孙辈。
-② I adore Italian food.
-= 我特别爱吃意大利菜。
-口语 = 非常喜欢
-③ They adored their teacher.
-= 他们很崇拜那位老师。
-④ He adores playing the guitar.
-= 他酷爱弹吉他。
-adore doing = 酷爱做
-词族：
-adorable = 可爱的
-adoration = 爱慕、崇拜
-注意：adore 一般不用进行时。
-
-adorn
-核心：正式的"装饰"，比 decorate 书面得多，多见于文学和描写性文字。
-常用被动 be adorned with。
-① The walls were adorned with paintings.
-= 墙上装饰着画作。
-be adorned with = 用…装饰
-② Flowers adorned the table.
-= 鲜花点缀着餐桌。
-③ She adorned herself with jewels.
-= 她佩戴了珠宝。
-常用搭配：
-richly adorned = 装饰华丽的
-词族：
-adornment = 装饰物
-近义对照：
-adorn 装点（正式、文学）
-decorate 装饰（通用）
-embellish 修饰（可能加太多）
-
-adrenalin
-核心：指肾上腺素，也拼作 adrenaline。既是激素本身，也常用来说
-"刺激带来的兴奋感"。an adrenalin rush 是高频搭配。
-① Adrenalin was pumping.
-= 肾上腺素在飙升。
-② He gets an adrenalin rush from it.
-= 那事让他血脉贲张。
-an adrenalin rush = 一阵兴奋
-③ The body releases adrenalin.
-= 身体会释放肾上腺素。
-常用搭配：
-adrenalin junkie = 追求刺激的人
-release adrenalin = 分泌肾上腺素
-④ It's an adrenalin sport.
-= 那是项刺激运动。
-注意拼写：
-adrenalin / adrenaline 都对
-美式医学用语常写 epinephrine。
-
-adrift
-核心：字面指船"漂流失控"，比喻指人"迷失方向、无所依靠"。
-只作表语。come adrift 指松脱、失控。
-① The boat was adrift at sea.
-= 那条船在海上漂流。
-② He felt adrift after the divorce.
-= 离婚后他感到无所适从。
-③ The rope came adrift.
-= 绳子松脱了。
-come adrift = 松开、脱落
-④ They are adrift without a leader.
-= 群龙无首，他们乱了方向。
-注意：adrift 只作表语，
-不放在名词前。
-
-adult
-核心：既是名词也是形容词。名词指法定成年人；形容词一层指"成人的"，
-一层是委婉语指"色情的"。注意英美重音位置不同。
-① He is a responsible adult.
-= 他是个负责任的成年人。
-② The film is for adults only.
-= 那部电影仅限成人观看。
-③ She has an adult daughter.
-= 她有个成年的女儿。
-④ It contains adult content.
-= 它含有成人内容。
-这里是委婉语。
-注意发音：
-英式重音在前 /ˈædʌlt/，
-美式常读 /əˈdʌlt/。

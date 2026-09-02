@@ -82,23 +82,6 @@ absent-minded = 心不在焉的
 absentee = 缺席者
 反义词：present = 在场的
 
-absent-minded
-核心：指人"总是心不在焉、容易忘事"，是性格特征而非一时状态。
-带连字符。常和教授、科学家的刻板印象连用。
-① He is absent-minded.
-= 他老是丢三落四。
-② She has an absent-minded professor's air.
-= 她有种迂夫子的气质。
-the absent-minded professor = 心不在焉的教授（刻板印象）
-③ Absent-minded mistakes happen.
-= 走神造成的差错难免。
-词族：
-absent-mindedness = 健忘
-absently = 心不在焉地
-近义对照：
-absent-minded = 健忘走神（长期特征）
-distracted = 分心（一时）
-
 absentee
 核心：指该到而没到的人。三个高频搭配：absentee landlord（不住在
 当地的房东）、absentee ballot（缺席选票，美式）、absentee rate。
@@ -146,6 +129,23 @@ absent-minded = 心不在焉的
 absence = 缺席
 注意：absently 说的是注意力不在，
 不是人不在场。
+
+absent-minded
+核心：指人"总是心不在焉、容易忘事"，是性格特征而非一时状态。
+带连字符。常和教授、科学家的刻板印象连用。
+① He is absent-minded.
+= 他老是丢三落四。
+② She has an absent-minded professor's air.
+= 她有种迂夫子的气质。
+the absent-minded professor = 心不在焉的教授（刻板印象）
+③ Absent-minded mistakes happen.
+= 走神造成的差错难免。
+词族：
+absent-mindedness = 健忘
+absently = 心不在焉地
+近义对照：
+absent-minded = 健忘走神（长期特征）
+distracted = 分心（一时）
 
 absinthe
 核心：一种高酒精度的苦艾酒，因十九世纪的禁令和艺术家传说而出名。
