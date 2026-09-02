@@ -7,6 +7,7 @@
 
 用法: python3 scripts/pull-pending.py aerial aerobic aesthetic
      不带参数则列出归档区还剩哪些词。
+     --prune 清掉已经进入 wordlists/B 的条目。
 """
 import sys, io, os
 P = 'wordlists/pending/B-pending.txt'
@@ -30,12 +31,26 @@ def main(words):
     if miss: print("不在归档区：" + " ".join(miss), file=sys.stderr)
     if got:
         print("\n\n".join(got))
-        # 取走的从归档区删掉，避免重复收录
-        taken = {b.split('\n')[0].strip().lower() for b in got}
-        rest = [b for b in bs if b.split('\n')[0].strip().lower() not in taken]
-        io.open(P, 'w', encoding='utf-8').write("\n\n".join(rest) + ("\n" if rest else ""))
-        print(f"\n（已取出 {len(got)} 条，归档区剩 {len(rest)} 条）", file=sys.stderr)
+        print(f"\n（取出 {len(got)} 条；归档区不动 —— 等它们真的进了 wordlists/B\n"
+              f"  再跑 --prune 清理。曾经「取出即删除」，结果取出的内容被临时文件\n"
+              f"  覆盖后 17 条词就没了，只能翻 git 找回。）", file=sys.stderr)
     return 0 if got else 1
 
+def prune():
+    """把已经真正进入 wordlists/B 的条目从归档区删掉。"""
+    import glob
+    mine = set()
+    for f in glob.glob('wordlists/B-[0-9]*.txt'):
+        for b in io.open(f, encoding='utf-8').read().split('\n\n'):
+            if b.strip(): mine.add(b.strip().split('\n')[0].strip().lower())
+    bs = blocks()
+    rest = [b for b in bs if b.split('\n')[0].strip().lower() not in mine]
+    gone = len(bs) - len(rest)
+    io.open(P, 'w', encoding='utf-8').write("\n\n".join(rest) + ("\n" if rest else ""))
+    print(f"清理 {gone} 条（已在主表中），归档区剩 {len(rest)} 条")
+    return 0
+
 if __name__ == "__main__":
+    if len(sys.argv) > 1 and sys.argv[1] == '--prune':
+        sys.exit(prune())
     sys.exit(main(sys.argv[1:]))
