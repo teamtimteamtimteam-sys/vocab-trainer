@@ -183,7 +183,7 @@ def main(argv):
                 if not s2: continue
                 # 必须用同一个 missing 判定 —— 曾经这里只查 k not in got，
                 # 漏掉了并入覆盖，于是总数说 100% 而明细说 73%，自相矛盾。
-                m2 = [v for k in s2 if k in missing]
+                m2 = [s2[k] for k in s2 if k in missing]
                 flag = "  ← 缺" if m2 else ""
                 print(f"    {p}  清单 {len(s2):4}  已收 {len(s2)-len(m2):4}  缺 {len(m2):4}{flag}")
         else:
