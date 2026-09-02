@@ -3,11 +3,12 @@
 用法: python3 scripts/check-wordlist.py 'wordlists/A-*.txt'"""
 import sys, re, io, glob, os
 
-NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫"
+NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟㊱㊲㊳㊴㊵㊶㊷㊸㊹㊺㊻㊼㊽㊾㊿"  # ①-⑳ ㉑-㉟ ㊱-㊿
 EQ = re.compile(r"^([A-Za-z][A-Za-z0-9’'\-\s.]{0,44}?)\s*=\s*(.+)$")
 WORD_OK = re.compile(r"^[A-Za-z][A-Za-z0-9’'\-. ]*$")
 
 def parse(path):
+    is_b = os.path.basename(path).startswith('B-')
     lines = io.open(path, encoding='utf-8').read().replace('\r\n', '\n').split('\n')
     blocks, cur = [], None
     for i, raw in enumerate(lines):
@@ -25,10 +26,14 @@ def parse(path):
         if not WORD_OK.match(e['word']) or len(e['word'].split()) > 4:
             e['issues'].append("首行不像单词：%r" % e['word'])
         sense = None
+        e['notes'] = 0
+        e['core'] = False          # 第一个 ① 之前是否有「核心：」讲解块（B 词表必需）
         for n, t in b['lines'][1:]:
             if t[0] in NUMS:
                 sense = {'ex': t[1:].strip(), 'tr': ''}
                 e['senses'].append(sense); continue
+            if sense is None and t.startswith('核心'): e['core'] = True
+            if not t.startswith('='): e['notes'] += 1   # 讲解行：非例句非翻译
             if t.startswith('='):
                 if sense and not sense['tr']: sense['tr'] = t[1:].strip()
                 continue
@@ -43,6 +48,7 @@ def parse(path):
             r'\u0250-\u02af\u02b0-\u02ff'                  # 国际音标（讲解里到处在用）
             r'\u3000-\u303f\uff00-\uffef'                  # 中日文标点、全角
             r'\u2010-\u203b\u2460-\u24ff\u2190-\u21ff'    # 破折号、序号、箭头
+            r'㉑-㉟㊱-㊿'              # 序号 ㉑-㉟ ㊱-㊿（B 收全义项要用）
             r'\u2713\u2714\u2717\u2718\u2022\u00b7\u00b0' # 勾叉、项目符号、度
             r'\u0370-\u03ff'                                 # 希腊字母（音标 θ ð 等）
             r'\u2248\u2260\u2264\u2265\u00d7\u00f7'          # 约等于、不等号、乘除
@@ -51,6 +57,9 @@ def parse(path):
         if odd:
             e['issues'].append("混入异体字符：" + " ".join("%s(U+%04X)" % (c, ord(c)) for c in odd[:6]))
         if not e['senses']: e['issues'].append("没有 ①②③ 例句")
+        # B 词表按牛津高阶收全部义项，每条必须有一段总括的「核心：」讲解，
+        # 否则几十个义项堆在一起没有主线，学的人抓不住这个词到底是什么。
+        if is_b and not e['core']: e['issues'].append("缺少「核心：」讲解块")
         # 编号必须从 ① 开始且连续 —— 漏一个 ② 在 app 里会直接显示成 ①③
         nums = [NUMS.index(t[0]) for _, t in b['lines'][1:] if t[0] in NUMS]
         if nums and nums != list(range(len(nums))):
@@ -73,6 +82,18 @@ def parse(path):
 
 # 基线取自第一批人工验收过的 A-0001-0050
 BASE_SE, BASE_EQ, BASE_CH = 2.28, 2.32, 156
+# B 是另一套规格：按牛津高阶收「全部」义项，每个义项都要例句+讲解，
+# 所以拿 A 的基线量 B 等于没量。B 的基线按义项数设高，
+# 等式基线贴着义项走（每个义项都配一行释义等式）。
+# B 不量「字符/词条」——那个数字随词的义项多少剧烈波动（一批 go/do 天然高，
+# 一批 abolish 这种单义词天然低），量不出质量。也不量「字符/义项」——
+# 核心讲解块是每词一次的固定开销，义项越多摊得越薄，多义词批次会被冤枉。
+# 直接量「讲解行/义项」：既不是例句也不是翻译的行（核心块、释义、词族、辨析）。
+# 实测正常批 2.04，把讲解全抽掉只剩 1.03，取 1.5 干净分开。
+# 等式的作用是给义项归类命名，一个词的语义簇数远少于义项数，
+# 所以不能按义项数设等式基线（会逼出填充行）。沿用 A 那个人工验收过的
+# 2.32 作下限：B 是更厚的规格，只准比 A 密，不准比 A 稀。
+BASE_B_SE, BASE_B_EQ, BASE_B_NOTES = 4.5, BASE_EQ, 1.5
 
 def main(paths):
     # 查重按文件名前缀分组：A 和 B 是两个人各自的词表，
@@ -97,7 +118,16 @@ def main(paths):
         avg_ch = sum(e['chars'] for e in es) / n
         # 密度闸门：低于基线 8% 直接判失败，不靠肉眼盯
         flag = ""
-        if avg_se < BASE_SE * 0.92 or avg_eq < BASE_EQ * 0.92 or avg_ch < BASE_CH * 0.92:
+        if prefix == 'B':
+            n_se = sum(len(e['senses']) for e in es)
+            notes = sum(e['notes'] for e in es)
+            per = (notes / n_se) if n_se else 0
+            below = (avg_se < BASE_B_SE * 0.92 or avg_eq < BASE_B_EQ * 0.92
+                     or per < BASE_B_NOTES)
+        else:
+            below = (avg_se < BASE_SE * 0.92 or avg_eq < BASE_EQ * 0.92
+                     or avg_ch < BASE_CH * 0.92)
+        if below:
             flag = "  ← 密度低于基线，需补写"
             fail = True
         print("%-26s%5d%8.2f%8.2f%8.0f%6d%6d%s" % (

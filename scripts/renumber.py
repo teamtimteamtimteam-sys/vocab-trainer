@@ -2,7 +2,7 @@
 """把每个词条里的例句编号重排成 ①②③…，消灭漏号/重号。
 用法: python3 scripts/renumber.py 'wordlists/A-*.txt'"""
 import sys, io, glob
-NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫"
+NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟㊱㊲㊳㊴㊵㊶㊷㊸㊹㊺㊻㊼㊽㊾㊿"
 def fix(path):
     blocks = [b for b in io.open(path, encoding='utf-8').read().split('\n\n')]
     changed = 0
