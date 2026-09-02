@@ -1,0 +1,1364 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="背单词">
+<meta name="theme-color" content="#ffffff">
+<title>背单词</title>
+<link rel="apple-touch-icon" href="data:image/png;base64,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">
+<link rel="icon" href="data:image/png;base64,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">
+<link rel="manifest" href="./manifest.webmanifest">
+<style>
+/* ============ tokens ============ */
+:root{
+  --bg:#ffffff;
+  --surface:#ffffff;
+  --card:#f7f8f7;
+  --line:#e6e8e6;
+  --ink:#111111;
+  --ink-75:rgba(17,17,17,.75);
+  --ink-60:rgba(17,17,17,.60);
+  --ink-40:rgba(17,17,17,.40);
+  --ink-12:rgba(17,17,17,.12);
+  --green:#1B8A3D;
+  --green-soft:rgba(27,138,61,.10);
+  --green-line:rgba(27,138,61,.35);
+  --danger:#b3261e;
+  --fs:1;           /* font scale, set by settings */
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+  --sans:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  color-scheme:light;
+}
+html[data-theme="dark"]{
+  --bg:#0e0f10;
+  --surface:#0e0f10;
+  --card:#191b1c;
+  --line:#2a2d2e;
+  --ink:#f2f3f2;
+  --ink-75:rgba(242,243,242,.75);
+  --ink-60:rgba(242,243,242,.60);
+  --ink-40:rgba(242,243,242,.40);
+  --ink-12:rgba(242,243,242,.14);
+  --green:#40b968;
+  --green-soft:rgba(64,185,104,.14);
+  --green-line:rgba(64,185,104,.40);
+  --danger:#ff6b61;
+  color-scheme:dark;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;padding:0;min-height:100%}
+body{
+  background:var(--bg);color:var(--ink);
+  font-family:var(--sans);
+  font-size:calc(17px * var(--fs));
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+  overscroll-behavior-y:none;
+}
+button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+input,textarea,select{font:inherit;color:inherit}
+
+/* ============ shell ============ */
+#app{min-height:100%;display:flex;flex-direction:column}
+.topbar{
+  position:sticky;top:0;z-index:50;
+  background:var(--bg);
+  border-bottom:1px solid var(--line);
+  padding:max(env(safe-area-inset-top),8px) 16px 10px;
+  display:flex;align-items:center;gap:12px;min-height:52px;
+}
+.topbar h1{font-size:calc(17px*var(--fs));font-weight:600;margin:0;flex:1;letter-spacing:.01em}
+.topbar .sub{font-size:calc(13px*var(--fs));color:var(--ink-60);font-weight:400}
+.iconbtn{
+  min-width:44px;min-height:38px;display:flex;align-items:center;justify-content:center;
+  border-radius:9px;font-size:calc(15px*var(--fs));color:var(--ink-60);margin:0 -8px;padding:0 8px;
+}
+.iconbtn:active{background:var(--card)}
+.iconbtn.accent{color:var(--green);font-weight:600}
+main{flex:1;padding:20px 16px calc(40px + env(safe-area-inset-bottom));max-width:820px;width:100%;margin:0 auto}
+.view{display:none}
+.view.on{display:block}
+
+/* ============ generic ============ */
+.card{background:var(--card);border-radius:14px;padding:16px 18px;margin-bottom:14px}
+.card.flat{background:none;border:1px solid var(--line)}
+.rowbtn{
+  width:100%;text-align:left;background:var(--card);border-radius:14px;padding:16px 18px;
+  margin-bottom:12px;display:flex;align-items:center;gap:14px;
+}
+.rowbtn:active{transform:scale(.994)}
+.rowbtn[disabled]{opacity:.5}
+.rowbtn .grow{flex:1;min-width:0}
+.rowbtn .chev{color:var(--ink-40);font-size:calc(18px*var(--fs))}
+.eyebrow{
+  font-size:calc(12px*var(--fs));letter-spacing:.10em;text-transform:uppercase;
+  color:var(--ink-40);font-weight:600;margin:26px 0 10px;
+}
+.eyebrow:first-child{margin-top:0}
+.title{font-size:calc(17px*var(--fs));font-weight:600}
+.meta{font-size:calc(13px*var(--fs));color:var(--ink-60);margin-top:2px}
+.big{font-size:calc(15px*var(--fs));font-weight:600;color:var(--green)}
+.btn{
+  display:inline-flex;align-items:center;justify-content:center;gap:8px;
+  min-height:50px;padding:0 22px;border-radius:12px;font-weight:600;
+  background:var(--green);color:#fff;width:100%;
+  font-size:calc(16px*var(--fs));
+}
+html[data-theme="dark"] .btn{color:#0e0f10}
+.btn:active{opacity:.85}
+.btn.ghost{background:none;border:1.5px solid var(--line);color:var(--ink)}
+.btn.dark{background:var(--ink);color:var(--bg)}
+.btn[disabled]{opacity:.45}
+.btn.danger{background:none;border:1.5px solid var(--danger);color:var(--danger)}
+.hint{font-size:calc(13px*var(--fs));color:var(--ink-60);line-height:1.55}
+.hint.warn{color:var(--danger)}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.stat{background:var(--card);border-radius:14px;padding:14px 12px;text-align:center}
+.stat b{display:block;font-size:calc(24px*var(--fs));font-weight:700;line-height:1.2;font-variant-numeric:tabular-nums}
+.stat span{font-size:calc(12px*var(--fs));color:var(--ink-60)}
+.stat.g b{color:var(--green)}
+.banner{
+  border:1px solid var(--green-line);background:var(--green-soft);border-radius:12px;
+  padding:12px 14px;margin-bottom:14px;font-size:calc(14px*var(--fs));display:flex;gap:10px;align-items:center;
+}
+.banner .grow{flex:1}
+.banner button{color:var(--green);font-weight:600;white-space:nowrap}
+.locked{border:1px dashed var(--line);background:none}
+.empty{text-align:center;color:var(--ink-40);padding:56px 20px;font-size:calc(15px*var(--fs))}
+
+/* ============ word card ============ */
+.wordhead{display:flex;align-items:flex-start;gap:12px;margin:6px 0 22px}
+.wordhead .w{
+  font-family:var(--serif);font-weight:700;
+  font-size:calc(44px*var(--fs));line-height:1.15;letter-spacing:-.01em;
+  word-break:break-word;flex:1;
+}
+.spk{
+  min-width:40px;height:40px;border-radius:20px;display:flex;align-items:center;justify-content:center;
+  color:var(--green);margin-top:10px;flex:none;
+}
+.spk svg{width:21px;height:21px}
+.spk:active{background:var(--green-soft)}
+.spk.sm{
+  display:inline-flex;width:26px;min-width:26px;height:22px;border-radius:6px;
+  vertical-align:-4px;margin:0 0 0 2px;color:var(--ink-40);
+}
+.spk.sm svg{width:15px;height:15px}
+.spk.sm:active{color:var(--green)}
+.sense{margin:0 0 26px}
+.sense:last-child{margin-bottom:8px}
+.snum{
+  font-family:var(--serif);font-size:calc(19px*var(--fs));color:var(--green);font-weight:700;
+  margin-right:2px;
+}
+.ex{
+  font-family:var(--serif);font-size:calc(21px*var(--fs));line-height:1.62;
+  color:var(--ink);margin:0 0 8px;
+}
+.ex .hl{color:var(--green);font-weight:700}
+.tr{
+  font-size:calc(16px*var(--fs));color:var(--ink-60);line-height:1.65;margin:0 0 12px;
+}
+.tr::before{content:"= ";color:var(--ink-40)}
+.notes{
+  background:var(--card);border-radius:12px;padding:13px 15px;margin-top:10px;
+}
+.notes > *{margin:0}
+.notes > * + *{margin-top:7px}
+.n-label{font-size:calc(13px*var(--fs));color:var(--ink-40);font-weight:600;letter-spacing:.02em}
+.n-text{font-size:calc(15px*var(--fs));color:var(--ink-75);line-height:1.62}
+.n-en{font-family:var(--serif);font-size:calc(16px*var(--fs));color:var(--ink-75);line-height:1.55}
+.n-gloss{font-size:calc(14px*var(--fs));color:var(--ink-60);padding-left:14px;border-left:2px solid var(--ink-12)}
+.n-gloss::before{content:"= ";color:var(--ink-40)}
+.eq{
+  display:block;padding:7px 0 7px 13px;border-left:3px solid var(--green);
+  background:var(--green-soft);border-radius:0 8px 8px 0;
+}
+.eq .lhs{font-family:var(--serif);font-weight:700;color:var(--green);font-size:calc(16px*var(--fs))}
+.eq .eqs{color:var(--ink-40);margin:0 6px}
+.eq .rhs{color:var(--ink);font-size:calc(15px*var(--fs))}
+.summary{
+  margin-top:22px;padding-top:18px;border-top:1px solid var(--line);
+}
+.summary .n-text{color:var(--ink-75)}
+
+/* ============ study footer ============ */
+.footerbar{
+  position:sticky;bottom:0;background:var(--bg);
+  padding:12px 0 calc(12px + env(safe-area-inset-bottom));
+  border-top:1px solid var(--line);margin-top:26px;
+  display:flex;gap:12px;
+}
+.footerbar .btn{flex:1}
+.markbtn{border:1.5px solid var(--line);background:none;color:var(--ink)}
+.markbtn.done{background:var(--green);border-color:var(--green);color:#fff}
+html[data-theme="dark"] .markbtn.done{color:#0e0f10}
+.progressbar{height:3px;background:var(--ink-12);border-radius:2px;overflow:hidden;margin-top:10px}
+.progressbar i{display:block;height:100%;background:var(--green);transition:width .25s}
+.navrow{display:flex;align-items:center;gap:16px;justify-content:space-between;margin-bottom:4px}
+.navrow button{color:var(--ink-40);font-size:calc(15px*var(--fs));padding:8px 4px;min-width:44px}
+.navrow button[disabled]{opacity:.3}
+
+/* ============ groups grid ============ */
+.tabs{display:flex;gap:6px;margin-bottom:16px;overflow-x:auto;padding-bottom:2px}
+.tabs button{
+  padding:8px 14px;border-radius:9px;font-size:calc(14px*var(--fs));
+  background:var(--card);color:var(--ink-60);white-space:nowrap;
+}
+.tabs button.on{background:var(--ink);color:var(--bg);font-weight:600}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(74px,1fr));gap:9px}
+.gcell{
+  aspect-ratio:1;border-radius:11px;background:var(--card);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;
+}
+.gcell b{font-size:calc(17px*var(--fs));font-weight:700;font-variant-numeric:tabular-nums}
+.gcell span{font-size:calc(11px*var(--fs));color:var(--ink-40)}
+.gcell.learning{box-shadow:inset 0 0 0 2px var(--ink)}
+.gcell.reviewing{background:var(--green-soft);box-shadow:inset 0 0 0 1.5px var(--green-line)}
+.gcell.reviewing b{color:var(--green)}
+.gcell.reviewing span{color:var(--green)}
+.gcell.mastered{background:var(--green)}
+.gcell.mastered b,.gcell.mastered span{color:#fff}
+html[data-theme="dark"] .gcell.mastered b,html[data-theme="dark"] .gcell.mastered span{color:#0e0f10}
+.gcell.due{box-shadow:inset 0 0 0 2px var(--green)}
+
+/* ============ misc ============ */
+.searchbox{
+  width:100%;background:var(--card);border:none;border-radius:12px;
+  padding:14px 16px;font-size:calc(16px*var(--fs));margin-bottom:16px;
+}
+.searchbox:focus{outline:2px solid var(--green-line)}
+textarea.ta{
+  width:100%;min-height:190px;background:var(--card);border:1px solid var(--line);
+  border-radius:12px;padding:14px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+  font-size:calc(13px*var(--fs));line-height:1.6;resize:vertical;
+}
+.filepick{
+  display:block;border:1.5px dashed var(--line);border-radius:14px;padding:26px 18px;
+  text-align:center;color:var(--ink-60);margin-bottom:14px;font-size:calc(15px*var(--fs));
+}
+.filepick b{color:var(--green);display:block;margin-bottom:4px;font-size:calc(16px*var(--fs))}
+.issue{
+  border-left:3px solid var(--danger);padding:6px 0 6px 12px;margin:8px 0;
+  font-size:calc(13px*var(--fs));color:var(--ink-75);
+}
+.issue b{color:var(--danger)}
+.setrow{
+  display:flex;align-items:center;gap:12px;padding:14px 0;border-bottom:1px solid var(--line);
+}
+.setrow .grow{flex:1}
+.seg{display:flex;background:var(--card);border-radius:10px;padding:3px;gap:2px}
+.seg button{padding:7px 13px;border-radius:8px;font-size:calc(14px*var(--fs));color:var(--ink-60)}
+.seg button.on{background:var(--bg);color:var(--ink);font-weight:600;box-shadow:0 1px 3px rgba(0,0,0,.1)}
+html[data-theme="dark"] .seg button.on{background:#303334;box-shadow:none}
+.reveal{animation:fade .22s ease}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.toast{
+  position:fixed;left:50%;bottom:calc(28px + env(safe-area-inset-bottom));transform:translateX(-50%);
+  background:var(--ink);color:var(--bg);padding:12px 20px;border-radius:11px;
+  font-size:calc(14px*var(--fs));z-index:200;max-width:88vw;text-align:center;
+  opacity:0;pointer-events:none;transition:opacity .2s;
+}
+.toast.on{opacity:1}
+.listitem{
+  display:flex;align-items:baseline;gap:12px;padding:13px 2px;border-bottom:1px solid var(--line);
+}
+.listitem .w{font-family:var(--serif);font-size:calc(18px*var(--fs));font-weight:600;min-width:0;flex:1}
+.listitem .t{font-size:calc(14px*var(--fs));color:var(--ink-60);flex:1.2;min-width:0;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.listitem .dot{width:9px;height:9px;border-radius:5px;background:var(--ink-12);flex:none}
+.listitem .dot.on{background:var(--green)}
+@media (min-width:700px){
+  main{padding:28px 28px calc(48px + env(safe-area-inset-bottom))}
+  .ex{font-size:calc(23px*var(--fs))}
+  .wordhead .w{font-size:calc(52px*var(--fs))}
+}
+</style>
+</head>
+<body>
+<div id="app">
+  <div class="topbar">
+    <button class="iconbtn" id="backBtn" style="display:none">‹ 返回</button>
+    <h1 id="ttl">背单词</h1>
+    <button class="iconbtn" id="actBtn" style="display:none"></button>
+  </div>
+  <main>
+    <div class="view on" id="v-home"></div>
+    <div class="view" id="v-learn"></div>
+    <div class="view" id="v-review"></div>
+    <div class="view" id="v-groups"></div>
+    <div class="view" id="v-grouplist"></div>
+    <div class="view" id="v-search"></div>
+    <div class="view" id="v-import"></div>
+    <div class="view" id="v-word"></div>
+    <div class="view" id="v-settings"></div>
+  </main>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+"use strict";
+/* =========================================================================
+   背单词 · 单文件 PWA
+   数据：IndexedDB(vocab_v1)  设置：localStorage
+   ========================================================================= */
+
+const GROUP_SIZE = 50;
+const INTERVALS  = [1, 2, 4, 7, 15, 30];   // 天，从整组背完当天起算
+const DAILY_CAP  = 5;                       // 每日复习配额（组）
+const DAY_START  = 4;                       // 凌晨 4:00 为一天分界
+const BACKUP_WARN_DAYS = 7;
+const APP_VERSION = "1.0.0";
+
+/* ---------------------------------------------------------------- utils */
+const $ = s => document.querySelector(s);
+const esc = s => String(s == null ? "" : s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function todayKey(d) {
+  const t = d ? new Date(d) : new Date();
+  t.setHours(t.getHours() - DAY_START);
+  return t.getFullYear() + "-" + String(t.getMonth()+1).padStart(2,"0") + "-" + String(t.getDate()).padStart(2,"0");
+}
+function addDays(key, n) {
+  const [y,m,d] = key.split("-").map(Number);
+  const t = new Date(y, m-1, d + n);
+  return t.getFullYear() + "-" + String(t.getMonth()+1).padStart(2,"0") + "-" + String(t.getDate()).padStart(2,"0");
+}
+function daysBetween(a, b) {
+  const p = k => { const [y,m,d] = k.split("-").map(Number); return Date.UTC(y, m-1, d); };
+  return Math.round((p(b) - p(a)) / 86400000);
+}
+function shuffle(a) {
+  const r = a.slice();
+  for (let i = r.length - 1; i > 0; i--) { const j = Math.floor(Math.random()*(i+1)); [r[i],r[j]] = [r[j],r[i]]; }
+  return r;
+}
+function fmtSize(b) {
+  return b > 1048576 ? (b / 1048576).toFixed(1) + " MB"
+       : b > 1024    ? Math.round(b / 1024) + " KB" : b + " B";
+}
+let toastTimer;
+function toast(msg) {
+  const el = $("#toast"); el.textContent = msg; el.classList.add("on");
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => el.classList.remove("on"), 2200);
+}
+
+/* ------------------------------------------------------------------- db */
+let db;
+function openDB() {
+  return new Promise((res, rej) => {
+    const rq = indexedDB.open("vocab_v1", 1);
+    rq.onupgradeneeded = e => {
+      const d = e.target.result;
+      const w = d.createObjectStore("words", { keyPath: "id" });
+      w.createIndex("by_word", "wordKey", { unique: true });
+      w.createIndex("by_group", "groupId");
+      d.createObjectStore("groups", { keyPath: "id" });
+      d.createObjectStore("meta", { keyPath: "k" });
+    };
+    rq.onsuccess = e => { db = e.target.result; res(db); };
+    rq.onerror = e => rej(e.target.error);
+  });
+}
+const req = r => new Promise((res, rej) => { r.onsuccess = () => res(r.result); r.onerror = () => rej(r.error); });
+function tx(stores, mode) { return db.transaction(stores, mode); }
+function store(name, mode = "readonly") { return tx([name], mode).objectStore(name); }
+
+async function metaGet(k, dflt) {
+  const r = await req(store("meta").get(k));
+  return r === undefined ? dflt : r.v;
+}
+async function metaSet(k, v) {
+  await req(store("meta", "readwrite").put({ k, v }));
+}
+async function getWords(ids) {
+  const s = store("words");
+  const out = await Promise.all(ids.map(id => req(s.get(id))));
+  return out.filter(Boolean);
+}
+async function getWord(id) { return req(store("words").get(id)); }
+async function putWord(w) { return req(store("words", "readwrite").put(w)); }
+
+/* --------------------------------------------------------------- state */
+const S = {
+  groups: [],          // 全量组（数量级 2000，常驻内存）
+  nextSeq: 1,          // 下一个词的 id / 全局序号
+  looseIds: [],        // 暂存区（未成组）的词 id，按 seq 递增
+  quota: null,         // {date, ids:[]}
+  lastNewGroupDate: "",
+  lastBackup: "",
+  settings: { theme: "auto", fs: 1 },
+  view: "home",
+  stack: [],
+};
+
+function loadSettings() {
+  try { Object.assign(S.settings, JSON.parse(localStorage.getItem("vocab_settings") || "{}")); } catch (e) {}
+  applySettings();
+}
+function saveSettings() {
+  try { localStorage.setItem("vocab_settings", JSON.stringify(S.settings)); } catch (e) {}
+  applySettings();
+}
+function applySettings() {
+  const t = S.settings.theme;
+  const dark = t === "dark" || (t === "auto" && matchMedia("(prefers-color-scheme: dark)").matches);
+  document.documentElement.dataset.theme = dark ? "dark" : "light";
+  document.querySelector('meta[name=theme-color]').setAttribute("content", dark ? "#0e0f10" : "#ffffff");
+  document.documentElement.style.setProperty("--fs", S.settings.fs);
+}
+
+async function loadState() {
+  S.groups = await req(store("groups").getAll());
+  S.groups.sort((a, b) => a.id - b.id);
+  S.nextSeq = await metaGet("nextSeq", 1);
+  S.looseIds = await metaGet("looseIds", []);
+  S.lastNewGroupDate = await metaGet("lastNewGroupDate", "");
+  S.lastBackup = await metaGet("lastBackup", "");
+  await refreshQuota();
+}
+const groupById = id => S.groups.find(g => g.id === id);
+
+/* ---------------------------------------------------- 复习调度 / 门禁 */
+function dueGroups(today) {
+  return S.groups
+    .filter(g => g.state === "reviewing" && g.nextReviewDate <= today)
+    .sort((a, b) => a.nextReviewDate < b.nextReviewDate ? -1
+                  : a.nextReviewDate > b.nextReviewDate ? 1 : a.id - b.id);
+}
+async function refreshQuota() {
+  const today = todayKey();
+  let q = await metaGet("quota", null);
+  if (!q || q.date !== today) {
+    q = { date: today, ids: dueGroups(today).slice(0, DAILY_CAP).map(g => g.id) };
+    await metaSet("quota", q);
+  }
+  S.quota = q;
+}
+// 配额内尚未清掉的组
+function quotaOpenGroups() {
+  const today = todayKey();
+  return S.quota.ids.map(groupById).filter(g => g && g.state === "reviewing" && g.nextReviewDate <= today);
+}
+// 配额外的额外到期组（可选做）
+function extraDueGroups() {
+  const today = todayKey();
+  return dueGroups(today).filter(g => !S.quota.ids.includes(g.id));
+}
+const gateOpen = () => quotaOpenGroups().length === 0;
+
+const learningGroup = () => S.groups.find(g => g.state === "learning");
+function canStartNewGroup() {
+  if (!gateOpen()) return { ok: false, why: "gate" };
+  if (learningGroup()) return { ok: false, why: "inprogress" };
+  if (S.lastNewGroupDate === todayKey()) return { ok: false, why: "daily" };
+  if (!S.groups.some(g => g.state === "pending")) return { ok: false, why: "empty" };
+  return { ok: true };
+}
+
+/* ------------------------------------------------------------ 解析器 */
+const NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮";
+const SUMMARY_RE = /^(所以|总之|总结|归纳|综上|因此)/;
+const EQ_RE = /^([A-Za-z][A-Za-z0-9’'\-\s.]{0,44}?)\s*=\s*(.+)$/;
+
+function classifyNote(line) {
+  if (line.startsWith("=")) return { t: "gloss", text: line.slice(1).trim() };
+  const m = line.match(EQ_RE);
+  if (m && /[A-Za-z]/.test(m[1])) return { t: "eq", lhs: m[1].trim(), rhs: m[2].trim() };
+  if (/[：:]$/.test(line) && line.length <= 24) return { t: "label", text: line };
+  if (!/[一-鿿]/.test(line)) return { t: "en", text: line };
+  return { t: "text", text: line };
+}
+
+function parseVocab(text) {
+  const lines = text.replace(/\r\n?/g, "\n").split("\n");
+  const blocks = [];
+  let cur = null;
+  lines.forEach((raw, i) => {
+    const t = raw.trim();
+    if (!t) { if (cur) { blocks.push(cur); cur = null; } return; }
+    if (!cur) cur = { start: i + 1, lines: [] };
+    cur.lines.push({ n: i + 1, t });
+  });
+  if (cur) blocks.push(cur);
+
+  return blocks.map(b => {
+    const e = { word: "", senses: [], summary: [], head: [], issues: [], line: b.start,
+                raw: b.lines.map(l => l.t).join("\n") };
+    const first = b.lines[0].t;
+    e.word = first;
+    if (!/^[A-Za-z][A-Za-z0-9’'\-. ]*$/.test(first) || first.split(/\s+/).length > 4) {
+      e.issues.push({ n: b.lines[0].n, msg: "首行不像单词：「" + first + "」" });
+    }
+    let sense = null, inSummary = false;
+    for (let i = 1; i < b.lines.length; i++) {
+      const { n, t } = b.lines[i];
+      const idx = NUMS.indexOf(t[0]);
+      if (idx >= 0) {
+        sense = { no: idx + 1, example: t.slice(1).trim(), translation: "", notes: [] };
+        e.senses.push(sense); inSummary = false; continue;
+      }
+      if (!inSummary && sense && SUMMARY_RE.test(t) && e.senses.length > 0) {
+        const rest = b.lines.slice(i).map(l => l.t);
+        // 仅当其后不再出现新例句时，才视为词尾总结
+        if (!rest.some(x => NUMS.indexOf(x[0]) >= 0)) inSummary = true;
+      }
+      const note = classifyNote(t);
+      if (inSummary) { e.summary.push(note); continue; }
+      if (!sense) { e.head.push(note); continue; }
+      if (note.t === "gloss" && !sense.translation) { sense.translation = note.text; continue; }
+      sense.notes.push(note);
+    }
+    if (e.senses.length === 0) e.issues.push({ n: b.start, msg: "没有找到 ①②③ 例句" });
+    e.senses.forEach(s => {
+      if (!s.translation) e.issues.push({ n: b.start, msg: "例句 " + NUMS[s.no-1] + " 缺少以 = 开头的中文翻译" });
+    });
+    return e;
+  }).filter(e => e.word);
+}
+
+/* -------------------------------------------------------- 高亮目标词 */
+const SUFFIX_RE = /(ations?|ators?|ments?|nesses?|ities|ives?|ables?|ibles?|ances?|ences?|ings?|ers?|ors?|ies|ed|es|s|ly|y|e)$/;
+function hlRegex(word) {
+  const w = word.toLowerCase().split(/\s|-/)[0];
+  let stem = w;
+  const st = w.replace(SUFFIX_RE, "");
+  if (st.length >= 5) stem = st;
+  return new RegExp("\\b(" + stem.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "[a-z]{0,6})\\b", "gi");
+}
+function hl(sentence, word) {
+  const out = esc(sentence);
+  try { return out.replace(hlRegex(word), '<span class="hl">$1</span>'); }
+  catch (e) { return out; }
+}
+
+/* ---------------------------------------------------------- 词条渲染 */
+const SPK_SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+  '<path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.4 8.6a4.8 4.8 0 0 1 0 6.8"/><path d="M18.4 5.6a9 9 0 0 1 0 12.8"/></svg>';
+function spkBtn(text, kind) {
+  return '<button class="spk' + (kind === "inline" ? " sm" : "") + '" data-say="' + esc(text) + '" aria-label="朗读">' + SPK_SVG + "</button>";
+}
+function renderNotes(notes) {
+  if (!notes.length) return "";
+  return '<div class="notes">' + notes.map(n => {
+    if (n.t === "eq")    return '<div class="eq"><span class="lhs">' + esc(n.lhs) + '</span><span class="eqs">=</span><span class="rhs">' + esc(n.rhs) + "</span></div>";
+    if (n.t === "gloss") return '<div class="n-gloss">' + esc(n.text) + "</div>";
+    if (n.t === "label") return '<div class="n-label">' + esc(n.text) + "</div>";
+    if (n.t === "en")    return '<div class="n-en">' + esc(n.text) + "</div>";
+    return '<div class="n-text">' + esc(n.text) + "</div>";
+  }).join("") + "</div>";
+}
+function renderWordFull(w) {
+  let h = '<div class="wordhead"><div class="w">' + esc(w.word) + "</div>" + spkBtn(w.word, "") + "</div>";
+  if (w.head && w.head.length) h += renderNotes(w.head);
+  w.senses.forEach(s => {
+    h += '<div class="sense">' +
+         '<p class="ex"><span class="snum">' + NUMS[s.no-1] + "</span> " + hl(s.example, w.word) +
+         " " + spkBtn(s.example, "inline") + "</p>" +
+         (s.translation ? '<p class="tr">' + esc(s.translation) + "</p>" : "") +
+         renderNotes(s.notes) +
+         "</div>";
+  });
+  if (w.summary && w.summary.length) h += '<div class="summary">' + renderNotes(w.summary) + "</div>";
+  return h;
+}
+function renderWordQuiz(w) {
+  let h = '<div class="wordhead"><div class="w">' + esc(w.word) + "</div>" + spkBtn(w.word, "") + "</div>";
+  w.senses.forEach(s => {
+    h += '<div class="sense"><p class="ex"><span class="snum">' + NUMS[s.no-1] + "</span> " + hl(s.example, w.word) + "</p></div>";
+  });
+  return h;
+}
+function speak(text) {
+  try {
+    speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = "en-US"; u.rate = 0.92;
+    speechSynthesis.speak(u);
+  } catch (e) { toast("此设备不支持朗读"); }
+}
+window.speak = speak;
+document.addEventListener("click", e => {
+  const b = e.target.closest && e.target.closest("[data-say]");
+  if (b) { e.preventDefault(); speak(b.dataset.say); }
+});
+
+/* ---------------------------------------------------------- 导航外壳 */
+function go(view, push = true) {
+  if (push && S.view !== view) S.stack.push(S.view);
+  S.view = view;
+  document.querySelectorAll(".view").forEach(v => v.classList.remove("on"));
+  $("#v-" + view).classList.add("on");
+  $("#backBtn").style.display = view === "home" ? "none" : "flex";
+  window.scrollTo(0, 0);
+  RENDER[view]();
+}
+function back() {
+  const prev = S.stack.pop() || "home";
+  go(prev, false);
+}
+$("#backBtn").onclick = back;
+function setTitle(t, sub) {
+  $("#ttl").innerHTML = esc(t) + (sub ? ' <span class="sub">' + esc(sub) + "</span>" : "");
+}
+function setAction(label, fn, accent) {
+  const b = $("#actBtn");
+  if (!label) { b.style.display = "none"; b.onclick = null; return; }
+  b.style.display = "flex"; b.textContent = label; b.onclick = fn;
+  b.className = "iconbtn" + (accent ? " accent" : "");
+}
+
+/* ============================== 首页 ============================== */
+const RENDER = {};
+RENDER.home = async function () {
+  setTitle("背单词");
+  setAction("设置", () => go("settings"));
+  const today = todayKey();
+  const q = quotaOpenGroups(), extra = extraDueGroups();
+  const lg = learningGroup();
+  const canNew = canStartNewGroup();
+  const open = gateOpen();
+
+  const total = S.nextSeq - 1;
+  const mastered = S.groups.filter(g => g.state === "mastered").length;
+  const reviewing = S.groups.filter(g => g.state === "reviewing").length;
+  const pending = S.groups.filter(g => g.state === "pending").length;
+  const learnedWords = S.groups.reduce((a, g) => a + (g.state === "learning" ? g.learnedCount : g.state === "pending" ? 0 : GROUP_SIZE), 0);
+
+  let h = "";
+
+  // 备份提醒
+  if (total > 0) {
+    const d = S.lastBackup ? daysBetween(S.lastBackup, today) : 999;
+    if (d >= BACKUP_WARN_DAYS) {
+      h += '<div class="banner"><div class="grow">' +
+           (S.lastBackup ? "上次备份：" + d + " 天前" : "还没有备份过") +
+           '<br><span style="color:var(--ink-60);font-size:.9em">导出一份 JSON 到「文件」App，防止数据意外丢失</span></div>' +
+           '<button onclick="exportBackup()">备份</button></div>';
+    }
+  }
+
+  if (total === 0) {
+    h += '<div class="empty">词库还是空的<br><br></div>' +
+         '<button class="btn" onclick="go(\'import\')">导入词表</button>';
+    $("#v-home").innerHTML = h;
+    return;
+  }
+
+  /* --- 今日复习 --- */
+  h += '<div class="eyebrow">今日复习</div>';
+  if (q.length === 0 && extra.length === 0) {
+    h += '<div class="card"><div class="title" style="color:var(--green)">今天没有到期的复习 ✓</div>' +
+         '<div class="meta">背诵已解锁</div></div>';
+  } else {
+    const totalWords = q.length * GROUP_SIZE;
+    h += '<div class="card" style="background:var(--green-soft)"><div class="title">' +
+         (q.length ? "还有 " + q.length + " 组 · " + totalWords + " 词" : "今日任务已完成 ✓") +
+         "</div>" +
+         '<div class="meta">' + (q.length
+            ? "完成后解锁背诵新词" + (extra.length ? "；另有 " + extra.length + " 组逾期排队中" : "")
+            : (extra.length ? "另有 " + extra.length + " 组逾期，可选做" : "")) + "</div></div>";
+    q.forEach(g => {
+      const over = daysBetween(g.nextReviewDate, today);
+      const sess = g.reviewSession && g.reviewSession.date === today && !g.reviewSession.done ? g.reviewSession : null;
+      h += '<button class="rowbtn" onclick="startReview(' + g.id + ')"><div class="grow">' +
+           '<div class="title">组 #' + g.id + '　<span style="color:var(--ink-40);font-weight:400">第 ' + (g.reviewStage + 1) + "/" + INTERVALS.length + " 轮</span></div>" +
+           '<div class="meta">' + (over > 0 ? "逾期 " + over + " 天" : "今日到期") +
+           (sess ? "　· 已续存进度" : "") + "</div></div><div class=\"chev\">›</div></button>";
+    });
+    if (extra.length) {
+      h += '<div class="hint" style="margin:6px 2px 12px">超出今日配额（' + DAILY_CAP + ' 组）的逾期组不计入解锁条件，可自愿加做：</div>';
+      extra.slice(0, 20).forEach(g => {
+        h += '<button class="rowbtn" style="background:none;border:1px solid var(--line)" onclick="startReview(' + g.id + ')"><div class="grow">' +
+             '<div class="title">组 #' + g.id + '</div><div class="meta">逾期 ' + daysBetween(g.nextReviewDate, today) + ' 天</div></div><div class="chev">›</div></button>';
+      });
+    }
+  }
+
+  /* --- 背诵 --- */
+  h += '<div class="eyebrow">背诵新词</div>';
+  if (lg) {
+    if (open) {
+      h += '<button class="rowbtn" onclick="startLearn(' + lg.id + ')"><div class="grow">' +
+           '<div class="title">继续背诵 · 组 #' + lg.id + "</div>" +
+           '<div class="meta">已标记 ' + lg.learnedCount + "/" + GROUP_SIZE + "</div>" +
+           '<div class="progressbar"><i style="width:' + (lg.learnedCount / GROUP_SIZE * 100) + '%"></i></div>' +
+           "</div><div class=\"chev\">›</div></button>";
+    } else {
+      h += '<div class="rowbtn locked"><div class="grow"><div class="title" style="color:var(--ink-40)">🔒 组 #' + lg.id + ' · 已标记 ' + lg.learnedCount + "/" + GROUP_SIZE + "</div>" +
+           '<div class="meta">今日复习未完成，背诵已锁定</div></div></div>';
+    }
+  } else if (canNew.ok) {
+    const next = S.groups.find(g => g.state === "pending");
+    h += '<button class="rowbtn" onclick="startLearn(' + next.id + ')"><div class="grow">' +
+         '<div class="title">开始新的一组 · 组 #' + next.id + "</div>" +
+         '<div class="meta">' + GROUP_SIZE + " 个新词</div></div><div class=\"chev\">›</div></button>";
+  } else {
+    const msg = {
+      gate:  "🔒 今日复习未完成，背诵已锁定",
+      daily: "✓ 今天的新词额度已用完（每天 1 组）",
+      empty: "词库里没有待背的完整组了",
+    }[canNew.why] || "";
+    const sub = {
+      gate:  "先把上面的复习做完",
+      daily: "明天凌晨 4:00 后可以开新组",
+      empty: S.looseIds.length > 0 ? "暂存区还有 " + S.looseIds.length + " 个词，凑满 " + GROUP_SIZE + " 个即可成组" : "去导入更多词表",
+    }[canNew.why] || "";
+    h += '<div class="rowbtn locked"><div class="grow"><div class="title" style="color:var(--ink-40)">' + msg + "</div>" +
+         '<div class="meta">' + sub + "</div></div></div>";
+  }
+
+  /* --- 总览 --- */
+  h += '<div class="eyebrow">总览</div><div class="stats">' +
+       '<div class="stat g"><b>' + mastered + "</b><span>已掌握组</span></div>" +
+       '<div class="stat"><b>' + reviewing + "</b><span>复习中组</span></div>" +
+       '<div class="stat"><b>' + pending + "</b><span>待背组</span></div>" +
+       '<div class="stat"><b>' + total + "</b><span>词库总量</span></div>" +
+       "</div>" +
+       '<div class="hint" style="margin-top:10px">已背 ' + learnedWords + " 词　·　暂存区 " + S.looseIds.length + " 词（凑满 " + GROUP_SIZE + " 自动成组）</div>";
+
+  /* --- 词库管理 --- */
+  h += '<div class="eyebrow">词库</div>' +
+       '<button class="rowbtn" onclick="go(\'search\')"><div class="grow"><div class="title">搜索单词</div><div class="meta">在全部 ' + total + ' 词中查找</div></div><div class="chev">›</div></button>' +
+       '<button class="rowbtn" onclick="go(\'groups\')"><div class="grow"><div class="title">组列表</div><div class="meta">' + S.groups.length + ' 组 · 按状态浏览</div></div><div class="chev">›</div></button>' +
+       '<button class="rowbtn" onclick="go(\'import\')"><div class="grow"><div class="title">导入词表</div><div class="meta">.txt 文件或粘贴文本</div></div><div class="chev">›</div></button>';
+
+  $("#v-home").innerHTML = h;
+};
+
+/* ============================== 背诵 ============================== */
+let LS = null;   // {group, words, idx}
+async function startLearn(gid) {
+  const g = groupById(gid);
+  if (!gateOpen()) { toast("今日复习未完成，背诵已锁定"); return; }
+  if (g.state === "pending") {
+    if (!canStartNewGroup().ok) { toast("今天已经开过新的一组了"); return; }
+    g.state = "learning"; g.startedAt = todayKey(); g.learnSession = { idx: 0 };
+    S.lastNewGroupDate = todayKey();
+    await metaSet("lastNewGroupDate", S.lastNewGroupDate);
+    await req(store("groups", "readwrite").put(g));
+  }
+  const words = await getWords(g.wordIds);
+  LS = { group: g, words, idx: (g.learnSession && g.learnSession.idx) || 0 };
+  if (LS.idx >= words.length) LS.idx = 0;
+  go("learn");
+}
+window.startLearn = startLearn;
+
+RENDER.learn = function () {
+  if (!LS) { go("home", false); return; }
+  const { group: g, words, idx } = LS;
+  const w = words[idx];
+  setTitle("组 #" + g.id, (idx + 1) + " / " + words.length);
+  setAction("列表", () => openGroup(g.id));
+
+  let h = '<div class="navrow">' +
+    '<button onclick="learnStep(-1)"' + (idx === 0 ? " disabled" : "") + ">‹ 上一个</button>" +
+    '<span style="color:var(--ink-40);font-size:.85em">已标记 ' + g.learnedCount + "/" + words.length + "</span>" +
+    '<button onclick="learnStep(1)"' + (idx === words.length - 1 ? " disabled" : "") + ">下一个 ›</button></div>" +
+    '<div class="progressbar" style="margin-bottom:22px"><i style="width:' + (g.learnedCount / words.length * 100) + '%"></i></div>' +
+    '<div id="cardhost">' + renderWordFull(w) + "</div>" +
+    '<div class="footerbar">' +
+    '<button class="btn markbtn' + (w.learned ? " done" : "") + '" onclick="toggleMark()">' +
+      (w.learned ? "✓ 已背下" : "标记为已背下") + "</button></div>";
+  $("#v-learn").innerHTML = h;
+};
+
+function learnStep(d) {
+  const n = LS.idx + d;
+  if (n < 0 || n >= LS.words.length) return;
+  LS.idx = n;
+  LS.group.learnSession = { idx: n };
+  req(store("groups", "readwrite").put(LS.group));
+  RENDER.learn();
+}
+window.learnStep = learnStep;
+
+async function toggleMark() {
+  const w = LS.words[LS.idx], g = LS.group;
+  w.learned = !w.learned;
+  w.learnedAt = w.learned ? todayKey() : null;
+  await putWord(w);
+  g.learnedCount = LS.words.filter(x => x.learned).length;
+
+  if (g.learnedCount === GROUP_SIZE && g.state === "learning") {
+    g.state = "reviewing";
+    g.completedAt = todayKey();
+    g.reviewStage = 0;
+    g.nextReviewDate = addDays(g.completedAt, INTERVALS[0]);
+    g.reviewSession = null;
+    g.learnSession = null;
+    await req(store("groups", "readwrite").put(g));
+    await refreshQuota();
+    $("#v-learn").innerHTML =
+      '<div class="empty" style="padding-top:64px"><div style="font-size:3em;line-height:1.4">✓</div>' +
+      '<div style="color:var(--green);font-weight:600;font-size:1.25em;margin-bottom:8px">组 #' + g.id + " 已背诵完成</div>" +
+      "<div>50 个词全部标记完毕<br>已加入复习清单，下次复习：" + g.nextReviewDate + "（" + INTERVALS[0] + " 天后）</div></div>" +
+      '<button class="btn" onclick="go(\'home\',false)">回到首页</button>';
+    setAction("");
+    LS = null;
+    return;
+  }
+  await req(store("groups", "readwrite").put(g));
+  // 标记后自动前进
+  if (w.learned && LS.idx < LS.words.length - 1) { learnStep(1); return; }
+  RENDER.learn();
+}
+window.toggleMark = toggleMark;
+
+/* ============================== 复习 ============================== */
+let RS = null;  // {group, map, sess}
+async function startReview(gid) {
+  const g = groupById(gid);
+  const today = todayKey();
+  const words = await getWords(g.wordIds);
+  const map = {}; words.forEach(w => map[w.id] = w);
+  let sess = g.reviewSession;
+  if (!sess || sess.date !== today || sess.done) {
+    sess = { date: today, round: 1, queue: shuffle(g.wordIds), idx: 0, again: [], revealed: false, done: false };
+    g.reviewSession = sess;
+    await req(store("groups", "readwrite").put(g));
+  }
+  sess.revealed = false;
+  RS = { group: g, map, sess };
+  go("review");
+}
+window.startReview = startReview;
+
+RENDER.review = function () {
+  if (!RS) { go("home", false); return; }
+  const { group: g, map, sess } = RS;
+  const w = map[sess.queue[sess.idx]];
+  if (!w) { finishRound(); return; }
+  setTitle("复习 · 组 #" + g.id, "第 " + sess.round + " 轮 · " + (sess.idx + 1) + "/" + sess.queue.length);
+  setAction("");
+
+  let h = '<div class="progressbar" style="margin-bottom:22px"><i style="width:' + ((sess.idx) / sess.queue.length * 100) + '%"></i></div>';
+  if (sess.revealed) {
+    h += '<div class="reveal">' + renderWordFull(w) + "</div>" +
+         '<div class="footerbar"><button class="btn dark" onclick="reviewNext(false)">继续 ›</button></div>';
+  } else {
+    h += renderWordQuiz(w) +
+         '<div class="footerbar">' +
+         '<button class="btn ghost" onclick="reviewForgot()">记不清</button>' +
+         '<button class="btn" onclick="reviewNext(true)">还记得</button></div>';
+  }
+  $("#v-review").innerHTML = h;
+};
+
+function reviewForgot() {
+  const { sess } = RS;
+  sess.again.push(sess.queue[sess.idx]);
+  sess.revealed = true;
+  persistReview();
+  RENDER.review();
+}
+window.reviewForgot = reviewForgot;
+
+function reviewNext() {
+  const { sess } = RS;
+  sess.revealed = false;
+  sess.idx++;
+  if (sess.idx >= sess.queue.length) { finishRound(); return; }
+  persistReview();
+  RENDER.review();
+}
+window.reviewNext = reviewNext;
+
+function persistReview() {
+  RS.group.reviewSession = RS.sess;
+  req(store("groups", "readwrite").put(RS.group));
+}
+
+async function finishRound() {
+  const { group: g, sess } = RS;
+  if (sess.again.length) {
+    sess.round++;
+    sess.queue = shuffle(sess.again);
+    sess.again = [];
+    sess.idx = 0;
+    sess.revealed = false;
+    persistReview();
+    $("#v-review").innerHTML =
+      '<div class="empty" style="padding-top:56px"><div style="font-size:1.2em;color:var(--ink);font-weight:600;margin-bottom:8px">第 ' + (sess.round - 1) + ' 轮结束</div>' +
+      "<div>还有 " + sess.queue.length + " 个词没记牢，再过一遍</div></div>" +
+      '<button class="btn" onclick="RENDER.review()">开始第 ' + sess.round + " 轮</button>";
+    return;
+  }
+  // 整组今日复习完成
+  sess.done = true;
+  g.reviewStage++;
+  g.lastReviewedDate = todayKey();
+  let msg;
+  if (g.reviewStage >= INTERVALS.length) {
+    g.state = "mastered";
+    g.nextReviewDate = null;
+    msg = "组 #" + g.id + " 已掌握 🎉<br><span style=\"color:var(--ink-60)\">走完全部 " + INTERVALS.length + " 轮复习，已归档</span>";
+  } else {
+    g.nextReviewDate = addDays(g.completedAt, INTERVALS[g.reviewStage]);
+    msg = "组 #" + g.id + " 今日复习完成<br><span style=\"color:var(--ink-60)\">下次复习：" + g.nextReviewDate +
+          "（第 " + (g.reviewStage + 1) + "/" + INTERVALS.length + " 轮）</span>";
+  }
+  g.reviewSession = sess;
+  await req(store("groups", "readwrite").put(g));
+  const remain = quotaOpenGroups().length;
+  $("#v-review").innerHTML =
+    '<div class="empty" style="padding-top:56px"><div style="font-size:3em;line-height:1.4;color:var(--green)">✓</div>' +
+    '<div style="color:var(--ink);font-weight:600;font-size:1.2em;margin-bottom:8px">' + msg + "</div>" +
+    "<div>" + (remain ? "今日还剩 " + remain + " 组待复习" : "🔓 今日复习全部完成，背诵已解锁") + "</div></div>" +
+    '<button class="btn" onclick="go(\'home\',false)">回到首页</button>';
+  setTitle("复习完成");
+  RS = null;
+}
+
+/* ============================ 组列表 ============================ */
+let GTAB = "all";
+RENDER.groups = function () {
+  setTitle("组列表", S.groups.length + " 组");
+  setAction("");
+  const today = todayKey();
+  const tabs = [["all","全部"],["pending","待背"],["learning","背诵中"],["reviewing","复习中"],["mastered","已掌握"]];
+  let h = '<div class="tabs">' + tabs.map(([k, l]) => {
+    const n = k === "all" ? S.groups.length : S.groups.filter(g => g.state === k).length;
+    return '<button class="' + (GTAB === k ? "on" : "") + '" onclick="setGTab(\'' + k + '\')">' + l + " " + n + "</button>";
+  }).join("") + "</div>";
+
+  const list = GTAB === "all" ? S.groups : S.groups.filter(g => g.state === GTAB);
+  if (!list.length) { h += '<div class="empty">这个状态下还没有组</div>'; $("#v-groups").innerHTML = h; return; }
+
+  h += '<div class="grid">' + list.map(g => {
+    const due = g.state === "reviewing" && g.nextReviewDate <= today;
+    const label = g.state === "pending" ? "待背"
+                : g.state === "learning" ? g.learnedCount + "/" + GROUP_SIZE
+                : g.state === "mastered" ? "已掌握"
+                : due ? "待复习" : "R" + (g.reviewStage + 1);
+    return '<button class="gcell ' + g.state + (due ? " due" : "") + '" onclick="openGroup(' + g.id + ')">' +
+           "<b>" + g.id + "</b><span>" + label + "</span></button>";
+  }).join("") + "</div>";
+  h += '<div class="hint" style="margin-top:16px">R1–R' + INTERVALS.length + ' 表示复习轮次；绿框表示今日到期。</div>';
+  $("#v-groups").innerHTML = h;
+};
+
+let GLIST = null;
+function setGTab(k) { GTAB = k; RENDER.groups(); }
+function openGroup(id) { GLIST = id; go("grouplist"); }
+window.setGTab = setGTab; window.openGroup = openGroup;
+RENDER.grouplist = async function () {
+  const g = groupById(GLIST);
+  if (!g) { back(); return; }
+  setTitle("组 #" + g.id, { pending: "待背", learning: "背诵中", reviewing: "复习中", mastered: "已掌握" }[g.state]);
+  setAction("");
+  const words = await getWords(g.wordIds);
+  let h = '<div class="card">';
+  if (g.state === "learning")  h += '<div class="title">已标记 ' + g.learnedCount + "/" + GROUP_SIZE + '</div><div class="progressbar" style="margin-top:8px"><i style="width:' + (g.learnedCount/GROUP_SIZE*100) + '%"></i></div>';
+  if (g.state === "reviewing") h += '<div class="title">第 ' + (g.reviewStage + 1) + "/" + INTERVALS.length + ' 轮</div><div class="meta">背完于 ' + g.completedAt + "　·　下次复习 " + g.nextReviewDate + "</div>";
+  if (g.state === "mastered")  h += '<div class="title" style="color:var(--green)">已掌握 ✓</div><div class="meta">走完全部 ' + INTERVALS.length + " 轮复习</div>";
+  if (g.state === "pending")   h += '<div class="title">尚未开始</div><div class="meta">' + GROUP_SIZE + " 个词等待背诵</div>";
+  h += "</div>";
+
+  if (g.state === "mastered")  h += '<button class="btn ghost" style="margin-bottom:14px" onclick="startReview(' + g.id + ')">手动重温这一组</button>';
+  if (g.state !== "pending")   h += '<button class="btn danger" style="margin-bottom:20px" onclick="resetGroup(' + g.id + ')">重置本组</button>';
+
+  h += '<div class="eyebrow">' + words.length + " 个词</div>";
+  h += words.map(w => '<button class="listitem" style="width:100%;text-align:left" onclick="openWord(' + w.id + ')">' +
+        '<span class="dot' + (w.learned ? " on" : "") + '"></span>' +
+        '<span class="w">' + esc(w.word) + "</span>" +
+        '<span class="t">' + esc((w.senses[0] && w.senses[0].translation) || "") + "</span></button>").join("");
+  $("#v-grouplist").innerHTML = h;
+};
+
+async function resetGroup(gid) {
+  if (!confirm("重置组 #" + gid + "？\n\n该组的全部标记和复习进度会清空，回到「待背」状态，并退出复习队列。此操作不可撤销。")) return;
+  const g = groupById(gid);
+  const words = await getWords(g.wordIds);
+  const wt = tx(["words"], "readwrite").objectStore("words");
+  words.forEach(w => { w.learned = false; w.learnedAt = null; wt.put(w); });
+  await new Promise(res => { wt.transaction.oncomplete = res; });
+  g.state = "pending"; g.learnedCount = 0; g.reviewStage = 0;
+  g.completedAt = null; g.nextReviewDate = null; g.reviewSession = null; g.learnSession = null;
+  await req(store("groups", "readwrite").put(g));
+  await refreshQuota();
+  toast("组 #" + gid + " 已重置");
+  RENDER.grouplist();
+}
+window.resetGroup = resetGroup;
+
+/* ============================== 搜索 ============================== */
+RENDER.search = function () {
+  setTitle("搜索");
+  setAction("");
+  $("#v-search").innerHTML =
+    '<input class="searchbox" id="q" placeholder="输入单词开头，如 accum" autocapitalize="off" autocorrect="off" spellcheck="false">' +
+    '<div id="results"><div class="hint">按前缀匹配，最多显示 60 条。</div></div>';
+  const q = $("#q");
+  q.oninput = () => doSearch(q.value.trim().toLowerCase());
+  setTimeout(() => q.focus(), 60);
+};
+let searchTimer;
+function doSearch(p) {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(async () => {
+    if (!p) { $("#results").innerHTML = '<div class="hint">按前缀匹配，最多显示 60 条。</div>'; return; }
+    const idx = store("words").index("by_word");
+    const range = IDBKeyRange.bound(p, p + "￿");
+    const out = [];
+    await new Promise(res => {
+      const c = idx.openCursor(range);
+      c.onsuccess = e => {
+        const cur = e.target.result;
+        if (!cur || out.length >= 60) return res();
+        out.push(cur.value); cur.continue();
+      };
+      c.onerror = () => res();
+    });
+    $("#results").innerHTML = out.length
+      ? out.map(w => '<button class="listitem" style="width:100%;text-align:left" onclick="openWord(' + w.id + ')">' +
+          '<span class="dot' + (w.learned ? " on" : "") + '"></span><span class="w">' + esc(w.word) + "</span>" +
+          '<span class="t">' + esc((w.senses[0] && w.senses[0].translation) || "") + "</span></button>").join("")
+      : '<div class="empty">没有找到「' + esc(p) + "」</div>";
+  }, 140);
+}
+
+/* ============================ 单词详情 ============================ */
+let WORDID = null;
+async function openWord(id) { WORDID = id; WEDIT = false; go("word"); }
+window.openWord = openWord;
+let WEDIT = false;
+RENDER.word = async function () {
+  const w = await getWord(WORDID);
+  if (!w) { back(); return; }
+  setTitle("组 #" + (w.groupId || "—"), w.learned ? "已背下" : "未标记");
+  if (WEDIT) {
+    setAction("取消", () => { WEDIT = false; RENDER.word(); });
+    $("#v-word").innerHTML =
+      '<div class="hint" style="margin-bottom:10px">编辑原始文本，保存后按同样的规则重新解析。</div>' +
+      '<textarea class="ta" id="wraw" style="min-height:300px">' + esc(w.raw) + "</textarea>" +
+      '<button class="btn" style="margin-top:12px" onclick="saveWord()">保存并重新解析</button>';
+  } else {
+    setAction("编辑", () => { WEDIT = true; RENDER.word(); });
+    $("#v-word").innerHTML = renderWordFull(w);
+  }
+};
+async function saveWord() {
+  const v = $("#wraw").value;
+  const parsed = parseVocab(v)[0];
+  if (!parsed) { toast("解析失败，未保存"); return; }
+  if (parsed.issues.length) { if (!confirm("这个词条有格式问题：\n" + parsed.issues.map(i => i.msg).join("\n") + "\n\n仍然保存？")) return; }
+  const w = await getWord(WORDID);
+  Object.assign(w, {
+    word: parsed.word, wordKey: parsed.word.toLowerCase(),
+    senses: parsed.senses, summary: parsed.summary, head: parsed.head, raw: parsed.raw,
+  });
+  try { await putWord(w); } catch (e) { toast("保存失败：可能与已有单词重名"); return; }
+  WEDIT = false;
+  toast("已保存");
+  RENDER.word();
+}
+window.saveWord = saveWord;
+
+/* ============================== 导入 ============================== */
+let PENDING = null;
+RENDER["import"] = function () {
+  setTitle("导入词表");
+  setAction("");
+  $("#v-import").innerHTML =
+    '<label class="filepick"><b>选择 .txt 文件</b>从「文件」App 或 iCloud Drive 选取' +
+    '<input type="file" accept=".txt,text/plain" style="display:none" onchange="pickFile(event)"></label>' +
+    '<div class="eyebrow">或粘贴文本</div>' +
+    '<textarea class="ta" id="paste" placeholder="accumulator&#10;① The device uses a small accumulator ...&#10;= 该设备使用一个小型蓄能器 ...&#10;这里：&#10;accumulator = 蓄能器 / 储能装置&#10;&#10;（下一个词条，空行分隔）"></textarea>' +
+    '<button class="btn" style="margin-top:12px" onclick="checkText($(\'#paste\').value)">解析并检查</button>' +
+    '<div class="eyebrow">格式规则</div>' +
+    '<div class="card flat hint">' +
+    "1）词条之间用<b>一个空行</b>分隔<br>" +
+    "2）每个词条<b>第一行只写单词本身</b><br>" +
+    "3）每个例句以 <b>①②③</b> 开头，<b>紧跟一行以 = 开头</b>写中文翻译<br><br>" +
+    "其余内容（这里：/ 核心就是：/ 词尾总结等）随意书写，会原样保留并统一排版。<br>" +
+    "文件请存为 <b>UTF-8 编码的 .txt</b>。" +
+    "</div>" +
+    '<div id="report"></div>';
+};
+function pickFile(e) {
+  const f = e.target.files[0];
+  if (!f) return;
+  const r = new FileReader();
+  r.onload = () => checkText(r.result);
+  r.onerror = () => toast("读取文件失败");
+  r.readAsText(f, "utf-8");
+}
+window.pickFile = pickFile;
+
+async function checkText(text) {
+  if (!text || !text.trim()) { toast("内容是空的"); return; }
+  const entries = parseVocab(text);
+  if (!entries.length) { toast("没有解析出任何词条"); return; }
+
+  // 去重（静默防线）：批内去重 + 与词库比对，全部在同一个事务里发起
+  const dupes = [];
+  const seen = new Set();
+  const uniq = [];
+  for (const e of entries) {
+    const key = e.word.toLowerCase();
+    if (seen.has(key)) { dupes.push(e.word); continue; }
+    seen.add(key);
+    uniq.push(e);
+  }
+  const idx = store("words").index("by_word");
+  const hits = await Promise.all(uniq.map(e => req(idx.getKey(e.word.toLowerCase()))));
+  const fresh = [];
+  uniq.forEach((e, i) => { if (hits[i] === undefined) fresh.push(e); else dupes.push(e.word); });
+  const issues = entries.filter(e => e.issues.length);
+  PENDING = fresh;
+
+  const newGroups = Math.floor((S.looseIds.length + fresh.length) / GROUP_SIZE);
+  let h = '<div class="eyebrow">解析结果</div><div class="card">' +
+    '<div class="title">共识别 ' + entries.length + " 个词条</div>" +
+    '<div class="meta">可新增 <b style="color:var(--green)">' + fresh.length + "</b> 个" +
+    (dupes.length ? "　·　跳过重复 " + dupes.length + " 个" : "") +
+    (issues.length ? '　·　<span style="color:var(--danger)">' + issues.length + " 个有格式问题</span>" : "") +
+    "</div><div class=\"meta\">导入后可成组：<b>" + newGroups + "</b> 组，暂存区剩 " +
+    ((S.looseIds.length + fresh.length) % GROUP_SIZE) + " 词</div></div>";
+
+  if (issues.length) {
+    h += '<div class="eyebrow">格式问题（仍可导入，但建议先修）</div>';
+    issues.slice(0, 40).forEach(e => {
+      e.issues.forEach(i => { h += '<div class="issue"><b>第 ' + i.n + " 行</b>　" + esc(i.msg) + "</div>"; });
+    });
+    if (issues.length > 40) h += '<div class="hint">…还有 ' + (issues.length - 40) + " 个词条有问题</div>";
+  }
+  if (dupes.length) {
+    h += '<div class="eyebrow">跳过的重复词（' + dupes.length + "）</div>" +
+         '<div class="card flat hint" style="font-family:var(--serif)">' + dupes.slice(0, 120).map(esc).join("、") +
+         (dupes.length > 120 ? " …" : "") + "</div>";
+  }
+  h += '<div class="eyebrow">预览（前 3 条）</div>';
+  fresh.slice(0, 3).forEach(e => { h += '<div class="card">' + renderWordFull(e) + "</div>"; });
+  h += '<button class="btn" style="margin-top:12px" onclick="commitImport()">确认导入 ' + fresh.length + " 个词</button>";
+  $("#report").innerHTML = h;
+  $("#report").scrollIntoView({ behavior: "smooth", block: "start" });
+}
+window.checkText = checkText;
+
+async function commitImport() {
+  if (!PENDING || !PENDING.length) { toast("没有可导入的词"); return; }
+  const t = tx(["words"], "readwrite");
+  const ws = t.objectStore("words");
+  let seq = S.nextSeq;
+  const newIds = [];
+  for (const e of PENDING) {
+    ws.put({
+      id: seq, seq,
+      word: e.word,                       // 展示用原文
+      wordKey: e.word.toLowerCase(),      // 索引 / 去重 / 搜索键
+      senses: e.senses, summary: e.summary, head: e.head, raw: e.raw,
+      groupId: null, learned: false, learnedAt: null,
+    });
+    newIds.push(seq);
+    seq++;
+  }
+  await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
+  S.nextSeq = seq;
+  S.looseIds = S.looseIds.concat(newIds);
+  await metaSet("nextSeq", seq);
+  const made = await formGroups();
+  await metaSet("looseIds", S.looseIds);
+  PENDING = null;
+  await refreshQuota();
+  toast("导入 " + newIds.length + " 词，新成 " + made + " 组");
+  go("home", false);
+}
+window.commitImport = commitImport;
+
+// 把暂存区的词按 seq 顺序切成整 50 的组（不足 50 的留在暂存区）
+async function formGroups() {
+  let nextGid = S.groups.length ? Math.max.apply(null, S.groups.map(g => g.id)) + 1 : 1;
+  let made = 0;
+  while (S.looseIds.length >= GROUP_SIZE) {
+    const ids = S.looseIds.splice(0, GROUP_SIZE);
+    const words = await getWords(ids);                       // 事务 1：读
+    const g = {
+      id: nextGid++, wordIds: ids, state: "pending",
+      learnedCount: 0, startedAt: null, completedAt: null,
+      reviewStage: 0, nextReviewDate: null, reviewSession: null, learnSession: null,
+    };
+    const t = tx(["words", "groups"], "readwrite");           // 事务 2：写
+    const ws = t.objectStore("words");
+    words.forEach(w => { w.groupId = g.id; ws.put(w); });
+    t.objectStore("groups").put(g);
+    await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
+    S.groups.push(g);
+    made++;
+  }
+  S.groups.sort((a, b) => a.id - b.id);
+  return made;
+}
+
+/* ============================== 设置 ============================== */
+RENDER.settings = function () {
+  setTitle("设置");
+  setAction("");
+  const s = S.settings;
+  const seg = (key, opts) => '<div class="seg">' + opts.map(([v, l]) =>
+    '<button class="' + (s[key] == v ? "on" : "") + '" onclick="setSetting(\'' + key + "'," + JSON.stringify(v) + ')">' + l + "</button>").join("") + "</div>";
+
+  $("#v-settings").innerHTML =
+    '<div class="eyebrow">显示</div>' +
+    '<div class="setrow"><div class="grow"><div class="title">外观</div><div class="meta">深色模式下绿色会自动提亮以保证可读性</div></div>' +
+      seg("theme", [["auto", "跟随系统"], ["light", "浅色"], ["dark", "深色"]]) + "</div>" +
+    '<div class="setrow"><div class="grow"><div class="title">字号</div></div>' +
+      seg("fs", [[0.92, "小"], [1, "中"], [1.14, "大"]]) + "</div>" +
+
+    '<div class="eyebrow">规则</div>' +
+    '<div class="card flat hint">' +
+    "· 记忆曲线：整组背完后第 <b>" + INTERVALS.join(" / ") + "</b> 天各复习一次，共 " + INTERVALS.length + " 轮<br>" +
+    "· 每日复习配额：<b>" + DAILY_CAP + " 组</b>（逾期优先，超出部分不计入解锁条件）<br>" +
+    "· 门禁：当日配额未清完则锁定背诵；一次只背一组，一天只背一组<br>" +
+    "· 一天以<b>凌晨 " + DAY_START + ":00</b> 为分界" +
+    "</div>" +
+
+    '<div class="eyebrow">数据</div>' +
+    '<div class="card flat hint">上次备份：<b>' + (S.lastBackup || "从未") + "</b>　·　词库 " + (S.nextSeq - 1) +
+    " 词，备份文件约 <b>" + fmtSize((S.nextSeq - 1) * 900) + "</b><br><br>" +
+    "数据存在本机 IndexedDB 里。<b>请从主屏幕图标进入本应用</b>——加到主屏幕的 Web App 不受 Safari「7 天无交互清除存储」的限制；用 Safari 标签页打开则不享受该豁免。删除主屏幕图标会一并删除数据。</div>" +
+    '<button class="btn dark" style="margin-bottom:10px" onclick="exportBackup()">导出备份 JSON</button>' +
+    '<label class="btn ghost" style="margin-bottom:10px">导入备份（覆盖现有数据）' +
+      '<input type="file" accept=".json,application/json" style="display:none" onchange="importBackup(event)"></label>' +
+    '<div class="eyebrow">关于</div>' +
+    '<div class="card flat hint">版本 <b>' + APP_VERSION + "</b>　·　离线缓存：<b>" +
+    (navigator.serviceWorker && navigator.serviceWorker.controller ? "已就绪" : "未启用") + "</b>" +
+    (location.protocol === "https:" || location.hostname === "localhost" ? "" :
+      '<br><span style="color:var(--danger)">当前不是 HTTPS，离线缓存无法启用</span>') +
+    "</div>" +
+    '<div class="eyebrow">危险操作</div>' +
+    '<button class="btn danger" onclick="wipeAll()">清空全部数据</button>';
+};
+function setSetting(k, v) { S.settings[k] = v; saveSettings(); RENDER.settings(); }
+window.setSetting = setSetting;
+
+async function exportBackup() {
+  toast("正在生成备份…");
+  const groups = await req(store("groups").getAll());
+  const meta = await req(store("meta").getAll());
+  // 词库用游标分块序列化，避免一次性把 10 万条记录全部装进内存
+  const parts = ['{"v":1,"exportedAt":"' + new Date().toISOString() + '"' +
+                 ',"settings":' + JSON.stringify(S.settings) +
+                 ',"groups":' + JSON.stringify(groups) +
+                 ',"meta":' + JSON.stringify(meta) +
+                 ',"words":['];
+  let buf = [], firstChunk = true;
+  await new Promise((res, rej) => {
+    const c = store("words").openCursor();
+    c.onsuccess = e => {
+      const cur = e.target.result;
+      if (!cur) {
+        if (buf.length) { parts.push((firstChunk ? "" : ",") + buf.join(",")); }
+        return res();
+      }
+      buf.push(JSON.stringify(cur.value));
+      if (buf.length >= 500) {
+        parts.push((firstChunk ? "" : ",") + buf.join(","));
+        firstChunk = false; buf = [];
+      }
+      cur.continue();
+    };
+    c.onerror = () => rej(c.error);
+  });
+  parts.push("]}");
+  const blob = new Blob(parts, { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "背单词备份-" + todayKey() + ".json";
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+  S.lastBackup = todayKey();
+  await metaSet("lastBackup", S.lastBackup);
+  toast("备份已导出（" + fmtSize(blob.size) + "）");
+}
+window.exportBackup = exportBackup;
+
+function importBackup(e) {
+  const f = e.target.files[0]; if (!f) return;
+  const r = new FileReader();
+  r.onload = async () => {
+    let p;
+    try { p = JSON.parse(r.result); } catch (err) { toast("不是合法的备份文件"); return; }
+    if (!p.words || !p.groups) { toast("备份文件格式不对"); return; }
+    if (!confirm("导入备份会【覆盖】当前全部数据（" + (S.nextSeq - 1) + " 词）。\n备份含 " + p.words.length + " 词、" + p.groups.length + " 组。\n\n确定继续？")) return;
+    const t = tx(["words", "groups", "meta"], "readwrite");
+    t.objectStore("words").clear(); t.objectStore("groups").clear(); t.objectStore("meta").clear();
+    p.words.forEach(w => t.objectStore("words").put(w));
+    p.groups.forEach(g => t.objectStore("groups").put(g));
+    (p.meta || []).forEach(m => t.objectStore("meta").put(m));
+    await new Promise(res => { t.oncomplete = res; });
+    if (p.settings) { S.settings = p.settings; saveSettings(); }
+    await loadState();
+    toast("备份已恢复");
+    go("home", false);
+  };
+  r.readAsText(f, "utf-8");
+}
+window.importBackup = importBackup;
+
+async function wipeAll() {
+  if (!confirm("清空全部数据？\n\n词库、进度、复习记录都会被删除，无法撤销。建议先导出备份。")) return;
+  if (!confirm("再确认一次：真的要清空吗？")) return;
+  const t = tx(["words", "groups", "meta"], "readwrite");
+  t.objectStore("words").clear(); t.objectStore("groups").clear(); t.objectStore("meta").clear();
+  await new Promise(res => { t.oncomplete = res; });
+  await loadState();
+  toast("已清空");
+  go("home", false);
+}
+window.wipeAll = wipeAll;
+
+/* ============================== 启动 ============================== */
+window.go = go;
+window.RENDER = RENDER;
+window.$ = $;
+window.GTAB = GTAB;
+
+// 触摸滑动切换背诵卡片
+let tx0 = 0, ty0 = 0;
+document.addEventListener("touchstart", e => { tx0 = e.touches[0].clientX; ty0 = e.touches[0].clientY; }, { passive: true });
+document.addEventListener("touchend", e => {
+  if (S.view !== "learn" || !LS) return;
+  const dx = e.changedTouches[0].clientX - tx0, dy = e.changedTouches[0].clientY - ty0;
+  if (Math.abs(dx) > 70 && Math.abs(dx) > Math.abs(dy) * 2) learnStep(dx < 0 ? 1 : -1);
+}, { passive: true });
+
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change", applySettings);
+
+if ("serviceWorker" in navigator) {
+  addEventListener("load", () => {
+    navigator.serviceWorker.register("./sw.js").then(reg => {
+      reg.addEventListener("updatefound", () => {
+        const nw = reg.installing;
+        if (!nw) return;
+        nw.addEventListener("statechange", () => {
+          if (nw.state === "installed" && navigator.serviceWorker.controller) {
+            toast("已下载新版本，下次打开生效");
+          }
+        });
+      });
+    }).catch(() => {});
+  });
+}
+
+(async function boot() {
+  loadSettings();
+  try {
+    await openDB();
+    if (navigator.storage && navigator.storage.persist) { navigator.storage.persist().catch(() => {}); }
+    await loadState();
+    go("home", false);
+  } catch (e) {
+    document.querySelector("main").innerHTML =
+      '<div class="empty">数据库打开失败<br><br>' + esc(e && e.message || e) + "</div>";
+  }
+})();
+</script>
+</body>
+</html>
