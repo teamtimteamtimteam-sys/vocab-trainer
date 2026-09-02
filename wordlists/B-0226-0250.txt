@@ -1,3 +1,20 @@
+acquire
+核心：底层是"逐步得到并拥有"。得到的可以是技能、习惯、名声
+（靠积累），也可以是资产、公司（靠购买）。比 get 正式得多。
+① She acquired fluent French.
+= 她学会了流利的法语。
+② He acquired a reputation for honesty.
+= 他赢得了诚实的名声。
+③ The firm acquired three rivals.
+= 那家公司收购了三个对手。
+④ It's an acquired taste.
+= 那是种需要慢慢才能欣赏的东西。
+an acquired taste = 后天养成的爱好
+词族：
+acquisition = 收购、习得
+acquired = 后天获得的
+反义词：innate = 天生的
+
 acquired
 核心：指"后天获得的"，与 innate（天生的）相对。
 三个高频搭配：acquired taste、acquired immunity、acquired skill。
@@ -424,21 +441,3 @@ active = 积极的
 activity = 活动
 反义词：
 passively = 被动地
-
-activism
-核心：指为推动社会或政治变革而进行的积极行动，不可数。前面常加
-限定：political / environmental / online activism。
-① Environmental activism is growing.
-= 环保行动主义在壮大。
-② She turned to political activism.
-= 她转向了政治行动。
-political activism = 政治行动主义
-③ Online activism has spread.
-= 网络行动主义扩散开来。
-④ His activism began at university.
-= 他的社会行动始于大学。
-词族：
-activist = 活动人士
-active = 积极的
-注意：activism 是中性词，
-褒贬取决于说话人立场。

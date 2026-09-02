@@ -1,3 +1,21 @@
+addictive
+核心：形容事物"让人上瘾"，可以是药物，也可以是游戏、剧集。
+注意主语是引起上瘾的东西，不是人——人上瘾用 addicted。
+① Nicotine is highly addictive.
+= 尼古丁极易使人成瘾。
+highly addictive = 极易上瘾的
+② That game is addictive.
+= 那款游戏让人上瘾。
+③ The show is dangerously addictive.
+= 那部剧让人欲罢不能。
+④ Painkillers can be addictive.
+= 止痛药可能致瘾。
+注意区别：
+addictive 使人上瘾的（说事物）
+addicted 上瘾的（说人）
+The game is addictive.
+He is addicted to the game.
+
 addition
 核心：两层。一是数学上的"加法"，二是"新增的人或物"。in addition
 和 in addition to 是学术写作的高频连接词。
@@ -434,22 +452,3 @@ adjudicator = 裁决人
 adjudication = 裁决（有权作决定）
 mediation = 调解（不作决定）
 arbitration = 仲裁（双方约定）
-
-adjudicator
-核心：指作出裁决的人——法律上的裁决官、比赛的评委、
-争议的仲裁人。
-① The adjudicator ruled against him.
-= 裁决人判他败诉。
-rule against = 判…败诉
-② She served as adjudicator.
-= 她担任评审。
-serve as adjudicator = 担任裁决人
-③ Adjudicators must be impartial.
-= 裁决人必须公正。
-词族：
-adjudicate = 裁决
-adjudication = 裁决
-近义对照：
-adjudicator = 裁决人（正式）
-judge = 评委、法官
-referee = 裁判（体育）

@@ -1,3 +1,18 @@
+aerodynamic
+核心：指"空气动力学的"，也指外形"符合流线设计、阻力小的"。
+汽车和自行车评测里高频。
+① The car has an aerodynamic shape.
+= 那辆车外形符合空气动力学。
+aerodynamic shape = 流线外形
+② Aerodynamic drag slows it down.
+= 空气阻力让它减速。
+aerodynamic drag = 空气阻力
+③ The design is highly aerodynamic.
+= 那个设计风阻很低。
+副词形式：
+aerodynamically = 在空气动力学上
+词族：aerodynamics = 空气动力学
+
 aerodynamics
 核心：指空气动力学这门学科（配单数动词），
 也指某个物体的"空气动力特性"（配复数动词）。
@@ -427,20 +442,3 @@ daily affirmation = 每日自我肯定
 affirm = 肯定
 affirmative = 肯定的
 反义词：negation = 否定
-
-affirmative
-核心：指"表示肯定的"。语法上与 negative 相对；口语里
-in the affirmative 是正式的"回答说是"。美式的
-affirmative action 指扶助弱势群体的政策。
-① She answered in the affirmative.
-= 她作了肯定答复。
-in the affirmative = 肯定地
-② It's an affirmative sentence.
-= 那是个肯定句。
-affirmative sentence = 肯定句
-③ Affirmative action policies are debated.
-= 平权行动政策存在争议。
-affirmative action = 平权措施（美式）
-反义词：
-negative = 否定的
-词族：affirm = 肯定
