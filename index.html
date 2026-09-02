@@ -305,6 +305,20 @@ main{
 }
 .spk.sm svg{width:14px;height:14px}
 .spk.sm:active{color:var(--green);background:var(--green-wash)}
+/* 星标：用墨黑不用绿 —— 绿是「已掌握」，收藏夹装的恰恰是没掌握的词 */
+.star{
+  min-width:38px;height:38px;border-radius:19px;display:flex;align-items:center;justify-content:center;
+  color:var(--fg-faint);margin-top:10px;flex:none;transition:color .15s,background .15s,transform .15s;
+}
+.star svg{width:21px;height:21px}
+.star:active{background:var(--glass-sunk);transform:scale(.9)}
+.star.on{color:var(--ink)}
+.listitem .star{min-width:32px;height:32px;margin:0;align-self:center}
+.listitem .star svg{width:17px;height:17px}
+.favmeta{
+  font-family:var(--mono);font-size:calc(11px*var(--fs));color:var(--fg-subtle);
+  font-variant-numeric:tabular-nums;white-space:nowrap;flex:none;
+}
 
 .sense{margin:0 0 26px}
 .sense:last-child{margin-bottom:8px}
@@ -499,6 +513,7 @@ textarea.ta:focus{outline:none;border-color:var(--green-line);box-shadow:0 0 0 3
     <div class="view" id="v-groups"></div>
     <div class="view" id="v-grouplist"></div>
     <div class="view" id="v-search"></div>
+    <div class="view" id="v-fav"></div>
     <div class="view" id="v-import"></div>
     <div class="view" id="v-word"></div>
     <div class="view" id="v-settings"></div>
@@ -518,7 +533,7 @@ const INTERVALS  = [1, 2, 4, 7, 15, 30];   // 天，从整组背完当天起算
 const DAILY_CAP  = 5;                       // 每日复习配额（组）
 const DAY_START  = 4;                       // 凌晨 4:00 为一天分界
 const BACKUP_WARN_DAYS = 7;
-const APP_VERSION = "1.1.2";
+const APP_VERSION = "1.2.0";
 
 /* ---------------------------------------------------------------- utils */
 const $ = s => document.querySelector(s);
@@ -597,6 +612,8 @@ const S = {
   quota: null,         // {date, ids:[]}
   lastNewGroupDate: "",
   lastNewGroupId: null,   // 今天的新组额度被哪一组消耗了
+  starredOrder: [],       // 收藏的词 id，数组顺序 = 收藏先后
+  starred: new Set(),     // 同一份数据的查询视图
   lastBackup: "",
   settings: { theme: "auto", fs: 1 },
   view: "home",
@@ -626,6 +643,8 @@ async function loadState() {
   S.looseIds = await metaGet("looseIds", []);
   S.lastNewGroupDate = await metaGet("lastNewGroupDate", "");
   S.lastNewGroupId = await metaGet("lastNewGroupId", null);
+  S.starredOrder = await metaGet("starredIds", []);
+  S.starred = new Set(S.starredOrder);
   S.lastBackup = await metaGet("lastBackup", "");
   await refreshQuota();
 }
@@ -759,6 +778,33 @@ function ring(done, total, label) {
     "</svg>" +
     "<b>" + esc(label != null ? label : done) + "</b></span>";
 }
+const STAR_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true">' +
+  '<path d="M12 3.1l2.63 5.33 5.87.86-4.25 4.14 1 5.85L12 16.52 6.75 19.28l1-5.85L3.5 9.29l5.87-.86z"/></svg>';
+function starBtn(id, size) {
+  const on = S.starred.has(id);
+  return '<button class="star' + (on ? " on" : "") + '" data-star="' + id + '"' +
+    ' aria-label="' + (on ? "取消收藏" : "收藏") + '" aria-pressed="' + on + '">' +
+    STAR_SVG.replace("<svg", '<svg fill="' + (on ? "currentColor" : "none") +
+                     '" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"') + "</button>";
+}
+async function toggleStar(id) {
+  id = +id;
+  if (S.starred.has(id)) {
+    S.starred.delete(id);
+    S.starredOrder = S.starredOrder.filter(x => x !== id);
+    toast("已取消收藏");
+  } else {
+    S.starred.add(id);
+    S.starredOrder.push(id);          // 数组顺序即收藏先后，不需要时间戳
+    toast("已加入收藏夹");
+  }
+  await metaSet("starredIds", S.starredOrder);
+  document.querySelectorAll('[data-star="' + id + '"]').forEach(b => {
+    b.outerHTML = starBtn(id);
+  });
+  if (S.view === "fav") RENDER.fav();
+}
+window.toggleStar = toggleStar;
 function spkBtn(text, kind) {
   return '<button class="spk' + (kind === "inline" ? " sm" : "") + '" data-say="' + esc(text) + '" aria-label="朗读">' + SPK_SVG + "</button>";
 }
@@ -773,7 +819,9 @@ function renderNotes(notes) {
   }).join("") + "</div>";
 }
 function renderWordFull(w) {
-  let h = '<div class="wordhead"><div class="w">' + esc(w.word) + "</div>" + spkBtn(w.word, "") + "</div>";
+  // w.id 为空 = 导入预览里还没入库的词条，不显示星标
+  let h = '<div class="wordhead"><div class="w">' + esc(w.word) + "</div>" +
+          (w.id != null ? starBtn(w.id) : "") + spkBtn(w.word, "") + "</div>";
   if (w.head && w.head.length) h += renderNotes(w.head);
   w.senses.forEach(s => {
     h += '<div class="sense">' +
@@ -787,7 +835,8 @@ function renderWordFull(w) {
   return h;
 }
 function renderWordQuiz(w) {
-  let h = '<div class="wordhead"><div class="w">' + esc(w.word) + "</div>" + spkBtn(w.word, "") + "</div>";
+  let h = '<div class="wordhead"><div class="w">' + esc(w.word) + "</div>" +
+          (w.id != null ? starBtn(w.id) : "") + spkBtn(w.word, "") + "</div>";
   w.senses.forEach(s => {
     h += '<div class="sense"><p class="ex"><span class="snum">' + NUMS[s.no-1] + "</span> " + hl(s.example, w.word) + "</p></div>";
   });
@@ -807,7 +856,9 @@ document.addEventListener("click", e => {
   const say = e.target.closest("[data-say]");
   if (say) { e.preventDefault(); speak(say.dataset.say); return; }
   const set = e.target.closest("[data-set]");
-  if (set) { setSetting(set.dataset.set, set.dataset.num ? parseFloat(set.dataset.val) : set.dataset.val); }
+  if (set) { setSetting(set.dataset.set, set.dataset.num ? parseFloat(set.dataset.val) : set.dataset.val); return; }
+  const st = e.target.closest("[data-star]");
+  if (st) { e.preventDefault(); e.stopPropagation(); toggleStar(st.dataset.star); }
 });
 
 /* ---------------------------------------------------------- 导航外壳 */
@@ -947,6 +998,8 @@ RENDER.home = async function () {
 
   /* --- 词库管理 --- */
   h += '<div class="eyebrow">词库</div>' +
+       '<button class="rowbtn" onclick="go(\'fav\')"><div class="grow"><div class="title">收藏夹</div><div class="meta">' +
+         (S.starredOrder.length ? S.starredOrder.length + ' 个反复忘记或特别难的词' : '还没有收藏任何词') + '</div></div><div class="chev">›</div></button>' +
        '<button class="rowbtn" onclick="go(\'search\')"><div class="grow"><div class="title">搜索单词</div><div class="meta">在全部 ' + total + ' 词中查找</div></div><div class="chev">›</div></button>' +
        '<button class="rowbtn" onclick="go(\'groups\')"><div class="grow"><div class="title">组列表</div><div class="meta">' + S.groups.length + ' 组 · 按状态浏览</div></div><div class="chev">›</div></button>' +
        '<button class="rowbtn" onclick="go(\'import\')"><div class="grow"><div class="title">导入词表</div><div class="meta">.txt 文件或粘贴文本</div></div><div class="chev">›</div></button>';
@@ -1077,9 +1130,12 @@ RENDER.review = function () {
 };
 
 function reviewForgot() {
-  const { sess } = RS;
-  sess.again.push(sess.queue[sess.idx]);
+  const { sess, map } = RS;
+  const id = sess.queue[sess.idx];
+  sess.again.push(id);
   sess.revealed = true;
+  const w = map[id];                       // 记录忘记次数，收藏夹按它排序
+  if (w) { w.forgotCount = (w.forgotCount || 0) + 1; putWord(w); }
   persistReview();
   RENDER.review();
 }
@@ -1195,7 +1251,7 @@ RENDER.grouplist = async function () {
   if (g.state !== "pending")   h += '<button class="btn danger" style="margin-bottom:20px" onclick="resetGroup(' + g.id + ')">重置本组</button>';
 
   h += '<div class="eyebrow">' + words.length + " 个词</div>";
-  h += words.map(w => '<button class="listitem" style="width:100%;text-align:left" onclick="openWord(' + w.id + ')">' +
+  h += words.map(w => '<button class="listitem" style="width:100%;text-align:left" onclick="openWordPlain(' + w.id + ')">' +
         '<span class="dot' + (w.learned ? " on" : "") + '"></span>' +
         '<span class="w">' + esc(w.word) + "</span>" +
         '<span class="t">' + esc((w.senses[0] && w.senses[0].translation) || "") + "</span></button>").join("");
@@ -1256,16 +1312,60 @@ function doSearch(p) {
       c.onerror = () => res();
     });
     $("#results").innerHTML = out.length
-      ? out.map(w => '<button class="listitem" style="width:100%;text-align:left" onclick="openWord(' + w.id + ')">' +
+      ? out.map(w => '<button class="listitem" style="width:100%;text-align:left" onclick="openWordPlain(' + w.id + ')">' +
           '<span class="dot' + (w.learned ? " on" : "") + '"></span><span class="w">' + esc(w.word) + "</span>" +
           '<span class="t">' + esc((w.senses[0] && w.senses[0].translation) || "") + "</span></button>").join("")
       : '<div class="empty">没有找到「' + esc(p) + "」</div>";
   }, 140);
 }
 
+/* ============================ 收藏夹 ============================ */
+let FAVSORT = "recent";                    // recent | forgot | group
+let FAVNAV = [];                           // 详情页在收藏夹内翻页用的 id 序列
+function setFavSort(k) { FAVSORT = k; RENDER.fav(); }
+window.setFavSort = setFavSort;
+
+RENDER.fav = async function () {
+  setTitle("收藏夹", S.starredOrder.length + " 词");
+  setAction("");
+  if (!S.starredOrder.length) {
+    FAVNAV = [];
+    $("#v-fav").innerHTML =
+      '<div class="empty">收藏夹还是空的<br><br>' +
+      "在单词卡片右上角点星标，把反复忘记或特别难的词收进来</div>";
+    return;
+  }
+  let words = await getWords(S.starredOrder);
+  const pos = {};                          // 数组顺序 = 收藏先后，省掉时间戳字段
+  S.starredOrder.forEach((id, i) => pos[id] = i);
+  if (FAVSORT === "recent")      words.sort((a, b) => pos[b.id] - pos[a.id]);
+  else if (FAVSORT === "forgot") words.sort((a, b) => (b.forgotCount || 0) - (a.forgotCount || 0) || pos[b.id] - pos[a.id]);
+  else                           words.sort((a, b) => (a.groupId || 0) - (b.groupId || 0) || a.seq - b.seq);
+  FAVNAV = words.map(w => w.id);
+
+  const tabs = [["recent", "最近收藏"], ["forgot", "忘得最多"], ["group", "按组顺序"]];
+  let h = '<div class="tabs">' + tabs.map(([k, l]) =>
+    '<button class="' + (FAVSORT === k ? "on" : "") + '" onclick="setFavSort(\'' + k + '\')">' + l + "</button>").join("") + "</div>";
+
+  h += words.map(w => {
+    const n = w.forgotCount || 0;
+    return '<div class="listitem">' +
+      starBtn(w.id) +
+      '<button class="w" style="text-align:left;background:none;flex:1;min-width:0" onclick="openFav(' + w.id + ')">' + esc(w.word) + "</button>" +
+      '<span class="t">' + esc((w.senses[0] && w.senses[0].translation) || "") + "</span>" +
+      '<span class="favmeta">#' + (w.groupId || "—") + (n ? "　忘 " + n : "") + "</span></div>";
+  }).join("");
+  $("#v-fav").innerHTML = h;
+};
+function openFav(id) { openWord(id); }
+window.openFav = openFav;
+
 /* ============================ 单词详情 ============================ */
 let WORDID = null;
 async function openWord(id) { WORDID = id; WEDIT = false; go("word"); }
+// 从组详情/搜索进来时不带收藏夹翻页上下文
+function openWordPlain(id) { FAVNAV = []; openWord(id); }
+window.openWordPlain = openWordPlain;
 window.openWord = openWord;
 let WEDIT = false;
 RENDER.word = async function () {
@@ -1280,9 +1380,24 @@ RENDER.word = async function () {
       '<button class="btn" style="margin-top:12px" onclick="saveWord()">保存并重新解析</button>';
   } else {
     setAction("编辑", () => { WEDIT = true; RENDER.word(); });
-    $("#v-word").innerHTML = '<div class="sheet">' + renderWordFull(w) + "</div>";
+    const i = FAVNAV.indexOf(WORDID);
+    const nav = i < 0 ? "" :
+      '<div class="navrow" style="margin-bottom:14px">' +
+      '<button onclick="favStep(-1)"' + (i === 0 ? " disabled" : "") + ">‹ 上一个</button>" +
+      '<span>收藏夹 ' + (i + 1) + " / " + FAVNAV.length + "</span>" +
+      '<button onclick="favStep(1)"' + (i === FAVNAV.length - 1 ? " disabled" : "") + ">下一个 ›</button></div>";
+    $("#v-word").innerHTML = nav + '<div class="sheet">' + renderWordFull(w) + "</div>";
   }
 };
+function favStep(d) {
+  const i = FAVNAV.indexOf(WORDID) + d;
+  if (i < 0 || i >= FAVNAV.length) return;
+  WORDID = FAVNAV[i];
+  window.scrollTo(0, 0);
+  RENDER.word();
+}
+window.favStep = favStep;
+
 async function saveWord() {
   const v = $("#wraw").value;
   const parsed = parseVocab(v)[0];
