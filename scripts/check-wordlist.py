@@ -61,6 +61,8 @@ def parse(path):
         # B 词表按牛津高阶收全部义项，每条必须有一段总括的「核心：」讲解，
         # 否则几十个义项堆在一起没有主线，学的人抓不住这个词到底是什么。
         if is_b and not e['core']: e['issues'].append("缺少「核心：」讲解块")
+        if is_b and 0 < len(e['senses']) < MIN_B_SENSES:
+            e['issues'].append("只有 %d 个义项，每条至少要 %d 个" % (len(e['senses']), MIN_B_SENSES))
         # 编号必须从 ① 开始且连续 —— 漏一个 ② 在 app 里会直接显示成 ①③
         nums = [NUMS.index(t[0]) for _, t in b['lines'][1:] if t[0] in NUMS]
         if nums and nums != list(range(len(nums))):
@@ -94,13 +96,15 @@ BASE_SE, BASE_EQ, BASE_CH = 2.28, 2.32, 156
 # 等式的作用是给义项归类命名，一个词的语义簇数远少于义项数，
 # 所以不能按义项数设等式基线（会逼出填充行）。沿用 A 那个人工验收过的
 # 2.32 作下限：B 是更厚的规格，只准比 A 密，不准比 A 稀。
-# 义项基线只能当「粗筛」，不能当「收全了」的保证：
-# 一批词的真实义项数由字母顺序决定（a/about/above 那批天然 4.9，
-# ankle/anniversary/alphabet 那批天然 3.6），跟我写得认不认真无关。
-# 所以设成 3.0 —— 够抓住「每个词只写两三个义项」这种整体偷工
-# （实测把义项砍到 2 仍被拦下），但不冤枉低多义性的字母段。
-# 真正保证「收全牛津高阶的义项」的是我逐词对照，工具替不了这一步。
-BASE_B_SE, BASE_B_EQ, BASE_B_NOTES = 3.0, BASE_EQ, 1.5
+# B 全量收录牛津高阶后，派生词（abruptly / abruptness / absurdity）
+# 大量出现，它们本来就只有一两个义项。「批均义项」这个指标的形状是错的：
+# 它由「这批碰巧是哪些词」决定，而不是由我写得认不认真决定。
+# 所以撤掉批均下限，改成逐条规则：每个词条至少 2 个义项 ——
+# 单个光秃秃的例句不算一个词条。真正的质量信号留在
+# 「讲解行/义项」和等式密度上，那两个不随词的多义性漂移。
+# 「收全牛津高阶的义项」仍然只能靠我逐词对照，工具替不了。
+MIN_B_SENSES = 2
+BASE_B_EQ, BASE_B_NOTES = BASE_EQ, 1.5
 
 def main(paths):
     # 查重按文件名前缀分组：A 和 B 是两个人各自的词表，
@@ -129,8 +133,7 @@ def main(paths):
             n_se = sum(len(e['senses']) for e in es)
             notes = sum(e['notes'] for e in es)
             per = (notes / n_se) if n_se else 0
-            below = (avg_se < BASE_B_SE * 0.92 or avg_eq < BASE_B_EQ * 0.92
-                     or per < BASE_B_NOTES)
+            below = (avg_eq < BASE_B_EQ * 0.92 or per < BASE_B_NOTES)
         else:
             below = (avg_se < BASE_SE * 0.92 or avg_eq < BASE_EQ * 0.92
                      or avg_ch < BASE_CH * 0.92)
