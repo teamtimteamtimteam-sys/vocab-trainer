@@ -78,3 +78,23 @@ iPad 同一 Wi-Fi 下访问 `http://<Mac 的 IP>:8413` 即可实时预览。
 
 续批直接编号往后接（`A-0051-0100.txt`、`B-0051-0100.txt`……），
 导入时 app 按 seq 追加、自动凑满 50 成组，组号会从上一批的末尾继续。
+
+## 分批生成的质量控制
+
+`scripts/check-wordlist.py` —— 每批出完就跑，盯的是跨批漂移和重复：
+
+```bash
+python3 scripts/check-wordlist.py 'wordlists/A-*.txt'
+```
+
+输出每批的**均义项 / 均等式行 / 均字符**，以及与前面所有批次的查重。
+A 的基线是 **2.28 / 2.32 / 156**，偏离就重写那一批。
+
+`scripts/merge-wordlist.py` —— 合并成大文件传到 iPad：
+
+```bash
+python3 scripts/merge-wordlist.py A 5000
+```
+
+合并前会检查**编号连续性**：A 的词表按词频排序，缺一批或顺序错了，
+组的内容就和「由简到难」的意图错位，所以编号不连续会直接中止。
