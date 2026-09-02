@@ -51,8 +51,16 @@ def main():
         import subprocess, re as _re
         out = subprocess.run([sys.executable, 'scripts/coverage.py', 'a'],
                              capture_output=True, text=True).stdout
-        nxt = next((l.split()[0] for l in out.splitlines()
-                    if l.strip().startswith('a') and '← 缺' in l), None)
+        # 只剩「待推迟」的段现在做不了（内容词还在后面的字母段），要跳过 ——
+        # 否则冷启动会被指去补一个动不了的段。
+        cand = [l.split()[0] for l in out.splitlines()
+                if l.strip().startswith('a') and '← 缺' in l]
+        nxt = None
+        for c in cand:
+            det = subprocess.run([sys.executable, 'scripts/coverage.py', c],
+                                 capture_output=True, text=True).stdout
+            if '待并入' in det or '待新写' in det:
+                nxt = c; break
         if nxt:
             print(f"下一步：补 {nxt}- 段")
             print(f"  python3 scripts/coverage.py {nxt}    ← 先看缺什么，分「待并入 / 待新写 / 待推迟」三栏")
