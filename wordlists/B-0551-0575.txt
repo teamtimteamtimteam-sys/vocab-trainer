@@ -1,22 +1,3 @@
-alien
-核心：三条线：形容词"陌生的、格格不入的"，名词"外星人"，
-以及法律上的"外国人"（现在被认为不礼貌，多改说 foreign national）。
-① The customs seemed alien to him.
-= 那些习俗对他来说很陌生。
-be alien to = 对…而言陌生
-② The film is about aliens.
-= 那部电影讲外星人。
-③ It's an alien concept here.
-= 那个概念在这里很陌生。
-alien concept = 陌生的观念
-④ Illegal aliens face deportation.
-= 非法移民面临遣返。
-法律用语，现已少用
-词族：alienate = 使疏远
-注意语用：
-用 alien 指人现在被视为不礼貌，
-应说 foreign national 或 immigrant。
-
 alienate
 核心：指"让人疏远、失去支持"，宾语是人或群体。也指把感情、
 财产"转移出去"（法律义）。常用被动 feel alienated。
@@ -373,6 +354,25 @@ allegory → allegories
 allegory = 寓言（整部作品）
 fable = 寓言故事（多以动物讲道理）
 parable = 比喻故事（宗教训诫）
+
+allergen
+核心：指引起过敏反应的"过敏原"，如花粉、尘螨、坚果。
+医学和食品标签用语。可数。
+① Pollen is a common allergen.
+= 花粉是常见过敏原。
+common allergen = 常见过敏原
+② Labels must list allergens.
+= 标签必须标明过敏原。
+list allergens = 标注过敏原
+③ They removed the allergen.
+= 他们去除了那种过敏原。
+词族：
+allergy = 过敏
+allergic = 过敏的
+构词：allerg- 过敏 + -gen 产生者
+同类构词：
+carcinogen = 致癌物
+pathogen = 病原体
 
 allergic
 核心：医学上指"过敏的"，介词用 to；口语里比喻指"极其反感"。

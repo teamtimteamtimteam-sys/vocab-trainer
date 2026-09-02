@@ -439,3 +439,20 @@ aghast at = 对…感到骇然
 surprised = 惊讶
 shocked = 震惊
 aghast = 惊骇（带反感）
+
+agile
+核心：字面指身体"敏捷灵活"，比喻指头脑"反应快"，现代商业里还指
+一整套快速迭代的工作方法（agile development）。
+① She is agile and quick.
+= 她身手敏捷。
+② He has an agile mind.
+= 他头脑灵活。
+an agile mind = 灵活的头脑
+③ The team uses agile methods.
+= 那个团队用敏捷开发方法。
+agile development = 敏捷开发
+词族：
+agility = 敏捷
+常用搭配：
+mentally agile = 思维敏捷
+agile movement = 灵巧的动作
