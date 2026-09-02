@@ -480,6 +480,21 @@ textarea.ta:focus{outline:none;border-color:var(--green-line);box-shadow:0 0 0 3
 }
 .toast.on{opacity:1;transform:translateX(-50%) translateY(-4px)}
 
+.busy{
+  position:fixed;inset:0;z-index:300;display:flex;align-items:center;justify-content:center;
+  background:var(--glass-chrome);
+  -webkit-backdrop-filter:blur(var(--blur-chrome)) saturate(180%);
+  backdrop-filter:blur(var(--blur-chrome)) saturate(180%);
+}
+.busy .box{
+  background:var(--glass);border:1px solid var(--line);border-radius:var(--r-lg);
+  box-shadow:var(--shadow-2);padding:22px 26px;min-width:min(300px,80vw);text-align:center;
+}
+.busy .lab{font-size:calc(15px*var(--fs));font-weight:600;margin-bottom:4px}
+.busy .sub{font-family:var(--mono);font-size:calc(12px*var(--fs));color:var(--fg-subtle);
+  font-variant-numeric:tabular-nums;margin-bottom:12px}
+.busy .bar{height:5px;background:var(--glass-sunk);border-radius:3px;overflow:hidden}
+.busy .bar i{display:block;height:100%;background:var(--green);border-radius:3px;transition:width .2s}
 .reveal{animation:fade .24s cubic-bezier(.2,.8,.3,1)}
 @keyframes fade{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:none}}
 
@@ -527,7 +542,7 @@ const INTERVALS  = [1, 2, 4, 7, 15, 30];   // 天，从整组背完当天起算
 const DAILY_CAP  = 5;                       // 每日复习配额（组）
 const DAY_START  = 4;                       // 凌晨 4:00 为一天分界
 const BACKUP_WARN_DAYS = 7;
-const APP_VERSION = "1.3.2";
+const APP_VERSION = "1.4.0";
 
 /* ---------------------------------------------------------------- utils */
 const $ = s => document.querySelector(s);
@@ -555,6 +570,23 @@ function shuffle(a) {
 function fmtSize(b) {
   return b > 1048576 ? (b / 1048576).toFixed(1) + " MB"
        : b > 1024    ? Math.round(b / 1024) + " KB" : b + " B";
+}
+// 大批量导入会阻塞几秒到十几秒，必须给反馈，否则看起来像卡死
+let busyEl = null;
+function busy(label, sub, pct) {
+  if (label === false) { if (busyEl) busyEl.remove(); busyEl = null; return Promise.resolve(); }
+  if (!busyEl) {
+    busyEl = document.createElement("div");
+    busyEl.className = "busy";
+    busyEl.innerHTML = '<div class="box"><div class="lab"></div><div class="sub"></div>' +
+                       '<div class="bar"><i style="width:0%"></i></div></div>';
+    document.body.appendChild(busyEl);
+  }
+  busyEl.querySelector(".lab").textContent = label;
+  busyEl.querySelector(".sub").textContent = sub || "";
+  busyEl.querySelector(".bar i").style.width = Math.max(0, Math.min(100, pct || 0)) + "%";
+  // 让出主线程，否则进度条不会重绘
+  return new Promise(r => setTimeout(r, 0));
 }
 let toastTimer;
 function toast(msg) {
@@ -1593,35 +1625,43 @@ window.checkText = checkText;
 
 async function commitImport() {
   if (!PENDING || !PENDING.length) { toast("没有可导入的词"); return; }
-  const t = tx(["words", "zhidx"], "readwrite");
-  const ws = t.objectStore("words"), zs = t.objectStore("zhidx");
+  const total = PENDING.length;
+  await busy("正在导入", "0 / " + total + " 词", 0);
   let seq = S.nextSeq;
   const newIds = [];
-  for (const e of PENDING) {
-    zs.put({ id: seq, t: zhText(e) });
-    ws.put({
-      id: seq, seq,
-      word: e.word,                       // 展示用原文
-      wordKey: e.word.toLowerCase(),      // 索引 / 去重 / 搜索键
-      senses: e.senses, summary: e.summary, head: e.head, raw: e.raw,
-      groupId: null, learned: false, learnedAt: null,
-    });
-    newIds.push(seq);
-    seq++;
+  const CHUNK = 400;                       // 分块写，块之间让出主线程刷新进度
+  for (let i = 0; i < total; i += CHUNK) {
+    const t = tx(["words", "zhidx"], "readwrite");
+    const ws = t.objectStore("words"), zs = t.objectStore("zhidx");
+    for (const e of PENDING.slice(i, i + CHUNK)) {
+      zs.put({ id: seq, t: zhText(e) });
+      ws.put({
+        id: seq, seq,
+        word: e.word,                       // 展示用原文
+        wordKey: e.word.toLowerCase(),      // 索引 / 去重 / 搜索键
+        senses: e.senses, summary: e.summary, head: e.head, raw: e.raw,
+        groupId: null, learned: false, learnedAt: null,
+      });
+      newIds.push(seq);
+      seq++;
+    }
+    await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
+    await busy("正在导入", Math.min(i + CHUNK, total) + " / " + total + " 词",
+               Math.min(i + CHUNK, total) / total * 70);
   }
-  await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
   const firstId = newIds[0], lastId = newIds[newIds.length - 1];
   S.nextSeq = seq;
   S.looseIds = S.looseIds.concat(newIds);
   await metaSet("nextSeq", seq);
   const groupsBefore = S.groups.map(g => g.id);
-  const made = await formGroups();
+  const made = await formGroups(p => busy("正在分组", p.done + " / " + p.total + " 组", 70 + p.done / p.total * 30));
   const newGroupIds = S.groups.map(g => g.id).filter(id => groupsBefore.indexOf(id) < 0);
   await metaSet("looseIds", S.looseIds);
   S.importLog.push({ at: new Date().toISOString(), n: newIds.length, firstId, lastId, groupIds: newGroupIds });
   await metaSet("importLog", S.importLog);
   PENDING = null;
   await refreshQuota();
+  busy(false);
   toast("导入 " + newIds.length + " 词，新成 " + made + " 组");
   go("home", false);
 }
@@ -1643,11 +1683,21 @@ async function undoLastImport() {
       ((b.groupIds || []).length ? "、" + b.groupIds.length + " 个组（#" + b.groupIds.join("、#") + "）" : "") +
       "。\n这些词的收藏也会一并移除。此操作不可恢复。")) return;
 
-  const t = tx(["words", "groups", "zhidx", "meta"], "readwrite");
-  const ws = t.objectStore("words"), gs = t.objectStore("groups"), zs = t.objectStore("zhidx");
-  for (let id = b.firstId; id <= b.lastId; id++) { ws.delete(id); zs.delete(id); }
-  (b.groupIds || []).forEach(id => gs.delete(id));
-  await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
+  const total = b.lastId - b.firstId + 1;
+  await busy("正在撤销", "0 / " + total + " 词", 0);
+  const CHUNK = 500;
+  for (let from = b.firstId; from <= b.lastId; from += CHUNK) {
+    const to = Math.min(from + CHUNK - 1, b.lastId);
+    const t = tx(["words", "zhidx"], "readwrite");
+    const ws = t.objectStore("words"), zs = t.objectStore("zhidx");
+    for (let id = from; id <= to; id++) { ws.delete(id); zs.delete(id); }
+    await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
+    await busy("正在撤销", (to - b.firstId + 1) + " / " + total + " 词", (to - b.firstId + 1) / total * 100);
+  }
+  const tg = tx(["groups"], "readwrite");
+  (b.groupIds || []).forEach(id => tg.objectStore("groups").delete(id));
+  await new Promise((res, rej) => { tg.oncomplete = res; tg.onerror = () => rej(tg.error); });
+  busy(false);
 
   S.groups = S.groups.filter(g => (b.groupIds || []).indexOf(g.id) < 0);
   S.looseIds = S.looseIds.filter(id => id < b.firstId);
@@ -1666,9 +1716,10 @@ async function undoLastImport() {
 window.undoLastImport = undoLastImport;
 
 // 把暂存区的词按 seq 顺序切成整 50 的组（不足 50 的留在暂存区）
-async function formGroups() {
+async function formGroups(onProgress) {
   let nextGid = S.groups.length ? Math.max.apply(null, S.groups.map(g => g.id)) + 1 : 1;
   let made = 0;
+  const willMake = Math.floor(S.looseIds.length / GROUP_SIZE);
   while (S.looseIds.length >= GROUP_SIZE) {
     const ids = S.looseIds.splice(0, GROUP_SIZE);
     const words = await getWords(ids);                       // 事务 1：读
@@ -1684,6 +1735,7 @@ async function formGroups() {
     await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
     S.groups.push(g);
     made++;
+    if (onProgress && (made % 5 === 0 || made === willMake)) await onProgress({ done: made, total: willMake });
   }
   S.groups.sort((a, b) => a.id - b.id);
   return made;
@@ -1744,7 +1796,7 @@ function setSetting(k, v) { S.settings[k] = v; saveSettings(); if (S.view === "s
 window.setSetting = setSetting;
 
 async function exportBackup() {
-  toast("正在生成备份…");
+  await busy("正在生成完整备份", "读取词库…", 20);
   const groups = await req(store("groups").getAll());
   const meta = await req(store("meta").getAll());
   // 词库用游标分块序列化，避免一次性把 10 万条记录全部装进内存
@@ -1780,6 +1832,7 @@ async function exportBackup() {
   setTimeout(() => URL.revokeObjectURL(a.href), 4000);
   S.lastBackup = todayKey();
   await metaSet("lastBackup", S.lastBackup);
+  busy(false);
   toast("备份已导出（" + fmtSize(blob.size) + "）");
 }
 window.exportBackup = exportBackup;
