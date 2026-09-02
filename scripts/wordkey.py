@@ -10,6 +10,8 @@
 它属于 a 段。用户明确裁定过这一点。
 
 标点（句点）直接去掉：a.m. 归到 am 的位置。
+弯撇号归一化成直撇号：Adam’s 与 Adam's 必须算同一个键 ——
+否则 coverage 拿清单里的弯撇号去比对词条里的直撇号，永远比不上。
 重音字母归一化：à la carte 的 à 按 a 排。
 """
 import unicodedata
@@ -21,7 +23,8 @@ def _fold(s):
 
 def sort_key(headword):
     """按词切分后的元组，空格与连字符都算词边界。"""
-    s = _fold(headword.lower()).replace('-', ' ').replace('.', '')
+    s = _fold(headword.lower()).replace('\u2019', "'")
+    s = s.replace('-', ' ').replace('.', '')
     return tuple(w for w in s.split(' ') if w)
 
 def prefix(headword, n=2):

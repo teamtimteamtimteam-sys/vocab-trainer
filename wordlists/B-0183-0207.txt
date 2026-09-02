@@ -1,18 +1,3 @@
-accost
-核心：指陌生人在街上"上前搭讪、拦住说话"，几乎总带不受欢迎的意味。
-正式用语，常见于新闻和文学。
-① A stranger accosted her.
-= 一个陌生人拦住了她。
-② He was accosted outside the bar.
-= 他在酒吧外被人拦住搭话。
-be accosted by = 被…拦住
-③ Beggars accost tourists there.
-= 那里乞讨者会缠住游客。
-近义对照：
-accost = 拦住搭话（不受欢迎）
-approach = 走近、接洽（中性）
-confront = 当面质问（对抗）
-
 account
 核心：这个词的底层是"把事情一条条交代清楚"。钱的交代就是账户和
 账目，事情的交代就是叙述和说明，account for 就是"给出交代"。
@@ -436,3 +421,21 @@ accusation = 指控
 近义对照：
 accusatory = 带指责的（语气）
 accusing = 指责的（同义，更常用）
+
+accuse
+核心：指"指控某人做了坏事"。介词固定用 of，后接名词或 doing，
+绝不用 for——这是高频错误。语气比 blame 重，常涉及法律。
+① They accused him of theft.
+= 他们指控他偷窃。
+accuse someone of = 指控某人
+② She accused me of lying.
+= 她指责我说谎。
+of 后面接 doing。
+③ He was wrongly accused.
+= 他被冤枉了。
+④ The accused pleaded not guilty.
+= 被告作了无罪答辩。
+the accused = 被告
+词族：
+accusation = 指控
+注意：不说 accuse someone for。

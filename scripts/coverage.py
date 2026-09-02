@@ -75,6 +75,10 @@ def load_reference():
             continue
         if re.search(r'_\d+$', w):                    # 清单里的编号伪影
             continue                                   # abstract-expressionist_1 / _2
+        # 所有格的清洗伪影：清单里同一条目有 Adam’s apple 和 adam-s-apple 两版，
+        # 后者把撇号洗成了连字符，于是被切成三个词、跟前者对不上，
+        # 结果 Adam's apple 明明写在 apple 条里却一直报缺。全表 178 条同此。
+        w = re.sub(r'-s-', "'s ", w)
         if w.startswith('-') or w.endswith('-'):      # 词缀条目，不收
             continue
         bare = w.replace('.', '').replace('-', '').replace(' ', '')
