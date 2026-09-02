@@ -42,9 +42,11 @@ def parse(path):
         for i, s in enumerate(e['senses']):
             if not s['tr']: e['issues'].append("例句 %s 缺少 = 中文翻译" % NUMS[i])
             if not re.search(r'[A-Za-z]', s['ex']): e['issues'].append("例句 %s 里没有英文" % NUMS[i])
-            # 译文行混进英文单词几乎都是手误（专名和缩写除外）
-            stray = re.findall(r'[A-Za-z]{3,}', s['tr'])
-            stray = [w for w in stray if not w[0].isupper()]
+            # 译文行混进英文单词多半是手误（盯着英文句子打中文时最容易犯）。
+            # 正当情况只有一种：译文在讨论某个英文词本身 —— 那种必须加引号，
+            # 引号内的词跳过，其余一律算手误。
+            tr = re.sub(r'[\"“”「」][^\"“”「」]*[\"“”「」]', ' ', s['tr'])
+            stray = [w for w in re.findall(r'[A-Za-z]{3,}', tr) if not w[0].isupper()]
             if stray: e['issues'].append("例句 %s 的中文译文里混入英文：%s" % (NUMS[i], "、".join(stray)))
         out.append(e)
     return out
