@@ -27,6 +27,7 @@
   --green:#1B8A3D;
   --green-soft:rgba(27,138,61,.10);
   --green-line:rgba(27,138,61,.35);
+  --on-green:#ffffff;      /* 绿底之上的文字色 */
   --danger:#b3261e;
   --fs:1;           /* font scale, set by settings */
   --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
@@ -46,6 +47,7 @@ html[data-theme="dark"]{
   --green:#40b968;
   --green-soft:rgba(64,185,104,.14);
   --green-line:rgba(64,185,104,.40);
+  --on-green:#0e0f10;
   --danger:#ff6b61;
   color-scheme:dark;
 }
@@ -105,10 +107,9 @@ main{flex:1;padding:20px 16px calc(40px + env(safe-area-inset-bottom));max-width
 .btn{
   display:inline-flex;align-items:center;justify-content:center;gap:8px;
   min-height:50px;padding:0 22px;border-radius:12px;font-weight:600;
-  background:var(--green);color:#fff;width:100%;
+  background:var(--green);color:var(--on-green);width:100%;
   font-size:calc(16px*var(--fs));
 }
-html[data-theme="dark"] .btn{color:#0e0f10}
 .btn:active{opacity:.85}
 .btn.ghost{background:none;border:1.5px solid var(--line);color:var(--ink)}
 .btn.dark{background:var(--ink);color:var(--bg)}
@@ -195,8 +196,7 @@ html[data-theme="dark"] .btn{color:#0e0f10}
 }
 .footerbar .btn{flex:1}
 .markbtn{border:1.5px solid var(--line);background:none;color:var(--ink)}
-.markbtn.done{background:var(--green);border-color:var(--green);color:#fff}
-html[data-theme="dark"] .markbtn.done{color:#0e0f10}
+.markbtn.done{background:var(--green);border-color:var(--green);color:var(--on-green)}
 .progressbar{height:3px;background:var(--ink-12);border-radius:2px;overflow:hidden;margin-top:10px}
 .progressbar i{display:block;height:100%;background:var(--green);transition:width .25s}
 .navrow{display:flex;align-items:center;gap:16px;justify-content:space-between;margin-bottom:4px}
@@ -222,8 +222,7 @@ html[data-theme="dark"] .markbtn.done{color:#0e0f10}
 .gcell.reviewing b{color:var(--green)}
 .gcell.reviewing span{color:var(--green)}
 .gcell.mastered{background:var(--green)}
-.gcell.mastered b,.gcell.mastered span{color:#fff}
-html[data-theme="dark"] .gcell.mastered b,html[data-theme="dark"] .gcell.mastered span{color:#0e0f10}
+.gcell.mastered b,.gcell.mastered span{color:var(--on-green)}
 .gcell.due{box-shadow:inset 0 0 0 2px var(--green)}
 
 /* ============ misc ============ */
@@ -312,7 +311,7 @@ const INTERVALS  = [1, 2, 4, 7, 15, 30];   // 天，从整组背完当天起算
 const DAILY_CAP  = 5;                       // 每日复习配额（组）
 const DAY_START  = 4;                       // 凌晨 4:00 为一天分界
 const BACKUP_WARN_DAYS = 7;
-const APP_VERSION = "1.0.1";
+const APP_VERSION = "1.0.2";
 
 /* ---------------------------------------------------------------- utils */
 const $ = s => document.querySelector(s);
@@ -583,8 +582,11 @@ function speak(text) {
 }
 window.speak = speak;
 document.addEventListener("click", e => {
-  const b = e.target.closest && e.target.closest("[data-say]");
-  if (b) { e.preventDefault(); speak(b.dataset.say); }
+  if (!e.target.closest) return;
+  const say = e.target.closest("[data-say]");
+  if (say) { e.preventDefault(); speak(say.dataset.say); return; }
+  const set = e.target.closest("[data-set]");
+  if (set) { setSetting(set.dataset.set, set.dataset.num ? parseFloat(set.dataset.val) : set.dataset.val); }
 });
 
 /* ---------------------------------------------------------- 导航外壳 */
@@ -1202,7 +1204,8 @@ RENDER.settings = function () {
   setAction("");
   const s = S.settings;
   const seg = (key, opts) => '<div class="seg">' + opts.map(([v, l]) =>
-    '<button class="' + (s[key] == v ? "on" : "") + '" onclick="setSetting(\'' + key + "'," + JSON.stringify(v) + ')">' + l + "</button>").join("") + "</div>";
+    '<button class="' + (s[key] == v ? "on" : "") + '" data-set="' + esc(key) + '" data-val="' + esc(String(v)) +
+    '"' + (typeof v === "number" ? ' data-num="1"' : "") + ">" + l + "</button>").join("") + "</div>";
 
   $("#v-settings").innerHTML =
     '<div class="eyebrow">显示</div>' +
