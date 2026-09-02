@@ -65,9 +65,8 @@
   --mono:ui-monospace,"SF Mono",SFMono-Regular,Menlo,"JetBrains Mono",monospace;
   --fs:1;
 
-  --bloom-green:rgba(27,138,61,.34);
-  --bloom-ink:rgba(17,17,17,.26);
-  --core:rgba(255,255,255,.94);
+  --bloom-green:rgba(27,138,61,.30);
+  --bloom-ink:rgba(17,17,17,.30);
   color-scheme:light;
 }
 html[data-theme="dark"]{
@@ -99,9 +98,8 @@ html[data-theme="dark"]{
   --shadow-1:0 1px 2px rgba(0,0,0,.35);
   --shadow-2:0 8px 24px -10px rgba(0,0,0,.65), 0 1px 3px rgba(0,0,0,.35);
 
-  --bloom-green:rgba(64,185,104,.30);
-  --bloom-ink:rgba(255,255,255,.10);
-  --core:rgba(13,14,15,.92);
+  --bloom-green:rgba(64,185,104,.26);
+  --bloom-ink:rgba(0,0,0,.85);      /* 深色底上「黑」要比底色更黑才看得见 */
   color-scheme:dark;
 }
 
@@ -122,13 +120,9 @@ body{
 body::before{
   content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
   background:
-    /* 最上层：把中心洗回近白，保证正文区不带色 */
-    radial-gradient(62% 46% at 50% 44%, var(--core), transparent 74%),
-    /* 下面四层：色只留在四角 */
-    radial-gradient(40% 30% at 100% 0%,   var(--bloom-green), transparent 72%),
-    radial-gradient(36% 27% at 0% 100%,   var(--bloom-green), transparent 72%),
-    radial-gradient(42% 32% at 0% 0%,     var(--bloom-ink),   transparent 72%),
-    radial-gradient(46% 35% at 100% 100%, var(--bloom-ink),   transparent 74%);
+    /* 上边缘整条绿，下边缘整条黑，中间留白给正文 */
+    linear-gradient(to bottom, var(--bloom-green) 0%, transparent 28%),
+    linear-gradient(to top,    var(--bloom-ink)   0%, transparent 28%);
 }
 
 #app{position:relative;z-index:1;min-height:100%;display:flex;flex-direction:column}
@@ -533,7 +527,7 @@ const INTERVALS  = [1, 2, 4, 7, 15, 30];   // 天，从整组背完当天起算
 const DAILY_CAP  = 5;                       // 每日复习配额（组）
 const DAY_START  = 4;                       // 凌晨 4:00 为一天分界
 const BACKUP_WARN_DAYS = 7;
-const APP_VERSION = "1.2.0";
+const APP_VERSION = "1.3.0";
 
 /* ---------------------------------------------------------------- utils */
 const $ = s => document.querySelector(s);
@@ -572,14 +566,19 @@ function toast(msg) {
 let db;
 function openDB() {
   return new Promise((res, rej) => {
-    const rq = indexedDB.open("vocab_v1", 1);
+    const rq = indexedDB.open("vocab_v1", 2);
     rq.onupgradeneeded = e => {
       const d = e.target.result;
-      const w = d.createObjectStore("words", { keyPath: "id" });
-      w.createIndex("by_word", "wordKey", { unique: true });
-      w.createIndex("by_group", "groupId");
-      d.createObjectStore("groups", { keyPath: "id" });
-      d.createObjectStore("meta", { keyPath: "k" });
+      if (!d.objectStoreNames.contains("words")) {
+        const w = d.createObjectStore("words", { keyPath: "id" });
+        w.createIndex("by_word", "wordKey", { unique: true });
+        w.createIndex("by_group", "groupId");
+      }
+      if (!d.objectStoreNames.contains("groups")) d.createObjectStore("groups", { keyPath: "id" });
+      if (!d.objectStoreNames.contains("meta"))   d.createObjectStore("meta", { keyPath: "k" });
+      // v2：中文反查索引。单独建 store 是为了让扫描只读几十字节 / 条，
+      // 而不是把 800 字节的完整词条全部反序列化一遍。
+      if (!d.objectStoreNames.contains("zhidx"))  d.createObjectStore("zhidx", { keyPath: "id" });
     };
     rq.onsuccess = e => { db = e.target.result; res(db); };
     rq.onerror = e => rej(e.target.error);
@@ -612,10 +611,11 @@ const S = {
   quota: null,         // {date, ids:[]}
   lastNewGroupDate: "",
   lastNewGroupId: null,   // 今天的新组额度被哪一组消耗了
+  importLog: [],          // 每批导入的 id 区间，用于撤销（栈，只能从尾部弹）
   starredOrder: [],       // 收藏的词 id，数组顺序 = 收藏先后
   starred: new Set(),     // 同一份数据的查询视图
   lastBackup: "",
-  settings: { theme: "auto", fs: 1 },
+  settings: { theme: "auto", fs: 1, voice: "en-US", rate: 0.92 },
   view: "home",
   stack: [],
 };
@@ -636,6 +636,32 @@ function applySettings() {
   document.documentElement.style.setProperty("--fs", S.settings.fs);
 }
 
+// 老数据升上来时索引是空的，补建一次。之后每次导入都同步写，不会再触发。
+async function backfillZh() {
+  const nWords = await req(store("words").count());
+  const nIdx   = await req(store("zhidx").count());
+  if (nWords === 0 || nIdx >= nWords) return 0;
+  toast("正在建立中文检索索引…");
+  let done = 0, batch = [];
+  await new Promise((res, rej) => {
+    const c = store("words").openCursor();
+    c.onsuccess = e => {
+      const cur = e.target.result;
+      if (!cur) return res();
+      batch.push({ id: cur.value.id, t: zhText(cur.value) });
+      cur.continue();
+    };
+    c.onerror = () => rej(c.error);
+  });
+  for (let i = 0; i < batch.length; i += 500) {
+    const t = tx(["zhidx"], "readwrite"), zs = t.objectStore("zhidx");
+    batch.slice(i, i + 500).forEach(r => zs.put(r));
+    await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
+    done += Math.min(500, batch.length - i);
+  }
+  return done;
+}
+
 async function loadState() {
   S.groups = await req(store("groups").getAll());
   S.groups.sort((a, b) => a.id - b.id);
@@ -643,10 +669,13 @@ async function loadState() {
   S.looseIds = await metaGet("looseIds", []);
   S.lastNewGroupDate = await metaGet("lastNewGroupDate", "");
   S.lastNewGroupId = await metaGet("lastNewGroupId", null);
+  S.importLog = await metaGet("importLog", []);
   S.starredOrder = await metaGet("starredIds", []);
   S.starred = new Set(S.starredOrder);
   S.lastBackup = await metaGet("lastBackup", "");
   await refreshQuota();
+  const n = await backfillZh();
+  if (n) toast("中文检索索引已建立（" + n + " 词）");
 }
 const groupById = id => S.groups.find(g => g.id === id);
 
@@ -748,6 +777,22 @@ function parseVocab(text) {
   }).filter(e => e.word);
 }
 
+/* ------------------------------------------------------ 中文反查索引 */
+// 只收「词义」类文本：等式行右侧、= 开头的释义、例句翻译。
+// 不收整段讲解 —— 那会让索引膨胀几倍，扫描变慢，而搜的人记得的是词义。
+function zhText(w) {
+  const out = [];
+  const push = n => {
+    if (n.t === "eq") out.push(n.rhs);
+    else if (n.t === "gloss") out.push(n.text);
+  };
+  (w.head || []).forEach(push);
+  (w.senses || []).forEach(s => { if (s.translation) out.push(s.translation); (s.notes || []).forEach(push); });
+  (w.summary || []).forEach(push);
+  return out.join(" ").replace(/\s+/g, " ").slice(0, 200);
+}
+const HAS_CJK = /[\u4e00-\u9fff\u3400-\u4dbf]/;
+
 /* -------------------------------------------------------- 高亮目标词 */
 const SUFFIX_RE = /(ations?|ators?|ments?|nesses?|ities|ives?|ables?|ibles?|ances?|ences?|ings?|ers?|ors?|ies|ed|es|s|ly|y|e)$/;
 function hlRegex(word) {
@@ -846,7 +891,10 @@ function speak(text) {
   try {
     speechSynthesis.cancel();
     const u = new SpeechSynthesisUtterance(text);
-    u.lang = "en-US"; u.rate = 0.92;
+    u.lang = S.settings.voice || "en-US";
+    u.rate = S.settings.rate || 0.92;
+    const v = speechSynthesis.getVoices().find(x => x.lang === u.lang);
+    if (v) u.voice = v;
     speechSynthesis.speak(u);
   } catch (e) { toast("此设备不支持朗读"); }
 }
@@ -1288,29 +1336,49 @@ RENDER.search = function () {
   setTitle("搜索");
   setAction("");
   $("#v-search").innerHTML =
-    '<input class="searchbox" id="q" placeholder="输入单词开头，如 accum" autocapitalize="off" autocorrect="off" spellcheck="false">' +
-    '<div id="results"><div class="hint">按前缀匹配，最多显示 60 条。</div></div>';
+    '<input class="searchbox" id="q" placeholder="输入英文开头，或直接输入中文" autocapitalize="off" autocorrect="off" spellcheck="false">' +
+    '<div id="results"><div class="hint">英文按开头匹配，中文在释义里任意位置匹配。最多显示 60 条。</div></div>';
   const q = $("#q");
   q.oninput = () => doSearch(q.value.trim().toLowerCase());
   setTimeout(() => q.focus(), 60);
 };
-let searchTimer;
+let searchTimer, searchSeq = 0;
 function doSearch(p) {
   clearTimeout(searchTimer);
+  // 中文扫索引比英文前缀查询慢得多，慢的旧查询可能后落地盖掉新结果
+  const mySeq = ++searchSeq;
   searchTimer = setTimeout(async () => {
-    if (!p) { $("#results").innerHTML = '<div class="hint">按前缀匹配，最多显示 60 条。</div>'; return; }
-    const idx = store("words").index("by_word");
-    const range = IDBKeyRange.bound(p, p + "￿");
-    const out = [];
-    await new Promise(res => {
-      const c = idx.openCursor(range);
-      c.onsuccess = e => {
-        const cur = e.target.result;
-        if (!cur || out.length >= 60) return res();
-        out.push(cur.value); cur.continue();
-      };
-      c.onerror = () => res();
-    });
+    if (mySeq !== searchSeq) return;
+    if (!p) { $("#results").innerHTML = '<div class="hint">英文按开头匹配，中文在释义里任意位置匹配。最多显示 60 条。</div>'; return; }
+    let out = [];
+    if (HAS_CJK.test(p)) {
+      // 中文：扫轻量索引取 id，再按 id 批量取词条
+      const ids = [];
+      await new Promise(res => {
+        const c = store("zhidx").openCursor();
+        c.onsuccess = e => {
+          const cur = e.target.result;
+          if (!cur || ids.length >= 60) return res();
+          if (cur.value.t && cur.value.t.indexOf(p) >= 0) ids.push(cur.value.id);
+          cur.continue();
+        };
+        c.onerror = () => res();
+      });
+      out = await getWords(ids);
+    } else {
+      const idx = store("words").index("by_word");
+      const range = IDBKeyRange.bound(p, p + "￿");
+      await new Promise(res => {
+        const c = idx.openCursor(range);
+        c.onsuccess = e => {
+          const cur = e.target.result;
+          if (!cur || out.length >= 60) return res();
+          out.push(cur.value); cur.continue();
+        };
+        c.onerror = () => res();
+      });
+    }
+    if (mySeq !== searchSeq) return;                 // 已有更新的查询在跑，丢弃本次结果
     $("#results").innerHTML = out.length
       ? out.map(w => '<button class="listitem" style="width:100%;text-align:left" onclick="openWordPlain(' + w.id + ')">' +
           '<span class="dot' + (w.learned ? " on" : "") + '"></span><span class="w">' + esc(w.word) + "</span>" +
@@ -1343,6 +1411,7 @@ RENDER.fav = async function () {
   else                           words.sort((a, b) => (a.groupId || 0) - (b.groupId || 0) || a.seq - b.seq);
   FAVNAV = words.map(w => w.id);
 
+  setAction("导出", exportFav, true);
   const tabs = [["recent", "最近收藏"], ["forgot", "忘得最多"], ["group", "按组顺序"]];
   let h = '<div class="tabs">' + tabs.map(([k, l]) =>
     '<button class="' + (FAVSORT === k ? "on" : "") + '" onclick="setFavSort(\'' + k + '\')">' + l + "</button>").join("") + "</div>";
@@ -1358,6 +1427,21 @@ RENDER.fav = async function () {
   $("#v-fav").innerHTML = h;
 };
 function openFav(id) { openWord(id); }
+// 导出收藏的词为原始 txt 格式，可直接发回来重写讲解
+async function exportFav() {
+  if (!S.starredOrder.length) { toast("收藏夹是空的"); return; }
+  const words = await getWords(S.starredOrder);
+  const pos = {}; S.starredOrder.forEach((id, i) => pos[id] = i);
+  words.sort((a, b) => pos[a.id] - pos[b.id]);
+  const txt = words.map(w => w.raw).join("\n\n") + "\n";
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([txt], { type: "text/plain;charset=utf-8" }));
+  a.download = "收藏夹-" + todayKey() + "-" + words.length + "词.txt";
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+  toast("已导出 " + words.length + " 个词");
+}
+window.exportFav = exportFav;
 window.openFav = openFav;
 
 /* ============================ 单词详情 ============================ */
@@ -1409,6 +1493,7 @@ async function saveWord() {
     senses: parsed.senses, summary: parsed.summary, head: parsed.head, raw: parsed.raw,
   });
   try { await putWord(w); } catch (e) { toast("保存失败：可能与已有单词重名"); return; }
+  await req(store("zhidx", "readwrite").put({ id: w.id, t: zhText(w) }));
   WEDIT = false;
   toast("已保存");
   RENDER.word();
@@ -1434,6 +1519,15 @@ RENDER["import"] = function () {
     "其余内容（这里：/ 核心就是：/ 词尾总结等）随意书写，会原样保留并统一排版。<br>" +
     "文件请存为 <b>UTF-8 编码的 .txt</b>。" +
     "</div>" +
+    (S.importLog.length ? (
+      '<div class="eyebrow">最近一次导入</div>' +
+      '<div class="card"><div class="title">' + S.importLog[S.importLog.length-1].n + ' 个词' +
+      ((S.importLog[S.importLog.length-1].groupIds||[]).length ?
+        '　·　组 #' + S.importLog[S.importLog.length-1].groupIds.join("、#") : "　·　全部进了暂存区") +
+      '</div><div class="meta">' + new Date(S.importLog[S.importLog.length-1].at).toLocaleString("zh-CN") + "</div></div>" +
+      '<button class="btn danger" onclick="undoLastImport()">撤销这次导入</button>' +
+      '<div class="hint" style="margin-top:8px">导错文件时用它。已经开始背诵的组不能撤销。</div>'
+    ) : "") +
     '<div id="report"></div>';
 };
 function pickFile(e) {
@@ -1499,11 +1593,12 @@ window.checkText = checkText;
 
 async function commitImport() {
   if (!PENDING || !PENDING.length) { toast("没有可导入的词"); return; }
-  const t = tx(["words"], "readwrite");
-  const ws = t.objectStore("words");
+  const t = tx(["words", "zhidx"], "readwrite");
+  const ws = t.objectStore("words"), zs = t.objectStore("zhidx");
   let seq = S.nextSeq;
   const newIds = [];
   for (const e of PENDING) {
+    zs.put({ id: seq, t: zhText(e) });
     ws.put({
       id: seq, seq,
       word: e.word,                       // 展示用原文
@@ -1515,17 +1610,60 @@ async function commitImport() {
     seq++;
   }
   await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
+  const firstId = newIds[0], lastId = newIds[newIds.length - 1];
   S.nextSeq = seq;
   S.looseIds = S.looseIds.concat(newIds);
   await metaSet("nextSeq", seq);
+  const groupsBefore = S.groups.map(g => g.id);
   const made = await formGroups();
+  const newGroupIds = S.groups.map(g => g.id).filter(id => groupsBefore.indexOf(id) < 0);
   await metaSet("looseIds", S.looseIds);
+  S.importLog.push({ at: new Date().toISOString(), n: newIds.length, firstId, lastId, groupIds: newGroupIds });
+  await metaSet("importLog", S.importLog);
   PENDING = null;
   await refreshQuota();
   toast("导入 " + newIds.length + " 词，新成 " + made + " 组");
   go("home", false);
 }
 window.commitImport = commitImport;
+
+// 撤销最近一次导入。导入是追加的，所以撤销永远是砍掉尾巴 ——
+// 组号保持连续，不会出现空洞。只允许从栈顶弹，不能撤中间某一批。
+async function undoLastImport() {
+  const b = S.importLog[S.importLog.length - 1];
+  if (!b) { toast("没有可撤销的导入"); return; }
+  const touched = (b.groupIds || []).map(groupById).filter(g => g && g.state !== "pending");
+  if (touched.length) {
+    alert("撤销不了这一批。\n\n它生成的组 " + touched.map(g => "#" + g.id).join("、") +
+          " 已经开始背诵或进入复习了，删掉会破坏进度。\n\n" +
+          "如果确实要清掉，请先在组详情里「重置本组」，再回来撤销。");
+    return;
+  }
+  if (!confirm("撤销最近一次导入？\n\n将删除 " + b.n + " 个词" +
+      ((b.groupIds || []).length ? "、" + b.groupIds.length + " 个组（#" + b.groupIds.join("、#") + "）" : "") +
+      "。\n这些词的收藏也会一并移除。此操作不可恢复。")) return;
+
+  const t = tx(["words", "groups", "zhidx", "meta"], "readwrite");
+  const ws = t.objectStore("words"), gs = t.objectStore("groups"), zs = t.objectStore("zhidx");
+  for (let id = b.firstId; id <= b.lastId; id++) { ws.delete(id); zs.delete(id); }
+  (b.groupIds || []).forEach(id => gs.delete(id));
+  await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
+
+  S.groups = S.groups.filter(g => (b.groupIds || []).indexOf(g.id) < 0);
+  S.looseIds = S.looseIds.filter(id => id < b.firstId);
+  S.starredOrder = S.starredOrder.filter(id => id < b.firstId);
+  S.starred = new Set(S.starredOrder);
+  S.nextSeq = b.firstId;
+  S.importLog.pop();
+  await metaSet("looseIds", S.looseIds);
+  await metaSet("starredIds", S.starredOrder);
+  await metaSet("nextSeq", S.nextSeq);
+  await metaSet("importLog", S.importLog);
+  await refreshQuota();
+  toast("已撤销：删除 " + b.n + " 个词");
+  go("home", false);
+}
+window.undoLastImport = undoLastImport;
 
 // 把暂存区的词按 seq 顺序切成整 50 的组（不足 50 的留在暂存区）
 async function formGroups() {
@@ -1567,6 +1705,14 @@ RENDER.settings = function () {
     '<div class="setrow"><div class="grow"><div class="title">字号</div></div>' +
       seg("fs", [[0.92, "小"], [1, "中"], [1.14, "大"]]) + "</div>" +
 
+    '<div class="eyebrow">朗读</div>' +
+    '<div class="setrow"><div class="grow"><div class="title">口音</div>' +
+      '<div class="meta">用哪种口音朗读单词和例句</div></div>' +
+      seg("voice", [["en-US", "美音"], ["en-GB", "英音"], ["en-AU", "澳音"]]) + "</div>" +
+    '<div class="setrow"><div class="grow"><div class="title">语速</div></div>' +
+      seg("rate", [[0.72, "慢"], [0.92, "正常"], [1.1, "快"]]) + "</div>" +
+    '<div class="setrow" style="border:none"><button class="btn ghost" data-say="This is how the example sentences will sound.">试听一句</button></div>' +
+
     '<div class="eyebrow">规则</div>' +
     '<div class="card flat hint">' +
     "· 记忆曲线：整组背完后第 <b>" + INTERVALS.join(" / ") + "</b> 天各复习一次，共 " + INTERVALS.length + " 轮<br>" +
@@ -1579,7 +1725,10 @@ RENDER.settings = function () {
     '<div class="card flat hint">上次备份：<b>' + (S.lastBackup || "从未") + "</b>　·　词库 " + (S.nextSeq - 1) +
     " 词，备份文件约 <b>" + fmtSize((S.nextSeq - 1) * 900) + "</b><br><br>" +
     "数据存在本机 IndexedDB 里。<b>请从主屏幕图标进入本应用</b>——加到主屏幕的 Web App 不受 Safari「7 天无交互清除存储」的限制；用 Safari 标签页打开则不享受该豁免。删除主屏幕图标会一并删除数据。</div>" +
-    '<button class="btn dark" style="margin-bottom:10px" onclick="exportBackup()">导出备份 JSON</button>' +
+    '<button class="btn dark" style="margin-bottom:10px" onclick="exportProgress()">导出进度备份（小，推荐日常用）</button>' +
+    '<div class="hint" style="margin:-4px 2px 12px">只含分组、标记、收藏、复习进度，不含词库正文。' +
+      '恢复时先导入对应的词表 .txt，再恢复这个文件。</div>' +
+    '<button class="btn ghost" style="margin-bottom:10px" onclick="exportBackup()">导出完整备份（含词库正文）</button>' +
     '<label class="btn ghost" style="margin-bottom:10px">导入备份（覆盖现有数据）' +
       '<input type="file" accept=".json,application/json" style="display:none" onchange="importBackup(event)"></label>' +
     '<div class="eyebrow">关于</div>' +
@@ -1591,7 +1740,7 @@ RENDER.settings = function () {
     '<div class="eyebrow">危险操作</div>' +
     '<button class="btn danger" onclick="wipeAll()">清空全部数据</button>';
 };
-function setSetting(k, v) { S.settings[k] = v; saveSettings(); RENDER.settings(); }
+function setSetting(k, v) { S.settings[k] = v; saveSettings(); if (S.view === "settings") RENDER.settings(); }
 window.setSetting = setSetting;
 
 async function exportBackup() {
@@ -1635,12 +1784,125 @@ async function exportBackup() {
 }
 window.exportBackup = exportBackup;
 
+// 仅进度备份：不含词库正文，用 wordKey 作锚点，重新导入 txt 后仍能还原
+async function exportProgress() {
+  toast("正在生成进度备份…");
+  const groups = await req(store("groups").getAll());
+  const meta = await req(store("meta").getAll());
+  const id2key = {}, prog = [];
+  await new Promise((res, rej) => {
+    const c = store("words").openCursor();
+    c.onsuccess = e => {
+      const cur = e.target.result;
+      if (!cur) return res();
+      const w = cur.value;
+      id2key[w.id] = w.wordKey;
+      if (w.learned || w.forgotCount) prog.push([w.wordKey, w.learned ? 1 : 0, w.forgotCount || 0]);
+      cur.continue();
+    };
+    c.onerror = () => rej(c.error);
+  });
+  const metaObj = {}; meta.forEach(m => metaObj[m.k] = m.v);
+  const payload = {
+    v: 1, kind: "progress", exportedAt: new Date().toISOString(), settings: S.settings,
+    groups: groups.map(g => Object.assign({}, g, {
+      wordIds: undefined, wordKeys: g.wordIds.map(i => id2key[i]).filter(Boolean),
+    })),
+    looseKeys: (metaObj.looseIds || []).map(i => id2key[i]).filter(Boolean),
+    starredKeys: (metaObj.starredIds || []).map(i => id2key[i]).filter(Boolean),
+    meta: { quota: metaObj.quota, lastNewGroupDate: metaObj.lastNewGroupDate,
+            lastNewGroupId: metaObj.lastNewGroupId, lastBackup: metaObj.lastBackup,
+            importLog: metaObj.importLog },
+    progress: prog,
+  };
+  const blob = new Blob([JSON.stringify(payload)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "背单词进度-" + todayKey() + ".json";
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+  S.lastBackup = todayKey(); await metaSet("lastBackup", S.lastBackup);
+  toast("进度备份已导出（" + fmtSize(blob.size) + "）");
+}
+window.exportProgress = exportProgress;
+
+async function restoreProgress(p) {
+  if (S.nextSeq <= 1) throw new Error("词库是空的，请先导入词表 .txt");
+  // 现有词库的 wordKey -> id
+  const key2id = {};
+  await new Promise((res, rej) => {
+    const c = store("words").openCursor();
+    c.onsuccess = e => { const cur = e.target.result; if (!cur) return res();
+      key2id[cur.value.wordKey] = cur.value.id; cur.continue(); };
+    c.onerror = () => rej(c.error);
+  });
+  const missing = [];
+  const mapK = k => { const id = key2id[k]; if (id === undefined) missing.push(k); return id; };
+
+  const groups = p.groups.map(g => {
+    const o = Object.assign({}, g);
+    o.wordIds = (g.wordKeys || []).map(mapK).filter(x => x !== undefined);
+    delete o.wordKeys;
+    return o;
+  });
+  const looseIds   = (p.looseKeys   || []).map(mapK).filter(x => x !== undefined);
+  const starredIds = (p.starredKeys || []).map(mapK).filter(x => x !== undefined);
+
+  // 先把每个词要打的补丁算好，再用游标单遍写入 ——
+  // 分成两轮 get/put 会在同一事务里撞车：后一轮的 get 早于前一轮的 put 落地，
+  // 结果把 learned 覆盖回 false。
+  const patch = {};
+  groups.forEach(g => g.wordIds.forEach(id => { (patch[id] = patch[id] || {}).groupId = g.id; }));
+  (p.progress || []).forEach(([k, l, f]) => {
+    const id = key2id[k]; if (id === undefined) return;
+    const o = patch[id] = patch[id] || {};
+    o.learned = !!l; o.forgotCount = f || 0;
+  });
+
+  const t = tx(["words", "groups", "meta"], "readwrite");
+  const ws = t.objectStore("words"), gs = t.objectStore("groups"), ms = t.objectStore("meta");
+  gs.clear();
+  groups.forEach(g => gs.put(g));
+  const cur = ws.openCursor();
+  cur.onsuccess = e => {
+    const c = e.target.result; if (!c) return;
+    const w = c.value, o = patch[w.id];
+    w.groupId     = o && o.groupId !== undefined ? o.groupId : null;
+    w.learned     = !!(o && o.learned);
+    w.learnedAt   = w.learned ? (w.learnedAt || todayKey()) : null;
+    w.forgotCount = (o && o.forgotCount) || 0;
+    c.update(w);
+    c.continue();
+  };
+  Object.keys(p.meta || {}).forEach(k => { if (p.meta[k] !== undefined) ms.put({ k, v: p.meta[k] }); });
+  ms.put({ k: "looseIds", v: looseIds });
+  ms.put({ k: "starredIds", v: starredIds });
+  await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
+
+  if (p.settings) { S.settings = p.settings; saveSettings(); }
+  await loadState();
+  return { groups: groups.length, missing: [...new Set(missing)] };
+}
+
 function importBackup(e) {
   const f = e.target.files[0]; if (!f) return;
   const r = new FileReader();
   r.onload = async () => {
     let p;
     try { p = JSON.parse(r.result); } catch (err) { toast("不是合法的备份文件"); return; }
+    if (p.kind === "progress") {
+      if (S.nextSeq <= 1) { alert("这是【仅进度】备份，不含词库正文。\n请先把对应的词表 .txt 导入，再恢复进度。"); return; }
+      if (!confirm("恢复【仅进度】备份：\n覆盖当前的分组、标记、收藏和复习进度，词库正文不动。\n\n确定继续？")) return;
+      try {
+        const r = await restoreProgress(p);
+        toast("进度已恢复（" + r.groups + " 组）");
+        if (r.missing.length) alert("有 " + r.missing.length + " 个词在当前词库里找不到，已跳过：\n" +
+          r.missing.slice(0, 20).join("、") + (r.missing.length > 20 ? " …" : "") +
+          "\n\n通常是词表 .txt 没有全部导入。");
+      } catch (err) { toast("恢复失败：" + (err && err.message || err)); return; }
+      go("home", false);
+      return;
+    }
     if (!p.words || !p.groups) { toast("备份文件格式不对"); return; }
     if (!confirm("导入备份会【覆盖】当前全部数据（" + (S.nextSeq - 1) + " 词）。\n备份含 " + p.words.length + " 词、" + p.groups.length + " 组。\n\n确定继续？")) return;
     const t = tx(["words", "groups", "meta"], "readwrite");
