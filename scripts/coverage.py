@@ -83,21 +83,54 @@ def collected():
             entries.append((w, low))
     return got, text, entries
 
+# 虚词表：多词条目该并进哪条词条，看的是内容词而不是第一个词。
+# in advance 要并进 advance，by accident 并进 accident，at large 并进 large ——
+# 并进 in / by / at 毫无意义。反过来 abound in、abide by 的内容词在前。
+# 所以规则是「挑非虚词」，不是「挑第一个」。
+FUNCTION_WORDS = {
+    'a','an','the','of','in','on','at','by','to','for','with','from','into','onto',
+    'over','under','up','down','out','off','through','across','along','around',
+    'and','or','but','not','no','as','than','that','this','these','those',
+    'be','is','are','was','were','been','being','it','its','one','all','any','some',
+}
+
+def phrase_hosts(w, got):
+    """这个多词条目可以并进哪些已收词条 —— 只认内容词。
+    内容词一个都没收时返回空：说明该等词根收了再并，不能塞进虚词条。
+    at large 的内容词是 large（还在 l 段没轮到），不该并进 at。"""
+    k = sort_key(w)
+    if len(k) < 2: return []
+    return [p for p in k if p not in FUNCTION_WORDS and (p,) in got]
+
+def phrase_pending(w, got, ref):
+    """内容词还没收，等轮到那个字母再并 —— 既不用新写也还并不进去。
+    但内容词必须在词头清单里确实存在，否则永远等不到：
+    ab initio 的 initio 不是英语词条，它是独立的拉丁短语，该新写。"""
+    k = sort_key(w)
+    if len(k) < 2: return False
+    content = [p for p in k if p not in FUNCTION_WORDS]
+    if not content: return False
+    if any((p,) in got for p in content): return False
+    return any((p,) in ref for p in content)
+
 def phrase_covered(w, got, text):
-    """多词条目：首词已收，且短语本身出现在那条词条的正文里，就算覆盖。
+    """多词条目：只要它出现在任一候选宿主词条的正文里，就算覆盖。
     用户裁定：abide by 写在 abide 条里就算收了，不必单列。"""
     k = sort_key(w)
     if len(k) < 2: return False
-    if (k[0],) not in got: return False
     needle = ' '.join(k)
-    return any(needle in t.replace('-', ' ') for t in text.get(k[0], []))
+    for p in phrase_hosts(w, got):
+        if any(needle in t.replace('-', ' ') for t in text.get(p, [])):
+            return True
+    return False
 
 def host_entry(w, got, entries):
     """这个缺词该并进哪条已有词条？并不进去就返回 None（需要单独立条）。
     多词条目看首词，派生词看词干。"""
     k = sort_key(w)
-    if len(k) > 1 and (k[0],) in got:
-        return got[(k[0],)]
+    if len(k) > 1:
+        hosts = phrase_hosts(w, got)
+        if hosts: return got[(hosts[0],)]
     lw = w.lower().replace('\u2019', "'")
     best = None
     for head, _ in entries:
@@ -155,8 +188,10 @@ def main(argv):
             # 缺口分三类，处理方式完全不同（用户裁定）：
             #   并入 —— 多词条目和派生词，词根已收，写进那条词条里加例句即可
             #   新写 —— 词根本身也没收，得单独立条
-            fold, fresh = {}, []
+            fold, fresh, later = {}, [], []
             for v in missing.values():
+                if phrase_pending(v, got, ref):
+                    later.append(v); continue
                 base = host_entry(v, got, entries)
                 (fold.setdefault(base, []).append(v) if base else fresh.append(v))
             if fold:
@@ -166,6 +201,9 @@ def main(argv):
                     print(f"    {h}  ←  {' '.join(sorted(fold[h], key=sort_key))}")
             if fresh:
                 print(f"  待新写 {len(fresh)} 条：" + " ".join(sorted(fresh, key=sort_key)))
+            if later:
+                print(f"  待推迟 {len(later)} 条（内容词还在后面的字母段，等收到再并）："
+                      + " ".join(sorted(later, key=sort_key)))
         if len(t) == 1 and names:
             print(f"  其中首字母大写 {len(names)} 条（均在 keep 名单内，需要收）")
         if show_names and names:

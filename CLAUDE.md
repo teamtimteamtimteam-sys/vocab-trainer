@@ -92,7 +92,11 @@ Ayurvedic medicine、Alzheimer's 收，纯人名地名商标（Aaron、Aberdeen�
 ② **多词条目和派生词一律并进词根的词条，不单列** —— abide by、abound in 写进
 abide / abound 条，abrasively、abrasiveness 写进 abrasive 条，并各配例句。
 只有词根本身也没收时才新立词条（这时要把词根反向补进来）。
-脚本会去正文里搜，自动判定是否已覆盖，缺口报告分成「待并入」和「待新写」两栏。
+**并进哪条看内容词，不是看第一个词** —— in advance 并进 advance、by accident
+并进 accident，并进 in / by 毫无意义；反过来 abound in、abide by 的内容词在前。
+脚本有一份虚词表专门处理这件事。内容词还没轮到（at large 的 large 在 l 段）就
+推迟，内容词根本不是英语词条（ab initio 的 initio）则按独立外来短语新写。
+缺口报告因此分三栏：待并入 / 待新写 / 待推迟。
 
 **第一次跑它就推翻了此前的结论**：我宣布「a 字母全部收全 1288 条」，
 实际清单有 3021 条，只收了 41%，26 个双字母段无一收全。漏的主要是三类：
