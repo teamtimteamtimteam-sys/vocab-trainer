@@ -63,3 +63,10 @@ abaft        # 航海古语，现说 behind / at the stern
 # --- 生僻动植物名 ---
 aardwolf     # 土狼，非洲鬣狗科，过窄
 aoudad       # 鬃毛羊，过窄
+
+# --- 所有格专名：清洗时丢了大写，proper-nouns-keep 拦不住 ---
+# 清单把 Aesop’s Fables 洗成了小写的 aesop-s-fables，于是 coverage 的
+# 「首字母大写才查 keep 名单」这一步对它不起作用，纯书名照样报缺。
+# 全表 106 条同此（hadrian-s-wall、king-s-cross、mother-s-day…），
+# 到相应字母段再逐条判，不一次性铺开。
+Aesop's Fables   # 伊索寓言，书名，非词汇
