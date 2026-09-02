@@ -18,7 +18,7 @@
   python3 scripts/coverage.py a ab ac    只看这几个双字母段的缺词
   python3 scripts/coverage.py --names a  另列首字母大写的条目（人名地名等）
 """
-import sys, io, csv, glob, os, string
+import sys, io, csv, glob, os, re, string
 sys.path.insert(0, 'scripts')
 from wordkey import sort_key, prefix
 
@@ -50,6 +50,8 @@ def load_reference():
     keep = keep_names()
     out = {}
     for w in words:
+        if re.search(r'_\d+$', w):                    # 清单里的编号伪影
+            continue                                   # abstract-expressionist_1 / _2
         if w.startswith('-') or w.endswith('-'):      # 词缀条目，不收
             continue
         bare = w.replace('.', '').replace('-', '').replace(' ', '')
@@ -69,29 +71,63 @@ def collected():
     第二个用来判断多词条目是否已作为搭配写在对应词条里 —— 用户裁定：
     abide by、abound in 这类短语动词，只要在 abide / abound 条里
     已经作为搭配出现过，就不必再单列。"""
-    got, text = {}, {}
+    got, text, entries = {}, {}, []
     for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
         for b in io.open(f, encoding='utf-8').read().split('\n\n'):
             b = b.strip()
             if not b: continue
             w = b.split('\n')[0].strip()
             got[sort_key(w)] = w
-            text.setdefault(sort_key(w)[0], []).append(b.lower())
-    return got, text
+            low = b.lower().replace('\u2019', "'")
+            text.setdefault(sort_key(w)[0], []).append(low)
+            entries.append((w, low))
+    return got, text, entries
 
 def phrase_covered(w, got, text):
-    """多词条目：首词已收，且短语本身出现在那条词条的正文里，就算覆盖。"""
+    """多词条目：首词已收，且短语本身出现在那条词条的正文里，就算覆盖。
+    用户裁定：abide by 写在 abide 条里就算收了，不必单列。"""
     k = sort_key(w)
     if len(k) < 2: return False
     if (k[0],) not in got: return False
     needle = ' '.join(k)
     return any(needle in t.replace('-', ' ') for t in text.get(k[0], []))
 
+def host_entry(w, got, entries):
+    """这个缺词该并进哪条已有词条？并不进去就返回 None（需要单独立条）。
+    多词条目看首词，派生词看词干。"""
+    k = sort_key(w)
+    if len(k) > 1 and (k[0],) in got:
+        return got[(k[0],)]
+    lw = w.lower().replace('\u2019', "'")
+    best = None
+    for head, _ in entries:
+        h = head.lower().replace('\u2019', "'")
+        if len(h) >= 4 and lw.startswith(h) and lw != h:
+            if best is None or len(h) > len(best): best = head
+    return best
+
+def derived_covered(w, entries):
+    """派生词：出现在其词根词条的正文里，就算覆盖。
+    用户裁定：abrasively 写进 abrasive 条（并配例句）即可，不必单列；
+    但若词根本身也没收，那是真遗漏，词根要反向补进来。
+    判定条件是两条同时成立 ——
+      ① 该词出现在某条词条的正文里
+      ② 那条词条的词头是它的词干（前 4 个字母起同源）
+    只看①会太松：词可能碰巧出现在无关词条的例句里。"""
+    lw = w.lower().replace('’', "'")
+    for head, body in entries:
+        h = head.lower().replace('’', "'")
+        if len(h) < 4 or not lw.startswith(h[:4]) or lw == h:
+            continue
+        if lw in body:
+            return True
+    return False
+
 def main(argv):
     show_names = '--names' in argv
     argv = [a for a in argv if a != '--names']
     ref = load_reference()
-    got, text = collected()
+    got, text, entries = collected()
     if not ref:
         print("reference/ 里没找到词头文件"); return 2
 
@@ -101,7 +137,8 @@ def main(argv):
         sel = {k: v for k, v in ref.items() if prefix(v, len(t)) == t or (len(t) == 1 and k[0][:1] == t)}
         if not sel: continue
         missing = {k: v for k, v in sel.items()
-                   if k not in got and not phrase_covered(v, got, text)}
+                   if k not in got and not phrase_covered(v, got, text)
+                   and not derived_covered(v, entries)}
         names = [v for v in missing.values() if v[:1].isupper()]
         grand_ref += len(sel); grand_got += len(sel) - len(missing)
         pct = (len(sel) - len(missing)) * 100 // len(sel)
@@ -115,9 +152,20 @@ def main(argv):
                 flag = "  ← 缺" if m2 else ""
                 print(f"    {p}  清单 {len(s2):4}  已收 {len(s2)-len(m2):4}  缺 {len(m2):4}{flag}")
         else:
-            body = [v for v in missing.values() if not v[:1].isupper()]
-            if body: print("  缺（普通词）：" + " ".join(sorted(body, key=sort_key)))
-            if names: print(f"  缺（首字母大写，均在 keep 名单内）{len(names)} 条：" + " ".join(sorted(names)[:20]))
+            # 缺口分三类，处理方式完全不同（用户裁定）：
+            #   并入 —— 多词条目和派生词，词根已收，写进那条词条里加例句即可
+            #   新写 —— 词根本身也没收，得单独立条
+            fold, fresh = {}, []
+            for v in missing.values():
+                base = host_entry(v, got, entries)
+                (fold.setdefault(base, []).append(v) if base else fresh.append(v))
+            if fold:
+                n = sum(len(x) for x in fold.values())
+                print(f"  待并入已有词条 {n} 条（写进词根条里并补例句，不单列）：")
+                for h in sorted(fold, key=sort_key):
+                    print(f"    {h}  ←  {' '.join(sorted(fold[h], key=sort_key))}")
+            if fresh:
+                print(f"  待新写 {len(fresh)} 条：" + " ".join(sorted(fresh, key=sort_key)))
         if len(t) == 1 and names:
             print(f"  其中首字母大写 {len(names)} 条（均在 keep 名单内，需要收）")
         if show_names and names:

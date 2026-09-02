@@ -89,8 +89,10 @@ python3 scripts/coverage.py ab ac    # 看具体缺哪些词
 Ayurvedic medicine、Alzheimer's 收，纯人名地名商标（Aaron、Aberdeen、Aga™）不收。
 判断标准是「背了对英语能力有没有帮助」。名单在 `reference/proper-nouns-keep.txt`，
 逐条过完记在那里，不再重复讨论。
-② **短语动词已在对应词条里作为搭配出现过的，不必单列** —— abide by 写在 abide 条里
-就算收了。脚本会去正文里搜，自动判定。
+② **多词条目和派生词一律并进词根的词条，不单列** —— abide by、abound in 写进
+abide / abound 条，abrasively、abrasiveness 写进 abrasive 条，并各配例句。
+只有词根本身也没收时才新立词条（这时要把词根反向补进来）。
+脚本会去正文里搜，自动判定是否已覆盖，缺口报告分成「待并入」和「待新写」两栏。
 
 **第一次跑它就推翻了此前的结论**：我宣布「a 字母全部收全 1288 条」，
 实际清单有 3021 条，只收了 41%，26 个双字母段无一收全。漏的主要是三类：
