@@ -24,6 +24,13 @@ def main(prefix, size):
         print("\n❌ 编号不连续，合并中止：")
         for g in gaps: print("  " + g)
         return 1
+    # B 是按牛津高阶字母顺序编排的，但补收的词会在后面的批次里生成，
+    # 光按文件名顺序拼会让后补的 a 段词排到 b 段词后面。
+    # 所以 B 在合并时按词条首行重新排字母序 —— 生成顺序就不再要紧。
+    # A 不能这么做：A 是按词频由简到难排的，排字母序会毁掉难度梯度。
+    if prefix == 'B':
+        entries.sort(key=lambda b: b.split('\n')[0].strip().lower())
+        print("\n  B：已按字母顺序重排")
     n = len(entries)
     made = []
     for i in range(0, n, size):
