@@ -22,6 +22,15 @@ import sys, io, csv, glob, os, string
 sys.path.insert(0, 'scripts')
 from wordkey import sort_key, prefix
 
+def keep_names():
+    """首字母大写的词头里，哪些算「已经进了词汇」。见 reference/proper-nouns-keep.txt。
+    用户裁定：收 Achilles tendon、Adam's apple 这类已成词汇的，
+    不收纯人名地名商标 —— 判断标准是「背了对英语能力有没有帮助」。"""
+    f = 'reference/proper-nouns-keep.txt'
+    if not os.path.exists(f): return None
+    return {sort_key(l.strip()) for l in io.open(f, encoding='utf-8')
+            if l.strip() and not l.startswith('#')}
+
 def load_reference():
     """读 reference/ 下的 csv 与 txt，返回过滤去重后的 {归一化键: 原词}。"""
     words = []
@@ -38,6 +47,7 @@ def load_reference():
         words += [l.strip() for l in io.open(f, encoding='utf-8', errors='replace')
                   if l.strip() and not l.startswith('#')]
 
+    keep = keep_names()
     out = {}
     for w in words:
         if w.startswith('-') or w.endswith('-'):      # 词缀条目，不收
@@ -47,24 +57,41 @@ def load_reference():
             continue
         k = sort_key(w)
         if not k: continue
+        if w[:1].isupper() and keep is not None and k not in keep:
+            continue                                   # 纯人名地名商标，不收
         # 同一条目的多种写法，保留带空格那版（更接近词典写法）
         if k not in out or (' ' in w and ' ' not in out[k]):
             out[k] = w
     return out
 
 def collected():
-    got = {}
+    """返回 (已收词条键集合, 首词 -> 该词条全文)。
+    第二个用来判断多词条目是否已作为搭配写在对应词条里 —— 用户裁定：
+    abide by、abound in 这类短语动词，只要在 abide / abound 条里
+    已经作为搭配出现过，就不必再单列。"""
+    got, text = {}, {}
     for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
         for b in io.open(f, encoding='utf-8').read().split('\n\n'):
-            if b.strip():
-                w = b.strip().split('\n')[0].strip()
-                got[sort_key(w)] = w
-    return got
+            b = b.strip()
+            if not b: continue
+            w = b.split('\n')[0].strip()
+            got[sort_key(w)] = w
+            text.setdefault(sort_key(w)[0], []).append(b.lower())
+    return got, text
+
+def phrase_covered(w, got, text):
+    """多词条目：首词已收，且短语本身出现在那条词条的正文里，就算覆盖。"""
+    k = sort_key(w)
+    if len(k) < 2: return False
+    if (k[0],) not in got: return False
+    needle = ' '.join(k)
+    return any(needle in t.replace('-', ' ') for t in text.get(k[0], []))
 
 def main(argv):
     show_names = '--names' in argv
     argv = [a for a in argv if a != '--names']
-    ref, got = load_reference(), collected()
+    ref = load_reference()
+    got, text = collected()
     if not ref:
         print("reference/ 里没找到词头文件"); return 2
 
@@ -73,7 +100,8 @@ def main(argv):
     for t in targets:
         sel = {k: v for k, v in ref.items() if prefix(v, len(t)) == t or (len(t) == 1 and k[0][:1] == t)}
         if not sel: continue
-        missing = {k: v for k, v in sel.items() if k not in got}
+        missing = {k: v for k, v in sel.items()
+                   if k not in got and not phrase_covered(v, got, text)}
         names = [v for v in missing.values() if v[:1].isupper()]
         grand_ref += len(sel); grand_got += len(sel) - len(missing)
         pct = (len(sel) - len(missing)) * 100 // len(sel)
@@ -89,9 +117,9 @@ def main(argv):
         else:
             body = [v for v in missing.values() if not v[:1].isupper()]
             if body: print("  缺（普通词）：" + " ".join(sorted(body, key=sort_key)))
-            if names: print(f"  缺（首字母大写，多为人名地名商标，待裁定）{len(names)} 条：" + " ".join(sorted(names)[:20]))
+            if names: print(f"  缺（首字母大写，均在 keep 名单内）{len(names)} 条：" + " ".join(sorted(names)[:20]))
         if len(t) == 1 and names:
-            print(f"  其中首字母大写 {len(names)} 条（人名地名商标等，待裁定是否收）")
+            print(f"  其中首字母大写 {len(names)} 条（均在 keep 名单内，需要收）")
         if show_names and names:
             print("  大写条目：" + " ".join(sorted(names)))
     if len(targets) > 1 or len(targets[0]) == 1:

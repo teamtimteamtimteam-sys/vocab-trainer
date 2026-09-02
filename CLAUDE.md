@@ -84,6 +84,14 @@ python3 scripts/coverage.py ab ac    # 看具体缺哪些词
 脚本按用户裁定的边界过滤清单（词缀、全大写缩写不收），并把清单里同一条目的
 空格版与连字符版（abide by / abide-by）归一化合并。
 
+两条用户裁定已写进脚本：
+① **首字母大写的条目只收「已经进了词汇」的** —— Achilles tendon、Adam's apple、
+Ayurvedic medicine、Alzheimer's 收，纯人名地名商标（Aaron、Aberdeen、Aga™）不收。
+判断标准是「背了对英语能力有没有帮助」。名单在 `reference/proper-nouns-keep.txt`，
+逐条过完记在那里，不再重复讨论。
+② **短语动词已在对应词条里作为搭配出现过的，不必单列** —— abide by 写在 abide 条里
+就算收了。脚本会去正文里搜，自动判定。
+
 **第一次跑它就推翻了此前的结论**：我宣布「a 字母全部收全 1288 条」，
 实际清单有 3021 条，只收了 41%，26 个双字母段无一收全。漏的主要是三类：
 多词条目（absolute zero、absentee landlord、above board）、

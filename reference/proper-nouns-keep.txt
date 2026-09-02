@@ -1,0 +1,137 @@
+# 首字母大写的词头里，哪些算「已经进了词汇」而要收。
+# 用户裁定的标准：背了对英语能力有帮助吗？
+#   收 —— 已成普通词汇的固定表达、族群语言名、常用派生词、学科与文化概念
+#   不收 —— 纯人名（Aaron、Alice）、纯地名（Aberdeen、Azerbaijan）、
+#           商标（Aga™、Andrex™）、缩写（Ave.、Assn.）
+# 一行一个，coverage.py 只把这里列出的大写条目算进应收范围。
+
+# --- 字母／等级／型号构成的普通名词 ---
+A-bomb
+A-frame
+A-frame tent
+A-line
+A-list
+A-lister
+A-road
+A-side
+A-team
+A student
+A2 (level)
+AS (level)
+ATM card
+
+# --- 已成普通词汇的固定表达 ---
+Achilles heel
+Achilles tendon
+Adam’s apple
+Advent calendar
+Aladdin’s cave
+Alexander technique
+Alice band
+Allen key
+Allen screw
+Alt key
+Alpine skiing
+Anderson shelter
+Arabic numeral
+Aran jumper
+Arctic tern
+Augean stables
+Austrian blind
+Ayurvedic medicine
+Asperger’s syndrome
+Associate's degree
+American breakfast
+American cheese
+American football
+American plan
+Afghan coat
+Afghan hound
+African violet
+African renaissance
+Anthony dollar
+
+# --- 医学与学科概念 ---
+Alzheimer’s
+Anthropocene
+Australopithecus
+Aquarian
+Aquarius
+Aries
+Aristotelian
+Arthurian
+Augustan
+Arcadian
+Antipodean
+Atlanticism
+Atlanticist
+Americana
+Americanism
+Americanization
+Americanize
+Anglicism
+Anglophile
+Anglophobe
+Anglophobia
+Anglophobic
+Afrocentric
+Armageddon
+Antichrist
+Antifa
+Anzac
+Aryan
+Amerindian
+Amerasian
+Angeleno
+Aussie
+
+# --- 族群、语言、宗教派别 ---
+Afrikaans
+Afrikaner
+Afro
+Afrobeat
+Africa
+African
+American
+Arab
+Arabian
+Arabic
+Aramaic
+Algonquian
+Anasazi
+Apache
+Arapaho
+Arawak
+Amish
+Anabaptist
+Anglican
+Ashkenazi
+Asiatic
+Acadian
+
+# --- 常用国族形容词（构词规律本身就是知识点）---
+Aberdonian
+Afghan
+Albanian
+Algerian
+Andorran
+Angolan
+Antiguan
+Argentine
+Argentinian
+Armenian
+Australasian
+Australian
+Austrian
+Azerbaijani
+Azeri
+
+# --- 已成通名的品种与物品 ---
+Airedale
+Alsatian
+Arborio
+Armagnac
+Amtrak
+Android
+Airbus
+AstroTurf
