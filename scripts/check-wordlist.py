@@ -64,6 +64,10 @@ def parse(path):
             tr = re.sub(r'[\"“”「」][^\"“”「」]*[\"“”「」]', ' ', s['tr'])
             stray = [w for w in re.findall(r'[A-Za-z]{3,}', tr) if not w[0].isupper()]
             if stray: e['issues'].append("例句 %s 的中文译文里混入英文：%s" % (NUMS[i], "、".join(stray)))
+            # 反方向同样要查：英文例句里混进汉字（打字时中英输入法没切）。
+            # 我写 "Supply and demand決定价格" 时就犯过，靠肉眼才发现。
+            cjk = re.findall(r'[\u4e00-\u9fff]+', s['ex'])
+            if cjk: e['issues'].append("例句 %s 的英文里混入中文：%s" % (NUMS[i], "、".join(cjk)))
         out.append(e)
     return out
 
