@@ -87,6 +87,52 @@ albeit/although。归档区是现成的交叉验证源 —— 里面凡属于「
 
 ## app 本体
 
-源码 `index.html` 单文件 PWA，部署在 GitHub Pages。规则参数集中在文件顶部常量
-`GROUP_SIZE / INTERVALS / DAILY_CAP / DAY_START`。用户拍板过的规则和视觉裁决见
-`~/.claude/projects/-Users-timchen/memory/vocab-trainer-ipad.md`，不要擅自改动。
+源码 `index.html` 单文件 PWA，数据存 IndexedDB(`vocab_v1`)，设置存 localStorage。
+已部署到 GitHub Pages：https://teamtimteamtimteam-sys.github.io/vocab-trainer/
+开发服务器见 `~/.claude/launch.json` 的 `vocab-trainer`（python3 http.server 8413）。
+参数集中在 `index.html` 顶部常量 `GROUP_SIZE / INTERVALS / DAILY_CAP / DAY_START`。
+
+### 用户拍板的规则，不要擅自改动
+
+严格 50 词一组，不满 50 进暂存区等下次导入补满；艾宾浩斯**以组为单位**调度，
+间隔 1/2/4/7/15/30 天共 6 轮，走完归档为「已掌握」；每日复习配额 5 组（逾期优先，
+超出部分不计入解锁条件）；**门禁硬锁无后门** —— 当日配额未清完就不能背新词；
+一次只背一组、一天只背一组（**但重置「今天消耗掉额度的那一组」会退还当日额度**，
+靠 `lastNewGroupId` 判定；重置旧组不退，否则可以刷）；一天以凌晨 4:00 为分界；
+复习只显示英文单词+英文例句，「记不清」的词展开全部内容并进入本组下一轮，
+循环到全部「还记得」。
+
+这些规则是一次 4 轮 grilling 逐条问出来并由用户裁决的，其中门禁和「一天一组」
+是用户主动追加的自律需求，不是默认设计。
+
+### 视觉
+
+基底近白 `#FBFBFA`，绿与墨黑只渗在四角，中心用 `--core` 洗回近白保证正文不带色。
+玻璃两级：内容面板 `--glass` .86、chrome `--glass-chrome` .72。品牌绿 `#1B8A3D`
+用于色块/填充/进度环；浅色底上的**小号绿字**另用 `--green-text` `#177C34`
+（品牌绿配白字只有 4.42，差 AA 一点点）；深色下两者都是 `#40B968`。
+**绿色只用于重点与掌握状态，不作装饰**。字体三个角色：英文衬线 / 中文苹方 /
+**数据等宽**（组号、12/50、R3、日期）—— 等宽绝不套在中文标签上，否则字距会把
+「这里：」拉开。签名元素是螺旋进度环 `ring()`。用户明确否决过背景里的大螺旋球
+线稿，不要再加回来。
+
+收藏夹：星标在词卡标题栏，存 meta 的 `starredIds` 数组（数组顺序即收藏先后，
+不动 IndexedDB schema）。复习点「记不清」给词的 `forgotCount` +1，供「忘得最多」
+排序。**星标用墨黑不用绿** —— 绿在本项目表示「重点与已掌握」，收藏夹装的是没掌握
+的词，用绿会让语义打架。
+
+### app 相关的坑
+
+① 主题差异**一律走 CSS 变量**，绝不写 `html[data-theme=dark] .某组件` —— 它的
+优先级 (0,2,1) 会压过 `.btn.ghost`(0,2,0) 这类变体，曾导致深色下四个按钮黑字黑底。
+② 别用 `JSON.stringify(字符串)` 往 `onclick="..."` 里拼参数，双引号会截断属性；
+用 data 属性 + 事件委托。
+③ JS 里的内联 `style="color:..."` 会压过 CSS 规则，改设计系统时要一起清。
+④ 用户量级目标 10 万+ 词、分批导入，避免任何全表 `getAll()`（备份导出已改成
+游标分块）。
+⑤ iPad 上必须从主屏幕图标进入才能豁免 Safari 的 7 天存储清理。
+**iOS Safari 打不开本地 file:// 网页**，必须走 HTTPS 托管 —— 这也是 Service
+Worker 的硬性前提（局域网 http:// 不是安全上下文，注册会失败）。
+⑥ **origin 绑定存储**：换域名等于清空进度，只能靠导出/导入备份 JSON 迁移。
+⑦ 改代码后 `git push` 即自动重新部署；SW 用 stale-while-revalidate，
+用户下次打开生效。
