@@ -1,28 +1,3 @@
-barge
-核心：底层是"平底的运货船"——吃水浅、走内河运河、多半靠拖带，
-所以又慢又笨重。动词那一支正是从这个"笨重地挤过去"的印象来的：
-barge in 是不打招呼硬闯进来，barge into 是撞上人。
-习语 wouldn't touch it with a bargepole 指嫌弃到根本不想沾。
-① Coal came down the canal by barge.
-= 煤是走运河用驳船运来的。
-by barge = 用驳船运
-② The barge moored below the lock.
-= 那条驳船泊在闸下。
-③ He barged in without knocking.
-= 他没敲门就闯了进来。
-barge in = 冒失闯入
-④ She barged into me on the stairs.
-= 她在楼梯上撞了我一下。
-barge into = 撞上、猛挤
-⑤ I wouldn't touch it with a bargepole.
-= 那事我碰都不想碰。
-not touch with a bargepole = 避之唯恐不及（英式）
-⑥ The bargee waved from the tiller.
-= 驳船工在舵柄旁挥手。
-bargee = 驳船船工（英式）
-注意语域：
-动词义带责怪口气，说人莽撞无礼。
-
 barista
 核心：咖啡馆里做咖啡的人——意大利语借词，本义就是"吧台工作者"。
 英语里专指手冲和意式咖啡机后面那位，强调这是门手艺，
@@ -390,6 +365,20 @@ barter economy = 易货经济
 barter = 以物易物（不用钱）
 bargain = 讨价还价（谈价钱）
 
+basalt
+核心：分布最广的一种火山岩——岩浆喷出地表后快速冷凝形成，
+颜色深、结晶细。冷却时收缩开裂，常形成六边形柱状节理，
+北爱尔兰的巨人堤就是这么来的。
+① The cliffs are made of basalt.
+= 那些崖壁是玄武岩的。
+② Basalt cools quickly at the surface.
+= 玄武岩在地表迅速冷却。
+③ Columnar basalt forms hexagons.
+= 柱状玄武岩会形成六边形。
+columnar basalt = 柱状玄武岩
+注意语域：
+地质学岩石名称。
+
 base
 核心：底层是**底下承托的那一层**。往实物上说是底座、底部；
 往军事上说是基地——部队的立足处；往组织上说是总部；
@@ -456,6 +445,61 @@ based in = 驻在某地（地理位置）
 注意同音：
 base 与 bass（低音）读音相同，拼写不同。
 
+bash
+核心：底层是"重重地一下"。名词是那一击，也指撞出来的凹痕；
+动词是狠敲、猛撞，引申指"猛烈抨击"（bash the government）。
+英式口语另有两层：have a bash 是"试一把"，
+a bash 也指一场热闹的派对。短语动词一族都从"使劲"来：
+bash out 是赶工做出来，bash on 是硬着头皮接着干。
+① He gave the lid a bash.
+= 他重重敲了一下盖子。
+give something a bash = 狠敲一下
+② She bashed her knee on the table.
+= 她膝盖重重撞在桌子上。
+bash something on = 撞到…上
+③ The paper bashed the minister.
+= 那家报纸猛批那位大臣。
+bash somebody = 抨击某人
+④ I'll have a bash at it.
+= 我来试一把。
+have a bash at = 试一试（英式口语）
+⑤ They threw a birthday bash.
+= 他们办了场生日派对。
+a bash = 一场热闹派对
+⑥ He bashed out a report overnight.
+= 他一夜之间赶出了一份报告。
+bash out = 赶工写出、匆匆做出
+⑦ Let's bash on till lunch.
+= 咱们接着干到午饭吧。
+bash on = 硬着头皮继续
+⑧ Vandals bashed the door in.
+= 破坏者把门砸开了。
+bash in = 砸开、砸凹
+注意语域：
+非正式，英式口语里那几层用得最多。
+
+bashful
+核心：形容词，指"腼腆害羞的"——尤其是在人前显得局促、不好意思。
+它跟 shy 的分别很细：shy 说的是天性怕生，
+bashful 更强调此刻的不好意思，常带点可爱的意味。
+名词是 bashfulness。
+① He gave a bashful smile.
+= 他不好意思地笑了笑。
+a bashful smile = 腼腆的笑
+② She was bashful about praise.
+= 别人一夸她就不好意思。
+be bashful about = 对…感到害羞
+③ He answered bashfully.
+= 他羞怯地答了话。
+bashfully = 腼腆地
+④ Her bashfulness soon wore off.
+= 她那点羞怯很快就没了。
+bashfulness = 腼腆
+注意别混：
+bashful = 不好意思的（此刻，常带可爱意味）
+shy = 怕生的（性格）
+embarrassed = 尴尬的（因出丑）
+
 basic
 核心：底层是"处在最底下那一层的"。往必要性上说是"基本的、
 必需的"——少了它就立不住；往程度上说是"最简单的、只够用的"，
@@ -482,94 +526,17 @@ basically = 说白了（口语里的缓冲词）
 注意语域：
 第三层说房间、设备时带轻微贬义。
 
-basis
-核心：抽象的"基础、依据"——一件事凭什么成立，凭的就是它。
-它跟 base 的分工很清楚：base 多指看得见的底座与地点，
-basis 只用于抽象。复数是 bases，读音跟单数不同。
-另一层指"方式、频次"，固定说法 on a ... basis。
-① The theory has no factual basis.
-= 那个理论没有事实依据。
-have no basis = 毫无根据
-② On what basis did you decide?
-= 你依据什么做的决定？
-on the basis of = 根据、依据
-③ They meet on a weekly basis.
-= 他们每周碰一次。
-on a weekly basis = 按周、每周
-on a regular basis = 定期地
-④ He works on a freelance basis.
-= 他以自由职业的方式工作。
-⑤ Trust is the basis of the relationship.
-= 信任是这段关系的基础。
-the basis of = …的基础
+basil
+核心：一种唇形科香草，叶片柔嫩、味甜带辛香，一加热就散味，
+所以意大利菜里多在起锅后才放。青酱的主料就是它。
+不可数。注意重音：英式在第一个音节，美式也在第一个音节，
+但元音不同。
+① Tear fresh basil over the pasta.
+= 把新鲜罗勒撕碎撒在意面上。
+fresh basil = 新鲜罗勒
+② Pesto is made with basil and pine nuts.
+= 青酱是用罗勒和松子做的。
+③ Basil wilts quickly in the fridge.
+= 罗勒在冰箱里很快就蔫。
 注意用法：
-复数是 bases，重音与单数不同。
-注意别混：
-base = 底座、基地（多为实物或地点）
-basis = 依据、基础（只用于抽象）
-
-battery
-核心：三个来源不同的义项，别硬扯到一起。
-一是"电池"——最常用的一层，源自把几个单元"排成一列"。
-二是"一排、一组"，a battery of tests 就是一整套检查，
-炮兵连也叫这个词，因为炮是一排排摆的。
-三是法律上的"殴打"，来自动词 batter（反复击打），
-跟前两层毫无关系。
-① The battery is flat.
-= 电池没电了。
-flat battery = 没电的电池（英式）
-dead battery = 没电的电池（美式）
-② Charge the battery overnight.
-= 电池充一夜。
-charge a battery = 给电池充电
-③ He faces charges of assault and battery.
-= 他面临殴打罪指控。
-assault and battery = 殴打（法律罪名）
-④ She underwent a battery of tests.
-= 她做了一整套检查。
-a battery of = 一整套、一系列
-⑤ An artillery battery shelled the ridge.
-= 一个炮兵连炮击了那道山脊。
-battery = 炮兵连
-⑥ Battery hens live in cages.
-= 笼养鸡关在笼子里。
-battery hen = 笼养鸡（一排排笼子）
-⑦ Recharge your batteries this weekend.
-= 这周末好好充充电。
-recharge one's batteries = 恢复精力
-注意别混：
-前两层同源（排成一列），第三层来自「击打」，
-三者只是碰巧同形。
-
-battle
-核心：底层是"两方交手"。军事上是一场具体的战斗——比 war 小，
-war 是整场战争、battle 是其中一仗。往外推是任何"较量、
-争夺"：官司、选举、抢市场；再往里推是跟疾病、心魔的"抗争"。
-动词是"苦斗"。习语围绕"胜负未定"：a losing battle 是注定打不赢的，
-half the battle 是最难的一半。
-① The battle lasted three days.
-= 那场战斗打了三天。
-② Waterloo was the decisive battle.
-= 滑铁卢是决定性的一战。
-③ They fought a legal battle for years.
-= 他们打了多年官司。
-a legal battle = 法律战
-④ She battled cancer for a decade.
-= 她跟癌症抗争了十年。
-battle something = 与…苦斗
-⑤ He battled against the current.
-= 他逆着水流苦撑。
-battle against = 与…搏斗
-⑥ It is a losing battle.
-= 那是注定打不赢的仗。
-a losing battle = 徒劳之争
-⑦ Getting started is half the battle.
-= 开了头就成功了一半。
-half the battle = 成功的一半
-⑧ The battlefield was littered with wreckage.
-= 战场上满是残骸。
-battlefield = 战场
-注意别混：
-battle = 一场战斗（一仗）
-war = 战争（整场）
-campaign = 战役（一系列战斗）
+不可数，说一株时用 a basil plant。

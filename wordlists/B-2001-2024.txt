@@ -1,27 +1,3 @@
-bait
-核心：底层是"引它上钩的那点东西"。钓鱼下的饵是本义；
-往人身上说是"诱饵"——摆出来引人上当的好处；作动词还有一层
-完全不同的意思："故意激怒"，反复挑衅让人发作。
-网络上的 clickbait 就是前一层，troll 干的事是后一层。
-① He put a worm on the hook as bait.
-= 他挂了条蚯蚓当饵。
-② The offer was just bait.
-= 那个报价不过是个诱饵。
-③ Don't rise to the bait.
-= 别上钩。
-rise to the bait = 中计、被激将
-④ They baited the trap with cheese.
-= 他们用奶酪做饵布了那个陷阱。
-bait a trap = 给陷阱下饵
-⑤ The boys baited him about his accent.
-= 那些男孩拿他的口音激他。
-bait somebody = 故意激怒某人
-⑥ The shop ran a bait-and-switch.
-= 那家店搞的是引诱调包那一套。
-bait-and-switch = 低价引客、到店换贵货
-注意用法：
-第三层是"激怒"，不是"引诱"，两层意思方向不同。
-
 bake
 核心：底层是"用干热把它烤熟"。跟油炸、水煮、明火烤的分别在于：
 它靠的是烤箱里循环的干燥热空气，所以面包糕点归它管。
@@ -613,3 +589,19 @@ banding = 分级、分段
 注意别混：
 band 一条带子／一群人（两支）
 bandage 绷带（专指包扎用的）
+
+bandage
+核心：包扎伤口用的布条或绷带，作动词是"给…包扎"。
+跟创可贴的分别在于：它是缠上去的一长条，不是贴上去的一小块。
+① She wound a bandage round his wrist.
+= 她给他手腕缠了绷带。
+wind a bandage = 缠绷带
+② The nurse bandaged the wound.
+= 护士给伤口做了包扎。
+bandage a wound = 包扎伤口
+③ Change the bandage daily.
+= 绷带每天要换。
+注意别混：
+bandage = 绷带（缠上去的长条）
+plaster = 创可贴（英式，贴上去的小片）
+Band-Aid = 创可贴（美式，原为商标）

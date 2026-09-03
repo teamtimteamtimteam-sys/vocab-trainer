@@ -143,3 +143,7 @@ ar           # a-r 同此，原形是全大写的 AR
 # --- 文学作品名：清洗成小写后绕过 keep 名单 ---
 A Midsummer Night's Dream   # 莎剧名
 A Rake's Progress           # 贺加斯组画与歌剧名
+
+bas          # 清单里孤零零一条，找不到对应词头，判为清洗残片
+basilect     # 社会语言学窄术语，同 acrolect 已排除
+batchmate    # 印度英语，同班同学

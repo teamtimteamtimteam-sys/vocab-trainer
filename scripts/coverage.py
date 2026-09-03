@@ -65,6 +65,7 @@ def load_reference():
                   if l.strip() and not l.startswith('#')]
 
     keep, skip = keep_names(), excluded()
+    RAW_LOWER = {w.lower() for w in words}   # 判同形词编号伪影时要查裸形在不在
     out = {}
     for w in words:
         # 商标条目：清单里有两种写法，带真 ™ 的 400 条，
@@ -79,6 +80,13 @@ def load_reference():
             continue
         if re.search(r'_\d+$', w):                    # 清单里的编号伪影
             continue                                   # abstract-expressionist_1 / _2
+        # 同形词编号：清单把 bass¹ bass² 洗成 bass1 bass2，全表 47 条
+        # （lead2、live1、sow1、used1、pace2…）。不能一刀切去数字，
+        # 因为 MP3、MI5、ITV2、A1、U2、Omega-3 是真词头。
+        # 条件收窄成「全小写 + 去掉数字后的裸形也在清单里」，实测
+        # 恰好把 47 条伪影与 10 条真词头分干净。
+        if re.fullmatch(r'[a-z][a-z-]*[0-9]', w) and w[:-1] in RAW_LOWER:
+            continue
         # 所有格的清洗伪影：清单里同一条目有 Adam’s apple 和 adam-s-apple 两版，
         # 后者把撇号洗成了连字符，于是被切成三个词、跟前者对不上，
         # 结果 Adam's apple 明明写在 apple 条里却一直报缺。全表 178 条同此。
