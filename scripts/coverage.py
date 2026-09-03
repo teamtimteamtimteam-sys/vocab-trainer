@@ -128,7 +128,10 @@ FUNCTION_WORDS = {
     'a','an','the','of','in','on','at','by','to','for','with','from','into','onto',
     'over','under','up','down','out','off','through','across','along','around',
     'and','or','but','not','no','as','than','that','this','these','those',
-    'be','is','are','was','were','been','being','it','its','one','any','some',
+    'be','is','are','was','were','been','being','it','its','one','some',
+    # 'any' 同 'all'：它是量词不是虚词。any more、any time 的重心就在 any，
+    # 段里已有 anybody / anyone / anytime / anywhere 各自立条，
+    # 两个词的写法没有理由被推去 m 段和 t 段。
     # 'all' 不在这里 —— 它跟 at / by / in 不是一回事。all-star、all-purpose、
     # all-terrain 的重心就在 all，等 star / purpose / terrain 各自的字母段
     # 只会把它们推到错的地方去（同 agro-industry 那条裁定）。
