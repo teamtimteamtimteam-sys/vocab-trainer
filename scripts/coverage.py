@@ -91,6 +91,12 @@ def load_reference():
         # AS (level)、A2 (level)、catty-corner(ed)、(the) Netherlands。
         # 全表 9 条，去掉括号符号、保留里面的字就能跟正常写法归一。
         w = w.replace('(', '').replace(')', '').strip()
+        # 全由单字母加连字符组成的，是带点缩略语被洗掉句点的产物：
+        # a-m = a.m.，p-m = p.m.，e-g = e.g.，i-e = i.e.，d-b-a、o-n-o 同此。
+        # 拼合起来就能跟带点写法归一（sort_key 本来就去句点）。全表 15 条，
+        # 没有哪个真词是这个形状，拼合是安全的。
+        if re.fullmatch(r'[A-Za-z](-[A-Za-z])+', w):
+            w = w.replace('-', '')
         if w.startswith('-') or w.endswith('-'):      # 词缀条目，不收
             continue
         bare = w.replace('.', '').replace('-', '').replace(' ', '')

@@ -18,6 +18,7 @@ ach          # 苏格兰/爱尔兰感叹词
 aapa         # 印度英语，姐姐
 achcha       # 印度英语，好的
 achkan       # 印度英语，男式长外套
+ayah         # 印度／南亚英语，保姆、奶妈（同 amah）
 askari       # 东非（斯瓦希里语借词）的士兵、警卫
 arré         # 印度英语的招呼／惊讶感叹词
 appa         # 印度英语，父亲／兄长的称呼
@@ -114,3 +115,13 @@ astatine     # 自然界总量以克计的最稀有元素
 any-questions               # 英国广播公司的一档节目名
 antonio-lopez-de-santa-anna # 墨西哥将领人名
 and-or                      # 与 and/or 同条，取带斜杠的正式写法
+
+# --- 无法归一的缩略语伪影：& 号或斜杠被洗成了连字符 ---
+# 拼合后仍对不上任何词条，因为原形用的是 & 或 /：
+#   a-r = AR（全大写缩写，本就不收）  a-e 同此
+# 后面字母段还有 7 条同类：c-w、j-d、m-s、r-b、r-d、r-r、m-a-s-h。
+ae           # a-e 拼合后的形式，原是被洗掉符号的缩略语
+ar           # a-r 同此，原形是全大写的 AR
+# --- 文学作品名：清洗成小写后绕过 keep 名单 ---
+A Midsummer Night's Dream   # 莎剧名
+A Rake's Progress           # 贺加斯组画与歌剧名
