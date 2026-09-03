@@ -158,6 +158,75 @@ a 段第一次只收 10%、ab- 段只收 31% 都是这么来的。排除只按�
 而 `achcha` 是印度英语的词、`ach` 是苏格兰英语的词，两者都是英语的
 **地区变体**，和 British/American English 是同一层级的区分。
 
+## 多词条目归哪一条：看重心，不看第一个词也不看虚词表（用户裁定）
+
+规则②说「多词条目并进词根」，但「哪个是词根」要按**重心**判，
+不能机械地取内容词或第一个词：
+
+- **构词成分不算内容词**。agro-industry 的重心在「农业」，
+  agro- 永远不会单独立条，等 industry 到 i 段也等不来正确归属 ——
+  它跟 agribusiness、agrochemical、agroforestry 同族，就在 ag- 段解决。
+  同理 all-star 的重心在 all，alpha male 的重心在 alpha。
+- **`all` 与 `any` 不是虚词**，已从 coverage 的 FUNCTION_WORDS 里拿掉。
+  它们跟 at / by / in 不是一回事：段里 anybody / anytime / all right /
+  all-round 都各自立条，两个词的写法没道理被推去 s 段或 m 段。
+- **前缀相同不等于同源**。coverage 按前缀猜宿主，经常猜错：
+  afara 不是 afar 的派生（西非木材树名）、agogo 不是 agog、
+  akinesia 不是 akin、albumen 不是 album、allotrope 不是 allot、
+  altocumulus 的 alto- 是「中层云」不是女低音、analgesic 不是 anal、
+  angstrom 不是 angst、annular 不是 annul、Antiguan 不是 anti-。
+  这类一律另立词条，并在词条里写一行「注意别混」。
+
+## 复合词是并入还是单列：按常用度分流（用户裁定）
+
+一个词根带出几十个多词条目时（air 有 41 个、all 有 37 个、
+back 有 90 余个），不要一刀切。**高频的各自立条，冷僻的并进词根**：
+
+- 立条：air traffic control、all-time、backache、baseball —— 学的人
+  真会遇到，值得有自己的卡片。
+- 并入：air commodore 那一族军衔、all-points bulletin、
+  back button —— 冷僻或成族，做成对照块反而更清楚。
+
+判断标准是「学的人会不会在一般阅读里碰到」，不是词频表。
+段里已有的先例是最好的依据：ai- 段已有 air force / air raid /
+air conditioning 独立成条，后来的 air X 就照这个走。
+
+## 并入失效的两种模式（写完必须跑 coverage 验收）
+
+`derived_covered` 认「派生词以词根前四个字母打头」，
+所以下面两种并入写了也不算数，必须改成单列或另立词头：
+
+1. **词根不足 3 个字母**：aptness 并进 apt 不算（下限已从 4 放宽到 3，
+   1-2 个字母的词根仍然不认）。
+2. **派生词换了字母**：baking powder 并进 bake 不算 ——
+   「baking」不以「bake」打头。解法是先立 baking 这个词头，
+   那一族才认得上。
+
+所以每批写完都要跑 coverage，不能凭「我写进去了」就算数。
+
+## 清单的清洗伪影：已处理的与必须逐条判的
+
+`reference/` 那份词头清单是机器清洗过的，留下几类伪影。
+coverage.py 里已经自动处理的（都逐条核对过零误伤）：
+
+| 伪影 | 数量 | 处理 |
+|---|---|---|
+| 撇号洗成连字符（adam-s-apple、ain-t、macy-s） | 198 | 还原成撇号 |
+| 商标粘死（airbustm、coketm、bluetoothtm） | 128 | 一律过滤 |
+| 同形词编号（bass2、lead2、used1） | 47 | 全小写且裸形存在才去数字 |
+| 单字母连字符缩略语（a-m = a.m.、e-g = e.g.） | 15 | 拼合 |
+| 括号标可选部分（AS (level)、(the) Netherlands） | 9 | 去括号 |
+| 推不出来的撇号（baha-i、maitre-d） | 2 | 显式对照表 |
+
+**不能自动处理、必须逐条判的两类**：
+- **裸词与词缀条目并存** 130 处。多数裸词是真词（able、age、all、
+  anti、cross、ex、Afro），自动删会毁掉一批常用词；
+  只有 aholic、ance、arian、ary 这种确实是词缀掉了连字符。
+- **所有格专名** 106 条。清洗把 Aesop's Fables 洗成小写的
+  aesop-s-fables，绕过了「首字母大写才查 keep 名单」那一步，
+  于是 hadrian-s-wall、king-s-cross、mother-s-day 这类纯专名
+  会一路报缺。到各字母段逐条判，判完记进 exclude.txt。
+
 ## 并入怎么做
 
 派生词和多词条目不单列，写进词根条里并**补例句**。做法是在目标词条末尾追加：
@@ -183,6 +252,13 @@ python3 scripts/audit-prefix.py a             # 查有没有整段漏掉
 python3 scripts/pull-pending.py --prune       # 清理已收录的归档条目
 python3 scripts/merge-wordlist.py A 3000      # 合并成可导入的大文件
 ```
+
+**开新字母段之前必须先跑 `pull-pending.py`。** 归档区放着早期超前写的词，
+到相应字母段该取回复用。开 b 字母时忘了跑，结果 baby / back / bad / bag /
+balance / ball / ban / band / bank 等 11 条从头重写了一遍。
+（那次损失只是白费力气 —— 归档版都薄得多，新版是升级；
+但流程该走还得走。）正确做法：取回当核对清单 → 按当前标准重写 →
+写完 `--prune`。
 
 **动笔前必须先列出该字母段的牛津高阶词条清单跑差集。** 凭手感列词已经出过四次
 漏收，而且每次都是用户发现的：

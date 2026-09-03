@@ -49,12 +49,20 @@ def main():
     # 下一步做什么，直接算出来 —— 冷启动照着做即可，不必翻聊天记录
     try:
         import subprocess, re as _re
-        out = subprocess.run([sys.executable, 'scripts/coverage.py', 'a'],
-                             capture_output=True, text=True).stdout
-        # 只剩「待推迟」的段现在做不了（内容词还在后面的字母段），要跳过 ——
-        # 否则冷启动会被指去补一个动不了的段。
-        cand = [l.split()[0] for l in out.splitlines()
-                if l.strip().startswith('a') and '← 缺' in l]
+        # 从当前在做的那个字母开始找，做完就往后顺延 ——
+        # 原来这里写死了 'a'，a 字母收全之后就再也不给下一步了。
+        cur = prefix(B[-1], 1) if B else 'a'
+        letters = [c for c in string.ascii_lowercase if c >= cur]
+        cand, out = [], ''
+        for L in letters:
+            out = subprocess.run([sys.executable, 'scripts/coverage.py', L],
+                                 capture_output=True, text=True).stdout
+            # 只剩「待推迟」的段现在做不了（内容词还在后面的字母段），要跳过 ——
+            # 否则冷启动会被指去补一个动不了的段。
+            cand = [l.split()[0] for l in out.splitlines()
+                    if l.strip().startswith(L) and '← 缺' in l]
+            if cand:
+                break
         nxt = None
         for c in cand:
             det = subprocess.run([sys.executable, 'scripts/coverage.py', c],
@@ -69,6 +77,27 @@ def main():
             print()
     except Exception:
         pass
+    # 当前任务目标：放在 reference/GOAL.txt，不写进 CLAUDE.md ——
+    # 那份文件只写不会变的规格，目标是会变的。
+    try:
+        import io as _io, os as _os
+        gf = 'reference/GOAL.txt'
+        if _os.path.exists(gf):
+            lines = [l.rstrip() for l in _io.open(gf, encoding='utf-8')
+                     if l.strip() and not l.startswith('#')]
+            if lines:
+                head = lines[0].split()
+                if len(head) == 2 and head[0] == 'B':
+                    goal = int(head[1])
+                    left = goal - len(B)
+                    print("当前目标：B 词表 %d 条 —— 现有 %d，还差 %d"
+                          % (goal, len(B), left) if left > 0
+                          else "当前目标：B 词表 %d 条 —— 已达成（现有 %d）" % (goal, len(B)))
+                for l in lines[1:]:
+                    print("  " + l)
+                print()
+    except Exception as e:
+        print("（读 reference/GOAL.txt 出错：%s）" % e)
     print("每收完一个字母段的固定动作")
     print("  0. python3 scripts/coverage.py a         对照牛津高阶词头清单查缺 ★最重要")
     print("  1. python3 scripts/audit-prefix.py a      查双字母段有没有整段漏掉")
