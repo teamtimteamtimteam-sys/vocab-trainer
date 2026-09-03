@@ -72,6 +72,28 @@ agrotourism = 农业旅游（同义异拼）
 agritourism = 农业旅游（到农场体验农活）
 ecotourism = 生态旅游（看自然、讲环保）
 
+agro-industry
+核心：指"农业工业"——把农产品的种植、加工、包装和销售按工业化方式
+组织起来的产业。词头强调的是农业，「industry」只是说它的组织方式，
+所以它跟 agribusiness、agrochemical 是一族。形容词是 agro-industrial。
+① Agro-industry employs most of the region.
+= 农业工业雇了那个地区的大部分人。
+② The country is building an agro-industry base.
+= 那个国家在建农业工业基地。
+agro-industry base = 农业工业基地
+③ Agro-industrial complexes line the river.
+= 农工联合体沿河排开。
+agro-industrial = 农业工业的
+④ Agro-industrial waste pollutes the soil.
+= 农业工业的废弃物污染了土壤。
+agro-industrial waste = 农工废弃物
+注意用法：
+统称时不可数，指具体产业时可数。
+近义对照：
+agro-industry = 农业工业（按工业方式组织的农业）
+agribusiness = 农业综合企业（一体化经营的公司）
+manufacturing = 制造业（不限于农产品）
+
 agrochemical
 核心：指"农用化学品"——化肥、农药、除草剂这类用在农业生产上的
 化学制剂。多用复数指具体产品，也可作形容词。
@@ -428,20 +450,3 @@ army = 陆军
 navy = 海军
 air force = 空军
 marines = 海军陆战队
-
-air raid
-核心：指从空中发动的"空袭"。二战和现代冲突报道里高频。
-可数，两个词分写。
-① The city suffered air raids.
-= 那座城市遭到空袭。
-suffer air raids = 遭受空袭
-② Air raid sirens sounded.
-= 空袭警报响了。
-air raid siren = 空袭警报
-③ They sheltered during the air raid.
-= 空袭时他们躲了起来。
-air raid shelter = 防空洞
-近义对照：
-air raid = 空袭（一次行动）
-airstrike = 空中打击（军事术语）
-bombing = 轰炸（通用）

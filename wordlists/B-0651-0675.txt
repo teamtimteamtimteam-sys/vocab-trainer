@@ -1,3 +1,18 @@
+alcove
+核心：指墙上凹进去的一块"壁龛、凹室"，可以放床、书架或雕像。
+建筑和室内设计用语。
+① A bed fits in the alcove.
+= 那个凹室正好放张床。
+② The statue stands in an alcove.
+= 那尊雕像立在壁龛里。
+③ They built shelves into the alcove.
+= 他们在凹室里做了架子。
+注意发音：/ˈælkəʊv/
+近义对照：
+alcove = 墙上凹室（较大）
+niche = 壁龛（较小，放摆件）
+recess = 凹进处（通用）
+
 ale
 核心：一类啤酒，用上层发酵法酿造，比 lager 味浓色深。
 不可数为主，点酒时可数。
@@ -432,24 +447,3 @@ allay suspicions = 消除疑虑
 allay = 平息（担忧、恐惧）
 alleviate = 减轻（痛苦、问题）
 relieve = 缓解（通用）
-
-allegation
-核心：指"未经证实的指控"，这是它和 accusation 的关键差别——
-allegation 强调"只是说法，还没证实"，新闻里为了免责大量使用。
-介词用 of 或 against。
-① He denied the allegations.
-= 他否认了那些指控。
-deny allegations = 否认指控
-② There are allegations of fraud.
-= 有诈骗指控。
-allegations of = 关于…的指控
-③ The allegation against her was false.
-= 针对她的指控不实。
-allegation against = 针对…的指控
-④ She made serious allegations.
-= 她提出了严重指控。
-词族：allege = 指称
-注意区别：
-allegation 指控（未经证实）
-accusation 指控（可正式可日常）
-charge 控罪（法律正式提出）

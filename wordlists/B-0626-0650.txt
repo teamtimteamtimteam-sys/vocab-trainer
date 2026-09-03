@@ -1,3 +1,19 @@
+airstrip
+核心：指简易的"飞机跑道"，通常在偏远地区，
+没有航站楼和塔台。
+① They landed on a dirt airstrip.
+= 他们降落在一条土跑道上。
+dirt airstrip = 土质跑道
+② The airstrip is too short.
+= 那条跑道太短。
+③ A jungle airstrip was built.
+= 修了一条丛林跑道。
+注意区别：
+airstrip = 简易跑道（最简陋）
+airfield = 小型机场
+runway = 跑道（正规机场的）
+airport = 民航机场
+
 airtight
 核心：字面指容器"密封不透气的"，比喻指论证或不在场证明
 "无懈可击的"。第二条在法律和辩论里高频。
@@ -398,18 +414,3 @@ alcoholic = 酗酒者
 alcohol = 酒精
 注意：alcoholism 是医学诊断，
 不是道德评判。
-
-alcove
-核心：指墙上凹进去的一块"壁龛、凹室"，可以放床、书架或雕像。
-建筑和室内设计用语。
-① A bed fits in the alcove.
-= 那个凹室正好放张床。
-② The statue stands in an alcove.
-= 那尊雕像立在壁龛里。
-③ They built shelves into the alcove.
-= 他们在凹室里做了架子。
-注意发音：/ˈælkəʊv/
-近义对照：
-alcove = 墙上凹室（较大）
-niche = 壁龛（较小，放摆件）
-recess = 凹进处（通用）
