@@ -1,3 +1,75 @@
+anoint
+核心：宗教仪式上"涂油于…以示神圣"，也引申指
+"指定某人为接班人"。
+① The king was anointed.
+= 国王受了膏立。
+② The priest anointed the sick.
+= 神父为病人傅油。
+anoint the sick = 为病人傅油
+③ He was anointed as successor.
+= 他被指定为接班人。
+be anointed as = 被指定为
+注意发音：/əˈnɔɪnt/
+词族：
+anointment = 涂油礼
+近义对照：
+anoint = 膏立、指定（有仪式感）
+appoint = 任命（行政）
+
+anomalous
+核心：正式用语，指"反常的、不符合规律的"。
+科研和数据分析里常用。
+① The reading is anomalous.
+= 那个读数异常。
+anomalous reading = 异常读数
+② An anomalous result appeared.
+= 出现了一个反常结果。
+anomalous result = 反常结果
+③ Her position is anomalous.
+= 她的处境很特殊。
+词族：
+anomaly = 反常现象
+近义对照：
+anomalous = 反常的（学术）
+abnormal = 异常的（医学、通用）
+atypical = 非典型的
+
+anomaly
+核心：指"反常的现象、不符合规律的个例"。学术和技术语境高频，
+比 exception 更强调"和预期不符、需要解释"。
+① The data shows an anomaly.
+= 数据里有个异常值。
+② It's a statistical anomaly.
+= 那是个统计上的异常。
+statistical anomaly = 统计异常
+③ Such anomalies need explaining.
+= 这类反常现象需要解释。
+④ He is an anomaly in the field.
+= 他在这个领域里是个异数。
+注意复数：
+anomaly → anomalies
+词族：anomalous = 反常的
+近义对照：
+anomaly 反常（不符规律）
+exception 例外（规则之外）
+irregularity 不规则（不合常规）
+
+anonymity
+核心：指"匿名"这种状态，不可数。
+常见搭配 preserve / protect / request anonymity。
+① He requested anonymity.
+= 他要求匿名。
+request anonymity = 要求匿名
+② The source spoke on condition of anonymity.
+= 消息人士要求匿名后才开口。
+on condition of anonymity = 以匿名为条件
+③ Online anonymity has downsides.
+= 网络匿名有其弊端。
+online anonymity = 网络匿名
+词族：
+anonymous = 匿名的
+anonymously = 匿名地
+
 anonymous
 核心：指"匿名的、不具名的"，可以说人、信件、捐赠、举报。
 也指"没有特色的、千篇一律的"（an anonymous building）。
@@ -366,67 +438,3 @@ anthrax spore = 炭疽孢子
 相关词：
 spore = 芽孢、孢子
 bioterrorism = 生物恐怖主义
-
-anthropologist
-核心：指研究人类社会与文化的"人类学家"。
-常做田野调查（fieldwork）。
-① The anthropologist lived with the tribe.
-= 那位人类学家和部落住在一起。
-② Anthropologists study kinship.
-= 人类学家研究亲属制度。
-study kinship = 研究亲属关系
-③ She trained as an anthropologist.
-= 她受训成为人类学家。
-词族：
-anthropology = 人类学
-anthropological = 人类学的
-构词：anthropo- 人 + -logist 研究者
-
-anthropology
-核心：指人类学——研究人类的起源、社会与文化的学科。
-不可数。分文化人类学和体质人类学两大支。
-① She studies anthropology.
-= 她学人类学。
-② Anthropology examines culture.
-= 人类学考察文化。
-③ Cultural anthropology is her field.
-= 文化人类学是她的领域。
-cultural anthropology = 文化人类学
-词族：
-anthropologist = 人类学家
-构词：anthropo- 人 + -logy 学科
-同类：
-sociology = 社会学
-archaeology = 考古学
-
-antibiotic
-核心：指杀灭或抑制细菌的"抗生素"。
-关键一点：抗生素对病毒无效，感冒吃抗生素没用。
-① The doctor prescribed antibiotics.
-= 医生开了抗生素。
-prescribe antibiotics = 开抗生素
-② Antibiotics don't work on viruses.
-= 抗生素对病毒无效。
-③ Antibiotic resistance is rising.
-= 抗生素耐药性在上升。
-antibiotic resistance = 抗生素耐药
-构词：anti- 抗 + bio 生命
-注意：抗生素只针对细菌，
-病毒感染要用 antiviral。
-
-antibody
-核心：免疫系统产生的"抗体"，用来识别和中和病原体。
-可数，常用复数。
-① The body produces antibodies.
-= 人体会产生抗体。
-produce antibodies = 生成抗体
-② Antibody levels were tested.
-= 检测了抗体水平。
-antibody level = 抗体水平
-③ Antibodies fight infection.
-= 抗体对抗感染。
-注意复数：
-antibody → antibodies
-配对词：
-antigen = 抗原（引发反应）
-antibody = 抗体（产生的反应）

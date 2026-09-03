@@ -1,3 +1,66 @@
+airport
+核心：指供民航客机起降的机场，含航站楼和配套设施。介词用 at
+（把机场看成一个点）；说人在机场里面时也可以用 in。
+① I'll meet you at the airport.
+= 我在机场接你。
+at the airport = 在机场
+② The airport was closed by fog.
+= 机场因大雾关闭。
+③ We took a taxi to the airport.
+= 我们打车去机场。
+注意区别：
+airport 民用机场
+airfield 小型机场、军用机场
+
+airship
+核心：指飞艇——靠轻于空气的气体升空、有动力可操纵的飞行器。
+和不可操纵的 balloon 区分。
+① The airship floated overhead.
+= 那艘飞艇从头顶飘过。
+② Airships were used for surveillance.
+= 飞艇曾用于侦察。
+③ The airship is helium-filled.
+= 那艘飞艇充的是氦气。
+helium-filled = 充氦的
+近义对照：
+airship = 飞艇（有动力可操纵）
+balloon = 气球（随风飘）
+blimp = 软式飞艇（无骨架）
+
+airsick
+核心：指坐飞机时"晕机的"。只作表语。
+和 seasick（晕船）、carsick（晕车）同一构词法。
+① She gets airsick easily.
+= 她很容易晕机。
+get airsick = 晕机
+② He felt airsick during turbulence.
+= 颠簸时他感到晕机。
+③ Take a pill if you're airsick.
+= 晕机就吃片药。
+词族：
+airsickness = 晕机
+同类构词：
+seasick = 晕船
+carsick = 晕车
+homesick = 想家
+
+airspace
+核心：指一国主权范围内的"领空"，不可数。
+国际法和军事新闻里的核心词。
+① The jet entered our airspace.
+= 那架战机进入了我方领空。
+enter airspace = 进入领空
+② They violated Turkish airspace.
+= 他们侵犯了土耳其领空。
+violate airspace = 侵犯领空
+③ The airspace was closed.
+= 那片空域被关闭。
+close airspace = 关闭空域
+近义对照：
+airspace = 领空（主权范围）
+territorial waters = 领海
+territory = 领土
+
 airstrip
 核心：指简易的"飞机跑道"，通常在偏远地区，
 没有航站楼和塔台。
@@ -349,68 +412,3 @@ album
 album 专辑（整张）
 single 单曲
 track 专辑里的一首
-
-alchemy
-核心：中世纪试图把贱金属变成黄金的"炼金术"，是化学的前身。
-比喻义指"奇妙的转化、点石成金的本事"。
-① Alchemy preceded chemistry.
-= 炼金术是化学的前身。
-② There's a kind of alchemy in her writing.
-= 她的文字里有种点石成金的魔力。
-a kind of alchemy = 某种神奇转化
-③ Alchemists sought the philosopher's stone.
-= 炼金术士寻找贤者之石。
-alchemist = 炼金术士
-注意发音：/ˈælkəmi/，ch 读 /k/。
-近义对照：
-alchemy = 炼金术；奇妙转化
-chemistry = 化学（科学）
-
-alcohol
-核心：日常指含酒精的饮料，化学上指乙醇这类化合物。不可数。
-形容词 alcoholic 有两个意思：含酒精的，和酗酒的。
-① He doesn't drink alcohol.
-= 他不喝酒。
-不可数，不加 s。
-② The drink contains no alcohol.
-= 那种饮料不含酒精。
-③ Rub it with alcohol.
-= 用酒精擦一下。
-词族：
-alcoholic = 含酒精的；酗酒者
-alcoholism = 酗酒症
-注意：an alcoholic drink 是含酒精的饮料，
-an alcoholic 是酗酒的人。
-
-alcoholic
-核心：两条线：形容词"含酒精的"，和名词"酗酒者"。
-两个意思分量差很多，说人 an alcoholic 是很重的话。
-① It's an alcoholic drink.
-= 那是含酒精的饮料。
-alcoholic drink = 酒精饮料
-② He is a recovering alcoholic.
-= 他是个正在戒酒的酗酒者。
-recovering alcoholic = 康复中的酗酒者
-③ She avoids alcoholic beverages.
-= 她不喝酒精饮料。
-反义词：
-non-alcoholic = 不含酒精的
-词族：
-alcohol = 酒精
-alcoholism = 酗酒症
-
-alcoholism
-核心：指酒精依赖这种疾病，医学用语，不可数。
-和"喝多了"不是一回事，指的是成瘾性疾病。
-① He is being treated for alcoholism.
-= 他在接受酗酒治疗。
-treated for alcoholism = 因酗酒接受治疗
-② Alcoholism runs in families.
-= 酗酒有家族倾向。
-③ Alcoholism damages the liver.
-= 酗酒损害肝脏。
-词族：
-alcoholic = 酗酒者
-alcohol = 酒精
-注意：alcoholism 是医学诊断，
-不是道德评判。

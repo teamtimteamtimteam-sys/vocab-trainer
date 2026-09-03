@@ -1,3 +1,68 @@
+ancestry
+核心：指一个人的"血统、家世"，是集合概念，不可数为主。
+和 ancestor（具体的某位祖先）区分：ancestry 说的是整条血脉。
+① He is of Irish ancestry.
+= 他有爱尔兰血统。
+be of … ancestry = 有…血统
+② She traced her ancestry.
+= 她追溯了自己的家世。
+trace one's ancestry = 追溯血统
+③ They have mixed ancestry.
+= 他们是混血。
+mixed ancestry = 混合血统
+注意区别：
+ancestor 祖先（具体某人，可数）
+ancestry 血统（整体，不可数）
+近义对照：
+ancestry 血统 / lineage 世系 / descent 出身
+
+anchor
+核心：名词是船的"锚"，动词是"抛锚、固定住"。比喻义是"支柱、
+让人安定的依靠"。美式还指电视新闻的"主播"。
+① They dropped anchor.
+= 他们抛锚了。
+drop anchor = 抛锚
+② The ship is at anchor.
+= 那艘船停泊着。
+at anchor = 停泊中
+③ She is the family's anchor.
+= 她是这个家的主心骨。
+④ He anchors the evening news.
+= 他主持晚间新闻。
+这里是美式用法
+⑤ Anchor the tent properly.
+= 把帐篷固定好。
+注意发音：ch 读 /k/，
+读 /ˈæŋkə(r)/。
+
+anchorage
+核心：两条线：船只可以下锚的"锚地"，
+和抽象的"依托、支撑点"。
+① The bay provides good anchorage.
+= 那个海湾是良好的锚地。
+provide anchorage = 提供锚泊地
+② The ship lay at anchorage.
+= 那艘船停在锚地。
+at anchorage = 停泊中
+③ Faith gave him an anchorage.
+= 信仰给了他一个依托。
+词族：
+anchor = 锚；固定
+
+anchovy
+核心：指凤尾鱼，小型咸味海鱼，常做成罐头或披萨配料。
+味道极咸，是很多人不喜欢的披萨配料。
+① The pizza has anchovies.
+= 那个披萨放了凤尾鱼。
+② Anchovies are very salty.
+= 凤尾鱼很咸。
+③ She dislikes anchovy paste.
+= 她不喜欢凤尾鱼酱。
+anchovy paste = 凤尾鱼酱
+注意复数：
+anchovy → anchovies
+注意发音：/ˈæntʃəvi/
+
 ancient
 核心：指"古代的"，通常指几千年前的文明和时代。用于人或物时是
 夸张的口语用法，指"老掉牙的"。和 old 的差别是时间尺度大得多。
@@ -366,73 +431,3 @@ animated discussion = 热烈的讨论
 animate 有生命的 / inanimate 无生命的
 注意发音：
 动词 /ˈænɪmeɪt/ 形容词 /ˈænɪmət/
-
-animated
-核心：两条线：人"兴致勃勃的、活跃的"，
-和影视的"动画的"。
-① They had an animated discussion.
-= 他们讨论得很热烈。
-animated discussion = 热烈的讨论
-② She became animated.
-= 她来了精神。
-③ It's an animated film.
-= 那是部动画片。
-animated film = 动画电影
-词族：
-animate = 使有生气；制作动画
-animation = 动画；活力
-反义词：
-subdued = 情绪低落的
-
-animation
-核心：两条线：动画这种影视形式，和人的"生气、活力"。
-第一条最常用，computer animation 是高频搭配。
-① He works in animation.
-= 他从事动画行业。
-② It's a computer animation.
-= 那是电脑动画。
-computer animation = 电脑动画
-③ She spoke with animation.
-= 她说得很有生气。
-with animation = 生动地
-④ Japanese animation is popular.
-= 日本动画很受欢迎。
-词族：
-animate = 制作动画
-animator = 动画师
-近义对照：
-animation 动画（总称）
-cartoon 卡通（多指短片或漫画）
-
-animosity
-核心：指长期的"敌意、憎恶"，比 dislike 重得多。
-介词用 towards 或 between。
-① There is animosity between them.
-= 他们之间有积怨。
-animosity between = 之间的敌意
-② He showed no animosity.
-= 他没表现出任何敌意。
-③ Animosity towards outsiders grew.
-= 对外来者的敌意加深了。
-animosity towards = 对…的敌意
-近义对照：
-animosity = 积怨（长期、强烈）
-hostility = 敌意（立场性）
-antipathy = 反感（本能的）
-
-animus
-核心：正式用语，指强烈的"敌意、偏见"，法律语境常用。
-心理学上还指荣格理论里女性心中的男性形象。
-① The ruling showed personal animus.
-= 那个裁决带有个人成见。
-personal animus = 个人恩怨
-② There was animus against him.
-= 有人对他心怀敌意。
-animus against = 对…的敌意
-③ The animus was political.
-= 那种敌意源于政治。
-注意发音：/ˈænɪməs/
-近义对照：
-animus = 敌意偏见（正式、法律）
-animosity = 积怨（通用）
-bias = 偏见（中性偏负）

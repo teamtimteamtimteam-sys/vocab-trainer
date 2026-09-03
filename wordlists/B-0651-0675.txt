@@ -1,3 +1,71 @@
+alchemy
+核心：中世纪试图把贱金属变成黄金的"炼金术"，是化学的前身。
+比喻义指"奇妙的转化、点石成金的本事"。
+① Alchemy preceded chemistry.
+= 炼金术是化学的前身。
+② There's a kind of alchemy in her writing.
+= 她的文字里有种点石成金的魔力。
+a kind of alchemy = 某种神奇转化
+③ Alchemists sought the philosopher's stone.
+= 炼金术士寻找贤者之石。
+alchemist = 炼金术士
+注意发音：/ˈælkəmi/，ch 读 /k/。
+近义对照：
+alchemy = 炼金术；奇妙转化
+chemistry = 化学（科学）
+
+alcohol
+核心：日常指含酒精的饮料，化学上指乙醇这类化合物。不可数。
+形容词 alcoholic 有两个意思：含酒精的，和酗酒的。
+① He doesn't drink alcohol.
+= 他不喝酒。
+不可数，不加 s。
+② The drink contains no alcohol.
+= 那种饮料不含酒精。
+③ Rub it with alcohol.
+= 用酒精擦一下。
+词族：
+alcoholic = 含酒精的；酗酒者
+alcoholism = 酗酒症
+注意：an alcoholic drink 是含酒精的饮料，
+an alcoholic 是酗酒的人。
+
+alcoholic
+核心：两条线：形容词"含酒精的"，和名词"酗酒者"。
+两个意思分量差很多，说人 an alcoholic 是很重的话。
+① It's an alcoholic drink.
+= 那是含酒精的饮料。
+alcoholic drink = 酒精饮料
+② He is a recovering alcoholic.
+= 他是个正在戒酒的酗酒者。
+recovering alcoholic = 康复中的酗酒者
+③ She avoids alcoholic beverages.
+= 她不喝酒精饮料。
+反义词：
+non-alcoholic = 不含酒精的
+词族：
+alcohol = 酒精
+alcoholism = 酗酒症
+④ He jokes that he is a chocaholic.
+= 他开玩笑说自己是个巧克力上瘾者。
+aholic = 对…上瘾的人（后缀，由这个词反切而来）
+
+alcoholism
+核心：指酒精依赖这种疾病，医学用语，不可数。
+和"喝多了"不是一回事，指的是成瘾性疾病。
+① He is being treated for alcoholism.
+= 他在接受酗酒治疗。
+treated for alcoholism = 因酗酒接受治疗
+② Alcoholism runs in families.
+= 酗酒有家族倾向。
+③ Alcoholism damages the liver.
+= 酗酒损害肝脏。
+词族：
+alcoholic = 酗酒者
+alcohol = 酒精
+注意：alcoholism 是医学诊断，
+不是道德评判。
+
 alcove
 核心：指墙上凹进去的一块"壁龛、凹室"，可以放床、书架或雕像。
 建筑和室内设计用语。
@@ -359,91 +427,3 @@ neutral = 中性的
 词族：
 alkali = 碱
 alkalinity = 碱度
-
-all
-核心：底层是"全部"。可以做形容词、代词、副词，也可以修饰时间跨度
-（all day）。all the same、after all、not at all、all right 都是
-高频习语，含义各自独立，要单独记。
-① All students must attend.
-= 所有学生都必须出席。
-② All of them agreed.
-= 他们全都同意了。
-这里 all 是代词。
-all of them 也可以说 they all。
-③ I worked all day.
-= 我干了一整天。
-all day / all night / all year
-这类时间搭配中间不加 the。
-④ That's all.
-= 就这些。
-⑤ Not at all.
-= 一点也不；不客气。
-not at all = 完全不
-⑥ It's all right.
-= 没事。
-注意拼写：
-标准写法是两个词 all right，
-alright 虽常见但不被正式文体接受。
-⑦ All the same, I disagree.
-= 尽管如此，我还是不同意。
-all the same = 尽管如此
-⑧ He was all alone.
-= 他孤零零一个人。
-这里 all 是副词，加强语气。
-⑨ Above all, be honest.
-= 最重要的是要诚实。
-above all = 最重要的是
-⑩ In all, there were 50.
-= 总共有五十个。
-in all = 总计
-
-all right
-核心：三条线：状态"没事的"、质量"还行"、以及表示同意的"好吧"。
-标准写法是分开两个词——alright 虽常见但不被正式文体接受。
-① Are you all right?
-= 你没事吧？
-be all right = 安好
-② The film was all right.
-= 那部电影还行。
-这里只是"及格"，不是夸
-③ All right, I'll do it.
-= 好吧，我来做。
-表示同意
-④ It turned out all right.
-= 结果还不错。
-turn out all right = 结果没问题
-注意拼写：
-正式文体用 all right（两个词）。
-
-all-round
-核心：指人"全能的、多面手的"，或表现"全面的"。英式用法，
-美式说 all-around。只作定语。
-① He is an all-round athlete.
-= 他是个全能运动员。
-all-round athlete = 全能运动员
-② It was an all-round improvement.
-= 那是全方位的提升。
-all-round improvement = 全面改善
-③ She has all-round ability.
-= 她能力很全面。
-注意英美差别：
-英式 all-round / 美式 all-around
-词族：
-all-rounder = 多面手（英式）
-
-allay
-核心：指"减轻、平息（担忧、恐惧、疑虑）"，正式。
-宾语几乎总是负面情绪：fears、concerns、doubts、suspicions。
-① The statement allayed fears.
-= 那份声明平息了恐慌。
-allay fears = 消除恐惧
-② He tried to allay her concerns.
-= 他设法打消她的顾虑。
-allay concerns = 化解顾虑
-③ Nothing allayed my suspicions.
-= 什么都没打消我的疑心。
-allay suspicions = 消除疑虑
-近义对照：
-allay = 平息（担忧、恐惧）
-alleviate = 减轻（痛苦、问题）
-relieve = 缓解（通用）

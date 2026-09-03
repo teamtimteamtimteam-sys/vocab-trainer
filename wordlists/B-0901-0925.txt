@@ -1,3 +1,67 @@
+anthropologist
+核心：指研究人类社会与文化的"人类学家"。
+常做田野调查（fieldwork）。
+① The anthropologist lived with the tribe.
+= 那位人类学家和部落住在一起。
+② Anthropologists study kinship.
+= 人类学家研究亲属制度。
+study kinship = 研究亲属关系
+③ She trained as an anthropologist.
+= 她受训成为人类学家。
+词族：
+anthropology = 人类学
+anthropological = 人类学的
+构词：anthropo- 人 + -logist 研究者
+
+anthropology
+核心：指人类学——研究人类的起源、社会与文化的学科。
+不可数。分文化人类学和体质人类学两大支。
+① She studies anthropology.
+= 她学人类学。
+② Anthropology examines culture.
+= 人类学考察文化。
+③ Cultural anthropology is her field.
+= 文化人类学是她的领域。
+cultural anthropology = 文化人类学
+词族：
+anthropologist = 人类学家
+构词：anthropo- 人 + -logy 学科
+同类：
+sociology = 社会学
+archaeology = 考古学
+
+antibiotic
+核心：指杀灭或抑制细菌的"抗生素"。
+关键一点：抗生素对病毒无效，感冒吃抗生素没用。
+① The doctor prescribed antibiotics.
+= 医生开了抗生素。
+prescribe antibiotics = 开抗生素
+② Antibiotics don't work on viruses.
+= 抗生素对病毒无效。
+③ Antibiotic resistance is rising.
+= 抗生素耐药性在上升。
+antibiotic resistance = 抗生素耐药
+构词：anti- 抗 + bio 生命
+注意：抗生素只针对细菌，
+病毒感染要用 antiviral。
+
+antibody
+核心：免疫系统产生的"抗体"，用来识别和中和病原体。
+可数，常用复数。
+① The body produces antibodies.
+= 人体会产生抗体。
+produce antibodies = 生成抗体
+② Antibody levels were tested.
+= 检测了抗体水平。
+antibody level = 抗体水平
+③ Antibodies fight infection.
+= 抗体对抗感染。
+注意复数：
+antibody → antibodies
+配对词：
+antigen = 抗原（引发反应）
+antibody = 抗体（产生的反应）
+
 anticipate
 核心：底层是"提前想到并做准备"，比 expect 多一层"提前应对"的意思。
 后面接名词或 doing，不接 to do——这是高频错误。
@@ -352,77 +416,3 @@ anxious = 焦虑的；急切的
 anxiety = 焦虑
 注意：和形容词一样，
 anxiously 也有担忧和急切两个方向。
-
-any
-核心：底层是"不特指哪一个"。用在否定句和疑问句里对应肯定句的
-some；用在肯定句里意思变成"任何一个都行"。修饰比较级时表示程度，
-是很多人不知道的用法。
-① Do you have any questions?
-= 你有问题吗？
-疑问句用 any。
-② I don't have any money.
-= 我没钱。
-否定句用 any。
-③ Any student can apply.
-= 任何学生都能申请。
-肯定句 any = 任何一个
-④ Take any one you like.
-= 随便拿一个你喜欢的。
-⑤ Is it any better?
-= 有好一点吗？
-any + 比较级 = 程度上稍微
-⑥ He isn't any good at it.
-= 他根本不擅长这个。
-注意区别：
-some 用于肯定句、以及期待肯定答复的疑问句
-any 用于否定句和一般疑问句
-
-anybody
-核心：和 anyone 完全同义，可互换。否定疑问句里是"任何人"，肯定句
-里是"任何一个人（都行）"。作主语时动词用单数。
-① Is anybody there?
-= 有人吗？
-② I didn't see anybody.
-= 我谁也没看见。
-③ Anybody can learn this.
-= 谁都能学会这个。
-肯定句 = 任何人
-④ Anybody who wants to come is welcome.
-= 谁想来都欢迎。
-注意：作主语时用单数动词。
-注意区别：
-anybody / anyone 完全同义
-somebody 用于肯定句
-nobody 本身已含否定
-
-anyhow
-核心：三条线：等于 anyway 的"总之、不管怎样"、
-"随随便便地"、以及"无论如何"。
-① Anyhow, let's move on.
-= 总之，我们继续吧。
-② The books were piled anyhow.
-= 那些书胡乱堆着。
-这里：anyhow = 随意地
-③ I'll finish it anyhow.
-= 我无论如何都会做完。
-注意区别：
-anyhow / anyway 作"总之"讲可互换
-anyhow 另有"随便乱来"这个意思
-anyway 没有
-
-anyone
-核心：和 anybody 完全同义。否定疑问句里是"任何人"，
-肯定句里是"任何一个人都行"。作主语配单数动词。
-① Does anyone know?
-= 有人知道吗？
-② I didn't tell anyone.
-= 我谁也没告诉。
-③ Anyone can join.
-= 谁都可以加入。
-肯定句 = 任何人
-④ Anyone who wants to may come.
-= 想来的人都可以来。
-注意区别：
-anyone = 任何人（不特指）
-any one = 任何一个（可指物，分写）
-Choose any one of them. = 从中任选一个。

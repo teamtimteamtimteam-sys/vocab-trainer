@@ -72,3 +72,10 @@ afara        # 西非产的木材树，过窄；跟 afar 无关，coverage 只�
 # 全表 106 条同此（hadrian-s-wall、king-s-cross、mother-s-day…），
 # 到相应字母段再逐条判，不一次性铺开。
 Aesop's Fables   # 伊索寓言，书名，非词汇
+
+# --- 词缀条目：清洗时掉了连字符，看不出是词缀 ---
+# 清单里 -aholic 和 aholic 是同一条的两版，后者掉了连字符。
+# 用户裁定词缀不单列，构词知识写进真实词条 —— 已写进 alcoholic 的构词行。
+# 全表有 130 处「裸词与词缀条目并存」，但多数裸词是真词（able、age、all、
+# anti、cross、ex），不能一刀切按规则删，只能逐条判。
+aholic       # -aholic 的无连字符版，词缀不收

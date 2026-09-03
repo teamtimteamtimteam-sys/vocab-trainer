@@ -1,3 +1,40 @@
+assemble
+核心：两条线：把人聚到一起（集合），把零件装到一起（组装）。
+两个意思都很常用，靠宾语区分。及物不及物都可以。
+① The crowd assembled outside.
+= 人群聚集在外面。
+不及物 = 集合
+② They assembled the furniture.
+= 他们组装了那些家具。
+及物 = 组装
+③ Students assembled in the hall.
+= 学生们在礼堂集合。
+④ The parts are assembled here.
+= 零件在这里组装。
+词族：
+assembly = 集会；装配
+assembly line = 流水线
+注意区别：
+assemble 有目的地聚集或组装
+gather 聚集（较随意）
+
+assembly
+核心：三条线：立法或议事的"议会、大会"、学校的"晨会"、
+以及工业上的"装配"。assembly line 是高频搭配。
+① The National Assembly voted.
+= 国民议会投了票。
+National Assembly = 国民议会
+② School assembly starts at nine.
+= 学校晨会九点开始。
+school assembly = 全校集会
+③ Cars come off the assembly line.
+= 汽车从流水线上下来。
+assembly line = 装配线
+④ Freedom of assembly is protected.
+= 集会自由受保护。
+freedom of assembly = 集会自由
+词族：assemble = 集合；组装
+
 assent
 核心：正式用语，指"同意、批准"。名词动词同形，
 动词介词用 to。注意和 ascent（上升）同音。
@@ -403,21 +440,3 @@ assortment = 各式一批（混合）
 variety = 多样性（种类多）
 selection = 精选的一批（挑过）
 range = 系列（成体系）
-
-assuage
-核心：正式用语，指"减轻、平息（不好的感受）"。
-宾语是 fears、guilt、grief、hunger 这类。
-① Nothing assuaged his guilt.
-= 什么都减轻不了他的愧疚。
-assuage guilt = 缓解内疚
-② The statement assuaged fears.
-= 那份声明平息了恐慌。
-assuage fears = 消除恐惧
-③ Food assuaged their hunger.
-= 食物缓解了他们的饥饿。
-注意发音：/əˈsweɪdʒ/
-近义对照：
-assuage = 减轻（负面感受，正式）
-allay = 平息（担忧、疑虑）
-alleviate = 缓解（痛苦、问题）
-soothe = 抚慰（安抚）
