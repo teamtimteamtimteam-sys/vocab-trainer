@@ -19,6 +19,7 @@ bairn        # 苏格兰／英格兰北部方言的 child
 aapa         # 印度英语，姐姐
 achcha       # 印度英语，好的
 achkan       # 印度英语，男式长外套
+baraza       # 东非（斯瓦希里语借词）的公共集会、议事场
 bandh        # 印度英语，罢市、总罢工
 bandobast    # 印度英语，安排、部署
 bania        # 印度英语，商人种姓
@@ -102,6 +103,7 @@ afara        # 西非产的木材树，过窄；跟 afar 无关，coverage 只�
 # 全表 106 条同此（hadrian-s-wall、king-s-cross、mother-s-day…），
 # 到相应字母段再逐条判，不一次性铺开。
 Aesop's Fables   # 伊索寓言，书名，非词汇
+Bart's       # 伦敦圣巴塞洛缪医院的俗称，专名
 Babe Didrikson   # 美国运动员人名
 Babe Ruth        # 美国棒球运动员人名
 Baby Face Nelson # 美国匪徒绰号

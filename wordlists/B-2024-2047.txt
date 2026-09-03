@@ -312,6 +312,29 @@ bantering = 打趣的
 banter = 打趣（无恶意，往往拉近关系）
 mockery = 嘲弄（有轻蔑）
 
+baptism
+核心：基督教的入教仪式，用水施洗，象征洗去旧我、归入教会。
+各宗派做法不同：有的浸入水中，有的只在额上点水。
+比喻着用指"初次经受的严峻考验"，固定说法 baptism of fire。
+动词是 baptize，形容词是 baptismal。
+① The child received baptism.
+= 那个孩子受了洗。
+receive baptism = 受洗
+② Adult baptism is by full immersion.
+= 成人受洗是全身浸入水中。
+adult baptism = 成人洗礼
+③ The first week was a baptism of fire.
+= 头一周就是场硬仗。
+baptism of fire = 严峻的初次考验
+④ The priest baptized her.
+= 神父给她施了洗。
+baptize = 施洗
+⑤ They chose a baptismal name.
+= 他们选了个教名。
+baptismal name = 教名
+注意用法：
+比喻义只用在那个固定搭配里。
+
 bar
 核心：底层是**一根横着的条**。所有义项都是这根条的不同用处：
 **当东西**——金属条、巧克力条、肥皂块，都论"条"论"块"；
@@ -385,6 +408,104 @@ the bar = 律师界（法庭那道横木）
 the bar = 标准（跳高那根横杆）
 两个都写作 the bar，靠上下文分。
 
+barb
+核心：底层是"向后倒钩的那根小刺"。鱼钩上、箭头上、铁丝网上的
+倒刺都是它，作用是扎进去就拔不出来。比喻着用指"带刺的话"——
+说的时候不重，事后越想越扎。形容词 barbed 既说带倒刺的，
+也说话里带刺的。
+① The hook has a sharp barb.
+= 那个鱼钩上有个尖倒刺。
+② He barely noticed the barb.
+= 他几乎没察觉那句话带刺。
+a barb = 带刺的挖苦话
+③ The field is fenced with barbed wire.
+= 那块地围着铁丝网。
+barbed wire = 带刺铁丝网
+④ Her barbed remark stung him.
+= 她那句带刺的话扎着他了。
+barbed = 带倒刺的；话里带刺的
+注意用法：
+比喻义强调「当时不觉得，回味才疼」。
+
+barbarian
+核心：这个词的来历本身就带偏见：古希腊人管听不懂的外族说话叫
+"巴巴叫"，于是有了这个词，指"外族人、蛮族"。今天指"野蛮人"，
+也戏谑地说没有教养、不懂欣赏的人。同族的一批词分工不同：
+barbaric 说行为残暴，barbarous 说残暴也说粗鄙，
+barbarism 说野蛮行径或粗劣的语言用法，barbarity 专说暴行。
+① The empire fell to barbarians.
+= 那个帝国亡于蛮族之手。
+② He called them cultural barbarians.
+= 他说他们是文化上的野蛮人。
+③ The treatment was barbaric.
+= 那种对待方式极其残暴。
+barbaric = 野蛮残暴的
+④ Barbarous customs were abolished.
+= 那些野蛮习俗被废除了。
+barbarous = 残暴的；粗鄙的
+⑤ The report documented barbarities.
+= 那份报告记录了种种暴行。
+barbarity = 暴行
+⑥ Such spelling is a barbarism.
+= 那种拼法是种不规范的用法。
+barbarism = 野蛮行径；不合规范的语言用法
+注意语域：
+用来说别的民族时带明确的贬抑与欧洲中心色彩。
+
+barbecue
+核心：三层：户外烤肉的那个炉具、那种烹饪方式、以及一场烤肉聚会。
+动词是"烤"。缩写常写作 BBQ，澳式口语叫 barbie。
+配的那种甜辣酱叫 barbecue sauce。
+① They lit the barbecue.
+= 他们点着了烤炉。
+light the barbecue = 点烤炉
+② We are having a barbecue on Sunday.
+= 我们星期天办烤肉聚会。
+have a barbecue = 办烤肉聚会
+③ He barbecued the ribs slowly.
+= 他把排骨慢慢烤熟。
+④ Brush on the barbecue sauce.
+= 刷上烧烤酱。
+barbecue sauce = 烧烤酱
+⑤ Come round for a barbie.
+= 过来吃烤肉吧。
+barbie = 烤肉（澳式口语）
+注意地域：
+barbie 是澳新口语；美式缩写多写 BBQ。
+
+barber
+核心：专给男士理发修面的人，铺子叫 barbershop 或 barber's。
+跟 hairdresser 的分工传统上很清楚：前者管男士剪发刮胡，
+后者管烫染造型。门口那根红白蓝旋转柱叫 barber's pole，
+源自旧时理发师兼做放血手术。
+① He went to the barber for a trim.
+= 他去理发店修了修头发。
+② The barbershop opens at seven.
+= 那家理发店七点开门。
+barbershop = 理发店
+③ A striped barber's pole marks the door.
+= 门口立着旋转条纹柱。
+barber's pole = 理发店旋转柱
+④ Barbershop harmony uses four voices.
+= 理发店四重唱是四个声部。
+barbershop = 无伴奏四重唱（一种合唱风格）
+注意语域：
+第四层是美国的一种合唱形式，名字来自旧时理发店里的即兴合唱。
+
+barbiturate
+核心：一类镇静催眠药，二十世纪上半叶广泛用于安眠和抗癫痫。
+问题在于安全窗极窄——有效量和致死量离得太近，又容易成瘾，
+所以后来大多被苯二氮䓬类取代。
+① Barbiturates were once common sleeping pills.
+= 巴比妥类药物从前是常用安眠药。
+② Barbiturate overdose is often fatal.
+= 巴比妥过量常常致命。
+barbiturate overdose = 巴比妥过量
+③ Safer drugs replaced barbiturates.
+= 更安全的药取代了巴比妥类。
+注意语域：
+药理学与医学史用语。
+
 bare
 核心：底层是"该有覆盖的地方没有覆盖"。身上没穿是裸露，
 树上没叶是光秃，房里没家具是空荡，脚上没鞋是赤脚。
@@ -424,6 +545,25 @@ bear = 熊；忍受（另一个词）
 第七层的「勉强」只作定语，
 后面接 minimum、majority、pass 这类词。
 
+barely
+核心：底层是"只剩光秃秃的那一点"，所以指"仅仅、勉强"——
+差一点就不够了。它带否定意味，所以句子里不再加 not。
+另一层指"刚刚才"，说事情发生得很紧。
+注意它跟 hardly、scarcely 用法一致，都往否定那边靠。
+① She barely spoke all evening.
+= 她整晚几乎没说话。
+② We barely made the train.
+= 我们差点没赶上火车。
+barely make it = 勉强赶上
+③ He is barely twenty.
+= 他刚满二十。
+④ Barely had she sat down when it rang.
+= 她刚坐下电话就响了。
+barely ... when = 刚一…就…（倒装）
+注意用法：
+自带否定意味，不能再加 not；
+放句首时主谓要倒装。
+
 bargain
 核心：两条线，都从"讨价还价"来。名词第一层是"谈成的那笔交易、
 约定"；由此第二层是"买得划算的东西"——谈下来的好价钱。
@@ -453,234 +593,3 @@ more than one bargained for = 始料未及的（多指坏事）
 into the bargain = 而且还、外加
 注意用法：
 第六层几乎只用于负面结果。
-
-barrier
-核心：底层是"横在中间挡住去路的东西"。实物上是栏杆、路障、闸门；
-抽象上是"障碍"——语言障碍、贸易壁垒、心理隔阂。
-关键在"横在中间"这个位置感：它不是难度，是挡在你和目标之间的
-那样东西。
-① Police put up barriers.
-= 警方设了路障。
-put up a barrier = 设置障碍物
-② Show your ticket at the barrier.
-= 在闸机处出示车票。
-ticket barrier = 检票闸机
-③ Language is the biggest barrier.
-= 语言是最大的障碍。
-a barrier to = 阻碍…的因素
-④ They dismantled trade barriers.
-= 他们拆除了贸易壁垒。
-trade barrier = 贸易壁垒
-⑤ The sound barrier was broken in 1947.
-= 音障在一九四七年被突破。
-sound barrier = 音障
-⑥ Cost is a barrier to entry.
-= 成本构成了准入门槛。
-barrier to entry = 进入壁垒
-注意用法：
-后面接介词 to，不接 of。
-近义对照：
-barrier = 挡在中间的东西（位置感）
-obstacle = 障碍物（挡路的具体东西）
-hurdle = 需要跨过去的一关（可以跨）
-
-barrister
-核心：英国法律体系里的"出庭律师"——专管在高等法院出庭辩护，
-穿袍戴假发的那一类。当事人一般不直接找他，要经由
-solicitor（事务律师）转聘。取得资格叫 be called to the bar。
-苏格兰对应的称呼是 advocate，美国不作这种区分。
-① She practises as a barrister.
-= 她做的是出庭律师。
-practise as a barrister = 执业当出庭律师
-② A solicitor briefs the barrister.
-= 事务律师给出庭律师做案情简报。
-brief a barrister = 委聘出庭律师
-③ The barrister addressed the jury.
-= 出庭律师向陪审团陈词。
-注意地域：
-英格兰与威尔士的分工；苏格兰说 advocate，
-美国统称 attorney 或 lawyer，不分这两类。
-
-base
-核心：底层是**底下承托的那一层**。往实物上说是底座、底部；
-往军事上说是基地——部队的立足处；往组织上说是总部；
-往抽象上说是"依据、基础"，动词 base on 就是"把它架在…之上"。
-从"立足点"再引申：棒球场上四个立足点是垒；
-化妆打底那一层是粉底；化学上跟酸对立的那一支叫碱，
-也是因为它是盐的"底"。
-两个介词分工要记牢：based on 是"以…为依据"，
-based in 是"总部或人常驻在…"，说错意思全变。
-① The lamp has a heavy base.
-= 那盏灯底座很沉。
-实物的底部、底座。
-② Troops returned to base.
-= 部队返回了基地。
-军事基地。
-③ The firm is based in Tokyo.
-= 那家公司总部设在东京。
-be based in = 常驻于、总部设在
-④ The film is based on a novel.
-= 那部电影改编自一部小说。
-be based on = 以…为依据
-⑤ Base your answer on the data.
-= 你的回答要有数据支撑。
-base A on B = 把 A 建立在 B 之上
-⑥ It has a wide customer base.
-= 它有广泛的客户基础。
-customer base = 客户群
-⑦ The party lost its working-class base.
-= 那个政党失去了工人阶级的基本盘。
-base = 基本盘、支持者群体
-⑧ He stole second base.
-= 他偷上了二垒。
-base = 垒（棒球）
-⑨ Apply base before foundation.
-= 上粉底之前先打底。
-base = 打底的那一层（化妆）
-⑩ Ammonia is a weak base.
-= 氨是弱碱。
-base = 碱（化学，与酸相对）
-⑪ Let me touch base with the team.
-= 我跟团队通个气。
-touch base with = 简短联系一下（来自棒球）
-⑫ Your guess is way off base.
-= 你猜得离谱。
-off base = 完全不对（美式，也来自棒球）
-⑬ We need to cover all the bases.
-= 我们得把方方面面都顾到。
-cover all the bases = 面面俱到
-⑭ The claim is completely baseless.
-= 那个说法毫无根据。
-baseless = 毫无根据的
-⑮ Measure it against the baseline.
-= 按基准线来衡量。
-baseline = 基准线；底线（网球）
-⑯ The bank raised its base rate.
-= 银行上调了基准利率。
-base rate = 基准利率
-⑰ Basic pay excludes bonuses.
-= 基本工资不含奖金。
-base pay = 基本工资（美式）
-注意别混：
-based on = 以…为依据（内容来源）
-based in = 驻在某地（地理位置）
-注意同音：
-base 与 bass（低音）读音相同，拼写不同。
-
-basic
-核心：底层是"处在最底下那一层的"。往必要性上说是"基本的、
-必需的"——少了它就立不住；往程度上说是"最简单的、只够用的"，
-这一层常带"不怎么样"的意味。名词复数 the basics 指基本要点。
-副词 basically 在口语里已弱化成"总的来说、说白了"。
-① Food and shelter are basic needs.
-= 食物和住处是基本需求。
-basic needs = 基本需求
-② She has a basic grasp of Spanish.
-= 她的西班牙语只是入门水平。
-a basic grasp = 粗浅的掌握
-③ The room was basic but clean.
-= 那个房间很简陋，但干净。
-这一层带「简陋、只够用」的意味。
-④ Let's go back to basics.
-= 咱们回到最基本的东西上。
-the basics = 基本要点
-⑤ Basic pay excludes overtime.
-= 基本工资不含加班费。
-basic pay = 基本工资
-⑥ Basically, we ran out of time.
-= 说白了，我们时间不够。
-basically = 说白了（口语里的缓冲词）
-注意语域：
-第三层说房间、设备时带轻微贬义。
-
-basis
-核心：抽象的"基础、依据"——一件事凭什么成立，凭的就是它。
-它跟 base 的分工很清楚：base 多指看得见的底座与地点，
-basis 只用于抽象。复数是 bases，读音跟单数不同。
-另一层指"方式、频次"，固定说法 on a ... basis。
-① The theory has no factual basis.
-= 那个理论没有事实依据。
-have no basis = 毫无根据
-② On what basis did you decide?
-= 你依据什么做的决定？
-on the basis of = 根据、依据
-③ They meet on a weekly basis.
-= 他们每周碰一次。
-on a weekly basis = 按周、每周
-on a regular basis = 定期地
-④ He works on a freelance basis.
-= 他以自由职业的方式工作。
-⑤ Trust is the basis of the relationship.
-= 信任是这段关系的基础。
-the basis of = …的基础
-注意用法：
-复数是 bases，重音与单数不同。
-注意别混：
-base = 底座、基地（多为实物或地点）
-basis = 依据、基础（只用于抽象）
-
-battery
-核心：三个来源不同的义项，别硬扯到一起。
-一是"电池"——最常用的一层，源自把几个单元"排成一列"。
-二是"一排、一组"，a battery of tests 就是一整套检查，
-炮兵连也叫这个词，因为炮是一排排摆的。
-三是法律上的"殴打"，来自动词 batter（反复击打），
-跟前两层毫无关系。
-① The battery is flat.
-= 电池没电了。
-flat battery = 没电的电池（英式）
-dead battery = 没电的电池（美式）
-② Charge the battery overnight.
-= 电池充一夜。
-charge a battery = 给电池充电
-③ He faces charges of assault and battery.
-= 他面临殴打罪指控。
-assault and battery = 殴打（法律罪名）
-④ She underwent a battery of tests.
-= 她做了一整套检查。
-a battery of = 一整套、一系列
-⑤ An artillery battery shelled the ridge.
-= 一个炮兵连炮击了那道山脊。
-battery = 炮兵连
-⑥ Battery hens live in cages.
-= 笼养鸡关在笼子里。
-battery hen = 笼养鸡（一排排笼子）
-⑦ Recharge your batteries this weekend.
-= 这周末好好充充电。
-recharge one's batteries = 恢复精力
-注意别混：
-前两层同源（排成一列），第三层来自「击打」，
-三者只是碰巧同形。
-
-battle
-核心：底层是"两方交手"。军事上是一场具体的战斗——比 war 小，
-war 是整场战争、battle 是其中一仗。往外推是任何"较量、
-争夺"：官司、选举、抢市场；再往里推是跟疾病、心魔的"抗争"。
-动词是"苦斗"。习语围绕"胜负未定"：a losing battle 是注定打不赢的，
-half the battle 是最难的一半。
-① The battle lasted three days.
-= 那场战斗打了三天。
-② Waterloo was the decisive battle.
-= 滑铁卢是决定性的一战。
-③ They fought a legal battle for years.
-= 他们打了多年官司。
-a legal battle = 法律战
-④ She battled cancer for a decade.
-= 她跟癌症抗争了十年。
-battle something = 与…苦斗
-⑤ He battled against the current.
-= 他逆着水流苦撑。
-battle against = 与…搏斗
-⑥ It is a losing battle.
-= 那是注定打不赢的仗。
-a losing battle = 徒劳之争
-⑦ Getting started is half the battle.
-= 开了头就成功了一半。
-half the battle = 成功的一半
-⑧ The battlefield was littered with wreckage.
-= 战场上满是残骸。
-battlefield = 战场
-注意别混：
-battle = 一场战斗（一仗）
-war = 战争（整场）
-campaign = 战役（一系列战斗）
