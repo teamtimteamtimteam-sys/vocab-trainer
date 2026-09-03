@@ -1,20 +1,3 @@
-arrogance
-核心：指"傲慢自大"，不可数，贬义。
-比 confidence（自信）多一层"看不起别人"。
-① His arrogance annoyed everyone.
-= 他的傲慢惹恼了所有人。
-② She spoke with arrogance.
-= 她说话很傲慢。
-with arrogance = 傲慢地
-③ Arrogance led to his downfall.
-= 自大导致了他的失败。
-词族：arrogant = 傲慢的
-程度对照：
-confidence = 自信（正面）
-self-assurance = 笃定（中性）
-arrogance = 傲慢（负面）
-hubris = 狂妄（招致覆灭）
-
 arrogant
 核心：指人"自以为是、看不起别人的"，贬义。
 和 confident（自信）的界线是：是否贬低他人。
@@ -431,3 +414,32 @@ arty café = 文艺腔的咖啡店
 arty-farty = 假文艺的（更贬）
 注意：arty 不等于 artistic，
 后者是真夸有艺术性。
+
+as
+核心：这个词用法极多，但都可以归到"两者相当"这个底层。程度相当就是
+as… as；身份相当就是"作为"；时间相当就是"当…时"；理由相当就是
+"因为"；方式相当就是"像…那样"。
+① She is as tall as me.
+= 她和我一样高。
+as… as = 和…一样
+② He works as a teacher.
+= 他做教师。
+as = 作为
+③ As I was leaving, he called.
+= 我正要走时他打来了电话。
+as = 当…时
+④ As it was raining, we stayed in.
+= 因为下雨，我们没出门。
+as = 因为
+⑤ Do as I say.
+= 照我说的做。
+as = 像…那样
+⑥ Such fruits as apples are cheap.
+= 苹果之类的水果很便宜。
+such… as = 诸如
+⑦ As for me, I disagree.
+= 至于我，我不同意。
+as for = 至于
+⑧ As well as English, she speaks Thai.
+= 除英语外她还会泰语。
+as well as = 除…之外还

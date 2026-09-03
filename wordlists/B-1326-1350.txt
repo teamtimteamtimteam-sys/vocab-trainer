@@ -1,19 +1,3 @@
-aquifer
-核心：地质学词，指能储存和输送地下水的"含水层"。
-是地下水资源的核心概念。
-① The aquifer supplies drinking water.
-= 那个含水层供应饮用水。
-② The aquifer is being depleted.
-= 那个含水层正在枯竭。
-be depleted = 被耗尽
-③ Pollution reached the aquifer.
-= 污染渗到了含水层。
-注意发音：/ˈækwɪfə(r)/
-构词：aqui- 水 + -fer 携带
-同类构词：
-conifer = 针叶树（cone 球果 + fer）
-transfer = 转移
-
 aquiline
 核心：指鼻子"鹰钩状的"——高而弯，像鹰喙。
 几乎只用在 aquiline nose 这个搭配里。
@@ -405,3 +389,20 @@ system architecture = 系统架构
 architect = 建筑师
 architectural = 建筑的
 注意发音：ch 读 /k/，/ˈɑːkɪtektʃə(r)/
+
+archive
+核心：指"档案、档案馆"，也作动词"归档"。
+常用复数 archives 指整批档案。
+① The archives hold old letters.
+= 那批档案里有旧信件。
+② He works in the national archive.
+= 他在国家档案馆工作。
+national archive = 国家档案馆
+③ The emails were archived.
+= 那些邮件被归档了。
+④ She searched the archives.
+= 她查阅了档案。
+search the archives = 查档
+词族：
+archivist = 档案管理员
+archival = 档案的

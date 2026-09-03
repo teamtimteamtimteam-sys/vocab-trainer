@@ -198,7 +198,12 @@ def derived_covered(w, entries):
     pat = re.compile(r'(?<![a-z])' + re.escape(lw) + r'(?![a-z])')
     for head, body in entries:
         h = head.lower().replace('’', "'")
-        if len(h) < 4 or not lw.startswith(h[:4]) or lw == h:
+        # 词干下限取 3 不取 4：apt / act / age / air / arm / art 这类
+        # 三字母词根在词表里有 34 个，卡在 4 会让 aptness 这种正当派生词
+        # 并进词根后仍被判成缺词，逼着人去给派生词单开条目 —— 那违反
+        # 「派生词一律并入词根」的裁定。实测放宽后全表只多认出 ayes 一条，
+        # 且是对的：整词匹配那一关已经挡住了碰巧同前缀的误判。
+        if len(h) < 3 or not lw.startswith(h[:4]) or lw == h:
             continue
         if pat.search(body):
             return True

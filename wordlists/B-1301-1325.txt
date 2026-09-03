@@ -212,27 +212,6 @@ aptly = 贴切地（用词准）
 fittingly = 恰当地（合场合）
 appropriately = 得体地（合规范）
 
-aptness
-核心：apt 的名词形式，两层都跟着走。一是"贴切、恰当"——比喻、
-用词、引文正中要害；二是"倾向、易于"，说某人或某物动不动就会
-怎么样，这一层常接介词加动词不定式。
-① The aptness of the metaphor struck everyone.
-= 那个比喻之贴切让所有人一震。
-the aptness of = …的贴切
-② He praised the aptness of her reply.
-= 他称赞她答得恰到好处。
-③ Her aptness to worry wears her out.
-= 她动不动就操心，把自己耗得够呛。
-aptness to do = 易于做某事的倾向
-④ The aptness of the timing was no accident.
-= 时机拿捏得这么准并非偶然。
-注意用法：
-第一层是主流用法，第二层偏正式。
-近义对照：
-aptness = 贴切（说得正对路）
-relevance = 相关性（沾不沾边）
-propensity = 倾向（爱做某事）
-
 aqua
 核心：指水蓝色（介于蓝绿之间），也作为词根表示"水"。
 作颜色讲时名词形容词同形。
@@ -435,3 +414,19 @@ aqueous humour = 房水（眼科）
 反义对照：
 aqueous = 水性的
 oily / organic = 油性的、有机相的
+
+aquifer
+核心：地质学词，指能储存和输送地下水的"含水层"。
+是地下水资源的核心概念。
+① The aquifer supplies drinking water.
+= 那个含水层供应饮用水。
+② The aquifer is being depleted.
+= 那个含水层正在枯竭。
+be depleted = 被耗尽
+③ Pollution reached the aquifer.
+= 污染渗到了含水层。
+注意发音：/ˈækwɪfə(r)/
+构词：aqui- 水 + -fer 携带
+同类构词：
+conifer = 针叶树（cone 球果 + fer）
+transfer = 转移
