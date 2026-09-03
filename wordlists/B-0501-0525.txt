@@ -241,6 +241,23 @@ afterword = 后记（放在书末）
 foreword = 前言（放在书前，多由他人写）
 preface = 序言（多由作者自己写）
 
+ag
+核心：北美口语里 agriculture 的缩略说法，指"农业的"，几乎只作定语，
+放在学校、专业、行业这类名词前面。正式文本一律写完整拼法。
+① He went to ag college.
+= 他上的是农学院。
+ag college = 农学院
+② She majored in ag science.
+= 她主修农业科学。
+ag science = 农业科学
+③ The ag sector employs thousands.
+= 农业部门雇了成千上万人。
+ag sector = 农业部门
+注意语域：
+北美非正式用法，只作定语。
+注意写法：
+正式场合写完整拼法，不用这个缩略形式。
+
 again
 核心：核心义是"再一次"。搭配 once again、time and again、again
 and again 都很常用。now and again 是"偶尔"，和"再次"关系不大。
@@ -304,6 +321,42 @@ agape with = 因…而张口结舌
 agape = 张着嘴（惊讶）
 gaping = 张大的（口子、缺口）
 
+agar
+核心：从海藻里提出来的胶质，遇热化开、冷却成冻。实验室拿它做细菌
+培养基，厨房里当素食凝固剂，代替明胶。也写作 agar-agar。
+① Bacteria grow on agar plates.
+= 细菌在琼脂平板上生长。
+agar plate = 琼脂平板
+② Agar sets without gelatin.
+= 琼脂不用明胶就能凝固。
+③ She used agar in the dessert.
+= 她在甜点里用了琼脂。
+④ Agar-agar comes from seaweed.
+= 琼脂是从海藻里提取的。
+agar-agar = 琼脂（全称写法）
+注意语域：
+微生物学与食品工艺常用。
+近义对照：
+agar = 琼脂（海藻提取，素食可用）
+gelatin = 明胶（动物胶原提取）
+
+agaric
+核心：真菌学名词，指伞菌——有菌柄和菌褶的那一类蘑菇。最有名的是
+fly agaric，就是童话插画里红伞白点的那种毒蘑菇。
+① The fly agaric is red with white spots.
+= 毒蝇伞是红底白点的。
+fly agaric = 毒蝇伞
+② Agarics grow in damp woods.
+= 伞菌长在潮湿的林子里。
+③ He photographed several agarics.
+= 他拍了好几种伞菌。
+注意语域：
+真菌学术语，日常用别的说法。
+近义对照：
+agaric = 伞菌（有柄有褶的一类）
+mushroom = 蘑菇（通称，多指可食）
+toadstool = 毒蕈（口语，多指有毒）
+
 agate
 核心：指玛瑙，一种带条纹的半宝石。可数不可数都有，
 做首饰和装饰用。
@@ -319,6 +372,26 @@ agate stone = 玛瑙石
 onyx = 缟玛瑙
 quartz = 石英
 jade = 玉
+
+agave
+核心：一种原产美洲的多肉植物，叶子厚、边缘带刺，呈莲座状铺开。
+龙舌兰酒和龙舌兰糖浆都出自它。西班牙语借词，重音在第二个音节。
+① Agave grows in dry soil.
+= 龙舌兰长在干燥的土里。
+② Tequila is made from blue agave.
+= 龙舌兰酒是用蓝色龙舌兰酿的。
+blue agave = 蓝色龙舌兰
+③ She sweetens tea with agave syrup.
+= 她用龙舌兰糖浆给茶加甜。
+agave syrup = 龙舌兰糖浆
+④ The agave flowers once and dies.
+= 龙舌兰一生只开一次花，开完就死。
+注意语域：
+植物名，也常见于食品与酒类标签。
+近义对照：
+agave = 龙舌兰（多肉，叶缘带刺）
+aloe = 芦荟（多肉，叶含胶质）
+cactus = 仙人掌（多刺，无真叶）
 
 age
 核心：底层是"经历的时间长度"。人的是年龄，物的是年头，历史的是
@@ -343,6 +416,24 @@ for ages = 很久（口语）
 词族：
 ageing = 老化的
 aged = …岁的；年老的
+⑦ The survey covers every age group.
+= 那项调查覆盖各个年龄段。
+age group = 年龄段
+⑧ There is no age limit for entry.
+= 报名没有年龄上限。
+age limit = 年龄上限
+⑨ They fought an age-long battle.
+= 他们打了一场旷日持久的仗。
+age-long = 长年累月的
+⑩ She grew up with her age-mates.
+= 她跟同龄伙伴一起长大。
+age-mate = 同龄伙伴
+⑪ The age of consent varies by country.
+= 各国的法定同意年龄不一样。
+age of consent = 法定同意年龄
+⑫ Each age-set moves up together.
+= 同一个年龄组一起晋级。
+age-set = 年龄组（人类学）
 
 age-old
 核心：指习俗、问题、争论"由来已久的"，只作定语。
@@ -360,67 +451,3 @@ age-old tradition = 世代相传的习俗
 age-old = 由来已久的
 ancient = 古代的（时间尺度更大）
 long-standing = 长期存在的
-
-aged
-核心：两个读音对应两个意思。读一个音节时是"…岁的"（aged 12），
-读两个音节时是"年老的"（the aged）。这是高频混淆点。
-① He has a son aged ten.
-= 他有个十岁的儿子。
-aged + 数字 = …岁（读一个音节）
-② Care for the aged is costly.
-= 照顾老年人费用高。
-the aged = 老年人（读两个音节）
-③ It's an aged oak barrel.
-= 那是个陈年橡木桶。
-④ The cheese is aged two years.
-= 那款奶酪陈化了两年。
-注意发音：
-aged 12 → /eɪdʒd/ 一个音节
-the aged → /ˈeɪdʒɪd/ 两个音节
-
-ageing
-核心：既是名词"衰老、老化"，也是形容词"日渐老化的"。
-人口老龄化 an ageing population 是社会议题高频词。
-① We have an ageing population.
-= 我们面临人口老龄化。
-ageing population = 老龄化人口
-② The ageing process is complex.
-= 衰老过程很复杂。
-ageing process = 老化过程
-③ The equipment is ageing.
-= 那些设备在老化。
-注意英美拼写：
-英式 ageing / 美式 aging
-词族：age = 年龄；变老
-
-ageless
-核心：两条线：人"看不出年纪、不显老的"，
-和事物"永不过时的"。都是褒义。
-① She seems ageless.
-= 她看着一点不显老。
-② It's an ageless design.
-= 那是个不过时的设计。
-ageless design = 历久弥新的设计
-③ The story has ageless appeal.
-= 那个故事的魅力不受时代限制。
-ageless appeal = 恒久的吸引力
-词族：age = 年龄
-近义对照：
-ageless = 不显老、不过时
-timeless = 永恒的（同义，更常用）
-
-agency
-核心：指代办某类业务的机构。前面加限定词就分出各种类型：travel
-agency、news agency、advertising agency。另有一个正式义指
-"自主行动的能力"，社科文献里常见。
-① She works for a travel agency.
-= 她在一家旅行社工作。
-② The news agency reported it.
-= 那家通讯社报道了此事。
-③ It's a government agency.
-= 那是个政府机构。
-④ People need a sense of agency.
-= 人需要一种自主感。
-这里：
-agency = 自主能动性
-注意复数：agency → agencies
