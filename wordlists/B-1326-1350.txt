@@ -13,6 +13,69 @@ aquiline profile = 鹰钩鼻侧影
 注意：aquiline 是中性偏褒的描述，
 指轮廓分明，不是贬义。
 
+Arab
+核心：指"阿拉伯人、阿拉伯的"——以阿拉伯语为母语、分布在西亚北非
+二十多个国家的族群。注意三个词各管一摊：Arab 指人和族群，
+Arabic 指语言和文字，Arabian 指阿拉伯半岛那个地方。
+另有一个用法指阿拉伯马，那是最古老的驯养马种之一。
+① She is of Arab descent.
+= 她有阿拉伯血统。
+of Arab descent = 阿拉伯血统的
+② Arab states signed the accord.
+= 阿拉伯各国签了那份协定。
+Arab states = 阿拉伯国家
+③ The Arab world spans two continents.
+= 阿拉伯世界横跨两个大洲。
+the Arab world = 阿拉伯世界
+④ He breeds Arabs on the ranch.
+= 他在牧场养阿拉伯马。
+Arab = 阿拉伯马
+注意别混：
+Arab = 阿拉伯人（族群）
+Arabic = 阿拉伯语（语言文字）
+Arabian = 阿拉伯半岛的（地理）
+
+Arabian
+核心：指"阿拉伯半岛的"——落在地理上，不是落在族群或语言上。
+最常见的搭配是阿拉伯半岛、阿拉伯海、阿拉伯之夜。咖啡里的
+arabica 也是从这个地名来的，那是风味最好、种植最广的一个种。
+① The Arabian Peninsula is mostly desert.
+= 阿拉伯半岛大部分是沙漠。
+the Arabian Peninsula = 阿拉伯半岛
+② Ships crossed the Arabian Sea.
+= 船只横渡阿拉伯海。
+the Arabian Sea = 阿拉伯海
+③ She read the Arabian Nights as a child.
+= 她小时候读过一千零一夜。
+the Arabian Nights = 一千零一夜
+④ The blend uses only arabica beans.
+= 那款拼配只用阿拉比卡豆。
+arabica = 阿拉比卡咖啡（小粒种）
+注意别混：
+Arabian = 阿拉伯半岛的（地理）
+Arab = 阿拉伯人的（族群）
+
+Arabic
+核心：专指"阿拉伯语、阿拉伯文"，以及跟这套文字有关的东西。它从右
+往左写，是全球第五大语言。我们今天用的 0 到 9 这套数字叫
+Arabic numeral，是经阿拉伯人传到欧洲的，源头其实在印度。
+① She speaks fluent Arabic.
+= 她阿拉伯语说得很流利。
+speak Arabic = 说阿拉伯语
+② Arabic is written from right to left.
+= 阿拉伯文从右往左写。
+③ The manuscript is in classical Arabic.
+= 那份手稿用的是古典阿拉伯语。
+classical Arabic = 古典阿拉伯语
+④ We count with Arabic numerals.
+= 我们用的是阿拉伯数字。
+Arabic numeral = 阿拉伯数字
+⑤ Arabic script spread with Islam.
+= 阿拉伯文字随伊斯兰教扩散。
+Arabic script = 阿拉伯文字
+注意用法：
+指语言文字时用它，指人要说 Arab。
+
 arable
 核心：指土地"适于耕种的"，与放牧用地相对。
 最常见的搭配是 arable land、arable farming。
@@ -28,6 +91,21 @@ arable farming = 种植农业
 arable = 种植的（耕地）
 pastoral = 放牧的（草场）
 fallow = 休耕的
+
+arachnid
+核心：蛛形纲动物的统称——八条腿、身体分两段、没有触角也没有翅膀，
+蜘蛛、蝎子、螨、蜱都属于它。跟昆虫的分别一眼可辨：昆虫六条腿、
+身体三段、多半有翅。怕它们的那种恐惧叫 arachnophobia。
+① Spiders and scorpions are arachnids.
+= 蜘蛛和蝎子都属蛛形纲。
+② Arachnids have eight legs.
+= 蛛形纲动物有八条腿。
+③ Her arachnophobia keeps her out of the shed.
+= 她怕蜘蛛，连棚子都不敢进。
+arachnophobia = 蜘蛛恐惧症
+注意别混：
+arachnid = 蛛形纲（八腿，两段身）
+insect = 昆虫（六腿，三段身）
 
 arbiter
 核心：指有权裁断的人。两条线：正式的"仲裁人"，
@@ -45,6 +123,24 @@ final arbiter = 最终裁定者
 arbiter = 裁断者（有权定夺）
 arbitrator = 仲裁员（正式程序）
 judge = 法官、评委
+
+arbitrage
+核心：金融操作，指"套利"——同一样东西在两个市场价钱不同，
+就低买高卖，赚那个价差。理论上无风险，因为买和卖几乎同时完成。
+做这行的人叫 arbitrageur。也作动词。
+① Arbitrage exploits price differences.
+= 套利利用的是价差。
+exploit price differences = 利用价差
+② Traders arbitrage between exchanges.
+= 交易员在几家交易所之间套利。
+③ The arbitrageur closed both legs at once.
+= 那位套利者同时了结了两边头寸。
+arbitrageur = 套利者
+④ Fast networks squeezed arbitrage margins.
+= 高速网络把套利空间挤没了。
+arbitrage margin = 套利空间
+注意语域：
+金融交易术语。
 
 arbitrary
 核心：指决定"没有依据、全凭个人意志的"，贬义。
@@ -111,6 +207,61 @@ rule in someone's favour = 判某人胜
 近义对照：
 arbitrator = 仲裁员（有裁决权）
 mediator = 调解人（无裁决权）
+
+arboreal
+核心：形容词，指"树栖的、树木的"。说动物时指一辈子基本在树上过，
+在树间攀爬跳跃；说环境时指跟树木有关的。树懒、猴子、树蛙
+都是典型的树栖动物。
+① Sloths are strictly arboreal.
+= 树懒完全在树上生活。
+strictly arboreal = 完全树栖的
+② Arboreal species need canopy corridors.
+= 树栖物种需要树冠廊道。
+arboreal species = 树栖物种
+③ The park has a rich arboreal cover.
+= 那个公园树木覆盖很好。
+注意语域：
+生态学与动物学术语。
+栖境对照：
+arboreal = 树栖的
+terrestrial = 陆栖的
+aquatic = 水栖的
+
+arboretum
+核心：种着各色树木供人观赏和研究的"树木园"，本质上是一座
+专收树的植物园，每株都挂牌标名。复数是 arboreta 或 arboretums。
+① The arboretum holds three hundred species.
+= 那座树木园收了三百个树种。
+② They walked through the arboretum in autumn.
+= 他们秋天在树木园里走了一圈。
+③ Each tree in the arboretum is labelled.
+= 树木园里每棵树都挂了牌。
+注意用法：
+复数把词尾改成 arboreta，也可直接加 s。
+近义对照：
+arboretum = 树木园（专收树）
+botanical garden = 植物园（各类植物都收）
+
+arboriculture
+核心：底层是拉丁语的"树"——指"树木栽培学"，专管单株树木的种植、
+修剪、诊病和保护，跟以成片林子和木材产出为目标的林业不同。
+从业者叫 arboriculturist，日常多说 arborist（树艺师）。
+形容词是 arboricultural。
+① Arboriculture keeps street trees alive.
+= 树艺让行道树活得下去。
+② The council employs an arborist.
+= 议会雇了位树艺师。
+arborist = 树艺师
+③ She took an arboricultural qualification.
+= 她考了树艺方面的资格。
+arboricultural = 树艺的
+④ An arboriculturist assessed the storm damage.
+= 一位树艺专家评估了风灾损害。
+arboriculturist = 树艺专家
+注意别混：
+arboriculture = 树艺（管单株树）
+forestry = 林业（管成片林子与木材）
+horticulture = 园艺（管花果菜）
 
 arc
 核心：指弧、弧形轨迹。数学上是圆的一段，
@@ -274,135 +425,3 @@ draw a bow = 拉弓
 archery = 射箭运动
 bow = 弓 / arrow = 箭
 quiver = 箭袋
-
-archery
-核心：指射箭这项运动，不可数。奥运项目之一。
-① He took up archery.
-= 他开始练射箭。
-take up archery = 学射箭
-② Archery requires steady hands.
-= 射箭需要手稳。
-③ The archery range is outside.
-= 射箭场在外面。
-archery range = 射箭场
-词族：
-archer = 弓箭手
-相关词：
-target = 靶
-bullseye = 靶心
-
-archetypal
-核心：指"典型的、原型式的"——最能代表某一类的。
-比 typical 更强调"本源、范式"。
-① He's the archetypal English gentleman.
-= 他是典型的英国绅士。
-archetypal figure = 典型人物
-② It's an archetypal love story.
-= 那是个原型式的爱情故事。
-③ The plot is archetypal.
-= 那个情节是经典范式。
-词族：archetype
-近义对照：
-archetypal = 原型式的（本源范式）
-typical = 典型的（常见）
-quintessential = 精髓的（最纯粹）
-
-archetype
-核心：指"原型、典型代表"——某一类事物最本源的样板。
-心理学里指荣格说的集体无意识原型。介词用 of。
-① He is the archetype of a hero.
-= 他是英雄的原型。
-the archetype of = …的典型
-② The story uses ancient archetypes.
-= 那个故事用了古老的原型。
-③ It became an archetype.
-= 它成了一种范式。
-注意发音：/ˈɑːkitaɪp/，ch 读 /k/。
-词族：archetypal = 典型的
-近义对照：
-archetype = 原型（最本源的样板）
-prototype = 原型机（第一个实物）
-stereotype = 刻板印象（简化偏见）
-
-archipelago
-核心：指群岛——成群分布的岛屿。可数。
-注意重音和 ch 的读音。
-① Indonesia is an archipelago.
-= 印度尼西亚是个群岛国家。
-② They sailed through the archipelago.
-= 他们穿行于群岛之间。
-③ The archipelago has 300 islands.
-= 那个群岛有三百个岛。
-注意复数：
-archipelago → archipelagos 或 archipelagoes
-注意发音：/ˌɑːkɪˈpeləɡəʊ/，ch 读 /k/。
-地理对照：
-archipelago = 群岛
-peninsula = 半岛
-isthmus = 地峡
-
-architect
-核心：设计建筑的人。比喻义指某项事业的"缔造者、总设计师"，
-搭配 the architect of。词族 architecture 既指建筑学也指建筑风格，
-计算机里还指"体系结构"。
-① She is a famous architect.
-= 她是位著名建筑师。
-② He was the architect of the reform.
-= 他是那场改革的总设计师。
-the architect of = …的缔造者
-③ The architect designed the museum.
-= 那位建筑师设计了这座博物馆。
-词族：
-architecture = 建筑学、建筑风格
-architectural = 建筑的
-注意发音：ch 读 /k/，
-读 /ˈɑːkɪtekt/，不是 /tʃ/。
-
-architectural
-核心：指"建筑的、建筑学的"。常见搭配
-architectural style / design / heritage。
-① The architectural style is Gothic.
-= 那种建筑风格是哥特式。
-architectural style = 建筑风格
-② Architectural drawings were approved.
-= 建筑图纸获批了。
-architectural drawing = 建筑图
-③ It has architectural merit.
-= 那栋楼有建筑价值。
-architectural merit = 建筑价值
-副词形式：
-architecturally = 在建筑上
-词族：architect、architecture
-
-architecture
-核心：三条线：建筑学这门学科、某种"建筑风格"、
-以及计算机的"体系结构"。不可数为主。
-① She studies architecture.
-= 她学建筑。
-② Gothic architecture is soaring.
-= 哥特建筑高耸入云。
-Gothic architecture = 哥特式建筑
-③ The system architecture is modular.
-= 那个系统架构是模块化的。
-system architecture = 系统架构
-词族：
-architect = 建筑师
-architectural = 建筑的
-注意发音：ch 读 /k/，/ˈɑːkɪtektʃə(r)/
-
-archive
-核心：指"档案、档案馆"，也作动词"归档"。
-常用复数 archives 指整批档案。
-① The archives hold old letters.
-= 那批档案里有旧信件。
-② He works in the national archive.
-= 他在国家档案馆工作。
-national archive = 国家档案馆
-③ The emails were archived.
-= 那些邮件被归档了。
-④ She searched the archives.
-= 她查阅了档案。
-search the archives = 查档
-词族：
-archivist = 档案管理员
-archival = 档案的

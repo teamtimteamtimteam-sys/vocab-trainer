@@ -1,3 +1,135 @@
+archery
+核心：指射箭这项运动，不可数。奥运项目之一。
+① He took up archery.
+= 他开始练射箭。
+take up archery = 学射箭
+② Archery requires steady hands.
+= 射箭需要手稳。
+③ The archery range is outside.
+= 射箭场在外面。
+archery range = 射箭场
+词族：
+archer = 弓箭手
+相关词：
+target = 靶
+bullseye = 靶心
+
+archetypal
+核心：指"典型的、原型式的"——最能代表某一类的。
+比 typical 更强调"本源、范式"。
+① He's the archetypal English gentleman.
+= 他是典型的英国绅士。
+archetypal figure = 典型人物
+② It's an archetypal love story.
+= 那是个原型式的爱情故事。
+③ The plot is archetypal.
+= 那个情节是经典范式。
+词族：archetype
+近义对照：
+archetypal = 原型式的（本源范式）
+typical = 典型的（常见）
+quintessential = 精髓的（最纯粹）
+
+archetype
+核心：指"原型、典型代表"——某一类事物最本源的样板。
+心理学里指荣格说的集体无意识原型。介词用 of。
+① He is the archetype of a hero.
+= 他是英雄的原型。
+the archetype of = …的典型
+② The story uses ancient archetypes.
+= 那个故事用了古老的原型。
+③ It became an archetype.
+= 它成了一种范式。
+注意发音：/ˈɑːkitaɪp/，ch 读 /k/。
+词族：archetypal = 典型的
+近义对照：
+archetype = 原型（最本源的样板）
+prototype = 原型机（第一个实物）
+stereotype = 刻板印象（简化偏见）
+
+archipelago
+核心：指群岛——成群分布的岛屿。可数。
+注意重音和 ch 的读音。
+① Indonesia is an archipelago.
+= 印度尼西亚是个群岛国家。
+② They sailed through the archipelago.
+= 他们穿行于群岛之间。
+③ The archipelago has 300 islands.
+= 那个群岛有三百个岛。
+注意复数：
+archipelago → archipelagos 或 archipelagoes
+注意发音：/ˌɑːkɪˈpeləɡəʊ/，ch 读 /k/。
+地理对照：
+archipelago = 群岛
+peninsula = 半岛
+isthmus = 地峡
+
+architect
+核心：设计建筑的人。比喻义指某项事业的"缔造者、总设计师"，
+搭配 the architect of。词族 architecture 既指建筑学也指建筑风格，
+计算机里还指"体系结构"。
+① She is a famous architect.
+= 她是位著名建筑师。
+② He was the architect of the reform.
+= 他是那场改革的总设计师。
+the architect of = …的缔造者
+③ The architect designed the museum.
+= 那位建筑师设计了这座博物馆。
+词族：
+architecture = 建筑学、建筑风格
+architectural = 建筑的
+注意发音：ch 读 /k/，
+读 /ˈɑːkɪtekt/，不是 /tʃ/。
+
+architectural
+核心：指"建筑的、建筑学的"。常见搭配
+architectural style / design / heritage。
+① The architectural style is Gothic.
+= 那种建筑风格是哥特式。
+architectural style = 建筑风格
+② Architectural drawings were approved.
+= 建筑图纸获批了。
+architectural drawing = 建筑图
+③ It has architectural merit.
+= 那栋楼有建筑价值。
+architectural merit = 建筑价值
+副词形式：
+architecturally = 在建筑上
+词族：architect、architecture
+
+architecture
+核心：三条线：建筑学这门学科、某种"建筑风格"、
+以及计算机的"体系结构"。不可数为主。
+① She studies architecture.
+= 她学建筑。
+② Gothic architecture is soaring.
+= 哥特建筑高耸入云。
+Gothic architecture = 哥特式建筑
+③ The system architecture is modular.
+= 那个系统架构是模块化的。
+system architecture = 系统架构
+词族：
+architect = 建筑师
+architectural = 建筑的
+注意发音：ch 读 /k/，/ˈɑːkɪtektʃə(r)/
+
+archive
+核心：指"档案、档案馆"，也作动词"归档"。
+常用复数 archives 指整批档案。
+① The archives hold old letters.
+= 那批档案里有旧信件。
+② He works in the national archive.
+= 他在国家档案馆工作。
+national archive = 国家档案馆
+③ The emails were archived.
+= 那些邮件被归档了。
+④ She searched the archives.
+= 她查阅了档案。
+search the archives = 查档
+词族：
+archivist = 档案管理员
+archival = 档案的
+
 archivist
 核心：指管理档案的专业人员——负责整理、保存、
 提供查阅。
@@ -106,6 +238,27 @@ arduous = 艰巨费力（耗时耗力）
 strenuous = 费劲的（体力）
 laborious = 繁重的（琐碎冗长）
 
+are
+核心：be 的现在时复数与第二人称形式——跟 you、we、they 以及所有
+复数主语搭配。它同时承担进行时和被动语态的助动词。
+缩略式是 're，否定缩略是 aren't。
+① You are late.
+= 你迟到了。
+② They are waiting outside.
+= 他们在外面等着。
+这里作进行时的助动词。
+③ The doors are locked at nine.
+= 门九点上锁。
+这里作被动语态的助动词。
+④ We're nearly there.
+= 我们快到了。
+'re = are 的缩略式
+⑤ There are three left.
+= 还剩三个。
+there are = 有（后接复数）
+注意用法：
+第一人称单数用 am，第三人称单数用 is。
+
 area
 核心：底层是"一片范围"。地理上的地区、数学上的面积、抽象上的领域，
 都是同一条主线。in the area of 在学术写作里常用来说"在…领域"。
@@ -129,6 +282,23 @@ region 地区（较大，有特征）
 district 区（行政划分）
 zone 地带（有特定用途）
 
+aren't
+核心：are not 的缩略式。有个特别之处：在反问句里它还顶替
+am not——英语没有 amn't 这个说法，所以要说 aren't I。
+这是标准用法，不是口误。
+① They aren't ready.
+= 他们还没准备好。
+aren't = are not
+② Aren't you coming?
+= 你不来吗？
+③ I'm right, aren't I?
+= 我说得对，是不是？
+aren't I = 我不是吗（反问句里顶替 am not）
+④ There aren't any left.
+= 一个也不剩了。
+注意用法：
+反问句里的 aren't I 是标准说法，不算不规范。
+
 arena
 核心：两条线：体育或表演的"竞技场、场馆"，
 和比喻义的"（活动、竞争的）领域"。介词用 of。
@@ -146,6 +316,40 @@ arena of competition = 竞争场域
 arena = 场馆；领域（有对抗性）
 stadium = 体育场（露天大型）
 venue = 场地（通用）
+
+arête
+核心：登山与地貌用词，指"刃脊"——两侧冰川各自向下刨蚀，中间剩下
+一道薄薄的山脊，窄得像刀刃，两边都是陡壁。法语借词，
+词上那个尖音符不能省。
+① They traversed the arête in single file.
+= 他们排成一列走过刃脊。
+traverse an arête = 横越刃脊
+② The arête drops away on both sides.
+= 刃脊两侧都是陡坡。
+③ Glaciers carve an arête between two cirques.
+= 冰川在两个冰斗之间刨出刃脊。
+注意语域：
+地貌学与登山术语。
+注意拼写：
+词中带尖音符，不能省。
+
+argot
+核心：指某个圈子内部的"行话、黑话"——小偷、赌徒、某个行业或
+亚文化自己人才懂的说法，外人听着云里雾里。法语借词，
+词尾那个 t 不发音。
+① Thieves' argot puzzled the jury.
+= 窃贼的黑话把陪审团听懵了。
+thieves' argot = 窃贼黑话
+② The trade has its own argot.
+= 那行有自己的行话。
+③ He picked up the argot of the trading floor.
+= 他学会了交易大厅那套行话。
+注意语域：
+略正式，带社会语言学色彩。
+近义对照：
+argot = 黑话（圈内人专用，有隔外之意）
+jargon = 行话（专业术语，未必想瞒人）
+slang = 俚语（非正式，流通更广）
 
 arguable
 核心：两条线，方向相反：一是"有理有据、说得通的"，
@@ -232,207 +436,3 @@ argumentative by nature = 天生爱争
 argumentative = 爱争辩的（贬义，说人）
 well-argued = 论证充分的（褒义，说文章）
 persuasive = 有说服力的
-
-arid
-核心：两条线：气候"干旱的"，
-和比喻义的"枯燥乏味、没有内容的"。
-① The region is arid.
-= 那个地区干旱。
-arid region = 干旱地区
-② Arid land supports little life.
-= 干旱土地上生物稀少。
-arid land = 旱地
-③ The debate was arid.
-= 那场辩论枯燥无味。
-词族：aridity = 干旱
-干湿梯度：
-arid = 干旱（几乎无雨）
-semi-arid = 半干旱
-humid = 潮湿
-
-arise
-核心：指抽象的事物"出现、产生"——问题、机会、疑问、纠纷。不能用于
-具体的人或物起身，那是 rise 或 get up。不及物，没有被动。
-① A problem has arisen.
-= 出了个问题。
-② Questions arose about the cost.
-= 关于成本的疑问出现了。
-③ If the need arises, call me.
-= 如果有需要就找我。
-if the need arises = 如有需要
-④ Difficulties arise from poor planning.
-= 困难源于规划不当。
-arise from = 由…引起
-动词变化：
-arise → arose → arisen
-注意区别：
-arise 抽象事物产生（不及物）
-raise 举起、提高（及物）
-rise 上升（不及物）
-
-aristocracy
-核心：指贵族阶层，也指贵族统治这种政体。
-集合名词，英式可配复数动词。
-① The aristocracy owned the land.
-= 贵族阶层拥有那些土地。
-② She married into the aristocracy.
-= 她嫁入了贵族。
-marry into = 通过婚姻进入
-③ Aristocracy gave way to democracy.
-= 贵族制让位于民主制。
-give way to = 让位于
-词族：
-aristocrat = 贵族
-aristocratic = 贵族的
-构词：aristo- 最好的 + -cracy 统治
-同类：democracy、bureaucracy
-
-aristocrat
-核心：指贵族出身的人。
-和 nobleman 基本同义，aristocrat 更常用。
-① He is a French aristocrat.
-= 他是位法国贵族。
-② Aristocrats fled the revolution.
-= 贵族们逃离了那场革命。
-③ She looks every inch an aristocrat.
-= 她浑身上下都是贵族气派。
-every inch = 十足的
-词族：aristocracy、aristocratic
-注意发音：
-英式 /ˈærɪstəkræt/ 重音在前
-美式 /əˈrɪstəkræt/ 重音在第二音节
-
-aristocratic
-核心：两条线：字面"贵族的、出身贵族的"，
-和比喻义"有贵族派头的"（举止优雅高傲）。
-① He comes from an aristocratic family.
-= 他出身贵族家庭。
-aristocratic family = 贵族门第
-② She has aristocratic bearing.
-= 她有贵族般的气度。
-aristocratic bearing = 高贵的仪态
-③ The house is aristocratic in style.
-= 那栋宅子是贵族风格。
-词族：aristocracy、aristocrat
-
-arithmetic
-核心：指算术——加减乘除这部分数学。不可数。
-注意名词和形容词重音不同。
-① He is good at arithmetic.
-= 他算术好。
-mental arithmetic = 心算
-② Check your arithmetic.
-= 核对一下你的算式。
-③ It's an arithmetic progression.
-= 那是个等差数列。
-arithmetic progression = 等差数列
-注意发音：
-名词 /əˈrɪθmətɪk/ 重音在第二音节
-形容词 /ˌærɪθˈmetɪk/ 重音在第三音节
-数学分支：
-arithmetic 算术 / algebra 代数
-geometry 几何 / calculus 微积分
-
-ark
-核心：指《圣经》里诺亚造的方舟，也指犹太会堂里存放
-律法卷轴的圣柜。注意别和 arc（弧）混，两者同音。
-① Noah built an ark.
-= 诺亚造了一艘方舟。
-Noah's ark = 诺亚方舟
-② Animals entered the ark two by two.
-= 动物两两进了方舟。
-two by two = 成双成对
-③ The Ark of the Covenant was lost.
-= 约柜失落了。
-the Ark of the Covenant = 约柜
-注意别混：
-ark = 方舟
-arc = 弧
-两者读音相同 /ɑːk/。
-
-arm
-核心：名词是"手臂"，也指椅子的扶手、组织的分支。复数 arms 是
-"武器"这个完全不同的意思。动词是"武装"。arm in arm 和 up in arms
-是两个高频习语。
-① He broke his arm.
-= 他胳膊断了。
-② They walked arm in arm.
-= 他们臂挽着臂走。
-arm in arm = 挽着胳膊
-③ The country sells arms.
-= 那个国家出售武器。
-复数 arms = 武器
-④ Rebels armed themselves.
-= 叛军武装了起来。
-这里是动词。
-⑤ Staff are up in arms about it.
-= 员工们为此群情激愤。
-be up in arms = 强烈抗议
-词族：armed = 武装的
-
-armada
-核心：指庞大的舰队，尤指一五八八年西班牙进攻英国的
-"无敌舰队"（the Spanish Armada）。
-① The Spanish Armada was defeated.
-= 西班牙无敌舰队被击败了。
-② An armada of ships arrived.
-= 一支庞大的船队抵达。
-an armada of = 一支庞大的…队
-③ The armada set sail.
-= 舰队起航了。
-set sail = 起航
-词源：西班牙语 armada（武装舰队）
-近义对照：
-armada = 大舰队（庞大，常指历史）
-fleet = 舰队（通用）
-flotilla = 小舰队
-
-armaments
-核心：指一国的"军备、武器装备"，常用复数。
-不同于 arms（泛指武器），armaments 强调成体系的装备。
-① The armaments race escalated.
-= 军备竞赛升级了。
-armaments race = 军备竞赛
-② They reduced their armaments.
-= 他们裁减了军备。
-reduce armaments = 削减军备
-③ The armaments industry is huge.
-= 军工产业规模庞大。
-armaments industry = 军工业
-词族：
-arm = 武装
-armed = 武装的
-近义对照：
-armaments = 军备体系
-arms = 武器（泛指）
-weapons = 兵器（具体）
-
-armband
-核心：指戴在上臂的"臂章"，用来表明身份、
-哀悼或权限。游泳用的浮臂圈也叫 armband。
-① He wore a black armband.
-= 他戴了个黑臂章。
-black armband = 黑纱（哀悼）
-② The captain's armband is yellow.
-= 队长袖标是黄色的。
-captain's armband = 队长袖标
-③ Children wear armbands in the pool.
-= 孩子在泳池里戴浮臂圈。
-构词：arm 臂 + band 带子
-同类构词：
-headband 发带 / wristband 腕带
-
-armchair
-核心：指有扶手的"扶手椅"。作定语时是比喻义，
-指"纸上谈兵的"（armchair critic）。
-① He sat in an armchair.
-= 他坐在扶手椅上。
-② She is an armchair critic.
-= 她是个空谈的评论家。
-armchair critic = 纸上谈兵者
-③ Armchair travel is popular.
-= 足不出户的神游很流行。
-armchair traveller = 神游旅行者
-构词：arm 扶手 + chair 椅
-注意：armchair 作定语一定是贬义，
-指只说不做。
