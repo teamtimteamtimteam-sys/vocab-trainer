@@ -19,6 +19,9 @@ bairn        # 苏格兰／英格兰北部方言的 child
 aapa         # 印度英语，姐姐
 achcha       # 印度英语，好的
 achkan       # 印度英语，男式长外套
+baap         # 印度英语，父亲
+bahu         # 印度英语，儿媳
+bahadur      # 印度英语，旧时勇士封号
 baraza       # 东非（斯瓦希里语借词）的公共集会、议事场
 bandh        # 印度英语，罢市、总罢工
 bandobast    # 印度英语，安排、部署

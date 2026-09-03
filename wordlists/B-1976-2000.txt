@@ -536,26 +536,17 @@ bail = 三柱门上的横木（板球）
 bail out 三义并存：保释、纾困、跳伞。
 名词 bailout 连写，只指纾困。
 
-bait
-核心：底层是"引它上钩的那点东西"。钓鱼下的饵是本义；
-往人身上说是"诱饵"——摆出来引人上当的好处；作动词还有一层
-完全不同的意思："故意激怒"，反复挑衅让人发作。
-网络上的 clickbait 就是前一层，troll 干的事是后一层。
-① He put a worm on the hook as bait.
-= 他挂了条蚯蚓当饵。
-② The offer was just bait.
-= 那个报价不过是个诱饵。
-③ Don't rise to the bait.
-= 别上钩。
-rise to the bait = 中计、被激将
-④ They baited the trap with cheese.
-= 他们用奶酪做饵布了那个陷阱。
-bait a trap = 给陷阱下饵
-⑤ The boys baited him about his accent.
-= 那些男孩拿他的口音激他。
-bait somebody = 故意激怒某人
-⑥ The shop ran a bait-and-switch.
-= 那家店搞的是引诱调包那一套。
-bait-and-switch = 低价引客、到店换贵货
-注意用法：
-第三层是"激怒"，不是"引诱"，两层意思方向不同。
+bailiff
+核心：两层，英美不同。英国的 bailiff 是法院执达员——上门扣押
+财物抵债、执行驱逐令的那个人，所以听到这个词多半没好事。
+美国的 bailiff 是法庭里的法警，维持秩序、看管被告。
+另有旧义指替地主管田产的管家。
+① Bailiffs seized the furniture.
+= 执达员扣走了家具。
+② The bailiff called the court to order.
+= 法警维持了庭上秩序。
+③ The estate had a resident bailiff.
+= 那处地产有个常驻管家。
+注意地域：
+英式指执达员（收债、执行驱逐），
+美式指法庭法警，职责完全不同。
