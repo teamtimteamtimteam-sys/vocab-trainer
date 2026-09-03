@@ -1,53 +1,3 @@
-astride
-核心：指"跨坐着、两腿分开跨在…上"。
-既是介词也是副词。比喻义指横跨两地或两个领域。
-① She sat astride the horse.
-= 她跨坐在马上。
-sit astride = 跨坐
-② He stood astride the line.
-= 他跨在线上站着。
-③ The city sits astride two continents.
-= 那座城市横跨两大洲。
-sit astride = 横跨
-构词：a- + stride 跨步
-近义对照：
-astride = 跨坐（两腿分开）
-across = 横过（通用）
-straddle = 跨立（动词）
-
-astringent
-核心：两条线：化妆品和医学上的"收敛剂"（收缩毛孔或止血），
-和形容评论"尖刻的"。
-① She uses an astringent lotion.
-= 她用收敛水。
-astringent lotion = 收敛化妆水
-② The wine has an astringent taste.
-= 那款酒口感涩。
-astringent taste = 涩味
-③ He wrote an astringent review.
-= 他写了篇尖刻的评论。
-astringent review = 辛辣的评论
-近义对照：
-astringent = 尖刻的（评论）
-acerbic = 尖酸的（机智但伤人）
-caustic = 辛辣的（腐蚀性讽刺）
-
-astrology
-核心：指占星术——认为星辰位置影响人事。
-不是科学。注意和 astronomy（天文学）严格区分。
-① She reads her astrology column.
-= 她看星座专栏。
-astrology column = 占星专栏
-② Astrology is not a science.
-= 占星术不是科学。
-③ He dismissed astrology.
-= 他对占星术不以为然。
-词族：astrologer = 占星师
-注意区别：
-astrology = 占星术（预测命运，非科学）
-astronomy = 天文学（研究天体，科学）
-两个词只差几个字母，别混。
-
 astronaut
 核心：指宇航员。美俄叫法不同：美国用 astronaut，
 俄罗斯用 cosmonaut，中国用 taikonaut。
@@ -425,3 +375,39 @@ atom = 原子
 molecule = 分子
 particle = 粒子
 element = 元素
+
+atomic
+核心：两条线：物理上的"原子的"，
+和涉及核能核武的"原子能的"。
+① Atomic structure was studied.
+= 原子结构得到了研究。
+atomic structure = 原子结构
+② The atomic bomb changed warfare.
+= 原子弹改变了战争。
+atomic bomb = 原子弹
+③ Atomic energy powers the plant.
+= 原子能为那座电厂供能。
+atomic energy = 原子能
+词族：atom
+近义对照：
+atomic = 原子的（较早的说法）
+nuclear = 核的（现在更常用）
+现在多说 nuclear power、nuclear weapon。
+
+atone
+核心：指为过错"赎罪、弥补"。介词固定用 for。
+宗教和道德语境都用。
+① He tried to atone for his mistake.
+= 他试图弥补自己的过错。
+atone for = 为…赎罪
+② Nothing can atone for that.
+= 那种事无法弥补。
+③ She atoned by helping others.
+= 她以助人来赎过。
+词族：
+atonement = 赎罪
+构词：at + one，原意「重归合一」
+近义对照：
+atone for = 赎罪弥补（道德分量重）
+make amends = 赔罪补偿（通用）
+compensate = 补偿（可指金钱）

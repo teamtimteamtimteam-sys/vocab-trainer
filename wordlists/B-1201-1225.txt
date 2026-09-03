@@ -33,6 +33,23 @@ aperture = 光圈
 shutter speed = 快门速度
 ISO = 感光度
 
+apeshit
+核心：粗俗俚语，只用在 go apeshit 这个说法里，指"暴跳如雷"，
+也可指"兴奋到失控"。字面把人比作发狂的猿，语气很重。
+① He went apeshit when he saw the bill.
+= 他看到账单当场炸了。
+go apeshit = 暴跳如雷
+② The crowd went apeshit at the encore.
+= 返场时全场嗨翻了。
+③ Don't go apeshit over a typo.
+= 别为一个错字发那么大火。
+注意语域：
+粗俗俚语，正式场合与书面语一律不用。
+近义对照：
+go apeshit = 暴跳如雷（粗俗）
+go ballistic = 大发雷霆（口语，稍轻）
+lose one's temper = 发脾气（通用）
+
 apex
 核心：字面指三角形或山峰的"顶点"，
 比喻指事业、权力的"顶峰"。介词用 of。
@@ -141,6 +158,24 @@ apiculturist = 养蜂人
 注意语域：
 农业与昆虫学用语，日常说 beekeeping。
 
+apiculture
+核心：底层是拉丁语的"蜜蜂"——指"养蜂业、养蜂学"，从选王、分蜂到
+取蜜的整套技术。形容词 apicultural，从业者叫 apiculturist，
+放蜂箱的场地叫 apiary。日常口语一律说 beekeeping。
+① Apiculture supports local orchards.
+= 养蜂业支撑着当地的果园。
+support orchards = 支撑果园（授粉）
+② She teaches apiculture at the college.
+= 她在学院教养蜂学。
+③ The region has a long apicultural tradition.
+= 那一带有悠久的养蜂传统。
+apicultural = 养蜂的
+④ An apiculturist inspected the hives.
+= 一位养蜂人检查了蜂箱。
+apiculturist = 养蜂人
+注意语域：
+农学与昆虫学用语，日常说 beekeeping。
+
 apiece
 核心：副词，指"每个、每人"，放在数量或价格之后。
 和 each 同义但位置固定在后。
@@ -156,6 +191,22 @@ score … apiece = 各得…分
 apiece 只放在后面
 each 可前可后
 They cost £5 each. = 同义
+
+aplenty
+核心：形容词兼副词，指"多得很、有的是"，用法特别：它必须放在
+名词后面，不能放前面。带点文学腔或俏皮劲儿。
+① There were problems aplenty.
+= 问题多得是。
+problems aplenty = 一堆问题
+② The garden had roses aplenty.
+= 园子里玫瑰开得满满当当。
+③ She found reasons aplenty to refuse.
+= 她找出一堆理由拒绝。
+reasons aplenty = 理由一大把
+注意语序：
+只能后置，不能放在名词前面。
+注意语域：
+文学腔或俏皮说法，正式文本少用。
 
 aplomb
 核心：指面对难堪或困境时的"泰然自若"，褒义。
@@ -223,6 +274,24 @@ apocalypse = 末日
 注意：说某人 apocalyptic
 常带"言过其实"的暗示。
 
+apocope
+核心：语音学术语，指"词尾脱落"——把词末尾的一个音或一个音节
+省掉。英语里 photograph 说成 photo、advertisement 说成 ad
+都是这个过程。重音在第二个音节。
+① Apocope shortened the word over time.
+= 词尾脱落让这个词越变越短。
+② Many nicknames arise by apocope.
+= 很多昵称都是词尾脱落来的。
+arise by apocope = 因词尾脱落而产生
+③ Apocope is common in casual speech.
+= 随意口语里词尾脱落很常见。
+注意语域：
+语音学与历史语言学术语。
+位置对照：
+apocope = 词尾脱落（掉后面）
+syncope = 词中脱落（掉中间）
+aphaeresis = 词首脱落（掉前面）
+
 apocryphal
 核心：底层是希腊语的"藏起来的"。故事、名言、轶事"来路不明、
 八成是编的"，就用这个词——听着有鼻子有眼，但查无实据。
@@ -260,6 +329,22 @@ reach its apogee = 达到顶峰
 apogee = 远地点；顶点
 perigee = 近地点（离地球最近）
 nadir = 最低点（谷底）
+
+apolitical
+核心：指"不问政治的"——既可以说人对政治不感兴趣、不站队，
+也可以说机构或活动刻意不涉政治。前缀 a 表示"无"，
+它跟"反对政治"不是一回事。
+① She insists the charity is apolitical.
+= 她坚称那家慈善机构不涉政治。
+② Young voters are not necessarily apolitical.
+= 年轻选民未必对政治冷淡。
+③ He kept an apolitical stance at work.
+= 他在单位保持不谈政治的姿态。
+an apolitical stance = 不涉政治的立场
+注意别混：
+apolitical = 不问政治的（不参与）
+anti-political = 反对政治的（有立场地反对）
+nonpartisan = 无党派的（不偏袒任何一党）
 
 apologetic
 核心：指"表示歉意的"，可以说语气、表情、信件。
@@ -346,88 +431,3 @@ owe someone an apology = 欠某人一个道歉
 = 送来了缺席的致歉。
 send apologies = 致歉缺席（会议用语）
 词族：apologize、apologetic
-
-apoplectic
-核心：底层是旧医学词 apoplexy——"中风"，人突然倒地不省人事。
-因为中风前后常见面红脖子粗，这个形容词就被借去说人"气得发紫、
-暴跳如雷"，今天这个引申义才是日常用法。
-① He was apoplectic with rage.
-= 他气得脸都紫了。
-apoplectic with rage = 暴怒得脸色发紫
-② The decision left shareholders apoplectic.
-= 那个决定让股东们暴跳如雷。
-③ The old records call the death an apoplexy.
-= 旧档案把那次死亡记作中风。
-apoplexy = 中风（旧医学用语）
-④ She turned apoplectic at the suggestion.
-= 一听那个提议她就火冒三丈。
-注意语域：
-医学义已过时，今天说 stroke；日常只用引申义，
-且多半带夸张的调侃口气。
-
-apostasy
-核心：底层是"站到外面去"——公开放弃自己原本信奉的宗教、政党
-或主张。这么做的人叫 apostate。这个词分量很重，说的不是悄悄
-淡出，而是明确背离，所以多带谴责的口气。
-① He was accused of apostasy.
-= 他被指背教。
-be accused of apostasy = 被指控背教
-② Apostasy carries severe penalties there.
-= 在那里背教会受重罚。
-③ The party called her move apostasy.
-= 该党称她的转向是叛党。
-④ The apostate published a memoir.
-= 那位背教者出了本回忆录。
-apostate = 背教者、叛党者
-注意语域：
-宗教与政治语境，措辞严厉。
-近义对照：
-apostasy = 背教（公开放弃原信仰）
-heresy = 异端（仍在教内但主张有偏）
-
-apostle
-核心：宗教上指耶稣的十二使徒，
-比喻义指某种主张的"热忱倡导者"。介词用 of。
-① The twelve apostles followed Jesus.
-= 十二使徒追随耶稣。
-② He is an apostle of free trade.
-= 他是自由贸易的鼓吹者。
-an apostle of = …的倡导者
-③ Apostles spread the message.
-= 使徒们传播教义。
-注意发音：/əˈpɒsl/，t 不发音。
-近义对照：
-apostle = 使徒；热忱倡导者
-disciple = 门徒（追随者）
-advocate = 倡导者（中性）
-
-apostrophe
-核心：指撇号「'」这个标点，两个用途：表示所有格
-（John's）和表示省略（don't）。注意别用来构成复数。
-① Use an apostrophe for possession.
-= 所有格要用撇号。
-② "Don't" has an apostrophe.
-= 「don't」里有个撇号。
-③ The apostrophe is often misused.
-= 撇号常被用错。
-常见错误：
-apple's（复数）是错的，应写 apples
-its = 它的（无撇号）
-it's = it is 的缩写（有撇号）
-注意发音：/əˈpɒstrəfi/，四个音节。
-
-apostrophize
-核心：修辞学动词，指"顿呼"——写作或演说中忽然掉转头去，
-直接对一个不在场的人、死者、甚至抽象事物说话。这跟标点里那个
-撇号是同一个词根，但完全是两回事。
-① The poet apostrophizes the sea.
-= 诗人掉头向大海说起话来。
-② He apostrophized his absent father.
-= 他对着不在场的父亲倾诉。
-③ Odes often apostrophize abstract qualities.
-= 颂诗常直接呼告抽象的品质。
-注意别混：
-apostrophize = 顿呼（修辞手法）
-apostrophe = 撇号；也指这种顿呼
-注意语域：
-文学修辞术语。

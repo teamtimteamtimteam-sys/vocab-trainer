@@ -1,39 +1,3 @@
-atomic
-核心：两条线：物理上的"原子的"，
-和涉及核能核武的"原子能的"。
-① Atomic structure was studied.
-= 原子结构得到了研究。
-atomic structure = 原子结构
-② The atomic bomb changed warfare.
-= 原子弹改变了战争。
-atomic bomb = 原子弹
-③ Atomic energy powers the plant.
-= 原子能为那座电厂供能。
-atomic energy = 原子能
-词族：atom
-近义对照：
-atomic = 原子的（较早的说法）
-nuclear = 核的（现在更常用）
-现在多说 nuclear power、nuclear weapon。
-
-atone
-核心：指为过错"赎罪、弥补"。介词固定用 for。
-宗教和道德语境都用。
-① He tried to atone for his mistake.
-= 他试图弥补自己的过错。
-atone for = 为…赎罪
-② Nothing can atone for that.
-= 那种事无法弥补。
-③ She atoned by helping others.
-= 她以助人来赎过。
-词族：
-atonement = 赎罪
-构词：at + one，原意「重归合一」
-近义对照：
-atone for = 赎罪弥补（道德分量重）
-make amends = 赔罪补偿（通用）
-compensate = 补偿（可指金钱）
-
 atonement
 核心：指为过错所做的"赎罪、补偿"。不可数。
 宗教语境里 the Atonement 特指基督的救赎。
@@ -446,3 +410,23 @@ attic = 阁楼（可利用的屋顶空间）
 loft = 顶层空间（英式常指未装修）
 basement = 地下室
 cellar = 地窖（存酒存物）
+
+attire
+核心：正式用语，指"服装、装束"，不可数。
+多用于说明着装要求（formal attire）。
+① Formal attire is required.
+= 要求正装出席。
+formal attire = 正装
+② She wore evening attire.
+= 她穿着晚礼服。
+evening attire = 晚装
+③ Business attire is expected.
+= 要求商务着装。
+business attire = 商务装
+注意：attire 不可数，
+不说 an attire、attires。
+近义对照：
+attire = 装束（正式，多指场合着装）
+clothing = 衣物（通用）
+outfit = 一整套装扮
+dress code = 着装规范
