@@ -330,6 +330,31 @@ main{
   margin:0 0 12px;padding-left:15px;border-left:2px solid var(--line);
 }
 
+/* ============================ 复习出题 ============================ */
+.quizhead{margin-bottom:14px}
+.tierchip{
+  display:inline-block;font-family:var(--mono);font-size:calc(11px*var(--fs));
+  font-weight:600;letter-spacing:.04em;color:var(--green-text);
+  background:var(--green-wash);border-radius:999px;padding:4px 11px;
+}
+.qopts{display:flex;flex-direction:column;gap:9px;margin-top:18px}
+.qopt{
+  text-align:left;padding:14px 16px;border-radius:var(--r-md);
+  border:1px solid var(--line-strong);background:var(--glass-sunk);
+  font-size:calc(15px*var(--fs));color:var(--fg);line-height:1.5;
+  transition:background .13s,border-color .13s,transform .1s;
+}
+.qopt:active{transform:scale(.988)}
+.qopt.right{background:var(--green-wash);border-color:var(--green);color:var(--green-text);font-weight:600}
+.qopt.wrong{background:var(--danger-wash);border-color:var(--danger);color:var(--danger)}
+.qopt.dim{opacity:.4}
+.l4input{
+  flex:1;min-height:50px;padding:0 16px;border-radius:var(--r-md);
+  border:1px solid var(--line-strong);background:var(--glass);
+  font-size:calc(16px*var(--fs));color:var(--fg);
+}
+.l4input:focus{border-color:var(--green);outline:none}
+
 .notes{background:var(--glass-sunk);border-radius:var(--r-md);padding:13px 15px;margin-top:11px}
 .notes > *{margin:0}
 .notes > * + *{margin-top:8px}
@@ -408,9 +433,6 @@ main{
 .gcell.learning{border-color:var(--ink)}
 .gcell.reviewing{background:var(--green-wash);border-color:var(--green-line)}
 .gcell.reviewing b,.gcell.reviewing span{color:var(--green-text)}
-.gcell.mastered{background:var(--green);border-color:transparent}
-.gcell.mastered b,.gcell.mastered span{color:var(--on-green)}
-.gcell.due{border-color:var(--green);border-width:2px}
 
 .listitem{
   display:flex;align-items:baseline;gap:12px;padding:13px 4px;
@@ -537,12 +559,22 @@ textarea.ta:focus{outline:none;border-color:var(--green-line);box-shadow:0 0 0 3
    数据：IndexedDB(vocab_v1)  设置：localStorage
    ========================================================================= */
 
-const GROUP_SIZE = 50;
-const INTERVALS  = [1, 2, 4, 7, 15, 30];   // 天，从整组背完当天起算
-const DAILY_CAP  = 5;                       // 每日复习配额（组）
+const GROUP_TARGET = 230;                   // 每批背诵目标义项数（可调），不是词数——
+                                             // 词的信息量差到 14 倍（back 一词=14个普通词），
+                                             // 按词数切组会让每天的负担忽大忽小
+const GROUP_FLOOR_RATIO = 0.4;              // 批太小就宁可超过目标也不提前收尾
+// 统一阶梯：每级同时决定复习间隔（天）和这一级允许的最高题型（1-4）。
+// 答对：stage 前进一级；答错：stage 后退两级（下限 0）——间隔和题型一起变，
+// 不再是两个独立旋钮。stage 7（90天）是终点：多义词答对后卡在这一级原地循环
+// （见 MULTISENSE_STAGE_CAP），单义词达到这一级就等于「进入长期轮换」，
+// 不需要另开一套「长期池」机制，它本来就是这张表的最后一格。
+const LADDER      = [1, 2, 4, 7, 15, 30, 60, 90];   // 天
+const LADDER_TIER = [1, 1, 2, 2, 3,  3,  4,  4];    // 每级允许的最高题型
+const MULTISENSE_THRESHOLD = 12;   // ≥12 义项算「核心词」，反正考不全，不给毕业资格
+const MULTISENSE_STAGE_CAP = 5;    // 核心词永远卡在这一级（30天/L3），不许升到 60/90天
 const DAY_START  = 4;                       // 凌晨 4:00 为一天分界
 const BACKUP_WARN_DAYS = 7;
-const APP_VERSION = "1.4.0";
+const APP_VERSION = "2.0.0";
 
 /* ---------------------------------------------------------------- utils */
 const $ = s => document.querySelector(s);
@@ -598,19 +630,27 @@ function toast(msg) {
 let db;
 function openDB() {
   return new Promise((res, rej) => {
-    const rq = indexedDB.open("vocab_v1", 2);
+    const rq = indexedDB.open("vocab_v1", 3);
     rq.onupgradeneeded = e => {
       const d = e.target.result;
+      let w;
       if (!d.objectStoreNames.contains("words")) {
-        const w = d.createObjectStore("words", { keyPath: "id" });
+        w = d.createObjectStore("words", { keyPath: "id" });
         w.createIndex("by_word", "wordKey", { unique: true });
         w.createIndex("by_group", "groupId");
+      } else {
+        w = e.target.transaction.objectStore("words");
       }
       if (!d.objectStoreNames.contains("groups")) d.createObjectStore("groups", { keyPath: "id" });
       if (!d.objectStoreNames.contains("meta"))   d.createObjectStore("meta", { keyPath: "k" });
       // v2：中文反查索引。单独建 store 是为了让扫描只读几十字节 / 条，
       // 而不是把 800 字节的完整词条全部反序列化一遍。
       if (!d.objectStoreNames.contains("zhidx"))  d.createObjectStore("zhidx", { keyPath: "id" });
+      // v3：复习下沉到词级，需要按到期日范围查询——不能再靠常驻内存的
+      // S.groups 扫一遍了，6 万词的量级必须走索引，不能全表扫描。
+      // nextReviewDate 在没进复习前是 undefined（字段整个不写），
+      // IndexedDB 索引会自动跳过没有该字段的记录，天然把待背/背诵中的词排除在外。
+      if (!w.indexNames.contains("by_due")) w.createIndex("by_due", "nextReviewDate");
     };
     rq.onsuccess = e => { db = e.target.result; res(db); };
     rq.onerror = e => rej(e.target.error);
@@ -711,33 +751,39 @@ async function loadState() {
 }
 const groupById = id => S.groups.find(g => g.id === id);
 
-/* ---------------------------------------------------- 复习调度 / 门禁 */
-function dueGroups(today) {
-  return S.groups
-    .filter(g => g.state === "reviewing" && g.nextReviewDate <= today)
-    .sort((a, b) => a.nextReviewDate < b.nextReviewDate ? -1
-                  : a.nextReviewDate > b.nextReviewDate ? 1 : a.id - b.id);
+/* ---------------------------------------------------- 复习调度 / 门禁（词级） */
+// 今天到期的词——走 by_due 索引的范围查询，不扫全表。
+// nextReviewDate 是 "YYYY-MM-DD" 字符串，字典序比较等价于日期比较。
+function getDueWordIds(today) {
+  return new Promise((res, rej) => {
+    const ids = [];
+    const idx = store("words").index("by_due");
+    const rq = idx.openCursor(IDBKeyRange.upperBound(today));
+    rq.onsuccess = e => {
+      const c = e.target.result;
+      if (!c) return res(ids);
+      ids.push(c.value.id);
+      c.continue();
+    };
+    rq.onerror = () => rej(rq.error);
+  });
 }
+// 今日复习队列：不设硬上限（Q19裁定）——到期多少就是多少，2-3小时预算够用。
+// 排序按到期日从旧到新：越拖欠越久的越先出现，这就是排优先级，不用额外打分。
 async function refreshQuota() {
   const today = todayKey();
   let q = await metaGet("quota", null);
   if (!q || q.date !== today) {
-    q = { date: today, ids: dueGroups(today).slice(0, DAILY_CAP).map(g => g.id) };
+    const words = await getWords(await getDueWordIds(today));
+    words.sort((a, b) => a.nextReviewDate < b.nextReviewDate ? -1
+                        : a.nextReviewDate > b.nextReviewDate ? 1 : a.id - b.id);
+    q = { date: today, ids: words.map(w => w.id) };
     await metaSet("quota", q);
   }
   S.quota = q;
 }
-// 配额内尚未清掉的组
-function quotaOpenGroups() {
-  const today = todayKey();
-  return S.quota.ids.map(groupById).filter(g => g && g.state === "reviewing" && g.nextReviewDate <= today);
-}
-// 配额外的额外到期组（可选做）
-function extraDueGroups() {
-  const today = todayKey();
-  return dueGroups(today).filter(g => !S.quota.ids.includes(g.id));
-}
-const gateOpen = () => quotaOpenGroups().length === 0;
+// 门禁：今天到期的词队列里还剩几个没答（答对答错都算「答过」，不缩水）
+const gateOpen = () => S.quota.ids.length === 0;
 
 const learningGroup = () => S.groups.find(g => g.state === "learning");
 function canStartNewGroup() {
@@ -807,6 +853,81 @@ function parseVocab(text) {
     });
     return e;
   }).filter(e => e.word);
+}
+
+/* ------------------------------------------------------ 复习调度：词级 */
+// 「近义对照：」「注意别混：」「注意区别：」「反义词：」这几个标签块下面的
+// 等式行点名的是邻居词，不是这个词自己——L2/L3 出干扰项就从这里取，
+// 不用另建索引：邻居的短释义就写在这个词自己的笔记里，读它自己就够了。
+const CONTRAST_LABEL_RE = /(对照|别混|区别|反义)/;
+function firstToken(word) { return word.split(/\s|-/)[0].toLowerCase(); }
+
+// 遍历一个词全部笔记（head + 每个义项 + summary），标出「当前是不是在对照块里」，
+// 回调拿到 (note, inContrast, senseNo)。三处需要这个遍历：等式提取、邻居提取、核心块提取，
+// 逻辑写一遍，不要三份。
+function walkNotes(w, fn) {
+  let inContrast = false;
+  (w.head || []).forEach(n => {
+    if (n.t === "label") inContrast = CONTRAST_LABEL_RE.test(n.text);
+    fn(n, inContrast, 0);
+  });
+  (w.senses || []).forEach(s => {
+    inContrast = false;
+    (s.notes || []).forEach(n => {
+      if (n.t === "label") { inContrast = CONTRAST_LABEL_RE.test(n.text); return; }
+      fn(n, inContrast, s.no);
+    });
+  });
+  inContrast = false;
+  (w.summary || []).forEach(n => {
+    if (n.t === "label") inContrast = CONTRAST_LABEL_RE.test(n.text);
+    fn(n, inContrast, 0);
+  });
+}
+// 每个义项自己的「等式行」——不在对照块里的第一条 eq，是这一支的词义标签，
+// 也是机器判分的答案键。缺了的义项（还没回填等式行）不进 L1/L4 抽样池。
+function senseGloss(w, sense) {
+  let g = null;
+  (sense.notes || []).forEach(n => {
+    if (g) return;
+    if (n.t === "label" && CONTRAST_LABEL_RE.test(n.text)) { g = false; return; } // 提前进对照块，后面不再找
+    if (g === false) return;
+    if (n.t === "eq") g = n.rhs;
+  });
+  return g || null;
+}
+// 对照块里点名的邻居词：{lhs（邻居词头）, rhs（邻居的短释义）}，排除词头本身。
+function contrastNeighbors(w) {
+  const out = [], self = firstToken(w.word);
+  walkNotes(w, (n, inContrast) => {
+    if (inContrast && n.t === "eq" && firstToken(n.lhs) !== self) out.push({ lhs: n.lhs, rhs: n.rhs });
+  });
+  return out;
+}
+// 核心块：word.head 里能读的文字，遮住词头本身（34% 的核心块里写了词头，
+// 直接当 L3 选项会当场泄题）。
+function coreText(w) {
+  const parts = (w.head || []).filter(n => n.t !== "label" && n.t !== "eq").map(n => n.text);
+  let t = parts.join(" ");
+  try {
+    const re = new RegExp("\\b" + firstToken(w.word).replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "[a-z]{0,8}\\b", "gi");
+    t = t.replace(re, "该词");
+  } catch (e) {}
+  return t;
+}
+function senseCount(w) { return (w.senses || []).length; }
+function stageCap(w) { return senseCount(w) >= MULTISENSE_THRESHOLD ? MULTISENSE_STAGE_CAP : LADDER.length - 1; }
+function tierOf(w) { return LADDER_TIER[Math.min(w.reviewStage || 0, LADDER.length - 1)]; }
+
+// 答对：stage 前进一级（多义词卡在 MULTISENSE_STAGE_CAP，不许再往上）。
+// 答错：stage 后退两级，下限 0——这一步顺带保证了「当天不再考」：
+// 退到 0 时 LADDER[0]=1 天，最快也是明天才会再出现，不需要另外记「今天问过了」。
+function scheduleWord(w, correct) {
+  const cap = stageCap(w);
+  const cur = w.reviewStage || 0;
+  w.reviewStage = correct ? Math.min(cur + 1, cap) : Math.max(cur - 2, 0);
+  w.nextReviewDate = addDays(todayKey(), LADDER[w.reviewStage]);
+  if (!correct) w.forgotCount = (w.forgotCount || 0) + 1;
 }
 
 /* ------------------------------------------------------ 中文反查索引 */
@@ -911,14 +1032,6 @@ function renderWordFull(w) {
   if (w.summary && w.summary.length) h += '<div class="summary">' + renderNotes(w.summary) + "</div>";
   return h;
 }
-function renderWordQuiz(w) {
-  let h = '<div class="wordhead"><div class="w">' + esc(w.word) + "</div>" +
-          (w.id != null ? starBtn(w.id) : "") + spkBtn(w.word, "") + "</div>";
-  w.senses.forEach(s => {
-    h += '<div class="sense"><p class="ex"><span class="snum">' + NUMS[s.no-1] + "</span> " + hl(s.example, w.word) + "</p></div>";
-  });
-  return h;
-}
 function speak(text) {
   try {
     speechSynthesis.cancel();
@@ -972,16 +1085,15 @@ RENDER.home = async function () {
   setTitle("背单词");
   setAction("设置", () => go("settings"));
   const today = todayKey();
-  const q = quotaOpenGroups(), extra = extraDueGroups();
+  const dueCount = S.quota.ids.length;
   const lg = learningGroup();
   const canNew = canStartNewGroup();
   const open = gateOpen();
 
   const total = S.nextSeq - 1;
-  const mastered = S.groups.filter(g => g.state === "mastered").length;
-  const reviewing = S.groups.filter(g => g.state === "reviewing").length;
   const pending = S.groups.filter(g => g.state === "pending").length;
-  const learnedWords = S.groups.reduce((a, g) => a + (g.state === "learning" ? g.learnedCount : g.state === "pending" ? 0 : GROUP_SIZE), 0);
+  const reviewing = S.groups.filter(g => g.state === "reviewing").length;
+  const learnedWords = S.groups.reduce((a, g) => a + (g.state === "learning" ? g.learnedCount : g.state === "pending" ? 0 : g.wordIds.length), 0);
 
   let h = "";
 
@@ -1003,35 +1115,16 @@ RENDER.home = async function () {
     return;
   }
 
-  /* --- 今日复习 --- */
+  /* --- 今日复习（词级，不再按组） --- */
   h += '<div class="eyebrow">今日复习</div>';
-  if (q.length === 0 && extra.length === 0) {
+  if (dueCount === 0) {
     h += '<div class="card"><div class="title" style="color:var(--green-text)">今天没有到期的复习 ✓</div>' +
          '<div class="meta">背诵已解锁</div></div>';
   } else {
-    const totalWords = q.length * GROUP_SIZE;
-    h += '<div class="card" style="background:var(--green-wash)"><div class="title">' +
-         (q.length ? "还有 " + q.length + " 组 · " + totalWords + " 词" : "今日任务已完成 ✓") +
-         "</div>" +
-         '<div class="meta">' + (q.length
-            ? "完成后解锁背诵新词" + (extra.length ? "；另有 " + extra.length + " 组逾期排队中" : "")
-            : (extra.length ? "另有 " + extra.length + " 组逾期，可选做" : "")) + "</div></div>";
-    q.forEach(g => {
-      const over = daysBetween(g.nextReviewDate, today);
-      const sess = g.reviewSession && g.reviewSession.date === today && !g.reviewSession.done ? g.reviewSession : null;
-      h += '<button class="rowbtn" onclick="startReview(' + g.id + ')">' +
-           ring(g.reviewStage, INTERVALS.length, "R" + (g.reviewStage + 1)) + '<div class="grow">' +
-           '<div class="title">组 #' + g.id + "</div>" +
-           '<div class="meta">' + (over > 0 ? "逾期 " + over + " 天" : "今日到期") +
-           (sess ? "　· 已续存进度" : "") + "</div></div><div class=\"chev\">›</div></button>";
-    });
-    if (extra.length) {
-      h += '<div class="hint" style="margin:6px 2px 12px">超出今日配额（' + DAILY_CAP + ' 组）的逾期组不计入解锁条件，可自愿加做：</div>';
-      extra.slice(0, 20).forEach(g => {
-        h += '<button class="rowbtn" style="background:none;border:1px solid var(--line)" onclick="startReview(' + g.id + ')"><div class="grow">' +
-             '<div class="title">组 #' + g.id + '</div><div class="meta">逾期 ' + daysBetween(g.nextReviewDate, today) + ' 天</div></div><div class="chev">›</div></button>';
-      });
-    }
+    h += '<button class="rowbtn" style="background:var(--green-wash);border-color:var(--green-line)" onclick="startReview()">' +
+         '<div class="grow"><div class="title">开始复习 · ' + dueCount + " 词到期</div>" +
+         '<div class="meta">题型按每个词的熟练度自动出——不再是自己看有没有印象</div></div>' +
+         '<div class="chev">›</div></button>';
   }
 
   /* --- 背诵 --- */
@@ -1039,19 +1132,19 @@ RENDER.home = async function () {
   if (lg) {
     if (open) {
       h += '<button class="rowbtn" onclick="startLearn(' + lg.id + ')">' +
-           ring(lg.learnedCount, GROUP_SIZE) + '<div class="grow">' +
+           ring(lg.learnedCount, lg.wordIds.length) + '<div class="grow">' +
            '<div class="title">继续背诵 · 组 #' + lg.id + "</div>" +
-           '<div class="meta">已标记 ' + lg.learnedCount + " / " + GROUP_SIZE + " 词</div>" +
+           '<div class="meta">已标记 ' + lg.learnedCount + " / " + lg.wordIds.length + " 词</div>" +
            "</div><div class=\"chev\">›</div></button>";
     } else {
-      h += '<div class="rowbtn locked"><div class="grow"><div class="title" style="color:var(--fg-muted)">🔒 组 #' + lg.id + ' · 已标记 ' + lg.learnedCount + "/" + GROUP_SIZE + "</div>" +
+      h += '<div class="rowbtn locked"><div class="grow"><div class="title" style="color:var(--fg-muted)">🔒 组 #' + lg.id + ' · 已标记 ' + lg.learnedCount + "/" + lg.wordIds.length + "</div>" +
            '<div class="meta">今日复习未完成，背诵已锁定</div></div></div>';
     }
   } else if (canNew.ok) {
     const next = S.groups.find(g => g.state === "pending");
     h += '<button class="rowbtn" onclick="startLearn(' + next.id + ')"><div class="grow">' +
          '<div class="title">开始新的一组 · 组 #' + next.id + "</div>" +
-         '<div class="meta">' + GROUP_SIZE + " 个新词</div></div><div class=\"chev\">›</div></button>";
+         '<div class="meta">' + next.wordIds.length + " 个新词</div></div><div class=\"chev\">›</div></button>";
   } else {
     const msg = {
       gate:  "🔒 今日复习未完成，背诵已锁定",
@@ -1061,7 +1154,7 @@ RENDER.home = async function () {
     const sub = {
       gate:  "先把上面的复习做完",
       daily: "明天凌晨 4:00 后可以开新组",
-      empty: S.looseIds.length > 0 ? "暂存区还有 " + S.looseIds.length + " 个词，凑满 " + GROUP_SIZE + " 个即可成组" : "去导入更多词表",
+      empty: S.looseIds.length > 0 ? "暂存区还有 " + S.looseIds.length + " 个词，凑够义项目标（约 " + GROUP_TARGET + "）即可成组" : "去导入更多词表",
     }[canNew.why] || "";
     h += '<div class="rowbtn locked"><div class="grow"><div class="title" style="color:var(--fg-muted)">' + msg + "</div>" +
          '<div class="meta">' + sub + "</div></div></div>";
@@ -1069,12 +1162,11 @@ RENDER.home = async function () {
 
   /* --- 总览 --- */
   h += '<div class="eyebrow">总览</div><div class="stats">' +
-       '<div class="stat g"><b>' + mastered + "</b><span>已掌握组</span></div>" +
-       '<div class="stat"><b>' + reviewing + "</b><span>复习中组</span></div>" +
+       '<div class="stat g"><b>' + reviewing + "</b><span>复习中组</span></div>" +
        '<div class="stat"><b>' + pending + "</b><span>待背组</span></div>" +
        '<div class="stat"><b>' + total + "</b><span>词库总量</span></div>" +
        "</div>" +
-       '<div class="hint" style="margin-top:10px">已背 ' + learnedWords + " 词　·　暂存区 " + S.looseIds.length + " 词（凑满 " + GROUP_SIZE + " 自动成组）</div>";
+       '<div class="hint" style="margin-top:10px">已背 ' + learnedWords + " 词　·　暂存区 " + S.looseIds.length + " 词（凑够义项目标自动成组）</div>";
 
   /* --- 词库管理 --- */
   h += '<div class="eyebrow">词库</div>' +
@@ -1144,19 +1236,26 @@ async function toggleMark() {
   await putWord(w);
   g.learnedCount = LS.words.filter(x => x.learned).length;
 
-  if (g.learnedCount === GROUP_SIZE && g.state === "learning") {
+  if (g.learnedCount === g.wordIds.length && g.state === "learning") {
     g.state = "reviewing";
     g.completedAt = todayKey();
-    g.reviewStage = 0;
-    g.nextReviewDate = addDays(g.completedAt, INTERVALS[0]);
-    g.reviewSession = null;
     g.learnSession = null;
-    await req(store("groups", "readwrite").put(g));
+    // 复习状态下沉到词——每个词各自起步于 stage 0，不再是整组共用一个进度。
+    const firstDue = addDays(g.completedAt, LADDER[0]);
+    const t = tx(["words", "groups"], "readwrite");
+    const ws = t.objectStore("words");
+    LS.words.forEach(x => {
+      x.reviewStage = 0;
+      x.nextReviewDate = firstDue;
+      ws.put(x);
+    });
+    t.objectStore("groups").put(g);
+    await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
     await refreshQuota();
     $("#v-learn").innerHTML =
       '<div class="empty" style="padding-top:64px"><div style="font-size:3em;line-height:1.4">✓</div>' +
       '<div style="color:var(--green-text);font-weight:600;font-size:1.25em;margin-bottom:8px">组 #' + g.id + " 已背诵完成</div>" +
-      "<div>50 个词全部标记完毕<br>已加入复习清单，下次复习：" + g.nextReviewDate + "（" + INTERVALS[0] + " 天后）</div></div>" +
+      "<div>" + g.wordIds.length + " 个词全部标记完毕<br>已加入复习清单，下次复习：" + firstDue + "</div></div>" +
       '<button class="btn" onclick="go(\'home\',false)">回到首页</button>';
     setAction("");
     LS = null;
@@ -1169,112 +1268,212 @@ async function toggleMark() {
 }
 window.toggleMark = toggleMark;
 
-/* ============================== 复习 ============================== */
-let RS = null;  // {group, map, sess}
-async function startReview(gid) {
-  const g = groupById(gid);
-  const today = todayKey();
-  const words = await getWords(g.wordIds);
-  const map = {}; words.forEach(w => map[w.id] = w);
-  let sess = g.reviewSession;
-  if (!sess || sess.date !== today || sess.done) {
-    sess = { date: today, round: 1, queue: shuffle(g.wordIds), idx: 0, again: [], revealed: false, done: false };
-    g.reviewSession = sess;
-    await req(store("groups", "readwrite").put(g));
-  }
-  sess.revealed = false;
-  RS = { group: g, map, sess };
+/* ============================== 复习（词级） ============================== */
+// 会话不再挂在某个组上：今天到期的词是什么，会话就是什么。
+// S.quota.ids 是唯一的进度存档——每答一题就从里面摘掉一个并持久化，
+// 中途退出、下次进来会自动接着剩下的答，不需要另存一份 session 结构。
+let RS = null;   // {pool:[word], queue:[word], idx, cur:question, revealed}
+
+async function startReview() {
+  if (!S.quota.ids.length) { toast("今天没有到期的复习"); go("home", false); return; }
+  const words = await getWords(S.quota.ids);
+  RS = { pool: words, queue: words, idx: 0, cur: null, revealed: false, picked: null };
+  await loadQuestion();
   go("review");
 }
 window.startReview = startReview;
 
+async function loadQuestion() {
+  if (!RS || RS.idx >= RS.queue.length) { return finishSession(); }
+  RS.cur = await genQuestion(RS.queue[RS.idx], RS.pool);
+  RS.revealed = false;
+  RS.picked = null;
+}
+
+/* ---- 出题：四档题型 + 兜底，取数据不够时逐级降级，L3/自评兜底 100% 出得了题 ---- */
+async function genQuestion(w, pool) {
+  const tier = tierOf(w);
+  let q = null;
+  if (tier === 1) q = genMeaningMC(w, false);
+  else if (tier === 2) q = genMeaningMC(w, true);
+  else if (tier === 4) q = genProduce(w);
+  if (!q) q = await genCoreMC(w, pool);
+  if (!q) q = genSelfReport(w);
+  return q;
+}
+// L1「认支线」/ L2「辨邻居」：给例句，从等式行选这一支的意思。
+// L1 干扰项取本词其余义项；L2 优先取对照块里点名的邻居词，不够再退回本词其余义项。
+function genMeaningMC(w, preferContrast) {
+  const usable = (w.senses || []).map(s => ({ s, g: senseGloss(w, s) })).filter(x => x.g);
+  if (!usable.length) return null;
+  const pick = usable[Math.floor(Math.random() * usable.length)];
+  const correct = pick.g;
+  let poolTexts = preferContrast ? contrastNeighbors(w).map(n => n.rhs) : [];
+  if (poolTexts.length < 3) poolTexts = poolTexts.concat(usable.filter(x => x !== pick).map(x => x.g));
+  if (poolTexts.length < 3) poolTexts = poolTexts.concat(contrastNeighbors(w).map(n => n.rhs));
+  poolTexts = Array.from(new Set(poolTexts.filter(t => t !== correct)));
+  const options = shuffle([correct, ...shuffle(poolTexts).slice(0, 3)]);
+  if (options.length < 2) return null;
+  return { type: "mc", word: w, tier: preferContrast ? 2 : 1,
+           prompt: pick.s.example, options, answerIndex: options.indexOf(correct) };
+}
+// L4「反向产出」：给中文释义 + 首字母，打出词头本身（不是整条搭配短语）。
+function genProduce(w) {
+  const usable = (w.senses || []).map(s => senseGloss(w, s)).filter(Boolean);
+  if (!usable.length) return null;
+  const gloss = usable[Math.floor(Math.random() * usable.length)];
+  const head = firstToken(w.word);
+  return { type: "type", word: w, tier: 4, prompt: gloss, firstLetter: head[0], answer: head };
+}
+async function lookupWordByKey(key) { return (await req(store("words").index("by_word").get(key))) || null; }
+function morphNeighbors(w, limit) {
+  const key = w.wordKey || firstToken(w.word);
+  const p = key.slice(0, Math.min(4, key.length));
+  if (p.length < 3) return Promise.resolve([]);
+  return new Promise(res => {
+    const out = [];
+    const rq = store("words").index("by_word").openCursor(IDBKeyRange.bound(p, p + "￿"));
+    rq.onsuccess = e => {
+      const c = e.target.result;
+      if (!c || out.length >= limit + 5) return res(out);
+      if (c.value.wordKey !== key) out.push(c.value);
+      c.continue();
+    };
+    rq.onerror = () => res(out);
+  });
+}
+// L3「反推核心」：给 1-2 句例句，猜这个词的核心块——这是唯一 100% 词条都出得了的题型，
+// 也是别的兜底方式失败后的最后一道防线。干扰项优先级：对照邻居 > 形态邻居 > 本次会话同伴。
+async function genCoreMC(w, pool) {
+  const correct = coreText(w);
+  if (!correct) return null;
+  let cands = [];
+  for (const n of shuffle(contrastNeighbors(w))) {
+    if (cands.length >= 3) break;
+    const nw = await lookupWordByKey(n.lhs.trim().toLowerCase());
+    if (nw && nw.id !== w.id) cands.push(nw);
+  }
+  if (cands.length < 3) {
+    for (const nw of shuffle(await morphNeighbors(w, 6))) {
+      if (cands.length >= 3) break;
+      if (nw.id !== w.id && !cands.some(c => c.id === nw.id)) cands.push(nw);
+    }
+  }
+  if (cands.length < 3 && pool && pool.length) {
+    for (const nw of shuffle(pool)) {
+      if (cands.length >= 3) break;
+      if (nw.id !== w.id && !cands.some(c => c.id === nw.id)) cands.push(nw);
+    }
+  }
+  const uniq = Array.from(new Set(cands.map(coreText).filter(t => t && t !== correct))).slice(0, 3);
+  const options = shuffle([correct, ...uniq]);
+  if (options.length < 2) return null;
+  const senses = shuffle(w.senses || []).slice(0, Math.min(2, (w.senses || []).length));
+  return { type: "mc", word: w, tier: 3, prompt: senses.map(s => s.example), options, answerIndex: options.indexOf(correct) };
+}
+// 绝对兜底：数据实在不够（核心块也没有）时退回最朴素的自评——
+// 例句摆出来，自己按有没有印象判断，跟老版本一样，只在数据缺口时才会走到这里。
+function genSelfReport(w) {
+  const list = w.senses || [];
+  const s = list[Math.floor(Math.random() * Math.max(1, list.length))];
+  return { type: "self", word: w, tier: 0, prompt: (s && s.example) || w.word };
+}
+
+/* ---- 渲染 ---- */
 RENDER.review = function () {
   if (!RS) { go("home", false); return; }
-  const { group: g, map, sess } = RS;
-  const w = map[sess.queue[sess.idx]];
-  if (!w) { finishRound(); return; }
-  setTitle("复习 · 组 #" + g.id, "第 " + sess.round + " 轮 · " + (sess.idx + 1) + "/" + sess.queue.length);
+  const total = RS.queue.length, q = RS.cur;
+  setTitle("复习", (RS.idx + 1) + " / " + total);
   setAction("");
+  let h = '<div class="progressbar" style="margin-bottom:22px"><i style="width:' + (RS.idx / total * 100) + '%"></i></div>';
 
-  let h = '<div class="progressbar" style="margin-bottom:22px"><i style="width:' + ((sess.idx) / sess.queue.length * 100) + '%"></i></div>';
-  if (sess.revealed) {
-    h += '<div class="sheet reveal">' + renderWordFull(w) + "</div>" +
-         '<div class="footerbar"><button class="btn dark" onclick="reviewNext(false)">继续 ›</button></div>';
+  if (RS.revealed) {
+    h += '<div class="sheet reveal">' + renderWordFull(q.word) + "</div>" +
+         '<div class="footerbar"><button class="btn dark" onclick="reviewAdvance()">继续 ›</button></div>';
+    $("#v-review").innerHTML = h; return;
+  }
+
+  h += '<div class="sheet">' + renderQuizCard(q) + "</div>";
+  if (q.type === "mc") {
+    h += '<div class="footerbar"><div class="hint" style="flex:1;text-align:center;padding:15px 0">点一个选项作答</div></div>';
+  } else if (q.type === "type") {
+    h += '<div class="footerbar"><input id="l4in" class="l4input" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="' +
+         esc(q.firstLetter + "…") + '"><button class="btn" onclick="reviewSubmitType()">确定</button></div>';
   } else {
-    h += '<div class="sheet">' + renderWordQuiz(w) + "</div>" +
-         '<div class="footerbar">' +
-         '<button class="btn ghost" onclick="reviewForgot()">记不清</button>' +
-         '<button class="btn" onclick="reviewNext(true)">还记得</button></div>';
+    h += '<div class="footerbar">' +
+         '<button class="btn ghost" onclick="reviewSelf(false)">记不清</button>' +
+         '<button class="btn" onclick="reviewSelf(true)">还记得</button></div>';
   }
   $("#v-review").innerHTML = h;
+  if (q.type === "type") {
+    const el = $("#l4in");
+    if (el) { el.focus(); el.onkeydown = e => { if (e.key === "Enter") reviewSubmitType(); }; }
+  }
 };
-
-function reviewForgot() {
-  const { sess, map } = RS;
-  const id = sess.queue[sess.idx];
-  sess.again.push(id);
-  sess.revealed = true;
-  const w = map[id];                       // 记录忘记次数，收藏夹按它排序
-  if (w) { w.forgotCount = (w.forgotCount || 0) + 1; putWord(w); }
-  persistReview();
-  RENDER.review();
-}
-window.reviewForgot = reviewForgot;
-
-function reviewNext() {
-  const { sess } = RS;
-  sess.revealed = false;
-  sess.idx++;
-  if (sess.idx >= sess.queue.length) { finishRound(); return; }
-  persistReview();
-  RENDER.review();
-}
-window.reviewNext = reviewNext;
-
-function persistReview() {
-  RS.group.reviewSession = RS.sess;
-  req(store("groups", "readwrite").put(RS.group));
-}
-
-async function finishRound() {
-  const { group: g, sess } = RS;
-  if (sess.again.length) {
-    sess.round++;
-    sess.queue = shuffle(sess.again);
-    sess.again = [];
-    sess.idx = 0;
-    sess.revealed = false;
-    persistReview();
-    $("#v-review").innerHTML =
-      '<div class="empty" style="padding-top:56px"><div style="font-size:1.2em;color:var(--ink);font-weight:600;margin-bottom:8px">第 ' + (sess.round - 1) + ' 轮结束</div>' +
-      "<div>还有 " + sess.queue.length + " 个词没记牢，再过一遍</div></div>" +
-      '<button class="btn" onclick="RENDER.review()">开始第 ' + sess.round + " 轮</button>";
-    return;
-  }
-  // 整组今日复习完成
-  sess.done = true;
-  g.reviewStage++;
-  g.lastReviewedDate = todayKey();
-  let msg;
-  if (g.reviewStage >= INTERVALS.length) {
-    g.state = "mastered";
-    g.nextReviewDate = null;
-    msg = "组 #" + g.id + " 已掌握 🎉<br><span style=\"color:var(--fg-muted)\">走完全部 " + INTERVALS.length + " 轮复习，已归档</span>";
+function renderQuizCard(q) {
+  const label = ["自评", "L1 认支线", "L2 辨邻居", "L3 反推核心", "L4 反向产出"][q.tier];
+  let h = '<div class="quizhead"><span class="tierchip">' + esc(label) + "</span></div>";
+  if (q.type === "mc") {
+    (Array.isArray(q.prompt) ? q.prompt : [q.prompt]).forEach(ex => { h += '<p class="ex">' + hl(ex, q.word.word) + "</p>"; });
+    h += '<div class="qopts">' + q.options.map((opt, i) =>
+      '<button class="qopt" data-i="' + i + '" onclick="reviewPick(' + i + ')">' + esc(opt) + "</button>").join("") + "</div>";
+  } else if (q.type === "type") {
+    h += '<p class="tr" style="font-size:calc(18px*var(--fs));padding-left:0;border:none;margin-bottom:4px">' + esc(q.prompt) + "</p>";
   } else {
-    g.nextReviewDate = addDays(g.completedAt, INTERVALS[g.reviewStage]);
-    msg = "组 #" + g.id + " 今日复习完成<br><span style=\"color:var(--fg-muted)\">下次复习：" + g.nextReviewDate +
-          "（第 " + (g.reviewStage + 1) + "/" + INTERVALS.length + " 轮）</span>";
+    h += '<p class="ex">' + hl(q.prompt, q.word.word) + "</p>";
   }
-  g.reviewSession = sess;
-  await req(store("groups", "readwrite").put(g));
-  const remain = quotaOpenGroups().length;
+  return h;
+}
+
+/* ---- 作答 ---- */
+async function gradeWord(correct, w) {
+  scheduleWord(w, correct);
+  await putWord(w);
+  S.quota.ids = S.quota.ids.filter(id => id !== w.id);
+  await metaSet("quota", S.quota);
+}
+async function reviewPick(i) {
+  if (!RS || RS.picked != null) return;
+  RS.picked = i;
+  const correct = i === RS.cur.answerIndex;
+  document.querySelectorAll(".qopt").forEach((el, idx) => {
+    el.classList.add(idx === RS.cur.answerIndex ? "right" : idx === i ? "wrong" : "dim");
+  });
+  await gradeWord(correct, RS.cur.word);
+  setTimeout(() => { correct ? reviewAdvance() : revealCurrent(); }, 550);
+}
+window.reviewPick = reviewPick;
+async function reviewSubmitType() {
+  if (!RS) return;
+  const el = $("#l4in"); if (!el) return;
+  const val = (el.value || "").trim().toLowerCase();
+  const correct = val === RS.cur.answer.toLowerCase();
+  await gradeWord(correct, RS.cur.word);
+  if (correct) { toast("✓ 正确"); reviewAdvance(); } else { revealCurrent(); }
+}
+window.reviewSubmitType = reviewSubmitType;
+async function reviewSelf(correct) {
+  if (!RS) return;
+  await gradeWord(correct, RS.cur.word);
+  if (correct) reviewAdvance(); else revealCurrent();
+}
+window.reviewSelf = reviewSelf;
+function revealCurrent() { RS.revealed = true; RENDER.review(); }
+// loadQuestion 在队列耗尽时会调用 finishSession()——它自己把结束画面画好、
+// 把 RS 置空。这里不能无条件再调一次 RENDER.review()：那样会看见 RS 已经是
+// null，判定「没有会话」而跳回首页，把刚画好的「今日复习完成」提示当场冲掉。
+async function reviewAdvance() { RS.idx++; await loadQuestion(); if (RS) RENDER.review(); }
+window.reviewAdvance = reviewAdvance;
+
+async function finishSession() {
+  RS = null;
+  const open = gateOpen();
   $("#v-review").innerHTML =
     '<div class="empty" style="padding-top:56px"><div style="font-size:3em;line-height:1.4;color:var(--green-text)">✓</div>' +
-    '<div style="color:var(--ink);font-weight:600;font-size:1.2em;margin-bottom:8px">' + msg + "</div>" +
-    "<div>" + (remain ? "今日还剩 " + remain + " 组待复习" : "🔓 今日复习全部完成，背诵已解锁") + "</div></div>" +
+    '<div style="color:var(--ink);font-weight:600;font-size:1.2em;margin-bottom:8px">今日复习完成</div>' +
+    "<div>" + (open ? "🔓 背诵已解锁" : "还有词到期未答，回首页继续") + "</div></div>" +
     '<button class="btn" onclick="go(\'home\',false)">回到首页</button>';
   setTitle("复习完成");
-  RS = null;
 }
 
 /* ============================ 组列表 ============================ */
@@ -1282,8 +1481,7 @@ let GTAB = "all";
 RENDER.groups = function () {
   setTitle("组列表", S.groups.length + " 组");
   setAction("");
-  const today = todayKey();
-  const tabs = [["all","全部"],["pending","待背"],["learning","背诵中"],["reviewing","复习中"],["mastered","已掌握"]];
+  const tabs = [["all","全部"],["pending","待背"],["learning","背诵中"],["reviewing","复习中"]];
   let h = '<div class="tabs">' + tabs.map(([k, l]) => {
     const n = k === "all" ? S.groups.length : S.groups.filter(g => g.state === k).length;
     return '<button class="' + (GTAB === k ? "on" : "") + '" onclick="setGTab(\'' + k + '\')">' + l + " " + n + "</button>";
@@ -1292,16 +1490,16 @@ RENDER.groups = function () {
   const list = GTAB === "all" ? S.groups : S.groups.filter(g => g.state === GTAB);
   if (!list.length) { h += '<div class="empty">这个状态下还没有组</div>'; $("#v-groups").innerHTML = h; return; }
 
+  // 组内每个词的复习进度各不相同了，网格里不再算每格的到期状态（要挨个抓词，
+  // 260+ 组一起做会卡）——「今日复习」的到期名单在首页，这里只看组的大致状态。
   h += '<div class="grid">' + list.map(g => {
-    const due = g.state === "reviewing" && g.nextReviewDate <= today;
     const label = g.state === "pending" ? "待背"
-                : g.state === "learning" ? g.learnedCount + "/" + GROUP_SIZE
-                : g.state === "mastered" ? "已掌握"
-                : due ? "待复习" : "R" + (g.reviewStage + 1);
-    return '<button class="gcell ' + g.state + (due ? " due" : "") + '" onclick="openGroup(' + g.id + ')">' +
+                : g.state === "learning" ? g.learnedCount + "/" + g.wordIds.length
+                : "复习中";
+    return '<button class="gcell ' + g.state + '" onclick="openGroup(' + g.id + ')">' +
            "<b>" + g.id + "</b><span>" + label + "</span></button>";
   }).join("") + "</div>";
-  h += '<div class="hint" style="margin-top:16px">R1–R' + INTERVALS.length + ' 表示复习轮次；绿框表示今日到期。</div>';
+  h += '<div class="hint" style="margin-top:16px">每组词数按义项密度浮动，目标约 ' + GROUP_TARGET + ' 义项；点开一组能看到组内每个词的复习进度。</div>';
   $("#v-groups").innerHTML = h;
 };
 
@@ -1312,22 +1510,28 @@ window.setGTab = setGTab; window.openGroup = openGroup;
 RENDER.grouplist = async function () {
   const g = groupById(GLIST);
   if (!g) { back(); return; }
-  setTitle("组 #" + g.id, { pending: "待背", learning: "背诵中", reviewing: "复习中", mastered: "已掌握" }[g.state]);
+  setTitle("组 #" + g.id, { pending: "待背", learning: "背诵中", reviewing: "复习中" }[g.state]);
   setAction("");
   const words = await getWords(g.wordIds);
+  const today = todayKey();
   let h = '<div class="card">';
-  const head = {
-    learning:  [ring(g.learnedCount, GROUP_SIZE), "背诵中", "已标记 " + g.learnedCount + " / " + GROUP_SIZE + " 词"],
-    reviewing: [ring(g.reviewStage, INTERVALS.length, "R" + (g.reviewStage + 1)), "复习中",
-                "背完于 " + g.completedAt + "　·　下次复习 " + g.nextReviewDate],
-    mastered:  [ring(1, 1, "✓"), "已掌握", "走完全部 " + INTERVALS.length + " 轮复习"],
-    pending:   [ring(0, GROUP_SIZE, "0"), "尚未开始", GROUP_SIZE + " 个词等待背诵"],
-  }[g.state];
+  let head;
+  if (g.state === "learning") {
+    head = [ring(g.learnedCount, g.wordIds.length), "背诵中", "已标记 " + g.learnedCount + " / " + g.wordIds.length + " 词"];
+  } else if (g.state === "reviewing") {
+    const graduated = words.filter(w => (w.reviewStage || 0) >= LADDER.length - 1).length;
+    const due = words.filter(w => w.nextReviewDate && w.nextReviewDate <= today).length;
+    head = [ring(graduated, words.length), "复习中",
+            "背完于 " + g.completedAt + "　·　" + graduated + "/" + words.length + " 词已进入长期轮换" +
+            (due ? "　·　" + due + " 词今日到期" : "")];
+  } else {
+    head = [ring(0, g.wordIds.length, "0"), "尚未开始", g.wordIds.length + " 个词等待背诵"];
+  }
   h += '<div style="display:flex;align-items:center;gap:15px">' + head[0] +
        '<div class="grow"><div class="title">' + head[1] + '</div><div class="meta">' + head[2] + "</div></div></div>";
   h += "</div>";
 
-  if (g.state === "mastered")  h += '<button class="btn ghost" style="margin-bottom:14px" onclick="startReview(' + g.id + ')">手动重温这一组</button>';
+  if (g.state === "reviewing") h += '<button class="btn ghost" style="margin-bottom:14px" onclick="reviewGroupNow(' + g.id + ')">把本组到期时间提前到今天，立即复习</button>';
   if (g.state !== "pending")   h += '<button class="btn danger" style="margin-bottom:20px" onclick="resetGroup(' + g.id + ')">重置本组</button>';
 
   h += '<div class="eyebrow">' + words.length + " 个词</div>";
@@ -1338,15 +1542,42 @@ RENDER.grouplist = async function () {
   $("#v-grouplist").innerHTML = h;
 };
 
+// 让本组还在复习轮转里的词今天就到期，塞进今日复习队列，立即开始——
+// 老版本这里是「手动重温已掌握的组」，现在毕业不等于退出轮转，
+// 换成「想现在就多复习这组」的手动催办。
+async function reviewGroupNow(gid) {
+  const g = groupById(gid);
+  const words = await getWords(g.wordIds);
+  const today = todayKey();
+  const t = tx(["words"], "readwrite"); const ws = t.objectStore("words");
+  const added = [];
+  words.forEach(w => {
+    if (w.reviewStage == null) return;
+    if (w.nextReviewDate > today) { w.nextReviewDate = today; ws.put(w); }
+    added.push(w.id);
+  });
+  await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
+  const set = new Set(S.quota.ids);
+  added.forEach(id => set.add(id));
+  S.quota.ids = Array.from(set);
+  await metaSet("quota", S.quota);
+  await startReview();
+}
+window.reviewGroupNow = reviewGroupNow;
+
 async function resetGroup(gid) {
   if (!confirm("重置组 #" + gid + "？\n\n该组的全部标记和复习进度会清空，回到「待背」状态，并退出复习队列。此操作不可撤销。")) return;
   const g = groupById(gid);
   const words = await getWords(g.wordIds);
   const wt = tx(["words"], "readwrite").objectStore("words");
-  words.forEach(w => { w.learned = false; w.learnedAt = null; wt.put(w); });
+  words.forEach(w => {
+    w.learned = false; w.learnedAt = null;
+    delete w.reviewStage; delete w.nextReviewDate;
+    wt.put(w);
+  });
   await new Promise(res => { wt.transaction.oncomplete = res; });
-  g.state = "pending"; g.learnedCount = 0; g.reviewStage = 0;
-  g.completedAt = null; g.nextReviewDate = null; g.reviewSession = null; g.learnSession = null;
+  g.state = "pending"; g.learnedCount = 0;
+  g.completedAt = null; g.learnSession = null;
   // 重置的如果正是今天消耗掉额度的那一组，把额度退回来 ——
   // 否则会卡死：既不能重背这一组，也不能开新组。
   // 只退这一组，重置旧组不会凭空变出今天的额度。
@@ -1357,7 +1588,8 @@ async function resetGroup(gid) {
     refunded = true;
   }
   await req(store("groups", "readwrite").put(g));
-  await refreshQuota();
+  S.quota.ids = S.quota.ids.filter(id => !g.wordIds.includes(id));
+  await metaSet("quota", S.quota);
   toast("组 #" + gid + " 已重置" + (refunded ? "，今日新组额度已退回" : ""));
   RENDER.grouplist();
 }
@@ -1594,14 +1826,17 @@ async function checkText(text) {
   const issues = entries.filter(e => e.issues.length);
   PENDING = fresh;
 
-  const newGroups = Math.floor((S.looseIds.length + fresh.length) / GROUP_SIZE);
+  // 分组按义项数贴边界，这里只是预估——真正分组要等提交后 formGroups 实际跑一遍。
+  const looseWords = await getWords(S.looseIds);
+  const looseSenses = looseWords.reduce((a, w) => a + senseCount(w), 0);
+  const freshSenses = fresh.reduce((a, e) => a + (e.senses ? e.senses.length : 0), 0);
+  const estGroups = Math.floor((looseSenses + freshSenses) / GROUP_TARGET);
   let h = '<div class="eyebrow">解析结果</div><div class="card">' +
     '<div class="title">共识别 ' + entries.length + " 个词条</div>" +
     '<div class="meta">可新增 <b style="color:var(--green-text)">' + fresh.length + "</b> 个" +
     (dupes.length ? "　·　跳过重复 " + dupes.length + " 个" : "") +
     (issues.length ? '　·　<span style="color:var(--danger)">' + issues.length + " 个有格式问题</span>" : "") +
-    "</div><div class=\"meta\">导入后可成组：<b>" + newGroups + "</b> 组，暂存区剩 " +
-    ((S.looseIds.length + fresh.length) % GROUP_SIZE) + " 词</div></div>";
+    "</div><div class=\"meta\">导入后预计可成组：约 <b>" + estGroups + "</b> 组（每组目标 " + GROUP_TARGET + " 义项，实际以提交后为准）</div></div>";
 
   if (issues.length) {
     h += '<div class="eyebrow">格式问题（仍可导入，但建议先修）</div>';
@@ -1716,27 +1951,58 @@ async function undoLastImport() {
 window.undoLastImport = undoLastImport;
 
 // 把暂存区的词按 seq 顺序切成整 50 的组（不足 50 的留在暂存区）
+// 按义项数（不是词数）贴边界切批——一个词的信息量能差 14 倍（back=50 义项，
+// 普通词 3 个），按词数切组会让有的批次比别的批次重快两倍。
+// 算法跟 scripts/resplit-b.py 切文件用的是同一个思路：不是「攒够就切」，
+// 是每来一个词就比较「现在切」和「带上它再切」哪个更接近目标，选更接近的；
+// 下限防止批次切得太碎——宁可超一点也别不到目标四成就收尾。
+// 单个词的义项数就超过目标（未来写出义项极多的核心词时）：它自己独占一批。
+function packBatches(entries, target, floorRatio) {
+  const floor = target * floorRatio;
+  const batches = [];
+  let cur = [], curW = 0;
+  for (const e of entries) {
+    if (e.w >= target) {
+      if (cur.length) { batches.push(cur); cur = []; curW = 0; }
+      batches.push([e]);
+      continue;
+    }
+    if (cur.length && curW >= floor) {
+      const includeErr = Math.abs(target - (curW + e.w));
+      const excludeErr = Math.abs(target - curW);
+      if (excludeErr <= includeErr) { batches.push(cur); cur = [e]; curW = e.w; continue; }
+    }
+    cur.push(e); curW += e.w;
+  }
+  // cur 里剩的是还没被判定该收在哪一批的尾巴——留在暂存区，
+  // 等下次导入的词来了再判断，不强行凑批（对应老逻辑「不满 50 留暂存区」）。
+  return { batches, leftover: cur };
+}
+
 async function formGroups(onProgress) {
   let nextGid = S.groups.length ? Math.max.apply(null, S.groups.map(g => g.id)) + 1 : 1;
+  if (!S.looseIds.length) return 0;
+  const words = await getWords(S.looseIds);           // 一次性读，之后全在内存里判
+  const byId = {}; words.forEach(w => byId[w.id] = w);
+  const entries = S.looseIds.map(id => ({ id, w: senseCount(byId[id]) || 1 }));
+  const { batches, leftover } = packBatches(entries, GROUP_TARGET, GROUP_FLOOR_RATIO);
   let made = 0;
-  const willMake = Math.floor(S.looseIds.length / GROUP_SIZE);
-  while (S.looseIds.length >= GROUP_SIZE) {
-    const ids = S.looseIds.splice(0, GROUP_SIZE);
-    const words = await getWords(ids);                       // 事务 1：读
+  for (const b of batches) {
+    const ids = b.map(e => e.id);
     const g = {
       id: nextGid++, wordIds: ids, state: "pending",
-      learnedCount: 0, startedAt: null, completedAt: null,
-      reviewStage: 0, nextReviewDate: null, reviewSession: null, learnSession: null,
+      learnedCount: 0, startedAt: null, completedAt: null, learnSession: null,
     };
-    const t = tx(["words", "groups"], "readwrite");           // 事务 2：写
+    const t = tx(["words", "groups"], "readwrite");
     const ws = t.objectStore("words");
-    words.forEach(w => { w.groupId = g.id; ws.put(w); });
+    ids.forEach(id => { const w = byId[id]; w.groupId = g.id; ws.put(w); });
     t.objectStore("groups").put(g);
     await new Promise((res, rej) => { t.oncomplete = res; t.onerror = () => rej(t.error); });
     S.groups.push(g);
     made++;
-    if (onProgress && (made % 5 === 0 || made === willMake)) await onProgress({ done: made, total: willMake });
+    if (onProgress) await onProgress({ done: made, total: batches.length });
   }
+  S.looseIds = leftover.map(e => e.id);
   S.groups.sort((a, b) => a.id - b.id);
   return made;
 }
@@ -1767,9 +2033,14 @@ RENDER.settings = function () {
 
     '<div class="eyebrow">规则</div>' +
     '<div class="card flat hint">' +
-    "· 记忆曲线：整组背完后第 <b>" + INTERVALS.join(" / ") + "</b> 天各复习一次，共 " + INTERVALS.length + " 轮<br>" +
-    "· 每日复习配额：<b>" + DAILY_CAP + " 组</b>（逾期优先，超出部分不计入解锁条件）<br>" +
-    "· 门禁：当日配额未清完则锁定背诵；一次只背一组，一天只背一组<br>" +
+    "· 复习按<b>词</b>调度，不再按组：每个词独立按 <b>" + LADDER.join(" / ") + "</b> 天的阶梯走，" +
+    "答对进一级、答错退两级<br>" +
+    "· 阶梯同时决定题型：L1 认支线 → L2 辨邻居 → L3 反推核心 → L4 反向产出，" +
+    "答错立刻展开全文，但当天不再考这个词<br>" +
+    "· 义项超过 " + MULTISENSE_THRESHOLD + " 个的核心词永远卡在 L3（30 天一轮），不设毕业，反复轮回<br>" +
+    "· 单义词走到 90 天一轮即进入长期轮换，之后每 90 天抽考一次<br>" +
+    "· 门禁：当日到期的复习未答完则锁定背诵；一次只背一组，一天只背一组<br>" +
+    "· 背诵一组的目标约 <b>" + GROUP_TARGET + "</b> 义项（不是固定词数）——按内容量切组，不按词数<br>" +
     "· 一天以<b>凌晨 " + DAY_START + ":00</b> 为分界" +
     "</div>" +
 
@@ -1850,7 +2121,11 @@ async function exportProgress() {
       if (!cur) return res();
       const w = cur.value;
       id2key[w.id] = w.wordKey;
-      if (w.learned || w.forgotCount) prog.push([w.wordKey, w.learned ? 1 : 0, w.forgotCount || 0]);
+      // 复习进度下沉到词，备份也要跟着存到词：stage/到期日缺省是 null，
+      // 表示这个词还没进复习（背诵中或待背）。
+      if (w.learned || w.forgotCount || w.reviewStage != null)
+        prog.push([w.wordKey, w.learned ? 1 : 0, w.forgotCount || 0,
+                   w.reviewStage != null ? w.reviewStage : null, w.nextReviewDate || null]);
       cur.continue();
     };
     c.onerror = () => rej(c.error);
@@ -1906,10 +2181,11 @@ async function restoreProgress(p) {
   // 结果把 learned 覆盖回 false。
   const patch = {};
   groups.forEach(g => g.wordIds.forEach(id => { (patch[id] = patch[id] || {}).groupId = g.id; }));
-  (p.progress || []).forEach(([k, l, f]) => {
+  (p.progress || []).forEach(([k, l, f, stage, due]) => {
     const id = key2id[k]; if (id === undefined) return;
     const o = patch[id] = patch[id] || {};
     o.learned = !!l; o.forgotCount = f || 0;
+    if (stage != null) { o.reviewStage = stage; o.nextReviewDate = due; }
   });
 
   const t = tx(["words", "groups", "meta"], "readwrite");
@@ -1924,6 +2200,10 @@ async function restoreProgress(p) {
     w.learned     = !!(o && o.learned);
     w.learnedAt   = w.learned ? (w.learnedAt || todayKey()) : null;
     w.forgotCount = (o && o.forgotCount) || 0;
+    // reviewStage/nextReviewDate 要么都设置要么都不设置——不设置时必须整个
+    // delete 掉字段，不能留 undefined：by_due 索引靠「字段不存在」排除待背/背诵中的词。
+    if (o && o.reviewStage != null) { w.reviewStage = o.reviewStage; w.nextReviewDate = o.nextReviewDate; }
+    else { delete w.reviewStage; delete w.nextReviewDate; }
     c.update(w);
     c.continue();
   };
