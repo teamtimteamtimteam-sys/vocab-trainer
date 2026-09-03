@@ -18,6 +18,11 @@ ach          # 苏格兰/爱尔兰感叹词
 aapa         # 印度英语，姐姐
 achcha       # 印度英语，好的
 achkan       # 印度英语，男式长外套
+alhaja       # 西非（尼日利亚英语）对已朝觐女性的尊称
+alhaji       # 西非（尼日利亚英语）对已朝觐男性的尊称
+almirah      # 印度英语，衣柜
+aloo         # 印度英语，土豆
+alu          # 印度英语，土豆（aloo 的异拼）
 aiyo         # 印度/新加坡英语的感叹词，国别变体借词
 agbada       # 西非（尼日利亚英语）的宽袖长袍，国别变体借词
 
@@ -61,6 +66,7 @@ ague         # 古病名，现说 malaria
 asunder      # 古旧文学，现说 apart / to pieces
 anon         # 作「不久」讲已废，署名 Anon. 属缩写
 abaft        # 航海古语，现说 behind / at the stern
+alack        # 古旧感叹词，现说 alas 或不用
 
 # --- 生僻动植物名 ---
 aardwolf     # 土狼，非洲鬣狗科，过窄

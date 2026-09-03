@@ -1,407 +1,437 @@
-aquifer
-核心：地质学词，指能储存和输送地下水的"含水层"。
-是地下水资源的核心概念。
-① The aquifer supplies drinking water.
-= 那个含水层供应饮用水。
-② The aquifer is being depleted.
-= 那个含水层正在枯竭。
-be depleted = 被耗尽
-③ Pollution reached the aquifer.
-= 污染渗到了含水层。
-注意发音：/ˈækwɪfə(r)/
-构词：aqui- 水 + -fer 携带
-同类构词：
-conifer = 针叶树（cone 球果 + fer）
-transfer = 转移
-
-aquiline
-核心：指鼻子"鹰钩状的"——高而弯，像鹰喙。
-几乎只用在 aquiline nose 这个搭配里。
-① He has an aquiline nose.
-= 他是鹰钩鼻。
-aquiline nose = 鹰钩鼻
-② Her aquiline profile was striking.
-= 她的侧脸轮廓很突出。
-aquiline profile = 鹰钩鼻侧影
-③ The portrait shows aquiline features.
-= 那幅肖像画出了鹰隼般的五官。
-词源：拉丁语 aquila（鹰）
-注意：aquiline 是中性偏褒的描述，
-指轮廓分明，不是贬义。
-
-arable
-核心：指土地"适于耕种的"，与放牧用地相对。
-最常见的搭配是 arable land、arable farming。
-① Only 10% is arable land.
-= 只有一成是耕地。
-arable land = 可耕地
-② Arable farming dominates here.
-= 这里以种植业为主。
-arable farming = 种植农业
-③ The soil is not arable.
-= 那片土壤不宜耕种。
-对照：
-arable = 种植的（耕地）
-pastoral = 放牧的（草场）
-fallow = 休耕的
-
-arbiter
-核心：指有权裁断的人。两条线：正式的"仲裁人"，
-和比喻义的"权威、风向标"（arbiter of taste）。
-① He acted as arbiter.
-= 他担任了仲裁人。
-act as arbiter = 充当裁断者
-② She is an arbiter of taste.
-= 她是品味的权威。
-an arbiter of taste = 品味的仲裁者
-③ The court is the final arbiter.
-= 法院是最终裁断者。
-final arbiter = 最终裁定者
+apostle
+核心：宗教上指耶稣的十二使徒，
+比喻义指某种主张的"热忱倡导者"。介词用 of。
+① The twelve apostles followed Jesus.
+= 十二使徒追随耶稣。
+② He is an apostle of free trade.
+= 他是自由贸易的鼓吹者。
+an apostle of = …的倡导者
+③ Apostles spread the message.
+= 使徒们传播教义。
+注意发音：/əˈpɒsl/，t 不发音。
 近义对照：
-arbiter = 裁断者（有权定夺）
-arbitrator = 仲裁员（正式程序）
-judge = 法官、评委
+apostle = 使徒；热忱倡导者
+disciple = 门徒（追随者）
+advocate = 倡导者（中性）
 
-arbitrary
-核心：指决定"没有依据、全凭个人意志的"，贬义。
-数学和技术语境里则是中性的"任意的"。
-① It was an arbitrary decision.
-= 那是个专断的决定。
-arbitrary decision = 独断的决定
-② The rule seems arbitrary.
-= 那条规则显得没道理。
-③ Choose an arbitrary number.
-= 任选一个数。
-技术语境为中性
+apostrophe
+核心：指撇号「'」这个标点，两个用途：表示所有格
+（John's）和表示省略（don't）。注意别用来构成复数。
+① Use an apostrophe for possession.
+= 所有格要用撇号。
+② "Don't" has an apostrophe.
+= 「don't」里有个撇号。
+③ The apostrophe is often misused.
+= 撇号常被用错。
+常见错误：
+apple's（复数）是错的，应写 apples
+its = 它的（无撇号）
+it's = it is 的缩写（有撇号）
+注意发音：/əˈpɒstrəfi/，四个音节。
+
+appal
+核心：指"使震惊、使骇然"，常用被动 be appalled。
+英式拼 appal，美式拼 appall。
+① The news appalled us.
+= 那消息让我们震惊。
+② I was appalled by the conditions.
+= 那种条件让我骇然。
+be appalled by = 对…感到震惊
+③ It appals me that this happens.
+= 这种事居然会发生，让我震惊。
+注意英美拼写：
+英式 appal / 美式 appall
+过去式两边都是 appalled。
+词族：appalling = 骇人的
+
+appalled
+核心：指人"感到震惊骇然的"，程度比 shocked 重，
+且带道德上的反感。介词用 by 或 at。
+① She was appalled at the waste.
+= 那种浪费让她震惊。
+appalled at = 对…骇然
+② Viewers were appalled.
+= 观众们震惊不已。
+③ He looked appalled.
+= 他一脸骇然。
+词族：
+appal = 使震惊
+appalling = 骇人的
+程度：
+surprised = 惊讶
+shocked = 震惊
+appalled = 骇然（带反感）
+
+appalling
+核心：指事物"骇人的、糟透了的"。既可以说真正可怕的事，
+也可以口语夸张地说"差得离谱"。
+① The conditions are appalling.
+= 那种条件糟糕透顶。
+appalling conditions = 恶劣至极的条件
+② It's an appalling waste.
+= 那是骇人的浪费。
+③ Her handwriting is appalling.
+= 她字写得惨不忍睹。
+口语夸张用法
 副词形式：
-arbitrarily = 专断地；任意地
-词族：arbitrariness = 任意性
+appallingly = 骇人地
+词族：appal、appalled
 
-arbitrate
-核心：指以第三方身份"仲裁"争端。介词用 in 或 between。
-比 mediate 更有约束力——仲裁结果双方须遵守。
-① She arbitrated in the dispute.
-= 她仲裁了那场纠纷。
-arbitrate in = 就…进行仲裁
-② A panel arbitrated between them.
-= 一个小组在双方之间仲裁。
-arbitrate between = 在…之间裁断
-③ They agreed to arbitrate.
-= 他们同意提交仲裁。
+apparatus
+核心：三条线：成套的"设备器械"、体操的"器械"、
+以及组织的"机构体系"（the state apparatus）。
+① The lab has new apparatus.
+= 实验室有新设备。
+② She trained on the apparatus.
+= 她做器械训练。
+③ The state apparatus was reformed.
+= 国家机器进行了改革。
+state apparatus = 国家机构
+注意：apparatus 作"设备"讲多为不可数，
+复数可用 apparatus 或 apparatuses。
+近义对照：
+apparatus = 成套器械（技术、正式）
+equipment = 设备（通用，不可数）
+device = 装置（单件）
+
+apparel
+核心：正式或商业用语，指"服装"，不可数。
+零售业尤其常用（apparel industry）。
+① The store sells women's apparel.
+= 那家店卖女装。
+women's apparel = 女装
+② The apparel industry is huge.
+= 服装业规模庞大。
+apparel industry = 服装产业
+③ He wore fine apparel.
+= 他穿着讲究。
+注意：apparel 不可数，
+不说 an apparel、apparels。
+近义对照：
+apparel = 服装（商业、正式）
+clothing = 衣物（通用，不可数）
+clothes = 衣服（口语，复数）
+garment = 一件衣服（可数）
+
+apparent
+核心：两个意思方向相反。一是"显而易见的"（是真的），二是"表面上的"
+（未必是真的）。放在名词前时常是第二个意思，要靠语境判断。
+① It was apparent that he was lying.
+= 显然他在撒谎。
+it is apparent that = 显而易见
+② For no apparent reason, he left.
+= 他毫无缘由地走了。
+③ The apparent calm hid deep anger.
+= 表面的平静掩盖着深深的怒火。
+这里：
+apparent = 表面上的
+④ Her talent was apparent to all.
+= 她的才华人人看得出来。
+be apparent to = 对…而言显而易见
+副词形式：
+apparently = 看起来、据说
+注意：apparently 常表示"听说但我没核实"。
+
+apparently
+核心：两个用法，差别很重要：一是"据说、看样子"
+（暗示我没核实），二是"显然"。第一个更常见。
+① Apparently, he's leaving.
+= 听说他要走了。
+表示"我也是听来的"
+② She was apparently unaware.
+= 她似乎并不知情。
+③ Apparently not.
+= 看来不是。
+注意语用：
+apparently 常暗示消息未经核实，
+不等于 obviously（确凿无疑）。
 词族：
-arbitration = 仲裁
-arbitrator = 仲裁员
-近义对照：
-arbitrate = 仲裁（有约束力）
-mediate = 调解（不作决定）
+apparent = 显而易见的；表面的
 
-arbitration
-核心：指把争端交给中立第三方裁决的"仲裁"程序，
-比打官司快且私密。不可数。
-① The case went to arbitration.
-= 那个案子进入了仲裁。
-go to arbitration = 提交仲裁
-② They accepted binding arbitration.
-= 他们接受了有约束力的仲裁。
-binding arbitration = 终局仲裁
-③ Arbitration avoids court costs.
-= 仲裁能省下诉讼费。
-词族：arbitrate、arbitrator
-争议解决三途：
-negotiation = 谈判（自行解决）
-mediation = 调解（有人帮忙）
-arbitration = 仲裁（第三方裁决）
-
-arbitrator
-核心：指主持仲裁的人，通常由双方共同选定。
-和 arbiter 的差别：arbitrator 是正式程序里的角色。
-① An arbitrator was appointed.
-= 指定了一名仲裁员。
-appoint an arbitrator = 任命仲裁员
-② The arbitrator ruled in her favour.
-= 仲裁员裁定她胜。
-rule in someone's favour = 判某人胜
-③ Both sides chose the arbitrator.
-= 仲裁员由双方共同选定。
-词族：arbitrate、arbitration
-近义对照：
-arbitrator = 仲裁员（有裁决权）
-mediator = 调解人（无裁决权）
-
-arc
-核心：指弧、弧形轨迹。数学上是圆的一段，
-叙事里指 story arc（故事线的起伏走向）。
-① The ball traced an arc.
-= 球划出一道弧线。
-trace an arc = 划出弧线
-② Measure the arc of the circle.
-= 量一下那段圆弧。
-③ The character arc is well written.
-= 那个人物弧光写得好。
-character arc = 人物成长线
-④ An electric arc formed.
-= 形成了电弧。
-electric arc = 电弧
-注意别混：
-arc = 弧
-ark = 方舟
-
-arcade
-核心：三条线：有拱廊的"廊街"、有顶的"商业街"、
-以及放街机的"游戏厅"。
-① They walked through the arcade.
-= 他们穿过了那条拱廊。
-② The shopping arcade is covered.
-= 那条商业街有顶棚。
-shopping arcade = 有顶商业街
-③ He played at the arcade.
-= 他在游戏厅玩。
-arcade game = 街机游戏
+apparition
+核心：指突然出现的"幽灵、幻影"，文学色彩浓。
+也泛指任何令人吃惊的突然出现。
+① He saw an apparition.
+= 他看见了幽灵。
+see an apparition = 见到幻影
+② The apparition vanished.
+= 那个幻影消失了。
+③ She appeared like an apparition.
+= 她像幽灵一样出现。
 词族：
-arch = 拱
-构词：arc 弧 + -ade
-
-arcane
-核心：指知识"深奥难懂、只有内行才明白的"，
-常带一点"故弄玄虚"的意味。
-① The rules are arcane.
-= 那些规则晦涩难懂。
-② He knows arcane details.
-= 他知道些冷门细节。
-arcane detail = 深奥的细节
-③ It's arcane knowledge.
-= 那是门外汉搞不懂的学问。
-arcane knowledge = 秘传知识
+appear = 出现
 近义对照：
-arcane = 深奥神秘（内行才懂）
-esoteric = 只有小圈子懂的
-obscure = 晦涩（不清楚）
-abstruse = 艰深（常含批评）
+apparition = 幽灵幻影（文学）
+ghost = 鬼魂（通用）
+phantom = 幻影（虚幻）
+vision = 幻象（宗教或想象）
 
-arch
-核心：三条线：建筑的"拱"、脚的"足弓"、
-以及动词"拱起"。形容词义是"调皮狡黠的"。
-① The bridge has three arches.
-= 那座桥有三个拱。
-② The cat arched its back.
-= 那只猫弓起了背。
-arch one's back = 弓背
-③ He has high arches.
-= 他足弓很高。
-④ She gave an arch smile.
-= 她笑得有点狡黠。
+appeal
+核心：底层是"郑重地向外发出请求"。请求帮助是"呼吁"，请求改判是
+"上诉"，吸引人也是它（对人心发出召唤）。appeal to 有两个完全不同
+的意思，靠宾语区分。
+① They appealed for donations.
+= 他们呼吁捐款。
+appeal for = 呼吁（要东西）
+② She appealed to the public for help.
+= 她向公众求助。
+appeal to someone for = 向某人请求
+③ He appealed against the sentence.
+= 他对判决提起上诉。
+appeal against = 上诉
+④ The idea appeals to me.
+= 那个想法对我有吸引力。
+appeal to = 吸引（宾语是被吸引的人）
+⑤ The film has wide appeal.
+= 那部电影很有吸引力。
+这里是名词。
+⑥ He lost his appeal.
+= 他上诉失败了。
+词族：appealing = 有吸引力的
+
+appealing
+核心：两条线：事物"吸引人的"，
+和表情"恳求的"。第一条更常用。
+① It's an appealing idea.
+= 那是个诱人的想法。
+an appealing idea = 有吸引力的主意
+② She has an appealing smile.
+= 她笑容讨人喜欢。
+③ He gave an appealing look.
+= 他投来恳求的目光。
+an appealing look = 恳求的眼神
 词族：
-archway = 拱门
-arched = 拱形的
-注意复数：arch → arches
-
-archaeological
-核心：指"考古学的"。常见搭配 archaeological site、
-archaeological evidence、archaeological dig。
-① They found an archaeological site.
-= 他们发现了一处考古遗址。
-archaeological site = 考古遗址
-② Archaeological evidence supports it.
-= 考古证据支持这一点。
-archaeological evidence = 考古证据
-③ The dig was archaeological.
-= 那次挖掘是考古性质的。
-注意英美拼写：
-英式 archaeological / 美式 archeological
-词族：archaeology、archaeologist
-
-archaeologist
-核心：指考古学家——通过发掘遗迹研究古代人类。
-和 anthropologist（研究人类社会文化）分工不同。
-① Archaeologists uncovered a tomb.
-= 考古学家发掘出一座墓。
-uncover a tomb = 发掘古墓
-② She trained as an archaeologist.
-= 她受训成为考古学家。
-③ Archaeologists date the finds.
-= 考古学家为出土物断代。
-date the finds = 给发现物断代
-词族：archaeology、archaeological
+appeal = 吸引；呼吁
+反义词：
+unappealing = 没吸引力的
 近义对照：
-archaeologist = 考古学家（发掘遗物）
-anthropologist = 人类学家（研究社会）
-palaeontologist = 古生物学家（研究化石）
+appealing = 吸引人（讨喜）
+attractive = 有吸引力（通用）
+tempting = 诱人（想要）
 
-archaeology
-核心：指考古学——通过物质遗存研究人类历史。不可数。
-注意英美拼写差别。
-① She studies archaeology.
-= 她学考古。
-② Archaeology reveals daily life.
-= 考古揭示了日常生活。
-③ Underwater archaeology is growing.
-= 水下考古在发展。
-underwater archaeology = 水下考古
-注意英美拼写：
-英式 archaeology / 美式 archeology
-构词：archaeo- 古old + -logy 学科
-注意发音：/ˌɑːkiˈɒlədʒi/
+appear
+核心：两条主线：一是"出现、露面"，二是"看起来好像"。第二条要注意
+它是系动词，后面接形容词或 to be，不是普通的"出现"。
+① A figure appeared in the doorway.
+= 门口出现了一个人影。
+② The book appeared last year.
+= 那本书去年出版了。
+这里：
+appear = 问世
+③ She appears tired.
+= 她看起来很累。
+系动词用法，接形容词。
+④ It appears to be broken.
+= 它好像坏了。
+appear to be = 看起来是
+⑤ It appears that he lied.
+= 看来他撒了谎。
+it appears that = 看来
+反义词：
+appear 出现 / disappear 消失
+词族：appearance = 出现、外表
 
-archaic
-核心：两条线：语言"古体的、已废弃的"，
-和事物"陈旧过时的"（贬义）。
-① "Thou" is archaic.
-= 「thou」是古体词。
-archaic word = 古语词
-② The system is archaic.
-= 那套系统早已陈旧。
-archaic system = 老掉牙的体制
-③ Archaic laws remain on the books.
-= 一些古老法条仍未废止。
-注意发音：/ɑːˈkeɪɪk/，
-重音在第二音节，ch 读 /k/。
-近义对照：
-archaic = 古体的；陈旧的
-obsolete = 已淘汰的
-antiquated = 过时的（贬义）
+appearance
+核心：三层，全从动词的两条主线长出来：出现这个行为、公开露面的
+场合、以及"看上去的样子"。keep up appearances 是高频习语。
+① He made a brief appearance.
+= 他短暂露了个面。
+make an appearance = 露面
+② She cares about her appearance.
+= 她在意自己的外表。
+这里：
+appearance = 外貌
+③ To all appearances, he's fine.
+= 看上去他没事。
+to all appearances = 从各方面看
+④ Don't judge by appearances.
+= 别以貌取人。
+judge by appearances = 以貌取人
+⑤ They keep up appearances.
+= 他们维持着表面体面。
+keep up appearances = 撑门面
 
-archbishop
-核心：指大主教——管辖一个教省的高级主教，
-地位在 bishop 之上。
-① The Archbishop of Canterbury spoke.
-= 坎特伯雷大主教发了言。
-② He was made archbishop.
-= 他被任命为大主教。
-③ The archbishop led the service.
-= 大主教主持了礼拜。
-lead the service = 主持礼拜
-教阶由高到低：
-pope = 教宗
-archbishop = 大主教
-bishop = 主教
-priest = 神父
-
-archer
-核心：指射箭的人。射箭这项运动叫 archery。
-中世纪战争里 archer 是重要兵种。
-① The archer drew his bow.
-= 那名弓箭手拉开了弓。
-draw a bow = 拉弓
-② Archers won the battle.
-= 弓箭手赢下了那场战役。
-③ She is a skilled archer.
-= 她箭术精湛。
+appease
+核心：指为了平息对方而"姑息、绥靖"，常带贬义——
+暗示让步不该让的。历史上特指对纳粹德国的绥靖政策。
+① They tried to appease him.
+= 他们试图安抚他。
+② Concessions failed to appease critics.
+= 让步没能平息批评。
+appease critics = 安抚批评者
+③ Appeasement did not prevent war.
+= 绥靖没能阻止战争。
 词族：
-archery = 射箭运动
-bow = 弓 / arrow = 箭
-quiver = 箭袋
+appeasement = 绥靖
+近义对照：
+appease = 姑息绥靖（常含贬义）
+placate = 抚慰（中性）
+pacify = 使平静（通用）
 
-archery
-核心：指射箭这项运动，不可数。奥运项目之一。
-① He took up archery.
-= 他开始练射箭。
-take up archery = 学射箭
-② Archery requires steady hands.
-= 射箭需要手稳。
-③ The archery range is outside.
-= 射箭场在外面。
-archery range = 射箭场
+appeasement
+核心：指"绥靖政策"——用让步换取和平。因二战前
+对希特勒的绥靖而带上强烈贬义。不可数。
+① Appeasement failed in 1938.
+= 绥靖政策在一九三八年失败了。
+② Critics called it appeasement.
+= 批评者称之为绥靖。
+③ A policy of appeasement was pursued.
+= 当时推行的是绥靖政策。
+a policy of appeasement = 绥靖政策
 词族：
-archer = 弓箭手
-相关词：
-target = 靶
-bullseye = 靶心
+appease = 绥靖
+注意：这个词在政治语境里
+几乎一定是指责，不是中性描述。
 
-archetypal
-核心：指"典型的、原型式的"——最能代表某一类的。
-比 typical 更强调"本源、范式"。
-① He's the archetypal English gentleman.
-= 他是典型的英国绅士。
-archetypal figure = 典型人物
-② It's an archetypal love story.
-= 那是个原型式的爱情故事。
-③ The plot is archetypal.
-= 那个情节是经典范式。
-词族：archetype
+append
+核心：正式用语，指在文件末尾"附加、增补"。
+计算机里指把数据加到列表或文件末尾。
+① A note was appended.
+= 附了一条说明。
+② He appended his signature.
+= 他在末尾签了名。
+append a signature = 附上签名
+③ Append the data to the file.
+= 把数据追加到文件末尾。
+append to = 追加到…之后
+词族：
+appendix = 附录
 近义对照：
-archetypal = 原型式的（本源范式）
-typical = 典型的（常见）
-quintessential = 精髓的（最纯粹）
+append = 附加在末尾（正式）
+attach = 附上（通用）
+add = 添加（通用）
 
-archetype
-核心：指"原型、典型代表"——某一类事物最本源的样板。
-心理学里指荣格说的集体无意识原型。介词用 of。
-① He is the archetype of a hero.
-= 他是英雄的原型。
-the archetype of = …的典型
-② The story uses ancient archetypes.
-= 那个故事用了古老的原型。
-③ It became an archetype.
-= 它成了一种范式。
-注意发音：/ˈɑːkitaɪp/，ch 读 /k/。
-词族：archetypal = 典型的
+appendage
+核心：两条线：正式的"附属物、附加部分"，
+和生物学上的"附肢"（腿、触角、鳍）。
+① It's a mere appendage.
+= 那不过是个附属品。
+a mere appendage = 单纯的附庸
+② Insects have jointed appendages.
+= 昆虫有分节的附肢。
+jointed appendage = 分节附肢
+③ The region became an appendage.
+= 那个地区沦为附庸。
+词族：
+append = 附加
 近义对照：
-archetype = 原型（最本源的样板）
-prototype = 原型机（第一个实物）
-stereotype = 刻板印象（简化偏见）
+appendage = 附属物（正式）
+attachment = 附件（可拆）
+extension = 延伸部分
 
-archipelago
-核心：指群岛——成群分布的岛屿。可数。
-注意重音和 ch 的读音。
-① Indonesia is an archipelago.
-= 印度尼西亚是个群岛国家。
-② They sailed through the archipelago.
-= 他们穿行于群岛之间。
-③ The archipelago has 300 islands.
-= 那个群岛有三百个岛。
+appendicitis
+核心：医学词，指阑尾炎。不可数。
+急性阑尾炎需要手术切除阑尾（appendectomy）。
+① He was rushed in with appendicitis.
+= 他因阑尾炎被急送医院。
+② Appendicitis causes severe pain.
+= 阑尾炎引起剧痛。
+severe pain = 剧痛
+③ Acute appendicitis needs surgery.
+= 急性阑尾炎需要手术。
+acute appendicitis = 急性阑尾炎
+词族：
+appendix = 阑尾
+appendectomy = 阑尾切除术
+构词：appendic- 阑尾 + -itis 炎症
+同类：arthritis 关节炎、bronchitis 支气管炎
+
+appendix
+核心：两条毫不相干的线：书后的"附录"，
+和人体的"阑尾"。两个意思复数形式不同。
+① See the appendix for details.
+= 详见附录。
+② The appendix lists all sources.
+= 附录列出了所有来源。
+③ His appendix was removed.
+= 他的阑尾切除了。
 注意复数：
-archipelago → archipelagos 或 archipelagoes
-注意发音：/ˌɑːkɪˈpeləɡəʊ/，ch 读 /k/。
-地理对照：
-archipelago = 群岛
-peninsula = 半岛
-isthmus = 地峡
-
-architect
-核心：设计建筑的人。比喻义指某项事业的"缔造者、总设计师"，
-搭配 the architect of。词族 architecture 既指建筑学也指建筑风格，
-计算机里还指"体系结构"。
-① She is a famous architect.
-= 她是位著名建筑师。
-② He was the architect of the reform.
-= 他是那场改革的总设计师。
-the architect of = …的缔造者
-③ The architect designed the museum.
-= 那位建筑师设计了这座博物馆。
+附录 → appendices
+阑尾 → appendixes
 词族：
-architecture = 建筑学、建筑风格
-architectural = 建筑的
-注意发音：ch 读 /k/，
-读 /ˈɑːkɪtekt/，不是 /tʃ/。
+append = 附加
+appendicitis = 阑尾炎
 
-architectural
-核心：指"建筑的、建筑学的"。常见搭配
-architectural style / design / heritage。
-① The architectural style is Gothic.
-= 那种建筑风格是哥特式。
-architectural style = 建筑风格
-② Architectural drawings were approved.
-= 建筑图纸获批了。
-architectural drawing = 建筑图
-③ It has architectural merit.
-= 那栋楼有建筑价值。
-architectural merit = 建筑价值
-副词形式：
-architecturally = 在建筑上
-词族：architect、architecture
-
-architecture
-核心：三条线：建筑学这门学科、某种"建筑风格"、
-以及计算机的"体系结构"。不可数为主。
-① She studies architecture.
-= 她学建筑。
-② Gothic architecture is soaring.
-= 哥特建筑高耸入云。
-Gothic architecture = 哥特式建筑
-③ The system architecture is modular.
-= 那个系统架构是模块化的。
-system architecture = 系统架构
+appetite
+核心：字面是"食欲"，比喻是对某事的"强烈欲望"。loss of appetite
+是医学常用表达；appetite for 后面可以接任何想要的东西。
+① She has a good appetite.
+= 她胃口很好。
+② I've lost my appetite.
+= 我没胃口了。
+lose one's appetite = 没胃口
+③ He has an appetite for risk.
+= 他有冒险的欲望。
+appetite for = 对…的强烈欲望
+④ The smell whetted my appetite.
+= 那香味勾起了我的食欲。
+whet one's appetite = 引起兴趣
 词族：
-architect = 建筑师
-architectural = 建筑的
-注意发音：ch 读 /k/，/ˈɑːkɪtektʃə(r)/
+appetizer = 开胃菜
+appetizing = 开胃的、诱人的
+
+appetizer
+核心：指正餐前的"开胃菜、前菜"。美式常用，
+英式更常说 starter。也拼作 appetiser。
+① We ordered appetizers.
+= 我们点了几道前菜。
+② The appetizer was excellent.
+= 那道开胃菜很棒。
+③ Shrimp makes a good appetizer.
+= 虾做前菜很合适。
+注意英美差别：
+美式 appetizer / 英式 starter
+注意拼写：appetizer / appetiser 都可以。
+一餐的顺序：
+starter / appetizer = 前菜
+main course = 主菜
+dessert = 甜点
+
+appetizing
+核心：指食物"看着诱人、让人有食欲的"。
+否定形式 unappetizing 用得同样多。
+① The smell is appetizing.
+= 那香味很诱人。
+appetizing smell = 诱人的香味
+② It looks appetizing.
+= 看着就有食欲。
+③ The photo made it appetizing.
+= 那张照片拍得让人想吃。
+反义词：
+unappetizing = 倒胃口的
+词族：
+appetite = 食欲
+appetizer = 开胃菜
+注意拼写：appetizing / appetising 都可以。
+
+applaud
+核心：字面是"鼓掌"，比喻是"称赞、赞许"。后者在正式文体里很常见，
+比如 applaud a decision。及物不及物都可以。
+① The audience applauded loudly.
+= 观众热烈鼓掌。
+② They applauded her courage.
+= 他们称赞她的勇气。
+这里：
+applaud = 赞许
+③ I applaud the decision.
+= 我对这个决定表示赞赏。
+词族：
+applause = 掌声（不可数）
+注意：applause 不可数，
+不说 an applause、applauses。
+
+applause
+核心：指"掌声"，不可数——这是高频错点，
+不说 an applause 或 applauses。
+① The applause lasted minutes.
+= 掌声持续了好几分钟。
+② She received warm applause.
+= 她获得了热烈掌声。
+warm applause = 热烈的掌声
+③ A round of applause, please.
+= 请鼓掌。
+a round of applause = 一阵掌声
+词族：
+applaud = 鼓掌；称赞
+注意：applause 不可数，
+「一阵掌声」说 a round of applause。
