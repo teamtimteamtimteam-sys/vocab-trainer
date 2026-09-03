@@ -1,92 +1,3 @@
-bastion
-核心：字面是城堡棱堡——从城墙上凸出去的那个角，用来侧射来敌。
-今天几乎只用比喻义：指某种价值或群体"最后的堡垒"，
-后面接 of。可以是褒（自由的堡垒），也可以是贬（守旧的顽固堡垒），
-靠上下文分。
-① The city was a bastion of free trade.
-= 那座城市曾是自由贸易的堡垒。
-a bastion of = …的堡垒
-② The club remains a male bastion.
-= 那家俱乐部至今还是男性的地盘。
-③ Bastions jutted from the wall.
-= 棱堡从城墙上凸出来。
-注意用法：
-比喻义后面必接介词引出所守护的东西。
-
-bat
-核心：两个来源不同的词长成同一个形，而且中文里正好也是两个字。
-**第一支**是"球棒、球拍"——板球棒、棒球棒、乒乓球拍都是它，
-动词就是"挥棒击球"，也指"轮到某人上场击球"。
-习语从球场上来：off one's own bat 是靠自己主动做的，
-right off the bat 是一开头就。
-**第二支**是"蝙蝠"——唯一会飞的哺乳动物。围绕它的说法都拿它的
-习性做文章：blind as a bat 是眼神极差，like a bat out of hell
-是飞快地窜出去，have bats in the belfry 是脑子不正常。
-还有一支跟这两者都无关：bat an eyelid 是眨眼，
-用于否定表示"眉头都不皱一下"。
-① He gripped the bat and waited.
-= 他握着球棒等着。
-② She bats third for the school team.
-= 她在校队里排第三棒。
-bat = 击球、上场打击
-③ He did it off his own bat.
-= 那是他自己主动做的。
-off one's own bat = 主动地、靠自己（英式）
-④ She said no right off the bat.
-= 她一上来就拒绝了。
-right off the bat = 一开头就（美式）
-⑤ Bats hunt by echolocation.
-= 蝙蝠靠回声定位捕食。
-第二支：蝙蝠。
-⑥ He is as blind as a bat.
-= 他眼神差极了。
-blind as a bat = 眼神极差
-⑦ She drove off like a bat out of hell.
-= 她一脚油门窜了出去。
-like a bat out of hell = 飞快地
-⑧ He didn't bat an eyelid.
-= 他眉头都没皱一下。
-not bat an eyelid = 神色不变（美式说 eye）
-⑨ The batsman was caught out.
-= 那名击球手被接杀出局。
-batsman = 击球手（板球，今多说 batter）
-⑩ Her batting average rose.
-= 她的击球率提高了。
-batting average = 击球率；也比喻整体成功率
-注意别混：
-bat 球棒（这一支出习语讲主动与开头）
-bat 蝙蝠（这一支出习语讲眼神与速度）
-两支同形不同源。
-⑪ They batted the idea around for an hour.
-= 那个想法他们来回讨论了一小时。
-bat around = 来回讨论
-⑫ He waited with bated breath.
-= 他屏息等着。
-with bated breath = 屏息地
-⑬ The batboy collected the bats.
-= 球童把球棒收了起来。
-batboy = 球童（棒球）
-batgirl = 女球童
-
-batch
-核心：底层是"一炉烤出来的量"——面包一次进烤箱烤一批，
-于是引申成"一批、一组"，凡是同时处理、同时产出的都能这么说。
-计算机里的 batch processing 指攒够一批再一次性跑完，
-跟随到随处理的实时方式相对。
-① She baked a batch of scones.
-= 她烤了一炉司康。
-a batch of = 一批、一炉
-② The next batch of applicants arrives Monday.
-= 下一批申请人星期一到。
-③ Check the batch number on the label.
-= 看一下标签上的批号。
-batch number = 批号
-④ The system uses batch processing.
-= 那个系统采用批处理。
-batch processing = 批处理
-注意用法：
-强调「同时产出或同时处理」，不只是数量上的一堆。
-
 bath
 核心：底层是"盛水泡进去的那个器具或那一次泡洗"。
 英式的 bath 是浴缸，美式叫 bathtub；洗一次澡叫 have a bath
@@ -153,6 +64,23 @@ bath chair = 旧式带篷轮椅
 ⑰ The bathysphere descended slowly.
 = 那个深海球缓缓下潜。
 bathysphere = 深海探测球
+
+bathos
+核心：文学与修辞术语，指"从崇高突然跌到平庸"——本来写得庄重，
+末尾冒出一句琐碎滑稽的话，气势一下子垮了。有时是败笔，
+有时是刻意制造的笑点。形容词是 bathetic。
+注意它跟 pathos（悲怆动人）只差一个字母，意思毫不相干。
+① The ending sinks into bathos.
+= 那个结尾陡然落入平庸。
+sink into bathos = 陷入虎头蛇尾
+② The joke was deliberate bathos.
+= 那个笑话是刻意的反高潮。
+③ Bathetic phrasing spoiled the eulogy.
+= 用词落差太大，把悼词毁了。
+bathetic = 虎头蛇尾的
+注意别混：
+bathos = 从崇高跌到平庸（反高潮）
+pathos = 悲怆动人（引发同情）
 
 batik
 核心：一种防染工艺：先用蜡在布上画出花纹，蜡挡住染料，
@@ -244,6 +172,9 @@ battering ram = 撞城槌
 注意别混：
 面糊那一支与「猛击」那一支毫无亲缘，
 击球员那一支来自「猛击」。
+⑥ They battered the door down.
+= 他们把门砸倒了。
+batter down = 砸倒、撞开
 
 battery
 核心：三个来源不同的义项，别硬扯到一起。
@@ -277,6 +208,10 @@ recharge one's batteries = 恢复精力
 注意别混：
 前两层同源（排成一列），第三层来自「击打」，
 三者只是碰巧同形。
+⑧ Battery farming keeps hens in cages.
+= 笼养把母鸡关在笼子里。
+battery farming = 笼养（集约化养殖）
+battery farm = 笼养农场
 
 battle
 核心：底层是"两方交手"。军事上是一场具体的战斗——比 war 小，
@@ -402,6 +337,37 @@ bauble
 注意语域：
 第二层带轻蔑，说某物徒有其表。
 
+baud
+核心：数据传输的单位，指每秒的"符号数"——线路上每秒变化多少次
+信号状态。它常被当成比特率的同义词，其实不是：
+一个符号可以携带多个比特，所以比特率往往高于波特率。
+以法国工程师 Baudot 命名。
+① The modem ran at 300 baud.
+= 那台调制解调器工作在三百波特。
+② Baud rate is not the same as bit rate.
+= 波特率不等于比特率。
+baud rate = 波特率
+③ One symbol may carry several bits.
+= 一个符号可以携带多个比特。
+注意别混：
+baud = 波特（每秒符号数）
+bit rate = 比特率（每秒比特数，通常更高）
+
+baulk
+核心：balk 的英式拼法，意思相同：到跟前突然停住不肯往前，
+引申指人打退堂鼓，固定接介词 at。台球里另指球台一端
+划出的那块置球区。
+① She baulked at the cost.
+= 她一看花费就退缩了。
+baulk at = 在…面前打退堂鼓
+② The horse baulked at the ditch.
+= 那匹马到沟前停住了。
+③ Place the cue ball in baulk.
+= 把主球放在置球区。
+in baulk = 在置球区内
+注意拼写：
+baulk 英式 / balk 美式，意思相同。
+
 bauxite
 核心：炼铝的主要矿石——含水氧化铝，多呈红褐色，是热带地区
 岩石长期风化的产物。先提成氧化铝，再电解成金属铝。
@@ -448,6 +414,9 @@ bawl somebody out = 大声训斥某人
 注意别混：
 bawl = 嚎哭、吼叫（这个词）
 ball = 球（同音，另一个词）
+④ The coach bawled him out.
+= 教练把他臭骂了一顿。
+bawl out = 大声训斥
 
 bay
 核心：四个来源不同的义项挤在一个词形里，彼此毫无亲缘。
@@ -541,3 +510,16 @@ bazooka = 一记猛招（比喻）
 = 那种武器是照一件乐器起的名。
 注意语域：
 军事装备名，比喻义多见于财经报道。
+
+bazoom
+核心：美式俚语，指女性的胸部，多用复数 bazooms。
+语气粗俗且带物化色彩，属于那种"听起来滑稽但并不礼貌"的词。
+词形是拿 bosom 拗出来的。
+① The word is crude slang for the bust.
+= 这个词是指胸部的粗俗俚语。
+② It appears mostly in old comedies.
+= 它多出现在旧喜剧里。
+③ Most speakers avoid it now.
+= 如今多数人不用它。
+注意语域：
+粗俗且带物化，正式与礼貌场合一律不用。

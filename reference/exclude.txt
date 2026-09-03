@@ -150,3 +150,7 @@ A Rake's Progress           # 贺加斯组画与歌剧名
 bas          # 清单里孤零零一条，找不到对应词头，判为清洗残片
 basilect     # 社会语言学窄术语，同 acrolect 已排除
 batchmate    # 印度英语，同班同学
+
+baa-baa-black-sheep  # 英语童谣名，非词汇
+baclava              # baklava 的异拼，取通行拼法立条
+banoffi pie          # banoffee pie 的异拼，取通行拼法立条

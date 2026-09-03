@@ -1,3 +1,21 @@
+backwater
+核心：字面指河边那些"回水湾"——水流不到、几乎不动的死水区。
+比喻着用指"闭塞落后的地方"，外面世界变了它还没动。
+带贬义。
+① Fish shelter in the backwater.
+= 鱼躲在回水里。
+② The town is a cultural backwater.
+= 那个镇子是文化上的一潭死水。
+a cultural backwater = 文化上的闭塞之地
+③ He left the backwater for the capital.
+= 他离开那个闭塞的地方去了首都。
+注意语域：
+比喻义带贬义，说人家乡时会冒犯。
+近义对照：
+backwater = 闭塞落后之地（贬义）
+provincial = 外省的、眼界窄的
+hub = 枢纽（反面：人来人往的中心）
+
 backwoods
 核心：指"偏远林区"——远离城镇、林木未开发的那片地方。
 作定语时带贬义，指"闭塞土气的"。住那儿的人叫 backwoodsman，
@@ -213,6 +231,23 @@ goodies and baddies = 正派与反派
 注意地域：
 英式非正式说法，美式说 bad guy。
 
+bade
+核心：bid 的旧式过去式，用在"吩咐、道别"那个意思上，
+过去分词是 bidden。今天几乎只出现在文学与固定说法里：
+bade farewell 是道别，bade him enter 是叫他进来。
+注意"出价"那个 bid 的过去式仍是 bid，不用这个形式。
+① She bade them farewell.
+= 她跟他们道了别。
+bid farewell = 道别
+② He bade her sit down.
+= 他叫她坐下。
+bid somebody do = 吩咐某人做（旧式，不加不定式记号）
+③ The form is rare outside literature.
+= 这个形式在文学之外很少见。
+注意用法：
+只用于「吩咐、道别」义；
+「出价」义的过去式仍是 bid，三态同形。
+
 badge
 核心：别在身上表明身份的那块小牌——警徽、工牌、校徽都算。
 比喻着用指"标志、象征"，说某样东西是某种身份或经历的记号，
@@ -311,6 +346,19 @@ shuttlecock = 羽毛球（那个球）
 = 羽毛球是速度最快的球拍运动。
 注意语域：
 运动名称，以英国地名命名。
+
+badness
+核心：bad 的名词形式，指"坏、恶劣"。用得比 bad 少得多，
+多说品性上的坏或事物的低劣。日常更常用 evil、wickedness
+或直接用形容词。
+① She saw no badness in him.
+= 她看不出他有什么坏。
+② The badness of the roads slowed them.
+= 路况太差，把他们拖慢了。
+③ Badness is a weaker word than evil.
+= 这个词比「邪恶」轻得多。
+注意语域：
+用得较少，多数场合直接用形容词更自然。
 
 bae
 核心：网络与口语里的亲昵称呼，指"心上人、宝贝"，
@@ -487,66 +535,3 @@ play the bagpipes = 吹风笛
 bagpipe = 风笛（作定语时用单数）
 注意用法：
 作乐器名时用复数，作定语时用单数。
-
-baguette
-核心：法国那种细长的白面包——壳脆、心大孔洞，出炉当天最好吃。
-法律对它的配料有规定：只能用面粉、水、盐和酵母。
-也指切开做成的长条三明治。
-① She bought a fresh baguette.
-= 她买了根刚出炉的法棍。
-② The baguette crackles when it cools.
-= 法棍放凉时壳会噼啪响。
-③ He ordered a ham baguette.
-= 他点了个火腿法棍三明治。
-a ham baguette = 火腿法棍三明治
-注意语域：
-食品名称，法语借词。
-
-bail
-核心：三个来源不同的义项挤在一个词形里，别当成一个词的引申。
-一是法律上的"保释"——交一笔钱担保被告到时出庭，钱本身和这个
-制度都叫它，动词是 bail somebody out。二是从船里"往外舀水"，
-引申成给陷入困境的机构"纾困"，也是 bail out。三是板球里横搁在
-三柱门上的那两根小横木。
-① She was released on bail.
-= 她被取保候审。
-on bail = 保释在外
-② The judge refused bail.
-= 法官驳回了保释。
-refuse bail = 不准保释
-③ His parents bailed him out.
-= 他父母把他保了出来。
-bail somebody out = 保释某人出来
-④ The state bailed out the bank.
-= 政府对那家银行实施了纾困。
-bail out = 纾困、出手相救
-⑤ The crew bailed water all night.
-= 船员舀了一夜的水。
-bail water = 舀水
-⑥ He bailed out at ten thousand feet.
-= 他在一万英尺跳伞逃生。
-bail out = 跳伞逃生（也拼作 bale out）
-⑦ The bank needed a bailout.
-= 那家银行需要一笔纾困资金。
-bailout = 纾困（名词，连写）
-⑧ The bails fell and he was out.
-= 横木掉了，他出局了。
-bail = 三柱门上的横木（板球）
-注意别混：
-bail out 三义并存：保释、纾困、跳伞。
-名词 bailout 连写，只指纾困。
-
-bailiff
-核心：两层，英美不同。英国的 bailiff 是法院执达员——上门扣押
-财物抵债、执行驱逐令的那个人，所以听到这个词多半没好事。
-美国的 bailiff 是法庭里的法警，维持秩序、看管被告。
-另有旧义指替地主管田产的管家。
-① Bailiffs seized the furniture.
-= 执达员扣走了家具。
-② The bailiff called the court to order.
-= 法警维持了庭上秩序。
-③ The estate had a resident bailiff.
-= 那处地产有个常驻管家。
-注意地域：
-英式指执达员（收债、执行驱逐），
-美式指法庭法警，职责完全不同。
