@@ -7,7 +7,9 @@ NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔
 EQ = re.compile(r"^([A-Za-z][A-Za-z0-9’'\-\s.]{0,44}?)\s*=\s*(.+)$")
 # 词条首行允许带重音的拉丁字母 —— à la carte、café、cliché、naïve、
 # résumé、façade 都是牛津高阶的正当词条，不是输入法手误。
-WORD_OK = re.compile(r"^[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ0-9’'\-. ]*$")
+# 斜杠也要放行：and/or、a/c、c/o、n/a、w/o、s/he、9/11 都是牛津高阶的
+# 正当词头，全表 12 条。斜杠不会凭空造出假词头，放行是安全的。
+WORD_OK = re.compile(r"^[A-Za-zÀ-ÿ0-9][A-Za-zÀ-ÿ0-9’'\-./ ]*$")
 
 def parse(path):
     is_b = os.path.basename(path).startswith('B-')
