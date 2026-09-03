@@ -1,3 +1,69 @@
+ail
+核心：两条线：古旧的"使苦恼"（What ails you?），
+和现在更常用的"使（组织、经济）陷入困境"。
+① What ails you?
+= 你哪儿不舒服？
+古旧问法
+② Problems ail the industry.
+= 那个行业问题缠身。
+③ The ailing economy needs reform.
+= 疲弱的经济需要改革。
+词族：
+ailing = 生病的；不景气的
+ailment = 小病
+注意语体：ail 作"生病"讲已很古旧，
+现在多用于比喻组织和经济。
+
+aileron
+核心：航空术语，指机翼后缘用于控制横滚的"副翼"。
+飞行原理和航模爱好者会用到。
+① The pilot moved the ailerons.
+= 飞行员操纵了副翼。
+② Ailerons control roll.
+= 副翼控制横滚。
+control roll = 控制滚转
+③ One aileron jammed.
+= 一侧副翼卡住了。
+飞机操纵面：
+aileron = 副翼（横滚）
+elevator = 升降舵（俯仰）
+rudder = 方向舵（偏航）
+注意发音：/ˈeɪlərɒn/
+
+ailing
+核心：两条线：人"久病不愈的"，和机构经济"每况愈下的"。
+第二条在财经报道里高频。只作定语为主。
+① His ailing father needs care.
+= 他久病的父亲需要照顾。
+ailing father = 病弱的父亲
+② The ailing company was sold.
+= 那家经营不善的公司被卖掉了。
+ailing company = 陷入困境的公司
+③ Reform aims to fix the ailing system.
+= 改革意在修复那个失灵的体系。
+ailing system = 弊病缠身的体系
+词族：ail、ailment
+近义对照：
+ailing = 久病、不景气
+struggling = 挣扎的（通用）
+
+ailment
+核心：指不严重但反复的"小病、小毛病"，常用复数。比 disease 轻，
+比 illness 具体。老年人的慢性小毛病最常用这个词。
+① She suffers from minor ailments.
+= 她有些小毛病。
+minor ailment = 小病
+② Common ailments are treated here.
+= 这里治疗常见小病。
+common ailment = 常见病
+③ He has an unexplained ailment.
+= 他有个说不清的病症。
+词族：ail = 使苦恼（旧）
+近义对照：
+ailment 小病（轻、反复）
+illness 疾病（通用）
+disease 疾病（有明确病理）
+
 aim
 核心：底层是"对准"。枪对准目标是字面义，努力对准目标是比喻义。
 名词是"目标"，aim to do 和 aim at doing 都对，前者更常用。
@@ -414,70 +480,3 @@ poor air quality = 空气质量差
 相关说法：
 air quality index = 空气质量指数
 particulate matter = 颗粒物
-
-air quotes
-核心：指"空气引号"——说话时两手举到耳侧、食指中指弯两下，
-表示引用别人的说法，多半带反讽，意思是"所谓的"。总用复数。
-① She made air quotes around the word.
-= 她说那个词时比了空气引号。
-make air quotes = 比空气引号
-② He said it with air quotes.
-= 他说这话时打了引号。
-with air quotes = 带着反讽引号
-③ Air quotes signal sarcasm.
-= 空气引号表示的是讽刺。
-注意用法：
-总用复数，几乎只跟 make 或 with 搭配。
-注意语域：
-口语与肢体语言，带反讽意味。
-
-air rage
-核心：指"空怒"——乘客在飞机上失控发火、辱骂或动手，多半跟酒精、
-延误或狭小空间有关。不可数，新闻报道用词。
-① Air rage incidents are rising.
-= 空怒事件在增加。
-air rage incident = 空怒事件
-② He was arrested for air rage.
-= 他因在机上闹事被捕。
-③ Alcohol often triggers air rage.
-= 酒精常是空怒的诱因。
-trigger air rage = 引发空怒
-注意用法：
-不可数，多用于新闻报道。
-同类构词：
-road rage = 路怒（开车时失控发火）
-desk rage = 办公室暴怒
-
-air raid
-核心：指从空中发动的"空袭"。二战和现代冲突报道里高频。
-可数，两个词分写。
-① The city suffered air raids.
-= 那座城市遭到空袭。
-suffer air raids = 遭受空袭
-② Air raid sirens sounded.
-= 空袭警报响了。
-air raid siren = 空袭警报
-③ They sheltered during the air raid.
-= 空袭时他们躲了起来。
-air raid shelter = 防空洞
-近义对照：
-air raid = 空袭（一次行动）
-airstrike = 空中打击（军事术语）
-bombing = 轰炸（通用）
-
-air rifle
-核心：指"气步枪"——靠压缩空气或气瓶推动弹丸，不用火药，
-打靶和小型狩猎用。可数。
-① He practises with an air rifle.
-= 他用气步枪练靶。
-practise with an air rifle = 用气步枪练习
-② Air rifles need a licence here.
-= 这里持气步枪要执照。
-③ The fairground had air rifle stalls.
-= 游乐场有打气枪的摊子。
-注意用法：
-可数，指具体一支枪。
-近义对照：
-air rifle = 气步枪（长管，双手持）
-air pistol = 气手枪（短管，单手持）
-shotgun = 猎枪（用火药）

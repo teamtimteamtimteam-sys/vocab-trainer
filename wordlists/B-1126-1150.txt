@@ -1,3 +1,66 @@
+armchair
+核心：指有扶手的"扶手椅"。作定语时是比喻义，
+指"纸上谈兵的"（armchair critic）。
+① He sat in an armchair.
+= 他坐在扶手椅上。
+② She is an armchair critic.
+= 她是个空谈的评论家。
+armchair critic = 纸上谈兵者
+③ Armchair travel is popular.
+= 足不出户的神游很流行。
+armchair traveller = 神游旅行者
+构词：arm 扶手 + chair 椅
+注意：armchair 作定语一定是贬义，
+指只说不做。
+
+armed
+核心：三条线：人"持有武器的"、冲突"武装的"、
+以及比喻义 armed with（备有…）。
+① The robber was armed.
+= 那名劫匪持有武器。
+armed robbery = 持械抢劫
+② It was an armed conflict.
+= 那是场武装冲突。
+armed conflict = 武装冲突
+③ She came armed with data.
+= 她带着数据有备而来。
+armed with = 带着…作准备
+反义词：
+unarmed = 徒手的、无武装的
+词族：arm、arms、armaments
+
+armful
+核心：指"一抱之量"——两臂能抱住的分量。
+构词是 arm + -ful。
+① She carried an armful of books.
+= 她抱了一摞书。
+an armful of = 一抱的
+② He brought armfuls of flowers.
+= 他抱来一大捧花。
+③ An armful of laundry fell.
+= 一抱衣物掉了下来。
+注意复数：
+armful → armfuls
+同类构词：
+handful 一把 / mouthful 一口
+spoonful 一勺 / cupful 一杯
+
+armistice
+核心：指交战双方约定"停战"，比 ceasefire 正式，
+常指结束战争的正式协定。
+① They signed an armistice.
+= 他们签署了停战协定。
+sign an armistice = 签订停战协议
+② The armistice ended the war.
+= 停战协定结束了那场战争。
+③ Armistice Day is 11 November.
+= 停战纪念日是十一月十一日。
+Armistice Day = 一战停战纪念日
+近义对照：
+armistice = 停战协定（正式，可能永久）
+ceasefire = 停火（临时）
+truce = 休战（临时，可非正式）
+
 armour
 核心：三条线：中世纪的"盔甲"、车辆的"装甲"、
 以及集合指"装甲部队"。不可数。美式拼 armor。
@@ -360,71 +423,3 @@ arrive at a decision = 做出决定
 arrive 不及物，要加介词
 reach 及物，直接接地点
 get to 口语说法
-
-arrogance
-核心：指"傲慢自大"，不可数，贬义。
-比 confidence（自信）多一层"看不起别人"。
-① His arrogance annoyed everyone.
-= 他的傲慢惹恼了所有人。
-② She spoke with arrogance.
-= 她说话很傲慢。
-with arrogance = 傲慢地
-③ Arrogance led to his downfall.
-= 自大导致了他的失败。
-词族：arrogant = 傲慢的
-程度对照：
-confidence = 自信（正面）
-self-assurance = 笃定（中性）
-arrogance = 傲慢（负面）
-hubris = 狂妄（招致覆灭）
-
-arrogant
-核心：指人"自以为是、看不起别人的"，贬义。
-和 confident（自信）的界线是：是否贬低他人。
-① He is arrogant and rude.
-= 他既傲慢又无礼。
-② She has an arrogant manner.
-= 她态度傲慢。
-arrogant manner = 傲慢的做派
-③ Don't be arrogant about it.
-= 别为那事得意忘形。
-副词形式：
-arrogantly = 傲慢地
-词族：arrogance
-反义词：
-humble = 谦逊的
-modest = 谦虚的
-
-arrow
-核心：两条线：射箭用的"箭"，
-和指示方向的"箭头符号"。
-① He shot an arrow.
-= 他射出一箭。
-shoot an arrow = 射箭
-② Follow the arrow.
-= 顺着箭头走。
-③ The arrow points north.
-= 那个箭头指向北。
-④ It's a straight arrow.
-= 那人正直得很。
-a straight arrow = 正派老实的人（美式）
-相关词：
-bow = 弓 / quiver = 箭袋
-archer = 弓箭手 / target = 靶
-
-arsenal
-核心：三条线：储存武器的"军火库"、一国的"全部军备"、
-以及比喻义的"全套手段"。
-① The nuclear arsenal was reduced.
-= 核武库缩减了。
-nuclear arsenal = 核武库
-② An arsenal of weapons was found.
-= 发现了一批军火。
-an arsenal of = 一批（武器或手段）
-③ She has an arsenal of arguments.
-= 她备有一整套论据。
-词源：阿拉伯语，原指造船厂。
-近义对照：
-arsenal = 军火库；全套装备
-armoury = 军械库（存放处）
-stockpile = 储备（囤积量）

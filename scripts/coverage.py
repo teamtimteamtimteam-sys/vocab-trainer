@@ -185,11 +185,16 @@ def derived_covered(w, entries):
       ② 那条词条的词头是它的词干（前 4 个字母起同源）
     只看①会太松：词可能碰巧出现在无关词条的例句里。"""
     lw = w.lower().replace('’', "'")
+    # 必须整词匹配，不能裸子串 —— 否则 alpha 会因为「alphabet」里含这五个
+    # 字母而被判为已收，amen 因为 amendment、arse 因为 arsenal、
+    # aster 因为 asterisk。a 段实测有 26 个词是这么被虚报成已收的，
+    # 全是真词、一个都没写。这正是 CLAUDE.md 说的「宣布收全不等于收全」。
+    pat = re.compile(r'(?<![a-z])' + re.escape(lw) + r'(?![a-z])')
     for head, body in entries:
         h = head.lower().replace('’', "'")
         if len(h) < 4 or not lw.startswith(h[:4]) or lw == h:
             continue
-        if lw in body:
+        if pat.search(body):
             return True
     return False
 

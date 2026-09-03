@@ -1,3 +1,67 @@
+aquifer
+核心：地质学词，指能储存和输送地下水的"含水层"。
+是地下水资源的核心概念。
+① The aquifer supplies drinking water.
+= 那个含水层供应饮用水。
+② The aquifer is being depleted.
+= 那个含水层正在枯竭。
+be depleted = 被耗尽
+③ Pollution reached the aquifer.
+= 污染渗到了含水层。
+注意发音：/ˈækwɪfə(r)/
+构词：aqui- 水 + -fer 携带
+同类构词：
+conifer = 针叶树（cone 球果 + fer）
+transfer = 转移
+
+aquiline
+核心：指鼻子"鹰钩状的"——高而弯，像鹰喙。
+几乎只用在 aquiline nose 这个搭配里。
+① He has an aquiline nose.
+= 他是鹰钩鼻。
+aquiline nose = 鹰钩鼻
+② Her aquiline profile was striking.
+= 她的侧脸轮廓很突出。
+aquiline profile = 鹰钩鼻侧影
+③ The portrait shows aquiline features.
+= 那幅肖像画出了鹰隼般的五官。
+词源：拉丁语 aquila（鹰）
+注意：aquiline 是中性偏褒的描述，
+指轮廓分明，不是贬义。
+
+arable
+核心：指土地"适于耕种的"，与放牧用地相对。
+最常见的搭配是 arable land、arable farming。
+① Only 10% is arable land.
+= 只有一成是耕地。
+arable land = 可耕地
+② Arable farming dominates here.
+= 这里以种植业为主。
+arable farming = 种植农业
+③ The soil is not arable.
+= 那片土壤不宜耕种。
+对照：
+arable = 种植的（耕地）
+pastoral = 放牧的（草场）
+fallow = 休耕的
+
+arbiter
+核心：指有权裁断的人。两条线：正式的"仲裁人"，
+和比喻义的"权威、风向标"（arbiter of taste）。
+① He acted as arbiter.
+= 他担任了仲裁人。
+act as arbiter = 充当裁断者
+② She is an arbiter of taste.
+= 她是品味的权威。
+an arbiter of taste = 品味的仲裁者
+③ The court is the final arbiter.
+= 法院是最终裁断者。
+final arbiter = 最终裁定者
+近义对照：
+arbiter = 裁断者（有权定夺）
+arbitrator = 仲裁员（正式程序）
+judge = 法官、评委
+
 arbitrary
 核心：指决定"没有依据、全凭个人意志的"，贬义。
 数学和技术语境里则是中性的"任意的"。
@@ -341,73 +405,3 @@ system architecture = 系统架构
 architect = 建筑师
 architectural = 建筑的
 注意发音：ch 读 /k/，/ˈɑːkɪtektʃə(r)/
-
-archive
-核心：指"档案、档案馆"，也作动词"归档"。
-常用复数 archives 指整批档案。
-① The archives hold old letters.
-= 那批档案里有旧信件。
-② He works in the national archive.
-= 他在国家档案馆工作。
-national archive = 国家档案馆
-③ The emails were archived.
-= 那些邮件被归档了。
-④ She searched the archives.
-= 她查阅了档案。
-search the archives = 查档
-词族：
-archivist = 档案管理员
-archival = 档案的
-
-archivist
-核心：指管理档案的专业人员——负责整理、保存、
-提供查阅。
-① The archivist catalogued the papers.
-= 档案员给那些文件编了目。
-catalogue papers = 为文件编目
-② She works as an archivist.
-= 她做档案管理员。
-③ Archivists preserve fragile documents.
-= 档案员保护易损文件。
-preserve documents = 保存文献
-词族：
-archive = 档案
-构词：archive + -ist 从业者
-同类：librarian 图书管理员、curator 策展人
-
-archway
-核心：指拱形的门道或通道。
-构词是 arch（拱）+ way（通道）。
-① They passed under the archway.
-= 他们从拱门下走过。
-under the archway = 在拱门下
-② A stone archway leads in.
-= 一道石拱门通向里面。
-stone archway = 石拱门
-③ The archway dates from 1600.
-= 那道拱门建于一六〇〇年。
-词族：
-arch = 拱
-构词：arch + way
-近义对照：
-archway = 拱门通道
-gateway = 大门口
-doorway = 门口
-
-Arctic
-核心：指北极地区，大写。和 Antarctic（南极）配对。
-小写 arctic 可形容"极冷的"。
-① They sailed into the Arctic.
-= 他们驶入北极地区。
-the Arctic = 北极地区
-② Arctic ice is shrinking.
-= 北极冰盖在缩小。
-Arctic ice = 北极海冰
-③ It was arctic outside.
-= 外面冷得要命。
-小写时 = 极冷的
-配对词：
-Arctic = 北极
-Antarctic = 南极
-注意拼写：Arctic 有两个 c，
-第一个常被漏读也常被漏写。

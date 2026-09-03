@@ -1,3 +1,70 @@
+airfoil
+核心：美式航空术语，指"翼型"——机翼、螺旋桨叶、尾翼这类横截面
+形状特殊的部件，气流经过时产生升力。英式拼 aerofoil。
+① The wing acts as an airfoil.
+= 机翼起的是翼型的作用。
+act as an airfoil = 起翼型作用
+② The airfoil shape generates lift.
+= 翼型的形状能产生升力。
+airfoil shape = 翼型剖面
+③ Engineers tested the airfoil.
+= 工程师测试了那个翼型。
+注意地域：
+美式拼 airfoil，英式拼 aerofoil。
+注意语域：
+航空工程术语。
+
+airfreight
+核心：指"空运"——用飞机运货，也指这样运的货物本身和运费。
+名词动词同形。也分写成 air freight。
+① They sent the parts by airfreight.
+= 那些零件是空运过去的。
+by airfreight = 以空运方式
+② Airfreight costs more than sea freight.
+= 空运比海运贵。
+③ The company airfreights fresh flowers.
+= 那家公司空运鲜花。
+airfreight = 空运（动词）
+注意写法：
+连写与分写都常见。
+近义对照：
+airfreight = 空运（快而贵）
+sea freight = 海运（慢而便宜）
+
+airgun
+核心：指用压缩空气发射弹丸的"气枪"，威力小于火药枪。
+英式也写 air gun。
+① He owns an airgun.
+= 他有一把气枪。
+② Airguns are regulated.
+= 气枪受管制。
+③ The airgun fires pellets.
+= 那把气枪发射铅弹。
+fire pellets = 发射弹丸
+注意拼写：
+airgun / air gun 都可以。
+近义对照：
+airgun = 气枪（压缩空气）
+firearm = 枪械（火药）
+
+airhead
+核心：口语贬义词，指"没脑子的人、傻乎乎的人"。
+用来说人很不客气，要谨慎。
+① Don't be such an airhead.
+= 别那么没脑子。
+② He called her an airhead.
+= 他骂她脑子空空。
+③ The character is written as an airhead.
+= 那个角色被写成了个傻大姐。
+注意语用：airhead 是侮辱性词汇，
+现实交流里最好避免。
+近义对照：
+airhead = 没脑子的人（很不客气）
+scatterbrain = 丢三落四的人（较轻）
+④ The remark sounded airheaded.
+= 那句话听着挺没脑子。
+airheaded = 没头脑的（不礼貌）
+
 airily
 核心：指说话或举止"轻描淡写地、满不在乎地"。
 常带一点批评，暗示对方把事情看得太轻。
@@ -336,67 +403,3 @@ prime time = 黄金时段
 近义对照：
 airtime = 播出时长
 coverage = 报道量（媒体关注）
-
-airwaves
-核心：指广播电视信号所走的"电波"，引申指广播电视这个媒介。
-永远用复数。
-① The song filled the airwaves.
-= 那首歌传遍电台。
-fill the airwaves = 占满广播
-② She dominated the airwaves.
-= 她在广播里出镜率极高。
-dominate the airwaves = 主导广播
-③ It was broadcast over the airwaves.
-= 那是通过电波播出的。
-over the airwaves = 通过广播
-注意：airwaves 永远用复数。
-
-airway
-核心：两条线：医学上的"呼吸道"（急救里的关键词），
-和航空上的"空中航路"。急救 ABC 里的 A 就是 airway。
-① Clear the airway first.
-= 先保持气道通畅。
-clear the airway = 打通气道
-② The airway was blocked.
-= 气道被堵住了。
-blocked airway = 气道阻塞
-③ The plane followed a busy airway.
-= 那架飞机沿一条繁忙航路飞行。
-急救 ABC：
-Airway = 气道
-Breathing = 呼吸
-Circulation = 循环
-
-airwoman
-核心：指"女飞行员、女空军军人"，跟 airman 相对，复数是 airwomen。
-现在军方多改用不分性别的说法。
-① She served as an airwoman.
-= 她曾在空军服役。
-serve as an airwoman = 在空军服役
-② Two airwomen received medals.
-= 两名女空军获得了奖章。
-③ The airwoman flew ninety missions.
-= 那位女飞行员飞了九十次任务。
-注意用法：
-复数把词尾改成 airwomen。
-近义对照：
-airwoman = 女空军军人
-airman = 男空军军人
-aircrew = 机组人员（不分性别）
-
-airworthy
-核心：航空术语，形容词，指飞机"适航的"——经检查符合安全标准、
-可以放飞。名词是 airworthiness。反义是 unairworthy。
-① The plane is no longer airworthy.
-= 那架飞机已经不适航了。
-no longer airworthy = 不再适航
-② Inspectors declared the jet airworthy.
-= 检查员判定那架飞机适航。
-declare something airworthy = 判定适航
-③ The airworthiness certificate expired.
-= 适航证过期了。
-airworthiness = 适航性
-④ Airworthiness rules are strict.
-= 适航规章很严。
-注意语域：
-民航监管术语。

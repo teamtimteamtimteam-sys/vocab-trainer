@@ -1,3 +1,41 @@
+agility
+核心：两条线：身体的"敏捷"，和头脑或组织的"灵活应变"。
+第二条在商业语境里越来越常用。
+① The cat moved with agility.
+= 那只猫动作敏捷。
+with agility = 敏捷地
+② Mental agility matters here.
+= 这里看重思维敏捷。
+mental agility = 思维敏捷
+③ The firm needs more agility.
+= 那家公司需要更灵活。
+business agility = 组织敏捷性
+词族：
+agile = 敏捷的
+近义对照：
+agility = 敏捷（反应快）
+flexibility = 灵活（可变通）
+dexterity = 灵巧（手上功夫）
+
+aging
+核心：ageing 的美式拼法，少中间那个字母，意思完全一样：作名词指
+"老化、变老"，作形容词指"上了年纪的、老旧的"。
+① The aging population worries planners.
+= 人口老龄化让规划者担忧。
+aging population = 老龄化人口
+② Aging is a natural process.
+= 衰老是自然过程。
+③ They replaced the aging pipes.
+= 他们换掉了老旧的管道。
+aging pipes = 老旧管道
+④ Cheese improves with aging.
+= 奶酪越陈越好。
+注意拼写：
+aging = 老化（美式）
+ageing = 老化（英式）
+注意用法：
+形容词义既说人也说设备。
+
 agism
 核心：ageism 的另一种拼法，少了中间那个字母，意思完全一样，
 指"年龄歧视"。美式文本里偶尔见到，英式几乎只用全的那种拼法。
@@ -69,6 +107,24 @@ agitation for = 为…而鼓动
 词族：
 agitate = 使不安；鼓动
 agitator = 煽动者
+
+agitato
+核心：音乐术语，意大利语借词，指"激动地"——标在谱上要求演奏得
+急促不安、情绪外露。作副词也作形容词，只在音乐语境里用。
+① The passage is marked agitato.
+= 那一段标着激动地演奏。
+marked agitato = 标注为激动地
+② She played the finale agitato.
+= 她把终曲弹得急促不安。
+③ An agitato tempo suits the storm scene.
+= 激动的速度适合那段风暴场景。
+agitato tempo = 激动的速度
+注意语域：
+音乐术语，日常口语不用。
+表情记号对照：
+agitato = 激动地（不安、急促）
+adagio = 慢板（从容）
+allegro = 快板（轻快）
 
 agitator
 核心：指政治上的"煽动者、鼓动分子"，通常带贬义——
@@ -403,51 +459,3 @@ agree = 相符
 = 海鲜不合我的胃口。
 agree with = 适合（身体）
 反义词：disagree = 不同意
-
-agreeable
-核心：三条线：事物"令人愉快的"、人"和蔼的"、以及
-"同意的"（be agreeable to）。第三条偏正式。
-① We had an agreeable evening.
-= 我们度过了愉快的一晚。
-an agreeable evening = 惬意的夜晚
-② He is an agreeable fellow.
-= 他是个好相处的人。
-③ Are you agreeable to the plan?
-= 你同意那个计划吗？
-be agreeable to = 同意
-反义词：
-disagreeable = 讨厌的
-词族：agree = 同意
-副词形式：agreeably = 愉快地
-
-agreed
-核心：两条线：形容词"已议定的"（an agreed price），
-和口语里单独说 Agreed! 表示"就这么定了"。
-① We met at the agreed time.
-= 我们在约定时间见了面。
-the agreed time = 约定时间
-② The agreed price was £500.
-= 议定价格是五百英镑。
-agreed price = 议定价
-③ "Let's start early." "Agreed."
-= "早点开始吧。""同意。"
-④ It is agreed that we proceed.
-= 各方同意继续推进。
-it is agreed that = 各方议定
-词族：agree、agreement
-
-agreement
-核心：两层：抽象的"意见一致"（不可数）和具体的"协议"（可数）。
-in agreement 是"意见一致"，an agreement 是"一份协议"。
-① They reached an agreement.
-= 他们达成了协议。
-reach an agreement = 达成协议
-② We are in agreement on this.
-= 我们在这点上意见一致。
-in agreement = 意见一致
-③ They signed a trade agreement.
-= 他们签署了贸易协定。
-④ There is little agreement among experts.
-= 专家之间少有共识。
-这里不可数。
-反义词：disagreement = 分歧

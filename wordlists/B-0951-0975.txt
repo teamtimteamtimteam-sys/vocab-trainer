@@ -1,3 +1,71 @@
+anthropology
+核心：指人类学——研究人类的起源、社会与文化的学科。
+不可数。分文化人类学和体质人类学两大支。
+① She studies anthropology.
+= 她学人类学。
+② Anthropology examines culture.
+= 人类学考察文化。
+③ Cultural anthropology is her field.
+= 文化人类学是她的领域。
+cultural anthropology = 文化人类学
+词族：
+anthropologist = 人类学家
+构词：anthropo- 人 + -logy 学科
+同类：
+sociology = 社会学
+archaeology = 考古学
+
+antibiotic
+核心：指杀灭或抑制细菌的"抗生素"。
+关键一点：抗生素对病毒无效，感冒吃抗生素没用。
+① The doctor prescribed antibiotics.
+= 医生开了抗生素。
+prescribe antibiotics = 开抗生素
+② Antibiotics don't work on viruses.
+= 抗生素对病毒无效。
+③ Antibiotic resistance is rising.
+= 抗生素耐药性在上升。
+antibiotic resistance = 抗生素耐药
+构词：anti- 抗 + bio 生命
+注意：抗生素只针对细菌，
+病毒感染要用 antiviral。
+
+antibody
+核心：免疫系统产生的"抗体"，用来识别和中和病原体。
+可数，常用复数。
+① The body produces antibodies.
+= 人体会产生抗体。
+produce antibodies = 生成抗体
+② Antibody levels were tested.
+= 检测了抗体水平。
+antibody level = 抗体水平
+③ Antibodies fight infection.
+= 抗体对抗感染。
+注意复数：
+antibody → antibodies
+配对词：
+antigen = 抗原（引发反应）
+antibody = 抗体（产生的反应）
+
+anticipate
+核心：底层是"提前想到并做准备"，比 expect 多一层"提前应对"的意思。
+后面接名词或 doing，不接 to do——这是高频错误。
+① We anticipate strong demand.
+= 我们预计需求强劲。
+② She anticipated my question.
+= 她料到了我要问什么。
+③ We didn't anticipate having to wait.
+= 我们没料到还得等。
+anticipate doing = 预料到要做
+④ Sales were higher than anticipated.
+= 销量高于预期。
+词族：
+anticipation = 预期、期待
+注意区别：
+anticipate 预料并提前准备
+expect 预计会发生（不含准备）
+注意：不说 anticipate to do。
+
 anticipation
 核心：两条线：对好事的"期待"，和为将来做的"预先准备"。
 in anticipation of 是高频搭配。
@@ -357,69 +425,3 @@ any + 比较级 = 程度上稍微
 注意区别：
 some 用于肯定句、以及期待肯定答复的疑问句
 any 用于否定句和一般疑问句
-
-anybody
-核心：和 anyone 完全同义，可互换。否定疑问句里是"任何人"，肯定句
-里是"任何一个人（都行）"。作主语时动词用单数。
-① Is anybody there?
-= 有人吗？
-② I didn't see anybody.
-= 我谁也没看见。
-③ Anybody can learn this.
-= 谁都能学会这个。
-肯定句 = 任何人
-④ Anybody who wants to come is welcome.
-= 谁想来都欢迎。
-注意：作主语时用单数动词。
-注意区别：
-anybody / anyone 完全同义
-somebody 用于肯定句
-nobody 本身已含否定
-
-anyhow
-核心：三条线：等于 anyway 的"总之、不管怎样"、
-"随随便便地"、以及"无论如何"。
-① Anyhow, let's move on.
-= 总之，我们继续吧。
-② The books were piled anyhow.
-= 那些书胡乱堆着。
-这里：anyhow = 随意地
-③ I'll finish it anyhow.
-= 我无论如何都会做完。
-注意区别：
-anyhow / anyway 作"总之"讲可互换
-anyhow 另有"随便乱来"这个意思
-anyway 没有
-
-anyone
-核心：和 anybody 完全同义。否定疑问句里是"任何人"，
-肯定句里是"任何一个人都行"。作主语配单数动词。
-① Does anyone know?
-= 有人知道吗？
-② I didn't tell anyone.
-= 我谁也没告诉。
-③ Anyone can join.
-= 谁都可以加入。
-肯定句 = 任何人
-④ Anyone who wants to may come.
-= 想来的人都可以来。
-注意区别：
-anyone = 任何人（不特指）
-any one = 任何一个（可指物，分写）
-Choose any one of them. = 从中任选一个。
-
-anything
-核心：否定疑问句里是"任何东西"，肯定句里是"任何事物都行"。
-anything but 是高频习语，意为"绝不是"。
-① Is there anything to eat?
-= 有吃的吗？
-② I didn't buy anything.
-= 我什么也没买。
-③ He'll eat anything.
-= 他什么都吃。
-肯定句 = 任何东西
-④ It's anything but easy.
-= 那绝不轻松。
-anything but = 一点也不
-⑤ Anything else?
-= 还有别的吗？

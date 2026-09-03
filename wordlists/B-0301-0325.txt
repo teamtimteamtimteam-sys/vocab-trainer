@@ -1,3 +1,29 @@
+adapt
+核心：底层是"改动使之合用"。改自己去合环境是"适应"（不及物，
+adapt to），改东西去合用途是"改造"（及物），把小说改成电影也是
+这个词。注意和 adopt 只差一个字母，意思完全不同。
+① It's hard to adapt to a new culture.
+= 适应新文化不容易。
+adapt to = 适应
+② They adapted the house for wheelchairs.
+= 他们把房子改造得便于轮椅出入。
+③ The novel was adapted for television.
+= 那部小说被改编成了电视剧。
+be adapted for = 被改编成
+④ Animals adapt to their environment.
+= 动物会适应环境。
+词族：
+adaptation = 适应、改编
+adaptable = 适应力强的
+注意别混：
+adapt 适应 / adopt 收养、采纳
+⑤ The system uses adaptive learning.
+= 那个系统采用自适应学习。
+adaptive = 自适应的、适应性的
+⑥ Adaptive behaviour helps survival.
+= 适应性行为有助于生存。
+adaptive behaviour = 适应性行为
+
 adaptable
 核心：指人或物"适应力强、易于改动的"。说人是很高的褒奖，
 职场里是核心素质词。介词用 to。
@@ -454,22 +480,3 @@ adequacy = 充分性
 反义词：inadequately = 不充分地
 注意语气：adequately 只是"达标"，
 不含称赞。
-
-adhere
-核心：两条线：物理上"粘附"，和抽象上"遵守、坚持"（adhere to）。
-后者在正式文体里更常用，宾语是规则、原则、计划。
-① The label adheres to the bottle.
-= 标签粘在瓶子上。
-adhere to = 粘附于
-② You must adhere to the rules.
-= 你必须遵守规则。
-adhere to = 遵守
-③ They adhere to strict standards.
-= 他们坚持严格标准。
-④ Paint won't adhere to a wet wall.
-= 漆粘不住湿墙。
-词族：
-adhesive = 粘合剂
-adherence = 遵守
-adherent = 拥护者
-注意：adhere 一定要带 to。

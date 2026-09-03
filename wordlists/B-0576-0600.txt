@@ -1,3 +1,51 @@
+agreeable
+核心：三条线：事物"令人愉快的"、人"和蔼的"、以及
+"同意的"（be agreeable to）。第三条偏正式。
+① We had an agreeable evening.
+= 我们度过了愉快的一晚。
+an agreeable evening = 惬意的夜晚
+② He is an agreeable fellow.
+= 他是个好相处的人。
+③ Are you agreeable to the plan?
+= 你同意那个计划吗？
+be agreeable to = 同意
+反义词：
+disagreeable = 讨厌的
+词族：agree = 同意
+副词形式：agreeably = 愉快地
+
+agreed
+核心：两条线：形容词"已议定的"（an agreed price），
+和口语里单独说 Agreed! 表示"就这么定了"。
+① We met at the agreed time.
+= 我们在约定时间见了面。
+the agreed time = 约定时间
+② The agreed price was £500.
+= 议定价格是五百英镑。
+agreed price = 议定价
+③ "Let's start early." "Agreed."
+= "早点开始吧。""同意。"
+④ It is agreed that we proceed.
+= 各方同意继续推进。
+it is agreed that = 各方议定
+词族：agree、agreement
+
+agreement
+核心：两层：抽象的"意见一致"（不可数）和具体的"协议"（可数）。
+in agreement 是"意见一致"，an agreement 是"一份协议"。
+① They reached an agreement.
+= 他们达成了协议。
+reach an agreement = 达成协议
+② We are in agreement on this.
+= 我们在这点上意见一致。
+in agreement = 意见一致
+③ They signed a trade agreement.
+= 他们签署了贸易协定。
+④ There is little agreement among experts.
+= 专家之间少有共识。
+这里不可数。
+反义词：disagreement = 分歧
+
 agribusiness
 核心：指"农业综合企业"——把种植养殖、加工、仓储和销售连成一条链的
 大规模商业化农业。作行业统称时不可数，指具体一家公司时可数。
@@ -15,6 +63,24 @@ a large agribusiness = 一家大型农业企业
 agribusiness = 农业综合企业（产业链一体化）
 farming = 务农（生产环节本身）
 smallholding = 小农户（自有的小块地）
+
+agric
+核心：agriculture 与 agricultural 的非正式缩略写法，只作定语，
+用在院系、专业、行业这类名词前面。正式文本一律写完整拼法。
+① He studies at the agric faculty.
+= 他在农学院读书。
+agric faculty = 农学院
+② The agric sector needs investment.
+= 农业部门需要投资。
+agric sector = 农业部门
+③ She took an agric course.
+= 她选了一门农学课。
+agric course = 农学课
+注意语域：
+非正式缩略，只作定语，正式场合写全。
+同类缩略：
+ag = 农业的（北美口语）
+agric = 农业的（缩略写法）
 
 agricultural
 核心：指"农业的"，比名词 agriculture 更常出现在写作里。
@@ -385,69 +451,3 @@ a black belt in aikido = 合气道黑带
 aikido = 合气道（借力化解，不主动攻）
 judo = 柔道（摔投与压制）
 karate = 空手道（拳脚击打）
-
-ail
-核心：两条线：古旧的"使苦恼"（What ails you?），
-和现在更常用的"使（组织、经济）陷入困境"。
-① What ails you?
-= 你哪儿不舒服？
-古旧问法
-② Problems ail the industry.
-= 那个行业问题缠身。
-③ The ailing economy needs reform.
-= 疲弱的经济需要改革。
-词族：
-ailing = 生病的；不景气的
-ailment = 小病
-注意语体：ail 作"生病"讲已很古旧，
-现在多用于比喻组织和经济。
-
-aileron
-核心：航空术语，指机翼后缘用于控制横滚的"副翼"。
-飞行原理和航模爱好者会用到。
-① The pilot moved the ailerons.
-= 飞行员操纵了副翼。
-② Ailerons control roll.
-= 副翼控制横滚。
-control roll = 控制滚转
-③ One aileron jammed.
-= 一侧副翼卡住了。
-飞机操纵面：
-aileron = 副翼（横滚）
-elevator = 升降舵（俯仰）
-rudder = 方向舵（偏航）
-注意发音：/ˈeɪlərɒn/
-
-ailing
-核心：两条线：人"久病不愈的"，和机构经济"每况愈下的"。
-第二条在财经报道里高频。只作定语为主。
-① His ailing father needs care.
-= 他久病的父亲需要照顾。
-ailing father = 病弱的父亲
-② The ailing company was sold.
-= 那家经营不善的公司被卖掉了。
-ailing company = 陷入困境的公司
-③ Reform aims to fix the ailing system.
-= 改革意在修复那个失灵的体系。
-ailing system = 弊病缠身的体系
-词族：ail、ailment
-近义对照：
-ailing = 久病、不景气
-struggling = 挣扎的（通用）
-
-ailment
-核心：指不严重但反复的"小病、小毛病"，常用复数。比 disease 轻，
-比 illness 具体。老年人的慢性小毛病最常用这个词。
-① She suffers from minor ailments.
-= 她有些小毛病。
-minor ailment = 小病
-② Common ailments are treated here.
-= 这里治疗常见小病。
-common ailment = 常见病
-③ He has an unexplained ailment.
-= 他有个说不清的病症。
-词族：ail = 使苦恼（旧）
-近义对照：
-ailment 小病（轻、反复）
-illness 疾病（通用）
-disease 疾病（有明确病理）

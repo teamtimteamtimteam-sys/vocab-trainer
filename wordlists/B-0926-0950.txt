@@ -1,3 +1,76 @@
+anomalous
+核心：正式用语，指"反常的、不符合规律的"。
+科研和数据分析里常用。
+① The reading is anomalous.
+= 那个读数异常。
+anomalous reading = 异常读数
+② An anomalous result appeared.
+= 出现了一个反常结果。
+anomalous result = 反常结果
+③ Her position is anomalous.
+= 她的处境很特殊。
+词族：
+anomaly = 反常现象
+近义对照：
+anomalous = 反常的（学术）
+abnormal = 异常的（医学、通用）
+atypical = 非典型的
+
+anomaly
+核心：指"反常的现象、不符合规律的个例"。学术和技术语境高频，
+比 exception 更强调"和预期不符、需要解释"。
+① The data shows an anomaly.
+= 数据里有个异常值。
+② It's a statistical anomaly.
+= 那是个统计上的异常。
+statistical anomaly = 统计异常
+③ Such anomalies need explaining.
+= 这类反常现象需要解释。
+④ He is an anomaly in the field.
+= 他在这个领域里是个异数。
+注意复数：
+anomaly → anomalies
+词族：anomalous = 反常的
+近义对照：
+anomaly 反常（不符规律）
+exception 例外（规则之外）
+irregularity 不规则（不合常规）
+
+anonymity
+核心：指"匿名"这种状态，不可数。
+常见搭配 preserve / protect / request anonymity。
+① He requested anonymity.
+= 他要求匿名。
+request anonymity = 要求匿名
+② The source spoke on condition of anonymity.
+= 消息人士要求匿名后才开口。
+on condition of anonymity = 以匿名为条件
+③ Online anonymity has downsides.
+= 网络匿名有其弊端。
+online anonymity = 网络匿名
+词族：
+anonymous = 匿名的
+anonymously = 匿名地
+
+anonymous
+核心：指"匿名的、不具名的"，可以说人、信件、捐赠、举报。
+也指"没有特色的、千篇一律的"（an anonymous building）。
+① The donor wished to remain anonymous.
+= 捐赠者希望保持匿名。
+remain anonymous = 保持匿名
+② She received an anonymous letter.
+= 她收到一封匿名信。
+anonymous letter = 匿名信
+③ It's an anonymous tip-off.
+= 那是个匿名举报。
+anonymous tip-off = 匿名举报
+④ The suburb looks anonymous.
+= 那片郊区毫无特色。
+词族：
+anonymity = 匿名状态
+anonymously = 匿名地
+注意发音：/əˈnɒnɪməs/
+
 anorak
 核心：两条线：带风帽的"防风外套"（英式），
 和英式俚语里的"过分痴迷冷门爱好的书呆子"。
@@ -362,71 +435,3 @@ study kinship = 研究亲属关系
 anthropology = 人类学
 anthropological = 人类学的
 构词：anthropo- 人 + -logist 研究者
-
-anthropology
-核心：指人类学——研究人类的起源、社会与文化的学科。
-不可数。分文化人类学和体质人类学两大支。
-① She studies anthropology.
-= 她学人类学。
-② Anthropology examines culture.
-= 人类学考察文化。
-③ Cultural anthropology is her field.
-= 文化人类学是她的领域。
-cultural anthropology = 文化人类学
-词族：
-anthropologist = 人类学家
-构词：anthropo- 人 + -logy 学科
-同类：
-sociology = 社会学
-archaeology = 考古学
-
-antibiotic
-核心：指杀灭或抑制细菌的"抗生素"。
-关键一点：抗生素对病毒无效，感冒吃抗生素没用。
-① The doctor prescribed antibiotics.
-= 医生开了抗生素。
-prescribe antibiotics = 开抗生素
-② Antibiotics don't work on viruses.
-= 抗生素对病毒无效。
-③ Antibiotic resistance is rising.
-= 抗生素耐药性在上升。
-antibiotic resistance = 抗生素耐药
-构词：anti- 抗 + bio 生命
-注意：抗生素只针对细菌，
-病毒感染要用 antiviral。
-
-antibody
-核心：免疫系统产生的"抗体"，用来识别和中和病原体。
-可数，常用复数。
-① The body produces antibodies.
-= 人体会产生抗体。
-produce antibodies = 生成抗体
-② Antibody levels were tested.
-= 检测了抗体水平。
-antibody level = 抗体水平
-③ Antibodies fight infection.
-= 抗体对抗感染。
-注意复数：
-antibody → antibodies
-配对词：
-antigen = 抗原（引发反应）
-antibody = 抗体（产生的反应）
-
-anticipate
-核心：底层是"提前想到并做准备"，比 expect 多一层"提前应对"的意思。
-后面接名词或 doing，不接 to do——这是高频错误。
-① We anticipate strong demand.
-= 我们预计需求强劲。
-② She anticipated my question.
-= 她料到了我要问什么。
-③ We didn't anticipate having to wait.
-= 我们没料到还得等。
-anticipate doing = 预料到要做
-④ Sales were higher than anticipated.
-= 销量高于预期。
-词族：
-anticipation = 预期、期待
-注意区别：
-anticipate 预料并提前准备
-expect 预计会发生（不含准备）
-注意：不说 anticipate to do。
