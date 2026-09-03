@@ -252,6 +252,39 @@ aorta = 主动脉
 注意发音：/eɪˈɔːtɪk/，
 重音在第二音节。
 
+apace
+核心：文学腔的副词，指"迅速地、大步向前地"。几乎只跟表示进展的
+动词搭配，最常见的是 continue apace 和 grow apace，
+说某件事正在快速推进。
+① Preparations continued apace.
+= 筹备工作紧锣密鼓地进行着。
+continue apace = 快速推进
+② The city grew apace after the railway.
+= 铁路通了之后那座城市迅速扩张。
+grow apace = 迅速扩张
+③ Reform proceeded apace.
+= 改革推进得很快。
+注意用法：
+只作副词，跟在动词后面。
+注意语域：
+书面语、文学腔，日常说 quickly。
+
+Apache
+核心：北美西南部的一支印第安人，历史上以骑术和游击战闻名，
+十九世纪与美墨两国长期冲突。也是他们语言的名称。
+军用直升机的型号名就是取自这个族名。
+① Apache bands roamed the borderlands.
+= 阿帕奇各部族在边地游动。
+② She studies the Apache language.
+= 她研究阿帕奇语。
+the Apache language = 阿帕奇语
+③ Apache resistance lasted decades.
+= 阿帕奇人的抵抗持续了几十年。
+注意大小写：
+族名与语言名都大写。
+注意语域：
+北美原住民历史与语言学语境。
+
 apart
 核心：底层是"分开、隔开"。空间上分开、感情上疏远、拆解开来都是它。
 apart from 是高频短语，兼有"除…之外（不算）"和"除…之外（还有）"
@@ -341,6 +374,22 @@ apathetic = 冷漠的
 enthusiasm = 热情
 concern = 关切
 
+apatosaurus
+核心：一种侏罗纪的巨型植食恐龙，脖子和尾巴都极长，四足行走。
+它就是从前叫"雷龙"的那种——雷龙这个名字后来被判定为重复命名，
+学界改用这个名字，但通俗读物里两个名字仍并存。
+① The apatosaurus reached over twenty metres.
+= 迷惑龙能长到二十多米。
+② An apatosaurus skeleton fills the hall.
+= 一具迷惑龙骨架占满了展厅。
+③ Apatosaurus fed on high foliage.
+= 迷惑龙以高处的枝叶为食。
+feed on foliage = 以枝叶为食
+注意语域：
+古生物学名称。
+注意用法：
+通俗读物里也叫它 brontosaurus。
+
 ape
 核心：名词指类人猿（黑猩猩、大猩猩、猩猩），没有尾巴——
 这是它和 monkey 的关键差别。动词义是"拙劣模仿"。
@@ -359,87 +408,32 @@ go ape = 暴跳如雷（口语）
 ape = 类人猿（无尾）
 monkey = 猴（有尾）
 
-aperture
-核心：两条线：一般的"小孔、缝隙"，
-和摄影上镜头的"光圈"。后者是最常见的用法。
-① Light enters through the aperture.
-= 光从那个孔进入。
-② Set a wide aperture.
-= 把光圈开大。
-wide aperture = 大光圈
-③ The aperture controls exposure.
-= 光圈控制曝光量。
-control exposure = 控制曝光
-注意发音：/ˈæpətʃə(r)/
-摄影三要素：
-aperture = 光圈
-shutter speed = 快门速度
-ISO = 感光度
+apeman
+核心：指"猿人"——通俗说法，说的是介于猿与人之间的早期人类化石
+形象。学术上并不用这个词，它主要活在科普读物、影视和玩笑里。
+复数是 apemen。
+① The museum's apeman model draws crowds.
+= 博物馆那具猿人模型很招人看。
+② Cartoons still picture the apeman with a club.
+= 漫画里的猿人还举着根棍子。
+③ He joked about his apeman posture.
+= 他拿自己那副猿人姿势开玩笑。
+注意语域：
+通俗说法，学术上说 hominid 或 hominin。
+注意用法：
+复数把词尾改成 apemen。
 
-apex
-核心：字面指三角形或山峰的"顶点"，
-比喻指事业、权力的"顶峰"。介词用 of。
-① The apex of the triangle.
-= 三角形的顶点。
-② He reached the apex of his career.
-= 他达到了事业的顶峰。
-the apex of = …的顶点
-③ The apex predator has no rivals.
-= 顶级捕食者没有天敌。
-apex predator = 顶级掠食者
-注意复数：
-apex → apexes 或 apices
-近义对照：
-apex = 顶点（几何、层级）
-peak = 顶峰（山、数值）
-summit = 峰顶（山、会议）
-
-aphorism
-核心：指凝练的"格言、警句"，通常出自某位作者之手，
-带点机锋。比 proverb（民间谚语）更精心。
-① He is famous for his aphorisms.
-= 他以警句闻名。
-② The book collects aphorisms.
-= 那本书收录了格言。
-③ It's a well-known aphorism.
-= 那是句广为人知的箴言。
-词族：
-aphoristic = 警句式的
-近义对照：
-aphorism = 警句（作者写的，机智）
-proverb = 谚语（民间流传）
-maxim = 箴言（行为准则）
-adage = 老话（流传已久）
-
-apiece
-核心：副词，指"每个、每人"，放在数量或价格之后。
-和 each 同义但位置固定在后。
-① They cost £5 apiece.
-= 它们每个五英镑。
-cost … apiece = 每个…钱
-② We got two apiece.
-= 我们每人分到两个。
-③ The teams scored three apiece.
-= 两队各进三球。
-score … apiece = 各得…分
-注意位置：
-apiece 只放在后面
-each 可前可后
-They cost £5 each. = 同义
-
-aplomb
-核心：指面对难堪或困境时的"泰然自若"，褒义。
-几乎只用 with aplomb 这个搭配。
-① She handled it with aplomb.
-= 她处理得从容不迫。
-with aplomb = 泰然自若地
-② He answered with great aplomb.
-= 他答得非常沉着。
-③ The pianist played with aplomb.
-= 那位钢琴家弹得游刃有余。
-注意发音：/əˈplɒm/，
-词源是法语，字面意思是「垂直、稳当」。
-近义对照：
-aplomb = 泰然自若（有风度）
-composure = 镇定（不慌）
-poise = 从容（举止优雅）
+aperçu
+核心：法语借词，指"精辟的短评"——三言两语说破要害的那种见解，
+不长，但一针见血。也可指对某个题目的简要概观。复数 aperçus。
+① The essay is full of sharp aperçus.
+= 那篇文章满是精辟的短论。
+sharp aperçus = 精辟的短论
+② She offered an aperçu on modern taste.
+= 她就当代品味说了段精辟的话。
+③ The preface gives an aperçu of the field.
+= 序言给出了该领域的概观。
+注意语域：
+文学与评论用语，带书卷气。
+注意拼写：
+词中那个字母带软音符，不能省掉。
