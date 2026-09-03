@@ -387,6 +387,9 @@ acidulous = 微酸的；尖刻的
 ⑭ Proteins are built from amino acids.
 = 蛋白质由氨基酸构成。
 amino acid = 氨基酸
+⑮ Citrus fruit is rich in ascorbic acid.
+= 柑橘类水果富含抗坏血酸。
+ascorbic acid = 抗坏血酸（即维生素 C）
 
 acidic
 核心：化学上指"酸性的"，与碱性相对；日常也指食物"发酸的"。

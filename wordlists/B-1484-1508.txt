@@ -161,6 +161,54 @@ as for = 至于
 = 除英语外她还会泰语。
 as well as = 除…之外还
 
+AS level
+核心：英国中学的一种资格考试，全称 Advanced Subsidiary level，
+学生在十二年级考，程度介于普通中等教育证书与完整的高级程度
+证书之间。二零一五年改革后它与后者脱钩，成了独立资格。
+① She took four AS levels.
+= 她考了四门高级补充程度课。
+take an AS level = 考一门该资格课程
+② AS levels sit between GCSE and A level.
+= 那个资格介于中等证书与高级程度之间。
+③ He dropped one subject after AS level.
+= 考完那一级他退了一门课。
+注意地域：
+英国教育制度用语。
+层级对照：
+GCSE = 普通中等教育证书（十六岁）
+AS level = 高级补充程度（十七岁）
+A level = 高级程度证书（十八岁）
+
+asana
+核心：梵语借词，指瑜伽里的"体式"——身体摆出并保持住的那个姿势。
+每个体式都有专名，比如树式、下犬式。在传统瑜伽八支里，
+它只是其中一支，不等于瑜伽的全部。
+① Hold the asana for five breaths.
+= 这个体式保持五个呼吸。
+hold an asana = 保持体式
+② The class moved through twelve asanas.
+= 那节课过了十二个体式。
+③ Asana is only one limb of yoga.
+= 体式只是瑜伽的一支。
+注意语域：
+瑜伽术语，梵语借词。
+
+asap
+核心：as soon as possible 的缩写，指"尽快"。四个字母可以逐个念，
+也可以拼成一个音节念。写法上大写小写、带不带句点都有人用。
+它常暗含催促，所以对上级或客户用要留意口气。
+① Send the file asap.
+= 尽快把文件发来。
+asap = 尽快
+② She replied asap, as asked.
+= 她按要求尽快回了。
+③ We need a decision asap.
+= 我们需要尽快有个决定。
+注意语域：
+职场邮件与短信里高频，正式公文里写全。
+注意用法：
+带催促意味，对上级用要注意语气。
+
 asbestos
 核心：指石棉——曾广泛用作隔热防火材料，
 后因致癌（间皮瘤）被多数国家禁用。不可数。
@@ -175,6 +223,9 @@ asbestos removal = 石棉清除
 相关词：
 mesothelioma = 间皮瘤（石棉致癌）
 insulation = 隔热材料
+④ Years in the yard left him with asbestosis.
+= 在船厂干了多年，他患上了石棉肺。
+asbestosis = 石棉肺（吸入石棉纤维所致）
 
 ascend
 核心：正式用语，指"上升、攀登"。也指"登上（王位、高位）"。
@@ -192,6 +243,9 @@ descend = 下降
 词族：
 ascent = 上升
 ascendancy = 支配地位
+④ He is the heir ascendant.
+= 他是顺位在先的继承人。
+ascendant = 上升的、占优势的；（占星）上升星座
 
 ascendancy
 核心：指压过对方的"支配地位、优势"。正式。
@@ -261,6 +315,12 @@ ascertain = 查明确定（正式）
 find out = 弄清楚（通用）
 determine = 确定（有判断）
 verify = 核实（验证真伪）
+④ The cause is not readily ascertainable.
+= 起因不容易查明。
+ascertainable = 可查明的
+⑤ Ascertainment of the facts took months.
+= 查明事实花了好几个月。
+ascertainment = 查明、确定（正式）
 
 ascetic
 核心：指为宗教或修行目的"苦行的、清心寡欲的"，
@@ -296,6 +356,22 @@ asceticism = 禁欲主义（宗教修行）
 abstinence = 戒除（具体某物）
 austerity = 简朴严峻（生活方式）
 
+ascot
+核心：一种宽幅领巾——对折后松松系在敞口衬衫领内，两端交叠平铺
+在胸前，比领带随意、比围巾正式。名字来自英国那个赛马场，
+那里的着装传统把它带火了。美式用得比英式多。
+① He wore a silk ascot.
+= 他系了条丝质领巾。
+a silk ascot = 丝质领巾
+② An ascot suits an open collar.
+= 领巾配敞口衬衫正合适。
+③ The ascot tucks inside the shirt.
+= 领巾塞在衬衫领子里。
+注意地域：
+美式常用，英式多说 cravat。
+注意语域：
+服饰用语。
+
 ascribe
 核心：指把某事"归因于"或把作品"认定为某人所作"。
 介词固定用 to。
@@ -312,6 +388,15 @@ ascribe = 归因于（to）
 subscribe = 订阅；赞同（to）
 describe = 描述
 prescribe = 开处方
+④ Critics ascribe the play to a rival.
+= 评论家把那出戏归到一位对手名下。
+ascribe to = 把…归于（作者、原因）
+⑤ The fault is ascribable to poor design.
+= 那个毛病要归咎于设计不佳。
+ascribable = 可归因于…的
+⑥ The ascription of the painting is disputed.
+= 那幅画的归属有争议。
+ascription = 归属、归因
 
 aseptic
 核心：医学用语，指"无菌的"——不含致病微生物。
@@ -362,71 +447,6 @@ volcanic ash = 火山灰
 常用搭配：
 rise from the ashes = 浴火重生
 ashtray = 烟灰缸
-
-ashamed
-核心：指"为自己做过的事感到羞愧"，只作表语。和 shy（害羞）完全
-不同——ashamed 有道德上的自责，shy 只是性格内向。
-① I'm ashamed of my behaviour.
-= 我为自己的行为羞愧。
-be ashamed of = 为…羞愧
-② He was ashamed to admit it.
-= 他羞于承认。
-be ashamed to do = 羞于做
-③ You should be ashamed of yourself.
-= 你该为自己感到羞耻。
-④ There's nothing to be ashamed of.
-= 没什么好羞愧的。
-注意区别：
-ashamed 羞愧（做了不该做的事）
-shy 害羞（性格）
-embarrassed 尴尬（当场出丑）
-注意：ashamed 只作表语。
-
-ashen
-核心：指脸色"灰白的、毫无血色的"，
-多因惊吓、生病或悲痛。文学色彩较浓。
-① His face was ashen.
-= 他脸色煞白。
-ashen face = 灰白的脸
-② She turned ashen at the news.
-= 听到消息她脸色发白。
-turn ashen = 面无人色
-③ An ashen sky hung low.
-= 灰白的天空压得很低。
-词族：ash = 灰
-近义对照：
-ashen = 灰白无血色（惊吓、病痛）
-pale = 苍白（通用）
-pallid = 病态苍白（正式）
-wan = 憔悴苍白（虚弱）
-
-ashore
-核心：指"上岸、在岸上"，只作副词。
-航海和海难语境常用。
-① They swam ashore.
-= 他们游上了岸。
-swim ashore = 游上岸
-② The whale was washed ashore.
-= 那头鲸被冲上了岸。
-be washed ashore = 被冲上岸
-③ We went ashore at noon.
-= 我们中午上了岸。
-go ashore = 上岸
-注意：ashore 只作副词，
-不放在名词前。
-反义对照：
-ashore = 上岸 / aboard = 上船
-
-ashtray
-核心：指烟灰缸。构词是 ash（灰）+ tray（盘）。
-随着禁烟普及，这个词的日常使用在减少。
-① He tapped ash into the ashtray.
-= 他把烟灰弹进烟灰缸。
-tap ash = 弹烟灰
-② The ashtray was overflowing.
-= 烟灰缸满得溢出来了。
-③ Ashtrays were removed from planes.
-= 飞机上的烟灰缸拆掉了。
-构词：ash + tray
-同类构词：
-tea tray 茶盘 / in-tray 收文盘
+⑤ She dyed her hair ash blonde.
+= 她把头发染成了灰金色。
+ash blonde = 灰金色（偏冷的浅金）

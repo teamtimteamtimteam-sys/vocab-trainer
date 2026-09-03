@@ -87,6 +87,10 @@ def load_reference():
         # 全表这样的只有 20 条，逐条看过都是撇号伪影，没有真词以
         # 「连字符 + s/t」收尾，所以直接还原。
         w = re.sub(r'-(s|t)$', r"'\1", w)
+        # 括号在清单里标的是「可选部分」，不是词头的一部分：
+        # AS (level)、A2 (level)、catty-corner(ed)、(the) Netherlands。
+        # 全表 9 条，去掉括号符号、保留里面的字就能跟正常写法归一。
+        w = w.replace('(', '').replace(')', '').strip()
         if w.startswith('-') or w.endswith('-'):      # 词缀条目，不收
             continue
         bare = w.replace('.', '').replace('-', '').replace(' ', '')
