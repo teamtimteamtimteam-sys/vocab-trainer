@@ -18,6 +18,10 @@ ach          # 苏格兰/爱尔兰感叹词
 aapa         # 印度英语，姐姐
 achcha       # 印度英语，好的
 achkan       # 印度英语，男式长外套
+backsheesh   # 中东／南亚英语的小费、打点（同 baksheesh）
+babu         # 印度英语，对男性的敬称／旧指文书吏
+bachcha      # 印度英语，小孩
+backward classes # 印度英语，宪法术语「落后阶层」
 ayah         # 印度／南亚英语，保姆、奶妈（同 amah）
 askari       # 东非（斯瓦希里语借词）的士兵、警卫
 arré         # 印度英语的招呼／惊讶感叹词
@@ -64,6 +68,7 @@ abba         # 阿拉姆语「父亲」，圣经用语
 
 # --- 古旧与文书用语 ---
 abed         # 古旧，日常说 in bed
+babby        # 英格兰北部方言的 baby
 accoutred    # 古旧文学，装备齐全的
 acerbity     # 罕用名词，形容词 acerbic 已收
 acct.        # 表单缩写
@@ -89,6 +94,9 @@ afara        # 西非产的木材树，过窄；跟 afar 无关，coverage 只�
 # 全表 106 条同此（hadrian-s-wall、king-s-cross、mother-s-day…），
 # 到相应字母段再逐条判，不一次性铺开。
 Aesop's Fables   # 伊索寓言，书名，非词汇
+Babe Didrikson   # 美国运动员人名
+Babe Ruth        # 美国棒球运动员人名
+Baby Face Nelson # 美国匪徒绰号
 
 # --- 词缀条目：清洗时掉了连字符，看不出是词缀 ---
 # 清单里 -aholic 和 aholic 是同一条的两版，后者掉了连字符。
