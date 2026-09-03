@@ -63,6 +63,7 @@ abaft        # 航海古语，现说 behind / at the stern
 # --- 生僻动植物名 ---
 aardwolf     # 土狼，非洲鬣狗科，过窄
 aoudad       # 鬃毛羊，过窄
+afara        # 西非产的木材树，过窄；跟 afar 无关，coverage 只是按前缀误判
 
 # --- 所有格专名：清洗时丢了大写，proper-nouns-keep 拦不住 ---
 # 清单把 Aesop’s Fables 洗成了小写的 aesop-s-fables，于是 coverage 的

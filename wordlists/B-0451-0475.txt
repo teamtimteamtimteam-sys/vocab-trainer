@@ -141,6 +141,12 @@ an affinity between = 之间的相似
 常用搭配：
 natural affinity = 天然的亲近感
 生化用语 = 亲和力
+⑤ She applied for an affinity card.
+= 她申请了一张联名信用卡。
+affinity card = 联名信用卡（刷卡额分成给关联团体）
+⑥ The company runs employee affinity groups.
+= 那家公司设有员工互助小组。
+affinity group = 兴趣或身份互助小组
 
 affirm
 核心：正式的"肯定、确认"，比 say 郑重，多用于声明、法庭、公告。
@@ -195,6 +201,9 @@ affirmative action = 平权措施（美式）
 反义词：
 negative = 否定的
 词族：affirm = 肯定
+④ He answered affirmatively.
+= 他给了肯定的答复。
+affirmatively = 肯定地
 
 affix
 核心：两条线：动词"把…贴上、附上"（正式），
@@ -311,6 +320,12 @@ afford = 提供（正式）
 affordable = 负担得起的
 注意：afford 一般不单独用，
 要配情态动词。
+⑤ Housing affordability has worsened.
+= 住房的可负担程度变差了。
+affordability = 可负担程度
+⑥ The flats are affordably priced.
+= 那些公寓定价还算实惠。
+affordably = 在价格上负担得起地
 
 affordable
 核心：指价格"负担得起的"，是房产、医疗、教育政策讨论的核心词。
@@ -362,6 +377,22 @@ affray = 公共场所斗殴（法律罪名）
 brawl = 打群架（通用）
 riot = 骚乱（规模大）
 
+affricate
+核心：语音学术语，指"塞擦音"——发音时先把气流完全堵住，再慢慢放开
+让它摩擦着出来的辅音。英语里 church 和 judge 开头的音就是这一类。
+① The first sound is an affricate.
+= 开头那个音是塞擦音。
+② English has two affricates.
+= 英语有两个塞擦音。
+③ Affricates begin like stops and end like fricatives.
+= 塞擦音起头像塞音，收尾像擦音。
+注意语域：
+语音学术语，只在语言学里用。
+辅音分类对照：
+affricate = 塞擦音（先堵后擦）
+stop = 塞音（完全堵断再放开）
+fricative = 擦音（气流持续摩擦）
+
 affront
 核心：指公开的"冒犯、侮辱"，尤其伤及尊严。名词动词同形。
 介词用 to（对什么的冒犯）。
@@ -378,6 +409,45 @@ affront = 公开冒犯（伤尊严）
 insult = 侮辱（通用）
 offence = 冒犯（英式拼法）
 
+Afghan
+核心：既指"阿富汗的、阿富汗人"，也指两样以它命名的东西：一种钩织的
+彩色毯子（小写 afghan），以及那种长毛细腰的猎犬。指语言时说的是
+达里语，即当地的波斯语变体。
+① She is Afghan by birth.
+= 她是在阿富汗出生的。
+② Afghan cuisine uses a lot of rice.
+= 阿富汗菜用很多米饭。
+Afghan cuisine = 阿富汗菜
+③ A crocheted afghan lay on the sofa.
+= 沙发上放着一条钩织彩毯。
+afghan = 钩织彩毯（小写）
+④ The Afghan hound has a long silky coat.
+= 阿富汗猎犬毛长而柔滑。
+Afghan hound = 阿富汗猎犬
+⑤ He wore an old Afghan coat.
+= 他穿着一件旧的阿富汗羊皮袄。
+Afghan coat = 阿富汗羊皮袄
+注意大小写：
+指国族时大写，指毯子时小写。
+
+aficionado
+核心：西班牙语借词，指某样东西的"发烧友、行家"——不只是喜欢，还懂
+门道。复数直接加字母 s。后面常接介词引出对象。
+① He is a jazz aficionado.
+= 他是个爵士乐发烧友。
+jazz aficionado = 爵士乐发烧友
+② She's an aficionado of Spanish wine.
+= 她是西班牙葡萄酒的行家。
+an aficionado of = …的行家
+③ Aficionados filled the hall.
+= 行家们坐满了大厅。
+注意语域：
+借词，带着热情又内行的褒义。
+近义对照：
+aficionado = 发烧友（懂行且投入）
+fan = 粉丝（喜欢，不必懂）
+connoisseur = 鉴赏家（品味上的权威）
+
 afield
 核心：只活在两个搭配里：far afield（远方）和
 further afield（更远处）。用来说搜寻或活动范围扩大。
@@ -391,55 +461,3 @@ further afield = 更远的地方
 = 学生来自四面八方。
 注意：afield 几乎不单独使用。
 构词：a- + field
-
-aflame
-核心：只作表语。字面"燃烧着的"，比喻"因情绪或色彩而炽烈"。
-比 ablaze 更偏文学。
-① The building was aflame.
-= 那栋楼在燃烧。
-set aflame = 点燃
-② The sky was aflame with colour.
-= 天空烧满了霞光。
-aflame with = 因…而绚烂
-③ Her cheeks were aflame.
-= 她双颊绯红。
-注意：aflame 只作表语。
-近义对照：
-aflame = 燃烧的（偏文学）
-ablaze = 熊熊燃烧的（更常用）
-on fire = 着火的（通用）
-
-afloat
-核心：字面指"浮在水面上"，比喻指企业或人"勉强维持不倒"。
-只作表语。keep afloat 和 stay afloat 是高频搭配。
-① The boat stayed afloat.
-= 那条船没沉。
-stay afloat = 保持漂浮
-② The company is barely afloat.
-= 那家公司勉强撑着。
-③ Loans kept the business afloat.
-= 贷款让那家企业撑了下来。
-keep afloat = 维持不倒
-④ Debris was afloat on the water.
-= 水面上漂着碎片。
-常用搭配：
-set afloat = 使漂起
-注意：afloat 只作表语，
-不放在名词前。
-
-afoot
-核心：只作表语，指某事"正在酝酿、暗中进行"，
-常带一点神秘或不安的意味。
-① Something is afoot.
-= 有事在酝酿。
-② Plans are afoot to expand.
-= 扩张计划正在筹备。
-plans are afoot = 计划正在进行
-③ There is change afoot.
-= 变化正在发生。
-change afoot = 正在酝酿的变化
-注意：afoot 只作表语，
-且常暗示"还没公开"。
-近义对照：
-afoot = 暗中进行（略带悬念）
-underway = 在进行中（中性）

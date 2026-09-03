@@ -1,428 +1,437 @@
-antibody
-核心：免疫系统产生的"抗体"，用来识别和中和病原体。
-可数，常用复数。
-① The body produces antibodies.
-= 人体会产生抗体。
-produce antibodies = 生成抗体
-② Antibody levels were tested.
-= 检测了抗体水平。
-antibody level = 抗体水平
-③ Antibodies fight infection.
-= 抗体对抗感染。
+anomalous
+核心：正式用语，指"反常的、不符合规律的"。
+科研和数据分析里常用。
+① The reading is anomalous.
+= 那个读数异常。
+anomalous reading = 异常读数
+② An anomalous result appeared.
+= 出现了一个反常结果。
+anomalous result = 反常结果
+③ Her position is anomalous.
+= 她的处境很特殊。
+词族：
+anomaly = 反常现象
+近义对照：
+anomalous = 反常的（学术）
+abnormal = 异常的（医学、通用）
+atypical = 非典型的
+
+anomaly
+核心：指"反常的现象、不符合规律的个例"。学术和技术语境高频，
+比 exception 更强调"和预期不符、需要解释"。
+① The data shows an anomaly.
+= 数据里有个异常值。
+② It's a statistical anomaly.
+= 那是个统计上的异常。
+statistical anomaly = 统计异常
+③ Such anomalies need explaining.
+= 这类反常现象需要解释。
+④ He is an anomaly in the field.
+= 他在这个领域里是个异数。
 注意复数：
-antibody → antibodies
-配对词：
-antigen = 抗原（引发反应）
-antibody = 抗体（产生的反应）
-
-anticipate
-核心：底层是"提前想到并做准备"，比 expect 多一层"提前应对"的意思。
-后面接名词或 doing，不接 to do——这是高频错误。
-① We anticipate strong demand.
-= 我们预计需求强劲。
-② She anticipated my question.
-= 她料到了我要问什么。
-③ We didn't anticipate having to wait.
-= 我们没料到还得等。
-anticipate doing = 预料到要做
-④ Sales were higher than anticipated.
-= 销量高于预期。
-词族：
-anticipation = 预期、期待
-注意区别：
-anticipate 预料并提前准备
-expect 预计会发生（不含准备）
-注意：不说 anticipate to do。
-
-anticipation
-核心：两条线：对好事的"期待"，和为将来做的"预先准备"。
-in anticipation of 是高频搭配。
-① There was great anticipation.
-= 大家满怀期待。
-great anticipation = 热切期待
-② They stocked up in anticipation of a shortage.
-= 他们预料短缺，提前囤货。
-in anticipation of = 预料到…而
-③ She waited with anticipation.
-= 她满心期待地等着。
-with anticipation = 满怀期待地
-词族：
-anticipate = 预料
-注意区别：
-anticipation = 期待+预备
-expectation = 预期（不含准备）
-
-anticlimax
-核心：指铺垫很足却收尾平淡的"虎头蛇尾"，让人失望。
-文学和日常都用。
-① The ending was an anticlimax.
-= 那个结局虎头蛇尾。
-② After the buildup, it felt like an anticlimax.
-= 铺垫那么久，结果很扫兴。
-③ The match was an anticlimax.
-= 那场比赛让人失望。
-构词：anti- 反 + climax 高潮
-词族：
-anticlimactic = 虎头蛇尾的
-反义词：
-climax = 高潮
-
-anticlockwise
-核心：英式说法，指"逆时针的、逆时针地"。
-美式说 counterclockwise。既是形容词也是副词。
-① Turn it anticlockwise.
-= 逆时针转动它。
-turn anticlockwise = 逆时针旋转
-② They walked anticlockwise.
-= 他们逆时针走。
-③ It's an anticlockwise rotation.
-= 那是逆时针旋转。
-注意英美差别：
-英式 anticlockwise
-美式 counterclockwise
-反义词：
-clockwise = 顺时针
-
-antics
-核心：指滑稽或胡闹的"举动、把戏"，永远用复数。
-常带一点无奈或批评。
-① His antics amused the crowd.
-= 他的滑稽举动逗乐了人群。
-② I'm tired of his antics.
-= 我受够了他那些花样。
-③ The dog's antics were funny.
-= 那条狗的滑稽动作很好笑。
-注意：antics 永远用复数。
+anomaly → anomalies
+词族：anomalous = 反常的
 近义对照：
-antics = 滑稽胡闹（常带无奈）
-pranks = 恶作剧（有意捉弄）
-stunts = 特技、噱头
+anomaly 反常（不符规律）
+exception 例外（规则之外）
+irregularity 不规则（不合常规）
 
-antidote
-核心：两条线：医学上的"解毒剂"，
-和比喻义的"解决办法、化解之道"。介词用 to。
-① There is no antidote to that poison.
-= 那种毒没有解药。
-an antidote to = …的解药
-② Exercise is an antidote to stress.
-= 运动是化解压力的良方。
-③ The antidote was administered quickly.
-= 解毒剂很快注射了。
-构词：anti- 抗 + dote 给予
+anonymity
+核心：指"匿名"这种状态，不可数。
+常见搭配 preserve / protect / request anonymity。
+① He requested anonymity.
+= 他要求匿名。
+request anonymity = 要求匿名
+② The source spoke on condition of anonymity.
+= 消息人士要求匿名后才开口。
+on condition of anonymity = 以匿名为条件
+③ Online anonymity has downsides.
+= 网络匿名有其弊端。
+online anonymity = 网络匿名
+词族：
+anonymous = 匿名的
+anonymously = 匿名地
+
+anonymous
+核心：指"匿名的、不具名的"，可以说人、信件、捐赠、举报。
+也指"没有特色的、千篇一律的"（an anonymous building）。
+① The donor wished to remain anonymous.
+= 捐赠者希望保持匿名。
+remain anonymous = 保持匿名
+② She received an anonymous letter.
+= 她收到一封匿名信。
+anonymous letter = 匿名信
+③ It's an anonymous tip-off.
+= 那是个匿名举报。
+anonymous tip-off = 匿名举报
+④ The suburb looks anonymous.
+= 那片郊区毫无特色。
+词族：
+anonymity = 匿名状态
+anonymously = 匿名地
+注意发音：/əˈnɒnɪməs/
+
+anorak
+核心：两条线：带风帽的"防风外套"（英式），
+和英式俚语里的"过分痴迷冷门爱好的书呆子"。
+① He wore a waterproof anorak.
+= 他穿了件防水风衣。
+waterproof anorak = 防水连帽外套
+② She bought an anorak for hiking.
+= 她买了件登山外套。
+③ He's a train anorak.
+= 他是个铁道迷。
+英式俚语，略带取笑
+词源：因纽特语
 近义对照：
-antidote = 解毒剂；化解之道
-remedy = 疗法、补救办法
-cure = 治愈之法
+anorak = 连帽防风衣（英式）
+parka = 派克大衣（更厚）
+windbreaker = 风衣（美式）
 
-antifreeze
-核心：指加进汽车冷却系统防止结冰的"防冻液"。不可数。
-主要成分是乙二醇，有毒。
-① Add antifreeze in winter.
-= 冬天要加防冻液。
-add antifreeze = 加防冻液
-② Antifreeze is toxic.
-= 防冻液有毒。
-③ Check the antifreeze level.
-= 检查防冻液液位。
-antifreeze level = 防冻液液位
-构词：anti- 防 + freeze 结冰
+anorexia
+核心：医学词，全称 anorexia nervosa（神经性厌食症），
+一种进食障碍。不可数。
+① She was treated for anorexia.
+= 她接受了厌食症治疗。
+treated for anorexia = 因厌食症就诊
+② Anorexia is a serious illness.
+= 厌食症是种严重疾病。
+③ Anorexia affects both sexes.
+= 厌食症男女都会得。
+全称：anorexia nervosa
+词族：anorexic = 厌食症的、厌食症患者
 相关词：
-coolant = 冷却液
-radiator = 散热器
+bulimia = 贪食症
+eating disorder = 进食障碍
 
-antipathy
-核心：指本能的"反感、厌恶"，正式。介词用 towards 或 to。
-不可数为主。
-① He feels antipathy towards bureaucracy.
-= 他对官僚作风深感反感。
-antipathy towards = 对…的反感
-② There is mutual antipathy.
-= 双方互有恶感。
-mutual antipathy = 相互反感
-③ Her antipathy was obvious.
-= 她的反感显而易见。
-构词：anti- 反 + path 感情
-反义词：
-sympathy = 同情、赞同
-近义对照：
-antipathy = 本能反感（正式）
-aversion = 厌恶（想躲开）
-dislike = 不喜欢（通用）
-
-antiquated
-核心：指制度、设备、观念"陈旧过时的"，贬义。
-比 old 带批评，暗示"早该换了"。
-① The system is antiquated.
-= 那套系统早就过时了。
-antiquated system = 老掉牙的系统
-② They use antiquated methods.
-= 他们用着陈旧的方法。
-antiquated method = 过时的方法
-③ The law is antiquated.
-= 那条法律早已不合时宜。
+anorexic
+核心：既是形容词"患厌食症的"，也是名词"厌食症患者"。
+日常里被滥用来形容"太瘦"，这种用法不恰当。
+① She is being treated as an anorexic.
+= 她作为厌食症患者接受治疗。
+② Anorexic patients need support.
+= 厌食症患者需要支持。
+③ The model looked anorexic.
+= 那位模特瘦得像有厌食症。
+这种用法不严谨，宜避免
 词族：
-antique = 古董的
-antiquity = 古代
-近义对照：
-antiquated = 过时的（贬义）
-obsolete = 淘汰的（不再使用）
-outdated = 过时的（通用）
+anorexia = 厌食症
+注意语用：把"很瘦"说成 anorexic
+既不准确也不礼貌。
 
-antique
-核心：指有年代和收藏价值的"古董"，名词形容词同形。
-和 antiquated（过时的，贬义）方向相反。
-① She collects antiques.
-= 她收藏古董。
-② It's an antique clock.
-= 那是座古董钟。
-antique clock = 古董钟
-③ They visited an antique shop.
-= 他们逛了家古董店。
-antique shop = 古董店
+another
+核心：两层："另一个（同类的）"和"再一个"。只跟单数可数名词，
+不说 another books。要说"另外几个"得用 other 或 another + 数词
++ 复数（another two days）。
+① Would you like another cup?
+= 再来一杯吗？
+这里：
+another = 再一个
+② That's another matter.
+= 那是另一回事。
+这里：
+another = 另一个
+③ I'll stay another two days.
+= 我再待两天。
+another + 数词 + 复数 = 再…个
+④ One after another, they left.
+= 他们一个接一个走了。
+one after another = 一个接一个
+⑤ They help one another.
+= 他们互相帮助。
+one another = 彼此
 注意区别：
-antique = 古董的（有价值，褒义）
-antiquated = 过时的（该淘汰，贬义）
-old = 旧的（中性）
+another 三者以上中的另一个
+the other 两者中的另一个
 
-antiquity
-核心：三条线：古代这个时期、古老这个性质、
-以及复数的"古物"。
-① The statue dates from antiquity.
-= 那尊雕像出自古代。
-date from antiquity = 源自远古
-② The building's antiquity is clear.
-= 那栋楼的古老显而易见。
-③ The museum displays antiquities.
-= 那家博物馆展出古物。
-复数 antiquities = 古物
+answer
+核心：底层是"回应"。回应问题是"回答"，回应门铃电话是"应门接电话"，
+回应难题是"解决办法"，回应指控是"辩解"。answer 直接接宾语，
+不加 to——answer to 是另一个意思（对…负责）。
+① Answer the question.
+= 回答这个问题。
+及物，不说 answer to the question。
+② She didn't answer my letter.
+= 她没回我的信。
+③ Please answer the phone.
+= 请接一下电话。
+answer the phone / door = 接电话、应门
+④ There's no easy answer.
+= 没有简单的解决办法。
+这里：
+answer = 解决之道
+⑤ He answers to the director.
+= 他向总监汇报。
+answer to = 对…负责
+⑥ You'll have to answer for this.
+= 你得为这事负责。
+answer for = 为…承担后果
+
+answerable
+核心：指"须对某人负责的"，介词用 to（对谁）和 for（对什么）。
+和 accountable 基本同义。
+① He is answerable to the board.
+= 他要对董事会负责。
+answerable to = 向…负责
+② She is answerable for the funds.
+= 她要为那笔资金负责。
+answerable for = 对…负有责任
+③ Ministers are answerable to Parliament.
+= 部长要对议会负责。
 词族：
-antique = 古董的
-antiquated = 陈旧的
+answer = 回答；负责
 近义对照：
-antiquity = 古代（时期）
-ancient times = 古代（通用）
+answerable = 须负责的（英式常用）
+accountable = 须问责的（通用）
+responsible = 有责任的（通用）
 
-antiseptic
-核心：指杀灭伤口细菌的"消毒剂"，名词形容词同形。
-比喻义形容环境"过分洁净、缺乏人情味"。
-① Apply antiseptic to the cut.
-= 在伤口上涂消毒药。
-apply antiseptic = 涂消毒剂
-② Use an antiseptic wipe.
-= 用消毒湿巾。
-antiseptic wipe = 消毒湿巾
-③ The room felt antiseptic.
-= 那房间冷冰冰的没人味。
-构词：anti- 抗 + septic 感染的
+ant
+核心：指蚂蚁，社会性昆虫。构词能力强：anthill、
+ant colony。习语 have ants in one's pants 指坐立不安。
+① Ants marched in a line.
+= 蚂蚁排成一列前进。
+② The anthill is huge.
+= 那个蚁丘很大。
+anthill = 蚁丘
+③ He has ants in his pants.
+= 他坐立不安。
+have ants in one's pants = 焦躁难安
+词族：
+ant colony = 蚁群
+群体昆虫：
+ant = 蚂蚁 / bee = 蜜蜂
+termite = 白蚁 / wasp = 黄蜂
+
+antagonism
+核心：指双方之间公开的"对立、敌对"，不可数。
+介词用 between 或 towards。
+① There is antagonism between them.
+= 他们之间存在对立。
+antagonism between = 之间的敌对
+② He showed open antagonism.
+= 他表现出公开的敌意。
+open antagonism = 公开对抗
+③ Antagonism towards reform grew.
+= 对改革的抵触加深了。
+词族：
+antagonist = 对手
+antagonize = 使敌对
 近义对照：
-antiseptic = 消毒剂（用于人体）
-disinfectant = 消毒液（用于物表）
-sterile = 无菌的
+antagonism = 对立（双方结构性）
+animosity = 积怨（个人情绪）
+hostility = 敌意（立场）
 
-antisocial
-核心：三条线：行为"反社会的"（法律用语）、
-人"不爱交际的"、以及做法"给别人添麻烦的"。
-① He was given an antisocial behaviour order.
-= 他被下达了反社会行为令。
-antisocial behaviour = 反社会行为（英式法律）
-② Sorry to be antisocial, I'm tired.
-= 抱歉不合群，我太累了。
-③ Playing music at night is antisocial.
-= 半夜放音乐太不为别人着想。
-注意英美拼写：
-英式 antisocial / 美式 antisocial 或 anti-social
-注意区别：
-antisocial = 危害他人的
-unsociable = 不爱交际的
-asocial = 无社交需求的
-
-antithesis
-核心：指"对立面、截然相反的事物"，正式。介词用 of。
-修辞学上还指对照句式。复数是 antitheses。
-① He is the antithesis of his brother.
-= 他和他哥完全相反。
-the antithesis of = …的对立面
-② Freedom is the antithesis of slavery.
-= 自由是奴役的反面。
-③ The speech used antithesis.
-= 那篇演讲用了对偶。
-注意复数：
-antithesis → antitheses /ænˈtɪθəsiːz/
-构词：anti- 反 + thesis 论点
-三段式：
-thesis 正题 / antithesis 反题 / synthesis 合题
-
-antler
-核心：指鹿类头上分叉的"角"，每年脱落再生。
-和牛羊的 horn（终生不脱落）是两回事。
-① The stag has large antlers.
-= 那头雄鹿角很大。
-② Deer shed their antlers annually.
-= 鹿每年会脱角。
-shed antlers = 脱角
-③ Antlers are made of bone.
-= 鹿角由骨质构成。
-注意区别：
-antler = 鹿角（分叉，年年脱落）
-horn = 牛羊角（不分叉，终生保留）
-tusk = 长牙（象、海象）
-
-antonym
-核心：指意思相反的"反义词"。和 synonym（同义词）配对。
-① "Hot" is the antonym of "cold".
-= 「hot」是「cold」的反义词。
-the antonym of = …的反义词
-② List the antonyms.
-= 列出反义词。
-③ Antonyms help build vocabulary.
-= 反义词有助于扩充词汇。
+antagonist
+核心：两条线：文学里与主角对立的"反派"，
+和一般意义上的"对手"。生化里还指"拮抗剂"。
+① The antagonist drives the plot.
+= 反派推动了情节。
+② He faced a formidable antagonist.
+= 他遇上了强劲对手。
+formidable antagonist = 劲敌
+③ The drug is a receptor antagonist.
+= 那种药是受体拮抗剂。
+receptor antagonist = 受体拮抗剂
 配对词：
-antonym = 反义词
-synonym = 同义词
-homonym = 同形同音异义词
-homophone = 同音异形词
+protagonist = 主角
+antagonist = 反派、对手
+反义词（生化）：agonist = 激动剂
 
-anus
-核心：解剖学词，指肛门——消化道的末端开口。
-医学语境用，日常有委婉说法。
-① The anus is the end of the digestive tract.
-= 肛门是消化道的末端。
-digestive tract = 消化道
-② Bleeding from the anus needs checking.
-= 肛门出血需要检查。
-③ The anus is surrounded by muscle.
-= 肛门周围有肌肉环绕。
+antagonistic
+核心：指态度"敌对的、对着干的"。介词用 to 或 towards。
+比 unfriendly 强，暗示主动对抗。
+① He was antagonistic towards me.
+= 他对我充满敌意。
+antagonistic towards = 对…敌对
+② The two groups are antagonistic.
+= 那两个群体互相对立。
+③ She took an antagonistic stance.
+= 她采取了对抗立场。
+antagonistic stance = 对抗姿态
+词族：
+antagonism = 对立
+antagonize = 激怒
+反义词：
+cooperative = 合作的
+
+antagonize
+核心：指"把人惹毛、树敌"——不是一时惹恼，
+而是让对方站到自己对立面。英式也拼 antagonise。
+① Don't antagonize him.
+= 别把他惹翻。
+② The policy antagonized voters.
+= 那项政策让选民离心。
+antagonize voters = 得罪选民
+③ He antagonized his colleagues.
+= 他把同事都得罪了。
+注意英美拼写：
+英式 antagonise / 美式 antagonize
+词族：antagonism、antagonist
+近义对照：
+antagonize = 树敌（后果是对立）
+annoy = 惹恼（一时）
+provoke = 激怒（引发反应）
+
+Antarctic
+核心：指南极地区，大写。和 Arctic（北极）配对。
+注意拼写里有两个 c，第一个常被漏掉。
+① They sailed to the Antarctic.
+= 他们航行到南极。
+the Antarctic = 南极地区
+② Antarctic ice is melting.
+= 南极冰在融化。
+Antarctic ice = 南极冰盖
+③ The Antarctic Treaty protects it.
+= 《南极条约》保护着那里。
+配对词：
+Antarctic = 南极
+Arctic = 北极
+Antarctica = 南极洲（大陆）
+注意拼写：ant-arctic，两个 c。
+
+antecedent
+核心：两条线：正式的"先前的事物、前身"，
+和语法上代词所指代的"先行词"。复数还指"祖先、家世"。
+① It had many antecedents.
+= 它有很多前身。
+② The pronoun's antecedent is unclear.
+= 那个代词的先行词不明。
+grammatical antecedent = 语法先行词
+③ His antecedents were farmers.
+= 他祖上是务农的。
+复数 = 家世、祖先
+④ These events are antecedent to the war.
+= 这些事件发生在战前。
+antecedent to = 先于
+词族：antecede = 先于（罕用）
+
+antelope
+核心：指羚羊类动物，包括瞪羚、大羚羊等。
+单复数常同形，也可加 s。
+① Antelope graze on the plain.
+= 羚羊在平原上吃草。
+② A herd of antelope ran past.
+= 一群羚羊跑了过去。
+a herd of antelope = 一群羚羊
+③ Antelopes are fast runners.
+= 羚羊跑得很快。
 注意复数：
-anus → anuses
+antelope / antelopes 都可以
+近义对照：
+antelope = 羚羊（总称）
+gazelle = 瞪羚（小型）
+deer = 鹿（不同科）
+
+antenatal
+核心：英式医学用语，指"产前的"，
+美式说 prenatal。常见 antenatal care / class。
+① She attends antenatal classes.
+= 她在上产前课程。
+antenatal class = 产前课程
+② Antenatal care is free here.
+= 这里产检免费。
+antenatal care = 产前保健
+③ An antenatal scan was booked.
+= 预约了产前超声检查。
+注意英美差别：
+英式 antenatal / 美式 prenatal
+构词：ante- 之前 + natal 出生的
+反义词：postnatal = 产后的
+
+antenna
+核心：两条线：昆虫的"触角"（复数 antennae），
+和无线电的"天线"（复数 antennas，美式）。复数形式因义而异。
+① The insect waved its antennae.
+= 那只昆虫摆动着触角。
+复数 antennae /ænˈteniː/
+② Adjust the antenna.
+= 调一下天线。
+③ He has a good political antenna.
+= 他政治嗅觉很灵。
+political antenna = 政治触觉
+注意复数：
+昆虫触角 → antennae
+无线电天线 → antennas
+注意英美差别：
+美式 antenna / 英式 aerial（天线）
+
+anthem
+核心：指国歌或团体的"颂歌"，也指某个群体的"代表性歌曲"。
+最高频的搭配是 national anthem。
+① They played the national anthem.
+= 他们奏了国歌。
+national anthem = 国歌
+② The song became a youth anthem.
+= 那首歌成了年轻人的代表曲。
+youth anthem = 青年一代的战歌
+③ Fans sang the club anthem.
+= 球迷唱起了俱乐部队歌。
+近义对照：
+anthem = 颂歌、国歌（庄重）
+hymn = 赞美诗（宗教）
+ballad = 叙事歌谣
+
+anthology
+核心：指把多位作者的作品汇编成的"选集、文集"。
+诗歌、短篇小说最常做成 anthology。
+① She edited a poetry anthology.
+= 她编了本诗选。
+poetry anthology = 诗歌选集
+② His story appears in the anthology.
+= 他的小说收进了那本文集。
+③ It's an anthology of essays.
+= 那是本散文选。
+an anthology of = …的选集
+注意复数：
+anthology → anthologies
+近义对照：
+anthology = 多人作品选集
+collection = 作品集（可单一作者）
+omnibus = 合订本
+
+anthracite
+核心：指无烟煤——含碳量最高、燃烧最干净的一种煤。
+不可数。也用来形容那种深黑色。
+① The stove burns anthracite.
+= 那个炉子烧无烟煤。
+burn anthracite = 烧无烟煤
+② Anthracite has high carbon content.
+= 无烟煤含碳量高。
+carbon content = 含碳量
+③ The coat is anthracite grey.
+= 那件外套是深炭灰色。
+anthracite grey = 炭灰色
+煤的分类：
+anthracite = 无烟煤（最硬）
+bituminous = 烟煤
+lignite = 褐煤（最软）
+
+anthrax
+核心：指炭疽——由细菌引起的严重传染病，可感染牲畜和人。
+因曾被用作生物武器而广为人知。不可数。
+① Anthrax affects livestock.
+= 炭疽会感染牲畜。
+② Anthrax spores are dangerous.
+= 炭疽芽孢很危险。
+anthrax spore = 炭疽孢子
+③ Letters contained anthrax.
+= 那些信里装有炭疽。
+注意发音：/ˈænθræks/
+相关词：
+spore = 芽孢、孢子
+bioterrorism = 生物恐怖主义
+
+anthropologist
+核心：指研究人类社会与文化的"人类学家"。
+常做田野调查（fieldwork）。
+① The anthropologist lived with the tribe.
+= 那位人类学家和部落住在一起。
+② Anthropologists study kinship.
+= 人类学家研究亲属制度。
+study kinship = 研究亲属关系
+③ She trained as an anthropologist.
+= 她受训成为人类学家。
 词族：
-anal = 肛门的
-注意语体：这是医学用词，
-日常交流通常回避。
-
-anvil
-核心：两条线：铁匠打铁用的"铁砧"，
-和耳朵中耳里的"砧骨"。
-① The blacksmith struck the anvil.
-= 铁匠敲打着铁砧。
-strike the anvil = 击打铁砧
-② An anvil is made of iron.
-= 铁砧是铁做的。
-③ The anvil is a middle ear bone.
-= 砧骨是中耳的一块骨头。
-middle ear = 中耳
-中耳三小骨：
-hammer = 锤骨
-anvil = 砧骨
-stirrup = 镫骨
-
-anxiety
-核心：两层：日常的"担忧"和医学上的"焦虑症"。另有一层正面的
-"急切渴望"，搭配 anxiety to do。不可数为主，指具体的忧虑时可数。
-① She felt great anxiety.
-= 她非常焦虑。
-② He suffers from anxiety.
-= 他患有焦虑症。
-这里是医学用语。
-③ There are anxieties about jobs.
-= 人们对就业感到忧虑。
-这里可数。
-④ In his anxiety to help, he made it worse.
-= 他急着帮忙，反而弄糟了。
-anxiety to do = 急于做
-词族：
-anxious = 焦虑的
-程度：
-concern 关切 < worry 担心 < anxiety 焦虑
-
-anxious
-核心：两个方向相反的意思。一是"担忧的"（负面），二是"急切想要的"
-（正面）。靠结构区分：be anxious about 是担心，
-be anxious to do 是急于。
-① She is anxious about the exam.
-= 她为考试焦虑。
-be anxious about = 为…担心
-② I'm anxious to see the results.
-= 我急着想看结果。
-be anxious to do = 急于做
-③ He gave an anxious look.
-= 他不安地看了一眼。
-④ We are anxious that she should come.
-= 我们很希望她能来。
-副词形式：
-anxiously = 焦急地
-注意：这两个意思靠介词和结构分辨，
-搞混会把"急切"读成"担心"。
-
-anxiously
-核心：副词，"焦虑地、急切地"。
-两个方向：担忧地等待，和急切地盼望。
-① She waited anxiously.
-= 她焦急地等着。
-wait anxiously = 焦急等待
-② He looked anxiously at the clock.
-= 他不安地看着钟。
-③ They anxiously awaited news.
-= 他们急切地等待消息。
-anxiously await = 急切等候
-词族：
-anxious = 焦虑的；急切的
-anxiety = 焦虑
-注意：和形容词一样，
-anxiously 也有担忧和急切两个方向。
-
-any
-核心：底层是"不特指哪一个"。用在否定句和疑问句里对应肯定句的
-some；用在肯定句里意思变成"任何一个都行"。修饰比较级时表示程度，
-是很多人不知道的用法。
-① Do you have any questions?
-= 你有问题吗？
-疑问句用 any。
-② I don't have any money.
-= 我没钱。
-否定句用 any。
-③ Any student can apply.
-= 任何学生都能申请。
-肯定句 any = 任何一个
-④ Take any one you like.
-= 随便拿一个你喜欢的。
-⑤ Is it any better?
-= 有好一点吗？
-any + 比较级 = 程度上稍微
-⑥ He isn't any good at it.
-= 他根本不擅长这个。
-注意区别：
-some 用于肯定句、以及期待肯定答复的疑问句
-any 用于否定句和一般疑问句
-
-anybody
-核心：和 anyone 完全同义，可互换。否定疑问句里是"任何人"，肯定句
-里是"任何一个人（都行）"。作主语时动词用单数。
-① Is anybody there?
-= 有人吗？
-② I didn't see anybody.
-= 我谁也没看见。
-③ Anybody can learn this.
-= 谁都能学会这个。
-肯定句 = 任何人
-④ Anybody who wants to come is welcome.
-= 谁想来都欢迎。
-注意：作主语时用单数动词。
-注意区别：
-anybody / anyone 完全同义
-somebody 用于肯定句
-nobody 本身已含否定
-
-anyhow
-核心：三条线：等于 anyway 的"总之、不管怎样"、
-"随随便便地"、以及"无论如何"。
-① Anyhow, let's move on.
-= 总之，我们继续吧。
-② The books were piled anyhow.
-= 那些书胡乱堆着。
-这里：anyhow = 随意地
-③ I'll finish it anyhow.
-= 我无论如何都会做完。
-注意区别：
-anyhow / anyway 作"总之"讲可互换
-anyhow 另有"随便乱来"这个意思
-anyway 没有
+anthropology = 人类学
+anthropological = 人类学的
+构词：anthropo- 人 + -logist 研究者

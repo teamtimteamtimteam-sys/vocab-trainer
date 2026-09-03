@@ -365,6 +365,9 @@ affable = 和蔼健谈（易接近）
 amiable = 和善（性情好）
 genial = 亲切（温暖）
 approachable = 好接近的
+④ His affability put everyone at ease.
+= 他的和气让大家都放松下来。
+affability = 和蔼可亲
 
 affair
 核心：三层。复数指"事务"（国家的、公司的），单数指"一件事"，
@@ -384,6 +387,9 @@ have an affair = 有婚外情
 ⑤ Current affairs interest him.
 = 他对时事感兴趣。
 current affairs = 时事
+⑥ The novel turns on a doomed affaire.
+= 那部小说围绕一段注定无果的私情展开。
+affaire = 私情（法语写法，多指恋情）
 
 affect
 核心：动词，指"对…产生影响"，直接接宾语不加介词。和名词 effect
@@ -405,6 +411,15 @@ affect = 假装（正式）
 affect 动词 影响 / effect 名词 影响
 The drug affects you. = 药影响你。
 The drug has an effect. = 药有影响。
+⑤ It was a deeply affecting story.
+= 那是个很动人的故事。
+affecting = 动人的、令人感伤的
+⑥ Affective disorders include depression.
+= 情感障碍包括抑郁症。
+affective = 情感的（心理学）
+⑦ The music works affectively rather than logically.
+= 那音乐打动人靠的是情绪，不是逻辑。
+affectively = 在情感层面上
 
 affectation
 核心：指刻意装出来的"做作举止"，贬义。可以是口音、姿态、
@@ -442,3 +457,6 @@ affect = 影响；假装
 affectation = 做作
 注意：作"做作"讲时是贬义，
 常放在名词前。
+⑤ She smiled affectedly.
+= 她笑得很做作。
+affectedly = 装模作样地

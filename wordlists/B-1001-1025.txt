@@ -1,438 +1,407 @@
-archway
-核心：指拱形的门道或通道。
-构词是 arch（拱）+ way（通道）。
-① They passed under the archway.
-= 他们从拱门下走过。
-under the archway = 在拱门下
-② A stone archway leads in.
-= 一道石拱门通向里面。
-stone archway = 石拱门
-③ The archway dates from 1600.
-= 那道拱门建于一六〇〇年。
+aquifer
+核心：地质学词，指能储存和输送地下水的"含水层"。
+是地下水资源的核心概念。
+① The aquifer supplies drinking water.
+= 那个含水层供应饮用水。
+② The aquifer is being depleted.
+= 那个含水层正在枯竭。
+be depleted = 被耗尽
+③ Pollution reached the aquifer.
+= 污染渗到了含水层。
+注意发音：/ˈækwɪfə(r)/
+构词：aqui- 水 + -fer 携带
+同类构词：
+conifer = 针叶树（cone 球果 + fer）
+transfer = 转移
+
+aquiline
+核心：指鼻子"鹰钩状的"——高而弯，像鹰喙。
+几乎只用在 aquiline nose 这个搭配里。
+① He has an aquiline nose.
+= 他是鹰钩鼻。
+aquiline nose = 鹰钩鼻
+② Her aquiline profile was striking.
+= 她的侧脸轮廓很突出。
+aquiline profile = 鹰钩鼻侧影
+③ The portrait shows aquiline features.
+= 那幅肖像画出了鹰隼般的五官。
+词源：拉丁语 aquila（鹰）
+注意：aquiline 是中性偏褒的描述，
+指轮廓分明，不是贬义。
+
+arable
+核心：指土地"适于耕种的"，与放牧用地相对。
+最常见的搭配是 arable land、arable farming。
+① Only 10% is arable land.
+= 只有一成是耕地。
+arable land = 可耕地
+② Arable farming dominates here.
+= 这里以种植业为主。
+arable farming = 种植农业
+③ The soil is not arable.
+= 那片土壤不宜耕种。
+对照：
+arable = 种植的（耕地）
+pastoral = 放牧的（草场）
+fallow = 休耕的
+
+arbiter
+核心：指有权裁断的人。两条线：正式的"仲裁人"，
+和比喻义的"权威、风向标"（arbiter of taste）。
+① He acted as arbiter.
+= 他担任了仲裁人。
+act as arbiter = 充当裁断者
+② She is an arbiter of taste.
+= 她是品味的权威。
+an arbiter of taste = 品味的仲裁者
+③ The court is the final arbiter.
+= 法院是最终裁断者。
+final arbiter = 最终裁定者
+近义对照：
+arbiter = 裁断者（有权定夺）
+arbitrator = 仲裁员（正式程序）
+judge = 法官、评委
+
+arbitrary
+核心：指决定"没有依据、全凭个人意志的"，贬义。
+数学和技术语境里则是中性的"任意的"。
+① It was an arbitrary decision.
+= 那是个专断的决定。
+arbitrary decision = 独断的决定
+② The rule seems arbitrary.
+= 那条规则显得没道理。
+③ Choose an arbitrary number.
+= 任选一个数。
+技术语境为中性
+副词形式：
+arbitrarily = 专断地；任意地
+词族：arbitrariness = 任意性
+
+arbitrate
+核心：指以第三方身份"仲裁"争端。介词用 in 或 between。
+比 mediate 更有约束力——仲裁结果双方须遵守。
+① She arbitrated in the dispute.
+= 她仲裁了那场纠纷。
+arbitrate in = 就…进行仲裁
+② A panel arbitrated between them.
+= 一个小组在双方之间仲裁。
+arbitrate between = 在…之间裁断
+③ They agreed to arbitrate.
+= 他们同意提交仲裁。
+词族：
+arbitration = 仲裁
+arbitrator = 仲裁员
+近义对照：
+arbitrate = 仲裁（有约束力）
+mediate = 调解（不作决定）
+
+arbitration
+核心：指把争端交给中立第三方裁决的"仲裁"程序，
+比打官司快且私密。不可数。
+① The case went to arbitration.
+= 那个案子进入了仲裁。
+go to arbitration = 提交仲裁
+② They accepted binding arbitration.
+= 他们接受了有约束力的仲裁。
+binding arbitration = 终局仲裁
+③ Arbitration avoids court costs.
+= 仲裁能省下诉讼费。
+词族：arbitrate、arbitrator
+争议解决三途：
+negotiation = 谈判（自行解决）
+mediation = 调解（有人帮忙）
+arbitration = 仲裁（第三方裁决）
+
+arbitrator
+核心：指主持仲裁的人，通常由双方共同选定。
+和 arbiter 的差别：arbitrator 是正式程序里的角色。
+① An arbitrator was appointed.
+= 指定了一名仲裁员。
+appoint an arbitrator = 任命仲裁员
+② The arbitrator ruled in her favour.
+= 仲裁员裁定她胜。
+rule in someone's favour = 判某人胜
+③ Both sides chose the arbitrator.
+= 仲裁员由双方共同选定。
+词族：arbitrate、arbitration
+近义对照：
+arbitrator = 仲裁员（有裁决权）
+mediator = 调解人（无裁决权）
+
+arc
+核心：指弧、弧形轨迹。数学上是圆的一段，
+叙事里指 story arc（故事线的起伏走向）。
+① The ball traced an arc.
+= 球划出一道弧线。
+trace an arc = 划出弧线
+② Measure the arc of the circle.
+= 量一下那段圆弧。
+③ The character arc is well written.
+= 那个人物弧光写得好。
+character arc = 人物成长线
+④ An electric arc formed.
+= 形成了电弧。
+electric arc = 电弧
+注意别混：
+arc = 弧
+ark = 方舟
+
+arcade
+核心：三条线：有拱廊的"廊街"、有顶的"商业街"、
+以及放街机的"游戏厅"。
+① They walked through the arcade.
+= 他们穿过了那条拱廊。
+② The shopping arcade is covered.
+= 那条商业街有顶棚。
+shopping arcade = 有顶商业街
+③ He played at the arcade.
+= 他在游戏厅玩。
+arcade game = 街机游戏
 词族：
 arch = 拱
-构词：arch + way
+构词：arc 弧 + -ade
+
+arcane
+核心：指知识"深奥难懂、只有内行才明白的"，
+常带一点"故弄玄虚"的意味。
+① The rules are arcane.
+= 那些规则晦涩难懂。
+② He knows arcane details.
+= 他知道些冷门细节。
+arcane detail = 深奥的细节
+③ It's arcane knowledge.
+= 那是门外汉搞不懂的学问。
+arcane knowledge = 秘传知识
 近义对照：
-archway = 拱门通道
-gateway = 大门口
-doorway = 门口
+arcane = 深奥神秘（内行才懂）
+esoteric = 只有小圈子懂的
+obscure = 晦涩（不清楚）
+abstruse = 艰深（常含批评）
 
-Arctic
-核心：指北极地区，大写。和 Antarctic（南极）配对。
-小写 arctic 可形容"极冷的"。
-① They sailed into the Arctic.
-= 他们驶入北极地区。
-the Arctic = 北极地区
-② Arctic ice is shrinking.
-= 北极冰盖在缩小。
-Arctic ice = 北极海冰
-③ It was arctic outside.
-= 外面冷得要命。
-小写时 = 极冷的
-配对词：
-Arctic = 北极
-Antarctic = 南极
-注意拼写：Arctic 有两个 c，
-第一个常被漏读也常被漏写。
+arch
+核心：三条线：建筑的"拱"、脚的"足弓"、
+以及动词"拱起"。形容词义是"调皮狡黠的"。
+① The bridge has three arches.
+= 那座桥有三个拱。
+② The cat arched its back.
+= 那只猫弓起了背。
+arch one's back = 弓背
+③ He has high arches.
+= 他足弓很高。
+④ She gave an arch smile.
+= 她笑得有点狡黠。
+词族：
+archway = 拱门
+arched = 拱形的
+注意复数：arch → arches
 
-ardent
-核心：指感情或信念"热烈的、狂热的"。
-常修饰 supporter、admirer、fan、desire。
-① He is an ardent supporter.
-= 他是个狂热的支持者。
-ardent supporter = 热忱的拥护者
-② She has an ardent desire to win.
-= 她极度渴望获胜。
-ardent desire = 强烈的渴望
-③ They were ardent in their praise.
-= 他们赞不绝口。
-副词形式：
-ardently = 热烈地
-词族：ardour = 热情
-近义对照：
-ardent = 热烈的（信念、感情）
-passionate = 充满激情的
-zealous = 狂热的（近乎偏执）
-
-ardour
-核心：指强烈的"热情、激情"，不可数，正式。
-美式拼 ardor。
-① He spoke with ardour.
-= 他说得激情四溢。
-with ardour = 满怀热情地
-② Her ardour never faded.
-= 她的热情从未消退。
-③ Revolutionary ardour ran high.
-= 革命热情高涨。
-revolutionary ardour = 革命激情
+archaeological
+核心：指"考古学的"。常见搭配 archaeological site、
+archaeological evidence、archaeological dig。
+① They found an archaeological site.
+= 他们发现了一处考古遗址。
+archaeological site = 考古遗址
+② Archaeological evidence supports it.
+= 考古证据支持这一点。
+archaeological evidence = 考古证据
+③ The dig was archaeological.
+= 那次挖掘是考古性质的。
 注意英美拼写：
-英式 ardour / 美式 ardor
-词族：ardent = 热烈的
-近义对照：
-ardour = 热情（强烈、正式）
-enthusiasm = 热忱（通用）
-zeal = 狂热（近乎执着）
+英式 archaeological / 美式 archeological
+词族：archaeology、archaeologist
 
-arduous
-核心：指任务"艰巨费力的"——又难又累又长。
-常修饰 task、journey、process、climb。
-① It was an arduous journey.
-= 那是段艰辛的旅程。
-arduous journey = 跋涉之旅
-② The task proved arduous.
-= 那项任务相当艰巨。
-arduous task = 艰巨的任务
-③ Training is arduous.
-= 训练很吃力。
-注意发音：/ˈɑːdjuəs/
+archaeologist
+核心：指考古学家——通过发掘遗迹研究古代人类。
+和 anthropologist（研究人类社会文化）分工不同。
+① Archaeologists uncovered a tomb.
+= 考古学家发掘出一座墓。
+uncover a tomb = 发掘古墓
+② She trained as an archaeologist.
+= 她受训成为考古学家。
+③ Archaeologists date the finds.
+= 考古学家为出土物断代。
+date the finds = 给发现物断代
+词族：archaeology、archaeological
 近义对照：
-arduous = 艰巨费力（耗时耗力）
-strenuous = 费劲的（体力）
-laborious = 繁重的（琐碎冗长）
+archaeologist = 考古学家（发掘遗物）
+anthropologist = 人类学家（研究社会）
+palaeontologist = 古生物学家（研究化石）
 
-area
-核心：底层是"一片范围"。地理上的地区、数学上的面积、抽象上的领域，
-都是同一条主线。in the area of 在学术写作里常用来说"在…领域"。
-① They live in a rural area.
-= 他们住在乡村地区。
-② What's the area of the room?
-= 那个房间面积多大？
-这里：
-area = 面积
-③ It's not my area of expertise.
-= 那不是我擅长的领域。
-area of expertise = 专业领域
-④ Research in the area of AI is growing.
-= 人工智能领域的研究在增长。
-in the area of = 在…领域
-⑤ Keep out of this area.
-= 别进入这个区域。
+archaeology
+核心：指考古学——通过物质遗存研究人类历史。不可数。
+注意英美拼写差别。
+① She studies archaeology.
+= 她学考古。
+② Archaeology reveals daily life.
+= 考古揭示了日常生活。
+③ Underwater archaeology is growing.
+= 水下考古在发展。
+underwater archaeology = 水下考古
+注意英美拼写：
+英式 archaeology / 美式 archeology
+构词：archaeo- 古old + -logy 学科
+注意发音：/ˌɑːkiˈɒlədʒi/
+
+archaic
+核心：两条线：语言"古体的、已废弃的"，
+和事物"陈旧过时的"（贬义）。
+① "Thou" is archaic.
+= 「thou」是古体词。
+archaic word = 古语词
+② The system is archaic.
+= 那套系统早已陈旧。
+archaic system = 老掉牙的体制
+③ Archaic laws remain on the books.
+= 一些古老法条仍未废止。
+注意发音：/ɑːˈkeɪɪk/，
+重音在第二音节，ch 读 /k/。
 近义对照：
-area 地区（范围，中性）
-region 地区（较大，有特征）
-district 区（行政划分）
-zone 地带（有特定用途）
+archaic = 古体的；陈旧的
+obsolete = 已淘汰的
+antiquated = 过时的（贬义）
 
-arena
-核心：两条线：体育或表演的"竞技场、场馆"，
-和比喻义的"（活动、竞争的）领域"。介词用 of。
-① The arena seats 20,000.
-= 那座场馆能坐两万人。
-② He entered the political arena.
-= 他步入了政坛。
-political arena = 政治舞台
-③ It's a new arena of competition.
-= 那是个新的竞争领域。
-arena of competition = 竞争场域
-词源：拉丁语 arena（沙），
-古罗马竞技场地面铺沙以吸血。
-近义对照：
-arena = 场馆；领域（有对抗性）
-stadium = 体育场（露天大型）
-venue = 场地（通用）
+archbishop
+核心：指大主教——管辖一个教省的高级主教，
+地位在 bishop 之上。
+① The Archbishop of Canterbury spoke.
+= 坎特伯雷大主教发了言。
+② He was made archbishop.
+= 他被任命为大主教。
+③ The archbishop led the service.
+= 大主教主持了礼拜。
+lead the service = 主持礼拜
+教阶由高到低：
+pope = 教宗
+archbishop = 大主教
+bishop = 主教
+priest = 神父
 
-arguable
-核心：两条线，方向相反：一是"有理有据、说得通的"，
-二是"尚有争议、未必成立的"。靠语境判断。
-① It's arguable that he was right.
-= 可以说他是对的。
-it is arguable that = 有理由认为
-② That point is arguable.
-= 那一点还有争议。
-③ It's arguable either way.
-= 两边都说得通。
+archer
+核心：指射箭的人。射箭这项运动叫 archery。
+中世纪战争里 archer 是重要兵种。
+① The archer drew his bow.
+= 那名弓箭手拉开了弓。
+draw a bow = 拉弓
+② Archers won the battle.
+= 弓箭手赢下了那场战役。
+③ She is a skilled archer.
+= 她箭术精湛。
 词族：
-arguably = 可以说
-argue = 论证
-注意：两个意思方向相反，
-要靠上下文分辨是"站得住"还是"有争议"。
+archery = 射箭运动
+bow = 弓 / arrow = 箭
+quiver = 箭袋
 
-arguably
-核心：用来给主张留余地，意为"可以说、大概"。
-最常见的是修饰最高级：arguably the best。
-① He is arguably the best player.
-= 他可以说是最好的球员。
-arguably the best = 堪称最佳
-② Arguably, the policy failed.
-= 可以说那项政策失败了。
-③ It's arguably her finest work.
-= 那大概是她最好的作品。
-词族：arguable、argue
-注意语用：arguably 让断言变得
-可辩护而非绝对，学术写作常用。
-
-argue
-核心：两条线：吵架（argue with someone about something）和
-论证（argue that / argue for）。学术写作里几乎只用第二条，
-它不带情绪，就是"提出理由主张"。
-① They argued about money.
-= 他们为钱吵了起来。
-argue about = 为…争吵
-② Don't argue with me.
-= 别跟我争。
-argue with = 与…争论
-③ He argued that the plan was flawed.
-= 他论证说那个计划有缺陷。
-argue that = 主张、论证
-④ She argued for higher pay.
-= 她主张涨薪。
-argue for = 支持、力主
-⑤ Some argue against the policy.
-= 有人反对那项政策。
-argue against = 反对
-词族：argument = 争论；论点
-
-argument
-核心：两层，对应动词的两条线：吵架（an argument with someone）
-和论点（an argument for / against）。学术语境里几乎都是第二层。
-① They had an argument.
-= 他们吵了一架。
-have an argument = 争吵
-② It's a strong argument.
-= 那是个有力的论点。
-③ There are arguments for and against.
-= 正反双方都有理由。
-arguments for and against = 正反理由
-④ He put forward an argument.
-= 他提出了一个论点。
-put forward an argument = 提出论点
+archery
+核心：指射箭这项运动，不可数。奥运项目之一。
+① He took up archery.
+= 他开始练射箭。
+take up archery = 学射箭
+② Archery requires steady hands.
+= 射箭需要手稳。
+③ The archery range is outside.
+= 射箭场在外面。
+archery range = 射箭场
 词族：
-argumentative = 爱争辩的
-注意：中文的"论文"不是 argument，
-是 paper 或 essay。
+archer = 弓箭手
+相关词：
+target = 靶
+bullseye = 靶心
 
-argumentative
-核心：指人"爱争辩的、动不动就抬杠的"，贬义。
-不是"论证严密的"——那个意思要用 well-argued。
-① He gets argumentative when tired.
-= 他一累就爱抬杠。
-② She is argumentative by nature.
-= 她天性好辩。
-argumentative by nature = 天生爱争
-③ Don't be so argumentative.
-= 别那么爱抬杠。
-词族：argue、argument
-注意区别：
-argumentative = 爱争辩的（贬义，说人）
-well-argued = 论证充分的（褒义，说文章）
-persuasive = 有说服力的
-
-arid
-核心：两条线：气候"干旱的"，
-和比喻义的"枯燥乏味、没有内容的"。
-① The region is arid.
-= 那个地区干旱。
-arid region = 干旱地区
-② Arid land supports little life.
-= 干旱土地上生物稀少。
-arid land = 旱地
-③ The debate was arid.
-= 那场辩论枯燥无味。
-词族：aridity = 干旱
-干湿梯度：
-arid = 干旱（几乎无雨）
-semi-arid = 半干旱
-humid = 潮湿
-
-arise
-核心：指抽象的事物"出现、产生"——问题、机会、疑问、纠纷。不能用于
-具体的人或物起身，那是 rise 或 get up。不及物，没有被动。
-① A problem has arisen.
-= 出了个问题。
-② Questions arose about the cost.
-= 关于成本的疑问出现了。
-③ If the need arises, call me.
-= 如果有需要就找我。
-if the need arises = 如有需要
-④ Difficulties arise from poor planning.
-= 困难源于规划不当。
-arise from = 由…引起
-动词变化：
-arise → arose → arisen
-注意区别：
-arise 抽象事物产生（不及物）
-raise 举起、提高（及物）
-rise 上升（不及物）
-
-aristocracy
-核心：指贵族阶层，也指贵族统治这种政体。
-集合名词，英式可配复数动词。
-① The aristocracy owned the land.
-= 贵族阶层拥有那些土地。
-② She married into the aristocracy.
-= 她嫁入了贵族。
-marry into = 通过婚姻进入
-③ Aristocracy gave way to democracy.
-= 贵族制让位于民主制。
-give way to = 让位于
-词族：
-aristocrat = 贵族
-aristocratic = 贵族的
-构词：aristo- 最好的 + -cracy 统治
-同类：democracy、bureaucracy
-
-aristocrat
-核心：指贵族出身的人。
-和 nobleman 基本同义，aristocrat 更常用。
-① He is a French aristocrat.
-= 他是位法国贵族。
-② Aristocrats fled the revolution.
-= 贵族们逃离了那场革命。
-③ She looks every inch an aristocrat.
-= 她浑身上下都是贵族气派。
-every inch = 十足的
-词族：aristocracy、aristocratic
-注意发音：
-英式 /ˈærɪstəkræt/ 重音在前
-美式 /əˈrɪstəkræt/ 重音在第二音节
-
-aristocratic
-核心：两条线：字面"贵族的、出身贵族的"，
-和比喻义"有贵族派头的"（举止优雅高傲）。
-① He comes from an aristocratic family.
-= 他出身贵族家庭。
-aristocratic family = 贵族门第
-② She has aristocratic bearing.
-= 她有贵族般的气度。
-aristocratic bearing = 高贵的仪态
-③ The house is aristocratic in style.
-= 那栋宅子是贵族风格。
-词族：aristocracy、aristocrat
-
-arithmetic
-核心：指算术——加减乘除这部分数学。不可数。
-注意名词和形容词重音不同。
-① He is good at arithmetic.
-= 他算术好。
-mental arithmetic = 心算
-② Check your arithmetic.
-= 核对一下你的算式。
-③ It's an arithmetic progression.
-= 那是个等差数列。
-arithmetic progression = 等差数列
-注意发音：
-名词 /əˈrɪθmətɪk/ 重音在第二音节
-形容词 /ˌærɪθˈmetɪk/ 重音在第三音节
-数学分支：
-arithmetic 算术 / algebra 代数
-geometry 几何 / calculus 微积分
-
-ark
-核心：指《圣经》里诺亚造的方舟，也指犹太会堂里存放
-律法卷轴的圣柜。注意别和 arc（弧）混，两者同音。
-① Noah built an ark.
-= 诺亚造了一艘方舟。
-Noah's ark = 诺亚方舟
-② Animals entered the ark two by two.
-= 动物两两进了方舟。
-two by two = 成双成对
-③ The Ark of the Covenant was lost.
-= 约柜失落了。
-the Ark of the Covenant = 约柜
-注意别混：
-ark = 方舟
-arc = 弧
-两者读音相同 /ɑːk/。
-
-arm
-核心：名词是"手臂"，也指椅子的扶手、组织的分支。复数 arms 是
-"武器"这个完全不同的意思。动词是"武装"。arm in arm 和 up in arms
-是两个高频习语。
-① He broke his arm.
-= 他胳膊断了。
-② They walked arm in arm.
-= 他们臂挽着臂走。
-arm in arm = 挽着胳膊
-③ The country sells arms.
-= 那个国家出售武器。
-复数 arms = 武器
-④ Rebels armed themselves.
-= 叛军武装了起来。
-这里是动词。
-⑤ Staff are up in arms about it.
-= 员工们为此群情激愤。
-be up in arms = 强烈抗议
-词族：armed = 武装的
-
-armada
-核心：指庞大的舰队，尤指一五八八年西班牙进攻英国的
-"无敌舰队"（the Spanish Armada）。
-① The Spanish Armada was defeated.
-= 西班牙无敌舰队被击败了。
-② An armada of ships arrived.
-= 一支庞大的船队抵达。
-an armada of = 一支庞大的…队
-③ The armada set sail.
-= 舰队起航了。
-set sail = 起航
-词源：西班牙语 armada（武装舰队）
+archetypal
+核心：指"典型的、原型式的"——最能代表某一类的。
+比 typical 更强调"本源、范式"。
+① He's the archetypal English gentleman.
+= 他是典型的英国绅士。
+archetypal figure = 典型人物
+② It's an archetypal love story.
+= 那是个原型式的爱情故事。
+③ The plot is archetypal.
+= 那个情节是经典范式。
+词族：archetype
 近义对照：
-armada = 大舰队（庞大，常指历史）
-fleet = 舰队（通用）
-flotilla = 小舰队
+archetypal = 原型式的（本源范式）
+typical = 典型的（常见）
+quintessential = 精髓的（最纯粹）
 
-armaments
-核心：指一国的"军备、武器装备"，常用复数。
-不同于 arms（泛指武器），armaments 强调成体系的装备。
-① The armaments race escalated.
-= 军备竞赛升级了。
-armaments race = 军备竞赛
-② They reduced their armaments.
-= 他们裁减了军备。
-reduce armaments = 削减军备
-③ The armaments industry is huge.
-= 军工产业规模庞大。
-armaments industry = 军工业
-词族：
-arm = 武装
-armed = 武装的
+archetype
+核心：指"原型、典型代表"——某一类事物最本源的样板。
+心理学里指荣格说的集体无意识原型。介词用 of。
+① He is the archetype of a hero.
+= 他是英雄的原型。
+the archetype of = …的典型
+② The story uses ancient archetypes.
+= 那个故事用了古老的原型。
+③ It became an archetype.
+= 它成了一种范式。
+注意发音：/ˈɑːkitaɪp/，ch 读 /k/。
+词族：archetypal = 典型的
 近义对照：
-armaments = 军备体系
-arms = 武器（泛指）
-weapons = 兵器（具体）
+archetype = 原型（最本源的样板）
+prototype = 原型机（第一个实物）
+stereotype = 刻板印象（简化偏见）
 
-armband
-核心：指戴在上臂的"臂章"，用来表明身份、
-哀悼或权限。游泳用的浮臂圈也叫 armband。
-① He wore a black armband.
-= 他戴了个黑臂章。
-black armband = 黑纱（哀悼）
-② The captain's armband is yellow.
-= 队长袖标是黄色的。
-captain's armband = 队长袖标
-③ Children wear armbands in the pool.
-= 孩子在泳池里戴浮臂圈。
-构词：arm 臂 + band 带子
-同类构词：
-headband 发带 / wristband 腕带
+archipelago
+核心：指群岛——成群分布的岛屿。可数。
+注意重音和 ch 的读音。
+① Indonesia is an archipelago.
+= 印度尼西亚是个群岛国家。
+② They sailed through the archipelago.
+= 他们穿行于群岛之间。
+③ The archipelago has 300 islands.
+= 那个群岛有三百个岛。
+注意复数：
+archipelago → archipelagos 或 archipelagoes
+注意发音：/ˌɑːkɪˈpeləɡəʊ/，ch 读 /k/。
+地理对照：
+archipelago = 群岛
+peninsula = 半岛
+isthmus = 地峡
 
-armchair
-核心：指有扶手的"扶手椅"。作定语时是比喻义，
-指"纸上谈兵的"（armchair critic）。
-① He sat in an armchair.
-= 他坐在扶手椅上。
-② She is an armchair critic.
-= 她是个空谈的评论家。
-armchair critic = 纸上谈兵者
-③ Armchair travel is popular.
-= 足不出户的神游很流行。
-armchair traveller = 神游旅行者
-构词：arm 扶手 + chair 椅
-注意：armchair 作定语一定是贬义，
-指只说不做。
+architect
+核心：设计建筑的人。比喻义指某项事业的"缔造者、总设计师"，
+搭配 the architect of。词族 architecture 既指建筑学也指建筑风格，
+计算机里还指"体系结构"。
+① She is a famous architect.
+= 她是位著名建筑师。
+② He was the architect of the reform.
+= 他是那场改革的总设计师。
+the architect of = …的缔造者
+③ The architect designed the museum.
+= 那位建筑师设计了这座博物馆。
+词族：
+architecture = 建筑学、建筑风格
+architectural = 建筑的
+注意发音：ch 读 /k/，
+读 /ˈɑːkɪtekt/，不是 /tʃ/。
 
-armed
-核心：三条线：人"持有武器的"、冲突"武装的"、
-以及比喻义 armed with（备有…）。
-① The robber was armed.
-= 那名劫匪持有武器。
-armed robbery = 持械抢劫
-② It was an armed conflict.
-= 那是场武装冲突。
-armed conflict = 武装冲突
-③ She came armed with data.
-= 她带着数据有备而来。
-armed with = 带着…作准备
-反义词：
-unarmed = 徒手的、无武装的
-词族：arm、arms、armaments
+architectural
+核心：指"建筑的、建筑学的"。常见搭配
+architectural style / design / heritage。
+① The architectural style is Gothic.
+= 那种建筑风格是哥特式。
+architectural style = 建筑风格
+② Architectural drawings were approved.
+= 建筑图纸获批了。
+architectural drawing = 建筑图
+③ It has architectural merit.
+= 那栋楼有建筑价值。
+architectural merit = 建筑价值
+副词形式：
+architecturally = 在建筑上
+词族：architect、architecture
+
+architecture
+核心：三条线：建筑学这门学科、某种"建筑风格"、
+以及计算机的"体系结构"。不可数为主。
+① She studies architecture.
+= 她学建筑。
+② Gothic architecture is soaring.
+= 哥特建筑高耸入云。
+Gothic architecture = 哥特式建筑
+③ The system architecture is modular.
+= 那个系统架构是模块化的。
+system architecture = 系统架构
+词族：
+architect = 建筑师
+architectural = 建筑的
+注意发音：ch 读 /k/，/ˈɑːkɪtektʃə(r)/
