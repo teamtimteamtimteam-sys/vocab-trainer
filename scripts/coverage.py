@@ -71,7 +71,11 @@ def load_reference():
         # 以及被清洗成小写连字符「-…tm」的 100 条（academy-awardtm = Academy Award™）。
         # 商标不是词汇，一律不收 —— 少数已成通名的（Android、AstroTurf）
         # 已经单独列在 proper-nouns-keep.txt 里。
-        if '\u2122' in w or re.search(r'-[a-z]+tm$', w):
+        # 清洗后的商标有两种：带连字符的 academy-awardtm，以及直接粘死的
+        # airbustm / coketm / bluetoothtm。原来只挡住了前者，后者 128 条
+        # 全都漏成了「缺词」。核对过这 128 条无一例外都是商标，没有真词
+        # 以 tm 收尾，所以放宽到不要求连字符是安全的。
+        if '\u2122' in w or re.search(r'[a-z]tm$', w):
             continue
         if re.search(r'_\d+$', w):                    # 清单里的编号伪影
             continue                                   # abstract-expressionist_1 / _2
@@ -79,6 +83,10 @@ def load_reference():
         # 后者把撇号洗成了连字符，于是被切成三个词、跟前者对不上，
         # 结果 Adam's apple 明明写在 apple 条里却一直报缺。全表 178 条同此。
         w = re.sub(r'-s-', "'s ", w)
+        # 同一个洗法也吃掉了词尾的撇号：ain-t、macy-s、dry-cleaner-s。
+        # 全表这样的只有 20 条，逐条看过都是撇号伪影，没有真词以
+        # 「连字符 + s/t」收尾，所以直接还原。
+        w = re.sub(r'-(s|t)$', r"'\1", w)
         if w.startswith('-') or w.endswith('-'):      # 词缀条目，不收
             continue
         bare = w.replace('.', '').replace('-', '').replace(' ', '')
