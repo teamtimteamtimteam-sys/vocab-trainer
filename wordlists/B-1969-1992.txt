@@ -1,3 +1,112 @@
+backtrack
+核心：底层是"顺着来时的脚印往回走"。字面指原路折返；
+比喻着用指"改口、收回说过的话"，多半是迫于压力，带贬义。
+① They backtracked to the last junction.
+= 他们原路退回上一个岔口。
+backtrack to = 折返到
+② The minister backtracked on the pledge.
+= 那位大臣在承诺上改了口。
+backtrack on = 在…上改口
+③ He backtracked under questioning.
+= 被追问之下他往回缩了。
+注意用法：
+比喻义带贬义，暗示前后不一。
+近义对照：
+backtrack = 改口往回缩（贬义）
+retract = 收回（正式撤回原话）
+qualify = 加限定（不推翻，只缩小范围）
+
+backup
+核心：底层是"顶在后面的那一份"。数据上是"备份"；人手上是
+"后援、支援"；东西上是"备用的那一个"。写成两个词
+back up 时是动词。
+① Make a backup before updating.
+= 更新前先做备份。
+make a backup = 做备份
+② Officers called for backup.
+= 警员请求支援。
+call for backup = 请求支援
+③ Keep a backup generator.
+= 备一台后备发电机。
+backup generator = 备用发电机
+④ She sang backup on the album.
+= 她在那张专辑里唱和声。
+sing backup = 唱伴唱
+注意写法：
+名词与形容词连写，动词分写成两个词。
+
+backward
+核心：底层是"朝后的"。方向上是向后；进度上是落后、发展迟缓；
+态度上是踌躇不前。注意第二层用来说人或地区时带冒犯，
+今天多改说 developing 或 with learning difficulties。
+副词形式英式常加 s。
+① He took a backward step.
+= 他后退了一步。
+a backward step = 倒退的一步
+② She glanced backwards.
+= 她回头瞥了一眼。
+backwards = 向后地（英式常加词尾）
+③ The policy is a backward move.
+= 那项政策是往回走。
+④ He is not backward in asking.
+= 他一点也不怯于开口。
+not backward in = 不怯于
+⑤ Backwardness held the region down.
+= 落后拖住了那个地区。
+backwardness = 落后（用于人时冒犯）
+注意语域：
+说人或地区「落后」时带冒犯，今天避免这么用。
+
+backward-looking
+核心：形容词，指"往回看的、守旧的"——判断事情时凭过去的经验和
+旧规矩，不看眼下的新情况。带贬义。跟它相对的是
+forward-looking。
+① The policy is backward-looking.
+= 那项政策是往回看的。
+② Critics call the plan backward-looking.
+= 批评者说那个方案守旧。
+③ A backward-looking firm loses ground.
+= 守旧的公司会掉队。
+a backward-looking firm = 守旧的公司
+注意别混：
+backward-looking = 守旧的（贬义）
+forward-looking = 有前瞻的（褒义）
+
+backwash
+核心：两层。字面指船桨或螺旋桨搅出的"回流"，以及海浪退回海里的
+那股水。比喻着用指一件事的"余波"——多半是没料到的负面影响。
+① The backwash rocked the small boat.
+= 回流把那条小船晃得厉害。
+② Backwash drags swimmers seaward.
+= 退浪会把泳者拖向海里。
+③ The scandal's backwash hit the whole board.
+= 那桩丑闻的余波波及了整个董事会。
+the backwash of = …的余波
+注意用法：
+比喻义几乎总指负面的连带影响。
+近义对照：
+backwash = 余波（多指没料到的负面影响）
+aftermath = 后果（一件大事之后的整体局面）
+fallout = 连带损害（原指核尘埃）
+
+backwater
+核心：字面指河边那些"回水湾"——水流不到、几乎不动的死水区。
+比喻着用指"闭塞落后的地方"，外面世界变了它还没动。
+带贬义。
+① Fish shelter in the backwater.
+= 鱼躲在回水里。
+② The town is a cultural backwater.
+= 那个镇子是文化上的一潭死水。
+a cultural backwater = 文化上的闭塞之地
+③ He left the backwater for the capital.
+= 他离开那个闭塞的地方去了首都。
+注意语域：
+比喻义带贬义，说人家乡时会冒犯。
+近义对照：
+backwater = 闭塞落后之地（贬义）
+provincial = 外省的、眼界窄的
+hub = 枢纽（反面：人来人往的中心）
+
 backwoods
 核心：指"偏远林区"——远离城镇、林木未开发的那片地方。
 作定语时带贬义，指"闭塞土气的"。住那儿的人叫 backwoodsman，
@@ -422,98 +531,3 @@ bagatelle = 钢琴小品
 = 他们在酒馆里玩弹球游戏。
 注意语域：
 偏正式或旧式，日常说 trifle。
-
-bagel
-核心：一种圈状面包，先煮后烤，所以壳韧、心密实、有嚼劲。
-源自东欧犹太社群，经纽约成了通行早餐。横切开夹奶油奶酪
-和熏三文鱼是最经典的吃法。
-① She toasted a sesame bagel.
-= 她烤了个芝麻贝果。
-② Bagels are boiled before baking.
-= 贝果要先煮再烤。
-be boiled before baking = 烤前先水煮
-③ A bagel with lox is a classic.
-= 贝果配熏三文鱼是经典搭配。
-注意语域：
-食品名称，源自意第绪语。
-
-baggage
-核心：两层。字面是"行李"，不可数，美式用得比英式多，
-英式日常说 luggage。比喻着用指"包袱"——过去的经历留下的、
-甩不掉的心理负担，常说 emotional baggage。
-① Collect your baggage at carousel three.
-= 到三号转盘取行李。
-baggage carousel = 行李转盘
-baggage reclaim = 行李提取处（英式）
-② The train has a baggage car.
-= 那列火车挂着行李车厢。
-baggage car = 行李车厢（美式）
-③ He brings a lot of emotional baggage.
-= 他带着不少情感包袱。
-emotional baggage = 情感包袱
-④ Every candidate carries some baggage.
-= 每个候选人都背着点旧账。
-注意用法：
-不可数，不能说 a baggage 或 baggages。
-注意地域：
-美式 baggage / 英式日常说 luggage。
-
-baggy
-核心：形容词，指衣服"松垮宽大的"——不贴身，垂在身上。
-褒贬取决于是不是有意为之：说裤子的剪裁是中性甚至时髦，
-说旧毛衣被撑变形就是贬义。
-① He wore baggy jeans.
-= 他穿着松垮的牛仔裤。
-baggy jeans = 阔腿牛仔裤
-② The jumper had gone baggy at the elbows.
-= 那件毛衣手肘处松垮了。
-go baggy = 变松变形
-③ Baggy trousers came back into fashion.
-= 宽松裤子又流行起来了。
-注意用法：
-说剪裁是中性，说变形是贬义。
-
-bagpipes
-核心：一种簧管乐器，靠吹进皮囊里的气持续供风，所以吹奏时
-声音不断。旋律管上按孔，另有几根持续发一个音的低音管，
-那种"底下一直嗡着"的听感就是从它们来的。总用复数。
-① He plays the bagpipes.
-= 他吹风笛。
-play the bagpipes = 吹风笛
-② Bagpipes need constant air pressure.
-= 风笛需要不断供气。
-③ A bagpipe drone holds one note.
-= 风笛的低音管持续发一个音。
-bagpipe = 风笛（作定语时用单数）
-注意用法：
-作乐器名时用复数，作定语时用单数。
-
-baguette
-核心：法国那种细长的白面包——壳脆、心大孔洞，出炉当天最好吃。
-法律对它的配料有规定：只能用面粉、水、盐和酵母。
-也指切开做成的长条三明治。
-① She bought a fresh baguette.
-= 她买了根刚出炉的法棍。
-② The baguette crackles when it cools.
-= 法棍放凉时壳会噼啪响。
-③ He ordered a ham baguette.
-= 他点了个火腿法棍三明治。
-a ham baguette = 火腿法棍三明治
-注意语域：
-食品名称，法语借词。
-
-baklava
-核心：中东与巴尔干一带的甜点——极薄的酥皮层层叠起，中间铺碎坚果，
-烤好后浇上蜜或糖浆。甜度极高，切成菱形小块吃。
-也拼作 baclava，但那个拼法容易跟毛线头套 balaclava 混。
-① She brought a tray of baklava.
-= 她端来一盘果仁蜜饼。
-a tray of baklava = 一盘果仁蜜饼
-② Baklava is layered with filo pastry.
-= 那种甜点是用薄酥皮叠起来的。
-filo pastry = 薄酥皮
-③ Honey syrup soaks the baklava.
-= 蜜糖浆浸透了那块酥饼。
-注意别混：
-baklava = 果仁蜜饼（甜点）
-balaclava = 头套式毛线帽（只露眼睛）

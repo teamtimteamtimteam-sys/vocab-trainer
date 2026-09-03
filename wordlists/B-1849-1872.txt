@@ -1,3 +1,39 @@
+avoidable
+核心：指"本可避免的"，常带惋惜或批评。
+和 unavoidable 配对使用频率相当。
+① It was an avoidable accident.
+= 那是场本可避免的事故。
+avoidable accident = 可避免的事故
+② Many deaths were avoidable.
+= 很多死亡本不该发生。
+③ The delay was avoidable.
+= 那次延误本可避免。
+反义词：
+unavoidable = 不可避免的
+词族：avoid、avoidance
+近义对照：
+avoidable = 本可避免的（含批评）
+preventable = 可预防的（有措施能防）
+inevitable = 必然的（反义）
+
+avoidance
+核心：指"回避、躲开"这个行为。
+税务语境里 tax avoidance（合法避税）和 tax evasion（非法逃税）
+是必须分清的一对。
+① Tax avoidance is legal.
+= 避税是合法的。
+tax avoidance = 合法避税
+② His avoidance of the topic was obvious.
+= 他明显在回避那个话题。
+avoidance of = 对…的回避
+③ Avoidance behaviour is common in anxiety.
+= 回避行为在焦虑中很常见。
+avoidance behaviour = 回避行为
+词族：avoid、avoidable
+注意区别：
+tax avoidance = 避税（合法，钻空子）
+tax evasion = 逃税（违法，会坐牢）
+
 avoirdupois
 核心：英美常衡制的名称——一磅等于十六盎司的那一套，日常称东西
 用的就是它。跟称金银的金衡制和称药的药衡制相区别。
@@ -421,49 +457,3 @@ smile awkwardly = 尴尬地笑
 awkwardly = 笨拙地；尴尬地
 clumsily = 笨手笨脚地（动作）
 uncomfortably = 不自在地（感受）
-
-awkwardness
-核心：指"尴尬"或"笨拙"这种性质，不可数。
-社交语境里多指气氛的别扭。
-① There was an awkwardness between them.
-= 他们之间有种尴尬。
-② She hid her awkwardness.
-= 她掩饰住了局促。
-③ The awkwardness soon passed.
-= 那份尴尬很快过去了。
-词族：awkward、awkwardly
-近义对照：
-awkwardness = 尴尬、笨拙
-embarrassment = 难堪（丢脸）
-discomfort = 不适（身心）
-
-awl
-核心：手工工具，一根尖锥装在木柄上，用来在皮革、木头或帆布上
-扎孔，好让针或线穿过去。补鞋、装订和木工都用它。
-① The cobbler pierced the leather with an awl.
-= 鞋匠用锥子在皮子上扎孔。
-pierce with an awl = 用锥子扎孔
-② An awl makes a starter hole for the screw.
-= 锥子给螺丝先扎个引导孔。
-a starter hole = 引导孔
-③ Bookbinders use an awl to punch signatures.
-= 装订工用锥子给书帖打孔。
-注意语域：
-手工与工具名称。
-
-awning
-核心：指店铺或窗户上方遮阳挡雨的"遮篷、雨篷"，
-通常是布或帆布做的，可收放。
-① The café has a striped awning.
-= 那家咖啡馆有条纹遮篷。
-striped awning = 条纹雨篷
-② They lowered the awning.
-= 他们把遮篷放了下来。
-lower the awning = 放下遮篷
-③ Rain dripped off the awning.
-= 雨水从雨篷上滴落。
-注意发音：/ˈɔːnɪŋ/
-近义对照：
-awning = 遮篷（布制可收）
-canopy = 华盖、顶篷（较大）
-shelter = 遮蔽处（通用）

@@ -404,22 +404,3 @@ avalanche risk = 雪崩风险
 landslide = 山体滑坡
 mudslide = 泥石流
 rockfall = 落石
-
-avant-garde
-核心：法语借词，指艺术上的"先锋派、前卫的"。
-名词形容词同形，带连字符。
-① The play is avant-garde.
-= 那出戏很前卫。
-② She joined the avant-garde.
-= 她加入了先锋派。
-the avant-garde = 先锋派（总称）
-③ It's avant-garde cinema.
-= 那是先锋电影。
-avant-garde cinema = 实验电影
-注意发音：/ˌævɒŋ ˈɡɑːd/
-词源：法语军事术语「前卫部队」。
-近义对照：
-avant-garde = 先锋前卫（艺术）
-experimental = 实验性的
-cutting-edge = 尖端的（技术）
-mainstream = 主流的（反义）

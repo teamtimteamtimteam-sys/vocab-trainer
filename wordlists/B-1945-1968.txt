@@ -1,3 +1,91 @@
+backlist
+核心：出版业用语，指一家出版社"仍在售的旧书目录"——不是新书，
+但常年有稳定销量。跟主推新书的 frontlist 相对。
+很多出版社真正的利润来自它。
+① The backlist carries the company.
+= 旧书目录养活着这家公司。
+② They reissued three backlist titles.
+= 他们重版了三种旧书。
+backlist title = 旧书品种
+③ A strong backlist cushions bad years.
+= 厚实的旧书目录能扛过淡年。
+注意别混：
+backlist = 旧书目录（常销）
+frontlist = 新书书目（主推）
+
+backlog
+核心：指"积压下来的活"——该做没做、越堆越多的那一摞：待处理的
+订单、没审完的案子、没修的工单。重点是"排队等着"，
+不是"做不完"。
+① The department has a huge backlog.
+= 那个部门积压了一大堆。
+a huge backlog = 大量积压
+② They cleared the backlog by June.
+= 他们六月前把积压清完了。
+clear a backlog = 清理积压
+③ A backlog of cases delayed the trial.
+= 案件积压让审理拖后了。
+a backlog of = 一批积压的…
+注意用法：
+后面常接介词引出积压的东西。
+
+backlot
+核心：制片厂围墙内的"外景场地"——搭着常设的街景、房屋立面和
+广场，拍外景不用真的出门。省钱、可控、还能反复用，
+所以老片里的纽约街头常常是同一条。
+① They shot the chase on the backlot.
+= 那场追逐是在外景场地拍的。
+shoot on the backlot = 在外景场地拍摄
+② The backlot has a fake town square.
+= 那片场地上有个假的市镇广场。
+③ Tours run through the studio backlot.
+= 参观路线会穿过制片厂外景地。
+注意语域：
+电影制作用语。
+
+backmarker
+核心：比赛里"排在最后面的选手或车手"。在方程式赛车里它有专门的
+麻烦：领先者要套他一圈，他必须让路，一让不好就出事故。
+也泛指任何领域里垫底的那一个。
+① The leader lapped a backmarker.
+= 领先车手套了一名垫底车手一圈。
+lap a backmarker = 套圈
+② Backmarkers must show blue flags respect.
+= 被套圈的车手看到蓝旗必须让路。
+③ The firm is a backmarker in its sector.
+= 那家公司在同行里垫底。
+注意语域：
+赛车术语，也用于泛指垫底者。
+
+backmost
+核心：形容词，指"最靠后的、最末的"。用于座位、车厢、队列这类
+分得出前后的东西。偏书面，日常多说 last 或 rearmost。
+① They sat in the backmost row.
+= 他们坐在最后一排。
+the backmost row = 最后一排
+② The backmost carriage was empty.
+= 最后那节车厢是空的。
+③ He marched in the backmost rank.
+= 他走在最后一列。
+注意语域：
+偏书面，日常说 last。
+
+backpack
+核心：指"双肩背包"——两条肩带背在背上，重量落在两肩和腰，
+所以能背得更久更重。作动词指"背包旅行"，背包客叫 backpacker。
+英式也说 rucksack。
+① She stuffed the backpack with gear.
+= 她把装备塞进背包。
+stuff a backpack = 塞满背包
+② They backpacked across Asia.
+= 他们背包穿越了亚洲。
+backpack = 背包旅行（动词）
+③ Backpackers filled the hostel.
+= 青旅里住满了背包客。
+backpacker = 背包客
+注意地域：
+美式 backpack / 英式也说 rucksack。
+
 backplane
 核心：电子设备里那块"背板"——一块印刷电路板，上面排着一排插槽，
 各功能卡插上去就通过它互相连通。它本身不做运算，
@@ -304,112 +392,3 @@ the top of the backswing = 后摆最高点
 backswing = 后摆（往后带到最高点）
 downswing = 下挥（往下加速）
 follow-through = 随挥（击球后惯性带过）
-
-backtrack
-核心：底层是"顺着来时的脚印往回走"。字面指原路折返；
-比喻着用指"改口、收回说过的话"，多半是迫于压力，带贬义。
-① They backtracked to the last junction.
-= 他们原路退回上一个岔口。
-backtrack to = 折返到
-② The minister backtracked on the pledge.
-= 那位大臣在承诺上改了口。
-backtrack on = 在…上改口
-③ He backtracked under questioning.
-= 被追问之下他往回缩了。
-注意用法：
-比喻义带贬义，暗示前后不一。
-近义对照：
-backtrack = 改口往回缩（贬义）
-retract = 收回（正式撤回原话）
-qualify = 加限定（不推翻，只缩小范围）
-
-backup
-核心：底层是"顶在后面的那一份"。数据上是"备份"；人手上是
-"后援、支援"；东西上是"备用的那一个"。写成两个词
-back up 时是动词。
-① Make a backup before updating.
-= 更新前先做备份。
-make a backup = 做备份
-② Officers called for backup.
-= 警员请求支援。
-call for backup = 请求支援
-③ Keep a backup generator.
-= 备一台后备发电机。
-backup generator = 备用发电机
-④ She sang backup on the album.
-= 她在那张专辑里唱和声。
-sing backup = 唱伴唱
-注意写法：
-名词与形容词连写，动词分写成两个词。
-
-backward
-核心：底层是"朝后的"。方向上是向后；进度上是落后、发展迟缓；
-态度上是踌躇不前。注意第二层用来说人或地区时带冒犯，
-今天多改说 developing 或 with learning difficulties。
-副词形式英式常加 s。
-① He took a backward step.
-= 他后退了一步。
-a backward step = 倒退的一步
-② She glanced backwards.
-= 她回头瞥了一眼。
-backwards = 向后地（英式常加词尾）
-③ The policy is a backward move.
-= 那项政策是往回走。
-④ He is not backward in asking.
-= 他一点也不怯于开口。
-not backward in = 不怯于
-⑤ Backwardness held the region down.
-= 落后拖住了那个地区。
-backwardness = 落后（用于人时冒犯）
-注意语域：
-说人或地区「落后」时带冒犯，今天避免这么用。
-
-backward-looking
-核心：形容词，指"往回看的、守旧的"——判断事情时凭过去的经验和
-旧规矩，不看眼下的新情况。带贬义。跟它相对的是
-forward-looking。
-① The policy is backward-looking.
-= 那项政策是往回看的。
-② Critics call the plan backward-looking.
-= 批评者说那个方案守旧。
-③ A backward-looking firm loses ground.
-= 守旧的公司会掉队。
-a backward-looking firm = 守旧的公司
-注意别混：
-backward-looking = 守旧的（贬义）
-forward-looking = 有前瞻的（褒义）
-
-backwash
-核心：两层。字面指船桨或螺旋桨搅出的"回流"，以及海浪退回海里的
-那股水。比喻着用指一件事的"余波"——多半是没料到的负面影响。
-① The backwash rocked the small boat.
-= 回流把那条小船晃得厉害。
-② Backwash drags swimmers seaward.
-= 退浪会把泳者拖向海里。
-③ The scandal's backwash hit the whole board.
-= 那桩丑闻的余波波及了整个董事会。
-the backwash of = …的余波
-注意用法：
-比喻义几乎总指负面的连带影响。
-近义对照：
-backwash = 余波（多指没料到的负面影响）
-aftermath = 后果（一件大事之后的整体局面）
-fallout = 连带损害（原指核尘埃）
-
-backwater
-核心：字面指河边那些"回水湾"——水流不到、几乎不动的死水区。
-比喻着用指"闭塞落后的地方"，外面世界变了它还没动。
-带贬义。
-① Fish shelter in the backwater.
-= 鱼躲在回水里。
-② The town is a cultural backwater.
-= 那个镇子是文化上的一潭死水。
-a cultural backwater = 文化上的闭塞之地
-③ He left the backwater for the capital.
-= 他离开那个闭塞的地方去了首都。
-注意语域：
-比喻义带贬义，说人家乡时会冒犯。
-近义对照：
-backwater = 闭塞落后之地（贬义）
-provincial = 外省的、眼界窄的
-hub = 枢纽（反面：人来人往的中心）

@@ -15,13 +15,15 @@
 
 # --- 地区变体英语与国别变体借词 ---
 ach          # 苏格兰/爱尔兰感叹词
+bairn        # 苏格兰／英格兰北部方言的 child
 aapa         # 印度英语，姐姐
 achcha       # 印度英语，好的
 achkan       # 印度英语，男式长外套
+bakkie       # 南非英语，小货车、皮卡
 badam        # 印度英语，杏仁
 badmash      # 印度英语，无赖、流氓
 bagh         # 印度英语，园林
-backsheesh   # 中东／南亚英语的小费、打点（同 baksheesh）
+backsheesh   # baksheesh 的少见异拼，取通行拼法立条
 babu         # 印度英语，对男性的敬称／旧指文书吏
 bachcha      # 印度英语，小孩
 backward classes # 印度英语，宪法术语「落后阶层」
