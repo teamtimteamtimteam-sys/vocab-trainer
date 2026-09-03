@@ -107,6 +107,49 @@ arachnophobia = 蜘蛛恐惧症
 arachnid = 蛛形纲（八腿，两段身）
 insect = 昆虫（六腿，三段身）
 
+Aramaic
+核心：一门古老的闪族语言，公元前后一千年间是西亚的通用语，
+波斯帝国拿它做行政语言，耶稣的日常语言也是它。今天在叙利亚、
+伊拉克的少数社群里还有人说，属濒危语言。
+① Parts of the Bible were written in Aramaic.
+= 圣经有些部分是用阿拉米语写的。
+written in Aramaic = 用阿拉米语写成
+② Aramaic served as a lingua franca.
+= 阿拉米语曾是通用语。
+lingua franca = 通用语
+③ Only a few communities still speak Aramaic.
+= 如今只剩少数社群还说阿拉米语。
+注意语域：
+语言学与古代史用语，首字母大写。
+
+Arapaho
+核心：北美大平原上的一支印第安人，历史上以狩猎野牛为生，
+与夏延人结盟，说的是阿尔冈昆语族的一门语言。今天主要住在
+怀俄明和俄克拉何马两州的保留地。也指他们的语言。
+① The Arapaho followed the buffalo herds.
+= 阿拉帕霍人跟着野牛群迁徙。
+follow the herds = 追随兽群
+② Arapaho is an Algonquian language.
+= 阿拉帕霍语属阿尔冈昆语族。
+③ Few speakers of Arapaho remain.
+= 会说阿拉帕霍语的人已经不多。
+注意语域：
+北美原住民族群与语言名称。
+
+Arawak
+核心：加勒比海与南美北部的一支原住民，是哥伦布最先遇到的族群，
+殖民之后人口锐减。英语里的 hammock、canoe、hurricane 这些词
+就是经西班牙语从他们的语言借来的。
+① The Arawak inhabited the Greater Antilles.
+= 阿拉瓦克人住在大安的列斯群岛。
+② Arawak words entered English through Spanish.
+= 阿拉瓦克语的词经西班牙语进了英语。
+enter through = 经由…进入
+③ Arawak communities survive in Guyana.
+= 圭亚那还有阿拉瓦克人的社群。
+注意语域：
+加勒比史与语言学用语。
+
 arbiter
 核心：指有权裁断的人。两条线：正式的"仲裁人"，
 和比喻义的"权威、风向标"（arbiter of taste）。
@@ -263,6 +306,53 @@ arboriculture = 树艺（管单株树）
 forestry = 林业（管成片林子与木材）
 horticulture = 园艺（管花果菜）
 
+Arborio
+核心：意大利产的一种短粒米，名字来自波河平原上一个镇子。
+它淀粉多，煮的时候不断搅动会释出淀粉形成浓稠的汤汁，
+米心还保持一点硬，所以是做意大利烩饭的标准用米。
+① Use Arborio for risotto.
+= 做烩饭要用阿柏里欧米。
+② Arborio releases starch as it cooks.
+= 阿柏里欧米一煮就出淀粉。
+release starch = 释出淀粉
+③ The grains stay firm at the centre.
+= 米心保持着一点硬度。
+注意大小写：
+以地名命名，首字母大写。
+注意语域：
+烹饪与食材名称。
+
+arbour
+核心：园子里用藤蔓遮盖的"凉亭、绿廊"——搭个木架或铁架，让攀援
+植物爬满，底下留出坐处。美式拼 arbor。注意跟另一个 arbor
+（机床上的心轴）拼法相同、来源不同。
+① They sat in the rose arbour.
+= 他们坐在蔷薇凉亭里。
+rose arbour = 蔷薇凉亭
+② An arbour shades the path.
+= 一道绿廊给小路遮阴。
+③ Climbers cover the arbour by June.
+= 到六月藤蔓就爬满了凉亭。
+注意拼写：
+arbour = 藤架凉亭（英式）
+arbor = 藤架凉亭（美式）
+
+arbutus
+核心：一类常绿灌木或小乔木，开一串串白色小坛状花，结的红果表面
+带疣粒，样子像草莓，所以俗名叫 strawberry tree。地中海一带最常见。
+① An arbutus grows by the wall.
+= 墙边长着一棵草莓树。
+② Arbutus berries look like small strawberries.
+= 草莓树的果子像小草莓。
+③ The arbutus flowers and fruits at once.
+= 草莓树开花结果同时进行。
+flower and fruit at once = 花果同期
+注意语域：
+植物学与园艺名称。
+俗名对照：
+arbutus = 野草莓树（学名式叫法）
+strawberry tree = 草莓树（俗名）
+
 arc
 核心：指弧、弧形轨迹。数学上是圆的一段，
 叙事里指 story arc（故事线的起伏走向）。
@@ -296,132 +386,38 @@ arcade game = 街机游戏
 arch = 拱
 构词：arc 弧 + -ade
 
-arcane
-核心：指知识"深奥难懂、只有内行才明白的"，
-常带一点"故弄玄虚"的意味。
-① The rules are arcane.
-= 那些规则晦涩难懂。
-② He knows arcane details.
-= 他知道些冷门细节。
-arcane detail = 深奥的细节
-③ It's arcane knowledge.
-= 那是门外汉搞不懂的学问。
-arcane knowledge = 秘传知识
+Arcadian
+核心：底层是希腊那个多山的牧区地名。文学传统把那里想象成牧人
+吹笛、与世无争的乐土，于是这个词就指"田园牧歌式的"——恬静、
+淳朴、不受城市和现代生活侵扰。也作名词指那里的人。
+① The poem paints an Arcadian landscape.
+= 那首诗描绘出一派田园景象。
+an Arcadian landscape = 田园牧歌式的景致
+② They dreamed of an Arcadian retreat.
+= 他们向往一处世外桃源。
+③ Arcadian imagery fills Renaissance painting.
+= 文艺复兴绘画里满是田园意象。
+Arcadian imagery = 田园意象
+注意语域：
+文学与艺术史用语，带理想化色彩。
 近义对照：
-arcane = 深奥神秘（内行才懂）
-esoteric = 只有小圈子懂的
-obscure = 晦涩（不清楚）
-abstruse = 艰深（常含批评）
+Arcadian = 田园牧歌式的（理想化的乡野）
+pastoral = 田园的（也指牧羊的）
+rustic = 乡土的（可能带粗糙意味）
 
-arch
-核心：三条线：建筑的"拱"、脚的"足弓"、
-以及动词"拱起"。形容词义是"调皮狡黠的"。
-① The bridge has three arches.
-= 那座桥有三个拱。
-② The cat arched its back.
-= 那只猫弓起了背。
-arch one's back = 弓背
-③ He has high arches.
-= 他足弓很高。
-④ She gave an arch smile.
-= 她笑得有点狡黠。
-词族：
-archway = 拱门
-arched = 拱形的
-注意复数：arch → arches
-
-archaeological
-核心：指"考古学的"。常见搭配 archaeological site、
-archaeological evidence、archaeological dig。
-① They found an archaeological site.
-= 他们发现了一处考古遗址。
-archaeological site = 考古遗址
-② Archaeological evidence supports it.
-= 考古证据支持这一点。
-archaeological evidence = 考古证据
-③ The dig was archaeological.
-= 那次挖掘是考古性质的。
-注意英美拼写：
-英式 archaeological / 美式 archeological
-词族：archaeology、archaeologist
-
-archaeologist
-核心：指考古学家——通过发掘遗迹研究古代人类。
-和 anthropologist（研究人类社会文化）分工不同。
-① Archaeologists uncovered a tomb.
-= 考古学家发掘出一座墓。
-uncover a tomb = 发掘古墓
-② She trained as an archaeologist.
-= 她受训成为考古学家。
-③ Archaeologists date the finds.
-= 考古学家为出土物断代。
-date the finds = 给发现物断代
-词族：archaeology、archaeological
-近义对照：
-archaeologist = 考古学家（发掘遗物）
-anthropologist = 人类学家（研究社会）
-palaeontologist = 古生物学家（研究化石）
-
-archaeology
-核心：指考古学——通过物质遗存研究人类历史。不可数。
-注意英美拼写差别。
-① She studies archaeology.
-= 她学考古。
-② Archaeology reveals daily life.
-= 考古揭示了日常生活。
-③ Underwater archaeology is growing.
-= 水下考古在发展。
-underwater archaeology = 水下考古
-注意英美拼写：
-英式 archaeology / 美式 archeology
-构词：archaeo- 古old + -logy 学科
-注意发音：/ˌɑːkiˈɒlədʒi/
-
-archaic
-核心：两条线：语言"古体的、已废弃的"，
-和事物"陈旧过时的"（贬义）。
-① "Thou" is archaic.
-= 「thou」是古体词。
-archaic word = 古语词
-② The system is archaic.
-= 那套系统早已陈旧。
-archaic system = 老掉牙的体制
-③ Archaic laws remain on the books.
-= 一些古老法条仍未废止。
-注意发音：/ɑːˈkeɪɪk/，
-重音在第二音节，ch 读 /k/。
-近义对照：
-archaic = 古体的；陈旧的
-obsolete = 已淘汰的
-antiquated = 过时的（贬义）
-
-archbishop
-核心：指大主教——管辖一个教省的高级主教，
-地位在 bishop 之上。
-① The Archbishop of Canterbury spoke.
-= 坎特伯雷大主教发了言。
-② He was made archbishop.
-= 他被任命为大主教。
-③ The archbishop led the service.
-= 大主教主持了礼拜。
-lead the service = 主持礼拜
-教阶由高到低：
-pope = 教宗
-archbishop = 大主教
-bishop = 主教
-priest = 神父
-
-archer
-核心：指射箭的人。射箭这项运动叫 archery。
-中世纪战争里 archer 是重要兵种。
-① The archer drew his bow.
-= 那名弓箭手拉开了弓。
-draw a bow = 拉弓
-② Archers won the battle.
-= 弓箭手赢下了那场战役。
-③ She is a skilled archer.
-= 她箭术精湛。
-词族：
-archery = 射箭运动
-bow = 弓 / arrow = 箭
-quiver = 箭袋
+arcana
+核心：指"奥秘、深奥难懂的知识"——只有内行才通的那一套。多用复数，
+单数是 arcanum。塔罗牌把牌分成 major arcana（大阿卡纳）
+和 minor arcana（小阿卡纳），也是这个词。
+① He mastered the arcana of tax law.
+= 他把税法那套门道摸透了。
+the arcana of = …的深奥门道
+② The arcana of the trade take years to learn.
+= 那一行的门道要学好些年。
+③ The major arcana has twenty-two cards.
+= 大阿卡纳有二十二张牌。
+major arcana = 大阿卡纳（塔罗的主牌）
+注意用法：
+多用复数，单数形式很少见。
+注意语域：
+正式或带神秘色彩，也用于塔罗术语。
