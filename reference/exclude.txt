@@ -19,6 +19,9 @@ bairn        # 苏格兰／英格兰北部方言的 child
 aapa         # 印度英语，姐姐
 achcha       # 印度英语，好的
 achkan       # 印度英语，男式长外套
+bandh        # 印度英语，罢市、总罢工
+bandobast    # 印度英语，安排、部署
+bania        # 印度英语，商人种姓
 bakkie       # 南非英语，小货车、皮卡
 badam        # 印度英语，杏仁
 badmash      # 印度英语，无赖、流氓
