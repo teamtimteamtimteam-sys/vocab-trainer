@@ -56,13 +56,17 @@ def load_reference():
                     if c in ('headword', 'word', 'entry', 'term')), 0)
         start = 1 if any(c in ('headword', 'word', 'entry', 'term') for c in head) else 0
         words += [r[col].strip() for r in rows[start:] if len(r) > col and r[col].strip()]
-    # 这两个是本脚本自己的名单文件，不是词头清单 —— 曾经被当成词头读进来，
-    # 于是缺词列表里冒出「abba  # 阿拉姆语「父亲」」这种带注释的假词条。
-    OWN = {'exclude.txt', 'proper-nouns-keep.txt'}
+    # reference/ 下不都是词头清单，本脚本自己的名单文件和任务笔记也在里面。
+    # 黑名单挡过一次（「abba  # 阿拉姆语「父亲」」那种假词条），但每加一个
+    # 笔记文件就要记得补一次，后来 GOAL.txt 又漏了进来：里面一行中文
+    # 「a 字母 100%，……」被当成 a 段词头，a 段当场从 100% 掉到 99%。
+    # 所以再加一道跟文件名无关的防线：英文词头里不可能有汉字。
+    OWN = {'exclude.txt', 'proper-nouns-keep.txt', 'GOAL.txt'}
+    HAS_CJK = re.compile(r'[\u4e00-\u9fff\u3000-\u303f\uff00-\uffef]')
     for f in sorted(glob.glob('reference/*.txt')):
         if os.path.basename(f) in OWN: continue
         words += [l.strip() for l in io.open(f, encoding='utf-8', errors='replace')
-                  if l.strip() and not l.startswith('#')]
+                  if l.strip() and not l.startswith('#') and not HAS_CJK.search(l)]
 
     keep, skip = keep_names(), excluded()
     RAW_LOWER = {w.lower() for w in words}   # 判同形词编号伪影时要查裸形在不在

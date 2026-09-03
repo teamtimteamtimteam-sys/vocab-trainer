@@ -31,9 +31,14 @@ def main(prefix, size):
     # 所以 B 在合并时按词条首行重新排字母序 —— 生成顺序就不再要紧。
     # A 不能这么做：A 是按词频由简到难排的，排字母序会毁掉难度梯度。
     if prefix == 'B':
-        # 词典式排序：忽略空格和连字符，让 ad hoc / able-bodied 归到正确位置
-        entries.sort(key=lambda b: b.split('\n')[0].strip().lower().replace(' ','').replace('-','').replace('.',''))
-        print("\n  B：已按字母顺序重排")
+        # 排序键一律用 scripts/wordkey.py，别在这里另写一份。
+        # 这里原先自造过一把，犯了两个错：一是忽略空格按字母排，
+        # 把 a priori 拼成 apriori 排进了 ap- 段；二是不折重音，
+        # 把 à la carte、à la mode 甩到全表最后。两个错 resplit-b.py
+        # 都没有，因为它用的是共用键 —— 合并出来的文件却是给 app 导入的，
+        # 顺序错了学的人直接看得见。
+        entries.sort(key=lambda b: sort_key(b.split('\n')[0].strip()))
+        print("\n  B：已按词典序重排（共用 wordkey.sort_key）")
     n = len(entries)
     made = []
     for i in range(0, n, size):

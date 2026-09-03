@@ -18,16 +18,18 @@ def entries(pat):
 def main():
     A = entries('wordlists/A-[0-9]*.txt')
     B = entries('wordlists/B-[0-9]*.txt')
-    merged = sorted(glob.glob('wordlists/A-merged-*.txt')) + sorted(glob.glob('wordlists/B-merged-*.txt'))
+    mergedA = sorted(glob.glob('wordlists/A-merged-*.txt'))
+    mergedB = sorted(glob.glob('wordlists/B-merged-*.txt'))
     pend = entries('wordlists/pending/B-pending.txt')
 
     print("=" * 66)
     print("A 词表（初学者，按词频由简到难，绝不排字母序）")
-    print(f"  {len(A)} 条；已交付合并文件：{', '.join(f.split('/')[-1] for f in merged) or '无'}")
+    print(f"  {len(A)} 条；已交付合并文件：{', '.join(f.split('/')[-1] for f in mergedA) or '无'}")
     print(f"  目标 5000，下一批从第 {len(A)+1} 个词起，每批约 45 条、每条 3 个义项")
     print()
     print("B 词表（牛津高阶第 10 版全量收录，按词典序逐条收全）")
-    print(f"  {len(B)} 条；归档区（早期超前写的词，到相应字母段取回复用）{len(pend)} 条")
+    print(f"  {len(B)} 条；已交付合并文件：{', '.join(f.split('/')[-1] for f in mergedB) or '无'}")
+    print(f"  归档区（早期超前写的词，到相应字母段取回复用）{len(pend)} 条")
     if B:
         print(f"  最末词条：{B[-1]}")
     done, todo = [], []

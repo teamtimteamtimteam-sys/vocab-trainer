@@ -1,0 +1,510 @@
+binary
+核心：底层是"由两部分构成的"。计算机里指"二进制的"——只用 0 和 1
+两个数字记数，这是它今天最常用的意思；天文里 binary star 是双星，
+两颗星互相绕转；文化讨论里 a binary 指"非此即彼的二分法"，
+gender binary 说的就是把性别只分成两种的框架，那个用法多带批评。
+构词是 bi-（二）加 -ary。
+① Computers work in binary.
+= 计算机用二进制运算。
+binary = 二进制
+② The file is in binary format.
+= 那个文件是二进制格式。
+binary format = 二进制格式
+跟纯文本相对，人直接读不了。
+③ It is a binary star system.
+= 那是个双星系统。
+binary star = 双星
+两颗星绕共同质心转。
+④ He rejects that binary.
+= 他不接受这种非此即彼的分法。
+a binary = 二分框架（名词用法，常含批评）
+⑤ The debate is not a simple binary.
+= 那场争论不是简单的两选一。
+构词：bi- 二 + -ary
+词族：
+binaries = 二进制文件；二分对立
+
+bind
+核心：底层是"捆住"，捆的东西不同就分出各义。捆实物是"绑、扎"；
+把书页捆在一起是"装订"；用规矩把人捆住是"约束"，法律上的
+binding contract 就是这一支；化学上两个分子扣在一起也是 bind。
+名词有个口语义：in a bind 是"进退两难"，也是被捆住的画面。
+三态不规则：bind / bound / bound。
+① She bound the sticks together.
+= 她把那些棍子捆在一起。
+本义，及物。
+② The book was bound in leather.
+= 那本书是皮面装订的。
+be bound in = 以某种材料装订
+③ The contract binds both parties.
+= 那份合同对双方都有约束力。
+binding contract = 有约束力的合同
+用规矩捆住人。
+④ The drug binds to the receptor.
+= 那种药与受体结合。
+bind to = 与某物结合（化学与生物）
+⑤ Shared hardship bound them together.
+= 共患难把他们连在了一起。
+bind together = 把人凝聚起来
+抽象的"捆"，指情感纽带。
+⑥ I'm in a bit of a bind.
+= 我有点进退两难。
+in a bind = 陷入困境（口语）
+⑦ Add egg to bind the mixture.
+= 加个鸡蛋把馅料黏住。
+烹饪义：让散的东西抱团。
+⑧ The magistrate bound him over to keep the peace.
+= 治安法官责令他具结守法。
+bind over = 责令具结守法（英式法律）
+注意三态：bind / bound / bound
+词族：
+binding = 装订；有约束力的
+binder = 活页夹；黏合剂
+
+binder
+核心：三条线，都从 bind（捆住）来。最常用的是文具里的"活页夹"，
+把散页扣在一起；建材和烹饪里指"黏合剂"，把散料黏成一体；
+农业机械里指收割捆扎机。判断靠语境，三者几乎不会混。
+① Put the notes in a binder.
+= 把笔记放进活页夹。
+ring binder = 活页夹（英式）
+② Cement acts as a binder.
+= 水泥起黏合作用。
+binder = 黏合剂
+③ Egg is a good binder in meatballs.
+= 做肉丸用鸡蛋黏合很好使。
+烹饪义。
+④ The binder cut and tied the sheaves.
+= 那台捆扎机把麦子割了并捆好。
+binder = 收割捆扎机
+词族：
+bind = 捆；约束
+binding = 装订；有约束力的
+
+binding
+核心：三条线。一是名词的"装订"——书的封皮与订法；二是名词的
+"镶边"，衣服和地毯边上包的那道布条；三是形容词的"有约束力的"，
+说合同、裁决、承诺，这是法律文书里的高频词。
+共同点都是 bind 的"捆住"：装订捆住书页，镶边捆住布边，
+条款捆住当事人。
+① The binding is coming loose.
+= 书的装订松了。
+指书脊那一套。
+② It is a hardback binding.
+= 那是精装本的装订。
+hardback binding = 精装订
+③ Sew binding along the hem.
+= 沿着下摆缝上镶边。
+binding = 镶边布条
+④ The decision is legally binding.
+= 那项裁决具有法律约束力。
+legally binding = 有法律约束力的
+⑤ They signed a binding agreement.
+= 他们签了一份有约束力的协议。
+binding agreement = 有约束力的协议
+⑥ Binding theory explains where pronouns can refer.
+= 约束理论解释代词能指谁。
+binding theory = 约束理论（生成语法里管指称的那套规则）
+反义词：
+non-binding = 无约束力的
+
+bindweed
+核心：一种缠绕生长的野草，细茎绕着别的植物一圈圈往上爬，
+开白色或粉色的漏斗形花，根扎得极深，掐断一点残根就能再长，
+所以园丁最头疼它。名字直白：bind（缠）加 weed（杂草）。
+① Bindweed choked the roses.
+= 旋花把玫瑰缠死了。
+缠上去争光争养分。
+② Bindweed is hard to dig out.
+= 旋花很难挖干净。
+残根能再生，这是它难除的原因。
+③ White bindweed flowers opened at dawn.
+= 白色的旋花天亮时开了。
+构词：bind 缠 + weed 杂草
+近义对照：
+bindweed = 旋花（缠绕型野草）
+ivy = 常春藤（攀附型，木质）
+
+binge
+核心：指"短时间里毫无节制地做一件事"，最早专说酗酒和暴食，
+今天扩展到追剧、购物。名词动词同形。它跟单纯的"多"不一样：
+重点在一阵一阵、失控、事后往往后悔，所以医学上的
+binge eating disorder 是正式的诊断名。
+① He went on a drinking binge.
+= 他大喝了一场。
+go on a binge = 放开了猛来一场
+② She binged on chocolate.
+= 她把巧克力吃了个够。
+binge on = 无节制地大量吃喝
+③ They binge-watched the whole series.
+= 他们一口气刷完了整部剧。
+binge-watch = 追剧刷剧
+④ A shopping binge cleared her account.
+= 一场疯狂购物把她账户清空了。
+shopping binge = 疯狂购物
+⑤ Binge eating is a recognized disorder.
+= 暴食是一种明确的疾病。
+binge eating disorder = 暴食障碍
+⑥ Binge watching killed the whole weekend.
+= 刷剧把整个周末刷没了。
+binge watching = 追剧、连着刷剧
+注意用法：重点在失控和一阵性，不只是量大。
+
+bingo
+核心：一种数字游戏：主持人报数，玩家在卡片上划掉自己有的号码，
+先划满一行或一整张的人喊出 bingo 获胜。在英国是很流行的社交
+娱乐，多在专门的 bingo hall 里玩。也用作感叹词，
+表示"猜中了、正是如此"——从游戏里那声喊来的。
+① They play bingo on Fridays.
+= 他们周五玩宾果。
+不可数，不加冠词。
+② She won at the bingo hall.
+= 她在宾果厅赢了。
+bingo hall = 宾果游戏厅（英式）
+③ Bingo! That's the answer.
+= 中了！就是这个答案。
+作感叹词，表示恰好猜中。
+④ The caller read out the numbers.
+= 报号员念出号码。
+caller = 报号员
+⑤ She joked about her bingo wings.
+= 她拿自己的上臂赘肉开玩笑。
+bingo wings = 上臂后侧松弛的赘肉（英式玩笑说法）
+注意用法：感叹词义直接来自游戏里那声喊。
+
+binky
+核心：口语，两个意思。美式里指婴儿的"安抚奶嘴"，本来是个商标名，
+后来变成通名。另一个意思在养兔人里通行：兔子高兴时会突然蹦起来
+在空中扭一下身子，那个动作叫 binky，名词动词都用。
+两个用法都属非正式。
+① The baby dropped her binky.
+= 宝宝把安抚奶嘴掉了。
+binky = 安抚奶嘴（美式口语）
+② He handed the toddler a binky.
+= 他递给小孩一个奶嘴。
+③ The rabbit did a binky across the room.
+= 那只兔子欢蹦着窜过屋子。
+binky = 兔子高兴时的腾空扭身
+④ Happy rabbits binky.
+= 兔子高兴了就会腾空扭身。
+动词用法。
+注意来历：奶嘴那一义原为商标，后来通名化。
+近义对照：
+binky = 安抚奶嘴（美式口语）
+dummy = 安抚奶嘴（英式）
+pacifier = 安抚奶嘴（美式通用）
+
+binman
+核心：英式口语，指收垃圾的工人——开着车挨家把垃圾桶倒进车里的
+那些人。构词是 bin（垃圾桶）加 man。正式说法是 refuse collector，
+今天为了不带性别也常说 bin collector 或 waste collective 的说法。
+美式说 garbage collector 或 trash collector。
+① The binmen come on Thursday.
+= 收垃圾的周四来。
+复数是 binmen。
+② He worked as a binman for years.
+= 他做了好些年的清洁工。
+③ Leave the bags out for the binmen.
+= 把垃圾袋放出去等人来收。
+注意地域：
+英式 binman = 清洁工
+美式 garbage collector = 清洁工
+注意语域：口语；正式场合说 refuse collector。
+
+binocular
+核心：形容词，指"双眼的、用两只眼睛的"。最常见的搭配是
+binocular vision——两只眼睛各看到略有差别的画面，大脑合成之后
+才有立体感和距离感。构词是 bin-（二）加 ocular（眼的）。
+注意它是形容词，望远镜那个名词要用复数 binoculars。
+① Humans have binocular vision.
+= 人有双眼视觉。
+binocular vision = 双眼视觉
+两眼画面略有差别，合起来才有立体感。
+② Owls rely on binocular depth cues.
+= 猫头鹰靠双眼判断距离。
+depth cue = 深度线索
+③ The condition affects binocular function.
+= 那种病影响双眼的协同功能。
+构词：bin- 二 + ocular 眼的
+注意用法：这是形容词，
+望远镜是复数名词 binoculars。
+
+binoculars
+核心：双筒望远镜，只用复数——因为它是两个镜筒并在一起的，
+跟 glasses、scissors 同理，论具要说 a pair of binoculars。
+跟单筒的 telescope 分工：binoculars 便携、视野宽、看远处的鸟兽
+和赛场；telescope 倍率高，看天体。
+① He raised his binoculars.
+= 他举起望远镜。
+只用复数。
+② She bought a pair of binoculars.
+= 她买了一副望远镜。
+a pair of binoculars = 一副双筒望远镜
+③ Birdwatchers never go without binoculars.
+= 观鸟的人从不空手出门。
+④ These binoculars are waterproof.
+= 这副望远镜防水。
+谓语用复数。
+近义对照：
+binoculars = 双筒望远镜（便携，视野宽）
+telescope = 单筒望远镜（倍率高，观天）
+
+binomial
+核心：两条线，都从"两个名"来。数学上指"二项式"——两项相加减
+组成的代数式，如 x 加 y；生物学上指"双名法的"，学名由属名加
+种加词两部分组成，所以人是 Homo sapiens。构词是 bi-（二）加
+nomen（拉丁语的"名"）。
+① Expand the binomial.
+= 把那个二项式展开。
+binomial = 二项式（数学）
+② The binomial theorem gives the expansion.
+= 二项式定理给出展开式。
+binomial theorem = 二项式定理
+③ Species have binomial names.
+= 物种用双名法命名。
+binomial nomenclature = 双名命名法
+属名在前、种加词在后，两部分缺一不可。
+④ The binomial distribution models coin tosses.
+= 二项分布可以刻画抛硬币。
+binomial distribution = 二项分布
+构词：bi- 二 + nomen 名
+
+bint
+核心：英式俚语，指女人，带轻蔑，是不礼貌的说法，知道意思就行，
+不要用。词源有意思：来自阿拉伯语的"女儿、女孩"，本是中性词，
+英军在中东驻扎时带回英国，进了英语之后才染上贬义——
+借词在移植过程中变味，这是个典型例子。
+① He called her a stupid bint.
+= 他骂她是个蠢女人。
+② Some bint at the desk took the message.
+= 前台哪个女的记了口信。
+说话人的口气就很轻慢。
+③ Don't call anyone that.
+= 别这么称呼任何人。
+这个词没有中性用法，任何场合都是冒犯。
+注意语用：明确的侮辱，不要用来说真人。
+注意来历：阿拉伯语本义是"女儿"，中性；
+经英军带回英语后才变成贬义。
+
+biobank
+核心：专门收存生物样本的库——血液、组织、DNA，连同捐献者的
+健康数据一起长期低温保存，供研究使用。它跟普通标本库的区别在于
+规模和配套数据：样本要能跟病历、随访信息对上，才有研究价值。
+因此隐私与知情同意是这个领域的核心争议。
+① The biobank stores half a million samples.
+= 那家生物样本库存了五十万份样本。
+② Researchers applied for biobank access.
+= 研究者申请了样本库的使用权限。
+biobank access = 样本库使用权限
+③ Consent rules govern biobank data.
+= 知情同意规则管着样本库数据。
+样本连着个人健康信息，所以管得严。
+构词：bio- 生命 + bank 库
+词族：
+biobanking = 生物样本库的建设与管理
+
+biobreak
+核心：美式办公室与会议里的委婉说法，指"上厕所的休息时间"。
+构词是 bio-（生理）加 break（休息），用一个技术味的词避开
+直说，常出现在远程会议和长时间培训里。语气轻松，
+但只用于同事之间的非正式场合。
+① Let's take a biobreak.
+= 咱们歇一下方便一下。
+take a biobreak = 中场去趟洗手间
+② We'll have a biobreak at eleven.
+= 十一点休息一下。
+③ He stepped out for a quick biobreak.
+= 他出去了一趟。
+注意语域：美式办公室用语，委婉且非正式。
+近义对照：
+biobreak = 方便一下（委婉，办公室用语）
+comfort break = 中场休息（英式，同样委婉）
+
+biochemical
+核心：形容词，指"生物化学的"——跟活体内发生的化学过程有关。
+也作名词，指生化制品或生化物质。构词是 bio-（生命）加 chemical
+（化学的）。它跟 chemical 的分界很清楚：加了 bio- 就限定在
+生命体内部，试管里配出来的反应不叫 biochemical。
+① Enzymes drive biochemical reactions.
+= 酶推动生化反应。
+biochemical reaction = 生化反应
+② The test measures biochemical markers.
+= 那项检查测的是生化指标。
+biochemical marker = 生化标志物
+③ The plant makes industrial biochemicals.
+= 那家厂生产工业用生化制品。
+biochemicals = 生化制品（名词，多用复数）
+构词：bio- 生命 + chemical 化学的
+词族：
+biochemistry = 生物化学
+biochemist = 生物化学家
+
+biochemist
+核心：研究生命体内化学过程的人——酶怎么催化、代谢怎么走、
+蛋白质怎么折叠都归他们管。它跟 chemist 的分工是研究对象：
+chemist 研究物质本身，biochemist 研究物质在活体里怎么反应。
+注意英式的 chemist 还有"药剂师、药店"的意思，biochemist 没有这一层。
+① She trained as a biochemist.
+= 她学的是生物化学。
+② Biochemists study enzyme activity.
+= 生化学家研究酶的活性。
+enzyme activity = 酶活性
+③ The lab hired two biochemists.
+= 那间实验室招了两名生化学家。
+注意别混：
+biochemist = 生物化学家
+chemist = 化学家；（英式）药剂师、药店
+词族：
+biochemistry = 生物化学
+
+biochemistry
+核心：研究生命体内化学过程的学科，介于生物学和化学之间：
+用化学的方法去解释生命现象。不可数。它也用来指某个具体生物体
+"体内的生化状况"——说 the patient's biochemistry，
+指的是这个人身上那套代谢与激素的实际情形。
+① She majored in biochemistry.
+= 她主修生物化学。
+指学科，不可数。
+② Biochemistry links biology and chemistry.
+= 生物化学把生物学和化学连起来。
+③ The drug alters brain biochemistry.
+= 那种药会改变脑内的生化状态。
+brain biochemistry = 脑内生化状况
+这一层指具体个体的体内情形，不指学科。
+④ His biochemistry returned to normal.
+= 他的各项生化指标恢复了正常。
+构词：bio- 生命 + chemistry 化学
+词族：
+biochemical = 生化的
+biochemist = 生化学家
+
+bioconversion
+核心：技术用语，指靠生物的力量把一种物质转成另一种——用微生物、
+酶或植物把有机废料变成燃料、饲料或化工原料。它跟单纯的化学转化
+的分别就在这个"生物"：干活的是活体或活体产生的酶，
+不是高温高压。生物燃料产业的核心工艺就是它。
+① Bioconversion turns waste into fuel.
+= 生物转化把废料变成燃料。
+② The plant uses bacterial bioconversion.
+= 那家厂用的是细菌转化工艺。
+bacterial bioconversion = 细菌生物转化
+③ Bioconversion rates depend on temperature.
+= 生物转化的效率取决于温度。
+活体在干活，所以对温度敏感。
+构词：bio- 生命 + conversion 转化
+词族：
+biofuel = 生物燃料
+biodegradable = 可生物降解的
+
+biodata
+核心：指一个人的"个人背景资料"——学历、工作经历、家庭情况这类
+成套信息。在南亚以外的英语里它主要出现在人力资源和心理测量的
+语境里，指用背景资料预测工作表现的那套方法。
+不可数，形式上是复数但当单数用。
+① Send your biodata with the form.
+= 请连同表格附上个人资料。
+不可数，不加冠词。
+② The firm screens biodata before interviews.
+= 那家公司面试前先筛背景资料。
+③ Biodata is used to predict job performance.
+= 背景资料被用来预测工作表现。
+biodata inventory = 背景资料量表（人才测评工具）
+谓语用单数。
+构词：bio- 生平 + data 资料
+近义对照：
+biodata = 个人背景资料（成套信息）
+résumé = 简历（本人撰写，自陈经历）
+
+biodefence
+核心：指防生物武器和人为疫情的整套防备——监测预警、疫苗储备、
+实验室安保。手段跟公共卫生防疫一样，分别在假想对手是人。不可数。
+① The country expanded its biodefence programme.
+= 那个国家扩大了生物防御计划。
+biodefence programme = 生物防御计划
+② Biodefence research is tightly controlled.
+= 生物防御研究管得很严。
+研究要动用真的病原体，实验室安保本身就是防御的一环。
+③ Vaccines are stockpiled for biodefence.
+= 疫苗被储备起来以备生物防御之需。
+stockpile = 战略储备
+构词：bio- 生物 + defence 防御
+注意拼写：
+biodefence = 生物防御（英式）
+biodefense = 生物防御（美式）
+
+biodegradable
+核心：说一样东西能被细菌真菌分解掉，烂完回到自然里。反面是塑料
+玻璃那种埋着不烂的，否定式 not biodegradable 用得很多。
+① Use biodegradable packaging.
+= 用可降解的包装。
+biodegradable packaging = 可降解包装
+② The bags are fully biodegradable.
+= 那些袋子完全可以降解。
+作表语常跟 fully、100% 连用。
+③ The detergent is biodegradable.
+= 那种洗涤剂可以自然降解。
+④ Glass is not biodegradable.
+= 玻璃不会自然降解。
+玻璃可以回收，但微生物拿它没办法，两件事别混。
+构词：bio- 生物 + degradable 可降解的
+注意别混：
+biodegradable = 可被微生物分解的
+compostable = 可堆肥的（还须限期内分解、残渣无毒）
+recyclable = 可回收的（靠人工再造，跟会不会烂无关）
+
+biodegrade
+核心：指有机物被微生物分解掉，回到自然循环。要害在"谁来分解"：
+靠活的微生物才算，日晒风吹碎成小块不算。多作不及物。
+① Paper biodegrades quickly.
+= 纸很快就烂掉了。
+不及物，主语是被分解的东西。
+② Plastic takes centuries to biodegrade.
+= 塑料要几百年才降解得掉。
+takes centuries to biodegrade = 要几百年才降解
+③ The waste biodegrades into harmless compounds.
+= 那些废料分解成无害的化合物。
+biodegrade into = 降解成某种物质
+构词：bio- 生物 + degrade 降解
+注意别混：
+biodegrade = 被微生物分解（分子结构真的变了）
+disintegrate = 碎成小块（结构没变）
+词族：
+biodegradation = 生物降解（那个过程）
+
+biodiesel
+核心：用植物油或动物脂肪做的柴油替代燃料。不可数。按掺混比例标号，
+B20 是掺两成，B100 才是纯的。
+① The bus runs on biodiesel.
+= 那辆公交车烧生物柴油。
+run on = 以某种燃料驱动
+② Biodiesel is made from vegetable oil.
+= 生物柴油用植物油做。
+be made from = 由某原料制成
+③ Used cooking oil can be turned into biodiesel.
+= 废食用油可以变成生物柴油。
+餐馆废油是主要原料，顺带解决了废油乱排。
+④ B20 contains twenty per cent biodiesel.
+= B20 含两成生物柴油。
+构词：bio- 生物 + diesel 柴油
+近义对照：
+biodiesel = 生物柴油（替柴油）
+bioethanol = 生物乙醇（替汽油）
+
+biodiversity
+核心：一个地方生物种类的丰富程度，也含种内的基因差异。不可数，
+多跟 loss、hotspot、conservation 这几个词搭配出现。
+① The reef has extraordinary biodiversity.
+= 那片珊瑚礁生物多样性极高。
+不可数，不加冠词。
+② Deforestation causes biodiversity loss.
+= 砍伐森林造成生物多样性丧失。
+biodiversity loss = 生物多样性丧失
+③ The island is a biodiversity hotspot.
+= 那座岛是生物多样性热点地区。
+biodiversity hotspot = 生物多样性热点地区
+指物种极丰富又极受威胁的地方，两个条件缺一不算。
+④ Monocultures reduce biodiversity.
+= 单一种植会降低生物多样性。
+构词：bio- 生物 + diversity 多样性
+词族：
+biodiverse = 生物多样性丰富的
