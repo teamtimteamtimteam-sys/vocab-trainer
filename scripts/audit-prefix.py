@@ -21,6 +21,12 @@ from collections import Counter
 # 有了它，前沿处的漏段才查得出来（a- 段 26 个前缀全都有词）。
 EXPECT = {
     'a': ['a'+c for c in string.ascii_lowercase],
+    # b 的 13 个空段已逐条核对过（2026-09-04），确实无词可收，不是漏收：
+    #   bd bg bj bk bv bx —— 词头清单里本来就是 0 条
+    #   bb bf bm bq bs bt —— 清单里只有全大写缩写（BBC、BFF、BMI、Bq、BSc、BTW），
+    #                        按收词边界「全大写缩写不收」剔除后即空
+    #   bw               —— 清单里只有 bwana 一条，东非英语，按国别变体通则剔除
+    'b': ['ba','bc','be','bh','bi','bl','bn','bo','bp','br','bu','by'],
 }
 
 KEY = sort_key   # 共用排序键，见 scripts/wordkey.py
