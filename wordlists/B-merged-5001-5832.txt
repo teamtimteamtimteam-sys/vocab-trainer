@@ -17658,6 +17658,12 @@ a driving offence = 驾驶违法行为
 a driving test = 路考
 a driving instructor = 驾驶教练
 作定语的这一族都拿现在分词打头，说跟开车这件事有关的人与事。
+㉛ The driver pulled over without signalling.
+= 司机没打灯就靠边停了。
+a driver = 司机、驾车的人
+也指起推动作用的因素：the main driver of growth 是拉动增长的主要因素。
+计算机里另指驱动程序：a printer driver 是打印机驱动。
+美式说 in the driver's seat，跟英式的 in the driving seat 同义。
 构词：古英语 drifan 驱赶
 注意三态：drive / drove / driven
 注意别混：
