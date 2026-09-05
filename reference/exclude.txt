@@ -300,3 +300,5 @@ coldie       # 澳新英语，一瓶冰啤
 cocoyam      # 西非英语，芋类
 collectorate # 印度英语，县长辖区与办公处
 colleen      # 爱尔兰英语，姑娘
+cooee        # 澳新：招呼人的喊声，词头本身属该变体
+cooldrink    # 南非英语：汽水
