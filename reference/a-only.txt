@@ -1,0 +1,50 @@
+# A 教而 B 有意不收的搭配。audit-ab 跳过这里列的条目。
+#
+# 由来（2026-09-05）：我拿 A 词表当待办清单，把 audit-ab 报的 132 条
+# 缺口照单全收，塞进了 B。用户当场指出：A 是初级词典，B 是高级词典，
+# 拿初级当基准去补高级是不对的。复查属实，而且比批评更严重 ——
+# 有几条根本是重复已有义项（bowl 本来就有「a bowl of 一碗的量」，
+# 我又加了 a bowl of soup 和 a bowl of noodles）。29 条已删除。
+#
+# 判据：符合下面任一条就不收进 B。
+#   · 只是本词条某个已有义项的一次举例（a bowl of soup 之于 a bowl of）
+#   · 形容词加名词、动词加名词，字面拼起来就是全部意思，
+#     不含任何搭配或习语信息（an older brother、a birthday cake）
+#   · A 为了给初学者搭脚手架而设的句型，不是词典义项（sit on a chair）
+#
+# 反过来，下面这些从 A 补进 B 是对的，因为它们在高级词典里也该有：
+#   free of charge、work of art、get something off one's chest、
+#   put up for auction、behave oneself、brick by brick、
+#   thanks a bunch、bury oneself in、hidden agenda、bow and arrow
+#
+# 格式：词条 <TAB> 搭配
+
+among	among many people
+angle	a sharp angle
+animal	a wild animal
+chair	sit in an armchair
+atmosphere	a relaxed atmosphere
+bag	a shopping bag
+beach	at the beach
+birthday	a birthday cake
+birthday	a birthday present
+bond	a family bond
+bowl	a bowl of soup
+bowl	a bowl of noodles
+breakfast	have breakfast
+breakfast	make breakfast
+breakfast	skip breakfast
+brother	an older brother
+brother	a younger brother
+bubble	a soap bubble
+butter	put butter on
+candle	a birthday candle
+carpet	vacuum the carpet
+celebrate	celebrate an anniversary
+chair	sit on a chair
+champion	champion of the world
+chapter	the opening chapter
+chapter	the final chapter
+cheese	a piece of cheese
+climb	climb up
+computer	work on a computer

@@ -68,6 +68,18 @@ def present(t, body, allB):
 def main(argv):
     seg = argv[0].lower() if argv else None
     A, B = entries('wordlists/A-*.txt'), entries('wordlists/B-*.txt')
+    # A 是初级词典，它的搭配不能照单全收 —— 见 reference/a-only.txt 表头。
+    skip = set()
+    try:
+        for l in io.open('reference/a-only.txt', encoding='utf-8'):
+            l = l.split('#')[0].strip()
+            if '\t' in l:
+                a, b = l.split('\t', 1)
+                # 跟下面比对时一样剥掉冠词，否则表里写 a sharp angle
+                # 而脚本手里是 sharp angle，对不上（2026-09-05 踩过）
+                skip.add((a.strip(), re.sub(r'^(a|an|the|to) ', '', fold(b))))
+    except IOError:
+        pass
     shared = sorted(set(A) & set(B))
     if seg: shared = [h for h in shared if h.lower().startswith(seg)]
     gaps = []; checked = 0
@@ -85,6 +97,7 @@ def main(argv):
             # A 里常拿同义词作注解（abandon 条下的 leave），那不是 B 的漏洞。
             if stem and stem not in t.replace(' ', ''): continue
             if t in bheads: continue          # 它自己就是 B 的词头
+            if (h, t) in skip: continue       # 有意不收，见 a-only.txt
             checked += 1
             if not present(t, body, allB):
                 gaps.append((h, t))

@@ -18,11 +18,10 @@ scripts/audit-idioms.py 里存着清单，写完一段大词就往 CHECK 补一�
 crack down on、crack up、cross one's mind、cut back、cut it out、
 a cut above、cry over spilt milk 之类。
 
-【A 与 B 的用法缺口已清零（2026-09-05），audit-ab 已挂进 pre-commit】
-首跑 132 条（a 28、b 30、c 74），全部补完。以后不许回潮。
-但要记住这把尺子只查得出「A 教过而 B 没有」的 —— A 没收的词
-（绝大多数）依然没有尺子，只能靠人抽查。corner 漏掉的四个习语
-就属于这一类，是手工翻出来的。
+【A 与 B 的一致性缺口已清零，但别再拿 A 当标尺（2026-09-05）】
+首跑 132 条我照单全收，被用户纠正：A 是初级词典，不能当高级词典的基准。
+29 条初学者脚手架已删回去，判断记在 reference/a-only.txt。
+audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
 B 词表 5250 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
