@@ -1,0 +1,503 @@
+concatenate
+核心：把几段东西一个接一个连成一串，编程里最常用：把
+两个字符串拼起来。名词 concatenation，也用来说一连串
+接连发生的事。正式词，及物。
+① The function concatenates two strings.
+= 那个函数把两个字符串拼起来。
+concatenate = 串接
+② Concatenate the columns into one field.
+= 把那几列拼成一个字段。
+concatenate into = 拼接成
+③ A concatenation of errors caused it.
+= 一连串错误造成了那件事。
+a concatenation of = 一连串接连发生的……
+构词：拉丁语 catena 锁链，本义是把链子接起来
+注意语域：正式词，编程里高频。
+
+concave
+核心：凹的：表面像碗内壁那样往里弯。光学与几何里常用，
+名词 concavity。凸的那一边是另一个词。
+① The mirror is concave.
+= 那面镜子是凹的。
+concave = 凹的
+② A concave lens spreads the light.
+= 凹透镜把光发散开。
+a concave lens = 凹透镜
+③ The concavity holds water.
+= 那个凹处能存水。
+concavity = 凹处；凹度
+构词：拉丁语 concavus 中空的
+注意别混：凹是这个词，凸的那个词以另一个音节开头。
+
+conceal
+核心：藏起来、不让人知道：藏东西也藏事实与感情，比
+hide 正式。介词用 from。名词 concealment，法律里
+a concealed weapon 是暗藏的武器。及物。
+① She concealed the letter.
+= 她把那封信藏了。
+conceal = 藏起
+② He concealed his disappointment.
+= 他把失望掩住了。
+conceal one's feelings = 掩饰情绪
+③ Nothing was concealed from her.
+= 什么都没瞒着她。
+conceal from = 对……隐瞒
+④ He carried a concealed weapon.
+= 他身上藏着武器。
+a concealed weapon = 暗藏的武器
+⑤ Concealment of assets is an offence.
+= 隐匿资产是违法的。
+concealment = 隐匿
+⑥ She dabbed concealer under her eyes.
+= 她在眼下点了遮瑕膏。
+concealer = 遮瑕膏
+化妆品名，用的就是这个动词「遮起来」的本义。
+构词：拉丁语 concelare 全部盖住
+注意语域：比 hide 正式。
+
+concede
+核心：三支。一是承认：不情愿地认了某个说法；二是认输：
+比赛或选举里承认输了；三是让出、丢掉：球赛里丢球就用
+这个词。及物。
+① He conceded that he was wrong.
+= 他承认自己错了。
+concede that = 承认
+② She conceded the election.
+= 她承认败选了。
+concede an election = 承认败选
+③ They conceded two goals.
+= 他们丢了两个球。
+concede a goal = 丢一个球
+④ The company conceded nothing.
+= 那家公司一步没让。
+concede = 让步
+构词：拉丁语 concedere 让开
+注意用法：承认那一支多带不情愿的意味。
+
+conceit
+核心：两支离得很远。一是自负：觉得自己了不起，贬义，
+形容词 conceited；二是文学术语：牵强而巧妙的比喻，
+玄学派诗歌里那种。可数不可数都行。
+① His conceit is unbearable.
+= 他那份自负让人受不了。
+conceit = 自负
+② She is vain and conceited.
+= 她又虚荣又自负。
+conceited = 自负的
+③ The poem turns on a single conceit.
+= 那首诗全靠一个奇喻撑着。
+a conceit = 奇特的比喻
+④ He smiled conceitedly.
+= 他自负地笑了笑。
+conceitedly = 自负地
+是 conceited 的副词，用得不多，多改说带自满神气地做某事。
+构词：conceive 构想 的旧名词形式
+注意分工：日常义是自负，文学义是奇喻。
+
+conceivable
+核心：想得到的、有可能的：常跟 every 和最高级连用，
+every conceivable 是能想到的每一种。副词 conceivably
+是「说不定」。
+① It is just conceivable that he forgot.
+= 他忘了这事也不是不可能。
+it is conceivable that = ……也不是不可能
+② They tried every conceivable angle.
+= 能想到的路子他们都试了。
+every conceivable = 能想到的每一种
+③ She could conceivably win.
+= 她说不定真能赢。
+conceivably = 说不定
+构词：conceive 想到 + -able
+注意搭配：常跟 every 与最高级连用。
+
+conceive
+核心：两支。一是构想出来：想出主意、拟出计划，常用被动
+be conceived as；二是怀上孩子。conceive of 是「设想」，
+多用于否定句。
+① She conceived the idea in prison.
+= 那个主意是她在狱中想出来的。
+conceive an idea = 想出主意
+② The project was conceived as a stopgap.
+= 那个项目当初是当权宜之计设计的。
+be conceived as = 当初设想为
+③ I cannot conceive of living there.
+= 我没法设想住在那里。
+conceive of = 设想
+④ She conceived at forty.
+= 她四十岁怀上的。
+conceive = 怀孕
+构词：拉丁语 concipere 拿住、孕育
+注意搭配：设想那支带 of，多用于否定句。
+
+concentrate
+核心：三支。一是集中注意力，不及物，介词用 on；二是把
+力量或资源集中到一处，及物；三是浓缩，名词也指浓缩液。
+形容词 concentrated 是浓缩的、也说火力集中的；名词
+concentration 一是专注，二是浓度。
+① I cannot concentrate.
+= 我没法集中精神。
+concentrate = 集中注意力
+② Concentrate on the main point.
+= 把注意力放在要点上。
+concentrate on = 专注于
+③ They concentrated their forces.
+= 他们把兵力集中了。
+concentrate forces = 集中兵力
+④ Add water to the concentrate.
+= 往浓缩液里兑水。
+a concentrate = 浓缩液
+⑤ Use concentrated orange juice.
+= 用浓缩橙汁。
+concentrated = 浓缩的
+⑥ It takes concentration.
+= 那要靠专注。
+concentration = 专注
+⑦ The concentration of salt rose.
+= 盐的浓度上去了。
+concentration = 浓度
+构词：拉丁语 con- 共 + centrum 中心
+注意搭配：说专注用 on。
+
+concentric
+核心：同心的：几个圆或几层结构共用一个圆心，
+concentric circles 是同心圆。副词 concentrically。
+① Draw two concentric circles.
+= 画两个同心圆。
+concentric circles = 同心圆
+② The castle has concentric walls.
+= 那座城堡的城墙是一圈套一圈的。
+concentric = 同心的
+③ Ripples spread out concentrically.
+= 涟漪一圈圈同心散开。
+concentrically = 同心地
+构词：con- 共 + centre 中心
+注意来历：几何上「不同心」那个词，就是「古怪」一词的本义来路。
+
+concept
+核心：概念：一个成形的想法，比 idea 更成体系。商业与
+设计里还指构想：a concept car 是概念车，餐厅换套做法
+也说换了个 concept。可数。
+① The concept is simple.
+= 那个概念很简单。
+a concept = 概念
+② She grasped the concept quickly.
+= 她很快抓住了那个概念。
+grasp a concept = 抓住概念
+③ They unveiled a concept car.
+= 他们发布了一款概念车。
+a concept car = 概念车
+④ The restaurant has a new concept.
+= 那家餐厅换了套经营构想。
+a concept = 经营构想
+⑤ They have no concept of risk.
+= 他们对风险毫无概念。
+have no concept of = 对……毫无概念
+构词：拉丁语 conceptum 所构想之物
+注意分工：比 idea 更成体系。
+
+conception
+核心：三支，跟动词的两支一一对应。一是构想、认识：
+have no conception of 是对某事毫无概念；二是构思成形
+的那一刻；三是受孕。可数不可数都行。
+① He has no conception of the cost.
+= 他对那笔花费毫无概念。
+have no conception of = 对……毫无概念
+② The plan was flawed from conception.
+= 那个方案打构想之初就有毛病。
+from conception = 从构想之初
+③ Conception occurs in the tube.
+= 受孕发生在输卵管里。
+conception = 受孕
+构词：conceive 构想、怀孕 + -tion
+注意用法：跟动词的两支一一对应。
+
+conceptual
+核心：概念上的：属于想法与框架这一层，跟具体实施相对。
+艺术里 conceptual art 是观念艺术。副词 conceptually，
+动词 conceptualize 是把想法理出个框架来。
+① The problem is conceptual, not technical.
+= 那是概念上的问题，不是技术问题。
+conceptual = 概念上的
+② She works in conceptual art.
+= 她做观念艺术。
+conceptual art = 观念艺术
+③ Conceptually the two are the same.
+= 从概念上说那两个是一回事。
+conceptually = 在概念层面上
+④ He conceptualized the whole system.
+= 整套系统的框架是他理出来的。
+conceptualize = 把想法理成框架
+⑤ Conceptualism holds that the idea matters more than the object.
+= 观念主义主张想法比作品本身重要。
+conceptualism = 观念主义；a conceptualist = 观念主义者
+艺术上指这一条的观念艺术那一派；哲学上另指关于共相的一种立场。
+构词：concept 概念 + -ual
+注意语域：偏学术与设计行业。
+
+concern
+核心：几支。名词一是担心、关切；二是该管的事；三是公司
+企业，a going concern 是仍在运营的生意。动词一是与……
+有关，二是使担心。形容词 concerned 放名词前是担心的，
+放名词后是相关的。介词 concerning 是关于。
+① There is growing concern about safety.
+= 对安全的担心在增加。
+concern about = 对……的担心
+② That is not my concern.
+= 那不归我管。
+one's concern = 某人该管的事
+③ The firm is a going concern.
+= 那家公司还在正常运营。
+a going concern = 正常运营的生意
+④ The report concerns the flood.
+= 那份报告讲的是那场洪水。
+concern = 与……有关
+⑤ His silence concerns me.
+= 他不吭声让我担心。
+concern somebody = 使某人担心
+⑥ Concerned parents packed the hall.
+= 忧心忡忡的家长挤满了大厅。
+concerned = 担心的
+⑦ Inform all the people concerned.
+= 通知所有相关的人。
+the people concerned = 相关的人
+⑧ We had a letter concerning the rent.
+= 我们收到一封关于租金的信。
+concerning = 关于
+⑨ Parents are concerned about the delay.
+= 家长对那次延误感到担心。
+be concerned about = 对……担心
+构词：拉丁语 concernere 关涉
+注意用法：concerned 放名词前是担心，放名词后是相关。
+
+concert
+核心：名词是音乐会。另有一支书面义「协同」：in concert
+with 是与……联手。形容词 concerted 是齐心协力的，
+a concerted effort 是一番合力。可数。
+① They went to a concert.
+= 他们去听音乐会了。
+a concert = 音乐会
+② The band played a concert hall.
+= 那支乐队在音乐厅演出。
+a concert hall = 音乐厅
+③ They acted in concert with the union.
+= 他们跟工会一致行动。
+in concert with = 与……联手
+④ It took a concerted effort.
+= 那是一番合力才办成的。
+a concerted effort = 齐心协力的努力
+⑤ The concert band rehearses on Thursdays.
+= 那支管乐团周四排练。
+a concert band = 音乐会管乐团（管乐加打击乐，没有弦乐）
+跟边走边奏的军乐队分别在于坐着演奏、曲目也更正式。
+⑥ The hall has a nine-foot concert grand.
+= 那个厅里有台九尺演奏会三角钢琴。
+a concert grand = 音乐会用的大型三角钢琴
+三角钢琴里最大的一号，是为大厅的音量做的。
+⑦ They put on a concert party for the troops.
+= 他们给部队办了场巡演。
+a concert party = 巡回演出的歌舞杂演班子
+英式旧词，多指两次大战期间去部队慰问演出的那种班子。
+⑧ The programme opened with a sinfonia concertante.
+= 节目以一首协奏交响曲开场。
+concertante = 带独奏声部的（乐曲）
+音乐术语，从意大利语来；那个体裁是几件独奏乐器加一支乐队。
+⑨ Concertgoers filled the aisles.
+= 听音乐会的人把过道都占满了。
+a concertgoer = 常听音乐会的人；a concertmaster = 乐队首席（第一小提琴手）
+第二个是美式说法，英式管这个位置叫 leader。
+构词：意大利语 concerto 协同演奏
+注意语域：协同那一支偏书面。
+
+concertina
+核心：手风琴的一种小型近亲：六角形，两手往外拉，按钮
+比键盘那种少。动词是像它那样被压扁折成一叠，多用在说
+撞车。可数。
+① He played the concertina.
+= 他拉六角手风琴。
+a concertina = 六角手风琴
+② The carriages concertinaed on impact.
+= 撞击时车厢挤成了一叠。
+concertina = 压扁折叠成一叠
+③ Concertina wire tops the fence.
+= 围栏上盘着刀片铁丝。
+concertina wire = 盘状刀片铁丝网
+构词：concert 音乐会 + 意大利语式的后缀
+注意用法：动词义多用在讲撞车的句子里。
+
+concerto
+核心：协奏曲：一件独奏乐器跟乐队一起演的大型作品，
+通常三个乐章。复数写 concertos 也写 concerti。可数。
+① She recorded the violin concerto.
+= 她录了那首小提琴协奏曲。
+a violin concerto = 小提琴协奏曲
+② The concerto has three movements.
+= 那首协奏曲有三个乐章。
+a movement = 乐章
+③ He wrote five piano concertos.
+= 他写过五首钢琴协奏曲。
+a piano concerto = 钢琴协奏曲
+构词：意大利语 concerto 协同演奏
+注意复数：concertos 与 concerti 都对。
+
+concession
+核心：几支。一是让步：谈判里松的口；二是特许经营权：
+在别人场地上开店卖东西的权利，拿到的人叫
+concessionaire；三是英式的优惠票价，形容词
+concessionary。可数。
+① Neither side made a concession.
+= 两边都没让步。
+make a concession = 作出让步
+② The airport granted a concession.
+= 机场给了一份特许经营权。
+grant a concession = 授予特许经营权
+③ The concessionaire runs three outlets.
+= 那家特许经营商开了三个店。
+a concessionaire = 特许经营商
+④ Concessions apply to students.
+= 学生可享优惠票价。
+concessions = 优惠票价（英式）
+⑤ A concessionary fare is available.
+= 有优惠票价可买。
+a concessionary fare = 优惠票价
+构词：concede 让步 + -ion
+注意用法：优惠票价那一支是英式。
+
+concessive
+核心：语法术语，表示让步的。although、even though、despite
+引出的从句叫 concessive clause，讲的是「虽然……但是」那层
+关系。
+① Although introduces a concessive clause.
+= 那个连词引出让步从句。
+a concessive clause = 让步从句
+② Concessive conjunctions link contrasting ideas.
+= 让步连词把相反的两层意思连起来。
+a concessive conjunction = 让步连词
+③ Despite has a concessive force.
+= 那个介词带让步意味。
+concessive force = 让步意味
+构词：concession 让步 + -ive
+注意语域：语法术语。
+
+conch
+核心：海螺：一种大型海螺的壳，吹起来能当号角，加勒比
+一带也吃它的肉。复数写 conchs 也写 conches。可数。
+① He blew the conch.
+= 他吹响了海螺号。
+blow a conch = 吹海螺号
+② Conch fritters are a local dish.
+= 海螺饼是当地的一道菜。
+a conch fritter = 海螺饼
+③ Divers bring up conch from the shallows.
+= 潜水的人从浅水里捞海螺。
+bring up conch = 捞海螺
+构词：希腊语 konche 贝壳
+注意复数：conchs 与 conches 都对。
+
+conchie
+核心：英式旧俚语，指出于良心拒绝服兵役的人。它是 conscientious
+objector 取头一个音节加 -ie 造出来的，跟表示海螺的那个同头词毫无
+关系。两次世界大战期间用得最多，当年是句蔑称；今天只在讲那段历史
+时出现，语气已经中性得多。可数。
+① He was branded a conchie in 1916.
+= 一九一六年他被扣上了拒服兵役的帽子。
+a conchie = 出于良心拒服兵役的人（英式旧俚语）
+当年说这话的人是在骂对方懦弱，不是中性描述。
+② His grandfather had been a conchie.
+= 他祖父当年是拒服兵役者。
+be a conchie = 做拒服兵役者
+今天这么用已经不带贬义，多出现在回忆与史书里。
+③ Conchies were often sent to work on the land instead.
+= 拒服兵役的人常被改派去种地。
+conchies = 那一批拒服兵役的人
+不等于免役：得去做替代性的劳动，多是农活或救护工作。
+构词：conscientious objector 截头加 -ie
+注意语域：当年是蔑称，今天讲历史才用，不要拿来说人。
+
+concierge
+核心：两支。一是法国式公寓楼里的门房，住在底层、看门
+收信；二是酒店里替客人订票订位、打点杂事的礼宾员，
+今天还引申出 concierge service 这类高端代办服务。可数。
+① The concierge took the parcel.
+= 门房收下了包裹。
+a concierge = 门房
+② Ask the concierge for a table.
+= 让礼宾员帮忙订个位子。
+a concierge = 酒店礼宾员
+③ The bank offers a concierge service.
+= 那家银行提供代办服务。
+a concierge service = 高端代办服务
+构词：法语 concierge 看门人
+注意用法：酒店那一支今天最常见。
+
+conciliate
+核心：安抚、调停：把火气大的人劝下来，或在两方之间说和。
+名词 conciliation 是调解，形容词 conciliatory 是息事宁人
+的、想缓和气氛的。正式词，劳资纠纷里常见。
+① He tried to conciliate the strikers.
+= 他想把罢工的人安抚下来。
+conciliate = 安抚
+② The service offers conciliation.
+= 那个机构提供调解。
+conciliation = 调解
+③ She struck a conciliatory tone.
+= 她的口气带着缓和的意思。
+a conciliatory tone = 缓和的口气
+④ A neutral conciliator chaired the talks.
+= 一位中立的调解人主持了会谈。
+a conciliator = 调解人
+构词：拉丁语 conciliare 拉到一起
+注意语域：正式词，劳资纠纷里常见。
+
+concise
+核心：简明的：话不多而意思到位，重点在「删干净了」。
+跟 short 的分工：short 只说长度，这个词带褒义。副词
+concisely，名词 conciseness。
+① Keep the summary concise.
+= 摘要写简明些。
+concise = 简明的
+② It is a concise account.
+= 那是份简明的记述。
+a concise account = 简明的记述
+③ She put it concisely.
+= 她说得很简练。
+concisely = 简练地
+④ Conciseness matters in a telegram.
+= 电报讲究的就是简。
+conciseness = 简练
+构词：拉丁语 concidere 切干净
+注意分工：short 只说长度，这个词带褒义。
+
+conclave
+核心：闭门会议：一小群人关起门来议事，最有名的是天主教
+选教宗的枢机团会议。也泛指任何关起门来的小圈子会议。
+可数。
+① The cardinals entered conclave.
+= 枢机们进入了闭门选举。
+enter conclave = 进入闭门会议
+② A conclave of editors met upstairs.
+= 一小群编辑在楼上闭门开会。
+a conclave of = 一小群……的闭门会议
+③ White smoke ends the conclave.
+= 白烟一起，闭门选举就结束了。
+end the conclave = 结束闭门选举
+构词：拉丁语 con- 共 + clavis 钥匙，本义是上了锁的屋子
+注意来历：本义就是锁上门的那间屋子。
+
+conclude
+核心：三支。一是断定：根据证据得出结论，接 that 从句；
+二是结束：正式地把会议或讲话收尾；三是缔结：谈成协议
+或条约。三支都偏正式。
+① Police concluded that it was an accident.
+= 警方断定那是意外。
+conclude that = 断定
+② The meeting concluded at six.
+= 会议六点结束。
+conclude = 结束
+③ She concluded her speech with a joke.
+= 她用个笑话收了尾。
+conclude with = 以……收尾
+④ The two sides concluded a treaty.
+= 双方缔结了条约。
+conclude a treaty = 缔结条约
+构词：拉丁语 concludere 关上
+注意语域：三支都偏正式。
