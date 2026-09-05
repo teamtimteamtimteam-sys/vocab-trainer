@@ -28,10 +28,13 @@ cornice / cornrows / cornucopia 全都以 corn 开头，写 corn 条时
 只能提那些真正并进来的（cornbread、corncob、cornflakes…），
 其余必须各自立条。
 
-【交付文件：B 已合成单一文件 B-merged-0001-5000.txt（2026-09-05）】
-用户要求 5000 条合成一个文件传 iPad，不再拆成两半。
-分批文件改动之后必须跑 `python3 scripts/merge-wordlist.py B 5000` 重新生成，
-否则合并文件会跟分批文件对不上。
+【交付文件：每 5000 条一个（用户 2026-09-05 改口）】
+不再合成单一大文件。跑 `python3 scripts/merge-wordlist.py B 5000`：
+  B-merged-0001-5000.txt   5000 条  3.40 MB
+  B-merged-5001-5137.txt    137 条  0.10 MB
+写到 10000 时自然切出第三个。iPad 上前一个不用重传。
+分批文件一改动就要重跑，删旧文件用 rm 不要用 git rm。
+
 
 【2026-09-05 闸门加到五件套，第五道是 audit-padding】
 用户质疑批量写会不会掉质量，量下来发现真问题不是批量，是冷僻词：
