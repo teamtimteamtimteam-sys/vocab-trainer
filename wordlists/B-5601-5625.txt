@@ -472,12 +472,10 @@ at a crossroads 是走到了岔路口，得挑一条走。单复数同形，
 ① Turn left at the crossroads.
 = 在十字路口左转。
 a crossroads = 十字路口
+crossroads = 十字路口（单复数同形）
 ② The company is at a crossroads.
 = 那家公司走到了抉择关头。
 at a crossroads = 在抉择关头
-③ Two crossroads lie ahead.
-= 前面有两个十字路口。
-crossroads = 十字路口（单复数同形）
 构词：cross 交叉 + road 路
 注意用法：单复数同形，指一个路口也带 s。
 

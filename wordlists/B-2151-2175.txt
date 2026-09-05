@@ -119,7 +119,7 @@ Basotho
 the Basotho = 莱索托人（全体）
 ② Two Basotho joined the delegation.
 = 两名莱索托人加入了代表团。
-a Basotho = 莱索托人
+two Basotho = 两名莱索托人（计数时仍用复数形，没有 a Basotho 这种说法）
 构词：班图语的复数前缀 ba- 加族名
 注意构词：单数 Mosotho、复数 Basotho、语言 Sesotho，三个前缀分工。
 
@@ -488,7 +488,7 @@ Batswana
 the Batswana = 博茨瓦纳人（全体）
 ② Batswana make up most of the workforce.
 = 劳动力里多数是博茨瓦纳人。
-Batswana = 博茨瓦纳人
+Batswana = 博茨瓦纳人（不带定冠词，泛指其中若干人）
 构词：班图语的复数前缀 ba- 加族名
 注意构词：单数 Motswana，语言 Setswana，形容词 Botswanan。
 
