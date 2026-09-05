@@ -53,22 +53,17 @@ keep silence after compline = 终祷后守静默
 comply
 核心：依从：按规定、命令或要求去做。介词只用 with，
 这是最要紧的一点。不及物，正式词。
-① You must comply with the order.
-= 你必须服从那道命令。
+① You must comply with the order and with every regulation it cites.
+= 你必须遵从这道命令，以及它援引的每一条规定。
 comply with = 遵从
-② Few firms complied.
-= 照办的公司没几家。
-comply = 照办
-③ Failure to comply carries a fine.
-= 不照办要罚款。
-failure to comply = 未照办
-④ The building complies with fire regulations.
-= 那栋楼符合消防规定。
 comply with regulations = 符合规定
-⑤ She refused to comply.
-= 她拒不服从。
+② Few firms complied and none of them refused to comply openly.
+= 照办的公司很少，却没有一家公开拒不服从。
+comply = 照办
 refuse to comply = 拒不服从
-公文里最常见的是这个词的否定形式与名词化说法。
+③ Failure to comply carries a fine that nobody has ever been charged.
+= 不照办要罚款，可从没有人真被罚过。
+failure to comply = 未照办
 构词：拉丁语 complere 完成
 注意搭配：介词只用 with。
 
@@ -387,20 +382,16 @@ comprise
 核心：由……组成：整体作主语在前，部分在后。反过来说
 要换成 make up。被动的 be comprised of 用的人很多，
 但一直被认为不规范。及物。
-① The house comprises six rooms.
-= 那栋房子由六个房间组成。
+① The house comprises six rooms and the set comprises three volumes.
+= 这栋房子有六个房间，这套书含三卷。
 comprise = 由……组成
-② Women comprise half the staff.
-= 女性占员工的一半。
-comprise = 构成、占
-③ The set comprises three volumes.
-= 那套书含三册。
 comprise = 包含
-④ These islands comprise the archipelago.
-= 这几个岛构成那片群岛。
+② Women comprise half the staff and these islands comprise the archipelago.
+= 女性占员工的一半；这些岛屿构成了这个群岛。
+comprise = 构成、占
 comprise = 构成（整体）
-⑤ The committee is comprised of experts.
-= 那个委员会由专家组成。
+③ The committee is comprised of experts, which purists will tell you is wrong.
+= 委员会由专家组成——纯粹主义者会说这个说法不规范。
 be comprised of = 由……组成（常见但被认为不规范）
 这个被动说法在实际文字里到处都是，考试与正式写作里还是避开。
 构词：法语 compris 被包含的
