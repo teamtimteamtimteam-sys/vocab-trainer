@@ -69,6 +69,12 @@ CHECK = {
             'on credit', 'in credit'],
  'creep': ['give somebody the creeps', 'creep up on'],
  'crest': ['crestfallen', 'the crest of a wave'],
+ 'cricket': ['not cricket'],
+ 'crime': ['commit a crime', 'organized crime'],
+ 'critical': ['be critical of', 'critical thinking', 'in a critical condition'],
+ 'crocodile': ['crocodile tears'],
+ 'crop': ['crop up', 'come a cropper'],
+ 'crook': ['the crook of one s arm'],
  # 往下写到哪个字母段，就在这里补哪一段的大词
 }
 

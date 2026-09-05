@@ -308,3 +308,4 @@ cont.        # 印刷体例的缩写「接下页」，不是词汇
 contd        # 同上，continued 的另一种缩写
 craic        # 爱尔兰英语：热闹尽兴的气氛
 cray         # 澳新：crayfish 的短形式
+crore        # 印度英语：一千万
