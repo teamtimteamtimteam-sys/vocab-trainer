@@ -242,23 +242,14 @@ marginalia = 页边批注
 announce
 核心：底层是"正式地公开告知"。宣布消息、播报车次、通报某人到场都是
 它。比 tell 正式得多，对象通常是一群人而不是一个人。
-① They announced the results.
-= 他们公布了结果。
+① They announced the results and a new product on the same morning.
+= 他们同一个上午宣布了结果，也发布了新产品。
 这里：
 announce = 宣布
-② The company announced a new product.
-= 那家公司发布了新产品。
-③ "I'm leaving," she announced.
-= "我要走了，"她宣布道。
-④ The train delay was announced.
-= 列车延误被广播通知了。
-词族：
 announcement = 公告
 announcer = 播音员
-注意区别：
-announce 正式公开宣布
-tell 告诉（私下、随意）
-declare 宣告（更庄重，如宣战）
+② "I'm leaving," she announced, and was out of the door before anyone answered.
+= 「我走了，」她宣布道，还没人应声人就出了门。
 
 announcement
 核心：指正式的"公告、通告"，也指发布这个行为。可数。
@@ -302,16 +293,16 @@ anchor = 新闻主播（美式）
 annoy
 核心：指"惹得人心烦"，程度轻于 anger。分词形容词分工：annoyed 是
 人觉得烦，annoying 是事物讨厌。介词用 with 人、about 事。
-① His questions annoy me.
-= 他的问题让我心烦。
-② I was annoyed with him.
-= 我对他有点恼火。
+① His questions annoy me and the tone he asks them in annoys me more.
+= 他的问题让我恼火，他问话的口气更让我恼火。
+② I was annoyed with him for about a week and then forgot why.
+= 我生了他大约一周的气，然后就忘了为什么。
 be annoyed with = 对某人恼火
-③ She was annoyed about the delay.
-= 她因延误而不快。
+③ She was annoyed about the delay and said nothing to the person responsible.
+= 她为延误恼火，对该负责的人却什么也没说。
 be annoyed about = 因某事恼火
-④ That noise is really annoying.
-= 那噪音真烦人。
+④ That noise is really annoying and has been going on since seven.
+= 那声音烦死了，从七点就一直响。
 词族：
 annoyance = 恼怒
 annoyingly = 恼人地

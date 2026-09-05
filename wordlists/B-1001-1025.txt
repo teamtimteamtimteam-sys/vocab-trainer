@@ -19,12 +19,8 @@ literate = 识字的（反义）
 analyse
 核心：指"拆开来逐部分研究"。英式拼 analyse，美式拼 analyze，
 但名词两边都拼 analysis。这个拼写不对称是高频错误点。
-① Let's analyse the data.
-= 我们来分析这些数据。
-② The sample was analysed in a lab.
-= 那份样本在实验室做了化验。
-③ She analysed the poem line by line.
-= 她逐行分析了那首诗。
+① She analysed the poem line by line and the data in a single afternoon.
+= 她逐行分析了那首诗，数据一个下午就分析完了。
 常用搭配：
 analyse data = 分析数据
 analyse the results = 分析结果
@@ -34,8 +30,8 @@ analyze = 分析（美式拼法）
 名词两边都是 analysis
 词族：
 analyst = 分析师
-④ The analysand lay on the couch.
-= 接受精神分析的那位躺在长椅上。
+② The analysand lay on the couch and talked about his brother for a year.
+= 接受精神分析的人躺在长椅上，谈了一年他弟弟。
 analysand = 接受精神分析的人
 
 analysis
