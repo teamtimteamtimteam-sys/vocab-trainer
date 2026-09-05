@@ -52,10 +52,11 @@ keep 名单**，否则那一段的覆盖率从一开始就是假的。
 ——写的人凑不出自然例句，就改写成谈论这个词本身。**遇到这三类词，
 先问「能不能造出一个真的用它的句子」；造不出就少写一个义项，别改写成元评论。**
 
-═══ 每批必跑的八道闸门 ═══
+═══ 每批必跑的九道闸门 ═══
 check-wordlist.py → coverage.py <段> → audit-depth.py <段>
 → audit-swallowed.py → audit-padding.py（内含【例句里没有词】一项）
 → audit-ab.py → audit-idioms.py → audit-prefix.py <段>
+→ **audit-examples.py <本批词头...>**（例句承载力，2026-09-05 加）
 其中五道在 .githooks/pre-commit 里，会真的拦提交。
 · 往已有词条补义项用 scripts/add-sense.py（它会拒绝重复例句），补完跑 renumber.py。
 · 分批文件改过之后要跑 merge-wordlist.py 重新生成合并交付文件，
