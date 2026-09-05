@@ -239,23 +239,19 @@ boost
 核心：底层是"从下面往上托一把"。字面是把人举高——give someone
 a boost 是托他一把上墙。引申开来管一切"提升"：提振信心、
 拉高销量、增强信号。名词动词同形，是商业和新闻里的高频词。
-① Sales got a boost from the ad.
-= 广告让销量涨了一截。
+① Sales got a boost from the ad and she got a confidence boost from the sales.
+= 广告提振了销量，销量又给了她信心。
 get a boost = 得到提振
-② The news boosted morale.
-= 那个消息提振了士气。
-boost morale = 鼓舞士气
-③ He gave her a boost over the wall.
-= 他托了她一把翻过墙。
-字面那一支。
-④ The amplifier boosts the signal.
-= 放大器增强信号。
-⑤ The win gave her a confidence boost.
-= 那场胜利让她信心大增。
 a confidence boost = 信心的提振
-构词：来历不明，十八世纪美式用法
-词族：
 booster = 助推器；加强针
+② The news boosted morale for about a fortnight and then wore off.
+= 那消息鼓舞了两周士气，随后就淡了。
+boost morale = 鼓舞士气
+③ He gave her a boost over the wall and could not get over it himself.
+= 他托她翻过了墙，自己却上不去。
+字面那一支。
+④ The amplifier boosts the signal and adds a hum you cannot lose.
+= 放大器提升了信号，也添了一道甩不掉的嗡嗡声。
 
 booster
 核心：三支，都从 boost 的"往上托一把"来。火箭底下那截推力最大、
