@@ -330,27 +330,25 @@ absorb
 核心：底层动作是"吸进去并留在里面"。物理上吸收液体、光、声音；
 组织上把小公司并进来；认知上把知识吸收进脑子；心理上被某事
 完全占据注意力，那就是 be absorbed in。
-① The sponge absorbs water.
-= 海绵吸水。
-② Plants absorb carbon dioxide.
-= 植物吸收二氧化碳。
-③ The larger company absorbed the smaller one.
-= 大公司吞并了小公司。
-④ It's a lot of information to absorb.
-= 那么多信息一时消化不了。
+① The sponge absorbs water until it weighs more than the bucket.
+= 海绵吸水，吸到比水桶还重。
+② The larger company absorbed the smaller one and kept none of its staff.
+= 大公司吞并了小公司，一个员工也没留。
+③ It's a lot of information to absorb in an afternoon with no notes.
+= 一个下午不做笔记，这么多信息实在消化不了。
 这里：
 absorb = 理解吸收
-⑤ She was absorbed in her book.
-= 她全神贯注地看书。
+④ She was absorbed in her book and did not hear the door at all.
+= 她沉浸在书里，门响了完全没听见。
 be absorbed in = 专心于
 词族：
 absorption = 吸收
 absorbing = 引人入胜的
-⑥ The material is highly absorbable.
-= 那种材料极易被吸收。
+⑤ The material is highly absorbable and costs four times as much.
+= 这种材料吸收性很好，价钱是四倍。
 absorbable = 可吸收的
-⑦ Absorbance is measured by spectrometer.
-= 吸光度用分光计测量。
+⑥ Absorbance is measured by spectrometer and drifts if the lamp is cold.
+= 吸光度用分光光度计测量，灯没预热读数会漂。
 absorbance = 吸光度（化学）
 
 absorbed
