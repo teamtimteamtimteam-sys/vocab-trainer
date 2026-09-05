@@ -7,15 +7,138 @@ B 5000
 用户 2026-09-04 交代：2500 那个目标已达成，现在继续往下写到 5000（B 词表 2501-5000）。
 这不是全新任务，是接着原来的推进节奏走，规则和裁定全部沿用，见下方。
 
-现状（写这行时）：a 字母 100%；ba/bc/bh/bn/bp 收全；be- 段 96%（剩 15 条待推迟，
-内容词还在后面字母段，正常，不用管）；bi- 段已收全（99%，剩 2 条待推迟：bimetallic strip、bird's nest-soup，等 s/n 段的内容词到了再并）。
-bl- 段：清单 383 条，已收 246 条（64%），下批从 blues 起。
-每批已放宽到 12 条（用户 2026-09-04：不影响质量的前提下可增加每批义项数量）。
-bl- 是大段，待推迟 137 条里 black/blood/blow/block/blue/blind 各带一大族，
-按「高频立条、成族并入」分流；black 族已立条 10 条（black box/hole/market/
-sheep/eye/tie/ice/magic/cab/pepper），其余留在待推迟等各自内容词的字母段。
-每批约 10 条（用户交代：一次别写太多会摊薄质量），写完跑
-check-wordlist.py → coverage.py <段> → audit-depth.py <段> 三件套再继续。
+现状（2026-09-04 更新）：a 字母 100%；b 字母收全 —— 清单 3123 收 3074（98%），
+缺的 49 条全是待推迟条目（be 13、bi 2、bl 3、bo 8、br 5、bu 13、by 3），
+内容词还在后面字母段，等轮到了再并，不用回头补。归档区 0 条。
+最末词条 byword。
+
+当前进度：ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
+co- 段在写（清单 1960 条，已收 445 条 22%，下批从 compass 起）。
+B 词表 4810 条，离 5000 还差 190。
+之后 cp 1、cr 481、ct 1、cu 223、cw 4、cy 51、cz 4。
+co- 段的 colour / color 一族已并成一条（16 义项，两套拼法的每个
+派生形式都留了字面），centre / center 那套办法在这里同样奏效。
+
+【2026-09-05 闸门加到四件套：audit-swallowed】
+第三次栽在同一个坑上（carriage 被 car 吞、camphor 被 camp 吞、
+comfort 被 comfit 的「注意别混」吞）之后写了 scripts/audit-swallowed.py。
+它查的是：清单里的词被 coverage 的 derived_covered 判成已收，
+但在宿主词条里只出现在核心块 / 构词行 / 注意行，没有配例句与等式 ——
+那不是合法并入，是被顺嘴提了一句就误判，那个词从此再不会出现在
+待新写里。首次全表跑出 65 条，已全部修掉（多词条目补真义项，
+派生形式补等式行，不该并的把宿主那行的字面换成中文描述）。
+**每批写完按 check-wordlist → coverage → audit-depth → audit-swallowed
+四步跑。** 往已有词条尾部补义项用 scripts/add-sense.py（它把新义项插在
+最后一个编号之后的收尾行前），补完跑一遍 renumber.py。
+
+【并入脚本的编号表必须从 check-wordlist 导入，不要手写】
+这一轮并入时手写了一张只到 30 的编号表，脚本跑到 call（49 义项）
+当场 IndexError，而且**崩溃前已经写了一部分文件**。补救办法是让
+脚本按「这组内容的第一条等式是否已在正文里」跳过已并的宿主，
+再重跑。以后一律 `spec_from_file_location` 导入 check-wordlist 的
+NUMS（80 个），并保留那道跳过判断，脚本才可以安全重跑。
+
+【2026-09-04 新发现：带重音符的多词条目，正文里要留一个不带重音的写法】
+cinéma-vérité 并进 cinema 条之后 coverage 仍报缺。原因是它的搜索串
+是 sort_key 折过重音之后的（é 折成 e），而正文里写的是带重音符的
+原形，两边对不上。解法：除了正确的带重音写法，另留一行提到英语里
+常见的不带重音写法（英语本来就常把这类借词的重音符省掉）。
+同类要留意的词：café / cafè、chargé d'affaires、cause célèbre、
+caffè latte、à la carte 一族 —— 凡是清单里带重音符的多词条目都受影响。
+
+【多词条目并入：字面必须连着，这一段又栽了六次】
+chat up / cheat of / cheat out of / cheer on / chalk up to /
+charm out of —— 我都写成了带宾语的形式（chat somebody up），
+coverage 按连续字符串搜，一个都不认。这是第四轮重复同一个错。
+**下次动笔前先定死写法**：并入短语动词时，除了自然的带宾语例句，
+一定另留一行讲解，让不带宾语的原形字面连着出现，例如
+「chat up 的宾语放在中间」。写完立刻用
+`coverage.py <段> | sed -n '/待并入/,/待推迟/p'` 复查。
+
+【ch- 段的前缀陷阱比 ca- 段更密，动笔前必看】
+ch- 里有好几组「四个字母相同但不同源」的词挤在一起：
+· chan-：change / channel / chant / chanterelle / chanteuse /
+  chantey / chantry / changeling —— 前四个字母全是 chan，
+  写 change 或 chant 的条目时**绝不能提到另外几个的字面**，
+  提了 coverage 就判成已覆盖，那几条会永久漏收。
+· chap-：chap / chapel / chaperone / chaplain / chapter
+· char-：char / charabanc / character / charade / charcoal /
+  chard / charge / charity / charm / chart / charter / chary
+每写一条这类词，先问一句：我提到的那个同前缀词，自己有条目吗？
+没有就别写它的字面，改成中文描述（例如「跟表示吟诵的那个词」）。
+
+【ch- 段动笔前先剔变体，别边写边纠结】
+ch- 清单原有 676 条，里面有 23 条是印度英语词头（chaap、chaat、
+chana、chapatti、chappal、charpoy、chowk、churidar、chup 等）、
+澳新词头（chook、chunder）与专名伪影（christie's）。
+已按国别变体通则一次性写进 exclude.txt，清单降到 653 条。
+**下一段（ci / cl / co / cr / cu）也先扫一遍清单剔变体再动笔** ——
+边写边判会反复停下来查，而且容易漏。
+
+【ce- 段的经验：英美拼法成对的词，靠同前缀并入省下一半条目】
+centre / center 一族（centred·centered、centrefold·centerfold、
+centrepiece·centerpiece、centreboard·centerboard）全并进 centre 一条，
+每个美式拼法配一句自然例句 —— 因为 coverage 的派生判定只看
+「词根前四个字母」，center 以 cent 打头，所以并得上。
+但第四个字母就分岔的对不上：caecum/cecum、coeliac/celiac、
+caesium/cesium、caesarean/cesarean 都得各立一条（各写三义，
+注明另一种拼法是哪边）。判断办法：动笔前先比前四个字母。
+
+【ca- 段的收尾办法，下一段照做】
+词条写完后 coverage 会剩下一大批「待并入已有词条」（ca- 剩了 98 条），
+那是多词条目，宿主就在本段。收尾时一次性并进去，每条配例句加等式行。
+两件必须注意的：
+· 插入锚点要用「最后一个编号义项之后的第一行 构词/注意」——直接找
+  第一行 构词/注意 会插错，calendar 的核心块里就有一行以「注意」开头，
+  两个新义项被插到 ①②③④ 前面去了，是 check-wordlist 的编号连续性
+  检查抓出来的。
+· 并完跑 audit-depth：一口气加十几个义项会把「讲解行/义项」压到 1.5
+  以下（capital、card、care、case、catch 五条都被拦了），要补讲解行，
+  不要去调基线。
+
+【2026-09-04 又一个改错位置的坑：同一批里两条词的构词行一字不差】
+给 castle 补义项时用「构词：拉丁语 castellum 小城堡」当锚点做替换，
+castellated 的构词行跟它完全相同、又排在前面，于是三个义项插进了
+castellated。check-wordlist 照样全过（格式没错），是 audit-depth
+仍报 castle 只有 3 义项才露出来。
+**教训：往已有词条里插内容，锚点要用那一条独有的字符串（词头本身、
+或带词头的等式行），不要用构词行、注意行这类多条共用的句式。**
+
+【并入多词条目时，字面必须连着 —— 已经栽过三次】
+call away 写成「call somebody away」、carry back 写成「carry
+somebody back」，coverage 都判成没并入。它按连续字符串搜，
+中间插了 somebody 就不认。写并入时除了带宾语的自然例句，
+另留一行让原形字面连着出现（讲解行或等式行都行）。
+
+【2026-09-04 三字母词根的雷我自己踩了一次，记下过程】
+写 car 时在核心块里写了「英式说 carriage」，car 是三字母词根，
+coverage 当场把 carriage 判成 car 的派生、算作已收 —— 而 carriage
+根本还没有词条，就这么无声无息地从缺口报告里消失了。
+是 audit-depth 拦下 car 讲解偏少、我回头核对时才发现的。
+**教训：三字母词根（car / cap / cam / cat / cut / cow…）的条目里
+提到任何同前缀的词，都必须先确认那个词已经有自己的词条。**
+查法：写完立刻 `coverage.py <段> | grep -c '\bthat-word\b'`，
+报 0 就是被吃掉了。
+
+【call- 那批前缀误猜已处理完】calligraphy、calliper、callisthenics、
+callous、callow、callus 全部另立词条，各写了一行「注意别混」，
+一个都没并进 call。往下遇到同类（cant / canter / canton 之于 can，
+caper 之于 cape 等）照这条办：先看词源是不是真同源，不同源就单列。
+
+ca- 段已踩到的坑（都在 CLAUDE.md 里有记载，写下去还会遇到）：
+· 并入要看词根前四个字母。caff 之于 cafe、caning 之于 cane 都因为
+  第四个字母不同而并入失败，coverage 照样报缺 —— 这类一律单列。
+  已单列的有 caff、caning。
+· 一立条就可能把不同源的词吸成「派生」：caff 吸 caffeine、
+  call 吸 calligraphy 一族、cam（三字母词根）会吸一切 cam- 开头的词。
+  三字母词根的条目里千万别顺手写出 camera、camel、campaign 这类词，
+  写了 coverage 就当已覆盖，那批词会永久漏收。
+· 多词条目要写出**字面连着的那个形式**才算覆盖。call away 第一次写成
+  「call somebody away」判成没并入，改出字面才认。
+
+每批 12 条（用户 2026-09-04：不影响质量的前提下可增加每批义项数量；
+再往上加会摊薄质量）。写完跑 check-wordlist.py → coverage.py <段>
+→ audit-depth.py <段> 三件套再继续。
 
 两条收词裁定：印度食物名一律不收；国别变体词按 reference/exclude.txt 表头那条判据走。
 

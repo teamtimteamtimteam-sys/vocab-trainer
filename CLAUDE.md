@@ -319,6 +319,21 @@ python3 scripts/pull-pending.py --prune       # 清理已收录的归档条目
 python3 scripts/merge-wordlist.py A 3000      # 合并成可导入的大文件
 ```
 
+**闸门从三件套变成四件套（2026-09-05 起）。**
+每批写完依次跑 check-wordlist → coverage → audit-depth → **audit-swallowed**。
+最后这个查「被吞掉的词」：清单里的词只在宿主的核心块、构词行或注意行里
+被顺嘴提了一句，coverage 的 derived_covered 就判它已收，于是它永远不会
+出现在待新写里 —— carriage 被 car 吞、camphor 被 camp 吞、comfort 被
+comfit 的「注意别混」吞，同一个坑栽了三次才写脚本。
+补救二选一：在宿主里给它补一条真正的义项（例句 + 译文 + 等式），
+或者把宿主那行里的字面词换成中文描述，让它回到待新写里单独立条。
+往已有词条尾部补义项用 scripts/add-sense.py，补完跑一遍 renumber.py。
+
+**提交不跟着每一轮输出走（用户 2026-09-04 交代）。** 一次输出可以写好几批，
+闸门三件套（check-wordlist → coverage → audit-depth）每批都要跑，
+但不必每批都提交、也不必每轮结束都问一句要不要提交 ——
+攒到一个自然的节点（一个双字母段收完、或用户开口）再提交。
+
 **开新字母段之前必须先跑 `pull-pending.py`。** 归档区放着早期超前写的词，
 到相应字母段该取回复用。开 b 字母时忘了跑，结果 baby / back / bad / bag /
 balance / ball / ban / band / bank 等 11 条从头重写了一遍。

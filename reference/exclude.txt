@@ -257,3 +257,46 @@ butty                                       # 英格兰北部，三明治（2026
 bureau-of-alcohol-tobacco-firearms-and-explosives# 美国机构专名的清洗伪影，不单立条
 bush tucker     # 澳大利亚英语，丛林食材（2026-09-04 通则）
 bushranger      # 澳大利亚英语，丛林匪徒（2026-09-04 通则）
+capability-brown  # 纯专名（十八世纪园林师的绰号），按专名不收那条剔除
+cattle duffing  # 澳新英语（偷牛），按国别变体通则剔除
+catty-corner-ed  # 清洗伪影：catty-cornered 被多插了一个连字符
+
+# --- ch- 段：印度英语与国别变体（2026-09-04 按通则剔除，不再逐个请示）---
+chaap        # 印度英语，一种烤肉／面筋菜
+chaat        # 印度英语，街头小吃
+chakka       # 印度英语，菠萝蜜做的菜
+chana        # 印度英语，鹰嘴豆
+channa       # 印度英语，鹰嘴豆（异拼）
+chapatti     # 印度英语，薄饼（食物名）
+chacha       # 印度英语，叔父
+challan      # 印度英语，罚单／发货单
+chamcha      # 印度英语，谄媚者
+chapkan      # 印度英语，长外衣
+chappal      # 印度英语，凉拖
+chaprasi     # 印度英语，办公室跑腿
+charpoy      # 印度英语，绳床
+chaudhuri    # 印度英语，乡绅称号
+chawl        # 印度英语，孟买的公寓大院
+chowk        # 印度英语，十字路口／集市广场
+chup         # 印度英语，别说话
+churidar     # 印度英语，紧腿裤
+chee-chee    # 印度英语，带冒犯性的旧称
+chhi-chhi    # 印度英语，同上的异拼
+chook        # 澳新英语，鸡
+chunder      # 澳新英语，呕吐
+christie's   # 纯专名（拍卖行），按专名不收那条剔除
+chamberlain's men     # 纯专名（莎士比亚剧团），按专名不收那条剔除
+cheltenham-ladies-college  # 纯专名（学校名），同上
+childe-harold's pilgrimage # 纯专名（长诗标题），同上
+chota        # 印度英语，小的
+charlie-bird-parker  # 纯专名（爵士乐手绰号），按专名不收那条剔除
+chuck-berry          # 纯专名（音乐人姓名），同上
+clucky       # 澳新英语，想生孩子的
+cleopatra's needle   # 纯专名（伦敦与纽约的方尖碑），按专名不收那条剔除
+
+# --- co- 段：国别与地区变体（2026-09-04 按通则剔除）---
+cobber       # 澳新英语，伙伴
+coldie       # 澳新英语，一瓶冰啤
+cocoyam      # 西非英语，芋类
+collectorate # 印度英语，县长辖区与办公处
+colleen      # 爱尔兰英语，姑娘
