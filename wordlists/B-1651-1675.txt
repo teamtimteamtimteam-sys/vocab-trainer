@@ -294,36 +294,36 @@ atomizer = 喷雾器
 atomic
 核心：两条线：物理上的"原子的"，
 和涉及核能核武的"原子能的"。
-① Atomic structure was studied.
-= 原子结构得到了研究。
+① Atomic structure was studied for a century before anyone saw an atom.
+= 原子结构被研究了一百年，才有人真正看见原子。
 atomic structure = 原子结构
-② The atomic bomb changed warfare.
-= 原子弹改变了战争。
+② The atomic bomb changed warfare and the argument about it has not ended.
+= 原子弹改变了战争，围绕它的争论至今未止。
 atomic bomb = 原子弹
-③ Atomic energy powers the plant.
-= 原子能为那座电厂供能。
+③ Atomic energy powers the plant and nobody has solved the waste.
+= 这座电厂靠原子能发电，废料的问题谁也没解决。
 atomic energy = 原子能
 词族：atom
 近义对照：
 atomic = 原子的（较早的说法）
 nuclear = 核的（现在更常用）
 现在多说 nuclear power、nuclear weapon。
-④ An atomic clock keeps time to a nanosecond.
-= 原子钟的走时精确到纳秒。
+④ An atomic clock keeps time to a nanosecond and needs a room to itself.
+= 原子钟精确到纳秒，得单占一个房间。
 atomic clock = 原子钟
-⑤ Carbon has an atomic number of six.
-= 碳的原子序数是六。
+⑤ Carbon has an atomic number of six and forms more compounds than everything else.
+= 碳的原子序数是六，形成的化合物比其他元素加起来还多。
 atomic number = 原子序数
 atomic mass = 原子质量
 atomic weight = 原子量
-⑥ The atomic spectrum identifies the element.
-= 原子光谱能认出是哪种元素。
+⑥ The atomic spectrum identifies the element from millions of miles away.
+= 原子光谱能在几百万英里外辨认出元素。
 atomic spectrum = 原子光谱
-⑦ Dalton advanced the atomic theory.
-= 道尔顿推进了原子论。
+⑦ Dalton advanced the atomic theory using measurements anyone could repeat.
+= 道尔顿用人人都能重复的测量推进了原子论。
 atomic theory = 原子学说
-⑧ Atomicity means an operation cannot be split.
-= 原子性指一个操作不可再分。
+⑧ Atomicity means an operation cannot be split, however the machine fails.
+= 原子性意味着操作不可分割，不管机器怎么出故障。
 atomicity = 原子性（也指化学的原子价）
 
 atonal

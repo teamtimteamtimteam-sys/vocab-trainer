@@ -267,32 +267,32 @@ credibility = 可信度（值得信）
 author
 核心：指书籍文章的"作者"，比 writer 正式且强调著作权。比喻义指
 某事的"始作俑者"。动词义"撰写"多用于正式文体。
-① Who is the author of this book?
-= 这本书的作者是谁？
+① Who is the author of this book? The title page has been torn out.
+= 这本书作者是谁？扉页被撕掉了。
 the author of = …的作者
-② She is a best-selling author.
-= 她是位畅销书作家。
-③ He authored three reports.
-= 他撰写了三份报告。
+② She is a best-selling author and cannot get a table at her own launch.
+= 她是畅销书作家，自己的新书发布会上却找不到座位。
+③ He authored three reports and read none of them after they went out.
+= 他撰写了三份报告，发出去之后一份也没再看过。
 这里是动词。
-④ He was the author of the plan.
-= 他是那个计划的始作俑者。
+④ He was the author of the plan and the first to disown it.
+= 他是这个方案的始作俑者，也是第一个撇清关系的人。
 词族：
 authorship = 著作权
 近义对照：
 author 作者（著作权，正式）
 writer 写作者（职业，通用）
-⑤ Victorian critics called her an authoress.
-= 维多利亚时代的评论家称她为女作家。
+⑤ Victorian critics called her an authoress and reviewed the dress first.
+= 维多利亚时代的评论家称她为女作家，先评的是她的裙子。
 authoress = 女作家（旧称，今避免使用）
-⑥ The authorial voice intrudes here.
-= 作者的声音在这里插了进来。
+⑥ The authorial voice intrudes here and spoils an otherwise good chapter.
+= 作者的声音在这里插了进来，毁了原本不错的一章。
 authorial = 作者的
-⑦ The tool supports collaborative authoring.
-= 那个工具支持协作撰写。
+⑦ The tool supports collaborative authoring and loses about one edit in twenty.
+= 这个工具支持协同写作，大约每二十次编辑丢一次。
 authoring = 内容撰写与制作
-⑧ She co-authored the paper with her supervisor.
-= 那篇论文是她和导师合写的。
+⑧ She co-authored the paper with her supervisor and did all the work.
+= 她和导师合著了那篇论文，活全是她干的。
 co-author = 合写（动词）；a co-author = 合著者
 前缀 co- 表示「共同」，加在身份与职务词前面很能产，是造新词的常用手段。
 
