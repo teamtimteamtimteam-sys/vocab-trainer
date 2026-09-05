@@ -306,3 +306,5 @@ corrie       # 苏格兰英语：冰斗，词头本身属该变体
 corporator   # 印度英语：市政法团成员
 cont.        # 印刷体例的缩写「接下页」，不是词汇
 contd        # 同上，continued 的另一种缩写
+craic        # 爱尔兰英语：热闹尽兴的气氛
+cray         # 澳新：crayfish 的短形式

@@ -24,12 +24,21 @@ a cut above、cry over spilt milk 之类。
 audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5294 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
-co- 段清单 1955 条、已收 1427 条（72%），写到 cozy —— co 开头的词
-基本收完，剩下的 528 条几乎全是「待并入」的多词条目，等后面字母段
-收到词根再一次性并。
-**下一批进 cr 段（318 条待新写），从 crab 起。**
+B 词表 5326 条。ca-co 各段已收全，
+cr- 段清单 479 条、已收 108 条（23%），写到 crazy，
+下批从 creak / cream / crease / create 一带起。
 再往后 cp 1、ct 1、cu 223、cw 4、cy 51、cz 4。
+
+【大批量 heredoc 追加词条时的事故与教训（2026-09-05）】
+往词表文件 append 一整批时，我的草稿文字漏进了文件：
+整批 32 条被写了两遍、混进 4 行英文思考、1 个 <invoke> 标签、
+1 行核对笔记，craw 条里还留了一句「Hmm，这条没有词头。换：」。
+check-wordlist 全部拦下了（首行不像单词、跨批重复、编号不连续），
+**没有一条脏数据进得了库** —— 闸门是管用的。
+清理办法：先按空行切块删重复词条与假词条，再删散落的行，
+最后 resplit + renumber。
+**教训：追加之后先跑 check-wordlist 再跑 resplit** ——
+resplit 会把污染打散到多个文件里，定位起来麻烦得多。
 
 【写完 cr 段的大词要往 audit-idioms 的 CHECK 里补清单】
 crack down on、crack up、at the crack of dawn、crack a joke、
