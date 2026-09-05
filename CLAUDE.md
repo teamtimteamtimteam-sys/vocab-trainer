@@ -319,6 +319,18 @@ python3 scripts/pull-pending.py --prune       # 清理已收录的归档条目
 python3 scripts/merge-wordlist.py A 3000      # 合并成可导入的大文件
 ```
 
+**同一个义项不许写两遍（2026-09-05，用户问出来的）。**
+一个编号只配一句例句，这是格式；但语义上曾出现两个编号讲同一件事 ——
+booger 与 bargain 里各有两条一模一样的例句，都是我用 add-sense.py
+往词条尾部补内容时没查「这句是不是已经在了」造成的。
+现在 add-sense.py 会直接拒绝重复句，audit-padding 也会报【重复义项】。
+判据故意收紧：**最小对立对要放行** —— believe 的
+「I believe her / I believe in her」、brim 的「brimmed with /
+brimmed over with」，一字之差正是要教的东西，不是重复。
+只有词集完全相同、或者差一个词而中文译文也一字不差（bell jar 与
+bell glass 那种同义词各占一条）才算重复，后者应当并成一条、
+把两个等式并列写。
+
 **第五道闸门 audit-padding（2026-09-05 加，已挂进 pre-commit 钩子）。**
 用户原话：「冷僻词不要为了凑义项数而造一些和词条本身无关的例句和讲解。」
 毛病长这样 —— conger 只有一个义项，硬凑第三条：

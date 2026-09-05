@@ -94,6 +94,26 @@ def main(argv):
                     lazy.append((h, ex.strip(), eqs[0].strip()))
                 continue
             fake.append((h, ex.strip(), eqs[0].strip() if eqs else ''))
+    # 重复义项：同一词条里两条例句实质是同一句。
+    # believe「I believe her / I believe in her」这种最小对立对是有意为之，
+    # 必须放行 —— 判据收紧成「词集完全相同」，或者「差一个词且译出的
+    # 中文也一模一样」（bell jar / bell glass 那种同义词各占一条）。
+    import itertools
+    dupes = []
+    for h, L in entries():
+        if seg and not h.lower().startswith(seg): continue
+        ss = [(e.strip(), b) for e, b in senses(L)]
+        for (e1, b1), (e2, b2) in itertools.combinations(ss, 2):
+            w1, w2 = set(fold(e1[1:]).split()), set(fold(e2[1:]).split())
+            if len(w1) < 3 or len(w2) < 3: continue
+            j = len(w1 & w2) / len(w1 | w2)
+            if j == 1.0:
+                dupes.append((h, e1, e2)); continue
+            if j >= 0.75:
+                z = [ [l for l in b if l.startswith('= ')] for b in (b1, b2) ]
+                if z[0] and z[1] and z[0][0] == z[1][0]:
+                    dupes.append((h, e1, e2))
+
     label = (seg + '- 段') if seg else '全表'
     print('\n%s：义项 %d 条' % (label, tot))
     print('  【假义项】整条跟词头无关，纯粹凑数：%d 条 (%.1f%%)'
@@ -103,7 +123,11 @@ def main(argv):
     if len(fake) > 80: print('      ……还有 %d 条' % (len(fake) - 80))
     print('  【等式挂歪】例句是真义项，等式教了别的词：%d 条 (%.1f%%)'
           % (len(lazy), 100.0 * len(lazy) / max(tot, 1)))
-    return 1 if fake else 0
+    print('  【重复义项】同一词条里两条例句实质是同一句：%d 对' % len(dupes))
+    for h, e1, e2 in dupes[:30]:
+        print('      %-18s %s' % (h, e1[:44]))
+        print('      %-18s %s' % ('', e2[:44]))
+    return 1 if (fake or dupes) else 0
 
 if __name__ == '__main__':
     sys.exit(main(sys.argv[1:]))

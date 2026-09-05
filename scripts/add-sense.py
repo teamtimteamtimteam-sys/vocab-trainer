@@ -37,6 +37,13 @@ def add(head, ex, zh, eq, note=None):
         for k in range(lastnum + 1, end):
             if any(lines[k].startswith(t) for t in TAIL):
                 cut = k; break
+        # 别把已经在词条里的句子再加一遍 —— booger 与 bargain 就是这么
+        # 出现两个一模一样的义项的（2026-09-05）。
+        import re as _re
+        def _k(t): return set(_re.sub(r'[^a-z ]', ' ', t.lower()).split())
+        for _l in lines[i + 1:end]:
+            if _l and _l[0] in NUMS and _k(_l[1:]) == _k(ex):
+                raise SystemExit('%s 里已经有这句例句了，别重复加：%s' % (head, ex))
         block = [NUMS[last + 1] + ' ' + ex, '= ' + zh, eq]
         if note: block.append(note)
         lines[cut:cut] = block
