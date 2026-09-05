@@ -22,6 +22,11 @@ co- 段里 comp- / conf- / cons- 这几串同前缀词特别密，
 这一段已经靠 audit-swallowed 当场拦下四次（commercial、comfort、
 communist、commune、compost bin、conical）。
 
+【交付文件：B 已合成单一文件 B-merged-0001-5000.txt（2026-09-05）】
+用户要求 5000 条合成一个文件传 iPad，不再拆成两半。
+分批文件改动之后必须跑 `python3 scripts/merge-wordlist.py B 5000` 重新生成，
+否则合并文件会跟分批文件对不上。
+
 【2026-09-05 闸门加到五件套，第五道是 audit-padding】
 用户质疑批量写会不会掉质量，量下来发现真问题不是批量，是冷僻词：
 真实义项只有一两个，我却习惯凑够三个，末尾那条就写成
