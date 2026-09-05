@@ -172,20 +172,18 @@ architect
 核心：设计建筑的人。比喻义指某项事业的"缔造者、总设计师"，
 搭配 the architect of。词族 architecture 既指建筑学也指建筑风格，
 计算机里还指"体系结构"。
-① She is a famous architect.
-= 她是位著名建筑师。
-② He was the architect of the reform.
-= 他是那场改革的总设计师。
+① He was the architect of the reform and left before it took effect.
+= 他是这场改革的缔造者，改革生效前就走了。
 the architect of = …的缔造者
-③ The architect designed the museum.
-= 那位建筑师设计了这座博物馆。
+② The architect designed the museum and never saw it finished.
+= 建筑师设计了这座博物馆，却没见到它建成。
 词族：
 architecture = 建筑学、建筑风格
 architectural = 建筑的
 注意发音：ch 读 /k/，
 读 /ˈɑːkɪtekt/，不是 /tʃ/。
-④ The essay takes an architectonic view of the novel.
-= 那篇文章从整体结构上看这部小说。
+③ The essay takes an architectonic view of the novel and ignores the sentences.
+= 这篇文章从结构上看待这部小说，完全不管句子。
 architectonic = 结构性的、体系构造的
 
 architectural
@@ -223,19 +221,14 @@ architectural = 建筑的
 archive
 核心：指"档案、档案馆"，也作动词"归档"。
 常用复数 archives 指整批档案。
-① The archives hold old letters.
-= 那批档案里有旧信件。
-② He works in the national archive.
-= 他在国家档案馆工作。
+① He works in the national archive and searches the archives all day.
+= 他在国家档案馆工作，整天在档案里翻查。
 national archive = 国家档案馆
-③ The emails were archived.
-= 那些邮件被归档了。
-④ She searched the archives.
-= 她查阅了档案。
 search the archives = 查档
-词族：
 archivist = 档案管理员
 archival = 档案的
+② The emails were archived and nobody can now find any of them.
+= 邮件都归了档，如今一封也找不到。
 
 archivist
 核心：指管理档案的专业人员——负责整理、保存、
