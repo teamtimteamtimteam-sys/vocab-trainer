@@ -801,7 +801,12 @@ choose ⑧、chip ⑮、cap ⑨、cheat ⑦、chest ⑨、berk ②④、bespecta
 2. 都没有等式行的义项（占全表 21%，1484 条词条里有 ≥2 条这种义项）→ 比中文译文。
 3. 不限有无等式，中文译文相似 ≥0.7 → 抓 allegiance「swear / pledge」、
    breathing「space / room」、crocodile「crocodile / croc」这类同义换词。
-第 1 条的最紧版本已经进了 audit-padding，2、3 是一次性扫描，脚本没留。
+4. 例句剥掉虚词与代词之后实词骨架几乎相同（Jaccard ≥0.8）→ 抓 bid「He bade
+   her farewell／She bade them farewell」、bury「buried himself／herself in work」、
+   circumstance「in the／under the circumstances」这类只换了代词或介词的重复。
+   前三条通道都照不到它们：等式左边不同，中文译文相似度又正好卡在 0.5 上下。
+第 1 条的最紧版本已经进了 audit-padding，2、3、4 是一次性扫描，脚本没留。
+四条通道跑完全表共合并 43 条词条，coverage 三段一条没少。
 
 顺带发现：`berk`、`bespectacled` 这类只有一个真义项的词，
 被「每条 ≥2 义项」的下限逼着写出了四条同义的义项。
