@@ -439,91 +439,91 @@ be
 变位是全英语最不规则的：am / is / are，过去 was / were，
 过去分词 been，现在分词 being。虚拟语气里一律用 were
 （If I were you），这是它保留下来的古形。
-① She is a doctor.
-= 她是医生。
+① She is a doctor at a hospital forty miles from where she trained.
+= 她在离受训地四十英里的一家医院当医生。
 系动词第一层：说明身份。
-② The soup is cold.
-= 汤凉了。
+② The soup is cold and there is nothing left to heat it on.
+= 汤凉了，也没什么能拿来热了。
 系动词第二层：说明状态或性质。
-③ The keys are on the table.
-= 钥匙在桌上。
+③ The keys are on the table where you left them last night.
+= 钥匙在桌上，就是你昨晚放的地方。
 系动词第三层：说明位置。
-④ He is twenty.
-= 他二十岁。
+④ He is twenty and already running the family business on his own.
+= 他二十岁，已经一个人在管家族生意了。
 年龄、价钱、尺寸、时间都用它，
 中文里这些是"是"或干脆不用动词。
-⑤ It is Tuesday.
-= 今天星期二。
-⑥ That will be five pounds.
-= 一共五镑。
-⑦ They are working late.
-= 他们在加班。
+⑤ It is Tuesday, which means the market will be half empty.
+= 今天周二，集市上会空掉一半。
+⑥ That will be five pounds, and the card machine is not working.
+= 一共五镑，刷卡机现在不能用。
+⑦ They are working late again to get the accounts finished.
+= 他们又在加班，赶着把账做完。
 助动词第一层：接现在分词构成进行时。
-⑧ The house was built in 1890.
-= 那栋房子建于一八九零年。
+⑧ The house was built in 1890 and has not been rewired since.
+= 那房子建于一八九〇年，此后再没换过电线。
 助动词第二层：接过去分词构成被动。
-⑨ There is a problem.
-= 有个问题。
+⑨ There is a problem with the boiler that nobody wants to pay for.
+= 锅炉有问题，谁也不想出这笔钱。
 there is / there are = 有（后接单数或复数）
-⑩ There were no seats left.
-= 一个座位都没剩。
-⑪ The meeting is to start at nine.
-= 会议定于九点开始。
+⑩ There were no seats left by the time the second act began.
+= 第二幕开演时，已经没有空位了。
+⑪ The meeting is to start at nine and will run until lunch.
+= 会议定于九点开始，一直开到午饭。
 be to do = 定于、应当（正式，表安排或规定）
-⑫ No one is to leave the room.
-= 谁都不许离开房间。
+⑫ No one is to leave the room until the count has been checked.
+= 数目核对之前，谁也不许离开这间屋子。
 这一层表规定，语气很硬。
-⑬ He was never to see her again.
-= 他再也没能见到她。
+⑬ He was never to see her again, though neither of them knew it.
+= 他再没见到她，可当时两个人都不知道。
 这一层表注定，多见于叙事。
-⑭ She is about to resign.
-= 她就要辞职了。
+⑭ She is about to resign and has already cleared her desk.
+= 她马上要辞职，桌子都收拾干净了。
 be about to do = 即将做（比 will 更近）
-⑮ Be quiet.
-= 安静。
+⑮ Be quiet for a moment; I cannot hear what they are saying.
+= 安静一下，我听不清他们在说什么。
 祈使句直接用原形。
-⑯ Don't be silly.
-= 别傻了。
+⑯ Don't be silly — nobody is going to blame you for the weather.
+= 别傻了，天气的事谁也不会怪你。
 否定祈使用 don't be。
-⑰ If I were you, I'd wait.
-= 我要是你就等等。
+⑰ If I were you, I'd wait until the survey comes back.
+= 换了我，会等勘查报告出来再说。
 if I were = 我要是（虚拟语气一律用 were）
-⑱ Be that as it may, we must decide.
-= 话虽如此，还是得定下来。
+⑱ Be that as it may, we must decide before the deadline on Friday.
+= 尽管如此，我们还是得在周五截止前定下来。
 be that as it may = 尽管如此（固定说法，保留古虚拟形）
-⑲ The powers that be blocked it.
-= 当权者把它拦下了。
+⑲ The powers that be blocked it without ever explaining why.
+= 当权者把它否了，也从没解释过原因。
 the powers that be = 当权者（保留古形的固定说法）
-⑳ Let it be.
-= 由它去吧。
-㉑ He is a has-been.
-= 他已经过气了。
+⑳ Let it be — she will come round in her own time.
+= 由它去吧，她自己会想通的。
+㉑ He is a has-been who still talks as though the phone might ring.
+= 他早已过气，说话却还像电话随时会响。
 has-been = 过气的人
-㉒ She is a wannabe influencer.
-= 她想当网红。
+㉒ She is a wannabe influencer with more filters than followers.
+= 她是个想当网红的人，滤镜比粉丝还多。
 wannabe = 想成为…的人（由 want to be 来）
-㉓ Being late is not an option.
-= 迟到是不行的。
+㉓ Being late is not an option when the train only runs twice a day.
+= 火车一天只有两班，迟到是万万不行的。
 being = 动名词形式
-㉔ Having been warned, he stayed.
-= 事先得了警告，他就没走。
+㉔ Having been warned twice already, he stayed exactly where he was.
+= 已经被警告过两次，他还是一动没动。
 been = 过去分词
-㉕ The problem is that nobody asked.
-= 问题在于谁也没问。
+㉕ The problem is that nobody asked the people who actually use it.
+= 问题在于谁也没问过真正用它的人。
 the problem is that = 问题在于（后接从句）
-㉖ It is important to check.
-= 核对一下很重要。
+㉖ It is important to check the wiring before the wall goes back up.
+= 墙砌回去之前，把线路查一遍很要紧。
 it is + 形容词 + to do = 做某事是…的
-㉗ Were it not for her, we'd have failed.
-= 要不是她，我们就砸了。
+㉗ Were it not for her, we would have failed the inspection outright.
+= 要不是她，那次检查我们就直接不合格了。
 were it not for = 要不是（正式倒装）
-㉘ I have been to Japan twice.
-= 我去过日本两次。
+㉘ I have been to Japan twice and never once seen the mountain.
+= 我去过日本两次，一次也没看见那座山。
 have been to = 去过（人已经回来了）
 have gone to = 去了，人还没回来
 这一对的分别最常被考到：回来了用 been，没回来用 gone。
-㉙ She has been in London since May.
-= 她五月起就一直在伦敦。
+㉙ She has been in London since May and still calls it temporary.
+= 她五月起就一直在伦敦，嘴上还说是暂时的。
 have been in = 一直待在（某地）
 been 是 be 的过去分词，完成时里一律用它，进行式的 has been raining 也是它。
 注意变位：
