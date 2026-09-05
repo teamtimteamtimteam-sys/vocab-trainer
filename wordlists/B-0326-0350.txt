@@ -127,34 +127,34 @@ address
 核心：底层是"对准某个方向送出去"。信寄到某处是"地址"，话说给某人
 听是"演讲、称呼"，把注意力对准问题是"着手处理"。最后一层在雅思
 写作里极常用。注意名词英美重音不同。
-① What's your address?
-= 你地址是什么？
-② The letter was addressed to me.
-= 那封信是寄给我的。
+① What's your address? The parcel has been round the county twice.
+= 你的地址是什么？这包裹在郡里绕了两圈了。
+② The letter was addressed to me and opened by somebody else entirely.
+= 信是写给我的，却被完全不相干的人拆了。
 be addressed to = 寄给
-③ He addressed the audience.
-= 他向听众发表讲话。
-④ She gave an opening address.
-= 她致了开幕辞。
+③ He addressed the audience for forty minutes without a single note.
+= 他对着听众讲了四十分钟，一张讲稿也没有。
+④ She gave an opening address that was shorter than the introduction to it.
+= 她致的开幕辞，比介绍她的话还短。
 这里：
 address = 演讲
-⑤ We must address this problem.
-= 我们必须着手解决这个问题。
+⑤ We must address this problem before it addresses us.
+= 我们得先解决这个问题，别等它来解决我们。
 这里：
 address = 处理
-⑥ How should I address her?
-= 我该怎么称呼她？
+⑥ How should I address her? The letter has to go out this afternoon.
+= 该怎么称呼她？信今天下午就得寄出去。
 注意发音：
 英式名词重音在后 /əˈdres/，
 美式常读 /ˈædres/。
-⑦ Type the link in the address bar.
-= 把链接输进地址栏。
+⑦ Type the link in the address bar rather than searching for it.
+= 把链接输进地址栏，别去搜。
 address bar = 地址栏
-⑧ Her number is in my address book.
-= 她的号码在我通讯录里。
+⑧ Her number is in my address book, which I have not opened since 2011.
+= 她的号码在我的通讯录里，那本子二零一一年起就没打开过。
 address book = 通讯录
-⑨ Each cell is individually addressable.
-= 每个单元都可以单独寻址。
+⑨ Each cell is individually addressable and can be written to on its own.
+= 每个单元都可单独寻址，能单独写入。
 addressable = 可寻址的、可触达的
 
 addressee
