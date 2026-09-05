@@ -24,6 +24,23 @@ a cut above、cry over spilt milk 之类。
 audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
+B 词表 5280 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
+co- 段清单 1957 条、已收 1402 条（71%），写到 coyote，
+下批从 cozy / crab 一带起 —— co- 段快收完了，之后进 cr 段（481 条）。
+再往后 cp 1、ct 1、cu 223、cw 4、cy 51、cz 4。
+
+【c 段大词的习语已系统补过一遍（2026-09-05）】
+scripts/audit-idioms.py 里存着清单，写完一段大词就往 CHECK 补一批再跑。
+首跑 90 条缺 34 条，已全部补上。往下写到 cr / cu 段时记得补清单：
+crack down on、crack up、cross one's mind、cut back、cut it out、
+a cut above、cry over spilt milk 之类。
+
+【A 与 B 的一致性缺口已清零，但别再拿 A 当标尺（2026-09-05）】
+首跑 132 条我照单全收，被用户纠正：A 是初级词典，不能当高级词典的基准。
+29 条初学者脚手架已删回去，判断记在 reference/a-only.txt。
+audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
+
+当前进度：目标 5000 已达成，用户让继续往下写。
 B 词表 5250 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
 co- 段清单 1956 条、已收 1346 条（68%），写到 county，
 下批从 coup / coupe / couple 一带起。

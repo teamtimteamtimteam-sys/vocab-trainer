@@ -50,6 +50,15 @@ CHECK = {
  'corner': ['turn the corner', 'cut corners', 'just around the corner',
             "out of the corner of one's eye", 'a corner shop'],
  'count': ["count one's blessings", 'count for nothing', 'at the last count'],
+ # course 与 cover 写到了（2026-09-05），加回清单
+ 'course': ['of course', 'in due course', 'a matter of course', 'run its course',
+            'on course', 'off course'],
+ 'cover': ['cover up', 'cover for', 'under cover', "cover one's tracks",
+           'from cover to cover'],
+ 'courage': ['pluck up courage', 'Dutch courage',
+             "the courage of one's convictions"],
+ 'cow': ['till the cows come home', 'a sacred cow', 'have a cow'],
+ 'court': ['take somebody to court', 'court disaster', 'go to court'],
  # 往下写到哪个字母段，就在这里补哪一段的大词
 }
 

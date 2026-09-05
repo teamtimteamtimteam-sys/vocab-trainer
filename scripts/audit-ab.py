@@ -45,8 +45,13 @@ def lhs_set(lines):
             if len(t) >= 2: out.append(t)
     return out
 
-FUNC = ('it', 's', 'be', 'a', 'an', 'the', 'to', 'somebody', 'something',
+# a 与 b 是 A 词表用的示意占位符（cover a with b），跟 B 的
+# somebody / something 是同一个意思，一起当虚词剥掉才对得上。
+FUNC = ('it', 's', 'be', 'a', 'b', 'an', 'the', 'to', 'somebody', 'something',
         'one', 'ones', 'your', 'his', 'her', 'their', 'is', 'do', 'did')
+
+PLACEHOLDER = ('it', 's', 'a', 'b', 'an', 'the', 'somebody', 'something',
+               'one', 'ones', 'your', 'his', 'her', 'their')
 
 def variants(t):
     """同一个搭配在两张表里写法未必一样：A 写 it's a piece of cake，
@@ -57,12 +62,21 @@ def variants(t):
     while w and w[0] in FUNC:
         w = w[1:]
         if len(w) >= 2: yield ' '.join(w)
-    w2 = [x for x in t.split() if x not in FUNC]
+    # 剥占位词时不能连介词一起剥：add a to b 剥成 add 就没意义了，
+    # 要剥成 add to 才对得上 B 的写法（2026-09-05）。
+    w2 = [x for x in t.split() if x not in PLACEHOLDER]
     if len(w2) >= 2: yield ' '.join(w2)
 
-def present(t, body, allB):
+def strip_ph(t):
+    return ' '.join(x for x in t.split() if x not in PLACEHOLDER)
+
+def present(t, body, allB, body_np, all_np):
+    """两边都要剥占位词再比：A 写 cover a with b，B 写
+    cover something with something，只剥一边照样对不上。"""
     for v in variants(t):
         if v in body or v in allB: return True
+    v = strip_ph(t)
+    if len(v.split()) >= 2 and (v in body_np or v in all_np): return True
     return False
 
 def main(argv):
@@ -89,8 +103,9 @@ def main(argv):
     # 一个搭配可能教在别的词条里 —— A 的 after 条教了 look after，
     # B 把它放在 look 条下，那不是漏。所以要全表搜，不能只搜同名词条。
     allB = fold(' '.join(l for v in B.values() for l in v))
+    all_np = strip_ph(allB)
     for h in shared:
-        body = fold(' '.join(B[h]))
+        body = fold(' '.join(B[h])); body_np = strip_ph(body)
         stem = fold(h)[:4]
         for t in lhs_set(A[h]):
             # 只查真正属于这个词的搭配：等式左边得含词头。
@@ -99,7 +114,7 @@ def main(argv):
             if t in bheads: continue          # 它自己就是 B 的词头
             if (h, t) in skip: continue       # 有意不收，见 a-only.txt
             checked += 1
-            if not present(t, body, allB):
+            if not present(t, body, allB, body_np, all_np):
                 gaps.append((h, t))
     label = (seg + '- 段') if seg else '全表'
     print('\n%s：A 与 B 共有的词条 %d 条，核对 A 的等式 %d 条'
