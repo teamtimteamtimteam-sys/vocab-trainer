@@ -51,3 +51,21 @@ chosen       choose
 clung        cling
 crept        creep
 cried        cry
+
+# --- d ---
+dealt        deal
+did          do
+didn't       do
+does         do
+doesn't      do
+don't        do
+drank        drink
+drew         draw
+dug          dig
+dried        dry
+drier        dry        # 也是 dryer 的另一种拼法，一并在 dry 条里交代
+driest       dry
+# d 段保留不并的（另有变形之外的义项）：
+#   done（well done、that's not done、done in）、drawn（憔悴的）、
+#   driven（有干劲的）、drove（一群牲畜、in droves）、drunk（醉汉、醉的）、
+#   drunken（形容词）、dying（临终的、the dying）、doing（it takes some doing）

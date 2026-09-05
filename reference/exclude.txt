@@ -321,3 +321,85 @@ cwt          # 缩写（英担），不是词汇
 cwtch        # 威尔士英语：抱一下 —— 按地区变体通则剔除
 crowdie      # 苏格兰英语：一种鲜奶酪
 cu.          # 缩写（立方），不是词汇
+
+# ============================================================
+# d 段（2026-09-05，动笔前一次性扫完整份清单剔出来的）
+# ============================================================
+# --- 印度英语 ---
+dabba        # 印度英语，饭盒
+dacoit       # 印度英语，持械劫匪
+dacoity      # 印度英语，持械抢劫
+dadagiri     # 印度英语，仗势欺人
+dai          # 印度英语，旧式接生婆
+dal          # 印度食物名（扁豆糊），照裁定不收
+dhal         # 同上的另一种拼法
+dastur       # 印度英语，祭司；也指惯例
+deemed university # 印度英语，一类经认定的高校
+desh         # 印度英语，故国
+desi         # 印度英语，本土的
+detenu       # 印度英语，被拘留者
+dhaba        # 印度英语，路边饭馆
+dhania       # 印度英语，芫荽
+dhansak      # 印度菜名
+dharna       # 印度英语，静坐抗议
+dhoti        # 印度英语，男式腰布（同 achkan 那条）
+dhurrie      # 印度英语，棉织地毯
+didi         # 印度英语，姐姐
+diya         # 印度英语，油灯
+dopiaza      # 印度菜名
+dosa         # 印度食物名
+dupatta      # 印度英语，长围巾
+durrie       # dhurrie 的另一种拼法
+durwan       # 印度英语，门房
+durzi        # 印度英语，裁缝
+
+# --- 东非、南非 ---
+dagaa        # 东非英语，一种小鱼
+daladala     # 东非英语，小型公共汽车
+dagga        # 南非英语，大麻
+deurmekaar   # 南非英语，乱七八糟的
+doek         # 南非英语，头巾
+dof          # 南非英语，笨的
+dogbox       # 南非英语，狭小的隔间
+donga        # 南非英语，冲沟
+dompas       # 南非英语，种族隔离时期的通行证
+dorp         # 南非英语，小镇
+dop          # 南非英语，一杯烈酒
+dwaal        # 南非英语，恍惚发呆的状态
+
+# --- 澳大利亚与新西兰 ---
+daggy        # 澳新英语，邋遢的
+daks         # 澳新英语，裤子
+dinkum       # 澳新英语，真的、地道的
+dob          # 澳新英语，告发
+dob in       # 澳新英语，把某人告发出去
+drawcard     # 澳新英语，有号召力的人或物
+dunny        # 澳新英语，厕所
+
+# --- 苏格兰、爱尔兰、加拿大 ---
+deoch an doris # 苏格兰与爱尔兰英语，临别的一杯
+dreich       # 苏格兰英语，阴冷潮湿的
+depanneur    # 加拿大英语，便利店
+
+# --- 窄专业：化学元素名（同 a 段的 actinium 那条）---
+darmstadtium # 元素名，只在元素周期表里用
+dubnium      # 同上
+dysprosium   # 同上
+
+# --- 纯专名：清洗成小写后绕过了 keep 名单 ---
+debrett's                  # 英国贵族名录，专名
+diana-princess-of-wales    # 纯人名
+disgusted-tunbridge-wells  # 报刊读者来信的固定署名，专名伪影
+dizzy-gillespie            # 纯人名（爵士乐手）
+duke-ellington             # 纯人名（爵士乐手）
+
+# --- 清洗伪影：同一条目的另一种写法，取通行那版 ---
+dos-and-don-ts # 与 dos and don'ts 同条，取带撇号那版
+don-t-know     # 与 don't-know 同条，取带撇号那版
+drum-n-bass    # 与 drum 'n' bass 同条，取带撇号那版
+
+# --- 小写带句点缩写（同 cont.、cp.、cwt 那条）---
+d.b.a.       # doing business as，表单缩写
+deg.         # degree 的缩写
+dep.         # departs 的缩写
+doz.         # dozen 的缩写

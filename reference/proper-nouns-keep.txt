@@ -425,3 +425,111 @@ Braeburn
 Bramley
 Brazilian wax
 Brie
+
+# ============================================================
+# 跨字母段的一类：月份与星期（2026-09-05 补判）
+# 开 d 段时才发现的系统性遗漏：这两类词全是大写，全在牛津清单里，
+# 却因为不在本名单而被整批静默剔掉 —— April 与 August 碰巧另有词条，
+# 其余一个都没进应收范围。它们是最基本的词汇，按「背了对英语能力
+# 有帮助吗」这条标准，一个都不该漏。
+# 各自的字母段写到时自然会被 coverage 列出来。
+# ============================================================
+January
+February
+April
+June
+July
+August
+September
+October
+November
+December
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+
+# ============================================================
+# d 段（2026-09-05 补判）—— 158 条逐条判过：收 62、剔 96。
+# 剔的是纯人名（Daniel、Dorothy…）、纯地名（Dallas、Dublin…）、
+# 商标公司（Disney、DuPont、Denny's…）、作品与角色名（Daffodils、
+# Doonesbury、Dracula、Dagwood）、机构与体例缩写（Defra、DfE、
+# Dept、Dr、DPhil、DLitt…）、单个字母 D。
+# ============================================================
+
+# --- 字母／型号构成的普通名词 ---
+D-lock
+D-notice
+DA-notice
+DSMA-notice
+D-structure
+DIYer
+DMs
+DTs
+DNA fingerprint
+DNA fingerprinting
+
+# --- 已成普通词汇的固定表达 ---
+Danegeld
+Danelaw
+Danish blue
+Danish pastry
+Davy lamp
+Decorated style
+Denver boot
+Dieu et mon droit
+Diplock court
+Doppler shift
+Down syndrome
+Down’s syndrome
+Dundee cake
+Dutch auction
+Dutch barn
+Dutch courage
+Dutch door
+Dutch elm disease
+
+# --- 医学、学科与文化概念 ---
+Dadaism
+Dadaist
+Dalek
+Dalit
+Damocles
+Darwinian
+Darwinism
+Delphic
+Demos
+Denglish
+Deutschmark
+Devanagari
+Dickensian
+Dionysiac
+Dixie
+Dixieland
+Doric
+Dravidian
+Dreamtime
+Druid
+
+# --- 族群、语言、宗教与节日 ---
+Dakota
+Dane
+Danish
+Deepavali
+Dharuk
+Divali
+Diwali
+Dominican
+
+# --- 常用国族形容词与国民称谓 ---
+Djiboutian
+Dutch
+Dutchman
+Dutchwoman
+
+# --- 已成通名的品种与物品 ---
+Dalmatian
+Dobermann
