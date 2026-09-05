@@ -1,49 +1,14 @@
-crystal
-核心：几支。一是晶体：原子排得整整齐齐的固体；二是水晶：
-透明的石英；三是高级玻璃器皿；四是钟表的表蒙子。习语
-crystal clear 是清清楚楚，a crystal ball 是水晶球，
-gaze into a crystal ball 是预卜未来。形容词 crystalline
-是晶体的、清澈的；动词 crystallize 一是结晶，二是把想法
-弄清晰。
-① Salt forms cubic crystals.
-= 盐结成立方晶体。
-a crystal = 晶体
-② The bowl is cut crystal.
-= 那个碗是刻花水晶玻璃。
-crystal = 高级玻璃器皿
-③ Her meaning was crystal clear.
-= 她的意思清清楚楚。
-crystal clear = 清清楚楚
-④ Nobody has a crystal ball.
-= 谁也没有水晶球能预知未来。
-a crystal ball = 水晶球
-⑤ The lake was crystalline.
-= 那片湖清澈见底。
-crystalline = 清澈的；晶体的
-⑥ The plan crystallized over dinner.
-= 那个计划在饭桌上成了形。
-crystallize = 明确成形
-⑦ Sugar crystallizes as it cools.
-= 糖一凉就结晶。
-crystallize = 结晶
-⑧ Crystal-gazing will not fix the budget.
-= 光靠算命解决不了预算问题。
-crystal-gazing = 凭空预测（贬义）
-⑨ Crystal meth wrecked the town.
-= 冰毒把那个镇子毁了。
-crystal meth = 冰毒
-⑩ His grandfather built a crystal set.
-= 他祖父自己装过矿石收音机。
-a crystal set = 矿石收音机
-⑪ Crystallization begins as it cools.
-= 一凉下来就开始结晶。
-crystallization = 结晶；想法成形
-⑫ A crystallographer maps atomic positions.
-= 晶体学家测定原子的位置。
-a crystallographer = 晶体学家
-crystallography = 晶体学
-构词：希腊语 krystallos 冰、水晶
-注意用法：说想法成形与说结晶是同一个词。
+CT scan
+核心：电脑断层扫描的通行说法，跟 CAT scan 是同一样检查。跟核磁共振
+分工：这个用 X 光，快、看骨头与出血好；那个用磁场，看软组织好。可数。
+① The CT scan showed no fracture.
+= 断层扫描没看到骨折。
+a CT scan = 电脑断层扫描
+② She went for a CT scan of the chest.
+= 她去做了胸部断层扫描。
+a CT scan of = ……的断层扫描
+构词：computed tomography 的首字母
+注意分工：这个用 X 光，核磁共振用磁场，看的东西不一样。
 
 cub
 核心：两支。一是幼崽：熊、狮、狐这类猛兽的孩子；二是

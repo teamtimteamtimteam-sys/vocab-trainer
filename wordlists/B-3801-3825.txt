@@ -329,6 +329,32 @@ byzantine bureaucracy = 盘根错节的官僚体系
 构词：拜占庭 Byzantium 加 -ine
 注意用法：说帝国大写，说繁复难解多小写。
 
+C-section
+核心：剖宫产：切开腹壁与子宫把胎儿取出的手术。全称 Caesarean
+section，日常口语与病历里都省成这两个字母加词。也作动词说
+be C-sectioned。可数。
+① She had an emergency C-section.
+= 她做了紧急剖宫产。
+an emergency C-section = 紧急剖宫产
+② One birth in four is a C-section here.
+= 这里每四例分娩就有一例是剖宫产。
+a C-section = 剖宫产
+构词：Caesarean section 取头一个字母加后半截
+注意用法：口语与病历常用，正式医学文字写全称。
+
+C-word
+核心：委婉说法：拿首字母代替一个说不出口的词，避免把它念出来。
+最常指那句最重的粗话，但也随场合换指别的忌讳词 —— 谈癌症时
+the C-word 指的是 cancer。同样的造法还有 the F-word、the N-word。
+① Nobody at the table would say the C-word.
+= 那张桌上没人肯把那个字说出口。
+the C-word = 那个说不出口的词
+② For years he avoided the C-word after his diagnosis.
+= 确诊之后他好些年不肯提那个字。
+avoid the C-word = 避开那个忌讳的词
+构词：首字母加 word，是一整套委婉造法
+注意用法：具体指哪个词看上下文，不是固定的。
+
 cab
 核心：可载客的车。本义是出租车，hail a cab 是招手叫车，
 by cab 是坐出租去；美式口语更常说 cab，英式更常说 taxi。
@@ -374,6 +400,19 @@ cabalistic = 神秘难解的
 构词：希伯来语 qabbalah 传承的学说，经法语进英语
 注意语域：一律贬义，不能用来中性地说团队。
 
+Cabala
+核心：卡巴拉：犹太教的一套神秘主义传统，用字母与数字的对应去解读
+经文背后的隐义。也拼 Kabbalah、Qabalah。引申着用时指任何一套只有
+内行才懂的隐秘学问。不可数。
+① He spent years studying Cabala.
+= 他研究卡巴拉研究了好多年。
+Cabala = 卡巴拉（犹太神秘主义）
+② The jargon had become a kind of cabala.
+= 那套行话已经成了外人不得其门而入的隐学。
+a kind of cabala = 一门只有内行懂的隐学
+构词：希伯来语 qabbalah 承受下来的传统
+注意拼写：Kabbalah 与 Qabalah 都是同一个词的另一种转写。
+
 cabana
 核心：海滩或泳池边的小屋，供换衣、遮阳、休息用；
 美式英语里也指旅馆主楼之外靠着泳池的那种独立客房。
@@ -406,52 +445,3 @@ a cabaret act = 一段夜总会表演节目
 cabaret = 有表演的夜总会
 构词：法语 cabaret 小酒馆
 注意读音：词尾 t 不发音。
-
-cabbage
-核心：卷心菜。英式口语里还有个很不客气的引申义，
-说人是 cabbage，指因重病或脑损伤而失去反应能力的人，
-这个用法带冒犯性，现在多避开。作菜通常不可数，
-a head of cabbage 才是一颗，指整颗时可数。
-① Shred the cabbage finely.
-= 把卷心菜切成细丝。
-shred = 切成细丝
-② She bought two heads of cabbage.
-= 她买了两颗卷心菜。
-a head of cabbage = 一颗卷心菜
-③ Red cabbage keeps its colour if you add vinegar.
-= 加点醋，紫甘蓝就不会掉色。
-red cabbage = 紫甘蓝
-构词：古法语 caboche 头，因为菜长得像个头
-注意语域：说人的那个义项带冒犯性，避免使用。
-
-cabbalistic
-核心：跟犹太神秘学说卡巴拉有关的；也泛指故弄玄虚、
-藏着只有内行才懂的玄机。另拼作 cabalistic、kabbalistic，
-三种写法通用，词典以 cabbalistic 立条，名词是 cabbala。
-多作定语，语域偏书面。
-① He studied cabbalistic texts for years.
-= 他研究卡巴拉典籍多年。
-cabbalistic = 卡巴拉的
-② The diagram was covered in cabbalistic symbols.
-= 那张图上满是神秘符号。
-cabbalistic symbols = 玄奥难解的符号
-③ Her argument had a cabbalistic complexity.
-= 她的论证复杂得近乎玄学。
-构词：希伯来语 qabbalah 传承的学说
-注意拼写：cabbalistic 与 cabalistic 通用，别当成两个词。
-
-caber
-核心：苏格兰高地运动会上抛的那根去皮杉木杆。这个词几乎
-只出现在一个搭配里：toss the caber，抛木杆。来自盖尔语
-cabar 杆、椽。可数，但很少脱离那个搭配单独出现。
-① He tossed the caber twenty feet.
-= 他把木杆抛了二十英尺远。
-toss the caber = 抛木杆
-② The caber is a stripped pine trunk.
-= 那根木杆是去了皮的松木干。
-stripped = 去了皮的
-③ Caber tossing draws the biggest crowd.
-= 抛木杆是最吸引人的项目。
-caber tossing = 抛木杆比赛
-构词：盖尔语 cabar 杆、椽
-注意用法：基本只用在 toss the caber 这个说法里。

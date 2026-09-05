@@ -1,28 +1,3 @@
-crude
-核心：几支。一是天然未加工的：crude oil 是原油；二是粗糙
-简陋的：做工或办法糙；三是粗俗下流的：说话不堪。副词
-crudely，名词 crudity。
-① Crude oil prices fell.
-= 原油价格跌了。
-crude oil = 原油
-② They built a crude shelter.
-= 他们搭了个简陋的窝棚。
-a crude shelter = 简陋的窝棚
-③ He made a crude joke.
-= 他开了个下流玩笑。
-a crude joke = 下流玩笑
-④ The map is crudely drawn.
-= 那张图画得很糙。
-crudely drawn = 画得粗糙
-⑤ The crudity of it shocked her.
-= 那份粗俗让她震惊。
-crudity = 粗俗；粗糙
-⑥ The crudeness of the joke shocked them.
-= 那个玩笑的粗俗让他们吃了一惊。
-crudeness = 粗俗；粗糙
-构词：拉丁语 crudus 生的、未熟的
-注意分工：三支共用「没经过加工细做」这个底子。
-
 crudites
 核心：生蔬菜条：胡萝卜、芹菜之类切成条生着上，配蘸酱当
 开胃菜。法语借词，也写作 crudités，只用复数。
@@ -499,3 +474,62 @@ a cryptographer = 密码学家
 a cryptographic key = 密码学密钥
 构词：希腊语 kryptos 隐藏 + graphein 写
 注意用法：不可数。
+
+crystal
+核心：几支。一是晶体：原子排得整整齐齐的固体；二是水晶：
+透明的石英；三是高级玻璃器皿；四是钟表的表蒙子。习语
+crystal clear 是清清楚楚，a crystal ball 是水晶球，
+gaze into a crystal ball 是预卜未来。形容词 crystalline
+是晶体的、清澈的；动词 crystallize 一是结晶，二是把想法
+弄清晰。
+① Salt forms cubic crystals.
+= 盐结成立方晶体。
+a crystal = 晶体
+② The bowl is cut crystal.
+= 那个碗是刻花水晶玻璃。
+crystal = 高级玻璃器皿
+③ Her meaning was crystal clear.
+= 她的意思清清楚楚。
+crystal clear = 清清楚楚
+④ Nobody has a crystal ball.
+= 谁也没有水晶球能预知未来。
+a crystal ball = 水晶球
+⑤ The lake was crystalline.
+= 那片湖清澈见底。
+crystalline = 清澈的；晶体的
+⑥ The plan crystallized over dinner.
+= 那个计划在饭桌上成了形。
+crystallize = 明确成形
+⑦ Sugar crystallizes as it cools.
+= 糖一凉就结晶。
+crystallize = 结晶
+⑧ Crystal-gazing will not fix the budget.
+= 光靠算命解决不了预算问题。
+crystal-gazing = 凭空预测（贬义）
+⑨ Crystal meth wrecked the town.
+= 冰毒把那个镇子毁了。
+crystal meth = 冰毒
+⑩ His grandfather built a crystal set.
+= 他祖父自己装过矿石收音机。
+a crystal set = 矿石收音机
+⑪ Crystallization begins as it cools.
+= 一凉下来就开始结晶。
+crystallization = 结晶；想法成形
+⑫ A crystallographer maps atomic positions.
+= 晶体学家测定原子的位置。
+a crystallographer = 晶体学家
+crystallography = 晶体学
+构词：希腊语 krystallos 冰、水晶
+注意用法：说想法成形与说结晶是同一个词。
+
+CS gas
+核心：催泪瓦斯：警方驱散人群用的刺激性气体，接触后眼睛口鼻剧烈
+灼痛。名字取自两位发明者姓氏的首字母，跟 gas 的常义无关。不可数。
+① Police fired CS gas into the crowd.
+= 警方向人群发射了催泪瓦斯。
+fire CS gas = 发射催泪瓦斯
+② CS gas leaves a burning in the eyes for hours.
+= 催泪瓦斯造成的眼部灼痛能持续几个钟头。
+CS gas = 催泪瓦斯
+构词：两位发明者姓氏的首字母
+注意用法：新闻报道里的固定说法，口语也说 tear gas。
