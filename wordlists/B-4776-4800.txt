@@ -34,9 +34,9 @@ a commodore = 海军准将
 ② He was made commodore of the yacht club.
 = 他当上了游艇俱乐部的会长。
 commodore of = ……的会长
-③ The rank sits above captain.
-= 那个军衔在上校之上。
-a rank = 军衔
+③ He was promoted to commodore.
+= 他晋升为准将。
+be promoted to commodore = 晋升为海军准将
 构词：荷兰语 kommandeur 指挥官
 注意用法：作头衔放在姓名前。
 
@@ -99,9 +99,9 @@ commonhold = 共有产权持有方式
 ② Commonhold was meant to replace leasehold.
 = 这种方式本是用来取代租赁产权的。
 leasehold = 租赁产权
-③ Few developments actually use it.
-= 实际采用的楼盘不多。
-a development = 开发的楼盘
+③ Few blocks were ever converted to commonhold.
+= 真正转成共有产权的楼没几栋。
+convert to commonhold = 转为共有产权
 构词：common 共有的 + hold 持有
 注意语域：英格兰与威尔士的法律用词。
 
@@ -243,9 +243,9 @@ a communicant = 领圣餐的人
 ② The parish has three hundred communicants.
 = 那个堂区有三百名领圣餐的教徒。
 a parish = 堂区
-③ The register lists every communicant.
-= 名册上记着每一个领圣餐的人。
-a register = 名册
+③ She was received as a communicant at Easter.
+= 她在复活节成了领圣餐的教徒。
+be received as a communicant = 被接纳为领圣餐者
 构词：communicate 的旧义「领圣餐」+ -ant
 注意语域：教会用词。
 
@@ -333,9 +333,9 @@ a joint communique = 联合公报
 ② The communique was deliberately vague.
 = 那份公报有意说得含糊。
 a communique = 公报
-③ Reporters parsed every line.
-= 记者逐句琢磨。
-parse = 逐句细读分析
+③ No communique was issued after the talks.
+= 会谈之后没有发公报。
+issue a communique = 发表公报
 构词：法语 communiqué 已传达的
 注意拼写：也写作 communiqué。
 
@@ -348,9 +348,9 @@ communism = 共产主义
 ② Communism collapsed in Eastern Europe.
 = 东欧那套体制垮了。
 communism = 苏东体制（大写时）
-③ The theory grew out of nineteenth-century economics.
-= 那套理论是从十九世纪的经济学里生出来的。
-grow out of = 由……生发出来
+③ He broke with communism in the fifties.
+= 他五十年代跟共产主义决裂了。
+break with communism = 与共产主义决裂
 构词：拉丁语 communis 公共的
 注意用法：特指苏东体制时大写。
 
@@ -401,9 +401,9 @@ commutative = 满足交换律的
 ② Subtraction is not commutative.
 = 减法不满足交换律。
 not commutative = 不满足交换律
-③ Matrix multiplication fails the rule.
-= 矩阵乘法不满足这条规则。
-fail a rule = 不满足某条规则
+③ The commutative law lets you swap the two.
+= 交换律容许把那两个对调。
+the commutative law = 交换律
 构词：commute 对调 + -ative
 注意语域：数学术语。
 
@@ -417,9 +417,9 @@ a commutator = 换向器
 ② Brushes press against the commutator.
 = 电刷压在换向器上。
 a brush = 电刷
-③ Group theory uses the same word.
-= 群论里也用这个词。
-group theory = 群论
+③ A worn commutator makes the motor stutter.
+= 换向器一磨损，马达就一顿一顿的。
+a worn commutator = 磨损的换向器
 构词：commute 对调 + -ator
 注意语域：电机与数学的专业词。
 
