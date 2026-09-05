@@ -64,9 +64,51 @@ coverage = 报道；承保范围
 ⑬ Mechanics wear coveralls.
 = 技工穿连体工装。
 coveralls = 连体工装
+a coverall = 单指一件，日常几乎总用复数
 ⑭ She covered the table with a cloth.
 = 她用一块布把桌子盖上。
 cover something with something = 用……把……盖上
+⑮ There is a five-pound cover charge at the door.
+= 门口收五镑入场费。
+a cover charge = 餐厅、夜店另收的入场费
+不并进酒水账单，单收一笔；美式场所里最常见。
+⑯ She was a cover girl in the nineties.
+= 她九十年代做过封面女郎。
+a cover girl = 封面女郎
+指常上杂志封面的模特，只用于女性，男性没有对应的常用说法。
+⑰ Send a cover letter with your CV.
+= 简历要附一封求职信。
+a cover letter = 求职信、附函（美式）
+covering letter = 求职信、附函（英式说法）
+两个词作用完全一样，说明随附的是什么、为什么投。
+⑱ The magazine ran it as the cover story.
+= 那家杂志把它做成了封面报道。
+a cover story = 封面报道；也指编来掩人耳目的说法
+两个义分别来自这个词的两支：一支是封面，一支是幌子。
+⑲ Their cover version charted higher than the original.
+= 他们的翻唱版比原版排得还高。
+a cover version = 翻唱版本
+口语里省成 a cover；动词也直接用它，说某乐队 covered 了某首歌。
+⑳ Cover yourself up, it is freezing out there.
+= 多穿点，外头冻死了。
+cover yourself up = 把自己裹严实
+反身代词随主语变；也用于叫人把裸露的身体遮起来。
+㉑ The gardener covered the beds over with straw.
+= 园丁在花畦上盖了一层稻草。
+cover over = 整片盖住
+over 强调盖得严实、看不见底下，也用于把旧墙面整片盖掉。
+㉒ They covered in the yard to make a workshop.
+= 他们给院子加了顶，改成工作间。
+cover in = 加顶封起来（英式）
+建筑上的说法：给敞着的地方加个顶，跟 cover over 意思相近但不通用。
+㉓ There was a thin covering of frost on the path.
+= 小路上结了一层薄霜。
+a covering = 覆盖的那一层
+可数；也指遮盖物本身，例如 floor coverings 是地面铺料。
+㉔ She pulled the coverlet up to her chin.
+= 她把床罩拉到下巴。
+a coverlet = 床罩、薄被面
+偏旧、偏文雅，现代日常多说 bedspread。
 构词：拉丁语 cooperire 完全盖住
 注意别混：cover for 是替班，cover up 是掩盖。
 

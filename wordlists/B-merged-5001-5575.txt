@@ -3255,6 +3255,46 @@ cornstarch = 玉米淀粉（美式）
 ⑪ The ending is corny.
 = 那个结尾很老套。
 corny = 老套肉麻的
+⑫ A tin of corn beef was all they had left.
+= 他们只剩一罐咸牛肉。
+corn beef = 咸牛肉（corned beef 的口语省写）
+这里的 corn 是老义「腌肉用的粗盐粒」，跟玉米没有关系。
+⑬ He ate corn chips with salsa.
+= 他就着莎莎酱吃玉米片。
+a corn chip = 油炸玉米片（零食）
+跟早餐的 cornflakes 不是一回事：那个泡牛奶，这个蘸酱当零嘴。
+⑭ Another corn circle appeared overnight.
+= 一夜之间又出现了一个麦田怪圈。
+a corn circle = 麦田怪圈
+英式说法，也说 crop circle；名字里的 corn 用的是英式的谷物总称义。
+⑮ The kids each had a corn dog.
+= 孩子们一人一根玉米热狗。
+a corn dog = 玉米热狗（裹玉米面糊炸的香肠）
+美式集市小吃，插在木棍上拿着吃。
+⑯ She hung a corn dolly over the door.
+= 她在门上挂了个麦秆娃娃。
+a corn dolly = 麦秆编的小人偶
+英国收割节的旧俗物；后半截是 doll 的昵称形式。
+⑰ The old corn exchange is now a concert hall.
+= 那座旧谷物交易所现在是音乐厅。
+a corn exchange = 谷物交易所（旧时的粮食交易大楼）
+英国城镇里这类老楼多半还在、只是改了用途，所以这个词今天常是个地名。
+⑱ The menu says corn-fed chicken.
+= 菜单上写的是玉米喂养的鸡。
+corn-fed = 用玉米饲养的
+餐饮宣传语，暗示肉质与颜色更好；美式也拿它形容人「乡下长大、憨壮」。
+⑲ Fry it in corn oil.
+= 用玉米油炸。
+corn oil = 玉米油
+跟 cornflour、cornmeal 一样，是「corn 加制品」的构词。
+⑳ Most sodas are sweetened with corn syrup.
+= 大多数汽水是用玉米糖浆调甜的。
+corn syrup = 玉米糖浆
+美式食品标签上的常客，全称多写作 high-fructose corn syrup。
+㉑ They served corn pone with the stew.
+= 他们配着炖菜端上了玉米饼。
+corn pone = 无发酵的玉米饼
+美国南方的说法；后半截来自当地原住民语言，别处不这么说。
 构词：古英语 corn 谷粒
 注意英美差别：英式是谷物总称，美式专指玉米。
 
@@ -5655,9 +5695,51 @@ coverage = 报道；承保范围
 ⑬ Mechanics wear coveralls.
 = 技工穿连体工装。
 coveralls = 连体工装
+a coverall = 单指一件，日常几乎总用复数
 ⑭ She covered the table with a cloth.
 = 她用一块布把桌子盖上。
 cover something with something = 用……把……盖上
+⑮ There is a five-pound cover charge at the door.
+= 门口收五镑入场费。
+a cover charge = 餐厅、夜店另收的入场费
+不并进酒水账单，单收一笔；美式场所里最常见。
+⑯ She was a cover girl in the nineties.
+= 她九十年代做过封面女郎。
+a cover girl = 封面女郎
+指常上杂志封面的模特，只用于女性，男性没有对应的常用说法。
+⑰ Send a cover letter with your CV.
+= 简历要附一封求职信。
+a cover letter = 求职信、附函（美式）
+covering letter = 求职信、附函（英式说法）
+两个词作用完全一样，说明随附的是什么、为什么投。
+⑱ The magazine ran it as the cover story.
+= 那家杂志把它做成了封面报道。
+a cover story = 封面报道；也指编来掩人耳目的说法
+两个义分别来自这个词的两支：一支是封面，一支是幌子。
+⑲ Their cover version charted higher than the original.
+= 他们的翻唱版比原版排得还高。
+a cover version = 翻唱版本
+口语里省成 a cover；动词也直接用它，说某乐队 covered 了某首歌。
+⑳ Cover yourself up, it is freezing out there.
+= 多穿点，外头冻死了。
+cover yourself up = 把自己裹严实
+反身代词随主语变；也用于叫人把裸露的身体遮起来。
+㉑ The gardener covered the beds over with straw.
+= 园丁在花畦上盖了一层稻草。
+cover over = 整片盖住
+over 强调盖得严实、看不见底下，也用于把旧墙面整片盖掉。
+㉒ They covered in the yard to make a workshop.
+= 他们给院子加了顶，改成工作间。
+cover in = 加顶封起来（英式）
+建筑上的说法：给敞着的地方加个顶，跟 cover over 意思相近但不通用。
+㉓ There was a thin covering of frost on the path.
+= 小路上结了一层薄霜。
+a covering = 覆盖的那一层
+可数；也指遮盖物本身，例如 floor coverings 是地面铺料。
+㉔ She pulled the coverlet up to her chin.
+= 她把床罩拉到下巴。
+a coverlet = 床罩、薄被面
+偏旧、偏文雅，现代日常多说 bedspread。
 构词：拉丁语 cooperire 完全盖住
 注意别混：cover for 是替班，cover up 是掩盖。
 
