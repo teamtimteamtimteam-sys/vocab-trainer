@@ -1,28 +1,28 @@
 assembly
 核心：三条线：立法或议事的"议会、大会"、学校的"晨会"、
 以及工业上的"装配"。assembly line 是高频搭配。
-① The National Assembly voted.
-= 国民议会投了票。
+① The National Assembly voted at four in the morning with half the seats empty.
+= 国民议会凌晨四点表决，一半席位空着。
 National Assembly = 国民议会
-② School assembly starts at nine.
-= 学校晨会九点开始。
+② School assembly starts at nine and overruns about twice a week.
+= 全校集会九点开始，一周大约超时两次。
 school assembly = 全校集会
-③ Cars come off the assembly line.
-= 汽车从流水线上下来。
+③ Cars come off the assembly line at one every ninety seconds.
+= 汽车每九十秒下线一辆。
 assembly line = 装配线
-④ Freedom of assembly is protected.
-= 集会自由受保护。
+④ Freedom of assembly is protected on paper and policed in practice.
+= 集会自由在纸面上受保护，实际却被管着。
 freedom of assembly = 集会自由
 词族：
 assemble = 集合；组装
-⑤ He wrote the driver in assembly language.
-= 他用汇编语言写了那个驱动。
+⑤ He wrote the driver in assembly language and nobody can maintain it.
+= 他用汇编语言写了驱动，没人维护得了。
 assembly language = 汇编语言
-⑥ The talks were held in the assembly room.
-= 会谈在会议厅举行。
+⑥ The talks were held in the assembly room above the old library.
+= 会谈在老图书馆楼上的会议厅举行。
 assembly room = 会议厅、集会厅
-⑦ An assemblyman tabled the bill.
-= 一位州众议员提交了那项法案。
+⑦ An assemblyman tabled the bill and an assemblywoman killed it.
+= 一位州众议员提出了这项法案，另一位女议员把它否了。
 assemblyman = 州议会众议员（美式）
 assemblywoman = 女性州议会众议员
 
@@ -380,29 +380,29 @@ assistant
 定语"副的、助理的"，assistant manager 是副经理，不是"经理的助手"。
 英美的职级切法不同：英式的 shop assistant 是店员，美式学界的
 assistant professor 是终身轨的最低一级，不是"教授的助手"。
-① She is my assistant.
-= 她是我的助手。
+① She is my assistant and knows where everything in this office is.
+= 她是我的助手，这办公室里什么在哪儿她都清楚。
 名词单用。
-② He is assistant manager.
-= 他是副经理。
+② He is assistant manager and does the work of two people.
+= 他是副经理，干着两个人的活。
 assistant manager = 副经理
 定语用法：他本人就是那个职位，不是给经理打杂。
-③ A shop assistant helped us.
-= 一名店员帮了我们。
+③ A shop assistant helped us find something nobody else could.
+= 一位店员帮我们找到了别人都找不着的东西。
 shop assistant = 店员（英式）
 注意地域：美式说 sales clerk。
-④ She is an assistant professor.
-= 她是助理教授。
+④ She is an assistant professor and teaches four courses a semester.
+= 她是助理教授，一学期上四门课。
 assistant professor = 助理教授（美式，终身轨最低一级）
-⑤ The assistant referee raised the flag.
-= 助理裁判举了旗。
+⑤ The assistant referee raised the flag and lowered it again at once.
+= 助理裁判举起旗，又立刻放了下来。
 assistant referee = 助理裁判（即边裁）
-⑥ Ask the virtual assistant.
-= 问问那个语音助手。
+⑥ Ask the virtual assistant; it will get about half of it wrong.
+= 问问虚拟助手吧，它大约会答错一半。
 virtual assistant = 虚拟助手
 今天这个搭配多指软件，不指人。
-⑦ He won a research assistantship.
-= 他拿到了研究助理的岗位与津贴。
+⑦ He won a research assistantship and lived on it for three years.
+= 他拿到了一个研究助理岗位，靠它过了三年。
 assistantship = 助理职位（含津贴的研究生岗）
 词族：
 assist = 协助
