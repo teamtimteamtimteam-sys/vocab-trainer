@@ -906,6 +906,9 @@ a contact sport = 身体接触型运动
 ⑩ He lost a contact lens.
 = 他丢了一片隐形眼镜。
 a contact lens = 隐形眼镜
+⑪ We kept in contact for years.
+= 我们保持了多年联系。
+keep in contact = 保持联系
 构词：拉丁语 contingere 触到
 注意用法：作联系讲不可数，作熟人门路讲可数。
 
@@ -1166,6 +1169,9 @@ contextual clues = 上下文线索
 ⑤ The essay contextualizes the painting.
 = 那篇文章把那幅画放回了它的时代。
 contextualize = 放回背景里理解
+⑥ In this context, it means something else.
+= 在这个语境里那是另一个意思。
+in this context = 在这个语境里
 构词：拉丁语 contexere 编织到一起
 注意搭配：out of context 是高频固定说法。
 
@@ -1272,6 +1278,9 @@ a continuation of = ……的续篇
 ⑤ The judge granted a continuance.
 = 法官准了延期审理。
 a continuance = 延期审理（美式法律）
+⑥ He continued to work through the break.
+= 他休息时间还接着干。
+continue to do = 接着做
 构词：拉丁语 continuare 接下去
 注意搭配：接动名词与接不定式意思一样。
 
@@ -1435,6 +1444,9 @@ contractually obliged = 按合同有义务的
 ⑩ It is a contractual matter.
 = 那是合同上的事。
 a contractual matter = 合同事项
+⑪ The player is under contract until June.
+= 那名球员合同签到六月。
+under contract = 在合同期内
 构词：拉丁语 contrahere 拉到一起
 注意读音：名词重音在前，动词重音在后。
 
@@ -1680,6 +1692,9 @@ a contributor = 撰稿人；贡献者
 ⑥ Speed was a contributory factor.
 = 车速是促成因素之一。
 a contributory factor = 促成因素
+⑦ She made a large contribution.
+= 她作了一大笔捐助。
+make a contribution = 作出贡献
 构词：拉丁语 contribuere 一同拿出
 注意搭配：三支介词都用 to。
 
@@ -1760,6 +1775,9 @@ a control room = 控制室
 ⑪ The control tower lost contact.
 = 塔台失去了联系。
 a control tower = 塔台
+⑫ The remote control needs batteries.
+= 遥控器该换电池了。
+a remote control = 遥控器
 构词：中古法语 contreroller 核对副本账册
 注意搭配：in control of 是掌控，under control 是局面稳住了。
 
@@ -2145,6 +2163,9 @@ conveyancing = 产权转让手续
 ⑥ The conveyancer checked the title.
 = 办转让的人核了产权。
 a conveyancer = 办产权转让的人
+⑦ Bags come round on the conveyor belt.
+= 行李从传送带上转过来。
+a conveyor belt = 传送带
 构词：拉丁语 con- 共 + via 路
 注意用法：传达那一支最常用。
 
@@ -2190,6 +2211,12 @@ a convincing argument = 有说服力的论证
 ⑤ They won convincingly.
 = 他们赢得毫无悬念。
 convincingly = 令人信服地
+⑥ She convinced him to stay.
+= 她说服他留下了。
+convince somebody to do = 说服某人做
+⑦ I am convinced that it works.
+= 我确信那管用。
+be convinced that = 确信
 构词：拉丁语 convincere 完全说服
 注意分工：这个偏让人信，persuade 偏让人做。
 
@@ -2395,6 +2422,9 @@ coolant = 冷却液
 ⑩ Put the beers in the cooler.
 = 把啤酒放进冷藏箱。
 a cooler = 冷藏箱
+⑪ Let the engine cool down.
+= 让发动机凉下来。
+cool down = 冷却下来；消气
 构词：古英语 col 凉的
 注意语域：第四支是口语，正式文字里不用。
 
@@ -2992,6 +3022,9 @@ rotten to the core = 烂到骨子里
 ⑧ Core the apples before baking.
 = 苹果烤之前先去核。
 core = 去核
+⑨ Honesty is a core value here.
+= 诚实是这里的核心价值。
+a core value = 核心价值
 构词：来路不明，中古英语已有
 注意用法：作形容词只放名词前。
 
@@ -3421,6 +3454,9 @@ a corporation = 大公司
 ⑥ Corporatism gave unions a seat at the table.
 = 那套体制让工会有了一席之地。
 corporatism = 社团主义
+⑦ The rebrand improved their corporate image.
+= 换标提升了他们的企业形象。
+corporate image = 企业形象
 构词：拉丁语 corporare 结成一体
 注意分工：corporate 说公司整体，不说单个员工。
 

@@ -27394,6 +27394,9 @@ armchair critic = 纸上谈兵者
 ③ Armchair travel is popular.
 = 足不出户的神游很流行。
 armchair traveller = 神游旅行者
+④ He likes to sit in an armchair and read.
+= 他喜欢坐在扶手椅里看书。
+sit in an armchair = 坐在扶手椅里
 构词：arm 扶手 + chair 椅
 注意：armchair 作定语一定是贬义，
 指只说不做。
@@ -72187,6 +72190,12 @@ cable stitch = 麻花针（编织）
 ⑨ Cable television reached the village late.
 = 有线电视很晚才通到那个村。
 cable television = 有线电视
+⑩ Cable TV reached the village late.
+= 有线电视很晚才通到那个村。
+cable TV = 有线电视
+⑪ A power cable runs under the road.
+= 一根电力电缆从路底下过。
+a power cable = 电力电缆
 构词：晚期拉丁语 capulum 套索
 注意用法：电报义已过时，只在历史语境里读到。
 
@@ -72739,6 +72748,9 @@ a cage fighter = 笼斗格斗选手
 ⑥ Cage fighting draws big crowds.
 = 笼斗比赛很吸引观众。
 cage fighting = 笼斗格斗
+⑦ Coaxing the bird out of a cage takes patience.
+= 把鸟从笼子里哄出来得有耐心。
+out of a cage = 从笼子里出来
 构词：拉丁语 cavea 中空处、围栏
 注意语域：cagey 是口语，带点不信任的口气。
 
@@ -73045,6 +73057,9 @@ calculator = 计算器
 ⑨ The damage is not calculable.
 = 那个损失无法计量。
 calculable = 算得出来的
+⑩ A rough calculation put it at ten thousand.
+= 粗略一算是一万。
+a rough calculation = 粗略估算
 构词：拉丁语 calculus 小石子，古人用石子计数
 注意用法：calculating 说人一定贬义，calculated 只是有意的。
 
@@ -74013,6 +74028,12 @@ camp it up = 故意夸张做作
 ⑯ Fans camped out overnight.
 = 粉丝在外面守了一夜。
 camp out = 露宿、在外守候
+⑰ They set up camp beside the river.
+= 他们在河边扎了营。
+set up camp = 扎营
+⑱ She runs a summer training camp.
+= 她办了个暑期集训营。
+a training camp = 集训营
 构词：拉丁语里表示平地的那个词，本指军队扎营的地方
 注意用法：做作义与宿营义毫无关系，靠词性分。
 
@@ -74039,6 +74060,9 @@ campaigner = 活动人士
 ⑥ Years of campaigning changed the law.
 = 多年的奔走促成了法律的改变。
 campaigning = 持续的倡导活动
+⑦ The charity launched a campaign.
+= 那家慈善机构发起了一场运动。
+launch a campaign = 发起一场运动
 构词：法语 campagne 原野，本指军队开到野外作战
 注意用法：三支的共同点是有组织、有目标、持续一段时间。
 
@@ -74350,6 +74374,9 @@ cancel out = 相互抵销
 ⑤ We got a seat from a cancellation.
 = 有人退订，我们才有座。
 cancellation = 取消；退掉的名额
+⑥ He cancelled an order for fifty units.
+= 他取消了五十台的订单。
+cancel an order = 取消订单
 构词：拉丁语 cancellare 画上格子划掉
 注意拼写：英式 cancelled，美式 canceled。
 
@@ -74490,6 +74517,9 @@ burn the candle at both ends = 两头耗、过度消耗自己
 ⑦ No one can hold a candle to her.
 = 谁都比不上她。
 not hold a candle to = 远不如
+⑧ She blew out the birthday candles.
+= 她吹灭了生日蜡烛。
+a birthday candle = 生日蜡烛
 构词：拉丁语 candere 发白光
 注意用法：两个习语都很高频。
 
@@ -75156,6 +75186,12 @@ to cap it all = 更有甚者
 ⑧ Cap and trade puts a price on emissions.
 = 总量管制与交易给排放定了价。
 cap and trade = 排放总量管制与交易
+⑨ Screw the bottle cap on tight.
+= 把瓶盖拧紧。
+a bottle cap = 瓶盖
+⑩ Swimmers must wear a swimming cap.
+= 游泳的人要戴泳帽。
+a swimming cap = 泳帽
 构词：晚期拉丁语 cappa 头巾、斗篷
 注意用法：设上限那一支在财经报道里很常见。
 
@@ -75618,6 +75654,12 @@ a captain general = 总司令（旧衔）
 ⑥ He is described as a captain of industry.
 = 他被称作实业巨子。
 a captain of industry = 实业巨子
+⑦ She was made team captain.
+= 她当上了队长。
+a team captain = 队长
+⑧ The ship's captain signed the log.
+= 船长在航海日志上签了字。
+a ship's captain = 船长
 构词：晚期拉丁语 capitaneus 首领，出自 caput 头
 注意用法：同一个军衔词在陆军与海军里级别不同。
 
@@ -75728,6 +75770,9 @@ capture data = 采集数据
 ⑥ The capture of the fort ended the war.
 = 那座要塞一被攻下，战争就结束了。
 the capture of = 对……的攻占
+⑦ The opening line captures attention.
+= 头一句就抓住了注意力。
+capture attention = 抓住注意力
 构词：拉丁语 capere 拿、抓
 注意用法：抓抽象事物那一支在评论文字里很常见。
 
@@ -76081,6 +76126,9 @@ carbonated = 充了碳酸气的
 = 那道煤层在含煤岩层里。
 carboniferous = 含煤的
 煤本身就是碳，所以含煤的岩层用这个形容词。
+㉑ Carbon emissions fell by a fifth.
+= 碳排放降了五分之一。
+carbon emissions = 碳排放
 构词：拉丁语 carbo 炭
 注意用法：气候文字里那一族说法最常读到。
 
@@ -77086,6 +77134,9 @@ carpet sweeper = 地毯清扫器
 ⑫ He arrived with a carpet bag.
 = 他拎着一个毯料旅行包来的。
 a carpet bag = 毯料旅行袋
+⑬ He vacuums the carpet on Sundays.
+= 他周日吸地毯。
+vacuum the carpet = 吸地毯
 构词：拉丁语 carpere 撕扯，本指撕碎旧布织成的厚料
 注意别混：rug 只铺一块，这个铺满整地。
 
@@ -77735,6 +77786,9 @@ up 是收拢、结清，零售业每天打烊都做这件事。
 ㉓ He was cashed up after the sale.
 = 卖掉之后他手头很宽裕。
 cashed up = 手头有钱的（口语）
+㉔ They prefer to pay in cash.
+= 他们更愿意付现金。
+pay in cash = 付现金
 构词：法语 casse 钱箱
 注意用法：不可数，不说 a cash。
 
@@ -78180,6 +78234,15 @@ casualness = 漫不经心
 ⑦ Casualization of the workforce continues.
 = 用工临时化还在继续。
 casualization = 用工临时化
+⑧ The office allows casual clothes.
+= 那间办公室允许穿便装。
+casual clothes = 便装
+⑨ Casual Friday started in the nineties.
+= 周五便装日是九十年代兴起的。
+casual Friday = 周五便装日
+⑩ Casual workers get no sick pay.
+= 临时工没有病假工资。
+a casual worker = 临时工
 构词：拉丁语 casus 偶然、遭遇
 注意用法：临时用工那一支在劳动政策文字里常见。
 
@@ -78645,6 +78708,9 @@ catch at = 一把去抓
 = 他们在两季之间抢种一茬。
 a catch crop = 间隙抢种的作物
 抢在两季之间的空当种，所以叫这个名。
+㉔ Run or you will not catch the bus.
+= 快跑，不然赶不上车。
+catch the bus = 赶上公交
 构词：古法语 cachier 追捕
 注意用法：三态是 catch－caught－caught。
 
@@ -78702,6 +78768,9 @@ a categorical denial = 断然否认
 ⑥ She categorically refused.
 = 她一口回绝。
 categorically = 斩钉截铁地
+⑦ She categorises every receipt.
+= 她把每张收据都归类。
+categorise = 归类（英式拼法）
 构词：希腊语 kategoria 陈述、断言
 注意用法：categorical 说的是语气斩钉截铁，不是分类的。
 
@@ -79758,6 +79827,12 @@ celebrated = 著名的、受赞誉的
 ⑥ They opened a celebratory bottle.
 = 他们开了瓶酒庆祝。
 celebratory = 庆祝性的
+⑦ They celebrated by opening champagne.
+= 他们开香槟庆祝。
+celebrate by doing = 以……来庆祝
+⑧ We celebrated our tenth anniversary.
+= 我们庆祝了十周年。
+celebrate an anniversary = 庆祝周年
 构词：拉丁语 celebrare 举行、聚众
 注意别混：celebrated 是著名的，不是被庆祝的。
 
@@ -79906,6 +79981,12 @@ cellular = 移动电话的（美式）
 ⑨ Switch your cell phone off.
 = 把手机关掉。
 a cell phone = 手机（美式）
+⑩ Brain cells barely divide in adults.
+= 成年人的脑细胞几乎不分裂。
+a brain cell = 脑细胞
+⑪ The cell wall keeps the shape.
+= 细胞壁维持着形状。
+a cell wall = 细胞壁
 构词：拉丁语 cella 小室
 注意用法：美式的手机义在英式里说 mobile。
 
@@ -80398,6 +80479,9 @@ a centre spread = 报刊中间的跨页
 = 她一下就成了众人焦点。
 take centre stage = 站到舞台中央、成为焦点
 从舞台正中那个位置比喻来的，今天多用比喻义。
+㉔ She hates being the centre of attention.
+= 她讨厌成为众人注目的焦点。
+the centre of attention = 众人注目的焦点
 构词：拉丁语 centrum 圆心
 注意拼写：英式 centre 一族，美式 center 一族，各拼各的。
 
@@ -80668,6 +80752,9 @@ an opening ceremony = 开幕式
 ⑥ A graduation ceremony is held each June.
 = 毕业典礼每年六月举行。
 a graduation ceremony = 毕业典礼
+⑦ The closing ceremony ran late.
+= 闭幕式拖晚了。
+a closing ceremony = 闭幕式
 构词：拉丁语 caerimonia 神圣仪节
 注意用法：两个习语都很常读到。
 
@@ -81245,6 +81332,12 @@ chairperson = 中性说法的主席
 ⑨ His chairmanship lasted six years.
 = 他的主席任期六年。
 chairmanship = 主席职位与任期
+⑩ Take a chair and we will begin.
+= 找把椅子坐下，我们就开始。
+take a chair = 找把椅子坐下
+⑪ He sat on a chair by the door.
+= 他坐在门边一把椅子上。
+sit on a chair = 坐在椅子上
 构词：希腊语 kathedra 座位
 注意用法：今天多用中性的 chair 或 chairperson。
 
@@ -81356,6 +81449,12 @@ a chalk talk = 在板上边画边讲（美式）
 = 那就算是没经验吧。
 chalk something up to = 把……归因于
 chalk up to 的宾语放在中间，整体是归因于的意思。
+⑨ Give me a piece of chalk.
+= 给我一支粉笔。
+a piece of chalk = 一支粉笔
+⑩ The brothers are like chalk and cheese.
+= 那兄弟俩天差地别。
+like chalk and cheese = 天差地别
 构词：拉丁语 calx 石灰
 注意用法：两个习语都高频。
 
@@ -81399,6 +81498,12 @@ a challenger = 挑战者
 ⑥ Facilities for visually challenged readers are upstairs.
 = 为视力障碍读者备的设施在楼上。
 visually challenged = 有视力障碍的（委婉说法）
+⑦ She challenged him to a rematch.
+= 她下战书要跟他再打一场。
+challenge somebody to do = 激某人去做某事
+⑧ They face a real challenge.
+= 他们面临一个真正的难题。
+face a challenge = 面对难题
 构词：拉丁语 calumnia 诬告，本义是提出指控
 注意用法：challenging 是褒义，说的是值得应对，不是麻烦。
 
@@ -81606,6 +81711,12 @@ a championship = 锦标赛；冠军头衔
 ⑤ He rode as champion jockey that season.
 = 那个赛季他是头号骑师。
 a champion jockey = 头号骑师
+⑥ The defending champion went out early.
+= 卫冕冠军早早出局。
+the defending champion = 卫冕冠军
+⑦ He was champion of the world at nineteen.
+= 他十九岁就是世界冠军。
+champion of the world = 世界冠军
 构词：晚期拉丁语 campio 斗士
 注意用法：动词义在新闻里很常见。
 
@@ -82133,6 +82244,12 @@ chapter and verse = 一字不差、连出处都说得出
 ⑤ The chapter house adjoins the cloister.
 = 议事堂紧挨着回廊。
 a chapter house = 教士议事堂
+⑥ The opening chapter sets the tone.
+= 开篇那章定了调子。
+the opening chapter = 开篇一章
+⑦ The final chapter ties it together.
+= 最后一章把线索收拢。
+the final chapter = 最后一章
 构词：拉丁语 capitulum 小标题，出自 caput 头
 注意用法：分会那一支在美式社团语境里常见。
 
@@ -82339,6 +82456,9 @@ a charge nurse = 护士长
 ⑲ The charge sheet named four counts.
 = 起诉书列了四项罪名。
 a charge sheet = 警方起诉书
+⑳ Delivery is free of charge.
+= 送货免费。
+free of charge = 免费
 构词：晚期拉丁语 carricare 装车
 注意用法：收费、指控、充电、负责四支都极高频。
 
@@ -82428,6 +82548,9 @@ charity begins at home = 先顾好自家人
 ⑤ She buys books at the charity shop.
 = 她在慈善二手店买书。
 a charity shop = 慈善二手店（英式）
+⑥ He did it out of charity.
+= 他是出于善心才做的。
+out of charity = 出于善心
 构词：拉丁语 caritas 亲爱、仁爱
 注意语域：靠救济那一层带一点难为情的意味。
 
@@ -82573,6 +82696,15 @@ a chart-topper = 排行榜冠军
 ⑦ It was a chart-topping album.
 = 那是张登顶的专辑。
 chart-topping = 登上排行榜首的
+⑧ A pie chart shows the split.
+= 饼图显示了那个占比。
+a pie chart = 饼图
+⑨ Draw a flow chart first.
+= 先画个流程图。
+a flow chart = 流程图
+⑩ Ticket prices went off the charts.
+= 票价高得离谱。
+off the charts = 高得离谱
 构词：拉丁语 charta 纸、纸卷
 注意用法：排行榜那一支多用复数。
 
@@ -82675,6 +82807,15 @@ cut to the chase = 直说重点
 ⑦ He had a beer as a chaser.
 = 他喝了杯啤酒压一压。
 a chaser = 烈酒后跟的那杯
+⑧ The dog chased after the ball.
+= 那条狗追着球跑。
+chase after = 追着……跑
+⑨ She chased a dream for ten years.
+= 她追了十年的梦。
+chase a dream = 追梦
+⑩ He chased the cat away.
+= 他把猫赶走了。
+chase away = 赶走
 构词：古法语 chacier 追捕，与 catch 同源
 注意用法：cut to the chase 与 chase up 都很高频。
 
@@ -83022,6 +83163,9 @@ cheat somebody out of = 骗走某人的……
 ⑧ Bring a cheat sheet to the lab.
 = 实验课带一张要点纸。
 a cheat sheet = 要点小抄
+⑨ The cheater was disqualified.
+= 那个作弊的被取消了资格。
+a cheater = 作弊者（美式多用）
 构词：由旧法律词 escheat 没收 截短而来
 注意用法：出轨那一支在日常口语里很常用。
 
@@ -83283,6 +83427,9 @@ cheese-paring = 斤斤计较地省小钱
 ⑪ Cheese straws went round with drinks.
 = 奶酪酥条配着酒传了一圈。
 a cheese straw = 奶酪酥条
+⑫ Cut me a piece of cheese.
+= 给我切块奶酪。
+a piece of cheese = 一块奶酪
 构词：拉丁语 caseus 奶酪
 注意用法：cheesy 的俗气义与 cheesed off 都很口语。
 
@@ -83647,6 +83794,9 @@ chesty = 痰多咳得重的（英式）
 ⑧ The meat is in the chest freezer.
 = 肉在卧式冰柜里。
 a chest freezer = 卧式冰柜
+⑨ He got it off his chest at last.
+= 他终于把憋着的话说了出来。
+get something off one's chest = 把憋着的话说出来
 构词：希腊语 kiste 箱子
 注意用法：那两个习语都很高频。
 
@@ -86832,6 +86982,9 @@ circumstantial evidence = 间接证据
 ⑤ She gave a circumstantial account.
 = 她讲得很详尽。
 circumstantial = 详尽细致的
+⑥ Under the circumstances, we agreed.
+= 在那种情形下我们答应了。
+under the circumstances = 在那种情形下
 构词：拉丁语 circum 环绕 加 stare 站
 注意用法：间接证据那个搭配在法律文字里最常读到。
 
@@ -87636,6 +87789,9 @@ a clapperboard = 场记板
 ⑨ The clapping died down.
 = 掌声渐渐停了。
 clapping = 鼓掌这件事本身
+⑩ She clapped her hands twice.
+= 她拍了两下手。
+clap one's hands = 拍手
 构词：古英语 clappan 拍打
 注意用法：clap eyes on 与 clapped out 都是口语。
 
@@ -88808,6 +88964,9 @@ a climber = 登山者；攀缘植物
 ⑦ She took up climbing at forty.
 = 她四十岁开始攀岩。
 climbing = 攀登、攀岩
+⑧ He climbed up onto the roof.
+= 他爬上了屋顶。
+climb up = 爬上去
 构词：古英语 climban
 注意用法：退让那一支在政治报道里常读到。
 
@@ -90917,6 +91076,9 @@ wake up and smell the coffee = 认清现实
 = 教堂办了场上午的募款茶会。
 a coffee morning = 募款茶会（英式）
 这是英式的一种小型慈善活动：上午聚在一起喝咖啡、顺便募捐。
+⑦ She ordered a white coffee.
+= 她要了杯加奶咖啡。
+a white coffee = 加奶咖啡（英式）
 构词：阿拉伯语 qahwa，经土耳其语进欧洲各语
 注意用法：说一杯时可数。
 
@@ -91189,6 +91351,9 @@ two sides of the same coin = 一体两面
 ⑤ Decimal coinage came in 1971.
 = 十进制币制是一九七一年起用的。
 coinage = 币制、造币；也指新造的词
+⑥ They tossed a coin to decide.
+= 他们扔硬币决定的。
+toss a coin = 扔硬币定夺
 构词：拉丁语 cuneus 楔，因铸币用楔形模
 注意用法：造词那一支在语言与评论文字里常读到。
 
@@ -91364,6 +91529,9 @@ coldly = 冷淡地
 ⑪ The coldness in his voice was clear.
 = 他声音里的冷淡很明显。
 coldness = 寒冷；冷淡
+⑫ She has a bad cold.
+= 她感冒得厉害。
+have a cold = 感冒
 构词：古英语 cald
 注意用法：那一族固定说法都很高频。
 
@@ -92665,6 +92833,9 @@ comfortably off = 家境宽裕
 ⑦ Put on something comfy.
 = 换件舒服点的衣服。
 comfy = 舒服的（口语）
+⑧ The chair is uncomfortable.
+= 那把椅子坐着不舒服。
+uncomfortable = 不舒服的
 构词：comfort 舒适 + -able
 注意用法：comfy 只说东西与衣物，不说人的心情。
 
@@ -94321,6 +94492,9 @@ the competent authority = 主管机关
 ④ She handled it competently.
 = 她处理得很到位。
 competently = 称职地
+⑤ She is competent in three languages.
+= 她三门语言都过关。
+be competent in = 在……上够格
 构词：拉丁语 competens 相称的
 注意语气：说作品够格，其实是不高的评价。
 
@@ -95163,6 +95337,9 @@ computerize = 使电脑化
 ⑤ Computerization cut the staff in half.
 = 电脑化把人手裁掉了一半。
 computerization = 电脑化
+⑥ He works on a computer all day.
+= 他整天对着电脑干活。
+work on a computer = 用电脑工作
 构词：compute 计算 + -er
 注意来历：这个词本来指做计算的人，后来才归给机器。
 
@@ -95406,6 +95583,9 @@ a concept car = 概念车
 ④ The restaurant has a new concept.
 = 那家餐厅换了套经营构想。
 a concept = 经营构想
+⑤ They have no concept of risk.
+= 他们对风险毫无概念。
+have no concept of = 对……毫无概念
 构词：拉丁语 conceptum 所构想之物
 注意分工：比 idea 更成体系。
 
@@ -95473,6 +95653,9 @@ the people concerned = 相关的人
 ⑧ We had a letter concerning the rent.
 = 我们收到一封关于租金的信。
 concerning = 关于
+⑨ Parents are concerned about the delay.
+= 家长对那次延误感到担心。
+be concerned about = 对……担心
 构词：拉丁语 concernere 关涉
 注意用法：concerned 放名词前是担心，放名词后是相关。
 
@@ -96442,6 +96625,9 @@ confident that = 确信
 ④ He answered confidently.
 = 他答得很笃定。
 confidently = 有把握地
+⑤ She is confident about the result.
+= 她对结果有把握。
+be confident about = 对……有把握
 构词：confidence 自信 + -ent
 注意搭配：介词用 of 或 about。
 

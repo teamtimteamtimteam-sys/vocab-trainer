@@ -242,6 +242,9 @@ calculator = 计算器
 ⑨ The damage is not calculable.
 = 那个损失无法计量。
 calculable = 算得出来的
+⑩ A rough calculation put it at ten thousand.
+= 粗略一算是一万。
+a rough calculation = 粗略估算
 构词：拉丁语 calculus 小石子，古人用石子计数
 注意用法：calculating 说人一定贬义，calculated 只是有意的。
 

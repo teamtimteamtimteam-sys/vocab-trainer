@@ -122,6 +122,12 @@ a captain general = 总司令（旧衔）
 ⑥ He is described as a captain of industry.
 = 他被称作实业巨子。
 a captain of industry = 实业巨子
+⑦ She was made team captain.
+= 她当上了队长。
+a team captain = 队长
+⑧ The ship's captain signed the log.
+= 船长在航海日志上签了字。
+a ship's captain = 船长
 构词：晚期拉丁语 capitaneus 首领，出自 caput 头
 注意用法：同一个军衔词在陆军与海军里级别不同。
 
@@ -232,6 +238,9 @@ capture data = 采集数据
 ⑥ The capture of the fort ended the war.
 = 那座要塞一被攻下，战争就结束了。
 the capture of = 对……的攻占
+⑦ The opening line captures attention.
+= 头一句就抓住了注意力。
+capture attention = 抓住注意力
 构词：拉丁语 capere 拿、抓
 注意用法：抓抽象事物那一支在评论文字里很常见。
 

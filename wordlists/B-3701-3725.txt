@@ -290,6 +290,12 @@ cable stitch = 麻花针（编织）
 ⑨ Cable television reached the village late.
 = 有线电视很晚才通到那个村。
 cable television = 有线电视
+⑩ Cable TV reached the village late.
+= 有线电视很晚才通到那个村。
+cable TV = 有线电视
+⑪ A power cable runs under the road.
+= 一根电力电缆从路底下过。
+a power cable = 电力电缆
 构词：晚期拉丁语 capulum 套索
 注意用法：电报义已过时，只在历史语境里读到。
 
