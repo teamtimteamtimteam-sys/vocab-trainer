@@ -10,7 +10,7 @@ a caucus = 党团会议
 a caucus = 议员小组
 ③ Members caucused before the vote.
 = 表决前议员们先开了小会。
-caucus = 开党团会议
+caucus = 开党团会议（作动词）
 构词：可能出自北美原住民语言里表示顾问的词
 注意用法：美式政治里最常见。
 

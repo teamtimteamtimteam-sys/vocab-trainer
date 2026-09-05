@@ -596,11 +596,9 @@ craw
 ① The bird's craw was full of grit.
 = 那只鸟的嗉囊里全是砂粒。
 a craw = 嗉囊
+craw = 嗉囊（几乎只用于那个习语）
 ② That apology stuck in his craw.
 = 那声道歉他咽不下去。
 stick in one's craw = 让人咽不下这口气
-③ Craw appears mostly in that one idiom.
-= 这个词几乎只出现在那一个习语里。
-craw = 嗉囊（几乎只用于那个习语）
 构词：中古英语 crawe
 注意用法：几乎只活在 stick in one's craw 里。

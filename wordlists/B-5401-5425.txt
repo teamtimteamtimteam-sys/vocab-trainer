@@ -61,12 +61,10 @@ cosmogony
 ① Every culture has its cosmogony.
 = 每种文化都有自己的宇宙起源说。
 a cosmogony = 宇宙起源论
+cosmogony = 宇宙起源论
 ② The poem sets out a cosmogony.
 = 那首诗铺陈了一套宇宙起源说。
 set out a cosmogony = 铺陈宇宙起源说
-③ Cosmogony asks how it all began.
-= 宇宙起源论问的是这一切怎么开始的。
-cosmogony = 宇宙起源论
 构词：希腊语 kosmos 宇宙 + gonia 生成
 注意分工：这个问「怎么开始」，cosmology 问「整体是怎样的」。
 

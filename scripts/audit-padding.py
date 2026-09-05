@@ -133,12 +133,46 @@ def main(argv):
     # believe「I believe her / I believe in her」这种最小对立对是有意为之，
     # 必须放行 —— 判据收紧成「词集完全相同」，或者「差一个词且译出的
     # 中文也一模一样」（bell jar / bell glass 那种同义词各占一条）。
+    # 2026-09-06 补第二条判据：上面只比例句字面，比不出「例句写得不一样、
+    # 教的其实是同一件事」——bluff 一条词条里 bluff your way in / into /
+    # out of / through 占了四个义项，cable television 与 cable TV 各占一条。
+    # 用户当天明令：重复义项只保留一个，不要遗漏义项，也不要硬凑义项。
+    # 尺子改成看等式：左边剥掉冠词与占位词后相同，且右边中文释义也基本相同，
+    # 才算重复 —— 单看左边会误伤 dig in / draw in 这类真的一词多义的短语动词。
+    EQPH = ('a', 'an', 'the', 'to', 'be', 'somebody', 'something', 'sb', 'sth',
+            'one', 'ones', 'your', 'his', 'her', 'their', 'its', 'my', 'our',
+            'oneself', 'yourself', 'himself', 'herself', 'itself', 'themselves',
+            'so', 'it')
+    def eq_lhs(l):
+        # 这里不能用 fold：它把数字也抹掉，caesium-137 会跟 caesium 撞成一条。
+        t = re.sub(r'[^a-z0-9 ]', ' ', l.split('=', 1)[0].lower())
+        return ' '.join(x for x in t.split() if x not in EQPH)
+    def eq_rhs(l):
+        # 括号里的限定语不能剥：这张表的区别常常就写在括号里
+        # （「贝都因人（全体）」对「一个贝都因人」）。剥掉就把真义项也判成重复。
+        return re.sub(r'[，。、,.;；！!？?　 ]', '', l.split('=', 1)[1])
+    def first_eq(b):
+        for l in b:
+            if cw.EQ.match(l) and '=' in l and not l.startswith('= '): return l
+        return None
+
     import itertools
     dupes = []
     for h, L in entries():
         if seg and not h.lower().startswith(seg): continue
         ss = [(e.strip(), b) for e, b in senses(L)]
         for (e1, b1), (e2, b2) in itertools.combinations(ss, 2):
+            q1, q2 = first_eq(b1), first_eq(b2)
+            if q1 and q2 and eq_lhs(q1) == eq_lhs(q2) and eq_lhs(q1):
+                # 中文释义要卡得很紧才行：Bahamian「巴哈马的 / 巴哈马人」、
+                # another「再一个 / 另一个」都共着大半个字面，却是两个真义项。
+                # 阈值放到 0.8，包含关系还要求长度相当，才不会误伤。
+                r1, r2 = eq_rhs(q1), eq_rhs(q2)
+                if not (r1 and r2): continue
+                # 只用字集相似度，不用包含关系：中文里「樱桃」是「樱桃木」的
+                # 子串，可它们是两个义项。包含关系判重会把这类全部误伤。
+                if len(set(r1) & set(r2)) / max(len(set(r1) | set(r2)), 1) >= 0.8:
+                    dupes.append((h, e1, e2)); continue
             w1, w2 = set(fold(e1[1:]).split()), set(fold(e2[1:]).split())
             if len(w1) < 3 or len(w2) < 3: continue
             j = len(w1 & w2) / len(w1 | w2)

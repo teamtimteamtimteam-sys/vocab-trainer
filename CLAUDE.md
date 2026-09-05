@@ -752,3 +752,39 @@ Worker 的硬性前提（局域网 http:// 不是安全上下文，注册会失�
 调试时先 `navigator.serviceWorker.getRegistrations()` 挨个 `unregister()`、
 `caches.keys()` 挨个 `delete()`，再刷新。这次调试复习流程时真的中过一次招：
 明明已经把 `reviewAdvance()` 的 bug 改掉了，浏览器里复现的还是旧行为。
+
+## 重复义项只留一条
+
+用户 2026-09-06 明令：**重复义项只保留一个，不要遗漏义项，但也不要硬凑义项。**
+
+判重看等式，不看例句。例句可以写得完全不一样，教的却是同一件事 ——
+`bluff` 一条词条里 bluff your way in / into / out of / through 占掉四个义项，
+`cable television` 与 `cable TV` 各占一条。audit-padding 原来的【重复义项】
+比的是例句词集，这类一条都拦不住。
+
+合并的做法（scripts 里没有常驻工具，临时脚本即可）：
+删掉重复的那一条义项（编号例句 + 译文 + 它的等式），
+**把它身上不重复的等式行搬到留下的那一条**，再重新编号。
+搬等式是硬要求 —— coverage 认的是等式里的字面串，
+直接删就会把 bluff your way out of 这类搭配整个丢掉。
+合并前后各跑一次 `coverage.py a/b/c`，缺口数只许持平或下降。
+
+**这把尺子只能卡得很紧。** 试过三版判据：
+· 只比等式左边 → 100 组，dig in / draw in 这种真的一词多义的短语动词全被误伤
+· 左边相同 + 中文剥掉括号后相近 → 33 组，「贝都因人（全体）」对「一个贝都因人」被判成重复，
+  「樱桃」是「樱桃木」的子串也被判成重复 —— 中文里包含关系不等于同义
+· 左边相同（保留数字，caesium-137 不能折成 caesium）+ 中文**原样**字集相似 ≥0.8 → 1 组
+最后这版留在 audit-padding 里。宁可漏判，不可误伤：闸门一旦开始喊狼来了就没人看了。
+
+漏判的那一半靠人扫：2026-09-06 用宽判据扫过全表一遍，
+合并了 alec / align / avail / boner / cheat / chest / conversant / bluff / cable /
+chalk / butter / bowl / behave / choose / chip / cap / berk / bespectacled /
+calumny / catamite / chikungunya / chilli / Christ / commemorate / cosmogony /
+counterculture / counterintuitive / craw / cremains / coulomb / Celtic harp，
+另外把 assumed ③、bear ⑧、caucus ③ 的等式改写成能看出区别的说法
+（`bear fruit = 结果实（字面）` 对 `bear fruit = 见成效`）。
+**改等式让区别显形，本身就是提高质量**，不是绕过闸门 —— 学的人本来就该知道这两条不一样。
+
+顺带发现：`berk`、`bespectacled` 这类只有一个真义项的词，
+被「每条 ≥2 义项」的下限逼着写出了四条同义的义项。
+合并到 2 条已是这条下限允许的极限，再往下就要动下限本身，没动。
