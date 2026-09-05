@@ -185,20 +185,12 @@ assimilation = 同化（一方变成另一方）
 accumulate
 核心：底层是"一点点堆积起来"。可以是物（灰尘、垃圾），可以是抽象
 的量（财富、经验、债务、利息）。既能及物也能不及物。
-① Dust accumulated on the shelves.
-= 架子上积了灰。
-② He accumulated a fortune.
-= 他积累了一笔财富。
-这里是及物用法。
-③ Interest accumulates monthly.
-= 利息按月累积。
-④ Evidence began to accumulate.
-= 证据开始积累起来。
-词族：
+① Dust accumulated on the shelves while the interest accumulated in the bank.
+= 架子上积起了灰，银行里的利息也在累积。
 accumulation = 积累
-注意区别：
-accumulate 逐渐积累（自然堆起）
-collect 收集（有意去搜集）
+② He accumulated a fortune and left most of it to a cats' home.
+= 他积累了一笔财富，大半留给了一家流浪猫收容所。
+这里是及物用法。
 
 accumulation
 核心：指"积累"这个过程或积累起来的"堆积物"。
@@ -249,14 +241,10 @@ accurate = 准确的
 accurate
 核心：指"与事实相符、没有误差"。可以说数据准确，也可以说人预测得
 准。和 precise 的差别：accurate 是"对不对"，precise 是"细不细"。
-① The figures are accurate.
-= 那些数字是准确的。
-② She gave an accurate description.
-= 她做了准确的描述。
-③ The clock isn't accurate.
-= 那个钟不准。
-④ He is accurate in his predictions.
-= 他预测很准。
+① The figures are accurate and the summary that quotes them is not.
+= 数字是准确的，引用它们的那份摘要却不准确。
+② He is accurate in his predictions about weather and wrong about people.
+= 他预测天气很准，看人却总是看错。
 be accurate in = 在…方面准确
 注意区别：
 accurate = 准确（贴合事实）
@@ -357,16 +345,13 @@ accusing = 指责的（同义，更常用）
 accuse
 核心：指"指控某人做了坏事"。介词固定用 of，后接名词或 doing，
 绝不用 for——这是高频错误。语气比 blame 重，常涉及法律。
-① They accused him of theft.
-= 他们指控他偷窃。
+① They accused him of theft and accused her of lying about it.
+= 他们指控他偷窃，又指控她为此撒谎。
 accuse someone of = 指控某人
-② She accused me of lying.
-= 她指责我说谎。
-of 后面接 doing。
-③ He was wrongly accused.
-= 他被冤枉了。
-④ The accused pleaded not guilty.
-= 被告作了无罪答辩。
+② He was wrongly accused and waited nine years for an apology.
+= 他被冤枉了，等了九年才等到一句道歉。
+③ The accused pleaded not guilty and gave evidence for two days.
+= 被告作了无罪答辩，出庭作证两天。
 the accused = 被告
 词族：
 accusation = 指控

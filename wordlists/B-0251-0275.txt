@@ -251,14 +251,12 @@ consent = 同意（积极表态）
 acquire
 核心：底层是"逐步得到并拥有"。得到的可以是技能、习惯、名声
 （靠积累），也可以是资产、公司（靠购买）。比 get 正式得多。
-① She acquired fluent French.
-= 她学会了流利的法语。
-② He acquired a reputation for honesty.
-= 他赢得了诚实的名声。
-③ The firm acquired three rivals.
-= 那家公司收购了三个对手。
-④ It's an acquired taste.
-= 那是种需要慢慢才能欣赏的东西。
+① She acquired fluent French and a reputation for saying too much.
+= 她学得一口流利法语，也落下了话多的名声。
+② The firm acquired three rivals and closed two of them within a year.
+= 这家公司收购了三个对手，一年内关掉了两个。
+③ It's an acquired taste and about half the room never acquires it.
+= 这是种后天养成的口味，屋里约一半人永远养不成。
 an acquired taste = 后天养成的爱好
 词族：
 acquisition = 收购、习得

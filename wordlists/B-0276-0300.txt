@@ -321,21 +321,12 @@ action = 行动；诉讼
 activate
 核心：指"启动、激活"，让某物开始起作用。设备、警报、账户、
 化学反应都可以。比 start 正式，强调"从待机变为工作状态"。
-① Activate your account online.
-= 在线激活你的账户。
-② The alarm was activated.
-= 警报被触发了。
-③ Heat activates the chemical.
-= 加热会激活那种化学物质。
-④ Press here to activate.
-= 按这里启动。
-词族：
+① Activate your account online and the alarm will be activated too.
+= 在线激活账户，警报也会一并启用。
 activation = 激活
-反义词：
 deactivate = 停用
-注意区别：
-activate 激活（使开始起作用）
-start 开始（通用）
+② Heat activates the chemical and nothing happens below forty degrees.
+= 加热激活这种化学物质，四十度以下毫无反应。
 
 activation
 核心：指"激活、启动"这个过程。技术、生物、市场三个领域都用。
