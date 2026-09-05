@@ -24,12 +24,17 @@ a cut above、cry over spilt milk 之类。
 audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5451 条。ca-co 各段已收全，
-cr- 段清单 478 条、已收 287 条（60%），写到 crystal；
-cu- 段清单 223 条、已收 22 条（9%），写到 cuisine。
-下批从 cul-de-sac / culinary / cull / culminate 一带起。
+B 词表 5481 条。ca-co 各段已收全，
+cr- 段清单 478 条、已收 287 条（60%）；
+cu- 段清单 223 条、已收 65 条（29%），写到 curfew。
+下批从 curio / curiosity / curious / curl 一带起。
 再往后 cp 1、ct 1、cw 4、cy 51、cz 4。
-audit-idioms 的 CHECK 已扩到 55 个大词、171 条习语。
+audit-idioms 的 CHECK 已扩到 61 个大词、178 条习语。
+
+【写之前先把习语清单列好，比写完回头补省事（2026-09-05 验证）】
+连着两批都是先往 audit-idioms 的 CHECK 里补一段的清单，再动笔，
+结果这两批一条习语都没漏。以前是写完跑清单、再回头补，
+每次都要多花一轮。
 
 【用户 2026-09-05 交代：推送也不必跟着每一轮输出走】
 本地提交照常（提交是安全网），攒到自然节点再 push。

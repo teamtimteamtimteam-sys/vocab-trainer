@@ -94,6 +94,12 @@ CHECK = {
  'cue': ['on cue', "take one's cue from"],
  'cuff': ['off the cuff'],
  'cucumber': ['as cool as a cucumber'],
+ 'cup': ["not one's cup of tea"],
+ 'cupboard': ['a skeleton in the cupboard'],
+ 'cure': ['prevention is better than cure'],
+ 'curdle': ['blood-curdling'],
+ 'culture': ['culture shock'],
+ 'cult': ['the cult of personality', 'a cult following'],
  # 往下写到哪个字母段，就在这里补哪一段的大词
 }
 
