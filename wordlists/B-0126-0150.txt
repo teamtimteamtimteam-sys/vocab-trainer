@@ -411,22 +411,20 @@ academy = 学院、学会（机构）
 academic
 核心：形容词指"学术的、学校的"，也指"纯理论而不实用的"，后者
 略带贬义。名词指高校里的教研人员。
-① She had a brilliant academic career.
-= 她学术生涯出色。
-② The academic year starts in September.
-= 学年九月开始。
-③ The question is purely academic.
-= 那个问题纯属空谈。
+① She had a brilliant academic career and left before the academic year ended.
+= 她学术生涯辉煌，却没等学年结束就走了。
+② The question is purely academic now that the building has been sold.
+= 楼都卖了，这个问题如今纯属空谈。
 这里：
 academic = 不切实际的
-④ He is an academic at Oxford.
-= 他是牛津的一名学者。
+③ He is an academic at Oxford and spends most of his time on committees.
+= 他是牛津的学者，大半时间花在各种委员会上。
 这里是名词。
 词族：
 academia = 学术界
 academically = 学业上
-⑤ Academicism favours convention over invention.
-= 学院派看重成规甚于创新。
+④ Academicism favours convention over invention and outlives both.
+= 学院派作风重成规轻创新，却比两者都活得长。
 academicism = 学院派作风
 
 academically

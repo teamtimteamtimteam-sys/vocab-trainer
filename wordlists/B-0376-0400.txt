@@ -56,18 +56,19 @@ admissibility = 可采纳性
 admission
 核心：三条线，对应动词 admit：承认（an admission of guilt）、
 入场准入（admission fee）、以及入院入学。第一条最容易被忽略。
-① It was an admission of guilt.
-= 那等于认罪。
+① It was an admission of guilt made in front of no witnesses at all.
+= 那是一次认罪，却没有任何证人在场。
 an admission of = 对…的承认
-② Admission is free.
-= 免费入场。
-③ She gained admission to Oxford.
-= 她被牛津录取了。
+② Admission is free before six and costs eleven pounds after it.
+= 六点前免费入场，六点后要十一镑。
+admission = 入场；入场费
+③ She gained admission to Oxford and deferred it for a year.
+= 她获准进入牛津，又推迟了一年入学。
 gain admission to = 获准进入
-④ Hospital admissions rose.
-= 住院人数上升了。
-⑤ By his own admission, he failed.
-= 他自己也承认失败了。
+④ Hospital admissions rose every winter and the beds were cut anyway.
+= 住院人数年年冬天上升，床位还是被砍了。
+⑤ By his own admission, he failed and said so before anyone asked.
+= 他自己也承认失败了，还没等人问就说了出来。
 by one's own admission = 自己也承认
 注意区别：
 admission 承认；准入
