@@ -208,13 +208,11 @@ auteur cinema = 作者电影
 authentic
 核心：两条线：物品"真品的、非伪造的"，
 和体验"地道原汁原味的"。第二条在旅游和餐饮语境高频。
-① The painting is authentic.
-= 那幅画是真迹。
-② It's an authentic Thai restaurant.
-= 那是家地道的泰国餐厅。
+① It's an authentic Thai restaurant and the chef has never been to Thailand.
+= 这是家正宗泰国餐厅，主厨却从没去过泰国。
 authentic cuisine = 正宗菜式
-③ She gave an authentic account.
-= 她给出了可信的叙述。
+② She gave an authentic account that contradicted the official one.
+= 她作了真实的叙述，与官方说法相左。
 authentic account = 真实的记述
 词族：
 authenticate = 鉴定真伪
@@ -225,8 +223,8 @@ fake = 假的 / counterfeit = 伪造的
 authentic = 真品的；地道的
 genuine = 真的（多指感情或材质）
 original = 原创的、原版的
-④ The document was authentically dated.
-= 那份文件的日期确属真实。
+③ The document was authentically dated and forged in every other respect.
+= 这份文件日期是真的，其余部分全是伪造。
 authentically = 真实地、地道地
 
 authenticate

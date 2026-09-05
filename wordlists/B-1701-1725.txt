@@ -452,15 +452,11 @@ loudly = 大声地（对比小声）
 audience
 核心：底层是"在听在看的一群人"。剧场观众、广播听众、书的读者群，
 都算。另有一个正式义指"接见、觐见"。英式可配复数动词。
-① The audience applauded.
-= 观众鼓掌了。
-② The show has a large audience.
-= 那个节目收视人群很大。
-③ The book targets a young audience.
-= 那本书面向年轻读者。
+① The book targets a young audience and is bought entirely by their parents.
+= 这本书面向年轻读者，买它的全是他们的父母。
 target audience = 目标受众
-④ He was granted an audience with the Pope.
-= 他获准觐见教皇。
+② He was granted an audience with the Pope and forgot every question he had.
+= 他获准觐见教皇，把准备好的问题忘得一干二净。
 an audience with = 觐见
 词族：
 audio = 音频的
