@@ -59367,6 +59367,14 @@ bookstall = 书报摊
 = 他小时候是个书虫。
 bookworm = 极爱读书的人
 中英文的比喻一致，都拿蛀书的虫子说爱读书的人。
+㉜ She bought the child a colouring book.
+= 她给孩子买了本涂色本。
+a colouring book = 涂色本（英式）
+线稿印好、留白让人上色；美式拼 coloring book。
+㉝ The cookery book fell open at the same page.
+= 那本菜谱又翻到了同一页。
+a cookery book = 菜谱、烹饪书（英式）
+美式说 cookbook；英式两种说法都有，cookery book 偏旧一点。
 构词：古英语 boc
 词族：
 booking = 预订
@@ -73640,6 +73648,14 @@ a clarion call = 响亮的号召
 ❷ She called his bluff and he backed down.
 = 她一摊牌逼他亮底，他就退了。
 call somebody's bluff = 摊牌戳穿虚张声势
+❸ We set up a conference call with the New York office.
+= 我们跟纽约办公室开了个电话会议。
+a conference call = 电话会议（三方以上同时通话）
+conference 那半截指的是多方一起接进来；今天有画面的多改说 video call。
+❹ The minister paid a courtesy call on the mayor.
+= 那位大臣礼节性拜访了市长。
+a courtesy call = 礼节性拜访；也指商家事后回访的电话
+两个义的共同点是「不为办事，只为表示礼数」。
 构词：古诺斯语 kalla 呼叫、大声说
 注意用法：介词决定方向那条规则，比一个个背短语动词省力。
 注意区别：call in 有两个方向，收回与请来，靠宾语分。
@@ -92973,6 +92989,14 @@ combative = 好斗的、爱争的
 ⑥ He wore combats and boots.
 = 他穿着迷彩工装裤和靴子。
 combats = 迷彩工装裤（英式口语）
+⑦ He came home with combat fatigue.
+= 他带着战斗疲劳症回了家。
+combat fatigue = 战斗疲劳症（旧称）
+二战时的说法，一战叫 shell shock，今天叫创伤后应激障碍 —— 同一件事换过好几轮名字。
+⑧ Soldiers in combat fatigues filed past.
+= 穿着作战服的士兵列队走过。
+combat fatigues = 作战服、迷彩服
+恒作复数；跟上一条只是碰巧同形，fatigues 在这里指的是军装。
 构词：拉丁语 combattere 一起打
 注意用法：对抗那一支在政策文字里极常读到。
 
@@ -93171,6 +93195,7 @@ come before = 提交给（法庭、委员会）审理
 ㉚ Don't let money come between you and your brother.
 = 别让钱把你和你哥哥拆散。
 come between somebody and somebody = 插在两人中间、离间
+词典把这一条列成「come between and」，两个空位各放一个人。
 词典给的框架是两个位置各放一个人；做主语的往往不是人，而是钱、工作这类夹在中间的东西。
 ㉛ The head teacher came down on him hard for cheating.
 = 校长因为作弊狠狠处置了他。
@@ -93918,6 +93943,14 @@ commercialism = 商业至上的作风
 ⑧ It is not commercially viable.
 = 那在商业上行不通。
 commercially viable = 商业上可行的
+⑨ She works for a commercial bank.
+= 她在一家商业银行工作。
+a commercial bank = 商业银行（做存贷业务的普通银行）
+跟只做大额融资的投资银行分开说，两者业务与监管都不同。
+⑩ His father was a commercial traveller.
+= 他父亲是个跑外的推销员。
+a commercial traveller = 旅行推销员（英式旧词）
+带着样品四处跑的那种；今天说 sales rep。
 构词：commerce 商贸 + -ial
 注意语域：说作品太商业是贬义。
 
@@ -94182,6 +94215,14 @@ a select committee = 专责委员会（英国议会）
 ④ A standing committee handles complaints.
 = 一个常设委员会处理投诉。
 a standing committee = 常设委员会
+⑤ The bill is at committee stage.
+= 那项法案在委员会审议阶段。
+the committee stage = 委员会审议阶段
+英国议会立法的一步，在二读之后，法案在这一关逐条推敲。
+⑥ A conference committee reconciled the two versions.
+= 一个协商委员会把两个版本统一了。
+a conference committee = 两院协商委员会（美国国会）
+参众两院各出人，把两边分别通过的文本谈成一份。
 构词：commit 委托 + -ee
 注意用法：英式可跟复数动词，美式一般用单数。
 
@@ -95852,6 +95893,14 @@ compound interest = 复利
 ⑤ Delay compounded the problem.
 = 拖延把问题弄得更糟。
 compound a problem = 使问题更严重
+⑥ A fly has compound eyes.
+= 苍蝇长的是复眼。
+a compound eye = 复眼（由许多小眼拼成）
+昆虫与甲壳类的眼睛，跟人的单眼构造完全不同。
+⑦ It was a compound fracture.
+= 那是开放性骨折。
+a compound fracture = 开放性骨折（断骨刺破皮肉）
+比闭合性的重，感染风险高；今天医学文字里多改说 open fracture。
 构词：拉丁语 componere 放到一起
 注意读音：名词与形容词重音在前，动词重音在后。
 
@@ -97688,6 +97737,18 @@ in conformity with = 与……相符
 ④ He is no conformist.
 = 他可不是个随大流的人。
 a conformist = 随大流的人
+⑤ The material is prized for its conformability.
+= 那种材料贵在贴合性好。
+conformability = 贴合性、能顺应的程度；conformable = 顺应的、贴合的
+偏技术用词，说材料能不能随着形状贴上去。
+⑥ The parts were made in conformance with the spec.
+= 那些零件是照规格做的。
+conformance = 符合、遵照（正式）
+跟 conformity 同义，工程与质量文件里更爱用这一个。
+⑦ The dog was judged on conformation.
+= 那只狗是按体型评的。
+conformation = 体型结构、整体形状
+说的是各部分怎么搭在一起；犬展与马术里是固定术语。
 构词：拉丁语 conformare 使成同一形
 注意搭配：介词用 to，说符合规定也可用 with。
 

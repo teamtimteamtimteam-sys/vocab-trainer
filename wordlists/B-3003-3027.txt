@@ -460,6 +460,14 @@ bookstall = 书报摊
 = 他小时候是个书虫。
 bookworm = 极爱读书的人
 中英文的比喻一致，都拿蛀书的虫子说爱读书的人。
+㉜ She bought the child a colouring book.
+= 她给孩子买了本涂色本。
+a colouring book = 涂色本（英式）
+线稿印好、留白让人上色；美式拼 coloring book。
+㉝ The cookery book fell open at the same page.
+= 那本菜谱又翻到了同一页。
+a cookery book = 菜谱、烹饪书（英式）
+美式说 cookbook；英式两种说法都有，cookery book 偏旧一点。
 构词：古英语 boc
 词族：
 booking = 预订
