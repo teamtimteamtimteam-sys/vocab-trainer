@@ -54,6 +54,9 @@ STRONG = {'catch': ['caught'], 'buy': ['bought'], 'teach': ['taught'],
           'bite': ['bit', 'bitten'], 'blow': ['blew', 'blown'], 'breed': ['bred'],
           'bring': ['brought'], 'build': ['built'], 'choose': ['chose', 'chosen'],
           'cling': ['clung'], 'creep': ['crept'], 'eat': ['ate', 'eaten'],
+          'die': ['dying', 'died'], 'dig': ['dug'], 'do': ['did', 'done', 'does'],
+          'draw': ['drew', 'drawn'], 'drive': ['drove', 'driven'],
+          'drink': ['drank', 'drunk'], 'deal': ['dealt'], 'dry': ['dried', 'drier'],
           'speak': ['spoke'], 'steal': ['stole'], 'freeze': ['froze'],
           'choose': ['chose'], 'seek': ['sought'], 'strike': ['struck']}
 
