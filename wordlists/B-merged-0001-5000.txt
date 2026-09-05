@@ -36370,6 +36370,78 @@ turquoise = 青绿
 indigo = 靛蓝
 cobalt = 钴蓝
 
+B-list
+核心：二线的：说演艺圈里名气次一等的人，跟 A-list 成对。多作定语，
+名词形式 a B-lister 是二线名人。带轻蔑，说人时不客气。可数。
+① She was stuck on the B-list for years.
+= 她在二线名单上待了好些年。
+the B-list = 二线名人之列
+② It was a B-list crowd at best.
+= 到场的顶多算二线。
+a B-list crowd = 二线的一拨人
+③ He is a B-lister now.
+= 他现在是二线艺人了。
+a B-lister = 二线名人
+构词：字母等级 B 加 list，仿 A-list 造出来
+注意语域：带轻蔑，当面说人很不客气。
+
+B-movie
+核心：低成本影片：早年双片连映时垫场的那一部，今天泛指粗糙但常有
+邪典味的类型片。旧说法是 B-picture。可数，也作定语。
+① They watched a cheap B-movie.
+= 他们看了部粗制滥造的低成本片。
+a B-movie = 低成本影片
+② The film has real B-movie charm.
+= 那部片子有股地道的低成本片味道。
+B-movie charm = 低成本片特有的粗糙魅力
+③ He directed B-movies for a decade.
+= 他拍了十年低成本片。
+direct B-movies = 拍低成本片
+构词：双片连映里排在第二位的那一部
+注意用法：今天不一定是贬义，常带欣赏。
+
+B-picture
+核心：B-movie 的旧说法，指双片连映时排第二位的那部低成本片。今天读
+旧影评才遇得到，现代文字一律说 B-movie。可数。
+① The studio churned out B-pictures.
+= 那家制片厂大批生产低成本片。
+a B-picture = 低成本影片（旧说法）
+② Critics then called it a B-picture.
+= 当时的影评管它叫低成本片。
+call something a B-picture = 把某片归为低成本片
+构词：同 B-movie，只是 picture 是更旧的「影片」说法
+注意用法：偏旧，现代文字改用 B-movie。
+
+B-road
+核心：英国公路等级里的二级路：编号以 B 打头，比 A-road 窄，限速与
+车流都低，多穿村镇而过。可数。
+① We took the B-roads to avoid the traffic.
+= 我们走二级路躲开了车流。
+a B-road = 二级公路（英式）
+② B-roads are often single-track.
+= 二级路常常只有一车道。
+B-roads = 二级公路（复数）
+③ Heavy lorries are banned from B-roads.
+= 重型卡车不许走二级路。
+be banned from B-roads = 禁走二级公路
+构词：英国公路编号里的 B 级
+注意分工：A-road 是主干道，B-road 次一级。
+
+B-side
+核心：唱片的 B 面：单曲黑胶背面那首，通常不是主打歌。引申也说
+「次要的那一面」。可数。
+① The B-side became the bigger hit.
+= 结果 B 面那首更红。
+the B-side = 唱片背面那首歌
+② The song was released as a B-side.
+= 那首歌是当 B 面发的。
+be released as a B-side = 作为 B 面发行
+③ Collectors hunt for rare B-sides.
+= 收藏的人到处找稀有的 B 面曲。
+a rare B-side = 稀有的 B 面曲
+构词：黑胶单曲两面分 A 面与 B 面
+注意用法：数字发行之后，这个词多用于讲旧唱片。
+
 baa
 核心：拟声词，模仿羊叫，相当于中文的"咩"。名词动词同形。
 儿歌与童书里最常见，也用来形容人云亦云地随大流。
@@ -36400,6 +36472,19 @@ soak up syrup = 吸透糖浆
 = 那种蛋糕用带纹的模子烤。
 注意语域：
 甜点名称，法式糕点铺常见。
+
+Babbitt
+核心：庸俗守成的生意人：出自辛克莱·刘易斯一九二二年的同名小说，
+主人公是个满口生意经、随大流而不自知的中产。今天用它带讥讽。
+派生 Babbittry 指那种作风。可数。
+① He dismissed them as suburban Babbitts.
+= 他讥讽他们是郊区来的庸俗生意人。
+a Babbitt = 庸俗守成的生意人
+② The novel skewers small-town Babbittry.
+= 那部小说讽刺了小城的市侩作风。
+Babbittry = 市侩守成的作风
+构词：小说主人公的姓
+注意语域：讥讽，多见于书评与文化评论。
 
 babble
 核心：底层是"含混不成句的声响"。婴儿咿咿呀呀是它，一群人七嘴八舌
@@ -38532,6 +38617,34 @@ the Baha'i Faith = 巴哈伊信仰
 注意语域：
 宗教名称，首字母大写并带撇号。
 
+Bahamian
+核心：巴哈马的、巴哈马人。国名恒用复数并带定冠词，形容词与国民称谓
+却是同一个单数形式，这一点常写错。可数。
+① She holds a Bahamian passport.
+= 她持巴哈马护照。
+Bahamian = 巴哈马的
+② Two Bahamians won medals.
+= 两名巴哈马人拿了奖牌。
+a Bahamian = 巴哈马人
+③ Bahamian waters are famously clear.
+= 巴哈马海域以清澈闻名。
+Bahamian waters = 巴哈马海域
+构词：国名加 -ian
+注意用法：国名本身恒用复数并加定冠词，这个派生词却是单数形式。
+
+Bahraini
+核心：巴林的、巴林人。阿拉伯半岛一带的国名多用 -i 收尾构成这类词，
+Iraqi、Kuwaiti、Omani、Yemeni、Saudi 都是同一种造法，认得这条规律
+就不必一个个背。可数。
+① He is a Bahraini citizen.
+= 他是巴林公民。
+a Bahraini = 巴林人
+② Bahraini law differs on that point.
+= 巴林法律在那一点上不一样。
+Bahraini law = 巴林法律
+构词：国名加 -i
+注意构词：阿拉伯半岛国名一族都用 -i，不用 -ian。
+
 bail
 核心：三个来源不同的义项挤在一个词形里，别当成一个词的引申。
 一是法律上的"保释"——交一笔钱担保被告到时出庭，钱本身和这个
@@ -39039,6 +39152,50 @@ baulk = 台球台上的置球区（英式拼法）
 注意拼写：
 balk 美式常用 / baulk 英式常用，意思相同。
 
+Balkan
+核心：巴尔干的：指东南欧那一片半岛与它的国家。名词 the Balkans 恒用
+复数加定冠词。由它派生出通用动词 balkanize 与名词 balkanization，
+说把一个整体拆成互相敌视的小块，那两个词早已脱离地理用起来了。
+① Balkan history is tangled.
+= 巴尔干的历史盘根错节。
+Balkan history = 巴尔干的历史
+② She travelled across the Balkans.
+= 她走遍了巴尔干各国。
+the Balkans = 巴尔干各国
+③ Balkan cuisine borrows from Turkey and Austria.
+= 巴尔干菜兼取土耳其与奥地利。
+Balkan cuisine = 巴尔干菜系
+构词：土耳其语 balkan 山
+注意用法：作地区合称时恒用复数并加定冠词。
+
+Balkanization
+核心：割裂：Balkanize 对应的名词，说一个整体裂成互相敌视的小块这件事，
+或那种局面。常跟 of 连用。贬义，不可数。
+① The balkanization of the industry worries him.
+= 那个行业的割裂让他担心。
+the balkanization of = ……的割裂
+② Critics call it the balkanization of the internet.
+= 批评者管这叫互联网的割裂。
+balkanization = 分裂割据的局面
+构词：Balkanize 加 -ation
+注意拼写：英式也拼 Balkanisation，小写更常见。
+
+Balkanize
+核心：把一个整体拆成若干互相敌视的小块。出自巴尔干半岛在二十世纪初
+碎裂成许多小国那段历史，但今天早已脱离地理，说市场、行业、网络、
+学科被割裂都用它，一律贬义。也拼 Balkanise，小写 balkanize 更常见。
+① Regulation has balkanized the market.
+= 管制把那个市场割裂了。
+balkanize = 把……拆成互相敌视的小块
+② The web is becoming balkanized.
+= 网络正在被割裂。
+be balkanized = 被割裂成各自为政的小块
+③ They warned against balkanizing the department.
+= 他们警告不要把那个部门拆得四分五裂。
+balkanize a department = 把一个部门拆散
+构词：地名 Balkan 加动词后缀 -ize
+注意语域：一律贬义；英式也拼 Balkanise。
+
 ball
 核心：两个来源不同的词长成了同一个形。
 第一个底层是"圆的东西"：球类运动的球 → 任何团成球状的东西
@@ -39389,6 +39546,34 @@ balsamic vinegar = 意大利香醋
 注意别混：
 balsam = 香脂（树脂）
 balm = 香膏（涂抹用，同源）
+
+Baltic
+核心：波罗的海的；也指沿岸那几个国家。名词 the Baltic 是波罗的海，
+the Baltics 是爱沙尼亚、拉脱维亚、立陶宛三国的合称，恒用复数加定
+冠词。也指语族：立陶宛语与拉脱维亚语属波罗的语族。
+① The Baltic freezes in hard winters.
+= 遇上严冬波罗的海会结冰。
+the Baltic = 波罗的海
+② She has worked across the Baltics.
+= 她在波罗的海三国都做过事。
+the Baltics = 波罗的海三国
+③ Baltic amber washes up on the shore.
+= 波罗的海琥珀会被冲上岸。
+Baltic amber = 波罗的海琥珀
+构词：拉丁语 Balticus
+注意用法：说三国合称时恒用复数并加定冠词。
+
+Baluchi
+核心：俾路支的、俾路支人，也指俾路支语。那个族群跨巴基斯坦、伊朗与
+阿富汗三国而居，所以这个词按族群算，不按国籍算。也拼 Balochi。
+① Baluchi is spoken on both sides of the border.
+= 边境两边都说俾路支语。
+Baluchi = 俾路支语
+② A Baluchi rug takes months to weave.
+= 一张俾路支地毯要织好几个月。
+a Baluchi rug = 俾路支地毯
+构词：族名加 -i
+注意用法：按族群算，不按国籍算；也拼 Balochi。
 
 balustrade
 核心：栏杆的一种——一排短柱顶着一道扶手，装在阳台、楼梯或
@@ -39751,6 +39936,30 @@ bangs（刘海）美式 / fringe 英式。
 bang about = 弄出很大响动地走动
 bang around = 乒乓乱响地折腾
 
+Bangla
+核心：孟加拉语的本名：说这门语言时，当地与近年的英语文字越来越多
+用这个词，取代旧说法 Bengali。只指语言，不指人。不可数。
+① The song is in Bangla.
+= 那首歌是孟加拉语的。
+in Bangla = 用孟加拉语
+② Bangla and Assamese share a script.
+= 孟加拉语与阿萨姆语共用一套文字。
+Bangla = 孟加拉语
+构词：孟加拉语里那门语言的自称
+注意分工：只指语言；说人要用 Bengali 或 Bangladeshi。
+
+Bangladeshi
+核心：孟加拉国的、孟加拉国人。跟 Bengali 分开：这个词指国籍，
+Bengali 指族群与语言，说印度西孟加拉邦的人也用 Bengali。可数。
+① She is a Bangladeshi doctor.
+= 她是孟加拉国医生。
+a Bangladeshi = 孟加拉国人
+② Bangladeshi exports are mostly textiles.
+= 孟加拉国出口以纺织品为主。
+Bangladeshi exports = 孟加拉国的出口
+构词：国名加 -i
+注意别混：这个词说国籍，Bengali 说族群与语言。
+
 bangle
 核心：手镯的一种——硬质的整圈，套进去戴，不像 bracelet 那样
 带扣子可以开合。南亚一带常成组戴，走动时会叮当作响。
@@ -40035,6 +40244,19 @@ bantering = 打趣的
 banter = 打趣（无恶意，往往拉近关系）
 mockery = 嘲弄（有轻蔑）
 
+Bantu
+核心：班图的：非洲中部与南部三百多种亲属语言的总称，也指说这些语言
+的各族群。作族群称谓时要当心：南非种族隔离时期官方拿它给黑人分类，
+所以那个用法带侮辱意味，今天说语言可以，说人要避开。
+① Swahili is a Bantu language.
+= 斯瓦希里语属班图语族。
+a Bantu language = 班图语族的语言
+② Bantu languages share a noun-class system.
+= 班图语族共有一套名词分类。
+Bantu languages = 班图诸语言
+构词：这些语言里表示「人」的那个词
+注意语域：说语言中性，说人带侮辱意味，避开。
+
 banyan
 核心：一种榕树，特点是从枝上垂下气根，气根扎进土里变成新的
 支柱根，于是一棵树能铺开成一片林子。印度的圣树，
@@ -40099,6 +40321,21 @@ baptize = 施洗
 baptismal name = 教名
 注意用法：
 比喻义只用在那个固定搭配里。
+
+Baptist
+核心：浸信会的、浸信会教徒：基督教新教的一支，主张受洗要全身浸入
+水中，且只给能自主信认的人施洗，所以不给婴儿受洗。可数。
+① She was raised a Baptist.
+= 她是在浸信会里长大的。
+a Baptist = 浸信会教徒
+② The Baptist church stands on the corner.
+= 那座浸信会教堂在拐角上。
+a Baptist church = 浸信会教堂
+③ Baptists reject infant baptism.
+= 浸信会不给婴儿施洗。
+Baptists = 浸信会教徒（复数）
+构词：希腊语 baptizein 浸入
+注意用法：大写才指这个教派，小写的 baptist 是施洗者。
 
 bar
 核心：底层是一根横着的条。所有义项都是这根条的不同用处：
@@ -40230,6 +40467,18 @@ barbed = 带倒刺的；话里带刺的
 注意用法：
 比喻义强调「当时不觉得，回味才疼」。
 
+Barbadian
+核心：巴巴多斯的、巴巴多斯人。国名以 -os 收尾，派生时要去掉再加
+-ian，不是简单加后缀。当地人自称 Bajan，那是口语昵称。可数。
+① He is a Barbadian by birth.
+= 他生下来就是巴巴多斯人。
+a Barbadian = 巴巴多斯人
+② Barbadian rum is exported worldwide.
+= 巴巴多斯的朗姆酒销往各地。
+Barbadian rum = 巴巴多斯朗姆酒
+构词：国名去掉词尾再加 -ian
+注意用法：当地口语自称 Bajan，正式文字用这一个。
+
 barbarian
 核心：这个词的来历本身就带偏见：古希腊人管听不懂的外族说话叫
 "巴巴叫"，于是有了这个词，指"外族人、蛮族"。今天指"野蛮人"，
@@ -40336,6 +40585,18 @@ barbiturate overdose = 巴比妥过量
 = 更安全的药取代了巴比妥类。
 注意语域：
 药理学与医学史用语。
+
+Barbudan
+核心：巴布达的、巴布达人。这个岛跟安提瓜合成一个国家，所以正式说
+国民时两个词并用：Antiguan and Barbudan。可数。
+① The Barbudan delegation arrived first.
+= 巴布达代表团先到。
+a Barbudan = 巴布达人
+② Barbudan land is held in common.
+= 巴布达的土地是共有的。
+Barbudan land = 巴布达的土地
+构词：岛名加 -n
+注意用法：正式说国民时跟 Antiguan 并用。
 
 bard
 核心：本指凯尔特社会里的行吟诗人——记诵部族史事、在宴上吟唱的
@@ -41552,6 +41813,19 @@ basket case 原指战伤截肢者，今天用来说人时冒犯。
 = 篮球最早用的是桃筐。
 basketball = 篮球
 
+Basotho
+核心：莱索托人：这个国家的国民称谓不跟国名走 —— 一个人叫 Mosotho，
+一群人叫 Basotho，语言叫 Sesotho。三个词的差别在前缀上，是班图语的
+构词规律。恒作复数。
+① The Basotho are known for their blankets.
+= 莱索托人以毛毯闻名。
+the Basotho = 莱索托人（全体）
+② Two Basotho joined the delegation.
+= 两名莱索托人加入了代表团。
+a Basotho = 莱索托人
+构词：班图语的复数前缀 ba- 加族名
+注意构词：单数 Mosotho、复数 Basotho、语言 Sesotho，三个前缀分工。
+
 basque
 核心：两层，靠大小写分。小写指一种紧身胸衣——从胸包到腰胯、
 带骨撑的那种内衣或礼服上身。大写 Basque 指比利牛斯山西端的
@@ -41897,6 +42171,18 @@ baton round = 塑胶弹（英式官方说法）
 注意用法：
 比喻义几乎只用 pass the baton 这个搭配。
 
+Batswana
+核心：博茨瓦纳人：跟 Basotho 同一种构词 —— 一个人叫 Motswana，
+一群人叫 Batswana，语言叫 Setswana。形容词才用 Botswanan。恒作复数。
+① The Batswana voted in record numbers.
+= 博茨瓦纳人的投票人数创了纪录。
+the Batswana = 博茨瓦纳人（全体）
+② Batswana make up most of the workforce.
+= 劳动力里多数是博茨瓦纳人。
+Batswana = 博茨瓦纳人
+构词：班图语的复数前缀 ba- 加族名
+注意构词：单数 Motswana，语言 Setswana，形容词 Botswanan。
+
 battalion
 核心：陆军编制的一级，通常三到八百人，由几个连组成，
 上面是旅、下面是连。比喻着用指"一大群"，
@@ -42136,6 +42422,19 @@ baud rate = 波特率
 baud = 波特（每秒符号数）
 bit rate = 比特率（每秒比特数，通常更高）
 
+Bauhaus
+核心：包豪斯：一九一九年在德国办起来的设计学校，也指它带出来的
+风格 —— 形式服从功能，去装饰、重结构，用钢管玻璃与几何形。作定语
+最常见：Bauhaus design。不可数。
+① The chair is pure Bauhaus.
+= 那把椅子是纯正的包豪斯风格。
+pure Bauhaus = 纯正的包豪斯风格
+② Bauhaus design still shapes furniture today.
+= 包豪斯的设计观今天还影响着家具。
+Bauhaus design = 包豪斯设计
+构词：德语 Bau 建造 + Haus 房子
+注意用法：既指那所学校，也指它带出来的风格。
+
 baulk
 核心：balk 的英式拼法，意思相同：到跟前突然停住不肯往前，
 引申指人打退堂鼓，固定接介词 at。台球里另指球台一端
@@ -42306,6 +42605,21 @@ bazooms = 胸部（粗俗俚语，多用复数）
 a bazoom joke = 拿胸脯开的粗俗玩笑
 注意语域：
 粗俗且带物化，正式与礼貌场合一律不用。
+
+BB gun
+核心：气枪：打小钢珠的低威力枪，多给少年玩，也用来驱鸟。名字里的
+BB 是那种圆珠的尺寸代号。可数。
+① He got a BB gun for his birthday.
+= 他生日收到一把气枪。
+a BB gun = 打钢珠的气枪
+② BB guns are not toys.
+= 气枪不是玩具。
+BB guns = 气枪（复数）
+③ She was hit by a BB gun pellet.
+= 她被气枪的钢珠打中了。
+a BB gun pellet = 气枪钢珠
+构词：BB 原是那种钢珠的口径代号
+注意语域：美式常用，英式多说 air gun。
 
 bcc
 核心：电子邮件里的"密送"，是 blind carbon copy 的缩写。carbon copy
@@ -43202,6 +43516,19 @@ beatify = 列入真福品
 注意语域：
 形容词多用于文学描写，名词与动词属天主教术语。
 
+Beatlemania
+核心：披头士狂热：一九六三年前后英美乐迷对披头士的那股集体痴迷。
+后半截 -mania 是一个能产的后缀，专造这类「对某人某物的集体狂热」，
+Tulipmania、Pottermania 都是照它造的。不可数。
+① Beatlemania swept the country in 1963.
+= 一九六三年披头士狂热席卷全国。
+Beatlemania = 披头士狂热
+② The scenes were pure Beatlemania.
+= 那场面完全是当年的狂热重演。
+pure Beatlemania = 十足的狂热场面
+构词：乐队名加表示狂热的后缀 -mania
+注意构词：那个后缀能产，见到别的名字加它照样看得懂。
+
 beatnik
 核心：二十世纪五十年代美国"垮掉一代"的年轻追随者——
 穿黑衣、读诗、听爵士、拒绝主流生活方式。词尾借自俄语
@@ -43728,6 +44055,21 @@ bedlam broke out = 乱作一团
 注意语域：
 词源带历史包袱，但今天只作「混乱」讲，不含病理意味。
 
+Bedouin
+核心：贝都因人：阿拉伯半岛与北非沙漠里逐水草而居的阿拉伯族群。
+单复数同形，作定语说 Bedouin tents。也拼 Beduin。
+① The Bedouin move with the seasons.
+= 贝都因人随季节迁徙。
+the Bedouin = 贝都因人（全体）
+② A Bedouin guided them across.
+= 一个贝都因人领他们穿了过去。
+a Bedouin = 一个贝都因人
+③ Bedouin hospitality is proverbial.
+= 贝都因人的好客是出了名的。
+Bedouin hospitality = 贝都因人的好客
+构词：阿拉伯语 badawi 沙漠居民
+注意用法：单复数同形，不加 s。
+
 bedraggled
 核心：形容词，指人或物"被雨水泥水弄得又湿又脏、狼狈不堪"。
 重点在"淋过、拖过泥水"这个来由，所以它比 untidy 更具体，
@@ -43921,6 +44263,19 @@ a beefy engine = 强劲的发动机
 = 训练之后他结实了不少。
 注意语域：
 口语，说人时可能显得不客气。
+
+Beelzebub
+核心：别西卜：《圣经》里魔鬼的一个名号，有时与撒但同指，有时指
+群魔之首。今天主要在文学、讲道与引语里读到，也用作骂人的重话。
+可数专名。
+① The preacher invoked Beelzebub.
+= 传道人搬出了那个魔鬼的名号。
+Beelzebub = 别西卜（魔鬼名号）
+② Better the devil you know than Beelzebub.
+= 宁可对付熟悉的鬼，也别招惹那一个。
+the devil you know = 熟悉的祸害
+构词：希伯来语，字面是「蝇王」
+注意语域：偏文学与宗教语境，日常少用。
 
 been
 核心：be 的过去分词，用在完成时里。两个搭配要分清：
@@ -44874,6 +45229,21 @@ belabour the point = 反复啰嗦同一个论点
 注意拼写：
 belabour 英式 / belabor 美式。
 
+Belarusian
+核心：白俄罗斯的、白俄罗斯人，也指白俄罗斯语。旧拼法 Belorussian
+出自苏联时期的国名，今天正式文件一律用这个新拼法。可数。
+① She translates from Belarusian.
+= 她做白俄罗斯语翻译。
+Belarusian = 白俄罗斯语
+② A Belarusian won the event.
+= 一名白俄罗斯人赢了那个项目。
+a Belarusian = 白俄罗斯人
+③ Belarusian is close to Russian and Ukrainian.
+= 白俄罗斯语跟俄语、乌克兰语都近。
+be close to = 与……接近
+构词：国名 Belarus 加 -ian
+注意拼写：旧拼法是 Belorussian，今天改用这一个。
+
 belated
 核心：形容词，指"迟来的"——本该早就到、早就说的，拖到现在才有。
 最常修饰 apology、birthday wishes、recognition。
@@ -44945,6 +45315,21 @@ belfry
 have bats in the belfry = 疯疯癫癫
 注意语域：
 建筑名词；那个习语偏旧且带调侃。
+
+Belgian
+核心：比利时的、比利时人。要紧的一点是它不指语言 —— 比利时没有
+「比利时语」，官方语言是荷兰语、法语与德语。可数。
+① He married a Belgian.
+= 他娶了个比利时人。
+a Belgian = 比利时人
+② Belgian chocolate is the country's best export.
+= 比利时巧克力是那个国家最好的出口货。
+Belgian chocolate = 比利时巧克力
+③ Belgian beer comes in hundreds of styles.
+= 比利时啤酒有几百种。
+Belgian beer = 比利时啤酒
+构词：国名 Belgium 去掉词尾加 -an
+注意别当语言名：比利时没有以此为名的语言。
 
 belie
 核心：正式动词，两层，方向相反，靠上下文分。
@@ -45056,6 +45441,18 @@ feel belittled = 觉得被看轻
 注意别混：
 belittle = 贬低（说得不值一提）
 criticize = 批评（可以是就事论事）
+
+Belizean
+核心：伯利兹的、伯利兹人。中美洲唯一以英语为官方语言的国家，所以
+这个词在英语文献里出现得比邻国多。可数。
+① She is a Belizean diplomat.
+= 她是伯利兹外交官。
+a Belizean = 伯利兹人
+② Belizean reefs draw divers.
+= 伯利兹的珊瑚礁吸引潜水的人。
+Belizean reefs = 伯利兹的珊瑚礁
+构词：国名 Belize 加 -an
+注意拼写：中间那个 e 保留，不写作 Belizian。
 
 bell
 核心：底层是"敲响报信的那个器物"。教堂钟、门铃、自行车铃
@@ -45288,6 +45685,18 @@ belongings = 随身物品（总用复数）
 注意用法：
 说所有权与成员身份都要带 to；
 说「合适的位置」与「归属感」不带 to。
+
+Belorussian
+核心：Belarusian 的旧拼法，出自苏联时期的国名 Byelorussia。今天只在
+旧文献与译名里读到，写作时用新拼法。可数。
+① Older maps say Belorussian.
+= 旧地图上写的是那个旧拼法。
+Belorussian = 白俄罗斯的（旧拼法）
+② He studied Belorussian folk songs in the seventies.
+= 他七十年代研究过白俄罗斯民歌。
+Belorussian folk songs = 白俄罗斯民歌
+构词：旧国名 Byelorussia 加 -n
+注意拼写：今天的正式写法是 Belarusian。
 
 beloved
 核心：书面且带感情的词，指"深受喜爱的、心爱的"。
@@ -45555,6 +45964,22 @@ beneath = 表面之下（藏着的）
 第二层是它跟 below、under 最大的不同，
 那两个词没有「配不上」这层意思。
 
+Benedictine
+核心：两支。一是本笃会的、本笃会修士：西方最古老的修会之一，会规
+讲究祈祷与劳作并重。二是一种草药利口酒，最初由本笃会修士配制，
+瓶身上还印着修会的字样。可数。
+① He spent ten years as a Benedictine.
+= 他做了十年本笃会修士。
+a Benedictine = 本笃会修士
+② The Benedictine rule shaped monastic life.
+= 本笃会的会规塑造了修道生活。
+the Benedictine rule = 本笃会会规
+③ She poured a glass of Benedictine.
+= 她倒了杯本笃甜酒。
+Benedictine = 本笃甜酒
+构词：会祖的名字 Benedict 加 -ine
+注意用法：作酒名讲时不可数。
+
 benediction
 核心：宗教仪式结束时的"祝福祷词"——神职人员为会众祝福。
 引申指任何郑重的祝福或"认可"。它跟 blessing 同义但更正式，
@@ -45719,6 +46144,18 @@ malignant = 恶性的（会侵袭转移）
 ⑤ He smiled benignly.
 = 他慈祥地笑了笑。
 benignly = 慈祥地、温和地
+
+Beninese
+核心：贝宁的、贝宁人。-ese 这一族单复数同形：一个人是 a Beninese，
+一群人还是 Beninese，跟 Chinese、Portuguese、Congolese 一样。可数。
+① A Beninese sculptor won the prize.
+= 一位贝宁雕塑家得了奖。
+a Beninese = 贝宁人
+② Beninese cotton goes mostly to Asia.
+= 贝宁的棉花多数销往亚洲。
+Beninese cotton = 贝宁棉花
+构词：国名加 -ese
+注意构词：-ese 一族单复数同形，不加 s。
 
 bent
 核心：bend 的过去式与过去分词，另有两路独立的形容词与名词义。
@@ -46894,6 +47331,17 @@ bhangra beat = 邦戈拉节奏（重鼓点）
 = 她是听英国邦戈拉长大的。
 注意来历：根在旁遮普，成型在英国的南亚社区。
 
+Bhutanese
+核心：不丹的、不丹人。同样是 -ese 一族，单复数同形。可数。
+① Bhutanese textiles are woven by hand.
+= 不丹的织物是手工织的。
+Bhutanese textiles = 不丹织物
+② Two Bhutanese joined the team.
+= 两名不丹人加入了那支队伍。
+a Bhutanese = 不丹人
+构词：国名 Bhutan 加 -ese
+注意构词：跟 Beninese、Congolese 同一族，不加复数 s。
+
 bi
 核心：bisexual 的口语缩写，指对两种性别都有性吸引力的人，
 名词形容词都能用。它跟构词成分 bi-（二、两）同源：拉丁语的"二"。
@@ -47072,6 +47520,30 @@ swear on the Bible = 按圣经起誓
 biblical = 圣经的
 词源：希腊语的"书"，
 bibliography、bibliophile 与它同根。
+
+Bible-basher
+核心：英式贬称：指逮着人就传教、语气咄咄逼人的基督徒。带明显的
+不耐烦与轻蔑，读到要认得，写作时避开。可数。美式多说 Bible-thumper。
+① He was cornered by a Bible-basher.
+= 他被一个死缠着传教的人堵住了。
+a Bible-basher = 咄咄逼人的传教者（英式贬称）
+② She hates being called a Bible-basher.
+= 她讨厌被人这么叫。
+be called a Bible-basher = 被人这么贬称
+构词：Bible 加 bash 猛敲
+注意语域：贬义，只需认得，不要用来说人。
+
+Bible-bashing
+核心：Bible-basher 对应的名词与形容词：指那种硬往人身上传教的做法，
+也作定语说 Bible-bashing rhetoric。贬义。不可数。
+① He objects to the Bible-bashing tone.
+= 他反感那种硬灌教义的口气。
+a Bible-bashing tone = 硬灌教义的口气
+② The campaign slid into Bible-bashing.
+= 那场运动变成了硬性传教。
+Bible-bashing = 咄咄逼人的传教
+构词：Bible-basher 的动名词形式
+注意语域：贬义，跟 Bible-basher 一样只需认得。
 
 biblical
 核心：本义是"圣经的、出自圣经的"。由圣经里那些大场面——洪水、
@@ -52170,6 +52642,18 @@ deter = 阻止、使却步
 blackfly = 黑蚜（英式，吸植物汁）
 blackfly = 蚋、小黑蝇（北美，叮人吸血）
 
+Blackfoot
+核心：黑脚族：北美大平原北部的原住民族群，也指他们的语言。单复数
+同形，全体说 the Blackfoot；加拿大一侧多用 Blackfeet 那个复数。
+① The Blackfoot hunted bison on the plains.
+= 黑脚族在平原上猎野牛。
+the Blackfoot = 黑脚族
+② She is learning Blackfoot.
+= 她在学黑脚语。
+Blackfoot = 黑脚语
+构词：族名的英译，来自他们鞋底被草原火烧黑的说法
+注意用法：单复数同形；加拿大一侧也用 Blackfeet。
+
 blackguard
 核心：旧词，指品行恶劣的无赖。今天几乎只在旧小说和戏文里遇到，
 说话已经不用了。它最要紧的一点是读音跟拼写对不上：读成两个音节，
@@ -55945,6 +56429,21 @@ goggles = 护目镜
 blowtorch = 喷灯（美式）
 blowlamp = 喷灯（英式）
 
+Blu-ray
+核心：蓝光：容量远大于 DVD 的光碟制式，名字来自读取用的蓝紫色激光，
+拼写故意去掉了 blue 的末尾字母。原为商标，今天已当通名用。可数。
+① The film is out on Blu-ray.
+= 那部片子出蓝光碟了。
+on Blu-ray = 以蓝光碟发行
+② He bought a Blu-ray player.
+= 他买了台蓝光播放机。
+a Blu-ray player = 蓝光播放机
+③ One Blu-ray holds a whole season.
+= 一张蓝光碟能装下整季。
+a Blu-ray = 一张蓝光碟
+构词：blue 蓝 + ray 光束，商标注册时去掉了一个字母
+注意语域：原为商标，今天当通名用，小写也常见。
+
 blub
 核心：英式口语，哭鼻子，指抽抽搭搭地哭。它是 blubber 的缩略，
 语气带点嫌弃或调侃——说小孩说大人都行，暗示"哭得没出息"。
@@ -57350,6 +57849,19 @@ a bodge job = 糊弄出来的活儿
 bodge = 糊弄着做（英式口语）
 botch = 做砸了（英美通用，程度更重）
 
+Bodhisattva
+核心：菩萨：大乘佛教里已经能成佛、却发愿留下来先渡众生的修行者。
+跟 Buddha 分工清楚：那个是已觉悟的佛，这个是自愿不入涅槃的。
+读四个音节。可数。
+① He vowed to follow the bodhisattva path.
+= 他发愿走菩萨道。
+the bodhisattva path = 菩萨道
+② Kuan Yin is the best known bodhisattva in East Asia.
+= 观音是东亚最有名的菩萨。
+a bodhisattva = 菩萨
+构词：梵语 bodhi 觉 + sattva 有情
+注意分工：Buddha 是已觉悟者，这个是发愿留下渡人的。
+
 bodhran
 核心：爱尔兰传统音乐里的手鼓，一面绷着羊皮的浅圆框，
 一手在鼓皮背面按压改变音高，一手拿一根两头都能敲的小槌打点。
@@ -57712,6 +58224,19 @@ cost a fortune = 花一大笔钱
 = 发动机没问题，车身不行。
 构词：body 车身 + work 做工
 注意用法：只指钣金外壳，不含发动机底盘。
+
+Boer
+核心：布尔人：南非荷兰裔农民的后裔，今天多说 Afrikaner，这个词主要
+用于讲十九世纪与两次布尔战争的历史。读音跟 boor 相近，但两个词无关。
+可数。
+① The Boers trekked inland.
+= 布尔人向内陆迁徙。
+a Boer = 布尔人
+② The Boer War lasted three years.
+= 布尔战争打了三年。
+the Boer War = 布尔战争
+构词：南非荷兰语 boer 农民
+注意用法：讲今天的人多说 Afrikaner，这个词偏历史。
 
 boffin
 核心：英式口语，指搞科研和技术的人，尤其埋头钻研的那种。
@@ -58201,6 +58726,18 @@ pores = 孔；gills = 菌褶
 注意别混：
 boletus = 牛肝菌（菌盖下是海绵状孔）
 agaric = 伞菌（菌盖下是片状褶）
+
+Bolivian
+核心：玻利维亚的、玻利维亚人。常规的 -ian 构词，国名去掉词尾的 a
+再加后缀。可数。
+① He is a Bolivian journalist.
+= 他是玻利维亚记者。
+a Bolivian = 玻利维亚人
+② Bolivian lithium is drawing investment.
+= 玻利维亚的锂矿在引来投资。
+Bolivian lithium = 玻利维亚的锂
+构词：国名去掉词尾的 a 再加 -ian
+注意用法：这个国家有两个首都，正式文书里常要写明是哪一个。
 
 boll
 核心：棉花的果实，一个圆鼓鼓的荚，成熟时裂开露出里面的白棉絮。
@@ -60535,6 +61072,21 @@ coat = 毛皮、被毛
 borzoi = 俄国猎狼犬（长毛视猎犬）
 greyhound = 灵缇（短毛视猎犬，跑得更快）
 
+Bosnian
+核心：波斯尼亚的、波斯尼亚人，也指波斯尼亚语。要跟 Bosniak 分开：
+这个词按国籍算，那个按族群算，同一个国家里两者并不重合。可数。
+① She writes in Bosnian.
+= 她用波斯尼亚语写作。
+Bosnian = 波斯尼亚语
+② A Bosnian architect drew the plans.
+= 图是一位波斯尼亚建筑师画的。
+a Bosnian = 波斯尼亚人
+③ Bosnian coffee is served in a small copper pot.
+= 波斯尼亚咖啡用小铜壶端上来。
+Bosnian coffee = 波斯尼亚咖啡
+构词：地名 Bosnia 去掉词尾加 -n
+注意别混：按国籍说用这个词，按族群说用 Bosniak。
+
 bosom
 核心：三支。一是女性的胸部，偏文雅委婉的说法；二是胸怀、
 内心深处，in the bosom of the family 是"在家人的怀抱里"；
@@ -60838,6 +61390,34 @@ launch an attack = 发动攻击
 infected = 被感染的
 构词：bot 程序 + net 网络
 注意用法：要害是设备主人不知情。
+
+Botox
+核心：肉毒毒素制剂的商标名，早已当通名用：注射到面部让皱纹变平，
+医学上也用来治偏头痛与多汗。可作动词，过去分词 botoxed。不可数。
+① She has had Botox before.
+= 她打过肉毒针。
+have Botox = 打肉毒针
+② His forehead looks botoxed.
+= 他额头一看就是打过的。
+botoxed = 打过肉毒的
+③ Botox is also used for migraine.
+= 肉毒毒素也用来治偏头痛。
+Botox = 肉毒毒素制剂
+构词：botulinum toxin 两个词各取头一段
+注意语域：原为商标，今天小写当通名用。
+
+Botswanan
+核心：博茨瓦纳的。这个国家的国民称谓不跟形容词走：一个人叫
+Motswana，一群人叫 Batswana，都不是在国名后面加后缀得来的。
+说形容词才用这一个。
+① Botswanan diamonds fund the budget.
+= 博茨瓦纳的钻石撑着财政。
+Botswanan diamonds = 博茨瓦纳钻石
+② The Botswanan government issued a permit.
+= 博茨瓦纳政府发了许可。
+the Botswanan government = 博茨瓦纳政府
+构词：国名加 -n
+注意用法：说人用 Motswana 与 Batswana，说事物才用这个形容词。
 
 bottle
 核心：本义是瓶子，动词是装瓶。引申两支很常用。
@@ -62586,6 +63166,32 @@ trophy = 奖杯
 构词：bragging 吹嘘 + rights 权利
 注意用法：只用复数，多见于体育报道。
 
+Brahman
+核心：两支。一是印度教里的「梵」：超越一切的终极实在，跟个体的
+「我」相对，是哲学概念不是人。二是一种耐热的瘤牛，产于印度、
+后来引进美洲。说种姓要用 Brahmin。
+① Brahman is beyond name and form.
+= 梵超越名相。
+Brahman = 梵（印度教的终极实在）
+② The ranch keeps Brahman cattle.
+= 那个牧场养瘤牛。
+Brahman cattle = 瘤牛
+构词：梵语 brahman
+注意别混：说种姓与祭司阶层要用 Brahmin。
+
+Brahmin
+核心：两支。一是婆罗门：印度教的祭司种姓，四大种姓里最高的一层。
+二是美式引申：指波士顿一带世家出身、讲究教养的上层人物，说
+a Boston Brahmin，带一点讥讽。可数。
+① He was born into a Brahmin family.
+= 他生在婆罗门家庭。
+a Brahmin = 婆罗门（祭司种姓）
+② The board is full of Boston Brahmins.
+= 董事会里全是波士顿的世家子弟。
+a Boston Brahmin = 波士顿世家出身的上层人物
+构词：梵语 brahmana 祭司
+注意别混：说印度教的终极实在要用 Brahman。
+
 braid
 核心：三支。一是编成的辫子，美式说头发的辫子用 braid，
 英式多说 plait。二是编织的绦带：金线银线织成的窄带子，
@@ -63547,6 +64153,21 @@ crack open = 敲开
 selenium = 硒
 构词：产地巴西
 注意用法：含硒极高，吃几颗就够一天。
+
+Brazilian
+核心：巴西的、巴西人。要紧的一点是它不指语言 —— 巴西说的是葡萄牙语，
+英语里说 Brazilian Portuguese 指那一支变体。可数。
+① She married a Brazilian.
+= 她嫁了个巴西人。
+a Brazilian = 巴西人
+② Brazilian Portuguese sounds quite different.
+= 巴西葡萄牙语听着很不一样。
+Brazilian Portuguese = 巴西葡萄牙语
+③ Brazilian coffee dominates the market.
+= 巴西咖啡占着市场大头。
+Brazilian coffee = 巴西咖啡
+构词：国名 Brazil 加 -ian
+注意别当语言名：语言是葡萄牙语，这个词只修饰它的那一支变体。
 
 breach
 核心：底层是"破开的一道口子"。字面是墙上或堤上的缺口，
@@ -64646,6 +65267,21 @@ address = 向……讲话
 构词：brother 的古复数
 注意用法：说亲兄弟一律用 brothers，
 这个形式只用于宗教与正式场合。
+
+Breton
+核心：布列塔尼的、布列塔尼人，也指布列塔尼语 —— 那是法国境内的一门
+凯尔特语，跟威尔士语同源，跟法语毫无亲缘。可数。
+① Breton is still taught in some schools.
+= 有些学校还教布列塔尼语。
+Breton = 布列塔尼语
+② A Breton sailor told the story.
+= 一个布列塔尼水手讲了那个故事。
+a Breton = 布列塔尼人
+③ Breton stripes came from naval uniform.
+= 布列塔尼条纹出自海军制服。
+Breton stripes = 布列塔尼横条纹
+构词：地名 Brittany 的同源形式
+注意用法：那门语言属凯尔特语族，不是法语的方言。
 
 breve
 核心：两支，都跟"短"有关。音乐里 breve 是二全音符，
@@ -65773,6 +66409,72 @@ too coarse for print = 粗得上不了正经文章
 注意语域：英式粗俗俚语，只用复数，
 读到要懂，自己不要用。
 
+Brit
+核心：英国人的口语说法，比 Briton 随便得多，报刊标题与日常对话里
+常见。多数场合是中性甚至亲昵的，但语气随上下文，外国人用它有时
+带一点调侃。可数。
+① Two Brits made the final.
+= 两名英国人进了决赛。
+a Brit = 英国人（口语）
+② The bar was full of Brits on holiday.
+= 酒吧里全是度假的英国人。
+Brits = 英国人（复数口语）
+③ Brits abroad often stick together.
+= 在国外的英国人常常抱成一团。
+Brits abroad = 在国外的英国人
+报刊里的常见搭配，多带一点自嘲。
+构词：British 截短
+注意语域：口语，正式文字用 Briton 或 British citizen。
+
+Britannia
+核心：不列颠的拟人化形象：头戴盔、手执三叉戟与盾的女性，长期印在
+英国硬币上，也出现在《统治吧，不列颠尼亚》那首歌里。另有 Britannia
+metal，一种锡基合金。不可数。
+① Britannia appeared on the fifty-pence coin.
+= 不列颠女神曾印在五十便士硬币上。
+Britannia = 不列颠的拟人化形象
+② The teapot is Britannia metal.
+= 那把茶壶是不列颠合金的。
+Britannia metal = 不列颠合金（锡基）
+③ Rule, Britannia is sung at the Proms every year.
+= 那首爱国歌每年逍遥音乐节上都唱。
+Rule, Britannia = 一首英国爱国歌曲的名字
+这个形象最常出现的两个地方：硬币背面与这首歌。
+构词：不列颠的拉丁语名
+注意用法：属文化符号，不用来指国家本身。
+
+Britannic
+核心：不列颠的，今天只活在一个固定头衔里：Her Britannic Majesty，
+英国护照扉页上那句话就用它。除此之外几乎不单用。
+① The passport opens with Her Britannic Majesty.
+= 护照扉页上写着那个头衔。
+Her Britannic Majesty = 不列颠女王陛下（正式头衔）
+② Britannic appears almost nowhere else.
+= 这个词几乎不出现在别处。
+Britannic = 不列颠的（仅用于头衔）
+③ Outside that title, British is the word you want.
+= 除了那个头衔，要用的都是另一个词。
+British = 日常与正式文字里通用的那一个
+记住这一条就够了：Britannic 只活在护照扉页那句话里。
+构词：拉丁语 Britannicus
+注意用法：只用在那个固定头衔里，别拿它当 British 的同义词。
+
+Britart
+核心：英国当代艺术：一九九〇年代一批英国青年艺术家的作品与风潮，
+以观念性强、用料出人意料著称。也写作 Brit Art。不可数。
+① Britart made the headlines for a decade.
+= 英国当代艺术上了十年头条。
+Britart = 英国当代艺术（九十年代那一批）
+② The gallery has a strong Britart collection.
+= 那家画廊藏了不少那一批的作品。
+a Britart collection = 英国当代艺术藏品
+③ Several Britart artists became household names.
+= 那一批艺术家里有几个成了家喻户晓的人物。
+a Britart artist = 那一批英国当代艺术家
+跟 Britpop 一样是九十年代造出来的合成词。
+构词：Brit 加 art，仿 Britpop 造出来
+注意用法：跟 Britpop 是同一时期、同一种造词法。
+
 britches
 核心：breeches 的口语拼法，意思一样，指及膝短裤和马裤。
 它今天主要活在一个习语里：too big for your britches——
@@ -65785,6 +66487,122 @@ too big for your britches = 自以为了不起
 = 她套上了马裤。
 构词：breeches 的口语拼法
 注意用法：主要活在那个习语里。
+
+Briticism
+核心：英式说法：只在英式英语里用、美式不这么说的词或短语，
+lift、boot、queue 都是例子。语言学与编辑工作里的用词。可数。
+① The editor flagged three Briticisms.
+= 编辑标出了三处英式说法。
+a Briticism = 英式说法
+② Lorry is a Briticism to American ears.
+= 在美国人听来那个词就是英式说法。
+be a Briticism = 属于英式说法
+③ A good editor will spot a Briticism at once.
+= 好编辑一眼就能认出一处英式说法。
+spot a Briticism = 认出一处英式说法
+编辑与本地化工作里最常用到这个词。
+构词：British 加 -ism
+注意用法：跟 Britishism 同义，这个拼法更常见。
+
+British
+核心：英国的；作名词说 the British，指英国人全体，恒用复数动词。
+要点在范围：它涵盖英格兰、苏格兰、威尔士与北爱尔兰，跟只指英格兰的
+English 不是一回事 —— 把苏格兰人称作 English 是会得罪人的。
+① She holds a British passport.
+= 她持英国护照。
+British = 英国的
+② The British drink more tea than most.
+= 英国人喝茶比多数国家的人多。
+the British = 英国人（全体）
+③ British English differs from American English in spelling.
+= 英式英语跟美式英语在拼写上不一样。
+British English = 英式英语
+④ It is a British overseas territory.
+= 那是一块英国海外领地。
+a British overseas territory = 英国海外领地（受英国主权管辖但不属本土）
+构词：Britain 加 -ish
+注意别混：British 涵盖四个地区，English 只指英格兰。
+
+Britisher
+核心：英国人的另一种说法，今天偏旧，主要在美式与印度英语的文字里
+读到，英国人自己基本不用。读到要认得，写作时用 Briton 或 Brit。可数。
+① Older American novels say Britisher.
+= 早年的美国小说用的是这个说法。
+a Britisher = 英国人（偏旧）
+② He was the only Britisher on the crew.
+= 船员里只有他一个英国人。
+the only Britisher = 唯一的英国人
+③ Modern style guides tell you to write Briton instead of Britisher.
+= 现在的文体手册让人改用另一个词。
+a Briton = 今天该用的正式说法
+三个词的分工：Briton 正式、Brit 口语、Britisher 已经过时。
+构词：British 加 -er
+注意语域：偏旧，英国人自己不用。
+
+Britishism
+核心：Briticism 的另一种写法，意思完全一样，美式文字里偏用这一个。
+两种拼法都对。可数。
+① American style guides say Britishism.
+= 美国的文体手册用的是这个拼法。
+a Britishism = 英式说法
+② The text is full of Britishisms.
+= 那篇文字里满是英式说法。
+Britishisms = 英式说法（复数）
+③ The book lists a hundred Britishisms.
+= 那本书列了一百条英式说法。
+a Briticism = 同义的另一种拼法
+两种拼法可以换着用，同一篇文字里选定一个别来回改。
+构词：British 加 -ism
+注意拼写：跟 Briticism 通用，选一个用到底就行。
+
+Britishness
+核心：英国性：作为英国人的那些特质与身份认同。抽象名词，多出现在
+政治与文化评论里，常跟 define、debate 连用。不可数。
+① Politicians keep trying to define Britishness.
+= 政客一直想给英国性下定义。
+define Britishness = 给英国性下定义
+② The exhibition asks what Britishness means now.
+= 那个展览问的是今天的英国性是什么。
+Britishness = 英国性
+③ Britishness is not the same as Englishness.
+= 英国性跟英格兰性不是一回事。
+Englishness = 英格兰性（只指英格兰那一部分）
+这组对比正是这个词在评论文字里最常出现的地方。
+构词：British 加 -ness
+注意用法：抽象名词，不可数，不加冠词。
+
+Briton
+核心：两支。一是英国人的正式说法，多见于新闻稿与官方文字：
+「three Britons were injured」。二是历史上的不列颠人：罗马入侵前
+住在岛上的凯尔特族群，说 the ancient Britons。可数。
+① Three Britons were injured in the crash.
+= 三名英国人在事故中受伤。
+a Briton = 英国人（正式）
+② The ancient Britons painted themselves blue.
+= 古不列颠人往身上涂蓝色颜料。
+the ancient Britons = 古不列颠人
+③ The Foreign Office advised Britons to leave.
+= 外交部建议在当地的英国公民撤离。
+advise Britons to = 建议英国公民……
+外交与新闻稿里的固定说法，这种场合不会用口语的 Brit。
+构词：拉丁语 Britto
+注意语域：书面正式；口语说 Brit。
+
+Britpop
+核心：英伦流行乐：一九九〇年代中期英国的一股吉他流行乐潮流，刻意
+用英国口音唱、写英国生活，跟当时的美国另类摇滚对着来。不可数。
+① Britpop dominated the mid-nineties charts.
+= 英伦流行乐占了九十年代中期的榜单。
+Britpop = 英伦流行乐
+② The album is late Britpop.
+= 那张专辑属于英伦流行乐的后期。
+late Britpop = 英伦流行乐后期
+③ Britpop bands filled the festival line-up.
+= 音乐节的阵容里全是英伦流行乐队。
+a Britpop band = 英伦流行乐队
+多作定语用，说那个时期的乐队、专辑与现场。
+构词：Brit 加 pop
+注意用法：专指那一段时期的那股潮流，不泛指英国流行乐。
 
 brittle
 核心：底层是"脆"——硬但没有韧性，受力不弯直接断，
@@ -65813,6 +66631,19 @@ brittleness = 脆性
 注意别混：
 brittle = 脆的（不肯弯，受力直接断）
 fragile = 易碎的（要小心轻放）
+
+Brittonic
+核心：布立吞语支：凯尔特语的一支，包括威尔士语、康沃尔语与布列塔尼
+语，跟包含爱尔兰语、苏格兰盖尔语的另一支相对。也拼 Brythonic，
+两个词同义。语言学用词。
+① Welsh is a Brittonic language.
+= 威尔士语属布立吞语支。
+a Brittonic language = 布立吞语支的语言
+② Brittonic and Goidelic split long before Rome.
+= 那两支在罗马人到来之前很久就分开了。
+Brittonic = 布立吞语支
+构词：Briton 的拉丁化形式加 -ic
+注意拼写：跟 Brythonic 通用。
 
 bro
 核心：brother 的缩略，用法有三层。一是真的指兄弟。
@@ -67128,6 +67959,18 @@ a ritual = 例行的固定节目
 构词：breakfast + lunch 拼合
 注意用法：多在周末上午晚些时候吃。
 
+Bruneian
+核心：文莱的、文莱人。国名全称很长，日常与形容词都只用短名加后缀。
+可数。
+① A Bruneian delegation attended.
+= 文莱代表团出席了。
+a Bruneian = 文莱人
+② Bruneian oil revenue is huge for its size.
+= 就体量而言，文莱的石油收入很大。
+Bruneian oil revenue = 文莱的石油收入
+构词：国名 Brunei 加 -an
+注意拼写：词尾的 i 保留，写作 Bruneian 而不是 Brunean。
+
 brunette
 核心：指头发是深褐色的女子，也作形容词。它跟 blonde 一样
 保留了法语的阴阳性：说男性用 brunet，说女性用 brunette，
@@ -67503,6 +68346,18 @@ alienate = 使疏远
 curb = 约束
 构词：brutish 野蛮的 + -ness
 
+Brythonic
+核心：Brittonic 的另一种拼法，意思完全一样，出自威尔士语里
+「不列颠人」那个词。两种拼法在学术文献里都通行。
+① Cornish is a Brythonic language.
+= 康沃尔语属布立吞语支。
+a Brythonic language = 布立吞语支的语言
+② Older handbooks prefer Brythonic.
+= 早年的手册偏用这个拼法。
+Brythonic = 布立吞语支
+构词：威尔士语 Brython 不列颠人
+注意拼写：跟 Brittonic 通用，同一个语支。
+
 bub
 核心：美式口语，对男性的称呼，相当于"老兄、伙计"。
 它跟 buddy 不一样：bub 多半带着不耐烦或找茬的口气，
@@ -67855,6 +68710,52 @@ nip in the bud = 防患于未然
 bud = 哥们儿（美式口语，buddy 的缩略）
 构词：中古英语 budde
 注意来历：习语的画面就是趁还是花苞时掐掉。
+
+Buddha
+核心：两支。一是佛陀：特指创立佛教的那一位，前面加定冠词说 the
+Buddha。二是泛指任何已觉悟者，也指佛像：a stone Buddha 是一尊石佛。
+可数。
+① The Buddha taught for forty years.
+= 佛陀讲法四十年。
+the Buddha = 佛陀（创教的那一位）
+② A stone Buddha sits by the gate.
+= 门边坐着一尊石佛。
+a Buddha = 一尊佛像
+③ Everyone has the Buddha nature.
+= 人人都有佛性。
+Buddha nature = 佛性
+构词：梵语 buddha 觉悟了的人
+注意用法：指创教者时前面要加定冠词。
+
+Buddhism
+核心：佛教：由佛陀创立的宗教与思想传统，讲苦、无常与解脱。主要分
+上座部与大乘两大支。不可数，作专名首字母大写。
+① Buddhism spread along the trade routes.
+= 佛教沿着商路传开。
+Buddhism = 佛教
+② She converted to Buddhism at thirty.
+= 她三十岁皈依了佛教。
+convert to Buddhism = 皈依佛教
+③ Zen is a school of Buddhism.
+= 禅是佛教的一支。
+a school of Buddhism = 佛教的一个流派
+构词：Buddha 加 -ism
+注意拼写：中间是 ddh 三个字母，常被写掉一个。
+
+Buddhist
+核心：佛教徒；也作形容词说佛教的。跟 Buddhism 成对：一个是宗教，
+一个是信这宗教的人。可数。
+① She is a practising Buddhist.
+= 她是个修行的佛教徒。
+a Buddhist = 佛教徒
+② They visited a Buddhist temple.
+= 他们去了一座佛寺。
+a Buddhist temple = 佛寺
+③ Buddhist monks wear saffron robes there.
+= 那里的僧人穿橙黄色僧袍。
+a Buddhist monk = 僧人
+构词：Buddha 加 -ist
+注意拼写：跟 Buddhism 一样，中间是 ddh。
 
 budding
 核心：形容词，崭露头角的、初露锋芒的——已经看得出苗头，
@@ -68501,6 +69402,21 @@ precooked = 预先煮过的
 = 「bulgur」那个拼法更常见。
 构词：土耳其语 bulgur
 注意拼写：bulgur 更常见，bulgar 也通行。
+
+Bulgarian
+核心：保加利亚的、保加利亚人，也指保加利亚语。那门语言用西里尔
+字母书写，是最早使用这套字母的斯拉夫语。可数。
+① He teaches Bulgarian at the university.
+= 他在大学教保加利亚语。
+Bulgarian = 保加利亚语
+② Two Bulgarians joined the crew.
+= 两名保加利亚人加入了船员。
+a Bulgarian = 保加利亚人
+③ Bulgarian yoghurt is made with a specific culture.
+= 保加利亚酸奶用的是一种特定菌种。
+Bulgarian yoghurt = 保加利亚酸奶
+构词：国名加 -n
+注意用法：形容词、国民称谓与语言名是同一个词。
 
 bulge
 核心：从平的表面上鼓出来的一块。名词动词同形。
@@ -70205,6 +71121,18 @@ burka = 全身罩袍（连眼睛也隔着网）
 hijab = 头巾（只包头发）
 niqab = 面纱（露出眼睛）
 
+Burkinabe
+核心：布基纳法索的、布基纳法索人。这个词不是从国名加后缀来的，
+所以推不出来，只能记：单复数同形，男女不分。也拼 Burkinabé。
+① A Burkinabe filmmaker took the top prize.
+= 一位布基纳法索导演拿了大奖。
+a Burkinabe = 布基纳法索人
+② Burkinabe cotton is the main export.
+= 布基纳法索的棉花是主要出口货。
+Burkinabe cotton = 布基纳法索棉花
+构词：国名里那个词加当地语言的后缀，不循英语构词规律
+注意构词：推不出来的一个，单复数同形。
+
 burl
 核心：树干上鼓出来的那个瘤状疙瘩。它在木工里是好东西：
 瘤里的纤维长得乱，切开后纹理旋绕成花，做贴面板和小件器物
@@ -70272,6 +71200,22 @@ step in = 上前介入
 近义对照：
 burly = 魁梧的（重在块头）
 brawny = 肌肉结实的（重在力气）
+
+Burmese
+核心：缅甸的、缅甸人，也指缅甸语。国名一九八九年改成 Myanmar 之后，
+形容词一度跟着改，但语言名与族群名今天仍用这个词。-ese 一族，单复数
+同形。也指一种猫。
+① She speaks fluent Burmese.
+= 她缅甸语说得很流利。
+Burmese = 缅甸语
+② Three Burmese were on the flight.
+= 那趟航班上有三个缅甸人。
+a Burmese = 缅甸人
+③ They keep two Burmese cats.
+= 他们养着两只缅甸猫。
+a Burmese cat = 缅甸猫
+构词：旧国名 Burma 加 -ese
+注意用法：国名改了，语言名与族群名仍用这个词。
 
 burn
 核心：底层是"烧"。烧东西、着火、烧伤、晒伤都是它。
@@ -70610,6 +71554,17 @@ gone for a burton = 坏了、完蛋了
 构词：来历有几种说法，未有定论
 注意用法：只用在 gone for a burton 这个说法里。
 
+Burundian
+核心：布隆迪的、布隆迪人。常规的 -an 构词。可数。
+① A Burundian runner led at halfway.
+= 一名布隆迪选手中途领先。
+a Burundian = 布隆迪人
+② Burundian coffee is grown at altitude.
+= 布隆迪的咖啡种在高海拔。
+Burundian coffee = 布隆迪咖啡
+构词：国名 Burundi 加 -an
+注意拼写：词尾的 i 保留。
+
 bury
 核心：底层是"埋进去盖住"。埋人是本义，埋东西也是。
 引申一路指"藏起来、盖住"：bury your face in your hands 是
@@ -70840,6 +71795,18 @@ stress = 强调
 注意别混：
 bushido = 武士道（日语借词）
 bush = 灌木（前缀相同，毫无关系）
+
+Bushman
+核心：旧称，指南部非洲的桑人（San）。这个词带殖民时代的居高临下
+意味，今天正式文字一律说 San，读到要认得但不要用。复数 Bushmen。
+① Older books call them Bushmen.
+= 旧书里管他们叫那个旧称。
+Bushmen = 桑人（旧称，复数）
+② The Bushman tracked the herd for days.
+= 那个桑人追着兽群走了好几天。
+a Bushman = 桑人（旧称）
+构词：从南非荷兰语 boesman 直译
+注意语域：带殖民时代的贬抑，今天说 San，这个词只需认得。
 
 bushy
 核心：形容词，又密又蓬的。最常见的搭配是 bushy eyebrows
@@ -97585,1342 +98552,3 @@ a confederate = 同伙、同盟者
 a confederation = 邦联
 构词：拉丁语 confoederare 结盟
 注意用法：大写时特指美国南方邦联。
-
-confer
-核心：两支。一是授予：正式地把学位、荣誉或权利给某人，
-介词用 on 或 upon；二是商议：几个人凑一起商量，介词用
-with。名词 conference 是会议，动名词 conferencing 指
-开电话会或视频会这件事。
-① The university conferred a degree on her.
-= 那所大学授予了她学位。
-confer something on somebody = 把……授予某人
-② Citizenship confers certain rights.
-= 公民身份带来若干权利。
-confer rights = 赋予权利
-③ She conferred with her lawyer.
-= 她跟律师商量了。
-confer with = 与……商议
-④ The conference runs three days.
-= 那个会开三天。
-a conference = 会议
-⑤ Video conferencing saves travel.
-= 视频会议省去了出差。
-video conferencing = 视频会议
-⑥ The conferment of degrees takes place in July.
-= 学位授予仪式在七月举行。
-conferment = 授予（学位、荣誉、权利）
-正式词，多用于学位与勋衔；美式也说 conferral。
-构词：拉丁语 conferre 拿到一起
-注意搭配：授予用 on，商议用 with。
-
-confess
-核心：坦白、承认：把自己做的错事或藏着的心思说出来，
-介词用 to。宗教里是向神父告解。名词 confession；
-confessional 是告解室，也作形容词指自剖式的写作；
-听告解的神父叫 confessor。
-① He confessed to the theft.
-= 他承认了盗窃。
-confess to = 承认做了某事
-② She confessed that she was afraid.
-= 她坦白说自己怕。
-confess that = 坦白说
-③ He made a full confession.
-= 他全招了。
-make a confession = 招供
-④ She stepped into the confessional.
-= 她走进了告解室。
-a confessional = 告解室
-⑤ The poems are confessional.
-= 那些诗是自剖式的。
-confessional = 自剖式的
-⑥ He told his confessor everything.
-= 他把一切都告诉了听告解的神父。
-a confessor = 听告解的神父
-构词：拉丁语 confiteri 承认
-注意搭配：介词用 to，不用 about。
-
-confetti
-核心：五彩纸屑：婚礼与庆典上撒的小碎纸片。这个词在
-意大利语里本指婚礼上撒的糖果，传到英语后变成了纸屑。
-不可数，跟单数动词。
-① Confetti covered the steps.
-= 台阶上撒满了纸屑。
-confetti = 五彩纸屑
-② Guests threw confetti.
-= 宾客们撒起了纸屑。
-throw confetti = 撒纸屑
-③ The venue has banned confetti.
-= 那个场地禁止撒纸屑。
-ban confetti = 禁撒纸屑
-构词：意大利语 confetti 糖果
-注意用法：不可数，跟单数动词。
-
-confidant
-核心：知己：可以掏心窝子说话的人，尤指听你倾诉秘密的
-那一个。指女性时传统上写 confidante，两种拼法今天常
-混用。可数。
-① He was her closest confidant.
-= 他是她最贴心的知己。
-a confidant = 知己
-② She had no confidante to turn to.
-= 她连个可以倾诉的女友都没有。
-a confidante = 女性知己
-③ Every leader needs a confidant.
-= 当头儿的都得有个能说心里话的人。
-need a confidant = 需要一个知己
-构词：法语 confident 信任的人
-注意拼写：指女性时传统上写 confidante。
-
-confide
-核心：两支，靠介词分。一是吐露心事：把秘密说给信得过
-的人，内容跟 to；二是 confide in somebody：把某人当
-知己、有话跟他说。
-① She confided her fears to him.
-= 她把心里的害怕告诉了他。
-confide something to somebody = 把……吐露给某人
-② He confides in no one.
-= 他谁也不掏心窝子。
-confide in = 把……当知己倾诉
-③ They confided that they were leaving.
-= 他们私下说要走了。
-confide that = 私下说
-④ She has a confiding manner.
-= 她那副样子让人愿意跟她说心里话。
-a confiding manner = 让人愿意交心的样子
-confidingly = 掏心窝子地
-构词：拉丁语 confidere 信托
-注意搭配：吐露的内容用 to，倾诉的对象用 in。
-
-confidence
-核心：三支。一是自信；二是信任，have confidence in；
-三是秘密与信任关系：in confidence 是私下说的，
-take somebody into one's confidence 是把某人当自己人。
-前两支不可数。
-① She spoke with confidence.
-= 她说话很有底气。
-with confidence = 有把握地
-② I have confidence in him.
-= 我信得过他。
-have confidence in = 信任
-③ He told me in confidence.
-= 他是私下跟我说的。
-in confidence = 私下、不外传地
-④ She took him into her confidence.
-= 她把他当成了自己人。
-take somebody into one's confidence = 把某人当心腹
-⑤ The vote was one of no confidence.
-= 那是一次不信任投票。
-a vote of no confidence = 不信任投票
-⑥ The whole scheme was a confidence trick.
-= 整套把戏就是个骗局。
-a confidence trick = 骗局（先骗取信任再下手）；a confidence trickster = 行骗的人
-英式说法，美式说 confidence game；口语的 con 与 con artist 就是从这里截短来的。
-⑦ Consumer confidence fell for a third month.
-= 消费者信心连续第三个月下滑。
-consumer confidence = 消费者信心（对经济前景的乐观程度）
-经济新闻里的固定指标，常跟 index、survey 连用。
-构词：拉丁语 confidere 信托
-注意分工：自信与信任是同一个词，看介词与上下文。
-
-confident
-核心：两支。一是自信的：对自己有把握；二是笃定的：
-对某事有把握会发生，介词用 of 或 about，也接 that
-从句。副词 confidently。
-① She is a confident speaker.
-= 她讲话很有底气。
-confident = 自信的
-② They are confident of winning.
-= 他们有把握会赢。
-confident of = 对……有把握
-③ I am confident that it will work.
-= 我确信那行得通。
-confident that = 确信
-④ He answered confidently.
-= 他答得很笃定。
-confidently = 有把握地
-⑤ She is confident about the result.
-= 她对结果有把握。
-be confident about = 对……有把握
-构词：confidence 自信 + -ent
-注意搭配：介词用 of 或 about。
-
-confidential
-核心：两支。一是保密的：文件与信息不可外传；二是说
-语气像在说悄悄话。名词 confidentiality 是保密义务，
-副词 confidentially 是「私下跟你说」。
-① The file is confidential.
-= 那份档案是保密的。
-confidential = 保密的
-② He lowered his voice to a confidential tone.
-= 他压低嗓子，像在说悄悄话。
-a confidential tone = 私语般的口气
-③ Staff sign a confidentiality agreement.
-= 员工要签保密协议。
-a confidentiality agreement = 保密协议
-④ Confidentially, she is leaving.
-= 私下跟你说，她要走了。
-confidentially = 私下地
-构词：confidence 信托 + -ial
-注意语域：法律与人事文件里高频。
-
-configure
-核心：把设备或软件按需要设定好：调参数、装选项。名词
-configuration 既指设定这件事，也指部件排布的样子。
-计算机与工程用词。及物。
-① Configure the router first.
-= 先把路由器设好。
-configure = 配置设定
-② The laptop comes preconfigured.
-= 那台笔记本是设好了发货的。
-preconfigured = 预先配置好的
-③ Save the configuration file.
-= 把配置文件存下来。
-a configuration file = 配置文件
-④ The seats have a new configuration.
-= 座位换了个排布方式。
-a configuration = 排布方式
-构词：拉丁语 configurare 塑成一形
-注意语域：计算机与工程用词。
-
-confine
-核心：两支。一是限制在某个范围内，介词用 to；二是关
-起来，多用被动。名词 confinement 是关押；复数
-confines 指界限；形容词 confined 是狭小封闭的。
-① Confine your answer to one page.
-= 答案限一页。
-confine to = 把……限于
-② He was confined to bed for a week.
-= 他卧床了一周。
-be confined to bed = 卧床不起
-③ They work in a confined space.
-= 他们在狭小封闭的空间里干活。
-a confined space = 狭小封闭的空间
-④ Solitary confinement broke him.
-= 单独关押把他弄垮了。
-solitary confinement = 单独关押
-⑤ Within the confines of the law, yes.
-= 在法律范围内是可以的。
-within the confines of = 在……范围内
-构词：拉丁语 confinis 接壤的
-注意用法：关押那一支多用被动。
-
-confirm
-核心：三支。一是证实：让某个说法或猜测得到确认；二是
-确认预订、日期这类安排；三是宗教上的坚振礼。名词
-confirmation。形容词 confirmed 一是已确认的，二是放在
-名词前指「铁了心的、积习难改的」。
-① The tests confirmed our fears.
-= 检测证实了我们的担心。
-confirm = 证实
-② Please confirm your booking.
-= 请确认预订。
-confirm a booking = 确认预订
-③ She was confirmed at fourteen.
-= 她十四岁受了坚振礼。
-be confirmed = 受坚振礼
-④ We await written confirmation.
-= 我们等书面确认。
-written confirmation = 书面确认
-⑤ He is a confirmed bachelor.
-= 他是个铁了心不结婚的人。
-a confirmed bachelor = 打定主意不结婚的男人
-构词：拉丁语 confirmare 使坚固
-注意用法：confirmed 放名词前是「铁了心的」。
-
-confiscate
-核心：没收：由官方或有权的一方把东西收走，老师收学生
-手机、海关扣货都用它。名词 confiscation。及物。
-① The guards confiscated his phone.
-= 看守把他手机没收了。
-confiscate = 没收
-② Goods were confiscated at customs.
-= 货物在海关被扣了。
-be confiscated = 被没收
-③ Confiscation of assets followed.
-= 随后是资产没收。
-confiscation = 没收
-构词：拉丁语 confiscare 收归国库
-注意用法：主语通常是有权力的一方。
-
-confit
-核心：油封：法国做法，把肉用盐腌过，再整块泡在自身的油脂
-里小火慢煨，然后连油存着。既是做法也是成品，也作动词。
-① Duck confit needs long, slow cooking.
-= 油封鸭腿要小火慢煨很久。
-duck confit = 油封鸭腿
-② The legs are confited in their own fat.
-= 那些腿是用自身的油脂油封的。
-confit = 用油脂慢煨保存
-③ Confit keeps for months under a layer of fat.
-= 油封的肉盖着一层油能存好几个月。
-confit = 油封（做法与成品）
-构词：法语 confire 腌渍保存
-注意读音：词尾那个字母不发音。
-
-conflagration
-核心：大火：烧毁大片房屋或森林的那种，正式而带文学
-色彩。也引申指大规模战乱。可数。
-① The conflagration destroyed the docks.
-= 那场大火烧毁了码头。
-a conflagration = 大火
-② Europe slid into conflagration.
-= 欧洲滑进了一场大战。
-a conflagration = 大规模战乱
-③ A single spark started the conflagration.
-= 一星火苗引发了那场大火。
-start a conflagration = 引发大火
-构词：拉丁语 conflagrare 熊熊燃烧
-注意语域：正式而带文学色彩。
-
-conflate
-核心：把本该分开的两样东西混为一谈，也指把两份文本合成
-一份。名词 conflation。是个批评性的词：说人 conflate
-两件事，就是说他没分清。及物。
-① Do not conflate the two issues.
-= 别把那两件事混为一谈。
-conflate = 混为一谈
-② The report conflates cause and effect.
-= 那份报告把因果搅在了一起。
-conflate A and B = 把两者混为一谈
-③ The conflation confused everyone.
-= 那种搅混让所有人都糊涂了。
-conflation = 混为一谈
-构词：拉丁语 conflare 熔到一起
-注意语气：批评性用词。
-
-conflict
-核心：名词重音在前，动词重音在后。名词一是冲突争斗，
-从吵架到战争都算；二是矛盾抵触，a conflict of interest
-是利益冲突。动词是相抵触，介词用 with。形容词
-conflicting 是互相矛盾的。
-① The conflict lasted a decade.
-= 那场冲突持续了十年。
-a conflict = 冲突、战乱
-② He declared a conflict of interest.
-= 他声明了利益冲突。
-a conflict of interest = 利益冲突
-③ Her account conflicts with his.
-= 她的说法跟他的对不上。
-conflict with = 与……相抵触
-④ We received conflicting reports.
-= 我们收到的说法互相矛盾。
-conflicting reports = 互相矛盾的说法
-⑤ The trade in conflict diamonds funded the war.
-= 冲突钻石的买卖资助了那场战争。
-a conflict diamond = 冲突钻石（战区开采、用来换武器的钻石）
-国际上有专门的认证制度追这条线，媒体上也叫它血钻。
-⑥ She feels conflicted about leaving.
-= 要不要走，她心里很矛盾。
-conflicted = 内心矛盾的、拿不定主意的
-说人同时被两种想法拉扯着；常跟 feel 连用，是美式先流行起来的用法。
-构词：拉丁语 confligere 撞到一起
-注意读音：名词重音在前，动词重音在后。
-
-confluence
-核心：两支。一是两条河汇合的那个点；二是引申的「多种
-因素凑到一起」。抽象义常说 a confluence of。可数。
-① The town sits at the confluence of two rivers.
-= 那个镇子在两河交汇处。
-the confluence of = ……的交汇处
-② A confluence of factors caused the crash.
-= 几种因素凑到一起造成了那场崩盘。
-a confluence of factors = 多种因素的凑合
-③ They camped above the confluence.
-= 他们在交汇处上游扎了营。
-above the confluence = 交汇处上游
-构词：拉丁语 confluere 一同流
-注意用法：抽象义常说 a confluence of。
-
-conform
-核心：两支。一是遵从规范、跟大伙儿一样；二是符合标准
-与规定。介词用 to，说符合规定也可以用 with。名词
-conformity，一味随大流的人叫 conformist。
-① Products must conform to the standard.
-= 产品必须符合标准。
-conform to = 符合
-② She refused to conform.
-= 她不肯随大流。
-conform = 随大流
-③ Everything was done in conformity with the rules.
-= 一切都照规矩办。
-in conformity with = 与……相符
-④ He is no conformist.
-= 他可不是个随大流的人。
-a conformist = 随大流的人
-⑤ The material is prized for its conformability.
-= 那种材料贵在贴合性好。
-conformability = 贴合性、能顺应的程度；conformable = 顺应的、贴合的
-偏技术用词，说材料能不能随着形状贴上去。
-⑥ The parts were made in conformance with the spec.
-= 那些零件是照规格做的。
-conformance = 符合、遵照（正式）
-跟 conformity 同义，工程与质量文件里更爱用这一个。
-⑦ The dog was judged on conformation.
-= 那只狗是按体型评的。
-conformation = 体型结构、整体形状
-说的是各部分怎么搭在一起；犬展与马术里是固定术语。
-构词：拉丁语 conformare 使成同一形
-注意搭配：介词用 to，说符合规定也可用 with。
-
-confound
-核心：三支。一是把人弄糊涂、难住；二是推翻预期；
-三是把两样东西混淆，偏旧。形容词 confounded 一是
-困惑的，二是旧式口语里骂人的语气词。
-① The result confounded the experts.
-= 那个结果把专家们难住了。
-confound = 难住、使困惑
-② She confounded expectations and won.
-= 她出乎所有人意料赢了。
-confound expectations = 出乎意料
-③ Do not confound the two terms.
-= 别把那两个术语搞混。
-confound = 混淆
-④ The confounded thing will not start.
-= 那个鬼东西死活发动不了。
-confounded = 该死的（旧式语气词）
-构词：拉丁语 confundere 倒到一起
-注意语域：第四支是旧式口语的骂人语气。
-
-confraternity
-核心：兄弟会：为宗教或慈善目的结成的在俗信徒团体，天主教
-里常见；也泛指同行之间的团体。可数。
-① The confraternity maintains the chapel.
-= 那个兄弟会负责维护小圣堂。
-a confraternity = 在俗信徒兄弟会
-② He joined a confraternity of printers.
-= 他加入了一个印刷业者的同业团体。
-a confraternity of = ……的同业团体
-③ Confraternities organized the processions.
-= 那些兄弟会操办了游行。
-a confraternity = 兄弟会
-构词：拉丁语 con- 共 + frater 兄弟
-注意语域：宗教与历史用词。
-
-confrere
-核心：同行、同道：同一行当或同一团体里的伙伴，多用于
-正式或带书卷气的文字。也写作 confrère。可数。
-① He consulted his confreres.
-= 他跟同行们商量了。
-a confrere = 同行、同道
-② Her confreres in the academy agreed.
-= 学会里的同道都同意。
-confreres = 同道中人
-③ He wrote to a confrere in Vienna.
-= 他给维也纳的一位同道写了信。
-write to a confrere = 写信给同道
-构词：法语 confrère 同一兄弟会的人
-注意拼写：也写作 confrère。
-
-confront
-核心：三支。一是当面质问、对质，介词用 about；二是
-问题横在面前，be confronted with 是面临；三是正视、
-直面难题。名词 confrontation，形容词 confrontational
-是动辄对抗的。
-① She confronted him about the money.
-= 她当面问了他钱的事。
-confront somebody about = 就……当面质问某人
-② They were confronted with a choice.
-= 他们面前摆着一个选择。
-be confronted with = 面临
-③ We must confront the problem.
-= 我们必须正视这个问题。
-confront a problem = 正视问题
-④ The confrontation turned violent.
-= 那场对峙动起了手。
-a confrontation = 对峙
-⑤ His style is confrontational.
-= 他那套做法动辄对抗。
-confrontational = 爱对抗的
-构词：拉丁语 con- 共 + frons 额头，本义是脸对着脸
-注意搭配：当面质问用 about，面临困境用 with。
-
-confuse
-核心：两支。一是把人弄糊涂；二是把两样东西弄混。
-形容词两个最容易用反：confused 说人糊涂、也说局面乱，
-confusing 说事物本身让人费解。名词 confusion。
-① The instructions confused me.
-= 那些说明把我弄糊涂了。
-confuse somebody = 把某人弄糊涂
-② I always confuse the twins.
-= 那对双胞胎我总认错。
-confuse A with B = 把两者弄混
-③ I am confused.
-= 我糊涂了。
-confused = 糊涂的
-④ The map is confusing.
-= 那张图让人看不明白。
-confusing = 让人费解的
-⑤ There was confusion at the gate.
-= 门口乱成一团。
-confusion = 混乱
-⑥ The two words are easily confusable.
-= 那两个词很容易混。
-confusable = 容易混淆的
-⑦ The label is confusingly worded.
-= 那个标签写得让人费解。
-confusingly = 令人费解地
-⑧ He blinked confusedly at the screen.
-= 他一脸茫然地对着屏幕眨眼。
-confusedly = 茫然地、糊里糊涂地
-读四个音节，末尾那个 -ed 要单独成音；用得不多，多改说 in confusion。
-构词：拉丁语 confundere 倒到一起
-注意别用反：人是 confused，东西是 confusing。
-
-confute
-核心：驳倒：拿证据或推理把某个说法证明为错，比 refute
-更正式、也更少见。名词 confutation。及物。
-① The data confute his claim.
-= 那些数据驳倒了他的说法。
-confute = 驳倒
-② Nobody could confute her.
-= 没人能驳倒她。
-confute somebody = 驳倒某人
-③ The confutation ran to fifty pages.
-= 那篇驳论写了五十页。
-a confutation = 驳论
-构词：拉丁语 confutare 压下去
-注意语域：比 refute 更正式、更少见。
-
-conga
-核心：两支。一是康加舞：一队人一个搭一个的肩排成长龙
-往前走的拉美舞；二是康加鼓：细高的手拍鼓。可数。
-① They formed a conga line.
-= 他们排成了长龙跳舞。
-a conga line = 康加舞长龙
-② He plays the conga.
-= 他打康加鼓。
-a conga = 康加鼓
-③ Everyone joined the conga.
-= 大家都加入了那条舞龙。
-join the conga = 加入康加舞长龙
-构词：西班牙语 conga，跟刚果有关
-注意用法：两支都可数。
-
-congeal
-核心：凝住：液体变稠变硬，多说血、油、肉汁冷了以后结成
-一块，带点不好看、发腻的意味。也书面地说气氛凝住了。
-① The gravy congealed on the plate.
-= 肉汁在盘子上凝住了。
-congeal = 凝结变稠
-② Blood had congealed around the wound.
-= 血在伤口周围凝住了。
-congeal = 凝固
-③ The mood congealed into silence.
-= 气氛凝成了一片沉默。
-congeal into = 凝成
-构词：拉丁语 congelare 冻结
-注意语气：多带一点不好看、发腻的意味。
-
-congenial
-核心：合脾气的、投缘的：说人性情相投，也说环境待着
-舒服。介词用 to。正式而带好感的词。
-① They are congenial company.
-= 他们几个在一起很投缘。
-congenial company = 投缘的同伴
-② The climate is congenial to vines.
-= 那种气候适合葡萄。
-congenial to = 适宜于
-③ It was a congenial atmosphere.
-= 那是个让人自在的氛围。
-a congenial atmosphere = 让人自在的氛围
-congeniality = 投缘、相处的和乐
-构词：con- 共 + genial 性情相投的
-注意别混：跟表示「生下来就有的」那个近形词无关。
-
-congenital
-核心：两支。一是医学上的先天的：生下来就有的；二是
-口语里说人一贯如此、改不了。副词 congenitally。
-先天不等于遗传，这个词只说出生时就带着。
-① It is a congenital condition.
-= 那是种先天性疾病。
-a congenital condition = 先天性疾病
-② She has a congenital heart defect.
-= 她有先天性心脏缺陷。
-a congenital defect = 先天缺陷
-③ He is a congenital liar.
-= 他撒谎是天性。
-a congenital liar = 天生的骗子
-④ The trait is congenitally determined.
-= 那个特征是先天决定的。
-congenitally = 先天地
-构词：拉丁语 con- 共 + genitus 生出来的
-注意别混：先天不等于遗传，这个词只说出生时就有。
-
-conger
-核心：康吉鳗、海鳗：一种大型无鳞海鳗，肉厚，欧洲沿海
-常见，常写全为 conger eel。可数。
-① They caught a conger off the rocks.
-= 他们在礁石边钓到一条海鳗。
-a conger = 康吉鳗
-② Conger eel is stewed here.
-= 这里的海鳗是炖着吃的。
-a conger eel = 康吉鳗
-③ He landed a conger of twenty kilos.
-= 他钓上一条二十公斤的海鳗。
-land a conger = 钓上一条海鳗
-构词：希腊语 gongros 海鳗
-注意用法：常写全为 conger eel。
-
-congest
-核心：堵塞：交通、鼻腔、网络被塞住。动词多用被动，
-更常见的是形容词与名词形式。名词 congestion，伦敦
-进城收的 congestion charge 就是这个词。
-① The roads were congested.
-= 那些路堵住了。
-be congested = 被堵塞
-② She has a congested chest.
-= 她胸口发闷有痰。
-congested = 充血阻塞的
-③ Traffic congestion costs billions.
-= 交通拥堵损失数以十亿计。
-traffic congestion = 交通拥堵
-④ Drivers pay a congestion charge.
-= 司机要交拥堵费。
-a congestion charge = 进城拥堵费
-构词：拉丁语 congerere 堆到一起
-注意用法：动词多用被动。
-
-conglomerate
-核心：两支，重音不同。名词一是企业集团：跨好几个行业
-的大公司；二是地质学上的砾岩。动词重音在后，指聚成
-一团；名词 conglomeration 指杂七杂八凑成的一堆。
-① The conglomerate owns forty brands.
-= 那家集团旗下有四十个品牌。
-a conglomerate = 企业集团
-② The cliff is conglomerate.
-= 那面崖是砾岩。
-conglomerate = 砾岩
-③ Particles conglomerate into lumps.
-= 颗粒聚成了团块。
-conglomerate into = 聚成
-④ It is a conglomeration of styles.
-= 那是各种风格的大杂烩。
-a conglomeration of = ……的杂凑
-构词：拉丁语 conglomerare 卷成一团
-注意读音：名词与形容词重音在前，动词重音在后。
-
-congratulate
-核心：道贺：为好事向人祝贺，介词用 on，不用 for。
-反身的 congratulate oneself on 是暗自庆幸。名词多用
-复数，口语短说 congrats；形容词 congratulatory。
-① I congratulated her on the promotion.
-= 我祝贺她升职。
-congratulate somebody on = 就……祝贺某人
-② He congratulated himself on getting out early.
-= 他暗自庆幸早早脱了身。
-congratulate oneself on = 暗自庆幸
-③ Congratulations on the baby.
-= 恭喜添了宝宝。
-congratulations = 恭喜
-a congratulation = 一句道贺（单数少用）
-④ She sent a congratulatory note.
-= 她送了张贺条。
-a congratulatory note = 贺条
-⑤ Congrats on the new job.
-= 新工作恭喜了。
-congrats = 恭喜（口语）
-构词：拉丁语 congratulari 一同欢喜
-注意搭配：介词用 on，不用 for。
-
-congregate
-核心：聚集：一群人自发地聚到一处，不及物。名词
-congregation 指教堂里的会众，也泛指聚起来的一群；
-形容词 congregational，大写时指公理宗。
-① Students congregate in the square.
-= 学生们聚在广场上。
-congregate = 聚集
-② Birds congregated on the wire.
-= 鸟聚在电线上。
-congregate on = 聚在……上
-③ The congregation rose to sing.
-= 会众起立唱诗。
-a congregation = 教堂会众
-④ It is a Congregational church.
-= 那是间公理会教堂。
-Congregational = 公理宗的
-⑤ Congregants filed out after the service.
-= 会众在礼拜后鱼贯而出。
-a congregant = 会众中的一员
-构词：拉丁语 congregare 聚成群
-注意用法：动词不及物。
-
-congress
-核心：三支。大写时特指美国国会，不加冠词；小写泛指
-正式的大型代表会议，多用于学术与国际组织；也用在政党
-名里。形容词 congressional，议员分别叫 congressman
-与 congresswoman。可数。
-① Congress passed the bill.
-= 国会通过了那项法案。
-Congress = 美国国会
-② She attended a medical congress.
-= 她参加了一个医学大会。
-a congress = 代表大会
-③ A congressional committee held hearings.
-= 一个国会委员会举行了听证。
-a congressional committee = 国会委员会
-④ The congressman voted against.
-= 那位众议员投了反对票。
-a congressman = 男众议员
-⑤ A congresswoman chaired the panel.
-= 一位女众议员主持了小组。
-a congresswoman = 女众议员
-⑥ Each congressperson serves a two-year term.
-= 每位众议员任期两年。
-a congressperson = 众议员（不分性别的说法）
-跟这一条的两个带性别的词并列，是为避开性别指称造的；复数说 congresspeople。
-构词：拉丁语 congressus 会到一起
-注意用法：指美国国会时大写、不加冠词。
-
-congruent
-核心：两支。一是几何上的全等：两个图形形状大小完全
-一样，能重合；二是引申的相符一致，介词用 with。
-名词 congruence。
-① The triangles are congruent.
-= 那两个三角形全等。
-congruent = 全等的
-② His actions are congruent with his words.
-= 他做的跟说的对得上。
-congruent with = 与……相符
-③ There is little congruence between them.
-= 两者之间没多少一致。
-congruence = 一致、契合
-构词：拉丁语 congruere 相合
-注意语域：几何义是术语，引申义偏正式。
-
-conic
-核心：几何术语：圆锥的。最常见的搭配是 conic section
-——用平面切圆锥得到的曲线，圆、椭圆、抛物线、双曲线
-都算。日常说圆锥形要用 conical。
-① Ellipses are conic sections.
-= 椭圆属于圆锥曲线。
-a conic section = 圆锥曲线
-② The book covers conic geometry.
-= 那本书讲圆锥曲线几何。
-conic = 圆锥的
-conical = 圆锥形的（日常用这个形式）
-③ The four conics are circle, ellipse, parabola and hyperbola.
-= 四种圆锥曲线是圆、椭圆、抛物线和双曲线。
-the conics = 圆锥曲线（合称）
-构词：希腊语 konos 圆锥
-注意分工：日常说圆锥形用 conical。
-
-conifer
-核心：针叶树：松、杉、柏这一类，多为常绿，结球果，
-叶子是针状或鳞片状。形容词 coniferous。可数。
-① Conifers cover the slope.
-= 山坡上长满针叶树。
-a conifer = 针叶树
-② Most conifers stay green all year.
-= 多数针叶树四季常青。
-stay green = 保持常绿
-③ They walked through coniferous forest.
-= 他们穿过针叶林。
-a coniferous forest = 针叶林
-构词：拉丁语 conus 球果 + ferre 结出
-注意用法：形容词是 coniferous。
-
-conjecture
-核心：推测：证据不足时作出的判断，名词与动词同形。
-数学里指尚未证明的猜想。跟 guess 的分工：这个词偏
-正式，含「有点依据但不确凿」的意思。
-① That is pure conjecture.
-= 那纯属推测。
-pure conjecture = 纯属推测
-② He conjectured that she had left.
-= 他推测她已经走了。
-conjecture that = 推测
-③ The conjecture remains unproved.
-= 那个猜想还没被证明。
-a conjecture = 数学猜想
-④ The dating is largely conjectural.
-= 那个断代主要靠推测。
-conjectural = 推测性的
-构词：拉丁语 conicere 投到一起、推断
-注意分工：比 guess 正式，含「有点依据」。
-
-conjoined
-核心：连在一起的，正式词。今天最常见的搭配是 conjoined
-twins：身体相连的双胞胎，这是取代旧称的规范说法。
-① The conjoined twins were separated.
-= 那对连体双胞胎做了分离手术。
-conjoined twins = 连体双胞胎
-② The two halves are conjoined.
-= 那两半是连在一起的。
-be conjoined = 连接在一起
-conjoin = 使连接（动词，偏旧）
-③ The bones were conjoined at birth.
-= 那些骨头是出生时就连在一起的。
-be conjoined at birth = 出生时就连在一起
-④ They filed a conjoint application.
-= 他们提交了联名申请。
-conjoint = 联合的、共同的
-conjointly = 联合地
-conjoint 偏法律与学术，日常说 joint。
-构词：con- 共 + join 连接
-注意语域：正式词，是连体双胞胎的规范说法。
-
-conjugal
-核心：夫妻之间的：正式与法律用词，最常见的两个搭配是
-conjugal rights 夫妻权利与 conjugal visit 狱中的夫妻
-探视。
-① The law once enforced conjugal rights.
-= 法律从前强制执行夫妻权利。
-conjugal rights = 夫妻权利
-② He was allowed a conjugal visit.
-= 他获准了一次夫妻探视。
-a conjugal visit = 狱中夫妻探视
-③ They shared a conjugal home.
-= 他们共有一个婚姻住所。
-a conjugal home = 婚姻住所
-构词：拉丁语 conjugalis，出自「共负一轭」
-注意语域：正式与法律用词。
-
-conjugate
-核心：两支。一是语法上把动词按人称时态变形，整套变位
-叫 conjugation；二是化学与生物学里指结合的、共轭的。
-学外语时天天要用的是语法那一支。
-① Conjugate the verb in the past tense.
-= 把那个动词按过去时变位。
-conjugate a verb = 给动词变位
-② Latin conjugation takes practice.
-= 拉丁语的动词变位得多练。
-conjugation = 动词变位
-③ The molecule has a conjugate base.
-= 那个分子有个共轭碱。
-a conjugate base = 共轭碱
-构词：拉丁语 conjugare 结合到一起
-注意用法：语法那一支最常用。
-
-conjunction
-核心：三支。一是语法上的连词；二是固定说法 in
-conjunction with，意思是与……配合着；三是天文学上
-两星在天球上靠到一起。可数。
-① And is a conjunction.
-= 那个词是个连词。
-a conjunction = 连词
-② Use it in conjunction with the manual.
-= 配合说明书一起用。
-in conjunction with = 与……配合着
-③ A conjunction of Venus and Jupiter is due.
-= 金星木星要合相了。
-a conjunction = 合相
-④ Those three words are all coordinating conjunctions.
-= 那三个词都是并列连词。
-a coordinating conjunction = 并列连词；a subordinating conjunction = 从属连词
-前者连接地位对等的两部分，后者引出从句 —— 语法书里成对出现。
-构词：拉丁语 conjungere 连到一起
-注意搭配：第二支是高频固定说法。
-
-conjunctivitis
-核心：结膜炎：眼白外面那层结膜发炎，眼睛发红发痒流泪。
-那层膜叫 conjunctiva，这个病美式俗称 pink eye。不可数。
-① She caught conjunctivitis at school.
-= 她在学校得了结膜炎。
-conjunctivitis = 结膜炎
-② The conjunctiva was inflamed.
-= 结膜发炎了。
-the conjunctiva = 结膜
-③ Viral conjunctivitis clears on its own.
-= 病毒性结膜炎会自己好。
-viral conjunctivitis = 病毒性结膜炎
-pink eye = 红眼病（美式对同一个病的俗称）
-构词：conjunctiva 结膜 + -itis 炎症
-注意用法：不可数。
-
-conjure
-核心：三支。一是变戏法：凭空变出东西；二是 conjure
-up：让画面或回忆浮现出来，也指凭空凑出某样东西；
-三是旧义的召唤鬼神。变戏法的人叫 conjuror。
-① He conjured a coin from her ear.
-= 他从她耳朵后变出一枚硬币。
-conjure = 变出
-② The smell conjures up my childhood.
-= 那味道让我想起童年。
-conjure up = 使浮现、勾起
-③ She conjured a meal out of leftovers.
-= 她拿剩菜凑出了一顿饭。
-conjure out of = 用……凑出
-④ The conjuror pulled out a dove.
-= 魔术师变出一只鸽子。
-a conjuror = 魔术师
-conjurer = 魔术师（另一种拼法）
-⑤ He learned a few conjuring tricks.
-= 他学了几手戏法。
-a conjuring trick = 戏法
-⑥ She conjured a meal from what was left in the fridge.
-= 她拿冰箱里剩下的东西凑出了一顿饭。
-conjure from = 用……凑出、变出来
-跟这一条的 conjure out of 同义，介词换成 from 也通，宾语放在中间。
-构词：拉丁语 conjurare 一同起誓、施咒
-注意搭配：最常用的是 conjure up。
-
-conk
-核心：口语，几支。一是 conk out：机器抛锚，也说人累趴
-下或一头睡死过去；二是英式俚语指鼻子；三是照头上敲
-一下。可数。
-① The car conked out on the hill.
-= 车在坡上抛锚了。
-conk out = 抛锚；累趴下
-② He has a big conk.
-= 他鼻子挺大。
-a conk = 鼻子（英式俚语）
-③ She conked him on the head.
-= 她敲了他脑袋一下。
-conk somebody = 敲某人一下
-构词：拟声，敲击的响动
-注意语域：口语与俚语。
-
-conker
-核心：英式的马栗子：七叶树的果实。英国孩子把它穿上绳
-互相对敲，谁的先碎谁输，这个游戏叫 conkers。可数。
-① He collected conkers in the park.
-= 他在公园里捡马栗子。
-a conker = 马栗子
-② They played conkers after school.
-= 他们放学后玩敲栗子。
-play conkers = 玩敲栗子游戏
-③ He drilled a hole through the conker.
-= 他在马栗子上钻了个眼儿穿绳。
-drill a hole through a conker = 在马栗子上钻眼穿绳
-a horse chestnut = 七叶树（结这种果的树）
-构词：可能来自表示征服的那个词，比谁的能敲碎谁的
-注意语域：英式，跟童年游戏连在一起。
-
-conman
-核心：骗子：靠先取得你的信任再下手的那种，跟硬抢的不是
-一路。也写作 con man，复数 conmen。
-① The conman took her savings.
-= 那个骗子卷走了她的积蓄。
-a conman = 骗子
-② Conmen work on trust, not force.
-= 骗子靠的是取信，不是硬来。
-work on trust = 靠取得信任下手
-③ He posed as a surveyor, a classic conman trick.
-= 他冒充测量员，是骗子的老套路。
-a conman trick = 骗子的伎俩
-构词：由「信任骗局」那个词组截短，再加 man
-注意拼写：也写作 con man，复数 conmen。
-
-connect
-核心：几支。一是接上、连上：设备、线路、地方；二是把
-两件事联系起来，介词用 with；三是交通上的衔接，
-a connecting flight 是转接航班；四是口语里说人聊得来、
-有共鸣。
-① Connect the printer to the laptop.
-= 把打印机接到笔记本上。
-connect to = 连接到
-② Police connected him with the theft.
-= 警方把他跟那起盗窃联系了起来。
-connect somebody with = 把某人与……联系起来
-③ We missed the connecting flight.
-= 我们没赶上转接航班。
-a connecting flight = 转接航班
-④ She connects with an audience.
-= 她跟观众很有共鸣。
-connect with somebody = 跟某人合得来
-⑤ The line went dead before we connected.
-= 还没接通线就断了。
-connect = 接通
-⑥ He connected up the speakers.
-= 他把音箱都接上了。
-connect up = 把几样东西接起来
-up 强调接齐、接完，英式口语里常这么说。
-⑦ The book is about our sense of connectedness.
-= 那本书讲的是人与人相连的那种感觉。
-connectedness = 相连的状态、彼此关联的感觉
-偏学术与心理学用词；日常多说 feeling connected。
-构词：拉丁语 con- 共 + nectere 系
-注意搭配：说联系两件事用 with。
-
-connection
-核心：几支。一是连接与接口；二是关联，in connection
-with 是与……有关；三是交通上的接驳班次；四是复数指
-人脉。形容词 connective，connective tissue 是结缔组织；
-connectivity 是网络连通性；接头叫 connector。
-① The connection keeps dropping.
-= 网老是掉线。
-a connection = 连接
-connexion = 连接（英式旧拼法，今天基本不用）
-② He was arrested in connection with the fire.
-= 他因那场火灾被捕。
-in connection with = 与……有关
-③ We missed our connection.
-= 我们没赶上换乘的那班。
-miss a connection = 没赶上接驳班次
-④ She has connections in government.
-= 她在政府里有人脉。
-connections = 人脉
-⑤ Scar tissue is connective tissue.
-= 疤痕组织属于结缔组织。
-connective tissue = 结缔组织
-⑥ Rural connectivity is poor.
-= 乡下的网络连通性差。
-connectivity = 连通性
-⑦ The connector snapped off.
-= 那个接头断了。
-a connector = 接头
-构词：connect 连接 + -ion
-注意拼写：英式旧拼法今天基本不用了。
-
-conniption
-核心：美式口语：一阵暴怒发作。常说 have a conniption 或
-conniption fit，多带夸张玩笑的意味。可数。
-① Dad had a conniption when he saw the bill.
-= 老爸看到账单当场就炸了。
-have a conniption = 大发雷霆（美式口语）
-② She threw a conniption fit over the seating.
-= 她为座位安排闹了一场。
-a conniption fit = 一场发作
-③ Warn him first or there will be conniptions.
-= 先跟他打个招呼，不然要闹翻天。
-there will be conniptions = 要闹翻天
-构词：十九世纪美国造的词，来路不明
-注意语域：美式口语，多带玩笑。
-
-connive
-核心：两支，靠介词分。一是纵容：明知不对却装看不见，
-用 at；二是合谋：跟人串通着搞小动作，用 with。名词
-connivance。贬义，含「明知故纵」。
-① Officials connived at the fraud.
-= 官员对那桩舞弊睁只眼闭只眼。
-connive at = 纵容、装看不见
-② He connived with the supplier.
-= 他跟供货商串通。
-connive with = 与……串通
-③ It happened with their connivance.
-= 那事是在他们默许下发生的。
-with somebody's connivance = 在某人默许下
-④ She is a conniving little schemer.
-= 她是个爱使坏心眼的小算计精。
-conniving = 爱使坏心眼的
-构词：拉丁语 connivere 闭上眼
-注意语气：贬义，含明知故纵。
-
-connoisseur
-核心：行家、鉴赏家：在艺术、美食、美酒这类靠品味吃饭
-的领域里眼光老到的人，介词用 of。跟 expert 的分工：
-expert 靠知识，这个词靠品味。可数。
-① She is a connoisseur of wine.
-= 她是位品酒行家。
-a connoisseur of = ……的鉴赏家
-② The film is one for connoisseurs.
-= 那部片子是给内行看的。
-for connoisseurs = 给内行看的
-③ He has a connoisseur's eye.
-= 他有行家的眼力。
-a connoisseur's eye = 行家眼力
-构词：古法语 conoisseur 识货的人
-注意分工：expert 靠知识，这个词靠品味。
-
-connotation
-核心：言外之意：一个词字面意思之外附带的感情色彩，
-跟字面义 denotation 相对。动词 connote 是「含有……的
-意味」。可数。
-① The word has negative connotations.
-= 那个词带贬义色彩。
-negative connotations = 贬义的言外之意
-② Cheap connotes poor quality.
-= 那个词让人联想到质量差。
-connote = 含有……的意味
-③ Avoid words with unwanted connotations.
-= 避开那些带着不想要的言外之意的词。
-unwanted connotations = 不想要的言外之意
-构词：con- 附带 + note 标记
-注意分工：字面义是 denotation，附带的色彩是这个词。
-
-connubial
-核心：婚姻的、夫妻的：跟 conjugal 同义而更带文学腔，
-多见于旧小说与打趣的文字，connubial bliss 是新婚的
-甜蜜，常带调侃。
-① They settled into connubial bliss.
-= 他们过上了甜蜜的夫妻日子。
-connubial bliss = 婚姻的甜蜜
-② The connubial bed stood by the window.
-= 那张夫妻床摆在窗边。
-the connubial bed = 夫妻床
-③ The novel mocks connubial routine.
-= 那部小说拿夫妻日常的琐碎打趣。
-connubial routine = 夫妻日常的琐碎
-构词：拉丁语 connubium 婚姻
-注意语域：正式带文学腔，常用来打趣。
-
-conquer
-核心：三支。一是征服：武力占领国土或民族；二是战胜
-困难与情绪；三是攻克高峰。人叫 conqueror。三支都及物。
-① The Normans conquered England.
-= 诺曼人征服了英格兰。
-conquer = 征服
-② She conquered her fear of flying.
-= 她克服了怕坐飞机。
-conquer a fear = 克服恐惧
-③ They conquered the north face.
-= 他们攻克了北壁。
-conquer a peak = 攻克山峰
-④ The conqueror rewrote the laws.
-= 那位征服者重写了法律。
-a conqueror = 征服者
-构词：拉丁语 conquirere 全力求取
-注意用法：三支都及物。
-
-conquest
-核心：三支。一是征服这件事，也指被征服的地方；二是
-攻克难关；三是口语里说追到手的人，带轻佻意味。可数
-不可数都行。
-① The Norman Conquest changed the language.
-= 诺曼征服改变了这门语言。
-the Norman Conquest = 诺曼征服
-② The conquest of space took decades.
-= 征服太空花了几十年。
-the conquest of = 对……的征服
-③ He boasted of his conquests.
-= 他吹嘘自己的风流账。
-a conquest = 追到手的人（轻佻用法）
-构词：拉丁语 conquirere 全力求取
-注意语气：第三支带轻佻意味。
-
-conquistador
-核心：十六世纪征服美洲的西班牙征服者：科尔特斯、皮萨罗
-那一批人。历史用词。复数写 conquistadors 也写
-conquistadores。可数。
-① The conquistadors landed in 1519.
-= 那批征服者一五一九年登陆。
-a conquistador = 西班牙征服者
-② Local guides led the conquistadors inland.
-= 当地向导把那批征服者带进了内陆。
-lead the conquistadors = 给征服者带路
-构词：西班牙语 conquistador 征服者
-注意语域：历史用词。
-
-consanguinity
-核心：血亲关系：同一祖先传下来的血缘，法律与人类学里
-讲近亲婚配限制时用。形容词 consanguineous。不可数，
-正式词。
-① The law bars marriage within degrees of consanguinity.
-= 法律禁止一定血亲范围内通婚。
-consanguinity = 血亲关系
-② Consanguineous marriage is common there.
-= 那里近亲通婚很常见。
-consanguineous = 有血亲关系的
-③ Close consanguinity raises genetic risk.
-= 血缘太近会提高遗传风险。
-close consanguinity = 近亲血缘
-构词：拉丁语 con- 共 + sanguis 血
-注意语域：法律与人类学的正式词。
-
-conscience
-核心：良心：判断是非、让人心里不安的那个内在声音。
-常见搭配：a clear conscience 问心无愧、a guilty
-conscience 心里有鬼、a matter of conscience 关乎良心
-的事、a prisoner of conscience 良心犯。可数不可数都行。
-① My conscience is clear.
-= 我问心无愧。
-a clear conscience = 问心无愧
-② He has a guilty conscience.
-= 他心里有鬼。
-a guilty conscience = 心里有鬼
-③ It is a matter of conscience.
-= 那是关乎良心的事。
-a matter of conscience = 关乎良心的事
-④ She was a prisoner of conscience.
-= 她是名良心犯。
-a prisoner of conscience = 良心犯
-⑤ He returned the money, conscience-stricken.
-= 他良心不安，把钱还了回去。
-conscience-stricken = 良心不安的、内疚的
-偏书面；后半截那个成分意思是「被击中」，还能跟别的情绪名词搭成一族。
-构词：拉丁语 conscientia 心里知道
-注意别混：跟表示「清醒、意识到」的那个近形词是两码事。
-
-conscientious
-核心：认真负责的：做事仔细、对得起自己良心，褒义。
-另有个固定说法 conscientious objector：出于良心拒服
-兵役的人。副词 conscientiously。
-① She is a conscientious worker.
-= 她干活很认真负责。
-conscientious = 认真负责的
-② He registered as a conscientious objector.
-= 他登记为良心拒服兵役者。
-a conscientious objector = 良心拒服兵役者
-③ The notes were kept conscientiously.
-= 那些记录记得一丝不苟。
-conscientiously = 一丝不苟地
-④ Her conscientiousness made her indispensable.
-= 她做事认真，成了少不了的人。
-conscientiousness = 认真负责的品性
-心理学讲的五大人格特质，其中一项用的就是这个词。
-构词：conscience 良心 + -ous
-注意读音：中间那个音节读成 shi 的音。
-
-conscientize
-核心：使觉醒：让人认识到自己处境里的不公，并起而改变。
-出自巴西教育家弗莱雷的理论，名词 conscientization。
-教育与社会学用词，也拼 conscientise。及物。
-① The programme aims to conscientize young workers.
-= 那个项目要让年轻工人觉醒。
-conscientize = 使认识到不公并起而改变
-② Literacy classes conscientized the villagers.
-= 识字班让村民有了觉悟。
-be conscientized = 被唤起觉悟
-③ Conscientization is the goal, not just literacy.
-= 目标是觉悟，不只是识字。
-conscientization = 觉悟化
-构词：conscience 良知 + -ize
-注意语域：教育与社会学用词。
-
-conscious
-核心：三支。一是清醒的：没昏过去；二是意识到的，介词
-用 of；三是有意为之的。名词 consciousness 一是意识，
-二是知觉，lose consciousness 是失去知觉。
-① He was still conscious.
-= 他人还清醒着。
-conscious = 清醒的
-② She is conscious of the risk.
-= 她清楚那个风险。
-be conscious of = 意识到
-③ It was a conscious decision.
-= 那是想清楚了才做的决定。
-a conscious decision = 有意为之的决定
-④ He lost consciousness.
-= 他失去了知觉。
-lose consciousness = 失去知觉
-⑤ Class consciousness shaped the movement.
-= 阶级意识塑造了那场运动。
-consciousness = 意识
-⑥ She consciously avoided the subject.
-= 她有意避开了那个话题。
-consciously = 有意识地、有意地
-强调是自己知道并选择这么做的；反面是 unconsciously。
-构词：拉丁语 conscius 心里知道
-注意搭配：说意识到用 of。
-
-conscript
-核心：征兵：强制征召入伍。名词重音在前，指被征召的兵；
-动词重音在后，多用被动。名词 conscription 是征兵制，
-跟自愿入伍相对。
-① He was conscripted at eighteen.
-= 他十八岁被征了兵。
-be conscripted = 被征召入伍
-② Most of them were conscripts.
-= 他们大多是应征兵。
-a conscript = 应征入伍的兵
-③ Conscription ended in 1960.
-= 征兵制一九六〇年取消了。
-conscription = 征兵制
-构词：拉丁语 conscribere 登记入册
-注意读音：名词重音在前，动词重音在后。
-
-consecrate
-核心：三支。一是祝圣：把教堂或圣餐的饼酒祝为神圣；
-二是授圣职；三是引申的把一生奉献给某事。名词
-consecration。及物。
-① The church was consecrated in 1890.
-= 那座教堂一八九〇年祝的圣。
-be consecrated = 被祝圣
-② He was consecrated bishop.
-= 他被祝圣为主教。
-consecrate somebody bishop = 祝圣某人为主教
-③ She consecrated her life to nursing.
-= 她把一生献给了护理。
-consecrate one's life to = 把一生献给
-④ The consecration took two hours.
-= 祝圣礼进行了两个钟头。
-a consecration = 祝圣礼
-构词：拉丁语 consecrare 使成圣
-注意语域：宗教用词，第三支是引申。
-
-consecutive
-核心：连续的：一个接一个、中间不断，说天数、场次、
-名次。副词 consecutively。跟 successive 近义，这个词
-更强调不间断。
-① It rained for five consecutive days.
-= 一连下了五天雨。
-consecutive days = 连续几天
-② She won three consecutive titles.
-= 她连拿三届冠军。
-consecutive titles = 连续几届冠军
-③ Number the pages consecutively.
-= 页码连着编。
-consecutively = 连续地
-④ He served two consecutive sentences.
-= 他那两段刑期是接连服的。
-consecutive sentences = 接连服的刑期
-法律里跟它相对的是同时服刑，那才是刑期叠着算。
-⑤ Interpreters offer consecutive interpreting.
-= 译员提供交替传译。
-consecutive interpreting = 交替传译
-说话人停一段、译员译一段，跟同声传译分开。
-构词：拉丁语 consequi 紧跟其后
-注意分工：跟 successive 近义，这个词更强调不间断。
-
-consensus
-核心：共识：一群人大致都能接受的意见——不必人人举手，
-但没人强烈反对。形容词 consensual 一是协商一致的，
-二是法律上「双方自愿的」。不可数。
-① They reached a consensus.
-= 他们达成了共识。
-reach a consensus = 达成共识
-② The decision was taken by consensus.
-= 那个决定是协商一致作出的。
-by consensus = 以协商一致的方式
-③ The consensus is that it will pass.
-= 大家的看法是那会通过。
-the consensus is that = 普遍看法是
-④ The act was consensual.
-= 那是双方自愿的。
-consensual = 双方自愿的
-构词：拉丁语 consensus 一致同意
-注意搭配：最常用的是 reach a consensus。
-
-consent
-核心：同意、准许：正式地点头，动词介词用 to。法律与
-医学里是关键词：informed consent 知情同意、age of
-consent 法定承诺年龄。习语 by common consent 是公认地。
-名词不可数。
-① She consented to the operation.
-= 她同意了手术。
-consent to = 同意
-② Written consent is required.
-= 需要书面同意。
-written consent = 书面同意
-③ Doctors must obtain informed consent.
-= 医生须取得知情同意。
-informed consent = 知情同意
-④ By common consent he was the best.
-= 公认他是最好的。
-by common consent = 公认地
-构词：拉丁语 consentire 一同感觉
-注意搭配：动词用 to。
-
-consequence
-核心：两支。一是后果：某事带来的结果，多指不好的那种；
-二是重要性，只活在 of no consequence 这类说法里。可数。
-① He must take the consequences.
-= 他得承担后果。
-take the consequences = 承担后果
-② Prices rose as a consequence of the strike.
-= 罢工的结果是物价上涨。
-as a consequence of = 由于……的结果
-③ The delay had serious consequences.
-= 那次延误后果严重。
-serious consequences = 严重后果
-④ It is of no consequence.
-= 那不打紧。
-of no consequence = 无关紧要
-构词：拉丁语 consequi 随之而来
-注意语气：说后果时多指不好的那种。
-
-consequent
-核心：随之而来的：跟在某件事后头发生、由它引起，介词
-用 on 或 upon。副词 consequently 是「因此」，比形容词
-常用得多。正式词。
-① The flood and consequent damage were huge.
-= 洪水以及随之而来的损失都很大。
-consequent = 随之而来的
-② Costs rose consequent upon the delay.
-= 成本因那次延误而上涨。
-consequent upon = 由……引起的
-③ He missed the train and consequently the meeting.
-= 他误了车，因此也误了会。
-consequently = 因此
-构词：consequence 后果 + -ent
-注意用法：副词比形容词常用得多。
