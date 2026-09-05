@@ -66,17 +66,17 @@ alley-oop = 空中接力扣篮（篮球）
 alliance
 核心：指国家、组织、政党之间为共同目标结成的"联盟"。
 介词用 with（和谁结盟）或 between（谁和谁之间）。
-① They formed an alliance.
-= 他们结成了联盟。
+① They formed an alliance in the spring and dissolved it by Christmas.
+= 他们春天结盟，圣诞前就散伙了。
 form an alliance = 结盟
-② It's an alliance with France.
-= 那是与法国的同盟。
+② It's an alliance with France and has never been put in writing.
+= 这是与法国的同盟，从没落到纸面上。
 an alliance with = 与…结盟
-③ The alliance between the two parties broke down.
-= 两党之间的联盟破裂了。
+③ The alliance between the two parties broke down over a single seat.
+= 两党之间的联盟为一个席位就破裂了。
 an alliance between = …之间的联盟
-④ NATO is a military alliance.
-= 北约是个军事同盟。
+④ NATO is a military alliance and has argued about money since 1949.
+= 北约是军事同盟，从一九四九年起就一直为钱争吵。
 military alliance = 军事同盟
 词族：
 ally = 盟友；结盟
@@ -160,16 +160,14 @@ leek = 韭葱
 allocate
 核心：指按计划"分配"资源、时间、资金、名额。介词用 to（分给谁）
 或 for（用于什么）。比 give 正式，强调"有计划地划拨"。
-① Funds were allocated to schools.
-= 资金拨给了学校。
+① Funds were allocated to schools and each team is allocated one room.
+= 经费拨给了各学校，每个小组分到一间屋子。
 allocate to = 分配给
-② They allocated time for questions.
-= 他们留出了提问时间。
+② They allocated time for questions and the questions took twice that.
+= 他们留出了提问时间，提问用掉的是它的两倍。
 allocate for = 划出用于
-③ Each team is allocated a room.
-= 每个组分到一间房。
-④ Resources must be allocated fairly.
-= 资源必须公平分配。
+③ Resources must be allocated fairly, according to a policy nobody has read.
+= 资源必须公平分配——照一份没人读过的政策说。
 allocate resources = 分配资源
 词族：
 allocation = 分配

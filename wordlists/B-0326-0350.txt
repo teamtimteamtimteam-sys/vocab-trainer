@@ -443,19 +443,10 @@ obese = 肥胖的（指人，医学）
 adjacent
 核心：指"紧挨着的、相邻的"，比 near 精确——一定是直接挨着。
 介词用 to。几何上指"邻边、邻角"。
-① They live in adjacent houses.
-= 他们住在相邻的房子里。
-② The office is adjacent to the lift.
-= 那间办公室紧挨电梯。
+① The office is adjacent to the lift and hears every conversation in it.
+= 办公室紧挨电梯，里面说什么都听得见。
 adjacent to = 与…相邻
-③ Adjacent angles share a side.
-= 邻角共用一条边。
-④ Park in the adjacent lot.
-= 停在旁边那个停车场。
-常用搭配：
 adjacent room = 隔壁房间
 adjacent property = 毗邻地产
-近义对照：
-adjacent 紧邻（直接挨着）
-nearby 附近（不一定挨着）
-next to 旁边（口语）
+② Adjacent angles share a side and always add up to a straight line.
+= 邻角共用一条边，加起来总是一条直线。
