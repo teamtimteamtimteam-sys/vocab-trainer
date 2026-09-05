@@ -282,28 +282,28 @@ ancestor
 排在家族前头的是"祖先"，排在物种前头的是演化上的"共同祖先"，
 排在一件东西前头的是它的"前身"。跟 descendant 正好一头一尾。
 形容词 ancestral 多用来说祖宅、祖坟这类跟先人有关的东西。
-① Her ancestors came from Ireland.
-= 她的祖先来自爱尔兰。
+① Her ancestors came from Ireland and the family has never been back.
+= 她的祖先来自爱尔兰，这家人再没回去过。
 家族义，多用复数。
 反义词：
 ancestor 祖先 / descendant 后代
-② We share a common ancestor.
-= 我们有共同的祖先。
+② We share a common ancestor about four hundred generations back.
+= 我们大约四百代以前有个共同祖先。
 common ancestor = 共同祖先
 演化生物学里的固定说法。
-③ This machine is the ancestor of the PC.
-= 这台机器是个人电脑的前身。
+③ This machine is the ancestor of the PC and filled an entire room.
+= 这台机器是个人电脑的前身，占满了一整间屋子。
 the ancestor of = 某物的前身
 物也能有"走在前面的那一台"。
-④ They returned to the ancestral home.
-= 他们回到了祖宅。
+④ They returned to the ancestral home and found it had been sold.
+= 他们回到祖宅，发现已经被卖掉了。
 ancestral home = 祖宅
 ancestral = 祖先的、祖传的
-⑤ She traced her ancestry to Wales.
-= 她把家系一直追到了威尔士。
+⑤ She traced her ancestry to Wales and stopped when the records ran out.
+= 她把家系追溯到威尔士，档案断了才停下。
 ancestry = 血统、家系（总称，不可数）
-⑥ Ancestor worship is central to the ritual.
-= 祖先崇拜是那套仪式的核心。
+⑥ Ancestor worship is central to the ritual and older than the temple.
+= 祖先崇拜是这套仪式的核心，比这座庙还古老。
 ancestor worship = 祖先崇拜
 
 ancestral
@@ -398,15 +398,13 @@ anchovy → anchovies
 ancient
 核心：指"古代的"，通常指几千年前的文明和时代。用于人或物时是
 夸张的口语用法，指"老掉牙的"。和 old 的差别是时间尺度大得多。
-① They studied ancient Greece.
-= 他们研究古希腊。
-② It's an ancient custom.
-= 那是个古老的习俗。
+① It's an ancient custom and nobody can say what it was ever for.
+= 这是个古老的习俗，谁也说不出它当初是为了什么。
 常用搭配：
 ancient civilisation = 古文明
 ancient history = 古代史；老黄历
-③ My laptop is ancient.
-= 我的笔记本老掉牙了。
+② My laptop is ancient and takes about nine minutes to start up.
+= 我的笔记本老掉牙了，开机要九分钟左右。
 口语夸张用法。
 词族：
 antiquity = 古代、古物
@@ -414,14 +412,14 @@ antiquity = 古代、古物
 ancient 古代的（几千年）
 old 旧的、老的（通用）
 antique 古董的（有收藏价值）
-④ Ancient lights protect a window's daylight.
-= 采光权保护一扇窗既有的日照。
+③ Ancient lights protect a window's daylight against a neighbour's building.
+= 采光权保护窗户的日照，不受邻居建楼的侵害。
 ancient lights = 采光权（英国法，长期享有的采光）
-⑤ The abbey is a scheduled ancient monument.
-= 那座修道院是登录在册的古迹。
+④ The abbey is a scheduled ancient monument and cannot be altered at all.
+= 这座修道院是登录在册的古迹，一点都不能改动。
 ancient monument = 受法律保护的古迹
-⑥ The custom was anciently observed.
-= 那个习俗古时就有人守。
+⑤ The custom was anciently observed and dropped within one generation.
+= 这个习俗古时一直遵行，一代人之内就废了。
 anciently = 古时候（正式）
 
 ancillary

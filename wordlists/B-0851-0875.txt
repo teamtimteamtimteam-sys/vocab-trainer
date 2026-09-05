@@ -225,12 +225,10 @@ stablecoin = 稳定币（锚定法币）
 alter
 核心：指做局部改动而不换掉整体，衣服改尺寸、计划改细节都用它。
 和 change 的关键差别：change 可以是整个换掉，alter 只是改一改。
-① I need to alter this dress.
-= 我得改一下这条裙子。
-② Nothing has altered.
-= 什么都没变。
-③ The plan was slightly altered.
-= 那个计划稍作了修改。
+① I need to alter this dress before the wedding on Saturday.
+= 周六的婚礼之前，我得把这条裙子改一改。
+② The plan was slightly altered and the cost went up by a third.
+= 计划稍作改动，成本涨了三分之一。
 常用搭配：
 alter course = 改变航向
 alter beyond recognition = 改得认不出
@@ -241,14 +239,14 @@ unaltered = 未经改动的
 alter 局部修改（原物还在）
 change 改变、更换（可能换掉）
 注意别混：alter 修改 / altar 祭坛
-④ Online he adopts an alter ego.
-= 在网上他有另一个身份。
+③ Online he adopts an alter ego that is nothing like him at all.
+= 他在网上用另一个身份，跟本人毫无相似之处。
 alter ego = 第二自我、另一个身份
-⑤ The contract is not alterable.
-= 那份合同不可更改。
+④ The contract is not alterable once both parties have signed it.
+= 双方签字之后，合同就不能更改了。
 alterable = 可更改的
-⑥ The alternation of wet and dry seasons shapes the land.
-= 干湿季交替塑造了这片土地。
+⑤ The alternation of wet and dry seasons shapes the land more than any river.
+= 干湿季的交替对这片土地的塑造，胜过任何一条河。
 alternation = 交替、轮换
 
 alteration
@@ -406,29 +404,26 @@ although
 中文说"虽然……但是……"，英文里 although 和 but 只能留一个，
 两个一起用是硬错。第二层用法容易被忽略：although 也能放在句子
 后半，补出一个相反的说明，这时更接近"不过、只是"。
-① Although it rained, we went out.
-= 虽然下雨，我们还是出去了。
+① Although it rained, we went out and walked the whole eleven miles.
+= 虽然下雨，我们还是出门走完了整整十一英里。
 放句首引出让步。
 注意：不说
 Although it rained, but we went out.
-② She came, although she was tired.
-= 她来了，尽管她很累。
+② She came, although she was tired enough to fall asleep at the table.
+= 她来了，虽然累得能趴在桌上睡着。
 放句中，让步的分量一样。
-③ I'll come, although I may be late.
-= 我会来，不过可能会迟到。
-放在后半补一句相反的说明，接近"不过"。
-④ He agreed, although reluctantly.
-= 他同意了，虽然不情愿。
+③ He agreed, although reluctantly, and made his objection in writing.
+= 他同意了，虽然很不情愿，还把反对意见写成了书面材料。
 后面可以只跟一个副词，不必是完整从句。
-⑤ Although young, she is very capable.
-= 她虽然年轻，却很能干。
+④ Although young, she is very capable and runs the whole department.
+= 她虽然年轻，却很能干，整个部门都归她管。
 从句主语与主句相同时可以省略主语和系动词。
 词义对照：
 although = 虽然（稍正式，句首或句中）
 though = 虽然（较口语，还可放句末）
 even though = 即便（语气最强）
-⑥ It was hard work. I enjoyed it, though.
-= 活儿很累，不过我干得挺高兴。
+⑤ It was hard work. I enjoyed it, though, and would do it again.
+= 活很累。不过我挺喜欢的，还愿意再做一次。
 though 能放句末，although 不能——这是两者唯一的硬区别。
 
 altimeter
