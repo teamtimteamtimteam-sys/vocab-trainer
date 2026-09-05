@@ -9,27 +9,30 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-05 深夜·审计后） ═══
-B 词表 5580 条，最末词条 czar。
-**c 段并没有收完** —— 审计查出一处系统性多剔，见下面「下一步」第 1 条。
-a 段 100%（2768/2768）。
-b 段 98%（3074/3123）—— 这个数字同样虚高，250 条大写词头没判过。
-c 段 94%（4681/4928），缺 247 条 = 大写待写 124 + 待推迟 123。
-d 段 0%（12/3041）。
-交付文件 B-merged-0001-5000.txt + B-merged-5001-5580.txt。归档区 0 条。
+═══ 现状（2026-09-05 深夜·审计并补完之后） ═══
+B 词表 5817 条，最末词条 Czech（大写词条排在小写同形词之后）。
+**a、b、c 三段都收完了**，剩下的全是待推迟：
+  a 段 100%（2768/2768）
+  b 段 98%（3193/3237），余 44 条全待推迟
+  c 段 97%（4805/4928），余 123 条全待推迟
+  d 段 0%（12/3041）
+b 段 117 条、c 段 128 条大写词条已全部写出（那次审计发现 keep 名单只有
+a 段一段，两段被整批静默剔掉）。
+交付文件 B-merged-0001-5000.txt + B-merged-5001-5817.txt。归档区 0 条。
 
-═══ 下一步 ═══
-1. **写 c 段那 124 个首字母大写的词条**（keep 名单已补判，coverage 会列出来）。
-   `python3 scripts/coverage.py c` 末行会报「其中首字母大写 N 条，需要收」。
-   包括 Christmas 一整族、Celsius、Catch-22、Cheddar、C-section、
-   Chinese whispers、Catholicism、Cyrillic 与全部国族形容词。
-2. **补判 b 段那 250 条大写词头**，照 reference/proper-nouns-keep.txt 里
-   a 段的分组与判据做（Bible、British、Braille、Buddhism、Bolshevik、
-   Boolean、Bunsen burner、Bermuda shorts 这些明显该收）。判完再写。
-3. 上面两条做完，c 段与 b 段才算真收完，然后才进 d 段。
-4. 开 d 段之前：先扫整份清单剔国别变体与专名，**并且先把 d 段的大写词头
-   一并判进 keep 名单** —— 别再让它整段被静默剔掉。
-5. 再往 audit-idioms.py 的 CHECK 里补 d 段大词的习语清单，然后才动笔。
+═══ 下一步：开 d 段 ═══
+1. **动笔前先做三件事，缺一不可**：
+   ① 扫一遍 d 的整份清单，一次性剔干净国别变体与专名（见收词裁定）；
+   ② **把 d 段的大写词头逐条判进 reference/proper-nouns-keep.txt** ——
+      这一条是新加的，理由见下面「查出的两件事」第一条。不做的话
+      d 段的覆盖率从第一天起就是假的；
+   ③ 往 audit-idioms.py 的 CHECK 里补 d 段大词的习语清单。
+2. 然后才动笔。每批 10 条上下，多义词多的批次少写几条，
+   写完跑八道闸门再写下一批。
+3. d 段的大词至少有 do、draw、drive、drop、down、day、deal、die、dig、
+   dish、double、dress、drink，其中 do 要独占一批。
+4. b 与 c 的待推迟不必回头看 —— 后面的字母段收到内容词，coverage 会
+   自己把它们从待推迟挪到待并入。
 
 ═══ 这次审计查出的两件事（别再犯）═══
 【一】proper-nouns-keep.txt 长期只有 a 段一段
@@ -46,9 +49,10 @@ keep 名单**，否则那一段的覆盖率从一开始就是假的。
 ——写的人凑不出自然例句，就改写成谈论这个词本身。**遇到这三类词，
 先问「能不能造出一个真的用它的句子」；造不出就少写一个义项，别改写成元评论。**
 
-═══ 每批必跑的七道闸门 ═══
+═══ 每批必跑的八道闸门 ═══
 check-wordlist.py → coverage.py <段> → audit-depth.py <段>
-→ audit-swallowed.py → audit-padding.py → audit-ab.py → audit-idioms.py
+→ audit-swallowed.py → audit-padding.py（内含【例句里没有词】一项）
+→ audit-ab.py → audit-idioms.py → audit-prefix.py <段>
 其中五道在 .githooks/pre-commit 里，会真的拦提交。
 · 往已有词条补义项用 scripts/add-sense.py（它会拒绝重复例句），补完跑 renumber.py。
 · 分批文件改过之后要跑 merge-wordlist.py 重新生成合并交付文件，

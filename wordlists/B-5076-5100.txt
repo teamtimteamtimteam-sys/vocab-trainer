@@ -1,485 +1,543 @@
-condition
-核心：几支。一是状态；二是条件，on condition that 是以
-……为条件；三是复数指环境情形；四是慢性病。动词一是使
-习惯于、训练成，二是护发护肤。名词 conditioning 指那种
-一点点养成的条件反射。
-① The car is in good condition.
-= 那辆车状况良好。
-in good condition = 状况良好
-② I will go on condition that you drive.
-= 你开车我才去。
-on condition that = 以……为条件
-③ Working conditions improved.
-= 工作条件改善了。
-working conditions = 工作条件
-④ She has a heart condition.
-= 她有心脏病。
-a condition = 慢性病
-⑤ Advertising conditions us to want more.
-= 广告把我们训练得想要更多。
-condition somebody to = 使某人习惯于
-⑥ Conditioning starts in childhood.
-= 那种养成从小就开始了。
-conditioning = 条件反射式的养成
-构词：拉丁语 condicio 约定
-注意搭配：条件那一支常用 on condition that。
+computation
+核心：计算：算这件事，也指算出来的结果与过程。比
+calculation 正式，计算机科学里 the theory of computation
+指可计算性那一整套理论。可数不可数都行。
+① The computation took hours.
+= 那次计算花了几个钟头。
+computation = 计算
+② Their computations were wrong.
+= 他们那几步算错了。
+a computation = 一次计算
+③ The theory of computation is a whole field.
+= 可计算性理论自成一个领域。
+the theory of computation = 可计算性理论
+④ The model needs enormous computational power.
+= 那个模型需要巨大的运算能力。
+computational = 运算的、计算方法上的
+加在学科名前面很能产，一整批交叉学科的名字都是这么造出来的。
+构词：拉丁语 computare 算
+注意语域：比 calculation 正式。
 
-conditional
-核心：有条件的：得先满足某个前提才算数，介词用 on 或
-upon。语法里指条件句与条件语气。副词 conditionally。
-带否定前缀的反义形式是「无条件的」。
-① The offer is conditional.
-= 那个报价是有条件的。
-conditional = 有条件的
-② Approval is conditional on funding.
-= 批准以拿到经费为前提。
-conditional on = 以……为条件
-③ He got a conditional discharge.
-= 他获得了附条件释放。
-a conditional discharge = 附条件释放
-④ She was released conditionally.
-= 她是附条件获释的。
-conditionally = 有条件地
-构词：condition 条件 + -al
-注意搭配：介词用 on 或 upon。
+compute
+核心：计算，正式词，多用在有公式可循的场合，日常说
+work out。口语习语 does not compute 是「说不通」，从
+早期科幻里的机器口吻来的。动名词 computing 指计算机
+这一行，也指用电脑做事这件事。
+① The system computes the tax automatically.
+= 系统自动算税。
+compute = 计算
+② Compute the average of the two.
+= 把那两个数的平均值算出来。
+compute the average = 算平均数
+③ That story does not compute.
+= 那套说法讲不通。
+does not compute = 说不通
+④ She studied computing at university.
+= 她大学学的是计算机。
+computing = 计算机这一行
+⑤ The risk is not easily computable.
+= 那个风险不容易算得出来。
+computable = 可计算的、算得出来的
+正式词；数学与计算机理论里另有专门含义，指存在算法可求。
+构词：拉丁语 computare 一同算
+注意语域：正式词，日常说 work out。
 
-conditioner
-核心：两支。一是护发素：洗完头抹的那种；二是使某样东西
-保持某种状态的东西，fabric conditioner 是衣物柔顺剂，
-soil conditioner 是土壤改良剂。可数不可数都行。
-① Use conditioner after shampoo.
-= 洗完头用护发素。
-conditioner = 护发素
-② She buys fabric conditioner.
-= 她买衣物柔顺剂。
-fabric conditioner = 衣物柔顺剂
-③ The soil conditioner improves drainage.
-= 那种土壤改良剂能改善排水。
-a soil conditioner = 土壤改良剂
-构词：condition 使处于某状态 + -er
-注意用法：具体指什么，全看前面的限定词。
+computer
+核心：电脑。这个词本来指做计算的人——早年天文台与弹道
+计算室里成排的女计算员就叫这个，机器接手之后名字才归给
+机器。动词 computerize 是把某项工作改用电脑做，名词
+computerization。可数。
+① The computer crashed again.
+= 电脑又死机了。
+a computer = 电脑
+② She works in computer science.
+= 她做计算机科学。
+computer science = 计算机科学
+③ Human computers checked the trajectories.
+= 当年是人工计算员核算弹道。
+a human computer = 人工计算员（旧义）
+④ The records were computerized in 1990.
+= 那些档案一九九〇年改成电脑存了。
+computerize = 使电脑化
+⑤ Computerization cut the staff in half.
+= 电脑化把人手裁掉了一半。
+computerization = 电脑化
+⑥ He spends every evening on computer games.
+= 他每天晚上都在打电脑游戏。
+a computer game = 电脑游戏
+今天泛称多说 video game，这个词特指在电脑上玩的那一类。
+⑦ The course starts with basic computer literacy.
+= 那门课从基本的电脑操作能力开始。
+computer literacy = 会用电脑的能力；computer-literate = 会用电脑的
+literacy 本义是识字，这里借来说「会用」，是一种很能产的借法。
+⑧ She trained as a computer scientist.
+= 她学的是计算机科学。
+a computer scientist = 计算机科学家
+跟这一条的 computer science 成对，指做研究的人，不是写代码的程序员。
+构词：compute 计算 + -er
+注意来历：这个词本来指做计算的人，后来才归给机器。
 
-condo
-核心：美式口语，指产权归各户所有、公共部分共管的公寓，
-也指其中的一套。全写是 condominium。可数。
-① They bought a condo in Miami.
-= 他们在迈阿密买了套公寓。
-a condo = 产权公寓
-② The condo board sets the rules.
-= 公寓业主委员会定规矩。
-a condo board = 公寓业主委员会
-③ Condo fees cover maintenance.
-= 物业费包了维护。
-condo fees = 公寓物业费
-构词：condominium 的口语截短
-注意语域：美式口语。
+comrade
+核心：两支。一是共患难的同伴，尤指战友；二是共产党与
+社会主义运动里的称呼「同志」，今天在英语里用起来多带
+调侃。名词 comradeship 指那份同伴情谊。可数。
+① They were comrades in the war.
+= 他们是战场上的伙伴。
+a comrade = 战友
+② He greeted them as comrades in arms.
+= 他把他们当并肩作战的同伴。
+a comrade in arms = 并肩作战的伙伴
+③ Party members addressed each other as comrade.
+= 党员之间互称同志。
+comrade = 同志（称呼）
+④ She missed the comradeship of the crew.
+= 她想念船上那份同伴情。
+comradeship = 同伴情谊
+⑤ He gave me a comradely slap on the back.
+= 他像战友一样拍了我一下背。
+comradely = 有同伴情谊的、亲如战友的
+偏书面，多修饰 spirit、gesture；跟这一条的 comradeship 成对。
+构词：西班牙语 camarada 同住一室的人
+注意语域：第二支在今天的英语里多带调侃。
 
-condolence
-核心：吊唁、慰问：对丧亲的人表示哀悼，多用复数，
-offer one's condolences 是致以哀悼。动词 condole 偏旧，
-介词用 with。
-① She offered her condolences.
-= 她致以哀悼。
-offer one's condolences = 致以哀悼
-② A letter of condolence arrived.
-= 来了封唁函。
-a letter of condolence = 唁函
-③ He condoled with the family.
-= 他向家属表示了哀悼。
-condole with = 向……致哀
-构词：拉丁语 con- 共 + dolere 悲痛
-注意用法：名词多用复数，动词偏旧。
+con
+核心：四支来路各不相同，只是碰巧同形。一是骗：a con 是
+骗局，行骗的人叫 a con artist；二是监狱俚语里的囚犯，
+刑满出来的叫 an ex-con；三是 pros and cons 里的反面理由；
+四根本不是英语词，是乐谱上意大利语的 con「带着」，
+底下一族表情记号（con brio 等）都由它带出。前三支可数。
+① He conned her out of her savings.
+= 他把她的积蓄骗走了。
+con somebody out of = 骗走某人的……
+② The whole thing was a con.
+= 那整件事是个骗局。
+a con = 骗局
+③ Watch out for con artists.
+= 当心行骗的人。
+a con artist = 骗子
+④ An ex-con opened the door.
+= 开门的是个刑满释放的人。
+an ex-con = 刑满释放的人
+⑤ Weigh the pros and cons.
+= 权衡利弊。
+pros and cons = 正反两面的理由
+⑥ The score says con brio.
+= 谱上写着「有生气地」。
+con brio = 有生气地、活泼地（音乐术语）
+下面这一族是意大利语的 con「带着」，跟前面三支毫无关系，只是拼法碰巧相同：
+con amore = 深情地
+con moto = 有动感地、稍快地
+con sordino = 加弱音器地
+构词：骗那一支由「信任骗局」那个词组截短而来；反面理由那一支来自拉丁语表示「反对」的词
+注意用法：四支来路各不相同，不要当成同一个词的引申。
 
-condom
-核心：避孕套：性交时用的乳胶套，既避孕也防性病。可数。
-① Condoms are free at the clinic.
-= 诊所免费发避孕套。
-a condom = 避孕套
-② Always use a condom.
-= 一定要戴套。
-use a condom = 用避孕套
-③ Condom use rose sharply.
-= 避孕套的使用大幅上升。
-condom use = 避孕套的使用
-构词：来路不明，十八世纪才见于文献
-注意用法：可数。
+conation
+核心：心理学把心理活动分成三块：认知 cognition、情感 affect、
+意动 conation。意动指想要去做、去争取的那一面。形容词
+conative。不可数，学术词。
+① Psychologists split the mind into cognition, affect and conation.
+= 心理学把心理分成认知、情感与意动三块。
+conation = 意动（想要去做的那一面）
+② Conation covers wanting, striving and willing.
+= 意动涵盖想要、争取与意志。
+conation covers = 意动涵盖……
+③ The conative side of learning is often ignored.
+= 学习里意动的那一面常被忽略。
+the conative side = 意动的那一面
+构词：拉丁语 conari 尝试
+注意语域：心理学术语。
 
-condominium
-核心：两支。一是美式的产权公寓：整栋楼各户各有产权、
-公共部分共管，口语短说成 condo；二是国际法上的共管地：
-由两个或多个国家共同治理的地区。可数。
-① The condominium has ninety units.
-= 那栋产权公寓有九十套。
-a condominium = 产权公寓
-② Sudan was once a condominium.
-= 苏丹曾是共管地。
-a condominium = 共管地
-③ The islands were governed as a condominium.
-= 那几个岛是按共管地治理的。
-govern as a condominium = 按共管地治理
-构词：拉丁语 con- 共 + dominium 所有权
-注意用法：美式口语里短说成 condo。
+concatenate
+核心：把几段东西一个接一个连成一串，编程里最常用：把
+两个字符串拼起来。名词 concatenation，也用来说一连串
+接连发生的事。正式词，及物。
+① The function concatenates two strings.
+= 那个函数把两个字符串拼起来。
+concatenate = 串接
+② Concatenate the columns into one field.
+= 把那几列拼成一个字段。
+concatenate into = 拼接成
+③ A concatenation of errors caused it.
+= 一连串错误造成了那件事。
+a concatenation of = 一连串接连发生的……
+构词：拉丁语 catena 锁链，本义是把链子接起来
+注意语域：正式词，编程里高频。
 
-condone
-核心：容忍、宽纵：对错事睁只眼闭只眼，等于默许。它本身
-不含「自己去做」的意思。常用否定式。及物，正式词。
-① The school does not condone bullying.
-= 学校不纵容欺凌。
-condone = 容忍纵容
-② Silence can condone abuse.
-= 沉默等于默许虐待。
-condone = 默许
-③ Explaining is not condoning.
-= 解释不等于纵容。
-explaining is not condoning = 解释不等于纵容
-构词：拉丁语 condonare 宽免
-注意用法：常用否定式；解释某事不等于纵容它。
+concave
+核心：凹的：表面像碗内壁那样往里弯。光学与几何里常用，
+名词 concavity。凸的那一边是另一个词。
+① The mirror is concave.
+= 那面镜子是凹的。
+concave = 凹的
+② A concave lens spreads the light.
+= 凹透镜把光发散开。
+a concave lens = 凹透镜
+③ The concavity holds water.
+= 那个凹处能存水。
+concavity = 凹处；凹度
+构词：拉丁语 concavus 中空的
+注意别混：凹是这个词，凸的那个词以另一个音节开头。
 
-condor
-核心：大秃鹫：南美与加州的大型猛禽，翼展是全世界最宽的
-几种之一，靠吃腐肉过活。可数。
-① The condor circled overhead.
-= 秃鹫在头顶盘旋。
-a condor = 大秃鹫
-② California condors were nearly extinct.
-= 加州秃鹫险些灭绝。
-nearly extinct = 险些灭绝
-③ Condors feed on carrion.
-= 秃鹫靠吃腐肉过活。
-condors feed on carrion = 秃鹫吃腐肉
-构词：克丘亚语 kuntur
-注意用法：可数。
+conceal
+核心：藏起来、不让人知道：藏东西也藏事实与感情，比
+hide 正式。介词用 from。名词 concealment，法律里
+a concealed weapon 是暗藏的武器。及物。
+① She concealed the letter.
+= 她把那封信藏了。
+conceal = 藏起
+② He concealed his disappointment.
+= 他把失望掩住了。
+conceal one's feelings = 掩饰情绪
+③ Nothing was concealed from her.
+= 什么都没瞒着她。
+conceal from = 对……隐瞒
+④ He carried a concealed weapon.
+= 他身上藏着武器。
+a concealed weapon = 暗藏的武器
+⑤ Concealment of assets is an offence.
+= 隐匿资产是违法的。
+concealment = 隐匿
+⑥ She dabbed concealer under her eyes.
+= 她在眼下点了遮瑕膏。
+concealer = 遮瑕膏
+化妆品名，用的就是这个动词「遮起来」的本义。
+构词：拉丁语 concelare 全部盖住
+注意语域：比 hide 正式。
 
-conducive
-核心：有助于的：能促成某种结果。介词只用 to，后面跟名词
-或动名词，不跟不定式——这是最常错的一点。动词 conduce
-偏旧，意思相同。
-① Noise is not conducive to sleep.
-= 吵闹不利于睡眠。
-conducive to = 有助于
-② The room is conducive to study.
-= 那屋子适合看书。
-be conducive to = 适合、有利于
-③ Such habits conduce to long life.
-= 那类习惯有益长寿。
-conduce to = 有益于
-构词：拉丁语 conducere 引向
-注意搭配：介词只用 to，后面跟名词或动名词。
+concede
+核心：三支。一是承认：不情愿地认了某个说法；二是认输：
+比赛或选举里承认输了；三是让出、丢掉：球赛里丢球就用
+这个词。及物。
+① He conceded that he was wrong.
+= 他承认自己错了。
+concede that = 承认
+② She conceded the election.
+= 她承认败选了。
+concede an election = 承认败选
+③ They conceded two goals.
+= 他们丢了两个球。
+concede a goal = 丢一个球
+④ The company conceded nothing.
+= 那家公司一步没让。
+concede = 让步
+构词：拉丁语 concedere 让开
+注意用法：承认那一支多带不情愿的意味。
 
-conduct
-核心：几支，重音分工清楚。名词重音在前：一是行为举止，
-code of conduct 是行为准则；二是处理经营的方式。动词
-重音在后：进行开展、指挥乐队、导电导热，以及 conduct
-oneself 举止行事。
-① His conduct was unacceptable.
-= 他的行为不可接受。
-conduct = 行为举止
-② Staff follow a code of conduct.
-= 员工遵守行为准则。
-a code of conduct = 行为准则
-③ They conducted a survey.
-= 他们做了次调查。
-conduct a survey = 开展调查
-④ She conducted the orchestra.
-= 她指挥了那支乐团。
-conduct an orchestra = 指挥乐团
-⑤ Copper conducts heat well.
-= 铜导热好。
-conduct heat = 导热
-⑥ He conducted himself with dignity.
-= 他举止得体。
-conduct oneself = 举止行事
-⑦ Copper has high electrical conductivity.
-= 铜的导电率很高。
-conductivity = 传导率（导电或导热的能力）
-物理量，跟这一条的导热义同一支；反面是 resistivity。
-⑧ The conductress punched our tickets.
-= 女售票员给我们剪了票。
-a conductress = 女售票员（旧称）；a conductor = 售票员、乘务员；也指乐团指挥
-早年公交车上的女售票员才这么叫，今天不分性别一律用后一个词。
-构词：拉丁语 conducere 引领
-注意读音：名词重音在前，动词重音在后。
+conceit
+核心：两支离得很远。一是自负：觉得自己了不起，贬义，
+形容词 conceited；二是文学术语：牵强而巧妙的比喻，
+玄学派诗歌里那种。可数不可数都行。
+① His conceit is unbearable.
+= 他那份自负让人受不了。
+conceit = 自负
+② She is vain and conceited.
+= 她又虚荣又自负。
+conceited = 自负的
+③ The poem turns on a single conceit.
+= 那首诗全靠一个奇喻撑着。
+a conceit = 奇特的比喻
+④ He smiled conceitedly.
+= 他自负地笑了笑。
+conceitedly = 自负地
+是 conceited 的副词，用得不多，多改说带自满神气地做某事。
+构词：conceive 构想 的旧名词形式
+注意分工：日常义是自负，文学义是奇喻。
 
-conduction
-核心：传导：热或电顺着物体本身往前传，跟对流 convection
-与辐射 radiation 并列为三种传热方式。形容词 conductive
-是导电导热的，名词 conductance 是电导，也就是电阻的
-倒数。物理用词。
-① Heat moves by conduction.
-= 热靠传导走。
-conduction = 传导
-② Metal is highly conductive.
-= 金属导电性很强。
-conductive = 导电导热的
-③ Conductance is the inverse of resistance.
-= 电导是电阻的倒数。
-conductance = 电导
-构词：conduct 传导 + -ion
-注意分工：传导、对流、辐射是三种不同的传热方式。
+conceivable
+核心：想得到的、有可能的：常跟 every 和最高级连用，
+every conceivable 是能想到的每一种。副词 conceivably
+是「说不定」。
+① It is just conceivable that he forgot.
+= 他忘了这事也不是不可能。
+it is conceivable that = ……也不是不可能
+② They tried every conceivable angle.
+= 能想到的路子他们都试了。
+every conceivable = 能想到的每一种
+③ She could conceivably win.
+= 她说不定真能赢。
+conceivably = 说不定
+构词：conceive 想到 + -able
+注意搭配：常跟 every 与最高级连用。
 
-conductor
-核心：三支。一是乐队指挥；二是英式公交上的售票员，
-美式指列车员；三是导体：导电导热的材料，不导电的那种
-叫 insulator。可数。
-① The conductor raised her baton.
-= 指挥举起了指挥棒。
-a conductor = 乐队指挥
-② The conductor punched our tickets.
-= 售票员给我们剪了票。
-a conductor = 售票员、列车员
-③ Copper is a good conductor.
-= 铜是良导体。
-a conductor = 导体
-构词：conduct 引领、传导 + -or
-注意用法：三支全靠上下文分辨。
+conceive
+核心：两支。一是构想出来：想出主意、拟出计划，常用被动
+be conceived as；二是怀上孩子。conceive of 是「设想」，
+多用于否定句。
+① She conceived the idea in prison.
+= 那个主意是她在狱中想出来的。
+conceive an idea = 想出主意
+② The project was conceived as a stopgap.
+= 那个项目当初是当权宜之计设计的。
+be conceived as = 当初设想为
+③ I cannot conceive of living there.
+= 我没法设想住在那里。
+conceive of = 设想
+④ She conceived at forty.
+= 她四十岁怀上的。
+conceive = 怀孕
+构词：拉丁语 concipere 拿住、孕育
+注意搭配：设想那支带 of，多用于否定句。
 
-conduit
-核心：两支。一是管道、线管：埋在地下或墙里走水走电线的
-那种；二是引申的「渠道」：消息、资金、影响力经由某人或
-某机构流过去。可数。
-① Cables run through a conduit.
-= 电缆走在线管里。
-a conduit = 导管、线管
-② The charity became a conduit for aid.
-= 那家慈善机构成了援助的渠道。
-a conduit for = ……的渠道
-③ He was a conduit between the two sides.
-= 他是两边之间的传话通道。
-a conduit between = ……之间的通道
-构词：拉丁语 conducere 引导
-注意读音：英美读法不同，两种都通行。
+concentrate
+核心：三支。一是集中注意力，不及物，介词用 on；二是把
+力量或资源集中到一处，及物；三是浓缩，名词也指浓缩液。
+形容词 concentrated 是浓缩的、也说火力集中的；名词
+concentration 一是专注，二是浓度。
+① I cannot concentrate.
+= 我没法集中精神。
+concentrate = 集中注意力
+② Concentrate on the main point.
+= 把注意力放在要点上。
+concentrate on = 专注于
+③ They concentrated their forces.
+= 他们把兵力集中了。
+concentrate forces = 集中兵力
+④ Add water to the concentrate.
+= 往浓缩液里兑水。
+a concentrate = 浓缩液
+⑤ Use concentrated orange juice.
+= 用浓缩橙汁。
+concentrated = 浓缩的
+⑥ It takes concentration.
+= 那要靠专注。
+concentration = 专注
+⑦ The concentration of salt rose.
+= 盐的浓度上去了。
+concentration = 浓度
+构词：拉丁语 con- 共 + centrum 中心
+注意搭配：说专注用 on。
 
-cone
-核心：几支共用一个「尖顶圆底」的形状。一是圆锥体；
-二是甜筒的脆皮蛋卷；三是松柏的球果；四是路面上的锥形
-交通桶；五是视网膜上的视锥细胞。形容词 conical。
-① Work out the volume of the cone.
-= 算出那个圆锥的体积。
-a cone = 圆锥体
-② She bought an ice cream cone.
-= 她买了个甜筒。
-an ice cream cone = 甜筒
-③ Pine cones littered the path.
-= 小路上落满了松果。
-a pine cone = 松果
-④ Traffic cones blocked the lane.
-= 锥形桶把那条车道挡了。
-a traffic cone = 锥形交通桶
-⑤ Cones detect colour.
-= 视锥细胞辨色。
-a cone = 视锥细胞
-⑥ The roof is conical.
-= 那个屋顶是圆锥形的。
-conical = 圆锥形的
-⑦ They coned off the outside lane.
-= 他们用锥形桶把外侧车道封了。
-cone off = 用锥形桶把路段隔开封闭
-英式说法，路政通告与交通新闻里常见；用的就是这一条的锥形交通桶。
-构词：希腊语 konos 松果、圆锥
-注意用法：五支共用一个尖顶圆底的形状。
+concentric
+核心：同心的：几个圆或几层结构共用一个圆心，
+concentric circles 是同心圆。副词 concentrically。
+① Draw two concentric circles.
+= 画两个同心圆。
+concentric circles = 同心圆
+② The castle has concentric walls.
+= 那座城堡的城墙是一圈套一圈的。
+concentric = 同心的
+③ Ripples spread out concentrically.
+= 涟漪一圈圈同心散开。
+concentrically = 同心地
+构词：con- 共 + centre 中心
+注意来历：几何上「不同心」那个词，就是「古怪」一词的本义来路。
 
-coney
-核心：兔子的旧称。今天主要留在毛皮行当里指兔皮，以及
-地名里。圣经译本里还用它指岩狸。偏旧，可数。
-① Coney fur trimmed the collar.
-= 领子上镶了兔毛。
-coney fur = 兔毛皮
-② Old bibles use coney for the rock hyrax.
-= 旧版圣经用这个词指岩狸。
-coney = 岩狸（旧版圣经里的用法）
-cony = 同一个词的另一种拼法
-构词：古法语 conin 兔
-注意语域：偏旧，今天多见于毛皮行当。
+concept
+核心：概念：一个成形的想法，比 idea 更成体系。商业与
+设计里还指构想：a concept car 是概念车，餐厅换套做法
+也说换了个 concept。可数。
+① The concept is simple.
+= 那个概念很简单。
+a concept = 概念
+② She grasped the concept quickly.
+= 她很快抓住了那个概念。
+grasp a concept = 抓住概念
+③ They unveiled a concept car.
+= 他们发布了一款概念车。
+a concept car = 概念车
+④ The restaurant has a new concept.
+= 那家餐厅换了套经营构想。
+a concept = 经营构想
+⑤ They have no concept of risk.
+= 他们对风险毫无概念。
+have no concept of = 对……毫无概念
+构词：拉丁语 conceptum 所构想之物
+注意分工：比 idea 更成体系。
 
-confab
-核心：口语的短形式，指随意的闲谈、碰头聊两句。动词
-confabulate 是它的正式原形；医学上另有专义：因记忆
-缺损而无意地编造细节来填空。可数。
-① They had a quick confab.
-= 他们碰头聊了两句。
-a confab = 碰头闲聊
-② The pair confabbed in the corridor.
-= 那两人在走廊上嘀咕。
-confab = 闲谈
-③ Patients may confabulate after injury.
-= 病人受伤后可能会无意编造细节。
-confabulate = 因记忆缺损而编造细节
-confabulation = 记忆性虚构
-构词：拉丁语 confabulari 一同讲话
-注意分工：口语义是闲聊，医学义是记忆性虚构。
+conception
+核心：三支，跟动词的两支一一对应。一是构想、认识：
+have no conception of 是对某事毫无概念；二是构思成形
+的那一刻；三是受孕。可数不可数都行。
+① He has no conception of the cost.
+= 他对那笔花费毫无概念。
+have no conception of = 对……毫无概念
+② The plan was flawed from conception.
+= 那个方案打构想之初就有毛病。
+from conception = 从构想之初
+③ Conception occurs in the tube.
+= 受孕发生在输卵管里。
+conception = 受孕
+构词：conceive 构想、怀孕 + -tion
+注意用法：跟动词的两支一一对应。
 
-confection
-核心：两支。一是精致的甜点糖果：做工讲究的那种；二是
-引申地说任何做得花哨精巧的东西，说裙子说电影都行，略带
-调侃。做的人叫 confectioner，卖的东西统称 confectionery。
-可数。
-① The cake is a fine confection.
-= 那个蛋糕做得极精致。
-a confection = 精致甜点
-② Her dress was a confection of silk and lace.
-= 她那条裙子是丝绸蕾丝堆出来的花哨玩意。
-a confection of = 由……堆砌出的花哨东西
-③ The confectioner ices them by hand.
-= 糖果师傅一个个手工上糖霜。
-a confectioner = 糖果糕点师
-④ The shop sells confectionery.
-= 那家店卖糖果糕点。
-confectionery = 糖果糕点（总称）
-构词：拉丁语 conficere 做成
-注意语气：第二支略带调侃。
+conceptual
+核心：概念上的：属于想法与框架这一层，跟具体实施相对。
+艺术里 conceptual art 是观念艺术。副词 conceptually，
+动词 conceptualize 是把想法理出个框架来。
+① The problem is conceptual, not technical.
+= 那是概念上的问题，不是技术问题。
+conceptual = 概念上的
+② She works in conceptual art.
+= 她做观念艺术。
+conceptual art = 观念艺术
+③ Conceptually the two are the same.
+= 从概念上说那两个是一回事。
+conceptually = 在概念层面上
+④ He conceptualized the whole system.
+= 整套系统的框架是他理出来的。
+conceptualize = 把想法理成框架
+⑤ Conceptualism holds that the idea matters more than the object.
+= 观念主义主张想法比作品本身重要。
+conceptualism = 观念主义；a conceptualist = 观念主义者
+艺术上指这一条的观念艺术那一派；哲学上另指关于共相的一种立场。
+构词：concept 概念 + -ual
+注意语域：偏学术与设计行业。
 
-confederacy
-核心：邦联：几个州或几个团体为共同目的结成的松散联盟；
-大写时特指美国内战中的南方邦联。confederate 既是形容词
-也是名词，指同盟的、同盟者，还可指同谋；confederation
-是同义的正式说法，多用在国名与组织名里。可数。
-① They formed a loose confederacy.
-= 他们结成了松散的邦联。
-a confederacy = 邦联
-② The Confederacy lost the war.
-= 南方邦联输了那场战争。
-the Confederacy = 美国南方邦联
-③ His confederate waited outside.
-= 他的同伙在外头等着。
-a confederate = 同伙、同盟者
-④ The Swiss Confederation dates from 1291.
-= 瑞士邦联始于一二九一年。
-a confederation = 邦联
-构词：拉丁语 confoederare 结盟
-注意用法：大写时特指美国南方邦联。
+concern
+核心：几支。名词一是担心、关切；二是该管的事；三是公司
+企业，a going concern 是仍在运营的生意。动词一是与……
+有关，二是使担心。形容词 concerned 放名词前是担心的，
+放名词后是相关的。介词 concerning 是关于。
+① There is growing concern about safety.
+= 对安全的担心在增加。
+concern about = 对……的担心
+② That is not my concern.
+= 那不归我管。
+one's concern = 某人该管的事
+③ The firm is a going concern.
+= 那家公司还在正常运营。
+a going concern = 正常运营的生意
+④ The report concerns the flood.
+= 那份报告讲的是那场洪水。
+concern = 与……有关
+⑤ His silence concerns me.
+= 他不吭声让我担心。
+concern somebody = 使某人担心
+⑥ Concerned parents packed the hall.
+= 忧心忡忡的家长挤满了大厅。
+concerned = 担心的
+⑦ Inform all the people concerned.
+= 通知所有相关的人。
+the people concerned = 相关的人
+⑧ We had a letter concerning the rent.
+= 我们收到一封关于租金的信。
+concerning = 关于
+⑨ Parents are concerned about the delay.
+= 家长对那次延误感到担心。
+be concerned about = 对……担心
+构词：拉丁语 concernere 关涉
+注意用法：concerned 放名词前是担心，放名词后是相关。
 
-confer
-核心：两支。一是授予：正式地把学位、荣誉或权利给某人，
-介词用 on 或 upon；二是商议：几个人凑一起商量，介词用
-with。名词 conference 是会议，动名词 conferencing 指
-开电话会或视频会这件事。
-① The university conferred a degree on her.
-= 那所大学授予了她学位。
-confer something on somebody = 把……授予某人
-② Citizenship confers certain rights.
-= 公民身份带来若干权利。
-confer rights = 赋予权利
-③ She conferred with her lawyer.
-= 她跟律师商量了。
-confer with = 与……商议
-④ The conference runs three days.
-= 那个会开三天。
-a conference = 会议
-⑤ Video conferencing saves travel.
-= 视频会议省去了出差。
-video conferencing = 视频会议
-⑥ The conferment of degrees takes place in July.
-= 学位授予仪式在七月举行。
-conferment = 授予（学位、荣誉、权利）
-正式词，多用于学位与勋衔；美式也说 conferral。
-构词：拉丁语 conferre 拿到一起
-注意搭配：授予用 on，商议用 with。
+concert
+核心：名词是音乐会。另有一支书面义「协同」：in concert
+with 是与……联手。形容词 concerted 是齐心协力的，
+a concerted effort 是一番合力。可数。
+① They went to a concert.
+= 他们去听音乐会了。
+a concert = 音乐会
+② The band played a concert hall.
+= 那支乐队在音乐厅演出。
+a concert hall = 音乐厅
+③ They acted in concert with the union.
+= 他们跟工会一致行动。
+in concert with = 与……联手
+④ It took a concerted effort.
+= 那是一番合力才办成的。
+a concerted effort = 齐心协力的努力
+⑤ The concert band rehearses on Thursdays.
+= 那支管乐团周四排练。
+a concert band = 音乐会管乐团（管乐加打击乐，没有弦乐）
+跟边走边奏的军乐队分别在于坐着演奏、曲目也更正式。
+⑥ The hall has a nine-foot concert grand.
+= 那个厅里有台九尺演奏会三角钢琴。
+a concert grand = 音乐会用的大型三角钢琴
+三角钢琴里最大的一号，是为大厅的音量做的。
+⑦ They put on a concert party for the troops.
+= 他们给部队办了场巡演。
+a concert party = 巡回演出的歌舞杂演班子
+英式旧词，多指两次大战期间去部队慰问演出的那种班子。
+⑧ The programme opened with a sinfonia concertante.
+= 节目以一首协奏交响曲开场。
+concertante = 带独奏声部的（乐曲）
+音乐术语，从意大利语来；那个体裁是几件独奏乐器加一支乐队。
+⑨ Concertgoers filled the aisles.
+= 听音乐会的人把过道都占满了。
+a concertgoer = 常听音乐会的人；a concertmaster = 乐队首席（第一小提琴手）
+第二个是美式说法，英式管这个位置叫 leader。
+构词：意大利语 concerto 协同演奏
+注意语域：协同那一支偏书面。
 
-confess
-核心：坦白、承认：把自己做的错事或藏着的心思说出来，
-介词用 to。宗教里是向神父告解。名词 confession；
-confessional 是告解室，也作形容词指自剖式的写作；
-听告解的神父叫 confessor。
-① He confessed to the theft.
-= 他承认了盗窃。
-confess to = 承认做了某事
-② She confessed that she was afraid.
-= 她坦白说自己怕。
-confess that = 坦白说
-③ He made a full confession.
-= 他全招了。
-make a confession = 招供
-④ She stepped into the confessional.
-= 她走进了告解室。
-a confessional = 告解室
-⑤ The poems are confessional.
-= 那些诗是自剖式的。
-confessional = 自剖式的
-⑥ He told his confessor everything.
-= 他把一切都告诉了听告解的神父。
-a confessor = 听告解的神父
-构词：拉丁语 confiteri 承认
-注意搭配：介词用 to，不用 about。
+concertina
+核心：手风琴的一种小型近亲：六角形，两手往外拉，按钮
+比键盘那种少。动词是像它那样被压扁折成一叠，多用在说
+撞车。可数。
+① He played the concertina.
+= 他拉六角手风琴。
+a concertina = 六角手风琴
+② The carriages concertinaed on impact.
+= 撞击时车厢挤成了一叠。
+concertina = 压扁折叠成一叠
+③ Concertina wire tops the fence.
+= 围栏上盘着刀片铁丝。
+concertina wire = 盘状刀片铁丝网
+构词：concert 音乐会 + 意大利语式的后缀
+注意用法：动词义多用在讲撞车的句子里。
 
-confetti
-核心：五彩纸屑：婚礼与庆典上撒的小碎纸片。这个词在
-意大利语里本指婚礼上撒的糖果，传到英语后变成了纸屑。
-不可数，跟单数动词。
-① Confetti covered the steps.
-= 台阶上撒满了纸屑。
-confetti = 五彩纸屑
-② Guests threw confetti.
-= 宾客们撒起了纸屑。
-throw confetti = 撒纸屑
-③ The venue has banned confetti.
-= 那个场地禁止撒纸屑。
-ban confetti = 禁撒纸屑
-构词：意大利语 confetti 糖果
-注意用法：不可数，跟单数动词。
+concerto
+核心：协奏曲：一件独奏乐器跟乐队一起演的大型作品，
+通常三个乐章。复数写 concertos 也写 concerti。可数。
+① She recorded the violin concerto.
+= 她录了那首小提琴协奏曲。
+a violin concerto = 小提琴协奏曲
+② The concerto has three movements.
+= 那首协奏曲有三个乐章。
+a movement = 乐章
+③ He wrote five piano concertos.
+= 他写过五首钢琴协奏曲。
+a piano concerto = 钢琴协奏曲
+构词：意大利语 concerto 协同演奏
+注意复数：concertos 与 concerti 都对。
 
-confidant
-核心：知己：可以掏心窝子说话的人，尤指听你倾诉秘密的
-那一个。指女性时传统上写 confidante，两种拼法今天常
-混用。可数。
-① He was her closest confidant.
-= 他是她最贴心的知己。
-a confidant = 知己
-② She had no confidante to turn to.
-= 她连个可以倾诉的女友都没有。
-a confidante = 女性知己
-③ Every leader needs a confidant.
-= 当头儿的都得有个能说心里话的人。
-need a confidant = 需要一个知己
-构词：法语 confident 信任的人
-注意拼写：指女性时传统上写 confidante。
+concession
+核心：几支。一是让步：谈判里松的口；二是特许经营权：
+在别人场地上开店卖东西的权利，拿到的人叫
+concessionaire；三是英式的优惠票价，形容词
+concessionary。可数。
+① Neither side made a concession.
+= 两边都没让步。
+make a concession = 作出让步
+② The airport granted a concession.
+= 机场给了一份特许经营权。
+grant a concession = 授予特许经营权
+③ The concessionaire runs three outlets.
+= 那家特许经营商开了三个店。
+a concessionaire = 特许经营商
+④ Concessions apply to students.
+= 学生可享优惠票价。
+concessions = 优惠票价（英式）
+⑤ A concessionary fare is available.
+= 有优惠票价可买。
+a concessionary fare = 优惠票价
+构词：concede 让步 + -ion
+注意用法：优惠票价那一支是英式。
 
-confide
-核心：两支，靠介词分。一是吐露心事：把秘密说给信得过
-的人，内容跟 to；二是 confide in somebody：把某人当
-知己、有话跟他说。
-① She confided her fears to him.
-= 她把心里的害怕告诉了他。
-confide something to somebody = 把……吐露给某人
-② He confides in no one.
-= 他谁也不掏心窝子。
-confide in = 把……当知己倾诉
-③ They confided that they were leaving.
-= 他们私下说要走了。
-confide that = 私下说
-④ She has a confiding manner.
-= 她那副样子让人愿意跟她说心里话。
-a confiding manner = 让人愿意交心的样子
-confidingly = 掏心窝子地
-构词：拉丁语 confidere 信托
-注意搭配：吐露的内容用 to，倾诉的对象用 in。
+concessive
+核心：语法术语，表示让步的。although、even though、despite
+引出的从句叫 concessive clause，讲的是「虽然……但是」那层
+关系。
+① Although introduces a concessive clause.
+= 那个连词引出让步从句。
+a concessive clause = 让步从句
+② Concessive conjunctions link contrasting ideas.
+= 让步连词把相反的两层意思连起来。
+a concessive conjunction = 让步连词
+③ Despite has a concessive force.
+= 那个介词带让步意味。
+concessive force = 让步意味
+构词：concession 让步 + -ive
+注意语域：语法术语。
 
-confidence
-核心：三支。一是自信；二是信任，have confidence in；
-三是秘密与信任关系：in confidence 是私下说的，
-take somebody into one's confidence 是把某人当自己人。
-前两支不可数。
-① She spoke with confidence.
-= 她说话很有底气。
-with confidence = 有把握地
-② I have confidence in him.
-= 我信得过他。
-have confidence in = 信任
-③ He told me in confidence.
-= 他是私下跟我说的。
-in confidence = 私下、不外传地
-④ She took him into her confidence.
-= 她把他当成了自己人。
-take somebody into one's confidence = 把某人当心腹
-⑤ The vote was one of no confidence.
-= 那是一次不信任投票。
-a vote of no confidence = 不信任投票
-⑥ The whole scheme was a confidence trick.
-= 整套把戏就是个骗局。
-a confidence trick = 骗局（先骗取信任再下手）；a confidence trickster = 行骗的人
-英式说法，美式说 confidence game；口语的 con 与 con artist 就是从这里截短来的。
-⑦ Consumer confidence fell for a third month.
-= 消费者信心连续第三个月下滑。
-consumer confidence = 消费者信心（对经济前景的乐观程度）
-经济新闻里的固定指标，常跟 index、survey 连用。
-构词：拉丁语 confidere 信托
-注意分工：自信与信任是同一个词，看介词与上下文。
+conch
+核心：海螺：一种大型海螺的壳，吹起来能当号角，加勒比
+一带也吃它的肉。复数写 conchs 也写 conches。可数。
+① He blew the conch.
+= 他吹响了海螺号。
+blow a conch = 吹海螺号
+② Conch fritters are a local dish.
+= 海螺饼是当地的一道菜。
+a conch fritter = 海螺饼
+③ Divers bring up conch from the shallows.
+= 潜水的人从浅水里捞海螺。
+bring up conch = 捞海螺
+构词：希腊语 konche 贝壳
+注意复数：conchs 与 conches 都对。

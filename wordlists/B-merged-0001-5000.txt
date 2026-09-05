@@ -80217,6 +80217,10 @@ cast doubt on = 使人对……生疑
 ⑲ Cast your mind back to that summer.
 = 把思绪拉回那个夏天。
 cast one's mind back = 回想从前
+⑳ Do not be cast down by one refusal.
+= 别为一次拒绝就灰心。
+be cast down = 灰心、沮丧
+偏文学与旧式，多用被动；日常说 be discouraged。
 构词：古诺斯语 kasta 投掷
 注意用法：三态不变，过去式与过去分词同形。
 
@@ -81390,6 +81394,10 @@ be caught in the rain = 被雨淋着
 ③ He was caught lying.
 = 他撒谎被抓住了。
 be caught doing = 被抓到正在做某事
+④ She got caught up in the argument.
+= 她被卷进了那场争执。
+be caught up in = 被卷进、陷进（某件事）
+宾语多是纷争、丑闻、热潮这类事；也说被某件事迷住而抽不开身。
 构词：那个动词的不规则过去形式
 注意用法：过去式与过去分词同形。
 
@@ -82326,9 +82334,9 @@ Celsius
 ① Water boils at 100 degrees Celsius.
 = 水在摄氏一百度沸腾。
 degrees Celsius = 摄氏度
-② The forecast says 30°C tomorrow.
-= 预报说明天三十摄氏度。
-Celsius = 摄氏温标
+② The oven should be set to 180 Celsius.
+= 烤箱要设到一百八十摄氏度。
+set to 180 Celsius = 设到一百八十摄氏度
 构词：瑞典天文学家 Anders Celsius 的姓
 注意用法：旧称 centigrade 已基本不用，正式场合一律用这个。
 
@@ -85255,6 +85263,44 @@ chase away = 赶走
 构词：古法语 chacier 追捕，与 catch 同源
 注意用法：cut to the chase 与 chase up 都很高频。
 
+Chasid
+核心：哈西德派犹太人：十八世纪东欧兴起的一支犹太教虔敬运动的信徒，
+重神秘体验与喜乐敬拜，男性多留鬓发、着黑衣礼帽。拼法多：Hasid、
+Chassid 都是同一个词。复数 Chasidim。可数。
+① A Chasid in a black coat crossed the square.
+= 一个穿黑外套的哈西德派教徒穿过广场。
+a Chasid = 哈西德派犹太人
+② Chasidim gather for the rebbe's talk.
+= 哈西德派信徒聚起来听拉比讲话。
+Chasidim = 哈西德派教徒（复数）
+构词：希伯来语 hasid 虔敬者
+注意拼写：Hasid 与 Chassid 都是同一个词的转写。
+
+Chasidic
+核心：哈西德派的：形容那一支犹太教的做法、音乐与服饰。也拼 Hasidic。
+最常搭 a Chasidic community、Chasidic music。
+① They live in a Chasidic community.
+= 他们住在一个哈西德派社区里。
+a Chasidic community = 哈西德派社区
+② Chasidic melodies are sung without words.
+= 哈西德派的曲调不填词唱。
+Chasidic melodies = 哈西德派曲调
+构词：Chasid 加 -ic
+注意拼写：Hasidic 是更常见的写法。
+
+Chasidism
+核心：哈西德主义：那一支犹太教运动本身。主张亲近上帝不必靠深奥的
+经院学问，普通人靠虔诚与喜乐也能做到，因此在东欧穷苦犹太社群里
+传得很广。也拼 Hasidism。不可数。
+① Chasidism spread quickly in eastern Europe.
+= 哈西德主义在东欧传得很快。
+Chasidism = 哈西德主义
+② Chasidism stresses joy over learning.
+= 哈西德主义看重喜乐甚于学问。
+stress joy over learning = 看重喜乐甚于学问
+构词：Chasid 加 -ism
+注意拼写：Hasidism 是更常见的写法。
+
 chasm
 核心：深而宽的裂口：地上裂开的深谷。比喻义更常用：双方
 之间无法弥合的鸿沟。词首的 ch 读作 k。可数。
@@ -85728,6 +85774,19 @@ a cashier's check = 银行本票（美式）
 构词：波斯语 shah 王，经象棋里的将军进英语
 注意用法：核对与办手续两支最高频；支票义是美式。
 
+Cheddar
+核心：英国最常见的硬质奶酪：黄色、紧实，熟成越久越咸香带脆粒。
+得名于萨默塞特的切达村。今天世界各地都做，名字没有产地保护，
+所以在超市里它是通名。不可数。
+① Grate some Cheddar over the top.
+= 上面擦点切达奶酪。
+grate Cheddar = 擦切达奶酪碎
+② Mature Cheddar has a sharp bite.
+= 熟成久的切达味道很冲。
+mature Cheddar = 熟成久的切达
+构词：萨默塞特的村名
+注意用法：名字不受产地保护，各国都做，算通名。
+
 cheek
 核心：三支。一是脸颊。二是英式的没规矩、放肆：
 What a cheek! 是真好大的脸；形容词 cheeky 是没大没小
@@ -85908,6 +85967,43 @@ cheffy = 讲究得有点摆架子的（口语）
 a chef-d'oeuvre = 代表作、杰作
 构词：法语 chef de cuisine 厨房主管
 注意别混：cook 泛指做饭的人，这个含专业与掌勺的意味。
+
+Chelsea boot
+核心：切尔西靴：踝靴，两侧是松紧布、没有鞋带，靠后跟一个拉襻穿上。
+维多利亚时代设计出来，一九六〇年代因披头士再度流行。多用复数。
+① He wore black Chelsea boots.
+= 他穿着黑色切尔西靴。
+Chelsea boots = 切尔西靴
+② A Chelsea boot has no laces.
+= 切尔西靴没有鞋带。
+a Chelsea boot = 切尔西靴
+构词：伦敦切尔西区的地名
+注意用法：靠两侧松紧布与无鞋带这两点认。
+
+Chelsea bun
+核心：切尔西卷：加了果干与香料的甜面包，卷成螺旋、方形排在一起烤，
+表面刷糖浆。十八世纪伦敦切尔西一家面包房带起来的。可数。
+① She bought two Chelsea buns.
+= 她买了两个切尔西卷。
+a Chelsea bun = 切尔西卷
+② Chelsea buns are baked touching so they stay soft.
+= 切尔西卷挨着烤，才不会干。
+Chelsea buns = 切尔西卷（复数）
+构词：伦敦切尔西区的地名
+注意别混：跟 Bath bun 同属地名命名的英式甜面包，形状与做法不同。
+
+Chelsea tractor
+核心：英式讥语：城里人开的大型四驱越野车 —— 明明只在铺装路上接送
+孩子，却买了副能翻山越岭的样子。切尔西是伦敦的富人区。带明显嘲讽。
+可数。
+① The school run is full of Chelsea tractors.
+= 接送孩子的路上全是城里开的大越野。
+a Chelsea tractor = 城里开的大型四驱越野车（讥语）
+② He calls his own car a Chelsea tractor.
+= 他自嘲说自己那辆就是这种车。
+call something a Chelsea tractor = 讥称某车为城市大越野
+构词：伦敦富人区名加 tractor 拖拉机
+注意语域：嘲讽，英式，多见于报刊评论。
 
 chemical
 核心：形容词是化学的：a chemical reaction 化学反应，
@@ -86103,6 +86199,19 @@ cherish the hope of = 心里怀着……的希望
 构词：法语 cherir 珍爱，出自 cher 亲爱的
 注意语域：偏正式且带感情，比 value 更热。
 
+Cherokee
+核心：切罗基人：北美东南部的原住民族群，也指他们的语言。十九世纪
+被迫西迁，那条路被称作 the Trail of Tears。他们的语言有一套自创的
+音节文字。单复数同形。
+① The Cherokee were forced west in the 1830s.
+= 切罗基人在一八三〇年代被迫西迁。
+the Cherokee = 切罗基人
+② Cherokee has its own syllabary.
+= 切罗基语有一套自己的音节文字。
+Cherokee = 切罗基语
+构词：族名的英语转写
+注意用法：单复数同形，不加 s。
+
 cheroot
 核心：一种两头都切平的雪茄：不像普通雪茄那样一头收尖。
 本是南亚与东南亚的做法。可数。
@@ -86187,6 +86296,18 @@ lose flavour = 失掉香味
 fines herbes = 法式混合细香草
 构词：希腊语 khairephullon
 注意用法：法国菜里的香草，宜生用。
+
+Cheshire cheese
+核心：英国最古老的奶酪之一：微咸、质地松散易碎，比切达更酥。产自
+柴郡。跟同名的柴郡猫毫无关系，那是《爱丽丝》里的角色。不可数。
+① Cheshire cheese crumbles in the hand.
+= 柴郡奶酪一捏就散。
+Cheshire cheese = 柴郡奶酪
+② He prefers Cheshire cheese to Cheddar.
+= 比起切达他更喜欢柴郡奶酪。
+prefer A to B = 比起乙更喜欢甲
+构词：柴郡的郡名
+注意别混：跟《爱丽丝》里那只咧嘴笑的猫没有关系。
 
 chess
 核心：国际象棋：黑白各十六枚棋子，目标是把对方的王将死。
@@ -86318,6 +86439,18 @@ chewy = 有嚼劲的
 构词：古英语 ceowan 嚼
 注意用法：chew over 与 chew out 两个说法都常读到。
 
+Cheyenne
+核心：夏延人：北美大平原的原住民族群，也指他们的语言。历史上以
+骑马作战出名，跟阿拉帕霍人长期结盟。单复数同形。
+① The Cheyenne hunted along the Platte.
+= 夏延人沿着普拉特河一带狩猎。
+the Cheyenne = 夏延人
+② A few elders still speak Cheyenne.
+= 还有几位长者会说夏延语。
+Cheyenne = 夏延语
+构词：族名的法语转写
+注意用法：单复数同形；也是美国怀俄明州首府的名字。
+
 chez
 核心：法语借词：在某人家、某人那儿，写作它加人名，
 chez nous 是我们家。英语里用它带一点俏皮或文气，多见于
@@ -86346,6 +86479,19 @@ tai chi = 太极
 chi = 气（生命能量）
 构词：希腊字母名；气那一支转自汉语
 注意拼写：气那一支也写 qi。
+
+Chianti
+核心：意大利托斯卡纳产的红葡萄酒，主要用桑娇维塞葡萄。旧时装在
+底部裹草的圆肚瓶里，那种瓶子叫 fiasco。词首读硬音。不可数，
+说一瓶时可数。
+① They shared a bottle of Chianti.
+= 他们分了一瓶基安蒂。
+a bottle of Chianti = 一瓶基安蒂
+② Chianti goes well with tomato sauces.
+= 基安蒂配番茄酱汁很合。
+Chianti = 基安蒂红葡萄酒
+构词：托斯卡纳那个产区的地名
+注意读音：开头那两个字母读硬音。
 
 chiaroscuro
 核心：明暗对照：绘画与摄影里靠强光与深影的对比造出立体
@@ -86392,6 +86538,19 @@ become chic = 变得时髦讲究
 构词：法语 chic 格调
 注意读音：读起来像 sheek，不照字面读。
 
+Chicana
+核心：Chicano 的女性形式：认同奇卡诺文化传统的墨西哥裔女性。
+西班牙语的名词分阴阳性，-o 结尾是男性、-a 结尾是女性，这一对
+沿用了那个规矩。可数。
+① She writes as a Chicana poet.
+= 她以奇卡诺裔女诗人的身份写作。
+a Chicana = 奇卡诺裔女性
+② Chicana artists organized their own show.
+= 那些奇卡诺裔女艺术家自己办了展。
+Chicana artists = 奇卡诺裔女艺术家
+构词：西班牙语的阴性词尾 -a
+注意构词：跟 Chicano 成对，词尾一个字母分男女。
+
 chicane
 核心：两支。一是赛道上故意设的连续急弯：为了逼车手减速。
 二是名词 chicanery：用花招、诡辩去骗人，legal chicanery
@@ -86407,6 +86566,19 @@ slow down = 使减速
 chicanery = 花招、诡计
 构词：法语 chicaner 挑刺、纠缠
 注意用法：赛车义与诡计义都常读到。
+
+Chicano
+核心：奇卡诺人：美国的墨西哥裔，尤指认同那段民权运动与文化传统的
+一代。这个词从前是蔑称，一九六〇年代被当事人主动拿回来当自称，
+所以带自豪意味 —— 外人用它要看场合。女性形式 Chicana。可数。
+① He teaches Chicano literature.
+= 他教奇卡诺文学。
+Chicano literature = 奇卡诺文学
+② Many Chicanos joined the farmworkers' movement.
+= 许多奇卡诺人加入了农工运动。
+a Chicano = 奇卡诺人（男性或统称）
+构词：墨西哥人自称 mexicano 的口语省读
+注意语域：曾是蔑称，后被当事人拿回来自称，外人用要看场合。
 
 chichi
 核心：故意讲究得有点做作的：说装饰、店面、说话腔调。
@@ -86833,6 +87005,17 @@ child support = 子女扶养费（美式）
 构词：古英语 cild
 注意别混：childlike 是褒义，childish 说大人一定带贬。
 
+Chilean
+核心：智利的、智利人。常规的 -an 构词，国名词尾的 e 保留。可数。
+① A Chilean writer won the prize.
+= 一位智利作家得了奖。
+a Chilean = 智利人
+② Chilean wine competes on price.
+= 智利葡萄酒靠价格竞争。
+Chilean wine = 智利葡萄酒
+构词：国名 Chile 加 -an
+注意拼写：跟表示辣椒的 chilli、chili 只差一点，别写混。
+
 chili
 核心：辣椒的美式主流拼法，英式写 chilli。也指那道
 炖菜，美式菜单上直接说 chili。chili powder 是辣椒粉。
@@ -87077,6 +87260,18 @@ wipe off = 擦掉
 构词：由表示瓷与书写的两部分拼成
 注意用法：英式说法。
 
+Chinatown
+核心：唐人街：欧美城市里华人聚居、开店做生意的那一片。多数大城市
+都有一处，说的时候常直接当地名用，前面不加冠词。可数。
+① They had dinner in Chinatown.
+= 他们在唐人街吃的晚饭。
+in Chinatown = 在唐人街
+② San Francisco has the oldest Chinatown in North America.
+= 旧金山的唐人街是北美最老的。
+a Chinatown = 一处唐人街
+构词：China 加 town
+注意用法：当地名用时前面不加冠词。
+
 chinchilla
 核心：两支。一是南美安第斯山的一种小型啮齿动物，毛极密
 极软。二是它的毛皮，历史上因此被大量猎捕，今天多是人工
@@ -87092,6 +87287,88 @@ dense = 密的
 chinchilla = 毛丝鼠皮
 构词：西班牙语 chinchilla
 注意用法：宠物与皮毛两个语境都读得到。
+
+Chinese
+核心：中国的、中国人，也指汉语。-ese 一族，单复数同形。语言上要
+留心：这个词底下其实是一大族互不相通的语言，正式文字里要写清楚是
+Mandarin 还是 Cantonese。
+① She is learning Chinese.
+= 她在学中文。
+Chinese = 汉语
+② Two Chinese joined the delegation.
+= 两位中国人加入了代表团。
+a Chinese = 中国人
+③ Chinese characters are shared across those languages.
+= 汉字是那几种语言共用的。
+Chinese characters = 汉字
+构词：China 加 -ese
+注意用法：单复数同形；说具体哪一门要写 Mandarin 或 Cantonese。
+
+Chinese cabbage
+核心：大白菜一类的统称：叶子长、包得松，炒煮腌都行。英美超市里也叫
+Chinese leaf 或按品种叫 napa cabbage、bok choy。可数不可数都行。
+① Shred the Chinese cabbage finely.
+= 把白菜切细丝。
+Chinese cabbage = 大白菜
+② Chinese cabbage keeps for weeks in the fridge.
+= 白菜放冰箱能存好几个星期。
+keep for weeks = 能存放好几周
+构词：China 的形容词形式加 cabbage
+注意用法：同一类菜英美还有好几个名字，超市标签不统一。
+
+Chinese chequers
+核心：跳棋：六角星形的棋盘，把自己那十颗棋子跳到对面的角里。名字
+其实名不副实 —— 这个游戏是二十世纪初德国人改自美国棋，跟中国无关，
+当年取这个名字是为了好卖。美式拼 Chinese checkers。恒作复数。
+① They played Chinese chequers after supper.
+= 晚饭后他们下跳棋。
+Chinese chequers = 跳棋
+② Chinese chequers takes two to six players.
+= 跳棋两到六人都能玩。
+take two to six players = 可容两到六人玩
+构词：拼法英式是 chequers，美式是 checkers
+注意别误信：这个游戏跟中国没有关系，名字是当年的营销手法。
+
+Chinese lantern
+核心：两支。一是纸灯笼：竹骨糊纸、里面点烛或装灯，节庆时挂。
+二是一种植物：果实外裹一层橙红色纸质囊，形状像小灯笼，也叫
+physalis。可数。
+① Red Chinese lanterns hung along the street.
+= 街上挂着一排红灯笼。
+a Chinese lantern = 纸灯笼
+② Chinese lanterns dry well for winter arrangements.
+= 那种果实晒干了好做冬季插花。
+Chinese lanterns = 灯笼果（植物）
+构词：China 的形容词形式加 lantern
+注意用法：说植物那一支时也叫 physalis。
+
+Chinese whispers
+核心：传话游戏：一句话在一圈人耳边挨个传下去，传到最后已经面目全非。
+英语里更常拿它比喻消息越传越走样。美式说 telephone 或
+the telephone game。近年因为名字里的族群指称受到质疑，正式文字
+越来越多改用别的说法。恒作复数。
+① The story changed like Chinese whispers.
+= 那件事越传越走样。
+like Chinese whispers = 像传话游戏那样越传越走样
+② Chinese whispers turned a rumour into a fact.
+= 传来传去，一个传闻成了事实。
+Chinese whispers = 消息辗转失真
+构词：那个游戏的英式名字
+注意语域：名字里的族群指称近年受质疑，正式文字多改说别的。
+
+Chinglish
+核心：中式英语：受汉语影响而不地道的英语，多指公示牌与说明书上那些
+硬译。构词是 Chinese 加 English 各取一段，同一种造法还有 Franglais、
+Spanglish、Singlish。带调侃，说自己的英语时是自嘲，说别人时不礼貌。
+不可数。
+① The sign was pure Chinglish.
+= 那块牌子上是十足的中式英语。
+pure Chinglish = 十足的中式英语
+② He jokes that his emails are Chinglish.
+= 他自嘲说自己的邮件是中式英语。
+Chinglish = 中式英语
+构词：Chinese 与 English 拼合
+注意语域：自嘲可以，说别人不礼貌。
 
 chink
 核心：三支。一是缝隙：a chink of light 是漏进来的一线
@@ -87304,6 +87581,19 @@ smoky = 烟熏味的
 tinned = 装罐的
 构词：纳瓦特尔语，意思是熏过的辣椒
 注意用法：味道的重点是烟熏，不只是辣。
+
+Chippendale
+核心：奇彭代尔式：十八世纪英国家具的一种风格，得名于家具匠奇彭代尔
+出的那本图样册。特点是椅背镂空、腿部带球爪脚，用桃花心木。作定语
+最常见。
+① The room has a Chippendale chair.
+= 那间屋里有把奇彭代尔式椅子。
+a Chippendale chair = 奇彭代尔式椅子
+② Chippendale designs spread through his pattern book.
+= 那套设计是靠他的图样册传开的。
+Chippendale designs = 奇彭代尔式设计
+构词：家具匠 Thomas Chippendale 的姓
+注意用法：说的是风格，不一定出自他本人的作坊。
 
 chipper
 核心：两支。一是形容词：精神好、兴致高，多说人病后或
@@ -87688,6 +87978,19 @@ chocolatey = 巧克力味浓的
 chocolate-box = 甜美得有点俗气的（英式）
 构词：纳瓦特尔语 chocolatl
 注意用法：说材料时不可数。
+
+Choctaw
+核心：乔克托人：北美东南部的原住民族群，也指他们的语言。十九世纪
+被迫西迁，是最早走那条路的族群之一。二战时他们的语言被用作密码。
+单复数同形。
+① The Choctaw were relocated to Oklahoma.
+= 乔克托人被迁往俄克拉何马。
+the Choctaw = 乔克托人
+② Choctaw was used as a code in the First World War.
+= 乔克托语在一战里被当作密码用。
+Choctaw = 乔克托语
+构词：族名的英语转写
+注意用法：单复数同形，不加 s。
 
 choice
 核心：四支。一是选择这件事：have no choice but to 是
@@ -88252,6 +88555,48 @@ a chowderhead = 糊涂蛋（美式旧俚语）
 构词：法语 chaudiere 大锅
 注意用法：美式常用，尤其新英格兰。
 
+Chrimbo
+核心：圣诞节的英式口语昵称，轻快随便，多用在短信与闲聊里，正式
+文字绝不用。也拼 Crimbo，两种写法都常见。不可数。
+① See you after Chrimbo.
+= 圣诞过后见。
+after Chrimbo = 圣诞之后
+② They always do a big Chrimbo dinner.
+= 他们圣诞总要做一顿大餐。
+a Chrimbo dinner = 圣诞大餐
+构词：Christmas 的口语磨损形式
+注意语域：英式口语，正式文字写 Christmas。
+
+Chrissake
+核心：只出现在一个感叹里：for Chrissake，表示不耐烦或恼火，
+相当于「天哪、拜托」。由 for Christ's sake 磨损而成，因为提到基督
+之名，虔诚的人听着会不舒服。也拼 Chrissakes。
+① For Chrissake, hurry up.
+= 天哪，快点吧。
+for Chrissake = 天哪、拜托（不耐烦）
+② For Chrissake, stop asking.
+= 拜托，别问了。
+stop asking = 别再问了
+构词：for Christ's sake 磨损而成
+注意语域：不耐烦时的口头语，宗教场合与正式文字都要避开。
+
+Christ
+核心：基督：基督教对耶稣的称号，本义是「受膏者」，跟希伯来语的
+「弥赛亚」同义。三个用法要分开：作称号时前面常加定冠词说 the Christ；
+作名字的一部分时直接说 Jesus Christ；单说一声 Christ! 是不耐烦的
+感叹，虔诚的人听着刺耳。
+① The Christ of the Gospels is a teacher and a healer.
+= 福音书里的基督既是教师也是医者。
+the Christ = 基督（称号）
+② The painting shows Christ on the road to Emmaus.
+= 那幅画画的是基督在去以马忤斯的路上。
+Christ = 基督
+③ Christ, it's cold out there.
+= 天哪，外头真冷。
+Christ = 天哪（不耐烦的感叹）
+构词：希腊语 khristos 受膏者
+注意语域：作感叹用时是轻慢圣名，正式与宗教场合都要避开。
+
 christen
 核心：三支。一是给婴儿施洗并起教名。二是引申的命名：
 给船、给建筑起名，尤指正式的落成命名。三是口语的开张
@@ -88270,6 +88615,205 @@ christen = 开张第一次用（口语）
 a christening = 洗礼仪式
 构词：由表示基督徒的那个词加动词后缀
 注意用法：开张使用那一支是轻松口语。
+
+Christendom
+核心：基督教世界：信奉基督教的那些国家与人的总称，尤指中世纪那个
+以教会为共同框架的欧洲。今天多用于历史与文化论述，说现代世界一般
+不用它。不可数。
+① Christendom was united in name only.
+= 基督教世界只是名义上统一。
+Christendom = 基督教世界
+② The news spread through Christendom.
+= 那个消息传遍了基督教世界。
+through Christendom = 传遍基督教世界
+构词：Christ 加古英语的 -dom，同 kingdom 那个后缀
+注意用法：偏历史与文化论述，说今天的世界不用它。
+
+Christian
+核心：基督徒；也作形容词说基督教的。另有一个引申的形容词义：说人
+厚道、有基督徒式的仁慈，说 that's very Christian of you，有时带
+一点调侃。可数。
+① She was brought up a Christian.
+= 她是当基督徒养大的。
+a Christian = 基督徒
+② The Christian calendar starts from his birth.
+= 基督教历法从他降生那年算起。
+the Christian calendar = 基督教历法
+③ That was very Christian of you.
+= 你这么做真厚道。
+very Christian of you = 你真厚道
+构词：Christ 加 -ian
+注意用法：第三个义是引申的褒奖，有时带调侃。
+
+Christian name
+核心：教名：受洗时取的名字，也就是姓之前的那个名。今天英语世界
+表格上多改说 first name 或 given name —— 因为不是人人都是基督徒，
+这个说法带宗教预设。读到要认得，填表时用中性说法。可数。
+① Put your Christian name first.
+= 教名写在前面。
+a Christian name = 教名、名（姓之前的那个）
+② Forms now say given name instead of Christian name.
+= 表格如今写「名」而不写「教名」。
+a given name = 名（中性说法）
+构词：Christian 加 name，出自受洗取名的习俗
+注意语域：带宗教预设，今天多改说 first name 或 given name。
+
+Christianity
+核心：基督教：以耶稣为中心的宗教与它的整套信仰。三大支是天主教、
+东正教与新教。不可数。跟 Christendom 分工：这个说的是宗教本身，
+那个说的是信这宗教的那片地方与那些人。
+① Christianity spread along Roman roads.
+= 基督教沿着罗马的道路传开。
+Christianity = 基督教
+② He converted to Christianity in his thirties.
+= 他三十多岁皈依了基督教。
+convert to Christianity = 皈依基督教
+构词：Christian 加 -ity
+注意分工：这个是宗教本身，Christendom 是信它的那片世界。
+
+Christmas
+核心：圣诞节：十二月二十五日纪念耶稣降生的节日，在英语世界也是
+一年里最大的家庭节日与消费季。用法上几点要记：说「在圣诞期间」用
+at Christmas，说具体那天用 on Christmas Day；作定语一大族，
+Christmas tree、Christmas card 都是；口语昵称 Chrimbo。可数。
+① They always go home at Christmas.
+= 他们圣诞总要回家。
+at Christmas = 在圣诞期间
+② We spent Christmas with her parents.
+= 我们跟她父母过的圣诞。
+spend Christmas = 过圣诞
+③ Christmas comes but once a year.
+= 圣诞一年才一回。
+come but once a year = 一年才来一次
+④ The shop makes half its money over Christmas.
+= 那家店一半的钱是圣诞期间赚的。
+over Christmas = 整个圣诞期间
+构词：Christ 加古英语的 mass 弥撒
+注意搭配：说节期用 at，说那一天用 on Christmas Day。
+
+Christmas box
+核心：英式旧俗：圣诞前后给邮递员、清洁工这类常来服务的人的一笔
+赏钱或小礼。十二月二十六日的 Boxing Day 就是由这个习俗得名的。可数。
+① They still give the postman a Christmas box.
+= 他们还照旧给邮递员一份圣诞赏钱。
+a Christmas box = 给上门服务者的圣诞赏钱
+② Christmas boxes were once given the day after Christmas.
+= 那种赏钱从前是圣诞第二天给的。
+Christmas boxes = 圣诞赏钱（复数）
+构词：Christmas 加 box 匣子，最早是装钱的匣子
+注意用法：Boxing Day 这个节名就是由它来的。
+
+Christmas cake
+核心：圣诞蛋糕：果干重糖的深色蛋糕，外面裹一层杏仁糖膏再覆白色
+糖霜。要提前几周做好，隔一阵往里浇一次白兰地养着。不可数居多。
+① She feeds the Christmas cake with brandy every week.
+= 她每周往圣诞蛋糕里浇一次白兰地。
+feed a Christmas cake = 给圣诞蛋糕浇酒养着
+② The Christmas cake is iced white on top.
+= 圣诞蛋糕上面覆着白糖霜。
+a Christmas cake = 圣诞蛋糕
+构词：Christmas 加 cake
+注意用法：跟 Christmas pudding 分开：那个是蒸的，这个是烤的。
+
+Christmas card
+核心：圣诞贺卡：圣诞前寄给亲友的卡片，英语世界的老习惯。派生说法
+on somebody's Christmas card list 是「跟某人还有来往」，反过来说
+not on my Christmas card list 就是「跟这人合不来」。可数。
+① She sends fifty Christmas cards every year.
+= 她每年寄五十张圣诞贺卡。
+send a Christmas card = 寄圣诞贺卡
+② He is not on my Christmas card list.
+= 我跟那人可没什么来往。
+not on somebody's Christmas card list = 跟某人合不来
+构词：Christmas 加 card
+注意用法：那个「贺卡名单」的说法是常用的委婉表达。
+
+Christmas carol
+核心：圣诞颂歌：圣诞期间唱的宗教歌曲，挨家挨户去唱叫 carol singing
+或 go carolling。狄更斯那本小说也用这个名字。可数。
+① The choir sang three Christmas carols.
+= 唱诗班唱了三首圣诞颂歌。
+a Christmas carol = 圣诞颂歌
+② Children went from door to door singing Christmas carols.
+= 孩子们挨家挨户唱圣诞颂歌。
+sing Christmas carols = 唱圣诞颂歌
+构词：Christmas 加 carol 颂歌
+注意用法：挨家挨户唱那件事说 carol singing。
+
+Christmas cracker
+核心：圣诞拉炮：一个纸筒，两人各拉一头，啪一声炸开，里面掉出纸帽、
+小玩意和一张冷笑话纸条。英国圣诞餐桌上人人一个。引申里说某样东西
+not much of a cracker 就是说它不怎么样。可数。
+① They pulled the Christmas crackers before the meal.
+= 开饭前他们拉了圣诞拉炮。
+pull a Christmas cracker = 拉圣诞拉炮
+② Every Christmas cracker has a terrible joke inside.
+= 每个圣诞拉炮里都有一个冷笑话。
+a Christmas cracker = 圣诞拉炮
+构词：Christmas 加 cracker 爆响物
+注意用法：英国特有，别的国家的圣诞餐桌上没有。
+
+Christmas pudding
+核心：圣诞布丁：果干、香料与板油做的深色蒸布丁，圣诞正餐最后端上来，
+上桌前浇白兰地点火。也叫 plum pudding，虽然里面并没有李子。不可数
+居多。
+① She steamed the Christmas pudding for hours.
+= 圣诞布丁她蒸了好几个钟头。
+Christmas pudding = 圣诞布丁
+② They set the Christmas pudding alight at the table.
+= 他们在桌上把圣诞布丁点着了。
+set something alight = 把某物点着
+构词：Christmas 加 pudding
+注意别误信：别名里的 plum 是旧义的「果干」，不是李子。
+
+Christmas stocking
+核心：圣诞袜：孩子在圣诞前夜挂起来、等着第二天早上装满小礼物的
+长袜。派生说法 a stocking filler 指往里塞的那种小礼物。可数。
+① They hung their Christmas stockings by the fire.
+= 他们把圣诞袜挂在炉边。
+hang a Christmas stocking = 挂圣诞袜
+② The Christmas stocking was full of small things.
+= 那只圣诞袜里塞满了小东西。
+a Christmas stocking = 圣诞袜
+构词：Christmas 加 stocking 长袜
+注意用法：往里塞的小礼物叫 stocking filler。
+
+Christmas tree
+核心：圣诞树：摆在屋里挂满灯饰的常绿树，真树假树都有。这个习俗
+十九世纪从德国传进英国，此后成了圣诞的头号标志。引申里也说
+a Christmas tree 指挂满东西、花花绿绿的一样东西。可数。
+① They put the Christmas tree up on the first of December.
+= 他们十二月一号就把圣诞树立起来了。
+put the Christmas tree up = 立起圣诞树
+② The dashboard lit up like a Christmas tree.
+= 仪表盘亮得像棵圣诞树。
+like a Christmas tree = 亮得花花绿绿
+构词：Christmas 加 tree
+注意用法：比喻里说「灯全亮了」最常用它。
+
+Christmassy
+核心：有圣诞气氛的：说布置、音乐、心情让人觉得像过圣诞。口语用词，
+多带暖意。也拼 Christmasy，但双写 s 那个更常见。
+① The shop looks very Christmassy.
+= 那家店布置得很有圣诞味。
+look Christmassy = 显出圣诞气氛
+② I am not feeling Christmassy yet.
+= 我还没进入过节的状态。
+feel Christmassy = 有过节的心情
+构词：Christmas 加 -y
+注意拼写：双写 s 的这个写法更常见。
+
+Christmastime
+核心：圣诞期间：圣诞前后那一段日子，不只是那一天。偏文雅与怀旧，
+日常多直接说 at Christmas。也分写成 Christmas time。不可数。
+① The village looks its best at Christmastime.
+= 那个村子圣诞期间最好看。
+at Christmastime = 在圣诞期间
+② Christmastime brings everyone home.
+= 圣诞期间人都回来了。
+Christmastime = 圣诞期间
+构词：Christmas 加 time
+注意语域：偏文雅怀旧，日常说 at Christmas。
 
 chroma
 核心：色彩的饱和度：说一个颜色有多纯、多鲜，跟明度与
@@ -89024,6 +89568,19 @@ a cinder track = 煤渣跑道
 a cinder block = 煤渣混凝土砌块（美式）
 构词：古英语 sinder 熔渣
 注意别混：ash 是烧尽的灰，这个是没烧透的渣块。
+
+Cinderella
+核心：由童话人物引申出的普通名词：长期被冷落、得不到资源的人或
+事物。最常搭 a Cinderella service、the Cinderella of，说某个领域
+没人重视。也说灰姑娘式的翻身故事。可数。
+① Mental health was the Cinderella of the health service.
+= 精神卫生长期是医疗体系里没人管的那一块。
+the Cinderella of = ……里最受冷落的那一部分
+② The team's Cinderella run ended in the final.
+= 那支队伍的黑马之旅止步决赛。
+a Cinderella run = 黑马般的一路闯关
+构词：童话人物名
+注意用法：两个引申义，一个说受冷落，一个说意外翻身。
 
 cine
 核心：作定语的旧式说法，指跟电影摄制有关的：
@@ -90253,6 +90810,19 @@ clapboard = 横搭墙板（美式）
 repaint = 重新刷漆
 构词：由表示拍打与板的两个词拼成
 注意用法：美式；英式说 weatherboard。
+
+Clapham omnibus
+核心：只活在一个法律说法里：the man on the Clapham omnibus，指
+「普通有理性的人」—— 英国法官拿他当判断标准，问一件事在寻常人
+看来合不合理。Clapham 是伦敦一个普通区，omnibus 是旧时的公共马车。
+① The test is what the man on the Clapham omnibus would think.
+= 标准是寻常人会怎么看。
+the man on the Clapham omnibus = 普通有理性的人（英国法律用语）
+② Judges still invoke the Clapham omnibus.
+= 法官至今还搬出那个说法。
+invoke the Clapham omnibus = 搬出「寻常人」这个标准
+构词：伦敦地名加旧时的公共马车
+注意用法：只出现在那个固定说法里，不单用。
 
 claptrap
 核心：空话废话：听着煞有介事、其实没内容的说法，带明显
@@ -94778,6 +95348,18 @@ lighter than = 比……淡
 构词：德国城市科隆的名字
 注意别混：perfume 浓度高，这一类淡得多。
 
+Colombian
+核心：哥伦比亚的、哥伦比亚人。拼写要当心：国名是 Colombia，中间是
+o 不是 u，跟美国那个地名 Columbia 差一个字母，两者常被写混。可数。
+① A Colombian singer headlined the festival.
+= 一位哥伦比亚歌手是音乐节的压轴。
+a Colombian = 哥伦比亚人
+② Colombian coffee is sold as a single origin.
+= 哥伦比亚咖啡按单一产地卖。
+Colombian coffee = 哥伦比亚咖啡
+构词：国名 Colombia 加 -n
+注意拼写：中间是 o，别写成 Columbian。
+
 colon
 核心：两支，完全不同。一是冒号：那个标点，用来引出清单、
 解释或引语。二是结肠：大肠的主要部分，形容词 colonic。
@@ -94914,6 +95496,18 @@ appear at = 出现在
 a colophon = 出版社社徽
 构词：希腊语 kolophon 顶点、收尾
 注意用法：文献学与出版语境里的词。
+
+Colorado beetle
+核心：马铃薯甲虫：背上十条黑色纵纹的小甲虫，专吃马铃薯叶，是欧洲
+严防的检疫害虫。也叫 Colorado potato beetle。可数。
+① Colorado beetles can strip a crop in days.
+= 马铃薯甲虫几天就能把一片庄稼啃光。
+a Colorado beetle = 马铃薯甲虫
+② Farmers must report any Colorado beetle they find.
+= 农民发现马铃薯甲虫必须上报。
+report a Colorado beetle = 上报发现马铃薯甲虫
+构词：美国科罗拉多州的州名加 beetle
+注意用法：属法定申报的检疫害虫，新闻里常提。
 
 coloratura
 核心：花腔：声乐里那种快速跑动、带装饰音的华丽唱法，
@@ -95208,6 +95802,19 @@ comatose = 昏迷的
 comatose = 瘫着不动的（夸张口语）
 构词：希腊语 koma 深睡
 注意用法：口语的夸张用法要看场合。
+
+Comanche
+核心：科曼奇人：北美南部大平原的原住民族群，也指他们的语言。历史上
+以骑术出名，长期控制着南部平原。二战时他们的语言被用作密码。
+单复数同形。
+① The Comanche dominated the southern plains.
+= 科曼奇人长期控制着南部平原。
+the Comanche = 科曼奇人
+② Comanche was used by code talkers in Europe.
+= 科曼奇语被密码员用在了欧洲战场。
+Comanche = 科曼奇语
+构词：族名的西班牙语转写
+注意用法：单复数同形，不加 s。
 
 comb
 核心：四支。一是梳子，动词是梳。二是引申的仔细搜：
@@ -96914,985 +97521,3 @@ communications = 通信系统
 lines of communication = 沟通渠道；补给线
 构词：communicate 传达 + -ion
 注意用法：作沟通讲不可数，作函件讲可数。
-
-communicative
-核心：两支。一是话多、愿意开口的，说人不闷，实际用起来
-常带否定；二是语言教学里的术语，communicative approach
-指以实际交流为主的教学法。
-① He was not very communicative.
-= 他不太爱开口。
-communicative = 愿意开口交谈的
-② She becomes communicative after a drink.
-= 她喝一杯就话多了。
-communicative = 话多的
-③ They use a communicative approach.
-= 他们用的是交际教学法。
-a communicative approach = 交际教学法
-④ The course aims at communicative competence.
-= 那门课的目标是交际能力。
-communicative competence = 交际能力（不只语法对，还要说得得体）
-语言教学的核心概念，跟这一条的交际教学法出自同一套主张。
-构词：communicate 交流 + -ive
-注意用法：说人时常用否定式。
-
-communion
-核心：两支。大写的 Communion 是基督教的圣餐礼，
-take Communion 是领圣餐；小写泛指心灵相通、深切交流。
-也指同一信仰的教派团体。不可数。
-① She took Communion on Sunday.
-= 她周日领了圣餐。
-take Communion = 领圣餐
-② He felt a communion with the land.
-= 他觉得跟那片土地心意相通。
-a communion with = 与……的心灵相通
-③ The Anglican Communion spans many countries.
-= 圣公宗遍及许多国家。
-a communion = 同一信仰的教派团体
-构词：拉丁语 communio 共有
-注意用法：指圣餐礼时常大写。
-
-communique
-核心：公报：政府、军方或会议正式发布的简短声明，多用在
-外交场合。也写作 communiqué，带重音符。可数。
-① The summit issued a joint communique.
-= 峰会发表了联合公报。
-a joint communique = 联合公报
-② The communique was deliberately vague.
-= 那份公报有意说得含糊。
-a communique = 公报
-③ No communique was issued after the talks.
-= 会谈之后没有发公报。
-issue a communique = 发表公报
-构词：法语 communiqué 已传达的
-注意拼写：也写作 communiqué。
-
-communism
-核心：共产主义：主张生产资料公有、按需分配的政治经济
-学说。大写时特指二十世纪苏联与东欧那套体制。不可数。
-① He studied the history of communism.
-= 他研究共产主义的历史。
-communism = 共产主义
-② Communism collapsed in Eastern Europe.
-= 东欧那套体制垮了。
-communism = 苏东体制（大写时）
-③ He broke with communism in the fifties.
-= 他五十年代跟共产主义决裂了。
-break with communism = 与共产主义决裂
-构词：拉丁语 communis 公共的
-注意用法：特指苏东体制时大写。
-
-communist
-核心：共产主义者，也作形容词。大写时指共产党的、党员的。
-口语里的蔑称是 commie。可数。
-① She is a lifelong communist.
-= 她一辈子是共产主义者。
-a communist = 共产主义者
-② The Communist Party held a congress.
-= 共产党开了代表大会。
-the Communist Party = 共产党
-③ He holds communist views.
-= 他持共产主义观点。
-communist = 共产主义的
-构词：communism 共产主义 + -ist
-注意用法：指政党时大写。
-
-community
-核心：几支。一是社区：住在一处的一群人，也指那份归属感；
-二是有共同点的群体：the scientific community 科学界；
-三是生态学里的群落。复合搭配一大把：community centre
-社区活动中心、community service 社区服务。可数。
-① The whole community turned out.
-= 整个社区都来了。
-a community = 社区
-② There is a strong sense of community.
-= 那里归属感很强。
-a sense of community = 归属感
-③ The scientific community was sceptical.
-= 科学界持怀疑态度。
-the scientific community = 科学界
-④ He was sentenced to community service.
-= 他被判社区服务。
-community service = 社区服务（也指法院判的劳动）
-⑤ They met at the community centre.
-= 他们在社区活动中心见面。
-a community centre = 社区活动中心
-⑥ He was given a community order instead of prison.
-= 他没被关进监狱，判的是社区矫正令。
-a community order = 社区矫正令（英式）；a community sentence = 同一回事的另一种说法
-都指不进监狱、在社区里服的刑，跟这一条里的 community service 是同一支。
-⑦ Community care keeps people out of institutions.
-= 社区照护让人不必住进机构。
-community care = 社区照护（在家与社区里提供的照料）
-英国的政策用语，跟把人送进大机构统一照管的老做法相对。
-⑧ The community hospital has only forty beds.
-= 那家社区医院只有四十张床。
-a community hospital = 社区医院（小型、就近）
-不做大手术，管日常诊疗与康复，跟大医院分工不同。
-⑨ She did two years at a community college.
-= 她在社区学院念了两年。
-a community college = 社区学院（美式，两年制）；a community school = 兼办成人课程的社区学校（英式）
-两个词的共同点是「向本地开放」，但学段与国别都不一样。
-⑩ The course uses community language learning.
-= 那门课用的是社群语言学习法。
-community language learning = 社群语言学习法
-外语教学的一个流派：学员围坐着想说什么，老师当场译成外语。
-⑪ Community policing depends on knowing the neighbourhood.
-= 社区警务靠的是熟悉街坊。
-community policing = 社区警务
-警察长驻一片地方、跟居民打交道，跟接警出动式的巡逻相对。
-⑫ She works as a community organizer.
-= 她是社区组织者。
-a community organizer = 社区组织者
-美式用词，指把居民组织起来向当局争取的那种人。
-⑬ They turned the empty lot into a community garden.
-= 他们把那块空地改成了社区菜园。
-a community garden = 社区菜园（居民合种的一片地）
-美式常用；英国类似的东西叫 allotment，区别是各人分一小块、不合种。
-⑭ The community theater puts on two plays a year.
-= 那家社区剧团一年演两出戏。
-a community theater = 社区剧团（美式拼法）
-业余演员为主、面向本地观众；英式拼作 community theatre。
-⑮ California is a community property state.
-= 加利福尼亚是夫妻共同财产州。
-community property = 夫妻共同财产（美国部分州的法律制度）
-婚内所得双方各半，离婚时照此分。只有一部分州行这套，所以要说 a community property state。
-⑯ The community church draws people from three villages.
-= 那所社区教堂的信众来自三个村子。
-a community church = 不隶属某个教派的社区教堂
-美式常见，强调面向本地、不分宗派。
-构词：拉丁语 communitas 共有
-注意用法：指群体时前面常加限定语。
-
-commutative
-核心：数学词：满足交换律的，指运算两边对调结果不变。
-加法与乘法是这样，减法与除法不是。
-① Addition is commutative.
-= 加法满足交换律。
-commutative = 满足交换律的
-② Subtraction is not commutative.
-= 减法不满足交换律。
-not commutative = 不满足交换律
-③ The commutative law lets you swap the two.
-= 交换律容许把那两个对调。
-the commutative law = 交换律
-构词：commute 对调 + -ative
-注意语域：数学术语。
-
-commutator
-核心：电机里的换向器：一圈铜片，随转子转动不断切换电流
-方向，直流电机靠它才能一直转下去。数学的群论里另指
-换位子。可数，专业词。
-① The commutator sparks under load.
-= 换向器带载时打火花。
-a commutator = 换向器
-② Brushes press against the commutator.
-= 电刷压在换向器上。
-a brush = 电刷
-③ A worn commutator makes the motor stutter.
-= 换向器一磨损，马达就一顿一顿的。
-a worn commutator = 磨损的换向器
-构词：commute 对调 + -ator
-注意语域：电机与数学的专业词。
-
-commute
-核心：三支的共同点是「换成另一样」。一是通勤：每天往返
-住处与上班的地方，人叫 commuter，那段路叫 the commute；
-二是法律上减刑：把重刑换成轻刑；三是把一种支付或义务折
-换成另一种，名词 commutation。形容词 commutable 指可折
-换的，也指路程上可通勤的。
-① She commutes from Reading.
-= 她每天从雷丁通勤。
-commute from = 从……通勤
-② My commute takes an hour.
-= 我上班路上要一小时。
-a commute = 通勤路程
-③ Commuters packed the platform.
-= 通勤族挤满了站台。
-a commuter = 通勤者
-④ The sentence was commuted to life.
-= 那个刑罚被减为无期。
-commute a sentence = 减刑
-⑤ Commutation of the death penalty is rare.
-= 死刑减刑很少见。
-commutation = 减刑；折换
-⑥ The pension is commutable to a lump sum.
-= 那笔养老金可以折成一次性支付。
-commutable = 可折换的；也指路程可通勤的
-构词：拉丁语 commutare 换掉
-注意用法：通勤那支不及物，减刑那支及物。
-
-comp
-核心：口语的短形式，几支各有各的来路。一是赠券赠票：
-comp tickets 是免费招待票，动词是免单招待；二是美式在
-房产与投资里说的可比案例，多用复数 comps；三是音乐里
-给独奏者伴奏。可数。
-① They gave us comp tickets.
-= 他们给了我们招待票。
-comp tickets = 免费招待票
-② The manager comped our meal.
-= 经理给我们免了单。
-comp somebody = 给某人免单招待
-③ Agents look at recent comps.
-= 中介会看近期的可比成交。
-comps = 可比案例（美式）
-④ The pianist comped behind the singer.
-= 钢琴手给歌手作伴奏。
-comp = 伴奏
-构词：由几个同样以这三个字母开头的长词各自截短而来
-注意语域：口语与行业内部用词。
-
-compact
-核心：三支，重音还不一样。形容词是紧凑的：占地小而齐全。
-动词是压实，及物，重音在后。名词一是粉盒，二是正式的
-协定。副词 compactly，名词 compactness，压实机叫
-compactor。
-① The flat is small but compact.
-= 那套房子不大但很紧凑。
-compact = 紧凑的
-② They drive a compact car.
-= 他们开辆紧凑型车。
-a compact car = 紧凑型车
-③ Machines compact the soil.
-= 机器把土压实。
-compact = 压实
-④ She snapped her compact shut.
-= 她啪地合上粉盒。
-a compact = 粉盒
-⑤ The states signed a compact.
-= 那几个州签了协定。
-a compact = 协定
-⑥ Everything is compactly arranged.
-= 东西摆得很紧凑。
-compactly = 紧凑地
-⑦ The compactness of the design impressed her.
-= 那个设计的紧凑让她佩服。
-compactness = 紧凑
-⑧ A compactor crushes the waste.
-= 压实机把垃圾压碎。
-a compactor = 压实机
-⑨ The album came out on compact disc in 1985.
-= 那张专辑一九八五年出了激光唱片版。
-a compact disc = 激光唱片（缩写 CD）
-全称今天几乎不写，一律说 CD；compact 那半截说的是它比黑胶小得多。
-构词：拉丁语 compactus 压紧的
-注意读音：形容词与名词重音在前，动词重音在后。
-
-compadre
-核心：美式口语里的哥们儿，从西班牙语借来。本义是教父与
-孩子父母之间的互称，进英语后就是熟不拘礼的朋友。可数，
-带点玩笑气。
-① He greeted his old compadre.
-= 他跟老哥们儿打招呼。
-a compadre = 哥们儿
-② The two were compadres for years.
-= 那两人多年的交情。
-compadres = 老搭档、老朋友
-③ He calls everyone compadre.
-= 他管谁都叫哥们儿。
-call somebody compadre = 管某人叫哥们儿
-构词：西班牙语 compadre 教父
-注意语域：美式口语，带玩笑气。
-
-companion
-核心：同伴：陪着一起做事或一起走的人；旧时还指受雇陪伴
-老人的女伴。引申两支：配套的一本书或一件东西；船上通往
-下层的舱梯叫 companionway。形容词 companionable 是好相
-处的，副词 companionably，名词 companionship 是有伴的
-那份感觉。
-① She was his constant companion.
-= 她一直陪在他身边。
-a companion = 同伴
-② A lady's companion lived in.
-= 一位受雇的女伴住在家里。
-a companion = 受雇陪伴的女伴
-③ The dictionary has a companion volume.
-= 那部词典有一本姊妹篇。
-a companion volume = 姊妹篇
-④ He is a companionable sort.
-= 他是那种好相处的人。
-companionable = 好相处的
-⑤ They sat companionably by the fire.
-= 他们和和气气地坐在火边。
-companionably = 融洽地
-⑥ She missed the companionship.
-= 她想念有人做伴的日子。
-companionship = 有人做伴的感觉
-⑦ He went down the companionway.
-= 他顺着舱梯下去了。
-a companionway = 船上通往下层的舱梯
-⑧ Vets now say companion animal rather than pet.
-= 兽医现在说伴侣动物，不说宠物。
-a companion animal = 伴侣动物
-专业与倡权文字里用来替代 pet 的说法，强调是同伴而不是所有物。
-构词：拉丁语 com- 共 + panis 面包，本义是一起吃面包的人
-注意用法：陪伴女伴那一支是旧义。
-
-company
-核心：几支。一是公司；二是陪伴、有人做伴，不可数；
-三是客人，也不可数；四是一队人：剧团、军队的连。
-习语 present company excepted 是在座的除外。
-① She runs a small company.
-= 她开着家小公司。
-a company = 公司
-② I will keep you company.
-= 我陪着你。
-keep somebody company = 陪伴某人
-③ We are expecting company.
-= 我们有客人要来。
-company = 客人
-④ The theatre company is touring.
-= 那个剧团在巡演。
-a theatre company = 剧团
-⑤ He commands a company of infantry.
-= 他指挥一个步兵连。
-a company = 连（军队编制）
-⑥ Present company excepted, of course.
-= 当然，在座的除外。
-present company excepted = 在座的除外
-⑦ They parted company after ten years.
-= 十年之后他们分道扬镳。
-part company = 分道扬镳
-⑧ If you find it hard, you are in good company.
-= 觉得难的不止你一个。
-be in good company = 跟你一样的人不少
-⑨ The job comes with a company car.
-= 那份工作配一辆公司车。
-a company car = 公司配给员工的车
-英式招聘广告里的常见待遇条目，跟薪水并列写。
-⑩ The company sergeant major called them to order.
-= 连队军士长喝令他们列队。
-a company sergeant major = 连队军士长（英军）
-军衔名，缩写 CSM；这里的 company 用的是「连」那一支。
-⑪ It was a company town until the mill closed.
-= 工厂关掉之前，那里是座企业城。
-a company town = 企业城（住房与生计都归一家企业）
-多带负面意味，说的是一家独大、居民没有别的选择。
-构词：拉丁语 com- 共 + panis 面包
-注意用法：作陪伴与客人讲时不可数。
-
-comparable
-核心：可比的：两样东西在某方面够得上放一起比。介词用
-to 或 with。名词 comparability。重音在第一个音节，
-跟 compare 不一样。
-① The two cases are comparable.
-= 那两个案子可以放一起比。
-comparable = 可比的
-② Her salary is comparable to his.
-= 她的薪水跟他的差不多。
-comparable to = 与……相当
-③ Comparability across countries is poor.
-= 各国之间的可比性很差。
-comparability = 可比性
-构词：compare 比较 + -able
-注意读音：重音在第一个音节。
-
-comparative
-核心：三支。一是比较研究的：comparative literature 是
-比较文学；二是相对的：跟别的情形比起来算怎样；三是语法
-上的比较级，前面加 the。副词 comparatively 是相对来说。
-① She teaches comparative literature.
-= 她教比较文学。
-comparative literature = 比较文学
-② They live in comparative comfort.
-= 他们过得相对舒适。
-comparative comfort = 相对的舒适
-③ Add the ending to form the comparative.
-= 加上词尾就构成比较级。
-the comparative = 比较级
-④ The test was comparatively easy.
-= 那场考试相对容易。
-comparatively = 相对来说
-⑤ Comparative linguistics traces how languages are related.
-= 比较语言学追查语言之间的亲缘关系。
-comparative linguistics = 比较语言学
-跟这一条的比较文学是同一种构词：这个形容词加上一门学科的名字。
-构词：compare 比较 + -ative
-注意用法：语法义前面加 the。
-
-compare
-核心：两支要靠介词分清。compare with 是比较异同、放在
-一起称量；compare to 是比作、说像。被动的 compared with
-与 compared to 都常用，意思是相比之下。习语 beyond
-compare 是无与伦比。
-① Compare the two texts carefully.
-= 把那两个文本仔细比一比。
-compare = 比较
-② He compared her smile to sunlight.
-= 他把她的笑比作阳光。
-compare to = 比作
-③ Compared with last year, sales are up.
-= 跟去年比，销量涨了。
-compared with = 与……相比
-④ Her cooking is beyond compare.
-= 她的手艺无与伦比。
-beyond compare = 无与伦比
-⑤ Nothing compares with a good night of sleep.
-= 什么都比不上睡个好觉。
-compare with = 比得上
-构词：拉丁语 comparare 使成对
-注意搭配：说异同用 with，说比作用 to。
-
-comparison
-核心：比较这件事，也指比较的说法与结果。常见搭配：
-in comparison with 相比之下、by comparison 比起来、
-make a comparison 作比较、there is no comparison 是
-根本没法比。可数不可数都行。
-① Let us make a comparison.
-= 我们比一比。
-make a comparison = 作比较
-② In comparison with last year, it is cheap.
-= 跟去年比这算便宜。
-in comparison with = 与……相比
-③ By comparison, the second half was dull.
-= 相比之下，下半场很闷。
-by comparison = 相比之下
-④ There is no comparison between them.
-= 那两个根本没法比。
-there is no comparison = 根本没法比
-⑤ She comparison-shops for everything.
-= 她买什么都要货比三家。
-comparison-shop = 货比三家（动词）；comparison shopping = 货比三家这件事
-都是美式说法，英式多直接说 shop around。
-⑥ He booked it through a comparison site.
-= 他是通过比价网站订的。
-a comparison site = 比价网站
-英式常用，全称 price comparison website。
-构词：compare 比较 + -ison
-注意搭配：介词用 with，也用 to。
-
-compartment
-核心：隔开的一格：车厢里的包间、箱包里的分格、冰箱的
-冷冻格都算。引申指心里分开存放的那一块。可数。
-① They shared a train compartment.
-= 他们同乘一个车厢包间。
-a compartment = 车厢包间
-② The bag has a padded compartment.
-= 那个包有个带衬垫的隔层。
-a compartment = 隔层
-③ He keeps work in a separate compartment.
-= 他把工作单放在心里的一格。
-a separate compartment = 单独隔开的一格
-构词：拉丁语 compartiri 分开
-注意用法：可数。
-
-compartmentalize
-核心：把事情或情绪分格隔开、互不相通，多说人把工作与
-私生活截然分开。名词 compartmentalization，英式也拼
-compartmentalise。及物。
-① He compartmentalizes work and home.
-= 他把工作和家分得很开。
-compartmentalize = 分格隔开
-② Feelings were compartmentalized away.
-= 情绪被单独隔起来搁着。
-be compartmentalized = 被隔开搁置
-③ Such compartmentalization has a cost.
-= 这样分格隔开是有代价的。
-compartmentalization = 分格隔开
-构词：compartment 隔间 + -alize
-注意拼写：英式也拼 compartmentalise。
-
-compass
-核心：三支。一是指南针、罗盘；二是画圆的圆规，英式常说
-a pair of compasses；三是书面的「范围」，beyond the
-compass of 是超出……的范围，也说嗓子的音域。可数。
-① The compass needle swung north.
-= 罗盘指针转向北。
-a compass = 指南针
-② Draw the circle with a compass.
-= 用圆规画那个圆。
-a compass = 圆规
-③ Get the compasses from the drawer.
-= 从抽屉里把圆规拿来。
-compasses = 一副圆规（英式）
-④ That is beyond the compass of this book.
-= 那超出了本书的范围。
-beyond the compass of = 超出……的范围
-⑤ Her voice has a wide compass.
-= 她的嗓音音域很宽。
-compass = 音域
-构词：拉丁语 com- 共 + passus 步，本义是量出一圈
-注意用法：圆规英式常说 a pair of compasses。
-
-compassion
-核心：怜悯之心：看见别人受苦而生的同情，还带着想帮一把
-的意思。跟 pity 的分工在姿态：这个词是平视的，pity 常
-有居高临下的味道。不可数。
-① She showed great compassion.
-= 她表现出极大的悲悯。
-show compassion = 表现出怜悯
-② He has no compassion for cheats.
-= 他对骗子毫无同情。
-compassion for = 对……的怜悯
-③ They released him out of compassion.
-= 他们出于恻隐之心放了他。
-out of compassion = 出于怜悯
-构词：拉丁语 com- 共 + pati 受苦，本义是一同受苦
-注意分工：这个词是平视的，pity 常带居高临下。
-
-compassionate
-核心：有怜悯心的、体恤的。英式有个固定说法 compassionate
-leave：因家人重病或去世准的假。副词 compassionately。
-① She is a compassionate doctor.
-= 她是位有恻隐之心的医生。
-compassionate = 有怜悯心的
-② He took compassionate leave.
-= 他请了假去照顾家里的病人。
-compassionate leave = 因家人病故准的假
-③ The nurse spoke compassionately.
-= 护士说话很体恤。
-compassionately = 体恤地
-构词：compassion 怜悯 + -ate
-注意语域：compassionate leave 是英式的固定说法。
-
-compatible
-核心：合得来、配得上：人处得来，设备与软件能配套用，
-说法与事实对得上。介词用 with。名词 compatibility，
-副词 compatibly，反义 incompatible。
-① The two are not compatible.
-= 那两个人合不来。
-compatible = 合得来的
-② The printer is compatible with the laptop.
-= 那台打印机跟笔记本配套。
-compatible with = 与……兼容
-③ His account is not compatible with the facts.
-= 他那套说法跟事实对不上。
-compatible with = 与……相符
-④ Check the compatibility first.
-= 先查一下兼不兼容。
-compatibility = 兼容性
-⑤ The parts fit together compatibly.
-= 那些部件配得严丝合缝。
-compatibly = 相容地
-构词：拉丁语 compati 一同承受
-注意搭配：介词一律用 with。
-
-compatriot
-核心：同胞：同一个国家的人，多用在人在国外的时候。也
-引申说同一队伍、同一行当里的同伴。略偏正式。可数。
-① He met a compatriot in Lisbon.
-= 他在里斯本碰见个同胞。
-a compatriot = 同胞
-② Her compatriots cheered from the stands.
-= 她的同胞在看台上欢呼。
-a compatriot = 同国的人
-③ She beat a compatriot in the final.
-= 决赛里她赢的是自己的同胞。
-beat a compatriot = 赢了同胞选手
-构词：com- 共 + patria 祖国
-注意语域：略偏正式。
-
-compel
-核心：迫使：靠权力、规则或形势逼人做某事，比 force 正式。
-也说某种品质让人不由得佩服。形容词 compelling 是让人非看
-不可、非信不可的，副词 compellingly。及物。
-① Illness compelled him to resign.
-= 病逼得他辞了职。
-compel somebody to do = 迫使某人做
-② The law compels disclosure.
-= 法律强制披露。
-compel = 强制
-③ Her courage compels respect.
-= 她的勇气让人不由得敬佩。
-compel respect = 令人不由得敬佩
-④ It is a compelling story.
-= 那是个让人放不下的故事。
-compelling = 引人入胜的；很有说服力的
-⑤ He argued compellingly.
-= 他讲得很有说服力。
-compellingly = 有说服力地
-构词：拉丁语 compellere 逼赶
-注意语域：比 force 正式。
-
-compendium
-核心：汇编：把一个题目下的材料收拢在一册里的书。英式还
-指一盒多种棋类玩具的合装。复数写 compendiums 也写
-compendia。形容词 compendious 指简明而全备的，正式偏旧。
-① The book is a compendium of folk tales.
-= 那本书是民间故事的汇编。
-a compendium of = ……的汇编
-② They bought a games compendium.
-= 他们买了一盒棋类玩具合装。
-a games compendium = 棋类玩具合装（英式）
-③ It is a compendious account.
-= 那是一份简明而全备的记述。
-compendious = 简明而全备的
-构词：拉丁语 compendium 省下来的东西
-注意复数：compendiums 与 compendia 都对。
-
-compensate
-核心：两支。一是赔偿：拿钱补人损失，赔人是及物，补某件
-事用 for；二是弥补抵消：一样东西的好处把另一样的短处补
-上。名词 compensation 既指赔偿金也指弥补，形容词
-compensatory 指补偿性的。
-① The airline compensated passengers.
-= 航空公司赔了乘客。
-compensate somebody = 赔偿某人
-② Nothing can compensate for the loss.
-= 那份损失什么都补不回来。
-compensate for = 弥补
-③ She claimed compensation.
-= 她索赔了。
-claim compensation = 索赔
-④ The extra pay was compensatory.
-= 那笔加给的钱算作补偿。
-compensatory = 补偿性的
-构词：拉丁语 compensare 权衡抵偿
-注意搭配：赔人用及物，弥补某事用 for。
-
-compère
-核心：英式的节目主持人：在演出或晚会上串场、报幕、逗
-场子的人，也作动词用。美式说 host 或 emcee。也写作
-compere，不带重音符。可数。
-① She is a natural compère.
-= 她天生是块主持的料。
-a compère = 节目主持人（英式）
-② He compered the show for years.
-= 那个节目他主持了好些年。
-compere a show = 主持节目
-③ They hired a compère for the evening.
-= 他们请了个主持人撑那晚的场。
-hire a compère = 请个主持人
-构词：法语 compère 教父、搭档
-注意拼写：也写作 compere。
-
-compete
-核心：竞争、参赛：跟别人争同一样东西或同一个名次。介词
-分工清楚：对手用 with 或 against，争的东西用 for，项目用
-in。现在分词 competing 常作形容词，competing claims 是
-彼此冲突的主张。不及物。
-① Ten teams competed.
-= 十支队伍参了赛。
-compete = 参赛
-② She competes against the world's best.
-= 她跟世界顶尖的选手较量。
-compete against = 与……较量
-③ They compete for funding.
-= 他们争同一笔经费。
-compete for = 争夺
-④ He competes in the marathon.
-= 他参加马拉松项目。
-compete in = 参加（某个项目）
-⑤ There are competing claims to the land.
-= 那块地有几方主张彼此冲突。
-competing claims = 彼此冲突的主张
-构词：拉丁语 competere 一同追求
-注意搭配：对手用 with 或 against，标的用 for。
-
-competence
-核心：两支。一是胜任的能力：做得了这件事的本事，不可数；
-二是法律上的权限：某个机关管不管得着这件事。另有个同义
-的 competency，美式与人事管理里更常用，指一项项具体能力。
-① She proved her competence.
-= 她证明了自己的本事。
-prove one's competence = 证明能力
-② The case falls outside its competence.
-= 那个案子不在它的权限之内。
-outside its competence = 超出权限
-③ The framework lists ten competencies.
-= 那套框架列了十项能力。
-a competency = 一项具体能力
-构词：拉丁语 competens 相称、够格
-注意分工：competency 多用在人事与美式语境里。
-
-competent
-核心：两支，跟名词的两支对应。一是够格的、干得了的：
-不是出色，是够用，说人也说活儿；二是法律上有权管辖的、
-有行为能力的。副词 competently，反义 incompetent。
-① He is a competent driver.
-= 他开车够格。
-competent = 够格的、干得了的
-② The work is competent but dull.
-= 那活儿做得规矩但没意思。
-competent = 达标而已的
-③ The competent authority must approve.
-= 须由主管机关批准。
-the competent authority = 主管机关
-④ She handled it competently.
-= 她处理得很到位。
-competently = 称职地
-⑤ She is competent in three languages.
-= 她三门语言都过关。
-be competent in = 在……上够格
-构词：拉丁语 competens 相称的
-注意语气：说作品够格，其实是不高的评价。
-
-competition
-核心：两支。一是竞争这件事，不可数，in competition with
-是与……竞争；二是比赛、竞赛，可数。加了定冠词的 the
-competition 还常指对手们这个整体。
-① Competition keeps prices down.
-= 竞争把价格压住了。
-competition = 竞争
-② She entered a photography competition.
-= 她报了个摄影比赛。
-a competition = 比赛
-③ They are in competition with each other.
-= 他们互相竞争。
-in competition with = 与……竞争
-④ We need to watch the competition.
-= 我们得盯着同行对手。
-the competition = 对手们
-构词：compete 竞争 + -ition
-注意用法：作竞争讲不可数，作比赛讲可数。
-
-competitive
-核心：三支。一是竞争激烈的，说行业与考试；二是有竞争力
-的，说价格与产品拿得出手；三是说人好胜争强。副词
-competitively，名词 competitiveness。
-① It is a competitive market.
-= 那是个竞争激烈的市场。
-a competitive market = 竞争激烈的市场
-② Our prices are competitive.
-= 我们的价格有竞争力。
-competitive prices = 有竞争力的价格
-③ She is fiercely competitive.
-= 她争强好胜得厉害。
-competitive = 好胜的
-④ The goods are competitively priced.
-= 那些货定价有竞争力。
-competitively priced = 定价有竞争力的
-⑤ Competitiveness has fallen.
-= 竞争力下降了。
-competitiveness = 竞争力
-构词：compete 竞争 + -itive
-注意语气：说人好胜是褒是贬，全看上下文。
-
-competitor
-核心：两支。一是参赛者；二是竞争对手，商业上最常用，
-多指对手公司。可数。
-① Fifty competitors lined up.
-= 五十名参赛者站上了起跑线。
-a competitor = 参赛者
-② Our main competitor cut prices.
-= 我们最大的对手降价了。
-a competitor = 竞争对手
-③ She studied the competitors carefully.
-= 她把对手一一研究了个遍。
-study the competitors = 研究对手
-构词：compete 竞争 + -itor
-注意用法：商业语境里多指对手公司。
-
-compilation
-核心：两支。一是编纂这件事，不可数；二是编成的东西：
-选集，a compilation album 是精选辑，可数。
-① The compilation took three years.
-= 编纂花了三年。
-compilation = 编纂
-② She released a compilation album.
-= 她出了张精选辑。
-a compilation album = 精选辑
-③ It is a compilation of essays.
-= 那是本文章选集。
-a compilation of = ……的选集
-构词：compile 编纂 + -ation
-注意用法：作编纂讲不可数。
-
-compile
-核心：两支。一是把材料收集起来编成一份东西：名单、报告、
-词典；二是计算机里把源代码编译成机器跑得动的程序。人或
-程序都叫 compiler：编纂者，也指编译器。及物。
-① They compiled a list of names.
-= 他们编了份名单。
-compile a list = 编一份名单
-② The dictionary was compiled over decades.
-= 那部词典编了几十年。
-be compiled = 被编纂
-③ The code compiles cleanly.
-= 那段代码编译起来一个错都没有。
-compile = 编译
-④ The compiler flagged two errors.
-= 编译器报了两个错。
-a compiler = 编译器；编纂者
-构词：拉丁语 compilare 搜罗
-注意用法：编译那一支也可以不及物。
-
-complacent
-核心：自满的：觉得自己已经够好了，于是不再使劲，带贬义，
-重点在「不该松劲的时候松了」。名词 complacency，副词
-complacently。
-① Do not get complacent.
-= 别自满松劲。
-get complacent = 自满松劲
-② A complacent smile crossed his face.
-= 他脸上掠过一丝自得的笑。
-complacent = 自得的
-③ Complacency cost them the title.
-= 自满让他们丢了冠军。
-complacency = 自满
-④ She nodded complacently.
-= 她自得地点了点头。
-complacently = 自得地
-构词：拉丁语 complacere 使满意
-注意别混：跟表示一味迁就的那个近形词意思不同。
-
-complain
-核心：抱怨、投诉：把不满说出来。介词分工：内容用 about
-或 of，对象用 to。complain of 还专用在说身体不适。法律上
-提出控告的一方叫 complainant。不及物。
-① She complained about the noise.
-= 她投诉噪音。
-complain about = 抱怨
-② He complained to the manager.
-= 他向经理投诉。
-complain to = 向……投诉
-③ The patient complained of dizziness.
-= 病人说头晕。
-complain of = 诉说（身体不适）
-④ The complainant withdrew the case.
-= 原告撤了案。
-a complainant = 原告、投诉人
-构词：拉丁语 complangere 捶胸哀叹
-注意搭配：说身体不适用 of，不用 about。
-
-complaint
-核心：三支。一是投诉、抱怨的话，可数；二是投诉这件事，
-不可数；三是偏旧的「小病」。常见搭配 make a complaint、
-lodge a complaint。
-① She made a formal complaint.
-= 她正式投诉了。
-make a complaint = 提出投诉
-② They lodged a complaint with the board.
-= 他们向董事会提交了投诉。
-lodge a complaint = 提交投诉
-③ He has a stomach complaint.
-= 他有胃病。
-a complaint = 小病（偏旧）
-④ I have no cause for complaint.
-= 我没什么可抱怨的。
-cause for complaint = 抱怨的理由
-构词：complain 抱怨 + -t
-注意语域：第三支偏旧。
-
-complaisant
-核心：一味迁就的、有求必应的：为了让人高兴而顺着人，
-带点软弱的味道。名词 complaisance。正式偏旧，今天多在
-文学里读到。
-① He was too complaisant to object.
-= 他太好说话，提不出异议。
-complaisant = 一味迁就的
-② Her complaisance was mistaken for weakness.
-= 她的顺从被当成了软弱。
-complaisance = 一味迁就
-③ A complaisant husband asks no questions.
-= 一个万事顺着的丈夫什么也不问。
-a complaisant husband = 万事顺着的丈夫
-构词：法语 complaisant 讨人喜欢的
-注意别混：跟表示自满的那个近形词是两码事。
-
-complected
-核心：美式的形容词，只跟表示深浅的词连用说肤色：
-dark-complected 深肤色的、light-complected 浅肤色的。
-标准英语更常说 complexioned，不少人认为这个形式不规范。
-① He is dark-complected.
-= 他肤色偏深。
-dark-complected = 深肤色的（美式）
-② She described a light-complected man.
-= 她描述了个浅肤色的男人。
-light-complected = 浅肤色的
-③ The witness was described as fair-complected.
-= 目击者被描述成浅肤色。
-fair-complected = 浅肤色的（美式）
-构词：由 complexion 肤色反推而来
-注意语域：美式口语，正式写作里避开。
-
-complement
-核心：底层是「补齐使完整」，跟那个表示称赞的同音词只差
-一个字母，是两回事。名词一是补足的东西；二是满员的编制；
-三是语法里的补语。动词是与……相配、补足。形容词
-complementary 是互补的；语言学里 complementation 指补语
-结构，complementizer 指引导补语从句的那个连词。
-① The wine is a fine complement to the dish.
-= 那款酒跟这道菜很配。
-a complement to = 与……相配的东西
-② The ship has its full complement.
-= 那条船人员满编。
-a full complement = 满员编制
-③ The verb takes a complement.
-= 那个动词要带补语。
-a complement = 补语
-④ The colours complement each other.
-= 那几种颜色互相衬。
-complement = 补足、相衬
-⑤ They have complementary skills.
-= 他们的本事互补。
-complementary = 互补的
-⑥ The chapter covers complementation.
-= 那一章讲补语结构。
-complementation = 补语结构
-⑦ That word is a complementizer.
-= 那个词是引导补语从句的连词。
-a complementizer = 补语从句引导词
-构词：拉丁语 complementum 补足之物
-注意别混：跟那个表示称赞的同音词只差一个字母。
-
-complete
-核心：形容词两支：一是完整齐全的；二是彻底的，只放在
-名词前加强语气。动词是完成，也指把表格填完整。副词
-completely，名词 completeness 与 completion，后者在英国
-房产交易里专指交割。
-① The set is now complete.
-= 那套东西现在齐了。
-complete = 齐全的
-② He is a complete stranger.
-= 他完全是个陌生人。
-a complete stranger = 全然陌生的人
-③ Please complete the form.
-= 请把表填完整。
-complete a form = 填完表格
-④ She completely forgot.
-= 她全忘了。
-completely = 完全地
-⑤ The completeness of the record surprised us.
-= 那份记录之完整让我们意外。
-completeness = 完整
-⑥ Completion is due in March.
-= 三月完工交割。
-completion = 完成；房产交割
-构词：拉丁语 complere 填满
-注意用法：作「彻底的」讲时只能放名词前。
-
-complex
-核心：形容词是复杂的：由许多相关部分构成，不好拆解。
-名词两支：一是建筑群、综合体；二是心理上的情结，口语
-里也说人对某事心里有结。名词 complexity。名词的重音
-一律在第一个音节。
-① The rules are complex.
-= 那些规则很复杂。
-complex = 复杂的
-② They built a sports complex.
-= 他们盖了个体育综合体。
-a sports complex = 体育综合体
-③ He has an inferiority complex.
-= 他有自卑情结。
-an inferiority complex = 自卑情结
-④ She has a complex about her accent.
-= 她对自己的口音心里有结。
-have a complex about = 对……心里有结
-⑤ The complexity of the case grew.
-= 那个案子越来越复杂。
-complexity = 复杂性
-⑥ A complex number has a real part and an imaginary part.
-= 复数由实部和虚部两半组成。
-a complex number = 复数（数学）
-数学术语，跟这一条其余几支无关；这里的 complex 是「由两部分合成的」。
-构词：拉丁语 complexus 缠绕在一起的
-注意读音：名词重音一律在第一个音节。
-
-complexion
-核心：两支。一是面色肤色：脸上皮肤的颜色与质地；二是
-引申的性质与局面：put a different complexion on 是使
-事情变成另一回事。可数。
-① She has a fair complexion.
-= 她肤色白皙。
-a fair complexion = 白皙的肤色
-② The cream suits oily complexions.
-= 那款霜适合油性肤质。
-a complexion = 肤质
-③ That puts a different complexion on things.
-= 那么一来事情就是另一回事了。
-put a different complexion on = 使……变成另一回事
-④ The political complexion of the board changed.
-= 董事会的政治色彩变了。
-the political complexion = 政治色彩
-构词：拉丁语 complexio 结合、体质
-注意用法：第二支多用在讲局面与色彩的句子里。
