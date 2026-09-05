@@ -83,6 +83,17 @@ CHECK = {
  'cruel': ['be cruel to be kind', 'cruelty to animals'],
  'crossroads': ['at a crossroads'],
  'crossfire': ['be caught in the crossfire'],
+ 'cry': ['cry over spilt milk', 'a far cry from', 'a shoulder to cry on',
+         'cry wolf', 'cry out for'],
+ 'crush': ['have a crush on'],
+ 'crust': ['earn a crust'],
+ 'crux': ['the crux of the matter'],
+ 'crystal': ['crystal clear', 'a crystal ball'],
+ 'cud': ['chew the cud'],
+ 'cudgel': ['take up the cudgels for', "cudgel one's brains"],
+ 'cue': ['on cue', "take one's cue from"],
+ 'cuff': ['off the cuff'],
+ 'cucumber': ['as cool as a cucumber'],
  # 往下写到哪个字母段，就在这里补哪一段的大词
 }
 

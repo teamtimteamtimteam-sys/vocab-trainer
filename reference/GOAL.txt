@@ -24,13 +24,15 @@ a cut above、cry over spilt milk 之类。
 audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5425 条。ca-co 各段已收全，
-cr- 段清单 478 条、已收 261 条（54%），写到 crunch，
-下批从 crusade / crush / crust / crutch / crux / cry 一带起。
-再往后 cp 1、ct 1、cu 223、cw 4、cy 51、cz 4。
-audit-idioms 的 CHECK 已扩到 45 个大词、154 条习语；
-写完 cry / crush 之后补 cry over spilt milk、a far cry from、
-a shoulder to cry on、have a crush on。
+B 词表 5451 条。ca-co 各段已收全，
+cr- 段清单 478 条、已收 287 条（60%），写到 crystal；
+cu- 段清单 223 条、已收 22 条（9%），写到 cuisine。
+下批从 cul-de-sac / culinary / cull / culminate 一带起。
+再往后 cp 1、ct 1、cw 4、cy 51、cz 4。
+audit-idioms 的 CHECK 已扩到 55 个大词、171 条习语。
+
+【用户 2026-09-05 交代：推送也不必跟着每一轮输出走】
+本地提交照常（提交是安全网），攒到自然节点再 push。
 
 【大批量 heredoc 追加词条时的事故与教训（2026-09-05）】
 往词表文件 append 一整批时，我的草稿文字漏进了文件：
