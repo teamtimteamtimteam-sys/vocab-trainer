@@ -58,6 +58,9 @@ bagh         # 印度英语，园林
 backsheesh   # baksheesh 的少见异拼，取通行拼法立条
 babu         # 印度英语，对男性的敬称／旧指文书吏
 bachcha      # 印度英语，小孩
+countrymade  # 印度英语，土法制造的（2026-09-05，co- 段照通则剔）
+cousin brother # 印度英语，堂表兄弟（通用英语只说 cousin）
+cousin sister  # 印度英语，堂表姐妹（同上）
 backward classes # 印度英语，宪法术语「落后阶层」
 ayah         # 印度／南亚英语，保姆、奶妈（同 amah）
 askari       # 东非（斯瓦希里语借词）的士兵、警卫
