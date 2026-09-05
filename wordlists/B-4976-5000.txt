@@ -1,18 +1,3 @@
-conman
-核心：骗子：靠先取得你的信任再下手的那种，跟硬抢的不是
-一路。也写作 con man，复数 conmen。
-① The conman took her savings.
-= 那个骗子卷走了她的积蓄。
-a conman = 骗子
-② Conmen work on trust, not force.
-= 骗子靠的是取信，不是硬来。
-work on trust = 靠取得信任下手
-③ He posed as a surveyor, a classic conman trick.
-= 他冒充测量员，是骗子的老套路。
-a conman trick = 骗子的伎俩
-构词：由「信任骗局」那个词组截短，再加 man
-注意拼写：也写作 con man，复数 conmen。
-
 connect
 核心：几支。一是接上、连上：设备、线路、地方；二是把
 两件事联系起来，介词用 with；三是交通上的衔接，
@@ -433,3 +418,41 @@ consequential loss = 间接损失
 inconsequential = 无关紧要的
 构词：consequence 后果 + -ial
 注意分工：第一支偏美式，第二支是法律术语。
+
+conservancy
+核心：两支。一是自然保护机构：管一片河流、森林或自然
+区的法定或民间组织，机构名里常带这个词；二是保护自然
+资源这件事本身。可数。
+① The conservancy owns the wetland.
+= 那家保护机构拥有那片湿地。
+a conservancy = 自然保护机构
+② She works for a river conservancy.
+= 她在一家河流管理机构工作。
+a river conservancy = 河流管理机构
+③ Conservancy of the forest is their remit.
+= 保护那片林子是他们的职责。
+conservancy = 资源保护
+构词：conserve 保护 + -ancy
+注意用法：多出现在机构名里。
+
+conservation
+核心：三支，共同点是「让它保持原样」。一是自然保护；
+二是文物修复保护；三是物理学的守恒定律。做这一行的人
+叫 conservationist。不可数。
+① Conservation of the reef is urgent.
+= 保护那片珊瑚礁刻不容缓。
+conservation = 自然保护
+② She trained in paper conservation.
+= 她学的是纸质文物修复。
+conservation = 文物修复保护
+③ The law of conservation of energy holds.
+= 能量守恒定律成立。
+conservation of energy = 能量守恒
+④ Conservationists opposed the dam.
+= 环保人士反对那座坝。
+a conservationist = 环保人士
+⑤ The conservator cleaned the varnish.
+= 修复师清掉了那层清漆。
+a conservator = 文物修复师
+构词：conserve 保存 + -ation
+注意分工：三支都是让它保持原样。

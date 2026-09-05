@@ -302,3 +302,5 @@ collectorate # 印度英语，县长辖区与办公处
 colleen      # 爱尔兰英语，姑娘
 cooee        # 澳新：招呼人的喊声，词头本身属该变体
 cooldrink    # 南非英语：汽水
+corrie       # 苏格兰英语：冰斗，词头本身属该变体
+corporator   # 印度英语：市政法团成员

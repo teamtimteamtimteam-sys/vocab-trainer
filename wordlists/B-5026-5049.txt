@@ -1,63 +1,3 @@
-constant
-核心：形容词三支：一是持续不断的；二是恒定不变的；三是
-书面的「始终不渝的」，说人。名词是数学与物理里的常数。
-副词 constantly，名词 constancy 指恒定，也指忠贞。
-① The constant noise wore her down.
-= 那没完没了的噪音把她磨垮了。
-constant noise = 不间断的噪音
-② Keep the temperature constant.
-= 把温度保持恒定。
-keep something constant = 使保持恒定
-③ He was a constant friend.
-= 他是个始终不渝的朋友。
-a constant friend = 始终不渝的朋友
-④ The speed of light is a constant.
-= 光速是个常数。
-a constant = 常数
-⑤ She constantly checks her phone.
-= 她老是看手机。
-constantly = 不停地
-⑥ Her constancy surprised them.
-= 她的始终如一让他们意外。
-constancy = 恒定；忠贞
-构词：拉丁语 constare 站得稳
-注意分工：说「持续不断」和说「恒定不变」是同一个词，看上下文。
-
-constative
-核心：语言哲学术语：陈述性的。奥斯汀把话语分成两类，
-这一类描述事实、可判真假，跟施为性的那一类相对。
-① Austin contrasted constative and performative utterances.
-= 奥斯汀把陈述性话语跟施为性话语对立起来。
-a constative utterance = 陈述性话语
-② A constative statement can be true or false.
-= 陈述性的话可以判真假。
-constative = 陈述性的
-③ Later he doubted the constative distinction.
-= 后来他自己也怀疑那个划分。
-the constative distinction = 陈述与施为的划分
-构词：拉丁语 constare 确定、陈述
-注意语域：语言哲学术语。
-
-constellation
-核心：三支。一是星座；二是引申的「一批」：a constellation
-of talents 是一批人才；三是一组同时出现的特征，医学与社会
-科学里说 a constellation of symptoms。动词 constellate 偏
-文学，指散布如星。可数。
-① Orion is an easy constellation to find.
-= 猎户座很好找。
-a constellation = 星座
-② A constellation of talents gathered there.
-= 一批人才聚在了那里。
-a constellation of = 一群、一批
-③ Doctors look for a constellation of symptoms.
-= 医生找的是一组同时出现的症状。
-a constellation of symptoms = 一组症状
-④ Lights constellated the hillside.
-= 灯火像星子一样散在山坡上。
-constellate = 散布如星
-构词：拉丁语 con- 共 + stella 星
-注意用法：第二三支都说「凑在一起的一组」。
-
 consternation
 核心：惊愕沮丧：突然出事，让人又惊又慌、不知如何是好。
 常说 to somebody's consternation、in consternation。
@@ -554,3 +494,59 @@ contamination = 污染
 a contaminant = 污染物
 构词：拉丁语 contaminare 弄脏
 注意搭配：多用被动，介词用 with 或 by。
+
+contemplate
+核心：三支。一是端详：久久地看；二是沉思：在心里翻来覆去
+想；三是考虑做某事，接动名词不接不定式。名词 contemplation，
+形容词 contemplative 既指沉思的，也指宗教上默观的。
+① She contemplated the painting for an hour.
+= 她对着那幅画端详了一个钟头。
+contemplate = 端详
+② He contemplated his next move.
+= 他把下一步在心里过了一遍。
+contemplate = 细想
+③ They are contemplating moving abroad.
+= 他们在考虑移居国外。
+contemplate doing = 考虑做某事
+④ She sat in quiet contemplation.
+= 她静静坐着沉思。
+in contemplation = 在沉思中
+⑤ It is a contemplative order.
+= 那是个默观修会。
+a contemplative order = 默观修会
+构词：拉丁语 contemplari 注视、观察
+注意搭配：作考虑讲接动名词，不接不定式。
+
+contemporaneous
+核心：同期发生的：两件事落在同一段时间里，正式词，多用在
+史学与法律里，介词用 with。副词 contemporaneously。
+① The two revolts were contemporaneous.
+= 那两场起事是同一时期的。
+contemporaneous = 同期发生的
+② The letter is contemporaneous with the treaty.
+= 那封信跟条约同期。
+contemporaneous with = 与……同期
+③ The notes were made contemporaneously.
+= 那些笔记是当场同步记的。
+contemporaneously = 同期地、当场地
+构词：con- 共 + tempus 时间
+注意分工：这个只说时间同期，不说「当代的」。
+
+contemporary
+核心：三支。一是当代的：contemporary art；二是同时代的，
+介词用 with；三是名词：同代人。第四支要留神：
+a contemporary account 说的是「当时人留下的」，不是当代的。
+① She collects contemporary art.
+= 她收藏当代艺术。
+contemporary art = 当代艺术
+② Dickens was contemporary with Gaskell.
+= 狄更斯跟盖斯凯尔是同代人。
+contemporary with = 与……同代
+③ He outlived most of his contemporaries.
+= 他比同代的大多数人活得久。
+a contemporary = 同代人
+④ Contemporary accounts describe the fire.
+= 当时人的记载写到了那场火。
+a contemporary account = 当时人留下的记载
+构词：con- 共 + tempus 时间
+注意别混：第四支说的是「当时的」，不是「当代的」。

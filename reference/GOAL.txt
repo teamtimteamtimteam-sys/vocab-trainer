@@ -13,10 +13,16 @@ B 5000
 最末词条 byword。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5166 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
-co- 段清单 1958 条、已收 1203 条（61%），写到 coronet，
-下批从 corpora / corporal 一带起。
+B 词表 5193 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
+co- 段清单 1956 条、已收 1253 条（64%），写到 corvette，
+下批从 cos / cosh / cosine 一带起。
 之后 cp 1、cr 481、ct 1、cu 223、cw 4、cy 51、cz 4。
+
+【audit-swallowed 曾把带重音符的词误报成「被吞掉」（2026-09-05 已修）】
+cortège 之于 cortege 是同一个词的重音写法，coverage 的判定折过重音，
+本来就算已收；但 audit-swallowed 比对词头时没折，于是误报。
+已给它加上重音折叠。同类还有 cinéma / cinema、compère / compere。
+**闸门报错时先判断是词条写错了还是尺子错了，别条件反射去改词条。**
 
 【co- 段的同前缀雷区，动笔前必看】
 comp- / conf- / cons- / cont- / conv- / coo- / cop- / corn- / cord- / coro-

@@ -24,7 +24,13 @@ def main(argv):
     seg = argv[0].lower() if argv else None
     ref = cv.load_reference()
     got, text, entries = cv.collected()
-    heads = {h.lower().replace('’', "'") for h, _ in entries}
+    import unicodedata
+    def defold(t):
+        # 折掉重音：coverage 的判定是折过的，这里不折就会把 cortège 之于
+        # cortege、cinéma 之于 cinema 误报成「被吞掉」（2026-09-05）
+        t = unicodedata.normalize('NFD', t)
+        return ''.join(c for c in t if unicodedata.category(c) != 'Mn')
+    heads = {defold(h.lower().replace('’', "'")) for h, _ in entries}
     # 每条词条拆成「例句与等式行」与「其余行」两桶
     ex_text, note_text = {}, {}
     for h, body in entries:
@@ -40,7 +46,7 @@ def main(argv):
 
     swallowed = []
     for k, w in sorted(ref.items()):
-        lw = w.lower().replace('’', "'")
+        lw = defold(w.lower().replace('’', "'"))
         if seg and not lw.startswith(seg): continue
         if lw in heads: continue                      # 自己有词条
         if not cv.derived_covered(w, entries): continue  # 不是靠派生判定覆盖的
