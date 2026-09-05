@@ -1,283 +1,126 @@
-# 当前任务目标。status.py 会读这个文件并打印出来。
+# 当前任务目标。status.py 会读这个文件并原样打印出来。
 # 目标达成或用户改口后，直接改这里，不要写进 CLAUDE.md
 # （那份文件只写不会变的规格与规则）。
+# 【维护规则】这份文件只保留「当前现状 + 下一步 + 还没内化的教训」。
+#   写新一段之前先把过时的现状块删掉，不要往下堆 ——
+#   2026-09-05 就出过一次：文件里同时躺着三份互相矛盾的现状块，
+#   最旧的还写着「最末词条 byword」，冷启动照着做会走错。
 #
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
-B 5000
-用户 2026-09-04 交代：2500 那个目标已达成，现在继续往下写到 5000（B 词表 2501-5000）。
-这不是全新任务，是接着原来的推进节奏走，规则和裁定全部沿用，见下方。
+B 10000
 
-现状（2026-09-04 更新）：a 字母 100%；b 字母收全 —— 清单 3123 收 3074（98%），
-缺的 49 条全是待推迟条目（be 13、bi 2、bl 3、bo 8、br 5、bu 13、by 3），
-内容词还在后面字母段，等轮到了再并，不用回头补。归档区 0 条。
-最末词条 byword。
+═══ 现状（2026-09-05） ═══
+B 词表 5574 条，最末词条 czar。a、b 两个字母已收全（各剩几十条待推迟）。
+c 段整体 4224/4818（87%）：cy / cz 100%，cr 98%、ca 98%、ci 99%、
+ce 97%、ch 97%、cu 96%、cl 96%，**co 只有 73%，是唯一的大缺口**。
+交付文件 B-merged-0001-5000.txt + B-merged-5001-5574.txt。归档区 0 条。
+本地无未提交改动。
 
-【c 段大词的习语已系统补过一遍（2026-09-05）】
-scripts/audit-idioms.py 里存着清单，写完一段大词就往 CHECK 补一批再跑。
-首跑 90 条缺 34 条，已全部补上。往下写到 cr / cu 段时记得补清单：
-crack down on、crack up、cross one's mind、cut back、cut it out、
-a cut above、cry over spilt milk 之类。
+═══ 下一步 ═══
+1. **co- 段那 453 条待并入的多词条目** —— c 段唯一的大块，宿主词条都已存在。
+   按意思归组做，参照下面 cross 一家的办法。
+   `python3 scripts/coverage.py co | sed -n '/待并入/,/待推迟/p'` 看清单。
+2. 各段零头：ca 5、ce、ch、ci、cl、cr、cu 各几条（status.py 会算出来指给你）。
+   注意其中大半是「待推迟」——内容词还在后面的字母段，现在做不了，跳过。
+3. c 段收尾后进 d 段。动笔前先扫一遍 d 清单剔国别变体（见收词裁定）。
 
-【A 与 B 的一致性缺口已清零，但别再拿 A 当标尺（2026-09-05）】
-首跑 132 条我照单全收，被用户纠正：A 是初级词典，不能当高级词典的基准。
-29 条初学者脚手架已删回去，判断记在 reference/a-only.txt。
-audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
+═══ 每批必跑的七道闸门 ═══
+check-wordlist.py → coverage.py <段> → audit-depth.py <段>
+→ audit-swallowed.py → audit-padding.py → audit-ab.py → audit-idioms.py
+其中五道在 .githooks/pre-commit 里，会真的拦提交。
+· 往已有词条补义项用 scripts/add-sense.py（它会拒绝重复例句），补完跑 renumber.py。
+· 分批文件改过之后要跑 merge-wordlist.py 重新生成合并交付文件，
+  否则 B-merged-*.txt 会跟分批文件对不上。删旧的合并文件用 rm，**不要用 git rm**
+  （它遇到有本地改动的文件会拒绝，&& 短路，结果把旧文件提交进去）。
+· **闸门报错时先判断是词条写错了还是尺子错了。** 本轮有三次是尺子错了，
+  改的是脚本不是数据：codex/codices（拉丁复数）、cortège/cortege（重音折叠）、
+  cycle/recycle（recycle 自己就是词头）。
 
-当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5574 条。**cy / cz 两段 100% 收全，cu 96%、cr 98%。**
-c- 段整体 4224/4818（87%），缺 594 条 ——
-**其中 co- 段的 453 条待并入多词条目是唯一的大块**，
-其余各段只剩零头（ca 12、ce 5、ch 19、ci 1、cl 13、cr 8、cu 8），
-且多是待推迟条目（内容词在后面字母段，等收到再并）。
-**下一步：co- 段那 453 条待并入，按意思归组做，参照 cross 一家的办法。**
-做完 c 段就收尾，之后进 d 段。
+═══ 用户 2026-09-05 的三条交代 ═══
+· 推送不必跟着每一轮输出走。本地提交照常（提交是安全网），攒到自然节点再 push。
+· 交付文件每 5000 条一个，不再合成单一大文件。5001 起单独一个，
+  写到 10000 时再切下一个，以此类推。iPad 上前一个不用重传。
+· **A 是初级词典，不能拿来当高级词典 B 的标尺。**
+  audit-ab 只是一致性检查，不是收词依据；衡量 B 收全没有要用 audit-idioms。
+  29 条只对初学者有意义的脚手架已删回去，判据记在 reference/a-only.txt。
 
-【一次并入几十条时按意思归组，别一条一个义项】
-cross 一家有 48 个复合词。做法是按意思归成十几组，
-一组一个例句、底下并列几条等式（跨境那组放 cross-border 与
-crosstown，杂交那组放 cross-breed / cross-pollinate /
-cross-fertilize）。这样词条读得下去，也不会把义项撑成散沙。
-cr 段就是这么从 71% 推到 98% 的。
-
-【写小词条时最容易犯的错：第三义项凑不出来就写元评论】
-这一批 16 个冷僻小词里，一次就被 audit-padding 拦下 6 条 ——
-cremains、crème brûlée、crept、crier、cripes、cromlech，
-全是第三条例句里没有词头（「The word softens a stronger
-oath.」这种）。**明知故犯已经好几轮了。**
-动笔时的自查：写完一条先扫一眼，每个 ① 里有没有那个词。
-
-【audit-ab 的判据又收紧了一次（2026-09-05）】
-它曾报「cycle 缺 recycle」—— 但 recycle 本身就是 OALD 的词头，
-B 迟早会给它单独立条，那是分工不是漏。现在凡是清单里本身
-就是词头的条目一律跳过，交给 coverage 去管。检查数从 534
-降到 340，两把尺子的分工干净了：
-**audit-ab 只管「A 教过而 B 哪儿都没有的搭配」，
-独立词头归 coverage。**
-
-【写之前先把习语清单列好，比写完回头补省事（2026-09-05 验证）】
-连着两批都是先往 audit-idioms 的 CHECK 里补一段的清单，再动笔，
-结果这两批一条习语都没漏。以前是写完跑清单、再回头补，
-每次都要多花一轮。
-
-【用户 2026-09-05 交代：推送也不必跟着每一轮输出走】
-本地提交照常（提交是安全网），攒到自然节点再 push。
-
-【大批量 heredoc 追加词条时的事故与教训（2026-09-05）】
-往词表文件 append 一整批时，我的草稿文字漏进了文件：
-整批 32 条被写了两遍、混进 4 行英文思考、1 个 <invoke> 标签、
-1 行核对笔记，craw 条里还留了一句「Hmm，这条没有词头。换：」。
-check-wordlist 全部拦下了（首行不像单词、跨批重复、编号不连续），
-**没有一条脏数据进得了库** —— 闸门是管用的。
-清理办法：先按空行切块删重复词条与假词条，再删散落的行，
-最后 resplit + renumber。
-**教训：追加之后先跑 check-wordlist 再跑 resplit** ——
-resplit 会把污染打散到多个文件里，定位起来麻烦得多。
-
-【写完 cr 段的大词要往 audit-idioms 的 CHECK 里补清单】
-crack down on、crack up、at the crack of dawn、crack a joke、
-cross one's mind、cross swords、cross the line、at cross purposes、
-cry over spilt milk、a far cry from、cut back、cut down、cut in、
-cut it out、a cut above、cut both ways。
-
-【c 段大词的习语已系统补过一遍（2026-09-05）】
-scripts/audit-idioms.py 里存着清单，写完一段大词就往 CHECK 补一批再跑。
-首跑 90 条缺 34 条，已全部补上。往下写到 cr / cu 段时记得补清单：
-crack down on、crack up、cross one's mind、cut back、cut it out、
-a cut above、cry over spilt milk 之类。
-
-【A 与 B 的一致性缺口已清零，但别再拿 A 当标尺（2026-09-05）】
-首跑 132 条我照单全收，被用户纠正：A 是初级词典，不能当高级词典的基准。
-29 条初学者脚手架已删回去，判断记在 reference/a-only.txt。
-audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
-
-当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5280 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
-co- 段清单 1957 条、已收 1402 条（71%），写到 coyote，
-下批从 cozy / crab 一带起 —— co- 段快收完了，之后进 cr 段（481 条）。
-再往后 cp 1、ct 1、cu 223、cw 4、cy 51、cz 4。
-
-【c 段大词的习语已系统补过一遍（2026-09-05）】
-scripts/audit-idioms.py 里存着清单，写完一段大词就往 CHECK 补一批再跑。
-首跑 90 条缺 34 条，已全部补上。往下写到 cr / cu 段时记得补清单：
-crack down on、crack up、cross one's mind、cut back、cut it out、
-a cut above、cry over spilt milk 之类。
-
-【A 与 B 的一致性缺口已清零，但别再拿 A 当标尺（2026-09-05）】
-首跑 132 条我照单全收，被用户纠正：A 是初级词典，不能当高级词典的基准。
-29 条初学者脚手架已删回去，判断记在 reference/a-only.txt。
-audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
-
-当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5250 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
-co- 段清单 1956 条、已收 1346 条（68%），写到 county，
-下批从 coup / coupe / couple 一带起。
-之后 cp 1、cr 481、ct 1、cu 223、cw 4、cy 51、cz 4。
-
-【交付文件：每 5000 条一个（用户 2026-09-05 改口）】
-不再合成单一大文件。跑 `python3 scripts/merge-wordlist.py B 5000`：
-  B-merged-0001-5000.txt   5000 条  3.40 MB
-  B-merged-5001-5137.txt    137 条  0.10 MB
-写到 10000 时自然切出第三个。iPad 上前一个不用重传。
-分批文件一改动就要重跑，删旧文件用 rm 不要用 git rm。
-
-
-【2026-09-05 闸门加到五件套，第五道是 audit-padding】
-用户质疑批量写会不会掉质量，量下来发现真问题不是批量，是冷僻词：
-真实义项只有一两个，我却习惯凑够三个，末尾那条就写成
-「这个词很旧 / 它能长多大 / 美国人怎么拼」，再挂个不相干的等式。
-全表 20140 个义项里查出 424 条这种假义项，已全部清掉：
-纯语域说明的删（16 条），有实质内容的改写成真正用到词头的句子（77 条），
-其余 326 条直接删 —— 删完覆盖数 8920 一条没掉，证明它们本来就没在教东西。
-现在全表 0 条，钩子会拦，别再犯。
+═══ 还没内化的三个错，动笔时自查 ═══
+【一】冷僻词凑不出第三义项就写元评论 —— 这是最顽固的一个
+真实义项只有一两个时，我习惯凑够三个，末尾那条就写成「这个词很旧 /
+它能长多大 / 美国人怎么拼」，再挂个不相干的等式。全表查出过 424 条这种
+假义项（删 326、改写 77、删语域说明 16），删完覆盖数一条没掉 ——
+证明它们本来就没在教东西。清完之后**又反复重犯**：cremains、crème brûlée、
+crept、crier、cripes、cromlech、cyclone、cynosure、cum、cunt。
 **冷僻词就写两个义项，两个是硬底线，不是凑数的起点。**
+动笔自查：写完一条先扫一眼，每个 ① 例句里有没有那个词本身。
 
-【每批写完跑五件套】
-check-wordlist → coverage → audit-depth → audit-swallowed → audit-padding
-往已有词条补义项用 scripts/add-sense.py，补完跑 renumber.py。
-分批文件改过之后要跑 merge-wordlist.py 重新生成合并交付文件，
-否则 B-merged-*.txt 会跟分批文件对不上。
+【二】多词条目并入，字面必须连着 —— 已经栽过五六轮
+coverage 按连续字符串搜。写成「call somebody away」「chat somebody up」
+一个都不认。除了自然的带宾语例句，一定另留一行让原形字面连着出现
+（讲解行或等式行都行，例如「chat up 的宾语放在中间」）。
+带重音符的借词（cinéma-vérité、café、caffè latte、cause célèbre）
+还要另留一个不带重音的写法 —— 搜索串是折过重音的，两边对不上。
 
-【2026-09-05 闸门加到四件套：audit-swallowed】
-第三次栽在同一个坑上（carriage 被 car 吞、camphor 被 camp 吞、
-comfort 被 comfit 的「注意别混」吞）之后写了 scripts/audit-swallowed.py。
-它查的是：清单里的词被 coverage 的 derived_covered 判成已收，
-但在宿主词条里只出现在核心块 / 构词行 / 注意行，没有配例句与等式 ——
-那不是合法并入，是被顺嘴提了一句就误判，那个词从此再不会出现在
-待新写里。首次全表跑出 65 条，已全部修掉（多词条目补真义项，
-派生形式补等式行，不该并的把宿主那行的字面换成中文描述）。
-**每批写完按 check-wordlist → coverage → audit-depth → audit-swallowed
-四步跑。** 往已有词条尾部补义项用 scripts/add-sense.py（它把新义项插在
-最后一个编号之后的收尾行前），补完跑一遍 renumber.py。
+【三】三字母 / 四字母同前缀词根会「吃掉」别的词
+coverage 的派生判定只看词根前四个字母。在 car / cap / cam / cat / cut
+这类词条里顺手写出 carriage、camera、campaign 的字面，那些词就被判成
+已覆盖，从此永远不出现在待新写里，无声无息地漏掉。
+**提到任何同前缀词之前，先确认它自己已经有词条**；没有就改成中文描述
+（「跟表示吟诵的那个词」）。同理，往已有词条里插内容时，锚点要用那条
+独有的字符串（词头本身、或带词头的等式行），不要用构词行、注意行 ——
+castle 的三个义项就因此插进了 castellated。
+
+═══ 几条管用的做法 ═══
+【一次并入几十条时按意思归组，别一条一个义项】
+cross 一家有 48 个复合词。做法是按意思归成十几组，一组一个例句、
+底下并列几条等式（跨境那组放 cross-border 与 crosstown，杂交那组放
+cross-breed / cross-pollinate / cross-fertilize）。这样词条读得下去，
+也不会把义项撑成散沙。cr 段就是这么从 71% 推到 98% 的。co- 段照这个做。
+
+【写之前先把习语清单列好，比写完回头补省事（已验证）】
+先往 audit-idioms.py 的 CHECK 里补下一段的清单，再动笔 ——
+连着两批一条习语都没漏。以前写完跑清单再回头补，每次都要多花一轮。
+现在 CHECK 里有 74 个词、206 条习语。
+
+【大批量 heredoc 追加词条：先跑 check-wordlist，再跑 resplit】
+往词表 append 一整批时我的草稿文字漏进过文件（整批 32 条写了两遍、
+混进英文思考、<invoke> 标签、核对笔记）。check-wordlist 全部拦下了。
+**顺序很重要：resplit 会把污染打散到多个文件里，定位起来麻烦得多。**
+
+【英美拼法成对的词，靠同前缀并入省一半条目】
+centre / center 一族全并进 centre 一条（center 以 cent 打头，并得上）。
+但第四个字母就分岔的对不上：caecum/cecum、coeliac/celiac、caesium/cesium
+都得各立一条。判断办法：动笔前先比前四个字母。
 
 【并入脚本的编号表必须从 check-wordlist 导入，不要手写】
-这一轮并入时手写了一张只到 30 的编号表，脚本跑到 call（49 义项）
-当场 IndexError，而且**崩溃前已经写了一部分文件**。补救办法是让
-脚本按「这组内容的第一条等式是否已在正文里」跳过已并的宿主，
-再重跑。以后一律 `spec_from_file_location` 导入 check-wordlist 的
-NUMS（80 个），并保留那道跳过判断，脚本才可以安全重跑。
+手写一张只到 30 的编号表，脚本跑到 call（49 义项）当场 IndexError，
+而且崩溃前已经写了一部分文件。一律 spec_from_file_location 导入
+check-wordlist 的 NUMS（80 个），并保留「这组第一条等式是否已在正文里」
+的跳过判断，脚本才可以安全重跑。
 
-【2026-09-04 新发现：带重音符的多词条目，正文里要留一个不带重音的写法】
-cinéma-vérité 并进 cinema 条之后 coverage 仍报缺。原因是它的搜索串
-是 sort_key 折过重音之后的（é 折成 e），而正文里写的是带重音符的
-原形，两边对不上。解法：除了正确的带重音写法，另留一行提到英语里
-常见的不带重音写法（英语本来就常把这类借词的重音符省掉）。
-同类要留意的词：café / cafè、chargé d'affaires、cause célèbre、
-caffè latte、à la carte 一族 —— 凡是清单里带重音符的多词条目都受影响。
+═══ 收词裁定 ═══
+· 印度食物名一律不收。
+· 国别变体词头一律剔除（澳新、苏格兰、北英格兰、爱尔兰、印度、南非、
+  东非同等对待；本轮把威尔士也按同一条办了，cwtch、crowdie 剔掉了 ——
+  **这条外推还没经用户确认，可回退**）。只剔词头本身属该变体的；
+  通用词的某个义项属该变体、以及澳新的动植物名，都留着。
+· 词缀、全大写缩写、小写排版缩写（cont.、cp.、cwt）、商标、纯专名不收。
+· 拿不准就收。
+· 动笔前先扫一遍整段清单一次性剔干净，别边写边判 —— 会反复停下来查，还容易漏。
 
-【多词条目并入：字面必须连着，这一段又栽了六次】
-chat up / cheat of / cheat out of / cheer on / chalk up to /
-charm out of —— 我都写成了带宾语的形式（chat somebody up），
-coverage 按连续字符串搜，一个都不认。这是第四轮重复同一个错。
-**下次动笔前先定死写法**：并入短语动词时，除了自然的带宾语例句，
-一定另留一行讲解，让不带宾语的原形字面连着出现，例如
-「chat up 的宾语放在中间」。写完立刻用
-`coverage.py <段> | sed -n '/待并入/,/待推迟/p'` 复查。
+═══ 等式行（务必读完再动笔） ═══
+等式行只在真有可复用的短语 / 搭配 / 习语时才写（come across = 偶然发现、
+back a horse = 押注某匹马）—— 这类脱离例句依然成立。曾经批量回填过 348 处
+「把例句译文倒过来抄一遍」的假等式（"Is anybody there?" → "anybody there =
+有人吗"），被用户当场打回，全部撤销。凑不出自然短语就**如实留空**，
+不要用整句硬凑（app 的 L1/L4 会自动跳过缺等式的义项，退到 L3，不影响功能）。
+另外：两个义项的等式右侧文字**完全相同是安全的**，不用刻意改写去「避免撞车」——
+app 用精确字符串匹配去重，文字相同的两条永远不会被同时抽进一道题。
+刻意改成字面不同但意思相同的说法，反而会让去重失效，比什么都不做更糟。
 
-【ch- 段的前缀陷阱比 ca- 段更密，动笔前必看】
-ch- 里有好几组「四个字母相同但不同源」的词挤在一起：
-· chan-：change / channel / chant / chanterelle / chanteuse /
-  chantey / chantry / changeling —— 前四个字母全是 chan，
-  写 change 或 chant 的条目时**绝不能提到另外几个的字面**，
-  提了 coverage 就判成已覆盖，那几条会永久漏收。
-· chap-：chap / chapel / chaperone / chaplain / chapter
-· char-：char / charabanc / character / charade / charcoal /
-  chard / charge / charity / charm / chart / charter / chary
-每写一条这类词，先问一句：我提到的那个同前缀词，自己有条目吗？
-没有就别写它的字面，改成中文描述（例如「跟表示吟诵的那个词」）。
+═══ 核心块 ═══
+核心块讲的是**那个词**，不是那个东西。一句话判据：
+讲那个「东西」的删（它能长到两米、它产于地中海），讲那个「词」的留
+（这个词只用于书面、这个词后面接 that 从句、这个词跟另一个词怎么区分）。
 
-【ch- 段动笔前先剔变体，别边写边纠结】
-ch- 清单原有 676 条，里面有 23 条是印度英语词头（chaap、chaat、
-chana、chapatti、chappal、charpoy、chowk、churidar、chup 等）、
-澳新词头（chook、chunder）与专名伪影（christie's）。
-已按国别变体通则一次性写进 exclude.txt，清单降到 653 条。
-**下一段（ci / cl / co / cr / cu）也先扫一遍清单剔变体再动笔** ——
-边写边判会反复停下来查，而且容易漏。
-
-【ce- 段的经验：英美拼法成对的词，靠同前缀并入省下一半条目】
-centre / center 一族（centred·centered、centrefold·centerfold、
-centrepiece·centerpiece、centreboard·centerboard）全并进 centre 一条，
-每个美式拼法配一句自然例句 —— 因为 coverage 的派生判定只看
-「词根前四个字母」，center 以 cent 打头，所以并得上。
-但第四个字母就分岔的对不上：caecum/cecum、coeliac/celiac、
-caesium/cesium、caesarean/cesarean 都得各立一条（各写三义，
-注明另一种拼法是哪边）。判断办法：动笔前先比前四个字母。
-
-【ca- 段的收尾办法，下一段照做】
-词条写完后 coverage 会剩下一大批「待并入已有词条」（ca- 剩了 98 条），
-那是多词条目，宿主就在本段。收尾时一次性并进去，每条配例句加等式行。
-两件必须注意的：
-· 插入锚点要用「最后一个编号义项之后的第一行 构词/注意」——直接找
-  第一行 构词/注意 会插错，calendar 的核心块里就有一行以「注意」开头，
-  两个新义项被插到 ①②③④ 前面去了，是 check-wordlist 的编号连续性
-  检查抓出来的。
-· 并完跑 audit-depth：一口气加十几个义项会把「讲解行/义项」压到 1.5
-  以下（capital、card、care、case、catch 五条都被拦了），要补讲解行，
-  不要去调基线。
-
-【2026-09-04 又一个改错位置的坑：同一批里两条词的构词行一字不差】
-给 castle 补义项时用「构词：拉丁语 castellum 小城堡」当锚点做替换，
-castellated 的构词行跟它完全相同、又排在前面，于是三个义项插进了
-castellated。check-wordlist 照样全过（格式没错），是 audit-depth
-仍报 castle 只有 3 义项才露出来。
-**教训：往已有词条里插内容，锚点要用那一条独有的字符串（词头本身、
-或带词头的等式行），不要用构词行、注意行这类多条共用的句式。**
-
-【并入多词条目时，字面必须连着 —— 已经栽过三次】
-call away 写成「call somebody away」、carry back 写成「carry
-somebody back」，coverage 都判成没并入。它按连续字符串搜，
-中间插了 somebody 就不认。写并入时除了带宾语的自然例句，
-另留一行让原形字面连着出现（讲解行或等式行都行）。
-
-【2026-09-04 三字母词根的雷我自己踩了一次，记下过程】
-写 car 时在核心块里写了「英式说 carriage」，car 是三字母词根，
-coverage 当场把 carriage 判成 car 的派生、算作已收 —— 而 carriage
-根本还没有词条，就这么无声无息地从缺口报告里消失了。
-是 audit-depth 拦下 car 讲解偏少、我回头核对时才发现的。
-**教训：三字母词根（car / cap / cam / cat / cut / cow…）的条目里
-提到任何同前缀的词，都必须先确认那个词已经有自己的词条。**
-查法：写完立刻 `coverage.py <段> | grep -c '\bthat-word\b'`，
-报 0 就是被吃掉了。
-
-【call- 那批前缀误猜已处理完】calligraphy、calliper、callisthenics、
-callous、callow、callus 全部另立词条，各写了一行「注意别混」，
-一个都没并进 call。往下遇到同类（cant / canter / canton 之于 can，
-caper 之于 cape 等）照这条办：先看词源是不是真同源，不同源就单列。
-
-ca- 段已踩到的坑（都在 CLAUDE.md 里有记载，写下去还会遇到）：
-· 并入要看词根前四个字母。caff 之于 cafe、caning 之于 cane 都因为
-  第四个字母不同而并入失败，coverage 照样报缺 —— 这类一律单列。
-  已单列的有 caff、caning。
-· 一立条就可能把不同源的词吸成「派生」：caff 吸 caffeine、
-  call 吸 calligraphy 一族、cam（三字母词根）会吸一切 cam- 开头的词。
-  三字母词根的条目里千万别顺手写出 camera、camel、campaign 这类词，
-  写了 coverage 就当已覆盖，那批词会永久漏收。
-· 多词条目要写出**字面连着的那个形式**才算覆盖。call away 第一次写成
-  「call somebody away」判成没并入，改出字面才认。
-
-每批 12 条（用户 2026-09-04：不影响质量的前提下可增加每批义项数量；
-再往上加会摊薄质量）。写完跑 check-wordlist.py → coverage.py <段>
-→ audit-depth.py <段> 三件套再继续。
-
-两条收词裁定：印度食物名一律不收；国别变体词按 reference/exclude.txt 表头那条判据走。
-
-【2026-09-04 等式行的教训，务必读完再动笔】
-B 词表曾经批量回填「等式行」（英文=中文，既是词义标签也是 L1/L4 出题的答案键），
-结果被用户当场打回——机械回填出的等式行大量是把例句译文倒过来抄一遍
-（如 "anybody there = 有人吗"，就是把 "Is anybody there? = 有人吗？" 硬套成等式），
-读起来生硬，且没有脱离例句的独立价值。全部 348 处已撤销。
-**写新词条时，等式行只在真有可复用的短语/搭配/习语时才写**（如 come across = 偶然
-发现、back a horse = 押注某匹马）——这类等式脱离例句依然成立。纯陈述句、语法功能词
-（介词、代词 anybody/anyone 这类）如果没有天然可提炼的短语，等式行宁可空着，不要
-硬翻译整句凑数。这不是走回老路——每义项至少一行等式仍是硬性要求，只是"凑不出
-自然短语"时不要用整句硬凑，去看这个义项是不是真的没有可提炼的搭配，没有就如实
-留空（app 那边 L1/L4 会自动跳过缺等式行的义项，退到 L3，不影响功能）。
-
-另外：两个不同义项的等式右侧文字**完全相同**是安全的，不用刻意改写成不同措辞
-去"避免撞车"——app 的出题代码本来就用精确字符串匹配去重，文字相同的两个义项
-永远不会被同时抽进同一题的选项里。刻意改写成字面不同但意思相同的说法，反而会
-让系统的精确匹配失效，变成选项里出现两个不同措辞但同一个意思的选项，比什么都
-不做更糟。别再犯这个错。
-
-【2026-09-04 收词边界补裁，已落到 exclude.txt 表头与 CLAUDE.md】
-澳新、苏格兰、北英格兰、爱尔兰、印度英语同等对待：词头属这些变体的一律剔除。
-只剔词头本身属该变体的；通用词的某个义项属该变体、以及澳新的动植物名，都留着。
+每批 12 条起（用户 2026-09-04：不影响质量的前提下可增加，再往上加会摊薄质量）。

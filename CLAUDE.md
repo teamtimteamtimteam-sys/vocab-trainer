@@ -319,6 +319,12 @@ python3 scripts/pull-pending.py --prune       # 清理已收录的归档条目
 python3 scripts/merge-wordlist.py A 3000      # 合并成可导入的大文件
 ```
 
+**追加一整批之后，先跑 check-wordlist，再跑 resplit-b —— 顺序不能反。**
+用 heredoc 往词表 append 时草稿文字漏进过文件（整批被写了两遍、混进英文
+思考、`<invoke>` 标签、核对笔记）。check-wordlist 每一处都拦下来了，但如果
+先 resplit，污染会被打散到好几个分批文件里，定位和清理都麻烦得多。
+趁它还只在一个文件里的时候查。
+
 **同一个义项不许写两遍（2026-09-05，用户问出来的）。**
 一个编号只配一句例句，这是格式；但语义上曾出现两个编号讲同一件事 ——
 booger 与 bargain 里各有两条一模一样的例句，都是我用 add-sense.py
