@@ -292,6 +292,14 @@ a cookshop = 熟食铺
 ⑬ Copper cookware conducts heat well.
 = 铜炊具导热好。
 cookware = 炊具
+⑭ The hospital uses a cook-chill system.
+= 那家医院用的是熟制速冷的供餐系统。
+cook-chill = 熟制后速冷冷藏（一种供餐方式）
+做好立刻降温冷藏，开饭前再加热；医院与航空配餐常用。
+⑮ He cooked up a story about a puncture.
+= 他编了套爆胎的说法。
+cook up = 临时编造（借口、说法）；也指匆匆做点吃的
+编造那一支带贬义，宾语常是 story、excuse、scheme。
 构词：拉丁语 coquus 厨子
 注意别混：英式 cooker 指灶具，不指人；做饭的人是 cook。
 
@@ -429,6 +437,10 @@ be cooped up = 被关在窄地方
 ③ He flew the coop before dawn.
 = 他天没亮就溜了。
 fly the coop = 溜之大吉
+④ Don't coop the children up all day.
+= 别把孩子整天关在屋里。
+coop up = 把人或动物关在窄地方
+主动式少见，日常几乎总用被动的 be cooped up；宾语放在中间。
 构词：中古英语 cupe 篮筐
 注意用法：动词多用被动。
 
@@ -495,6 +507,10 @@ coordination = 协调性
 ⑤ The coordinator chased everyone up.
 = 协调人挨个催了一遍。
 a coordinator = 协调人
+⑥ The sentence has two coordinate clauses.
+= 那个句子有两个并列分句。
+a coordinate clause = 并列分句
+语法术语，指由并列连词连起来、地位对等的两个分句。
 构词：co- 共 + ordinate 排列
 注意读音：动词重音在后，名词重音在前。
 

@@ -383,6 +383,10 @@ triangle = 三角形
 ⑨ Cut it at a right angle.
 = 按直角切。
 a right angle = 直角
+⑩ Two complementary angles add up to ninety degrees.
+= 两个互余角加起来是九十度。
+complementary angles = 互余角（相加九十度）；supplementary angles = 互补角（相加一百八十度）
+几何里成对的两个名目。注意拼 complementary，跟表示赞美与赠送的那个近形词不是一个字。
 
 angler
 核心：指用鱼竿钓鱼的人。和 fisherman 的差别：

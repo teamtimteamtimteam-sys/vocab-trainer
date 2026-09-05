@@ -235,6 +235,10 @@ authorial = 作者的
 ⑦ The tool supports collaborative authoring.
 = 那个工具支持协作撰写。
 authoring = 内容撰写与制作
+⑧ She co-authored the paper with her supervisor.
+= 那篇论文是她和导师合写的。
+co-author = 合写（动词）；a co-author = 合著者
+前缀 co- 表示「共同」，加在身份与职务词前面很能产，是造新词的常用手段。
 
 authoritarian
 核心：指"专制的、独断的"——不容异见、强调服从。
@@ -346,6 +350,10 @@ disputed authorship = 有争议的著作权
 claim authorship = 主张著作权
 ③ Authorship was confirmed by analysis.
 = 作者身份经分析得到确认。
+④ They share the co-authorship of three books.
+= 那三本书是他们共同署名的。
+co-authorship = 共同署名、共同著作权
+学术圈的常用词，指的是谁算作者、名字怎么排这件事。
 构词：author + -ship 状态、身份
 同类：
 ownership 所有权 / membership 会员身份

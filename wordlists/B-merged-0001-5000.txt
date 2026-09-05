@@ -7879,6 +7879,10 @@ adulting = 承担成年人事务（口语新词，多带自嘲）
 词族：
 adulthood = 成年期
 adolescent = 青少年（尚未成年）
+⑨ The law applies only to consenting adults.
+= 那条法律只管你情我愿的成年人。
+a consenting adult = 自愿的成年人（法律上指有能力表示同意的成年人）
+几乎只出现在性行为的法律讨论里，说双方都已成年且出于自愿，因此不受追究。
 
 adulterate
 核心：指在食品、饮料、药品里"掺假、掺入劣质品"。
@@ -19260,6 +19264,10 @@ detailed analysis = 详细分析
 ④ In the final analysis, it's your choice.
 = 归根结底，这是你的选择。
 in the final analysis = 归根结底
+⑤ Componential analysis breaks a word's meaning into features.
+= 义素分析把一个词的意思拆成若干特征。
+componential analysis = 义素分析（语义学方法）
+做法是把一个词拆成几条特征的组合，再拿这些特征去比较近义词。
 注意复数：analysis → analyses
 
 analyst
@@ -20159,6 +20167,10 @@ triangle = 三角形
 ⑨ Cut it at a right angle.
 = 按直角切。
 a right angle = 直角
+⑩ Two complementary angles add up to ninety degrees.
+= 两个互余角加起来是九十度。
+complementary angles = 互余角（相加九十度）；supplementary angles = 互补角（相加一百八十度）
+几何里成对的两个名目。注意拼 complementary，跟表示赞美与赠送的那个近形词不是一个字。
 
 angler
 核心：指用鱼竿钓鱼的人。和 fisherman 的差别：
@@ -24632,6 +24644,10 @@ applejack = 苹果白兰地（美式）
 = 那个页面跑着一个小程序。
 applet = 小应用程序
 这个词跟水果无关，是 application 加小词尾。
+⑬ Bramleys are the classic cooking apple.
+= 布拉姆利是最经典的烹调用苹果。
+a cooking apple = 烹调用苹果（酸、煮过就化开）；an eating apple = 生吃的苹果
+英式把这两类分得很清楚，超市货架也是分开摆的。
 
 appliance
 核心：从 apply（应用）来，指"派上用场的器具"，今天几乎专指家电——
@@ -34018,6 +34034,10 @@ authorial = 作者的
 ⑦ The tool supports collaborative authoring.
 = 那个工具支持协作撰写。
 authoring = 内容撰写与制作
+⑧ She co-authored the paper with her supervisor.
+= 那篇论文是她和导师合写的。
+co-author = 合写（动词）；a co-author = 合著者
+前缀 co- 表示「共同」，加在身份与职务词前面很能产，是造新词的常用手段。
 
 authoritarian
 核心：指"专制的、独断的"——不容异见、强调服从。
@@ -34129,6 +34149,10 @@ disputed authorship = 有争议的著作权
 claim authorship = 主张著作权
 ③ Authorship was confirmed by analysis.
 = 作者身份经分析得到确认。
+④ They share the co-authorship of three books.
+= 那三本书是他们共同署名的。
+co-authorship = 共同署名、共同著作权
+学术圈的常用词，指的是谁算作者、名字怎么排这件事。
 构词：author + -ship 状态、身份
 同类：
 ownership 所有权 / membership 会员身份
@@ -40182,6 +40206,10 @@ barman = 男酒保（英式）
 = 他的成年礼是春天办的。
 bar mitzvah = 犹太男孩成年礼（十三岁）
 （这个 bar 来自希伯来语的「之子」，跟酒吧那个 bar 无关）
+㉘ The color bar was written into local law.
+= 那道肤色门槛当年是写进地方法律的。
+a color bar = 按肤色设的进入门槛（美式拼法）
+英式拼 colour bar；旧词，今天只在讲种族隔离那段历史时用。
 
 barb
 核心：底层是"向后倒钩的那根小刺"。鱼钩上、箭头上、铁丝网上的
@@ -53808,6 +53836,10 @@ blind test = 盲测（不告诉受试者是哪一个）
 ⑯ His assets are in a blind trust.
 = 他的资产放在保密信托里。
 blind trust = 保密信托（委托人不知道里头持有什么）
+⑰ About one man in twelve is color-blind.
+= 大约每十二个男性里有一个色盲。
+color-blind = 色盲的（美式拼法）
+英式拼 colour-blind。引申义说政策与招聘不看肤色，两种拼法都通用。
 构词：古英语 blind
 注意语用：说群体今天多用 blind people，
 少用 the blind 那种说法。
@@ -74207,6 +74239,10 @@ set up camp = 扎营
 ⑱ She runs a summer training camp.
 = 她办了个暑期集训营。
 a training camp = 集训营
+⑲ Her grandmother survived a concentration camp.
+= 她祖母从集中营里活了下来。
+a concentration camp = 集中营
+专指成批关押平民与政治犯的营地，跟关押战俘的那种营地分开说。
 构词：拉丁语里表示平地的那个词，本指军队扎营的地方
 注意用法：做作义与宿营义毫无关系，靠词性分。
 
@@ -77514,6 +77550,10 @@ carryall = 大提包（美式）
 ㉒ The baby slept in a carrycot.
 = 婴儿睡在提篮里。
 carrycot = 婴儿提篮（英式）
+㉓ The state allows concealed carry with a permit.
+= 那个州凭许可证可以隐蔽携枪。
+concealed carry = 隐蔽携带枪支（美式）
+美国枪支法里的固定说法，跟明着挂在身上那种相对。
 构词：法语 carier 运送，与 carriage 同源
 注意用法：短语动词里最高频的是 carry on 与 carry out。
 
@@ -80179,6 +80219,10 @@ a brain cell = 脑细胞
 ⑪ The cell wall keeps the shape.
 = 细胞壁维持着形状。
 a cell wall = 细胞壁
+⑫ He spent nine years in the condemned cell.
+= 他在死囚牢里待了九年。
+the condemned cell = 死囚牢房（英式）
+关等待处决的人的那一间。英国早已废除死刑，这个词今天只在史书与小说里读到。
 构词：拉丁语 cella 小室
 注意用法：美式的手机义在英式里说 mobile。
 
@@ -80674,6 +80718,10 @@ take centre stage = 站到舞台中央、成为焦点
 ㉔ She hates being the centre of attention.
 = 她讨厌成为众人注目的焦点。
 the centre of attention = 众人注目的焦点
+㉕ The city opened cooling centres during the heatwave.
+= 热浪期间市里开了几处纳凉点。
+a cooling centre = 高温天供人避暑的公共场所
+美式拼 cooling center；近年高温频发，新闻里才多起来。
 构词：拉丁语 centrum 圆心
 注意拼写：英式 centre 一族，美式 center 一族，各拼各的。
 
@@ -81727,6 +81775,10 @@ a chamber orchestra = 室内乐团
 ⑧ A chamber pot stood under the bed.
 = 床下放着一个便壶。
 a chamber pot = 夜用便壶
+⑨ Fuel is injected into the combustion chamber.
+= 燃油被喷进燃烧室。
+a combustion chamber = 燃烧室（发动机里点火做功的那个腔）
+跟这一条的「腔室」义同一支：凡是封闭起来的一个腔，都能叫 chamber。
 构词：拉丁语 camera 拱顶小室
 注意用法：议院与腔室那两支最常读到。
 
@@ -84419,6 +84471,10 @@ a chief technology officer = 首席技术官
 ㉒ He holds the rank of chief warrant officer.
 = 他的军衔是高级准尉。
 a chief warrant officer = 高级准尉
+㉓ The president is commander-in-chief of the armed forces.
+= 总统是武装部队的总司令。
+the commander-in-chief = 总司令、最高统帅
+复数写 commanders-in-chief，跟这一条 in chief 那一族是同一种构造。
 构词：拉丁语 caput 头
 注意用法：形容词义与构成头衔那一支都很高频。
 
@@ -89120,6 +89176,10 @@ a climate emergency = 气候紧急状态
 ⑭ Students joined the climate strike.
 = 学生参加了气候罢课。
 a climate strike = 气候罢课行动
+⑮ Much of central Asia has a continental climate.
+= 中亚大部分地方是大陆性气候。
+a continental climate = 大陆性气候（冬冷夏热、雨水少）
+气候分类里的固定名目，跟受海洋调节的那一类相对。
 构词：希腊语 klima 地带、倾斜
 注意别混：weather 是今天的天，这个是长期的平均。
 
@@ -92298,6 +92358,14 @@ collectivization = 集体化
 ⑭ A collector called about the debt.
 = 一位收款员为那笔债打过电话。
 a collector = 收藏者；收款员
+⑮ She collected up the scattered papers.
+= 她把散落的纸收拢起来。
+collect up = 把散着的东西一件不落地收拢
+英式说法，up 强调收得干净、一件不剩。
+⑯ He was a lifelong collectivist.
+= 他一辈子信奉集体主义。
+a collectivist = 集体主义者；collectivist = 集体主义的
+跟这一条的 collectivism 成对，政治与经济讨论里常跟主张个人本位的那一方对举。
 构词：拉丁语 colligere 收拢
 注意用法：去接人那一支很英式，美式多说 pick up。
 
@@ -92545,6 +92613,10 @@ a colonel = 上校
 ② She was promoted to colonel.
 = 她升了上校。
 be promoted to = 升为
+③ The princess is colonel-in-chief of the regiment.
+= 那位公主是那个团的名誉团长。
+a colonel-in-chief = 名誉团长（英军荣誉职衔）；a colonel general = 大将（部分欧洲国家的军衔）
+两个都不带实际兵权：前者多由王室成员挂名，后者是英美两国没有的一级军衔。
 构词：意大利语 colonnello 纵队长
 注意读音：读起来像 kernel。
 
@@ -92904,6 +92976,10 @@ a column of smoke = 一柱烟
 ⑥ The columnist got it wrong.
 = 那位专栏作者写错了。
 a columnist = 专栏作者
+⑦ The story got barely two column inches.
+= 那条消息只占了两栏英寸。
+a column inch = 栏英寸（报纸版面的计量单位）
+一栏宽、一英寸高的那一块。说篇幅多少、广告多贵都拿它计。
 构词：拉丁语 columna 柱
 注意别混：表格里的这个是列，row 是行。
 
@@ -92962,6 +93038,10 @@ a comb = 鸡冠
 ⑤ Honeycomb is six-sided.
 = 蜂巢是六角形的。
 honeycomb = 蜂巢
+⑥ She combed out the tangles.
+= 她把打结的地方梳开了。
+comb out = 把打结处梳开；也指把不要的清理掉
+第二义偏英式：说机构裁掉冗员、从名单里剔掉不合格的。
 构词：古英语 camb
 注意读音：词尾 b 不发音。
 
@@ -93026,6 +93106,10 @@ a combination = 号码锁的密码
 ③ Use it in combination with rest.
 = 那个要配着休息一起用。
 in combination with = 与……结合着
+④ The case has a combination lock.
+= 那个箱子是密码锁。
+a combination lock = 密码锁（转数字对号的那种）
+跟这一条的「号码锁密码」义同一支：combination 指的就是那串数字。
 构词：由表示共同与成双的两部分拼成
 注意用法：说几个因素合在一起那一支最常读到。
 
@@ -93329,6 +93413,10 @@ stand-up comedy = 单口喜剧
 ③ She saw the comedy in it.
 = 她看出了里头的好笑处。
 the comedy of = ……里的好笑处
+④ The play is a classic comedy of manners.
+= 那出戏是典型的风俗喜剧。
+a comedy of manners = 风俗喜剧（讽刺某个阶层言谈举止的喜剧）
+戏剧史上的一个类别，靠机锋对白取笑上流社会的做派。
 构词：希腊语 komoidia
 注意别混：跟悲剧相对的是这个词。
 
@@ -93547,6 +93635,10 @@ comically = 滑稽地
 ⑦ Underground artists spell it comix.
 = 地下漫画圈把它拼成另一个样子。
 comix = 地下漫画（另一种拼法）
+⑧ He reads the comic strip first.
+= 他先看连环漫画。
+a comic strip = 连环漫画（报纸上一排格子那种）
+口语里单说 a strip 也行；跟整本的 comic book 分开。
 构词：希腊语 komikos 喜剧的
 注意分工：comic 多指刻意逗笑，comical 多指无意中的滑稽。
 
@@ -93570,6 +93662,10 @@ have it coming = 活该
 ⑤ I watch the comings and goings from my window.
 = 我从窗口看着人来人往。
 comings and goings = 人来人往
+⑥ The novel is about her coming of age.
+= 那本小说讲的是她的成长。
+coming of age = 长大成人的那个过程；也指到达法定成年
+也作定语：a coming-of-age story 是成长题材的故事。
 构词：come 的现在分词
 注意用法：作形容词只放名词前。
 
@@ -93891,6 +93987,10 @@ commentate = 做实况解说
 ⑤ The commentator lost his voice.
 = 那位解说员嗓子哑了。
 a commentator = 解说员；评论员
+⑥ The commentators sat in the commentary box.
+= 解说员坐在解说间里。
+a commentary box = 解说间（体育场里的小隔间）
+英式说法，转播足球与板球时常提到。
 构词：comment 评论 + -ary
 注意用法：commentate 是从名词反推出来的动词，偏英式。
 
@@ -94131,6 +94231,10 @@ the league commissioner = 联盟总裁
 ④ Commissioners voted on the plan.
 = 委员们就那个方案表决。
 a commissioner = 委员
+⑤ The document was signed before a commissioner for oaths.
+= 那份文件是在宣誓专员面前签的。
+a commissioner for oaths = 宣誓专员（英式，有权监誓的律师）
+给宣誓书作见证并盖章的一种资格，今天多数事务律师都有。
 构词：commission 委任 + -er
 注意搭配：具体职衔跟 for 或 of 连用。
 
@@ -94633,6 +94737,10 @@ communicative = 话多的
 ③ They use a communicative approach.
 = 他们用的是交际教学法。
 a communicative approach = 交际教学法
+④ The course aims at communicative competence.
+= 那门课的目标是交际能力。
+communicative competence = 交际能力（不只语法对，还要说得得体）
+语言教学的核心概念，跟这一条的交际教学法出自同一套主张。
 构词：communicate 交流 + -ive
 注意用法：说人时常用否定式。
 
@@ -94871,6 +94979,10 @@ compactness = 紧凑
 ⑧ A compactor crushes the waste.
 = 压实机把垃圾压碎。
 a compactor = 压实机
+⑨ The album came out on compact disc in 1985.
+= 那张专辑一九八五年出了激光唱片版。
+a compact disc = 激光唱片（缩写 CD）
+全称今天几乎不写，一律说 CD；compact 那半截说的是它比黑胶小得多。
 构词：拉丁语 compactus 压紧的
 注意读音：形容词与名词重音在前，动词重音在后。
 
@@ -94917,6 +95029,10 @@ companionship = 有人做伴的感觉
 ⑦ He went down the companionway.
 = 他顺着舱梯下去了。
 a companionway = 船上通往下层的舱梯
+⑧ Vets now say companion animal rather than pet.
+= 兽医现在说伴侣动物，不说宠物。
+a companion animal = 伴侣动物
+专业与倡权文字里用来替代 pet 的说法，强调是同伴而不是所有物。
 构词：拉丁语 com- 共 + panis 面包，本义是一起吃面包的人
 注意用法：陪伴女伴那一支是旧义。
 
@@ -94995,6 +95111,10 @@ the comparative = 比较级
 ④ The test was comparatively easy.
 = 那场考试相对容易。
 comparatively = 相对来说
+⑤ Comparative linguistics traces how languages are related.
+= 比较语言学追查语言之间的亲缘关系。
+comparative linguistics = 比较语言学
+跟这一条的比较文学是同一种构词：这个形容词加上一门学科的名字。
 构词：compare 比较 + -ative
 注意用法：语法义前面加 the。
 
@@ -95560,6 +95680,10 @@ have a complex about = 对……心里有结
 ⑤ The complexity of the case grew.
 = 那个案子越来越复杂。
 complexity = 复杂性
+⑥ A complex number has a real part and an imaginary part.
+= 复数由实部和虚部两半组成。
+a complex number = 复数（数学）
+数学术语，跟这一条其余几支无关；这里的 complex 是「由两部分合成的」。
 构词：拉丁语 complexus 缠绕在一起的
 注意读音：名词重音一律在第一个音节。
 
@@ -95839,6 +95963,10 @@ a compost heap = 堆肥堆
 ④ Kitchen scraps go in the compost bin.
 = 厨余倒进堆肥箱。
 a compost bin = 堆肥箱
+⑤ The packaging is fully compostable.
+= 那种包装完全可以堆肥降解。
+compostable = 可堆肥降解的
+比「可生物降解」严：要求在堆肥条件下限期分解干净，是有认证标准的。
 构词：拉丁语 compositum 混合物
 注意用法：名词不可数。
 
@@ -95972,6 +96100,14 @@ comprehensive cover = 全险
 ④ They were comprehensively beaten.
 = 他们输得彻彻底底。
 comprehensively = 彻底地
+⑤ She teaches at the local comprehensive school.
+= 她在当地的综合中学教书。
+a comprehensive school = 综合中学（英式，不按成绩挑生源）
+跟这一条的 a comprehensive 是同一样东西，口语里把后半截省掉。
+⑥ The report's comprehensiveness impressed them.
+= 那份报告之全面让他们佩服。
+comprehensiveness = 全面、周详的程度
+抽象名词，偏正式；日常多改说 how thorough it is。
 构词：comprehend 包含 + -ive
 注意用法：英式的中学那一支可以名词化。
 
@@ -96143,6 +96279,10 @@ a computation = 一次计算
 ③ The theory of computation is a whole field.
 = 可计算性理论自成一个领域。
 the theory of computation = 可计算性理论
+④ The model needs enormous computational power.
+= 那个模型需要巨大的运算能力。
+computational = 运算的、计算方法上的
+加在学科名前面很能产，一整批交叉学科的名字都是这么造出来的。
 构词：拉丁语 computare 算
 注意语域：比 calculation 正式。
 
@@ -96221,6 +96361,10 @@ comrade = 同志（称呼）
 ④ She missed the comradeship of the crew.
 = 她想念船上那份同伴情。
 comradeship = 同伴情谊
+⑤ He gave me a comradely slap on the back.
+= 他像战友一样拍了我一下背。
+comradely = 有同伴情谊的、亲如战友的
+偏书面，多修饰 spirit、gesture；跟这一条的 comradeship 成对。
 构词：西班牙语 camarada 同住一室的人
 注意语域：第二支在今天的英语里多带调侃。
 
@@ -96321,6 +96465,10 @@ a concealed weapon = 暗藏的武器
 ⑤ Concealment of assets is an offence.
 = 隐匿资产是违法的。
 concealment = 隐匿
+⑥ She dabbed concealer under her eyes.
+= 她在眼下点了遮瑕膏。
+concealer = 遮瑕膏
+化妆品名，用的就是这个动词「遮起来」的本义。
 构词：拉丁语 concelare 全部盖住
 注意语域：比 hide 正式。
 
@@ -96356,6 +96504,10 @@ conceited = 自负的
 ③ The poem turns on a single conceit.
 = 那首诗全靠一个奇喻撑着。
 a conceit = 奇特的比喻
+④ He smiled conceitedly.
+= 他自负地笑了笑。
+conceitedly = 自负地
+是 conceited 的副词，用得不多，多改说带自满神气地做某事。
 构词：conceive 构想 的旧名词形式
 注意分工：日常义是自负，文学义是奇喻。
 
@@ -96492,6 +96644,10 @@ conceptually = 在概念层面上
 ④ He conceptualized the whole system.
 = 整套系统的框架是他理出来的。
 conceptualize = 把想法理成框架
+⑤ Conceptualism holds that the idea matters more than the object.
+= 观念主义主张想法比作品本身重要。
+conceptualism = 观念主义；a conceptualist = 观念主义者
+艺术上指这一条的观念艺术那一派；哲学上另指关于共相的一种立场。
 构词：concept 概念 + -ual
 注意语域：偏学术与设计行业。
 
@@ -96846,6 +97002,10 @@ a concordance = 按词编的索引
 ④ The concordat was signed in 1929.
 = 那份政教协定一九二九年签的。
 a concordat = 国家与教廷的协定
+⑤ The two accounts are concordant.
+= 那两份说法是一致的。
+concordant = 相一致的、相吻合的
+正式词，多用于数据、证词与结论；反面是 discordant。
 构词：拉丁语 concordia 同心
 注意语域：正式偏旧，反义是 discord。
 
@@ -97036,6 +97196,10 @@ condescending = 居高临下的
 ④ The condescension was unmistakable.
 = 那份优越感明摆着。
 condescension = 居高临下的态度
+⑤ He explained it condescendingly.
+= 他讲得一副居高临下的样子。
+condescendingly = 居高临下地
+是 condescending 的副词，几乎总带批评意味，不会用来夸人。
 构词：拉丁语 con- 加强 + descendere 下来
 注意语气：今天基本都是贬义。
 
@@ -97261,6 +97425,14 @@ conduct heat = 导热
 ⑥ He conducted himself with dignity.
 = 他举止得体。
 conduct oneself = 举止行事
+⑦ Copper has high electrical conductivity.
+= 铜的导电率很高。
+conductivity = 传导率（导电或导热的能力）
+物理量，跟这一条的导热义同一支；反面是 resistivity。
+⑧ The conductress punched our tickets.
+= 女售票员给我们剪了票。
+a conductress = 女售票员（旧称）；a conductor = 售票员、乘务员；也指乐团指挥
+早年公交车上的女售票员才这么叫，今天不分性别一律用后一个词。
 构词：拉丁语 conducere 引领
 注意读音：名词重音在前，动词重音在后。
 
@@ -97335,6 +97507,10 @@ a cone = 视锥细胞
 ⑥ The roof is conical.
 = 那个屋顶是圆锥形的。
 conical = 圆锥形的
+⑦ They coned off the outside lane.
+= 他们用锥形桶把外侧车道封了。
+cone off = 用锥形桶把路段隔开封闭
+英式说法，路政通告与交通新闻里常见；用的就是这一条的锥形交通桶。
 构词：希腊语 konos 松果、圆锥
 注意用法：五支共用一个尖顶圆底的形状。
 
@@ -97428,6 +97604,10 @@ a conference = 会议
 ⑤ Video conferencing saves travel.
 = 视频会议省去了出差。
 video conferencing = 视频会议
+⑥ The conferment of degrees takes place in July.
+= 学位授予仪式在七月举行。
+conferment = 授予（学位、荣誉、权利）
+正式词，多用于学位与勋衔；美式也说 conferral。
 构词：拉丁语 conferre 拿到一起
 注意搭配：授予用 on，商议用 with。
 
@@ -97723,6 +97903,14 @@ conflict with = 与……相抵触
 ④ We received conflicting reports.
 = 我们收到的说法互相矛盾。
 conflicting reports = 互相矛盾的说法
+⑤ The trade in conflict diamonds funded the war.
+= 冲突钻石的买卖资助了那场战争。
+a conflict diamond = 冲突钻石（战区开采、用来换武器的钻石）
+国际上有专门的认证制度追这条线，媒体上也叫它血钻。
+⑥ She feels conflicted about leaving.
+= 要不要走，她心里很矛盾。
+conflicted = 内心矛盾的、拿不定主意的
+说人同时被两种想法拉扯着；常跟 feel 连用，是美式先流行起来的用法。
 构词：拉丁语 confligere 撞到一起
 注意读音：名词重音在前，动词重音在后。
 
@@ -97869,6 +98057,10 @@ confusable = 容易混淆的
 ⑦ The label is confusingly worded.
 = 那个标签写得让人费解。
 confusingly = 令人费解地
+⑧ He blinked confusedly at the screen.
+= 他一脸茫然地对着屏幕眨眼。
+confusedly = 茫然地、糊里糊涂地
+读四个音节，末尾那个 -ed 要单独成音；用得不多，多改说 in confusion。
 构词：拉丁语 confundere 倒到一起
 注意别用反：人是 confused，东西是 confusing。
 
@@ -98070,6 +98262,10 @@ a congressman = 男众议员
 ⑤ A congresswoman chaired the panel.
 = 一位女众议员主持了小组。
 a congresswoman = 女众议员
+⑥ Each congressperson serves a two-year term.
+= 每位众议员任期两年。
+a congressperson = 众议员（不分性别的说法）
+跟这一条的两个带性别的词并列，是为避开性别指称造的；复数说 congresspeople。
 构词：拉丁语 congressus 会到一起
 注意用法：指美国国会时大写、不加冠词。
 
@@ -98206,6 +98402,10 @@ in conjunction with = 与……配合着
 ③ A conjunction of Venus and Jupiter is due.
 = 金星木星要合相了。
 a conjunction = 合相
+④ Those three words are all coordinating conjunctions.
+= 那三个词都是并列连词。
+a coordinating conjunction = 并列连词；a subordinating conjunction = 从属连词
+前者连接地位对等的两部分，后者引出从句 —— 语法书里成对出现。
 构词：拉丁语 conjungere 连到一起
 注意搭配：第二支是高频固定说法。
 
@@ -98245,6 +98445,10 @@ conjurer = 魔术师（另一种拼法）
 ⑤ He learned a few conjuring tricks.
 = 他学了几手戏法。
 a conjuring trick = 戏法
+⑥ She conjured a meal from what was left in the fridge.
+= 她拿冰箱里剩下的东西凑出了一顿饭。
+conjure from = 用……凑出、变出来
+跟这一条的 conjure out of 同义，介词换成 from 也通，宾语放在中间。
 构词：拉丁语 conjurare 一同起誓、施咒
 注意搭配：最常用的是 conjure up。
 
@@ -98315,6 +98519,14 @@ connect with somebody = 跟某人合得来
 ⑤ The line went dead before we connected.
 = 还没接通线就断了。
 connect = 接通
+⑥ He connected up the speakers.
+= 他把音箱都接上了。
+connect up = 把几样东西接起来
+up 强调接齐、接完，英式口语里常这么说。
+⑦ The book is about our sense of connectedness.
+= 那本书讲的是人与人相连的那种感觉。
+connectedness = 相连的状态、彼此关联的感觉
+偏学术与心理学用词；日常多说 feeling connected。
 构词：拉丁语 con- 共 + nectere 系
 注意搭配：说联系两件事用 with。
 
@@ -98510,6 +98722,10 @@ a matter of conscience = 关乎良心的事
 ④ She was a prisoner of conscience.
 = 她是名良心犯。
 a prisoner of conscience = 良心犯
+⑤ He returned the money, conscience-stricken.
+= 他良心不安，把钱还了回去。
+conscience-stricken = 良心不安的、内疚的
+偏书面；后半截那个成分意思是「被击中」，还能跟别的情绪名词搭成一族。
 构词：拉丁语 conscientia 心里知道
 注意别混：跟表示「清醒、意识到」的那个近形词是两码事。
 
@@ -98526,6 +98742,10 @@ a conscientious objector = 良心拒服兵役者
 ③ The notes were kept conscientiously.
 = 那些记录记得一丝不苟。
 conscientiously = 一丝不苟地
+④ Her conscientiousness made her indispensable.
+= 她做事认真，成了少不了的人。
+conscientiousness = 认真负责的品性
+心理学讲的五大人格特质，其中一项用的就是这个词。
 构词：conscience 良心 + -ous
 注意读音：中间那个音节读成 shi 的音。
 
@@ -98564,6 +98784,10 @@ lose consciousness = 失去知觉
 ⑤ Class consciousness shaped the movement.
 = 阶级意识塑造了那场运动。
 consciousness = 意识
+⑥ She consciously avoided the subject.
+= 她有意避开了那个话题。
+consciously = 有意识地、有意地
+强调是自己知道并选择这么做的；反面是 unconsciously。
 构词：拉丁语 conscius 心里知道
 注意搭配：说意识到用 of。
 

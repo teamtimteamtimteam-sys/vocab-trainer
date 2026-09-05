@@ -64,6 +64,14 @@ contextualize = 放回背景里理解
 ⑥ In this context, it means something else.
 = 在这个语境里那是另一个意思。
 in this context = 在这个语境里
+⑦ The exhibition needs more contextualization.
+= 那个展览需要多交代些背景。
+contextualization = 交代背景、放回语境去理解
+英式也拼 contextualisation；跟这一条的 contextualize 成对。
+⑧ The meaning is contextually determined.
+= 那个意思要看语境才定得下来。
+contextually = 就语境而言、按语境地
+语言学与教学文字里的常用副词。
 构词：拉丁语 contexere 编织到一起
 注意搭配：out of context 是高频固定说法。
 
@@ -131,6 +139,10 @@ a contingent = 分队、一队人马
 ⑤ Payment is made contingently on delivery.
 = 付款以交货为条件。
 contingently on = 以……为条件地
+⑥ The lawyer took the case on a contingency fee.
+= 那位律师是按胜诉分成接的案子。
+a contingency fee = 胜诉酬金（打赢才收，按赔偿额提成）
+美式做法；英国另有一套名目，规矩也不一样。
 构词：拉丁语 contingere 碰巧发生
 注意搭配：contingent 作形容词用 on 或 upon。
 
@@ -227,6 +239,10 @@ a continuum = 连续谱
 = 元音和鼻音都属于可延续音。
 a continuant = 可延续音（语音学）
 这类音能一直发下去，跟塞音的一发即断相对。
+⑥ Height is a continuous variable.
+= 身高是个连续变量。
+a continuous variable = 连续变量（区间里任意取值）
+统计学术语，跟只能取整数或类别的离散变量相对。
 构词：continue 继续 + -ous
 注意分工：这个是一刻不停，continual 是反复来。
 

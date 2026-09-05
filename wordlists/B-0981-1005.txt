@@ -456,6 +456,10 @@ detailed analysis = 详细分析
 ④ In the final analysis, it's your choice.
 = 归根结底，这是你的选择。
 in the final analysis = 归根结底
+⑤ Componential analysis breaks a word's meaning into features.
+= 义素分析把一个词的意思拆成若干特征。
+componential analysis = 义素分析（语义学方法）
+做法是把一个词拆成几条特征的组合，再拿这些特征去比较近义词。
 注意复数：analysis → analyses
 
 analyst
