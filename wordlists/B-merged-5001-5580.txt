@@ -7129,8 +7129,8 @@ a crash barrier = 防撞护栏
 ⑩ The submarine crash-dived.
 = 那艘潜艇紧急下潜。
 crash-dive = 紧急下潜
-⑪ Helmets are compulsory.
-= 戴头盔是强制的。
+⑪ A crash helmet is compulsory on site.
+= 工地上必须戴防护头盔。
 a crash helmet = 防护头盔
 ⑫ The pilot crash-landed in a field.
 = 飞行员迫降在了一块地里。
@@ -7925,8 +7925,8 @@ crème fraiche = 法式酸奶油
 ② Crème fraiche does not curdle when heated.
 = 法式酸奶油受热不分离。
 not curdle when heated = 受热不结块
-③ It is richer than sour cream.
-= 它比普通酸奶油更浓。
+③ Crème fraiche is richer than sour cream.
+= 法式酸奶油比普通酸奶油更浓。
 be richer than = 比……更浓厚
 构词：法语，字面是「新鲜的奶油」
 注意分工：比 sour cream 脂肪高，受热不分离。

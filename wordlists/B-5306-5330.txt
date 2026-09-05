@@ -342,8 +342,8 @@ a crash barrier = 防撞护栏
 ⑩ The submarine crash-dived.
 = 那艘潜艇紧急下潜。
 crash-dive = 紧急下潜
-⑪ Helmets are compulsory.
-= 戴头盔是强制的。
+⑪ A crash helmet is compulsory on site.
+= 工地上必须戴防护头盔。
 a crash helmet = 防护头盔
 ⑫ The pilot crash-landed in a field.
 = 飞行员迫降在了一块地里。

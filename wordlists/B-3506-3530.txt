@@ -97,7 +97,7 @@ built
 它还大量作形容词用，前面加个词说明"怎么造的"或"怎么长的"：
 built-in 是内置的，purpose-built 是为特定用途专门造的，
 well-built 说人是身材壮实、说房子是造得结实，
-custom-built 是定制的。
+custom-built = 定制的（按买家要求专造）
 ① The house was built in 1890.
 = 那栋房子建于一八九零年。
 被动语态用 built。

@@ -28,6 +28,7 @@ TAIL = ('构词', '注意', '辨析')
 def fold(s):
     s = unicodedata.normalize('NFD', s)
     s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
+    s = s.replace('\u2019', '').replace("'", '')   # 撇号并进词里：we're→were、cow's→cows
     return re.sub(r'[^a-z ]', ' ', s.lower())
 
 def dist(a, b):
@@ -40,6 +41,17 @@ def dist(a, b):
         prev = cur
     return prev[-1]
 
+# -ough-／-augh- 一类强变化动词，元音全换、编辑距离拉得太开，
+# 上面那几条形态规则一个都够不着，只能列表。列的是词干，
+# 派生形式（bought out、caught on）靠前缀匹配自然认得。
+STRONG = {'catch': ['caught'], 'buy': ['bought'], 'teach': ['taught'],
+          'bring': ['brought'], 'seek': ['sought'], 'think': ['thought'],
+          'fight': ['fought'], 'come': ['came'], 'become': ['became'],
+          'beseech': ['besought'], 'bid': ['bade'], 'are': ['were', 'is', 'am'],
+          'bear': ['bore', 'born'], 'break': ['broke', 'broken'],
+          'speak': ['spoke'], 'steal': ['stole'], 'freeze': ['froze'],
+          'choose': ['chose'], 'seek': ['sought'], 'strike': ['struck']}
+
 def related(head, text):
     """义项里有没有跟词头同源的字眼"""
     hts = [t for t in fold(head).split() if len(t) >= 3]
@@ -50,6 +62,9 @@ def related(head, text):
         if t[:4] in flat: return True          # 子串即可，认得复合词
         # 词尾 e / y 脱落的派生：bake→baking、ally→allies、apiary→apiarist
         cuts = [t.rstrip('e'), t.rstrip('y'), t[:-1]]
+        if t.endswith('y'): cuts.append(t[:-1] + 'i')             # cry→cried、copy→copies
+        if t.endswith('f'): cuts.append(t[:-1] + 'v')             # calf→calves、leaf→leaves
+        if t in STRONG: cuts += STRONG[t]                          # catch→caught 这类强变化
         if t.endswith(('ex', 'ix')): cuts.append(t[:-2] + 'ic')   # codex→codices
         for cut in cuts:
             if len(cut) >= 3 and any(w.startswith(cut) for w in toks): return True
@@ -81,13 +96,22 @@ def senses(L):
 
 def main(argv):
     seg = argv[0].lower() if argv else None
-    tot = 0; fake = []; lazy = []
+    tot = 0; fake = []; lazy = []; meta = []
     for h, L in entries():
         if seg and not h.lower().startswith(seg): continue
         for ex, body in senses(L):
             tot += 1
             eqs = [l for l in body if cw.EQ.match(l)]
             whole = fold(ex + ' ' + ' '.join(body))
+            # 【例句里没有词】铁律：每个义项的例句里必须真的出现这个词。
+            # 上面那条【假义项】看的是「例句 + 译文 + 等式 + 讲解行」整段，
+            # 只要等式行里带着词头就算沾边 —— 于是「The word is a strong
+            # insult.」配上「a cocksucker = …」照样过关。2026-09-05 全表查出
+            # 22 条这种元评论义项（c 段 15、b 段 6），全是冷僻词、缩写、
+            # 禁忌词那三类：写的人凑不出自然例句，就改写成「这个词很重 /
+            # 美国人怎么拼 / 那个缩写没有复数」。它们不教词，只谈词。
+            if not related(h, fold(ex)):
+                meta.append((h, ex.strip(), eqs[0].strip() if eqs else ''))
             if related(h, whole): 
                 # 例句沾边，再看第一条等式是不是在教别的词
                 if eqs and not related(h, fold(eqs[0].split('=')[0])):
@@ -121,13 +145,18 @@ def main(argv):
     for h, ex, eq in fake[:80]:
         print('      %-20s %-44s %s' % (h, ex[:44], eq[:30]))
     if len(fake) > 80: print('      ……还有 %d 条' % (len(fake) - 80))
+    print('  【例句里没有词】义项的例句里找不到词头或其变形：%d 条 (%.1f%%)'
+          % (len(meta), 100.0 * len(meta) / max(tot, 1)))
+    for h, ex, eq in meta[:60]:
+        print('      %-20s %-44s %s' % (h, ex[:44], eq[:30]))
+    if len(meta) > 60: print('      ……还有 %d 条' % (len(meta) - 60))
     print('  【等式挂歪】例句是真义项，等式教了别的词：%d 条 (%.1f%%)'
           % (len(lazy), 100.0 * len(lazy) / max(tot, 1)))
     print('  【重复义项】同一词条里两条例句实质是同一句：%d 对' % len(dupes))
     for h, e1, e2 in dupes[:30]:
         print('      %-18s %s' % (h, e1[:44]))
         print('      %-18s %s' % ('', e2[:44]))
-    return 1 if (fake or dupes) else 0
+    return 1 if (fake or dupes or meta) else 0
 
 if __name__ == '__main__':
     sys.exit(main(sys.argv[1:]))
