@@ -75,6 +75,14 @@ CHECK = {
  'crocodile': ['crocodile tears'],
  'crop': ['crop up', 'come a cropper'],
  'crook': ['the crook of one s arm'],
+ 'cross': ["cross one's mind", 'cross swords with', 'at cross purposes',
+           'cross out', 'be cross with'],
+ 'crow': ['as the crow flies', 'eat crow'],
+ 'crowd': ['follow the crowd', 'stand out from the crowd'],
+ 'crunch': ['when it comes to the crunch', 'a credit crunch'],
+ 'cruel': ['be cruel to be kind', 'cruelty to animals'],
+ 'crossroads': ['at a crossroads'],
+ 'crossfire': ['be caught in the crossfire'],
  # 往下写到哪个字母段，就在这里补哪一段的大词
 }
 
