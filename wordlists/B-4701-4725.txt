@@ -320,23 +320,21 @@ client
 设计师说 client，商店说 customer，医院说 patient，
 三个词分工不能混。计算机上的 client 是客户端，跟服务器
 相对。全体客户与常客群叫 clientele。可数。
-① She met a new client.
-= 她见了个新客户。
+① She met a new client who had already sacked two other firms.
+= 她见了个新客户，那客户已经炒掉两家别的公司了。
 a client = 客户
-② The firm has two hundred clients.
-= 那家事务所有两百个客户。
 have clients = 拥有客户
-③ The client software is free.
-= 那个客户端软件是免费的。
+② The client software is free and the licence for the server is not.
+= 客户端软件免费，服务器的授权可不免费。
 client software = 客户端软件
-④ The shop has a loyal clientele.
-= 那家店有一批老客。
+③ The shop has a loyal clientele of about forty people.
+= 这家店有大约四十位忠实常客。
 clientele = 全体客户、常客群
-⑤ The app uses a client-server model.
-= 那个应用用的是客户端与服务器架构。
+④ The app uses a client-server model and fails whenever the network hiccups.
+= 这款应用用的是客户端服务器模式，网络一抖就出问题。
 client-server = 客户端与服务器的
-⑥ It became a client state.
-= 那个国家成了附庸国。
+⑤ It became a client state and kept its flag and its anthem.
+= 它成了附庸国，国旗和国歌倒是保住了。
 a client state = 附庸国
 构词：拉丁语 cliens 受庇护的人
 注意别混：商店说 customer，医院说 patient。
