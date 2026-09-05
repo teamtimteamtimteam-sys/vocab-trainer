@@ -240,17 +240,13 @@ consensus
 核心：共识：一群人大致都能接受的意见——不必人人举手，
 但没人强烈反对。形容词 consensual 一是协商一致的，
 二是法律上「双方自愿的」。不可数。
-① They reached a consensus.
-= 他们达成了共识。
+① They reached a consensus by consensus, and the general view now is that the bill will pass.
+= 他们以协商一致的方式达成共识，眼下普遍认为这项法案会通过。
 reach a consensus = 达成共识
-② The decision was taken by consensus.
-= 那个决定是协商一致作出的。
 by consensus = 以协商一致的方式
-③ The consensus is that it will pass.
-= 大家的看法是那会通过。
 the consensus is that = 普遍看法是
-④ The act was consensual.
-= 那是双方自愿的。
+② The act was consensual and the legal argument about it dragged on for four years.
+= 那个行为是双方自愿的，围绕它的法律争议拖了四年。
 consensual = 双方自愿的
 构词：拉丁语 consensus 一致同意
 注意搭配：最常用的是 reach a consensus。
@@ -278,17 +274,15 @@ by common consent = 公认地
 consequence
 核心：两支。一是后果：某事带来的结果，多指不好的那种；
 二是重要性，只活在 of no consequence 这类说法里。可数。
-① He must take the consequences.
-= 他得承担后果。
+① He must take the consequences, and they are more serious than he thinks.
+= 他得承担后果，而后果比他想的严重。
 take the consequences = 承担后果
-② Prices rose as a consequence of the strike.
-= 罢工的结果是物价上涨。
-as a consequence of = 由于……的结果
-③ The delay had serious consequences.
-= 那次延误后果严重。
 serious consequences = 严重后果
-④ It is of no consequence.
-= 那不打紧。
+② Prices rose as a consequence of the strike and never came back down.
+= 罢工导致物价上涨，此后再没降下来。
+as a consequence of = 由于……的结果
+③ It is of no consequence now that both parties have signed.
+= 双方都签了字，这事现在无关紧要了。
 of no consequence = 无关紧要
 构词：拉丁语 consequi 随之而来
 注意语气：说后果时多指不好的那种。
@@ -447,17 +441,17 @@ consider
 核心：几支。一是考虑、掂量，后面接动名词，不接不定式；
 二是认为：consider somebody a friend，也说 be
 considered；三是顾及别人的感受。
-① We are considering moving.
-= 我们在考虑搬家。
+① We are considering moving and have looked at about forty houses.
+= 我们在考虑搬家，已经看了大约四十套房子。
 consider doing = 考虑做某事
-② I consider him a friend.
-= 我拿他当朋友。
+② I consider him a friend and would not lend him money.
+= 我拿他当朋友，却不会借钱给他。
 consider somebody a friend = 拿某人当朋友
-③ It is considered rude.
-= 那被认为不礼貌。
+③ It is considered rude here and is perfectly normal two counties away.
+= 这在当地算失礼，隔两个郡就再正常不过。
 be considered = 被认为
-④ Consider how she feels.
-= 想想她的感受。
+④ Consider how she feels before you put any of this in writing.
+= 把这些写下来之前，先想想她的感受。
 consider = 顾及
 构词：拉丁语 considerare 细看星象
 注意搭配：接动名词，不接不定式。
