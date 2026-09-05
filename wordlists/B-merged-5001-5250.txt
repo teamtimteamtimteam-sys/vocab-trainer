@@ -909,6 +909,9 @@ a contact lens = 隐形眼镜
 ⑪ We kept in contact for years.
 = 我们保持了多年联系。
 keep in contact = 保持联系
+⑫ We made contact with the base.
+= 我们跟基地联系上了。
+make contact with = 与……联系上
 构词：拉丁语 contingere 触到
 注意用法：作联系讲不可数，作熟人门路讲可数。
 
@@ -1778,6 +1781,12 @@ a control tower = 塔台
 ⑫ The remote control needs batteries.
 = 遥控器该换电池了。
 a remote control = 遥控器
+⑬ She took control of the meeting.
+= 她把会的局面接了过去。
+take control of = 接过掌控
+⑭ He lost control of the car.
+= 他把车开失控了。
+lose control of = 失去对……的控制
 构词：中古法语 contreroller 核对副本账册
 注意搭配：in control of 是掌控，under control 是局面稳住了。
 
@@ -2401,9 +2410,11 @@ keep cool = 保持冷静
 ③ His welcome was noticeably cool.
 = 他那声招呼明显透着冷淡。
 a cool welcome = 冷淡的招呼
+说温度和说态度用的是同一个词，靠搭配区分。
 ④ That jacket is really cool.
 = 那件夹克真帅。
 cool = 酷、不错（口语）
+这一支也用作应答：说 Cool. 就等于「行、可以」。
 ⑤ Let the pie cool before cutting.
 = 派放凉了再切。
 cool = 放凉
@@ -2416,6 +2427,7 @@ coolly = 冷静地；冷淡地
 ⑧ The coolness between them was obvious.
 = 他们之间的疏远看得出来。
 coolness = 冷淡；沉着
+两个意思差得远，看上下文：说人际关系是冷淡，说临场是沉着。
 ⑨ Top up the coolant.
 = 把冷却液加满。
 coolant = 冷却液
@@ -2425,6 +2437,21 @@ a cooler = 冷藏箱
 ⑪ Let the engine cool down.
 = 让发动机凉下来。
 cool down = 冷却下来；消气
+⑫ He lost his cool in the meeting.
+= 他在会上沉不住气了。
+lose one's cool = 沉不住气
+这里的 cool 是名词，跟形容词那几支分开记。
+⑬ The painting fetched a cool million.
+= 那幅画卖了整整一百万。
+a cool million = 整整一百万
+放在大数目前表示「整整」，带一点咋舌的语气。
+⑭ Are you cool with that?
+= 你没意见吧？
+be cool with = 不介意、能接受
+⑮ Cool it, both of you.
+= 你们俩都消停点。
+cool it = 消停点、别激动
+只用祈使句，对着正在吵的人说。
 构词：古英语 col 凉的
 注意语域：第四支是口语，正式文字里不用。
 
@@ -3239,6 +3266,18 @@ the cornerstone of = ……的根基
 ⑨ The cornerback intercepted the pass.
 = 角卫把那个传球截了。
 a cornerback = 角卫（美式橄榄球）
+⑩ The patient has turned the corner.
+= 病人已经度过难关了。
+turn the corner = 度过难关
+⑪ They cut corners on safety.
+= 他们在安全上偷工减料。
+cut corners = 图省事、偷工减料
+⑫ Spring is just around the corner.
+= 春天马上就到了。
+just around the corner = 马上就到
+⑬ She saw him out of the corner of her eye.
+= 她用眼角余光看见了他。
+out of the corner of one's eye = 用眼角余光
 构词：拉丁语 cornu 角
 注意搭配：in somebody's corner 是支持，不是「在某人的角落里」。
 
@@ -4550,6 +4589,7 @@ count = 数
 ② Every vote counts.
 = 每一票都算数。
 count = 算数、有分量
+主语常是抽象的东西：every vote counts、experience counts。
 ③ That counts as a win.
 = 那算赢了。
 count as = 算作
@@ -4559,21 +4599,36 @@ count somebody in = 把某人算上
 ⑤ You can count on her.
 = 你可以指望她。
 count on = 指望
+后面接人或事，也接动名词：count on him being late。
 ⑥ The final count was close.
 = 最后的计票很接近。
 a count = 计数、总数
 ⑦ He was guilty on three counts.
 = 三项罪名都成立。
 on three counts = 在三项罪名上
+这个 count 是法律上的「项」，起诉书按项分列。
 ⑧ The count owned the whole valley.
 = 那位伯爵拥有整个山谷。
 a count = 伯爵（欧陆爵位）
+跟计数那支同形而不同源，来自拉丁语「随从」。
 ⑨ Chair is a countable noun.
 = 那个词是可数名词。
 a countable noun = 可数名词
 ⑩ The countdown started at ten.
 = 倒计时从十开始。
 a countdown = 倒计时
+也引申说某件大事之前的最后阶段。
+⑪ Count your blessings.
+= 想想自己还有什么可庆幸的。
+count one's blessings = 知足、想想还有什么可庆幸的
+多用祈使句，劝人别只盯着不如意的地方。
+⑫ Experience counts for nothing here.
+= 在这儿资历一文不值。
+count for nothing = 一文不值、不算数
+⑬ At the last count there were forty.
+= 上次数是四十个。
+at the last count = 上次清点时
+带一点「后来可能又变了」的意味。
 构词：拉丁语 computare 计算；伯爵那支来自 comes 随从
 注意分工：欧陆的伯爵叫 count，英国的叫 earl。
 

@@ -35758,6 +35758,7 @@ right away = 立刻（美式口语）
 = 那些水手漂流到一座荒岛上。
 be cast away = 遭遇海难漂到荒岛
 castaway = 漂流荒岛的人
+由 cast away 变来，重音落在第一个音节。
 从"被抛开"来，专用于海难，鲁滨逊那种处境。
 
 awe
@@ -73662,6 +73663,9 @@ a call girl = 应召女子（委婉说法）
 ❶ The speech was a clarion call for reform.
 = 那篇讲话是改革的号角。
 a clarion call = 响亮的号召
+❷ She called his bluff and he backed down.
+= 她一摊牌逼他亮底，他就退了。
+call somebody's bluff = 摊牌戳穿虚张声势
 构词：古诺斯语 kalla 呼叫、大声说
 注意用法：介词决定方向那条规则，比一个个背短语动词省力。
 注意区别：call in 有两个方向，收回与请来，靠宾语分。
@@ -77866,6 +77870,12 @@ case-sensitive = 区分大小写的
 ⑱ The book opens with a case study.
 = 那本书以一个案例研究开头。
 a case study = 案例研究
+⑲ In that case, we should leave now.
+= 那样的话我们该走了。
+in that case = 那样的话
+⑳ Her career is a case in point.
+= 她的经历就是个现成的例子。
+a case in point = 恰好说明问题的例子
 构词：情形义出自拉丁语 casus 落下、遭遇；盒义出自 capsa 箱
 注意用法：in case 后面接从句，不接不定式。
 
@@ -78205,6 +78215,7 @@ cast a shadow = 投下影子
 ③ Every citizen may cast a vote.
 = 每个公民都可以投票。
 cast a vote = 投票
+投票、投影、投目光共用一个动作意象：把东西往外抛出去。
 ④ She cast a glance at the clock.
 = 她朝钟看了一眼。
 cast a glance = 投去一眼
@@ -78214,30 +78225,36 @@ be cast in = 用……浇铸
 ⑥ The pan is cast iron.
 = 那口锅是铸铁的。
 cast iron = 铸铁；也形容铁定不可动摇
+a cast-iron alibi 是铁一样的不在场证明，这个引申很常用。
 ⑦ They cast her as the mother.
 = 他们让她演母亲。
 cast somebody as = 让某人演……
 ⑧ The whole cast took a bow.
 = 全体演员一起谢幕。
 the cast = 全体演员
+指整台戏的人，是集合名词；单个演员说 a cast member。
 ⑨ His arm is in a plaster cast.
 = 他手臂上打着石膏。
 a plaster cast = 石膏固定
+同一个词也指翻模做出来的石膏像。
 ⑩ They cast off at dawn.
 = 他们天亮解缆开船。
 cast off = 解缆开船；也指抛弃
+航海义与抛弃义同源：都是把系着的东西松开。
 ⑪ He was cast out of the village.
 = 他被逐出了村子。
 cast out = 逐出
 ⑫ She cast around for an excuse.
 = 她四处找借口。
 cast around for = 四处寻找
+跟 cast about for 完全同义，英式两个都用。
 ⑬ Old habits were cast aside.
 = 旧习惯被丢在一边。
 cast aside = 弃置一旁
 ⑭ The castaway lit a fire.
 = 那个漂流者点起了火。
 castaway = 漂流荒岛的人
+由 cast away 变来，重音落在第一个音节。
 ⑮ Casting took three months.
 = 选角花了三个月。
 casting = 选角；也指铸件
@@ -78247,6 +78264,14 @@ cast about for = 四处寻找
 ⑰ Cast on thirty stitches.
 = 起三十针。
 cast on = 起针（编织）
+收针那一步反过来叫 cast off，跟航海那支同形不同事。
+⑱ The report casts doubt on the figures.
+= 那份报告让人对那些数字生疑。
+cast doubt on = 使人对……生疑
+主语多是证据、报告这类东西，不是人。
+⑲ Cast your mind back to that summer.
+= 把思绪拉回那个夏天。
+cast one's mind back = 回想从前
 构词：古诺斯语 kasta 投掷
 注意用法：三态不变，过去式与过去分词同形。
 
@@ -81931,6 +81956,12 @@ chance on = 偶然遇到、偶然发现
 ⑨ She chanced upon an old friend.
 = 她偶然碰上一位老友。
 chance upon = 偶然碰上
+⑩ She took a chance and moved abroad.
+= 她冒了个险，搬到国外去了。
+take a chance = 冒一次险
+⑪ They still have a fighting chance.
+= 他们还有一线拼头。
+a fighting chance = 拼一拼还有的机会
 构词：拉丁语 cadere 落下，掉到你头上的东西
 注意用法：the chances are 与 by chance 都极高频。
 
@@ -82149,6 +82180,9 @@ change round = 调换次序
 = 她把硬币装在零钱包里。
 a change purse = 零钱包（美式）
 英式说 purse 就够了，不用加前面那个词。
+㉒ He changed his mind at the door.
+= 他到门口又改了主意。
+change one's mind = 改主意
 构词：古法语 changier 交换
 注意用法：零钱那一支不可数。
 
@@ -83457,6 +83491,13 @@ a check-up = 体检
 = 该有人去看看他情况。
 check up on = 查一查、去看看情况
 带 on 时对象是人，语气可以是关心也可以是查证。
+㉜ She kept her temper in check.
+= 她把脾气按住了。
+keep something in check = 把……按住不发作
+keep in check = 控制住（宾语放在中间）
+㉝ Can I take a rain check?
+= 这回先算了，改天再说行吗？
+take a rain check = 这回先推掉、改约下次
 构词：波斯语 shah 王，经象棋里的将军进英语
 注意用法：核对与办手续两支最高频；支票义是美式。
 
@@ -84979,6 +85020,9 @@ a chip shop = 炸鱼薯条店（英式）
 ⑭ She holed the chip shot.
 = 她那记挑击直接进洞。
 a chip shot = 高尔夫的挑击
+⑮ He has a chip on his shoulder about money.
+= 他一提钱就来气。
+have a chip on one's shoulder = 心里憋着股怨气
 构词：古英语 forcippian 削去
 注意别混：英式 chips 是薯条，美式 chips 是薯片。
 
@@ -88637,6 +88681,12 @@ clear-sighted = 看得明白的
 = 天晴了。
 clear up = 转晴；也指弄清、收拾
 一个短语三个意思，靠主语与宾语分。
+㉑ The tests came back and she is in the clear.
+= 检查结果出来了，她没事。
+in the clear = 脱了嫌疑、没事了
+㉒ Steer clear of that topic.
+= 那个话题绕着走。
+steer clear of = 绕着走、避开
 构词：拉丁语 clarus 清楚
 注意用法：清除与判无罪两支在新闻里最常读到。
 
@@ -89634,27 +89684,34 @@ close down = 停业关门
 ③ They are very close friends.
 = 他们是很亲的朋友。
 close = 关系亲的
+形容词的这几支读音跟动词不同：动词结尾发浊音，形容词发清音。
 ④ The result was close.
 = 那个结果很接近。
 close = 势均力敌的
+说比赛、选举、结果，常说 a close call、a close finish。
 ⑤ The room felt close.
 = 屋里觉得闷。
 close = 闷热不通风的
+英式说天气与屋子，带不舒服的意味。
 ⑥ The year drew to a close.
 = 那一年快到头了。
 draw to a close = 接近结束
+名词的 close 只用在这类正式说法里，日常说 end。
 ⑦ The gates stayed closed.
 = 那些门一直关着。
 closed = 关着的
 ⑧ Read the clause closely.
 = 那一条要仔细读。
 closely = 仔细地、紧密地
+两个意思差得远：watch closely 是仔细看，work closely 是紧密合作。
 ⑨ Their closeness surprised me.
 = 他们那份亲近让我意外。
 closeness = 亲近；接近
 ⑩ Check the closing price.
 = 看一下收盘价。
 closing = 结束的、收盘的
+closing time 是打烊时间，closing price 是收盘价。
+closing time = 打烊时间
 ⑪ The closeout cleared the stock.
 = 那次清仓把货清光了。
 a closeout = 清仓甩卖（美式）
@@ -89664,12 +89721,15 @@ close-cropped = 剪得极短的
 ⑬ A close-fitting jacket suits her.
 = 贴身的外套很配她。
 close-fitting = 贴身的
+这一串带连字符的复合形容词都只放名词前。
 ⑭ They sing in close harmony.
 = 他们唱的是密集和声。
 close harmony = 密集和声
+几个声部挤在一个八度之内唱，理发店四重唱是典型。
 ⑮ Fog closed in fast.
 = 雾很快合了上来。
 close in = 逼近、合围
+主语可以是人，也可以是夜色与雾。
 ⑯ It is a close-knit community.
 = 那是个联系紧密的社区。
 close-knit = 联系紧密的
@@ -89677,6 +89737,7 @@ close-knit = 联系紧密的
 ⑰ He stayed close-mouthed.
 = 他一直不吭声。
 close-mouthed = 嘴严不说话的
+美式多用，英式说 tight-lipped。
 ⑱ Police closed off the street.
 = 警方把那条街封了。
 close off = 封闭
@@ -89684,6 +89745,7 @@ close off = 封闭
 ⑲ They closed out the account.
 = 他们把那个账户结清了。
 close out = 结清、结束
+美式商业用词，英式多说 close down 或 wind up。
 ⑳ The water closed over the wreck.
 = 水把那艘残骸合了上去。
 close over = 合上覆住
@@ -89693,9 +89755,11 @@ close-range = 近距离的
 ㉒ It was a close-run race.
 = 那场比赛差距极小。
 close-run = 差距极小的
+a close-run thing 是「差点就输了」的固定说法。
 ㉓ Fishing stops in the close season.
 = 禁渔期不许打鱼。
 the close season = 禁猎禁渔期（英式）
+同一件事美式说法只差一个字母，见下一条。
 美式同一件事说 closed season。
 ㉔ He has close-set eyes.
 = 他两眼距离近。
@@ -89703,10 +89767,18 @@ close-set = 挨得近的
 ㉕ The shop closes up at nine.
 = 那家店九点关门。
 close up = 关门；也指靠拢
+名词化的 a close-up 是特写镜头，重音在前。
 靠拢那层在队列与伤口愈合里都用。
 ㉖ Americans call the same thing the closed season.
 = 美国人管同一件事叫禁猎期。
 the closed season = 禁猎期（美式）
+㉗ That was a close shave.
+= 那真是好险。
+a close shave = 好险、险些出事
+同义的还有 a close call、a near miss。
+㉘ The deal was struck behind closed doors.
+= 那笔交易是关起门来谈成的。
+behind closed doors = 关起门来、不公开
 构词：拉丁语 claudere 关
 注意读音：动词与形容词读音不同。
 
@@ -91711,6 +91783,9 @@ coldness = 寒冷；冷淡
 ⑫ She has a bad cold.
 = 她感冒得厉害。
 have a cold = 感冒
+⑬ He got cold feet the night before.
+= 他前一晚打了退堂鼓。
+get cold feet = 临阵退缩
 构词：古英语 cald
 注意用法：那一族固定说法都很高频。
 
@@ -92815,6 +92890,12 @@ come up against = 遇上阻碍
 ⑲ Losing the title was a comedown.
 = 丢了那个头衔是个落差。
 a comedown = 落差、丢面子的事
+⑳ She came to terms with the loss.
+= 她慢慢接受了那份失去。
+come to terms with = 慢慢接受
+㉑ Come what may, we go on Friday.
+= 不管出什么事，周五都走。
+come what may = 不管出什么事
 构词：古英语 cuman
 注意用法：短语动词是这个词的重心，介词决定方向。
 
@@ -94340,6 +94421,12 @@ a company = 连（军队编制）
 ⑥ Present company excepted, of course.
 = 当然，在座的除外。
 present company excepted = 在座的除外
+⑦ They parted company after ten years.
+= 十年之后他们分道扬镳。
+part company = 分道扬镳
+⑧ If you find it hard, you are in good company.
+= 觉得难的不止你一个。
+be in good company = 跟你一样的人不少
 构词：拉丁语 com- 共 + panis 面包
 注意用法：作陪伴与客人讲时不可数。
 

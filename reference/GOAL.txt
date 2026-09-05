@@ -12,6 +12,12 @@ B 5000
 内容词还在后面字母段，等轮到了再并，不用回头补。归档区 0 条。
 最末词条 byword。
 
+【c 段大词的习语已系统补过一遍（2026-09-05）】
+scripts/audit-idioms.py 里存着清单，写完一段大词就往 CHECK 补一批再跑。
+首跑 90 条缺 34 条，已全部补上。往下写到 cr / cu 段时记得补清单：
+crack down on、crack up、cross one's mind、cut back、cut it out、
+a cut above、cry over spilt milk 之类。
+
 【A 与 B 的用法缺口已清零（2026-09-05），audit-ab 已挂进 pre-commit】
 首跑 132 条（a 28、b 30、c 74），全部补完。以后不许回潮。
 但要记住这把尺子只查得出「A 教过而 B 没有」的 —— A 没收的词

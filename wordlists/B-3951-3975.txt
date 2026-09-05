@@ -625,5 +625,11 @@ case-sensitive = 区分大小写的
 ⑱ The book opens with a case study.
 = 那本书以一个案例研究开头。
 a case study = 案例研究
+⑲ In that case, we should leave now.
+= 那样的话我们该走了。
+in that case = 那样的话
+⑳ Her career is a case in point.
+= 她的经历就是个现成的例子。
+a case in point = 恰好说明问题的例子
 构词：情形义出自拉丁语 casus 落下、遭遇；盒义出自 capsa 箱
 注意用法：in case 后面接从句，不接不定式。
