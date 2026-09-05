@@ -100,6 +100,16 @@ CHECK = {
  'curdle': ['blood-curdling'],
  'culture': ['culture shock'],
  'cult': ['the cult of personality', 'a cult following'],
+ # 下一批动笔前先列（2026-09-05）
+ 'curiosity': ['curiosity killed the cat', 'out of curiosity'],
+ 'curry': ['curry favour with'],
+ 'curse': ['be cursed with'],
+ 'curtain': ['bring down the curtain on', 'the final curtain'],
+ 'custody': ['take into custody', 'in custody'],
+ 'custom': ['custom-made'],
+ 'customer': ['the customer is always right'],
+ 'curve': ['ahead of the curve', 'throw somebody a curve'],
+ 'current': ['current affairs', 'go against the current'],
  # 往下写到哪个字母段，就在这里补哪一段的大词
 }
 

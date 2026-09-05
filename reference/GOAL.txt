@@ -24,12 +24,15 @@ a cut above、cry over spilt milk 之类。
 audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5481 条。ca-co 各段已收全，
+B 词表 5512 条。ca-co 各段已收全，
 cr- 段清单 478 条、已收 287 条（60%）；
-cu- 段清单 223 条、已收 65 条（29%），写到 curfew。
-下批从 curio / curiosity / curious / curl 一带起。
-再往后 cp 1、ct 1、cw 4、cy 51、cz 4。
-audit-idioms 的 CHECK 已扩到 61 个大词、178 条习语。
+cu- 段清单 223 条、已收 117 条（52%），写到 customer。
+下批从 customize / cut / cute / cutlery / cutlet 一带起 ——
+cut 是大词，动笔前先把 cut back / cut down / cut in /
+cut it out / a cut above / cut both ways / cut and dried
+列进 audit-idioms 的 CHECK。
+再往后 cp 1、ct 1、cw 4、cy 51、cz 4；cr 段还剩 191 条。
+audit-idioms 的 CHECK 已扩到 70 个大词、192 条习语。
 
 【写之前先把习语清单列好，比写完回头补省事（2026-09-05 验证）】
 连着两批都是先往 audit-idioms 的 CHECK 里补一段的清单，再动笔，
