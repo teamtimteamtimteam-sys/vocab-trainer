@@ -1,3 +1,45 @@
+bridge
+核心：底层是"跨过去连起来的那个东西"，各支都从这个形状或功能
+来。跨河的是桥；船上高出来横跨甲板的指挥台是驾驶台；
+鼻子中间那道隆起是鼻梁，眼镜架上对应的部件同名；
+提琴上支起琴弦的那块小木片是琴桥；牙医做的固定假牙叫牙桥。
+抽象一路是"连接"：a bridge between cultures 是文化间的桥梁，
+bridge the gap 是弥合差距。另有一支完全无关：桥牌。
+习语 burn your bridges 是自断后路。
+① They built a bridge over the river.
+= 他们在河上建了座桥。
+本义。
+② The captain stood on the bridge.
+= 船长站在驾驶台上。
+the bridge = 船上的驾驶台
+③ His glasses slipped down the bridge of his nose.
+= 眼镜从他鼻梁上滑了下来。
+the bridge of the nose = 鼻梁
+④ The violin needs a new bridge.
+= 那把小提琴要换琴桥。
+⑤ The dentist fitted a bridge.
+= 牙医装了个牙桥。
+⑥ Art can be a bridge between cultures.
+= 艺术能成为文化之间的桥梁。
+a bridge between = 之间的桥梁
+⑦ The scheme bridges the gap.
+= 那个方案弥合了差距。
+bridge the gap = 弥合差距
+⑧ They play bridge on Thursdays.
+= 他们周四打桥牌。
+bridge = 桥牌
+⑨ Don't burn your bridges.
+= 别把后路断了。
+burn your bridges = 自断退路
+⑩ The visit was an act of bridge-building.
+= 那次访问是在修好关系。
+bridge-building = 搭建沟通、修好关系
+⑪ The dentist fitted new bridgework.
+= 牙医装了新的牙桥。
+bridgework = 牙桥修复
+构词：古英语 brycg
+注意用法：抽象的"连接"是它最常用的引申。
+
 bridgehead
 核心：军事术语，指渡河或登陆后在对岸抢占并守住的那一小块阵地
 ——后续部队要靠它源源过来，所以它是整场进攻的支点。
@@ -439,19 +481,3 @@ a brindled coat = 带深色细纹的毛色
 graze = 吃草
 构词：中古英语 brended 带斑纹的
 注意用法：底色上覆深色细纹，不是块状斑点。
-
-brine
-核心：浓盐水。它有两处最常用：一是腌渍——把肉禽泡在盐水里
-过夜，肉能吸水又保水，烤出来不柴；二是泛指海水，
-偏文学。冬天路上撒的融雪剂也是盐水。不可数。
-① Soak the turkey in brine overnight.
-= 火鸡在盐水里泡一夜。
-soak in = 浸泡在
-② Olives are kept in brine.
-= 橄榄泡在盐水里保存。
-③ Brine is sprayed on icy roads.
-= 结冰的路上会喷盐水。
-spray = 喷洒
-构词：古英语 brȳne
-词族：
-briny = 咸的

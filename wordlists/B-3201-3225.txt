@@ -1,3 +1,21 @@
+brain-dead
+核心：两支。医学上指脑死亡的：脑干功能不可逆地丧失，
+在很多国家这就是法律意义上的死亡，即使心跳还能靠机器维持。
+口语里另有一支夸张的用法：蠢透了、毫无思想的，
+说一档节目 brain-dead 是说它没营养。
+① The patient was declared brain-dead.
+= 那名病人被宣告脑死亡。
+be declared brain-dead = 被宣告脑死亡
+② Brain death is a legal definition.
+= 脑死亡是一项法律认定。
+definition = 界定
+③ The show is brain-dead television.
+= 那档节目是没营养的电视。
+口语的夸张用法。
+构词：brain 脑 + dead 死的
+注意语用：口语那一支是夸张，
+跟医学定义无关。
+
 brain freeze
 核心：吃冰的东西太急时太阳穴和额头一阵刺痛，几秒就过去。
 成因是口腔上颚被骤冷刺激，血管先收缩再骤然扩张，
@@ -424,17 +442,3 @@ a brash manner = 张扬过头的做派
 近义对照：
 brash = 张扬过头的（贬义）
 confident = 自信的（褒义）
-
-brashly
-核心：副词，张扬地、莽撞地。它多修饰 announce、claim、predict
-这类"说大话"的动作，说的是那种不看场合、气势压人的说法。
-带批评。
-① He brashly predicted victory.
-= 他大剌剌地放话说会赢。
-predict = 预言
-② The firm brashly entered the market.
-= 那家公司莽撞地闯进了市场。
-③ She spoke brashly to the panel.
-= 她对着评审席大放厥词。
-panel = 评审席
-构词：brash 张扬的 + -ly

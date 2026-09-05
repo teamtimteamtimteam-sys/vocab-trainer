@@ -61,7 +61,11 @@ def load_reference():
     # 笔记文件就要记得补一次，后来 GOAL.txt 又漏了进来：里面一行中文
     # 「a 字母 100%，……」被当成 a 段词头，a 段当场从 100% 掉到 99%。
     # 所以再加一道跟文件名无关的防线：英文词头里不可能有汉字。
-    OWN = {'exclude.txt', 'proper-nouns-keep.txt', 'GOAL.txt'}
+    # a-only.txt 也是本脚本一族自己的名单文件（audit-ab 用它记「A 教过但
+    # B 不该收」的裁定），格式是「词<TAB>搭配」。多数行带汉字判语，被
+    # HAS_CJK 挡住了，但纯英文的那 29 行漏了进来，当成词头报缺 ——
+    # 「computer\twork on a computer」就这么进了 co- 段的待办清单。
+    OWN = {'exclude.txt', 'proper-nouns-keep.txt', 'GOAL.txt', 'a-only.txt'}
     HAS_CJK = re.compile(r'[\u4e00-\u9fff\u3000-\u303f\uff00-\uffef]')
     for f in sorted(glob.glob('reference/*.txt')):
         if os.path.basename(f) in OWN: continue
@@ -108,6 +112,9 @@ def load_reference():
         # AS (level)、A2 (level)、catty-corner(ed)、(the) Netherlands。
         # 全表 9 条，去掉括号符号、保留里面的字就能跟正常写法归一。
         w = w.replace('(', '').replace(')', '').strip()
+        # 清单里混着一条 en-dash 写法：cost–benefit 与 cost-benefit 并存，
+        # 同一个词两种破折号，不折就永远有一条报缺（全表仅此 1 条）。
+        w = w.replace('\u2013', '-').replace('\u2014', '-')
         # 全由单字母加连字符组成的，是带点缩略语被洗掉句点的产物：
         # a-m = a.m.，p-m = p.m.，e-g = e.g.，i-e = i.e.，d-b-a、o-n-o 同此。
         # 拼合起来就能跟带点写法归一（sort_key 本来就去句点）。全表 15 条，

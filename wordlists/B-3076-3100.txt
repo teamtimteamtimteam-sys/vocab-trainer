@@ -1,3 +1,20 @@
+borehole
+核心：为取水、采样或勘探而往地下钻的一个窄而深的孔。它跟井的
+分别在口径和用途：borehole 细，靠泵抽水或取岩芯；传统的井
+口径大、能下人。可数。
+① They sank a borehole for water.
+= 他们打了口钻孔取水。
+sink a borehole = 打钻孔
+② Samples came from the borehole.
+= 岩样取自那个钻孔。
+sample = 样本
+③ The borehole runs two hundred metres deep.
+= 那个钻孔深两百米。
+构词：bore 钻 + hole 孔
+近义对照：
+borehole = 细而深的钻孔（靠泵抽）
+well = 井（口径大，可下人）
+
 boring
 核心：形容词，令人厌烦的、乏味的。它说的是事物本身没意思，
 跟 bored（人感到没意思）分工明确。它是英语里最常用的负面
@@ -437,30 +454,3 @@ larva = 幼虫（复数 larvae）
 suffer from = 受某物之害
 构词：bot 幼虫（旧词） + fly 蝇
 注意用法：那个小孔是幼虫用来呼吸的。
-
-both
-核心：指"两个都"，位置规则是它最要紧的地方。跟名词连用时
-放在冠词和代词前面：both the boys、both my hands，不能说
-the both boys。跟 of 连用时才加 the：both of the boys。
-主语是代词时可以后置：they both left。跟 and 搭配是
-both A and B，两头要对称——both in Paris and in Rome，
-不能一头带介词一头不带。
-① Both books are useful.
-= 两本书都有用。
-② Both of them agreed.
-= 他们两个都同意了。
-both of = 两者都
-③ Both my hands were full.
-= 我两只手都占着。
-放在物主代词前面，不加冠词。
-④ They both left early.
-= 他们俩都早走了。
-主语是代词时可以后置。
-⑤ She speaks both French and German.
-= 她法语德语都会说。
-both A and B = 两者都
-⑥ It is both cheap and fast.
-= 那既便宜又快。
-构词：古诺斯语 bathir
-注意用法：both the boys 对，
-the both boys 错。

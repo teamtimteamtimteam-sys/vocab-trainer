@@ -1,3 +1,22 @@
+biochemical
+核心：形容词，指"生物化学的"——跟活体内发生的化学过程有关。
+也作名词，指生化制品或生化物质。构词是 bio-（生命）加 chemical
+（化学的）。它跟 chemical 的分界很清楚：加了 bio- 就限定在
+生命体内部，试管里配出来的反应不叫 biochemical。
+① Enzymes drive biochemical reactions.
+= 酶推动生化反应。
+biochemical reaction = 生化反应
+② The test measures biochemical markers.
+= 那项检查测的是生化指标。
+biochemical marker = 生化标志物
+③ The plant makes industrial biochemicals.
+= 那家厂生产工业用生化制品。
+biochemicals = 生化制品（名词，多用复数）
+构词：bio- 生命 + chemical 化学的
+词族：
+biochemistry = 生物化学
+biochemist = 生物化学家
+
 biochemist
 核心：研究生命体内化学过程的人——酶怎么催化、代谢怎么走、
 蛋白质怎么折叠都归他们管。它跟 chemist 的分工是研究对象：
@@ -444,17 +463,3 @@ the biology of = 某物的生理机能
 词族：
 biological = 生物的
 biologist = 生物学家
-
-bioluminescence
-核心：活体自己发出的光——萤火虫、深海鱼、发光水母、有些真菌。
-靠体内的化学反应发光，几乎不发热，所以又叫冷光。不可数。
-① Bioluminescence lights the deep sea.
-= 生物发光照亮了深海。
-② Fireflies produce bioluminescence.
-= 萤火虫会发出生物荧光。
-③ The bay glows with bioluminescence.
-= 那片海湾因生物发光而泛着光。
-glow with bioluminescence = 泛着生物荧光
-构词：bio- 生物 + luminescence 发光
-词族：
-bioluminescent = 会发生物光的

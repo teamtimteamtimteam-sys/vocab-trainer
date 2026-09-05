@@ -1,3 +1,25 @@
+boiler
+核心：烧水或产蒸汽的装置。家里那个供暖水和暖气的是它，
+工厂和火车头上产蒸汽推动机器的也是它。英式家庭里
+boiler 坏了是件大事，所以这个词在日常抱怨里出现率很高。可数。
+① The boiler broke down in January.
+= 锅炉一月份坏了。
+break down = 出故障
+② A new boiler cuts the gas bill.
+= 换新锅炉能省燃气费。
+③ Steam boilers powered the mills.
+= 蒸汽锅炉带动那些工厂。
+power = 驱动
+④ The pipes run from the boiler room.
+= 管道从锅炉房接出来。
+boiler room = 锅炉房；也指高压电话推销的办公室
+⑤ The mechanic wore a boiler suit.
+= 那名机修工穿着连体工装。
+boiler suit = 连体工装（英式；美式说 coveralls）
+构词：boil 煮沸 + -er 器具
+词族：
+boilerplate = 样板文字
+
 boilermaker
 核心：两支。本义是造锅炉和大型钢结构的工匠，铆接和焊接厚钢板是
 他们的活儿。美式口语另有一支：一小杯威士忌配一大杯啤酒的喝法，
@@ -440,21 +462,3 @@ bomb scare = 炸弹恐慌（多为虚惊或恐吓）
 构词：希腊语 bombos 隆隆声
 注意地域：口语引申义英美正相反，
 英式多为褒义，美式指失败。
-
-bombard
-核心：底层是"连续不断地砸过去"。军事上是持续炮击或轰炸；
-物理上是用粒子束轰击靶原子；日常最常用的是比喻：
-bombard someone with questions 是问题一个接一个砸过去，
-让人喘不过气。及物，几乎总跟 with 连用。
-① Artillery bombarded the town for days.
-= 炮兵连轰了那座城好几天。
-② Reporters bombarded her with questions.
-= 记者拿问题把她轰得招架不住。
-bombard someone with = 用某物连番轰击某人
-③ We are bombarded with adverts.
-= 我们被广告轮番轰炸。
-④ They bombarded the foil with neutrons.
-= 他们用中子轰击那片箔。
-物理那一支。
-构词：法语 bombarde 早期火炮
-注意用法：几乎总跟 with 连用。

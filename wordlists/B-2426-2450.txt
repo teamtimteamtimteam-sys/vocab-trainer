@@ -1,3 +1,21 @@
+bifurcate
+核心：正式用词，指"分成两叉"。道路、河流、血管、树枝分岔都能用，
+比喻上也说政策、市场、群体"一分为二"。构词是 bi-（二）加
+furca（拉丁语的"叉子"），字面就是叉成两股。
+日常说 split 或 fork，这个词多见于学术与技术写作。
+① The road bifurcates at the bridge.
+= 那条路在桥头分成两岔。
+不及物用法。
+② The artery bifurcates into two branches.
+= 那根动脉分成两支。
+bifurcate into = 分叉成
+解剖学里的常用词。
+③ The policy bifurcated the market.
+= 那项政策把市场劈成了两半。
+及物用法，比喻义。
+注意语域：正式，日常说 split 或 fork。
+构词：bi- 二 + furca 叉
+
 bifurcation
 核心：bifurcate 的名词形式，指"分叉"这件事，也指分叉的那个点。
 除了字面的岔口，它在数学和物理里是个专门概念：系统参数变到某个
@@ -507,31 +525,3 @@ bijou flat = 小巧精致的公寓
 = 那家小店别有精致的味道。
 注意语域：多见于房产广告，常带反讽。
 注意来历：法语的"珠宝"，重音在前，词尾不发音。
-
-bike
-核心：bicycle 的口语简称，也用来指摩托车（motorbike 的简称），
-所以单说 bike 有时要靠语境分辨。动词是"骑车"。围绕它的复合词
-基本照字面来。要注意 biker 的所指：在美式里它首先指骑摩托的人，
-尤其是机车帮成员，说骑自行车的人要用 cyclist。
-① She rides a bike to school.
-= 她骑车上学。
-ride a bike = 骑车
-② He bought a second-hand bike.
-= 他买了辆二手车。
-可指自行车也可指摩托车。
-③ They biked along the canal.
-= 他们沿着运河骑车。
-动词用法。
-④ Get on your bike.
-= 滚吧；自己想办法去。
-get on your bike = 走人（英式口语，也指别指望别人）
-⑤ Lock it in the bike rack.
-= 锁到车架上。
-bike rack = 自行车停放架
-⑥ Ride in the bike lane.
-= 走自行车道。
-bike lane = 自行车道
-注意别混：
-bike = 自行车；摩托车（看语境）
-biker = 骑摩托的人（美式）
-cyclist = 骑自行车的人

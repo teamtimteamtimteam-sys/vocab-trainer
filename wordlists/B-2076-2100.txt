@@ -1,3 +1,110 @@
+bar
+核心：底层是一根横着的条。所有义项都是这根条的不同用处：
+当东西——金属条、巧克力条、肥皂块，都论"条"论"块"；
+当阻挡——横在门上、路上、窗上，于是有了栏杆、障碍，
+动词就是"拦住、禁止"，介词义"除…之外"也是这么来的
+（把它挡在外面）；
+当界线——法庭上隔开旁听席与审判区的那道横木叫 the bar，
+律师要跨过它才能执业，于是"律师界"；跳高横杆立在那儿，
+于是"标准"；
+当柜台——酒馆里那条长台面叫 bar，整个店也跟着叫这个名。
+音乐的"小节"也是条：谱面上两道竖线之间的那一格。
+① He ate a chocolate bar.
+= 他吃了一条巧克力。
+a bar of = 一条、一块（巧克力、肥皂、金条）
+② A steel bar reinforced the beam.
+= 一根钢筋加固了那道梁。
+③ There are bars on the window.
+= 窗上装着铁栏杆。
+④ He spent five years behind bars.
+= 他蹲了五年牢。
+behind bars = 在狱中
+⑤ Nothing bars your way.
+= 没什么挡着你。
+动词第一层：拦住。
+⑥ He was barred from the club.
+= 他被那家俱乐部除名了。
+be barred from = 被禁止进入或参与
+⑦ Everyone came, bar two.
+= 除两个人外都来了。
+bar = 除…之外（介词，偏英式）
+⑧ It was the best show, bar none.
+= 那是最好的一场，没有例外。
+bar none = 毫无例外地
+⑨ We met at a bar.
+= 我们在酒吧见的面。
+柜台那一支：酒吧。
+⑩ She leaned on the bar and ordered.
+= 她靠着吧台点了单。
+bar = 吧台（那条长台面）
+⑪ The hotel has a coffee bar.
+= 那家酒店有个咖啡吧。
+凡是「一条柜台对外服务」的都能这么叫，
+snack bar、salad bar、nail bar 同理。
+⑫ She was called to the bar.
+= 她取得了出庭律师资格。
+be called to the bar = 获准出庭执业（英式）
+the Bar = 出庭律师界
+⑬ The prisoner stood at the bar.
+= 被告站在受审席上。
+at the bar = 在受审席上（法庭）
+⑭ That sets a high bar.
+= 那把标准定得很高。
+set the bar high = 定高标准
+raise the bar = 抬高标准
+⑮ The piece is in four-four, eight bars long.
+= 那段是四四拍，八小节。
+bar = 小节（音乐，美式说 measure）
+⑯ Scan the bar code at the till.
+= 在收银台扫条码。
+bar code = 条形码
+⑰ A sandbar blocked the channel.
+= 一道沙洲挡住了航道。
+sandbar = 沙洲
+crowbar = 撬棍
+handlebar = 车把
+注意地域：
+「小节」英式说 bar、美式说 measure；
+「除…之外」那个介词义主要在英式书面语里。
+注意别混：
+the bar = 律师界（法庭那道横木）
+the bar = 标准（跳高那根横杆）
+两个都写作 the bar，靠上下文分。
+⑱ Read the values off the bar chart.
+= 从柱状图上读数。
+bar chart = 柱状图
+bar graph = 条形图
+⑲ A bar line separates the measures.
+= 小节线把小节隔开。
+bar line = 小节线
+⑳ He perched on a bar stool.
+= 他坐在高脚凳上。
+bar stool = 吧台高脚凳
+㉑ They serve bar snacks till late.
+= 他们供应酒吧小食到很晚。
+bar snack = 酒吧小食
+㉒ We bar-hopped along the seafront.
+= 我们沿着海滨一家家酒吧地喝过去。
+bar-hop = 连着换几家酒吧喝
+㉓ They played bar billiards in the pub.
+= 他们在酒馆里玩台球。
+bar billiards = 酒吧台球（英式的一种小台球）
+㉔ Scan the barcode at the checkout.
+= 在收银处扫条码。
+barcode = 条形码
+㉕ The barroom emptied at midnight.
+= 午夜时酒吧里的人散尽了。
+barroom = 酒吧间（美式）
+㉖ A bartender mixed the drinks.
+= 调酒师调了酒。
+bartender = 酒保（美式）
+barmaid = 女酒保（英式）
+barman = 男酒保（英式）
+㉗ His bar mitzvah was held in the spring.
+= 他的成年礼是春天办的。
+bar mitzvah = 犹太男孩成年礼（十三岁）
+（这个 bar 来自希伯来语的「之子」，跟酒吧那个 bar 无关）
+
 barb
 核心：底层是"向后倒钩的那根小刺"。鱼钩上、箭头上、铁丝网上的
 倒刺都是它，作用是扎进去就拔不出来。比喻着用指"带刺的话"——
@@ -535,18 +642,3 @@ barograph
 注意别混：
 barometer = 气压计（读当下）
 barograph = 气压记录仪（画趋势曲线）
-
-barometer
-核心：测大气压的仪器。气压降表示天气要变坏，升表示转晴，
-所以它成了看天气的老办法。比喻着用指"晴雨表"——
-能反映整体形势变化的那个指标。形容词是 barometric。
-① The barometer is falling.
-= 气压在下降。
-② House prices are a barometer of confidence.
-= 房价是信心的晴雨表。
-a barometer of = …的晴雨表
-③ Barometric pressure dropped sharply.
-= 气压骤降。
-barometric = 气压的
-注意用法：
-比喻义后面接介词引出所反映的东西。

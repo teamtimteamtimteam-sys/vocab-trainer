@@ -1,3 +1,19 @@
+brine
+核心：浓盐水。它有两处最常用：一是腌渍——把肉禽泡在盐水里
+过夜，肉能吸水又保水，烤出来不柴；二是泛指海水，
+偏文学。冬天路上撒的融雪剂也是盐水。不可数。
+① Soak the turkey in brine overnight.
+= 火鸡在盐水里泡一夜。
+soak in = 浸泡在
+② Olives are kept in brine.
+= 橄榄泡在盐水里保存。
+③ Brine is sprayed on icy roads.
+= 结冰的路上会喷盐水。
+spray = 喷洒
+构词：古英语 brȳne
+词族：
+briny = 咸的
+
 bring
 核心：底层是"把东西带过来"，方向是朝着说话人或说话人所在的
 地方——这正是它跟 take 的分界：bring 是往这边带，
@@ -508,21 +524,3 @@ the national broadcaster = 国家广播机构
 code = 规约、准则
 构词：broadcast 播出 + -er
 注意用法：既指人也指机构，看语境。
-
-broadcasting
-核心：广播这一行，也指播出这件事本身。它涵盖电台电视——
-制作、编排、发射一整套。跟 streaming 的分界在于方式：
-broadcasting 是同一时刻把同一信号发给所有人，
-streaming 是各人各点各看。不可数。
-① He works in broadcasting.
-= 他做广播这一行。
-② Broadcasting is heavily regulated.
-= 广播业受严格监管。
-regulate = 监管
-③ Live broadcasting needs a delay.
-= 直播需要留延时。
-delay = 延时
-构词：broadcast 播出 + -ing
-近义对照：
-broadcasting = 广播（同一信号同时发给所有人）
-streaming = 流媒体（各人各点各看）

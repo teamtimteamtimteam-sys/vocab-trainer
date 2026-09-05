@@ -1,3 +1,18 @@
+apostrophe
+核心：指撇号「'」这个标点，两个用途：表示所有格
+（John's）和表示省略（don't）。注意别用来构成复数。
+① Use an apostrophe for possession.
+= 所有格要用撇号。
+② "Don't" has an apostrophe.
+= 「don't」里有个撇号。
+③ The apostrophe is often misused.
+= 撇号常被用错。
+常见错误：
+apple's（复数）是错的，应写 apples
+its = 它的（无撇号）
+it's = it is 的缩写（有撇号）
+注意发音：/əˈpɒstrəfi/，四个音节。
+
 apostrophize
 核心：修辞学动词，指"顿呼"——写作或演说中忽然掉转头去，
 直接对一个不在场的人、死者、甚至抽象事物说话。这跟标点里那个
@@ -473,20 +488,3 @@ append = 附加
 appendage = 附属物（正式）
 attachment = 附件（可拆）
 extension = 延伸部分
-
-appendicitis
-核心：医学词，指阑尾炎。不可数。
-急性阑尾炎需要手术切除阑尾（appendectomy）。
-① He was rushed in with appendicitis.
-= 他因阑尾炎被急送医院。
-② Appendicitis causes severe pain.
-= 阑尾炎引起剧痛。
-severe pain = 剧痛
-③ Acute appendicitis needs surgery.
-= 急性阑尾炎需要手术。
-acute appendicitis = 急性阑尾炎
-词族：
-appendix = 阑尾
-appendectomy = 阑尾切除术
-构词：appendic- 阑尾 + -itis 炎症
-同类：arthritis 关节炎、bronchitis 支气管炎

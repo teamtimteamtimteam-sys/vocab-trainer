@@ -1,3 +1,21 @@
+broadcasting
+核心：广播这一行，也指播出这件事本身。它涵盖电台电视——
+制作、编排、发射一整套。跟 streaming 的分界在于方式：
+broadcasting 是同一时刻把同一信号发给所有人，
+streaming 是各人各点各看。不可数。
+① He works in broadcasting.
+= 他做广播这一行。
+② Broadcasting is heavily regulated.
+= 广播业受严格监管。
+regulate = 监管
+③ Live broadcasting needs a delay.
+= 直播需要留延时。
+delay = 延时
+构词：broadcast 播出 + -ing
+近义对照：
+broadcasting = 广播（同一信号同时发给所有人）
+streaming = 流媒体（各人各点各看）
+
 broaden
 核心：使变宽或变宽，字面说路说河。更常用的是引申：
 拓宽范围和眼界——broaden your horizons 是开阔眼界，
@@ -421,18 +439,3 @@ chronic = 慢性的
 = 支气管炎让人喘不上气。
 构词：bronchus 支气管 + -itis 炎症
 注意用法：急性多由感染，慢性多跟吸烟有关。
-
-bronchus
-核心：支气管，气管往下分出来的那两根大管子，一左一右
-各进一侧肺，再往里越分越细。复数是 bronchi，
-按拉丁语的规矩变。可数。
-① The trachea splits into two bronchi.
-= 气管分成两根支气管。
-trachea = 气管
-② Each bronchus enters one lung.
-= 每根支气管进入一侧肺。
-③ The bronchi branch repeatedly.
-= 支气管一再分支。
-branch = 分支
-构词：希腊语 bronchos 气管
-注意复数：bronchus 的复数是 bronchi。

@@ -1,3 +1,31 @@
+bike
+核心：bicycle 的口语简称，也用来指摩托车（motorbike 的简称），
+所以单说 bike 有时要靠语境分辨。动词是"骑车"。围绕它的复合词
+基本照字面来。要注意 biker 的所指：在美式里它首先指骑摩托的人，
+尤其是机车帮成员，说骑自行车的人要用 cyclist。
+① She rides a bike to school.
+= 她骑车上学。
+ride a bike = 骑车
+② He bought a second-hand bike.
+= 他买了辆二手车。
+可指自行车也可指摩托车。
+③ They biked along the canal.
+= 他们沿着运河骑车。
+动词用法。
+④ Get on your bike.
+= 滚吧；自己想办法去。
+get on your bike = 走人（英式口语，也指别指望别人）
+⑤ Lock it in the bike rack.
+= 锁到车架上。
+bike rack = 自行车停放架
+⑥ Ride in the bike lane.
+= 走自行车道。
+bike lane = 自行车道
+注意别混：
+bike = 自行车；摩托车（看语境）
+biker = 骑摩托的人（美式）
+cyclist = 骑自行车的人
+
 biker
 核心：在美式英语里首先指骑摩托车的人，尤其是穿皮衣、结伙上路的
 机车族，所以它自带一层亚文化色彩，不是中性的"骑车人"。
@@ -485,24 +513,3 @@ billiard cue = 台球杆
 billiard room = 台球室
 注意用法：作定语用单数，
 指这项运动本身要用 billiards。
-
-billiards
-核心：台球这项运动，形式上是复数，但当单数用——说 billiards is
-popular，不说 are。这跟 mathematics、politics 是同一类：
-以 -s 结尾的活动或学科名。英式的 billiards 严格说指用三个球
-在带袋球台上打的那一种，靠碰撞与入袋计分，跟 snooker、pool
-用的是同一种球台，但规则和球数完全不同。
-① Billiards is his favourite game.
-= 台球是他最爱的运动。
-形式复数、意义单数，谓语用单数。
-② They played billiards after dinner.
-= 饭后他们打了台球。
-③ He learned billiards as a boy.
-= 他小时候学的台球。
-同类名词：
-mathematics = 数学
-politics = 政治
-近义对照：
-billiards = 英式台球（三球，有袋台）
-snooker = 斯诺克
-pool = 花式撞球

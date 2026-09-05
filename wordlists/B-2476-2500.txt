@@ -1,3 +1,24 @@
+billiards
+核心：台球这项运动，形式上是复数，但当单数用——说 billiards is
+popular，不说 are。这跟 mathematics、politics 是同一类：
+以 -s 结尾的活动或学科名。英式的 billiards 严格说指用三个球
+在带袋球台上打的那一种，靠碰撞与入袋计分，跟 snooker、pool
+用的是同一种球台，但规则和球数完全不同。
+① Billiards is his favourite game.
+= 台球是他最爱的运动。
+形式复数、意义单数，谓语用单数。
+② They played billiards after dinner.
+= 饭后他们打了台球。
+③ He learned billiards as a boy.
+= 他小时候学的台球。
+同类名词：
+mathematics = 数学
+politics = 政治
+近义对照：
+billiards = 英式台球（三球，有袋台）
+snooker = 斯诺克
+pool = 花式撞球
+
 billing
 核心：两条线，都从 bill 来。一是"计费、开账单"这件事，
 billing address、billing cycle 都属这一支；二是演出海报上的
@@ -502,22 +523,3 @@ take a biobreak = 中场去趟洗手间
 近义对照：
 biobreak = 方便一下（委婉，办公室用语）
 comfort break = 中场休息（英式，同样委婉）
-
-biochemical
-核心：形容词，指"生物化学的"——跟活体内发生的化学过程有关。
-也作名词，指生化制品或生化物质。构词是 bio-（生命）加 chemical
-（化学的）。它跟 chemical 的分界很清楚：加了 bio- 就限定在
-生命体内部，试管里配出来的反应不叫 biochemical。
-① Enzymes drive biochemical reactions.
-= 酶推动生化反应。
-biochemical reaction = 生化反应
-② The test measures biochemical markers.
-= 那项检查测的是生化指标。
-biochemical marker = 生化标志物
-③ The plant makes industrial biochemicals.
-= 那家厂生产工业用生化制品。
-biochemicals = 生化制品（名词，多用复数）
-构词：bio- 生命 + chemical 化学的
-词族：
-biochemistry = 生物化学
-biochemist = 生物化学家

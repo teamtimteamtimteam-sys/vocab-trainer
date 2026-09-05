@@ -1,3 +1,19 @@
+autistic
+核心：指"自闭症的、有自闭特质的"。
+作名词指自闭症人士。用词分寸参见 autism 条。
+① He is autistic.
+= 他是自闭症人士。
+② Autistic traits vary widely.
+= 自闭特质差异很大。
+autistic trait = 自闭特质
+③ She works with autistic children.
+= 她的工作对象是自闭症儿童。
+词族：autism
+注意语用：
+autistic 作形容词是中性描述，
+但不要拿来形容「不合群的人」——
+那是误用也是冒犯。
+
 auto
 核心：北美说法，指"汽车"，多作定语用在行业词里：auto industry、
 auto parts、auto racing。它同时是构词能力极强的前缀，
@@ -407,19 +423,3 @@ automatic writing = 自动书写
 ⑧ The camera has an autowind mechanism.
 = 那台相机有自动过片机构。
 autowind = 自动过片（胶片相机）
-
-automatically
-核心：两条线：机器"自动地"，
-和"自然而然、不假思索地"。第二条常被忽略。
-① The door opens automatically.
-= 那扇门自动开启。
-② He automatically reached for it.
-= 他下意识伸手去拿。
-③ You don't automatically qualify.
-= 你并不因此自动具备资格。
-automatically qualify = 自动获得资格
-词族：automatic、automate
-近义对照：
-automatically = 自动地；必然地
-instinctively = 本能地
-by default = 默认地

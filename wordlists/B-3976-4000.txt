@@ -1,3 +1,75 @@
+case
+核心：两组意思共用一个拼法，来路不同，都极常用。一组
+从情形来：具体的事例与情况、病例、法律上的案件、主张与
+理据、语法上的格。另一组从盒来：装东西的箱、匣、套，
+也指一箱的量。习语 in case 以防、in any case 无论如何。
+派生一族：casebook 案例集、caseload 手上待办的案量、
+casework 个案工作、caseworker 个案社工。
+① That is not true in this case.
+= 在这种情形下不是这样。
+in this case = 在这种情形下
+② Three cases were confirmed.
+= 确诊了三例。
+a case = 病例
+③ The case comes to court in June.
+= 那个案子六月开庭。
+a case = 案件
+④ She made a strong case for reform.
+= 她为改革讲出了很有力的道理。
+make a case for = 为……说出道理
+⑤ Latin has six cases.
+= 拉丁语有六个格。
+case = 语法上的格
+⑥ Pack the violin in its case.
+= 把小提琴装进琴匣。
+a case = 匣、套、箱
+⑦ They ordered a case of wine.
+= 他们订了一箱酒。
+a case of wine = 一箱酒
+⑧ Take an umbrella in case it rains.
+= 带把伞，以防下雨。
+in case = 以防、万一
+⑨ In any case, we have to go.
+= 无论如何我们都得走。
+in any case = 无论如何
+⑩ Her caseload is impossible.
+= 她手上的案子多得做不完。
+caseload = 手上待办的案量
+⑪ He does casework with families.
+= 他做家庭个案工作。
+casework = 个案工作
+⑫ The caseworker filed a report.
+= 那位个案社工提交了报告。
+caseworker = 个案社工
+⑬ The casebook lists forty examples.
+= 那本案例集收了四十个例子。
+casebook = 案例集
+⑭ The knives come cased in leather.
+= 那套刀配着皮套。
+cased = 装在套或箱里的
+⑮ The doctor read her case history.
+= 医生看了她的病史。
+a case history = 病史、个案记录
+这一族复合词都属情形那一支，不是箱盒那一支。
+⑯ Case law settled the point.
+= 那一点由判例法定下了。
+case law = 判例法
+⑰ Passwords are case-sensitive.
+= 密码区分大小写。
+case-sensitive = 区分大小写的
+计算机语境里的 case 指字母的大小写，又是另一层意思。
+⑱ The book opens with a case study.
+= 那本书以一个案例研究开头。
+a case study = 案例研究
+⑲ In that case, we should leave now.
+= 那样的话我们该走了。
+in that case = 那样的话
+⑳ Her career is a case in point.
+= 她的经历就是个现成的例子。
+a case in point = 恰好说明问题的例子
+构词：情形义出自拉丁语 casus 落下、遭遇；盒义出自 capsa 箱
+注意用法：in case 后面接从句，不接不定式。
+
 casement
 核心：侧边装铰链、像门一样推开的窗，跟上下推拉的
 sash window 相对。全称 a casement window，文学里也
@@ -514,19 +586,3 @@ castor = 海狸香
 castor sugar = 细砂糖（英式）
 构词：拉丁语 castor 海狸
 注意拼写：脚轮义与 caster 通用。
-
-castrate
-核心：阉割：摘除雄性的睾丸。比喻义也常用：把一份文件、
-一项提案里有力量的部分删掉，使它失去锋芒。名词
-castration。
-① The lambs were castrated in spring.
-= 羊羔春天做了阉割。
-castrate = 阉割
-② Amendments castrated the bill.
-= 修正案把那个法案削得没了力气。
-castrate = 使失去锋芒
-③ Castration changes the animal's growth.
-= 阉割会改变动物的生长。
-castration = 阉割
-构词：拉丁语 castrare 阉割
-注意语域：比喻义带强烈的贬。

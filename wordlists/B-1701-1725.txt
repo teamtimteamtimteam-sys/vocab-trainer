@@ -1,3 +1,18 @@
+attn
+核心：书面缩写，来自 attention，用在信封、备忘录和邮件抬头上，
+标明"此件请交某人处理"。写法上带不带句点都有人用，只写不说。
+① Address it attn Ms Zhang.
+= 信封上注明请那位女士收。
+attn = 请…收阅、经办
+② The memo is marked attn: Finance.
+= 那份备忘注明由财务部处理。
+③ Use attn on the envelope, not in the letter.
+= 这个缩写写在信封上，正文里不用。
+注意用法：
+只用于抬头与信封，正文里写全。
+注意语域：
+公文与商务书信用语。
+
 attorney
 核心：美式用语，指律师。英式说 solicitor 或 barrister。
 另有 power of attorney（委托代理权）这个法律概念。
@@ -453,21 +468,3 @@ audio = 音频的
 ④ Audibility drops at the back of the hall.
 = 大厅后排听得不太清。
 audibility = 可听度、清晰可闻的程度
-
-audibly
-核心：副词，"听得见地、出声地"。
-常修饰 sigh、gasp、groan 这类不自觉发出的声音。
-① She sighed audibly.
-= 她出声地叹了口气。
-sigh audibly = 明显地叹气
-② The crowd audibly gasped.
-= 人群发出清晰的抽气声。
-③ He muttered audibly.
-= 他咕哝的声音能听见。
-反义词：
-inaudibly = 听不见地
-词族：audible
-近义对照：
-audibly = 听得见地（有声）
-aloud = 出声地（对比默读）
-loudly = 大声地（对比小声）

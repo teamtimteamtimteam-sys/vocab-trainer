@@ -21690,6 +21690,27 @@ Arctic = 北极
 Antarctica = 南极洲（大陆）
 注意拼写：ant-arctic，两个 c。
 
+ante
+核心：赌局开牌前每人先押的那一份底注。这个词今天主要活在几个固定
+说法里，本义反而少见：up the ante 与 raise the ante 是加码、把要求
+或风险再抬高一档，比喻用法比赌桌上的用法常见得多；ante up 是掏钱、
+出份子。名词可数，多用单数。
+① Each player puts an ante in the pot.
+= 每个玩家先往池里放一份底注。
+an ante = （牌局的）底注
+② The union upped the ante by calling a strike.
+= 工会宣布罢工，把筹码又加了一档。
+up the ante = 加码、抬高要求或风险
+③ That deal raised the ante for everyone else.
+= 那笔交易把所有人的门槛都抬高了。
+raise the ante = 同一个意思，两个动词都有人用
+④ We all had to ante up fifty pounds.
+= 我们每人得掏五十镑。
+ante up = 掏钱、出份子
+作动词时偏口语，常带一点不情不愿也得出的意味。
+构词：拉丁语 ante「在……之前」，指开牌之前先押的那一份
+注意别混：跟表示反对的那个前缀只差一个字母，意思毫无关系。
+
 anteater
 核心：中南美洲的一种哺乳动物，没有牙，靠细长的吻和更长的黏舌
 伸进蚁穴舔食蚂蚁白蚁，前爪强壮能扒开蚁丘。名字就是照着
@@ -98338,25 +98359,3 @@ a river conservancy = 河流管理机构
 conservancy = 资源保护
 构词：conserve 保护 + -ancy
 注意用法：多出现在机构名里。
-
-conservation
-核心：三支，共同点是「让它保持原样」。一是自然保护；
-二是文物修复保护；三是物理学的守恒定律。做这一行的人
-叫 conservationist。不可数。
-① Conservation of the reef is urgent.
-= 保护那片珊瑚礁刻不容缓。
-conservation = 自然保护
-② She trained in paper conservation.
-= 她学的是纸质文物修复。
-conservation = 文物修复保护
-③ The law of conservation of energy holds.
-= 能量守恒定律成立。
-conservation of energy = 能量守恒
-④ Conservationists opposed the dam.
-= 环保人士反对那座坝。
-a conservationist = 环保人士
-⑤ The conservator cleaned the varnish.
-= 修复师清掉了那层清漆。
-a conservator = 文物修复师
-构词：conserve 保存 + -ation
-注意分工：三支都是让它保持原样。
