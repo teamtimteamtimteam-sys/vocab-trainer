@@ -444,6 +444,9 @@ bus station = 有站台候车厅的汽车站
 ⑩ Busing ended in most districts by the nineties and the schools resegregated.
 = 校车接送到九十年代在多数学区终止，学校又重新隔离了。
 busing = 跨区校车接送（美式）
+⑪ The school bus stops at the end of the lane and waits about nine seconds.
+= 校车停在巷子口，大约只等九秒钟。
+school bus = 校车
 构词：拉丁语 omnibus 给所有人的
 注意来历：早期公共马车叫 omnibus，
 掐掉前半剩下了 bus。
