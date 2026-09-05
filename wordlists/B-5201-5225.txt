@@ -1,55 +1,3 @@
-cosmic
-核心：两支。一是宇宙的：cosmic rays 是宇宙射线；二是口语
-的夸张说法「大得没边的」。副词 cosmically。
-① Cosmic rays reach the ground.
-= 宇宙射线能到地面。
-cosmic rays = 宇宙射线
-② The cosmic scale is hard to grasp.
-= 宇宙那个尺度不好把握。
-the cosmic scale = 宇宙尺度
-③ It felt like a cosmic joke.
-= 那感觉像个天大的玩笑。
-a cosmic joke = 天大的玩笑
-④ The plan was cosmically bad.
-= 那个方案糟得没边。
-cosmically = 大得没边地
-构词：希腊语 kosmos 秩序、宇宙
-注意语气：第二支是口语的夸张。
-
-cosmogony
-核心：宇宙起源论：讲宇宙如何生成的学说或神话。跟研究宇宙
-整体结构的 cosmology 分工不同：这个问「怎么开始的」。学术
-词，可数不可数都行。
-① Every culture has its cosmogony.
-= 每种文化都有自己的宇宙起源说。
-a cosmogony = 宇宙起源论
-② The poem sets out a cosmogony.
-= 那首诗铺陈了一套宇宙起源说。
-set out a cosmogony = 铺陈宇宙起源说
-③ Cosmogony asks how it all began.
-= 宇宙起源论问的是这一切怎么开始的。
-cosmogony = 宇宙起源论
-构词：希腊语 kosmos 宇宙 + gonia 生成
-注意分工：这个问「怎么开始」，cosmology 问「整体是怎样的」。
-
-cosmology
-核心：宇宙学：研究宇宙整体结构、起源与演化的学科；也指
-某一套宇宙观。形容词 cosmological，学者叫 cosmologist。
-① She teaches cosmology at Cambridge.
-= 她在剑桥教宇宙学。
-cosmology = 宇宙学
-② Medieval cosmology put Earth at the centre.
-= 中世纪那套宇宙观把地球摆在中心。
-a cosmology = 一套宇宙观
-③ The cosmological constant troubled Einstein.
-= 宇宙学常数让爱因斯坦犯难。
-the cosmological constant = 宇宙学常数
-④ Cosmologists model the early universe.
-= 宇宙学家给早期宇宙建模。
-a cosmologist = 宇宙学家
-构词：希腊语 kosmos 宇宙 + logia 学说
-注意分工：这个问整体，cosmogony 问起源。
-
 cosmonaut
 核心：苏联与俄罗斯的宇航员。美国那边叫 astronaut，两个词
 分工只看国别。可数。
@@ -452,3 +400,79 @@ cough medicine = 止咳药
 a cough drop = 润喉糖
 构词：拟声，中古英语 coughen
 注意搭配：cough up 两支意思差得远，看宾语。
+
+could
+核心：情态动词，几支。一是 can 的过去式：说过去的能力与
+许可；二是表示可能性，比 can 弱；三是提请求，比 can 客气；
+四是提建议；五是 could have done 说本来能做而没做。缩写
+couldn't。
+① She could swim at four.
+= 她四岁就会游泳了。
+could = 那时会（can 的过去式）
+② It could rain later.
+= 待会儿可能下雨。
+could = 有可能
+③ Could you hold this?
+= 能帮我拿一下吗？
+could you = 能不能请你（客气的请求）
+④ We could walk from here.
+= 我们不妨从这儿走过去。
+could = 不妨（提建议）
+⑤ You could have told me.
+= 你本来可以跟我说一声的。
+could have done = 本来能做却没做
+构词：can 的过去式，中间那个 l 是后人比着 should 硬加的
+注意用法：说过去某一次真做成了要用 was able to，不用 could。
+
+coulis
+核心：果蔬酱汁：水果或蔬菜打成泥再滤过，淋在甜点或菜上的
+稀酱。单复数同形，词尾的 s 不发音。
+① Serve it with a raspberry coulis.
+= 配一份覆盆子酱汁上桌。
+a raspberry coulis = 覆盆子酱汁
+② Sieve the coulis twice.
+= 那份酱汁过两遍筛。
+sieve a coulis = 把酱汁过筛
+③ A coulis should pour, not hold.
+= 好的果蔬酱汁要能流，不能挺住。
+a coulis = 稀果蔬酱汁
+构词：法语 couler 流动
+注意读音：词尾的 s 不发音。
+
+coulomb
+核心：库仑：电荷量的国际单位，一安培电流一秒钟通过的电量。
+物理用词，可数。
+① Charge is measured in coulombs.
+= 电荷量以库仑计。
+a coulomb = 库仑
+② One coulomb equals one ampere-second.
+= 一库仑等于一安培秒。
+one coulomb = 一库仑
+③ Coulomb's law describes the force.
+= 库仑定律描述那个力。
+Coulomb's law = 库仑定律
+构词：以法国物理学家库仑命名
+注意用法：作单位时小写，作人名时大写。
+
+council
+核心：两支。一是地方议会：市镇的民选管理机构，council
+house 是公租房、council tax 是市政税，都是英式；二是委员会、
+理事会。成员叫 councillor。可数。
+① The council approved the plan.
+= 议会批准了那个方案。
+a council = 地方议会
+② She grew up in a council house.
+= 她在公租房里长大。
+a council house = 公租房（英式）
+③ Council tax went up again.
+= 市政税又涨了。
+council tax = 市政税（英式）
+④ He sits on the arts council.
+= 他是艺术理事会的成员。
+sit on a council = 担任理事
+⑤ The councillor held a surgery.
+= 那位议员开了接待日。
+a councillor = 议员、理事
+councilor = 议员（美式拼法）
+构词：拉丁语 concilium 集会
+注意别混：跟 counsel 同音，那个是「忠告、律师」。

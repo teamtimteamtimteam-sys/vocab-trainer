@@ -13,27 +13,10 @@ B 5000
 最末词条 byword。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5221 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
-co- 段清单 1956 条、已收 1302 条（66%），写到 cough，
-下批从 could / coulis / council 一带起。
+B 词表 5250 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
+co- 段清单 1956 条、已收 1346 条（68%），写到 county，
+下批从 coup / coupe / couple 一带起。
 之后 cp 1、cr 481、ct 1、cu 223、cw 4、cy 51、cz 4。
-
-【audit-swallowed 曾把带重音符的词误报成「被吞掉」（2026-09-05 已修）】
-cortège 之于 cortege 是同一个词的重音写法，coverage 的判定折过重音，
-本来就算已收；但 audit-swallowed 比对词头时没折，于是误报。
-已给它加上重音折叠。同类还有 cinéma / cinema、compère / compere。
-**闸门报错时先判断是词条写错了还是尺子错了，别条件反射去改词条。**
-
-【co- 段的同前缀雷区，动笔前必看】
-comp- / conf- / cons- / cont- / conv- / coo- / cop- / corn- / cord- / coro-
-每一串都有十几个词挤在一起。凡在词条里提到同前缀的派生形式，
-都必须配例句或等式，否则会被宿主吞掉、永远不出现在待新写里。
-三字母词根尤其危险：coo 吃掉一切 coo- 开头的词，cop 吃掉一切 cop- 的，
-cor 吃掉一切 cor- 的 —— 写这三条时一个同前缀字面都不要提。
-corn- 是最密的一串：corncrake / cornea / corner / cornet / cornflower /
-cornice / cornrows / cornucopia 全都以 corn 开头，写 corn 条时
-只能提那些真正并进来的（cornbread、corncob、cornflakes…），
-其余必须各自立条。
 
 【交付文件：每 5000 条一个（用户 2026-09-05 改口）】
 不再合成单一大文件。跑 `python3 scripts/merge-wordlist.py B 5000`：

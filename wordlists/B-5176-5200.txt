@@ -1,33 +1,3 @@
-corpuscle
-核心：血细胞的旧称：red corpuscles 是红细胞，white
-corpuscles 是白细胞，今天多说 cell。物理上旧指微粒。可数。
-① Red corpuscles carry oxygen.
-= 红细胞运氧。
-a red corpuscle = 红细胞
-② White corpuscles fight infection.
-= 白细胞抵抗感染。
-a white corpuscle = 白细胞
-③ Newton described light as corpuscles.
-= 牛顿把光说成微粒。
-a corpuscle = 微粒（旧说法）
-构词：拉丁语 corpusculum 小体
-注意语域：旧称，今天多说 cell。
-
-corral
-核心：名词是畜栏：北美牧场上圈马圈牛的围栏。动词一是把
-牲口赶进栏，二是引申的把人或信息聚拢管住。可数。
-① They drove the horses into the corral.
-= 他们把马赶进了畜栏。
-a corral = 畜栏
-② Stewards corralled the crowd.
-= 纠察把人群圈到了一处。
-corral = 把……圈拢起来
-③ She corralled the facts into a table.
-= 她把那些事实归拢进一张表。
-corral into = 归拢进
-构词：西班牙语 corral 畜栏
-注意用法：引申义说把人或信息聚拢管住。
-
 correct
 核心：形容词一是正确无误的；二是得体的：挑不出错但不亲热。
 动词一是改正批改，二是矫正视力姿势。名词 correction 有
@@ -434,3 +404,55 @@ cosmetics = 化妆品
 cosmetically = 只在外观上
 构词：希腊语 kosmetikos 修饰的
 注意语气：第二支是贬义，说只做表面。
+
+cosmic
+核心：两支。一是宇宙的：cosmic rays 是宇宙射线；二是口语
+的夸张说法「大得没边的」。副词 cosmically。
+① Cosmic rays reach the ground.
+= 宇宙射线能到地面。
+cosmic rays = 宇宙射线
+② The cosmic scale is hard to grasp.
+= 宇宙那个尺度不好把握。
+the cosmic scale = 宇宙尺度
+③ It felt like a cosmic joke.
+= 那感觉像个天大的玩笑。
+a cosmic joke = 天大的玩笑
+④ The plan was cosmically bad.
+= 那个方案糟得没边。
+cosmically = 大得没边地
+构词：希腊语 kosmos 秩序、宇宙
+注意语气：第二支是口语的夸张。
+
+cosmogony
+核心：宇宙起源论：讲宇宙如何生成的学说或神话。跟研究宇宙
+整体结构的 cosmology 分工不同：这个问「怎么开始的」。学术
+词，可数不可数都行。
+① Every culture has its cosmogony.
+= 每种文化都有自己的宇宙起源说。
+a cosmogony = 宇宙起源论
+② The poem sets out a cosmogony.
+= 那首诗铺陈了一套宇宙起源说。
+set out a cosmogony = 铺陈宇宙起源说
+③ Cosmogony asks how it all began.
+= 宇宙起源论问的是这一切怎么开始的。
+cosmogony = 宇宙起源论
+构词：希腊语 kosmos 宇宙 + gonia 生成
+注意分工：这个问「怎么开始」，cosmology 问「整体是怎样的」。
+
+cosmology
+核心：宇宙学：研究宇宙整体结构、起源与演化的学科；也指
+某一套宇宙观。形容词 cosmological，学者叫 cosmologist。
+① She teaches cosmology at Cambridge.
+= 她在剑桥教宇宙学。
+cosmology = 宇宙学
+② Medieval cosmology put Earth at the centre.
+= 中世纪那套宇宙观把地球摆在中心。
+a cosmology = 一套宇宙观
+③ The cosmological constant troubled Einstein.
+= 宇宙学常数让爱因斯坦犯难。
+the cosmological constant = 宇宙学常数
+④ Cosmologists model the early universe.
+= 宇宙学家给早期宇宙建模。
+a cosmologist = 宇宙学家
+构词：希腊语 kosmos 宇宙 + logia 学说
+注意分工：这个问整体，cosmogony 问起源。

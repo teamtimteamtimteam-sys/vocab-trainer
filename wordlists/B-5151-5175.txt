@@ -1,18 +1,3 @@
-cormorant
-核心：鸬鹚：黑羽长脖的水鸟，潜水捉鱼，上岸后张开翅膀晾干。
-引申也说人贪得无厌，偏文学。可数。
-① A cormorant dried its wings on the rock.
-= 一只鸬鹚在礁石上晾翅膀。
-a cormorant = 鸬鹚
-② Cormorants dive for fish.
-= 鸬鹚潜水捉鱼。
-dive for fish = 潜水捉鱼
-③ The press called him a cormorant.
-= 报纸说他贪得无厌。
-a cormorant = 贪得无厌的人
-构词：拉丁语 corvus marinus 海乌鸦
-注意用法：引申义偏文学。
-
 corn
 核心：三支要分清。英式指谷物总称，尤指本地主粮；美式专指
 玉米，英式的玉米叫 maize。第三支是脚上的鸡眼。派生一族：
@@ -434,3 +419,33 @@ a corpus = 全部作品
 corpora = 语料库（复数）
 构词：拉丁语 corpus 身体、整体
 注意复数：corpora，不说 corpuses。
+
+corpuscle
+核心：血细胞的旧称：red corpuscles 是红细胞，white
+corpuscles 是白细胞，今天多说 cell。物理上旧指微粒。可数。
+① Red corpuscles carry oxygen.
+= 红细胞运氧。
+a red corpuscle = 红细胞
+② White corpuscles fight infection.
+= 白细胞抵抗感染。
+a white corpuscle = 白细胞
+③ Newton described light as corpuscles.
+= 牛顿把光说成微粒。
+a corpuscle = 微粒（旧说法）
+构词：拉丁语 corpusculum 小体
+注意语域：旧称，今天多说 cell。
+
+corral
+核心：名词是畜栏：北美牧场上圈马圈牛的围栏。动词一是把
+牲口赶进栏，二是引申的把人或信息聚拢管住。可数。
+① They drove the horses into the corral.
+= 他们把马赶进了畜栏。
+a corral = 畜栏
+② Stewards corralled the crowd.
+= 纠察把人群圈到了一处。
+corral = 把……圈拢起来
+③ She corralled the facts into a table.
+= 她把那些事实归拢进一张表。
+corral into = 归拢进
+构词：西班牙语 corral 畜栏
+注意用法：引申义说把人或信息聚拢管住。
