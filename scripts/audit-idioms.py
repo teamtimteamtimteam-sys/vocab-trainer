@@ -110,6 +110,12 @@ CHECK = {
  'customer': ['the customer is always right'],
  'curve': ['ahead of the curve', 'throw somebody a curve'],
  'current': ['current affairs', 'go against the current'],
+ 'cut': ['cut back', 'cut down', 'cut in', 'cut it out', 'a cut above',
+         'cut both ways', 'cut and dried', 'cut corners', 'cut off',
+         'cut out', 'cut somebody some slack'],
+ 'cute': ['as cute as a button'],
+ 'cycle': ['a vicious cycle'],
+ 'cynic': ['a cynical view'],
  # 往下写到哪个字母段，就在这里补哪一段的大词
 }
 

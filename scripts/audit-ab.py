@@ -100,6 +100,14 @@ def main(argv):
     # B 是全量词典，派生词各有自己的词条：A 的 absent 条下教了 absence，
     # 而 B 里 absence 是独立词头 —— 那不是漏，是分工。
     bheads = {fold(x) for x in B}
+    # 清单里本身就是词头的，B 迟早会给它单独立条（recycle 会在 r 段写），
+    # 不该算成别的词条的缺口 —— 那是分工，不是漏（2026-09-05）。
+    try:
+        spec2 = u.spec_from_file_location('cv', 'scripts/coverage.py')
+        cv = u.module_from_spec(spec2); spec2.loader.exec_module(cv)
+        bheads |= {fold(v) for v in cv.load_reference().values()}
+    except Exception:
+        pass
     # 一个搭配可能教在别的词条里 —— A 的 after 条教了 look after，
     # B 把它放在 look 条下，那不是漏。所以要全表搜，不能只搜同名词条。
     allB = fold(' '.join(l for v in B.values() for l in v))
