@@ -201,29 +201,29 @@ anonymously = 匿名地
 anonymous
 核心：指"匿名的、不具名的"，可以说人、信件、捐赠、举报。
 也指"没有特色的、千篇一律的"（an anonymous building）。
-① The donor wished to remain anonymous.
-= 捐赠者希望保持匿名。
+① The donor wished to remain anonymous and gave enough to build a wing.
+= 捐赠者希望保持匿名，捐的钱够盖一整栋侧楼。
 remain anonymous = 保持匿名
-② She received an anonymous letter.
-= 她收到一封匿名信。
+② She received an anonymous letter that named three people she had never met.
+= 她收到一封匿名信，里面点了三个她从没见过的人的名字。
 anonymous letter = 匿名信
-③ It's an anonymous tip-off.
-= 那是个匿名举报。
+③ It's an anonymous tip-off and the police have acted on far less.
+= 这是条匿名举报，警方凭更少的线索都行动过。
 anonymous tip-off = 匿名举报
-④ The suburb looks anonymous.
-= 那片郊区毫无特色。
+④ The suburb looks anonymous and every street is named after a poet.
+= 这片郊区毫无特色，每条街却都以诗人命名。
 词族：
 anonymity = 匿名状态
 anonymously = 匿名地
 注意发音：/əˈnɒnɪməs/
-⑤ Anonymous FTP lets anyone download files.
-= 匿名传输协议让任何人都能下载文件。
+⑤ Anonymous FTP lets anyone download files without so much as a name.
+= 匿名文件传输让任何人不用留名就能下载文件。
 anonymous FTP = 匿名文件传输
-⑥ They anonymize the data before analysis.
-= 他们在分析前把数据匿名化。
+⑥ They anonymize the data before analysis and often do it badly.
+= 他们在分析前把数据匿名化，做得常常很糟。
 anonymize = 匿名化处理
-⑦ Anonymization is required by the policy.
-= 政策要求做匿名化。
+⑦ Anonymization is required by the policy and audited by nobody.
+= 政策要求做匿名化处理，却没人审计。
 anonymization = 匿名化
 
 anorak

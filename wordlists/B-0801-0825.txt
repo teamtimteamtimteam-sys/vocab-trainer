@@ -324,29 +324,27 @@ allow
 核心：底层是"准许"。三个结构：allow doing（笼统地准许某行为）、
 allow someone to do（准许某人做）、be allowed to（被准许）。
 不能说 allow someone doing。另有"留出余量"的义。
-① They don't allow smoking here.
-= 这里不许吸烟。
+① They don't allow smoking here and the sign has been up since 2007.
+= 这里不许吸烟，牌子从二零零七年就挂着。
 allow doing = 允许某行为
-② She allowed me to leave.
-= 她准我走了。
+② She allowed me to leave early and made a note of it in the book.
+= 她准我早走，还在本子上记了一笔。
 allow someone to do = 准许某人做
-③ You're not allowed to park here.
-= 这里不许停车。
+allow somebody to do = 准许某人做
+③ You're not allowed to park here between eight and six on weekdays.
+= 工作日八点到六点之间，这里不许停车。
 be allowed to = 被允许
-④ Allow two hours for the journey.
-= 路上要留出两小时。
+④ Allow two hours for the journey and another one for finding the place.
+= 路上留两小时，再留一小时找地方。
 这里：
 allow = 预留
-⑤ Allow for delays.
-= 把延误考虑进去。
+⑤ Allow for delays; the last three trains have all been cancelled.
+= 要把延误算进去，前三班车都取消了。
 allow for = 考虑到
 注意：不说 allow someone doing。
-⑥ The rules allow of no exception.
-= 那些规定不容例外。
+⑥ The rules allow of no exception and are ignored about twice a week.
+= 规则不容例外，每周大约被无视两次。
 allow of = 容许有（正式，多用于否定）
-⑦ They allowed him to leave early.
-= 他们准他早走。
-allow somebody to do = 准许某人做
 
 allowable
 核心：指"容许的、在规定范围内的"，多用于税务、
