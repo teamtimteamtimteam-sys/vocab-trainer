@@ -93418,6 +93418,26 @@ comfortless = 毫无慰藉的
 = 他们被指资敌。
 give comfort to the enemy = 资敌
 最后这一支是法律与政治上的固定说法，指为敌方壮声势。
+⑩ Soup is my comfort food.
+= 汤是我的治愈食物。
+comfort food = 吃了让人心里踏实的家常食物；comfort eating = 靠吃东西排解情绪
+都属「拿吃当安慰」这一支：前者说吃的是什么，后者说这种行为。
+⑪ He never steps outside his comfort zone.
+= 他从不走出自己的舒适区。
+a comfort zone = 舒适区（熟悉、不必冒险的那个范围）
+多跟 step out of、push beyond 连用，是励志文字里的高频词。
+⑫ The old teddy is her comfort blanket.
+= 那只旧玩具熊是她的安全毯。
+a comfort blanket = 安全毯（小孩离不开的那件旧物）
+也比喻成年人放不下的依靠：说某个制度是 a comfort blanket，就是说它只图心安。
+⑬ Let us take a comfort break.
+= 咱们歇一下，上个厕所。
+a comfort break = 会议中间的如厕休息
+委婉说法，会议与旅行团里的固定用语。
+⑭ The comfort station is at the end of the trail.
+= 公厕在步道尽头。
+a comfort station = 公共厕所（美式委婉说法）
+美式旧词，多见于公园与公路休息区的标牌上。
 构词：拉丁语 confortare 加强
 注意分工：这个词偏心里的宽慰，comfortable 偏身上的舒服。
 
@@ -93597,6 +93617,26 @@ commanding = 气势逼人的；也指有指挥权的
 ⑩ The castle has a commanding view.
 = 那座城堡视野开阔居高临下。
 a commanding view = 居高临下的视野
+⑪ A command economy sets prices centrally.
+= 计划经济由中央定价。
+a command economy = 计划经济；command-driven = 按指令运行的
+跟市场经济相对。形容词那个也用于软件，说靠敲命令驱动的。
+⑫ You can do it faster from the command line.
+= 用命令行做更快。
+the command line = 命令行；a command language = 指令语言（那一套指令的写法）
+跟点击式的图形界面相对，是程序员与系统管理员的日常。
+⑬ The command module stayed in orbit.
+= 指令舱留在轨道上。
+a command module = 指令舱
+航天用语，指载人飞船里操控与载人的那一段，跟登月舱、服务舱分开。
+⑭ The play was given a command performance.
+= 那出戏做了一场御前专演。
+a command performance = 应君主之邀的专场演出
+英国的说法，由王室指定；这里的 command 用的是「下令要」的本义。
+⑮ They set up a command post near the bridge.
+= 他们在桥边设了指挥所。
+a command post = 指挥所（前线的临时指挥点）
+军中用语；跟设在后方的司令部分工不同，这个是随战线移动的。
 构词：拉丁语 commandare 托付、命令
 注意搭配：说语言能力用 a command of。
 
@@ -96038,6 +96078,18 @@ computerize = 使电脑化
 ⑤ Computerization cut the staff in half.
 = 电脑化把人手裁掉了一半。
 computerization = 电脑化
+⑥ He spends every evening on computer games.
+= 他每天晚上都在打电脑游戏。
+a computer game = 电脑游戏
+今天泛称多说 video game，这个词特指在电脑上玩的那一类。
+⑦ The course starts with basic computer literacy.
+= 那门课从基本的电脑操作能力开始。
+computer literacy = 会用电脑的能力；computer-literate = 会用电脑的
+literacy 本义是识字，这里借来说「会用」，是一种很能产的借法。
+⑧ She trained as a computer scientist.
+= 她学的是计算机科学。
+a computer scientist = 计算机科学家
+跟这一条的 computer science 成对，指做研究的人，不是写代码的程序员。
 构词：compute 计算 + -er
 注意来历：这个词本来指做计算的人，后来才归给机器。
 
@@ -96373,6 +96425,26 @@ in concert with = 与……联手
 ④ It took a concerted effort.
 = 那是一番合力才办成的。
 a concerted effort = 齐心协力的努力
+⑤ The concert band rehearses on Thursdays.
+= 那支管乐团周四排练。
+a concert band = 音乐会管乐团（管乐加打击乐，没有弦乐）
+跟边走边奏的军乐队分别在于坐着演奏、曲目也更正式。
+⑥ The hall has a nine-foot concert grand.
+= 那个厅里有台九尺演奏会三角钢琴。
+a concert grand = 音乐会用的大型三角钢琴
+三角钢琴里最大的一号，是为大厅的音量做的。
+⑦ They put on a concert party for the troops.
+= 他们给部队办了场巡演。
+a concert party = 巡回演出的歌舞杂演班子
+英式旧词，多指两次大战期间去部队慰问演出的那种班子。
+⑧ The programme opened with a sinfonia concertante.
+= 节目以一首协奏交响曲开场。
+concertante = 带独奏声部的（乐曲）
+音乐术语，从意大利语来；那个体裁是几件独奏乐器加一支乐队。
+⑨ Concertgoers filled the aisles.
+= 听音乐会的人把过道都占满了。
+a concertgoer = 常听音乐会的人；a concertmaster = 乐队首席（第一小提琴手）
+第二个是美式说法，英式管这个位置叫 leader。
 构词：意大利语 concerto 协同演奏
 注意语域：协同那一支偏书面。
 
