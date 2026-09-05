@@ -13,10 +13,11 @@ B 5000
 最末词条 byword。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5064 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
-co- 段清单 1960 条、已收 968 条（49%），写到 contour，下批从 contraband 起。
+B 词表 5110 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
+co- 段清单 1960 条、已收 1087 条（55%），写到 convulse，
+下批从 cony / coo 一带起（conv- 已收完）。
 之后 cp 1、cr 481、ct 1、cu 223、cw 4、cy 51、cz 4。
-co- 段里 comp- / conf- / cons- / cont- 这几串同前缀词特别密，
+co- 段里 comp- / conf- / cons- / cont- / conv- 这几串同前缀词特别密，
 每条里提到的同前缀派生形式都必须配例句或等式，否则会被宿主吞掉。
 
 【交付文件：B 已合成单一文件 B-merged-0001-5000.txt（2026-09-05）】
