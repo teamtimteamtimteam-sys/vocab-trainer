@@ -1,452 +1,590 @@
-carjack
-核心：持械把人从车里赶下来抢车。名词是 carjacking，
-抢车的人是 carjacker。这个词是由汽车与劫机那个词拼出来
-的，所以专指抢车这件事，不指偷停着的车。
-① Two men carjacked her at the lights.
-= 两个人在红灯前把她的车抢了。
-carjack = 持械抢车
-② Carjackings rose last year.
-= 抢车案去年上升了。
-carjacking = 抢车案
-③ The carjacker was caught nearby.
-= 抢车的人在附近被抓。
-carjacker = 抢车的人
-构词：由汽车与劫持那两个词拼成
-注意别混：偷停着的车不用这个词。
+captor
+核心：抓住并扣住别人的那一方：绑匪、抓人的军队都算。
+多用复数，因为通常是一伙人。可数。
+① She never saw her captors' faces.
+= 她始终没看见抓她那些人的脸。
+captors = 抓人扣人的一方
+② He escaped from his captors.
+= 他从扣押他的人手里逃了。
+escape from one's captors = 从扣押者手中逃脱
+③ The captor demanded a ransom.
+= 绑他的人索要赎金。
+demand a ransom = 索要赎金
+构词：拉丁语 captor 抓取者
+注意用法：多用复数。
 
-carmine
-核心：一种深红偏紫的红，也指做出这个颜色的天然颜料，
-从胭脂虫提取。颜料名与色名两用。不可数。
-① The dress was deep carmine.
-= 那件裙子是深胭脂红。
-carmine = 胭脂红
-② Carmine comes from an insect.
-= 这种红颜料取自一种昆虫。
-come from = 取自
-③ She mixed carmine into the sky.
-= 她往天空里调了点胭脂红。
-mix into = 调进……
-构词：与 crimson 同源，经阿拉伯语与拉丁语进英语
-注意用法：既是色名也是颜料名。
+capture
+核心：抓住并控制住。五支从这一步铺开：一是抓获逃犯或
+俘虏；二是军事上攻占据点；三是抓住抽象的东西，把气氛、
+神态抓准；四是抢占市场或份额；五是把画面、声音、数据
+记录下来。名词与动词同形。
+① Police captured him at the border.
+= 警方在边境抓到了他。
+capture = 抓获
+② The town was captured overnight.
+= 那座城一夜之间被攻占。
+capture = 攻占
+③ The photo captures her impatience.
+= 那张照片把她的急性子抓住了。
+capture the mood = 把气氛抓准
+④ They captured a third of the market.
+= 他们拿下了三分之一的市场。
+capture the market = 抢占市场
+⑤ The sensors capture data every second.
+= 传感器每秒采一次数据。
+capture data = 采集数据
+⑥ The capture of the fort ended the war.
+= 那座要塞一被攻下，战争就结束了。
+the capture of = 对……的攻占
+⑦ The opening line captures attention.
+= 头一句就抓住了注意力。
+capture attention = 抓住注意力
+构词：拉丁语 capere 拿、抓
+注意用法：抓抽象事物那一支在评论文字里很常见。
 
-carnage
-核心：死伤惨重、尸横遍地的场面。语气很重，多说战争、
-恐袭、重大车祸。口语里也夸张地拿它说一片狼藉。不可数。
-① The scene was one of utter carnage.
-= 那个现场惨不忍睹。
-carnage = 血腥屠戮的场面
-② The battle ended in carnage.
-= 那一仗打成了血肉横飞。
-end in carnage = 以惨重死伤收场
-③ The kitchen was carnage after the party.
-= 派对之后厨房一片狼藉。
-carnage = 一片狼藉（夸张的口语用法）
-构词：拉丁语 caro 肉
-注意语域：本义语气极重，夸张的用法要看场合。
+capybara
+核心：世界上最大的啮齿动物，产在南美水边，样子像放大的
+豚鼠。名字来自南美的图皮语。可数。
+① The capybara swims well.
+= 水豚很会游泳。
+capybara = 水豚
+② Capybaras live near rivers.
+= 水豚住在河边。
+live near = 住在……附近
+③ A capybara can weigh sixty kilos.
+= 一只水豚能有六十公斤。
+weigh = 重达
+构词：图皮语 kapiyva
+注意用法：动物名，日常少用。
 
-carnal
-核心：肉体的、肉欲的，跟精神相对。书面语，多带道德评判
-的口气。最常见的两个搭配是 carnal desire 与法律上的
-carnal knowledge，后者是发生性关系的委婉说法。
-副词 carnally。
-① He warned against carnal desire.
-= 他告诫人不要纵欲。
-carnal desire = 肉欲
-② The charge was carnal knowledge of a minor.
-= 罪名是与未成年人发生性关系。
-carnal knowledge = 性关系（法律委婉说法）
-③ The poem sets the spiritual against the carnal.
-= 那首诗把灵与肉对立起来。
-carnal = 肉体的、肉欲的
-④ They were accused of knowing each other carnally.
-= 他们被指有肉体关系。
-carnally = 在肉体上、肉欲上
-构词：拉丁语 caro 肉
-注意语域：书面，带道德评判。
+car
+核心：本义是有轮子的载具，今天首先指汽车。三支：一是
+汽车，by car 是开车、坐车；二是美式的火车车厢，英式说
+carriage；三是电梯或缆车的轿厢。构成的复合词一大族，
+多数照字面来。晕车说 carsick，名词 carsickness；
+一车的量叫 carload。可数。
+① They came by car.
+= 他们是开车来的。
+by car = 开车、坐车
+② She parked in the car park.
+= 她停在停车场。
+car park = 停车场（英式）
+这里的 park 是名词的场地义，不是动词。
+③ Take it through the car wash.
+= 把车开进洗车处。
+car wash = 洗车处
+④ Three people died in the car crash.
+= 那场车祸死了三个人。
+car crash = 车祸
+⑤ Fit the car seat properly.
+= 儿童安全座椅要装牢。
+car seat = 儿童安全座椅
+指给小孩加装的那一把，车里原装的座位不这么说。
+⑥ We car pool to work.
+= 我们拼车上班。
+car pool = 拼车
+⑦ The car phone was a status symbol then.
+= 车载电话那时是身份的象征。
+car phone = 车载电话
+⑧ Car tax went up again.
+= 汽车税又涨了。
+car tax = 汽车税
+⑨ He wore a short car coat.
+= 他穿着一件短款开车外套。
+car coat = 开车穿的短外套
+做得短，为的是坐着时衣摆不压在身下。
+⑩ A car bomb went off outside.
+= 外面一辆汽车炸弹炸了。
+car bomb = 汽车炸弹
+⑪ They ate in the dining car.
+= 他们在餐车里吃饭。
+dining car = 餐车（美式）
+⑫ The car stopped between floors.
+= 轿厢停在两层之间。
+car = 电梯轿厢
+轿厢这一支是最早那个载具本义留下来的。
+⑬ A carload of children arrived.
+= 来了一车孩子。
+a carload of = 一车的……
+⑭ She gets carsick on winding roads.
+= 她走山路会晕车。
+carsick = 晕车的
+⑮ Carsickness ruined the trip.
+= 晕车把那趟旅行毁了。
+carsickness = 晕车
+⑯ Four of us carpool to school.
+= 我们四个拼车上学。
+写成一个词的 carpool 更常见于美式。
+carpool = 拼车
+⑰ He parked under the carport.
+= 他把车停在敞棚车位下。
+carport = 敞棚车位
+⑱ A car bra protects the front end.
+= 车头罩护着前脸。
+a car bra = 车头防石护罩（美式）
+构词：拉丁语 carrus 双轮货车
+注意用法：停车场英式说 car park，美式说 parking lot。
 
-carnation
-核心：康乃馨：花瓣边缘带锯齿、香气清甜的花，胸花与
-母亲节最常用。也指那种粉红色。可数。
-① He wore a white carnation.
-= 他别了一朵白康乃馨。
-a white carnation = 白色康乃馨
-② Carnations last well in water.
-= 康乃馨插水里能开很久。
-last well = 保持得久
-③ The walls were carnation pink.
-= 墙是康乃馨粉。
-carnation pink = 康乃馨粉
-构词：可能出自拉丁语的肉色
-注意用法：也可以当颜色词用。
+carabiner
+核心：登山与攀岩用的金属扣环：一侧有可开合的闩，用来
+把绳、吊带、装置连起来。也拼作 karabiner，英式偏后者。
+可数。
+① Clip the rope into the carabiner.
+= 把绳扣进扣环。
+clip into = 扣进……
+② A locking carabiner is safer.
+= 带锁的扣环更安全。
+a locking carabiner = 带锁扣环
+③ He carried six carabiners on his harness.
+= 他吊带上挂着六个扣环。
+carabiner = 登山扣环
+构词：德语 Karabinerhaken 卡宾枪挂钩
+注意拼写：也拼 karabiner，英式偏这个写法。
 
-carnelian
-核心：红玉髓：一种橙红到棕红的半宝石，古时刻印章、做
-珠子。也拼 cornelian，英式旧书里常见那个写法。
-① The ring holds a carnelian.
-= 那只戒指镶着一块红玉髓。
-carnelian = 红玉髓
-② Carnelian was used for seals.
-= 红玉髓从前用来刻印章。
-seal = 印章
-③ The beads are carnelian and jade.
-= 那串珠子是红玉髓和玉。
-构词：拉丁语的肉色，因为石头颜色像肉
-注意拼写：也写作 cornelian。
+carafe
+核心：上桌用的敞口玻璃瓶，装水或酒，也指咖啡机下面那个
+玻璃壶。餐馆里 a carafe of wine 指散装酒的一壶。可数。
+① Order a carafe of house red.
+= 点一壶店家的红酒。
+a carafe of wine = 一壶散装酒
+② She filled the carafe with water.
+= 她把玻璃瓶灌满水。
+fill with = 灌满……
+③ The carafe holds a litre.
+= 那个瓶装一升。
+hold = 容纳
+构词：法语 carafe，转自阿拉伯语的汲水器
+注意用法：餐馆点散装酒时最常听到。
 
-carnival
-核心：两支。一是四旬期前的狂欢节：游行、化装、乐队，
-巴西与加勒比最盛。二是美式的流动游乐场：转盘、摊位、
-套圈那一套，英式说 funfair。引申用法说场面热闹得像
-过节。可数。
-① The carnival lasts five days.
-= 狂欢节持续五天。
-carnival = 狂欢节
-② Dancers led the carnival procession.
-= 舞者走在狂欢游行队伍前面。
-carnival procession = 狂欢游行
-③ The carnival came to town in July.
-= 那个流动游乐场七月来了镇上。
-carnival = 流动游乐场（美式）
-④ The street had a carnival atmosphere.
-= 街上一片过节的热闹。
-a carnival atmosphere = 狂欢般的热闹气氛
-构词：意大利语 carnelevare 去掉肉，指斋期前最后的荤食
-注意用法：游乐场那一支是美式，英式说 funfair。
+caramel
+核心：糖加热熔化后变成的褐色黏稠物：既指那种焦糖，也指
+用它做的糖块，还指那种褐黄色。动词 caramelize 是把糖
+熬成焦糖，也指把洋葱这类食材炒出糖色。指物质与颜色时
+不可数，指糖块时可数。
+① Pour caramel over the flan.
+= 把焦糖浇在蛋奶布丁上。
+caramel = 焦糖
+② She chewed a caramel.
+= 她嚼着一块焦糖糖块。
+a caramel = 一块焦糖糖
+③ Caramelize the onions slowly.
+= 洋葱要慢慢炒出糖色。
+caramelize = 熬出焦糖、炒出糖色
+④ The walls are caramel.
+= 墙是焦糖色的。
+caramel = 焦糖色的
+⑤ Crème caramel turns out upside down.
+= 焦糖布丁是倒扣出来的。
+crème caramel = 焦糖蛋奶布丁
+creme caramel = 焦糖蛋奶布丁（不带重音符的写法）
+⑥ She ordered crème caramel for dessert.
+= 她甜点点了焦糖蛋奶布丁。
+crème caramel = 焦糖蛋奶布丁
+构词：西班牙语 caramelo
+注意别混：这个是纯熬糖，toffee 要加黄油熬得更硬。
 
-carnivore
-核心：食肉动物：靠吃肉活的动物。形容词 carnivorous
-说动物也说植物，捕虫的那类叫 carnivorous plants。
-口语里也拿它开玩笑说无肉不欢的人。可数。
-① Lions are carnivores.
-= 狮子是食肉动物。
-carnivore = 食肉动物
-② Carnivorous plants trap insects.
-= 食虫植物会捕虫。
-carnivorous = 食肉的、食虫的
-③ He is a committed carnivore.
-= 他是个无肉不欢的人。
-a committed carnivore = 无肉不欢的人
-近义对照：
-carnivore = 食肉动物
-herbivore = 食草动物
-omnivore = 杂食动物
-构词：拉丁语 caro 肉 加表示吞食的词根
+carapace
+核心：龟、蟹这类动物背上那层硬壳。比喻义也常用：指人
+在外面套起来的硬壳，用来挡住感情。可数。
+① The turtle's carapace was cracked.
+= 那只龟的背甲裂了。
+carapace = 背甲
+② A crab's carapace protects its gills.
+= 蟹壳护着鳃。
+protect = 保护
+③ He hides behind a carapace of jokes.
+= 他用笑话给自己套了层壳。
+a carapace of = 一层挡住感情的硬壳
+构词：西班牙语 carapacho 壳
+注意用法：比喻义在文学里常见。
 
-carnosaur
-核心：大型食肉恐龙的统称：两足行走、头大齿利的那一类。
-古生物学用词。可数。
-① Carnosaurs walked on two legs.
-= 那类食肉恐龙用两条腿走。
-carnosaur = 大型食肉恐龙
-② The museum has a carnosaur skull.
-= 博物馆有一具食肉恐龙头骨。
-skull = 头骨
-③ Carnosaur teeth are serrated.
-= 那类恐龙的牙带锯齿。
-serrated = 带锯齿的
-构词：由表示肉与表示蜥蜴的两个词根拼成
-注意用法：古生物学里的分类词。
+carat
+核心：两支都是计量，量的东西不同。宝石的 carat 是重量
+单位，一克拉两百毫克；黄金的 carat 是纯度单位，
+二十四开是纯金。美式说黄金纯度多拼 karat，宝石重量
+仍写 carat。可数。
+① The diamond is two carats.
+= 那颗钻石两克拉。
+carat = 克拉（宝石重量）
+② The ring is eighteen carat gold.
+= 那只戒指是十八开金。
+eighteen carat = 十八开（黄金纯度）
+③ Twenty-four carat gold is pure.
+= 二十四开是纯金。
+构词：希腊语 keration 角豆种子，古时拿来作砝码
+注意拼写：美式黄金纯度写 karat，宝石重量写 carat。
 
-carny
-核心：美式口语：在流动游乐场干活的人，也指那一行本身
-与它的行话。带江湖气，不算敬语。复数 carnies。可数。
-① The carny ran the ring toss.
-= 那个跑江湖的看着套圈摊。
-carny = 游乐场跑江湖的人
-② He spent two summers as a carny.
-= 他有两个夏天在游乐场干活。
-spend as = 以……的身份度过
-③ Carnies have their own slang.
-= 那一行有自己的黑话。
-carnies = 游乐场从业者（复数）
-构词：由狂欢节那个词截短来
-注意语域：美式口语，带江湖气。
+caravan
+核心：三支。一是英式的旅行拖车：挂在车后拖着走、能住人
+的那种，美式说 trailer。二是吉普赛式的篷车。三是本义：
+结队穿越沙漠的商旅队伍。caravanning 指开着拖车度假，
+英式一项很普遍的活动。可数。
+① They towed a caravan to the coast.
+= 他们拖着旅行拖车去了海边。
+caravan = 旅行拖车（英式）
+② The family goes caravanning every August.
+= 那家人每年八月拖车出游。
+go caravanning = 拖车度假
+③ A caravan of camels crossed the desert.
+= 一支骆驼商队穿过沙漠。
+a caravan of camels = 骆驼商队
+构词：波斯语 karwan 商旅队
+注意用法：拖车义是英式，美式说 trailer。
 
-carob
-核心：角豆：地中海一种豆荚，磨成粉味道像可可，常拿来
-替代巧克力，不含咖啡因。也指结这种荚的树。不可数。
-① Carob tastes a little like chocolate.
-= 角豆粉吃起来有点像巧克力。
-carob = 角豆
-② She bakes with carob powder.
-= 她用角豆粉烘焙。
-carob powder = 角豆粉
-③ Carob trees grow in dry soil.
-= 角豆树长在干土里。
-carob tree = 角豆树
-构词：阿拉伯语 kharruba
-注意用法：常作巧克力的替代品。
+caravanserai
+核心：丝路上的旅栈：围成一圈的院落，中间是大院子，
+供商队人畜住宿。波斯语来的词，说中亚与中东的历史时用。
+可数。
+① The caravanserai had one gate.
+= 那座商旅驿站只有一道门。
+caravanserai = 商旅驿站
+② Traders slept in the caravanserai.
+= 商人们在驿站里过夜。
+trader = 商人
+③ Caravanserais stood a day's march apart.
+= 驿站之间相隔一天路程。
+a day's march = 一天的路程
+构词：波斯语 karwansaray 商队的院落
+注意用法：历史与旅行文字里用。
 
-carol
-核心：圣诞颂歌：圣诞节前后唱的那些歌。动词是挨家挨户
-唱颂歌。carol singer 是唱颂歌的人，carol singing 是
-这项习俗，多为慈善募款。可数。
-① They sang carols in the square.
-= 他们在广场上唱圣诞颂歌。
-sing carols = 唱圣诞颂歌
-② A carol service is held on Christmas Eve.
-= 平安夜有一场颂歌礼拜。
-a carol service = 颂歌礼拜
-③ Carol singers came to the door.
-= 唱颂歌的人来敲门了。
-carol singer = 唱圣诞颂歌的人
-④ Carol singing raises money for charity.
-= 唱颂歌是为慈善募款。
-carol singing = 唱圣诞颂歌的习俗
-构词：古法语 carole 围成圈的歌舞
-注意用法：几乎只用于圣诞。
+caraway
+核心：香料的一种：种子细长带棱，味偏茴香带一点柑橘气，
+用在黑麦面包、腌菜、香肠里。最常见的说法是 caraway
+seeds。不可数。
+① The bread is flecked with caraway.
+= 那种面包里点着葛缕子。
+caraway = 葛缕子
+② Add a teaspoon of caraway seeds.
+= 加一茶匙葛缕子。
+caraway seeds = 葛缕子籽
+③ Caraway is common in rye bread.
+= 黑麦面包里常放葛缕子。
+rye bread = 黑麦面包
+构词：阿拉伯语 karawya
+注意用法：多说 caraway seeds。
 
-carom
-核心：撞上之后弹开：台球里指母球连撞两颗，也泛指球或
-物体撞到什么再弹走。美式用词，英式台球里说 cannon。
-动词与名词同形。
-① The ball caromed off the cushion.
-= 球撞了库边弹开。
-carom off = 撞上……弹开
-② He made a three-cushion carom.
-= 他打成了一杆三库。
-a carom = 一次连撞
-③ The bullet caromed into the wall.
-= 子弹弹到墙上去了。
-carom into = 弹到……上
-构词：西班牙语 carambola 台球术语
-注意用法：美式；英式台球里用另一个词。
+carb
+核心：carbohydrate 的口语缩写，说饮食里的碳水化合物，
+多用复数：cut carbs 是减碳水，a low-carb diet 是低碳水
+饮食。修车语境里也可以是化油器的缩写，看上下文。可数。
+① She is cutting carbs.
+= 她在减碳水。
+cut carbs = 减少碳水化合物
+② Rice and bread are carbs.
+= 米饭和面包都是碳水。
+carbs = 碳水化合物
+③ He follows a low-carb diet.
+= 他吃低碳水饮食。
+a low-carb diet = 低碳水饮食
+构词：碳水化合物那个词的口语截短
+注意用法：口语与健身饮食的文字里最常见。
 
-carotene
-核心：胡萝卜素：橙黄色的色素，在体内可以转成维生素 A。
-最常说的是 beta-carotene。不可数。
-① Carrots are rich in carotene.
-= 胡萝卜富含胡萝卜素。
-be rich in carotene = 富含胡萝卜素
-② Beta-carotene turns into vitamin A.
-= β 胡萝卜素会转成维生素 A。
-beta-carotene = β 胡萝卜素
-③ Carotene gives the flesh its colour.
-= 果肉的颜色来自胡萝卜素。
-give colour = 使呈现颜色
-构词：由胡萝卜那个词加化学后缀来
-注意用法：营养文字里常见。
+carbine
+核心：短管步枪：枪管比标准步枪短，便于骑兵与车载人员
+携带。军事用词。可数。
+① Each trooper carried a carbine.
+= 每个骑兵带一支短管步枪。
+carbine = 短管步枪
+② The carbine fires the same round.
+= 那种短枪用同样的子弹。
+round = 子弹
+③ Carbines are easier to handle indoors.
+= 短枪在室内更好操作。
+handle = 操作
+构词：法语 carabine 卡宾枪
+注意用法：军事文字里用。
 
-carouse
-核心：喝酒作乐，闹哄哄地喝到很晚。旧气重，多见于文学与
-戏谑的说法。名词 carousing 指这样的闹酒。
-① They caroused until dawn.
-= 他们喝到天亮。
-carouse = 喝酒作乐
-② The crew caroused in the port.
-= 船员在港口喝得热闹。
-crew = 船员
-③ A night of carousing left him hoarse.
-= 闹了一夜酒，他嗓子哑了。
-carousing = 闹酒作乐
-构词：德语 gar aus 一饮而尽
-注意语域：带旧气，多用于文学或戏谑。
+carbohydrate
+核心：碳水化合物：糖、淀粉、纤维这一类，是人体主要的
+能量来源。营养学与饮食文字里最常见，口语缩成 carbs。
+可数与不可数都有。
+① Bread is high in carbohydrate.
+= 面包碳水含量高。
+be high in carbohydrate = 碳水含量高
+② Complex carbohydrates release energy slowly.
+= 复合碳水释放能量慢。
+complex carbohydrates = 复合碳水化合物
+③ The label lists total carbohydrate.
+= 标签上标着碳水总量。
+total carbohydrate = 碳水总量
+构词：由表示碳与水合物的两个词拼成
+注意用法：口语缩成 carbs。
 
-carousel
-核心：三支，都是转着圈的东西。一是旋转木马，英式也说
-merry-go-round；二是机场的行李转盘；三是幻灯片或零件的
-圆形转盘。可数。
-① The children rode the carousel.
-= 孩子们坐了旋转木马。
-carousel = 旋转木马
-② Bags come out on carousel four.
-= 行李在四号转盘出来。
-baggage carousel = 行李转盘
-③ The projector holds a slide carousel.
-= 那台放映机装着幻灯转盘。
-slide carousel = 幻灯转盘
-构词：意大利语 carosello 骑士比武时的转圈游戏
-注意用法：机场那一支在旅行英语里最常用。
+carbolic
+核心：苯酚的旧称，多说 carbolic acid 或 carbolic soap：
+十九世纪起用作消毒剂，气味刺鼻。今天主要在历史与怀旧的
+语境里读到。不可数。
+① The ward smelled of carbolic.
+= 病房里一股消毒水味。
+carbolic = 苯酚消毒液
+② They washed with carbolic soap.
+= 他们用石碳酸皂洗。
+carbolic soap = 石碳酸皂
+③ Carbolic acid was the first antiseptic.
+= 苯酚是最早的消毒剂。
+carbolic acid = 苯酚
+构词：由表示碳的词根加表示油的词根拼成
+注意用法：多见于历史与怀旧的语境。
 
-carp
-核心：两支，不同源。一是鲤鱼：淡水鱼，养殖与垂钓都常见，
-单复数同形。二是动词：唠唠叨叨地挑毛病，常搭 carp at
-与 carp about，带贬义。
-① They stocked the pond with carp.
-= 他们在池塘里放了鲤鱼。
-carp = 鲤鱼
-② He caught a ten-pound carp.
-= 他钓到一条十磅的鲤鱼。
-③ She carps at everything I do.
-= 我做什么她都要挑刺。
-carp at = 对……挑毛病
-④ Stop carping about the price.
-= 别老念叨价钱了。
-carp about = 就……唠叨抱怨
-构词：动词那一支出自古诺斯语的挑剔
-注意用法：鱼义单复数同形。
+carbon
+核心：碳，符号 C：有机化学的骨架元素，也指石墨、钻石
+这些单质形式。今天这个词最常出现在气候与能源的文字里，
+一大族说法都从排放多少碳来。旧办公用语里 carbon paper
+是复写纸，a carbon copy 是复写副本，引申指一模一样的人
+或物。动词 carbonize 是碳化，名词 carbonization；
+carbonate 是碳酸盐，carbonated 是充了气的；
+carboniferous 是含煤的。不可数。
+① Carbon forms the backbone of every organic molecule.
+= 碳是所有有机分子的骨架。
+carbon = 碳
+② Plants take in carbon dioxide.
+= 植物吸入二氧化碳。
+carbon dioxide = 二氧化碳
+③ Carbon monoxide has no smell.
+= 一氧化碳没有气味。
+carbon monoxide = 一氧化碳
+④ Flying enlarges your carbon footprint.
+= 坐飞机会加大碳足迹。
+carbon footprint = 碳足迹
+这一族的骨架都是碳加一个核算或经济概念，认出模式就能推。
+⑤ The company claims to be carbon-neutral.
+= 那家公司自称碳中和。
+carbon-neutral = 碳中和的
+⑥ They bought carbon offsets.
+= 他们买了碳抵销额度。
+carbon offset = 碳抵销
+⑦ Carbon credits are traded on the market.
+= 碳信用在市场上交易。
+carbon credit = 碳信用
+⑧ Carbon trading started in Europe.
+= 碳交易是从欧洲开始的。
+carbon trading = 碳交易
+⑨ Carbon capture and storage is expensive.
+= 碳捕集与封存成本很高。
+carbon capture and storage = 碳捕集与封存
+⑩ Forests aid carbon sequestration.
+= 森林有助于碳封存。
+carbon sequestration = 碳封存
+⑪ The carbon cycle runs through air, sea and soil.
+= 碳循环贯穿空气、海洋和土壤。
+the carbon cycle = 碳循环
+⑫ Rich countries owe a carbon debt.
+= 富国欠着碳债。
+carbon debt = 碳债
+⑬ Carbon dating puts it at four thousand years.
+= 碳定年测出它有四千年。
+carbon dating = 碳定年
+测的是碳的同位素衰变，所以叫这个名。
+⑭ Keep the carbon paper underneath.
+= 复写纸垫在下面。
+carbon paper = 复写纸
+⑮ He is a carbon copy of his father.
+= 他跟他父亲一模一样。
+a carbon copy = 一模一样的人或物
+复写纸时代留下的比喻，今天多用来说人像。
+⑯ Wood carbonizes in the kiln.
+= 木材在窑里碳化。
+carbonize = 碳化
+⑰ Carbonization leaves pure charcoal.
+= 碳化之后剩下纯炭。
+carbonization = 碳化
+⑱ Chalk is a carbonate.
+= 白垩是碳酸盐。
+carbonate = 碳酸盐
+碳酸盐与充气那两支都从碳酸来。
+⑲ She prefers carbonated water.
+= 她喜欢带气的水。
+carbonated = 充了碳酸气的
+⑳ The seam lies in carboniferous rock.
+= 那道煤层在含煤岩层里。
+carboniferous = 含煤的
+煤本身就是碳，所以含煤的岩层用这个形容词。
+㉑ Carbon emissions fell by a fifth.
+= 碳排放降了五分之一。
+carbon emissions = 碳排放
+构词：拉丁语 carbo 炭
+注意用法：气候文字里那一族说法最常读到。
 
-carpaccio
-核心：切得极薄的生牛肉片，浇橄榄油、柠檬和干酪；后来
-也用来说别的切薄片的生食，如三文鱼与甜菜。名字来自一位
-画家，因为菜的红白配色像他的画。不可数。
-① He ordered beef carpaccio.
-= 他点了生牛肉薄片。
-beef carpaccio = 生牛肉薄片
-② The carpaccio is sliced paper-thin.
-= 那道薄片切得像纸一样薄。
-paper-thin = 薄如纸
-③ They serve a beetroot carpaccio.
-= 他们做一道甜菜薄片。
-carpaccio = 切薄片的生食
-构词：一位画家的姓氏，因菜的红白配色
-注意用法：今天也用于蔬菜与鱼的薄片。
+carbonara
+核心：意面酱的一种：蛋黄、干酪、猪颊肉或培根加胡椒拌成，
+不放奶油才是正宗。多说 spaghetti carbonara。名字来自
+意大利语的烧炭工。不可数。
+① He ordered spaghetti carbonara.
+= 他点了培根蛋酱意面。
+spaghetti carbonara = 培根蛋酱意面
+② Real carbonara has no cream.
+= 正宗的这种酱不放奶油。
+no cream = 不放奶油
+③ The egg thickens the carbonara.
+= 蛋液让那个酱变稠。
+thicken = 使变稠
+构词：意大利语 carbonara 烧炭工的
+注意别混：拼头跟化学上那个词一样，这里说的是意面酱。
 
-carpal
-核心：腕骨的：手腕那八块小骨的解剖形容词，也作名词指
-其中一块。最常读到的搭配是 carpal tunnel syndrome，
-腕部神经受压引起的麻痛。
-① The X-ray showed a carpal fracture.
-= 片子显示腕骨骨折。
-a carpal fracture = 腕骨骨折
-② She has carpal tunnel syndrome.
-= 她有腕管综合征。
-carpal tunnel syndrome = 腕管综合征
-③ There are eight carpals in the wrist.
-= 手腕有八块腕骨。
-carpal = 腕骨
-构词：希腊语 karpos 腕
-注意用法：腕管综合征那个搭配最常见。
+carboy
+核心：大玻璃瓶：容量十几到几十升，外面常套柳条或塑料
+护篮，用来装酸、装酒、做发酵容器。酿酒与化学品运输里
+用得到。可数。
+① The wine ferments in a glass carboy.
+= 酒在大玻璃瓶里发酵。
+carboy = 大玻璃瓶
+② Acid is shipped in carboys.
+= 酸装在大玻璃瓶里运。
+be shipped in = 用……装运
+③ Fit an airlock to the carboy.
+= 给发酵瓶装上水封。
+airlock = 发酵水封
+构词：波斯语 qaraba 大瓶
+注意用法：酿酒与化工语境里用。
 
-carpe diem
-核心：拉丁语原句，字面是摘下今天，意思是抓住当下、
-及时行乐。英语里整句借用，作名词也作定语，多带一点洒脱
-或劝人别拖的意思。不可数。
-① His motto was carpe diem.
-= 他的座右铭是及时行乐。
-carpe diem = 抓住今天、及时行乐
-② She took a carpe diem attitude to travel.
-= 她对旅行抱着说走就走的态度。
-a carpe diem attitude = 说走就走的态度
-③ The poem is a carpe diem argument.
-= 那首诗讲的就是及时行乐。
-构词：拉丁语，字面是摘下今天
-注意用法：整句借用，不拆开。
+carbuncle
+核心：两支。一是医学上的痈：几个毛囊连成一片的化脓硬块，
+比单个疖子重。二是宝石的旧称，指磨成圆凸面的红宝石类。
+英式还有个出名的比喻：说一栋难看的建筑是 a carbuncle，
+好比脸上长出的一颗疮。可数。
+① The carbuncle had to be drained.
+= 那个痈得切开引流。
+carbuncle = 痈
+② A carbuncle is worse than a boil.
+= 痈比一般的疖子重。
+boil = 疖子
+③ Critics called the tower a carbuncle.
+= 批评的人说那座楼是脸上一颗疮。
+a carbuncle = 难看的建筑（英式比喻）
+构词：拉丁语 carbunculus 小炭块，因红肿如炭火
+注意语域：说建筑那个比喻是英式说法，带贬。
 
-carpel
-核心：植物学：雌蕊的组成单位，一枚心皮，里面包着胚珠。
-一朵花可以有一枚或多枚。术语。可数。
-① Each carpel holds one ovule.
-= 每枚心皮里有一颗胚珠。
-carpel = 心皮
-② The flower has three fused carpels.
-= 那朵花有三枚合生心皮。
-fused = 合生的
-③ Carpels form the pistil.
-= 心皮组成雌蕊。
-pistil = 雌蕊
-构词：希腊语 karpos 果实
-注意别混：跟表示花瓣与萼片的那两个词形近，容易看错。
+carburettor
+核心：化油器：把汽油雾化后跟空气混匀送进气缸的装置，
+电喷普及之前的标准件。美式拼 carburetor，只一个 t。
+动词 carburize 是另一回事：给钢件表面渗碳增硬。可数。
+① The carburettor needs cleaning.
+= 化油器该清了。
+carburettor = 化油器
+② Fuel injection replaced the carburettor.
+= 燃油喷射取代了化油器。
+fuel injection = 燃油喷射
+③ The gears are carburized for hardness.
+= 齿轮做了渗碳处理以增加硬度。
+carburize = 表面渗碳
+构词：由表示碳的词根加动词后缀来
+注意拼写：英式两个 t，美式一个 t。
 
-carpenter
-核心：木工：做木结构与木制品的手艺人，做房架、门窗、
-家具。这门手艺叫 carpentry。英式还有个分工：作坊里做
-细活的叫 joiner，工地上装的才叫 carpenter。可数。
-① The carpenter fitted new doors.
-= 木工装了新门。
-carpenter = 木工
-② He learned carpentry from his father.
-= 他跟父亲学的木工手艺。
-carpentry = 木工手艺
-③ Rough carpentry holds up the roof.
-= 屋顶靠粗木作撑着。
-rough carpentry = 粗木作
-构词：拉丁语 carpentum 车厢，本指造车的匠人
-注意别混：英式里作坊细木工叫 joiner。
+carcass
+核心：动物死后的整具躯体，尤指屠宰后待分割的那一具；
+也指剔掉肉之后的骨架，再引申指车、船、建筑剩下的空壳。
+英式也拼 carcase。可数。
+① The butcher hung the carcass.
+= 屠户把整只屠体挂了起来。
+carcass = 屠体
+② Vultures stripped the carcass.
+= 秃鹫把尸体啃光了。
+strip = 剥光、啃光
+③ Only the carcass of the factory remained.
+= 那座厂只剩一个空架子。
+the carcass of = ……剩下的空架子
+构词：法语 carcasse 骨架
+注意拼写：英式也写 carcase。
 
-carpet
-核心：铺满整个地面的地毯，跟只铺一块的 rug 分开。动词
-是铺地毯，也比喻被什么盖满。铺装的材料与工程叫
-carpeting。习语两个：sweep something under the carpet
-是把事情掩下去，the red carpet 是隆重接待。
-carpetbagger 是外来的投机者，本指美国内战后拎着毯子做的
-包南下捞钱的北方人。carpet-bomb 是地毯式轰炸。
-① They laid a new carpet.
-= 他们铺了新地毯。
-lay a carpet = 铺地毯
-② The floor was carpeted in grey.
-= 地面铺了灰色地毯。
-be carpeted in = 铺着……的地毯
-③ The lawn was carpeted with leaves.
-= 草坪上铺满了落叶。
-be carpeted with = 被……铺满
-④ Carpeting costs more than tiles.
-= 铺地毯比铺砖贵。
-carpeting = 地毯铺装
-⑤ They swept the complaint under the carpet.
-= 他们把那桩投诉压了下去。
-sweep under the carpet = 把事情掩下去
-⑥ She got the red carpet treatment.
-= 她受到了隆重接待。
-the red carpet = 隆重的接待
-⑦ Locals called him a carpetbagger.
-= 当地人骂他是外来捞钱的。
-carpetbagger = 外来的投机者
-⑧ The city was carpet-bombed.
-= 那座城遭了地毯式轰炸。
-carpet-bomb = 地毯式轰炸
-⑨ Carpet-bombing flattened the district.
-= 地毯式轰炸把那一区夷平了。
-carpet-bombing = 地毯式轰炸
-⑩ He shuffled in carpet slippers.
-= 他趿着毛绒拖鞋走。
-carpet slippers = 毛绒室内拖鞋
-⑪ Run the carpet sweeper over it.
-= 拿地毯清扫器扫一下。
-carpet sweeper = 地毯清扫器
-⑫ He arrived with a carpet bag.
-= 他拎着一个毯料旅行包来的。
-a carpet bag = 毯料旅行袋
-构词：拉丁语 carpere 撕扯，本指撕碎旧布织成的厚料
-注意别混：rug 只铺一块，这个铺满整地。
+carcinogen
+核心：致癌物：能引起癌症的物质或因素，烟草、石棉、
+某些化学品都算。形容词 carcinogenic 是致癌的。可数。
+① Asbestos is a known carcinogen.
+= 石棉是已知的致癌物。
+carcinogen = 致癌物
+② Tobacco smoke contains many carcinogens.
+= 烟草烟雾里含很多致癌物。
+contain = 含有
+③ The dye proved carcinogenic.
+= 那种染料被证明致癌。
+carcinogenic = 致癌的
+构词：希腊语 karkinos 蟹、癌 加表示产生的词根
+注意用法：公共卫生与法规文字里常见。
 
-carrel
-核心：图书馆里的单人小隔间：一张桌子三面挡板，供人安静
-看书。也拼 carrell。可数。
-① She booked a carrel on the third floor.
-= 她订了三楼一个自习隔间。
-a carrel = 图书馆自习隔间
-② Every carrel has a lamp.
-= 每个隔间都有台灯。
-lamp = 台灯
-③ Carrels line the north wall.
-= 北墙一排都是隔间。
-line = 沿着排开
-构词：中世纪修道院回廊里的抄书小间
-注意用法：图书馆语境里的词。
+carcinoma
+核心：癌的一种：起自上皮组织的恶性肿瘤，是最常见的
+那一类。跟 sarcoma 分开：后者起自结缔组织。医学用词，
+复数 carcinomas 或 carcinomata。可数。
+① The biopsy showed a carcinoma.
+= 活检查出了上皮性癌。
+carcinoma = 上皮性癌
+② Basal cell carcinoma grows slowly.
+= 基底细胞癌长得慢。
+basal cell carcinoma = 基底细胞癌
+③ Carcinoma is commoner than sarcoma.
+= 上皮性癌比结缔组织癌常见。
+sarcoma = 结缔组织的恶性肿瘤
+构词：希腊语 karkinoma 癌
+注意语域：医学用词，日常说 cancer。
 
-carriage
-核心：四支，共同点是载着走。一是马车：旧时四轮的载客
-马车。二是英式的火车客车厢，美式用那个更短的词。三是
-运费与运送这件事，carriage paid 是运费已付。四是机器上
-来回移动的托架，打字机的字车、机床的拖板都是。旧义还
-指人的举止仪态。车厢与马车义可数，运费义不可数。
-① A horse-drawn carriage waited outside.
-= 外面停着一辆马车。
-a horse-drawn carriage = 四轮载客马车
-② The first carriage is for families.
-= 第一节车厢是家庭车厢。
-carriage = 火车客车厢（英式）
-③ Carriage is included in the price.
-= 价钱里含运费。
-carriage = 运费
-④ Carriage paid means the seller pays.
-= 运费已付就是卖方付。
-carriage paid = 运费已付
-⑤ The typewriter carriage jammed.
-= 打字机的字车卡住了。
-carriage = 来回移动的托架
-⑥ She had the carriage of a dancer.
-= 她的举止像个舞者。
-carriage = 举止仪态（旧）
-⑦ Two lanes each way makes it a dual carriageway.
-= 两边各两条道，就是双向分隔公路。
-carriageway = 车行道（英式）
-⑧ A carriage clock stood on the mantel.
-= 壁炉台上摆着一座小座钟。
-a carriage clock = 带提梁的小座钟
-⑨ The carriage house is now a garage.
-= 那座马车房现在当车库。
-a carriage house = 马车房
-构词：法语 carier 运送
-注意用法：车厢义是英式说法，美式用另一个词。
+card
+核心：厚纸片，从这一点长出一族：一是卡片，生日卡、
+明信片、名片；二是纸牌；三是各种证件与支付卡；
+四是电脑里的板卡；五是英式口语说人是 a card，指爱
+开玩笑的活宝。持卡的人是 cardholder。习语几个高频：
+on the cards 是很可能发生，play your cards right 是
+把牌打好、事办漂亮，hold all the cards 是掌握全部主动。
+可数。
+① She sent me a birthday card.
+= 她给我寄了张生日卡。
+a birthday card = 生日卡
+② He handed over his business card.
+= 他递上了名片。
+a business card = 名片
+③ They played cards until midnight.
+= 他们打牌打到半夜。
+play cards = 打牌
+④ Pay by card, not cash.
+= 用卡付，别付现金。
+pay by card = 刷卡支付
+⑤ Show your ID card at the door.
+= 在门口出示身份证。
+an ID card = 身份证
+⑥ The graphics card overheated.
+= 显卡过热了。
+a graphics card = 显卡
+⑦ Cardholders get a discount.
+= 持卡人有折扣。
+cardholder = 持卡人
+⑧ A merger is on the cards.
+= 合并很有可能。
+on the cards = 很可能发生（英式）
+⑨ Play your cards right and you will get it.
+= 牌打好了你就能拿到。
+play your cards right = 把事办漂亮
+⑩ She holds all the cards.
+= 主动全在她手里。
+hold all the cards = 掌握全部主动
+⑪ She is a card-carrying member.
+= 她是持证的正式成员。
+card-carrying = 持证的、名副其实的
+本指持党证，引申成名副其实、货真价实。
+⑫ The card catalog is long gone.
+= 卡片目录早没了。
+a card catalog = 卡片目录（美式）
+⑬ Teach me a card game.
+= 教我个纸牌游戏。
+a card game = 纸牌游戏
+⑭ He kept a card index of sources.
+= 他做了个资料卡片索引。
+a card index = 卡片索引
+电脑普及前做资料管理的办法，今天多在旧书里读到。
+⑮ The card key opens both doors.
+= 那张门卡两道门都能开。
+a card key = 门卡
+⑯ Swipe it at the card reader.
+= 在读卡器上刷一下。
+a card reader = 读卡器
+⑰ A card sharp fleeced the table.
+= 一个牌桌老千把满桌的钱赢光。
+a card sharp = 牌桌老千
+这里的 sharp 是老手、骗子那个旧义，不是锋利。
+⑱ There is a card swipe by the lift.
+= 电梯旁有个刷卡口。
+a card swipe = 刷卡口
+⑲ They set up the card table.
+= 他们摆开了牌桌。
+a card table = 折叠牌桌
+折叠腿、铺呢面，专为打牌摆的那种小桌。
+构词：希腊语 khartes 纸莎草纸
+注意用法：on the cards 是英式，美式说 in the cards。

@@ -1,570 +1,677 @@
-campanology
-核心：鸣钟术：教堂大钟按什么次序敲响的这门学问与技艺，
-英国教堂尤其讲究。从事的人叫 campanologist。不可数。
-① Campanology has a vocabulary of its own.
-= 鸣钟术有自己一套术语。
-campanology = 鸣钟术
-② He took up campanology at university.
-= 他上大学时开始学敲钟。
-take up = 开始学、着手做
-③ A campanologist explained the sequence.
-= 一位鸣钟师讲了那套次序。
-campanologist = 鸣钟师
-构词：拉丁语 campana 钟 加表示学问的后缀
-注意用法：英国教堂文化里的词。
+calculate
+核心：算。三层：一是数学上算出结果；二是估计、推断，
+说 calculate that……；三是有意盘算，这一支主要活在派生
+形式里：calculated 是有意为之、算好了的（a calculated
+risk 是权衡过才冒的险），calculating 是精于算计的，
+说人时带贬义。名词 calculation 既指计算也指盘算，
+calculator 是计算器，calculable 是算得出来的。
+① Calculate the total cost first.
+= 先把总成本算出来。
+calculate the cost = 计算成本
+② We calculated that it would take a week.
+= 我们估计要一个星期。
+calculate that = 估计、推断
+③ It was a calculated risk.
+= 那是权衡过才冒的险。
+a calculated risk = 算计过的风险
+④ Her rudeness was calculated to offend.
+= 她的无礼是故意要激怒人的。
+be calculated to = 有意要……
+⑤ He is a cold, calculating man.
+= 他是个冷酷、事事算计的人。
+calculating = 精于算计的（贬义）
+⑥ My calculations were wrong.
+= 我算错了。
+calculation = 计算、算出的结果
+⑦ The move was pure political calculation.
+= 那一步纯是政治盘算。
+political calculation = 政治盘算
+⑧ Use a calculator for the interest.
+= 利息用计算器算。
+calculator = 计算器
+⑨ The damage is not calculable.
+= 那个损失无法计量。
+calculable = 算得出来的
+⑩ A rough calculation put it at ten thousand.
+= 粗略一算是一万。
+a rough calculation = 粗略估算
+构词：拉丁语 calculus 小石子，古人用石子计数
+注意用法：calculating 说人一定贬义，calculated 只是有意的。
 
-camphor
-核心：樟脑：从樟树提取或人工合成的白色结晶，气味刺鼻
-清凉，用作防虫、外用镇痛与工业原料。旧时衣柜里放的
-樟脑丸就是它。形容词式说法 camphorated 指加了樟脑的。
-不可数。
-① The drawer smelled of camphor.
-= 抽屉里一股樟脑味。
-camphor = 樟脑
-② Camphor keeps moths away.
-= 樟脑能防蛀虫。
-keep away = 使不靠近
-③ She rubbed on camphorated oil.
-= 她抹了樟脑油。
-camphorated = 加了樟脑的
-构词：阿拉伯语 kafur，经拉丁语进英语
-注意别混：跟表示营地的那个词只是拼头相同，来路不同。
+calculus
+核心：两支，同一个来源，拉丁语的小石子。一是微积分：
+differential calculus 微分学，integral calculus 积分学，
+学科名不可数。二是医学上的结石、牙结石，这一支可数，
+复数 calculi。比喻用法也有，the political calculus
+指通盘的盘算。
+① She is taking calculus this term.
+= 她这学期上微积分。
+calculus = 微积分
+② Newton and Leibniz both developed the calculus.
+= 牛顿与莱布尼茨各自建立了微积分。
+③ The dentist scraped away the calculus.
+= 牙医把牙结石刮掉了。
+calculus = 牙结石、结石
+④ That changes the political calculus.
+= 那件事改变了整个政治盘算。
+the political calculus = 政治上的通盘考量
+构词：拉丁语 calculus 小石子，古人拿石子算数
+注意用法：数学义不可数，结石义可数。
 
-campus
-核心：大学或学院的校园：教学楼、宿舍、场地连成的那一片
-地方，也用于大公司的园区。on campus 是在校内，
-off campus 是校外，两个说法都不加冠词。可数。
-① She lives on campus.
-= 她住在校内。
-on campus = 在校园里
-② The company built a new campus.
-= 那家公司建了一片新园区。
-campus = 园区
-③ There are three campuses in the city.
-= 那所学校在城里有三个校区。
-campuses = 校区的复数
-④ He rents a flat off campus.
-= 他在校外租了套公寓。
-off campus = 在校外
-构词：拉丁语里表示平地的那个词，美国大学最早这么称呼校地
-注意用法：跟表示扎营的那个词同源，但意思已经分开。
+caldera
+核心：火山口塌下去形成的巨大洼地：喷发把地下的岩浆腾空，
+顶部支撑不住就整块下陷。西班牙语来的词，本义是大锅。可数。
+① The lake fills an ancient caldera.
+= 那个湖填在一个古老的火山塌陷口里。
+caldera = 火山塌陷口
+② The caldera is twelve miles across.
+= 那个塌陷口有十二英里宽。
+across = 横过来的宽度
+③ Hot springs line the caldera floor.
+= 塌陷口底部布满温泉。
+line = 沿着排布
+构词：西班牙语 caldera 大锅
+注意别混：比一般的 crater 大，是塌出来的不是炸出来的。
 
-can
-核心：两个不同源的词共用一个拼法，靠词性分。
-一个是助动词，底层是做得到，从这一步分出四支：能力、
-许可、可能性、以及提出请求或帮忙。否定式 can't 或
-cannot 除了不能，还表示推断上的不可能，语气比 may not
-硬。过去与委婉说法用 could。它没有不定式和完成形式，
-要说将来能就得换成 be able to。
-另一个是名词与动词：金属罐。名词是罐头、喷雾罐、洒水壶；
-动词是把食物装罐，canned 是罐装的，也引申成预先录好的。
-美式口语里它还指监狱，动词还有开除的意思。
-习语几个高频：a can of worms 是一开就收不住的麻烦，
-carry the can 是英式的背黑锅，in the can 是拍完了、办妥了。
-① I can swim two kilometres.
-= 我能游两公里。
-能力这一支，最本义。
-can = 能够
-② You can go now.
-= 你现在可以走了。
-许可：说话人给出准许。
-can = 可以（许可）
-③ It can get very cold here in March.
-= 这儿三月有时会很冷。
-可能性：说的是有时会这样。
-can = 有时会、可能
-④ Can you help me lift this?
-= 能帮我抬一下吗？
-提出请求，比 could 直接。
-Can you = 能不能请你……
-⑤ Can I get you a drink?
-= 给你拿点喝的吗？
-提出帮忙，说话人是主动的一方。
-Can I = 要不要我……
-⑥ You can't park here.
-= 这儿不能停车。
-否定式表示禁止。
-can't = 不许、不能
-⑦ That can't be right.
-= 那不可能对。
-否定式也表示推断上的不可能。
-can't be = 不可能是
-⑧ I cannot thank you enough.
-= 我怎么谢你都不够。
-cannot 是同一个否定式的正式写法。
-cannot = 不能（正式）
-⑨ I can't help laughing.
-= 我忍不住要笑。
-固定结构，后面接动名词。
-can't help doing = 忍不住做某事
-⑩ Open a can of beans.
-= 开一罐豆子。
-名词第一义：罐头。
-a can of = 一罐……
-⑪ He sprayed it from an aerosol can.
-= 他是用喷雾罐喷的。
-an aerosol can = 喷雾罐
-⑫ Fill the watering can.
-= 把洒水壶灌满。
-a watering can = 洒水壶
-⑬ The factory cans tomatoes all summer.
-= 那家厂整个夏天都在罐装番茄。
-can = 装罐
-⑭ Canned soup is quick.
-= 罐头汤省事。
-canned = 罐装的
-⑮ The show uses canned laughter.
-= 那个节目用的是罐头笑声。
-罐装的引申：预先录好、拿来就播。
-canned laughter = 预先录好的笑声
-⑯ He got canned for lying.
-= 他因为撒谎被开除了。
-get canned = 被开除（美式口语）
-⑰ He spent a year in the can.
-= 他在牢里待了一年。
-in the can = 在监狱里（美式口语）
-⑱ That report opened a can of worms.
-= 那份报告揭开了一堆麻烦。
-a can of worms = 一开就收不住的麻烦
-⑲ I always carry the can for his mistakes.
-= 他犯的错老是我背。
-carry the can = 背黑锅（英式）
-⑳ The film is in the can.
-= 那部片子已经拍完了。
-同一个说法在影视圈里是另一个意思，靠语境分。
-in the can = 拍完了、办妥了
-㉑ Can it! I am trying to work.
-= 别吵了，我要干活。
-Can it = 闭嘴、别闹（美式口语）
-㉒ The cannery closed decades ago.
-= 那家罐头厂几十年前就关了。
-cannery = 罐头厂
-㉓ She has a real can-do attitude.
-= 她那股肯干的劲头是真的。
-从做得到那一支来的形容词，多修饰 attitude、spirit。
-can-do = 肯干的、什么都敢试的
-㉔ Pass me the can opener.
-= 把开罐器递给我。
-这里的 can 是罐头那一支。
-a can opener = 开罐器
-㉕ Thou canst not hide from it.
-= 你躲不掉的。
-canst 是古体的第二人称形式，只在旧文本与诗里读到。
-canst = 古体的第二人称形式
-构词：助动词出自古英语 cunnan 知道、会；罐出自古英语 canne 容器
-注意用法：两个词同形不同源，靠词性分。
-注意区别：说将来的能要用 be able to，它没有将来形式。
+caldron
+核心：cauldron 的另一种拼法，多见于美式与旧文本，
+意思完全一样：大锅，也比喻动荡不安的局面。今天的主流
+拼法是带 u 的那个，写作时用 cauldron，读到 caldron
+认得就行。可数。
+① The witches stirred a caldron.
+= 女巫们搅着一口大锅。
+caldron = 大锅
+② The region became a caldron of unrest.
+= 那个地区成了一口动荡的大锅。
+a caldron of unrest = 动荡不安的局面
+构词：拉丁语 caldarium 热水锅
+注意拼写：主流写 cauldron，caldron 是异体。
 
-canal
-核心：人工挖出来的水道，供船通行或供灌溉排水。第二支是
-解剖学的管道：耳道、产道、消化道都用这个词。可数。
-① The canal links the two rivers.
-= 那条运河把两条河连起来。
-canal = 运河
-② Barges still work the canal.
-= 平底货船还在那条运河上跑。
-barge = 平底货船
-③ Water is drawn off into irrigation canals.
-= 水被引到灌溉渠里。
-irrigation canal = 灌溉渠
-④ The infection was in the ear canal.
-= 感染在耳道里。
-the ear canal = 耳道
-⑤ They live on a canal boat.
-= 他们住在运河窄船上。
-a canal boat = 运河窄船
-构词：拉丁语 canalis 管道、水槽
-注意用法：解剖义与水道义共用一个词。
+calendar
+核心：三支。一是日历、挂历，也指历法（the Gregorian
+calendar 公历、the lunar calendar 农历）。二是日程表：
+一段时间里安排好的事。三是法院、议会的案件与议程表。
+注意跟 calender 只差一个字母，那是碾压布料的机器。可数。
+① Mark the date on your calendar.
+= 把日期记在日历上。
+mark on the calendar = 记在日历上
+② The Chinese calendar begins in spring.
+= 农历从春天起算。
+the Chinese calendar = 农历
+③ My calendar is full next week.
+= 我下周日程排满了。
+calendar = 日程安排
+④ The case is on the court calendar.
+= 那个案子排在法庭日程上。
+court calendar = 法庭案件日程表
+⑤ Give one calendar month's notice.
+= 要提前一个整月通知。
+a calendar month = 日历上的整月
+⑥ Accounts close at the calendar year.
+= 账目按日历年结。
+the calendar year = 日历年
+构词：拉丁语 kalendae 每月的第一天
+注意拼写：别跟 calender 混，那是机器。
 
-canalize
-核心：把河道改成规整的渠：拉直、加固、控制水流。引申义
-也常用：把力量或情绪引到一个方向去。名词 canalization。
-英式也拼 canalise。
-① The river was canalized long ago.
-= 那条河很早就被渠化了。
-canalize = 把河道渠化
-② Canalization stopped the flooding.
-= 渠化治住了水患。
-canalization = 河道渠化
-③ He canalized his anger into work.
-= 他把怒气引到工作上去了。
-canalize something into = 把……导向某处
-构词：canal 水道 加动词后缀
-注意用法：引申义偏书面。
+calf
+核心：两支，各不相干。一是小牛，也用于象、鲸、海豹、
+长颈鹿的幼崽，in calf 是母牛怀着犊。二是小腿后侧那块
+肌肉隆起的地方。两支的复数都是 calves。小牛皮叫
+calfskin，做书皮和鞋面的那种软皮。可数。
+① The cow had a calf in March.
+= 那头母牛三月生了小牛。
+have a calf = 生小牛
+② Whale calves stay close to their mothers.
+= 幼鲸紧跟着母亲。
+whale calf = 幼鲸
+③ He pulled a muscle in his calf.
+= 他小腿肌肉拉伤了。
+calf = 小腿后侧
+④ The book is bound in calfskin.
+= 那本书用小牛皮装帧。
+calfskin = 小牛皮
+构词：古英语 cealf 幼畜
+注意用法：两支的复数都是 calves。
 
-canape
-核心：一口一个的小点心：一小片面包或饼干上放馅料，
-酒会上端出来的那种。法语来的词，讲究的写法带重音符。
-多用复数。可数。
-① Waiters passed round canapes.
-= 侍者端着小点心穿来穿去。
-canape = 一口酥小点
-② She made smoked salmon canapes.
-= 她做了熏三文鱼小点。
-smoked salmon = 熏三文鱼
-③ Canapes are served with drinks.
-= 小点心是配酒上的。
-be served with = 配……上桌
-构词：法语的沙发一词，那片底座像是托着馅料的坐榻
-注意用法：多用复数，酒会语境。
+calibrate
+核心：校准：拿标准去调仪器，让它读得准。引申义也常用：
+把力度、说法、政策调到合适的分寸。名词 calibration
+既指校准这件事，也指仪器上的刻度。
+① Calibrate the scales before weighing.
+= 称之前先校准秤。
+calibrate = 校准
+② The thermometer needs recalibrating.
+= 那个温度计需要重新校准。
+recalibrate = 重新校准
+③ They carefully calibrated their public response.
+= 他们把对外表态的分寸调得很细。
+calibrate a response = 把分寸调准
+④ The calibration was off by two degrees.
+= 校准差了两度。
+calibration = 校准、刻度
+构词：calibre 口径 加动词后缀，本指量枪管口径
+注意用法：引申义常说 calibrate a response。
 
-canard
-核心：谣传、假消息，尤指流传很广却站不住的说法，
-常说 an old canard。书面语，带轻蔑。可数。
-① That is an old canard about immigrants.
-= 那是关于移民的一个老谣言。
-an old canard = 老谣言
-② The claim is a canard, repeated for years.
-= 那个说法是假的，却传了多年。
-canard = 站不住的传言
-③ He dismissed the story as a canard.
-= 他说那是谣传，不予理会。
-dismiss as = 视为……而不予理会
-构词：法语 canard 鸭子，出自一句骗人的俗语
-注意语域：书面，带轻蔑。
+calibre
+核心：三支，都从枪管里长出来。一是口径：枪管内径或子弹
+直径。二是引申指人的水平、才干，of high calibre 是水准
+很高。三是引申指事物的档次。美式拼作 caliber。
+说人的水准时不可数。
+① The rifle is of small calibre.
+= 那支枪口径小。
+calibre = 口径
+② We need engineers of that calibre.
+= 我们需要那个水准的工程师。
+of high calibre = 水准很高的
+③ The debate was of a low calibre.
+= 那场辩论水平很低。
+of a low calibre = 档次很低的
+构词：法语 calibre，转自阿拉伯语 qalib 模子
+注意拼写：英式 calibre，美式 caliber。
 
-canary
-核心：金丝雀：小型鸣禽，羽毛多为黄色，笼养听叫声。
-矿工曾带它下井查毒气，所以 a canary in the coal mine
-指提前示警的信号，这个说法今天很常用。canary yellow
-是那种鲜黄。可数。
-① The canary sang all morning.
-= 那只金丝雀叫了一上午。
-canary = 金丝雀
-② Rising rents are a canary in the coal mine.
-= 房租上涨是个预警信号。
-a canary in the coal mine = 提前示警的信号
-③ She painted the door canary yellow.
-= 她把门刷成了鲜黄色。
-canary yellow = 鲜黄色
-构词：加那利群岛的名字，鸟从那里来
-注意用法：预警那个说法比鸟本身更常读到。
+calico
+核心：两支，英美说的不是一回事。英式指未染色的白棉布，
+粗平织，做衬里和样衣用；美式指印花棉布，带小碎花的那种。
+第三个常见用法是猫：a calico cat 指三色花猫，美式说法。
+布义不可数。
+① The lining is plain calico.
+= 里衬是素白棉布。
+calico = 白棉布（英式）
+② She wore a calico dress with tiny flowers.
+= 她穿着一件小碎花棉布裙。
+calico = 印花棉布（美式）
+③ Their calico cat sleeps on the sill.
+= 他们家那只三色猫睡在窗台上。
+a calico cat = 三色花猫（美式）
+构词：印度港口 Calicut 的名字，布从那里出口
+注意用法：英式指白坯布，美式指印花布。
 
-canasta
-核心：一种用两副牌打的纸牌游戏，四人两两配对，
-凑出七张同点的一组就叫一个 canasta。上世纪中叶风行
-一时。不可数。
-① They play canasta on Sundays.
-= 他们周日打这种牌。
-play canasta = 打卡纳斯塔
-② Canasta needs two packs of cards.
-= 这种牌要用两副。
-two packs of cards = 两副牌
-③ A canasta is seven of a kind.
-= 七张同点算一组。
-seven of a kind = 七张同点
-构词：西班牙语 canasta 篮子，指那堆牌
-注意用法：说游戏本身时不可数。
+californium
+核心：人工合成的放射性金属元素，符号 Cf，得名于加利福尼亚
+和加州大学，发现它的实验室在那里。只出现在核物理与元素表
+的语境里。不可数。
+① Californium was first made in 1950.
+= 锎是一九五零年首次制成的。
+californium = 锎
+② Californium is intensely radioactive.
+= 锎的放射性极强。
+radioactive = 有放射性的
+③ Only tiny amounts of californium exist.
+= 锎只存在极微量。
+tiny amounts = 极微量
+构词：加利福尼亚 California 加元素后缀
+注意用法：只在核物理与元素表里读到。
 
-cancan
-核心：康康舞：十九世纪巴黎的一种舞，一排女子高踢腿、
-撩起层层裙摆，多在歌舞厅表演。通常带定冠词。可数。
-① They danced the cancan on stage.
-= 她们在台上跳康康舞。
-dance the cancan = 跳康康舞
-② The cancan came out of Paris dance halls.
-= 康康舞出自巴黎的歌舞厅。
-come out of = 出自
-③ High kicks are what make a cancan.
-= 康康舞的看点就是高踢腿。
-high kick = 高踢腿
-构词：法语 cancan 喧闹、闲话
-注意用法：多带定冠词说 the cancan。
+caliper
+核心：美式拼法，英式写 calliper。指两类东西：一是卡钳、
+卡尺，量厚度和内外径的那种两脚工具，常说 a pair of
+calipers；二是自行车与汽车刹车上夹住盘的那个部件。
+说工具时多用复数。
+① Measure the thickness with calipers.
+= 用卡钳量厚度。
+a pair of calipers = 一副卡钳
+② The brake caliper was worn.
+= 刹车钳磨损了。
+brake caliper = 刹车钳
+③ He set the calipers to ten millimetres.
+= 他把卡钳调到十毫米。
+set to = 调到……
+构词：calibre 口径的变体，本是量口径的工具
+注意拼写：美式 caliper，英式 calliper。
 
-cancel
-核心：取消：把已经安排好的事撤掉。三处延伸：一是取消
-活动、订单、预约；二是在票证上盖注销章，让它不能再用；
-三是相消，cancel out 是互相抵销。名词 cancellation
-既指取消，也指别人退掉的那个名额。
-① They cancelled the concert.
-= 他们把音乐会取消了。
-cancel = 取消
-② I need to cancel my subscription.
-= 我要取消订阅。
-cancel a subscription = 取消订阅
-③ The clerk cancelled the stamp.
-= 职员在邮票上盖了注销章。
-cancel a stamp = 注销邮票
-④ The two effects cancel out.
-= 两种作用互相抵销。
-cancel out = 相互抵销
-⑤ We got a seat from a cancellation.
-= 有人退订，我们才有座。
-cancellation = 取消；退掉的名额
-⑥ He cancelled an order for fifty units.
-= 他取消了五十台的订单。
-cancel an order = 取消订单
-构词：拉丁语 cancellare 画上格子划掉
-注意拼写：英式 cancelled，美式 canceled。
+caliph
+核心：哈里发：伊斯兰教先知之后的宗教兼政治领袖。他统治
+的国家、以及那个职位本身，都叫 caliphate。历史与政治
+文字里用。可数。
+① The caliph ruled from Baghdad.
+= 那位哈里发以巴格达为都。
+caliph = 哈里发
+② The caliphate lasted three centuries.
+= 那个哈里发国延续了三百年。
+caliphate = 哈里发国、哈里发之位
+③ Succession to the caliph was disputed.
+= 哈里发的继承有过争议。
+succession = 继承
+构词：阿拉伯语 khalifa 继任者
+注意用法：历史与政治文字里的词。
 
-cancer
-核心：癌：细胞失控增生形成的病。可数也不可数：说
-a rare cancer 是一种癌，说 die of cancer 时不可数。
-第二支是比喻：社会里不断蔓延的祸患，语气很重。
-形容词 cancerous 是癌变的、恶性的。
-① She was treated for breast cancer.
-= 她治的是乳腺癌。
-breast cancer = 乳腺癌
-② He died of lung cancer.
-= 他死于肺癌。
-die of cancer = 死于癌症
-③ Corruption is a cancer in public life.
-= 腐败是公共生活里的一颗毒瘤。
-a cancer in = ……里的毒瘤
-④ The lump proved cancerous.
-= 那个肿块查出是恶性的。
-cancerous = 癌变的、恶性的
-构词：拉丁语 cancer 蟹，因病灶的形状得名
-注意语域：比喻义语气很重，慎用。
+calisthenics
+核心：徒手体操：不用器械，靠自身体重做的那套动作，
+俯卧撑、深蹲、开合跳都算。英式多拼 callisthenics，
+两个 l。形式上是复数，作主语时通常当单数用。
+① Calisthenics needs no equipment.
+= 徒手体操不需要器械。
+calisthenics = 徒手体操
+② He does calisthenics every morning.
+= 他每天早上做徒手体操。
+do calisthenics = 做徒手体操
+③ The class begins with light calisthenics.
+= 课从轻量的徒手操开始。
+light calisthenics = 轻量徒手操
+构词：希腊语 kallos 美 加 sthenos 力量
+注意用法：形式复数当单数用；英式拼 callisthenics。
 
-candela
-核心：发光强度的国际单位，符号 cd，说的是光源在某个
-方向上有多亮。灯具与显示屏的规格里会读到。可数。
-① One candela is roughly one candle's light.
-= 一坎德拉大致是一支蜡烛的亮度。
-candela = 坎德拉
-② The lamp is rated at four hundred candelas.
-= 那盏灯标称四百坎德拉。
-be rated at = 标称为
-③ Candela measures intensity, not total output.
-= 坎德拉量的是强度，不是总光通量。
-intensity = 强度
-构词：拉丁语 candela 蜡烛
-注意别混：量的是方向上的强度，不是总光量。
+call
+核心：底层是出声把人叫过来。所有义项都从这一步长出去。
+往出声那边走，是喊、是鸟鸣；往叫人来那边走，是召集、
+传唤、征召；往用声音联络那边走，是打电话，这一支今天
+最高频；往给名字那边走，是称作、叫做，因为叫它这个名字
+就是用声音指认它；往出声宣布那边走，是裁判判定和预测
+胜负。名词化之后是电话、喊声、要求、需要、造访、吸引力。
+短语动词有一条清楚的规则：介词决定叫的方向。for 是叫它来，
+所以是要求；off 是叫停，所以是取消；in 是叫进来或自己顺道
+进去；up 是往上叫，所以是征召；out 是把声音送出去，
+所以是喊出、号召罢工；on 是对着谁，所以是呼吁或登门；
+at 是顺道到某地。认准这条，二十来个短语动词都能推出来，
+不必一个个背。
+① He called my name from the gate.
+= 他在门口喊我的名字。
+最本义的一支：出声让人听见。
+call somebody's name = 喊某人的名字
+② She called for help.
+= 她大声呼救。
+喊的对象是帮助，所以用 for。
+call for help = 呼救
+③ I'll call you tonight.
+= 我今晚给你打电话。
+用声音联络远处的人，今天最高频的一支。
+call somebody = 给某人打电话
+④ Nobody answered when I called.
+= 我打过去没人接。
+不带宾语时也是打电话，靠上下文认。
+⑤ They called the baby Ada.
+= 他们给孩子取名艾达。
+给名字这一支：叫它什么，就是这么指认它。
+call somebody something = 把某人叫作……
+⑥ What is this called in English?
+= 这个用英语怎么说？
+被动式最常用，问的是名称。
+be called = 名叫、称作
+⑦ Are you calling me a liar?
+= 你是在说我撒谎吗？
+把人叫作某种人，就是指责他是那种人。
+call somebody a liar = 说某人撒谎
+⑧ The head called her into his office.
+= 校长把她叫进办公室。
+叫人来这一支的原型：让人到自己这里来。
+call somebody into = 把某人叫进……
+⑨ The chairman called a meeting.
+= 主席召集了一次会议。
+把人都叫到一起，于是有了召开。
+call a meeting = 召开会议
+⑩ The union called a strike.
+= 工会发动了罢工。
+同一条延伸：把人叫出来就是发动。
+call a strike = 发动罢工
+⑪ The government called an election.
+= 政府宣布举行大选。
+官方宣布举行某事，也从召集来。
+call an election = 宣布举行选举
+⑫ A cuckoo called in the wood.
+= 林子里一只杜鹃在叫。
+用于鸟兽的叫声，是出声那一支的旁支。
+call = 鸣叫（鸟兽）
+⑬ The umpire called it a foul.
+= 裁判判那是犯规。
+出声宣布判定，于是有了裁判义。
+call = 判定、判罚
+⑭ The election is too close to call.
+= 选情太接近，判不出胜负。
+判定义再往前一步就是预测。
+too close to call = 差距太小，判不出结果
+⑮ Give me a call tomorrow.
+= 明天给我来个电话。
+名词第一义就是电话。
+give somebody a call = 给某人打电话
+⑯ I heard a call for help.
+= 我听见有人呼救。
+名词的喊声义，跟动词第一支对应。
+a call for help = 一声呼救
+⑰ There are calls for his resignation.
+= 有人要求他辞职。
+名词化的要求，多用复数。
+calls for = 要求……的呼声
+⑱ There is no call for rudeness.
+= 没必要这么无礼。
+表示必要、需要，多用于否定。
+no call for = 没必要
+⑲ The doctor paid a call on the family.
+= 医生上那家去看诊了。
+造访义，偏正式或带旧气。
+pay a call on = 登门造访
+⑳ He felt the call of the sea.
+= 他感到大海在召唤他。
+吸引力这一支是比喻：那东西在叫你。
+the call of = ……的召唤
+㉑ The ship calls at Lisbon.
+= 那艘船在里斯本停靠。
+at 指顺道到某地，多说船、火车、路线。
+call at = 停靠、顺道到
+㉒ I'll call in on my way home.
+= 我回家路上顺道去看你。
+in 是进来，所以是顺道进门。
+call in on somebody = 顺道去看某人
+㉓ The bank called in the loans.
+= 银行把贷款收了回去。
+同一个 in，方向是叫回自己手里。
+call in = 收回、召回
+㉔ They called in the army.
+= 他们把军队调了来。
+把外面的力量叫进来帮忙。
+call in = 请来、调来
+㉕ They called off the match.
+= 他们把比赛取消了。
+off 是叫停，最常用的一个。
+call off = 取消
+㉖ The mayor called on residents to save water.
+= 市长呼吁居民节水。
+on 是对着谁，所以是公开呼吁。
+call on somebody to do = 呼吁某人做某事
+㉗ We called on her at six.
+= 我们六点去她那儿。
+同一个 on 也可以是登门。
+call on somebody = 登门拜访
+㉘ Please call upon me if you need help.
+= 需要帮忙尽管找我。
+upon 是 on 的正式说法，意思相同。
+call upon = 请求、呼吁（正式）
+㉙ He called out in pain.
+= 他疼得叫了一声。
+out 是把声音送出去。
+call out = 大声叫喊
+㉚ The union called out its members.
+= 工会号召会员罢工。
+把人叫出来，即发动。
+call out = 号召……罢工
+㉛ He was called up at nineteen.
+= 他十九岁被征召入伍。
+up 是往上叫到军队那一层去。
+call up = 征召入伍
+㉜ Call me back when you are free.
+= 你有空回我电话。
+back 是把电话打回来。
+call back = 回电话
+㉝ The photo called forth old memories.
+= 那张照片唤起了旧日的记忆。
+forth 是引出来，偏书面。
+call forth = 唤起、引出
+㉞ Let us call it a day.
+= 今天就到这儿吧。
+习语：把这一天叫作完事了。
+call it a day = 今天就到此为止
+㉟ She calls the shots here.
+= 这里是她说了算。
+习语出自打枪时喊要打哪一处。
+call the shots = 说了算、做主
+㊱ The surgeon is on call tonight.
+= 那位外科医生今晚待命。
+随时可以被叫走，所以是待命。
+on call = 随时听召、值班待命
+㊲ That was a close call.
+= 那真是好险。
+差一点就判成另一个结果。
+a close call = 险些出事
+㊳ The finding calls the whole theory into question.
+= 那个发现让整套理论都成了疑问。
+把某事叫到质疑里去。
+call into question = 使受到质疑
+㊴ There were four callers before noon.
+= 中午前有四个人打电话来。
+派生：打电话的人，也指登门的客人。
+caller = 来电者；来访的客人
+㊵ Teaching was her true calling.
+= 教书是她真正的天职。
+被叫去做的那件事，于是有了天职。
+calling = 天职、使命
+㊶ Press one to request a callback.
+= 按一键请求回电。
+callback = 回电；也指复试通知
+㊷ The station's call sign is unmistakable.
+= 那家电台的呼号一听就认得。
+call sign = 呼号
+㊸ Call waiting lets you take a second call.
+= 来电等待让你能接第二个来电。
+call waiting = 来电等待
+㊹ She works in a call centre.
+= 她在电话客服中心上班。
+call centre = 电话客服中心
+㊺ Caller ID showed a foreign number.
+= 来电显示是个外国号码。
+caller ID = 来电显示
+㊻ He left his calling card.
+= 他留下了自己的名片。
+calling card = 名片（旧）；也指电话卡
+㊼ American stations have four call letters.
+= 美国电台的呼号是四个字母。
+call letters = 电台呼号（美式）
+㊽ There used to be a call box on the corner.
+= 街角以前有个公用电话亭。
+box 是亭子，装电话的亭子就是它。
+a call box = 公用电话亭（英式）
+㊾ He was called away from the meeting.
+= 他被叫离了会场。
+away 的方向朝外，call away 是把人从这里叫开。
+call somebody away = 把某人叫走
+㊿ The trial mentioned a call girl.
+= 庭审里提到一名应召女子。
+a call girl = 应召女子（委婉说法）
+❶ The speech was a clarion call for reform.
+= 那篇讲话是改革的号角。
+a clarion call = 响亮的号召
+❷ She called his bluff and he backed down.
+= 她一摊牌逼他亮底，他就退了。
+call somebody's bluff = 摊牌戳穿虚张声势
+❸ We set up a conference call with the New York office.
+= 我们跟纽约办公室开了个电话会议。
+a conference call = 电话会议（三方以上同时通话）
+conference 那半截指的是多方一起接进来；今天有画面的多改说 video call。
+❹ The minister paid a courtesy call on the mayor.
+= 那位大臣礼节性拜访了市长。
+a courtesy call = 礼节性拜访；也指商家事后回访的电话
+两个义的共同点是「不为办事，只为表示礼数」。
+构词：古诺斯语 kalla 呼叫、大声说
+注意用法：介词决定方向那条规则，比一个个背短语动词省力。
+注意区别：call in 有两个方向，收回与请来，靠宾语分。
 
-candelabra
-核心：多枝烛台：一个底座分出几个臂，每臂插一支蜡烛。
-严格说单数是 candelabrum，candelabra 本是它的复数，
-但今天 candelabra 常直接当单数用，复数写 candelabras。
-可数。
-① A silver candelabra stood on the table.
-= 桌上立着一座银烛台。
-candelabra = 多枝烛台
-② They lit all seven candles on it.
-= 他们把上面七支蜡烛都点上了。
-light a candle = 点蜡烛
-③ Two candelabras flanked the mirror.
-= 镜子两边各立一座烛台。
-flank = 立在两侧
-构词：拉丁语 candelabrum 烛台
-注意用法：严格的单数形式今天已少用。
+calligraphy
+核心：书法：把字写得好看这门手艺，也指写出来的那种字体。
+写的人叫 calligrapher，形容词是 calligraphic。不可数。
+① She studies Chinese calligraphy.
+= 她学中国书法。
+calligraphy = 书法
+② The invitation was addressed in calligraphy.
+= 请柬上的姓名是手写书法体。
+be addressed in = 用……书写收信人
+③ A calligrapher lettered the certificate.
+= 一位书法家题写了那张证书。
+calligrapher = 书法家
+构词：希腊语 kallos 美 加 graphein 写
+注意别混：跟表示呼叫的那个词无关，只是拼头相同。
 
-candid
-核心：直说不绕弯，尤指说出别人不爱听的实话。褒义，
-带一点难得这么坦白的意思，常搭 be candid about、
-a candid assessment。副词 candidly。另有一支说照片：
-指抓拍的、不是摆好姿势的。
-① She was candid about her mistakes.
-= 她坦白承认自己的错。
-be candid about = 对……直言不讳
-② Let me give you a candid assessment.
-= 我给你一个不客气的实话评价。
-a candid assessment = 坦率的评估
-③ Candidly, the plan will not work.
-= 说实话，那个计划行不通。
-candidly = 坦率地说
-④ These are candid shots, not posed.
-= 这些是抓拍，不是摆出来的。
-a candid shot = 抓拍的照片
-构词：拉丁语 candidus 白、洁净
-注意语域：褒义，指诚实，不是无礼。
+calliper
+核心：英式拼法，美式写 caliper。两个意思：一是卡钳、
+卡尺，量厚度与内外径的两脚工具，常说 a pair of
+callipers；二是英式特有的一支，指帮助行走的腿部
+金属支架。刹车上夹住盘的部件也叫这个词。
+① He measured the bore with callipers.
+= 他用卡钳量了内径。
+a pair of callipers = 一副卡钳
+② She wore a calliper on her left leg.
+= 她左腿上戴着支架。
+calliper = 腿部矫形支架（英式）
+③ The brake calliper needs replacing.
+= 刹车钳该换了。
+brake calliper = 刹车钳
+构词：与 calibre 口径同源，本是量口径的工具
+注意别混：跟表示呼叫的那个词无关，只是拼头相同。
 
-candida
-核心：白色念珠菌：人体上常见的一种酵母，过度繁殖会引起
-念珠菌感染，长在口腔里时俗称 thrush。医学用词，不可数。
-① The test showed candida.
-= 检查查出了念珠菌。
-candida = 白色念珠菌
-② Antibiotics can let candida grow.
-= 抗生素会让念珠菌长起来。
-antibiotic = 抗生素
-③ Candida infections are common and treatable.
-= 念珠菌感染常见，也治得好。
-treatable = 治得好的
-构词：拉丁语 candidus 白，因菌落发白
-注意用法：医学用词。
+callisthenics
+核心：calisthenics 的英式拼法，两个 l，意思完全一样：
+不用器械、靠自身体重做的体操。形式是复数，作主语时
+通常当单数用。
+① Callisthenics builds strength without weights.
+= 徒手体操不靠器械也能练力量。
+callisthenics = 徒手体操（英式拼法）
+② The regiment did callisthenics at dawn.
+= 那个团天亮就做徒手操。
+at dawn = 天刚亮时
+③ Twenty minutes of callisthenics is enough.
+= 二十分钟徒手操就够了。
+构词：希腊语 kallos 美 加 sthenos 力量
+注意别混：跟表示呼叫的那个词无关，只是拼头相同。
 
-candidate
-核心：三支，共同点是被摆出来供人挑选。一是候选人：
-参选公职的人。二是应试者、报考者。三是引申指某样东西
-够得上被选中。参选这件事叫 candidacy，英式也说
-candidature。可数。
-① She is the party's candidate.
-= 她是那个党的候选人。
-candidate = 候选人
-② Candidates must arrive by nine.
-= 应试者九点前到场。
-candidate = 应试者、报考者
-③ The bridge is a candidate for replacement.
-= 那座桥够得上列入重建。
-a candidate for = ……的合适对象
-④ He announced his candidacy in May.
-= 他五月宣布参选。
-candidacy = 参选、候选资格
-⑤ Her candidature was withdrawn.
-= 她的候选资格被撤回了。
-candidature = 候选资格（英式）
-构词：拉丁语 candidatus 穿白袍的，古罗马求职者穿白袍
-注意用法：candidacy 通用，candidature 偏英式。
+callous
+核心：对别人的痛苦无动于衷，冷酷。这是道德判断，
+一定带谴责，多修饰 remark、disregard、indifference。
+副词 callously，名词 callousness。本义来自皮肤磨出的
+硬皮：心也磨出了茧，所以感觉不到。
+① That was a callous remark.
+= 那句话太冷酷了。
+callous = 冷酷无情的
+② He showed a callous disregard for their safety.
+= 他对他们的安危冷漠得可怕。
+callous disregard = 冷酷的漠视
+③ She spoke callously about the layoffs.
+= 她提起裁员时语气冷得刺人。
+callously = 冷酷地
+④ His callousness shocked the jury.
+= 他的冷酷让陪审团震惊。
+callousness = 冷酷
+构词：拉丁语 callum 硬皮
+注意别混：跟表示呼叫的那个词无关，只是拼头相同。
 
-candle
-核心：蜡烛。派生一族都从它来：candlelight 烛光、
-candlelit 烛光照着的、candlestick 烛台、candlewick
-烛芯，也指一种起绒的布。两个习语：burn the candle at
-both ends 是两头耗、把自己累垮；not hold a candle to
-是远不如某人。可数。
-① Light a candle and turn off the lamp.
-= 点支蜡烛，把灯关了。
-light a candle = 点蜡烛
-② They ate by candlelight.
-= 他们就着烛光吃饭。
-by candlelight = 借着烛光
-③ It was a candlelit dinner.
-= 那是一顿烛光晚餐。
-candlelit = 烛光照着的
-④ Put it in the brass candlestick.
-= 插在那个铜烛台上。
-candlestick = 烛台
-⑤ The candlewick had gone black.
-= 烛芯已经烧黑了。
-candlewick = 烛芯
-⑥ He burns the candle at both ends.
-= 他两头熬，早晚累垮。
-burn the candle at both ends = 两头耗、过度消耗自己
-⑦ No one can hold a candle to her.
-= 谁都比不上她。
-not hold a candle to = 远不如
-构词：拉丁语 candere 发白光
-注意用法：两个习语都很高频。
+callow
+核心：年轻没经验，做事生嫩，带贬义。最常见的搭配是
+a callow youth。本义指雏鸟还没长羽毛，所以是毛还没齐
+的那种嫩。多作定语。
+① He was a callow youth of nineteen.
+= 那时他是个十九岁的毛头小子。
+a callow youth = 毛头小子
+② Her callow enthusiasm soon wore off.
+= 她那份生嫩的热情很快就退了。
+wear off = 慢慢消退
+③ The team looked callow against veterans.
+= 面对老将，那支队伍显得很嫩。
+callow = 生嫩没经验的
+构词：古英语 calu 秃的，指雏鸟未生羽
+注意别混：跟表示呼叫的那个词无关，只是拼头相同。
 
-candour
-核心：说话坦白、不掩饰，尤指承认对自己不利的事。
-不可数，褒义，常搭 with candour、a moment of candour。
-形容词是 candid。
-① He spoke with unusual candour.
-= 他讲得异常坦白。
-with candour = 坦白地
-② Her candour won the room over.
-= 她的坦率把在场的人都说服了。
-win over = 说服、赢得
-③ In a moment of candour he admitted it.
-= 他有一刻说了实话，承认了。
-a moment of candour = 一时的坦白
-构词：拉丁语 candor 洁白、明净
-注意拼写：英式 candour，美式 candor。
+callus
+核心：皮肤长期受磨压长出的硬皮、老茧，手掌脚底最常见；
+医学上也指骨折处新长的骨痂。形容词 callused 或
+calloused 是长了茧的。可数。
+① Guitarists develop calluses on their fingertips.
+= 弹吉他的人指尖会长茧。
+develop a callus = 长出老茧
+② A callus formed where the bone had broken.
+= 骨折处长出了骨痂。
+callus = 骨痂
+③ His hands were calloused from digging.
+= 他的手因为挖土长满了茧。
+calloused = 长了茧的
+④ Callused palms told you his trade.
+= 一双老茧的手掌就看得出他干哪行。
+callused = 布满老茧的
+构词：拉丁语 callum 硬皮，与 callous 同源
+注意别混：callous 说人心冷，callus 说皮上的茧。
 
-candy
-核心：糖果。美式用它统称各种糖，英式统称说 sweets，
-英式的 candy 偏指硬糖。形容词 candied 是糖渍的。
-cotton candy = 棉花糖（美式）
-candyfloss 是英式的说法，指的是同一样东西。
-统称时不可数，指一颗时可数。
-① The children were given candy.
-= 孩子们分到了糖。
-candy = 糖果（美式统称）
-② He bought a candy at the counter.
-= 他在柜台买了颗糖。
-a candy = 一颗糖
-③ The cake is topped with candied peel.
-= 蛋糕上放着糖渍果皮。
-candied = 糖渍的
-④ She bought candyfloss at the fair.
-= 她在集市上买了棉花糖。
-candyfloss = 棉花糖（英式）
-⑤ Candyman is street slang for a dealer.
-= 那个词是街头俚语，指毒品贩子。
-candyman = 毒品贩子（美式俚语）
-⑥ He bought a candy apple at the fair.
-= 他在集市买了个糖衣苹果。
-a candy apple = 糖衣苹果（美式）
-⑦ Don't be such a candy-ass.
-= 别那么没胆。
-candy-ass = 没胆的软蛋（美式粗俗）
-⑧ A candy cane hung on the tree.
-= 树上挂着一根拐杖糖。
-a candy cane = 拐杖糖
-⑨ She wore a candy-striped shirt.
-= 她穿着细红白条纹衬衫。
-candy-striped = 细红白条纹的
-⑩ Candy stripers help on the ward.
-= 那些少年志愿者在病房帮忙。
-a candy striper = 医院少年志愿者（美式）
-构词：阿拉伯语 qandi 糖渍的，经法语进英语
-注意用法：美式统称糖，英式统称说 sweets。
+calm
+核心：三支一个内核：没有起伏。一是人不慌，沉着；二是
+天气与海面无风无浪；三是局势不再动荡。动词是使平静，
+calm down 最高频。名词是平静的状态。副词 calmly，
+名词 calmness。说状态时不可数。
+① Stay calm and wait here.
+= 保持镇定，在这儿等着。
+stay calm = 保持镇定
+② The sea was completely calm.
+= 海面完全平静。
+calm = 无风无浪的
+③ The city was calm after the vote.
+= 投票之后城里平静下来了。
+calm = 不再动荡的
+④ Calm down and tell me what happened.
+= 冷静点，告诉我出了什么事。
+calm down = 冷静下来
+⑤ She spoke calmly to the crowd.
+= 她平静地对人群讲话。
+calmly = 镇定地
+⑥ His calmness steadied everyone.
+= 他的沉着让大家定下心来。
+calmness = 沉着
+⑦ There was a strange calm before the storm.
+= 暴风雨来临前有一种异样的平静。
+the calm before the storm = 暴风雨前的平静
+构词：晚期希腊语 kauma 正午暑热，正午海上无风
+注意用法：calm down 是最高频的一个说法。
 
-cane
-核心：三支。一是细长中空的茎：竹、藤、甘蔗都叫 cane，
-也指用它编东西的材料。二是手杖：走路撑的那根。三是旧时
-打学生的藤条，动词是用藤条打，caning 是那顿打。
-茎与材料义不可数，手杖义可数。
-① Cut the sugar cane by hand.
-= 甘蔗是手工砍的。
-sugar cane = 甘蔗
-② The chairs are made of cane.
-= 那些椅子是藤编的。
-cane furniture = 藤家具
-③ He walks with a cane.
-= 他拄着手杖走路。
-walk with a cane = 拄手杖走路
-④ Boys were caned for lateness.
-= 男生迟到会被藤条打。
-cane = 用藤条打
-⑤ Caning was abolished in schools.
-= 学校里的藤条体罚已经废止。
-caning = 藤条体罚
-⑥ Cane rats damage the crop.
-= 甘蔗鼠会毁作物。
-a cane rat = 甘蔗鼠
-⑦ Use cane sugar, not beet.
-= 用甘蔗糖，不要甜菜糖。
-cane sugar = 甘蔗糖
-构词：希腊语 kanna 芦苇
-注意语域：体罚义只在历史语境里用。
+calorie
+核心：热量单位。日常英语里说食物含多少热量就用它。
+严格说营养标签上的大卡是千卡，物理上的 calorie 是小卡，
+日常不区分。形容词 calorific 是产热的，calorific value
+是热值；calorimeter 是测热量的仪器。可数。
+① This bar has two hundred calories.
+= 这块能量棒有两百卡。
+calorie = 卡路里
+② She is counting calories.
+= 她在算热量。
+count calories = 计算热量
+③ Fat has a high calorific value.
+= 脂肪的热值很高。
+calorific value = 热值
+④ The heat was measured in a calorimeter.
+= 热量是用量热计测的。
+calorimeter = 量热计
+构词：拉丁语 calor 热
+注意用法：日常说 calories 就是指食物热量。
 
-canine
-核心：两支。一是形容词，犬的、跟狗有关的，canine
-teeth 是犬齿。二是名词，指犬齿本身，也在正式或戏谑的
-说法里指狗与犬科动物。
-① Canine behaviour is her field.
-= 她研究的是犬类行为。
-canine = 犬的
-② The dentist capped a canine.
-= 牙医给一颗犬齿做了套冠。
-canine = 犬齿
-③ Wolves and foxes are canines.
-= 狼和狐都属犬科。
-canine = 犬科动物
-构词：拉丁语 canis 狗
-注意语域：用它指狗时偏正式或带戏谑。
+calque
+核心：仿造词：把外语的复合词逐块直译过来造出的新词，
+语言学术语。动词是这样仿造。跟借词不同：借词连音带形
+搬过来，仿造词只搬结构，用本族语的词填。可数。
+① Loanword and calque are not the same thing.
+= 借词和仿造词不是一回事。
+calque = 仿造词
+② The term is a calque from German.
+= 那个说法是从德语逐块直译来的。
+a calque from = 从……仿造来的词
+③ English calqued the phrase in the last century.
+= 英语在上个世纪把那个说法仿造了过来。
+构词：法语 calquer 描摹
+注意用法：语言学术语，日常不用。
 
-caning
-核心：用藤条打人的那顿打，旧时学校与法庭的体罚。
-名词，可数，多说 get a caning、give somebody a caning。
-口语里还有个引申义：在比赛或考试里被打得很惨。
-新加坡与马来西亚的司法体罚今天仍用这个词。
-① He got a caning for cheating.
-= 他作弊挨了藤条。
-get a caning = 挨一顿藤条
-② The head gave him a caning.
-= 校长打了他一顿藤条。
-give somebody a caning = 打某人一顿藤条
-③ Our team took a caning on Saturday.
-= 我们队周六被打得很惨。
-take a caning = 被打得很惨（口语）
-构词：从表示藤条的那个词加名词后缀来
-注意语域：体罚义是历史与法律语境，引申义是口语。
+calumny
+核心：诽谤：编造话去毁人名声。书面语，语气重，比
+slander 更文气，多见于法律与文学。可数与不可数都有。
+① He answered the calumnies in print.
+= 他撰文回应那些诽谤。
+calumny = 诽谤（书面）
+② She was the victim of calumny.
+= 她遭人诽谤。
+the victim of = ……的受害者
+③ Calumny spread faster than the truth.
+= 诽谤传得比真相快。
+近义对照：
+calumny = 诽谤（书面、语气重）
+slander = 口头诽谤（法律用词）
+libel = 书面诽谤（法律用词）
+构词：拉丁语 calumnia 诬告
 
-canister
-核心：金属或塑料的圆筒罐：装茶叶、面粉、胶卷的那种。
-军警用的催泪弹筒也叫这个词。可数。
-① Keep the flour in a canister.
-= 面粉装在圆筒罐里。
-canister = 圆筒罐
-② Police fired a tear gas canister.
-= 警方发射了一枚催泪弹。
-a tear gas canister = 催泪弹筒
-③ The canister was sealed with tape.
-= 那个罐子用胶带封着。
-seal with = 用……封住
-构词：希腊语 kanastron 藤篮
-注意用法：军警语境里指弹筒。
+calve
+核心：两支，第二支是第一支的比喻。一是母牛产犊，也用于
+鲸和象。二是冰川崩解：大块冰从冰川前缘断落入海，画面
+正是冰川生下一块冰。第三人称单数 calves，跟 calf 的
+复数同形。
+① The cow calved in the night.
+= 那头母牛夜里产了犊。
+calve = 产犊
+② The glacier calved a huge iceberg.
+= 冰川崩落下一座巨大的冰山。
+calve = 崩解出冰块
+③ Ice calves from the front of the glacier.
+= 冰从冰川前缘断落。
+calve from = 从……断落
+④ Two of the calves were born early.
+= 有两头小牛提前出生。
+calves = 小牛的复数
+构词：与小牛那个词同源
+注意用法：冰川义在气候报道里很常见。

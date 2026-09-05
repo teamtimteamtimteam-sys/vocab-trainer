@@ -259,6 +259,18 @@ motte-and-bailey = 土丘外庭式城堡
 注意语域：
 城堡建筑与中世纪史术语。
 
+Bailey bridge
+核心：可拆装的钢桁架便桥：预制成一段段，靠人力就能架起来，二战时
+为工兵设计，此后一直是抢险与军用的标准做法。得名于设计者的姓。可数。
+① Engineers threw a Bailey bridge across the gap.
+= 工兵在缺口上架了座钢便桥。
+a Bailey bridge = 可拆装的钢桁架便桥
+② The Bailey bridge carried traffic for two years.
+= 那座便桥通了两年车。
+carry traffic = 通行车辆
+构词：设计者 Donald Bailey 的姓
+注意用法：多见于抗洪抢险与军事报道。
+
 bailiff
 核心：两层，英美不同。英国的 bailiff 是法院执达员——上门扣押
 财物抵债、执行驱逐令的那个人，所以听到这个词多半没好事。
@@ -430,6 +442,19 @@ bakeshop = 面包房（美式）
 注意语域：
 a bakehouse = 烤房本身（偏旧的说法）
 
+Bakewell tart
+核心：英式甜点：酥皮底上抹一层果酱，再铺杏仁蛋糕糊烤成，表面常浇
+糖霜。得名于德比郡的贝克韦尔镇。当地人坚持原版该叫 Bakewell pudding，
+那是另一种做法。可数。
+① She brought a Bakewell tart to the fete.
+= 她带了个杏仁果酱挞去义卖会。
+a Bakewell tart = 杏仁果酱挞（英式）
+② Bakewell tarts keep for days.
+= 那种挞能放好几天。
+Bakewell tarts = 杏仁果酱挞（复数）
+构词：德比郡的镇名加 tart
+注意别混：当地的 Bakewell pudding 是另一种做法，馅心不一样。
+
 baking
 核心：bake 的名词与形容词形式。作名词指"烘焙"这件事，
 也指一炉烤出来的东西；作形容词指天气"热得烤人"。
@@ -474,29 +499,3 @@ filo pastry = 薄酥皮
 注意别混：
 baklava = 果仁蜜饼（甜点）
 balaclava = 头套式毛线帽（只露眼睛）
-
-baksheesh
-核心：中东、南亚与北非一带的说法，指给出去的小钱——
-可以是打赏、施舍，也可以是为办事而给的打点。
-词从波斯语来，经土耳其语与印地语进入英语，
-在旅行写作里很常见。
-① He handed over some baksheesh.
-= 他递过去一点小费。
-② Baksheesh oils the wheels there.
-= 在那儿打点能让事情顺当些。
-注意语域：
-旅行与地区报道用语，语义从善意到灰色都有。
-
-balaclava
-核心：套头的针织帽，只露眼睛（有的连嘴也露），用来在严寒里
-护住整个头颈。名字来自克里米亚战争的一处战场。
-今天也常出现在抢劫和抗议的新闻里，所以带一点负面联想。
-① He pulled on a balaclava.
-= 他套上了头套。
-② Climbers wear balaclavas above the snowline.
-= 登山者过了雪线就戴头套。
-③ The raiders wore balaclavas.
-= 那些劫匪戴着头套。
-注意别混：
-balaclava = 头套式毛线帽
-baklava = 果仁蜜饼（甜点，只差一个字母）

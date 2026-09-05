@@ -1,3 +1,166 @@
+bcc
+核心：电子邮件里的"密送"，是 blind carbon copy 的缩写。carbon copy
+本指打字机上垫复写纸打出的副本，cc 沿用下来指抄送；加个 blind
+是说这一栏里的收件人不会被别人看见，别的收件人也不知道有他。
+名词动词都能用，动词是"密送给某人"。
+① Put her in bcc.
+= 把她放进密送栏。
+in bcc = 在密送栏里
+② I'll bcc you on the reply.
+= 回信我密送你一份。
+bcc someone = 密送给某人
+动词用法，后面直接接人。
+③ Use bcc for large mailing lists.
+= 群发大名单时要用密送。
+避免把所有人的地址暴露给彼此，这是它最实用的场合。
+④ He was bcc'd on the whole exchange.
+= 整串往来他都收到了密送。
+被动式常写成加撇号的形式。
+近义对照：
+cc = 抄送（收件人彼此可见）
+bcc = 密送（彼此不可见）
+to = 主送
+
+be
+核心：英语里最核心也最不规则的一个词。它自己几乎不表示动作，
+只做两件事：把两样东西等同起来，和给别的动词当支架。
+一、系动词：把主语和后面的名词或形容词连起来——说它是什么、
+   怎么样、在哪儿、多大、多少钱、几点。英语里这类句子必须有它，
+   中文往往可以省（"她很高"没有动词，英文非加 is 不可）。
+二、助动词：接现在分词构成进行时（is doing），
+   接过去分词构成被动语态（is done）。这时它本身没有意思，
+   只负责扛时态和人称。
+三、存在：there is / there are，说"有"。
+四、be to do：表示安排、规定或注定，正式，多见于公文与新闻。
+变位是全英语最不规则的：am / is / are，过去 was / were，
+过去分词 been，现在分词 being。虚拟语气里一律用 were
+（If I were you），这是它保留下来的古形。
+① She is a doctor.
+= 她是医生。
+系动词第一层：说明身份。
+② The soup is cold.
+= 汤凉了。
+系动词第二层：说明状态或性质。
+③ The keys are on the table.
+= 钥匙在桌上。
+系动词第三层：说明位置。
+④ He is twenty.
+= 他二十岁。
+年龄、价钱、尺寸、时间都用它，
+中文里这些是"是"或干脆不用动词。
+⑤ It is Tuesday.
+= 今天星期二。
+⑥ That will be five pounds.
+= 一共五镑。
+⑦ They are working late.
+= 他们在加班。
+助动词第一层：接现在分词构成进行时。
+⑧ The house was built in 1890.
+= 那栋房子建于一八九零年。
+助动词第二层：接过去分词构成被动。
+⑨ There is a problem.
+= 有个问题。
+there is / there are = 有（后接单数或复数）
+⑩ There were no seats left.
+= 一个座位都没剩。
+⑪ The meeting is to start at nine.
+= 会议定于九点开始。
+be to do = 定于、应当（正式，表安排或规定）
+⑫ No one is to leave the room.
+= 谁都不许离开房间。
+这一层表规定，语气很硬。
+⑬ He was never to see her again.
+= 他再也没能见到她。
+这一层表注定，多见于叙事。
+⑭ She is about to resign.
+= 她就要辞职了。
+be about to do = 即将做（比 will 更近）
+⑮ Be quiet.
+= 安静。
+祈使句直接用原形。
+⑯ Don't be silly.
+= 别傻了。
+否定祈使用 don't be。
+⑰ If I were you, I'd wait.
+= 我要是你就等等。
+if I were = 我要是（虚拟语气一律用 were）
+⑱ Be that as it may, we must decide.
+= 话虽如此，还是得定下来。
+be that as it may = 尽管如此（固定说法，保留古虚拟形）
+⑲ The powers that be blocked it.
+= 当权者把它拦下了。
+the powers that be = 当权者（保留古形的固定说法）
+⑳ Let it be.
+= 由它去吧。
+㉑ He is a has-been.
+= 他已经过气了。
+has-been = 过气的人
+㉒ She is a wannabe influencer.
+= 她想当网红。
+wannabe = 想成为…的人（由 want to be 来）
+㉓ Being late is not an option.
+= 迟到是不行的。
+being = 动名词形式
+㉔ Having been warned, he stayed.
+= 事先得了警告，他就没走。
+been = 过去分词
+㉕ The problem is that nobody asked.
+= 问题在于谁也没问。
+the problem is that = 问题在于（后接从句）
+㉖ It is important to check.
+= 核对一下很重要。
+it is + 形容词 + to do = 做某事是…的
+㉗ Were it not for her, we'd have failed.
+= 要不是她，我们就砸了。
+were it not for = 要不是（正式倒装）
+注意变位：
+现在 am / is / are，过去 was / were，
+过去分词 been，现在分词 being。
+第一人称单数用 am，第三人称单数用 is，其余用 are。
+注意用法：
+中文能省的地方英文往往不能省 ——
+「她很累」必须说 She is tired，不能说 She very tired。
+注意别混：
+be doing = 正在做（进行时）
+be done = 被做（被动）
+be to do = 定于做（安排或规定）
+三种结构后面接的形式不同，意思完全不同。
+
+be crawling with
+核心：口语说法，指某地"爬满了、到处都是"，主语是地方，
+后面接的多半是让人不舒服的东西 —— 虫子、警察、记者、游客。
+带明显的嫌恶口气，中性场合不用。crawl 本义是"爬"，
+这里是数量多到像在地上蠕动。
+① The kitchen was crawling with ants.
+= 厨房里爬满了蚂蚁。
+be crawling with = 爬满、到处都是
+② The place is crawling with police.
+= 那地方到处都是警察。
+带贬义，暗示密集到让人烦。
+③ The old cabin was crawling with spiders.
+= 那间旧木屋里全是蜘蛛。
+近义对照：
+be crawling with = 密密麻麻（多含厌恶）
+be full of = 满是（中性）
+be teeming with = 充满（多指生机）
+
+be curled up
+核心：指人或动物"蜷着身子"，多半是舒服地窝在沙发、被窝、
+火炉边。curl 本义是"卷曲"，加 up 强调团成一团。
+常跟 with a book、in front of the fire 这类搭配连用。
+① She was curled up on the sofa.
+= 她蜷在沙发上。
+be curled up = 蜷着身子窝着
+② The cat lay curled up by the fire.
+= 猫蜷在炉火边。
+动物也用这个说法。
+③ He was curled up in bed with a book.
+= 他窝在床上看书。
+be curled up with a book = 窝着看书
+易混对照：
+curl up = 蜷起来（动作）
+be curled up = 蜷着（状态）
+
 be derived from
 核心：指"源自、由某物得来"，用在词源、物质、收入、乐趣上都行。
 被动形式最常见；主动的 derive A from B 是"从后者得到前者"。
@@ -392,213 +555,3 @@ beam down = 传送下去
 注意用法：
 「眉开眼笑」那一层是它最常见的动词义，
 比 smile 更亮、更藏不住。
-
-bean
-核心：底层是"豆子"。由此往外：咖啡豆、可可豆也叫 bean；
-形状像豆的东西（beanbag、beanie）跟着走。
-口语里它还表示"极少的一点"，多用于否定：
-not know beans 是一无所知，not worth a bean 是一文不值。
-另有一路：bean counter 是"只会算账的人"，带贬义。
-① Soak the beans overnight.
-= 豆子泡一夜。
-干豆下锅前要泡，鲜豆不用；作蔬菜讲多用复数。
-② Coffee beans are roasted before grinding.
-= 咖啡豆磨之前先烘。
-coffee bean = 咖啡豆
-咖啡豆、可可豆借的只是「豆形」，跟豆科植物无关。
-③ He doesn't know beans about it.
-= 他对那事一窍不通。
-not know beans = 一无所知（美式口语）
-④ It isn't worth a bean.
-= 那玩意儿一文不值。
-第三、四这两支只用于否定句，肯定句里不这么说。
-⑤ The accountants are just bean counters.
-= 那些会计不过是算账的。
-bean counter = 只盯着数字的人（贬义）
-⑥ She sat on a beanbag.
-= 她坐在豆袋沙发上。
-beanbag = 豆袋沙发
-beanbag 也指扔沙包游戏里那个装豆的小布袋。
-⑦ He wore a woollen beanie.
-= 他戴着毛线小帽。
-beanie = 无檐针织小帽
-beanie 是先在美式英语里流行起来的叫法。
-⑧ Bean sprouts go in at the end.
-= 豆芽最后放。
-bean sprouts = 豆芽
-bean curd = 豆腐
-⑨ He is a beanpole.
-= 他瘦得像根竹竿。
-beanpole = 瘦高个（口语）
-说人瘦高，带打趣的意思，不算难听。
-⑩ Jack climbed the beanstalk.
-= 杰克爬上了豆茎。
-beanstalk = 豆茎
-⑪ She is full of beans today.
-= 她今天精神头十足。
-full of beans = 精力充沛
-说的是精神头足，不是吃饱了，别照字面理解。
-⑫ Cannellini beans need long soaking.
-= 白腰豆要泡很久。
-cannellini bean = 白腰豆
-具体豆名多是意大利语或西班牙语借来的，拼法照搬。
-注意语域：
-第三、四层的否定用法是美式口语。
-⑬ The whole village came to the beanfeast.
-= 全村人都来赴那场聚餐。
-beanfeast = 年度聚餐（英式，旧时东家请伙计吃饭）
-⑭ They had a proper beano afterwards.
-= 之后他们痛痛快快闹了一场。
-beano = 热闹的聚会（英式口语，由 beanfeast 截短而来）
-两个词同源：旧时这类聚餐必上豆子和熏肉，名字就这么留下了。
-⑮ The stew uses borlotti beans.
-= 那道炖菜用的是花斑豆。
-borlotti bean = 博罗特豆、花斑豆（生时带红斑，煮熟转褐）
-这类豆名在英语食谱里直接沿用原文，不另造词。
-⑯ Soybeans are pressed for oil.
-= 大豆用来榨油。
-a soybean = 大豆
-⑰ Steam the green beans briefly.
-= 四季豆略蒸一下。
-a green bean = 四季豆
-
-bear
-核心：两个词长成了同一个形。名词那支是熊，另有股市上的
-"看跌者"（bear market 熊市）——据说来自"还没打到熊就先卖熊皮"
-这句老话。动词那支的底层是扛住、承受，从这一个意思长出全部用法：
-扛住重量是"支撑"，扛住痛苦是"忍受"，扛着东西走是"携带"，
-身上带着标记是"印有"，把果实和孩子"带出来"是"结出、生育"，
-心里揣着怨恨是"怀有"。
-三态不规则：bear / bore / borne。注意"出生"那个 born 是它的
-另一个过去分词，只用于被动的 be born。
-① A bear crossed the trail.
-= 一头熊穿过了小道。
-名词第一支：熊。
-② Shares fell in a bear market.
-= 股市进入熊市，股价下跌。
-bear market = 熊市（与 bull market 相对）
-③ The beam bears the whole roof.
-= 那根梁撑着整个屋顶。
-动词第一层：承重、支撑。
-④ I can't bear the noise.
-= 那噪音我受不了。
-can't bear = 受不了（多用于否定与疑问）
-⑤ She bore the pain in silence.
-= 她默默忍着疼。
-bear pain = 忍受痛苦
-⑥ The messenger bore a letter.
-= 信使带来一封信。
-bear = 携带（正式，日常说 carry）
-⑦ The document bears his signature.
-= 那份文件上有他的签名。
-bear a signature = 印有签名
-⑧ The tree bears fruit in August.
-= 那棵树八月结果。
-bear fruit = 结果实；也比喻「见成效」
-⑨ Her plan finally bore fruit.
-= 她的计划终于见了成效。
-bear fruit = 见成效
-树把果子"带出来"，抽象的事见效用的是同一个比喻。
-⑩ She bore three children.
-= 她生了三个孩子。
-bear a child = 生育（正式）
-⑪ He was born in Leeds.
-= 他生在利兹。
-be born = 出生（这个过去分词只用于此）
-⑫ She bears him no grudge.
-= 她对他没有怨恨。
-bear a grudge = 怀恨
-⑬ Bear in mind that it is late.
-= 记着已经很晚了。
-bear in mind = 记住、考虑到
-⑭ Bear with me a moment.
-= 请稍等一下。
-bear with = 容忍、耐心等待
-⑮ The evidence bears out her account.
-= 证据证实了她的说法。
-bear out = 证实
-⑯ Bear left at the fork.
-= 到岔口靠左走。
-bear left = 向左偏行
-⑰ The cost bears down on small firms.
-= 成本压得小公司喘不过气。
-bear down on = 压向、逼近
-⑱ Bring pressure to bear on them.
-= 对他们施加压力。
-bring to bear on = 把（压力、影响）施加于
-⑲ Costs have no bearing on the decision.
-= 成本跟那个决定无关。
-bearing = 关联；方位；举止
-⑳ She lost her bearings in the fog.
-= 她在雾里迷失了方向。
-lose one's bearings = 迷失方向
-㉑ The load is more than it can bear.
-= 那个负荷超出了它能承受的。
-注意变位：
-bear / bore / borne 三态不规则；
-「出生」义的过去分词写作 born，只用于 be born。
-注意别混：
-bear 名词是熊、动词是承受，两支同形不同源。
-bare 是「光的、露出」，另一个词，同音不同拼。
-㉒ He gave her a bear hug.
-= 他给了她一个熊抱。
-bear hug = 熊抱
-㉓ Bear up, it will pass.
-= 挺住，会过去的。
-bear up = 挺住、撑下去
-㉔ The pain is just about bearable.
-= 那疼还勉强忍得住。
-bearable = 忍得住的
-㉕ The bearer of the letter waited.
-= 送信人等着。
-bearer = 持有人、送信人
-㉖ Analysts turned bearish.
-= 分析师转向看跌。
-bearish = 看跌的（股市）
-㉗ Guardsmen wear bearskin caps.
-= 卫兵戴着熊皮高帽。
-bearskin = 熊皮帽；熊皮
-㉘ A beardy man ran the stall.
-= 一个大胡子看着那个摊。
-beardy = 大胡子的（英式口语）
-
-beard
-核心：长在下巴和两颊的胡子。跟 moustache（唇上）和
-sideburns（鬓角）分开说。动词是"公然顶撞、当面挑战"，
-来自旧时揪对方胡子的动作，固定说法 beard the lion in his den。
-① He grew a beard over the winter.
-= 他一冬天留了把胡子。
-grow a beard = 蓄胡子
-② A bearded man opened the door.
-= 一个留胡子的男人开了门。
-bearded = 有胡须的
-③ She bearded him in his office.
-= 她当面到他办公室去质问。
-beard somebody = 当面挑战
-④ Beard the lion in his den.
-= 到老虎窝里去捋虎须。
-注意别混：
-beard = 下巴与两颊的胡子
-moustache = 唇上的胡子
-sideburns = 鬓角
-
-beast
-核心：底层是"野兽"。指四足动物，尤其大而凶的；说人时指
-"畜生"，骂其残暴。口语里反过来当赞语，说某人某物"猛得很"。
-形容词 beastly 是英式旧口语，指"糟透了、讨厌的"。
-① Beasts of the forest roam at night.
-= 林中的野兽夜里出没。
-② The beast of burden carried the load.
-= 那头驮兽驮着货。
-beast of burden = 驮兽
-③ He behaved like a beast.
-= 他的行为跟畜生一样。
-④ That engine is a beast.
-= 那台发动机猛得很。
-a beast = 厉害的家伙（口语赞语）
-⑤ What beastly weather.
-= 这鬼天气。
-beastly = 讨厌的、糟透的（英式，偏旧）
-beastliness = 恶劣、残暴
-注意语域：
-beastly 偏旧且英式，今天多带调侃。

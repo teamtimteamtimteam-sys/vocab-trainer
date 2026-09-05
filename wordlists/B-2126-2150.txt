@@ -1,3 +1,34 @@
+barquentine
+核心：帆船的一种：前桅挂横帆、其余各桅挂纵帆。
+跟 barque 的分别在于横帆桅的数目——barque 是除最后一桅外
+都挂横帆。这类船十九世纪用于远洋货运，今天多见于帆船训练。
+① A barque carries square sails on all but the last mast.
+= 巴克帆船除最后一桅外都挂横帆。
+barque = 巴克帆船
+② The barquentine is easier to handle.
+= 前桅横帆船更好操纵。
+注意拼写：
+barque 也拼作 bark，跟「树皮、犬吠」那两个词同形。
+
+barrack
+核心：动词，而且英美方向相反，这是最要留心的地方。
+英式指"起哄、喝倒彩"——冲着台上的人叫嚷捣乱；
+澳新与美式指"呐喊助威"，barrack for 就是"为…加油"。
+同一个动作，一边是拆台，一边是捧场。名词 barracking 指起哄声。
+注意跟名词 barracks（营房）同形但那是另一支。
+① The crowd barracked the referee.
+= 观众冲裁判起哄。
+barrack somebody = 向某人喝倒彩（英式）
+② Fans barracked for the home side.
+= 球迷为主队呐喊助威。
+barrack for = 为…加油（澳新）
+③ The barracking drowned his speech.
+= 起哄声盖过了他的讲话。
+barracking = 起哄、喝倒彩
+注意地域：
+英式是拆台，澳新与美式是捧场，方向相反，
+听到时先判说话人是哪边的。
+
 barracks
 核心：军营里住人的房子，总用复数，但可以当单数用。
 动词 barrack 是另一回事，而且英美相反：英式指"起哄喝倒彩"，
@@ -508,51 +539,3 @@ bash up = 痛打一顿（英式）
 ⑫ The bashing left him bruised.
 = 那顿打把他打得青一块紫一块。
 bashing = 痛打；猛烈抨击
-
-bashful
-核心：形容词，指"腼腆害羞的"——尤其是在人前显得局促、不好意思。
-它跟 shy 的分别很细：shy 说的是天性怕生，
-bashful 更强调此刻的不好意思，常带点可爱的意味。
-名词是 bashfulness。
-① He gave a bashful smile.
-= 他不好意思地笑了笑。
-a bashful smile = 腼腆的笑
-② She was bashful about praise.
-= 别人一夸她就不好意思。
-be bashful about = 对…感到害羞
-③ He answered bashfully.
-= 他羞怯地答了话。
-bashfully = 腼腆地
-④ Her bashfulness soon wore off.
-= 她那点羞怯很快就没了。
-bashfulness = 腼腆
-注意别混：
-bashful = 不好意思的（此刻，常带可爱意味）
-shy = 怕生的（性格）
-embarrassed = 尴尬的（因出丑）
-
-basic
-核心：底层是"处在最底下那一层的"。往必要性上说是"基本的、
-必需的"——少了它就立不住；往程度上说是"最简单的、只够用的"，
-这一层常带"不怎么样"的意味。名词复数 the basics 指基本要点。
-副词 basically 在口语里已弱化成"总的来说、说白了"。
-① Food and shelter are basic needs.
-= 食物和住处是基本需求。
-basic needs = 基本需求
-② She has a basic grasp of Spanish.
-= 她的西班牙语只是入门水平。
-a basic grasp = 粗浅的掌握
-③ The room was basic but clean.
-= 那个房间很简陋，但干净。
-这一层带「简陋、只够用」的意味。
-④ Let's go back to basics.
-= 咱们回到最基本的东西上。
-the basics = 基本要点
-⑤ Basic pay excludes overtime.
-= 基本工资不含加班费。
-basic pay = 基本工资
-⑥ Basically, we ran out of time.
-= 说白了，我们时间不够。
-basically = 说白了（口语里的缓冲词）
-注意语域：
-第三层说房间、设备时带轻微贬义。
