@@ -335,16 +335,16 @@ assist
 核心：正式的"协助"，比 help 书面。结构：assist someone with
 something 或 assist someone in doing。注意 in 后面接 doing，
 不接动词原形。
-① She assisted me with the report.
-= 她协助我做那份报告。
+① She assisted me with the report and rewrote about half of it.
+= 她帮我做那份报告，重写了大约一半。
 assist someone with = 协助某人做某事
-② He assisted in organizing the event.
-= 他协助组织了那次活动。
+② He assisted in organizing the event and took the credit for all of it.
+= 他协助组织了这次活动，功劳却全揽了过去。
 assist in doing = 协助做
-③ Nurses assist the surgeon.
-= 护士协助外科医生。
-④ Can I assist you?
-= 需要帮忙吗？
+③ Nurses assist the surgeon and are named nowhere in the record.
+= 护士给外科医生做助手，病历上却不见她们的名字。
+④ Can I assist you, or would you rather work it out yourself?
+= 要我帮忙吗？还是你想自己弄明白？
 词族：
 assistance = 协助
 assistant = 助手
@@ -352,18 +352,18 @@ assistant = 助手
 assist 协助（正式）
 help 帮助（通用）
 aid 援助（正式，多指物资）
-⑤ Assisted dying remains illegal there.
-= 在那里协助死亡仍属违法。
+⑤ Assisted dying remains illegal there and legal across the border.
+= 协助死亡在那里仍属违法，边境另一侧却是合法的。
 assisted dying = 协助死亡
 assisted suicide = 协助自杀
-⑥ She moved into assisted living.
-= 她住进了协助生活式养老社区。
+⑥ She moved into assisted living and kept her own front door key.
+= 她搬进了协助式养老公寓，还留着自家的门钥匙。
 assisted living = 协助生活（半自理养老模式）
-⑦ Factories opened in the assisted areas.
-= 工厂开在了受扶持地区。
+⑦ Factories opened in the assisted areas and closed when the grants ran out.
+= 工厂开在受援地区，补助一停就关门了。
 assisted area = 受政府扶持的地区
-⑧ A nurse assisted her with the forms.
-= 一位护士帮她填了表。
+⑧ A nurse assisted her with the forms that nobody can fill in alone.
+= 一位护士帮她填了那些没人能独自填完的表格。
 assist somebody with = 在……上帮某人
 
 assistance

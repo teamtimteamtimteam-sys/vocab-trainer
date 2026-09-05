@@ -268,32 +268,32 @@ application = 申请
 application
 核心：三条线：申请（申请书）、应用（把理论用到实处）、以及电脑上的
 应用程序。第三个义现在最常用，缩写就是 app。
-① I submitted my application.
-= 我提交了申请。
-② Fill in the application form.
-= 填写申请表。
+① I submitted my application and heard nothing for about five months.
+= 我提交了申请，五个月左右没有回音。
+② Fill in the application form in black ink and use capitals throughout.
+= 申请表用黑色墨水填写，通篇用大写字母。
 application form = 申请表
-③ It has practical applications.
-= 它有实际用途。
+③ It has practical applications that nobody thought of at the time.
+= 它有当时谁也没想到的实际用途。
 这里：
 application = 应用
-④ Download the application.
-= 下载那个应用程序。
+④ Download the application and give it about ten minutes to install.
+= 下载这个应用，装上大约要十分钟。
 缩写为 app。
-⑤ Apply two applications of paint.
-= 刷两遍漆。
+⑤ Apply two applications of paint and let the first go properly hard.
+= 刷两遍漆，第一遍要彻底干透。
 这里：
 application = 涂敷（一次）
 词族：
 applicant = 申请人
-⑥ The service exposes an application programming interface.
-= 那项服务开放了应用程序接口。
+⑥ The service exposes an application programming interface that changes without warning.
+= 这项服务提供的应用程序接口说改就改。
 application programming interface = 应用程序接口
-⑦ They questioned the applicability of the rule.
-= 他们质疑那条规则是否适用。
+⑦ They questioned the applicability of the rule to a case nobody foresaw.
+= 他们质疑这条规则是否适用于一个谁也没预见的情形。
 applicability = 适用性
-⑧ Use the applicator to spread the gel.
-= 用涂敷器把凝胶抹开。
+⑧ Use the applicator to spread the gel and throw it away afterwards.
+= 用涂药器把凝胶抹开，用完就扔。
 applicator = 涂敷器、施药器
 
 applied
