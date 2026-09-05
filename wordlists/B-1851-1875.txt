@@ -59,31 +59,25 @@ await
 直接接宾语，绝不加 for；wait 不及物，要说 wait for。还有一层
 用法值得单记：主语是"要发生的事"、宾语是人时，意思变成"等着某人、
 等在前面"——A surprise awaits you 说的不是你在等，是它在等你。
-① We await your reply.
-= 我们等候您的答复。
+① We await your reply and have held the whole print run for it.
+= 我们等着你的答复，整批印刷都为此压着。
 及物，不说 await for。
 注意区别：
 await = 等待（及物，正式）
 wait for = 等待（不及物加 for）
 不说 await for，也不说 wait him。
-② He awaits trial.
-= 他正在候审。
+② He awaits trial in a prison two hundred miles from his family.
+= 他在离家两百英里的监狱里等候审判。
 await trial = 等候审判
-③ A surprise awaits you.
-= 有个惊喜在等着你。
+③ A surprise awaits you at the end of a corridor with no lights.
+= 走廊尽头没有灯，那里有个惊喜等着你。
 主语是事、宾语是人，方向反过来。
-④ Nobody knows what fate awaits them.
-= 没人知道等着他们的是什么命运。
-这一支多用于书面，带宿命的口气。
-⑤ The results are eagerly awaited.
-= 结果令人翘首以待。
+④ The results are eagerly awaited by people who will not understand them.
+= 结果万众期待，可期待的人看不懂它。
 eagerly awaited = 万众期待的
-⑥ The long-awaited sequel opened last night.
-= 那部千呼万唤的续集昨晚上映了。
+⑤ The long-awaited sequel opened last night to an almost empty cinema.
+= 期待已久的续集昨晚上映，影院几乎空着。
 long-awaited = 期待已久的
-⑦ She is awaiting sentencing.
-= 她正在等待宣判。
-进行时很常见，多用于法律语境。
 
 awake
 核心：形容词只作表语，指"醒着的"；动词是"醒来、唤醒"，不规则变化。
