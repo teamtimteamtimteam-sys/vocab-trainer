@@ -241,10 +241,10 @@ accurate = 准确的
 accurate
 核心：指"与事实相符、没有误差"。可以说数据准确，也可以说人预测得
 准。和 precise 的差别：accurate 是"对不对"，precise 是"细不细"。
-① The figures are accurate and the summary that quotes them is not.
-= 数字是准确的，引用它们的那份摘要却不准确。
-② He is accurate in his predictions about weather and wrong about people.
-= 他预测天气很准，看人却总是看错。
+① The figures are accurate, but the press release built on them is nonsense.
+= 数字是准确的，可据此写成的新闻稿一派胡言。
+② He is accurate about weather, hopeless about people, and never admits either.
+= 他说天气很准，看人一塌糊涂，两样都不肯承认。
 be accurate in = 在…方面准确
 注意区别：
 accurate = 准确（贴合事实）
