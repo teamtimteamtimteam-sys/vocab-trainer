@@ -1,26 +1,3 @@
-contempt
-核心：三支。一是轻蔑：打心底看不起，介词用 for；二是
-不当回事；三是法律上的藐视法庭。两个形容词要分清：
-contemptuous 是露出轻蔑的，说人；contemptible 是可鄙的，
-说事。
-① She has nothing but contempt for cheats.
-= 她对骗子只有鄙夷。
-contempt for = 对……的鄙夷
-② He was held in contempt by his peers.
-= 同行都瞧不起他。
-hold somebody in contempt = 瞧不起某人
-③ The judge found him in contempt of court.
-= 法官认定他藐视法庭。
-contempt of court = 藐视法庭
-④ She gave a contemptuous shrug.
-= 她轻蔑地耸了耸肩。
-contemptuous = 露出轻蔑的
-⑤ It was a contemptible excuse.
-= 那是个可鄙的借口。
-contemptible = 可鄙的
-构词：拉丁语 contemnere 看轻
-注意别混：contemptuous 说露出轻蔑的人，contemptible 说该被轻蔑的事。
-
 contend
 核心：三支。一是争夺，介词用 for；二是应付难处，介词用
 with；三是主张、辩称，接 that 从句，正式。竞争者叫
@@ -486,3 +463,34 @@ a contralto = 女低音歌手
 a true contralto = 真正的女低音
 构词：意大利语 contralto 高音之下的
 注意用法：既指声部也指人。
+
+contraption
+核心：装置、玩意儿：造得古怪、看着不牢靠的机器。说的时候
+多带打趣或怀疑。可数，口语。
+① He built a contraption out of bicycle parts.
+= 他拿自行车零件攒了个古怪玩意儿。
+a contraption = 古怪的装置
+② The contraption actually worked.
+= 那玩意儿居然管用。
+a contraption = 看着不牢靠的机器
+③ What is that contraption in the corner?
+= 角落里那玩意儿是什么？
+that contraption = 那个玩意儿
+构词：大概是「巧计」与「陷阱」两个词混出来的
+注意语气：口语，带打趣或怀疑。
+
+contrapuntal
+核心：对位的：几条旋律各自独立又同时进行，那种写法的
+形容词。也引申说小说与电影里几条线并行。副词
+contrapuntally。名词形式是 counterpoint。
+① The fugue is strictly contrapuntal.
+= 那首赋格是严格的对位写法。
+contrapuntal = 对位的
+② Two voices move contrapuntally.
+= 两个声部按对位法各自进行。
+contrapuntally = 按对位法地
+③ The novel has a contrapuntal structure.
+= 那部小说是几条线并行的结构。
+a contrapuntal structure = 几条线并行的结构
+构词：意大利语 contrappunto 对位
+注意用法：名词形式是 counterpoint。

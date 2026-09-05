@@ -13,9 +13,9 @@ B 5000
 最末词条 byword。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5193 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
-co- 段清单 1956 条、已收 1253 条（64%），写到 corvette，
-下批从 cos / cosh / cosine 一带起。
+B 词表 5221 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
+co- 段清单 1956 条、已收 1302 条（66%），写到 cough，
+下批从 could / coulis / council 一带起。
 之后 cp 1、cr 481、ct 1、cu 223、cw 4、cy 51、cz 4。
 
 【audit-swallowed 曾把带重音符的词误报成「被吞掉」（2026-09-05 已修）】

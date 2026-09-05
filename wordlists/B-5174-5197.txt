@@ -1,71 +1,3 @@
-corps
-核心：两支。一是军团：军队里比师大的编队；二是一群从事同
-一行当的人：the press corps 记者团、the diplomatic corps
-外交使团、the corps de ballet 芭蕾群舞。单复数同形。
-① The corps advanced at dawn.
-= 那个军团天亮时推进。
-a corps = 军团
-② She joined the press corps.
-= 她加入了记者团。
-the press corps = 记者团
-③ The diplomatic corps attended.
-= 外交使团出席了。
-the diplomatic corps = 外交使团
-④ She danced in the corps de ballet.
-= 她在芭蕾群舞里跳。
-the corps de ballet = 芭蕾群舞演员
-构词：法语 corps 身体、团体
-注意读音：词尾那两个辅音都不发音，单复数同形。
-
-corpse
-核心：尸体：人的死尸。动物的死尸多说 carcass，这是最要紧
-的分工。可数。
-① The corpse was found at dawn.
-= 尸体是天亮时发现的。
-a corpse = 尸体
-② They identified the corpse from dental records.
-= 他们靠牙科记录认出了尸体。
-identify a corpse = 辨认尸体
-③ Rigor mortis stiffens a corpse.
-= 尸僵让尸体发硬。
-stiffen a corpse = 使尸体僵硬
-构词：拉丁语 corpus 身体
-注意分工：人的死尸叫 corpse，动物的多说 carcass。
-
-corpulent
-核心：肥胖的：说人身材臃肿，正式而略带委婉，今天多在文学
-里读到。名词 corpulence。
-① The corpulent gentleman took two seats.
-= 那位体态臃肿的先生占了两个座。
-a corpulent gentleman = 体态臃肿的先生
-② He grew corpulent in middle age.
-= 他中年发福了。
-grow corpulent = 发福
-③ His corpulence made stairs hard.
-= 他那身肉让爬楼很吃力。
-corpulence = 肥胖
-构词：拉丁语 corpulentus 身量大的
-注意语域：正式而委婉，多在文学里读到。
-
-corpus
-核心：三支。一是语料库：为语言研究收集的一大批真实语料；
-二是一位作者或一个领域的全部作品；三是解剖上的体。复数
-是 corpora，不说 corpuses。
-① The corpus holds a billion words.
-= 那个语料库有十亿词。
-a corpus = 语料库
-② Corpus linguistics changed dictionary work.
-= 语料库语言学改变了词典编纂。
-corpus linguistics = 语料库语言学
-③ Her corpus runs to twelve volumes.
-= 她的全部作品有十二卷。
-a corpus = 全部作品
-④ Both corpora are freely available.
-= 那两个语料库都可以免费用。
-corpora = 语料库（复数）
-构词：拉丁语 corpus 身体、整体
-注意复数：corpora，不说 corpuses。
-
 corpuscle
 核心：血细胞的旧称：red corpuscles 是红细胞，white
 corpuscles 是白细胞，今天多说 cell。物理上旧指微粒。可数。
@@ -433,3 +365,72 @@ be smaller than = 比……小
 order a corvette = 订购护航舰
 构词：荷兰语 korf 篮子，指小船
 注意分工：比 frigate 小，比巡逻艇大。
+
+cos
+核心：三支同形而互不相干。一是长叶生菜，凯撒沙拉用的那种；
+二是数学里余弦 cosine 的缩写；三是英式口语里 because 的懒音
+写法，只用于口语与短信。
+① Use cos leaves for the salad.
+= 沙拉用长叶生菜。
+cos = 长叶生菜（英式）
+② A cos lettuce has long crisp leaves.
+= 长叶生菜的叶子又长又脆。
+a cos lettuce = 长叶生菜
+③ Type cos and the angle.
+= 输入余弦符号再输角度。
+cos = 余弦的缩写
+④ I stayed in cos it rained.
+= 我没出门，因为下雨了。
+cos = 因为（英式口语的懒音写法）
+构词：三支同形而无关；生菜那支得名于希腊科斯岛
+注意语域：第三支只用于口语与短信。
+
+cosh
+核心：英式：短棍、警棍，蒙着皮或灌了铅的那种；也作动词，
+指照头上来一棍。习语 under the cosh 是被压着打、处境艰难。
+可数，口语。
+① He was hit with a cosh.
+= 他被短棍打了。
+a cosh = 短棍、警棍
+② Someone coshed him from behind.
+= 有人从背后照他脑袋来了一下。
+cosh somebody = 用棍子打某人
+③ The team has been under the cosh all season.
+= 那支队伍整个赛季都被压着打。
+under the cosh = 被压着打、处境艰难
+构词：来路不明，十九世纪的伦敦俚语
+注意语域：英式，口语。
+
+cosine
+核心：余弦：直角三角形里邻边比斜边，缩写写作 cos；也指
+那条余弦曲线。可数不可数都行。
+① The cosine of sixty degrees is a half.
+= 六十度的余弦是二分之一。
+the cosine of = ……的余弦
+② Plot the cosine curve.
+= 画出余弦曲线。
+a cosine curve = 余弦曲线
+③ Sine and cosine are ninety degrees apart.
+= 正弦和余弦相差九十度。
+sine and cosine = 正弦与余弦
+构词：余角的正弦，故名
+注意用法：缩写写作 cos。
+
+cosmetic
+核心：两支。形容词一是化妆用的：cosmetic surgery 是整容
+手术；二是贬义的表面功夫的：只改外观不解决实质。名词多用
+复数 cosmetics 指化妆品。副词 cosmetically。
+① She had cosmetic surgery.
+= 她做了整容手术。
+cosmetic surgery = 整容手术
+② The changes are purely cosmetic.
+= 那些改动纯粹是表面功夫。
+purely cosmetic = 纯粹表面功夫的
+③ The cosmetics counter is downstairs.
+= 化妆品柜台在楼下。
+cosmetics = 化妆品
+④ The crack was cosmetically repaired.
+= 那道裂缝只做了表面修补。
+cosmetically = 只在外观上
+构词：希腊语 kosmetikos 修饰的
+注意语气：第二支是贬义，说只做表面。

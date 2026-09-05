@@ -1,34 +1,3 @@
-contraption
-核心：装置、玩意儿：造得古怪、看着不牢靠的机器。说的时候
-多带打趣或怀疑。可数，口语。
-① He built a contraption out of bicycle parts.
-= 他拿自行车零件攒了个古怪玩意儿。
-a contraption = 古怪的装置
-② The contraption actually worked.
-= 那玩意儿居然管用。
-a contraption = 看着不牢靠的机器
-③ What is that contraption in the corner?
-= 角落里那玩意儿是什么？
-that contraption = 那个玩意儿
-构词：大概是「巧计」与「陷阱」两个词混出来的
-注意语气：口语，带打趣或怀疑。
-
-contrapuntal
-核心：对位的：几条旋律各自独立又同时进行，那种写法的
-形容词。也引申说小说与电影里几条线并行。副词
-contrapuntally。名词形式是 counterpoint。
-① The fugue is strictly contrapuntal.
-= 那首赋格是严格的对位写法。
-contrapuntal = 对位的
-② Two voices move contrapuntally.
-= 两个声部按对位法各自进行。
-contrapuntally = 按对位法地
-③ The novel has a contrapuntal structure.
-= 那部小说是几条线并行的结构。
-a contrapuntal structure = 几条线并行的结构
-构词：意大利语 contrappunto 对位
-注意用法：名词形式是 counterpoint。
-
 contrarian
 核心：唱反调的人：市场与舆论一边倒的时候偏往另一边站，
 投资界尤其常用。也作形容词。可数。
@@ -483,3 +452,68 @@ be conversant with = 熟悉
 become conversant with = 逐渐熟悉
 构词：拉丁语 conversari 常来往
 注意搭配：介词只用 with。
+
+conversation
+核心：谈话：两个人以上的来回交谈。三个搭配要认得：
+have a conversation 是交谈、make conversation 是没话找话、
+strike up a conversation 是搭上话。形容词 conversational
+一是谈话的、二是说文风口语化，副词 conversationally，
+健谈的人叫 conversationalist。
+① We had a long conversation.
+= 我们聊了很久。
+have a conversation = 交谈
+② He tried to make conversation.
+= 他努力找话说。
+make conversation = 没话找话
+③ She struck up a conversation on the train.
+= 她在火车上跟人搭上了话。
+strike up a conversation = 搭上话
+④ The book has a conversational tone.
+= 那本书的口吻很口语。
+a conversational tone = 口语化的口吻
+⑤ He mentioned it conversationally.
+= 他是闲聊时顺口提的。
+conversationally = 闲聊般地
+⑥ She is a brilliant conversationalist.
+= 她极会聊天。
+a conversationalist = 健谈的人
+构词：拉丁语 conversari 周旋于人间、常来往
+注意搭配：make conversation 是没话找话，不是「进行谈话」。
+
+converse
+核心：两支，重音不同。动词重音在后：交谈，正式词，日常
+说 talk。名词与形容词重音在前：相反的那个，逻辑上指逆
+命题。副词 conversely 是反过来说。
+① They conversed in French.
+= 他们用法语交谈。
+converse in = 用某种语言交谈
+② The converse is also true.
+= 反过来也成立。
+the converse = 反过来的说法
+③ Heat expands metal; conversely, cold contracts it.
+= 热使金属膨胀；反过来，冷使它收缩。
+conversely = 反过来
+④ The converse proposition needs proof.
+= 那个逆命题需要证明。
+the converse proposition = 逆命题
+构词：拉丁语 conversari 周旋、来往
+注意读音：动词重音在后，名词与形容词重音在前。
+
+conversion
+核心：几支。一是改建改装：把房子或设备改成别的用途，
+英式最常见；二是换算折算：单位与货币；三是宗教或立场上
+的转变；四是橄榄球里达阵后的加踢。可数不可数都行。
+① The barn conversion took a year.
+= 那座谷仓改建花了一年。
+a barn conversion = 谷仓改成的住宅
+② Use this table for currency conversion.
+= 换汇用这张表。
+currency conversion = 货币换算
+③ His conversion to Islam surprised them.
+= 他皈依伊斯兰教让他们意外。
+conversion to = 皈依、转变为
+④ She kicked the conversion.
+= 她踢进了那记加踢。
+a conversion = 达阵后的加踢
+构词：convert 转变 + -ion
+注意用法：改建那一支英式最常见。
