@@ -90278,6 +90278,10 @@ coachwork = 车身外壳
 ⑨ A coachload of tourists arrived.
 = 来了一车游客。
 a coachload of = 一车（人）
+⑩ They converted the coach house into a studio.
+= 他们把马车房改成了工作室。
+a coach house = 旧宅旁停马车的车房
+今天多半已改建成住人的屋子，房产广告里还照旧这么写。
 构词：匈牙利地名 Kocs，那里最早造这种马车
 注意用法：英美对这个词的交通义分工不同。
 
@@ -90321,6 +90325,30 @@ haul somebody over the coals = 把某人训一顿
 = 工具放在存煤的小屋里。
 a coalhouse = 存煤小屋
 存煤小屋是旧式住宅才有的东西，今天多在旧小说里读到。
+⑦ Her grandfather worked down a coal mine all his life.
+= 她祖父一辈子在煤矿井下干活。
+a coal mine = 煤矿；a coal miner = 煤矿工人
+两个词连着用；英式口语里矿井本身也叫 pit。
+⑧ The power station is still coal-fired.
+= 那座电站还是烧煤的。
+coal-fired = 烧煤的
+「燃料 + fired」是一整套构词，同样还有 gas-fired、oil-fired、wood-fired。
+⑨ Coal gas was once piped to every house in the town.
+= 煤气曾经通到镇上每一户人家。
+coal gas = 煤气（干馏煤得到的可燃气）
+这个词今天基本只在旧书与工业史里读到，日常说的燃气已经不是它。
+⑩ Coal tar is still used in some medicated shampoos.
+= 煤焦油现在还用在一些药用洗发水里。
+coal tar = 煤焦油
+跟上一条同一种构造：coal 加上它烧出来的东西。
+⑪ She filled the coal scuttle before dark.
+= 天黑前她把煤斗装满了。
+a coal scuttle = 壁炉边盛煤的桶
+跟 coalhouse 一样是旧式住宅的器物，今天多在旧小说里读到。
+⑫ His hair was coal-black.
+= 他的头发乌黑。
+coal-black = 乌黑的
+拿实物作比的颜色词，跟 snow-white、blood-red 是同一种造法。
 构词：古英语 col
 注意用法：第一线那个引申义在英式文字里常读到。
 
@@ -90397,6 +90425,10 @@ coarsen = 变粗、使变粗
 ⑥ The coarseness of the joke shocked her.
 = 那个玩笑之粗俗让她吃惊。
 coarseness = 粗糙、粗俗
+⑦ He goes coarse fishing on the canal every Sunday.
+= 他每个周日在运河边钓杂鱼。
+coarse fish = 鲑鳟以外的淡水鱼；coarse fishing = 钓这类鱼
+英式钓鱼行话，跟钓鲑鳟的 game fishing 相对，不是说鱼粗糙。
 构词：来历不确定，中古英语已有
 注意别混：跟 course 同音，拼法不同。
 
@@ -90430,6 +90462,10 @@ the coastguard = 海岸警卫
 ⑧ The coastline is heavily eroded.
 = 那段海岸线侵蚀得厉害。
 a coastline = 海岸线
+⑨ They spent the day coasteering along the cliffs.
+= 他们沿着崖壁玩了一天海岸探险。
+coasteering = 海岸探险（沿岸攀爬、跳水、泅渡）
+由 coast 加 -eering 仿 mountaineering 造出来的新词，近二十年才进词典。
 构词：拉丁语 costa 肋、侧边
 注意用法：不使劲那一支带一点贬义。
 
@@ -90460,6 +90496,22 @@ a coat of arms = 家族徽章
 ⑦ Leave it in the coatroom.
 = 放在存衣处。
 a coatroom = 存衣处（美式）
+⑧ Hang your jacket on a coat hanger.
+= 把外套挂在衣架上。
+a coat hanger = 衣架；a coat stand = 立式衣帽架
+都是挂外套的家什：一个挂在杆上，一个自己立在地上。
+⑨ Leave your bag at the coat check.
+= 把包存在存衣处。
+a coat check = 存衣处（美式）
+跟这一条里的 coatroom 指同一处，coat check 强调凭牌取件。
+⑩ She wore a navy coat dress.
+= 她穿了条藏青色的大衣式连衣裙。
+a coat dress = 大衣式连衣裙
+剪裁像外套、前襟一排扣，当裙子穿。
+⑪ He rode into office on his predecessor's coat-tails.
+= 他是沾着前任的光上的台。
+on somebody's coat-tails = 沾某人的光
+本义是燕尾服的后摆，比喻拽着别人的衣摆一起上去；多带贬义。
 构词：古法语 cote 长外衣
 注意用法：一层那一支在工艺与说明书里常读到。
 
@@ -90491,6 +90543,15 @@ coax into life = 慢慢弄起来
 ④ She spoke coaxingly.
 = 她的口气是哄劝的。
 coaxingly = 哄劝地
+⑤ She coaxed the truth out of him in the end.
+= 她最后把实话从他嘴里哄了出来。
+coax out of = 从某人嘴里哄出实情
+coax from = 换成 from 也通，意思一样
+完整的框架是 coax something out of somebody，宾语放在中间。
+⑥ A little coaxing was all it took.
+= 稍微哄了两句就成了。
+coaxing = 好言相劝（不可数）
+也作形容词：a coaxing tone 是哄人的口气。
 构词：旧词 cokes 傻瓜，本义是把人当傻子哄
 注意别混：cajole 更书面，这个更日常。
 
@@ -90543,6 +90604,7 @@ cobbles = 圆石路面
 ③ Cobblestones date from the last century.
 = 那些铺路石是上个世纪的。
 cobblestones = 铺路圆石
+a cobblestone = 单指一块，整片路面用复数或用 cobbles
 ④ They cobbled together a statement.
 = 他们草草凑了份声明。
 cobble together = 草草凑起来
@@ -90673,6 +90735,34 @@ cock a gun = 扳开枪机
 ④ They were up at cockcrow.
 = 他们鸡叫时分就起了。
 cockcrow = 鸡叫时分
+⑤ The children ran around shouting cock-a-doodle-doo.
+= 孩子们跑来跑去学公鸡叫。
+cock-a-doodle-doo = 公鸡叫的拟声词
+英语给鸡叫定的这套音，跟中文的「喔喔」对不上，各语言各有一套。
+⑥ She was cock-a-hoop about the result.
+= 她为那个结果得意得不行。
+cock-a-hoop = 得意扬扬的
+英式口语，多作表语；跟上一条只是碰巧同头，意思上没有关系。
+⑦ We had cock-a-leekie for supper.
+= 晚饭喝的是鸡肉韭葱汤。
+cock-a-leekie = 鸡肉韭葱汤
+苏格兰传来的汤名，英式菜单上通行；后半截那个成分就是韭葱。
+⑧ I made a complete cock-up of the booking.
+= 那个预订让我彻底搞砸了。
+cock up = 搞砸；a cock-up = 一次搞砸
+英式口语，不算脏话但很不正式；美式多说 screw up。
+⑨ He gave us some cock and bull story about a flat tyre.
+= 他编了套爆胎的鬼话。
+a cock and bull story = 编出来的托词
+固定说法，中间不加连字符，只用于说对方在编瞎话。
+⑩ He called her a cock-teaser and she walked out.
+= 他骂了她一句下流话，她转身就走。
+a cock-teaser = 挑逗后不肯就范的女人（粗俗、冒犯）
+极粗俗且带厌女意味，只需认得，不要用；书面与正式场合一律避开。
+⑪ They keep two cockers and a terrier.
+= 他们养着两只可卡犬和一只梗犬。
+a cocker = 可卡犬
+是那种长耳猎犬全名的口语简称，养狗的人之间才这么省。
 构词：古英语 cocc，拟声
 注意语域：粗俗那一支语气很重，只需认得，不要用。
 
@@ -90872,6 +90962,14 @@ a cocktail party = 鸡尾酒会
 ④ She wore a cocktail dress.
 = 她穿了件小礼服。
 a cocktail dress = 及膝小礼服
+⑤ Spear the olives with a cocktail stick.
+= 用鸡尾酒签把橄榄串起来。
+a cocktail stick = 鸡尾酒签（插小食的木签）
+英式说法，美式多把同一样东西叫 toothpick。
+⑥ The cocktail waitress took our order.
+= 端酒的女服务员来点单。
+a cocktail waitress = 酒吧、赌场里端酒的女服务员（美式）
+带性别的旧称，今天的招聘与报道多改说 server 以避性别指称。
 构词：来历有几种说法，十九世纪美式英语
 注意用法：混合体那一支多带负面意味。
 
@@ -90902,6 +91000,10 @@ a mug of cocoa = 一杯可可饮
 ③ The recipe needs cocoa powder.
 = 那个配方要用可可粉。
 cocoa powder = 可可粉
+④ The cream contains cocoa butter.
+= 那款面霜含可可脂。
+cocoa butter = 可可脂
+名字里的 butter 跟乳制品无关，指的是可可豆里榨出的那层油脂。
 构词：由 cacao 那个词讹变而来
 注意别混：cacao 是树与生豆，这个是加工后的粉与饮料。
 
@@ -90917,6 +91019,18 @@ coconut milk = 椰奶
 ③ Coconut water is sold everywhere.
 = 椰子水到处都有卖。
 coconut water = 椰子水
+④ The hallway was covered with coconut matting.
+= 门厅里铺着椰棕地垫。
+coconut matting = 椰棕地垫
+matting 指成片铺开的垫料，跟单块的 mat 分开说。
+⑤ She spread coconut butter on the toast.
+= 她在吐司上抹了椰子酱。
+coconut butter = 椰子酱（连肉带油磨成的糊）
+跟 coconut oil 分开：oil 是榨出来的油，butter 是整颗椰肉磨成的。
+⑥ He won a goldfish at the coconut shy.
+= 他在椰子投掷摊赢了条金鱼。
+a coconut shy = 游园会里的椰子投掷摊
+英式游园会的老游戏，拿球把架上的椰子砸下来；这里的 shy 是「投掷」的旧义。
 构词：葡萄牙语 coco 鬼脸，因壳上三个凹点像脸
 注意别混：椰奶是压出来的，椰子水是里面本来的汁。
 
@@ -91014,6 +91128,30 @@ speak in code = 说得含蓄有暗指
 ⑥ The data is coded by region.
 = 那些数据按地区编了码。
 coded = 编了码的
+⑦ The operation had the code name Overlord.
+= 那次行动的代号是 Overlord。
+a code name = 代号；code-named = 代号为……的
+军事与警方用语；形容词形式常见于报道，如 a code-named operation。
+⑧ Snowdrop was the code word for the retreat.
+= 「雪花莲」是撤退的暗号。
+a code word = 暗号；也指政治上讳饰的说法
+第二义常见于评论：说某个词是 a code word for something，意思是拿它当幌子。
+⑨ The industry has a code of practice on advertising.
+= 那个行业有一套广告业务守则。
+a code of practice = 业务守则
+比法律松、比惯例紧：行业自订，成员自愿遵守，违反了多半没有法律后果。
+⑩ The two airlines have a code-sharing agreement.
+= 那两家航空公司有代码共享协议。
+code-sharing = 代码共享（一个航班挂两家公司的班号）
+航空业术语；订票时看到两个班号指同一架飞机，就是这回事。
+⑪ Bilingual speakers do a lot of code-switching.
+= 双语者经常在两种语言之间来回切换。
+code-switching = 语码转换（说话中途换语言或语体）
+语言学术语。这里的 code 指一套语言或语体，不是密码那个义。
+⑫ The files are color coded by year.
+= 那些文件按年份用颜色分类。
+color code = 用颜色分类标记（美式拼法）
+名词说 a color code，动词直接用它，过去分词 color-coded。
 构词：拉丁语 codex 木简、法典
 注意用法：代码与准则两支在今天的文字里最常读到。
 
@@ -91263,6 +91401,30 @@ a coffee morning = 募款茶会（英式）
 ⑦ She ordered a white coffee.
 = 她要了杯加奶咖啡。
 a white coffee = 加奶咖啡（英式）
+⑧ They met in a coffee house near the docks.
+= 他们在码头附近一家咖啡馆碰面。
+a coffee house = 咖啡馆（旧式、偏文雅）；a coffee shop = 咖啡店（日常说法）
+指同一类地方，coffee house 带旧时文人聚谈的味道，今天日常都说 coffee shop。
+⑨ The office got a new coffee machine.
+= 办公室新添了台咖啡机。
+a coffee machine = 咖啡机（英式常用）；a coffee maker = 咖啡机（美式常用）
+同一样东西两个说法，英美各偏一个，不必细分。
+⑩ She baked a coffee cake for the meeting.
+= 她给会上烤了个咖啡蛋糕。
+a coffee cake = 咖啡味蛋糕（英式）；配咖啡吃的甜点（美式）
+同一个词两边指的东西不一样：英式是蛋糕本身有咖啡味，美式是佐咖啡的点心。
+⑪ A spoonful of coffee essence goes into the icing.
+= 糖霜里加一勺咖啡浓缩液。
+coffee essence = 咖啡浓缩液（烘焙调味用）
+瓶装的浓缩糖浆，做点心时用来上味，不是拿来冲着喝的。
+⑫ The neighbours hold a coffee klatch every Tuesday.
+= 邻居们每周二聚在一起喝咖啡聊天。
+a coffee klatch = 边喝咖啡边闲聊的小聚（美式）
+从德语借来的词，后半截那个成分是「闲话」；也拼作 coffee klatsch。
+⑬ It ended up as a coffee-table book.
+= 那本书最后做成了摆在茶几上的大开本画册。
+a coffee-table book = 图多字少、供人随手翻的大开本画册
+带一点贬义：暗示是拿来摆的，不是拿来读的。
 构词：阿拉伯语 qahwa，经土耳其语进欧洲各语
 注意用法：说一杯时可数。
 
@@ -91567,6 +91729,10 @@ coincidental = 巧合的
 ⑦ Coincidentally, she called that day.
 = 巧的是，她那天打了电话。
 coincidentally = 巧的是
+⑧ The two boundaries are coincident.
+= 那两条边界是重合的。
+coincident = 重合的；同时发生的
+偏技术与书面；日常说巧合要用 coincidental，两个词不要混。
 构词：由表示共同与落到一起的两部分拼成
 注意用法：那几个派生形式都很常读到。
 
@@ -91719,6 +91885,66 @@ have a cold = 感冒
 ⑬ He got cold feet the night before.
 = 他前一晚打了退堂鼓。
 get cold feet = 临阵退缩
+⑭ It was a cold-blooded killing.
+= 那是一起冷血凶杀。
+cold-blooded = 冷血的、不动声色的；cold-bloodedly = 冷血地
+字面指爬虫类的变温，但比喻义才是常用的那一个。
+⑮ Her cold-hearted refusal shocked everyone.
+= 她那句冷冰冰的拒绝让所有人吃惊。
+cold-hearted = 心冷、不体恤人的
+跟 cold-blooded 分工：那个说的是下手时不动声色，这个说的是对人没有心肠。
+⑯ The firm has banned cold-calling.
+= 那家公司禁止陌生推销电话。
+cold-calling = 陌生拜访推销（这种做法）
+跟这一条里的 a cold call 同一支：call 是那一通电话，calling 是这门做法。
+⑰ The murder is now a cold case.
+= 那起凶杀现在成了悬案。
+a cold case = 搁置多年的悬案
+警务与犯罪剧里的常用词，说线索断了、案子放凉了。
+⑱ He paid in cold cash.
+= 他付的是现钞。
+cold cash = 现钞、真金白银（美式）
+英式说 hard cash；cold 在这里是「实打实、不掺虚的」。
+⑲ That was cold comfort to the families.
+= 那对那些家庭是聊胜于无的安慰。
+cold comfort = 起不了什么作用的安慰
+不可数；说某个说法或某笔补偿远不足以抵消损失。
+⑳ She took off her make-up with cold cream.
+= 她用冷霜卸妆。
+cold cream = 冷霜（卸妆润肤用的油性膏）
+名字里的 cold 指涂上去发凉，不是说要冷藏。
+㉑ The platter was piled with cold cuts.
+= 拼盘上堆着切片冷肉。
+cold cuts = 切片冷肉（火腿、香肠之类）
+恒作复数，美式常用；英式多说 cold meats。
+㉒ They opened a bottle of cold duck.
+= 他们开了瓶红白混调的气泡酒。
+cold duck = 红白混调的气泡酒（美式）
+是从德语一个酒名直译过来的，跟鸭子没有关系。
+㉓ The seedlings are still in the cold frame.
+= 苗还在冷床里。
+a cold frame = 冷床（矮玻璃罩的育苗箱）
+叫 cold 是因为它不加温，只靠玻璃把太阳热聚住。
+㉔ Cold fusion was never successfully reproduced.
+= 冷聚变从来没有被成功重复出来。
+cold fusion = 冷聚变（常温下的核聚变）
+物理学名词，今天多带怀疑色彩，用来指那类宣称了却重复不出来的结果。
+㉕ We had a cold snap in April.
+= 四月来了一场倒春寒。
+a cold snap = 骤然的一小段寒冷天气
+可数，指短促的一阵；snap 在这里是「说来就来的一下」。
+㉖ She gets cold sores whenever she is run down.
+= 她一累就长唇疱疹。
+a cold sore = 唇疱疹
+名字里的 cold 是因为着凉时容易发作，跟感冒本身不是一回事。
+㉗ He woke in a cold sweat.
+= 他一身冷汗地醒过来。
+a cold sweat = 冷汗
+多跟 in 或 break out in 连用，说吓出来、急出来的那种汗。
+㉘ The meat went straight into cold storage.
+= 那批肉直接进了冷藏。
+cold storage = 冷藏（这件事）；a cold store = 冷库（那个地方，英式）
+比喻用法也常见：put something into cold storage 是把事情先搁置起来。
 构词：古英语 cald
 注意用法：那一族固定说法都很高频。
 
