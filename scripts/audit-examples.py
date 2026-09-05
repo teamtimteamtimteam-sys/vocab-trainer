@@ -20,6 +20,12 @@
 用法：
   python3 scripts/audit-examples.py                 全表报告，不拦
   python3 scripts/audit-examples.py agreement brim  查指定词条，不达标就退出码 1
+  python3 scripts/audit-examples.py --todo [N]      列出下一批该回填的 N 条词条
+
+全表回填（用户 2026-09-05 裁定）按「学的人回来看的频率」排序：
+一级义项 ≥8 的大词、二级 A 表也收的高频词、三级其余。
+待办清单不另存文件 —— 直接从词表现算，改完一条它自己就从清单里消失，
+进度记录本身不会漂。
 """
 import sys, io, re, glob, importlib.util as u, statistics as st
 spec = u.spec_from_file_location('cw', 'scripts/check-wordlist.py')
@@ -49,9 +55,34 @@ def stats(entry):
     if not ws: return 0, 0, 0
     return len(ws), sum(ws) / len(ws), sum(cs) / len(cs)
 
+def todo(rows, n):
+    """列出下一批该回填的词条，按一级、二级、三级排。"""
+    A = set()
+    for f in glob.glob('wordlists/A-*.txt'):
+        for e in cw.parse(f): A.add(e['word'].lower())
+    bad = []
+    for e in rows:
+        cnt, w, c = stats(e)
+        if cnt and (w < MIN_WORDS or c < MIN_CONTENT):
+            tier = 1 if len(e['senses']) >= 8 else (2 if e['word'].lower() in A else 3)
+            bad.append((tier, -len(e['senses']), e['word'], cnt, w, c))
+    bad.sort(key=lambda x: (x[0], x[1], x[2].lower()))
+    left = {1: 0, 2: 0, 3: 0}
+    for b in bad: left[b[0]] += 1
+    print('待回填：一级 %d、二级 %d、三级 %d，合计 %d 条词条'
+          % (left[1], left[2], left[3], len(bad)))
+    print('下一批 %d 条：' % min(n, len(bad)))
+    print(' '.join(b[2] for b in bad[:n]))
+    print()
+    for t, _, w, cnt, ww, cc in bad[:n]:
+        print('  %d级 %-20s %2d 条例句  均 %.1f 词 / %.1f 额外实词' % (t, w, cnt, ww, cc))
+    return 0
+
 def main(argv):
     rows = []
     for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')): rows += cw.parse(f)
+    if argv and argv[0] == '--todo':
+        return todo(rows, int(argv[1]) if len(argv) > 1 else 10)
     if argv:
         want = {w.lower() for w in argv}
         sel = [e for e in rows if e['word'].lower() in want]
