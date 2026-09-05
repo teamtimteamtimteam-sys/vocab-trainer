@@ -24,11 +24,20 @@ a cut above、cry over spilt milk 之类。
 audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5555 条。ca-co 各段已收全，cw 收全，cp / ct 全剔除。
-cr- 段清单 478 条、已收 341 条（71%），还缺 137 条 ——
-其中 cross 一家的复合词就占 48 条，下批专门收拾它；
-另有 crown / crush / crust / cry 等宿主的并入待做。
-cu- 段 136 条（60%）、cy- 段 33 条（64%）的零头也还在。
+B 词表 5556 条。ca-co 各段已收全，cw 收全，cp / ct 全剔除。
+**cr- 段 469/477（98%），只剩 8 条待推迟**（cracked wheat、
+creation science、creepy-crawly、crème de la crème、
+crème de menthe、cri de cœur、crow's feet、crow's nest ——
+内容词都在后面字母段，等收到再并）。
+cu- 段 136 条（60%）、cy- 段 33 条（64%）的零头还在，
+下批收尾这两段，c 段就完了。
+
+【一次并入几十条时按意思归组，别一条一个义项】
+cross 一家有 48 个复合词。做法是按意思归成十几组，
+一组一个例句、底下并列几条等式（跨境那组放 cross-border 与
+crosstown，杂交那组放 cross-breed / cross-pollinate /
+cross-fertilize）。这样词条读得下去，也不会把义项撑成散沙。
+cr 段就是这么从 71% 推到 98% 的。
 
 【写小词条时最容易犯的错：第三义项凑不出来就写元评论】
 这一批 16 个冷僻小词里，一次就被 audit-padding 拦下 6 条 ——
