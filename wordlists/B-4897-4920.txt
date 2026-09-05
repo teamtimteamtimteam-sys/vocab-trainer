@@ -1,3 +1,103 @@
+concomitant
+核心：伴随而来的：跟另一件事一同发生、连着来的。介词用
+with。也作名词，指伴随物。正式词，学术写作里常见。
+① Higher pay brought concomitant costs.
+= 涨薪带来了随之而来的成本。
+concomitant = 伴随而来的
+② Stress is concomitant with the job.
+= 压力是那份工作附带的。
+concomitant with = 与……相伴
+③ Debt is a concomitant of growth.
+= 负债是增长的伴随物。
+a concomitant of = ……的伴随物
+构词：拉丁语 con- 共 + comitari 陪同
+注意语域：正式词，学术写作里常见。
+
+concord
+核心：和睦一致：人与人、国与国之间没有争执，正式偏旧，
+反义是 discord。语法里指主谓之间的一致关系。派生的两支
+各有专义：concordance 是按词编的索引，concordat 是国家
+与教廷之间的协定。不可数。
+① They lived in concord for years.
+= 他们和睦相处了好些年。
+live in concord = 和睦相处
+② Latin has strict concord.
+= 拉丁语的一致关系很严。
+concord = 语法上的一致关系
+③ She checked a Bible concordance.
+= 她查了本圣经索引。
+a concordance = 按词编的索引
+④ The concordat was signed in 1929.
+= 那份政教协定一九二九年签的。
+a concordat = 国家与教廷的协定
+构词：拉丁语 concordia 同心
+注意语域：正式偏旧，反义是 discord。
+
+concourse
+核心：车站或机场里的大厅：人流汇集、通往各站台与闸口的
+那块开阔地方。书面上另有一支旧义指人群聚集。可数。
+① They met on the station concourse.
+= 他们在车站大厅碰头。
+a concourse = 车站大厅
+② The concourse was packed.
+= 那个大厅挤满了人。
+packed = 挤满了的
+③ A great concourse of people gathered.
+= 一大群人聚了起来。
+a concourse of people = 一大群人聚集
+构词：拉丁语 concurrere 一同跑到一处
+注意用法：今天主要指车站机场的大厅。
+
+concrete
+核心：两支，重音不同。名词是混凝土，动词是用混凝土铺盖。
+形容词是具体的：看得见摸得着的，反义是 abstract。副词
+concretely。
+① The floor is concrete.
+= 那地面是混凝土的。
+concrete = 混凝土
+② They concreted the yard.
+= 他们把院子打成了水泥地。
+concrete = 用混凝土铺
+③ Give me a concrete example.
+= 给我个具体例子。
+a concrete example = 具体例子
+④ There is no concrete evidence.
+= 没有实在的证据。
+concrete evidence = 实在的证据
+⑤ Say it more concretely.
+= 说得再具体些。
+concretely = 具体地
+构词：拉丁语 concretus 长到一起的
+注意分工：形容词的反义是 abstract。
+
+concubine
+核心：妾：在一夫多妻或帝王后宫的旧制度里，地位低于正妻
+的女子。历史与人类学用词，不用来说现代的关系。可数。
+① The emperor had many concubines.
+= 那位皇帝有许多妃嫔。
+a concubine = 妾、妃嫔
+② Her son by a concubine inherited.
+= 妾生的那个儿子继承了。
+by a concubine = 妾所生的
+③ She was taken as a concubine.
+= 她被纳为妾。
+take somebody as a concubine = 纳某人为妾
+构词：拉丁语 concubina 同寝的女子
+注意语域：历史用词。
+
+concupiscence
+核心：情欲：神学与旧式道德文字里说的肉欲之心，带责备
+意味。形容词 concupiscent。今天几乎只在宗教与文学里
+读到。不可数。
+① The sermon warned against concupiscence.
+= 那篇布道告诫人戒除情欲。
+concupiscence = 情欲
+② A concupiscent glance gave him away.
+= 一个色迷迷的眼神露了馅。
+concupiscent = 起色心的
+构词：拉丁语 concupiscere 强烈渴望
+注意语域：宗教与文学用词。
+
 concur
 核心：两支。一是同意：正式地表示看法一致，介词用 with；
 二是同时发生。名词 concurrence，形容词 concurrent 是
@@ -110,6 +210,21 @@ condescending = 居高临下的
 condescension = 居高临下的态度
 构词：拉丁语 con- 加强 + descendere 下来
 注意语气：今天基本都是贬义。
+
+condign
+核心：罪有应得的：处罚跟过错相称。几乎只跟 punishment、
+retribution 这类词连用。正式而偏旧，今天多见于法律与文学。
+① The court imposed condign punishment.
+= 法院处以了相称的刑罚。
+condign punishment = 罪有应得的惩罚
+② His fall was condign.
+= 他的垮台是自找的。
+condign = 罪有应得的
+③ Condign retribution came at last.
+= 应得的报应终于来了。
+condign retribution = 应得的报应
+构词：拉丁语 condignus 完全相称的
+注意搭配：几乎只跟 punishment、retribution 连用。
 
 condiment
 核心：调味品：饭桌上另加的那类，盐、胡椒、芥末、番茄酱
@@ -320,147 +435,3 @@ conduct heat = 导热
 conduct oneself = 举止行事
 构词：拉丁语 conducere 引领
 注意读音：名词重音在前，动词重音在后。
-
-conduction
-核心：传导：热或电顺着物体本身往前传，跟对流 convection
-与辐射 radiation 并列为三种传热方式。形容词 conductive
-是导电导热的，名词 conductance 是电导，也就是电阻的
-倒数。物理用词。
-① Heat moves by conduction.
-= 热靠传导走。
-conduction = 传导
-② Metal is highly conductive.
-= 金属导电性很强。
-conductive = 导电导热的
-③ Conductance is the inverse of resistance.
-= 电导是电阻的倒数。
-conductance = 电导
-构词：conduct 传导 + -ion
-注意分工：传导、对流、辐射是三种不同的传热方式。
-
-conductor
-核心：三支。一是乐队指挥；二是英式公交上的售票员，
-美式指列车员；三是导体：导电导热的材料，不导电的那种
-叫 insulator。可数。
-① The conductor raised her baton.
-= 指挥举起了指挥棒。
-a conductor = 乐队指挥
-② The conductor punched our tickets.
-= 售票员给我们剪了票。
-a conductor = 售票员、列车员
-③ Copper is a good conductor.
-= 铜是良导体。
-a conductor = 导体
-构词：conduct 引领、传导 + -or
-注意用法：三支全靠上下文分辨。
-
-conduit
-核心：两支。一是管道、线管：埋在地下或墙里走水走电线的
-那种；二是引申的「渠道」：消息、资金、影响力经由某人或
-某机构流过去。可数。
-① Cables run through a conduit.
-= 电缆走在线管里。
-a conduit = 导管、线管
-② The charity became a conduit for aid.
-= 那家慈善机构成了援助的渠道。
-a conduit for = ……的渠道
-③ He was a conduit between the two sides.
-= 他是两边之间的传话通道。
-a conduit between = ……之间的通道
-构词：拉丁语 conducere 引导
-注意读音：英美读法不同，两种都通行。
-
-cone
-核心：几支共用一个「尖顶圆底」的形状。一是圆锥体；
-二是甜筒的脆皮蛋卷；三是松柏的球果；四是路面上的锥形
-交通桶；五是视网膜上的视锥细胞。形容词 conical。
-① Work out the volume of the cone.
-= 算出那个圆锥的体积。
-a cone = 圆锥体
-② She bought an ice cream cone.
-= 她买了个甜筒。
-an ice cream cone = 甜筒
-③ Pine cones littered the path.
-= 小路上落满了松果。
-a pine cone = 松果
-④ Traffic cones blocked the lane.
-= 锥形桶把那条车道挡了。
-a traffic cone = 锥形交通桶
-⑤ Cones detect colour.
-= 视锥细胞辨色。
-a cone = 视锥细胞
-⑥ The roof is conical.
-= 那个屋顶是圆锥形的。
-conical = 圆锥形的
-构词：希腊语 konos 松果、圆锥
-注意用法：五支共用一个尖顶圆底的形状。
-
-coney
-核心：兔子的旧称。今天主要留在毛皮行当里指兔皮，以及
-地名里。圣经译本里还用它指岩狸。偏旧，可数。
-① Coney fur trimmed the collar.
-= 领子上镶了兔毛。
-coney fur = 兔毛皮
-② Old bibles use coney for the rock hyrax.
-= 旧版圣经用这个词指岩狸。
-coney = 岩狸（旧版圣经里的用法）
-cony = 同一个词的另一种拼法
-构词：古法语 conin 兔
-注意语域：偏旧，今天多见于毛皮行当。
-
-confab
-核心：口语的短形式，指随意的闲谈、碰头聊两句。动词
-confabulate 是它的正式原形；医学上另有专义：因记忆
-缺损而无意地编造细节来填空。可数。
-① They had a quick confab.
-= 他们碰头聊了两句。
-a confab = 碰头闲聊
-② The pair confabbed in the corridor.
-= 那两人在走廊上嘀咕。
-confab = 闲谈
-③ Patients may confabulate after injury.
-= 病人受伤后可能会无意编造细节。
-confabulate = 因记忆缺损而编造细节
-confabulation = 记忆性虚构
-构词：拉丁语 confabulari 一同讲话
-注意分工：口语义是闲聊，医学义是记忆性虚构。
-
-confection
-核心：两支。一是精致的甜点糖果：做工讲究的那种；二是
-引申地说任何做得花哨精巧的东西，说裙子说电影都行，略带
-调侃。做的人叫 confectioner，卖的东西统称 confectionery。
-可数。
-① The cake is a fine confection.
-= 那个蛋糕做得极精致。
-a confection = 精致甜点
-② Her dress was a confection of silk and lace.
-= 她那条裙子是丝绸蕾丝堆出来的花哨玩意。
-a confection of = 由……堆砌出的花哨东西
-③ The confectioner ices them by hand.
-= 糖果师傅一个个手工上糖霜。
-a confectioner = 糖果糕点师
-④ The shop sells confectionery.
-= 那家店卖糖果糕点。
-confectionery = 糖果糕点（总称）
-构词：拉丁语 conficere 做成
-注意语气：第二支略带调侃。
-
-confederacy
-核心：邦联：几个州或几个团体为共同目的结成的松散联盟；
-大写时特指美国内战中的南方邦联。confederate 既是形容词
-也是名词，指同盟的、同盟者，还可指同谋；confederation
-是同义的正式说法，多用在国名与组织名里。可数。
-① They formed a loose confederacy.
-= 他们结成了松散的邦联。
-a confederacy = 邦联
-② The Confederacy lost the war.
-= 南方邦联输了那场战争。
-the Confederacy = 美国南方邦联
-③ His confederate waited outside.
-= 他的同伙在外头等着。
-a confederate = 同伙、同盟者
-④ The Swiss Confederation dates from 1291.
-= 瑞士邦联始于一二九一年。
-a confederation = 邦联
-构词：拉丁语 confoederare 结盟
-注意用法：大写时特指美国南方邦联。

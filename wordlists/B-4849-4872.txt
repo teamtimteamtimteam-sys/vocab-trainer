@@ -1,3 +1,38 @@
+compost
+核心：堆肥：把菜叶草屑沤烂做成的肥；也作动词，指沤肥。
+院子里堆肥的地方叫 compost heap 或 compost bin。名词
+不可数。
+① She spreads compost on the beds.
+= 她往花畦上撒堆肥。
+compost = 堆肥
+② They compost all their peelings.
+= 他们把菜皮全沤了肥。
+compost = 把……做成堆肥
+③ Turn the compost heap monthly.
+= 堆肥堆每月翻一次。
+a compost heap = 堆肥堆
+④ Kitchen scraps go in the compost bin.
+= 厨余倒进堆肥箱。
+a compost bin = 堆肥箱
+构词：拉丁语 compositum 混合物
+注意用法：名词不可数。
+
+composure
+核心：镇定：心里乱不了、脸上也看不出来的那份沉着。
+常见搭配三个：keep、lose、regain one's composure。
+不可数。
+① She kept her composure.
+= 她稳住了。
+keep one's composure = 保持镇定
+② He lost his composure for a second.
+= 他有一秒钟绷不住了。
+lose one's composure = 失去镇定
+③ She soon regained her composure.
+= 她很快又稳住了。
+regain one's composure = 重新镇定下来
+构词：compose 使镇定 + -ure
+注意用法：不可数。
+
 compote
 核心：糖水炖果：水果加糖慢慢煮出来的甜品，冷热都吃，
 常配酸奶或配肉。也指盛它的那种高脚玻璃盘。可数不可数
@@ -346,6 +381,22 @@ pros and cons = 正反两面的理由
 构词：骗那一支由「信任骗局」那个词组截短而来；反面理由那一支来自拉丁语表示「反对」的词
 注意用法：三支来路不同，不要当成一个词的引申。
 
+conation
+核心：心理学把心理活动分成三块：认知 cognition、情感 affect、
+意动 conation。意动指想要去做、去争取的那一面。形容词
+conative。不可数，学术词。
+① Psychologists split the mind into cognition, affect and conation.
+= 心理学把心理分成认知、情感与意动三块。
+conation = 意动（想要去做的那一面）
+② Conation covers wanting, striving and willing.
+= 意动涵盖想要、争取与意志。
+conation covers = 意动涵盖……
+③ The conative side of learning is often ignored.
+= 学习里意动的那一面常被忽略。
+the conative side = 意动的那一面
+构词：拉丁语 conari 尝试
+注意语域：心理学术语。
+
 concatenate
 核心：把几段东西一个接一个连成一串，编程里最常用：把
 两个字符串拼起来。名词 concatenation，也用来说一连串
@@ -398,73 +449,3 @@ a concealed weapon = 暗藏的武器
 concealment = 隐匿
 构词：拉丁语 concelare 全部盖住
 注意语域：比 hide 正式。
-
-concede
-核心：三支。一是承认：不情愿地认了某个说法；二是认输：
-比赛或选举里承认输了；三是让出、丢掉：球赛里丢球就用
-这个词。及物。
-① He conceded that he was wrong.
-= 他承认自己错了。
-concede that = 承认
-② She conceded the election.
-= 她承认败选了。
-concede an election = 承认败选
-③ They conceded two goals.
-= 他们丢了两个球。
-concede a goal = 丢一个球
-④ The company conceded nothing.
-= 那家公司一步没让。
-concede = 让步
-构词：拉丁语 concedere 让开
-注意用法：承认那一支多带不情愿的意味。
-
-conceit
-核心：两支离得很远。一是自负：觉得自己了不起，贬义，
-形容词 conceited；二是文学术语：牵强而巧妙的比喻，
-玄学派诗歌里那种。可数不可数都行。
-① His conceit is unbearable.
-= 他那份自负让人受不了。
-conceit = 自负
-② She is vain and conceited.
-= 她又虚荣又自负。
-conceited = 自负的
-③ The poem turns on a single conceit.
-= 那首诗全靠一个奇喻撑着。
-a conceit = 奇特的比喻
-构词：conceive 构想 的旧名词形式
-注意分工：日常义是自负，文学义是奇喻。
-
-conceivable
-核心：想得到的、有可能的：常跟 every 和最高级连用，
-every conceivable 是能想到的每一种。副词 conceivably
-是「说不定」。
-① It is just conceivable that he forgot.
-= 他忘了这事也不是不可能。
-it is conceivable that = ……也不是不可能
-② They tried every conceivable angle.
-= 能想到的路子他们都试了。
-every conceivable = 能想到的每一种
-③ She could conceivably win.
-= 她说不定真能赢。
-conceivably = 说不定
-构词：conceive 想到 + -able
-注意搭配：常跟 every 与最高级连用。
-
-conceive
-核心：两支。一是构想出来：想出主意、拟出计划，常用被动
-be conceived as；二是怀上孩子。conceive of 是「设想」，
-多用于否定句。
-① She conceived the idea in prison.
-= 那个主意是她在狱中想出来的。
-conceive an idea = 想出主意
-② The project was conceived as a stopgap.
-= 那个项目当初是当权宜之计设计的。
-be conceived as = 当初设想为
-③ I cannot conceive of living there.
-= 我没法设想住在那里。
-conceive of = 设想
-④ She conceived at forty.
-= 她四十岁怀上的。
-conceive = 怀孕
-构词：拉丁语 concipere 拿住、孕育
-注意搭配：设想那支带 of，多用于否定句。

@@ -12,15 +12,12 @@ B 5000
 内容词还在后面字母段，等轮到了再并，不用回头补。归档区 0 条。
 最末词条 byword。
 
-当前进度：**B 词表 5000 条已达成（2026-09-05）**，四道闸门全过。
-下一个目标等用户定；在他开口之前按原节奏继续往下写。
-ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，co- 段清单 1960 条、
-已收 800 条（40%），写到 consign，下批从 consist 起。
+当前进度：目标 5000 已达成，用户让继续往下写。
+B 词表 5064 条。ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
+co- 段清单 1960 条、已收 968 条（49%），写到 contour，下批从 contraband 起。
 之后 cp 1、cr 481、ct 1、cu 223、cw 4、cy 51、cz 4。
-co- 段里 comp- / conf- / cons- 这几串同前缀词特别密，
-每条里提到的同前缀派生形式都必须配例句或等式，否则会被宿主吞掉 ——
-这一段已经靠 audit-swallowed 当场拦下四次（commercial、comfort、
-communist、commune、compost bin、conical）。
+co- 段里 comp- / conf- / cons- / cont- 这几串同前缀词特别密，
+每条里提到的同前缀派生形式都必须配例句或等式，否则会被宿主吞掉。
 
 【交付文件：B 已合成单一文件 B-merged-0001-5000.txt（2026-09-05）】
 用户要求 5000 条合成一个文件传 iPad，不再拆成两半。
