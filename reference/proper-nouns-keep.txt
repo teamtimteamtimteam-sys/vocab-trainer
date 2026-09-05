@@ -284,3 +284,144 @@ Chippendale
 Chrimbo
 Chrissake
 Crimbo
+
+# ============================================================
+# b 段（2026-09-05 补判）—— 与 c 段同一次审计，同一把尺子
+# 250 条大写词头逐条判过：收 116、剔 134。
+# 剔掉的是纯人名（Barbara、Bernard…）、纯地名（Birmingham、Boston…）、
+# 商标与公司（Barclaycard、Boeing、Bloomingdale's…）、作品与角色名
+# （Beowulf、Baywatch、Blackadder、Buttons…）、学位与体例缩写
+# （BSc、BLitt、Blvd.、Brig.、Btu…），以及按国别变体通则不收的
+# Bapu、Bhagwan、Bharatanatyam（印度）、Buckley's（澳新）、
+# Bombay duck 与 Bombay mix（印度食物名，照裁定不收）。
+# ============================================================
+
+# --- 字母／型号构成的普通名词 ---
+B-list
+B-movie
+B-picture
+B-road
+B-side
+BB gun
+Blu-ray
+
+# --- 已成普通词汇的固定表达 ---
+Bailey bridge
+Bakewell tart
+Bath bun
+Battenberg
+Belgian endive
+Belisha beacon
+Bermuda shorts
+Bible-basher
+Bible-bashing
+Boolean operator
+Boston baked beans
+Bristol fashion
+British overseas territory
+Broca’s area
+Bronx cheer
+Brownian motion
+Brussels sprout
+Buffalo wings
+Buggins’ turn
+Bunsen burner
+Béarnaise sauce
+
+# --- 医学、学科与文化概念 ---
+Babbitt
+Balkanization
+Balkanize
+Bauhaus
+Beatlemania
+Beelzebub
+Benelux
+Bigfoot
+Billingsgate
+Bloomsbury
+Bodhisattva
+Bollywood
+Bolshevik
+Bolshevism
+Boolean
+Braille
+Brexit
+Brexiteer
+Britart
+Briticism
+Britishism
+Britishness
+Britpop
+Broadway
+Byronic
+Byzantine
+
+# --- 族群、语言、宗教派别 ---
+Baha’i
+Baluchi
+Bangla
+Bantu
+Baptist
+Basotho
+Batswana
+Bedouin
+Benedictine
+Bengali
+Blackfoot
+Boer
+Brahman
+Brahmin
+Breton
+Brit
+Britannia
+Britannic
+British
+Britisher
+Briton
+Brittonic
+Brythonic
+Buddha
+Buddhism
+Buddhist
+Bushman
+
+# --- 地区人称与俗称（同 Angeleno、Aussie）---
+Berliner
+Blighty
+Brooklynese
+Brum
+Brummie
+
+# --- 常用国族形容词（构词规律本身就是知识点）---
+Bahamian
+Bahraini
+Balkan
+Baltic
+Bangladeshi
+Barbadian
+Barbudan
+Belarusian
+Belgian
+Belizean
+Belorussian
+Beninese
+Bhutanese
+Bolivian
+Bosnian
+Botswanan
+Brazilian
+Bruneian
+Bulgarian
+Burkinabe
+Burmese
+Burundian
+
+# --- 已成通名的品种与物品 ---
+Beaujolais
+Bordeaux
+Border collie
+Botox
+Braeburn
+Bramley
+Brazilian wax
+Brie
