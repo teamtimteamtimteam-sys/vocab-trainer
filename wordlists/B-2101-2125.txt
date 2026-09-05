@@ -1,62 +1,3 @@
-barber
-核心：专给男士理发修面的人，铺子叫 barbershop 或 barber's。
-跟 hairdresser 的分工传统上很清楚：前者管男士剪发刮胡，
-后者管烫染造型。门口那根红白蓝旋转柱叫 barber's pole，
-源自旧时理发师兼做放血手术。
-① He went to the barber for a trim.
-= 他去理发店修了修头发。
-② The barbershop opens at seven.
-= 那家理发店七点开门。
-barbershop = 理发店
-③ A striped barber's pole marks the door.
-= 门口立着旋转条纹柱。
-barber's pole = 理发店旋转柱
-④ Barbershop harmony uses four voices.
-= 理发店四重唱是四个声部。
-barbershop = 无伴奏四重唱（一种合唱风格）
-注意语域：
-第四层是美国的一种合唱形式，名字来自旧时理发店里的即兴合唱。
-
-barbiturate
-核心：一类镇静催眠药，二十世纪上半叶广泛用于安眠和抗癫痫。
-问题在于安全窗极窄——有效量和致死量离得太近，又容易成瘾，
-所以后来大多被苯二氮䓬类取代。
-① Barbiturates were once common sleeping pills.
-= 巴比妥类药物从前是常用安眠药。
-② Barbiturate overdose is often fatal.
-= 巴比妥过量常常致命。
-barbiturate overdose = 巴比妥过量
-③ Safer drugs replaced barbiturates.
-= 更安全的药取代了巴比妥类。
-注意语域：
-药理学与医学史用语。
-
-Barbudan
-核心：巴布达的、巴布达人。这个岛跟安提瓜合成一个国家，所以正式说
-国民时两个词并用：Antiguan and Barbudan。可数。
-① The Barbudan delegation arrived first.
-= 巴布达代表团先到。
-a Barbudan = 巴布达人
-② Barbudan land is held in common.
-= 巴布达的土地是共有的。
-Barbudan land = 巴布达的土地
-构词：岛名加 -n
-注意用法：正式说国民时跟 Antiguan 并用。
-
-bard
-核心：本指凯尔特社会里的行吟诗人——记诵部族史事、在宴上吟唱的
-那种人。今天多用于文学语境指"诗人"，偏文雅。
-带定冠词大写的 the Bard 特指莎士比亚。
-① The bard sang of ancient battles.
-= 那位吟游诗人唱起了古战事。
-② He styled himself a bard.
-= 他自称诗人。
-③ The Bard was born in Stratford.
-= 莎翁生于斯特拉福。
-the Bard = 莎士比亚
-注意大小写：
-特指莎士比亚时大写并带定冠词。
-
 bare
 核心：底层是"该有覆盖的地方没有覆盖"。身上没穿是裸露，
 树上没叶是光秃，房里没家具是空荡，脚上没鞋是赤脚。
@@ -525,3 +466,66 @@ baroque music = 巴洛克音乐
 baroque = 过于华丽繁复的（轻贬）
 注意大小写：
 指那个时期与风格时常大写，泛指繁复时小写。
+
+barquentine
+核心：帆船的一种：前桅挂横帆、其余各桅挂纵帆。
+跟 barque 的分别在于横帆桅的数目——barque 是除最后一桅外
+都挂横帆。这类船十九世纪用于远洋货运，今天多见于帆船训练。
+① A barque carries square sails on all but the last mast.
+= 巴克帆船除最后一桅外都挂横帆。
+barque = 巴克帆船
+② The barquentine is easier to handle.
+= 前桅横帆船更好操纵。
+注意拼写：
+barque 也拼作 bark，跟「树皮、犬吠」那两个词同形。
+
+barrack
+核心：动词，而且英美方向相反，这是最要留心的地方。
+英式指"起哄、喝倒彩"——冲着台上的人叫嚷捣乱；
+澳新与美式指"呐喊助威"，barrack for 就是"为…加油"。
+同一个动作，一边是拆台，一边是捧场。名词 barracking 指起哄声。
+注意跟名词 barracks（营房）同形但那是另一支。
+① The crowd barracked the referee.
+= 观众冲裁判起哄。
+barrack somebody = 向某人喝倒彩（英式）
+② Fans barracked for the home side.
+= 球迷为主队呐喊助威。
+barrack for = 为…加油（澳新）
+③ The barracking drowned his speech.
+= 起哄声盖过了他的讲话。
+barracking = 起哄、喝倒彩
+注意地域：
+英式是拆台，澳新与美式是捧场，方向相反，
+听到时先判说话人是哪边的。
+
+barracks
+核心：军营里住人的房子，总用复数，但可以当单数用。
+动词 barrack 是另一回事，而且英美相反：英式指"起哄喝倒彩"，
+美式与澳式指"呐喊助威"。这个反差容易出误会。
+① The troops returned to barracks.
+= 部队返回了营房。
+return to barracks = 回营
+② A new barracks was built.
+= 新建了一座营房。
+③ The crowd barracked the referee.
+= 观众冲裁判起哄。
+barrack = 喝倒彩（英式）
+④ Fans barracked for the home side.
+= 球迷为主队呐喊。
+barrack for = 为…助威（澳式）
+注意地域：
+动词义英式是起哄、澳式是助威，方向相反。
+
+barracouta
+核心：南半球的一种细长海鱼，多见于新西兰与澳大利亚南部海域，
+常做成熏鱼或炸鱼薯条的原料。注意跟热带的 barracuda
+不是同一种鱼，只是名字像。
+① Barracouta is common in fish and chips.
+= 炸鱼薯条常用那种鱼。
+② Barracouta swim in cold southern waters.
+= 那种鱼生活在南方冷水海域。
+③ It is not the same fish as a barracuda.
+= 它跟梭鱼不是同一种。
+注意别混：
+barracouta = 南半球的细长海鱼（冷水）
+barracuda = 梭鱼（热带珊瑚礁）

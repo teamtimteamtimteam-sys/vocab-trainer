@@ -1,39 +1,3 @@
-avoirdupois
-核心：英美常衡制的名称——一磅等于十六盎司的那一套，日常称东西
-用的就是它。跟称金银的金衡制和称药的药衡制相区别。
-法语借词，读音跟拼写差得远。戏谑着用时指人的"体重、分量"。
-① Sugar is sold by avoirdupois weight.
-= 糖是按常衡制计重卖的。
-avoirdupois weight = 常衡重量
-② One avoirdupois pound is sixteen ounces.
-= 一常衡磅等于十六盎司。
-③ He joked about his avoirdupois.
-= 他拿自己的体重开玩笑。
-注意别混：
-avoirdupois = 常衡制（日常称重，一磅十六盎司）
-troy = 金衡制（称贵金属，一磅十二盎司）
-
-avow
-核心：正式用语，指"公开承认、公开声明"。
-现在更常见的是过去分词 avowed。
-① He avowed his support.
-= 他公开表示支持。
-avow support = 公开表态支持
-② She avowed that it was true.
-= 她公开声称那是真的。
-③ They avowed their intentions.
-= 他们公开了自己的意图。
-词族：
-avowed = 公开承认的
-近义对照：
-avow = 公开承认（正式）
-declare = 宣告（正式）
-admit = 承认（可能不情愿）
-confess = 坦白（承认过错）
-④ The avowal came too late.
-= 那番坦白来得太晚。
-avowal = 公开承认、坦白表白
-
 avowed
 核心：指"公开宣称的、自认的"，只作定语。
 常修饰 aim、intention、enemy、atheist。
@@ -145,6 +109,10 @@ awake to = 意识到、察觉
 ⑥ I could hardly stay awake.
 = 我几乎撑不住不睡。
 stay awake = 撑着不睡
+⑦ She awoke at dawn.
+= 她天亮时醒了。
+awoke = awake 的过去式（三态 awake / awoke / awoken）
+过去分词说 be awoken by：被什么惊醒。这一族偏书面，日常说 wake up。
 
 awaken
 核心：两条线：正式或文学的"唤醒（人）"，
@@ -519,3 +487,39 @@ lower the awning = 放下遮篷
 awning = 遮篷（布制可收）
 canopy = 华盖、顶篷（较大）
 shelter = 遮蔽处（通用）
+
+awry
+核心：指"歪了"或"出了岔子"。只作表语或后置。
+最高频的搭配是 go awry（出差错）。
+① The plan went awry.
+= 那个计划出了岔子。
+go awry = 出差错
+② His tie was awry.
+= 他领带歪了。
+③ Everything went awry that day.
+= 那天诸事不顺。
+注意发音：/əˈraɪ/，
+重音在第二音节，不读成 /ˈɔːri/。
+近义对照：
+go awry = 出岔子（计划失败）
+go wrong = 出错（通用）
+askew = 歪了（位置）
+
+axe
+核心：名词是"斧头"，动词是"大幅削减、砍掉"（项目、岗位）。
+美式拼 ax。习语 have an axe to grind 指别有用心。
+① He chopped wood with an axe.
+= 他用斧头劈柴。
+chop wood = 劈柴
+② The project was axed.
+= 那个项目被砍掉了。
+axe a project = 砍掉项目
+③ Jobs face the axe.
+= 一些岗位面临被裁。
+face the axe = 面临被砍
+④ He has an axe to grind.
+= 他别有用心。
+have an axe to grind = 另有企图
+注意英美拼写：
+axe = 斧头；大幅削减（英式拼法）
+ax = 斧头；大幅削减（美式拼法）

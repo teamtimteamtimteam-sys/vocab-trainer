@@ -1,21 +1,3 @@
-arroyo
-核心：美国西南部与墨西哥的地貌词，指"干河沟"——平时是干的，
-一下暴雨就变成湍急的洪流，几分钟内能淹没人车。西班牙语借词，
-复数 arroyos。
-① The trail crosses a dry arroyo.
-= 那条小道穿过一条干河沟。
-a dry arroyo = 干涸的河沟
-② Flash floods fill the arroyo without warning.
-= 山洪毫无预兆地灌满河沟。
-flash flood = 山洪暴发
-③ Never camp in an arroyo.
-= 千万别在干河沟里扎营。
-注意地域：
-美国西南部与墨西哥用语。
-近义对照：
-arroyo = 干河沟（美西南）
-wadi = 干河谷（阿拉伯地区）
-
 arse
 核心：英式粗话，指"屁股"，也骂人"蠢货"。它构出一大批固定说法，
 都很粗俗：arse about 和 arse around 是"瞎混、不干正事"，
@@ -551,3 +533,38 @@ artisan = 手工匠人（有技艺）
 craftsman = 工匠（同义）
 artist = 艺术家（创作）
 labourer = 体力工（无特定技艺）
+
+artist
+核心：狭义指画家，广义指一切靠创作吃饭的人，音乐人、演员都算。
+另有一层口语用法要单记：artist 跟在某个坏事后面，指"干那事的
+老手"，con artist 是骗子、rip-off artist 是宰客的行家——这里的
+"艺术"是反话。还要跟三个形近词分清：artiste 是表演艺人、
+artisan 是手工艺人、artistry 是技艺本身。
+① He is a talented artist.
+= 他是位有才华的艺术家。
+狭义多指画家。
+② The artist painted her portrait.
+= 那位画家画了她的肖像。
+③ Several artists performed.
+= 几位艺人做了表演。
+广义包括音乐人和演员。
+④ The recording artist signed a new deal.
+= 那位唱片艺人签了新约。
+recording artist = 唱片艺人（行业用语）
+⑤ He turned out to be a con artist.
+= 他原来是个骗子。
+con artist = 行骗老手
+这一支是反话：把干坏事说成一门"艺术"。
+⑥ She is an artist with a needle.
+= 她的针线活儿是一绝。
+an artist with = 用某样工具的高手
+褒义的引申：手艺到了艺术的地步。
+⑦ Her artistry is beyond doubt.
+= 她的技艺毋庸置疑。
+artistry = 精湛技艺
+注意区别：
+artist 艺术家
+artisan 手工艺人（做实用器物）
+artiste 表演艺人（法语借词，偏旧）
+词族：
+artistic = 有艺术性的；有艺术天分的

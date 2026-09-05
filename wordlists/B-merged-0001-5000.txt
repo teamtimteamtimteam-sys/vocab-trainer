@@ -27158,6 +27158,11 @@ if the need arises = 如有需要
 arise from = 由…引起
 动词变化：
 arise → arose → arisen
+⑤ A problem arose during the trial.
+= 试验中出了个问题。
+arose = arise 的过去式（三态 arise / arose / arisen）
+rose = rise 的过去式（升起、上涨）
+两个过去式只差一个字母，说事情发生用前一个，说升起上涨用后一个。
 注意区别：
 arise 抽象事物产生（不及物）
 raise 举起、提高（及物）
@@ -27827,26 +27832,6 @@ aromatic compound = 芳香族化合物
 aromatic = 芳香的（浓郁宜人）
 fragrant = 芬芳的（花香）
 perfumed = 加了香的
-
-arose
-核心：arise 的过去式，过去分词是 arisen。arise 说的不是人站起来，
-而是事情"出现、发生"——问题冒出来、机会来了、争议起来了，
-都用它，主语通常是抽象的事。
-① A problem arose during the trial.
-= 试验中出了个问题。
-a problem arose = 出现了一个问题
-② The chance arose unexpectedly.
-= 机会突然就来了。
-③ Doubts arose about the figures.
-= 对那些数字起了疑。
-doubts arose = 产生了疑问
-④ The custom arose in the Middle Ages.
-= 那个习俗起于中世纪。
-注意用法：
-主语多是抽象事物，说人起身要用 rise 或 get up。
-注意别混：
-arose = arise 的过去式（事情发生）
-rose = rise 的过去式（升起、上涨）
 
 around
 核心：底层是"环绕"。绕着转、在周围、到处、以及"大约"——和 about
@@ -31726,25 +31711,6 @@ ataxic = 共济失调的
 注意别混：
 ataxia = 共济失调（协调不上）
 paralysis = 瘫痪（动不了）
-
-ate
-核心：eat 的过去式，过去分词是 eaten。英式读音跟 et 同音的说法
-仍有人用，美式一律读成跟 eight 同音。注意 eat 的三态是不规则的，
-不能加词尾变过去式。
-① We ate at seven.
-= 我们七点吃的饭。
-② She ate the whole thing.
-= 她把那个整个吃掉了。
-③ They ate out last night.
-= 他们昨晚在外面吃的。
-eat out = 在外面吃饭
-④ The rust ate into the metal.
-= 锈把金属蚀出了洞。
-eat into = 侵蚀、蚕食
-注意用法：
-三态是 eat / ate / eaten，不规则变化。
-注意读音：
-美式读作跟 eight 同音，英式两读都有。
 
 atelier
 核心：法语借词，指艺术家或时装设计师的"工作室"——不只是画画的
@@ -35644,6 +35610,10 @@ awake to = 意识到、察觉
 ⑥ I could hardly stay awake.
 = 我几乎撑不住不睡。
 stay awake = 撑着不睡
+⑦ She awoke at dawn.
+= 她天亮时醒了。
+awoke = awake 的过去式（三态 awake / awoke / awoken）
+过去分词说 be awoken by：被什么惊醒。这一族偏书面，日常说 wake up。
 
 awaken
 核心：两条线：正式或文学的"唤醒（人）"，
@@ -36018,25 +35988,6 @@ lower the awning = 放下遮篷
 awning = 遮篷（布制可收）
 canopy = 华盖、顶篷（较大）
 shelter = 遮蔽处（通用）
-
-awoke
-核心：awake 的过去式，过去分词是 awoken。这个词说的是"醒过来"，
-不及物，比日常的 wake up 书面。比喻着用时指某种感情或意识
-被唤起。
-① She awoke at dawn.
-= 她天亮时醒了。
-② He awoke to the sound of rain.
-= 他被雨声惊醒。
-awake to = 醒来发觉；意识到
-③ The village had awoken to the danger.
-= 那个村子已经意识到了危险。
-awoken = 醒来的、被唤起的（过去分词）
-④ Old fears awoke in him.
-= 旧日的恐惧在他心里翻了上来。
-注意用法：
-三态是 awake / awoke / awoken，不规则变化。
-注意语域：
-偏书面，日常说 wake up。
 
 awry
 核心：指"歪了"或"出了岔子"。只作表语或后置。
@@ -38266,23 +38217,6 @@ goodies and baddies = 正派与反派
 = 他在续集里演反派。
 注意地域：
 英式非正式说法，美式说 bad guy。
-
-bade
-核心：bid 的旧式过去式，用在"吩咐、道别"那个意思上，
-过去分词是 bidden。今天几乎只出现在文学与固定说法里：
-bade farewell 是道别，bade him enter 是叫他进来。
-注意"出价"那个 bid 的过去式仍是 bid，不用这个形式。
-① She bade them farewell.
-= 她跟他们道了别。
-bid farewell = 道别
-② He bade her sit down.
-= 他叫她坐下。
-bid somebody do = 吩咐某人做（旧式，不加不定式记号）
-③ The form is rare outside literature.
-= 这个形式在文学之外很少见。
-注意用法：
-只用于「吩咐、道别」义；
-「出价」义的过去式仍是 bid，三态同形。
 
 badge
 核心：别在身上表明身份的那块小牌——警徽、工牌、校徽都算。
@@ -42785,6 +42719,15 @@ it is + 形容词 + to do = 做某事是…的
 ㉗ Were it not for her, we'd have failed.
 = 要不是她，我们就砸了。
 were it not for = 要不是（正式倒装）
+㉘ I have been to Japan twice.
+= 我去过日本两次。
+have been to = 去过（人已经回来了）
+have gone to = 去了，人还没回来
+这一对的分别最常被考到：回来了用 been，没回来用 gone。
+㉙ She has been in London since May.
+= 她五月起就一直在伦敦。
+have been in = 一直待在（某地）
+been 是 be 的过去分词，完成时里一律用它，进行式的 has been raining 也是它。
 注意变位：
 现在 am / is / are，过去 was / were，
 过去分词 been，现在分词 being。
@@ -43396,6 +43339,16 @@ bearskin = 熊皮帽；熊皮
 ㉘ A beardy man ran the stall.
 = 一个大胡子看着那个摊。
 beardy = 大胡子的（英式口语）
+㉙ The costs were borne by the company.
+= 那些费用由公司承担。
+be borne by = 由某方承担
+born = 出生，只用于这一个意思
+borne = 承受、运载、传播，其余一切意思都用它
+这一对分工是这个词最容易错的地方。
+㉚ The disease is airborne.
+= 那种病经空气传播。
+airborne = 空气传播的；也指升空的
+过去分词接在名词后面构成一整族形容词，表示「由某物传播的」，waterborne、foodborne 同此。
 
 beard
 核心：长在下巴和两颊的胡子。跟 moustache（唇上）和
@@ -43780,22 +43733,6 @@ be becalmed = 因无风而滞留
 becalmed = 停滞不前（比喻）
 注意语域：航海用语，比喻义偏书面。
 
-became
-核心：become 的过去式。三态是 become-became-become，
-过去分词跟原形同形，读的时候最容易看漏。
-后面接名词或形容词，说的是"变成了什么"。
-习语 what became of 是问"某人后来怎么样了"。
-① She became a doctor.
-= 她成了医生。
-become = 成为（后接名词）
-② It soon became clear he was lying.
-= 很快就看出他在撒谎。
-it became clear = 事情变得明朗
-③ What became of your brother?
-= 你弟弟后来怎么样了？
-what became of = 后来下落如何
-注意三态：become / became / become
-
 because
 核心：从属连词，引出原因。它跟别的表因果的词分工很清楚：
 because 后面接完整的句子，because of 后面接名词或动名词——
@@ -43906,6 +43843,10 @@ become somebody = 与某人相称（偏旧）
 ⑦ She wore a becoming shade of blue.
 = 她穿了个很衬她的蓝色。
 becoming = 相称的、得体的
+⑧ It soon became clear that he was lying.
+= 很快就看出他在撒谎。
+it became clear = 事情变得明朗
+三态 become / became / become —— 过去分词跟原形同形，读的时候最容易看漏。
 注意变位：
 become / became / become —— 过去分词跟原形同形。
 注意用法：
@@ -44352,26 +44293,6 @@ the devil you know = 熟悉的祸害
 构词：希伯来语，字面是「蝇王」
 注意语域：偏文学与宗教语境，日常少用。
 
-been
-核心：be 的过去分词，用在完成时里。两个搭配要分清：
-have been to 是"去过、人已经回来了"，have been in 是"一直待在"。
-另外 has-been 连写作名词，指过气的人物。
-① I have been to Japan twice.
-= 我去过日本两次。
-have been to = 去过（人已回来）
-② She has been in London since May.
-= 她五月起就一直在伦敦。
-have been in = 一直待在
-③ It has been raining all day.
-= 雨下了一整天。
-现在完成进行时里用的也是 been。
-④ He is a has-been.
-= 他是个过气的人物。
-has-been = 过气的人物
-易混对照：
-have been to = 去过（回来了）
-have gone to = 去了（还没回）
-
 beep
 核心：电子设备发出的短促"嘀"声，也指按汽车喇叭的短鸣。
 名词动词同形。给人 beep 一下在口语里还指"打个传呼、按喇叭招呼"。
@@ -44648,21 +44569,6 @@ go begging = 无人问津
 第六层两义并存：逻辑学里指循环论证，
 日常口语里指「引出一个问题」，学界仍有争议。
 
-began
-核心：begin 的过去式，过去分词是 begun。三态 begin-began-begun
-是典型的 i-a-u 变化，跟 sing-sang-sung、drink-drank-drunk 同型。
-后面接 to do 或 doing 都行，意思差别极小。
-① The concert began at eight.
-= 音乐会八点开始。
-begin = 开始
-② She began to cry.
-= 她哭了起来。
-begin to do = 开始做某事
-③ It began raining hard.
-= 雨大了起来。
-begin doing = 开始做（接动名词也行）
-注意三态：begin / began / begun
-
 beget
 核心：两层。旧义指"生育"，多说父亲生子女，圣经译文里满是这个词。
 今天主要用引申义："引起、导致"，固定说法
@@ -44682,6 +44588,14 @@ beget = 生育（旧义，圣经用法）
 = 整个计划是他一手弄出来的。
 begetter = 生育者；创始人、始作俑者
 多用于比喻，指某件事的源头，褒贬都有。
+⑤ He is the only begotten son.
+= 他是那独生之子。
+only begotten = 独生的（宗教用语）
+begotten 是过去分词，今天几乎只活在这个说法与 begotten of 里。
+⑥ Hatred begotten of fear spreads fast.
+= 由恐惧生出的仇恨传得快。
+begotten of = 由某物生出的
+书面偏旧，日常改说 born of。
 
 beggar
 核心：底层是"乞讨的人"。作动词有一路很特别的用法：
@@ -44744,6 +44658,16 @@ the beginning = 开头
 ⑩ From the beginning, he doubted it.
 = 打一开始他就怀疑。
 from the beginning = 从一开始
+⑪ Work has begun on the bridge.
+= 大桥已经动工。
+have begun = 已经开始
+began = 过去式，单独作谓语
+begun = 过去分词，跟 have、has、had 或 be 连用
+这一对最容易弄混，判断只看前面有没有助动词。
+⑫ Well begun is half done.
+= 好的开始是成功的一半。
+well begun is half done = 良好的开端等于成功一半
+谚语，用的是过去分词形式。
 注意变位：
 begin / began / begun，三个形式各不相同。
 注意别混：
@@ -44835,36 +44759,6 @@ begonia
 注意语域：
 园艺植物名称。
 
-begot
-核心：beget 的过去式，古旧或书面用词，本义"生育子女"，
-主语通常是父亲，多见于圣经和族谱。今天真正在用的是比喻义：
-一件事"招来、引出"另一件事。过去分词是 begotten。
-① Abraham begot Isaac.
-= 亚伯拉罕生了以撒。
-beget = 生育（旧义）
-② Violence begot more violence.
-= 暴力招来更多暴力。
-比喻用法今天仍常见。
-③ His success begot envy.
-= 他的成功招来了嫉妒。
-beget = 招致、引出
-注意三态：beget / begot / begotten
-
-begotten
-核心：beget 的过去分词，几乎只活在固定说法里：
-only begotten son（独生子，宗教用语）、begotten of（由某物生出的）。
-日常写作里基本见不到，读旧文本才会碰上。
-① He is the only begotten son.
-= 他是那独生之子。
-only begotten = 独生的（宗教用语）
-② Hatred begotten of fear spreads fast.
-= 由恐惧生出的仇恨传得快。
-begotten of = 由某物生出的
-③ Those habits were begotten in childhood.
-= 那些习惯是童年里养成的。
-beget = 生育；招致
-注意语域：书面偏旧，日常改说 born of。
-
 begrudge
 核心：指"心里不情愿地给出去"或"眼红别人拥有"。
 两层都在说同一件事：给得不痛快。
@@ -44917,24 +44811,6 @@ a swaying rhythm = 摇摆的节奏
 注意别混：
 beguine = 贝京舞（舞曲）
 begin = 开始（同音，另一个词）
-
-begun
-核心：begin 的过去分词，用在完成时和被动里。
-最容易跟过去式 began 弄混：单独作谓语用 began，
-跟 have、has、had 或 be 连用才是 begun。
-谚语 well begun is half done 是"好的开始是成功的一半"。
-① Work has begun on the bridge.
-= 大桥已经动工。
-have begun = 已经开始
-② The meeting had begun without her.
-= 会议没等她就开始了。
-过去完成时里同样用 begun。
-③ Well begun is half done.
-= 好的开始是成功的一半。
-well begun is half done = 良好开端等于成功一半
-易混对照：
-began = 过去式（单独作谓语）
-begun = 过去分词（跟助动词连用）
 
 behalf
 核心：这个词已经"化石化"了——只活在几个固定介词短语里，不能单独
@@ -45070,21 +44946,6 @@ beheading = 斩首
 注意语域：
 历史与新闻用语，语义具体而沉重。
 
-beheld
-核心：behold 的过去式兼过去分词，书面或文学用词，
-指"看见、目睹"，暗含所见之物值得一看。
-日常一律说 saw。固定说法 to behold 意思是"看上去"。
-① They beheld a strange sight.
-= 他们看见了奇异的一幕。
-behold = 目睹（书面）
-② She was a wonder to behold.
-= 她美得叫人挪不开眼。
-a sight to behold = 值得一看的景象
-③ He beheld the city from the hill.
-= 他从山上望着这座城。
-注意语域：文学腔，日常用 saw。
-注意三态：behold / beheld / beheld
-
 behemoth
 核心：指"庞然大物"——大得吓人的东西，多说企业、机构、
 建筑或机器。名字出自《约伯记》里那头巨兽。
@@ -45166,6 +45027,14 @@ lo and behold = 没想到、你猜怎么着
 ③ Beauty is in the eye of the beholder.
 = 情人眼里出西施。
 the beholder = 观看的人
+④ They beheld a strange sight.
+= 他们看见了奇异的一幕。
+beheld = behold 的过去式兼过去分词
+三态 behold / beheld / beheld，两个过去形式同形。日常一律说 saw。
+⑤ She was a wonder to behold.
+= 她美得叫人挪不开眼。
+a sight to behold = 值得一看的景象
+这个固定说法里的 to behold 意思是「看上去」，是这个词今天最常出现的地方。
 注意语域：
 古雅用语，今天多用于戏谑或引用。
 
@@ -46634,7 +46503,6 @@ beseeching = 恳求的
 beseechingly = 哀求地
 ⑤ They besought him to reconsider.
 = 他们恳求他再考虑。
-besought = beseech 的古雅过去式
 
 beset
 核心：底层是"从四面围上来"。今天几乎只用被动：
@@ -46745,22 +46613,6 @@ be besotted with = 为…神魂颠倒
 = 痴迷的粉丝通宵排队。
 注意语域：
 带旁观者的调侃，暗示对方失了分寸。
-
-besought
-核心：beseech 的过去式兼过去分词，书面且偏旧，
-指"恳求、苦苦央求"，语气比 ask 重得多。
-现代也有人用规则形式 beseeched，两种都算对。
-① She besought him to stay.
-= 她苦苦求他留下。
-beseech = 恳求（书面）
-② He besought their forgiveness.
-= 他恳求他们的原谅。
-③ They besought help from the king.
-= 他们向国王求援。
-注意两种过去式：besought（传统）/ beseeched（现代）
-近义对照：
-besought = 恳求（文学腔）
-begged = 哀求（通用）
 
 bespatter
 核心：书面用词，指"溅得到处都是"，多半是泥、血、墨这类脏东西。
@@ -48081,6 +47933,14 @@ bid farewell = 道别（书面偏旧）
 ⑥ Do as you are bidden.
 = 照吩咐去做。
 吩咐义的过去分词，古旧。
+⑦ She bade them farewell.
+= 她跟他们道了别。
+bade = bid 的旧式过去式
+只用在「吩咐、道别」那一支上；「出价」那一支的三态仍是 bid / bid / bid。
+⑧ He bade her sit down.
+= 他叫她坐下。
+bid somebody do = 吩咐某人做（旧式，中间不加 to）
+过去分词是 bidden。今天几乎只出现在文学里。
 注意三态：
 出价义 bid / bid / bid
 吩咐义 bid / bade / bidden
@@ -51839,6 +51699,10 @@ bite back = 把话忍住不说
 ㉒ The industry bit back at the new rules.
 = 那个行业对新规则发起了反击。
 bite back = 反咬一口、回击
+㉓ She was bitten by a mosquito.
+= 她被蚊子叮了。
+be bitten by = 被……咬（叮）
+三态 bite / bit / bitten —— 中间那个是 bit，不是 bited，这一处最容易写错。
 注意三态：bite / bit / bitten
 词族：
 biting = 刺骨的；尖刻的
@@ -51947,25 +51811,6 @@ corrupt = 损坏（数据）
 词族：
 bit = 位（最小的信息单位）
 byte = 字节（八位）
-
-bitten
-核心：bite 的过去分词，三态是 bite / bit / bitten——注意中间那个
-是 bit，不是 bited，也不要把 bit 和 bitten 用反：完成时和被动都用
-bitten。它还能当形容词用，说被咬得厉害。
-① He has been bitten by a dog.
-= 他被狗咬了。
-被动语态用 bitten。
-② Her legs were badly bitten.
-= 她腿上被叮得很厉害。
-badly bitten = 咬得厉害、叮得厉害
-③ Once bitten, twice shy.
-= 一朝被蛇咬，十年怕井绳。
-谚语，这里的 bitten 就是过去分词。
-④ He was bitten by the travel bug.
-= 他迷上了旅行。
-be bitten by the bug = 迷上了某件事
-构词：bite 的过去分词
-注意三态：bite / bit / bitten
 
 bitter
 核心：底层是舌头尝到的"苦"，其余各支都是这个味觉往外扩的比喻。
@@ -54325,27 +54170,6 @@ a mixed blessing = 喜忧参半的事
 词族：
 bless = 祝福
 
-blew
-核心：blow 的过去式，三态是 blow / blew / blown。它自己没有独立
-意思，所有用法都跟着 blow 走——吹风、吹灭、吹奏、爆胎、
-搞砸机会，过去式一律用 blew。注意跟同音的 blue 分开，
-两个词只是读音撞了。
-① The wind blew all night.
-= 风刮了一整夜。
-② She blew out the candles.
-= 她吹灭了蜡烛。
-blow out = 吹灭
-③ He blew his big chance.
-= 他把大好机会搞砸了。
-blow a chance = 错失良机
-④ The tyre blew on the motorway.
-= 轮胎在高速上爆了。
-构词：blow 的过去式
-注意三态：blow / blew / blown
-注意别混：
-blew = blow 的过去式
-blue = 蓝色的（同音不同词）
-
 blight
 核心：底层是农业上的病害——作物成片枯死发黑，马铃薯晚疫病就是
 potato blight。从"整片毁掉"引申出两支常用义：动词的"毁掉、拖累"，
@@ -56442,6 +56266,14 @@ blow off = 吹掉；美式口语里指放某人鸽子、不当回事
 ㉖ The script replaces blow job with something milder.
 = 剧本把那个粗俗说法换成了温和些的。
 blow job = 口交（粗俗俚语，知道意思即可，不用于任何正式场合）
+㉗ A gale blew all night.
+= 大风刮了一整夜。
+blew = blow 的过去式（三态 blow / blew / blown）
+它自己没有独立意思，blow 的哪一支都用同一个过去式。
+㉘ The vase is blown glass.
+= 那只花瓶是吹制玻璃。
+blown glass = 吹制玻璃
+blown 是过去分词，也单独作形容词，意思跟着 blow 的哪一支走。
 构词：古英语 blawan
 注意三态：blow / blew / blown
 词族：
@@ -56547,24 +56379,6 @@ strip paint = 去漆
 注意地域：
 blowlamp = 喷灯（英式）
 blowtorch = 喷灯（美式）
-
-blown
-核心：blow 的过去分词，三态是 blow / blew / blown。它还常单独作
-形容词用，意思跟着 blow 的哪一支走：blown glass 是吹制的玻璃，
-a blown tyre 是爆掉的轮胎，blown fuse 是烧断的保险丝。
-① The candle had been blown out.
-= 蜡烛已经被吹灭了。
-被动语态用 blown。
-② It is hand-blown glass.
-= 那是手工吹制的玻璃。
-hand-blown glass = 手工吹制玻璃
-③ They changed a blown tyre.
-= 他们换了个爆掉的轮胎。
-a blown tyre = 爆掉的轮胎
-④ A blown fuse cut the power.
-= 保险丝烧断，断了电。
-构词：blow 的过去分词
-注意三态：blow / blew / blown
 
 blowout
 核心：四支，都从"猛地冲破"来。轮胎爆掉是最常见的一支；油井
@@ -61203,28 +61017,6 @@ born-again = 重生的（基督教）；也指狂热皈依某事的
 注意用法：只用被动 be born，
 主动要说 give birth to。
 
-borne
-核心：bear 的另一个过去分词，跟 born 同源却分了工：说"出生"
-用 born，其余一切意思用 borne——承受过、运载过、结出过。
-另有一个高频构词：接在名词后面表示"由某物传播的"，
-airborne 是空气传播的，waterborne 是水传播的。
-① She has borne great hardship.
-= 她承受过极大的艰难。
-承受那一支用 borne。
-② The costs were borne by the company.
-= 那些费用由公司承担。
-be borne by = 由某方承担
-③ The disease is airborne.
-= 那种病经空气传播。
-airborne = 空气传播的；升空的
-④ It is a waterborne infection.
-= 那是一种经水传播的感染。
-waterborne = 经水传播的
-构词：bear 的过去分词
-注意别混：
-born = 出生（只用于这一个意思）
-borne = 承受、运载、传播（其余一切意思）
-
 boron
 核心：非金属元素，符号 B，硬而脆。它不以单质出现，
 自然界里都以硼砂这类化合物存在。用途集中在玻璃和陶瓷——
@@ -61974,29 +61766,6 @@ gale = 大风
 bough = 大树枝（偏文学）
 branch = 树枝（日常通用）
 twig = 细枝
-
-bought
-核心：buy 的过去式和过去分词，三态是 buy / bought / bought，
-两个位置都用同一个形。它自己没有独立意思，跟着 buy 走——
-买东西、收买人、相信某个说法（口语的 I don't buy it），
-过去式一律用 bought。注意它跟 bough（大树枝）拼写只差一个
-字母，读音也不同，别写混。
-① She bought a new phone.
-= 她买了部新手机。
-② The tickets were bought online.
-= 那些票是网上买的。
-被动语态也用 bought。
-③ He has bought into the idea.
-= 他接受了那个说法。
-buy into = 认同、接受（口语）
-④ Nobody bought his excuse.
-= 没人信他那套借口。
-buy = 相信（口语用法）
-构词：buy 的过去式与过去分词
-注意三态：buy / bought / bought
-注意别混：
-bought = 买（buy 的过去式）
-bough = 大树枝（拼写相近，读音不同）
 
 bouillabaisse
 核心：法国南部马赛一带的杂鱼汤，用当天卖不掉的小杂鱼加番红花、
@@ -65401,27 +65170,6 @@ a breathtaking performance = 令人屏息的演出
 构词：breath 呼吸 + taking 夺走
 注意用法：可褒可贬，反用时只保留"程度惊人"。
 
-bred
-核心：breed 的过去式和过去分词，三态是 breed / bred / bred。
-它还大量用作形容词的后半截，前面加个副词说明"怎么养出来的"：
-well-bred 是有教养的，ill-bred 是没教养的，
-purebred 是纯种的，home-bred 是本地养的。
-习语 born and bred 是土生土长。
-① They bred horses for racing.
-= 他们养马是为了赛马。
-breed 的过去式。
-② The dog was bred from champions.
-= 那条狗是冠军犬配出来的。
-be bred from = 由某些亲本配育而来
-③ He is London born and bred.
-= 他是伦敦土生土长的。
-born and bred = 土生土长
-④ She comes from a well-bred family.
-= 她出身有教养的人家。
-well-bred = 有教养的
-构词：breed 的过去式与过去分词
-注意三态：breed / bred / bred
-
 breech
 核心：两支。一是枪炮的后膛：装弹药的那一头，跟枪口那头
 相对；breech-loading 是后膛装填，比从枪口塞进去的前膛枪
@@ -65482,6 +65230,10 @@ breed = 滋生、招致
 ⑥ Familiarity breeds contempt.
 = 越熟越不当回事。
 谚语：亲近久了反而生轻慢。
+⑦ He is a well-bred young man.
+= 他是个有教养的年轻人。
+well-bred = 有教养的
+bred 大量用作复合形容词的后半截，前面加个副词说明「怎么养出来的」。
 构词：古英语 brēdan 孵育
 注意三态：breed / bred / bred
 
@@ -66604,6 +66356,7 @@ bring out in = 使起（疹子、汗）
 bring round to = 把某人说服转到某个看法（round 与 around 通用）
 构词：古英语 bringan
 注意三态：bring / brought / brought
+brought = bring 的过去式与过去分词，两个位置同一个形
 注意别混：
 bring = 往说话人这边带
 take = 从这边拿到别处去
@@ -68054,25 +67807,6 @@ the driver's seat = 车夫座
 be named after = 以……命名
 构词：英国政治家 Lord Brougham 的姓
 注意读音：拼写与读音差得远，读作两个音节。
-
-brought
-核心：bring 的过去式和过去分词，两个位置同一个形。它自己没有
-独立意思，跟着 bring 走——带来、引起、抚养长大、促成，
-过去式一律用 brought。注意它跟 bought（buy 的过去式）
-只差一个 r，两个词都高频，最容易写混。
-① She brought the children with her.
-= 她把孩子们带来了。
-② The storm brought down power lines.
-= 那场风暴刮断了电线。
-bring down = 刮倒、弄垮
-③ He was brought up by his grandmother.
-= 他是祖母带大的。
-④ The reform was brought about slowly.
-= 那项改革是慢慢促成的。
-构词：bring 的过去式与过去分词
-注意别混：
-brought = 带来（bring 的过去式）
-bought = 买（buy 的过去式，少一个 r）
 
 brouhaha
 核心：一阵吵吵嚷嚷的骚动——多是为了一件其实没那么大的事
@@ -69808,6 +69542,16 @@ build onto = 在原有建筑上加建
 ⑩ The film builds up to a twist.
 = 那部片子层层铺垫到一个反转。
 build up to = 逐步铺垫到
+⑪ The wall was built to last.
+= 那堵墙是照着经久耐用造的。
+be built to last = 造得经久耐用
+built 也大量作复合形容词的后半截：well-built、purpose-built、custom-built 都是。
+⑫ The flat has built-in wardrobes.
+= 那套房子有内置衣柜。
+built-in = 内置的、做进结构里的
+built-up = 建筑密集的（a built-up area 是建成区，限速就按这个定）
+custom-built = 按买家要求专造的
+这一族都拿过去分词作后半截。
 构词：古英语 byldan
 注意三态：build / built / built
 词族：
@@ -69865,30 +69609,6 @@ be owned by = 归……所有
 注意别混：
 building society = 会员共有的储贷机构（英式）
 bank = 银行（股东所有）
-
-built
-核心：build 的过去式和过去分词，三态是 build / built / built。
-它还大量作形容词用，前面加个词说明"怎么造的"或"怎么长的"：
-built-in 是内置的，purpose-built 是为特定用途专门造的，
-well-built 说人是身材壮实、说房子是造得结实，
-custom-built = 定制的（按买家要求专造）
-① The house was built in 1890.
-= 那栋房子建于一八九零年。
-被动语态用 built。
-② The flat has built-in wardrobes.
-= 那套房带内置衣柜。
-built-in = 内置的
-③ The hall is purpose-built.
-= 那个厅是为此专门建的。
-purpose-built = 为特定用途专建的
-④ He is tall and well-built.
-= 他个子高、身板结实。
-well-built = 身材结实的；造得结实的
-⑤ They live in a built-up area.
-= 他们住在建筑密集区。
-built-up = 建筑密集的；也指累积起来的
-构词：build 的过去式与过去分词
-注意三态：build / built / built
 
 bulb
 核心：两支，共通处是那个圆鼓鼓的形状。一是灯泡；
@@ -73267,6 +72987,7 @@ buy off = 花钱把人摆平
 buy somebody something = 给某人买某物
 构词：古英语 bycgan
 注意三态：buy / bought / bought
+bought = buy 的过去式与过去分词，两个位置同一个形
 
 buyer
 核心：两支。一是买东西的人，跟 seller 成对；
@@ -75701,21 +75422,6 @@ tape = 磁带
 replace = 取代
 构词：由摄像与录像机两词各取一半拼成
 注意用法：如今多出现在怀旧的语境里。
-
-came
-核心：come 的过去式。三态是原形、came、原形——过去
-分词跟原形同形，只有过去式变，写作时最容易在这里出错。
-它本身不另有意思，见到就当那个动词读。
-① She came home late.
-= 她很晚才回到家。
-came = 过去式形式
-② They came to an agreement.
-= 他们达成了一致。
-came to an agreement = 达成了一致
-③ The idea came to him on the train.
-= 那个念头是他在火车上想到的。
-came to somebody = 某人忽然想到
-注意用法：过去分词不是这个形式，别写错。
 
 camel
 核心：骆驼，单峰的叫 dromedary，双峰的叫 Bactrian。
@@ -80890,8 +80596,17 @@ a catch crop = 间隙抢种的作物
 ㉔ Run or you will not catch the bus.
 = 快跑，不然赶不上车。
 catch the bus = 赶上公交
+㉕ We were caught in the rain.
+= 我们被雨淋着了。
+be caught in = 被（雨、堵车、火灾）赶上、困住
+三态 catch / caught / caught，过去式与过去分词同形。这个被动式很常用。
+㉖ She got caught up in the argument.
+= 她被卷进了那场争执。
+be caught up in = 被卷进、陷进（某件事）
+宾语多是纷争、丑闻、热潮这类事；也说被某件事迷住而抽不开身。
 构词：古法语 cachier 追捕
 注意用法：三态是 catch－caught－caught。
+caught = catch 的过去式与过去分词
 
 Catch-22
 核心：无解的两难：想脱身就得满足某个条件，而那个条件本身要求你先
@@ -81380,26 +81095,6 @@ a caucus = 议员小组
 caucus = 开党团会议
 构词：可能出自北美原住民语言里表示顾问的词
 注意用法：美式政治里最常见。
-
-caught
-核心：catch 的过去式与过去分词，两个都写成这一个形式。
-被动式很常用：be caught in the rain 是被雨淋着，
-be caught doing 是被抓到正在做某事。
-① She caught the ball.
-= 她接住了球。
-caught = 过去式形式
-② We were caught in the rain.
-= 我们被雨淋了。
-be caught in the rain = 被雨淋着
-③ He was caught lying.
-= 他撒谎被抓住了。
-be caught doing = 被抓到正在做某事
-④ She got caught up in the argument.
-= 她被卷进了那场争执。
-be caught up in = 被卷进、陷进（某件事）
-宾语多是纷争、丑闻、热潮这类事；也说被某件事迷住而抽不开身。
-构词：那个动词的不规则过去形式
-注意用法：过去式与过去分词同形。
 
 cauldron
 核心：大锅：架在火上的圆肚铁锅，多出现在女巫与民间故事
@@ -88227,6 +87922,10 @@ choosy = 挑剔的
 = 讨饭的没得挑。
 beggars can not be choosers = 讨饭的没得挑
 a chooser = 挑挑拣拣的人（几乎只出现在这句习语里）
+⑨ Only the chosen few were invited.
+= 只有少数选中的人受了邀请。
+the chosen few = 少数被选中的人
+chosen 是过去分词，这里当形容词用，带一点「特权」的意味。
 构词：古英语 ceosan 选择
 注意用法：三态不规则，是最容易写错的地方。
 
@@ -88485,25 +88184,6 @@ a chorus girl = 歌舞队女演员
 a chorus line = 一字排开的歌舞队
 构词：希腊语 khoros 舞队
 注意用法：副歌与众口一声两支最常读到。
-
-chose
-核心：表示挑选那个动词的过去式；过去分词是 chosen。
-这两个形式不规则，写作时最容易错。chosen 也用作
-形容词：the chosen few 是挑出来的少数几个。
-① She chose the blue one.
-= 她挑了蓝的那个。
-chose = 过去式形式
-② They have chosen a name.
-= 他们已经定了名字。
-chosen = 过去分词形式
-③ Only the chosen few were told.
-= 只有挑出来的少数几个人知道。
-the chosen few = 挑出来的少数人
-④ He was the chosen one.
-= 他就是被选中的那个。
-the chosen one = 被选中的那个人
-构词：那个动词的不规则过去形式
-注意用法：过去式与过去分词形式不同，别混用。
 
 chough
 核心：一种黑羽的乌鸦科鸟：喙与腿是红或黄的，住在海崖
@@ -92064,6 +91744,10 @@ cling film = 保鲜膜（英式）
 ⑥ He clings on to the old title.
 = 他死抱着那个旧头衔。
 cling on to = 死抱着不放
+⑦ The child clung to her mother's hand.
+= 那孩子紧攥着母亲的手。
+clung = cling 的过去式与过去分词
+三态 cling / clung / clung，两个过去形式同形。
 构词：古英语 clingan
 注意用法：过去式与过去分词都是 clung。
 
@@ -92986,22 +92670,6 @@ clumsily = 笨拙地
 clumsiness = 笨拙
 构词：古诺斯语 klumsa 冻僵得动不了
 注意用法：说译文与措辞别扭那一支很常读到。
-
-clung
-核心：表示紧抓那个动词的过去式与过去分词：三态是
-cling－clung－clung，两个过去形式同形。它本身不另有
-意思。
-① She clung to the rail.
-= 她死抓着栏杆。
-clung = 过去式形式
-② They had clung together for years.
-= 他们多年相依。
-had clung = 过去分词形式
-③ The smell clung to his coat.
-= 那股味道留在他外套上。
-cling to = 黏附在……上
-构词：那个动词的不规则过去形式
-注意用法：过去式与过去分词同形。
 
 clunk
 核心：钝重的一声金属或重物落响，动词与名词同形。派生
@@ -96164,6 +95832,7 @@ come up to = 达到（标准、预期）
 come upon = 偶然发现、碰上
 比 come across 正式、偏书面；感觉突然袭来也用它：a strange fear came upon him。
 构词：古英语 cuman
+came = come 的过去式（过去分词跟原形同形，只有过去式变）
 注意用法：短语动词是这个词的重心，介词决定方向。
 
 comeback
@@ -97521,3 +97190,544 @@ communications = 通信系统
 lines of communication = 沟通渠道；补给线
 构词：communicate 传达 + -ion
 注意用法：作沟通讲不可数，作函件讲可数。
+
+communicative
+核心：两支。一是话多、愿意开口的，说人不闷，实际用起来
+常带否定；二是语言教学里的术语，communicative approach
+指以实际交流为主的教学法。
+① He was not very communicative.
+= 他不太爱开口。
+communicative = 愿意开口交谈的
+② She becomes communicative after a drink.
+= 她喝一杯就话多了。
+communicative = 话多的
+③ They use a communicative approach.
+= 他们用的是交际教学法。
+a communicative approach = 交际教学法
+④ The course aims at communicative competence.
+= 那门课的目标是交际能力。
+communicative competence = 交际能力（不只语法对，还要说得得体）
+语言教学的核心概念，跟这一条的交际教学法出自同一套主张。
+构词：communicate 交流 + -ive
+注意用法：说人时常用否定式。
+
+communion
+核心：两支。大写的 Communion 是基督教的圣餐礼，
+take Communion 是领圣餐；小写泛指心灵相通、深切交流。
+也指同一信仰的教派团体。不可数。
+① She took Communion on Sunday.
+= 她周日领了圣餐。
+take Communion = 领圣餐
+② He felt a communion with the land.
+= 他觉得跟那片土地心意相通。
+a communion with = 与……的心灵相通
+③ The Anglican Communion spans many countries.
+= 圣公宗遍及许多国家。
+a communion = 同一信仰的教派团体
+构词：拉丁语 communio 共有
+注意用法：指圣餐礼时常大写。
+
+communique
+核心：公报：政府、军方或会议正式发布的简短声明，多用在
+外交场合。也写作 communiqué，带重音符。可数。
+① The summit issued a joint communique.
+= 峰会发表了联合公报。
+a joint communique = 联合公报
+② The communique was deliberately vague.
+= 那份公报有意说得含糊。
+a communique = 公报
+③ No communique was issued after the talks.
+= 会谈之后没有发公报。
+issue a communique = 发表公报
+构词：法语 communiqué 已传达的
+注意拼写：也写作 communiqué。
+
+communism
+核心：共产主义：主张生产资料公有、按需分配的政治经济
+学说。大写时特指二十世纪苏联与东欧那套体制。不可数。
+① He studied the history of communism.
+= 他研究共产主义的历史。
+communism = 共产主义
+② Communism collapsed in Eastern Europe.
+= 东欧那套体制垮了。
+communism = 苏东体制（大写时）
+③ He broke with communism in the fifties.
+= 他五十年代跟共产主义决裂了。
+break with communism = 与共产主义决裂
+构词：拉丁语 communis 公共的
+注意用法：特指苏东体制时大写。
+
+communist
+核心：共产主义者，也作形容词。大写时指共产党的、党员的。
+口语里的蔑称是 commie。可数。
+① She is a lifelong communist.
+= 她一辈子是共产主义者。
+a communist = 共产主义者
+② The Communist Party held a congress.
+= 共产党开了代表大会。
+the Communist Party = 共产党
+③ He holds communist views.
+= 他持共产主义观点。
+communist = 共产主义的
+构词：communism 共产主义 + -ist
+注意用法：指政党时大写。
+
+community
+核心：几支。一是社区：住在一处的一群人，也指那份归属感；
+二是有共同点的群体：the scientific community 科学界；
+三是生态学里的群落。复合搭配一大把：community centre
+社区活动中心、community service 社区服务。可数。
+① The whole community turned out.
+= 整个社区都来了。
+a community = 社区
+② There is a strong sense of community.
+= 那里归属感很强。
+a sense of community = 归属感
+③ The scientific community was sceptical.
+= 科学界持怀疑态度。
+the scientific community = 科学界
+④ He was sentenced to community service.
+= 他被判社区服务。
+community service = 社区服务（也指法院判的劳动）
+⑤ They met at the community centre.
+= 他们在社区活动中心见面。
+a community centre = 社区活动中心
+⑥ He was given a community order instead of prison.
+= 他没被关进监狱，判的是社区矫正令。
+a community order = 社区矫正令（英式）；a community sentence = 同一回事的另一种说法
+都指不进监狱、在社区里服的刑，跟这一条里的 community service 是同一支。
+⑦ Community care keeps people out of institutions.
+= 社区照护让人不必住进机构。
+community care = 社区照护（在家与社区里提供的照料）
+英国的政策用语，跟把人送进大机构统一照管的老做法相对。
+⑧ The community hospital has only forty beds.
+= 那家社区医院只有四十张床。
+a community hospital = 社区医院（小型、就近）
+不做大手术，管日常诊疗与康复，跟大医院分工不同。
+⑨ She did two years at a community college.
+= 她在社区学院念了两年。
+a community college = 社区学院（美式，两年制）；a community school = 兼办成人课程的社区学校（英式）
+两个词的共同点是「向本地开放」，但学段与国别都不一样。
+⑩ The course uses community language learning.
+= 那门课用的是社群语言学习法。
+community language learning = 社群语言学习法
+外语教学的一个流派：学员围坐着想说什么，老师当场译成外语。
+⑪ Community policing depends on knowing the neighbourhood.
+= 社区警务靠的是熟悉街坊。
+community policing = 社区警务
+警察长驻一片地方、跟居民打交道，跟接警出动式的巡逻相对。
+⑫ She works as a community organizer.
+= 她是社区组织者。
+a community organizer = 社区组织者
+美式用词，指把居民组织起来向当局争取的那种人。
+⑬ They turned the empty lot into a community garden.
+= 他们把那块空地改成了社区菜园。
+a community garden = 社区菜园（居民合种的一片地）
+美式常用；英国类似的东西叫 allotment，区别是各人分一小块、不合种。
+⑭ The community theater puts on two plays a year.
+= 那家社区剧团一年演两出戏。
+a community theater = 社区剧团（美式拼法）
+业余演员为主、面向本地观众；英式拼作 community theatre。
+⑮ California is a community property state.
+= 加利福尼亚是夫妻共同财产州。
+community property = 夫妻共同财产（美国部分州的法律制度）
+婚内所得双方各半，离婚时照此分。只有一部分州行这套，所以要说 a community property state。
+⑯ The community church draws people from three villages.
+= 那所社区教堂的信众来自三个村子。
+a community church = 不隶属某个教派的社区教堂
+美式常见，强调面向本地、不分宗派。
+构词：拉丁语 communitas 共有
+注意用法：指群体时前面常加限定语。
+
+commutative
+核心：数学词：满足交换律的，指运算两边对调结果不变。
+加法与乘法是这样，减法与除法不是。
+① Addition is commutative.
+= 加法满足交换律。
+commutative = 满足交换律的
+② Subtraction is not commutative.
+= 减法不满足交换律。
+not commutative = 不满足交换律
+③ The commutative law lets you swap the two.
+= 交换律容许把那两个对调。
+the commutative law = 交换律
+构词：commute 对调 + -ative
+注意语域：数学术语。
+
+commutator
+核心：电机里的换向器：一圈铜片，随转子转动不断切换电流
+方向，直流电机靠它才能一直转下去。数学的群论里另指
+换位子。可数，专业词。
+① The commutator sparks under load.
+= 换向器带载时打火花。
+a commutator = 换向器
+② Brushes press against the commutator.
+= 电刷压在换向器上。
+a brush = 电刷
+③ A worn commutator makes the motor stutter.
+= 换向器一磨损，马达就一顿一顿的。
+a worn commutator = 磨损的换向器
+构词：commute 对调 + -ator
+注意语域：电机与数学的专业词。
+
+commute
+核心：三支的共同点是「换成另一样」。一是通勤：每天往返
+住处与上班的地方，人叫 commuter，那段路叫 the commute；
+二是法律上减刑：把重刑换成轻刑；三是把一种支付或义务折
+换成另一种，名词 commutation。形容词 commutable 指可折
+换的，也指路程上可通勤的。
+① She commutes from Reading.
+= 她每天从雷丁通勤。
+commute from = 从……通勤
+② My commute takes an hour.
+= 我上班路上要一小时。
+a commute = 通勤路程
+③ Commuters packed the platform.
+= 通勤族挤满了站台。
+a commuter = 通勤者
+④ The sentence was commuted to life.
+= 那个刑罚被减为无期。
+commute a sentence = 减刑
+⑤ Commutation of the death penalty is rare.
+= 死刑减刑很少见。
+commutation = 减刑；折换
+⑥ The pension is commutable to a lump sum.
+= 那笔养老金可以折成一次性支付。
+commutable = 可折换的；也指路程可通勤的
+构词：拉丁语 commutare 换掉
+注意用法：通勤那支不及物，减刑那支及物。
+
+Comoran
+核心：科摩罗的、科摩罗人。国名 the Comoros 恒用复数加定冠词，
+派生词却是单数形式。也拼 Comorian。可数。
+① A Comoran crew rescued them.
+= 一队科摩罗船员救了他们。
+a Comoran = 科摩罗人
+② Comoran vanilla is a major export.
+= 科摩罗的香草是主要出口货。
+Comoran vanilla = 科摩罗香草
+构词：国名去掉复数词尾再加 -an
+注意拼写：Comorian 是另一种通行写法。
+
+comp
+核心：口语的短形式，几支各有各的来路。一是赠券赠票：
+comp tickets 是免费招待票，动词是免单招待；二是美式在
+房产与投资里说的可比案例，多用复数 comps；三是音乐里
+给独奏者伴奏。可数。
+① They gave us comp tickets.
+= 他们给了我们招待票。
+comp tickets = 免费招待票
+② The manager comped our meal.
+= 经理给我们免了单。
+comp somebody = 给某人免单招待
+③ Agents look at recent comps.
+= 中介会看近期的可比成交。
+comps = 可比案例（美式）
+④ The pianist comped behind the singer.
+= 钢琴手给歌手作伴奏。
+comp = 伴奏
+构词：由几个同样以这三个字母开头的长词各自截短而来
+注意语域：口语与行业内部用词。
+
+compact
+核心：三支，重音还不一样。形容词是紧凑的：占地小而齐全。
+动词是压实，及物，重音在后。名词一是粉盒，二是正式的
+协定。副词 compactly，名词 compactness，压实机叫
+compactor。
+① The flat is small but compact.
+= 那套房子不大但很紧凑。
+compact = 紧凑的
+② They drive a compact car.
+= 他们开辆紧凑型车。
+a compact car = 紧凑型车
+③ Machines compact the soil.
+= 机器把土压实。
+compact = 压实
+④ She snapped her compact shut.
+= 她啪地合上粉盒。
+a compact = 粉盒
+⑤ The states signed a compact.
+= 那几个州签了协定。
+a compact = 协定
+⑥ Everything is compactly arranged.
+= 东西摆得很紧凑。
+compactly = 紧凑地
+⑦ The compactness of the design impressed her.
+= 那个设计的紧凑让她佩服。
+compactness = 紧凑
+⑧ A compactor crushes the waste.
+= 压实机把垃圾压碎。
+a compactor = 压实机
+⑨ The album came out on compact disc in 1985.
+= 那张专辑一九八五年出了激光唱片版。
+a compact disc = 激光唱片（缩写 CD）
+全称今天几乎不写，一律说 CD；compact 那半截说的是它比黑胶小得多。
+构词：拉丁语 compactus 压紧的
+注意读音：形容词与名词重音在前，动词重音在后。
+
+compadre
+核心：美式口语里的哥们儿，从西班牙语借来。本义是教父与
+孩子父母之间的互称，进英语后就是熟不拘礼的朋友。可数，
+带点玩笑气。
+① He greeted his old compadre.
+= 他跟老哥们儿打招呼。
+a compadre = 哥们儿
+② The two were compadres for years.
+= 那两人多年的交情。
+compadres = 老搭档、老朋友
+③ He calls everyone compadre.
+= 他管谁都叫哥们儿。
+call somebody compadre = 管某人叫哥们儿
+构词：西班牙语 compadre 教父
+注意语域：美式口语，带玩笑气。
+
+companion
+核心：同伴：陪着一起做事或一起走的人；旧时还指受雇陪伴
+老人的女伴。引申两支：配套的一本书或一件东西；船上通往
+下层的舱梯叫 companionway。形容词 companionable 是好相
+处的，副词 companionably，名词 companionship 是有伴的
+那份感觉。
+① She was his constant companion.
+= 她一直陪在他身边。
+a companion = 同伴
+② A lady's companion lived in.
+= 一位受雇的女伴住在家里。
+a companion = 受雇陪伴的女伴
+③ The dictionary has a companion volume.
+= 那部词典有一本姊妹篇。
+a companion volume = 姊妹篇
+④ He is a companionable sort.
+= 他是那种好相处的人。
+companionable = 好相处的
+⑤ They sat companionably by the fire.
+= 他们和和气气地坐在火边。
+companionably = 融洽地
+⑥ She missed the companionship.
+= 她想念有人做伴的日子。
+companionship = 有人做伴的感觉
+⑦ He went down the companionway.
+= 他顺着舱梯下去了。
+a companionway = 船上通往下层的舱梯
+⑧ Vets now say companion animal rather than pet.
+= 兽医现在说伴侣动物，不说宠物。
+a companion animal = 伴侣动物
+专业与倡权文字里用来替代 pet 的说法，强调是同伴而不是所有物。
+构词：拉丁语 com- 共 + panis 面包，本义是一起吃面包的人
+注意用法：陪伴女伴那一支是旧义。
+
+company
+核心：几支。一是公司；二是陪伴、有人做伴，不可数；
+三是客人，也不可数；四是一队人：剧团、军队的连。
+习语 present company excepted 是在座的除外。
+① She runs a small company.
+= 她开着家小公司。
+a company = 公司
+② I will keep you company.
+= 我陪着你。
+keep somebody company = 陪伴某人
+③ We are expecting company.
+= 我们有客人要来。
+company = 客人
+④ The theatre company is touring.
+= 那个剧团在巡演。
+a theatre company = 剧团
+⑤ He commands a company of infantry.
+= 他指挥一个步兵连。
+a company = 连（军队编制）
+⑥ Present company excepted, of course.
+= 当然，在座的除外。
+present company excepted = 在座的除外
+⑦ They parted company after ten years.
+= 十年之后他们分道扬镳。
+part company = 分道扬镳
+⑧ If you find it hard, you are in good company.
+= 觉得难的不止你一个。
+be in good company = 跟你一样的人不少
+⑨ The job comes with a company car.
+= 那份工作配一辆公司车。
+a company car = 公司配给员工的车
+英式招聘广告里的常见待遇条目，跟薪水并列写。
+⑩ The company sergeant major called them to order.
+= 连队军士长喝令他们列队。
+a company sergeant major = 连队军士长（英军）
+军衔名，缩写 CSM；这里的 company 用的是「连」那一支。
+⑪ It was a company town until the mill closed.
+= 工厂关掉之前，那里是座企业城。
+a company town = 企业城（住房与生计都归一家企业）
+多带负面意味，说的是一家独大、居民没有别的选择。
+构词：拉丁语 com- 共 + panis 面包
+注意用法：作陪伴与客人讲时不可数。
+
+comparable
+核心：可比的：两样东西在某方面够得上放一起比。介词用
+to 或 with。名词 comparability。重音在第一个音节，
+跟 compare 不一样。
+① The two cases are comparable.
+= 那两个案子可以放一起比。
+comparable = 可比的
+② Her salary is comparable to his.
+= 她的薪水跟他的差不多。
+comparable to = 与……相当
+③ Comparability across countries is poor.
+= 各国之间的可比性很差。
+comparability = 可比性
+构词：compare 比较 + -able
+注意读音：重音在第一个音节。
+
+comparative
+核心：三支。一是比较研究的：comparative literature 是
+比较文学；二是相对的：跟别的情形比起来算怎样；三是语法
+上的比较级，前面加 the。副词 comparatively 是相对来说。
+① She teaches comparative literature.
+= 她教比较文学。
+comparative literature = 比较文学
+② They live in comparative comfort.
+= 他们过得相对舒适。
+comparative comfort = 相对的舒适
+③ Add the ending to form the comparative.
+= 加上词尾就构成比较级。
+the comparative = 比较级
+④ The test was comparatively easy.
+= 那场考试相对容易。
+comparatively = 相对来说
+⑤ Comparative linguistics traces how languages are related.
+= 比较语言学追查语言之间的亲缘关系。
+comparative linguistics = 比较语言学
+跟这一条的比较文学是同一种构词：这个形容词加上一门学科的名字。
+构词：compare 比较 + -ative
+注意用法：语法义前面加 the。
+
+compare
+核心：两支要靠介词分清。compare with 是比较异同、放在
+一起称量；compare to 是比作、说像。被动的 compared with
+与 compared to 都常用，意思是相比之下。习语 beyond
+compare 是无与伦比。
+① Compare the two texts carefully.
+= 把那两个文本仔细比一比。
+compare = 比较
+② He compared her smile to sunlight.
+= 他把她的笑比作阳光。
+compare to = 比作
+③ Compared with last year, sales are up.
+= 跟去年比，销量涨了。
+compared with = 与……相比
+④ Her cooking is beyond compare.
+= 她的手艺无与伦比。
+beyond compare = 无与伦比
+⑤ Nothing compares with a good night of sleep.
+= 什么都比不上睡个好觉。
+compare with = 比得上
+构词：拉丁语 comparare 使成对
+注意搭配：说异同用 with，说比作用 to。
+
+comparison
+核心：比较这件事，也指比较的说法与结果。常见搭配：
+in comparison with 相比之下、by comparison 比起来、
+make a comparison 作比较、there is no comparison 是
+根本没法比。可数不可数都行。
+① Let us make a comparison.
+= 我们比一比。
+make a comparison = 作比较
+② In comparison with last year, it is cheap.
+= 跟去年比这算便宜。
+in comparison with = 与……相比
+③ By comparison, the second half was dull.
+= 相比之下，下半场很闷。
+by comparison = 相比之下
+④ There is no comparison between them.
+= 那两个根本没法比。
+there is no comparison = 根本没法比
+⑤ She comparison-shops for everything.
+= 她买什么都要货比三家。
+comparison-shop = 货比三家（动词）；comparison shopping = 货比三家这件事
+都是美式说法，英式多直接说 shop around。
+⑥ He booked it through a comparison site.
+= 他是通过比价网站订的。
+a comparison site = 比价网站
+英式常用，全称 price comparison website。
+构词：compare 比较 + -ison
+注意搭配：介词用 with，也用 to。
+
+compartment
+核心：隔开的一格：车厢里的包间、箱包里的分格、冰箱的
+冷冻格都算。引申指心里分开存放的那一块。可数。
+① They shared a train compartment.
+= 他们同乘一个车厢包间。
+a compartment = 车厢包间
+② The bag has a padded compartment.
+= 那个包有个带衬垫的隔层。
+a compartment = 隔层
+③ He keeps work in a separate compartment.
+= 他把工作单放在心里的一格。
+a separate compartment = 单独隔开的一格
+构词：拉丁语 compartiri 分开
+注意用法：可数。
+
+compartmentalize
+核心：把事情或情绪分格隔开、互不相通，多说人把工作与
+私生活截然分开。名词 compartmentalization，英式也拼
+compartmentalise。及物。
+① He compartmentalizes work and home.
+= 他把工作和家分得很开。
+compartmentalize = 分格隔开
+② Feelings were compartmentalized away.
+= 情绪被单独隔起来搁着。
+be compartmentalized = 被隔开搁置
+③ Such compartmentalization has a cost.
+= 这样分格隔开是有代价的。
+compartmentalization = 分格隔开
+构词：compartment 隔间 + -alize
+注意拼写：英式也拼 compartmentalise。
+
+compass
+核心：三支。一是指南针、罗盘；二是画圆的圆规，英式常说
+a pair of compasses；三是书面的「范围」，beyond the
+compass of 是超出……的范围，也说嗓子的音域。可数。
+① The compass needle swung north.
+= 罗盘指针转向北。
+a compass = 指南针
+② Draw the circle with a compass.
+= 用圆规画那个圆。
+a compass = 圆规
+③ Get the compasses from the drawer.
+= 从抽屉里把圆规拿来。
+compasses = 一副圆规（英式）
+④ That is beyond the compass of this book.
+= 那超出了本书的范围。
+beyond the compass of = 超出……的范围
+⑤ Her voice has a wide compass.
+= 她的嗓音音域很宽。
+compass = 音域
+构词：拉丁语 com- 共 + passus 步，本义是量出一圈
+注意用法：圆规英式常说 a pair of compasses。
+
+compassion
+核心：怜悯之心：看见别人受苦而生的同情，还带着想帮一把
+的意思。跟 pity 的分工在姿态：这个词是平视的，pity 常
+有居高临下的味道。不可数。
+① She showed great compassion.
+= 她表现出极大的悲悯。
+show compassion = 表现出怜悯
+② He has no compassion for cheats.
+= 他对骗子毫无同情。
+compassion for = 对……的怜悯
+③ They released him out of compassion.
+= 他们出于恻隐之心放了他。
+out of compassion = 出于怜悯
+构词：拉丁语 com- 共 + pati 受苦，本义是一同受苦
+注意分工：这个词是平视的，pity 常带居高临下。
+
+compassionate
+核心：有怜悯心的、体恤的。英式有个固定说法 compassionate
+leave：因家人重病或去世准的假。副词 compassionately。
+① She is a compassionate doctor.
+= 她是位有恻隐之心的医生。
+compassionate = 有怜悯心的
+② He took compassionate leave.
+= 他请了假去照顾家里的病人。
+compassionate leave = 因家人病故准的假
+③ The nurse spoke compassionately.
+= 护士说话很体恤。
+compassionately = 体恤地
+构词：compassion 怜悯 + -ate
+注意语域：compassionate leave 是英式的固定说法。

@@ -47,8 +47,13 @@ def dist(a, b):
 STRONG = {'catch': ['caught'], 'buy': ['bought'], 'teach': ['taught'],
           'bring': ['brought'], 'seek': ['sought'], 'think': ['thought'],
           'fight': ['fought'], 'come': ['came'], 'become': ['became'],
-          'beseech': ['besought'], 'bid': ['bade'], 'are': ['were', 'is', 'am'],
-          'bear': ['bore', 'born'], 'break': ['broke', 'broken'],
+          'beseech': ['besought'], 'bid': ['bade', 'bidden'], 'are': ['were', 'is', 'am'],
+          'bear': ['bore', 'born', 'borne'], 'break': ['broke', 'broken'],
+          'beget': ['begot', 'begotten'], 'behold': ['beheld'], 'arise': ['arose', 'arisen'],
+          'awake': ['awoke', 'awoken'], 'become': ['became'], 'begin': ['began', 'begun'],
+          'bite': ['bit', 'bitten'], 'blow': ['blew', 'blown'], 'breed': ['bred'],
+          'bring': ['brought'], 'build': ['built'], 'choose': ['chose', 'chosen'],
+          'cling': ['clung'], 'creep': ['crept'], 'eat': ['ate', 'eaten'],
           'speak': ['spoke'], 'steal': ['stole'], 'freeze': ['froze'],
           'choose': ['chose'], 'seek': ['sought'], 'strike': ['struck']}
 
@@ -68,6 +73,9 @@ def related(head, text):
         if t.endswith(('ex', 'ix')): cuts.append(t[:-2] + 'ic')   # codex→codices
         for cut in cuts:
             if len(cut) >= 3 and any(w.startswith(cut) for w in toks): return True
+            # 变形出现在复合词尾部：airborne 里的 borne、handmade 里的 made。
+            # 长度收到 4 以上，免得三字母词干到处误命中。
+            if len(cut) >= 4 and any(cut in w for w in toks): return True
     for t in hts:
         if len(t) < 4: continue
         for w in toks:

@@ -1,0 +1,53 @@
+# 动词变形对照表：变形 → 原形。
+#
+# 用户裁定（2026-09-05）：动词的过去式、过去分词等变形不单独立条，
+# 一律并进原形的词条；只有当那个形式另有变形之外的义项时才保留
+# （being 的「生灵」、bent 的 be bent on、broke 的「身无分文」、
+#  bound 的四支来路、bounden duty、clove 的丁香与蒜瓣、
+#  broken 的 broken English 一族、could 的情态用法）。
+#
+# 为什么需要这张表：coverage 的派生判定靠「前四个字母相同」，
+# 不规则变形一个都对不上 —— caught 对不上 catch、bought 对不上 buy、
+# came 对不上 come。并进去之后清单里那个词头就会一直报缺。
+# 规则变形（-ed、-ing、-s）不必列，前缀判定本来就认得。
+#
+# 格式：变形 原形     （空白分隔，# 之后是注释）
+# 本文件由 coverage.py 读入 SPELLING_ROOT；它同时列在 OWN 里，
+# 不会被当成词头清单（a-only.txt 就是这么漏进去过的）。
+
+# --- a ---
+arose        arise
+arisen       arise
+awoke        awake
+awoken       awake
+ate          eat        # 原形在 e 段，尚未写到；变形条已存 pending
+eaten        eat        # 同上
+
+# --- b ---
+bade         bid
+bidden       bid
+became       become
+been         be
+began        begin
+begot        beget
+begotten     beget
+begun        begin
+beheld       behold
+besought     beseech
+bitten       bite
+blew         blow
+blown        blow
+borne        bear
+bought       buy
+bred         breed
+brought      bring
+built        build
+
+# --- c ---
+came         come
+caught       catch
+chose        choose
+chosen       choose
+clung        cling
+crept        creep
+cried        cry

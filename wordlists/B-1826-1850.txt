@@ -1,40 +1,3 @@
-avarice
-核心：指对财富的"贪婪"，正式且带道德谴责，
-是基督教七宗罪之一。不可数。
-① Avarice drove his decisions.
-= 贪婪主导了他的决定。
-② The story warns against avarice.
-= 那个故事告诫人们别贪财。
-warn against = 警告勿…
-③ Avarice knows no limits.
-= 贪欲没有尽头。
-词族：
-avaricious = 贪婪的
-七宗罪：
-pride 傲慢 / greed（avarice）贪婪
-lust 色欲 / envy 嫉妒
-gluttony 暴食 / wrath 暴怒 / sloth 懒惰
-近义对照：
-avarice = 贪财（正式、道德谴责）
-greed = 贪婪（通用，可指任何东西）
-
-avaricious
-核心：指人"贪财的"，正式且贬义。
-比 greedy 书面，且专指对钱财。
-① He was an avaricious landlord.
-= 他是个贪财的房东。
-② Avaricious motives were suspected.
-= 有人怀疑动机是贪财。
-avaricious motive = 贪财的动机
-③ She is not avaricious.
-= 她并不贪财。
-词族：avarice
-近义对照：
-avaricious = 贪财的（正式）
-greedy = 贪婪的（通用）
-mercenary = 唯利是图的（为钱做事）
-grasping = 贪得无厌的
-
 avast
 核心：航海用语，一句命令，意思是"停手、住手"——叫人停下正在做的
 动作，比如别再拉绳子了。今天几乎只出现在海盗故事和玩笑话里，
@@ -439,3 +402,39 @@ avoidance behaviour = 回避行为
 注意区别：
 tax avoidance = 避税（合法，钻空子）
 tax evasion = 逃税（违法，会坐牢）
+
+avoirdupois
+核心：英美常衡制的名称——一磅等于十六盎司的那一套，日常称东西
+用的就是它。跟称金银的金衡制和称药的药衡制相区别。
+法语借词，读音跟拼写差得远。戏谑着用时指人的"体重、分量"。
+① Sugar is sold by avoirdupois weight.
+= 糖是按常衡制计重卖的。
+avoirdupois weight = 常衡重量
+② One avoirdupois pound is sixteen ounces.
+= 一常衡磅等于十六盎司。
+③ He joked about his avoirdupois.
+= 他拿自己的体重开玩笑。
+注意别混：
+avoirdupois = 常衡制（日常称重，一磅十六盎司）
+troy = 金衡制（称贵金属，一磅十二盎司）
+
+avow
+核心：正式用语，指"公开承认、公开声明"。
+现在更常见的是过去分词 avowed。
+① He avowed his support.
+= 他公开表示支持。
+avow support = 公开表态支持
+② She avowed that it was true.
+= 她公开声称那是真的。
+③ They avowed their intentions.
+= 他们公开了自己的意图。
+词族：
+avowed = 公开承认的
+近义对照：
+avow = 公开承认（正式）
+declare = 宣告（正式）
+admit = 承认（可能不情愿）
+confess = 坦白（承认过错）
+④ The avowal came too late.
+= 那番坦白来得太晚。
+avowal = 公开承认、坦白表白

@@ -1,39 +1,3 @@
-ate
-核心：eat 的过去式，过去分词是 eaten。英式读音跟 et 同音的说法
-仍有人用，美式一律读成跟 eight 同音。注意 eat 的三态是不规则的，
-不能加词尾变过去式。
-① We ate at seven.
-= 我们七点吃的饭。
-② She ate the whole thing.
-= 她把那个整个吃掉了。
-③ They ate out last night.
-= 他们昨晚在外面吃的。
-eat out = 在外面吃饭
-④ The rust ate into the metal.
-= 锈把金属蚀出了洞。
-eat into = 侵蚀、蚕食
-注意用法：
-三态是 eat / ate / eaten，不规则变化。
-注意读音：
-美式读作跟 eight 同音，英式两读都有。
-
-atelier
-核心：法语借词，指艺术家或时装设计师的"工作室"——不只是画画的
-房间，还含着"有师傅带徒弟、一群人在里面做活"的意思。
-高级定制时装屋里做衣服的部门就叫这个。
-① She trained in a Paris atelier.
-= 她在巴黎的一间工作室里学的手艺。
-train in an atelier = 在工作室里受训
-② The atelier employs twenty seamstresses.
-= 那间工坊雇了二十位缝纫师。
-③ Sketches covered the atelier walls.
-= 工作室墙上贴满了草图。
-注意语域：
-艺术与时装用语，法语借词。
-近义对照：
-atelier = 工作室工坊（含师徒与团队之意）
-studio = 工作室（通称）
-
 atemporal
 核心：形容词，指"不受时间限制的、脱离时间脉络的"。哲学和神学里
 说某个存在不在时间之内；文学与艺术评论里说一部作品"不带时代印记"，
@@ -482,3 +446,41 @@ atrium → atria 或 atriums
 心脏四腔：
 atrium = 心房（上，收血）
 ventricle = 心室（下，泵血）
+
+atrocious
+核心：两条线：真正"暴行般残忍的"（正式），
+和口语夸张的"糟透了的"。后者日常更常见。
+① The weather was atrocious.
+= 天气糟透了。
+口语夸张用法
+② His handwriting is atrocious.
+= 他字写得惨不忍睹。
+③ Atrocious crimes were committed.
+= 犯下了暴行。
+atrocious crime = 令人发指的罪行
+副词形式：
+atrociously = 糟糕地
+词族：
+atrocity = 暴行
+近义对照：
+atrocious = 糟透了（口语）；残暴的（正式）
+appalling = 骇人的
+dreadful = 糟糕的（英式常用）
+
+atrocity
+核心：指战争或冲突中的"暴行"，语气极重，
+常用复数。和口语里的 atrocious 分量差很远。
+① War atrocities were documented.
+= 战争暴行被记录了下来。
+war atrocity = 战争暴行
+② They committed atrocities.
+= 他们犯下了暴行。
+commit atrocities = 实施暴行
+③ The atrocity shocked the world.
+= 那起暴行震惊世界。
+注意复数：atrocity → atrocities
+词族：atrocious
+近义对照：
+atrocity = 暴行（大规模、残忍）
+crime = 罪行（通用）
+massacre = 屠杀（大量杀戮）

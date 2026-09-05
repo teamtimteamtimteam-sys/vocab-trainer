@@ -65,7 +65,8 @@ def load_reference():
     # B 不该收」的裁定），格式是「词<TAB>搭配」。多数行带汉字判语，被
     # HAS_CJK 挡住了，但纯英文的那 29 行漏了进来，当成词头报缺 ——
     # 「computer\twork on a computer」就这么进了 co- 段的待办清单。
-    OWN = {'exclude.txt', 'proper-nouns-keep.txt', 'GOAL.txt', 'a-only.txt'}
+    OWN = {'exclude.txt', 'proper-nouns-keep.txt', 'GOAL.txt', 'a-only.txt',
+           'inflections.txt'}
     HAS_CJK = re.compile(r'[\u4e00-\u9fff\u3000-\u303f\uff00-\uffef]')
     for f in sorted(glob.glob('reference/*.txt')):
         if os.path.basename(f) in OWN: continue
@@ -174,10 +175,20 @@ FUNCTION_WORDS = {
 def phrase_hosts(w, got):
     """这个多词条目可以并进哪些已收词条 —— 只认内容词。
     内容词一个都没收时返回空：说明该等词根收了再并，不能塞进虚词条。
-    at large 的内容词是 large（还在 l 段没轮到），不该并进 at。"""
+    at large 的内容词是 large（还在 l 段没轮到），不该并进 at。
+
+    动词变形要折回原形再找宿主（2026-09-05）：变形不再单独立条之后，
+    be caught up in 的唯一内容词 caught 不是词头了，宿主就成了空 ——
+    可它的内容明明写在 catch 条里。折一道就对上了。"""
     k = sort_key(w)
     if len(k) < 2: return []
-    return [p for p in k if p not in FUNCTION_WORDS and (p,) in got]
+    out = []
+    for p in k:
+        if p in FUNCTION_WORDS: continue
+        if (p,) in got: out.append(p); continue
+        base = SPELLING_ROOT.get(p)
+        if base and (base,) in got: out.append(base)
+    return out
 
 def phrase_pending(w, got, ref):
     """内容词还没收，等轮到那个字母再并 —— 既不用新写也还并不进去。
@@ -221,6 +232,21 @@ def host_entry(w, got, entries):
 # 其余 58 条全是碰巧（busy→business、arty→artificial、bray→brain、
 # clay→claim），放宽等于把它们全判成已收。所以用显式对照表。
 SPELLING_ROOT = {'cosiness': 'cosy', 'coziness': 'cozy'}
+
+def _load_inflections():
+    """动词变形 → 原形。用户 2026-09-05 裁定：变形不单独立条，并进原形，
+    于是 caught、bought、came 这些词头必须能算到 catch、buy、come 头上。
+    前四字母判定对不规则变形一个都不认，只能显式列表，见
+    reference/inflections.txt。"""
+    f = 'reference/inflections.txt'
+    if not os.path.exists(f): return
+    for line in io.open(f, encoding='utf-8'):
+        line = line.split('#')[0].strip()
+        if not line: continue
+        parts = line.split()
+        if len(parts) >= 2: SPELLING_ROOT[parts[0].lower()] = parts[1].lower()
+
+_load_inflections()
 
 def derived_covered(w, entries):
     """派生词：出现在其词根词条的正文里，就算覆盖。

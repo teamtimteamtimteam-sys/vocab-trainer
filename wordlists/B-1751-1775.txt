@@ -1,37 +1,3 @@
-aurora borealis
-核心：拉丁语的"北方的曙光"，就是"北极光"——太阳带电粒子撞进高层
-大气，把氧和氮激发出光来，在磁极附近的天上抖成绿色和紫色的帘幕。
-南半球那一份叫 aurora australis，即南极光。
-① They flew north to see the aurora borealis.
-= 他们飞去北方看北极光。
-see the aurora borealis = 观看北极光
-② The aurora borealis peaks near the poles.
-= 北极光在近极地最强。
-③ Aurora australis lights the southern sky.
-= 南极光照亮南方的天空。
-aurora australis = 南极光
-④ Solar storms brighten the aurora.
-= 太阳风暴会让极光更亮。
-注意语域：
-天文与气象用语，拉丁语名称。
-
-auscultation
-核心：医学检查手法，指"听诊"——用听诊器隔着体表听心音、呼吸音和
-肠鸣音，从声音的性质判断里面出了什么问题。动词是 auscultate。
-① Auscultation revealed a heart murmur.
-= 听诊发现了心脏杂音。
-reveal a murmur = 发现杂音
-② The doctor began with auscultation.
-= 医生先做了听诊。
-③ Auscultation of the chest is routine.
-= 胸部听诊是常规操作。
-注意语域：
-临床诊断术语。
-检查手法对照：
-auscultation = 听诊（听声音）
-palpation = 触诊（用手摸）
-percussion = 叩诊（敲击听回响）
-
 auspices
 核心：只用在 under the auspices of 这个搭配里，
 意为"在…的主持或赞助下"。永远用复数。
@@ -466,3 +432,44 @@ autistic = 自闭症的
 person with autism，
 不说 suffers from autism ——
 许多当事人不认为那是「受苦」。
+
+autistic
+核心：指"自闭症的、有自闭特质的"。
+作名词指自闭症人士。用词分寸参见 autism 条。
+① He is autistic.
+= 他是自闭症人士。
+② Autistic traits vary widely.
+= 自闭特质差异很大。
+autistic trait = 自闭特质
+③ She works with autistic children.
+= 她的工作对象是自闭症儿童。
+词族：autism
+注意语用：
+autistic 作形容词是中性描述，
+但不要拿来形容「不合群的人」——
+那是误用也是冒犯。
+
+auto
+核心：北美说法，指"汽车"，多作定语用在行业词里：auto industry、
+auto parts、auto racing。它同时是构词能力极强的前缀，
+表示"自动的"或"自己的"，一大批词都从它来。
+① The auto industry shed thousands of jobs.
+= 汽车业裁掉了成千上万个岗位。
+auto industry = 汽车工业
+② He shops for auto parts online.
+= 他在网上买汽车配件。
+auto parts = 汽车配件
+③ Auto racing draws big crowds.
+= 赛车运动观众很多。
+auto racing = 赛车运动
+④ Auto-erotic behaviour is a clinical term.
+= 自体性行为是个临床术语。
+auto-erotic = 自体性欲的
+⑤ Set the camera to auto-exposure.
+= 把相机设成自动曝光。
+auto-exposure = 自动曝光
+注意地域：
+作「汽车」讲是北美用法，英式说 car。
+注意构词：
+作前缀时表示自动或自身，
+autopilot、autobiography 都从它来。

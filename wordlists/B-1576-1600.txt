@@ -1,26 +1,3 @@
-assemble
-核心：两条线：把人聚到一起（集合），把零件装到一起（组装）。
-两个意思都很常用，靠宾语区分。及物不及物都可以。
-① The crowd assembled outside.
-= 人群聚集在外面。
-不及物 = 集合
-② They assembled the furniture.
-= 他们组装了那些家具。
-及物 = 组装
-③ Students assembled in the hall.
-= 学生们在礼堂集合。
-④ The parts are assembled here.
-= 零件在这里组装。
-词族：
-assembly = 集会；装配
-assembly line = 流水线
-注意区别：
-assemble 有目的地聚集或组装
-gather 聚集（较随意）
-⑤ The assembler turns the code into machine instructions.
-= 汇编器把代码转成机器指令。
-assembler = 汇编器；装配工
-
 assembly
 核心：三条线：立法或议事的"议会、大会"、学校的"晨会"、
 以及工业上的"装配"。assembly line 是高频搭配。
@@ -534,3 +511,21 @@ alliteration = 头韵（词首辅音相同）
 assonance = 谐元韵（元音相同）
 consonance = 谐辅韵（辅音相同）
 rhyme = 押韵（词尾整体相同）
+
+assorted
+核心：指"各式各样的、什锦的"，只作定语。
+食品包装上最常见（assorted biscuits）。
+① The box holds assorted chocolates.
+= 那盒是什锦巧克力。
+assorted chocolates = 什锦巧克力
+② Assorted sizes are available.
+= 有各种尺码。
+assorted sizes = 多种尺寸
+③ He collected assorted junk.
+= 他收了一堆杂七杂八的东西。
+词族：
+assortment = 各式各样的一批
+近义对照：
+assorted = 什锦的（多种混装）
+varied = 多样的（有变化）
+miscellaneous = 杂项的（归不了类）

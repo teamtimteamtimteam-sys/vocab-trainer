@@ -1,81 +1,3 @@
-bashful
-核心：形容词，指"腼腆害羞的"——尤其是在人前显得局促、不好意思。
-它跟 shy 的分别很细：shy 说的是天性怕生，
-bashful 更强调此刻的不好意思，常带点可爱的意味。
-名词是 bashfulness。
-① He gave a bashful smile.
-= 他不好意思地笑了笑。
-a bashful smile = 腼腆的笑
-② She was bashful about praise.
-= 别人一夸她就不好意思。
-be bashful about = 对…感到害羞
-③ He answered bashfully.
-= 他羞怯地答了话。
-bashfully = 腼腆地
-④ Her bashfulness soon wore off.
-= 她那点羞怯很快就没了。
-bashfulness = 腼腆
-注意别混：
-bashful = 不好意思的（此刻，常带可爱意味）
-shy = 怕生的（性格）
-embarrassed = 尴尬的（因出丑）
-
-basic
-核心：底层是"处在最底下那一层的"。往必要性上说是"基本的、
-必需的"——少了它就立不住；往程度上说是"最简单的、只够用的"，
-这一层常带"不怎么样"的意味。名词复数 the basics 指基本要点。
-副词 basically 在口语里已弱化成"总的来说、说白了"。
-① Food and shelter are basic needs.
-= 食物和住处是基本需求。
-basic needs = 基本需求
-② She has a basic grasp of Spanish.
-= 她的西班牙语只是入门水平。
-a basic grasp = 粗浅的掌握
-③ The room was basic but clean.
-= 那个房间很简陋，但干净。
-这一层带「简陋、只够用」的意味。
-④ Let's go back to basics.
-= 咱们回到最基本的东西上。
-the basics = 基本要点
-⑤ Basic pay excludes overtime.
-= 基本工资不含加班费。
-basic pay = 基本工资
-⑥ Basically, we ran out of time.
-= 说白了，我们时间不够。
-basically = 说白了（口语里的缓冲词）
-注意语域：
-第三层说房间、设备时带轻微贬义。
-
-basil
-核心：一种唇形科香草，叶片柔嫩、味甜带辛香，一加热就散味，
-所以意大利菜里多在起锅后才放。青酱的主料就是它。
-不可数。注意重音：英式在第一个音节，美式也在第一个音节，
-但元音不同。
-① Tear fresh basil over the pasta.
-= 把新鲜罗勒撕碎撒在意面上。
-fresh basil = 新鲜罗勒
-② Pesto is made with basil and pine nuts.
-= 青酱是用罗勒和松子做的。
-③ Basil wilts quickly in the fridge.
-= 罗勒在冰箱里很快就蔫。
-注意用法：
-不可数，说一株时用 a basil plant。
-
-basilica
-核心：两层。建筑上指长方形大厅、中殿两侧带柱廊的那种平面，
-古罗马用来做法庭与市集，基督教接过来做教堂。
-宗教上指教宗特别授予名号的重要教堂，跟建筑形制无关。
-所以一座 basilica 未必是巴西利卡式的。
-① The basilica dates from the fourth century.
-= 那座教堂建于四世纪。
-② A basilica has a long central nave.
-= 巴西利卡式建筑有一个长长的中殿。
-central nave = 中殿
-③ The pope raised the church to a basilica.
-= 教宗把那座教堂升为宗座圣殿。
-注意别混：
-建筑义指形制，宗教义指名号，两者不必重合。
-
 basilisk
 核心：欧洲传说里的怪物——蛇身鸡头，据说一眼就能把人看死。
 名字来自希腊语的"小王"，因为它头上有冠。今天多用于文学与
@@ -557,3 +479,61 @@ baton = 警棍
 baton round = 塑胶弹（英式官方说法）
 注意用法：
 比喻义几乎只用 pass the baton 这个搭配。
+
+Batswana
+核心：博茨瓦纳人：跟 Basotho 同一种构词 —— 一个人叫 Motswana，
+一群人叫 Batswana，语言叫 Setswana。形容词才用 Botswanan。恒作复数。
+① The Batswana voted in record numbers.
+= 博茨瓦纳人的投票人数创了纪录。
+the Batswana = 博茨瓦纳人（全体）
+② Batswana make up most of the workforce.
+= 劳动力里多数是博茨瓦纳人。
+Batswana = 博茨瓦纳人
+构词：班图语的复数前缀 ba- 加族名
+注意构词：单数 Motswana，语言 Setswana，形容词 Botswanan。
+
+battalion
+核心：陆军编制的一级，通常三到八百人，由几个连组成，
+上面是旅、下面是连。比喻着用指"一大群"，
+说的是人多且有组织地涌来。
+① The battalion moved out at dawn.
+= 那个营拂晓开拔。
+② He commands an infantry battalion.
+= 他指挥一个步兵营。
+infantry battalion = 步兵营
+③ Battalions of volunteers turned up.
+= 志愿者成群结队地来了。
+battalions of = 大批、成群的
+编制对照：
+company = 连
+battalion = 营
+brigade = 旅
+
+batten
+核心：一根窄木条，用来压住、固定或加固。名词是那根条；
+动词 batten down 指用木条把东西钉牢封住，
+习语 batten down the hatches 从航海来——暴风雨前把舱口封死，
+今天指"做好硬扛的准备"。另有一支 batten on 指"依附别人过活"，
+带贬义。
+① Nail a batten across the join.
+= 在接缝上钉一根压条。
+② They battened down the hatches.
+= 他们封死了舱口。
+batten down the hatches = 严阵以待、准备硬扛
+③ He battens on his relatives.
+= 他靠亲戚养着。
+batten on = 依附…过活（贬义）
+注意用法：
+比喻义几乎只用那个航海习语。
+
+Battenberg
+核心：英式方块蛋糕：切开看是粉黄相间的四格棋盘，外面裹一层杏仁糖膏。
+名字来自十九世纪的巴滕贝格家族。全称 Battenberg cake。不可数居多。
+① She cut the Battenberg into slices.
+= 她把那块方格蛋糕切成片。
+Battenberg = 方格杏仁糖膏蛋糕
+② Battenberg cake is a teatime standard.
+= 方格蛋糕是下午茶的常备。
+Battenberg cake = 方格蛋糕
+构词：德国一个贵族家族的姓
+注意用法：靠切面那四个格子认，别的蛋糕没有这个样子。

@@ -1,117 +1,3 @@
-bag
-核心：底层是一个软的、开口的容器。从这一个形象往外长：
-装东西的袋子 → 随身带的手袋、行李 → 一袋的分量 →
-"多得很"（英式口语的 bags of）→ 眼睛下面鼓出来的那两团。
-动词那一支走的是"把它收进袋里"：装袋 → 打到猎物 → 抢先占住。
-习语大多围绕"袋子里是什么"打转：in the bag 是已经到手，
-a mixed bag 是好坏都有，let the cat out of the bag 是走漏了风声。
-① She carried a paper bag.
-= 她拎着一个纸袋。
-最基础的一层：装东西的袋子。
-② He left his bag on the train.
-= 他把包落在火车上了。
-指随身的包，英式尤其常用。
-③ Pack your bags, we leave at six.
-= 收拾行李，六点出发。
-pack one's bags = 收拾行李（也比喻"卷铺盖走人"）
-④ She ate a whole bag of crisps.
-= 她吃了一整袋薯片。
-a bag of = 一袋的分量
-⑤ We have bags of time.
-= 我们时间多得很。
-bags of = 大量的（英式口语，后接不可数名词）
-⑥ He had bags under his eyes.
-= 他眼下有两个大眼袋。
-bags under the eyes = 眼袋
-⑦ Bag the leaves before dark.
-= 天黑前把落叶装袋。
-动词第一层：装进袋子。
-⑧ They bagged three pheasants.
-= 他们打到了三只野鸡。
-动词第二层：猎获。「收进袋里」的直接引申。
-⑨ I bagged us a table by the window.
-= 我给咱们抢了个靠窗的位子。
-bag = 抢先占住（英式口语）
-⑩ The deal is in the bag.
-= 那笔交易十拿九稳。
-in the bag = 已经稳了
-⑪ The reviews were a mixed bag.
-= 评价好坏参半。
-a mixed bag = 良莠不齐的一堆
-⑫ He let the cat out of the bag.
-= 他把秘密说漏了。
-let the cat out of the bag = 走漏风声
-⑬ Opera is not my bag.
-= 歌剧不是我的菜。
-not one's bag = 不是某人感兴趣的那一路（口语）
-⑭ They threw him out bag and baggage.
-= 他们把他连人带东西撵了出去。
-bag and baggage = 连人带行李地、彻底地
-⑮ A bag lady slept in the doorway.
-= 一个提袋流浪的女人睡在门廊里。
-bag lady = 提着大包小包露宿街头的女人
-⑯ He took a bag lunch to work.
-= 他带了午餐去上班。
-bag lunch = 自带的午餐（美式）
-⑰ He slung his schoolbag over one shoulder.
-= 他把书包甩到一边肩上。
-a schoolbag = 书包
-注意语域：
-说女人 old bag 是明确的侮辱，不要用。
-注意地域：
-bags of（很多）与「抢占」那层是英式口语，美式少见。
-
-bagatelle
-核心：三层，都从"小玩意"来。指"微不足道的小事、小钱"；
-音乐上指一首轻巧的短小钢琴曲；也指一种把小球弹进洞里的
-桌上游戏。法语借词。
-① The sum is a mere bagatelle.
-= 那点钱不值一提。
-a mere bagatelle = 区区小数
-② Beethoven wrote several bagatelles.
-= 贝多芬写过几首小品。
-bagatelle = 钢琴小品
-③ They played bagatelle in the pub.
-= 他们在酒馆里玩弹球游戏。
-注意语域：
-偏正式或旧式，日常说 trifle。
-
-bagel
-核心：一种圈状面包，先煮后烤，所以壳韧、心密实、有嚼劲。
-源自东欧犹太社群，经纽约成了通行早餐。横切开夹奶油奶酪
-和熏三文鱼是最经典的吃法。
-① She toasted a sesame bagel.
-= 她烤了个芝麻贝果。
-② Bagels are boiled before baking.
-= 贝果要先煮再烤。
-be boiled before baking = 烤前先水煮
-③ A bagel with lox is a classic.
-= 贝果配熏三文鱼是经典搭配。
-注意语域：
-食品名称，源自意第绪语。
-
-baggage
-核心：两层。字面是"行李"，不可数，美式用得比英式多，
-英式日常说 luggage。比喻着用指"包袱"——过去的经历留下的、
-甩不掉的心理负担，常说 emotional baggage。
-① Collect your baggage at carousel three.
-= 到三号转盘取行李。
-baggage carousel = 行李转盘
-baggage reclaim = 行李提取处（英式）
-② The train has a baggage car.
-= 那列火车挂着行李车厢。
-baggage car = 行李车厢（美式）
-③ He brings a lot of emotional baggage.
-= 他带着不少情感包袱。
-emotional baggage = 情感包袱
-④ Every candidate carries some baggage.
-= 每个候选人都背着点旧账。
-注意用法：
-不可数，不能说 a baggage 或 baggages。
-注意地域：
-baggage = 行李（美式常用）
-luggage = 行李（英式日常说法）
-
 baggy
 核心：形容词，指衣服"松垮宽大的"——不贴身，垂在身上。
 褒贬取决于是不是有意为之：说裤子的剪裁是中性甚至时髦，
@@ -499,3 +385,53 @@ filo pastry = 薄酥皮
 注意别混：
 baklava = 果仁蜜饼（甜点）
 balaclava = 头套式毛线帽（只露眼睛）
+
+baksheesh
+核心：中东、南亚与北非一带的说法，指给出去的小钱——
+可以是打赏、施舍，也可以是为办事而给的打点。
+词从波斯语来，经土耳其语与印地语进入英语，
+在旅行写作里很常见。
+① He handed over some baksheesh.
+= 他递过去一点小费。
+② Baksheesh oils the wheels there.
+= 在那儿打点能让事情顺当些。
+注意语域：
+旅行与地区报道用语，语义从善意到灰色都有。
+
+balaclava
+核心：套头的针织帽，只露眼睛（有的连嘴也露），用来在严寒里
+护住整个头颈。名字来自克里米亚战争的一处战场。
+今天也常出现在抢劫和抗议的新闻里，所以带一点负面联想。
+① He pulled on a balaclava.
+= 他套上了头套。
+② Climbers wear balaclavas above the snowline.
+= 登山者过了雪线就戴头套。
+③ The raiders wore balaclavas.
+= 那些劫匪戴着头套。
+注意别混：
+balaclava = 头套式毛线帽
+baklava = 果仁蜜饼（甜点，只差一个字母）
+
+balafon
+核心：西非的一种木琴——一排调好音的木条，底下各挂一只葫芦
+作共鸣器，用软槌敲击。曼丁哥人的传统乐器，
+在西非音乐里地位很高。
+① The balafon carries the melody.
+= 巴拉风奏出主旋律。
+② Balafon players learn by ear.
+= 那种乐器靠听学。
+注意语域：
+乐器名称，西非曼丁哥传统。
+
+balalaika
+核心：俄罗斯的一种拨弦乐器，三角形琴身、三根弦，用手指拨弹。
+按大小分成好几种，从高音到低音成组，合奏时音色清亮跳脱。
+① He strummed a balalaika.
+= 他拨着三角琴。
+② The balalaika has a triangular body.
+= 三角琴的琴身是三角形的。
+a triangular body = 三角形琴身
+③ Balalaika orchestras play in sets.
+= 三角琴乐团按不同尺寸成组演奏。
+注意语域：
+乐器名称，俄语借词。

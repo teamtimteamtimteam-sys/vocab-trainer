@@ -1,42 +1,3 @@
-audibly
-核心：副词，"听得见地、出声地"。
-常修饰 sigh、gasp、groan 这类不自觉发出的声音。
-① She sighed audibly.
-= 她出声地叹了口气。
-sigh audibly = 明显地叹气
-② The crowd audibly gasped.
-= 人群发出清晰的抽气声。
-③ He muttered audibly.
-= 他咕哝的声音能听见。
-反义词：
-inaudibly = 听不见地
-词族：audible
-近义对照：
-audibly = 听得见地（有声）
-aloud = 出声地（对比默读）
-loudly = 大声地（对比小声）
-
-audience
-核心：底层是"在听在看的一群人"。剧场观众、广播听众、书的读者群，
-都算。另有一个正式义指"接见、觐见"。英式可配复数动词。
-① The audience applauded.
-= 观众鼓掌了。
-② The show has a large audience.
-= 那个节目收视人群很大。
-③ The book targets a young audience.
-= 那本书面向年轻读者。
-target audience = 目标受众
-④ He was granted an audience with the Pope.
-= 他获准觐见教皇。
-an audience with = 觐见
-词族：
-audio = 音频的
-audible = 听得见的
-注意区别：
-audience 观众听众（整体）
-spectator 现场观众（体育）
-viewer 电视观众
-
 audio
 核心：指"音频的、声音的"，也作名词指音频内容。
 和 video（视频）配对。
@@ -463,3 +424,37 @@ die out = 灭绝
 单数复数同形，词尾那个 s 不是复数标记。
 注意语域：
 古动物与史前史用语。
+
+aurora borealis
+核心：拉丁语的"北方的曙光"，就是"北极光"——太阳带电粒子撞进高层
+大气，把氧和氮激发出光来，在磁极附近的天上抖成绿色和紫色的帘幕。
+南半球那一份叫 aurora australis，即南极光。
+① They flew north to see the aurora borealis.
+= 他们飞去北方看北极光。
+see the aurora borealis = 观看北极光
+② The aurora borealis peaks near the poles.
+= 北极光在近极地最强。
+③ Aurora australis lights the southern sky.
+= 南极光照亮南方的天空。
+aurora australis = 南极光
+④ Solar storms brighten the aurora.
+= 太阳风暴会让极光更亮。
+注意语域：
+天文与气象用语，拉丁语名称。
+
+auscultation
+核心：医学检查手法，指"听诊"——用听诊器隔着体表听心音、呼吸音和
+肠鸣音，从声音的性质判断里面出了什么问题。动词是 auscultate。
+① Auscultation revealed a heart murmur.
+= 听诊发现了心脏杂音。
+reveal a murmur = 发现杂音
+② The doctor began with auscultation.
+= 医生先做了听诊。
+③ Auscultation of the chest is routine.
+= 胸部听诊是常规操作。
+注意语域：
+临床诊断术语。
+检查手法对照：
+auscultation = 听诊（听声音）
+palpation = 触诊（用手摸）
+percussion = 叩诊（敲击听回响）

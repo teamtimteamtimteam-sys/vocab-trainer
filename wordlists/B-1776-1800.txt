@@ -1,44 +1,3 @@
-autistic
-核心：指"自闭症的、有自闭特质的"。
-作名词指自闭症人士。用词分寸参见 autism 条。
-① He is autistic.
-= 他是自闭症人士。
-② Autistic traits vary widely.
-= 自闭特质差异很大。
-autistic trait = 自闭特质
-③ She works with autistic children.
-= 她的工作对象是自闭症儿童。
-词族：autism
-注意语用：
-autistic 作形容词是中性描述，
-但不要拿来形容「不合群的人」——
-那是误用也是冒犯。
-
-auto
-核心：北美说法，指"汽车"，多作定语用在行业词里：auto industry、
-auto parts、auto racing。它同时是构词能力极强的前缀，
-表示"自动的"或"自己的"，一大批词都从它来。
-① The auto industry shed thousands of jobs.
-= 汽车业裁掉了成千上万个岗位。
-auto industry = 汽车工业
-② He shops for auto parts online.
-= 他在网上买汽车配件。
-auto parts = 汽车配件
-③ Auto racing draws big crowds.
-= 赛车运动观众很多。
-auto racing = 赛车运动
-④ Auto-erotic behaviour is a clinical term.
-= 自体性行为是个临床术语。
-auto-erotic = 自体性欲的
-⑤ Set the camera to auto-exposure.
-= 把相机设成自动曝光。
-auto-exposure = 自动曝光
-注意地域：
-作「汽车」讲是北美用法，英式说 car。
-注意构词：
-作前缀时表示自动或自身，
-autopilot、autobiography 都从它来。
-
 auto-da-fé
 核心：历史名词，字面是葡萄牙语的"信仰的行为"，指宗教裁判所公开
 宣判异端的那套仪式——游行、宣读罪状、当众忏悔，判死刑的随后
@@ -423,3 +382,35 @@ automatic writing = 自动书写
 ⑧ The camera has an autowind mechanism.
 = 那台相机有自动过片机构。
 autowind = 自动过片（胶片相机）
+
+automatically
+核心：两条线：机器"自动地"，
+和"自然而然、不假思索地"。第二条常被忽略。
+① The door opens automatically.
+= 那扇门自动开启。
+② He automatically reached for it.
+= 他下意识伸手去拿。
+③ You don't automatically qualify.
+= 你并不因此自动具备资格。
+automatically qualify = 自动获得资格
+词族：automatic、automate
+近义对照：
+automatically = 自动地；必然地
+instinctively = 本能地
+by default = 默认地
+
+automation
+核心：指用机器和软件取代人工的"自动化"。不可数。
+就业讨论里的核心词。
+① Automation reduced jobs.
+= 自动化减少了岗位。
+② Factory automation advanced fast.
+= 工厂自动化进展很快。
+factory automation = 工厂自动化
+③ Automation raises productivity.
+= 自动化提高生产率。
+词族：automate、automatic
+近义对照：
+automation = 自动化（流程无人化）
+mechanization = 机械化（用机器出力）
+robotics = 机器人技术

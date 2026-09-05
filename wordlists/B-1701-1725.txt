@@ -1,38 +1,3 @@
-attn
-核心：书面缩写，来自 attention，用在信封、备忘录和邮件抬头上，
-标明"此件请交某人处理"。写法上带不带句点都有人用，只写不说。
-① Address it attn Ms Zhang.
-= 信封上注明请那位女士收。
-attn = 请…收阅、经办
-② The memo is marked attn: Finance.
-= 那份备忘注明由财务部处理。
-③ Use attn on the envelope, not in the letter.
-= 这个缩写写在信封上，正文里不用。
-注意用法：
-只用于抬头与信封，正文里写全。
-注意语域：
-公文与商务书信用语。
-
-attorney
-核心：美式用语，指律师。英式说 solicitor 或 barrister。
-另有 power of attorney（委托代理权）这个法律概念。
-① He hired an attorney.
-= 他请了律师。
-② The district attorney filed charges.
-= 地区检察官提起了公诉。
-district attorney = 地区检察官（美式）
-③ She holds power of attorney.
-= 她持有委托代理权。
-power of attorney = 授权委托书
-注意英美差别：
-attorney = 律师（美式正式用语）
-lawyer = 律师（美式通用说法）
-英式 solicitor（事务律师）
-     barrister（出庭律师）
-④ The attorney general opened an inquiry.
-= 总检察长启动了调查。
-attorney general = 总检察长、司法部长
-
 attract
 核心：拉丁语的本义就是"往自己这边拉"，所有用法都是这个动作，
 只看拉的是什么。磁铁拉铁是物理的吸引，人拉人是好感，城市拉游客
@@ -468,3 +433,42 @@ audio = 音频的
 ④ Audibility drops at the back of the hall.
 = 大厅后排听得不太清。
 audibility = 可听度、清晰可闻的程度
+
+audibly
+核心：副词，"听得见地、出声地"。
+常修饰 sigh、gasp、groan 这类不自觉发出的声音。
+① She sighed audibly.
+= 她出声地叹了口气。
+sigh audibly = 明显地叹气
+② The crowd audibly gasped.
+= 人群发出清晰的抽气声。
+③ He muttered audibly.
+= 他咕哝的声音能听见。
+反义词：
+inaudibly = 听不见地
+词族：audible
+近义对照：
+audibly = 听得见地（有声）
+aloud = 出声地（对比默读）
+loudly = 大声地（对比小声）
+
+audience
+核心：底层是"在听在看的一群人"。剧场观众、广播听众、书的读者群，
+都算。另有一个正式义指"接见、觐见"。英式可配复数动词。
+① The audience applauded.
+= 观众鼓掌了。
+② The show has a large audience.
+= 那个节目收视人群很大。
+③ The book targets a young audience.
+= 那本书面向年轻读者。
+target audience = 目标受众
+④ He was granted an audience with the Pope.
+= 他获准觐见教皇。
+an audience with = 觐见
+词族：
+audio = 音频的
+audible = 听得见的
+注意区别：
+audience 观众听众（整体）
+spectator 现场观众（体育）
+viewer 电视观众

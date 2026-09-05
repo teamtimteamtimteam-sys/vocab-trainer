@@ -256,6 +256,49 @@ back 有 90 余个），不要一刀切。**高频的各自立条，冷僻的并
 段里已有的先例是最好的依据：ai- 段已有 air force / air raid /
 air conditioning 独立成条，后来的 air X 就照这个走。
 
+## 动词变形不单独立条（用户 2026-09-05 裁定）
+
+**过去式、过去分词这类变形一律并进原形的词条**，不给它们各开一条。
+理由很直接：学的人查 caught 要知道的是 catch 怎么用，把 catch 的内容
+在两条里各讲一半，两边都讲不透。
+
+**唯一的例外**：那个形式另有变形之外的义项时保留。判据是「它能不能
+脱开原形单独当一个词用」：
+
+| 保留 | 为什么 |
+|---|---|
+| `being` | 名词的「存在、生灵」，human being |
+| `bent` | 形容词 be bent on、名词 a bent for |
+| `broke` | 形容词「身无分文」 |
+| `broken` | broken English、broken home、brokenly 一族独立形容词义 |
+| `bound` | 四个来路不同的词同形（bind 的过去式、be bound to、bound for、bounds） |
+| `bounden` | 只作形容词活在 bounden duty 里，已不能当动词形式用 |
+| `clove` | 丁香、蒜瓣两个跟 cleave 无关的名词义 |
+| `could` | 情态动词有整套独立用法（可能性、请求、建议） |
+
+**原形还没写到怎么办**：把变形词条整块移进 `wordlists/pending/B-pending.txt`，
+等顺序推进到原形那个字母段再取回合并（`pull-pending.py`）。
+2026-09-05 处理 a/b/c 三段时，`ate` 就是这么存起来的 —— 原形 eat 在 e 段。
+
+**合并时要连内容一起搬，不只是删掉**。头一遍只搬了辨析、没搬例句，
+结果 `built` 一删，built-in、built-up、custom-built 三个词的教学全丢了，
+`caught` 一删，be caught up in 也丢了 —— 是 coverage 的缺词数涨了才发现。
+删之前先跑一遍 coverage 记下缺词数，删完对比，只准少不准多。
+
+**删掉之后 coverage 认不出，要靠对照表**：派生判定看「前四个字母相同」，
+不规则变形一个都对不上（caught 对不上 catch、bought 对不上 buy、
+came 对不上 come）。对照表在 `reference/inflections.txt`，
+coverage.py 读进 `SPELLING_ROOT`，两处用到：
+- `derived_covered` —— 让 caught 算到 catch 头上；
+- `phrase_hosts` —— 让 be caught up in 找得到 catch 这个宿主
+  （它唯一的内容词 caught 已经不是词头了）。
+规则变形（-ed、-ing、-s）不必列，前缀判定本来就认得。
+**这个文件必须列在 `load_reference` 的 OWN 里**，否则它自己会被当成词头清单
+（a-only.txt 就这么漏进去过）。
+
+新开一个字母段时，遇到 did、done、drove、driven、dug、dealt 这类词头，
+先照这条裁定判：并进原形，并往对照表里补一行。
+
 ## 并入失效的两种模式（写完必须跑 coverage 验收）
 
 `derived_covered` 认「派生词以词根前四个字母打头」，

@@ -21,12 +21,15 @@ a 段一段，两段被整批静默剔掉）。
 交付文件 B-merged-0001-5000.txt + B-merged-5001-5817.txt。归档区 0 条。
 
 ═══ 下一步：开 d 段 ═══
-1. **动笔前先做三件事，缺一不可**：
+1. **动笔前先做四件事，缺一不可**：
    ① 扫一遍 d 的整份清单，一次性剔干净国别变体与专名（见收词裁定）；
    ② **把 d 段的大写词头逐条判进 reference/proper-nouns-keep.txt** ——
       这一条是新加的，理由见下面「查出的两件事」第一条。不做的话
       d 段的覆盖率从第一天起就是假的；
-   ③ 往 audit-idioms.py 的 CHECK 里补 d 段大词的习语清单。
+   ③ 往 audit-idioms.py 的 CHECK 里补 d 段大词的习语清单；
+   ④ **把 d 段的动词变形词头（did、done、drove、driven、drew、drawn、
+      dug、dealt、drank、drunk…）判一遍**：并进原形、不单独立条，
+      并往 reference/inflections.txt 补上对照行。裁定见 CLAUDE.md。
 2. 然后才动笔。每批 10 条上下，多义词多的批次少写几条，
    写完跑八道闸门再写下一批。
 3. d 段的大词至少有 do、draw、drive、drop、down、day、deal、die、dig、

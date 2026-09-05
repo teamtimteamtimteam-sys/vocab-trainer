@@ -1,41 +1,3 @@
-atrocious
-核心：两条线：真正"暴行般残忍的"（正式），
-和口语夸张的"糟透了的"。后者日常更常见。
-① The weather was atrocious.
-= 天气糟透了。
-口语夸张用法
-② His handwriting is atrocious.
-= 他字写得惨不忍睹。
-③ Atrocious crimes were committed.
-= 犯下了暴行。
-atrocious crime = 令人发指的罪行
-副词形式：
-atrociously = 糟糕地
-词族：
-atrocity = 暴行
-近义对照：
-atrocious = 糟透了（口语）；残暴的（正式）
-appalling = 骇人的
-dreadful = 糟糕的（英式常用）
-
-atrocity
-核心：指战争或冲突中的"暴行"，语气极重，
-常用复数。和口语里的 atrocious 分量差很远。
-① War atrocities were documented.
-= 战争暴行被记录了下来。
-war atrocity = 战争暴行
-② They committed atrocities.
-= 他们犯下了暴行。
-commit atrocities = 实施暴行
-③ The atrocity shocked the world.
-= 那起暴行震惊世界。
-注意复数：atrocity → atrocities
-词族：atrocious
-近义对照：
-atrocity = 暴行（大规模、残忍）
-crime = 罪行（通用）
-massacre = 屠杀（大量杀戮）
-
 atrophy
 核心：医学上指肌肉或器官因不用而"萎缩"，
 比喻指能力或制度"衰退"。名词动词同形。
@@ -555,3 +517,38 @@ strike an attitude = 摆出姿态
 这是最老的本义，今天多用于舞蹈与戏剧。
 词族：
 attitudinal = 态度上的
+
+attn
+核心：书面缩写，来自 attention，用在信封、备忘录和邮件抬头上，
+标明"此件请交某人处理"。写法上带不带句点都有人用，只写不说。
+① Address it attn Ms Zhang.
+= 信封上注明请那位女士收。
+attn = 请…收阅、经办
+② The memo is marked attn: Finance.
+= 那份备忘注明由财务部处理。
+③ Use attn on the envelope, not in the letter.
+= 这个缩写写在信封上，正文里不用。
+注意用法：
+只用于抬头与信封，正文里写全。
+注意语域：
+公文与商务书信用语。
+
+attorney
+核心：美式用语，指律师。英式说 solicitor 或 barrister。
+另有 power of attorney（委托代理权）这个法律概念。
+① He hired an attorney.
+= 他请了律师。
+② The district attorney filed charges.
+= 地区检察官提起了公诉。
+district attorney = 地区检察官（美式）
+③ She holds power of attorney.
+= 她持有委托代理权。
+power of attorney = 授权委托书
+注意英美差别：
+attorney = 律师（美式正式用语）
+lawyer = 律师（美式通用说法）
+英式 solicitor（事务律师）
+     barrister（出庭律师）
+④ The attorney general opened an inquiry.
+= 总检察长启动了调查。
+attorney general = 总检察长、司法部长
