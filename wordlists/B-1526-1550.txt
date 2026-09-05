@@ -400,24 +400,16 @@ aspect
 核心：底层是"看过去呈现的那一面"。事情的某个方面、建筑朝向的方位、
 语法上的"体"。第一个义在学术写作里高频，搭配 in every aspect、
 various aspects of。
-① Consider every aspect of the plan.
-= 考虑那个计划的每个方面。
+① Consider every aspect of the plan, including the various aspects nobody has costed.
+= 方案的方方面面都要考虑，包括那些没人算过成本的部分。
 every aspect of = …的各个方面
-② That's an important aspect.
-= 那是个重要的方面。
-③ The room has a southern aspect.
-= 那个房间朝南。
+various aspects = 多个方面
+② The room has a southern aspect and is still cold for most of the year.
+= 这房间朝南，一年里大半时间还是冷。
 这里：
 aspect = 朝向
-④ We examined various aspects.
-= 我们考察了多个方面。
-various aspects = 多个方面
-近义对照：
-aspect 方面（观察角度）
-feature 特征（本身具备的）
-side 一面（较口语）
-⑤ Set the aspect ratio to sixteen by nine.
-= 把画面比例设成十六比九。
+③ Set the aspect ratio to sixteen by nine before you export anything.
+= 导出之前先把画面比例设成十六比九。
 aspect ratio = 宽高比、画面比例
 
 aspen

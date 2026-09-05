@@ -122,17 +122,17 @@ assertiveness = 果断自信（敢于表达主张）
 assess
 核心：指"评估、估价"，强调经过判断得出结论。用于学业评定、财产
 估价、风险评估。比 judge 正式，多用于书面和专业场合。
-① We need to assess the risk.
-= 我们得评估风险。
+① We need to assess the risk before somebody signs anything at all.
+= 在有人签字之前，我们得先评估风险。
 assess the risk = 评估风险
-② Students are assessed by exam.
-= 学生通过考试来评定。
+② Students are assessed by exam and by coursework nobody marks consistently.
+= 学生由考试和平时作业评定，而作业的评分标准很不一致。
 be assessed by = 通过…评定
-③ The damage was assessed at £5,000.
-= 损失估价五千英镑。
+③ The damage was assessed at £5,000 and repaired for about a third.
+= 损失估价五千镑，实际修好只花了约三分之一。
 be assessed at = 估价为
-④ It's hard to assess his motives.
-= 很难判断他的动机。
+④ It's hard to assess his motives when he explains them himself.
+= 他自己解释动机的时候，反而更难判断。
 词族：
 assessment = 评估
 assessor = 评估人
@@ -140,8 +140,8 @@ assessor = 评估人
 assess 评估（有依据）
 estimate 估算（数量）
 evaluate 评价（价值）
-⑤ Only part of the income is assessable.
-= 只有一部分收入是可课税的。
+⑤ Only part of the income is assessable and the rest is quietly ignored.
+= 只有部分收入需要计税，其余的被悄悄放过了。
 assessable = 可评估的、可课税的
 
 assessment
@@ -185,22 +185,14 @@ adjuster = 理赔员（保险）
 asset
 核心：金融上是"资产"（常用复数），比喻上是"有价值的人或优势"。
 后者说人时是很高的赞美，意思是"他是我们的宝贵财富"。
-① The company sold its assets.
-= 那家公司卖掉了资产。
+① The company sold its assets and its assets still exceeded its liabilities.
+= 公司变卖了资产，资产仍然大于负债。
 复数 assets = 资产
-② She is a great asset to the team.
-= 她是团队的宝贵财富。
+② She is a great asset to the team and patience is her most valuable asset.
+= 她是团队的宝贵财富，耐心是她最可贵的长处。
 be an asset to = 是…的宝贵资源
-③ Patience is a valuable asset.
-= 耐心是一项宝贵的优势。
-④ Assets exceed liabilities.
-= 资产超过负债。
-反义词：
-asset 资产 / liability 负债
-注意：说人 an asset 是夸奖，
-说人 a liability 是说他是累赘。
-⑤ The takeover ended in asset-stripping.
-= 那场收购最后成了拆产变卖。
+③ The takeover ended in asset-stripping and four hundred people lost their jobs.
+= 这次收购最后变成拆产变卖，四百人丢了工作。
 asset-stripping = 拆产变卖（买下公司后卖掉资产）
 
 asshole
@@ -245,22 +237,20 @@ assiduity = 勤勉、专心致志
 assign
 核心：底层是"分派下去"。分派任务、分派人手、分派资源都是它。
 被动式在正式文体里极常见。介词用 to。
-① The teacher assigned homework.
-= 老师布置了作业。
-② He was assigned to the project.
-= 他被分派到那个项目。
+① The teacher assigned homework and assigned a task to each group.
+= 老师布置了作业，还给每个小组分派了任务。
+assign a task = 分派任务
+② He was assigned to the project a week after it had started.
+= 项目开始一周后，他才被派了进来。
 be assigned to = 被派到
-③ They assigned her a new office.
-= 他们给她安排了新办公室。
+③ They assigned her a new office with a window onto a stairwell.
+= 他们给她分了间新办公室，窗户对着楼梯间。
 assign someone something = 分给某人某物
-④ Assign a value to each item.
-= 给每一项赋一个值。
+④ Assign a value to each item and the whole list sorts itself.
+= 给每一项赋个值，整张表就会自己排序。
 assign a value to = 赋值给
 词族：
 assignment = 任务、作业
-⑤ The teacher assigned a task to each group.
-= 老师给每组派了任务。
-assign a task = 分派任务
 
 assignation
 核心：指秘密的"幽会"，多带暧昧或阴谋色彩，

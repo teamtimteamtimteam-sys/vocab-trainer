@@ -300,20 +300,16 @@ set aright = 纠正、摆正
 arise
 核心：指抽象的事物"出现、产生"——问题、机会、疑问、纠纷。不能用于
 具体的人或物起身，那是 rise 或 get up。不及物，没有被动。
-① A problem has arisen.
-= 出了个问题。
-② Questions arose about the cost.
-= 关于成本的疑问出现了。
-③ If the need arises, call me.
-= 如果有需要就找我。
+① If the need arises, call me at any hour except between two and five.
+= 如有需要随时打给我，两点到五点除外。
 if the need arises = 如有需要
-④ Difficulties arise from poor planning.
-= 困难源于规划不当。
+② Difficulties arise from poor planning far more often than from bad luck.
+= 困难出于计划不周的时候，远多于出于运气不好。
 arise from = 由…引起
 动词变化：
 arise → arose → arisen
-⑤ A problem arose during the trial.
-= 试验中出了个问题。
+③ A problem arose during the trial and the judge sent everyone home.
+= 审判中出了问题，法官让所有人回了家。
 arose = arise 的过去式（三态 arise / arose / arisen）
 rose = rise 的过去式（升起、上涨）
 两个过去式只差一个字母，说事情发生用前一个，说升起上涨用后一个。

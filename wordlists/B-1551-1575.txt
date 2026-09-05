@@ -443,22 +443,14 @@ agglomeration = 杂乱聚集
 assemble
 核心：两条线：把人聚到一起（集合），把零件装到一起（组装）。
 两个意思都很常用，靠宾语区分。及物不及物都可以。
-① The crowd assembled outside.
-= 人群聚集在外面。
+① The crowd assembled outside and the students assembled in the hall.
+= 人群在外面聚集，学生在礼堂里集合。
 不及物 = 集合
-② They assembled the furniture.
-= 他们组装了那些家具。
+② They assembled the furniture and the parts are assembled here every week.
+= 他们组装了家具，零件每周都在这里装配。
 及物 = 组装
-③ Students assembled in the hall.
-= 学生们在礼堂集合。
-④ The parts are assembled here.
-= 零件在这里组装。
-词族：
 assembly = 集会；装配
 assembly line = 流水线
-注意区别：
-assemble 有目的地聚集或组装
-gather 聚集（较随意）
-⑤ The assembler turns the code into machine instructions.
-= 汇编器把代码转成机器指令。
+③ The assembler turns the code into machine instructions and hides nothing.
+= 汇编器把代码变成机器指令，什么也不隐藏。
 assembler = 汇编器；装配工
