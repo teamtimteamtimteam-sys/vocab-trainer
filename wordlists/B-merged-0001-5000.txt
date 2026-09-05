@@ -92306,6 +92306,11 @@ a college = 专业团体
 ⑤ Collegiate sport is big there.
 = 那里的大学生体育很热。
 collegiate = 学院的；大学生的
+⑥ He teaches at a college of further education.
+= 他在一所继续教育学院教书。
+a college of further education = 继续教育学院（英式，中学后的职业与补修课程）
+a college of higher education = 高等教育学院（英式，可授学位但不叫大学）
+两个都是英国的学校类别，名字里的 college 都不等于大学。
 构词：拉丁语 collegium 同僚团体
 注意别混：英式的 college 不一定是大学，看上下文。
 
@@ -94902,6 +94907,18 @@ part company = 分道扬镳
 ⑧ If you find it hard, you are in good company.
 = 觉得难的不止你一个。
 be in good company = 跟你一样的人不少
+⑨ The job comes with a company car.
+= 那份工作配一辆公司车。
+a company car = 公司配给员工的车
+英式招聘广告里的常见待遇条目，跟薪水并列写。
+⑩ The company sergeant major called them to order.
+= 连队军士长喝令他们列队。
+a company sergeant major = 连队军士长（英军）
+军衔名，缩写 CSM；这里的 company 用的是「连」那一支。
+⑪ It was a company town until the mill closed.
+= 工厂关掉之前，那里是座企业城。
+a company town = 企业城（住房与生计都归一家企业）
+多带负面意味，说的是一家独大、居民没有别的选择。
 构词：拉丁语 com- 共 + panis 面包
 注意用法：作陪伴与客人讲时不可数。
 
@@ -95632,6 +95649,24 @@ refuse to comply = 拒不服从
 构词：拉丁语 complere 完成
 注意搭配：介词只用 with。
 
+compo
+核心：把一个以 comp- 开头的长词截短出来的口语形式，几个行当各截各的，
+所以同一个拼法在不同人嘴里指的不是一回事。建筑与装修行当里指
+composition 那类调和的灰浆；英国军中指 composite ration，成箱配发的
+野战口粮；澳新口语里指 compensation，特指工伤赔偿。不可数居多。
+① The bricklayers mixed a barrow of compo.
+= 砌砖工拌了一车灰浆。
+compo = 调和灰浆（建筑行话）
+② They lived on compo for a fortnight.
+= 他们靠野战口粮过了两个星期。
+compo = 成箱配发的野战口粮（英国军中）
+③ He has been off work on compo since March.
+= 他从三月起就领着工伤赔偿没上班。
+compo = 工伤赔偿
+构词：composition、composite、compensation 各自截短，恰好撞成同一个形
+注意语域：三个义都是口语行话，正式文字里一律写全称。第三个义只在
+澳大利亚与新西兰说，别处听不懂。
+
 component
 核心：组成部分：机器的零件，也指抽象结构里的一块。也
 作定语，component parts 是组成部件。可数。
@@ -95840,6 +95875,10 @@ comprehensible to = 对……而言能看懂
 ③ His accent was hardly comprehensible.
 = 他的口音简直听不明白。
 hardly comprehensible = 几乎听不懂
+④ The report was written with no thought for comprehensibility.
+= 那份报告写的时候压根没考虑别人读不读得懂。
+comprehensibility = 可理解程度、好不好懂
+抽象名词，不可数；正式文字里才用，日常直接说 how easy it is to understand。
 构词：comprehend 理解 + -ible
 注意用法：带否定前缀的那个反义形式更常用。
 
@@ -95948,6 +95987,10 @@ compromise safety = 危及安全
 ⑤ The account was compromised.
 = 那个账号被攻破了。
 be compromised = 被攻破、被泄露
+⑥ They were caught in a compromising position.
+= 他们被撞见了不体面的一幕。
+compromising = 会连累名声的、不体面的
+只用于第二支那个「危及」义，几乎固定跟 position、photograph、situation 连用。
 构词：拉丁语 compromittere 双方共同承诺交由仲裁
 注意用法：第二支是及物动词，贬义。
 
@@ -95983,6 +96026,10 @@ a compulsive liar = 撒谎成性的人
 ④ The book is compulsive reading.
 = 那本书让人放不下。
 compulsive reading = 让人放不下的读物
+⑤ He compulsively checks his phone.
+= 他忍不住一遍遍看手机。
+compulsively = 强迫般地、忍不住地
+是 compulsive 的副词，说的是自己也管不住的那种反复行为。
 构词：compel 迫使 + -sion
 注意用法：说冲动时可数。
 
@@ -96003,6 +96050,10 @@ compulsory purchase = 强制征收（英式）
 ④ The subject is optional, not compulsory.
 = 那门课是选修，不是必修。
 optional = 可选的
+⑤ Helmets are compulsorily fitted on all new machines.
+= 所有新机器都被强制装上了护罩。
+compulsorily = 强制地、按规定必须地
+副词形式很少见，多出现在法律与公文里；日常改说 by law 或 have to。
 构词：compel 迫使 + -ory
 注意分工：反义是 optional 或 voluntary。
 
@@ -96055,6 +96106,10 @@ does not compute = 说不通
 ④ She studied computing at university.
 = 她大学学的是计算机。
 computing = 计算机这一行
+⑤ The risk is not easily computable.
+= 那个风险不容易算得出来。
+computable = 可计算的、算得出来的
+正式词；数学与计算机理论里另有专门含义，指存在算法可求。
 构词：拉丁语 computare 一同算
 注意语域：正式词，日常说 work out。
 
@@ -96113,9 +96168,11 @@ comradeship = 同伴情谊
 注意语域：第二支在今天的英语里多带调侃。
 
 con
-核心：三支来路各不相同。一是骗：a con 是骗局，行骗的人
-叫 a con artist；二是监狱俚语里的囚犯，刑满出来的叫
-an ex-con；三是 pros and cons 里的反面理由。可数。
+核心：四支来路各不相同，只是碰巧同形。一是骗：a con 是
+骗局，行骗的人叫 a con artist；二是监狱俚语里的囚犯，
+刑满出来的叫 an ex-con；三是 pros and cons 里的反面理由；
+四根本不是英语词，是乐谱上意大利语的 con「带着」，
+底下一族表情记号（con brio 等）都由它带出。前三支可数。
 ① He conned her out of her savings.
 = 他把她的积蓄骗走了。
 con somebody out of = 骗走某人的……
@@ -96131,8 +96188,15 @@ an ex-con = 刑满释放的人
 ⑤ Weigh the pros and cons.
 = 权衡利弊。
 pros and cons = 正反两面的理由
+⑥ The score says con brio.
+= 谱上写着「有生气地」。
+con brio = 有生气地、活泼地（音乐术语）
+下面这一族是意大利语的 con「带着」，跟前面三支毫无关系，只是拼法碰巧相同：
+con amore = 深情地
+con moto = 有动感地、稍快地
+con sordino = 加弱音器地
 构词：骗那一支由「信任骗局」那个词组截短而来；反面理由那一支来自拉丁语表示「反对」的词
-注意用法：三支来路不同，不要当成一个词的引申。
+注意用法：四支来路各不相同，不要当成同一个词的引申。
 
 conation
 核心：心理学把心理活动分成三块：认知 cognition、情感 affect、
@@ -98542,19 +98606,3 @@ consequential loss = 间接损失
 inconsequential = 无关紧要的
 构词：consequence 后果 + -ial
 注意分工：第一支偏美式，第二支是法律术语。
-
-conservancy
-核心：两支。一是自然保护机构：管一片河流、森林或自然
-区的法定或民间组织，机构名里常带这个词；二是保护自然
-资源这件事本身。可数。
-① The conservancy owns the wetland.
-= 那家保护机构拥有那片湿地。
-a conservancy = 自然保护机构
-② She works for a river conservancy.
-= 她在一家河流管理机构工作。
-a river conservancy = 河流管理机构
-③ Conservancy of the forest is their remit.
-= 保护那片林子是他们的职责。
-conservancy = 资源保护
-构词：conserve 保护 + -ancy
-注意用法：多出现在机构名里。
