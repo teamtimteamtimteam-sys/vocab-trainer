@@ -24,15 +24,18 @@ a cut above、cry over spilt milk 之类。
 audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5539 条。ca-co 各段已收全，cw 段收全，cp / ct 段按缩写
-判据全部剔除。
-cr- 段清单 478 条、已收 287 条（60%），还剩 191 条 —— 这是 c 里
-最大的一块缺口，回头要补；
-cu- 段清单 223 条、已收 136 条（60%），写到 cyst；
-cy- 段清单 51 条、已收 33 条（64%）。
-下批把 cr 段剩下的 191 条补掉（从 crisis 之后那批多词条目起），
-再收尾 cu / cy 的零头，c 段就完了。
-audit-idioms 的 CHECK 已扩到 74 个大词、206 条习语。
+B 词表 5555 条。ca-co 各段已收全，cw 收全，cp / ct 全剔除。
+cr- 段清单 478 条、已收 341 条（71%），还缺 137 条 ——
+其中 cross 一家的复合词就占 48 条，下批专门收拾它；
+另有 crown / crush / crust / cry 等宿主的并入待做。
+cu- 段 136 条（60%）、cy- 段 33 条（64%）的零头也还在。
+
+【写小词条时最容易犯的错：第三义项凑不出来就写元评论】
+这一批 16 个冷僻小词里，一次就被 audit-padding 拦下 6 条 ——
+cremains、crème brûlée、crept、crier、cripes、cromlech，
+全是第三条例句里没有词头（「The word softens a stronger
+oath.」这种）。**明知故犯已经好几轮了。**
+动笔时的自查：写完一条先扫一眼，每个 ① 里有没有那个词。
 
 【audit-ab 的判据又收紧了一次（2026-09-05）】
 它曾报「cycle 缺 recycle」—— 但 recycle 本身就是 OALD 的词头，
