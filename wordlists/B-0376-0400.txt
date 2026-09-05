@@ -264,25 +264,21 @@ youth 年轻人（可带负面）
 adopt
 核心：底层是"接过来当成自己的"。接过孩子是"收养"，接过办法是
 "采纳"，接过态度是"摆出"。和 adapt 只差一个字母，务必分清。
-① They adopted a child.
-= 他们收养了一个孩子。
-② The committee adopted the proposal.
-= 委员会通过了那项提案。
-这里：
-adopt = 采纳
-③ She adopted a friendly tone.
-= 她摆出友好的口吻。
-④ He was adopted at birth.
-= 他一出生就被人收养了。
-词族：
+① They adopted a child at forty and were told they were too old at thirty-nine.
+= 他们四十岁收养了一个孩子，三十九岁时还被说太老。
 adoption = 收养、采纳
 adoptive = 收养的
-注意别混：adopt 收养 / adapt 适应
-⑤ The adoptee traced her birth mother.
-= 那名被收养者找到了生母。
+② The committee adopted the proposal and buried the minority report.
+= 委员会通过了提案，把少数派报告压了下去。
+这里：
+adopt = 采纳
+③ She adopted a friendly tone that nobody in the room believed.
+= 她换上友好的语气，屋里没人相信。
+④ The adoptee traced her birth mother through a letter kept for thirty years.
+= 那位被收养者靠一封存了三十年的信找到了生母。
 adoptee = 被收养者
-⑥ Early adopters bought it at once.
-= 早期采用者立刻就买了。
+⑤ Early adopters bought it at once and complained about it for a year.
+= 早期采用者立刻就买了，抱怨了一整年。
 early adopter = 早期采用者
 
 adopted

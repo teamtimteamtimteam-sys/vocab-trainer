@@ -87,27 +87,28 @@ acupuncturist = 针灸师
 acute
 核心：底层是"尖"。角是锐角，感觉是敏锐，问题是尖锐严重，疾病是
 急性（来得又快又猛）。医学上 acute 与 chronic 相对，这组对比要记牢。
-① Dogs have an acute sense of smell.
-= 狗嗅觉敏锐。
+① Dogs have an acute sense of smell and can be trained to use it badly.
+= 狗嗅觉敏锐，也能被训练得乱用一气。
 这里：
 acute = 敏锐的
-② There is an acute shortage of water.
-= 缺水问题非常严重。
+② There is an acute shortage of water and the reservoir is half full.
+= 缺水严重，而水库只装了一半。
 这里：
 acute = 严重的
-③ He suffers from acute appendicitis.
-= 他得了急性阑尾炎。
-④ An acute angle is less than 90 degrees.
-= 锐角小于九十度。
+③ He suffers from acute appendicitis and was operated on that night.
+= 他得了急性阑尾炎，当晚就做了手术。
+④ An acute angle is less than 90 degrees and is the easiest to mismeasure.
+= 锐角小于九十度，也是最容易量错的。
 反义词：
 acute 急性 / chronic 慢性
 副词形式：
+an acute angle = 锐角
 acutely = 强烈地
-⑤ French uses the acute accent.
-= 法语用尖音符。
+⑤ French uses the acute accent and Spanish uses it for something else.
+= 法语用尖音符，西班牙语拿它表示别的东西。
 acute accent = 尖音符（é 上面那一撇）
-⑥ The acuteness of his hearing surprised us.
-= 他听觉之敏锐让我们意外。
+⑥ The acuteness of his hearing surprised us more than his eyesight did.
+= 他听觉之敏锐，比他的视力更让我们吃惊。
 acuteness = 敏锐；严重程度
 
 acutely
@@ -321,26 +322,21 @@ adapt
 核心：底层是"改动使之合用"。改自己去合环境是"适应"（不及物，
 adapt to），改东西去合用途是"改造"（及物），把小说改成电影也是
 这个词。注意和 adopt 只差一个字母，意思完全不同。
-① It's hard to adapt to a new culture.
-= 适应新文化不容易。
+① It's hard to adapt to a new culture when nobody explains the rules.
+= 没人讲规矩的时候，适应一种新文化很难。
 adapt to = 适应
-② They adapted the house for wheelchairs.
-= 他们把房子改造得便于轮椅出入。
-③ The novel was adapted for television.
-= 那部小说被改编成了电视剧。
-be adapted for = 被改编成
-④ Animals adapt to their environment.
-= 动物会适应环境。
-词族：
 adaptation = 适应、改编
 adaptable = 适应力强的
-注意别混：
-adapt 适应 / adopt 收养、采纳
-⑤ The system uses adaptive learning.
-= 那个系统采用自适应学习。
+② They adapted the house for wheelchairs and forgot about the front step.
+= 他们把房子改成了无障碍的，却忘了门前那级台阶。
+③ The novel was adapted for television and lost about half the plot.
+= 这部小说被改编成电视剧，情节丢了大约一半。
+be adapted for = 被改编成
+④ The system uses adaptive learning and gets slower the longer you use it.
+= 这套系统用自适应学习，用得越久越慢。
 adaptive = 自适应的、适应性的
-⑥ Adaptive behaviour helps survival.
-= 适应性行为有助于生存。
+⑤ Adaptive behaviour helps survival and looks like stubbornness from outside.
+= 适应性行为有助生存，从外面看却像是固执。
 adaptive behaviour = 适应性行为
 
 adaptable
