@@ -164,36 +164,36 @@ accept
 也是它跟 receive 的分水岭：receive 只管东西到手，accept 还含
 "我同意"。接的东西不同就分出各义——接物是收下，接提议是答应，
 接事实是承认，接人是接纳，接责任是担下来。
-① She accepted the gift.
-= 她收下了礼物。
+① She accepted the gift and gave it away before the end of the week.
+= 她收下了礼物，不到一周就转送了人。
 接物这一支，最本义。
 注意区别：
 accept 接受（同意） / receive 收到（未必同意）
-② He accepted the job offer.
-= 他接受了那份工作邀约。
+② He accepted the job offer and regretted it on the first morning.
+= 他接受了这份工作，上班第一天早上就后悔了。
 接提议：点头就是答应。
 反义词：
 reject = 拒绝
-③ I accept that I was wrong.
-= 我承认我错了。
+③ I accept that I was wrong, though not about the part that mattered.
+= 我承认我错了，不过要紧的那部分不算。
 accept that = 承认某事属实
 接的是事实，认可就成了承认。
-④ The theory is widely accepted.
-= 那个理论被广泛接受。
+④ The theory is widely accepted and rests on data nobody can now find.
+= 这套理论广为接受，依据的数据如今谁也找不到了。
 被大家认可，即成为公认。
 widely accepted = 公认的
-⑤ He was never accepted by the group.
-= 他一直没被那个群体接纳。
+⑤ He was never accepted by the group and outlasted every one of them.
+= 他始终没被这个圈子接纳，却比他们每一个都待得久。
 接人这一支：认可他是自己人。
-⑥ She accepted responsibility for the error.
-= 她承担了这个失误的责任。
+⑥ She accepted responsibility for the error and named nobody else at all.
+= 她承担了这次失误的责任，一个人也没往外推。
 接责任：认下来就等于扛下来。
 accept responsibility = 承担责任
-⑦ The machine only accepts coins.
-= 那台机器只收硬币。
+⑦ The machine only accepts coins and there is no change anywhere in the building.
+= 这机器只收硬币，整栋楼里找不到零钱。
 物也能作主语，指"可接纳、容得下"。
-⑧ The word has a narrower acceptation here.
-= 这个词在此处取较窄的含义。
+⑧ The word has a narrower acceptation here than in ordinary speech.
+= 这个词在此处的含义比日常用语中窄。
 acceptation = 词的通行含义（书面，少用）
 词族：
 acceptable = 可接受的
@@ -287,30 +287,30 @@ access
 核心：底层是"进得去、拿得到"。可以是进入某地的通道，可以是使用
 某物的权利，也可以是接触某人的机会。作动词专指"访问、调取"数据。
 不可数名词，不说 an access。
-① The building has wheelchair access.
-= 那栋楼有轮椅通道。
-② Students have access to the library.
-= 学生可以使用图书馆。
+① The building has wheelchair access round the back, past the bins.
+= 这栋楼的轮椅通道在后面，要绕过垃圾桶。
+② Students have access to the library until midnight in the exam term.
+= 考试学期里，学生可以用图书馆到半夜。
 have access to = 有权使用
-③ You can access the file online.
-= 你可以在线访问那个文件。
+③ You can access the file online provided you remember which of six passwords.
+= 文件可以在线读取，前提是你记得六个密码中的哪一个。
 这里是动词。
-④ He was denied access to his children.
-= 他被剥夺了探视子女的权利。
+④ He was denied access to his children for reasons never put in writing.
+= 他被剥夺了探视子女的权利，理由从没写下来过。
 词族：
 accessible = 可进入的、易懂的
 accessibility = 无障碍程度
-⑤ She enrolled on an access course.
-= 她报了个入学预备课程。
+⑤ She enrolled on an access course and went to university at forty-one.
+= 她报了个预科课程，四十一岁上了大学。
 access course = 大学预备课程（英式）
-⑥ Choose an access provider.
-= 选一家接入服务商。
+⑥ Choose an access provider that does not tie you in for two years.
+= 选个不把你绑上两年的接入服务商。
 access provider = 网络接入商
-⑦ An access road serves the site.
-= 有条支路通往那个场地。
+⑦ An access road serves the site and floods about twice a winter.
+= 一条通道路通往工地，一个冬天大约淹两次。
 access road = 支线道路
-⑧ Access time was cut in half.
-= 存取时间减半了。
+⑧ Access time was cut in half and the machine still feels slow.
+= 存取时间减了一半，机器还是觉得慢。
 access time = 存取时间
 
 accessibility
