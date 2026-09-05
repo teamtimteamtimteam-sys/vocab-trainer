@@ -12,12 +12,15 @@ B 5000
 内容词还在后面字母段，等轮到了再并，不用回头补。归档区 0 条。
 最末词条 byword。
 
-当前进度：ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，
-co- 段在写（清单 1960 条，已收 445 条 22%，下批从 compass 起）。
-B 词表 4810 条，离 5000 还差 190。
+当前进度：**B 词表 5000 条已达成（2026-09-05）**，四道闸门全过。
+下一个目标等用户定；在他开口之前按原节奏继续往下写。
+ca / cc / ce / cf / ch / ci / cl / cm 八段已收全，co- 段清单 1960 条、
+已收 800 条（40%），写到 consign，下批从 consist 起。
 之后 cp 1、cr 481、ct 1、cu 223、cw 4、cy 51、cz 4。
-co- 段的 colour / color 一族已并成一条（16 义项，两套拼法的每个
-派生形式都留了字面），centre / center 那套办法在这里同样奏效。
+co- 段里 comp- / conf- / cons- 这几串同前缀词特别密，
+每条里提到的同前缀派生形式都必须配例句或等式，否则会被宿主吞掉 ——
+这一段已经靠 audit-swallowed 当场拦下四次（commercial、comfort、
+communist、commune、compost bin、conical）。
 
 【2026-09-05 闸门加到四件套：audit-swallowed】
 第三次栽在同一个坑上（carriage 被 car 吞、camphor 被 camp 吞、
