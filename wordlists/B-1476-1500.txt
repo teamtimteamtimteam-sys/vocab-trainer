@@ -353,26 +353,26 @@ artichoke heart = 洋蓟心
 article
 核心：四层：报刊上的文章、法律条文的条款、一件物品、以及语法上的
 冠词。四个意思之间没有明显联系，靠搭配识别。
-① I read an article about it.
-= 我读了一篇关于这事的文章。
-② Article 5 of the treaty says so.
-= 条约第五条这么规定。
+① I read an article about it that got two of the facts wrong.
+= 我读过一篇关于此事的文章，里面有两个事实是错的。
+② Article 5 of the treaty says so and nobody has ever invoked it.
+= 条约第五条是这么写的，从没有人援引过。
 这里：
 article = 条款
-③ Several articles were stolen.
-= 几件物品被偷了。
+③ Several articles were stolen and none of them was worth taking.
+= 有几件物品被偷了，没一件值得拿。
 这里：
 article = 物品
-④ "A" and "the" are articles.
-= 「a」和「the」是冠词。
+④ "A" and "the" are articles and cause more trouble than any tense.
+= 「a」和「the」是冠词，惹的麻烦比任何时态都多。
 语法术语：
 definite article = 定冠词
 indefinite article = 不定冠词
-⑤ Free trade is an article of faith for them.
-= 自由贸易对他们来说是不容置疑的信条。
+⑤ Free trade is an article of faith for them and is never discussed.
+= 自由贸易对他们是不容置疑的信条，从不拿出来讨论。
 article of faith = 信条、不容置疑的信念
-⑥ She was articled to a solicitor.
-= 她当年在一位律师那里做实习生。
+⑥ She was articled to a solicitor and made tea for the first two years.
+= 她跟一位律师立约当学徒，头两年一直在泡茶。
 articled = 立约当学徒的、实习的
 
 articulate
