@@ -24,10 +24,12 @@ a cut above、cry over spilt milk 之类。
 audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5326 条。ca-co 各段已收全，
-cr- 段清单 479 条、已收 108 条（23%），写到 crazy，
-下批从 creak / cream / crease / create 一带起。
+B 词表 5359 条。ca-co 各段已收全，
+cr- 段清单 479 条、已收 137 条（28%），写到 crevice，
+下批从 crew / crib / cricket / crime 一带起。
 再往后 cp 1、ct 1、cu 223、cw 4、cy 51、cz 4。
+audit-idioms 的 CHECK 已扩到 32 个大词、129 条习语，
+cr 段写完 cross / cry / cut 之后记得再补一批。
 
 【大批量 heredoc 追加词条时的事故与教训（2026-09-05）】
 往词表文件 append 一整批时，我的草稿文字漏进了文件：

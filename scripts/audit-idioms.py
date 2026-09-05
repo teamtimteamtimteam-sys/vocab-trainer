@@ -59,6 +59,16 @@ CHECK = {
              "the courage of one's convictions"],
  'cow': ['till the cows come home', 'a sacred cow', 'have a cow'],
  'court': ['take somebody to court', 'court disaster', 'go to court'],
+ # cr 段（2026-09-05 写到 crevice）
+ 'crack': ['crack down on', 'crack up', 'at the crack of dawn',
+           'crack a joke', 'have a crack at'],
+ 'crash': ['crash a party', 'crash into'],
+ 'crazy': ['be crazy about', 'like crazy'],
+ 'cream': ['the cream of the crop', 'cream off'],
+ 'credit': ['take credit for', 'give somebody credit for',
+            'on credit', 'in credit'],
+ 'creep': ['give somebody the creeps', 'creep up on'],
+ 'crest': ['crestfallen', 'the crest of a wave'],
  # 往下写到哪个字母段，就在这里补哪一段的大词
 }
 

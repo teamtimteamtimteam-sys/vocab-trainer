@@ -1,0 +1,409 @@
+background
+核心：底层是"衬在后面的那一层"。画面上是背景；声音上是背景音；
+人身上是出身与经历；事情上是来龙去脉。共通点是：它不在台前，
+但决定了台前的东西怎么被理解。
+① The mountains form the background.
+= 群山构成了背景。
+in the background = 在背景中
+② Background noise drowned the speech.
+= 背景噪音盖过了讲话。
+background noise = 背景噪音
+③ She comes from a working-class background.
+= 她出身工人家庭。
+a working-class background = 工人阶级出身
+④ The report gives useful background.
+= 那份报告提供了有用的背景材料。
+background information = 背景资料
+⑤ He prefers to stay in the background.
+= 他宁愿待在幕后。
+stay in the background = 不出头露面
+⑥ Employers run background checks.
+= 雇主会做背景调查。
+background check = 背景调查
+注意用法：
+说人时指出身与经历，不只是学历。
+
+backhand
+核心：网球等球拍运动里的"反手"——持拍手横过身体、手背朝着来球
+的方向击出。跟正手相对。形容词 backhanded 另有一层：
+指话"表面夸奖、实为讥讽"。
+① Her backhand is her strongest shot.
+= 反手是她最强的一拍。
+② He returned it with a backhand.
+= 他用反手把球回了过去。
+③ That was a backhanded compliment.
+= 那是句听着像夸的讽刺。
+backhanded compliment = 明褒暗贬的话
+④ The official took a backhander.
+= 那名官员收了贿。
+backhander = 贿赂（英式口语）
+注意别混：
+backhand = 反手击球
+backhanded = 明褒暗贬的
+backhander = 贿赂（英式）
+
+backhoe
+核心：一种工程机械，臂端的铲斗朝驾驶员方向挖——所以叫"反铲"，
+跟朝外推的装载铲正好相反。挖沟、埋管、刨路面都用它。
+常跟前端装载斗做成一台机器。
+① The backhoe dug the trench.
+= 那台反铲挖了那条沟。
+dig a trench = 挖沟
+② A backhoe scoops towards the operator.
+= 反铲是朝驾驶员方向舀的。
+③ They hired a backhoe for the day.
+= 他们租了一天反铲挖机。
+注意语域：
+工程机械名称。
+近义对照：
+backhoe = 反铲挖掘机（铲斗朝向自己挖）
+excavator = 挖掘机（通称）
+
+backing
+核心：两层。一是"支持、资助"，抽象的那种；二是实物上"垫在后面的
+那一层"——画框背板、地毯底衬、贴纸背纸都算。音乐里的
+backing vocals 指伴唱。
+① The plan has government backing.
+= 那个计划有政府支持。
+government backing = 政府支持
+② They need financial backing.
+= 他们需要资金支持。
+financial backing = 资金支持
+③ The rug has a rubber backing.
+= 那块地毯有橡胶底衬。
+rubber backing = 橡胶底衬
+④ She sang backing vocals.
+= 她唱的是伴唱。
+backing vocals = 伴唱声部
+注意用法：
+抽象与实物两义共用一个词形。
+
+backing store
+核心：计算机术语，指"后备存储"——断电也不丢数据的那一层，
+硬盘、固态盘、磁带都算。跟断电就空的内存相对。
+英式旧称，今天多说 secondary storage 或直接说 disk。
+① Data is written to the backing store.
+= 数据写入后备存储。
+write to the backing store = 写入后备存储
+② The backing store survives a power cut.
+= 后备存储断电也不丢数据。
+③ Memory is fast; the backing store is not.
+= 内存快，后备存储慢。
+注意别混：
+backing store = 后备存储（断电不丢）
+main memory = 主存（断电即空）
+
+backlash
+核心：指"强烈反弹"——一项政策、一个说法或一场变革推出去之后，
+激起一大片反对的声浪。重点在"反作用力"：反弹的强度往往跟
+原来那一下推得多用力成正比。
+① The reform provoked a backlash.
+= 那项改革激起强烈反弹。
+provoke a backlash = 激起反弹
+② There was a public backlash against the tax.
+= 公众对那项税强烈反对。
+a backlash against = 针对…的反弹
+③ Firms fear consumer backlash.
+= 企业担心消费者反弹。
+consumer backlash = 消费者反弹
+注意用法：
+后面接介词引出反对的对象。
+
+backless
+核心：形容词，指"没有靠背的"或"露背的"。说椅凳时是没靠背；
+说衣裙时是后背裸露的剪裁，晚礼服上常见。
+① She wore a backless dress.
+= 她穿了条露背裙。
+a backless dress = 露背连衣裙
+② Backless stools save space.
+= 无靠背的凳子省地方。
+a backless stool = 无靠背凳
+③ The design is daringly backless.
+= 那个设计露背露得很大胆。
+注意用法：
+说家具是无靠背，说衣服是露背，靠名词分。
+
+backlight
+核心：从背后打来的光。摄影里指逆光——光源在被摄物后面，
+拍出剪影或轮廓光；屏幕上指液晶面板后面那层照明，
+没有它屏幕就是黑的。作动词指打逆光。
+① The photo uses natural backlight.
+= 那张照片用的是自然逆光。
+natural backlight = 自然逆光
+② The screen's backlight failed.
+= 屏幕的背光坏了。
+screen backlight = 屏幕背光
+③ He backlit the subject with a lamp.
+= 他用一盏灯给主体打了逆光。
+backlit = 逆光的、背光照明的
+注意语域：
+摄影与显示技术用语。
+
+backline
+核心：两层。英式橄榄球里指"后卫线"——争球之后接球跑动的那几名
+球员，跟前排的锋线相对；音乐演出里指"后线设备"，
+即舞台后方那些音箱、鼓组和琴，通常由场地提供。
+① Their backline is fast and creative.
+= 他们的后卫线跑得快、思路活。
+② The backline receives from the scrum.
+= 后卫线从争球里接球。
+③ The venue supplies the backline.
+= 场地方提供后线设备。
+supply the backline = 提供后线设备
+注意语域：
+橄榄球与现场演出各用一义。
+
+backlink
+核心：网络用语，指"反向链接"——别的网站指向你这个页面的那条链接。
+搜索引擎把它当成一票推荐，所以外链多的页面排名往往更靠前，
+围绕它也就生出了一整个灰色产业。
+① The article earned hundreds of backlinks.
+= 那篇文章拿到了几百条反向链接。
+earn backlinks = 获得反向链接
+② Buying backlinks can get a site penalised.
+= 买外链可能让网站被降权。
+③ Backlinks signal authority to search engines.
+= 反向链接向搜索引擎表明权威度。
+注意语域：
+搜索引擎优化与网站运营用语。
+
+backlist
+核心：出版业用语，指一家出版社"仍在售的旧书目录"——不是新书，
+但常年有稳定销量。跟主推新书的 frontlist 相对。
+很多出版社真正的利润来自它。
+① The backlist carries the company.
+= 旧书目录养活着这家公司。
+② They reissued three backlist titles.
+= 他们重版了三种旧书。
+backlist title = 旧书品种
+③ A strong backlist cushions bad years.
+= 厚实的旧书目录能扛过淡年。
+注意别混：
+backlist = 旧书目录（常销）
+frontlist = 新书书目（主推）
+
+backlog
+核心：指"积压下来的活"——该做没做、越堆越多的那一摞：待处理的
+订单、没审完的案子、没修的工单。重点是"排队等着"，
+不是"做不完"。
+① The department has a huge backlog.
+= 那个部门积压了一大堆。
+a huge backlog = 大量积压
+② They cleared the backlog by June.
+= 他们六月前把积压清完了。
+clear a backlog = 清理积压
+③ A backlog of cases delayed the trial.
+= 案件积压让审理拖后了。
+a backlog of = 一批积压的…
+注意用法：
+后面常接介词引出积压的东西。
+
+backlot
+核心：制片厂围墙内的"外景场地"——搭着常设的街景、房屋立面和
+广场，拍外景不用真的出门。省钱、可控、还能反复用，
+所以老片里的纽约街头常常是同一条。
+① They shot the chase on the backlot.
+= 那场追逐是在外景场地拍的。
+shoot on the backlot = 在外景场地拍摄
+② The backlot has a fake town square.
+= 那片场地上有个假的市镇广场。
+③ Tours run through the studio backlot.
+= 参观路线会穿过制片厂外景地。
+注意语域：
+电影制作用语。
+
+backmarker
+核心：比赛里"排在最后面的选手或车手"。在方程式赛车里它有专门的
+麻烦：领先者要套他一圈，他必须让路，一让不好就出事故。
+也泛指任何领域里垫底的那一个。
+① The leader lapped a backmarker.
+= 领先车手套了一名垫底车手一圈。
+lap a backmarker = 套圈
+② Backmarkers must show blue flags respect.
+= 被套圈的车手看到蓝旗必须让路。
+③ The firm is a backmarker in its sector.
+= 那家公司在同行里垫底。
+注意语域：
+赛车术语，也用于泛指垫底者。
+
+backmost
+核心：形容词，指"最靠后的、最末的"。用于座位、车厢、队列这类
+分得出前后的东西。偏书面，日常多说 last 或 rearmost。
+① They sat in the backmost row.
+= 他们坐在最后一排。
+the backmost row = 最后一排
+② The backmost carriage was empty.
+= 最后那节车厢是空的。
+③ He marched in the backmost rank.
+= 他走在最后一列。
+注意语域：
+偏书面，日常说 last。
+
+backpack
+核心：指"双肩背包"——两条肩带背在背上，重量落在两肩和腰，
+所以能背得更久更重。作动词指"背包旅行"，背包客叫 backpacker。
+英式也说 rucksack。
+① She stuffed the backpack with gear.
+= 她把装备塞进背包。
+stuff a backpack = 塞满背包
+② They backpacked across Asia.
+= 他们背包穿越了亚洲。
+backpack = 背包旅行（动词）
+③ Backpackers filled the hostel.
+= 青旅里住满了背包客。
+backpacker = 背包客
+注意地域：
+backpack = 双肩背包（美式，英式也通用）
+rucksack = 双肩背包（英式说法）
+
+backplane
+核心：电子设备里那块"背板"——一块印刷电路板，上面排着一排插槽，
+各功能卡插上去就通过它互相连通。它本身不做运算，
+只负责搭线和供电。
+① The card plugs into the backplane.
+= 那块卡插在背板上。
+plug into the backplane = 插入背板
+② A failed backplane kills every slot.
+= 背板一坏，所有插槽都废。
+③ The backplane carries power and data.
+= 背板同时走电和走数据。
+注意语域：
+电子与计算机硬件用语。
+插接对照：
+backplane = 背板（只连线供电，不运算）
+motherboard = 主板（自身带处理器与芯片组）
+
+backrest
+核心：椅子、座位或器械上供人靠背的那一部分。健身椅、汽车座椅、
+病床都说这个词，强调的是"可调、可拆"的那块靠板。
+① Adjust the backrest before lifting.
+= 举铁之前先调好靠背。
+adjust the backrest = 调整靠背
+② The seat has a padded backrest.
+= 那个座椅有软垫靠背。
+a padded backrest = 加软垫的靠背
+③ She raised the bed's backrest.
+= 她把病床的靠背摇了起来。
+注意别混：
+backrest = 靠背（可调的那块板）
+back = 椅背（椅子的整个后部）
+
+backscratching
+核心：指"互相关照"——你帮我一把、我还你一把，靠人情往来交换好处。
+带贬义，暗示这套交换绕开了正当程序。全称是那句谚语：
+你给我挠背，我也给你挠。
+① Committee backscratching decided the award.
+= 那个奖是委员会里互相关照定下来的。
+② The industry runs on backscratching.
+= 那个行业靠的就是人情交换。
+③ Critics called it institutional backscratching.
+= 批评者称之为制度化的互相关照。
+注意语域：
+带贬义，多见于政治与行业评论。
+近义对照：
+backscratching = 互相关照（人情交换，贬义）
+reciprocity = 互惠（中性，可以是正当的）
+nepotism = 任人唯亲（限亲属）
+
+backshift
+核心：英式说法，指"晚班"——傍晚接上白班、干到深夜的那一班。
+三班倒里它夹在早班和夜班中间。也指上这个班的那批人。
+① He works the backshift this week.
+= 他这周上晚班。
+work the backshift = 上晚班
+② The backshift starts at two.
+= 晚班两点开始。
+③ Backshift workers get a premium.
+= 上晚班的有津贴。
+注意地域：
+英式工厂与轮班用语。
+班次对照：
+backshift = 晚班（傍晚到深夜）
+dayshift = 白班
+nightshift = 夜班（深夜到清晨）
+
+backside
+核心：非正式说法，指"屁股"。语气比 buttocks 随意，比更粗的
+说法客气，所以是相对安全的日常用词。也可指某物的"背面"，
+但那一层少见。
+① Sit on your backside and listen.
+= 老实坐下听着。
+② He landed on his backside.
+= 他一屁股摔在地上。
+land on one's backside = 摔个屁股墩
+③ Get off your backside and help.
+= 别坐着了，起来帮忙。
+get off one's backside = 动起来别闲着
+注意语域：
+非正式但不算粗俗，日常可用。
+近义对照：
+backside = 屁股（非正式但不粗俗）
+bottom = 臀部（中性偏文雅）
+buttocks = 臀部（解剖学正式说法）
+
+backslapping
+核心：字面是"拍人后背"那个动作，指那种"热络过头的应酬劲儿"——
+互相恭维、称兄道弟、场面上一团和气。多带轻微贬义，
+暗示热情是装出来的、内容是空的。
+① The dinner was all backslapping.
+= 那顿饭全是场面上的热络。
+② He hates corporate backslapping.
+= 他讨厌公司里那套互相吹捧。
+③ Backslapping replaced real debate.
+= 一团和气取代了真正的辩论。
+注意语域：
+带轻贬，暗示热情浮于表面。
+近义对照：
+backslapping = 场面上的热络（虚，贬义）
+camaraderie = 同伴情谊（实，褒义）
+flattery = 奉承（明着抬举对方）
+
+backslash
+核心：键盘上向左下倾斜的那道斜杠。它跟普通斜杠方向相反：
+网址用的是普通斜杠，视窗系统的文件路径用的才是它，
+编程里它还用来转义。
+① Type a backslash before the quote.
+= 在引号前打一个反斜杠。
+② Windows paths use backslashes.
+= 视窗系统的路径用反斜杠。
+③ A backslash escapes the next character.
+= 反斜杠会转义后面那个字符。
+escape a character = 转义字符
+注意别混：
+backslash = 反斜杠（向左下倾）
+slash = 斜杠（向右上倾，网址用）
+
+backsliding
+核心：指"故态复萌、倒退"——本来已经改好或已经进步，后来又退回
+老样子。宗教语境里指信仰上的堕落，政治与政策语境里指改革倒退。
+动词是 backslide。
+① The report warns of democratic backsliding.
+= 那份报告警告民主倒退。
+democratic backsliding = 民主倒退
+② He confessed to backsliding.
+= 他承认自己故态复萌。
+③ Dieters often backslide in winter.
+= 减肥的人冬天常反弹。
+backslide = 故态复萌
+注意语域：
+宗教、政治与个人习惯三种语境都用。
+近义对照：
+backsliding = 故态复萌（本来已经改好）
+relapse = 复发（多说疾病与成瘾）
+regression = 倒退（多说发展阶段）
+
+backspace
+核心：键盘上往回删的那个键，也指按它这个动作——光标左移一格
+并删掉那里的字符。跟 delete 键的分别在于删的方向：
+它删光标前面的，delete 删光标后面的。
+① Press backspace to delete it.
+= 按退格键删掉。
+press backspace = 按退格键
+② She backspaced over the typo.
+= 她退格删掉了那个错字。
+backspace over = 退格删掉
+③ The backspace key is worn smooth.
+= 那个退格键都磨光了。
+注意别混：
+backspace = 退格（删前面的字符）
+delete = 删除（删后面的字符）
