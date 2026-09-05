@@ -9,27 +9,27 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-05 晚） ═══
-B 词表 5576 条，最末词条 czar。a 段 100%（ante 是最后补上的一条），
-b 段 98%（余 49 条待推迟）。
-c 段整体 4444/4802（92%）：cy / cz 100%，ci 99%、ca 98%、cr 98%、
-ce 97%、ch 97%、cl 96%、cu 96%，**co 84%，仍是唯一的大缺口**。
-co- 段还缺 300 条 = 待并入 230 + 待推迟 70。今天从 73% 推到 84%，
-清空的宿主有：come（30 个短语动词，独占一批）、coach coal coarse coast
-coat coax cobble cock、cocktail cocoa coconut code coffee coincide cold、
-colour court community country、cover common corn、counter cost count。
-交付文件 B-merged-0001-5000.txt + B-merged-5001-5576.txt。归档区 0 条。
+═══ 现状（2026-09-05 深夜） ═══
+B 词表 5580 条，最末词条 czar。**c 段收完了。**
+a 段 100%（2768/2768）。
+b 段 98%（3074/3123），余 49 条全是待推迟。
+c 段 97%（4678/4801），余 123 条**全是待推迟** —— 待并入与待新写都已清零，
+现在做不动，得等后面的字母段把内容词收进来。
+d 段 0%（12/3041），是下一个要开的大段。
+交付文件 B-merged-0001-5000.txt + B-merged-5001-5580.txt。归档区 0 条。
 本地无未提交改动。
 
-═══ 下一步 ═══
-1. **接着清 co- 段那 230 条待并入的多词条目** —— 宿主词条都已存在，
-   按意思归组做，参照下面 cross 一家的办法。剩下的大宿主是
-   council 13、command 13、computer/comfort 各 12、cool/content/concert 各 9、
-   course/cotton/con/college 各 8，再往下都是三五条的零头。
-   `python3 scripts/coverage.py co | sed -n '/待并入/,/待推迟/p'` 看清单。
-2. 各段零头：ch 13、cl 12、ca 10、cr 8、cu 8、ce 4、ci 1。
-   注意其中大半是「待推迟」——内容词还在后面的字母段，现在做不了，跳过。
-3. c 段收尾后进 d 段。动笔前先扫一遍 d 清单剔国别变体（见收词裁定）。
+═══ 下一步：开 d 段 ═══
+1. **动笔前先扫一遍 d 的整份清单，一次性剔干净国别变体与专名**
+   （见下面「收词裁定」）。别边写边判 —— 会反复停下来查，还容易漏。
+   `python3 scripts/coverage.py d | sed -n '/待新写/,$p'`
+2. 先往 audit-idioms.py 的 CHECK 里补 d 段大词的习语清单，再动笔。
+   这条已经验证过两轮：先列清单，一条习语都不会漏；写完回头补，每次多花一轮。
+   d 段的大词至少有 do、draw、drive、drop、down、day、deal、die、dig、
+   dish、double、down、dress、drink，其中 do 要独占一批。
+3. 每批 10 条上下，多义词多的批次少写几条。写完跑七道闸门再写下一批。
+4. c 段那 123 条待推迟不要再回头看 —— 等 d 之后的字母段收到内容词，
+   coverage 会自己把它们从待推迟挪到待并入。
 
 ═══ 每批必跑的七道闸门 ═══
 check-wordlist.py → coverage.py <段> → audit-depth.py <段>
