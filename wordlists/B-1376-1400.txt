@@ -378,30 +378,23 @@ there are = 有（后接复数）
 area
 核心：底层是"一片范围"。地理上的地区、数学上的面积、抽象上的领域，
 都是同一条主线。in the area of 在学术写作里常用来说"在…领域"。
-① They live in a rural area.
-= 他们住在乡村地区。
-② What's the area of the room?
-= 那个房间面积多大？
+① They live in a rural area where the bus comes twice a week.
+= 他们住在乡下，公交一周来两趟。
+② What's the area of the room? The carpet has to be ordered by the metre.
+= 这房间面积多大？地毯是按米订的。
 这里：
 area = 面积
-③ It's not my area of expertise.
-= 那不是我擅长的领域。
+③ It's not my area of expertise and I said so before they asked me.
+= 这不是我的专长，他们问之前我就说过了。
 area of expertise = 专业领域
-④ Research in the area of AI is growing.
-= 人工智能领域的研究在增长。
+④ Research in the area of AI is growing faster than anyone can review it.
+= 人工智能领域的研究增长得比评审的速度还快。
 in the area of = 在…领域
-⑤ Keep out of this area.
-= 别进入这个区域。
-近义对照：
-area 地区（范围，中性）
-region 地区（较大，有特征）
-district 区（行政划分）
-zone 地带（有特定用途）
-⑥ Dial the area code first.
-= 先拨区号。
+⑤ Dial the area code first, even if you are calling next door.
+= 先拨区号，哪怕你打的是隔壁。
 area code = 电话区号
-⑦ The school's catchment area was redrawn.
-= 那所学校的招生片区重新划了。
+⑥ The school's catchment area was redrawn and two streets lost their places.
+= 学校招生片区重新划定，两条街的孩子丢了名额。
 catchment area = 集水区；招生片区
 
 aren't
