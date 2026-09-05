@@ -87,29 +87,29 @@ bundle
 bundle someone into a car 是把人往车里一塞。
 bundle up 是裹上厚衣服。习语 a bundle of nerves 是紧张得不行
 的人。可数。
-① He carried a bundle of newspapers.
-= 他抱着一捆报纸。
+① He carried a bundle of newspapers that came apart on the stairs.
+= 他抱着一捆报纸，在楼梯上散了。
 a bundle of = 一捆
-② That coat cost a bundle.
-= 那件大衣花了不少钱。
+② That coat cost a bundle and she has worn it about four times.
+= 那件大衣花了一大笔钱，她穿过大概四次。
 cost a bundle = 花一大笔钱
-③ They bundled him into a car.
-= 他们把他往车里一塞。
+③ They bundled him into a car before anyone in the street reacted.
+= 街上的人还没反应过来，他们就把他塞进了车。
 bundle someone into = 把某人匆匆塞进
-④ Bundle up, it is freezing.
-= 多穿点，外面冻死了。
+④ Bundle up, it is freezing and the walk takes about half an hour.
+= 多穿点，外面冻死了，路上要走半个钟头。
 bundle up = 裹上厚衣服
-⑤ She was a bundle of nerves.
-= 她紧张得不行。
+⑤ She was a bundle of nerves and got through it without a single mistake.
+= 她紧张得不行，却一个错也没出地撑了下来。
 a bundle of nerves = 紧张不安的人
-⑥ They welcomed a bundle of joy.
-= 他们迎来了一个小宝宝。
+⑥ They welcomed a bundle of joy who has not slept since.
+= 他们迎来了一个小宝贝，从此没睡过整觉。
 a bundle of joy = 新生儿（委婉说法）
-⑦ Bundle the papers together.
-= 把那些文件捆在一起。
+⑦ Bundle the papers together and put them where the damp cannot get at them.
+= 把文件捆好，放在潮气够不着的地方。
 bundle together = 捆在一起；也指打包出售
-⑧ The bundler compresses the files.
-= 那个打包程序会压缩文件。
+⑧ The bundler compresses the files and breaks about one build in ten.
+= 打包工具会压缩文件，每十次构建大约弄坏一次。
 bundler = 捆扎的人或工具；打包程序
 构词：中古荷兰语 bundel
 词族：
@@ -242,30 +242,26 @@ bunk
 上下两层的叫 bunk beds。二是英式口语 do a bunk：
 一走了之、开溜，多指躲债躲事。三是 bunkum 的缩略：胡说八道，
 说 that's bunk 是"胡扯"。可数。
-① He climbed into the top bunk.
-= 他爬上了上铺。
+① He climbed into the top bunk and hit his head on the ceiling.
+= 他爬上上铺，一头撞在天花板上。
 the top bunk = 上铺
-② The children sleep in bunk beds.
-= 孩子们睡上下铺。
+② The children sleep in bunk beds and argue about who gets the top.
+= 孩子们睡上下铺，为谁睡上面吵个不停。
 bunk beds = 上下铺
-③ He did a bunk before the rent was due.
-= 他赶在交租前溜了。
+③ He did a bunk before the rent was due and left the cat behind.
+= 房租到期前他一走了之，把猫扔下了。
 do a bunk = 一走了之（英式口语）
-④ The whole theory is bunk.
-= 那套理论纯属胡扯。
+④ The whole theory is bunk and two of its authors have said so since.
+= 这套理论纯属胡说，两位作者后来也这么讲。
 bunk = 胡说（bunkum 的缩略）
-⑤ He bunked off school on Friday.
-= 他周五逃了学。
+⑤ He bunked off school on Friday and was back at the gate by nine.
+= 他周五翘课，九点就又回到了校门口。
 bunk off = 逃学、翘班（英式口语）
-⑥ Two of them bunked off work.
-= 他们两个翘了班。
 bunk off work = 翘班
-⑦ The crew slept in a bunkhouse.
-= 工人们睡在工棚宿舍里。
-bunkhouse = 摆着上下铺的集体宿舍
-⑧ They used to bunk off school together.
-= 他们从前常一起逃学。
 bunk off school = 逃学（英式口语）
+⑥ The crew slept in a bunkhouse that had one stove for thirty men.
+= 船员睡在集体宿舍里，三十个人共用一个炉子。
+bunkhouse = 摆着上下铺的集体宿舍
 构词：来历不明
 注意用法：三支互不相干，靠语境分。
 
