@@ -135,3 +135,152 @@ Amtrak
 Android
 Airbus
 AstroTurf
+
+# ============================================================
+# c 段（2026-09-05 补判）
+# 发现经过：审计 c 段筛选时才发现这份名单从头到尾只有 a 段的 119 条。
+# b 段 250 条、c 段 272 条大写词头**从来没有逐条判过**，被整批静默剔掉，
+# 于是 Christmas 一族、Celsius、Catch-22、Cheddar、C-section、
+# Chinese whispers 这些真词汇一直没进应收范围，覆盖率却报着 97%。
+# 下面按 a 段的同一把尺子补判 c 段（b 段待补）。
+# ============================================================
+
+# --- 字母／型号构成的普通名词（同 A-bomb 那组）---
+C-section
+C-word
+CAT scan
+CT scan
+CD burner
+CD writer
+CS gas
+
+# --- 已成普通词汇的固定表达（同 Achilles heel / American football 那组）---
+Caesar salad
+Canada goose
+Canadian bacon
+Canadian football
+Catch-22
+Catherine wheel
+Celtic cross
+Celtic harp
+Celtic twilight
+Central time
+Chapter 7
+Chapter 11
+Chelsea boot
+Chelsea bun
+Chelsea tractor
+Cheshire cheese
+Chinese cabbage
+Chinese chequers
+Chinese lantern
+Chinese whispers
+Christian name
+Christmas box
+Christmas cake
+Christmas card
+Christmas carol
+Christmas cracker
+Christmas pudding
+Christmas stocking
+Christmas tree
+Clapham omnibus
+Colorado beetle
+Conestoga wagon
+Copernican system
+Cornish pasty
+Cox's orange pippin
+Crohn’s disease
+Crown prosecutor
+Cuba libre
+Cuban heel
+Cumberland sausage
+
+# --- 医学、学科与文化概念（同 Alzheimer's / Aquarius / Armageddon 那组）---
+Cabala
+Caledonian
+Cambrian
+Cancerian
+Cantabrigian
+Capricorn
+Cartesian
+Casanova
+Cassandra
+Celsius
+Chartist
+Cinderella
+Corinthian
+Covenanter
+Cretaceous
+Cupid
+Cyclops
+Cyrillic
+
+# --- 族群、语言、宗教派别（同 Afrikaans / Apache / Anglican 那组）---
+Cajun
+Calvinism
+Calvinist
+Cantonese
+Carib
+Caribbean
+Catalan
+Catholicism
+Caucasian
+Celt
+Celtic
+Chanukah
+Chasid
+Chasidic
+Chasidism
+Cherokee
+Cheyenne
+Chicana
+Chicano
+Chinese
+Choctaw
+Christ
+Christendom
+Christian
+Christianity
+Christmas
+Christmassy
+Christmastime
+Comanche
+Confucian
+Confucianism
+Congregationalism
+Congregationalist
+Cornish
+Cree
+Creole
+Czech
+
+# --- 常用国族形容词（构词规律本身就是知识点）---
+Cambodian
+Cameroonian
+Canadian
+Central American
+Chadian
+Chilean
+Colombian
+Comoran
+Congolese
+Croatian
+Cuban
+Cypriot
+
+# --- 已成通名的品种与物品（同 Alsatian / Armagnac / Arborio 那组）---
+Caerphilly
+Calvados
+Camembert
+Cantopop
+Chablis
+Chardonnay
+Cheddar
+Chianti
+Chinatown
+Chinglish
+Chippendale
+Chrimbo
+Chrissake
+Crimbo
