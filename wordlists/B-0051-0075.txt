@@ -102,31 +102,26 @@ ability
 不可数时指"能力"这个属性，可数复数 abilities 指一项项具体的才能。
 语法上有一条死规矩：永远接 to do，不接 of doing——这是中国学生
 最常错的地方，因为中文的"做某事的能力"看着像个 of 结构。
-① She has the ability to learn quickly.
-= 她学东西快。
+① She has the ability to learn quickly and no patience for anything slow.
+= 她学得快，对任何慢的东西都没耐心。
 the ability to do = 做某事的能力
-注意：不说 ability of doing。
-② He showed great ability in mathematics.
-= 他在数学上展现出很强的能力。
-说在哪一方面有能力，用 in。
-③ Children of mixed abilities study together.
-= 不同能力水平的孩子一起上课。
-abilities = 各项才能（可数复数）
-mixed-ability class = 能力混合编班
-④ I'll help to the best of my ability.
-= 我会尽我所能帮忙。
-to the best of one's ability = 竭尽所能
-⑤ She is a woman of great ability.
-= 她是个很有本事的人。
-of great ability = 很有能力的（书面）
-⑥ The drug affects your ability to drive.
-= 那种药会影响你开车的能力。
-指具体某项功能上的能力。
-反义词：
-ability 能力 / inability 无能为力
-词族：
 able = 有能力的
 disability = 残疾；能力欠缺
+注意：不说 ability of doing。
+② He showed great ability in mathematics and dropped it at sixteen.
+= 他数学才能出众，十六岁就不学了。
+说在哪一方面有能力，用 in。
+ability in = 在某方面的才能
+③ Children of mixed abilities study together and the teacher works twice as hard.
+= 不同能力的孩子一起上课，老师要多费一倍力气。
+abilities = 各项才能（可数复数）
+mixed-ability class = 能力混合编班
+④ I'll help to the best of my ability, which may not be very far.
+= 我会竭尽所能帮忙，虽然可能帮不了多少。
+to the best of one's ability = 竭尽所能
+⑤ She is a woman of great ability and has never been promoted once.
+= 她是个很有能力的人，却一次也没升过职。
+of great ability = 很有能力的（书面）
 
 abiotic
 核心：生态学用语，指"非生物的"——指环境中的
@@ -405,26 +400,14 @@ abolish
 宾语必须是制度、法律、税种、习俗这类抽象事物，不能说 abolish a
 building。跟三个近义词的分工也是按对象切的：cancel 取消的是活动
 和订单，repeal 废止的是具体法条，abolish 废掉的是整套制度。
-① Slavery was abolished in 1865.
-= 奴隶制于一八六五年被废除。
+① Slavery was abolished in 1865 and the arguments about it have not stopped.
+= 奴隶制于一八六五年废除，围绕它的争论从未停过。
 宾语是一整套制度，这是最典型的用法。
-② They want to abolish the tax.
-= 他们想废除那项税。
-税种也是制度性安排。
-③ The law was abolished last year.
-= 那条法律去年被废止了。
-注意区别：
-abolish 废除制度
-cancel 取消（活动、订单）
-repeal 废止（专指法律条文）
-④ The school abolished corporal punishment.
-= 那所学校废除了体罚。
-习俗和惯例也能作宾语。
-⑤ Abolition of the death penalty took decades.
-= 废除死刑花了几十年。
+② Abolition of the death penalty took decades and two changes of government.
+= 废除死刑用了几十年和两届政府更迭。
 abolition = 废除（名词，多用于重大制度）
-⑥ He was a leading abolitionist.
-= 他是废奴运动的一位领袖。
+③ He was a leading abolitionist and was hated in his own town.
+= 他是废奴运动的领袖人物，在自己的镇上却遭人憎恨。
 abolitionist = 废奴主义者；废除某制度的鼓吹者
 这个词在历史文本里几乎专指废奴。
 
