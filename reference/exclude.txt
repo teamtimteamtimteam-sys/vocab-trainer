@@ -289,6 +289,7 @@ chook        # 澳新英语，鸡
 chunder      # 澳新英语，呕吐
 christie's   # 纯专名（拍卖行），按专名不收那条剔除
 count-basie  # 纯专名（美国爵士乐队领班的艺名），同 capability-brown 那条
+compassion-choices # 纯专名（美国一家倡权组织的名字，& 被洗成连字符），不是英语词
 chamberlain's men     # 纯专名（莎士比亚剧团），按专名不收那条剔除
 cheltenham-ladies-college  # 纯专名（学校名），同上
 childe-harold's pilgrimage # 纯专名（长诗标题），同上

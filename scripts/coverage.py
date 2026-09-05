@@ -216,6 +216,12 @@ def host_entry(w, got, entries):
             if best is None or len(h) > len(best): best = head
     return best
 
+# 词根末尾的 y 在派生时换成 i，前四个字母就对不上了（cosy→cosiness）。
+# 不能放宽成通则：实测全表 60 个这种形状的配对里只有下面两条是真派生，
+# 其余 58 条全是碰巧（busy→business、arty→artificial、bray→brain、
+# clay→claim），放宽等于把它们全判成已收。所以用显式对照表。
+SPELLING_ROOT = {'cosiness': 'cosy', 'coziness': 'cozy'}
+
 def derived_covered(w, entries):
     """派生词：出现在其词根词条的正文里，就算覆盖。
     用户裁定：abrasively 写进 abrasive 条（并配例句）即可，不必单列；
@@ -237,7 +243,7 @@ def derived_covered(w, entries):
         # 并进词根后仍被判成缺词，逼着人去给派生词单开条目 —— 那违反
         # 「派生词一律并入词根」的裁定。实测放宽后全表只多认出 ayes 一条，
         # 且是对的：整词匹配那一关已经挡住了碰巧同前缀的误判。
-        if len(h) < 3 or not lw.startswith(h[:4]) or lw == h:
+        if SPELLING_ROOT.get(lw) != h and (len(h) < 3 or not lw.startswith(h[:4]) or lw == h):
             continue
         if pat.search(body):
             return True
