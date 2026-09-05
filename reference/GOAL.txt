@@ -24,13 +24,13 @@ a cut above、cry over spilt milk 之类。
 audit-ab 只是一致性检查；衡量 B 是否收全要用 audit-idioms。
 
 当前进度：目标 5000 已达成，用户让继续往下写。
-B 词表 5556 条。ca-co 各段已收全，cw 收全，cp / ct 全剔除。
-**cr- 段 469/477（98%），只剩 8 条待推迟**（cracked wheat、
-creation science、creepy-crawly、crème de la crème、
-crème de menthe、cri de cœur、crow's feet、crow's nest ——
-内容词都在后面字母段，等收到再并）。
-cu- 段 136 条（60%）、cy- 段 33 条（64%）的零头还在，
-下批收尾这两段，c 段就完了。
+B 词表 5574 条。**cy / cz 两段 100% 收全，cu 96%、cr 98%。**
+c- 段整体 4224/4818（87%），缺 594 条 ——
+**其中 co- 段的 453 条待并入多词条目是唯一的大块**，
+其余各段只剩零头（ca 12、ce 5、ch 19、ci 1、cl 13、cr 8、cu 8），
+且多是待推迟条目（内容词在后面字母段，等收到再并）。
+**下一步：co- 段那 453 条待并入，按意思归组做，参照 cross 一家的办法。**
+做完 c 段就收尾，之后进 d 段。
 
 【一次并入几十条时按意思归组，别一条一个义项】
 cross 一家有 48 个复合词。做法是按意思归成十几组，

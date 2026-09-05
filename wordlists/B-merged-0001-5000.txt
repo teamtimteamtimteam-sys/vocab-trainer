@@ -56732,6 +56732,9 @@ board up = 用木板封住门窗
 ⑮ Wipe the chopping board after use.
 = 砧板用完擦干净。
 a chopping board = 砧板
+⑯ Chop it on the cutting board.
+= 在砧板上切。
+a cutting board = 砧板
 构词：古英语 bord 木板
 词族：
 boarding = 寄宿；登机
