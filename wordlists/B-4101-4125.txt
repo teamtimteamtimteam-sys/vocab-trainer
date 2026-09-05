@@ -295,9 +295,6 @@ a centipede = 蜈蚣
 ② Centipedes hunt at night.
 = 蜈蚣夜里猎食。
 hunt = 猎食
-③ The name means a hundred feet.
-= 那个名字字面是一百只脚。
-mean = 意思是
 构词：拉丁语 centum 一百 加 pes 脚
 注意别混：millipede 每节两对足，走得慢。
 

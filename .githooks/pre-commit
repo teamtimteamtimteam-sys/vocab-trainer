@@ -9,4 +9,12 @@ if git diff --cached --name-only | grep -q '^wordlists/'; then
     echo "❌ 校验未通过，提交已中止。修好再提交，或用 --no-verify 强行跳过（不建议）。"
     exit 1
   fi
+  # 凑数义项：冷僻词为了凑够义项数，编出跟词条本身无关的例句和讲解。
+  # 用户 2026-09-05 明令禁止。check-wordlist 只数数目，看不出来，
+  # 所以单独拦一道 —— 真的只有两个义项就写两个。
+  if ! python3 scripts/audit-padding.py; then
+    echo
+    echo "❌ 有凑数义项，提交已中止。例句和等式都要落回词头本身。"
+    exit 1
+  fi
 fi

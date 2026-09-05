@@ -137,9 +137,6 @@ breaststroke
 ② Breaststroke is the slowest stroke.
 = 蛙泳是四种泳姿里最慢的。
 stroke = 泳姿
-③ The kick comes from the legs.
-= 推进力主要来自腿。
-kick = 蹬腿动作
 构词：breast 胸 + stroke 划水动作
 配对词：
 backstroke = 仰泳
@@ -243,9 +240,6 @@ produce = 拿出
 ② The breathalyser reading was over the limit.
 = 酒测读数超标了。
 over the limit = 超过法定限值
-③ The name was originally a trademark.
-= 这个名字原本是个商标。
-trademark = 商标
 构词：breath 呼气 + analyser 分析仪
 注意来历：原为商标，后来通名化。
 
@@ -415,9 +409,6 @@ riding breeches = 骑马穿的马裤
 ② The costume includes breeches and stockings.
 = 那身戏服配的是短裤和长袜。
 stockings = 长袜
-③ They fasten below the knee.
-= 那种裤子在膝下收口。
-fasten = 系紧、收口
 构词：古英语 brēc 裤子
 注意用法：只用复数，论条用 a pair of。
 

@@ -252,8 +252,6 @@ baud
 ② Baud rate is not the same as bit rate.
 = 波特率不等于比特率。
 baud rate = 波特率
-③ One symbol may carry several bits.
-= 一个符号可以携带多个比特。
 注意别混：
 baud = 波特（每秒符号数）
 bit rate = 比特率（每秒比特数，通常更高）
@@ -422,12 +420,12 @@ bazoom
 核心：美式俚语，指女性的胸部，多用复数 bazooms。
 语气粗俗且带物化色彩，属于那种"听起来滑稽但并不礼貌"的词。
 词形是拿 bosom 拗出来的。
-① The word is crude slang for the bust.
-= 这个词是指胸部的粗俗俚语。
-② It appears mostly in old comedies.
-= 它多出现在旧喜剧里。
-③ Most speakers avoid it now.
-= 如今多数人不用它。
+① Old comedies got easy laughs out of bazooms.
+= 旧喜剧靠拿胸脯说事换廉价笑声。
+bazooms = 胸部（粗俗俚语，多用复数）
+② He made a bazoom joke and nobody laughed.
+= 他拿胸脯开了个粗俗玩笑，没人笑。
+a bazoom joke = 拿胸脯开的粗俗玩笑
 注意语域：
 粗俗且带物化，正式与礼貌场合一律不用。
 

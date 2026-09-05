@@ -351,10 +351,7 @@ cacao
 ① Cacao grows near the equator.
 = 可可树长在赤道附近。
 cacao = 可可树
-② The beans are dried before roasting.
-= 豆子烘焙前先晒干。
-roast = 烘焙
-③ This bar is seventy per cent cacao.
+② This bar is seventy per cent cacao.
 = 这块巧克力含可可七成。
 per cent cacao = 可可含量的百分比
 构词：西班牙语转自纳瓦特尔语 cacahuatl

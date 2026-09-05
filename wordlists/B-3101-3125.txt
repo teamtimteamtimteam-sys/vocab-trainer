@@ -55,9 +55,6 @@ launch an attack = 发动攻击
 ② Infected routers joined the botnet.
 = 被感染的路由器加入了僵尸网络。
 infected = 被感染的
-③ Owners rarely notice.
-= 机主往往察觉不到。
-rarely = 很少
 构词：bot 程序 + net 网络
 注意用法：要害是设备主人不知情。
 
@@ -212,10 +209,7 @@ botulin
 ① Botulin blocks nerve signals.
 = 肉毒毒素会阻断神经信号。
 block = 阻断
-② Tiny doses are used medically.
-= 极微量的剂量用于医疗。
-dose = 剂量
-③ Botulin is extremely potent.
+② Botulin is extremely potent.
 = 肉毒毒素毒性极强。
 potent = 效力强的
 构词：拉丁语 botulus 香肠
@@ -233,8 +227,6 @@ fatal = 致命的
 ② Home canning can cause botulism.
 = 家庭自制罐头可能引起肉毒中毒。
 canning = 装罐
-③ The name comes from the Latin for sausage.
-= 这个名字来自拉丁语的「香肠」。
 构词：拉丁语 botulus 香肠
 注意来历：最早是在变质香肠里发现的。
 
@@ -278,9 +270,6 @@ a bouffant = 蓬高的发型
 ② Bouffant styles need backcombing.
 = 那种发型要靠倒梳撑起来。
 backcombing = 倒梳
-③ The look defined the sixties.
-= 那种造型是六十年代的标志。
-define = 成为标志
 构词：法语 bouffer 鼓起
 词族：
 beehive = 蜂窝头（bouffant 的一种）
@@ -292,11 +281,12 @@ bougainvillea
 不可数居多。
 ① Bougainvillea covered the wall.
 = 三角梅爬满了整面墙。
-② The colour comes from bracts.
-= 那颜色来自苞片。
-bract = 苞片
-③ It flowers for months.
-= 它能开好几个月。
+② The bougainvillea gets its colour from bracts, not petals.
+= 三角梅的颜色来自苞片，不是花瓣。
+a bract = 苞片
+③ Bougainvillea flowers for months in full sun.
+= 三角梅在全日照下能开好几个月。
+flower for months = 花期长达数月
 构词：法国航海家 Bougainville 的姓
 注意用法：艳丽的那层是苞片，不是花瓣。
 
@@ -350,9 +340,6 @@ bouillabaisse
 = 他们在马赛点了杂鱼汤。
 ② Bouillabaisse uses several kinds of fish.
 = 那道汤要用好几种鱼。
-③ Saffron gives it the colour.
-= 番红花给了它颜色。
-saffron = 番红花
 构词：普罗旺斯语，字面是"煮开后转小火"
 注意来历：本是渔民处理杂鱼的家常做法。
 

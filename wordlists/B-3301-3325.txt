@@ -33,9 +33,6 @@ breezeblock
 = 那面墙是煤渣砖砌的。
 ② Breezeblocks are light and cheap.
 = 煤渣砖又轻又便宜。
-③ The blocks were rendered over.
-= 那些砖块外面抹了灰。
-render = 抹灰
 构词：breeze 煤渣 + block 砖块
 注意地域：
 breezeblock = 煤渣砖（英式）
@@ -114,9 +111,6 @@ breve
 ② A breve marks a short vowel.
 = 短音符标示元音发短音。
 mark = 标示
-③ The sign is a small curve.
-= 那个符号是个小弧线。
-curve = 弧线
 构词：拉丁语 brevis 短的
 注意来历：名字来自"短"，
 它却成了时值最长的音符。
@@ -131,9 +125,6 @@ breviary
 ② A breviary is arranged by the hours.
 = 日课经书按每日的时辰编排。
 arrange = 编排
-③ The book is a portable summary.
-= 那本书是便携的摘要本。
-portable = 便携的
 构词：拉丁语 breviarium 摘要
 注意来历：字面是"摘要"，指把长篇经文缩成一册。
 
@@ -426,10 +417,7 @@ bridegroom
 但不同源，只是后来撞在一起了。可数。
 ① The bridegroom looked nervous.
 = 新郎看着挺紧张。
-② The groom made a short speech.
-= 新郎讲了几句。
-the groom = 新郎（口语缩略）
-③ Both families met the bridegroom.
+② Both families met the bridegroom.
 = 双方家人都见了新郎。
 构词：古英语 brȳdguma 新娘的男子
 注意来历：后半的 groom 本是古英语的"男子"，

@@ -8,9 +8,6 @@ ulcerative colitis = 溃疡性结肠炎
 ② Colitis flares and settles.
 = 结肠炎会发作也会缓解。
 flare = 发作
-③ Diet may affect symptoms.
-= 饮食可能影响症状。
-affect = 影响
 构词：由表示结肠的词根加表示炎症的后缀
 注意用法：医学用词。
 
@@ -85,9 +82,6 @@ a collapsar = 塌缩天体
 ② A collapsar may power a gamma-ray burst.
 = 塌缩星可能驱动伽马射线暴。
 power = 驱动
-③ The word is technical.
-= 那个词是术语。
-technical = 术语性的
 构词：由表示塌缩的那个词加天体后缀
 注意用法：天体物理里的术语。
 
@@ -342,9 +336,6 @@ colligate = 归并到一个说法之下
 ② Colligation is a step towards a law.
 = 那种归并是走向定律的一步。
 colligation = 归并
-③ The word is philosophical.
-= 那个词偏哲学。
-philosophical = 哲学的
 构词：由表示共同与捆扎的两部分拼成
 注意语域：科学哲学里的术语。
 
@@ -405,9 +396,6 @@ a colloquy = 正式的交谈
 ② The book is written as a colloquy.
 = 那本书写成对话体。
 be written as = 写成……体
-③ The word is formal and dated.
-= 那个词正式且带旧气。
-dated = 带旧气的
 构词：拉丁语 colloquium 交谈
 注意语域：书面且带旧气。
 
@@ -436,12 +424,12 @@ get the collywobbles 是心里发慌。永远用复数，带戏谑。
 ① She got the collywobbles before going on.
 = 上台前她心里发慌。
 the collywobbles = 紧张得肚子发慌
-② The word is jokey.
-= 那个词是开玩笑的说法。
-jokey = 开玩笑的
-③ A cup of tea settled them.
-= 一杯茶把那阵慌压下去了。
-settle = 压下去、安定
+② Collywobbles is a jokey word for nerves.
+= 那个词是拿紧张开玩笑的说法。
+the collywobbles = 紧张时肚子发慌
+③ A cup of tea settled her collywobbles.
+= 一杯茶把她那阵心慌压下去了。
+settle the collywobbles = 把心慌压下去
 构词：可能由表示结肠与颤动的两部分混成
 注意用法：永远用复数，英式戏谑口语。
 
@@ -454,9 +442,6 @@ a colobus = 疣猴
 ② Colobus feed mostly on leaves.
 = 疣猴主要吃叶子。
 feed on = 以……为食
-③ Its thumb is much reduced.
-= 它的拇指退化得很小。
-be reduced = 退化变小
 构词：希腊语 kolobos 截短的，因拇指短
 注意用法：单复数同形。
 

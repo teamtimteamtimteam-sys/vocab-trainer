@@ -22,6 +22,22 @@ co- 段里 comp- / conf- / cons- 这几串同前缀词特别密，
 这一段已经靠 audit-swallowed 当场拦下四次（commercial、comfort、
 communist、commune、compost bin、conical）。
 
+【2026-09-05 闸门加到五件套，第五道是 audit-padding】
+用户质疑批量写会不会掉质量，量下来发现真问题不是批量，是冷僻词：
+真实义项只有一两个，我却习惯凑够三个，末尾那条就写成
+「这个词很旧 / 它能长多大 / 美国人怎么拼」，再挂个不相干的等式。
+全表 20140 个义项里查出 424 条这种假义项，已全部清掉：
+纯语域说明的删（16 条），有实质内容的改写成真正用到词头的句子（77 条），
+其余 326 条直接删 —— 删完覆盖数 8920 一条没掉，证明它们本来就没在教东西。
+现在全表 0 条，钩子会拦，别再犯。
+**冷僻词就写两个义项，两个是硬底线，不是凑数的起点。**
+
+【每批写完跑五件套】
+check-wordlist → coverage → audit-depth → audit-swallowed → audit-padding
+往已有词条补义项用 scripts/add-sense.py，补完跑 renumber.py。
+分批文件改过之后要跑 merge-wordlist.py 重新生成合并交付文件，
+否则 B-merged-*.txt 会跟分批文件对不上。
+
 【2026-09-05 闸门加到四件套：audit-swallowed】
 第三次栽在同一个坑上（carriage 被 car 吞、camphor 被 camp 吞、
 comfort 被 comfit 的「注意别混」吞）之后写了 scripts/audit-swallowed.py。
