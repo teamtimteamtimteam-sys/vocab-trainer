@@ -443,6 +443,12 @@ with abandon = 尽情地
 词族：
 abandonment = 遗弃、放弃
 abandoned = 被遗弃的；放荡的
+⑥ They abandoned hope of a rescue.
+= 他们放弃了获救的指望。
+abandon hope = 放弃指望
+⑦ Squatters moved into the abandoned building.
+= 占屋的人住进了那座废弃楼。
+an abandoned building = 废弃的楼
 
 abandoned
 核心：两条线：一是"被遗弃的"（房子、汽车、孩子），二是"放纵无拘的"
@@ -2949,6 +2955,9 @@ dialect = 方言（词汇语法都不同）
 ⑤ Accentuation varies between dialects.
 = 重音模式因方言而异。
 accentuation = 重音法；强调
+⑥ She speaks with a strong accent.
+= 她口音很重。
+a strong accent = 很重的口音
 
 accented
 核心：两条线：说话"带某种口音的"，和文字上"带重音符号的"。
@@ -8133,6 +8142,9 @@ adventurism = 冒险主义（贬义，指不计后果地铤而走险）
 词族：
 adventurous = 爱冒险的（褒义）
 adventurer = 冒险家
+⑨ He has no sense of adventure.
+= 他一点冒险劲头都没有。
+a sense of adventure = 冒险精神
 
 adventurer
 核心：两条线：喜欢冒险探索的"冒险家"（褒义），
@@ -9545,6 +9557,9 @@ affordability = 可负担程度
 ⑥ The flats are affordably priced.
 = 那些公寓定价还算实惠。
 affordably = 在价格上负担得起地
+⑦ Few families can afford it.
+= 没几家负担得起。
+can afford = 负担得起
 
 affordable
 核心：指价格"负担得起的"，是房产、医疗、教育政策讨论的核心词。
@@ -10055,6 +10070,9 @@ afternoon = 下午（正午之后）
 词族：
 aftermath = 余波、后果
 afterthought = 事后想起的补充
+⑫ The dog ran after the postman.
+= 那条狗追着邮差跑。
+run after = 追赶
 
 after-effect
 核心：指"后遗影响"——事情或药物过去之后才显出来的作用，多半不是
@@ -10460,6 +10478,9 @@ as much again = 再多同样多的量
 never again = 再也不
 词族：
 against = 反对（来路不同，别按 again 去推）
+⑧ Once again she was late.
+= 她又一次迟到了。
+once again = 又一次
 
 against
 核心：底层画面是"两股力量相顶"，所有用法都能退回这个画面。顶着
@@ -10773,6 +10794,10 @@ agency、news agency、advertising agency。另有一个正式义指
 = 人需要一种自主感。
 这里：
 agency = 自主能动性
+⑤ She found work through an employment agency.
+= 她通过职业介绍所找到了活儿。
+an employment agency = 职业介绍所
+英式还说 a recruitment agency，两个说法在招聘广告里都常见。
 注意复数：agency → agencies
 
 agenda
@@ -10788,6 +10813,10 @@ on the agenda = 在议程上
 这里带贬义。
 ④ Climate change is back on the political agenda.
 = 气候变化重回政治议题。
+⑤ Critics suspected a hidden agenda.
+= 批评者怀疑背后另有盘算。
+a hidden agenda = 不明说的盘算
+这个说法带指控意味：说对方嘴上讲的不是真正的目的。
 注意：agenda 本是复数形式，
 现在当单数用，复数是 agendas。
 
@@ -10824,6 +10853,10 @@ agent noun = 施事名词
 ⑧ Police used an agent provocateur.
 = 警方用了个煽动特务。
 agent provocateur = 煽动特务（法语借词）
+⑨ The travel agent rebooked us.
+= 旅行社的人给我们改了票。
+a travel agent = 旅行社职员
+店面本身叫 a travel agency，人跟机构别用混。
 
 agglomeration
 核心：指杂七杂八堆在一起的"聚集体"，正式。
@@ -12026,6 +12059,9 @@ in aid of = 为…筹款
 ⑥ Aid climbing relies on gear to move up.
 = 器械攀登靠装备往上走。
 aid climbing = 器械攀登（借装备受力）
+⑦ Neighbours came to her aid.
+= 邻居们赶来帮她。
+come to somebody's aid = 赶去帮某人
 
 aide
 核心：指高级官员或政要的"助手、幕僚"，正式。
@@ -15763,6 +15799,9 @@ allow for = 考虑到
 ⑥ The rules allow of no exception.
 = 那些规定不容例外。
 allow of = 容许有（正式，多用于否定）
+⑦ They allowed him to leave early.
+= 他们准他早走。
+allow somebody to do = 准许某人做
 
 allowable
 核心：指"容许的、在规定范围内的"，多用于税务、
@@ -18280,6 +18319,9 @@ be among = 属于…之列
 ④ Among other things, he mentioned cost.
 = 除别的以外，他提到了成本。
 among other things = 除其他外
+⑤ The rumour spread among many people.
+= 那个传闻在许多人当中传开了。
+among many people = 在许多人当中
 注意区别：
 between 两者之间
 among 三者以上之中
@@ -20117,6 +20159,12 @@ angle grinder = 角磨机
 angular = 有棱角的；瘦削的
 rectangle = 长方形
 triangle = 三角形
+⑨ Cut it at a right angle.
+= 按直角切。
+a right angle = 直角
+⑩ The road turns at a sharp angle.
+= 那条路拐了个急弯。
+a sharp angle = 急拐角
 
 angler
 核心：指用鱼竿钓鱼的人。和 fisherman 的差别：
@@ -20449,6 +20497,9 @@ animal husbandry = 畜牧业、畜牧学
 词族：
 animal rights = 动物权利
 wildlife = 野生动物（总称）
+⑭ Wild animals avoid the road.
+= 野生动物躲着那条路。
+a wild animal = 野生动物
 
 animate
 核心：动词是"赋予生气、制作动画"，形容词是"有生命的、活跃的"。
@@ -24227,6 +24278,9 @@ it appears that = 看来
 appear 出现 / disappear 消失
 词族：
 appearance = 出现、外表
+⑥ She appears to know everyone.
+= 她好像谁都认识。
+appear to do = 看来是、好像
 
 appearance
 核心：三层，全从动词的两条主线长出来：出现这个行为、公开露面的
@@ -28191,6 +28245,14 @@ arrowhead = 箭镞、箭头
 ⑥ Arrowroot thickens the sauce.
 = 竹芋粉能把酱汁勾稠。
 arrowroot = 竹芋粉（一种淀粉）
+⑦ He carried a bow and arrow.
+= 他带着弓箭。
+a bow and arrow = 弓箭
+弓与箭合称时用单数，不说 bows and arrows。
+⑧ Use the arrow keys to move.
+= 用方向键移动。
+an arrow key = 方向键
+键盘上那四个键统称 the arrow keys，多用复数。
 
 arroyo
 核心：美国西南部与墨西哥的地貌词，指"干河沟"——平时是干的，
@@ -28377,6 +28439,9 @@ artsy-fartsy = 装模作样文艺的（贬义更重）
 词族：
 artist = 艺术家
 artistic = 艺术的、有艺术天分的
+⑲ The vase is a work of art.
+= 那个花瓶是件艺术品。
+a work of art = 艺术品
 
 artefact
 核心：指人工制品，尤指有历史或考古价值的器物。
@@ -29520,6 +29585,9 @@ ask out = 约会邀请
 ⑬ That's a big ask.
 = 那要求可不低。
 a big ask = 难办的请求（名词用法，英式口语）
+⑭ She asked him to wait.
+= 她请他等一下。
+ask somebody to do = 请某人做
 
 askance
 核心：只用在 look askance at 这个搭配里，
@@ -30446,6 +30514,9 @@ assign someone something = 分给某人某物
 assign a value to = 赋值给
 词族：
 assignment = 任务、作业
+⑤ The teacher assigned a task to each group.
+= 老师给每组派了任务。
+assign a task = 分派任务
 
 assignation
 核心：指秘密的"幽会"，多带暧昧或阴谋色彩，
@@ -30547,6 +30618,9 @@ assisted living = 协助生活（半自理养老模式）
 ⑦ Factories opened in the assisted areas.
 = 工厂开在了受扶持地区。
 assisted area = 受政府扶持的地区
+⑧ A nurse assisted her with the forms.
+= 一位护士帮她填了表。
+assist somebody with = 在……上帮某人
 
 assistance
 核心：正式用语，指"帮助、援助"，不可数。
@@ -30848,6 +30922,9 @@ assured = 自信的
 = 成功有保障。
 词族：
 assurance = 保证；自信
+⑤ He assured me that it was safe.
+= 他向我保证那是安全的。
+assure somebody that = 向某人保证
 注意区别：
 assure 让人放心（宾语是人）
 ensure 确保（宾语是事）
@@ -31886,6 +31963,9 @@ atmosphere = 标准大气压（物理单位）
 词族：
 atmospheric = 大气的；有情调的
 atmospherics = 电波干扰噪声；氛围效果
+⑦ The cafe has a relaxed atmosphere.
+= 那家咖啡馆气氛松弛。
+a relaxed atmosphere = 松弛的气氛
 
 atmospheric
 核心：两条线：科学上的"大气的"，
@@ -32421,6 +32501,9 @@ an attempt on someone's life = 行刺
 ⑦ He left the last question unattempted.
 = 最后一题他没做。
 unattempted = 未作答的、未尝试的
+⑧ She made one last attempt.
+= 她做了最后一次尝试。
+make an attempt = 作出尝试
 
 attend
 核心：三条线：出席（及物，不加 to）、照料（attend to）、以及正式的
@@ -33060,6 +33143,9 @@ auction off = 拍卖掉
 ⑥ Bidders filled the auction room.
 = 竞买人挤满了拍卖厅。
 auction room = 拍卖厅
+⑦ The house was put up for auction.
+= 那栋房子被拿去拍卖了。
+put up for auction = 拿去拍卖
 
 auctioneer
 核心：指主持拍卖的人——喊价、敲槌成交。
@@ -35525,6 +35611,9 @@ wide awake = 毫无睡意
 ⑤ The country awoke to the danger.
 = 那个国家意识到了危险。
 awake to = 意识到、察觉
+⑥ I could hardly stay awake.
+= 我几乎撑不住不睡。
+stay awake = 撑着不睡
 
 awaken
 核心：两条线：正式或文学的"唤醒（人）"，
@@ -38282,6 +38371,12 @@ bag lady = 提着大包小包露宿街头的女人
 ⑯ He took a bag lunch to work.
 = 他带了午餐去上班。
 bag lunch = 自带的午餐（美式）
+⑰ He slung his schoolbag over one shoulder.
+= 他把书包甩到一边肩上。
+a schoolbag = 书包
+⑱ She carried two shopping bags.
+= 她提着两个购物袋。
+a shopping bag = 购物袋
 注意语域：
 说女人 old bag 是明确的侮辱，不要用。
 注意地域：
@@ -39769,6 +39864,9 @@ a bank of cloud = 一大片云堆
 ㉑ Clearing banks settle the cheques.
 = 清算银行结算那些支票。
 a clearing bank = 清算银行（英式）
+㉒ He has little in the bank.
+= 他银行账上没多少钱。
+in the bank = 在银行账上
 注意别混：
 三支同形不同源：土堆那一支、银行那一支、成排那一支，
 除了「聚在一起」这个模糊印象之外没有真正的亲缘。
@@ -40922,6 +41020,9 @@ barrier method = 屏障避孕法
 ⑧ The Great Barrier Reef is bleaching.
 = 大堡礁正在白化。
 barrier reef = 堡礁
+⑨ The programme breaks down barriers.
+= 那个项目能打破隔阂。
+break down barriers = 打破隔阂
 
 barring
 核心：介词，指"除非发生…、除…之外"——把某种情况排除在外，
@@ -42594,6 +42695,9 @@ coast = 海岸（从地图上看的那条线）
 = 他们开着沙滩车翻过沙丘。
 beach buggy = 沙滩车（宽胎敞篷，专走沙地）
 也写作 dune buggy，美式更常用后者。
+⑩ We spent the day at the beach.
+= 我们在海滩待了一天。
+at the beach = 在海滩
 
 beacon
 核心：底层是"点在高处示警或指路的火"。古时山头点火报警，
@@ -42794,6 +42898,12 @@ beano = 热闹的聚会（英式口语，由 beanfeast 截短而来）
 = 那道炖菜用的是花斑豆。
 borlotti bean = 博罗特豆、花斑豆（生时带红斑，煮熟转褐）
 这类豆名在英语食谱里直接沿用原文，不另造词。
+⑯ Soybeans are pressed for oil.
+= 大豆用来榨油。
+a soybean = 大豆
+⑰ Steam the green beans briefly.
+= 四季豆略蒸一下。
+a green bean = 四季豆
 
 bear
 核心：两个词长成了同一个形。名词那支是熊，另有股市上的
@@ -44441,6 +44551,9 @@ behaviour 英式 / behavior 美式，
 ⑧ The material behaves differently when cold.
 = 那种材料一冷表现就不一样。
 behaviourally = 在行为上
+⑨ Behave yourself at the table.
+= 吃饭时规矩点。
+behave oneself = 守规矩
 
 behaviour
 核心：指"表现出来的样子"，主语可以是人、动物，也可以是物质、市场、
@@ -50483,6 +50596,12 @@ birthday party = 生日聚会
 ④ He ran out in his birthday suit.
 = 他光着身子跑了出去。
 birthday suit = 一丝不挂（玩笑说法）
+⑤ She cut the birthday cake.
+= 她切了生日蛋糕。
+a birthday cake = 生日蛋糕
+⑥ He forgot her birthday present.
+= 他忘了她的生日礼物。
+a birthday present = 生日礼物
 构词：birth 出生 + day 日
 近义对照：
 anniversary = 周年纪念（不专指出生）
@@ -56822,6 +56941,9 @@ miss the boat = 错失良机
 ⑥ They caught the boat train to Dover.
 = 他们坐上了接船的列车去多佛。
 boat train = 与轮船班次衔接的列车
+⑦ They crossed by boat.
+= 他们坐船过去的。
+by boat = 坐船
 构词：古英语 bat
 注意别混：
 boat = 小船（潜艇例外，再大也叫 boat）
@@ -58630,6 +58752,9 @@ bond paper = 高级书写纸
 ⑩ The report documented bonded labour.
 = 那份报告记录了债役劳工的情况。
 bonded labour = 债役劳工（以劳役抵债，形同奴役）
+⑪ Family bonds held them together.
+= 亲情把他们拴在一起。
+a family bond = 亲情纽带
 构词：古诺斯语 band 捆绑物
 词族：
 bonding = 建立感情；粘接
@@ -59565,6 +59690,9 @@ boost morale = 鼓舞士气
 字面那一支。
 ④ The amplifier boosts the signal.
 = 放大器增强信号。
+⑤ The win gave her a confidence boost.
+= 那场胜利让她信心大增。
+a confidence boost = 信心的提振
 构词：来历不明，十八世纪美式用法
 词族：
 booster = 助推器；加强针
@@ -61615,6 +61743,12 @@ bowl over = 撞倒；使惊喜不已
 ⑨ The monk carried a begging bowl.
 = 那名僧人托着钵。
 begging bowl = 化缘钵；也比喻伸手要钱的姿态
+⑩ He finished a bowl of soup.
+= 他喝完了一碗汤。
+a bowl of soup = 一碗汤
+⑪ She ordered a bowl of noodles.
+= 她要了碗面。
+a bowl of noodles = 一碗面
 构词：古英语 bolla 碗
 词族：
 bowling = 保龄球；板球的投球
@@ -63671,6 +63805,9 @@ break time = 课间休息（英式）
 = 他跟那个党决裂了。
 break with = 与某方决裂；也指打破（传统）
 跟人决裂和跟传统决裂用的是同一个说法。
+㉒ Let us take a break.
+= 我们歇会儿吧。
+take a break = 歇一会儿
 构词：古英语 brecan
 注意三态：break / broke / broken
 注意别混：
@@ -63846,6 +63983,15 @@ a dog's breakfast = 一团糟（英式）
 ⑤ She presents breakfast television.
 = 她主持早间电视节目。
 breakfast television = 早间电视节目
+⑥ We have breakfast at seven.
+= 我们七点吃早饭。
+have breakfast = 吃早饭
+⑦ He makes breakfast for everyone.
+= 他给大家做早饭。
+make breakfast = 做早饭
+⑧ She often skips breakfast.
+= 她常不吃早饭。
+skip breakfast = 不吃早饭
 构词：break 打破 + fast 禁食
 注意来历：字面是"打破一夜的禁食"。
 
@@ -64698,6 +64844,9 @@ brick in = 用砖封住
 ⑧ He learned bricklaying at college.
 = 他在学院学了砌砖。
 bricklaying = 砌砖这门手艺
+⑨ They rebuilt it brick by brick.
+= 他们一砖一砖重砌了起来。
+brick by brick = 一砖一砖地
 构词：中古荷兰语 bricke
 词族：
 bricklayer = 砌砖工
@@ -66528,6 +66677,12 @@ Oh brother = 无奈或不耐烦的感叹（美式）
 ⑤ Big Brother is watching you.
 = 老大哥在看着你。
 Big Brother = 无所不在的监控（出自奥威尔的小说）
+⑥ Her older brother drives.
+= 她哥哥会开车。
+an older brother = 哥哥
+⑦ My younger brother is still at school.
+= 我弟弟还在上学。
+a younger brother = 弟弟
 构词：古英语 brōthor
 词族：
 brotherhood = 兄弟情谊；同业团体
@@ -67383,6 +67538,9 @@ bubble tea = 珍珠奶茶
 ⑩ The single is bubbling under.
 = 那首单曲在榜单边缘徘徊。
 bubble under = 在排行榜边缘徘徊（英式）
+⑪ A soap bubble drifted past.
+= 一个肥皂泡飘了过去。
+a soap bubble = 肥皂泡
 构词：拟声
 词族：
 bubbly = 冒泡的；活泼的
@@ -69301,6 +69459,12 @@ bunch together = 挤成一团
 ⑤ The runners bunched up at the bend.
 = 跑者在弯道处挤成一团。
 bunch up = 挤作一团
+⑥ He bought a bunch of grapes.
+= 他买了串葡萄。
+a bunch of grapes = 一串葡萄
+⑦ Thanks a bunch for telling me late.
+= 这么晚才说，真谢谢你了。
+thanks a bunch = 多谢了（常作反话）
 构词：中古英语 bunche 肿块
 注意用法：从花到钥匙到人，共通处是"攒成一把"。
 
@@ -69722,6 +69886,9 @@ burden someone with = 让某人背上某种负担
 ④ The burden of proof lies with them.
 = 举证责任在他们一方。
 the burden of proof = 举证责任
+⑤ The fees are a financial burden.
+= 那些费用是笔经济负担。
+a financial burden = 经济负担
 构词：古英语 byrthen 所背之物
 词族：
 burdensome = 累赘的
@@ -70144,6 +70311,9 @@ burn up = 烧尽；美式口语里还指惹火某人
 ⑭ She scraped the burnt toast.
 = 她把烤焦的面包刮了刮。
 burnt toast = 烤焦的面包
+⑮ He came back with bad sunburn.
+= 他回来时晒伤得厉害。
+sunburn = 晒伤
 构词：古英语 beornan
 注意三态：英式多用 burnt，美式多用 burned。
 
@@ -70452,6 +70622,9 @@ bury your head in the sand = 逃避现实
 ⑥ He buried himself in his work.
 = 他一头埋进了工作里。
 bury yourself in = 埋头于某事
+⑦ She buried herself in work.
+= 她一头扎进了工作里。
+bury oneself in = 一头扎进
 构词：古英语 byrgan
 词族：
 burial = 安葬
@@ -71309,6 +71482,9 @@ butterfat = 乳脂
 ⑪ Butternut trees grow slowly.
 = 那种胡桃树长得慢。
 butternut = 灰胡桃；也指奶油南瓜的那个品种名
+⑫ Put butter on the toast.
+= 面包上抹点黄油。
+put butter on = 抹黄油
 构词：拉丁语 butyrum
 词族：
 buttery = 黄油味的
@@ -71564,6 +71740,9 @@ buy up = 大量买断
 ⑧ They tried to buy off the witness.
 = 他们想花钱把证人摆平。
 buy off = 花钱把人摆平
+⑨ He bought her a coffee.
+= 他给她买了杯咖啡。
+buy somebody something = 给某人买某物
 构词：古英语 bycgan
 注意三态：buy / bought / bought
 

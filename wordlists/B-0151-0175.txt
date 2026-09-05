@@ -120,6 +120,9 @@ dialect = 方言（词汇语法都不同）
 ⑤ Accentuation varies between dialects.
 = 重音模式因方言而异。
 accentuation = 重音法；强调
+⑥ She speaks with a strong accent.
+= 她口音很重。
+a strong accent = 很重的口音
 
 accented
 核心：两条线：说话"带某种口音的"，和文字上"带重音符号的"。

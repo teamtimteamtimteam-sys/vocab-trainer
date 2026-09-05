@@ -318,6 +318,9 @@ brick in = 用砖封住
 ⑧ He learned bricklaying at college.
 = 他在学院学了砌砖。
 bricklaying = 砌砖这门手艺
+⑨ They rebuilt it brick by brick.
+= 他们一砖一砖重砌了起来。
+brick by brick = 一砖一砖地
 构词：中古荷兰语 bricke
 词族：
 bricklayer = 砌砖工

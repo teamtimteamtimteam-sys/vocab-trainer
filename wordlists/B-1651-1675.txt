@@ -240,6 +240,9 @@ atmosphere = 标准大气压（物理单位）
 词族：
 atmospheric = 大气的；有情调的
 atmospherics = 电波干扰噪声；氛围效果
+⑦ The cafe has a relaxed atmosphere.
+= 那家咖啡馆气氛松弛。
+a relaxed atmosphere = 松弛的气氛
 
 atmospheric
 核心：两条线：科学上的"大气的"，

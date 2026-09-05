@@ -17,4 +17,11 @@ if git diff --cached --name-only | grep -q '^wordlists/'; then
     echo "❌ 有凑数义项，提交已中止。例句和等式都要落回词头本身。"
     exit 1
   fi
+  # B 是全量表，理应是 A 的超集：A 教过的搭配 B 里必须找得到。
+  # 2026-09-05 首跑 132 条缺口，全部补完后归零，从此不许回潮。
+  if ! python3 scripts/audit-ab.py; then
+    echo
+    echo "❌ 有 A 教过而 B 没有的用法，提交已中止。补进 B 的对应词条。"
+    exit 1
+  fi
 fi

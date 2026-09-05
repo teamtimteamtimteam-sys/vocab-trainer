@@ -378,6 +378,9 @@ auction off = 拍卖掉
 ⑥ Bidders filled the auction room.
 = 竞买人挤满了拍卖厅。
 auction room = 拍卖厅
+⑦ The house was put up for auction.
+= 那栋房子被拿去拍卖了。
+put up for auction = 拿去拍卖
 
 auctioneer
 核心：指主持拍卖的人——喊价、敲槌成交。

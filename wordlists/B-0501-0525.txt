@@ -296,6 +296,9 @@ afternoon = 下午（正午之后）
 词族：
 aftermath = 余波、后果
 afterthought = 事后想起的补充
+⑫ The dog ran after the postman.
+= 那条狗追着邮差跑。
+run after = 追赶
 
 after-effect
 核心：指"后遗影响"——事情或药物过去之后才显出来的作用，多半不是

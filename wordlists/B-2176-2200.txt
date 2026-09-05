@@ -272,6 +272,9 @@ coast = 海岸（从地图上看的那条线）
 = 他们开着沙滩车翻过沙丘。
 beach buggy = 沙滩车（宽胎敞篷，专走沙地）
 也写作 dune buggy，美式更常用后者。
+⑩ We spent the day at the beach.
+= 我们在海滩待了一天。
+at the beach = 在海滩
 
 beacon
 核心：底层是"点在高处示警或指路的火"。古时山头点火报警，
@@ -472,6 +475,12 @@ beano = 热闹的聚会（英式口语，由 beanfeast 截短而来）
 = 那道炖菜用的是花斑豆。
 borlotti bean = 博罗特豆、花斑豆（生时带红斑，煮熟转褐）
 这类豆名在英语食谱里直接沿用原文，不另造词。
+⑯ Soybeans are pressed for oil.
+= 大豆用来榨油。
+a soybean = 大豆
+⑰ Steam the green beans briefly.
+= 四季豆略蒸一下。
+a green bean = 四季豆
 
 bear
 核心：两个词长成了同一个形。名词那支是熊，另有股市上的

@@ -165,6 +165,9 @@ artsy-fartsy = 装模作样文艺的（贬义更重）
 词族：
 artist = 艺术家
 artistic = 艺术的、有艺术天分的
+⑲ The vase is a work of art.
+= 那个花瓶是件艺术品。
+a work of art = 艺术品
 
 artefact
 核心：指人工制品，尤指有历史或考古价值的器物。
