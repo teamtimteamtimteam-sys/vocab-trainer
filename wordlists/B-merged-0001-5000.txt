@@ -37129,12 +37129,12 @@ backscratching
 核心：指"互相关照"——你帮我一把、我还你一把，靠人情往来交换好处。
 带贬义，暗示这套交换绕开了正当程序。全称是那句谚语：
 你给我挠背，我也给你挠。
-① Committee backscratching decided the award.
-= 那个奖是委员会里互相关照定下来的。
-② The industry runs on backscratching.
-= 那个行业靠的就是人情交换。
-③ Critics called it institutional backscratching.
-= 批评者称之为制度化的互相关照。
+① Committee backscratching decided the award before the entries were read.
+= 参赛作品还没读，那个奖就已经由委员会里的互相关照定下了。
+② The industry runs on backscratching and calls it building relationships.
+= 那个行业靠的就是人情交换，还管它叫经营关系。
+③ Critics called it institutional backscratching and were not invited back.
+= 批评者称之为制度化的互相关照，此后再没被请去过。
 注意语域：
 带贬义，多见于政治与行业评论。
 近义对照：
@@ -37145,13 +37145,13 @@ nepotism = 任人唯亲（限亲属）
 backshift
 核心：英式说法，指"晚班"——傍晚接上白班、干到深夜的那一班。
 三班倒里它夹在早班和夜班中间。也指上这个班的那批人。
-① He works the backshift this week.
-= 他这周上晚班。
+① He works the backshift this week and sees the children at breakfast only.
+= 他这周上晚班，只有早饭时能见到孩子。
 work the backshift = 上晚班
-② The backshift starts at two.
-= 晚班两点开始。
-③ Backshift workers get a premium.
-= 上晚班的有津贴。
+② The backshift starts at two and the handover takes twenty minutes.
+= 晚班两点开始，交接要二十分钟。
+③ Backshift workers get a premium that has not risen since 2011.
+= 上晚班的有津贴，那津贴自二〇一一年起没涨过。
 注意地域：
 英式工厂与轮班用语。
 班次对照：
@@ -37163,13 +37163,13 @@ backside
 核心：非正式说法，指"屁股"。语气比 buttocks 随意，比更粗的
 说法客气，所以是相对安全的日常用词。也可指某物的"背面"，
 但那一层少见。
-① Sit on your backside and listen.
-= 老实坐下听着。
-② He landed on his backside.
-= 他一屁股摔在地上。
+① Sit on your backside and listen for once.
+= 老实坐下，好歹听一回。
+② He landed on his backside in front of the whole queue.
+= 他当着整队人的面一屁股摔在地上。
 land on one's backside = 摔个屁股墩
-③ Get off your backside and help.
-= 别坐着了，起来帮忙。
+③ Get off your backside and help before she asks a third time.
+= 别坐着了，趁她还没第三次开口，起来帮忙。
 get off one's backside = 动起来别闲着
 注意语域：
 非正式但不算粗俗，日常可用。
@@ -37182,12 +37182,12 @@ backslapping
 核心：字面是"拍人后背"那个动作，指那种"热络过头的应酬劲儿"——
 互相恭维、称兄道弟、场面上一团和气。多带轻微贬义，
 暗示热情是装出来的、内容是空的。
-① The dinner was all backslapping.
-= 那顿饭全是场面上的热络。
-② He hates corporate backslapping.
-= 他讨厌公司里那套互相吹捧。
-③ Backslapping replaced real debate.
-= 一团和气取代了真正的辩论。
+① The dinner was all backslapping and nobody mentioned the figures.
+= 那顿饭全是场面上的热络，没人提那些数字。
+② He hates corporate backslapping and leaves before the speeches.
+= 他讨厌公司里那套互相吹捧，讲话还没开始就走。
+③ Backslapping replaced real debate at about the third annual meeting.
+= 大概从第三届年会起，一团和气就取代了真正的辩论。
 注意语域：
 带轻贬，暗示热情浮于表面。
 近义对照：
@@ -37199,12 +37199,12 @@ backslash
 核心：键盘上向左下倾斜的那道斜杠。它跟普通斜杠方向相反：
 网址用的是普通斜杠，视窗系统的文件路径用的才是它，
 编程里它还用来转义。
-① Type a backslash before the quote.
-= 在引号前打一个反斜杠。
-② Windows paths use backslashes.
-= 视窗系统的路径用反斜杠。
-③ A backslash escapes the next character.
-= 反斜杠会转义后面那个字符。
+① Type a backslash before the quote or the whole string breaks.
+= 在引号前打一个反斜杠，否则整个字符串就废了。
+② Windows paths use backslashes and everything else uses the other one.
+= 视窗系统的路径用反斜杠，别的地方一律用另一种。
+③ A backslash escapes the next character and is itself escaped by another.
+= 反斜杠会转义后面那个字符，而它自己要靠再加一个来转义。
 escape a character = 转义字符
 注意别混：
 backslash = 反斜杠（向左下倾）
@@ -37214,13 +37214,13 @@ backsliding
 核心：指"故态复萌、倒退"——本来已经改好或已经进步，后来又退回
 老样子。宗教语境里指信仰上的堕落，政治与政策语境里指改革倒退。
 动词是 backslide。
-① The report warns of democratic backsliding.
-= 那份报告警告民主倒退。
+① The report warns of democratic backsliding in four countries at once.
+= 那份报告同时警告四个国家的民主倒退。
 democratic backsliding = 民主倒退
-② He confessed to backsliding.
-= 他承认自己故态复萌。
-③ Dieters often backslide in winter.
-= 减肥的人冬天常反弹。
+② He confessed to backsliding and was forgiven rather too readily.
+= 他承认自己故态复萌，而对方原谅得未免太痛快。
+③ Dieters often backslide in winter and start again in the new year.
+= 减肥的人冬天常反弹，到新年再重来一次。
 backslide = 故态复萌
 注意语域：
 宗教、政治与个人习惯三种语境都用。
@@ -37233,14 +37233,14 @@ backspace
 核心：键盘上往回删的那个键，也指按它这个动作——光标左移一格
 并删掉那里的字符。跟 delete 键的分别在于删的方向：
 它删光标前面的，delete 删光标后面的。
-① Press backspace to delete it.
-= 按退格键删掉。
+① Press backspace to delete it, and hold it down to lose the sentence.
+= 按退格键删掉，一直按住就整句都没了。
 press backspace = 按退格键
-② She backspaced over the typo.
-= 她退格删掉了那个错字。
+② She backspaced over the typo and introduced a different one.
+= 她退格删掉了那个错字，又打出一个新的。
 backspace over = 退格删掉
-③ The backspace key is worn smooth.
-= 那个退格键都磨光了。
+③ The backspace key is worn smooth and the others are not.
+= 那个退格键磨得发亮，别的键都没有。
 注意别混：
 backspace = 退格（删前面的字符）
 delete = 删除（删后面的字符）
@@ -37249,13 +37249,13 @@ backspin
 核心：球类里的"下旋"——击球时给球加上向后的旋转，球落地后会
 往回蹦或急停。网球的削球、乒乓的搓球、高尔夫的近距离球都靠它
 让球停住。跟前旋正好相反。
-① He put backspin on the ball.
-= 他给球加了下旋。
+① He put backspin on the ball and it stopped a foot from the hole.
+= 他给球加了下旋，球停在离洞一英尺的地方。
 put backspin on = 加下旋
-② Backspin makes the ball check up.
-= 下旋让球落地就停。
-③ A slice generates backspin.
-= 削球会产生下旋。
+② Backspin makes the ball check up instead of running on.
+= 下旋让球落地就停，而不是继续往前滚。
+③ A slice generates backspin and takes pace off the shot.
+= 削球会产生下旋，也把球速削掉一截。
 注意别混：
 backspin = 下旋（落地回蹦或急停）
 topspin = 上旋（落地前冲）
@@ -37264,14 +37264,14 @@ backstage
 核心：字面指剧场"后台"——观众看不见的那一侧，演员化妆候场、
 布景搬运都在那儿。比喻着用指"幕后"，说的是不公开的那部分
 运作。作副词也作形容词。
-① She went backstage after the show.
-= 散场后她去了后台。
+① She went backstage after the show and found nobody wanted to talk.
+= 散场后她去了后台，发现没人想说话。
 go backstage = 去后台
-② Backstage passes are hard to get.
-= 后台通行证不好弄。
+② Backstage passes are hard to get and worth less than people imagine.
+= 后台通行证不好弄，实际价值却不如人们想的。
 backstage pass = 后台通行证
-③ Backstage deals decided the outcome.
-= 幕后交易定了结果。
+③ Backstage deals decided the outcome weeks before the vote.
+= 投票前几周，幕后交易就已经定了结果。
 backstage deal = 幕后交易
 注意用法：
 作副词时前面不加介词。
@@ -37280,13 +37280,13 @@ backstairs
 核心：字面指仆人走的"后楼梯"——旧式大宅里主人走前梯、
 用人走后梯。作定语时比喻"暗中进行的、走后门的"，
 带贬义，说的是不摆到台面上的那套。
-① Servants used the backstairs.
-= 用人走的是后楼梯。
-② Backstairs deals settled the appointment.
-= 那个任命是靠暗中交易定下的。
+① Servants used the backstairs and were not to be seen on the main flight.
+= 用人走的是后楼梯，不得出现在正梯上。
+② Backstairs deals settled the appointment before it was advertised.
+= 那个职位还没登出招聘，任命就已靠暗中交易定了。
 backstairs deal = 暗中交易
-③ He resented the backstairs influence.
-= 他厌恶那种幕后的影响力。
+③ He resented the backstairs influence more than the decision itself.
+= 比起那个决定本身，他更厌恶背后的那种影响力。
 backstairs influence = 幕后影响
 注意用法：
 作定语时一律带贬义。
@@ -37299,13 +37299,13 @@ backstitch
 核心：一种手缝针法：每针往回扎到上一针的末端，再从前面出针，
 所以线迹在正面连成一条不断的实线，比平针结实得多。
 补衣服和缝受力处都用它。
-① She sewed the seam with backstitch.
-= 那道缝她用回针缝的。
+① She sewed the seam with backstitch because it would take the strain.
+= 那道缝她用回针缝，因为回针受得住力。
 sew with backstitch = 用回针缝
-② Backstitch is stronger than running stitch.
-= 回针比平针结实。
-③ Backstitch leaves an unbroken line.
-= 回针的线迹是连续不断的。
+② Backstitch is stronger than running stitch and takes about three times as long.
+= 回针比平针结实，用时也大约是三倍。
+③ Backstitch leaves an unbroken line on the right side and a ridge underneath.
+= 回针在正面留下一条不断的线迹，反面则是一道棱。
 注意别混：
 backstitch = 回针（结实，线迹连续）
 running stitch = 平针（快，但不牢）
@@ -37314,13 +37314,13 @@ backstop
 核心：底层是"挡在后面的那道防线"。棒球场里指本垒后面那道挡球网；
 比喻着用指"兜底的安排"——万一别的都不奏效，还有它顶着。
 金融与政治谈判里这一层用得最多。
-① The backstop caught the wild pitch.
-= 挡网接住了那记暴投。
-② The fund acts as a backstop.
-= 那笔基金起兜底作用。
+① The backstop caught the wild pitch and saved two runs.
+= 挡网接住了那记暴投，保住了两分。
+② The fund acts as a backstop and has never once been drawn on.
+= 那笔基金起兜底作用，一次也没动用过。
 act as a backstop = 起兜底作用
-③ Negotiators argued over the backstop.
-= 谈判方为那项兜底安排争执不下。
+③ Negotiators argued over the backstop for eleven months.
+= 谈判方为那项兜底安排争执了十一个月。
 注意语域：
 棒球义具体，兜底义多见于金融与政治报道。
 近义对照：
@@ -37332,13 +37332,13 @@ backstory
 核心：指"前情、背景故事"——一个人物或一件事在正式登场之前的
 经历。编剧和小说家用得最多：观众不一定看得到它，
 但它决定了人物为什么这么做。
-① The film sketches his backstory.
-= 那部电影交代了他的前情。
+① The film sketches his backstory in about ninety seconds and moves on.
+= 那部电影用大约九十秒交代他的前情，随即往下走。
 sketch a backstory = 勾勒前情
-② Every character needs a backstory.
-= 每个角色都得有前史。
-③ The backstory explains her distrust.
-= 那段前情解释了她为何不信人。
+② Every character needs a backstory, and the audience should see none of it.
+= 每个角色都得有前史，而观众一点都不该看见。
+③ The backstory explains her distrust without ever excusing it.
+= 那段前情解释了她为何不信人，却没有为此开脱。
 注意语域：
 影视与小说创作用语，也用于品牌叙事。
 近义对照：
@@ -37350,12 +37350,12 @@ backstreet
 核心：指"背街小巷"——离主干道远、窄而不起眼的街。作定语时带
 明确的负面意味，指"非法的、地下的"，最典型的搭配是
 backstreet abortion，指没有执照、不安全的堕胎。
-① They live in a quiet backstreet.
-= 他们住在一条僻静的小街上。
-② Backstreet garages charge less.
-= 小巷里的修车铺收费便宜。
-③ The law drove women to backstreet abortions.
-= 那条法律把妇女逼向地下堕胎。
+① They live in a quiet backstreet that floods twice a winter.
+= 他们住在一条僻静的小街上，那街一个冬天要淹两回。
+② Backstreet garages charge less and know the older engines better.
+= 小巷里的修车铺收费便宜，对老发动机也更在行。
+③ The law drove women to backstreet abortions and killed a good many of them.
+= 那条法律把妇女逼向地下堕胎，害死了不少人。
 backstreet abortion = 非法堕胎
 注意用法：
 作定语时几乎总带负面意味。
@@ -37368,13 +37368,13 @@ backstroke
 核心：游泳四种竞技泳姿之一的"仰泳"——仰面朝天，两臂轮流向后
 划水。它是唯一一个从水里出发、不用跳台的项目，
 也是唯一看不见前方的泳姿。
-① She swims backstroke.
-= 她游仰泳。
+① He won the backstroke by a fingertip and did not know it until the board lit.
+= 他以一指之差赢下仰泳，直到记分牌亮起才知道。
 swim backstroke = 游仰泳
-② Backstroke starts in the water.
-= 仰泳是在水中出发的。
-③ He won gold in the backstroke.
-= 他拿了仰泳金牌。
+② Backstroke starts in the water, which makes it the only race without a dive.
+= 仰泳是在水中出发的，因此是唯一不用跳水的项目。
+③ Swimmers count strokes in backstroke because they cannot see the wall.
+= 仰泳时看不见池壁，所以选手靠数划水次数。
 注意语域：
 游泳竞技项目名称。
 泳姿对照：
@@ -37386,13 +37386,13 @@ backswing
 核心：挥拍或挥杆时"向后拉的那一段"——把球杆、球拍或球棒往后带
 到最高点，然后才往前挥出去。它决定了发力的幅度，
 所以教练常说问题出在这一段。
-① His backswing is too short.
-= 他的后摆幅度太小。
-② Pause at the top of the backswing.
-= 后摆到顶时停一下。
+① His backswing is too short and the ball never leaves the fairway.
+= 他的后摆幅度太小，球始终飞不出球道。
+② Pause at the top of the backswing and the rest sorts itself out.
+= 后摆到顶时停一下，其余的自然就顺了。
 the top of the backswing = 后摆最高点
-③ A smooth backswing sets up the shot.
-= 平稳的后摆决定了这一击。
+③ A smooth backswing sets up the shot better than any amount of force.
+= 平稳的后摆比多大的力气都更能决定这一击。
 注意语域：
 高尔夫、网球与棒球术语。
 挥杆分段：
@@ -37403,14 +37403,14 @@ follow-through = 随挥（击球后惯性带过）
 backtrack
 核心：底层是"顺着来时的脚印往回走"。字面指原路折返；
 比喻着用指"改口、收回说过的话"，多半是迫于压力，带贬义。
-① They backtracked to the last junction.
-= 他们原路退回上一个岔口。
+① They backtracked to the last junction and lost an hour of daylight.
+= 他们原路退回上一个岔口，白白耗掉一小时天光。
 backtrack to = 折返到
-② The minister backtracked on the pledge.
-= 那位大臣在承诺上改了口。
+② The minister backtracked on the pledge in an interview nobody had expected.
+= 在一场谁也没料到的采访里，那位大臣在承诺上改了口。
 backtrack on = 在…上改口
-③ He backtracked under questioning.
-= 被追问之下他往回缩了。
+③ He backtracked under questioning and then denied having backtracked.
+= 被追问之下他往回缩了，随后又否认自己缩过。
 注意用法：
 比喻义带贬义，暗示前后不一。
 近义对照：
@@ -37463,12 +37463,12 @@ backward-looking
 核心：形容词，指"往回看的、守旧的"——判断事情时凭过去的经验和
 旧规矩，不看眼下的新情况。带贬义。跟它相对的是
 forward-looking。
-① The policy is backward-looking.
-= 那项政策是往回看的。
-② Critics call the plan backward-looking.
-= 批评者说那个方案守旧。
-③ A backward-looking firm loses ground.
-= 守旧的公司会掉队。
+① The policy is backward-looking and was written by people who remember better times.
+= 那项政策是往回看的，起草它的人记着更好的年月。
+② Critics call the plan backward-looking and its authors call it proven.
+= 批评者说那个方案守旧，起草者说它久经检验。
+③ A backward-looking firm loses ground slowly and then all at once.
+= 守旧的公司先是慢慢掉队，然后一下子就垮了。
 a backward-looking firm = 守旧的公司
 注意别混：
 backward-looking = 守旧的（贬义）
@@ -37498,12 +37498,12 @@ bend over backwards = 竭尽全力
 backwash
 核心：两层。字面指船桨或螺旋桨搅出的"回流"，以及海浪退回海里的
 那股水。比喻着用指一件事的"余波"——多半是没料到的负面影响。
-① The backwash rocked the small boat.
-= 回流把那条小船晃得厉害。
-② Backwash drags swimmers seaward.
-= 退浪会把泳者拖向海里。
-③ The scandal's backwash hit the whole board.
-= 那桩丑闻的余波波及了整个董事会。
+① The backwash rocked the small boat long after the ferry had gone.
+= 渡轮开走很久之后，回流还在把那条小船晃得厉害。
+② Backwash drags swimmers seaward and is stronger than it looks.
+= 退浪会把泳者拖向海里，力道比看上去大。
+③ The scandal's backwash hit the whole board within a fortnight.
+= 那桩丑闻的余波两周之内波及了整个董事会。
 the backwash of = …的余波
 注意用法：
 比喻义几乎总指负面的连带影响。
@@ -37516,13 +37516,13 @@ backwater
 核心：字面指河边那些"回水湾"——水流不到、几乎不动的死水区。
 比喻着用指"闭塞落后的地方"，外面世界变了它还没动。
 带贬义。
-① Fish shelter in the backwater.
-= 鱼躲在回水里。
-② The town is a cultural backwater.
-= 那个镇子是文化上的一潭死水。
+① Fish shelter in the backwater where the current cannot reach them.
+= 鱼躲在回水里，水流够不到那儿。
+② The town is a cultural backwater and rather proud of it.
+= 那个镇子是文化上的一潭死水，还颇为此自豪。
 a cultural backwater = 文化上的闭塞之地
-③ He left the backwater for the capital.
-= 他离开那个闭塞的地方去了首都。
+③ He left the backwater for the capital and moved back at fifty.
+= 他离开那个闭塞的地方去了首都，五十岁又搬了回来。
 注意语域：
 比喻义带贬义，说人家乡时会冒犯。
 近义对照：
