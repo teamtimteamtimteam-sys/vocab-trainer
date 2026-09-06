@@ -73,13 +73,13 @@ attractiveness = 吸引力
 attributable
 核心：指"可归因于…的"，正式。介词固定用 to。
 学术和统计写作里高频。
-① The rise is attributable to demand.
-= 那次上涨可归因于需求。
+① The rise is attributable to demand rather than to anything the company did.
+= 那次上涨可归因于需求，跟公司做了什么无关。
 attributable to = 可归因于
-② Deaths attributable to smoking are many.
-= 归因于吸烟的死亡人数很多。
-③ The effect is directly attributable.
-= 那个效应可直接归因。
+② Deaths attributable to smoking are many and still undercounted.
+= 归因于吸烟的死亡人数很多，而且仍被低估。
+③ The effect is directly attributable and the paper says so in one cautious sentence.
+= 那个效应可直接归因，论文用一句谨慎的话这么写了。
 directly attributable = 可直接归因的
 词族：
 attribute = 归因于
@@ -113,13 +113,13 @@ attributively = 作定语地
 attribution
 核心：指"归因、署名归属"。学术上指注明出处，
 艺术上指认定作品出自谁手。
-① The attribution is disputed.
-= 那件作品的归属有争议。
-② Proper attribution avoids plagiarism.
-= 规范署名可避免抄袭。
+① The attribution is disputed and two museums claim the same brush.
+= 那件作品的归属有争议，两家博物馆都说出自同一支画笔。
+② Proper attribution avoids plagiarism and takes about four seconds.
+= 规范署名可避免抄袭，花的时间不过四秒。
 proper attribution = 正确署名
-③ Attribution of blame is premature.
-= 现在归咎为时过早。
+③ Attribution of blame is premature while the recorder is still being read.
+= 记录仪还在读取，现在归咎为时过早。
 attribution of blame = 责任归属
 词族：
 attribute = 归因于
@@ -131,14 +131,14 @@ citation = 引用出处（学术）
 attrition
 核心：两条线：军事上靠消耗拖垮对方的"消耗战"，
 和人事上的"自然减员"（不补员的流失）。不可数。
-① It became a war of attrition.
-= 那变成了一场消耗战。
+① It became a war of attrition that neither side had planned for.
+= 那变成了一场消耗战，哪一方都没预备打这种仗。
 war of attrition = 消耗战
-② Staff numbers fell through attrition.
-= 人员靠自然流失减少了。
+② Staff numbers fell through attrition and the work did not fall with them.
+= 人员靠自然流失减少了，活儿可没跟着减。
 through attrition = 通过自然减员
-③ The attrition rate is high.
-= 流失率很高。
+③ The attrition rate is high in the first year and negligible after the third.
+= 第一年流失率很高，过了第三年就微不足道了。
 attrition rate = 流失率
 注意发音：/əˈtrɪʃn/
 近义对照：
@@ -149,13 +149,13 @@ erosion = 侵蚀（渐进消磨）
 attune
 核心：指使人或事物"适应、契合"某种情况。
 几乎总用被动 be attuned to。
-① She is attuned to his moods.
-= 她很懂他的情绪。
+① She is attuned to his moods and can tell from the way he shuts a door.
+= 她很懂他的情绪，从他关门的方式就听得出来。
 be attuned to = 对…敏感契合
-② The policy is attuned to local needs.
-= 那项政策贴合本地需求。
-③ His ear is attuned to detail.
-= 他的耳朵对细节很敏锐。
+② The policy is attuned to local needs in a way the last three were not.
+= 那项政策贴合本地需求，前三项都不曾如此。
+③ His ear is attuned to detail and he hears the fault before the engineer does.
+= 他的耳朵对细节很敏锐，比工程师更早听出毛病。
 词源：at + tune（调音）
 近义对照：
 attune to = 契合、敏感于（正式）

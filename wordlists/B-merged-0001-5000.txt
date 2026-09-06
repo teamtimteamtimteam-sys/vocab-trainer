@@ -31701,14 +31701,14 @@ atonic
 核心：两层，都从"没有力"来。医学上指肌肉"张力缺失的"，
 肌张力低到撑不住姿势；语音学上指音节"不带重音的"。
 名词是 atony 或 atonicity。
-① The infant showed atonic limbs.
-= 那个婴儿四肢肌张力低下。
+① The infant showed atonic limbs that hung when he was lifted.
+= 那个婴儿四肢肌张力低下，抱起来时软软地垂着。
 atonic limbs = 张力低下的肢体
-② An atonic seizure causes sudden collapse.
-= 失张力发作会让人突然瘫倒。
+② An atonic seizure causes sudden collapse without any warning at all.
+= 失张力发作会让人毫无预兆地突然瘫倒。
 atonic seizure = 失张力发作
-③ Atonic syllables carry no stress.
-= 无重音音节不带重音。
+③ Atonic syllables carry no stress and are the first to disappear in fast speech.
+= 无重音音节不带重音，说快了最先消失的就是它们。
 atonic syllable = 无重音音节
 注意语域：
 医学与语音学各用一义。
@@ -31735,13 +31735,13 @@ atopic
 核心：医学形容词，指"特应性的"——身体对本来无害的东西（花粉、
 尘螨、食物）过度反应，而且几种毛病常一起出现：湿疹、哮喘、
 过敏性鼻炎，医生管这一串叫 atopic march。名词是 atopy。
-① She has atopic dermatitis.
-= 她有特应性皮炎。
+① She has atopic dermatitis that clears every summer and comes back in October.
+= 她有特应性皮炎，每年夏天好转，十月又回来。
 atopic dermatitis = 特应性皮炎（湿疹）
-② Atopic children often develop asthma.
-= 特应性体质的孩子常会发展出哮喘。
-③ Atopy tends to run in families.
-= 特应性体质有家族倾向。
+② Atopic children often develop asthma, usually before they start school.
+= 特应性体质的孩子常会发展出哮喘，多半在上学之前。
+③ Atopy tends to run in families and skips no more than a generation.
+= 特应性体质有家族倾向，最多隔一代就会出现。
 atopy = 特应性（体质）
 注意语域：
 过敏与皮肤科术语。
@@ -31749,14 +31749,14 @@ atopy = 特应性（体质）
 atrium
 核心：两条线：建筑上有天窗的"中庭"，
 和解剖上心脏的"心房"。复数是拉丁式的。
-① The hotel has a glass atrium.
-= 那家酒店有个玻璃中庭。
+① The hotel has a glass atrium that costs more to heat than the rooms do.
+= 那家酒店有个玻璃中庭，供暖费比客房还高。
 glass atrium = 玻璃中庭
-② Blood enters the right atrium.
-= 血液进入右心房。
+② Blood enters the right atrium from the veins and waits there for the beat.
+= 血液从静脉进入右心房，在那里等着下一次搏动。
 right atrium = 右心房
-③ Light floods the atrium.
-= 光线洒满中庭。
+③ Light floods the atrium at noon and misses it entirely by three.
+= 正午时光线洒满中庭，到三点就完全照不进去了。
 注意复数：
 atrium → atria 或 atriums
 心脏四腔：
@@ -31766,13 +31766,13 @@ ventricle = 心室（下，泵血）
 atrocious
 核心：两条线：真正"暴行般残忍的"（正式），
 和口语夸张的"糟透了的"。后者日常更常见。
-① The weather was atrocious.
-= 天气糟透了。
+① The weather was atrocious and the match went ahead anyway.
+= 天气糟透了，比赛还是照常进行。
 口语夸张用法
-② His handwriting is atrocious.
-= 他字写得惨不忍睹。
-③ Atrocious crimes were committed.
-= 犯下了暴行。
+② His handwriting is atrocious and his prescriptions have caused two arguments.
+= 他字写得惨不忍睹，开的处方引起过两次争执。
+③ An atrocious crime was committed in a village where nothing had happened for decades.
+= 在一个几十年太平无事的村子里，发生了一起令人发指的罪行。
 atrocious crime = 令人发指的罪行
 副词形式：
 atrociously = 糟糕地
@@ -31786,14 +31786,14 @@ dreadful = 糟糕的（英式常用）
 atrocity
 核心：指战争或冲突中的"暴行"，语气极重，
 常用复数。和口语里的 atrocious 分量差很远。
-① War atrocities were documented.
-= 战争暴行被记录了下来。
+① War atrocities were documented by a nurse who kept her notes in a biscuit tin.
+= 战争暴行是一位护士记录下来的，她把笔记藏在饼干盒里。
 war atrocity = 战争暴行
-② They committed atrocities.
-= 他们犯下了暴行。
+② They committed atrocities that the courts are still trying forty years later.
+= 他们犯下的暴行，四十年后法庭仍在审。
 commit atrocities = 实施暴行
-③ The atrocity shocked the world.
-= 那起暴行震惊世界。
+③ The atrocity shocked the world for about eleven days.
+= 那起暴行震惊世界，大约震惊了十一天。
 注意复数：atrocity → atrocities
 词族：atrocious
 近义对照：
@@ -31804,13 +31804,13 @@ massacre = 屠杀（大量杀戮）
 atrophy
 核心：医学上指肌肉或器官因不用而"萎缩"，
 比喻指能力或制度"衰退"。名词动词同形。
-① The muscles atrophied.
-= 那些肌肉萎缩了。
-② Muscle atrophy sets in quickly.
-= 肌肉萎缩来得很快。
+① The muscles atrophied within three weeks of the cast going on.
+= 打上石膏三周之内，那些肌肉就萎缩了。
+② Muscle atrophy sets in quickly and takes far longer to reverse than to cause.
+= 肌肉萎缩来得很快，逆转它要比造成它久得多。
 muscle atrophy = 肌萎缩
-③ His skills atrophied from disuse.
-= 他的技能因荒废而退化。
+③ His skills atrophied from disuse and came back faster than he expected.
+= 他的技能因荒废而退化，恢复起来却比他预想的快。
 atrophy from disuse = 因不用而退化
 注意发音：/ˈætrəfi/
 构词：a- 无 + trophy 营养
@@ -31821,13 +31821,13 @@ attaboy
 核心：非正式的喝彩语，用来夸奖或鼓劲，相当于"好样的、就这么干"。
 由 that's the boy 一路缩合而来。对女性说 attagirl。
 既作感叹词，也可作名词指这样一句夸奖。
-① Attaboy, keep it up!
-= 好样的，保持住！
-② Attagirl, you nailed it.
-= 真棒，你做到了。
+① Attaboy, keep it up, said the man who had never once run himself.
+= 「好样的，保持住」，说这话的人自己一次也没跑过。
+② Attagirl, you nailed it, and she pretended not to have heard.
+= 「真棒，你做到了」，她装作没听见。
 attagirl = 好样的（对女性说）
-③ He got an attaboy from the coach.
-= 教练夸了他一句。
+③ He got an attaboy from the coach and nothing else for the whole season.
+= 整个赛季他从教练那里只得到一句夸奖，别的什么也没有。
 an attaboy = 一句夸奖
 注意语域：
 非正式口语，多用于体育与职场鼓劲。
@@ -31858,14 +31858,14 @@ attachment = 附件；依恋
 attaché
 核心：指使馆里负责某专门领域的"专员"，
 如 military attaché（武官）。带重音符号。
-① He is the cultural attaché.
-= 他是文化专员。
+① He is the cultural attaché and spends most of his week at concerts.
+= 他是文化专员，一周里大半时间在听音乐会。
 cultural attaché = 文化专员
-② The military attaché attended.
-= 武官出席了。
+② The military attaché attended in uniform and said nothing all evening.
+= 武官穿着制服出席，整晚一言不发。
 military attaché = 武官
-③ She carried an attaché case.
-= 她提着一个公文包。
+③ She carried an attaché case with three papers and a sandwich in it.
+= 她提着一个公文箱，里面装着三份文件和一个三明治。
 attaché case = 公文箱
 注意发音：/əˈtæʃeɪ/，词源是法语。
 注意拼写：é 上有重音符号，
@@ -31946,14 +31946,14 @@ attack dog = 攻击犬；（比喻）替人出头的打手
 attacker
 核心：两条线：袭击他人的人，
 和足球等运动里的"进攻球员"。
-① The attacker fled the scene.
-= 袭击者逃离了现场。
+① The attacker fled the scene on a bicycle that was found the next morning.
+= 袭击者骑自行车逃离现场，那辆车第二天早上被找到。
 flee the scene = 逃离现场
-② She fought off her attacker.
-= 她击退了袭击者。
+② She fought off her attacker with a bag of shopping and a good deal of noise.
+= 她用一袋买来的东西和一通大喊击退了袭击者。
 fight off = 击退
-③ The attacker scored twice.
-= 那名前锋进了两球。
+③ The attacker scored twice and was substituted before the hour.
+= 那名前锋进了两球，不到一小时就被换下。
 足球位置：
 attacker / forward = 前锋
 midfielder = 中场
@@ -31991,13 +31991,13 @@ accomplish = 完成（重在有成果）
 attainable
 核心：指目标"可达成的"。常和 realistic 连用，
 用于目标设定的语境。
-① Set attainable goals.
-= 设定可达成的目标。
+① Set attainable goals, because a target nobody believes in gets quietly dropped.
+= 设定可达成的目标，没人相信的指标最后总会被悄悄放弃。
 attainable goal = 可实现的目标
-② The target is attainable.
-= 那个指标能达到。
-③ Success seemed attainable.
-= 成功似乎触手可及。
+② The target is attainable if the weather holds and nobody falls ill.
+= 只要天气不变、没人生病，那个指标就能达到。
+③ Success seemed attainable until the funding was cut in the second year.
+= 成功似乎触手可及，直到第二年经费被砍。
 反义词：
 unattainable = 无法达到的
 词族：attain、attainment
@@ -32010,14 +32010,14 @@ realistic = 现实的（不离谱）
 attainment
 核心：两条线：抽象的"达成"，
 和具体的"学业成就、造诣"（常用复数）。
-① Educational attainment rose.
-= 教育水平提高了。
+① Educational attainment rose in the district for eleven straight years.
+= 那个区的教育水平连续十一年上升。
 educational attainment = 受教育程度
-② The attainment of peace took years.
-= 和平的实现花了多年。
+② The attainment of peace took years and held for rather fewer.
+= 和平的实现花了多年，维持的时间却短得多。
 the attainment of = …的达成
-③ Her attainments are impressive.
-= 她的造诣令人赞叹。
+③ Her attainments are impressive and none of them appears on her business card.
+= 她的造诣令人赞叹，名片上一样也没印。
 复数 = 才能、造诣
 词族：attain、attainable
 近义对照：
@@ -32029,14 +32029,14 @@ attar
 核心：从花瓣蒸馏出来的浓香精油，最有名的是玫瑰精油，
 所以常说 attar of roses。要几千朵花才出一小瓶，历来极贵。
 波斯语经阿拉伯语传入英语。
-① A drop of attar scents the whole room.
-= 一滴玫瑰精油就能香满整间屋子。
+① A drop of attar scents the whole room and lingers for two days.
+= 一滴玫瑰精油就能香满整间屋子，气味留两天。
 a drop of attar = 一滴香精
-② Attar of roses comes from Bulgaria and Iran.
-= 玫瑰精油产自保加利亚与伊朗。
+② Attar of roses comes from Bulgaria and Iran and takes a field of flowers per bottle.
+= 玫瑰精油产自保加利亚与伊朗，一瓶要用掉一整片花田。
 attar of roses = 玫瑰精油
-③ Attar is distilled from fresh petals.
-= 香精是用鲜花瓣蒸馏出来的。
+③ Attar is distilled from fresh petals picked before the sun is on them.
+= 香精是用日头晒到之前采下的鲜花瓣蒸馏的。
 注意语域：
 香料与香水业用语。
 
@@ -32125,13 +32125,13 @@ attendant = 服务员；随从
 attendant
 核心：两条线：名词的"服务人员"（flight attendant），
 和形容词的"伴随而来的"（正式）。
-① The flight attendant helped.
-= 那名空乘帮了忙。
+① The flight attendant helped her with a bag that was plainly too heavy.
+= 空乘帮她拿了那个明显过重的包。
 flight attendant = 空乘
-② A car park attendant waved us in.
-= 停车场管理员挥手让我们进。
-③ There are attendant risks.
-= 存在随之而来的风险。
+② A car park attendant waved us in and charged us on the way out.
+= 停车场管理员挥手让我们进去，出来时再收费。
+③ There are attendant risks that the brochure mentions in the smallest print.
+= 存在随之而来的风险，宣传册用最小的字号提了一句。
 attendant risks = 伴随的风险
 词族：attend、attendance
 近义对照：
@@ -32224,13 +32224,13 @@ attenuator = 衰减器
 attest
 核心：正式用语，指"证明、证实"。介词用 to，
 也可直接及物。法律上指"见证签署"。
-① The results attest to her skill.
-= 那些成绩证明了她的水平。
+① The results attest to her skill and to eleven years of unpaid practice.
+= 那些成绩证明了她的水平，也证明了十一年无偿的苦练。
 attest to = 证明
-② Witnesses attested the signature.
-= 证人见证了签名。
-③ His success attests to hard work.
-= 他的成功印证了努力。
+② Witnesses attested the signature and one of them could not read.
+= 证人见证了签名，其中一位并不识字。
+③ His success attests to hard work and to a great deal of luck he never mentions.
+= 他的成功印证了努力，也印证了他从不提起的大量运气。
 词族：
 attestation = 证明、认证
 近义对照：
@@ -32242,14 +32242,14 @@ verify = 核实（验证真伪）
 attic
 核心：指屋顶下的"阁楼"，通常用来堆放杂物。
 美式有时说 loft，但英式 loft 更常指未装修的屋顶空间。
-① Boxes are stored in the attic.
-= 箱子都堆在阁楼上。
+① Boxes are stored in the attic and nobody has opened one since the move.
+= 箱子都堆在阁楼上，搬家之后没人打开过一只。
 in the attic = 在阁楼里
-② They converted the attic.
-= 他们把阁楼改造了。
+② They converted the attic and gained a bedroom you cannot stand up in.
+= 他们把阁楼改造了，多出一间站不直身的卧室。
 convert the attic = 改造阁楼
-③ An attic window lets in light.
-= 阁楼窗户透进光。
+③ An attic window lets in light for about two hours on a winter afternoon.
+= 冬日下午，阁楼窗户能透进大约两小时的光。
 attic window = 阁楼窗
 近义对照：
 attic = 阁楼（可利用的屋顶空间）
@@ -32309,13 +32309,13 @@ attitudinal = 态度上的
 attn
 核心：书面缩写，来自 attention，用在信封、备忘录和邮件抬头上，
 标明"此件请交某人处理"。写法上带不带句点都有人用，只写不说。
-① Address it attn Ms Zhang.
-= 信封上注明请那位女士收。
+① Address it attn Ms Zhang or it will sit in the post room for a week.
+= 信封上注明请那位女士收，否则会在收发室搁一星期。
 attn = 请…收阅、经办
-② The memo is marked attn: Finance.
-= 那份备忘注明由财务部处理。
-③ Use attn on the envelope, not in the letter.
-= 这个缩写写在信封上，正文里不用。
+② The memo is marked attn: Finance and has been ignored by Finance twice.
+= 那份备忘注明由财务部处理，而财务部已经无视两回了。
+③ Every envelope in the tray was marked attn to someone who had left.
+= 托盘里每个信封上注明经办的人都已经离职了。
 注意用法：
 只用于抬头与信封，正文里写全。
 注意语域：
@@ -32416,13 +32416,13 @@ attractiveness = 吸引力
 attributable
 核心：指"可归因于…的"，正式。介词固定用 to。
 学术和统计写作里高频。
-① The rise is attributable to demand.
-= 那次上涨可归因于需求。
+① The rise is attributable to demand rather than to anything the company did.
+= 那次上涨可归因于需求，跟公司做了什么无关。
 attributable to = 可归因于
-② Deaths attributable to smoking are many.
-= 归因于吸烟的死亡人数很多。
-③ The effect is directly attributable.
-= 那个效应可直接归因。
+② Deaths attributable to smoking are many and still undercounted.
+= 归因于吸烟的死亡人数很多，而且仍被低估。
+③ The effect is directly attributable and the paper says so in one cautious sentence.
+= 那个效应可直接归因，论文用一句谨慎的话这么写了。
 directly attributable = 可直接归因的
 词族：
 attribute = 归因于
@@ -32456,13 +32456,13 @@ attributively = 作定语地
 attribution
 核心：指"归因、署名归属"。学术上指注明出处，
 艺术上指认定作品出自谁手。
-① The attribution is disputed.
-= 那件作品的归属有争议。
-② Proper attribution avoids plagiarism.
-= 规范署名可避免抄袭。
+① The attribution is disputed and two museums claim the same brush.
+= 那件作品的归属有争议，两家博物馆都说出自同一支画笔。
+② Proper attribution avoids plagiarism and takes about four seconds.
+= 规范署名可避免抄袭，花的时间不过四秒。
 proper attribution = 正确署名
-③ Attribution of blame is premature.
-= 现在归咎为时过早。
+③ Attribution of blame is premature while the recorder is still being read.
+= 记录仪还在读取，现在归咎为时过早。
 attribution of blame = 责任归属
 词族：
 attribute = 归因于
@@ -32474,14 +32474,14 @@ citation = 引用出处（学术）
 attrition
 核心：两条线：军事上靠消耗拖垮对方的"消耗战"，
 和人事上的"自然减员"（不补员的流失）。不可数。
-① It became a war of attrition.
-= 那变成了一场消耗战。
+① It became a war of attrition that neither side had planned for.
+= 那变成了一场消耗战，哪一方都没预备打这种仗。
 war of attrition = 消耗战
-② Staff numbers fell through attrition.
-= 人员靠自然流失减少了。
+② Staff numbers fell through attrition and the work did not fall with them.
+= 人员靠自然流失减少了，活儿可没跟着减。
 through attrition = 通过自然减员
-③ The attrition rate is high.
-= 流失率很高。
+③ The attrition rate is high in the first year and negligible after the third.
+= 第一年流失率很高，过了第三年就微不足道了。
 attrition rate = 流失率
 注意发音：/əˈtrɪʃn/
 近义对照：
@@ -32492,13 +32492,13 @@ erosion = 侵蚀（渐进消磨）
 attune
 核心：指使人或事物"适应、契合"某种情况。
 几乎总用被动 be attuned to。
-① She is attuned to his moods.
-= 她很懂他的情绪。
+① She is attuned to his moods and can tell from the way he shuts a door.
+= 她很懂他的情绪，从他关门的方式就听得出来。
 be attuned to = 对…敏感契合
-② The policy is attuned to local needs.
-= 那项政策贴合本地需求。
-③ His ear is attuned to detail.
-= 他的耳朵对细节很敏锐。
+② The policy is attuned to local needs in a way the last three were not.
+= 那项政策贴合本地需求，前三项都不曾如此。
+③ His ear is attuned to detail and he hears the fault before the engineer does.
+= 他的耳朵对细节很敏锐，比工程师更早听出毛病。
 词源：at + tune（调音）
 近义对照：
 attune to = 契合、敏感于（正式）
