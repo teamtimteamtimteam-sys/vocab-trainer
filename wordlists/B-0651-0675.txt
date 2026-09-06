@@ -204,13 +204,13 @@ ground crew = 地勤
 airdrome
 核心：美式拼法，指规模不大的"机场、飞行场"，英式拼作 aerodrome。
 今天两种拼法都偏旧，日常说 airport 或 airfield。
-① The old airdrome is now a museum.
-= 那座旧机场现在是博物馆。
-② Biplanes flew from this airdrome.
-= 双翼机当年从这个机场起飞。
+① The old airdrome is now a museum with two aircraft and a very good café.
+= 那座旧机场现在是博物馆，两架飞机，还有一家很好的咖啡馆。
+② Biplanes flew from this airdrome and none of the pilots wore parachutes.
+= 双翼机当年从这个机场起飞，飞行员一个都不带降落伞。
 fly from an airdrome = 从这个机场起飞
-③ The airdrome closed decades ago.
-= 那个机场几十年前就关了。
+③ The airdrome shut when the highway took its western boundary.
+= 高速公路占了西边的地界，那个机场就关了。
 注意拼写：
 airdrome = 小机场（美式）
 aerodrome = 小机场（英式）
@@ -318,14 +318,14 @@ breeze = 微风（自然）
 airfoil
 核心：美式航空术语，指"翼型"——机翼、螺旋桨叶、尾翼这类横截面
 形状特殊的部件，气流经过时产生升力。英式拼 aerofoil。
-① The wing acts as an airfoil.
-= 机翼起的是翼型的作用。
+① A propeller blade acts as an airfoil turning about its own axis.
+= 螺旋桨叶绕自身轴转动时，起的是翼型的作用。
 act as an airfoil = 起翼型作用
-② The airfoil shape generates lift.
-= 翼型的形状能产生升力。
+② An airfoil shape generates lift, which is why a sail works like a wing.
+= 翼型的形状能产生升力，帆之所以像机翼一样管用就是这个道理。
 airfoil shape = 翼型剖面
-③ Engineers tested the airfoil.
-= 工程师测试了那个翼型。
+③ Engineers tested the airfoil at eleven angles and kept the third one.
+= 工程师在十一个迎角上测试了那个翼型，留下了第三个。
 注意地域：
 美式拼 airfoil，英式拼 aerofoil。
 注意语域：

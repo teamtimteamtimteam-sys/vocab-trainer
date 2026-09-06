@@ -1,14 +1,14 @@
 aerodynamic
 核心：指"空气动力学的"，也指外形"符合流线设计、阻力小的"。
 汽车和自行车评测里高频。
-① The car has an aerodynamic shape.
-= 那辆车外形符合空气动力学。
+① The car has an aerodynamic shape that adds four miles to the gallon.
+= 那辆车外形符合空气动力学，每加仑能多跑四英里。
 aerodynamic shape = 流线外形
-② Aerodynamic drag slows it down.
-= 空气阻力让它减速。
+② Aerodynamic drag slows it down more than the hills ever do.
+= 空气阻力让它减速，比爬坡的影响还大。
 aerodynamic drag = 空气阻力
-③ The design is highly aerodynamic.
-= 那个设计风阻很低。
+③ The design is highly aerodynamic and impossible to see out of.
+= 那个设计风阻很低，坐进去什么都看不见。
 副词形式：
 aerodynamically = 在空气动力学上
 词族：
@@ -17,14 +17,14 @@ aerodynamics = 空气动力学
 aerodynamics
 核心：指空气动力学这门学科（配单数动词），
 也指某个物体的"空气动力特性"（配复数动词）。
-① Aerodynamics is a branch of physics.
-= 空气动力学是物理学的分支。
+① Aerodynamics is a branch of physics that engineers use more than physicists do.
+= 空气动力学是物理学的分支，用得最多的却是工程师。
 学科义配单数动词
-② The car's aerodynamics are excellent.
-= 那辆车的空气动力特性很出色。
+② The car's aerodynamics are excellent and were worked out on a computer.
+= 那辆车的空气动力特性很出色，是在计算机上算出来的。
 特性义配复数动词
-③ They studied the aerodynamics of wings.
-= 他们研究了机翼的空气动力学。
+③ They studied the aerodynamics of wings by watching birds land on water.
+= 他们靠观察鸟落在水面上，研究了机翼的空气动力学。
 the aerodynamics of = …的空气动力特性
 词族：
 aerodynamic = 空气动力学的
@@ -34,14 +34,14 @@ aerodynamic = 空气动力学的
 aerofoil
 核心：英式航空术语，指"翼型"——机翼、螺旋桨叶、尾翼这类横截面
 形状特殊的部件，气流经过时能产生升力。美式拼 airfoil。
-① The wing acts as an aerofoil.
-= 机翼起的是翼型的作用。
+① The wing acts as an aerofoil at any speed above about forty knots.
+= 只要速度超过大约四十节，机翼就起翼型的作用。
 act as an aerofoil = 起翼型作用
-② The aerofoil generates lift.
-= 翼型产生升力。
+② The aerofoil generates lift only while air keeps flowing across it.
+= 只有气流持续掠过时，翼型才产生升力。
 generate lift = 产生升力
-③ They tested the aerofoil in a wind tunnel.
-= 他们在风洞里测试了那个翼型。
+③ They tested the aerofoil in a wind tunnel built before the war.
+= 他们在一座战前建的风洞里测试了那个翼型。
 注意地域：
 英式拼 aerofoil，美式拼 airfoil。
 相关部件：
@@ -52,13 +52,13 @@ airframe = 机体（整机结构）
 aerogramme
 核心：指"航空邮简"——一张薄纸，写完把边折起来自成信封，不必另装
 信封，邮费便宜。电子邮件普及后基本退出使用。美式拼 aerogram。
-① She posted an aerogramme to Delhi.
-= 她往德里寄了一封航空邮简。
+① She posted an aerogramme to Delhi and it arrived nine days later.
+= 她往德里寄了一封航空邮简，九天后才到。
 post an aerogramme = 寄航空邮简
-② Aerogrammes were cheap to send.
-= 航空邮简寄起来便宜。
-③ He folded the aerogramme and sealed it.
-= 他把邮简折好封上。
+② Aerogrammes were cheap to send and left almost no room to write.
+= 航空邮简寄起来便宜，能写字的地方却几乎没有。
+③ He folded the aerogramme and sealed it along three gummed edges.
+= 他把邮简折好，沿三条涂胶的边封上。
 注意拼写：
 aerogramme = 航空邮简（英式）
 aerogram = 航空邮简（美式）
@@ -68,13 +68,13 @@ aerogram = 航空邮简（美式）
 aeronaut
 核心：指"气球或飞艇的驾驶员"——飞的是靠浮力升空的航空器，
 不是飞机。带年代感，多出现在航空史的语境里。
-① The aeronaut crossed the Channel by balloon.
-= 那位气球驾驶员乘气球飞越了英吉利海峡。
+① The aeronaut crossed the Channel by balloon and landed in a ploughed field.
+= 那位气球驾驶员乘气球飞越海峡，降落在一片犁过的地里。
 cross by balloon = 乘气球飞越
-② Early aeronauts risked their lives.
-= 早期的气球驾驶员是拿命在飞。
-③ The aeronaut released ballast to climb.
-= 驾驶员抛掉压舱物好爬升。
+② Early aeronauts risked their lives and drew crowds of several thousand.
+= 早期的气球驾驶员是拿命在飞，能招来好几千观众。
+③ The aeronaut released ballast to climb above a bank of low cloud.
+= 驾驶员抛掉压舱物，好爬到一层低云之上。
 release ballast = 抛掉压舱物
 注意语域：
 航空史用词，今天说 balloonist 或 pilot。
@@ -86,14 +86,14 @@ astronaut = 宇航员（上太空）
 aeronautics
 核心：指航空学——研究飞行器设计与飞行的学科。
 形式是复数但配单数动词。形容词是 aeronautical。
-① Aeronautics is taught here.
-= 这里教授航空学。
+① Aeronautics is taught here alongside a course in metalwork.
+= 这里教授航空学，还配着一门金工课。
 配单数动词
-② He studied aeronautical engineering.
-= 他学的是航空工程。
+② He studied aeronautical engineering and spent his career on bridges.
+= 他学的是航空工程，一辈子却在做桥梁。
 aeronautical engineering = 航空工程
-③ Aeronautics advanced rapidly.
-= 航空学发展迅速。
+③ Aeronautics advanced rapidly in the eleven years after the first flight.
+= 首飞之后的十一年里，航空学发展迅速。
 词族：
 aeronautical = 航空学的
 astronautics = 航天学
@@ -104,13 +104,13 @@ astronautics = 航天（大气层外）
 aeroplane
 核心：英式的"飞机"，美式拼 airplane，口语两边都说 plane。
 现在英式书面也常直接用 plane 或 aircraft。
-① The aeroplane took off.
-= 飞机起飞了。
-② He builds model aeroplanes.
-= 他做飞机模型。
+① The aeroplane took off into a crosswind that turned it almost sideways.
+= 飞机迎着侧风起飞，几乎被吹成横的。
+② He builds model aeroplanes and has never flown in a real one.
+= 他做飞机模型，却从没坐过真飞机。
 model aeroplane = 飞机模型
-③ We boarded the aeroplane.
-= 我们登上了飞机。
+③ We boarded the aeroplane an hour late and sat on the tarmac for two more.
+= 我们晚了一小时才登机，又在停机坪上坐了两小时。
 常用搭配：
 by aeroplane = 乘飞机
 注意英美拼写：
@@ -122,13 +122,13 @@ airplane = 飞机（美式拼法）
 aerosol
 核心：两条线：日常指"喷雾罐"，科学上指悬浮在空气中的
 "气溶胶"微粒。后者在气候和疾病传播讨论里高频。
-① Use an aerosol spray.
-= 用喷雾罐喷。
+① Use an aerosol spray and hold it a good arm's length from the surface.
+= 用喷雾罐喷，离表面留出一整条胳膊的距离。
 aerosol spray = 喷雾剂
-② Aerosols affect the climate.
-= 气溶胶影响气候。
-③ The virus spreads in aerosols.
-= 那种病毒通过气溶胶传播。
+② Aerosols affect the climate by reflecting sunlight straight back out.
+= 气溶胶把阳光直接反射回去，因而影响气候。
+③ The virus spreads in aerosols that hang in still air for hours.
+= 那种病毒通过气溶胶传播，静止空气里能悬浮几小时。
 aerosol transmission = 气溶胶传播
 注意发音：/ˈeərəsɒl/
 近义对照：
@@ -138,14 +138,14 @@ spray = 喷雾（通用）
 aerospace
 核心：指航空航天这个产业和技术领域，作定语用最常见。
 不可数。涵盖飞机、火箭、卫星。
-① He works in the aerospace industry.
-= 他在航空航天业工作。
+① He works in the aerospace industry and cannot say what on.
+= 他在航空航天业工作，具体做什么不能说。
 aerospace industry = 航空航天业
-② Aerospace engineering is competitive.
-= 航空航天工程竞争激烈。
+② Aerospace engineering is competitive and takes about nine applicants a place.
+= 航空航天工程竞争激烈，大约九个人抢一个名额。
 aerospace engineering = 航空航天工程
-③ The firm is an aerospace contractor.
-= 那家公司是航天承包商。
+③ The firm is an aerospace contractor and makes one part for one aircraft.
+= 那家公司是航天承包商，只给一种飞机做一个零件。
 构词：
 aero- 航空 + space 太空
 词族：
@@ -154,12 +154,12 @@ aeronautics = 航空学
 aerostat
 核心：航空术语，指"轻航空器"——靠比空气轻的气体获得浮力的飞行器，
 热气球和飞艇都算。跟靠机翼产生升力的那一类正好相对。
-① The aerostat rose above the treeline.
-= 那艘轻航空器升到了树线之上。
-② Aerostats carry surveillance equipment.
-= 轻航空器可以搭载监视设备。
-③ A tethered aerostat floated over the base.
-= 一只系留气球浮在基地上空。
+① The aerostat rose above the treeline and stopped where the cable ran out.
+= 那艘轻航空器升到树线之上，缆绳放完就停住了。
+② Aerostats carry surveillance equipment and stay up for weeks at a time.
+= 轻航空器可以搭载监视设备，一次能在空中停留数周。
+③ A tethered aerostat floated over the base and was visible from the town.
+= 一只系留气球浮在基地上空，城里都看得见。
 tethered aerostat = 系留气球
 注意语域：
 航空工程术语，日常不用这个词。
@@ -172,12 +172,12 @@ aesthete
 核心：指"唯美主义者、审美家"——对艺术与美格外敏感、格外讲究的人。
 语气可褒可贬：褒时说品味高，贬时说只顾好看、不问实用。
 美式也拼 esthete。
-① He is something of an aesthete.
-= 他算得上是个审美家。
-② The aesthete disliked the new building.
-= 那位唯美主义者不喜欢那栋新楼。
-③ Only an aesthete would notice the detail.
-= 只有讲究的人才会注意到那个细节。
+① He is something of an aesthete and owns one chair worth more than the room.
+= 他算得上是个审美家，屋里有把椅子比整间屋子还值钱。
+② The aesthete disliked the new building and wrote to the paper about it twice.
+= 那位唯美主义者不喜欢那栋新楼，为此给报社写了两封信。
+③ Only an aesthete would notice the detail, and only in that particular light.
+= 只有讲究的人才会注意到那个细节，而且得在那样的光线下。
 注意语气：
 褒义指品味高，贬义指不问实用。
 词族：
@@ -209,13 +209,13 @@ aestheticism = 唯美主义
 aesthetically
 核心：指"在美感上、从审美角度"。最高频的搭配是
 aesthetically pleasing（看着舒服）。
-① The design is aesthetically pleasing.
-= 那个设计看着很舒服。
+① The design is aesthetically pleasing and completely impractical to clean.
+= 那个设计看着很舒服，打扫起来完全不现实。
 aesthetically pleasing = 悦目的
-② Aesthetically, it works well.
-= 从美感上说效果不错。
-③ The change is aesthetically motivated.
-= 那个改动是出于美观考虑。
+② Aesthetically, it works well; structurally, the engineers had doubts.
+= 从美感上说效果不错，结构上工程师有疑虑。
+③ The change is aesthetically motivated and was presented as a safety measure.
+= 那个改动是出于美观考虑，对外说的却是安全措施。
 词族：
 aesthetic = 审美的
 aesthetics = 美学
@@ -226,14 +226,14 @@ esthetically = 从审美角度（美式拼法）
 aesthetics
 核心：两条线：哲学分支"美学"（配单数动词），
 和某物的"审美特质"（配复数动词）。
-① Aesthetics is a branch of philosophy.
-= 美学是哲学的一个分支。
+① Aesthetics is a branch of philosophy and asks questions with no test for them.
+= 美学是哲学的一个分支，问的都是无从检验的问题。
 学科义配单数动词
-② The aesthetics of the building are striking.
-= 那栋楼的美学效果很惊人。
+② The aesthetics of the building are striking and divide the town in two.
+= 那栋楼的美学效果很惊人，也把全城分成了两派。
 特质义配复数动词
-③ She studies Japanese aesthetics.
-= 她研究日本美学。
+③ She studies Japanese aesthetics and reads everything in the original.
+= 她研究日本美学，一切都读原文。
 词族：
 aesthetic = 审美的
 aesthetically = 在美感上
@@ -244,13 +244,13 @@ esthetics = 美学（美式拼法）
 aetiology
 核心：医学术语，指"病因学"——研究疾病成因的学问，也指某一种病的
 病因本身。引申到别的领域，可指某个现象的成因研究。美式拼 etiology。
-① The aetiology of the disease is unclear.
-= 那种病的病因还不清楚。
+① The aetiology of the disease is unclear and four theories are in play.
+= 那种病的病因还不清楚，眼下有四种说法。
 the aetiology of = …的病因
-② Researchers study the aetiology of asthma.
-= 研究者在研究哮喘的成因。
-③ Aetiology forms part of the diagnosis.
-= 病因分析是诊断的一部分。
+② Researchers study the aetiology of asthma in children born in cities.
+= 研究者在研究城市出生儿童的哮喘成因。
+③ Aetiology forms part of the diagnosis and changes what you treat.
+= 病因分析是诊断的一部分，也决定了你治什么。
 注意拼写：
 aetiology = 病因学（英式）
 etiology = 病因学（美式）
@@ -264,13 +264,13 @@ diagnosis = 诊断（判定是什么病）
 afar
 核心：文学或正式用语，只活在 from afar（从远处）这个搭配里。
 日常说 from a distance。
-① He watched her from afar.
-= 他远远地看着她。
+① He watched her from afar for a whole term and never once spoke to her.
+= 他远远地看了她一整个学期，一句话也没跟她说过。
 from afar = 从远处
-② Visitors came from afar.
-= 客人们从远方而来。
-③ The mountain looked small from afar.
-= 那座山远看很小。
+② Visitors came from afar and found the gate locked for the winter.
+= 客人们从远方而来，却发现大门冬季上锁。
+③ The mountain looked small from afar and took two days to walk round.
+= 那座山远看很小，绕着走却要两天。
 注意：afar 几乎只用 from afar。
 近义对照：
 from afar = 自远方（文学）
@@ -362,13 +362,13 @@ affectively = 在情感层面上
 affectation
 核心：指刻意装出来的"做作举止"，贬义。可以是口音、姿态、
 用词上的假装。可数不可数都有。
-① His accent is an affectation.
-= 他那口音是装的。
-② She spoke without affectation.
-= 她说话不做作。
+① His accent is an affectation and slips whenever he is genuinely angry.
+= 他那口音是装的，真发起火来就露馅。
+② She spoke without affectation and was the only one on the panel who did.
+= 她说话不做作，台上就她一个人这样。
 without affectation = 不矫饰
-③ It's a tiresome affectation.
-= 那种做作很讨厌。
+③ It's a tiresome affectation and he has kept it up for twenty years.
+= 那种做作很讨厌，他还坚持了二十年。
 词族：
 affected = 做作的
 affect = 假装（正式义）
@@ -441,14 +441,14 @@ affection = 喜爱
 affectionately
 核心：指"充满深情地、亲切地"。常修饰 look、smile、call。
 书信落款 Affectionately yours 是传统的亲密收尾。
-① She smiled affectionately.
-= 她亲切地笑了。
+① She smiled affectionately at a photograph she had not looked at in years.
+= 她对着一张多年没看过的照片亲切地笑了。
 smile affectionately = 深情微笑
-② He is affectionately known as Bob.
-= 大家亲切地叫他鲍勃。
+② He is affectionately known as Bob by people who have never asked his real name.
+= 大家亲切地叫他鲍勃，谁也没问过他真名。
 affectionately known as = 被亲昵地称作
-③ She wrote "affectionately yours".
-= 她写了"挚爱的"作结。
+③ She wrote affectionately yours and signed it with a single initial.
+= 她写下「挚爱的」作结，只签了一个字母。
 affectionately yours = 挚爱的（书信落款）
 词族：
 affection = 喜爱
@@ -457,13 +457,13 @@ affectionate = 深情的
 affidavit
 核心：法律用语，指"宣誓书"——在宣誓下签署、可作证据用的
 书面陈述。可数。
-① He signed an affidavit.
-= 他签了一份宣誓书。
+① He signed an affidavit that contradicted what he had said in the interview.
+= 他签的宣誓书跟受访时说的话对不上。
 sign an affidavit = 签署宣誓书
-② The affidavit was submitted to court.
-= 那份宣誓书提交给了法庭。
-③ She swore an affidavit.
-= 她做了宣誓陈述。
+② The affidavit was submitted to court on the morning of the hearing.
+= 那份宣誓书在开庭当天上午提交给了法庭。
+③ She swore an affidavit before a solicitor she had met ten minutes earlier.
+= 她在一位十分钟前才认识的律师面前做了宣誓陈述。
 swear an affidavit = 宣誓作书面陈述
 注意发音：/ˌæfəˈdeɪvɪt/
 近义对照：
