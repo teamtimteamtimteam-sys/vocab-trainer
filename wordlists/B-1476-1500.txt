@@ -496,21 +496,21 @@ artificially = 人工地、人为地
 artillery
 核心：两条线：重型火炮这类"炮兵武器"，
 和作为兵种的"炮兵部队"。不可数。
-① The artillery opened fire.
-= 炮兵开火了。
+① The artillery opened fire at dawn and stopped without any order.
+= 炮兵拂晓开火，又在没接到命令的情况下停了。
 open fire = 开火
-② Heavy artillery shelled the city.
-= 重炮轰击了那座城市。
+② Heavy artillery shelled the city for nine days from the far bank.
+= 重炮从对岸轰击那座城市九天。
 heavy artillery = 重炮
-③ He served in the artillery.
-= 他在炮兵部队服役。
+③ He served in the artillery and lost most of his hearing to it.
+= 他在炮兵部队服役，听力大半是在那儿丢的。
 兵种对照：
 infantry = 步兵
 cavalry = 骑兵
 artillery = 炮兵
 armour = 装甲兵
-④ An artilleryman loaded the shell.
-= 一名炮兵装填了炮弹。
+④ An artilleryman loaded the shell and counted the seconds out loud.
+= 一名炮兵装填了炮弹，还大声数着秒。
 artilleryman = 炮兵
 
 artisan
