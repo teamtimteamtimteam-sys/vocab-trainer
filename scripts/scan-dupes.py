@@ -12,6 +12,14 @@ GOAL.txt 里只留了一句「三级开工时值得重跑一遍」。这次三�
           （抓 swear / pledge allegiance 这类换了个说法的同一件事）
   通道 4：例句剥掉虚词与代词后，实词骨架 Jaccard ≥ 0.8
           （抓只换了代词或介词的重复）
+  通道 5：**跨词条**，只比拼写变体（2026-09-06 加）
+
+通道 1-4 都只在**一条词条内部**比义项，跨词条的重复它们一个都看不见。
+anaesthetic 与 anesthetic 就是这么漏过去的：英美拼法各占一条词条，
+两边的例句有三处几乎一样（麻药失效、全麻、施麻醉），四条通道全报 0 对。
+cosy / cozy、analogue / analog 同理。通道 5 专查这一类：
+把词头折过重音、编辑距离 ≤2 的两条词条配成对，再比它们的例句与译文。
+只配拼写变体，不做全表两两比 —— 那是 5841 条的平方，既跑不动也全是噪音。
 
 通道 2 是通道 3 的子集，分开报是因为「两条都没等式」时人判起来最省事：
 没有等式意味着没有可搬的字面，删掉那条就完事。
@@ -27,6 +35,7 @@ GOAL.txt 里只留了一句「三级开工时值得重跑一遍」。这次三�
   python3 scripts/scan-dupes.py b          只扫 b- 段
   python3 scripts/scan-dupes.py banana bay 只扫这几条（词头多于一个字母时按词头认）
   加 --loose 把阈值放到 0.5 / 0.6
+  加 --variants 只跑通道 5（拼写变体跨词条查重），可与段/词头限定合用
 
 **回填时该用 --loose。** 2026-09-06 全表按 0.7 跑过一遍只剩 4 对，
 真正成批的都落在 0.5–0.7 那一带：aground 的 ran / went、abstraction 的两条、
@@ -83,7 +92,8 @@ def has_eq(body):
 
 def main(argv):
     loose = '--loose' in argv
-    argv = [a for a in argv if a != '--loose']
+    only5 = '--variants' in argv
+    argv = [a for a in argv if a not in ('--loose', '--variants')]
     T_ZH, T_SK = (0.5, 0.6) if loose else (0.7, 0.8)
     seg = None; heads = None
     if len(argv) == 1 and len(argv[0]) == 1:
@@ -92,7 +102,7 @@ def main(argv):
         heads = set(a.lower() for a in argv)
 
     ch2 = []; ch3 = []; ch4 = []
-    for h, L in ap.entries():
+    for h, L in (() if only5 else ap.entries()):
         if seg and not h.lower().startswith(seg): continue
         if heads and h.lower() not in heads: continue
         ss = [(e.strip(), b) for e, b in ap.senses(L)]
@@ -107,6 +117,37 @@ def main(argv):
                 j = len(k1 & k2) / len(k1 | k2)
                 if j >= T_SK: ch4.append((h, j, e1, t1, e2, t2))
 
+    # 通道 5：拼写变体之间跨词条比。先按「首字母 + 长度相近」分桶，
+    # 桶内才算编辑距离 —— 全表两两比是 5841 的平方，跑不动。
+    ch5 = []
+    if not heads or len(heads) > 1:
+        pool = [(h, L) for h, L in ap.entries()
+                if (not seg or h.lower().startswith(seg))
+                and (not heads or h.lower() in heads)]
+        bucket = {}
+        for h, L in pool:
+            f = ap.fold(h).replace(' ', '')
+            if len(f) < 4: continue
+            bucket.setdefault(f[0], []).append((f, h, L))
+        pairs = []
+        for rows in bucket.values():
+            rows.sort(key=lambda r: len(r[0]))
+            for i, (f1, h1, L1) in enumerate(rows):
+                for f2, h2, L2 in rows[i + 1:]:
+                    if len(f2) - len(f1) > 2: break
+                    if f1 != f2 and ap.dist(f1, f2) <= 2:
+                        pairs.append((h1, L1, h2, L2))
+        for h1, L1, h2, L2 in pairs:
+            for e1, b1 in ap.senses(L1):
+                for e2, b2 in ap.senses(L2):
+                    e1, e2 = e1.strip(), e2.strip()
+                    t1, t2 = zh(b1), zh(b2)
+                    s = sim(t1, t2)
+                    k1, k2 = skeleton(e1), skeleton(e2)
+                    j = (len(k1 & k2) / len(k1 | k2)) if (len(k1) >= 3 and len(k2) >= 3) else 0.0
+                    if s >= T_ZH or j >= T_SK:
+                        ch5.append(('%s / %s' % (h1, h2), max(s, j), e1, t1, e2, t2))
+
     def show(title, rows, note):
         print('\n【%s】%d 对   %s' % (title, len(rows), note))
         for h, s, e1, t1, e2, t2 in sorted(rows, key=lambda r: -r[1]):
@@ -119,9 +160,11 @@ def main(argv):
     show('通道2 两条都没有等式，译文相似 ≥%.1f' % T_ZH, ch2, '没有等式可搬，判定重复就直接删')
     show('通道3 译文相似 ≥%.1f（至少一条有等式）' % T_ZH, ch3, '删之前先把不重复的等式搬过去')
     show('通道4 实词骨架 Jaccard ≥%.1f' % T_SK, ch4, '多半是只换了代词或介词')
+    show('通道5 拼写变体之间（跨词条）', ch5,
+         '英美拼法各占一条，两边例句撞车 —— 让它们各走各的场景，别删词条')
     print('\n合计候选 %d 对。**这是候选，不是判决** —— '
           '最常见的情况是等式没写出区别，那就改等式，别删义项。'
-          % (len(ch2) + len(ch3) + len(ch4)))
+          % (len(ch2) + len(ch3) + len(ch4) + len(ch5)))
     return 0
 
 if __name__ == '__main__':
