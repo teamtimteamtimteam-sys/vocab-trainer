@@ -12,8 +12,8 @@ cybercrime = 网络犯罪
 ③ Schools now teach about cyberbullying and the phones stay in the bags.
 = 学校如今教网络霸凌，手机得留在书包里。
 cyberbullying = 网络霸凌
-④ The term cyberspace came from a novel written before the internet existed.
-= 「cyberspace」这个词出自一部写于互联网出现之前的小说。
+④ Cyberspace was where the money went, and no customs officer could follow it there.
+= 钱都流进了网络空间，海关追不进去。
 cyberspace = 网络空间
 ⑤ Cyberwarfare has no front line and no obvious way to declare it over.
 = 网络战没有前线，也没有明确的收场方式。
@@ -273,14 +273,14 @@ cypher
 核心：cipher 的另一种拼法，指密码、密文，也指用来加密的
 方法。今天多写作 cipher，cypher 偏英式旧拼。可数不可数
 都行。
-① The message is in cypher.
-= 那条消息是密文。
+① The message is in cypher and nobody on the station could read a word of it.
+= 那条消息是密文，站上没人认得出一个字。
 in cypher = 用密码写的
-② They broke the cypher in a week.
-= 他们一周破了那套密码。
+② They broke the cypher in a week by guessing the first word of every message.
+= 他们靠猜每条消息的头一个词，一周就破了那套密码。
 break a cypher = 破解密码
-③ Modern texts prefer the spelling cipher.
-= 今天的文本多用另一种拼法。
+③ The cipher used a different key for every day of the month.
+= 那套密码每个月的每一天都换一把钥匙。
 cipher = 密码（今天更常见的拼法）
 构词：阿拉伯语 sifr 零
 注意拼写：今天多写作 cipher。

@@ -46,8 +46,8 @@ cornflour = 玉米淀粉（英式）
 ⑨ Cornmeal makes a coarse porridge that keeps you full until midday.
 = 玉米粉煮的粥很粗糙，却能顶到中午。
 cornmeal = 玉米粉
-⑩ American recipes say cornstarch where British ones say cornflour.
-= 美国菜谱写「cornstarch」，英国的写「cornflour」，是同一样东西。
+⑩ Whisk the cornstarch into cold water first or it will go lumpy in the pan.
+= 先把玉米淀粉在冷水里搅开，否则下锅会结块。
 cornstarch = 玉米淀粉（美式）
 ⑪ The ending is corny, but the audience wept anyway.
 = 结尾很俗套，观众照样哭了。
