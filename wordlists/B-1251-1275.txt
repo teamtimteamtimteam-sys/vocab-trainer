@@ -1,12 +1,12 @@
 apostrophe
 核心：指撇号「'」这个标点，两个用途：表示所有格
 （John's）和表示省略（don't）。注意别用来构成复数。
-① Use an apostrophe for possession.
-= 所有格要用撇号。
-② "Don't" has an apostrophe.
-= 「don't」里有个撇号。
-③ The apostrophe is often misused.
-= 撇号常被用错。
+① Use an apostrophe for possession, and remember that the plural takes it after the s.
+= 所有格要用撇号，另外记住复数的撇号加在 s 后面。
+② "Don't" has an apostrophe standing in for the letter that was dropped.
+= 「don't」里有个撇号，它顶替的是被省掉的那个字母。
+③ The apostrophe is often misused on shop signs, usually on the plural of a name.
+= 撇号在店招上常被用错，多半错在名字的复数上。
 常见错误：
 apple's（复数）是错的，应写 apples
 its = 它的（无撇号）
@@ -17,12 +17,12 @@ apostrophize
 核心：修辞学动词，指"顿呼"——写作或演说中忽然掉转头去，
 直接对一个不在场的人、死者、甚至抽象事物说话。这跟标点里那个
 撇号是同一个词根，但完全是两回事。
-① The poet apostrophizes the sea.
-= 诗人掉头向大海说起话来。
-② He apostrophized his absent father.
-= 他对着不在场的父亲倾诉。
-③ Odes often apostrophize abstract qualities.
-= 颂诗常直接呼告抽象的品质。
+① The poet apostrophizes the sea for eleven stanzas without expecting an answer.
+= 诗人一连十一节掉头向大海说话，并不指望回答。
+② He apostrophized his absent father in the middle of an otherwise practical speech.
+= 他在一场原本很务实的演讲中间，对着不在场的父亲倾诉起来。
+③ Odes often apostrophize abstract qualities, addressing Truth or Beauty as though present.
+= 颂诗常直接呼告抽象的品质，把真或美当作在场的人来称呼。
 注意别混：
 apostrophize = 顿呼（修辞手法）
 apostrophe = 撇号；也指这种顿呼
@@ -33,14 +33,14 @@ apothecary
 核心：旧时的"药剂师"——既配药也卖药，在没有现代药房和医生分工的
 年代，还兼着看病开方。今天只出现在历史语境和刻意复古的店名里，
 现代说 pharmacist 或 chemist。
-① The apothecary ground the herbs.
-= 药剂师把草药磨碎。
+① The apothecary ground the herbs with a pestle worn smooth by three generations.
+= 药剂师用一根被三代人磨光的杵把草药碾碎。
 grind herbs = 研磨草药
-② An apothecary's shop stood on that corner.
-= 那个街角从前有家药铺。
+② An apothecary's shop stood on that corner until the chain chemist opened opposite.
+= 那个街角一直有家旧式药铺，直到对面开了家连锁药房。
 an apothecary's shop = 旧式药铺
-③ The novel features a village apothecary.
-= 那部小说里有个乡村药剂师。
+③ The novel features a village apothecary who is also the only person who can read.
+= 那部小说里有个乡村药剂师，他还是村里唯一识字的人。
 注意语域：
 历史用词，或作复古店名。
 近义对照：
@@ -89,13 +89,13 @@ app tray = 应用栏（同义说法）
 appal
 核心：指"使震惊、使骇然"，常用被动 be appalled。
 英式拼 appal，美式拼 appall。
-① The news appalled us.
-= 那消息让我们震惊。
-② I was appalled by the conditions.
-= 那种条件让我骇然。
+① The news appalled us so completely that nobody spoke for a full minute.
+= 那消息让我们震惊得整整一分钟没人开口。
+② I was appalled by the way the animals were kept and reported it the same day.
+= 那些动物被关养的方式让我骇然，我当天就举报了。
 be appalled by = 对…感到震惊
-③ It appals me that this happens.
-= 这种事居然会发生，让我震惊。
+③ It appals me that this still happens in a country that legislated against it in 1976.
+= 这种事在一个一九七六年就立法禁止的国家居然还在发生，让我震惊。
 注意英美拼写：
 appal = 使震惊（英式拼法）
 appall = 使震惊（美式拼法）
@@ -106,13 +106,13 @@ appalling = 骇人的
 appalled
 核心：指人"感到震惊骇然的"，程度比 shocked 重，
 且带道德上的反感。介词用 by 或 at。
-① She was appalled at the waste.
-= 那种浪费让她震惊。
+① She was appalled at the waste, having watched them throw out food she had queued for.
+= 她眼看着他们扔掉自己排队买来的食物，那种浪费让她震惊。
 appalled at = 对…骇然
-② Viewers were appalled.
-= 观众们震惊不已。
-③ He looked appalled.
-= 他一脸骇然。
+② Viewers were appalled, and the broadcaster took four thousand complaints in one night.
+= 观众们震惊不已，电视台一夜收到四千宗投诉。
+③ He looked appalled and then, a moment later, decided it must have been a joke.
+= 他一脸骇然，过了片刻又断定那准是个玩笑。
 词族：
 appal = 使震惊
 appalling = 骇人的
@@ -124,13 +124,13 @@ appalled = 骇然（带反感）
 appalling
 核心：指事物"骇人的、糟透了的"。既可以说真正可怕的事，
 也可以口语夸张地说"差得离谱"。
-① The conditions are appalling.
-= 那种条件糟糕透顶。
+① The conditions are appalling, and the inspectors had warned about them twice already.
+= 那种条件糟糕透顶，而检查人员此前已经警告过两次。
 appalling conditions = 恶劣至极的条件
-② It's an appalling waste.
-= 那是骇人的浪费。
-③ Her handwriting is appalling.
-= 她字写得惨不忍睹。
+② It's an appalling piece of driving, and he kept his licence for another eleven years.
+= 那是骇人的开车方式，而他的驾照又留了十一年。
+③ Her handwriting is appalling, which is how three prescriptions went wrong in a month.
+= 她字写得惨不忍睹，一个月里三张处方因此出错。
 口语夸张用法
 副词形式：
 appallingly = 骇人地
@@ -189,14 +189,14 @@ device = 装置（单件）
 apparel
 核心：正式或商业用语，指"服装"，不可数。
 零售业尤其常用（apparel industry）。
-① The store sells women's apparel.
-= 那家店卖女装。
+① The store sells women's apparel on two floors and men's on half of one.
+= 那家店的女装占两层，男装只占半层。
 women's apparel = 女装
-② The apparel industry is huge.
-= 服装业规模庞大。
+② The apparel industry is huge and moves its factories every time wages rise.
+= 服装业规模庞大，工资一涨就把工厂搬走。
 apparel industry = 服装产业
-③ He wore fine apparel.
-= 他穿着讲究。
+③ He wore fine apparel to a meeting where everyone else had come straight from the yard.
+= 他穿着讲究去开会，而别人都是从工地直接过来的。
 注意：apparel 不可数，
 不说 an apparel、apparels。
 近义对照：
@@ -230,13 +230,13 @@ apparent magnitude = 视星等（看上去的亮度，非真实亮度）
 apparently
 核心：两个用法，差别很重要：一是"据说、看样子"
 （暗示我没核实），二是"显然"。第一个更常见。
-① Apparently, he's leaving.
-= 听说他要走了。
+① Apparently, he's leaving in March, though nobody has heard it from him.
+= 听说他三月要走，不过没人听他本人说过。
 表示"我也是听来的"
-② She was apparently unaware.
-= 她似乎并不知情。
-③ Apparently not.
-= 看来不是。
+② She was apparently unaware that the microphone in front of her was still live.
+= 她似乎并不知道面前那支话筒还开着。
+③ Apparently not, judging by the queue still standing outside at closing time.
+= 看来不是，从打烊时还在外面排着的队伍就看得出来。
 注意语用：
 apparently 常暗示消息未经核实，
 不等于 obviously（确凿无疑）。
@@ -246,13 +246,13 @@ apparent = 显而易见的；表面的
 apparition
 核心：指突然出现的"幽灵、幻影"，文学色彩浓。
 也泛指任何令人吃惊的突然出现。
-① He saw an apparition.
-= 他看见了幽灵。
+① He saw an apparition at the foot of the stairs and never used that landing again.
+= 他在楼梯口见到了幽灵，此后再没走过那个楼梯平台。
 see an apparition = 见到幻影
-② The apparition vanished.
-= 那个幻影消失了。
-③ She appeared like an apparition.
-= 她像幽灵一样出现。
+② The apparition vanished the instant somebody thought to switch on a light.
+= 有人想起开灯的那一刻，那个幻影就消失了。
+③ She appeared like an apparition at the far end of the platform, soaked and silent.
+= 她像幽灵一样出现在站台另一端，浑身湿透，一言不发。
 词族：
 appear = 出现
 近义对照：
@@ -368,13 +368,13 @@ keep up appearances = 撑门面
 appease
 核心：指为了平息对方而"姑息、绥靖"，常带贬义——
 暗示让步不该让的。历史上特指对纳粹德国的绥靖政策。
-① They tried to appease him.
-= 他们试图安抚他。
-② Concessions failed to appease critics.
-= 让步没能平息批评。
+① They tried to appease him with a title that carried no duties and no salary.
+= 他们想用一个既无职责也无薪水的头衔安抚他。
+② Concessions failed to appease critics who had never wanted the scheme at all.
+= 让步没能平息那些批评者，他们本来就完全不想要这个方案。
 appease critics = 安抚批评者
-③ Appeasement did not prevent war.
-= 绥靖没能阻止战争。
+③ Every attempt to appease the larger power bought a few months and cost a border.
+= 每一次安抚那个更强的一方，都换来几个月时间，代价是一条边界。
 词族：
 appeasement = 绥靖
 近义对照：
@@ -385,12 +385,12 @@ pacify = 使平静（通用）
 appeasement
 核心：指"绥靖政策"——用让步换取和平。因二战前
 对希特勒的绥靖而带上强烈贬义。不可数。
-① Appeasement failed in 1938.
-= 绥靖政策在一九三八年失败了。
-② Critics called it appeasement.
-= 批评者称之为绥靖。
-③ A policy of appeasement was pursued.
-= 当时推行的是绥靖政策。
+① Appeasement failed in 1938, and the word has been an accusation ever since.
+= 绥靖政策在一九三八年失败，从此这个词就成了一项指控。
+② Critics called it appeasement, which ended the argument without settling it.
+= 批评者称之为绥靖，这话结束了争论，却没有解决争论。
+③ A policy of appeasement was pursued for three years by men who had seen the last war.
+= 绥靖政策推行了三年，推行它的都是经历过上一场战争的人。
 a policy of appeasement = 绥靖政策
 词族：
 appease = 绥靖
@@ -401,13 +401,13 @@ appellant
 核心：法律名词，指"上诉人"——对原审判决不服、向上级法院提出上诉
 的那一方。跟它相对的是被上诉人 respondent。受理上诉的法院叫
 appellate court。
-① The appellant filed within the deadline.
-= 上诉人在期限内提交了上诉。
+① The appellant filed within the deadline, with four hours of it left.
+= 上诉人在期限内提交了上诉，只剩四个钟头。
 file an appeal = 提出上诉
-② The appellant's argument persuaded the bench.
-= 上诉人的论点说服了合议庭。
-③ Costs were awarded against the appellant.
-= 诉讼费判由上诉人承担。
+② The appellant had served eleven years by the time the case was reopened.
+= 案件重启时，上诉人已经服刑十一年。
+③ Costs were awarded against the appellant, who had brought the same claim twice.
+= 诉讼费判由上诉人承担，他把同一项主张提了两次。
 注意语域：
 法律程序用语。
 诉讼两造对照：
@@ -418,14 +418,14 @@ appellate court
 核心：指"上诉法院"——不重新查事实，只审下级法院有没有把法律
 适用错、程序走错。多数国家的司法体系都分初审与上诉两层，
 这一层就是第二层。
-① The appellate court overturned the verdict.
-= 上诉法院推翻了原判。
+① The appellate court overturned the verdict on a point the trial judge had misread.
+= 上诉法院因初审法官读错了一个法律要点而推翻了原判。
 overturn a verdict = 推翻判决
-② Appellate courts review points of law.
-= 上诉法院审的是法律问题。
+② Appellate courts review points of law and will not hear a witness at all.
+= 上诉法院审的是法律问题，根本不传唤证人。
 review points of law = 审查法律适用
-③ She argued before the appellate court.
-= 她在上诉法院出庭辩论。
+③ She argued before the appellate court for forty minutes and answered questions for two hours.
+= 她在上诉法院陈述了四十分钟，回答提问回答了两个钟头。
 注意语域：
 法律与司法制度用语。
 层级对照：
