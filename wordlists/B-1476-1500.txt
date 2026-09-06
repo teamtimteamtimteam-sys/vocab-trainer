@@ -31,12 +31,12 @@ arsehole
 核心：英式粗话，字面是"肛门"，用来骂人时指"混蛋"，语气比 arse 重
 得多。另有一个搭配 the arsehole of nowhere，指鸟不拉屎的地方。
 美式说 asshole。
-① He called his boss an arsehole.
-= 他管老板叫混蛋。
-② Don't be an arsehole about it.
-= 别为这事那么混。
-③ The village is in the arsehole of nowhere.
-= 那个村子在鸟不拉屎的地方。
+① He called his boss an arsehole in front of the whole shift and was gone by Friday.
+= 他当着整班人的面骂老板是混蛋，到周五就走人了。
+② There is no need to be an arsehole about a parking space.
+= 为个车位犯不着这么混。
+③ The cottage is in the arsehole of nowhere and the post comes twice a week.
+= 那间小屋在鸟不拉屎的地方，邮件一周来两次。
 the arsehole of nowhere = 荒僻得要命的地方
 注意语域：
 高度粗俗，冒犯性强，正式场合绝不能用。
@@ -47,14 +47,14 @@ asshole = 混蛋（美式粗话）
 arsenal
 核心：三条线：储存武器的"军火库"、一国的"全部军备"、
 以及比喻义的"全套手段"。
-① The nuclear arsenal was reduced.
-= 核武库缩减了。
+① The nuclear arsenal was reduced by treaty and by the cost of keeping it.
+= 核武库因条约而缩减，也因维持它的花费而缩减。
 nuclear arsenal = 核武库
-② An arsenal of weapons was found.
-= 发现了一批军火。
+② An arsenal of weapons was found under the floor of a house nobody had lived in.
+= 一栋没人住过的房子地板下发现了一批军火。
 an arsenal of = 一批（武器或手段）
-③ She has an arsenal of arguments.
-= 她备有一整套论据。
+③ Sarcasm is the only weapon left in his arsenal and he uses it on everyone.
+= 讥讽是他仅剩的武器，对谁都用。
 词源：阿拉伯语，原指造船厂。
 近义对照：
 arsenal = 军火库；全套装备
@@ -64,13 +64,13 @@ stockpile = 储备（囤积量）
 arsenic
 核心：指砷，一种剧毒的化学元素，符号 As。
 历史上是著名的毒药。不可数。
-① Arsenic is highly toxic.
-= 砷剧毒。
+① Arsenic is highly toxic and was for centuries impossible to detect after death.
+= 砷剧毒，而且几百年里死后都检测不出来。
 highly toxic = 剧毒的
-② Arsenic was found in the water.
-= 水里检出了砷。
-③ He died of arsenic poisoning.
-= 他死于砷中毒。
+② Arsenic was found in the water at four times the permitted level.
+= 水里检出的砷是允许限值的四倍。
+③ He died of arsenic poisoning that had been building for months.
+= 他死于砷中毒，那是几个月里一点点积累的。
 arsenic poisoning = 砷中毒
 注意发音：/ˈɑːsnɪk/
 其他有毒元素：
@@ -80,13 +80,13 @@ cadmium = 镉 / thallium = 铊
 arson
 核心：法律用语，指蓄意"纵火"这一罪行。不可数。
 关键在"蓄意"——意外失火不叫 arson。
-① He was charged with arson.
-= 他被控纵火。
+① He was charged with arson after a neighbour remembered the smell of petrol.
+= 邻居想起有汽油味，他随后被控纵火。
 charged with arson = 被控纵火罪
-② The fire was arson.
-= 那场火是人为纵火。
-③ Police suspect arson.
-= 警方怀疑是纵火。
+② The fire was arson, and whoever set it knew where the alarms were.
+= 那场火是人为纵火，放火的人清楚警报装在哪儿。
+③ Police suspect arson but will not say so until the insurers have been told.
+= 警方怀疑是纵火，但在通知保险公司之前不会明说。
 suspect arson = 怀疑纵火
 词族：
 arsonist = 纵火犯
@@ -170,13 +170,13 @@ a work of art = 艺术品
 artefact
 核心：指人工制品，尤指有历史或考古价值的器物。
 美式拼 artifact。技术上还指数据里的"伪影"。
-① The museum displays ancient artefacts.
-= 博物馆展出古代器物。
+① The museum displays ancient artefacts that three countries have asked for back.
+= 博物馆展出的古代器物，有三个国家要求归还。
 ancient artefact = 古代文物
-② Artefacts were dated to 3000 BC.
-= 那些器物断代为公元前三千年。
-③ The image has digital artefacts.
-= 那张图有数字伪影。
+② Artefacts were dated to 3000 BC by the seeds found in the same layer.
+= 靠同一层里的种子，那些器物断代为公元前三千年。
+③ The image has digital artefacts around every edge where the file was compressed.
+= 文件压缩过，图上每条边缘都有数字伪影。
 digital artefact = 数字伪影
 注意英美拼写：
 artefact = 人工制品、器物（英式拼法）
@@ -190,14 +190,14 @@ arteriole
 核心：指"小动脉"——动脉分到最细的那一级，再往下就是毛细血管。
 它管壁上有平滑肌，一收一舒就能调节流向各处的血量，
 所以血压主要就是靠它调的。
-① Arterioles control blood flow to tissues.
-= 小动脉调节流向组织的血量。
+① Arterioles control blood flow to tissues and can shut a capillary bed down entirely.
+= 小动脉调节流向组织的血量，能把整片毛细血管网彻底关掉。
 control blood flow = 调节血流
-② Constricted arterioles raise blood pressure.
-= 小动脉收缩会抬高血压。
+② Constricted arterioles raise blood pressure, which is how most of these drugs work in reverse.
+= 小动脉收缩会抬高血压，这类药多半就是反过来起作用的。
 constricted arteriole = 收缩的小动脉
-③ Arterioles feed the capillary beds.
-= 小动脉给毛细血管网供血。
+③ Arterioles feed the capillary beds and are where the real resistance to flow sits.
+= 小动脉给毛细血管网供血，血流的阻力主要就在这一段。
 注意语域：
 生理学与医学术语。
 血管分级：
