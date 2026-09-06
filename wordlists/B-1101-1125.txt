@@ -111,36 +111,36 @@ appoint = 任命（行政）
 anomalous
 核心：正式用语，指"反常的、不符合规律的"。
 科研和数据分析里常用。
-① The reading is anomalous.
-= 那个读数异常。
+① The reading is anomalous and the same probe gave it three times.
+= 那个读数异常，而且是同一个探头给出的，给了三次。
 anomalous reading = 异常读数
-② An anomalous result appeared.
-= 出现了一个反常结果。
+② An anomalous result appeared in the batch that had been left overnight.
+= 过夜放着的那批样品里出现了一个反常结果。
 anomalous result = 反常结果
-③ Her position is anomalous.
-= 她的处境很特殊。
+③ Her position is anomalous and no one has drawn the organisation chart.
+= 她的处境很特殊，也没人画过那张组织结构图。
 词族：
 anomaly = 反常现象
 近义对照：
 anomalous = 反常的（学术）
 abnormal = 异常的（医学、通用）
 atypical = 非典型的
-④ The reading was anomalously high.
-= 那个读数高得反常。
+④ The reading was anomalously high on the one day nobody was watching.
+= 偏偏在没人盯着的那一天，读数高得反常。
 anomalously = 反常地
 
 anomaly
 核心：指"反常的现象、不符合规律的个例"。学术和技术语境高频，
 比 exception 更强调"和预期不符、需要解释"。
-① The data shows an anomaly.
-= 数据里有个异常值。
-② It's a statistical anomaly.
-= 那是个统计上的异常。
+① The data shows an anomaly that survives every attempt to explain it away.
+= 数据里有个异常值，怎么解释都解释不掉。
+② It's a statistical anomaly and the sample was eleven people.
+= 那是个统计上的异常，样本一共十一个人。
 statistical anomaly = 统计异常
-③ Such anomalies need explaining.
-= 这类反常现象需要解释。
-④ He is an anomaly in the field.
-= 他在这个领域里是个异数。
+③ Such anomalies need explaining before anyone builds a theory on them.
+= 有人拿这类反常现象立论之前，得先把它们解释清楚。
+④ He is an anomaly in the field and has never held a formal post.
+= 他在这个领域里是个异数，从没担任过正式职务。
 注意复数：
 anomaly → anomalies
 词族：
@@ -391,21 +391,21 @@ voicemail = 语音信箱（运营商提供）
 ant
 核心：指蚂蚁，社会性昆虫。构词能力强：anthill、
 ant colony。习语 have ants in one's pants 指坐立不安。
-① Ants marched in a line.
-= 蚂蚁排成一列前进。
-② The anthill is huge.
-= 那个蚁丘很大。
+① Ants marched in a line across the sill and into the sugar.
+= 蚂蚁排成一列爬过窗台，钻进了糖罐。
+② The anthill is huge and goes down further than it stands up.
+= 那个蚁丘很大，地下的部分比地上还深。
 anthill = 蚁丘
-③ He has ants in his pants.
-= 他坐立不安。
+③ He has ants in his pants and has stood up four times already.
+= 他坐立不安，已经站起来四回了。
 have ants in one's pants = 焦躁难安
 词族：
 ant colony = 蚁群
 群体昆虫：
 ant = 蚂蚁 / bee = 蜜蜂
 termite = 白蚁 / wasp = 黄蜂
-④ An ant lion digs a pit to trap prey.
-= 蚁狮挖个坑来诱捕猎物。
+④ An ant lion digs a pit to trap prey and waits at the bottom.
+= 蚁狮挖个坑来诱捕猎物，自己守在坑底。
 ant lion = 蚁狮（幼虫挖漏斗坑捕蚁）
 
 antacid
@@ -462,21 +462,21 @@ agonist = 激动剂
 antagonistic
 核心：指态度"敌对的、对着干的"。介词用 to 或 towards。
 比 unfriendly 强，暗示主动对抗。
-① He was antagonistic towards me.
-= 他对我充满敌意。
+① He was antagonistic towards me from the first meeting onwards.
+= 从第一次开会起，他就对我充满敌意。
 antagonistic towards = 对…敌对
-② The two groups are antagonistic.
-= 那两个群体互相对立。
-③ She took an antagonistic stance.
-= 她采取了对抗立场。
+② The two groups are antagonistic and share a building and a kitchen.
+= 那两个群体互相对立，却共用一栋楼和一间厨房。
+③ She took an antagonistic stance and won every vote that followed.
+= 她采取了对抗立场，此后每次表决都赢了。
 antagonistic stance = 对抗姿态
 词族：
 antagonism = 对立
 antagonize = 激怒
 反义词：
 cooperative = 合作的
-④ The two sides eyed each other antagonistically.
-= 双方彼此对立地打量着。
+④ The two sides eyed each other antagonistically across a narrow table.
+= 隔着一张窄桌，双方彼此对立地打量着。
 antagonistically = 敌对地
 
 antagonize

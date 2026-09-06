@@ -20,17 +20,17 @@ ante
 说法里，本义反而少见：up the ante 与 raise the ante 是加码、把要求
 或风险再抬高一档，比喻用法比赌桌上的用法常见得多；ante up 是掏钱、
 出份子。名词可数，多用单数。
-① Each player puts an ante in the pot.
-= 每个玩家先往池里放一份底注。
+① Each player puts an ante in the pot before a single card is dealt.
+= 一张牌还没发，每个玩家就先往池里放一份底注。
 an ante = （牌局的）底注
-② The union upped the ante by calling a strike.
-= 工会宣布罢工，把筹码又加了一档。
+② The union upped the ante by calling a strike for the busiest week.
+= 工会把罢工定在最忙的一周，等于又加了一档筹码。
 up the ante = 加码、抬高要求或风险
-③ That deal raised the ante for everyone else.
-= 那笔交易把所有人的门槛都抬高了。
+③ That deal raised the ante for everyone else in the same market.
+= 那笔交易把同一市场里所有人的门槛都抬高了。
 raise the ante = 同一个意思，两个动词都有人用
-④ We all had to ante up fifty pounds.
-= 我们每人得掏五十镑。
+④ We all had to ante up fifty pounds before anybody would start.
+= 谁也不肯先动手，我们每人得先掏五十镑。
 ante up = 掏钱、出份子
 作动词时偏口语，常带一点不情不愿也得出的意味。
 构词：拉丁语 ante「在……之前」，指开牌之前先押的那一份
@@ -71,16 +71,16 @@ antebellum mansion = 战前庄园宅邸
 antecedent
 核心：两条线：正式的"先前的事物、前身"，
 和语法上代词所指代的"先行词"。复数还指"祖先、家世"。
-① It had many antecedents.
-= 它有很多前身。
-② The pronoun's antecedent is unclear.
-= 那个代词的先行词不明。
+① It had many antecedents and the earliest is usually left out.
+= 它有很多前身，最早的那个通常被略去不提。
+② The pronoun's antecedent is unclear and two readings are possible.
+= 那个代词的先行词不明，可以有两种读法。
 grammatical antecedent = 语法先行词
-③ His antecedents were farmers.
-= 他祖上是务农的。
+③ His antecedents were farmers and he has never mentioned it in print.
+= 他祖上是务农的，他在文章里从没提过。
 复数 = 家世、祖先
-④ These events are antecedent to the war.
-= 这些事件发生在战前。
+④ These events are antecedent to the war and rarely appear in accounts of it.
+= 这些事件发生在战前，战史里很少提到。
 antecedent to = 先于
 词族：
 antecede = 先于（罕用）
@@ -104,16 +104,16 @@ antedate
 核心：底层是"把日子往前推"。推到另一件事之前，就是"早于、先于"；
 把文件上的日期往前写，就是"倒填日期"。两个义项都是正式用语，
 反义都由 postdate 承担。
-① The church antedates the town.
-= 那座教堂比这个镇还早。
+① The church antedates the town by about three hundred years.
+= 那座教堂比这个镇早了大约三百年。
 antedate something = 早于某物
-② These customs antedate the war.
-= 这些习俗早于那场战争。
-③ He antedated the cheque.
-= 他把支票的日期倒填了。
+② These customs antedate the war and survived it almost unchanged.
+= 这些习俗早于那场战争，战后也几乎没变。
+③ He antedated the cheque and the bank spotted it within the hour.
+= 他把支票的日期倒填了，银行一小时内就发现了。
 antedate a document = 倒填文件日期
-④ The signature was antedated by a week.
-= 那个签名的日期往前填了一周。
+④ The signature was antedated by a week and nobody has explained why.
+= 那个签名的日期往前填了一周，至今没人解释原因。
 注意别混：
 antedate = 早于；倒填日期
 postdate = 晚于；填晚日期
@@ -122,15 +122,15 @@ antediluvian
 核心：底层是"大洪水以前的"——指圣经里挪亚那场洪水之前的年代。
 那个时间点远得没边，于是引申成戏谑说法，形容东西或观念
 "老掉牙、过时得可笑"。日常几乎只用引申义。
-① He holds antediluvian views on marriage.
-= 他对婚姻的看法老掉牙。
+① He holds antediluvian views on marriage and states them at every wedding.
+= 他对婚姻的看法老掉牙，每场婚礼上都要讲一遍。
 antediluvian views = 老掉牙的观念
-② The office still uses an antediluvian fax machine.
-= 那间办公室还在用一台老古董传真机。
-③ Antediluvian fossils lie in that stratum.
-= 那个地层里埋着洪水前的化石。
-④ The rules feel antediluvian.
-= 那些规定像上古遗物。
+② The office still uses an antediluvian fax machine for legal documents.
+= 那间办公室的法律文件还在用一台老古董传真机发。
+③ Antediluvian fossils lie in that stratum and go back further than the name suggests.
+= 那个地层里埋着洪水前的化石，年代比这个名字暗示的还久远。
+④ The rules feel antediluvian and were written in nineteen ninety-eight.
+= 那些规定像上古遗物，其实是一九九八年写的。
 注意语域：
 引申义带戏谑，本义限于宗教与地质语境。
 近义对照：
@@ -213,17 +213,17 @@ anterior
 核心：底层是拉丁语的"更前面的"，空间和时间共用一个词根。
 在身体上指靠前的那一侧，跟 posterior 相对；在时间上指发生在先的，
 固定说法 anterior to。两个义项都属正式用语，日常不这么说。
-① The anterior surface faces forward.
-= 前表面朝向前方。
+① The anterior surface faces forward and takes most of the wear.
+= 前表面朝向前方，磨损多半也在那一面。
 anterior surface = 前表面
-② He tore his anterior cruciate ligament.
-= 他撕裂了前十字韧带。
+② He tore his anterior cruciate ligament and was out for eleven months.
+= 他撕裂了前十字韧带，缺阵十一个月。
 anterior cruciate ligament = 前十字韧带
-③ These events are anterior to the war.
-= 这些事件早于那场战争。
+③ These events are anterior to the treaty and shaped every clause in it.
+= 这些事件早于那份条约，也塑造了它的每一条。
 anterior to = 早于
-④ The anterior chamber of the eye holds fluid.
-= 眼睛的前房里充着房水。
+④ The anterior chamber of the eye holds fluid that drains and refills constantly.
+= 眼睛的前房里充着房水，不断排出又不断补充。
 anterior chamber = 前房
 注意语域：
 解剖学术语；时间义属正式书面语。
@@ -234,20 +234,20 @@ posterior = 后面的、在后的
 anthem
 核心：指国歌或团体的"颂歌"，也指某个群体的"代表性歌曲"。
 最高频的搭配是 national anthem。
-① They played the national anthem.
-= 他们奏了国歌。
+① They played the national anthem twice because nobody stood the first time.
+= 第一次没人起立，国歌只好又奏了一遍。
 national anthem = 国歌
-② The song became a youth anthem.
-= 那首歌成了年轻人的代表曲。
+② The song became a youth anthem for a generation that never bought it.
+= 那首歌成了一代人的代表曲，而那代人从没买过它。
 youth anthem = 青年一代的战歌
-③ Fans sang the club anthem.
-= 球迷唱起了俱乐部队歌。
+③ Fans sang the club anthem in the rain long after the ground had emptied.
+= 球场早已空了，球迷还在雨里唱着俱乐部队歌。
 近义对照：
 anthem = 颂歌、国歌（庄重）
 hymn = 赞美诗（宗教）
 ballad = 叙事歌谣
-④ The chorus is genuinely anthemic.
-= 那段合唱确实有颂歌的气势。
+④ The chorus is genuinely anthemic and works badly on a small stage.
+= 那段合唱确实有颂歌的气势，在小舞台上反而放不开。
 anthemic = 有颂歌气势的（旋律恢弘、适合齐唱）
 
 anther
