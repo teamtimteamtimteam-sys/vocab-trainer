@@ -69,36 +69,36 @@ stiffness = 僵硬（还能动，只是不灵活）
 annals
 核心：指按年记载的"编年史、史册"。永远用复数。
 比喻搭配 in the annals of 意为"在…的历史上"。
-① It's recorded in the annals.
-= 那记在史册里。
-② In the annals of sport, he stands out.
-= 在体育史上他很突出。
+① It's recorded in the annals of a society that met four times a year.
+= 那记在一个一年开四次会的学会的史册里。
+② In the annals of sport, he stands out for losing on purpose twice.
+= 在体育史上他很突出，因为故意输过两场。
 in the annals of = 在…的史册上
-③ The annals cover two centuries.
-= 那部编年史涵盖两个世纪。
+③ The annals cover two centuries and skip the years nobody wrote anything.
+= 那部编年史涵盖两个世纪，没人动笔的那些年就跳了过去。
 注意：annals 永远用复数。
 近义对照：
 annals = 编年史（按年）
 chronicle = 编年记事
 history = 历史（通用）
-④ The annalist recorded each year in turn.
-= 那位编年史家逐年记录。
+④ The annalist recorded each year in turn and never once gave an opinion.
+= 那位编年史家逐年记录，一次意见都没发表过。
 annalist = 编年史家
 
 anneal
 核心：底层是"用火烧过再慢慢放凉"。金属和玻璃这么处理，内部应力
 就松开了，材料变韧、不易脆裂，这是本义；比喻着用，指人或组织
 经磨炼而变得坚韧。分子生物学还借它说两条核酸链退火配对。
-① The glass must be annealed slowly.
-= 那块玻璃必须慢慢退火。
+① The glass must be annealed slowly or it will crack on the way out.
+= 那块玻璃必须慢慢退火，不然出炉路上就会裂。
 anneal slowly = 缓慢退火
-② Annealing relieves internal stress.
-= 退火能消除内应力。
+② Annealing relieves internal stress that the casting put there.
+= 退火能消除铸造时留下的内应力。
 annealing = 退火处理
-③ Hardship annealed her resolve.
-= 磨难把她的决心锻得更韧。
-④ The strands anneal at sixty degrees.
-= 那两条链在六十度下退火配对。
+③ Hardship annealed her resolve rather than wearing it away.
+= 磨难没有磨掉她的决心，反而把它锻得更韧。
+④ The strands anneal at sixty degrees and separate again on heating.
+= 那两条链在六十度下退火配对，一加热又分开。
 注意语域：
 本义是材料工艺，比喻义偏书面。
 工艺对照：
@@ -127,15 +127,15 @@ colonization = 殖民
 annexe
 核心：名词指主建筑旁边的"附楼、附属建筑"；动词 annex 指国家
 "吞并"领土。注意名词英式拼 annexe、美式拼 annex，动词都拼 annex。
-① Classes are held in the annexe.
-= 课在附楼上。
-② The hotel has a modern annexe.
-= 那家酒店有座现代化的附楼。
-③ The country annexed the region.
-= 那个国家吞并了那片地区。
+① Classes are held in the annexe because the main hall floods in winter.
+= 课在附楼上，因为主厅冬天会进水。
+② The hotel has a modern annexe that nobody photographs for the brochure.
+= 那家酒店有座现代化的附楼，宣传册上从不拍它。
+③ The country annexed the region and held a referendum three weeks later.
+= 那个国家吞并了那片地区，三周后才办公投。
 annex a territory = 吞并领土
-④ The annexation was condemned.
-= 那次吞并遭到谴责。
+④ The annexation was condemned by states that had done the same thing.
+= 谴责那次吞并的，都是自己做过同样事情的国家。
 词族：
 annexation = 吞并
 注意英美拼写：
@@ -145,15 +145,15 @@ annexation = 吞并
 annihilate
 核心：指"彻底消灭、全歼"，程度极重，不留一点。也用在体育里夸张地
 说"大比分血洗对手"。注意拼写和发音，h 不发音。
-① The army was annihilated.
-= 那支军队被全歼了。
-② The blast annihilated the building.
-= 那场爆炸把楼夷为平地。
-③ We annihilated them 8-0.
-= 我们八比零血洗了他们。
+① The army was annihilated in a valley it had been warned not to enter.
+= 那支军队在一条被警告过别进的山谷里全军覆没。
+② The blast annihilated the building and left the one next door standing.
+= 那场爆炸把楼夷为平地，隔壁那栋却还立着。
+③ We annihilated them eight nil and lost the return leg by more.
+= 我们八比零血洗了他们，次回合输得更惨。
 体育夸张用法
-④ Whole species were annihilated.
-= 整个物种被灭绝了。
+④ Whole species were annihilated within a century of the ships arriving.
+= 船一到，整个物种在一百年内就被灭绝了。
 词族：
 annihilation = 毁灭
 注意发音：/əˈnaɪəleɪt/，
@@ -204,16 +204,16 @@ birthday 生日（人的）
 annotate
 核心：指给文本"加注释、批注"。学术和编辑工作里常用。
 形容词 annotated 常出现在书名里：an annotated edition。
-① She annotated the manuscript.
-= 她给那份手稿加了批注。
+① She annotated the manuscript in pencil so that it could be rubbed out.
+= 她用铅笔给那份手稿加批注，好让它能擦掉。
 annotate a text = 给文本加注
-② It's an annotated edition.
-= 那是个注释版。
+② It's an annotated edition and the notes run longer than the poem.
+= 那是个注释版，注释比诗还长。
 annotated edition = 注释本
-③ Please annotate your code.
-= 请给你的代码加注释。
-④ The map is annotated.
-= 那张地图有标注。
+③ Please annotate your code before the person after you has to guess.
+= 请给你的代码加注释，别让接手的人靠猜。
+④ The map is annotated in three hands and two of them disagree.
+= 那张地图上有三个人的标注，其中两个说法不一致。
 词族：
 annotation = 注释
 近义对照：
@@ -254,15 +254,15 @@ announcer = 播音员
 announcement
 核心：指正式的"公告、通告"，也指发布这个行为。可数。
 搭配 make an announcement 是"宣布"。
-① He made an announcement.
-= 他发了个通知。
+① He made an announcement that half the room had already read online.
+= 他发的那个通知，屋里一半人已经在网上看过了。
 make an announcement = 宣布
-② The announcement surprised everyone.
-= 那个公告让所有人吃惊。
-③ Listen for the announcement.
-= 留意广播通知。
-④ A public announcement was issued.
-= 发布了一份公告。
+② The announcement surprised everyone except the people who wrote it.
+= 那个公告让所有人吃惊，写它的人除外。
+③ Listen for the announcement, because the platform changes without notice.
+= 留意广播通知，站台说换就换。
+④ A public announcement was issued after the story had run for a week.
+= 那件事被报道了一周之后，才发布了一份公告。
 public announcement = 公告
 词族：
 announce = 宣布
@@ -312,17 +312,17 @@ annoyed 恼火 < angry 生气 < furious 暴怒
 annoyance
 核心：两层：抽象的"恼火"（不可数），和具体"让人烦的事"（可数）。
 搭配 to one's annoyance 表示"让某人恼火的是"。
-① He hid his annoyance.
-= 他掩饰住了恼火。
+① He hid his annoyance well enough that only his daughter noticed.
+= 他把恼火藏得够好，只有女儿看了出来。
 不可数
-② To my annoyance, he was late.
-= 让我恼火的是，他迟到了。
+② To my annoyance, he was late and had brought somebody with him.
+= 让我恼火的是，他迟到了，还带了个人来。
 to one's annoyance = 令某人不快的是
-③ It's a minor annoyance.
-= 那只是个小麻烦。
+③ It's a minor annoyance that becomes a serious one by about March.
+= 那是个小麻烦，到三月左右就变成大麻烦了。
 minor annoyance = 小小的烦扰
-④ Noise is a constant annoyance.
-= 噪音一直让人心烦。
+④ Noise is a constant annoyance in a flat above a delivery entrance.
+= 住在送货入口楼上，噪音一直让人心烦。
 词族：
 annoy = 使恼火
 annoying = 恼人的
