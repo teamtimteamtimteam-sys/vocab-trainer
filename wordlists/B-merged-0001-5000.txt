@@ -35397,12 +35397,12 @@ awfully good 是「非常好」不是「糟糕地好」。
 awhile
 核心：副词，"一会儿"。写成一个词时是副词，
 写成两个词 a while 是名词短语，用法不同。
-① Stay awhile.
-= 待一会儿。
+① Stay awhile; the rain will have stopped before you are halfway home.
+= 多待一会儿吧，你走到半路雨大概就停了。
 ② Rest awhile before going.
 = 走之前歇一会儿。
-③ Wait for a while.
-= 等一会儿。
+③ Wait for a while before ringing again, since it takes him an age to reach the phone.
+= 过一阵再打，他挪到电话旁边要好久。
 介词后面要用 a while（两个词）
 注意拼写：
 awhile = 副词，直接跟动词
@@ -37068,13 +37068,11 @@ lap a backmarker = 套圈
 backmost
 核心：形容词，指"最靠后的、最末的"。用于座位、车厢、队列这类
 分得出前后的东西。偏书面，日常多说 last 或 rearmost。
-① They sat in the backmost row.
-= 他们坐在最后一排。
+① They sat in the backmost row, where the sound arrives a beat late.
+= 他们坐在最后一排，那里的声音总要慢半拍才到。
 the backmost row = 最后一排
-② The backmost carriage was empty.
-= 最后那节车厢是空的。
-③ He marched in the backmost rank.
-= 他走在最后一列。
+② The backmost carriage was empty, as it is on every train after nine.
+= 最后那节车厢是空的，九点以后每趟车都这样。
 注意语域：
 偏书面，日常说 last。
 
@@ -40504,13 +40502,13 @@ barometer
 核心：测大气压的仪器。气压降表示天气要变坏，升表示转晴，
 所以它成了看天气的老办法。比喻着用指"晴雨表"——
 能反映整体形势变化的那个指标。形容词是 barometric。
-① The barometer is falling.
-= 气压在下降。
+① The barometer is falling steadily, which usually means rain before morning.
+= 气压在稳步下降，这通常意味着天亮前有雨。
 ② House prices are a barometer of confidence.
 = 房价是信心的晴雨表。
 a barometer of = …的晴雨表
-③ Barometric pressure dropped sharply.
-= 气压骤降。
+③ Barometric pressure dropped sharply in the six hours before the storm arrived.
+= 风暴到来前的六小时里，气压骤然下降。
 barometric = 气压的
 注意用法：
 比喻义后面接介词引出所反映的东西。
@@ -47230,15 +47228,12 @@ bicentenary
 centenary（百年纪念），所以是两个一百年。美式一般说
 bicentennial。同族的还有 centenary（百年）、tercentenary（三百年）。
 作定语时不加词尾。
-① They marked the bicentenary of his birth.
-= 他们纪念了他诞辰二百周年。
+① They marked the bicentenary of his birth with a concert in the church where he was baptised.
+= 他们在他受洗的那座教堂里办了场音乐会，纪念他诞辰二百周年。
 mark the bicentenary = 纪念二百周年
-② The bicentenary celebrations lasted a week.
-= 二百周年庆祝活动办了一周。
+② The bicentenary celebrations lasted a week and cost more than the town could afford.
+= 二百周年庆典办了一周，花费超出了那个镇的承受能力。
 bicentenary celebrations = 二百周年庆典
-③ A bicentenary edition was published.
-= 出了个二百周年纪念版。
-作定语时直接放在名词前。
 注意地域：
 bicentenary = 二百周年（英式）
 bicentennial = 二百周年（美式）
@@ -51824,11 +51819,11 @@ black eye
 说 give someone a black eye 就是让人栽了面子。可数。
 ① He came home with a black eye.
 = 他回家时眼眶乌青。
-② She gave him a black eye.
-= 她把他眼眶打青了。
+② She gave him a black eye in the car park and did not apologise for it.
+= 她在停车场把他眼眶打青了，事后也没道歉。
 give someone a black eye = 打青某人的眼眶
-③ The scandal gave the firm a black eye.
-= 那桩丑闻让那家公司很没面子。
+③ The scandal left the firm with a black eye that took years to fade.
+= 那桩丑闻让那家公司颜面扫地，好些年才缓过来。
 比喻义：名声上挨的一下。
 构词：black 黑 + eye 眼
 注意用法：青的是眼周皮肤，不是眼球。
@@ -51938,13 +51933,13 @@ black sheep
 固定说法是 the black sheep of the family。来历在牧羊：白羊群里
 偶尔出一只黑羊，黑羊毛染不上色卖不上价，于是成了"不受待见"的
 那一个。可数。
-① He is the black sheep of the family.
-= 他是家里的异类。
+① He is the black sheep of the family and the only one who still visits their mother.
+= 他是家里的异类，也是唯一还去看母亲的那个。
 the black sheep of the family = 家中的害群之马
-② Every family has a black sheep.
-= 家家都有个不省心的。
-③ She was treated as the black sheep.
-= 她被当成了另类。
+② Every team has a black sheep, and that season the club had two.
+= 每支队伍都有个不省心的，那个赛季俱乐部有两个。
+③ She was treated as the black sheep for marrying outside the faith.
+= 她因为嫁到教门之外，被当成了家里的另类。
 构词：black 黑 + sheep 羊
 注意来历：黑羊毛染不上色卖不出价，
 所以在羊群里不受待见。
@@ -62679,13 +62674,11 @@ braggart
 核心：爱吹牛的人。这个词偏旧、偏书面，今天日常说这种人多用
 show-off 或直接说 he brags。它带明确的鄙夷：说某人是 braggart
 不只是说他爱说，是说他说的多半不实。可数。
-① He was dismissed as a braggart.
-= 他被人当成吹牛的不予理会。
+① He was dismissed as a braggart until somebody checked the records and found he had done it.
+= 他一直被人当成吹牛的不予理会，直到有人查了记录，发现他真做过那件事。
 be dismissed as = 被当作……而不予理会
-② The braggart soon lost his audience.
-= 那个吹牛的很快没人听了。
-③ Nobody believed the braggart.
-= 没人信那个爱吹牛的。
+② Nobody believed the braggart, and on the one occasion he told the truth it cost him dearly.
+= 没人信那个爱吹牛的，而他说真话的那一回，代价惨重。
 构词：brag 吹嘘 + -art 人
 注意年代：偏旧偏书面，今天少用。
 
@@ -66748,10 +66741,10 @@ broken-hearted
 核心：形容词，心碎的——因为失恋、丧亲或极大的失望而伤心到底。
 它比 sad 重得多：sad 是难过，broken-hearted 是"心被弄碎了"。
 多用来说感情上的打击。也写作 brokenhearted。
-① She was broken-hearted when he left.
-= 他走的时候她心都碎了。
-② The news left them broken-hearted.
-= 那个消息让他们伤心欲绝。
+① She was broken-hearted when he left and did not say so to anyone for a year.
+= 他走的时候她心都碎了，整整一年没对任何人说过。
+② The news left them broken-hearted an hour before the ceremony was due to start.
+= 典礼预定开始前一小时，那个消息让他们伤心欲绝。
 leave someone broken-hearted = 让某人伤心欲绝
 ③ He sang a broken-hearted song.
 = 他唱了首伤心的歌。

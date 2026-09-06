@@ -100,10 +100,10 @@ def verdict(e1, b1, e2, b2):
     if h1 and h2:
         return '搭配槽 → 改译文写出区别，别删'
     if h1 and not h2:
-        return '重复义项 → 删 %s（它没有等式）' % n2
+        return '疑似多余 → 先看 %s 在教什么，只是换主语重说才删' % n2
     if h2 and not h1:
-        return '重复义项 → 删 %s（它没有等式）' % n1
-    return '重复义项 → 两条都没等式，删一条'
+        return '疑似多余 → 先看 %s 在教什么，只是换主语重说才删' % n1
+    return '疑似多余 → 两条都没等式，看清楚各自在教什么再删'
 
 def main(argv):
     loose = '--loose' in argv
