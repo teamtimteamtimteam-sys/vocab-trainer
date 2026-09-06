@@ -260,13 +260,13 @@ enmity = 敌意（反义）
 ammeter
 核心：测电流用的仪表，读数单位是安培。要串在电路里用，跟测电压的
 表接法正好相反。
-① Connect the ammeter in series.
-= 把电流表串联进去。
+① Connect the ammeter in series, because putting it across the supply will destroy it.
+= 把电流表串联进去，接在电源两端会把它烧毁。
 connect in series = 串联
-② The ammeter showed two amps.
-= 电流表显示两安培。
-③ A digital ammeter is easier to read.
-= 数字电流表更好读。
+② The ammeter showed two amps with the motor idling and nine when it took the load.
+= 电机空转时电流表显示两安培，带上负载就是九安培。
+③ A digital ammeter is easier to read, especially when the needle would be swinging.
+= 数字电流表更好读，尤其是在指针本该来回摆动的时候。
 digital ammeter = 数字电流表
 注意语域：
 电学与电工术语。
@@ -277,14 +277,14 @@ voltmeter = 电压表（并联接入）
 ammo
 核心：ammunition 的口语缩略，指"弹药"。不可数。比喻着用时指
 辩论或攻击时手里的"材料、把柄"。
-① They ran out of ammo.
-= 他们弹药打光了。
+① They ran out of ammo halfway through the level and had to finish it with a crowbar.
+= 他们打到关卡一半弹药就打光了，只能拿撬棍收尾。
 run out of ammo = 弹药用尽
-② The report gave critics fresh ammo.
-= 那份报告给了批评者新的弹药。
+② His own old posts gave her all the ammo she needed to win the argument.
+= 他自己那些旧帖子给了她赢下这场争论所需的全部弹药。
 give somebody ammo = 给某人提供攻击材料
-③ Stock up on ammo before the trip.
-= 出发前把弹药备足。
+③ Stock up on ammo before the trip; the nearest shop is ninety miles from the cabin.
+= 出发前把弹药备足，最近的店离小屋九十英里。
 注意语域：
 口语缩略，正式文本写全。
 近义对照：
@@ -294,13 +294,13 @@ ammunition = 弹药（正式）
 ammonia
 核心：化学物质氨，有强烈刺鼻气味，用于清洁剂和化肥。
 不可数。化学式 NH₃。
-① Ammonia has a sharp smell.
-= 氨有刺鼻气味。
+① Ammonia has a sharp smell that clears a room faster than any warning sign.
+= 氨有刺鼻气味，比任何警示牌都更快把人赶出房间。
 sharp smell = 刺鼻气味
-② The cleaner contains ammonia.
-= 那种清洁剂含氨。
-③ Ammonia is used in fertilizer.
-= 氨用于制造化肥。
+② The cleaner contains ammonia, so open a window before you start on the oven.
+= 那种清洁剂含氨，动手擦烤箱之前先开窗。
+③ Ammonia is used in fertilizer, and about half the food we eat depends on it.
+= 氨用于制造化肥，我们吃的食物大约有一半靠它。
 注意发音：/əˈməʊniə/
 安全提示：
 氨与漂白剂混合会产生有毒气体，
@@ -309,13 +309,13 @@ sharp smell = 刺鼻气味
 ammonite
 核心：一种已灭绝的海洋软体动物，壳盘成螺旋、内部分隔成一室室，
 是中生代地层里最常见的标准化石。名字来自古埃及那位羊角神的形象。
-① The cliff yields ammonite fossils.
-= 那面崖壁能挖到菊石化石。
+① The cliff yields ammonite fossils after every winter storm strips a layer away.
+= 每场冬季风暴剥掉一层之后，那面崖壁就能挖到菊石化石。
 ammonite fossil = 菊石化石
-② An ammonite shell coils flat.
-= 菊石的壳是平盘状的。
-③ Ammonites died out with the dinosaurs.
-= 菊石与恐龙同时灭绝。
+② An ammonite shell coils flat, with chambers the animal sealed off as it grew.
+= 菊石的壳是平盘状的，动物长大时把一间间旧壳室封起来。
+③ Ammonites died out with the dinosaurs, after drifting the seas for three hundred million years.
+= 菊石与恐龙同时灭绝，此前它们已在海里漂了三亿年。
 die out = 灭绝
 注意语域：
 古生物学与地质学名称。
@@ -323,14 +323,14 @@ die out = 灭绝
 ammonium
 核心：化学名词，指"铵"——氨得到一个氢离子后形成的正离子，
 自己不单独存在，总是跟酸根结合成盐。化肥里到处是它。
-① Ammonium nitrate is a common fertilizer.
-= 硝酸铵是常见的化肥。
+① Ammonium nitrate is a common fertilizer and, stored badly in quantity, a notorious hazard.
+= 硝酸铵是常见的化肥，大量堆放不当时也是出了名的危险品。
 ammonium nitrate = 硝酸铵
-② Ammonium salts dissolve readily.
-= 铵盐容易溶解。
+② Ammonium salts dissolve readily, which is why they wash out of soil after heavy rain.
+= 铵盐容易溶解，所以大雨过后会从土里流失。
 ammonium salt = 铵盐
-③ Ammonium forms when ammonia meets acid.
-= 氨遇酸就生成铵。
+③ Ammonium forms when ammonia meets acid, picking up the hydrogen it was short of.
+= 氨遇酸就生成铵，补上了它原本缺的那个氢。
 注意语域：
 化学术语。
 注意别混：
@@ -340,14 +340,14 @@ ammonia = 氨（气体分子）
 ammunition
 核心：字面指"弹药"，不可数——这是高频错误点，不说 ammunitions。
 比喻义指论战中可用的"把柄、材料"。口语缩写 ammo。
-① They ran out of ammunition.
-= 他们弹药用尽了。
+① The inquiry found that the battalion ran out of ammunition on the second day.
+= 调查认定该营在第二天弹药用尽。
 run out of ammunition = 弹药耗尽
-② Live ammunition was used.
-= 使用了实弹。
+② Live ammunition was used at the exercise, which is why the range was closed for a mile around.
+= 那次演习使用了实弹，所以周围一英里的靶场都封闭了。
 live ammunition = 实弹
-③ It gave critics ammunition.
-= 那给了批评者口实。
+③ The leaked minutes gave the committee's critics ammunition they used for a year.
+= 会议记录外泄，给了委员会的批评者用了一整年的口实。
 give someone ammunition = 给人以把柄
 缩写：ammo（口语）
 注意：ammunition 不可数，
@@ -356,14 +356,14 @@ give someone ammunition = 给人以把柄
 amnesia
 核心：指"失忆症"，医学词但日常也用。不可数。
 比喻义指集体性的"选择性遗忘"。
-① He suffers from amnesia.
-= 他患有失忆症。
+① He suffers from amnesia and has kept the same four photographs in his pocket for years.
+= 他患有失忆症，口袋里多年来一直放着同样四张照片。
 suffer from amnesia = 患失忆症
-② She had temporary amnesia.
-= 她短暂性失忆。
+② She had temporary amnesia after the fall and lost only the hour before it.
+= 摔伤之后她短暂性失忆，丢掉的只有摔倒前那一个钟头。
 temporary amnesia = 暂时性失忆
-③ There is collective amnesia about it.
-= 大家对那件事集体失忆。
+③ There is collective amnesia about it, and the people who were there talk least of all.
+= 大家对那件事集体失忆，当年在场的人反倒说得最少。
 collective amnesia = 集体遗忘
 词族：
 amnesiac = 失忆者
@@ -394,27 +394,27 @@ reprieve 缓刑（暂缓执行）
 amniocentesis
 核心：产前检查的一种，用细针抽取子宫里的羊水，查胎儿的染色体和
 遗传病。一般在孕中期做。复数是 amniocenteses。
-① She had an amniocentesis at sixteen weeks.
-= 她孕十六周做了羊膜穿刺。
+① She had an amniocentesis at sixteen weeks and waited a fortnight for the result.
+= 她孕十六周做了羊膜穿刺，等了两个星期才出结果。
 have an amniocentesis = 做羊膜穿刺
-② Amniocentesis detects chromosomal disorders.
-= 羊膜穿刺能查出染色体异常。
+② Amniocentesis detects chromosomal disorders that no scan would ever show.
+= 羊膜穿刺能查出染色体异常，那是任何超声都看不出来的。
 detect disorders = 查出异常
-③ The doctor explained the risks of amniocentesis.
-= 医生说明了羊膜穿刺的风险。
+③ The doctor explained the risks of amniocentesis twice and left the decision to them.
+= 医生把羊膜穿刺的风险讲了两遍，然后把决定权留给他们。
 注意语域：
 产科术语。
 
 amniotic fluid
 核心：指"羊水"——包在胎膜里、把胎儿托住的那泡液体，起缓冲、保温和
 润滑的作用。分娩前羊膜破裂就是俗称的破水。
-① Amniotic fluid cushions the fetus.
-= 羊水给胎儿起缓冲。
+① Amniotic fluid cushions the fetus against every knock the mother takes.
+= 母亲受到的每一次磕碰，都由羊水替胎儿缓冲。
 cushion the fetus = 给胎儿缓冲
-② Her amniotic fluid was low.
-= 她的羊水偏少。
-③ The amniotic fluid was tested for infection.
-= 那份羊水做了感染检测。
+② Her amniotic fluid was low, so they booked her in for monitoring twice a week.
+= 她的羊水偏少，所以给她安排了每周两次的监测。
+③ The amniotic fluid was tested for infection after the membranes ruptured early.
+= 胎膜早破之后，那份羊水做了感染检测。
 注意语域：
 产科与胚胎学术语。
 相关说法：
