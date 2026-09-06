@@ -33,13 +33,13 @@ an abandoned building = 废弃的楼
 abandoned
 核心：两条线：一是"被遗弃的"（房子、汽车、孩子），二是"放纵无拘的"
 （举止、舞蹈）。第二条偏文学。
-① They found an abandoned house.
-= 他们发现一栋废弃的房子。
+① They found an abandoned house with the table still laid for a meal.
+= 他们发现一栋废弃的房子，桌上还摆着一顿饭的餐具。
 abandoned house = 废弃房屋
-② The car was left abandoned.
-= 那辆车被弃置了。
-③ She danced with abandoned joy.
-= 她纵情起舞。
+② The car was left abandoned on a verge for most of the summer.
+= 那辆车被弃在路肩上，整个夏天大半时间都在那儿。
+③ She danced with abandoned joy at a wedding where nobody else would get up.
+= 在一场没人肯起身的婚礼上，她纵情起舞。
 这里：
 abandoned = 无拘无束的
 词族：
@@ -49,14 +49,14 @@ abandonment = 遗弃
 abandonment
 核心：指"遗弃"这个行为或状态，法律语境高频（遗弃子女、弃权）。
 也指"放弃（计划、权利）"。不可数。
-① He was charged with abandonment.
-= 他被控遗弃罪。
+① He was charged with abandonment and the case turned on a single letter.
+= 他被控遗弃罪，案子的关键是一封信。
 child abandonment = 遗弃儿童
-② The abandonment of the plan surprised us.
-= 那个计划的放弃让我们意外。
+② The abandonment of the plan surprised us more than the plan itself had.
+= 那个计划被放弃，比计划本身更让我们意外。
 the abandonment of = 对…的放弃
-③ Abandonment of the site was ordered.
-= 该场地被下令弃用。
+③ Abandonment of the site was ordered after the third structural survey.
+= 第三次结构检测之后，那处场地被下令弃用。
 词族：
 abandon = 抛弃
 近义对照：
@@ -66,13 +66,13 @@ desertion = 擅离（军事、婚姻）
 abase
 核心：正式且偏文学的"贬低、使卑下"，最常见的是反身用法
 abase oneself，意为"自贬身价、低声下气"。
-① He abased himself before the king.
-= 他在国王面前卑躬屈膝。
+① He abased himself before the king and was given nothing for the trouble.
+= 他在国王面前卑躬屈膝，什么也没换到。
 abase oneself = 自贬
-② Don't abase yourself for money.
-= 别为钱作践自己。
-③ The ritual abased the loser.
-= 那个仪式羞辱了败者。
+② Don't abase yourself for money that will be gone within the year.
+= 别为一笔一年内就花光的钱作践自己。
+③ The ritual abased the loser in front of everyone who had backed him.
+= 那个仪式当着所有支持者的面羞辱了败者。
 词族：
 abasement = 屈辱、贬抑
 近义对照：
@@ -83,14 +83,14 @@ degrade = 使降格
 abasement
 核心：abase 的名词形式，指"自贬、屈辱"。极正式，多见于宗教和
 文学文本。最常见的是 self-abasement。
-① Self-abasement was part of the ritual.
-= 自我贬抑是那个仪式的一部分。
+① Self-abasement was part of the ritual and lasted the whole of the first day.
+= 自我贬抑是那个仪式的一部分，头一整天都在做。
 self-abasement = 自我贬抑
-② He endured public abasement.
-= 他忍受了当众羞辱。
+② He endured public abasement and wrote about it thirty years later.
+= 他忍受了当众羞辱，三十年后才写下来。
 public abasement = 当众受辱
-③ The abasement was deliberate.
-= 那种屈辱是有意为之的。
+③ The abasement was deliberate and its point was to be remembered.
+= 那种屈辱是有意为之的，用意就是让人记住。
 词族：
 abase = 贬低
 近义对照：
@@ -100,13 +100,13 @@ humiliation = 羞辱（通用）
 abashed
 核心：指因为难为情或自觉理亏而"局促不安的"。只作表语。
 更常见的其实是反义词 unabashed（毫不害臊的）。
-① He looked abashed.
-= 他一脸窘迫。
+① He looked abashed and studied the carpet until somebody changed the subject.
+= 他一脸窘迫，盯着地毯看，直到有人换了话题。
 look abashed = 显得难为情
-② She was not at all abashed.
-= 她一点也不觉得难堪。
-③ He grinned, unabashed.
-= 他毫不脸红地咧嘴笑了。
+② She was not at all abashed and repeated the whole story twice as loudly.
+= 她一点不觉得难堪，把整件事又大声讲了一遍。
+③ He grinned, unabashed, and asked for a second helping of the same thing.
+= 他毫不脸红地咧嘴一笑，又要了一份同样的东西。
 反义词：
 unabashed = 不害臊的
 注意：abashed 只作表语。
@@ -117,12 +117,12 @@ embarrassed = 尴尬（当场出丑）
 abate
 核心：正式用语，指风雨、痛苦、噪音、热情"减弱、平息"。
 不及物为主。法律上也指"废除、减免"。
-① The storm abated.
-= 暴风雨平息了。
-② The pain began to abate.
-= 疼痛开始减轻。
-③ Interest showed no sign of abating.
-= 热度没有消退的迹象。
+① The storm abated at about four and the crews went out to clear the road.
+= 暴风雨四点左右平息，人手出去清理路面。
+② The pain began to abate within an hour of the second tablet.
+= 第二片药下去不到一小时，疼痛开始减轻。
+③ Interest showed no sign of abating and the exhibition was extended twice.
+= 热度毫无消退迹象，展期延了两次。
 show no sign of abating = 毫无减弱迹象
 词族：
 abatement = 减弱、减免
@@ -134,14 +134,14 @@ diminish = 减少（数量）
 abatement
 核心：指"减弱、削减"，环境和法律语境高频：noise abatement
 （噪音治理）、tax abatement（减税）。不可数。
-① They demanded noise abatement.
-= 他们要求治理噪音。
+① They demanded noise abatement and got a wall built along the bypass.
+= 他们要求治理噪音，沿绕城路修起了一道墙。
 noise abatement = 噪音治理
-② The city offers tax abatement.
-= 那个城市提供税收减免。
+② The city offers tax abatement to anyone restoring a listed building.
+= 凡是修缮登录建筑的，那个城市都提供税收减免。
 tax abatement = 税收减免
-③ There was no abatement in the rain.
-= 雨势没有减弱。
+③ There was no abatement in the rain and the ground gave way by Sunday.
+= 雨势没有减弱，到周日地基就塌了。
 no abatement in = 没有减弱
 词族：
 abate = 减弱
@@ -149,13 +149,13 @@ abate = 减弱
 abattoir
 核心：英式的"屠宰场"，美式常说 slaughterhouse。
 词源是法语，注意结尾的 -oir 读法。
-① The animals go to an abattoir.
-= 那些牲畜被送去屠宰场。
-② Abattoir standards are strict.
-= 屠宰场标准很严。
+① The animals go to an abattoir forty miles away because the local one shut.
+= 本地那家关了，牲畜要送到四十英里外的屠宰场。
+② Abattoir standards are strict and inspectors turn up without warning.
+= 屠宰场标准很严，检查员不打招呼就来。
 abattoir standards = 屠宰场规范
-③ He worked in an abattoir.
-= 他在屠宰场干过活。
+③ He worked in an abattoir for two years and has not eaten meat since.
+= 他在屠宰场干过两年，此后再没吃过肉。
 注意发音：/ˈæbətwɑː(r)/
 注意英美差别：
 abattoir = 屠宰场（英式）
@@ -164,12 +164,12 @@ slaughterhouse = 屠宰场（美式）
 abaya
 核心：指阿拉伯地区女性穿的宽松长袍，通常为黑色，
 罩在外衣之外。
-① She wore a black abaya.
-= 她穿着黑色长袍。
-② Abayas are common in the Gulf.
-= 长袍在海湾地区很常见。
-③ The abaya covers the whole body.
-= 那种长袍遮住全身。
+① She wore a black abaya over jeans and nobody could tell either way.
+= 她在牛仔裤外面罩了件黑色长袍，谁也看不出来。
+② Abayas are common in the Gulf and come in far more cuts than outsiders expect.
+= 长袍在海湾地区很常见，样式比外人以为的多得多。
+③ The abaya covers the whole body and is worn open at the front by some.
+= 那种长袍遮住全身，有人穿的时候前襟是敞着的。
 注意发音：/əˈbaɪə/
 同类服饰：
 hijab = 头巾
@@ -182,12 +182,12 @@ abbess
 abbey 是那座院子，abbot 是男院长，abbess 是女院长。
 -ess 是英语里表示女性的老词尾，今天多数职业词已经不用它了，
 宗教头衔是少数保留下来的场合。
-① The abbess ran the convent.
-= 那位女院长管理着修道院。
-② She was elected abbess.
-= 她被选为女院长。
-③ The abbess received them.
-= 女院长接见了他们。
+① The abbess ran the convent and kept the accounts in her own hand.
+= 那位女院长管理着修道院，账目都是她亲手记的。
+② She was elected abbess at thirty-one and held the post for forty years.
+= 她三十一岁被选为女院长，这个位子坐了四十年。
+③ The abbess received them in a room with one chair and two benches.
+= 女院长在一间只有一把椅子和两条长凳的屋里接见了他们。
 配对词：
 abbot = 男修道院院长
 abbess = 女修道院院长
@@ -198,12 +198,12 @@ abbey
 核心：指修道院，也指由修道院改建的大教堂。Westminster Abbey
 就是后一种。和 monastery、convent 的区别在于 abbey 由 abbot 或
 abbess 主持，规模更大。
-① They visited Westminster Abbey.
-= 他们参观了威斯敏斯特教堂。
-② The abbey was built in 1150.
-= 那座修道院建于一一五〇年。
-③ Monks lived in the abbey.
-= 僧侣住在修道院里。
+① They visited Westminster Abbey and queued for an hour in the rain.
+= 他们参观了威斯敏斯特教堂，冒雨排了一小时队。
+② The abbey was built in 1150 and lost its roof four centuries later.
+= 那座修道院建于一一五〇年，四百年后屋顶塌了。
+③ Monks lived in the abbey and farmed the whole valley around it.
+= 僧侣住在修道院里，耕种着周围整条山谷。
 词族：
 abbot = 男修道院院长
 abbess = 女修道院院长
@@ -215,12 +215,12 @@ convent 女修道院
 abbot
 核心：指男修道院的院长，是修道院的最高负责人。
 和 monk（普通僧侣）区分：abbot 是管事的那位。
-① The abbot led the prayers.
-= 院长主持了祷告。
-② He became abbot in 1520.
-= 他一五二〇年当上院长。
-③ The abbot's word was final.
-= 院长说了算。
+① The abbot led the prayers at four in the morning every day of the year.
+= 一年到头每天凌晨四点，院长都主持祷告。
+② He became abbot in 1520 and rebuilt the kitchen before anything else.
+= 他一五二〇年当上院长，头一件事是重建厨房。
+③ The abbot's word was final on everything except the choice of crops.
+= 除了种什么庄稼，别的事都是院长说了算。
 等级对照：
 abbot = 院长 / prior 副院长 / monk 修士
 词族：
@@ -229,13 +229,13 @@ abbey = 修道院
 abbreviate
 核心：指把词或短语"缩写"成更短的形式。被动式最常用：
 be abbreviated to。注意宾语是文字，不是时间——缩短时间是 shorten。
-① "Doctor" is abbreviated to "Dr".
-= 「Doctor」缩写成「Dr」。
+① Doctor is abbreviated to two letters and takes a full stop in some styles.
+= 「Doctor」缩写成两个字母，有的体例后面还要加句点。
 be abbreviated to = 缩写为
-② The title was abbreviated.
-= 那个标题被缩短了。
-③ Please don't abbreviate names.
-= 请不要缩写姓名。
+② The title was abbreviated to fit a column two inches wide.
+= 那个标题被缩短了，好塞进两英寸宽的栏里。
+③ Please don't abbreviate names on the form; the system rejects the entry.
+= 表上请不要缩写姓名，系统会退回那条记录。
 词族：
 abbreviation = 缩写形式
 注意区别：
@@ -246,13 +246,13 @@ abbreviation
 核心：指缩写形式本身。介词用 for 或 of。和 acronym（首字母缩略词，
 可以拼读成一个词，如 NATO）、initialism（逐字母念，如 BBC）
 是不同层级的概念。
-① "UK" is an abbreviation for "United Kingdom".
-= 「UK」是「United Kingdom」的缩写。
+① UK is an abbreviation for a name that hardly anybody writes out in full.
+= 「UK」是一个名称的缩写，几乎没人把全称写出来。
 an abbreviation for / of = …的缩写
-② The text is full of abbreviations.
-= 那篇文字里全是缩写。
-③ Write out the abbreviation in full.
-= 把缩写写成全称。
+② The text is full of abbreviations and the key is on the last page.
+= 那篇文字里全是缩写，对照表在最后一页。
+③ Write out the abbreviation in full the first time and shorten it after that.
+= 头一次出现时把缩写写成全称，之后再用简写。
 in full = 完整地
 近义对照：
 abbreviation 缩写（总称）
@@ -262,13 +262,13 @@ initialism 逐字母念的（BBC）
 abdicate
 核心：本义是君主"退位"，引申义是"放弃（责任、权力）"。
 第二条搭配固定：abdicate responsibility。
-① The king abdicated in 1936.
-= 那位国王一九三六年退位。
-② She abdicated her responsibility.
-= 她放弃了自己的责任。
+① The king abdicated in 1936 and left the country within twenty-four hours.
+= 那位国王一九三六年退位，二十四小时内离开了国家。
+② She abdicated her responsibility to a committee that met twice a year.
+= 她把自己的责任推给了一个一年开两次会的委员会。
 abdicate responsibility = 推卸责任
-③ He refused to abdicate.
-= 他拒绝退位。
+③ He refused to abdicate and the crisis ran on for another eight months.
+= 他拒绝退位，危机又拖了八个月。
 词族：
 abdication = 退位、放弃
 注意：abdicate 说责任时是贬义，
@@ -277,13 +277,13 @@ abdication = 退位、放弃
 abdication
 核心：对应动词的两条线：君主"退位"和责任的"放弃"。
 不可数为主。历史上最著名的是 the abdication of Edward VIII。
-① The abdication shocked the nation.
-= 那次退位震动了全国。
-② It was an abdication of duty.
-= 那是失职。
+① The abdication shocked the nation and filled the papers for a fortnight.
+= 那次退位震动全国，报纸登了两周。
+② It was an abdication of duty dressed up as respect for the process.
+= 那是失职，还打着尊重程序的幌子。
 an abdication of duty = 失职
-③ The abdication crisis lasted weeks.
-= 退位危机持续了数周。
+③ The abdication crisis lasted weeks and ended in a broadcast at ten at night.
+= 退位危机持续了数周，以晚上十点的一次广播收场。
 abdication crisis = 退位危机
 词族：
 abdicate = 退位
@@ -291,13 +291,13 @@ abdicate = 退位
 abdomen
 核心：解剖学上指腹部，比日常的 stomach 或 belly 正式，多用于医学
 文本。昆虫身体的第三节也叫 abdomen。
-① He felt pain in his abdomen.
-= 他腹部疼痛。
-② The wound was in the lower abdomen.
-= 伤口在下腹部。
+① He felt pain in his abdomen for three days before he telephoned anyone.
+= 他腹部疼了三天才给人打电话。
+② The wound was in the lower abdomen and missed everything that mattered.
+= 伤口在下腹部，要紧的地方一处没伤到。
 lower abdomen = 下腹部
-③ An insect's abdomen has segments.
-= 昆虫的腹部分节。
+③ An insect's abdomen has segments that expand as it fills with eggs.
+= 昆虫的腹部分节，产卵期会随之胀开。
 词族：
 abdominal = 腹部的
 近义对照：
