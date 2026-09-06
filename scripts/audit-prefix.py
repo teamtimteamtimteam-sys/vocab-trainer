@@ -27,10 +27,19 @@ EXPECT = {
     #                        按收词边界「全大写缩写不收」剔除后即空
     #   bw               —— 清单里只有 bwana 一条，东非英语，按国别变体通则剔除
     'b': ['ba','bc','be','bh','bi','bl','bn','bo','bp','br','bu','by'],
-    # c 的 10 个空段已逐条核对过（2026-09-04），对着 reference 的词头清单查的：
-    #   cb cd cg cj ck cn cq cs cv cx —— 清单里 0 条，不是漏收
-    # 清单里确实有词的 16 个前缀列在下面（coverage.py c 的分段报告与此一致）
-    'c': ['ca','cc','ce','cf','ch','ci','cl','cm','co','cp','cr','ct','cu','cw','cy','cz'],
+    # c 的空段已逐条核对过（2026-09-04 一轮，2026-09-06 补一条），
+    # 对着 reference 的词头清单查的：
+    #   cb cd cg cj ck cn cq cv cx —— 清单里 0 条，不是漏收
+    #   cp                        —— 清单里 8 条，但全是缩写：cp.（已进 exclude）
+    #                                与 CPA CPE CPI Cpl CPP CPR CPU，按收词边界
+    #                                「全大写缩写不收」剔除后即空，同 b 段的
+    #                                bb bf bm bq bs bt。**这一条原来错列在下面，
+    #                                害得 audit-prefix c 从 c 段收完起就一直报红。**
+    #                                核对办法记在这儿免得再错：词头在 CSV 的
+    #                                第二列，不是第一列（第一列是序号），
+    #                                查的时候别 grep 错列。
+    # 清单里确实有可收词的 15 个前缀列在下面
+    'c': ['ca','cc','ce','cf','ch','ci','cl','cm','co','cr','ct','cu','cw','cy','cz'],
 }
 
 KEY = sort_key   # 共用排序键，见 scripts/wordkey.py
