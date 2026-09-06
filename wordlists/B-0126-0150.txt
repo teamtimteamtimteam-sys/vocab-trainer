@@ -87,25 +87,25 @@ abstractedly = 心不在焉地
 abstraction
 核心：三条线：抽象这个过程、抽象的"概念"本身、以及人的"出神"。
 学术写作里第一二条常见，第三条偏文学。
-① It's a useful abstraction.
-= 那是个有用的抽象概念。
+① Treating the whole network as one pipe is a useful abstraction when you need rough numbers.
+= 只需要粗略数字时，把整个网络当成一根管子是个有用的抽象。
 a useful abstraction = 有用的抽象
-② Justice is an abstraction.
-= 正义是个抽象概念。
-③ He stared in abstraction.
-= 他出神地盯着。
+② Justice is an abstraction until somebody has to decide what it means in one particular case.
+= 正义只是个抽象的东西，直到有人得在某个具体案子里决定它到底指什么。
+③ He stared in abstraction at a page he had not turned for ten minutes.
+= 他出神地盯着一页纸，十分钟没翻过去。
 in abstraction = 心不在焉地
-④ Abstraction hides complexity.
-= 抽象把复杂性藏了起来。
+④ Abstraction hides complexity, which is helpful until something underneath it breaks.
+= 抽象把复杂性藏了起来，这很有用，直到底下有东西坏掉。
 词族：
 abstract = 抽象的
 反义词：
 concrete = 具体的
-⑤ Abstractionism rejects representation.
-= 抽象主义摒弃具象再现。
+⑤ Abstractionism rejects representation and asks the viewer to look at colour alone.
+= 抽象主义摒弃具象再现，要观者只看颜色。
 abstractionism = 抽象主义
-⑥ She is a leading abstractionist.
-= 她是抽象派的代表人物。
+⑥ She is a leading abstractionist whose early work nobody would now recognize.
+= 她是抽象派的代表人物，早期作品如今没人认得出。
 abstractionist = 抽象派艺术家
 
 abstruse
