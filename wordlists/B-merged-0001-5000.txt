@@ -3508,10 +3508,10 @@ accomplishment = 成就
 accomplishment
 核心：两条线：具体的"成就"（可数），和"完成"这个行为（不可数）。
 和 achievement 基本同义，accomplishment 更强调"靠本事做成"。
-① It was a great accomplishment for a team that had never worked together.
-= 对一个从没合作过的团队来说，那是项了不起的成就。
-② Her accomplishments are many and she lists none of them on paper.
-= 她成就很多，纸面上一样都不列。
+① Reading the whole thing in the original was an accomplishment he mentioned once and never again.
+= 通读原文那件事是他做成的，他只提过一次，此后再没说起。
+② Her accomplishments are largely practical: she can rewire a house and set a bone.
+= 她的本事多半是实用的：能给房子重新布线，也能给骨头复位。
 ③ The accomplishment of the task took a year and two changes of leadership.
 = 完成那项任务花了一年，还换了两次负责人。
 the accomplishment of = …的完成
