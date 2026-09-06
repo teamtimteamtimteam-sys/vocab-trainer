@@ -222,14 +222,14 @@ arboreal
 核心：形容词，指"树栖的、树木的"。说动物时指一辈子基本在树上过，
 在树间攀爬跳跃；说环境时指跟树木有关的。树懒、猴子、树蛙
 都是典型的树栖动物。
-① Sloths are strictly arboreal.
-= 树懒完全在树上生活。
+① Sloths are strictly arboreal and come down to the ground about once a week.
+= 树懒完全在树上生活，大约一周才下地一次。
 strictly arboreal = 完全树栖的
-② Arboreal species need canopy corridors.
-= 树栖物种需要树冠廊道。
+② Arboreal species need canopy corridors, because a gap of ten metres may as well be a river.
+= 树栖物种需要树冠廊道，因为十米的空档对它们无异于一条河。
 arboreal species = 树栖物种
-③ The park has a rich arboreal cover.
-= 那个公园树木覆盖很好。
+③ The park has a rich arboreal cover that keeps the streets below it several degrees cooler.
+= 那个公园树木覆盖很好，底下的街道要凉上好几度。
 注意语域：
 生态学与动物学术语。
 栖境对照：
@@ -240,12 +240,12 @@ aquatic = 水栖的
 arboretum
 核心：种着各色树木供人观赏和研究的"树木园"，本质上是一座
 专收树的植物园，每株都挂牌标名。复数是 arboreta 或 arboretums。
-① The arboretum holds three hundred species.
-= 那座树木园收了三百个树种。
-② They walked through the arboretum in autumn.
-= 他们秋天在树木园里走了一圈。
-③ Each tree in the arboretum is labelled.
-= 树木园里每棵树都挂了牌。
+① The arboretum holds three hundred species, half of which will not survive the next drought.
+= 那座树木园收了三百个树种，其中一半熬不过下一次干旱。
+② They walked through the arboretum in autumn, when the labels matter least.
+= 他们秋天在树木园里走了一圈，那时候标牌最不重要。
+③ Each tree in the arboretum is labelled with its species, its origin and the year it went in.
+= 树木园里每棵树都挂了牌，标着树种、产地和栽下的年份。
 注意用法：
 复数把词尾改成 arboreta，也可直接加 s。
 近义对照：
@@ -291,13 +291,13 @@ arbour
 核心：园子里用藤蔓遮盖的"凉亭、绿廊"——搭个木架或铁架，让攀援
 植物爬满，底下留出坐处。美式拼 arbor。注意跟另一个 arbor
 （机床上的心轴）拼法相同、来源不同。
-① They sat in the rose arbour.
-= 他们坐在蔷薇凉亭里。
+① They sat in the rose arbour until the scent got too much for the youngest of them.
+= 他们坐在蔷薇凉亭里，直到最小的那个受不了那股香味。
 rose arbour = 蔷薇凉亭
-② An arbour shades the path.
-= 一道绿廊给小路遮阴。
-③ Climbers cover the arbour by June.
-= 到六月藤蔓就爬满了凉亭。
+② An arbour shades the path from the gate to the door and drips for an hour after rain.
+= 一道绿廊从大门一直遮到房门，雨后还要滴上一个钟头。
+③ Climbers cover the arbour by June and have to be cut back twice before autumn.
+= 到六月藤蔓就爬满凉亭，入秋前得修剪两次。
 注意拼写：
 arbour = 藤架凉亭（英式）
 arbor = 藤架凉亭（美式）
@@ -305,12 +305,12 @@ arbor = 藤架凉亭（美式）
 arbutus
 核心：一类常绿灌木或小乔木，开一串串白色小坛状花，结的红果表面
 带疣粒，样子像草莓，所以俗名叫 strawberry tree。地中海一带最常见。
-① An arbutus grows by the wall.
-= 墙边长着一棵草莓树。
-② Arbutus berries look like small strawberries.
-= 草莓树的果子像小草莓。
-③ The arbutus flowers and fruits at once.
-= 草莓树开花结果同时进行。
+① An arbutus grows by the wall and keeps its leaves through the worst of the winter.
+= 墙边长着一棵草莓树，最冷的冬天它也不落叶。
+② Arbutus berries look like small strawberries and taste of almost nothing.
+= 草莓树的果子像小草莓，吃起来却几乎没味道。
+③ The arbutus flowers and fruits at once, so this year's blossom hangs beside last year's fruit.
+= 草莓树花果同期，今年的花就挨着去年的果。
 flower and fruit at once = 花果同期
 注意语域：
 植物学与园艺名称。
@@ -342,13 +342,13 @@ arc lamp = 弧光灯
 arcade
 核心：三条线：有拱廊的"廊街"、有顶的"商业街"、
 以及放街机的"游戏厅"。
-① They walked through the arcade.
-= 他们穿过了那条拱廊。
-② The shopping arcade is covered.
-= 那条商业街有顶棚。
+① They walked through the arcade to keep out of the rain and came out two streets away.
+= 他们穿过拱廊躲雨，出来时已在两条街之外。
+② The shopping arcade is covered, which is most of why it survived the out-of-town centre.
+= 那条商业街有顶棚，它能挺过城外购物中心的冲击，大半靠这一点。
 shopping arcade = 有顶商业街
-③ He played at the arcade.
-= 他在游戏厅玩。
+③ He played at the arcade every Saturday until the machines were sold off.
+= 他每个周六都去游戏厅玩，直到那些机器被卖掉。
 arcade game = 街机游戏
 词族：
 arch = 拱
@@ -358,13 +358,13 @@ Arcadian
 核心：底层是希腊那个多山的牧区地名。文学传统把那里想象成牧人
 吹笛、与世无争的乐土，于是这个词就指"田园牧歌式的"——恬静、
 淳朴、不受城市和现代生活侵扰。也作名词指那里的人。
-① The poem paints an Arcadian landscape.
-= 那首诗描绘出一派田园景象。
+① The poem paints an Arcadian landscape that never existed anywhere but in poems.
+= 那首诗描绘出一派田园景象，而那种景象只存在于诗里。
 an Arcadian landscape = 田园牧歌式的景致
-② They dreamed of an Arcadian retreat.
-= 他们向往一处世外桃源。
-③ Arcadian imagery fills Renaissance painting.
-= 文艺复兴绘画里满是田园意象。
+② They dreamed of an Arcadian retreat and lasted eleven months in an actual village.
+= 他们向往一处世外桃源，真住进村子却只撑了十一个月。
+③ Arcadian imagery fills Renaissance painting, usually commissioned by men who lived in cities.
+= 文艺复兴绘画里满是田园意象，订画的多半是住在城里的人。
 Arcadian imagery = 田园意象
 注意语域：
 文学与艺术史用语，带理想化色彩。
@@ -377,13 +377,13 @@ arcana
 核心：指"奥秘、深奥难懂的知识"——只有内行才通的那一套。多用复数，
 单数是 arcanum。塔罗牌把牌分成 major arcana（大阿卡纳）
 和 minor arcana（小阿卡纳），也是这个词。
-① He mastered the arcana of tax law.
-= 他把税法那套门道摸透了。
+① He mastered the arcana of tax law and could not explain any of it to his own family.
+= 他把税法那套门道摸透了，却对自己家里人一句也解释不清。
 the arcana of = …的深奥门道
-② The arcana of the trade take years to learn.
-= 那一行的门道要学好些年。
-③ The major arcana has twenty-two cards.
-= 大阿卡纳有二十二张牌。
+② The arcana of the trade take years to learn and about a week to forget.
+= 那一行的门道要学好些年，忘掉大约只要一周。
+③ The major arcana has twenty-two cards, each with a name before it has a meaning.
+= 大阿卡纳有二十二张牌，每张先有名字，然后才有含义。
 major arcana = 大阿卡纳（塔罗的主牌）
 注意用法：
 多用复数，单数形式很少见。
@@ -393,13 +393,13 @@ major arcana = 大阿卡纳（塔罗的主牌）
 arcane
 核心：指知识"深奥难懂、只有内行才明白的"，
 常带一点"故弄玄虚"的意味。
-① The rules are arcane.
-= 那些规则晦涩难懂。
-② He knows arcane details.
-= 他知道些冷门细节。
+① The rules are arcane enough that the people who wrote them consult a summary.
+= 那些规则晦涩到写它们的人自己也要查摘要。
+② He knows arcane details about the timetable that have never once been useful.
+= 他知道些关于时刻表的冷门细节，一次也没派上过用场。
 arcane detail = 深奥的细节
-③ It's arcane knowledge.
-= 那是门外汉搞不懂的学问。
+③ It's arcane knowledge, passed on by people who enjoy being the only ones who have it.
+= 那是门外汉搞不懂的学问，传授它的人享受的正是只有自己懂。
 arcane knowledge = 秘传知识
 近义对照：
 arcane = 深奥神秘（内行才懂）
