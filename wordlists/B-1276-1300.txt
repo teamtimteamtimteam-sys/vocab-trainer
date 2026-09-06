@@ -412,19 +412,19 @@ apposition
 核心：底层是"并排摆在一起"。语法上指"同位语"——两个成分挨着放、
 指的是同一个东西，后一个给前一个作补充说明。形容词 appositional。
 同源的 apposite 是另一路意思：指话说得"贴切、正合适"。
-① "My brother, a doctor" is in apposition.
-= 那个结构里后半是同位语。
+① "My brother, a doctor" is in apposition and needs only a comma.
+= 那个结构里后半是同位语，只用一个逗号就够。
 in apposition = 处于同位关系
-② Apposition needs no conjunction.
-= 同位语之间不用连词。
-③ The clause has an appositional function.
-= 那个从句起同位说明的作用。
+② Apposition needs no conjunction, which is why the comma does all the work.
+= 同位语之间不用连词，全靠那个逗号撑着。
+③ The clause has an appositional function and could be lifted out entirely.
+= 那个从句起同位说明的作用，整个拿掉也行。
 appositional = 同位的
-④ She made an apposite remark.
-= 她说了句很贴切的话。
+④ She made an apposite remark that ended the argument in one sentence.
+= 她说了句很贴切的话，一句就把争论结束了。
 apposite = 贴切的、恰当的
-⑤ The quotation is apposite to the argument.
-= 那句引文正好切合论点。
+⑤ The quotation is apposite to the argument but was cut for length.
+= 那句引文正好切合论点，却因为篇幅被删了。
 apposite to = 切合…
 注意别混：
 apposition = 同位（语法结构）
@@ -453,23 +453,23 @@ review = 复核（定期）
 appraise
 核心：指"评估、鉴定"，尤指估算价值或水平。
 注意别和 apprise（通知）混——两个词只差一个字母。
-① An expert appraised the painting.
-= 专家鉴定了那幅画。
-② She appraised him coolly.
-= 她冷静地打量了他一番。
-③ The scheme was appraised.
-= 那个方案经过了评估。
+① An expert appraised the painting and put it at a tenth of the asking price.
+= 专家鉴定了那幅画，估价只有要价的十分之一。
+② She appraised him coolly and decided he had not read the file.
+= 她冷静地打量了他一番，断定他没读过那份材料。
+③ The scheme was appraised twice and approved on neither occasion.
+= 那个方案评估了两次，两次都没批。
 词族：
 appraisal = 评估
 注意别混：
 appraise = 评估（估值）
 apprise = 通知（apprise someone of）
 praise = 表扬
-④ The appraisee prepared her self-assessment.
-= 受评者准备了自评。
+④ The appraisee prepared her self-assessment on the morning of the meeting.
+= 受评者在开会当天早上才准备自评。
 appraisee = 受考评的人
-⑤ The appraiser valued the house.
-= 估价师给房子估了价。
+⑤ The appraiser valued the house below what the owners had paid for it.
+= 估价师给房子估的价，低于业主当初买下的钱。
 appraiser = 估价师；考评人
 
 appreciable
