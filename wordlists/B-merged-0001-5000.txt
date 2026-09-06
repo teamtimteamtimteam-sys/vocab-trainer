@@ -1820,14 +1820,14 @@ ulcer 溃疡（表面溃烂）
 abscond
 核心：指携款或弃保"潜逃"，法律用语。介词用 with（带走什么）
 或 from（从哪里逃）。
-① He absconded with the funds.
-= 他卷款潜逃了。
+① He absconded with the funds and was traced through a hire car three weeks later.
+= 他卷款潜逃，三周后靠一辆租来的车被查到。
 abscond with = 携…潜逃
-② The prisoner absconded from custody.
-= 那名囚犯脱逃了。
+② The prisoner absconded from custody during a hospital appointment.
+= 那名囚犯在一次就医途中脱逃。
 abscond from = 从…潜逃
-③ Two suspects have absconded.
-= 两名嫌疑人在逃。
+③ Two suspects have absconded and their passports were never handed in.
+= 两名嫌疑人在逃，护照始终没交上来。
 词族：
 absconder = 潜逃者
 近义对照：
@@ -1900,13 +1900,13 @@ in absentia = 缺席地（拉丁语）
 absent-minded
 核心：指人"总是心不在焉、容易忘事"，是性格特征而非一时状态。
 带连字符。常和教授、科学家的刻板印象连用。
-① He is absent-minded.
-= 他老是丢三落四。
-② She has an absent-minded professor's air.
-= 她有种迂夫子的气质。
+① He is absent-minded and has locked himself out four times this year.
+= 他老是丢三落四，今年已经把自己反锁在门外四次。
+② She has an absent-minded professor's air and a memory for every date.
+= 她有种迂夫子的气质，日期却记得一个不差。
 the absent-minded professor = 心不在焉的教授（刻板印象）
-③ Absent-minded mistakes happen.
-= 走神造成的差错难免。
+③ Absent-minded mistakes happen and the checklist exists to catch them.
+= 走神造成的差错难免，核对表就是为了抓住它们。
 词族：
 absent-mindedness = 健忘
 absently = 心不在焉地
@@ -1934,13 +1934,13 @@ absenteeism = 旷工现象
 absenteeism
 核心：指普遍性的"旷工、旷课"现象，不是某一次缺席——这是它和
 absence 的关键差别。管理和教育统计里高频。不可数。
-① Absenteeism is a growing problem.
-= 旷工正成为一个问题。
-② They reduced staff absenteeism.
-= 他们降低了员工缺勤率。
+① Absenteeism is a growing problem in a workforce that has never been asked why.
+= 旷工正成为一个问题，可从没人问过员工是为什么。
+② They reduced staff absenteeism by moving the shift start to eight o'clock.
+= 他们把班次改到八点开始，员工旷工减少了。
 staff absenteeism = 员工旷工
-③ High absenteeism hurts productivity.
-= 高缺勤率损害生产率。
+③ High absenteeism hurts productivity and costs more than the sick pay does.
+= 高缺勤率损害生产率，代价比病假工资还高。
 high absenteeism = 高缺勤率
 注意区别：
 absence = 一次缺席（具体）
@@ -1949,13 +1949,13 @@ absenteeism = 旷工现象（普遍、统计）
 absently
 核心：指"心不在焉地"做某事，多修饰 nod、stare、stir 这类
 不用动脑的小动作。和 absent-minded 同源。
-① He nodded absently.
-= 他心不在焉地点了点头。
+① He nodded absently at a question he had not taken in at all.
+= 他心不在焉地对一个根本没听进去的问题点了点头。
 nod absently = 心不在焉地点头
-② She stirred her tea absently.
-= 她出神地搅着茶。
-③ He stared absently out of the window.
-= 他茫然地望着窗外。
+② She stirred her tea absently until it had gone completely cold.
+= 她出神地搅着茶，一直搅到全凉了。
+③ He stared absently out of the window while the meeting went on without him.
+= 他茫然地望着窗外，会照开不误。
 词族：
 absent-minded = 心不在焉的
 absence = 缺席
@@ -1965,13 +1965,13 @@ absence = 缺席
 absinthe
 核心：一种高酒精度的苦艾酒，因十九世纪的禁令和艺术家传说而出名。
 不可数。也拼作 absinth。
-① Absinthe was banned for decades.
-= 苦艾酒被禁了几十年。
-② He ordered a glass of absinthe.
-= 他要了一杯苦艾酒。
+① Absinthe was banned for decades on evidence that turned out to be worthless.
+= 苦艾酒被禁了几十年，依据的证据后来证明毫无价值。
+② He ordered a glass of absinthe and watched the water turn it cloudy.
+= 他要了一杯苦艾酒，看着水把它冲得浑浊。
 a glass of absinthe = 一杯苦艾酒
-③ Absinthe is made from wormwood.
-= 苦艾酒用苦艾草酿造。
+③ Absinthe is made from wormwood and two or three other bitter herbs.
+= 苦艾酒用苦艾草酿造，还要加两三种别的苦味香草。
 wormwood = 苦艾
 注意发音：/ˈæbsɪnθ/
 注意拼写：absinthe / absinth 都有。
@@ -2060,14 +2060,14 @@ absoluteness = 绝对性
 absolution
 核心：宗教用语，指神职人员对忏悔者的"赦罪"。引申义指"免除责任、
 获得原谅"。不可数。
-① The priest granted absolution.
-= 神父给予了赦罪。
+① The priest granted absolution and set a penance of three prayers.
+= 神父给予了赦罪，定下三段祷文作补赎。
 grant absolution = 赦罪
-② He sought absolution for his past.
-= 他为过去寻求宽恕。
+② He sought absolution for his past and found it nowhere he looked.
+= 他为过去寻求宽恕，找遍了也没找到。
 seek absolution = 寻求赦免
-③ There is no absolution here.
-= 这事上没有免责一说。
+③ There is no absolution here, only a report and a set of recommendations.
+= 这事上没有免责一说，只有一份报告和一串建议。
 词族：
 absolve = 免除、赦免
 absolute = 绝对的
@@ -2079,13 +2079,13 @@ pardon = 赦免（法律）
 absolutism
 核心：两条线：政治上的"专制制度"（君主拥有绝对权力），
 和哲学上的"绝对主义"（认为存在绝对标准）。不可数。
-① Absolutism ended with the revolution.
-= 专制随着革命终结。
-② He rejects moral absolutism.
-= 他反对道德绝对主义。
+① Absolutism ended with the revolution and returned in a different name.
+= 专制随着革命终结，又换了个名目回来了。
+② He rejects moral absolutism and gets accused of having no principles at all.
+= 他反对道德绝对主义，就被说成毫无原则。
 moral absolutism = 道德绝对主义
-③ Royal absolutism was challenged.
-= 王权专制受到挑战。
+③ Royal absolutism was challenged by a parliament that controlled the money.
+= 掌着钱袋子的议会向王权专制发起了挑战。
 royal absolutism = 君主专制
 词族：
 absolutist = 专制主义者
@@ -2096,14 +2096,14 @@ relativism = 相对主义
 absolve
 核心：指"免除（责任、罪责）"，介词用 of 或 from。
 法律和宗教语境都用。常用被动。
-① The report absolved him of blame.
-= 那份报告免除了他的责任。
+① The report absolved him of blame and named two other people instead.
+= 那份报告免除了他的责任，转而点了另外两个人的名。
 absolve someone of = 免除某人的…
-② She was absolved from responsibility.
-= 她被免除了责任。
+② She was absolved from responsibility for a decision taken while she was away.
+= 那个决定是她不在时做的，她被免除了责任。
 absolve from = 免除
-③ The priest absolved the penitent.
-= 神父赦免了忏悔者。
+③ The priest absolved the penitent and never spoke of it to anyone.
+= 神父赦免了忏悔者，此后对谁都没提过。
 词族：
 absolution = 赦免
 近义对照：
@@ -2139,14 +2139,14 @@ absorbance = 吸光度（化学）
 absorbed
 核心：指人"全神贯注的"，介词用 in。注意和 absorbing 分工：
 absorbed 说人，absorbing 说让人入迷的事物。
-① She was absorbed in her work.
-= 她全神贯注地工作。
+① She was absorbed in her work and did not hear the phone go three times.
+= 她全神贯注地工作，电话响了三遍都没听见。
 be absorbed in = 专注于
-② He seemed totally absorbed.
-= 他好像完全入了神。
+② He seemed totally absorbed and answered questions about half a minute late.
+= 他好像完全入了神，回答问题要慢上半分钟。
 totally absorbed = 全神贯注
-③ Absorbed in thought, he missed the stop.
-= 他想得出神，坐过了站。
+③ Absorbed in thought, he missed the stop and walked back two miles.
+= 他想得出神，坐过了站，走回来两英里。
 词族：
 absorb = 吸收；使专注
 absorbing = 引人入胜的
@@ -2157,14 +2157,14 @@ absorbing = 引人入胜的（说事物）
 absorbent
 核心：指材料"吸水性强的"。厨房纸、尿布、毛巾的产品说明里高频。
 名词义指"吸收剂"。
-① Use absorbent paper.
-= 用吸水纸。
+① Use absorbent paper and press rather than rub, or the stain spreads.
+= 用吸水纸按压，别搓，不然污渍会扩散。
 absorbent paper = 吸水纸
-② The material is highly absorbent.
-= 那种材料吸水性很强。
+② The material is highly absorbent and holds nine times its own weight.
+= 那种材料吸水性很强，能吸住自重九倍的水。
 highly absorbent = 高吸水性的
-③ Absorbent cotton is sterile.
-= 脱脂棉是无菌的。
+③ Absorbent cotton is sterile and comes sealed in single-use packets.
+= 脱脂棉是无菌的，一次性小包密封。
 absorbent cotton = 脱脂棉
 词族：
 absorb = 吸收
@@ -2175,13 +2175,13 @@ water-repellent = 防水的
 absorbing
 核心：指书、电影、工作"引人入胜的"，让人不知不觉投入。
 只说事物，不说人。
-① It's an absorbing novel.
-= 那是本引人入胜的小说。
+① It's an absorbing novel and the first hundred pages give nothing away.
+= 那是本引人入胜的小说，头一百页什么都不透露。
 an absorbing novel = 令人入迷的小说
-② The work is absorbing.
-= 那份工作很吸引人。
-③ She found it deeply absorbing.
-= 她觉得那事极有意思。
+② The work is absorbing enough that he forgets to eat until the light goes.
+= 那份工作吸引人到他天黑前都想不起来吃饭。
+③ She found it deeply absorbing and read the whole thing on one train journey.
+= 她觉得那事极有意思，一趟火车就读完了整本。
 deeply absorbing = 极其引人入胜
 近义对照：
 absorbing = 引人入胜（不知不觉投入）
@@ -2229,14 +2229,14 @@ abstainer = 弃权者；戒酒者
 abstemious
 核心：正式用语，指人在饮食尤其是饮酒上"有节制的"。
 褒义。日常少用，多见于书面人物描写。
-① He leads an abstemious life.
-= 他生活很节制。
+① He leads an abstemious life and keeps one bottle of wine for visitors.
+= 他生活很节制，只留一瓶酒待客。
 an abstemious life = 节制的生活
-② She is abstemious with alcohol.
-= 她饮酒很有节制。
+② She is abstemious with alcohol and orders the same soda water every time.
+= 她饮酒很有节制，每次都点同一种苏打水。
 be abstemious with = 在…上节制
-③ His abstemious habits kept him healthy.
-= 他节制的习惯让他保持健康。
+③ His abstemious habits kept him healthy into his ninety-fourth year.
+= 他节制的习惯让他健康地活到九十四岁。
 词族：
 abstain = 戒除
 abstinence = 节制
@@ -2248,13 +2248,13 @@ temperate = 有节制的（正式）
 abstention
 核心：两条线：投票时的"弃权"（可数，常用复数），
 和"戒除"这个行为（不可数，正式）。前者在议会报道里高频。
-① There were three abstentions.
-= 有三票弃权。
-② The motion passed with five abstentions.
-= 该动议在五票弃权下通过。
+① There were three abstentions and the chair recorded each one by name.
+= 有三票弃权，主席逐一记下了名字。
+② The motion passed with five abstentions and no votes against it at all.
+= 那项动议在五票弃权下通过，一张反对票也没有。
 with abstentions = 在若干弃权票下
-③ Abstention from alcohol is advised.
-= 建议戒酒。
+③ Abstention from the vote was itself read as a message by both sides.
+= 投票中弃权这件事本身，被两边都当成了一种表态。
 abstention from = 戒除
 词族：
 abstain = 弃权；戒除
@@ -2266,14 +2266,14 @@ abstention = 弃权
 abstinence
 核心：指主动"戒除"某种享受，尤其是酒、烟、性。不可数。
 介词用 from。宗教和医学语境都常见。
-① Total abstinence is required.
-= 必须完全戒除。
+① Total abstinence is required for the fortnight before the operation.
+= 手术前两周必须完全戒除。
 total abstinence = 完全戒断
-② Abstinence from alcohol helped.
-= 戒酒起了作用。
+② Abstinence from alcohol helped his sleep long before it helped his liver.
+= 戒酒先帮到的是睡眠，肝脏还在后头。
 abstinence from = 戒除
-③ They teach sexual abstinence.
-= 他们提倡禁欲。
+③ They teach sexual abstinence and the outcomes have been studied for years.
+= 他们提倡禁欲，效果已经研究了多年。
 sexual abstinence = 禁欲
 词族：
 abstain = 戒除
@@ -2285,13 +2285,13 @@ moderation = 适度节制
 abstinent
 核心：形容人"正在戒除某物的"，医学和成瘾治疗语境里常用。
 比 abstemious 更强调"完全不碰"。
-① He has been abstinent for a year.
-= 他已经戒了一年。
+① He has been abstinent for a year and counts the days without meaning to.
+= 他已经戒了一年，不由自主地数着日子。
 be abstinent = 处于戒断状态
-② Abstinent patients recover faster.
-= 完全戒断的病人恢复更快。
-③ She remained abstinent throughout.
-= 她全程滴酒未沾。
+② Abstinent patients recover faster, though the pattern is not the same for everyone.
+= 完全戒断的病人恢复更快，不过并非人人如此。
+③ She remained abstinent throughout a job that involved four dinners a week.
+= 那份工作一周要吃四顿应酬饭，她全程滴酒未沾。
 remain abstinent = 保持戒断
 词族：
 abstinence = 戒除
@@ -2395,13 +2395,13 @@ abstractionist = 抽象派艺术家
 abstruse
 核心：指学说、文章"深奥难懂的"，常带批评意味——暗示"本来可以
 说得更明白"。正式用语。
-① The theory is abstruse.
-= 那个理论晦涩难懂。
-② He writes in an abstruse style.
-= 他文风艰涩。
+① The theory is abstruse and its author could not explain it on the radio.
+= 那个理论晦涩难懂，作者在电台上都讲不清楚。
+② He writes in an abstruse style that hides a fairly simple point.
+= 他文风艰涩，底下藏的道理其实相当简单。
 an abstruse style = 艰深的文风
-③ Abstruse arguments lose readers.
-= 晦涩的论证会失去读者。
+③ Abstruse arguments lose readers somewhere around the second paragraph.
+= 晦涩的论证大约到第二段就把读者丢了。
 abstruse arguments = 深奥的论证
 近义对照：
 abstruse = 深奥难懂（常含批评）
@@ -2434,13 +2434,13 @@ absurdist = 荒诞派的（作家）
 absurdity
 核心：指"荒谬"这个性质（不可数）或某件"荒唐事"（可数）。
 常见搭配 the absurdity of。
-① He pointed out the absurdity of it.
-= 他指出了那事的荒唐。
+① He pointed out the absurdity of it and was thanked by nobody in the room.
+= 他指出了那事的荒唐，屋里没一个人谢他。
 the absurdity of = …的荒谬
-② Life is full of absurdities.
-= 人生充满荒诞。
-③ The absurdity was obvious.
-= 荒谬显而易见。
+② Life is full of absurdities and most of them arrive by post.
+= 人生充满荒诞，多数是邮寄来的。
+③ The absurdity was obvious to everyone except the people who had signed it off.
+= 那荒谬显而易见，只有签字批准的人看不出来。
 注意复数：
 absurdity → absurdities
 词族：
@@ -2450,13 +2450,13 @@ absurdly = 荒唐地
 absurdly
 核心：两个用法：一是"荒唐地"，二是纯粹加强语气的"极其"
 （absurdly cheap 就是"便宜得离谱"，不含贬义）。
-① He behaved absurdly.
-= 他举止荒唐。
-② The price was absurdly low.
-= 价格低得离谱。
+① He behaved absurdly at the hearing and made his own case a great deal worse.
+= 他在听证会上举止荒唐，把自己的处境弄得糟糕得多。
+② The price was absurdly low and three people asked what was wrong with it.
+= 价格低得离谱，三个人问过它是不是有毛病。
 absurdly low = 低得不合常理
-③ It's absurdly simple.
-= 那简单得出奇。
+③ It's absurdly simple once somebody shows you which way the panel comes off.
+= 只要有人告诉你那块板往哪个方向卸，就简单得出奇。
 absurdly simple = 简单得离谱
 词族：
 absurd = 荒谬的
@@ -2467,14 +2467,14 @@ absurdly 常只是加强语气。
 abundance
 核心：指"大量、丰富"，正面词。核心搭配是 an abundance of 和
 in abundance。不可数。
-① There is an abundance of food.
-= 食物很充足。
+① There is an abundance of food and nowhere near enough people to eat it.
+= 食物很充足，吃的人却远远不够。
 an abundance of = 大量的
-② Wildlife exists here in abundance.
-= 这里野生动物很多。
+② Wildlife exists here in abundance because nobody has farmed the valley since 1950.
+= 这条山谷一九五零年起就没人耕种，野生动物才这么多。
 in abundance = 大量地
-③ The region has an abundance of water.
-= 那个地区水资源丰富。
+③ The region has an abundance of water and a shortage of everything else.
+= 那个地区水资源丰富，别的什么都缺。
 词族：
 abundant = 丰富的
 abundantly = 大量地
@@ -2514,14 +2514,14 @@ in abundance = 大量地（后置）
 abundantly
 核心：两个用法：一是"大量地"，二是加强语气，
 最高频的是 abundantly clear（再清楚不过）。
-① It grows abundantly here.
-= 它在这里长得很茂盛。
+① It grows abundantly here and is treated as a weed two counties away.
+= 它在这里长得很茂盛，隔两个郡就被当杂草了。
 grow abundantly = 大量生长
-② He made it abundantly clear.
-= 他表达得再清楚不过。
+② He made it abundantly clear that he would not be attending either meeting.
+= 他表达得再清楚不过：两个会他都不出席。
 abundantly clear = 极其明确
-③ Evidence is abundantly available.
-= 证据大量存在。
+③ Evidence is abundantly available and has been in the public record since 1998.
+= 证据大量存在，一九九八年起就在公开记录里。
 词族：
 abundant = 丰富的
 abundance = 丰富
@@ -2607,13 +2607,13 @@ abutment = 桥台、支墩
 abysmal
 核心：指质量"糟得离谱"，语气很重，常用于评价表现、成绩、天气。
 和 abyss（深渊）同源，但已经完全是"极差"的意思。
-① The service was abysmal.
-= 服务糟透了。
-② They had an abysmal season.
-= 他们那个赛季一塌糊涂。
+① The service was abysmal and the bill arrived with a discretionary tip on it.
+= 服务糟透了，账单上还自带一笔「随意」的小费。
+② They had an abysmal season and finished nine points from safety.
+= 他们那个赛季一塌糊涂，离保级差了九分。
 an abysmal season = 惨淡的赛季
-③ His grades are abysmal.
-= 他成绩差得没法看。
+③ His grades are abysmal in every subject except the one he teaches himself.
+= 除了自学的那门，他每科成绩都差得没法看。
 词族：
 abyss = 深渊
 abysmally = 糟糕透顶地
@@ -2625,14 +2625,14 @@ terrible = 很糟（通用）
 abysmally
 核心：abysmal 的副词，"糟糕透顶地"。最常见的搭配是
 fail abysmally 和 perform abysmally。
-① The plan failed abysmally.
-= 那个计划惨败。
+① The plan failed abysmally and cost four times what doing nothing would have.
+= 那个计划惨败，花的钱是什么都不做的四倍。
 fail abysmally = 一败涂地
-② The team performed abysmally.
-= 那支队伍表现糟透了。
+② The team performed abysmally in front of the largest crowd of the year.
+= 在全年最多的观众面前，那支队伍表现糟透了。
 perform abysmally = 表现极差
-③ He did abysmally in the exam.
-= 他考得一塌糊涂。
+③ He did abysmally in the exam and rather well in the interview afterwards.
+= 他考得一塌糊涂，之后的面试倒是不错。
 词族：
 abysmal = 极差的
 abyss = 深渊
@@ -2662,13 +2662,13 @@ abyssal = 深渊的、深海的
 acacia
 核心：指金合欢属的树木，常见于非洲和澳洲。也叫 wattle（澳洲说法）。
 注意发音，中间的 c 读 /ʃ/。
-① Acacia trees dot the savanna.
-= 金合欢树散布在草原上。
+① Acacia trees dot the savanna and cast the only shade for miles.
+= 金合欢树散布在草原上，方圆数英里只有它们投下阴凉。
 acacia tree = 金合欢树
-② Giraffes feed on acacia.
-= 长颈鹿吃金合欢树叶。
-③ The gum comes from acacia.
-= 那种胶来自金合欢。
+② Giraffes feed on acacia and work round the thorns with their tongues.
+= 长颈鹿吃金合欢树叶，用舌头绕开那些刺。
+③ The gum comes from acacia and thickens everything from sweets to ink.
+= 那种胶来自金合欢，从糖果到墨水都靠它增稠。
 acacia gum = 阿拉伯胶
 注意发音：/əˈkeɪʃə/
 澳洲别名：
@@ -2677,13 +2677,13 @@ wattle = 金合欢（澳洲通称）
 academia
 核心：指学术界这个圈子——高校、研究机构和其中的人。不可数。
 常和 industry（业界）对举。
-① She left academia for industry.
-= 她离开学术界去了产业界。
+① She left academia for industry and doubled her salary in a fortnight.
+= 她离开学术界去了产业界，两周内薪水翻了一倍。
 leave academia = 离开学界
-② Academia rewards publication.
-= 学术界看重发表。
-③ He spent his life in academia.
-= 他一生都在学界。
+② Academia rewards publication above almost everything else it claims to value.
+= 学术界口头上看重的东西不少，实际奖赏的几乎只有发表。
+③ He spent his life in academia and supervised eighty-one doctoral students.
+= 他一生都在学界，带过八十一名博士生。
 in academia = 在学术界
 词族：
 academic = 学术的；学者
@@ -2714,13 +2714,13 @@ academicism = 学院派作风
 academically
 核心：academic 的副词，两个方向：一是"在学业上"，
 二是"从纯理论角度（不管实际）"。第二条常带保留意味。
-① She performs well academically.
-= 她学业表现好。
+① She performs well academically and has never once enjoyed a lesson.
+= 她学业表现好，却从没喜欢过任何一堂课。
 perform well academically = 学业出色
-② The point is academically interesting.
-= 那一点在理论上很有意思。
-③ Academically, the school ranks high.
-= 在学业上那所学校排名靠前。
+② The point is academically interesting and of no use to anyone on the ground.
+= 那一点在理论上很有意思，对实地做事的人毫无用处。
+③ Academically, the school ranks high and the sports fields have been sold.
+= 在学业上那所学校排名靠前，运动场却卖掉了。
 词族：
 academic = 学术的
 academia = 学术界
@@ -2730,13 +2730,13 @@ academia = 学术界
 academician
 核心：指某个国家级学会的"院士"，是荣誉头衔。
 注意它不等于 academic（泛指高校教研人员）。
-① He was elected an academician.
-= 他当选为院士。
+① He was elected an academician at forty and made almost nothing of it.
+= 他四十岁当选院士，之后几乎没拿这头衔做过什么。
 be elected an academician = 当选院士
-② Academicians advise the government.
-= 院士为政府提供咨询。
-③ She is a Royal Academician.
-= 她是英国皇家美术院院士。
+② Academicians advise the government and are rarely thanked in public.
+= 院士为政府提供咨询，很少在公开场合得到致谢。
+③ She is a Royal Academician and still shares a studio with two others.
+= 她是皇家美术院院士，至今和另外两人合用一间画室。
 Royal Academician = 皇家学院院士
 注意区别：
 academician = 院士（荣誉头衔）
@@ -2792,14 +2792,14 @@ chia seed = 奇亚籽
 accede
 核心：三条线，都很正式：同意某项要求（accede to）、
 就任某个职位或王位、以及加入某个国际条约或组织。
-① He acceded to their demands.
-= 他答应了他们的要求。
+① He acceded to their demands on the Friday and regretted it by the Monday.
+= 他周五答应了他们的要求，到周一就后悔了。
 accede to demands = 应允要求
-② She acceded to the throne in 1952.
-= 她一九五二年即位。
+② She acceded to the throne at twenty-five and was crowned sixteen months later.
+= 她二十五岁即位，十六个月后才举行加冕。
 accede to the throne = 继位
-③ The country acceded to the treaty.
-= 那个国家加入了该条约。
+③ The country acceded to the treaty and filed four reservations at the same time.
+= 那个国家加入了该条约，同时提出四项保留。
 accede to a treaty = 加入条约
 词族：
 accession = 就任；加入
@@ -2837,13 +2837,13 @@ decelerate = 减速
 acceleration
 核心：两条线：物理上的"加速度"，和抽象的"加快"。
 汽车评测里的 0-60 acceleration 是高频说法。
-① The car has good acceleration.
-= 那辆车加速性能好。
+① The car has good acceleration and brakes that were clearly designed for a lighter one.
+= 那辆车加速性能好，刹车却明显是给更轻的车设计的。
 good acceleration = 加速性能好
-② Acceleration equals force over mass.
-= 加速度等于力除以质量。
-③ There was an acceleration in growth.
-= 增长加快了。
+② Acceleration equals force over mass, which is why the same engine feels different.
+= 加速度等于力除以质量，所以同一台发动机开起来会不一样。
+③ There was an acceleration in growth that nobody had forecast or explained.
+= 增长加快了，谁也没预测到，也没解释清。
 an acceleration in = …的加快
 词族：
 accelerate = 加速
@@ -2874,12 +2874,12 @@ accelerator board = 加速卡（计算机）
 accelerometer
 核心：指加速度计——测量加速度的传感器。
 手机里靠它感知翻转和计步。
-① The phone has an accelerometer.
-= 那台手机装有加速度计。
-② Accelerometers detect motion.
-= 加速度计能探测运动。
-③ Data came from the accelerometer.
-= 数据来自加速度计。
+① The phone has an accelerometer and knows which way up it is being held.
+= 那台手机装有加速度计，知道自己是怎么被拿着的。
+② Accelerometers detect motion and are cheap enough to put in a parcel label.
+= 加速度计能探测运动，便宜到可以贴在包裹标签上。
+③ Data came from the accelerometer rather than from anyone watching the bridge.
+= 数据来自加速度计，不是来自守在桥边的人。
 构词：accelerate + -meter 计量器
 同类传感器：
 gyroscope = 陀螺仪（测角度）
@@ -2910,13 +2910,13 @@ accentuation = 重音法；强调
 accented
 核心：两条线：说话"带某种口音的"，和文字上"带重音符号的"。
 第一条更常用，前面通常加限定词。
-① She spoke heavily accented English.
-= 她说的英语口音很重。
+① She spoke heavily accented English and never once had to repeat herself.
+= 她说的英语口音很重，却一次也没被要求重说。
 heavily accented = 口音很重的
-② The letter is accented.
-= 那个字母带重音符号。
-③ He has a French-accented voice.
-= 他说话带法国口音。
+② The letter is accented and the system drops the mark whenever you save.
+= 那个字母带重音符号，一存盘系统就把符号弄丢。
+③ He has a French-accented voice that people place within about four words.
+= 他说话带法国口音，人们听四个词左右就听出来了。
 French-accented = 带法国口音的
 词族：
 accent = 口音；重音
@@ -2926,14 +2926,14 @@ accent = 口音；重音
 accentuate
 核心：指"使更突出、更明显"，可以是好的（衬托优点）
 也可以是坏的（凸显问题）。比 emphasize 更强调视觉或感官上的凸显。
-① The dress accentuates her figure.
-= 那条裙子衬出了她的身材。
+① The dress accentuates her figure and cost less than the shoes she wore with it.
+= 那条裙子衬出了她的身材，价钱还不如配的那双鞋。
 accentuate a figure = 凸显身材
-② The crisis accentuated the divide.
-= 那场危机加深了分裂。
+② The crisis accentuated the divide between two halves of the same street.
+= 那场危机加深了同一条街两半之间的分裂。
 accentuate a divide = 加剧分歧
-③ Accentuate the positive.
-= 多想想好的一面。
+③ Accentuate the positive, said the poster, above a photograph of an empty factory.
+= 海报上写着「多想想好的一面」，底下是一张空厂房的照片。
 accentuate the positive = 强调积极面
 词族：
 accent = 重音；强调
@@ -2985,13 +2985,13 @@ acceptance = 接受；认可
 acceptability
 核心：指"可接受的程度"，不可数。社会规范、产品标准、
 政治方案的讨论里常用。
-① The plan's acceptability is doubtful.
-= 那个方案能否被接受还难说。
-② Social acceptability has changed.
-= 社会接受度变了。
+① The plan's acceptability is doubtful in every ward except the one that proposed it.
+= 除了提出方案的那个选区，其余各区能否接受都难说。
+② Social acceptability has changed faster than the law has followed it.
+= 社会接受度变得比法律跟上的速度快。
 social acceptability = 社会可接受度
-③ They tested acceptability with users.
-= 他们测试了用户接受度。
+③ They tested acceptability with users and threw out the first two designs.
+= 他们测试了用户接受度，头两版设计都废掉了。
 词族：
 acceptable = 可接受的
 accept = 接受
@@ -3001,13 +3001,13 @@ unacceptability = 不可接受
 acceptable
 核心：两条线：符合标准"过得去的"，和道德社交上"可以接受的"。
 注意它常常只是"及格"，不是"好"——这个分寸和 adequate 类似。
-① The quality is acceptable.
-= 质量还过得去。
-② That behaviour is not acceptable.
-= 那种行为不可接受。
+① The quality is acceptable and nobody has ever praised it beyond that.
+= 质量还过得去，除此之外从没人夸过它。
+② That behaviour is not acceptable in a building shared with forty other people.
+= 在一栋和四十户人共用的楼里，那种行为不可接受。
 socially acceptable = 社会可接受的
-③ It's an acceptable level of risk.
-= 那是可接受的风险水平。
+③ It's an acceptable level of risk for a trip nobody is obliged to take.
+= 对一趟没人非去不可的行程来说，那是可接受的风险水平。
 acceptable level = 可接受水平
 反义词：
 unacceptable = 不可接受的
@@ -3018,14 +3018,14 @@ acceptable 常只是"及格"，
 acceptably
 核心：acceptable 的副词，"可接受地、还算过得去地"。
 常修饰形容词表示"在可容忍范围内"。
-① He performed acceptably.
-= 他表现还过得去。
+① He performed acceptably in a role he had been given nine days to learn.
+= 那个角色只给了他九天准备，他表现还过得去。
 perform acceptably = 表现尚可
-② The risk is acceptably low.
-= 风险低到可以接受。
+② The risk is acceptably low provided the checks are done every morning.
+= 只要每天早上做检查，风险就低到可以接受。
 acceptably low = 低到可接受
-③ It works acceptably well.
-= 它用起来还行。
+③ It works acceptably well until somebody tries to use two of them at once.
+= 用起来还行，除非有人同时开两台。
 词族：
 acceptable = 可接受的
 acceptability = 可接受性
@@ -3053,14 +3053,14 @@ rejection = 拒绝
 accepted
 核心：指某个说法或做法"被普遍认可的"，只作定语时最常见。
 常见搭配 generally accepted、widely accepted。
-① It's an accepted practice.
-= 那是通行的做法。
+① It's an accepted practice in the trade and appears in no written rule anywhere.
+= 那是行内通行的做法，任何成文规定里都找不到。
 accepted practice = 惯常做法
-② That's the generally accepted view.
-= 那是普遍接受的看法。
+② That's the generally accepted view and it has been wrong twice before.
+= 那是普遍接受的看法，此前已经错过两回。
 generally accepted = 公认的
-③ Accepted wisdom says otherwise.
-= 通行的看法与此相反。
+③ Accepted wisdom says otherwise, and accepted wisdom has not read the figures.
+= 通行的看法与此相反，而通行的看法没读过那些数字。
 accepted wisdom = 世俗公论
 词族：accept、acceptance
 注意：accepted wisdom 常带
@@ -3099,14 +3099,14 @@ access time = 存取时间
 accessibility
 核心：三条线，对应 accessible：到得了、用得上、看得懂。
 现在最常用的是无障碍设计和数字可访问性。
-① They improved wheelchair accessibility.
-= 他们改善了轮椅通行条件。
+① They improved wheelchair accessibility and put the ramp round the back.
+= 他们改善了轮椅通行条件，坡道修在了后门。
 wheelchair accessibility = 轮椅无障碍
-② Web accessibility matters.
-= 网页可访问性很重要。
+② Web accessibility matters to far more people than most designers assume.
+= 网页可访问性关系到的人，比多数设计师以为的多得多。
 web accessibility = 网页无障碍
-③ The accessibility of the text is good.
-= 那篇文字很好懂。
+③ The accessibility of the text is good and the diagrams undo most of it.
+= 那篇文字很好懂，配的图却把好懂抵消了大半。
 词族：
 accessible = 可到达的；易懂的
 access = 通道；使用权
@@ -3134,14 +3134,14 @@ accessibility = 无障碍性
 accession
 核心：三条线：登基就任、加入条约或组织、以及图书馆博物馆的
 "新入藏"。都源自"进入某个位置"。
-① Her accession to the throne was in 1952.
-= 她一九五二年登基。
+① Her accession to the throne came while she was abroad and out of contact.
+= 她登基时人在国外，联系不上。
 accession to the throne = 即位
-② The country's accession to the EU took years.
-= 那个国家加入欧盟花了多年。
+② The country's accession to the EU took years and two referendums.
+= 那个国家加入欧盟花了多年，还投了两次公投。
 accession to = 加入
-③ New accessions are catalogued.
-= 新入藏品会编目。
+③ New accessions are catalogued within a month and stored for a decade first.
+= 新入藏品一个月内编目，先入库存放十年。
 accession number = 入藏编号
 词族：
 accede = 就任；加入
@@ -3149,13 +3149,13 @@ accede = 就任；加入
 accessorize
 核心：指给服装"搭配配饰"，时尚语境用语。
 英式也拼 accessorise。及物不及物都可以。
-① She accessorized the outfit with a scarf.
-= 她用围巾搭配了那身衣服。
+① She accessorized the outfit with a scarf her mother had worn to the same church.
+= 她用母亲穿去同一座教堂时戴过的围巾搭配了那身衣服。
 accessorize with = 用…搭配
-② Learn how to accessorize.
-= 学学怎么搭配配饰。
-③ The dress is easy to accessorize.
-= 那条裙子好搭配饰。
+② Learn how to accessorize and you can wear the same three things all year.
+= 学会搭配配饰，同样三件衣服就能穿一整年。
+③ The dress is easy to accessorize and impossible to sit down in.
+= 那条裙子好搭配饰，却根本没法坐下。
 注意英美拼写：
 accessorise = 搭配配饰（英式拼法）
 accessorize = 搭配配饰（美式拼法）
@@ -3208,12 +3208,12 @@ accident-prone = 容易出事故的
 accidental
 核心：指"非故意造成的"，多用于法律和正式场合描述死亡、损坏、
 泄露。副词 accidentally 在日常里比形容词常用得多。
-① The verdict was accidental death.
-= 裁定为意外死亡。
-② There was accidental damage to the goods.
-= 货物有意外损坏。
-③ I accidentally deleted the file.
-= 我不小心删了那个文件。
+① The verdict was accidental death and the family appealed against it twice.
+= 裁定为意外死亡，家属就此上诉了两次。
+② There was accidental damage to the goods and the policy covered none of it.
+= 货物有意外损坏，保单一分都不赔。
+③ The discovery was entirely accidental and came out of a failed experiment.
+= 那个发现完全是意外，出自一次失败的实验。
 副词形式：
 accidentally = 不小心地
 反义词：
@@ -3222,13 +3222,13 @@ accidental 意外的 / deliberate 蓄意的
 accidentally
 核心：指"不小心地、无意中"，与 on purpose 相对。
 注意拼写是双 l，这是高频错拼点。
-① I accidentally deleted it.
-= 我不小心删掉了。
+① I accidentally deleted it and spent the rest of the evening on the backup.
+= 我不小心删掉了，剩下一晚上都在弄备份。
 accidentally delete = 误删
-② She accidentally knocked it over.
-= 她不小心把它碰倒了。
-③ He found it accidentally.
-= 他偶然发现了它。
+② She accidentally knocked it over and caught it before it reached the floor.
+= 她不小心把它碰倒，又在落地前接住了。
+③ He found it accidentally while looking for something else entirely.
+= 他在找另一样完全不相干的东西时偶然发现了它。
 反义词：
 deliberately = 故意地
 on purpose = 有意地
