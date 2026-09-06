@@ -46,13 +46,13 @@ absorb = 吸收（进入内部）
 aduki
 核心：赤豆的一种拼法，指"红小豆"，颗粒小、皮暗红，东亚料理里用来
 煮甜汤和做豆沙。同一种豆另有 adzuki、azuki 两种拼法，所指相同。
-① She soaked the aduki beans overnight.
-= 她把红小豆泡了一夜。
+① She soaked the aduki beans overnight and forgot them for another day.
+= 她把红小豆泡了一夜，之后又忘了一天。
 aduki bean = 红小豆
-② Aduki is used in sweet bean paste.
-= 红小豆用来做豆沙。
-③ The soup contains aduki and barley.
-= 那道汤里有红小豆和大麦。
+② Aduki is used in sweet bean paste and turns almost black when cooked down.
+= 红小豆用来做豆沙，熬到最后颜色近乎发黑。
+③ The soup contains aduki and barley and needs no stock at all.
+= 那道汤里有红小豆和大麦，完全不用高汤。
 拼写变体：
 aduki = 红小豆（英式常见拼法）
 adzuki = 红小豆（更贴近日语读音）
@@ -123,13 +123,13 @@ a consenting adult = 自愿的成年人（法律上指有能力表示同意的�
 adulterate
 核心：指在食品、饮料、药品里"掺假、掺入劣质品"。
 常用被动。名词是 adulteration。
-① The milk was adulterated with water.
-= 那批牛奶掺了水。
+① The milk was adulterated with water and chalk to make up the weight.
+= 那批牛奶掺了水和白垩粉来凑分量。
 be adulterated with = 掺入
-② They adulterated the wine.
-= 他们给酒掺了假。
-③ Adulterated food is dangerous.
-= 掺假食品有危险。
+② They adulterated the wine and were caught by a test nobody expected.
+= 他们给酒掺了假，被一项没人料到的检测查了出来。
+③ Adulterated food is dangerous and the trade in it long predates any law.
+= 掺假食品有危险，这门生意比任何相关法律都早得多。
 adulterated food = 掺假食品
 词族：
 adulteration = 掺假
@@ -141,14 +141,14 @@ unadulterated = 纯粹的；十足的
 adultery
 核心：指已婚者的"通奸"，法律和宗教用语。不可数。
 和 affair 的差别：adultery 是法律定性，affair 是日常说法。
-① He was accused of adultery.
-= 他被指通奸。
+① He was accused of adultery in a court that no longer had the power to rule on it.
+= 他被指通奸，而那家法庭早已无权就此裁断。
 commit adultery = 通奸
-② Adultery was grounds for divorce.
-= 通奸曾是离婚的法定理由。
+② Adultery was grounds for divorce and had to be proved by a third party.
+= 通奸曾是离婚的法定理由，还得由第三方举证。
 grounds for divorce = 离婚理由
-③ She admitted adultery.
-= 她承认了婚外性行为。
+③ She admitted adultery and the settlement was agreed within a fortnight.
+= 她承认了婚外性行为，两周内就谈妥了协议。
 词族：
 adulterer = 通奸者（男）
 adulteress = 通奸者（女）
@@ -160,14 +160,14 @@ affair = 婚外情（日常）
 adulthood
 核心：指"成年期"这个人生阶段，不可数。
 常见搭配 reach adulthood、in adulthood、young adulthood。
-① He reached adulthood abroad.
-= 他在国外成年。
+① He reached adulthood abroad and voted for the first time at twenty-six.
+= 他在国外成年，二十六岁才第一次投票。
 reach adulthood = 成年
-② Habits formed in adulthood persist.
-= 成年后养成的习惯很持久。
+② Habits formed in adulthood persist and are much harder to shift than early ones.
+= 成年后养成的习惯很持久，比早年的更难改。
 in adulthood = 在成年期
-③ Young adulthood brings change.
-= 成年早期充满变化。
+③ Young adulthood brings change at a speed nobody warns you about.
+= 成年早期的变化来得飞快，没人事先提醒过你。
 young adulthood = 成年早期
 词族：
 adult = 成年人
@@ -179,15 +179,15 @@ adumbrate
 核心：底层是"投下一道影子"。影子只给得出轮廓、又总是先于实物出现，
 两个义项正好从这两点来：给出大致轮廓就是"勾勒"，先行显现就是
 "预示"。所以这个词永远带着"还看不真切"的味道。
-① The report adumbrates a new policy.
-= 那份报告勾勒出一项新政策。
+① The report adumbrates a new policy without committing to a single figure.
+= 那份报告勾勒出一项新政策，却不肯给出任何一个数字。
 adumbrate a plan = 勾勒出计划
-② His early work adumbrated later themes.
-= 他早期的作品预示了后来的主题。
+② His early work adumbrated later themes that took him thirty years to reach.
+= 他早期的作品预示了后来的主题，那些主题他花了三十年才走到。
 这里：
 adumbrate = 预示
-③ She adumbrated the argument in chapter one.
-= 她在第一章里粗略交代了论点。
+③ She adumbrated the argument in chapter one and proved it in chapter nine.
+= 她在第一章里粗略交代了论点，到第九章才证明。
 注意语域：
 学术与文学评论用语，口语绝不用。
 近义对照：
@@ -260,14 +260,14 @@ advance = 前进、进步
 advancement
 核心：两条线：个人的"晋升发展"（career advancement），
 和学科技术的"进步推动"。不可数为主。
-① He seeks career advancement.
-= 他寻求职业发展。
+① He seeks career advancement and has changed employer four times to get it.
+= 他寻求职业发展，为此换了四家公司。
 career advancement = 职业晋升
-② It aids the advancement of science.
-= 那推动了科学进步。
+② It aids the advancement of science in fields that attract no funding.
+= 在那些拿不到经费的领域，它推动了科学进步。
 the advancement of = …的推进
-③ Advancement depends on merit.
-= 晋升靠实绩。
+③ Advancement depends on merit, according to a document nobody has updated.
+= 按一份没人更新过的文件，晋升靠的是实绩。
 词族：
 advance = 前进
 近义对照：
@@ -314,14 +314,14 @@ disadvantaged = 处境不利的
 advantageous
 核心：指"有利的、有好处的"，正式。介词用 to（对谁有利）。
 比 good 精确，强调"带来优势"。
-① The deal is advantageous to us.
-= 那笔交易对我们有利。
+① The deal is advantageous to us and rather less so to everyone downstream.
+= 那笔交易对我们有利，对下游各方就没那么有利了。
 advantageous to = 对…有利
-② It's an advantageous position.
-= 那是个有利位置。
+② It's an advantageous position and impossible to hold for more than a season.
+= 那是个有利位置，却撑不过一个赛季。
 an advantageous position = 优势地位
-③ Early booking is advantageous.
-= 早订有好处。
+③ Early booking is advantageous unless the timetable changes, which it does.
+= 早订有好处，除非时刻表变动——而它确实会变。
 副词形式：
 advantageously = 有利地
 反义词：
@@ -389,12 +389,12 @@ a sense of adventure = 冒险精神
 adventurer
 核心：两条线：喜欢冒险探索的"冒险家"（褒义），
 和为私利铤而走险的"投机者"（贬义）。靠语境判断。
-① She was a famous adventurer.
-= 她是位著名的探险家。
-② Adventurers explored the Arctic.
-= 冒险家们探索了北极。
-③ He was a political adventurer.
-= 他是个政治投机者。
+① She was a famous adventurer and wrote none of it down until she was eighty.
+= 她是位著名的探险家，八十岁之前一个字没写下来。
+② Adventurers explored the Arctic and left behind a great deal of rubbish.
+= 冒险家们探索了北极，也留下了一大堆垃圾。
+③ He was a political adventurer who backed three sides in the same year.
+= 他是个政治投机者，同一年支持过三方。
 political adventurer = 政治投机分子
 词族：
 adventure = 冒险
@@ -407,13 +407,13 @@ opportunist = 机会主义者（贬义）
 adventurous
 核心：两条线：人"爱冒险的"，和事物"大胆新颖的"。
 说菜式、设计 adventurous 是褒义，指敢于创新。
-① She has an adventurous spirit.
-= 她有冒险精神。
+① She has an adventurous spirit and a filing system nobody else can use.
+= 她有冒险精神，也有一套别人用不了的归档法。
 an adventurous spirit = 冒险精神
-② It was an adventurous menu.
-= 那份菜单很有新意。
-③ Be more adventurous with colour.
-= 用色可以大胆一些。
+② It was an adventurous menu and three of the six dishes worked.
+= 那份菜单很有新意，六道菜里成了三道。
+③ Be more adventurous with colour, she said, in a room painted entirely grey.
+= 在一间刷成全灰的屋子里，她说用色可以大胆一些。
 adventurous with = 在…上大胆
 副词形式：
 adventurously = 大胆地
@@ -443,13 +443,13 @@ adverbial particle
 up、out、off、down 之类。它看着像介词，区别在于：
 它不带宾语，而且能跟动词一起把宾语夹在中间，
 说 turn the light off 就是这么来的。
-① In "give up", up is an adverbial particle.
-= 那个短语里的第二个词是副词小品词。
+① In give up, the second word is an adverbial particle and not a preposition.
+= 在那个短语里，第二个词是副词小品词，不是介词。
 adverbial particle = 副词小品词
-② The particle can move after the object.
-= 那个小品词可以移到宾语后面。
-③ Particles differ from prepositions in this.
-= 小品词跟介词的分别正在于此。
+② The particle can move after the object, which no preposition is able to do.
+= 那个小品词可以移到宾语后面，介词做不到这一点。
+③ Particles differ from prepositions in this and learners mix them up for years.
+= 小品词跟介词的分别正在于此，学的人要混淆好些年。
 注意语域：
 语法术语。
 注意别混：
@@ -459,15 +459,15 @@ preposition = 介词（后面必带宾语）
 adversary
 核心：指"对手、敌手"，比 opponent 正式且对抗性更强，
 常用于政治、法律、军事。形容词 adversarial 指"对抗式的"。
-① He faced a formidable adversary.
-= 他面对一个强劲的对手。
-② They were political adversaries.
-= 他们是政治对手。
+① He faced a formidable adversary who had studied every game he had played.
+= 他面对一个强劲的对手，那人研究过他打过的每一局。
+② They were political adversaries for thirty years and neighbours for forty.
+= 他们做了三十年政治对手，当了四十年邻居。
 常用搭配：
 political adversary = 政治对手
 worthy adversary = 值得一战的对手
-③ The system is adversarial.
-= 那是对抗式的制度。
+③ The system is adversarial and rewards whoever can afford the better lawyer.
+= 那是对抗式的制度，谁请得起更好的律师谁占便宜。
 adversarial system = 对抗制（法律）
 注意复数：
 adversary → adversaries
@@ -480,14 +480,14 @@ rival 竞争者（争同一目标）
 adversative
 核心：语法术语，指"表示转折的"，说的是把前后意思对立起来的那类
 连接成分。作名词时指转折词本身。
-① "But" is an adversative conjunction.
-= 「but」是转折连词。
+① But is an adversative conjunction and does most of the work in that sentence.
+= 「but」是转折连词，那句话主要靠它撑着。
 adversative conjunction = 转折连词
-② The clause has an adversative sense.
-= 那个从句带转折意味。
+② The clause has an adversative sense even without any conjunction at all.
+= 那个从句连一个连词都没有，却带着转折意味。
 adversative sense = 转折意味
-③ Adversatives link contrasting ideas.
-= 转折词把对立的意思连起来。
+③ Adversatives link contrasting ideas and tell you which half to believe.
+= 转折词把对立的意思连起来，也告诉你该信哪一半。
 注意语域：
 语法学术语，只在语言学里用。
 近义对照：
@@ -518,14 +518,14 @@ averse 反感的（be averse to）
 adversely
 核心：指"不利地、负面地"，正式。几乎只和 affect 连用：
 adversely affect（对…产生不利影响）是高频固定搭配。
-① It adversely affected sales.
-= 那对销量产生了不利影响。
+① It adversely affected sales in every region except the smallest one.
+= 除了最小的那个区域，那对各地销量都产生了不利影响。
 adversely affect = 不利影响
-② Health was adversely impacted.
-= 健康受到了负面影响。
+② Health was adversely impacted long before anyone connected the two things.
+= 早在有人把这两件事联系起来之前，健康就已受到负面影响。
 adversely impact = 负面冲击
-③ The ruling adversely affects tenants.
-= 那项裁定对租户不利。
+③ The ruling adversely affects tenants who signed before the law changed.
+= 那项裁定对法律修改前签约的租户不利。
 词族：
 adverse = 不利的
 adversity = 逆境
@@ -535,16 +535,16 @@ adversely affect 这个搭配里。
 adversity
 核心：指"逆境、困苦"，正式且略带文学色彩。不可数为主。
 最常见的搭配是 in the face of adversity。
-① He showed courage in adversity.
-= 他在逆境中显出勇气。
+① He showed courage in adversity and rather less of it in comfortable times.
+= 他在逆境中显出勇气，日子好过时反倒少些。
 常用搭配：
 adversity strikes = 逆境降临
 in adversity = 身处逆境
-② She overcame great adversity.
-= 她克服了巨大的困难。
+② She overcame great adversity and refuses to have the word used about her.
+= 她克服了巨大的困难，却不许别人拿这个词说她。
 overcome adversity = 战胜逆境
-③ In the face of adversity, they held on.
-= 面对逆境，他们坚持住了。
+③ In the face of adversity, they held on for another eleven months.
+= 面对逆境，他们又坚持了十一个月。
 in the face of adversity = 面对困境
 词族：
 adverse = 不利的

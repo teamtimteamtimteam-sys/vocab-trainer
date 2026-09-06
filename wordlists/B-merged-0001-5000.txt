@@ -7166,13 +7166,13 @@ supporter = 支持者（立场）
 admiring
 核心：指目光、评论"充满赞赏的"。只作定语。
 常修饰 glance、look、crowd、comment。
-① She gave him an admiring glance.
-= 她赞赏地看了他一眼。
+① She gave him an admiring glance and went straight back to her book.
+= 她赞赏地看了他一眼，随即又低头看书。
 an admiring glance = 赞许的一瞥
-② An admiring crowd gathered.
-= 一群仰慕者聚了过来。
-③ He made admiring comments.
-= 他说了些赞赏的话。
+② An admiring crowd gathered round a car that had broken down twice already.
+= 一群仰慕者围住一辆已经抛锚过两次的车。
+③ He made admiring comments about work he had privately called derivative.
+= 他私下说那作品是抄来的，公开却说了些赞赏的话。
 admiring comments = 赞赏的评论
 副词形式：
 admiringly = 赞赏地
@@ -7263,14 +7263,14 @@ admittance = 准许进入（偏法律与告示用语）
 admittance
 核心：只指"进入的许可"，比 admission 窄——admission 还有"承认"
 和"入场费"的意思，admittance 只有准入这一条。多见于告示牌。
-① No admittance.
-= 禁止入内。
+① No admittance, said the sign, on a door that had been propped open all day.
+= 牌子上写着「禁止入内」，那扇门却整天用东西支着敞开。
 告示常用语
-② He gained admittance to the building.
-= 他获准进入那栋楼。
+② He gained admittance to the building by following somebody carrying boxes.
+= 他跟在一个搬箱子的人后面，进了那栋楼。
 gain admittance to = 获准进入
-③ Admittance is by ticket only.
-= 凭票入场。
+③ Admittance is by ticket only and the box office shuts at half past six.
+= 凭票入场，售票处六点半关门。
 注意区别：
 admittance = 准入（只此一义）
 admission = 准入；承认；入场费
@@ -7296,14 +7296,14 @@ of course 当然（不一定转折）
 admixture
 核心：正式名词，指"掺进来的成分"，也可指掺好的混合物本身，
 重点在"有别的东西加了进去"。抽象用法同样常见。
-① The concrete contains a chemical admixture.
-= 那种混凝土里含有化学外加剂。
+① The concrete contains a chemical admixture that lets it set in the cold.
+= 那种混凝土里含有化学外加剂，天冷也能凝固。
 chemical admixture = 化学外加剂
-② There was an admixture of fear in her joy.
-= 她的喜悦里掺着恐惧。
+② There was an admixture of fear in her joy that she could not explain.
+= 她的喜悦里掺着一种说不清的恐惧。
 an admixture of = 掺杂着…
-③ The alloy is an admixture of copper and tin.
-= 这种合金是铜与锡的混合物。
+③ The alloy is an admixture of copper and tin in a ratio fixed in antiquity.
+= 这种合金是铜与锡的混合物，配比是古代就定下的。
 注意语域：
 正式书面语，口语用别的说法。
 近义对照：
@@ -7337,14 +7337,14 @@ ado
 核心：不可数名词，指"忙乱、大惊小怪"，现在几乎只活在两个固定说法
 里：without further ado 表示不再多说马上开始，much ado about
 nothing 表示无事生非。单独使用已经很少见。
-① Without further ado, let's begin.
-= 闲话少说，我们开始。
+① Without further ado, let's begin — we are already twenty minutes late.
+= 闲话少说我们开始，已经晚了二十分钟了。
 without further ado = 不再多说
-② It was much ado about nothing.
-= 那不过是无事生非。
+② It was much ado about nothing and cost the company two senior staff.
+= 那不过是无事生非，却让公司走了两名资深员工。
 much ado about nothing = 无事生非
-③ She left without any ado.
-= 她没声张就走了。
+③ She left without any ado and nobody noticed until the following morning.
+= 她没声张就走了，第二天早上才有人发现。
 without ado = 不声不响地
 注意用法：
 基本只出现在上面这几个固定搭配里。
@@ -7374,12 +7374,12 @@ adobe house = 土坯房
 adolescence
 核心：指青春期，大约十二到十八岁这段时间。不可数。比 puberty
 （生理上的青春期发育）范围更广，包含心理和社会层面。
-① Adolescence can be difficult.
-= 青春期可能很难熬。
-② He spent his adolescence abroad.
-= 他青春期是在国外度过的。
-③ Changes occur during adolescence.
-= 变化发生在青春期。
+① Adolescence can be difficult for the people living with it as well.
+= 青春期难熬的，还有跟着一起过日子的人。
+② He spent his adolescence abroad and came back speaking two languages.
+= 他青春期是在国外度过的，回来时会说两种语言。
+③ Changes occur during adolescence that the brain does not finish for years.
+= 青春期发生的变化，大脑要好些年才收尾。
 常用搭配：
 early adolescence = 青春期早期
 reach adolescence = 进入青春期
@@ -7431,14 +7431,14 @@ early adopter = 早期采用者
 adopted
 核心：指孩子"被收养的"，也指国家或家乡"选择接受的"
 （one's adopted country 指移居后认同的国家）。
-① She has an adopted son.
-= 她有个收养的儿子。
+① She has an adopted son who found his birth mother at twenty-nine.
+= 她有个收养的儿子，二十九岁那年找到了生母。
 an adopted son = 养子
-② Britain is his adopted country.
-= 英国是他移居后的国家。
+② Britain is his adopted country and he has lived here longer than anywhere.
+= 英国是他移居后的国家，他在这里住得比别处都久。
 adopted country = 移居定居的国家
-③ The adopted child thrived.
-= 那个被收养的孩子长得很好。
+③ The adopted child thrived and the paperwork took another three years.
+= 那个被收养的孩子长得很好，手续又办了三年。
 注意区别：
 adopted = 被收养的（说孩子）
 adoptive = 收养别人的（说父母）
@@ -7464,14 +7464,14 @@ adoptive = 收养的
 adoptive
 核心：指"收养他人的"，说父母和家庭，不说孩子——这是它和
 adopted 的分工，混用是高频错误。
-① They are his adoptive parents.
-= 他们是他的养父母。
+① They are his adoptive parents and have never once been called anything else.
+= 他们是他的养父母，从来没被叫过别的。
 adoptive parents = 养父母
-② She grew up in an adoptive family.
-= 她在收养家庭长大。
+② She grew up in an adoptive family two streets from where she was born.
+= 她在收养家庭长大，离出生地只隔两条街。
 adoptive family = 收养家庭
-③ His adoptive mother raised him.
-= 他由养母抚养长大。
+③ His adoptive mother raised him alone from the age of four.
+= 他四岁起就由养母一个人抚养长大。
 注意区别：
 adoptive parents 养父母（收养方）
 adopted child 养子女（被收养方）
@@ -7480,12 +7480,12 @@ adopted child 养子女（被收养方）
 adorable
 核心：指"可爱得让人想抱一抱"，多用于孩子、宠物、小物件。
 语气很暖，口语高频。比 cute 程度更深。
-① What an adorable baby!
-= 多可爱的宝宝！
-② The puppy is adorable.
-= 那只小狗太可爱了。
-③ She wore an adorable dress.
-= 她穿了条很可爱的裙子。
+① What an adorable baby, said a woman who had not slept in six weeks.
+= 一个六周没睡好觉的女人说了句「多可爱的宝宝」。
+② The puppy is adorable and has eaten one shoe from each of three pairs.
+= 那只小狗太可爱了，三双鞋各啃了一只。
+③ She wore an adorable dress that turned out to belong to her sister.
+= 她穿了条很可爱的裙子，后来发现是她姐姐的。
 常用搭配：
 absolutely adorable = 可爱极了
 词族：
@@ -7515,14 +7515,14 @@ adoration = 爱慕、崇拜
 adoring
 核心：指目光、态度"充满爱慕崇拜的"，只作定语。
 常搭配 adoring fans、an adoring look。程度比 admiring 深。
-① Adoring fans lined the street.
-= 狂热的粉丝挤满街道。
+① Adoring fans lined the street from four in the morning in steady rain.
+= 痴迷的粉丝从凌晨四点起冒着不停的雨挤满街道。
 adoring fans = 痴迷的粉丝
-② She gave him an adoring look.
-= 她深情地望着他。
+② She gave him an adoring look across a table of eleven other people.
+= 隔着一桌另外十一个人，她深情地望着他。
 an adoring look = 爱慕的目光
-③ His adoring wife stood by him.
-= 他深爱他的妻子一直支持他。
+③ His adoring wife stood by him through two trials and one bankruptcy.
+= 两场官司加一次破产，他深爱他的妻子一直站在他身边。
 副词形式：
 adoringly = 爱慕地
 词族：
@@ -7533,13 +7533,13 @@ admiring = 赞赏 < adoring = 崇拜爱慕
 adorn
 核心：正式的"装饰"，比 decorate 书面得多，多见于文学和描写性文字。
 常用被动 be adorned with。
-① The walls were adorned with paintings.
-= 墙上装饰着画作。
+① The walls were adorned with paintings that nobody had valued in decades.
+= 墙上装饰着几十年没人估过价的画作。
 be adorned with = 用…装饰
-② Flowers adorned the table.
-= 鲜花点缀着餐桌。
-③ She adorned herself with jewels.
-= 她佩戴了珠宝。
+② Flowers adorned the table and wilted before the first course arrived.
+= 鲜花点缀着餐桌，第一道菜还没上就蔫了。
+③ She adorned herself with jewels borrowed from three different friends.
+= 她佩戴的珠宝是从三个不同的朋友那儿借来的。
 常用搭配：
 richly adorned = 装饰华丽的
 词族：
@@ -7552,13 +7552,13 @@ embellish 修饰（可能加太多）
 adornment
 核心：指"装饰物"（可数）或"装饰"这个行为（不可数）。正式。
 常见 without adornment（朴素无华）。
-① The room needs no adornment.
-= 那房间无需装饰。
+① The room needs no adornment and the light does everything on its own.
+= 那房间无需装饰，光线一样就够了。
 need no adornment = 无需修饰
-② She wore no adornment.
-= 她没戴任何饰物。
-③ It was written without adornment.
-= 那是朴实无华地写就的。
+② She wore no adornment except a watch that had stopped years before.
+= 除了一块多年前就停了的表，她没戴任何饰物。
+③ It was written without adornment and read better than anything beside it.
+= 那篇文字朴实无华，读起来却比旁边任何一篇都好。
 without adornment = 不加修饰
 词族：
 adorn = 装饰
@@ -7571,14 +7571,14 @@ adrenal gland
 核心：压在两个肾脏上头的一对内分泌腺，名字就是"肾旁边的"。
 外层皮质分泌皮质醇和醛固酮，管压力应对与水盐平衡；
 内层髓质分泌肾上腺素，负责那一下"战或逃"的爆发。
-① The adrenal glands sit atop the kidneys.
-= 肾上腺坐落在肾脏上方。
+① The adrenal glands sit atop the kidneys and weigh about four grams each.
+= 肾上腺坐落在肾脏上方，每个约重四克。
 sit atop = 位于…上方
-② The adrenal gland releases cortisol.
-= 肾上腺分泌皮质醇。
+② The adrenal gland releases cortisol on a daily rhythm that peaks at dawn.
+= 肾上腺按日节律分泌皮质醇，黎明时达到峰值。
 release cortisol = 分泌皮质醇
-③ Adrenal failure is life-threatening.
-= 肾上腺功能衰竭有生命危险。
+③ Adrenal failure is life-threatening and is often missed for months.
+= 肾上腺功能衰竭有生命危险，还常常几个月都查不出来。
 adrenal failure = 肾上腺功能衰竭
 注意语域：
 解剖学与内分泌学术语。
@@ -7678,13 +7678,13 @@ absorb = 吸收（进入内部）
 aduki
 核心：赤豆的一种拼法，指"红小豆"，颗粒小、皮暗红，东亚料理里用来
 煮甜汤和做豆沙。同一种豆另有 adzuki、azuki 两种拼法，所指相同。
-① She soaked the aduki beans overnight.
-= 她把红小豆泡了一夜。
+① She soaked the aduki beans overnight and forgot them for another day.
+= 她把红小豆泡了一夜，之后又忘了一天。
 aduki bean = 红小豆
-② Aduki is used in sweet bean paste.
-= 红小豆用来做豆沙。
-③ The soup contains aduki and barley.
-= 那道汤里有红小豆和大麦。
+② Aduki is used in sweet bean paste and turns almost black when cooked down.
+= 红小豆用来做豆沙，熬到最后颜色近乎发黑。
+③ The soup contains aduki and barley and needs no stock at all.
+= 那道汤里有红小豆和大麦，完全不用高汤。
 拼写变体：
 aduki = 红小豆（英式常见拼法）
 adzuki = 红小豆（更贴近日语读音）
@@ -7755,13 +7755,13 @@ a consenting adult = 自愿的成年人（法律上指有能力表示同意的�
 adulterate
 核心：指在食品、饮料、药品里"掺假、掺入劣质品"。
 常用被动。名词是 adulteration。
-① The milk was adulterated with water.
-= 那批牛奶掺了水。
+① The milk was adulterated with water and chalk to make up the weight.
+= 那批牛奶掺了水和白垩粉来凑分量。
 be adulterated with = 掺入
-② They adulterated the wine.
-= 他们给酒掺了假。
-③ Adulterated food is dangerous.
-= 掺假食品有危险。
+② They adulterated the wine and were caught by a test nobody expected.
+= 他们给酒掺了假，被一项没人料到的检测查了出来。
+③ Adulterated food is dangerous and the trade in it long predates any law.
+= 掺假食品有危险，这门生意比任何相关法律都早得多。
 adulterated food = 掺假食品
 词族：
 adulteration = 掺假
@@ -7773,14 +7773,14 @@ unadulterated = 纯粹的；十足的
 adultery
 核心：指已婚者的"通奸"，法律和宗教用语。不可数。
 和 affair 的差别：adultery 是法律定性，affair 是日常说法。
-① He was accused of adultery.
-= 他被指通奸。
+① He was accused of adultery in a court that no longer had the power to rule on it.
+= 他被指通奸，而那家法庭早已无权就此裁断。
 commit adultery = 通奸
-② Adultery was grounds for divorce.
-= 通奸曾是离婚的法定理由。
+② Adultery was grounds for divorce and had to be proved by a third party.
+= 通奸曾是离婚的法定理由，还得由第三方举证。
 grounds for divorce = 离婚理由
-③ She admitted adultery.
-= 她承认了婚外性行为。
+③ She admitted adultery and the settlement was agreed within a fortnight.
+= 她承认了婚外性行为，两周内就谈妥了协议。
 词族：
 adulterer = 通奸者（男）
 adulteress = 通奸者（女）
@@ -7792,14 +7792,14 @@ affair = 婚外情（日常）
 adulthood
 核心：指"成年期"这个人生阶段，不可数。
 常见搭配 reach adulthood、in adulthood、young adulthood。
-① He reached adulthood abroad.
-= 他在国外成年。
+① He reached adulthood abroad and voted for the first time at twenty-six.
+= 他在国外成年，二十六岁才第一次投票。
 reach adulthood = 成年
-② Habits formed in adulthood persist.
-= 成年后养成的习惯很持久。
+② Habits formed in adulthood persist and are much harder to shift than early ones.
+= 成年后养成的习惯很持久，比早年的更难改。
 in adulthood = 在成年期
-③ Young adulthood brings change.
-= 成年早期充满变化。
+③ Young adulthood brings change at a speed nobody warns you about.
+= 成年早期的变化来得飞快，没人事先提醒过你。
 young adulthood = 成年早期
 词族：
 adult = 成年人
@@ -7811,15 +7811,15 @@ adumbrate
 核心：底层是"投下一道影子"。影子只给得出轮廓、又总是先于实物出现，
 两个义项正好从这两点来：给出大致轮廓就是"勾勒"，先行显现就是
 "预示"。所以这个词永远带着"还看不真切"的味道。
-① The report adumbrates a new policy.
-= 那份报告勾勒出一项新政策。
+① The report adumbrates a new policy without committing to a single figure.
+= 那份报告勾勒出一项新政策，却不肯给出任何一个数字。
 adumbrate a plan = 勾勒出计划
-② His early work adumbrated later themes.
-= 他早期的作品预示了后来的主题。
+② His early work adumbrated later themes that took him thirty years to reach.
+= 他早期的作品预示了后来的主题，那些主题他花了三十年才走到。
 这里：
 adumbrate = 预示
-③ She adumbrated the argument in chapter one.
-= 她在第一章里粗略交代了论点。
+③ She adumbrated the argument in chapter one and proved it in chapter nine.
+= 她在第一章里粗略交代了论点，到第九章才证明。
 注意语域：
 学术与文学评论用语，口语绝不用。
 近义对照：
@@ -7892,14 +7892,14 @@ advance = 前进、进步
 advancement
 核心：两条线：个人的"晋升发展"（career advancement），
 和学科技术的"进步推动"。不可数为主。
-① He seeks career advancement.
-= 他寻求职业发展。
+① He seeks career advancement and has changed employer four times to get it.
+= 他寻求职业发展，为此换了四家公司。
 career advancement = 职业晋升
-② It aids the advancement of science.
-= 那推动了科学进步。
+② It aids the advancement of science in fields that attract no funding.
+= 在那些拿不到经费的领域，它推动了科学进步。
 the advancement of = …的推进
-③ Advancement depends on merit.
-= 晋升靠实绩。
+③ Advancement depends on merit, according to a document nobody has updated.
+= 按一份没人更新过的文件，晋升靠的是实绩。
 词族：
 advance = 前进
 近义对照：
@@ -7946,14 +7946,14 @@ disadvantaged = 处境不利的
 advantageous
 核心：指"有利的、有好处的"，正式。介词用 to（对谁有利）。
 比 good 精确，强调"带来优势"。
-① The deal is advantageous to us.
-= 那笔交易对我们有利。
+① The deal is advantageous to us and rather less so to everyone downstream.
+= 那笔交易对我们有利，对下游各方就没那么有利了。
 advantageous to = 对…有利
-② It's an advantageous position.
-= 那是个有利位置。
+② It's an advantageous position and impossible to hold for more than a season.
+= 那是个有利位置，却撑不过一个赛季。
 an advantageous position = 优势地位
-③ Early booking is advantageous.
-= 早订有好处。
+③ Early booking is advantageous unless the timetable changes, which it does.
+= 早订有好处，除非时刻表变动——而它确实会变。
 副词形式：
 advantageously = 有利地
 反义词：
@@ -8021,12 +8021,12 @@ a sense of adventure = 冒险精神
 adventurer
 核心：两条线：喜欢冒险探索的"冒险家"（褒义），
 和为私利铤而走险的"投机者"（贬义）。靠语境判断。
-① She was a famous adventurer.
-= 她是位著名的探险家。
-② Adventurers explored the Arctic.
-= 冒险家们探索了北极。
-③ He was a political adventurer.
-= 他是个政治投机者。
+① She was a famous adventurer and wrote none of it down until she was eighty.
+= 她是位著名的探险家，八十岁之前一个字没写下来。
+② Adventurers explored the Arctic and left behind a great deal of rubbish.
+= 冒险家们探索了北极，也留下了一大堆垃圾。
+③ He was a political adventurer who backed three sides in the same year.
+= 他是个政治投机者，同一年支持过三方。
 political adventurer = 政治投机分子
 词族：
 adventure = 冒险
@@ -8039,13 +8039,13 @@ opportunist = 机会主义者（贬义）
 adventurous
 核心：两条线：人"爱冒险的"，和事物"大胆新颖的"。
 说菜式、设计 adventurous 是褒义，指敢于创新。
-① She has an adventurous spirit.
-= 她有冒险精神。
+① She has an adventurous spirit and a filing system nobody else can use.
+= 她有冒险精神，也有一套别人用不了的归档法。
 an adventurous spirit = 冒险精神
-② It was an adventurous menu.
-= 那份菜单很有新意。
-③ Be more adventurous with colour.
-= 用色可以大胆一些。
+② It was an adventurous menu and three of the six dishes worked.
+= 那份菜单很有新意，六道菜里成了三道。
+③ Be more adventurous with colour, she said, in a room painted entirely grey.
+= 在一间刷成全灰的屋子里，她说用色可以大胆一些。
 adventurous with = 在…上大胆
 副词形式：
 adventurously = 大胆地
@@ -8075,13 +8075,13 @@ adverbial particle
 up、out、off、down 之类。它看着像介词，区别在于：
 它不带宾语，而且能跟动词一起把宾语夹在中间，
 说 turn the light off 就是这么来的。
-① In "give up", up is an adverbial particle.
-= 那个短语里的第二个词是副词小品词。
+① In give up, the second word is an adverbial particle and not a preposition.
+= 在那个短语里，第二个词是副词小品词，不是介词。
 adverbial particle = 副词小品词
-② The particle can move after the object.
-= 那个小品词可以移到宾语后面。
-③ Particles differ from prepositions in this.
-= 小品词跟介词的分别正在于此。
+② The particle can move after the object, which no preposition is able to do.
+= 那个小品词可以移到宾语后面，介词做不到这一点。
+③ Particles differ from prepositions in this and learners mix them up for years.
+= 小品词跟介词的分别正在于此，学的人要混淆好些年。
 注意语域：
 语法术语。
 注意别混：
@@ -8091,15 +8091,15 @@ preposition = 介词（后面必带宾语）
 adversary
 核心：指"对手、敌手"，比 opponent 正式且对抗性更强，
 常用于政治、法律、军事。形容词 adversarial 指"对抗式的"。
-① He faced a formidable adversary.
-= 他面对一个强劲的对手。
-② They were political adversaries.
-= 他们是政治对手。
+① He faced a formidable adversary who had studied every game he had played.
+= 他面对一个强劲的对手，那人研究过他打过的每一局。
+② They were political adversaries for thirty years and neighbours for forty.
+= 他们做了三十年政治对手，当了四十年邻居。
 常用搭配：
 political adversary = 政治对手
 worthy adversary = 值得一战的对手
-③ The system is adversarial.
-= 那是对抗式的制度。
+③ The system is adversarial and rewards whoever can afford the better lawyer.
+= 那是对抗式的制度，谁请得起更好的律师谁占便宜。
 adversarial system = 对抗制（法律）
 注意复数：
 adversary → adversaries
@@ -8112,14 +8112,14 @@ rival 竞争者（争同一目标）
 adversative
 核心：语法术语，指"表示转折的"，说的是把前后意思对立起来的那类
 连接成分。作名词时指转折词本身。
-① "But" is an adversative conjunction.
-= 「but」是转折连词。
+① But is an adversative conjunction and does most of the work in that sentence.
+= 「but」是转折连词，那句话主要靠它撑着。
 adversative conjunction = 转折连词
-② The clause has an adversative sense.
-= 那个从句带转折意味。
+② The clause has an adversative sense even without any conjunction at all.
+= 那个从句连一个连词都没有，却带着转折意味。
 adversative sense = 转折意味
-③ Adversatives link contrasting ideas.
-= 转折词把对立的意思连起来。
+③ Adversatives link contrasting ideas and tell you which half to believe.
+= 转折词把对立的意思连起来，也告诉你该信哪一半。
 注意语域：
 语法学术语，只在语言学里用。
 近义对照：
@@ -8150,14 +8150,14 @@ averse 反感的（be averse to）
 adversely
 核心：指"不利地、负面地"，正式。几乎只和 affect 连用：
 adversely affect（对…产生不利影响）是高频固定搭配。
-① It adversely affected sales.
-= 那对销量产生了不利影响。
+① It adversely affected sales in every region except the smallest one.
+= 除了最小的那个区域，那对各地销量都产生了不利影响。
 adversely affect = 不利影响
-② Health was adversely impacted.
-= 健康受到了负面影响。
+② Health was adversely impacted long before anyone connected the two things.
+= 早在有人把这两件事联系起来之前，健康就已受到负面影响。
 adversely impact = 负面冲击
-③ The ruling adversely affects tenants.
-= 那项裁定对租户不利。
+③ The ruling adversely affects tenants who signed before the law changed.
+= 那项裁定对法律修改前签约的租户不利。
 词族：
 adverse = 不利的
 adversity = 逆境
@@ -8167,16 +8167,16 @@ adversely affect 这个搭配里。
 adversity
 核心：指"逆境、困苦"，正式且略带文学色彩。不可数为主。
 最常见的搭配是 in the face of adversity。
-① He showed courage in adversity.
-= 他在逆境中显出勇气。
+① He showed courage in adversity and rather less of it in comfortable times.
+= 他在逆境中显出勇气，日子好过时反倒少些。
 常用搭配：
 adversity strikes = 逆境降临
 in adversity = 身处逆境
-② She overcame great adversity.
-= 她克服了巨大的困难。
+② She overcame great adversity and refuses to have the word used about her.
+= 她克服了巨大的困难，却不许别人拿这个词说她。
 overcome adversity = 战胜逆境
-③ In the face of adversity, they held on.
-= 面对逆境，他们坚持住了。
+③ In the face of adversity, they held on for another eleven months.
+= 面对逆境，他们又坚持了十一个月。
 in the face of adversity = 面对困境
 词族：
 adverse = 不利的
@@ -8265,12 +8265,12 @@ advertising = 广告业
 advertiser
 核心：指投放广告的人或公司，即广告主，不是广告公司。
 广告代理公司叫 advertising agency。
-① Advertisers target young buyers.
-= 广告主瞄准年轻买家。
-② The magazine lost advertisers.
-= 那本杂志流失了广告客户。
-③ Advertisers pay for the space.
-= 广告主为版面付费。
+① Advertisers target young buyers who have almost no money to spend.
+= 广告主瞄准年轻买家，而这些人几乎没什么钱可花。
+② The magazine lost advertisers after printing one unflattering review.
+= 登了一篇不给面子的评论之后，那本杂志流失了广告客户。
+③ Advertisers pay for the space and increasingly expect to shape the content.
+= 广告主为版面付费，还越来越想插手内容。
 常用搭配：
 major advertiser = 大广告客户
 advertiser demand = 广告需求
@@ -8283,14 +8283,14 @@ advertise = 做广告
 advertising
 核心：指广告这个行业和这项活动，不可数。
 和 advertisement（单则广告，可数）区分。
-① She works in advertising.
-= 她做广告业。
+① She works in advertising and can no longer watch television without commenting.
+= 她做广告业，如今看电视不点评几句都不行。
 work in advertising = 从事广告业
-② Advertising revenue fell.
-= 广告收入下降了。
+② Advertising revenue fell for six quarters and then stopped falling.
+= 广告收入连跌六个季度，之后就不跌了。
 advertising revenue = 广告收入
-③ It's an advertising agency.
-= 那是家广告公司。
+③ It's an advertising agency that has never advertised itself anywhere.
+= 那是家广告公司，自己却从没在任何地方打过广告。
 advertising agency = 广告代理公司
 注意区别：
 advertising = 广告业（不可数）
@@ -8409,13 +8409,13 @@ advisory capacity = 顾问身份
 advocaat
 核心：一种荷兰利口酒，用蛋黄、糖和白兰地调成，浓稠发黄，圣诞前后
 常喝，兑上柠檬汽水就成了叫 snowball 的鸡尾酒。荷兰语借词。
-① She poured a glass of advocaat.
-= 她倒了一杯蛋黄酒。
+① She poured a glass of advocaat and topped it up with lemonade.
+= 她倒了一杯蛋黄酒，又兑上柠檬汽水。
 a glass of advocaat = 一杯蛋黄酒
-② Advocaat is thick and yellow.
-= 蛋黄酒又稠又黄。
-③ They make snowballs with advocaat.
-= 他们用蛋黄酒调那种雪球鸡尾酒。
+② Advocaat is thick and yellow and has to be eaten with a spoon when cold.
+= 蛋黄酒又稠又黄，凉了得拿勺子吃。
+③ They make snowballs with advocaat every Christmas and never at any other time.
+= 他们每年圣诞用蛋黄酒调那种雪球鸡尾酒，别的时候一次也不调。
 注意语域：
 酒类专名，英国圣诞季常见。
 近义对照：
@@ -8426,14 +8426,14 @@ liqueur = 利口酒（甜味烈酒统称）
 advocacy
 核心：指"公开倡导、为某个主张奔走"，不可数。介词用 of 或 for。
 法律上还指"出庭辩护"。
-① She is known for her advocacy of reform.
-= 她因倡导改革而闻名。
+① She is known for her advocacy of reform that took twenty years to arrive.
+= 她因倡导一项二十年后才落地的改革而闻名。
 advocacy of = 对…的倡导
-② Patient advocacy groups exist.
-= 有患者权益倡导团体。
+② Patient advocacy groups exist because nobody else was asking the questions.
+= 患者权益倡导团体之所以存在，是因为没别人在问那些问题。
 advocacy group = 倡导团体
-③ His advocacy in court was skilled.
-= 他的出庭辩护很老练。
+③ His advocacy in court was skilled and his paperwork was consistently late.
+= 他的出庭辩护很老练，文书却总是迟交。
 词族：
 advocate = 倡导；倡导者
 近义对照：
@@ -8459,13 +8459,13 @@ advocacy = 倡导
 adze
 核心：木工工具，指"锛子"——柄像斧头，但刃口横着装，朝使用者方向
 劈削，用来把原木修平。美式也拼作 adz。
-① He shaped the beam with an adze.
-= 他用锛子把梁修平。
+① He shaped the beam with an adze and left the marks deliberately visible.
+= 他用锛子把梁修平，还故意留下了斧痕。
 shape with an adze = 用锛子修整
-② The adze has a curved blade.
-= 锛子的刃是弯的。
-③ Carpenters once relied on the adze.
-= 木匠从前全靠这把工具。
+② The adze has a curved blade and is swung towards the user, not away.
+= 锛子的刃是弯的，挥的方向是朝着自己而不是朝外。
+③ Carpenters once relied on the adze for work a plane now does in minutes.
+= 如今刨子几分钟就干完的活，木匠从前全靠这把工具。
 拼写变体：
 adze = 锛子（英式拼法）
 adz = 锛子（美式拼法）
@@ -8476,14 +8476,14 @@ axe = 斧（刃口竖装，朝外劈）
 adzuki
 核心：日语借词，指"红小豆"，颗粒小、皮红，东亚常用来煮甜汤和做
 豆沙馅。同一种豆也拼作 aduki 或 azuki。
-① Adzuki beans are boiled with sugar.
-= 红小豆要加糖煮。
+① Adzuki beans are boiled with sugar until the skins begin to split.
+= 红小豆加糖煮，煮到豆皮开始裂开。
 adzuki bean = 红小豆
-② The bun is filled with adzuki paste.
-= 那个包子里是豆沙馅。
+② The bun is filled with adzuki paste and sold warm from a station kiosk.
+= 那个包子里是豆沙馅，在车站小亭里趁热卖。
 adzuki paste = 豆沙
-③ Adzuki grows well in Japan.
-= 红小豆在日本长得好。
+③ Adzuki grows well in Japan and is planted after the rice is in.
+= 红小豆在日本长得好，插完秧之后才种。
 拼写变体：
 adzuki = 红小豆（最常见拼法）
 aduki = 红小豆（英式变体）
@@ -8493,13 +8493,13 @@ aduki = 红小豆（英式变体）
 aegis
 核心：正式用语，只活在 under the aegis of 这个搭配里，
 意为"在…的主持或庇护下"。词源是希腊神话中宙斯的盾。
-① The talks were held under the aegis of the UN.
-= 会谈在联合国主持下举行。
+① The talks were held under the aegis of the UN and produced a single paragraph.
+= 会谈在联合国主持下举行，成果是一个段落。
 under the aegis of = 在…主持下
-② The project runs under her aegis.
-= 那个项目在她的领导下运作。
-③ Aid arrived under the aegis of the charity.
-= 援助在那家慈善机构名下送达。
+② The project runs under her aegis and has never missed a deadline.
+= 那个项目在她的领导下运作，从没误过期限。
+③ Aid arrived under the aegis of the charity three days before the roads closed.
+= 道路封闭前三天，援助在那家慈善机构名下送达。
 注意发音：/ˈiːdʒɪs/
 注意：aegis 几乎不单独使用。
 近义对照：
@@ -8510,14 +8510,14 @@ aeolian
 核心：形容词，指"风成的、由风造成的"，地质学里说的是风搬运堆积
 形成的地貌。词根来自希腊风神，所以 Aeolian harp（风鸣琴）也用这个
 词，那是一种靠风吹动琴弦发声的乐器。美式也拼 eolian。
-① Aeolian deposits cover the plateau.
-= 风成沉积覆盖着那片高原。
+① Aeolian deposits cover the plateau to a depth of about eighty metres.
+= 风成沉积覆盖着那片高原，厚约八十米。
 aeolian deposit = 风成沉积
-② The dunes are aeolian in origin.
-= 那些沙丘是风成的。
+② The dunes are aeolian in origin and move a few metres every year.
+= 那些沙丘是风成的，每年移动几米。
 aeolian in origin = 成因属风力
-③ An Aeolian harp hung in the window.
-= 窗口挂着一架风鸣琴。
+③ An Aeolian harp hung in the window and played whenever the wind got up.
+= 窗口挂着一架风鸣琴，一起风它就响。
 Aeolian harp = 风鸣琴
 注意语域：
 地质学术语；乐器那个义项属音乐史。
@@ -8528,14 +8528,14 @@ eolian = 风成的（美式）
 aeon
 核心：指长得难以计量的"时代、万古"，正式或文学。
 口语里用复数夸张地说"好久好久"。美式常拼 eon。
-① The rocks formed over aeons.
-= 那些岩石历经万古形成。
+① The rocks formed over aeons and were quarried away in about nine years.
+= 那些岩石历经万古形成，采石场九年左右就把它们挖光了。
 over aeons = 经历漫长年代
-② I haven't seen him for aeons.
-= 我好久好久没见他了。
+② I haven't seen him for aeons and he has not changed in any visible way.
+= 我好久好久没见他了，他看着一点没变。
 for aeons = 很久很久（夸张）
-③ Aeons passed before life appeared.
-= 生命出现前过了无尽岁月。
+③ Aeons passed before life appeared and rather less time before it spread.
+= 生命出现前过了无尽岁月，扩散开来倒没用那么久。
 注意英美拼写：
 aeon = 万古、极长的时代（英式拼法）
 eon = 万古、极长的时代（美式拼法）
@@ -8547,13 +8547,13 @@ epoch = 纪元（地质、历史分期）
 aerate
 核心：指往液体或土壤里"充气、通气"。园艺、水处理、饮料
 三个领域都用。过去分词 aerated 最常见。
-① Aerate the soil before planting.
-= 种之前先给土壤松土通气。
+① Aerate the soil before planting or the roots will sit in standing water.
+= 种之前先给土壤松土通气，否则根会泡在积水里。
 aerate the soil = 给土壤通气
-② The water is aerated.
-= 那水经过充氧。
-③ Aerated drinks contain gas.
-= 充气饮料含气体。
+② The water is aerated as it falls down four steps of the weir.
+= 水从堰的四级台阶上落下来时就充了氧。
+③ Aerated drinks contain gas that comes out of solution as they warm.
+= 充气饮料含气体，一变温气就从液体里跑出来。
 aerated drink = 碳酸饮料（英式）
 词族：
 aeration = 通气、曝气
@@ -8590,13 +8590,13 @@ aerialist = 空中杂技演员
 aerie
 核心：指猛禽筑在悬崖高处的巢，尤其是鹰巢；引申指建在高处、
 俯瞰四方的住所。英式多拼作 eyrie，美式用这个拼法。
-① The eagle returned to its aerie.
-= 那只鹰回到了巢里。
+① The eagle returned to its aerie with something too big to carry easily.
+= 那只鹰叼着一件明显吃力的东西回到了巢里。
 return to an aerie = 回巢
-② The castle sits like an aerie above the valley.
-= 那座城堡像鹰巢一样踞在谷地之上。
-③ They built an aerie on the cliff top.
-= 他们在崖顶建了处居高临下的住所。
+② The castle sits like an aerie above the valley and is reached on foot only.
+= 那座城堡像鹰巢一样踞在谷地之上，只能步行上去。
+③ They built an aerie on the cliff top and regretted it every windy night.
+= 他们在崖顶建了处居高临下的住所，每个刮风的夜里都后悔。
 注意拼写：
 aerie = 鹰巢（美式）
 eyrie = 鹰巢（英式）
@@ -8608,13 +8608,13 @@ perch = 栖枝（落脚的高处）
 aerobatics
 核心：指飞机的"特技飞行"，形式是复数。
 注意别和 acrobatics（杂技）混——一个在天上，一个在地上。
-① The team performed aerobatics.
-= 那个飞行队表演了特技。
+① The team performed aerobatics in a wind that grounded everyone else.
+= 别人都因风停飞，那个飞行队照样表演了特技。
 perform aerobatics = 做特技飞行
-② Aerobatics require great skill.
-= 特技飞行需要高超技术。
-③ He trained in aerobatics.
-= 他受过特技飞行训练。
+② Aerobatics require great skill and a stomach that most people do not have.
+= 特技飞行需要高超技术，还需要多数人没有的那副肠胃。
+③ He trained in aerobatics for two years before he was allowed an audience.
+= 他练了两年特技飞行，才获准在观众面前飞。
 词族：
 aerobatic = 特技飞行的
 注意别混：
@@ -8625,14 +8625,14 @@ aerobics = 有氧操（健身）
 aerobic
 核心：指"有氧的"。运动上是 aerobic exercise，生物学上指需要氧气
 的生物过程。复数名词 aerobics 指"有氧健身操"。
-① Running is aerobic exercise.
-= 跑步是有氧运动。
+① Running is aerobic exercise and walking uphill counts for rather more.
+= 跑步是有氧运动，上坡走路算的还要多些。
 aerobic exercise = 有氧运动
-② She does aerobics twice a week.
-= 她一周做两次有氧操。
+② An aerobics class fills up faster than anything else the centre offers.
+= 有氧操课比那个中心的任何课都满得快。
 aerobics = 有氧健身操
-③ Aerobic bacteria need oxygen.
-= 好氧细菌需要氧气。
+③ Aerobic bacteria need oxygen and die out wherever the mud gets deep.
+= 好氧细菌需要氧气，泥一深它们就绝迹。
 常用搭配：
 aerobic capacity = 有氧能力
 aerobic fitness = 有氧体能
@@ -8643,14 +8643,14 @@ aerobic 有氧 / anaerobic 无氧
 aerobics
 核心：指有氧健身操这项运动，形式是复数但配单数动词。
 和 aerobic（形容词，有氧的）区分。
-① She does aerobics twice a week.
-= 她一周做两次有氧操。
+① She does aerobics twice a week and has kept it up since 1994.
+= 她一周做两次有氧操，一九九四年起没断过。
 do aerobics = 做有氧操
-② Aerobics is good for the heart.
-= 有氧操对心脏好。
+② Aerobics is good for the heart and rather hard on the knees.
+= 有氧操对心脏好，对膝盖就不太友善。
 配单数动词
-③ He teaches an aerobics class.
-= 他教有氧操课。
+③ He teaches an aerobics class at seven in the morning to eleven regulars.
+= 他早上七点给十一个老学员上有氧操课。
 aerobics class = 有氧操课程
 词族：
 aerobic = 有氧的

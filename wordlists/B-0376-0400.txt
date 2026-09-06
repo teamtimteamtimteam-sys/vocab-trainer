@@ -20,13 +20,13 @@ supporter = 支持者（立场）
 admiring
 核心：指目光、评论"充满赞赏的"。只作定语。
 常修饰 glance、look、crowd、comment。
-① She gave him an admiring glance.
-= 她赞赏地看了他一眼。
+① She gave him an admiring glance and went straight back to her book.
+= 她赞赏地看了他一眼，随即又低头看书。
 an admiring glance = 赞许的一瞥
-② An admiring crowd gathered.
-= 一群仰慕者聚了过来。
-③ He made admiring comments.
-= 他说了些赞赏的话。
+② An admiring crowd gathered round a car that had broken down twice already.
+= 一群仰慕者围住一辆已经抛锚过两次的车。
+③ He made admiring comments about work he had privately called derivative.
+= 他私下说那作品是抄来的，公开却说了些赞赏的话。
 admiring comments = 赞赏的评论
 副词形式：
 admiringly = 赞赏地
@@ -117,14 +117,14 @@ admittance = 准许进入（偏法律与告示用语）
 admittance
 核心：只指"进入的许可"，比 admission 窄——admission 还有"承认"
 和"入场费"的意思，admittance 只有准入这一条。多见于告示牌。
-① No admittance.
-= 禁止入内。
+① No admittance, said the sign, on a door that had been propped open all day.
+= 牌子上写着「禁止入内」，那扇门却整天用东西支着敞开。
 告示常用语
-② He gained admittance to the building.
-= 他获准进入那栋楼。
+② He gained admittance to the building by following somebody carrying boxes.
+= 他跟在一个搬箱子的人后面，进了那栋楼。
 gain admittance to = 获准进入
-③ Admittance is by ticket only.
-= 凭票入场。
+③ Admittance is by ticket only and the box office shuts at half past six.
+= 凭票入场，售票处六点半关门。
 注意区别：
 admittance = 准入（只此一义）
 admission = 准入；承认；入场费
@@ -150,14 +150,14 @@ of course 当然（不一定转折）
 admixture
 核心：正式名词，指"掺进来的成分"，也可指掺好的混合物本身，
 重点在"有别的东西加了进去"。抽象用法同样常见。
-① The concrete contains a chemical admixture.
-= 那种混凝土里含有化学外加剂。
+① The concrete contains a chemical admixture that lets it set in the cold.
+= 那种混凝土里含有化学外加剂，天冷也能凝固。
 chemical admixture = 化学外加剂
-② There was an admixture of fear in her joy.
-= 她的喜悦里掺着恐惧。
+② There was an admixture of fear in her joy that she could not explain.
+= 她的喜悦里掺着一种说不清的恐惧。
 an admixture of = 掺杂着…
-③ The alloy is an admixture of copper and tin.
-= 这种合金是铜与锡的混合物。
+③ The alloy is an admixture of copper and tin in a ratio fixed in antiquity.
+= 这种合金是铜与锡的混合物，配比是古代就定下的。
 注意语域：
 正式书面语，口语用别的说法。
 近义对照：
@@ -191,14 +191,14 @@ ado
 核心：不可数名词，指"忙乱、大惊小怪"，现在几乎只活在两个固定说法
 里：without further ado 表示不再多说马上开始，much ado about
 nothing 表示无事生非。单独使用已经很少见。
-① Without further ado, let's begin.
-= 闲话少说，我们开始。
+① Without further ado, let's begin — we are already twenty minutes late.
+= 闲话少说我们开始，已经晚了二十分钟了。
 without further ado = 不再多说
-② It was much ado about nothing.
-= 那不过是无事生非。
+② It was much ado about nothing and cost the company two senior staff.
+= 那不过是无事生非，却让公司走了两名资深员工。
 much ado about nothing = 无事生非
-③ She left without any ado.
-= 她没声张就走了。
+③ She left without any ado and nobody noticed until the following morning.
+= 她没声张就走了，第二天早上才有人发现。
 without ado = 不声不响地
 注意用法：
 基本只出现在上面这几个固定搭配里。
@@ -228,12 +228,12 @@ adobe house = 土坯房
 adolescence
 核心：指青春期，大约十二到十八岁这段时间。不可数。比 puberty
 （生理上的青春期发育）范围更广，包含心理和社会层面。
-① Adolescence can be difficult.
-= 青春期可能很难熬。
-② He spent his adolescence abroad.
-= 他青春期是在国外度过的。
-③ Changes occur during adolescence.
-= 变化发生在青春期。
+① Adolescence can be difficult for the people living with it as well.
+= 青春期难熬的，还有跟着一起过日子的人。
+② He spent his adolescence abroad and came back speaking two languages.
+= 他青春期是在国外度过的，回来时会说两种语言。
+③ Changes occur during adolescence that the brain does not finish for years.
+= 青春期发生的变化，大脑要好些年才收尾。
 常用搭配：
 early adolescence = 青春期早期
 reach adolescence = 进入青春期
@@ -285,14 +285,14 @@ early adopter = 早期采用者
 adopted
 核心：指孩子"被收养的"，也指国家或家乡"选择接受的"
 （one's adopted country 指移居后认同的国家）。
-① She has an adopted son.
-= 她有个收养的儿子。
+① She has an adopted son who found his birth mother at twenty-nine.
+= 她有个收养的儿子，二十九岁那年找到了生母。
 an adopted son = 养子
-② Britain is his adopted country.
-= 英国是他移居后的国家。
+② Britain is his adopted country and he has lived here longer than anywhere.
+= 英国是他移居后的国家，他在这里住得比别处都久。
 adopted country = 移居定居的国家
-③ The adopted child thrived.
-= 那个被收养的孩子长得很好。
+③ The adopted child thrived and the paperwork took another three years.
+= 那个被收养的孩子长得很好，手续又办了三年。
 注意区别：
 adopted = 被收养的（说孩子）
 adoptive = 收养别人的（说父母）
@@ -318,14 +318,14 @@ adoptive = 收养的
 adoptive
 核心：指"收养他人的"，说父母和家庭，不说孩子——这是它和
 adopted 的分工，混用是高频错误。
-① They are his adoptive parents.
-= 他们是他的养父母。
+① They are his adoptive parents and have never once been called anything else.
+= 他们是他的养父母，从来没被叫过别的。
 adoptive parents = 养父母
-② She grew up in an adoptive family.
-= 她在收养家庭长大。
+② She grew up in an adoptive family two streets from where she was born.
+= 她在收养家庭长大，离出生地只隔两条街。
 adoptive family = 收养家庭
-③ His adoptive mother raised him.
-= 他由养母抚养长大。
+③ His adoptive mother raised him alone from the age of four.
+= 他四岁起就由养母一个人抚养长大。
 注意区别：
 adoptive parents 养父母（收养方）
 adopted child 养子女（被收养方）
@@ -334,12 +334,12 @@ adopted child 养子女（被收养方）
 adorable
 核心：指"可爱得让人想抱一抱"，多用于孩子、宠物、小物件。
 语气很暖，口语高频。比 cute 程度更深。
-① What an adorable baby!
-= 多可爱的宝宝！
-② The puppy is adorable.
-= 那只小狗太可爱了。
-③ She wore an adorable dress.
-= 她穿了条很可爱的裙子。
+① What an adorable baby, said a woman who had not slept in six weeks.
+= 一个六周没睡好觉的女人说了句「多可爱的宝宝」。
+② The puppy is adorable and has eaten one shoe from each of three pairs.
+= 那只小狗太可爱了，三双鞋各啃了一只。
+③ She wore an adorable dress that turned out to belong to her sister.
+= 她穿了条很可爱的裙子，后来发现是她姐姐的。
 常用搭配：
 absolutely adorable = 可爱极了
 词族：
@@ -369,14 +369,14 @@ adoration = 爱慕、崇拜
 adoring
 核心：指目光、态度"充满爱慕崇拜的"，只作定语。
 常搭配 adoring fans、an adoring look。程度比 admiring 深。
-① Adoring fans lined the street.
-= 狂热的粉丝挤满街道。
+① Adoring fans lined the street from four in the morning in steady rain.
+= 痴迷的粉丝从凌晨四点起冒着不停的雨挤满街道。
 adoring fans = 痴迷的粉丝
-② She gave him an adoring look.
-= 她深情地望着他。
+② She gave him an adoring look across a table of eleven other people.
+= 隔着一桌另外十一个人，她深情地望着他。
 an adoring look = 爱慕的目光
-③ His adoring wife stood by him.
-= 他深爱他的妻子一直支持他。
+③ His adoring wife stood by him through two trials and one bankruptcy.
+= 两场官司加一次破产，他深爱他的妻子一直站在他身边。
 副词形式：
 adoringly = 爱慕地
 词族：
@@ -387,13 +387,13 @@ admiring = 赞赏 < adoring = 崇拜爱慕
 adorn
 核心：正式的"装饰"，比 decorate 书面得多，多见于文学和描写性文字。
 常用被动 be adorned with。
-① The walls were adorned with paintings.
-= 墙上装饰着画作。
+① The walls were adorned with paintings that nobody had valued in decades.
+= 墙上装饰着几十年没人估过价的画作。
 be adorned with = 用…装饰
-② Flowers adorned the table.
-= 鲜花点缀着餐桌。
-③ She adorned herself with jewels.
-= 她佩戴了珠宝。
+② Flowers adorned the table and wilted before the first course arrived.
+= 鲜花点缀着餐桌，第一道菜还没上就蔫了。
+③ She adorned herself with jewels borrowed from three different friends.
+= 她佩戴的珠宝是从三个不同的朋友那儿借来的。
 常用搭配：
 richly adorned = 装饰华丽的
 词族：
@@ -406,13 +406,13 @@ embellish 修饰（可能加太多）
 adornment
 核心：指"装饰物"（可数）或"装饰"这个行为（不可数）。正式。
 常见 without adornment（朴素无华）。
-① The room needs no adornment.
-= 那房间无需装饰。
+① The room needs no adornment and the light does everything on its own.
+= 那房间无需装饰，光线一样就够了。
 need no adornment = 无需修饰
-② She wore no adornment.
-= 她没戴任何饰物。
-③ It was written without adornment.
-= 那是朴实无华地写就的。
+② She wore no adornment except a watch that had stopped years before.
+= 除了一块多年前就停了的表，她没戴任何饰物。
+③ It was written without adornment and read better than anything beside it.
+= 那篇文字朴实无华，读起来却比旁边任何一篇都好。
 without adornment = 不加修饰
 词族：
 adorn = 装饰
@@ -425,14 +425,14 @@ adrenal gland
 核心：压在两个肾脏上头的一对内分泌腺，名字就是"肾旁边的"。
 外层皮质分泌皮质醇和醛固酮，管压力应对与水盐平衡；
 内层髓质分泌肾上腺素，负责那一下"战或逃"的爆发。
-① The adrenal glands sit atop the kidneys.
-= 肾上腺坐落在肾脏上方。
+① The adrenal glands sit atop the kidneys and weigh about four grams each.
+= 肾上腺坐落在肾脏上方，每个约重四克。
 sit atop = 位于…上方
-② The adrenal gland releases cortisol.
-= 肾上腺分泌皮质醇。
+② The adrenal gland releases cortisol on a daily rhythm that peaks at dawn.
+= 肾上腺按日节律分泌皮质醇，黎明时达到峰值。
 release cortisol = 分泌皮质醇
-③ Adrenal failure is life-threatening.
-= 肾上腺功能衰竭有生命危险。
+③ Adrenal failure is life-threatening and is often missed for months.
+= 肾上腺功能衰竭有生命危险，还常常几个月都查不出来。
 adrenal failure = 肾上腺功能衰竭
 注意语域：
 解剖学与内分泌学术语。
