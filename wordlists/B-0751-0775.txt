@@ -1,13 +1,13 @@
 alias
 核心：名词指"化名、别名"，介词用法是"又名"（放在两个名字之间）。
 计算机里还指命令的"别名"。
-① He used an alias.
-= 他用了个化名。
+① He used an alias to check into the hotel so that reporters could not trace him.
+= 他用化名入住酒店，免得记者追踪到他。
 use an alias = 使用化名
-② John Smith, alias Peter Brown.
-= 约翰·史密斯，又名彼得·布朗。
-③ Set up a shell alias.
-= 设置一个命令别名。
+② The indictment names the defendant as John Smith, alias Peter Brown, alias 'the Accountant'.
+= 起诉书里把被告写作约翰·史密斯，又名彼得·布朗，又名「会计」。
+③ Set up a shell alias for the long command and you'll never mistype it again.
+= 给那条长命令设置一个命令别名，以后就再也不会敲错了。
 shell alias = 命令别名
 注意复数：
 alias → aliases
@@ -20,14 +20,14 @@ nickname = 绰号（亲昵或戏称）
 alibi
 核心：法律用语，指"不在场证明"。比喻义在口语里指"借口"。
 介词用 for。
-① He has an alibi for that night.
-= 他那晚有不在场证明。
+① He has an alibi for that night: three colleagues saw him at the office until midnight.
+= 他那晚有不在场证明：三个同事看见他在办公室待到半夜。
 an alibi for = …的不在场证明
-② Her alibi checked out.
-= 她的不在场证明属实。
+② Her alibi checked out once the police pulled the CCTV footage from the petrol station.
+= 警方调出加油站的监控录像后，她的不在场证明就核实无误了。
 check out = 核实无误
-③ That's just an alibi.
-= 那不过是个借口。
+③ Blaming the traffic is just an alibi; he left the house twenty minutes late.
+= 怪堵车不过是个借口，他出门本来就晚了二十分钟。
 口语引申义
 注意复数：
 alibi → alibis
@@ -36,14 +36,14 @@ alibi → alibis
 Alice band
 核心：英式用词，指"发箍"——一条硬质的弧形箍，从耳后绕过头顶把
 头发拢向后面。名字来自《爱丽丝漫游奇境》插图里爱丽丝戴的那条。
-① She wore a velvet Alice band.
-= 她戴了个天鹅绒发箍。
+① She pushed her hair back with a velvet Alice band before the interview.
+= 面试前她用一个天鹅绒发箍把头发拢到后面。
 a velvet Alice band = 天鹅绒发箍
-② Alice bands keep hair off the face.
-= 发箍能把头发拢开不挡脸。
+② Alice bands keep hair off the face without the tugging that a ponytail causes.
+= 发箍能把头发拢开不挡脸，又不会像扎马尾那样扯得头皮疼。
 keep hair off the face = 把头发拢开
-③ The shop sells Alice bands.
-= 那家店卖发箍。
+③ The shop sells Alice bands in every colour, from plain black to tartan.
+= 那家店卖各种颜色的发箍，从素黑到格子呢的都有。
 注意地域：
 英式用词，美式多说 headband。
 注意写法：
@@ -73,13 +73,13 @@ alienable = 可转让的（法律，多用于否定）
 alienate
 核心：指"让人疏远、失去支持"，宾语是人或群体。也指把感情、
 财产"转移出去"（法律义）。常用被动 feel alienated。
-① The policy alienated voters.
-= 那项政策疏远了选民。
+① The fuel tax alienated rural voters who had backed the party for decades.
+= 燃油税疏远了几十年来一直支持该党的农村选民。
 alienate voters = 失去选民支持
-② He alienated his friends.
-= 他把朋友都得罪光了。
-③ Young people feel alienated.
-= 年轻人感到疏离。
+② By the end of the trial he had alienated his friends, his lawyer and most of the jury.
+= 到审判结束时，他把朋友、律师和大半个陪审团都得罪光了。
+③ Young people in the town feel alienated from a council that never asks what they want.
+= 镇上的年轻人感到被排斥，因为议会从来不问他们想要什么。
 feel alienated = 感到被排斥
 词族：
 alienation = 疏离感
@@ -91,13 +91,13 @@ social alienation = 社会疏离
 alienation
 核心：指"疏离感、格格不入"，社会学和心理学核心词。不可数。
 也指法律上财产的"转让"。
-① He felt a deep alienation.
-= 他感到深深的疏离。
-② Social alienation is rising.
-= 社会疏离感在加剧。
+① Working nights in a city where he knew nobody, he felt a deep alienation from everything around him.
+= 在一个举目无亲的城市里上夜班，他对周遭的一切都感到深深的疏离。
+② Social alienation is rising among the elderly as corner shops and bus routes disappear.
+= 随着街角小店和公交线路消失，老年人的社会疏离感在加剧。
 social alienation = 社会疏离
-③ The policy caused voter alienation.
-= 那项政策疏远了选民。
+③ Years of broken promises produced a voter alienation that no campaign slogan could undo.
+= 多年的食言造成了选民离心，任何竞选口号都无法挽回。
 voter alienation = 选民离心
 词族：
 alienate = 使疏远
@@ -184,13 +184,13 @@ look alike = 长得像
 alimentary canal
 核心：解剖学名词，指"消化道"——从口腔一路到肛门那根管子，
 食物在里面被消化吸收，残渣排出。也说 digestive tract。
-① Food passes down the alimentary canal.
-= 食物顺着消化道往下走。
+① Food passes down the alimentary canal in a series of muscular contractions called peristalsis.
+= 食物靠一连串叫作蠕动的肌肉收缩顺着消化道往下走。
 pass down the alimentary canal = 通过消化道
-② The alimentary canal is about nine metres long.
-= 消化道大约九米长。
-③ Enzymes work throughout the alimentary canal.
-= 消化道全程都有酶在起作用。
+② Stretched out, the human alimentary canal is about nine metres long, most of it small intestine.
+= 人的消化道拉直大约九米长，大部分是小肠。
+③ Different enzymes work at different points along the alimentary canal, each suited to its own acidity.
+= 不同的酶在消化道的不同部位起作用，各自适应那里的酸度。
 注意语域：
 解剖学与生理学术语。
 近义对照：
@@ -200,14 +200,14 @@ digestive system = 消化系统（含肝胆胰等腺体）
 alimony
 核心：指离婚后一方付给另一方的"赡养费"。美式用得多，
 英式更常说 maintenance。不可数。
-① He pays monthly alimony.
-= 他每月付赡养费。
+① He pays monthly alimony to his former wife and will do so until she remarries.
+= 他每月付前妻赡养费，直到她再婚为止。
 pay alimony = 支付赡养费
-② She was awarded alimony.
-= 法院判给她赡养费。
+② She was awarded alimony because she had given up her career to raise the children.
+= 法院判给她赡养费，因为她为了带孩子放弃了事业。
 be awarded alimony = 获判赡养费
-③ Alimony ended on remarriage.
-= 再婚后赡养费终止。
+③ Under the settlement, alimony ended on remarriage, so the payments stopped the day she wed.
+= 按协议赡养费在再婚后终止，所以她结婚当天付款就停了。
 注意英美差别：
 alimony = 离婚赡养费（美式）
 maintenance = 离婚赡养费（英式）
@@ -218,13 +218,13 @@ child support = 子女抚养费
 aliquot
 核心：技术用词，指从整体里量取的"一份等量样品"，实验室里常说。
 数学里作形容词，指能整除的"等分的"。
-① He pipetted an aliquot of the sample.
-= 他移取了一份等量样品。
+① He pipetted an aliquot of the sample into each tube and labelled them by hand.
+= 他往每根试管里移取一份等量样品，并手工贴上标签。
 an aliquot of = 一份等量的…
-② Store each aliquot at minus twenty.
-= 每一份都存在零下二十度。
-③ Three is an aliquot part of twelve.
-= 三是十二的等分因数。
+② Store each aliquot at minus twenty so you never thaw the whole batch more than once.
+= 每一份都存在零下二十度，这样整批就不用反复解冻。
+③ Three is an aliquot part of twelve, but five is not, since it leaves a remainder.
+= 三是十二的等分因数，五则不是，因为会有余数。
 aliquot part = 等分因数（数学）
 注意语域：
 实验室操作与数学术语。
@@ -248,13 +248,13 @@ come alive = 活跃起来
 alkali
 核心：化学上指"碱"，与酸相对。可数不可数都有。
 形容词是 alkaline。
-① Alkali neutralizes acid.
-= 碱能中和酸。
+① An alkali neutralizes acid, which is why bicarbonate of soda settles an upset stomach.
+= 碱能中和酸，所以小苏打能缓解胃酸过多。
 neutralize acid = 中和酸
-② Strong alkalis burn skin.
-= 强碱会灼伤皮肤。
-③ Soap contains alkali.
-= 肥皂含碱。
+② Strong alkalis burn skin as badly as acids do, so wear gloves when handling drain cleaner.
+= 强碱像酸一样会灼伤皮肤，处理下水道清洁剂时要戴手套。
+③ Traditional soap contains alkali left over from the lye, which is why it dries the skin.
+= 传统肥皂含有碱液残留的碱，所以洗完皮肤发干。
 注意复数：
 alkali → alkalis 或 alkalies
 反义词：
@@ -265,14 +265,14 @@ alkaline = 碱性的
 alkaline
 核心：指"碱性的"，pH 值大于 7。
 常见搭配 alkaline soil / battery / water。
-① The soil is alkaline.
-= 那片土壤呈碱性。
+① The soil is alkaline here, so the hydrangeas come out pink rather than blue.
+= 这里的土壤呈碱性，所以绣球花开出来是粉色不是蓝色。
 alkaline soil = 碱性土壤
-② Use an alkaline battery.
-= 用碱性电池。
+② Use an alkaline battery in the smoke detector; rechargeables lose charge too quickly.
+= 烟雾报警器要用碱性电池，充电电池掉电太快。
 alkaline battery = 碱性电池
-③ Alkaline water is marketed heavily.
-= 碱性水营销得很凶。
+③ Alkaline water is marketed heavily as a health drink, though the evidence behind it is thin.
+= 碱性水被大力营销成健康饮品，可背后的证据很薄弱。
 反义词：
 acidic = 酸性的
 neutral = 中性的
@@ -283,13 +283,13 @@ alkalinity = 碱度
 alkaloid
 核心：化学名词，指"生物碱"——植物里含氮的一类化合物，多半味苦、
 有强烈生理作用。咖啡因、尼古丁、吗啡、奎宁都属于它。
-① Caffeine is a plant alkaloid.
-= 咖啡因是一种植物生物碱。
+① Caffeine is a plant alkaloid, which is why it tastes bitter and keeps you awake.
+= 咖啡因是一种植物生物碱，所以味道发苦，还能让人清醒。
 plant alkaloid = 植物生物碱
-② Many alkaloids are toxic in quantity.
-= 很多生物碱量大了都有毒。
-③ The drug is derived from an alkaloid.
-= 那种药是从一种生物碱提取的。
+② Many alkaloids are toxic in quantity, and the line between medicine and poison is a matter of dose.
+= 很多生物碱量大了都有毒，药和毒之间的界线只在剂量。
+③ The painkiller is derived from an alkaloid found in the opium poppy.
+= 那种止痛药是从罂粟里的一种生物碱提取的。
 derived from = 由…提取
 注意语域：
 化学、药学与植物学术语。
@@ -300,14 +300,14 @@ alkali = 碱（无机的，与酸相对）
 alkane
 核心：有机化学术语，指"烷烃"——碳原子之间全是单键、氢原子挂满的
 饱和烃。甲烷、乙烷、丙烷都是，天然气和石油的主要成分。
-① Methane is the simplest alkane.
-= 甲烷是最简单的烷烃。
+① Methane, the simplest alkane, seeps out of landfill sites for decades after they close.
+= 甲烷是最简单的烷烃，垃圾填埋场关闭后几十年里还会往外渗。
 the simplest alkane = 最简单的烷烃
-② Alkanes are saturated hydrocarbons.
-= 烷烃是饱和烃。
+② Alkanes are saturated hydrocarbons, so they resist most reactions except burning.
+= 烷烃是饱和烃，除了燃烧几乎不发生反应。
 saturated hydrocarbon = 饱和烃
-③ Alkanes burn to give carbon dioxide and water.
-= 烷烃燃烧生成二氧化碳和水。
+③ Alkanes burn to give carbon dioxide and water, which is what happens every time you light a gas hob.
+= 烷烃燃烧生成二氧化碳和水，每次点燃燃气灶发生的就是这个反应。
 注意语域：
 有机化学术语。
 系列对照：
@@ -318,13 +318,13 @@ alkyne = 炔烃（含三键）
 alkene
 核心：有机化学术语，指"烯烃"——碳链里至少含一个碳碳双键的不饱和烃。
 乙烯是最简单的一个，也是塑料工业的基础原料。
-① Ethene is the simplest alkene.
-= 乙烯是最简单的烯烃。
-② Alkenes react by addition.
-= 烯烃通过加成反应。
+① Ethene, an alkene given off by ripening fruit, is why one brown banana spoils the whole bunch.
+= 乙烯是水果成熟时释放的一种烯烃，所以一根发黑的香蕉会带坏一整把。
+② Alkenes react by addition across the double bond, which is how ethene becomes polythene.
+= 烯烃在双键上发生加成反应，乙烯就是这样变成聚乙烯的。
 react by addition = 发生加成反应
-③ Alkenes decolourize bromine water.
-= 烯烃能使溴水褪色。
+③ Alkenes decolourize bromine water, the standard test for a double bond in school chemistry.
+= 烯烃能使溴水褪色，这是中学化学里检验双键的标准方法。
 decolourize bromine water = 使溴水褪色
 注意语域：
 有机化学术语。
@@ -453,14 +453,14 @@ all-clear
 核心：指"解除警报的信号"——危险过去了，可以恢复正常。原本是空袭
 警报解除的那声长鸣，现在也用于医学检查结果没问题。固定搭配
 give the all-clear 和 get the all-clear。
-① The siren sounded the all-clear.
-= 警报鸣响，宣告危险解除。
+① The siren sounded the all-clear at dawn and people climbed out of the shelters.
+= 天亮时警报鸣响宣告危险解除，人们从防空洞里爬了出来。
 sound the all-clear = 鸣响解除警报
-② Doctors gave her the all-clear.
-= 医生说她没问题了。
+② After the third scan the doctors gave her the all-clear and discharged her the same afternoon.
+= 第三次扫描之后医生说她没问题了，当天下午就让她出院。
 give the all-clear = 宣告没问题
-③ We waited for the all-clear to reopen.
-= 我们等着放行才重新营业。
+③ We waited for the all-clear from the fire brigade before reopening the kitchen.
+= 我们等消防队放行之后才重新开厨房。
 get the all-clear = 得到放行
 注意用法：
 前面通常加定冠词，跟 give 或 get 搭配。
@@ -468,13 +468,13 @@ get the all-clear = 得到放行
 all-consuming
 核心：形容词，指"占去一个人全部心神的"——某件事或某种情绪大到
 容不下别的，多半带担忧的口气。放在名词前面。
-① Her work became all-consuming.
-= 她的工作占去了全部心神。
-② He has an all-consuming passion for chess.
-= 他对国际象棋痴迷到无以复加。
+① Her work became all-consuming, and friends stopped expecting her at birthdays.
+= 她的工作占去了全部心神，朋友们也不再指望她出席生日聚会。
+② He has an all-consuming passion for chess and can replay games from fifty years ago move by move.
+= 他对国际象棋痴迷到无以复加，五十年前的对局都能一步步复盘。
 an all-consuming passion = 压倒一切的热情
-③ All-consuming grief left him numb.
-= 铺天盖地的悲痛让他麻木了。
+③ All-consuming grief left him numb for months; he could not even open the condolence cards.
+= 铺天盖地的悲痛让他麻木了好几个月，连慰问卡都没法打开。
 all-consuming grief = 铺天盖地的悲痛
 注意用法：
 作定语也作表语。
@@ -485,13 +485,13 @@ absorbing = 引人入胜的（中性偏褒）
 all-embracing
 核心：形容词，指"无所不包的"——一个说法、体系或计划把所有情况都
 涵盖进去了，没有漏在外面的。
-① The theory is all-embracing.
-= 那套理论无所不包。
-② They drafted an all-embracing agreement.
-= 他们起草了一份包罗万象的协议。
+① The theory is all-embracing, which is exactly why critics say it explains nothing in particular.
+= 那套理论无所不包，批评者说这恰恰是它什么都解释不了的原因。
+② They drafted an all-embracing agreement covering trade, fishing rights and the disputed border.
+= 他们起草了一份包罗万象的协议，贸易、捕鱼权和有争议的边界都在里面。
 an all-embracing agreement = 包罗万象的协议
-③ His all-embracing definition satisfied nobody.
-= 他那个什么都装得下的定义谁也没说服。
+③ His all-embracing definition of art satisfied nobody, least of all the artists.
+= 他那个什么都装得下的艺术定义谁也没说服，艺术家们最不买账。
 an all-embracing definition = 包罗万象的定义
 注意用法：
 作定语也作表语。
@@ -502,13 +502,13 @@ comprehensive = 全面的（通用，中性）
 all-important
 核心：形容词，指"至关重要的"——在一堆因素里就数它决定成败。
 加强语气用的，放在名词前面。
-① Timing is all-important.
-= 时机至关重要。
-② She missed the all-important deadline.
-= 她错过了那个至关重要的截止日。
+① In comedy, timing is all-important: the same line lands or dies by a half-second.
+= 在喜剧里时机至关重要，同一句台词差半秒就是笑与冷场之别。
+② She missed the all-important deadline by an hour and the grant went to someone else.
+= 她错过那个至关重要的截止日一个小时，资助就给了别人。
 the all-important deadline = 关键的截止期限
-③ He scored the all-important goal.
-= 他打进了决定性的一球。
+③ He scored the all-important goal in stoppage time to send his team through.
+= 他在补时阶段打进决定性的一球，送球队晋级。
 the all-important goal = 决定性的一球
 注意用法：
 作定语也作表语。
@@ -519,13 +519,13 @@ crucial = 关键的（通用）
 all-in-one
 核心：形容词兼名词，指"多合一的"——一件东西把好几样功能或部件
 合在一起。打印机、洗发水、连体衣都能这么说。
-① She bought an all-in-one printer.
-= 她买了台多功能一体打印机。
+① She bought an all-in-one printer that scans and copies, and it takes up half the desk.
+= 她买了台能扫描能复印的多功能一体打印机，占了半张桌子。
 an all-in-one printer = 一体式打印机
-② The shampoo is an all-in-one.
-= 那瓶洗发水是多合一的。
-③ The baby wore a fleece all-in-one.
-= 那个宝宝穿着抓绒连体衣。
+② The shampoo is an all-in-one, so you can skip the conditioner on a rushed morning.
+= 那瓶洗发水是多合一的，赶时间的早晨可以省掉护发素。
+③ The baby wore a fleece all-in-one that zipped from ankle to chin.
+= 那个宝宝穿着抓绒连体衣，拉链从脚踝一直拉到下巴。
 all-in-one = 连体衣（作名词）
 注意用法：
 作定语时带连字符，也可直接作名词。
