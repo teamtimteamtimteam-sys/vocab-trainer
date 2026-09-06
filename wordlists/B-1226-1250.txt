@@ -18,12 +18,12 @@ honeydew = 蜜露
 aphorism
 核心：指凝练的"格言、警句"，通常出自某位作者之手，
 带点机锋。比 proverb（民间谚语）更精心。
-① He is famous for his aphorisms.
-= 他以警句闻名。
-② The book collects aphorisms.
-= 那本书收录了格言。
-③ It's a well-known aphorism.
-= 那是句广为人知的箴言。
+① He is famous for his aphorisms and rather less so for the books they came from.
+= 他以警句闻名，那些警句出自的书倒没那么有名。
+② The book collects aphorisms from forty writers and names none of them on the page.
+= 那本书收录了四十位作者的格言，正文里一个名字也不标。
+③ It's a well-known aphorism that turns out, when checked, to have no known author.
+= 那是句广为人知的箴言，一查却查不出作者是谁。
 词族：
 aphoristic = 警句式的
 近义对照：
@@ -81,13 +81,13 @@ apiculturist = 养蜂人
 apiece
 核心：副词，指"每个、每人"，放在数量或价格之后。
 和 each 同义但位置固定在后。
-① They cost £5 apiece.
-= 它们每个五英镑。
+① They cost five pounds apiece, or twelve for three if you ask.
+= 它们每个五英镑，开口问的话三个十二镑。
 cost … apiece = 每个…钱
-② We got two apiece.
-= 我们每人分到两个。
-③ The teams scored three apiece.
-= 两队各进三球。
+② We got two apiece and the last one went to whoever asked first.
+= 我们每人分到两个，最后一个归先开口的那个。
+③ The teams scored three apiece and the match went to penalties.
+= 两队各进三球，比赛进入点球。
 score … apiece = 各得…分
 注意位置：
 apiece 只放在后面
@@ -97,13 +97,13 @@ They cost £5 each. = 同义
 aplenty
 核心：形容词兼副词，指"多得很、有的是"，用法特别：它必须放在
 名词后面，不能放前面。带点文学腔或俏皮劲儿。
-① There were problems aplenty.
-= 问题多得是。
+① There were problems aplenty, and the first three surfaced before the doors opened.
+= 问题多得是，头三个在开门之前就冒了出来。
 problems aplenty = 一堆问题
-② The garden had roses aplenty.
-= 园子里玫瑰开得满满当当。
-③ She found reasons aplenty to refuse.
-= 她找出一堆理由拒绝。
+② The garden had roses aplenty and almost nothing else worth looking at.
+= 园子里玫瑰开得满满当当，别的几乎没什么可看。
+③ She found reasons aplenty to refuse and used the least convincing one.
+= 她找出一堆理由拒绝，用的却是最没说服力的那个。
 reasons aplenty = 理由一大把
 注意语序：
 只能后置，不能放在名词前面。
@@ -113,13 +113,13 @@ reasons aplenty = 理由一大把
 aplomb
 核心：指面对难堪或困境时的"泰然自若"，褒义。
 几乎只用 with aplomb 这个搭配。
-① She handled it with aplomb.
-= 她处理得从容不迫。
+① She handled it with aplomb, and only afterwards admitted she had no idea what to do.
+= 她处理得从容不迫，事后才承认当时全然不知该怎么办。
 with aplomb = 泰然自若地
-② He answered with great aplomb.
-= 他答得非常沉着。
-③ The pianist played with aplomb.
-= 那位钢琴家弹得游刃有余。
+② He answered with great aplomb a question he had plainly never considered.
+= 有个问题他显然从没想过，却答得非常沉着。
+③ The pianist played with aplomb through a page-turn that went badly wrong.
+= 翻谱出了大岔子，那位钢琴家仍然弹得游刃有余。
 注意发音：/əˈplɒm/，
 词源是法语，字面意思是「垂直、稳当」。
 近义对照：
@@ -131,13 +131,13 @@ apnoea
 核心：底层是"没有呼吸"——睡眠中呼吸反复中断的那种病，最常见的是
 睡眠呼吸暂停，气道塌陷把气堵住，人被憋醒又睡着，一夜几十次，
 白天困得厉害。美式拼 apnea。
-① He was diagnosed with sleep apnoea.
-= 他被诊断为睡眠呼吸暂停。
+① He was diagnosed with sleep apnoea after his wife counted the pauses one night.
+= 他妻子有天夜里数了他停顿了多少次，之后他被诊断为睡眠呼吸暂停。
 sleep apnoea = 睡眠呼吸暂停
-② Apnoea fragments the night's sleep.
-= 呼吸暂停把整夜的睡眠打得七零八落。
-③ A mask keeps the airway open in apnoea.
-= 面罩能让呼吸暂停患者的气道保持通畅。
+② Apnoea fragments the night's sleep so thoroughly that eight hours feel like three.
+= 呼吸暂停把整夜睡眠打得七零八落，睡八个钟头像只睡了三个。
+③ A mask keeps the airway open in apnoea by holding it under slight pressure.
+= 面罩靠维持轻微正压让呼吸暂停患者的气道保持通畅。
 keep the airway open = 保持气道通畅
 注意拼写：
 apnoea = 呼吸暂停（英式）
@@ -146,13 +146,13 @@ apnea = 呼吸暂停（美式）
 apocalypse
 核心：两条线：宗教上的"世界末日"，
 和比喻义的"大灾难"。定冠词大写时指《启示录》。
-① They fear a nuclear apocalypse.
-= 他们担心核浩劫。
+① They fear a nuclear apocalypse rather less than their parents did, which worries historians.
+= 他们对核浩劫的恐惧不如父母那一辈，这让史学家忧心。
 nuclear apocalypse = 核末日
-② The film depicts an apocalypse.
-= 那部电影描绘了末日。
-③ The Apocalypse is the last book.
-= 《启示录》是最后一卷。
+② The film depicts an apocalypse in which nobody has time to explain what happened.
+= 那部电影描绘了一场末日，片中没人有工夫解释发生了什么。
+③ The Apocalypse is the last book of the Bible and the hardest to read straight through.
+= 《启示录》是《圣经》最后一卷，也是最难一口气读完的一卷。
 词族：
 apocalyptic = 末日的
 近义对照：
@@ -163,13 +163,13 @@ doomsday = 世界末日（口语）
 apocalyptic
 核心：指"末日般的、灾难性的"，
 也指预言灾难的口吻。语气很重。
-① The scene was apocalyptic.
-= 那个场面如同末日。
-② He paints an apocalyptic picture.
-= 他描绘了一幅灾难图景。
+① The scene was apocalyptic: no power, no water, and the bridge gone at both ends.
+= 那个场面如同末日：断电断水，桥的两头都塌了。
+② He paints an apocalyptic vision of the industry that its own figures do not support.
+= 他描绘了一幅行业的末日图景，而行业自己的数字并不支持它。
 apocalyptic vision = 末日图景
-③ Apocalyptic warnings filled the news.
-= 新闻里满是灾难预警。
+③ Apocalyptic warnings filled the news for a fortnight and then stopped altogether.
+= 末日式警告占了新闻两个星期，然后彻底销声匿迹。
 apocalyptic warning = 末日式警告
 词族：
 apocalypse = 末日
