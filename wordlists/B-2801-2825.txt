@@ -18,16 +18,16 @@ blizzard
 能见度极低，所以气象上定义 blizzard 看的是风速和能见度，
 不是降雪量。引申一支很常用：铺天盖地涌来的一堆东西，
 a blizzard of paperwork 是文件多得像下雪。可数。
-① A blizzard closed the roads.
-= 暴风雪封了路。
-② They were caught in a blizzard.
-= 他们困在了暴风雪里。
+① A blizzard closed the roads and stranded two coachloads of schoolchildren.
+= 暴风雪封了路，两大巴的学生被困住了。
+② They were caught in a blizzard on the ridge and dug in until first light.
+= 他们在山脊上遇上暴风雪，挖了雪洞待到天亮。
 be caught in = 被困于
-③ The office faced a blizzard of complaints.
-= 办公室被投诉淹没了。
+③ The office faced a blizzard of complaints after one line changed in the terms.
+= 条款里改了一行字，办公室就被投诉淹没了。
 a blizzard of = 铺天盖地的一堆
-④ Blizzard conditions are forecast.
-= 预报会有暴风雪天气。
+④ Blizzard conditions are forecast, which in practice means nobody goes anywhere.
+= 预报有暴风雪天气，实际意思就是谁也别想出门。
 构词：来历不明，十九世纪的美式说法
 注意别混：
 blizzard = 暴风雪（风大、能见度低）
@@ -38,17 +38,17 @@ bloat
 一支，名词 bloat 也指牲畜的鼓胀病；引申到抽象上是"臃肿"，说机构
 人浮于事、说软件功能堆得太多，那就是 bloatware 那个词的来路。
 动词及物不及物都行。
-① Salty food makes me bloat.
-= 吃咸的我就胀肚。
+① Salty food makes me bloat and I regret every crisp by about ten o'clock.
+= 吃咸的我就胀肚，到十点左右每一片薯片都后悔。
 不及物用法。
-② Her stomach was bloated after the meal.
-= 她饭后肚子胀鼓鼓的。
+② Her stomach was bloated after the meal and she loosened her belt at the table.
+= 她饭后肚子胀鼓鼓的，在桌边就把腰带松了。
 be bloated = 胀鼓鼓的
-③ Bloat killed two of the cattle.
-= 鼓胀病害死了两头牛。
+③ Bloat killed two of the cattle before the vet could get across the valley.
+= 兽医还没赶过山谷，鼓胀病就害死了两头牛。
 牲畜病那一支。
-④ The department has bloated over the years.
-= 那个部门这些年越来越臃肿。
+④ The department has bloated over the years without hiring a single extra nurse.
+= 那个部门这些年越来越臃肿，护士却一个也没多招。
 抽象那一支：机构变得庞杂低效。
 构词：古诺斯语 blautr 松软的
 词族：
@@ -59,16 +59,16 @@ bloated
 核心：两支。字面是胀鼓鼓的——吃撑了的肚子、泡涨了的尸体、
 灌满水的管子；比喻是"臃肿"，说机构人浮于事、说预算和软件堆得
 过大。两支都带不舒服的意味，没有一处是褒义。
-① I felt bloated after the meal.
-= 吃完我撑得难受。
+① I felt bloated after the meal and walked twice round the block to settle it.
+= 吃完我撑得难受，绕着街区走了两圈才缓过来。
 feel bloated = 觉得胀
-② Her ankles looked bloated.
-= 她脚踝看着肿。
-③ The company is bloated and slow.
-= 那家公司臃肿迟缓。
+② Her ankles looked bloated after eleven hours in a middle seat.
+= 在中间座上坐了十一个小时，她脚踝看着都肿了。
+③ The company is bloated and slow, and takes six weeks to answer a letter.
+= 那家公司臃肿迟缓，回一封信要六周。
 bloated = 臃肿的（机构、预算）
-④ They cut the bloated budget.
-= 他们砍掉了虚胖的预算。
+④ They cut the bloated budget and found the service ran exactly as before.
+= 他们砍掉虚胖的预算，发现业务照转不误。
 a bloated budget = 虚胖的预算
 构词：bloat 使胀 + -ed
 注意语用：两支都是贬义。
@@ -107,16 +107,16 @@ blob
 核心：一小团软而没定形的东西——一坨颜料、一滴酱、一块融化的
 蜡都可以说。它强调的是"没有形状"，所以远处看不清的一团模糊的
 影子也叫 blob。可数，口语。
-① A blob of paint fell on the floor.
-= 一坨颜料掉在了地上。
+① A blob of paint fell on the floor and dried before anyone noticed it.
+= 一坨颜料掉在地上，还没人发现就干了。
 a blob of = 一团、一坨
-② Add a blob of cream.
-= 加一坨奶油。
-③ The island was just a blob on the horizon.
-= 那座岛在地平线上只是一个模糊的点。
+② Add a blob of cream and serve the whole thing while it is still too hot.
+= 加一坨奶油，趁还烫嘴就端上去。
+③ The island was just a blob on the horizon for the first three hours.
+= 头三个小时里，那座岛在地平线上只是一个模糊的点。
 远处看不清的一团。
-④ Wipe that blob off your shirt.
-= 把衬衫上那块污渍擦掉。
+④ Wipe that blob off your shirt before the photographer gets here.
+= 摄影师来之前把衬衫上那块污渍擦掉。
 构词：拟声，模仿黏稠物落下的声音
 近义对照：
 blob = 一团（软、无形状）
@@ -320,16 +320,16 @@ blog
 核心：网上按时间倒序更新的个人文章栏目。名字是 web log 掐掉前面
 两个字母来的——原意就是"网络日志"。名词动词同形，写博客说
 blog about something。可数。
-① She keeps a travel blog.
-= 她写着一个旅行博客。
+① She keeps a travel blog that has outlasted two of the airlines in it.
+= 她写着一个旅行博客，里头提到的航空公司倒了两家，它还在。
 keep a blog = 经营一个博客
-② He blogged about the trip.
-= 他把那趟旅行写进了博客。
+② He blogged about the trip in instalments and never got past the second week.
+= 他把那趟旅行分几次写进博客，写到第二周就停了。
 blog about = 就某事写博客
-③ The post went up on their blog.
-= 那篇文章发在他们的博客上。
-④ She published a blog post about it.
-= 她就此事发了一篇博文。
+③ The post went up on their blog at midnight and was gone by breakfast.
+= 那篇文章半夜发在他们博客上，早饭前就撤了。
+④ She published a blog post about it and three newspapers ran the story next day.
+= 她就此事发了一篇博文，第二天三家报纸都做了报道。
 blog post = 一篇博文
 构词：web log 缩略成 blog
 词族：
