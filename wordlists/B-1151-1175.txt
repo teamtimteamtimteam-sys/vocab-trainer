@@ -2,13 +2,13 @@ anthropomorphic
 核心：底层是"给它安上人的形状"——把人的外形、情感或动机安到
 动物、神灵或器物身上。童话里会说话的兔子、说电脑"闹脾气"，
 都是这个。名词是 anthropomorphism。
-① The gods are anthropomorphic in this myth.
-= 那则神话里的神都是人形的。
+① The gods are anthropomorphic in this myth, quarrelling and sulking exactly as their worshippers did.
+= 那则神话里的神都是人形的，吵架赌气跟供奉他们的人一模一样。
 anthropomorphic gods = 人形的神
-② Cartoon animals are highly anthropomorphic.
-= 动画里的动物高度拟人化。
-③ Anthropomorphism makes science writing vivid but risky.
-= 拟人化让科普生动，也容易失准。
+② Cartoon animals are highly anthropomorphic, right down to the buttons on their coats.
+= 动画里的动物高度拟人化，连外套上的扣子都不落下。
+③ Anthropomorphism makes science writing vivid but risky, because a cell does not want anything.
+= 拟人化让科普生动，也容易失准，因为细胞并不「想要」任何东西。
 anthropomorphism = 拟人化
 注意语域：
 神话学、文学与科普写作里常见。
@@ -17,13 +17,13 @@ anthroposophy
 核心：奥地利人施泰纳创立的一套精神学说，主张人可以经由训练认识
 超感官的世界。它的实际影响主要落在三处：华德福教育、
 生物动力农业和一种辅助医疗。形容词是 anthroposophical。
-① Anthroposophy underpins Waldorf schools.
-= 华德福学校的底子是这套学说。
+① Anthroposophy underpins Waldorf schools, where reading is often not taught until seven.
+= 华德福学校的底子是这套学说，那里往往到七岁才教认字。
 underpin = 作为…的根基
-② She studied anthroposophy for years.
-= 她研究这套学说多年。
-③ The farm follows anthroposophical principles.
-= 那个农场按这套学说的原则耕作。
+② She studied anthroposophy for years and still could not summarise it in a sentence.
+= 她研究这套学说多年，仍然没法用一句话把它讲清楚。
+③ The farm follows anthroposophical principles and times its sowing by the moon.
+= 那个农场按这套学说的原则耕作，播种看月相定时。
 anthroposophical = 这套精神学说的
 注意语域：
 思想史与另类教育、另类农业语境。
@@ -136,13 +136,13 @@ antiretroviral = 抗逆转录病毒的
 antibiotic
 核心：指杀灭或抑制细菌的"抗生素"。
 关键一点：抗生素对病毒无效，感冒吃抗生素没用。
-① The doctor prescribed antibiotics.
-= 医生开了抗生素。
+① The doctor prescribed antibiotics and warned that stopping early is how resistance starts.
+= 医生开了抗生素，并警告说提前停药正是耐药的开端。
 prescribe antibiotics = 开抗生素
-② Antibiotics don't work on viruses.
-= 抗生素对病毒无效。
-③ Antibiotic resistance is rising.
-= 抗生素耐药性在上升。
+② Antibiotics don't work on viruses, so they will do nothing at all for your cold.
+= 抗生素对病毒无效，所以对你的感冒起不了任何作用。
+③ Antibiotic resistance is rising faster than new antibiotics are being found.
+= 抗生素耐药性上升的速度，快过新抗生素被发现的速度。
 antibiotic resistance = 抗生素耐药
 构词：anti- 抗 + bio 生命
 注意：抗生素只针对细菌，
@@ -151,14 +151,14 @@ antibiotic resistance = 抗生素耐药
 antibody
 核心：免疫系统产生的"抗体"，用来识别和中和病原体。
 可数，常用复数。
-① The body produces antibodies.
-= 人体会产生抗体。
+① The body produces antibodies shaped to fit one intruder and useless against the next.
+= 人体产生的抗体形状只配得上一种入侵者，对下一种就没用了。
 produce antibodies = 生成抗体
-② Antibody levels were tested.
-= 检测了抗体水平。
+② Antibody levels were tested three months apart and had halved in between.
+= 抗体水平隔三个月测了两次，中间掉了一半。
 antibody level = 抗体水平
-③ Antibodies fight infection.
-= 抗体对抗感染。
+③ Antibodies fight infection by tagging the invader so that other cells will destroy it.
+= 抗体对抗感染的办法是给入侵者做标记，好让别的细胞去消灭它。
 注意复数：
 antibody → antibodies
 配对词：
@@ -199,14 +199,14 @@ anticipate doing = 预料到要做
 anticipation
 核心：两条线：对好事的"期待"，和为将来做的"预先准备"。
 in anticipation of 是高频搭配。
-① There was great anticipation.
-= 大家满怀期待。
+① There was great anticipation in the hall, and the first note settled it in half a second.
+= 大厅里满是期待，第一个音在半秒之内就有了定论。
 great anticipation = 热切期待
-② They stocked up in anticipation of a shortage.
-= 他们预料短缺，提前囤货。
+② They stocked up in anticipation of a shortage that never came.
+= 他们预料短缺提前囤货，短缺却始终没来。
 in anticipation of = 预料到…而
-③ She waited with anticipation.
-= 她满心期待地等着。
+③ She waited with anticipation for a letter that she had already decided would say no.
+= 她满心期待地等一封信，而她心里早已认定那封信会说不。
 with anticipation = 满怀期待地
 词族：
 anticipate = 预料
@@ -217,12 +217,12 @@ expectation = 预期（不含准备）
 anticlimax
 核心：指铺垫很足却收尾平淡的"虎头蛇尾"，让人失望。
 文学和日常都用。
-① The ending was an anticlimax.
-= 那个结局虎头蛇尾。
-② After the buildup, it felt like an anticlimax.
-= 铺垫那么久，结果很扫兴。
-③ The match was an anticlimax.
-= 那场比赛让人失望。
+① The ending was an anticlimax after four hundred pages of building to it.
+= 铺垫了四百页，那个结局却虎头蛇尾。
+② After the buildup, it felt like an anticlimax to everyone except the man who won.
+= 铺垫那么久，除了赢的那个人，所有人都觉得扫兴。
+③ The match was an anticlimax, decided by a mistake in the second minute.
+= 那场比赛让人失望，第二分钟的一个失误就定了胜负。
 构词：anti- 反 + climax 高潮
 词族：
 anticlimactic = 虎头蛇尾的
@@ -232,13 +232,13 @@ climax = 高潮
 anticlockwise
 核心：英式说法，指"逆时针的、逆时针地"。
 美式说 counterclockwise。既是形容词也是副词。
-① Turn it anticlockwise.
-= 逆时针转动它。
+① Turn it anticlockwise to loosen it, which is the opposite of what most people try first.
+= 逆时针转动它才能松开，而多数人第一下都拧反。
 turn anticlockwise = 逆时针旋转
-② They walked anticlockwise.
-= 他们逆时针走。
-③ It's an anticlockwise rotation.
-= 那是逆时针旋转。
+② Traffic goes anticlockwise round the roundabout, and visitors get it wrong all summer.
+= 环岛上车辆逆时针行驶，整个夏天外来的人都搞错。
+③ The dial reads anticlockwise from the top, so the scale runs backwards to the eye.
+= 那个刻度盘从顶端起逆时针读数，所以看上去刻度是倒着走的。
 注意英美差别：
 英式 anticlockwise
 美式 counterclockwise
@@ -248,12 +248,12 @@ clockwise = 顺时针
 antics
 核心：指滑稽或胡闹的"举动、把戏"，永远用复数。
 常带一点无奈或批评。
-① His antics amused the crowd.
-= 他的滑稽举动逗乐了人群。
-② I'm tired of his antics.
-= 我受够了他那些花样。
-③ The dog's antics were funny.
-= 那条狗的滑稽动作很好笑。
+① His antics amused the crowd for about ten minutes and irritated them for the next forty.
+= 他的滑稽举动逗乐人群大概十分钟，接下来四十分钟让人生厌。
+② I'm tired of his antics and have stopped pretending they are funny.
+= 我受够了他那些花样，也不再装作觉得好笑。
+③ The dog's antics got him banned from the park, which took some doing.
+= 那条狗的滑稽动作害它被公园禁入，这可不容易做到。
 注意：antics 永远用复数。
 近义对照：
 antics = 滑稽胡闹（常带无奈）
@@ -300,13 +300,13 @@ antidepressant effect = 抗抑郁作用
 antidote
 核心：两条线：医学上的"解毒剂"，
 和比喻义的"解决办法、化解之道"。介词用 to。
-① There is no antidote to that poison.
-= 那种毒没有解药。
+① There is no antidote to that poison, only supportive treatment and time.
+= 那种毒没有解药，只能支持治疗，再等时间。
 an antidote to = …的解药
-② Exercise is an antidote to stress.
-= 运动是化解压力的良方。
-③ The antidote was administered quickly.
-= 解毒剂很快注射了。
+② Exercise is an antidote to stress that costs nothing and works on the day you do it.
+= 运动是化解压力的良方，不花钱，而且当天就见效。
+③ The antidote was administered quickly, and the boy was awake before his mother arrived.
+= 解毒剂很快注射了，孩子在母亲赶到之前就醒了。
 构词：anti- 抗 + dote 给予
 近义对照：
 antidote = 解毒剂；化解之道
@@ -317,12 +317,12 @@ Antifa
 核心：一批反法西斯活动者的统称，名字从 anti-fascist 缩来。
 它不是一个有名册和领导的组织，而是各自为战的松散网络，
 主张用直接行动对抗极右翼。是不是该算暴力团体，争议很大。
-① Antifa activists confronted the march.
-= 反法西斯活动者拦下了那场游行。
-② Antifa has no central leadership.
-= 这个圈子没有统一领导。
-③ Politicians argue over how to label Antifa.
-= 政界为该怎么定性它争论不休。
+① Antifa activists confronted the march and the police kept the two sides a street apart.
+= 反法西斯活动者拦下了那场游行，警方把双方隔开一条街。
+② Antifa has no central leadership, no membership list and no one who can speak for it.
+= 这个圈子没有统一领导，没有成员名册，也没有谁能代表它讲话。
+③ Politicians argue over how to label Antifa, and the argument itself has become the point.
+= 政界为该怎么定性它争论不休，争论本身已经成了重点。
 注意语域：
 政治新闻用语，两边都用它，立场截然不同。
 注意用法：
@@ -331,13 +331,13 @@ Antifa
 antifreeze
 核心：指加进汽车冷却系统防止结冰的"防冻液"。不可数。
 主要成分是乙二醇，有毒。
-① Add antifreeze in winter.
-= 冬天要加防冻液。
+① Add antifreeze in winter or you will crack the engine block on the first hard night.
+= 冬天要加防冻液，否则头一个严寒的夜晚就会把缸体冻裂。
 add antifreeze = 加防冻液
-② Antifreeze is toxic.
-= 防冻液有毒。
-③ Check the antifreeze level.
-= 检查防冻液液位。
+② Antifreeze is toxic and tastes sweet, which is why it kills so many cats.
+= 防冻液有毒，味道却是甜的，所以毒死过很多猫。
+③ Check the antifreeze level when the engine is cold, never just after a drive.
+= 检查防冻液液位要在发动机凉透时，千万别刚开完车就查。
 antifreeze level = 防冻液液位
 构词：anti- 防 + freeze 结冰
 相关词：
@@ -348,13 +348,13 @@ Antiguan
 核心：指"安提瓜的、安提瓜人"。安提瓜是加勒比海东部的岛国，
 全称安提瓜和巴布达，英联邦成员，经济靠旅游。注意它开头那四个
 字母跟 anti- 无关，只是碰巧。
-① She is Antiguan by birth.
-= 她生在安提瓜。
-② Antiguan beaches draw cruise ships.
-= 安提瓜的海滩招来邮轮。
+① She is Antiguan by birth and has lived in London since she was four.
+= 她生在安提瓜，四岁起就住在伦敦。
+② Antiguan beaches draw cruise ships that unload two thousand people in a morning.
+= 安提瓜的海滩招来邮轮，一上午就卸下两千人。
 Antiguan beach = 安提瓜海滩
-③ Antiguan cricket has a long history.
-= 安提瓜的板球有很长的历史。
+③ Antiguan cricket has a long history and has produced players the whole region claims.
+= 安提瓜的板球有很长的历史，出过整个地区都要认领的球员。
 注意用法：
 指国族时首字母大写。
 注意别混：
@@ -438,13 +438,13 @@ antioxidant properties = 抗氧化性质
 antipasto
 核心：意大利菜里的"前菜"——正餐之前那道拼盘，火腿、腌菜、
 橄榄、奶酪之类。字面就是"在正餐之前"。复数是 antipasti。
-① They shared a plate of antipasto.
-= 他们分吃了一盘前菜。
+① They shared a plate of antipasto and were full before the menu arrived.
+= 他们分吃了一盘前菜，菜单还没送来就已经饱了。
 a plate of antipasto = 一盘前菜
-② Antipasti arrive before the pasta.
-= 前菜在意面之前上。
-③ The antipasto included cured ham.
-= 那道前菜里有腌火腿。
+② Antipasti arrive before the pasta, and in a proper meal there are two more courses after that.
+= 前菜在意面之前上，正经一餐里意面之后还有两道。
+③ The antipasto included cured ham sliced thin enough to read a newspaper through.
+= 那道前菜里有腌火腿，切得薄到能透过它读报。
 cured ham = 腌火腿
 注意用法：
 复数把词尾改成 antipasti。
@@ -457,13 +457,13 @@ antipathetic
 核心：底层是"感情上抵触"。既可以说人对某事"打心底反感"，
 也可以说某事物"令人反感"，方向两头都通。名词是 antipathy。
 正式用语。
-① He is antipathetic to reform.
-= 他打心底抵触改革。
+① He is antipathetic to reform of any kind and says so before he has heard the proposal.
+= 他对任何形式的改革都打心底抵触，还没听完提案就先表了态。
 antipathetic to = 对…反感
-② The climate is antipathetic to vines.
-= 那种气候不适合葡萄。
-③ She found his manner antipathetic.
-= 她觉得他那副做派招人反感。
+② The climate is antipathetic to vines, though two growers keep trying anyway.
+= 那种气候不适合葡萄，可还是有两个种植者一直在试。
+③ She found his manner antipathetic long before she could explain why.
+= 她觉得他那副做派招人反感，早在她能说出理由之前就这样了。
 注意语域：
 正式书面语，日常说 hostile 或 unsympathetic。
 近义对照：
@@ -473,14 +473,14 @@ sympathetic = 有好感的（反义）
 antipathy
 核心：指本能的"反感、厌恶"，正式。介词用 towards 或 to。
 不可数为主。
-① He feels antipathy towards bureaucracy.
-= 他对官僚作风深感反感。
+① He feels antipathy towards bureaucracy of a kind that thirty years in it has only sharpened.
+= 他对官僚作风深感反感，在其中待了三十年只让这反感更锐利。
 antipathy towards = 对…的反感
-② There is mutual antipathy.
-= 双方互有恶感。
+② There is mutual antipathy between the two families and nobody alive remembers the cause.
+= 那两家人互有恶感，起因如今没有一个在世的人记得。
 mutual antipathy = 相互反感
-③ Her antipathy was obvious.
-= 她的反感显而易见。
+③ Her antipathy was obvious to everyone in the room except the man addressing her.
+= 屋里除了正对她说话的那个人，所有人都看得出她的反感。
 构词：anti- 反 + path 感情
 反义词：
 sympathy = 同情、赞同

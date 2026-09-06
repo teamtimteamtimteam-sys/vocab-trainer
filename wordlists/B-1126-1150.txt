@@ -367,14 +367,14 @@ anthropocentric
 核心：底层是"把人放在正中间"——看世界时以人的需要和价值为唯一
 尺度，别的物种和自然只按对人有没有用来估价。环境伦理里这是个
 被批评的立场，那套观念叫 anthropocentrism。
-① The policy is narrowly anthropocentric.
-= 那项政策狭隘地以人为中心。
+① The policy is narrowly anthropocentric and counts a forest only by the timber in it.
+= 那项政策狭隘地以人为中心，算一片森林只算得出里面有多少木材。
 narrowly anthropocentric = 狭隘的人类中心
-② Anthropocentric thinking undervalues ecosystems.
-= 人类中心的思路低估了生态系统。
+② Anthropocentric thinking undervalues ecosystems that do nothing visible for anybody.
+= 人类中心的思路低估了那些看不出对谁有什么用处的生态系统。
 anthropocentric thinking = 人类中心式思维
-③ Critics attack the anthropocentrism of the report.
-= 批评者抨击那份报告的人类中心主义。
+③ Critics attack the anthropocentrism of the report, which never asks what the river needs.
+= 批评者抨击那份报告的人类中心主义，它从没问过河流需要什么。
 anthropocentrism = 人类中心主义
 注意语域：
 环境伦理与哲学用语，多带批评意味。
@@ -398,13 +398,13 @@ anthropoid features = 类人特征
 anthropologist
 核心：指研究人类社会与文化的"人类学家"。
 常做田野调查（fieldwork）。
-① The anthropologist lived with the tribe.
-= 那位人类学家和部落住在一起。
-② Anthropologists study kinship.
-= 人类学家研究亲属制度。
+① The anthropologist lived with the tribe for two years and learned the language before asking anything.
+= 那位人类学家和部落住了两年，先学会了语言才开始发问。
+② Anthropologists study kinship because who counts as family explains almost everything else.
+= 人类学家研究亲属制度，因为谁算家人几乎能解释其余的一切。
 study kinship = 研究亲属关系
-③ She trained as an anthropologist.
-= 她受训成为人类学家。
+③ She trained as an anthropologist and now works for a company that sells telephones.
+= 她受训成为人类学家，如今在一家卖电话的公司上班。
 词族：
 anthropology = 人类学
 anthropological = 人类学的
@@ -413,12 +413,12 @@ anthropological = 人类学的
 anthropology
 核心：指人类学——研究人类的起源、社会与文化的学科。
 不可数。分文化人类学和体质人类学两大支。
-① She studies anthropology.
-= 她学人类学。
-② Anthropology examines culture.
-= 人类学考察文化。
-③ Cultural anthropology is her field.
-= 文化人类学是她的领域。
+① Anthropology begins with the assumption that no way of living is self-evidently normal.
+= 人类学的出发点是：没有哪一种生活方式天然就是正常的。
+② Anthropology examines culture from the inside, which is why fieldwork takes years rather than weeks.
+= 人类学从内部考察文化，所以田野调查要花上几年而不是几周。
+③ Cultural anthropology asks what people mean, while the physical branch asks what they are made of.
+= 文化人类学问的是人们的意思，体质那一支问的是人由什么构成。
 cultural anthropology = 文化人类学
 词族：
 anthropologist = 人类学家
