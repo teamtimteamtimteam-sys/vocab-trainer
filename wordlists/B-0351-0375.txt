@@ -1,24 +1,24 @@
 adjective
 核心：语法术语，指形容词——修饰名词的词。和 adverb（副词，修饰
 动词形容词）配对记。形容词形式 adjectival。
-① "Big" is an adjective.
-= 「big」是形容词。
-② Adjectives describe nouns.
-= 形容词修饰名词。
-③ Use fewer adjectives.
-= 少用点形容词。
+① "Big" is an adjective, and so is every other word on that list.
+= 「big」是形容词，那张单子上其余的词也都是。
+② Adjectives describe nouns, but too many of them describe the writer instead.
+= 形容词修饰名词，可用得太多就成了在描写作者本人。
+③ Use fewer adjectives and let the verbs carry the sentence.
+= 少用点形容词，让动词把句子撑起来。
 常用搭配：
 comparative adjective = 比较级形容词
 possessive adjective = 物主形容词
-④ It has an adjectival function.
-= 它起形容词作用。
+④ It has an adjectival function even though it looks like a noun.
+= 它虽然长得像名词，起的却是形容词的作用。
 adjectival = 形容词性的
 词性对照：
 adjective 形容词 / adverb 副词
 noun 名词 / verb 动词
 preposition 介词 / conjunction 连词
-⑤ The noun is used adjectivally here.
-= 这里那个名词当形容词用。
+⑤ The noun is used adjectivally here, which is why there is no article.
+= 这里那个名词当形容词用，所以前面没有冠词。
 adjectivally = 作形容词地
 
 adjoin
@@ -262,15 +262,15 @@ adjutant
 核心：底层是拉丁语的"从旁协助"。协助指挥官办理行政事务的军官就是
 副官；那种叫 adjutant stork 的秃鹳得名也是这个意思——它常跟在人和
 兽群后头捡食，那副随行的架势像极了副官。
-① He served as adjutant to the general.
-= 他给将军当副官。
+① He served as adjutant to the general for two years and never fired a shot.
+= 他给将军当了两年副官，一枪没放过。
 adjutant to = …的副官
-② The adjutant handled the paperwork.
-= 副官处理了文书工作。
-③ She was promoted to adjutant.
-= 她被提升为副官。
-④ The adjutant stork wades in shallow water.
-= 秃鹳在浅水里涉行。
+② The adjutant handled the paperwork that kept three battalions supplied.
+= 副官处理的文书工作维持着三个营的补给。
+③ She was promoted to adjutant at an age nobody in the mess remembered.
+= 她升任副官时年纪之轻，食堂里谁也想不起有过先例。
+④ The adjutant stork wades in shallow water and follows the herds for scraps.
+= 秃鹳在浅水里涉行，跟着兽群捡食残渣。
 adjutant stork = 秃鹳
 注意语域：
 军事术语；鸟名那个义项限于动物学。
@@ -278,8 +278,8 @@ adjutant stork = 秃鹳
 adjutant = 副官（军中行政）
 aide = 助手（泛指随员）
 deputy = 副职（可代行职权）
-⑤ The adjutant general signed the order.
-= 军务局长签署了那道命令。
+⑤ The adjutant general signed the order without reading past the first page.
+= 军务局长签了那道命令，第一页之后就没再看。
 adjutant general = 军务局长（美军高阶职务）
 
 adman
