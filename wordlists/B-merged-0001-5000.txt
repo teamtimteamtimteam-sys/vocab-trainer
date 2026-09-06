@@ -5905,13 +5905,13 @@ red herring = 转移话题（岔开焦点）
 ad infinitum
 核心：拉丁语短语，作副词，意思是"无限地、没完没了地"，放在动词
 或整句之后。多半带点不耐烦的口气，暗示重复得让人受不了。
-① The list goes on ad infinitum.
-= 那份清单没完没了。
+① The list goes on ad infinitum and nobody has read past the first page.
+= 那份清单没完没了，没人读过第一页之后的内容。
 go on ad infinitum = 没完没了地下去
-② He repeated the excuse ad infinitum.
-= 那个借口他翻来覆去地讲。
-③ The pattern can be extended ad infinitum.
-= 这个图案可以无限延伸下去。
+② He repeated the excuse ad infinitum until even his allies stopped nodding.
+= 那个借口他翻来覆去地讲，连自己人都不点头了。
+③ The pattern can be extended ad infinitum in any of six directions.
+= 这个图案可以朝六个方向中的任何一个无限延伸。
 extend ad infinitum = 无限延伸
 注意语序：
 只放在动词或整句之后，不放前面。
@@ -5923,13 +5923,13 @@ for ever = 永远（时间上）
 ad lib
 核心：指演出或讲话时"即兴发挥、临时现编"。
 可作动词、形容词、副词。也写作 ad-lib。
-① He ad libbed the whole speech.
-= 那篇讲话他全是即兴的。
-② She made an ad lib remark.
-= 她即兴说了句话。
+① He ad libbed the whole speech after leaving his notes in the taxi.
+= 他把讲稿落在出租车上，整篇讲话全是即兴的。
+② She made an ad lib remark that ended up in every review of the show.
+= 她即兴说了句话，结果每篇剧评都引了。
 ad lib remark = 即兴发言
-③ The actor spoke ad lib.
-= 那名演员是现编台词。
+③ The actor spoke ad lib for two minutes while a door was being fixed.
+= 有扇门在修，那名演员现编台词撑了两分钟。
 注意拼写：
 ad lib / ad-lib 都可以
 词源：拉丁语 ad libitum（随意）
@@ -5941,14 +5941,14 @@ wing it = 临场应付（口语）
 ad nauseam
 核心：拉丁语短语，作副词，字面是"到令人作呕的程度"，指同一件事
 说得太多、重复到让人厌烦。永远带贬义。
-① He tells that story ad nauseam.
-= 那个故事他讲到人人都腻了。
+① He tells that story ad nauseam and it gets longer every year.
+= 那个故事他讲到人人都腻了，而且一年比一年长。
 tell ad nauseam = 反复讲到令人生厌
-② The topic was discussed ad nauseam.
-= 那个话题被讨论得没完没了。
+② The topic was discussed ad nauseam and voted on without a single change.
+= 那个话题被讨论得没完没了，表决时一字未改。
 discuss ad nauseam = 讨论到令人厌烦
-③ She repeats the slogan ad nauseam.
-= 她把那句口号念叨个不停。
+③ She repeats the slogan ad nauseam and cannot say what it means.
+= 她把那句口号念叨个不停，却说不出它是什么意思。
 注意语气：
 一律贬义，说明听的人已经受够了。
 近义对照：
@@ -5959,14 +5959,14 @@ over and over = 一遍又一遍（口语）
 ad valorem
 核心：拉丁语短语，税务与贸易术语，指"按价计征的"——税额按货物
 价值的百分比算，而不是按数量或重量算。作形容词也作副词。
-① The country levies an ad valorem tax.
-= 该国征收从价税。
+① The country levies an ad valorem tax that falls hardest on cheap goods.
+= 该国征收从价税，负担最重的反倒是廉价商品。
 ad valorem tax = 从价税
-② Duty is charged ad valorem.
-= 关税按货值计征。
+② Duty is charged ad valorem, so the invoice matters more than the weight.
+= 关税按货值计征，所以发票比重量要紧。
 charge ad valorem = 按价计征
-③ Ad valorem duties rise with the price.
-= 从价关税随价格上涨。
+③ Ad valorem duties rise with the price and fall when the market turns.
+= 从价关税随价格上涨，行情一转又跟着降。
 ad valorem duty = 从价关税
 注意语域：
 税法与国际贸易术语。
@@ -5977,13 +5977,13 @@ specific duty = 从量税（按数量或重量）
 adage
 核心：指流传已久的"格言、老话"，通常讲的是常识性道理。
 常见搭配 the old adage that…。
-① The old adage still holds.
-= 那句老话依然成立。
+① The old adage still holds, though nobody can say who first said it.
+= 那句老话依然成立，只是谁也说不出最早是谁讲的。
 the old adage = 那句古训
-② There's an adage about haste.
-= 有句关于操之过急的老话。
-③ He quoted an adage.
-= 他引了句格言。
+② There's an adage about haste that this project has proved twice over.
+= 有句关于操之过急的老话，这个项目验证了两遍。
+③ He quoted an adage at the end of every letter he ever wrote.
+= 他写的每封信结尾都要引一句格言。
 quote an adage = 引用格言
 近义对照：
 adage = 老话、格言（流传已久）
@@ -5994,14 +5994,14 @@ saying = 俗话（通用）
 adagio
 核心：音乐术语，意大利语借词，指"慢板"。作副词或形容词说明演奏
 速度要慢，作名词指一段慢板乐章。只在音乐语境里用。
-① The second movement is marked adagio.
-= 第二乐章标记为慢板。
+① The second movement is marked adagio and lasts longer than the other three.
+= 第二乐章标记为慢板，比其余三个乐章加起来还长。
 marked adagio = 标记为慢板
-② She played the passage adagio.
-= 她把那一段弹成了慢板。
+② She played the passage adagio against the conductor's explicit instruction.
+= 指挥明确交代过，她还是把那一段弹成了慢板。
 这里作副词，说明速度。
-③ The adagio moved the audience to tears.
-= 那段慢板让听众落泪。
+③ The adagio moved the audience to tears and the encore made them laugh.
+= 那段慢板让听众落泪，返场曲又把他们逗笑了。
 这里作名词，指乐章。
 注意语域：
 音乐术语，日常口语不用。
@@ -6057,14 +6057,14 @@ adaptive behaviour = 适应性行为
 adaptable
 核心：指人或物"适应力强、易于改动的"。说人是很高的褒奖，
 职场里是核心素质词。介词用 to。
-① She is highly adaptable.
-= 她适应力很强。
+① She is highly adaptable and has done four unrelated jobs in six years.
+= 她适应力很强，六年里做过四份毫不相干的工作。
 highly adaptable = 适应力极强
-② The design is adaptable to any space.
-= 那个设计能适配任何空间。
+② The design is adaptable to any space with a ceiling over two metres.
+= 只要层高超过两米，那个设计什么空间都能适配。
 adaptable to = 可适应于
-③ Adaptable staff are valued.
-= 能随机应变的员工很受重视。
+③ Adaptable staff are valued right up until somebody has to define the role.
+= 能随机应变的员工很受重视，直到有人要给这个岗位下定义。
 词族：
 adapt = 适应
 adaptability = 适应力
@@ -6095,13 +6095,13 @@ adapt = 适应、改编
 adapter
 核心：两条线：电源或接口的"转接头"（最常用），
 和把作品"改编成另一种形式的人"。也拼作 adaptor。
-① I need a travel adapter.
-= 我需要个旅行转接头。
+① I need a travel adapter and the shop at the airport charges four times the price.
+= 我需要个旅行转接头，机场那家店卖四倍的价钱。
 travel adapter = 旅行转换插头
-② Use a USB adapter.
-= 用一个 USB 转接口。
-③ She was the adapter of the novel.
-= 那部小说是她改编的。
+② Use a USB adapter, because the newer machine has no other socket at all.
+= 用一个 USB 转接口，新机器上别的插口一个都没有。
+③ She was the adapter of the novel and cut two hundred pages without complaint.
+= 那部小说是她改编的，删掉两百页也没有怨言。
 注意拼写：
 adapter / adaptor 都可以，
 英式电器语境常写 adaptor。
@@ -6153,12 +6153,12 @@ additive = 添加剂
 addendum
 核心：指文件末尾追加的"附录、补充说明"，正式用语。
 注意复数是拉丁式的 addenda。
-① An addendum was attached.
-= 附上了一份补充说明。
-② See the addendum for details.
-= 详见附录。
-③ The contract has two addenda.
-= 那份合同有两个附件。
+① An addendum was attached the following week and contradicted clause four.
+= 第二周附上了一份补充说明，跟第四条自相矛盾。
+② See the addendum for details that would not fit into the main table.
+= 主表里放不下的细节，详见附录。
+③ The contract has two addenda and both are longer than the contract itself.
+= 那份合同有两个附件，每个都比合同本身长。
 注意复数：
 addendum → addenda
 近义对照：
@@ -6169,12 +6169,12 @@ supplement = 增补（单独成篇）
 adder
 核心：一种毒蛇，即蝰蛇，是英国唯一的本土毒蛇，背上有明显的锯齿状
 花纹。在北美 adder 还泛指几种无毒的小蛇，两地所指不同。
-① An adder bit the dog.
-= 一条蝰蛇咬了那条狗。
-② Adders are rare in cities.
-= 城市里很少见到蝰蛇。
-③ The adder has a zigzag pattern on its back.
-= 蝰蛇背上有锯齿形花纹。
+① An adder bit the dog on the nose and the vet had antivenom in stock.
+= 一条蝰蛇咬了那条狗的鼻子，兽医那儿正好有抗蛇毒血清。
+② Adders are rare in cities and turn up on heathland at the edge of them.
+= 城市里很少见到蝰蛇，城边的荒原上倒有。
+③ The adder has a zigzag pattern on its back that is visible from some way off.
+= 蝰蛇背上有锯齿形花纹，隔一段距离就看得见。
 zigzag pattern = 锯齿形花纹
 常用搭配：
 adder bite = 蝰蛇咬伤
@@ -6209,14 +6209,14 @@ addictive = 使人上瘾的
 addicted
 核心：指人"对某物上瘾的"，介词用 to，后接名词或 doing。
 医学义之外，口语里也半开玩笑地用。
-① He is addicted to gambling.
-= 他赌博成瘾。
+① He is addicted to gambling and has told his family so three separate times.
+= 他赌博成瘾，跟家里坦白过三次。
 be addicted to = 对…上瘾
-② She's addicted to that show.
-= 她迷那部剧迷得不行。
+② She's addicted to that show and has watched the last season twice.
+= 她迷那部剧迷得不行，最后一季看了两遍。
 口语夸张用法
-③ Patients addicted to painkillers need help.
-= 止痛药成瘾的患者需要帮助。
+③ Patients addicted to painkillers need help that the waiting list cannot provide.
+= 止痛药成瘾的患者需要帮助，而排队名单给不了。
 词族：
 addict = 成瘾者
 addiction = 瘾
@@ -6285,12 +6285,12 @@ addition reaction = 加成反应（化学）
 additional
 核心：指"在原有基础上另加的"，比 extra 正式，多用于书面和商务。
 只作定语，不作表语。
-① There will be an additional charge.
-= 会有额外费用。
-② We need additional information.
-= 我们需要补充信息。
-③ Additional staff were hired.
-= 又雇了些员工。
+① There will be an additional charge for anything delivered above the ground floor.
+= 凡是送到一楼以上的，都要另收费用。
+② We need additional information before the file can go any further.
+= 卷宗要往下走，我们需要补充信息。
+③ Additional staff were hired in October and let go again in January.
+= 十月又雇了些员工，到一月又都辞退了。
 副词形式：
 additionally = 此外
 近义词：
@@ -6300,14 +6300,14 @@ extra 额外的（口语）
 additive
 核心：名词指食品或燃料里的"添加剂"，形容词指"添加的、累加的"。
 食品标签上的 additive-free 是常见卖点。
-① The drink contains no additives.
-= 那种饮料不含添加剂。
+① The drink contains no additives and separates if you leave it standing.
+= 那种饮料不含添加剂，放着不动就会分层。
 food additive = 食品添加剂
-② It's additive-free.
-= 那是无添加的。
+② It's additive-free and costs about a third more than the ordinary sort.
+= 那是无添加的，比普通那种贵三分之一左右。
 additive-free = 不含添加剂的
-③ The effects are additive.
-= 那些效应是叠加的。
+③ The effects are additive, so two small doses do the work of one large one.
+= 那些效应是叠加的，两小剂顶得上一大剂。
 additive effect = 叠加效应
 词族：
 add = 添加
@@ -6318,13 +6318,13 @@ synergistic = 协同增效的
 addled
 核心：指头脑"糊涂的、混乱的"，也指蛋"坏掉的"。
 现在多见于 addled brain 这类搭配，略带戏谑。
-① His addled brain couldn't cope.
-= 他晕乎乎的脑子应付不来。
+① His addled brain couldn't cope with a form that asked the same thing twice.
+= 一张同一件事问两遍的表格，他晕乎乎的脑子应付不来。
 addled brain = 糊涂的脑子
-② She felt addled by lack of sleep.
-= 睡眠不足让她昏昏沉沉。
-③ The eggs were addled.
-= 那些蛋坏了。
+② She felt addled by lack of sleep and read the same paragraph four times.
+= 睡眠不足让她昏昏沉沉，同一段读了四遍。
+③ The eggs were addled and the smell reached the far end of the yard.
+= 那些蛋坏了，味道飘到院子那一头。
 词族：
 addle = 使糊涂
 近义对照：
@@ -6369,12 +6369,12 @@ addressable = 可寻址的、可触达的
 addressee
 核心：指信件、邮件、包裹的"收件人"，正式用语。
 和 sender（寄件人）配对。
-① The addressee has moved.
-= 收件人已搬走。
-② Return to sender if the addressee is unknown.
-= 收件人不明则退回寄件人。
-③ Write the addressee's name clearly.
-= 收件人姓名要写清楚。
+① The addressee has moved and left no forwarding address with anyone.
+= 收件人已搬走，没给任何人留下转寄地址。
+② Return to sender if the addressee is unknown at the given address.
+= 若所填地址查无此收件人，请退回寄件人。
+③ Write the addressee's name clearly, because the machine reads it first.
+= 收件人姓名要写清楚，机器先读的就是它。
 配对词：
 addressee = 收件人
 sender = 寄件人
@@ -6385,13 +6385,13 @@ addresser = 发信人（罕用）
 adduce
 核心：正式动词，指"举出证据或理由来支持某个说法"，几乎只用在法律
 和学术论证里。宾语常是证据、理由、例子这几类词。
-① He adduced evidence to support his claim.
-= 他举出证据支持自己的主张。
+① He adduced evidence to support his claim and none of it was contemporaneous.
+= 他举出证据支持自己的主张，可没有一件是当时留下的。
 adduce evidence = 举证
-② Several reasons were adduced.
-= 有人举出了若干理由。
-③ She adduced three examples from history.
-= 她举了三个历史上的例子。
+② Several reasons were adduced and the court accepted exactly one of them.
+= 有人举出了若干理由，法庭只采纳了其中一条。
+③ She adduced three examples from history and a fourth from her own department.
+= 她举了三个历史上的例子，又加了一个来自自己部门的。
 adduce examples = 举例
 注意语域：
 正式书面语，口语用别的说法。
@@ -6403,14 +6403,14 @@ present = 出示（通用）
 adductor
 核心：解剖学名词，指"内收肌"——把肢体拉向身体中线的那组肌肉，
 大腿内侧的那几条最常被提到。运动医学和健身语境里高频。
-① He pulled an adductor.
-= 他拉伤了内收肌。
+① He pulled an adductor in the warm-up and never got onto the pitch.
+= 他热身时拉伤了内收肌，压根没上场。
 pull an adductor = 拉伤内收肌
-② The adductor muscles run along the inner thigh.
-= 内收肌沿着大腿内侧走行。
+② The adductor muscles run along the inner thigh and are easily overlooked.
+= 内收肌沿着大腿内侧走行，很容易被忽略。
 adductor muscle = 内收肌
-③ She is recovering from an adductor strain.
-= 她正在从内收肌拉伤中恢复。
+③ She is recovering from an adductor strain and swims instead of running.
+= 她正在从内收肌拉伤中恢复，改游泳不跑步。
 adductor strain = 内收肌拉伤
 注意语域：
 解剖学与运动医学术语。
@@ -6421,12 +6421,12 @@ abductor = 外展肌（往外侧拉）
 addy
 核心：极口语的缩略说法，指"地址"，多半是电子邮箱地址，也可指住址。
 只出现在短信和网聊里，正式场合一律写全。
-① What's your addy?
-= 你邮箱是多少？
-② I sent it to your old addy.
-= 我发到你旧邮箱了。
-③ Text me your addy.
-= 把你地址发我。
+① What's your addy? I will send the photographs over tonight.
+= 你邮箱是多少？照片我今晚发过去。
+② I sent it to your old addy and it bounced back within a minute.
+= 我发到你旧邮箱了，一分钟就退了回来。
+③ Text me your addy and I will put the parcel in the post tomorrow.
+= 把你地址发我，包裹我明天寄。
 注意语域：
 非正式俚语，书面和正式场合不用。
 词源：
@@ -6480,13 +6480,13 @@ adeptly = 熟练地、巧妙地
 adequacy
 核心：指"是否够用"这个性质，不可数。多用于评估资金、人手、
 供给、防护是否达标。
-① They questioned the adequacy of funding.
-= 他们质疑资金是否够用。
+① They questioned the adequacy of funding for a service used by everyone.
+= 一项人人都在用的服务，他们质疑它的资金是否够用。
 the adequacy of = …是否充足
-② Test the adequacy of the safeguards.
-= 检验那些保障措施是否到位。
-③ Adequacy is not excellence.
-= 够用不等于优秀。
+② Test the adequacy of the safeguards before anybody relies on them.
+= 在有人依赖那些保障措施之前，先检验它们是否到位。
+③ Adequacy is not excellence, and the report is careful never to confuse them.
+= 够用不等于优秀，那份报告小心地不把两者混为一谈。
 词族：
 adequate = 足够的
 反义词：
@@ -6504,14 +6504,14 @@ be adequate for = 足够应付
 adequately
 核心：指"充分地、够用地"，但只是达到最低标准。
 常修饰 funded、prepared、trained、protected。
-① The team is adequately trained.
-= 那个团队受过足够训练。
+① The team is adequately trained for everything except the thing that happened.
+= 除了真正发生的那件事，那个团队什么都受过足够训练。
 adequately trained = 训练达标
-② It's not adequately funded.
-= 那笔经费不够。
+② It's not adequately funded and has not been since the grant ended in 2019.
+= 那笔经费不够，二零一九年拨款结束后就一直不够。
 adequately funded = 经费充足
-③ She explained it adequately.
-= 她解释得还算清楚。
+③ She explained it adequately and nobody in the room asked a single question.
+= 她解释得还算清楚，屋里没一个人提问。
 词族：
 adequate = 足够的
 adequacy = 充分性
@@ -6537,14 +6537,14 @@ adhere to = 遵守
 adherence
 核心：指"遵守、恪守"，正式用语。介词用 to。
 医学上还特指患者"按医嘱服药"（treatment adherence）。
-① Strict adherence to rules is required.
-= 必须严格遵守规则。
+① Strict adherence to rules is required and audited without warning twice a year.
+= 必须严格遵守规则，一年两次不打招呼的抽查。
 adherence to = 对…的遵守
-② Treatment adherence improves outcomes.
-= 遵医嘱能改善疗效。
+② Treatment adherence improves outcomes more than any change of drug does.
+= 遵医嘱对疗效的改善，超过任何一次换药。
 treatment adherence = 治疗依从性
-③ He showed rigid adherence to tradition.
-= 他刻板地恪守传统。
+③ He showed rigid adherence to tradition in a house that had electricity.
+= 在一栋通了电的房子里，他刻板地恪守着传统。
 词族：
 adhere = 遵守；粘附
 adherent = 拥护者
@@ -6556,14 +6556,14 @@ observance = 遵行（规矩、节日）
 adherent
 核心：指某个主张、宗教、政党的"拥护者、信徒"。
 比 supporter 更强调认同其理念。介词用 of。
-① He is an adherent of the theory.
-= 他是那个理论的信奉者。
+① He is an adherent of the theory and one of about nine left in the field.
+= 他是那个理论的信奉者，那个领域里大约只剩九个了。
 an adherent of = …的拥护者
-② The movement gained adherents.
-= 那场运动获得了追随者。
+② The movement gained adherents faster than it could find rooms to meet in.
+= 那场运动招来的追随者，比它能找到的聚会场地增长得快。
 gain adherents = 赢得拥护者
-③ Adherents follow strict rules.
-= 信徒遵守严格的戒律。
+③ Adherents follow strict rules and disagree bitterly about which ones matter.
+= 信徒遵守严格的戒律，却为哪几条要紧吵得不可开交。
 词族：
 adhere = 遵守
 adherence = 恪守
@@ -6575,13 +6575,13 @@ supporter = 支持者（立场）
 adhesion
 核心：两条线：物理上的"附着力"，和医学上的"粘连"
 （手术后组织异常黏在一起）。
-① The adhesion of the paint is poor.
-= 那种漆附着力差。
-② Surgical adhesions can cause pain.
-= 手术粘连可能引起疼痛。
+① The adhesion of the paint is poor and it lifted off in sheets by spring.
+= 那种漆附着力差，到春天就成片翘起。
+② Surgical adhesions can cause pain years after the operation itself.
+= 手术粘连可能在术后多年才引起疼痛。
 surgical adhesion = 术后粘连
-③ Adhesion depends on surface texture.
-= 附着力取决于表面质地。
+③ Adhesion depends on surface texture far more than on the product you choose.
+= 附着力取决于表面质地，远甚于你选哪种产品。
 词族：
 adhere = 粘附
 adhesive = 粘合剂
@@ -6592,16 +6592,16 @@ adhesive = 粘合剂（物质）
 adhesive
 核心：既是名词"粘合剂"，也是形容词"有粘性的"。比 glue 正式，
 多用于技术和产品说明。
-① Use a strong adhesive.
-= 用强力粘合剂。
+① Use a strong adhesive and clamp the joint overnight before you touch it.
+= 用强力粘合剂，接缝夹紧过夜再动。
 常用搭配：
 strong adhesive = 强力胶
 adhesive label = 不干胶标签
-② It's adhesive tape.
-= 那是胶带。
+② It's adhesive tape and will take the paint off if you leave it a week.
+= 那是胶带，贴一周会把漆一起撕下来。
 adhesive tape = 胶带
-③ The label has an adhesive backing.
-= 那个标签背面有胶。
+③ The label has an adhesive backing that never quite comes off the glass.
+= 那个标签背面有胶，怎么也从玻璃上撕不干净。
 词族：
 adhere = 粘附
 adhesion = 粘附力
@@ -6633,14 +6633,14 @@ goodbye = 再见（通用）
 adipose
 核心：医学与生物学的形容词，指"脂肪的、含脂肪的"，最常见的搭配是
 adipose tissue。日常场合用别的说法，不用这个词。
-① Adipose tissue stores energy.
-= 脂肪组织储存能量。
+① Adipose tissue stores energy and releases it far more slowly than sugar does.
+= 脂肪组织储存能量，释放起来比糖慢得多。
 adipose tissue = 脂肪组织
-② The scan measured adipose deposits.
-= 扫描测量了脂肪堆积。
+② The scan measured adipose deposits around organs rather than under the skin.
+= 扫描测量的是器官周围而非皮下的脂肪堆积。
 adipose deposit = 脂肪沉积
-③ Brown adipose tissue burns calories.
-= 棕色脂肪组织会消耗热量。
+③ Brown adipose tissue burns calories and is more plentiful in babies.
+= 棕色脂肪组织会消耗热量，婴儿身上更多。
 注意语域：
 医学、生物学术语，口语不用。
 近义对照：
@@ -6685,12 +6685,12 @@ adjectivally = 作形容词地
 adjoin
 核心：指两块地或两个房间"紧邻、相连"，正式用语。及物。
 比 be next to 书面。
-① The garden adjoins the field.
-= 那个花园与田地相连。
-② Their office adjoins ours.
-= 他们的办公室挨着我们的。
-③ Two adjoining rooms were booked.
-= 订了两间相邻的房。
+① The garden adjoins the field and the boundary has moved twice in a century.
+= 那个花园与田地相连，界线一百年里挪过两回。
+② Their office adjoins ours and we hear every telephone call they take.
+= 他们的办公室挨着我们的，他们接的每通电话我们都听得见。
+③ The two adjoining farms were sold together for the first time since 1880.
+= 那两处相邻的农场自一八八零年以来第一次一起出售。
 词族：
 adjoining = 毗邻的
 近义对照：
@@ -6701,14 +6701,14 @@ border = 接壤（国界）
 adjoining
 核心：指"紧挨着的、相通的"，只作定语。酒店订房时的
 adjoining rooms 指两间有内门相通的房。
-① We booked adjoining rooms.
-= 我们订了两间相连的房。
+① We booked adjoining rooms and the door between them was locked all week.
+= 我们订了两间相连的房，中间那道门整周都锁着。
 adjoining rooms = 相邻相通的房间
-② The adjoining property is for sale.
-= 隔壁那处房产在出售。
+② The adjoining property is for sale and has been on the market since March.
+= 隔壁那处房产在出售，三月起就挂着。
 adjoining property = 毗邻地产
-③ They share an adjoining wall.
-= 他们共用一堵墙。
+③ They share an adjoining wall and neither of them has ever mentioned the noise.
+= 他们共用一堵墙，噪音的事两边都没提过。
 词族：
 adjoin = 毗连
 注意区别：
@@ -6743,13 +6743,13 @@ adjourn to = 转移到某处继续（戏谑）
 adjournment
 核心：指会议或庭审的"休会、延期"，也指休会的那段时间。
 正式用语，议会和法庭报道里高频。
-① The adjournment lasted an hour.
-= 休会持续了一小时。
-② They moved for an adjournment.
-= 他们动议休会。
+① The adjournment lasted an hour and both sides used it to make telephone calls.
+= 休会持续一小时，两边都趁机打电话去了。
+② They moved for an adjournment and were refused for the second time that day.
+= 他们动议休会，当天第二次被驳回。
 move for an adjournment = 提议休会
-③ The court granted an adjournment.
-= 法庭准予延期。
+③ The court granted an adjournment until a witness could travel from abroad.
+= 法庭准予延期，等一名证人从国外赶来。
 grant an adjournment = 批准延期
 词族：
 adjourn = 休会
@@ -6761,14 +6761,14 @@ recess = 休庭、休会（短暂）
 adjudge
 核心：法律与正式用语，指"由法庭或权威判定某人某事是什么"，常用
 被动。另有"判给"的意思，把赔偿或奖项裁给某一方。
-① He was adjudged guilty.
-= 他被判定有罪。
+① He was adjudged guilty on two counts and cleared on the other five.
+= 他两项罪名被判定成立，另外五项无罪。
 be adjudged guilty = 被判有罪
-② The company was adjudged bankrupt.
-= 该公司被判定破产。
+② The company was adjudged bankrupt and traded on for another eight months.
+= 该公司被判定破产，之后又经营了八个月。
 adjudge bankrupt = 判定破产
-③ Damages were adjudged to the plaintiff.
-= 损害赔偿判给了原告。
+③ Damages were adjudged to the plaintiff and paid nineteen years later.
+= 损害赔偿判给了原告，十九年后才付清。
 adjudge to = 判给
 注意语域：
 法律文书用语，日常不这么说。
@@ -6780,13 +6780,13 @@ deem = 认为（视为，不必经法庭）
 adjudicate
 核心：指以裁判或仲裁人身份"裁决"争端。正式用语，多用于法律、
 比赛、投诉处理。介词用 on 或 in。
-① A judge adjudicated the dispute.
-= 一位法官裁决了那场纠纷。
-② She adjudicates on planning appeals.
-= 她裁决规划上诉案。
+① A judge adjudicated the dispute and both sides claimed to have won.
+= 一位法官裁决了那场纠纷，两边都声称自己赢了。
+② She adjudicates on planning appeals and visits every site herself.
+= 她裁决规划上诉案，每处现场都亲自去看。
 adjudicate on = 就…作出裁决
-③ He adjudicated at the competition.
-= 他在那场比赛担任评委。
+③ He adjudicated at the competition and marked the favourite down to third.
+= 他在那场比赛担任评委，把夺冠热门打到了第三。
 词族：
 adjudication = 裁决
 adjudicator = 裁决人、评委
@@ -6798,13 +6798,13 @@ mediate 调解（不作决定）
 adjudication
 核心：指由有权者作出的"裁决"，正式用语。法律、仲裁、
 比赛评审都用。
-① The case awaits adjudication.
-= 那个案子等待裁决。
+① The case awaits adjudication and has done since the papers were filed.
+= 那个案子等待裁决，从递交材料起就一直等着。
 await adjudication = 等待裁决
-② Adjudication took three months.
-= 裁决花了三个月。
-③ The panel's adjudication is final.
-= 评审团的裁定是终局的。
+② Adjudication took three months and the reasons ran to eleven pages.
+= 裁决花了三个月，理由写了十一页。
+③ The panel's adjudication is final and cannot be appealed on the merits.
+= 评审团的裁定是终局的，实体问题上不得上诉。
 词族：
 adjudicate = 裁决
 adjudicator = 裁决人
@@ -6816,14 +6816,14 @@ arbitration = 仲裁（双方约定）
 adjudicator
 核心：指作出裁决的人——法律上的裁决官、比赛的评委、
 争议的仲裁人。
-① The adjudicator ruled against him.
-= 裁决人判他败诉。
+① The adjudicator ruled against him on a point neither side had argued.
+= 裁决人在一个双方都没争过的问题上判他败诉。
 rule against = 判…败诉
-② She served as adjudicator.
-= 她担任评审。
+② She served as adjudicator for nine years and never once ran over time.
+= 她担任裁决人九年，一次都没超时。
 serve as adjudicator = 担任裁决人
-③ Adjudicators must be impartial.
-= 裁决人必须公正。
+③ Adjudicators must be impartial and are asked to declare every connection.
+= 裁决人必须公正，任何关联都要申报。
 词族：
 adjudicate = 裁决
 adjudication = 裁决
@@ -6835,14 +6835,14 @@ referee = 裁判（体育）
 adjunct
 核心：两条线：附加的"辅助之物"（介词用 to），
 和美国高校里的"兼职教师"（adjunct professor）。
-① It's an adjunct to the main course.
-= 那是主课程的补充。
+① It's an adjunct to the main course and carries no credit of its own.
+= 那是主课程的补充，本身不计学分。
 an adjunct to = …的附属
-② She is an adjunct professor.
-= 她是兼职教授。
+② She is an adjunct professor and teaches at two institutions to make a living.
+= 她是兼职教授，在两所学校教书才够糊口。
 adjunct professor = 兼职教授
-③ The therapy is used as an adjunct.
-= 那种疗法用作辅助手段。
+③ The therapy is used as an adjunct and never on its own.
+= 那种疗法用作辅助手段，从不单独使用。
 used as an adjunct = 作辅助之用
 近义对照：
 adjunct = 辅助附加物（正式）
@@ -6852,13 +6852,13 @@ accessory = 配件（可拆的）
 adjure
 核心：极正式的动词，指"郑重恳请、严令某人做某事"，带有以誓言或
 神明相求的意味。结构固定，后面接人再接不定式。
-① He adjured them to tell the truth.
-= 他郑重要求他们说实话。
+① He adjured them to tell the truth and reminded them they were on oath.
+= 他郑重要求他们说实话，提醒他们已经宣过誓。
 adjure somebody to do = 恳请某人做
-② She adjured him not to go.
-= 她苦苦劝他别去。
-③ The judge adjured the witness to speak freely.
-= 法官严令证人如实陈述。
+② She adjured him not to go, and he went the following morning anyway.
+= 她苦苦劝他别去，他第二天早上还是走了。
+③ The judge adjured the witness to speak freely and cleared the public gallery.
+= 法官严令证人如实陈述，并清空了旁听席。
 注意语域：
 古雅正式，多见于宗教与法律文本。
 近义对照：
@@ -6906,14 +6906,14 @@ adjustable wrench = 活动扳手（美式）
 adjustment
 核心：三条线：技术上的"调校"、数据上的"调整"、
 以及心理上"适应新环境"的过程。
-① Make a small adjustment.
-= 做个小调整。
+① Make a small adjustment to the mirror before you pull out of the space.
+= 倒出车位之前，把后视镜稍微调一下。
 make an adjustment = 做出调整
-② Price adjustments were announced.
-= 宣布了价格调整。
+② Price adjustments were announced in a footnote nobody read until January.
+= 价格调整写在一条脚注里，到一月才有人读到。
 price adjustment = 价格调整
-③ The adjustment to city life took time.
-= 适应城市生活花了些时间。
+③ The adjustment to city life took time and about four changes of address.
+= 适应城市生活花了些时间，还搬了大约四次家。
 adjustment to = 对…的适应
 词族：
 adjust = 调整
@@ -6946,12 +6946,12 @@ adjutant general = 军务局长（美军高阶职务）
 adman
 核心：非正式名词，指"广告人"——在广告业里做创意或客户的人，
 复数是 admen。带一点行业调侃色彩，且默认指男性。
-① He is a Madison Avenue adman.
-= 他是麦迪逊大道上的广告人。
-② The admen sold us the idea.
-= 广告人把这个点子卖给了我们。
-③ She trained as an adman in the eighties.
-= 她八十年代入行做广告。
+① He is a Madison Avenue adman and dresses exactly like one from a film.
+= 他是麦迪逊大道上的广告人，穿得就跟电影里那种一模一样。
+② The admen sold us the idea before anyone had asked what it would cost.
+= 还没人问过要花多少钱，广告人就把这个点子卖给了我们。
+③ She trained as an adman in the eighties and hated the word even then.
+= 她八十年代入行做广告，那时就已经讨厌这个词了。
 注意语域：
 非正式且默认男性，正式场合改说「advertising executive」。
 词族：
@@ -7039,13 +7039,13 @@ administer = 管理
 admirable
 核心：指"值得钦佩的"，用于品质和行为，褒义很强。
 注意重音在第一个音节，不在第二个。
-① Her courage is admirable.
-= 她的勇气令人钦佩。
-② He showed admirable restraint.
-= 他表现出令人钦佩的克制。
+① Her courage is admirable and she would be embarrassed to hear it called that.
+= 她的勇气令人钦佩，可听人这么说她会不好意思。
+② He showed admirable restraint with a journalist who had misquoted him twice.
+= 面对两次误引他话的记者，他表现出令人钦佩的克制。
 admirable restraint = 可敬的克制
-③ It's an admirable achievement.
-= 那是个了不起的成就。
+③ It's an admirable achievement for a department of four working part-time.
+= 对一个四个人还都兼职的部门来说，那是个了不起的成就。
 常用搭配：
 admirable qualities = 可敬的品质
 admirable clarity = 令人赞叹的清晰
@@ -7060,13 +7060,13 @@ admire = 钦佩
 admirably
 核心：指"令人钦佩地、出色地"。常修饰 handled、performed、
 suited 这类词，是很高的褒奖。
-① She handled it admirably.
-= 她处理得非常出色。
+① She handled it admirably and got no thanks from anyone in the building.
+= 她处理得非常出色，楼里却没一个人道谢。
 handle admirably = 出色应对
-② He performed admirably.
-= 他表现得令人钦佩。
-③ The tool is admirably suited to the job.
-= 那件工具极适合这项工作。
+② The old machine coped admirably with a workload it was never designed for.
+= 那台老机器扛下了根本不是为它设计的工作量，表现令人钦佩。
+③ The tool is admirably suited to the job and useless for anything else.
+= 那件工具极适合这项工作，干别的一无是处。
 admirably suited = 极为合适
 词族：
 admirable = 令人钦佩的
@@ -7077,12 +7077,12 @@ admire = 钦佩
 admiral
 核心：海军的最高军衔，"海军上将"。注意它和 admire 只是看着像，
 词源不同，意思毫无关系。
-① He was promoted to admiral.
-= 他晋升为海军上将。
-② Admiral Nelson led the fleet.
-= 纳尔逊上将统率那支舰队。
-③ The admiral gave the order.
-= 上将下了命令。
+① He was promoted to admiral at forty-eight and retired within three years.
+= 他四十八岁晋升海军上将，三年内就退役了。
+② Admiral Nelson led the fleet and gave his orders by flag from the deck.
+= 纳尔逊上将统率那支舰队，在甲板上用旗号下令。
+③ The admiral gave the order and the whole line turned within four minutes.
+= 上将下了命令，整条战列四分钟内完成转向。
 常用搭配：
 vice admiral = 海军中将
 rear admiral = 海军少将
@@ -7147,13 +7147,13 @@ admirable = 令人钦佩的
 admirer
 核心：两条线：欣赏某人才能的"仰慕者"，和对某人有爱慕之情的"追求者"。
 第二条常见于 a secret admirer（暗恋者）。
-① He is a great admirer of her work.
-= 他很欣赏她的作品。
+① He is a great admirer of her work and has never met her in person.
+= 他很欣赏她的作品，却从没见过本人。
 an admirer of = …的仰慕者
-② She has many admirers.
-= 她有很多爱慕者。
-③ A secret admirer sent flowers.
-= 有个暗恋者送了花。
+② She has many admirers and gives out her telephone number to none of them.
+= 她有很多爱慕者，一个也没给过电话号码。
+③ A secret admirer sent flowers to the office every Friday for a year.
+= 有个暗恋者连着一年，每周五往办公室送花。
 a secret admirer = 暗恋者
 词族：
 admire = 钦佩

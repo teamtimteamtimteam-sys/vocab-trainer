@@ -190,13 +190,13 @@ red herring = 转移话题（岔开焦点）
 ad infinitum
 核心：拉丁语短语，作副词，意思是"无限地、没完没了地"，放在动词
 或整句之后。多半带点不耐烦的口气，暗示重复得让人受不了。
-① The list goes on ad infinitum.
-= 那份清单没完没了。
+① The list goes on ad infinitum and nobody has read past the first page.
+= 那份清单没完没了，没人读过第一页之后的内容。
 go on ad infinitum = 没完没了地下去
-② He repeated the excuse ad infinitum.
-= 那个借口他翻来覆去地讲。
-③ The pattern can be extended ad infinitum.
-= 这个图案可以无限延伸下去。
+② He repeated the excuse ad infinitum until even his allies stopped nodding.
+= 那个借口他翻来覆去地讲，连自己人都不点头了。
+③ The pattern can be extended ad infinitum in any of six directions.
+= 这个图案可以朝六个方向中的任何一个无限延伸。
 extend ad infinitum = 无限延伸
 注意语序：
 只放在动词或整句之后，不放前面。
@@ -208,13 +208,13 @@ for ever = 永远（时间上）
 ad lib
 核心：指演出或讲话时"即兴发挥、临时现编"。
 可作动词、形容词、副词。也写作 ad-lib。
-① He ad libbed the whole speech.
-= 那篇讲话他全是即兴的。
-② She made an ad lib remark.
-= 她即兴说了句话。
+① He ad libbed the whole speech after leaving his notes in the taxi.
+= 他把讲稿落在出租车上，整篇讲话全是即兴的。
+② She made an ad lib remark that ended up in every review of the show.
+= 她即兴说了句话，结果每篇剧评都引了。
 ad lib remark = 即兴发言
-③ The actor spoke ad lib.
-= 那名演员是现编台词。
+③ The actor spoke ad lib for two minutes while a door was being fixed.
+= 有扇门在修，那名演员现编台词撑了两分钟。
 注意拼写：
 ad lib / ad-lib 都可以
 词源：拉丁语 ad libitum（随意）
@@ -226,14 +226,14 @@ wing it = 临场应付（口语）
 ad nauseam
 核心：拉丁语短语，作副词，字面是"到令人作呕的程度"，指同一件事
 说得太多、重复到让人厌烦。永远带贬义。
-① He tells that story ad nauseam.
-= 那个故事他讲到人人都腻了。
+① He tells that story ad nauseam and it gets longer every year.
+= 那个故事他讲到人人都腻了，而且一年比一年长。
 tell ad nauseam = 反复讲到令人生厌
-② The topic was discussed ad nauseam.
-= 那个话题被讨论得没完没了。
+② The topic was discussed ad nauseam and voted on without a single change.
+= 那个话题被讨论得没完没了，表决时一字未改。
 discuss ad nauseam = 讨论到令人厌烦
-③ She repeats the slogan ad nauseam.
-= 她把那句口号念叨个不停。
+③ She repeats the slogan ad nauseam and cannot say what it means.
+= 她把那句口号念叨个不停，却说不出它是什么意思。
 注意语气：
 一律贬义，说明听的人已经受够了。
 近义对照：
@@ -244,14 +244,14 @@ over and over = 一遍又一遍（口语）
 ad valorem
 核心：拉丁语短语，税务与贸易术语，指"按价计征的"——税额按货物
 价值的百分比算，而不是按数量或重量算。作形容词也作副词。
-① The country levies an ad valorem tax.
-= 该国征收从价税。
+① The country levies an ad valorem tax that falls hardest on cheap goods.
+= 该国征收从价税，负担最重的反倒是廉价商品。
 ad valorem tax = 从价税
-② Duty is charged ad valorem.
-= 关税按货值计征。
+② Duty is charged ad valorem, so the invoice matters more than the weight.
+= 关税按货值计征，所以发票比重量要紧。
 charge ad valorem = 按价计征
-③ Ad valorem duties rise with the price.
-= 从价关税随价格上涨。
+③ Ad valorem duties rise with the price and fall when the market turns.
+= 从价关税随价格上涨，行情一转又跟着降。
 ad valorem duty = 从价关税
 注意语域：
 税法与国际贸易术语。
@@ -262,13 +262,13 @@ specific duty = 从量税（按数量或重量）
 adage
 核心：指流传已久的"格言、老话"，通常讲的是常识性道理。
 常见搭配 the old adage that…。
-① The old adage still holds.
-= 那句老话依然成立。
+① The old adage still holds, though nobody can say who first said it.
+= 那句老话依然成立，只是谁也说不出最早是谁讲的。
 the old adage = 那句古训
-② There's an adage about haste.
-= 有句关于操之过急的老话。
-③ He quoted an adage.
-= 他引了句格言。
+② There's an adage about haste that this project has proved twice over.
+= 有句关于操之过急的老话，这个项目验证了两遍。
+③ He quoted an adage at the end of every letter he ever wrote.
+= 他写的每封信结尾都要引一句格言。
 quote an adage = 引用格言
 近义对照：
 adage = 老话、格言（流传已久）
@@ -279,14 +279,14 @@ saying = 俗话（通用）
 adagio
 核心：音乐术语，意大利语借词，指"慢板"。作副词或形容词说明演奏
 速度要慢，作名词指一段慢板乐章。只在音乐语境里用。
-① The second movement is marked adagio.
-= 第二乐章标记为慢板。
+① The second movement is marked adagio and lasts longer than the other three.
+= 第二乐章标记为慢板，比其余三个乐章加起来还长。
 marked adagio = 标记为慢板
-② She played the passage adagio.
-= 她把那一段弹成了慢板。
+② She played the passage adagio against the conductor's explicit instruction.
+= 指挥明确交代过，她还是把那一段弹成了慢板。
 这里作副词，说明速度。
-③ The adagio moved the audience to tears.
-= 那段慢板让听众落泪。
+③ The adagio moved the audience to tears and the encore made them laugh.
+= 那段慢板让听众落泪，返场曲又把他们逗笑了。
 这里作名词，指乐章。
 注意语域：
 音乐术语，日常口语不用。
@@ -342,14 +342,14 @@ adaptive behaviour = 适应性行为
 adaptable
 核心：指人或物"适应力强、易于改动的"。说人是很高的褒奖，
 职场里是核心素质词。介词用 to。
-① She is highly adaptable.
-= 她适应力很强。
+① She is highly adaptable and has done four unrelated jobs in six years.
+= 她适应力很强，六年里做过四份毫不相干的工作。
 highly adaptable = 适应力极强
-② The design is adaptable to any space.
-= 那个设计能适配任何空间。
+② The design is adaptable to any space with a ceiling over two metres.
+= 只要层高超过两米，那个设计什么空间都能适配。
 adaptable to = 可适应于
-③ Adaptable staff are valued.
-= 能随机应变的员工很受重视。
+③ Adaptable staff are valued right up until somebody has to define the role.
+= 能随机应变的员工很受重视，直到有人要给这个岗位下定义。
 词族：
 adapt = 适应
 adaptability = 适应力
@@ -380,13 +380,13 @@ adapt = 适应、改编
 adapter
 核心：两条线：电源或接口的"转接头"（最常用），
 和把作品"改编成另一种形式的人"。也拼作 adaptor。
-① I need a travel adapter.
-= 我需要个旅行转接头。
+① I need a travel adapter and the shop at the airport charges four times the price.
+= 我需要个旅行转接头，机场那家店卖四倍的价钱。
 travel adapter = 旅行转换插头
-② Use a USB adapter.
-= 用一个 USB 转接口。
-③ She was the adapter of the novel.
-= 那部小说是她改编的。
+② Use a USB adapter, because the newer machine has no other socket at all.
+= 用一个 USB 转接口，新机器上别的插口一个都没有。
+③ She was the adapter of the novel and cut two hundred pages without complaint.
+= 那部小说是她改编的，删掉两百页也没有怨言。
 注意拼写：
 adapter / adaptor 都可以，
 英式电器语境常写 adaptor。
@@ -438,12 +438,12 @@ additive = 添加剂
 addendum
 核心：指文件末尾追加的"附录、补充说明"，正式用语。
 注意复数是拉丁式的 addenda。
-① An addendum was attached.
-= 附上了一份补充说明。
-② See the addendum for details.
-= 详见附录。
-③ The contract has two addenda.
-= 那份合同有两个附件。
+① An addendum was attached the following week and contradicted clause four.
+= 第二周附上了一份补充说明，跟第四条自相矛盾。
+② See the addendum for details that would not fit into the main table.
+= 主表里放不下的细节，详见附录。
+③ The contract has two addenda and both are longer than the contract itself.
+= 那份合同有两个附件，每个都比合同本身长。
 注意复数：
 addendum → addenda
 近义对照：
@@ -454,12 +454,12 @@ supplement = 增补（单独成篇）
 adder
 核心：一种毒蛇，即蝰蛇，是英国唯一的本土毒蛇，背上有明显的锯齿状
 花纹。在北美 adder 还泛指几种无毒的小蛇，两地所指不同。
-① An adder bit the dog.
-= 一条蝰蛇咬了那条狗。
-② Adders are rare in cities.
-= 城市里很少见到蝰蛇。
-③ The adder has a zigzag pattern on its back.
-= 蝰蛇背上有锯齿形花纹。
+① An adder bit the dog on the nose and the vet had antivenom in stock.
+= 一条蝰蛇咬了那条狗的鼻子，兽医那儿正好有抗蛇毒血清。
+② Adders are rare in cities and turn up on heathland at the edge of them.
+= 城市里很少见到蝰蛇，城边的荒原上倒有。
+③ The adder has a zigzag pattern on its back that is visible from some way off.
+= 蝰蛇背上有锯齿形花纹，隔一段距离就看得见。
 zigzag pattern = 锯齿形花纹
 常用搭配：
 adder bite = 蝰蛇咬伤

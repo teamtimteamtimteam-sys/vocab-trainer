@@ -1,14 +1,14 @@
 addicted
 核心：指人"对某物上瘾的"，介词用 to，后接名词或 doing。
 医学义之外，口语里也半开玩笑地用。
-① He is addicted to gambling.
-= 他赌博成瘾。
+① He is addicted to gambling and has told his family so three separate times.
+= 他赌博成瘾，跟家里坦白过三次。
 be addicted to = 对…上瘾
-② She's addicted to that show.
-= 她迷那部剧迷得不行。
+② She's addicted to that show and has watched the last season twice.
+= 她迷那部剧迷得不行，最后一季看了两遍。
 口语夸张用法
-③ Patients addicted to painkillers need help.
-= 止痛药成瘾的患者需要帮助。
+③ Patients addicted to painkillers need help that the waiting list cannot provide.
+= 止痛药成瘾的患者需要帮助，而排队名单给不了。
 词族：
 addict = 成瘾者
 addiction = 瘾
@@ -77,12 +77,12 @@ addition reaction = 加成反应（化学）
 additional
 核心：指"在原有基础上另加的"，比 extra 正式，多用于书面和商务。
 只作定语，不作表语。
-① There will be an additional charge.
-= 会有额外费用。
-② We need additional information.
-= 我们需要补充信息。
-③ Additional staff were hired.
-= 又雇了些员工。
+① There will be an additional charge for anything delivered above the ground floor.
+= 凡是送到一楼以上的，都要另收费用。
+② We need additional information before the file can go any further.
+= 卷宗要往下走，我们需要补充信息。
+③ Additional staff were hired in October and let go again in January.
+= 十月又雇了些员工，到一月又都辞退了。
 副词形式：
 additionally = 此外
 近义词：
@@ -92,14 +92,14 @@ extra 额外的（口语）
 additive
 核心：名词指食品或燃料里的"添加剂"，形容词指"添加的、累加的"。
 食品标签上的 additive-free 是常见卖点。
-① The drink contains no additives.
-= 那种饮料不含添加剂。
+① The drink contains no additives and separates if you leave it standing.
+= 那种饮料不含添加剂，放着不动就会分层。
 food additive = 食品添加剂
-② It's additive-free.
-= 那是无添加的。
+② It's additive-free and costs about a third more than the ordinary sort.
+= 那是无添加的，比普通那种贵三分之一左右。
 additive-free = 不含添加剂的
-③ The effects are additive.
-= 那些效应是叠加的。
+③ The effects are additive, so two small doses do the work of one large one.
+= 那些效应是叠加的，两小剂顶得上一大剂。
 additive effect = 叠加效应
 词族：
 add = 添加
@@ -110,13 +110,13 @@ synergistic = 协同增效的
 addled
 核心：指头脑"糊涂的、混乱的"，也指蛋"坏掉的"。
 现在多见于 addled brain 这类搭配，略带戏谑。
-① His addled brain couldn't cope.
-= 他晕乎乎的脑子应付不来。
+① His addled brain couldn't cope with a form that asked the same thing twice.
+= 一张同一件事问两遍的表格，他晕乎乎的脑子应付不来。
 addled brain = 糊涂的脑子
-② She felt addled by lack of sleep.
-= 睡眠不足让她昏昏沉沉。
-③ The eggs were addled.
-= 那些蛋坏了。
+② She felt addled by lack of sleep and read the same paragraph four times.
+= 睡眠不足让她昏昏沉沉，同一段读了四遍。
+③ The eggs were addled and the smell reached the far end of the yard.
+= 那些蛋坏了，味道飘到院子那一头。
 词族：
 addle = 使糊涂
 近义对照：
@@ -161,12 +161,12 @@ addressable = 可寻址的、可触达的
 addressee
 核心：指信件、邮件、包裹的"收件人"，正式用语。
 和 sender（寄件人）配对。
-① The addressee has moved.
-= 收件人已搬走。
-② Return to sender if the addressee is unknown.
-= 收件人不明则退回寄件人。
-③ Write the addressee's name clearly.
-= 收件人姓名要写清楚。
+① The addressee has moved and left no forwarding address with anyone.
+= 收件人已搬走，没给任何人留下转寄地址。
+② Return to sender if the addressee is unknown at the given address.
+= 若所填地址查无此收件人，请退回寄件人。
+③ Write the addressee's name clearly, because the machine reads it first.
+= 收件人姓名要写清楚，机器先读的就是它。
 配对词：
 addressee = 收件人
 sender = 寄件人
@@ -177,13 +177,13 @@ addresser = 发信人（罕用）
 adduce
 核心：正式动词，指"举出证据或理由来支持某个说法"，几乎只用在法律
 和学术论证里。宾语常是证据、理由、例子这几类词。
-① He adduced evidence to support his claim.
-= 他举出证据支持自己的主张。
+① He adduced evidence to support his claim and none of it was contemporaneous.
+= 他举出证据支持自己的主张，可没有一件是当时留下的。
 adduce evidence = 举证
-② Several reasons were adduced.
-= 有人举出了若干理由。
-③ She adduced three examples from history.
-= 她举了三个历史上的例子。
+② Several reasons were adduced and the court accepted exactly one of them.
+= 有人举出了若干理由，法庭只采纳了其中一条。
+③ She adduced three examples from history and a fourth from her own department.
+= 她举了三个历史上的例子，又加了一个来自自己部门的。
 adduce examples = 举例
 注意语域：
 正式书面语，口语用别的说法。
@@ -195,14 +195,14 @@ present = 出示（通用）
 adductor
 核心：解剖学名词，指"内收肌"——把肢体拉向身体中线的那组肌肉，
 大腿内侧的那几条最常被提到。运动医学和健身语境里高频。
-① He pulled an adductor.
-= 他拉伤了内收肌。
+① He pulled an adductor in the warm-up and never got onto the pitch.
+= 他热身时拉伤了内收肌，压根没上场。
 pull an adductor = 拉伤内收肌
-② The adductor muscles run along the inner thigh.
-= 内收肌沿着大腿内侧走行。
+② The adductor muscles run along the inner thigh and are easily overlooked.
+= 内收肌沿着大腿内侧走行，很容易被忽略。
 adductor muscle = 内收肌
-③ She is recovering from an adductor strain.
-= 她正在从内收肌拉伤中恢复。
+③ She is recovering from an adductor strain and swims instead of running.
+= 她正在从内收肌拉伤中恢复，改游泳不跑步。
 adductor strain = 内收肌拉伤
 注意语域：
 解剖学与运动医学术语。
@@ -213,12 +213,12 @@ abductor = 外展肌（往外侧拉）
 addy
 核心：极口语的缩略说法，指"地址"，多半是电子邮箱地址，也可指住址。
 只出现在短信和网聊里，正式场合一律写全。
-① What's your addy?
-= 你邮箱是多少？
-② I sent it to your old addy.
-= 我发到你旧邮箱了。
-③ Text me your addy.
-= 把你地址发我。
+① What's your addy? I will send the photographs over tonight.
+= 你邮箱是多少？照片我今晚发过去。
+② I sent it to your old addy and it bounced back within a minute.
+= 我发到你旧邮箱了，一分钟就退了回来。
+③ Text me your addy and I will put the parcel in the post tomorrow.
+= 把你地址发我，包裹我明天寄。
 注意语域：
 非正式俚语，书面和正式场合不用。
 词源：
@@ -272,13 +272,13 @@ adeptly = 熟练地、巧妙地
 adequacy
 核心：指"是否够用"这个性质，不可数。多用于评估资金、人手、
 供给、防护是否达标。
-① They questioned the adequacy of funding.
-= 他们质疑资金是否够用。
+① They questioned the adequacy of funding for a service used by everyone.
+= 一项人人都在用的服务，他们质疑它的资金是否够用。
 the adequacy of = …是否充足
-② Test the adequacy of the safeguards.
-= 检验那些保障措施是否到位。
-③ Adequacy is not excellence.
-= 够用不等于优秀。
+② Test the adequacy of the safeguards before anybody relies on them.
+= 在有人依赖那些保障措施之前，先检验它们是否到位。
+③ Adequacy is not excellence, and the report is careful never to confuse them.
+= 够用不等于优秀，那份报告小心地不把两者混为一谈。
 词族：
 adequate = 足够的
 反义词：
@@ -296,14 +296,14 @@ be adequate for = 足够应付
 adequately
 核心：指"充分地、够用地"，但只是达到最低标准。
 常修饰 funded、prepared、trained、protected。
-① The team is adequately trained.
-= 那个团队受过足够训练。
+① The team is adequately trained for everything except the thing that happened.
+= 除了真正发生的那件事，那个团队什么都受过足够训练。
 adequately trained = 训练达标
-② It's not adequately funded.
-= 那笔经费不够。
+② It's not adequately funded and has not been since the grant ended in 2019.
+= 那笔经费不够，二零一九年拨款结束后就一直不够。
 adequately funded = 经费充足
-③ She explained it adequately.
-= 她解释得还算清楚。
+③ She explained it adequately and nobody in the room asked a single question.
+= 她解释得还算清楚，屋里没一个人提问。
 词族：
 adequate = 足够的
 adequacy = 充分性
@@ -329,14 +329,14 @@ adhere to = 遵守
 adherence
 核心：指"遵守、恪守"，正式用语。介词用 to。
 医学上还特指患者"按医嘱服药"（treatment adherence）。
-① Strict adherence to rules is required.
-= 必须严格遵守规则。
+① Strict adherence to rules is required and audited without warning twice a year.
+= 必须严格遵守规则，一年两次不打招呼的抽查。
 adherence to = 对…的遵守
-② Treatment adherence improves outcomes.
-= 遵医嘱能改善疗效。
+② Treatment adherence improves outcomes more than any change of drug does.
+= 遵医嘱对疗效的改善，超过任何一次换药。
 treatment adherence = 治疗依从性
-③ He showed rigid adherence to tradition.
-= 他刻板地恪守传统。
+③ He showed rigid adherence to tradition in a house that had electricity.
+= 在一栋通了电的房子里，他刻板地恪守着传统。
 词族：
 adhere = 遵守；粘附
 adherent = 拥护者
@@ -348,14 +348,14 @@ observance = 遵行（规矩、节日）
 adherent
 核心：指某个主张、宗教、政党的"拥护者、信徒"。
 比 supporter 更强调认同其理念。介词用 of。
-① He is an adherent of the theory.
-= 他是那个理论的信奉者。
+① He is an adherent of the theory and one of about nine left in the field.
+= 他是那个理论的信奉者，那个领域里大约只剩九个了。
 an adherent of = …的拥护者
-② The movement gained adherents.
-= 那场运动获得了追随者。
+② The movement gained adherents faster than it could find rooms to meet in.
+= 那场运动招来的追随者，比它能找到的聚会场地增长得快。
 gain adherents = 赢得拥护者
-③ Adherents follow strict rules.
-= 信徒遵守严格的戒律。
+③ Adherents follow strict rules and disagree bitterly about which ones matter.
+= 信徒遵守严格的戒律，却为哪几条要紧吵得不可开交。
 词族：
 adhere = 遵守
 adherence = 恪守
@@ -367,13 +367,13 @@ supporter = 支持者（立场）
 adhesion
 核心：两条线：物理上的"附着力"，和医学上的"粘连"
 （手术后组织异常黏在一起）。
-① The adhesion of the paint is poor.
-= 那种漆附着力差。
-② Surgical adhesions can cause pain.
-= 手术粘连可能引起疼痛。
+① The adhesion of the paint is poor and it lifted off in sheets by spring.
+= 那种漆附着力差，到春天就成片翘起。
+② Surgical adhesions can cause pain years after the operation itself.
+= 手术粘连可能在术后多年才引起疼痛。
 surgical adhesion = 术后粘连
-③ Adhesion depends on surface texture.
-= 附着力取决于表面质地。
+③ Adhesion depends on surface texture far more than on the product you choose.
+= 附着力取决于表面质地，远甚于你选哪种产品。
 词族：
 adhere = 粘附
 adhesive = 粘合剂
@@ -384,16 +384,16 @@ adhesive = 粘合剂（物质）
 adhesive
 核心：既是名词"粘合剂"，也是形容词"有粘性的"。比 glue 正式，
 多用于技术和产品说明。
-① Use a strong adhesive.
-= 用强力粘合剂。
+① Use a strong adhesive and clamp the joint overnight before you touch it.
+= 用强力粘合剂，接缝夹紧过夜再动。
 常用搭配：
 strong adhesive = 强力胶
 adhesive label = 不干胶标签
-② It's adhesive tape.
-= 那是胶带。
+② It's adhesive tape and will take the paint off if you leave it a week.
+= 那是胶带，贴一周会把漆一起撕下来。
 adhesive tape = 胶带
-③ The label has an adhesive backing.
-= 那个标签背面有胶。
+③ The label has an adhesive backing that never quite comes off the glass.
+= 那个标签背面有胶，怎么也从玻璃上撕不干净。
 词族：
 adhere = 粘附
 adhesion = 粘附力
@@ -425,14 +425,14 @@ goodbye = 再见（通用）
 adipose
 核心：医学与生物学的形容词，指"脂肪的、含脂肪的"，最常见的搭配是
 adipose tissue。日常场合用别的说法，不用这个词。
-① Adipose tissue stores energy.
-= 脂肪组织储存能量。
+① Adipose tissue stores energy and releases it far more slowly than sugar does.
+= 脂肪组织储存能量，释放起来比糖慢得多。
 adipose tissue = 脂肪组织
-② The scan measured adipose deposits.
-= 扫描测量了脂肪堆积。
+② The scan measured adipose deposits around organs rather than under the skin.
+= 扫描测量的是器官周围而非皮下的脂肪堆积。
 adipose deposit = 脂肪沉积
-③ Brown adipose tissue burns calories.
-= 棕色脂肪组织会消耗热量。
+③ Brown adipose tissue burns calories and is more plentiful in babies.
+= 棕色脂肪组织会消耗热量，婴儿身上更多。
 注意语域：
 医学、生物学术语，口语不用。
 近义对照：
