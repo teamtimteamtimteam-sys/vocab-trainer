@@ -29,14 +29,14 @@ assemblywoman = 女性州议会众议员
 assent
 核心：正式用语，指"同意、批准"。名词动词同形，
 动词介词用 to。注意和 ascent（上升）同音。
-① She gave her assent.
-= 她表示了同意。
+① She gave her assent in writing and withdrew it by telephone the next morning.
+= 她书面表示了同意，第二天早上又打电话撤回。
 give assent = 表示同意
-② He assented to the proposal.
-= 他同意了那项提议。
+② He assented to the proposal without having read the second half of it.
+= 他同意了那项提议，后半部分根本没读。
 assent to = 同意
-③ The bill received royal assent.
-= 那项法案获得了御准。
+③ The bill received royal assent eleven months after it was first tabled.
+= 那项法案在首次提交十一个月后获得御准。
 royal assent = 御准（英国立法程序）
 注意别混：
 assent = 同意
@@ -84,13 +84,13 @@ state = 陈述（中性）
 assertion
 核心：指"断言、说法"——强调是主张而非已证实的事实。
 学术写作里常带"尚待证明"的暗示。
-① That's a bold assertion.
-= 那是个大胆的断言。
+① That's a bold assertion for a paper with a sample of nine.
+= 对一篇样本只有九个的论文来说，那是个大胆的断言。
 bold assertion = 大胆的主张
-② His assertion lacks evidence.
-= 他的说法缺乏证据。
-③ The assertion was later withdrawn.
-= 那个说法后来被撤回了。
+② His assertion lacks evidence and has been repeated in print for thirty years.
+= 他的说法缺乏证据，却在出版物里重复了三十年。
+③ The assertion was later withdrawn in a footnote nobody read.
+= 那个说法后来在一条没人读的脚注里被撤回。
 词族：assert、assertive
 近义对照：
 assertion = 断言（待证）
@@ -169,13 +169,13 @@ assessment centre = 测评中心（多环节选拔）
 assessor
 核心：两条线：为税务或保险"估价的人"，
 和考试评审、法庭陪审专家。
-① The assessor valued the house.
-= 估价员给房子估了价。
-② An insurance assessor visited.
-= 保险定损员来看过了。
+① The assessor valued the house at less than the owner had paid for the kitchen.
+= 估价员给房子估的价，还不如屋主装厨房花的钱。
+② An insurance assessor visited twice and photographed the same wall both times.
+= 保险定损员来了两次，两次都拍同一面墙。
 insurance assessor = 保险定损员
-③ The assessor marked the exam.
-= 评审员批阅了那份试卷。
+③ The assessor marked the exam in an afternoon and the appeal took a year.
+= 评审员一个下午就批完了那份卷子，申诉却拖了一年。
 词族：assess、assessment
 近义对照：
 assessor = 估价员、评审员
@@ -255,13 +255,13 @@ assignment = 任务、作业
 assignation
 核心：指秘密的"幽会"，多带暧昧或阴谋色彩，
 文学用语。另有法律上的"财产转让"义。
-① They arranged an assignation.
-= 他们安排了一次密会。
+① They arranged an assignation at a hotel where neither was known.
+= 他们把密会安排在一家两人都不为人知的旅馆。
 arrange an assignation = 约定幽会
-② The assignation was discovered.
-= 那次幽会被发现了。
-③ The assignation of rights was legal.
-= 权利的转让是合法的。
+② The assignation was discovered by a porter who said nothing for years.
+= 那次幽会被一名门房撞见，他多年只字未提。
+③ Every assignation in the novel is described in weather rather than in words.
+= 那部小说里每一次幽会都是用天气而不是用语言写出来的。
 词族：
 assign = 分派
 注意区别：
@@ -272,14 +272,14 @@ assignment = 任务、作业（中性）
 assignment
 核心：三条线：学生的"作业"、工作上的"任务派遣"、
 以及法律上权利的"转让"。
-① Hand in your assignment.
-= 交作业。
+① Hand in your assignment by Friday or it loses ten per cent a day.
+= 作业周五之前交，晚一天扣一成。
 hand in an assignment = 交作业
-② He is on assignment abroad.
-= 他外派在国外执行任务。
+② He is on assignment abroad and has not seen his own flat since March.
+= 他外派在国外执行任务，三月起就没回过自己的公寓。
 on assignment = 出任务中
-③ The assignment of rights was recorded.
-= 权利转让做了登记。
+③ The assignment of rights was recorded in a register nobody had opened in years.
+= 权利转让登记在一本多年没人翻开的簿子里。
 assignment of rights = 权利让与
 词族：
 assign = 分派
@@ -291,14 +291,14 @@ homework = 家庭作业（不可数）
 assimilate
 核心：两条线：移民或群体"融入"主流社会，
 和知识"消化吸收"。介词用 into 或 to。
-① Immigrants assimilated into society.
-= 移民融入了社会。
+① Immigrants assimilated into society over three generations rather than one.
+= 移民融入社会用了三代人，不是一代。
 assimilate into = 融入
-② It takes time to assimilate new facts.
-= 消化新信息需要时间。
+② It takes time to assimilate new facts, and rather more to unlearn old ones.
+= 消化新信息需要时间，忘掉旧的需要更久。
 assimilate information = 吸收信息
-③ The culture assimilated outsiders.
-= 那种文化同化了外来者。
+③ The culture assimilated outsiders so thoroughly that their names survive and nothing else does.
+= 那种文化把外来者同化得极彻底，只剩名字留了下来。
 词族：
 assimilation = 同化
 注意语用：说少数族群 assimilate
@@ -308,13 +308,13 @@ assimilation = 同化
 assimilation
 核心：指"同化、吸收"这个过程。社会学上指少数群体融入主流，
 常与 integration（各方互相适应）对举。
-① Assimilation erased their language.
-= 同化让他们的语言消失了。
-② Cultural assimilation is debated.
-= 文化同化存在争议。
+① Assimilation erased their language within two generations of the move.
+= 迁徙之后不到两代，同化就让他们的语言消失了。
+② Cultural assimilation is debated most fiercely by the generation that did not experience it.
+= 文化同化争得最凶的，是没经历过它的那一代。
 cultural assimilation = 文化同化
-③ Assimilation of nutrients takes hours.
-= 营养吸收需要几小时。
+③ Assimilation of nutrients takes hours and depends on what was eaten alongside.
+= 营养吸收需要几小时，还取决于同时吃了什么。
 词族：assimilate
 概念对照：
 assimilation = 同化（少数方变成主流的样子）
@@ -359,14 +359,14 @@ assist somebody with = 在……上帮某人
 assistance
 核心：正式用语，指"帮助、援助"，不可数。
 常见搭配 offer / provide / seek assistance。
-① Can I be of assistance?
-= 需要我帮忙吗？
+① Can I be of assistance, or would you rather work it out yourself?
+= 需要我帮忙吗，还是你想自己弄明白？
 be of assistance = 提供帮助
-② They provided financial assistance.
-= 他们提供了资金援助。
+② They provided financial assistance on terms that took a decade to repay.
+= 他们提供了资金援助，条件是十年才还得清。
 financial assistance = 资金援助
-③ She sought legal assistance.
-= 她寻求了法律帮助。
+③ She sought legal assistance and was told the deadline had passed on Tuesday.
+= 她寻求法律帮助，得到的答复是期限星期二就过了。
 词族：assist、assistant
 近义对照：
 assistance = 帮助（正式）
@@ -412,13 +412,13 @@ assize
 核心：英国旧时的"巡回法庭"——法官定期到各郡开庭审重案，
 一年几次，会期本身也叫这个词。多用复数 assizes。
 一九七二年被 Crown Court 取代，此后只用于历史语境。
-① The judge came for the spring assizes.
-= 法官来主持春季巡回庭。
+① The judge came for the spring assize and lodged with the mayor.
+= 法官来主持春季巡回庭，住在市长家里。
 the spring assizes = 春季巡回审
-② Murder cases went to the assizes.
-= 命案要送巡回法庭审。
-③ The assizes were abolished in 1972.
-= 巡回法庭一九七二年被废止。
+② Murder cases went to the assize and waited months for the judge to arrive.
+= 命案要送巡回法庭审，等法官到任要几个月。
+③ A whole town turned out for the assize, which was entertainment as much as justice.
+= 全镇的人都来看巡回庭，那既是司法也是娱乐。
 注意用法：
 多用复数。
 注意语域：
@@ -427,12 +427,12 @@ the spring assizes = 春季巡回审
 assizes
 核心：英国旧时的巡回刑事法庭，一九七二年已废除，
 由 Crown Court 取代。永远用复数。
-① The case went to the assizes.
-= 那个案子送交巡回法庭。
-② The assizes met twice a year.
-= 巡回法庭一年开两次。
-③ Assizes were abolished in 1972.
-= 巡回法庭于一九七二年废除。
+① The case went to the assizes and was heard by a judge who had travelled two days.
+= 那个案子送交巡回法庭，审案的法官赶了两天路。
+② The assizes met twice a year and cleared a year's cases in a fortnight.
+= 巡回法庭一年开两次，两周就审完一年的积案。
+③ Assizes were abolished in 1972 and the Crown Court took over the work.
+= 巡回法庭于一九七二年废除，工作由刑事法院接手。
 注意：assizes 永远用复数。
 注意发音：/əˈsaɪzɪz/
 现代对应：
@@ -490,12 +490,12 @@ associationism = 联想主义（心理学与哲学学说）
 assonance
 核心：修辞术语，指相邻词里元音相同而辅音不同，
 如 "the rain in Spain"。和押头韵、押尾韵都不同。
-① The poem uses assonance.
-= 那首诗用了谐元韵。
-② Assonance creates a soft echo.
-= 谐元韵造成柔和的回响。
-③ Note the assonance in that line.
-= 注意那行里的元音呼应。
+① The poem uses assonance to hold the line together where rhyme would be too neat.
+= 押韵会显得太齐整，那首诗改用谐元韵把诗行系住。
+② Assonance creates a soft echo that most readers hear without noticing.
+= 谐元韵造成柔和的回响，多数读者听得见却察觉不到。
+③ Note the assonance in that line and then read the next one aloud.
+= 留意那一行的元音呼应，然后把下一行念出声。
 押韵三类：
 alliteration = 头韵（词首辅音相同）
 assonance = 谐元韵（元音相同）
@@ -505,14 +505,14 @@ rhyme = 押韵（词尾整体相同）
 assorted
 核心：指"各式各样的、什锦的"，只作定语。
 食品包装上最常见（assorted biscuits）。
-① The box holds assorted chocolates.
-= 那盒是什锦巧克力。
+① The box holds assorted chocolates and the good ones go in the first hour.
+= 那盒是什锦巧克力，好吃的头一个钟头就没了。
 assorted chocolates = 什锦巧克力
-② Assorted sizes are available.
-= 有各种尺码。
+② Assorted sizes are available, though never the one you actually want.
+= 有各种尺码，只是从来没有你真正要的那个。
 assorted sizes = 多种尺寸
-③ He collected assorted junk.
-= 他收了一堆杂七杂八的东西。
+③ He collected assorted junk for forty years and left it to a museum that refused it.
+= 他收了四十年杂七杂八的东西，留给一家博物馆，博物馆没要。
 词族：
 assortment = 各式各样的一批
 近义对照：
