@@ -192,20 +192,20 @@ cried = cry 的过去式与过去分词（词尾 y 变 i 再加 ed，try、fly �
 cryogenic
 核心：低温学的：研究与运用极低温的，通常指零下一百五十度
 以下。cryogenics 是低温学，cryogenically 是在极低温下。
-① The sample is stored cryogenically.
-= 那份样本存在极低温下。
+① The sample is stored cryogenically and thawed only once for each test.
+= 那份样本存在极低温下，每次检测只解冻一次。
 cryogenically = 在极低温下
-② Cryogenic fuels power the rocket.
-= 那枚火箭用低温燃料。
+② Cryogenic fuels power the rocket and must be loaded at the last minute.
+= 那枚火箭用低温燃料，非到最后一刻不能加注。
 cryogenic fuel = 低温燃料
-③ Cryogenics began with liquefying gases.
-= 低温学是从把气体液化开始的。
+③ Cryogenics began with liquefying gases that everyone had called permanent.
+= 低温学是从把当时人人称为永久气体的东西液化开始的。
 cryogenics = 低温学
-④ Liquid nitrogen is a common cryogen.
-= 液氮是常用的低温剂。
+④ Liquid nitrogen is a common cryogen and costs less than milk.
+= 液氮是常用的低温剂，比牛奶还便宜。
 a cryogen = 低温剂
-⑤ Cryonics freezes bodies in hope of revival.
-= 人体冷冻术把遗体冻起来，指望日后复活。
+⑤ Cryonics freezes bodies in hope of revival that no science yet supports.
+= 人体冷冻术把遗体冻起来，指望日后复活，可眼下没有科学支持。
 cryonics = 人体冷冻术
 构词：希腊语 kryos 冰冷 + genes 产生
 注意语域：科学与工程用词。
