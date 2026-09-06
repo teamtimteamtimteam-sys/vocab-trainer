@@ -148,16 +148,16 @@ binoculars
 跟 glasses、scissors 同理，论具要说 a pair of binoculars。
 跟单筒的 telescope 分工：binoculars 便携、视野宽、看远处的鸟兽
 和赛场；telescope 倍率高，看天体。
-① He raised his binoculars.
-= 他举起望远镜。
+① He raised his binoculars and picked out the wreck on the far shore.
+= 他举起望远镜，在对岸认出了那条沉船。
 只用复数。
-② She bought a pair of binoculars.
-= 她买了一副望远镜。
+② She bought a pair of binoculars light enough to carry all day.
+= 她买了一副轻到能挂一整天的望远镜。
 a pair of binoculars = 一副双筒望远镜
-③ Birdwatchers never go without binoculars.
-= 观鸟的人从不空手出门。
-④ These binoculars are waterproof.
-= 这副望远镜防水。
+③ Birdwatchers never go out without binoculars and a notebook of some kind.
+= 观鸟的人出门必带望远镜，外加某种本子。
+④ These binoculars are waterproof and survived a whole week at sea.
+= 这副望远镜防水，在海上待了整整一周也没事。
 谓语用复数。
 近义对照：
 binoculars = 双筒望远镜（便携，视野宽）
@@ -168,18 +168,18 @@ binomial
 组成的代数式，如 x 加 y；生物学上指"双名法的"，学名由属名加
 种加词两部分组成，所以人是 Homo sapiens。构词是 bi-（二）加
 nomen（拉丁语的"名"）。
-① Expand the binomial.
-= 把那个二项式展开。
+① Expand the binomial and collect the terms with the same power.
+= 把那个二项式展开，再把同次项合并。
 binomial = 二项式（数学）
-② The binomial theorem gives the expansion.
-= 二项式定理给出展开式。
+② The binomial theorem gives the expansion without multiplying it out by hand.
+= 二项式定理直接给出展开式，不必手动一项项乘。
 binomial theorem = 二项式定理
-③ Species have binomial names.
-= 物种用双名法命名。
+③ Species have binomial names, the genus first and the epithet second.
+= 物种用双名法命名，属名在前，种加词在后。
 binomial nomenclature = 双名命名法
 属名在前、种加词在后，两部分缺一不可。
-④ The binomial distribution models coin tosses.
-= 二项分布可以刻画抛硬币。
+④ The binomial distribution models coin tosses and any other two-outcome trial.
+= 二项分布可以刻画抛硬币，以及任何只有两种结果的试验。
 binomial distribution = 二项分布
 构词：bi- 二 + nomen 名
 
@@ -255,13 +255,13 @@ biochemist
 蛋白质怎么折叠都归他们管。它跟 chemist 的分工是研究对象：
 chemist 研究物质本身，biochemist 研究物质在活体里怎么反应。
 注意英式的 chemist 还有"药剂师、药店"的意思，biochemist 没有这一层。
-① She trained as a biochemist.
-= 她学的是生物化学。
-② Biochemists study enzyme activity.
-= 生化学家研究酶的活性。
+① She trained as a biochemist and ended up running a brewery.
+= 她学的是生物化学，最后经营起一家啤酒厂。
+② Biochemists study enzyme activity at temperatures the body never reaches.
+= 生化学家研究酶的活性，用的温度是身体永远达不到的。
 enzyme activity = 酶活性
-③ The lab hired two biochemists.
-= 那间实验室招了两名生化学家。
+③ The lab hired two biochemists and lost them both to industry within a year.
+= 那间实验室招了两名生化学家，一年内都被企业挖走了。
 注意别混：
 biochemist = 生物化学家
 chemist = 化学家；（英式）药剂师、药店
@@ -273,17 +273,17 @@ biochemistry
 用化学的方法去解释生命现象。不可数。它也用来指某个具体生物体
 "体内的生化状况"——说 the patient's biochemistry，
 指的是这个人身上那套代谢与激素的实际情形。
-① She majored in biochemistry.
-= 她主修生物化学。
+① She majored in biochemistry and took organic chemistry twice to get through.
+= 她主修生物化学，有机化学修了两遍才过。
 指学科，不可数。
-② Biochemistry links biology and chemistry.
-= 生物化学把生物学和化学连起来。
-③ The drug alters brain biochemistry.
-= 那种药会改变脑内的生化状态。
+② Biochemistry links biology and chemistry by asking how living cells do it.
+= 生物化学问的是活细胞怎么办到的，由此把生物学和化学连了起来。
+③ The drug alters brain biochemistry within about forty minutes of the first dose.
+= 第一剂下去约四十分钟，那种药就会改变脑内的生化状态。
 brain biochemistry = 脑内生化状况
 这一层指具体个体的体内情形，不指学科。
-④ His biochemistry returned to normal.
-= 他的各项生化指标恢复了正常。
+④ His biochemistry returned to normal a fortnight after the transplant.
+= 移植两周后，他的各项生化指标恢复了正常。
 构词：bio- 生命 + chemistry 化学
 词族：
 biochemical = 生化的
@@ -346,16 +346,16 @@ biodefense = 生物防御（美式）
 biodegradable
 核心：说一样东西能被细菌真菌分解掉，烂完回到自然里。反面是塑料
 玻璃那种埋着不烂的，否定式 not biodegradable 用得很多。
-① Use biodegradable packaging.
-= 用可降解的包装。
+① Use biodegradable packaging or expect the council to charge you for waste.
+= 用可降解包装，否则等着市政按垃圾收你的钱。
 biodegradable packaging = 可降解包装
-② The bags are fully biodegradable.
-= 那些袋子完全可以降解。
+② The bags are fully biodegradable but only in an industrial composter.
+= 那些袋子完全可以降解，条件是进工业堆肥设施。
 作表语常跟 fully、100% 连用。
-③ The detergent is biodegradable.
-= 那种洗涤剂可以自然降解。
-④ Glass is not biodegradable.
-= 玻璃不会自然降解。
+③ The detergent is biodegradable and breaks down before it reaches the river.
+= 那种洗涤剂可以自然降解，流到河里之前就分解掉了。
+④ Glass is not biodegradable, though it can be melted down again and again.
+= 玻璃不会自然降解，尽管它可以一再回炉重熔。
 玻璃可以回收，但微生物拿它没办法，两件事别混。
 构词：bio- 生物 + degradable 可降解的
 注意别混：
@@ -385,17 +385,17 @@ biodegradation = 生物降解（那个过程）
 biodiesel
 核心：用植物油或动物脂肪做的柴油替代燃料。不可数。按掺混比例标号，
 B20 是掺两成，B100 才是纯的。
-① The bus runs on biodiesel.
-= 那辆公交车烧生物柴油。
+① The bus runs on biodiesel and smells faintly of the chip shop next door.
+= 那辆公交车烧生物柴油，闻着有点像隔壁炸薯条的店。
 run on = 以某种燃料驱动
-② Biodiesel is made from vegetable oil.
-= 生物柴油用植物油做。
+② Biodiesel is made from vegetable oil, animal fat, or a blend of the two.
+= 生物柴油用植物油、动物脂肪，或者两者的混合料制成。
 be made from = 由某原料制成
-③ Used cooking oil can be turned into biodiesel.
-= 废食用油可以变成生物柴油。
+③ Used cooking oil can be turned into biodiesel for the price of collecting it.
+= 废食用油只要收得上来，就能变成生物柴油。
 餐馆废油是主要原料，顺带解决了废油乱排。
-④ B20 contains twenty per cent biodiesel.
-= B20 含两成生物柴油。
+④ B20 contains twenty per cent biodiesel and works in an unmodified engine.
+= B20 含两成生物柴油，发动机不用改装就能烧。
 构词：bio- 生物 + diesel 柴油
 近义对照：
 biodiesel = 生物柴油（替柴油）
@@ -404,18 +404,18 @@ bioethanol = 生物乙醇（替汽油）
 biodiversity
 核心：一个地方生物种类的丰富程度，也含种内的基因差异。不可数，
 多跟 loss、hotspot、conservation 这几个词搭配出现。
-① The reef has extraordinary biodiversity.
-= 那片珊瑚礁生物多样性极高。
+① The reef has extraordinary biodiversity packed into a few square kilometres.
+= 那片珊瑚礁在几平方公里里塞下了极高的生物多样性。
 不可数，不加冠词。
-② Deforestation causes biodiversity loss.
-= 砍伐森林造成生物多样性丧失。
+② Deforestation causes biodiversity loss that no replanting scheme can undo.
+= 砍伐森林造成的生物多样性丧失，再造林计划也补不回来。
 biodiversity loss = 生物多样性丧失
-③ The island is a biodiversity hotspot.
-= 那座岛是生物多样性热点地区。
+③ The island is a biodiversity hotspot and half its species live nowhere else.
+= 那座岛是生物多样性热点地区，一半物种别处没有。
 biodiversity hotspot = 生物多样性热点地区
 指物种极丰富又极受威胁的地方，两个条件缺一不算。
-④ Monocultures reduce biodiversity.
-= 单一种植会降低生物多样性。
+④ Monocultures reduce biodiversity and leave the whole crop open to one disease.
+= 单一种植降低生物多样性，一种病就能把整片作物拿下。
 构词：bio- 生物 + diversity 多样性
 词族：
 biodiverse = 生物多样性丰富的
@@ -440,18 +440,18 @@ bioengineering
 核心：两条线：把工程手段用到医学上（人工关节、支架、义肢），也叫
 biomedical engineering；或者改造生物体去替人合成药物材料。共同点
 是把活物当成工程对象来造。不可数。
-① She studies bioengineering.
-= 她学的是生物工程。
+① She studies bioengineering and spends more time in a machine shop than a lab.
+= 她学的是生物工程，泡在机加工车间的时间比在实验室还多。
 不可数，不加冠词。
-② Bioengineering produced the artificial hip.
-= 人工髋关节是生物工程的产物。
+② Bioengineering produced the artificial hip that now lasts twenty-five years.
+= 人工髋关节是生物工程的产物，如今能用二十五年。
 医学那一支：给身体做可替换的零件。
-③ Bioengineered bacteria make insulin.
-= 经过改造的细菌能生产胰岛素。
+③ Bioengineered bacteria make insulin far more cheaply than animal pancreases did.
+= 经过改造的细菌生产胰岛素，比从前用动物胰腺便宜得多。
 bioengineered = 经生物工程改造的
 改造活物那一支：把细菌当小工厂使。
-④ Tissue bioengineering grows skin for grafts.
-= 组织工程能培育出移植用的皮肤。
+④ Tissue bioengineering grows skin for grafts from a patch the size of a stamp.
+= 组织工程用一小块邮票大的皮肤培育出移植用的皮片。
 tissue engineering = 组织工程
 构词：bio- 生物 + engineering 工程
 近义对照：
@@ -461,16 +461,16 @@ biotechnology = 生物技术（重在把生物过程用于产业）
 bioethanol
 核心：作物发酵酿出的酒精，脱水后当汽油替代燃料烧。多掺进汽油里用，
 E10、E85 这类标号里的数字就是乙醇的掺混比例。
-① The car runs on a bioethanol blend.
-= 那辆车烧的是掺了乙醇的汽油。
+① The car runs on a bioethanol blend and loses a little range in winter.
+= 那辆车烧掺了乙醇的汽油，冬天续航略短一些。
 blend = 掺混燃料
-② Bioethanol is fermented from sugar cane.
-= 生物乙醇由甘蔗发酵制成。
+② Bioethanol is fermented from sugar cane in the tropics and from maize elsewhere.
+= 生物乙醇在热带由甘蔗发酵而成，别处用的是玉米。
 be fermented from = 由某原料发酵而成
-③ E10 petrol contains ten per cent bioethanol.
-= E10 汽油含一成生物乙醇。
-④ Cellulosic bioethanol uses crop waste.
-= 纤维素乙醇用的是农作物废料。
+③ E10 petrol contains ten per cent bioethanol and suits most cars built since 2011.
+= E10 汽油含一成生物乙醇，二〇一一年后的多数车都能用。
+④ Cellulosic bioethanol uses crop waste instead of grain that people could eat.
+= 纤维素乙醇用农作物废料，不占用人能吃的粮食。
 用秸秆不用玉米粒，为的就是不跟人抢粮。
 构词：bio- 生物 + ethanol 乙醇
 近义对照：

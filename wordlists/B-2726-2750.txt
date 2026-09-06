@@ -2,14 +2,14 @@ blaspheme
 核心：说话亵渎神圣，指用不敬的方式提到神或宗教。它跟一般的骂人
 分得开：亵渎针对的是神圣之物，所以在一些国家仍是罪名。
 及物不及物都行，正式用词。
-① He was accused of blaspheming.
-= 他被指控亵渎神明。
+① He was accused of blaspheming in a sermon he had given twelve years earlier.
+= 他因十二年前的一篇讲道被指控亵渎神明。
 不及物用法。
-② They believed he had blasphemed against God.
-= 他们认为他亵渎了神。
+② They believed he had blasphemed against God by translating the text at all.
+= 他们认为他光是翻译那部经文就已经亵渎了神。
 blaspheme against = 亵渎（某个神圣对象）
-③ The play was said to blaspheme.
-= 那出戏被指为亵渎之作。
+③ The play was said to blaspheme, and the theatre lost its licence over it.
+= 那出戏被指为亵渎之作，剧院因此丢了执照。
 构词：希腊语 blasphemein 恶言相加
 注意语域：正式，宗教语境。
 词族：
@@ -66,16 +66,16 @@ blasphemy
 可数。它在不少国家曾是甚至仍是罪名，所以这个词天然带法律色彩。
 今天也常用作夸张的玩笑：在某个圈子里说了大忌讳的话，就说那是
 blasphemy。
-① He was charged with blasphemy.
-= 他被控亵渎罪。
+① He was charged with blasphemy under a statute nobody had used since 1922.
+= 他被控亵渎罪，依据的是一条自一九二二年起就没人用过的法条。
 概念义，不可数。
-② That remark was pure blasphemy.
-= 那句话纯属亵渎。
-③ Blasphemy laws still exist in some countries.
-= 一些国家仍有亵渎罪的法律。
+② That remark was pure blasphemy to anyone who had grown up in the village.
+= 对在那村里长大的人来说，那句话纯属亵渎。
+③ Blasphemy laws still exist in some countries and carry heavy sentences.
+= 一些国家仍有亵渎罪的法律，刑罚很重。
 blasphemy law = 亵渎罪法律
-④ Calling that a curry is blasphemy.
-= 管那个叫咖喱简直是大不敬。
+④ Calling that a curry is blasphemy in a house where the recipe is inherited.
+= 在一个食谱代代相传的家里，管那个叫咖喱简直是大不敬。
 夸张的玩笑用法。
 构词：blaspheme 亵渎 + -y 名词后缀
 词族：
@@ -131,16 +131,16 @@ blasted
 核心：两支，语气差得远。一是委婉的咒骂，等于"该死的"，语气比
 真脏话轻，多是上了年纪的英国人在用；二是字面的被毁——被炸掉的、
 被雷劈焦的、被风霜打枯的，说树说地貌都行。
-① Where is that blasted key?
-= 那把该死的钥匙哪儿去了。
+① Where is that blasted key? I had it in my hand two minutes ago.
+= 那把该死的钥匙哪儿去了？两分钟前还在我手上。
 blasted = 该死的（委婉咒骂）
-② I can't get this blasted thing open.
-= 我打不开这个鬼东西。
-③ A blasted oak stood on the ridge.
-= 山脊上立着一棵被雷劈焦的橡树。
+② I can't get this blasted thing open without a screwdriver and better light.
+= 没有螺丝刀和亮一点的灯，我打不开这个鬼东西。
+③ A blasted oak stood on the ridge and had done since before anyone could remember.
+= 山脊上立着一棵被雷劈焦的橡树，谁都记不清它从什么时候起就在了。
 字面那一支：被毁的。
-④ They crossed the blasted landscape.
-= 他们穿过那片焦土。
+④ They crossed the blasted landscape on foot and found no water for two days.
+= 他们徒步穿过那片焦土，两天没找到水。
 构词：blast 炸、猛吹 + -ed
 注意语域：咒骂那一支偏旧、偏英式，语气很轻。
 近义对照：
@@ -152,16 +152,16 @@ blatant
 这四个字上：同样是撒谎，a lie 是中性描述，a blatant lie 是在说
 "谎撒得连装都不装"。只用于负面的事，是个贬义词，常跟 lie、
 disregard、attempt 搭配。
-① That is a blatant lie.
-= 那是明目张胆的谎话。
+① That is a blatant lie and the record of the meeting proves it.
+= 那是明目张胆的谎话，会议记录就能证明。
 a blatant lie = 赤裸裸的谎言
-② He showed blatant disregard for the rules.
-= 他公然无视规则。
+② He showed blatant disregard for the rules and was not even asked to explain.
+= 他公然无视规则，却连解释都没让他解释。
 blatant disregard = 公然无视
-③ It was a blatant attempt to mislead.
-= 那是明摆着要误导人。
-④ The foul was blatant.
-= 那个犯规明目张胆。
+③ It was a blatant attempt to mislead the committee about the real cost.
+= 那是明摆着要在真实成本上误导委员会。
+④ The foul was blatant and everyone in the ground saw it except the referee.
+= 那个犯规明目张胆，全场都看见了，只有裁判没看见。
 构词：可能为斯宾塞生造的词
 注意用法：只用于负面的事，
 说好事不能用它。
@@ -273,17 +273,17 @@ blazing
 核心：三支，都从"烧得旺"来。字面是熊熊燃烧的；说天气是烈日
 炎炎的；说争吵是火气很大的——a blazing row 指吵得不可开交，
 这是英式口语里的高频搭配。
-① A blazing fire filled the grate.
-= 炉膛里烧着旺火。
+① A blazing fire filled the grate and drove everyone to the far side of the room.
+= 炉膛里烧着旺火，把所有人都逼到了屋子那一头。
 字面那一支。
-② They walked in blazing sunshine.
-= 他们顶着烈日走路。
+② They walked in blazing sunshine for six miles without a scrap of shade.
+= 他们顶着烈日走了六英里，一点树荫都没有。
 blazing sunshine = 烈日
-③ The couple had a blazing row.
-= 那对夫妻大吵了一架。
+③ The couple had a blazing row in the car park and drove home separately.
+= 那对夫妻在停车场大吵一架，各开各的车回了家。
 a blazing row = 一场大吵（英式口语）
-④ She fixed him with a blazing stare.
-= 她怒目瞪着他。
+④ She fixed him with a blazing stare until he put the letter back down.
+= 她怒目瞪着他，直到他把那封信放回去。
 blazing stare = 怒视
 构词：blaze 烧旺 + -ing
 词族：
@@ -310,16 +310,16 @@ bleach
 既漂白又消毒；动词是漂白，头发、衣服、珊瑚都能说。珊瑚白化叫
 coral bleaching，水温一高，珊瑚把体内的共生藻排掉就褪成惨白。
 名词不可数。
-① She cleaned the sink with bleach.
-= 她用漂白水刷了水池。
+① She cleaned the sink with bleach and opened every window in the flat.
+= 她用漂白水刷了水池，把公寓的窗子全打开了。
 名词，不可数。
-② He bleached his hair blond.
-= 他把头发漂成了金色。
+② He bleached his hair blond the week before the wedding photographs.
+= 拍婚纱照前一周，他把头发漂成了金色。
 bleach one's hair = 把头发漂色
-③ The sun had bleached the curtains.
-= 太阳把窗帘晒褪色了。
-④ Warming seas cause coral bleaching.
-= 海水变暖造成珊瑚白化。
+③ The sun had bleached the curtains along one edge and left the rest untouched.
+= 太阳把窗帘晒褪了一条边，其余部分完好如初。
+④ Warming seas cause coral bleaching on a scale divers can see from the surface.
+= 海水变暖造成珊瑚白化，规模大到潜水员在水面就看得见。
 coral bleaching = 珊瑚白化
 构词：古英语 blæcan 使变白
 词族：
@@ -362,17 +362,17 @@ bleak
 核心：三支，共同点是"光秃秃、没盼头"。说地方是荒凉空旷、没遮没挡；
 说天气是阴冷灰暗；说前景是黯淡无望。三支都带一股冷意，所以
 a bleak future 不只是"不好"，是"看不到亮处"。
-① The moor looked bleak in winter.
-= 冬天的荒原一片萧索。
+① The moor looked bleak in winter, with nothing between you and the wind.
+= 冬天的荒原一片萧索，你和风之间什么遮挡都没有。
 地方那一支：空旷无遮。
-② It was a bleak, grey morning.
-= 那是个阴冷灰暗的早晨。
+② It was a bleak, grey morning and the sea and sky were the same colour.
+= 那是个阴冷灰暗的早晨，海和天一个颜色。
 天气那一支。
-③ The outlook is bleak.
-= 前景一片黯淡。
+③ The outlook is bleak for anyone hoping to buy a first home this year.
+= 对今年想买第一套房的人来说，前景一片黯淡。
 a bleak outlook = 黯淡的前景
-④ She painted a bleak picture of the economy.
-= 她把经济形势说得一片惨淡。
+④ She painted a bleak picture of the economy and turned out to be optimistic.
+= 她把经济形势说得一片惨淡，事后看还算乐观了。
 paint a bleak picture = 描绘出黯淡的图景
 构词：古诺斯语 bleikr 苍白的
 近义对照：
@@ -437,17 +437,17 @@ bleat
 核心：本义是羊或小牛的叫声，那种细而颤的"咩"。引申一支很常用：
 指人有气无力地抱怨、絮絮叨叨地叫屈，带轻蔑——把对方的抱怨比作
 羊叫。后面跟 about。也作名词。
-① The lambs bleated in the field.
-= 羊羔在田里咩咩叫。
+① The lambs bleated in the field until the farmer came with the bucket.
+= 羊羔在田里咩咩叫，直到农夫提着桶来。
 本义。
-② Stop bleating about the weather.
-= 别老抱怨天气了。
+② Stop bleating about the weather and put on a coat that actually fits.
+= 别老抱怨天气了，去穿件合身的外套。
 bleat about = 絮叨着抱怨
 引申义，带轻蔑。
-③ He bleated that it was unfair.
-= 他哼哼唧唧说这不公平。
-④ A faint bleat came from the barn.
-= 谷仓里传来一声细弱的羊叫。
+③ He bleated that it was unfair, having agreed to the terms in writing.
+= 他哼哼唧唧说这不公平，可条款是他书面同意的。
+④ A faint bleat came from the barn and everyone stopped to listen.
+= 谷仓里传来一声细弱的羊叫，所有人都停下来听。
 名词用法。
 构词：拟声，模仿羊叫
 注意语用：说人的那一支带轻蔑。

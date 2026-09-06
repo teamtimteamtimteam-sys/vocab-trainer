@@ -88,15 +88,15 @@ bizarre
 不熟悉，bizarre 是怪得不合常理、讲出来别人都不信。它不带道德评判，
 说的是"荒诞"，不是"恶劣"。注意跟同音的 bazaar（集市）分开，
 两个词只是读音撞了，毫无关系。
-① It was a bizarre coincidence.
-= 那是个离奇的巧合。
+① It was a bizarre coincidence that neither of them could explain afterwards.
+= 那是个离奇的巧合，事后两人谁也说不清。
 a bizarre coincidence = 离奇的巧合
-② He told a bizarre story.
-= 他讲了个荒诞的故事。
-③ The whole situation was bizarre.
-= 整件事透着古怪。
-④ She wore a bizarre outfit.
-= 她穿了身怪模怪样的衣服。
+② He told a bizarre story about a stolen boat and a policeman on a horse.
+= 他讲了个荒诞的故事，说的是一条被偷的船和一个骑马的警察。
+③ The whole situation was bizarre, and everybody behaved as if it were normal.
+= 整件事透着古怪，所有人却当它再正常不过。
+④ She wore a bizarre outfit to the interview and got the job anyway.
+= 她穿了身怪模怪样的衣服去面试，居然还录取了。
 注意别混：
 bizarre = 离奇的（形容词）
 bazaar = 集市（名词，同音不同词）
@@ -323,17 +323,17 @@ black box
 虽有 black，实物却是橙色的，为的是好找。二是引申义：只看得见
 输入和输出、里头怎么运作不知道的系统，讨论算法和人工智能时用得最多。
 可数。
-① Investigators recovered the black box.
-= 调查人员找回了黑匣子。
+① Investigators recovered the black box from ninety metres of water.
+= 调查人员从九十米深的水下找回了黑匣子。
 recover = 寻回
-② The black box records the flight data.
-= 黑匣子记录飞行数据。
+② The black box records the flight data and the voices in the cockpit.
+= 黑匣子记录飞行数据，也录下驾驶舱里的对话。
 flight data = 飞行数据
-③ The algorithm is a black box.
-= 那个算法就是个黑箱。
+③ The algorithm is a black box even to the engineers who trained it.
+= 那个算法连训练它的工程师都看不透。
 引申义：只知进出，不知内里。
-④ Users distrust black box systems.
-= 用户不信任黑箱系统。
+④ Users distrust black box systems that decide who gets a loan.
+= 用户不信任那种决定谁能贷到款的黑箱系统。
 black box system = 黑箱系统
 构词：black 黑 + box 匣子
 注意用法：实物其实是橙色的，
@@ -375,17 +375,17 @@ black hole
 核心：两支。天文上指引力大到连光都逃不出去的天体，边界叫事件视界，
 越过去就再也出不来。这个"有进无出"的画面直接生出了比喻义：
 钱、时间、人力投进去看不见回响的地方，都可以叫 black hole。可数。
-① Light cannot escape a black hole.
-= 光逃不出黑洞。
+① Light cannot escape a black hole once it crosses the event horizon.
+= 光一旦越过事件视界就逃不出黑洞。
 escape = 逃离
-② The telescope imaged a black hole.
-= 那台望远镜拍到了一个黑洞。
-③ The project became a financial black hole.
-= 那个项目成了吞钱的无底洞。
+② The telescope imaged a black hole by linking eight stations across the planet.
+= 那台望远镜串起全球八个台站，拍到了一个黑洞。
+③ The project became a financial black hole that swallowed four years of grants.
+= 那个项目成了吞钱的无底洞，四年的经费都填了进去。
 a financial black hole = 财政无底洞
 比喻义：投进去没有回响。
-④ Her inbox is a black hole.
-= 她的收件箱就是个黑洞。
+④ Her inbox is a black hole and the only way to reach her is to knock.
+= 她的收件箱就是个黑洞，找她只能去敲门。
 构词：black 黑 + hole 洞
 词族：
 event horizon = 事件视界（越过就出不来的边界）

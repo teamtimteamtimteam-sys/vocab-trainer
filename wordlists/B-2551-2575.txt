@@ -1,18 +1,18 @@
 bioethics
 核心：研究生物医学进展带来的道德难题——器官怎么分配、基因该不该
 编辑、临终撤不撤治疗。形式上是复数，当单数用。
-① Bioethics deals with hard choices.
-= 生物伦理学处理的是两难的抉择。
+① Bioethics deals with hard choices that medicine can pose but not settle.
+= 生物伦理学处理的是医学提得出、却解决不了的两难抉择。
 形式复数，谓语用单数。
-② The hospital has a bioethics committee.
-= 那家医院设有生物伦理委员会。
+② The hospital has a bioethics committee that meets whenever a case is disputed.
+= 那家医院设有生物伦理委员会，一有争议病例就开会。
 bioethics committee = 生物伦理委员会
-③ Gene editing raises bioethical questions.
-= 基因编辑引出生物伦理问题。
+③ Gene editing raises bioethical questions faster than any parliament can answer them.
+= 基因编辑抛出生物伦理问题的速度，比哪个议会都回答得快。
 bioethical = 生物伦理的
 名词不能直接当定语，要换成 -al 的形容词。
-④ She teaches bioethics at the medical school.
-= 她在医学院教生物伦理学。
+④ She teaches bioethics at the medical school and trained originally as a lawyer.
+= 她在医学院教生物伦理学，原本学的是法律。
 构词：bio- 生命 + ethics 伦理学
 词族：
 bioethicist = 生物伦理学家
@@ -201,17 +201,17 @@ biology
 核心：研究生命的学科。还有一支容易漏：指某个生物体自身的生理机能
 ——说 the biology of the tumour 或 her biology，讲的是身体怎么运作，
 不是那门学问。两支都不可数。
-① She teaches biology.
-= 她教生物。
+① She teaches biology to fifteen-year-olds and still dissects a real heart.
+= 她给十五岁的学生教生物，至今还解剖真心脏。
 指学科，不可数。
-② We studied plant biology.
-= 我们学了植物生物学。
+② We studied plant biology for a term and grew nothing that survived.
+= 我们学了一学期植物生物学，种什么活什么死。
 plant biology = 植物生物学
-③ The drug alters the biology of the tumour.
-= 那种药会改变肿瘤的生理活动。
+③ The drug alters the biology of the tumour rather than attacking it directly.
+= 那种药改变肿瘤的生理活动，而不是直接去攻击它。
 the biology of = 某物的生理机能
-④ Her biology worked against her.
-= 她的身体条件对她不利。
+④ Her biology worked against her and no amount of training could change it.
+= 她的身体条件对她不利，再怎么练也改不了。
 这一支指个体的生理机能，不指学问。
 构词：bio- 生命 + -logy 学科
 词族：
@@ -235,16 +235,16 @@ bioluminescent = 会发生物光的
 biomass
 核心：两支。生态学上指一片地方生物体的总量，按重量算；能源上指
 拿来当燃料的植物与动物废料。两支都不可数。
-① Forest biomass has declined.
-= 森林生物量下降了。
+① Forest biomass has declined even where the number of trees has held steady.
+= 有些地方树的棵数没变，森林生物量却下降了。
 生态学那一支：量的是重量，不是个体数。
-② Insect biomass fell by a third.
-= 昆虫生物量减少了三分之一。
-③ The plant burns biomass for power.
-= 那家电厂烧生物质发电。
+② Insect biomass fell by a third over twenty-seven years of trapping.
+= 二十七年的诱捕记录显示，昆虫生物量减少了三分之一。
+③ The plant burns biomass for power and ships the fuel across an ocean.
+= 那家电厂烧生物质发电，燃料要跨洋运来。
 能源那一支：指原料本身。
-④ Biomass boilers run on wood pellets.
-= 生物质锅炉烧木屑颗粒。
+④ Biomass boilers run on wood pellets and need the fuel kept absolutely dry.
+= 生物质锅炉烧木屑颗粒，燃料必须保持绝对干燥。
 biomass boiler = 生物质锅炉
 构词：bio- 生物 + mass 量
 近义对照：

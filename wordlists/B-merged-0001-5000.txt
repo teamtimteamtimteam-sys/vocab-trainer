@@ -43816,14 +43816,14 @@ beep
 核心：电子设备发出的短促"嘀"声，也指按汽车喇叭的短鸣。
 名词动词同形。给人 beep 一下在口语里还指"打个传呼、按喇叭招呼"。
 拟声词，长音连响则说 beeeep。
-① The microwave beeped.
-= 微波炉嘀了一声。
+① The cash register beeped once for every item and drove her mad by closing time.
+= 收银机每扫一件就嘀一声，到打烊时她快被逼疯了。
 beep = 发出嘀声
-② Leave a message after the beep.
-= 听到提示音后留言。
+② Leave a message after the beep and speak slowly enough to be understood.
+= 听到提示音后留言，说慢一点让人听得懂。
 after the beep = 听到提示音之后
-③ He beeped his horn at me.
-= 他冲我按了下喇叭。
+③ He beeped his horn at me from three cars back and I never saw him.
+= 他隔着三辆车冲我按喇叭，我压根没看见他。
 beep the horn = 按喇叭
 注意：名词动词同形，过去式规则变化。
 
@@ -49196,16 +49196,16 @@ binoculars
 跟 glasses、scissors 同理，论具要说 a pair of binoculars。
 跟单筒的 telescope 分工：binoculars 便携、视野宽、看远处的鸟兽
 和赛场；telescope 倍率高，看天体。
-① He raised his binoculars.
-= 他举起望远镜。
+① He raised his binoculars and picked out the wreck on the far shore.
+= 他举起望远镜，在对岸认出了那条沉船。
 只用复数。
-② She bought a pair of binoculars.
-= 她买了一副望远镜。
+② She bought a pair of binoculars light enough to carry all day.
+= 她买了一副轻到能挂一整天的望远镜。
 a pair of binoculars = 一副双筒望远镜
-③ Birdwatchers never go without binoculars.
-= 观鸟的人从不空手出门。
-④ These binoculars are waterproof.
-= 这副望远镜防水。
+③ Birdwatchers never go out without binoculars and a notebook of some kind.
+= 观鸟的人出门必带望远镜，外加某种本子。
+④ These binoculars are waterproof and survived a whole week at sea.
+= 这副望远镜防水，在海上待了整整一周也没事。
 谓语用复数。
 近义对照：
 binoculars = 双筒望远镜（便携，视野宽）
@@ -49216,18 +49216,18 @@ binomial
 组成的代数式，如 x 加 y；生物学上指"双名法的"，学名由属名加
 种加词两部分组成，所以人是 Homo sapiens。构词是 bi-（二）加
 nomen（拉丁语的"名"）。
-① Expand the binomial.
-= 把那个二项式展开。
+① Expand the binomial and collect the terms with the same power.
+= 把那个二项式展开，再把同次项合并。
 binomial = 二项式（数学）
-② The binomial theorem gives the expansion.
-= 二项式定理给出展开式。
+② The binomial theorem gives the expansion without multiplying it out by hand.
+= 二项式定理直接给出展开式，不必手动一项项乘。
 binomial theorem = 二项式定理
-③ Species have binomial names.
-= 物种用双名法命名。
+③ Species have binomial names, the genus first and the epithet second.
+= 物种用双名法命名，属名在前，种加词在后。
 binomial nomenclature = 双名命名法
 属名在前、种加词在后，两部分缺一不可。
-④ The binomial distribution models coin tosses.
-= 二项分布可以刻画抛硬币。
+④ The binomial distribution models coin tosses and any other two-outcome trial.
+= 二项分布可以刻画抛硬币，以及任何只有两种结果的试验。
 binomial distribution = 二项分布
 构词：bi- 二 + nomen 名
 
@@ -49303,13 +49303,13 @@ biochemist
 蛋白质怎么折叠都归他们管。它跟 chemist 的分工是研究对象：
 chemist 研究物质本身，biochemist 研究物质在活体里怎么反应。
 注意英式的 chemist 还有"药剂师、药店"的意思，biochemist 没有这一层。
-① She trained as a biochemist.
-= 她学的是生物化学。
-② Biochemists study enzyme activity.
-= 生化学家研究酶的活性。
+① She trained as a biochemist and ended up running a brewery.
+= 她学的是生物化学，最后经营起一家啤酒厂。
+② Biochemists study enzyme activity at temperatures the body never reaches.
+= 生化学家研究酶的活性，用的温度是身体永远达不到的。
 enzyme activity = 酶活性
-③ The lab hired two biochemists.
-= 那间实验室招了两名生化学家。
+③ The lab hired two biochemists and lost them both to industry within a year.
+= 那间实验室招了两名生化学家，一年内都被企业挖走了。
 注意别混：
 biochemist = 生物化学家
 chemist = 化学家；（英式）药剂师、药店
@@ -49321,17 +49321,17 @@ biochemistry
 用化学的方法去解释生命现象。不可数。它也用来指某个具体生物体
 "体内的生化状况"——说 the patient's biochemistry，
 指的是这个人身上那套代谢与激素的实际情形。
-① She majored in biochemistry.
-= 她主修生物化学。
+① She majored in biochemistry and took organic chemistry twice to get through.
+= 她主修生物化学，有机化学修了两遍才过。
 指学科，不可数。
-② Biochemistry links biology and chemistry.
-= 生物化学把生物学和化学连起来。
-③ The drug alters brain biochemistry.
-= 那种药会改变脑内的生化状态。
+② Biochemistry links biology and chemistry by asking how living cells do it.
+= 生物化学问的是活细胞怎么办到的，由此把生物学和化学连了起来。
+③ The drug alters brain biochemistry within about forty minutes of the first dose.
+= 第一剂下去约四十分钟，那种药就会改变脑内的生化状态。
 brain biochemistry = 脑内生化状况
 这一层指具体个体的体内情形，不指学科。
-④ His biochemistry returned to normal.
-= 他的各项生化指标恢复了正常。
+④ His biochemistry returned to normal a fortnight after the transplant.
+= 移植两周后，他的各项生化指标恢复了正常。
 构词：bio- 生命 + chemistry 化学
 词族：
 biochemical = 生化的
@@ -49394,16 +49394,16 @@ biodefense = 生物防御（美式）
 biodegradable
 核心：说一样东西能被细菌真菌分解掉，烂完回到自然里。反面是塑料
 玻璃那种埋着不烂的，否定式 not biodegradable 用得很多。
-① Use biodegradable packaging.
-= 用可降解的包装。
+① Use biodegradable packaging or expect the council to charge you for waste.
+= 用可降解包装，否则等着市政按垃圾收你的钱。
 biodegradable packaging = 可降解包装
-② The bags are fully biodegradable.
-= 那些袋子完全可以降解。
+② The bags are fully biodegradable but only in an industrial composter.
+= 那些袋子完全可以降解，条件是进工业堆肥设施。
 作表语常跟 fully、100% 连用。
-③ The detergent is biodegradable.
-= 那种洗涤剂可以自然降解。
-④ Glass is not biodegradable.
-= 玻璃不会自然降解。
+③ The detergent is biodegradable and breaks down before it reaches the river.
+= 那种洗涤剂可以自然降解，流到河里之前就分解掉了。
+④ Glass is not biodegradable, though it can be melted down again and again.
+= 玻璃不会自然降解，尽管它可以一再回炉重熔。
 玻璃可以回收，但微生物拿它没办法，两件事别混。
 构词：bio- 生物 + degradable 可降解的
 注意别混：
@@ -49433,17 +49433,17 @@ biodegradation = 生物降解（那个过程）
 biodiesel
 核心：用植物油或动物脂肪做的柴油替代燃料。不可数。按掺混比例标号，
 B20 是掺两成，B100 才是纯的。
-① The bus runs on biodiesel.
-= 那辆公交车烧生物柴油。
+① The bus runs on biodiesel and smells faintly of the chip shop next door.
+= 那辆公交车烧生物柴油，闻着有点像隔壁炸薯条的店。
 run on = 以某种燃料驱动
-② Biodiesel is made from vegetable oil.
-= 生物柴油用植物油做。
+② Biodiesel is made from vegetable oil, animal fat, or a blend of the two.
+= 生物柴油用植物油、动物脂肪，或者两者的混合料制成。
 be made from = 由某原料制成
-③ Used cooking oil can be turned into biodiesel.
-= 废食用油可以变成生物柴油。
+③ Used cooking oil can be turned into biodiesel for the price of collecting it.
+= 废食用油只要收得上来，就能变成生物柴油。
 餐馆废油是主要原料，顺带解决了废油乱排。
-④ B20 contains twenty per cent biodiesel.
-= B20 含两成生物柴油。
+④ B20 contains twenty per cent biodiesel and works in an unmodified engine.
+= B20 含两成生物柴油，发动机不用改装就能烧。
 构词：bio- 生物 + diesel 柴油
 近义对照：
 biodiesel = 生物柴油（替柴油）
@@ -49452,18 +49452,18 @@ bioethanol = 生物乙醇（替汽油）
 biodiversity
 核心：一个地方生物种类的丰富程度，也含种内的基因差异。不可数，
 多跟 loss、hotspot、conservation 这几个词搭配出现。
-① The reef has extraordinary biodiversity.
-= 那片珊瑚礁生物多样性极高。
+① The reef has extraordinary biodiversity packed into a few square kilometres.
+= 那片珊瑚礁在几平方公里里塞下了极高的生物多样性。
 不可数，不加冠词。
-② Deforestation causes biodiversity loss.
-= 砍伐森林造成生物多样性丧失。
+② Deforestation causes biodiversity loss that no replanting scheme can undo.
+= 砍伐森林造成的生物多样性丧失，再造林计划也补不回来。
 biodiversity loss = 生物多样性丧失
-③ The island is a biodiversity hotspot.
-= 那座岛是生物多样性热点地区。
+③ The island is a biodiversity hotspot and half its species live nowhere else.
+= 那座岛是生物多样性热点地区，一半物种别处没有。
 biodiversity hotspot = 生物多样性热点地区
 指物种极丰富又极受威胁的地方，两个条件缺一不算。
-④ Monocultures reduce biodiversity.
-= 单一种植会降低生物多样性。
+④ Monocultures reduce biodiversity and leave the whole crop open to one disease.
+= 单一种植降低生物多样性，一种病就能把整片作物拿下。
 构词：bio- 生物 + diversity 多样性
 词族：
 biodiverse = 生物多样性丰富的
@@ -49488,18 +49488,18 @@ bioengineering
 核心：两条线：把工程手段用到医学上（人工关节、支架、义肢），也叫
 biomedical engineering；或者改造生物体去替人合成药物材料。共同点
 是把活物当成工程对象来造。不可数。
-① She studies bioengineering.
-= 她学的是生物工程。
+① She studies bioengineering and spends more time in a machine shop than a lab.
+= 她学的是生物工程，泡在机加工车间的时间比在实验室还多。
 不可数，不加冠词。
-② Bioengineering produced the artificial hip.
-= 人工髋关节是生物工程的产物。
+② Bioengineering produced the artificial hip that now lasts twenty-five years.
+= 人工髋关节是生物工程的产物，如今能用二十五年。
 医学那一支：给身体做可替换的零件。
-③ Bioengineered bacteria make insulin.
-= 经过改造的细菌能生产胰岛素。
+③ Bioengineered bacteria make insulin far more cheaply than animal pancreases did.
+= 经过改造的细菌生产胰岛素，比从前用动物胰腺便宜得多。
 bioengineered = 经生物工程改造的
 改造活物那一支：把细菌当小工厂使。
-④ Tissue bioengineering grows skin for grafts.
-= 组织工程能培育出移植用的皮肤。
+④ Tissue bioengineering grows skin for grafts from a patch the size of a stamp.
+= 组织工程用一小块邮票大的皮肤培育出移植用的皮片。
 tissue engineering = 组织工程
 构词：bio- 生物 + engineering 工程
 近义对照：
@@ -49509,16 +49509,16 @@ biotechnology = 生物技术（重在把生物过程用于产业）
 bioethanol
 核心：作物发酵酿出的酒精，脱水后当汽油替代燃料烧。多掺进汽油里用，
 E10、E85 这类标号里的数字就是乙醇的掺混比例。
-① The car runs on a bioethanol blend.
-= 那辆车烧的是掺了乙醇的汽油。
+① The car runs on a bioethanol blend and loses a little range in winter.
+= 那辆车烧掺了乙醇的汽油，冬天续航略短一些。
 blend = 掺混燃料
-② Bioethanol is fermented from sugar cane.
-= 生物乙醇由甘蔗发酵制成。
+② Bioethanol is fermented from sugar cane in the tropics and from maize elsewhere.
+= 生物乙醇在热带由甘蔗发酵而成，别处用的是玉米。
 be fermented from = 由某原料发酵而成
-③ E10 petrol contains ten per cent bioethanol.
-= E10 汽油含一成生物乙醇。
-④ Cellulosic bioethanol uses crop waste.
-= 纤维素乙醇用的是农作物废料。
+③ E10 petrol contains ten per cent bioethanol and suits most cars built since 2011.
+= E10 汽油含一成生物乙醇，二〇一一年后的多数车都能用。
+④ Cellulosic bioethanol uses crop waste instead of grain that people could eat.
+= 纤维素乙醇用农作物废料，不占用人能吃的粮食。
 用秸秆不用玉米粒，为的就是不跟人抢粮。
 构词：bio- 生物 + ethanol 乙醇
 近义对照：
@@ -49528,18 +49528,18 @@ biodiesel = 生物柴油（替柴油）
 bioethics
 核心：研究生物医学进展带来的道德难题——器官怎么分配、基因该不该
 编辑、临终撤不撤治疗。形式上是复数，当单数用。
-① Bioethics deals with hard choices.
-= 生物伦理学处理的是两难的抉择。
+① Bioethics deals with hard choices that medicine can pose but not settle.
+= 生物伦理学处理的是医学提得出、却解决不了的两难抉择。
 形式复数，谓语用单数。
-② The hospital has a bioethics committee.
-= 那家医院设有生物伦理委员会。
+② The hospital has a bioethics committee that meets whenever a case is disputed.
+= 那家医院设有生物伦理委员会，一有争议病例就开会。
 bioethics committee = 生物伦理委员会
-③ Gene editing raises bioethical questions.
-= 基因编辑引出生物伦理问题。
+③ Gene editing raises bioethical questions faster than any parliament can answer them.
+= 基因编辑抛出生物伦理问题的速度，比哪个议会都回答得快。
 bioethical = 生物伦理的
 名词不能直接当定语，要换成 -al 的形容词。
-④ She teaches bioethics at the medical school.
-= 她在医学院教生物伦理学。
+④ She teaches bioethics at the medical school and trained originally as a lawyer.
+= 她在医学院教生物伦理学，原本学的是法律。
 构词：bio- 生命 + ethics 伦理学
 词族：
 bioethicist = 生物伦理学家
@@ -49728,17 +49728,17 @@ biology
 核心：研究生命的学科。还有一支容易漏：指某个生物体自身的生理机能
 ——说 the biology of the tumour 或 her biology，讲的是身体怎么运作，
 不是那门学问。两支都不可数。
-① She teaches biology.
-= 她教生物。
+① She teaches biology to fifteen-year-olds and still dissects a real heart.
+= 她给十五岁的学生教生物，至今还解剖真心脏。
 指学科，不可数。
-② We studied plant biology.
-= 我们学了植物生物学。
+② We studied plant biology for a term and grew nothing that survived.
+= 我们学了一学期植物生物学，种什么活什么死。
 plant biology = 植物生物学
-③ The drug alters the biology of the tumour.
-= 那种药会改变肿瘤的生理活动。
+③ The drug alters the biology of the tumour rather than attacking it directly.
+= 那种药改变肿瘤的生理活动，而不是直接去攻击它。
 the biology of = 某物的生理机能
-④ Her biology worked against her.
-= 她的身体条件对她不利。
+④ Her biology worked against her and no amount of training could change it.
+= 她的身体条件对她不利，再怎么练也改不了。
 这一支指个体的生理机能，不指学问。
 构词：bio- 生命 + -logy 学科
 词族：
@@ -49762,16 +49762,16 @@ bioluminescent = 会发生物光的
 biomass
 核心：两支。生态学上指一片地方生物体的总量，按重量算；能源上指
 拿来当燃料的植物与动物废料。两支都不可数。
-① Forest biomass has declined.
-= 森林生物量下降了。
+① Forest biomass has declined even where the number of trees has held steady.
+= 有些地方树的棵数没变，森林生物量却下降了。
 生态学那一支：量的是重量，不是个体数。
-② Insect biomass fell by a third.
-= 昆虫生物量减少了三分之一。
-③ The plant burns biomass for power.
-= 那家电厂烧生物质发电。
+② Insect biomass fell by a third over twenty-seven years of trapping.
+= 二十七年的诱捕记录显示，昆虫生物量减少了三分之一。
+③ The plant burns biomass for power and ships the fuel across an ocean.
+= 那家电厂烧生物质发电，燃料要跨洋运来。
 能源那一支：指原料本身。
-④ Biomass boilers run on wood pellets.
-= 生物质锅炉烧木屑颗粒。
+④ Biomass boilers run on wood pellets and need the fuel kept absolutely dry.
+= 生物质锅炉烧木屑颗粒，燃料必须保持绝对干燥。
 biomass boiler = 生物质锅炉
 构词：bio- 生物 + mass 量
 近义对照：
@@ -49988,16 +49988,16 @@ biotechnology
 核心：把生物过程或生物体拿来生产东西。老的那一套是酿酒、发酵、
 育种，新的那一套是基因工程、单克隆抗体、细胞培养，用的都是同一个
 词。不可数，口语和股市里缩作 biotech。
-① Biotechnology has transformed medicine.
-= 生物技术改变了医学。
-② She works for a biotechnology firm.
-= 她在一家生物技术公司上班。
+① Biotechnology has transformed medicine in ways the first patents never imagined.
+= 生物技术改变医学的方式，最早那批专利根本没想到。
+② She works for a biotechnology firm that has yet to bring a drug to market.
+= 她在一家生物技术公司上班，那家公司还没有一款药上市。
 biotechnology firm = 生物技术公司
-③ Brewing is an ancient biotechnology.
-= 酿酒是一门古老的生物技术。
+③ Brewing is an ancient biotechnology and predates the word by several thousand years.
+= 酿酒是一门古老的生物技术，比这个词早了好几千年。
 点出老的那一套也算，不是只有基因工程才叫它。
-④ Biotech stocks fell sharply.
-= 生物技术股大跌。
+④ Biotech stocks fell sharply after a single trial failed to meet its endpoint.
+= 一项试验没达到终点指标，生物技术股就大跌了。
 biotech = 生物技术（缩略形式，多作定语）
 构词：bio- 生物 + technology 技术
 
@@ -50113,18 +50113,18 @@ bipolar
 核心：两支，都从"有两极"来。医学上指双相情感障碍，情绪在躁与郁
 两头摆，也直接说 he is bipolar；一般义指有两个极点的、两极对立的，
 说世界格局、说磁体都用它。
-① She was diagnosed as bipolar.
-= 她被诊断为双相情感障碍。
+① She was diagnosed as bipolar at thirty, after years of being told it was stress.
+= 她三十岁确诊双相情感障碍，此前多年一直被说成是压力所致。
 医学那一支，形容词直接作表语。
-② Bipolar disorder needs long-term treatment.
-= 双相情感障碍需要长期治疗。
+② Bipolar disorder needs long-term treatment and a routine that holds up.
+= 双相情感障碍需要长期治疗，还需要一套撑得住的作息。
 bipolar disorder = 双相情感障碍
-③ The Cold War created a bipolar world.
-= 冷战造就了两极格局的世界。
+③ The Cold War created a bipolar world in which small countries had to pick a side.
+= 冷战造就了两极格局的世界，小国不得不选边站。
 bipolar world = 两极格局的世界
 一般义那一支：两个中心互相对峙。
-④ A bipolar transistor has two junctions.
-= 双极型晶体管有两个结。
+④ A bipolar transistor has two junctions and switches on a small base current.
+= 双极型晶体管有两个结，靠一点基极电流就能导通。
 bipolar transistor = 双极型晶体管
 构词：bi- 二 + polar 极的
 注意语用：说人 bipolar 指的是确诊的病，
@@ -50150,17 +50150,17 @@ birch
 核心：桦树，树皮薄、白、一层层剥落，是它最好认的地方；也指桦木。
 另有一支旧用法：the birch 指用一束桦条抽人的体罚，今天只在讲历史
 时见到。树与木不可数时指材料，指具体的树可数。
-① Silver birches line the drive.
-= 白桦树排在车道两旁。
+① Silver birches line the drive and drop their leaves all in the same week.
+= 白桦树排在车道两旁，落叶总在同一周里落完。
 silver birch = 白桦
-② The table is made of birch.
-= 那张桌子是桦木做的。
+② The table is made of birch and has warped slightly along one edge.
+= 那张桌子是桦木做的，有一边微微翘了。
 指木材时不可数。
-③ Birch bark peels off in strips.
-= 桦树皮一条条剥落。
+③ Birch bark peels off in strips thin enough to write on.
+= 桦树皮一条条剥落，薄得可以在上面写字。
 birch bark = 桦树皮
-④ Offenders once faced the birch.
-= 犯事的人从前要挨桦条鞭打。
+④ Offenders once faced the birch for crimes we would now fine them for.
+= 从前犯了事要挨桦条鞭打，那类事今天只是罚款。
 the birch = 桦条鞭刑
 注意年代：这一支已成历史用法。
 配对词：
@@ -50393,18 +50393,18 @@ birdie
 核心：三支，共同点只是都跟"小鸟"沾边。高尔夫里指低于标准杆一杆，
 是这个词今天最常用的意思；儿语里指小鸟，拍照说 watch the birdie
 就是哄小孩看镜头；美式还拿它指羽毛球的球。可数。
-① She made birdie on the fifth.
-= 她在第五洞打出小鸟球。
+① She made birdie on the fifth and gave the shot straight back on the sixth.
+= 她在第五洞打出小鸟球，第六洞又原样还了回去。
 make a birdie = 打出低于标准杆一杆
 高尔夫那一支。
-② He birdied the last hole.
-= 他最后一洞抓了只小鸟。
+② He birdied the last hole to finish one under for the round.
+= 他最后一洞抓了只小鸟，全场以低于标准杆一杆收尾。
 birdie = 打出小鸟球（动词用法）
-③ Look at the camera — watch the birdie!
-= 看镜头，看小鸟啦！
+③ Look at the camera — watch the birdie, and try not to blink this time.
+= 看镜头，看小鸟啦，这回别眨眼。
 watch the birdie = 看镜头（哄小孩的老说法）
-④ The birdie landed outside the line.
-= 羽毛球落在了界外。
+④ The birdie landed just outside the line and the rally was over.
+= 羽毛球落在界外一点点，这一分就结束了。
 birdie = 羽毛球（美式，等于 shuttlecock）
 构词：bird 鸟 + -ie 小称后缀
 配对词：
@@ -50879,17 +50879,17 @@ bishop
 核心：两支。一是基督教的主教，管着一个教区，地位在神父之上、
 大主教之下，礼仪时戴高耸的主教冠；二是国际象棋的象，斜线走，
 名字正是从主教冠的形状来的。两支都可数。
-① The bishop visited the parish.
-= 主教巡视了那个堂区。
+① The bishop visited the parish twice a year and knew every family by name.
+= 主教一年巡视那个堂区两次，每家的姓都叫得出。
 教会那一支。
-② She was consecrated as bishop.
-= 她被祝圣为主教。
+② She was consecrated as bishop in a cathedral packed to the west door.
+= 她在一座挤到西门口的大教堂里被祝圣为主教。
 be consecrated as = 被祝圣为
-③ He moved his bishop to threaten the queen.
-= 他动象去攻王后。
+③ He moved his bishop across the board to threaten the queen and the rook at once.
+= 他把象斜穿棋盘，一步同时威胁王后和车。
 bishop = 象（国际象棋，只走斜线）
-④ Each side starts with two bishops.
-= 每方开局有两个象。
+④ Each side starts with two bishops, one on light squares and one on dark.
+= 每方开局有两个象，一个走白格，一个走黑格。
 一个走白格，一个走黑格，一辈子换不了颜色。
 构词：来自希腊语 episkopos 监督者
 词族：
@@ -51041,17 +51041,17 @@ bitch
 出了这个语境，它是英语里最重的侮辱女性的词之一，任何场合都别用来
 说人。另有两支较轻的口语用法：说事情难办（a bitch of a job），
 以及动词的"抱怨"（bitch about）。
-① The bitch had six puppies.
-= 那条母狗生了六只小狗。
+① The bitch had six puppies and refused to let anyone near the box for a week.
+= 那条母狗生了六只小狗，一周之内不许任何人靠近窝。
 本义，养犬语境里中性。
-② That exam was a real bitch.
-= 那场考试真难。
+② That exam was a real bitch and half the year walked out early.
+= 那场考试真难，一半的同学提前交卷走人。
 a bitch = 难办的事、麻烦事（口语，粗俗）
-③ He kept bitching about the food.
-= 他一个劲儿抱怨伙食。
+③ He kept bitching about the food and ate every plate of it anyway.
+= 他一个劲儿抱怨伙食，可每一盘还是吃得精光。
 bitch about = 数落、抱怨（口语，粗俗）
-④ That guitar solo is bitchin'.
-= 那段吉他独奏帅炸了。
+④ That guitar solo is bitchin', and he plays it left-handed on a borrowed instrument.
+= 那段吉他独奏帅炸了，他还是借了把琴反手弹的。
 bitchin' = 极好的、带劲的（美式俚语，跟本义的贬义无关）
 注意语用：除养犬语境外一律粗俗；
 指女性时属严重冒犯，读到要懂，自己不要用。
@@ -51095,17 +51095,17 @@ bitcoin
 根本分别是没有发行机构：账本由全网共同记录，靠算力和密码学保证
 不能篡改，总量写死在协议里，上限两千一百万枚。大写 Bitcoin 多指
 这套网络与协议，小写 bitcoin 指币本身。指币时可数。
-① He bought two bitcoins.
-= 他买了两枚比特币。
+① He bought two bitcoins in 2013 and lost the password to the wallet.
+= 他在二〇一三年买了两枚比特币，后来把钱包密码弄丢了。
 指币本身时可数。
-② The shop accepts bitcoin.
-= 那家店收比特币。
+② The shop accepts bitcoin but prices everything in the local currency.
+= 那家店收比特币，标价却一律用本地货币。
 泛指这种支付方式时不加冠词。
-③ Bitcoin runs on a blockchain.
-= 比特币跑在区块链上。
+③ Bitcoin runs on a blockchain that every participant keeps a copy of.
+= 比特币跑在区块链上，每个参与者都存着一份账本。
 blockchain = 区块链
-④ Bitcoin has no central issuer.
-= 比特币没有中央发行方。
+④ Bitcoin has no central issuer, so nobody can print more of it to cover a crisis.
+= 比特币没有中央发行方，谁也不能多印一些来救急。
 这是它跟法定货币最根本的分别。
 构词：bit 位 + coin 币
 词族：
@@ -51205,18 +51205,18 @@ biting
 核心：形容词，两支都是"咬人"的比喻：说风说冷是刺骨——冷得像
 往肉里咬；说话说文字是尖刻——损人损得像咬一口。共同点是那股
 "往里钻、让人受不了"的劲儿。
-① A biting wind cut across the field.
-= 刺骨的风扫过田野。
+① A biting wind cut across the field and drove the spectators behind the stand.
+= 刺骨的风扫过球场，把观众逼到了看台后面。
 a biting wind = 刺骨的风
 天气那一支。
-② It was a biting cold morning.
-= 那是个冷得刺骨的早晨。
-③ She made a biting remark about his book.
-= 她对他那本书说了句很尖刻的话。
+② It was a biting cold morning and the locks on the gates had frozen solid.
+= 那是个冷得刺骨的早晨，大门上的锁全冻死了。
+③ She made a biting remark about his book and then offered to review it.
+= 她对他那本书说了句很尖刻的话，转头又提出要写书评。
 a biting remark = 一句尖刻话
 言辞那一支。
-④ The review was biting.
-= 那篇评论很刻薄。
+④ The review was biting, and the publisher quoted the one kind sentence in it.
+= 那篇评论很刻薄，出版社偏偏引了里头唯一一句好话。
 构词：bite 咬 + -ing 的
 近义对照：
 biting = 刺骨的；尖刻的（往里钻）
@@ -51392,16 +51392,16 @@ bitterness
 核心：名词，两支。一是味觉上的苦味；二是心里的怨恨——事情过去了
 气还没消，那股积着的不平就是它。第二支用得更多，常跟 lingering、
 deep 搭配，强调它是存下来的，不是当场发的火。不可数。
-① The bitterness of the coffee surprised him.
-= 那咖啡的苦味让他吃了一惊。
+① The bitterness of the coffee surprised him, and he drank it black anyway.
+= 那咖啡的苦味让他吃了一惊，他还是不加奶糖喝了。
 味觉那一支。
-② There was bitterness in her voice.
-= 她话音里带着怨气。
-③ Years of bitterness followed the split.
-= 分手之后是多年的积怨。
+② There was bitterness in her voice that eight years had not worn down.
+= 她话音里带着怨气，八年过去也没磨掉。
+③ Years of bitterness followed the split and neither side spoke at the funeral.
+= 分家之后是多年的积怨，葬礼上两边一句话都没说。
 lingering bitterness = 久久不散的怨恨
-④ He spoke without bitterness.
-= 他说这话时并无怨气。
+④ He spoke without bitterness about the job he had been pushed out of.
+= 谈起那份被挤走的工作，他说得并无怨气。
 构词：bitter 苦的 + -ness 性质
 近义对照：
 bitterness = 怨恨（积下来的，冲人）
@@ -51412,16 +51412,16 @@ bittersweet
 说那种"高兴里掺着难过"的滋味——毕业、告别、老照片，都是典型的
 bittersweet。它跟单纯的"喜忧参半"不同：两种情绪是搅在一起的，
 不是一半一半分得开。
-① The chocolate is bittersweet.
-= 那款巧克力苦中带甜。
+① The chocolate is bittersweet and works far better in a sauce than on its own.
+= 那款巧克力苦中带甜，做酱汁比直接吃好得多。
 bittersweet chocolate = 半甜巧克力
-② Graduation was a bittersweet day.
-= 毕业那天心里五味杂陈。
+② Graduation was a bittersweet day for everyone whose friends were leaving town.
+= 对那些朋友要离开的人来说，毕业那天心里五味杂陈。
 情绪那一支。
-③ She smiled a bittersweet smile.
-= 她笑得又欣慰又难过。
-④ The film has a bittersweet ending.
-= 那部电影的结局苦乐参半。
+③ She smiled a bittersweet smile and put the photograph back in the drawer.
+= 她笑得又欣慰又难过，把照片放回了抽屉。
+④ The film has a bittersweet ending that audiences argued about for years.
+= 那部电影的结局苦乐参半，观众争论了好多年。
 a bittersweet ending = 苦乐参半的结局
 构词：bitter 苦 + sweet 甜
 近义对照：
@@ -51432,15 +51432,15 @@ bitty
 核心：英式口语，指东西零零碎碎、连不成整体——一篇文章东一段西
 一段，一天被杂事切得七零八落，都可以说 bitty。它评的是"不成片"，
 不是"少"。美式另有一支相反的用法，itty-bitty 指小得可爱。
-① The essay felt bitty.
-= 那篇文章读着很零散。
+① The essay felt bitty, as if three drafts had been stapled together.
+= 那篇文章读着很零散，像是把三份草稿钉在了一起。
 零碎那一支：段落连不起来。
-② It was a bitty sort of day.
-= 那一天过得七零八落。
-③ The film is bitty and hard to follow.
-= 那部电影很碎，看着跟不上。
-④ She wore an itty-bitty hat.
-= 她戴了一顶小巧的帽子。
+② It was a bitty sort of day, all short errands and nothing finished.
+= 那一天过得七零八落，尽是些跑腿的小事，一件也没做完。
+③ The film is bitty and hard to follow if you look away for a minute.
+= 那部电影很碎，眼睛离开一分钟就跟不上了。
+④ She wore an itty-bitty hat that stayed on by some means nobody could see.
+= 她戴了顶小巧的帽子，不知靠什么挂在头上。
 itty-bitty = 小小的（美式口语，叠音）
 构词：bit 一小块 + -y 的
 注意语域：英式口语，带贬义。
@@ -51552,15 +51552,15 @@ bizarre
 不熟悉，bizarre 是怪得不合常理、讲出来别人都不信。它不带道德评判，
 说的是"荒诞"，不是"恶劣"。注意跟同音的 bazaar（集市）分开，
 两个词只是读音撞了，毫无关系。
-① It was a bizarre coincidence.
-= 那是个离奇的巧合。
+① It was a bizarre coincidence that neither of them could explain afterwards.
+= 那是个离奇的巧合，事后两人谁也说不清。
 a bizarre coincidence = 离奇的巧合
-② He told a bizarre story.
-= 他讲了个荒诞的故事。
-③ The whole situation was bizarre.
-= 整件事透着古怪。
-④ She wore a bizarre outfit.
-= 她穿了身怪模怪样的衣服。
+② He told a bizarre story about a stolen boat and a policeman on a horse.
+= 他讲了个荒诞的故事，说的是一条被偷的船和一个骑马的警察。
+③ The whole situation was bizarre, and everybody behaved as if it were normal.
+= 整件事透着古怪，所有人却当它再正常不过。
+④ She wore a bizarre outfit to the interview and got the job anyway.
+= 她穿了身怪模怪样的衣服去面试，居然还录取了。
 注意别混：
 bizarre = 离奇的（形容词）
 bazaar = 集市（名词，同音不同词）
@@ -51787,17 +51787,17 @@ black box
 虽有 black，实物却是橙色的，为的是好找。二是引申义：只看得见
 输入和输出、里头怎么运作不知道的系统，讨论算法和人工智能时用得最多。
 可数。
-① Investigators recovered the black box.
-= 调查人员找回了黑匣子。
+① Investigators recovered the black box from ninety metres of water.
+= 调查人员从九十米深的水下找回了黑匣子。
 recover = 寻回
-② The black box records the flight data.
-= 黑匣子记录飞行数据。
+② The black box records the flight data and the voices in the cockpit.
+= 黑匣子记录飞行数据，也录下驾驶舱里的对话。
 flight data = 飞行数据
-③ The algorithm is a black box.
-= 那个算法就是个黑箱。
+③ The algorithm is a black box even to the engineers who trained it.
+= 那个算法连训练它的工程师都看不透。
 引申义：只知进出，不知内里。
-④ Users distrust black box systems.
-= 用户不信任黑箱系统。
+④ Users distrust black box systems that decide who gets a loan.
+= 用户不信任那种决定谁能贷到款的黑箱系统。
 black box system = 黑箱系统
 构词：black 黑 + box 匣子
 注意用法：实物其实是橙色的，
@@ -51839,17 +51839,17 @@ black hole
 核心：两支。天文上指引力大到连光都逃不出去的天体，边界叫事件视界，
 越过去就再也出不来。这个"有进无出"的画面直接生出了比喻义：
 钱、时间、人力投进去看不见回响的地方，都可以叫 black hole。可数。
-① Light cannot escape a black hole.
-= 光逃不出黑洞。
+① Light cannot escape a black hole once it crosses the event horizon.
+= 光一旦越过事件视界就逃不出黑洞。
 escape = 逃离
-② The telescope imaged a black hole.
-= 那台望远镜拍到了一个黑洞。
-③ The project became a financial black hole.
-= 那个项目成了吞钱的无底洞。
+② The telescope imaged a black hole by linking eight stations across the planet.
+= 那台望远镜串起全球八个台站，拍到了一个黑洞。
+③ The project became a financial black hole that swallowed four years of grants.
+= 那个项目成了吞钱的无底洞，四年的经费都填了进去。
 a financial black hole = 财政无底洞
 比喻义：投进去没有回响。
-④ Her inbox is a black hole.
-= 她的收件箱就是个黑洞。
+④ Her inbox is a black hole and the only way to reach her is to knock.
+= 她的收件箱就是个黑洞，找她只能去敲门。
 构词：black 黑 + hole 洞
 词族：
 event horizon = 事件视界（越过就出不来的边界）
@@ -52098,18 +52098,18 @@ blacken
 核心：两支。一是字面的变黑或弄黑——烟熏火燎、天色转暗都用它；
 二是比喻的抹黑，专说毁人名誉，固定搭配是 blacken someone's name
 或 blacken someone's reputation。及物不及物都行。
-① Smoke blackened the ceiling.
-= 烟把天花板熏黑了。
+① Smoke blackened the ceiling and took two coats of paint to cover.
+= 烟把天花板熏黑了，刷了两遍漆才盖住。
 及物用法。
-② The sky blackened before the storm.
-= 暴雨前天色暗了下来。
+② The sky blackened before the storm and the birds went quiet all at once.
+= 暴雨前天色暗了下来，鸟一下子全不叫了。
 不及物用法，主语自己变黑。
-③ He tried to blacken her name.
-= 他想败坏她的名声。
+③ He tried to blacken her name in front of people who had known her for decades.
+= 他想在认识她几十年的人面前败坏她的名声。
 blacken someone's name = 败坏某人名声
 比喻那一支，几乎只跟 name、reputation 搭。
-④ The scandal blackened his reputation.
-= 那桩丑闻毁了他的名声。
+④ The scandal blackened his reputation and no board would have him afterwards.
+= 那桩丑闻毁了他的名声，此后没有一家董事会肯要他。
 构词：black 黑 + -en 使成为
 词族：
 blackened = 熏黑的；煎焦的
@@ -52276,17 +52276,17 @@ blackmail
 毫无关系：mail 在旧苏格兰语里是"贡赋、租金"，十六世纪边境的头目
 向农户强收保护费，那笔钱就叫 blackmail。名词不可数，动词及物。
 另有一支很常用的引申：emotional blackmail 是拿感情要挟。
-① He was arrested for blackmail.
-= 他因敲诈被捕。
+① He was arrested for blackmail after posting a single photograph online.
+= 他在网上发了一张照片，之后就因敲诈被捕。
 不可数，不加冠词。
-② They blackmailed him into resigning.
-= 他们逼他辞了职。
+② They blackmailed him into resigning by threatening to publish the letters.
+= 他们威胁要公开那些信，逼他辞了职。
 blackmail someone into = 要挟某人做某事
-③ She refused to give in to blackmail.
-= 她拒绝向要挟低头。
+③ She refused to give in to blackmail and took the whole story to the police.
+= 她拒绝向要挟低头，把整件事告到了警察那里。
 give in to = 向……屈服
-④ Threatening to leave is emotional blackmail.
-= 拿走人来威胁是情感绑架。
+④ Threatening to leave every time she disagrees is emotional blackmail.
+= 一有分歧就威胁要走，那是情感绑架。
 emotional blackmail = 情感要挟
 构词：black 黑 + mail 贡赋（旧苏格兰语）
 注意来历：跟邮件的 mail 同形不同源。
@@ -52330,16 +52330,16 @@ blackout
 核心：四支，共同点都是"该有的东西突然没了"。电没了是停电；
 灯全灭是战时的灯火管制；人意识没了是昏厥断片；消息不让出去是
 新闻封锁。可数。
-① A blackout hit the whole city.
-= 全城停电了。
+① A blackout hit the whole city and the traffic lights went out at rush hour.
+= 全城停电，正赶上高峰期红绿灯全灭。
 停电那一支。
-② Wartime blackouts kept cities dark.
-= 战时的灯火管制让城市一片黑。
-③ He had a blackout after the second drink.
-= 他喝到第二杯就断片了。
+② Wartime blackouts kept cities dark so that bombers could not find them.
+= 战时的灯火管制让城市一片漆黑，好让轰炸机找不到目标。
+③ He had a blackout after the second drink and remembers nothing of the taxi.
+= 他喝到第二杯就断了片，坐出租的事一点不记得。
 断片那一支：事后想不起来。
-④ There was a news blackout on the case.
-= 那个案子被新闻封锁了。
+④ There was a news blackout on the case until the trial finally opened.
+= 那个案子一直被新闻封锁，直到开庭才解禁。
 news blackout = 新闻封锁
 构词：black 黑 + out 出去、消失
 词族：
@@ -52504,18 +52504,18 @@ blah
 核心：两支。一是名词，指空洞的废话，最常见的样子是连说三遍
 blah blah blah，等于中文的"云云、如此这般"，用来把不想复述的话
 带过去。二是美式形容词，指没劲、提不起精神，说人说事都行。
-① He went on about targets, blah blah blah.
-= 他扯了一通指标什么的。
+① He went on about targets and synergies, blah blah blah, for forty minutes.
+= 他扯了四十分钟的指标啊协同啊之类的。
 blah blah blah = 云云、如此这般
 用来省略不值一提的内容。
-② It was the usual corporate blah.
-= 又是那套公司套话。
+② It was the usual corporate blah about valuing every single employee.
+= 又是那套公司套话，说什么珍视每一位员工。
 名词用法：空话。
-③ I feel a bit blah today.
-= 我今天有点提不起劲。
+③ I feel a bit blah today and cannot face another meeting about meetings.
+= 我今天有点提不起劲，实在不想再开一个讨论开会的会。
 形容词那一支，美式口语。
-④ The film was pretty blah.
-= 那部电影挺没意思。
+④ The film was pretty blah, though the photography was worth the ticket.
+= 那部电影挺没意思，不过摄影值回票价。
 构词：拟声，模仿话多而空的声音
 注意语域：口语，非正式。
 
@@ -52607,16 +52607,16 @@ blanch
 核心：两支，共同点是"变白"。一是脸色刷地变白，受惊或难受时的
 那种；二是厨房里的焯水：食材下开水里一烫马上捞出过冷水，为的是
 去涩、定色、便于去皮，杏仁烫过一搓皮就掉。
-① She blanched at the news.
-= 听到那消息她脸都白了。
+① She blanched at the news and had to sit down on the stairs.
+= 听到那消息她脸都白了，只好在楼梯上坐下。
 blanch at = 因某事脸色发白
-② He blanched when the bill came.
-= 账单一来他脸就白了。
-③ Blanch the beans for two minutes.
-= 把豆角焯两分钟。
+② He blanched when the bill came and reached very slowly for his wallet.
+= 账单一来他脸就白了，掏钱包的手慢得出奇。
+③ Blanch the beans for two minutes, then drop them straight into iced water.
+= 把豆角焯两分钟，马上投进冰水里。
 blanch = 焯水（下开水快烫后过冷）
-④ Blanched almonds slip out of their skins.
-= 烫过的杏仁一搓就脱皮。
+④ Blanched almonds slip out of their skins between your finger and thumb.
+= 烫过的杏仁用两根手指一捏就脱皮。
 blanched almonds = 去皮杏仁
 构词：法语 blanc 白
 近义对照：
@@ -52643,16 +52643,16 @@ bland
 是平淡无味、挑不出特点。它不等于难吃或难看，而是"没劲"——正因为
 如此，医生说 a bland diet（清淡饮食）是褒义的，评论说 bland 就是
 贬义的，全看语境。
-① The soup was rather bland.
-= 那汤味道很淡。
+① The soup was rather bland until somebody found the pepper at the back.
+= 那汤味道很淡，后来有人在后头翻出了胡椒。
 食物那一支。
-② He gave a bland reply.
-= 他给了个不痛不痒的回答。
+② He gave a bland reply that answered neither of the two questions asked.
+= 他给了个不痛不痒的回答，两个问题一个也没答。
 a bland reply = 不痛不痒的回答
-③ The hotel had bland modern decor.
-= 那家酒店的装修现代却乏味。
-④ The doctor recommended a bland diet.
-= 医生建议吃清淡饮食。
+③ The hotel had bland modern decor and could have been in any city on earth.
+= 那家酒店的装修现代却乏味，放在哪座城市都一样。
+④ The doctor recommended a bland diet for a fortnight after the operation.
+= 医生建议术后两周吃清淡饮食。
 a bland diet = 清淡饮食
 这里是褒义，指不刺激肠胃。
 构词：拉丁语 blandus 温和的
@@ -52845,15 +52845,15 @@ blare
 核心：指又响又刺耳地放声，说喇叭、警报、扩音器和开得过大的音乐。
 它跟单纯的"大声"不一样：blare 带着让人受不了的意思，所以后面
 常跟 out。名词就是那阵刺耳的声响。
-① Car horns blared in the street.
-= 街上喇叭响成一片。
-② The radio blared out pop music.
-= 收音机大声放着流行歌。
+① Car horns blared in the street below for a solid twenty minutes.
+= 楼下街上喇叭响成一片，整整响了二十分钟。
+② The radio blared out pop music through a speaker taped to the window.
+= 收音机透过粘在窗上的喇叭大声放着流行歌。
 blare out = 大声放出
-③ Sirens blared all night.
-= 警笛响了一整夜。
-④ The blare of the trumpets startled her.
-= 号声一响把她吓了一跳。
+③ Sirens blared all night and nobody on the street got much sleep.
+= 警笛响了一整夜，那条街上没人睡踏实。
+④ The blare of the trumpets startled her into dropping the programme.
+= 号声一响把她吓了一跳，手里的节目单掉在了地上。
 名词用法：刺耳的声响。
 构词：中古英语 bleren 吼叫
 近义对照：
@@ -52900,14 +52900,14 @@ blaspheme
 核心：说话亵渎神圣，指用不敬的方式提到神或宗教。它跟一般的骂人
 分得开：亵渎针对的是神圣之物，所以在一些国家仍是罪名。
 及物不及物都行，正式用词。
-① He was accused of blaspheming.
-= 他被指控亵渎神明。
+① He was accused of blaspheming in a sermon he had given twelve years earlier.
+= 他因十二年前的一篇讲道被指控亵渎神明。
 不及物用法。
-② They believed he had blasphemed against God.
-= 他们认为他亵渎了神。
+② They believed he had blasphemed against God by translating the text at all.
+= 他们认为他光是翻译那部经文就已经亵渎了神。
 blaspheme against = 亵渎（某个神圣对象）
-③ The play was said to blaspheme.
-= 那出戏被指为亵渎之作。
+③ The play was said to blaspheme, and the theatre lost its licence over it.
+= 那出戏被指为亵渎之作，剧院因此丢了执照。
 构词：希腊语 blasphemein 恶言相加
 注意语域：正式，宗教语境。
 词族：
@@ -52964,16 +52964,16 @@ blasphemy
 可数。它在不少国家曾是甚至仍是罪名，所以这个词天然带法律色彩。
 今天也常用作夸张的玩笑：在某个圈子里说了大忌讳的话，就说那是
 blasphemy。
-① He was charged with blasphemy.
-= 他被控亵渎罪。
+① He was charged with blasphemy under a statute nobody had used since 1922.
+= 他被控亵渎罪，依据的是一条自一九二二年起就没人用过的法条。
 概念义，不可数。
-② That remark was pure blasphemy.
-= 那句话纯属亵渎。
-③ Blasphemy laws still exist in some countries.
-= 一些国家仍有亵渎罪的法律。
+② That remark was pure blasphemy to anyone who had grown up in the village.
+= 对在那村里长大的人来说，那句话纯属亵渎。
+③ Blasphemy laws still exist in some countries and carry heavy sentences.
+= 一些国家仍有亵渎罪的法律，刑罚很重。
 blasphemy law = 亵渎罪法律
-④ Calling that a curry is blasphemy.
-= 管那个叫咖喱简直是大不敬。
+④ Calling that a curry is blasphemy in a house where the recipe is inherited.
+= 在一个食谱代代相传的家里，管那个叫咖喱简直是大不敬。
 夸张的玩笑用法。
 构词：blaspheme 亵渎 + -y 名词后缀
 词族：
@@ -53029,16 +53029,16 @@ blasted
 核心：两支，语气差得远。一是委婉的咒骂，等于"该死的"，语气比
 真脏话轻，多是上了年纪的英国人在用；二是字面的被毁——被炸掉的、
 被雷劈焦的、被风霜打枯的，说树说地貌都行。
-① Where is that blasted key?
-= 那把该死的钥匙哪儿去了。
+① Where is that blasted key? I had it in my hand two minutes ago.
+= 那把该死的钥匙哪儿去了？两分钟前还在我手上。
 blasted = 该死的（委婉咒骂）
-② I can't get this blasted thing open.
-= 我打不开这个鬼东西。
-③ A blasted oak stood on the ridge.
-= 山脊上立着一棵被雷劈焦的橡树。
+② I can't get this blasted thing open without a screwdriver and better light.
+= 没有螺丝刀和亮一点的灯，我打不开这个鬼东西。
+③ A blasted oak stood on the ridge and had done since before anyone could remember.
+= 山脊上立着一棵被雷劈焦的橡树，谁都记不清它从什么时候起就在了。
 字面那一支：被毁的。
-④ They crossed the blasted landscape.
-= 他们穿过那片焦土。
+④ They crossed the blasted landscape on foot and found no water for two days.
+= 他们徒步穿过那片焦土，两天没找到水。
 构词：blast 炸、猛吹 + -ed
 注意语域：咒骂那一支偏旧、偏英式，语气很轻。
 近义对照：
@@ -53050,16 +53050,16 @@ blatant
 这四个字上：同样是撒谎，a lie 是中性描述，a blatant lie 是在说
 "谎撒得连装都不装"。只用于负面的事，是个贬义词，常跟 lie、
 disregard、attempt 搭配。
-① That is a blatant lie.
-= 那是明目张胆的谎话。
+① That is a blatant lie and the record of the meeting proves it.
+= 那是明目张胆的谎话，会议记录就能证明。
 a blatant lie = 赤裸裸的谎言
-② He showed blatant disregard for the rules.
-= 他公然无视规则。
+② He showed blatant disregard for the rules and was not even asked to explain.
+= 他公然无视规则，却连解释都没让他解释。
 blatant disregard = 公然无视
-③ It was a blatant attempt to mislead.
-= 那是明摆着要误导人。
-④ The foul was blatant.
-= 那个犯规明目张胆。
+③ It was a blatant attempt to mislead the committee about the real cost.
+= 那是明摆着要在真实成本上误导委员会。
+④ The foul was blatant and everyone in the ground saw it except the referee.
+= 那个犯规明目张胆，全场都看见了，只有裁判没看见。
 构词：可能为斯宾塞生造的词
 注意用法：只用于负面的事，
 说好事不能用它。
@@ -53171,17 +53171,17 @@ blazing
 核心：三支，都从"烧得旺"来。字面是熊熊燃烧的；说天气是烈日
 炎炎的；说争吵是火气很大的——a blazing row 指吵得不可开交，
 这是英式口语里的高频搭配。
-① A blazing fire filled the grate.
-= 炉膛里烧着旺火。
+① A blazing fire filled the grate and drove everyone to the far side of the room.
+= 炉膛里烧着旺火，把所有人都逼到了屋子那一头。
 字面那一支。
-② They walked in blazing sunshine.
-= 他们顶着烈日走路。
+② They walked in blazing sunshine for six miles without a scrap of shade.
+= 他们顶着烈日走了六英里，一点树荫都没有。
 blazing sunshine = 烈日
-③ The couple had a blazing row.
-= 那对夫妻大吵了一架。
+③ The couple had a blazing row in the car park and drove home separately.
+= 那对夫妻在停车场大吵一架，各开各的车回了家。
 a blazing row = 一场大吵（英式口语）
-④ She fixed him with a blazing stare.
-= 她怒目瞪着他。
+④ She fixed him with a blazing stare until he put the letter back down.
+= 她怒目瞪着他，直到他把那封信放回去。
 blazing stare = 怒视
 构词：blaze 烧旺 + -ing
 词族：
@@ -53208,16 +53208,16 @@ bleach
 既漂白又消毒；动词是漂白，头发、衣服、珊瑚都能说。珊瑚白化叫
 coral bleaching，水温一高，珊瑚把体内的共生藻排掉就褪成惨白。
 名词不可数。
-① She cleaned the sink with bleach.
-= 她用漂白水刷了水池。
+① She cleaned the sink with bleach and opened every window in the flat.
+= 她用漂白水刷了水池，把公寓的窗子全打开了。
 名词，不可数。
-② He bleached his hair blond.
-= 他把头发漂成了金色。
+② He bleached his hair blond the week before the wedding photographs.
+= 拍婚纱照前一周，他把头发漂成了金色。
 bleach one's hair = 把头发漂色
-③ The sun had bleached the curtains.
-= 太阳把窗帘晒褪色了。
-④ Warming seas cause coral bleaching.
-= 海水变暖造成珊瑚白化。
+③ The sun had bleached the curtains along one edge and left the rest untouched.
+= 太阳把窗帘晒褪了一条边，其余部分完好如初。
+④ Warming seas cause coral bleaching on a scale divers can see from the surface.
+= 海水变暖造成珊瑚白化，规模大到潜水员在水面就看得见。
 coral bleaching = 珊瑚白化
 构词：古英语 blæcan 使变白
 词族：
@@ -53260,17 +53260,17 @@ bleak
 核心：三支，共同点是"光秃秃、没盼头"。说地方是荒凉空旷、没遮没挡；
 说天气是阴冷灰暗；说前景是黯淡无望。三支都带一股冷意，所以
 a bleak future 不只是"不好"，是"看不到亮处"。
-① The moor looked bleak in winter.
-= 冬天的荒原一片萧索。
+① The moor looked bleak in winter, with nothing between you and the wind.
+= 冬天的荒原一片萧索，你和风之间什么遮挡都没有。
 地方那一支：空旷无遮。
-② It was a bleak, grey morning.
-= 那是个阴冷灰暗的早晨。
+② It was a bleak, grey morning and the sea and sky were the same colour.
+= 那是个阴冷灰暗的早晨，海和天一个颜色。
 天气那一支。
-③ The outlook is bleak.
-= 前景一片黯淡。
+③ The outlook is bleak for anyone hoping to buy a first home this year.
+= 对今年想买第一套房的人来说，前景一片黯淡。
 a bleak outlook = 黯淡的前景
-④ She painted a bleak picture of the economy.
-= 她把经济形势说得一片惨淡。
+④ She painted a bleak picture of the economy and turned out to be optimistic.
+= 她把经济形势说得一片惨淡，事后看还算乐观了。
 paint a bleak picture = 描绘出黯淡的图景
 构词：古诺斯语 bleikr 苍白的
 近义对照：
@@ -53335,17 +53335,17 @@ bleat
 核心：本义是羊或小牛的叫声，那种细而颤的"咩"。引申一支很常用：
 指人有气无力地抱怨、絮絮叨叨地叫屈，带轻蔑——把对方的抱怨比作
 羊叫。后面跟 about。也作名词。
-① The lambs bleated in the field.
-= 羊羔在田里咩咩叫。
+① The lambs bleated in the field until the farmer came with the bucket.
+= 羊羔在田里咩咩叫，直到农夫提着桶来。
 本义。
-② Stop bleating about the weather.
-= 别老抱怨天气了。
+② Stop bleating about the weather and put on a coat that actually fits.
+= 别老抱怨天气了，去穿件合身的外套。
 bleat about = 絮叨着抱怨
 引申义，带轻蔑。
-③ He bleated that it was unfair.
-= 他哼哼唧唧说这不公平。
-④ A faint bleat came from the barn.
-= 谷仓里传来一声细弱的羊叫。
+③ He bleated that it was unfair, having agreed to the terms in writing.
+= 他哼哼唧唧说这不公平，可条款是他书面同意的。
+④ A faint bleat came from the barn and everyone stopped to listen.
+= 谷仓里传来一声细弱的羊叫，所有人都停下来听。
 名词用法。
 构词：拟声，模仿羊叫
 注意语用：说人的那一支带轻蔑。
@@ -53438,16 +53438,16 @@ bleep
 核心：电子设备发出的短促高音"嘀"。名词动词同形。有一支专门用法
 在广播电视里：把脏话用一声 bleep 盖掉，说 bleep out，所以
 bleeped 就是"被消音了"。
-① The microwave bleeped twice.
-= 微波炉嘀了两声。
-② A bleep signalled the end.
-= 一声嘀响表示结束。
+① The heart monitor bleeped steadily and that was the only sound in the room.
+= 心电监护仪匀速嘀着，那是屋里唯一的声音。
+② A bleep signalled the end of the exam and half the hall groaned.
+= 一声嘀响表示考试结束，半个大厅都哀叫起来。
 名词用法。
-③ They bleeped out the swear word.
-= 他们把那个脏字消了音。
+③ They bleeped out the swear word but left his face on screen the whole time.
+= 他们把那个脏字消了音，画面上他的脸却一直没切。
 bleep out = 消音、用哔声盖掉
-④ Half his sentence was bleeped.
-= 他半句话都被消了音。
+④ Half his sentence was bleeped and the meaning survived perfectly well.
+= 他半句话都被消了音，意思却一点没受影响。
 构词：拟声
 近义对照：
 bleep = 电子短音（英式常用）

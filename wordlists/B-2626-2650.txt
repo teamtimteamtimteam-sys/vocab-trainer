@@ -2,17 +2,17 @@ bishop
 核心：两支。一是基督教的主教，管着一个教区，地位在神父之上、
 大主教之下，礼仪时戴高耸的主教冠；二是国际象棋的象，斜线走，
 名字正是从主教冠的形状来的。两支都可数。
-① The bishop visited the parish.
-= 主教巡视了那个堂区。
+① The bishop visited the parish twice a year and knew every family by name.
+= 主教一年巡视那个堂区两次，每家的姓都叫得出。
 教会那一支。
-② She was consecrated as bishop.
-= 她被祝圣为主教。
+② She was consecrated as bishop in a cathedral packed to the west door.
+= 她在一座挤到西门口的大教堂里被祝圣为主教。
 be consecrated as = 被祝圣为
-③ He moved his bishop to threaten the queen.
-= 他动象去攻王后。
+③ He moved his bishop across the board to threaten the queen and the rook at once.
+= 他把象斜穿棋盘，一步同时威胁王后和车。
 bishop = 象（国际象棋，只走斜线）
-④ Each side starts with two bishops.
-= 每方开局有两个象。
+④ Each side starts with two bishops, one on light squares and one on dark.
+= 每方开局有两个象，一个走白格，一个走黑格。
 一个走白格，一个走黑格，一辈子换不了颜色。
 构词：来自希腊语 episkopos 监督者
 词族：
@@ -164,17 +164,17 @@ bitch
 出了这个语境，它是英语里最重的侮辱女性的词之一，任何场合都别用来
 说人。另有两支较轻的口语用法：说事情难办（a bitch of a job），
 以及动词的"抱怨"（bitch about）。
-① The bitch had six puppies.
-= 那条母狗生了六只小狗。
+① The bitch had six puppies and refused to let anyone near the box for a week.
+= 那条母狗生了六只小狗，一周之内不许任何人靠近窝。
 本义，养犬语境里中性。
-② That exam was a real bitch.
-= 那场考试真难。
+② That exam was a real bitch and half the year walked out early.
+= 那场考试真难，一半的同学提前交卷走人。
 a bitch = 难办的事、麻烦事（口语，粗俗）
-③ He kept bitching about the food.
-= 他一个劲儿抱怨伙食。
+③ He kept bitching about the food and ate every plate of it anyway.
+= 他一个劲儿抱怨伙食，可每一盘还是吃得精光。
 bitch about = 数落、抱怨（口语，粗俗）
-④ That guitar solo is bitchin'.
-= 那段吉他独奏帅炸了。
+④ That guitar solo is bitchin', and he plays it left-handed on a borrowed instrument.
+= 那段吉他独奏帅炸了，他还是借了把琴反手弹的。
 bitchin' = 极好的、带劲的（美式俚语，跟本义的贬义无关）
 注意语用：除养犬语境外一律粗俗；
 指女性时属严重冒犯，读到要懂，自己不要用。
@@ -218,17 +218,17 @@ bitcoin
 根本分别是没有发行机构：账本由全网共同记录，靠算力和密码学保证
 不能篡改，总量写死在协议里，上限两千一百万枚。大写 Bitcoin 多指
 这套网络与协议，小写 bitcoin 指币本身。指币时可数。
-① He bought two bitcoins.
-= 他买了两枚比特币。
+① He bought two bitcoins in 2013 and lost the password to the wallet.
+= 他在二〇一三年买了两枚比特币，后来把钱包密码弄丢了。
 指币本身时可数。
-② The shop accepts bitcoin.
-= 那家店收比特币。
+② The shop accepts bitcoin but prices everything in the local currency.
+= 那家店收比特币，标价却一律用本地货币。
 泛指这种支付方式时不加冠词。
-③ Bitcoin runs on a blockchain.
-= 比特币跑在区块链上。
+③ Bitcoin runs on a blockchain that every participant keeps a copy of.
+= 比特币跑在区块链上，每个参与者都存着一份账本。
 blockchain = 区块链
-④ Bitcoin has no central issuer.
-= 比特币没有中央发行方。
+④ Bitcoin has no central issuer, so nobody can print more of it to cover a crisis.
+= 比特币没有中央发行方，谁也不能多印一些来救急。
 这是它跟法定货币最根本的分别。
 构词：bit 位 + coin 币
 词族：
@@ -328,18 +328,18 @@ biting
 核心：形容词，两支都是"咬人"的比喻：说风说冷是刺骨——冷得像
 往肉里咬；说话说文字是尖刻——损人损得像咬一口。共同点是那股
 "往里钻、让人受不了"的劲儿。
-① A biting wind cut across the field.
-= 刺骨的风扫过田野。
+① A biting wind cut across the field and drove the spectators behind the stand.
+= 刺骨的风扫过球场，把观众逼到了看台后面。
 a biting wind = 刺骨的风
 天气那一支。
-② It was a biting cold morning.
-= 那是个冷得刺骨的早晨。
-③ She made a biting remark about his book.
-= 她对他那本书说了句很尖刻的话。
+② It was a biting cold morning and the locks on the gates had frozen solid.
+= 那是个冷得刺骨的早晨，大门上的锁全冻死了。
+③ She made a biting remark about his book and then offered to review it.
+= 她对他那本书说了句很尖刻的话，转头又提出要写书评。
 a biting remark = 一句尖刻话
 言辞那一支。
-④ The review was biting.
-= 那篇评论很刻薄。
+④ The review was biting, and the publisher quoted the one kind sentence in it.
+= 那篇评论很刻薄，出版社偏偏引了里头唯一一句好话。
 构词：bite 咬 + -ing 的
 近义对照：
 biting = 刺骨的；尖刻的（往里钻）
@@ -515,16 +515,16 @@ bitterness
 核心：名词，两支。一是味觉上的苦味；二是心里的怨恨——事情过去了
 气还没消，那股积着的不平就是它。第二支用得更多，常跟 lingering、
 deep 搭配，强调它是存下来的，不是当场发的火。不可数。
-① The bitterness of the coffee surprised him.
-= 那咖啡的苦味让他吃了一惊。
+① The bitterness of the coffee surprised him, and he drank it black anyway.
+= 那咖啡的苦味让他吃了一惊，他还是不加奶糖喝了。
 味觉那一支。
-② There was bitterness in her voice.
-= 她话音里带着怨气。
-③ Years of bitterness followed the split.
-= 分手之后是多年的积怨。
+② There was bitterness in her voice that eight years had not worn down.
+= 她话音里带着怨气，八年过去也没磨掉。
+③ Years of bitterness followed the split and neither side spoke at the funeral.
+= 分家之后是多年的积怨，葬礼上两边一句话都没说。
 lingering bitterness = 久久不散的怨恨
-④ He spoke without bitterness.
-= 他说这话时并无怨气。
+④ He spoke without bitterness about the job he had been pushed out of.
+= 谈起那份被挤走的工作，他说得并无怨气。
 构词：bitter 苦的 + -ness 性质
 近义对照：
 bitterness = 怨恨（积下来的，冲人）
@@ -535,16 +535,16 @@ bittersweet
 说那种"高兴里掺着难过"的滋味——毕业、告别、老照片，都是典型的
 bittersweet。它跟单纯的"喜忧参半"不同：两种情绪是搅在一起的，
 不是一半一半分得开。
-① The chocolate is bittersweet.
-= 那款巧克力苦中带甜。
+① The chocolate is bittersweet and works far better in a sauce than on its own.
+= 那款巧克力苦中带甜，做酱汁比直接吃好得多。
 bittersweet chocolate = 半甜巧克力
-② Graduation was a bittersweet day.
-= 毕业那天心里五味杂陈。
+② Graduation was a bittersweet day for everyone whose friends were leaving town.
+= 对那些朋友要离开的人来说，毕业那天心里五味杂陈。
 情绪那一支。
-③ She smiled a bittersweet smile.
-= 她笑得又欣慰又难过。
-④ The film has a bittersweet ending.
-= 那部电影的结局苦乐参半。
+③ She smiled a bittersweet smile and put the photograph back in the drawer.
+= 她笑得又欣慰又难过，把照片放回了抽屉。
+④ The film has a bittersweet ending that audiences argued about for years.
+= 那部电影的结局苦乐参半，观众争论了好多年。
 a bittersweet ending = 苦乐参半的结局
 构词：bitter 苦 + sweet 甜
 近义对照：
@@ -555,15 +555,15 @@ bitty
 核心：英式口语，指东西零零碎碎、连不成整体——一篇文章东一段西
 一段，一天被杂事切得七零八落，都可以说 bitty。它评的是"不成片"，
 不是"少"。美式另有一支相反的用法，itty-bitty 指小得可爱。
-① The essay felt bitty.
-= 那篇文章读着很零散。
+① The essay felt bitty, as if three drafts had been stapled together.
+= 那篇文章读着很零散，像是把三份草稿钉在了一起。
 零碎那一支：段落连不起来。
-② It was a bitty sort of day.
-= 那一天过得七零八落。
-③ The film is bitty and hard to follow.
-= 那部电影很碎，看着跟不上。
-④ She wore an itty-bitty hat.
-= 她戴了一顶小巧的帽子。
+② It was a bitty sort of day, all short errands and nothing finished.
+= 那一天过得七零八落，尽是些跑腿的小事，一件也没做完。
+③ The film is bitty and hard to follow if you look away for a minute.
+= 那部电影很碎，眼睛离开一分钟就跟不上了。
+④ She wore an itty-bitty hat that stayed on by some means nobody could see.
+= 她戴了顶小巧的帽子，不知靠什么挂在头上。
 itty-bitty = 小小的（美式口语，叠音）
 构词：bit 一小块 + -y 的
 注意语域：英式口语，带贬义。
