@@ -1,13 +1,13 @@
 appendicitis
 核心：医学词，指阑尾炎。不可数。
 急性阑尾炎需要手术切除阑尾（appendectomy）。
-① He was rushed in with appendicitis.
-= 他因阑尾炎被急送医院。
-② Appendicitis causes severe pain.
-= 阑尾炎引起剧痛。
+① He was rushed in with appendicitis on the second night of the holiday.
+= 假期第二天夜里他因阑尾炎被急送医院。
+② Appendicitis causes severe pain that starts near the navel and moves to the right.
+= 阑尾炎引起剧痛，痛处从肚脐附近开始，再移到右边。
 severe pain = 剧痛
-③ Acute appendicitis needs surgery.
-= 急性阑尾炎需要手术。
+③ Acute appendicitis needs surgery within hours, since a burst appendix is far worse.
+= 急性阑尾炎要在几小时内手术，因为阑尾穿孔要糟糕得多。
 acute appendicitis = 急性阑尾炎
 词族：
 appendix = 阑尾
@@ -18,12 +18,12 @@ appendectomy = 阑尾切除术
 appendix
 核心：两条毫不相干的线：书后的"附录"，
 和人体的"阑尾"。两个意思复数形式不同。
-① See the appendix for details.
-= 详见附录。
-② The appendix lists all sources.
-= 附录列出了所有来源。
-③ His appendix was removed.
-= 他的阑尾切除了。
+① See the appendix for details; the table you want is the third one.
+= 详见附录，你要的表格是第三张。
+② The appendix lists all sources and runs to sixty pages on its own.
+= 附录列出了所有来源，光它自己就有六十页。
+③ His appendix was removed at fourteen and he has never missed it.
+= 他十四岁切了阑尾，从来没觉得少了什么。
 注意复数：
 附录 → appendices
 阑尾 → appendixes
@@ -35,13 +35,13 @@ appertain
 核心：正式动词，指"属于、与…有关"，固定接介词说 appertain to。
 多出现在法律文书里，说某项权利、义务或职责归属于谁。
 日常几乎不用。
-① The rights appertaining to the title are listed.
-= 与该产权相关的各项权利列在下面。
+① The rights appertaining to the title are listed in the second schedule.
+= 与该产权相关的各项权利列在附表二里。
 appertain to = 属于、与…相关
-② Duties appertain to the office, not the person.
-= 那些职责属于职位，不属于个人。
-③ The clause appertains to tenants only.
-= 那一条只涉及承租人。
+② Duties appertain to the office, not the person, and pass to whoever holds it next.
+= 那些职责属于职位而非个人，谁接任就归谁。
+③ The clause appertains to tenants only and has no bearing on the freeholder.
+= 那一条只涉及承租人，与产权人无关。
 注意语域：
 法律文书用语，日常说 belong to 或 relate to。
 注意用法：
@@ -66,12 +66,12 @@ appetizing = 开胃的、诱人的
 appetizer
 核心：指正餐前的"开胃菜、前菜"。美式常用，
 英式更常说 starter。也拼作 appetiser。
-① We ordered appetizers.
-= 我们点了几道前菜。
-② The appetizer was excellent.
-= 那道开胃菜很棒。
-③ Shrimp makes a good appetizer.
-= 虾做前菜很合适。
+① We ordered appetizers to share and then found we had ordered five of them.
+= 我们点了几道前菜分着吃，回头发现点了五道。
+② The appetizer was excellent and rather better than anything that followed it.
+= 那道开胃菜很棒，比后面上的任何一道都好。
+③ Shrimp makes a good appetizer because it fills nobody up.
+= 虾做前菜很合适，因为谁也吃不饱。
 注意英美差别：
 appetizer = 开胃前菜（美式）
 starter = 开胃前菜（英式）
@@ -84,13 +84,13 @@ dessert = 甜点
 appetizing
 核心：指食物"看着诱人、让人有食欲的"。
 否定形式 unappetizing 用得同样多。
-① The smell is appetizing.
-= 那香味很诱人。
+① The smell is appetizing from the street, which is most of why the queue exists.
+= 那香味从街上就闻得到，队伍之所以在，大半是因为它。
 appetizing smell = 诱人的香味
-② It looks appetizing.
-= 看着就有食欲。
-③ The photo made it appetizing.
-= 那张照片拍得让人想吃。
+② It looks appetizing on the plate and tastes of almost nothing.
+= 摆在盘子里看着有食欲，吃起来却几乎没味道。
+③ The photo made it appetizing in a way the actual burger never managed.
+= 那张照片拍得让人想吃，实物汉堡怎么也达不到那效果。
 反义词：
 unappetizing = 倒胃口的
 词族：
@@ -125,13 +125,13 @@ a round of applause = 一阵掌声
 applause
 核心：指"掌声"，不可数——这是高频错点，
 不说 an applause 或 applauses。
-① The applause lasted minutes.
-= 掌声持续了好几分钟。
-② She received warm applause.
-= 她获得了热烈掌声。
+① The applause lasted several minutes and started again when she came back on.
+= 掌声持续了好几分钟，她再上台时又响了起来。
+② She received warm applause from an audience that had queued in the rain.
+= 她获得了热烈掌声，那些观众是冒雨排队进来的。
 warm applause = 热烈的掌声
-③ A round of applause, please.
-= 请鼓掌。
+③ A round of applause, please, for the people who have been washing up all evening.
+= 请为整晚在后面洗碗的人鼓个掌。
 a round of applause = 一阵掌声
 词族：
 applaud = 鼓掌；称赞
@@ -221,14 +221,14 @@ applied = 应用的（applied science 应用科学）
 applicable
 核心：指规则、条款"适用的"。介词用 to。
 表格里的 N/A 就是 not applicable（不适用）。
-① The rule is applicable to everyone.
-= 那条规则适用于所有人。
+① The reduced rate is applicable to households on a single income.
+= 那个优惠费率适用于单一收入的家庭。
 applicable to = 适用于
-② Write N/A if not applicable.
-= 不适用就填 N/A。
+② Write N/A if not applicable, and do not leave the box empty.
+= 不适用就填 N/A，别把格子空着。
 not applicable = 不适用
-③ These terms are applicable here.
-= 这些条款在此适用。
+③ These terms are applicable here but not in the branch across the border.
+= 这些条款在此适用，在边境另一侧的分部则不适用。
 注意发音：
 重音可在第一或第二音节，
 /ˈæplɪkəbl/ 与 /əˈplɪkəbl/ 都通行。
@@ -238,13 +238,13 @@ apply = 适用
 applicant
 核心：指申请人——申请工作、学校、签证、贷款的人。
 构词是 apply + -ant（做…的人）。
-① There were 200 applicants.
-= 有两百名申请人。
-② Successful applicants will be contacted.
-= 入选者会收到通知。
+① There were two hundred applicants for a post that had been advertised for a week.
+= 一个登了一周广告的职位收到两百份申请。
+② Successful applicants will be contacted within ten working days, and nobody else will.
+= 入选者会在十个工作日内收到通知，其余人则不会。
 successful applicant = 获录取者
-③ Applicants must submit references.
-= 申请人须提交推荐信。
+③ Applicants must submit references from two people who are not related to them.
+= 申请人须提交两位非亲属的推荐信。
 词族：
 apply = 申请
 application = 申请
@@ -285,14 +285,14 @@ applicator = 涂敷器、施药器
 applied
 核心：指学科"应用型的"，与 pure（纯理论的）相对。
 只作定语。applied science、applied linguistics。
-① She studies applied mathematics.
-= 她学应用数学。
+① She studies applied mathematics and spends more time on aircraft wings than on proofs.
+= 她学应用数学，花在机翼上的时间比花在证明上的还多。
 applied mathematics = 应用数学
-② Applied research has practical aims.
-= 应用研究有实际目标。
+② Applied research has practical aims, which is also why it is easier to fund.
+= 应用研究有实际目标，这也是它更容易拿到经费的原因。
 applied research = 应用研究
-③ It's a course in applied linguistics.
-= 那是门应用语言学课程。
+③ It's a course in applied linguistics, aimed at people who will teach rather than theorise.
+= 那是门应用语言学课程，面向的是要去教书而不是做理论的人。
 反义对照：
 applied = 应用的（解决实际问题）
 pure = 纯理论的（不问用途）
@@ -302,14 +302,14 @@ appliqué
 核心：法语借词，指"贴布绣"——把剪好的布片缝贴到底布上拼成图案，
 不是绣线绣出来的。既作名词指这种工艺和成品，也作动词。
 过去分词写作 appliquéd。词尾那个字母上的尖音符不能省。
-① The quilt is decorated with appliqué.
-= 那床被子上有贴布绣装饰。
+① The quilt is decorated with appliqué in patterns taken from the family's old curtains.
+= 那床被子上有贴布绣装饰，图案取自家里的旧窗帘。
 decorated with appliqué = 以贴布绣装饰
-② She appliquéd flowers onto the hem.
-= 她在下摆上贴绣了花。
+② She appliquéd flowers onto the hem to cover a tear she could not mend.
+= 她在下摆上贴绣了花，遮住一处补不好的破口。
 appliquéd = 贴布绣成的
-③ Appliqué work covers the cushion.
-= 那个靠垫上满是贴布绣。
+③ Appliqué work covers the cushion and has outlasted the chair it sits on.
+= 那个靠垫上满是贴布绣，比它搁着的那把椅子还耐用。
 appliqué work = 贴布绣活计
 注意拼写：
 词尾带尖音符，省掉就成了别的词。
@@ -393,14 +393,14 @@ appointment calendar = 预约日历
 apportion
 核心：正式用语，指按比例"分配、分摊"。
 最常见的搭配是 apportion blame（分摊责任）。
-① Costs were apportioned fairly.
-= 成本按比例公平分摊。
+① Costs were apportioned fairly between the three departments that had asked for it.
+= 成本在提出要求的三个部门之间公平分摊。
 apportion costs = 分摊成本
-② Don't apportion blame yet.
-= 先别急着追究谁的责任。
+② Don't apportion blame yet; we do not know what the recorder was doing.
+= 先别急着追究谁的责任，我们还不知道记录仪当时在干什么。
 apportion blame = 归咎、分派责任
-③ Time was apportioned to each task.
-= 每项任务都分到了时间。
+③ Time was apportioned to each task in advance and every one of them overran.
+= 每项任务都事先分到了时间，结果每一项都超时。
 词族：
 apportionment = 分配
 近义对照：
@@ -434,13 +434,13 @@ opposite = 相反的（毫不相干）
 appraisal
 核心：两条线：职场的"绩效评估"（annual appraisal），
 和财产的"估价"。介词用 of。
-① She had her annual appraisal.
-= 她做了年度绩效评估。
+① She had her annual appraisal on a Friday afternoon, which told her most of what she needed.
+= 她的年度绩效评估安排在周五下午，这本身就说明了大半。
 annual appraisal = 年度考评
-② The appraisal put it at £500,000.
-= 估价为五十万英镑。
-③ He gave a frank appraisal.
-= 他做了坦率的评估。
+② The appraisal put it at five hundred thousand pounds, and it sold for three.
+= 估价是五十万英镑，最后卖了三十万。
+③ He gave a frank appraisal of the plan and was not asked to the next meeting.
+= 他对那个方案做了坦率的评估，下次会议就没请他。
 frank appraisal = 坦率的评价
 词族：
 appraise = 评估
@@ -475,13 +475,13 @@ appraiser = 估价师；考评人
 appreciable
 核心：指数量或变化"大到看得出来的"，正式。
 和 appreciate 的"欣赏"义无关，来自"可察觉"这条线。
-① There was an appreciable difference.
-= 差别明显看得出来。
+① There was an appreciable difference between the two samples by the third week.
+= 到第三周，两份样本之间已经有了看得出来的差别。
 appreciable difference = 可觉察的差异
-② Prices rose by an appreciable amount.
-= 价格上涨了相当可观的幅度。
-③ No appreciable change occurred.
-= 没有明显变化。
+② Prices rose by an appreciable amount and then stayed there for two years.
+= 价格上涨了相当可观的幅度，随后在那个位置停了两年。
+③ No appreciable change occurred, which was itself the finding worth reporting.
+= 没有出现明显变化，而这本身就是值得报告的发现。
 副词形式：
 appreciably = 明显地
 反义词：

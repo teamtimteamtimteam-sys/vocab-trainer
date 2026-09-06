@@ -454,13 +454,13 @@ appellative = 称呼用的；普通名词的
 append
 核心：正式用语，指在文件末尾"附加、增补"。
 计算机里指把数据加到列表或文件末尾。
-① A note was appended.
-= 附了一条说明。
-② He appended his signature.
-= 他在末尾签了名。
+① A note was appended explaining why two of the figures had been revised.
+= 文后附了一条说明，交代其中两个数字为何作了修订。
+② He appended his signature and dated it three days earlier than he signed.
+= 他在末尾签了名，日期却填得比实际签署早了三天。
 append a signature = 附上签名
-③ Append the data to the file.
-= 把数据追加到文件末尾。
+③ Append the data to the file rather than overwriting what is already there.
+= 把数据追加到文件末尾，别覆盖已有的内容。
 append to = 追加到…之后
 词族：
 appendix = 附录
@@ -472,14 +472,14 @@ add = 添加（通用）
 appendage
 核心：两条线：正式的"附属物、附加部分"，
 和生物学上的"附肢"（腿、触角、鳍）。
-① It's a mere appendage.
-= 那不过是个附属品。
+① It's a mere appendage to the main report and nobody on the committee read it.
+= 那不过是主报告的一个附属品，委员会里没人读过。
 a mere appendage = 单纯的附庸
-② Insects have jointed appendages.
-= 昆虫有分节的附肢。
+② Insects have jointed appendages, and the joints are what let them fold away.
+= 昆虫有分节的附肢，正是那些关节让它们能收拢起来。
 jointed appendage = 分节附肢
-③ The region became an appendage.
-= 那个地区沦为附庸。
+③ The region became an appendage of its larger neighbour without a shot being fired.
+= 那个地区没打一枪就沦为更大邻国的附庸。
 词族：
 append = 附加
 近义对照：
