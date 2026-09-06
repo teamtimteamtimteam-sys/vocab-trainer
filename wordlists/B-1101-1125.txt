@@ -2,13 +2,13 @@ annunciator
 核心：报警报位的装置——老式的是一块板，哪一路出状况就哪一格
 亮灯或响铃，旅馆叫人铃、船舶机舱、电梯和消防系统里都用。
 词根跟 announce 同源，就是"把消息报出来"。
-① The annunciator panel lit up.
-= 报警显示屏亮了起来。
+① The annunciator panel lit up in three places at once and nobody knew which to answer first.
+= 报警显示盘一下亮了三处，没人知道该先应哪一个。
 annunciator panel = 报警显示盘
-② A bell on the annunciator signalled the cabin.
-= 报位器上的铃指示是哪个舱室。
-③ Fire systems include an annunciator.
-= 消防系统里带有报警显示装置。
+② A bell on the annunciator signalled the cabin, so the steward knew which door to go to.
+= 报位器上的铃指示是哪个舱室，服务员就知道该去哪扇门。
+③ Fire systems include an annunciator so the brigade can see which floor called before they enter.
+= 消防系统里带有报警显示装置，消防队进楼之前就能看出是哪一层报的警。
 注意语域：
 工程与建筑设备用语。
 
@@ -16,13 +16,13 @@ annus horribilis
 核心：拉丁语短语，字面"可怕的一年"，指某人或某机构"倒霉透顶的
 一年"。一九九二年英国女王在演讲里用它形容王室那一年的连串变故，
 这个词才广为人知。多带自嘲或克制的口气。
-① The company called it an annus horribilis.
-= 那家公司称之为灾难的一年。
+① The company called it an annus horribilis and quietly changed three of its directors.
+= 那家公司称之为灾难的一年，并悄悄换掉了三名董事。
 an annus horribilis = 倒霉透顶的一年
-② Nineteen ninety-two was her annus horribilis.
-= 一九九二年是她最难熬的一年。
-③ Journalists dubbed the season an annus horribilis.
-= 记者把那个赛季称作灾年。
+② Nineteen ninety-two was her annus horribilis, and she said so in public herself.
+= 一九九二年是她最难熬的一年，这话是她自己当众说的。
+③ Journalists dubbed the season an annus horribilis before it was even half over.
+= 赛季还没过半，记者就把它称作灾年。
 注意语域：
 正式或半戏谑，多见于新闻与演讲。
 注意别混：
@@ -33,13 +33,13 @@ annus mirabilis
 核心：拉丁语短语，字面"奇迹的一年"，指某人或某领域"成果井喷的
 一年"。最经典的例子是牛顿的一六六六年和爱因斯坦的一九零五年，
 都在一年里做出了改写学科的工作。
-① Nineteen zero five was Einstein's annus mirabilis.
-= 一九零五年是爱因斯坦的奇迹之年。
+① Nineteen zero five was Einstein's annus mirabilis, producing four papers in a single year.
+= 一九零五年是爱因斯坦的奇迹之年，一年之内出了四篇论文。
 an annus mirabilis = 奇迹般的一年
-② The label marks an annus mirabilis for the studio.
-= 那一年对这家厂牌是个丰收年。
-③ Historians call that year an annus mirabilis.
-= 史家把那一年称作奇迹之年。
+② The label marks an annus mirabilis for the studio, which released nothing memorable afterwards.
+= 那一年对这家厂牌是个丰收年，此后再没出过值得记住的东西。
+③ Every field has its annus mirabilis, and the people who lived through it rarely noticed.
+= 每个领域都有自己的奇迹之年，而身在其中的人往往没有察觉。
 注意语域：
 科学史与文化评论用语。
 注意别混：
@@ -93,13 +93,13 @@ inoffensive = 不冒犯人的（中性）
 anoint
 核心：宗教仪式上"涂油于…以示神圣"，也引申指
 "指定某人为接班人"。
-① The king was anointed.
-= 国王受了膏立。
-② The priest anointed the sick.
-= 神父为病人傅油。
+① The king was anointed with oil before the crown was so much as lifted from its cushion.
+= 王冠还没从垫子上拿起来，国王就先受了膏立。
+② The priest anointed the sick in a ward where half the beds were empty by morning.
+= 神父在病房里为病人傅油，到早上那里一半床位已经空了。
 anoint the sick = 为病人傅油
-③ He was anointed as successor.
-= 他被指定为接班人。
+③ He was anointed as successor years before anyone put it in writing.
+= 他被指定为接班人，比谁把这事写下来早了好几年。
 be anointed as = 被指定为
 注意发音：/əˈnɔɪnt/
 词族：
@@ -154,12 +154,12 @@ anomia
 核心：神经科名词，指"命名性失语"——东西认得、用途也说得出，
 就是叫不上名字，话到嘴边说不出来。中风和阿尔茨海默病里常见，
 是失语症的一种。
-① Anomia makes naming objects hard.
-= 命名性失语让人说不出物体的名字。
-② He has anomia after the stroke.
-= 中风之后他患上了命名性失语。
-③ Anomia is tested by picture naming.
-= 命名性失语靠看图命名来测。
+① Anomia makes naming objects hard, so patients describe what a thing does instead.
+= 命名性失语让人说不出物体的名字，于是病人改说那东西是干什么的。
+② He has anomia after the stroke and calls a watch the thing that tells you when.
+= 中风之后他患上了命名性失语，管手表叫「告诉你什么时候的那个东西」。
+③ Anomia is tested by picture naming, with the pictures graded from common to rare.
+= 命名性失语靠看图命名来测，图片按常见到冷僻分级。
 picture naming = 看图命名
 注意语域：
 神经病学与言语治疗术语。
@@ -168,13 +168,13 @@ anomie
 核心：社会学名词，指"失范"——社会的共同规范松动瓦解，个人失去
 方向感，随之而来的是疏离和无所适从。涂尔干用它解释自杀率的
 变化。也拼作 anomy。
-① Rapid change bred anomie.
-= 剧变催生了失范。
+① Rapid change bred anomie in towns where three generations had done the same work.
+= 在三代人做着同一种活计的镇子上，剧变催生了失范。
 breed anomie = 滋生失范
-② Durkheim linked anomie to suicide.
-= 涂尔干把失范与自杀联系起来。
-③ The novel captures postwar anomie.
-= 那部小说写出了战后的失范感。
+② Durkheim linked anomie to suicide and built a whole discipline on the connection.
+= 涂尔干把失范与自杀联系起来，并在这个联系上建起了一整门学科。
+③ The novel captures postwar anomie without once naming the war it follows.
+= 那部小说写出了战后的失范感，却一次也没点出它所跟随的那场战争。
 postwar anomie = 战后的失范
 注意语域：
 社会学术语。
@@ -185,14 +185,14 @@ anomia = 命名性失语（说不出物体名称）
 anonymity
 核心：指"匿名"这种状态，不可数。
 常见搭配 preserve / protect / request anonymity。
-① He requested anonymity.
-= 他要求匿名。
+① He requested anonymity and the paper granted it after checking his account twice.
+= 他要求匿名，报社核了两遍他的说法之后同意了。
 request anonymity = 要求匿名
-② The source spoke on condition of anonymity.
-= 消息人士要求匿名后才开口。
+② The source spoke on condition of anonymity because the contract forbade saying anything at all.
+= 消息人士要求匿名后才开口，因为合同禁止他透露任何事。
 on condition of anonymity = 以匿名为条件
-③ Online anonymity has downsides.
-= 网络匿名有其弊端。
+③ Online anonymity has downsides, though the people it protects rarely get counted.
+= 网络匿名有其弊端，只是它保护的那些人很少被算进去。
 online anonymity = 网络匿名
 词族：
 anonymous = 匿名的
@@ -229,13 +229,13 @@ anonymization = 匿名化
 anorak
 核心：两条线：带风帽的"防风外套"（英式），
 和英式俚语里的"过分痴迷冷门爱好的书呆子"。
-① He wore a waterproof anorak.
-= 他穿了件防水风衣。
+① He wore a waterproof anorak that had kept him dry through two Scottish winters.
+= 他穿着一件防水风衣，靠它熬过了两个苏格兰的冬天。
 waterproof anorak = 防水连帽外套
-② She bought an anorak for hiking.
-= 她买了件登山外套。
-③ He's a train anorak.
-= 他是个铁道迷。
+② She bought an anorak for hiking and wore it to the supermarket all year instead.
+= 她买了件登山外套，结果一整年都穿着它去超市。
+③ He's a train anorak and can tell you which locomotive pulled which service in 1974.
+= 他是个铁道迷，一九七四年哪台机车牵引哪趟车他都说得出来。
 英式俚语，略带取笑
 词源：因纽特语
 近义对照：
@@ -246,13 +246,13 @@ windbreaker = 风衣（美式）
 anorexia
 核心：医学词，全称 anorexia nervosa（神经性厌食症），
 一种进食障碍。不可数。
-① She was treated for anorexia.
-= 她接受了厌食症治疗。
+① She was treated for anorexia over four years and counts the last one as the hard one.
+= 她治了四年厌食症，说最后一年才是难的那一年。
 treated for anorexia = 因厌食症就诊
-② Anorexia is a serious illness.
-= 厌食症是种严重疾病。
-③ Anorexia affects both sexes.
-= 厌食症男女都会得。
+② Anorexia is a serious illness with the highest death rate of any psychiatric disorder.
+= 厌食症是种严重疾病，死亡率在所有精神疾病里最高。
+③ Anorexia affects both sexes, though men are diagnosed later and less often.
+= 厌食症男女都会得，只是男性确诊得更晚，也更少。
 全称：anorexia nervosa
 词族：
 anorexic = 厌食症的、厌食症患者
@@ -263,12 +263,12 @@ eating disorder = 进食障碍
 anorexic
 核心：既是形容词"患厌食症的"，也是名词"厌食症患者"。
 日常里被滥用来形容"太瘦"，这种用法不恰当。
-① She is being treated as an anorexic.
-= 她作为厌食症患者接受治疗。
-② Anorexic patients need support.
-= 厌食症患者需要支持。
-③ The model looked anorexic.
-= 那位模特瘦得像有厌食症。
+① She first called herself an anorexic in a group where nobody flinched at the word.
+= 她第一次自称厌食症患者，是在一个没人听到这个词会僵一下的小组里。
+② Anorexic patients need support long after their weight has been restored.
+= 厌食症患者在体重恢复很久之后仍然需要支持。
+③ The model looked anorexic, a word the press used without any diagnosis behind it.
+= 那位模特瘦得像有厌食症，而媒体用这个词时背后并没有任何诊断。
 这种用法不严谨，宜避免
 词族：
 anorexia = 厌食症
