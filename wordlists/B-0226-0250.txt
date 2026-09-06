@@ -2,14 +2,14 @@ accusingly
 核心：副词，指做某个动作时"带着责备的意思"。它修饰的几乎都是能表态的
 动作——看、指、说，因为责备要靠这些动作传出去。注意它说的是语气不是
 内容：一句本来中性的话，配上这个副词，意思就变成了在指责。
-① She looked at me accusingly.
-= 她责备地看着我。
+① She looked accusingly at the empty biscuit tin and then at the dog.
+= 她责备地看了看空饼干罐，又看了看那条狗。
 look accusingly = 责备地看
-② He pointed accusingly at the door.
-= 他指责般地指着门。
+② He pointed accusingly at the door, which had been standing open all along.
+= 他指责般地指着门，那门其实一直就开着。
 point accusingly = 指着责难
-③ "You knew," she said accusingly.
-= "你早知道，"她带着责备说。
+③ You knew, she said accusingly, and left before he could answer.
+= 她带着责备说了句「你早知道」，没等他回答就走了。
 词族：
 accusing = 责备的
 accuse = 指控
@@ -69,13 +69,13 @@ acer
 核心：槭树属植物的通称，园艺里就指"枫树、槭树"，尤其是叶形好看、
 秋天转红的那些观赏品种。英国的花园和苗圃里天天说这个词。
 单复数同形，也可以加词尾说 acers。
-① She planted an acer by the pond.
-= 她在池边种了一棵槭树。
+① She planted an acer by the pond and lost two others to the same frost.
+= 她在池边种了一棵槭树，另外两棵都被同一场霜冻死了。
 plant an acer = 种一棵槭树
-② The acer turns crimson in autumn.
-= 那棵槭树秋天会转成深红。
-③ Japanese acers need shelter from wind.
-= 日本槭要避风。
+② The acer turns crimson in autumn and drops the lot within about a week.
+= 那棵槭树秋天转成深红，一周左右就落个精光。
+③ Japanese acers need shelter from wind and hate being moved once settled.
+= 日本槭要避风，扎下根之后最忌挪动。
 Japanese acer = 日本槭
 注意语域：
 园艺与植物学用词，日常也说 maple。
@@ -87,14 +87,14 @@ sycamore = 悬铃木（英式指大槭树）
 acerbic
 核心：指言辞"尖酸刻薄的"，常用于评论、机智但伤人的话。
 比 harsh 多一层"聪明"的意味。
-① He has an acerbic wit.
-= 他的机智里带着刻薄。
+① He has an acerbic wit that costs him a friend about once a year.
+= 他的机智里带着刻薄，大约一年得罪掉一个朋友。
 acerbic wit = 尖刻的机智
-② She made an acerbic remark.
-= 她说了句尖酸的话。
+② She made an acerbic remark about the catering and was quoted in two papers.
+= 她拿餐饮说了句尖酸话，被两家报纸引用。
 acerbic remark = 刻薄的评论
-③ The review was acerbic.
-= 那篇评论很尖刻。
+③ The review was acerbic and sold more tickets than a kind one would have.
+= 那篇评论很尖刻，卖出的票比好评还多。
 近义对照：
 acerbic = 尖酸（刻薄但机智）
 caustic = 辛辣（腐蚀性的讽刺）
@@ -104,12 +104,12 @@ bitter = 苦涩（带怨恨）
 acetaminophen
 核心：美式药名，指对乙酰氨基酚——最常用的解热镇痛药。
 英式叫 paracetamol，是同一种药。
-① Take acetaminophen for the fever.
-= 发烧就吃对乙酰氨基酚。
-② Acetaminophen can harm the liver.
-= 过量服用会损伤肝脏。
-③ Acetaminophen is sold as Tylenol.
-= 那种药以泰诺为商品名出售。
+① Take acetaminophen for the fever and leave the antibiotics to the doctor.
+= 发烧就吃对乙酰氨基酚，抗生素的事交给医生。
+② Acetaminophen can harm the liver at doses only twice the usual one.
+= 对乙酰氨基酚只要吃到常量的两倍，就可能损伤肝脏。
+③ Acetaminophen is sold under a dozen brand names in the same chemist.
+= 同一家药店里，对乙酰氨基酚有十几个商品名在卖。
 注意英美差别：
 美式 acetaminophen
 英式 paracetamol
@@ -121,13 +121,13 @@ aspirin = 阿司匹林
 acetate
 核心：化学上指醋酸盐或醋酸纤维，日用上指用这种材料做的
 透明胶片和布料。不可数为主。
-① The film is made of acetate.
-= 那种胶片是醋酸纤维做的。
-② Acetate fabric drapes well.
-= 醋酸纤维面料垂感好。
+① The film is made of acetate and has survived better than the tape did.
+= 那种胶片是醋酸纤维做的，保存得比磁带好。
+② Acetate fabric drapes well and creases if you so much as look at it.
+= 醋酸纤维面料垂感好，稍微碰一下就出褶。
 acetate fabric = 醋酯面料
-③ Print it on acetate.
-= 印在透明胶片上。
+③ Print it on acetate so it can be laid over the map without hiding anything.
+= 印在透明胶片上，好盖在地图上又不挡住什么。
 词族：
 acetic = 醋酸的
 注意发音：/ˈæsɪteɪt/
@@ -135,13 +135,13 @@ acetic = 醋酸的
 acetic
 核心：化学形容词，"醋酸的"。最常见的搭配是 acetic acid
 （醋酸，食醋的主要成分）。
-① Vinegar contains acetic acid.
-= 醋含有醋酸。
+① Vinegar contains acetic acid and about ninety-five per cent water.
+= 醋含有醋酸，还有大约百分之九十五的水。
 acetic acid = 醋酸
-② The smell is acetic.
-= 那股味道像醋。
-③ Acetic fermentation produces vinegar.
-= 醋酸发酵产生食醋。
+② The smell is acetic and the whole cellar has had it since the spill.
+= 那股味道像醋，自从那次洒漏，整个地窖都是这味。
+③ Acetic fermentation produces vinegar and needs air, unlike the stage before it.
+= 醋酸发酵产生食醋，跟前一道工序不同，它需要空气。
 acetic fermentation = 醋酸发酵
 词族：
 acetate = 醋酸盐
@@ -150,13 +150,13 @@ acetate = 醋酸盐
 acetone
 核心：指丙酮——一种挥发性溶剂，洗甲水的主要成分。
 不可数。
-① Acetone removes nail polish.
-= 丙酮能卸指甲油。
+① Acetone removes nail polish and takes the shine off the table underneath.
+= 丙酮能卸指甲油，也会把底下桌面的光泽一并卸掉。
 nail polish = 指甲油
-② Acetone evaporates quickly.
-= 丙酮挥发很快。
-③ Keep acetone away from flames.
-= 丙酮要远离明火。
+② Acetone evaporates quickly and leaves the skin cold and completely dry.
+= 丙酮挥发很快，皮肤上留下一片发凉的干燥。
+③ Keep acetone away from flames and from anything with a pilot light.
+= 丙酮要远离明火，也要远离带长明小火的东西。
 注意发音：/ˈæsɪtəʊn/
 词族：
 acetic = 醋酸的
@@ -168,13 +168,13 @@ turpentine = 松节油
 acetylene
 核心：指乙炔——燃烧温度极高的气体，用于气焊切割。
 不可数。化学式 C₂H₂。
-① They used an acetylene torch.
-= 他们用了乙炔焊枪。
+① They used an acetylene torch to cut through a hinge that had rusted solid.
+= 他们用乙炔焊枪切开了一个锈死的铰链。
 acetylene torch = 乙炔焊炬
-② Acetylene burns very hot.
-= 乙炔燃烧温度极高。
-③ Acetylene welding cuts steel.
-= 乙炔焊接可切割钢材。
+② Acetylene burns very hot and needs oxygen fed in from a second cylinder.
+= 乙炔燃烧温度极高，要从第二个气瓶供氧。
+③ Acetylene welding cuts steel that no saw in the workshop would touch.
+= 车间里任何锯子都对付不了的钢材，乙炔焊接切得开。
 oxyacetylene = 氧乙炔（焊接）
 注意发音：/əˈsetəliːn/
 同类气体：
@@ -229,12 +229,12 @@ achievable = 可实现的
 achievement
 核心：既指"取得"这个行为，也指"取得的成果"。作"成果"讲时可数，
 作"取得"讲时不可数。
-① It was a remarkable achievement.
-= 那是项了不起的成就。
-② She is proud of her achievements.
-= 她为自己的成就自豪。
-③ The achievement of this goal takes time.
-= 实现这个目标需要时间。
+① It was a remarkable achievement for a team that had lost its funding in March.
+= 对一个三月就断了经费的团队来说，那是项了不起的成就。
+② She is proud of her achievements and mentions none of them unprompted.
+= 她为自己的成就自豪，没人问就一个也不提。
+③ The achievement of this goal takes time that nobody has budgeted for.
+= 实现这个目标需要时间，而那份时间谁也没算进预算。
 这里是不可数用法。
 常用搭配：
 a sense of achievement = 成就感
