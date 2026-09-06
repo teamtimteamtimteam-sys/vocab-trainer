@@ -217,14 +217,14 @@ begone
 核心：古旧的祈使语，意思是"走开、滚"，只用于命令，
 没有别的时态形式。今天只在文学作品、戏剧台词和戏谑口气里出现。
 另有构词成分 -begone，如 woebegone（愁容满面的）。
-① Begone, and never return!
-= 滚吧，别再回来！
+① Begone, and never return, said the ghost, and the audience laughed.
+= 「滚吧，别再回来」，鬼魂说，观众笑了。
 begone = 走开、滚（古语）
-② He waved his hand and cried "Begone!"
-= 他一挥手喝道"走开"。
+② He waved his hand and cried begone at a cat that ignored him.
+= 他一挥手朝一只根本不理他的猫喝道「走开」。
 只作祈使句用。
-③ She looked woebegone.
-= 她一脸愁苦。
+③ She looked woebegone in a photograph taken on her wedding day.
+= 在婚礼当天拍的照片里，她一脸愁苦。
 woebegone = 愁容满面的
 注意语域：古语，日常改说 go away。
 
@@ -402,13 +402,13 @@ behead
 核心：指"斩首"——把头砍下来，作为处决方式。
 历史与新闻语境里都用。名词是 beheading。
 它比 execute 具体：说的是行刑的方式。
-① The king was beheaded in 1649.
-= 那位国王在一六四九年被斩首。
-② Beheading was reserved for nobles.
-= 斩首从前只用于贵族。
+① The king was beheaded in 1649 in front of his own banqueting hall.
+= 那位国王一六四九年在自己的宴会厅前被斩首。
+② Beheading was reserved for nobles and considered the merciful option.
+= 斩首从前只用于贵族，还被视为仁慈的那一种。
 beheading = 斩首
-③ The statue had been beheaded.
-= 那尊像的头被砍掉了。
+③ The statue had been beheaded and the head turned up in a garden.
+= 那尊像的头被砍掉了，后来在一处园子里找到。
 注意语域：
 历史与新闻用语，语义具体而沉重。
 
@@ -416,13 +416,13 @@ behemoth
 核心：指"庞然大物"——大得吓人的东西，多说企业、机构、
 建筑或机器。名字出自《约伯记》里那头巨兽。
 带一点敬畏又略含贬抑：大得笨重、大得难以撼动。
-① The firm is a retail behemoth.
-= 那家公司是零售业的庞然大物。
+① The firm is a retail behemoth and cannot change a price in under a week.
+= 那家公司是零售业的庞然大物，改个价钱都要一周以上。
 a behemoth = 庞然大物
-② A behemoth of a lorry blocked the lane.
-= 一辆巨无霸卡车堵住了车道。
-③ Regulating such behemoths is hard.
-= 监管这类巨头很难。
+② A behemoth of a lorry blocked the lane for most of the afternoon.
+= 一辆巨无霸卡车把车道堵了大半个下午。
+③ Regulating such behemoths is hard when they outspend the regulator.
+= 这类巨头的花费超过监管机构，监管起来就很难。
 注意语域：
 多用于商业与科技报道，含笨重难撼的意味。
 
@@ -430,13 +430,13 @@ behest
 核心：正式名词，只用在 at the behest of 这个搭配里，
 指"按…的吩咐、在…的授意下"。带一点权威色彩，
 多说上级、机构或有权势的人。
-① He resigned at the behest of the board.
-= 他是按董事会的意思辞职的。
+① He resigned at the behest of the board and was rehired in March.
+= 他是按董事会的意思辞职的，三月又被聘了回来。
 at the behest of = 按…的吩咐
-② The inquiry began at her behest.
-= 那项调查是她授意开始的。
-③ They acted at the behest of the ministry.
-= 他们是奉部里之命行事。
+② The inquiry began at her behest and reported after she had left.
+= 那项调查是她授意开始的，报告出来时她已经走了。
+③ They acted at the behest of the ministry and took the blame alone.
+= 他们是奉部里之命行事，挨骂却只有他们。
 注意用法：
 几乎只用在那个固定介词短语里。
 
@@ -508,13 +508,13 @@ beholden
 核心：形容词，指"欠人情的、受制于人的"——因为受过好处，
 所以不得不听人的。固定接介词 to。
 它比 grateful 重：不只是感激，而是"被绑住了"。
-① I don't want to be beholden to anyone.
-= 我不想欠谁的人情。
+① I don't want to be beholden to anyone and pay for my own lunch.
+= 我不想欠谁的人情，午饭都自己付。
 be beholden to = 欠…的人情、受制于…
-② The paper is beholden to its advertisers.
-= 那家报纸受制于广告客户。
-③ She felt beholden after the loan.
-= 借了那笔钱她觉得欠了人情。
+② The paper is beholden to its advertisers and prints what it can.
+= 那家报纸受制于广告客户，能登的才登。
+③ She felt beholden after the loan and stopped visiting altogether.
+= 借了那笔钱她觉得欠了人情，索性再不上门。
 注意别混：
 beholden = 欠人情、受制于人（不自由）
 grateful = 感激的（不含受制之意）
@@ -538,13 +538,13 @@ beige
 核心：一种介于米白与浅棕之间的颜色，像未染色的羊毛。
 比喻着用指"平淡无味、没个性"——因为它不刺眼也不出彩，
 说人或作品 beige 是嫌其乏味。
-① The walls are painted beige.
-= 墙刷成了米色。
-② She wore a beige coat.
-= 她穿了件米色外套。
+① The walls are painted beige because the landlord buys it by the drum.
+= 墙刷成米色，因为房东是整桶整桶买这个漆的。
+② She wore a beige coat that disappeared against every wall in the building.
+= 她穿了件米色外套，在楼里哪面墙前都隐没不见。
 a beige coat = 米色大衣
-③ The album is musically beige.
-= 那张专辑音乐上平淡无奇。
+③ The album is musically beige and sold four million copies.
+= 那张专辑音乐上平淡无奇，卖了四百万张。
 beige = 平庸无味的（比喻）
 注意语域：
 比喻义带轻贬，说某物毫无特色。
@@ -579,13 +579,13 @@ bejewelled
 核心：形容词，指"镶满珠宝的、珠光宝气的"，
 可以说物（王冠、剑柄），也可以说人（浑身戴满首饰）。
 美式拼作 bejeweled，一个 l。
-① She wore a bejewelled crown.
-= 她戴着一顶镶满珠宝的王冠。
+① She wore a bejewelled crown that weighed nearly two kilos.
+= 她戴着一顶镶满珠宝的王冠，重近两公斤。
 bejewelled = 镶满珠宝的
-② The dagger had a bejewelled hilt.
-= 那把匕首的柄上嵌着宝石。
-③ Bejewelled guests filled the hall.
-= 满厅宾客珠光宝气。
+② The dagger had a bejewelled hilt and a blade that had never been sharpened.
+= 那把匕首柄上嵌着宝石，刀刃却从没开过锋。
+③ Bejewelled guests filled the hall and left before the speeches.
+= 满厅宾客珠光宝气，讲话还没开始就走了。
 说人时略带讽意。
 注意拼写：
 bejewelled = 镶满珠宝的（英式拼法）

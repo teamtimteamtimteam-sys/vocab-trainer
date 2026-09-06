@@ -44252,14 +44252,14 @@ begone
 核心：古旧的祈使语，意思是"走开、滚"，只用于命令，
 没有别的时态形式。今天只在文学作品、戏剧台词和戏谑口气里出现。
 另有构词成分 -begone，如 woebegone（愁容满面的）。
-① Begone, and never return!
-= 滚吧，别再回来！
+① Begone, and never return, said the ghost, and the audience laughed.
+= 「滚吧，别再回来」，鬼魂说，观众笑了。
 begone = 走开、滚（古语）
-② He waved his hand and cried "Begone!"
-= 他一挥手喝道"走开"。
+② He waved his hand and cried begone at a cat that ignored him.
+= 他一挥手朝一只根本不理他的猫喝道「走开」。
 只作祈使句用。
-③ She looked woebegone.
-= 她一脸愁苦。
+③ She looked woebegone in a photograph taken on her wedding day.
+= 在婚礼当天拍的照片里，她一脸愁苦。
 woebegone = 愁容满面的
 注意语域：古语，日常改说 go away。
 
@@ -44437,13 +44437,13 @@ behead
 核心：指"斩首"——把头砍下来，作为处决方式。
 历史与新闻语境里都用。名词是 beheading。
 它比 execute 具体：说的是行刑的方式。
-① The king was beheaded in 1649.
-= 那位国王在一六四九年被斩首。
-② Beheading was reserved for nobles.
-= 斩首从前只用于贵族。
+① The king was beheaded in 1649 in front of his own banqueting hall.
+= 那位国王一六四九年在自己的宴会厅前被斩首。
+② Beheading was reserved for nobles and considered the merciful option.
+= 斩首从前只用于贵族，还被视为仁慈的那一种。
 beheading = 斩首
-③ The statue had been beheaded.
-= 那尊像的头被砍掉了。
+③ The statue had been beheaded and the head turned up in a garden.
+= 那尊像的头被砍掉了，后来在一处园子里找到。
 注意语域：
 历史与新闻用语，语义具体而沉重。
 
@@ -44451,13 +44451,13 @@ behemoth
 核心：指"庞然大物"——大得吓人的东西，多说企业、机构、
 建筑或机器。名字出自《约伯记》里那头巨兽。
 带一点敬畏又略含贬抑：大得笨重、大得难以撼动。
-① The firm is a retail behemoth.
-= 那家公司是零售业的庞然大物。
+① The firm is a retail behemoth and cannot change a price in under a week.
+= 那家公司是零售业的庞然大物，改个价钱都要一周以上。
 a behemoth = 庞然大物
-② A behemoth of a lorry blocked the lane.
-= 一辆巨无霸卡车堵住了车道。
-③ Regulating such behemoths is hard.
-= 监管这类巨头很难。
+② A behemoth of a lorry blocked the lane for most of the afternoon.
+= 一辆巨无霸卡车把车道堵了大半个下午。
+③ Regulating such behemoths is hard when they outspend the regulator.
+= 这类巨头的花费超过监管机构，监管起来就很难。
 注意语域：
 多用于商业与科技报道，含笨重难撼的意味。
 
@@ -44465,13 +44465,13 @@ behest
 核心：正式名词，只用在 at the behest of 这个搭配里，
 指"按…的吩咐、在…的授意下"。带一点权威色彩，
 多说上级、机构或有权势的人。
-① He resigned at the behest of the board.
-= 他是按董事会的意思辞职的。
+① He resigned at the behest of the board and was rehired in March.
+= 他是按董事会的意思辞职的，三月又被聘了回来。
 at the behest of = 按…的吩咐
-② The inquiry began at her behest.
-= 那项调查是她授意开始的。
-③ They acted at the behest of the ministry.
-= 他们是奉部里之命行事。
+② The inquiry began at her behest and reported after she had left.
+= 那项调查是她授意开始的，报告出来时她已经走了。
+③ They acted at the behest of the ministry and took the blame alone.
+= 他们是奉部里之命行事，挨骂却只有他们。
 注意用法：
 几乎只用在那个固定介词短语里。
 
@@ -44543,13 +44543,13 @@ beholden
 核心：形容词，指"欠人情的、受制于人的"——因为受过好处，
 所以不得不听人的。固定接介词 to。
 它比 grateful 重：不只是感激，而是"被绑住了"。
-① I don't want to be beholden to anyone.
-= 我不想欠谁的人情。
+① I don't want to be beholden to anyone and pay for my own lunch.
+= 我不想欠谁的人情，午饭都自己付。
 be beholden to = 欠…的人情、受制于…
-② The paper is beholden to its advertisers.
-= 那家报纸受制于广告客户。
-③ She felt beholden after the loan.
-= 借了那笔钱她觉得欠了人情。
+② The paper is beholden to its advertisers and prints what it can.
+= 那家报纸受制于广告客户，能登的才登。
+③ She felt beholden after the loan and stopped visiting altogether.
+= 借了那笔钱她觉得欠了人情，索性再不上门。
 注意别混：
 beholden = 欠人情、受制于人（不自由）
 grateful = 感激的（不含受制之意）
@@ -44573,13 +44573,13 @@ beige
 核心：一种介于米白与浅棕之间的颜色，像未染色的羊毛。
 比喻着用指"平淡无味、没个性"——因为它不刺眼也不出彩，
 说人或作品 beige 是嫌其乏味。
-① The walls are painted beige.
-= 墙刷成了米色。
-② She wore a beige coat.
-= 她穿了件米色外套。
+① The walls are painted beige because the landlord buys it by the drum.
+= 墙刷成米色，因为房东是整桶整桶买这个漆的。
+② She wore a beige coat that disappeared against every wall in the building.
+= 她穿了件米色外套，在楼里哪面墙前都隐没不见。
 a beige coat = 米色大衣
-③ The album is musically beige.
-= 那张专辑音乐上平淡无奇。
+③ The album is musically beige and sold four million copies.
+= 那张专辑音乐上平淡无奇，卖了四百万张。
 beige = 平庸无味的（比喻）
 注意语域：
 比喻义带轻贬，说某物毫无特色。
@@ -44614,13 +44614,13 @@ bejewelled
 核心：形容词，指"镶满珠宝的、珠光宝气的"，
 可以说物（王冠、剑柄），也可以说人（浑身戴满首饰）。
 美式拼作 bejeweled，一个 l。
-① She wore a bejewelled crown.
-= 她戴着一顶镶满珠宝的王冠。
+① She wore a bejewelled crown that weighed nearly two kilos.
+= 她戴着一顶镶满珠宝的王冠，重近两公斤。
 bejewelled = 镶满珠宝的
-② The dagger had a bejewelled hilt.
-= 那把匕首的柄上嵌着宝石。
-③ Bejewelled guests filled the hall.
-= 满厅宾客珠光宝气。
+② The dagger had a bejewelled hilt and a blade that had never been sharpened.
+= 那把匕首柄上嵌着宝石，刀刃却从没开过锋。
+③ Bejewelled guests filled the hall and left before the speeches.
+= 满厅宾客珠光宝气，讲话还没开始就走了。
 说人时略带讽意。
 注意拼写：
 bejewelled = 镶满珠宝的（英式拼法）
@@ -44630,13 +44630,13 @@ bel
 核心：声强的单位，以电话发明人贝尔的姓命名。
 实际使用中太大，一律用它的十分之一 decibel（分贝），
 所以 bel 本身几乎只出现在教科书和定义里。
-① One bel equals ten decibels.
-= 一贝等于十分贝。
+① One bel equals ten decibels, which is why nobody uses the larger unit.
+= 一贝等于十分贝，所以没人用那个更大的单位。
 bel = 贝（声强单位）
-② The bel is named after Bell.
-= 贝这个单位取名自贝尔。
-③ Sound levels are measured in decibels, not bels.
-= 声级用分贝计量，不用贝。
+② A gain of two bels means the power has gone up a hundredfold.
+= 增益两贝意味着功率涨到了一百倍。
+③ Half a bel is five decibels, about the smallest change most ears notice.
+= 半贝就是五分贝，大约是多数人耳朵能察觉的最小变化。
 decibel = 分贝
 注意语域：物理与声学术语，日常只说分贝。
 
@@ -44645,13 +44645,13 @@ bel canto
 歌剧的一种唱法，讲究音色圆润、连贯流畅和轻巧的花腔，
 不追求音量和戏剧性冲撞。罗西尼、贝里尼、多尼采蒂的作品是它的
 代表。跟计量单位的 bel 碰巧同形，来路完全不同。
-① She trained in the bel canto style.
-= 她学的是美声唱法。
+① She trained in the bel canto style and never sang Wagner in her life.
+= 她学的是美声唱法，一辈子没唱过瓦格纳。
 bel canto = 美声唱法
-② Bellini wrote for bel canto voices.
-= 贝里尼是为美声嗓音写作的。
-③ Bel canto favours line over volume.
-= 美声重的是线条，不是音量。
+② Bellini wrote for bel canto voices and left the orchestra out of the way.
+= 贝里尼是为美声嗓音写作的，把乐队让到了一边。
+③ Bel canto favours line over volume and rewards a small hall.
+= 美声重的是线条不是音量，在小厅里最见效果。
 注意别混：bel canto 的 bel 是意大利语的"美"，
 跟声强单位的 bel 毫无关系。
 注意语域：音乐术语，作定语时不加词尾。
@@ -44664,27 +44664,27 @@ belabour
 核心：两层，都从"反复捶打"来。字面指"痛打"，偏旧；
 今天主要用比喻义：把一个已经说清楚的点"翻来覆去地讲"，
 固定说法 belabour the point。美式拼 belabor。
-① Don't belabour the point.
-= 那个道理别翻来覆去说了。
+① Don't belabour the point; they agreed with you ten minutes ago.
+= 那个道理别翻来覆去说了，他们十分钟前就同意了。
 belabour the point = 反复啰嗦同一个论点
-② He belaboured the obvious.
-= 他把明摆着的事说了又说。
-③ The mob belaboured him with sticks.
-= 暴徒用棍子痛打他。
+② He belaboured the obvious for a full page and then repeated it.
+= 他把明摆着的事说满一整页，接着又说了一遍。
+③ The mob belaboured him with sticks and left him in the road.
+= 暴徒用棍子痛打他，把他扔在路上。
 注意拼写：
 belabour 英式 / belabor 美式。
 
 Belarusian
 核心：白俄罗斯的、白俄罗斯人，也指白俄罗斯语。旧拼法 Belorussian
 出自苏联时期的国名，今天正式文件一律用这个新拼法。可数。
-① She translates from Belarusian.
-= 她做白俄罗斯语翻译。
+① She translates from Belarusian and works from home in another country.
+= 她做白俄罗斯语翻译，在另一个国家远程工作。
 Belarusian = 白俄罗斯语
-② A Belarusian won the event.
-= 一名白俄罗斯人赢了那个项目。
+② A Belarusian won the event and competed under a neutral flag.
+= 一名白俄罗斯人赢了那个项目，以中立旗身份参赛。
 a Belarusian = 白俄罗斯人
-③ Belarusian is close to Russian and Ukrainian.
-= 白俄罗斯语跟俄语、乌克兰语都近。
+③ Belarusian is close to Russian and Ukrainian and losing speakers to both.
+= 白俄罗斯语跟俄语、乌克兰语都近，使用者也正在流向这两边。
 be close to = 与……接近
 构词：国名 Belarus 加 -ian
 注意拼写：旧拼法是 Belorussian，今天改用这一个。
@@ -44693,13 +44693,13 @@ belated
 核心：形容词，指"迟来的"——本该早就到、早就说的，拖到现在才有。
 最常修饰 apology、birthday wishes、recognition。
 它带一点歉意或遗憾，不是单纯的"晚"。副词是 belatedly。
-① Please accept my belated apology.
-= 请接受我迟来的歉意。
+① Please accept my belated apology, offered eleven years after the event.
+= 请接受我迟来的歉意，距那件事已经十一年。
 a belated apology = 迟到的道歉
-② Belated birthday wishes!
-= 生日快乐，祝晚了！
-③ Recognition came belatedly.
-= 认可来得太迟。
+② Belated birthday wishes, said the card, which arrived in February.
+= 卡片上写着「生日快乐，祝晚了」，而它二月才寄到。
+③ Recognition came belatedly and the prize was awarded after his death.
+= 认可来得太迟，那个奖是在他身后颁的。
 belatedly = 迟迟地
 注意用法：
 含「本该更早」的遗憾，不能只当 late 用。
@@ -44708,14 +44708,14 @@ belay
 核心：两层，都跟绳子有关。航海上指"把绳索绕在桩上系牢"；
 攀岩上指"确保"——同伴用绳索保护攀爬者，一旦坠落就拉住。
 攀岩里这个词既是动词也是名词，做这件事的人叫 belayer。
-① She belayed him from the ledge.
-= 她在岩台上给他做保护。
+① She belayed him from the ledge and paid out rope for two hours.
+= 她在岩台上给他做保护，放了两个钟头的绳。
 belay somebody = 为某人做绳索保护
-② Set up a solid belay.
-= 建一个牢固的保护站。
+② Set up a solid belay before anyone leaves the ground.
+= 谁都还没离地之前，先建一个牢固的保护站。
 belay = 保护站、确保点
-③ Belay that line.
-= 把那根绳系牢。
+③ Belay that line and take a turn round the cleat.
+= 把那根绳系牢，在系缆桩上绕一圈。
 注意语域：
 攀岩与航海术语。
 
@@ -44723,13 +44723,13 @@ belch
 核心：底层是"从里面猛地冲出来"。人打嗝是本义；
 烟囱、火山"喷出"浓烟烈焰也用它，那时常接 out 或 forth。
 名词是那一声嗝。
-① He belched loudly.
-= 他大声打了个嗝。
-② The chimney belched black smoke.
-= 烟囱喷出黑烟。
+① He belched loudly and apologised to the wrong person.
+= 他大声打了个嗝，还向不相干的人道了歉。
+② The chimney belched black smoke for six hours before anyone rang.
+= 烟囱喷了六个钟头黑烟才有人打电话。
 belch out = 喷出（烟、火）
-③ A belch broke the silence.
-= 一声嗝打破了沉默。
+③ A belch broke the silence at the exact wrong moment.
+= 一声嗝在最不该响的时刻打破了沉默。
 注意用法：
 说机器与烟囱时多带 out 或 forth。
 
@@ -44737,13 +44737,13 @@ beleaguer
 核心：底层是军事上的"围困"——把城围起来。今天几乎只用被动
 形容词 beleaguered，指人或机构"四面受困、麻烦缠身"，
 新闻里最常修饰 minister、company、industry。
-① The beleaguered minister resigned.
-= 那位焦头烂额的大臣辞了职。
+① The beleaguered minister resigned on a Friday afternoon in August.
+= 那位焦头烂额的大臣在八月一个周五下午辞了职。
 beleaguered = 四面受困的
-② The city was beleaguered for months.
-= 那座城被围了好几个月。
-③ Beleaguered firms cut staff.
-= 处境艰难的公司裁了员。
+② The city was beleaguered for months and gave in over water, not food.
+= 那座城被围了好几个月，最后是为水而不是为粮投降的。
+③ Beleaguered firms cut staff first and advertising second.
+= 处境艰难的公司先裁人，其次砍广告。
 注意用法：
 今天几乎只用被动分词形式。
 
@@ -44751,12 +44751,12 @@ belfry
 核心：教堂里挂钟的那一层塔楼。习语 have bats in the belfry
 指人"脑子不正常"——钟楼里飞满蝙蝠，形容脑袋里乱糟糟。
 形容词 batty 就是从这个说法来的。
-① Bells hang in the belfry.
-= 钟挂在钟楼上。
-② He climbed to the belfry.
-= 他爬上了钟楼。
-③ She has bats in the belfry.
-= 她脑子有点不正常。
+① Bells hang in the belfry and have not been rung since the tower cracked.
+= 钟挂在钟楼上，塔身开裂之后就没再敲过。
+② He climbed to the belfry and counted a hundred and eleven steps.
+= 他爬上钟楼，数了一百十一级台阶。
+③ She has bats in the belfry, said her brother, who was no better himself.
+= 「她脑子有点不正常」，她哥哥说，而他自己也好不到哪去。
 have bats in the belfry = 疯疯癫癫
 注意语域：
 建筑名词；那个习语偏旧且带调侃。
@@ -44764,14 +44764,14 @@ have bats in the belfry = 疯疯癫癫
 Belgian
 核心：比利时的、比利时人。要紧的一点是它不指语言 —— 比利时没有
 「比利时语」，官方语言是荷兰语、法语与德语。可数。
-① He married a Belgian.
-= 他娶了个比利时人。
+① He married a Belgian and learned two of her three national languages.
+= 他娶了个比利时人，学会了她那三种官方语言里的两种。
 a Belgian = 比利时人
-② Belgian chocolate is the country's best export.
-= 比利时巧克力是那个国家最好的出口货。
+② Belgian chocolate is the country's best export and its worst-kept secret.
+= 比利时巧克力是那个国家最好的出口货，也是最藏不住的秘密。
 Belgian chocolate = 比利时巧克力
-③ Belgian beer comes in hundreds of styles.
-= 比利时啤酒有几百种。
+③ Belgian beer comes in hundreds of styles and each has its own glass.
+= 比利时啤酒有几百种，每一种都有自己的专用酒杯。
 Belgian beer = 比利时啤酒
 构词：国名 Belgium 去掉词尾加 -an
 注意别当语言名：比利时没有以此为名的语言。
@@ -44795,13 +44795,13 @@ belie
 her calm belied her fear（她的镇定掩住了恐惧）；
 二是"证明…不实"——事实推翻了某个说法。
 两层共通的是"表里不一"。
-① Her smile belied her anxiety.
-= 她的笑掩住了心里的不安。
+① Her smile belied an anxiety that kept her awake most nights.
+= 她的笑掩住了让她夜夜难眠的不安。
 belie = 掩盖、使人看不出
-② His youth belies his experience.
-= 他年纪轻，看不出资历那么深。
-③ The figures belie the official account.
-= 那些数字戳穿了官方说法。
+② His youth belies his experience and costs him work every year.
+= 他年纪轻，看不出资历那么深，每年因此丢掉些活。
+③ The figures belie the official account in every year but one.
+= 除了一年之外，那些数字年年都戳穿官方说法。
 belie = 证明…不实
 注意用法：
 两层方向相反，读的时候看它是在「遮」还是在「拆」。
@@ -44900,13 +44900,13 @@ Belisha beacons = 那种闪灯杆（复数）
 belittle
 核心：底层是"把它说小"——贬低、轻描淡写地否定别人的成绩或
 感受。它不是直接骂人，而是"不当回事"，所以更伤人。
-① Don't belittle her achievement.
-= 别贬低她的成绩。
+① Don't belittle her achievement in front of people who do not know the field.
+= 别当着不懂这行的人贬低她的成绩。
 belittle something = 贬低某事
-② He belittles everyone's ideas.
-= 他把谁的想法都不当回事。
-③ She felt belittled by the remark.
-= 那句话让她觉得被看轻了。
+② He belittles everyone's ideas and then uses them a month later.
+= 他把谁的想法都不当回事，一个月后又拿来用。
+③ She felt belittled by the remark and said nothing for the rest of the meeting.
+= 那句话让她觉得被看轻，会议剩下的时间她一言不发。
 feel belittled = 觉得被看轻
 注意别混：
 belittle = 贬低（说得不值一提）
@@ -45016,13 +45016,13 @@ bellicose
 核心：正式形容词，指"好战的、动辄挑衅的"——说国家、政策或人的
 态度。它比 aggressive 更专指"想打仗、要动武"这个方向。
 名词是 bellicosity。
-① The speech was openly bellicose.
-= 那篇讲话公然好战。
-② Bellicose rhetoric alarmed neighbours.
-= 好战言辞让邻国警觉。
+① The speech was openly bellicose and the markets fell before it ended.
+= 那篇讲话公然好战，还没讲完市场就跌了。
+② Bellicose rhetoric alarmed neighbours who had heard it all before.
+= 好战言辞让邻国警觉，尽管那些话它们早就听过。
 bellicose rhetoric = 好战言论
-③ His bellicosity cost him allies.
-= 他那股好斗劲儿让他失了盟友。
+③ His bellicosity cost him allies faster than it frightened opponents.
+= 他那股好斗劲儿吓走盟友，比吓住对手还快。
 bellicosity = 好战、好斗
 注意语域：
 正式，多见于国际政治报道。
@@ -45031,14 +45031,14 @@ belligerent
 核心：两层。作形容词指"好斗的、挑衅的"，说人的态度——
 比 bellicose 更常说个人。作名词指国际法上的"交战方"，
 指正在打仗的国家。名词 belligerence 指那股挑衅劲儿。
-① He turned belligerent after two drinks.
-= 他喝了两杯就开始找碴。
+① He turned belligerent after two drinks and apologetic after four.
+= 他喝两杯就开始找碴，喝到四杯又开始道歉。
 turn belligerent = 变得好斗
-② Both belligerents claimed victory.
-= 交战双方都宣称获胜。
+② Both belligerents claimed victory and neither held the ground.
+= 交战双方都宣称获胜，而阵地谁也没守住。
 belligerent = 交战方（名词）
-③ She answered belligerently.
-= 她答得很冲。
+③ She answered belligerently a question that had been asked kindly.
+= 人家问得很客气，她答得却很冲。
 belligerently = 挑衅地
 belligerence = 好斗、挑衅
 注意别混：
@@ -45067,13 +45067,13 @@ bellwether
 核心：底层是牧群里那只挂铃的领头羊——它往哪走，羊群跟着走。
 今天几乎只用比喻义：指"风向标"，某个能预示整体走势的
 地区、行业或指标。经济与选举报道里最常见。
-① The state is an electoral bellwether.
-= 那个州是选举的风向标。
+① The state is an electoral bellwether and has picked the winner nine times running.
+= 那个州是选举风向标，连着九次押中了赢家。
 a bellwether = 风向标
-② Housing is a bellwether for the economy.
-= 楼市是经济的风向标。
-③ Bellwether stocks led the fall.
-= 龙头股带头下跌。
+② Housing is a bellwether for the economy and turns about a year early.
+= 楼市是经济的风向标，大约提前一年转向。
+③ Bellwether stocks led the fall and recovered a fortnight ahead of the rest.
+= 龙头股带头下跌，也比其余股票早两周回升。
 bellwether stock = 龙头股
 注意用法：
 比喻义后面常接介词引出所预示的对象。
@@ -45172,14 +45172,14 @@ beloved
 核心：书面且带感情的词，指"深受喜爱的、心爱的"。
 作定语时读两个音节，作表语接 of 或 by 时读三个音节，
 这是它少见的读音差别。也可作名词指"心上人"。
-① Her beloved husband died last year.
-= 她心爱的丈夫去年去世了。
+① Her beloved husband died last year and she still sets two places.
+= 她心爱的丈夫去年去世，她仍摆两副碗筷。
 beloved = 心爱的
-② He was beloved by all who knew him.
-= 认识他的人都很爱戴他。
+② He was beloved by all who knew him and by rather few who did not.
+= 认识他的人都爱戴他，不认识他的就没几个。
 beloved by = 受某人爱戴
-③ She wrote to her beloved every day.
-= 她天天给心上人写信。
+③ She wrote to her beloved every day for four years and kept every reply.
+= 她给心上人天天写信，写了四年，回信一封没丢。
 beloved = 心上人（名词）
 注意读音：作定语两个音节，作表语三个音节。
 
@@ -45269,14 +45269,14 @@ beluga
 核心：两个所指都跟"白"有关：一是北极海域的白鲸，
 二是里海的欧洲鳇，后者产的鱼子酱最贵，叫 beluga caviar。
 读文章时要看语境判断说的是鲸还是鱼。
-① A beluga surfaced near the boat.
-= 一头白鲸在船边浮出水面。
+① A beluga surfaced near the boat and stayed alongside for twenty minutes.
+= 一头白鲸在船边浮出水面，跟了二十分钟。
 beluga = 白鲸
-② Beluga caviar is extremely expensive.
-= 鳇鱼子酱贵得离谱。
+② Beluga caviar is extremely expensive and mostly illegal to trade now.
+= 鳇鱼子酱贵得离谱，如今交易多半还是违法的。
 beluga caviar = 鳇鱼子酱
-③ The beluga sturgeon is critically endangered.
-= 欧洲鳇已极度濒危。
+③ The beluga sturgeon is critically endangered and takes twenty years to breed.
+= 欧洲鳇已极度濒危，要二十年才能繁殖。
 beluga sturgeon = 欧洲鳇
 注意别混：白鲸是哺乳动物，鳇是鱼。
 
