@@ -252,13 +252,13 @@ autohypnosis
 核心：指"自我催眠"——不靠别人引导，自己把自己带进一种高度专注、
 容易接受暗示的状态。常跟自我暗示配合，用于放松、止痛和
 调整习惯。
-① She practises autohypnosis before sleep.
-= 她睡前做自我催眠。
+① She practises autohypnosis before sleep and rarely gets past the third step.
+= 她睡前做自我催眠，很少能撑过第三步。
 practise autohypnosis = 做自我催眠
-② Autohypnosis needs no therapist.
-= 自我催眠不需要治疗师在场。
-③ Athletes use autohypnosis to focus.
-= 运动员用自我催眠来集中注意。
+② Autohypnosis needs no therapist and no equipment beyond a quiet room.
+= 自我催眠不需要治疗师，除了一间安静的屋子也不需要别的。
+③ Athletes use autohypnosis to focus in the four minutes before a start.
+= 运动员用自我催眠在起跑前的四分钟里集中注意。
 注意语域：
 心理治疗与自助语境。
 
@@ -266,14 +266,14 @@ autoimmune
 核心：医学形容词，指"自身免疫的"——免疫系统认错了目标，把自己
 身体的组织当成外敌来攻击。类风湿关节炎、一型糖尿病、
 桥本甲状腺炎都属这一类。
-① She has an autoimmune condition.
-= 她患有自身免疫性疾病。
+① She has an autoimmune condition that took nine years to name.
+= 她患有自身免疫病，光是确定病名就花了九年。
 an autoimmune condition = 自身免疫病
-② Autoimmune attacks damage healthy tissue.
-= 自身免疫攻击会损伤健康组织。
+② Autoimmune attacks damage healthy tissue the body has stopped recognising.
+= 自身免疫攻击损伤的，是身体已经认不出来的健康组织。
 damage tissue = 损伤组织
-③ Autoimmune disease often runs in families.
-= 自身免疫病常有家族聚集。
+③ Autoimmune disease often runs in families and skips between sisters.
+= 自身免疫病常有家族聚集，还会在姐妹之间跳着出现。
 autoimmune disease = 自身免疫性疾病
 注意语域：
 免疫学与临床术语。
@@ -282,26 +282,26 @@ automagically
 核心：技术圈的玩笑话，把 automatically 和 magically 拼在一起，
 指"自动得像变魔术一样"——事情自己就办好了，用的人根本不知道
 背后怎么运作的。带调侃，有时也暗讽"黑箱"。
-① The config updates automagically.
-= 配置会自己神奇地更新。
+① The config updates automagically and nobody can say from where.
+= 配置会自己神奇地更新，没人说得出是从哪儿更新的。
 update automagically = 自动神奇地更新
-② It just works automagically.
-= 它就这么自己好了。
-③ Nothing happens automagically in production.
-= 生产环境里没有什么是自己变出来的。
+② It just works automagically until the day it does not.
+= 它就这么自己好使着，直到某天不好使了。
+③ Nothing happens automagically in production, whatever the demo showed.
+= 不管演示时看着多神，生产环境里没有什么是自己变出来的。
 注意语域：
 技术圈玩笑用语，正式文档里不用。
 
 automaker
 核心：美式说法，指"汽车制造商"，就是造整车的那些公司。
 英式多说 car manufacturer 或 carmaker。多用于商业与行业报道。
-① The automaker recalled 40,000 cars.
-= 那家车企召回了四万辆车。
+① The automaker recalled forty thousand cars over a switch worth two pounds.
+= 那家车企为一个两英镑的开关召回了四万辆车。
 recall cars = 召回车辆
-② Automakers shifted to electric models.
-= 各车企转向了电动车型。
-③ The automaker posted record profits.
-= 那家车企报出了创纪录的利润。
+② Automakers shifted to electric models faster than the charging network grew.
+= 各车企转向电动车型的速度，快过充电网络的铺开。
+③ The automaker posted record profits in the year it closed two plants.
+= 那家车企在关掉两座工厂的那一年报出了创纪录的利润。
 注意地域：
 美式说 automaker，英式说 carmaker。
 
@@ -309,12 +309,12 @@ automat
 核心：一种自助餐馆，墙上一格格小玻璃门后面摆着做好的菜，
 投币开门取走。二十世纪上半叶在纽约和费城风行一时，
 后来被快餐店取代，如今是个怀旧符号。
-① He ate lunch at the automat.
-= 他在自动售餐馆吃的午饭。
-② Automats sold pie behind little glass doors.
-= 那种餐馆把派摆在小玻璃门后面卖。
-③ The last automat closed in 1991.
-= 最后一家自动售餐馆一九九一年关门。
+① He ate lunch at the automat every working day for eleven years.
+= 十一年里他每个工作日都在自动售餐馆吃午饭。
+② Automats sold pie behind little glass doors that opened for a nickel.
+= 那种餐馆把派摆在小玻璃门后面卖，投五分硬币门就开。
+③ The last automat closed in 1991 and the fittings went to a museum.
+= 最后一家自动售餐馆一九九一年关门，那些设备进了博物馆。
 注意语域：
 美国餐饮史用语，带怀旧色彩。
 
@@ -386,12 +386,12 @@ autowind = 自动过片（胶片相机）
 automatically
 核心：两条线：机器"自动地"，
 和"自然而然、不假思索地"。第二条常被忽略。
-① The door opens automatically.
-= 那扇门自动开启。
-② He automatically reached for it.
-= 他下意识伸手去拿。
-③ You don't automatically qualify.
-= 你并不因此自动具备资格。
+① The door opens automatically and closes on anyone who hesitates.
+= 那扇门自动开启，谁一犹豫就夹上。
+② He automatically reached for the handle that had not been there since March.
+= 他下意识伸手去够那个三月起就不在的把手。
+③ You don't automatically qualify just because you were on the list last year.
+= 去年在名单上，并不意味着你今年自动具备资格。
 automatically qualify = 自动获得资格
 词族：automatic、automate
 近义对照：
@@ -402,13 +402,13 @@ by default = 默认地
 automation
 核心：指用机器和软件取代人工的"自动化"。不可数。
 就业讨论里的核心词。
-① Automation reduced jobs.
-= 自动化减少了岗位。
-② Factory automation advanced fast.
-= 工厂自动化进展很快。
+① Automation reduced jobs in the warehouse and created three in the office.
+= 自动化减少了仓库的岗位，却在办公室里添了三个。
+② Factory automation advanced fast and stopped at the one task nobody could describe.
+= 工厂自动化进展很快，卡在了唯一那件谁也说不清的活上。
 factory automation = 工厂自动化
-③ Automation raises productivity.
-= 自动化提高生产率。
+③ Automation raises productivity and moves the bottleneck somewhere else.
+= 自动化提高生产率，也把瓶颈挪到了别处。
 词族：automate、automatic
 近义对照：
 automation = 自动化（流程无人化）

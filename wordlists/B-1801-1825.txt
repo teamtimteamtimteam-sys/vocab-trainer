@@ -18,13 +18,13 @@ argue automatism = 以自动症抗辩
 automaton
 核心：两条线：早期的"自动机械人偶"，
 和比喻义的"像机器一样机械行事的人"。后者是贬义。
-① The clock has an automaton.
-= 那座钟有个自动人偶。
-② He works like an automaton.
-= 他干活像台机器。
+① The clock has an automaton that strikes the hour with a small hammer.
+= 那座钟有个自动人偶，用一把小锤敲报整点。
+② He works like an automaton and has not made an error in nine years.
+= 他干活像台机器，九年没出过错。
 like an automaton = 机械麻木地
-③ Automatons performed at fairs.
-= 集市上有自动人偶表演。
+③ Automatons performed at fairs and drew larger crowds than the acrobats.
+= 集市上有自动人偶表演，招来的人比杂技还多。
 注意复数：
 automaton → automatons 或 automata
 构词：auto- 自动 + -maton
@@ -36,13 +36,13 @@ android = 仿人机器人
 automobile
 核心：美式的"汽车"，比 car 正式，多用于产业语境
 （the automobile industry）。英式日常只说 car。
-① The automobile industry is huge.
-= 汽车工业规模庞大。
+① The automobile industry is huge and employs a tenth of the state.
+= 汽车工业规模庞大，全州十分之一的人靠它吃饭。
 automobile industry = 汽车产业
-② Automobile sales fell.
-= 汽车销量下滑。
-③ He restores classic automobiles.
-= 他修复老爷车。
+② Automobile sales fell for six quarters and recovered in one.
+= 汽车销量连跌六个季度，一个季度就回来了。
+③ He restores classic automobiles and drives none of them.
+= 他修复老爷车，一辆也不开。
 注意英美差别：
 automobile = 汽车（美式，偏正式与产业语境）
 auto = 汽车（美式，同样偏产业语境）
@@ -52,14 +52,14 @@ auto = 汽车（美式，同样偏产业语境）
 automotive
 核心：指"汽车的、机动车辆的"，几乎只作定语，
 用于产业语境。
-① He works in automotive design.
-= 他做汽车设计。
+① He works in automotive design and has never owned a car.
+= 他做汽车设计，自己从没有过车。
 automotive design = 汽车设计
-② Automotive parts are in short supply.
-= 汽车零件供应紧张。
+② Automotive parts are in short supply and the wait is now eleven months.
+= 汽车零件供应紧张，如今要等十一个月。
 automotive parts = 汽车零部件
-③ The automotive sector is shifting.
-= 汽车行业正在转型。
+③ The automotive sector is shifting and the suppliers are shifting slower.
+= 汽车行业正在转型，供应商转得慢些。
 automotive sector = 汽车行业
 词族：automobile
 注意：automotive 一般不说单辆车，
@@ -84,14 +84,14 @@ the parasympathetic branch = 副交感支
 autonomous
 核心：三条线：地区"自治的"、个人"自主的"、
 以及技术上的"无人驾驶、自主运行的"。
-① It's an autonomous region.
-= 那是个自治区。
+① It's an autonomous region on paper and rather less so in practice.
+= 那在纸面上是个自治区，实际上没那么自治。
 autonomous region = 自治区
-② Students become autonomous learners.
-= 学生成为自主学习者。
+② Students become autonomous learners once nobody is checking the work.
+= 一旦没人查作业，学生就成了自主学习者。
 autonomous learner = 自主学习者
-③ Autonomous vehicles are being tested.
-= 自动驾驶车辆正在测试。
+③ Autonomous vehicles are being tested on roads chosen for being dull.
+= 自动驾驶车辆正在测试，选的路专挑没什么状况的。
 autonomous vehicle = 自动驾驶车
 副词形式：
 autonomously = 自主地
@@ -131,13 +131,13 @@ autopilot
 核心：飞机、船舶和汽车上的"自动驾驶装置"——替人保持航向、高度或
 车道，但不等于无人驾驶，人仍要盯着。比喻着用时指人"心不在焉地
 机械行事"，固定说法 on autopilot。
-① The crew engaged the autopilot.
-= 机组接通了自动驾驶。
+① The crew engaged the autopilot and watched it fly better than either of them.
+= 机组接通自动驾驶，看着它飞得比两人都好。
 engage the autopilot = 接通自动驾驶
-② Autopilot holds the heading, not the judgement.
-= 自动驾驶保的是航向，不是判断。
-③ She got through the day on autopilot.
-= 她那天整个是机械地熬过来的。
+② Autopilot holds the heading, not the judgement, and the manual says so twice.
+= 自动驾驶保的是航向，不是判断，手册上说了两遍。
+③ She got through the day on autopilot and could not recall the drive home.
+= 她那天整个是机械地熬过来的，连怎么开车回的家都想不起来。
 on autopilot = 心不在焉地照惯性行事
 注意用法：
 比喻义几乎只跟介词那个搭配一起用。
@@ -145,13 +145,13 @@ on autopilot = 心不在焉地照惯性行事
 autopsy
 核心：指为查明死因所做的"尸检"。
 英式也说 post-mortem，两者通用。
-① An autopsy was performed.
-= 做了尸检。
+① An autopsy was performed within the day and settled nothing at all.
+= 尸检当天就做了，却什么也没解决。
 perform an autopsy = 进行尸检
-② The autopsy revealed poisoning.
-= 尸检查出是中毒。
-③ Autopsy results are pending.
-= 尸检结果尚未出来。
+② The autopsy revealed poisoning of a kind that leaves no trace after a week.
+= 尸检查出是中毒，那种毒一周后就不留痕迹。
+③ Autopsy results are pending and the family has been told to expect months.
+= 尸检结果尚未出来，家属已被告知要等几个月。
 autopsy results = 尸检结果
 注意复数：autopsy → autopsies
 近义对照：
@@ -179,13 +179,13 @@ autosuggestion
 核心：心理学名词，指"自我暗示"——不断对自己重复某个念头，
 让它绕过理性的把关，慢慢影响自己的感受和行为。库埃那句
 每天念的乐观句子是最有名的例子。
-① Autosuggestion can ease mild anxiety.
-= 自我暗示能缓解轻度焦虑。
+① Autosuggestion can ease mild anxiety and does nothing for the severe kind.
+= 自我暗示能缓解轻度焦虑，对重度的则毫无作用。
 ease anxiety = 缓解焦虑
-② The method relies on daily autosuggestion.
-= 那套方法靠每天的自我暗示。
-③ Autosuggestion is not the same as hypnosis.
-= 自我暗示跟催眠不是一回事。
+② The method relies on daily autosuggestion repeated at the same hour.
+= 那套方法靠每天在同一时刻重复的自我暗示。
+③ He talked himself calm by autosuggestion in the ten minutes before going on.
+= 上场前十分钟，他用自我暗示把自己说平静了。
 注意语域：
 心理学与自助疗法语境。
 
@@ -193,14 +193,14 @@ autotelic
 核心：正式形容词，指"以自身为目的的"——做一件事就是为了做这件事
 本身，不为别的回报。心理学家契克森米哈赖用它描述"心流"型的
 活动和性格。
-① Play is an autotelic activity.
-= 玩耍是种以自身为目的的活动。
+① Play is an autotelic activity and stops being play the moment it is scored.
+= 玩耍是种以自身为目的的活动，一记分就不再是玩了。
 an autotelic activity = 自具目的的活动
-② Autotelic personalities seek flow.
-= 自具目的型人格追求心流。
+② Autotelic personalities seek flow and find it in work other people avoid.
+= 自具目的型人格追求心流，而且在别人躲开的活里找到它。
 autotelic personality = 自具目的型人格
-③ Art can be autotelic.
-= 艺术可以是自足其目的的。
+③ Art can be autotelic without being any less useful for that.
+= 艺术可以自足其目的，也并不因此就更没用。
 注意语域：
 心理学与美学术语。
 
@@ -208,13 +208,13 @@ autotroph
 核心：生物学名词，指"自养生物"——能自己把无机物造成有机物，
 不必吃别的生物。绿色植物靠光合作用，深海热泉的细菌靠化学能，
 都属这一类。形容词是 autotrophic。
-① Plants are autotrophs.
-= 植物是自养生物。
-② Autotrophs form the base of the food chain.
-= 自养生物构成食物链的基座。
+① Plants are autotrophs and pay for it by not being able to move.
+= 植物是自养生物，代价是不能移动。
+② Autotrophs form the base of the food chain and everything above them is borrowing.
+= 自养生物构成食物链的基座，它们上面的一切都是在借。
 the base of the food chain = 食物链基座
-③ Some bacteria are chemically autotrophic.
-= 有些细菌靠化学能自养。
+③ Some bacteria are chemically autotrophic and live where no light has ever reached.
+= 有些细菌靠化学能自养，生活在光从未到达的地方。
 autotrophic = 自养的
 注意别混：
 autotroph = 自养生物（自己造有机物）
@@ -224,14 +224,14 @@ autotune
 核心：音高修正软件，把唱走音的地方拉回准确音高。轻用听不出来，
 重用会产生一种阶梯式的机械音色，那反倒成了一种刻意的风格。
 名词动词同形，也拼作 Auto-Tune。
-① The vocals are heavily autotuned.
-= 那段人声修音修得很重。
+① The vocals are heavily autotuned and the live version gave the game away.
+= 那段人声修音修得很重，现场版一唱就露了馅。
 be heavily autotuned = 修音修得重
-② Autotune corrects pitch in real time.
-= 修音软件能实时校正音高。
+② Autotune corrects pitch in real time and leaves a stair-step sound if pushed.
+= 修音软件实时校正音高，推得太狠就留下阶梯般的音色。
 correct pitch = 校正音高
-③ Some singers use autotune as an effect.
-= 有的歌手把修音当成一种效果来用。
+③ Some singers use autotune as an effect rather than as a repair.
+= 有的歌手把修音当效果用，而不是拿来补救。
 注意语域：
 音乐制作用语，原为商标名。
 
@@ -257,14 +257,14 @@ autumn statement = 秋季财政声明（英国）
 autumnal
 核心：指"秋天的、有秋意的"。
 注意读音里的 n 要发出来，和 autumn 不同。
-① The light is autumnal.
-= 光线里透着秋意。
+① The light is autumnal by four o'clock and gone by five.
+= 四点起光线里就透着秋意，五点就没了。
 autumnal light = 秋日的光
-② Autumnal colours filled the park.
-= 秋色铺满了公园。
+② Autumnal colours filled the park for about nine days that year.
+= 那一年秋色铺满公园，大约只有九天。
 autumnal colours = 秋色
-③ There's an autumnal chill.
-= 有股秋凉。
+③ There's an autumnal chill in the mornings and none of it by noon.
+= 早上有股秋凉，到中午就一点不剩。
 注意发音：
 autumn /ˈɔːtəm/ 的 n 不发音
 autumnal /ɔːˈtʌmnəl/ 的 n 要发音
@@ -297,13 +297,13 @@ auxin
 核心：植物激素的一类，管细胞伸长。它在背光的一侧积得多，
 那一侧长得快，茎就朝着光弯过去——向光性就是这么来的。
 园艺里的生根粉用的也是它的人工类似物。
-① Auxin makes the stem bend towards light.
-= 生长素让茎朝光弯曲。
+① Auxin makes the stem bend towards light by lengthening the shaded side.
+= 生长素让背光那侧的细胞伸长，茎就朝光弯了过去。
 bend towards light = 向光弯曲
-② Auxin concentrates on the shaded side.
-= 生长素在背光一侧富集。
-③ Rooting powder contains synthetic auxin.
-= 生根粉里含人工合成的生长素。
+② Auxin concentrates on the shaded side within minutes of the light moving.
+= 光一移动，几分钟内生长素就在背光一侧富集。
+③ Rooting powder contains synthetic auxin and works on some cuttings and not others.
+= 生根粉里含人工合成的生长素，对有些插条管用，对有些不管用。
 synthetic auxin = 人工合成生长素
 注意语域：
 植物生理学术语。
@@ -311,13 +311,13 @@ synthetic auxin = 人工合成生长素
 avail
 核心：两条线：正式的"有益于"（多用于否定），
 和反身的 avail oneself of（利用）。名词只用 to no avail。
-① Our efforts were to no avail.
-= 我们的努力白费了。
+① Our efforts were to no avail and the building came down in March.
+= 我们的努力白费了，那栋楼三月还是拆了。
 to no avail = 徒劳无功
-② Nothing availed him.
-= 什么都帮不了他。
-③ She availed herself of the offer.
-= 她接受并利用了那个机会。
+② Nothing availed him in the end, not the appeal and not the petition.
+= 到最后什么都帮不了他，上诉不行，请愿也不行。
+③ She availed herself of the offer before anyone else had read the letter.
+= 别人还没读完那封信，她就已经接受并利用了那个机会。
 avail oneself of = 利用
 注意：avail 作动词很正式，
 日常说 help 或 use。
