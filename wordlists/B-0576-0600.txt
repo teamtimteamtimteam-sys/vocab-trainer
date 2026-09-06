@@ -1,13 +1,13 @@
 agitato
 核心：音乐术语，意大利语借词，指"激动地"——标在谱上要求演奏得
 急促不安、情绪外露。作副词也作形容词，只在音乐语境里用。
-① The passage is marked agitato.
-= 那一段标着激动地演奏。
+① The passage is marked agitato and most players take it too fast.
+= 那一段标着激动地演奏，多数演奏者都弹得过快。
 marked agitato = 标注为激动地
-② She played the finale agitato.
-= 她把终曲弹得急促不安。
-③ An agitato tempo suits the storm scene.
-= 激动的速度适合那段风暴场景。
+② She played the finale agitato and the last chord came out sounding angry.
+= 她把终曲弹得急促不安，最后那个和弦听着像在发火。
+③ An agitato tempo suits the storm scene and ruins the one before it.
+= 激动的速度适合那段风暴场景，用在前一段就全毁了。
 agitato tempo = 激动的速度
 注意语域：
 音乐术语，日常口语不用。
@@ -19,13 +19,13 @@ allegro = 快板（轻快）
 agitator
 核心：指政治上的"煽动者、鼓动分子"，通常带贬义——
 说话人不认同其主张。也可指工业上的"搅拌器"。
-① He was branded an agitator.
-= 他被扣上煽动者的帽子。
+① He was branded an agitator for asking who owned the land.
+= 他不过问了一句地是谁的，就被扣上煽动者的帽子。
 brand someone an agitator = 指某人为煽动者
-② Agitators were arrested.
-= 鼓动者被逮捕了。
-③ The tank has an agitator.
-= 那个罐配有搅拌器。
+② Agitators were arrested at dawn and released without charge by lunchtime.
+= 鼓动者黎明被捕，午饭时就无罪释放了。
+③ The tank has an agitator that runs for four minutes every hour.
+= 那个罐配有搅拌器，每小时运转四分钟。
 词族：
 agitate = 鼓动
 agitation = 煽动
@@ -38,13 +38,13 @@ agitprop
 核心：指"鼓动宣传"——带明确政治目的的戏剧、海报、电影这类作品，
 目的是煽动而不是说理。词由 agitation 和 propaganda 各取一半拼成，
 源自苏联，用起来多半带贬义。
-① The play is pure agitprop.
-= 那出戏纯粹是鼓动宣传。
-② Agitprop posters filled the streets.
-= 街上贴满了鼓动宣传的海报。
+① The play is pure agitprop and fills the theatre every night regardless.
+= 那出戏纯粹是鼓动宣传，剧场却照样每晚爆满。
+② Agitprop posters filled the streets and were painted over within a month.
+= 街上贴满了鼓动宣传的海报，一个月内就被刷掉了。
 agitprop poster = 鼓动宣传海报
-③ Critics dismissed it as agitprop.
-= 评论家斥之为政治宣传。
+③ Critics dismissed it as agitprop and the audience kept coming anyway.
+= 评论家斥之为政治宣传，观众照来不误。
 dismiss as agitprop = 斥为鼓动宣传
 注意语域：
 政治与文艺评论用语，多含贬义。
@@ -55,14 +55,14 @@ propaganda = 宣传
 agleam
 核心：文学用词，形容词，指"闪着光的"，只作表语，不放在名词前面。
 跟 aglow、aflame、afloat 是同一族构词，都只能作表语。
-① The lake was agleam in the moonlight.
-= 湖面在月光下闪着光。
+① The lake was agleam in the moonlight and dead flat from shore to shore.
+= 湖面在月光下闪着光，从这岸到那岸平得像面镜子。
 be agleam in = 在…中闪光
-② Her eyes were agleam with tears.
-= 她眼里泪光闪动。
+② Her eyes were agleam with tears that she refused to let fall.
+= 她眼里泪光闪动，硬是不让它落下来。
 agleam with = 因…而闪亮
-③ The wet roofs lay agleam.
-= 湿漉漉的屋顶闪着光。
+③ The wet roofs lay agleam under a sun that had come out too late.
+= 湿漉漉的屋顶在出得太晚的太阳底下闪着光。
 注意用法：
 只作表语，不作定语。
 注意语域：
@@ -74,13 +74,13 @@ aflame = 燃烧着的
 aglow
 核心：只作表语，指"发着光的"或人"因喜悦或运动而容光焕发"。
 偏文学。介词用 with。
-① The sky was aglow.
-= 天空泛着光。
-② Her face was aglow with joy.
-= 她脸上洋溢着喜悦。
+① The sky was aglow for twenty minutes after the sun had gone down.
+= 太阳落下之后，天空泛着光泛了二十分钟。
+② Her face was aglow with joy at news she had waited nine years for.
+= 等了九年的消息传来，她脸上洋溢着喜悦。
 aglow with = 因…而焕发光彩
-③ The room was aglow with candles.
-= 屋里烛光摇曳。
+③ The room was aglow with candles because the power had gone again.
+= 又停电了，屋里点满蜡烛，一片摇曳的光。
 注意：aglow 只作表语。
 近义对照：
 aglow = 泛光焕发（文学）
@@ -90,13 +90,13 @@ radiant = 容光焕发的
 agnosia
 核心：神经科名词，指"失认症"——感官本身没毛病，但大脑认不出看到、
 听到或摸到的东西是什么。按受损的感觉通道分成好几种。
-① Visual agnosia impairs object recognition.
-= 视觉失认症让人认不出物体。
+① Visual agnosia impairs object recognition while leaving the eyes untouched.
+= 视觉失认症损害的是物体辨认，眼睛本身毫发无损。
 visual agnosia = 视觉失认症
-② He was diagnosed with agnosia.
-= 他被诊断为失认症。
-③ Agnosia follows damage to the cortex.
-= 失认症源于大脑皮层受损。
+② He was diagnosed with agnosia and could still describe what he was holding.
+= 他被诊断为失认症，却仍能描述手里拿着的东西。
+③ Agnosia follows damage to the cortex rather than to the sense organ itself.
+= 失认症源于大脑皮层受损，不是感觉器官出了问题。
 注意语域：
 神经病学术语。
 近义对照：
@@ -157,13 +157,13 @@ some time ago = 前些时候（注意 some time 分写）
 agog
 核心：指"急切期待、兴奋得不行"，只作表语，略带戏谑。
 介词用 with 或 for。
-① The crowd was agog.
-= 人群兴奋不已。
-② She was agog with curiosity.
-= 她好奇得不行。
+① The crowd was agog and the doors had not even opened yet.
+= 门都还没开，人群就兴奋不已。
+② She was agog with curiosity and asked four questions in a row.
+= 她好奇得不行，一连问了四个问题。
 agog with = 因…而兴奋
-③ Fans waited agog for news.
-= 粉丝们急切等着消息。
+③ Fans waited agog for news that turned out to be about somebody else.
+= 粉丝们急切等着消息，结果那消息说的是别人。
 agog for = 急切盼望
 注意：agog 只作表语。
 注意发音：/əˈɡɒɡ/
@@ -175,14 +175,14 @@ excited = 兴奋的（通用）
 agogo
 核心：法语借来的说法，作后置修饰语，意思是"多得很、要多少有多少"，
 放在名词后面。也写成 a gogo。带轻快甚至戏谑的口气。
-① There was champagne agogo.
-= 香槟多的是。
+① There was champagne agogo and about eleven people to drink it.
+= 香槟多的是，喝的人只有十一个左右。
 champagne agogo = 香槟管够
-② The bar offers cocktails a gogo.
-= 那家酒吧鸡尾酒要多少有多少。
+② The bar offers cocktails a gogo and closes at half past ten.
+= 那家酒吧鸡尾酒要多少有多少，十点半就打烊。
 cocktails a gogo = 鸡尾酒管够
-③ The festival had music agogo.
-= 那个音乐节音乐多得听不完。
+③ The festival had music agogo and one working tap for four thousand people.
+= 那个音乐节音乐多得听不完，四千人却只有一个能出水的龙头。
 注意语序：
 放在名词之后，不放前面。
 注意写法：
@@ -194,13 +194,13 @@ a gogo = 多得很（分写，也有带重音符的写法）
 agonize
 核心：指为难以决定的事"苦苦纠结"。介词用 over 或 about。
 英式也拼 agonise。
-① He agonized over the choice.
-= 他为那个选择纠结不已。
+① He agonized over the choice for a fortnight and then tossed a coin.
+= 他为那个选择纠结了两周，最后抛硬币定了。
 agonize over = 为…苦恼
-② Don't agonize about it.
-= 别为那事折磨自己。
-③ She agonized for weeks.
-= 她纠结了好几周。
+② Don't agonize about it — whichever you pick, you can change it in a year.
+= 别为那事折磨自己，选哪个一年后都能改。
+③ She agonized for weeks and the decision was taken out of her hands.
+= 她纠结了好几周，那个决定最后轮不到她做。
 注意英美拼写：
 agonise = 苦苦纠结（英式拼法）
 agonize = 苦苦纠结（美式拼法）
@@ -211,13 +211,13 @@ agonizing = 折磨人的
 agonized
 核心：指表情、喊声"充满痛苦的"。多作定语，
 修饰 cry、expression、look。
-① He gave an agonized cry.
-= 他发出痛苦的喊叫。
+① He gave an agonized cry that brought two neighbours over the fence.
+= 他发出一声痛苦的喊叫，两个邻居翻过篱笆就过来了。
 an agonized cry = 痛苦的呼喊
-② Her face was agonized.
-= 她一脸痛苦。
-③ An agonized silence followed.
-= 随之是难熬的沉默。
+② Her face was agonized and she went on playing to the end of the piece.
+= 她一脸痛苦，却把那支曲子弹到了最后。
+③ An agonized silence followed and lasted rather longer than the question had.
+= 随之是难熬的沉默，比那个问题本身长得多。
 agonized silence = 痛苦的沉默
 注意英美拼写：
 agonised = 充满痛苦的（英式拼法）
@@ -227,14 +227,14 @@ agonized = 充满痛苦的（美式拼法）
 agonizing
 核心：指"折磨人的、让人难以忍受的"，可以说疼痛，
 也可以说漫长的等待或艰难的抉择。
-① It was an agonizing wait.
-= 那是段煎熬的等待。
+① It was an agonizing wait and the news came through at ten past four.
+= 那是段煎熬的等待，消息四点十分才到。
 an agonizing wait = 折磨人的等待
-② She made an agonizing decision.
-= 她做了个痛苦的决定。
+② She made an agonizing decision and has not once said she regretted it.
+= 她做了个痛苦的决定，从没说过一次后悔。
 agonizing decision = 艰难的抉择
-③ The pain was agonizing.
-= 疼得难以忍受。
+③ The pain was agonizing and eased the moment the splint came off.
+= 疼得难以忍受，夹板一取下来就缓了。
 副词形式：
 agonizingly = 令人煎熬地
 注意英美拼写：
@@ -270,13 +270,13 @@ agora
 核心：古希腊城邦里的"集市广场"——既是买卖东西的市场，也是公民
 议事辩论的公共空间。复数是 agorae 或 agoras。引申指供人聚会
 议事的场所。
-① The agora stood at the city's centre.
-= 集市广场位于城中心。
-② Citizens debated in the agora.
-= 公民在集市广场上辩论。
+① The agora stood at the city's centre and everything else was built round it.
+= 集市广场位于城中心，别的一切都围着它建。
+② Citizens debated in the agora and voted with pieces of broken pottery.
+= 公民在集市广场上辩论，用碎陶片投票。
 debate in the agora = 在广场上辩论
-③ They call the online forum a digital agora.
-= 他们把那个网络论坛叫作数字广场。
+③ They call the online forum a digital agora and moderate it heavily.
+= 他们把那个网络论坛叫作数字广场，管得却很严。
 digital agora = 数字公共广场
 注意语域：
 古典学与城市史术语。
@@ -309,13 +309,13 @@ claustrophobia = 幽闭恐惧（怕封闭狭小）
 agraphia
 核心：神经科名词，指"失写症"——脑损伤之后写不出字，但手本身没瘫，
 认字的能力也可能还在。常跟失语症一起出现。
-① Agraphia often accompanies aphasia.
-= 失写症常与失语症同时出现。
+① Agraphia often accompanies aphasia and is easy to miss in a quiet patient.
+= 失写症常与失语症同时出现，病人若不爱说话就容易漏诊。
 accompany aphasia = 伴随失语症
-② The stroke left him with agraphia.
-= 中风让他患上了失写症。
-③ Agraphia is tested by dictation.
-= 失写症靠听写来检测。
+② The stroke left him with agraphia and he learned to type instead.
+= 中风让他患上失写症，他改学了打字。
+③ Agraphia is tested by dictation and by asking for a written signature.
+= 失写症靠听写检测，也让病人写一次签名。
 注意语域：
 神经病学术语。
 近义对照：
@@ -370,13 +370,13 @@ disagree = 不同意
 agreeable
 核心：三条线：事物"令人愉快的"、人"和蔼的"、以及
 "同意的"（be agreeable to）。第三条偏正式。
-① We had an agreeable evening.
-= 我们度过了愉快的一晚。
+① We had an agreeable evening and nobody mentioned the thing everyone was thinking.
+= 我们度过了愉快的一晚，人人都在想的那件事谁也没提。
 an agreeable evening = 惬意的夜晚
-② He is an agreeable fellow.
-= 他是个好相处的人。
-③ Are you agreeable to the plan?
-= 你同意那个计划吗？
+② He is an agreeable fellow right up until somebody disagrees with him.
+= 他是个好相处的人，直到有人跟他唱反调。
+③ Are you agreeable to the plan, or would you rather see the figures first?
+= 你同意那个计划吗，还是想先看看数字？
 be agreeable to = 同意
 反义词：
 disagreeable = 讨厌的
@@ -422,13 +422,13 @@ agribusiness
 核心：指"农业综合企业"——把种植养殖、加工、仓储和销售连成一条链的
 大规模商业化农业。作行业统称时不可数，指具体一家公司时可数。
 用起来常隐含跟小农户对立的意味。
-① Agribusiness dominates the region.
-= 农业综合企业主导着那个地区。
-② She works for a large agribusiness.
-= 她在一家大型农业企业上班。
+① Agribusiness dominates the region and owns most of the storage as well.
+= 农业综合企业主导着那个地区，仓储也大半归它们。
+② She works for a large agribusiness and has never set foot on a farm.
+= 她在一家大型农业企业上班，却从没踏进过农场。
 a large agribusiness = 一家大型农业企业
-③ Agribusiness lobbies against the rules.
-= 农业综合企业在游说反对那些规定。
+③ Agribusiness lobbies against the rules and drafts the replacements itself.
+= 农业综合企业游说反对那些规定，替代方案还由它们自己起草。
 注意用法：
 统称时不可数，指具体公司时可数。
 近义对照：
@@ -439,14 +439,14 @@ smallholding = 小农户（自有的小块地）
 agric
 核心：agriculture 与 agricultural 的非正式缩略写法，只作定语，
 用在院系、专业、行业这类名词前面。正式文本一律写完整拼法。
-① He studies at the agric faculty.
-= 他在农学院读书。
+① He studies at the agric faculty and works a real farm at weekends.
+= 他在农学院读书，周末在一个真农场干活。
 agric faculty = 农学院
-② The agric sector needs investment.
-= 农业部门需要投资。
+② The agric sector needs investment and gets it about once a decade.
+= 农业部门需要投资，大约十年才等来一次。
 agric sector = 农业部门
-③ She took an agric course.
-= 她选了一门农学课。
+③ She took an agric course as a filler and changed degree because of it.
+= 她本是拿一门农学课凑学分，结果为它改了专业。
 agric course = 农学课
 注意语域：
 非正式缩略，只作定语，正式场合写全。

@@ -302,14 +302,14 @@ defender = 防御方
 aggrieved
 核心：指"因受到不公而愤懑的"。法律上 the aggrieved party
 指受害方、原告方。介词用 at 或 about。
-① He felt aggrieved at the decision.
-= 他对那个决定很不忿。
+① He felt aggrieved at the decision and wrote a letter he never sent.
+= 他对那个决定很不忿，写了封没寄出去的信。
 feel aggrieved at = 因…感到委屈
-② The aggrieved party sued.
-= 受损方提起了诉讼。
+② The aggrieved party sued and recovered less than the costs of the case.
+= 受损方提起诉讼，拿回的钱还不够打官司的开销。
 the aggrieved party = 受害方
-③ She looked aggrieved.
-= 她一脸委屈。
+③ She looked aggrieved for about a week and then dropped the subject.
+= 她一脸委屈了大约一周，之后就不提了。
 注意发音：/əˈɡriːvd/
 近义对照：
 aggrieved = 受委屈的（觉得不公）
@@ -338,13 +338,13 @@ hassle = 琐碎的烦扰（口语）
 aghast
 核心：指"惊骇的"，程度比 shocked 重，多因看到可怕或
 令人反感的事。只作表语。介词用 at。
-① She was aghast at the news.
-= 那消息让她惊骇不已。
+① She was aghast at the news and had to sit down on somebody else's chair.
+= 那消息让她惊骇不已，只好在别人的椅子上坐下。
 aghast at = 对…感到骇然
-② He stared aghast.
-= 他惊呆了地盯着。
-③ Onlookers were aghast.
-= 旁观者惊骇不已。
+② He stared aghast at a bill four times what he had been quoted.
+= 账单是报价的四倍，他惊呆了地盯着它。
+③ Onlookers were aghast and not one of them moved to help.
+= 旁观者惊骇不已，却没一个人上前帮忙。
 注意：aghast 只作表语。
 注意发音：/əˈɡɑːst/，h 不发音。
 程度：
@@ -355,13 +355,13 @@ aghast = 惊骇（带反感）
 agile
 核心：字面指身体"敏捷灵活"，比喻指头脑"反应快"，现代商业里还指
 一整套快速迭代的工作方法（agile development）。
-① She is agile and quick.
-= 她身手敏捷。
-② He has an agile mind.
-= 他头脑灵活。
+① She is agile and quick and gets over a five-bar gate without breaking stride.
+= 她身手敏捷，翻过一道五横杆的栅门都不带停步。
+② He has an agile mind and a filing system that defeats everybody else.
+= 他头脑灵活，那套归档法却把所有人都难住。
 an agile mind = 灵活的头脑
-③ The team uses agile methods.
-= 那个团队用敏捷开发方法。
+③ The team uses agile methods and still misses every second deadline.
+= 那个团队用敏捷开发方法，每两次期限还是要误一次。
 agile development = 敏捷开发
 词族：
 agility = 敏捷
@@ -372,14 +372,14 @@ agile movement = 灵巧的动作
 agility
 核心：两条线：身体的"敏捷"，和头脑或组织的"灵活应变"。
 第二条在商业语境里越来越常用。
-① The cat moved with agility.
-= 那只猫动作敏捷。
+① The cat moved with agility along a fence too narrow to walk on.
+= 那只猫敏捷地走过一道窄到没法落脚的栅栏。
 with agility = 敏捷地
-② Mental agility matters here.
-= 这里看重思维敏捷。
+② Mental agility matters here more than anything you learned at school.
+= 在这里，思维敏捷比你在学校学的任何东西都重要。
 mental agility = 思维敏捷
-③ The firm needs more agility.
-= 那家公司需要更灵活。
+③ The firm needs more agility and has just added two layers of management.
+= 那家公司需要更灵活，却刚加了两层管理。
 business agility = 组织敏捷性
 词族：
 agile = 敏捷的
@@ -410,12 +410,12 @@ ageing = 老化（英式）
 agism
 核心：ageism 的另一种拼法，少了中间那个字母，意思完全一样，
 指"年龄歧视"。美式文本里偶尔见到，英式几乎只用全的那种拼法。
-① Some style guides prefer agism.
-= 有的文体指南用的是这个拼法。
-② Agism affects older workers most.
-= 年龄歧视对年长员工影响最大。
-③ The policy addresses agism directly.
-= 那项政策直接针对年龄歧视。
+① Agism turns up in American style guides and almost nowhere else.
+= 这个拼法出现在美国的文体指南里，别处几乎见不到。
+② Agism affects older workers most and younger ones more than anyone admits.
+= 年龄歧视对年长员工影响最大，对年轻人的影响也比谁承认的都多。
+③ The policy addresses agism directly and names three practices to stop.
+= 那项政策直接针对年龄歧视，点名叫停了三种做法。
 注意拼写：
 agism = 年龄歧视（较少见的拼法）
 ageism = 年龄歧视（更通行的拼法）
@@ -466,14 +466,14 @@ restless = 静不下来
 agitation
 核心：两条线：心理上的"焦躁不安"，和政治上的"鼓动、煽动"。
 两条都来自"搅动"这个底层。
-① He showed signs of agitation.
-= 他显出焦躁的迹象。
+① He showed signs of agitation that the nurse recorded but nobody read.
+= 他显出焦躁的迹象，护士记了下来，却没人看。
 signs of agitation = 焦躁迹象
-② Political agitation increased.
-= 政治鼓动加剧。
+② Political agitation increased through a summer with no rain at all.
+= 在一个滴雨未下的夏天里，政治鼓动愈演愈烈。
 political agitation = 政治煽动
-③ There was agitation for reform.
-= 有人在鼓动改革。
+③ There was agitation for reform among people who had never voted before.
+= 一批从没投过票的人当中，有人在鼓动改革。
 agitation for = 为…而鼓动
 词族：
 agitate = 使不安；鼓动
