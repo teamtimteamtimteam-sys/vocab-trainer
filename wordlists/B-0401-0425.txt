@@ -1,14 +1,14 @@
 adroit
 核心：指人"手法灵巧、应对老练的"，褒义。多用于社交、政治、
 谈判场合的技巧。介词用 at 或 in。
-① He is adroit at handling people.
-= 他很会跟人打交道。
+① He is adroit at handling people and remembers what everybody wants.
+= 他很会跟人打交道，谁想要什么他都记得。
 adroit at = 擅长
-② She made an adroit reply.
-= 她答得很巧妙。
+② She made an adroit reply that answered nothing and offended no one.
+= 她答得很巧妙，什么也没回答，也没得罪任何人。
 an adroit reply = 巧妙的回应
-③ It was an adroit political move.
-= 那是步高明的政治棋。
+③ It was an adroit political move that cost him the next election.
+= 那是步高明的政治棋，也让他输掉了下一次选举。
 副词形式：
 adroitly = 灵巧地
 反义词：
@@ -17,25 +17,25 @@ maladroit = 笨拙的
 adroit = 老练灵巧（技巧）
 deft = 敏捷娴熟（动作）
 skilful = 有技能的（通用）
-④ His adroitness impressed everyone.
-= 他的老练让所有人佩服。
+④ His adroitness impressed everyone until they compared their notes.
+= 他的老练让所有人佩服，直到大家对了一下说法。
 adroitness = 老练、灵巧
 
 adsorb
 核心：化学动词，指"吸附"——气体或液体的分子附着在固体表面结成
 一层薄膜。和 absorb 只差一个字母，区别在于附在表面还是进入内部。
 名词是 adsorption，能吸附的物质叫 adsorbent。
-① Charcoal adsorbs gases.
-= 活性炭能吸附气体。
+① Charcoal adsorbs gases and is packed into the filter as loose granules.
+= 活性炭能吸附气体，以松散颗粒装进滤芯。
 adsorb gases = 吸附气体
-② The molecules are adsorbed onto the surface.
-= 分子被吸附到表面上。
+② The molecules are adsorbed onto the surface and never go any deeper.
+= 分子被吸附到表面上，再往里就进不去了。
 be adsorbed onto = 被吸附到…上
-③ Silica gel is a common adsorbent.
-= 硅胶是常见的吸附剂。
+③ Silica gel is a common adsorbent and turns pink when it is spent.
+= 硅胶是常见的吸附剂，失效时会变成粉色。
 adsorbent = 吸附剂
-④ Adsorption happens at the interface.
-= 吸附发生在界面处。
+④ Adsorption happens at the interface and stops once the surface is full.
+= 吸附发生在界面处，表面一满就停。
 adsorption = 吸附作用
 注意别混：
 adsorb = 吸附（附在表面）
@@ -63,21 +63,21 @@ azuki = 红小豆（日语罗马字拼法）
 adulation
 核心：指过分的"吹捧、盲目崇拜"，常带贬义——暗示"捧过头了"。
 不可数。
-① He received public adulation.
-= 他受到公众的追捧。
+① He received public adulation for a discovery three other teams had made.
+= 另外三个团队也做出了那项发现，受到公众追捧的却是他。
 public adulation = 公众吹捧
-② The adulation went to his head.
-= 那些吹捧把他捧晕了。
+② The adulation went to his head within about a season and a half.
+= 大约一个半赛季，那些吹捧就把他捧晕了。
 go to one's head = 冲昏头脑
-③ Critics disliked the adulation.
-= 评论者不喜欢那种盲目崇拜。
+③ Critics disliked the adulation more than they disliked the book.
+= 比起那本书，评论者更不喜欢围着它的盲目崇拜。
 近义对照：
 adulation = 过度吹捧（贬义）
 praise = 表扬（中性）
 admiration = 钦佩（正面）
 flattery = 奉承（有目的）
-④ The reviews were adulatory.
-= 那些评论一味吹捧。
+④ The reviews were adulatory and the sales did not move at all.
+= 那些评论一味吹捧，销量却一点没动。
 adulatory = 谄媚吹捧的
 
 adult
@@ -242,17 +242,17 @@ advancement = 晋升；推进
 advanced
 核心：三条线：技术"先进的"、课程"高阶的"、疾病或阶段"晚期的"。
 第三条常被忽略，advanced cancer 是"晚期癌症"。
-① They use advanced technology.
-= 他们使用先进技术。
+① They use advanced technology to solve a problem nobody actually has.
+= 他们用先进技术去解决一个其实并不存在的问题。
 advanced technology = 先进技术
-② She teaches advanced English.
-= 她教高级英语。
+② She teaches advanced English to students who cannot order a coffee.
+= 她教高级英语，学生却连杯咖啡都点不明白。
 advanced level = 高级水平
-③ The disease is at an advanced stage.
-= 那种病已到晚期。
+③ The disease is at an advanced stage and was missed twice on scans.
+= 那种病已到晚期，此前两次扫描都没查出来。
 advanced stage = 晚期
-④ He is of advanced age.
-= 他年事已高。
+④ He is of advanced age and still walks four miles before breakfast.
+= 他年事已高，早饭前还要走四英里。
 of advanced age = 高龄的
 词族：
 advance = 前进、进步
@@ -332,18 +332,18 @@ advantage = 优势
 advent
 核心：指某个重要事物的"出现、到来"，正式。固定用 the advent of。
 大写 Advent 特指基督教的"降临节"。
-① The advent of the internet changed everything.
-= 互联网的出现改变了一切。
+① The advent of the internet changed everything except the postal service.
+= 互联网的出现改变了一切，只有邮政没变。
 the advent of = …的到来
-② With the advent of AI, jobs shifted.
-= 随着人工智能的出现，就业变了。
-③ Advent begins four Sundays before Christmas.
-= 降临节从圣诞前第四个周日开始。
+② With the advent of new machinery, jobs shifted from the floor to the office.
+= 随着新机器的出现，岗位从车间挪到了办公室。
+③ Advent begins four Sundays before Christmas and nobody counts backwards right.
+= 降临节从圣诞前第四个周日开始，谁都倒数不对。
 Advent calendar = 降临节日历
 注意：advent 几乎只用
 the advent of 这个结构。
-④ The result was purely adventitious.
-= 那个结果纯属偶然。
+④ The result was purely adventitious and the paper says so in a footnote.
+= 那个结果纯属偶然，论文在脚注里也这么说。
 adventitious = 偶然的、外来的（正式）
 
 adventure
