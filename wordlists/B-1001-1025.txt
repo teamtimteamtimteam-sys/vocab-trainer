@@ -2,13 +2,13 @@ analphabetic
 核心：正式形容词，指"不识字的"——前缀 an 表示"无"，后面接的是
 "字母"。也可作名词指文盲。日常说 illiterate，这个词多见于
 教育统计和语言学文献。
-① The survey counted analphabetic adults.
-= 那项调查统计了不识字的成年人。
+① The survey counted analphabetic adults in each district and found the figure had halved.
+= 那项调查统计了各区不识字的成年人，发现这个数字减半了。
 analphabetic adults = 不识字的成年人
-② Analphabetic populations shrank sharply.
-= 文盲人口大幅减少。
-③ He remained analphabetic into his thirties.
-= 他到三十多岁还不识字。
+② Analphabetic populations shrank sharply once schooling was made compulsory.
+= 义务教育实行之后，文盲人口大幅减少。
+③ He remained analphabetic into his thirties and learned to read from his own children's books.
+= 他到三十多岁还不识字，后来靠自己孩子的书学会了阅读。
 注意语域：
 正式书面语，日常说 illiterate。
 近义对照：
@@ -59,13 +59,13 @@ componential analysis = 义素分析（语义学方法）
 analyst
 核心：指从事分析工作的专业人士，前面常加领域限定：
 financial / political / data analyst。
-① She is a financial analyst.
-= 她是财务分析师。
+① She is a financial analyst and spends most of her day reading footnotes nobody else opens.
+= 她是财务分析师，一天大半时间在读别人都不会翻开的脚注。
 financial analyst = 金融分析师
-② Analysts predict growth.
-= 分析师预测会有增长。
-③ He works as a data analyst.
-= 他做数据分析师。
+② Analysts predict growth of two per cent, having predicted four per cent in the spring.
+= 分析师预测增长百分之二，而他们春天时预测的是百分之四。
+③ He works as a data analyst and says half the job is arguing about what a column means.
+= 他做数据分析师，说这活儿有一半是在争论某一列到底是什么意思。
 data analyst = 数据分析师
 词族：
 analyse = 分析
@@ -103,14 +103,14 @@ analytically = 分析性地、条分缕析地
 anapaest
 核心：诗律术语，指"抑抑扬格"——一个音步里两个轻音节后跟一个
 重音节，读起来像小跑的节奏。形容词是 anapaestic。美式拼 anapest。
-① The line falls into anapaests.
-= 那一行落成了抑抑扬格。
+① The line falls into anapaests, and by the third foot the rhythm is running away with the sense.
+= 那一行落成了抑抑扬格，到第三个音步节奏就把意思带跑了。
 fall into anapaests = 呈抑抑扬格
-② Anapaestic metre suits comic verse.
-= 抑抑扬格的格律适合诙谐诗。
+② Anapaestic metre suits comic verse, which is why limericks nearly all use it.
+= 抑抑扬格的格律适合诙谐诗，所以打油诗几乎都用它。
 anapaestic = 抑抑扬格的
-③ Three anapaests make the line gallop.
-= 三个抑抑扬音步让诗行跑起来。
+③ Three anapaests make the line gallop, and a fourth would tip it into doggerel.
+= 三个抑抑扬音步让诗行跑起来，再加一个就成了顺口溜。
 注意拼写：
 anapaest = 抑抑扬格（英式）
 anapest = 抑抑扬格（美式）
@@ -157,13 +157,13 @@ anaphylactic shock = 过敏性休克
 anarchic
 核心：指"无政府状态的、混乱无序的"，也可指风格
 "不守规矩、天马行空的"，后者可以是褒义。
-① The situation became anarchic.
-= 局面变得一片混乱。
-② His humour is anarchic.
-= 他的幽默不按套路来。
+① The situation became anarchic within days, and the market set its own prices by the weekend.
+= 局面几天之内就变得一片混乱，到周末市场自己定起了价。
+② His humour is anarchic and the show has never once ended the way it was scheduled to.
+= 他的幽默不按套路来，那档节目从没按计划的方式收过场。
 anarchic humour = 无厘头式幽默
-③ It was an anarchic period.
-= 那是个失序的年代。
+③ It was an anarchic period in which three governments fell in eighteen months.
+= 那是个失序的年代，十八个月里倒了三届政府。
 词族：
 anarchy = 无政府状态
 anarchist = 无政府主义者
@@ -243,14 +243,14 @@ pronounce anathema on = 宣布革除…的教籍
 anatomical
 核心：指"解剖学的、与身体结构有关的"。
 常见搭配 anatomical structure / detail / model。
-① It's an anatomical drawing.
-= 那是张解剖图。
+① It's an anatomical drawing made two centuries before anyone was allowed to dissect legally.
+= 那是张解剖图，画于合法解剖获准的两百年之前。
 anatomical drawing = 解剖图
-② The model shows anatomical detail.
-= 那个模型展示解剖细节。
+② The model shows anatomical detail down to the branching of the smaller nerves.
+= 那个模型展示的解剖细节细到小神经的分支。
 anatomical detail = 解剖细节
-③ There are anatomical differences.
-= 存在解剖结构上的差异。
+③ There are anatomical differences between the two species that the fossils make obvious.
+= 那两个物种之间存在解剖结构上的差异，化石让这些差异一目了然。
 副词形式：
 anatomically = 在解剖学上
 词族：
@@ -259,13 +259,13 @@ anatomy = 解剖学
 anatomy
 核心：两层：解剖学这门学科，和某个生物体的"身体结构"。
 比喻义指对某事的"剖析"（the anatomy of a crisis）。
-① She studies anatomy.
-= 她学解剖学。
-② Human anatomy is complex.
-= 人体结构很复杂。
+① She studies anatomy and can name every bone in the hand without looking down at it.
+= 她学解剖学，不用低头看就能叫出手上每一块骨头的名字。
+② Human anatomy is complex enough that surgeons keep learning it for thirty years.
+= 人体结构复杂到外科医生要学上三十年。
 human anatomy = 人体解剖结构
-③ It's the anatomy of a failure.
-= 那是对一次失败的剖析。
+③ It's the anatomy of a failure, traced week by week from the first ignored warning.
+= 那是对一次失败的剖析，从第一次被忽视的警告起逐周追溯。
 the anatomy of = 对…的剖析
 词族：
 anatomical = 解剖学的
@@ -305,14 +305,14 @@ ancestor worship = 祖先崇拜
 ancestral
 核心：指"祖先的、祖传的"。常见搭配 ancestral home
 （祖屋）、ancestral land。
-① They visited their ancestral home.
-= 他们回了祖屋。
+① They visited their ancestral home and found a supermarket standing where it had been.
+= 他们回祖屋看了看，发现原址上立着一家超市。
 ancestral home = 祖宅
-② It's ancestral land.
-= 那是祖传的土地。
+② It's ancestral land, farmed by the same family since before the county had a name.
+= 那是祖传的土地，早在这个郡有名字之前就由同一家人耕种。
 ancestral land = 祖传土地
-③ He traced his ancestral roots.
-= 他追溯了自己的家族根源。
+③ He traced his ancestral roots to a single village and went to stand in its churchyard.
+= 他把家族渊源追到一个村子，专程去那座教堂墓地站了站。
 ancestral roots = 家族渊源
 词族：
 ancestor = 祖先
@@ -321,14 +321,14 @@ ancestry = 血统
 ancestry
 核心：指一个人的"血统、家世"，是集合概念，不可数为主。
 和 ancestor（具体的某位祖先）区分：ancestry 说的是整条血脉。
-① He is of Irish ancestry.
-= 他有爱尔兰血统。
+① He is of Irish ancestry on both sides and has never set foot in the country.
+= 他父母两边都是爱尔兰血统，而他从没踏上过那片土地。
 be of … ancestry = 有…血统
-② She traced her ancestry.
-= 她追溯了自己的家世。
+② She traced her ancestry through parish registers back to the seventeenth century.
+= 她靠教区登记簿把自己的家世追溯到了十七世纪。
 trace one's ancestry = 追溯血统
-③ They have mixed ancestry.
-= 他们是混血。
+③ They have mixed ancestry, and the test told them nothing the family had not already said.
+= 他们是混血，那份检测没告诉他们任何家里没说过的事。
 mixed ancestry = 混合血统
 注意区别：
 ancestor 祖先（具体某人，可数）
@@ -366,26 +366,26 @@ anchoress = 女隐修士
 anchorage
 核心：两条线：船只可以下锚的"锚地"，
 和抽象的"依托、支撑点"。
-① The bay provides good anchorage.
-= 那个海湾是良好的锚地。
+① The lee of the island provides good anchorage in everything but a north-easterly.
+= 岛的背风面除了东北风，在任何风向下都是良好的锚地。
 provide anchorage = 提供锚泊地
-② The ship lay at anchorage.
-= 那艘船停在锚地。
+② Six ships lay at anchorage outside the harbour, spaced far enough apart to swing with the tide.
+= 六艘船停在港外的锚地上，彼此隔得够开，好随潮水转向。
 at anchorage = 停泊中
-③ Faith gave him an anchorage.
-= 信仰给了他一个依托。
+③ Faith gave him an anchorage through a decade when nothing else held.
+= 在什么都靠不住的十年里，信仰给了他一个依托。
 词族：
 anchor = 锚；固定
 
 anchovy
 核心：指凤尾鱼，小型咸味海鱼，常做成罐头或披萨配料。
 味道极咸，是很多人不喜欢的披萨配料。
-① The pizza has anchovies.
-= 那个披萨放了凤尾鱼。
-② Anchovies are very salty.
-= 凤尾鱼很咸。
-③ She dislikes anchovy paste.
-= 她不喜欢凤尾鱼酱。
+① The pizza has anchovies on half of it, which is how the argument was settled.
+= 那个披萨有一半放了凤尾鱼，争论就是这么解决的。
+② Anchovies are very salty, so rinse them before they go anywhere near a sauce.
+= 凤尾鱼很咸，下酱汁之前先冲一冲。
+③ She dislikes anchovy paste but eats it happily when it is stirred into a stew.
+= 她不喜欢凤尾鱼酱，可它化在炖菜里她就吃得很香。
 anchovy paste = 凤尾鱼酱
 注意复数：
 anchovy → anchovies
@@ -421,14 +421,14 @@ anciently = 古时候（正式）
 ancillary
 核心：正式用语，指"辅助性的、附属的"，
 不是主要的那部分。介词用 to。
-① They provide ancillary services.
-= 他们提供辅助服务。
+① They provide ancillary services such as laundry and transport that the contract barely mentions.
+= 他们提供洗衣、运输一类的辅助服务，合同里几乎没提。
 ancillary services = 配套服务
-② It's ancillary to the main aim.
-= 那是主目标之外的附带部分。
+② It's ancillary to the main aim and will be dropped the moment the budget tightens.
+= 那是主目标之外的附带部分，预算一紧就会被砍掉。
 ancillary to = 附属于
-③ Ancillary staff were hired.
-= 雇了些辅助人员。
+③ Ancillary staff were hired first and let go first, as they always are.
+= 辅助人员最先被雇，也最先被辞退，向来如此。
 ancillary staff = 辅助人员
 近义对照：
 ancillary = 辅助的（正式）
@@ -470,13 +470,13 @@ and/or
 核心：法律与技术文书里的写法，意思是"两者之一，或两者皆可"——
 写成 A and/or B，表示只有 A、只有 B、A 加 B 三种情况都算数。
 它存在的理由就是堵住只写 and 或只写 or 会漏掉一种情况的口子。
-① Bring a passport and/or a driving licence.
-= 带护照或驾照，两样都带也行。
+① Bring a passport and/or a driving licence; either will do and both is better.
+= 带护照或驾照，任一都行，两样都带更好。
 and/or = 二者之一或二者皆可
-② A fine and/or imprisonment may apply.
-= 可处罚金或监禁，或两者并处。
-③ Parents and/or guardians must sign.
-= 家长或监护人须签字，两者同签亦可。
+② A fine and/or imprisonment may apply, and the judge decides which after hearing mitigation.
+= 可处罚金或监禁，或两者并处，听取减刑陈述后由法官决定。
+③ Parents and/or guardians must sign, so a form with one signature is not rejected.
+= 家长或监护人须签字，因此只有一个签名的表格不会被退回。
 注意语域：
 法律、合同与技术文档用语，一般行文里少用。
 注意用法：

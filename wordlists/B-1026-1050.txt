@@ -23,13 +23,13 @@ Anderson shelter
 核心：二战期间英国家庭用的简易防空洞——半埋在后院地下，
 上面拱着波纹钢板再覆土，能挡住炸弹的冲击与破片，但挡不住直击。
 以当时负责民防的大臣安德森命名，政府免费发给低收入家庭。
-① They sheltered in the Anderson shelter.
-= 他们躲进了后院防空洞。
+① They sheltered in the Anderson shelter for six hours and came out to find the street gone.
+= 他们在后院防空洞里躲了六个钟头，出来时整条街已经没了。
 shelter in = 躲进…避难
-② An Anderson shelter was buried in the garden.
-= 那种防空洞是埋在园子里的。
-③ Anderson shelters were issued free to the poor.
-= 那种防空洞免费发给穷人家。
+② An Anderson shelter was buried in the garden with a foot of earth heaped over the roof.
+= 那种防空洞埋在园子里，顶上堆着一英尺厚的土。
+③ Anderson shelters were issued free to the poor and sold to everyone else for seven pounds.
+= 那种防空洞免费发给穷人家，其余人要花七英镑买。
 be issued free = 免费发放
 注意语域：
 英国二战史用语，以人名命名故大写。
@@ -37,27 +37,27 @@ be issued free = 免费发放
 Andorran
 核心：指"安道尔的、安道尔人"。安道尔是夹在法国和西班牙之间的
 比利牛斯山小国，官方语言是加泰罗尼亚语。
-① She is Andorran by birth.
-= 她生来就是安道尔人。
-② Andorran ski resorts draw French visitors.
-= 安道尔的滑雪场吸引法国游客。
+① She is Andorran by birth and holds a passport that puzzles most border officials.
+= 她生来就是安道尔人，那本护照让多数边检人员摸不着头脑。
+② Andorran ski resorts draw French visitors who cross the border for the afternoon.
+= 安道尔的滑雪场吸引法国游客，他们过个境待一下午。
 Andorran ski resort = 安道尔滑雪场
-③ The Andorran economy runs on tourism.
-= 安道尔经济靠旅游。
+③ The Andorran economy runs on tourism and on shops selling what is taxed heavily elsewhere.
+= 安道尔经济靠旅游，也靠那些卖别处重税商品的店铺。
 注意用法：
 指国族时首字母大写。
 
 androgen
 核心：指"雄激素"——睾酮那一类促成男性特征的激素。男女体内都有，
 只是量差得多。它管的是肌肉量、体毛、变声和皮脂分泌。
-① Androgens drive muscle growth.
-= 雄激素促进肌肉生长。
+① Androgens drive muscle growth, which is why they are banned in almost every sport.
+= 雄激素促进肌肉生长，所以几乎所有运动项目都禁用它。
 drive muscle growth = 促进肌肉生长
-② The therapy blocks androgen receptors.
-= 那种疗法阻断雄激素受体。
+② The therapy blocks androgen receptors rather than lowering the hormone itself.
+= 那种疗法阻断雄激素受体，而不是降低激素本身。
 androgen receptor = 雄激素受体
-③ Excess androgens can cause acne.
-= 雄激素过多会长痤疮。
+③ Excess androgens can cause acne long after the teenage years are over.
+= 雄激素过多会长痤疮，青春期过去很久了还会长。
 注意语域：
 内分泌学与医学用语。
 对照：
@@ -162,14 +162,14 @@ anaemia = 贫血（英式）
 anemometer
 核心：测风速的仪器，气象站上转个不停的那三只小杯就是。
 词根来自希腊语的"风"，跟 anemone 同源。
-① The anemometer recorded gale-force winds.
-= 风速计记录到了大风。
+① The anemometer recorded gale-force winds an hour before the storm reached the coast.
+= 风暴抵达海岸前一小时，风速计就记录到了大风。
 record wind speed = 记录风速
-② A cup anemometer spins in the breeze.
-= 杯式风速计在微风里转着。
+② A cup anemometer spins in the breeze and counts its own turns to work out the speed.
+= 杯式风速计在微风里转着，靠数自己转了多少圈算出风速。
 cup anemometer = 杯式风速计
-③ Sailors check the anemometer before setting out.
-= 水手出海前会看风速计。
+③ Sailors check the anemometer before setting out, and again before deciding to come back.
+= 水手出海前会看风速计，决定返航前再看一次。
 注意语域：
 气象与航海仪器名称。
 
@@ -200,13 +200,13 @@ aneroid
 核心：形容词，字面是"不用液体的"，专门修饰那种"无液气压计"——
 靠一个抽了气的金属膜盒随气压胀缩来推动指针，不像老式气压计
 那样得灌水银。轻便，登山表和家用晴雨表都用它。
-① An aneroid barometer needs no mercury.
-= 无液气压计不用水银。
+① An aneroid barometer needs no mercury and will survive being carried up a mountain.
+= 无液气压计不用水银，扛上山也不会坏。
 aneroid barometer = 无液气压计
-② The aneroid capsule flexes with pressure.
-= 那个膜盒随气压变形。
-③ Aneroid gauges are used in cockpits.
-= 座舱里用的是无液式仪表。
+② The aneroid capsule flexes with pressure and moves the needle through a train of levers.
+= 那个膜盒随气压变形，通过一组杠杆带动指针。
+③ Aneroid gauges are used in cockpits, where a column of liquid would be useless in a climb.
+= 座舱里用的是无液式仪表，爬升时一柱液体根本没法用。
 注意用法：
 几乎只跟 barometer 或 gauge 搭配。
 注意语域：
@@ -263,13 +263,13 @@ aneurism = 动脉瘤（异拼）
 anew
 核心：正式或文学用语，指"重新、再一次"，
 常和 start、begin 连用。日常说 again。
-① They began anew.
-= 他们重新开始。
+① They began anew in a town where nobody had heard either version of the story.
+= 他们在一个没人听过任何一种说法的镇子上重新开始。
 begin anew = 从头开始
-② She started life anew.
-= 她重启了人生。
-③ The debate flared anew.
-= 那场争论又燃了起来。
+② She started life anew at fifty-two, with a new trade and a smaller house.
+= 五十二岁时她重启了人生，换了行当，搬进小些的房子。
+③ The debate flared anew the week the documents were released.
+= 文件公开那一周，那场争论又燃了起来。
 flare anew = 再度爆发
 近义对照：
 anew = 重新（文学）
@@ -329,13 +329,13 @@ angelic = 天使般的
 angelic
 核心：两条线：宗教上的"天使的"，
 和形容人"天使般纯真美好的"。后者常用来夸孩子。
-① She has an angelic face.
-= 她有张天使般的脸。
+① She has an angelic face and a vocabulary that empties the room.
+= 她有张天使般的脸，说起话来能把屋里的人吓走。
 angelic face = 天使般的面容
-② The choir sounded angelic.
-= 那个唱诗班唱得如天籁。
-③ He looks angelic but isn't.
-= 他看着像天使，其实不然。
+② The choir sounded angelic from the back of the church and rather less so up close.
+= 在教堂后排听，那个唱诗班唱得如天籁，走近了就没那么回事。
+③ He looks angelic but isn't, as anyone who has minded him for an afternoon will tell you.
+= 他看着像天使，其实不然，谁看过他一下午都会这么告诉你。
 词族：
 angel = 天使
 副词形式：
