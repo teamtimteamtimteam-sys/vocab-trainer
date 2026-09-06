@@ -13847,13 +13847,13 @@ album = 相册、唱片（毫不相干）
 alchemy
 核心：中世纪试图把贱金属变成黄金的"炼金术"，是化学的前身。
 比喻义指"奇妙的转化、点石成金的本事"。
-① Alchemy preceded chemistry.
-= 炼金术是化学的前身。
-② There's a kind of alchemy in her writing.
-= 她的文字里有种点石成金的魔力。
+① Medieval alchemy never turned lead into gold, but its experiments laid the groundwork for modern chemistry.
+= 中世纪的炼金术从没把铅变成金子，它的实验却为现代化学打下了基础。
+② There is a kind of alchemy in her prose that turns ordinary details into something luminous.
+= 她的散文有种点石成金的魔力，能把寻常细节变得熠熠生辉。
 a kind of alchemy = 某种神奇转化
-③ Alchemists sought the philosopher's stone.
-= 炼金术士寻找贤者之石。
+③ For centuries alchemists sought the philosopher's stone, convinced it would cure disease as well as make gold.
+= 几百年来炼金术士都在寻找贤者之石，深信它既能治病又能造金。
 alchemist = 炼金术士
 注意发音：/ˈælkəmi/，ch 读 /k/。
 近义对照：
@@ -13892,14 +13892,14 @@ alcoholism = 酒精依赖症
 alcoholic
 核心：两条线：形容词"含酒精的"，和名词"酗酒者"。
 两个意思分量差很多，说人 an alcoholic 是很重的话。
-① It's an alcoholic drink.
-= 那是含酒精的饮料。
+① Guests under eighteen were served juice instead of alcoholic drinks at the wedding reception.
+= 婚宴上未满十八岁的客人喝的是果汁，不上酒精饮料。
 alcoholic drink = 酒精饮料
-② He is a recovering alcoholic.
-= 他是个正在戒酒的酗酒者。
+② He introduced himself at the meeting as a recovering alcoholic, ten years sober this spring.
+= 他在互助会上自我介绍说自己是个正在戒酒的酗酒者，今年春天就戒满十年了。
 recovering alcoholic = 康复中的酗酒者
-③ She avoids alcoholic beverages.
-= 她不喝酒精饮料。
+③ During pregnancy she avoided alcoholic beverages altogether, even the cooking wine.
+= 怀孕期间她完全不碰酒精饮料，连料酒都不沾。
 反义词：
 non-alcoholic = 不含酒精的
 词族：
@@ -13909,13 +13909,13 @@ alcoholism = 酗酒症
 alcoholism
 核心：指酒精依赖这种疾病，医学用语，不可数。
 和"喝多了"不是一回事，指的是成瘾性疾病。
-① He is being treated for alcoholism.
-= 他在接受酗酒治疗。
+① After his second arrest for drunk driving, he was finally being treated for alcoholism at a residential clinic.
+= 第二次因酒驾被捕之后，他终于在一家住院诊所接受酗酒治疗。
 treated for alcoholism = 因酗酒接受治疗
-② Alcoholism runs in families.
-= 酗酒有家族倾向。
-③ Alcoholism damages the liver.
-= 酗酒损害肝脏。
+② Alcoholism runs in families, so the doctor asked whether either of his parents had drunk heavily.
+= 酗酒有家族倾向，所以医生问他父母是否有人酗酒。
+③ Years of untreated alcoholism had damaged his liver beyond repair.
+= 多年未经治疗的酗酒已经把他的肝脏损害得无法修复。
 词族：
 alcoholic = 酗酒者
 alcohol = 酒精
@@ -13925,12 +13925,12 @@ alcohol = 酒精
 alcopop
 核心：英式用词，指"预调酒"——加了果味和糖、喝起来像汽水的瓶装
 低度酒。因为容易让年轻人喝多，一直有争议。可数。
-① Alcopops are popular with teenagers.
-= 预调酒在青少年里很受欢迎。
-② She ordered an alcopop.
-= 她点了一瓶预调酒。
-③ Taxes on alcopops were raised.
-= 预调酒的税提高了。
+① Sweet, brightly coloured alcopops are popular with teenagers precisely because they don't taste like alcohol.
+= 又甜又鲜艳的预调酒在青少年里受欢迎，正因为喝起来不像酒。
+② Too young for a proper drink, she ordered an alcopop and nursed it all evening.
+= 她还不到喝正经酒的年纪，点了一瓶预调酒抿了一整晚。
+③ The government raised the tax on alcopops to discourage underage drinking.
+= 政府提高了预调酒的税，以遏制未成年人饮酒。
 tax on alcopops = 预调酒税
 注意地域：
 英式用词，带负面色彩。
@@ -13942,12 +13942,12 @@ soft drink = 软饮（不含酒精）
 alcove
 核心：指墙上凹进去的一块"壁龛、凹室"，可以放床、书架或雕像。
 建筑和室内设计用语。
-① A bed fits in the alcove.
-= 那个凹室正好放张床。
-② The statue stands in an alcove.
-= 那尊雕像立在壁龛里。
-③ They built shelves into the alcove.
-= 他们在凹室里做了架子。
+① A single bed fits neatly in the alcove, leaving the rest of the tiny room free.
+= 一张单人床正好塞进凹室，小房间的其余空间就腾出来了。
+② A marble statue of the founder stands in an alcove halfway up the grand staircase.
+= 创始人的大理石雕像立在大楼梯半途的一处壁龛里。
+③ They built floor-to-ceiling shelves into the alcove beside the fireplace.
+= 他们在壁炉旁的凹室里做了顶天立地的书架。
 注意发音：/ˈælkəʊv/
 近义对照：
 alcove = 墙上凹室（较大）
@@ -13957,13 +13957,13 @@ recess = 凹进处（通用）
 alder
 核心：一种落叶树，多长在河边和湿地，根能固氮改良土壤，木头泡在
 水里不易腐烂，从前打木桩用它。可数。
-① Alders line the riverbank.
-= 河岸上长着一排桤木。
-② The alder thrives in wet ground.
-= 桤木在湿地里长得好。
+① Alders line the riverbank, their roots holding the soil together against the spring floods.
+= 河岸上长着一排桤木，树根把泥土固定住，抵御春汛。
+② Unlike most trees, the alder thrives in wet ground where its roots are half drowned.
+= 跟大多数树不同，桤木在根泡在水里的湿地反倒长得好。
 thrive in = 在…长得好
-③ Venice was built on alder piles.
-= 威尼斯是建在桤木桩上的。
+③ Much of Venice still rests on alder piles driven into the mud centuries ago.
+= 威尼斯的大半城区至今仍立在几百年前打进淤泥里的桤木桩上。
 alder pile = 桤木桩
 注意语域：
 树木名称，林业与园艺常用。
@@ -13976,13 +13976,13 @@ alderman
 核心：市议会里的"资深议员、参事"。英国的这个职位一九七四年后
 基本废除，只在伦敦金融城还保留；美国不少城市至今仍在用。
 复数是 aldermen，女性说 alderwoman。
-① He served as an alderman for ten years.
-= 他当了十年市参事。
+① He served as an alderman for ten years before running for mayor.
+= 他当了十年市参事，然后才竞选市长。
 serve as an alderman = 担任市参事
-② The aldermen voted on the budget.
-= 参事们就预算投了票。
-③ Chicago still elects aldermen.
-= 芝加哥至今仍选举市议员。
+② The aldermen voted on the budget late into the night, with the mayor breaking the tie.
+= 参事们就预算投票投到深夜，最后由市长投出决定票。
+③ Chicago still elects aldermen, one for each of its fifty wards.
+= 芝加哥至今仍选举市议员，五十个选区各选一名。
 注意地域：
 美式仍在用，英式基本已废。
 近义对照：
@@ -13993,14 +13993,14 @@ mayor = 市长
 ale
 核心：一类啤酒，用上层发酵法酿造，比 lager 味浓色深。
 不可数为主，点酒时可数。
-① He ordered a pint of ale.
-= 他要了一品脱麦芽啤酒。
+① He ordered a pint of ale and a packet of crisps and settled by the fire.
+= 他要了一品脱麦芽啤酒和一包薯片，在炉火旁坐下。
 a pint of ale = 一品脱艾尔
-② Real ale is popular in Britain.
-= 传统艾尔在英国很受欢迎。
+② Real ale, served warm from the cask, is popular in Britain but puzzles many visitors.
+= 传统艾尔从酒桶直接常温倒出，在英国很受欢迎，却让不少游客摸不着头脑。
 real ale = 传统手工艾尔
-③ The pub brews its own ale.
-= 那家酒馆自酿啤酒。
+③ The pub brews its own ale in the back room and sells nothing else on tap.
+= 那家酒馆在后屋自酿啤酒，扎啤只卖这一种。
 啤酒分类：
 ale = 艾尔（上层发酵，味浓）
 lager = 拉格（下层发酵，清爽）
@@ -14010,14 +14010,14 @@ aleatory
 核心：正式形容词，指"取决于偶然的"。音乐和艺术里指作品有意留出
 随机成分，由演奏者临场决定；法律和保险里指合同的履行取决于
 不确定事件。
-① The piece uses aleatory techniques.
-= 那首曲子用了偶然音乐的手法。
+① The piece uses aleatory techniques, leaving the order of the movements to a roll of the dice.
+= 那首曲子用了偶然音乐的手法，各乐章的顺序由掷骰子决定。
 aleatory technique = 偶然手法
-② Insurance is an aleatory contract.
-= 保险属于射幸合同。
+② Insurance is an aleatory contract, since the insurer's payout depends on an event that may never happen.
+= 保险属于射幸合同，因为保险公司赔不赔取决于一个也许永远不会发生的事件。
 aleatory contract = 射幸合同（法律）
-③ Aleatory art embraces chance.
-= 偶然艺术拥抱随机。
+③ Aleatory art embraces chance, letting spilled paint decide what the canvas becomes.
+= 偶然艺术拥抱随机，让泼洒的颜料决定画布的模样。
 注意语域：
 音乐、艺术与法律术语。
 近义对照：
@@ -14043,13 +14043,13 @@ smart-alec = 自作聪明的（作定语）
 alehouse
 核心：旧时英国的"麦酒馆"——只卖麦酒、不卖烈酒的小酒馆，
 今天说 pub。这个词现在多用于历史语境，或是酒吧刻意取的怀旧店名。
-① They drank at the village alehouse.
-= 他们在村里的麦酒馆喝酒。
+① On market days the farmers drank at the village alehouse until the landlord threw them out.
+= 逢集市的日子，农夫们在村里的麦酒馆一直喝到店主把他们轰出去。
 village alehouse = 村里的麦酒馆
-② Alehouses were licensed by magistrates.
-= 麦酒馆由治安法官发牌照。
-③ The new bar calls itself an alehouse.
-= 那家新酒吧管自己叫麦酒馆。
+② In Tudor times alehouses were licensed by magistrates, who could shut down any that bred disorder.
+= 都铎时期麦酒馆由治安法官发牌照，哪家闹事就可以被关掉。
+③ The new craft-beer bar calls itself an alehouse, complete with sawdust on the floor.
+= 那家新开的精酿酒吧管自己叫麦酒馆，地上还撒了锯末。
 注意语域：
 历史用词，或作怀旧店名。
 近义对照：
@@ -14084,14 +14084,14 @@ alertly = 机警地、警觉地
 alertness
 核心：指"警觉、清醒"的状态，不可数。
 可以指注意力集中，也可以指对危险的敏感。
-① Coffee improves alertness.
-= 咖啡能提高警觉度。
+① A single cup of coffee improves alertness for a couple of hours, but the effect wears off.
+= 一杯咖啡能提高两三个小时的警觉度，之后作用就消退了。
 improve alertness = 提升清醒程度
-② Mental alertness declines with fatigue.
-= 疲劳会降低思维敏锐度。
+② Mental alertness declines sharply with fatigue, which is why long-haul pilots take scheduled rests.
+= 疲劳会让思维敏锐度明显下降，所以长途飞行员要按时休息。
 mental alertness = 思维清醒度
-③ Guards maintained alertness.
-= 警卫保持着警戒。
+③ The guards maintained alertness through the night despite the bitter cold.
+= 尽管天寒地冻，警卫们整夜保持着警戒。
 maintain alertness = 保持警觉
 词族：
 alert = 警觉的；警报
@@ -14116,14 +14116,14 @@ retrain posture = 重塑体态
 alexandrine
 核心：诗律术语，指"亚历山大体"——一行十二个音节的诗行，
 是法国古典诗歌的标准格律，英语诗里偶尔用来收束一节。
-① The poem is written in alexandrines.
-= 那首诗用的是亚历山大体。
+① The tragedy is written in alexandrines, and every line falls neatly into two halves of six syllables.
+= 那部悲剧用亚历山大体写成，每行都整整齐齐分成两个六音节的半句。
 written in alexandrines = 用亚历山大体写成
-② An alexandrine has twelve syllables.
-= 亚历山大体一行十二个音节。
+② An alexandrine has twelve syllables, two more than the pentameter English readers are used to.
+= 亚历山大体一行十二个音节，比英语读者习惯的五音步多两个。
 twelve syllables = 十二个音节
-③ Racine wrote entirely in alexandrines.
-= 拉辛通篇用亚历山大体。
+③ Racine wrote his tragedies entirely in alexandrines, as French classical convention demanded.
+= 拉辛的悲剧通篇用亚历山大体，这是法国古典戏剧的规矩。
 注意语域：
 诗律与文学研究术语。
 格律对照：
@@ -14133,13 +14133,13 @@ pentameter = 五音步（英语诗主流）
 alexia
 核心：神经科名词，指"失读症"——脑损伤之后认不出字、读不懂文字，
 但眼睛没毛病，说话和写字的能力可能还在。也叫 word blindness。
-① The stroke caused alexia.
-= 中风导致了失读症。
+① The stroke caused alexia: he could still speak fluently but could no longer read a menu.
+= 中风导致了失读症：他说话仍然流利，却再也读不懂菜单。
 cause alexia = 导致失读症
-② Alexia without agraphia is a known syndrome.
-= 失读不伴失写是个已知的综合征。
-③ He has alexia but writes normally.
-= 他读不懂字，写字却正常。
+② Alexia without agraphia is a well-known syndrome in which patients can write sentences they cannot read back.
+= 失读不伴失写是个有名的综合征，患者写得出句子，却读不回来。
+③ He has alexia after the injury, yet writes long letters to his family without difficulty.
+= 受伤之后他患了失读症，可给家人写长信毫无困难。
 注意语域：
 神经病学术语。
 近义对照：
@@ -14150,14 +14150,14 @@ agraphia = 失写症（写不出）
 alfalfa
 核心：一种多年生豆科牧草，根扎得极深，耐旱、蛋白质高，是喂牛马的
 主力饲草。芽苗也当蔬菜吃。英式也叫 lucerne。不可数。
-① The farm grows alfalfa for cattle.
-= 那家农场种苜蓿喂牛。
+① The farm grows alfalfa for its dairy cattle and cuts it four times a summer.
+= 那家农场种苜蓿喂奶牛，一个夏天割四茬。
 grow alfalfa = 种苜蓿
-② Alfalfa fixes nitrogen in the soil.
-= 苜蓿能给土壤固氮。
+② Alfalfa fixes nitrogen in the soil, so farmers plant it before a crop that needs rich ground.
+= 苜蓿能给土壤固氮，所以农民在种需肥的作物之前先种它。
 fix nitrogen = 固氮
-③ She added alfalfa sprouts to the salad.
-= 她往沙拉里加了苜蓿芽。
+③ She added a handful of alfalfa sprouts to the salad for crunch.
+= 她往沙拉里加了一把苜蓿芽增加口感。
 alfalfa sprouts = 苜蓿芽
 注意地域：
 美式说 alfalfa，英式也叫 lucerne。
@@ -14186,12 +14186,12 @@ algal bloom = 藻华、水华
 algebra
 核心：数学分支，代数。不可数。词源来自阿拉伯语，形容词是
 algebraic。注意重音在第一音节。
-① She studies algebra.
-= 她学代数。
-② Algebra uses letters for numbers.
-= 代数用字母代表数字。
-③ It's a simple algebraic equation.
-= 那是个简单的代数方程。
+① She studies algebra in the evenings to prepare for the engineering entrance exam.
+= 她晚上学代数，准备工程专业的入学考试。
+② Algebra uses letters for numbers so that a single rule can cover every case at once.
+= 代数用字母代表数字，一条规则就能同时涵盖所有情况。
+③ The physics teacher boiled the whole problem down to a single algebraic equation on the board.
+= 物理老师把整道题归结成黑板上的一个代数方程。
 algebraic equation = 代数方程
 数学分科：
 algebra 代数 / geometry 几何
@@ -14202,14 +14202,14 @@ statistics 统计学
 algebraic
 核心：指"代数的"，数学术语。
 常见搭配 algebraic equation / expression / formula。
-① Solve the algebraic equation.
-= 解那个代数方程。
+① Solve the algebraic equation for the unknown first, then check your answer by substituting it back.
+= 先解代数方程求出未知数，再把答案代回去检验。
 algebraic equation = 代数方程
-② It's an algebraic expression.
-= 那是个代数式。
+② Any algebraic expression with a square root in the denominator should be rationalised before you simplify it.
+= 分母带根号的代数式，化简之前应该先有理化。
 algebraic expression = 代数表达式
-③ He uses algebraic notation.
-= 他用代数记号。
+③ Chess players record their games in algebraic notation, naming each square by file and rank.
+= 棋手用代数记谱法记录对局，每个格子按列和行命名。
 algebraic notation = 代数记法
 词族：
 algebra = 代数
@@ -14221,13 +14221,13 @@ Algerian
 核心：既指"阿尔及利亚的、阿尔及利亚人"，也用于该国的事物。
 阿尔及利亚是非洲面积最大的国家，官方语言是阿拉伯语和柏柏尔语，
 法语在教育和商业里仍通行。
-① She is Algerian.
-= 她是阿尔及利亚人。
-② Algerian coffee is strong and sweet.
-= 阿尔及利亚咖啡又浓又甜。
+① Her father is Algerian and her mother French, so she grew up speaking both Arabic and French.
+= 她父亲是阿尔及利亚人，母亲是法国人，她从小阿拉伯语和法语都说。
+② Algerian coffee, brewed strong and sweet, is served in tiny cups after the meal.
+= 阿尔及利亚咖啡煮得又浓又甜，饭后用小杯子端上来。
 Algerian coffee = 阿尔及利亚咖啡
-③ The Algerian war lasted eight years.
-= 阿尔及利亚战争打了八年。
+③ The Algerian war of independence lasted eight years and ended French rule in 1962.
+= 阿尔及利亚独立战争打了八年，一九六二年结束了法国的统治。
 the Algerian war = 阿尔及利亚战争
 注意用法：
 指国族时首字母大写。
@@ -14235,13 +14235,13 @@ the Algerian war = 阿尔及利亚战争
 algicide
 核心：指"杀藻剂"——用来杀灭或抑制藻类的化学制剂，泳池、水族箱和
 水库都用。可数。
-① They dosed the pool with algicide.
-= 他们往泳池里投了杀藻剂。
+① Every spring they dose the pool with algicide before the water turns green.
+= 每年春天池水还没变绿，他们就先往泳池里投杀藻剂。
 dose with algicide = 投放杀藻剂
-② Algicides can harm fish.
-= 杀藻剂可能伤到鱼。
-③ The reservoir needs an algicide.
-= 那座水库需要用杀藻剂。
+② Algicides can harm fish, so read the label before treating a pond with them.
+= 杀藻剂可能伤到鱼，给池塘投药之前先看标签。
+③ The reservoir needs an algicide this summer; the bloom has already clogged the intake screens.
+= 今年夏天那座水库得用杀藻剂了，藻华已经堵住了进水滤网。
 注意语域：
 水处理与水产养殖用语。
 同类构词：
@@ -14253,13 +14253,13 @@ Algonquian
 核心：北美最大的一个印第安语族的名称，从加拿大东部一直分布到
 美国中西部，克里语、奥吉布瓦语、夏延语都属于它。英语里的
 moose、toboggan 这些词就是从这一语族借来的。
-① Algonquian languages span half a continent.
-= 阿尔冈昆语族横跨半个大陆。
+① Algonquian languages once spanned half a continent, from the Atlantic coast to the Rocky Mountains.
+= 阿尔冈昆语族曾横跨半个大陆，从大西洋沿岸一直到落基山脉。
 Algonquian languages = 阿尔冈昆诸语言
-② Cree is an Algonquian language.
-= 克里语属于阿尔冈昆语族。
-③ Many place names are Algonquian in origin.
-= 很多地名源自阿尔冈昆语。
+② Cree is an Algonquian language still spoken by tens of thousands of people in Canada.
+= 克里语属于阿尔冈昆语族，在加拿大至今仍有数万人使用。
+③ Many place names in New England are Algonquian in origin, though few residents realise it.
+= 新英格兰的很多地名源自阿尔冈昆语，尽管没几个居民意识到这一点。
 Algonquian in origin = 源自阿尔冈昆语
 注意语域：
 语言学与北美原住民研究用语。
@@ -14270,12 +14270,12 @@ Algonquin = 阿尔冈昆人（具体一个族群）
 algorithm
 核心：指解决问题的一套明确步骤，计算机科学核心词。现在日常也常
 指社交平台的"推荐算法"。注意结尾拼写是 -thm，不是 -thim。
-① The algorithm sorts the data.
-= 那个算法给数据排序。
-② Social media algorithms shape what we see.
-= 社交媒体算法决定我们看到什么。
-③ They improved the search algorithm.
-= 他们改进了搜索算法。
+① The sorting algorithm handles a million records in under a second on an ordinary laptop.
+= 那个排序算法在普通笔记本上不到一秒就能处理一百万条记录。
+② Social media algorithms shape what we see, quietly favouring posts that provoke a reaction.
+= 社交媒体算法决定我们看到什么，悄悄偏向那些能激起反应的帖子。
+③ They improved the search algorithm so that misspelt queries still return useful results.
+= 他们改进了搜索算法，拼错的查询也能返回有用的结果。
 search algorithm = 搜索算法
 词族：
 algorithmic = 算法的
