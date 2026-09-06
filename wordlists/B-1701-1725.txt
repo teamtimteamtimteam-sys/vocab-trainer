@@ -165,14 +165,14 @@ adjust to = 适应（小幅调整）
 atypical
 核心：指"非典型的、不符合常见模式的"。
 构词是 a-（非）+ typical。医学和学术语境高频。
-① The symptoms are atypical.
-= 那些症状不典型。
+① The symptoms are atypical, which is why it took four doctors and a year.
+= 那些症状不典型，所以看了四个医生、花了一年。
 atypical symptoms = 非典型症状
-② It's an atypical case.
-= 那是个非典型病例。
+② It's an atypical case and the textbook chapter was written before it existed.
+= 那是个非典型病例，教科书那一章写在它出现之前。
 atypical case = 非典型个案
-③ His behaviour was atypical.
-= 他的行为不同寻常。
+③ His behaviour was atypical enough that his sister rang the police.
+= 他的行为反常到他姐姐报了警。
 反义词：
 typical = 典型的
 近义对照：
@@ -184,14 +184,14 @@ aberrant = 反常的（学术，含偏离）
 au fait
 核心：法语借来的说法，指"熟悉内情、门儿清"，固定接介词说
 au fait with something。作表语，不放在名词前面。
-① She is au fait with the new rules.
-= 她对新规矩门儿清。
+① She is au fait with the new rules and quotes them at people who wrote them.
+= 她对新规矩门儿清，还拿它们去堵起草者的嘴。
 au fait with = 熟悉、通晓
-② He got au fait with the software fast.
-= 他很快就把那个软件摸熟了。
+② He got au fait with the software fast and became the person everyone asks.
+= 他很快就把那个软件摸熟了，成了大家都来问的那个人。
 get au fait with = 熟悉起来
-③ Are you au fait with the procedure?
-= 那套流程你熟吗？
+③ Are you au fait with the procedure, or shall I go through it again?
+= 那套流程你熟吗，还是我再讲一遍？
 注意用法：
 只作表语，后面必须接介词。
 注意语域：
@@ -201,13 +201,13 @@ au gratin
 核心：烹饪术语，指"焗的"——表面撒上奶酪或面包糠，再烤到金黄
 起壳。放在菜名后面，比如 potatoes au gratin。
 名字里的词就是那层脆壳。
-① They ordered potatoes au gratin.
-= 他们点了焗土豆。
+① They ordered potatoes au gratin and finished the dish before the main course came.
+= 他们点了焗土豆，主菜还没上就吃光了。
 potatoes au gratin = 焗土豆
-② Cauliflower au gratin browns on top.
-= 焗花菜表面会烤成金黄。
-③ Anything can be done au gratin.
-= 什么东西都能拿去焗。
+② Cauliflower au gratin browns on top and stays soft underneath.
+= 焗花菜表面烤成金黄，底下仍是软的。
+③ Anything can be done au gratin if you have enough cheese and a hot grill.
+= 只要奶酪够、上火够旺，什么东西都能拿去焗。
 注意语序：
 放在菜名之后。
 注意语域：
@@ -217,13 +217,13 @@ au jus
 核心：法语借来的餐饮说法，指"配原汁的"——肉烤出来的那点自然肉汁，
 不勾芡不调味，直接浇上或另盛一小碗蘸着吃。美式菜单上最常见，
 尤其配烤牛肉三明治。
-① He ordered the beef au jus.
-= 他点了配原汁的牛肉。
+① He ordered the beef au jus and asked for extra on the side.
+= 他点了配原汁的牛肉，还要了一份另盛的。
 beef au jus = 配肉汁的牛肉
-② The sandwich comes with a dip of au jus.
-= 那个三明治配一小碗原汁。
-③ Au jus means the meat's own juices.
-= 这个说法指的是肉本身的汁。
+② The sandwich comes with a dip of au jus that goes cold in four minutes.
+= 那个三明治配一小碗原汁，四分钟就凉了。
+③ Beef au jus needs nothing thickened, which is exactly why some diners send it back.
+= 配原汁的牛肉不需要任何勾芡，也正因如此有些食客会退回去。
 注意别混：
 au jus = 原汁（不勾芡的天然肉汁）
 gravy = 肉汁酱（加了面粉勾芡）
@@ -234,13 +234,13 @@ au naturel
 核心：法语借词，两层。烹饪上指"原味的"——不加酱汁、不多加工，
 就照食材本来的样子上；日常戏谑着用时指"一丝不挂"。
 后一层用得比前一层还多。
-① The oysters come au naturel.
-= 那些生蚝是原味上的。
+① The oysters come au naturel with half a lemon and nothing else.
+= 那些生蚝是原味上的，只配半个柠檬，别的什么也没有。
 serve au naturel = 原味呈上
-② She prefers vegetables au naturel.
-= 她喜欢蔬菜就那么吃。
-③ He was sunbathing au naturel.
-= 他一丝不挂地在晒太阳。
+② She prefers vegetables au naturel and thinks sauce is something to hide behind.
+= 她喜欢蔬菜就那么吃，觉得酱汁不过是拿来遮丑的。
+③ He was sunbathing au naturel and the postman came round the side of the house.
+= 他一丝不挂地在晒太阳，邮差从房子侧面绕了过来。
 au naturel = 一丝不挂（戏谑）
 注意语序：
 放在名词之后，不放前面。
@@ -250,13 +250,13 @@ au naturel = 一丝不挂（戏谑）
 au pair
 核心：法语借词，指住在寄宿家庭、以照顾孩子和做家务
 换取食宿和零用钱的外国年轻人。多为欧洲做法。
-① They hired an au pair.
-= 他们请了个互惠生。
-② The au pair looks after two children.
-= 那位互惠生照看两个孩子。
+① They hired an au pair who spoke better English than either of them.
+= 他们请了个互惠生，英语比他们两口子都好。
+② The au pair looks after two children and has one afternoon a week to herself.
+= 那位互惠生照看两个孩子，一周有一个下午归自己。
 look after = 照看
-③ She worked as an au pair in France.
-= 她在法国做过互惠生。
+③ She worked as an au pair in France and came home fluent and unemployable.
+= 她在法国做过互惠生，回家时法语流利，却找不到工作。
 注意发音：/ˌəʊ ˈpeə(r)/
 词源：法语，字面意思是「对等地」。
 近义对照：
@@ -268,12 +268,12 @@ au revoir
 核心：法语的"再见"，字面是"等着再见到"。英语里用它多半带一点
 俏皮或做作的味道，或者是在明确的法语场合。日常告别还是说
 goodbye。
-① Au revoir, see you next week.
-= 再见，下周见。
-② She waved and said au revoir.
-= 她挥挥手道了再见。
-③ The note ended with au revoir.
-= 那张字条以一句法语再见收尾。
+① Au revoir, see you next week, he said, and did not come back for years.
+= 「再见，下周见」，他说完，却好几年没再回来。
+② She waved and said au revoir in an accent she had spent money on.
+= 她挥挥手道了再见，那口音是花钱学来的。
+③ The note ended with au revoir rather than anything more final.
+= 那张字条以一句「再会」收尾，没有用更决绝的说法。
 注意语域：
 借词，日常用略显做作，正经告别说 goodbye。
 近义对照：
@@ -283,13 +283,13 @@ adieu = 别了（含永别意味）
 aubade
 核心：诗歌与音乐的一种体裁，指"晨歌"——写黎明时分情人不得不
 分别的那个时刻。跟写夜晚幽会的小夜曲正好一头一尾。
-① The poem is an aubade.
-= 那首诗是一首晨歌。
-② An aubade laments the coming dawn.
-= 晨歌哀叹天要亮了。
+① The poem is an aubade and never once says the word morning.
+= 那首诗是一首晨歌，却一次也没用「早晨」这个词。
+② An aubade laments the coming dawn, which is the one thing nobody can delay.
+= 晨歌哀叹天要亮了，而天亮正是谁也拖不住的那件事。
 lament the dawn = 哀叹天明
-③ He set the aubade for solo voice.
-= 他把那首晨歌配成了独唱。
+③ He set the aubade for solo voice and a single held note underneath.
+= 他把那首晨歌配成独唱，底下衬着一个持续音。
 注意语域：
 诗歌与音乐体裁名称。
 体裁对照：
@@ -300,14 +300,14 @@ aubergine
 核心：英式说法，指"茄子"，也指茄子皮那种深紫色。美式叫 eggplant。
 名字经法语、加泰罗尼亚语、阿拉伯语一路从梵语传来，
 是欧洲语言里传递链最长的食物名之一。
-① Slice the aubergine thinly.
-= 把茄子切成薄片。
+① Slice the aubergine thinly and salt it if you have twenty minutes to spare.
+= 把茄子切成薄片，有二十分钟富余的话就先撒盐。
 slice thinly = 切薄片
-② She wore an aubergine coat.
-= 她穿了件茄紫色大衣。
+② She wore an aubergine coat that read as black in every photograph.
+= 她穿了件茄紫色大衣，每张照片里看着都是黑的。
 aubergine = 茄紫色
-③ Aubergines soak up oil.
-= 茄子很吃油。
+③ Aubergines soak up oil faster than any other vegetable in the pan.
+= 锅里所有蔬菜数茄子最吃油。
 注意地域：
 aubergine = 茄子（英式）
 eggplant = 茄子（美式）
@@ -316,13 +316,13 @@ auburn
 核心：一种红中带棕的发色，介于红发与褐发之间。这个词几乎只用来说头发，
 说别的东西是这个颜色一般不用它。英语的发色各有专用词，不能混着用：
 金发、深褐发、赤褐发、姜黄发都是固定说法，选错了立刻不像母语。
-① She has auburn hair.
-= 她一头赤褐色的头发。
+① She has auburn hair that goes red in sunlight and brown indoors.
+= 她一头赤褐色的头发，阳光下泛红，屋里就是褐的。
 auburn hair = 赤褐色头发
-② The auburn curls fell loose.
-= 那些赤褐色卷发散落下来。
-③ He dyed it auburn.
-= 他染成了赤褐色。
+② The auburn curls fell loose the moment she took the pins out.
+= 她一拔掉发夹，那些赤褐色卷发就散了下来。
+③ He dyed it auburn and the roots gave him away within a fortnight.
+= 他染成了赤褐色，两周之内发根就露了馅。
 注意发音：/ˈɔːbən/
 发色词汇：
 blonde = 金发 / brunette = 深褐发
@@ -362,12 +362,12 @@ put up for auction = 拿去拍卖
 auctioneer
 核心：指主持拍卖的人——喊价、敲槌成交。
 构词是 auction + -eer（从事者）。
-① The auctioneer raised the hammer.
-= 拍卖师举起了槌子。
-② An auctioneer needs a fast tongue.
-= 拍卖师得口齿快。
-③ The auctioneer accepted the bid.
-= 拍卖师接受了那个出价。
+① The auctioneer raised the hammer and waited three seconds longer than usual.
+= 拍卖师举起槌子，比平常多等了三秒。
+② An auctioneer needs a fast tongue and a memory for who is bidding.
+= 拍卖师得口齿快，还得记住谁在出价。
+③ The auctioneer accepted the bid from a man who had not raised his hand.
+= 拍卖师接受了一个没举手的人的出价。
 accept a bid = 接受出价
 构词：-eer 表示从事者
 同类：engineer 工程师、mountaineer 登山者
@@ -376,13 +376,13 @@ volunteer 志愿者、profiteer 牟取暴利者
 audacious
 核心：两条线：褒义的"大胆无畏的"，
 和贬义的"厚颜放肆的"。靠语境判断。
-① It was an audacious plan.
-= 那是个大胆的计划。
+① It was an audacious plan that depended on nobody checking the register.
+= 那是个大胆的计划，全靠没人去查那本登记簿。
 audacious plan = 大胆的方案
-② He made an audacious claim.
-= 他提出了个放肆的主张。
-③ The escape was audacious.
-= 那次越狱堪称大胆。
+② He made an audacious claim about his own part in it and was believed.
+= 他就自己在其中的作用提出了个放肆的说法，居然有人信。
+③ The escape was audacious and took eleven months to prepare.
+= 那次越狱堪称大胆，准备了十一个月。
 副词形式：
 audaciously = 大胆地
 词族：
@@ -396,13 +396,13 @@ impudent = 无礼放肆的（贬）
 audacity
 核心：和形容词一样有两面：褒义的"胆识"，
 和贬义的"厚颜"。后者更常见，搭配 have the audacity to。
-① He had the audacity to ask.
-= 他居然厚着脸皮开口了。
+① He had the audacity to ask for a reference from the man he had sued.
+= 他居然厚着脸皮，向被自己告过的人要推荐信。
 have the audacity to = 竟敢
-② Her audacity paid off.
-= 她的胆识有了回报。
-③ The audacity of the plan impressed us.
-= 那个计划的胆魄让我们佩服。
+② Her audacity paid off in a field where caution had achieved nothing.
+= 在一个谨慎毫无建树的领域里，她的胆识有了回报。
+③ It takes a certain audacity to say that in a room full of specialists.
+= 在一屋子专家面前说那种话，是要有几分胆量的。
 词族：audacious
 近义对照：
 audacity = 胆识；厚颜（两面）
@@ -434,13 +434,13 @@ audibility = 可听度、清晰可闻的程度
 audibly
 核心：副词，"听得见地、出声地"。
 常修饰 sigh、gasp、groan 这类不自觉发出的声音。
-① She sighed audibly.
-= 她出声地叹了口气。
+① She sighed audibly and then apologised for having done it.
+= 她出声地叹了口气，随后又为叹气道歉。
 sigh audibly = 明显地叹气
-② The crowd audibly gasped.
-= 人群发出清晰的抽气声。
-③ He muttered audibly.
-= 他咕哝的声音能听见。
+② The crowd audibly gasped and the referee pretended not to hear.
+= 人群发出清晰的抽气声，裁判装作没听见。
+③ He muttered audibly throughout and denied afterwards having said anything.
+= 他全程咕哝的声音都听得见，事后却否认说过什么。
 反义词：
 inaudibly = 听不见地
 词族：audible
