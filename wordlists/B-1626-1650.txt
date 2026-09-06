@@ -1,14 +1,14 @@
 astray
 核心：只作副词，指"迷路、走偏"。两个高频搭配：
 go astray（丢失、走失）和 lead astray（把人带坏）。
-① The letter went astray.
-= 那封信丢了。
+① The letter went astray for six weeks and arrived with an apology printed on it.
+= 那封信丢了六个星期，寄到时上面印着一句致歉。
 go astray = 遗失、走失
-② He was led astray by friends.
-= 他被朋友带坏了。
+② He was led astray by friends who all had somewhere else to be by twenty-five.
+= 他被朋友带坏了，而那些人到二十五岁都各有各的去处。
 lead astray = 引入歧途
-③ The plan went astray.
-= 那个计划跑偏了。
+③ The plan went astray at the point where it depended on the weather.
+= 那个计划在依赖天气的那一步上跑偏了。
 注意：astray 只作副词，
 不放在名词前。
 近义对照：
@@ -19,13 +19,13 @@ get lost = 迷路
 astride
 核心：指"跨坐着、两腿分开跨在…上"。
 既是介词也是副词。比喻义指横跨两地或两个领域。
-① She sat astride the horse.
-= 她跨坐在马上。
+① She sat astride the horse for the first time at fifty-two.
+= 五十二岁那年她第一次跨坐在马上。
 sit astride = 跨坐
-② He stood astride the line.
-= 他跨在线上站着。
-③ The city sits astride two continents.
-= 那座城市横跨两大洲。
+② He stood astride the line and argued that he was on neither side of it.
+= 他跨在线上站着，还辩称自己哪一边都不在。
+③ The city sits astride two continents and the ferry between them takes twenty minutes.
+= 那座城市横跨两大洲，两边之间的渡轮开二十分钟。
 sit astride = 横跨
 构词：a- + stride 跨步
 近义对照：
@@ -57,13 +57,13 @@ astrolabe
 核心：古代的观星仪器——一叠可转动的铜盘刻着星图与刻度，
 把它对准某颗星测出高度，就能推算时刻、纬度和天体位置。
 中世纪伊斯兰世界把它做到了极致，后来被六分仪取代。
-① The astrolabe measures a star's altitude.
-= 星盘用来测星体的高度角。
+① The astrolabe measures a star's altitude and turns it into a time and a latitude.
+= 星盘测出星体的高度角，再把它换算成时刻与纬度。
 measure altitude = 测量高度角
-② Sailors used astrolabes before sextants.
-= 六分仪出现之前水手用星盘。
-③ The museum holds a brass astrolabe.
-= 博物馆藏有一具铜星盘。
+② Sailors used astrolabes before sextants and found them useless in a swell.
+= 六分仪出现之前水手用星盘，遇上涌浪就没法用。
+③ The museum holds a brass astrolabe engraved in three languages.
+= 博物馆藏有一具铜星盘，上面刻着三种文字。
 注意语域：
 天文史与航海史用语。
 
@@ -91,13 +91,13 @@ astrometry
 核心：天文学的一个分支，专门精确测量天体的位置和运动。
 恒星的自行、视差、距离都靠它测出来，也正是靠它才发现了
 一批看不见的伴星与系外行星。
-① Astrometry measures stellar positions.
-= 天体测量学测的是恒星位置。
+① Astrometry measures stellar positions to an accuracy no eye could ever reach.
+= 天体测量学测定恒星位置，精度是肉眼永远达不到的。
 measure stellar positions = 测量恒星位置
-② Parallax comes from careful astrometry.
-= 视差是靠精细的天体测量得来的。
-③ Astrometry revealed an unseen companion.
-= 天体测量揭示出一颗看不见的伴星。
+② Parallax comes from careful astrometry taken six months apart.
+= 视差来自相隔六个月的两次精细天体测量。
+③ Astrometry revealed an unseen companion by the wobble it caused.
+= 天体测量学靠一颗恒星的摆动，揭示出看不见的伴星。
 注意语域：
 天文学分支名称。
 分支对照：
@@ -107,13 +107,13 @@ astrophysics = 天体物理学（研究天体的物理性质）
 astronaut
 核心：指宇航员。美俄叫法不同：美国用 astronaut，
 俄罗斯用 cosmonaut，中国用 taikonaut。
-① The astronaut walked in space.
-= 那名宇航员进行了太空行走。
+① The astronaut walked in space for six hours and lost a glove.
+= 那名宇航员太空行走了六个钟头，丢了一只手套。
 space walk = 太空行走
-② Astronauts train for years.
-= 宇航员要训练多年。
-③ She wants to be an astronaut.
-= 她想当宇航员。
+② Astronauts train for years and may never be assigned a flight.
+= 宇航员要训练多年，也可能永远轮不到一次任务。
+③ She wants to be an astronaut and has worked out how many people ever have been.
+= 她想当宇航员，还算过历史上一共有多少人当过。
 构词：astro- 星 + naut 航行者
 各国称呼：
 astronaut = 宇航员（美国等）
@@ -123,12 +123,12 @@ taikonaut = 航天员（中国）
 astronomer
 核心：指天文学家——研究天体的科学家。
 和 astrologer（占星师）是完全不同的两回事。
-① The astronomer discovered a comet.
-= 那位天文学家发现了一颗彗星。
-② Astronomers use telescopes.
-= 天文学家使用望远镜。
-③ She trained as an astronomer.
-= 她受训成为天文学家。
+① The astronomer discovered a comet from a garden shed in the Midlands.
+= 那位天文学家是在中部地区一间花园棚屋里发现那颗彗星的。
+② Astronomers use telescopes they will never touch, booked years in advance.
+= 天文学家用的望远镜他们永远碰不到，还要提前几年预约。
+③ She trained as an astronomer and now writes software for other people's telescopes.
+= 她受训成为天文学家，如今给别人的望远镜写软件。
 词族：astronomy、astronomical
 注意区别：
 astronomer = 天文学家（科学）
