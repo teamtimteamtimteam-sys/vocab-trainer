@@ -257,12 +257,12 @@ amphetamine abuse = 苯丙胺滥用
 amphibian
 核心：生物学上指两栖动物——蛙、蝾螈这类幼体水生成体陆生的动物。
 也指水陆两用的飞机或车辆。
-① Frogs are amphibians.
-= 青蛙是两栖动物。
-② Amphibians need moist skin.
-= 两栖动物需要湿润的皮肤。
-③ The amphibian landed on water.
-= 那架水陆两用飞机在水上降落。
+① Frogs are amphibians, which is why you find them in the pond in spring and the long grass in August.
+= 青蛙是两栖动物，所以春天在池塘里见到它们，八月却在深草里。
+② Amphibians need moist skin to breathe through, so a dry week can empty a whole pond.
+= 两栖动物要靠湿润的皮肤呼吸，所以旱上一周就能让整口池塘空掉。
+③ The amphibian landed on water and taxied to the jetty under its own power.
+= 那架水陆两用飞机在水上降落，自行滑行到栈桥边。
 动物分类：
 amphibian = 两栖类
 reptile = 爬行类
@@ -273,14 +273,14 @@ amphibious = 两栖的
 amphibious
 核心：指"两栖的"——能在水陆两处活动。
 军事上 amphibious assault 指两栖登陆作战。
-① It's an amphibious vehicle.
-= 那是辆水陆两用车。
+① It's an amphibious vehicle that does forty on the road and four in the water.
+= 那是辆水陆两用车，公路上能跑四十，水里只有四。
 amphibious vehicle = 两栖车辆
-② They launched an amphibious assault.
-= 他们发动了两栖登陆。
+② They launched an amphibious assault at first light, with the landing craft going in ahead of the armour.
+= 他们在拂晓发动两栖登陆，登陆艇走在装甲部队前面。
 amphibious assault = 两栖突击
-③ Amphibious species are declining.
-= 两栖物种在减少。
+③ Amphibious species are declining faster than any other group of vertebrates.
+= 两栖物种的减少速度比任何其他脊椎动物类群都快。
 词族：
 amphibian = 两栖动物
 构词：amphi- 两者 + bio 生命
@@ -290,13 +290,13 @@ amphitheatre = 圆形剧场（两侧都有座位）
 amphitheatre
 核心：古罗马式的圆形或半圆形露天剧场，座位层层升高。
 现代也指阶梯式的大讲堂。英美拼写不同。
-① The Roman amphitheatre still stands.
-= 那座罗马圆形剧场还在。
+① The Roman amphitheatre still stands, and the town holds its summer concerts in it.
+= 那座罗马圆形剧场还在，镇上的夏季音乐会就在里面办。
 Roman amphitheatre = 罗马圆形剧场
-② Concerts are held in the amphitheatre.
-= 音乐会在露天剧场举行。
-③ The lecture hall is an amphitheatre.
-= 那个讲堂是阶梯式的。
+② Concerts are held in the amphitheatre, where a whisper on the stage reaches the back row.
+= 音乐会在露天剧场举行，台上一声耳语后排都听得见。
+③ The lecture hall is an amphitheatre, so the students at the back look down on the demonstration bench.
+= 那个讲堂是阶梯式的，后排的学生俯视着演示台。
 注意英美拼写：
 amphitheatre = 露天圆形剧场（英式拼法）
 amphitheater = 露天圆形剧场（美式拼法）
@@ -305,13 +305,13 @@ amphitheater = 露天圆形剧场（美式拼法）
 amphora
 核心：古希腊罗马的一种陶罐，两只耳把、颈细肚圆、底端收成尖头，
 插在沙里或架子上，用来盛酒和橄榄油。复数是 amphorae 或 amphoras。
-① Divers found amphorae in the wreck.
-= 潜水员在沉船里发现了双耳陶罐。
+① Divers found amphorae in the wreck, still stacked in the rows the crew had left them in.
+= 潜水员在沉船里发现了双耳陶罐，还照船员当年码放的行列摞着。
 find amphorae = 发现双耳陶罐
-② The amphora held olive oil.
-= 那只陶罐装的是橄榄油。
-③ Each amphora bears a maker's stamp.
-= 每只陶罐上都有制陶者的印记。
+② The amphora held olive oil and was sealed with pitch to keep the air out.
+= 那只陶罐装的是橄榄油，用沥青封口隔绝空气。
+③ Each amphora bears a maker's stamp, which lets archaeologists trace the trade route.
+= 每只陶罐上都有制陶者的印记，考古学家靠它追溯贸易路线。
 a maker's stamp = 制作者印记
 注意语域：
 考古学与古典学名称。
@@ -319,14 +319,14 @@ a maker's stamp = 制作者印记
 ampicillin
 核心：一种半合成的青霉素类抗生素，抗菌谱比原始青霉素宽，
 能对付一部分革兰氏阴性菌。口服注射都行，对青霉素过敏的人不能用。
-① The doctor prescribed ampicillin.
-= 医生开了氨苄西林。
+① The doctor prescribed ampicillin and told him to finish the course even if he felt better.
+= 医生开了氨苄西林，叮嘱他就算好转也要吃完一个疗程。
 prescribe ampicillin = 开氨苄西林
-② Ampicillin treats respiratory infections.
-= 氨苄西林用于治呼吸道感染。
+② Ampicillin treats respiratory infections but does nothing at all for a common cold.
+= 氨苄西林用于治呼吸道感染，对普通感冒则毫无作用。
 treat infections = 治疗感染
-③ Resistance to ampicillin is now common.
-= 对氨苄西林的耐药已经很普遍。
+③ Resistance to ampicillin is now common enough that hospitals test before they prescribe it.
+= 对氨苄西林的耐药已经普遍到医院开药前要先做检测。
 注意语域：
 药学与临床用语。
 
@@ -360,14 +360,14 @@ abundant = 丰富（数量多）
 amplifier
 核心：指把电信号放大的"放大器、功放"，音响系统的核心部件。
 口语简称 amp。
-① Connect the amplifier to the speakers.
-= 把功放接到音箱上。
+① Connect the amplifier to the speakers before you switch anything on, or you risk damaging both.
+= 开机之前先把功放接到音箱上，否则两样都可能损坏。
 connect to the speakers = 接到音箱
-② The amplifier boosts the signal.
-= 放大器增强信号。
+② The amplifier boosts the signal, and it boosts the hiss along with it.
+= 放大器增强信号，也把底噪一并增强了。
 boost the signal = 增强信号
-③ He bought a valve amplifier.
-= 他买了台电子管功放。
+③ He bought a valve amplifier that takes ten minutes to warm up and sounds worth the wait.
+= 他买了台电子管功放，预热要十分钟，声音对得起这十分钟。
 valve amplifier = 电子管功放（英式）
 简称：amp
 词族：
@@ -399,14 +399,14 @@ exaggerate 夸大（说得过头）
 amplitude
 核心：物理上指波的"振幅"，比喻义指"广度、幅度"。
 声波的振幅决定音量大小。
-① Amplitude determines loudness.
-= 振幅决定响度。
+① Amplitude determines loudness, while it is frequency that decides whether a note sounds high or low.
+= 振幅决定响度，音的高低则由频率决定。
 determine loudness = 决定音量
-② The wave has large amplitude.
-= 那个波振幅很大。
+② The wave has large amplitude here because the channel narrows and the water has nowhere to go.
+= 这里水道收窄，水无处可去，所以波的振幅很大。
 large amplitude = 大振幅
-③ The amplitude of change was vast.
-= 变化的幅度很大。
+③ The amplitude of change was vast, and nobody who lived through it described it the same way.
+= 变化的幅度很大，经历过的人没有两个说法是相同的。
 the amplitude of = …的幅度
 波的参数：
 amplitude = 振幅（强弱）
@@ -416,14 +416,14 @@ wavelength = 波长
 amply
 核心：指"充分地、绰绰有余地"。最常见的搭配是
 amply demonstrated / rewarded / justified。
-① The point was amply demonstrated.
-= 那一点得到了充分论证。
+① The point was amply demonstrated by the first three witnesses, and the fourth was excused.
+= 头三名证人已经充分论证了这一点，第四位就免了。
 amply demonstrated = 充分证明
-② She was amply rewarded.
-= 她得到了丰厚回报。
+② She was amply rewarded for the years she spent on it, though not by the people she expected.
+= 她为此花的那些年得到了丰厚回报，只是回报她的不是她指望的那些人。
 amply rewarded = 报酬优厚
-③ It amply justifies the cost.
-= 那完全对得起这个成本。
+③ It amply justifies the cost, provided you keep the thing for more than a season.
+= 只要东西用得过一季，那完全对得起这个成本。
 amply justify = 充分证明合理
 词族：
 ample = 充足的
