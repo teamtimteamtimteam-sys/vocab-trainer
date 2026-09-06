@@ -90,6 +90,21 @@ def has_eq(body):
     return any(ap.cw.EQ.match(l) and '=' in l and not l.startswith('= ')
                for l in body)
 
+def verdict(e1, b1, e2, b2):
+    """条内候选：是「搭配槽」还是「重复义项」—— 只看等式，不看例句改得开改不开。
+    判据见 GOAL.txt。两条各锚不同等式就是搭配槽，该改译文；
+    有一条没等式就是重复义项，该删那条（没有等式可搬，删起来干净）。"""
+    h1, h2 = has_eq(b1), has_eq(b2)
+    n1 = e1[0] if e1 else '?'
+    n2 = e2[0] if e2 else '?'
+    if h1 and h2:
+        return '搭配槽 → 改译文写出区别，别删'
+    if h1 and not h2:
+        return '重复义项 → 删 %s（它没有等式）' % n2
+    if h2 and not h1:
+        return '重复义项 → 删 %s（它没有等式）' % n1
+    return '重复义项 → 两条都没等式，删一条'
+
 def main(argv):
     loose = '--loose' in argv
     only5 = '--variants' in argv
@@ -111,11 +126,12 @@ def main(argv):
             s = sim(t1, t2)
             if s >= T_ZH:
                 (ch2 if not (has_eq(b1) or has_eq(b2)) else ch3).append(
-                    (h, s, e1, t1, e2, t2))
+                    (h, s, e1, t1, e2, t2, verdict(e1, b1, e2, b2)))
             k1, k2 = skeleton(e1), skeleton(e2)
             if len(k1) >= 3 and len(k2) >= 3:
                 j = len(k1 & k2) / len(k1 | k2)
-                if j >= T_SK: ch4.append((h, j, e1, t1, e2, t2))
+                if j >= T_SK:
+                    ch4.append((h, j, e1, t1, e2, t2, verdict(e1, b1, e2, b2)))
 
     # 通道 5：拼写变体之间跨词条比。先按「首字母 + 长度相近」分桶，
     # 桶内才算编辑距离 —— 全表两两比是 5841 的平方，跑不动。
@@ -167,8 +183,10 @@ def main(argv):
 
     def show(title, rows, note):
         print('\n【%s】%d 对   %s' % (title, len(rows), note))
-        for h, s, e1, t1, e2, t2 in sorted(rows, key=lambda r: -r[1]):
-            print('  %-18s %.2f' % (h, s))
+        for r in sorted(rows, key=lambda r: -r[1]):
+            h, s, e1, t1, e2, t2 = r[:6]
+            tag = r[6] if len(r) > 6 else ''
+            print('  %-18s %.2f  %s' % (h, s, tag))
             print('      %-52s %s' % (e1[:52], t1[:24]))
             print('      %-52s %s' % (e2[:52], t2[:24]))
 

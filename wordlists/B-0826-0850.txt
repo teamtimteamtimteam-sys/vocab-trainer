@@ -466,8 +466,6 @@ arrange alphabetically = 按字母排序
 ② Sort the names alphabetically before you merge the two spreadsheets, or the rows will not line up.
 = 合并那两张表格之前先把名字按字母排好，否则行会对不上。
 sort alphabetically = 按字母排序
-③ Entries appear alphabetically rather than by topic, which makes browsing harder than looking things up.
-= 词条按字母顺序而不是按主题排列，所以随便翻着看比查找难。
 词族：
 alphabet = 字母表
 alphabetical = 字母序的
