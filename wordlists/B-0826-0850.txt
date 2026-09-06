@@ -58,14 +58,14 @@ the Allies = 同盟国（大写）
 alma mater
 核心：拉丁语借词，字面是"哺育的母亲"，指一个人"毕业的母校"。
 也可指母校的校歌。正式或带感情色彩的说法。
-① He donated to his alma mater.
-= 他给母校捐了款。
+① He donated to his alma mater on condition that the library keep his old reading room.
+= 他给母校捐了款，条件是图书馆保留他从前那间阅览室。
 donate to one's alma mater = 给母校捐款
-② She returned to her alma mater to teach.
-= 她回母校教书了。
+② She returned to her alma mater to teach the course she had once nearly failed.
+= 她回母校教书，教的正是当年她差点没及格的那门课。
 return to one's alma mater = 回母校
-③ The crowd sang the alma mater.
-= 众人唱起了校歌。
+③ The crowd sang the alma mater at the end of the ceremony, most of them from memory.
+= 典礼结束时众人唱起校歌，大多数人都是凭记忆唱的。
 注意语域：
 正式或抒情语境，日常说 old school。
 注意用法：
@@ -74,14 +74,14 @@ return to one's alma mater = 回母校
 almanac
 核心：指按年出版的"年鉴、历书"，含日历、天文数据、统计资料。
 传统上还预测天气和农时。
-① He consulted the almanac.
-= 他查了年鉴。
+① He consulted the almanac before setting the date, mainly for the tide tables at the back.
+= 定日子之前他查了年鉴，主要是看后面的潮汐表。
 consult an almanac = 查阅年鉴
-② The farmer's almanac predicts frost.
-= 农事历预测有霜。
+② The farmer's almanac predicts frost by the end of the month, and it is right more often than not.
+= 农事历预测月底会有霜，它说对的时候还真不少。
 farmer's almanac = 农家历
-③ A sports almanac lists records.
-= 体育年鉴收录各项纪录。
+③ A sports almanac lists records going back a century, down to the attendance at each match.
+= 体育年鉴收录着上溯一个世纪的纪录，细到每场比赛的观众人数。
 注意拼写：
 almanac / almanack 都有，前者常见。
 近义对照：
@@ -92,14 +92,14 @@ calendar = 日历
 almighty
 核心：两条线：宗教上的"全能的"（the Almighty 指上帝），
 和口语里加强语气的"极大的"。
-① They prayed to Almighty God.
-= 他们向全能的上帝祈祷。
+① They prayed to Almighty God for rain, and it came three weeks later than the crops needed.
+= 他们向全能的上帝祈求降雨，雨来时比庄稼需要的晚了三个星期。
 Almighty God = 全能的上帝
-② There was an almighty crash.
-= 传来一声巨响。
+② There was an almighty crash from the kitchen, followed by a very long silence.
+= 厨房传来一声巨响，接着是很长的沉默。
 an almighty crash = 巨大的撞击声
-③ He made an almighty fuss.
-= 他大闹了一场。
+③ He made an almighty fuss about the bill and then paid it without another word.
+= 他为那张账单大闹了一场，然后一声不吭付了钱。
 an almighty fuss = 天大的吵闹
 词族：
 might = 力量
@@ -127,13 +127,13 @@ almoner
 核心：底层是 alms（施舍）——负责把救济发下去的人。旧时是教会或
 王室里的施赈人；二十世纪的英国医院把这个词借去，指管病人经济困难
 和出院安排的医务社工，一九六四年后改称 medical social worker。
-① The abbey employed an almoner.
-= 修道院设有施赈人。
-② The hospital almoner arranged her care.
-= 医院社工安排了她的照护。
+① The abbey employed an almoner to distribute bread and coin at the gate each morning.
+= 修道院设有施赈人，每天早上在门口分发面包和钱币。
+② The hospital almoner arranged her care and found a bed for her mother as well.
+= 医院社工安排了她的照护，还给她母亲找到了一张床位。
 hospital almoner = 医院医务社工
-③ Almoner was renamed medical social worker.
-= 那个职称后来改称医务社工。
+③ Almoner was renamed medical social worker in nineteen sixty-four, and the old title vanished within a decade.
+= 那个职称一九六四年改称医务社工，旧称十年之内就绝迹了。
 注意语域：
 历史与英国医疗行政用词。
 词族：
@@ -207,13 +207,13 @@ agave = 龙舌兰（叶缘带刺）
 aloft
 核心：指"在高处、在空中"，正式或文学。
 航海上还指"在桅杆上"。只作副词。
-① The flag flew aloft.
-= 旗帜在高处飘扬。
-② He held the trophy aloft.
-= 他把奖杯高举起来。
+① The flag flew aloft all through the siege and was never once lowered.
+= 整个围城期间旗帜都在高处飘扬，一次也没降下来。
+② He held the trophy aloft with both hands while the stand behind him emptied onto the pitch.
+= 他双手把奖杯高举起来，身后的看台涌下球场。
 hold aloft = 高举
-③ Sailors climbed aloft.
-= 水手们爬上了桅杆。
+③ Sailors climbed aloft to furl the topsail before the squall reached them.
+= 水手们爬上桅杆收起上桅帆，赶在飑线到来之前。
 注意：aloft 只作副词，
 不放在名词前。
 近义对照：
@@ -325,14 +325,14 @@ aloofness = 冷淡疏远
 alopecia
 核心：医学名词，指"脱发症"——头发或体毛成片掉落。最常见的是
 alopecia areata（斑秃），免疫系统攻击毛囊造成，跟自然衰老掉发不同。
-① She was diagnosed with alopecia.
-= 她被诊断为脱发症。
+① She was diagnosed with alopecia at nineteen and shaved the rest of her hair the same week.
+= 她十九岁确诊脱发症，当周就把剩下的头发剃掉了。
 diagnosed with alopecia = 确诊脱发症
-② Alopecia areata causes patchy hair loss.
-= 斑秃会造成一块块的脱发。
+② Alopecia areata causes patchy hair loss because the immune system turns on the follicles.
+= 斑秃会造成一块块的脱发，因为免疫系统开始攻击毛囊。
 alopecia areata = 斑秃
-③ Stress can trigger alopecia.
-= 压力可能诱发脱发症。
+③ Stress can trigger alopecia, though doctors are careful not to call it the sole cause.
+= 压力可能诱发脱发症，不过医生很谨慎，不会说它是唯一原因。
 trigger alopecia = 诱发脱发
 注意语域：
 皮肤科与免疫学术语。
@@ -340,14 +340,14 @@ trigger alopecia = 诱发脱发
 aloud
 核心：指"出声地"，与"在心里默念"相对。注意它和 loudly 完全不同：
 aloud 说的是"出不出声"，loudly 说的是"声音大不大"。
-① Read the passage aloud.
-= 把那段大声读出来。
+① Read the passage aloud, quietly if you like, but move your lips and make a sound.
+= 把那一段出声读出来，声音小些也行，但要动嘴、要发出声音。
 这里：
 aloud = 出声地
-② She laughed aloud.
-= 她笑出了声。
-③ He was thinking aloud.
-= 他把心里想的说了出来。
+② She laughed aloud in the reading room and half the desks turned round.
+= 她在阅览室里笑出了声，半屋子的桌子都转过头来。
+③ He was thinking aloud rather than telling us anything, so nobody wrote it down.
+= 他只是把心里想的说了出来，不是在告诉我们什么，所以没人记下来。
 think aloud = 自言自语地思考
 注意区别：
 aloud = 出声（对比默读）
@@ -357,14 +357,14 @@ loudly = 大声（对比小声）
 alpaca
 核心：南美安第斯山区驯养的一种骆驼科动物，比羊驼亲戚 llama 小，
 专为剪毛而养。毛细软保暖，也用这个词指毛料本身和织成的衣物。
-① They keep a herd of alpacas.
-= 他们养了一群羊驼。
+① They keep a herd of alpacas on the hillside and shear them once a year in spring.
+= 他们在山坡上养着一群羊驼，每年春天剪一次毛。
 a herd of alpacas = 一群羊驼
-② The scarf is pure alpaca.
-= 那条围巾是纯羊驼毛的。
+② The scarf is pure alpaca and has not pilled in fifteen years of wear.
+= 那条围巾是纯羊驼毛的，穿了十五年也没起球。
 pure alpaca = 纯羊驼毛
-③ Alpaca is warmer than sheep's wool.
-= 羊驼毛比绵羊毛更保暖。
+③ Alpaca is warmer than sheep's wool and carries none of the grease that makes wool itch.
+= 羊驼毛比绵羊毛更保暖，也没有让羊毛扎人的那层油脂。
 注意用法：
 既指动物，也指毛料。
 近义对照：
