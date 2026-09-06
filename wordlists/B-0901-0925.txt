@@ -112,15 +112,15 @@ atmosphere 气氛（通用）
 ambiguity
 核心：指"含义不明、可以有多种解释"的状态。学术和法律写作里
 常作为批评：指出条文或论述有歧义。可数不可数都有。
-① There is some ambiguity here.
-= 这里有些含糊。
-② The wording avoids ambiguity.
-= 那个措辞避免了歧义。
+① There is some ambiguity here that four readers have each resolved differently.
+= 这里有些含糊，四个读者各解出了不同的意思。
+② The wording avoids ambiguity at the cost of being unreadable.
+= 那个措辞避免了歧义，代价是没法读。
 avoid ambiguity = 避免歧义
-③ Legal texts must remove ambiguities.
-= 法律文本必须消除歧义。
-④ He tolerates ambiguity well.
-= 他能接受模糊状态。
+③ Legal texts must remove ambiguities before anybody signs them.
+= 法律文本必须在有人签字之前消除歧义。
+④ He tolerates ambiguity well and makes decisions on half the facts.
+= 他能接受模糊状态，掌握一半事实就做决定。
 tolerance for ambiguity = 对模糊的容忍度
 词族：
 ambiguous = 有歧义的
@@ -201,14 +201,14 @@ ambitiously = 雄心勃勃地
 ambivalence
 核心：指对同一事物同时抱有两种相反感受的"矛盾心理"，
 不可数。介词用 about 或 towards。
-① She felt ambivalence about leaving.
-= 她对离开心情矛盾。
+① She felt ambivalence about leaving a job she had complained about for years.
+= 那份工作她抱怨了好些年，真要离开时心情却矛盾。
 ambivalence about = 对…的矛盾心态
-② There is public ambivalence towards it.
-= 公众对此心态复杂。
+② There is public ambivalence towards it that no campaign has shifted.
+= 公众对此心态复杂，什么宣传都扭不过来。
 ambivalence towards = 对…的矛盾态度
-③ His ambivalence was clear.
-= 他的犹疑显而易见。
+③ His ambivalence was clear to everyone except the person asking.
+= 他的犹疑人人看得出，只有问话的人没看出来。
 词族：
 ambivalent = 矛盾的
 注意别混：
@@ -218,21 +218,21 @@ ambiguity = 含义不明
 ambivalent
 核心：指"心情矛盾的"——不是没想法，而是同时有正反两种感受。
 介词用 about 或 towards。
-① I'm ambivalent about the plan.
-= 我对那个计划心情复杂。
+① I'm ambivalent about the plan and would rather somebody else chose.
+= 我对那个计划心情复杂，宁愿由别人来定。
 ambivalent about = 对…既想又不想
-② She is ambivalent towards him.
-= 她对他感情矛盾。
-③ Voters remain ambivalent.
-= 选民态度依旧摇摆。
+② She is ambivalent towards him in a way she has never tried to explain.
+= 她对他感情矛盾，也从没想过要解释。
+③ Voters remain ambivalent and turn out in smaller numbers each time.
+= 选民态度依旧摇摆，每次投票的人都更少。
 词族：
 ambivalence = 矛盾心理
 注意别混：
 ambivalent = 心情矛盾（有两种感受）
 indifferent = 漠不关心（没感受）
 ambiguous = 有歧义的（说话不明）
-④ She spoke ambivalently about the move.
-= 她说起搬家的事时口气两可。
+④ She spoke ambivalently about the move and packed the same evening.
+= 她说起搬家的事时口气两可，当晚就打了包。
 ambivalently = 矛盾地、态度两可地
 
 amble
