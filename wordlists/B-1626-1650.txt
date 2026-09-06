@@ -254,13 +254,13 @@ asylum = 疯人院（旧称）
 asymmetric
 核心：指"不对称的"。也拼作 asymmetrical，两者通用。
 构词是 a-（无）+ symmetric（对称的）。
-① The design is asymmetric.
-= 那个设计不对称。
-② Asymmetric warfare favours the weak.
-= 不对称作战对弱势方有利。
+① The design is asymmetric on purpose and the client took a year to accept it.
+= 那个设计是有意做成不对称的，客户过了一年才接受。
+② Asymmetric warfare favours the weak because the cost of failure is not shared.
+= 不对称作战对弱势方有利，因为失败的代价不是两边平摊。
 asymmetric warfare = 不对称战争
-③ There is asymmetric information.
-= 存在信息不对称。
+③ There is asymmetric information whenever one side has read the contract.
+= 只要有一方读过合同，就存在信息不对称。
 asymmetric information = 信息不对称（经济学）
 反义词：
 symmetric = 对称的
@@ -268,23 +268,23 @@ symmetric = 对称的
 asymmetry = 不对称
 注意拼写：
 asymmetric / asymmetrical 都可以。
-④ She competes on the asymmetric bars.
-= 她的项目是高低杠。
+④ She competes on the asymmetric bars and has never fallen in a final.
+= 她的项目是高低杠，决赛里从没掉下来过。
 asymmetric bars = 高低杠（体操器械）
-⑤ The load is asymmetrically distributed.
-= 荷载分布不对称。
+⑤ The load is asymmetrically distributed and the whole frame twists under it.
+= 荷载分布不对称，整个框架在底下扭了。
 asymmetrically = 不对称地
 
 asymmetry
 核心：指"不对称"这个状态或现象。可数不可数都有。
 经济学里 information asymmetry 是核心概念。
-① There is asymmetry in the design.
-= 那个设计不对称。
-② Information asymmetry distorts markets.
-= 信息不对称扭曲市场。
+① There is asymmetry in the way the two halves were built, and the roof shows it.
+= 两半楼盖法不对称，屋顶上就看得出来。
+② Information asymmetry distorts markets long before anyone calls it fraud.
+= 早在有人说这是欺诈之前，信息不对称就已经在扭曲市场。
 information asymmetry = 信息不对称
-③ Facial asymmetry is normal.
-= 面部不对称是正常的。
+③ Facial asymmetry is normal and photographs exaggerate it more than mirrors.
+= 面部不对称是正常的，照片比镜子更放大这一点。
 facial asymmetry = 面部不对称
 反义词：
 symmetry = 对称
