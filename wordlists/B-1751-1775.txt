@@ -177,8 +177,8 @@ autarchy
 核心：这个词形背两层意思，容易混。一是"专制独裁"——一人独揽
 大权；二是"经济自给自足"，那一层更常拼作 autarky。
 形容词是 autarchic。写的时候最好按拼法分工，免得读者误解。
-① The regime slid into autarchy over a decade and nobody could name the year.
-= 那个政权用了十年滑向独裁，谁也说不出是哪一年。
+① Under autarchy the leader answered to nobody and the constitution stayed in print.
+= 在那种独裁之下领袖不对任何人负责，宪法却照样印着。
 ② Wartime policy aimed at autarchy and produced shortages of everything imported.
 = 战时政策以自给自足为目标，结果凡是进口的东西全都短缺。
 ③ An autarchic economy shuns imports and pays for it in every other way.
@@ -230,12 +230,12 @@ authentically = 真实地、地道地
 authenticate
 核心：指"鉴定并证实为真"。艺术品、文件、
 以及登录时的"身份验证"都用它。
-① Experts authenticated the painting.
-= 专家鉴定那幅画为真迹。
-② The document was authenticated.
-= 那份文件经过了验证。
-③ Users must authenticate first.
-= 用户须先完成身份验证。
+① Experts authenticated the painting and the price rose by a factor of forty.
+= 专家鉴定那幅画为真迹，价格随即涨了四十倍。
+② The document was authenticated by three laboratories working separately.
+= 那份文件由三家独立的实验室各自验证过。
+③ Users must authenticate first, and the system logs every failed attempt.
+= 用户须先完成身份验证，系统会记下每一次失败的尝试。
 authenticate a user = 验证用户身份
 词族：
 authentication = 认证
@@ -249,13 +249,13 @@ validate = 使生效；确认有效
 authenticity
 核心：指"真实性、地道程度"。不可数。
 既说文物真伪，也说体验是否原汁原味。
-① They questioned its authenticity.
-= 他们质疑那东西的真伪。
+① They questioned its authenticity on the strength of one brushstroke.
+= 他们凭一笔笔触就质疑那东西的真伪。
 question the authenticity = 质疑真实性
-② The dish lacks authenticity.
-= 那道菜不够地道。
-③ Authenticity matters to travellers.
-= 旅行者看重原汁原味。
+② The dish lacks authenticity and tastes rather better for it.
+= 那道菜不够地道，也正因如此更好吃些。
+③ Authenticity matters to travellers who would not notice if it were faked.
+= 旅行者看重原汁原味，可真造了假他们也看不出来。
 词族：authentic、authenticate
 近义对照：
 authenticity = 真实性、地道性
@@ -319,14 +319,14 @@ authoritarianism = 威权主义
 authoritative
 核心：两条线：资料"权威可信的"（褒义），
 和口吻"有威严、说一不二的"。和 authoritarian 严格区分。
-① It's the authoritative text.
-= 那是权威版本。
+① It's the authoritative text and has been reprinted without change since 1948.
+= 那是权威版本，自一九四八年起原样重印，一字未动。
 authoritative text = 权威文本
-② He spoke in an authoritative tone.
-= 他语气不容置疑。
+② He spoke in an authoritative tone about a subject he had read up that morning.
+= 他用不容置疑的口吻谈一个当天早上才临时读过的题目。
 authoritative tone = 权威的口吻
-③ The study is authoritative.
-= 那项研究具有权威性。
+③ The study is authoritative and rests on data nobody else can get at.
+= 那项研究具有权威性，依据的是别人拿不到的数据。
 副词形式：
 authoritatively = 权威地
 注意别混：
@@ -359,13 +359,13 @@ authoritative = 权威的
 authorization
 核心：指"授权、批准"，也指授权文件本身。
 英式也拼 authorisation。
-① You need written authorization.
-= 你需要书面授权。
+① You need written authorization and the person who signs it is on leave.
+= 你需要书面授权，而有权签字的人正在休假。
 written authorization = 书面授权
-② Authorization was denied.
-= 授权被拒。
-③ Entry without authorization is banned.
-= 未经授权不得入内。
+② Authorization was denied twice and granted on the third identical application.
+= 授权被拒了两次，第三份一模一样的申请却批了。
+③ Entry without authorization is banned and the door records who tries.
+= 未经授权不得入内，那扇门会记录谁试过。
 without authorization = 未经许可
 注意英美拼写：
 authorisation = 授权、批准（英式拼法）
@@ -379,14 +379,14 @@ approval = 批准（同意方案）
 authorize
 核心：指正式"授权、批准"。常用被动，
 也常接不定式 authorize someone to do。
-① She authorized the payment.
-= 她批准了那笔付款。
+① She authorized the payment and queried it herself a month later.
+= 她批准了那笔付款，一个月后又自己去查它。
 authorize a payment = 批准付款
-② He is authorized to sign.
-= 他有签字权。
+② He is authorized to sign up to a limit nobody has raised since 1997.
+= 他有签字权，额度上限自一九九七年起没人调过。
 be authorized to do = 获授权做
-③ Only authorized staff may enter.
-= 仅授权人员可入内。
+③ Only authorized staff may enter, and the badge system has been broken for weeks.
+= 仅授权人员可入内，而门禁系统已经坏了好几周。
 authorized personnel = 授权人员
 注意英美拼写：
 authorise = 授权、批准（英式拼法）
@@ -416,13 +416,13 @@ leadership 领导地位 / friendship 友谊
 autism
 核心：指自闭症谱系——一种影响社交沟通和感知方式的
 神经发育差异。不可数。用词要留意。
-① Autism affects communication.
-= 自闭症影响沟通方式。
-② Autism is a spectrum.
-= 自闭症是一个谱系。
+① Autism affects communication in ways that vary from one person to the next.
+= 自闭症影响沟通的方式因人而异。
+② Autism is a spectrum, which is why two diagnoses can look nothing alike.
+= 自闭症是一个谱系，所以两份诊断可能看着毫无相似之处。
 autism spectrum = 自闭症谱系
-③ Early support helps with autism.
-= 早期支持对自闭症有帮助。
+③ Early support helps with autism far more than late intervention does.
+= 对自闭症来说，早期支持的作用远大于后期干预。
 词族：
 autistic = 自闭症的
 注意语用：
@@ -434,13 +434,13 @@ person with autism，
 autistic
 核心：指"自闭症的、有自闭特质的"。
 作名词指自闭症人士。用词分寸参见 autism 条。
-① He is autistic.
-= 他是自闭症人士。
-② Autistic traits vary widely.
-= 自闭特质差异很大。
+① He is autistic and has explained the same thing to employers eleven times.
+= 他是自闭症人士，同样的事已经对雇主解释过十一次。
+② Autistic traits vary widely and rarely match what people expect to see.
+= 自闭特质差异很大，也很少符合人们预想的样子。
 autistic trait = 自闭特质
-③ She works with autistic children.
-= 她的工作对象是自闭症儿童。
+③ She works with autistic children and learned to stop filling silences.
+= 她的工作对象是自闭症儿童，她学会了不去填满沉默。
 词族：autism
 注意语用：
 autistic 作形容词是中性描述，

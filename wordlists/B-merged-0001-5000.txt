@@ -33449,8 +33449,8 @@ autarchy
 核心：这个词形背两层意思，容易混。一是"专制独裁"——一人独揽
 大权；二是"经济自给自足"，那一层更常拼作 autarky。
 形容词是 autarchic。写的时候最好按拼法分工，免得读者误解。
-① The regime slid into autarchy over a decade and nobody could name the year.
-= 那个政权用了十年滑向独裁，谁也说不出是哪一年。
+① Under autarchy the leader answered to nobody and the constitution stayed in print.
+= 在那种独裁之下领袖不对任何人负责，宪法却照样印着。
 ② Wartime policy aimed at autarchy and produced shortages of everything imported.
 = 战时政策以自给自足为目标，结果凡是进口的东西全都短缺。
 ③ An autarchic economy shuns imports and pays for it in every other way.
@@ -33502,12 +33502,12 @@ authentically = 真实地、地道地
 authenticate
 核心：指"鉴定并证实为真"。艺术品、文件、
 以及登录时的"身份验证"都用它。
-① Experts authenticated the painting.
-= 专家鉴定那幅画为真迹。
-② The document was authenticated.
-= 那份文件经过了验证。
-③ Users must authenticate first.
-= 用户须先完成身份验证。
+① Experts authenticated the painting and the price rose by a factor of forty.
+= 专家鉴定那幅画为真迹，价格随即涨了四十倍。
+② The document was authenticated by three laboratories working separately.
+= 那份文件由三家独立的实验室各自验证过。
+③ Users must authenticate first, and the system logs every failed attempt.
+= 用户须先完成身份验证，系统会记下每一次失败的尝试。
 authenticate a user = 验证用户身份
 词族：
 authentication = 认证
@@ -33521,13 +33521,13 @@ validate = 使生效；确认有效
 authenticity
 核心：指"真实性、地道程度"。不可数。
 既说文物真伪，也说体验是否原汁原味。
-① They questioned its authenticity.
-= 他们质疑那东西的真伪。
+① They questioned its authenticity on the strength of one brushstroke.
+= 他们凭一笔笔触就质疑那东西的真伪。
 question the authenticity = 质疑真实性
-② The dish lacks authenticity.
-= 那道菜不够地道。
-③ Authenticity matters to travellers.
-= 旅行者看重原汁原味。
+② The dish lacks authenticity and tastes rather better for it.
+= 那道菜不够地道，也正因如此更好吃些。
+③ Authenticity matters to travellers who would not notice if it were faked.
+= 旅行者看重原汁原味，可真造了假他们也看不出来。
 词族：authentic、authenticate
 近义对照：
 authenticity = 真实性、地道性
@@ -33591,14 +33591,14 @@ authoritarianism = 威权主义
 authoritative
 核心：两条线：资料"权威可信的"（褒义），
 和口吻"有威严、说一不二的"。和 authoritarian 严格区分。
-① It's the authoritative text.
-= 那是权威版本。
+① It's the authoritative text and has been reprinted without change since 1948.
+= 那是权威版本，自一九四八年起原样重印，一字未动。
 authoritative text = 权威文本
-② He spoke in an authoritative tone.
-= 他语气不容置疑。
+② He spoke in an authoritative tone about a subject he had read up that morning.
+= 他用不容置疑的口吻谈一个当天早上才临时读过的题目。
 authoritative tone = 权威的口吻
-③ The study is authoritative.
-= 那项研究具有权威性。
+③ The study is authoritative and rests on data nobody else can get at.
+= 那项研究具有权威性，依据的是别人拿不到的数据。
 副词形式：
 authoritatively = 权威地
 注意别混：
@@ -33631,13 +33631,13 @@ authoritative = 权威的
 authorization
 核心：指"授权、批准"，也指授权文件本身。
 英式也拼 authorisation。
-① You need written authorization.
-= 你需要书面授权。
+① You need written authorization and the person who signs it is on leave.
+= 你需要书面授权，而有权签字的人正在休假。
 written authorization = 书面授权
-② Authorization was denied.
-= 授权被拒。
-③ Entry without authorization is banned.
-= 未经授权不得入内。
+② Authorization was denied twice and granted on the third identical application.
+= 授权被拒了两次，第三份一模一样的申请却批了。
+③ Entry without authorization is banned and the door records who tries.
+= 未经授权不得入内，那扇门会记录谁试过。
 without authorization = 未经许可
 注意英美拼写：
 authorisation = 授权、批准（英式拼法）
@@ -33651,14 +33651,14 @@ approval = 批准（同意方案）
 authorize
 核心：指正式"授权、批准"。常用被动，
 也常接不定式 authorize someone to do。
-① She authorized the payment.
-= 她批准了那笔付款。
+① She authorized the payment and queried it herself a month later.
+= 她批准了那笔付款，一个月后又自己去查它。
 authorize a payment = 批准付款
-② He is authorized to sign.
-= 他有签字权。
+② He is authorized to sign up to a limit nobody has raised since 1997.
+= 他有签字权，额度上限自一九九七年起没人调过。
 be authorized to do = 获授权做
-③ Only authorized staff may enter.
-= 仅授权人员可入内。
+③ Only authorized staff may enter, and the badge system has been broken for weeks.
+= 仅授权人员可入内，而门禁系统已经坏了好几周。
 authorized personnel = 授权人员
 注意英美拼写：
 authorise = 授权、批准（英式拼法）
@@ -33688,13 +33688,13 @@ leadership 领导地位 / friendship 友谊
 autism
 核心：指自闭症谱系——一种影响社交沟通和感知方式的
 神经发育差异。不可数。用词要留意。
-① Autism affects communication.
-= 自闭症影响沟通方式。
-② Autism is a spectrum.
-= 自闭症是一个谱系。
+① Autism affects communication in ways that vary from one person to the next.
+= 自闭症影响沟通的方式因人而异。
+② Autism is a spectrum, which is why two diagnoses can look nothing alike.
+= 自闭症是一个谱系，所以两份诊断可能看着毫无相似之处。
 autism spectrum = 自闭症谱系
-③ Early support helps with autism.
-= 早期支持对自闭症有帮助。
+③ Early support helps with autism far more than late intervention does.
+= 对自闭症来说，早期支持的作用远大于后期干预。
 词族：
 autistic = 自闭症的
 注意语用：
@@ -33706,13 +33706,13 @@ person with autism，
 autistic
 核心：指"自闭症的、有自闭特质的"。
 作名词指自闭症人士。用词分寸参见 autism 条。
-① He is autistic.
-= 他是自闭症人士。
-② Autistic traits vary widely.
-= 自闭特质差异很大。
+① He is autistic and has explained the same thing to employers eleven times.
+= 他是自闭症人士，同样的事已经对雇主解释过十一次。
+② Autistic traits vary widely and rarely match what people expect to see.
+= 自闭特质差异很大，也很少符合人们预想的样子。
 autistic trait = 自闭特质
-③ She works with autistic children.
-= 她的工作对象是自闭症儿童。
+③ She works with autistic children and learned to stop filling silences.
+= 她的工作对象是自闭症儿童，她学会了不去填满沉默。
 词族：autism
 注意语用：
 autistic 作形容词是中性描述，
@@ -33748,12 +33748,12 @@ auto-da-fé
 核心：历史名词，字面是葡萄牙语的"信仰的行为"，指宗教裁判所公开
 宣判异端的那套仪式——游行、宣读罪状、当众忏悔，判死刑的随后
 交由世俗当局处决。复数是 autos-da-fé。
-① The auto-da-fé drew huge crowds.
-= 那场宗教审判仪式引来大批人群。
-② Autos-da-fé were staged in public squares.
-= 那种仪式在广场上举行。
-③ The auto-da-fé itself was not the execution.
-= 那套仪式本身并不是行刑。
+① The auto-da-fé drew huge crowds and was announced weeks in advance.
+= 那场宗教审判仪式引来大批人群，提前几周就贴出了告示。
+② Autos-da-fé were staged in public squares with seating built for the occasion.
+= 那种仪式在广场上举行，还为此搭起看台。
+③ The auto-da-fé ended at the church door and the burning happened elsewhere.
+= 那套仪式到教堂门口就结束了，焚刑在别处进行。
 注意用法：
 复数改的是前一个词。
 注意语域：
@@ -33781,12 +33781,12 @@ autochanger
 核心：能自动换碟的装置——老式唱机上一次叠好几张唱片，放完一张
 自动落下一张；后来的光盘机也有一次装几张自动切换的。
 随着流媒体普及基本退出了。
-① The autochanger held six records.
-= 那台自动换片机能放六张唱片。
-② An autochanger saves getting up.
-= 自动换碟省得起身换。
-③ Autochangers vanished with streaming.
-= 流媒体一来，自动换碟机就没了。
+① The autochanger held six records and jammed on the fourth every time.
+= 那台自动换片机能放六张唱片，每次都卡在第四张。
+② An autochanger saves getting up, which was the whole point of buying one.
+= 自动换碟省得起身，买它图的就是这个。
+③ Autochangers vanished with streaming and turn up now in house clearances.
+= 流媒体一来自动换碟机就绝迹了，如今只在清空旧宅时才见得到。
 注意语域：
 音响设备用语，带年代感。
 
@@ -33794,13 +33794,13 @@ autochthonous
 核心：地质与生态学形容词，指"原地生成的"——岩层或有机质就在
 现在这个位置形成，不是从别处搬来的。也用于人群，
 指"土生土长的原住民"。反义是 allochthonous。
-① The deposits are autochthonous.
-= 那些沉积是原地形成的。
-② Autochthonous carbon comes from within the lake.
-= 内源碳产自湖体自身。
+① The deposits are autochthonous and formed exactly where they now sit.
+= 那些沉积是原地形成的，就在它们如今所在的位置生成。
+② Autochthonous carbon comes from within the lake rather than off the fields.
+= 内源碳产自湖体自身，而不是来自周围的农田。
 autochthonous carbon = 内源碳
-③ The term also describes autochthonous peoples.
-= 这个词也用来说土生的族群。
+③ Autochthonous peoples had farmed the valley for four thousand years.
+= 土生的族群在那道山谷里耕作了四千年。
 autochthonous peoples = 土著族群
 注意语域：
 地质学、生态学与人类学用语。
@@ -33812,13 +33812,13 @@ autoclave
 核心：高压蒸汽灭菌器——把东西封进密闭腔里通入蒸汽，靠加压把水的
 沸点抬到一百二十度以上，几分钟就能杀死芽孢。医院器械、
 实验室培养基和牙科工具都靠它消毒。也作动词。
-① Instruments are sterilized in an autoclave.
-= 器械在高压灭菌器里消毒。
+① Instruments are sterilized in an autoclave and wrapped before they cool.
+= 器械在高压灭菌器里消毒，趁没凉透就包好。
 sterilize in an autoclave = 高压灭菌
-② The autoclave runs at 121 degrees.
-= 那台灭菌器在一百二十一度下运行。
-③ Autoclave the media before use.
-= 培养基用前先高压灭菌。
+② The autoclave runs at 121 degrees for fifteen minutes and no less.
+= 那台灭菌器在一百二十一度下运行十五分钟，一分钟都不能少。
+③ Autoclave the media before use or the whole week's work is wasted.
+= 培养基用前先高压灭菌，否则一周的活都白干。
 autoclave = 高压灭菌（动词）
 注意语域：
 医疗与实验室设备用语。
@@ -33845,13 +33845,13 @@ autocorrect
 核心：输入时自动改词的功能——系统认定你打错了，就替你换成它以为
 对的那个词。好处是省事，麻烦是它经常改错，把人名和方言改成
 不相干的词，因而成了一类固定的笑料。名词动词同形。
-① Autocorrect changed her name again.
-= 自动更正又把她的名字改了。
-② Turn off autocorrect if it annoys you.
-= 嫌烦就把自动更正关掉。
+① Autocorrect changed her name again and she has stopped correcting it.
+= 自动更正又把她的名字改了，她已经懒得再改回来。
+② Turn off autocorrect if it annoys you, and expect to miss it within a day.
+= 嫌烦就把自动更正关掉，不过一天之内你就会想它。
 turn off autocorrect = 关闭自动更正
-③ The phone autocorrected the slang.
-= 手机把那个俚语自动改掉了。
+③ The phone autocorrected the slang into something considerably ruder.
+= 手机把那个俚语自动改成了粗鲁得多的词。
 autocorrect = 自动更正（动词）
 注意语域：
 计算机与手机输入语境。
@@ -33862,14 +33862,14 @@ autocorrect = 自动更正（改掉它认为的错）
 autocracy
 核心：指独裁政体——权力集中在一人手中。
 和 democracy 相对。可数不可数都有。
-① The country slid into autocracy.
-= 那个国家滑向了独裁。
+① The country slid into autocracy through a series of entirely legal steps.
+= 那个国家经由一连串完全合法的步骤滑向了独裁。
 slide into autocracy = 沦为专制
-② Autocracy stifles dissent.
-= 独裁扼杀异见。
+② Autocracy stifles dissent and then complains that nobody warned it.
+= 独裁扼杀异见，事后又抱怨没人示警。
 stifle dissent = 压制异见
-③ Autocracies rarely last.
-= 独裁政体少有长久的。
+③ Autocracies rarely last beyond the person who built them.
+= 独裁政体很少能活过建立它的那个人。
 构词：auto- 自己 + -cracy 统治
 政体对照：
 democracy = 民主制
@@ -33883,12 +33883,12 @@ autocrat
 政治上指独裁者；日常里也用来说作风专断的老板或家长，那时是夸张的说法，
 并非真指政治体制。同族的 -crat 词尾一律指某种掌权者：democrat、
 bureaucrat、technocrat，认出词尾就能推出意思。
-① He ruled as an autocrat.
-= 他以独裁者的方式统治。
-② The boss is an autocrat.
-= 那位老板独断专行。
-③ Autocrats fear free press.
-= 独裁者害怕自由媒体。
+① He ruled as an autocrat for thirty years and left no one able to succeed him.
+= 他以独裁者的方式统治了三十年，没留下任何能接班的人。
+② The boss is an autocrat about the rota and indifferent to everything else.
+= 那位老板在排班上独断专行，别的事一概不管。
+③ Autocrats fear free press more than they fear opposition parties.
+= 独裁者怕自由媒体，甚过怕反对党。
 free press = 自由媒体
 词族：autocracy、autocratic
 近义对照：
@@ -33900,14 +33900,14 @@ tyrant = 暴君（专横）
 autocratic
 核心：指作风"独断专行的"。既说政体，也说管理风格。
 和 authoritarian 意思很近。
-① He has an autocratic manner.
-= 他作风专断。
+① He has an autocratic manner that the board mistook for decisiveness.
+= 他作风专断，董事会却错当成了果决。
 autocratic manner = 独断的做派
-② Autocratic rule ended in 1989.
-= 独裁统治于一九八九年终结。
+② Autocratic rule ended in 1989 and the archives opened four years later.
+= 独裁统治于一九八九年终结，档案四年后才开放。
 autocratic rule = 专制统治
-③ The decision was autocratic.
-= 那个决定是一言堂做出的。
+③ The decision was autocratic and turned out, awkwardly, to be right.
+= 那个决定是一言堂做出的，尴尬的是它还对了。
 副词形式：
 autocratically = 独断地
 反义词：
@@ -33918,13 +33918,13 @@ autocross
 核心：一种赛车项目，在用锥筒摆出的场地里单车计时跑，比的是
 过弯精度而不是绝对速度。门槛低、开自家车就能参加，
 所以是最普及的入门赛事。英式另指越野土路赛。
-① He races his own car in autocross.
-= 他开自己的车跑场地计时赛。
-② Autocross courses are marked with cones.
-= 那种赛道是用锥筒摆出来的。
+① He races his own car in autocross and drives it home afterwards.
+= 他开自己的车跑场地计时赛，赛完再开回家。
+② Autocross courses are marked with cones and change between every run.
+= 那种赛道是用锥筒摆出来的，每一轮之间都会改。
 be marked with cones = 用锥筒标出
-③ Autocross rewards precision over power.
-= 这个项目比的是精准而非马力。
+③ Autocross rewards precision over power, which is why old hatchbacks win.
+= 这个项目比的是精准而非马力，所以赢的常是老掀背车。
 注意地域：
 美式指锥桶场地计时赛，英式多指越野土路赛。
 
@@ -33932,13 +33932,13 @@ autodidact
 核心：指"自学成才的人"——没受过科班训练，全靠自己读书摸索
 把一门学问或手艺拿下来。形容词是 autodidactic。
 词根就是"自己教自己"。
-① He was a lifelong autodidact.
-= 他一辈子都在自学。
+① He was a lifelong autodidact and left a library catalogued in his own system.
+= 他一辈子都在自学，留下一屋子按自创体系编目的藏书。
 a lifelong autodidact = 终身自学者
-② Autodidacts often read across fields.
-= 自学者往往跨领域读书。
-③ Her training was autodidactic.
-= 她的功底是自学来的。
+② Autodidacts often read across fields and miss what everyone else was taught.
+= 自学者往往跨领域读书，也漏掉别人课堂上学过的东西。
+③ Her training was autodidactic and nobody could tell from the work.
+= 她的功底是自学来的，而作品上一点看不出来。
 autodidactic = 自学的
 注意语域：
 正式书面语，带敬意。
@@ -33950,13 +33950,13 @@ autofocus
 核心：相机上"自动对焦"的功能——靠对比度或相位差判断远近，
 自动把镜头拧到合焦位置。缩写常写作 AF，跟手动对焦相对。
 名词动词同形。
-① Switch the lens to autofocus.
-= 把镜头切到自动对焦。
+① Switch the lens to autofocus and it will hunt back and forth in the dark.
+= 把镜头切到自动对焦，天黑时它会来回拉风箱。
 switch to autofocus = 切到自动对焦
-② Autofocus struggles in low light.
-= 光线暗时自动对焦会吃力。
-③ The camera autofocuses on the nearest eye.
-= 那台相机会自动对焦到最近的那只眼睛。
+② Autofocus struggles in low light and gives up entirely below a certain point.
+= 光线暗时自动对焦会吃力，暗到一定程度就彻底放弃。
+③ The camera autofocuses on the nearest eye and gets it wrong on spectacles.
+= 那台相机会自动对焦到最近的那只眼睛，遇上眼镜就对错。
 注意别混：
 autofocus = 自动对焦
 manual focus = 手动对焦
@@ -33965,14 +33965,14 @@ autogenic
 核心：形容词，指"自我产生的"，几乎只出现在
 autogenic training 这个搭配里——一套自我放松法：默念
 "我的手臂很沉、很暖"这类句子，引导身体进入放松状态。
-① She learned autogenic training.
-= 她学了自律训练法。
+① She learned autogenic training from a book and practised it for twenty years.
+= 她照着一本书学了自律训练法，练了二十年。
 autogenic training = 自律训练法（自我放松技术）
-② Autogenic exercises lower the heart rate.
-= 那套练习能降低心率。
+② Autogenic exercises lower the heart rate within about four minutes.
+= 那套练习大约四分钟就能把心率降下来。
 autogenic exercises = 自律训练练习
-③ The method is autogenic, not hypnotic.
-= 那套方法是自我引导的，不是催眠。
+③ The method is autogenic, so the person guides themselves throughout.
+= 那套方法是自我引导的，全程由本人带着自己走。
 注意用法：
 基本只跟 training 或 exercises 搭配。
 注意语域：
@@ -33981,13 +33981,13 @@ autogenic exercises = 自律训练练习
 autograph
 核心：指名人的"亲笔签名"。名词动词同形。
 和 signature（法律意义的签字）区分。
-① He asked for an autograph.
-= 他要了个签名。
+① He asked for an autograph and was given a signed photograph instead.
+= 他要签名，对方给了他一张签名照。
 ask for an autograph = 索要签名
-② She autographed the book.
-= 她在书上签了名。
-③ It's an autographed photo.
-= 那是张签名照。
+② She autographed the book on the title page and dated it wrongly.
+= 她在书名页上签了名，日期写错了。
+③ It's an autographed photo worth more than the film it came from ever made.
+= 那是张亲笔签名照，比它出自的那部电影赚得还多。
 autographed photo = 亲笔签名照
 构词：auto- 自己 + graph 书写
 注意区别：
