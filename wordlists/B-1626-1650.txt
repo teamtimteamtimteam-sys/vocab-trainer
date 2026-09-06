@@ -156,12 +156,12 @@ astronomical unit = 天文单位（地日平均距离）
 astronomy
 核心：指天文学——研究天体和宇宙的科学。不可数。
 和占星术 astrology 严格区分。
-① He studies astronomy.
-= 他学天文学。
-② Astronomy requires patience.
-= 天文学需要耐心。
-③ Radio astronomy uses antennas.
-= 射电天文学使用天线。
+① He studies astronomy and has seen the sky properly about four times a year.
+= 他学天文学，一年里能好好看上天的大概只有四回。
+② Astronomy requires patience, since most of what it studies has not moved in a lifetime.
+= 天文学需要耐心，它研究的东西大多一辈子都没挪动过。
+③ Radio astronomy uses antennas the size of a field and hears what no eye can see.
+= 射电天文学用的天线有一整块田那么大，听得见眼睛看不见的东西。
 radio astronomy = 射电天文学
 构词：astro- 星 + -nomy 规律学科
 同类：
@@ -213,13 +213,13 @@ astuteness = 精明、机敏
 asylee
 核心：美式法律用语，指"已获庇护者"——申请政治庇护并且获批的人。
 注意它跟还在等结果的申请人不是一回事，那个叫 asylum seeker。
-① The asylee received work authorization.
-= 获庇护者拿到了工作许可。
+① The asylee received work authorization eight months after the decision.
+= 裁决下来八个月后，那位获庇护者拿到了工作许可。
 receive work authorization = 获得工作许可
-② Asylees may apply for residency later.
-= 获庇护者之后可以申请居留。
-③ The agency resettles asylees.
-= 那个机构安置获庇护者。
+② Asylees may apply for residency later and most of them do within the year.
+= 获庇护者之后可以申请居留，多数人一年之内就申请了。
+③ The agency resettles asylees in towns where housing is cheap and work is not.
+= 那个机构把获庇护者安置在房子便宜、工作难找的小镇上。
 注意别混：
 asylee = 已获庇护者（批下来了）
 asylum seeker = 寻求庇护者（还在申请中）
@@ -294,14 +294,14 @@ asymmetric = 不对称的
 asymptomatic
 核心：医学用语，指感染了却"没有症状的"。
 新冠疫情后成为大众词汇。
-① Many cases are asymptomatic.
-= 很多病例没有症状。
+① Many cases are asymptomatic and are found only when someone tests for something else.
+= 很多病例没有症状，只有在查别的病时才被发现。
 asymptomatic case = 无症状病例
-② Asymptomatic carriers can spread it.
-= 无症状携带者也会传播。
+② Asymptomatic carriers can spread it for a fortnight without knowing.
+= 无症状携带者可以毫不知情地传播两个星期。
 asymptomatic carrier = 无症状携带者
-③ She remained asymptomatic.
-= 她一直没出现症状。
+③ She remained asymptomatic throughout and tested positive on eleven consecutive days.
+= 她全程没有症状，却连续十一天检测呈阳性。
 构词：a- 无 + symptomatic 有症状的
 反义词：
 symptomatic = 有症状的
@@ -389,13 +389,13 @@ at-bat
 核心：棒球术语，指打者"一次上场击球的机会"，从站进击球区到这一
 轮结束为止。统计上它有严格定义：保送、牺牲打这些情况不计入，
 所以打击率的分母用的是它而不是上场次数。
-① He homered in his first at-bat.
-= 他第一个打席就打出全垒打。
+① He homered in his first at-bat and struck out in the next three.
+= 他第一个打席就打出全垒打，接下来三个都三振。
 in one's first at-bat = 在首个打席
-② She had four at-bats in the game.
-= 那场比赛她有四个打席。
-③ Walks do not count as at-bats.
-= 保送不计入打席数。
+② She had four at-bats in the game and reached base in none of them.
+= 那场比赛她有四个打席，一次也没上垒。
+③ Walks do not count as at-bats, which is why the two numbers never match.
+= 保送不计入打席数，所以那两个数字从来对不上。
 注意语域：
 棒球术语，美式语境。
 注意用法：
@@ -405,14 +405,14 @@ at-home
 核心：两层。作形容词指"在家进行的、居家的"，放在名词前面；
 作名词是旧时的社交说法，指主人定下某天在家接待来客的那种
 非正式聚会。
-① They offer at-home testing kits.
-= 他们提供居家检测包。
+① They offer at-home testing kits that post back in a prepaid envelope.
+= 他们提供居家检测包，用预付信封寄回。
 at-home testing = 居家检测
-② At-home working became normal.
-= 居家办公成了常态。
+② At-home working became normal in a single spring and never went back.
+= 居家办公一个春天就成了常态，此后再没变回去。
 at-home working = 居家办公
-③ She held an at-home on Thursdays.
-= 她每周四在家会客。
+③ She held an at-home on Thursdays and served the same three cakes for forty years.
+= 她每周四在家会客，四十年里端出的都是同样三种蛋糕。
 an at-home = 居家会客日（旧时说法）
 注意用法：
 作定语带连字符，名词义偏旧。
@@ -421,14 +421,14 @@ at-risk
 核心：形容词，指"处于风险中的"——面临伤害、失败或被忽视的可能，
 社会工作、教育和医疗里最常用，说的是需要额外关注的那部分人。
 只作定语。
-① The scheme targets at-risk youth.
-= 那个项目针对处境不利的青少年。
+① The scheme targets at-risk youth and is funded a year at a time.
+= 那个项目针对处境不利的青少年，经费一年一批。
 at-risk youth = 处境不利的青少年
-② At-risk patients get the vaccine first.
-= 高风险患者优先接种。
+② At-risk patients get the vaccine first, and the list is redrawn every autumn.
+= 高风险患者优先接种，名单每年秋天重划一次。
 at-risk patients = 高风险患者
-③ Teachers flag at-risk students early.
-= 老师会及早标出需要关注的学生。
+③ Teachers flag at-risk students early and then wait months for anyone to act.
+= 老师及早标出需要关注的学生，然后要等好几个月才有人处理。
 注意用法：
 只作定语，不作表语。
 注意语域：
@@ -437,13 +437,13 @@ at-risk patients = 高风险患者
 atavistic
 核心：指行为或特征"返祖的"——回到远祖那种原始状态。
 多用于描述本能性的冲动。
-① He felt an atavistic fear.
-= 他生出一种原始的恐惧。
+① He felt an atavistic fear of the dark water and could not explain it.
+= 他对那片黑水生出一种原始的恐惧，自己也说不清。
 atavistic fear = 返祖般的恐惧
-② The urge was atavistic.
-= 那种冲动近乎本能。
-③ Atavistic traits reappeared.
-= 返祖特征重新出现。
+② The urge was atavistic and survived three generations of city living.
+= 那种冲动近乎本能，熬过了三代人的城市生活。
+③ Atavistic traits reappeared in a breed that had been selected against them.
+= 在一个专门反向选育的品种里，返祖特征重新出现了。
 词族：
 atavism = 返祖现象
 注意发音：/ˌætəˈvɪstɪk/
@@ -456,14 +456,14 @@ ataxia
 核心：神经科名词，指"共济失调"——肌肉有力气，但协调不上，
 所以走路摇晃、拿东西过头或不到位、说话含糊。病灶多在小脑。
 形容词是 ataxic。
-① Cerebellar damage causes ataxia.
-= 小脑损伤会导致共济失调。
+① Cerebellar damage causes ataxia, and the patient knows exactly what is wrong.
+= 小脑损伤会导致共济失调，而患者对自己哪里出了问题一清二楚。
 cause ataxia = 导致共济失调
-② His gait became ataxic.
-= 他的步态变得摇晃不稳。
+② His gait became ataxic and he was stopped twice by police who thought he was drunk.
+= 他的步态变得摇晃不稳，两次被警察当成醉汉拦下。
 ataxic = 共济失调的
-③ Ataxia is not the same as weakness.
-= 共济失调不等于无力。
+③ Ataxia is not the same as weakness, and treating it as such wastes years.
+= 共济失调不等于无力，当成无力来治要浪费好几年。
 注意语域：
 神经病学术语。
 注意别混：
@@ -474,13 +474,13 @@ atelier
 核心：法语借词，指艺术家或时装设计师的"工作室"——不只是画画的
 房间，还含着"有师傅带徒弟、一群人在里面做活"的意思。
 高级定制时装屋里做衣服的部门就叫这个。
-① She trained in a Paris atelier.
-= 她在巴黎的一间工作室里学的手艺。
+① She trained in a Paris atelier where nobody was allowed to cut cloth for two years.
+= 她在巴黎一间工作室学手艺，头两年谁都不许碰剪刀裁布。
 train in an atelier = 在工作室里受训
-② The atelier employs twenty seamstresses.
-= 那间工坊雇了二十位缝纫师。
-③ Sketches covered the atelier walls.
-= 工作室墙上贴满了草图。
+② The atelier employs twenty seamstresses and takes on one apprentice a year.
+= 那间工坊雇了二十位缝纫师，每年只收一名学徒。
+③ Sketches covered the atelier walls three deep and none of them was dated.
+= 工作室墙上贴满了草图，叠了三层，没有一张标着日期。
 注意语域：
 艺术与时装用语，法语借词。
 近义对照：
