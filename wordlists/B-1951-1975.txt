@@ -2,13 +2,13 @@ backlot
 核心：制片厂围墙内的"外景场地"——搭着常设的街景、房屋立面和
 广场，拍外景不用真的出门。省钱、可控、还能反复用，
 所以老片里的纽约街头常常是同一条。
-① They shot the chase on the backlot.
-= 那场追逐是在外景场地拍的。
+① They shot the chase on the backlot and cut in two seconds of real street.
+= 那场追逐是在外景场地拍的，只剪进了两秒真实街景。
 shoot on the backlot = 在外景场地拍摄
-② The backlot has a fake town square.
-= 那片场地上有个假的市镇广场。
-③ Tours run through the studio backlot.
-= 参观路线会穿过制片厂外景地。
+② The backlot has a fake town square that has played eleven different towns.
+= 那片场地上有个假的市镇广场，演过十一个不同的镇子。
+③ Tours run through the studio backlot and stop where the walls are unpainted.
+= 参观路线穿过制片厂外景地，走到没刷漆的那面墙就停。
 注意语域：
 电影制作用语。
 
@@ -16,13 +16,13 @@ backmarker
 核心：比赛里"排在最后面的选手或车手"。在方程式赛车里它有专门的
 麻烦：领先者要套他一圈，他必须让路，一让不好就出事故。
 也泛指任何领域里垫底的那一个。
-① The leader lapped a backmarker.
-= 领先车手套了一名垫底车手一圈。
+① The leader lapped a backmarker on the last corner and lost two seconds doing it.
+= 领先车手在最后一个弯套了一名垫底车手一圈，为此丢了两秒。
 lap a backmarker = 套圈
-② Backmarkers must show blue flags respect.
-= 被套圈的车手看到蓝旗必须让路。
-③ The firm is a backmarker in its sector.
-= 那家公司在同行里垫底。
+② Backmarkers must show blue flags respect and are fined when they do not.
+= 被套圈的车手看到蓝旗必须让路，不让就要罚款。
+③ The firm is a backmarker in its sector and has been for a decade.
+= 那家公司在同行里垫底，已经垫了十年。
 注意语域：
 赛车术语，也用于泛指垫底者。
 
@@ -41,14 +41,14 @@ backpack
 核心：指"双肩背包"——两条肩带背在背上，重量落在两肩和腰，
 所以能背得更久更重。作动词指"背包旅行"，背包客叫 backpacker。
 英式也说 rucksack。
-① She stuffed the backpack with gear.
-= 她把装备塞进背包。
+① She stuffed the backpack with gear and could not lift it off the floor.
+= 她把装备塞进背包，结果从地上都提不起来。
 stuff a backpack = 塞满背包
-② They backpacked across Asia.
-= 他们背包穿越了亚洲。
+② They backpacked across Asia on less than a hotel would have cost.
+= 他们背包穿越亚洲，花的钱还不如住一趟酒店。
 backpack = 背包旅行（动词）
-③ Backpackers filled the hostel.
-= 青旅里住满了背包客。
+③ Backpackers filled the hostel and left it cleaner than they found it.
+= 青旅里住满了背包客，他们走时把那儿收拾得比来时还干净。
 backpacker = 背包客
 注意地域：
 backpack = 双肩背包（美式，英式也通用）
@@ -58,13 +58,13 @@ backplane
 核心：电子设备里那块"背板"——一块印刷电路板，上面排着一排插槽，
 各功能卡插上去就通过它互相连通。它本身不做运算，
 只负责搭线和供电。
-① The card plugs into the backplane.
-= 那块卡插在背板上。
+① The card plugs into the backplane and is held by a single screw.
+= 那块卡插在背板上，只靠一颗螺丝固定。
 plug into the backplane = 插入背板
-② A failed backplane kills every slot.
-= 背板一坏，所有插槽都废。
-③ The backplane carries power and data.
-= 背板同时走电和走数据。
+② A failed backplane kills every slot and looks exactly like eight card failures.
+= 背板一坏所有插槽都废，看上去却像八块卡同时坏了。
+③ The backplane carries power and data and does no computing at all.
+= 背板同时走电和走数据，自己不做任何运算。
 注意语域：
 电子与计算机硬件用语。
 插接对照：
@@ -74,14 +74,14 @@ motherboard = 主板（自身带处理器与芯片组）
 backrest
 核心：椅子、座位或器械上供人靠背的那一部分。健身椅、汽车座椅、
 病床都说这个词，强调的是"可调、可拆"的那块靠板。
-① Adjust the backrest before lifting.
-= 举铁之前先调好靠背。
+① Adjust the backrest before lifting, not after the first set.
+= 举铁之前先调好靠背，别等做完第一组再调。
 adjust the backrest = 调整靠背
-② The seat has a padded backrest.
-= 那个座椅有软垫靠背。
+② The seat has a padded backrest that flattens within a year of use.
+= 那个座椅有软垫靠背，用上一年就压平了。
 a padded backrest = 加软垫的靠背
-③ She raised the bed's backrest.
-= 她把病床的靠背摇了起来。
+③ She raised the bed's backrest so he could see out of the window.
+= 她把病床的靠背摇起来，好让他看得见窗外。
 注意别混：
 backrest = 靠背（可调的那块板）
 back = 椅背（椅子的整个后部）
