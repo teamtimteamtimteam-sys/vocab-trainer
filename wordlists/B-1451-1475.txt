@@ -59,21 +59,21 @@ around
 核心：底层是"环绕"。绕着转、在周围、到处、以及"大约"——和 about
 高度重合，美式更常用 around。come around 和 turn around 是高频
 短语动词。
-① They sat around the table.
-= 他们围坐在桌旁。
-② Is there anyone around?
-= 附近有人吗？
-③ He travelled around Europe.
-= 他游遍了欧洲。
-④ It costs around £20.
-= 那大约二十英镑。
+① They sat around the table for three hours without reaching a decision.
+= 他们围坐在桌旁三个钟头，没做出决定。
+② Is there anyone around who knows how to reset the alarm?
+= 附近有谁知道怎么重置警报器吗？
+③ He travelled around Europe for a year on a rail pass and a tent.
+= 他拿着一张火车通票和一顶帐篷在欧洲游了一年。
+④ It costs around twenty pounds, which is less than the parking would be.
+= 那大约二十英镑，比停车费还便宜。
 这里：
 around = 大约
-⑤ Turn around.
-= 转过身来。
+⑤ Turn around slowly and keep your hands where I can see them.
+= 慢慢转过身来，手放在我看得见的地方。
 turn around = 转身；扭转局面
-⑥ Come around tonight.
-= 今晚过来吧。
+⑥ Come around tonight and bring whatever is left of the cake.
+= 今晚过来吧，蛋糕剩下多少都带来。
 come around = 顺道来访
 注意英美差别：
 美式多用 around，英式 about 更常见。
@@ -267,24 +267,24 @@ array 是战阵）。摆得多而齐整，就成了名词的"一大批陈列"；
 摆的是数据，就成了编程里的"数组"；摆的是电池板，就是"阵列"。
 另有一支从"给自己列开"来，指盛装打扮，只用被动 arrayed in，
 是文学腔。
-① There was an array of dishes.
-= 摆了一大桌菜。
+① There was an array of dishes down the length of the table.
+= 桌子从头到尾摆了一大排菜。
 an array of = 一大批、一整排
-② She faced a dazzling array of choices.
-= 她面对眼花缭乱的选择。
+② She faced a dazzling array of choices and picked the first one she saw.
+= 她面对眼花缭乱的选择，挑了看到的第一个。
 a dazzling array = 琳琅满目
 摆得多而齐，重点在气派。
-③ Store it in an array.
-= 把它存进数组里。
+③ Store it in an array and you can reach any element by its number.
+= 把它存进数组里，按编号就能取到任何一项。
 array = 数组（编程术语，一排编了号的格子）
-④ Solar arrays power the station.
-= 太阳能电池阵为空间站供电。
+④ Solar arrays power the station and fold flat for the launch.
+= 太阳能电池阵为空间站供电，发射时能折平。
 solar array = 太阳能电池阵
-⑤ The troops stood in battle array.
-= 部队列成了战阵。
+⑤ The troops stood in battle array on a plain with no cover at all.
+= 部队在一片毫无遮蔽的平原上列成了战阵。
 battle array = 战斗队形（最老的一层意思）
-⑥ She was arrayed in silk.
-= 她一身绸缎盛装。
+⑥ She was arrayed in silk from the collar to the hem of the gown.
+= 她从领口到裙摆一身绸缎盛装。
 be arrayed in = 身着（文学用法）
 给自己"列开"，就是打扮起来。
 

@@ -119,11 +119,14 @@ def main(argv):
 
     # 通道 5：拼写变体之间跨词条比。先按「首字母 + 长度相近」分桶，
     # 桶内才算编辑距离 —— 全表两两比是 5841 的平方，跑不动。
+    # 限定了词头时，配对池仍取**全表** —— 只在这一批 10 条里互相配，
+    # armour 就永远等不到 armor（它不在这一批里）。配完再筛：
+    # 至少有一头是这次要看的词，才报出来。GOAL 里「回填走到其中一个时
+    # 顺手把变体伙伴一起改掉」这条，靠的就是这里取全表。
     ch5 = []
-    if not heads or len(heads) > 1:
+    if True:
         pool = [(h, L) for h, L in ap.entries()
-                if (not seg or h.lower().startswith(seg))
-                and (not heads or h.lower() in heads)]
+                if (not seg or h.lower().startswith(seg)) or heads]
         bucket = {}
         for h, L in pool:
             f = ap.fold(h).replace(' ', '')
@@ -136,6 +139,8 @@ def main(argv):
                 for f2, h2, L2 in rows[i + 1:]:
                     if len(f2) - len(f1) > 2: break
                     if f1 != f2 and ap.dist(f1, f2) <= 2:
+                        if heads and not (h1.lower() in heads or h2.lower() in heads):
+                            continue
                         pairs.append((h1, L1, h2, L2))
         for h1, L1, h2, L2 in pairs:
             for e1, b1 in ap.senses(L1):

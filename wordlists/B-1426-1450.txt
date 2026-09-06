@@ -274,47 +274,47 @@ armorial crest = 纹章徽饰
 armour
 核心：三条线：中世纪的"盔甲"、车辆的"装甲"、
 以及集合指"装甲部队"。不可数。美式拼 armor。
-① The knight wore armour.
-= 那名骑士穿着盔甲。
+① The knight wore armour so heavy that two squires had to lift him onto the horse.
+= 那名骑士穿的盔甲重到要两个侍从才能把他扶上马。
 suit of armour = 一套盔甲
-② The tank has thick armour.
-= 那辆坦克装甲很厚。
-③ Armour led the advance.
-= 装甲部队打了先锋。
-④ It's a chink in his armour.
-= 那是他的一个软肋。
+② The tank has thick armour at the front and almost none on the roof.
+= 那辆坦克正面装甲很厚，顶上几乎没有。
+③ Armour led the advance and the infantry came up behind at first light.
+= 装甲部队打了先锋，步兵天刚亮跟了上来。
+④ It's a chink in his armour that everyone at the table had already noticed.
+= 那是他的一个软肋，桌上的人早就看出来了。
 a chink in one's armour = 弱点
 注意英美拼写：
 armour = 盔甲；装甲（英式拼法）
 armor = 盔甲；装甲（美式拼法）
 词族：
 armoured = 装甲的
-⑤ The car is armour-plated.
-= 那辆车装了装甲板。
+⑤ The car is armour-plated and weighs almost twice what the same model normally does.
+= 那辆车装了装甲板，比同款正常车重了将近一倍。
 armour-plated = 装甲的
 armor-plated = 装甲的（美式拼法）
-⑥ The armourer maintained the swords.
-= 军械师保养那些刀剑。
+⑥ The armourer maintained the swords and kept a ledger of every blade issued.
+= 军械师保养那些刀剑，还记着每把出库刀的账。
 armourer = 军械师、盔甲匠
 
 armoured
 核心：指"装甲的、有防护的"。常见搭配
 armoured vehicle、armoured car、armoured division。
-① An armoured vehicle arrived.
-= 一辆装甲车到了。
+① An armoured vehicle arrived at the gate and nobody was allowed past it.
+= 一辆装甲车开到大门口，谁也不许过去。
 armoured vehicle = 装甲车
-② Cash goes in an armoured car.
-= 现金用押运车运送。
+② Cash goes in an armoured car twice a week, always at a different hour.
+= 现金一周两次用押运车运送，每次时间都不一样。
 armoured car = 运钞车
-③ The armoured division advanced.
-= 装甲师推进了。
+③ The armoured division advanced forty miles before it ran out of fuel.
+= 装甲师推进了四十英里，然后燃油耗尽。
 armoured division = 装甲师
 注意英美拼写：
 armoured = 装甲的（英式拼法）
 armored = 装甲的（美式拼法）
 词族：armour、armoury
-④ Troops advanced in armoured personnel carriers.
-= 部队乘装甲运兵车推进。
+④ Troops advanced in armoured personnel carriers along a road cleared that morning.
+= 部队乘装甲运兵车，沿着当天上午刚清理过的路推进。
 armoured personnel carrier = 装甲运兵车
 
 armoury
@@ -369,24 +369,24 @@ headrest 头枕 / footrest 脚踏
 arms
 核心：指武器，永远用复数，是正式和法律用语。
 习语很多：take up arms、up in arms、arms race。
-① They laid down their arms.
-= 他们放下了武器。
+① They laid down their arms at the church gate and walked home unarmed.
+= 他们在教堂门口缴了械，空着手走回家。
 lay down arms = 缴械
-② The country sells arms.
-= 那个国家出售武器。
+② The country sells arms to both sides and denies it in public.
+= 那个国家向双方都卖武器，公开场合却否认。
 arms trade = 军火贸易
-③ Staff are up in arms.
-= 员工们群情激愤。
+③ Staff are up in arms about a rota drawn up without a single consultation.
+= 排班表没跟任何人商量就定了，员工群情激愤。
 be up in arms = 强烈抗议
-④ They took up arms.
-= 他们拿起了武器。
+④ They took up arms after the third village was burned that winter.
+= 那年冬天第三个村子被烧之后，他们拿起了武器。
 take up arms = 起兵反抗
-⑤ The arms race drained both economies.
-= 那场军备竞赛把两国经济都拖垮了。
+⑤ The arms race drained both economies for a generation and settled nothing.
+= 那场军备竞赛把两国经济拖垮了一代人，什么也没解决。
 arms race = 军备竞赛
 注意：arms 作"武器"讲永远用复数。
-⑥ The treaty tightened arms control.
-= 那份条约收紧了军备控制。
+⑥ The treaty tightened arms control but left the older stockpiles untouched.
+= 那份条约收紧了军备控制，却没动那些老库存。
 arms control = 军备控制
 
 army

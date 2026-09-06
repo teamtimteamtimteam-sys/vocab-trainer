@@ -253,13 +253,13 @@ fringing reef = 岸礁（贴岸）
 atom
 核心：指原子——化学元素的最小单位。
 比喻义 not an atom of 表示"一点也没有"。
-① An atom has a nucleus.
-= 原子有个原子核。
+① An atom has a nucleus that holds nearly all of its mass.
+= 原子有个原子核，几乎全部质量都在里面。
 nucleus = 原子核
-② Atoms combine to form molecules.
-= 原子结合成分子。
-③ There's not an atom of truth in it.
-= 那里面一点真话都没有。
+② Atoms combine to form molecules, and the same atoms make very different things.
+= 原子结合成分子，同样的原子能造出差别极大的东西。
+③ There's not an atom of truth in it, and the paper printed it anyway.
+= 那里面一点真话都没有，报纸还是登了。
 not an atom of = 丝毫没有
 词族：
 atomic = 原子的
@@ -268,15 +268,15 @@ atom = 原子
 molecule = 分子
 particle = 粒子
 element = 元素
-④ Atomism reduces matter to indivisible units.
-= 原子论把物质归结为不可分的单元。
+④ Atomism reduces matter to indivisible units and is older than any laboratory.
+= 原子论把物质归结为不可分的单元，比任何实验室都古老。
 atomism = 原子论
 atomistic = 原子论的、拆解成小单元的
-⑤ The nozzle atomizes the liquid.
-= 喷嘴把液体雾化。
+⑤ The nozzle atomizes the liquid into a mist fine enough to hang in the air.
+= 喷嘴把液体雾化成能悬在空中的细雾。
 atomize = 雾化；使粉碎
-⑥ She refilled the atomizer.
-= 她给喷雾器续了液。
+⑥ She refilled the atomizer from a bottle she had carried for twenty years.
+= 她用一个带了二十年的瓶子给喷雾器续了液。
 atomizer = 喷雾器
 
 atomic
