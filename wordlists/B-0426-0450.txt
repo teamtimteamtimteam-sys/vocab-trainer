@@ -1,13 +1,13 @@
 advert
 核心：英式口语里 advertisement 的简写，就是"广告"。
 美式说 ad。另有一个正式动词 advert to，意为"提及"，很少用。
-① I saw an advert in the paper.
-= 我在报上看到一则广告。
-② They ran a TV advert.
-= 他们播了个电视广告。
+① I saw an advert in the paper for a job that no longer existed.
+= 我在报上看到一则招聘广告，那个岗位其实已经没了。
+② They ran a TV advert once and the phone did not stop for a week.
+= 他们播了一次电视广告，电话一周没停过。
 run an advert = 投放广告
-③ The advert was misleading.
-= 那则广告有误导性。
+③ The advert was misleading and the regulator made them withdraw it.
+= 那则广告有误导性，监管机构让他们撤了下来。
 常用搭配：
 classified advert = 分类广告
 recruitment advert = 招聘广告
@@ -18,8 +18,8 @@ ad = 广告（美式简写）
 commercial = 电视广播广告（美式）
 词族：
 advertise = 打广告
-④ The page is really an advertorial.
-= 那一版其实是软文广告。
+④ The page is really an advertorial and says so in very small print.
+= 那一版其实是软文广告，用极小的字注明了。
 advertorial = 软文广告
 
 advertise
@@ -55,19 +55,19 @@ advertiser = 广告主
 advertisement
 核心：正式的"广告"一词。英美重音位置差别很大，是个经典发音难点。
 可数，介词用 for。
-① He placed an advertisement.
-= 他登了则广告。
+① He placed an advertisement and had forty replies before the weekend.
+= 他登了则广告，周末之前就收到四十个回复。
 place an advertisement = 刊登广告
-② It's an advertisement for a job.
-= 那是则招聘广告。
+② It's an advertisement for a job that pays less than the last one did.
+= 那是则招聘广告，给的钱比上一份还少。
 an advertisement for = …的广告
-③ Advertisements fund the site.
-= 广告为那个网站提供资金。
+③ Advertisements fund the site and decide what appears at the top.
+= 广告为那个网站提供资金，也决定了什么排在最前。
 常用搭配：
 full-page advertisement = 整版广告
 misleading advertisement = 虚假广告
-④ The paper carries classified advertisements at the back.
-= 那份报纸后面登分类广告。
+④ The paper carries classified advertisements at the back and nothing else sells.
+= 那份报纸后面登分类广告，别的版面都卖不动。
 a classified advertisement = 分类广告
 注意发音：
 英式 /ədˈvɜːtɪsmənt/ 重音在第二音节
@@ -135,13 +135,13 @@ advice columnist = 答疑专栏作者
 advisable
 核心：指"明智的、可取的"，几乎总用于 it is advisable to do 这个
 结构，用来给出建议。语气比 should 委婉、正式。
-① It is advisable to book early.
-= 建议早点预订。
+① It is advisable to book early, especially for the week after Easter.
+= 建议早点预订，复活节后那一周尤其如此。
 it is advisable to do = 建议做
-② It would be advisable to wait.
-= 等一等比较妥当。
-③ Vaccination is advisable.
-= 建议接种疫苗。
+② It would be advisable to wait until the survey has come back.
+= 等勘验报告回来再说比较妥当。
+③ Vaccination is advisable for anyone travelling east of the river.
+= 凡是要去河东边的人，都建议接种疫苗。
 常用搭配：
 highly advisable = 强烈建议
 deemed advisable = 认为可取
@@ -151,8 +151,8 @@ advisable 可取的 / inadvisable 不明智的
 advise = 建议
 注意：advisable 一般不直接修饰人，
 不说 an advisable person。
-④ They questioned the advisability of the plan.
-= 他们质疑这个计划是否明智。
+④ They questioned the advisability of the plan and were told to proceed.
+= 他们质疑这个计划是否明智，得到的答复是照做。
 advisability = 是否明智、可取性
 
 advise
@@ -182,19 +182,19 @@ take under advisement = 郑重考虑（美式）
 adviser
 核心：指顾问、指导老师。拼写 adviser 和 advisor 都对——
 英式偏 adviser，美式两者都常见。介词用 to 或 on。
-① She is an adviser to the president.
-= 她是总统顾问。
+① She is an adviser to the president and speaks to him twice a week.
+= 她是总统顾问，一周跟他谈两次。
 adviser to = …的顾问
-② He is a financial adviser.
-= 他是理财顾问。
+② He is a financial adviser who charges by the hour rather than the product.
+= 他是理财顾问，按小时收费，不按卖出的产品收。
 financial adviser = 财务顾问
-③ Consult your academic adviser.
-= 咨询你的学业导师。
+③ Consult your academic adviser before you drop the second module.
+= 退掉第二门课之前，先咨询你的学业导师。
 常用搭配：
 legal adviser = 法律顾问
 special adviser = 特别顾问
-④ He advises on tax matters.
-= 他就税务事宜提供咨询。
+④ He advises on tax matters and has never filed his own return on time.
+= 他就税务事宜提供咨询，自己的报税表从没按时交过。
 注意拼写：
 adviser / advisor 都可以，
 英式文本更常见 adviser。
@@ -202,17 +202,17 @@ adviser / advisor 都可以，
 advisory
 核心：形容词指"咨询性质的、只提建议不作决定的"；名词指官方发布的
 "警示公告"（weather advisory）。后者美式更常用。
-① He serves in an advisory role.
-= 他担任顾问角色。
+① He serves in an advisory role and attends about half the meetings.
+= 他担任顾问角色，会开一半左右。
 in an advisory role = 以顾问身份
-② It's an advisory committee.
-= 那是个咨询委员会。
+② It's an advisory committee whose recommendations have never been followed.
+= 那是个咨询委员会，它的建议从没被采纳过。
 advisory committee = 咨询委员会
-③ A travel advisory was issued.
-= 发布了旅行警示。
+③ A travel advisory was issued the morning after the airport reopened.
+= 机场重开后的第二天早上，发布了旅行警示。
 travel advisory = 旅行警示
-④ The board is purely advisory.
-= 那个委员会只有建议权。
+④ The board is purely advisory and everybody on it knows it.
+= 那个委员会只有建议权，里面每个人都清楚。
 常用搭配：
 advisory board = 顾问委员会
 advisory capacity = 顾问身份
