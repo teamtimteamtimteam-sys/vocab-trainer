@@ -142,6 +142,18 @@ def main(argv):
                         if heads and not (h1.lower() in heads or h2.lower() in heads):
                             continue
                         pairs.append((h1, L1, h2, L2))
+        # 明确点名了一批词头时，这一批**内部**两两都配上 —— 不限于拼写变体。
+        # bicycle 与 bike 就是这么抓到的：它们是同义词不是变体，编辑距离
+        # 差得远，配不成对，可两条词条里「走自行车道」「停到车架上」
+        # 各写了一遍。同一批里两两比只有几十对，白捡的。
+        if heads and len(heads) > 1:
+            named = [(h, L) for h, L in ap.entries() if h.lower() in heads]
+            seen = set((a, b) for a, _, b, _ in pairs)
+            for i, (h1, L1) in enumerate(named):
+                for h2, L2 in named[i + 1:]:
+                    if (h1, h2) not in seen and (h2, h1) not in seen:
+                        pairs.append((h1, L1, h2, L2))
+
         for h1, L1, h2, L2 in pairs:
             for e1, b1 in ap.senses(L1):
                 for e2, b2 in ap.senses(L2):
@@ -165,8 +177,8 @@ def main(argv):
     show('通道2 两条都没有等式，译文相似 ≥%.1f' % T_ZH, ch2, '没有等式可搬，判定重复就直接删')
     show('通道3 译文相似 ≥%.1f（至少一条有等式）' % T_ZH, ch3, '删之前先把不重复的等式搬过去')
     show('通道4 实词骨架 Jaccard ≥%.1f' % T_SK, ch4, '多半是只换了代词或介词')
-    show('通道5 拼写变体之间（跨词条）', ch5,
-         '英美拼法各占一条，两边例句撞车 —— 让它们各走各的场景，别删词条')
+    show('通道5 跨词条（拼写变体；点名时这一批内部也两两比）', ch5,
+         '两条词条都得留着，撞车了就让它们各走各的场景，别删词条')
     print('\n合计候选 %d 对。**这是候选，不是判决** —— '
           '最常见的情况是等式没写出区别，那就改等式，别删义项。'
           % (len(ch2) + len(ch3) + len(ch4) + len(ch5)))
