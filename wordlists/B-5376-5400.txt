@@ -2,20 +2,20 @@ corpus
 核心：三支。一是语料库：为语言研究收集的一大批真实语料；
 二是一位作者或一个领域的全部作品；三是解剖上的体。复数
 是 corpora，不说 corpuses。
-① The corpus holds a billion words.
-= 那个语料库有十亿词。
+① The corpus holds a billion words and grows by a million every month.
+= 那个语料库有十亿词，每月还增加一百万。
 a corpus = 语料库
-② Corpus linguistics changed dictionary work.
-= 语料库语言学改变了词典编纂。
+② Corpus linguistics changed dictionary work by showing what people actually say.
+= 语料库语言学让人看见人们实际怎么说，从而改变了词典编纂。
 corpus linguistics = 语料库语言学
-③ Her corpus runs to twelve volumes.
-= 她的全部作品有十二卷。
+③ Her corpus runs to twelve volumes and half of it was published posthumously.
+= 她的全部作品有十二卷，其中一半是身后出版的。
 a corpus = 全部作品
-④ Both corpora are freely available.
-= 那两个语料库都可以免费用。
+④ Both corpora are freely available to anyone who signs a licence.
+= 那两个语料库对任何签了许可协议的人都免费开放。
 corpora = 语料库（复数）
-⑤ The prosecution must establish the corpus delicti.
-= 控方必须先确立犯罪事实。
+⑤ The prosecution must establish the corpus delicti before naming a suspect.
+= 控方必须先确立犯罪事实，才谈得上指认嫌疑人。
 corpus delicti = 犯罪事实、罪体（法律拉丁语）
 常被误解成「尸体」，其实指的是能证明确有其罪的那一组客观事实。
 构词：拉丁语 corpus 身体、整体
@@ -199,20 +199,20 @@ corrode
 被慢慢侵蚀，重点在「一点点」，不是一下子毁掉。名词
 corrosion，形容词 corrosive 一是腐蚀性的、二是说言辞刻薄
 伤人。
-① Salt corrodes the underside of cars.
-= 盐会腐蚀车底。
+① Salt corrodes the underside of cars faster than anything else on the road.
+= 路上的东西里，盐腐蚀车底最快。
 corrode = 腐蚀
-② Doubt corroded their trust.
-= 疑心一点点蚀掉了他们的信任。
+② Doubt corroded their trust over a period of about two years.
+= 疑心用了大约两年，一点点蚀掉了他们的信任。
 corrode trust = 侵蚀信任
-③ Corrosion had eaten through the pipe.
-= 腐蚀把管子蚀穿了。
+③ Corrosion had eaten through the pipe at the one joint nobody could see.
+= 腐蚀把管子蚀穿了，穿的正是谁也看不见的那个接头。
 corrosion = 腐蚀
-④ The acid is highly corrosive.
-= 那种酸腐蚀性很强。
+④ The acid is highly corrosive and eats through most plastics as well.
+= 那种酸腐蚀性很强，多数塑料也扛不住。
 corrosive = 腐蚀性的
-⑤ She has a corrosive wit.
-= 她那张嘴刻薄伤人。
+⑤ She has a corrosive wit that costs her a friend about once a year.
+= 她那张嘴刻薄伤人，大约一年要因此丢一个朋友。
 corrosive wit = 刻薄伤人的机锋
 构词：拉丁语 corrodere 一点点啃掉
 注意用法：引申义说慢慢侵蚀，不是一下子毁掉。
