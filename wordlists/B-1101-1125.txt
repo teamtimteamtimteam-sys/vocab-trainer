@@ -356,14 +356,14 @@ answerable = 需要交代的、负有责任的
 answerable
 核心：指"须对某人负责的"，介词用 to（对谁）和 for（对什么）。
 和 accountable 基本同义。
-① He is answerable to the board.
-= 他要对董事会负责。
+① He is answerable to the board for every decision that costs more than a thousand pounds.
+= 凡是花费超过一千英镑的决定，他都要向董事会交代。
 answerable to = 向…负责
-② She is answerable for the funds.
-= 她要为那笔资金负责。
+② She is answerable for the funds and signs every cheque the charity issues.
+= 她要为那笔资金负责，慈善机构开出的每张支票都由她签字。
 answerable for = 对…负有责任
-③ Ministers are answerable to Parliament.
-= 部长要对议会负责。
+③ As sole owner he was answerable to nobody, which suited him and ruined the business.
+= 作为独资老板他不必对任何人负责，这合他的意，也毁了那门生意。
 词族：
 answer = 回答；负责
 近义对照：
@@ -374,13 +374,13 @@ responsible = 有责任的（通用）
 answering machine
 核心：接电话的机器——没人接时替你放一段录音，再把对方的留言录下来。
 英式常说 answerphone，如今多被运营商的语音信箱取代。
-① Leave a message on the answering machine.
-= 在电话答录机上留言。
+① Leave a message on the answering machine and he will call back within the hour.
+= 在电话答录机上留言，他一小时内会回电。
 leave a message = 留言
-② The answering machine was full.
-= 答录机存满了。
-③ Her answering machine picked up after four rings.
-= 响了四声后答录机接了起来。
+② The answering machine was full, which was the first sign that nobody had been home for weeks.
+= 答录机存满了，这是家里几周没人的头一个迹象。
+③ Her answering machine picked up after four rings, and hearing her voice was worse than silence.
+= 响了四声后她的答录机接了起来，听见她的声音比一片寂静更难受。
 pick up = 接起电话
 注意地域：
 美式说 answering machine，英式常说 answerphone。
@@ -411,14 +411,14 @@ ant lion = 蚁狮（幼虫挖漏斗坑捕蚁）
 antacid
 核心：指"抗酸药"——中和胃酸的药，碳酸钙、氢氧化铝这一类，
 吃下去几分钟就能缓解烧心和胃灼热。也作形容词。
-① She took an antacid after dinner.
-= 她饭后吃了片抗酸药。
+① She took an antacid after dinner and another one before she went to bed.
+= 她饭后吃了片抗酸药，睡前又吃了一片。
 take an antacid = 服抗酸药
-② Antacids neutralize stomach acid.
-= 抗酸药能中和胃酸。
+② Antacids neutralize stomach acid within minutes but do nothing about what caused it.
+= 抗酸药几分钟内就能中和胃酸，却对病因毫无办法。
 neutralize stomach acid = 中和胃酸
-③ Antacid tablets are sold over the counter.
-= 抗酸药片是非处方药。
+③ Antacid tablets are sold over the counter, which is why people take them for years unchecked.
+= 抗酸药片是非处方药，所以有人一吃就是几年，从没查过。
 antacid tablet = 抗酸药片
 注意语域：
 药学与日常用药语境。
@@ -426,14 +426,14 @@ antacid tablet = 抗酸药片
 antagonism
 核心：指双方之间公开的"对立、敌对"，不可数。
 介词用 between 或 towards。
-① There is antagonism between them.
-= 他们之间存在对立。
+① There is antagonism between the two departments that no reorganisation has ever fixed.
+= 那两个部门之间存在对立，历次重组都没能解决。
 antagonism between = 之间的敌对
-② He showed open antagonism.
-= 他表现出公开的敌意。
+② He showed open antagonism at the meeting and did not trouble to explain it afterwards.
+= 他在会上表现出公开的敌意，事后也懒得解释。
 open antagonism = 公开对抗
-③ Antagonism towards reform grew.
-= 对改革的抵触加深了。
+③ Antagonism towards reform grew as each new rule arrived without warning.
+= 新规矩一条条不打招呼就来，对改革的抵触也随之加深。
 词族：
 antagonist = 对手
 antagonize = 使敌对
@@ -445,13 +445,13 @@ hostility = 敌意（立场）
 antagonist
 核心：两条线：文学里与主角对立的"反派"，
 和一般意义上的"对手"。生化里还指"拮抗剂"。
-① The antagonist drives the plot.
-= 反派推动了情节。
-② He faced a formidable antagonist.
-= 他遇上了强劲对手。
+① The antagonist drives the plot, and a weak one leaves the hero with nothing to push against.
+= 反派推动情节，反派立不住，主角就无处着力。
+② He faced a formidable antagonist who had beaten him twice already that season.
+= 他遇上了强劲对手，那个赛季对方已经赢过他两回。
 formidable antagonist = 劲敌
-③ The drug is a receptor antagonist.
-= 那种药是受体拮抗剂。
+③ The drug is a receptor antagonist and works by occupying the site without switching it on.
+= 那种药是受体拮抗剂，占住位点却不把它开启，以此起效。
 receptor antagonist = 受体拮抗剂
 配对词：
 protagonist = 主角
@@ -482,13 +482,13 @@ antagonistically = 敌对地
 antagonize
 核心：指"把人惹毛、树敌"——不是一时惹恼，
 而是让对方站到自己对立面。英式也拼 antagonise。
-① Don't antagonize him.
-= 别把他惹翻。
-② The policy antagonized voters.
-= 那项政策让选民离心。
+① Don't antagonize him before the vote; you will need those two seats.
+= 投票之前别把他惹翻，那两个席位你还用得着。
+② The policy antagonized voters who had backed the party all their lives.
+= 那项政策让一辈子支持该党的选民离了心。
 antagonize voters = 得罪选民
-③ He antagonized his colleagues.
-= 他把同事都得罪了。
+③ He antagonized his colleagues one by one and then wondered why nobody defended him.
+= 他把同事一个个得罪光，然后纳闷怎么没人替他说话。
 注意英美拼写：
 antagonise = 惹恼、树敌（英式拼法）
 antagonize = 惹恼、树敌（美式拼法）

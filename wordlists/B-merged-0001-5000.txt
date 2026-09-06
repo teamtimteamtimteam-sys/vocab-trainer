@@ -21267,14 +21267,14 @@ answerable = 需要交代的、负有责任的
 answerable
 核心：指"须对某人负责的"，介词用 to（对谁）和 for（对什么）。
 和 accountable 基本同义。
-① He is answerable to the board.
-= 他要对董事会负责。
+① He is answerable to the board for every decision that costs more than a thousand pounds.
+= 凡是花费超过一千英镑的决定，他都要向董事会交代。
 answerable to = 向…负责
-② She is answerable for the funds.
-= 她要为那笔资金负责。
+② She is answerable for the funds and signs every cheque the charity issues.
+= 她要为那笔资金负责，慈善机构开出的每张支票都由她签字。
 answerable for = 对…负有责任
-③ Ministers are answerable to Parliament.
-= 部长要对议会负责。
+③ As sole owner he was answerable to nobody, which suited him and ruined the business.
+= 作为独资老板他不必对任何人负责，这合他的意，也毁了那门生意。
 词族：
 answer = 回答；负责
 近义对照：
@@ -21285,13 +21285,13 @@ responsible = 有责任的（通用）
 answering machine
 核心：接电话的机器——没人接时替你放一段录音，再把对方的留言录下来。
 英式常说 answerphone，如今多被运营商的语音信箱取代。
-① Leave a message on the answering machine.
-= 在电话答录机上留言。
+① Leave a message on the answering machine and he will call back within the hour.
+= 在电话答录机上留言，他一小时内会回电。
 leave a message = 留言
-② The answering machine was full.
-= 答录机存满了。
-③ Her answering machine picked up after four rings.
-= 响了四声后答录机接了起来。
+② The answering machine was full, which was the first sign that nobody had been home for weeks.
+= 答录机存满了，这是家里几周没人的头一个迹象。
+③ Her answering machine picked up after four rings, and hearing her voice was worse than silence.
+= 响了四声后她的答录机接了起来，听见她的声音比一片寂静更难受。
 pick up = 接起电话
 注意地域：
 美式说 answering machine，英式常说 answerphone。
@@ -21322,14 +21322,14 @@ ant lion = 蚁狮（幼虫挖漏斗坑捕蚁）
 antacid
 核心：指"抗酸药"——中和胃酸的药，碳酸钙、氢氧化铝这一类，
 吃下去几分钟就能缓解烧心和胃灼热。也作形容词。
-① She took an antacid after dinner.
-= 她饭后吃了片抗酸药。
+① She took an antacid after dinner and another one before she went to bed.
+= 她饭后吃了片抗酸药，睡前又吃了一片。
 take an antacid = 服抗酸药
-② Antacids neutralize stomach acid.
-= 抗酸药能中和胃酸。
+② Antacids neutralize stomach acid within minutes but do nothing about what caused it.
+= 抗酸药几分钟内就能中和胃酸，却对病因毫无办法。
 neutralize stomach acid = 中和胃酸
-③ Antacid tablets are sold over the counter.
-= 抗酸药片是非处方药。
+③ Antacid tablets are sold over the counter, which is why people take them for years unchecked.
+= 抗酸药片是非处方药，所以有人一吃就是几年，从没查过。
 antacid tablet = 抗酸药片
 注意语域：
 药学与日常用药语境。
@@ -21337,14 +21337,14 @@ antacid tablet = 抗酸药片
 antagonism
 核心：指双方之间公开的"对立、敌对"，不可数。
 介词用 between 或 towards。
-① There is antagonism between them.
-= 他们之间存在对立。
+① There is antagonism between the two departments that no reorganisation has ever fixed.
+= 那两个部门之间存在对立，历次重组都没能解决。
 antagonism between = 之间的敌对
-② He showed open antagonism.
-= 他表现出公开的敌意。
+② He showed open antagonism at the meeting and did not trouble to explain it afterwards.
+= 他在会上表现出公开的敌意，事后也懒得解释。
 open antagonism = 公开对抗
-③ Antagonism towards reform grew.
-= 对改革的抵触加深了。
+③ Antagonism towards reform grew as each new rule arrived without warning.
+= 新规矩一条条不打招呼就来，对改革的抵触也随之加深。
 词族：
 antagonist = 对手
 antagonize = 使敌对
@@ -21356,13 +21356,13 @@ hostility = 敌意（立场）
 antagonist
 核心：两条线：文学里与主角对立的"反派"，
 和一般意义上的"对手"。生化里还指"拮抗剂"。
-① The antagonist drives the plot.
-= 反派推动了情节。
-② He faced a formidable antagonist.
-= 他遇上了强劲对手。
+① The antagonist drives the plot, and a weak one leaves the hero with nothing to push against.
+= 反派推动情节，反派立不住，主角就无处着力。
+② He faced a formidable antagonist who had beaten him twice already that season.
+= 他遇上了强劲对手，那个赛季对方已经赢过他两回。
 formidable antagonist = 劲敌
-③ The drug is a receptor antagonist.
-= 那种药是受体拮抗剂。
+③ The drug is a receptor antagonist and works by occupying the site without switching it on.
+= 那种药是受体拮抗剂，占住位点却不把它开启，以此起效。
 receptor antagonist = 受体拮抗剂
 配对词：
 protagonist = 主角
@@ -21393,13 +21393,13 @@ antagonistically = 敌对地
 antagonize
 核心：指"把人惹毛、树敌"——不是一时惹恼，
 而是让对方站到自己对立面。英式也拼 antagonise。
-① Don't antagonize him.
-= 别把他惹翻。
-② The policy antagonized voters.
-= 那项政策让选民离心。
+① Don't antagonize him before the vote; you will need those two seats.
+= 投票之前别把他惹翻，那两个席位你还用得着。
+② The policy antagonized voters who had backed the party all their lives.
+= 那项政策让一辈子支持该党的选民离了心。
 antagonize voters = 得罪选民
-③ He antagonized his colleagues.
-= 他把同事都得罪了。
+③ He antagonized his colleagues one by one and then wondered why nobody defended him.
+= 他把同事一个个得罪光，然后纳闷怎么没人替他说话。
 注意英美拼写：
 antagonise = 惹恼、树敌（英式拼法）
 antagonize = 惹恼、树敌（美式拼法）
@@ -21412,14 +21412,14 @@ provoke = 激怒（引发反应）
 Antarctic
 核心：指南极地区，大写。和 Arctic（北极）配对。
 注意拼写里有两个 c，第一个常被漏掉。
-① They sailed to the Antarctic.
-= 他们航行到南极。
+① They sailed to the Antarctic and spent nine days waiting for the ice to open.
+= 他们航行到南极，花了九天等冰裂开。
 the Antarctic = 南极地区
-② Antarctic ice is melting.
-= 南极冰在融化。
+② Antarctic ice is melting from underneath, where the warm water reaches it first.
+= 南极冰在从底下融化，暖水最先到达的正是那里。
 Antarctic ice = 南极冰盖
-③ The Antarctic Treaty protects it.
-= 《南极条约》保护着那里。
+③ The Antarctic Treaty protects it by suspending every territorial claim rather than settling any.
+= 《南极条约》保护那里的办法是把所有领土主张搁置，而不是裁定谁对。
 配对词：
 Antarctic = 南极
 Arctic = 北极
@@ -21451,14 +21451,14 @@ anteater
 核心：中南美洲的一种哺乳动物，没有牙，靠细长的吻和更长的黏舌
 伸进蚁穴舔食蚂蚁白蚁，前爪强壮能扒开蚁丘。名字就是照着
 食性起的。
-① The anteater probed the mound with its tongue.
-= 食蚁兽把舌头探进蚁丘。
+① The anteater probed the mound with its tongue and took maybe thirty ants a second.
+= 食蚁兽把舌头探进蚁丘，一秒大概舔进三十只蚂蚁。
 probe the mound = 探进蚁丘
-② A giant anteater can be two metres long.
-= 大食蚁兽能有两米长。
+② A giant anteater can be two metres long, most of it tail and snout.
+= 大食蚁兽能有两米长，其中大半是尾巴和吻。
 giant anteater = 大食蚁兽
-③ Anteaters have no teeth at all.
-= 食蚁兽一颗牙都没有。
+③ Anteaters have no teeth at all and crush what they swallow in the stomach instead.
+= 食蚁兽一颗牙都没有，吞下去的东西改在胃里磨碎。
 注意语域：
 动物名称。
 
@@ -21466,14 +21466,14 @@ antebellum
 核心：拉丁语借来的"战前的"，但用法极窄：在美式英语里几乎专指
 美国南北战争之前，尤其说南方那个时期的庄园、宅邸和社会。
 放在名词前面。
-① The antebellum South relied on slavery.
-= 战前的南方靠奴隶制维系。
+① The antebellum South relied on slavery for the crop that paid for everything else.
+= 战前的南方靠奴隶制种出那种作物，其余一切开销都由它支付。
 the antebellum South = 战前的美国南方
-② They restored an antebellum mansion.
-= 他们修复了一栋战前大宅。
+② They restored an antebellum mansion and said almost nothing about who had built it.
+= 他们修复了一栋战前大宅，对是谁盖起来的却几乎只字未提。
 antebellum mansion = 战前庄园宅邸
-③ Antebellum politics split the country.
-= 战前的政治把国家撕开了。
+③ Antebellum politics split the country along a line that ran through both parties.
+= 战前的政治把国家撕开，那道裂缝从两个政党中间穿过。
 注意地域：
 美式用法，几乎专指南北战争之前。
 注意语序：
@@ -21500,13 +21500,13 @@ antechamber
 核心：底层是"正屋前面那间"——通往主厅之前的小房间，等候、
 通传都在这儿。宫殿、官署和旧式大宅里常见。同义的日常说法是
 anteroom，医学上还借来说心脏或器官的前腔。
-① They waited in the antechamber.
-= 他们在前厅里候着。
+① They waited in the antechamber for two hours and were sent home without being seen.
+= 他们在前厅候了两个钟头，没见着人就被打发回去了。
 wait in the antechamber = 在前厅等候
-② The antechamber opens onto the great hall.
-= 前厅通向大厅。
-③ Guests left their coats in the anteroom.
-= 客人把外套留在了前厅。
+② The antechamber opens onto the great hall through a door low enough to make you stoop.
+= 前厅通向大厅，那道门矮得让人不得不低头。
+③ Guests left their coats in the anteroom, where a servant sat all evening doing nothing else.
+= 客人把外套留在前厅，一名仆人整晚坐在那里，别的什么也不做。
 anteroom = 前厅、候见室
 注意语域：
 建筑与宫廷语境。
@@ -21552,13 +21552,13 @@ obsolete = 已废弃的（不再使用）
 antelope
 核心：指羚羊类动物，包括瞪羚、大羚羊等。
 单复数常同形，也可加 s。
-① Antelope graze on the plain.
-= 羚羊在平原上吃草。
-② A herd of antelope ran past.
-= 一群羚羊跑了过去。
+① Antelope graze on the plain in the early morning and lie up in shade by ten.
+= 羚羊清早在平原上吃草，十点前就卧到阴凉处。
+② A herd of antelope ran past the vehicle without appearing to notice it at all.
+= 一群羚羊从车旁跑过，看上去压根没注意到车。
 a herd of antelope = 一群羚羊
-③ Antelopes are fast runners.
-= 羚羊跑得很快。
+③ Antelopes are fast runners, but they win by turning rather than by outright speed.
+= 羚羊跑得很快，可它们靠的是转向而不是纯粹的速度。
 注意复数：
 antelope / antelopes 都可以
 近义对照：
@@ -21569,14 +21569,14 @@ deer = 鹿（不同科）
 antenatal
 核心：英式医学用语，指"产前的"，
 美式说 prenatal。常见 antenatal care / class。
-① She attends antenatal classes.
-= 她在上产前课程。
+① She attends antenatal classes on Tuesdays and has learned more from the other women than from the midwife.
+= 她每周二上产前课程，从别的产妇那儿学到的比从助产士那儿还多。
 antenatal class = 产前课程
-② Antenatal care is free here.
-= 这里产检免费。
+② Antenatal care is free here, and take-up is the highest in the region.
+= 这里产检免费，参与率是全地区最高的。
 antenatal care = 产前保健
-③ An antenatal scan was booked.
-= 预约了产前超声检查。
+③ An antenatal scan was booked for the twentieth week, the one that checks the anatomy.
+= 预约了第二十周的产前超声，就是查胎儿结构的那一次。
 注意英美差别：
 antenatal = 产前的（英式）
 prenatal = 产前的（美式）
@@ -21587,13 +21587,13 @@ postnatal = 产后的
 antenna
 核心：两条线：昆虫的"触角"（复数 antennae），
 和无线电的"天线"（复数 antennas，美式）。复数形式因义而异。
-① The insect waved its antennae.
-= 那只昆虫摆动着触角。
+① The insect waved its antennae over the surface before it would put a foot down.
+= 那只昆虫先用触角在表面上扫了扫，才肯落脚。
 复数 antennae /ænˈteniː/
-② Adjust the antenna.
-= 调一下天线。
-③ He has a good political antenna.
-= 他政治嗅觉很灵。
+② Adjust the antenna a few degrees and the picture will either clear or vanish altogether.
+= 把天线调几度，画面要么就清楚，要么彻底没了。
+③ He has a good political antenna and knows which way a room is going before it does.
+= 他政治嗅觉很灵，一屋子人往哪边倒，他比他们自己先知道。
 political antenna = 政治触觉
 注意复数：
 昆虫触角 → antennae
@@ -21606,13 +21606,13 @@ antepenultimate
 核心：数着往回退的第三个——最后一个是 ultimate，倒数第二是
 penultimate，再往前一个就是它，即"倒数第三的"。语言学里说
 重音落在倒数第三个音节时最常用到。
-① The stress falls on the antepenultimate syllable.
-= 重音落在倒数第三个音节上。
+① The stress falls on the antepenultimate syllable, which is why the word sounds wrong when shortened.
+= 重音落在倒数第三个音节上，所以这个词缩读起来就不对了。
 antepenultimate syllable = 倒数第三个音节
-② She was eliminated in the antepenultimate round.
-= 她在倒数第三轮被淘汰。
-③ The antepenultimate chapter turns the plot.
-= 倒数第三章把情节扭了过来。
+② She was eliminated in the antepenultimate round by a question she had answered correctly in rehearsal.
+= 她在倒数第三轮被淘汰，淘汰她的那道题彩排时她答对过。
+③ The antepenultimate chapter turns the plot, and the two that follow only tidy up.
+= 倒数第三章把情节扭了过来，后面两章只是收尾。
 注意语域：
 语言学与正式书面语。
 序位对照：
@@ -21664,13 +21664,13 @@ anthemic = 有颂歌气势的（旋律恢弘、适合齐唱）
 anther
 核心：植物学名词，指"花药"——雄蕊顶端那个鼓起来的囊，里面装着
 花粉，成熟时裂开把花粉放出去。托着它的那根细柄叫 filament。
-① Pollen bursts from the anther.
-= 花粉从花药里散出来。
+① Pollen bursts from the anther at a touch, which is how the bee gets dusted.
+= 一碰花药，花粉就迸出来，蜜蜂就是这样沾上一身的。
 burst from the anther = 从花药中散出
-② The anthers turn brown when spent.
-= 花药散完粉就变褐。
-③ Each stamen has one anther.
-= 每根雄蕊顶着一个花药。
+② The anthers turn brown when spent, so you can tell at a glance which flowers are done.
+= 花药散完粉就变褐，所以一眼就能看出哪些花已经开过了。
+③ Each stamen has one anther held up on a filament thin enough to tremble in still air.
+= 每根雄蕊顶着一个花药，托它的花丝细到无风也会颤。
 注意语域：
 植物学术语。
 花部对照：
@@ -21681,13 +21681,13 @@ stigma = 柱头（接收花粉的那端）
 anthill
 核心：蚂蚁把土粒一颗颗叼上来堆成的"蚁丘"，下面是庞大的地下巢穴。
 比喻着用时形容一个地方"人多得挤成一团、忙作一堆"。
-① The path was blocked by an anthill.
-= 小路被一座蚁丘挡住了。
-② Ants stream in and out of the anthill.
-= 蚂蚁在蚁丘进进出出。
+① The path was blocked by an anthill that had not been there the previous summer.
+= 小路被一座蚁丘挡住了，去年夏天那里还什么都没有。
+② Ants stream in and out of the anthill along two lanes that never cross.
+= 蚂蚁沿着两条互不交叉的通道在蚁丘进进出出。
 stream in and out = 进进出出
-③ The station felt like an anthill at rush hour.
-= 高峰时的车站像个蚁窝。
+③ The station felt like an anthill at rush hour, everyone moving and nobody colliding.
+= 高峰时的车站像个蚁窝，人人都在动，却没人撞上谁。
 like an anthill = 像蚁窝一样忙乱
 注意用法：
 比喻义多用来说人挤人的场面。
@@ -21717,27 +21717,27 @@ Anthony dollar
 核心：美国一九七九年起发行的一元硬币，正面是女权运动先驱苏珊·
 安东尼的头像，是美国第一枚印上真实女性的流通币。因为尺寸颜色
 都跟二十五分硬币太像，老被认错，很快就停铸了。
-① She found an Anthony dollar in the drawer.
-= 她在抽屉里翻出一枚安东尼一元币。
-② Anthony dollars were often mistaken for quarters.
-= 安东尼一元币常被当成二十五分币。
+① She found an Anthony dollar in the drawer and spent twenty minutes reading about it.
+= 她在抽屉里翻出一枚安东尼一元币，花了二十分钟查它的来历。
+② Anthony dollars were often mistaken for quarters, which cost people four times over.
+= 安东尼一元币常被当成二十五分币，让人一次亏掉四倍。
 be mistaken for = 被误认作
-③ The Anthony dollar circulated only briefly.
-= 那种硬币只流通了很短一阵。
+③ The Anthony dollar circulated only briefly and is worth rather more as a curiosity now.
+= 那种硬币只流通了很短一阵，如今作为稀奇物件反倒更值钱些。
 注意语域：
 美国钱币与历史语境，以人名命名故大写。
 
 anthracite
 核心：指无烟煤——含碳量最高、燃烧最干净的一种煤。
 不可数。也用来形容那种深黑色。
-① The stove burns anthracite.
-= 那个炉子烧无烟煤。
+① The stove burns anthracite, which gives more heat and almost none of the smoke.
+= 那个炉子烧无烟煤，热量更足，几乎不出烟。
 burn anthracite = 烧无烟煤
-② Anthracite has high carbon content.
-= 无烟煤含碳量高。
+② Anthracite has high carbon content and took the longest of any coal to form.
+= 无烟煤含碳量高，在所有煤里形成得最久。
 carbon content = 含碳量
-③ The coat is anthracite grey.
-= 那件外套是深炭灰色。
+③ The coat is anthracite grey, a shade darker than the charcoal one beside it.
+= 那件外套是炭灰色，比旁边那件深炭色再深一号。
 anthracite grey = 炭灰色
 煤的分类：
 anthracite = 无烟煤（最硬）
@@ -21747,13 +21747,13 @@ lignite = 褐煤（最软）
 anthrax
 核心：指炭疽——由细菌引起的严重传染病，可感染牲畜和人。
 因曾被用作生物武器而广为人知。不可数。
-① Anthrax affects livestock.
-= 炭疽会感染牲畜。
-② Anthrax spores are dangerous.
-= 炭疽芽孢很危险。
+① Anthrax affects livestock most of all, and a single infected carcass can contaminate a field for decades.
+= 炭疽最主要感染牲畜，一具染病的尸体就能让一片地污染几十年。
+② Anthrax spores are dangerous because they survive in soil long after everything else has gone.
+= 炭疽芽孢危险，是因为别的都消失很久之后它还能在土里存活。
 anthrax spore = 炭疽孢子
-③ Letters contained anthrax.
-= 那些信里装有炭疽。
+③ Letters contained anthrax, and the postal system was redesigned in the months that followed.
+= 那些信里装有炭疽，随后几个月里邮政系统被重新设计过。
 注意发音：/ˈænθræks/
 相关词：
 spore = 芽孢、孢子
@@ -21764,13 +21764,13 @@ Anthropocene
 改变地球地层、气候和生物圈的主导力量的这个时代。从什么时候算起
 还有争议：有人从农业起源算，有人从工业革命算，也有人从二十世纪
 中期的核试验落尘算。
-① We may be living in the Anthropocene.
-= 我们也许正处在人类世。
+① We may be living in the Anthropocene, though the people who named it cannot agree when it began.
+= 我们也许正处在人类世，尽管给它命名的人对它何时开始意见不一。
 live in the Anthropocene = 身处人类世
-② The Anthropocene is not yet formally ratified.
-= 人类世尚未获得正式认定。
-③ Plastic will mark the Anthropocene in the rock.
-= 塑料会在岩层里留下人类世的印记。
+② The Anthropocene is not yet formally ratified, and the committee that decides has voted against it.
+= 人类世尚未获得正式认定，负责裁定的委员会投了反对票。
+③ Plastic will mark the Anthropocene in the rock as clearly as ash marks a volcanic year.
+= 塑料会在岩层里留下人类世的印记，就像火山灰标出火山爆发的那一年。
 注意语域：
 地质学与环境研究用语，首字母大写。
 
