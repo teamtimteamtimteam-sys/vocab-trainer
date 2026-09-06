@@ -51,16 +51,16 @@ compromise = 折中（各让一步）
 all out
 核心：副词短语，指"全力以赴地"，常说 go all out。写成带连字符的
 all-out 时是形容词，指"全面的、倾尽全力的"，多用于战争与冲突。
-① They went all out to win.
-= 他们全力以赴争胜。
+① They went all out to win and had nothing left for the second leg.
+= 他们全力以赴争胜，次回合就没什么可拿出来的了。
 go all out = 全力以赴
-② She went all out on the decorations.
-= 她在布置上下了血本。
-③ It escalated into all-out war.
-= 事态升级成了全面战争。
+② She went all out on the decorations and forgot to order any food.
+= 她在布置上下了血本，却忘了订吃的。
+③ It escalated into all-out war within about four months.
+= 大约四个月，事态就升级成了全面战争。
 all-out war = 全面战争
-④ The union called an all-out strike.
-= 工会号召全面罢工。
+④ The union called an all-out strike and the depot stayed shut for weeks.
+= 工会号召全面罢工，车场关了好几周。
 all-out strike = 全面罢工
 注意写法：
 作副词分写，作定语带连字符。
@@ -103,17 +103,17 @@ specialized = 专用的（只对一种用途）
 all right
 核心：三条线：状态"没事的"、质量"还行"、以及表示同意的"好吧"。
 标准写法是分开两个词——alright 虽常见但不被正式文体接受。
-① Are you all right?
-= 你没事吧？
+① Are you all right? You have been staring at the same page for twenty minutes.
+= 你没事吧？同一页你已经盯了二十分钟。
 be all right = 安好
-② The film was all right.
-= 那部电影还行。
+② The film was all right, though the ending arrived about forty minutes late.
+= 那部电影还行，就是结尾来得晚了大约四十分钟。
 这里只是"及格"，不是夸
-③ All right, I'll do it.
-= 好吧，我来做。
+③ All right, I'll do it, but somebody else can telephone the client tomorrow.
+= 好吧，我来做，不过明天由别人给客户打电话。
 表示同意
-④ It turned out all right.
-= 结果还不错。
+④ It turned out all right, largely because two people ignored the instructions.
+= 结果还不错，主要是因为有两个人没照说明做。
 turn out all right = 结果没问题
 注意拼写：
 正式文体用 all right（两个词）。
@@ -220,17 +220,17 @@ allegation
 核心：指"未经证实的指控"，这是它和 accusation 的关键差别——
 allegation 强调"只是说法，还没证实"，新闻里为了免责大量使用。
 介词用 of 或 against。
-① He denied the allegations.
-= 他否认了那些指控。
+① He denied the allegations and answered none of the specific questions.
+= 他否认了那些指控，具体问题一个也没答。
 deny allegations = 否认指控
-② There are allegations of fraud.
-= 有诈骗指控。
+② There are allegations of fraud going back to the first year of trading.
+= 有诈骗指控，能追到开业头一年。
 allegations of = 关于…的指控
-③ The allegation against her was false.
-= 针对她的指控不实。
+③ The allegation against her was false and repeated for eleven months.
+= 针对她的指控不实，却被重复了十一个月。
 allegation against = 针对…的指控
-④ She made serious allegations.
-= 她提出了严重指控。
+④ She made serious allegations and produced the emails to back them.
+= 她提出了严重指控，还拿出邮件作为佐证。
 词族：
 allege = 指称
 注意区别：
@@ -241,17 +241,17 @@ charge 控罪（法律正式提出）
 allege
 核心：指"声称、指称（但未证实）"，几乎总用被动 it is alleged
 that 或 the alleged。新闻写作的核心免责用词。
-① He is alleged to have stolen it.
-= 据称他偷了那东西。
+① He is alleged to have stolen it, and the case has not yet been heard.
+= 据称他偷了那东西，案子还没开庭。
 be alleged to have done = 据称做过
-② It is alleged that she lied.
-= 据称她撒了谎。
+② It is alleged that she lied to a committee she had asked to convene.
+= 据称她对一个她自己要求召集的委员会撒了谎。
 it is alleged that = 据称
-③ The alleged attacker fled.
-= 那名嫌疑袭击者逃了。
+③ The alleged attacker fled and was arrested at a port two days later.
+= 那名嫌疑袭击者逃了，两天后在一个港口被捕。
 the alleged = 所谓的、涉嫌的
-④ She alleges harassment.
-= 她指称受到骚扰。
+④ She alleges harassment over a period the company says never happened.
+= 她指称在某段时间里受到骚扰，公司则说那段时间根本没发生过什么。
 词族：
 allegation = 指控
 allegedly = 据称
@@ -279,14 +279,14 @@ allegedly = 据称
 allegedly
 核心：副词，"据称、据说"，用来把话和自己撇清。新闻和法律写作里
 高频，位置灵活，常放在动词前。
-① He allegedly took the money.
-= 据称他拿了那笔钱。
-② She was allegedly involved.
-= 据称她有牵涉。
-③ The document was allegedly forged.
-= 那份文件据称是伪造的。
-④ Allegedly, they knew all along.
-= 据说他们一直都知道。
+① He allegedly took the money and paid it back before anyone asked.
+= 据称他拿了那笔钱，还没等谁开口就还了回去。
+② She was allegedly involved and has never been interviewed about it.
+= 据称她有牵涉，可从没有人就此问过她。
+③ The document was allegedly forged and three experts disagree about it.
+= 那份文件据称是伪造的，三位专家意见不一。
+④ Allegedly, they knew all along and said nothing for two years.
+= 据说他们一直都知道，却两年不吭声。
 词族：allege、allegation
 注意语用：
 allegedly 表示"这是别人的说法，
