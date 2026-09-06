@@ -10,6 +10,9 @@ ap-，漏掉了 ao-（aorta、aortic、AOB）；更早还漏了 aa-（aardvark�
 所以只报「内部空段」（前后都有词的零段），并把它当作待核对项，
 逐一去牛津高阶确认是真没有还是我跳过了。
 
+**退出码只对登记进 EXPECT 的字母负责**（目前是 a、b、c —— 已经收完、
+逐条核对过的那几段）。没登记的字母还在写，空段照报但不计入退出码。
+
 用法: python3 scripts/audit-prefix.py [首字母，默认全部]
 """
 import sys, io, glob, string
@@ -51,7 +54,8 @@ def main(letter=None):
             if b.strip(): w.append(b.strip().split('\n')[0])
     c = Counter(prefix(x) for x in w)
     letters = [letter] if letter else sorted({prefix(x, 1) for x in w})
-    gaps = []
+    gaps = []      # 已收完的段出的洞 —— 计入退出码
+    info = []      # 还在写的段出的洞 —— 只报不拦
     for L in letters:
         row = [(L + ch, c.get(L + ch, 0)) for ch in string.ascii_lowercase]
         nz = [i for i, (_, n) in enumerate(row) if n]
@@ -77,14 +81,23 @@ def main(letter=None):
                 gaps += empty
                 print(f"  ⚠ 应有词条却为空：{' '.join(empty)}")
         else:
+            # 没登记进 EXPECT 的字母 = 这一段还没收完（d 段就是）。
+            # 对着一个正在写的段报「内部空段」毫无意义 —— 它当然到处是洞。
+            # 所以照报不误，但**不计入退出码**：退出码只在「已经收完的段
+            # 出了洞」时才该红。2026-09-06 加的，起因是回填第三十九批
+            # 只碰了一个 d- 词，audit-prefix d 就报了 13 个空段。
+            # 一个每次都红的闸门，跟没有闸门是一回事 —— 这个月已经栽过一次
+            # （EXPECT['c'] 把 cp 错列成「应有词条」，害它从 c 段收完起一直报红）。
             inner = [p for i, (p, n) in enumerate(row) if not n and lo < i < hi]
             if inner:
-                gaps += inner
-                print(f"  ⚠ 内部空段（未登记 EXPECT，按前后有词推断）：{' '.join(inner)}")
+                info += inner
+                print(f"  · 空段（{L}- 段还没登记进 EXPECT，多半是还没写到）："
+                      f"{' '.join(inner)}  —— 仅供参考，不计入退出码")
     if gaps:
         print(f"\n共 {len(gaps)} 个内部空段待核对：{' '.join(gaps)}")
         return 1
-    print("\n✅ 无内部空段")
+    print("\n✅ 已收完的字母段没有空段"
+          + ("（还在写的段上面单列了，不计入）" if info else ""))
     return 0
 
 if __name__ == "__main__":
