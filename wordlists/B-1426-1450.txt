@@ -17,15 +17,15 @@ Armageddon
 核心：底层是《启示录》里那个决战之地的名字。宗教上指"末日大决战"；
 日常引申着用，指任何"毁灭性的大灾难或终极对决"，常用来说核战、
 气候崩溃或一场决定生死的比赛，带夸张色彩。
-① The book describes Armageddon.
-= 那本书写的是末日决战。
-② They feared a nuclear Armageddon.
-= 他们害怕一场核浩劫。
+① The book describes Armageddon in a chapter that names no date.
+= 那本书用一章写末日决战，却没给出任何日期。
+② They feared a nuclear Armageddon and built a cellar nobody ever used.
+= 他们害怕一场核浩劫，挖了个从没用上的地窖。
 nuclear Armageddon = 核浩劫
-③ The final was billed as Armageddon.
-= 那场决赛被吹成生死决战。
-④ Climate Armageddon is not inevitable.
-= 气候浩劫并非不可避免。
+③ The final was billed as Armageddon and ended nil nil.
+= 那场决赛被吹成生死决战，结果零比零。
+④ Climate Armageddon is not inevitable, says a report nobody in power read.
+= 一份当权者没人读过的报告说：气候浩劫并非不可避免。
 注意语域：
 宗教义正式，引申义多带夸张，新闻标题里常见。
 
@@ -49,16 +49,16 @@ Cognac = 干邑（夏朗德，两次蒸馏）
 armament
 核心：指"武器装备"——一支部队、一艘军舰或一架飞机所配备的全部
 火力，多用复数。也指"扩充军备"这件事本身，反义是 disarmament。
-① The ship's armament includes missiles.
-= 那艘军舰的武备包括导弹。
-② Nuclear armaments were cut by treaty.
-= 核军备按条约削减。
+① The ship's armament includes missiles that were fitted after it was launched.
+= 那艘军舰的武备包括导弹，是下水之后才装上去的。
+② Nuclear armaments were cut by treaty and counted by satellite.
+= 核军备按条约削减，靠卫星清点。
 nuclear armaments = 核军备
-③ The armaments industry employs thousands.
-= 军工业雇了成千上万人。
+③ The armaments industry employs thousands in towns with nothing else.
+= 在一些别无产业的镇子里，军工业雇着成千上万人。
 armaments industry = 军工业
-④ Armament programmes swallowed the budget.
-= 扩军计划吞掉了预算。
+④ Armament programmes swallowed the budget that had been promised to schools.
+= 扩军计划吞掉了原本许给学校的预算。
 注意用法：
 说具体装备时多用复数。
 反义对照：
@@ -90,16 +90,16 @@ armature
 泥，那个骨架就是它；电机里绕着线圈、在磁场中转动的那个部件也叫
 这个名字，因为它同样是承载绕组的骨干。生物学上还指动植物的
 防御装置，刺和壳都算。
-① The sculptor bent a wire armature.
-= 雕塑家弯了个铁丝骨架。
+① The sculptor bent a wire armature before touching any clay.
+= 还没碰泥，雕塑家就先弯好了铁丝骨架。
 wire armature = 铁丝骨架
-② Clay is packed onto the armature.
-= 泥料敷在骨架上。
-③ The motor's armature spins in the field.
-= 电机的电枢在磁场里旋转。
+② Clay is packed onto the armature a handful at a time.
+= 泥料一把一把地敷在骨架上。
+③ The motor's armature spins in the field at four thousand revolutions.
+= 电机的电枢在磁场里以每分钟四千转旋转。
 armature = 电枢（电机中的转动绕组部件）
-④ Spines form the plant's armature.
-= 刺构成了那种植物的防御结构。
+④ Spines form the plant's armature and deter everything but one beetle.
+= 刺构成了那种植物的防御结构，除了一种甲虫什么都挡得住。
 注意语域：
 雕塑、电机工程与生物学各用一义。
 
@@ -392,19 +392,19 @@ arms control = 军备控制
 army
 核心：一国的陆军或军队整体，也指"一大群人"这个比喻义。作主语时
 英式可用复数动词（看成一群人），美式用单数。
-① He joined the army.
-= 他参军了。
+① He joined the army at seventeen and left it at forty-three.
+= 他十七岁参军，四十三岁离开。
 join the army = 参军
-② The army was defeated.
-= 那支军队被击败了。
-③ An army of volunteers helped.
-= 一大群志愿者帮了忙。
+② The army was defeated in a week and blamed the maps for a decade.
+= 那支军队一周就被击败，此后十年怪的是地图。
+③ An army of volunteers helped and the council took the credit.
+= 一大群志愿者帮了忙，功劳归了议会。
 an army of = 一大批
 军种对照：
 army 陆军 / navy 海军
 air force 空军 / marines 海军陆战队
-④ He bought the coat at an army surplus store.
-= 他在军品剩余商店买的那件外套。
+④ He bought the coat at an army surplus store and wore it for twenty years.
+= 他在军品剩余商店买的那件外套，穿了二十年。
 army surplus = 军队剩余物资
 
 arnica

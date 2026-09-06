@@ -54,15 +54,15 @@ argon
 核心：一种惰性气体，占空气近百分之一，无色无味，几乎不与任何
 东西反应。正因为不反应，才用来给灯泡和焊接现场充气，
 把氧气隔开以防氧化。名字来自希腊语的"懒惰的"。
-① Argon fills the light bulb.
-= 灯泡里充的是氩气。
-② Welders use argon as a shielding gas.
-= 焊工用氩气作保护气。
+① Argon fills the light bulb and stops the filament burning away.
+= 灯泡里充的是氩气，好让灯丝不烧断。
+② Welders use argon as a shielding gas to keep oxygen off the weld.
+= 焊工用氩气作保护气，把氧气挡在焊缝之外。
 shielding gas = 保护气体
-③ Argon makes up about one percent of air.
-= 氩约占空气的百分之一。
-④ Argon barely reacts with anything.
-= 氩几乎不跟任何东西反应。
+③ Argon makes up about one percent of air and nobody notices it.
+= 氩约占空气的百分之一，谁也察觉不到。
+④ Argon barely reacts with anything, which is exactly what it is used for.
+= 氩几乎不跟任何东西反应，用的正是这一点。
 注意语域：
 化学元素名称，也常见于工业语境。
 

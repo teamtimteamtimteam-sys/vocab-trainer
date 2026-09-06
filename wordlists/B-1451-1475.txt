@@ -1,14 +1,14 @@
 aroma
 核心：指好闻的香味，尤指食物、咖啡、香料的。
 和 smell 的差别：aroma 一定是宜人的。
-① The aroma of coffee filled the room.
-= 咖啡香充满了房间。
+① The aroma of coffee filled the room before anyone had poured a cup.
+= 一杯还没倒，咖啡香就充满了房间。
 the aroma of = …的香气
-② Spices give it a rich aroma.
-= 香料让它气味浓郁。
+② Spices give it a rich aroma that survives about a day in the fridge.
+= 香料让它气味浓郁，放冰箱里大约能撑一天。
 rich aroma = 浓郁香气
-③ The aroma was tempting.
-= 那香味很诱人。
+③ The aroma was tempting and the taste turned out to be nothing like it.
+= 那香味很诱人，味道却完全是另一回事。
 词族：
 aromatic = 芳香的
 气味词对照：
@@ -17,8 +17,8 @@ fragrance = 芬芳（花、香水）
 scent = 气味（中性偏香）
 odour = 气味（常指难闻）
 stench = 恶臭
-④ The aromatherapist blended the oils.
-= 芳疗师调配了那些精油。
+④ The aromatherapist blended the oils and charged by the drop.
+= 芳疗师调配了那些精油，按滴收费。
 aromatherapist = 芳香疗法师
 
 aromatherapy
@@ -230,16 +230,16 @@ arranged marriage = 包办婚姻（由家人安排）
 arrangement
 核心：三条线：事先说好的"安排、约定"（常用复数）、
 物品的"摆放布置"、以及音乐的"改编配器"。
-① We made arrangements to meet.
-= 我们约好了见面。
+① We made arrangements to meet and both turned up on the wrong day.
+= 我们约好了见面，结果两人都记错了日子。
 make arrangements = 做安排
-② The flower arrangement is lovely.
-= 那个插花很好看。
+② The flower arrangement is lovely and blocks half the table.
+= 那个插花很好看，也挡住了半张桌子。
 flower arrangement = 插花
-③ It's an arrangement for piano.
-= 那是钢琴改编版。
-④ They came to an arrangement.
-= 他们达成了一个安排。
+③ It's an arrangement for piano of a piece written for four voices.
+= 那是把一首四声部作品改编成的钢琴版。
+④ They came to an arrangement that neither side has written down.
+= 他们达成了一个安排，两边都没落成文字。
 come to an arrangement = 谈妥
 词族：
 arrange = 安排；编曲
@@ -329,16 +329,16 @@ a citizen's arrest = 公民扭送、私人拘捕
 arrival
 核心：三条线：抵达这个行为、抵达的人或物、
 以及新生儿（a new arrival）。
-① His arrival was delayed.
-= 他的抵达推迟了。
-② On arrival, please register.
-= 抵达后请登记。
+① His arrival was delayed by a strike he had voted against.
+= 他的抵达被一场他自己投了反对票的罢工耽误了。
+② On arrival, please register at a desk that is rarely staffed.
+= 抵达后请到前台登记，虽然那儿常常没人。
 on arrival = 一到达
-③ New arrivals were welcomed.
-= 新来的人受到欢迎。
+③ New arrivals were welcomed with a folder of forms to complete.
+= 新来的人受到欢迎，欢迎方式是一叠待填的表格。
 new arrival = 新来者；新生儿
-④ Check the arrivals board.
-= 看一下到达航班牌。
+④ Check the arrivals board, because the announcements are inaudible.
+= 看一下到达信息屏，广播根本听不清。
 arrivals board = 到达信息屏
 反义词：
 departure = 出发

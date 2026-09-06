@@ -224,16 +224,16 @@ atherosclerosis = 粥样硬化（脂质斑块那一型）
 artery
 核心：两条线：把血从心脏送出去的"动脉"，
 和比喻义的"交通干道"。
-① The artery was blocked.
-= 那条动脉堵塞了。
+① The artery was blocked and the surgeon had about four minutes.
+= 那条动脉堵塞了，外科医生只有大约四分钟。
 blocked artery = 动脉阻塞
-② The motorway is a major artery.
-= 那条高速是主要交通动脉。
+② The motorway is a major artery and closes for a day every autumn.
+= 那条高速是主要交通动脉，每年秋天要封一天。
 major artery = 交通干线
-③ Arteries carry oxygenated blood.
-= 动脉输送含氧血。
-④ The carotid artery runs up the neck.
-= 颈动脉沿颈部上行。
+③ Arteries carry oxygenated blood and have thicker walls than veins.
+= 动脉输送含氧血，管壁比静脉厚。
+④ The carotid artery runs up the neck and is the first place to feel a pulse.
+= 颈动脉沿颈部上行，摸脉搏首先摸的就是它。
 the carotid artery = 颈动脉
 注意复数：artery → arteries
 词族：
@@ -422,15 +422,15 @@ artifact
 核心：artefact 的美式拼法，两层意思。一是"人工制品"——人做出来的
 东西，考古学里特指出土的器物；二是技术上的"伪影"，指测量或成像
 过程本身弄出来的假信号，不是被测对象真有的东西。
-① The dig produced hundreds of artifacts.
-= 那次发掘出土了几百件器物。
-② Museum artifacts are catalogued by period.
-= 馆藏器物按年代编目。
-③ The scan showed a motion artifact.
-= 扫描上出现了运动伪影。
+① The dig produced hundreds of artifacts and one that nobody can explain.
+= 那次发掘出土了几百件器物，其中一件谁也解释不了。
+② Museum artifacts are catalogued by period and stored by size.
+= 馆藏器物按年代编目，却按尺寸存放。
+③ The scan showed a motion artifact and had to be done a second time.
+= 扫描上出现了运动伪影，只好重做一次。
 motion artifact = 运动伪影
-④ Compression artifacts blur the image.
-= 压缩伪影让图像发糊。
+④ Compression artifacts blur the image wherever the background is dark.
+= 凡是背景暗的地方，压缩伪影都会让图像发糊。
 compression artifact = 压缩伪影
 注意拼写：
 artifact = 人工制品（美式）
