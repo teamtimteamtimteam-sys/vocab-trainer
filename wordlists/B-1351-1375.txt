@@ -126,16 +126,16 @@ arbitrage
 核心：金融操作，指"套利"——同一样东西在两个市场价钱不同，
 就低买高卖，赚那个价差。理论上无风险，因为买和卖几乎同时完成。
 做这行的人叫 arbitrageur。也作动词。
-① Arbitrage exploits price differences.
-= 套利利用的是价差。
+① Arbitrage exploits price differences that usually last a few seconds.
+= 套利利用的是价差，而价差通常只存在几秒钟。
 exploit price differences = 利用价差
-② Traders arbitrage between exchanges.
-= 交易员在几家交易所之间套利。
-③ The arbitrageur closed both legs at once.
-= 那位套利者同时了结了两边头寸。
+② Traders arbitrage between exchanges in two time zones at once.
+= 交易员同时在两个时区的交易所之间套利。
+③ The arbitrageur closed both legs at once and never held a position overnight.
+= 那位套利者同时了结两边头寸，从不隔夜持仓。
 arbitrageur = 套利者
-④ Fast networks squeezed arbitrage margins.
-= 高速网络把套利空间挤没了。
+④ Fast networks squeezed arbitrage margins to a fraction of a penny.
+= 高速网络把套利空间挤到不足一便士的零头。
 arbitrage margin = 套利空间
 注意语域：
 金融交易术语。
@@ -257,16 +257,16 @@ arboriculture
 修剪、诊病和保护，跟以成片林子和木材产出为目标的林业不同。
 从业者叫 arboriculturist，日常多说 arborist（树艺师）。
 形容词是 arboricultural。
-① Arboriculture keeps street trees alive.
-= 树艺让行道树活得下去。
-② The council employs an arborist.
-= 议会雇了位树艺师。
+① Arboriculture keeps street trees alive in soil that was never meant for them.
+= 行道树种在本不适合它们的土里，靠树艺才活得下去。
+② The council employs an arborist who has climbed the same oak for years.
+= 议会雇了位树艺师，同一棵橡树他爬了好些年。
 arborist = 树艺师
-③ She took an arboricultural qualification.
-= 她考了树艺方面的资格。
+③ She took an arboricultural qualification after twenty years of gardening.
+= 做了二十年园艺之后，她考了树艺方面的资格。
 arboricultural = 树艺的
-④ An arboriculturist assessed the storm damage.
-= 一位树艺专家评估了风灾损害。
+④ An arboriculturist assessed the storm damage and saved three of the four trees.
+= 一位树艺专家评估了风灾损害，四棵树里救活了三棵。
 arboriculturist = 树艺专家
 注意别混：
 arboriculture = 树艺（管单株树）
