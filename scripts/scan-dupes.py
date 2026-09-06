@@ -26,6 +26,14 @@ GOAL.txt 里只留了一句「三级开工时值得重跑一遍」。这次三�
   python3 scripts/scan-dupes.py            全表
   python3 scripts/scan-dupes.py b          只扫 b- 段
   python3 scripts/scan-dupes.py banana bay 只扫这几条（词头多于一个字母时按词头认）
+  加 --loose 把阈值放到 0.5 / 0.6
+
+**回填时该用 --loose。** 2026-09-06 全表按 0.7 跑过一遍只剩 4 对，
+真正成批的都落在 0.5–0.7 那一带：aground 的 ran / went、abstraction 的两条、
+backmost 的 row / rank、air conditioning 与 air conditioner。
+0.7 是「几乎肯定重复」的线，0.5 是「值得看一眼」的线 —— 回填一条词条时
+本来就要把七个义项从头读一遍，顺手判掉最省事。
+
 退出码恒为 0：它报的是候选，不是错误。
 """
 import sys, re, io, itertools, importlib.util as u
@@ -74,6 +82,9 @@ def has_eq(body):
                for l in body)
 
 def main(argv):
+    loose = '--loose' in argv
+    argv = [a for a in argv if a != '--loose']
+    T_ZH, T_SK = (0.5, 0.6) if loose else (0.7, 0.8)
     seg = None; heads = None
     if len(argv) == 1 and len(argv[0]) == 1:
         seg = argv[0].lower()
@@ -88,13 +99,13 @@ def main(argv):
         for (e1, b1), (e2, b2) in itertools.combinations(ss, 2):
             t1, t2 = zh(b1), zh(b2)
             s = sim(t1, t2)
-            if s >= 0.7:
+            if s >= T_ZH:
                 (ch2 if not (has_eq(b1) or has_eq(b2)) else ch3).append(
                     (h, s, e1, t1, e2, t2))
             k1, k2 = skeleton(e1), skeleton(e2)
             if len(k1) >= 3 and len(k2) >= 3:
                 j = len(k1 & k2) / len(k1 | k2)
-                if j >= 0.8: ch4.append((h, j, e1, t1, e2, t2))
+                if j >= T_SK: ch4.append((h, j, e1, t1, e2, t2))
 
     def show(title, rows, note):
         print('\n【%s】%d 对   %s' % (title, len(rows), note))
@@ -105,9 +116,9 @@ def main(argv):
 
     where = ('%s- 段' % seg) if seg else ('指定 %d 条词头' % len(heads)) if heads else '全表'
     print('判重扫描：%s' % where)
-    show('通道2 两条都没有等式，译文相似 ≥0.7', ch2, '没有等式可搬，判定重复就直接删')
-    show('通道3 译文相似 ≥0.7（至少一条有等式）', ch3, '删之前先把不重复的等式搬过去')
-    show('通道4 实词骨架 Jaccard ≥0.8', ch4, '多半是只换了代词或介词')
+    show('通道2 两条都没有等式，译文相似 ≥%.1f' % T_ZH, ch2, '没有等式可搬，判定重复就直接删')
+    show('通道3 译文相似 ≥%.1f（至少一条有等式）' % T_ZH, ch3, '删之前先把不重复的等式搬过去')
+    show('通道4 实词骨架 Jaccard ≥%.1f' % T_SK, ch4, '多半是只换了代词或介词')
     print('\n合计候选 %d 对。**这是候选，不是判决** —— '
           '最常见的情况是等式没写出区别，那就改等式，别删义项。'
           % (len(ch2) + len(ch3) + len(ch4)))
