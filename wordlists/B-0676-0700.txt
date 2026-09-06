@@ -370,17 +370,17 @@ aircrew = 机组人员（不分性别）
 airworthy
 核心：航空术语，形容词，指飞机"适航的"——经检查符合安全标准、
 可以放飞。名词是 airworthiness。反义是 unairworthy。
-① The plane is no longer airworthy.
-= 那架飞机已经不适航了。
+① The plane is no longer airworthy and stands at the end of the runway.
+= 那架飞机已经不适航了，停在跑道尽头。
 no longer airworthy = 不再适航
-② Inspectors declared the jet airworthy.
-= 检查员判定那架飞机适航。
+② Inspectors declared the jet airworthy after eleven days of checks.
+= 检查了十一天之后，检查员判定那架飞机适航。
 declare something airworthy = 判定适航
-③ The airworthiness certificate expired.
-= 适航证过期了。
+③ The airworthiness certificate expired and nobody in the office noticed.
+= 适航证过期了，办公室里没人发现。
 airworthiness = 适航性
-④ Airworthiness rules are strict.
-= 适航规章很严。
+④ Airworthiness rules are strict and were written after the accidents.
+= 适航规章很严，都是出了事故之后才写的。
 注意语域：
 民航监管术语。
 
@@ -406,16 +406,16 @@ airy-fairy = 不切实际的（英式口语）
 aisle
 核心：指飞机、剧院、教堂、超市里两排座位或货架之间的"通道"。
 注意 s 不发音，这是高频读错点。
-① I prefer an aisle seat.
-= 我更喜欢靠通道的座位。
+① I prefer an aisle seat and will pay extra to avoid climbing over people.
+= 我更喜欢靠通道的座位，宁可多付钱也不想从别人身上跨过去。
 aisle seat = 过道座位
-② She walked down the aisle.
-= 她走过教堂通道（出嫁）。
+② She walked down the aisle to a piece of music nobody recognised.
+= 她伴着一段谁也认不出的曲子走过教堂通道。
 walk down the aisle = 结婚
-③ It's in aisle five.
-= 那在第五排货架。
-④ Please keep the aisle clear.
-= 请保持通道畅通。
+③ It's in aisle five, next to a display that blocks the label.
+= 那在第五排货架，旁边一个堆头正好挡住了标签。
+④ Please keep the aisle clear, said a notice hidden behind a trolley.
+= 一张被推车挡住的告示上写着：请保持通道畅通。
 注意发音：
 aisle 读 /aɪl/，与 isle 同音，
 s 不发音。
