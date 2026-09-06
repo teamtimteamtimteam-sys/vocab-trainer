@@ -1,14 +1,14 @@
 actuate
 核心：正式或技术用语，指"启动、驱动（机械装置）"，
 也指"促使（人行动）"。后者常用被动。
-① The switch actuates the valve.
-= 那个开关驱动阀门。
+① The switch actuates the valve and there is no way to override it by hand.
+= 那个开关驱动阀门，没法用手动强行改。
 actuate a valve = 驱动阀门
-② He was actuated by greed.
-= 他是受贪欲驱使。
+② He was actuated by greed and said so himself in the second interview.
+= 他是受贪欲驱使，第二次受访时自己就这么说。
 be actuated by = 受…驱使
-③ Heat actuates the sprinkler.
-= 高温会触发喷淋头。
+③ Heat actuates the sprinkler, so smoke alone will not set it off.
+= 高温才会触发喷淋头，光有烟不会。
 词族：
 actuator = 执行器、驱动装置
 近义对照：
@@ -19,14 +19,14 @@ trigger = 触发（引发反应）
 acuity
 核心：指感官或思维的"敏锐度"。正式。
 最常见的搭配是 visual acuity（视力）和 mental acuity。
-① Visual acuity declines with age.
-= 视力随年龄下降。
+① Visual acuity declines with age and the change is easy to miss.
+= 视力随年龄下降，那种变化很容易察觉不到。
 visual acuity = 视敏度
-② Mental acuity stays sharp.
-= 思维依旧敏锐。
+② Mental acuity stays sharp in people who keep having to learn things.
+= 总要学新东西的人，思维一直很敏锐。
 mental acuity = 思维敏锐度
-③ The test measures auditory acuity.
-= 那项测试测量听觉敏锐度。
+③ The test measures auditory acuity across eight separate frequencies.
+= 那项测试在八个不同频率上测量听觉敏锐度。
 词族：
 acute = 敏锐的
 近义对照：
@@ -37,14 +37,14 @@ sharpness = 锐利（通用）
 acumen
 核心：指在某个领域的"敏锐判断力"，褒义。最高频的搭配是
 business acumen（商业头脑）和 political acumen。
-① She has great business acumen.
-= 她商业嗅觉很敏锐。
+① She has great business acumen and has never read a book about business.
+= 她商业嗅觉很敏锐，却从没读过一本讲生意的书。
 business acumen = 商业头脑
-② His political acumen is respected.
-= 他的政治判断力受人敬重。
+② His political acumen is respected by people who disagree with everything he says.
+= 连处处不同意他的人，也敬重他的政治判断力。
 political acumen = 政治敏锐度
-③ The role requires financial acumen.
-= 那个职位需要财务判断力。
+③ The role requires financial acumen and a tolerance for very long meetings.
+= 那个职位需要财务判断力，还得受得了极长的会。
 注意发音：
 英式 /ˈækjəmən/ 重音在前
 美式也说 /əˈkjuːmən/
@@ -56,12 +56,12 @@ shrewdness = 精明（识人识局）
 acupressure
 核心：指指压——按压穴位以缓解不适，
 原理同针灸但不用针。不可数。
-① She tried acupressure for nausea.
-= 她试了指压缓解恶心。
-② Acupressure uses finger pressure.
-= 指压靠手指按压。
-③ Acupressure points follow meridians.
-= 指压穴位沿经络分布。
+① She tried acupressure for nausea and swears by the band on her wrist.
+= 她试了指压缓解恶心，一口咬定腕上那个带子管用。
+② Acupressure uses finger pressure and needs no equipment at all.
+= 指压靠手指按压，完全不需要器械。
+③ Acupressure points follow meridians mapped out well over a thousand years ago.
+= 指压穴位沿着一千多年前就画定的经络分布。
 acupressure point = 指压穴位
 构词：acu- 针 + pressure 压力
 近义对照：
@@ -72,12 +72,12 @@ reflexology = 反射区疗法（足部）
 acupuncture
 核心：指针灸，源自中医。不可数。相关的人叫 acupuncturist。
 在英语里已是通行词汇，不需要解释。
-① She tried acupuncture for her back.
-= 她试了针灸治背痛。
-② Acupuncture originated in China.
-= 针灸起源于中国。
-③ He had acupuncture treatment.
-= 他做了针灸治疗。
+① She tried acupuncture for her back after nothing else had worked for two years.
+= 别的法子两年都不管用，她才试了针灸治背痛。
+② Acupuncture originated in China and is now offered in ordinary clinics abroad.
+= 针灸起源于中国，如今国外的普通诊所也提供。
+③ He had acupuncture treatment once a fortnight for most of that winter.
+= 那个冬天大半时间，他每两周做一次针灸治疗。
 acupuncture treatment = 针灸治疗
 词族：
 acupuncturist = 针灸师
@@ -114,14 +114,14 @@ acuteness = 敏锐；严重程度
 acutely
 核心：两个用法：一是"强烈地"（加强语气，最常见的是
 acutely aware），二是医学上"急性地"。
-① I'm acutely aware of the risk.
-= 我非常清楚那个风险。
+① I'm acutely aware of the risk and have said so at every single meeting.
+= 我非常清楚那个风险，每场会上都说过。
 acutely aware = 深切意识到
-② She felt it acutely.
-= 她感受强烈。
+② She felt it acutely and did not mention it to anyone for months.
+= 她感受强烈，却好几个月没跟任何人提过。
 feel acutely = 强烈感受
-③ The patient is acutely ill.
-= 那名患者病情急重。
+③ The patient is acutely ill and needs a bed that the hospital does not have.
+= 那名患者病情急重，需要一张医院拿不出的床位。
 acutely ill = 急性重症的
 词族：
 acute = 敏锐的；急性的
@@ -153,13 +153,13 @@ ad blocker = 广告拦截插件
 ad hoc
 核心：拉丁语借词，指"为这一件事临时设立的"，不是常设的。
 既作形容词也作副词。常见 an ad hoc committee。
-① They set up an ad hoc committee.
-= 他们成立了个临时委员会。
+① They set up an ad hoc committee that has now been running for nine years.
+= 他们成立了个临时委员会，如今已经运转九年。
 ad hoc committee = 特设委员会
-② Decisions were made ad hoc.
-= 决定是临时做的。
-③ It's an ad hoc arrangement.
-= 那是临时安排。
+② Decisions were made ad hoc and nobody kept a record of any of them.
+= 决定都是临时做的，一条也没留下记录。
+③ It's an ad hoc arrangement and works better than the system it replaced.
+= 那是临时安排，却比它取代的那套制度好使。
 ad hoc arrangement = 临时安排
 注意：ad hoc 常带"没章法、没规划"
 的隐含批评。
@@ -171,14 +171,14 @@ improvised = 临场发挥的
 ad hominem
 核心：拉丁语短语，字面是"针对人的"，指辩论时不驳对方的论点，
 而是攻击对方这个人。既作形容词也作副词，逻辑学里算一种谬误。
-① That's an ad hominem attack.
-= 那是人身攻击。
+① That's an ad hominem attack and it tells you the argument has run out.
+= 那是人身攻击，说明道理已经讲完了。
 ad hominem attack = 人身攻击
-② He argued ad hominem throughout.
-= 他全程都在针对人而不是讲理。
+② He argued ad hominem throughout and lost the room in about ten minutes.
+= 他全程针对人不讲理，十分钟左右就把全场说走了。
 这里作副词用。
-③ Ad hominem arguments prove nothing.
-= 这种论证什么也证明不了。
+③ Ad hominem arguments prove nothing and are remarkably hard to resist.
+= 这种论证什么也证明不了，却出奇地难以抵挡。
 ad hominem argument = 人身攻击式论证
 注意语域：
 辩论、逻辑学与评论文章里常见。

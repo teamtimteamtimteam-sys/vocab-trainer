@@ -242,14 +242,14 @@ a sense of achievement = 成就感
 achiever
 核心：指成就突出的人，最常见的是 high achiever（成绩优异者）
 和 underachiever（未发挥出应有水平的人）。
-① She is a high achiever.
-= 她是个成绩优异的人。
+① She is a high achiever and has not taken a full week off since 2016.
+= 她是个成绩优异的人，二零一六年起没休过一整周的假。
 high achiever = 高成就者
-② The school supports underachievers.
-= 那所学校帮助学习吃力的学生。
+② The school supports underachievers with two hours of tutoring a week.
+= 那所学校每周给两小时辅导，帮助学习吃力的学生。
 underachiever = 表现低于潜力者
-③ Achievers set clear goals.
-= 有成就的人目标明确。
+③ Achievers set clear goals and then move the goalposts on themselves.
+= 有成就的人目标明确，接着又自己把标杆往前挪。
 词族：
 achieve = 实现
 achievement = 成就
@@ -260,13 +260,13 @@ Achilles heel
 核心：从同一个神话来的比喻，指"致命弱点"——别处再强，
 就这一处一戳就破。跟解剖学上那根跟腱是同源不同用：
 一个说身体部位，一个说抽象的软肋。
-① Defence is the team's Achilles heel.
-= 防守是那支队伍的致命弱点。
+① Defence is the team's Achilles heel and everyone in the league knows it.
+= 防守是那支队伍的致命弱点，联赛里人人都知道。
 one's Achilles heel = 某人的致命弱点
-② Vanity proved his Achilles heel.
-= 虚荣成了他的软肋。
-③ The supply chain is an Achilles heel.
-= 供应链是个要害弱点。
+② Vanity proved his Achilles heel and cost him a career of thirty years.
+= 虚荣成了他的软肋，葬送了三十年的事业。
+③ The supply chain is an Achilles heel that one closed port can expose.
+= 供应链是个要害弱点，一个港口关闭就能暴露出来。
 注意用法：
 比喻说法，前面常加物主代词。
 注意别混：
@@ -277,13 +277,13 @@ Achilles tendon
 核心：小腿后侧连到脚跟的那根粗肌腱，是人体最粗最强的一根，
 走路跑跳全靠它把小腿肌肉的力传到脚上。名字出自荷马史诗：
 阿喀琉斯全身刀枪不入，只有脚跟这一处例外。
-① He ruptured his Achilles tendon.
-= 他的跟腱断了。
+① He ruptured his Achilles tendon stepping off a kerb, not playing sport.
+= 他跟腱断裂是下路缘石时弄的，不是运动时。
 rupture the Achilles tendon = 跟腱断裂
-② The Achilles tendon links calf to heel.
-= 跟腱把小腿连到脚跟。
-③ Runners often strain the Achilles tendon.
-= 跑步的人常拉伤跟腱。
+② The Achilles tendon links calf to heel and carries several times your weight.
+= 跟腱把小腿连到脚跟，承受着你体重的好几倍。
+③ Runners often strain the Achilles tendon after raising their mileage too fast.
+= 跑量加得太快，跑步的人常拉伤跟腱。
 strain the tendon = 拉伤肌腱
 注意语域：
 解剖学与运动医学术语，以神话人物命名故大写。
@@ -312,12 +312,12 @@ achingly = 令人心疼地、极其地
 achoo
 核心：拟声词，模仿打喷嚏的声音，相当于中文的"阿嚏"。
 也拼作 atishoo（英式）。
-① "Achoo!" she sneezed.
-= "阿嚏！"她打了个喷嚏。
-② Achoo — excuse me.
-= 阿嚏——不好意思。
-③ The cartoon spelled it "achoo".
-= 那部动画把喷嚏声写成「achoo」。
+① Achoo, she sneezed, and every head in the reading room came up at once.
+= 她「阿嚏」一声，阅览室里所有人的头都抬了起来。
+② Achoo — that is the fourth one since we walked past the cut grass.
+= 阿嚏，从走过那片刚割的草起，这是第四个了。
+③ The cartoon spelled it achoo and the British edition changed it.
+= 那部动画把喷嚏声写成「achoo」，英国版给改掉了。
 注意英美拼写：
 achoo = 阿嚏（美式拟声）
 atishoo = 阿嚏（英式拟声）
@@ -329,13 +329,13 @@ yawn = 打哈欠
 achy
 核心：口语形容词，指"隐隐作痛的、酸疼的"。
 感冒和运动后最常用。
-① I feel achy all over.
-= 我浑身酸疼。
+① I feel achy all over and cannot decide whether it is flu or the garden.
+= 我浑身酸疼，说不清是流感还是园子里干活闹的。
 achy all over = 浑身酸痛
-② Her legs were achy.
-= 她腿发酸。
-③ Achy joints signal flu.
-= 关节酸痛是流感的迹象。
+② Her legs were achy from a walk that had turned out twice as long as planned.
+= 那段路走出了计划的两倍长，她腿发酸。
+③ Achy joints signal flu more reliably than a temperature does.
+= 关节酸痛比发烧更能说明是流感。
 achy joints = 关节酸痛
 词族：
 ache = 疼痛
@@ -416,13 +416,13 @@ carbonic acid = 碳酸
 acidic
 核心：化学上指"酸性的"，与碱性相对；日常也指食物"发酸的"。
 和形容词 acid 意思重叠，acidic 更偏技术。
-① The soil is acidic.
-= 那片土壤呈酸性。
+① The soil is acidic and grows rhododendrons better than anything else.
+= 那片土壤呈酸性，种杜鹃比种什么都好。
 acidic soil = 酸性土壤
-② Citrus fruits are acidic.
-= 柑橘类水果偏酸。
-③ Acidic water damages pipes.
-= 酸性水会腐蚀管道。
+② Citrus fruits are acidic and wear enamel down faster than sugar does.
+= 柑橘类水果偏酸，磨损牙釉质比糖还快。
+③ Acidic water damages pipes and picks up metal on the way to the tap.
+= 酸性水腐蚀管道，流到龙头一路带上金属。
 反义词：
 alkaline = 碱性的
 词族：
@@ -432,14 +432,14 @@ acidity = 酸度
 acidity
 核心：指"酸度"这个可测量的性质。不可数。
 食品、土壤、葡萄酒的品评里都用。
-① Test the soil's acidity.
-= 测一下土壤酸度。
+① Test the soil's acidity before you buy a single plant for that bed.
+= 给那块花坛买植物之前，先测一下土壤酸度。
 soil acidity = 土壤酸度
-② The wine has balanced acidity.
-= 那款酒酸度平衡。
+② The wine has balanced acidity and will keep for another fifteen years.
+= 那款酒酸度平衡，还能再存十五年。
 balanced acidity = 酸度平衡
-③ High acidity harms fish.
-= 高酸度对鱼有害。
+③ High acidity harms fish long before it makes the water look any different.
+= 水面还看不出变化，高酸度就已经在害鱼了。
 high acidity = 高酸度
 词族：
 acid = 酸
