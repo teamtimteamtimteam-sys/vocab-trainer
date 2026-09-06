@@ -253,9 +253,74 @@ apprehension ③ 本来是「抓捕嫌疑人花了几天」，跟 apprehend ① 
 这条已改回真用法：抓捕主犯花了三年、还要两个国家配合 ——
 仍是逮捕义，跟 apprehend ① 的渡轮码头也不撞。
 
+**已经补上一把尺子：audit-padding 的【元评论例句】**（2026-09-06 加，只报告不拦截）
+【例句里没有词】只问「词头在不在句子里」，问不出「它在句子里是被使用还是被谈论」。
+apprehension ③ 那一句里 apprehension 明明在，可整句在谈论这个词 —— 同一个漏洞，
+新的触发路径。新加的这一项判的正是语言学里的**使用 / 提及之分**（use / mention）。
+**判据不是「有没有提到语言」** —— 这一点是不误伤的全部关键。仓库里 anagram、
+antonym、apocope、allophone、antepenultimate、alphabetical 这些词条的例句
+天生在讲语言现象（"Listen" is an anagram of "silent"、The stress falls on the
+antepenultimate syllable），它们把词头用在真实位置上，一条都不该报。
+做法四步：① 找出词头在句中的所有词形；② 逐个判断是「被提及」还是「被使用」——
+被提及＝夹在引号里（直接引语除外）、跟在 the word / the term / the spelling
+后面作同位语、是 spell it … 的宾语、或后面紧跟 is spelled / is short for /
+which … is meant；③ **只要还剩一个确凿词形在正常使用就放行**；④ 全是提及、
+或整句根本没有确凿词形，且句中确有元语言框架，才报。
+第 ③ 步用的是收紧过的词形判定（same_word(firm=True)）：编辑距离猜出来的形近词
+不算真用法。不收紧的话 The word once meant a candle maker. 会因为 candle 跟
+chandler 只差两个字母而被当成真用法放行 —— chandler、auld lang syne、betwixt
+三条就是这么漏的。related() 已重构成跟它共用一把尺子（两处各写一份的坑，
+check-wordlist 的 EQ 正则已经栽过一次）。
+
+**全表跑出 51 条，逐条看过，全是真的，没有一条误报。**（a 5 / b 19 / c 26 / d 1）
+分三类，都是「凑不出真例句就改写成谈论这个词」的老毛病：
+  · 拼写变体（最多）：The spelling bulgur is more common. / Americans write center. /
+    British books spell it shanty. / Old accounts spell it assagai.
+    —— bulgar burka corselette cowrie crosier crozier crudites cypher cesarean
+    chantey chocoholic bogy achoo assagai bandit burnous cissy customize critic
+    comic centre colour conservatoire chaise curaçao catsup Belorussian
+    Britisher Britishism bosun
+  · 词源与年代：The word alleluia comes from Hebrew. / The word once meant a
+    bailiff's district. —— alleluia bus bailiwick chandler cyber bae azoic
+    career betwixt auld lang syne
+  · 语域与用词取舍：The word cunt is the strongest in English. / The neutral term
+    is businessperson. / Most people say budgie. —— cunt bull dago crone
+    brassiere businessman businessperson budgerigar burgle corn colossus
+**这些条目本身该收**（英美拼法之别、语域轻重都是真知识），错的是**把它写成了
+例句**。正解跟 banister ④ 那次一样：把这句话挪进核心块或讲解行，例句位置换成
+真用法。改的时候别动等式行。
+
+**为什么先不并进退出码**：头一次跑就是 51 条，全并进去这道闸门从第一天起就红着，
+而**一直报红的闸门等于没有闸门**（cp 那条的教训）。所以它现在只印不判，
+退出码那一行里没有 talk。**跟着回填一条条清完、报到 0 之后，就把 talk 加进
+`return 1 if (fake or dupes or meta) else 0`**，它才真的开始拦人。
+在那之前，回填走到上面那 51 个词头时顺手改掉。
+
+**尺子自己也有自测**：`python3 scripts/audit-padding.py --selftest`，24 条用例，
+一半是该报的、一半是「例句里全是语言学字眼但词头是真用法」的不该报的
+（anagram、antonym、apocope、allomorph、antepenultimate、alphabetical、
+advise 的 use the word advisedly、comprehend 的 The term comprehends both senses、
+bee 的 spelling bee、term 的「学期」、form 的「表格」）。**改这把尺子之前先跑它。**
+
+**验过它真拦得住**：把 apprehension ③ 那句元评论原样塞回词表，另外八道闸门
+（check-wordlist / coverage / audit-depth / audit-swallowed / audit-ab /
+audit-idioms / audit-prefix / audit-examples）**全部 exit=0 放行**，
+新这一项报了出来（理由：which ＜词头＞ is meant；句首「the word」）。
+验完已还原词表。
+
+**它现在看不见的（照旧要用眼睛兜底）**：
+  · 「the older slang use of crumpet is offensive」这类拿 use of 挂着的
+    —— 加 use of 会误伤 the use of force，没加；
+  · 「Calling someone a cripple is offensive today」这类 Calling X a Y 的框架
+    —— 那句多少还是在用这个词，故意放过；
+  · 「Outside that title, British is the word you want」（Britannic ③）
+    —— 谈的是该用哪个词，可句里根本没有词头的确凿词形，也没元语言框架；
+  · 「Comics spell the sound as bam」—— 动词跟词头之间隔了三个词，超出窗口。
+
 ═══ 每批必跑的九道闸门 ═══
 check-wordlist.py → coverage.py <段> → audit-depth.py <段>
-→ audit-swallowed.py → audit-padding.py（内含【例句里没有词】一项）
+→ audit-swallowed.py → audit-padding.py（内含【例句里没有词】一项；
+   还有【元评论例句】一项，只报告不计退出码，见上）
 → audit-ab.py → audit-idioms.py → audit-prefix.py <段>
 → **audit-examples.py <本批词头...>**（例句承载力，2026-09-05 加）
 其中五道在 .githooks/pre-commit 里，会真的拦提交。

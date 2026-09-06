@@ -17,7 +17,12 @@
 两类分别报：
   【假义项】例句本身就跟词头无关 —— 必须改写或删掉
   【等式挂歪】例句是真义项，只是等式顺手教了别的词 —— 可容忍，不该多
+
+另外两道：
+  【例句里没有词】例句本身必须出现词头（2026-09-05 加，计退出码）
+  【元评论例句】例句在谈论这个词本身、不是在用它（2026-09-06 加，**只报告**）
 用法：python3 scripts/audit-padding.py [字母段]      不给段就查全表
+      python3 scripts/audit-padding.py --selftest    只跑【元评论例句】的用例
 """
 import sys, io, re, glob, unicodedata, importlib.util as u
 spec = u.spec_from_file_location('cw', 'scripts/check-wordlist.py')
@@ -60,35 +65,190 @@ STRONG = {'catch': ['caught'], 'buy': ['bought'], 'teach': ['taught'],
           'speak': ['spoke'], 'steal': ['stole'], 'freeze': ['froze'],
           'choose': ['chose'], 'seek': ['sought'], 'strike': ['struck']}
 
+def cuts_of(t):
+    """词头实词 t 的各种派生词干 —— 词尾 e / y 脱落、强变化、拉丁复数"""
+    cuts = [t, t.rstrip('e'), t.rstrip('y'), t[:-1]]   # bake→baking、apiary→apiarist
+    if t.endswith('y'): cuts.append(t[:-1] + 'i')      # cry→cried、copy→copies
+    if t.endswith('f'): cuts.append(t[:-1] + 'v')      # calf→calves、leaf→leaves
+    if t in STRONG: cuts += STRONG[t]                  # catch→caught 这类强变化
+    if t.endswith(('ex', 'ix')): cuts.append(t[:-2] + 'ic')   # codex→codices
+    return cuts
+
+def same_word(t, w, firm=False):
+    """句中单词 w 是不是词头实词 t 的一个词形 —— 逐词判定。
+
+    firm=True 只认**确凿**的词形（原形、派生、复合词里的词干），不认编辑距离
+    猜出来的形近词。两档并存是有用的：判「有没有沾边」要放宽（宁可漏报），
+    判「这一句里还有没有真用法」要收紧 —— 否则 The word once meant a candle
+    maker. 会因为 candle 跟 chandler 只差两个字母而被当成真用法放行。
+    """
+    for cut in cuts_of(t):
+        if len(cut) >= 3 and w.startswith(cut): return True
+        # 变形出现在复合词尾部：airborne 里的 borne、handmade 里的 made。
+        # 长度收到 4 以上，免得三字母词干到处误命中。
+        if len(cut) >= 4 and cut in w: return True
+    if firm or len(t) < 4: return False
+    if dist(t, w) <= 2: return True                    # 认得不规则变位
+    # betake→betook、forsake→forsook：前三字母相同的强变化动词
+    if len(t) >= 6 and w[:3] == t[:3] and dist(t, w) <= 3: return True
+    # bear→bore、speak→spoke：首尾字母相同、只换中间元音
+    if (len(w) == len(t) and w[0] == t[0] and w[-1] == t[-1]
+            and sum(a != b for a, b in zip(w, t)) <= 2): return True
+    return False
+
+def heads_of(head):
+    return [t for t in fold(head).split() if len(t) >= 3]
+
 def related(head, text):
     """义项里有没有跟词头同源的字眼"""
-    hts = [t for t in fold(head).split() if len(t) >= 3]
+    hts = heads_of(head)
     if not hts: return True
     flat = text.replace(' ', '')
     toks = text.split()
     for t in sorted(hts, key=len, reverse=True):
         if t[:4] in flat: return True          # 子串即可，认得复合词
-        # 词尾 e / y 脱落的派生：bake→baking、ally→allies、apiary→apiarist
-        cuts = [t.rstrip('e'), t.rstrip('y'), t[:-1]]
-        if t.endswith('y'): cuts.append(t[:-1] + 'i')             # cry→cried、copy→copies
-        if t.endswith('f'): cuts.append(t[:-1] + 'v')             # calf→calves、leaf→leaves
-        if t in STRONG: cuts += STRONG[t]                          # catch→caught 这类强变化
-        if t.endswith(('ex', 'ix')): cuts.append(t[:-2] + 'ic')   # codex→codices
-        for cut in cuts:
-            if len(cut) >= 3 and any(w.startswith(cut) for w in toks): return True
-            # 变形出现在复合词尾部：airborne 里的 borne、handmade 里的 made。
-            # 长度收到 4 以上，免得三字母词干到处误命中。
-            if len(cut) >= 4 and any(cut in w for w in toks): return True
-    for t in hts:
-        if len(t) < 4: continue
-        for w in toks:
-            if dist(t, w) <= 2: return True    # 认得不规则变位
-            # betake→betook、forsake→forsook：前三字母相同的强变化动词
-            if len(t) >= 6 and w[:3] == t[:3] and dist(t, w) <= 3: return True
-            # bear→bore、speak→spoke：首尾字母相同、只换中间元音
-            if (len(w) == len(t) and w[0] == t[0] and w[-1] == t[-1]
-                    and sum(a != b for a, b in zip(w, t)) <= 2): return True
+        if any(same_word(t, w) for w in toks): return True
     return False
+
+# ── 【元评论例句】整句在谈论这个词本身，而不是在使用它 ──────────────
+# 【例句里没有词】只问「词头在不在句子里」，问不出「它在句子里是被使用还是
+# 被谈论」。apprehension ③ 曾经写成
+#     The word covers both the fear and the arrest, and only the context
+#     tells you which apprehension is meant.
+# 词形就在句中，九道闸门全绿，可这一句从头到尾在谈论这个词。（2026-09-06
+# 第十八批，GOAL.txt 里记的「改撞车的时候最容易滑进元评论」。）
+#
+# 判据是语言学里的「使用 / 提及」（use / mention）之分，**不是**「有没有提到
+# 语言」—— 这一点是不误伤的关键。仓库里 anagram、antonym、apocope、
+# allophone、antepenultimate、alphabetical 这些词条的例句天生在讲语言现象
+# （"Listen" is an anagram of "silent"、The stress falls on the
+# antepenultimate syllable），可它们把词头用在真实位置上，一条都不该报。
+#
+# 做法：
+#   ① 找出词头在句中的所有词形；
+#   ② 逐个判断它是「被提及」还是「被使用」——
+#      被提及＝夹在引号里（排除直接引语）、跟在 the word / the term /
+#      the spelling 之类元语言名词后面作同位语、或是 spell it … 的宾语；
+#   ③ **只要还剩一个确凿词形是在正常使用，就放行**；
+#   ④ 全是提及、或整句根本没有确凿词形，且句中确有元语言框架，才报。
+# 第 ③ 步用的是 same_word(firm=True)：编辑距离猜出来的形近词（candle 之于
+# chandler、long 之于 auld lang syne）不算真用法，否则一句纯元评论只要碰巧
+# 含一个形近词就被放行。
+META_STRONG = ('word', 'term', 'phrase', 'expression', 'spelling',
+               'abbreviation', 'plural', 'singular')
+# 这几个日常义太常见（the name of the shop、the verb takes an object），
+# 只在「紧跟着一个词头词形」时才当元语言名词用，不单独当句首框架。
+META_WEAK = ('name', 'adjective', 'adverb', 'noun', 'verb', 'suffix', 'prefix')
+META = META_STRONG + META_WEAK
+DET = ('the', 'a', 'an', 'this', 'that')
+# 直接引语里的词头是真用法："Aye, captain." / He cried "Begone!"
+SPEECH = ('said', 'says', 'cried', 'shouted', 'whispered', 'asked', 'replied',
+          'added', 'announced', 'muttered', 'yelled', 'answered', 'remarked')
+# 「提及」动词：跟在它后面的 the word X 是在谈这个词，不是在用
+MENTIONV = ('use', 'uses', 'used', 'using', 'mention', 'mentions', 'mentioned',
+            'prefer', 'prefers', 'preferred', 'reclaim', 'reclaims', 'reclaimed',
+            'write', 'writes', 'wrote', 'spell', 'spells', 'spelled', 'spelt',
+            'hate', 'hates', 'hated', 'avoid', 'avoids', 'avoided', 'coin',
+            'coined', 'replaced', 'dislike', 'dislikes', 'disliked', 'banned')
+# 只收动词形。'spelling' 是名词（won the spelling bee），
+# 'pronounce' 有 pronounce anathema / sentence 这类真用法，都不能进。
+SPELLV = ('spell', 'spells', 'spelled', 'spelt', 'misspell', 'misspells')
+# write / say 本身太常见（wrote a biography、said amen、writes code 都是真
+# 用法），只有主语是「某一群人 / 某一类文本」时才是在说这个词怎么写。
+SAYV = ('write', 'writes', 'wrote', 'say', 'says', 'said')
+SOURCE = ('americans', 'american', 'british', 'canadians', 'canadian',
+          'australians', 'australian', 'scots', 'irish', 'older', 'old',
+          'modern', 'victorian', 'most', 'some', 'many', 'nobody', 'everybody',
+          'writers', 'editors', 'texts', 'books', 'novels', 'maps', 'labels',
+          'guides', 'dictionaries', 'papers', 'journals', 'menus', 'recipes',
+          'accounts', 'editions', 'comics', 'sources', 'publishers',
+          'speakers', 'style')
+BRIDGE = ('it', 'as', 'them', 'often', 'usually', 'always', 'still', 'now',
+          'also', 'only', 'not', 'the', 'sound', 'word', 'name')
+# 系动词/助动词：用来分辨「the term comprehends…」（comprehend 是谓语动词，
+# 真用法）与「the spelling crudités is also used」（crudités 是被提到的词）
+AUX = ('is', 'are', 'was', 'were', 'has', 'have', 'had', 'does', 'do', 'did',
+       'will', 'would', 'can', 'could', 'may', 'might', 'seems', 'sounds',
+       'remains', 'appears', 'looks')
+# 铁定在谈词语本身的谓语（跟在被提及的词后面）
+METAPRED = (r'is (spelt|spelled|pronounced|hyphenated|capitalised|capitalized)\b',
+            r'is (a|an|the) [a-z ]{0,14}spelling\b',
+            r'is short for\b', r'rhymes with\b', r'is stressed\b',
+            r'is an abbreviation\b', r'is a loanword\b')
+
+def metatalk(head, ex):
+    """例句是不是在谈论这个词本身。是就返回理由列表，不是返回 None。"""
+    raw = ex.strip(); low = fold(raw); toks = low.split()
+    hts = heads_of(head)
+    if not hts: return None
+    # 引号里的短片段（1-3 个词）算「被引用的词」；直接引语不算
+    quoted = set()
+    for m in re.finditer(r'["“”‘’](\w[\w \-\'’]*?)["“”‘’]', raw):
+        span = fold(m.group(1)).split()
+        if not 1 <= len(span) <= 3: continue
+        b = raw[:m.start()].split(); a = raw[m.end():].split()
+        if (b and fold(b[-1]).strip() in SPEECH) or (a and fold(a[0]).strip(' ,.') in SPEECH):
+            continue
+        quoted.update(span)
+    occ = [i for i, w in enumerate(toks) if any(same_word(t, w) for t in hts)]
+    firm = set(i for i in occ if any(same_word(t, toks[i], True) for t in hts))
+
+    def meta_np(j):
+        """toks[j] 是元语言名词，且这个名词短语正处在「谈论一个词」的位置"""
+        if j < 0 or j >= len(toks) or toks[j] not in META: return False
+        k = j - 1
+        while k >= 0 and k >= j - 3 and toks[k] not in DET: k -= 1   # 跳过形容词
+        if k < 0 or toks[k] not in DET: return False
+        return k == 0 or toks[k - 1] in MENTIONV        # 句首，或跟在提及动词后
+
+    def spell_frame():
+        for k, w in enumerate(toks):
+            if w in SPELLV and toks[k + 1:k + 2] and toks[k + 1] in ('it', 'them'):
+                return '「%s it ＜某拼法＞」' % w
+            if w in SAYV and k + 1 < len(toks) and set(toks[:k]) & set(SOURCE):
+                return '「＜某群体＞ %s ＜某词＞」' % w
+        return None
+
+    def mention(i):
+        w = toks[i]
+        if w in quoted: return '引号里的＜词头＞'
+        # 同位语：the word alleluia / the spelling bulgur。
+        # 词尾 -s 多半是跟元语言主语一致的动词（The term comprehends both
+        # senses），-ly 是副词（I use the word advisedly）—— 除非后面紧跟
+        # 系动词，那说明它自己就是被提到的那个词（The spelling crudités is…）。
+        if not w.endswith(('s', 'ly')) or set(toks[i + 1:i + 4]) & set(AUX):
+            j = i - 1
+            if j >= 0 and toks[j] in DET: j -= 1
+            if j >= i - 2 and meta_np(j): return 'the %s ＜词头＞' % toks[j]
+        # 拼写/说法动词的宾语：Old accounts spell it assagai / Americans write center
+        if not w.endswith('ly'):
+            for k in range(max(0, i - 3), i):
+                if not all(x in BRIDGE for x in toks[k + 1:i]): continue
+                if toks[k] in SPELLV: return '%s … ＜词头＞' % toks[k]
+                if toks[k] in SAYV and set(toks[:k]) & set(SOURCE):
+                    return '＜某群体＞ %s ＜词头＞' % toks[k]
+        # spell it sissy, not cissy —— 对照项也是被提及的
+        if i and toks[i - 1] in ('not', 'than') and spell_frame():
+            return 'not ＜词头＞'
+        rest = ' '.join(toks[i + 1:i + 5])
+        for p in METAPRED:
+            m = re.match(p, rest)
+            if m: return '＜词头＞ ' + m.group(0)
+        # which apprehension is meant —— 词头被指着说「是哪个意思」
+        if i and toks[i - 1] in ('which', 'that', 'what') and re.match(r'is meant\b', rest):
+            return 'which ＜词头＞ is meant'
+        return None
+
+    reasons = [mention(i) for i in occ]
+    if any(r is None and i in firm for i, r in zip(occ, reasons)):
+        return None                     # 还有一个确凿词形在正常使用 → 放行
+    frames = [r for r in reasons if r]
+    for j, w in enumerate(toks[:4]):
+        if w in META_STRONG and meta_np(j):
+            frames.append('句首「the %s」' % w); break
+    f = spell_frame()
+    if f: frames.append(f)
+    return list(dict.fromkeys(frames)) or None
 
 def entries():
     for p in [f for f in sorted(glob.glob('wordlists/B-*.txt')) if 'merged' not in f]:
@@ -105,9 +265,61 @@ def senses(L):
             body.append(l)
         yield L[a], body
 
+# 【元评论例句】这道尺子的整个难处在于「不误伤」：仓库里 anagram、antonym、
+# apocope、allophone、antepenultimate 这些词条的例句本来就在讲语言现象。
+# 这些例子钉在这里，改尺子时先跑 `python3 scripts/audit-padding.py --selftest`。
+SELFTEST = [
+    # 该报的
+    ('apprehension', 'The word covers both the fear and the arrest, and only '
+                     'the context tells you which apprehension is meant.', True),
+    ('banister', 'This word also has another spelling.', True),
+    ('cunt', 'The word cunt is the strongest in English.', True),
+    ('bailiwick', 'The word once meant a bailiff’s district.', True),
+    ('centre', 'Americans write center and put the last two letters the other way round.', True),
+    ('assagai', 'Old accounts spell it assagai.', True),
+    # 不该报：例句在讲语言现象，但词头用在真实位置上
+    ('anagram', '"Listen" is an anagram of "silent", which is the example every '
+                'puzzle book opens with.', False),
+    ('antonym', '"Hot" is the antonym of "cold", though neither word means much '
+                'without something to measure.', False),
+    ('apocope', 'Apocope shortened the word over time until the ending disappeared '
+                'altogether.', False),
+    ('allomorph', 'The plural ending has three allomorphs in English.', False),
+    ('antepenultimate', 'The stress falls on the antepenultimate syllable, which is '
+                        'why the word sounds wrong when shortened.', False),
+    ('alphabetical', 'Files are in alphabetical order, which is no help if you '
+                     'forget the name.', False),
+    # 不该报：元语言字眼在句子里，可词头本身是被使用的
+    ('advise', 'I use the word advisedly, having read every page of the report.', False),
+    ('comprehend', 'The term comprehends both senses.', False),
+    ('collocate', 'The two words collocate strongly.', False),
+    ('connotation', 'The word has negative connotations.', False),
+    ('borrowing', 'The word is a borrowing from Japanese and kept its original plural.', False),
+    ('correct', 'Spell it correctly or the whole record will be filed under the wrong letter.', False),
+    ('bee', 'She won the spelling bee on a word that nobody in the hall could define.', False),
+    # 不该报：the word / the term / the form 的日常义
+    ('term', 'The term ends in June and the exams start the week after.', False),
+    ('form', 'Please complete the form in black ink and sign it at the bottom.', False),
+    ('biography', 'She wrote a biography of Churchill.', False),
+    ('amen', 'The congregation said amen and the organ started before anyone had lifted a head.', False),
+    ('anathema', 'The council pronounced anathema on him and the sentence stood for centuries.', False),
+]
+
+def selftest():
+    bad = 0
+    for h, ex, want in SELFTEST:
+        got = bool(metatalk(h, ex))
+        if got != want:
+            bad += 1
+            print('  ✗ %-16s 应%s报，实际%s报：%s'
+                  % (h, '' if want else '不', '' if got else '不', ex[:62]))
+    print('【元评论例句】自测 %d 条，不合 %d 条' % (len(SELFTEST), bad))
+    return 1 if bad else 0
+
 def main(argv):
+    if argv and argv[0] == '--selftest': return selftest()
     seg = argv[0].lower() if argv else None
-    tot = 0; fake = []; lazy = []; meta = []
+    tot = 0; fake = []; lazy = []; meta = []; talk = []
     for h, L in entries():
         if seg and not h.lower().startswith(seg): continue
         for ex, body in senses(L):
@@ -123,6 +335,8 @@ def main(argv):
             # 美国人怎么拼 / 那个缩写没有复数」。它们不教词，只谈词。
             if not related(h, fold(ex)):
                 meta.append((h, ex.strip(), eqs[0].strip() if eqs else ''))
+            why = metatalk(h, ex[1:])
+            if why: talk.append((h, ex.strip(), '；'.join(why)))
             if related(h, whole): 
                 # 例句沾边，再看第一条等式是不是在教别的词
                 if eqs and not related(h, fold(eqs[0].split('=')[0])):
@@ -195,12 +409,22 @@ def main(argv):
     for h, ex, eq in meta[:60]:
         print('      %-20s %-44s %s' % (h, ex[:44], eq[:30]))
     if len(meta) > 60: print('      ……还有 %d 条' % (len(meta) - 60))
+    print('  【元评论例句】整句在谈论这个词本身、不是在用它：%d 条 (%.1f%%)  ← 只报告，不计退出码'
+          % (len(talk), 100.0 * len(talk) / max(tot, 1)))
+    for h, ex, why in talk[:80]:
+        print('      %-18s %-52s %s' % (h, ex[:52], why))
+    if len(talk) > 80: print('      ……还有 %d 条' % (len(talk) - 80))
     print('  【等式挂歪】例句是真义项，等式教了别的词：%d 条 (%.1f%%)'
           % (len(lazy), 100.0 * len(lazy) / max(tot, 1)))
     print('  【重复义项】同一词条里两条例句实质是同一句：%d 对' % len(dupes))
     for h, e1, e2 in dupes[:30]:
         print('      %-18s %s' % (h, e1[:44]))
         print('      %-18s %s' % ('', e2[:44]))
+    # 【元评论例句】暂不计进退出码：2026-09-06 头一次全表跑就报出 50 条，
+    # 全是真的（拼写变体、词源、语域说明写成了例句）。这些得跟着回填一条条
+    # 换成真用法，在那之前把它并进退出码只会让这道闸门一直红着 ——
+    # GOAL.txt 记着「一直报红的闸门等于没有闸门」。
+    # **清到 0 之后就把 talk 加进下面这一行**，它才真的开始拦人。
     return 1 if (fake or dupes or meta) else 0
 
 if __name__ == '__main__':
