@@ -2,14 +2,14 @@ axel
 核心：花样滑冰的一种跳跃，特点是唯一一个"向前起跳"的跳法，
 因此空中要多转半圈——三周半跳其实转的是三点五圈。
 以最早做出它的挪威选手命名，所以小写也常见。
-① She landed a triple axel.
-= 她完成了一个三周半跳。
+① She landed a triple axel and was the sixth woman ever to do it in competition.
+= 她完成了一个三周半跳，是史上第六位在比赛中做到的女子选手。
 land a triple axel = 落成三周半跳
-② The axel takes off from a forward edge.
-= 这个跳跃是从向前的刃上起跳的。
+② The axel takes off from a forward edge, which is why it is the hardest to learn.
+= 这个跳跃从向前的刃上起跳，所以最难学。
 take off from a forward edge = 由前刃起跳
-③ An axel adds half a rotation.
-= 这种跳法要多转半圈。
+③ An axel adds half a rotation, so a triple is really three and a half turns.
+= 这种跳法要多转半圈，所以三周半跳其实转的是三点五圈。
 注意用法：
 名字来自选手姓氏，大小写都见得到。
 注意语域：
@@ -19,13 +19,13 @@ axeman
 核心：两层。字面指"用斧头的人"——伐木工、刽子手都算；比喻着用
 指企业里"负责裁员砍成本的人"，报纸标题里最爱这么写。
 美式拼 axman。
-① The axeman felled the tree in minutes.
-= 那名伐木工几分钟就把树放倒了。
+① The axeman felled the tree in minutes and took an hour over the stump.
+= 那名伐木工几分钟就把树放倒，处理树桩却花了一小时。
 fell a tree = 放倒一棵树
-② The new boss came in as an axeman.
-= 新老板一来就是个裁员的角色。
-③ Headlines called the minister the axeman.
-= 报纸标题管那位大臣叫「砍刀手」。
+② The new boss came in as an axeman and closed two sites before Christmas.
+= 新老板一来就是个裁员的角色，圣诞前关掉了两个厂区。
+③ Headlines called the minister the axeman for a fortnight and then forgot him.
+= 报纸标题管那位大臣叫「砍刀手」，叫了两周就把他忘了。
 注意拼写：
 axeman = 用斧的人（英式）
 axman = 用斧的人（美式）
@@ -34,27 +34,27 @@ axial
 核心：形容词，指"轴的、沿着轴的"。工程上说绕轴或沿轴方向的受力
 与运动；医学影像上指"横断面的"，即垂直于人体长轴切下来的那一层。
 名词是 axis。
-① The bearing takes axial load.
-= 那个轴承承受轴向载荷。
+① The bearing takes axial load and fails quickly if it is asked to take side load.
+= 那个轴承承受轴向载荷，让它受侧向力就很快损坏。
 axial load = 轴向载荷
-② Axial scans slice the body crosswise.
-= 横断扫描把身体横着切层。
+② Axial scans slice the body crosswise and are read from below by convention.
+= 横断扫描把身体横着切层，按惯例是从下往上看的。
 axial scan = 横断面扫描
-③ The tilt is measured about the axial line.
-= 倾角是绕轴线量的。
+③ The tilt is measured about the axial line and drifts by a degree each decade.
+= 倾角是绕轴线量的，每十年偏移一度。
 注意语域：
 工程与医学影像术语。
 
 axiom
 核心：指不证自明的"公理、基本原理"。
 数学上是推理的出发点，日常指公认的道理。
-① It's a mathematical axiom.
-= 那是条数学公理。
+① It's a mathematical axiom and the whole system falls apart without it.
+= 那是条数学公理，没有它整个体系就散了。
 mathematical axiom = 数学公理
-② The axiom needs no proof.
-= 那条公理无需证明。
-③ It's an axiom of good management.
-= 那是良好管理的基本准则。
+② The axiom needs no proof, which is precisely what makes it an axiom.
+= 那条公理无需证明，而这正是它成为公理的原因。
+③ It's an axiom of good management that nobody in management believes.
+= 那是良好管理的基本准则，而管理层没人信它。
 词族：
 axiomatic = 不言自明的
 近义对照：

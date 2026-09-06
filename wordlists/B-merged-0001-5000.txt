@@ -34944,14 +34944,14 @@ avocet
 核心：一种涉禽，黑白羽色、腿细长，最显眼的是那张细长而向上翘的
 喙——它左右扫过浅水滩来捞小虫小虾。英国皇家鸟类保护协会
 拿它作会徽。
-① An avocet swept the shallows with its bill.
-= 一只反嘴鹬在浅滩上左右扫喙。
+① An avocet swept the shallows with its bill, side to side without stopping.
+= 一只反嘴鹬用喙在浅滩上左右扫过，一刻不停。
 sweep the shallows = 扫过浅水滩
-② The avocet has an upturned bill.
-= 反嘴鹬的喙是向上翘的。
+② The avocet has an upturned bill that no other wader in Europe shares.
+= 反嘴鹬的喙向上翘，欧洲别的涉禽都没有这样的喙。
 an upturned bill = 上翘的喙
-③ Avocets returned to the marshes.
-= 反嘴鹬回到了那片沼泽。
+③ Avocets returned to the marshes forty years after the last pair had gone.
+= 最后一对离开四十年后，反嘴鹬又回到了那片沼泽。
 注意语域：
 鸟类名称。
 
@@ -34974,13 +34974,13 @@ unavoidable = 不可避免的
 avoidable
 核心：指"本可避免的"，常带惋惜或批评。
 和 unavoidable 配对使用频率相当。
-① It was an avoidable accident.
-= 那是场本可避免的事故。
+① It was an avoidable accident and the report says so in the first line.
+= 那是场本可避免的事故，报告第一行就这么写。
 avoidable accident = 可避免的事故
-② Many deaths were avoidable.
-= 很多死亡本不该发生。
-③ The delay was avoidable.
-= 那次延误本可避免。
+② Many deaths were avoidable and the inquiry took three years to say it.
+= 很多死亡本不该发生，调查花了三年才把这话说出口。
+③ Nothing about the collapse was avoidable once the second bolt went.
+= 第二根螺栓一断，那次坍塌就再没有可避免的余地。
 反义词：
 unavoidable = 不可避免的
 词族：avoid、avoidance
@@ -34993,14 +34993,14 @@ avoidance
 核心：指"回避、躲开"这个行为。
 税务语境里 tax avoidance（合法避税）和 tax evasion（非法逃税）
 是必须分清的一对。
-① Tax avoidance is legal.
-= 避税是合法的。
+① Tax avoidance is legal and the line between it and evasion moves every budget.
+= 避税是合法的，而它与逃税之间的界线每逢预算案就挪一次。
 tax avoidance = 合法避税
-② His avoidance of the topic was obvious.
-= 他明显在回避那个话题。
+② His avoidance of the topic was obvious to everyone but the person raising it.
+= 他明显在回避那个话题，只有提起话题的人没看出来。
 avoidance of = 对…的回避
-③ Avoidance behaviour is common in anxiety.
-= 回避行为在焦虑中很常见。
+③ Avoidance behaviour is common in anxiety and makes the anxiety worse.
+= 回避行为在焦虑中很常见，而它会让焦虑更重。
 avoidance behaviour = 回避行为
 词族：avoid、avoidable
 注意区别：
@@ -35011,13 +35011,13 @@ avoirdupois
 核心：英美常衡制的名称——一磅等于十六盎司的那一套，日常称东西
 用的就是它。跟称金银的金衡制和称药的药衡制相区别。
 法语借词，读音跟拼写差得远。戏谑着用时指人的"体重、分量"。
-① Sugar is sold by avoirdupois weight.
-= 糖是按常衡制计重卖的。
+① Sugar is sold by avoirdupois weight and always has been in that shop.
+= 糖是按常衡制计重卖的，那家店一向如此。
 avoirdupois weight = 常衡重量
-② One avoirdupois pound is sixteen ounces.
-= 一常衡磅等于十六盎司。
-③ He joked about his avoirdupois.
-= 他拿自己的体重开玩笑。
+② One avoirdupois pound is sixteen ounces, and a troy pound is twelve.
+= 一常衡磅是十六盎司，一金衡磅则是十二盎司。
+③ He joked about his avoirdupois and then took the stairs anyway.
+= 他拿自己的体重开玩笑，随后还是走了楼梯。
 注意别混：
 avoirdupois = 常衡制（日常称重，一磅十六盎司）
 troy = 金衡制（称贵金属，一磅十二盎司）
@@ -35046,14 +35046,14 @@ avowal = 公开承认、坦白表白
 avowed
 核心：指"公开宣称的、自认的"，只作定语。
 常修饰 aim、intention、enemy、atheist。
-① He is an avowed atheist.
-= 他是个公开的无神论者。
+① He is an avowed atheist who has attended more funerals in church than most believers.
+= 他是个公开的无神论者，在教堂参加的葬礼比多数信徒还多。
 avowed atheist = 自认的无神论者
-② Their avowed aim is reform.
-= 他们公开宣称的目标是改革。
+② Their avowed aim is reform and their actual aim is survival.
+= 他们公开宣称的目标是改革，实际目标是活下去。
 avowed aim = 明言的目标
-③ She is an avowed critic.
-= 她是公开的批评者。
+③ She is an avowed critic of the scheme and sits on the committee that runs it.
+= 她公开批评那个方案，人却坐在主管它的委员会里。
 副词形式：
 avowedly = 公开地
 词族：avow
@@ -35065,14 +35065,14 @@ acknowledged = 公认的（外界认定）
 avuncular
 核心：指长者对晚辈那种"像叔伯一样和蔼的"态度。
 词源来自拉丁语 avunculus（舅父）。
-① He has an avuncular manner.
-= 他有种长辈般的和气。
+① He has an avuncular manner that works on everyone except his own children.
+= 他有种长辈般的和气，对谁都管用，唯独对自己的孩子不灵。
 avuncular manner = 慈祥的做派
-② She gave avuncular advice.
-= 她给出了长辈式的忠告。
+② She gave avuncular advice that turned out to be worth following.
+= 她给出长辈式的忠告，事后证明值得照办。
 avuncular advice = 长者般的建议
-③ His tone was avuncular.
-= 他的口吻像位长辈。
+③ His tone was avuncular and the message underneath it was not.
+= 他的口吻像位长辈，底下那层意思可不是。
 注意发音：/əˈvʌŋkjələ(r)/
 对应词：
 avuncular = 叔伯般的
@@ -35217,14 +35217,14 @@ unaware = 未意识到的
 awareness
 核心：指"意识、认知程度"，不可数。
 公共议题里 raise awareness（提高认知）是高频搭配。
-① The campaign raised awareness.
-= 那场活动提高了公众认知。
+① The campaign raised awareness and changed almost nothing else.
+= 那场活动提高了公众认知，别的几乎什么都没改变。
 raise awareness = 提高意识
-② Public awareness has grown.
-= 公众意识增强了。
+② Public awareness has grown faster than the services able to meet it.
+= 公众意识增长的速度，快过能应对它的服务。
 public awareness = 公众认知
-③ She lacks self-awareness.
-= 她缺乏自我认知。
+③ She lacks self-awareness in the one area where she gives advice.
+= 她恰恰在自己爱给建议的那件事上缺乏自我认知。
 self-awareness = 自我觉察
 词族：aware
 近义对照：
@@ -35235,13 +35235,13 @@ knowledge = 知识（懂得内容）
 awash
 核心：只作表语。字面指"被水淹没的"，
 比喻指"充斥着、多得泛滥"。介词用 with。
-① The deck was awash.
-= 甲板被水淹了。
-② The market is awash with cash.
-= 市场上钱多得泛滥。
+① The deck was awash and the pumps had been running since midnight.
+= 甲板被水淹了，水泵从半夜就一直在抽。
+② The market is awash with cash and short of anything worth buying.
+= 市场上钱多得泛滥，值得买的东西却没有。
 awash with = 充斥着
-③ The city was awash with rumours.
-= 全城谣言满天飞。
+③ The city was awash with rumours, none of which survived the week.
+= 全城谣言满天飞，没有一条撑过那一周。
 注意：awash 只作表语，
 不放在名词前。
 近义对照：
@@ -35344,12 +35344,12 @@ awesomely = 令人惊叹地
 awestruck
 核心：指"惊叹得说不出话的"。
 构词是 awe + struck（被击中）。
-① The crowd was awestruck.
-= 人群惊叹不已。
-② She stared awestruck.
-= 她惊叹地盯着看。
-③ He was awestruck by the cathedral.
-= 那座大教堂让他叹为观止。
+① The crowd was awestruck for about four seconds and then reached for phones.
+= 人群惊叹了大约四秒，随后纷纷掏出手机。
+② She stared awestruck at a ceiling she had walked under for years.
+= 她惊叹地盯着那面天花板，而她在它底下走了好些年。
+③ He was awestruck by the cathedral and unmoved by everything inside it.
+= 那座大教堂让他叹为观止，里面的东西却一样也没打动他。
 awestruck by = 被…震撼
 注意拼写：
 awestruck / awe-struck 都可以。
@@ -35380,14 +35380,14 @@ awfulness = 糟糕透顶、可怕
 awfully
 核心：两条线：口语里加强语气的"非常"（不含贬义），
 和字面的"糟糕地"。第一条更常见，尤其在英式英语里。
-① I'm awfully sorry.
-= 我非常抱歉。
+① I'm awfully sorry, he said, in a tone that suggested he was not.
+= 「我非常抱歉」，他说，语气听着并不抱歉。
 awfully sorry = 万分抱歉
-② It's awfully kind of you.
-= 你真是太好了。
+② It's awfully kind of you to say so, and awfully unlike you.
+= 你这么说真是太好了，也太不像你了。
 awfully kind = 非常好心
-③ He played awfully.
-= 他打得很糟。
+③ He played awfully in the first half and rather well after the interval.
+= 上半场他打得很糟，中场休息之后倒不错。
 字面义
 词族：awful
 注意：awfully 修饰形容词时
@@ -35413,13 +35413,13 @@ awks
 核心：英式非正式说法，由 awkward 砍短而来，指场面"尴尬"。
 多用作单独的感叹，评论某个让人下不来台的时刻。
 年轻人用得最多。
-① That was so awks.
-= 那可太尴尬了。
+① That was so awks and everyone pretended to look at their drinks.
+= 那可太尴尬了，所有人都装作在看自己的酒杯。
 so awks = 尴尬极了
-② Awks, I called him the wrong name.
-= 尴尬，我把他名字叫错了。
-③ The silence got a bit awks.
-= 那阵沉默有点尴尬。
+② Awks, I called him the wrong name twice in the same sentence.
+= 尴尬，我在同一句话里把他名字叫错了两次。
+③ The silence got a bit awks and then somebody mentioned the weather.
+= 那阵沉默有点尴尬，接着有人提起了天气。
 注意语域：
 英式年轻人的口语，正式场合不用。
 
@@ -35460,14 +35460,14 @@ awkwardness = 尴尬；笨拙
 awkwardly
 核心：副词，两条线：动作"笨拙地"，
 和场面"尴尬地"。
-① He fell awkwardly.
-= 他摔得姿势很难看。
+① He fell awkwardly and knew before he landed that it would need an X-ray.
+= 他摔得姿势很难看，还没落地就知道这得去拍片子。
 fall awkwardly = 摔得别扭
-② She smiled awkwardly.
-= 她尴尬地笑了笑。
+② She smiled awkwardly at a joke she had not understood.
+= 她对着一个没听懂的笑话尴尬地笑了笑。
 smile awkwardly = 尴尬地笑
-③ The chair sits awkwardly.
-= 那把椅子摆得不顺眼。
+③ The chair sits awkwardly in a room that was designed around a different one.
+= 那把椅子摆在这屋里很不顺眼，屋子是照另一把椅子设计的。
 词族：awkward、awkwardness
 近义对照：
 awkwardly = 笨拙地；尴尬地
@@ -35477,12 +35477,12 @@ uncomfortably = 不自在地（感受）
 awkwardness
 核心：指"尴尬"或"笨拙"这种性质，不可数。
 社交语境里多指气氛的别扭。
-① There was an awkwardness between them.
-= 他们之间有种尴尬。
-② She hid her awkwardness.
-= 她掩饰住了局促。
-③ The awkwardness soon passed.
-= 那份尴尬很快过去了。
+① There was an awkwardness between them that survived two decades and one apology.
+= 他们之间有种尴尬，熬过了二十年和一次道歉。
+② She hid her awkwardness by asking questions until somebody else spoke.
+= 她不停发问来掩饰局促，直到有别人开口。
+③ The awkwardness soon passed and came back every Christmas thereafter.
+= 那份尴尬很快过去了，此后每年圣诞又回来一次。
 词族：awkward、awkwardly
 近义对照：
 awkwardness = 尴尬、笨拙
@@ -35492,28 +35492,28 @@ discomfort = 不适（身心）
 awl
 核心：手工工具，一根尖锥装在木柄上，用来在皮革、木头或帆布上
 扎孔，好让针或线穿过去。补鞋、装订和木工都用它。
-① The cobbler pierced the leather with an awl.
-= 鞋匠用锥子在皮子上扎孔。
+① The cobbler pierced the leather with an awl and pulled the thread through twice.
+= 鞋匠用锥子在皮子上扎孔，把线来回穿了两遍。
 pierce with an awl = 用锥子扎孔
-② An awl makes a starter hole for the screw.
-= 锥子给螺丝先扎个引导孔。
+② An awl makes a starter hole for the screw and stops the wood from splitting.
+= 锥子给螺丝先扎个引导孔，木头就不会裂。
 a starter hole = 引导孔
-③ Bookbinders use an awl to punch signatures.
-= 装订工用锥子给书帖打孔。
+③ Bookbinders use an awl to punch signatures before any sewing begins.
+= 装订工在开始缝之前，先用锥子给书帖打孔。
 注意语域：
 手工与工具名称。
 
 awning
 核心：指店铺或窗户上方遮阳挡雨的"遮篷、雨篷"，
 通常是布或帆布做的，可收放。
-① The café has a striped awning.
-= 那家咖啡馆有条纹遮篷。
+① The café has a striped awning that has faded to two shades of grey.
+= 那家咖啡馆有条纹遮篷，已经褪成了两种灰。
 striped awning = 条纹雨篷
-② They lowered the awning.
-= 他们把遮篷放了下来。
+② They lowered the awning at eleven and raised it again after the sun moved.
+= 他们十一点放下遮篷，等太阳挪过去又升起来。
 lower the awning = 放下遮篷
-③ Rain dripped off the awning.
-= 雨水从雨篷上滴落。
+③ Rain dripped off the awning onto exactly the one table nobody wanted.
+= 雨水从雨篷上滴下来，正好滴在谁都不想坐的那张桌子上。
 注意发音：/ˈɔːnɪŋ/
 近义对照：
 awning = 遮篷（布制可收）
@@ -35523,13 +35523,13 @@ shelter = 遮蔽处（通用）
 awry
 核心：指"歪了"或"出了岔子"。只作表语或后置。
 最高频的搭配是 go awry（出差错）。
-① The plan went awry.
-= 那个计划出了岔子。
+① The plan went awry at the point where it needed somebody to answer a telephone.
+= 那个计划出岔子的地方，正是需要有人接电话的那一步。
 go awry = 出差错
-② His tie was awry.
-= 他领带歪了。
-③ Everything went awry that day.
-= 那天诸事不顺。
+② His tie was awry and he had been in three meetings without anyone mentioning it.
+= 他领带歪着，开了三场会都没人提醒他。
+③ Something had gone awry in the accounts as far back as the previous audit.
+= 账目上早在上一次审计时就已经出了岔子。
 注意发音：/əˈraɪ/，
 重音在第二音节，不读成 /ˈɔːri/。
 近义对照：
@@ -35560,14 +35560,14 @@ axel
 核心：花样滑冰的一种跳跃，特点是唯一一个"向前起跳"的跳法，
 因此空中要多转半圈——三周半跳其实转的是三点五圈。
 以最早做出它的挪威选手命名，所以小写也常见。
-① She landed a triple axel.
-= 她完成了一个三周半跳。
+① She landed a triple axel and was the sixth woman ever to do it in competition.
+= 她完成了一个三周半跳，是史上第六位在比赛中做到的女子选手。
 land a triple axel = 落成三周半跳
-② The axel takes off from a forward edge.
-= 这个跳跃是从向前的刃上起跳的。
+② The axel takes off from a forward edge, which is why it is the hardest to learn.
+= 这个跳跃从向前的刃上起跳，所以最难学。
 take off from a forward edge = 由前刃起跳
-③ An axel adds half a rotation.
-= 这种跳法要多转半圈。
+③ An axel adds half a rotation, so a triple is really three and a half turns.
+= 这种跳法要多转半圈，所以三周半跳其实转的是三点五圈。
 注意用法：
 名字来自选手姓氏，大小写都见得到。
 注意语域：
@@ -35577,13 +35577,13 @@ axeman
 核心：两层。字面指"用斧头的人"——伐木工、刽子手都算；比喻着用
 指企业里"负责裁员砍成本的人"，报纸标题里最爱这么写。
 美式拼 axman。
-① The axeman felled the tree in minutes.
-= 那名伐木工几分钟就把树放倒了。
+① The axeman felled the tree in minutes and took an hour over the stump.
+= 那名伐木工几分钟就把树放倒，处理树桩却花了一小时。
 fell a tree = 放倒一棵树
-② The new boss came in as an axeman.
-= 新老板一来就是个裁员的角色。
-③ Headlines called the minister the axeman.
-= 报纸标题管那位大臣叫「砍刀手」。
+② The new boss came in as an axeman and closed two sites before Christmas.
+= 新老板一来就是个裁员的角色，圣诞前关掉了两个厂区。
+③ Headlines called the minister the axeman for a fortnight and then forgot him.
+= 报纸标题管那位大臣叫「砍刀手」，叫了两周就把他忘了。
 注意拼写：
 axeman = 用斧的人（英式）
 axman = 用斧的人（美式）
@@ -35592,27 +35592,27 @@ axial
 核心：形容词，指"轴的、沿着轴的"。工程上说绕轴或沿轴方向的受力
 与运动；医学影像上指"横断面的"，即垂直于人体长轴切下来的那一层。
 名词是 axis。
-① The bearing takes axial load.
-= 那个轴承承受轴向载荷。
+① The bearing takes axial load and fails quickly if it is asked to take side load.
+= 那个轴承承受轴向载荷，让它受侧向力就很快损坏。
 axial load = 轴向载荷
-② Axial scans slice the body crosswise.
-= 横断扫描把身体横着切层。
+② Axial scans slice the body crosswise and are read from below by convention.
+= 横断扫描把身体横着切层，按惯例是从下往上看的。
 axial scan = 横断面扫描
-③ The tilt is measured about the axial line.
-= 倾角是绕轴线量的。
+③ The tilt is measured about the axial line and drifts by a degree each decade.
+= 倾角是绕轴线量的，每十年偏移一度。
 注意语域：
 工程与医学影像术语。
 
 axiom
 核心：指不证自明的"公理、基本原理"。
 数学上是推理的出发点，日常指公认的道理。
-① It's a mathematical axiom.
-= 那是条数学公理。
+① It's a mathematical axiom and the whole system falls apart without it.
+= 那是条数学公理，没有它整个体系就散了。
 mathematical axiom = 数学公理
-② The axiom needs no proof.
-= 那条公理无需证明。
-③ It's an axiom of good management.
-= 那是良好管理的基本准则。
+② The axiom needs no proof, which is precisely what makes it an axiom.
+= 那条公理无需证明，而这正是它成为公理的原因。
+③ It's an axiom of good management that nobody in management believes.
+= 那是良好管理的基本准则，而管理层没人信它。
 词族：
 axiomatic = 不言自明的
 近义对照：
