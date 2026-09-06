@@ -19,12 +19,12 @@ timeless = 永恒的、经久不衰的（更常用）
 atheism
 核心：指无神论——不相信神存在的立场。不可数。
 和 agnosticism（不可知论）严格区分。
-① Atheism is not a religion.
-= 无神论不是宗教。
-② He was raised in atheism.
-= 他在无神论环境中长大。
-③ Atheism has ancient roots.
-= 无神论渊源久远。
+① Atheism is not a religion, though it has its own kind of congregation.
+= 无神论不是宗教，尽管它也有自己的一套聚会方式。
+② He was raised in atheism and took up churchgoing at sixty.
+= 他在无神论环境中长大，六十岁开始上教堂。
+③ Atheism has ancient roots and appears in texts older than most scriptures.
+= 无神论渊源久远，在比多数经卷还老的文本里就有。
 词族：
 atheist = 无神论者
 构词：a- 无 + theos 神 + -ism 主义
@@ -36,13 +36,13 @@ theism = 有神论（相信存在）
 atheist
 核心：指无神论者——认为神不存在。
 和 agnostic（不可知论者，认为无法知晓）严格区分。
-① He is a committed atheist.
-= 他是个坚定的无神论者。
+① He is a committed atheist who reads more theology than most believers.
+= 他是个坚定的无神论者，读的神学比多数信徒还多。
 committed atheist = 坚定的无神论者
-② Atheists reject religious belief.
-= 无神论者不接受宗教信仰。
-③ She was raised atheist.
-= 她从小是无神论家庭出身。
+② Atheists reject religious belief and disagree among themselves about everything else.
+= 无神论者不接受宗教信仰，别的事上却彼此都不一致。
+③ She was raised atheist and married into a family of churchwardens.
+= 她从小是无神论家庭出身，嫁进了一个教区执事之家。
 词族：
 atheism = 无神论
 构词：a- 无 + theos 神
@@ -50,8 +50,8 @@ atheism = 无神论
 atheist = 无神论（否认存在）
 agnostic = 不可知论（说不清）
 theist = 有神论（相信存在）
-④ The essay takes an atheistic view.
-= 那篇文章持无神论立场。
+④ The essay takes an atheistic view and was published by a religious press.
+= 那篇文章持无神论立场，却是一家宗教出版社出的。
 atheistic = 无神论的
 
 athlete
@@ -215,13 +215,13 @@ atmospherics = 电波干扰噪声；氛围效果
 atmospheric
 核心：两条线：科学上的"大气的"，
 和日常的"氛围感很强的"。后者是褒义。
-① Atmospheric pressure dropped.
-= 气压下降了。
+① Atmospheric pressure dropped and every door in the house slammed at once.
+= 气压下降，屋里每扇门同时砰地关上。
 atmospheric pressure = 大气压
-② The restaurant is atmospheric.
-= 那家餐厅很有气氛。
-③ It's atmospheric music.
-= 那是氛围感很强的音乐。
+② The restaurant is atmospheric and impossible to read a menu in.
+= 那家餐厅很有气氛，也暗到没法看菜单。
+③ It's atmospheric music that works badly on a phone speaker.
+= 那是氛围感很强的音乐，用手机外放就毁了。
 atmospheric music = 氛围音乐
 词族：
 atmosphere = 大气；气氛
@@ -229,8 +229,8 @@ atmosphere = 大气；气氛
 atmospheric = 有氛围的（褒义）
 moody = 情绪化的；有情调的
 evocative = 引人遐想的
-④ Atmospherics ruined the broadcast.
-= 天电干扰毁了那次广播。
+④ Atmospherics ruined the broadcast on the one night it mattered.
+= 偏偏在最要紧的那晚，天电干扰毁了那次广播。
 atmospherics = 天电干扰；（也指）氛围
 
 atoll

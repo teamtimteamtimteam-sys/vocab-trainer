@@ -79,16 +79,16 @@ assumption
 核心：指"没有验证就当真的前提"。学术写作里高频，常带批判意味——
 指出对方的论证建立在未经检验的假设上。on the assumption that
 是固定搭配。
-① That's a dangerous assumption.
-= 那是个危险的假设。
-② We acted on the assumption that he'd agree.
-= 我们是假定他会同意才那么做的。
+① That's a dangerous assumption to build a whole department on.
+= 拿那个危险的假设去撑起一整个部门，实在不妥。
+② We acted on the assumption that he'd agree and never asked him.
+= 我们假定他会同意才那么做的，从没问过他本人。
 on the assumption that = 基于…的假设
-③ The theory rests on two assumptions.
-= 那个理论建立在两个假设上。
+③ The theory rests on two assumptions that the author states in a footnote.
+= 那个理论建立在两个假设上，作者把它们写在脚注里。
 rest on assumptions = 建立在假设上
-④ Challenge your assumptions.
-= 质疑你的预设。
+④ Challenge your assumptions before the data does it for you.
+= 趁数据还没替你动手，先质疑一下自己的预设。
 近义对照：
 assumption 假设（未经验证）
 hypothesis 假说（待检验，科学用语）
@@ -137,13 +137,13 @@ assurance = 保证；自信
 assured
 核心：三条线：人"自信笃定的"、结果"有保障的"、
 以及英式保险里的"被保险人"。
-① She has an assured manner.
-= 她举止从容笃定。
+① She has an assured manner that took about fifteen years to acquire.
+= 她举止从容笃定，那份从容练了大约十五年。
 assured manner = 笃定的仪态
-② Success is assured.
-= 成功有保障。
-③ It was an assured performance.
-= 那是场沉稳老练的演出。
+② Success is assured, said a prospectus that four regulators later read.
+= 一份后来被四家监管机构读过的招股书写着：成功有保障。
+③ It was an assured performance from someone who had never played the hall.
+= 那是场沉稳老练的演出，而演出者从没在那个厅演过。
 assured performance = 稳健的表现
 词族：assure、assurance
 反义词：
@@ -152,8 +152,8 @@ unassured = 没把握的
 assured = 笃定的（有把握）
 confident = 自信的（通用）
 self-assured = 自信从容的
-④ He will assuredly refuse.
-= 他准会拒绝。
+④ He will assuredly refuse and will take a fortnight to say so.
+= 他准会拒绝，而且要花两周才说出口。
 assuredly = 确实地、必定地
 
 aster
