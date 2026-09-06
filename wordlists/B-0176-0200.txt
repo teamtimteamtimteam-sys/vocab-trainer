@@ -251,16 +251,16 @@ accord
 核心：底层是"一致、相符"。名词指正式的协议，也指"一致"这个状态；
 动词指"给予"（正式）或"与…相符"。of one's own accord 是高频
 习语，指"主动、自愿"。
-① They signed a peace accord.
-= 他们签署了和平协议。
-② He left of his own accord.
-= 他是自己主动离开的。
+① They signed a peace accord that held for exactly nineteen months.
+= 他们签署了和平协议，那份协议正好维持了十九个月。
+② He left of his own accord and was replaced within the fortnight.
+= 他是自己主动离开的，两周内就有人接替。
 of one's own accord = 自愿地
-③ This is in accord with the rules.
-= 这符合规定。
+③ This is in accord with the rules and with nothing anybody actually does.
+= 这符合规定，却跟谁的实际做法都不符。
 in accord with = 与…一致
-④ The award accorded him great honour.
-= 那个奖项给了他极大荣誉。
+④ The award accorded him great honour and no additional salary at all.
+= 那个奖项给了他极大荣誉，一分钱工资也没多加。
 这里是动词，很正式。
 词族：
 accordance = 一致
@@ -285,16 +285,16 @@ according to
 核心：两个用法。一是引出信息来源，"据…说"——注意它暗示这只是
 对方的说法，不代表你认同。二是表示"按照、依据"某个标准。
 不能说 according to me，要说 in my opinion。
-① According to the report, sales rose.
-= 据那份报告，销量上升了。
-② According to him, she's leaving.
-= 照他的说法，她要走了。
-③ Arrange the files according to date.
-= 按日期排列文件。
+① According to the report, sales rose in every region but the largest one.
+= 据那份报告，除了最大的那个大区，各区销量都上升了。
+② According to him, she's leaving, though she has told nobody else.
+= 照他的说法她要走了，可她没跟别人提过。
+③ Arrange the files according to date rather than to whoever sent them.
+= 文件按日期排，别按谁寄来的排。
 这里：
 according to = 依照
-④ Everything went according to plan.
-= 一切按计划进行。
+④ Everything went according to plan until the plan reached the second page.
+= 一切按计划进行，直到计划翻到第二页。
 go according to plan = 按计划进行
 注意：不说 according to me。
 
@@ -438,17 +438,17 @@ accountability 问责（要为结果交代）
 accountable
 核心：指"必须为结果向某人交代"的状态。介词双管：to 是对谁负责，
 for 是为什么事负责。比 responsible 多一层"要被追责"的意味。
-① Managers are accountable to shareholders.
-= 管理层要对股东负责。
+① Managers are accountable to shareholders who meet once a year for an hour.
+= 管理层要对股东负责，而股东一年只碰一次头、开一个钟头。
 accountable to = 向…负责
-② He is accountable for the losses.
-= 他要为损失负责。
+② He is accountable for the losses and has not been asked about them once.
+= 他要为损失负责，却一次都没被问起过。
 accountable for = 为…负责
-③ Hold them accountable.
-= 让他们承担责任。
+③ Hold them accountable in public or they will settle it in private.
+= 公开追究他们的责任，不然他们私下就把事平了。
 hold someone accountable = 追究责任
-④ No one was held accountable.
-= 没有人被问责。
+④ No one was held accountable and the report was published on a Friday.
+= 没有人被问责，报告选在一个周五发布。
 词族：
 accountability = 问责制
 注意区别：

@@ -1,16 +1,16 @@
 accounting
 核心：指会计这门学科和这项工作，不可数。和 accountancy（英式，
 指会计这个行业）、accountant（会计师）区分开。
-① She studies accounting.
-= 她学会计。
+① She studies accounting and can already spot what a balance sheet hides.
+= 她学会计，已经看得出资产负债表藏了什么。
 不可数
-② The accounting department handles it.
-= 会计部门处理这事。
-③ Accounting standards have changed.
-= 会计准则变了。
+② The accounting department handles it and takes about six weeks to reply.
+= 会计部门处理这事，回复大约要六周。
+③ Accounting standards have changed twice since the building was valued.
+= 那栋楼估价之后，会计准则已经改了两次。
 accounting standards = 会计准则
-④ There's no accounting for taste.
-= 各人口味不同，没法解释。
+④ There's no accounting for taste, he said, of a colour he had chosen himself.
+= 那个颜色是他自己挑的，他却说：各人口味不同，没法解释。
 there's no accounting for = 无法解释
 近义对照：
 accounting 会计（学科、工作）
@@ -132,16 +132,16 @@ aggregation = 汇集（分散合起来）
 accrue
 核心：指利息、权益、经验"逐渐累积起来"，金融和法律语境高频。
 不及物为主，介词用 to（归于谁）。
-① Interest accrues monthly.
-= 利息按月累积。
+① Interest accrues monthly and is added on the last working day.
+= 利息按月累积，在最后一个工作日入账。
 interest accrues = 利息累计
-② Benefits accrue to shareholders.
-= 收益归于股东。
+② Benefits accrue to shareholders and to nobody who works in the building.
+= 收益归于股东，楼里干活的人一份没有。
 accrue to = 归属于
-③ She accrued years of experience.
-= 她积累了多年经验。
-④ Accrued leave can be carried over.
-= 累积的假期可以结转。
+③ She accrued years of experience in a job that never once had a title.
+= 她在一份始终没有正式职称的岗位上积累了多年经验。
+④ Accrued leave can be carried over but only into the following March.
+= 累积的假期可以结转，但只能转到次年三月。
 accrued leave = 累积假期
 词族：
 accrual = 应计项目
@@ -292,17 +292,17 @@ accusation
 核心：指"指控、控告"，可以是法律上的正式指控，也可以是日常的
 指责。搭配 make an accusation、face accusations。介词用 of 或
 against。
-① He made a serious accusation.
-= 他提出了严重指控。
+① He made a serious accusation and produced nothing at all to support it.
+= 他提出了严重指控，却拿不出任何佐证。
 make an accusation = 提出指控
-② She faces accusations of fraud.
-= 她面临诈骗指控。
+② She faces accusations of fraud that stretch back eleven years.
+= 她面临的诈骗指控可以追溯到十一年前。
 accusations of = 关于…的指控
-③ The accusation against him was false.
-= 针对他的指控不实。
+③ The accusation against him was false and took four years to lift.
+= 针对他的指控不实，花了四年才洗掉。
 accusation against = 针对…的指控
-④ He denied the accusations.
-= 他否认了那些指控。
+④ He denied the accusations and then answered a different question.
+= 他否认了那些指控，接着答了另一个问题。
 词族：
 accuse = 指控
 accusatory = 责难的
@@ -360,17 +360,17 @@ accusation = 指控
 accused
 核心：法律用语，the accused 指"被告"，单复数同形。这是英式法庭
 用语；美式更常说 the defendant。注意它前面一定带 the。
-① The accused pleaded not guilty.
-= 被告作了无罪答辩。
+① The accused sat through eleven days of evidence without once looking up.
+= 被告听完十一天的举证，一次头都没抬。
 the accused = 被告
-② The accused were released.
-= 那些被告获释了。
+② The accused were released on bail and two of them left the country.
+= 那些被告获准取保候审，其中两人出了国。
 单复数同形
-③ He stood accused of theft.
-= 他被控偷窃。
+③ He stood accused of theft on the word of a single witness.
+= 他被控偷窃，凭的只是一名证人的说法。
 stand accused of = 被指控
-④ The accused denied everything.
-= 被告否认了一切。
+④ The accused denied everything and the jury believed almost none of it.
+= 被告否认了一切，陪审团几乎一句都不信。
 近义对照：
 the accused 被告（英式法庭）
 the defendant 被告（通用法律）
