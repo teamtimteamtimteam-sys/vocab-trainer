@@ -375,13 +375,13 @@ alpenhorn
 核心：阿尔卑斯山区牧人用的"阿尔卑斯长号"——一根三四米长的木管，
 末端向上翘，声音低沉能传很远，从前用来在山谷之间传话和唤牛。
 也拼作 alphorn。
-① He blew the alpenhorn at dawn.
-= 他在拂晓吹响了阿尔卑斯长号。
+① He blew the alpenhorn at dawn and the note came back off the far side of the valley.
+= 他在拂晓吹响阿尔卑斯长号，音符从山谷对面折了回来。
 blow the alpenhorn = 吹阿尔卑斯长号
-② The alpenhorn can be four metres long.
-= 阿尔卑斯长号能有四米长。
-③ Alpenhorns carry sound across valleys.
-= 阿尔卑斯长号的声音能穿过山谷。
+② The alpenhorn can be four metres long, so it rests on the ground while you play it.
+= 阿尔卑斯长号能有四米长，吹的时候得把它支在地上。
+③ Alpenhorns carry sound across valleys, which is how herdsmen once passed word from farm to farm.
+= 阿尔卑斯长号的声音能穿过山谷，从前牧人就是这样在农庄之间传话的。
 注意拼写：
 alpenhorn = 阿尔卑斯长号
 alphorn = 阿尔卑斯长号（较短的拼法）
@@ -441,14 +441,14 @@ alphabet soup = 字母汤；一堆看不懂的缩写
 alphabetical
 核心：指"按字母顺序的"。最高频的搭配是
 in alphabetical order。
-① Names are in alphabetical order.
-= 名字按字母顺序排列。
+① Names are in alphabetical order on the register, so latecomers are easy to spot.
+= 花名册上的名字按字母顺序排列，所以谁来迟了一眼就看得出。
 in alphabetical order = 按字母顺序
-② Make an alphabetical list.
-= 做一份按字母排的清单。
+② Make an alphabetical list of the sources before you start writing the essay.
+= 动笔写文章之前先把资料来源做成一份按字母排的清单。
 alphabetical list = 字母序清单
-③ The index is alphabetical.
-= 那个索引按字母排。
+③ The index is alphabetical, but the appendix that follows it is arranged by date.
+= 那个索引按字母排，可后面的附录是按日期编的。
 词族：
 alphabet = 字母表
 alphabetically = 按字母顺序地
@@ -460,14 +460,14 @@ numerical = 按数字序
 alphabetically
 核心：副词，"按字母顺序地"。常修饰 arrange、list、
 sort、order 这类动词。
-① Files are arranged alphabetically.
-= 文件按字母顺序排列。
+① Files are arranged alphabetically in the basement, though nobody has looked at them for years.
+= 地下室的文件按字母顺序排列，尽管多年没人翻过。
 arrange alphabetically = 按字母排序
-② Sort the names alphabetically.
-= 把名字按字母排好。
+② Sort the names alphabetically before you merge the two spreadsheets, or the rows will not line up.
+= 合并那两张表格之前先把名字按字母排好，否则行会对不上。
 sort alphabetically = 按字母排序
-③ Entries appear alphabetically.
-= 词条按字母顺序排列。
+③ Entries appear alphabetically rather than by topic, which makes browsing harder than looking things up.
+= 词条按字母顺序而不是按主题排列，所以随便翻着看比查找难。
 词族：
 alphabet = 字母表
 alphabetical = 字母序的
