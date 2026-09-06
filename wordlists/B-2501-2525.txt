@@ -183,20 +183,20 @@ billet
 核心：军事用语，指给士兵安排的"民房住处"——不是营房，是征用或
 借用的普通民宅。名词动词同形，动词是"把部队安置到民房"。
 另有一个不相干的用法：金属加工里的"坯料"，一根待轧制的方钢。
-① Troops were billeted in the village.
-= 部队被安置在村里的民房。
+① Troops were billeted in the village for a winter that nobody there forgot.
+= 部队在村里的民房住了一冬，村里没人忘得掉。
 be billeted in = 被安置在某处住宿
-② He found a comfortable billet.
-= 他找到了个舒服的住处。
+② He found a comfortable billet above a bakery and slept through the drills.
+= 他在一家面包房楼上找到个舒服的住处，操练时都睡得着。
 名词用法。
-③ The mill produces steel billets.
-= 那家厂生产钢坯。
+③ The mill produces steel billets that go straight onto the rolling line.
+= 那家厂生产钢坯，直接送上轧制线。
 billet = 坯料（金属加工，另一个来路）
-④ She got a cushy billet at headquarters.
-= 她在司令部弄了个清闲差事。
+④ She got a cushy billet at headquarters and never saw the front at all.
+= 她在司令部弄了个清闲差事，前线一次都没去过。
 引申义：也指轻松的职位。
-⑤ He found an old billet-doux in the book.
-= 他在书里找到一封旧情书。
+⑤ He found an old billet-doux in the book and put it back unread.
+= 他在书里找到一封旧情书，没读就放了回去。
 billet-doux = 情书（法语来的旧式说法，复数 billets-doux）
 注意语域：军事用语，第三义属冶金术语。
 
@@ -477,22 +477,22 @@ binary
 两颗星互相绕转；文化讨论里 a binary 指"非此即彼的二分法"，
 gender binary 说的就是把性别只分成两种的框架，那个用法多带批评。
 构词是 bi-（二）加 -ary。
-① Computers work in binary.
-= 计算机用二进制运算。
+① Computers work in binary and everything else is a convenience for people.
+= 计算机用二进制运算，其余一切都是为方便人才有的。
 binary = 二进制
-② The file is in binary format.
-= 那个文件是二进制格式。
+② The file is in binary format and opens as nonsense in a text editor.
+= 那个文件是二进制格式，用文本编辑器打开是一堆乱码。
 binary format = 二进制格式
 跟纯文本相对，人直接读不了。
-③ It is a binary star system.
-= 那是个双星系统。
+③ It is a binary star system where one star is slowly eating the other.
+= 那是个双星系统，其中一颗正慢慢吞噬另一颗。
 binary star = 双星
 两颗星绕共同质心转。
-④ He rejects that binary.
-= 他不接受这种非此即彼的分法。
+④ He rejects that binary and refuses to answer questions built on it.
+= 他不接受这种非此即彼的分法，也拒绝回答建立在它上面的问题。
 a binary = 二分框架（名词用法，常含批评）
-⑤ The debate is not a simple binary.
-= 那场争论不是简单的两选一。
+⑤ The debate is not a simple binary, whatever the headlines make of it.
+= 那场争论不是简单的两选一，不管标题怎么写。
 构词：bi- 二 + -ary
 词族：
 binaries = 二进制文件；二分对立
