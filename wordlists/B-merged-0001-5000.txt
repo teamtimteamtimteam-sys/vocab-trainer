@@ -26511,13 +26511,13 @@ arête
 核心：登山与地貌用词，指"刃脊"——两侧冰川各自向下刨蚀，中间剩下
 一道薄薄的山脊，窄得像刀刃，两边都是陡壁。法语借词，
 词上那个尖音符不能省。
-① They traversed the arête in single file.
-= 他们排成一列走过刃脊。
+① They traversed the arête in single file with a thousand metres on either side.
+= 他们排成一列走过刃脊，两边各是千米深谷。
 traverse an arête = 横越刃脊
-② The arête drops away on both sides.
-= 刃脊两侧都是陡坡。
-③ Glaciers carve an arête between two cirques.
-= 冰川在两个冰斗之间刨出刃脊。
+② The arête drops away on both sides and is no wider than a pavement.
+= 刃脊两侧都是陡坡，宽度不过一条人行道。
+③ Glaciers carve an arête between two cirques by eating away at it from each flank.
+= 两个冰斗的冰川各自从一侧啃蚀，中间就刨出了刃脊。
 注意语域：
 地貌学与登山术语。
 注意拼写：
@@ -28144,14 +28144,14 @@ arteriosclerosis
 核心：医学名词，指"动脉硬化"——动脉壁增厚变硬、失去弹性。
 最常见的一型是脂质斑块堆在内壁上的 atherosclerosis（粥样硬化），
 两个词常被混用，其实后者是前者的一种。
-① Arteriosclerosis narrows the vessels.
-= 动脉硬化让血管变窄。
+① Arteriosclerosis narrows the vessels so gradually that nothing is felt for decades.
+= 动脉硬化让血管一点点变窄，几十年里毫无感觉。
 narrow the vessels = 使血管变窄
-② Smoking accelerates arteriosclerosis.
-= 吸烟会加速动脉硬化。
+② Smoking accelerates arteriosclerosis more than any other single habit.
+= 在所有单一习惯里，吸烟对动脉硬化的加速作用最大。
 accelerate arteriosclerosis = 加速动脉硬化
-③ Arteriosclerosis raises stroke risk.
-= 动脉硬化会抬高中风风险。
+③ Arteriosclerosis raises stroke risk even when blood pressure reads normal.
+= 即便血压读数正常，动脉硬化仍会抬高中风风险。
 注意别混：
 arteriosclerosis = 动脉硬化（管壁变硬的统称）
 atherosclerosis = 粥样硬化（脂质斑块那一型）
@@ -28182,13 +28182,13 @@ artesian
 核心：形容词，只跟 well 搭配，指"自流井"——含水层被上下两层不透水
 的岩层夹住，水在里头憋着压力，一旦钻穿，水自己往上涌，不用抽。
 名字来自法国最早打出这种井的那个地区。
-① They sank an artesian well.
-= 他们打了一口自流井。
+① They sank an artesian well and struck water at ninety metres.
+= 他们打了一口自流井，在九十米处出了水。
 sink an artesian well = 打自流井
-② Artesian water rises without pumping.
-= 自流水不用抽就往上冒。
-③ The basin holds an artesian aquifer.
-= 那个盆地下面有承压含水层。
+② Artesian water rises without pumping and keeps rising for as long as the pressure holds.
+= 自流水不用抽就往上冒，只要压力还在就一直冒。
+③ The basin holds an artesian aquifer that four states argue over every dry summer.
+= 那个盆地下面有承压含水层，每逢旱夏就有四个州为它争执。
 artesian aquifer = 承压含水层
 注意用法：
 几乎只跟 well 或 water 搭配。
@@ -28198,13 +28198,13 @@ artesian aquifer = 承压含水层
 artful
 核心：指"精明狡黠、手法巧妙的"。褒贬取决于语境——
 夸手法时是褒，说人用心机时偏贬。
-① He made an artful move.
-= 他走了步妙棋。
+① He made an artful move that looked like a concession and was not one.
+= 他走了步妙棋，看着像让步，其实不是。
 artful move = 巧妙的一招
-② She is artful in negotiation.
-= 她谈判很有手腕。
-③ The Artful Dodger is a character.
-= 「机灵鬼」是个角色名。
+② She is artful in negotiation and lets the other side name a figure first.
+= 她谈判很有手腕，总让对方先开价。
+③ The Artful Dodger picks a pocket in his first scene and is never quite punished for it.
+= 机灵鬼一出场就掏了人家口袋，而这事始终没让他真正受到惩罚。
 副词形式：
 artfully = 巧妙地
 反义词：
@@ -28239,13 +28239,13 @@ arthropod
 核心：节肢动物门的统称——外骨骼、身体分节、附肢也分节，
 这是动物界最大的一门，昆虫、甲壳类、蛛形纲、多足类全在里面，
 物种数占已知动物的八成以上。
-① Insects are the largest group of arthropods.
-= 昆虫是节肢动物里最大的一类。
-② Arthropods moult to grow.
-= 节肢动物靠蜕皮长大。
+① Insects are the largest group of arthropods and outnumber everything else alive.
+= 昆虫是节肢动物里最大的一类，数量超过其余所有活物。
+② Arthropods moult to grow, and each moult leaves them soft for a day or two.
+= 节肢动物靠蜕皮长大，每蜕一次都会软上一两天。
 moult to grow = 蜕皮生长
-③ Crabs and spiders are both arthropods.
-= 螃蟹和蜘蛛都是节肢动物。
+③ Crabs and spiders are both arthropods, though the last ancestor they shared was marine.
+= 螃蟹和蜘蛛都是节肢动物，尽管它们最后的共同祖先生活在海里。
 注意语域：
 动物分类学术语。
 门下类群：
@@ -28257,27 +28257,27 @@ Arthurian
 核心：指"亚瑟王传说的"——围绕亚瑟王、圆桌骑士、梅林和圣杯的那一
 整套中世纪故事。它不是史书而是文学传统，各国各代不断改写添枝，
 今天仍是奇幻文学的源头之一。
-① He studies Arthurian romance.
-= 他研究亚瑟王传奇文学。
+① He studies Arthurian romance and can date each retelling by what it leaves out.
+= 他研究亚瑟王传奇文学，靠每个改写本略去了什么就能断代。
 Arthurian romance = 亚瑟王传奇
-② The Arthurian legend has many versions.
-= 亚瑟王传说有很多版本。
+② The Arthurian legend has many versions and no two agree on how it ends.
+= 亚瑟王传说有很多版本，结局没有两个是一致的。
 the Arthurian legend = 亚瑟王传说
-③ Arthurian motifs recur in fantasy novels.
-= 奇幻小说里反复出现亚瑟王的母题。
+③ Arthurian motifs recur in fantasy novels written by people who have never read the originals.
+= 奇幻小说里反复出现亚瑟王的母题，而写书的人多半没读过原典。
 注意大小写：
 由人名派生，首字母大写。
 
 artichoke
 核心：指洋蓟，一种可食用的花蕾类蔬菜。
 另有一种不同的植物叫 Jerusalem artichoke（菊芋）。
-① She cooked an artichoke.
-= 她做了个洋蓟。
-② Artichoke hearts are tender.
-= 洋蓟心很嫩。
+① She cooked an artichoke and spent longer eating it than she had cooking it.
+= 她做了个洋蓟，吃它花的时间比做它还长。
+② Artichoke hearts are tender and are the only part most people bother with.
+= 洋蓟心很嫩，多数人也只肯吃这一部分。
 artichoke heart = 洋蓟心
-③ Jerusalem artichokes are tubers.
-= 菊芋是块茎。
+③ Jerusalem artichokes are tubers and spread through a garden like weeds.
+= 菊芋是块茎，在园子里像杂草一样蔓延。
 注意发音：/ˈɑːtɪtʃəʊk/
 注意：Jerusalem artichoke
 既不来自耶路撒冷，也不是洋蓟，
@@ -28339,13 +28339,13 @@ articulatory = 发音的（涉及发音器官动作）
 articulation
 核心：三条线：观点的"清晰表达"、语音的"发音"、
 以及解剖上的"关节连接"。
-① The articulation of policy matters.
-= 政策的清晰表述很重要。
+① The articulation of policy matters as much as the policy, and takes longer.
+= 政策的清晰表述与政策本身同样要紧，而且更费工夫。
 the articulation of = …的阐明
-② His articulation is poor.
-= 他吐字不清。
-③ The joint allows articulation.
-= 那个关节可以活动连接。
+② His articulation is poor at the end of a long day and nobody likes to say so.
+= 长日将尽时他吐字不清，而没人愿意说破。
+③ The joint allows articulation in one plane only, which is why it rarely dislocates.
+= 那个关节只在一个平面上活动，所以很少脱位。
 词族：articulate
 近义对照：
 articulation = 清晰表达（有条理）
@@ -28374,13 +28374,13 @@ artefact = 人工制品（英式）
 artifice
 核心：指为达目的而用的"技巧、诡计"，
 也指"矫饰、不自然"。多为贬义或中性偏贬。
-① The film relies on artifice.
-= 那部电影靠的是技巧堆砌。
-② She used artifice to win him over.
-= 她用手段把他争取了过来。
+① The film relies on artifice and admits as much in the first three minutes.
+= 那部电影靠的是技巧堆砌，头三分钟就自己承认了。
+② She used artifice to win him over and told him so years afterwards.
+= 她用手段把他争取过来，多年后才告诉他。
 use artifice = 施展手腕
-③ There is no artifice in her writing.
-= 她的文字毫不做作。
+③ There is no artifice in her writing, which is harder to achieve than it sounds.
+= 她的文字毫不做作，而这比听上去难得多。
 词族：
 artificial = 人造的
 近义对照：
@@ -28451,13 +28451,13 @@ artilleryman = 炮兵
 artisan
 核心：指手工匠人——靠手艺做东西的人。
 形容词用法指食品"手工精制的"（artisan bread）。
-① Artisans made the furniture.
-= 那些家具是匠人做的。
-② She buys artisan bread.
-= 她买手工面包。
+① Artisans made the furniture and signed it underneath where nobody would look.
+= 那些家具是匠人做的，署名签在没人会看的底面。
+② She buys artisan bread on Saturdays and eats the last of it as toast.
+= 她周六买手工面包，最后剩下的烤成吐司吃掉。
 artisan bread = 手工面包
-③ Local artisans sell their work.
-= 本地手艺人出售自己的作品。
+③ Local artisans sell their work at a market that runs for six weeks a year.
+= 本地手艺人在一个一年只办六周的集市上卖自己的作品。
 注意发音：
 英式 /ˌɑːtɪˈzæn/ 重音在后
 美式 /ˈɑːrtəzn/ 重音在前
@@ -28503,14 +28503,14 @@ artistic = 有艺术性的；有艺术天分的
 artiste
 核心：法语借词，指专业的表演艺人——歌手、舞者、
 杂技演员。比 artist 窄，专指表演行业。
-① She is a cabaret artiste.
-= 她是位歌舞表演艺人。
+① She is a cabaret artiste who has worked the same three cities for twenty years.
+= 她是位歌舞表演艺人，二十年来只在同样三座城市演出。
 cabaret artiste = 歌厅表演者
-② The artiste took a bow.
-= 那位艺人鞠躬谢幕。
+② The artiste took a bow to an audience of eleven and meant it.
+= 那位艺人向十一名观众鞠躬谢幕，态度是认真的。
 take a bow = 谢幕
-③ Artistes rehearsed all day.
-= 演员们排练了一整天。
+③ Artistes rehearsed all day in a hall with no heating and one working light.
+= 演员们在没有暖气、只有一盏灯亮着的厅里排练了一整天。
 注意发音：/ɑːˈtiːst/，法语式重音在后。
 注意区别：
 artist = 艺术家（含画家、音乐人）
@@ -28537,13 +28537,13 @@ artistically = 艺术地
 artistry
 核心：指高超的"艺术造诣、精湛技艺"，不可数，褒义。
 可以说艺术，也可以说任何做得极漂亮的事。
-① Her artistry is remarkable.
-= 她的技艺令人赞叹。
-② The dish shows real artistry.
-= 那道菜显出真功夫。
+① Her artistry is remarkable and her timekeeping is not.
+= 她的技艺令人赞叹，守时可就不是了。
+② The dish shows real artistry and costs about ninety pence to make.
+= 那道菜显出真功夫，成本大约九十便士。
 show artistry = 显示精湛技艺
-③ Artistry takes years to develop.
-= 艺术造诣要多年才成。
+③ Artistry takes years to develop and about a month to lose.
+= 艺术造诣要多年才成，丢掉大约只要一个月。
 词族：art、artist、artistic
 近义对照：
 artistry = 艺术造诣（有美感）
@@ -28572,14 +28572,14 @@ Arts and Crafts = 工艺美术运动（十九世纪末）
 artwork
 核心：两条线：艺术作品本身，
 和出版印刷用的"美术稿、插图"。
-① The artwork is on display.
-= 那些艺术品正在展出。
+① The artwork is on display until the loan runs out in March.
+= 那些艺术品展出到三月借展期满为止。
 on display = 展出中
-② The album artwork is striking.
-= 那张专辑的封面设计很抢眼。
+② The album artwork is striking and has outlived the music on it.
+= 那张专辑的封面设计很抢眼，比里面的音乐活得还久。
 album artwork = 专辑封面
-③ Send the artwork to the printer.
-= 把美术稿发给印厂。
+③ Send the artwork to the printer by Thursday or the whole run slips a week.
+= 周四之前把美术稿发给印厂，否则整批印刷都要推迟一周。
 注意：artwork 作"艺术品"讲
 可数不可数都有，
 作"美术稿"讲多为不可数。
@@ -28587,13 +28587,13 @@ album artwork = 专辑封面
 arty
 核心：英式口语，指人或事物"故作艺术腔的"，
 带轻微贬义——嫌对方装。美式说 artsy。
-① He's a bit arty.
-= 他有点装文艺。
-② It's an arty café.
-= 那是家文艺范儿的咖啡馆。
+① He's a bit arty and would rather you did not say so to his face.
+= 他有点装文艺，而且不愿意你当面说破。
+② It's an arty café where the coffee costs more than the sandwich.
+= 那是家文艺范儿的咖啡馆，咖啡比三明治还贵。
 arty café = 文艺腔的咖啡店
-③ The film is too arty.
-= 那部电影太故弄玄虚了。
+③ The film is too arty for a Friday night and not arty enough for the festival.
+= 那部电影周五晚上看嫌太文艺，送去影展又不够文艺。
 注意英美差别：
 arty = 故作艺术腔的（英式）
 artsy = 故作艺术腔的（美式）
@@ -28605,13 +28605,13 @@ arty-farty = 假文艺的（更贬）
 arugula
 核心：美式说法，指"芝麻菜"——叶片细长带缺刻，味道辛辣带坚果香，
 生吃拌沙拉。英式叫 rocket，意大利语叫 rucola，说的都是同一种菜。
-① The salad is dressed arugula and parmesan.
-= 那道沙拉是芝麻菜配帕玛森。
-② Arugula tastes peppery.
-= 芝麻菜有股辛辣味。
+① The salad is dressed arugula and parmesan and nothing else at all.
+= 那道沙拉就是芝麻菜配帕玛森，别的什么也没有。
+② Arugula tastes peppery and gets sharper the longer it is left to grow.
+= 芝麻菜有股辛辣味，长得越久味道越冲。
 taste peppery = 味道辛辣
-③ He grows arugula in a window box.
-= 他在窗台花箱里种芝麻菜。
+③ He grows arugula in a window box and cuts it three times before it bolts.
+= 他在窗台花箱里种芝麻菜，抽薹之前能割三茬。
 注意地域：
 arugula = 芝麻菜（美式）
 rocket = 芝麻菜（英式）
@@ -28622,13 +28622,13 @@ arum lily
 核心：一种观赏植物，白色那片像花瓣的东西其实是佛焰苞，中间那根
 黄色肉穗才是真花。常用于婚礼和葬礼的花艺。也叫 calla lily，
 但它跟真正的百合并不同科。
-① White arum lilies filled the church.
-= 教堂里摆满了马蹄莲。
-② The arum lily thrives in damp soil.
-= 马蹄莲喜欢潮湿的土。
+① White arum lilies filled the church for a wedding and a funeral in the same week.
+= 同一周里，教堂两次摆满白色马蹄莲，一次婚礼一次葬礼。
+② The arum lily thrives in damp soil and will grow at the edge of a pond.
+= 马蹄莲喜欢潮湿的土，池塘边上也能长。
 thrive in damp soil = 在湿土里长得好
-③ Florists sell arum lilies year round.
-= 花店一年四季都卖马蹄莲。
+③ Florists sell arum lilies year round because they travel better than most flowers.
+= 花店一年四季都卖马蹄莲，因为它比大多数花耐运。
 注意别混：
 arum lily = 马蹄莲（天南星科，白苞黄穗）
 lily = 百合（百合科，真正的花瓣）
@@ -28640,12 +28640,12 @@ Aryan
 自称的族名，后来用作印度伊朗语支的旧称。十九世纪种族理论把它
 歪曲成"雅利安人种"，纳粹据此鼓吹金发碧眼的优越论并用作屠杀的
 借口。因此第二层带强烈的历史污名，今天严肃写作里避免这么用。
-① Aryan originally named an Indo-Iranian group.
-= 这个词原本指的是一个印度伊朗族群。
-② Linguists once called the family Aryan.
-= 语言学家曾用这个名字称那个语族。
-③ Nazi ideology invented an Aryan master race.
-= 纳粹意识形态编造出所谓雅利安优等种族。
+① The Aryan peoples who moved onto the Iranian plateau left their language behind them.
+= 迁入伊朗高原的那些族群把自己的语言留在了那里。
+② Nineteenth-century scholars traced Aryan roots in Sanskrit and Persian alike.
+= 十九世纪的学者在梵语和波斯语里同样追溯那个语支的词根。
+③ Nazi ideology invented an Aryan master race and murdered millions in its name.
+= 纳粹意识形态编造出所谓雅利安优等种族，并以此为名杀害了数百万人。
 Aryan master race = 雅利安优等种族（伪科学说法）
 注意语域：
 语言学旧称尚可用于学术史，
@@ -28707,13 +28707,13 @@ AS level
 核心：英国中学的一种资格考试，全称 Advanced Subsidiary level，
 学生在十二年级考，程度介于普通中等教育证书与完整的高级程度
 证书之间。二零一五年改革后它与后者脱钩，成了独立资格。
-① She took four AS levels.
-= 她考了四门高级补充程度课。
+① She took four AS levels and dropped the one she was best at.
+= 她考了四门高级补充程度课，退掉的偏偏是最擅长的那门。
 take an AS level = 考一门该资格课程
-② AS levels sit between GCSE and A level.
-= 那个资格介于中等证书与高级程度之间。
-③ He dropped one subject after AS level.
-= 考完那一级他退了一门课。
+② AS levels sit between GCSE and A level and no longer count towards the latter.
+= 那个资格介于中等证书与高级程度之间，如今已不计入后者。
+③ He dropped one subject after AS level and regretted it at university.
+= 考完那一级他退了一门课，上了大学才后悔。
 注意地域：
 英国教育制度用语。
 层级对照：
@@ -28725,13 +28725,13 @@ asana
 核心：梵语借词，指瑜伽里的"体式"——身体摆出并保持住的那个姿势。
 每个体式都有专名，比如树式、下犬式。在传统瑜伽八支里，
 它只是其中一支，不等于瑜伽的全部。
-① Hold the asana for five breaths.
-= 这个体式保持五个呼吸。
+① Hold the asana for five breaths and come out of it more slowly than you went in.
+= 这个体式保持五个呼吸，出式要比入式更慢。
 hold an asana = 保持体式
-② The class moved through twelve asanas.
-= 那节课过了十二个体式。
-③ Asana is only one limb of yoga.
-= 体式只是瑜伽的一支。
+② The class moved through twelve asanas without once naming any of them.
+= 那节课过了十二个体式，一个名字也没报。
+③ Asana is only one limb of yoga and the one that travels best to the West.
+= 体式只是瑜伽的一支，也是最容易传到西方的那一支。
 注意语域：
 瑜伽术语，梵语借词。
 
@@ -28739,13 +28739,13 @@ asap
 核心：as soon as possible 的缩写，指"尽快"。四个字母可以逐个念，
 也可以拼成一个音节念。写法上大写小写、带不带句点都有人用。
 它常暗含催促，所以对上级或客户用要留意口气。
-① Send the file asap.
-= 尽快把文件发来。
+① Send the file asap, which in this office means before lunch.
+= 尽快把文件发来，在这间办公室里指的是午饭前。
 asap = 尽快
-② She replied asap, as asked.
-= 她按要求尽快回了。
-③ We need a decision asap.
-= 我们需要尽快有个决定。
+② She replied asap, as asked, and heard nothing back for eleven days.
+= 她按要求尽快回了，之后十一天没有音信。
+③ We need a decision asap and will take a bad one over none at all.
+= 我们需要尽快有个决定，宁可要个糟的也不要没有。
 注意语域：
 职场邮件与短信里高频，正式公文里写全。
 注意用法：
