@@ -52,14 +52,14 @@ acclimatization = 适应过程
 accolade
 核心：指正式的"荣誉、褒奖"，可以是奖项，也可以是一句公开的高度
 评价。可数，常用复数。比 award 更强调"荣誉"而非"奖品"。
-① The prize is the highest accolade.
-= 那个奖是最高荣誉。
-② She received many accolades.
-= 她获得了许多荣誉。
-③ It's an accolade he deserves.
-= 那是他应得的荣誉。
-④ Critics heaped accolades on her.
-= 评论家对她赞誉有加。
+① The prize is the highest accolade in a field with about two hundred people.
+= 那个奖是一个只有两百来人的领域里的最高荣誉。
+② She received many accolades and kept every one of them in a box.
+= 她获得了许多荣誉，每一样都收在一个盒子里。
+③ It's an accolade he deserves and would never have asked for.
+= 那是他应得的荣誉，也是他绝不会开口去要的。
+④ Critics heaped accolades on her second book and ignored the first.
+= 评论家对她第二本书赞誉有加，第一本却没人提。
 heap accolades on = 大加褒奖
 近义对照：
 accolade 荣誉、褒奖（正式）
@@ -121,16 +121,16 @@ accommodations = 住处（美式，常用复数）
 accompaniment
 核心：两条线：音乐上的"伴奏"，和餐饮上"配着吃的东西"。都对应
 动词 accompany 的"伴随"这条线。介词用 to。
-① She sang to piano accompaniment.
-= 她在钢琴伴奏下演唱。
+① She sang to piano accompaniment played from memory by her brother.
+= 她弟弟凭记忆弹钢琴伴奏，她跟着唱。
 to the accompaniment of = 在…伴奏下
-② Rice is the usual accompaniment.
-= 通常配米饭。
+② Rice is the usual accompaniment and the bread is worth asking for.
+= 通常配米饭，不过那里的面包值得开口要一份。
 an accompaniment to = …的配菜
-③ He played the accompaniment.
-= 他弹的是伴奏。
-④ Wine is a good accompaniment to cheese.
-= 葡萄酒和奶酪很配。
+③ He played the accompaniment and covered two mistakes that were not his.
+= 他弹的是伴奏，还替别人遮过去两个错音。
+④ Wine is a good accompaniment to cheese and a poor one to fish soup.
+= 葡萄酒配奶酪很好，配鱼汤就不行。
 词族：
 accompany = 伴奏、陪同
 accompanist = 伴奏者
@@ -175,15 +175,15 @@ accompanist = 伴奏者
 accomplice
 核心：法律用语，指参与犯罪的"同伙、帮凶"。介词用 in（参与某罪）
 或 to（某罪的从犯）。比 partner 语气重得多，一定涉及犯罪。
-① He had an accomplice.
-= 他有个同伙。
-② She was an accomplice in the fraud.
-= 她参与了那起诈骗。
+① He had an accomplice who waited in a car with the engine running.
+= 他有个同伙，坐在一辆没熄火的车里等着。
+② She was an accomplice in the fraud and gave evidence against the rest.
+= 她参与了那起诈骗，后来出庭指证了其他人。
 an accomplice in = 参与…的同伙
-③ Police arrested two accomplices.
-= 警方逮捕了两名同伙。
-④ The driver acted as an accomplice.
-= 那名司机充当了帮凶。
+③ Police arrested two accomplices at an address they had watched for weeks.
+= 警方在一处盯了几周的住址逮捕了两名同伙。
+④ The driver acted as an accomplice and said he had thought it was a delivery.
+= 那名司机充当了帮凶，还说他以为是去送货。
 近义对照：
 accomplice 同伙（共同实施）
 accessory 从犯（协助但未实施）
@@ -233,15 +233,15 @@ accomplishment = 成就
 accomplishment
 核心：两条线：具体的"成就"（可数），和"完成"这个行为（不可数）。
 和 achievement 基本同义，accomplishment 更强调"靠本事做成"。
-① It was a great accomplishment.
-= 那是项了不起的成就。
-② Her accomplishments are many.
-= 她成就很多。
-③ The accomplishment of the task took a year.
-= 完成那项任务花了一年。
+① It was a great accomplishment for a team that had never worked together.
+= 对一个从没合作过的团队来说，那是项了不起的成就。
+② Her accomplishments are many and she lists none of them on paper.
+= 她成就很多，纸面上一样都不列。
+③ The accomplishment of the task took a year and two changes of leadership.
+= 完成那项任务花了一年，还换了两次负责人。
 the accomplishment of = …的完成
-④ Piano is one of her accomplishments.
-= 弹琴是她的一项才艺。
+④ Piano is one of her accomplishments and the only one she hides.
+= 弹琴是她的一项才艺，也是唯一一项她瞒着人的。
 词族：accomplish、accomplished
 近义对照：
 accomplishment = 成就（靠技能）

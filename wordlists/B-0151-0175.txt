@@ -63,21 +63,21 @@ deceleration = 减速
 accelerator
 核心：两个意思：汽车的"油门踏板"，和物理上的"粒子加速器"。
 英式说 accelerator，美式口语常说 gas pedal。
-① He pressed the accelerator.
-= 他踩下了油门。
+① He pressed the accelerator and nothing happened for a full second.
+= 他踩下油门，整整一秒钟毫无反应。
 press / hit the accelerator = 踩油门
-② Take your foot off the accelerator.
-= 把脚从油门上挪开。
-③ They built a particle accelerator.
-= 他们建了台粒子加速器。
+② Take your foot off the accelerator before you reach the bend.
+= 到弯道之前把脚从油门上挪开。
+③ They built a particle accelerator under farmland in three countries.
+= 他们在三个国家的农田底下建了台粒子加速器。
 particle accelerator = 粒子加速器
 注意英美差别：
 accelerator = 油门踏板（英式）
 gas pedal = 油门踏板（美式）
 词族：
 accelerate = 加速
-④ The accelerator board speeds up rendering.
-= 那块加速卡能加快渲染。
+④ The accelerator board speeds up rendering and doubles the electricity bill.
+= 那块加速卡能加快渲染，也让电费翻倍。
 accelerator board = 加速卡（计算机）
 
 accelerometer
@@ -242,17 +242,17 @@ acceptability = 可接受性
 acceptance
 核心：三条线：收下某物、认可某观点、以及心理上"接受现实"。
 第三条在心理学和临终关怀语境里很重要。
-① He signalled his acceptance.
-= 他表示接受。
+① He signalled his acceptance with a nod that half the room missed.
+= 他点头表示接受，屋里一半人没看见。
 signal acceptance = 表示接受
-② The theory gained wide acceptance.
-= 那个理论获得了广泛认可。
+② The theory gained wide acceptance about forty years after he died.
+= 他去世约四十年后，那个理论才获得广泛认可。
 gain acceptance = 获得认可
-③ She reached acceptance at last.
-= 她最终接受了现实。
+③ She reached acceptance at last and stopped rereading the letters.
+= 她终于接受了现实，不再一遍遍重读那些信。
 reach acceptance = 达到接纳
-④ Acceptance rates are falling.
-= 录取率在下降。
+④ Acceptance rates are falling and the applications keep going up.
+= 录取率在下降，申请数却一直在涨。
 acceptance rate = 录取率
 词族：
 accept = 接受
@@ -323,18 +323,18 @@ access = 通道；使用权
 accessible
 核心：三条线，都从 access 长出来：地方"到得了"、东西"用得上"、
 内容"看得懂"。第三条在评论书籍和讲座时很常用。
-① The village is accessible by car.
-= 那个村子开车能到。
+① The village is accessible by car for about nine months of the year.
+= 那个村子一年里大约九个月开车能到。
 accessible by = 可通过…到达
-② The data is accessible to all.
-= 那些数据对所有人开放。
+② The data is accessible to all and understood by almost nobody.
+= 那些数据对所有人开放，几乎没人看得懂。
 accessible to = 可供…使用
-③ He makes physics accessible.
-= 他把物理讲得通俗易懂。
+③ He makes physics accessible without ever telling you it is simple.
+= 他把物理讲得通俗易懂，却从不说它简单。
 这里：
 accessible = 易懂的
-④ The building is wheelchair accessible.
-= 那栋楼可供轮椅通行。
+④ The building is wheelchair accessible everywhere except the room upstairs.
+= 那栋楼处处可供轮椅通行，只有楼上那间不行。
 反义词：
 inaccessible = 无法到达的
 词族：
@@ -374,15 +374,15 @@ accessory = 配饰
 accessory
 核心：两条毫不相干的线：服饰和设备的"配件"，和法律上的"从犯"。
 前者常用复数，后者搭配 an accessory to。
-① She bought some accessories.
-= 她买了些配饰。
-② The camera comes with accessories.
-= 那台相机附带配件。
-③ He was an accessory to murder.
-= 他是谋杀案的从犯。
+① She bought some accessories and spent more on them than on the coat.
+= 她买了些配饰，花的钱比大衣还多。
+② The camera comes with accessories that fit no other model.
+= 那台相机附带的配件，别的型号一件都装不上。
+③ He was an accessory to murder and served four years for it.
+= 他是谋杀案的从犯，为此服刑四年。
 an accessory to = …的从犯
-④ Fashion accessories sell well.
-= 时尚配饰卖得好。
+④ Fashion accessories sell well in a year when nobody buys clothes.
+= 在一个没人买衣服的年头，时尚配饰卖得很好。
 注意复数：
 accessory → accessories
 注意：法律义很正式，
@@ -448,16 +448,16 @@ accidentally 有两个 l，
 acclaim
 核心：指"公开的高度赞誉"，比 praise 隆重得多，多用于艺术作品和
 成就。名词不可数，动词常用被动 be acclaimed as。
-① The film won critical acclaim.
-= 那部电影赢得了评论界赞誉。
+① The film won critical acclaim and took eleven years to make its money back.
+= 那部电影赢得了评论界赞誉，十一年后才回本。
 critical acclaim = 评论界好评
-② She was acclaimed as a genius.
-= 她被誉为天才。
+② She was acclaimed as a genius by people who had read one paragraph.
+= 把她誉为天才的那些人，只读过一段。
 be acclaimed as = 被誉为
-③ The book received wide acclaim.
-= 那本书广受好评。
-④ It's an acclaimed novel.
-= 那是部广受赞誉的小说。
+③ The book received wide acclaim and sold four hundred copies.
+= 那本书广受好评，卖了四百本。
+④ It's an acclaimed novel that almost nobody finishes.
+= 那是部广受赞誉的小说，几乎没人读得完。
 词族：
 acclaimed = 广受赞誉的
 近义对照：
@@ -468,14 +468,14 @@ applause 掌声（字面）
 acclaimed
 核心：指作品或人"广受赞誉的"，只作定语。
 最高频的搭配是 critically acclaimed。
-① It's a critically acclaimed film.
-= 那是部广受好评的电影。
+① It's a critically acclaimed film that lost money in every market.
+= 那是部广受好评的电影，在每个市场都赔了钱。
 critically acclaimed = 评论界盛赞的
-② She is an acclaimed novelist.
-= 她是位备受赞誉的小说家。
+② She is an acclaimed novelist who writes about four hundred words a day.
+= 她是位备受赞誉的小说家，一天大约写四百字。
 acclaimed novelist = 知名小说家
-③ The album was widely acclaimed.
-= 那张专辑广获好评。
+③ The album was widely acclaimed and then quietly deleted from the catalogue.
+= 那张专辑广获好评，随后被悄悄从目录里撤了下来。
 widely acclaimed = 广受赞誉
 词族：
 acclaim = 赞誉
