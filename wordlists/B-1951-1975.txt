@@ -385,17 +385,17 @@ backup
 核心：底层是"顶在后面的那一份"。数据上是"备份"；人手上是
 "后援、支援"；东西上是"备用的那一个"。写成两个词
 back up 时是动词。
-① Make a backup before updating.
-= 更新前先做备份。
+① Make a backup before updating, because the rollback has never worked.
+= 更新前先做备份，那个回滚功能从来没成功过。
 make a backup = 做备份
-② Officers called for backup.
-= 警员请求支援。
+② Officers called for backup and waited nineteen minutes for it.
+= 警员请求支援，等了十九分钟。
 call for backup = 请求支援
-③ Keep a backup generator.
-= 备一台后备发电机。
+③ Keep a backup generator and test it on a day when nothing depends on it.
+= 备一台后备发电机，挑个不指望它的日子试机。
 backup generator = 备用发电机
-④ She sang backup on the album.
-= 她在那张专辑里唱和声。
+④ She sang backup on the album and wrote half of it as well.
+= 她在那张专辑里唱和声，一半的歌也是她写的。
 sing backup = 唱伴唱
 注意写法：
 名词与形容词连写，动词分写成两个词。

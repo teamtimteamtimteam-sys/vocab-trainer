@@ -140,17 +140,17 @@ bale
 名词是那一捆，动词是打捆，打捆机叫 baler。
 另有一路：bale out 是 bail out 的英式异拼，
 指跳伞逃生或舀水，两种拼法都通行。
-① Tractors stacked bales of hay.
-= 拖拉机把干草捆摞了起来。
+① Tractors stacked bales of hay four high along the edge of the field.
+= 拖拉机把干草捆沿着地边摞了四层高。
 a bale of hay = 一捆干草
-② They baled the straw before the rain.
-= 他们赶在下雨前把麦秸打了捆。
+② They baled the straw in a hurry before the rain came over the hill.
+= 雨从山那边过来之前，他们赶紧把麦秸打了捆。
 bale = 打捆
-③ The baler broke down mid-field.
-= 打捆机在地里坏了。
+③ The baler broke down mid-field and cost them the whole afternoon.
+= 打捆机在地当中坏了，害他们搭进去一下午。
 baler = 打捆机
-④ The pilot baled out over the sea.
-= 飞行员在海上跳伞逃生。
+④ The pilot baled out over the sea and was picked up within the hour.
+= 飞行员在海上跳伞逃生，一小时内就被救起。
 bale out = 跳伞逃生（英式拼法）
 注意拼写：
 bale out 与 bail out 是同一说法的两种拼法，
@@ -177,16 +177,16 @@ balk
 引申指人"打退堂鼓、犹豫不干"，固定接介词 at。
 英式常拼作 baulk，那个拼法在台球里还指球台一端的一块区域。
 形容词 balky 指牲口或机器"不听使唤、动不动罢工"。
-① The horse balked at the fence.
-= 那匹马到栅栏前停住了。
+① The horse balked at the water jump and threw its rider into the ditch.
+= 那匹马到水障前突然刹住，把骑手甩进了沟里。
 balk at = 在…面前退缩
-② She balked at the price.
-= 她一看价钱就打了退堂鼓。
-③ The engine is balky in the cold.
-= 那台发动机天冷就闹脾气。
+② She balked at the price and walked out before the salesman finished.
+= 她一看价钱就打了退堂鼓，销售还没说完她就走了。
+③ The old engine is balky in the cold and needs coaxing for ten minutes.
+= 那台旧发动机天冷就闹脾气，得哄上十分钟。
 balky = 不听使唤的
-④ He placed the cue ball in baulk.
-= 他把主球放在了置球区。
+④ A cue ball resting in baulk cannot be struck at the opponent directly.
+= 停在置球区里的主球没法直接朝对手的球打。
 baulk = 台球台上的置球区（英式拼法）
 注意拼写：
 balk 美式常用 / baulk 英式常用，意思相同。
@@ -365,17 +365,17 @@ ballast
 核心：底层是"压舱的重物"。船在空载时装水或石头压低重心，
 免得翻——那就是本义；热气球扔沙袋也是它。铁路上指铺在
 枕木下的碎石道砟。比喻着用指"让人稳得住的东西"。
-① The ship took on water ballast.
-= 那艘船注了压舱水。
+① The ship took on water ballast to sit lower and ride out the swell.
+= 那艘船注了压舱水，压低船身好扛住涌浪。
 water ballast = 压舱水
-② The balloonist dropped ballast to climb.
-= 热气球驾驶员抛掉压舱物以爬升。
+② The balloonist dropped ballast by the handful to clear the ridge.
+= 热气球驾驶员一把把地抛沙，好越过那道山脊。
 drop ballast = 抛压舱物
-③ Crushed stone forms the track ballast.
-= 碎石构成道砟。
+③ Crushed stone forms the track ballast and keeps the sleepers from shifting.
+= 碎石构成道砟，让枕木不会移位。
 track ballast = 道砟
-④ Routine gives his life ballast.
-= 规律的作息让他稳得住。
+④ A fixed routine gives his life ballast that nothing much can upset.
+= 规律的作息给他的生活压了舱，什么事都晃不动他。
 注意用法：
 比喻义指「让人不至于飘的那点分量」。
 
@@ -406,17 +406,17 @@ ballistic
 支配的那段轨迹。ballistic missile 就是这个意思：推进段之后
 全靠惯性飞完。口语借它造了个夸张说法 go ballistic，
 指人"暴跳如雷"，像导弹一样窜起来。
-① They tracked the ballistic trajectory.
-= 他们追踪了那条弹道。
+① They tracked the ballistic trajectory from launch to the point of impact.
+= 他们追踪了那条弹道，从发射一直到落点。
 ballistic trajectory = 弹道轨迹
-② A ballistic missile leaves the atmosphere.
-= 弹道导弹会飞出大气层。
+② A ballistic missile leaves the atmosphere and coasts back down under gravity.
+= 弹道导弹会飞出大气层，再靠重力滑落回来。
 ballistic missile = 弹道导弹
-③ He went ballistic when he saw the bill.
-= 他看到账单当场炸了。
+③ He went ballistic when he saw what the repairs had actually cost.
+= 他一看到修车实际花了多少，当场就炸了。
 go ballistic = 暴跳如雷
-④ Ballistics matched the bullet to the gun.
-= 弹道分析把子弹和枪对上了。
+④ Ballistics matched the bullet to a gun reported stolen two years earlier.
+= 弹道分析把子弹和一支两年前报失的枪对上了。
 ballistics = 弹道学（作单数用）
 注意用法：
 口语那一层带夸张，正式场合不用。
@@ -456,18 +456,18 @@ ballot
 核心：底层是"投票用的那张纸"。由此指整个"投票、表决"这件事，
 以及不记名投票这种方式。词源是意大利语的"小球"——
 古时用往罐里投黑白小球来表决。动词指举行投票。
-① Members voted by secret ballot.
-= 会员以无记名投票表决。
+① Members voted by secret ballot after a debate that ran past midnight.
+= 辩论开到过了午夜，会员才以无记名投票表决。
 secret ballot = 无记名投票
-② Put your ballot paper in the box.
-= 把选票投进箱子。
+② Fold your ballot paper once and drop it straight into the box.
+= 把选票对折一次，直接投进箱子。
 ballot paper = 选票
 ballot box = 投票箱
-③ The union balloted its members.
-= 工会让会员投了票。
+③ The union balloted its members on strike action and won by a narrow margin.
+= 工会就罢工一事让会员投票，以微弱多数通过。
 ballot somebody = 组织某些人投票
-④ Her name was not on the ballot.
-= 选票上没有她的名字。
+④ Her name was not on the ballot because the papers arrived a day late.
+= 她的名字没上选票，因为材料晚交了一天。
 on the ballot = 列入候选
 注意别混：
 ballot = 投票这件事或那张选票

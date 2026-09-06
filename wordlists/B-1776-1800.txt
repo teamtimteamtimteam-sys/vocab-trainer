@@ -81,16 +81,16 @@ autocomplete
 核心：输入时"自动补全"——你才打了几个字母，系统就把整词或整句
 接出来供你选。搜索框、代码编辑器和邮箱地址栏都靠它省事。
 同一族的还有 autofill（自动填表）和 autosave（自动保存）。
-① Autocomplete suggested the whole address.
-= 自动补全把整个地址提了出来。
+① Autocomplete suggested the whole address and got the postcode wrong.
+= 自动补全把整个地址提了出来，邮编却填错了。
 suggest an entry = 提示补全项
-② The editor has autocomplete for function names.
-= 那个编辑器能补全函数名。
-③ Autofill saved her retyping the form.
-= 自动填表省得她重打一遍。
+② The editor has autocomplete for function names and none for comments.
+= 那个编辑器能补全函数名，注释就一点提示都没有。
+③ Autofill saved her retyping the form and put last year's job in it.
+= 自动填表省得她重打一遍，却把去年的工作填了进去。
 autofill = 自动填表
-④ Autosave recovered the lost draft.
-= 自动保存把丢掉的草稿找了回来。
+④ Autosave recovered the lost draft from about ninety seconds earlier.
+= 自动保存把丢掉的草稿找了回来，退回到大约九十秒前。
 autosave = 自动保存
 注意语域：
 软件与界面用语。
@@ -321,12 +321,12 @@ automat
 automate
 核心：指用机器或软件"使自动化"，取代人工操作。
 常用被动。
-① The process was automated.
-= 那道流程实现了自动化。
-② Factories automate assembly.
-= 工厂把装配自动化了。
-③ Automating tasks saves time.
-= 把任务自动化能省时间。
+① The process was automated and now takes two people to supervise.
+= 那道流程实现了自动化，如今要两个人盯着。
+② Factories automate assembly and keep one person for the awkward part.
+= 工厂把装配自动化，只留一个人做最别扭的那道工序。
+③ Automating tasks saves time that immediately fills up with other tasks.
+= 把任务自动化省下的时间，立刻被别的任务填满。
 automate a task = 使任务自动化
 词族：
 automation = 自动化
@@ -335,8 +335,8 @@ automatic = 自动的
 automate = 自动化（用机器替代）
 mechanize = 机械化（用机器替代人力）
 digitize = 数字化（转成数字形式）
-④ She withdrew cash from an automated teller machine.
-= 她在自动柜员机上取了现金。
+④ She withdrew cash from an automated teller machine that charged her twice.
+= 她在自动柜员机上取现金，那台机器扣了两次费。
 automated teller machine = 自动柜员机
 
 automated teller machine
