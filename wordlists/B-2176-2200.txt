@@ -407,18 +407,18 @@ bcc
 本指打字机上垫复写纸打出的副本，cc 沿用下来指抄送；加个 blind
 是说这一栏里的收件人不会被别人看见，别的收件人也不知道有他。
 名词动词都能用，动词是"密送给某人"。
-① Put her in bcc.
-= 把她放进密送栏。
+① Put her in bcc so the client cannot see that legal is reading along.
+= 把她放进密送栏，别让客户看出法务在同步看信。
 in bcc = 在密送栏里
-② I'll bcc you on the reply.
-= 回信我密送你一份。
+② I'll bcc you on the reply in case the thread goes somewhere awkward.
+= 回信我密送你一份，万一这串邮件走向不妙。
 bcc someone = 密送给某人
 动词用法，后面直接接人。
-③ Use bcc for large mailing lists.
-= 群发大名单时要用密送。
+③ Use bcc for large mailing lists so nobody harvests everyone's address.
+= 群发大名单时用密送，免得有人把所有地址都收走。
 避免把所有人的地址暴露给彼此，这是它最实用的场合。
-④ He was bcc'd on the whole exchange.
-= 整串往来他都收到了密送。
+④ He was bcc'd on the whole exchange and never said a word about it.
+= 整串往来他都收到了密送，一句话没提。
 被动式常写成加撇号的形式。
 近义对照：
 cc = 抄送（收件人彼此可见）

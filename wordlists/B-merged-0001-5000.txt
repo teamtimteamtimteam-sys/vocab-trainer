@@ -41251,16 +41251,16 @@ bask
 核心：底层是"舒舒服服地摊在暖处"。字面指晒太阳取暖——
 蜥蜴晒石头、人躺沙滩都是它。比喻着用指"沉浸在赞誉或关注里"，
 固定接介词 in，多带一点"享受得有些过头"的意味。
-① Lizards bask on the warm rocks.
-= 蜥蜴在暖石头上晒太阳。
+① Lizards bask on the warm rocks until the first shadow crosses the wall.
+= 蜥蜴在暖石头上晒太阳，直到第一道阴影扫过墙面。
 bask in the sun = 晒太阳
-② They basked in the afternoon heat.
-= 他们在午后的热气里懒洋洋地待着。
-③ She basked in the applause.
-= 她沉浸在掌声里。
+② They basked in the afternoon heat with the shutters half closed.
+= 他们半掩着百叶窗，在午后的热气里懒洋洋地待着。
+③ She basked in the applause for a good deal longer than the piece deserved.
+= 她沉浸在掌声里，那时间比这支曲子配得上的长得多。
 bask in = 沉浸于（赞誉、关注）
-④ The basking shark feeds near the surface.
-= 姥鲨在近水面进食。
+④ The basking shark feeds near the surface with its mouth wide open.
+= 姥鲨张着大嘴在近水面进食。
 basking shark = 姥鲨（因常浮在水面「晒太阳」得名）
 注意用法：
 比喻义后面接的多是 praise、glory、attention 这类词。
@@ -41415,16 +41415,16 @@ bastard
 也可以反过来当亲昵的调侃（you lucky bastard）。
 另有一层不骂人：形容事情"棘手难缠"。
 动词 bastardize 指把东西搞得不伦不类。
-① He called me a bastard.
-= 他骂我混蛋。
-② You lucky bastard!
-= 你小子真走运！
+① He called me a bastard in front of the whole yard and walked off.
+= 他当着整个院子的人骂我混蛋，转身就走。
+② You lucky bastard, getting the window seat on a flight that long.
+= 那么长的航班还坐到靠窗位，你小子真走运。
 这里是亲昵的调侃，仍属粗话。
-③ It was a bastard of a job.
-= 那活儿难缠得很。
+③ It was a bastard of a job that took three of us the entire weekend.
+= 那活儿难缠得很，我们三个搭进去一整个周末。
 a bastard of a = 棘手的
-④ The film bastardizes the novel.
-= 那部电影把原著改得不伦不类。
+④ The film bastardizes the novel and drops the two best characters.
+= 那部电影把原著改得不伦不类，最好的两个角色都砍了。
 bastardize = 篡改得走样
 注意语域：
 粗话，正式场合与陌生人之间一律不用；
@@ -41527,16 +41527,16 @@ batch
 于是引申成"一批、一组"，凡是同时处理、同时产出的都能这么说。
 计算机里的 batch processing 指攒够一批再一次性跑完，
 跟随到随处理的实时方式相对。
-① She baked a batch of scones.
-= 她烤了一炉司康。
+① She baked a batch of scones and the tray was empty within the hour.
+= 她烤了一炉司康，不到一小时盘子就空了。
 a batch of = 一批、一炉
-② The next batch of applicants arrives Monday.
-= 下一批申请人星期一到。
-③ Check the batch number on the label.
-= 看一下标签上的批号。
+② The next batch of applicants arrives on Monday for a two-day assessment.
+= 下一批申请人星期一到，参加为期两天的评估。
+③ Check the batch number on the label before you throw the box away.
+= 扔盒子之前先看一眼标签上的批号。
 batch number = 批号
-④ The system uses batch processing.
-= 那个系统采用批处理。
+④ The system uses batch processing overnight and reports errors at seven.
+= 那个系统夜里跑批处理，七点报出错误。
 batch processing = 批处理
 注意用法：
 强调「同时产出或同时处理」，不只是数量上的一堆。
@@ -41656,16 +41656,16 @@ baton
 接力赛里传递的那根；警察的警棍；仪仗队抛接的那根。
 习语 pass the baton 从接力赛来，指"交棒、把责任传下去"。
 另有 baton round 是防暴用的塑胶弹。
-① The conductor raised her baton.
-= 指挥举起了指挥棒。
-② He dropped the baton at the handover.
-= 交接时他把接力棒掉了。
+① The conductor raised her baton and the hall went quiet at once.
+= 指挥举起指挥棒，全场立刻安静下来。
+② He dropped the baton at the handover and threw away a certain medal.
+= 他在交接时把接力棒掉了，一块到手的奖牌就没了。
 pass the baton = 交棒、移交职责
-③ Police drew their batons.
-= 警察抽出了警棍。
+③ Police drew their batons as the crowd pressed against the barriers.
+= 人群挤上护栏时，警察抽出了警棍。
 baton = 警棍
-④ Baton rounds were fired at the crowd.
-= 人群遭到塑胶弹射击。
+④ Baton rounds were fired at the crowd from behind an armoured vehicle.
+= 有人从装甲车后面朝人群发射了塑胶弹。
 baton round = 塑胶弹（英式官方说法）
 注意用法：
 比喻义几乎只用 pass the baton 这个搭配。
@@ -42137,18 +42137,18 @@ bcc
 本指打字机上垫复写纸打出的副本，cc 沿用下来指抄送；加个 blind
 是说这一栏里的收件人不会被别人看见，别的收件人也不知道有他。
 名词动词都能用，动词是"密送给某人"。
-① Put her in bcc.
-= 把她放进密送栏。
+① Put her in bcc so the client cannot see that legal is reading along.
+= 把她放进密送栏，别让客户看出法务在同步看信。
 in bcc = 在密送栏里
-② I'll bcc you on the reply.
-= 回信我密送你一份。
+② I'll bcc you on the reply in case the thread goes somewhere awkward.
+= 回信我密送你一份，万一这串邮件走向不妙。
 bcc someone = 密送给某人
 动词用法，后面直接接人。
-③ Use bcc for large mailing lists.
-= 群发大名单时要用密送。
+③ Use bcc for large mailing lists so nobody harvests everyone's address.
+= 群发大名单时用密送，免得有人把所有地址都收走。
 避免把所有人的地址暴露给彼此，这是它最实用的场合。
-④ He was bcc'd on the whole exchange.
-= 整串往来他都收到了密送。
+④ He was bcc'd on the whole exchange and never said a word about it.
+= 整串往来他都收到了密送，一句话没提。
 被动式常写成加撇号的形式。
 近义对照：
 cc = 抄送（收件人彼此可见）
@@ -42566,15 +42566,15 @@ beacon
 核心：底层是"点在高处示警或指路的火"。古时山头点火报警，
 今天指灯塔、航标灯、无线电信标。比喻着用指"指路明灯"——
 给人希望或指引方向的人或事。手机上的蓝牙信标也叫它。
-① The lighthouse beacon swept the sea.
-= 灯塔的光束扫过海面。
-② Beacons were lit along the ridge.
-= 山脊上一路点起了烽火。
-③ She was a beacon of hope.
-= 她是希望的灯塔。
+① The lighthouse beacon swept the sea once every eight seconds.
+= 灯塔的光束每八秒扫过海面一次。
+② Beacons were lit along the ridge to carry the warning inland by morning.
+= 山脊上一路点起烽火，天亮前把警讯传到内陆。
+③ She was a beacon of hope to families who had been waiting for years.
+= 对那些等了多年的家庭来说，她是希望的灯塔。
 a beacon of hope = 希望的象征
-④ The shop uses Bluetooth beacons.
-= 那家店用蓝牙信标。
+④ The shop uses Bluetooth beacons to push offers as you walk past a shelf.
+= 那家店用蓝牙信标，你走过货架就给你推优惠。
 Bluetooth beacon = 蓝牙信标
 注意用法：
 比喻义后面接介词引出所象征的东西。
@@ -43211,15 +43211,15 @@ beaver
 核心：一种啮齿动物，会啃倒树木筑坝造池，是少数能大幅改造地貌的
 动物。它干活不停，所以有 eager beaver（干劲十足的人）
 和 beaver away（埋头苦干）这两个说法。
-① Beavers dam the stream.
-= 河狸把溪流拦起来。
-② A beaver fells trees with its teeth.
-= 河狸用牙把树啃倒。
-③ He is an eager beaver.
-= 他是个特别卖力的人。
+① Beavers dam the stream and flood half the meadow within a season.
+= 河狸把溪流拦起来，一季之内就淹掉半片草地。
+② A beaver fells trees with its teeth and drags the trunks into the water.
+= 河狸用牙把树啃倒，再把树干拖进水里。
+③ He is an eager beaver who answers emails before anyone else is awake.
+= 他干劲十足，别人还没醒就把邮件回完了。
 eager beaver = 干劲十足的人
-④ She beavered away all weekend.
-= 她整个周末都在埋头苦干。
+④ She beavered away all weekend and had the whole report finished by Sunday night.
+= 她整个周末埋头苦干，周日夜里就把整份报告做完了。
 beaver away = 埋头苦干
 注意语域：
 这个词在美式俚语里另有粗俗义，用时留意语境。
@@ -43323,16 +43323,16 @@ beckon
 核心：指"招手示意过来"——用手或点头把人叫过去，不出声。
 比喻着用指某个前景"在向你招手"，多说机会、未来、危险，
 主语常是抽象事物。
-① She beckoned him over.
-= 她招手叫他过去。
+① She beckoned him over to a table at the back where nobody could hear.
+= 她招手叫他过去，到后面一张没人听得见的桌子。
 beckon somebody over = 招手叫某人过来
-② He beckoned with a finger.
-= 他勾了勾手指。
-③ A new career beckoned.
-= 一份新事业在向他招手。
+② He beckoned with a finger and the whole queue shuffled forward a step.
+= 他勾了勾手指，整条队伍往前挪了一步。
+③ A new career beckoned, and it meant selling the flat and moving north.
+= 一份新事业在向他招手，代价是卖掉公寓、搬去北方。
 beckon = 吸引、召唤（抽象主语）
-④ Adventure beckons.
-= 冒险在召唤。
+④ Adventure beckons, but so does a mortgage that will not pay itself.
+= 冒险在召唤，可房贷也不会自己还上。
 注意用法：
 比喻义的主语多是机会、未来这类抽象名词。
 
@@ -44283,17 +44283,17 @@ begrudge
 两层都在说同一件事：给得不痛快。
 常用否定表示大方：I don't begrudge her the money
 是"她拿那笔钱我一点不眼红"。
-① He begrudges every penny.
-= 他每一分钱都给得肉疼。
-② She doesn't begrudge him his success.
-= 他的成功她一点不眼红。
+① He begrudges every penny that goes on anything but the mortgage.
+= 只要不是花在房贷上的钱，他每一分都给得肉疼。
+② She doesn't begrudge him his success, though she trained him herself.
+= 他是她一手带出来的，可她一点不眼红他的成功。
 begrudge somebody something = 眼红某人拥有某物
-③ I begrudge the time it takes.
-= 花那么多时间我很不甘。
+③ I begrudge the time it takes to drive there more than the fare itself.
+= 比起车费，我更舍不得开车过去花的那些时间。
 注意用法：
 接双宾语：begrudge 加人再加物。
-④ He agreed, if begrudgingly.
-= 他答应了，虽然不情愿。
+④ He agreed to the extra shift, if begrudgingly, and made sure we knew it.
+= 他答应加那个班，虽然不情愿，还非让我们都知道。
 begrudgingly = 不情愿地
 
 beguile
@@ -45001,18 +45001,18 @@ belle
 固定说法 the belle of the ball 指舞会上的焦点人物。
 偏旧且带一点浪漫腔。另有 belle époque 指十九世纪末到
 一战前那段被追忆为太平繁荣的年月。
-① She was the belle of the ball.
-= 她是全场的焦点。
+① She was the belle of the ball and left before the band finished.
+= 她是全场的焦点，乐队还没收尾她就走了。
 the belle of the ball = 舞会上最耀眼的人
-② The novel is set in the belle époque.
-= 那部小说以美好年代为背景。
+② The novel is set in the belle époque, among people who think it will last.
+= 那部小说以美好年代为背景，人物都以为好日子会一直过下去。
 belle époque = 美好年代（世纪之交）
-③ Southern belles appear in old films.
-= 老电影里常有南方美人。
+③ Southern belles appear in old films in white dresses on wide verandas.
+= 老电影里的南方美人，总是白裙子配宽阔的门廊。
 注意语域：
 偏旧且带浪漫色彩，今天多用于怀旧或戏谑。
-④ He wrote belles-lettres, not novels.
-= 他写的是纯文学随笔，不是小说。
+④ He wrote belles-lettres, not novels, and made very little money at it.
+= 他写的是纯文学随笔，不是小说，也没挣到什么钱。
 belles-lettres = 纯文学（法语借词，字面是"美的文字"）
 指讲究文采而不为实用的写作，今天带一点书卷气的调侃。
 
@@ -45053,15 +45053,15 @@ bellow
 核心：底层是"低沉而大声地吼"。公牛的叫声是本义，
 人怒吼、痛叫也用它。名词是那一声吼。
 注意跟 bellows（风箱）同形不同义，后者总用复数。
-① He bellowed at the crowd.
-= 他冲人群大吼。
+① He bellowed at the crowd to move back before somebody got crushed.
+= 他冲人群大吼，让大家后退，免得有人被挤伤。
 bellow at = 朝…怒吼
-② The bull bellowed in the field.
-= 那头公牛在地里吼叫。
-③ A bellow of pain came from inside.
-= 里面传出一声痛叫。
-④ He worked the bellows to fan the fire.
-= 他拉风箱把火扇旺。
+② The bull bellowed in the field and the whole herd turned to look.
+= 那头公牛在地里吼了一声，整群牛都转过头来。
+③ A bellow of pain came from inside the workshop and then complete silence.
+= 车间里传出一声痛叫，随后一片死寂。
+④ He worked the bellows to fan the fire until the iron glowed orange.
+= 他拉着风箱把火扇旺，直到铁烧得通红。
 bellows = 风箱（总用复数）
 注意别混：
 bellow = 吼叫（动词）
@@ -45706,15 +45706,15 @@ bequeath
 结构是 bequeath something to somebody 或双宾语。
 比喻着用指把传统、思想"留给后人"。
 名词是 bequest，指遗赠的那笔财物。
-① She bequeathed her library to the college.
-= 她把藏书遗赠给了学院。
+① She bequeathed her library to the college on condition that it stay intact.
+= 她把藏书遗赠给学院，条件是不得拆散。
 bequeath something to somebody = 把某物遗赠给某人
-② He bequeathed his children a fortune.
-= 他给子女留下一笔财产。
-③ The era bequeathed us these problems.
-= 那个时代把这些问题留给了我们。
-④ The museum received a large bequest.
-= 博物馆收到一笔大额遗赠。
+② He bequeathed his children a fortune and a lawsuit that ran for nine years.
+= 他给子女留下一笔财产，外加一场打了九年的官司。
+③ The era bequeathed us these problems and none of the money to fix them.
+= 那个时代把这些问题留给了我们，钱一分没留。
+④ The museum received a large bequest from a donor nobody had heard of.
+= 博物馆收到一笔大额遗赠，捐赠人谁都没听说过。
 bequest = 遗赠财物
 注意别混：
 bequeath 多用于动产（钱、物、书）；
@@ -45911,14 +45911,14 @@ berry
 植物学上的定义跟日常不同：番茄、葡萄、香蕉都算浆果，
 而草莓在植物学上反倒不是。
 复数是 berries。动词指"采浆果"。
-① They picked wild berries.
-= 他们摘了野浆果。
-② Birds eat the berries in autumn.
-= 鸟秋天吃那些浆果。
-③ Botanically a tomato is a berry.
-= 从植物学上说番茄是浆果。
-④ A strawberry is not a true berry.
-= 草莓在植物学上不算真正的浆果。
+① They picked wild berries along the hedgerow and stained every finger purple.
+= 他们沿着树篱摘野浆果，十个指头都染紫了。
+② Birds strip the berries in autumn and leave the branches bare by November.
+= 鸟秋天把浆果吃个精光，到十一月枝上就空了。
+③ Botanically a tomato is a berry, which surprises most people at the table.
+= 从植物学上说番茄是浆果，饭桌上多数人都觉得意外。
+④ A strawberry is not a true berry because its seeds sit on the outside.
+= 草莓不算真正的浆果，因为籽长在外面。
 注意用法：
 日常义与植物学定义不一致，
 词条里这一点比记住哪些是浆果更要紧。
@@ -45943,16 +45943,16 @@ berth
 泊位；火车船上的卧铺是铺位；比赛中拿到的名额也叫它。
 习语 give a wide berth to 是"离得远远的"，
 原指行船时绕开别的船留足距离。
-① The ship entered its berth.
-= 那艘船进了泊位。
-② I booked a lower berth.
-= 我订了个下铺。
+① The ship entered its berth an hour late and the cranes stood waiting.
+= 那艘船晚了一小时才进泊位，吊车一直等着。
+② I booked a lower berth because the ladder is impossible in the dark.
+= 我订了下铺，因为黑灯瞎火根本爬不了那个梯子。
 berth = 卧铺
-③ They clinched a play-off berth.
-= 他们拿到了季后赛名额。
+③ They clinched a play-off berth with a draw on the final afternoon.
+= 最后一个下午打平，他们拿到了季后赛名额。
 berth = 参赛名额
-④ Give him a wide berth.
-= 离他远点。
+④ Give him a wide berth until the audit is over and the dust settles.
+= 审计结束、风头过去之前，离他远点。
 give a wide berth to = 敬而远之
 注意别混：
 berth = 泊位、铺位（这个词）
@@ -46046,16 +46046,16 @@ besides
 核心：两种词性。作介词是"除…之外（还有）"——注意它是
 "加上"而不是"减去"，这一点跟 except 正好相反。
 作副词是"而且、再说"，用来补一条理由，语气随意。
-① Besides English, she speaks Thai.
-= 除英语外她还会泰语。
+① Besides English, she speaks Thai well enough to argue with a landlord.
+= 除英语外，她的泰语好到能跟房东吵架。
 besides = 除…之外还有（加法）
-② Nobody came besides us.
-= 除了我们没人来。
-③ It is late; besides, I am tired.
-= 时候不早了，再说我也累了。
+② Nobody came besides us, and the caterers had prepared for forty.
+= 除了我们没人来，餐饮公司却是按四十人备的。
+③ It is late; besides, I am tired and the last train goes at midnight.
+= 时候不早了，再说我也累了，末班车午夜就开。
 besides = 再说、而且（副词）
-④ He has other reasons besides.
-= 他还有别的理由。
+④ He has other reasons besides, and none of them appear in the letter.
+= 他还有别的理由，一条都没写进那封信里。
 注意别混：
 besides = 除…之外「还有」（加法）
 except = 除…之外「不算」（减法）
@@ -46363,19 +46363,19 @@ beta
 物理上指 beta particle（贝塔粒子，即高速电子）
 与 beta decay（贝塔衰变）；医学上 beta blocker 是降心率的药；
 营养上 beta-carotene 是胡萝卜素。
-① The app is still in beta.
-= 那个应用还在公测。
+① The app is still in beta and crashes whenever you rotate the screen.
+= 那个应用还在公测，一转屏幕就崩。
 beta version = 公测版本
 beta test = 公开测试
-② Beta particles are fast electrons.
-= 贝塔粒子就是高速电子。
+② Beta particles are fast electrons and a sheet of aluminium stops them.
+= 贝塔粒子就是高速电子，一张铝片就能挡住。
 beta particle = 贝塔粒子
 beta decay = 贝塔衰变
-③ He takes a beta blocker.
-= 他在吃β受体阻滞剂。
+③ He takes a beta blocker to keep his pulse down before he goes on stage.
+= 他上台前吃β受体阻滞剂，把心率压下来。
 beta blocker = β 受体阻滞剂（降心率）
-④ Carrots are rich in beta-carotene.
-= 胡萝卜富含β胡萝卜素。
+④ Carrots are rich in beta-carotene, which the body turns into vitamin A.
+= 胡萝卜富含β胡萝卜素，人体会把它转成维生素甲。
 beta-carotene = β 胡萝卜素
 注意别混：
 alpha 版是内部测试，beta 版是放给外部用户试。
@@ -46679,16 +46679,16 @@ beware
 核心：动词，指"当心、提防"。它有个语法特点：只有原形——
 没有过去式、没有现在分词、也不能加第三人称词尾。
 所以只出现在祈使句和情态动词之后。后接介词 of 或 that 从句。
-① Beware of the dog.
-= 当心有狗。
+① Beware of the dog: the sign is old but the animal behind it is not.
+= 当心有狗：牌子是旧的，后面那条狗可不旧。
 beware of = 当心、提防
-② Beware falling rocks.
-= 当心落石。
+② Beware falling rocks on the stretch of road below the quarry.
+= 采石场下方那段路上要当心落石。
 也可以直接接名词，不带介词。
-③ You should beware of easy answers.
-= 你要提防那些轻巧的答案。
-④ Beware that he may change his mind.
-= 当心他可能变卦。
+③ You should beware of easy answers to a question this old.
+= 这么老的问题，轻巧的答案你得提防着点。
+④ Beware that he may change his mind once the contracts are drawn up.
+= 当心合同一拟好他就变卦。
 注意用法：
 只有原形，没有 bewares、bewared、bewaring 这些形式，
 所以不能说 He bewared。
@@ -46823,17 +46823,17 @@ bhangra
 放克和电子舞曲揉在一起。它是在英国的南亚移民社区里成型的，
 所以虽然根在旁遮普，这个词却是先在英式英语里立住的。
 不可数，作定语时不加词尾。
-① They danced to bhangra all night.
-= 他们跟着邦戈拉舞曲跳了一整夜。
+① They danced to bhangra all night at a wedding that ran into Sunday.
+= 在一场办到周日的婚礼上，他们跟着邦戈拉舞曲跳了一整夜。
 不可数，不加冠词。
-② The band plays bhangra fusion.
-= 那支乐队玩的是邦戈拉融合曲风。
+② The band plays bhangra fusion with a drum machine and a live dhol.
+= 那支乐队玩邦戈拉融合曲风，一台鼓机配一面真鼓。
 bhangra fusion = 邦戈拉融合曲风
-③ Bhangra beats drove the crowd.
-= 邦戈拉的节奏把全场带了起来。
+③ Bhangra beats drove the crowd from the bar back onto the floor.
+= 邦戈拉的节奏把人群从吧台又赶回了舞池。
 bhangra beat = 邦戈拉节奏（重鼓点）
-④ She grew up on British bhangra.
-= 她是听英国邦戈拉长大的。
+④ She grew up on British bhangra and only later heard the Punjabi originals.
+= 她是听英国邦戈拉长大的，后来才听到旁遮普的原曲。
 注意来历：根在旁遮普，成型在英国的南亚社区。
 
 Bhutanese
@@ -46852,17 +46852,17 @@ bi
 名词形容词都能用。它跟构词成分 bi-（二、两）同源：拉丁语的"二"。
 认出这个成分，一大批词就不用死记——bicycle 两个轮、bilingual
 两种语言、biannual 一年两次、biceps 两个头的肌肉。
-① She is bi.
-= 她是双性恋。
+① She is bi, and says the label matters less to her than it did at twenty.
+= 她是双性恋，说这个标签对她已经不像二十岁时那么要紧。
 作表语，口语说法。
-② He came out as bi.
-= 他公开了自己是双性恋。
+② He came out as bi to his brother first and to everyone else years later.
+= 他先向哥哥出了柜，多年后才告诉其他人。
 come out as = 公开出柜
-③ It is a bi-friendly venue.
-= 那是个对双性恋友好的场所。
+③ It is a bi-friendly venue where nobody asks you to explain yourself.
+= 那是个对双性恋友好的场所，没人要你解释自己。
 作定语时常带连字符。
-④ He tried bi-wiring the speakers.
-= 他给音箱接了双线分音。
+④ He tried bi-wiring the speakers and swore the top end opened up.
+= 他给音箱接了双线分音，一口咬定高音通透了。
 bi-wiring = 双线分音（高低音各走一组线）
 注意语域：口语缩写，正式场合写全称。
 构词：bi- 表示"二、两"，
@@ -46892,14 +46892,14 @@ biannual
 annual 是"年"，所以 biannual 落在一年之内，一年分两次；
 biennial 的 -ennial 来自 biennium（两年期），落在两年上。
 拿不准时干脆改说 twice a year，谁都不会误解。
-① The journal is biannual.
-= 那份期刊一年出两期。
+① The journal is biannual, appearing in March and again in September.
+= 那份期刊一年出两期，三月一期，九月再一期。
 一年之内两次。
-② They hold biannual reviews.
-= 他们一年做两次评估。
+② They hold biannual reviews, one before the budget and one after it.
+= 他们一年做两次评估，预算前一次，预算后一次。
 biannual review = 半年一次的评估
-③ The committee meets biannually.
-= 那个委员会一年开两次会。
+③ The committee meets biannually, which the newsletter keeps calling every two years.
+= 那个委员会一年开两次会，简报却一直写成两年一次。
 biannually = 一年两次地
 易混对照：
 biannual = 一年两次
@@ -46945,17 +46945,17 @@ biased
 记：prejudiced 一定是对人的成见且是贬义，biased 可以只是中性地
 说"有倾向"，也可以说方法、样本、报道有系统偏差。介词看方向：
 偏向谁用 towards 或 in favour of，针对谁用 against。
-① The coverage was biased.
-= 那些报道有倾向性。
-② He is biased against the plan.
-= 他对那个方案有成见。
+① The coverage was biased and quoted the same three people all week.
+= 那些报道有倾向性，整周引的都是同样三个人。
+② He is biased against the plan because his own proposal lost to it.
+= 他对那个方案有成见，因为自己的提案输给了它。
 biased against = 对某事有成见
-③ The sample is biased towards city dwellers.
-= 那个样本偏向城市居民。
+③ The sample is biased towards city dwellers who answer the phone at noon.
+= 那个样本偏向中午还接电话的城市居民。
 biased towards = 偏向某一方
 说样本时不带道德指责，只是描述偏差。
-④ We need an unbiased assessment.
-= 我们需要一份不偏不倚的评估。
+④ We need an unbiased assessment from somebody outside the department.
+= 我们需要一份来自部门之外的、不偏不倚的评估。
 unbiased = 不偏不倚的
 近义对照：
 biased = 有偏向的（可中性）
@@ -47009,18 +47009,18 @@ bible
 指某个领域里被奉为权威的那本书——"干这行的人都照它办"。
 第二层用得很活，跟宗教无关。词源是希腊语的"书"，
 所以 bibliography、bibliophile 那一族都跟它同根。
-① He read the Bible every night.
-= 他每晚读圣经。
+① He read the Bible every night and marked the margins in three colours.
+= 他每晚读圣经，在页边用三种颜色做记号。
 the Bible = 圣经（专名，要大写）
-② That book is the bible of wine tasting.
-= 那本书是品酒界的圣典。
+② That book is the bible of wine tasting and has never been out of print.
+= 那本书是品酒界的圣典，从来没有绝版过。
 the bible of = 某个领域的权威著作
 小写，比喻用法，跟宗教无关。
-③ She swore on the Bible.
-= 她手按圣经宣了誓。
+③ She swore on the Bible and then told the court a different story.
+= 她手按圣经宣了誓，随后对法庭讲了另一套说法。
 swear on the Bible = 按圣经起誓
-④ It became a bible for young designers.
-= 那本书成了年轻设计师的必读。
+④ It became a bible for young designers who could not afford art school.
+= 那本书成了上不起艺术院校的年轻设计师的必读。
 词族：
 biblical = 圣经的
 词源：希腊语的"书"，
@@ -47055,19 +47055,19 @@ biblical
 瘟疫、出埃及——引出第二层：形容灾祸或规模"大得像圣经里写的"，
 biblical proportions 是固定说法。第二层在新闻里比第一层还常见，
 而且不限于坏事，也能说场面壮观。
-① He quoted a biblical passage.
-= 他引了一段圣经。
+① He quoted a biblical passage that turned out not to be in the text at all.
+= 他引了一段圣经，后来发现原文里根本没有那句。
 本义。
 biblical passage = 圣经段落
-② The flood was of biblical proportions.
-= 那场洪水规模堪比圣经所载。
+② The flood was of biblical proportions and cut the valley off for a fortnight.
+= 那场洪水规模堪比圣经所载，把整条山谷断了两周。
 of biblical proportions = 规模惊人的
 比喻用法，多用于灾难。
-③ The story has a biblical ring.
-= 那个故事有种圣经的味道。
+③ The story has a biblical ring, all long sentences and terrible weather.
+= 那个故事有种圣经的味道，长句子加上骇人的天气。
 指语气庄重、像古经文。
-④ Biblical scholarship has changed.
-= 圣经研究的路数变了。
+④ Biblical scholarship has changed since the desert manuscripts came to light.
+= 沙漠里那批手稿出土之后，圣经研究的路数就变了。
 biblical scholarship = 圣经学术研究
 词族：
 Bible = 圣经
@@ -47118,16 +47118,16 @@ bibliography
 自成一本书。两层的共同点是"把书列成单子"。
 注意跟 reference list 的分别：reference list 只列真正引用过的，
 bibliography 可以把读过但没直接引的也列进去。
-① Add the source to your bibliography.
-= 把那份资料加进参考文献。
-② The bibliography runs to twenty pages.
-= 参考文献有二十页长。
-③ She compiled a bibliography of the period.
-= 她编了一部那个时期的专题书目。
+① Add the source to your bibliography before you forget where you found it.
+= 趁还记得从哪儿找到的，赶紧把那份资料加进参考文献。
+② The bibliography runs to twenty pages and the thesis itself to eighty.
+= 参考文献有二十页，论文正文才八十页。
+③ She compiled a bibliography of the period and spent four years in the archives.
+= 她编了一部那个时期的专题书目，在档案馆泡了四年。
 a bibliography of = 关于某题目的专题书目
 第二层，自成一书。
-④ An annotated bibliography explains each item.
-= 提要书目会给每一条写说明。
+④ An annotated bibliography explains each item in two or three sentences.
+= 提要书目会给每一条写上两三句说明。
 annotated bibliography = 提要书目
 易混对照：
 bibliography = 参考文献（可含未直接引用的）
@@ -47463,17 +47463,17 @@ bidder
 the highest bidder（出价最高的人），还有个带贬义的习语
 sell to the highest bidder，字面是卖给出价最高者，
 用在人身上就是"谁给钱多就跟谁"。
-① The lot went to the highest bidder.
-= 那件拍品归了出价最高的人。
+① The lot went to the highest bidder for triple what the catalogue suggested.
+= 那件拍品以图录估价三倍的价钱归了出价最高的人。
 the highest bidder = 出价最高者
-② Several bidders dropped out.
-= 好几家竞标者退出了。
+② Several bidders dropped out once the environmental survey was published.
+= 环境评估一公布，好几家竞标者就退出了。
 指投标的公司。
-③ He sold his loyalty to the highest bidder.
-= 他把忠诚卖给了出价最高的人。
+③ He sold his loyalty to the highest bidder and lost every friend he had.
+= 他把忠诚卖给了出价最高的人，朋友一个不剩。
 比喻用法，贬义。
-④ Sealed bidders submit written offers.
-= 密封投标人递交书面报价。
+④ Sealed bidders submit written offers that are opened all at the same moment.
+= 密封投标人递交书面报价，到时候一起拆封。
 sealed bid = 密封投标
 词族：
 bid = 出价
@@ -47484,17 +47484,17 @@ bidding
 拍卖或投标时你来我往地出价；二是书面偏旧的"吩咐、命令"，
 只出现在 do someone's bidding（听某人差遣）这个固定说法里，
 而且几乎总带贬义，暗示被人当枪使。
-① The bidding started at £100.
-= 竞价从一百英镑起。
+① The bidding started at a hundred pounds and passed a thousand in four minutes.
+= 竞价从一百英镑起，四分钟就过了一千。
 竞价这一支，不可数。
-② Bidding was fierce.
-= 竞价很激烈。
-③ He does the boss's bidding.
-= 他听老板差遣。
+② Bidding was fierce because two museums wanted the same drawing.
+= 两家博物馆都想要那幅素描，竞价异常激烈。
+③ He does the boss's bidding without ever asking what it is for.
+= 他听老板差遣，从不问为的是什么。
 do someone's bidding = 听某人差遣
 吩咐这一支，带贬义。
-④ The bidding war pushed the price up.
-= 一场哄抬把价格顶了上去。
+④ The bidding war pushed the price beyond what either side could afford.
+= 一场哄抬把价格顶到了双方都负担不起的地步。
 bidding war = 竞价战
 词族：
 bid = 出价；吩咐
@@ -47576,17 +47576,17 @@ biennial
 评估；二是植物学上的"二年生的"——头一年长叶生根，第二年才开花
 结籽然后死掉，胡萝卜和洋葱就是这样。跟 biannual（一年两次）
 最容易混，两个词意思正好差四倍。
-① The festival is biennial.
-= 那个节两年办一次。
-② They hold a biennial conference.
-= 他们两年开一次大会。
+① The festival is biennial, so the town has a year off to recover.
+= 那个节两年办一次，镇上落得一年喘息。
+② They hold a biennial conference and rotate it between three cities.
+= 他们两年开一次大会，在三座城市之间轮流办。
 biennial conference = 两年一届的大会
-③ Foxgloves are biennial plants.
-= 毛地黄是二年生植物。
+③ Foxgloves are biennial plants that flower in their second summer and then die.
+= 毛地黄是二年生植物，第二年夏天开花，之后就枯死。
 biennial plant = 二年生植物
 植物学义：跨两个生长季完成一生。
-④ The report appears biennially.
-= 那份报告两年出一次。
+④ The report appears biennially and is already out of date when it lands.
+= 那份报告两年出一次，送到手里时数据早过时了。
 biennially = 每两年一次地
 易混对照：
 biennial = 两年一次
@@ -47597,12 +47597,12 @@ biennially
 核心：副词，"每两年一次地"。跟形容词 biennial 一样，
 最容易跟 biannually（一年两次）弄混。写正式文件时为了不让人误读，
 很多机构干脆写成 every two years，把歧义堵死。
-① The award is given biennially.
-= 那个奖每两年颁一次。
-② Members are elected biennially.
-= 成员每两年选一次。
-③ The survey runs biennially.
-= 那项调查每两年做一次。
+① The award is given biennially to a translator under the age of forty.
+= 那个奖每两年颁一次，授予四十岁以下的译者。
+② Members are elected biennially, half the board at a time.
+= 成员每两年选一次，每次换董事会的一半。
+③ The survey runs biennially, which is why the trend line looks so coarse.
+= 那项调查每两年做一次，趋势线才画得这么粗。
 易混对照：
 biennially = 每两年一次
 biannually = 一年两次
@@ -47896,18 +47896,18 @@ big deal
 核心：两种用法正好相反，全靠语气分。正着用是"要紧事、大事"，
 多出现在否定和疑问里——it is no big deal 意思是没什么大不了；
 反着用是感叹，Big deal! 是句反话，意思是"有什么了不起"。
-① Losing the contract was a big deal.
-= 丢掉那份合同是件大事。
+① Losing the contract was a big deal for a firm that size.
+= 对那种规模的公司来说，丢掉那份合同是件大事。
 a big deal = 要紧的大事
-② It is no big deal.
-= 没什么大不了的。
+② It is no big deal — send the corrected figures over in the morning.
+= 没什么大不了的，明早把改好的数字发过来就行。
 no big deal = 不算什么
 最常见的用法，用来宽慰人。
-③ Big deal! Anyone could do that.
-= 有什么了不起，谁都会。
+③ Big deal! Anyone could do that with a week and a decent camera.
+= 有什么了不起，给谁一周时间和一台像样的相机都做得出来。
 反话用法，语气轻蔑。
-④ He made a big deal out of nothing.
-= 他小题大做。
+④ He made a big deal out of nothing and kept everyone late for it.
+= 他小题大做，害得所有人都晚走。
 make a big deal out of = 把小事说成大事
 构词：big 大 + deal 事情
 注意语用：单独喊 Big deal! 一定是反话。
@@ -47916,15 +47916,15 @@ big-headed
 核心：口语，指自以为了不起、爱摆架子。字面就是"头大了"——
 被夸多了脑袋膨胀，这个比喻中英文正好一致。贬义。名词形式是
 big-head，指那个自大的人。
-① Don't get big-headed about it.
-= 别为这个飘起来。
+① Don't get big-headed about it; the judges gave three of you the same mark.
+= 别为这个飘起来，评委给你们三个打的是同样的分。
 get big-headed = 变得自大
-② Success made him big-headed.
-= 成功让他自大起来。
-③ She is talented but not big-headed.
-= 她有本事，人却不摆架子。
-④ What a big-head he is.
-= 他可真自大。
+② Success made him big-headed and unbearable to share an office with.
+= 成功让他自大起来，跟他共用一间办公室简直受不了。
+③ She is talented but not big-headed, and still asks the juniors for advice.
+= 她有本事，人却不摆架子，到现在还向新人请教。
+④ What a big-head he is, correcting the lecturer in front of two hundred people.
+= 他可真自大，当着两百人的面纠正讲师。
 big-head = 自大的人（名词形式）
 构词：big 大 + head 头 + -ed
 注意语域：口语，贬义。
@@ -48158,16 +48158,16 @@ bigotry
 并且不肯松口。不可数。它在公共讨论里是个重词，
 常跟 racism、sexism 并列出现，用来概括各种"因为你属于某一类
 所以我看不起你"的想法。
-① The speech was full of bigotry.
-= 那篇讲话满是偏见。
+① The speech was full of bigotry dressed up as concern for tradition.
+= 那篇讲话满是偏见，还打着维护传统的幌子。
 不可数。
-② They campaigned against bigotry.
-= 他们发起了反偏执的运动。
+② They campaigned against bigotry in football grounds for eleven years.
+= 他们在球场上反对偏执，一干就是十一年。
 campaign against bigotry = 反对偏执的运动
-③ Bigotry thrives on ignorance.
-= 偏执靠无知养着。
-④ It is casual bigotry, not a slip.
-= 那是习以为常的偏见，不是口误。
+③ Bigotry thrives on ignorance and dies down when people actually meet.
+= 偏执靠无知养着，人真见了面它就消了。
+④ It is casual bigotry, not a slip, and everyone at the table let it pass.
+= 那是习以为常的偏见，不是口误，一桌人却都放过去了。
 casual bigotry = 不自觉的日常偏见
 词族：
 bigot = 偏执者
@@ -48294,17 +48294,17 @@ bikini
 一九四六年美国在那里试爆原子弹，同年这种泳装在巴黎问世，
 设计者借这个正当热门的地名为它命名，取的是"引起轰动"的意思。
 由它派生出一批 -kini 词，如 tankini、monokini。
-① She wore a red bikini.
-= 她穿了件红色比基尼。
+① She wore a red bikini and a shirt she never once took off.
+= 她穿了件红色比基尼，外面那件衬衫一次也没脱。
 可数。
-② The bikini top came untied.
-= 比基尼上衣的带子松了。
+② The bikini top came untied and she spent the afternoon on her front.
+= 比基尼上衣的带子松了，她整个下午都趴着。
 bikini top = 比基尼上衣
-③ Bikini bottoms are sold separately.
-= 比基尼下装单卖。
+③ Bikini bottoms are sold separately, which doubles the price without saying so.
+= 比基尼下装单卖，价钱悄悄就翻了一倍。
 bikini bottoms = 比基尼下装（只用复数）
-④ The cream soothes the bikini line.
-= 那款乳霜能舒缓比基尼线部位。
+④ The cream soothes the bikini line after waxing and smells of almonds.
+= 那款乳霜用在脱毛后的比基尼线部位，有杏仁味。
 bikini line = 比基尼线（泳装边缘处）
 注意来历：得名于比基尼环礁，
 一九四六年那里进行核试验，设计者借其轰动效应命名。
@@ -48349,18 +48349,18 @@ bilateral
 跟 multilateral（多边）相对；解剖与医学上指"两侧的"，
 bilateral symmetry 是左右对称，bilateral hearing loss 是两耳
 都受影响。构词是 bi-（二）加 lateral（侧的）。
-① They signed a bilateral agreement.
-= 他们签了一份双边协议。
+① They signed a bilateral agreement covering fishing rights and little else.
+= 他们签了一份双边协议，除了捕鱼权几乎没别的内容。
 bilateral agreement = 双边协议
-② Bilateral talks resumed.
-= 双边会谈恢复了。
+② Bilateral talks resumed after a gap of three years and one change of government.
+= 隔了三年、换了一届政府之后，双边会谈恢复了。
 bilateral talks = 双边会谈
 只有两方，这是它跟多边的分别。
-③ She has bilateral hearing loss.
-= 她两耳都有听力损失。
+③ She has bilateral hearing loss and reads lips better than most.
+= 她两耳都有听力损失，唇语读得比多数人都好。
 医学义：两侧都有。
-④ Most animals show bilateral symmetry.
-= 多数动物左右对称。
+④ Most animals show bilateral symmetry, with a left half mirroring the right.
+= 多数动物左右对称，左半边和右半边互为镜像。
 bilateral symmetry = 左右对称
 反义词：
 unilateral = 单方面的
@@ -48495,17 +48495,17 @@ bilingual
 说文件、标牌、教育是双语的。构词是 bi-（二）加 lingua（舌、语言）。
 用在人身上时程度有讲究：严格说是两种都能自如使用，
 不是学过一点就算。同族有 monolingual、trilingual、multilingual。
-① She is bilingual in English and Thai.
-= 她能自如使用英语和泰语。
+① She is bilingual in English and Thai and switches without noticing.
+= 她能自如使用英语和泰语，切换起来自己都没察觉。
 bilingual in = 精通某两种语言
-② The signs are bilingual.
-= 那些标牌是双语的。
+② The signs are bilingual, though the second language was added forty years late.
+= 那些标牌是双语的，第二种语言晚加了四十年。
 说物：用两种语言写的。
-③ The school offers bilingual education.
-= 那所学校提供双语教育。
+③ The school offers bilingual education from the first year onwards.
+= 那所学校从一年级起就提供双语教育。
 bilingual education = 双语教育
-④ He grew up bilingual.
-= 他从小就说两种语言。
+④ He grew up bilingual and lost most of the second language at university.
+= 他从小说两种语言，上大学后第二种忘得差不多了。
 同族：
 monolingual = 单语的
 trilingual = 三语的
@@ -48516,17 +48516,17 @@ bilious
 认为胆汁分泌过多会让人想吐；引申义指人"脾气坏、动不动就发火"，
 也说文字"充满怨毒"。第三层是说颜色难看：bilious green
 指那种发黄的病态绿，像胆汁的颜色。
-① He felt bilious after the meal.
-= 吃完饭他觉得反胃。
+① He felt bilious after the meal and blamed the shellfish rather than the wine.
+= 吃完饭他觉得反胃，怪的是贝类不是酒。
 医学义。
-② She wrote a bilious review.
-= 她写了篇满是恶毒话的评论。
+② She wrote a bilious review of a book she admitted not having finished.
+= 她写了篇满是恶毒话的书评，还承认自己没读完。
 bilious = 充满怨毒的
-③ He is a bilious old man.
-= 他是个脾气很坏的老头。
+③ He is a bilious old man who has fallen out with every neighbour on the street.
+= 他是个脾气很坏的老头，跟这条街上每个邻居都闹翻过。
 说人的性情。
-④ The walls were a bilious green.
-= 墙是那种难看的黄绿色。
+④ The walls were a bilious green that made the whole ward look unwell.
+= 墙是那种难看的黄绿色，整间病房都显得没精神。
 bilious green = 病态的黄绿色
 词族：
 bile = 胆汁；怨气
@@ -48536,17 +48536,17 @@ bilirubin
 核心：血红蛋白里的血红素分解后生成的黄色色素，由肝脏处理后
 随胆汁排出。它是理解黄疸的关键：这条通路一旦堵住或来不及处理，
 血里的 bilirubin 升高，皮肤和眼白就发黄。新生儿黄疸测的就是它。
-① Bilirubin levels were elevated.
-= 胆红素水平升高了。
+① Bilirubin levels were elevated, so they kept her in for another night.
+= 胆红素水平升高，于是又留她住了一晚。
 bilirubin level = 胆红素水平
-② High bilirubin causes jaundice.
-= 胆红素高会导致黄疸。
+② High bilirubin causes jaundice, which shows first in the whites of the eyes.
+= 胆红素高会导致黄疸，最先看出来的是眼白。
 jaundice = 黄疸
 皮肤发黄就是它积多了。
-③ The liver clears bilirubin from the blood.
-= 肝脏把胆红素从血里清走。
-④ Newborns are screened for bilirubin.
-= 新生儿要做胆红素筛查。
+③ The liver clears bilirubin from the blood and sends it out in the bile.
+= 肝脏把胆红素从血里清走，随胆汁排出去。
+④ Newborns are screened for bilirubin with a light meter on the forehead.
+= 新生儿做胆红素筛查，用一支光度计贴在额头上测。
 注意语域：医学与生化术语。
 词族：
 bile = 胆汁
@@ -48766,17 +48766,17 @@ billing
 billing address、billing cycle 都属这一支；二是演出海报上的
 "排名次序"——谁的名字排在前面、字号多大，是行业里很在意的事，
 top billing 就是头牌。
-① Check your billing address.
-= 核对一下账单地址。
+① Check your billing address before the card gets declined at the last step.
+= 在最后一步刷卡被拒之前，先核对账单地址。
 billing address = 账单地址
-② The billing cycle is monthly.
-= 计费周期是一个月。
+② The billing cycle is monthly, so cancelling today saves you nothing.
+= 计费周期是一个月，今天取消一分也省不下。
 billing cycle = 计费周期
-③ She got top billing.
-= 她拿了头牌。
+③ She got top billing after twenty years of playing somebody's sister.
+= 演了二十年别人的妹妹之后，她拿到了头牌。
 top billing = 海报上排第一
-④ The two stars shared equal billing.
-= 两位主演并列挂头牌。
+④ The two stars shared equal billing and their agents fought over the font size.
+= 两位主演并列挂头牌，经纪人为字号大小吵了一架。
 equal billing = 并列排名
 排名之争在演艺合同里是正经条款。
 词族：
@@ -48838,17 +48838,17 @@ billow
 说帆、裙子、窗帘是被风鼓得胀起来。名词指涌起的那一大团，
 也指大浪。这个词的画面感很强，多用于描写文字，
 新闻里报火灾、爆炸常用它。
-① Smoke billowed from the roof.
-= 浓烟从屋顶滚滚涌出。
+① Smoke billowed from the roof and was visible from the far side of the valley.
+= 浓烟从屋顶滚滚涌出，山谷那一头都看得见。
 billow from = 从某处滚滚涌出
-② Her skirt billowed in the wind.
-= 她的裙子被风鼓了起来。
+② Her skirt billowed in the wind as she stood at the end of the pier.
+= 她站在栈桥尽头，裙子被风鼓了起来。
 被风吹得胀开，还是"鼓起来"。
-③ The sails billowed out.
-= 帆鼓满了风。
+③ The sails billowed out and the boat heeled hard to the left.
+= 帆鼓满了风，船朝左侧猛地一斜。
 billow out = 鼓胀起来
-④ Billows of dust rose behind the truck.
-= 卡车后面扬起滚滚尘土。
+④ Billows of dust rose behind the truck and hung over the road for minutes.
+= 卡车后面扬起滚滚尘土，在路上悬了好几分钟。
 billows of = 一团团涌起的
 词族：
 billowing = 翻滚的、鼓胀的
@@ -48858,17 +48858,17 @@ billy
 挂在火上煮茶，boil the billy 就是烧水泡茶，是丛林生活的标志。
 美式里 billy 指警棍，全称 billy club。另有 billy goat 指公山羊，
 那是把人名 Billy 用在动物身上的老习惯。
-① They boiled the billy for tea.
-= 他们烧水泡茶。
+① They boiled the billy for tea while the horses drank at the creek.
+= 马在溪边饮水的工夫，他们烧水泡了茶。
 boil the billy = 烧水泡茶（澳新）
-② He hung the billy over the fire.
-= 他把铁皮罐挂在火上。
+② He hung the billy over the fire and let it sit until the water sang.
+= 他把铁皮罐挂在火上，等水响起来。
 billy = 野炊铁皮罐
-③ The officer carried a billy.
-= 那名警员带着警棍。
+③ The officer carried a billy and never once had to take it off his belt.
+= 那名警员带着警棍，一次也没从腰带上取下来过。
 billy = 警棍（美式，全称 billy club）
-④ A billy goat butted the fence.
-= 一只公山羊顶着栅栏。
+④ A billy goat butted the fence until the wire gave way at the corner.
+= 一只公山羊顶栅栏，顶到拐角处的铁丝松脱了。
 billy goat = 公山羊
 注意语域：第一二义属澳新英语，第三义属美式。
 
@@ -49030,17 +49030,17 @@ binder
 核心：三条线，都从 bind（捆住）来。最常用的是文具里的"活页夹"，
 把散页扣在一起；建材和烹饪里指"黏合剂"，把散料黏成一体；
 农业机械里指收割捆扎机。判断靠语境，三者几乎不会混。
-① Put the notes in a binder.
-= 把笔记放进活页夹。
+① Put the notes in a binder before the loose pages get shuffled again.
+= 趁散页还没被翻乱，把笔记放进活页夹。
 ring binder = 活页夹（英式）
-② Cement acts as a binder.
-= 水泥起黏合作用。
+② Cement acts as a binder, holding sand and gravel in a single mass.
+= 水泥起黏合作用，把沙和石子固成一整块。
 binder = 黏合剂
-③ Egg is a good binder in meatballs.
-= 做肉丸用鸡蛋黏合很好使。
+③ Egg is a good binder in meatballs and keeps them from falling apart.
+= 做肉丸用鸡蛋黏合很好使，煮的时候不散。
 烹饪义。
-④ The binder cut and tied the sheaves.
-= 那台捆扎机把麦子割了并捆好。
+④ The binder cut and tied the sheaves faster than a dozen men with scythes.
+= 那台捆扎机割麦捆麦，比十几个人挥镰刀还快。
 binder = 收割捆扎机
 词族：
 bind = 捆；约束
@@ -49120,17 +49120,17 @@ bingo
 先划满一行或一整张的人喊出 bingo 获胜。在英国是很流行的社交
 娱乐，多在专门的 bingo hall 里玩。也用作感叹词，
 表示"猜中了、正是如此"——从游戏里那声喊来的。
-① They play bingo on Fridays.
-= 他们周五玩宾果。
+① They play bingo on Fridays and the same woman wins about once a month.
+= 他们周五玩宾果，总是同一个女人，一个月能赢一回。
 不可数，不加冠词。
-② She won at the bingo hall.
-= 她在宾果厅赢了。
+② She won at the bingo hall and spent the lot on a weekend by the sea.
+= 她在宾果厅赢了钱，全花在海边过的一个周末上。
 bingo hall = 宾果游戏厅（英式）
-③ Bingo! That's the answer.
-= 中了！就是这个答案。
+③ Bingo! That's the answer, and it was on the first page all along.
+= 中了，就是这个答案，它一直就在第一页上。
 作感叹词，表示恰好猜中。
-④ She joked about her bingo wings.
-= 她拿自己的上臂赘肉开玩笑。
+④ She joked about her bingo wings and carried on waving anyway.
+= 她拿自己的上臂赘肉开玩笑，照样挥手不停。
 bingo wings = 上臂后侧松弛的赘肉（英式玩笑说法）
 注意用法：感叹词义直接来自游戏里那声喊。
 
@@ -49139,16 +49139,16 @@ binky
 后来变成通名。另一个意思在养兔人里通行：兔子高兴时会突然蹦起来
 在空中扭一下身子，那个动作叫 binky，名词动词都用。
 两个用法都属非正式。
-① The baby dropped her binky.
-= 宝宝把安抚奶嘴掉了。
+① The baby dropped her binky and the whole carriage heard about it.
+= 宝宝把安抚奶嘴掉了，整节车厢都听见了动静。
 binky = 安抚奶嘴（美式口语）
-② He handed the toddler a binky.
-= 他递给小孩一个奶嘴。
-③ The rabbit did a binky across the room.
-= 那只兔子欢蹦着窜过屋子。
+② He handed the toddler a binky and got about ten minutes of quiet.
+= 他递给小孩一个奶嘴，换来大约十分钟清静。
+③ The rabbit did a binky across the room and knocked over the water bowl.
+= 那只兔子欢蹦着窜过屋子，把水碗撞翻了。
 binky = 兔子高兴时的腾空扭身
-④ Happy rabbits binky.
-= 兔子高兴了就会腾空扭身。
+④ Happy rabbits binky, and owners film it far more often than anyone needs.
+= 兔子高兴了就腾空扭身，主人拍下来的次数远超必要。
 动词用法。
 注意来历：奶嘴那一义原为商标，后来通名化。
 近义对照：

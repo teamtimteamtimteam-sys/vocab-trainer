@@ -260,15 +260,15 @@ beacon
 核心：底层是"点在高处示警或指路的火"。古时山头点火报警，
 今天指灯塔、航标灯、无线电信标。比喻着用指"指路明灯"——
 给人希望或指引方向的人或事。手机上的蓝牙信标也叫它。
-① The lighthouse beacon swept the sea.
-= 灯塔的光束扫过海面。
-② Beacons were lit along the ridge.
-= 山脊上一路点起了烽火。
-③ She was a beacon of hope.
-= 她是希望的灯塔。
+① The lighthouse beacon swept the sea once every eight seconds.
+= 灯塔的光束每八秒扫过海面一次。
+② Beacons were lit along the ridge to carry the warning inland by morning.
+= 山脊上一路点起烽火，天亮前把警讯传到内陆。
+③ She was a beacon of hope to families who had been waiting for years.
+= 对那些等了多年的家庭来说，她是希望的灯塔。
 a beacon of hope = 希望的象征
-④ The shop uses Bluetooth beacons.
-= 那家店用蓝牙信标。
+④ The shop uses Bluetooth beacons to push offers as you walk past a shelf.
+= 那家店用蓝牙信标，你走过货架就给你推优惠。
 Bluetooth beacon = 蓝牙信标
 注意用法：
 比喻义后面接介词引出所象征的东西。

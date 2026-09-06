@@ -299,19 +299,19 @@ beta
 物理上指 beta particle（贝塔粒子，即高速电子）
 与 beta decay（贝塔衰变）；医学上 beta blocker 是降心率的药；
 营养上 beta-carotene 是胡萝卜素。
-① The app is still in beta.
-= 那个应用还在公测。
+① The app is still in beta and crashes whenever you rotate the screen.
+= 那个应用还在公测，一转屏幕就崩。
 beta version = 公测版本
 beta test = 公开测试
-② Beta particles are fast electrons.
-= 贝塔粒子就是高速电子。
+② Beta particles are fast electrons and a sheet of aluminium stops them.
+= 贝塔粒子就是高速电子，一张铝片就能挡住。
 beta particle = 贝塔粒子
 beta decay = 贝塔衰变
-③ He takes a beta blocker.
-= 他在吃β受体阻滞剂。
+③ He takes a beta blocker to keep his pulse down before he goes on stage.
+= 他上台前吃β受体阻滞剂，把心率压下来。
 beta blocker = β 受体阻滞剂（降心率）
-④ Carrots are rich in beta-carotene.
-= 胡萝卜富含β胡萝卜素。
+④ Carrots are rich in beta-carotene, which the body turns into vitamin A.
+= 胡萝卜富含β胡萝卜素，人体会把它转成维生素甲。
 beta-carotene = β 胡萝卜素
 注意别混：
 alpha 版是内部测试，beta 版是放给外部用户试。

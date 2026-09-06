@@ -3,17 +3,17 @@ bilingual
 说文件、标牌、教育是双语的。构词是 bi-（二）加 lingua（舌、语言）。
 用在人身上时程度有讲究：严格说是两种都能自如使用，
 不是学过一点就算。同族有 monolingual、trilingual、multilingual。
-① She is bilingual in English and Thai.
-= 她能自如使用英语和泰语。
+① She is bilingual in English and Thai and switches without noticing.
+= 她能自如使用英语和泰语，切换起来自己都没察觉。
 bilingual in = 精通某两种语言
-② The signs are bilingual.
-= 那些标牌是双语的。
+② The signs are bilingual, though the second language was added forty years late.
+= 那些标牌是双语的，第二种语言晚加了四十年。
 说物：用两种语言写的。
-③ The school offers bilingual education.
-= 那所学校提供双语教育。
+③ The school offers bilingual education from the first year onwards.
+= 那所学校从一年级起就提供双语教育。
 bilingual education = 双语教育
-④ He grew up bilingual.
-= 他从小就说两种语言。
+④ He grew up bilingual and lost most of the second language at university.
+= 他从小说两种语言，上大学后第二种忘得差不多了。
 同族：
 monolingual = 单语的
 trilingual = 三语的
@@ -24,17 +24,17 @@ bilious
 认为胆汁分泌过多会让人想吐；引申义指人"脾气坏、动不动就发火"，
 也说文字"充满怨毒"。第三层是说颜色难看：bilious green
 指那种发黄的病态绿，像胆汁的颜色。
-① He felt bilious after the meal.
-= 吃完饭他觉得反胃。
+① He felt bilious after the meal and blamed the shellfish rather than the wine.
+= 吃完饭他觉得反胃，怪的是贝类不是酒。
 医学义。
-② She wrote a bilious review.
-= 她写了篇满是恶毒话的评论。
+② She wrote a bilious review of a book she admitted not having finished.
+= 她写了篇满是恶毒话的书评，还承认自己没读完。
 bilious = 充满怨毒的
-③ He is a bilious old man.
-= 他是个脾气很坏的老头。
+③ He is a bilious old man who has fallen out with every neighbour on the street.
+= 他是个脾气很坏的老头，跟这条街上每个邻居都闹翻过。
 说人的性情。
-④ The walls were a bilious green.
-= 墙是那种难看的黄绿色。
+④ The walls were a bilious green that made the whole ward look unwell.
+= 墙是那种难看的黄绿色，整间病房都显得没精神。
 bilious green = 病态的黄绿色
 词族：
 bile = 胆汁；怨气
@@ -44,17 +44,17 @@ bilirubin
 核心：血红蛋白里的血红素分解后生成的黄色色素，由肝脏处理后
 随胆汁排出。它是理解黄疸的关键：这条通路一旦堵住或来不及处理，
 血里的 bilirubin 升高，皮肤和眼白就发黄。新生儿黄疸测的就是它。
-① Bilirubin levels were elevated.
-= 胆红素水平升高了。
+① Bilirubin levels were elevated, so they kept her in for another night.
+= 胆红素水平升高，于是又留她住了一晚。
 bilirubin level = 胆红素水平
-② High bilirubin causes jaundice.
-= 胆红素高会导致黄疸。
+② High bilirubin causes jaundice, which shows first in the whites of the eyes.
+= 胆红素高会导致黄疸，最先看出来的是眼白。
 jaundice = 黄疸
 皮肤发黄就是它积多了。
-③ The liver clears bilirubin from the blood.
-= 肝脏把胆红素从血里清走。
-④ Newborns are screened for bilirubin.
-= 新生儿要做胆红素筛查。
+③ The liver clears bilirubin from the blood and sends it out in the bile.
+= 肝脏把胆红素从血里清走，随胆汁排出去。
+④ Newborns are screened for bilirubin with a light meter on the forehead.
+= 新生儿做胆红素筛查，用一支光度计贴在额头上测。
 注意语域：医学与生化术语。
 词族：
 bile = 胆汁
@@ -274,17 +274,17 @@ billing
 billing address、billing cycle 都属这一支；二是演出海报上的
 "排名次序"——谁的名字排在前面、字号多大，是行业里很在意的事，
 top billing 就是头牌。
-① Check your billing address.
-= 核对一下账单地址。
+① Check your billing address before the card gets declined at the last step.
+= 在最后一步刷卡被拒之前，先核对账单地址。
 billing address = 账单地址
-② The billing cycle is monthly.
-= 计费周期是一个月。
+② The billing cycle is monthly, so cancelling today saves you nothing.
+= 计费周期是一个月，今天取消一分也省不下。
 billing cycle = 计费周期
-③ She got top billing.
-= 她拿了头牌。
+③ She got top billing after twenty years of playing somebody's sister.
+= 演了二十年别人的妹妹之后，她拿到了头牌。
 top billing = 海报上排第一
-④ The two stars shared equal billing.
-= 两位主演并列挂头牌。
+④ The two stars shared equal billing and their agents fought over the font size.
+= 两位主演并列挂头牌，经纪人为字号大小吵了一架。
 equal billing = 并列排名
 排名之争在演艺合同里是正经条款。
 词族：
@@ -346,17 +346,17 @@ billow
 说帆、裙子、窗帘是被风鼓得胀起来。名词指涌起的那一大团，
 也指大浪。这个词的画面感很强，多用于描写文字，
 新闻里报火灾、爆炸常用它。
-① Smoke billowed from the roof.
-= 浓烟从屋顶滚滚涌出。
+① Smoke billowed from the roof and was visible from the far side of the valley.
+= 浓烟从屋顶滚滚涌出，山谷那一头都看得见。
 billow from = 从某处滚滚涌出
-② Her skirt billowed in the wind.
-= 她的裙子被风鼓了起来。
+② Her skirt billowed in the wind as she stood at the end of the pier.
+= 她站在栈桥尽头，裙子被风鼓了起来。
 被风吹得胀开，还是"鼓起来"。
-③ The sails billowed out.
-= 帆鼓满了风。
+③ The sails billowed out and the boat heeled hard to the left.
+= 帆鼓满了风，船朝左侧猛地一斜。
 billow out = 鼓胀起来
-④ Billows of dust rose behind the truck.
-= 卡车后面扬起滚滚尘土。
+④ Billows of dust rose behind the truck and hung over the road for minutes.
+= 卡车后面扬起滚滚尘土，在路上悬了好几分钟。
 billows of = 一团团涌起的
 词族：
 billowing = 翻滚的、鼓胀的
@@ -366,17 +366,17 @@ billy
 挂在火上煮茶，boil the billy 就是烧水泡茶，是丛林生活的标志。
 美式里 billy 指警棍，全称 billy club。另有 billy goat 指公山羊，
 那是把人名 Billy 用在动物身上的老习惯。
-① They boiled the billy for tea.
-= 他们烧水泡茶。
+① They boiled the billy for tea while the horses drank at the creek.
+= 马在溪边饮水的工夫，他们烧水泡了茶。
 boil the billy = 烧水泡茶（澳新）
-② He hung the billy over the fire.
-= 他把铁皮罐挂在火上。
+② He hung the billy over the fire and let it sit until the water sang.
+= 他把铁皮罐挂在火上，等水响起来。
 billy = 野炊铁皮罐
-③ The officer carried a billy.
-= 那名警员带着警棍。
+③ The officer carried a billy and never once had to take it off his belt.
+= 那名警员带着警棍，一次也没从腰带上取下来过。
 billy = 警棍（美式，全称 billy club）
-④ A billy goat butted the fence.
-= 一只公山羊顶着栅栏。
+④ A billy goat butted the fence until the wire gave way at the corner.
+= 一只公山羊顶栅栏，顶到拐角处的铁丝松脱了。
 billy goat = 公山羊
 注意语域：第一二义属澳新英语，第三义属美式。
 
@@ -538,17 +538,17 @@ binder
 核心：三条线，都从 bind（捆住）来。最常用的是文具里的"活页夹"，
 把散页扣在一起；建材和烹饪里指"黏合剂"，把散料黏成一体；
 农业机械里指收割捆扎机。判断靠语境，三者几乎不会混。
-① Put the notes in a binder.
-= 把笔记放进活页夹。
+① Put the notes in a binder before the loose pages get shuffled again.
+= 趁散页还没被翻乱，把笔记放进活页夹。
 ring binder = 活页夹（英式）
-② Cement acts as a binder.
-= 水泥起黏合作用。
+② Cement acts as a binder, holding sand and gravel in a single mass.
+= 水泥起黏合作用，把沙和石子固成一整块。
 binder = 黏合剂
-③ Egg is a good binder in meatballs.
-= 做肉丸用鸡蛋黏合很好使。
+③ Egg is a good binder in meatballs and keeps them from falling apart.
+= 做肉丸用鸡蛋黏合很好使，煮的时候不散。
 烹饪义。
-④ The binder cut and tied the sheaves.
-= 那台捆扎机把麦子割了并捆好。
+④ The binder cut and tied the sheaves faster than a dozen men with scythes.
+= 那台捆扎机割麦捆麦，比十几个人挥镰刀还快。
 binder = 收割捆扎机
 词族：
 bind = 捆；约束
