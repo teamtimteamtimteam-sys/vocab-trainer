@@ -323,14 +323,14 @@ aerobic = 有氧的（要靠氧）
 anaesthetic
 核心：指麻醉剂。分两类：general anaesthetic（全麻，让人失去意识）
 和 local anaesthetic（局麻，只麻一处）。英美拼写不同。
-① He was given a general anaesthetic.
-= 他做了全身麻醉。
+① He was given a general anaesthetic and remembers nothing after the count.
+= 他做了全身麻醉，从数数开始就什么都不记得了。
 general anaesthetic = 全麻
-② It's done under local anaesthetic.
-= 那是在局麻下做的。
+② It's done under local anaesthetic, so you can drive yourself home afterwards.
+= 那是在局麻下做的，做完可以自己开车回家。
 local anaesthetic = 局麻
-③ The anaesthetic wore off.
-= 麻药劲儿过去了。
+③ The anaesthetic wore off on the bus and she had to get off.
+= 麻药劲儿在公交车上过去了，她只好下了车。
 wear off = 药效消退
 词族：
 anaesthetist = 麻醉师（英式）
@@ -338,14 +338,14 @@ anesthesiologist = 麻醉师（美式）
 注意英美拼写：
 anaesthetic = 麻醉剂（英式拼法）
 anesthetic = 麻醉剂（美式拼法）
-④ Anaesthesia carries small but real risks.
-= 麻醉有小概率但确实存在的风险。
+④ Anaesthesia carries small but real risks that the consent form spells out.
+= 麻醉有小概率但确实存在的风险，同意书上写得清清楚楚。
 anaesthesia = 麻醉（状态或学科）
-⑤ The anaesthesiologist checked her airway.
-= 麻醉医师检查了她的气道。
+⑤ The anaesthesiologist checked her airway twice before the surgeon scrubbed in.
+= 外科医生刷手前，麻醉医师检查了两遍她的气道。
 anaesthesiologist = 麻醉医师
-⑥ They anaesthetized the horse before surgery.
-= 手术前他们给那匹马上了麻醉。
+⑥ They anaesthetized the horse before surgery and it took four people to lower it.
+= 手术前他们给那匹马上了麻醉，把它放倒用了四个人。
 anaesthetize = 施麻醉
 
 anagram
@@ -440,23 +440,23 @@ analogue
 量上来表示信息，就是"模拟的"——指针表用角度对应时间，黑胶用沟槽
 深浅对应声压。跟它相对的数字方式是把信息切成一格格的离散值。
 美式拼 analog。
-① The drug is a synthetic analogue of morphine.
-= 那种药是吗啡的合成类似物。
+① The drug is a synthetic analogue of morphine and is controlled just as tightly.
+= 那种药是吗啡的合成类似物，管制同样严格。
 an analogue of = …的类似物
-② There is no exact analogue in English.
-= 英语里没有完全对应的说法。
+② There is no exact analogue in English, so translators fall back on a phrase.
+= 英语里没有完全对应的说法，译者只好用一个短语顶上。
 no exact analogue = 没有完全对应的东西
-③ He still wears an analogue watch.
-= 他还戴着指针表。
+③ He still wears an analogue watch that has to be wound every morning.
+= 他还戴着一块每天早上都要上弦的指针表。
 analogue watch = 指针式手表
-④ Analogue signals vary continuously.
-= 模拟信号是连续变化的。
+④ Analogue signals vary continuously, which is why a copy is never quite a copy.
+= 模拟信号是连续变化的，所以拷贝永远不是完全的拷贝。
 analogue signal = 模拟信号
-⑤ The station switched off its analogue broadcast.
-= 那家电台关掉了模拟广播。
+⑤ The station switched off its analogue broadcast at midnight without much warning.
+= 那家电台没怎么预告就在午夜关掉了模拟广播。
 analogue broadcast = 模拟广播
-⑥ Vinyl is an analogue format.
-= 黑胶是模拟格式。
+⑥ Vinyl is an analogue format, and its defenders think that is the point.
+= 黑胶是模拟格式，替它说话的人觉得这正是它的好处。
 analogue format = 模拟格式
 注意拼写：
 analogue = 模拟的（英式）

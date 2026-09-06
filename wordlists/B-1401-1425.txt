@@ -164,26 +164,26 @@ arguably = 可以说、大概（引出可辩护的判断）
 argument
 核心：两层，对应动词的两条线：吵架（an argument with someone）
 和论点（an argument for / against）。学术语境里几乎都是第二层。
-① They had an argument.
-= 他们吵了一架。
+① They had an argument in the car park that half the street could hear.
+= 他们在停车场吵了一架，半条街都听得见。
 have an argument = 争吵
-② It's a strong argument.
-= 那是个有力的论点。
-③ There are arguments for and against.
-= 正反双方都有理由。
+② It's a strong argument, but it rests on one figure nobody has checked.
+= 那是个有力的论点，可它靠的那个数字没人核过。
+③ There are arguments for and against, and the report gives each of them a page.
+= 正反双方都有理由，报告各给了一页篇幅。
 arguments for and against = 正反理由
-④ He put forward an argument.
-= 他提出了一个论点。
+④ He put forward an argument that had been made better a century earlier.
+= 他提出了一个论点，一百年前有人讲得更好。
 put forward an argument = 提出论点
 词族：
 argumentative = 爱争辩的
 注意：中文的"论文"不是 argument，
 是 paper 或 essay。
-⑤ The paper is weak on argumentation.
-= 那篇论文在论证上偏弱。
+⑤ The paper is weak on argumentation but strong on the evidence it gathers.
+= 那篇论文在论证上偏弱，收集的证据倒是很扎实。
 argumentation = 论证、说理过程
-⑥ The closing argument lasted an hour.
-= 结案陈词讲了一小时。
+⑥ The closing argument lasted an hour and the jury was out for twenty minutes.
+= 结案陈词讲了一小时，陪审团只议了二十分钟。
 a closing argument = 结案陈词
 
 argumentative
@@ -381,13 +381,13 @@ Aristotelian ethics = 亚里士多德伦理学
 arithmetic
 核心：指算术——加减乘除这部分数学。不可数。
 注意名词和形容词重音不同。
-① He is good at arithmetic.
-= 他算术好。
+① He is good at arithmetic but has never learned to read a graph.
+= 他算术好，却从没学会看图表。
 mental arithmetic = 心算
-② Check your arithmetic.
-= 核对一下你的算式。
-③ It's an arithmetic progression.
-= 那是个等差数列。
+② Check your arithmetic before you send the invoice out to the client.
+= 把发票发给客户之前，先核对一下你的算式。
+③ It's an arithmetic progression, so each term rises by the same amount.
+= 那是个等差数列，每一项增加的量都一样。
 arithmetic progression = 等差数列
 注意发音：
 名词 /əˈrɪθmətɪk/ 重音在第二音节
@@ -395,14 +395,14 @@ arithmetic progression = 等差数列
 数学分支：
 arithmetic 算术 / algebra 代数
 geometry 几何 / calculus 微积分
-④ Take the arithmetic mean of the five.
-= 取那五个数的算术平均。
+④ Take the arithmetic mean of the five readings and ignore the outlier.
+= 取那五个读数的算术平均，把离群那个撇开。
 arithmetic mean = 算术平均数
-⑤ The error was purely arithmetical.
-= 那个错纯粹是算术上的。
+⑤ The error was purely arithmetical and cost the department nine million.
+= 那个错纯粹是算术上的，害得那个部门损失九百万。
 arithmetical = 算术的
-⑥ The totals were arithmetically correct.
-= 各项合计在算术上没错。
+⑥ The totals were arithmetically correct but described a business that no longer existed.
+= 各项合计在算术上没错，可它描述的公司已经不存在了。
 arithmetically = 在算术上
 
 ark
