@@ -202,14 +202,14 @@ Catholicism = 天主教
 cation
 核心：带正电的离子：电解时往阴极跑，所以得了这个名。
 跟 anion 相对。读作两个音节，不是一个。化学术语。可数。
-① Sodium forms a cation.
-= 钠形成阳离子。
+① Sodium forms a cation as soon as it gives up its single outer electron.
+= 钠一旦让出最外层那一个电子，就形成阳离子。
 cation = 阳离子
-② Cations move towards the cathode.
-= 阳离子朝阴极移动。
+② Cations move towards the cathode, and in electroplating they arrive as a layer of metal.
+= 阳离子朝阴极移动，在电镀中它们到达时成为一层金属。
 move towards = 朝……移动
-③ Cations and anions balance out.
-= 阳离子与阴离子互相配平。
+③ Cations and anions balance out in any solution, or the beaker would carry a charge.
+= 任何溶液里阳离子与阴离子都互相配平，否则烧杯本身就会带电。
 anion = 阴离子
 构词：由表示向下与离子的两部分拼成
 注意读音：读作两个音节。
