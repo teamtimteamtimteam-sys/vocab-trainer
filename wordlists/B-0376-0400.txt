@@ -35,22 +35,22 @@ admiringly = 赞赏地
 admissible
 核心：法律用语为主，指证据"可被法庭采纳的"。
 和 inadmissible 配对使用频率同样高。
-① The evidence is not admissible.
-= 那份证据不可采纳。
+① The evidence is not admissible because of how it was obtained.
+= 那份证据因为取得方式而不可采纳。
 admissible evidence = 可采纳的证据
-② Hearsay is generally inadmissible.
-= 传闻证据一般不予采纳。
+② Hearsay is generally inadmissible unless it falls under an exception.
+= 传闻证据一般不予采纳，除非落进某个例外。
 inadmissible = 不可采纳的
-③ The court ruled it admissible.
-= 法庭裁定其可采纳。
+③ The court ruled it admissible and the trial ran a month longer.
+= 法庭裁定其可采纳，审理因此多开了一个月。
 rule admissible = 裁定可采纳
 词族：
 admit = 准许进入
 admission = 准入
 注意：admissible 主要用于证据，
 不用来说人。
-④ The admissibility of the evidence was disputed.
-= 那份证据能否采纳有争议。
+④ The admissibility of the evidence was disputed for three days.
+= 那份证据能否采纳，争了三天。
 admissibility = 可采纳性
 
 admission
@@ -134,14 +134,14 @@ admit = 准许进入
 admittedly
 核心：句首副词，用来"先承认对方有理，再转折"。是学术写作和辩论里
 的高频让步标记，后面通常跟 but 或 however。
-① Admittedly, the plan has flaws.
-= 诚然，那个计划有缺陷。
-② It's expensive, admittedly, but worth it.
-= 承认它贵，但值。
-③ Admittedly, I was wrong.
-= 我承认我错了。
-④ Admittedly small, the sample was useful.
-= 样本诚然小，但有用。
+① Admittedly, the plan has flaws, but nobody has offered a better one.
+= 诚然，那个计划有缺陷，可也没人拿出更好的。
+② It's expensive, admittedly, but worth it if you keep it ten years.
+= 承认它贵，可要是用上十年就值。
+③ Admittedly, I was wrong, and I would rather have been told sooner.
+= 我承认我错了，也宁愿早点有人告诉我。
+④ Admittedly small, the sample was useful and pointed the way to the rest.
+= 样本诚然小，却有用，指出了往下该查什么。
 近义对照：
 admittedly 诚然（承认后转折）
 granted 姑且承认（同样用法）
@@ -168,13 +168,13 @@ blend = 调和（比例讲究）
 admonish
 核心：指"温和但严肃地告诫、责备"，比 scold 正式且轻。
 也可指"劝告某人做某事"。常用被动。
-① The judge admonished him.
-= 法官告诫了他。
-② She was admonished for lateness.
-= 她因迟到受到告诫。
+① The judge admonished him and let him leave without a fine.
+= 法官告诫了他，没罚款就让他走了。
+② She was admonished for lateness by someone who had arrived after her.
+= 训她迟到的那个人，来得比她还晚。
 be admonished for = 因…受责备
-③ He admonished them to be careful.
-= 他叮嘱他们要小心。
+③ He admonished them to be careful and then walked into the same trap.
+= 他叮嘱他们要小心，转头自己掉进了同一个坑。
 admonish someone to do = 劝告某人做
 词族：
 admonition = 告诫
@@ -183,8 +183,8 @@ admonishment = 训诫
 admonish = 温和告诫（正式）
 reprimand = 训斥（正式，较重）
 scold = 责骂（口语，多对小孩）
-④ He gave an admonitory glance.
-= 他投来告诫的一瞥。
+④ He gave an admonitory glance that stopped the sentence halfway.
+= 他投来告诫的一瞥，那句话说到一半就停了。
 admonitory = 告诫的、警告的
 
 ado

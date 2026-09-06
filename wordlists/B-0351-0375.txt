@@ -58,13 +58,13 @@ adjacent rooms = 相邻但未必相通
 adjourn
 核心：指会议、庭审"休会、延期"，正式用语。可及物可不及物。
 被动式 be adjourned until 最常见。
-① The meeting was adjourned.
-= 会议休会了。
-② The court adjourned until Monday.
-= 法庭休庭至周一。
+① The meeting was adjourned after nineteen minutes and three points of order.
+= 开了十九分钟、提了三次程序动议之后，会议休会了。
+② The court adjourned until Monday to give both sides time to read it.
+= 法庭休庭至周一，好让双方有时间读完。
 adjourn until = 休会到
-③ They adjourned for lunch.
-= 他们休会吃午饭。
+③ They adjourned for lunch and came back with entirely different positions.
+= 他们休会吃午饭，回来时立场全变了。
 常用搭配：
 adjourn a meeting = 休会
 adjourn a trial = 休庭
@@ -75,8 +75,8 @@ adjournment = 休会
 adjourn 休会（正式，会重开）
 postpone 推迟（改到以后）
 cancel 取消（不再进行）
-④ They adjourned to the bar.
-= 他们转到酒吧继续。
+④ They adjourned to the bar and settled in an hour what four meetings had not.
+= 他们转到酒吧，一小时里把四次会议没定下的事定了。
 adjourn to = 转移到某处继续（戏谑）
 
 adjournment
@@ -223,22 +223,22 @@ adjustable = 可调节的
 adjustable
 核心：指"可调节的"，家具、设备、利率都能用。
 adjustable rate mortgage 是金融高频词。
-① The seat is adjustable.
-= 那个座椅可调。
+① The seat is adjustable in six directions and comfortable in none of them.
+= 那个座椅六个方向都可调，哪个方向都不舒服。
 adjustable seat = 可调座椅
-② It has an adjustable strap.
-= 它有可调节的带子。
+② It has an adjustable strap that slips whenever the bag is full.
+= 它有可调节的带子，包一装满就往下滑。
 adjustable strap = 可调背带
-③ They chose an adjustable rate.
-= 他们选了浮动利率。
+③ They chose an adjustable rate the year before rates doubled.
+= 他们选了浮动利率，第二年利率就翻了一倍。
 adjustable rate = 浮动利率
 词族：
 adjust = 调整
 adjustment = 调整
 反义词：
 fixed = 固定的
-④ He tightened it with an adjustable spanner.
-= 他用活动扳手拧紧了它。
+④ He tightened it with an adjustable spanner and rounded off the nut.
+= 他用活动扳手拧紧了它，把螺母的角磨圆了。
 adjustable spanner = 活动扳手（英式）
 adjustable wrench = 活动扳手（美式）
 
@@ -301,15 +301,15 @@ adman = 广告从业者
 administer
 核心：三条线：管理机构、执行法规、以及医学上"给药"。都可以归到
 "把某件事施行下去"。比 manage 正式。
-① She administers the fund.
-= 她管理那笔基金。
-② The law is administered by the courts.
-= 那条法律由法院执行。
-③ A nurse administered the drug.
-= 一名护士给了药。
+① She administers the fund and has never once drawn on it herself.
+= 她管理那笔基金，自己一次都没动用过。
+② The law is administered by the courts and interpreted by nobody else.
+= 那条法律由法院执行，也只有法院有权解释。
+③ A nurse administered the drug and stayed to watch for the first hour.
+= 一名护士给了药，还留下守了头一个钟头。
 administer a drug = 给药
-④ He administered first aid.
-= 他做了急救。
+④ He administered first aid with a kit that had expired in the spring.
+= 他用一套春天就过期的急救包做了急救。
 常用搭配：
 administer justice = 执法
 administer an estate = 管理遗产
@@ -321,15 +321,15 @@ administrator = 管理者
 administration
 核心：三层：管理这件事、管理机构本身、美式英语里的"政府任期"。
 另有医学上"给药"的正式义。
-① She works in administration.
-= 她做行政工作。
-② The administration of the fund is complex.
-= 那笔基金的管理很复杂。
-③ The Biden administration announced it.
-= 拜登政府宣布了此事。
+① She works in administration and knows where every file in the building is.
+= 她做行政工作，楼里每份档案在哪儿她都清楚。
+② The administration of the fund is complex enough to need two auditors.
+= 那笔基金的管理复杂到要两位审计师。
+③ The Biden administration announced it on the last day of the session.
+= 拜登政府在会期最后一天宣布了此事。
 美式用法 = 政府（一届任期）
-④ The administration of the drug was delayed.
-= 给药被推迟了。
+④ The administration of the drug was delayed by a missing signature.
+= 少了一个签名，给药被推迟了。
 这里是医学用法。
 词族：
 administer = 管理、施行
@@ -338,15 +338,15 @@ administrative = 行政的
 administrative
 核心：指"行政的、管理事务的"，与业务和技术工作相对。
 常见搭配 administrative work / staff / costs。
-① She does administrative work.
-= 她做行政工作。
-② Administrative costs are high.
-= 行政成本很高。
+① She does administrative work three days a week and teaches on the others.
+= 她一周三天做行政工作，其余时间教书。
+② Administrative costs are high and account for a third of the grant.
+= 行政成本很高，占了拨款的三分之一。
 administrative costs = 行政开支
-③ It's an administrative error.
-= 那是个行政失误。
-④ He holds an administrative post.
-= 他担任行政职务。
+③ It's an administrative error that took two years to put right.
+= 那是个行政失误，花了两年才纠正过来。
+④ He holds an administrative post and has not seen a patient since.
+= 他担任行政职务，此后再没接诊过病人。
 常用搭配：
 administrative staff = 行政人员
 administrative burden = 行政负担
@@ -358,15 +358,15 @@ administration = 行政
 administrator
 核心：指负责管理运营的人。在学校、医院、公司里都用；
 IT 里的"系统管理员"是 system administrator，常简称 admin。
-① She is a hospital administrator.
-= 她是医院行政人员。
-② The administrator approved it.
-= 管理员批准了。
-③ Contact the system administrator.
-= 联系系统管理员。
+① She is a hospital administrator and used to be a nurse on the same ward.
+= 她是医院行政人员，从前是同一个病房的护士。
+② The administrator approved it without reading past the covering note.
+= 管理员没读完封面说明就批准了。
+③ Contact the system administrator, who is also the person who broke it.
+= 联系系统管理员，弄坏它的也是那个人。
 system administrator = 系统管理员
-④ Administrators handle the paperwork.
-= 行政人员处理文书工作。
+④ Administrators handle the paperwork that keeps three departments running.
+= 行政人员处理的文书工作维持着三个部门的运转。
 常用搭配：
 database administrator = 数据库管理员
 school administrator = 校务人员
@@ -434,16 +434,16 @@ air marshal 空军元帅（英式）
 admiration
 核心：指"钦佩、赞赏"这种感情，不可数。介词用 for。
 搭配 have / express / win admiration。
-① I have great admiration for her.
-= 我非常钦佩她。
+① I have great admiration for her and have told her so exactly once.
+= 我非常钦佩她，也正好只对她说过一次。
 admiration for = 对…的钦佩
-② He looked on in admiration.
-= 他钦佩地看着。
+② He looked on in admiration at work he could not have done himself.
+= 他钦佩地看着，那活儿他自己做不来。
 in admiration = 满怀钦佩地
-③ She won universal admiration.
-= 她赢得了普遍赞誉。
-④ It's worthy of admiration.
-= 那值得钦佩。
+③ She won universal admiration and almost no promotions at all.
+= 她赢得了普遍赞誉，却几乎从没升过职。
+④ It's worthy of admiration and has been copied badly ever since.
+= 那值得钦佩，此后一直被拙劣地模仿。
 常用搭配：
 mutual admiration = 相互钦佩
 win admiration = 赢得赞誉
