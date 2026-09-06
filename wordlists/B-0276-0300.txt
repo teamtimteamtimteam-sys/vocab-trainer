@@ -34,15 +34,15 @@ acronym
 核心：指用首字母拼成、且能当一个词来读的缩略语，如 NATO、laser。
 逐字母念的（BBC、FBI）严格说叫 initialism，但日常也常混称
 acronym。
-① NATO is an acronym.
-= NATO 是个首字母缩略词。
-② The report is full of acronyms.
-= 那份报告满是缩略语。
-③ What does the acronym stand for?
-= 那个缩略语代表什么？
+① NATO is an acronym that almost nobody can expand without looking it up.
+= 那是个首字母缩略词，几乎没人不查就说得出全称。
+② The report is full of acronyms and defines exactly two of them.
+= 那份报告满是缩略语，只解释了其中两个。
+③ What does the acronym stand for? Nobody in the department could say.
+= 那个缩略语代表什么？部门里没人说得上来。
 stand for = 代表
-④ Laser started as an acronym.
-= 「laser」最初是个缩略词。
+④ Laser started as an acronym and is now just an ordinary word.
+= 那个词最初是个缩略词，如今就是个普通词了。
 注意区别：
 acronym 能拼读的（NATO、laser）
 initialism 逐字母念的（BBC、FBI）
@@ -411,15 +411,15 @@ passively = 被动地
 activism
 核心：指为推动社会或政治变革而进行的积极行动，不可数。前面常加
 限定：political / environmental / online activism。
-① Environmental activism is growing.
-= 环保行动主义在壮大。
-② She turned to political activism.
-= 她转向了政治行动。
+① Environmental activism is growing fastest in places with the least to lose.
+= 环保行动主义壮大得最快的，是那些最没什么可失去的地方。
+② She turned to political activism after eleven years inside the system.
+= 在体制内待了十一年后，她转向了政治行动。
 political activism = 政治行动主义
-③ Online activism has spread.
-= 网络行动主义扩散开来。
-④ His activism began at university.
-= 他的社会行动始于大学。
+③ Online activism has spread and costs the participant almost nothing.
+= 网络行动主义扩散开来，参与者几乎不用付出什么。
+④ His activism began at university and cost him his first three jobs.
+= 他的社会行动始于大学，让他丢了头三份工作。
 词族：
 activist = 活动人士
 active = 积极的
@@ -429,15 +429,15 @@ active = 积极的
 activist
 核心：指积极参与社会或政治运动的人。前面常加领域限定：
 human rights activist、climate activist。可数。
-① She is a human rights activist.
-= 她是人权活动人士。
-② Activists staged a protest.
-= 活动人士举行了抗议。
+① She is a human rights activist and has been refused a visa four times.
+= 她是人权活动人士，签证被拒过四次。
+② Activists staged a protest outside a building that had been empty for years.
+= 活动人士在一栋空置多年的楼外举行了抗议。
 stage a protest = 举行抗议
-③ Climate activists blocked the road.
-= 气候活动人士堵了路。
-④ He became an activist at 20.
-= 他二十岁成为活动人士。
+③ Climate activists blocked the road and apologised to every driver individually.
+= 气候活动人士堵了路，还挨个向司机道歉。
+④ He became an activist at twenty and a civil servant at forty.
+= 他二十岁成了活动人士，四十岁成了公务员。
 词族：
 activism = 行动主义
 近义对照：
@@ -558,16 +558,16 @@ reality = 现实（通用）
 actually
 核心：三个用法。一是纠正对方"其实不是那样"；二是强调"竟然、
 真的"；三是在英式口语里作缓和语气的填充词，让反驳听起来不刺耳。
-① Actually, I don't agree.
-= 其实我不同意。
+① Actually, I don't agree, and I have thought about it for a week.
+= 其实我不同意，这事我想了一个星期。
 用来礼貌地反驳。
-② He actually apologised.
-= 他竟然道歉了。
+② He actually apologised, which nobody in the office had expected.
+= 他竟然道歉了，办公室里谁都没料到。
 这里表示出乎意料。
-③ What actually happened?
-= 到底发生了什么？
-④ "Was it good?" "Actually, yes."
-= "好吗？""还真挺好。"
+③ What actually happened is in the minutes and in nobody's memory.
+= 到底发生了什么，会议记录里有，谁的记忆里都没有。
+④ Was it good? Actually, yes, and I had expected to hate it.
+= 好吗？还真挺好，我本来以为会讨厌它。
 注意：actually 不表示"目前"，
 "目前"是 currently。
 
