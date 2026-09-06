@@ -17,14 +17,14 @@ under the aegis of = 在…庇护下（同义）
 auspicious
 核心：指"吉利的、预示好兆头的"，正式。
 常修饰 start、occasion、moment、day。
-① It was an auspicious start.
-= 那是个吉利的开端。
+① It was an auspicious start and the only good week of the whole year.
+= 那是个吉利的开端，也是那一整年里唯一顺当的一周。
 auspicious start = 良好开端
-② They chose an auspicious date.
-= 他们挑了个吉日。
+② They chose an auspicious date and the registrar was ill on it.
+= 他们挑了个吉日，登记员那天却病了。
 auspicious date = 吉日
-③ The omens were auspicious.
-= 那些征兆是吉利的。
+③ The omens were auspicious, according to a man paid to say so.
+= 按一个拿钱这么说的人的说法，那些征兆是吉利的。
 反义词：
 inauspicious = 不吉利的
 词族：auspices
@@ -32,8 +32,8 @@ inauspicious = 不吉利的
 auspicious = 吉利的（预示好结果）
 favourable = 有利的（条件好）
 promising = 有希望的（前景好）
-④ The venture began auspiciously.
-= 那项事业开局吉利。
+④ The venture began auspiciously and ran out of money by the spring.
+= 那项事业开局吉利，到春天钱就花光了。
 auspiciously = 吉利地、顺利地
 
 Aussie
@@ -57,13 +57,13 @@ Brit = 英国人
 austere
 核心：三条线：生活"清苦朴素的"、外观"简朴无装饰的"、
 以及人"严肃冷峻的"。
-① He led an austere life.
-= 他过着清苦的生活。
+① He led an austere life in a house he could easily have heated.
+= 他住的房子明明烧得起暖气，日子却过得清苦。
 austere life = 简朴的生活
-② The room was austere.
-= 那房间朴素无华。
-③ She has an austere manner.
-= 她态度严肃冷峻。
+② The room was austere and the only ornament was a clock that had stopped.
+= 那房间朴素无华，唯一的装饰是一只停了的钟。
+③ She has an austere manner and remembers every student's name.
+= 她态度严肃冷峻，却记得每个学生的名字。
 austere manner = 冷峻的举止
 词族：
 austerity = 紧缩；朴素
@@ -72,8 +72,8 @@ austere = 简朴严峻（无装饰、不享受）
 ascetic = 苦行的（宗教修行）
 spartan = 斯巴达式的（极简艰苦）
 frugal = 节俭的（省钱）
-④ The room was austerely furnished.
-= 那个房间陈设极简。
+④ The room was austerely furnished and cost more than the one next door.
+= 那个房间陈设极简，价钱却比隔壁那间还贵。
 austerely = 简朴地、严峻地
 
 austerity
@@ -126,16 +126,16 @@ Australian
 核心：指"澳大利亚的、澳大利亚人"，也指澳式英语。澳大利亚既是
 一个国家也是一整块大陆。非正式说法是 Aussie，
 澳式足球叫 Australian rules football。
-① She is Australian by birth.
-= 她生来就是澳大利亚人。
-② Australian English has its own vocabulary.
-= 澳式英语有自己的一套词汇。
+① She is Australian by birth and has lived there for about six weeks.
+= 她生来就是澳大利亚人，在那儿总共住过六周左右。
+② Australian English has its own vocabulary and shortens almost everything.
+= 澳式英语有自己的一套词汇，几乎什么词都要缩短。
 Australian English = 澳式英语
-③ Australian rules is played on an oval.
-= 澳式足球在椭圆形场地上踢。
+③ Australian rules is played on an oval and lasts most of an afternoon.
+= 澳式足球在椭圆形场地上踢，能踢掉大半个下午。
 Australian rules football = 澳式足球
-④ The Australian outback is sparsely peopled.
-= 澳大利亚内陆人烟稀少。
+④ The Australian outback is sparsely peopled and larger than most countries.
+= 澳大利亚内陆人烟稀少，面积比多数国家还大。
 the outback = 内陆荒野
 注意用法：
 指国族与语言时都要大写。
@@ -159,16 +159,16 @@ Austrian
 核心：指"奥地利的、奥地利人"。奥地利说德语，但口音与用词跟德国
 不同。经济学上另有个专名 the Austrian School，指以门格尔、
 哈耶克为代表的那一派。窗帘里的 Austrian blind 也用这个词。
-① He is an Austrian conductor.
-= 他是奥地利指挥家。
-② Austrian German differs from the standard.
-= 奥地利德语跟标准德语有别。
+① He is an Austrian conductor who has worked in the same house for thirty years.
+= 他是奥地利指挥家，在同一家剧院干了三十年。
+② Austrian German differs from the standard in the words for food above all.
+= 奥地利德语跟标准德语的差别，尤其体现在食物的说法上。
 Austrian German = 奥地利德语
-③ The Austrian School stresses individual action.
-= 奥地利学派强调个体行动。
+③ The Austrian School stresses individual action over aggregate figures.
+= 奥地利学派强调个体行动，而不是总量数字。
 the Austrian School = 奥地利经济学派
-④ An Austrian blind gathers into swags.
-= 奥地利式窗帘会收成一道道褶。
+④ An Austrian blind gathers into swags and takes an hour to hang properly.
+= 奥地利式窗帘会收成一道道褶，挂端正要花一个钟头。
 Austrian blind = 奥地利式窗帘（横向抽褶）
 注意用法：
 指国族时首字母大写。
@@ -297,14 +297,14 @@ co-author = 合写（动词）；a co-author = 合著者
 authoritarian
 核心：指"专制的、独断的"——不容异见、强调服从。
 既说政治体制，也说父母或上司的作风。贬义。
-① It's an authoritarian regime.
-= 那是个威权政体。
+① It's an authoritarian regime that holds elections with one name on the paper.
+= 那是个威权政体，选举照办，选票上只有一个名字。
 authoritarian regime = 专制政权
-② He has an authoritarian style.
-= 他作风独断。
+② He has an authoritarian style and wonders why nobody brings him bad news.
+= 他作风独断，还纳闷怎么没人给他报坏消息。
 authoritarian style = 家长式作风
-③ Authoritarian parenting backfires.
-= 高压式育儿会适得其反。
+③ Authoritarian parenting backfires at about the age it stops being enforceable.
+= 高压式育儿到管不动的年纪就开始适得其反。
 反义词：
 democratic = 民主的
 permissive = 放任的
@@ -312,8 +312,8 @@ permissive = 放任的
 authoritarian = 专制的（贬义）
 authoritative = 权威可信的（褒义）
 两个词只差几个字母，褒贬相反。
-④ The party drifted into authoritarianism.
-= 那个政党滑向了威权主义。
+④ The party drifted into authoritarianism without ever announcing the turn.
+= 那个政党滑向威权主义，却从没宣布过转向。
 authoritarianism = 威权主义
 
 authoritative
@@ -396,16 +396,16 @@ authorize = 授权、批准（美式拼法）
 authorship
 核心：指作品的"著作权归属"——谁写的。不可数。
 学术和文学考证里常用。
-① The authorship is disputed.
-= 那部作品的作者身份有争议。
+① The authorship is disputed and four scholars have staked careers on it.
+= 那部作品的作者身份有争议，四位学者拿自己的学术生涯押在上面。
 disputed authorship = 有争议的著作权
-② She claimed authorship.
-= 她声称是作者。
+② She claimed authorship and produced the drafts to prove it.
+= 她声称是作者，还拿出草稿来证明。
 claim authorship = 主张著作权
-③ Authorship was confirmed by analysis.
-= 作者身份经分析得到确认。
-④ They share the co-authorship of three books.
-= 那三本书是他们共同署名的。
+③ Authorship was confirmed by analysis of the punctuation, not the vocabulary.
+= 作者身份是靠分析标点确认的，不是靠词汇。
+④ They share the co-authorship of three books and speak through lawyers.
+= 那三本书是他们共同署名的，如今说话要经律师。
 co-authorship = 共同署名、共同著作权
 学术圈的常用词，指的是谁算作者、名字怎么排这件事。
 构词：author + -ship 状态、身份

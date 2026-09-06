@@ -212,21 +212,21 @@ supplement = 补充（另加一份）
 augur
 核心：指某事"预示、是…的兆头"。几乎只用在
 augur well / ill for 这个结构里。名词义是古罗马的"占卜官"。
-① This augurs well for the future.
-= 这对将来是个好兆头。
+① This augurs well for the future of a scheme nobody expected to survive.
+= 谁都没指望那个方案能活下来，这对它的前景是个好兆头。
 augur well for = 对…是好兆头
-② The delay augurs ill.
-= 那次延误不是好兆头。
+② The delay augurs ill for a contract that has already been signed twice.
+= 那份合同已经签过两次，这次延误可不是好兆头。
 augur ill = 兆头不好
-③ Augurs read the flight of birds.
-= 占卜官观察鸟的飞行来占卜。
+③ Augurs read the flight of birds before the senate would vote on anything.
+= 元老院表决任何事之前，占卜官都要先观察鸟的飞行。
 注意发音：/ˈɔːɡə(r)/
 注意别混：
 augur = 预示（动词）
 auger = 螺旋钻（工具）
 两者读音相同。
-④ They read the augury in the birds' flight.
-= 他们从鸟的飞行里读出预兆。
+④ They read the augury in a storm that arrived on the wrong side of the hill.
+= 一场从山那边不该来的方向刮来的暴风雨，被他们读成了预兆。
 augury = 预兆；占卜
 
 August
@@ -345,21 +345,21 @@ air = 神态（人的举止给人的感觉）
 aural
 核心：指"听觉的、耳朵的"。注意它和 oral（口头的）
 读音几乎一样，是英语里著名的一对易混词。
-① The test has an aural component.
-= 那场考试有听力部分。
+① The test has an aural component that counts for a third of the marks.
+= 那场考试有听力部分，占三分之一的分数。
 aural component = 听力部分
-② Aural comprehension improved.
-= 听力理解提高了。
+② Aural comprehension improved once they stopped writing everything down.
+= 他们不再把什么都记下来之后，听力理解反而提高了。
 aural comprehension = 听力理解
-③ It's an aural experience.
-= 那是种听觉体验。
+③ It's an aural experience and the programme notes tell you to shut your eyes.
+= 那是种听觉体验，节目单上让你把眼睛闭上。
 注意别混：
 aural = 听觉的（耳朵）
 oral = 口头的（嘴）
 两者读音几乎相同，
 说话时常改说 listening 和 spoken 避免歧义。
-④ The material is presented aurally.
-= 那些材料是靠听觉呈现的。
+④ The material is presented aurally, which suits about half the class.
+= 那些材料是靠听觉呈现的，班上大约一半人受用。
 aurally = 通过听觉地
 
 aureate
@@ -429,16 +429,16 @@ aurora borealis
 核心：拉丁语的"北方的曙光"，就是"北极光"——太阳带电粒子撞进高层
 大气，把氧和氮激发出光来，在磁极附近的天上抖成绿色和紫色的帘幕。
 南半球那一份叫 aurora australis，即南极光。
-① They flew north to see the aurora borealis.
-= 他们飞去北方看北极光。
+① They flew north to see the aurora borealis and got four cloudy nights.
+= 他们飞去北方看北极光，赶上四个阴天夜晚。
 see the aurora borealis = 观看北极光
-② The aurora borealis peaks near the poles.
-= 北极光在近极地最强。
-③ Aurora australis lights the southern sky.
-= 南极光照亮南方的天空。
+② The aurora borealis peaks near the poles and is faintly visible much further south.
+= 北极光在近极地最强，往南很远也还能隐约看见。
+③ Aurora australis lights the southern sky and has far fewer people watching.
+= 南极光照亮南方的天空，看的人却少得多。
 aurora australis = 南极光
-④ Solar storms brighten the aurora.
-= 太阳风暴会让极光更亮。
+④ Solar storms brighten the aurora and knock out the radios at the same time.
+= 太阳风暴让极光更亮，同时也把无线电搞瘫。
 注意语域：
 天文与气象用语，拉丁语名称。
 
