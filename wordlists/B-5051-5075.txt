@@ -18,17 +18,17 @@ computation
 核心：计算：算这件事，也指算出来的结果与过程。比
 calculation 正式，计算机科学里 the theory of computation
 指可计算性那一整套理论。可数不可数都行。
-① The computation took hours.
-= 那次计算花了几个钟头。
+① The computation took hours on a machine that ran hot the whole time.
+= 那次计算在一台一直发烫的机器上跑了几个钟头。
 computation = 计算
-② Their computations were wrong.
-= 他们那几步算错了。
+② Their computations were wrong by a factor that nobody spotted for months.
+= 他们那几步算错了一个量级，几个月没人发现。
 a computation = 一次计算
-③ The theory of computation is a whole field.
-= 可计算性理论自成一个领域。
+③ The theory of computation is a whole field and predates the first machines.
+= 可计算性理论自成一个领域，比第一台机器还早。
 the theory of computation = 可计算性理论
-④ The model needs enormous computational power.
-= 那个模型需要巨大的运算能力。
+④ The model needs enormous computational power and a week of nobody using it.
+= 那个模型需要巨大的运算能力，还要一周没人来抢机器。
 computational = 运算的、计算方法上的
 加在学科名前面很能产，一整批交叉学科的名字都是这么造出来的。
 构词：拉丁语 computare 算
@@ -243,17 +243,17 @@ conceit
 核心：两支离得很远。一是自负：觉得自己了不起，贬义，
 形容词 conceited；二是文学术语：牵强而巧妙的比喻，
 玄学派诗歌里那种。可数不可数都行。
-① His conceit is unbearable.
-= 他那份自负让人受不了。
+① His conceit is unbearable and has cost him every collaborator he had.
+= 他那份自负让人受不了，合作者一个个都走了。
 conceit = 自负
-② She is vain and conceited.
-= 她又虚荣又自负。
+② She is vain and conceited and perfectly good at the job as well.
+= 她又虚荣又自负，活儿也确实干得好。
 conceited = 自负的
-③ The poem turns on a single conceit.
-= 那首诗全靠一个奇喻撑着。
+③ The poem turns on a single conceit that compares grief to a locked house.
+= 那首诗全靠一个奇喻撑着，把悲伤比作一栋锁着的房子。
 a conceit = 奇特的比喻
-④ He smiled conceitedly.
-= 他自负地笑了笑。
+④ He smiled conceitedly at praise he had gone to some trouble to arrange.
+= 他费了些心思才安排来的夸奖，他自负地笑纳了。
 conceitedly = 自负地
 是 conceited 的副词，用得不多，多改说带自满神气地做某事。
 构词：conceive 构想 的旧名词形式
@@ -279,17 +279,17 @@ conceive
 核心：两支。一是构想出来：想出主意、拟出计划，常用被动
 be conceived as；二是怀上孩子。conceive of 是「设想」，
 多用于否定句。
-① She conceived the idea in prison.
-= 那个主意是她在狱中想出来的。
+① She conceived the idea in prison and built the whole thing on her release.
+= 那个主意是她在狱中想出来的，出狱后整件事都做了出来。
 conceive an idea = 想出主意
-② The project was conceived as a stopgap.
-= 那个项目当初是当权宜之计设计的。
+② The project was conceived as a stopgap and is still running twelve years later.
+= 那个项目当初是当权宜之计设计的，十二年后还在运转。
 be conceived as = 当初设想为
-③ I cannot conceive of living there.
-= 我没法设想住在那里。
+③ I cannot conceive of living there through a winter without heating.
+= 我没法设想在那里挨过一个没有暖气的冬天。
 conceive of = 设想
-④ She conceived at forty.
-= 她四十岁怀上的。
+④ She conceived at forty after being told for a decade that she would not.
+= 被说了十年不可能之后，她四十岁怀上了。
 conceive = 怀孕
 构词：拉丁语 concipere 拿住、孕育
 注意搭配：设想那支带 of，多用于否定句。

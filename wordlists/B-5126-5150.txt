@@ -2,17 +2,17 @@ confidential
 核心：两支。一是保密的：文件与信息不可外传；二是说
 语气像在说悄悄话。名词 confidentiality 是保密义务，
 副词 confidentially 是「私下跟你说」。
-① The file is confidential.
-= 那份档案是保密的。
+① The file is confidential and may not leave the building under any circumstances.
+= 那份档案是保密的，无论如何不得带出楼。
 confidential = 保密的
-② He lowered his voice to a confidential tone.
-= 他压低嗓子，像在说悄悄话。
+② He lowered his voice to a confidential tone that carried across the whole café.
+= 他压低嗓子像在说悄悄话，整间咖啡馆却都听见了。
 a confidential tone = 私语般的口气
-③ Staff sign a confidentiality agreement.
-= 员工要签保密协议。
+③ Staff sign a confidentiality agreement before they see a single document.
+= 员工在看到任何文件之前先签保密协议。
 a confidentiality agreement = 保密协议
-④ Confidentially, she is leaving.
-= 私下跟你说，她要走了。
+④ Confidentially, the figures in the annual report were rounded rather generously.
+= 私下跟你说，年报里那些数字凑整凑得相当宽松。
 confidentially = 私下地
 构词：confidence 信托 + -ial
 注意语域：法律与人事文件里高频。
@@ -21,17 +21,17 @@ configure
 核心：把设备或软件按需要设定好：调参数、装选项。名词
 configuration 既指设定这件事，也指部件排布的样子。
 计算机与工程用词。及物。
-① Configure the router first.
-= 先把路由器设好。
+① Configure the router first, or nothing else in the house will find the network.
+= 先把路由器设好，否则家里别的东西都连不上网。
 configure = 配置设定
-② The laptop comes preconfigured.
-= 那台笔记本是设好了发货的。
+② The laptop comes preconfigured with software the buyer immediately removes.
+= 那台笔记本出厂就装好了软件，买家立刻全删掉。
 preconfigured = 预先配置好的
-③ Save the configuration file.
-= 把配置文件存下来。
+③ Save the configuration file somewhere other than the machine it configures.
+= 把配置文件存到别处，别存在它所配置的那台机器上。
 a configuration file = 配置文件
-④ The seats have a new configuration.
-= 座位换了个排布方式。
+④ The seats have a new configuration that fits two more rows into the cabin.
+= 座位换了个排布方式，机舱里多塞进两排。
 a configuration = 排布方式
 构词：拉丁语 configurare 塑成一形
 注意语域：计算机与工程用词。
@@ -217,17 +217,17 @@ confound
 核心：三支。一是把人弄糊涂、难住；二是推翻预期；
 三是把两样东西混淆，偏旧。形容词 confounded 一是
 困惑的，二是旧式口语里骂人的语气词。
-① The result confounded the experts.
-= 那个结果把专家们难住了。
+① The result confounded the experts and matched what the amateurs had predicted.
+= 那个结果把专家们难住了，反倒跟业余爱好者的预测吻合。
 confound = 难住、使困惑
-② She confounded expectations and won.
-= 她出乎所有人意料赢了。
+② She confounded expectations and won a seat that had not changed hands since 1945.
+= 她出乎所有人意料，赢下了一九四五年以来没易过手的席位。
 confound expectations = 出乎意料
-③ Do not confound the two terms.
-= 别把那两个术语搞混。
+③ Do not confound the two terms; one is a measure and the other is a target.
+= 别把那两个术语搞混，一个是量度，一个是目标。
 confound = 混淆
-④ The confounded thing will not start.
-= 那个鬼东西死活发动不了。
+④ The confounded thing will not start on any morning below five degrees.
+= 气温低于五度的早上，那个鬼东西死活发动不了。
 confounded = 该死的（旧式语气词）
 构词：拉丁语 confundere 倒到一起
 注意语域：第四支是旧式口语的骂人语气。
@@ -407,17 +407,17 @@ congenital
 核心：两支。一是医学上的先天的：生下来就有的；二是
 口语里说人一贯如此、改不了。副词 congenitally。
 先天不等于遗传，这个词只说出生时就带着。
-① It is a congenital condition.
-= 那是种先天性疾病。
+① It is a congenital condition and shows up in about one birth in two thousand.
+= 那是种先天性疾病，大约每两千个新生儿里出现一例。
 a congenital condition = 先天性疾病
-② She has a congenital heart defect.
-= 她有先天性心脏缺陷。
+② She has a congenital heart defect and swims further than most of her class.
+= 她有先天性心脏缺陷，游泳却比班上多数人游得远。
 a congenital defect = 先天缺陷
-③ He is a congenital liar.
-= 他撒谎是天性。
+③ He is a congenital liar and does it even when the truth would suit him better.
+= 他撒谎是天性，说实话对他更有利时也照撒不误。
 a congenital liar = 天生的骗子
-④ The trait is congenitally determined.
-= 那个特征是先天决定的。
+④ The trait is congenitally determined and has nothing to do with upbringing.
+= 那个特征是先天决定的，跟养育方式毫无关系。
 congenitally = 先天地
 构词：拉丁语 con- 共 + genitus 生出来的
 注意别混：先天不等于遗传，这个词只说出生时就有。
@@ -441,17 +441,17 @@ congest
 核心：堵塞：交通、鼻腔、网络被塞住。动词多用被动，
 更常见的是形容词与名词形式。名词 congestion，伦敦
 进城收的 congestion charge 就是这个词。
-① The roads were congested.
-= 那些路堵住了。
+① The roads were congested for eleven miles in each direction by seven o'clock.
+= 到七点，两个方向的路都堵了十一英里。
 be congested = 被堵塞
-② She has a congested chest.
-= 她胸口发闷有痰。
+② She has a congested chest and has been told to sit up rather than lie down.
+= 她胸口发闷有痰，医生叫她坐着别躺着。
 congested = 充血阻塞的
-③ Traffic congestion costs billions.
-= 交通拥堵损失数以十亿计。
+③ Traffic congestion costs billions in hours that nobody gets paid for.
+= 交通拥堵损失数以十亿计，耗掉的那些钟头没人给钱。
 traffic congestion = 交通拥堵
-④ Drivers pay a congestion charge.
-= 司机要交拥堵费。
+④ Drivers pay a congestion charge and the money goes back into the buses.
+= 司机要交拥堵费，那笔钱又投回了公交上。
 a congestion charge = 进城拥堵费
 构词：拉丁语 congerere 堆到一起
 注意用法：动词多用被动。

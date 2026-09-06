@@ -53,17 +53,17 @@ conciliate
 核心：安抚、调停：把火气大的人劝下来，或在两方之间说和。
 名词 conciliation 是调解，形容词 conciliatory 是息事宁人
 的、想缓和气氛的。正式词，劳资纠纷里常见。
-① He tried to conciliate the strikers.
-= 他想把罢工的人安抚下来。
+① He tried to conciliate the strikers with an offer they had already refused.
+= 他想用一个他们已经拒绝过的条件安抚罢工的人。
 conciliate = 安抚
-② The service offers conciliation.
-= 那个机构提供调解。
+② The service offers conciliation free of charge to both sides.
+= 那个机构向双方免费提供调解。
 conciliation = 调解
-③ She struck a conciliatory tone.
-= 她的口气带着缓和的意思。
+③ She struck a conciliatory tone that surprised everyone in the room.
+= 她的口气带着缓和的意思，屋里所有人都意外。
 a conciliatory tone = 缓和的口气
-④ A neutral conciliator chaired the talks.
-= 一位中立的调解人主持了会谈。
+④ A neutral conciliator chaired the talks and said almost nothing for two days.
+= 一位中立的调解人主持了会谈，两天里几乎没说话。
 a conciliator = 调解人
 构词：拉丁语 conciliare 拉到一起
 注意语域：正式词，劳资纠纷里常见。
@@ -124,17 +124,17 @@ conclusion
 核心：三支跟动词一一对应。一是结论，draw a conclusion
 是得出结论，jump to conclusions 是妄下结论；二是结尾，
 in conclusion 是收尾时的套话；三是缔结。可数。
-① They drew the wrong conclusion.
-= 他们得出了错的结论。
+① They drew the wrong conclusion from a table that had two columns swapped.
+= 有张表里两列弄反了，他们据此得出了错的结论。
 draw a conclusion = 得出结论
-② Do not jump to conclusions.
-= 别妄下结论。
+② Do not jump to conclusions before the second set of results arrives.
+= 第二批结果出来之前，别妄下结论。
 jump to conclusions = 妄下结论
-③ In conclusion, I want to thank you all.
-= 最后，我要谢谢各位。
+③ In conclusion, I want to thank everyone who stayed until this hour.
+= 最后，我要谢谢所有留到这个点的人。
 in conclusion = 最后总结说
-④ The conclusion of the treaty took months.
-= 那份条约谈成花了几个月。
+④ The conclusion of the treaty took months and the signing took four minutes.
+= 那份条约谈成花了几个月，签字用了四分钟。
 the conclusion of = ……的缔结
 构词：conclude 断定、结束 + -ion
 注意用法：三支跟动词一一对应。
@@ -465,17 +465,17 @@ conditional
 核心：有条件的：得先满足某个前提才算数，介词用 on 或
 upon。语法里指条件句与条件语气。副词 conditionally。
 带否定前缀的反义形式是「无条件的」。
-① The offer is conditional.
-= 那个报价是有条件的。
+① The offer is conditional and expires if the survey turns anything up.
+= 那个报价是有条件的，验房一旦查出问题就失效。
 conditional = 有条件的
-② Approval is conditional on funding.
-= 批准以拿到经费为前提。
+② Approval is conditional on funding that has not yet been voted through.
+= 批准以拿到经费为前提，那笔钱还没表决通过。
 conditional on = 以……为条件
-③ He got a conditional discharge.
-= 他获得了附条件释放。
+③ He got a conditional discharge and has kept out of trouble ever since.
+= 他获得了附条件释放，此后一直没再惹事。
 a conditional discharge = 附条件释放
-④ She was released conditionally.
-= 她是附条件获释的。
+④ She was released conditionally and reports to a police station each Friday.
+= 她是附条件获释的，每周五要去警局报到。
 conditionally = 有条件地
 构词：condition 条件 + -al
 注意搭配：介词用 on 或 upon。
