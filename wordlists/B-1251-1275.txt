@@ -69,18 +69,18 @@ app
 它跟传统软件的区别在于：小、专做一件事、从统一的商店下载。
 围绕它长出一整套说法，商店叫 app store，手机上放图标的那一屏
 叫 app drawer 或 app tray。
-① Download the app from the store.
-= 从商店里下载那个应用。
+① Download the app from the store and let it update before you fly.
+= 从商店里下载那个应用，上飞机前让它更新完。
 download an app = 下载应用
-② The app crashes on older phones.
-= 那个应用在旧手机上会闪退。
-③ She built a budgeting app.
-= 她做了个记账应用。
-④ The app store rejected the update.
-= 应用商店驳回了那次更新。
+② The app crashes on older phones and the developer has stopped answering.
+= 那个应用在旧手机上会闪退，开发者也不再回复了。
+③ She built a budgeting app that nobody uses for more than a month.
+= 她做了个记账应用，没人用得超过一个月。
+④ The app store rejected the update twice without explaining which rule applied.
+= 应用商店两次驳回那次更新，也不说是哪一条规定。
 app store = 应用商店
-⑤ Swipe up to open the app drawer.
-= 上滑打开应用抽屉。
+⑤ Swipe up to open the app drawer and everything is in alphabetical order.
+= 上滑打开应用抽屉，里面全按字母顺序排。
 app drawer = 应用抽屉（安卓上放全部应用的那一屏）
 app tray = 应用栏（同义说法）
 注意语域：

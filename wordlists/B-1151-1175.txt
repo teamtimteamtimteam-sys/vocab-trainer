@@ -383,19 +383,19 @@ antimatter
 核心：指"反物质"——每种基本粒子都有一个质量相同、电荷相反的
 对应粒子，由它们组成的就是反物质。反物质碰上正常物质会双双湮灭
 并释放巨大能量，所以宇宙里为什么几乎只剩正物质，至今是个谜。
-① Antimatter annihilates on contact with matter.
-= 反物质一碰到物质就湮灭。
+① Antimatter annihilates on contact with matter and leaves only energy behind.
+= 反物质一碰到物质就湮灭，只留下能量。
 annihilate on contact = 接触即湮灭
-② The lab produced a few antimatter atoms.
-= 那个实验室造出了几个反物质原子。
-③ A positron is an antiparticle of the electron.
-= 正电子是电子的反粒子。
+② The lab produced a few antimatter atoms and held them for sixteen minutes.
+= 那个实验室造出了几个反物质原子，留住了十六分钟。
+③ A positron is an antiparticle of the electron and was predicted before it was found.
+= 正电子是电子的反粒子，是先被预言、后被发现的。
 antiparticle = 反粒子
-④ Antiprotons are made in accelerators.
-= 反质子是在加速器里造出来的。
+④ Antiprotons are made in accelerators at a cost nobody likes to quote.
+= 反质子是在加速器里造出来的，成本没人乐意报出来。
 antiproton = 反质子
-⑤ Every quark has a matching antiquark.
-= 每个夸克都有一个对应的反夸克。
+⑤ Every quark has a matching antiquark, and the two never appear alone.
+= 每个夸克都有一个对应的反夸克，两者都不单独出现。
 antiquark = 反夸克
 注意语域：
 粒子物理学术语。
