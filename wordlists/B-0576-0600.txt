@@ -108,20 +108,20 @@ agnostic
 核心：宗教上指"不可知论者"——认为神是否存在无法知晓，
 和 atheist（无神论者，认为神不存在）不同。引申义指技术上
 "不挑平台的"（platform-agnostic）。
-① He is an agnostic.
-= 他是不可知论者。
-② She takes an agnostic view.
-= 她持不可知论立场。
+① He is an agnostic and goes to church for the singing.
+= 他是不可知论者，去教堂是为了唱诗。
+② She takes an agnostic view and says the question is badly framed.
+= 她持不可知论立场，认为那个问题本身就问错了。
 agnostic view = 存疑立场
-③ The software is platform-agnostic.
-= 那款软件不挑平台。
+③ The software is platform-agnostic and runs badly on all of them equally.
+= 那款软件不挑平台，在哪个平台上都一样难用。
 platform-agnostic = 平台无关的
 注意区别：
 agnostic = 不可知论（说不清）
 atheist = 无神论（否认存在）
 theist = 有神论
-④ Agnosticism differs from atheism.
-= 不可知论跟无神论不一样。
+④ Agnosticism differs from atheism in what it claims to know.
+= 不可知论跟无神论的区别，在于各自声称知道什么。
 agnosticism = 不可知论
 
 ago
@@ -290,16 +290,16 @@ agoraphobia
 核心：指"广场恐惧症"——害怕身处开阔或人多、不容易脱身的场所，
 严重的完全不敢出门。名字来自希腊语的集市广场。形容词是
 agoraphobic，也可作名词指患者。
-① She suffers from agoraphobia.
-= 她患有广场恐惧症。
+① She suffers from agoraphobia and does the shopping at six in the morning.
+= 她患有广场恐惧症，早上六点去买东西。
 suffer from agoraphobia = 患广场恐惧症
-② Agoraphobia can confine people at home.
-= 广场恐惧症可能让人足不出户。
-③ He is severely agoraphobic.
-= 他的广场恐惧症很严重。
+② Agoraphobia can confine people at home for years without anyone noticing.
+= 广场恐惧症可能让人足不出户好几年，也没人察觉。
+③ He is severely agoraphobic and has not been past the gate since March.
+= 他的广场恐惧症很严重，三月以来没出过大门。
 agoraphobic = 广场恐惧症的、患者
-④ Therapy helps many agoraphobics.
-= 治疗对很多患者有效。
+④ Therapy helps many agoraphobics if it starts within the first two years.
+= 只要在头两年内开始，治疗对很多患者都有效。
 注意语域：
 心理学与精神科术语。
 注意别混：
@@ -326,20 +326,20 @@ aphasia = 失语症（说不出或听不懂）
 agrarian
 核心：指"与农业和土地有关的"，正式且偏学术，多见于历史和社会学
 文本。日常说农业用 agricultural。
-① It was an agrarian society.
-= 那是个农业社会。
+① It was an agrarian society in which four families owned most of the land.
+= 那是个农业社会，大部分土地归四个家族所有。
 an agrarian society = 农业社会
-② They demanded agrarian reform.
-= 他们要求土地改革。
+② They demanded agrarian reform and were offered a committee instead.
+= 他们要求土地改革，得到的却是一个委员会。
 agrarian reform = 土地改革
-③ The economy remains agrarian.
-= 那个经济体仍以农业为主。
+③ The economy remains agrarian although half the population lives in cities.
+= 尽管一半人口住在城里，那个经济体仍以农业为主。
 近义对照：
 agrarian 农本的（学术、涉及土地制度）
 agricultural 农业的（通用）
 rural 乡村的（地理）
-④ The agrarian revolution changed rural life.
-= 农业革命改变了乡村生活。
+④ The agrarian revolution changed rural life faster than any law did.
+= 农业革命改变乡村生活的速度，超过任何一部法律。
 agrarian revolution = 农业革命
 
 agree
@@ -388,32 +388,32 @@ agreeably = 愉快地
 agreed
 核心：两条线：形容词"已议定的"（an agreed price），
 和口语里单独说 Agreed! 表示"就这么定了"。
-① We met at the agreed time.
-= 我们在约定时间见了面。
+① We met at the agreed time and waited an hour for the third party.
+= 我们在约定时间见了面，又等了第三方一个钟头。
 the agreed time = 约定时间
-② The agreed price was £500.
-= 议定价格是五百英镑。
+② The agreed price was five hundred pounds and the invoice said otherwise.
+= 议定价格是五百英镑，发票上写的却不是。
 agreed price = 议定价
-③ "Let's start early." "Agreed."
-= "早点开始吧。""同意。"
-④ It is agreed that we proceed.
-= 各方同意继续推进。
+③ Let's start early. Agreed, said everyone who then arrived late.
+= 「早点开始吧。」「同意。」——说同意的人后来都迟到了。
+④ It is agreed that we proceed, subject to a review in the autumn.
+= 各方同意继续推进，条件是秋天复核一次。
 it is agreed that = 各方议定
 词族：agree、agreement
 
 agreement
 核心：两层：抽象的"意见一致"（不可数）和具体的"协议"（可数）。
 in agreement 是"意见一致"，an agreement 是"一份协议"。
-① They reached an agreement.
-= 他们达成了协议。
+① They reached an agreement after eighteen months of talks about pay.
+= 谈了十八个月的薪酬问题之后，他们达成了协议。
 reach an agreement = 达成协议
-② We are in agreement on this.
-= 我们在这点上意见一致。
+② We are in agreement on this and on almost nothing else.
+= 我们在这点上意见一致，别的几乎都不一致。
 in agreement = 意见一致
-③ They signed a trade agreement.
-= 他们签署了贸易协定。
-④ There is little agreement among experts.
-= 专家之间少有共识。
+③ They signed a trade agreement that neither parliament has ratified.
+= 他们签署了一份两边议会都没批准的贸易协定。
+④ There is little agreement among experts about what the figures mean.
+= 那些数字究竟说明什么，专家之间少有共识。
 这里不可数。
 反义词：
 disagreement = 分歧
@@ -457,14 +457,14 @@ agric = 农业的（缩略写法）
 agricultural
 核心：指"农业的"，比名词 agriculture 更常出现在写作里。
 高频搭配 agricultural land / production / policy。
-① Agricultural output rose.
-= 农业产量上升。
+① Agricultural output rose for a fourth year and prices fell with it.
+= 农业产量连涨四年，价格也跟着跌。
 agricultural output = 农业产量
-② They own agricultural land.
-= 他们拥有农业用地。
+② They own agricultural land that cannot legally be built on.
+= 他们拥有的农业用地，法律上不许盖房。
 agricultural land = 农用地
-③ Agricultural policy is debated.
-= 农业政策存在争议。
+③ Agricultural policy is debated by people who have never kept an animal.
+= 争论农业政策的人，没有一个养过牲口。
 agricultural policy = 农业政策
 词族：
 agriculture = 农业
@@ -472,6 +472,6 @@ agriculture = 农业
 agricultural = 农业的（产业）
 rural = 乡村的（地理）
 agrarian = 农本的（土地制度）
-④ The agriculturalist advised on crop rotation.
-= 那位农学家就轮作提了建议。
+④ The agriculturalist advised on crop rotation and was ignored for a decade.
+= 那位农学家就轮作提了建议，被无视了十年。
 agriculturalist = 农学家、农业专家
