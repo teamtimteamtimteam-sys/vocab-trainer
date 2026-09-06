@@ -66,13 +66,13 @@ abstraction = 抽象；提炼出的概念；出神
 abstracted
 核心：指人"心不在焉、走神的"，和形容词 abstract（抽象的）
 意思完全不同——这是同一个词的两个身份，容易读错。
-① He had an abstracted look.
-= 他神情恍惚。
+① He had an abstracted look and answered a question nobody had asked.
+= 他神情恍惚，回答了一个没人问过的问题。
 an abstracted look = 出神的神情
-② She seemed abstracted today.
-= 她今天好像心不在焉。
-③ He answered in an abstracted way.
-= 他心不在焉地答着。
+② She seemed abstracted today and got off two stops early.
+= 她今天好像心不在焉，提前两站就下了车。
+③ He answered in an abstracted way that suggested he was still working.
+= 他心不在焉地答着，看得出脑子还在想事。
 注意区别：
 abstract = 抽象的（概念）
 abstracted = 走神的（人的状态）
@@ -80,8 +80,8 @@ abstracted = 走神的（人的状态）
 abstracted = 出神（正式）
 absent-minded = 健忘走神（长期）
 distracted = 分心（受干扰）
-④ She stirred her tea abstractedly.
-= 她出神地搅着茶。
+④ She stirred her tea abstractedly for a full minute without drinking any.
+= 她出神地搅了整整一分钟茶，一口没喝。
 abstractedly = 心不在焉地
 
 abstraction
@@ -248,14 +248,14 @@ abuse
 核心：底层是"用错、用坏"。用在物上是"滥用"（滥用权力、药物），
 用在人上是"虐待"，用在语言上是"辱骂"。注意名词和动词读音不同：
 名词结尾读 /s/，动词结尾读 /z/。
-① He was accused of child abuse.
-= 他被控虐待儿童。
-② Drug abuse is a serious problem.
-= 药物滥用是个严重问题。
-③ She abused her position.
-= 她滥用了自己的职权。
-④ He shouted abuse at the referee.
-= 他冲裁判破口大骂。
+① He was accused of child abuse by three families in the same week.
+= 同一周里有三家人指控他虐待儿童。
+② Drug abuse is a serious problem that the budget treats as a footnote.
+= 药物滥用是个严重问题，预算里却只当个脚注处理。
+③ She abused her position to get a relative onto the shortlist.
+= 她滥用职权，把一个亲戚弄进了候选名单。
+④ He shouted abuse at the referee and was gone before the card came out.
+= 他冲裁判破口大骂，牌还没掏出来他人就走了。
 这里：
 abuse = 辱骂（不可数）
 词族：
@@ -266,15 +266,15 @@ abusive = 辱骂的、虐待的
 abuser
 核心：指施虐者或滥用者，两条线：虐待他人的人，
 和滥用药物酒精的人。前面常加限定词。
-① He is a convicted abuser.
-= 他是被定罪的施虐者。
-② Drug abusers need treatment.
-= 药物滥用者需要治疗。
+① He is a convicted abuser and the register follows him wherever he moves.
+= 他是被定罪的施虐者，搬到哪儿档案都跟到哪儿。
+② Drug abusers need treatment that the nearest clinic stopped offering.
+= 药物滥用者需要治疗，最近的诊所却已不提供了。
 drug abuser = 药物滥用者
-③ The abuser was jailed.
-= 那名施虐者被判入狱。
-④ Child abusers face long sentences.
-= 虐童者面临重刑。
+③ The abuser was jailed for six years and released after four.
+= 那名施虐者被判六年，四年后获释。
+④ Child abusers face long sentences and are held apart from other prisoners.
+= 虐待儿童者面临重刑，还要与其他囚犯分开关押。
 child abuser = 虐待儿童者
 词族：
 abuse = 虐待；滥用
@@ -304,20 +304,20 @@ abusively = 辱骂地、虐待地
 abut
 核心：正式用语，指地块或建筑"毗邻、紧挨"。介词用 on 或 onto，
 也可直接及物。注意拼写要双写 t。
-① The garden abuts the road.
-= 那个花园紧邻马路。
-② The property abuts onto farmland.
-= 那处地产毗连农田。
+① The garden abuts the road and gets a layer of dust every summer.
+= 那个花园紧邻马路，每年夏天都积一层灰。
+② The property abuts onto farmland that has been sold three times.
+= 那处地产毗连一片已经转手三次的农田。
 abut onto = 与…毗连
-③ Their land abuts ours.
-= 他们的地和我们的挨着。
+③ Their land abuts ours along a hedge that neither family has cut.
+= 他们的地和我们的沿着一道两家都没修剪过的树篱相接。
 注意拼写：abutted 双写 t。
 近义对照：
 abut = 毗邻（正式，地产用语）
 adjoin = 邻接（正式）
 border = 接壤（国界）
-④ The abutment supports the bridge.
-= 那个桥台支撑着桥。
+④ The abutment supports the bridge and was poured in nineteen thirty-two.
+= 那个桥台支撑着桥，是一九三二年浇筑的。
 abutment = 桥台、支墩
 
 abysmal
