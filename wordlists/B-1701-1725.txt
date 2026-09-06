@@ -32,17 +32,17 @@ attractive = 有吸引力的；诱人的
 attraction
 核心：三条线：物理上的"引力"、人际上的"吸引力"、
 以及旅游上的"景点"。
-① Gravity is a force of attraction.
-= 重力是一种引力。
+① Gravity is a force of attraction that acts across any distance at all.
+= 重力是一种引力，隔着多远都起作用。
 force of attraction = 引力
-② She felt an attraction to him.
-= 她对他有好感。
+② She felt an attraction to him and said nothing for about four years.
+= 她对他有好感，四年左右没说出口。
 an attraction to = 对…的好感
-③ The castle is a major attraction.
-= 那座城堡是主要景点。
+③ The castle is a major attraction and shuts on the two hottest months.
+= 那座城堡是主要景点，最热的两个月却关门。
 tourist attraction = 旅游景点
-④ The job has its attractions.
-= 那份工作有它的吸引之处。
+④ The job has its attractions and none of them is the salary.
+= 那份工作有它的吸引之处，只是没有一样是薪水。
 词族：attract、attractive
 反义词：
 repulsion = 排斥
@@ -413,13 +413,13 @@ courage = 勇气（纯褒义）
 audible
 核心：指"听得见的"。介词用 to。
 和 visible（看得见的）构词对应。
-① Her voice was barely audible.
-= 她的声音几乎听不见。
+① Her voice was barely audible over a fan that nobody could switch off.
+= 风扇没人关得掉，她的声音几乎盖不过去。
 barely audible = 勉强能听见
-② The alarm is audible outside.
-= 那个警报外面听得到。
-③ It was audible to everyone.
-= 所有人都听得见。
+② The alarm is audible outside and has been going since about four.
+= 那个警报外面听得到，从四点左右就一直在响。
+③ It was audible to everyone in the room except the person it concerned.
+= 屋里所有人都听得见，只有当事人没听见。
 audible to = 对…来说听得见
 反义词：
 inaudible = 听不见的
@@ -427,8 +427,8 @@ inaudible = 听不见的
 audibly = 听得见地
 audio = 音频的
 构词：aud- 听 + -ible 可…的
-④ Audibility drops at the back of the hall.
-= 大厅后排听得不太清。
+④ Audibility drops at the back of the hall and the microphones make it worse.
+= 大厅后排听得不太清，那些麦克风还越帮越忙。
 audibility = 可听度、清晰可闻的程度
 
 audibly

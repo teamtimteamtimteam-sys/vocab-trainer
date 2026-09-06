@@ -71,33 +71,33 @@ attaché case = 公文箱
 attached
 核心：三条线：文件"附上的"、感情上"依恋的"、
 以及"已有伴侣的"（口语）。
-① Please see the attached file.
-= 请见附件。
+① Please see the attached file, which is the third version this week.
+= 请见附件，那已经是这周的第三版了。
 attached file = 附件
-② She is attached to her old car.
-= 她对那辆旧车有感情。
+② She is attached to a coat her mother wore to work for thirty years.
+= 她舍不得那件她母亲穿去上班穿了三十年的外套。
 be attached to = 依恋
-③ Is he attached?
-= 他有对象吗？
+③ Is he attached? she asked, having already looked it up online.
+= 她其实早在网上查过了，还是问了句：他有对象吗？
 口语 = 名花有主
-④ No conditions are attached.
-= 不附带任何条件。
+④ No conditions are attached, which is why the lawyers read it twice.
+= 不附带任何条件，正因如此律师读了两遍。
 no strings attached = 不附加条件
 词族：attach、attachment
 
 attachment
 核心：四条线：邮件"附件"、感情"依恋"、机器"配件"、
 以及法律上的"财产扣押"。
-① Open the attachment.
-= 打开附件。
+① Open the attachment on a computer, because the phone will not render it.
+= 在电脑上打开那个附件，手机显示不出来。
 email attachment = 邮件附件
-② She has a deep attachment to him.
-= 她对他有很深的依恋。
+② She has a deep attachment to him that predates anything either will discuss.
+= 她对他有很深的依恋，那份依恋比两人肯谈的任何事都早。
 attachment to = 对…的依恋
-③ The drill comes with attachments.
-= 那台钻配有各种配件。
-④ Attachment theory explains bonding.
-= 依恋理论解释亲密关系的形成。
+③ The drill comes with attachments that fit nothing else in the shed.
+= 那台钻配的各种配件，棚子里别的工具一样都装不上。
+④ Attachment theory explains bonding and gets quoted well beyond its evidence.
+= 依恋理论解释亲密关系的形成，被引用的范围远超它的证据。
 attachment theory = 依恋理论
 词族：attach、attached
 
@@ -379,34 +379,34 @@ inattention = 不专心
 attentive
 核心：两条线：注意力"专注的"，
 和待人"体贴周到的"。介词用 to。
-① The students were attentive.
-= 学生们很专注。
-② He is attentive to detail.
-= 他注重细节。
+① The students were attentive for the first hour and gone by the third.
+= 学生们头一个钟头很专注，到第三个钟头人就散了。
+② He is attentive to detail and misses the thing everyone else sees first.
+= 他注重细节，却漏掉别人一眼就看见的东西。
 attentive to detail = 留意细节
-③ She's an attentive host.
-= 她是位周到的主人。
+③ She's an attentive host who notices an empty glass across a room.
+= 她是位周到的主人，隔着屋子就看得见谁的杯子空了。
 attentive host = 体贴的主人
 副词形式：
 attentively = 专注地
 反义词：
 inattentive = 不专心的
 词族：attention、attend
-④ Her attentiveness put guests at ease.
-= 她的周到让客人放松下来。
+④ Her attentiveness put guests at ease and left her exhausted by ten.
+= 她的周到让客人放松下来，自己到十点已经累垮。
 attentiveness = 专注；体贴周到
 
 attenuate
 核心：正式或技术用语，指"削弱、减弱"——
 信号、症状、病毒毒力都可以。常用被动。
-① The signal was attenuated.
-= 那个信号被削弱了。
+① The signal was attenuated by two walls and a lift shaft.
+= 那个信号被两堵墙和一道电梯井削弱了。
 attenuate a signal = 衰减信号
-② The vaccine uses an attenuated virus.
-= 那种疫苗使用减毒病毒。
+② The vaccine uses an attenuated virus that cannot cause the disease.
+= 那种疫苗使用减毒病毒，不会引发疾病。
 attenuated virus = 减毒病毒
-③ Distance attenuates sound.
-= 距离会衰减声音。
+③ Distance attenuates sound, which is why the far bank hears it first.
+= 距离会衰减声音，所以对岸反而先听见。
 词族：
 attenuation = 衰减
 近义对照：
@@ -414,8 +414,8 @@ attenuate = 削弱（技术、正式）
 weaken = 削弱（通用）
 diminish = 减少（数量）
 dilute = 稀释（浓度）
-④ An attenuator cuts the signal strength.
-= 衰减器把信号强度降下来。
+④ An attenuator cuts the signal strength before it reaches the amplifier.
+= 衰减器在信号进放大器之前先把强度降下来。
 attenuator = 衰减器
 
 attest
@@ -457,14 +457,14 @@ cellar = 地窖（存酒存物）
 attire
 核心：正式用语，指"服装、装束"，不可数。
 多用于说明着装要求（formal attire）。
-① Formal attire is required.
-= 要求正装出席。
+① Formal attire is required and the invitation says so in three places.
+= 要求正装出席，请柬上三处写着这一条。
 formal attire = 正装
-② She wore evening attire.
-= 她穿着晚礼服。
+② She wore evening attire to a party that turned out to be in a garden.
+= 她穿着晚礼服去参加聚会，结果聚会办在花园里。
 evening attire = 晚装
-③ Business attire is expected.
-= 要求商务着装。
+③ Business attire is expected, though nobody has defined it since two thousand.
+= 要求商务着装，可自两千年起就没人给它下过定义。
 business attire = 商务装
 注意：attire 不可数，
 不说 an attire、attires。
@@ -473,8 +473,8 @@ attire = 装束（正式，多指场合着装）
 clothing = 衣物（通用）
 outfit = 一整套装扮
 dress code = 着装规范
-④ Guests came attired in black tie.
-= 客人都穿着礼服到场。
+④ Guests came attired in black tie and left their coats in the car.
+= 客人穿着礼服到场，外套都留在了车里。
 attired = 穿着…的（正式）
 
 attitude
@@ -521,19 +521,19 @@ attn = 请…收阅、经办
 attorney
 核心：美式用语，指律师。英式说 solicitor 或 barrister。
 另有 power of attorney（委托代理权）这个法律概念。
-① He hired an attorney.
-= 他请了律师。
-② The district attorney filed charges.
-= 地区检察官提起了公诉。
+① He hired an attorney who had never argued a case of that kind.
+= 他请的律师从没办过那一类案子。
+② The district attorney filed charges four days before leaving office.
+= 地区检察官在卸任前四天提起了公诉。
 district attorney = 地区检察官（美式）
-③ She holds power of attorney.
-= 她持有委托代理权。
+③ She holds power of attorney and has never once used it.
+= 她持有委托代理权，一次都没用过。
 power of attorney = 授权委托书
 注意英美差别：
 attorney = 律师（美式正式用语）
 lawyer = 律师（美式通用说法）
 英式 solicitor（事务律师）
      barrister（出庭律师）
-④ The attorney general opened an inquiry.
-= 总检察长启动了调查。
+④ The attorney general opened an inquiry into her own department.
+= 总检察长对自己所在的部门启动了调查。
 attorney general = 总检察长、司法部长

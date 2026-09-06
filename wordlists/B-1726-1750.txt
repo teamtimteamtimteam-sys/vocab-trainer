@@ -58,13 +58,13 @@ audiovisual / audio-visual 都可以。
 audit
 核心：两条线：对账目的"审计"，
 和美式大学里"旁听（不计学分）"。名词动词同形。
-① The accounts were audited.
-= 账目经过了审计。
-② An external audit was ordered.
-= 下令做了外部审计。
+① The accounts were audited by a firm that also advised on the tax.
+= 账目由一家同时提供税务咨询的事务所审计。
+② An external audit was ordered after two directors resigned in a week.
+= 一周内走了两位董事之后，上头下令做外部审计。
 external audit = 外部审计
-③ She audited the course.
-= 她旁听了那门课。
+③ She audited the course for a year and then enrolled properly.
+= 她旁听了那门课一年，之后正式注了册。
 audit a course = 旁听课程
 词族：
 auditor = 审计员
@@ -72,8 +72,8 @@ auditor = 审计员
 audit = 审计（查账目）
 inspection = 检查（查现场）
 review = 复核（查决定）
-④ The system keeps an audit trail.
-= 那个系统留有审计轨迹。
+④ The system keeps an audit trail that goes back eleven years.
+= 那个系统留有审计轨迹，能追溯十一年。
 audit trail = 审计轨迹（可追溯的操作记录）
 
 audition
