@@ -17,11 +17,11 @@ Civvy Street = 退役后的平民生活（英式军中口语）
 cl
 核心：书面缩写：厘升，一升的百分之一。欧洲的酒瓶与饮料
 标签上标容量常用它。只出现在标签与配方里。
-① The bottle says 75 cl.
-= 瓶上标的是七十五厘升。
+① The bottle says 75 cl and holds six glasses if you are careful.
+= 瓶上标着七十五厘升，小心倒能出六杯。
 cl = 厘升
-② Wine labels use cl on the front.
-= 葡萄酒标签正面标的是厘升。
+② Measure out 25 cl of stock and keep the rest hot.
+= 量出二十五厘升高汤，其余的继续温着。
 label = 标签
 构词：由表示百分之一的前缀与升的缩写拼成
 注意用法：只出现在标签与配方里。
@@ -361,11 +361,11 @@ clapboard
 核心：美式的墙板：一块块横搭、上缘薄下缘厚的木板，把
 外墙一层层盖住，新英格兰的白色木屋就是它。英式说
 weatherboard。不可数。
-① The house is white clapboard.
-= 那栋房子是白色木墙板的。
+① The house is white clapboard with green shutters on every window.
+= 那栋房子是白色木墙板，每扇窗都配绿色百叶。
 clapboard = 横搭墙板（美式）
-② Clapboard needs repainting often.
-= 那种墙板要常重刷。
+② Clapboard needs repainting often and traps water where it laps.
+= 那种墙板要常重刷，搭接处还存水。
 repaint = 重新刷漆
 构词：由表示拍打与板的两个词拼成
 注意用法：美式；英式说 weatherboard。
@@ -374,11 +374,11 @@ Clapham omnibus
 核心：只活在一个法律说法里：the man on the Clapham omnibus，指
 「普通有理性的人」—— 英国法官拿他当判断标准，问一件事在寻常人
 看来合不合理。Clapham 是伦敦一个普通区，omnibus 是旧时的公共马车。
-① The test is what the man on the Clapham omnibus would think.
-= 标准是寻常人会怎么看。
+① The test is what the man on the Clapham omnibus would think of it.
+= 标准是寻常人对这件事会怎么看。
 the man on the Clapham omnibus = 普通有理性的人（英国法律用语）
-② Judges still invoke the Clapham omnibus.
-= 法官至今还搬出那个说法。
+② Judges still invoke the Clapham omnibus, though nobody rides one.
+= 法官至今还搬出那个说法，尽管那种马车早没人坐了。
 invoke the Clapham omnibus = 搬出「寻常人」这个标准
 构词：伦敦地名加旧时的公共马车
 注意用法：只出现在那个固定说法里，不单用。
@@ -386,11 +386,11 @@ invoke the Clapham omnibus = 搬出「寻常人」这个标准
 claptrap
 核心：空话废话：听着煞有介事、其实没内容的说法，带明显
 的贬义。本指戏台上专为博掌声硬加的花腔。不可数。
-① The speech was pure claptrap.
-= 那篇讲话纯是空话。
+① The speech was pure claptrap and got a standing ovation.
+= 那篇讲话纯是空话，却赢得全场起立鼓掌。
 claptrap = 哗众取宠的空话
-② Don't believe that claptrap.
-= 那种废话别信。
+② Half the manifesto is claptrap and the costed half is worse.
+= 那份纲领一半是空话，算过账的另一半更糟。
 believe = 相信
 构词：由表示鼓掌与机关的两个词拼成
 注意语域：明显带贬义。
@@ -398,11 +398,11 @@ believe = 相信
 claque
 核心：捧场队：受雇在剧场里带头鼓掌喝彩的一伙人；引申指
 一个人身边只会捧的随从。法语来的词，带贬义。可数。
-① The singer hired a claque.
-= 那位歌手雇了捧场队。
+① The singer hired a claque and the reviews mentioned the applause.
+= 那位歌手雇了捧场队，乐评还专门提到了掌声。
 a claque = 受雇捧场的一伙人
-② A claque of aides surrounded him.
-= 一群只会捧的助手围着他。
+② A claque of aides surrounded him and repeated his own words back.
+= 一群只会捧的助手围着他，把他自己的话又说给他听。
 a claque of = 一群只会捧场的……
 构词：法语 claquer 鼓掌
 注意语域：带贬义。
@@ -411,11 +411,11 @@ claret
 核心：两支。一是英式对波尔多红葡萄酒的叫法：英国人几百
 年来专用这个词指那一带的红酒。二是那种深红偏紫的颜色。
 不可数。
-① He ordered a bottle of claret.
-= 他点了瓶波尔多红酒。
+① He ordered a bottle of claret and let it stand an hour first.
+= 他点了瓶波尔多红酒，先让它醒了一小时。
 claret = 波尔多红葡萄酒（英式）
-② The scarf is deep claret.
-= 那条围巾是深酒红色。
+② The scarf is deep claret and shows every speck of dust.
+= 那条围巾是深酒红色，一点灰都藏不住。
 claret = 酒红色
 构词：古法语 clairet 淡红色的酒
 注意用法：主要是英式说法。
