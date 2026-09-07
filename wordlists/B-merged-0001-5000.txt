@@ -29419,11 +29419,11 @@ aspergillosis
 核心：由曲霉菌引起的一类感染，最常侵犯肺。免疫力正常的人吸进
 孢子多半没事，免疫低下或本身有肺病的人才会发病，严重时
 菌丝会在肺腔里结成一个球。
-① Aspergillosis mainly attacks the lungs.
-= 曲霉病主要侵犯肺。
+① Aspergillosis mainly attacks the lungs of people already ill.
+= 曲霉病主要侵犯本来就病着的人的肺。
 attack the lungs = 侵犯肺部
-② Aspergillosis is hard to treat.
-= 曲霉病很难治。
+② Aspergillosis is hard to treat and the drugs run for months.
+= 曲霉病很难治，药要吃上几个月。
 注意语域：
 感染病学与呼吸科术语。
 
@@ -34089,11 +34089,11 @@ automated teller machine
 核心：自动柜员机的全称，日常一律说缩写。它替银行做了柜台的活：
 取现、存款、查余额、转账。第一台一九六七年装在伦敦，
 从此改变了人跟银行打交道的方式。
-① The automated teller machine was out of order.
-= 那台自动柜员机坏了。
+① The automated teller machine outside the post office swallowed her card on a Sunday.
+= 邮局外那台自动柜员机在周日把她的卡吞了。
 be out of order = 出故障
-② Automated teller machines appeared in 1967.
-= 自动柜员机一九六七年问世。
+② Automated teller machines appeared in 1967 and put a whole grade of clerk out of work.
+= 自动柜员机一九六七年问世，让整整一个等级的职员丢了饭碗。
 注意用法：
 日常几乎只用缩写，全称见于正式文本。
 
@@ -34326,11 +34326,11 @@ autorickshaw
 核心：三轮机动小车——车头一个轮、车后两个轮，顶上一个篷，
 南亚和东南亚城市里最常见的短途营运车。当地口语叫它 tuk-tuk，
 按引擎声起的名。
-① They took an autorickshaw to the station.
-= 他们坐三轮机动车去了车站。
+① They took an autorickshaw to the station and haggled for four minutes.
+= 他们坐三轮机动车去车站，讲了四分钟的价。
 take an autorickshaw = 乘三轮机动车
-② Autorickshaws weave through traffic.
-= 那种三轮车在车流里穿来穿去。
+② Autorickshaws weave through traffic and fit where a car cannot.
+= 那种三轮车在车流里穿来穿去，汽车过不去的地方它过得去。
 weave through traffic = 在车流中穿行
 注意语域：
 南亚与东南亚交通语境。
@@ -34610,10 +34610,10 @@ avast
 核心：航海用语，一句命令，意思是"停手、住手"——叫人停下正在做的
 动作，比如别再拉绳子了。今天几乎只出现在海盗故事和玩笑话里，
 真正的水手不这么说了。
-① Avast, belay that line!
-= 住手，把那根绳子系住！
-② Avast means stop in nautical speech.
-= 这个词在航海用语里就是「住手」。
+① Avast, belay that line before it takes your fingers off!
+= 住手，赶紧把那根绳子系住，别把手指绞掉了！
+② Every pirate in the film shouts avast at least once.
+= 片子里每个海盗都要喊上一句「住手」。
 注意语域：
 航海古语，今天只用于戏仿与故事里。
 
@@ -35885,11 +35885,11 @@ direct B-movies = 拍低成本片
 B-picture
 核心：B-movie 的旧说法，指双片连映时排第二位的那部低成本片。今天读
 旧影评才遇得到，现代文字一律说 B-movie。可数。
-① The studio churned out B-pictures.
-= 那家制片厂大批生产低成本片。
+① The studio churned out B-pictures at one a fortnight.
+= 那家制片厂两周一部地大批生产低成本片。
 a B-picture = 低成本影片（旧说法）
-② Critics then called it a B-picture.
-= 当时的影评管它叫低成本片。
+② The B-picture ran first and half the audience arrived during it.
+= 低成本片排在前面放，一半观众是在那时候进场的。
 call something a B-picture = 把某片归为低成本片
 构词：同 B-movie，只是 picture 是更旧的「影片」说法
 注意用法：偏旧，现代文字改用 B-movie。
@@ -35959,11 +35959,11 @@ Babbitt
 核心：庸俗守成的生意人：出自辛克莱·刘易斯一九二二年的同名小说，
 主人公是个满口生意经、随大流而不自知的中产。今天用它带讥讽。
 派生 Babbittry 指那种作风。可数。
-① He dismissed them as suburban Babbitts.
-= 他讥讽他们是郊区来的庸俗生意人。
+① He dismissed them as suburban Babbitts and was one himself.
+= 他讥讽他们是郊区来的庸俗生意人，自己也是一个。
 a Babbitt = 庸俗守成的生意人
-② The novel skewers small-town Babbittry.
-= 那部小说讽刺了小城的市侩作风。
+② The novel skewers small-town Babbittry without naming a single town.
+= 那部小说讽刺小城的市侩作风，一个镇名都没点。
 Babbittry = 市侩守成的作风
 构词：小说主人公的姓
 注意语域：讥讽，多见于书评与文化评论。
@@ -36829,11 +36829,11 @@ backgammon
 核心：一种两人棋盘游戏，历史极久。棋盘上二十四个尖角，
 双方各十五枚棋子，掷两枚骰子决定走几步，谁先把全部棋子
 移出盘外谁赢。运气与算路各占一半，所以耐玩。
-① They played backgammon after dinner.
-= 他们饭后下双陆棋。
+① They played backgammon after dinner and argued about a doubling cube.
+= 他们饭后下双陆棋，为一颗加倍骰争了起来。
 play backgammon = 下双陆棋
-② Backgammon mixes luck and skill.
-= 双陆棋既靠运气也靠算路。
+② Backgammon mixes luck and skill, which is why the good player still loses.
+= 双陆棋运气与算路各半，所以下得好的人照样会输。
 注意语域：
 棋类游戏名称。
 
@@ -38099,11 +38099,11 @@ Bahraini
 核心：巴林的、巴林人。阿拉伯半岛一带的国名多用 -i 收尾构成这类词，
 Iraqi、Kuwaiti、Omani、Yemeni、Saudi 都是同一种造法，认得这条规律
 就不必一个个背。可数。
-① He is a Bahraini citizen.
-= 他是巴林公民。
+① He is a Bahraini citizen and votes by post from London.
+= 他是巴林公民，在伦敦通过邮寄投票。
 a Bahraini = 巴林人
-② Bahraini law differs on that point.
-= 巴林法律在那一点上不一样。
+② Bahraini law differs on that point from the law next door.
+= 在那一点上，巴林法律跟隔壁国家不一样。
 Bahraini law = 巴林法律
 构词：国名加 -i
 注意构词：阿拉伯半岛国名一族都用 -i，不用 -ian。
@@ -38159,11 +38159,11 @@ motte-and-bailey = 土丘外庭式城堡
 Bailey bridge
 核心：可拆装的钢桁架便桥：预制成一段段，靠人力就能架起来，二战时
 为工兵设计，此后一直是抢险与军用的标准做法。得名于设计者的姓。可数。
-① Engineers threw a Bailey bridge across the gap.
-= 工兵在缺口上架了座钢便桥。
+① Engineers threw a Bailey bridge across the gap in nine hours.
+= 工兵九小时就在缺口上架起了一座钢便桥。
 a Bailey bridge = 可拆装的钢桁架便桥
-② The Bailey bridge carried traffic for two years.
-= 那座便桥通了两年车。
+② The Bailey bridge carried traffic for two years and was meant for six months.
+= 那座便桥本打算用半年，结果通了两年车。
 carry traffic = 通行车辆
 构词：设计者 Donald Bailey 的姓
 注意用法：多见于抗洪抢险与军事报道。
@@ -38343,11 +38343,11 @@ Bakewell tart
 核心：英式甜点：酥皮底上抹一层果酱，再铺杏仁蛋糕糊烤成，表面常浇
 糖霜。得名于德比郡的贝克韦尔镇。当地人坚持原版该叫 Bakewell pudding，
 那是另一种做法。可数。
-① She brought a Bakewell tart to the fete.
-= 她带了个杏仁果酱挞去义卖会。
+① She brought a Bakewell tart to the fete and it went in ten minutes.
+= 她带了个杏仁果酱挞去义卖会，十分钟就没了。
 a Bakewell tart = 杏仁果酱挞（英式）
-② Bakewell tarts keep for days.
-= 那种挞能放好几天。
+② Bakewell tarts keep for days and are better on the second one.
+= 杏仁果酱挞能放好几天，第二天还更好吃。
 Bakewell tarts = 杏仁果酱挞（复数）
 构词：德比郡的镇名加 tart
 注意别混：当地的 Bakewell pudding 是另一种做法，馅心不一样。
@@ -38402,10 +38402,10 @@ baksheesh
 可以是打赏、施舍，也可以是为办事而给的打点。
 词从波斯语来，经土耳其语与印地语进入英语，
 在旅行写作里很常见。
-① He handed over some baksheesh.
-= 他递过去一点小费。
-② Baksheesh oils the wheels there.
-= 在那儿打点能让事情顺当些。
+① He handed over some baksheesh and the gate opened at once.
+= 他递过去一点小钱，门立刻就开了。
+② Baksheesh oils the wheels there and nobody writes it down.
+= 在那儿打点能让事情顺当，也没人记账。
 注意语域：
 旅行与地区报道用语，语义从善意到灰色都有。
 
@@ -38427,10 +38427,10 @@ balafon
 核心：西非的一种木琴——一排调好音的木条，底下各挂一只葫芦
 作共鸣器，用软槌敲击。曼丁哥人的传统乐器，
 在西非音乐里地位很高。
-① The balafon carries the melody.
-= 巴拉风奏出主旋律。
-② Balafon players learn by ear.
-= 那种乐器靠听学。
+① The balafon carries the melody while the drums keep the pattern.
+= 鼓守着节奏型，主旋律由巴拉风奏出。
+② Balafon players learn by ear and start at about six years old.
+= 学巴拉风靠听，六岁上下就开始学。
 注意语域：
 乐器名称，西非曼丁哥传统。
 
@@ -38659,11 +38659,11 @@ Balkan cuisine = 巴尔干菜系
 Balkanization
 核心：割裂：Balkanize 对应的名词，说一个整体裂成互相敌视的小块这件事，
 或那种局面。常跟 of 连用。贬义，不可数。
-① The balkanization of the industry worries him.
-= 那个行业的割裂让他担心。
+① The balkanization of the industry worries him more than the takeover.
+= 比起被收购，那个行业的割裂更让他担心。
 the balkanization of = ……的割裂
-② Critics call it the balkanization of the internet.
-= 批评者管这叫互联网的割裂。
+② Critics call it the balkanization of the internet, one border at a time.
+= 批评者管这叫互联网的割裂，一次划出一道边界。
 balkanization = 分裂割据的局面
 构词：Balkanize 加 -ation
 注意拼写：英式也拼 Balkanisation，小写更常见。
@@ -39054,11 +39054,11 @@ Baltic amber = 波罗的海琥珀
 Baluchi
 核心：俾路支的、俾路支人，也指俾路支语。那个族群跨巴基斯坦、伊朗与
 阿富汗三国而居，所以这个词按族群算，不按国籍算。也拼 Balochi。
-① Baluchi is spoken on both sides of the border.
-= 边境两边都说俾路支语。
+① Baluchi is spoken on both sides of the border and taught on neither.
+= 边境两边都说俾路支语，两边都不教。
 Baluchi = 俾路支语
-② A Baluchi rug takes months to weave.
-= 一张俾路支地毯要织好几个月。
+② A Baluchi rug takes months to weave and outlasts the loom.
+= 一张俾路支地毯要织好几个月，比织机还耐用。
 a Baluchi rug = 俾路支地毯
 构词：族名加 -i
 注意用法：按族群算，不按国籍算；也拼 Balochi。
@@ -39291,10 +39291,10 @@ bandicoot
 核心：澳大利亚与新几内亚的一种有袋类小兽，尖吻、后腿长，
 夜里在土里刨虫吃。它的育儿袋开口朝后，免得刨土时进沙。
 澳式口语有个说法 poor as a bandicoot，指穷得叮当响。
-① A bandicoot dug up the lawn.
-= 一只袋狸把草坪刨了。
-② Bandicoots forage at night.
-= 袋狸夜里觅食。
+① A bandicoot dug up the lawn in neat conical holes.
+= 一只袋狸把草坪刨出一个个整齐的锥形坑。
+② Bandicoots forage at night and cross the road at the worst moment.
+= 袋狸夜里觅食，过马路总挑最不该过的时候。
 注意语域：
 澳新动物名称。
 
@@ -39427,11 +39427,11 @@ bang around = 乒乓乱响地折腾
 Bangla
 核心：孟加拉语的本名：说这门语言时，当地与近年的英语文字越来越多
 用这个词，取代旧说法 Bengali。只指语言，不指人。不可数。
-① The song is in Bangla.
-= 那首歌是孟加拉语的。
+① The song is in Bangla and the subtitles are in three languages.
+= 那首歌是孟加拉语的，字幕有三种语言。
 in Bangla = 用孟加拉语
-② Bangla and Assamese share a script.
-= 孟加拉语与阿萨姆语共用一套文字。
+② Bangla is now the usual name on official forms in Dhaka.
+= 在达卡，官方表格上如今用的都是这个语言名。
 Bangla = 孟加拉语
 构词：孟加拉语里那门语言的自称
 注意分工：只指语言；说人要用 Bengali 或 Bangladeshi。
@@ -39439,11 +39439,11 @@ Bangla = 孟加拉语
 Bangladeshi
 核心：孟加拉国的、孟加拉国人。跟 Bengali 分开：这个词指国籍，
 Bengali 指族群与语言，说印度西孟加拉邦的人也用 Bengali。可数。
-① She is a Bangladeshi doctor.
-= 她是孟加拉国医生。
+① She is a Bangladeshi doctor and trained in two countries.
+= 她是孟加拉国医生，在两个国家受过训练。
 a Bangladeshi = 孟加拉国人
-② Bangladeshi exports are mostly textiles.
-= 孟加拉国出口以纺织品为主。
+② Bangladeshi exports are mostly textiles and go by sea.
+= 孟加拉国出口以纺织品为主，走的是海运。
 Bangladeshi exports = 孟加拉国的出口
 构词：国名加 -i
 注意别混：这个词说国籍，Bengali 说族群与语言。
@@ -39650,10 +39650,10 @@ banoffee pie
 核心：英式甜点，饼底铺焦糖太妃、码上香蕉片、顶一层打发奶油。
 名字是 banana 和 toffee 拼起来的，一九七零年代由英格兰
 一家餐馆发明。也拼作 banoffi pie。
-① She made a banoffee pie.
-= 她做了个香蕉太妃派。
-② Banoffee pie layers toffee and banana.
-= 那种派是太妃和香蕉层层叠起来的。
+① She made a banoffee pie and the caramel took an hour on its own.
+= 她做了个香蕉太妃派，光熬焦糖就用了一小时。
+② Banoffee pie layers toffee and banana under a cap of cream.
+= 香蕉太妃派把太妃与香蕉层层叠起，上头盖一层奶油。
 注意拼写：
 banoffee 与 banoffi 两种写法都见，前者更通行。
 
@@ -39736,11 +39736,11 @@ Bantu
 核心：班图的：非洲中部与南部三百多种亲属语言的总称，也指说这些语言
 的各族群。作族群称谓时要当心：南非种族隔离时期官方拿它给黑人分类，
 所以那个用法带侮辱意味，今天说语言可以，说人要避开。
-① Swahili is a Bantu language.
-= 斯瓦希里语属班图语族。
+① Swahili is a Bantu language and borrows heavily from Arabic.
+= 斯瓦希里语属班图语族，从阿拉伯语借了大量词。
 a Bantu language = 班图语族的语言
-② Bantu languages share a noun-class system.
-= 班图语族共有一套名词分类。
+② Bantu languages share a noun-class system with up to twenty classes.
+= 班图语族共有一套名词分类，多的能有二十类。
 Bantu languages = 班图诸语言
 构词：这些语言里表示「人」的那个词
 注意语域：说语言中性，说人带侮辱意味，避开。
@@ -39958,11 +39958,11 @@ barbed = 带倒刺的；话里带刺的
 Barbadian
 核心：巴巴多斯的、巴巴多斯人。国名以 -os 收尾，派生时要去掉再加
 -ian，不是简单加后缀。当地人自称 Bajan，那是口语昵称。可数。
-① He is a Barbadian by birth.
-= 他生下来就是巴巴多斯人。
+① He is a Barbadian by birth and has not been back in thirty years.
+= 他生下来就是巴巴多斯人，三十年没回去过。
 a Barbadian = 巴巴多斯人
-② Barbadian rum is exported worldwide.
-= 巴巴多斯的朗姆酒销往各地。
+② Barbadian rum is exported worldwide and aged in the heat.
+= 巴巴多斯朗姆酒销往各地，是在暑热里陈的。
 Barbadian rum = 巴巴多斯朗姆酒
 构词：国名去掉词尾再加 -ian
 注意用法：当地口语自称 Bajan，正式文字用这一个。
