@@ -774,12 +774,12 @@ comprehend
 核心：两支。一是理解、领会，比 understand 正式，实际用
 起来多在否定句里；二是书面的「包含」：把某些东西涵盖
 在内。及物。
-① He could not comprehend the scale of it.
-= 他没法想象那个规模。
+① He could not comprehend the scale of it until he saw the map.
+= 看到那张地图之前，他没法想象那个规模。
 comprehend = 理解领会
 comprehend = 领会
-② The term comprehends both senses.
-= 那个词把两层意思都包含在内。
+② The term comprehends both senses and the statute defines neither.
+= 那个词把两层意思都包含在内，法条却一层都没界定。
 comprehend = 包含
 构词：拉丁语 comprehendere 抓在一起
 注意语域：比 understand 正式，常用于否定句。
@@ -1805,11 +1805,11 @@ concupiscence
 核心：情欲：神学与旧式道德文字里说的肉欲之心，带责备
 意味。形容词 concupiscent。今天几乎只在宗教与文学里
 读到。不可数。
-① The sermon warned against concupiscence.
-= 那篇布道告诫人戒除情欲。
+① The sermon warned against concupiscence for the best part of an hour.
+= 那篇布道告诫人戒除情欲，讲了将近一小时。
 concupiscence = 情欲
-② A concupiscent glance gave him away.
-= 一个色迷迷的眼神露了馅。
+② A concupiscent glance gave him away across the whole room.
+= 隔着整间屋子，一个色迷迷的眼神就把他露了馅。
 concupiscent = 起色心的
 构词：拉丁语 concupiscere 强烈渴望
 注意语域：宗教与文学用词。
@@ -2246,11 +2246,11 @@ Conestoga wagon
 核心：康内斯托加大篷车：车身两头翘起、覆白色帆布篷的重型货运马车，
 十八九世纪把货物运过阿巴拉契亚山。跟西部片里移民用的那种更小的
 prairie schooner 常被混为一谈。可数。
-① A Conestoga wagon could carry six tons.
-= 一辆康内斯托加大篷车能装六吨货。
+① A Conestoga wagon could carry six tons and needed six horses to do it.
+= 一辆康内斯托加大篷车能装六吨货，要六匹马才拉得动。
 a Conestoga wagon = 康内斯托加大篷车
-② Conestoga wagons hauled freight, not families.
-= 那种大篷车运的是货，不是拖家带口的移民。
+② Conestoga wagons hauled freight, not families, and rarely crossed the plains.
+= 那种大篷车运的是货不是移民，也很少跨越大平原。
 Conestoga wagons = 康内斯托加大篷车（复数）
 构词：宾夕法尼亚的康内斯托加河谷地名
 注意别混：运移民西迁的是更小的另一种篷车。
@@ -2258,11 +2258,11 @@ Conestoga wagons = 康内斯托加大篷车（复数）
 coney
 核心：兔子的旧称。今天主要留在毛皮行当里指兔皮，以及
 地名里。圣经译本里还用它指岩狸。偏旧，可数。
-① Coney fur trimmed the collar.
-= 领子上镶了兔毛。
+① Coney fur trimmed the collar and had been dyed to look like mink.
+= 领子上镶着兔毛，还染成了貂皮的样子。
 coney fur = 兔毛皮
-② Old bibles use coney for the rock hyrax.
-= 旧版圣经用这个词指岩狸。
+② The coneys are a feeble folk, yet they make their houses in the rocks.
+= 那种小兽力量微弱，却把窝安在岩石里。
 coney = 岩狸（旧版圣经里的用法）
 cony = 同一个词的另一种拼法
 构词：古法语 conin 兔
@@ -2770,11 +2770,11 @@ Confucian
 核心：儒家的、儒家学者。作定语最常见：Confucian ethics、
 Confucian tradition。英语里常拿它泛指重孝悌、重秩序、重教育的
 社会风气，那种用法比讲哲学本身更常读到。可数。
-① Confucian ethics stress duty to family.
-= 儒家伦理看重对家庭的责任。
+① Confucian ethics stress duty to family before duty to the state.
+= 儒家伦理把对家庭的责任摆在对国家之前。
 Confucian ethics = 儒家伦理
-② He is a Confucian by training.
-= 他受的是儒学的训练。
+② He is a Confucian by training and an engineer by trade.
+= 他受的是儒学的训练，做的却是工程师。
 a Confucian = 儒家学者
 构词：孔子的拉丁化名字 Confucius 加 -an
 注意用法：英语文字里常拿它泛指某种社会风气，不限于哲学。
@@ -2782,11 +2782,11 @@ a Confucian = 儒家学者
 Confucianism
 核心：儒家思想：以孔子为源头的一套伦理与政治学说，讲仁、礼与
 君臣父子的秩序。英语里既当哲学讲，也当一种社会传统讲。不可数。
-① Confucianism shaped the civil service exams.
-= 儒家思想塑造了科举制度。
+① Confucianism shaped the civil service exams for over a thousand years.
+= 一千多年里，科举制度都是儒家思想塑造的。
 Confucianism = 儒家思想
-② Scholars debate whether Confucianism is a religion.
-= 学界争论儒家算不算宗教。
+② Scholars debate whether Confucianism is a religion or a way of ordering life.
+= 学界争论儒家算宗教，还是一套安顿生活的秩序。
 whether Confucianism is a religion = 儒家算不算宗教
 构词：Confucian 加 -ism
 注意用法：算不算宗教是英语学界长期争论的问题。
@@ -2960,11 +2960,11 @@ Congolese
 核心：刚果的、刚果人。-ese 一族，单复数同形。要当心的是有两个刚果：
 刚果民主共和国与刚果共和国，同一个形容词都能用，正式文字里要写清
 是哪一个。
-① A Congolese band played all night.
-= 一支刚果乐队演了一整夜。
+① A Congolese band played all night and the guitars never stopped.
+= 一支刚果乐队演了一整夜，吉他一刻没停。
 a Congolese = 刚果人
-② Congolese rumba spread across Africa.
-= 刚果伦巴传遍了非洲。
+② Congolese rumba spread across Africa and came back changed.
+= 刚果伦巴传遍非洲，回来时已经变了样。
 Congolese rumba = 刚果伦巴
 构词：国名 Congo 加 -ese
 注意用法：两个国家共用这一个形容词，要写清是哪一个。
