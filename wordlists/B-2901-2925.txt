@@ -326,13 +326,13 @@ blusher
 核心：腮红，抹在颧骨上让脸色显得红润的化妆品。英式说 blusher，
 美式多说 blush——就是名词的那个"脸红"直接拿来当产品名。
 不可数居多。
-① She applied a little blusher.
-= 她扑了点腮红。
+① She applied a little blusher on the train with no mirror at all.
+= 她在火车上没镜子就扑了点腮红。
 apply blusher = 涂腮红
-② The blusher was too dark.
-= 那盘腮红颜色太深。
-③ A touch of blusher lifts the face.
-= 一点腮红能让气色好起来。
+② The blusher was too dark for her under the shop's lights.
+= 在店里的灯光下，那盘腮红对她来说太深了。
+③ A touch of blusher lifts the face after a bad night's sleep.
+= 没睡好的第二天，一点腮红能让气色提起来。
 a touch of = 一点点
 构词：blush 脸红 + -er
 注意地域：
@@ -362,14 +362,14 @@ blustery
 核心：形容天气，风大而且一阵一阵地刮——不是稳稳的风，是忽强忽
 弱、卷着人衣服的那种。多跟 day、weather、wind 搭配，
 是英国天气预报里的常用词。
-① It was a cold, blustery day.
-= 那是个又冷又刮大风的日子。
+① It was a cold, blustery day and two umbrellas turned inside out.
+= 那天又冷又刮大风，两把伞被吹翻了。
 a blustery day = 大风天
-② Blustery showers are forecast.
-= 预报有阵风阵雨。
+② Blustery showers are forecast for the coast until Thursday.
+= 预报说沿海一带到周四都有阵风阵雨。
 blustery showers = 阵风夹阵雨
-③ The walk was blustery but bright.
-= 那趟散步风大，天却晴。
+③ The walk was blustery but bright, and nobody wanted to turn back.
+= 那趟散步风大天却晴，没人想往回走。
 构词：bluster 猛吹 + -y
 注意用法：强调风一阵一阵，不是持续稳定。
 
@@ -377,14 +377,14 @@ bn
 核心：billion（十亿）的书面缩写，只写不读——念出来仍说 billion。
 几乎只出现在报表、新闻标题和财经稿里，用来省地方，
 常跟货币符号连写，如 $5bn。同一族的还有 m（million）和 tr（trillion）。
-① Profits hit $5bn.
-= 利润达到五十亿美元。
+① Profits hit $5bn for the first time in the company's history.
+= 利润有史以来头一次达到五十亿美元。
 $5bn = 五十亿美元
 跟数字和货币符号连写，中间不空格。
-② The deal is worth £2bn.
-= 那笔交易值二十亿英镑。
-③ Revenue rose to 3bn euros.
-= 收入涨到三十亿欧元。
+② The deal is worth £2bn and takes three years to complete.
+= 那笔交易值二十亿英镑，三年才交割完。
+③ Revenue rose to 3bn euros while costs rose faster still.
+= 收入涨到三十亿欧元，成本涨得更快。
 只写不读，念的时候要说全称。
 注意用法：正文里多写全称，标题和表格里才用缩写。
 同族缩写：
@@ -396,14 +396,14 @@ boa
 核心：两支，来路一样。一是蟒蛇类的无毒大蛇，靠缠绕把猎物勒到窒息，
 boa constrictor 是最有名的一种；二是女式的长毛围脖，羽毛或毛皮做的
 细长一条搭在肩上，因为形状像蛇缠着脖子而得名。可数。
-① A boa can crush its prey.
-= 蟒蛇能把猎物勒死。
+① A boa can crush its prey without breaking a single bone.
+= 蟒蛇勒死猎物，能一根骨头都不弄断。
 crush = 挤压致死
-② The boa constrictor is not venomous.
-= 王蛇没有毒。
+② The boa constrictor is not venomous and kills by tightening its grip.
+= 王蛇没有毒，靠一圈圈收紧把猎物杀死。
 boa constrictor = 王蛇（靠缠绕而非毒液）
-③ She wore a feather boa.
-= 她围了条羽毛围脖。
+③ She wore a feather boa that shed all over the taxi.
+= 她围了条羽毛围脖，出租车里掉了一地毛。
 a feather boa = 羽毛围脖
 构词：拉丁语 boa 大蛇
 注意用法：围脖那一支得名于形状像蛇缠颈。
@@ -412,14 +412,14 @@ boar
 核心：两支。一是野猪，獠牙外露、鬃毛硬，性子凶，欧洲的森林里
 至今有；二是未阉割的公猪，养猪场里跟母猪 sow 相对。
 注意它跟同音的 bore（钻孔；令人厌烦）拼写不同，别写混。可数。
-① A wild boar crossed the track.
-= 一头野猪穿过了小路。
+① A wild boar crossed the track twenty yards ahead of them.
+= 一头野猪在他们前方二十码处穿过小路。
 a wild boar = 野猪
-② Boars have sharp tusks.
-= 野猪有锋利的獠牙。
+② Boars have sharp tusks that keep growing all their lives.
+= 野猪的獠牙很锋利，而且一辈子都在长。
 tusk = 獠牙
-③ The farm keeps one boar.
-= 那个农场养着一头种公猪。
+③ The farm keeps one boar for forty sows.
+= 那个农场四十头母猪只养一头种公猪。
 配对词那一支：跟母猪相对。
 构词：古英语 bar
 配对词：
@@ -495,13 +495,13 @@ boarder
 核心：两支，都从 board 的"膳食"那一支来。一是寄宿生：住在学校里
 管吃管住的学生；二是租住并搭伙的房客，跟只租房不搭伙的 lodger
 分得开。可数。
-① The school has two hundred boarders.
-= 那所学校有两百名寄宿生。
-② She takes in boarders.
-= 她招收搭伙的房客。
+① The school has two hundred boarders and twice as many day pupils.
+= 那所学校有两百名寄宿生，走读生是这个数的两倍。
+② She takes in boarders and cooks two sittings every evening.
+= 她招收搭伙的房客，每晚做两轮饭。
 take in = 收留、接纳
-③ Boarders go home at half term.
-= 寄宿生期中假回家。
+③ Boarders go home at half term and the corridors go quiet.
+= 寄宿生期中假回家，楼道就静了下来。
 构词：board 膳食 + -er 人
 近义对照：
 boarder = 寄宿并搭伙的人
