@@ -62,14 +62,14 @@ Christian
 核心：基督徒；也作形容词说基督教的。另有一个引申的形容词义：说人
 厚道、有基督徒式的仁慈，说 that's very Christian of you，有时带
 一点调侃。可数。
-① She was brought up a Christian.
-= 她是当基督徒养大的。
+① She was brought up a Christian and stopped going at fourteen.
+= 她是当基督徒养大的，十四岁起就不去了。
 a Christian = 基督徒
-② The Christian calendar starts from his birth.
-= 基督教历法从他降生那年算起。
+② The Christian calendar counts the years from his birth, give or take four.
+= 基督教历法从他降生那年算起，误差约四年。
 the Christian calendar = 基督教历法
-③ That was very Christian of you.
-= 你这么做真厚道。
+③ That was very Christian of you, considering what he said last time.
+= 想想他上回说的话，你这么做真够厚道。
 very Christian of you = 你真厚道
 构词：Christ 加 -ian
 注意用法：第三个义是引申的褒奖，有时带调侃。
@@ -249,14 +249,14 @@ chroma
 色相并列，是描述颜色的三个维度之一。影视技术里的
 chromakey 就是靠单一色背景抠像，绿幕蓝幕用的就是它。
 不可数。
-① High chroma means a vivid colour.
-= 饱和度高就是颜色鲜。
+① High chroma means a vivid colour that survives a bad printer.
+= 饱和度高就是颜色鲜，鲜到烂打印机都印得出来。
 chroma = 色彩饱和度
-② Chroma is one of three dimensions.
-= 饱和度是三个维度之一。
+② Chroma is one of three dimensions, along with hue and lightness.
+= 饱和度是三个维度之一，另两个是色相与明度。
 dimension = 维度
-③ Chromakey replaces the green screen.
-= 抠像技术把绿幕替换掉。
+③ Chromakey drops out the green screen and puts the city behind her.
+= 色键抠像把绿幕去掉，在她背后换上城市。
 chromakey = 色键抠像
 构词：希腊语 khroma 颜色
 注意用法：色彩学与影视技术里的词。
@@ -265,14 +265,14 @@ chromatic
 核心：两支。一是音乐上的半音的：the chromatic scale 是
 十二个半音的音阶，跟只有七个音的自然音阶相对。二是光学
 与色彩上的有颜色的，chromatic aberration 是色差。
-① Play the chromatic scale.
-= 弹半音音阶。
+① Play the chromatic scale slowly until every semitone is even.
+= 半音音阶慢慢弹，弹到每个半音都均匀。
 the chromatic scale = 半音音阶
-② The passage is highly chromatic.
-= 那一段半音用得很多。
+② The passage is highly chromatic and never settles in one key.
+= 那一段半音用得极多，始终没落在一个调上。
 chromatic = 半音的
-③ The lens shows chromatic aberration.
-= 那个镜头有色差。
+③ The lens shows chromatic aberration as a purple edge on branches.
+= 那个镜头的色差在树枝边上显成一道紫边。
 chromatic aberration = 色差
 构词：希腊语 khroma 颜色
 注意用法：音乐义与光学义都常读到。
@@ -281,14 +281,14 @@ chromatography
 核心：色谱法：把混合物里的成分按在介质上移动快慢分开的
 分析方法，实验室里检测成分靠它。形容词
 chromatographic。不可数。
-① Chromatography separates the compounds.
-= 色谱法把那些化合物分开。
+① Chromatography separates the compounds by how fast each one travels.
+= 色谱法按各成分走得多快，把它们分开。
 chromatography = 色谱法
-② The sample went through chromatography.
-= 那份样品做了色谱分析。
+② The sample went through chromatography twice before anyone believed it.
+= 那份样品做了两遍色谱，才有人相信结果。
 go through = 经过
-③ Chromatographic methods vary.
-= 色谱方法有好几种。
+③ Chromatographic methods vary with the size of what you are chasing.
+= 要分的东西大小不同，色谱方法也不同。
 chromatographic = 色谱的
 构词：希腊语 khroma 颜色 加表示写的词根
 注意用法：名字来自最早用它分离色素。
@@ -335,14 +335,14 @@ chromium steel = 铬钢
 chromosome
 核心：染色体：细胞里由脱氧核糖核酸与蛋白盘绕成的那条
 结构，携带基因；人有二十三对。形容词 chromosomal。可数。
-① Humans have forty-six chromosomes.
-= 人有四十六条染色体。
+① Humans have forty-six chromosomes and lose count of them constantly.
+= 人有四十六条染色体，数起来却总数错。
 a chromosome = 染色体
-② The chromosome carries thousands of genes.
-= 一条染色体带着上千个基因。
+② The chromosome carries thousands of genes strung along one thread.
+= 一条染色体上串着上千个基因。
 carry = 携带
-③ A chromosomal fault caused it.
-= 那是染色体异常引起的。
+③ A chromosomal fault caused it, and neither parent carried the fault.
+= 那是染色体异常引起的，父母双方都不带这个异常。
 chromosomal = 染色体的
 构词：希腊语 khroma 颜色 加 soma 体，因易被染色
 注意用法：生物课本里的基本词。

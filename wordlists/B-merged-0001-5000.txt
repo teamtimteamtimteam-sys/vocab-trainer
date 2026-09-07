@@ -87580,14 +87580,14 @@ chowder
 核心：一种浓稠的汤：奶油底加海鲜或玉米与土豆，
 clam chowder 蛤蜊浓汤是新英格兰名菜。美式常用。
 chowderhead 是美式旧俚语的糊涂蛋。不可数。
-① Clam chowder is the classic.
-= 蛤蜊浓汤是最经典的。
+① Clam chowder is the classic and every harbour town claims the recipe.
+= 蛤蜊浓汤是最经典的，每个港口小镇都说方子是自家的。
 clam chowder = 蛤蜊浓汤
-② The chowder is thickened with potato.
-= 那锅汤用土豆增稠。
+② The chowder is thickened with potato rather than flour.
+= 那锅汤是用土豆增稠的，不是用面粉。
 thicken = 使变稠
-③ He called himself a chowderhead.
-= 他自称是个糊涂蛋。
+③ He called himself a chowderhead for locking the keys inside.
+= 把钥匙锁在里面之后，他骂自己是个糊涂蛋。
 a chowderhead = 糊涂蛋（美式旧俚语）
 构词：法语 chaudiere 大锅
 注意用法：美式常用，尤其新英格兰。
@@ -87668,14 +87668,14 @@ Christian
 核心：基督徒；也作形容词说基督教的。另有一个引申的形容词义：说人
 厚道、有基督徒式的仁慈，说 that's very Christian of you，有时带
 一点调侃。可数。
-① She was brought up a Christian.
-= 她是当基督徒养大的。
+① She was brought up a Christian and stopped going at fourteen.
+= 她是当基督徒养大的，十四岁起就不去了。
 a Christian = 基督徒
-② The Christian calendar starts from his birth.
-= 基督教历法从他降生那年算起。
+② The Christian calendar counts the years from his birth, give or take four.
+= 基督教历法从他降生那年算起，误差约四年。
 the Christian calendar = 基督教历法
-③ That was very Christian of you.
-= 你这么做真厚道。
+③ That was very Christian of you, considering what he said last time.
+= 想想他上回说的话，你这么做真够厚道。
 very Christian of you = 你真厚道
 构词：Christ 加 -ian
 注意用法：第三个义是引申的褒奖，有时带调侃。
@@ -87855,14 +87855,14 @@ chroma
 色相并列，是描述颜色的三个维度之一。影视技术里的
 chromakey 就是靠单一色背景抠像，绿幕蓝幕用的就是它。
 不可数。
-① High chroma means a vivid colour.
-= 饱和度高就是颜色鲜。
+① High chroma means a vivid colour that survives a bad printer.
+= 饱和度高就是颜色鲜，鲜到烂打印机都印得出来。
 chroma = 色彩饱和度
-② Chroma is one of three dimensions.
-= 饱和度是三个维度之一。
+② Chroma is one of three dimensions, along with hue and lightness.
+= 饱和度是三个维度之一，另两个是色相与明度。
 dimension = 维度
-③ Chromakey replaces the green screen.
-= 抠像技术把绿幕替换掉。
+③ Chromakey drops out the green screen and puts the city behind her.
+= 色键抠像把绿幕去掉，在她背后换上城市。
 chromakey = 色键抠像
 构词：希腊语 khroma 颜色
 注意用法：色彩学与影视技术里的词。
@@ -87871,14 +87871,14 @@ chromatic
 核心：两支。一是音乐上的半音的：the chromatic scale 是
 十二个半音的音阶，跟只有七个音的自然音阶相对。二是光学
 与色彩上的有颜色的，chromatic aberration 是色差。
-① Play the chromatic scale.
-= 弹半音音阶。
+① Play the chromatic scale slowly until every semitone is even.
+= 半音音阶慢慢弹，弹到每个半音都均匀。
 the chromatic scale = 半音音阶
-② The passage is highly chromatic.
-= 那一段半音用得很多。
+② The passage is highly chromatic and never settles in one key.
+= 那一段半音用得极多，始终没落在一个调上。
 chromatic = 半音的
-③ The lens shows chromatic aberration.
-= 那个镜头有色差。
+③ The lens shows chromatic aberration as a purple edge on branches.
+= 那个镜头的色差在树枝边上显成一道紫边。
 chromatic aberration = 色差
 构词：希腊语 khroma 颜色
 注意用法：音乐义与光学义都常读到。
@@ -87887,14 +87887,14 @@ chromatography
 核心：色谱法：把混合物里的成分按在介质上移动快慢分开的
 分析方法，实验室里检测成分靠它。形容词
 chromatographic。不可数。
-① Chromatography separates the compounds.
-= 色谱法把那些化合物分开。
+① Chromatography separates the compounds by how fast each one travels.
+= 色谱法按各成分走得多快，把它们分开。
 chromatography = 色谱法
-② The sample went through chromatography.
-= 那份样品做了色谱分析。
+② The sample went through chromatography twice before anyone believed it.
+= 那份样品做了两遍色谱，才有人相信结果。
 go through = 经过
-③ Chromatographic methods vary.
-= 色谱方法有好几种。
+③ Chromatographic methods vary with the size of what you are chasing.
+= 要分的东西大小不同，色谱方法也不同。
 chromatographic = 色谱的
 构词：希腊语 khroma 颜色 加表示写的词根
 注意用法：名字来自最早用它分离色素。
@@ -87941,14 +87941,14 @@ chromium steel = 铬钢
 chromosome
 核心：染色体：细胞里由脱氧核糖核酸与蛋白盘绕成的那条
 结构，携带基因；人有二十三对。形容词 chromosomal。可数。
-① Humans have forty-six chromosomes.
-= 人有四十六条染色体。
+① Humans have forty-six chromosomes and lose count of them constantly.
+= 人有四十六条染色体，数起来却总数错。
 a chromosome = 染色体
-② The chromosome carries thousands of genes.
-= 一条染色体带着上千个基因。
+② The chromosome carries thousands of genes strung along one thread.
+= 一条染色体上串着上千个基因。
 carry = 携带
-③ A chromosomal fault caused it.
-= 那是染色体异常引起的。
+③ A chromosomal fault caused it, and neither parent carried the fault.
+= 那是染色体异常引起的，父母双方都不带这个异常。
 chromosomal = 染色体的
 构词：希腊语 khroma 颜色 加 soma 体，因易被染色
 注意用法：生物课本里的基本词。
@@ -87980,14 +87980,14 @@ chronicle
 核心：编年史：按时间顺序把事情一件件记下来的那种记述，
 中世纪的史书多叫这个名字，很多报纸也用它做报名。动词是
 这样逐一记述。记的人是 chronicler。可数。
-① The chronicle covers two centuries.
-= 那部编年史记了两百年。
+① The chronicle covers two centuries and skips the years of the plague.
+= 那部编年史记了两百年，独独跳过瘟疫那几年。
 a chronicle = 编年史
-② The diary chronicles daily life.
-= 那本日记逐日记下日常。
+② The diary chronicles daily life down to the price of bread.
+= 那本日记逐日记下日常，连面包价钱都记。
 chronicle = 逐一记述
-③ A monk was the chronicler.
-= 记事的是一位修士。
+③ A monk was the chronicler and wrote himself into the last page.
+= 记事的是一位修士，他把自己写进了最后一页。
 a chronicler = 编年史作者
 构词：希腊语 khronika 按时间的记录
 注意用法：动词义在书评与传记里常读到。
@@ -87995,14 +87995,14 @@ a chronicler = 编年史作者
 chronograph
 核心：能计时的表：除了走时还带秒表功能，按一下开始计一段
 时间，表盘上多几个小盘。钟表语境里的词。可数。
-① The watch is a chronograph.
-= 那块表是计时表。
+① He wears a chronograph and has never once timed anything with it.
+= 他戴着一块计时表，却从没用它计过时。
 a chronograph = 带秒表功能的手表
-② He started the chronograph at the gun.
-= 发令枪一响他就按下计时。
+② He started the chronograph at the gun and forgot to stop it.
+= 发令枪一响他就按下计时，却忘了按停。
 start = 开始计时
-③ Chronographs have extra dials.
-= 计时表表盘上多几个小盘。
+③ Chronographs have extra dials that crowd the face at a glance.
+= 计时表多几个小盘，一眼看去表盘很挤。
 dial = 表盘
 构词：希腊语 khronos 时间 加表示写的词根
 注意用法：钟表语境里的词。
@@ -88031,14 +88031,14 @@ chronometer
 核心：走时极准的计时器：本指航海上用来定经度的那种精密
 钟，今天也用作钟表业的认证名号，通过特定精度检测的表才
 能这么标。可数。
-① The ship carried two chronometers.
-= 那艘船带了两台精密航海钟。
+① The ship carried two chronometers and compared them every noon.
+= 那艘船带了两台精密航海钟，每天正午对一次。
 a chronometer = 精密计时钟
-② Chronometers made longitude possible.
-= 有了精密钟才能定经度。
+② Chronometers made longitude possible and ended a century of guessing.
+= 有了精密钟才能定经度，一百年的瞎猜到此为止。
 longitude = 经度
-③ The watch is certified as a chronometer.
-= 那块表通过了精度认证。
+③ The watch is certified as a chronometer after fifteen days of testing.
+= 那块表经过十五天检测，通过了精度认证。
 be certified as = 被认证为
 构词：希腊语 khronos 时间 加表示测量的词根
 注意用法：钟表业里是个有标准的名号。
@@ -88047,14 +88047,14 @@ chrysalis
 核心：蛹：蝶蛾从幼虫变成成虫之间那个不动的硬壳阶段，
 也指那层壳。比喻义指某样东西还没成形、正在酝酿。复数
 chrysalises 或 chrysalides。可数。
-① The chrysalis hung from a twig.
-= 那个蛹挂在细枝上。
+① The chrysalis hung from a twig and swung without breaking loose.
+= 那个蛹挂在细枝上，晃来晃去也没掉。
 a chrysalis = 蛹
-② The butterfly left its chrysalis.
-= 蝴蝶从蛹里出来了。
+② The butterfly left its chrysalis and sat an hour drying its wings.
+= 蝴蝶从蛹里出来，坐了一小时晾翅膀。
 leave = 脱出
-③ The plan is still in chrysalis.
-= 那个计划还在酝酿。
+③ The plan is still in chrysalis and has no budget attached.
+= 那个计划还在酝酿，一分预算都没配。
 in chrysalis = 还没成形、在酝酿中
 构词：希腊语 khrusos 金，因有些蛹带金色
 注意别混：蛾多结茧 cocoon，蝶多是裸蛹。
@@ -88074,14 +88074,14 @@ show = 参展用的
 chub
 核心：欧洲淡水里的一种鲤科鱼：身子粗、鳞大，垂钓常见。
 单复数同形。可数。
-① He caught a chub in the weir.
-= 他在堰边钓到一条那种鱼。
+① He caught a chub below the weir on a piece of bread.
+= 他在堰下用一块面包钓到一条鲤科鱼。
 a chub = 鲤科的一种淡水鱼
-② Chub feed near the surface.
-= 那种鱼在近水面觅食。
+② Chub feed near the surface and scatter at a shadow.
+= 那种鱼在近水面觅食，一见影子就散。
 feed = 觅食
-③ Two chub were returned to the river.
-= 两条鱼被放回了河里。
+③ Two chub were returned to the river before the whistle.
+= 哨声之前，两条鱼被放回了河里。
 be returned = 被放回
 构词：来历不确定，中古英语已有
 注意用法：单复数同形。
@@ -88089,14 +88089,14 @@ be returned = 被放回
 chubby
 核心：胖乎乎的：多用来说小孩、婴儿或脸颊、手指，语气
 亲切，不像 fat 那样带贬。名词 chubbiness。
-① The baby has chubby cheeks.
-= 那个婴儿脸颊胖乎乎的。
+① The baby has chubby cheeks and a chin that has gone missing.
+= 那个婴儿脸颊胖乎乎的，下巴都找不着了。
 chubby = 胖乎乎的
-② His chubby fingers fumbled the button.
-= 他胖胖的手指没系好扣子。
+② His chubby fingers fumbled the top button for a full minute.
+= 他胖胖的手指跟最上面那颗扣子较劲了整整一分钟。
 fumble = 笨手笨脚地弄
-③ She lost her childhood chubbiness.
-= 她小时候那点胖后来没了。
+③ She lost her childhood chubbiness the summer she grew four inches.
+= 长高四英寸的那个夏天，她小时候那点胖就没了。
 chubbiness = 胖乎乎
 构词：由那种粗身子的鱼名转成形容词
 注意语域：语气亲切，不像 fat 带贬。
@@ -88136,14 +88136,14 @@ a chuck wagon = 随队炊事车（美式）
 chuckle
 核心：低声笑：自己乐出声但不放开，多是想到什么好笑的事。
 动词与名词同形。可数。
-① He chuckled at the memory.
-= 他想起那事低声笑了。
+① He chuckled at the memory and would not say what it was.
+= 他想起那事低声笑了，却不肯说是什么事。
 chuckle = 低声笑
-② A chuckle went round the table.
-= 一桌人都低声笑了起来。
+② A chuckle went round the table when the bill arrived.
+= 账单送上来时，一桌人都低声笑了。
 a chuckle = 一声低笑
-③ She chuckled to herself.
-= 她自己偷偷乐。
+③ She chuckled to herself and kept reading without looking up.
+= 她自己暗笑，头也没抬地接着读。
 chuckle to oneself = 自己暗笑
 构词：由表示咯咯笑的旧词加后缀
 注意别混：laugh 是放开笑，这个是含着的低笑。
@@ -88191,14 +88191,14 @@ chukka
 核心：两支。一是马球比赛的一节：一场分若干节，每节
 七分半钟，也拼 chukker。二是 chukka boot：踝高、两三对
 鞋眼的短靴，本是马球手穿的。可数。
-① The match has six chukkas.
-= 那场比赛有六节。
+① The match has six chukkas and the ponies are changed after each.
+= 那场比赛有六节，每节换一次马。
 a chukka = 马球的一节
-② He scored in the last chukka.
-= 他在最后一节得分。
+② He scored in the last chukka from the far side of the field.
+= 最后一节他从场地另一头打进一球。
 score = 得分
-③ She wore suede chukka boots.
-= 她穿着一双绒面短靴。
+③ She wore suede chukka boots with the laces left undone.
+= 她穿着绒面短靴，鞋带没系。
 chukka boots = 踝高短靴
 构词：印地语 chakkar 一圈
 注意拼写：马球那一支也写 chukker。
@@ -88371,14 +88371,14 @@ chute
 核心：两支。一是滑槽：让东西顺着滑下去的斜道，垃圾滑道
 与送衣滑道都是；游乐场的滑梯也叫它。二是降落伞那个词的
 口语截短。注意跟 shoot 同音。可数。
-① Drop it down the rubbish chute.
-= 从垃圾滑道扔下去。
+① Drop it down the rubbish chute and listen for it landing.
+= 从垃圾滑道扔下去，听它落底。
 a chute = 滑槽、滑道
-② Children queued for the chute.
-= 孩子们排队等滑梯。
+② Children queued for the chute and came down two at a time.
+= 孩子们排队等滑梯，两个两个地滑下来。
 queue for = 排队等
-③ His chute opened late.
-= 他的伞开得晚。
+③ His chute opened late and he landed short of the field.
+= 他的伞开得晚，落点没到那片场地。
 a chute = 降落伞（口语截短）
 构词：法语 chute 落下
 注意别混：跟 shoot 同音，拼法不同。
@@ -88387,14 +88387,14 @@ chutney
 核心：酸甜带辣的佐餐酱：果蔬加糖、醋与香料熬成，配咖喱、
 冷肉与奶酪吃。这个词经印度进英语，今天已是通用英语词。
 不可数。
-① Serve it with mango chutney.
-= 配芒果酸辣酱吃。
+① Serve it with mango chutney and a spoon of yoghurt.
+= 配芒果酸辣酱和一勺酸奶吃。
 mango chutney = 芒果酸辣酱
-② The chutney needs a month to mature.
-= 那种酱要放一个月才够味。
+② The chutney needs a month to mature and tastes raw before that.
+= 那种酱要放一个月才够味，在那之前是生的。
 mature = 熟成
-③ Chutney goes well with cheese.
-= 那种酱配奶酪很好。
+③ Chutney goes well with hard cheese and a plain cracker.
+= 酸辣酱配硬奶酪和原味饼干很好。
 go well with = 与……相配
 构词：印地语 chatni
 注意用法：今天已是通用英语词。
@@ -88403,14 +88403,14 @@ chutzpah
 核心：胆大脸厚：明明没道理还敢这么做、这么要求，说的是
 那种让人又气又佩服的放胆。意第绪语来的词，褒贬都有。
 不可数。
-① It took real chutzpah to ask.
-= 敢那么要，脸皮真够厚。
+① It took real chutzpah to ask for a raise in his first week.
+= 上班头一周就要求加薪，脸皮真够厚。
 chutzpah = 胆大脸厚
-② He has chutzpah, you have to admit.
-= 不得不承认，他挺敢的。
+② He has chutzpah, you have to admit, even when he is wrong.
+= 不得不承认，他就算错了也挺敢。
 admit = 承认
-③ The move showed chutzpah.
-= 那一手够放胆。
+③ The move showed chutzpah and won the room over anyway.
+= 那一手够放胆，居然还把全场说服了。
 show chutzpah = 表现出那种放胆
 构词：意第绪语 khutspe
 注意语域：褒贬都有，多带一点佩服。
@@ -88418,14 +88418,14 @@ show chutzpah = 表现出那种放胆
 ciabatta
 核心：意大利的一种白面包：面团含水量高，烤出来外壳脆、
 内部孔洞大，形状扁长像拖鞋，名字就是拖鞋。
-① Toast the ciabatta lightly.
-= 那种面包稍微烤一下。
+① Toast the ciabatta lightly and rub a cut clove of garlic over it.
+= 那种面包稍微烤一下，拿切开的蒜瓣在上面擦一擦。
 ciabatta = 意式拖鞋面包
-② Ciabatta has an open crumb.
-= 那种面包内部孔洞大。
+② Ciabatta has an open crumb, so butter drops straight through.
+= 拖鞋面包内部孔洞大，黄油会直接漏下去。
 crumb = 面包芯的组织
-③ They served soup with ciabatta.
-= 汤是配那种面包上的。
+③ They served the soup with ciabatta still warm from the oven.
+= 汤配的是刚出炉还温着的拖鞋面包。
 serve with = 配……上桌
 构词：意大利语 ciabatta 拖鞋
 注意用法：名字来自形状像拖鞋。
@@ -88446,14 +88446,14 @@ cicada
 核心：蝉：夏天在树上鸣叫的昆虫，雄虫靠腹部的发声器发出
 持续的高频叫声。有几种要在地下待十几年才出土。复数
 cicadas 或 cicadae。可数。
-① Cicadas drowned out the conversation.
-= 蝉声把说话声盖住了。
+① Cicadas drowned out the conversation on the terrace.
+= 露台上的说话声被蝉鸣盖住了。
 a cicada = 蝉
-② The cicadas start at dusk.
-= 蝉一到黄昏就开始叫。
+② The cicadas start at dusk and stop as suddenly as they began.
+= 蝉一到黄昏就开始叫，停的时候也一样突然。
 at dusk = 黄昏时
-③ Some cicadas emerge every seventeen years.
-= 有的蝉每十七年才出土一次。
+③ Some cicadas emerge every seventeen years and cover the pavements.
+= 有的蝉每十七年出土一次，出来时铺满人行道。
 emerge = 出土、现身
 构词：拉丁语 cicada
 注意用法：夏天的声音描写里常见。
@@ -88462,14 +88462,14 @@ cider
 核心：苹果做的饮料，但英美指的不是一回事：英式的是
 发酵过的苹果酒，含酒精；美式的是没发酵的鲜榨苹果汁，
 带酒精的要说 hard cider。不可数。
-① He drank a pint of cider.
-= 他喝了一品脱苹果酒。
+① He drank a pint of cider and could not stand up straight after.
+= 他喝了一品脱苹果酒，之后站都站不直。
 cider = 苹果酒（英式）
-② The stall sells hot cider.
-= 那个摊卖热苹果汁。
+② The stall sells hot cider with a cinnamon stick in each cup.
+= 那个摊卖热苹果汁，每杯插一根肉桂棒。
 cider = 鲜榨苹果汁（美式）
-③ Hard cider is the alcoholic kind.
-= 带酒精的那种叫另一个名。
+③ Ask for hard cider in America or you will get juice.
+= 在美国要点带酒精的那种，不然端上来的是果汁。
 hard cider = 苹果酒（美式说法）
 构词：希伯来语的烈酒一词，经希腊语与拉丁语进英语
 注意别混：英式含酒精，美式不含，点单时要问清。
