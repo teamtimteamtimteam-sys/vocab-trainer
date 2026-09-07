@@ -147,14 +147,14 @@ daemon
 介于神与人之间，苏格拉底说的那个内心声音就叫这个。二是计算机里的
 后台进程：不跟用户打交道、一直候着干活的程序。跟 demon 只差一个字母，
 那个是恶魔，这个不带恶意。可数。
-① Socrates spoke of an inner daemon.
-= 苏格拉底提到过一个内心的神灵。
+① Socrates spoke of an inner daemon that told him only what not to do.
+= 苏格拉底提到过一个内心的神灵，它只告诉他不该做什么。
 a daemon = 守护神灵
-② The print daemon runs in the background.
-= 打印后台程序在后台跑着。
+② The print daemon runs in the background and wakes when a job arrives.
+= 打印后台程序在后台跑着，有活来了才醒。
 a daemon = 后台进程（计算机）
-③ Kill the daemon and restart it.
-= 把那个后台进程停掉再起。
+③ Kill the daemon and restart it before you touch the config.
+= 改配置之前，先把那个后台进程停掉再起。
 kill a daemon = 结束一个后台进程
 构词：希腊语 daimon 神灵
 注意别混：demon 是恶魔，daemon 不带恶意。
@@ -162,14 +162,14 @@ kill a daemon = 结束一个后台进程
 daffodil
 核心：水仙：早春开的黄花，喇叭形花冠中间探出一截长筒。英国把它当
 春天与威尔士的标志，威尔士国庆日会别在襟上。也指那种鲜黄色。可数。
-① Daffodils came up all along the verge.
-= 路边一溜都冒出了水仙。
+① Daffodils came up all along the verge and were mown down in April.
+= 路边一溜都冒出了水仙，四月里被割草机推掉了。
 daffodils = 水仙（复数）
-② She wore a daffodil on St David's Day.
-= 圣戴维日那天她别了朵水仙。
+② She wore a daffodil on St David's Day and kept it until it browned.
+= 圣戴维日那天她别了朵水仙，一直戴到它枯黄。
 wear a daffodil = 别一朵水仙
-③ The walls are daffodil yellow.
-= 墙是水仙那种黄。
+③ The walls are daffodil yellow and make the room look sunny in March.
+= 墙是水仙黄，三月里也显得屋里有太阳。
 daffodil yellow = 水仙黄
 构词：中古英语 affodill，前面那个 d 是后来粘上去的
 注意用法：在英国它同时是春天与威尔士的象征。
@@ -190,14 +190,14 @@ daft
 核心：英式口语：傻的、荒唐的。语气轻，多半带笑意 —— 说 don't be daft
 是「别犯傻了」，不是真骂人。也说 daft about somebody，指迷得不行。
 名词 daftness。
-① Don't be daft.
-= 别犯傻了。
+① Don't be daft; the shop is three minutes away.
+= 别犯傻了，那家店走三分钟就到。
 don't be daft = 别犯傻（英式口语）
-② It was a daft thing to say.
-= 那话说得荒唐。
+② It was a daft thing to say in front of her mother.
+= 当着她母亲的面说那话，实在荒唐。
 a daft thing to say = 荒唐的话
-③ He is daft about her.
-= 他为她着了迷。
+③ He is daft about her and has rearranged his whole week.
+= 他为她着了迷，整个星期的安排都改了。
 be daft about = 迷恋某人
 构词：古英语 gedæfte 温顺的，后来转成「傻的」
 注意语域：英式，语气轻，美式多说 silly 或 crazy。
