@@ -65107,14 +65107,14 @@ bricklayer
 核心：砌砖工，按线砌墙、抹灰浆、把砖一层层垒上去的匠人。
 建筑行当里这是一门要学徒的手艺：砌得直不直、灰缝匀不匀，
 全看手上功夫。英式口语缩作 brickie。可数。
-① The bricklayer worked to a line.
-= 砌砖工照着水平线砌。
+① The bricklayer worked to a line stretched between two pegs.
+= 砌砖工照着两根木桩之间拉的线砌。
 work to a line = 照基准线施工
-② Bricklayers spread mortar evenly.
-= 砌砖工把灰浆抹匀。
+② Bricklayers spread mortar evenly and scrape off what squeezes out.
+= 砌砖工把灰浆抹匀，挤出来的随手刮掉。
 mortar = 砂浆
-③ He trained as a bricklayer.
-= 他学的是砌砖。
+③ He trained as a bricklayer and can still lay six hundred a day.
+= 他学的是砌砖，如今一天还能砌六百块。
 构词：brick 砖 + layer 铺放的人
 注意语域：英式口语缩作 brickie。
 
@@ -65122,13 +65122,13 @@ brickwork
 核心：建筑上砖砌的那部分——墙体、砖柱、砖砌的拱和线脚都算。
 说 the brickwork needs repointing 是指砖缝的灰要重新勾，
 这是老房子最常见的维修项。不可数。
-① The brickwork needs repointing.
-= 那些砖缝要重新勾灰。
+① The brickwork needs repointing where the frost has got into the joints.
+= 砖缝被霜冻钻了进去，那一片要重新勾灰。
 repoint = 重新勾灰缝
-② Victorian brickwork is very fine.
-= 维多利亚时代的砖工非常讲究。
-③ Damp had damaged the brickwork.
-= 潮气把砖砌部分弄坏了。
+② Victorian brickwork is very fine and uses bricks no longer made.
+= 维多利亚时代的砖工非常讲究，用的砖如今已不生产。
+③ Damp had damaged the brickwork all along the north wall.
+= 潮气把整面北墙的砖砌部分都弄坏了。
 damp = 潮气
 构词：brick 砖 + work 工事
 词族：
@@ -65139,14 +65139,14 @@ bridal
 是婚纱，bridal party 是伴娘伴郎那一队人，bridal suite 是
 酒店的婚房套间。注意它跟 bridle（马笼头）同音不同词，
 拼写只差一个字母。
-① She chose a simple bridal gown.
-= 她挑了件素净的婚纱。
+① She chose a simple bridal gown and spent the money on the food.
+= 她挑了件素净的婚纱，钱花在了菜上。
 bridal gown = 婚纱
-② The bridal party posed for photos.
-= 伴娘伴郎那一队人摆好了姿势。
+② The bridal party posed for photos in the rain for half an hour.
+= 伴娘伴郎那一队人在雨里摆了半小时姿势拍照。
 the bridal party = 婚礼上的伴娘伴郎
-③ They booked the bridal suite.
-= 他们订了婚房套间。
+③ They booked the bridal suite and spent the night arguing about the seating.
+= 他们订了婚房套间，一晚上都在争座次。
 bridal suite = 婚房套间
 构词：bride 新娘 + -al
 注意别混：
@@ -65192,12 +65192,12 @@ bridesmaid
 穿统一的礼服。有句常用的自嘲话：always a bridesmaid,
 never a bride——老是给人当配角，自己那份始终轮不到，
 今天也用来说评奖老是陪跑。可数。
-① She has four bridesmaids.
-= 她有四位伴娘。
-② The bridesmaids wore pale blue.
-= 伴娘们穿的是淡蓝色。
-③ Always a bridesmaid, never a bride.
-= 老当配角，从没轮到自己。
+① She has four bridesmaids and could not choose between the last two.
+= 她有四位伴娘，最后两位实在挑不出高下。
+② The bridesmaids wore pale blue and complained about it for years.
+= 伴娘们穿的是淡蓝色，为这个抱怨了好多年。
+③ Always a bridesmaid, never a bride: she had been shortlisted five times.
+= 老当配角，从没轮到自己——她进过五次短名单。
 用来自嘲总是陪跑。
 构词：bride 新娘 + maid 少女
 配对词：
@@ -65249,14 +65249,14 @@ bridgehead
 核心：军事术语，指渡河或登陆后在对岸抢占并守住的那一小块阵地
 ——后续部队要靠它源源过来，所以它是整场进攻的支点。
 引申指打进某个市场或领域的立足点。可数。
-① Troops secured a bridgehead.
-= 部队守住了桥头阵地。
+① Troops secured a bridgehead of about two hundred yards.
+= 部队守住了大约两百码宽的桥头阵地。
 secure = 守住
-② The bridgehead let reinforcements cross.
-= 桥头阵地让增援得以过河。
+② The bridgehead let reinforcements cross for three nights running.
+= 桥头阵地让增援连着三夜过了河。
 reinforcements = 增援部队
-③ The office is their bridgehead in Asia.
-= 那个办事处是他们在亚洲的立足点。
+③ The office is their bridgehead in Asia and employs eleven people.
+= 那个办事处是他们在亚洲的立足点，只有十一个人。
 引申义：打入某地的落脚点。
 构词：bridge 桥 + head 头
 注意用法：要害是"后续力量靠它跟进"。
@@ -65332,13 +65332,13 @@ briefcase
 briefcase 是硬壳、方正、开合在顶，图的是文件不折角。
 名字里的 brief 就是法律那一支的"案情摘要"——最早是律师
 装状纸的包。可数。
-① He snapped his briefcase shut.
-= 他啪地合上公文包。
+① He snapped his briefcase shut before anyone could look inside.
+= 没等谁看清里面，他啪地合上了公文包。
 snap shut = 啪地合上
-② The briefcase held only papers.
-= 那只公文包里只有文件。
-③ She carried a leather briefcase.
-= 她提着个皮质公文包。
+② The briefcase held only papers and one very old sandwich.
+= 那只公文包里只有文件和一个放了很久的三明治。
+③ She carried a leather briefcase that had softened at the corners.
+= 她提着个皮质公文包，边角已经磨软了。
 构词：brief 案情摘要 + case 箱包
 注意来历：最早是律师装状纸的包。
 
@@ -65347,14 +65347,14 @@ briefing
 发布前开的都算。它的特点是单向而简短：讲清楚要点，
 不是讨论。press briefing 是新闻发布会前的情况通报。
 可数。
-① The team attended a briefing.
-= 团队参加了情况说明会。
+① The team attended a briefing that lasted four minutes in all.
+= 团队参加了一场统共四分钟的情况说明会。
 attend = 参加
-② She gave a short briefing.
-= 她做了个简短的通报。
+② She gave a short briefing and took no questions at all.
+= 她做了个简短的通报，一个问题都不答。
 give a briefing = 做情况通报
-③ Reporters filed after the briefing.
-= 记者在通报会后发了稿。
+③ Reporters filed within ten minutes of the briefing ending.
+= 通报会一结束，记者十分钟内就发了稿。
 file = 发稿
 构词：brief 交代情况 + -ing
 反义词：
@@ -65365,14 +65365,14 @@ briefly
 停顿了一下。二是说话简短地，最常见的用法是放句首作插入语：
 Briefly, the plan failed 意思是"长话短说，计划失败了"，
 用来预告接下来只讲要点。
-① He paused briefly.
-= 他停顿了一下。
+① He paused briefly at the door and then went in without knocking.
+= 他在门口停了一下，没敲门就进去了。
 时间上的短暂。
-② She spoke briefly to the press.
-= 她对媒体简短说了几句。
+② She spoke briefly to the press and left by a side entrance.
+= 她对媒体简短说了几句，从侧门走了。
 speak briefly = 简短地说
-③ Briefly, we ran out of money.
-= 长话短说，我们没钱了。
+③ Briefly, we ran out of money and the rest follows from that.
+= 长话短说，我们没钱了，后面的事都由这一条来。
 放句首预告只讲要点。
 构词：brief 简短的 + -ly
 
@@ -65380,13 +65380,13 @@ brier
 核心：briar 的另一种拼法，两支意思相同：一是带刺的灌木、
 荆棘丛；二是做烟斗的石楠根。在美式文本里 brier 更常见，
 英式多写 briar。可数。
-① Briers grew along the fence.
-= 篱笆边长满了荆棘。
-② He pushed through the briers.
-= 他从荆棘丛里挤了过去。
+① Briers grew along the fence until the whole line was impassable.
+= 篱笆边荆棘越长越密，整条线都过不去人。
+② He pushed through the briers and lost his hat doing it.
+= 他从荆棘丛里挤了过去，帽子也挤丢了。
 push through = 挤过去
-③ The pipe is cut from brier.
-= 那只烟斗是石楠根做的。
+③ The pipe is cut from brier taken from a root a century old.
+= 那只烟斗是用一段百年老根的石楠木车的。
 构词：与 briar 同源
 注意拼写：
 brier = 荆棘；石楠根（美式常见）
@@ -65412,14 +65412,14 @@ brigade
 the fire brigade 是英式的消防队。口语里还拿它挖苦某一类人，
 说 the health food brigade 是"那帮吃健康食品的"，
 带调侃。可数。
-① The brigade advanced at dawn.
-= 那个旅在拂晓推进。
+① The brigade advanced at dawn along two roads at once.
+= 那个旅拂晓时沿两条路同时推进。
 advance = 推进
-② Call the fire brigade.
-= 快叫消防队。
+② Call the fire brigade before you try anything with a bucket.
+= 拿桶折腾之前先叫消防队。
 the fire brigade = 消防队（英式）
-③ The anti-car brigade objected.
-= 那帮反对开车的人提了意见。
+③ The anti-car brigade objected in a letter signed by nine people.
+= 那帮反对开车的人写了封九人联名的信提意见。
 the ... brigade = 那一帮人（口语，带调侃）
 构词：意大利语 brigata 一队人
 注意语用：说"那一帮人"时带调侃。
@@ -65428,14 +65428,14 @@ brigadier
 核心：英式军衔，准将，在上校之上、少将之下，通常指挥一个旅。
 美军对应的军衔叫 brigadier general，两者不能混着说。
 可数。
-① He was promoted to brigadier.
-= 他晋升为准将。
+① He was promoted to brigadier at forty-three and retired at forty-five.
+= 他四十三岁晋升准将，四十五岁就退了。
 be promoted to = 晋升为
-② A brigadier commands a brigade.
-= 准将指挥一个旅。
+② A brigadier commands a brigade of some five thousand men.
+= 准将指挥一个约五千人的旅。
 command = 指挥
-③ The brigadier addressed the troops.
-= 那位准将向部队讲话。
+③ The brigadier addressed the troops from the back of a lorry.
+= 那位准将站在卡车斗上向部队讲话。
 构词：brigade 旅 + -ier 人
 注意地域：
 brigadier = 准将（英式军衔）
@@ -65512,13 +65512,13 @@ brightly
 二是快活地，多修饰 smile、say、answer——she said brightly
 是"她轻快地答道"，那种语气里带着精神头，
 小说叙述里常用来跟沉闷的场面对照。
-① The lamp burned brightly.
-= 那盏灯亮堂堂地烧着。
+① The lamp burned brightly for six hours and then went out at once.
+= 那盏灯亮堂堂地烧了六小时，忽地就灭了。
 burn brightly = 亮堂堂地燃着
-② The room was brightly painted.
-= 那间屋子刷得很鲜亮。
-③ "No problem," she said brightly.
-= 「没问题」，她轻快地答道。
+② The room was brightly painted by someone who clearly liked yellow.
+= 那间屋子被一个显然偏爱黄色的人刷得很鲜亮。
+③ "No problem," she said brightly, and cancelled her own evening.
+= 「没问题」，她轻快地答道，转头取消了自己的晚上。
 say brightly = 轻快地说
 构词：bright 明亮的 + -ly
 
@@ -65527,13 +65527,13 @@ brightness
 天文里指天体的视亮度。它也承接"聪明"那一支，
 但说人的聪明更常用 intelligence，brightness 说人偏少见。
 不可数。
-① Turn down the brightness.
-= 把亮度调低。
+① Turn down the brightness and the battery lasts twice as long.
+= 把亮度调低，电池能撑一倍的时间。
 turn down = 调低
-② The brightness hurt his eyes.
-= 那亮度刺得他眼睛疼。
-③ Astronomers measure a star's brightness.
-= 天文学家测量恒星的亮度。
+② The brightness of the snow hurt his eyes for two days afterwards.
+= 雪的亮度刺得他眼睛疼了两天。
+③ Astronomers measure a star's brightness on a scale that runs backwards.
+= 天文学家用一套倒着排的标度测量恒星的亮度。
 measure = 测量
 构词：bright 明亮的 + -ness
 注意用法：说人的聪明多用 intelligence。
@@ -65543,14 +65543,14 @@ brill
 同一侧，肉质细，在欧洲是餐桌鱼。二是英式口语，
 brilliant 的缩略，意思是"棒极了"，语气轻快偏旧，
 八九十年代用得多。
-① They served grilled brill.
-= 他们上了一道烤菱鲆。
+① They served grilled brill with nothing on it but butter.
+= 他们上了一道烤菱鲆，除了黄油什么都没加。
 grilled = 烤的
-② Brill is a flatfish.
-= 菱鲆是一种比目鱼。
+② Brill is a flatfish that lies on the bottom with both eyes upward.
+= 菱鲆是一种比目鱼，趴在海底，两只眼睛都朝上。
 a flatfish = 比目鱼
-③ That is absolutely brill.
-= 那真是棒极了。
+③ That is absolutely brill, and you did it in one afternoon.
+= 那真是棒极了，你还是一下午干完的。
 brill = 棒极了（英式口语，brilliant 的缩略）
 构词：鱼名来历不明；口语义为 brilliant 的缩略
 注意语域：口语义偏旧，英式。
@@ -65560,13 +65560,13 @@ brilliance
 二是才华出众——才智、技艺、表演上的过人之处，
 说 a moment of brilliance 是"灵光一现的精彩"。
 不可数。
-① The brilliance of the sun dazzled him.
-= 阳光耀眼得让他睁不开眼。
+① The brilliance of the sun off the water dazzled him for a moment.
+= 阳光在水面上的耀眼反光让他一时睁不开眼。
 dazzle = 使目眩
-② Her brilliance was obvious early.
-= 她的才华很早就显出来了。
-③ It was a moment of pure brilliance.
-= 那是灵光一现的精彩。
+② Her brilliance was obvious early and won her few friends at school.
+= 她的才华很早就显出来了，在学校也没交下几个朋友。
+③ It was a moment of pure brilliance in an otherwise dull match.
+= 一场沉闷的比赛里，那是灵光一现的精彩。
 a moment of brilliance = 灵光一现的高光时刻
 构词：brilliant 灿烂的 + -ance
 词族：
@@ -65599,14 +65599,14 @@ brilliantly
 核心：副词，两支。一是耀眼地，brilliantly lit 是灯火通明。
 二是出色地，说表演、说完成得漂亮，brilliantly executed
 是执行得极漂亮。它带的是明确的赞赏，不用在中性描述上。
-① The hall was brilliantly lit.
-= 大厅里灯火通明。
+① The hall was brilliantly lit and far too warm for anyone in a coat.
+= 大厅里灯火通明，穿着外套的人都嫌太热。
 brilliantly lit = 灯火通明的
-② She played brilliantly.
-= 她演得极出色。
+② She played brilliantly for an hour and then made one careless move.
+= 她出色地下了一小时，接着走了一步随手棋。
 play brilliantly = 表现出色
-③ The plan was brilliantly executed.
-= 那个方案执行得漂亮。
+③ The plan was brilliantly executed and should never have been approved.
+= 那个方案执行得漂亮，本来就不该获批。
 execute = 执行
 构词：brilliant 出色的 + -ly
 
@@ -65640,13 +65640,13 @@ brimful
 更常用的是引申：满满都是某样东西或某种情绪，
 后面接 of。它偏文学一点，日常多说 full of 或 brimming with。
 也拼作 brimfull。
-① The jug was brimful of milk.
-= 那只壶盛满了牛奶。
+① The jug was brimful of milk and spilled at the very first step.
+= 那只壶盛满了牛奶，走第一步就洒了。
 brimful of = 满满都是
-② She was brimful of ideas.
-= 她满脑子都是主意。
-③ The town is brimful of history.
-= 那座城满是历史。
+② She was brimful of ideas and short of anyone to carry them out.
+= 她满脑子都是主意，缺的是能去落实的人。
+③ The town is brimful of history and has one small museum.
+= 那座城满是历史，却只有一间小博物馆。
 构词：brim 边沿 + full 满的
 注意语域：偏文学，日常多说 full of。
 
@@ -65656,13 +65656,13 @@ brimstone
 用来形容那种连吓带骂的布道，说 a fire and brimstone sermon
 就是"疾言厉色的讲道"。另有一支：brimstone butterfly 是
 钩粉蝶，因翅色硫黄而得名。不可数。
-① The preacher spoke of fire and brimstone.
-= 那位传道人讲的是烈火与硫磺。
+① The preacher spoke of fire and brimstone for fifty minutes without notes.
+= 那位传道人不看讲稿，讲了五十分钟的烈火与硫磺。
 fire and brimstone = 地狱般的责罚；疾言厉色的布道
-② Brimstone is the old word for sulphur.
-= 这个词是硫磺的旧称。
-③ A brimstone settled on the leaf.
-= 一只钩粉蝶落在叶子上。
+② Brimstone was mined near the volcano and carried out on mules.
+= 那种硫磺是在火山附近采的，靠骡子驮出来。
+③ A brimstone settled on the leaf and closed its wings out of sight.
+= 一只钩粉蝶落在叶子上，合起翅膀就看不见了。
 brimstone butterfly = 钩粉蝶（因翅色硫黄得名）
 构词：古英语 brynstan 燃烧的石头
 注意年代：化学上已由 sulphur 取代。
@@ -65672,13 +65672,13 @@ brindle
 不规则细纹。它跟 brindled 是同一件事的两种形式，
 说 a brindle greyhound 和 a brindled greyhound 都行。
 养犬和养牛的语境里最常见。
-① The pup is a brindle.
-= 那只小狗是虎斑色的。
-② A brindle coat is common in boxers.
-= 拳师犬常见这种虎斑毛色。
+① The pup is a brindle and the only one in the whole litter.
+= 那只小狗是虎斑色的，整窝里就它一只。
+② A brindle coat is common in boxers and rare in retrievers.
+= 拳师犬常见虎斑毛色，寻回犬里就少见。
 a brindle coat = 虎斑毛色
-③ Brindle patterns vary widely.
-= 虎斑的纹路差别很大。
+③ Brindle patterns vary widely even between two pups of one litter.
+= 虎斑纹路差别很大，同一窝的两只小狗都不一样。
 vary = 各不相同
 构词：中古英语 brended 带斑纹的
 词族：
@@ -65701,13 +65701,13 @@ brine
 核心：浓盐水。它有两处最常用：一是腌渍——把肉禽泡在盐水里
 过夜，肉能吸水又保水，烤出来不柴；二是泛指海水，
 偏文学。冬天路上撒的融雪剂也是盐水。不可数。
-① Soak the turkey in brine overnight.
-= 火鸡在盐水里泡一夜。
+① Soak the turkey in brine overnight and rinse it before roasting.
+= 火鸡在盐水里泡一夜，烤之前冲一下。
 soak in = 浸泡在
-② Olives are kept in brine.
-= 橄榄泡在盐水里保存。
-③ Brine is sprayed on icy roads.
-= 结冰的路上会喷盐水。
+② Olives are kept in brine and go soft the day they come out.
+= 橄榄泡在盐水里保存，一拿出来当天就发软。
+③ Brine is sprayed on the roads before the frost, not after it.
+= 盐水是在结霜之前喷到路上，不是之后。
 spray = 喷洒
 构词：古英语 brȳne
 词族：
