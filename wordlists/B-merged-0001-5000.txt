@@ -61613,13 +61613,13 @@ bourgeoisie
 核心：名词，指资产阶级这个阶层作为整体。马克思主义理论里它跟
 无产阶级 proletariat 成对：一个占有生产资料，一个只有劳动力。
 日常也用来泛指中产阶层，同样带评判色彩。作单数用，多带 the。
-① The bourgeoisie owns the means of production.
-= 资产阶级占有生产资料。
+① The bourgeoisie owns the means of production and sells the right to use them.
+= 资产阶级占有生产资料，卖的是使用它们的权利。
 the means of production = 生产资料
-② He wrote about the rising bourgeoisie.
-= 他写的是正在崛起的中产阶层。
-③ The bourgeoisie was the target.
-= 那个阶层成了矛头所指。
+② He wrote about the rising bourgeoisie of a single provincial town.
+= 他写的是一座外省小城里正在崛起的中产阶层。
+③ The bourgeoisie was the target of every speech that season.
+= 那一季的每一篇讲话，矛头都指向那个阶层。
 构词：bourgeois 中产的 + -ie
 配对词：
 proletariat = 无产阶级
@@ -61629,13 +61629,13 @@ bourse
 交易所都叫这个名。英语里用它多半是在特指欧陆市场，
 说本国交易所一般用 stock exchange。词源是布鲁日一家姓
 van der Beurze 的商人客栈，早期商人就在那儿交易。可数。
-① Shares fell on the Paris bourse.
-= 巴黎交易所股价下跌。
-② The bourse closed early.
-= 那家交易所提前收市。
+① Shares fell on the Paris bourse for six sessions running.
+= 巴黎交易所股价连跌六个交易日。
+② The bourse closed early on the eve of the holiday.
+= 假期前夕，那家交易所提前收市。
 close = 收市
-③ European bourses followed Wall Street.
-= 欧洲各交易所跟着华尔街走。
+③ European bourses followed Wall Street down within an hour of opening.
+= 欧洲各交易所开盘一小时内就跟着华尔街走低。
 构词：布鲁日商人 van der Beurze 的姓
 近义对照：
 bourse = 交易所（多指欧陆的）
@@ -61645,13 +61645,13 @@ bout
 核心：两支。一是"一阵、一场"，专指不好的事一阵一阵地来——
 a bout of flu 是害了一场流感，a drinking bout 是大喝了一场。
 重点在"来一阵又过去"。二是拳击和摔跤里的一场比赛。可数。
-① She had a bout of flu.
-= 她害了一场流感。
+① She had a bout of flu that kept her off work for a fortnight.
+= 她害了一场流感，两星期没上班。
 a bout of = 一阵、一场（多为不好的事）
-② A bout of heavy rain flooded the road.
-= 一阵大雨把路淹了。
-③ He fought his last bout in 1998.
-= 他一九九八年打了最后一场比赛。
+② A bout of heavy rain flooded the road and stranded two lorries.
+= 一阵大雨把路淹了，两辆卡车困在了那儿。
+③ He fought his last bout in 1998 and never went near a ring again.
+= 他一九九八年打了最后一场比赛，此后再没靠近过拳台。
 bout = 一场拳击或摔跤比赛
 构词：中古英语 bought 弯、回合
 注意用法：说病和坏事时用得最多。
@@ -61661,13 +61661,13 @@ boutique
 价钱不便宜。今天更常用的是它作定语的引申义："小而专的"，
 a boutique hotel 是设计感强的小型酒店，a boutique firm 是
 只做某个细分领域的小公司。可数。
-① She runs a boutique in the old town.
-= 她在老城区开了家精品店。
-② They stayed at a boutique hotel.
-= 他们住的是一家精品小酒店。
+① The boutique carries one of each size and nothing more.
+= 那家精品店每个尺码只进一件，多一件都没有。
+② They stayed at a boutique hotel with eleven rooms and no reception desk.
+= 他们住的是一家精品小酒店，十一间房，连前台都没有。
 a boutique hotel = 小而讲究的酒店
-③ It is a boutique investment firm.
-= 那是家做细分领域的小型投行。
+③ It is a boutique investment firm that handles only family businesses.
+= 那是家只做家族企业的小型投行。
 a boutique firm = 小而专的公司
 构词：法语 boutique 小店
 注意用法：作定语时指"小而专"，
@@ -61708,13 +61708,13 @@ bovine
 核心：两支。术语义是"牛的、牛科的"，兽医和农业文本里常用，
 bovine tuberculosis 是牛结核病。引申义是贬义的"迟钝的、
 呆滞的"——说人表情或反应像牛一样慢半拍，用来说真人是失礼的。
-① Bovine tuberculosis spread among herds.
-= 牛结核病在牛群里传开了。
+① Bovine tuberculosis spread among herds faster than the tests could keep up.
+= 牛结核病在牛群里传开，快过检测跟进的速度。
 bovine tuberculosis = 牛结核病
-② The vet studies bovine health.
-= 那位兽医研究牛只健康。
-③ He stared with a bovine expression.
-= 他一脸呆滞地盯着看。
+② The vet studies bovine health on forty farms across the county.
+= 那位兽医在全郡四十个农场研究牛只健康。
+③ He stared with a bovine expression while the question was repeated.
+= 问题重问了一遍，他还是一脸呆滞地盯着。
 引申义，贬义。
 构词：拉丁语 bos 牛
 注意语用：说人迟钝那一支是贬义，
@@ -61824,13 +61824,13 @@ bower
 爬满藤蔓的凉亭。它偏文学，多见于诗和旧小说，日常说凉亭
 用 gazebo 或 arbour。另有一支专门用法：园丁鸟为求偶搭的那个
 装饰过的求偶亭也叫 bower。可数。
-① They rested in a leafy bower.
-= 他们在绿荫凉棚里歇息。
+① They rested in a leafy bower out of the worst of the sun.
+= 他们在绿荫凉棚里避开最毒的日头歇息。
 a leafy bower = 枝叶交搭的凉棚
-② Roses covered the bower.
-= 玫瑰爬满了凉亭。
-③ The bowerbird decorates its bower.
-= 园丁鸟会装饰自己的求偶亭。
+② Roses covered the bower so thickly that the frame disappeared.
+= 玫瑰把凉亭盖得密不透风，架子都看不见了。
+③ The bowerbird decorates its bower with anything blue it can carry.
+= 园丁鸟拿得动的蓝色东西，都拿去装饰求偶亭。
 bowerbird = 园丁鸟
 构词：古英语 bur 住处
 注意语域：偏文学，日常说凉亭用别的词。
@@ -61900,14 +61900,14 @@ bowler
 核心：三支。最有名的是圆顶硬礼帽：黑色、圆顶、窄卷边，
 十九世纪伦敦的中产装束，今天成了英国的文化符号。
 另两支跟球有关：板球里的投球手，保龄球里的打球人。可数。
-① He wore a black bowler.
-= 他戴着一顶黑色圆顶礼帽。
+① He wore a black bowler to the office every day for forty years.
+= 他戴着黑色圆顶礼帽上班，戴了四十年。
 a bowler hat = 圆顶硬礼帽
-② The bowler took three wickets.
-= 那名投球手拿下三个三柱门。
+② The bowler took three wickets in eleven balls.
+= 那名投球手十一球拿下三个三柱门。
 板球那一支。
-③ The bowler rolled a strike.
-= 那名保龄球手打出了全中。
+③ The bowler rolled a strike with the last ball of the frame.
+= 那名保龄球手用本格最后一球打出全中。
 a strike = 全中
 构词：制帽商 Bowler 的姓
 注意来历：帽子得名于最早做它的那家制帽商。
@@ -61950,13 +61950,13 @@ bowman
 核心：两支，读音跟着 bow 的两个音走。读作跟 go 押韵时是弓箭手，
 用弓的那个人，多见于历史和奇幻文本。读作跟 now 押韵时是船头
 划桨的那名水手，赛艇和救生艇上的固定位置。复数 bowmen。可数。
-① The bowmen loosed their arrows.
-= 弓箭手放出了箭。
+① The bowmen loosed their arrows on a single shouted order.
+= 一声令下，弓箭手齐齐放箭。
 loose an arrow = 放箭
-② English bowmen won the battle.
-= 英格兰弓箭手赢下了那一仗。
-③ The bowman fended off the jetty.
-= 船头那名桨手把船撑离了码头。
+② English bowmen won the battle from behind a line of stakes.
+= 英格兰弓箭手守在一排木桩后头赢下了那一仗。
+③ The bowman fended off the jetty and the boat swung clear.
+= 船头那名桨手把船撑离码头，船身荡了开去。
 fend off = 撑开
 构词：bow 弓；船头 + man 人
 注意读音：弓箭手那一支读音同「弓」，
@@ -61966,14 +61966,14 @@ bowser
 核心：英式，指运送燃油或清水的槽罐车——机场给飞机加油的那种
 车、断水时开到街区送水的那种车都叫它。名字来自最早做加油设备
 的那家美国公司。可数。
-① A bowser refuelled the aircraft.
-= 一辆加油车给飞机加了油。
+① A bowser refuelled the aircraft while the passengers stayed aboard.
+= 一辆加油车给飞机加油，乘客一直留在机上。
 refuel = 加油
-② Water bowsers arrived in the village.
-= 送水车开进了村子。
+② Water bowsers arrived in the village on the fourth day without mains.
+= 断了四天自来水之后，送水车才开进村子。
 a water bowser = 供水槽车
-③ The bowser holds ten thousand litres.
-= 那辆槽车能装一万升。
+③ The bowser holds ten thousand litres and empties in an afternoon.
+= 那辆槽车能装一万升，一下午就放空了。
 litre = 升
 构词：美国 Bowser 公司的名字
 注意来历：来自最早做加油设备的那家公司。
@@ -61982,14 +61982,14 @@ bowsprit
 核心：从船头斜着向前伸出去的那根桅杆，用来把前帆往前撑开、
 多挂几张帆，也帮着稳住主桅的拉索。老式帆船的标志性部件。
 可数。
-① Spray soaked the bowsprit.
-= 浪花打湿了船首斜桅。
+① Spray soaked the bowsprit every time the bow came down.
+= 船头每落一次，浪花就把斜桅浇透一次。
 spray = 飞溅的浪花
-② The bowsprit extends the headsails.
-= 斜桅把前帆撑得更靠前。
+② The bowsprit extends the headsails and gives the ship a longer reach.
+= 斜桅把前帆撑得更靠前，也让船受风更远。
 extend = 伸展
-③ He edged out along the bowsprit.
-= 他沿着斜桅小心挪了出去。
+③ He edged out along the bowsprit with a rope round his waist.
+= 他腰上系着绳，沿着斜桅小心挪了出去。
 edge out = 小心地挪出去
 构词：bow 船头 + sprit 撑杆
 注意用法：老式帆船的标志性部件。
@@ -61998,14 +61998,14 @@ bowstring
 核心：弓上那根绷紧的弦，扣住箭尾往后拉，一松手把箭弹出去。
 传统弓的弦多用亚麻或动物筋，现代用合成纤维。它绷得极紧，
 所以英语里 taut as a bowstring 是形容极度紧绷。可数。
-① He drew back the bowstring.
-= 他把弓弦拉了开。
+① He drew back the bowstring to his ear and held it there.
+= 他把弓弦拉到耳边，停住不放。
 draw back = 拉开
-② The bowstring snapped.
-= 弓弦崩断了。
+② The bowstring snapped in the cold and cut his cheek.
+= 天冷，弓弦崩断，划破了他的脸颊。
 snap = 绷断
-③ Her nerves were taut as a bowstring.
-= 她的神经绷得像弓弦。
+③ Her nerves were taut as a bowstring for the whole of the last act.
+= 整个最后一幕，她的神经绷得像弓弦。
 taut as a bowstring = 绷得极紧
 构词：bow 弓 + string 弦
 注意用法：常拿来比喻神经绷紧。
@@ -62081,13 +62081,13 @@ box office
 指票房收入和卖座能力，说 a box office hit 是卖座片，
 box office poison 是"谁演谁赔"。作定语时写成 box-office。
 可数。
-① Tickets are on sale at the box office.
-= 票在售票处发售。
-② The film was a box office hit.
-= 那部电影票房大卖。
+① Tickets are on sale at the box office from ten and online from midnight.
+= 票十点起在售票处发售，网上从午夜开卖。
+② The film was a box office hit in every country but its own.
+= 那部电影除了本国，在哪儿都票房大卖。
 a box office hit = 卖座片
-③ It took millions at the box office.
-= 它票房收了几百万。
+③ It took millions at the box office and lost money all the same.
+= 它票房收了几百万，照样赔钱。
 take at the box office = 收得票房
 构词：box 包厢 + office 处所
 注意来历：原指卖包厢票的窗口。
@@ -62097,13 +62097,13 @@ boxcar
 用来装怕淋雨的货。它在美国文化里有额外的分量：大萧条时期
 扒火车的流浪汉就藏在这种车厢里。英式叫 covered wagon 或 van。
 可数。
-① The boxcar was loaded with grain.
-= 那节棚车装满了粮食。
+① The boxcar was loaded with grain and sealed at the elevator.
+= 那节棚车在粮仓装满粮食后封了车。
 be loaded with = 装满
-② He rode a boxcar across the state.
-= 他扒着棚车穿过了那个州。
-③ Boxcars have sliding doors.
-= 棚车侧面是推拉门。
+② He rode a boxcar across the state with nine other men.
+= 他和另外九个人扒着棚车穿过了那个州。
+③ Boxcars have sliding doors wide enough to run a barrow through.
+= 棚车的推拉门宽得能推着手推车进去。
 sliding door = 推拉门
 构词：box 箱 + car 车厢
 注意地域：美式说法，英式叫 covered wagon。
@@ -62112,13 +62112,13 @@ boxed
 核心：形容词，两支。一是盒装的——boxed set 是成套装在一个
 盒子里卖的书或唱片，这个搭配最常用。二是被围困住的，
 boxed in 指被堵得动弹不得，说车、说人的处境都行。
-① He bought the boxed set.
-= 他买了那套盒装。
+① He bought the boxed set for one recording and kept all nine.
+= 他为其中一张录音买了整套盒装，九张全留着。
 a boxed set = 盒装套装
-② The gift came boxed.
-= 那份礼物是装盒的。
-③ She felt boxed in by the rules.
-= 她觉得被那些规矩困住了。
+② The gift came boxed in tissue with a card inside the lid.
+= 那份礼物用薄棉纸装盒，盒盖里还夹着卡片。
+③ She felt boxed in by rules that had been written for a different job.
+= 她觉得被一套为另一种岗位写的规矩困住了。
 boxed in = 被围住、动弹不得
 构词：box 装盒；围住 + -ed
 
@@ -62144,13 +62144,13 @@ boxful
 核心：一盒装得下的量。它是那类"容器加 -ful"的构词，
 跟 handful、spoonful、mouthful 一个路子：说的是分量不是容器。
 复数 boxfuls。可数。
-① She brought a boxful of photos.
-= 她带来了满满一盒照片。
+① She brought a boxful of photos and could not name half the faces.
+= 她带来满满一盒照片，一半的人脸都叫不出名字。
 a boxful of = 一盒的量
-② Two boxfuls went to the charity shop.
-= 两盒东西送去了慈善商店。
-③ He filled a boxful of tools.
-= 他装了一盒工具。
+② Two boxfuls went to the charity shop and one came quietly back.
+= 两盒东西送去了慈善商店，有一盒又悄悄拿了回来。
+③ He filled a boxful of tools and left the heavy ones behind.
+= 他装了一盒工具，重的都没带。
 构词：box 盒 + -ful 满一……的量
 词族：
 handful = 一把的量
@@ -62161,13 +62161,13 @@ boxing
 按击中点数或击倒判胜负。二是英国的节礼日 Boxing Day——
 圣诞节次日，名字跟拳击毫无关系，来自旧时主人在这天把装了
 赏钱的盒子给仆人和送货的人。不可数。
-① He took up boxing at sixteen.
-= 他十六岁开始练拳击。
+① He took up boxing at sixteen to stop others starting fights with him.
+= 他十六岁开始练拳击，为的是让人别再来惹他。
 take up = 开始从事
-② Boxing is judged on points.
-= 拳击按点数判胜负。
-③ The shops reopen on Boxing Day.
-= 商店在节礼日重新开门。
+② Boxing is judged on points unless somebody stops the fight.
+= 拳击按点数判胜负，除非有人叫停。
+③ The shops reopen on Boxing Day and the queues start before dawn.
+= 商店在节礼日重新开门，天没亮就开始排队。
 Boxing Day = 节礼日（圣诞次日）
 构词：box 打拳 + -ing
 注意别混：Boxing Day 跟拳击无关，
@@ -62177,13 +62177,13 @@ boxwood
 核心：黄杨木，一种极致密坚硬的木材，纹理细到几乎看不出来，
 所以雕刻、做木刻版画和乐器零件都用它。英语里 box 这个词
 本身就来自这种树——最早的盒子是拿它做的。不可数。
-① The carving is boxwood.
-= 那件雕刻是黄杨木的。
-② Boxwood is very dense.
-= 黄杨木质地极致密。
+① The carving is boxwood and shows almost no grain at all.
+= 那件雕刻是黄杨木的，几乎看不出木纹。
+② Boxwood is very dense and sinks in water.
+= 黄杨木质地极致密，放进水里会沉。
 dense = 致密的
-③ Engravers preferred boxwood blocks.
-= 版画师偏爱黄杨木版。
+③ Engravers preferred boxwood blocks because a fine line survived the press.
+= 版画师偏爱黄杨木版，因为细线经得住印刷机压。
 engraver = 版画师
 构词：box 黄杨 + wood 木
 注意来历：box 这个词本身就来自这种树。
@@ -62193,13 +62193,13 @@ boxy
 不收腰的那种剪裁；说车和建筑是线条硬、没什么弧度。
 它可褒可贬：时装里说 a boxy jacket 是中性甚至时髦，
 说车 boxy 多半带点嫌它笨的意思。
-① She wore a boxy jacket.
-= 她穿了件方版外套。
+① She wore a boxy jacket that hung straight from the shoulder.
+= 她穿了件方版外套，从肩上直直垂下来。
 a boxy jacket = 直筒方版外套
-② The old van looks boxy.
-= 那辆旧面包车看着方头方脑。
-③ The building is plain and boxy.
-= 那栋楼素净而方正。
+② The old van looks boxy next to anything built this century.
+= 那辆旧面包车跟本世纪的车摆在一起，显得方头方脑。
+③ The building is plain and boxy and cost half what the design would have.
+= 那栋楼素净方正，造价只有原设计的一半。
 构词：box 盒子 + -y
 注意语用：说衣服偏中性，
 说车和楼多半带点嫌笨的意思。
@@ -62250,14 +62250,14 @@ boy band
 面向的多是青少年听众，成员通常是被选拔和包装出来的，
 不是自己组队玩起来的乐队——这是它跟 band 最要紧的分别。
 可数。
-① The boy band sold out the arena.
-= 那个男团把场馆票卖光了。
+① The boy band sold out the arena in eleven minutes.
+= 那个男团十一分钟就把场馆票卖光了。
 sell out = 卖光
-② Boy bands are assembled by producers.
-= 男团是制作人组建出来的。
+② Boy bands are assembled by producers who audition thousands.
+= 男团是制作人海选上千人组建出来的。
 assemble = 组建
-③ The band split after four albums.
-= 那个组合出了四张专辑后解散。
+③ The boy band split after four albums and two of them went solo.
+= 那个男团出了四张专辑后解散，两人单飞。
 split = 解散
 构词：boy 男孩 + band 乐队
 注意别混：
@@ -62270,13 +62270,13 @@ boycott
 爱尔兰的土地代理人 Charles Boycott 苛待佃户，
 全乡的人联合起来不给他干活、不卖东西给他，他的姓就成了这个词。
 名词动词同形。
-① They boycotted the election.
-= 他们抵制了那场选举。
-② The union called for a boycott.
-= 工会号召抵制。
+① They boycotted the election and turnout fell below a third.
+= 他们抵制了那场选举，投票率跌破三分之一。
+② The union called for a boycott of one supplier and named it.
+= 工会号召抵制一家供应商，还点了名。
 call for a boycott = 号召抵制
-③ Shoppers boycotted the brand.
-= 消费者抵制了那个牌子。
+③ Shoppers boycotted the brand for a month and it changed the packaging.
+= 消费者抵制那个牌子一个月，它就改了包装。
 构词：爱尔兰土地代理人 Charles Boycott 的姓
 近义对照：
 boycott = 抵制（拒绝来往，集体施压）

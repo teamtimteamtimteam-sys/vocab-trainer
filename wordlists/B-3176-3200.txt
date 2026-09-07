@@ -223,13 +223,13 @@ bourgeoisie
 核心：名词，指资产阶级这个阶层作为整体。马克思主义理论里它跟
 无产阶级 proletariat 成对：一个占有生产资料，一个只有劳动力。
 日常也用来泛指中产阶层，同样带评判色彩。作单数用，多带 the。
-① The bourgeoisie owns the means of production.
-= 资产阶级占有生产资料。
+① The bourgeoisie owns the means of production and sells the right to use them.
+= 资产阶级占有生产资料，卖的是使用它们的权利。
 the means of production = 生产资料
-② He wrote about the rising bourgeoisie.
-= 他写的是正在崛起的中产阶层。
-③ The bourgeoisie was the target.
-= 那个阶层成了矛头所指。
+② He wrote about the rising bourgeoisie of a single provincial town.
+= 他写的是一座外省小城里正在崛起的中产阶层。
+③ The bourgeoisie was the target of every speech that season.
+= 那一季的每一篇讲话，矛头都指向那个阶层。
 构词：bourgeois 中产的 + -ie
 配对词：
 proletariat = 无产阶级
@@ -239,13 +239,13 @@ bourse
 交易所都叫这个名。英语里用它多半是在特指欧陆市场，
 说本国交易所一般用 stock exchange。词源是布鲁日一家姓
 van der Beurze 的商人客栈，早期商人就在那儿交易。可数。
-① Shares fell on the Paris bourse.
-= 巴黎交易所股价下跌。
-② The bourse closed early.
-= 那家交易所提前收市。
+① Shares fell on the Paris bourse for six sessions running.
+= 巴黎交易所股价连跌六个交易日。
+② The bourse closed early on the eve of the holiday.
+= 假期前夕，那家交易所提前收市。
 close = 收市
-③ European bourses followed Wall Street.
-= 欧洲各交易所跟着华尔街走。
+③ European bourses followed Wall Street down within an hour of opening.
+= 欧洲各交易所开盘一小时内就跟着华尔街走低。
 构词：布鲁日商人 van der Beurze 的姓
 近义对照：
 bourse = 交易所（多指欧陆的）
@@ -255,13 +255,13 @@ bout
 核心：两支。一是"一阵、一场"，专指不好的事一阵一阵地来——
 a bout of flu 是害了一场流感，a drinking bout 是大喝了一场。
 重点在"来一阵又过去"。二是拳击和摔跤里的一场比赛。可数。
-① She had a bout of flu.
-= 她害了一场流感。
+① She had a bout of flu that kept her off work for a fortnight.
+= 她害了一场流感，两星期没上班。
 a bout of = 一阵、一场（多为不好的事）
-② A bout of heavy rain flooded the road.
-= 一阵大雨把路淹了。
-③ He fought his last bout in 1998.
-= 他一九九八年打了最后一场比赛。
+② A bout of heavy rain flooded the road and stranded two lorries.
+= 一阵大雨把路淹了，两辆卡车困在了那儿。
+③ He fought his last bout in 1998 and never went near a ring again.
+= 他一九九八年打了最后一场比赛，此后再没靠近过拳台。
 bout = 一场拳击或摔跤比赛
 构词：中古英语 bought 弯、回合
 注意用法：说病和坏事时用得最多。
@@ -271,13 +271,13 @@ boutique
 价钱不便宜。今天更常用的是它作定语的引申义："小而专的"，
 a boutique hotel 是设计感强的小型酒店，a boutique firm 是
 只做某个细分领域的小公司。可数。
-① She runs a boutique in the old town.
-= 她在老城区开了家精品店。
-② They stayed at a boutique hotel.
-= 他们住的是一家精品小酒店。
+① The boutique carries one of each size and nothing more.
+= 那家精品店每个尺码只进一件，多一件都没有。
+② They stayed at a boutique hotel with eleven rooms and no reception desk.
+= 他们住的是一家精品小酒店，十一间房，连前台都没有。
 a boutique hotel = 小而讲究的酒店
-③ It is a boutique investment firm.
-= 那是家做细分领域的小型投行。
+③ It is a boutique investment firm that handles only family businesses.
+= 那是家只做家族企业的小型投行。
 a boutique firm = 小而专的公司
 构词：法语 boutique 小店
 注意用法：作定语时指"小而专"，
@@ -318,13 +318,13 @@ bovine
 核心：两支。术语义是"牛的、牛科的"，兽医和农业文本里常用，
 bovine tuberculosis 是牛结核病。引申义是贬义的"迟钝的、
 呆滞的"——说人表情或反应像牛一样慢半拍，用来说真人是失礼的。
-① Bovine tuberculosis spread among herds.
-= 牛结核病在牛群里传开了。
+① Bovine tuberculosis spread among herds faster than the tests could keep up.
+= 牛结核病在牛群里传开，快过检测跟进的速度。
 bovine tuberculosis = 牛结核病
-② The vet studies bovine health.
-= 那位兽医研究牛只健康。
-③ He stared with a bovine expression.
-= 他一脸呆滞地盯着看。
+② The vet studies bovine health on forty farms across the county.
+= 那位兽医在全郡四十个农场研究牛只健康。
+③ He stared with a bovine expression while the question was repeated.
+= 问题重问了一遍，他还是一脸呆滞地盯着。
 引申义，贬义。
 构词：拉丁语 bos 牛
 注意语用：说人迟钝那一支是贬义，
@@ -434,13 +434,13 @@ bower
 爬满藤蔓的凉亭。它偏文学，多见于诗和旧小说，日常说凉亭
 用 gazebo 或 arbour。另有一支专门用法：园丁鸟为求偶搭的那个
 装饰过的求偶亭也叫 bower。可数。
-① They rested in a leafy bower.
-= 他们在绿荫凉棚里歇息。
+① They rested in a leafy bower out of the worst of the sun.
+= 他们在绿荫凉棚里避开最毒的日头歇息。
 a leafy bower = 枝叶交搭的凉棚
-② Roses covered the bower.
-= 玫瑰爬满了凉亭。
-③ The bowerbird decorates its bower.
-= 园丁鸟会装饰自己的求偶亭。
+② Roses covered the bower so thickly that the frame disappeared.
+= 玫瑰把凉亭盖得密不透风，架子都看不见了。
+③ The bowerbird decorates its bower with anything blue it can carry.
+= 园丁鸟拿得动的蓝色东西，都拿去装饰求偶亭。
 bowerbird = 园丁鸟
 构词：古英语 bur 住处
 注意语域：偏文学，日常说凉亭用别的词。
