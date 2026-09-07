@@ -2,14 +2,14 @@ civvies
 核心：军人口语：便服，跟军装相对，in civvies 是穿便服。
 永远用复数。相关的 Civvy Street 是英式军中口语，指退役
 后的平民生活。
-① He came home in civvies.
-= 他穿着便服回来了。
+① He came home in civvies and his own mother looked twice.
+= 他穿着便服回来，他母亲都多看了两眼。
 in civvies = 穿便服
-② Civvies feel odd after years in uniform.
-= 穿了多年军装，便服反而别扭。
+② Civvies feel odd after years in uniform, especially the shoes.
+= 穿了多年军装，便服反而别扭，尤其是鞋。
 uniform = 军装、制服
-③ He is back on Civvy Street.
-= 他回到平民生活了。
+③ He is back on Civvy Street and driving a delivery van.
+= 他回到平民生活，如今开送货车。
 Civvy Street = 退役后的平民生活（英式军中口语）
 构词：由表示平民的那个词截短
 注意用法：永远用复数，军中口语。
@@ -29,14 +29,14 @@ label = 标签
 clack
 核心：硬东西相碰的短促脆响：键盘、鞋跟、织机都能发出。
 动词与名词同形。拟声词。可数。
-① Her heels clacked on the tiles.
-= 她的鞋跟在瓷砖上嗒嗒响。
+① Her heels clacked on the tiles the whole length of the corridor.
+= 她的鞋跟在瓷砖上嗒嗒响，响过整条走廊。
 clack = 嗒嗒作响
-② The loom clacked all day.
-= 织机响了一整天。
+② The loom clacked all day and stopped only when a thread broke.
+= 织机响了一整天，只有断线时才停。
 a loom = 织机
-③ A clack came from the hallway.
-= 走廊里传来一声脆响。
+③ The letterbox gave a clack and two envelopes hit the mat.
+= 信箱嗒的一声，两个信封落在垫子上。
 a clack = 一声脆响
 构词：拟声
 注意别混：clank 是金属的闷重响，这个更短更脆。
@@ -100,14 +100,14 @@ clairvoyance
 核心：所谓的通灵预知：声称能看见常人看不见的事、能知道
 远处或未来发生什么。有这种自称的人是 clairvoyant，也作
 形容词。不可数。
-① She claims clairvoyance.
-= 她自称有通灵之能。
+① She claims clairvoyance and charges by the half hour.
+= 她自称有通灵之能，按半小时收费。
 clairvoyance = 通灵预知
-② A clairvoyant read the cards.
-= 一位通灵者看了牌。
+② A clairvoyant read the cards and told him nothing he had not said first.
+= 通灵者看了牌，说的全是他自己先讲过的话。
 a clairvoyant = 通灵者
-③ He is sceptical of clairvoyant claims.
-= 他对通灵的说法持怀疑。
+③ He is sceptical of clairvoyant claims but goes along for the company.
+= 他对通灵的说法持怀疑，只是陪着人去。
 clairvoyant = 通灵的
 构词：法语 clair 清楚 加 voir 看
 注意语域：灵异与怀疑论两种语境里都读得到。
@@ -115,14 +115,14 @@ clairvoyant = 通灵的
 clam
 核心：蛤：两片壳的可食贝类，埋在沙里。动词 clam up 是
 一问就闭口不吭声，口语里很常读到。可数。
-① They dug for clams at low tide.
-= 他们趁退潮挖蛤。
+① They dug for clams at low tide and filled half a bucket.
+= 他们趁退潮挖蛤，装了半桶。
 a clam = 蛤
-② Clam chowder needs fresh clams.
-= 蛤蜊浓汤得用鲜蛤。
+② Clam chowder needs fresh clams and the liquor they open in.
+= 蛤蜊浓汤要用鲜蛤，还要它们开壳时的那点汁。
 fresh = 新鲜的
-③ He clammed up when asked.
-= 一问他就不吭声了。
+③ He clammed up the moment the lawyer joined the table.
+= 律师一坐到桌边，他就闭口不说了。
 clam up = 闭口不谈
 构词：古英语 clam 钳、夹
 注意用法：clam up 在口语里很常读到。
@@ -130,14 +130,14 @@ clam up = 闭口不谈
 clambake
 核心：美式的海滩聚会：在沙坑里用热石与海藻焖蛤、玉米与
 土豆，一群人边吃边聊。引申也指热闹的聚会。可数。
-① They held a clambake on the beach.
-= 他们在海滩上办了场蛤蜊焖烤会。
+① They held a clambake on the beach and dug the pit at noon.
+= 他们在海滩上办了场蛤蜊焖烤会，中午就挖好了坑。
 a clambake = 海滩蛤蜊焖烤聚会
-② The clambake ran till dark.
-= 那场聚会一直到天黑。
+② The clambake ran till dark and nobody went near the water.
+= 那场聚会一直到天黑，谁也没下水。
 run till = 持续到
-③ Seaweed steams the clams.
-= 海藻把蛤焖熟。
+③ Seaweed steams the clams and gives everything a sea taste.
+= 海藻把蛤焖熟，也让所有东西都带上海味。
 steam = 蒸焖
 构词：由蛤与烘烤两个词拼成
 注意用法：美式，尤其新英格兰海岸。
@@ -146,14 +146,14 @@ clamber
 核心：手脚并用地爬：往上或往下，动作费力而不利索，多说
 爬岩石、爬围栏、爬进车里。常搭 clamber over、
 clamber into、clamber up。
-① They clambered over the rocks.
-= 他们手脚并用翻过那些石头。
+① They clambered over the rocks with both hands full of gear.
+= 他们两手拿满装备，手脚并用翻过那些石头。
 clamber over = 手脚并用翻过
-② She clambered into the truck.
-= 她费劲地爬上卡车。
+② She clambered into the truck cab without waiting for the step.
+= 她没等踏板放下就费劲爬进驾驶室。
 clamber into = 爬进
-③ He clambered up the bank.
-= 他爬上了土坡。
+③ He clambered up the bank and pulled the next one after him.
+= 他爬上土坡，又把后面那个拉了上来。
 clamber up = 爬上
 构词：与 climb 同源的中古英语词
 注意别混：climb 中性，这个强调费力不利索。
@@ -161,14 +161,14 @@ clamber up = 爬上
 clammy
 核心：又湿又凉又黏的：说皮肤出冷汗、说空气闷湿。一律带
 不舒服的意味。名词 clamminess。
-① His hands were clammy.
-= 他手心又湿又凉。
+① His hands were clammy and left marks on the paper.
+= 他手心又湿又凉，在纸上留下了印子。
 clammy = 湿冷发黏的
-② The air was clammy before the storm.
-= 暴风雨前空气又闷又湿。
+② The air was clammy before the storm and the walls ran with water.
+= 暴风雨前空气又闷又湿，墙上都在淌水。
 clammy = 闷湿的
-③ She felt clammy with fever.
-= 她发着烧，一身冷汗。
+③ She felt clammy with fever and threw off the blanket twice.
+= 她发着烧一身冷汗，两次把毯子蹬开。
 feel clammy = 觉得湿冷发黏
 构词：中古英语 clam 黏泥
 注意语域：一律带不舒服的意味。
@@ -220,14 +220,14 @@ clamshell
 核心：两支。一是蛤壳。二是引申指像蛤壳一样对开合上的
 东西：翻盖手机、对折的塑料包装、挖泥机的抓斗都叫它。
 作定语最多。可数。
-① The phone has a clamshell design.
-= 那款手机是翻盖式的。
+① The phone has a clamshell design and survives being sat on.
+= 那款手机是翻盖式的，被坐着也压不坏。
 a clamshell design = 翻盖式设计
-② The salad came in a clamshell.
-= 那份沙拉装在对开塑料盒里。
+② The salad came in a clamshell that would not open without scissors.
+= 那份沙拉装在对开塑料盒里，没剪刀掰不开。
 a clamshell = 对开的塑料包装盒
-③ A clamshell bucket lifted the mud.
-= 抓斗把淤泥抓了起来。
+③ A clamshell bucket lifted the mud and dropped half of it back.
+= 蚌式抓斗把淤泥抓起来，又漏回去一半。
 a clamshell bucket = 蚌式抓斗
 构词：由蛤与壳两个词拼成
 注意用法：作定语说对开合上的结构最常见。
@@ -255,14 +255,14 @@ clandestine
 核心：暗中进行的、见不得光的：说会面、行动、关系，一定
 带怕人知道的意味。书面语，比 secret 更正式、更强调有意
 隐藏。
-① They held clandestine meetings.
-= 他们暗中会面。
+① They held clandestine meetings in a car park on Sunday mornings.
+= 他们周日上午在停车场暗中会面。
 clandestine = 暗中进行的
-② A clandestine network moved the money.
-= 一个地下网络在转移那笔钱。
+② A clandestine network moved the money through four small banks.
+= 一个地下网络经四家小银行转移那笔钱。
 clandestine = 地下的、秘密的
-③ The affair stayed clandestine for years.
-= 那段关系瞒了好几年。
+③ The affair stayed clandestine for years and ended in a lawsuit.
+= 那段关系瞒了好几年，最后打了官司。
 stay clandestine = 一直瞒着
 构词：拉丁语 clandestinus 隐秘的
 注意语域：书面，比 secret 更正式。
@@ -290,14 +290,14 @@ clanger
 核心：英式口语：说错话、办错事而且当场很显眼，
 drop a clanger 是说漏了嘴、出了大洋相。带自嘲或调笑。
 可数。
-① He dropped a real clanger.
-= 他说了句大错话。
+① He dropped a real clanger and thanked the wrong family.
+= 他出了个大洋相，谢错了人家。
 drop a clanger = 说错话、出洋相（英式）
-② The clanger made the front page.
-= 那个失言上了头版。
+② The clanger made the front page and was quoted for a fortnight.
+= 那次失言上了头版，被引了两周。
 make the front page = 上头版
-③ She laughed off the clanger.
-= 她把那次失言一笑而过。
+③ She laughed off the clanger and carried on with the speech.
+= 她把那次失言一笑而过，接着往下讲。
 laugh off = 一笑而过
 构词：由表示金属响的那个词加后缀，取声音很响的意思
 注意语域：英式口语，带调笑。
@@ -305,14 +305,14 @@ laugh off = 一笑而过
 clank
 核心：金属相碰时那种闷重的一声：锁链、镣铐、旧管道都
 会发出。动词与名词同形。可数。
-① Chains clanked in the hold.
-= 舱里锁链哗啦作响。
+① Chains clanked in the hold every time the ship rolled.
+= 船一晃，舱里的锁链就哗啦作响。
 clank = 闷重地当当响
-② A clank came from the pipes.
-= 管道里传来一声闷响。
+② The gate shut with a clank that carried across the whole yard.
+= 铁门当的一声关上，整个院子都听得见。
 a clank = 一声闷重的金属响
-③ The tank clanked past.
-= 坦克哐当着开过。
+③ The tank clanked past and shook the dust off the shutters.
+= 坦克哐当着开过，把百叶窗上的灰都震下来了。
 clank past = 哐当着开过
 构词：拟声
 注意别混：clang 响而带余音，这个更闷重短促。

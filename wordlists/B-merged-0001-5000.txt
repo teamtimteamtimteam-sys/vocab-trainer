@@ -89476,14 +89476,14 @@ civvies
 核心：军人口语：便服，跟军装相对，in civvies 是穿便服。
 永远用复数。相关的 Civvy Street 是英式军中口语，指退役
 后的平民生活。
-① He came home in civvies.
-= 他穿着便服回来了。
+① He came home in civvies and his own mother looked twice.
+= 他穿着便服回来，他母亲都多看了两眼。
 in civvies = 穿便服
-② Civvies feel odd after years in uniform.
-= 穿了多年军装，便服反而别扭。
+② Civvies feel odd after years in uniform, especially the shoes.
+= 穿了多年军装，便服反而别扭，尤其是鞋。
 uniform = 军装、制服
-③ He is back on Civvy Street.
-= 他回到平民生活了。
+③ He is back on Civvy Street and driving a delivery van.
+= 他回到平民生活，如今开送货车。
 Civvy Street = 退役后的平民生活（英式军中口语）
 构词：由表示平民的那个词截短
 注意用法：永远用复数，军中口语。
@@ -89503,14 +89503,14 @@ label = 标签
 clack
 核心：硬东西相碰的短促脆响：键盘、鞋跟、织机都能发出。
 动词与名词同形。拟声词。可数。
-① Her heels clacked on the tiles.
-= 她的鞋跟在瓷砖上嗒嗒响。
+① Her heels clacked on the tiles the whole length of the corridor.
+= 她的鞋跟在瓷砖上嗒嗒响，响过整条走廊。
 clack = 嗒嗒作响
-② The loom clacked all day.
-= 织机响了一整天。
+② The loom clacked all day and stopped only when a thread broke.
+= 织机响了一整天，只有断线时才停。
 a loom = 织机
-③ A clack came from the hallway.
-= 走廊里传来一声脆响。
+③ The letterbox gave a clack and two envelopes hit the mat.
+= 信箱嗒的一声，两个信封落在垫子上。
 a clack = 一声脆响
 构词：拟声
 注意别混：clank 是金属的闷重响，这个更短更脆。
@@ -89574,14 +89574,14 @@ clairvoyance
 核心：所谓的通灵预知：声称能看见常人看不见的事、能知道
 远处或未来发生什么。有这种自称的人是 clairvoyant，也作
 形容词。不可数。
-① She claims clairvoyance.
-= 她自称有通灵之能。
+① She claims clairvoyance and charges by the half hour.
+= 她自称有通灵之能，按半小时收费。
 clairvoyance = 通灵预知
-② A clairvoyant read the cards.
-= 一位通灵者看了牌。
+② A clairvoyant read the cards and told him nothing he had not said first.
+= 通灵者看了牌，说的全是他自己先讲过的话。
 a clairvoyant = 通灵者
-③ He is sceptical of clairvoyant claims.
-= 他对通灵的说法持怀疑。
+③ He is sceptical of clairvoyant claims but goes along for the company.
+= 他对通灵的说法持怀疑，只是陪着人去。
 clairvoyant = 通灵的
 构词：法语 clair 清楚 加 voir 看
 注意语域：灵异与怀疑论两种语境里都读得到。
@@ -89589,14 +89589,14 @@ clairvoyant = 通灵的
 clam
 核心：蛤：两片壳的可食贝类，埋在沙里。动词 clam up 是
 一问就闭口不吭声，口语里很常读到。可数。
-① They dug for clams at low tide.
-= 他们趁退潮挖蛤。
+① They dug for clams at low tide and filled half a bucket.
+= 他们趁退潮挖蛤，装了半桶。
 a clam = 蛤
-② Clam chowder needs fresh clams.
-= 蛤蜊浓汤得用鲜蛤。
+② Clam chowder needs fresh clams and the liquor they open in.
+= 蛤蜊浓汤要用鲜蛤，还要它们开壳时的那点汁。
 fresh = 新鲜的
-③ He clammed up when asked.
-= 一问他就不吭声了。
+③ He clammed up the moment the lawyer joined the table.
+= 律师一坐到桌边，他就闭口不说了。
 clam up = 闭口不谈
 构词：古英语 clam 钳、夹
 注意用法：clam up 在口语里很常读到。
@@ -89604,14 +89604,14 @@ clam up = 闭口不谈
 clambake
 核心：美式的海滩聚会：在沙坑里用热石与海藻焖蛤、玉米与
 土豆，一群人边吃边聊。引申也指热闹的聚会。可数。
-① They held a clambake on the beach.
-= 他们在海滩上办了场蛤蜊焖烤会。
+① They held a clambake on the beach and dug the pit at noon.
+= 他们在海滩上办了场蛤蜊焖烤会，中午就挖好了坑。
 a clambake = 海滩蛤蜊焖烤聚会
-② The clambake ran till dark.
-= 那场聚会一直到天黑。
+② The clambake ran till dark and nobody went near the water.
+= 那场聚会一直到天黑，谁也没下水。
 run till = 持续到
-③ Seaweed steams the clams.
-= 海藻把蛤焖熟。
+③ Seaweed steams the clams and gives everything a sea taste.
+= 海藻把蛤焖熟，也让所有东西都带上海味。
 steam = 蒸焖
 构词：由蛤与烘烤两个词拼成
 注意用法：美式，尤其新英格兰海岸。
@@ -89620,14 +89620,14 @@ clamber
 核心：手脚并用地爬：往上或往下，动作费力而不利索，多说
 爬岩石、爬围栏、爬进车里。常搭 clamber over、
 clamber into、clamber up。
-① They clambered over the rocks.
-= 他们手脚并用翻过那些石头。
+① They clambered over the rocks with both hands full of gear.
+= 他们两手拿满装备，手脚并用翻过那些石头。
 clamber over = 手脚并用翻过
-② She clambered into the truck.
-= 她费劲地爬上卡车。
+② She clambered into the truck cab without waiting for the step.
+= 她没等踏板放下就费劲爬进驾驶室。
 clamber into = 爬进
-③ He clambered up the bank.
-= 他爬上了土坡。
+③ He clambered up the bank and pulled the next one after him.
+= 他爬上土坡，又把后面那个拉了上来。
 clamber up = 爬上
 构词：与 climb 同源的中古英语词
 注意别混：climb 中性，这个强调费力不利索。
@@ -89635,14 +89635,14 @@ clamber up = 爬上
 clammy
 核心：又湿又凉又黏的：说皮肤出冷汗、说空气闷湿。一律带
 不舒服的意味。名词 clamminess。
-① His hands were clammy.
-= 他手心又湿又凉。
+① His hands were clammy and left marks on the paper.
+= 他手心又湿又凉，在纸上留下了印子。
 clammy = 湿冷发黏的
-② The air was clammy before the storm.
-= 暴风雨前空气又闷又湿。
+② The air was clammy before the storm and the walls ran with water.
+= 暴风雨前空气又闷又湿，墙上都在淌水。
 clammy = 闷湿的
-③ She felt clammy with fever.
-= 她发着烧，一身冷汗。
+③ She felt clammy with fever and threw off the blanket twice.
+= 她发着烧一身冷汗，两次把毯子蹬开。
 feel clammy = 觉得湿冷发黏
 构词：中古英语 clam 黏泥
 注意语域：一律带不舒服的意味。
@@ -89694,14 +89694,14 @@ clamshell
 核心：两支。一是蛤壳。二是引申指像蛤壳一样对开合上的
 东西：翻盖手机、对折的塑料包装、挖泥机的抓斗都叫它。
 作定语最多。可数。
-① The phone has a clamshell design.
-= 那款手机是翻盖式的。
+① The phone has a clamshell design and survives being sat on.
+= 那款手机是翻盖式的，被坐着也压不坏。
 a clamshell design = 翻盖式设计
-② The salad came in a clamshell.
-= 那份沙拉装在对开塑料盒里。
+② The salad came in a clamshell that would not open without scissors.
+= 那份沙拉装在对开塑料盒里，没剪刀掰不开。
 a clamshell = 对开的塑料包装盒
-③ A clamshell bucket lifted the mud.
-= 抓斗把淤泥抓了起来。
+③ A clamshell bucket lifted the mud and dropped half of it back.
+= 蚌式抓斗把淤泥抓起来，又漏回去一半。
 a clamshell bucket = 蚌式抓斗
 构词：由蛤与壳两个词拼成
 注意用法：作定语说对开合上的结构最常见。
@@ -89729,14 +89729,14 @@ clandestine
 核心：暗中进行的、见不得光的：说会面、行动、关系，一定
 带怕人知道的意味。书面语，比 secret 更正式、更强调有意
 隐藏。
-① They held clandestine meetings.
-= 他们暗中会面。
+① They held clandestine meetings in a car park on Sunday mornings.
+= 他们周日上午在停车场暗中会面。
 clandestine = 暗中进行的
-② A clandestine network moved the money.
-= 一个地下网络在转移那笔钱。
+② A clandestine network moved the money through four small banks.
+= 一个地下网络经四家小银行转移那笔钱。
 clandestine = 地下的、秘密的
-③ The affair stayed clandestine for years.
-= 那段关系瞒了好几年。
+③ The affair stayed clandestine for years and ended in a lawsuit.
+= 那段关系瞒了好几年，最后打了官司。
 stay clandestine = 一直瞒着
 构词：拉丁语 clandestinus 隐秘的
 注意语域：书面，比 secret 更正式。
@@ -89764,14 +89764,14 @@ clanger
 核心：英式口语：说错话、办错事而且当场很显眼，
 drop a clanger 是说漏了嘴、出了大洋相。带自嘲或调笑。
 可数。
-① He dropped a real clanger.
-= 他说了句大错话。
+① He dropped a real clanger and thanked the wrong family.
+= 他出了个大洋相，谢错了人家。
 drop a clanger = 说错话、出洋相（英式）
-② The clanger made the front page.
-= 那个失言上了头版。
+② The clanger made the front page and was quoted for a fortnight.
+= 那次失言上了头版，被引了两周。
 make the front page = 上头版
-③ She laughed off the clanger.
-= 她把那次失言一笑而过。
+③ She laughed off the clanger and carried on with the speech.
+= 她把那次失言一笑而过，接着往下讲。
 laugh off = 一笑而过
 构词：由表示金属响的那个词加后缀，取声音很响的意思
 注意语域：英式口语，带调笑。
@@ -89779,14 +89779,14 @@ laugh off = 一笑而过
 clank
 核心：金属相碰时那种闷重的一声：锁链、镣铐、旧管道都
 会发出。动词与名词同形。可数。
-① Chains clanked in the hold.
-= 舱里锁链哗啦作响。
+① Chains clanked in the hold every time the ship rolled.
+= 船一晃，舱里的锁链就哗啦作响。
 clank = 闷重地当当响
-② A clank came from the pipes.
-= 管道里传来一声闷响。
+② The gate shut with a clank that carried across the whole yard.
+= 铁门当的一声关上，整个院子都听得见。
 a clank = 一声闷重的金属响
-③ The tank clanked past.
-= 坦克哐当着开过。
+③ The tank clanked past and shook the dust off the shutters.
+= 坦克哐当着开过，把百叶窗上的灰都震下来了。
 clank past = 哐当着开过
 构词：拟声
 注意别混：clang 响而带余音，这个更闷重短促。
@@ -89915,14 +89915,14 @@ clarinet
 核心：单簧管：黑色的木管乐器，靠一片簧片发声，音域宽，
 古典与爵士都用。吹的人是 clarinettist，美式单写 t。
 可数。
-① She plays the clarinet.
-= 她吹单簧管。
+① She took up the clarinet because the school had a spare one.
+= 学校正好多一把单簧管，她就学了这个。
 play the clarinet = 吹单簧管
-② The clarinet has a single reed.
-= 单簧管只用一片簧。
+② The clarinet has a single reed, which is why it can whisper.
+= 单簧管只用一片簧，所以吹得出气声。
 a reed = 簧片
-③ The clarinettist stood to solo.
-= 单簧管手站起来独奏。
+③ The clarinettist stood to solo and sat down before the applause.
+= 单簧管手站起来独奏，掌声起来前就坐下了。
 a clarinettist = 单簧管手
 构词：法语 clarinette，出自表示清亮的那个词
 注意拼写：英式双写 t，美式单写。
@@ -89931,14 +89931,14 @@ clarity
 核心：三支，共同点是清楚。一是表达上的清晰：说话与文章
 不含糊。二是视觉与听觉上的清澈通透。三是思路上的清明：
 clarity of thought 是想得透。三支都不可数。
-① The clarity of her writing is rare.
-= 她文字之清楚很少见。
+① The clarity of her writing is rare in anything this technical.
+= 这么技术性的文字里，她那种清楚很少见。
 clarity = 清晰
-② The water has amazing clarity.
-= 那水清得惊人。
+② The water has amazing clarity and you can count stones at ten feet.
+= 那水清得惊人，十英尺深的石头都数得清。
 clarity = 清澈
-③ He spoke with great clarity of thought.
-= 他讲得思路极清。
+③ He spoke with great clarity of thought after two days of silence.
+= 沉默两天之后，他讲得思路极清。
 clarity of thought = 思路清明
 构词：拉丁语 clarus 清楚
 注意用法：三支都不可数。
@@ -89947,14 +89947,14 @@ clarsach
 核心：苏格兰与爱尔兰的小型竖琴：架在膝上或立地弹，用
 金属或肠弦，盖尔语音乐里的传统乐器。也拼 clairseach。
 可数。
-① She plays the clarsach.
-= 她弹盖尔竖琴。
+① Her clarsach travels in a case bigger than she is.
+= 她那把盖尔竖琴装在比她本人还大的箱子里。
 a clarsach = 苏格兰小竖琴
-② The clarsach rests on the knee.
-= 那种竖琴搁在膝上弹。
+② The clarsach rests on the knee and leans back against the shoulder.
+= 盖尔竖琴搁在膝上，往后靠着肩膀。
 rest on = 搁在……上
-③ Clarsach music is having a revival.
-= 那种竖琴的音乐正在复兴。
+③ Clarsach music is having a revival and the schools cannot get teachers.
+= 盖尔竖琴的音乐正在复兴，学校都请不到老师。
 a revival = 复兴
 构词：盖尔语 clarsach 竖琴
 注意用法：盖尔音乐语境里的乐器名。
@@ -90118,14 +90118,14 @@ classicism
 核心：古典主义：以古希腊罗马为范本的艺术与文学取向，
 讲究均衡、克制、形式规整，跟浪漫主义相对。持这种取向的
 人是 classicist，也指研究古典学的学者。不可数。
-① Classicism values restraint.
-= 古典主义讲克制。
+① Classicism values restraint and distrusts anything that shouts.
+= 古典主义讲克制，对一切喧哗的东西都不信任。
 classicism = 古典主义
-② The facade is pure classicism.
-= 那个立面是纯粹的古典主义。
+② The facade is pure classicism and the back of the building is brick.
+= 那个立面是纯粹的古典主义，楼的背面却是砖墙。
 a facade = 建筑立面
-③ A classicist edited the text.
-= 一位古典学者编校了那部书。
+③ A classicist edited the text and argued with the poet for a year.
+= 一位古典学者编校了那部书，跟诗人争了一年。
 a classicist = 古典学者；古典主义者
 构词：由表示古典的那个词加表示主义的后缀
 注意别混：跟浪漫主义相对。
@@ -90159,14 +90159,14 @@ a classified ad = 分类广告
 clatter
 核心：一堆硬东西接连相碰的乱响：盘子、蹄子、脚步声都能
 发出。动词与名词同形。
-① Plates clattered in the sink.
-= 池子里盘子碰得乱响。
+① Plates clattered in the sink while she pretended not to be angry.
+= 她装作不生气，池子里的盘子却碰得乱响。
 clatter = 接连碰响
-② Hooves clattered on the cobbles.
-= 蹄子在石板路上嗒嗒响。
+② Hooves clattered on the cobbles and woke the whole street.
+= 蹄子在石板路上嗒嗒响，把整条街都吵醒了。
 cobbles = 圆石路面
-③ A clatter came from the kitchen.
-= 厨房里传来一阵乱响。
+③ Someone dropped a tray and the clatter brought three people running.
+= 有人摔了托盘，那阵乱响引来三个人跑过来。
 a clatter = 一阵乱响
 构词：拟声
 注意别混：clack 是单声，这个是接连的一片。
@@ -90193,14 +90193,14 @@ claustrophobia
 核心：密闭恐惧：在电梯、隧道、人堆这类封闭空间里发慌、
 喘不上气。形容词 claustrophobic 既说人有这种恐惧，也说
 空间本身憋得让人发慌。不可数。
-① He suffers from claustrophobia.
-= 他有密闭恐惧。
+① He suffers from claustrophobia and takes the stairs to the ninth floor.
+= 他有密闭恐惧，爬楼梯上九层。
 claustrophobia = 密闭恐惧
-② The lift felt claustrophobic.
-= 那个电梯闷得让人发慌。
+② The lift felt claustrophobic with four people and a trolley in it.
+= 四个人加一辆推车，电梯里闷得让人发慌。
 claustrophobic = 让人发慌的（说空间）
-③ She is claustrophobic in tunnels.
-= 她在隧道里会发慌。
+③ She is claustrophobic in tunnels but fine in a crowd.
+= 她在隧道里会发慌，在人堆里倒没事。
 be claustrophobic = 有密闭恐惧的
 构词：拉丁语 claustrum 关闭处 加希腊语表示怕的词根
 注意用法：形容词既说人也说空间，靠主语分。
@@ -90209,14 +90209,14 @@ clave
 核心：两支。一是拉美音乐里的敲击棒：两根硬木短棒对敲，
 乐器义永远成对说复数 claves。二是那种节奏型本身：它是
 萨尔萨与伦巴的节奏骨架。可数。
-① He tapped out the clave.
-= 他敲出那个节奏型。
+① He tapped out the clave on the side of his chair.
+= 他在椅子边上敲出那个节奏型。
 the clave = 拉美音乐的节奏骨架
-② Claves cut through the band.
-= 那对木棒的声音穿透整个乐队。
+② Claves cut through the band and land exactly where the dancers step.
+= 那对木棒的声音穿透乐队，正落在舞者踩点的地方。
 claves = 敲击木棒
-③ The clave sets the pattern.
-= 那个节奏型定下整首的骨架。
+③ The clave sets the pattern and everything else fits round it.
+= 那个节奏型定下骨架，别的都绕着它排。
 set the pattern = 定下格式
 构词：西班牙语 clave 关键、楔子
 注意用法：乐器义永远成对说复数。
@@ -90225,14 +90225,14 @@ clavichord
 核心：早期的键盘乐器：琴弦被小金属片顶住发声，声音极轻，
 只适合小屋里弹。跟大键琴分开：那种是拨弦，声音亮得多。
 可数。
-① He owns a clavichord.
-= 他有一台击弦古钢琴。
+① He keeps a clavichord in the back room and plays it after midnight.
+= 他后屋放着一台击弦古钢琴，过了午夜才弹。
 a clavichord = 击弦古钢琴
-② The clavichord is very quiet.
-= 那种琴声音极轻。
+② The clavichord is so quiet that a passing car covers it.
+= 击弦古钢琴声音极轻，一辆车开过就盖住了。
 quiet = 声音轻的
-③ Bach wrote for the clavichord.
-= 巴赫为它写过曲子。
+③ Bach taught on the clavichord and could hear every uneven finger.
+= 巴赫用击弦古钢琴教学，手指哪里不匀他都听得出。
 write for = 为……写作品
 构词：拉丁语 clavis 键 加 chorda 弦
 注意别混：大键琴是拨弦的，这个是顶弦的。
@@ -90308,14 +90308,14 @@ claymore
 核心：两支。一是苏格兰高地的双手大剑：刃宽柄长，历史与
 文学里的兵器名。二是现代的定向反步兵地雷，因形似得名。
 可数。
-① The claymore needed both hands.
-= 那把大剑要双手才使得动。
+① The claymore needed both hands and a good deal of room.
+= 那把大剑要双手才使得动，还得有足够的地方。
 a claymore = 苏格兰双手大剑
-② Claymores hung in the hall.
-= 大厅里挂着几把大剑。
+② Claymores hung in the hall above a row of dented shields.
+= 大厅里几把大剑挂在一排凹了的盾牌上方。
 hang = 挂着
-③ A claymore mine faces one way.
-= 那种地雷只朝一个方向炸。
+③ A claymore mine faces one way and is set out at the treeline.
+= 定向雷只朝一个方向炸，布在林缘。
 a claymore mine = 定向反步兵雷
 构词：盖尔语 claidheamh mor 大剑
 注意用法：历史兵器与现代军械两义都读得到。

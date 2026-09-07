@@ -2,14 +2,14 @@ clarinet
 核心：单簧管：黑色的木管乐器，靠一片簧片发声，音域宽，
 古典与爵士都用。吹的人是 clarinettist，美式单写 t。
 可数。
-① She plays the clarinet.
-= 她吹单簧管。
+① She took up the clarinet because the school had a spare one.
+= 学校正好多一把单簧管，她就学了这个。
 play the clarinet = 吹单簧管
-② The clarinet has a single reed.
-= 单簧管只用一片簧。
+② The clarinet has a single reed, which is why it can whisper.
+= 单簧管只用一片簧，所以吹得出气声。
 a reed = 簧片
-③ The clarinettist stood to solo.
-= 单簧管手站起来独奏。
+③ The clarinettist stood to solo and sat down before the applause.
+= 单簧管手站起来独奏，掌声起来前就坐下了。
 a clarinettist = 单簧管手
 构词：法语 clarinette，出自表示清亮的那个词
 注意拼写：英式双写 t，美式单写。
@@ -18,14 +18,14 @@ clarity
 核心：三支，共同点是清楚。一是表达上的清晰：说话与文章
 不含糊。二是视觉与听觉上的清澈通透。三是思路上的清明：
 clarity of thought 是想得透。三支都不可数。
-① The clarity of her writing is rare.
-= 她文字之清楚很少见。
+① The clarity of her writing is rare in anything this technical.
+= 这么技术性的文字里，她那种清楚很少见。
 clarity = 清晰
-② The water has amazing clarity.
-= 那水清得惊人。
+② The water has amazing clarity and you can count stones at ten feet.
+= 那水清得惊人，十英尺深的石头都数得清。
 clarity = 清澈
-③ He spoke with great clarity of thought.
-= 他讲得思路极清。
+③ He spoke with great clarity of thought after two days of silence.
+= 沉默两天之后，他讲得思路极清。
 clarity of thought = 思路清明
 构词：拉丁语 clarus 清楚
 注意用法：三支都不可数。
@@ -34,14 +34,14 @@ clarsach
 核心：苏格兰与爱尔兰的小型竖琴：架在膝上或立地弹，用
 金属或肠弦，盖尔语音乐里的传统乐器。也拼 clairseach。
 可数。
-① She plays the clarsach.
-= 她弹盖尔竖琴。
+① Her clarsach travels in a case bigger than she is.
+= 她那把盖尔竖琴装在比她本人还大的箱子里。
 a clarsach = 苏格兰小竖琴
-② The clarsach rests on the knee.
-= 那种竖琴搁在膝上弹。
+② The clarsach rests on the knee and leans back against the shoulder.
+= 盖尔竖琴搁在膝上，往后靠着肩膀。
 rest on = 搁在……上
-③ Clarsach music is having a revival.
-= 那种竖琴的音乐正在复兴。
+③ Clarsach music is having a revival and the schools cannot get teachers.
+= 盖尔竖琴的音乐正在复兴，学校都请不到老师。
 a revival = 复兴
 构词：盖尔语 clarsach 竖琴
 注意用法：盖尔音乐语境里的乐器名。
@@ -205,14 +205,14 @@ classicism
 核心：古典主义：以古希腊罗马为范本的艺术与文学取向，
 讲究均衡、克制、形式规整，跟浪漫主义相对。持这种取向的
 人是 classicist，也指研究古典学的学者。不可数。
-① Classicism values restraint.
-= 古典主义讲克制。
+① Classicism values restraint and distrusts anything that shouts.
+= 古典主义讲克制，对一切喧哗的东西都不信任。
 classicism = 古典主义
-② The facade is pure classicism.
-= 那个立面是纯粹的古典主义。
+② The facade is pure classicism and the back of the building is brick.
+= 那个立面是纯粹的古典主义，楼的背面却是砖墙。
 a facade = 建筑立面
-③ A classicist edited the text.
-= 一位古典学者编校了那部书。
+③ A classicist edited the text and argued with the poet for a year.
+= 一位古典学者编校了那部书，跟诗人争了一年。
 a classicist = 古典学者；古典主义者
 构词：由表示古典的那个词加表示主义的后缀
 注意别混：跟浪漫主义相对。
@@ -246,14 +246,14 @@ a classified ad = 分类广告
 clatter
 核心：一堆硬东西接连相碰的乱响：盘子、蹄子、脚步声都能
 发出。动词与名词同形。
-① Plates clattered in the sink.
-= 池子里盘子碰得乱响。
+① Plates clattered in the sink while she pretended not to be angry.
+= 她装作不生气，池子里的盘子却碰得乱响。
 clatter = 接连碰响
-② Hooves clattered on the cobbles.
-= 蹄子在石板路上嗒嗒响。
+② Hooves clattered on the cobbles and woke the whole street.
+= 蹄子在石板路上嗒嗒响，把整条街都吵醒了。
 cobbles = 圆石路面
-③ A clatter came from the kitchen.
-= 厨房里传来一阵乱响。
+③ Someone dropped a tray and the clatter brought three people running.
+= 有人摔了托盘，那阵乱响引来三个人跑过来。
 a clatter = 一阵乱响
 构词：拟声
 注意别混：clack 是单声，这个是接连的一片。
@@ -280,14 +280,14 @@ claustrophobia
 核心：密闭恐惧：在电梯、隧道、人堆这类封闭空间里发慌、
 喘不上气。形容词 claustrophobic 既说人有这种恐惧，也说
 空间本身憋得让人发慌。不可数。
-① He suffers from claustrophobia.
-= 他有密闭恐惧。
+① He suffers from claustrophobia and takes the stairs to the ninth floor.
+= 他有密闭恐惧，爬楼梯上九层。
 claustrophobia = 密闭恐惧
-② The lift felt claustrophobic.
-= 那个电梯闷得让人发慌。
+② The lift felt claustrophobic with four people and a trolley in it.
+= 四个人加一辆推车，电梯里闷得让人发慌。
 claustrophobic = 让人发慌的（说空间）
-③ She is claustrophobic in tunnels.
-= 她在隧道里会发慌。
+③ She is claustrophobic in tunnels but fine in a crowd.
+= 她在隧道里会发慌，在人堆里倒没事。
 be claustrophobic = 有密闭恐惧的
 构词：拉丁语 claustrum 关闭处 加希腊语表示怕的词根
 注意用法：形容词既说人也说空间，靠主语分。
@@ -296,14 +296,14 @@ clave
 核心：两支。一是拉美音乐里的敲击棒：两根硬木短棒对敲，
 乐器义永远成对说复数 claves。二是那种节奏型本身：它是
 萨尔萨与伦巴的节奏骨架。可数。
-① He tapped out the clave.
-= 他敲出那个节奏型。
+① He tapped out the clave on the side of his chair.
+= 他在椅子边上敲出那个节奏型。
 the clave = 拉美音乐的节奏骨架
-② Claves cut through the band.
-= 那对木棒的声音穿透整个乐队。
+② Claves cut through the band and land exactly where the dancers step.
+= 那对木棒的声音穿透乐队，正落在舞者踩点的地方。
 claves = 敲击木棒
-③ The clave sets the pattern.
-= 那个节奏型定下整首的骨架。
+③ The clave sets the pattern and everything else fits round it.
+= 那个节奏型定下骨架，别的都绕着它排。
 set the pattern = 定下格式
 构词：西班牙语 clave 关键、楔子
 注意用法：乐器义永远成对说复数。
@@ -312,14 +312,14 @@ clavichord
 核心：早期的键盘乐器：琴弦被小金属片顶住发声，声音极轻，
 只适合小屋里弹。跟大键琴分开：那种是拨弦，声音亮得多。
 可数。
-① He owns a clavichord.
-= 他有一台击弦古钢琴。
+① He keeps a clavichord in the back room and plays it after midnight.
+= 他后屋放着一台击弦古钢琴，过了午夜才弹。
 a clavichord = 击弦古钢琴
-② The clavichord is very quiet.
-= 那种琴声音极轻。
+② The clavichord is so quiet that a passing car covers it.
+= 击弦古钢琴声音极轻，一辆车开过就盖住了。
 quiet = 声音轻的
-③ Bach wrote for the clavichord.
-= 巴赫为它写过曲子。
+③ Bach taught on the clavichord and could hear every uneven finger.
+= 巴赫用击弦古钢琴教学，手指哪里不匀他都听得出。
 write for = 为……写作品
 构词：拉丁语 clavis 键 加 chorda 弦
 注意别混：大键琴是拨弦的，这个是顶弦的。
@@ -395,14 +395,14 @@ claymore
 核心：两支。一是苏格兰高地的双手大剑：刃宽柄长，历史与
 文学里的兵器名。二是现代的定向反步兵地雷，因形似得名。
 可数。
-① The claymore needed both hands.
-= 那把大剑要双手才使得动。
+① The claymore needed both hands and a good deal of room.
+= 那把大剑要双手才使得动，还得有足够的地方。
 a claymore = 苏格兰双手大剑
-② Claymores hung in the hall.
-= 大厅里挂着几把大剑。
+② Claymores hung in the hall above a row of dented shields.
+= 大厅里几把大剑挂在一排凹了的盾牌上方。
 hang = 挂着
-③ A claymore mine faces one way.
-= 那种地雷只朝一个方向炸。
+③ A claymore mine faces one way and is set out at the treeline.
+= 定向雷只朝一个方向炸，布在林缘。
 a claymore mine = 定向反步兵雷
 构词：盖尔语 claidheamh mor 大剑
 注意用法：历史兵器与现代军械两义都读得到。
