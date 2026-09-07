@@ -66437,13 +66437,13 @@ broadcasting
 制作、编排、发射一整套。跟 streaming 的分界在于方式：
 broadcasting 是同一时刻把同一信号发给所有人，
 streaming 是各人各点各看。不可数。
-① He works in broadcasting.
-= 他做广播这一行。
-② Broadcasting is heavily regulated.
-= 广播业受严格监管。
+① He works in broadcasting and has never once been on air.
+= 他做广播这一行，却从没上过一次节目。
+② Broadcasting is heavily regulated even on the smallest local station.
+= 广播业受严格监管，最小的地方台也一样。
 regulate = 监管
-③ Live broadcasting needs a delay.
-= 直播需要留延时。
+③ Live broadcasting needs a delay of a few seconds for safety.
+= 直播出于安全考虑要留几秒延时。
 delay = 延时
 构词：broadcast 播出 + -ing
 近义对照：
@@ -66478,14 +66478,14 @@ broadly
 broadly speaking——"大致说来"，用来预告接下来是个粗略的
 概括。二是字面的"宽宽地"，几乎只跟 smile 搭配：
 smile broadly 是咧开嘴笑。
-① Broadly speaking, the plan works.
-= 大致说来，那个方案可行。
+① Broadly speaking, the plan works as long as nobody is ill.
+= 大致说来，只要没人生病，那个方案就行得通。
 broadly speaking = 大体而言
-② The findings are broadly consistent.
-= 那些结论大体一致。
+② The findings are broadly consistent with three earlier studies.
+= 那些结论跟此前三项研究大体一致。
 broadly consistent = 大体一致的
-③ He smiled broadly.
-= 他咧开嘴笑了。
+③ He smiled broadly and shook hands with everyone in the row.
+= 他咧开嘴笑，跟那一排人挨个握了手。
 smile broadly = 开怀而笑
 构词：broad 宽的 + -ly
 注意用法：作插入语时是"大致说来"。
@@ -66496,14 +66496,14 @@ broadsheet
 tabloid 指煽情小报，所以说 the broadsheets 就是在说严肃媒体。
 今天不少大报改成了小开本，这个分野在淡化，但说法留下了。
 可数。
-① The story ran in all the broadsheets.
-= 那条新闻各家大报都登了。
+① The story ran in all the broadsheets on the same morning.
+= 那条新闻同一个早上登遍了各家大报。
 run = 刊登
-② Broadsheets cover politics in depth.
-= 严肃大报深挖政治报道。
+② Broadsheets cover politics in depth and lose money doing it.
+= 严肃大报深挖政治报道，也因此赔钱。
 in depth = 深入地
-③ Many broadsheets went compact.
-= 不少大报改成了小开本。
+③ Many broadsheets went compact and kept the name anyway.
+= 不少大报改成了小开本，名号却照旧留着。
 构词：broad 宽 + sheet 张
 注意别混：
 broadsheet = 严肃大报（大开本）
@@ -66514,13 +66514,13 @@ broadside
 那是排山倒海的一击。引申最常用的一支是猛烈抨击：
 fire a broadside at someone 是对人一通炮轰。第三支是
 "侧面"：hit something broadside on 是拦腰撞上。可数。
-① The ship fired a broadside.
-= 那艘军舰打出一轮舷侧齐射。
-② She delivered a broadside at the press.
-= 她对媒体一通炮轰。
+① The ship fired a broadside and heeled over with the recoil.
+= 那艘军舰打出一轮舷侧齐射，后坐力震得船身一歪。
+② She delivered a broadside at the press from the courtroom steps.
+= 她在法院台阶上对媒体一通炮轰。
 deliver a broadside = 猛烈抨击
-③ The van hit them broadside on.
-= 那辆车拦腰撞上了他们。
+③ The van hit them broadside on at a crossing with no lights.
+= 在一个没有信号灯的路口，那辆车拦腰撞上了他们。
 broadside on = 侧面相对地
 构词：broad 宽 + side 侧
 注意来历：本义是军舰一侧火炮齐发。
@@ -66573,13 +66573,13 @@ broccoli
 核心：一种芸苔属蔬菜，吃的是还没开的花蕾和花茎，
 所以放久了会开出小黄花——那就是老了。名字来自意大利语的
 "小芽"。不可数，谓语用单数。
-① Steam the broccoli briefly.
-= 西兰花蒸一下就行。
+① Steam the broccoli briefly and stop while it is still squeaky.
+= 西兰花蒸一下就行，还带脆劲时就停手。
 steam = 蒸
-② Broccoli is rich in vitamin C.
-= 西兰花富含维生素 C。
-③ She sautéed broccoli rabe with garlic.
-= 她用蒜炒了芜菁叶花。
+② Broccoli is rich in vitamin C and loses most of it in boiling water.
+= 西兰花富含维生素 C，一煮就流失大半。
+③ She sautéed broccoli rabe with garlic and a little chilli.
+= 她用蒜和一点辣椒炒了芜菁叶花。
 broccoli rabe = 芜菁叶花（叶多花小，味带苦）
 构词：意大利语 broccoli 小芽
 注意用法：不可数，谓语用单数。
@@ -66603,14 +66603,14 @@ brochure
 核心：印刷的宣传小册子——旅行社、楼盘、学校、产品发的那种，
 图多字少，目的是让人动心。它跟说明书的分别在用途：
 brochure 是拿来招揽的，manual 是拿来教你怎么用的。可数。
-① She picked up a travel brochure.
-= 她拿了本旅行宣传册。
+① She picked up a travel brochure and booked nothing for two years.
+= 她拿了本旅行宣传册，两年一处也没订。
 pick up = 顺手取走
-② The brochure shows the floor plans.
-= 那本册子上有户型图。
+② The brochure shows the floor plans without any of the measurements.
+= 那本册子上有户型图，却一个尺寸都没标。
 floor plan = 户型图
-③ Brochures are designed to attract.
-= 宣传册是为了招揽人。
+③ Brochures are designed to attract, not to tell you the whole story.
+= 宣传册是为了招揽人，不是把实情讲全。
 attract = 吸引
 构词：法语 brochure 装订成册的东西
 近义对照：
@@ -66622,14 +66622,14 @@ broderie anglaise
 锁起来，成排的小孔组成花样。多用在夏装、童装和床品上。
 名字是法语的"英国刺绣"，可这门手艺其实在欧洲各地都有。
 不可数。
-① The blouse has broderie anglaise trim.
-= 那件衬衫镶着镂空绣花边。
+① The blouse has broderie anglaise trim along the collar and cuffs.
+= 那件衬衫领口和袖口都镶着镂空绣花边。
 trim = 镶边
-② Broderie anglaise is made by punching holes and oversewing them.
-= 这种镂空绣是把孔打出来再沿孔边缭。
+② Broderie anglaise is made by punching holes and oversewing the edges.
+= 这种镂空绣是把孔打出来，再沿孔边缭一圈。
 punch holes and oversew = 打孔再缭边
-③ Broderie anglaise means English embroidery in French.
-= 这个名字在法语里是「英国刺绣」。
+③ Her christening gown was broderie anglaise and had been worn by four babies.
+= 她的洗礼裙是白色镂空绣的，前后穿过四个孩子。
 broderie anglaise = 白色镂空绣
 构词：法语 broderie anglaise 英国刺绣
 注意用法：先剪孔再锁边，是它的做法。
@@ -66654,13 +66654,13 @@ broil
 对着食物烤，英式管这个叫 grill，而美式的 grill 指的是
 户外炭烤，两地正好错开，最容易点错菜。另一支是引申：
 形容天气酷热，a broiling afternoon 是热得烤人的下午。
-① Broil the steak for four minutes.
-= 那块牛排上火烤四分钟。
-② The city broiled in the heat.
-= 那座城热得像在火上烤。
+① Broil the steak for four minutes and let it rest for five.
+= 那块牛排上火烤四分钟，再静置五分钟。
+② The city broiled in the heat and the tar came up through the road.
+= 那座城热得像在火上烤，路面沥青都翻了上来。
 broil = 酷热难当
-③ It was a broiling afternoon.
-= 那是个烤人的下午。
+③ It was a broiling afternoon and nobody moved before six.
+= 那是个烤人的下午，六点前没人挪窝。
 构词：古法语 bruler 烧
 注意地域：
 broil = 上火烤（美式；英式说 grill）
@@ -66670,13 +66670,13 @@ broiler
 核心：两支。一是肉鸡：专门育来吃肉的鸡，六七周就出栏，
 跟下蛋的 layer 分开养。二是美式厨房里烤箱顶部那个上火烤的
 部件，英式叫 grill。可数。
-① The farm raises broilers.
-= 那个农场养肉鸡。
+① The farm raises broilers in sheds of forty thousand birds.
+= 那个农场养肉鸡，一栋棚里四万只。
 raise = 饲养
-② Broilers reach weight in six weeks.
-= 肉鸡六周就长到出栏体重。
-③ Put it under the broiler.
-= 放到上火烤架下面。
+② Broilers reach weight in six weeks and never see daylight.
+= 肉鸡六周就长到出栏体重，一天日光也没见过。
+③ Put it under the broiler for two minutes to brown the top.
+= 放到上火烤架下面烤两分钟，把表面烤上色。
 the broiler = 烤箱的上火烤架（美式）
 构词：broil 烤 + -er
 配对词：
@@ -66780,13 +66780,13 @@ brokerage
 核心：三支，都从 broker 来。一是经纪这门业务；二是做这行的公司，
 a brokerage firm 是经纪行；三是经纪人抽的那笔佣金。
 金融语境里三个意思都常见，靠上下文分。可数不可数都行。
-① He opened an account with a brokerage.
-= 他在一家经纪行开了户。
+① He opened an account with a brokerage that charges nothing to trade.
+= 他在一家交易免佣的经纪行开了户。
 open an account = 开户
-② The brokerage charges a small fee.
-= 那家经纪行收一点手续费。
-③ Brokerage is deducted from the total.
-= 佣金从总额里扣。
+② The brokerage charges a small fee on every transfer out.
+= 那家经纪行每笔转出都收一点手续费。
+③ Brokerage is deducted from the total before anything reaches the seller.
+= 佣金在钱到卖方手里之前就从总额里扣掉了。
 deduct = 扣除
 构词：broker 经纪人 + -age
 词族：
@@ -66841,13 +66841,13 @@ bronc
 核心：bronco 的缩略，指牛仔竞技里那匹未驯服、专门用来让骑手
 骑上去比赛的野马。竞技项目分两类：bareback bronc 是不带鞍的，
 saddle bronc 是带鞍的。美式，可数。
-① He rode in the bronc event.
-= 他参加了野马骑乘项目。
+① He rode in the bronc event for eleven seasons without a serious injury.
+= 他参加野马骑乘项目十一个赛季，没受过重伤。
 event = 比赛项目
-② Saddle bronc uses a special saddle.
-= 带鞍项目用的是专门的鞍。
-③ The bronc threw him in four seconds.
-= 那匹野马四秒就把他甩了下来。
+② Saddle bronc uses a special saddle with no horn on the front.
+= 带鞍项目用的是专门的鞍，前面没有鞍角。
+③ The bronc threw him in four seconds and stood still afterwards.
+= 那匹野马四秒就把他甩了下来，之后就站着不动了。
 throw = 把人甩下马
 构词：bronco 的缩略
 注意地域：美式，牛仔竞技用语。
@@ -66856,14 +66856,14 @@ bronchial
 核心：形容词，支气管的。医学语境里的固定搭配就那几个：
 bronchial tubes 是支气管，bronchial asthma 是支气管哮喘，
 bronchial infection 是支气管感染。
-① The bronchial tubes narrowed.
-= 支气管变窄了。
+① The bronchial tubes narrowed and every breath came with a whistle.
+= 支气管变窄，每一口气都带着哨音。
 bronchial tubes = 支气管
-② She has bronchial asthma.
-= 她有支气管哮喘。
+② She has bronchial asthma and carries two inhalers everywhere.
+= 她有支气管哮喘，走到哪儿都带两支吸入器。
 bronchial asthma = 支气管哮喘
-③ A bronchial infection kept him home.
-= 支气管感染让他没能出门。
+③ A bronchial infection kept him home for the whole of February.
+= 支气管感染让他整个二月都没能出门。
 构词：bronchus 支气管 + -al
 词族：
 bronchitis = 支气管炎
@@ -66872,13 +66872,13 @@ bronchitic
 核心：形容词，患支气管炎的，也指支气管炎引起的。
 医学描述里说 a bronchitic cough 是那种支气管炎特有的
 带痰久咳。也作名词指长期支气管炎的病人。
-① He has a bronchitic cough.
-= 他咳的是支气管炎那种咳嗽。
+① He has a bronchitic cough that comes back every damp autumn.
+= 他咳的是支气管炎那种咳嗽，每逢潮湿的秋天就犯。
 a bronchitic cough = 支气管炎引起的咳嗽
-② The patient is bronchitic.
-= 那位病人患有支气管炎。
-③ Cold air worsens bronchitic symptoms.
-= 冷空气会加重症状。
+② The patient is bronchitic and has been for thirty years.
+= 那位病人患有支气管炎，已经三十年了。
+③ Cold air worsens bronchitic symptoms within a few minutes.
+= 冷空气几分钟内就会加重支气管炎的症状。
 worsen = 加重
 构词：bronchitis 支气管炎 + -ic
 词族：
@@ -66889,14 +66889,14 @@ bronchitis
 于是咳嗽带痰、喘不上气。分急性和慢性两种：急性多由感染引起、
 几周就好；慢性多跟长期吸烟有关，是慢阻肺的一部分。
 不可数。
-① He was off work with bronchitis.
-= 他因支气管炎请了假。
+① He was off work with bronchitis for the better part of a month.
+= 他因支气管炎请假，去掉零头也有一个月。
 be off work = 请假不上班
-② Smoking causes chronic bronchitis.
-= 吸烟会引起慢性支气管炎。
+② Smoking causes chronic bronchitis long before it causes anything worse.
+= 吸烟引起慢性支气管炎，比引起更坏的病早得多。
 chronic = 慢性的
-③ Bronchitis makes breathing hard.
-= 支气管炎让人喘不上气。
+③ Bronchitis makes breathing hard and talking harder still.
+= 支气管炎让人喘不上气，说话更费劲。
 构词：bronchus 支气管 + -itis 炎症
 注意用法：急性多由感染，慢性多跟吸烟有关。
 
@@ -66904,13 +66904,13 @@ bronchus
 核心：支气管，气管往下分出来的那两根大管子，一左一右
 各进一侧肺，再往里越分越细。复数是 bronchi，
 按拉丁语的规矩变。可数。
-① The trachea splits into two bronchi.
-= 气管分成两根支气管。
+① The trachea splits into two bronchi behind the breastbone.
+= 气管在胸骨后面分成两根支气管。
 trachea = 气管
-② Each bronchus enters one lung.
-= 每根支气管进入一侧肺。
-③ The bronchi branch repeatedly.
-= 支气管一再分支。
+② Each bronchus enters one lung and divides again inside it.
+= 每根支气管进入一侧肺，在里面再分。
+③ The bronchi branch repeatedly until the tubes are thinner than hair.
+= 支气管一再分支，细到比头发还细。
 branch = 分支
 构词：希腊语 bronchos 气管
 注意复数：bronchus 的复数是 bronchi。
@@ -66933,13 +66933,13 @@ brontosaurus
 十九世纪末命名后，二十世纪初被判定跟 Apatosaurus 是同一属、
 名字作废；但它在书本和电影里太出名，一直没被公众放弃，
 二零一五年的一项研究又把它恢复成独立的属。可数。
-① Brontosaurus had a very long neck.
-= 雷龙脖子极长。
-② Brontosaurus was folded into another genus for a century.
-= 雷龙有一百年被并进了别的属。
+① Brontosaurus had a very long neck and a tail longer still.
+= 雷龙脖子极长，尾巴更长。
+② Brontosaurus was folded into another genus for the best part of a century.
+= 雷龙有将近一百年被并进了别的属。
 be folded into = 被并入
-③ A 2015 study brought brontosaurus back.
-= 二〇一五年的一项研究把雷龙这个名字恢复了。
+③ A 2015 study brought the brontosaurus back as a genus in its own right.
+= 二〇一五年的一项研究把雷龙重新立为独立的一属。
 bring a name back = 恢复一个名称
 构词：希腊语 bronte 雷 + sauros 蜥蜴
 注意来历：名字作废过一百年，
@@ -66983,14 +66983,14 @@ bronze medallist = 铜牌得主
 bronze medal
 核心：第三名的奖牌，跟金牌银牌成对说。作定语时也说
 a bronze medallist，指铜牌得主。可数。
-① She won a bronze medal.
-= 她拿了一枚铜牌。
+① She won a bronze medal in her first year on the senior circuit.
+= 她转成年组头一年就拿了一枚铜牌。
 win a bronze medal = 夺得铜牌
-② Bronze medallists often look happiest.
-= 铜牌得主往往看着最开心。
+② Bronze medallists often look happiest of the three on the podium.
+= 领奖台上三个人里，铜牌得主往往看着最开心。
 a medallist = 奖牌得主
-③ He settled for bronze.
-= 他最终拿了铜牌。
+③ He settled for bronze after leading for most of the race.
+= 大半程都领先的他，最终只拿了铜牌。
 settle for = 退而接受
 构词：bronze 青铜 + medal 奖牌
 配对词：
@@ -67002,13 +67002,13 @@ brooch
 它跟 badge 的分别在用途：brooch 纯为好看，
 badge 是标身份的。注意它跟 broach（提起话题）同音不同词。
 可数。
-① She pinned a brooch to her coat.
-= 她在大衣上别了枚胸针。
+① She pinned a brooch to her coat where the moth hole was.
+= 她把胸针别在大衣上有虫蛀洞的地方。
 pin to = 别在
-② The brooch was her grandmother's.
-= 那枚胸针是她祖母的。
-③ Antique brooches sell well.
-= 老式胸针很好卖。
+② The brooch was her grandmother's and had lost one stone.
+= 那枚胸针是她祖母的，掉了一颗石头。
+③ Antique brooches sell well because the pins are still sound.
+= 老式胸针很好卖，别针到现在还结实。
 antique = 古董的
 构词：古法语 broche 长针
 注意别混：
@@ -67047,14 +67047,14 @@ broody
 英式口语从这里引申出一支很常用的：形容人（多说女性）
 特别想要孩子，说 she's feeling broody 就是那个意思。
 第三支是闷闷不乐、心事重重，从 brood 的沉思那一支来。
-① The hen has gone broody.
-= 那只母鸡开始抱窝了。
+① The hen has gone broody and will not leave the nest for anything.
+= 那只母鸡开始抱窝，怎么赶也不肯离窝。
 go broody = 开始抱窝
-② She felt broody after the visit.
-= 那次探访之后她特别想要孩子。
+② She felt broody after the visit and said so on the way home.
+= 那次探访之后她特别想要孩子，回家路上就说了出来。
 feel broody = 渴望要孩子（英式口语）
-③ He sat there looking broody.
-= 他坐在那儿一脸心事。
+③ He sat there looking broody and answered in one word at a time.
+= 他坐在那儿一脸心事，回话一次只吐一个词。
 构词：brood 孵；沉思 + -y
 注意地域：想要孩子那一支是英式口语。
 
@@ -67116,14 +67116,14 @@ broomstick
 核心：扫帚的长柄，也指整把细长的旧式扫帚。它在英语文化里
 有个固定形象：女巫骑着 broomstick 飞，
 所以这个词一出现常带童话和万圣节的味道。可数。
-① The witch rode a broomstick.
-= 女巫骑着扫帚飞。
+① The witch rode a broomstick across the front of the poster.
+= 海报正面画着女巫骑着扫帚飞。
 ride = 骑
-② He leaned on a broomstick.
-= 他倚着扫帚柄。
+② He leaned on a broomstick and watched the others work.
+= 他倚着扫帚柄，看别人干活。
 lean on = 倚靠
-③ Broomsticks appear in every Halloween shop.
-= 万圣节的店里到处是扫帚。
+③ Broomsticks appear in every Halloween shop by the end of September.
+= 到九月底，万圣节的店里到处都是扫帚。
 构词：broom 扫帚 + stick 棍
 注意用法：常跟女巫的形象连在一起。
 
