@@ -62,14 +62,14 @@ clink
 核心：两支。一是玻璃或金属轻碰的清脆一声：clink glasses
 是碰杯。二是英式旧俚语的监狱：in the clink 是在牢里。
 可数。
-① They clinked glasses.
-= 他们碰了杯。
+① They clinked glasses without anyone saying what for.
+= 他们碰了杯，谁也没说为什么。
 clink glasses = 碰杯
-② A clink came from the kitchen.
-= 厨房里传来一声轻碰。
+② The spoon settled against the cup with a small clink.
+= 勺子靠到杯壁上，轻轻当了一声。
 a clink = 一声轻碰
-③ He spent a night in the clink.
-= 他在牢里待了一夜。
+③ He spent a night in the clink and came out with a story.
+= 他在牢里待了一夜，出来带了个故事。
 in the clink = 在牢里（英式旧俚语）
 构词：拟声
 注意语域：监狱那一支是旧俚语。
@@ -77,14 +77,14 @@ in the clink = 在牢里（英式旧俚语）
 clinker
 核心：两支。一是炉渣块：煤烧过后结成的硬块，也指窑里
 烧结的水泥熟料。二是美式口语的彻底失败之作。可数。
-① Clinker blocked the grate.
-= 炉渣把炉栅堵了。
+① Clinker blocked the grate and the fire went out before morning.
+= 炉渣把炉栅堵了，天亮前火就灭了。
 clinker = 炉渣硬块
-② Cement clinker is ground fine.
-= 水泥熟料要磨细。
+② Cement clinker is ground fine with a little gypsum added.
+= 水泥熟料要磨细，还要掺一点石膏。
 cement clinker = 水泥熟料
-③ The film was a clinker.
-= 那部片子砸透了。
+③ The film was a clinker and closed in its second week.
+= 那部片子砸透了，第二周就下线。
 a clinker = 彻底失败之作（美式口语）
 构词：荷兰语 klinker 砖，因敲起来有声
 注意语域：失败那一支是美式口语。
@@ -92,14 +92,14 @@ a clinker = 彻底失败之作（美式口语）
 clinometer
 核心：测坡度与倾角的仪器：勘测、地质、林业里量斜面有多
 陡用它。可数。
-① The clinometer read twelve degrees.
-= 那台测斜仪读数十二度。
+① The clinometer read twelve degrees, steeper than it looked.
+= 测斜仪读数十二度，比看上去陡。
 a clinometer = 测斜仪
-② Foresters use a clinometer for tree height.
-= 林业人员用它测树高。
+② Foresters use a clinometer for tree height and pace out the base.
+= 林业人员用测斜仪测树高，底边靠步子量。
 tree height = 树高
-③ Hold the clinometer level.
-= 测斜仪要端平。
+③ Hold the clinometer level or every reading is two degrees out.
+= 测斜仪要端平，不然每个读数都差两度。
 level = 平的
 构词：希腊语 klinein 倾斜 加表示测量的词根
 注意用法：勘测与林业里的仪器名。
@@ -159,14 +159,14 @@ clipboard
 核心：两支。一是写字板：一头带夹子的硬板，站着填表用。
 二是计算机上的剪贴板：复制的内容暂存在那里，这一支今天
 更常读到。可数。
-① The nurse held a clipboard.
-= 护士拿着写字板。
+① The nurse held a clipboard and ticked things off without looking up.
+= 护士拿着写字板，头也不抬地一项项打勾。
 a clipboard = 带夹子的写字板
-② Copy it to the clipboard.
-= 复制到剪贴板。
+② Copy the address to the clipboard before you close the page.
+= 关掉页面前，先把地址复制到剪贴板。
 the clipboard = 剪贴板
-③ The clipboard only holds one item.
-= 剪贴板只存一项。
+③ The clipboard only holds one item, so paste before you copy again.
+= 剪贴板只存一项，再复制之前先粘上。
 hold = 存放
 构词：由夹子与板两个词拼成
 注意用法：计算机义今天更常读到。
@@ -175,14 +175,14 @@ clique
 核心：小圈子：抱团排外的一小群人，一定带贬义，多说职场、
 学校、圈内。形容词 cliquey 或 cliquish。法语来的词，
 读作 kleek。可数。
-① A clique runs the department.
-= 那个部门是一小圈人在管。
+① A clique runs the department and the rest hear things afterwards.
+= 那个部门是一小圈人在管，其余的人都是事后才听说。
 a clique = 抱团的小圈子
-② The club feels cliquey.
-= 那个俱乐部有点排外。
+② The club feels cliquey until somebody finally learns your name.
+= 那个俱乐部让人觉得排外，直到终于有人记住你的名字。
 cliquey = 抱团排外的
-③ She was kept out of the clique.
-= 她被那个小圈子排在外面。
+③ She was kept out of the clique and turned out to mind less than they hoped.
+= 她被那个小圈子排在外面，却没像他们指望的那样在意。
 be kept out of = 被排除在外
 构词：法语 clique 一伙人
 注意读音：读作 kleek。
@@ -190,14 +190,14 @@ be kept out of = 被排除在外
 clitic
 核心：语言学：读音上依附在别的词上、自己不单独重读的小
 成分，英语缩略形式里那半个音节就是。术语。可数。
-① The contraction is a clitic.
-= 那个缩略形式是个附着成分。
+① In 「he's late」 the 's is a clitic leaning on the word before it.
+= 在「he's late」里，那个 's 是个附着成分，靠在前一个词上。
 a clitic = 附着语素
-② Clitics cannot stand alone.
-= 附着成分不能单独出现。
+② Clitics cannot stand alone and never carry the stress of the phrase.
+= 附着成分不能单独出现，也从不承担词组的重音。
 stand alone = 单独存在
-③ Some languages attach many clitics.
-= 有些语言会附上好几个这种成分。
+③ Some languages attach four or five clitics to one verb.
+= 有些语言会在一个动词上附四五个这种成分。
 attach = 附加
 构词：希腊语 klinein 倾靠
 注意用法：语言学里的术语。
@@ -240,14 +240,14 @@ cloak-and-dagger = 间谍式神秘行事的
 clobber
 核心：两支，都是英式口语。一是动词：狠揍一顿，也引申成
 把某人整得很惨。二是名词：衣服与随身家当，不可数。
-① He got clobbered in the ring.
-= 他在拳台上被打得很惨。
+① He got clobbered in the ring and was still smiling afterwards.
+= 他在拳台上被打得很惨，下来还笑着。
 clobber = 狠揍
-② Small firms were clobbered by the rise.
-= 那次上涨把小公司整得很惨。
+② Small firms were clobbered by the rise and half of them shut.
+= 那次上涨把小公司整得很惨，一半都关了门。
 be clobbered by = 被……整得很惨
-③ Bring your walking clobber.
-= 把你的徒步装备带来。
+③ Bring your walking clobber and something dry to change into.
+= 把徒步的家当带来，再带套干衣服换。
 clobber = 衣服与随身家当（英式口语）
 构词：来历不确定，二十世纪的英式口语
 注意语域：两义都是英式口语。
@@ -256,14 +256,14 @@ cloche
 核心：两支。一是园艺的钟形罩：扣在幼苗上防霜保温的玻璃
 或塑料罩。二是钟形女帽：上世纪二十年代流行的那种紧贴头
 的帽子。法语的钟。可数。
-① Put a cloche over the seedlings.
-= 幼苗上扣个保温罩。
+① Put a cloche over the seedlings and lift it on warm afternoons.
+= 幼苗上扣个保温罩，暖和的下午掀开。
 a cloche = 园艺保温罩
-② The cloche keeps frost off.
-= 那个罩子挡霜。
+② The cloche keeps frost off but cooks everything if you forget it.
+= 那个罩子挡霜，可忘了掀就把苗全焖坏。
 keep off = 挡开
-③ She wore a cloche hat.
-= 她戴着一顶钟形帽。
+③ She wore a cloche hat pulled down to her eyebrows.
+= 她戴着钟形帽，帽檐压到眉毛。
 a cloche hat = 钟形女帽
 构词：法语 cloche 钟
 注意用法：园艺与时装两个语境里都读得到。
