@@ -72432,14 +72432,14 @@ buyout
 它有个常见的类型：management buyout 是管理层自己把公司买下来。
 它跟一般的收购的分别在彻底性：buyout 图的是拿到控制权，
 不是买一部分股份。可数。
-① They financed a management buyout.
-= 他们出资完成了管理层收购。
+① They financed a management buyout with money borrowed against the stock.
+= 他们拿存货抵押借来的钱完成了管理层收购。
 finance = 出资
-② The buyout valued it at ten million.
-= 那次收购把它估值一千万。
+② The buyout valued it at ten million and closed in six weeks.
+= 那次收购把它估值一千万，六周就交割完了。
 value at = 估值为
-③ Staff opposed the buyout.
-= 员工反对那次收购。
+③ Staff opposed the buyout and two thirds of them left within a year.
+= 员工反对那次收购，一年内走了三分之二。
 oppose = 反对
 构词：buy out 全部买下 + 名词化
 词族：
@@ -72494,14 +72494,14 @@ buzzard
 美式的 buzzard 却多指秃鹫，那是吃腐肉的，所以美国小说里
 说 buzzards circling 是"秃鹫在盘旋等着吃尸体"，
 跟英式那个意象完全不同。可数。
-① A buzzard circled overhead.
-= 一只猛禽在头顶盘旋。
+① A buzzard circled overhead for an hour without once flapping.
+= 一只猛禽在头顶盘旋了一小时，翅膀一次也没扇。
 circle = 盘旋
-② British buzzards hunt live prey.
-= 英式所指的那种鸟捕食活物。
+② British buzzards hunt live prey and take rabbits from the field.
+= 英国的鵟捕食活物，会从田里叼走兔子。
 prey = 猎物
-③ American buzzards feed on carrion.
-= 美式所指的那种吃腐肉。
+③ American buzzards feed on carrion and find it by smell.
+= 美国人说的那种鸟吃腐肉，靠气味找到它。
 carrion = 腐肉
 构词：古法语 busard
 注意地域：
@@ -72513,14 +72513,14 @@ buzzer
 比赛计时结束的那一声都是。竞赛节目里 beat the buzzer 是
 赶在铃响前答出来，篮球里 a buzzer-beater 是压哨绝杀。
 可数。
-① He pressed the buzzer.
-= 他按下了蜂鸣器。
+① He pressed the buzzer and nobody came for a quarter of an hour.
+= 他按下蜂鸣器，一刻钟没人来。
 press the buzzer = 按蜂鸣器
-② The buzzer sounded at full time.
-= 终场蜂鸣响了。
+② The buzzer sounded at full time with the score still level.
+= 终场蜂鸣响起时，比分仍是平的。
 sound = 响起
-③ She hit a buzzer-beater.
-= 她投进一记压哨球。
+③ She hit a buzzer-beater from beyond the halfway line.
+= 她在中线之外投进一记压哨球。
 a buzzer-beater = 压哨绝杀
 构词：buzz 嗡嗡响 + -er
 
@@ -72529,13 +72529,13 @@ buzzword
 其实往往说不清具体指什么。用这个词就带着怀疑：
 说 the latest buzzword 是在暗示它多半是包装，不是实质。
 可数。
-① Sustainability became a buzzword.
-= 可持续性成了个时髦词。
+① Sustainability became a buzzword before anyone had defined it.
+= 还没人给可持续性下过定义，它就成了个时髦词。
 become a buzzword = 变成人人挂嘴边的词
-② The report is full of buzzwords.
-= 那份报告满是时髦术语。
-③ Buzzwords date quickly.
-= 那类词过时得很快。
+② The report is full of buzzwords and short of actual figures.
+= 那份报告满是时髦术语，实在数字却没几个。
+③ Buzzwords date quickly and the papers keep using them anyway.
+= 那类词过时得很快，报纸照用不误。
 date = 过时
 构词：buzz 嗡嗡议论 + word 词
 注意语用：带怀疑，暗示多半是包装。
@@ -72590,14 +72590,14 @@ bycatch
 海豚、幼鱼、不值钱的杂鱼都算。它是渔业管理里的核心问题：
 很多被捞上来时已经死了，扔回海里也活不成。
 不可数。
-① Bycatch is a major concern.
-= 兼捕是个大问题。
+① Bycatch is a major concern for every fishery on that coast.
+= 对那片海岸的每个渔场来说，兼捕都是个大问题。
 a concern = 令人担忧的问题
-② Turtles often end up as bycatch.
-= 海龟常成为兼捕的牺牲品。
+② Turtles often end up as bycatch and rarely survive the net.
+= 海龟常成为兼捕的牺牲品，很少能活着离网。
 end up as = 最终成为
-③ New nets reduce bycatch.
-= 新式渔网能减少兼捕。
+③ New nets reduce bycatch by letting small fish through the mesh.
+= 新式渔网让小鱼从网眼里漏出去，减少了兼捕。
 reduce = 减少
 构词：by 附带的 + catch 渔获
 注意用法：指非目标物种的附带渔获。
@@ -72629,14 +72629,14 @@ bygone
 a bygone era 或 bygone days，指那个"回不去了"的年代，
 带一点怀旧。日常说"过去的"用 past，
 bygone 一出现就带着感慨的调子。
-① It belongs to a bygone era.
-= 那属于一个逝去的年代。
+① It belongs to a bygone era when letters took a week to arrive.
+= 那属于信件要走一星期的逝去年代。
 a bygone era = 逝去的年代
-② She spoke of bygone days.
-= 她说起从前的日子。
+② She spoke of bygone days without once saying they were better.
+= 她说起从前的日子，一次也没说那时更好。
 bygone days = 往昔的岁月
-③ The style is bygone but charming.
-= 那种样式虽已过时却别有味道。
+③ The style is bygone but charming and comes back every decade.
+= 那种样式虽已过时却别有味道，每十年就回潮一次。
 构词：by 过去 + gone 走了的
 注意语用：带怀旧的调子，
 日常说"过去的"用 past。
@@ -72659,14 +72659,14 @@ byline
 它在新闻行当里不只是个署名：拿到 byline 意味着这篇稿子
 署你的名、也由你负责，所以年轻记者会说 get a byline
 是一件要紧的事。可数。
-① The story ran without a byline.
-= 那篇报道没有署名。
+① The story ran without a byline for reasons nobody explained.
+= 那篇报道没有署名，原因谁也没说。
 run = 刊登
-② She got her first byline at twenty.
-= 她二十岁第一次署了名。
+② She got her first byline at twenty on four hundred words.
+= 她二十岁靠四百字的稿子第一次署了名。
 get a byline = 拿到署名
-③ The byline sits under the headline.
-= 署名行在标题下面。
+③ The byline sits under the headline and above the first line.
+= 署名行在标题下面、正文第一行上面。
 a headline = 标题
 构词：by 由…… + line 行
 注意用法：署名意味着由你负责。
@@ -72725,14 +72725,14 @@ byroad
 核心：小路、僻路——离开主干道的那种窄路，车少人少。
 它跟 byway 意思很近，都指不走大路的那条；
 byroad 更侧重"路"本身，用得比 byway 少。可数。
-① They took a byroad to avoid the traffic.
-= 他们走小路避开堵车。
+① They took a byroad to avoid the traffic and arrived an hour late.
+= 他们走小路避开堵车，结果晚到了一小时。
 avoid = 避开
-② The byroad wound through fields.
-= 那条小路在田间蜿蜒。
+② The byroad wound through fields with grass down the middle.
+= 那条小路在田间蜿蜒，路当中还长着草。
 wind = 蜿蜒
-③ Signposts are rare on byroads.
-= 小路上很少有路牌。
+③ Signposts are rare on byroads and the map is thirty years old.
+= 小路上很少有路牌，那张地图还是三十年前的。
 a signpost = 路牌
 构词：by 旁的 + road 路
 近义对照：
@@ -72758,14 +72758,14 @@ bystander
 无辜的旁观者，多用在伤及无辜的报道里；
 the bystander effect 指旁观者越多、越没人出手相助的现象。
 可数。
-① An innocent bystander was hurt.
-= 一名无辜路人受了伤。
+① An innocent bystander was hurt by a piece of falling stone.
+= 一块落石砸伤了一名无辜路人。
 an innocent bystander = 无辜的旁观者
-② Bystanders filmed the incident.
-= 旁观者拍下了那件事。
+② Bystanders filmed the incident and nobody called for help.
+= 旁观者都在拍那件事，没人叫人来帮忙。
 film = 拍摄
-③ The bystander effect is well documented.
-= 旁观者效应有大量记录。
+③ The bystander effect is well documented and still surprises people.
+= 旁观者效应有大量记录，人们听了还是意外。
 the bystander effect = 旁观者越多越无人相助的现象
 构词：by 旁边 + stander 站着的人
 注意用法：指在场但没参与的人。
@@ -72775,13 +72775,13 @@ byte
 要靠大小写记：小写 b 是 bit（位），大写 B 是 byte（字节），
 所以 Mb 和 MB 差八倍——网速常按 Mbps 标，
 文件大小按 MB 标，看错就会以为下载慢了八倍。可数。
-① A byte is eight bits.
-= 一个字节是八位。
-② The file is two megabytes.
-= 那个文件两兆字节。
+① A byte is eight bits, which is enough for one letter of text.
+= 一个字节是八位，正好够存一个字母。
+② The file is two megabytes and will not fit on that disk.
+= 那个文件两兆字节，那张盘装不下。
 a megabyte = 兆字节
-③ Speeds are quoted in bits, sizes in bytes.
-= 速率按位算，容量按字节算。
+③ Speeds are quoted in bits and sizes in bytes, so the two differ eightfold.
+= 速率按位算，容量按字节算，两者差八倍。
 be quoted in = 以某单位标示
 构词：可能是 bite 的改拼，避免跟 bit 混
 注意别混：
@@ -72794,14 +72794,14 @@ byway
 指某个领域里的冷僻角落——the byways of history 是
 历史上那些少有人问津的旁枝末节，这一支多用复数，
 带一点探幽的意味。可数。
-① They cycled along quiet byways.
-= 他们沿着僻静小路骑车。
+① They cycled along quiet byways and met four cars in a day.
+= 他们沿着僻静小路骑车，一天只碰上四辆车。
 along = 沿着
-② The book explores the byways of science.
-= 那本书探的是科学里的冷门角落。
+② The book explores the byways of science that textbooks skip.
+= 那本书探的是教科书跳过的科学冷门角落。
 the byways of = 某领域里少人问津的旁支
-③ Byways are open to walkers.
-= 那些小道对步行者开放。
+③ Byways are open to walkers and to horses but not to lorries.
+= 那些小道对步行者和马开放，卡车不行。
 be open to = 对……开放
 构词：by 旁的 + way 路
 注意用法：引申义多用复数，带探幽意味。
@@ -72812,14 +72812,14 @@ byword
 luxury 是"劳斯莱斯是奢华的代名词"。它可褒可贬：
 说某地是 a byword for corruption 就是骂它腐败出了名。
 可数。
-① The brand is a byword for quality.
-= 那个牌子是品质的代名词。
+① The brand is a byword for quality and charges accordingly.
+= 那个牌子是品质的代名词，价钱也照此开。
 a byword for = ……的代名词
-② The town became a byword for decline.
-= 那座城成了衰败的代名词。
+② The town became a byword for decline within a single generation.
+= 一代人之间，那座城就成了衰败的代名词。
 decline = 衰败
-③ His name is a byword among fans.
-= 他的名字在球迷里无人不晓。
+③ His name is a byword among fans who never saw him play.
+= 在没看过他比赛的球迷里，他的名字也无人不晓。
 构词：by 附加的 + word 词
 注意用法：可褒可贬，全看后面接什么。
 
@@ -72827,14 +72827,14 @@ Byzantine
 核心：两支。一是拜占庭的：东罗马帝国及其艺术与建筑。二是引申的
 普通义，小写居多：规矩多得离谱、绕来绕去让人摸不着头脑，说制度、
 手续、政治最常用，一律贬义。这一支比本义常读到。
-① The mosaics are Byzantine.
-= 那些镶嵌画是拜占庭风格的。
+① The mosaics are Byzantine and took eleven years to clean.
+= 那些镶嵌画是拜占庭风格的，清理花了十一年。
 Byzantine = 拜占庭的
-② The rules are byzantine.
-= 那些规矩繁复得让人头大。
+② The rules are byzantine and change without anyone being told.
+= 那些规矩繁复得让人头大，改了也不通知谁。
 byzantine = 繁复难解的（贬义）
-③ He got lost in the byzantine bureaucracy.
-= 他在那套盘根错节的官僚手续里转不出来。
+③ He got lost in the byzantine bureaucracy of a single planning office.
+= 光是一个规划办公室，他就在那套盘根错节的手续里转不出来。
 byzantine bureaucracy = 盘根错节的官僚体系
 构词：拜占庭 Byzantium 加 -ine
 注意用法：说帝国大写，说繁复难解多小写。
@@ -72898,14 +72898,14 @@ cabal
 串通、不受监督。多跟 a cabal of 接身份（将军、银行家）。
 派生 cabalistic 是神秘难解、藏着玄机的意思。可数，
 作主语时可跟单数也可跟复数动词。
-① A cabal of generals seized power.
-= 一小撮将领夺了权。
+① A cabal of generals seized power while the president was abroad.
+= 总统出国期间，一小撮将领夺了权。
 a cabal of = 一小撮密谋的……
-② The decision was made by a secret cabal.
-= 那个决定是一个秘密小集团定的。
+② The decision was made by a secret cabal of four board members.
+= 那个决定是四名董事组成的秘密小集团定的。
 cabal = 阴谋小集团
-③ His writing has a cabalistic obscurity.
-= 他的文章带着一种故弄玄虚的晦涩。
+③ His writing has a cabalistic obscurity that puts most readers off.
+= 他的文章带着一种故弄玄虚的晦涩，多数读者读不下去。
 cabalistic = 神秘难解的
 构词：希伯来语 qabbalah 传承的学说，经法语进英语
 注意语域：一律贬义，不能用来中性地说团队。
@@ -72927,14 +72927,14 @@ cabana
 核心：海滩或泳池边的小屋，供换衣、遮阳、休息用；
 美式英语里也指旅馆主楼之外靠着泳池的那种独立客房。
 来自西班牙语 cabana 小屋，所以多见于度假语境。可数。
-① We changed in the cabana by the pool.
-= 我们在泳池边的小屋里换了衣服。
+① We changed in the cabana by the pool and left our bags there.
+= 我们在泳池边的小屋里换了衣服，包也搁在那儿。
 cabana = 泳池边的小屋
-② The resort rents cabanas by the day.
-= 那家度假村的池畔小屋按天出租。
+② The resort rents cabanas by the day and they go by nine.
+= 那家度假村的池畔小屋按天出租，九点就租光了。
 rent by the day = 按天出租
-③ Their room was a cabana facing the sea.
-= 他们住的是一间朝海的池畔客房。
+③ Their room was a cabana facing the sea with a door onto the sand.
+= 他们住的是一间朝海的池畔客房，有扇门直通沙滩。
 cabana = 主楼外的池畔客房（美式）
 构词：西班牙语 cabana 小屋
 注意用法：只用于度假、泳池、海滩这类场合。
@@ -72944,14 +72944,14 @@ cabaret
 边吃边看的那种表演，歌舞、脱口秀都算；二是提供这种表演的
 场所本身。表演义不可数，说 in cabaret、a cabaret act；
 场所义可数。重音在第一音节，词尾 t 不发音。
-① She sings in cabaret.
-= 她唱夜总会表演。
+① She sings in cabaret four nights a week and teaches by day.
+= 她一周四晚唱夜总会表演，白天教书。
 in cabaret = 从事夜总会表演
-② The hotel puts on a cabaret every Friday.
-= 那家酒店每周五有一场歌舞表演。
+② The hotel puts on a cabaret every Friday for the same forty guests.
+= 那家酒店每周五都为同样四十位客人办一场歌舞表演。
 a cabaret act = 一段夜总会表演节目
-③ They met at a cabaret in Berlin.
-= 他们是在柏林一家夜总会认识的。
+③ They met at a cabaret in Berlin and married the following spring.
+= 他们是在柏林一家夜总会认识的，第二年春天就结了婚。
 cabaret = 有表演的夜总会
 构词：法语 cabaret 小酒馆
 注意读音：词尾 t 不发音。
@@ -72961,14 +72961,14 @@ cabbage
 说人是 cabbage，指因重病或脑损伤而失去反应能力的人，
 这个用法带冒犯性，现在多避开。作菜通常不可数，
 a head of cabbage 才是一颗，指整颗时可数。
-① Shred the cabbage finely.
-= 把卷心菜切成细丝。
+① Shred the cabbage finely and salt it for an hour before cooking.
+= 把卷心菜切成细丝，下锅前先用盐腌一小时。
 shred = 切成细丝
-② She bought two heads of cabbage.
-= 她买了两颗卷心菜。
+② She bought two heads of cabbage and used one of them that night.
+= 她买了两颗卷心菜，当晚就用掉一颗。
 a head of cabbage = 一颗卷心菜
-③ Red cabbage keeps its colour if you add vinegar.
-= 加点醋，紫甘蓝就不会掉色。
+③ Red cabbage keeps its colour if you add a spoonful of vinegar.
+= 加一勺醋，紫甘蓝就不会掉色。
 red cabbage = 紫甘蓝
 构词：古法语 caboche 头，因为菜长得像个头
 注意语域：说人的那个义项带冒犯性，避免使用。
@@ -72978,14 +72978,14 @@ cabbalistic
 藏着只有内行才懂的玄机。另拼作 cabalistic、kabbalistic，
 三种写法通用，词典以 cabbalistic 立条，名词是 cabbala。
 多作定语，语域偏书面。
-① He studied cabbalistic texts for years.
-= 他研究卡巴拉典籍多年。
+① He studied cabbalistic texts for years and published none of it.
+= 他研究卡巴拉典籍多年，一个字也没发表。
 cabbalistic = 卡巴拉的
-② The diagram was covered in cabbalistic symbols.
-= 那张图上满是神秘符号。
+② The diagram was covered in cabbalistic symbols and one plain arrow.
+= 那张图上满是神秘符号，外加一个普通箭头。
 cabbalistic symbols = 玄奥难解的符号
-③ Her argument had a cabbalistic complexity.
-= 她的论证复杂得近乎玄学。
+③ Her argument had a cabbalistic complexity that hid a simple point.
+= 她的论证复杂得近乎玄学，底下藏的却是个简单道理。
 构词：希伯来语 qabbalah 传承的学说
 注意拼写：cabbalistic 与 cabalistic 通用，别当成两个词。
 
@@ -72993,14 +72993,14 @@ caber
 核心：苏格兰高地运动会上抛的那根去皮杉木杆。这个词几乎
 只出现在一个搭配里：toss the caber，抛木杆。来自盖尔语
 cabar 杆、椽。可数，但很少脱离那个搭配单独出现。
-① He tossed the caber twenty feet.
-= 他把木杆抛了二十英尺远。
+① He tossed the caber twenty feet and it landed almost straight.
+= 他把木杆抛了二十英尺，落地时几乎是直的。
 toss the caber = 抛木杆
-② The caber is a stripped pine trunk.
-= 那根木杆是去了皮的松木干。
+② The caber is a stripped pine trunk about six metres long.
+= 那根木杆是去了皮的松木干，约六米长。
 stripped = 去了皮的
-③ Caber tossing draws the biggest crowd.
-= 抛木杆是最吸引人的项目。
+③ Caber tossing draws the biggest crowd of the whole afternoon.
+= 抛木杆是一下午里最吸引人的项目。
 caber tossing = 抛木杆比赛
 构词：盖尔语 cabar 杆、椽
 注意用法：基本只用在 toss the caber 这个说法里。
@@ -73111,14 +73111,14 @@ caboodle
 的说法是 the whole kit and caboodle，意思是全部家当、
 一整套，一个不落。口语，带点夸张的轻松口气。
 单独说 caboodle 不成话，必须带 the whole。
-① They sold the whole caboodle for a hundred pounds.
-= 他们把整套东西一百镑全卖了。
+① They sold the whole caboodle for a hundred pounds and moved out.
+= 他们把整套东西一百镑全卖了，然后搬走。
 the whole caboodle = 全部、一整套
-② He turned up with the whole kit and caboodle.
-= 他把全套家当都搬来了。
+② He turned up with the whole kit and caboodle in one small car.
+= 他用一辆小车把全套家当都搬来了。
 the whole kit and caboodle = 全部家当，一个不落
-③ We packed up the whole kit and caboodle in an hour.
-= 我们一小时就把所有东西打包好了。
+③ We packed up the whole kit and caboodle in under an hour.
+= 我们不到一小时就把所有东西打包好了。
 pack up = 打包收拾
 注意用法：不能单独用，必须放在 the whole 后面。
 
