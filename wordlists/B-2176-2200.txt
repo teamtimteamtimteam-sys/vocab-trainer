@@ -194,10 +194,10 @@ baud
 信号状态。它常被当成比特率的同义词，其实不是：
 一个符号可以携带多个比特，所以比特率往往高于波特率。
 以法国工程师 Baudot 命名。
-① The modem ran at 300 baud.
-= 那台调制解调器工作在三百波特。
-② Baud rate is not the same as bit rate.
-= 波特率不等于比特率。
+① The modem ran at 300 baud and took a minute to draw one page.
+= 那台调制解调器工作在三百波特，画出一页要一分钟。
+② A line can carry two bits per symbol, so the baud figure stays lower.
+= 一个符号能带两个比特，所以波特数比比特数低。
 baud rate = 波特率
 注意别混：
 baud = 波特（每秒符号数）
@@ -207,11 +207,11 @@ Bauhaus
 核心：包豪斯：一九一九年在德国办起来的设计学校，也指它带出来的
 风格 —— 形式服从功能，去装饰、重结构，用钢管玻璃与几何形。作定语
 最常见：Bauhaus design。不可数。
-① The chair is pure Bauhaus.
-= 那把椅子是纯正的包豪斯风格。
+① The chair is pure Bauhaus and cost more than the table it stands by.
+= 那把椅子是纯正的包豪斯风格，比旁边那张桌子还贵。
 pure Bauhaus = 纯正的包豪斯风格
-② Bauhaus design still shapes furniture today.
-= 包豪斯的设计观今天还影响着家具。
+② Bauhaus design still shapes furniture today, eighty years after it closed.
+= 包豪斯关门八十年了，它的设计观至今还影响着家具。
 Bauhaus design = 包豪斯设计
 构词：德语 Bau 建造 + Haus 房子
 注意用法：既指那所学校，也指它带出来的风格。
@@ -378,11 +378,11 @@ bazoom
 核心：美式俚语，指女性的胸部，多用复数 bazooms。
 语气粗俗且带物化色彩，属于那种"听起来滑稽但并不礼貌"的词。
 词形是拿 bosom 拗出来的。
-① Old comedies got easy laughs out of bazooms.
-= 旧喜剧靠拿胸脯说事换廉价笑声。
+① Old comedies got easy laughs out of bazooms and aged very badly.
+= 旧喜剧靠拿胸脯说事换廉价笑声，如今看着极难堪。
 bazooms = 胸部（粗俗俚语，多用复数）
-② He made a bazoom joke and nobody laughed.
-= 他拿胸脯开了个粗俗玩笑，没人笑。
+② Someone in the crowd yelled about her bazooms and was thrown out.
+= 人群里有人冲她喊了句粗话，被赶了出去。
 a bazoom joke = 拿胸脯开的粗俗玩笑
 注意语域：
 粗俗且带物化，正式与礼貌场合一律不用。
