@@ -3,13 +3,13 @@ bumptious
 觉得自己什么都懂。它跟 confident 的分界在惹不惹人烦：
 confident 是让人服气，bumptious 一定是让人反感。
 偏书面，贬义。
-① He is a bumptious young man.
-= 他是个自以为是的年轻人。
-② Her bumptious manner irritated them.
-= 她那副张扬做派把他们惹烦了。
+① He is a bumptious young man who corrects people twice his age.
+= 他是个自以为是的年轻人，比他大一倍的人也要纠正。
+② Her bumptious manner irritated a committee she needed on her side.
+= 她那副张扬做派惹烦了本该拉拢的委员会。
 irritate = 惹烦
-③ The tone is bumptious throughout.
-= 那语气通篇自命不凡。
+③ The tone is bumptious throughout and the argument never arrives.
+= 那语气通篇自命不凡，论点始终没出来。
 throughout = 通篇
 构词：bump 撞 加仿 fractious 的词尾
 近义对照：
@@ -20,13 +20,13 @@ bumpy
 核心：两支。一是路面或表面不平的、颠簸的。二是比喻：
 过程不顺、磕磕绊绊的，a bumpy ride 是"一路坎坷"，
 说创业说改革说婚姻都行，这一支用得比字面还多。
-① The road is bumpy.
-= 那条路很颠。
-② We had a bumpy flight.
-= 那趟飞行很颠簸。
+① The road is bumpy for the last mile and the surface has gone.
+= 最后一英里的路很颠，路面已经烂了。
+② We had a bumpy flight and the drinks were never served.
+= 那趟飞行很颠簸，饮料一直没送上来。
 a bumpy flight = 颠簸的航程
-③ The company is in for a bumpy ride.
-= 那家公司要有一段难走的路。
+③ The company is in for a bumpy ride with three suppliers gone.
+= 三家供应商没了，那家公司要有一段难走的路。
 a bumpy ride = 坎坷的过程
 构词：bump 撞、凸起 + -y
 注意用法：比喻义比字面义还常用。
@@ -163,14 +163,14 @@ bungee
 bungee jumping——人绑着这根绳从高处跳下去，绳绷到极限
 再把人弹回来。也指行李用的那种两头带钩的弹力绳。
 可数。
-① They went bungee jumping.
-= 他们去玩蹦极了。
+① They went bungee jumping off a bridge over a dry riverbed.
+= 他们到一座跨着干河床的桥上玩蹦极。
 bungee jumping = 蹦极
-② The bungee stretched and recoiled.
-= 那根弹力绳绷开又收了回去。
+② The bungee stretched and recoiled twice before he stopped falling.
+= 那根弹力绳绷开又收回两次，他才停住不落。
 recoil = 回弹
-③ He strapped the load with bungees.
-= 他用弹力绳把货捆住。
+③ He strapped the load with bungees hooked to the roof rails.
+= 他用挂在车顶行李架上的弹力绳把货捆住。
 strap = 用带子捆
 构词：来历不明，二十世纪的词
 注意用法：几乎只用在 bungee jumping 这个搭配里。
@@ -180,13 +180,13 @@ bungle
 多因笨拙或没经验。它跟 botch 意思很近，分工很细：
 botch 更偏手艺活做坏了，bungle 更偏事情办砸了，
 所以 bungle the investigation 说的是调查搞砸。及物。
-① They bungled the whole operation.
-= 他们把整个行动搞砸了。
+① They bungled the whole operation and blamed the weather for it.
+= 他们把整个行动搞砸了，还怪到天气头上。
 bungle something = 把某事办砸
-② The escape was bungled.
-= 那次逃跑弄砸了。
-③ He bungled his lines.
-= 他台词说砸了。
+② The escape was bungled at the last fence.
+= 那次逃跑在最后一道栅栏前弄砸了。
+③ He bungled his lines and the audience laughed in the wrong place.
+= 他台词说砸了，观众在不该笑的地方笑了。
 lines = 台词
 构词：可能来自斯堪的纳维亚语
 近义对照：
@@ -197,12 +197,12 @@ bungler
 核心：办事笨拙、老把事情搞砸的人。它带明确的贬义，
 但骂的是能力不是人品——说某人是 bungler 是说他做不好，
 不是说他心术不正。可数。
-① The report calls him a bungler.
-= 那份报告说他办事不力。
-② Only a bungler would try that.
-= 只有蠢手才会那么试。
-③ The bunglers were replaced.
-= 那些办砸事的人被换掉了。
+① The report calls him a bungler and lists eleven separate mistakes.
+= 那份报告说他办事不力，列了十一处错误。
+② Only a bungler would try that with the power still switched on.
+= 只有蠢手才会在电闸还开着的时候那么试。
+③ The bunglers were replaced by a crew that had built the same bridge twice.
+= 那些办砸事的人被换成了一班修过两次同样桥梁的人。
 replace = 换掉
 构词：bungle 办砸 + -er
 注意语用：骂的是能力，不是人品。
@@ -211,13 +211,13 @@ bungling
 核心：形容词，笨手笨脚办不成事的。它多修饰人和机构，
 常见搭配是 bungling incompetence 和 a bungling attempt。
 也作名词指那种拙劣的做法。贬义。
-① The bungling police lost the evidence.
-= 办事不力的警方把证据弄丢了。
-② It was a bungling attempt at repair.
-= 那次修理弄得一塌糊涂。
+① The bungling police lost the evidence between two stations.
+= 办事不力的警方把证据丢在了两个警局之间。
+② It was a bungling attempt at repair that cracked the casing.
+= 那次修理弄得一塌糊涂，外壳都裂了。
 a bungling attempt = 笨拙失败的尝试
-③ Their bungling cost lives.
-= 他们的失职酿成了人命。
+③ Their bungling cost lives that a working radio would have saved.
+= 他们的失职酿成了人命，一台好使的无线电本可救下。
 cost lives = 造成人员死亡
 构词：bungle 办砸 + -ing
 
@@ -339,14 +339,14 @@ bunt
 让球滚出很短的距离，好让跑垒员推进。它是战术性打法，
 牺牲自己上垒的机会换队友前进，所以有 sacrifice bunt 的说法。
 名词动词同形。
-① He laid down a bunt.
-= 他打了个触击。
+① He laid down a bunt that died two feet inside the line.
+= 他打了个触击，球在界内两英尺处就停住了。
 lay down a bunt = 打出触击球
-② A sacrifice bunt advances the runner.
-= 牺牲触击能让跑垒员推进。
+② A sacrifice bunt advances the runner and costs you an out.
+= 牺牲触击让跑垒员推进，代价是送掉一个出局数。
 advance = 使推进
-③ The batter squared to bunt.
-= 打者摆出了触击的架势。
+③ The batter squared to bunt and the infield came in.
+= 打者摆出触击架势，内野手一齐上前。
 square = 摆正身体准备触击
 构词：可能是 butt 的变体
 注意用法：不挥棒，只轻挡，是战术打法。
@@ -356,14 +356,14 @@ bunting
 拉在街上或屋里做装饰，节庆和婚礼上最常见，不可数。
 二是鸟名：鹀，一类小型雀鸟，corn bunting、snow bunting
 都是。可数。
-① The street was hung with bunting.
-= 街上挂满了彩旗。
+① The street was hung with bunting left over from the last coronation.
+= 街上挂满了上一次加冕典礼剩下的彩旗。
 be hung with bunting = 挂满彩旗
-② They put up bunting for the party.
-= 他们为派对挂了彩旗。
+② They put up bunting for the party and left it there till autumn.
+= 他们为派对挂了彩旗，一直挂到秋天。
 put up = 挂起
-③ A snow bunting landed on the rock.
-= 一只雪鹀落在石头上。
+③ A snow bunting landed on the rock and stayed for a minute.
+= 一只雪鹀落在石头上，待了约一分钟。
 bunting = 鹀（一类小型雀鸟）
 构词：来历不明
 注意用法：两支毫无关系，靠语境分。
@@ -392,14 +392,14 @@ buoyancy
 物体排开多少水就受多大浮力。引申一路指"托得住"的状态：
 说人是情绪高涨、有韧劲，说市场是行情活跃、跌不下去。
 不可数。
-① Salt water increases buoyancy.
-= 盐水浮力更大。
+① Salt water increases buoyancy enough to float a swimmer without effort.
+= 盐水浮力更大，人不用使劲就浮得住。
 increase = 增加
-② The market showed surprising buoyancy.
-= 市场表现出意外的韧劲。
+② The market showed surprising buoyancy through a bad winter.
+= 熬过一个糟糕的冬天，市场表现出意外的韧劲。
 buoyancy = 行情的活跃与抗跌
-③ Her natural buoyancy carried her through.
-= 她天生的乐观劲儿撑她过了关。
+③ Her natural buoyancy carried her through two failed businesses.
+= 她天生那股乐观劲儿，撑着她挺过了两次生意失败。
 carry someone through = 支撑某人渡过
 构词：buoy 浮标 + -ancy
 词族：
@@ -427,14 +427,14 @@ buppie
 核心：美式，指年轻、受过高等教育、收入不错的黑人专业人士。
 词是 black 加 yuppie 拼出来的，跟 yuppie 一样带一点调侃，
 八九十年代用得多，今天已不常见。可数。
-① The magazine targeted buppies.
-= 那本杂志瞄准的是这一群体。
+① The magazine targeted buppies and folded within three years.
+= 那本杂志瞄准的是这一群体，三年就停刊了。
 target = 以……为目标
-② Buppie blends black and yuppie.
-= 这个词是由「黑人」和「雅皮」拼出来的。
+② A buppie in the eighties was expected to own a car and a flat.
+= 八十年代，这样一个年轻黑人专业人士被默认该有车有房。
 buppie = 年轻的黑人专业人士（美式）
-③ Buppies were a media fixture in the eighties.
-= 八十年代媒体上到处是这类人。
+③ Buppies were a media fixture in the eighties and forgotten by the nineties.
+= 八十年代媒体上到处是这类人，到九十年代就没人提了。
 a media fixture = 媒体上的常客
 构词：black + yuppie 拼合
 注意语域：美式，带调侃，今天不常见。
@@ -443,14 +443,14 @@ bur
 核心：植物的一种果实或花序，外面长满带钩的刺，能钩住动物的毛
 和人的衣服，靠这个方式把种子带到远处去。苍耳就是典型。
 也拼作 burr。可数。
-① Burs stuck to his socks.
-= 苍耳刺钩在他袜子上。
+① Burs stuck to his socks and took an evening to pick out.
+= 苍耳刺钩在他袜子上，摘了一晚上。
 stick to = 粘住、钩住
-② The hooks on a bur catch in fur.
-= 苍耳上的倒钩会钩住兽毛。
+② The hooks on a bur catch in fur and travel with the animal.
+= 苍耳上的倒钩钩住兽毛，就跟着动物走了。
 catch in fur = 钩住兽毛
-③ A bur hitches a ride on a passing animal.
-= 苍耳搭过路动物的便车。
+③ A bur hitches a ride on any passing animal that brushes it.
+= 只要有动物蹭过去，苍耳就搭上便车。
 hitch a ride = 搭便车
 构词：斯堪的纳维亚语，指带刺的果壳
 注意拼写：也拼作 burr。
