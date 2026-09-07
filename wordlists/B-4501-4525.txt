@@ -188,14 +188,14 @@ chivvy somebody into = 催着某人做某事
 chlamydia
 核心：一类细菌，也指它引起的性传播感染：常见、往往没有
 症状，不治会伤生育能力。公共卫生文字里常见。不可数。
-① Chlamydia often has no symptoms.
-= 那种感染常常没有症状。
+① Chlamydia often has no symptoms, so it is found at a routine screen.
+= 沙眼衣原体感染常常没有症状，多是常规筛查时查出来的。
 chlamydia = 沙眼衣原体感染
-② Testing for chlamydia is quick.
-= 那项检测很快。
+② Testing for chlamydia is quick and the sample can be posted in.
+= 那项检测很快，样本还可以寄回去。
 testing = 检测
-③ Untreated chlamydia can cause infertility.
-= 不治可能导致不孕。
+③ Untreated chlamydia can scar the tubes and cause infertility years later.
+= 不治的话会让输卵管留疤，几年后导致不孕。
 infertility = 不育
 构词：希腊语 khlamys 斗篷，因菌体形态
 注意用法：公共卫生宣传里常读到。
@@ -203,14 +203,14 @@ infertility = 不育
 chloride
 核心：氯化物：氯跟别的元素结合成的化合物，最常说的是
 sodium chloride 氯化钠，也就是食盐。化学术语。
-① Sodium chloride is table salt.
-= 氯化钠就是食盐。
+① Sodium chloride is table salt and nothing more exotic than that.
+= 氯化钠就是食盐，没有更玄的东西。
 sodium chloride = 氯化钠
-② Chloride levels were high.
-= 氯化物含量偏高。
+② Chloride levels in the well were high enough to taste.
+= 那口井的氯化物含量高到能尝出来。
 level = 含量
-③ Chlorides dissolve readily.
-= 氯化物容易溶解。
+③ Chlorides dissolve readily and carry the corrosion into the steel.
+= 氯化物容易溶解，把腐蚀带进钢里。
 dissolve = 溶解
 构词：由表示氯的词根加化合物后缀
 注意别混：氯化物是化合物，氯本身是元素。
@@ -219,14 +219,14 @@ chlorine
 核心：氯：黄绿色的有毒气体，符号 Cl，用来消毒自来水与
 泳池，也是化工原料。动词 chlorinate 是加氯消毒，名词
 chlorination。不可数。
-① Chlorine kills bacteria in the pool.
-= 氯能杀死泳池里的细菌。
+① Chlorine kills bacteria in the pool but stings your eyes by evening.
+= 氯能杀死泳池里的细菌，可到傍晚会蜇眼睛。
 chlorine = 氯
-② The water is chlorinated.
-= 那水是加氯处理过的。
+② The water is chlorinated at the works before it reaches the tap.
+= 水在厂里就加了氯，之后才进水龙头。
 chlorinate = 加氯消毒
-③ Chlorination made tap water safe.
-= 加氯处理让自来水变得安全。
+③ Chlorination ended the cholera years in one city after another.
+= 加氯处理让一个又一个城市结束了霍乱年代。
 chlorination = 加氯消毒处理
 构词：希腊语 khloros 黄绿色
 注意别混：氯是元素，氯化物是它的化合物。
@@ -235,14 +235,14 @@ chlorofluorocarbon
 核心：氟氯烃：从前用作制冷剂与喷雾推进剂的一类化合物，
 因为破坏臭氧层，国际公约之后被逐步淘汰。读写都常用缩写
 形式。可数。
-① Chlorofluorocarbons damaged the ozone layer.
-= 氟氯烃破坏了臭氧层。
+① Chlorofluorocarbons thinned the ozone layer over the poles first.
+= 氟氯烃最先让两极上空的臭氧层变薄。
 a chlorofluorocarbon = 氟氯烃
-② Chlorofluorocarbons were phased out worldwide.
-= 氟氯烃在全球被逐步淘汰。
+② Chlorofluorocarbons were phased out under a treaty that actually worked.
+= 氟氯烃依一项确实见效的条约被逐步淘汰。
 phase out = 逐步淘汰
-③ Old fridges still contain chlorofluorocarbons.
-= 旧冰箱里还有氟氯烃。
+③ Old fridges still contain chlorofluorocarbons and must be drained first.
+= 旧冰箱里还有氟氯烃，报废前得先抽出来。
 contain = 含有
 构词：由氯、氟、碳三个词根拼成
 注意用法：读写都常用缩写形式。
@@ -251,14 +251,14 @@ chloroform
 核心：三氯甲烷：一种无色带甜味的液体，从前当麻醉剂用，
 因毒性早已停用；小说与电影里常出现用它把人迷倒的情节。
 动词是用它迷倒。不可数。
-① Chloroform was an early anaesthetic.
-= 三氯甲烷是早期的麻醉剂。
+① Chloroform was an early anaesthetic and killed a fair number of patients.
+= 三氯甲烷是早期麻醉剂，也害死过不少病人。
 chloroform = 三氯甲烷
-② She was chloroformed and carried out.
-= 她被迷倒后被抬了出去。
+② She was chloroformed and carried out through the service door.
+= 她被迷倒后从后门抬了出去。
 chloroform somebody = 用药把某人迷倒
-③ Chloroform is no longer used in surgery.
-= 手术里早已不用它了。
+③ Chloroform left the operating theatre once safer gases arrived.
+= 有了更安全的气体之后，三氯甲烷就退出了手术室。
 no longer = 不再
 构词：由氯与蚁酸那个词根拼成
 注意用法：迷倒那一支多出现在小说与电影里。
@@ -266,14 +266,14 @@ no longer = 不再
 chlorophyll
 核心：叶绿素：让植物呈绿色的色素，靠它把光变成化学能。
 装着它的那个细胞器叫 chloroplast。不可数。
-① Chlorophyll makes leaves green.
-= 叶绿素让叶子发绿。
+① Chlorophyll makes leaves green and drains away before they turn.
+= 叶绿素让叶子发绿，叶子变色前它先退掉。
 chlorophyll = 叶绿素
-② Chlorophyll captures sunlight.
-= 叶绿素吸收阳光。
+② Chlorophyll captures sunlight at two narrow bands and reflects the rest.
+= 叶绿素只在两段窄光谱吸收阳光，其余都反射掉。
 capture = 吸收、捕获
-③ Chloroplasts hold the chlorophyll.
-= 叶绿体里装着叶绿素。
+③ Chloroplasts hold the chlorophyll and shuffle about inside the cell.
+= 叶绿体里装着叶绿素，还在细胞里挪来挪去。
 a chloroplast = 叶绿体
 构词：希腊语 khloros 绿 加 phullon 叶
 注意用法：生物课本里的基本词。
