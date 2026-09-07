@@ -94494,14 +94494,14 @@ colophon
 核心：版本记录：书末或书前那一段交代印刷者、字体、纸张
 与印数的文字，也指出版社的社徽。文献学与出版语境里的词。
 可数。
-① The colophon names the printer.
-= 那段版本记录写着印刷者。
+① The colophon names the printer and the year in three lines.
+= 那段版本记录用三行写出印刷者和年份。
 a colophon = 版本记录
-② The colophon appears at the end.
-= 那段文字在书末。
+② She checks the colophon before she buys anything second hand.
+= 买二手书之前，她都先翻版本记录。
 appear at = 出现在
-③ The publisher's colophon is a swan.
-= 那家出版社的社徽是只天鹅。
+③ The publisher's colophon is a swan and shrinks to nothing on the spine.
+= 那家出版社的社徽是只天鹅，印到书脊上就小得看不见。
 a colophon = 出版社社徽
 构词：希腊语 kolophon 顶点、收尾
 注意用法：文献学与出版语境里的词。
@@ -94521,14 +94521,14 @@ report a Colorado beetle = 上报发现马铃薯甲虫
 coloratura
 核心：花腔：声乐里那种快速跑动、带装饰音的华丽唱法，
 也指擅长这种唱法的女高音。意大利语来的词。
-① The aria demands coloratura.
-= 那首咏叹调要求花腔。
+① The aria demands coloratura and a breath that lasts twelve bars.
+= 那首咏叹调要求花腔，还要一口气撑过十二小节。
 coloratura = 花腔唱法
-② She is a coloratura soprano.
-= 她是花腔女高音。
+② She is a coloratura soprano and sings above the orchestra with ease.
+= 她是花腔女高音，轻松就唱得过整个乐队。
 a coloratura soprano = 花腔女高音
-③ The runs are pure coloratura.
-= 那些跑动是纯花腔。
+③ The runs are pure coloratura and mean nothing on the page.
+= 那些跑动是纯花腔，写在纸上什么也看不出。
 a run = 快速音群
 构词：意大利语 coloratura 着色
 注意用法：声乐与乐评里的术语。
@@ -94536,14 +94536,14 @@ a run = 快速音群
 colossal
 核心：巨大的：说规模、数额、失误都行。口语里常用来夸张。
 副词 colossally。
-① It was a colossal mistake.
-= 那是个天大的错。
+① It was a colossal mistake and took two years to undo.
+= 那是个天大的错，花了两年才补回来。
 a colossal mistake = 天大的错
-② The statue is colossal.
-= 那座像巨大无比。
+② The statue is colossal and had to be brought in by river.
+= 那座像巨大无比，只能走水路运进来。
 colossal = 巨大的
-③ They spent a colossal amount.
-= 他们花了一大笔。
+③ They spent a colossal amount on a car park nobody uses.
+= 他们在一个没人用的停车场上花了一大笔。
 a colossal amount = 巨额
 构词：由表示巨像的那个词加形容词后缀
 注意用法：口语里常用来夸张。
@@ -94568,14 +94568,14 @@ colostomy
 核心：结肠造口术：把结肠引到腹壁上开一个口，粪便排进
 外置的袋子里，多在肠道手术后做，可以是暂时的也可以是
 永久的。可数。
-① He had a colostomy last year.
-= 他去年做了结肠造口。
+① He had a colostomy last year and was back at work in six weeks.
+= 他去年做了结肠造口，六周后就回去上班了。
 a colostomy = 结肠造口术
-② The colostomy bag is changed daily.
-= 那个造口袋每天换。
+② The colostomy bag is changed daily and takes about four minutes.
+= 那个造口袋每天换一次，大约四分钟。
 a colostomy bag = 造口收集袋
-③ Some colostomies are reversed later.
-= 有些造口后来会还原。
+③ Some colostomies are reversed later once the bowel has healed.
+= 肠子长好之后，有些造口会还原。
 be reversed = 被还原
 构词：由表示结肠与开口的两部分拼成
 注意用法：医学用词。
@@ -94583,14 +94583,14 @@ be reversed = 被还原
 colostrum
 核心：初乳：分娩后最初几天分泌的那种浓稠淡黄的乳，抗体
 含量极高，对新生儿的免疫很要紧。不可数。
-① Colostrum is rich in antibodies.
-= 初乳抗体含量很高。
+① Colostrum is rich in antibodies the newborn cannot make yet.
+= 初乳里的抗体，新生儿自己还造不出来。
 colostrum = 初乳
-② Calves need colostrum early.
-= 小牛要尽早吃到初乳。
+② Calves need colostrum within six hours or they never catch up.
+= 小牛六小时内要吃到初乳，不然一辈子都补不回来。
 early = 尽早
-③ Colostrum comes before mature milk.
-= 初乳在成熟乳之前。
+③ Colostrum is thicker and yellower than the milk that follows.
+= 初乳比随后来的乳更稠、更黄。
 come before = 在……之前
 构词：拉丁语 colostrum
 注意用法：育儿与畜牧文字里常见。
@@ -94723,14 +94723,14 @@ colt
 核心：小公马：四岁以下的雄马，母的那种叫 filly。形容词
 coltish 说人年轻、腿长、动作还不太稳当，多带一点可爱的
 意味。可数。
-① The colt is two years old.
-= 那匹小公马两岁。
+① The colt is two years old and has never had a saddle on him.
+= 那匹小公马两岁，还没上过鞍。
 a colt = 小公马
-② Colts are broken in gradually.
-= 小马是慢慢驯的。
+② Colts are broken in gradually over a whole winter.
+= 小马是整整一冬慢慢驯出来的。
 be broken in = 被驯服
-③ She had a coltish awkwardness.
-= 她有种小马驹式的不稳当。
+③ She had a coltish awkwardness that she grew out of in a year.
+= 她有种小马驹式的不稳当，一年就长过去了。
 coltish = 年轻腿长、动作不稳当的
 构词：古英语 colt
 注意别混：母的那种叫 filly。
@@ -94781,14 +94781,14 @@ com
 核心：网址里的顶级域名，读作 dot com：本表示商业机构，
 今天几乎人人都能注册。引申的 a dot-com 指网络公司，
 the dot-com bubble 是世纪之交那轮网络股泡沫。可数。
-① The site ends in com.
-= 那个网址以那个后缀结尾。
+① They paid a fortune for the com version of the name.
+= 那个名字的商业后缀版本，他们花了一大笔才买下。
 com = 商业顶级域名
-② She founded a dot-com in 1999.
-= 她一九九九年办了家网络公司。
+② She founded a dot-com in 1999 and sold it eighteen months later.
+= 她一九九九年办了家网络公司，十八个月后卖掉了。
 a dot-com = 网络公司
-③ The dot-com bubble burst in 2000.
-= 那轮网络泡沫二零零零年破了。
+③ The dot-com bubble burst in 2000 and took the office furniture with it.
+= 那轮网络泡沫二零零零年破了，连办公家具都赔了进去。
 the dot-com bubble = 网络股泡沫
 构词：由表示商业的那个形容词截短而来
 注意用法：读作 dot com。
@@ -94940,14 +94940,14 @@ a combine harvester = 联合收割机
 combo
 核心：两支，都是口语。一是小型演奏组合：三五个人的爵士
 或流行乐队。二是泛指任何组合与套餐。可数。
-① A jazz combo played all night.
-= 一支爵士小组合弹了一整夜。
+① A jazz combo played all night for the price of the meals.
+= 一支爵士小组合弹了一整夜，酬劳就是几顿饭。
 a combo = 小型演奏组合
-② He ordered the combo meal.
-= 他点了套餐。
+② He ordered the combo meal and gave away the drink.
+= 他点了套餐，把饮料送了人。
 a combo meal = 套餐
-③ That colour combo works.
-= 那个配色搭得不错。
+③ That colour combo works on screen and dies in print.
+= 那个配色在屏幕上好看，一印出来就完了。
 a combo = 组合、搭配
 构词：由 combination 截短而来
 注意语域：口语。
@@ -94956,14 +94956,14 @@ combust
 核心：燃烧：正式与技术用词，日常说 burn。名词
 combustion，internal combustion 是内燃，这个搭配最常
 读到；形容词 combustible 是易燃的，也作名词指可燃物。
-① The gas combusts cleanly.
-= 那种气体燃烧得干净。
+① The gas combusts cleanly and leaves the burner unmarked.
+= 那种气体燃烧得干净，炉头上一点痕迹都不留。
 combust = 燃烧
-② Internal combustion engines are being phased out.
-= 内燃机正在被淘汰。
+② Internal combustion engines are being phased out one country at a time.
+= 内燃机正被一个国家接一个国家地淘汰。
 internal combustion = 内燃
-③ Store combustible material apart.
-= 可燃物要分开存放。
+③ Store combustible material apart from anything that sparks.
+= 可燃物要跟一切会打火的东西分开存放。
 combustible = 易燃的；可燃物
 构词：拉丁语 comburere 烧尽
 注意用法：内燃那个搭配最常读到。
@@ -95178,14 +95178,14 @@ comeback
 核心：两支。一是复出、回升：make a comeback 是重新回到
 从前的位置，说人也说风格与产品，这一支最常读到。二是
 口语的回嘴：一句机敏的反驳。可数。
-① She made a comeback at forty.
-= 她四十岁复出。
+① She made a comeback at forty and won the title within a year.
+= 她四十岁复出，一年内就拿了冠军。
 make a comeback = 复出、回升
-② Vinyl made a comeback.
-= 黑胶又流行回来了。
+② Vinyl made a comeback and now costs more than it ever did.
+= 黑胶又流行回来了，价钱比从前还贵。
 make a comeback = 重新流行
-③ He had a quick comeback.
-= 他一句反驳很利。
+③ He had a quick comeback ready for anyone who mentioned the score.
+= 谁提起比分，他都备好一句利落的回嘴。
 a comeback = 一句机敏的回嘴
 构词：由表示来与回的两部分拼成
 注意用法：复出那一支最常读到。
@@ -95194,14 +95194,14 @@ comedian
 核心：喜剧演员：靠说笑话与滑稽表演谋生的人。女性旧称
 comedienne，今天多不分性别一律说 comedian。形容词
 comedic 是喜剧的。也带贬义地说某人爱逗、不正经。可数。
-① The comedian tried new material.
-= 那位喜剧演员试了新段子。
+① The comedian tried new material on a Tuesday in a small room.
+= 那位喜剧演员挑了个周二，在小场子里试新段子。
 a comedian = 喜剧演员
-② She started as a comedienne.
-= 她是从女喜剧演员做起的。
+② She started as a comedienne when the bill still used the word.
+= 她入行时演出单上还写着女喜剧演员，她就是从那儿做起的。
 a comedienne = 女喜剧演员（旧称）
-③ His comedic timing is perfect.
-= 他的喜剧节奏极准。
+③ His comedic timing is perfect and the words themselves are ordinary.
+= 他的喜剧节奏极准，词句本身却很平常。
 comedic = 喜剧的
 构词：由表示喜剧的那个词加表示人的后缀
 注意用法：今天多不分性别一律说 comedian。
@@ -95242,14 +95242,14 @@ comer
 核心：来的人：几乎只出现在几个固定说法里。all comers 是
 来的人一概奉陪，a late comer 是来晚的人；美式还用
 an up-and-comer 指后起之秀。可数。
-① She takes on all comers.
-= 谁来她都接。
+① She takes on all comers and has not lost since March.
+= 谁来她都接，三月以来一场没输。
 all comers = 来的人一概
-② Late comers waited outside.
-= 来晚的人在外面等。
+② Late comers waited outside until the first interval.
+= 来晚的人在外面等到第一次幕间休息。
 a late comer = 来晚的人
-③ He is an up-and-comer.
-= 他是个后起之秀。
+③ He is an up-and-comer and everyone wants him on their panel.
+= 他是个后起之秀，谁都想请他上自己的场。
 an up-and-comer = 后起之秀（美式）
 构词：由表示来的那个动词加表示人的后缀
 注意用法：几乎只出现在那几个固定说法里。
@@ -95269,14 +95269,14 @@ lay out the comestibles = 把吃食摆开
 comet
 核心：彗星：绕日运行的冰尘天体，靠近太阳时受热挥发，
 拖出长长的彗尾。可数。
-① The comet returns every seventy-six years.
-= 那颗彗星每七十六年回来一次。
+① The comet returns every seventy-six years and misses most lifetimes.
+= 那颗彗星每七十六年回来一次，多数人一辈子都赶不上。
 a comet = 彗星
-② A comet grows a tail near the sun.
-= 彗星靠近太阳时长出尾。
+② A comet grows a tail near the sun that always points away from it.
+= 彗星靠近太阳时长出尾，尾巴永远背着太阳。
 a tail = 彗尾
-③ Comets are mostly ice and dust.
-= 彗星主要是冰与尘。
+③ Comets are mostly ice and dust held loosely together.
+= 彗星主要是冰与尘，松松地聚在一起。
 mostly = 主要是
 构词：希腊语 kometes 长发的，因彗尾像长发
 注意用法：天文语境里的基本词。
@@ -95402,14 +95402,14 @@ comfrey
 核心：聚合草：叶子粗糙带毛的一种草本植物，开紫的或白的
 钟形小花，传统上捣烂了敷伤处，园子里也拿来沤肥。
 不可数。
-① Comfrey grows by the stream.
-= 溪边长着聚合草。
+① Comfrey grows by the stream and comes back thicker every year.
+= 溪边长着聚合草，一年比一年长得密。
 comfrey = 聚合草
-② She made a comfrey poultice.
-= 她做了个聚合草敷剂。
+② She made a comfrey poultice and tied it on with a strip of cloth.
+= 她做了个聚合草敷剂，拿布条绑上。
 a poultice = 敷剂
-③ Gardeners grow comfrey for compost.
-= 园丁种聚合草是为了沤肥。
+③ Gardeners grow comfrey for compost and cut it four times a season.
+= 园丁种聚合草沤肥，一季割四回。
 grow comfrey for compost = 种聚合草沤肥
 构词：古法语 confire 治愈
 注意用法：不可数。
@@ -95479,14 +95479,14 @@ comity
 核心：国与国之间以礼相待、互相尊重对方的法律与习惯，
 法律与外交的正式词，最常见的搭配是 comity of nations。
 也泛指人与人之间的和睦相处。不可数。
-① The treaty rests on the comity of nations.
-= 那份条约建立在国际礼让之上。
+① The treaty rests on the comity of nations and very little else.
+= 那份条约靠的是国际礼让，此外几乎没有别的。
 the comity of nations = 国际礼让
-② Comity broke down after the scandal.
-= 那桩丑闻之后和睦就没了。
+② Comity broke down after the scandal and the two sides stopped meeting.
+= 那桩丑闻之后和睦就没了，两边不再见面。
 comity = 和睦相处
-③ Courts extend comity to foreign judgments.
-= 法院对外国判决予以礼让承认。
+③ Courts extend comity to foreign judgments unless the process was unfair.
+= 除非审理程序不公，法院对外国判决都予以礼让承认。
 extend comity = 给予礼让
 构词：拉丁语 comitas 谦和
 注意语域：法律与外交的正式词。
@@ -95575,14 +95575,14 @@ a command post = 指挥所（前线的临时指挥点）
 commandant
 核心：指挥官，尤其指军校、战俘营、要塞这类机构的主官。
 是个头衔，常放在姓名前。可数。
-① The commandant inspected the barracks.
-= 主官视察了营房。
+① The commandant inspected the barracks and found the kitchens worst.
+= 主官视察了营房，觉得厨房最糟。
 a commandant = 主官、指挥官
-② She was appointed commandant of the academy.
-= 她被任命为那所学院的主官。
+② She was appointed commandant of the academy at forty-two.
+= 她四十二岁被任命为那所学院的主官。
 commandant of = ……的主官
-③ Prisoners petitioned the camp commandant.
-= 战俘向营地主官请愿。
+③ Prisoners petitioned the camp commandant for a doctor.
+= 战俘向营地主官请愿，要求派个医生来。
 the camp commandant = 营地主官
 构词：法语 commandant 指挥的人
 注意用法：多用于军事院校与营地一类机构。
@@ -95590,14 +95590,14 @@ the camp commandant = 营地主官
 commandeer
 核心：为公用或军用而强行征用私人财物，车、房、船都行。
 也口语地夸张说「霸占」，比如把会议室占了。及物。
-① Troops commandeered the trucks.
-= 部队征用了那些卡车。
+① Troops commandeered the trucks and left a receipt nobody could redeem.
+= 部队征用了那些卡车，留下一张兑不了的收据。
 commandeer = 强行征用
-② The hotel was commandeered as a hospital.
-= 那家旅馆被征用做了医院。
+② The hotel was commandeered as a hospital within a week of the landing.
+= 登陆一周之内，那家旅馆就被征用做了医院。
 be commandeered as = 被征用作
-③ He commandeered the best chair.
-= 他霸占了最好的那把椅子。
+③ He commandeered the best chair before anyone else came in.
+= 别人还没进来，他就霸占了最好的那把椅子。
 commandeer = 霸占（口语的夸张说法）
 构词：南非荷兰语 kommandeer 征调
 注意语域：第三支是口语玩笑。
@@ -95605,14 +95605,14 @@ commandeer = 霸占（口语的夸张说法）
 commandment
 核心：诫命，尤其指圣经里的十诫 the Ten Commandments。
 泛用时指郑重宣布的规条，带宗教或庄严色彩。可数。
-① The Ten Commandments are in Exodus.
-= 十诫在《出埃及记》里。
+① The Ten Commandments are in Exodus and again, differently, later on.
+= 十诫在《出埃及记》里，后面还有个不一样的版本。
 the Ten Commandments = 十诫
-② He broke the sixth commandment.
-= 他犯了第六诫。
+② He broke the sixth commandment and spent the rest of his life saying so.
+= 他犯了第六诫，后半辈子都在说这件事。
 a commandment = 诫命
-③ Punctuality was her first commandment.
-= 守时是她奉为第一条的铁律。
+③ Punctuality was her first commandment and she applied it to funerals.
+= 守时是她奉为第一条的铁律，连葬礼也照办。
 a commandment = 奉为铁律的规条
 构词：command 命令 + -ment
 注意语域：带宗教与庄严色彩。
@@ -95621,14 +95621,14 @@ commando
 核心：突击队，也指突击队员：受特种训练、执行突袭任务的
 小分队。复数写 commandos，也写 commandoes。口语习语 go
 commando 是里面不穿内裤，玩笑话。可数。
-① He served in the commandos.
-= 他在突击队服过役。
+① He served in the commandos and never once said where.
+= 他在突击队服过役，从没说过在哪里。
 a commando = 突击队员
-② A commando raid destroyed the bridge.
-= 一次突击队袭击炸毁了那座桥。
+② A commando raid destroyed the bridge and both sides lost the crossing.
+= 一次突击队袭击炸毁了那座桥，两边都过不去了。
 a commando raid = 突击队袭击
-③ They went commando under their kilts.
-= 他们裙子底下什么也没穿。
+③ They went commando under their kilts and told everybody afterwards.
+= 他们裙子底下什么也没穿，事后逢人便讲。
 go commando = 不穿内裤（玩笑话）
 构词：南非荷兰语 kommando 民兵队
 注意语域：第三支是口语玩笑。
@@ -95650,15 +95650,15 @@ commemorate
 核心：纪念：用仪式、碑、邮票之类把某人某事记下来，免得
 被忘掉。名词 commemoration，形容词 commemorative，
 a commemorative stamp 是纪念邮票。及物，常用被动。
-① The statue commemorates the dead.
-= 那座雕像纪念死者。
+① The statue commemorates the dead of two wars on one plinth.
+= 那座雕像在同一个底座上纪念两场战争的死者。
 commemorate = 纪念
 commemorate = 纪念（某个日子）
-② They gathered in commemoration of her work.
-= 他们聚在一起纪念她的工作。
+② They gathered in commemoration of her work with the fishing families.
+= 他们聚在一起，纪念她为渔民家庭做过的事。
 in commemoration of = 为纪念……
-③ He collects commemorative stamps.
-= 他收集纪念邮票。
+③ He collects commemorative stamps and has never posted one.
+= 他收集纪念邮票，一张也没寄出去过。
 a commemorative stamp = 纪念邮票
 构词：拉丁语 commemorare 记起
 注意用法：及物，常用被动。

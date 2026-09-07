@@ -238,14 +238,14 @@ colophon
 核心：版本记录：书末或书前那一段交代印刷者、字体、纸张
 与印数的文字，也指出版社的社徽。文献学与出版语境里的词。
 可数。
-① The colophon names the printer.
-= 那段版本记录写着印刷者。
+① The colophon names the printer and the year in three lines.
+= 那段版本记录用三行写出印刷者和年份。
 a colophon = 版本记录
-② The colophon appears at the end.
-= 那段文字在书末。
+② She checks the colophon before she buys anything second hand.
+= 买二手书之前，她都先翻版本记录。
 appear at = 出现在
-③ The publisher's colophon is a swan.
-= 那家出版社的社徽是只天鹅。
+③ The publisher's colophon is a swan and shrinks to nothing on the spine.
+= 那家出版社的社徽是只天鹅，印到书脊上就小得看不见。
 a colophon = 出版社社徽
 构词：希腊语 kolophon 顶点、收尾
 注意用法：文献学与出版语境里的词。
@@ -265,14 +265,14 @@ report a Colorado beetle = 上报发现马铃薯甲虫
 coloratura
 核心：花腔：声乐里那种快速跑动、带装饰音的华丽唱法，
 也指擅长这种唱法的女高音。意大利语来的词。
-① The aria demands coloratura.
-= 那首咏叹调要求花腔。
+① The aria demands coloratura and a breath that lasts twelve bars.
+= 那首咏叹调要求花腔，还要一口气撑过十二小节。
 coloratura = 花腔唱法
-② She is a coloratura soprano.
-= 她是花腔女高音。
+② She is a coloratura soprano and sings above the orchestra with ease.
+= 她是花腔女高音，轻松就唱得过整个乐队。
 a coloratura soprano = 花腔女高音
-③ The runs are pure coloratura.
-= 那些跑动是纯花腔。
+③ The runs are pure coloratura and mean nothing on the page.
+= 那些跑动是纯花腔，写在纸上什么也看不出。
 a run = 快速音群
 构词：意大利语 coloratura 着色
 注意用法：声乐与乐评里的术语。
@@ -280,14 +280,14 @@ a run = 快速音群
 colossal
 核心：巨大的：说规模、数额、失误都行。口语里常用来夸张。
 副词 colossally。
-① It was a colossal mistake.
-= 那是个天大的错。
+① It was a colossal mistake and took two years to undo.
+= 那是个天大的错，花了两年才补回来。
 a colossal mistake = 天大的错
-② The statue is colossal.
-= 那座像巨大无比。
+② The statue is colossal and had to be brought in by river.
+= 那座像巨大无比，只能走水路运进来。
 colossal = 巨大的
-③ They spent a colossal amount.
-= 他们花了一大笔。
+③ They spent a colossal amount on a car park nobody uses.
+= 他们在一个没人用的停车场上花了一大笔。
 a colossal amount = 巨额
 构词：由表示巨像的那个词加形容词后缀
 注意用法：口语里常用来夸张。
@@ -312,14 +312,14 @@ colostomy
 核心：结肠造口术：把结肠引到腹壁上开一个口，粪便排进
 外置的袋子里，多在肠道手术后做，可以是暂时的也可以是
 永久的。可数。
-① He had a colostomy last year.
-= 他去年做了结肠造口。
+① He had a colostomy last year and was back at work in six weeks.
+= 他去年做了结肠造口，六周后就回去上班了。
 a colostomy = 结肠造口术
-② The colostomy bag is changed daily.
-= 那个造口袋每天换。
+② The colostomy bag is changed daily and takes about four minutes.
+= 那个造口袋每天换一次，大约四分钟。
 a colostomy bag = 造口收集袋
-③ Some colostomies are reversed later.
-= 有些造口后来会还原。
+③ Some colostomies are reversed later once the bowel has healed.
+= 肠子长好之后，有些造口会还原。
 be reversed = 被还原
 构词：由表示结肠与开口的两部分拼成
 注意用法：医学用词。
@@ -327,14 +327,14 @@ be reversed = 被还原
 colostrum
 核心：初乳：分娩后最初几天分泌的那种浓稠淡黄的乳，抗体
 含量极高，对新生儿的免疫很要紧。不可数。
-① Colostrum is rich in antibodies.
-= 初乳抗体含量很高。
+① Colostrum is rich in antibodies the newborn cannot make yet.
+= 初乳里的抗体，新生儿自己还造不出来。
 colostrum = 初乳
-② Calves need colostrum early.
-= 小牛要尽早吃到初乳。
+② Calves need colostrum within six hours or they never catch up.
+= 小牛六小时内要吃到初乳，不然一辈子都补不回来。
 early = 尽早
-③ Colostrum comes before mature milk.
-= 初乳在成熟乳之前。
+③ Colostrum is thicker and yellower than the milk that follows.
+= 初乳比随后来的乳更稠、更黄。
 come before = 在……之前
 构词：拉丁语 colostrum
 注意用法：育儿与畜牧文字里常见。
@@ -467,14 +467,14 @@ colt
 核心：小公马：四岁以下的雄马，母的那种叫 filly。形容词
 coltish 说人年轻、腿长、动作还不太稳当，多带一点可爱的
 意味。可数。
-① The colt is two years old.
-= 那匹小公马两岁。
+① The colt is two years old and has never had a saddle on him.
+= 那匹小公马两岁，还没上过鞍。
 a colt = 小公马
-② Colts are broken in gradually.
-= 小马是慢慢驯的。
+② Colts are broken in gradually over a whole winter.
+= 小马是整整一冬慢慢驯出来的。
 be broken in = 被驯服
-③ She had a coltish awkwardness.
-= 她有种小马驹式的不稳当。
+③ She had a coltish awkwardness that she grew out of in a year.
+= 她有种小马驹式的不稳当，一年就长过去了。
 coltish = 年轻腿长、动作不稳当的
 构词：古英语 colt
 注意别混：母的那种叫 filly。
