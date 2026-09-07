@@ -65,11 +65,11 @@ Boolean logic = 布尔逻辑
 Boolean operator
 核心：布尔运算符：AND、OR、NOT 这一类，把若干条件组合成一个真假
 判断。检索时用它缩小或扩大范围，编程里用它写条件。可数。
-① Use Boolean operators to narrow the search.
-= 用布尔运算符把检索范围收窄。
+① Use Boolean operators to narrow the search before you read anything.
+= 先用布尔运算符把检索范围收窄，再开始读。
 a Boolean operator = 布尔运算符
-② The three basic Boolean operators are easy to learn.
-= 三个基本的布尔运算符很好学。
+② A missing Boolean operator returned nine thousand results.
+= 少写了一个布尔运算符，检索出来九千条结果。
 Boolean operators = 布尔运算符（复数）
 构词：Boolean 加 operator
 注意用法：写检索式与写代码是它最常出现的两处。
@@ -337,11 +337,11 @@ bootboy
 核心：两支，都跟靴子有关。旧义指旅馆或大户人家里专管擦靴的
 男仆，那是十九世纪的差事。英式另有一支指上世纪七十年代穿大头靴
 在街头闹事的青年，跟球场骚乱和光头党那股风气连在一起。可数。
-① The hotel employed a bootboy.
-= 那家旅馆雇了个擦靴的小厮。
+① The hotel employed a bootboy who slept under the stairs.
+= 那家旅馆雇了个擦靴的小厮，睡在楼梯底下。
 employ = 雇用
-② Bootboys wore heavy boots.
-= 那些街头青年穿的是大头靴。
+② Bootboys wore heavy boots and travelled to away matches in packs.
+= 那些街头青年穿着大头靴，成群结队跟着客场比赛跑。
 构词：boot 靴 + boy 男孩
 注意年代：两支都偏旧，今天少用。
 
@@ -382,11 +382,11 @@ bootie
 核心：两支。一是 bootee 的另一种拼法，指婴儿软鞋和女式短靴。
 二是美式俚语，指臀部，跟 booty 那个拼法通用，
 多见于流行歌词，语气轻佻。可数。
-① The baby kicked off one bootie.
-= 婴儿蹬掉了一只软鞋。
+① The baby kicked off one bootie somewhere between the shop and home.
+= 从店里到家的路上，婴儿把一只软鞋蹬掉了。
 kick off = 蹬掉
-② She bought suede booties.
-= 她买了双麂皮短靴。
+② She bought suede booties and wore them through one wet autumn.
+= 她买了双麂皮短靴，一个多雨的秋天就穿坏了。
 suede = 麂皮
 注意拼写：婴儿鞋那一支也写作 bootee。
 注意语域：指臀部那一支是俚语，语气轻佻。

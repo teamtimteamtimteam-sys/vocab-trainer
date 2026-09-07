@@ -59627,11 +59627,11 @@ Boolean logic = 布尔逻辑
 Boolean operator
 核心：布尔运算符：AND、OR、NOT 这一类，把若干条件组合成一个真假
 判断。检索时用它缩小或扩大范围，编程里用它写条件。可数。
-① Use Boolean operators to narrow the search.
-= 用布尔运算符把检索范围收窄。
+① Use Boolean operators to narrow the search before you read anything.
+= 先用布尔运算符把检索范围收窄，再开始读。
 a Boolean operator = 布尔运算符
-② The three basic Boolean operators are easy to learn.
-= 三个基本的布尔运算符很好学。
+② A missing Boolean operator returned nine thousand results.
+= 少写了一个布尔运算符，检索出来九千条结果。
 Boolean operators = 布尔运算符（复数）
 构词：Boolean 加 operator
 注意用法：写检索式与写代码是它最常出现的两处。
@@ -59899,11 +59899,11 @@ bootboy
 核心：两支，都跟靴子有关。旧义指旅馆或大户人家里专管擦靴的
 男仆，那是十九世纪的差事。英式另有一支指上世纪七十年代穿大头靴
 在街头闹事的青年，跟球场骚乱和光头党那股风气连在一起。可数。
-① The hotel employed a bootboy.
-= 那家旅馆雇了个擦靴的小厮。
+① The hotel employed a bootboy who slept under the stairs.
+= 那家旅馆雇了个擦靴的小厮，睡在楼梯底下。
 employ = 雇用
-② Bootboys wore heavy boots.
-= 那些街头青年穿的是大头靴。
+② Bootboys wore heavy boots and travelled to away matches in packs.
+= 那些街头青年穿着大头靴，成群结队跟着客场比赛跑。
 构词：boot 靴 + boy 男孩
 注意年代：两支都偏旧，今天少用。
 
@@ -59944,11 +59944,11 @@ bootie
 核心：两支。一是 bootee 的另一种拼法，指婴儿软鞋和女式短靴。
 二是美式俚语，指臀部，跟 booty 那个拼法通用，
 多见于流行歌词，语气轻佻。可数。
-① The baby kicked off one bootie.
-= 婴儿蹬掉了一只软鞋。
+① The baby kicked off one bootie somewhere between the shop and home.
+= 从店里到家的路上，婴儿把一只软鞋蹬掉了。
 kick off = 蹬掉
-② She bought suede booties.
-= 她买了双麂皮短靴。
+② She bought suede booties and wore them through one wet autumn.
+= 她买了双麂皮短靴，一个多雨的秋天就穿坏了。
 suede = 麂皮
 注意拼写：婴儿鞋那一支也写作 bootee。
 注意语域：指臀部那一支是俚语，语气轻佻。
@@ -60072,11 +60072,11 @@ booty
 核心：两支，来路不同。旧义是战利品、抢来的赃物，海盗和劫掠的
 语境里常见。另一支是美式俚语，指臀部，多见于流行歌词和口语，
 语气轻佻，也拼作 bootie。不可数居多。
-① The pirates divided the booty.
-= 海盗们分了赃。
+① The pirates divided the booty on the beach and buried none of it.
+= 海盗在沙滩上分了赃，一件也没埋。
 divide the booty = 分赃
-② Soldiers carried off the booty.
-= 士兵把战利品掳走了。
+② Soldiers carried off the booty and the city was left standing.
+= 士兵把战利品掳走了，城倒是留了下来。
 carry off = 掳走
 构词：中低地德语 bute 交换、分赃
 注意语域：指臀部那一支是俚语，语气轻佻。
@@ -60086,11 +60086,11 @@ bootylicious
 booty（俚语的臀部）加 delicious 拼出来的，二零零一年因为一首
 流行歌红遍英语世界，后来进了词典。语气轻佻，多是玩笑或自夸，
 不用于正经场合。
-① The song called her bootylicious.
-= 那首歌唱她身材惹眼。
+① The whole chorus is about being bootylicious and nothing else.
+= 整段副歌唱的就是身材惹眼，别的什么都没有。
 call somebody bootylicious = 说某人身材惹眼
-② She called herself bootylicious.
-= 她自夸身材惹眼。
+② She called herself bootylicious and dared anyone to disagree.
+= 她自夸身材惹眼，谁不服就来说。
 构词：booty 臀部 + delicious 美味的
 注意语域：美式俚语，轻佻，玩笑场合用。
 
@@ -60173,11 +60173,11 @@ borage
 核心：一种一年生草本，开蓝色的星形小花，叶子和茎上有硬毛，
 掐一片叶子闻有黄瓜味。花可以冻进冰块或撒在沙拉上，
 英国夏天的鸡尾酒里常拿它做装饰。不可数。
-① Borage has star-shaped blue flowers.
-= 琉璃苣开蓝色星形花。
+① Borage has star-shaped blue flowers and stems that prickle.
+= 琉璃苣开蓝色星形花，茎上带扎手的硬毛。
 star-shaped = 星形的
-② Freeze borage flowers into ice cubes.
-= 把琉璃苣花冻进冰块里。
+② Freeze borage flowers into ice cubes for the summer jugs.
+= 把琉璃苣花冻进冰块，夏天调饮用。
 ice cube = 冰块
 构词：拉丁语 borago
 注意用法：叶子有黄瓜味，是它最好认的一点。
@@ -60218,21 +60218,21 @@ bordelaise
 核心：法国菜里的一种酱汁，用红葡萄酒加小葱、骨髓和高汤收稠，
 浇在牛排上。名字来自波尔多——那一带产红酒，所以以酒打底的
 做法就叫"波尔多式的"。多作定语，写成 sauce bordelaise。
-① He ordered steak bordelaise.
-= 他点了波尔多红酒汁牛排。
-② Sauce bordelaise uses red wine.
-= 那种酱汁是用红葡萄酒做的。
+① He ordered steak bordelaise and the marrow came separately.
+= 他点了波尔多红酒汁牛排，骨髓是另装的。
+② Sauce bordelaise uses red wine reduced to a spoonful.
+= 波尔多酱汁用红酒收到只剩一勺。
 构词：法国地名 Bordeaux 波尔多
 注意用法：以红酒打底是这道酱汁的定义。
 
 bordello
 核心：妓院。这个词偏文学和旧式，今天日常说话不用它，
 多见于小说、历史写作和带点戏谑的语境。可数，复数 bordellos。
-① The novel is set in a bordello.
-= 那本小说的背景是一家妓院。
+① The novel is set in a bordello above a laundry.
+= 那本小说的背景是一家洗衣房楼上的妓院。
 be set in = 以某处为背景
-② Bordellos appear in period dramas.
-= 时代剧里常出现这类场所。
+② The bordello kept a piano and paid the player more than the drinks earned.
+= 那家妓院备着一架钢琴，付给琴师的钱比卖酒还多。
 period drama = 时代剧
 构词：意大利语 bordello
 注意语域：偏文学与旧式，日常不用。
@@ -60582,10 +60582,10 @@ borstal
 后来的说法是 youth custody centre，所以这个词今天只出现在
 历史叙述和旧小说里，但仍带着强烈的社会含义：
 说某人 been to borstal 等于说他少年时进过局子。可数。
-① He was sent to borstal at fifteen.
-= 他十五岁被送进了少年教养院。
-② Borstals were abolished in 1982.
-= 那种教养院在一九八二年废止。
+① He was sent to borstal at fifteen and came out able to weld.
+= 他十五岁被送进少年教养院，出来时会电焊了。
+② Borstals were abolished in 1982 and the buildings became prisons.
+= 那种教养院一九八二年废止，房子改成了监狱。
 abolish = 废除
 构词：英格兰肯特郡地名 Borstal
 注意年代：制度已废，今天只用于历史语境。
@@ -60644,11 +60644,11 @@ bosomy
 核心：形容词，指女性胸部丰满。它带轻佻和物化色彩，
 今天多出现在旧小说和不太讲究的写作里，正经场合不用来
 形容真人。
-① The novel describes a bosomy landlady.
-= 那本小说写了个胸部丰满的女房东。
+① The novel describes a bosomy landlady who runs the whole street.
+= 那本小说写了个胸部丰满的女房东，整条街都归她管。
 a bosomy landlady = 胸部丰满的女房东
-② Calling a colleague bosomy would be a mistake.
-= 说同事身材丰满，那是要出事的。
+② Old advertisements used bosomy figures to sell everything from beer to tractors.
+= 旧广告拿丰满的女性形象卖东西，从啤酒卖到拖拉机。
 call somebody bosomy = 说某人胸部丰满（冒犯）
 构词：bosom 胸 + -y
 注意语用：带轻佻与物化色彩，
@@ -60706,11 +60706,11 @@ assertive = 有主见敢表达的（褒义）
 Boston baked beans
 核心：美式菜：白豆加糖蜜与咸猪肉慢烤几个钟头，甜咸交织。波士顿因
 这道菜得了 Beantown 的外号。恒作复数。
-① Boston baked beans take all afternoon.
-= 那道焗豆要烤一下午。
+① Boston baked beans take all afternoon and most of the molasses.
+= 波士顿糖蜜焗豆要烤一下午，糖蜜也用掉大半瓶。
 Boston baked beans = 波士顿糖蜜焗豆
-② Boston baked beans are sweeter than the tinned kind.
-= 那道焗豆比罐头的甜。
+② Boston baked beans are sweeter than the tinned kind and far less salty.
+= 波士顿焗豆比罐头的甜，也淡得多。
 be sweeter than = 比……甜
 构词：城市名加菜名
 注意用法：恒作复数，谓语用复数动词。
@@ -60930,11 +60930,11 @@ botnet
 指挥——电脑、路由器、摄像头都可能中招。用途是发垃圾邮件和
 发动流量攻击。要害在"主人不知情"：这些机器照常给主人用，
 背地里同时听命于别人。可数。
-① The botnet launched a huge attack.
-= 那个僵尸网络发起了大规模攻击。
+① The botnet launched a huge attack from half a million cameras.
+= 那个僵尸网络动用五十万台摄像头发起了大规模攻击。
 launch an attack = 发动攻击
-② Infected routers joined the botnet.
-= 被感染的路由器加入了僵尸网络。
+② Infected routers joined the botnet and went on working normally.
+= 被感染的路由器加入了僵尸网络，照样正常工作。
 infected = 被感染的
 构词：bot 程序 + net 网络
 注意用法：要害是设备主人不知情。
@@ -60958,11 +60958,11 @@ Botswanan
 核心：博茨瓦纳的。这个国家的国民称谓不跟形容词走：一个人叫
 Motswana，一群人叫 Batswana，都不是在国名后面加后缀得来的。
 说形容词才用这一个。
-① Botswanan diamonds fund the budget.
-= 博茨瓦纳的钻石撑着财政。
+① Botswanan diamonds fund the budget and pay for the schools.
+= 博茨瓦纳的钻石撑着财政，也养着学校。
 Botswanan diamonds = 博茨瓦纳钻石
-② The Botswanan government issued a permit.
-= 博茨瓦纳政府发了许可。
+② The Botswanan government issued a permit within a fortnight.
+= 博茨瓦纳政府两周内就发了许可。
 the Botswanan government = 博茨瓦纳政府
 构词：国名加 -n
 注意用法：说人用 Motswana 与 Batswana，说事物才用这个形容词。
@@ -61115,11 +61115,11 @@ botulin
 极微量就能阻断神经与肌肉之间的信号，让肌肉动不了。
 正因为这个作用，稀释到极低浓度后被用来除皱和治疗肌肉痉挛。
 不可数。
-① Botulin blocks nerve signals.
-= 肉毒毒素会阻断神经信号。
+① Botulin blocks nerve signals and the muscle simply stops.
+= 肉毒毒素阻断神经信号，肌肉就那么不动了。
 block = 阻断
-② Botulin is extremely potent.
-= 肉毒毒素毒性极强。
+② Botulin is extremely potent and is handled in micrograms.
+= 肉毒毒素毒性极强，用量以微克计。
 potent = 效力强的
 构词：拉丁语 botulus 香肠
 词族：
@@ -61130,11 +61130,11 @@ botulism
 症状是从头面开始的肌肉无力，重的会呼吸衰竭。名字来自拉丁语的
 "香肠"——十九世纪德国最早在变质的香肠里发现它。
 家庭自制罐头密封不当是常见来源。不可数。
-① Botulism can be fatal.
-= 肉毒中毒可能致命。
+① Botulism can be fatal and the first sign is often double vision.
+= 肉毒中毒可能致命，最先出现的常常是复视。
 fatal = 致命的
-② Home canning can cause botulism.
-= 家庭自制罐头可能引起肉毒中毒。
+② Home canning can cause botulism if the jars are not heated enough.
+= 罐子加热不够，家庭自制罐头就可能引起肉毒中毒。
 canning = 装罐
 构词：拉丁语 botulus 香肠
 注意来历：最早是在变质香肠里发现的。
@@ -61173,11 +61173,11 @@ bouffant
 核心：形容发型蓬松高耸——头发在头顶堆出很大的体积，
 靠倒梳和定型来撑住。六十年代最流行，蜂窝头就是它的一种。
 也作名词指那种发型。法语借词，重音在后。
-① She wore her hair in a bouffant.
-= 她梳着蓬松高耸的发型。
+① She wore her hair in a bouffant that would not fit under the hood.
+= 她梳着蓬松高耸的发型，连帽子都罩不下。
 a bouffant = 蓬高的发型
-② Bouffant styles need backcombing.
-= 那种发型要靠倒梳撑起来。
+② Bouffant styles need backcombing and half a can of lacquer.
+= 那种发型要靠倒梳，还要半罐定型胶。
 backcombing = 倒梳
 构词：法语 bouffer 鼓起
 词族：
@@ -61222,10 +61222,10 @@ bouillabaisse
 核心：法国南部马赛一带的杂鱼汤，用当天卖不掉的小杂鱼加番红花、
 茴香和橘皮炖，配蒜辣蛋黄酱和面包片吃。它的来历是渔民的家常
 做法——好鱼拿去卖，剩下的下锅，后来反倒成了名菜。不可数。
-① They ordered bouillabaisse in Marseille.
-= 他们在马赛点了杂鱼汤。
-② Bouillabaisse uses several kinds of fish.
-= 那道汤要用好几种鱼。
+① They ordered bouillabaisse in Marseille and it came in two courses.
+= 他们在马赛点了杂鱼汤，分两道端上来。
+② Bouillabaisse uses several kinds of fish and none of the good ones.
+= 那道汤要用好几种鱼，好鱼一条都不用。
 构词：普罗旺斯语，字面是"煮开后转小火"
 注意来历：本是渔民处理杂鱼的家常做法。
 
@@ -61469,11 +61469,11 @@ bounden
 核心：古旧的形容词，今天只活在一个搭配里：bounden duty，
 意思是义不容辞的本分。它是 bind 的一个古过去分词形式——
 被"捆"在身上的责任。除了这个说法，别处不再用它。
-① It is my bounden duty to report it.
-= 上报此事是我义不容辞的本分。
+① It is my bounden duty to report it, however late in the day.
+= 不管这时候多晚，上报此事是我义不容辞的本分。
 bounden duty = 义不容辞的责任
-② He spoke of his bounden duty.
-= 他提到了自己应尽的本分。
+② He spoke of his bounden duty and resigned the same afternoon.
+= 他提到自己应尽的本分，当天下午就辞了职。
 构词：bind 的古过去分词
 注意年代：古旧，只用于 bounden duty。
 
@@ -61481,11 +61481,11 @@ bounder
 核心：英式旧俚语，指行为不端、占人便宜的男人——骗钱、
 玩弄感情、赖账的那种。语气介于骂和轻蔑之间，今天只在
 旧小说和老电影里听得到，说话已经不用了。可数。
-① He called the man an absolute bounder.
-= 他骂那人是个十足的无赖。
+① He called the man an absolute bounder and would not shake hands.
+= 他骂那人是个十足的无赖，不肯跟他握手。
 an absolute bounder = 十足的无赖
-② Bounders appear in Victorian novels.
-= 那类角色常见于维多利亚时代的小说。
+② The bounder borrowed from three of her cousins and left the county.
+= 那个无赖跟她三个表亲都借了钱，然后离开了郡。
 构词：bound 跳 + -er，原指爱张扬的人
 注意年代：英式旧俚语，今天只在旧文本里遇到。
 
@@ -61509,11 +61509,11 @@ bounteous
 核心：形容词，慷慨的、丰饶的。它是 bountiful 的文学变体，
 今天几乎只出现在诗、颂词和刻意仿古的文字里，
 日常写作用 generous 或 plentiful。
-① They gave thanks for a bounteous harvest.
-= 他们为丰收致谢。
+① They gave thanks for a bounteous harvest and put half of it in store.
+= 他们为丰收致谢，把一半收成入了仓。
 a bounteous harvest = 丰饶的收成
-② Nature is bounteous here.
-= 这里物产丰饶。
+② Nature is bounteous here and the winters are still very long.
+= 这里物产丰饶，冬天却仍旧极长。
 构词：古法语 bontif 好心的
 注意语域：文学与仿古用语，日常不用。
 
