@@ -50663,14 +50663,14 @@ birthing
 核心：分娩这件事，尤指看重体验与选择的那种生产方式。它跟 birth
 的分工是：birth 说结果和事实，birthing 说过程和做法，所以多作定语
 ——birthing pool、birthing centre、birthing plan。不可数。
-① She used a birthing pool.
-= 她用了分娩水池。
+① She used a birthing pool and stayed in it for most of the labour.
+= 她用了分娩水池，产程大半时间都待在里面。
 birthing pool = 分娩水池
-② The hospital opened a birthing centre.
-= 那家医院开了产房中心。
+② The hospital opened a birthing centre with midwives running it and doctors on call.
+= 那家医院开了产房中心，由助产士主理，医生随叫随到。
 birthing centre = 产房中心
-③ They wrote a birthing plan.
-= 他们写了一份分娩计划。
+③ They wrote a birthing plan and the ward tore up half of it that night.
+= 他们写了一份分娩计划，那天夜里病房撕掉了一半。
 birthing plan = 分娩计划
 构词：birth 分娩 + -ing 过程
 近义对照：
@@ -50680,13 +50680,13 @@ delivery = 分娩（医学用词，重在接生这一步）
 birthmark
 核心：胎记，生下来就带着的皮肤色斑，红的多是血管性的，
 褐的多是色素性的。跟后天长的痣分得开：胎记出生时就在。可数。
-① She has a birthmark on her neck.
-= 她脖子上有块胎记。
-② The birthmark faded over the years.
-= 那块胎记这些年淡了。
+① She has a birthmark on her neck that her collar usually hides.
+= 她脖子上有块胎记，衣领一般遮得住。
+② The birthmark faded over the years until only a pale patch was left.
+= 那块胎记这些年淡了下去，只剩一小片浅印。
 fade = 变淡
-③ Laser treatment can lighten a birthmark.
-= 激光可以让胎记变浅。
+③ Laser treatment can lighten a birthmark but rarely removes it altogether.
+= 激光能让胎记变浅，但很少能完全去掉。
 构词：birth 出生 + mark 印记
 注意别混：
 birthmark = 胎记（生来就有）
@@ -50695,14 +50695,14 @@ mole = 痣（多为后天长出）
 birthplace
 核心：出生的地方，也指某事物的发源地——说 the birthplace of jazz，
 讲的是这门音乐从哪儿起来的。抽象那一支用得很多，几乎是套话。可数。
-① Stratford is Shakespeare's birthplace.
-= 斯特拉特福是莎士比亚的出生地。
-② New Orleans is the birthplace of jazz.
-= 新奥尔良是爵士乐的发源地。
+① Stratford is Shakespeare's birthplace and the town lives off the fact.
+= 斯特拉特福是莎士比亚的出生地，全镇靠这件事吃饭。
+② New Orleans is the birthplace of jazz, though three other cities claim it.
+= 新奥尔良是爵士乐的发源地，尽管另有三座城市也这么说。
 the birthplace of = 某事物的发源地
 抽象那一支。
-③ His birthplace is listed on the form.
-= 表格上填着他的出生地。
+③ His birthplace is listed on the form as a village that no longer exists.
+= 表格上填的出生地是一个已经不存在的村子。
 构词：birth 出生 + place 地方
 近义对照：
 birthplace = 出生地；发源地
@@ -50712,13 +50712,13 @@ birthright
 核心：生来就该有的权利，说国籍、说自由、说继承权都用它。
 另有一支旧义指长子继承权，读圣经和旧小说会遇到——以扫为一碗汤
 卖掉 birthright 的故事就是这个词。可数，多用单数。
-① Freedom is their birthright.
-= 自由是他们与生俱来的权利。
-② Citizenship is a birthright there.
-= 在那里国籍是与生俱来的。
+① Freedom is their birthright and no government granted it to them.
+= 自由是他们与生俱来的权利，不是哪个政府赏的。
+② Citizenship is a birthright there for anyone born on the soil.
+= 在那里，凡出生在这片土地上的人，国籍都是与生俱来的。
 birthright citizenship = 出生即公民身份
-③ He sold his birthright for a meal.
-= 他为一顿饭卖掉了长子继承权。
+③ He sold his birthright for a meal and regretted it the rest of his life.
+= 他为一顿饭卖掉了长子继承权，抱憾终身。
 旧义那一支，多见于宗教与文学文本。
 构词：birth 出生 + right 权利
 注意年代：长子继承权那一支已属旧用法。
@@ -50727,13 +50727,13 @@ birthstone
 核心：诞生石，一月到十二月各配一种宝石，按出生月份挑，
 多做成首饰送人。哪个月配哪种石头各国名单略有出入，
 今天通行的那份是二十世纪初珠宝业定下来的。可数。
-① Her birthstone is an emerald.
-= 她的诞生石是祖母绿。
-② He bought a birthstone ring.
-= 他买了一枚诞生石戒指。
+① Her birthstone is an emerald and she wears it on a thin chain.
+= 她的诞生石是祖母绿，挂在一条细链子上戴着。
+② He bought a birthstone ring for each of his three daughters.
+= 他给三个女儿一人买了一枚诞生石戒指。
 birthstone ring = 诞生石戒指
-③ Garnet is the birthstone for January.
-= 石榴石是一月的诞生石。
+③ Garnet is the birthstone for January and the cheapest one on the list.
+= 石榴石是一月的诞生石，也是那份名单上最便宜的一种。
 the birthstone for = 某月份的诞生石
 构词：birth 出生 + stone 宝石
 词族：
@@ -50743,13 +50743,13 @@ birthweight
 核心：出生体重，医学上按它判断新生儿的风险。低于 2500 克叫
 low birth weight，是早产和发育迟缓的重要信号，所以这个词几乎总是
 跟 low 一起出现。可数，也常写成分开的 birth weight。
-① The baby had a low birthweight.
-= 那个婴儿出生体重偏低。
+① The baby had a low birthweight and spent nine days in the incubator.
+= 那个婴儿出生体重偏低，在保温箱里待了九天。
 low birthweight = 低出生体重
-② Birthweight is recorded at delivery.
-= 出生体重在分娩时记录。
-③ Smoking reduces birthweight.
-= 吸烟会降低出生体重。
+② Birthweight is recorded at delivery and follows the child through every checkup.
+= 出生体重在分娩时记录，之后每次体检都要对照。
+③ Smoking reduces birthweight by roughly two hundred grams on average.
+= 吸烟平均会让出生体重减少两百克左右。
 构词：birth 出生 + weight 体重
 注意拼写：分写的 birth weight 同样通行。
 
@@ -50757,12 +50757,12 @@ bis
 核心：拉丁语来的"第二次"。乐谱上标 bis，意思是这一段重复一遍；
 欧洲的听众喊 bis 就是要求返场，相当于英语的 encore。
 另有一路用法在门牌号上：12 bis 指 12 号旁边后加出来的那一户。
-① The score is marked bis.
-= 谱上标着重复记号。
-② The audience shouted bis.
-= 观众喊着要求再来一个。
-③ She lives at 12 bis.
-= 她住在十二号乙。
+① The score is marked bis over the last eight bars.
+= 谱上最后八小节标着重复记号。
+② The audience shouted bis until the pianist sat down again.
+= 观众一直喊着再来一个，直到钢琴家重新落座。
+③ She lives at 12 bis, in the flat built into the old courtyard.
+= 她住十二号乙，在老院子里加盖的那套房。
 门牌那一支，多见于法国与意大利。
 构词：拉丁语 bis 两次
 近义对照：
@@ -50773,14 +50773,14 @@ biscotti
 核心：意式硬饼干，烤两遍——先烤成一条，切片后再烤一遍，
 所以又干又脆，得蘸咖啡或甜酒才好入口。名字本身就是"烤两次"。
 英语里基本只用这个复数形式，单数 biscotto 极少见。
-① She dipped a biscotti in her coffee.
-= 她把硬饼干蘸进咖啡里。
+① She dipped a biscotti in her coffee and counted to three before biting.
+= 她把硬饼干蘸进咖啡里，数到三才咬。
 dip in = 蘸
-② The café sells almond biscotti.
-= 那家咖啡馆卖杏仁硬饼干。
+② The café sells almond biscotti by the jarful at the till.
+= 那家咖啡馆在收银台边整罐地卖杏仁硬饼干。
 almond biscotti = 杏仁硬饼干
-③ Biscotti keep for weeks.
-= 硬饼干能放好几个星期。
+③ Biscotti keep for weeks in a tin and go soft only in damp air.
+= 硬饼干装在铁盒里能放好几周，只有受潮才会发软。
 水分烤干了才这么耐放。
 构词：意大利语 bis 两次 + cotto 烤过的
 近义对照：
@@ -50823,15 +50823,15 @@ bisect
 核心：一分为二。日常说一条路把一片地分成两半，几何里则专指
 "二等分"——bisect an angle 是把角平分，那时强调两份相等。
 及物动词。
-① The road bisects the village.
-= 那条路把村子一分为二。
+① The road bisects the village and the school ended up on the wrong side.
+= 那条路把村子一分为二，学校落在了不便的那一边。
 日常用法，不强调两半相等。
-② Bisect the angle with a compass.
-= 用圆规把这个角二等分。
+② Bisect the angle with a compass and a straight edge, and never measure it.
+= 用圆规和直尺把这个角二等分，不许量。
 bisect an angle = 二等分一个角
 几何义，必须相等。
-③ A river bisects the plain.
-= 一条河把平原分成两半。
+③ A river bisects the plain and floods a mile either side each spring.
+= 一条河把平原分成两半，每年春天两侧各淹一英里。
 构词：bi- 二 + sect 切
 词族：
 bisector = 平分线
@@ -50841,13 +50841,13 @@ bisexual
 核心：形容词，也作名词，指对两种性别都有性吸引的。生物学里另有
 一支跟性取向无关：指同一个体身上兼有雌雄两套生殖器官，
 花常常如此，那时也说 hermaphrodite。可数。
-① She identifies as bisexual.
-= 她认同自己是双性恋。
+① She identifies as bisexual and said so in the interview without being asked.
+= 她认同自己是双性恋，采访里没人问她就自己讲了。
 identify as = 自我认同为
-② The survey included bisexual respondents.
-= 那项调查包含了双性恋受访者。
-③ Most flowers are bisexual.
-= 多数花是两性花。
+② The survey included bisexual respondents for the first time in thirty years.
+= 那项调查办了三十年，头一回把双性恋受访者纳进来。
+③ Most flowers are bisexual, carrying stamens and a pistil in the same bloom.
+= 多数花是两性花，同一朵里既有雄蕊也有雌蕊。
 生物学那一支，跟性取向无关。
 构词：bi- 二 + sexual 性别的
 近义对照：
@@ -50857,12 +50857,12 @@ hermaphrodite = 雌雄同体的（动物学多用）
 bisexuality
 核心：指对两种性别都有性吸引这一取向本身，是 bisexual 的抽象名词。
 不可数。生物学上同样有那一支，指雌雄同体这种构造。
-① The book discusses bisexuality.
-= 那本书讨论双性恋。
-② Bisexuality is often misunderstood.
-= 双性恋常被误解。
-③ Bisexuality is common in plants.
-= 雌雄同体在植物里很常见。
+① The book discusses bisexuality across four decades of letters and diaries.
+= 那本书通过四十年的书信和日记讨论双性恋。
+② Bisexuality is often misunderstood as a stage on the way to something else.
+= 双性恋常被误解成通往别处的一个阶段。
+③ Bisexuality is common in plants and rare among the animals we keep.
+= 雌雄同体在植物里很常见，在我们养的动物里则少见。
 生物学那一支。
 构词：bisexual 双性的 + -ity 性质
 词族：
@@ -50893,14 +50893,14 @@ bishopric
 核心：主教的职位，也指主教管辖的那片地区。指地区时跟 diocese
 说的是同一件事，只是 bishopric 更偏"职位与辖权"这一层，
 diocese 更偏行政区划本身。可数，多见于教会与历史文本。
-① He was appointed to the bishopric.
-= 他被任命担任主教。
+① He was appointed to the bishopric at forty-one, the youngest in a century.
+= 他四十一岁被任命担任主教，是一百年来最年轻的。
 指职位那一层。
-② The bishopric covers three counties.
-= 那个主教辖区横跨三个郡。
+② The bishopric covers three counties and two hundred parishes.
+= 那个主教辖区横跨三个郡、两百个堂区。
 指地域那一层。
-③ The bishopric fell vacant.
-= 主教之位空了出来。
+③ The bishopric fell vacant in November and stayed empty for a year.
+= 主教之位十一月出缺，空了一年。
 fall vacant = 出缺
 构词：bishop 主教 + -ric 辖域
 近义对照：
@@ -50911,13 +50911,13 @@ bismuth
 核心：一种金属元素，符号 Bi。它两个特点值得记：熔点低，
 所以用来配易熔合金做保险丝；化合物能护住胃黏膜，
 所以进了治胃痛和腹泻的常见药。不可数。
-① Bismuth has a low melting point.
-= 铋的熔点很低。
+① Bismuth has a low melting point and goes into alloys a candle can soften.
+= 铋熔点很低，配成的合金一支蜡烛就能烤软。
 melting point = 熔点
-② The alloy contains bismuth.
-= 那种合金含铋。
-③ Bismuth compounds treat stomach upsets.
-= 铋化合物用来治胃部不适。
+② The alloy contains bismuth and is used for fuses that must give way early.
+= 那种合金含铋，用来做要先熔断的保险丝。
+③ Bismuth compounds treat stomach upsets and turn the tongue black for a day.
+= 铋化合物用来治胃部不适，会把舌头染黑一天。
 stomach upset = 胃部不适
 构词：元素符号 Bi
 注意语域：化学与医药语境。
@@ -50926,13 +50926,13 @@ bison
 核心：野牛，肩背隆起、头大毛厚的大型野牛，北美和欧洲各有一种。
 单复数同形，说一头是 a bison，说一群还是 bison。美国人日常管它叫
 buffalo，严格说那个词该留给非洲和亚洲的水牛，两者并不同类。
-① A bison grazed by the road.
-= 一头野牛在路边吃草。
-② The herd numbered forty bison.
-= 那群有四十头野牛。
+① A bison grazed by the road and the whole queue of cars waited.
+= 一头野牛在路边吃草，整队车都在等。
+② The herd numbered forty bison, calves included.
+= 那群连小牛在内共四十头野牛。
 单复数同形，不加 -s。
-③ Bison once roamed the plains in millions.
-= 野牛从前成百万地在平原上游荡。
+③ Bison once roamed the plains in millions and were down to a few hundred by 1890.
+= 野牛从前成百万地在平原上游荡，到一八九〇年只剩几百头。
 roam = 游荡
 注意别混：
 bison = 野牛（北美与欧洲，背有隆起）
@@ -50943,13 +50943,13 @@ bisque
 核心：两支，互不相干。一是浓汤，用龙虾、蟹这类甲壳类熬底再加
 奶油打成，口感厚滑，lobster bisque 是它最常见的样子；二是陶瓷的
 素烧坯，跟 biscuit 那一支说的是同一回事。都不可数。
-① He ordered the lobster bisque.
-= 他点了龙虾浓汤。
+① He ordered the lobster bisque and half a loaf to go with it.
+= 他点了龙虾浓汤，配半条面包。
 lobster bisque = 龙虾浓汤
-② The bisque was rich and creamy.
-= 那道浓汤又浓又滑。
-③ The figurine is unglazed bisque.
-= 那尊小像是未上釉的素坯。
+② The bisque was rich and creamy enough that nobody finished a bowl.
+= 那道浓汤又浓又滑，一碗谁也喝不完。
+③ The figurine is unglazed bisque and feels chalky to the touch.
+= 那尊小像是未上釉的素坯，摸上去像粉笔。
 陶瓷那一支。
 构词：法语 bisque 浓汤
 近义对照：
@@ -50960,12 +50960,12 @@ bistro
 核心：小餐馆，法国来的说法，指店面不大、菜色家常、气氛随意的
 那一类，跟正襟危坐的 restaurant 分得开。今天英语里已成通名，
 不限于法式菜。可数，复数 bistros。
-① They ate at a corner bistro.
-= 他们在街角一家小餐馆吃饭。
-② The bistro serves lunch until three.
-= 那家小馆供应午餐到三点。
-③ She runs a bistro near the station.
-= 她在车站附近开着一家小餐馆。
+① They found a bistro down a side street and ate whatever was on the board.
+= 他们在小巷里找到一家小餐馆，黑板上写什么就吃什么。
+② The bistro serves lunch until three and shuts the kitchen sharp.
+= 那家小馆供应午餐到三点，厨房一到点就关。
+③ She runs a bistro near the station and does the cooking herself.
+= 她在车站附近开着一家小餐馆，菜是自己做。
 构词：法语 bistro 小酒馆
 近义对照：
 bistro = 小餐馆（随意、家常）
@@ -51055,13 +51055,13 @@ bitchiness = 刻薄
 bitchiness
 核心：刻薄劲儿，指爱在背后挑刺、说人坏话的那种做派。不可数，
 口语，带贬义。它说的是一贯的作风，不是某一句话本身。
-① The bitchiness in that office is exhausting.
-= 那间办公室里的刻薄劲儿让人累。
-② She is tired of the constant bitchiness.
-= 她受够了没完没了的挖苦。
+① The bitchiness in that office is exhausting and drives out a new hire every year.
+= 那间办公室里的刻薄劲儿让人累，每年都熬走一个新人。
+② She is tired of the constant bitchiness that passes for humour there.
+= 她受够了那里当成幽默的没完没了的挖苦。
 constant = 没完没了的
-③ There was a note of bitchiness in his voice.
-= 他话里带着一股酸刻。
+③ There was a note of bitchiness in his voice that the compliment could not hide.
+= 他话里带着一股酸刻，那句恭维盖不住。
 a note of = 一丝、一股（语气）
 构词：bitchy 刻薄的 + -ness 性质
 注意语域：口语，贬义。
@@ -51070,13 +51070,13 @@ bitchy
 核心：形容词，指说话刻薄、爱挑刺、爱在背后损人。它损的多是
 "小处使坏"那种，不是正面冲突，所以常跟 remark、comment 搭配。
 口语，贬义。历史上多用来说女性，今天说谁都用，但仍带那层色彩。
-① That was a bitchy remark.
-= 那话说得真刻薄。
+① That was a bitchy remark and she made it with a smile.
+= 那话说得真刻薄，她还带着笑说的。
 a bitchy remark = 一句刻薄话
-② She gets bitchy when she is tired.
-= 她一累就爱挑刺。
-③ The tone of the review was bitchy.
-= 那篇评论的口气很酸。
+② She gets bitchy when she is tired and apologises the next morning.
+= 她一累就爱挑刺，第二天早上再道歉。
+③ The tone of the review was bitchy about everything except the lighting.
+= 那篇评论口气很酸，只有灯光没被挑刺。
 构词：bitch + -y 的
 注意语域：口语，贬义。
 近义对照：
@@ -51219,13 +51219,13 @@ bitingly
 核心：副词，跟 biting 一样分两支：说冷是"刺骨地"，说话是
 "尖刻地"。多修饰形容词或动词，bitingly cold 和 bitingly funny
 是两个最常见的搭配。
-① It was bitingly cold outside.
-= 外面冷得刺骨。
+① It was bitingly cold outside and the queue moved in little stamping shuffles.
+= 外面冷得刺骨，排队的人跺着脚一点点往前挪。
 bitingly cold = 冷得刺骨
-② He wrote bitingly about the trial.
-= 他对那场审判写得很尖刻。
-③ The satire is bitingly funny.
-= 那出讽刺剧辛辣好笑。
+② He wrote bitingly about the trial and was barred from the courtroom.
+= 他对那场审判写得很尖刻，后来被禁止进入法庭。
+③ The satire is bitingly funny and the people it mocks quote it themselves.
+= 那出讽刺剧辛辣好笑，被它嘲弄的人自己也引。
 bitingly funny = 辛辣好笑
 构词：biting 刺骨的 + -ly
 词族：
@@ -51235,13 +51235,13 @@ bitmap
 核心：按像素点阵存的图像——每个点存一个颜色值，所以放大就糊，
 一格一格露出来。它跟矢量图的分别在这里：矢量图存的是线条和公式，
 放多大都清楚。照片天生是位图，图标和字体多用矢量。可数。
-① Save the image as a bitmap.
-= 把图片存成位图。
+① Save the image as a bitmap if the printer refuses the other format.
+= 打印机不认另一种格式的话，就把图片存成位图。
 save as = 另存为
-② Bitmaps lose quality when enlarged.
-= 位图放大就失真。
-③ The icon is stored as a bitmap.
-= 那个图标存成了位图。
+② Bitmaps lose quality when enlarged and show square edges on every curve.
+= 位图放大就失真，弧线上全是方格边。
+③ The icon is stored as a bitmap and looks rough on a high-resolution screen.
+= 那个图标存成了位图，在高分屏上显得毛糙。
 构词：bit 位 + map 映射
 注意别混：
 bitmap = 位图（按像素存，放大会糊）

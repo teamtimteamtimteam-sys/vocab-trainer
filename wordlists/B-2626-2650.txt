@@ -23,14 +23,14 @@ bishopric
 核心：主教的职位，也指主教管辖的那片地区。指地区时跟 diocese
 说的是同一件事，只是 bishopric 更偏"职位与辖权"这一层，
 diocese 更偏行政区划本身。可数，多见于教会与历史文本。
-① He was appointed to the bishopric.
-= 他被任命担任主教。
+① He was appointed to the bishopric at forty-one, the youngest in a century.
+= 他四十一岁被任命担任主教，是一百年来最年轻的。
 指职位那一层。
-② The bishopric covers three counties.
-= 那个主教辖区横跨三个郡。
+② The bishopric covers three counties and two hundred parishes.
+= 那个主教辖区横跨三个郡、两百个堂区。
 指地域那一层。
-③ The bishopric fell vacant.
-= 主教之位空了出来。
+③ The bishopric fell vacant in November and stayed empty for a year.
+= 主教之位十一月出缺，空了一年。
 fall vacant = 出缺
 构词：bishop 主教 + -ric 辖域
 近义对照：
@@ -41,13 +41,13 @@ bismuth
 核心：一种金属元素，符号 Bi。它两个特点值得记：熔点低，
 所以用来配易熔合金做保险丝；化合物能护住胃黏膜，
 所以进了治胃痛和腹泻的常见药。不可数。
-① Bismuth has a low melting point.
-= 铋的熔点很低。
+① Bismuth has a low melting point and goes into alloys a candle can soften.
+= 铋熔点很低，配成的合金一支蜡烛就能烤软。
 melting point = 熔点
-② The alloy contains bismuth.
-= 那种合金含铋。
-③ Bismuth compounds treat stomach upsets.
-= 铋化合物用来治胃部不适。
+② The alloy contains bismuth and is used for fuses that must give way early.
+= 那种合金含铋，用来做要先熔断的保险丝。
+③ Bismuth compounds treat stomach upsets and turn the tongue black for a day.
+= 铋化合物用来治胃部不适，会把舌头染黑一天。
 stomach upset = 胃部不适
 构词：元素符号 Bi
 注意语域：化学与医药语境。
@@ -56,13 +56,13 @@ bison
 核心：野牛，肩背隆起、头大毛厚的大型野牛，北美和欧洲各有一种。
 单复数同形，说一头是 a bison，说一群还是 bison。美国人日常管它叫
 buffalo，严格说那个词该留给非洲和亚洲的水牛，两者并不同类。
-① A bison grazed by the road.
-= 一头野牛在路边吃草。
-② The herd numbered forty bison.
-= 那群有四十头野牛。
+① A bison grazed by the road and the whole queue of cars waited.
+= 一头野牛在路边吃草，整队车都在等。
+② The herd numbered forty bison, calves included.
+= 那群连小牛在内共四十头野牛。
 单复数同形，不加 -s。
-③ Bison once roamed the plains in millions.
-= 野牛从前成百万地在平原上游荡。
+③ Bison once roamed the plains in millions and were down to a few hundred by 1890.
+= 野牛从前成百万地在平原上游荡，到一八九〇年只剩几百头。
 roam = 游荡
 注意别混：
 bison = 野牛（北美与欧洲，背有隆起）
@@ -73,13 +73,13 @@ bisque
 核心：两支，互不相干。一是浓汤，用龙虾、蟹这类甲壳类熬底再加
 奶油打成，口感厚滑，lobster bisque 是它最常见的样子；二是陶瓷的
 素烧坯，跟 biscuit 那一支说的是同一回事。都不可数。
-① He ordered the lobster bisque.
-= 他点了龙虾浓汤。
+① He ordered the lobster bisque and half a loaf to go with it.
+= 他点了龙虾浓汤，配半条面包。
 lobster bisque = 龙虾浓汤
-② The bisque was rich and creamy.
-= 那道浓汤又浓又滑。
-③ The figurine is unglazed bisque.
-= 那尊小像是未上釉的素坯。
+② The bisque was rich and creamy enough that nobody finished a bowl.
+= 那道浓汤又浓又滑，一碗谁也喝不完。
+③ The figurine is unglazed bisque and feels chalky to the touch.
+= 那尊小像是未上釉的素坯，摸上去像粉笔。
 陶瓷那一支。
 构词：法语 bisque 浓汤
 近义对照：
@@ -90,12 +90,12 @@ bistro
 核心：小餐馆，法国来的说法，指店面不大、菜色家常、气氛随意的
 那一类，跟正襟危坐的 restaurant 分得开。今天英语里已成通名，
 不限于法式菜。可数，复数 bistros。
-① They ate at a corner bistro.
-= 他们在街角一家小餐馆吃饭。
-② The bistro serves lunch until three.
-= 那家小馆供应午餐到三点。
-③ She runs a bistro near the station.
-= 她在车站附近开着一家小餐馆。
+① They found a bistro down a side street and ate whatever was on the board.
+= 他们在小巷里找到一家小餐馆，黑板上写什么就吃什么。
+② The bistro serves lunch until three and shuts the kitchen sharp.
+= 那家小馆供应午餐到三点，厨房一到点就关。
+③ She runs a bistro near the station and does the cooking herself.
+= 她在车站附近开着一家小餐馆，菜是自己做。
 构词：法语 bistro 小酒馆
 近义对照：
 bistro = 小餐馆（随意、家常）
@@ -185,13 +185,13 @@ bitchiness = 刻薄
 bitchiness
 核心：刻薄劲儿，指爱在背后挑刺、说人坏话的那种做派。不可数，
 口语，带贬义。它说的是一贯的作风，不是某一句话本身。
-① The bitchiness in that office is exhausting.
-= 那间办公室里的刻薄劲儿让人累。
-② She is tired of the constant bitchiness.
-= 她受够了没完没了的挖苦。
+① The bitchiness in that office is exhausting and drives out a new hire every year.
+= 那间办公室里的刻薄劲儿让人累，每年都熬走一个新人。
+② She is tired of the constant bitchiness that passes for humour there.
+= 她受够了那里当成幽默的没完没了的挖苦。
 constant = 没完没了的
-③ There was a note of bitchiness in his voice.
-= 他话里带着一股酸刻。
+③ There was a note of bitchiness in his voice that the compliment could not hide.
+= 他话里带着一股酸刻，那句恭维盖不住。
 a note of = 一丝、一股（语气）
 构词：bitchy 刻薄的 + -ness 性质
 注意语域：口语，贬义。
@@ -200,13 +200,13 @@ bitchy
 核心：形容词，指说话刻薄、爱挑刺、爱在背后损人。它损的多是
 "小处使坏"那种，不是正面冲突，所以常跟 remark、comment 搭配。
 口语，贬义。历史上多用来说女性，今天说谁都用，但仍带那层色彩。
-① That was a bitchy remark.
-= 那话说得真刻薄。
+① That was a bitchy remark and she made it with a smile.
+= 那话说得真刻薄，她还带着笑说的。
 a bitchy remark = 一句刻薄话
-② She gets bitchy when she is tired.
-= 她一累就爱挑刺。
-③ The tone of the review was bitchy.
-= 那篇评论的口气很酸。
+② She gets bitchy when she is tired and apologises the next morning.
+= 她一累就爱挑刺，第二天早上再道歉。
+③ The tone of the review was bitchy about everything except the lighting.
+= 那篇评论口气很酸，只有灯光没被挑刺。
 构词：bitch + -y 的
 注意语域：口语，贬义。
 近义对照：
@@ -349,13 +349,13 @@ bitingly
 核心：副词，跟 biting 一样分两支：说冷是"刺骨地"，说话是
 "尖刻地"。多修饰形容词或动词，bitingly cold 和 bitingly funny
 是两个最常见的搭配。
-① It was bitingly cold outside.
-= 外面冷得刺骨。
+① It was bitingly cold outside and the queue moved in little stamping shuffles.
+= 外面冷得刺骨，排队的人跺着脚一点点往前挪。
 bitingly cold = 冷得刺骨
-② He wrote bitingly about the trial.
-= 他对那场审判写得很尖刻。
-③ The satire is bitingly funny.
-= 那出讽刺剧辛辣好笑。
+② He wrote bitingly about the trial and was barred from the courtroom.
+= 他对那场审判写得很尖刻，后来被禁止进入法庭。
+③ The satire is bitingly funny and the people it mocks quote it themselves.
+= 那出讽刺剧辛辣好笑，被它嘲弄的人自己也引。
 bitingly funny = 辛辣好笑
 构词：biting 刺骨的 + -ly
 词族：
@@ -365,13 +365,13 @@ bitmap
 核心：按像素点阵存的图像——每个点存一个颜色值，所以放大就糊，
 一格一格露出来。它跟矢量图的分别在这里：矢量图存的是线条和公式，
 放多大都清楚。照片天生是位图，图标和字体多用矢量。可数。
-① Save the image as a bitmap.
-= 把图片存成位图。
+① Save the image as a bitmap if the printer refuses the other format.
+= 打印机不认另一种格式的话，就把图片存成位图。
 save as = 另存为
-② Bitmaps lose quality when enlarged.
-= 位图放大就失真。
-③ The icon is stored as a bitmap.
-= 那个图标存成了位图。
+② Bitmaps lose quality when enlarged and show square edges on every curve.
+= 位图放大就失真，弧线上全是方格边。
+③ The icon is stored as a bitmap and looks rough on a high-resolution screen.
+= 那个图标存成了位图，在高分屏上显得毛糙。
 构词：bit 位 + map 映射
 注意别混：
 bitmap = 位图（按像素存，放大会糊）
