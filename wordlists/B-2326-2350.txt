@@ -156,26 +156,26 @@ belvedere
 核心：建在高处、专为看风景而设的建筑或亭台，
 可以是屋顶上的小阁，也可以是花园里的观景楼。
 从意大利语来，字面就是"美景"。
-① The villa has a belvedere on the roof.
-= 那栋别墅屋顶上有个观景阁。
+① The villa has a belvedere on the roof reached by a ladder.
+= 那栋别墅屋顶上有个观景阁，要架梯子才上得去。
 belvedere = 观景楼、望景亭
-② They watched the sunset from the belvedere.
-= 他们在观景亭上看日落。
-③ A belvedere overlooks the lake.
-= 一座望景楼俯瞰着湖面。
+② They watched the sunset from the belvedere and stayed until the cold drove them in.
+= 他们在观景亭上看日落，一直待到冷得受不了才进屋。
+③ A belvedere overlooks the lake and was built facing the wrong way.
+= 一座望景楼俯瞰着湖面，方向却建反了。
 注意语域：建筑术语，源自意大利语。
 
 bemoan
 核心：正式动词，指"哀叹、抱怨"——为某件事反复表示惋惜或不满。
 它比 complain 文，比 lament 轻，常带一点旁观者的不以为然，
 暗示"抱怨也没用"。
-① He bemoaned the lack of funding.
-= 他抱怨经费不足。
+① He bemoaned the lack of funding at every meeting for eleven years.
+= 十一年里每次开会他都抱怨经费不足。
 bemoan something = 为…叫苦
-② Critics bemoan the decline of the art.
-= 评论家哀叹那门艺术的衰落。
-③ She bemoaned her luck all evening.
-= 她整晚都在叹自己命不好。
+② Critics bemoan the decline of the art and buy none of it themselves.
+= 评论家哀叹那门艺术衰落，自己却一件都不买。
+③ She bemoaned her luck all evening and won the raffle at the end of it.
+= 她整晚都在叹自己命不好，末了却抽中了奖。
 注意语域：
 正式书面语，常隐含「抱怨归抱怨，于事无补」。
 
@@ -309,14 +309,14 @@ Benedictine
 核心：两支。一是本笃会的、本笃会修士：西方最古老的修会之一，会规
 讲究祈祷与劳作并重。二是一种草药利口酒，最初由本笃会修士配制，
 瓶身上还印着修会的字样。可数。
-① He spent ten years as a Benedictine.
-= 他做了十年本笃会修士。
+① He spent ten years as a Benedictine and left without explaining why.
+= 他做了十年本笃会修士，离开时没解释缘由。
 a Benedictine = 本笃会修士
-② The Benedictine rule shaped monastic life.
-= 本笃会的会规塑造了修道生活。
+② The Benedictine rule shaped monastic life across Europe for a thousand years.
+= 本笃会的会规塑造了欧洲一千年的修道生活。
 the Benedictine rule = 本笃会会规
-③ She poured a glass of Benedictine.
-= 她倒了杯本笃甜酒。
+③ She poured a glass of Benedictine and could taste about four of the herbs.
+= 她倒了杯本笃甜酒，尝得出其中大约四种草药。
 Benedictine = 本笃甜酒
 构词：会祖的名字 Benedict 加 -ine
 注意用法：作酒名讲时不可数。
@@ -325,13 +325,13 @@ benediction
 核心：宗教仪式结束时的"祝福祷词"——神职人员为会众祝福。
 引申指任何郑重的祝福或"认可"。它跟 blessing 同义但更正式，
 词源是拉丁语的"说好话"。
-① The priest gave the benediction.
-= 神父作了祝福祷。
+① The priest gave the benediction to a congregation of eleven.
+= 神父向十一个人的会众作了祝福祷。
 give a benediction = 作祝福祷
-② The service ended with a benediction.
-= 礼拜以祝福词结束。
-③ Her nod was a kind of benediction.
-= 她点那一下头就算是认可了。
+② The service ended with a benediction and everyone left by the side door.
+= 礼拜以祝福词结束，所有人从侧门离开。
+③ Her nod was a kind of benediction and the room relaxed at once.
+= 她点那一下头就算是认可了，屋里立刻松了下来。
 注意语域：
 宗教仪式用语，引申义偏文。
 
@@ -339,13 +339,13 @@ benefactive
 核心：语法术语，指句子里表示"为谁而做"的那个成分，
 汉语里常用"给、替"引出。英语没有专门的格标记，
 靠 for 这类介词表达，所以这个词多出现在语言学论著里。
-① The benefactive marks the person who benefits.
-= 受益格标出受益的人。
+① The benefactive marks the person who benefits from the action.
+= 受益格标出从动作中获益的那个人。
 benefactive = 受益格
-② In "I baked her a cake", her is benefactive.
-= 那句话里的间接宾语是受益成分。
-③ Some languages have a benefactive case.
-= 有些语言有专门的受益格。
+② English has no benefactive case and uses a preposition instead.
+= 英语没有受益格，改用介词表达。
+③ Some languages have a benefactive case with its own ending.
+= 有些语言有专门的受益格，还带自己的词尾。
 benefactive case = 受益格
 注意语域：语言学术语。
 
@@ -353,12 +353,12 @@ benefactor
 核心：指"捐助人、赞助者"——出钱资助某人或某机构的人。
 它比 donor 更强调长期而慷慨的关系，也常带感恩的口气。
 女性可说 benefactress（偏旧）。名词 benefaction 指捐赠这件事。
-① An anonymous benefactor paid the fees.
-= 一位匿名捐助人付了学费。
-② The museum thanked its benefactors.
-= 博物馆感谢了各位赞助人。
-③ The benefaction funded a new wing.
-= 那笔捐赠资助建了新翼楼。
+① An anonymous benefactor paid the fees for four students a year.
+= 一位匿名捐助人每年替四名学生付学费。
+② The museum thanked its benefactors on a board nobody reads.
+= 博物馆在一块没人看的牌子上感谢了各位赞助人。
+③ The benefaction funded a new wing and ran out before the roof.
+= 那笔捐赠资助建了新翼楼，钱到屋顶就用完了。
 benefaction = 捐赠、善举
 注意别混：
 benefactor = 捐助人（给钱的）
@@ -368,14 +368,14 @@ beneficial
 核心：形容词，指"有益的"——对健康、发展或某种结果有好处。
 固定接介词 to。它比 good 正式，多见于书面与专业语境。
 副词是 beneficially。
-① Exercise is beneficial to health.
-= 运动对健康有益。
+① Exercise is beneficial to health in doses far smaller than people assume.
+= 运动对健康有益，所需的量远比人们以为的少。
 beneficial to = 对…有益
-② The change proved mutually beneficial.
-= 那个变动对双方都有好处。
+② The change proved mutually beneficial and neither side had expected it.
+= 那个变动对双方都有好处，而两边都没料到。
 mutually beneficial = 互惠的
-③ Rain fell beneficially on the crops.
-= 那场雨对庄稼很有好处。
+③ Rain fell beneficially on crops that had been written off in July.
+= 那场雨落在七月就被放弃的庄稼上，帮了大忙。
 注意用法：
 介词用 to，不用 for。
 
@@ -383,13 +383,13 @@ beneficiary
 核心：指"受益人"——拿到好处的那一方。法律上专指遗嘱、保险、
 信托里的受领人。它跟 benefactor 正好相反，两个词长得像，
 最容易搞混。
-① She is the sole beneficiary of the will.
-= 她是那份遗嘱的唯一受益人。
+① She is the sole beneficiary of the will and learned it from a solicitor.
+= 她是那份遗嘱的唯一受益人，这是律师告诉她的。
 sole beneficiary = 唯一受益人
-② Farmers were the main beneficiaries.
-= 农民是主要受益方。
-③ Name a beneficiary on the policy.
-= 在保单上指定受益人。
+② Farmers were the main beneficiaries and had lobbied for none of it.
+= 农民是主要受益方，而这些他们一样都没游说过。
+③ Name a beneficiary on the policy or the money goes to the estate.
+= 在保单上指定受益人，否则钱归遗产。
 注意别混：
 beneficiary = 受益人（拿好处）
 benefactor = 捐助人（出钱）
@@ -451,13 +451,13 @@ benevolent
 核心：形容词，指"仁厚的、乐善好施的"——心地好而且愿意施惠。
 说机构时指"慈善性质的"（benevolent fund 是互助基金）。
 名词是 benevolence。它比 kind 更正式、更带上位者施惠的意味。
-① He was a benevolent employer.
-= 他是个厚道的雇主。
-② The society runs a benevolent fund.
-= 那个协会设有互助基金。
+① He was a benevolent employer who knew every child's name.
+= 他是个厚道的雇主，每个孩子的名字都叫得出。
+② The society runs a benevolent fund that pays out about twice a year.
+= 那个协会设有互助基金，大约一年发放两次。
 benevolent fund = 慈善互助基金
-③ She smiled benevolently.
-= 她慈祥地笑了笑。
+③ She smiled benevolently at an argument she intended to overrule.
+= 她慈祥地对着一个她打算否决的论点笑了笑。
 benevolently = 仁厚地
 benevolence = 仁慈、善举
 注意语域：
@@ -467,14 +467,14 @@ Bengali
 核心：孟加拉的：既指孟加拉语，也指说这门语言的族群。要点在范围 ——
 这个族群跨着国界：孟加拉国与印度的西孟加拉邦都是。说国籍要用
 Bangladeshi，说语言与族群才用这个词。近年语言名也常写作 Bangla。可数。
-① She writes poetry in Bengali.
-= 她用孟加拉语写诗。
+① She writes poetry in Bengali and translates it herself into English.
+= 她用孟加拉语写诗，再自己译成英语。
 Bengali = 孟加拉语
-② A Bengali family moved in next door.
-= 隔壁搬来一户孟加拉人家。
+② A Bengali family moved in next door and the street learned to cook.
+= 隔壁搬来一户孟加拉人家，整条街学会了做饭。
 a Bengali = 孟加拉人（族群）
-③ Bengali script is shared with Assamese.
-= 孟加拉文字跟阿萨姆语共用。
+③ Bengali script is shared with Assamese and read across two countries.
+= 孟加拉文字跟阿萨姆语共用，两个国家都在读。
 Bengali script = 孟加拉文字
 构词：地名 Bengal 加 -i
 注意别混：说国籍用 Bangladeshi，说族群与语言用这一个。

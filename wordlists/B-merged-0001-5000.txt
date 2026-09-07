@@ -45284,26 +45284,26 @@ belvedere
 核心：建在高处、专为看风景而设的建筑或亭台，
 可以是屋顶上的小阁，也可以是花园里的观景楼。
 从意大利语来，字面就是"美景"。
-① The villa has a belvedere on the roof.
-= 那栋别墅屋顶上有个观景阁。
+① The villa has a belvedere on the roof reached by a ladder.
+= 那栋别墅屋顶上有个观景阁，要架梯子才上得去。
 belvedere = 观景楼、望景亭
-② They watched the sunset from the belvedere.
-= 他们在观景亭上看日落。
-③ A belvedere overlooks the lake.
-= 一座望景楼俯瞰着湖面。
+② They watched the sunset from the belvedere and stayed until the cold drove them in.
+= 他们在观景亭上看日落，一直待到冷得受不了才进屋。
+③ A belvedere overlooks the lake and was built facing the wrong way.
+= 一座望景楼俯瞰着湖面，方向却建反了。
 注意语域：建筑术语，源自意大利语。
 
 bemoan
 核心：正式动词，指"哀叹、抱怨"——为某件事反复表示惋惜或不满。
 它比 complain 文，比 lament 轻，常带一点旁观者的不以为然，
 暗示"抱怨也没用"。
-① He bemoaned the lack of funding.
-= 他抱怨经费不足。
+① He bemoaned the lack of funding at every meeting for eleven years.
+= 十一年里每次开会他都抱怨经费不足。
 bemoan something = 为…叫苦
-② Critics bemoan the decline of the art.
-= 评论家哀叹那门艺术的衰落。
-③ She bemoaned her luck all evening.
-= 她整晚都在叹自己命不好。
+② Critics bemoan the decline of the art and buy none of it themselves.
+= 评论家哀叹那门艺术衰落，自己却一件都不买。
+③ She bemoaned her luck all evening and won the raffle at the end of it.
+= 她整晚都在叹自己命不好，末了却抽中了奖。
 注意语域：
 正式书面语，常隐含「抱怨归抱怨，于事无补」。
 
@@ -45437,14 +45437,14 @@ Benedictine
 核心：两支。一是本笃会的、本笃会修士：西方最古老的修会之一，会规
 讲究祈祷与劳作并重。二是一种草药利口酒，最初由本笃会修士配制，
 瓶身上还印着修会的字样。可数。
-① He spent ten years as a Benedictine.
-= 他做了十年本笃会修士。
+① He spent ten years as a Benedictine and left without explaining why.
+= 他做了十年本笃会修士，离开时没解释缘由。
 a Benedictine = 本笃会修士
-② The Benedictine rule shaped monastic life.
-= 本笃会的会规塑造了修道生活。
+② The Benedictine rule shaped monastic life across Europe for a thousand years.
+= 本笃会的会规塑造了欧洲一千年的修道生活。
 the Benedictine rule = 本笃会会规
-③ She poured a glass of Benedictine.
-= 她倒了杯本笃甜酒。
+③ She poured a glass of Benedictine and could taste about four of the herbs.
+= 她倒了杯本笃甜酒，尝得出其中大约四种草药。
 Benedictine = 本笃甜酒
 构词：会祖的名字 Benedict 加 -ine
 注意用法：作酒名讲时不可数。
@@ -45453,13 +45453,13 @@ benediction
 核心：宗教仪式结束时的"祝福祷词"——神职人员为会众祝福。
 引申指任何郑重的祝福或"认可"。它跟 blessing 同义但更正式，
 词源是拉丁语的"说好话"。
-① The priest gave the benediction.
-= 神父作了祝福祷。
+① The priest gave the benediction to a congregation of eleven.
+= 神父向十一个人的会众作了祝福祷。
 give a benediction = 作祝福祷
-② The service ended with a benediction.
-= 礼拜以祝福词结束。
-③ Her nod was a kind of benediction.
-= 她点那一下头就算是认可了。
+② The service ended with a benediction and everyone left by the side door.
+= 礼拜以祝福词结束，所有人从侧门离开。
+③ Her nod was a kind of benediction and the room relaxed at once.
+= 她点那一下头就算是认可了，屋里立刻松了下来。
 注意语域：
 宗教仪式用语，引申义偏文。
 
@@ -45467,13 +45467,13 @@ benefactive
 核心：语法术语，指句子里表示"为谁而做"的那个成分，
 汉语里常用"给、替"引出。英语没有专门的格标记，
 靠 for 这类介词表达，所以这个词多出现在语言学论著里。
-① The benefactive marks the person who benefits.
-= 受益格标出受益的人。
+① The benefactive marks the person who benefits from the action.
+= 受益格标出从动作中获益的那个人。
 benefactive = 受益格
-② In "I baked her a cake", her is benefactive.
-= 那句话里的间接宾语是受益成分。
-③ Some languages have a benefactive case.
-= 有些语言有专门的受益格。
+② English has no benefactive case and uses a preposition instead.
+= 英语没有受益格，改用介词表达。
+③ Some languages have a benefactive case with its own ending.
+= 有些语言有专门的受益格，还带自己的词尾。
 benefactive case = 受益格
 注意语域：语言学术语。
 
@@ -45481,12 +45481,12 @@ benefactor
 核心：指"捐助人、赞助者"——出钱资助某人或某机构的人。
 它比 donor 更强调长期而慷慨的关系，也常带感恩的口气。
 女性可说 benefactress（偏旧）。名词 benefaction 指捐赠这件事。
-① An anonymous benefactor paid the fees.
-= 一位匿名捐助人付了学费。
-② The museum thanked its benefactors.
-= 博物馆感谢了各位赞助人。
-③ The benefaction funded a new wing.
-= 那笔捐赠资助建了新翼楼。
+① An anonymous benefactor paid the fees for four students a year.
+= 一位匿名捐助人每年替四名学生付学费。
+② The museum thanked its benefactors on a board nobody reads.
+= 博物馆在一块没人看的牌子上感谢了各位赞助人。
+③ The benefaction funded a new wing and ran out before the roof.
+= 那笔捐赠资助建了新翼楼，钱到屋顶就用完了。
 benefaction = 捐赠、善举
 注意别混：
 benefactor = 捐助人（给钱的）
@@ -45496,14 +45496,14 @@ beneficial
 核心：形容词，指"有益的"——对健康、发展或某种结果有好处。
 固定接介词 to。它比 good 正式，多见于书面与专业语境。
 副词是 beneficially。
-① Exercise is beneficial to health.
-= 运动对健康有益。
+① Exercise is beneficial to health in doses far smaller than people assume.
+= 运动对健康有益，所需的量远比人们以为的少。
 beneficial to = 对…有益
-② The change proved mutually beneficial.
-= 那个变动对双方都有好处。
+② The change proved mutually beneficial and neither side had expected it.
+= 那个变动对双方都有好处，而两边都没料到。
 mutually beneficial = 互惠的
-③ Rain fell beneficially on the crops.
-= 那场雨对庄稼很有好处。
+③ Rain fell beneficially on crops that had been written off in July.
+= 那场雨落在七月就被放弃的庄稼上，帮了大忙。
 注意用法：
 介词用 to，不用 for。
 
@@ -45511,13 +45511,13 @@ beneficiary
 核心：指"受益人"——拿到好处的那一方。法律上专指遗嘱、保险、
 信托里的受领人。它跟 benefactor 正好相反，两个词长得像，
 最容易搞混。
-① She is the sole beneficiary of the will.
-= 她是那份遗嘱的唯一受益人。
+① She is the sole beneficiary of the will and learned it from a solicitor.
+= 她是那份遗嘱的唯一受益人，这是律师告诉她的。
 sole beneficiary = 唯一受益人
-② Farmers were the main beneficiaries.
-= 农民是主要受益方。
-③ Name a beneficiary on the policy.
-= 在保单上指定受益人。
+② Farmers were the main beneficiaries and had lobbied for none of it.
+= 农民是主要受益方，而这些他们一样都没游说过。
+③ Name a beneficiary on the policy or the money goes to the estate.
+= 在保单上指定受益人，否则钱归遗产。
 注意别混：
 beneficiary = 受益人（拿好处）
 benefactor = 捐助人（出钱）
@@ -45579,13 +45579,13 @@ benevolent
 核心：形容词，指"仁厚的、乐善好施的"——心地好而且愿意施惠。
 说机构时指"慈善性质的"（benevolent fund 是互助基金）。
 名词是 benevolence。它比 kind 更正式、更带上位者施惠的意味。
-① He was a benevolent employer.
-= 他是个厚道的雇主。
-② The society runs a benevolent fund.
-= 那个协会设有互助基金。
+① He was a benevolent employer who knew every child's name.
+= 他是个厚道的雇主，每个孩子的名字都叫得出。
+② The society runs a benevolent fund that pays out about twice a year.
+= 那个协会设有互助基金，大约一年发放两次。
 benevolent fund = 慈善互助基金
-③ She smiled benevolently.
-= 她慈祥地笑了笑。
+③ She smiled benevolently at an argument she intended to overrule.
+= 她慈祥地对着一个她打算否决的论点笑了笑。
 benevolently = 仁厚地
 benevolence = 仁慈、善举
 注意语域：
@@ -45595,14 +45595,14 @@ Bengali
 核心：孟加拉的：既指孟加拉语，也指说这门语言的族群。要点在范围 ——
 这个族群跨着国界：孟加拉国与印度的西孟加拉邦都是。说国籍要用
 Bangladeshi，说语言与族群才用这个词。近年语言名也常写作 Bangla。可数。
-① She writes poetry in Bengali.
-= 她用孟加拉语写诗。
+① She writes poetry in Bengali and translates it herself into English.
+= 她用孟加拉语写诗，再自己译成英语。
 Bengali = 孟加拉语
-② A Bengali family moved in next door.
-= 隔壁搬来一户孟加拉人家。
+② A Bengali family moved in next door and the street learned to cook.
+= 隔壁搬来一户孟加拉人家，整条街学会了做饭。
 a Bengali = 孟加拉人（族群）
-③ Bengali script is shared with Assamese.
-= 孟加拉文字跟阿萨姆语共用。
+③ Bengali script is shared with Assamese and read across two countries.
+= 孟加拉文字跟阿萨姆语共用，两个国家都在读。
 Bengali script = 孟加拉文字
 构词：地名 Bengal 加 -i
 注意别混：说国籍用 Bangladeshi，说族群与语言用这一个。
@@ -45684,14 +45684,14 @@ benzene
 所以接触受严格管制。
 注意跟 benzine 只差一个字母：那是一种轻质石油溶剂，
 两者不是一回事。
-① Benzene has a six-carbon ring.
-= 苯是六元碳环。
+① Benzene has a six-carbon ring that took thirty years to work out.
+= 苯是六元碳环，那个结构花了三十年才弄明白。
 a six-carbon ring = 六碳环
-② Benzene is a known carcinogen.
-= 苯是已知的致癌物。
+② Benzene is a known carcinogen and is measured at every filling station.
+= 苯是已知致癌物，每个加油站都要测它。
 a known carcinogen = 已知致癌物
-③ Benzine is a petroleum solvent.
-= 石油醚是一种石油溶剂。
+③ Benzine is a petroleum solvent and has nothing to do with the ring.
+= 石油醚是一种石油溶剂，跟那个环毫无关系。
 benzine = 石油醚（另一种物质）
 注意别混：
 benzene = 苯（芳香烃，环状）
@@ -45720,13 +45720,13 @@ berate
 核心：正式动词，指"严厉训斥"——当面把人说一顿，语气重、
 持续时间长。它比 scold 正式，比 tell off 书面。
 结构常是 berate somebody for something。
-① She berated him for being late.
-= 她把他迟到的事狠批了一顿。
+① She berated him for being late in front of the whole department.
+= 她当着全部门的面把他迟到的事狠批了一顿。
 berate somebody for = 因…训斥某人
-② The coach berated the team at half-time.
-= 中场时教练把全队骂了一通。
-③ He berated himself for the mistake.
-= 他为那个错误自责不已。
+② The coach berated the team at half-time and said nothing at all afterwards.
+= 中场时教练把全队骂了一通，赛后一句话没说。
+③ He berated himself for the mistake far longer than anyone else did.
+= 他为那个错误自责，责得比谁都久。
 注意语域：
 正式书面语，日常说 tell off 或 scold。
 
@@ -45735,14 +45735,14 @@ bereave
 bereaved 指"丧失亲人的"，the bereaved 指遗属；
 bereavement 指丧亲这件事。它专指因死亡而失去，
 不用于别的失去。
-① She was recently bereaved.
-= 她新近丧亲。
+① She was recently bereaved and had not told anyone at work.
+= 她新近丧亲，单位里谁都没告诉。
 be bereaved = 丧失亲人
-② The bereaved family asked for privacy.
-= 遗属请求不受打扰。
+② The bereaved family asked for privacy and got about a day of it.
+= 遗属请求不受打扰，大约得到了一天。
 the bereaved = 遗属
-③ He took bereavement leave.
-= 他请了丧假。
+③ War bereaved half the village within a single summer.
+= 一个夏天之内，战争就让半个村子失去了亲人。
 bereavement = 丧亲
 bereavement leave = 丧假
 注意用法：
@@ -45752,14 +45752,14 @@ bereavement
 核心：指"丧亲"——因亲近的人去世而失去他。它专指死亡造成的失去，
 不能用于别的失去。丧假叫 bereavement leave，
 相关的辅导叫 bereavement counselling。
-① She is coping with bereavement.
-= 她正在承受丧亲之痛。
+① She is coping with bereavement and going back to work too early.
+= 她正承受丧亲之痛，却过早回去上班了。
 cope with bereavement = 承受丧亲
-② He took bereavement leave.
-= 他请了丧假。
+② He took bereavement leave and used four of the five days.
+= 他请了丧假，五天里用掉了四天。
 bereavement leave = 丧假
-③ The charity offers bereavement counselling.
-= 那家慈善机构提供丧亲辅导。
+③ The charity offers bereavement counselling with a nine-month waiting list.
+= 那家慈善机构提供丧亲辅导，等候名单排到九个月。
 注意用法：
 只用于因死亡而失去，别的失去用 loss。
 
@@ -45767,13 +45767,13 @@ bereft
 核心：形容词，指"被剥夺得一无所有的"。后接介词 of 引出
 失去的东西，多是抽象的：bereft of ideas 是想不出办法，
 bereft of hope 是彻底绝望。单用时指"（因失去而）失魂落魄"。
-① He was bereft of ideas.
-= 他一点辙都没有了。
+① He was bereft of ideas and said so in the first minute of the meeting.
+= 他一点辙都没有，会议头一分钟就直说了。
 bereft of = 全然没有…
-② The room was bereft of furniture.
-= 那个房间空无一物。
-③ She felt utterly bereft.
-= 她觉得整个人都空了。
+② The room was bereft of furniture except for one chair by the window.
+= 那个房间空无一物，只有窗边一把椅子。
+③ She felt utterly bereft and could not have named what was missing.
+= 她觉得整个人都空了，却说不出缺的是什么。
 feel bereft = 失魂落魄
 注意语域：
 偏文学与正式，日常说 without 或 devastated。
@@ -45782,13 +45782,13 @@ beret
 核心：一种圆而扁的软帽，没有帽檐，多为羊毛毡制，
 戴时向一侧斜压。法国与西班牙的传统帽式，
 后来成了艺术家与某些军种的标志。词尾 t 不发音。
-① He wore a black beret.
-= 他戴着一顶黑贝雷帽。
-② Berets have no brim.
-= 贝雷帽没有帽檐。
+① He wore a black beret indoors and out, in all weathers.
+= 不论晴雨，他在屋里屋外都戴着那顶黑贝雷帽。
+② Berets have no brim and give no protection from anything at all.
+= 贝雷帽没有帽檐，什么也挡不住。
 have no brim = 没有帽檐
-③ Green berets are special forces.
-= 绿色贝雷帽指的是特种部队。
+③ Green berets are special forces and the hat is the least of the training.
+= 绿色贝雷帽指的是特种部队，而帽子是训练里最不值一提的部分。
 注意语域：
 服饰名称，法语借词，词尾辅音不发音。
 
@@ -45796,13 +45796,13 @@ berg
 核心：iceberg 的口语简写，指浮在海上的大冰块。
 另一个完全不同的意思来自南非英语：berg wind 是山上吹下来的
 干热风。读一般文章时按"冰山"理解就行。
-① The ship struck a berg.
-= 那条船撞上了冰山。
+① The ship struck a berg that had drifted eight hundred miles south.
+= 那条船撞上一座向南漂了八百英里的冰山。
 berg = 冰山（iceberg 的简写）
-② Bergs drift south each spring.
-= 每年春天冰山向南漂。
-③ A hot berg wind blew off the mountains.
-= 一股干热的山风从山上刮下来。
+② Bergs drift south each spring and are tracked by aircraft.
+= 每年春天冰山向南漂，由飞机跟踪。
+③ A hot berg wind blew off the mountains and dried the washing in an hour.
+= 一股干热的山风从山上刮下来，一小时就把衣服吹干了。
 berg wind = 焚风（南非用语）
 注意：多数场合是 iceberg 的简写。
 
@@ -45810,13 +45810,13 @@ bergamot
 核心：一种柑橘，果皮精油带清冽的花香，格雷伯爵红茶的香气
 就来自它。果肉极酸不宜食用，种它主要为了取皮油，
 香水业也大量使用。主产于意大利南部。
-① Earl Grey is scented with bergamot.
-= 格雷伯爵茶用佛手柑调香。
+① Earl Grey is scented with bergamot and tastes of nothing else.
+= 格雷伯爵茶用佛手柑调香，除此之外尝不出别的。
 be scented with = 以…调香
-② Bergamot oil comes from the peel.
-= 佛手柑油取自果皮。
-③ Earl Grey gets its scent from bergamot.
-= 伯爵茶的香气来自佛手柑。
+② Bergamot oil comes from the peel and takes a hundred fruit for a small bottle.
+= 佛手柑油取自果皮，一小瓶要用上百个果子。
+③ Bergamot is too sour to eat and is grown almost entirely for the peel.
+= 佛手柑酸得不能吃，种它几乎全是为了果皮。
 bergamot oil = 佛手柑油
 那种茶的标志性香气就是它；香水业也大量用。
 注意语域：
@@ -45826,13 +45826,13 @@ bergschrund
 核心：登山与冰川学术语，指冰川上端与山壁之间那道深裂缝，
 是冰体往下滑、山壁上的雪不动，两边拉开形成的。
 从德语来，攀登路线上是要专门绕开的险处。
-① The climbers crossed the bergschrund at dawn.
-= 登山者天亮时越过了那道冰隙。
+① The climbers crossed the bergschrund at dawn while it was still frozen.
+= 登山者趁天亮时还冻着，越过了那道冰隙。
 bergschrund = 冰川上缘裂隙
-② A bergschrund separates moving ice from rock.
-= 这道裂隙把流动的冰和岩壁分开。
-③ Snow bridges over the bergschrund are unsafe.
-= 裂隙上的雪桥并不牢靠。
+② A bergschrund separates moving ice from rock that does not move.
+= 那道裂隙把流动的冰和不动的岩壁分开。
+③ Snow bridges over the bergschrund are unsafe by ten in the morning.
+= 到上午十点，裂隙上的雪桥就不安全了。
 snow bridge = 雪桥
 注意语域：冰川学与登山术语，源自德语。
 
@@ -45880,12 +45880,12 @@ berm
 核心：土木与地形术语，指一道"窄堤、土埂"——修在坡面、
 路边或渠边的一条平台，用来挡水、稳住坡面或缓冲。
 自行车赛道上外倾的弯道也叫它。
-① A berm protects the road from flooding.
-= 一道土埂防止路面被淹。
-② They cut a berm into the slope.
-= 他们在坡上开了一条平台。
-③ Riders lean into the berm.
-= 车手在外倾弯道上压车。
+① A berm protects the road from flooding in all but the worst years.
+= 除了最糟的年份，一道土埂就能保住路不被淹。
+② They cut a berm into the slope and planted it to hold the soil.
+= 他们在坡上开了一条平台，种上植物固土。
+③ Riders lean into the berm and come out faster than they went in.
+= 车手在外倾弯道上压车，出弯比进弯还快。
 berm = 外倾弯道（自行车赛道）
 注意语域：
 土木工程、军事筑垒与山地自行车用语。
