@@ -202,13 +202,13 @@ biobank
 健康数据一起长期低温保存，供研究使用。它跟普通标本库的区别在于
 规模和配套数据：样本要能跟病历、随访信息对上，才有研究价值。
 因此隐私与知情同意是这个领域的核心争议。
-① The biobank stores half a million samples.
-= 那家生物样本库存了五十万份样本。
-② Researchers applied for biobank access.
-= 研究者申请了样本库的使用权限。
+① The biobank stores half a million samples at minus eighty degrees.
+= 那家生物样本库把五十万份样本存在零下八十度。
+② Researchers applied for biobank access and waited nine months for the committee.
+= 研究者申请了样本库的使用权限，等了九个月才等到委员会批复。
 biobank access = 样本库使用权限
-③ Consent rules govern biobank data.
-= 知情同意规则管着样本库数据。
+③ Consent rules govern biobank data even after the donor has died.
+= 知情同意规则管着样本库数据，捐献者去世后依然适用。
 样本连着个人健康信息，所以管得严。
 构词：bio- 生命 + bank 库
 词族：
@@ -219,13 +219,13 @@ biobreak
 构词是 bio-（生理）加 break（休息），用一个技术味的词避开
 直说，常出现在远程会议和长时间培训里。语气轻松，
 但只用于同事之间的非正式场合。
-① Let's take a biobreak.
-= 咱们歇一下方便一下。
+① Let's take a biobreak before we start the second half.
+= 咱们先方便一下，再开始下半场。
 take a biobreak = 中场去趟洗手间
-② We'll have a biobreak at eleven.
-= 十一点休息一下。
-③ He stepped out for a quick biobreak.
-= 他出去了一趟。
+② We'll have a biobreak at eleven and pick up with the budget after.
+= 十一点休息一下，回来接着讲预算。
+③ He stepped out for a quick biobreak and missed the only decision of the day.
+= 他出去方便了一下，正好错过了当天唯一一项决定。
 注意语域：美式办公室用语，委婉且非正式。
 近义对照：
 biobreak = 方便一下（委婉，办公室用语）
@@ -236,14 +236,14 @@ biochemical
 也作名词，指生化制品或生化物质。构词是 bio-（生命）加 chemical
 （化学的）。它跟 chemical 的分界很清楚：加了 bio- 就限定在
 生命体内部，试管里配出来的反应不叫 biochemical。
-① Enzymes drive biochemical reactions.
-= 酶推动生化反应。
+① Enzymes drive biochemical reactions that would otherwise take years.
+= 酶推动生化反应，没有酶这些反应要花好些年。
 biochemical reaction = 生化反应
-② The test measures biochemical markers.
-= 那项检查测的是生化指标。
+② The test measures biochemical markers in a single drop of blood.
+= 那项检查从一滴血里测生化标志物。
 biochemical marker = 生化标志物
-③ The plant makes industrial biochemicals.
-= 那家厂生产工业用生化制品。
+③ The plant makes industrial biochemicals for the detergent trade.
+= 那家厂生产供洗涤剂行业用的工业生化制品。
 biochemicals = 生化制品（名词，多用复数）
 构词：bio- 生命 + chemical 化学的
 词族：
@@ -294,13 +294,13 @@ bioconversion
 酶或植物把有机废料变成燃料、饲料或化工原料。它跟单纯的化学转化
 的分别就在这个"生物"：干活的是活体或活体产生的酶，
 不是高温高压。生物燃料产业的核心工艺就是它。
-① Bioconversion turns waste into fuel.
-= 生物转化把废料变成燃料。
-② The plant uses bacterial bioconversion.
-= 那家厂用的是细菌转化工艺。
+① Bioconversion turns straw and manure into fuel without any heat or pressure.
+= 生物转化不用加热加压，就把秸秆和粪肥变成燃料。
+② The plant uses bacterial bioconversion and keeps the tanks at blood heat.
+= 那家厂用细菌转化工艺，罐子保持在体温上下。
 bacterial bioconversion = 细菌生物转化
-③ Bioconversion rates depend on temperature.
-= 生物转化的效率取决于温度。
+③ Bioconversion rates depend on temperature and fall off sharply in winter.
+= 生物转化的效率取决于温度，冬天会明显下降。
 活体在干活，所以对温度敏感。
 构词：bio- 生命 + conversion 转化
 词族：
@@ -312,13 +312,13 @@ biodata
 成套信息。在南亚以外的英语里它主要出现在人力资源和心理测量的
 语境里，指用背景资料预测工作表现的那套方法。
 不可数，形式上是复数但当单数用。
-① Send your biodata with the form.
-= 请连同表格附上个人资料。
+① Send your biodata with the form and keep it to two pages.
+= 请连同表格附上个人资料，控制在两页以内。
 不可数，不加冠词。
-② The firm screens biodata before interviews.
-= 那家公司面试前先筛背景资料。
-③ Biodata is used to predict job performance.
-= 背景资料被用来预测工作表现。
+② The firm screens biodata before interviews and rejects nine in ten.
+= 那家公司面试前先筛背景资料，十个刷掉九个。
+③ Biodata is used to predict job performance better than a short interview can.
+= 背景资料用来预测工作表现，比短短一场面试还准。
 biodata inventory = 背景资料量表（人才测评工具）
 谓语用单数。
 构词：bio- 生平 + data 资料
@@ -329,14 +329,14 @@ résumé = 简历（本人撰写，自陈经历）
 biodefence
 核心：指防生物武器和人为疫情的整套防备——监测预警、疫苗储备、
 实验室安保。手段跟公共卫生防疫一样，分别在假想对手是人。不可数。
-① The country expanded its biodefence programme.
-= 那个国家扩大了生物防御计划。
+① The country expanded its biodefence programme after the outbreak reached the capital.
+= 疫情蔓延到首都之后，那个国家扩大了生物防御计划。
 biodefence programme = 生物防御计划
-② Biodefence research is tightly controlled.
-= 生物防御研究管得很严。
+② Biodefence research is tightly controlled and every sample is signed in and out.
+= 生物防御研究管得很严，每份样本进出都要签字。
 研究要动用真的病原体，实验室安保本身就是防御的一环。
-③ Vaccines are stockpiled for biodefence.
-= 疫苗被储备起来以备生物防御之需。
+③ Vaccines are stockpiled for biodefence and rotated before they expire.
+= 疫苗被储备起来以备生物防御之需，到期前要轮换。
 stockpile = 战略储备
 构词：bio- 生物 + defence 防御
 注意拼写：
@@ -366,14 +366,14 @@ recyclable = 可回收的（靠人工再造，跟会不会烂无关）
 biodegrade
 核心：指有机物被微生物分解掉，回到自然循环。要害在"谁来分解"：
 靠活的微生物才算，日晒风吹碎成小块不算。多作不及物。
-① Paper biodegrades quickly.
-= 纸很快就烂掉了。
+① Paper biodegrades quickly in a warm heap but hardly at all in a sealed landfill.
+= 纸在温热的堆肥里烂得快，在封死的填埋场里几乎不烂。
 不及物，主语是被分解的东西。
-② Plastic takes centuries to biodegrade.
-= 塑料要几百年才降解得掉。
+② Plastic takes centuries to biodegrade, and much of it only breaks into smaller pieces.
+= 塑料要几百年才降解得掉，很多只是碎成更小的块。
 takes centuries to biodegrade = 要几百年才降解
-③ The waste biodegrades into harmless compounds.
-= 那些废料分解成无害的化合物。
+③ The waste biodegrades into harmless compounds within a single season.
+= 那些废料一个季度之内就分解成无害的化合物。
 biodegrade into = 降解成某种物质
 构词：bio- 生物 + degrade 降解
 注意别混：
@@ -423,13 +423,13 @@ biodiverse = 生物多样性丰富的
 bioenergy
 核心：从生物质里取出来的能量——木柴、秸秆、粪肥、有机垃圾，烧掉
 或发酵产气都算。不可数，多出现在能源统计和政策文件里。
-① The plant produces bioenergy from waste.
-= 那家厂用废料产生生物能。
-② Bioenergy accounts for a tenth of supply.
-= 生物能占供应的十分之一。
+① The town heats its schools with bioenergy from wood chips.
+= 那个镇用木片产生的生物能给学校供暖。
+② Bioenergy accounts for a tenth of supply, and most of that is firewood.
+= 生物能占供应的十分之一，其中大半是薪柴。
 account for = 占（多大比例）
-③ Bioenergy crops compete with food crops.
-= 能源作物会跟粮食作物抢地。
+③ Bioenergy crops compete with food crops for the same good land.
+= 能源作物跟粮食作物抢的是同一片好地。
 bioenergy crop = 能源作物
 构词：bio- 生物 + energy 能量
 词族：

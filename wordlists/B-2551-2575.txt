@@ -21,13 +21,13 @@ biofeedback
 核心：把心率、血压、肌肉紧张度这些平时感觉不到的信号接上仪器实时
 显示，人盯着屏幕学着去调。要害在"看得见"，察觉不到就调不动。
 不可数。
-① He learned relaxation through biofeedback.
-= 他靠生物反馈学会了放松。
-② A biofeedback machine shows your heart rate.
-= 生物反馈仪把你的心率显示出来。
+① He learned relaxation through biofeedback after the pills stopped working.
+= 药不管用之后，他靠生物反馈学会了放松。
+② A biofeedback machine shows your heart rate as a line you learn to flatten.
+= 生物反馈仪把心率显示成一条线，人学着把它压平。
 biofeedback machine = 生物反馈仪
-③ Biofeedback helps some migraine patients.
-= 生物反馈对一部分偏头痛病人有效。
+③ Biofeedback helps some migraine patients cut the number of attacks by half.
+= 生物反馈能让一部分偏头痛病人的发作次数减半。
 只对一部分人管用，多作辅助手段。
 构词：bio- 生物 + feedback 反馈
 近义对照：
@@ -37,13 +37,13 @@ neurofeedback = 神经反馈（专盯脑电波的那一种）
 biofuel
 核心：用生物质做出来的燃料，跟化石燃料相对——原料是活物或活物的
 残余。泛指时不可数，说种类时用复数。
-① The plant makes biofuel from maize.
-= 那家厂用玉米做生物燃料。
-② Biofuels reduce reliance on oil.
-= 生物燃料减少对石油的依赖。
+① The refinery makes biofuel from sugar cane and sells the pulp as cattle feed.
+= 那家炼厂用甘蔗做生物燃料，渣子当牛饲料卖。
+② Biofuels reduce reliance on oil, though growing them takes land and water.
+= 生物燃料减少对石油的依赖，不过种起来要占地又费水。
 biofuels = 各种生物燃料（复数指种类）
-③ The airline trialled a biofuel blend.
-= 那家航空公司试用了掺生物燃料的油。
+③ The airline trialled a biofuel blend on its shortest route first.
+= 那家航空公司先在最短的航线上试用了掺生物燃料的油。
 biofuel blend = 掺混生物燃料
 构词：bio- 生物 + fuel 燃料
 词族：
@@ -54,13 +54,13 @@ biogas = 沼气（气体）
 biogas
 核心：有机物在无氧环境里被细菌分解产生的气体，主要成分是甲烷，
 可以直接烧。中文说"沼气"。不可数。
-① The farm runs on biogas.
-= 那个农场烧沼气。
-② Biogas is produced in a digester.
-= 沼气在发酵罐里产生。
+① The farm runs on biogas made from its own slurry.
+= 那个农场烧的是自家粪水产的沼气。
+② Biogas is produced in a digester sealed against the air.
+= 沼气在密封隔绝空气的发酵罐里产生。
 digester = 厌氧发酵罐
-③ Landfill sites capture biogas.
-= 填埋场会收集沼气。
+③ Landfill sites capture biogas through pipes sunk into the rubbish.
+= 填埋场靠插进垃圾堆里的管子收集沼气。
 capture biogas = 收集沼气
 构词：bio- 生物 + gas 气体
 近义对照：
@@ -70,13 +70,13 @@ natural gas = 天然气（地下开采的）
 biographer
 核心：写传记的人。写谁就说 the biographer of 加人名，也说
 his biographer。可数。
-① She is his official biographer.
-= 她是他的官方传记作者。
+① She is his official biographer and was given the letters nobody else has seen.
+= 她是他的官方传记作者，拿到了别人没见过的那批信。
 official biographer = 经本人或家属授权的传记作者
-② The biographer spent years on the archive.
-= 那位传记作者在档案上花了好几年。
-③ Two biographers reached opposite conclusions.
-= 两位传记作者得出了相反的结论。
+② The biographer spent years on the archive and found the diary in a shoebox.
+= 那位传记作者在档案上花了好几年，在一只鞋盒里翻出了日记。
+③ Two biographers reached opposite conclusions from the same set of letters.
+= 两位传记作者拿着同一批信，得出了相反的结论。
 构词：biography 传记 + -er 人
 词族：
 biography = 传记
@@ -85,15 +85,15 @@ biographical = 传记的
 biographical
 核心：形容词，说材料、影片、笔记讲的是某人的一生。常用搭配是
 biographical details、biographical information、biographical film。
-① He gave a few biographical details.
-= 他讲了些生平资料。
+① He gave a few biographical details and refused every question after that.
+= 他讲了些生平资料，之后的问题一概不答。
 biographical details = 生平资料
-② It is a biographical film about the singer.
-= 那是一部讲那位歌手的传记片。
+② It is a biographical film about a mathematician who died young.
+= 那是一部讲一位早逝数学家的传记片。
 biographical film = 传记片
 口语里多说 biopic。
-③ The note is purely biographical.
-= 那条注释纯讲生平。
+③ The note is purely biographical and says nothing about the poem itself.
+= 那条注释纯讲生平，对诗本身只字未提。
 构词：biography 传记 + -al 的
 近义对照：
 biographical = 传记的（讲别人一生）
@@ -102,14 +102,14 @@ autobiographical = 自传的（讲自己一生）
 biography
 核心：别人写的某人生平，跟自己写的 autobiography 相对——分别不在
 内容在作者。指一本书时可数，指传记这个门类时不可数。
-① She wrote a biography of Churchill.
-= 她写了一本丘吉尔传。
+① She wrote a biography of Churchill that ran to three volumes.
+= 她写了一部三卷本的丘吉尔传。
 a biography of = 某人的传记
-② He has read several biographies.
-= 他读过好几本传记。
+② He has read several biographies of the same general and trusts none of them.
+= 同一位将军的传记他读过好几本，一本也不信。
 可数，复数是 biographies。
-③ Biography is a popular genre.
-= 传记是很受欢迎的门类。
+③ Biography is a popular genre and outsells fiction in some years.
+= 传记是很受欢迎的门类，有些年头比小说还好卖。
 指门类时不可数，不加冠词。
 构词：bio- 生平 + -graphy 写
 注意别混：
@@ -120,13 +120,13 @@ memoir = 回忆录（本人写，只截取一段）
 biohazard
 核心：指细菌、病毒、血液样本这类会危害健康的生物性危险物，也指
 它带来的风险。实验室和医院的容器与警示牌上就印这个词。可数。
-① The lab handles biohazards daily.
-= 那间实验室天天处理生物危害物。
-② Put it in the biohazard bin.
-= 扔进生物危险废物桶。
+① The lab handles biohazards daily and logs every container that leaves.
+= 那间实验室天天处理生物危害物，出去的每个容器都要登记。
+② Put it in the biohazard bin, not the ordinary rubbish.
+= 扔进生物危险废物桶，别扔普通垃圾。
 biohazard bin = 生物危险废物容器
-③ The symbol warns of a biohazard.
-= 那个标志警示有生物危害。
+③ The symbol warns of a biohazard and appears on the door and the fridge.
+= 那个标志警示有生物危害，门上和冰箱上都贴着。
 biohazard symbol = 生物危害标志
 构词：bio- 生物 + hazard 危险
 近义对照：
@@ -170,14 +170,14 @@ biologically = 从生物学角度；生理上
 biologically
 核心：副词，两个用法：一是"从生物学上说"，给整句定角度，多放句首；
 二是"在生理上"，修饰后面的形容词。
-① Biologically, the two are the same species.
-= 从生物学上说，这两者是同一个物种。
+① Biologically, the two are the same species, whatever the breeders call them.
+= 从生物学上说，这两者是同一个物种，不管育种的人叫它们什么。
 放句首给全句定角度，后面跟逗号。
-② The compound is biologically active.
-= 那种化合物有生物活性。
+② The compound is biologically active at doses too small to taste.
+= 那种化合物在尝不出味道的剂量下就有生物活性。
 biologically active = 有生物活性的
-③ They are not biologically related.
-= 他们没有血缘关系。
+③ They are not biologically related but share a surname and a way of walking.
+= 他们没有血缘关系，却同姓，走路的样子也像。
 biologically related = 有血缘关系的
 构词：biological 生物的 + -ly
 词族：
@@ -186,13 +186,13 @@ biological = 生物的；亲生的
 biologist
 核心：研究生物的人。按研究对象再分，marine biologist 研究海洋生物，
 molecular biologist 研究分子层面。可数。
-① He trained as a biologist.
-= 他学的是生物。
-② Marine biologists tagged the sharks.
-= 海洋生物学家给鲨鱼装了标记。
+① He trained as a biologist and spent his whole career counting birds.
+= 他学的是生物，一辈子都在数鸟。
+② Marine biologists tagged the sharks and followed them for two winters.
+= 海洋生物学家给鲨鱼装了标记，跟踪了两个冬天。
 marine biologist = 海洋生物学家
-③ The biologist published her findings.
-= 那位生物学家发表了研究结果。
+③ The biologist published her findings after a third season confirmed them.
+= 第三季观察印证之后，那位生物学家才发表了结果。
 构词：biology 生物学 + -ist 人
 词族：
 molecular biologist = 分子生物学家
@@ -221,12 +221,12 @@ biologist = 生物学家
 bioluminescence
 核心：活体自己发出的光——萤火虫、深海鱼、发光水母、有些真菌。
 靠体内的化学反应发光，几乎不发热，所以又叫冷光。不可数。
-① Bioluminescence lights the deep sea.
-= 生物发光照亮了深海。
-② Fireflies produce bioluminescence.
-= 萤火虫会发出生物荧光。
-③ The bay glows with bioluminescence.
-= 那片海湾因生物发光而泛着光。
+① Bioluminescence lights the deep sea where no sunlight reaches.
+= 阳光照不到的深海，是靠生物发光照亮的。
+② Fireflies produce bioluminescence in pulses that each species times differently.
+= 萤火虫发出的生物荧光一闪一闪，各个物种的节拍不同。
+③ The bay glows with bioluminescence whenever a boat stirs the water.
+= 只要有船搅动水面，那片海湾就泛起生物荧光。
 glow with bioluminescence = 泛着生物荧光
 构词：bio- 生物 + luminescence 发光
 词族：
@@ -255,12 +255,12 @@ biome
 核心：按气候和植被划分的大尺度生态区，苔原、雨林、荒漠、草原
 各是一个。分的不是地理位置而是气候与植被，所以同一个 biome 可以
 隔着大洋分布在几块大陆上。可数。
-① Tundra is a cold biome.
-= 苔原是一种寒冷的生物群系。
-② Rainforest biomes hold most species.
-= 雨林群系里物种最多。
-③ The map shows the world's biomes.
-= 那张图标出了全球的生物群系。
+① Tundra is a cold biome where the ground stays frozen a foot down.
+= 苔原是一种寒冷的生物群系，地面往下一尺常年冻着。
+② Rainforest biomes hold most species on a small fraction of the land.
+= 雨林群系占地不多，物种却最多。
+③ The map shows the world's biomes in bands that follow latitude, not coastline.
+= 那张图把全球生物群系画成带状，跟着纬度走，不跟海岸线。
 构词：bio- 生物 + -ome 整体
 近义对照：
 biome = 生物群系（按气候植被分的大区）
@@ -269,14 +269,14 @@ ecosystem = 生态系统（一处生物与环境的整体，尺度可大可小�
 biomechanics
 核心：用力学的方法研究生物体的运动——骨骼肌肉怎么受力、跑姿好不好、
 假肢该怎么设计。形式上是复数，当单数用。
-① Biomechanics explains the injury.
-= 生物力学能解释那次受伤。
+① Biomechanics explains the injury better than bad luck does.
+= 那次受伤，生物力学比运气差更能解释。
 形式复数，谓语用单数。
-② She studies the biomechanics of running.
-= 她研究跑步的生物力学。
+② She studies the biomechanics of running on hard and on soft ground.
+= 她研究在硬地和软地上跑步的生物力学。
 the biomechanics of = 某动作的力学机理
-③ Biomechanics informs prosthetic design.
-= 生物力学为假肢设计提供依据。
+③ Biomechanics informs prosthetic design down to the springiness of the foot.
+= 生物力学为假肢设计提供依据，细到脚掌的弹性。
 构词：bio- 生物 + mechanics 力学
 词族：
 biomechanical = 生物力学的
