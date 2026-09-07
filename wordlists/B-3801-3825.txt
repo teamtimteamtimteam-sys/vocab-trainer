@@ -260,14 +260,14 @@ caboose
 车厢，挂在货运列车最后，如今已被技术设备取代。
 英式旧义指船上的厨房小屋。词来自荷兰语 kabuis 船上
 厨房，所以是先有厨房义，后来才转成车厢义。可数。
-① The brakeman rode in the caboose.
-= 那位制动员坐在守车里。
+① The brakeman rode in the caboose and watched for hot axles.
+= 制动员坐在守车里，盯着有没有轴承过热。
 caboose = 货运列车尾部的守车（美式）
-② Cabooses disappeared from freight trains long ago.
-= 守车早就从货运列车上消失了。
+② Cabooses disappeared from freight trains once sensors took over.
+= 传感器接手之后，守车就从货运列车上消失了。
 freight train = 货运列车
-③ The cook slept in the caboose.
-= 厨子睡在船上的厨房小屋里。
+③ The cook slept in the caboose with the stove still warm.
+= 厨子睡在船上的厨房小屋里，炉子还温着。
 caboose = 船上的厨房小屋（旧）
 构词：荷兰语 kabuis 船上厨房
 注意用法：车厢义是美式，英式说 guard's van。
@@ -277,14 +277,14 @@ cabriolet
 折起来；后来把这个特点搬到汽车上，指敞篷车，尤其是软顶
 可折的那种，是欧洲车厂的正式叫法，常缩写成 cabrio。
 出租车 cab 就是从这个词截短来的。可数。
-① He restored a nineteenth-century cabriolet.
-= 他修复了一辆十九世纪的双轮马车。
+① He restored a nineteenth-century cabriolet down to the lamp brackets.
+= 他把一辆十九世纪的双轮马车修复到连灯架都还原了。
 cabriolet = 折篷的轻便双轮马车
-② The cabriolet has a soft top.
-= 那辆敞篷车是软顶的。
+② The cabriolet has a soft top that folds in eleven seconds.
+= 那辆敞篷车是软顶的，十一秒就能收起来。
 cabriolet = 敞篷车
-③ She drives a cabrio in summer.
-= 夏天她开敞篷车。
+③ She drives a cabrio in summer and something sensible in winter.
+= 夏天她开敞篷车，冬天换一辆实用的。
 cabrio = cabriolet 的缩写
 构词：法语 cabrioler 蹦跳，因为车轻，走起来一跳一跳
 注意用法：日常英语更常说 convertible，cabriolet 偏正式。
@@ -313,14 +313,14 @@ weapons 是一批藏起来的武器。计算机义是缓存：把常用数据
 先存在快的地方，下次直接取，clear the cache 是清缓存。
 动词是把东西藏起来、或把数据存进缓存。读音同 cash，
 不读成两个音节。可数。
-① Police found a cache of weapons.
-= 警方发现了一批藏匿的武器。
+① Police found a cache of weapons under the floor of a garage.
+= 警方在一间车库的地板下发现了一批藏匿的武器。
 a cache of = 一批藏起来的……
-② Squirrels cache nuts for the winter.
-= 松鼠把坚果藏起来过冬。
+② Squirrels cache nuts for the winter and forget most of them.
+= 松鼠藏坚果过冬，多半又想不起藏在哪儿。
 cache = 藏起来备用
-③ Try clearing your browser cache.
-= 试试清一下浏览器缓存。
+③ Try clearing your browser cache before you report the fault.
+= 报故障之前先清一下浏览器缓存试试。
 clear the cache = 清除缓存
 构词：法语 cacher 藏
 注意读音：读作 cash，跟 cachet 不是一个词。
@@ -330,14 +330,14 @@ cachet
 has cachet，是说它自带体面和格调，不靠吹。多跟 have、
 lack、add 搭配。词来自法语的印章，盖了章就算认可，
 光环义由此而来。不可数，词尾 t 不发音。
-① A degree from there still has cachet.
-= 那儿的学位到今天仍然有分量。
+① A degree from there still has cachet with older employers.
+= 在年纪大些的雇主眼里，那儿的学位到今天仍有分量。
 have cachet = 自带体面与格调
-② The label adds cachet to the wine.
-= 那个牌子给这酒添了几分身价。
+② The label adds cachet to a wine that would otherwise sell for half.
+= 那个牌子给一瓶本来只值一半价钱的酒添了身价。
 add cachet to = 给……增添格调
-③ The prize lacks the cachet it once had.
-= 那个奖不像当年那么有面子了。
+③ The prize lacks the cachet it had when only three were given.
+= 当年一共只发三个，如今那个奖不像那时有面子了。
 lack cachet = 缺少光环
 构词：法语 cachet 印章、标记
 注意读音：词尾 t 不发音。
@@ -388,14 +388,14 @@ cacophony
 opinions 是众口嘈杂。形容词 cacophonous 是嘈杂难听的。
 词根 caco- 是希腊语的坏，-phony 是声音。多用单数，
 常跟 a cacophony of。
-① A cacophony of horns filled the street.
-= 满街都是刺耳的喇叭声。
+① A cacophony of horns filled the street for the whole of the delay.
+= 堵着的那一段时间里，满街都是刺耳的喇叭声。
 a cacophony of = 一片嘈杂的……
-② The debate became a cacophony.
-= 那场辩论变成了一片嘈杂。
+② The debate became a cacophony and the chair switched the microphones off.
+= 那场辩论变成一片嘈杂，主持人把话筒全关了。
 cacophony = 刺耳的混杂声响
-③ The cacophonous rehearsal drove him out.
-= 排练吵得他待不下去。
+③ The cacophonous rehearsal drove him out to the car park.
+= 排练吵得他躲到了停车场。
 cacophonous = 嘈杂难听的
 近义对照：
 cacophony = 刺耳嘈杂（贬义）
@@ -406,14 +406,14 @@ harmony = 和谐悦耳（反面）
 cactus
 核心：仙人掌类植物的统称。复数两种都对：cacti 偏正式
 与学术，cactuses 偏日常。可数。
-① The cactus needs almost no water.
-= 那盆仙人掌几乎不用浇水。
+① The cactus needs almost no water and dies if you give it any.
+= 那盆仙人掌几乎不用浇水，浇了反而会死。
 cactus = 仙人掌
-② The desert was covered in cacti.
-= 沙漠里满是仙人掌。
+② The desert was covered in cacti taller than the truck.
+= 沙漠里满是比卡车还高的仙人掌。
 cacti = 复数（正式）
-③ She collects cactuses.
-= 她收集仙人掌。
+③ She collects cactuses and has run out of windowsill.
+= 她收集仙人掌，窗台早已摆不下。
 cactuses = 复数（日常）
 构词：希腊语 kaktos 一种带刺的植物
 注意用法：两种复数都通行，学术写作多用 cacti。
@@ -422,13 +422,13 @@ cad
 核心：对待女性不讲道义的男人，骗、耍、不负责任。
 这个词现在带旧气，多见于小说或半开玩笑的说法，
 形容词 caddish 是下流无品的。可数，只说男的。
-① He behaved like an absolute cad.
-= 他的行为十足是个无赖。
+① He behaved like an absolute cad and never once apologised.
+= 他的行为十足是个无赖，一次歉都没道过。
 a cad = 对女性不讲道义的男人
-② Her father called him a cad.
-= 她父亲骂他不是东西。
-③ It was a caddish thing to do.
-= 那种事做得很没品。
+② Her father called him a cad and shut the door on him.
+= 她父亲骂他不是东西，当面把门关上了。
+③ It was a caddish thing to do in front of her family.
+= 当着她家人的面做那种事，很没品。
 caddish = 下流无品的
 构词：caddie 的截短，本指低等仆役
 注意语域：带旧气，今天多用于戏谑。
@@ -438,13 +438,13 @@ cadaver
 医学与法律文书里说 cadaver，日常说 body 或 corpse。
 形容词 cadaverous 借尸体的样子形容活人：面色灰白、
 瘦得脱形。可数。
-① Medical students dissect a cadaver in the first year.
-= 医学生一年级就做尸体解剖。
+① Medical students dissect a cadaver in the first year of the course.
+= 医学生在课程第一年就做尸体解剖。
 cadaver = 供解剖的尸体
-② The report listed the cadaver by number.
-= 报告按编号登记那具遗体。
-③ He had a cadaverous look after the illness.
-= 病后他面色灰白，瘦得脱了形。
+② The report listed the cadaver by number and gave no name.
+= 报告按编号登记那具遗体，没有写名字。
+③ He had a cadaverous look after six weeks of the illness.
+= 病了六周之后，他面色灰白，瘦得脱了形。
 cadaverous = 面色灰白瘦得脱形的
 近义对照：
 cadaver = 尸体（医学与法律用词）
@@ -457,14 +457,14 @@ caddie
 动词是做球童。也拼作 caddy，两种写法都对，但 caddy
 另有茶叶罐的意思，容易混。来自法语 cadet 幼子，本指
 跟着跑腿的年轻人，cad 也是从这个词截短来的。可数。
-① He worked as a caddie at the club.
-= 他在那家球会当球童。
+① He worked as a caddie at the club through three summers.
+= 他在那家球会当了三个夏天的球童。
 caddie = 高尔夫球童
-② She caddied for her brother.
-= 她给她哥哥当球童。
+② She caddied for her brother and talked him out of one club.
+= 她给她哥哥当球童，还劝他换掉了一支球杆。
 caddie for somebody = 给某人当球童
-③ The caddie read the green for him.
-= 球童替他看了果岭的坡度。
+③ The caddie read the green for him and got it exactly right.
+= 球童替他看了果岭坡度，判得分毫不差。
 read the green = 判读果岭起伏
 构词：法语 cadet 幼子，跟着跑腿的年轻人
 注意别混：caddy 也指茶叶罐，跟球童义不同源。
@@ -473,13 +473,13 @@ caddis
 核心：石蛾。这个词几乎只以两个组合出现：caddis fly 指
 成虫，caddis worm 指水里的幼虫。单说 caddis 的时候少，
 在钓鱼和淡水生态的文字里最常见。可数。
-① A caddis fly landed on the water.
-= 一只石蛾落在水面上。
+① A caddis fly landed on the water and was gone in a second.
+= 一只石蛾落在水面上，一秒就没了。
 caddis fly = 石蛾（成虫）
-② Trout feed on caddis worms.
-= 鳟鱼吃石蛾幼虫。
+② Trout feed on caddis worms all through the early summer.
+= 整个初夏，鳟鱼都在吃石蛾幼虫。
 caddis worm = 石蛾幼虫
-③ He tied a fly to imitate a caddis.
-= 他绑了个仿石蛾的假饵。
+③ He tied a fly to imitate a caddis and caught three that evening.
+= 他绑了个仿石蛾的假饵，那晚钓上三条。
 tie a fly = 绑制假饵
 注意用法：多说 caddis fly 或 caddis worm，少单用。
