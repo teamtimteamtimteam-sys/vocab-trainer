@@ -2,14 +2,14 @@ bookie
 核心：博彩经纪的口语说法，是 bookmaker 的缩略：接受下注、
 定赔率、算赔付的人或店。赛马和足球下注最常见。语气随和，
 不带贬义。可数。
-① He placed a bet with a bookie.
-= 他找博彩经纪下了注。
+① He placed a bet with a bookie who took cash and nothing else.
+= 他找了个只收现金的博彩经纪下注。
 place a bet = 下注
-② The bookies shortened the odds.
-= 那些博彩公司把赔率调低了。
+② The bookies shortened the odds an hour before the race.
+= 开赛前一小时，那些博彩公司把赔率调低了。
 shorten the odds = 调低赔率（表示更被看好）
-③ Bookies took millions on the race.
-= 那场比赛的下注额有几百万。
+③ Bookies took millions on the race and paid out on a horse nobody backed.
+= 那场比赛的下注额有几百万，赔的却是一匹没人押的马。
 构词：bookmaker 的缩略
 词族：
 bookmaker = 博彩经纪（全称）
@@ -37,14 +37,14 @@ bookish
 核心：形容词，书卷气的、爱读书的。它是把双刃剑：可以是中性
 甚至褒义的"好学"，也常带贬义，暗指只懂书本、不通世事、
 说话文绉绉。语气偏向哪边全看上下文。
-① He was a quiet, bookish boy.
-= 他是个安静爱读书的孩子。
+① He was a quiet, bookish boy who read through every break.
+= 他是个安静爱读书的孩子，每个课间都在看书。
 a bookish boy = 爱读书的孩子
-② Her style is rather bookish.
-= 她的文风有点掉书袋。
+② Her style is rather bookish and loses half the room by the third page.
+= 她的文风有点掉书袋，读到第三页就走掉一半人。
 bookish style = 文绉绉的文风
-③ The advice sounded bookish.
-= 那些建议听着像纸上谈兵。
+③ The advice sounded bookish to anyone who had actually run a shop.
+= 真开过店的人听那些建议，就觉得是纸上谈兵。
 构词：book 书 + -ish 带……味的
 注意语用：可褒可贬，
 贬义时指只懂书本不通世事。
@@ -112,13 +112,13 @@ boomburb
 核心：美式新造词，指原本是郊区、后来人口爆涨成一座大城的地方——
 规模像城市，格局却还是郊区：处处开车、没有老城中心。
 构词是 boom（激增）加 suburb（郊区）。可数。
-① Phoenix is ringed by boomburbs.
-= 凤凰城四周全是这类暴涨新城。
+① Phoenix is ringed by boomburbs that were desert forty years ago.
+= 凤凰城四周全是这类暴涨新城，四十年前那儿还是沙漠。
 be ringed by = 被环绕
-② Boomburbs grew past a hundred thousand.
-= 那些新城人口涨过了十万。
-③ A boomburb lacks an old centre.
-= 这类新城没有老城中心。
+② Boomburbs grew past a hundred thousand people without ever building a high street.
+= 那些新城人口涨过十万，却始终没修出一条商业主街。
+③ A boomburb lacks an old centre, so everything happens in car parks.
+= 这类新城没有老城中心，什么事都发生在停车场里。
 lack = 缺少
 构词：boom 激增 + suburb 郊区
 注意用法：规模像城市，格局仍是郊区。
@@ -127,14 +127,14 @@ boomer
 核心：主要指婴儿潮一代——二战后出生率激增那二十年里生的人，
 是 baby boomer 的缩略。这个词在代际话题里高频出现，
 有时带调侃甚至对立情绪。可数。
-① Boomers are now retiring.
-= 婴儿潮一代正陆续退休。
+① Boomers are now retiring at a rate of ten thousand a day.
+= 婴儿潮一代正以每天一万人的速度退休。
 retire = 退休
-② The market targets boomers.
-= 那个市场瞄准的是婴儿潮一代。
+② The market targets boomers because they own most of the houses.
+= 那个市场瞄准婴儿潮一代，因为房子大半在他们手里。
 target = 以……为目标
-③ Boomers and millennials differ sharply.
-= 婴儿潮一代和千禧一代差别很大。
+③ Boomers and millennials differ sharply on what a job should give you.
+= 婴儿潮一代和千禧一代在工作该给人什么上分歧很大。
 differ = 有差别
 构词：baby boomer 的缩略
 注意语用：代际话题里有时带调侃或对立情绪。
@@ -162,13 +162,13 @@ boon
 核心：指帮了大忙的好东西——不是随手的小恩惠，是让人日子好过
 不少的那种。固定说法是 a boon to 或 a boon for someone。
 另有一个偏旧的搭配 boon companion，指亲密的酒肉朋友。可数。
-① The new bridge is a boon to the village.
-= 那座新桥给村子帮了大忙。
+① The new bridge is a boon to the village and halved the school run.
+= 那座新桥给村子帮了大忙，送孩子上学的路程短了一半。
 a boon to = 对某方是大好事
-② Online banking is a real boon.
-= 网上银行真是方便极了。
-③ They were boon companions.
-= 他们是形影不离的老友。
+② Online banking is a real boon to anyone who cannot get out easily.
+= 网上银行对出门不方便的人真是帮了大忙。
+③ They were boon companions for forty years and quarrelled at the end.
+= 他们做了四十年形影不离的老友，末了闹翻了。
 boon companion = 密友、酒友（偏旧）
 构词：古诺斯语 bon 请求、恩赐
 近义对照：
@@ -180,13 +180,13 @@ boondocks
 说 out in the boondocks 就是"在鸟不拉屎的地方"。词源有意思：
 来自他加禄语的"山"，是美军在菲律宾时带回美国的。
 只用复数，多带 the，也缩略成 the boonies。
-① They live out in the boondocks.
-= 他们住在偏远的乡下。
+① They live out in the boondocks and drive an hour for milk.
+= 他们住在偏远乡下，买牛奶要开一小时车。
 out in the boondocks = 在穷乡僻壤
-② The boondocks have no bus service.
-= 那种偏远地方没有公交。
-③ It is a long drive from the boondocks.
-= 从那种偏僻地方开过来路很远。
+② The boondocks have no bus service and the post comes twice a week.
+= 那种偏远地方没有公交，邮件一周送两次。
+③ It is a long drive from the boondocks and nobody visits twice.
+= 从那种偏僻地方开过来路很远，没人会来第二趟。
 构词：他加禄语 bundok 山
 注意来历：美军驻菲律宾时带回美国的借词。
 
@@ -194,13 +194,13 @@ boondoggle
 核心：美式，指白花钱的无用工程或项目——钱花了不少，
 实际没什么用，多用来骂政府开支。它本来指童子军编的绳结饰物，
 后来被拿来讽刺"做出来只是为了显得在做事"的活儿。可数。
-① Critics called the scheme a boondoggle.
-= 批评者说那个方案是烧钱的面子工程。
-② The project became a costly boondoggle.
-= 那个项目成了昂贵的无用工程。
+① Critics called the scheme a boondoggle before a single brick was laid.
+= 一块砖还没砌，批评者就说那个方案是烧钱的面子工程。
+② The project became a costly boondoggle that ran nine years over.
+= 那个项目成了昂贵的无用工程，超期九年。
 costly = 代价高昂的
-③ Taxpayers resent such boondoggles.
-= 纳税人反感这类烧钱项目。
+③ Taxpayers resent such boondoggles more than they resent the tax itself.
+= 纳税人反感这类烧钱项目，甚过反感税本身。
 resent = 反感
 构词：原指童子军编的绳饰
 注意语用：贬义，多用来骂公共开支。
@@ -209,13 +209,13 @@ boor
 核心：指粗鲁无礼、不顾别人感受的人——说话冲、举止糙、
 不懂场合。它评的是教养不是出身，所以有钱人也可以是 boor。
 词源本义是"农夫"，跟德语的 Bauer 同源。可数。
-① He behaved like a boor.
-= 他表现得很没教养。
+① He behaved like a boor and helped himself to the last of the wine.
+= 他表现得很没教养，把剩下的酒全倒给了自己。
 behave like = 表现得像
-② Only a boor would say that.
-= 只有粗人才说得出那种话。
-③ She refused to marry a boor.
-= 她不肯嫁给这么个粗人。
+② Only a boor would say that in front of her parents.
+= 只有粗人才会当着她父母的面说那种话。
+③ She refused to marry a boor, however much land he owned.
+= 不管那人有多少地，她也不肯嫁给这么个粗人。
 构词：中古荷兰语 boer 农夫
 注意用法：评的是教养，不是出身。
 
@@ -223,13 +223,13 @@ boorish
 核心：形容词，粗鲁无礼的、不顾旁人的。它跟单纯的 rude 有点差别：
 rude 可以是一句话说重了，boorish 说的是一贯的做派——嗓门大、
 不看场合、把别人当空气。贬义。
-① His boorish manners spoiled the evening.
-= 他那副粗鲁做派毁了那个晚上。
+① His boorish manners spoiled the evening for everyone at that end of the table.
+= 他那副粗鲁做派毁了那一头整桌人的晚上。
 boorish manners = 粗鲁的举止
-② She found him boorish.
-= 她觉得他很没教养。
-③ The behaviour was boorish and loud.
-= 那种举动既粗鲁又聒噪。
+② She found him boorish long before he opened his mouth.
+= 他还没开口，她就觉得他没教养。
+③ The behaviour was boorish and loud and went on until closing time.
+= 那种举动既粗鲁又聒噪，一直闹到打烊。
 构词：boor 粗人 + -ish
 近义对照：
 boorish = 粗鲁的（一贯的做派）
@@ -322,14 +322,14 @@ boot camp
 boot camp，编程速成班是 coding boot camp，减肥集训是
 fitness boot camp。美式还有一支：管教问题少年的严管训练营。
 可数。
-① He survived boot camp.
-= 他熬过了新兵训练营。
+① He survived boot camp on four hours of sleep a night.
+= 他每晚睡四小时，熬过了新兵训练营。
 survive = 熬过来
-② She joined a coding boot camp.
-= 她报了个编程速成班。
+② She joined a coding boot camp and had a job within four months.
+= 她报了个编程速成班，四个月后就找到了工作。
 a coding boot camp = 编程集训营
-③ The fitness boot camp lasts six weeks.
-= 那个健身集训六周。
+③ The fitness boot camp lasts six weeks and starts at six every morning.
+= 那个健身集训六周，每天早上六点开练。
 构词：boot 新兵（旧俚语） + camp 营地
 注意用法：引申义指任何短期高压速成训练。
 
@@ -348,14 +348,14 @@ employ = 雇用
 bootee
 核心：婴儿穿的软鞋，多是毛线织的，脚踝上系带子，不硌脚也不掉。
 另有一支指女式的短筒靴，长度到脚踝。也拼作 bootie。可数。
-① She knitted a pair of bootees.
-= 她织了一双婴儿毛线鞋。
+① She knitted a pair of bootees before the baby even had a name.
+= 孩子还没起名，她就织好了一双毛线鞋。
 a pair of bootees = 一双婴儿软鞋
-② The bootees tie at the ankle.
-= 那双婴儿鞋在脚踝上系带。
+② The bootees tie at the ankle so they stay on a kicking foot.
+= 那双婴儿鞋在脚踝上系带，蹬来蹬去也掉不了。
 tie = 系
-③ Ankle bootees came back in fashion.
-= 短筒靴又流行起来了。
+③ Ankle bootees came back in fashion with a lower heel this time.
+= 短筒靴又流行起来了，这回鞋跟矮了些。
 指女式短靴那一支。
 构词：boot 靴 + -ee 小称
 注意拼写：也拼作 bootie。
@@ -414,14 +414,14 @@ bootleg
 核心：指私造私贩的东西——禁酒年代的私酒是本义，今天更常指
 未经授权的录音和翻录。词源很具体：贩酒的人把扁酒瓶塞在高筒靴
 的靴筒里躲检查，那个动作就叫 bootleg。名词形容词动词都用。
-① They sold bootleg whisky.
-= 他们卖私酒。
+① They sold bootleg whisky out of a garage behind the church.
+= 他们在教堂后面的车库里卖私酒。
 bootleg whisky = 私酿威士忌
-② The bootleg recording circulated widely.
-= 那份盗录流传很广。
+② The bootleg recording circulated widely on tapes copied from tapes.
+= 那份盗录靠翻录的磁带流传很广。
 a bootleg recording = 未经授权的录音
-③ He bootlegged the concert.
-= 他把那场演唱会偷录了。
+③ He bootlegged the concert with a recorder hidden inside his coat.
+= 他把录音机藏在外套里，偷录了那场演唱会。
 动词用法。
 构词：boot 靴 + leg 靴筒
 注意来历：私酒贩把酒瓶藏在靴筒里躲检查。
@@ -430,13 +430,13 @@ bootlegger
 核心：私酒贩子，特指美国禁酒令时期造酒运酒卖酒的人。
 那十几年里这门黑生意养出了成规模的犯罪组织，所以这个词
 自带一股二十年代的味道。今天也指盗版贩子。可数。
-① Bootleggers ran liquor across the border.
-= 私酒贩把酒从边境运进来。
+① Bootleggers ran liquor across the border in cars with reinforced springs.
+= 私酒贩用加强了弹簧的汽车把酒从边境运进来。
 run liquor = 私运酒类
-② The bootlegger was never caught.
-= 那个私酒贩子始终没落网。
-③ Prohibition made bootleggers rich.
-= 禁酒令让私酒贩发了财。
+② The bootlegger was never caught and died a respected businessman.
+= 那个私酒贩子始终没落网，死时是位受人尊敬的商人。
+③ Prohibition made bootleggers rich and left the police badly paid.
+= 禁酒令让私酒贩发了财，警察的薪水却还是那么低。
 prohibition = 禁酒令
 构词：bootleg 私贩 + -er
 词族：
