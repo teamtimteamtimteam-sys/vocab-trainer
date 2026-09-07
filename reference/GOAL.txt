@@ -19,7 +19,7 @@ B 词表 5841 条，最末词条 Czech。a、b、c 三段都收完，余下的�
 ═══ 当前主线：全表回填例句 ═══
 **这件事仍优先于继续写 d 段。** 进度：
 
-    已回填 3973 条词条 / 约 21324 条例句
+    已回填 3993 条词条 / 约 21384 条例句
     一级（义项 ≥8 的大词）382 条 —— 全部完成
     二级（A 表也收的高频词）341 条 —— 全部完成
     三级（其余）3462 条 —— 已开工（2026-09-06 起，banana 那批是第一批）
@@ -214,6 +214,21 @@ alleviate 与 ameliorate 差了十万八千里，永远配不成对。
 **写前那一扫查的是旧文本，管不到新写的句子**；能拦住的只有写完再扫一遍。
 改法照旧按等式归属：anchor ② 的等式锚着 at anchor，所以 anchorage ② 换场景 ——
 改成港外六条船排开、留出随潮转向的距离（顺带把「锚地是个地方」写出来了）。
+
+**还有一层扫描器天生看不见的：句式撞车，不是词句撞车。**（2026-09-07 第七十七批）
+主语宾语全不同、译文用词也不同，通道 2/3/4 的相似度都算不出来，
+可两句读起来是同一个模子。这一轮撞了四回，全是撞我自己最近几批写的：
+  · boulevard ①「They strolled along the boulevard」撞第 70 批
+    boardwalk ①「They strolled along the boardwalk」
+  · bougainvillea ②「gets its colour from bracts」撞同轮 borscht ②
+    「gets its colour from beetroot」
+  · boozy ①「They had a boozy lunch and got nothing done」撞
+    booze ①「They brought plenty of booze and nothing at all to eat」
+  · boutique ①「She runs a boutique」撞第 60 批 bistro ③「She runs a bistro」
+**几个惯用句型最容易复发**：She runs a X / They strolled along the X /
+X gets its colour from Y / He took up X at N / She trained as a X。
+写的时候一旦顺手用出这几句，就该停一下想想上几批用过没有。
+扫描器帮不上忙，只能靠写的人记着。
 
 **判重命中率跟语义亲缘直接相关，不是随机的。** ab-/ac- 那一带同族异条
 扎堆（abase/abasement、accusatory/accusing/accusingly 一次报三对），
