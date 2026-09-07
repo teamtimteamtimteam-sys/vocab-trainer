@@ -79680,14 +79680,14 @@ catalepsy
 核心：僵住不动的状态：肌肉发僵、姿势固定、对外界几乎
 没有反应，可以持续很久。医学与精神科用词，形容词
 cataleptic。不可数。
-① Catalepsy can last for hours.
-= 那种僵住能持续几个小时。
+① Catalepsy can last for hours with the limbs held wherever they are put.
+= 那种僵住能持续几个小时，四肢摆到哪儿就停在哪儿。
 catalepsy = 强直性昏厥
-② He was found in a cataleptic state.
-= 发现他时人处在僵直状态。
+② He was found in a cataleptic state on the floor of the ward.
+= 发现他时人僵直地躺在病房地板上。
 cataleptic = 强直僵住的
-③ Catalepsy is not the same as sleep.
-= 那种僵住跟睡着不是一回事。
+③ Catalepsy is not the same as sleep and the eyes may stay open.
+= 那种僵住跟睡着不是一回事，眼睛可能一直睁着。
 be not the same as = 与……不是一回事
 构词：希腊语 katalepsis 攫住
 注意语域：医学与精神科的术语。
@@ -79738,14 +79738,14 @@ a catalytic converter = 汽车三元催化器
 catamaran
 核心：双体船：两个平行的船体架在一起，比同长度的单体船
 稳也快。帆船与渡轮都有。口语里缩成 cat。可数。
-① They sailed a catamaran across the bay.
-= 他们驾双体船横渡海湾。
+① They sailed a catamaran across the bay in under two hours.
+= 他们驾双体船不到两小时横渡了海湾。
 a catamaran = 双体船
-② A catamaran is harder to capsize.
-= 双体船不容易翻。
+② A catamaran is harder to capsize and far harder to right again.
+= 双体船不容易翻，翻了要扶正更难。
 capsize = 翻船
-③ The ferry is a fast catamaran.
-= 那班渡轮是高速双体船。
+③ The ferry is a fast catamaran that cuts the crossing by half.
+= 那班渡轮是高速双体船，把航程砍掉一半。
 构词：泰米尔语 kattumaram 捆起来的木头
 注意用法：口语里缩成一个音节。
 
@@ -79767,14 +79767,14 @@ cataphora
 核心：语言学：先用代词、后面才交代它指谁。跟回指相反，
 回指是先说名字再用代词。那个前指的词叫 cataphor。
 不可数。
-① Cataphora points forward, not back.
-= 前指指向后面，不是前面。
+① Cataphora makes the reader wait for the name until the second clause.
+= 前指让读者等到第二个分句才知道说的是谁。
 cataphora = 前指
-② The pronoun here is a cataphor.
-= 这里那个代词是前指词。
+② The pronoun here is a cataphor and refers to nobody yet.
+= 这里那个代词是前指词，此刻还谁也没指。
 cataphor = 前指的代词
-③ Cataphora is rarer than anaphora.
-= 前指比回指少见。
+③ Cataphora is rarer than anaphora in every language studied.
+= 在研究过的每种语言里，前指都比回指少见。
 anaphora = 回指
 构词：希腊语 kata 向前 加表示带的词根
 注意用法：语言学术语。
@@ -79803,14 +79803,14 @@ cataract
 核心：两支，共同点是奔泻而下。一是白内障：眼球晶状体
 变浑浊，看东西像隔了层雾，这是今天最常见的一支。二是
 大瀑布、急流，书面用词。可数。
-① She had a cataract removed.
-= 她做了白内障摘除。
+① She had a cataract removed and read a newspaper the next day.
+= 她做了白内障摘除，第二天就能看报纸。
 a cataract = 白内障
-② Cataracts cloud the lens of the eye.
-= 白内障让晶状体变浑。
+② Cataracts cloud the lens of the eye over several years.
+= 白内障要好几年才把晶状体弄浑。
 cloud = 使变浑浊
-③ The river drops in a series of cataracts.
-= 那条河一连几道大瀑布落下去。
+③ The river drops in a series of cataracts no boat can pass.
+= 那条河一连几道大瀑布落下去，什么船都过不了。
 a cataract = 大瀑布、急流
 构词：希腊语 katarraktes 冲下来的东西
 注意用法：眼科那一支今天最常用。
@@ -79818,14 +79818,14 @@ a cataract = 大瀑布、急流
 catarrh
 核心：鼻腔与咽喉里过多的黏液，感冒或过敏之后堵着难受。
 英式常用，美式多说 congestion。不可数。
-① He suffers from catarrh every spring.
-= 他每年春天都鼻塞多痰。
+① He suffers from catarrh every spring and blames the rapeseed.
+= 他每年春天都鼻塞多痰，怪罪于油菜花。
 catarrh = 鼻咽黏液过多
-② Catarrh makes his voice thick.
-= 鼻塞让他嗓音发闷。
+② Catarrh makes his voice thick and he sounds like someone else.
+= 鼻塞让他嗓音发闷，听着像换了个人。
 thick = 发闷的
-③ Steam helps clear catarrh.
-= 蒸汽有助于化开黏液。
+③ Steam helps clear catarrh for about an hour at a time.
+= 蒸汽有助于化开黏液，一次管一小时左右。
 clear = 清开
 构词：希腊语 katarrhein 流下来
 注意用法：英式常用，美式多说 congestion。
@@ -79856,14 +79856,14 @@ catatonia
 核心：紧张症：一种精神与运动状态，人可能长时间僵住不动、
 保持怪异姿势，也可能反过来激越乱动。形容词 catatonic，
 口语里也拿它夸张地形容人呆住了。不可数。
-① Catatonia can follow severe illness.
-= 紧张症可能在重病之后出现。
+① Catatonia can follow severe illness and lift as suddenly as it came.
+= 紧张症可能在重病之后出现，去时和来时一样突然。
 catatonia = 紧张症
-② He sat catatonic in front of the screen.
-= 他呆坐在屏幕前一动不动。
+② He sat catatonic in front of the screen for the whole afternoon.
+= 他呆坐在屏幕前一动不动，坐了一下午。
 catatonic = 僵住不动的
-③ Catatonia is treatable.
-= 紧张症是能治的。
+③ Catatonia is treatable and responds fast to the right drug.
+= 紧张症是能治的，用对了药见效很快。
 treatable = 治得好的
 构词：希腊语 kata 向下 加表示张力的词根
 注意语域：医学术语；夸张的口语用法要看场合。
@@ -79871,14 +79871,14 @@ treatable = 治得好的
 catbird
 核心：北美一种灰色鸣禽，叫声像猫。美式习语里更常读到的
 是 in the catbird seat：占着最有利的位置，稳操胜券。可数。
-① A catbird nested in the hedge.
-= 一只灰嘲鸫在树篱里做窝。
+① A catbird nested in the hedge and scolded anyone who passed.
+= 一只灰嘲鸫在树篱里做了窝，谁走过都要骂两句。
 catbird = 灰嘲鸫
-② He is in the catbird seat now.
-= 他现在占着最有利的位置。
+② He is in the catbird seat now and knows it perfectly well.
+= 他如今占着最有利的位置，自己也一清二楚。
 in the catbird seat = 稳操胜券
-③ The catbird mimics other birds.
-= 那种鸟会学别的鸟叫。
+③ The catbird mimics other birds and throws in a car alarm.
+= 那种鸟会学别的鸟叫，还捎带上汽车警报声。
 mimic = 模仿
 构词：由猫与鸟两个词拼成，因叫声像猫
 注意用法：那个美式习语比鸟名更常读到。
@@ -79887,14 +79887,14 @@ catcall
 核心：冲着人喊的粗话或口哨。本指剧场里观众起哄嘘演员，
 今天更常指在街上对人吹口哨、喊话的骚扰。动词与名词同形。
 可数。
-① The speaker was met with catcalls.
-= 演讲人一上台就被起哄。
+① The speaker was met with catcalls before she reached the microphone.
+= 还没走到话筒前，演讲人就被起哄了。
 catcalls = 起哄声
-② Men catcalled from a van.
-= 有人从货车里冲她喊话。
+② Men catcalled from a van and drove off before she turned round.
+= 有人从货车里冲她喊话，她还没转身车就开走了。
 catcall = 吹口哨起哄
-③ Catcalling in the street is harassment.
-= 在街上冲人喊话是骚扰。
+③ Catcalling in the street is harassment and is now an offence here.
+= 在街上冲人喊话是骚扰，这里如今已入刑。
 catcalling = 街头喊话骚扰
 构词：由猫与叫两个词拼成，因声音像猫叫
 注意语域：今天多指街头骚扰，带贬义。
@@ -80013,14 +80013,14 @@ catchphrase
 核心：某个人或某个节目反复说、于是被大家记住并到处引用
 的一句话。跟口号不同：口号是为宣传设计出来的，它多是
 说着说着传开的。可数。
-① The comedian has a famous catchphrase.
-= 那位喜剧演员有句出名的口头禅。
+① The comedian has a famous catchphrase he has grown to hate.
+= 那位喜剧演员有句出名的口头禅，他后来烦透了它。
 a catchphrase = 招牌口头禅
-② The catchphrase entered everyday speech.
-= 那句话进了日常口语。
+② The catchphrase entered everyday speech within a single season.
+= 一季之内，那句话就进了日常口语。
 enter everyday speech = 进入日常说话
-③ Every campaign wants a catchphrase.
-= 每场活动都想要一句能传开的话。
+③ Every campaign wants a catchphrase and most of them write one.
+= 每场活动都想要一句能传开的话，多数还真去编了一句。
 构词：由表示抓住与短语的两个词拼成
 注意别混：口号是设计出来的，这个多是传开的。
 
@@ -80028,14 +80028,14 @@ catechism
 核心：教理问答：把信仰要点编成一问一答的小册子，供教
 初学者。引申义常用：说一套背得滚瓜烂熟、不容置疑的教条，
 带贬义。可数。
-① Children learned the catechism by heart.
-= 孩子们把教理问答背了下来。
+① Children learned the catechism by heart before they could read it.
+= 孩子们还不会读，就先把教理问答背了下来。
 catechism = 教理问答
-② The party has its own catechism.
-= 那个党有自己的一套教条。
+② The party has its own catechism and repeats it at every meeting.
+= 那个党有自己的一套教条，每次开会都要复述一遍。
 a catechism = 成套的教条（贬义）
-③ The catechism is set out in questions.
-= 那本问答是按问题排的。
+③ The catechism is set out in questions with the answers printed under.
+= 那本问答是按问题排的，答案印在下面。
 be set out in = 按……排列
 构词：希腊语 katekhein 口传教导
 注意语域：引申义带贬。
@@ -80093,14 +80093,14 @@ caterer = 酒席承办人
 caterpillar
 核心：蝶蛾的幼虫：多足、爱吃叶子的那条虫。第二支是履带：
 坦克与工程机械上那圈钢带，原是商标，已经通名化。可数。
-① Caterpillars stripped the tree.
-= 毛虫把那棵树的叶子吃光了。
+① Caterpillars stripped the tree in a fortnight and moved to the next.
+= 毛虫两周就把那棵树吃光，转到了下一棵。
 caterpillar = 毛虫
-② The digger runs on caterpillar tracks.
-= 那台挖机走的是履带。
+② The digger runs on caterpillar tracks and crosses soft ground.
+= 那台挖机走的是履带，软地也过得去。
 caterpillar tracks = 履带
-③ A caterpillar becomes a butterfly.
-= 毛虫会变成蝴蝶。
+③ A caterpillar becomes a butterfly after dissolving almost entirely.
+= 毛虫几乎整个化成汤，之后才变成蝴蝶。
 become = 变成
 构词：可能出自古法语，字面是多毛的猫
 注意用法：履带义原为商标，已通名化。
@@ -80108,14 +80108,14 @@ become = 变成
 caterwaul
 核心：像猫打架那样又长又难听地叫喊：说猫，也说人吵闹
 或唱得刺耳。动词与名词同形，一律带贬义。
-① Cats caterwauled all night.
-= 猫叫了一整夜。
+① Cats caterwauled all night under the window of the back bedroom.
+= 猫在后卧室窗下叫了一整夜。
 caterwaul = 尖长难听地叫
-② The band caterwauled through the encore.
-= 那支乐队把加演唱得刺耳难听。
+② The band caterwauled through the encore and the hall emptied.
+= 那支乐队把加演唱得刺耳难听，厅里的人都走了。
 encore = 加演曲目
-③ A caterwaul woke the street.
-= 一阵怪叫惊动了整条街。
+③ A caterwaul woke the street and three lights came on at once.
+= 一阵怪叫惊动了整条街，三家的灯同时亮了。
 a caterwaul = 一阵刺耳的怪叫
 构词：由猫与哀号两部分拼成
 注意语域：一律带贬义。
@@ -80137,14 +80137,14 @@ catfish
 核心：鲇鱼：嘴边有须、无鳞的淡水鱼，须像猫的胡子，名字
 由此而来。今天还多出一个网络义：动词指用假身份在网上骗
 人交往，名词 catfishing。单复数同形。
-① They fried the catfish whole.
-= 鲇鱼是整条炸的。
+① They fried the catfish whole and served it on a sheet of paper.
+= 鲇鱼是整条炸的，垫着一张纸端上来。
 catfish = 鲇鱼
-② She was catfished by a fake profile.
-= 她被一个假账号骗了。
+② She was catfished by a fake profile with borrowed photographs.
+= 她被一个用盗图的假账号骗了。
 be catfished = 被假身份骗
-③ Catfishing is common on dating apps.
-= 交友软件上假身份骗人很常见。
+③ Catfishing is common on dating apps and hard to prosecute.
+= 交友软件上假身份骗人很常见，也很难追究。
 catfishing = 用假身份在网上骗人
 构词：由猫与鱼两个词拼成，因嘴边有须
 注意用法：网络义近年才有，如今很常读到。
@@ -80153,14 +80153,14 @@ catgut
 核心：做琴弦与旧式手术缝线的坚韧细线，材料其实取自羊或
 牛的肠子，跟猫无关，名字来历不明。今天琴弦多用尼龙，
 缝线多用合成材料。不可数。
-① The strings are catgut.
-= 那些弦是羊肠弦。
+① The strings are catgut and go slack in damp weather.
+= 那些弦是羊肠弦，天一潮就松。
 catgut = 羊肠弦、肠线
-② Catgut sutures dissolve in the body.
-= 肠线缝合会在体内溶掉。
+② Catgut sutures dissolve in the body and need no second visit.
+= 肠线缝合会在体内溶掉，不必再来拆线。
 suture = 缝线
-③ Modern strings replaced catgut.
-= 现代弦取代了羊肠弦。
+③ Modern strings replaced catgut on almost every instrument.
+= 几乎所有乐器上，现代弦都取代了羊肠弦。
 replace = 取代
 构词：名字来历不明，材料其实来自羊肠
 注意别混：跟猫无关，别照字面理解。
@@ -80169,14 +80169,14 @@ catharsis
 核心：把郁积的情绪释放出来因而觉得轻松：本是亚里斯多德
 讲悲剧作用时的说法，后来进了心理学与日常。形容词
 cathartic 既说这种情绪释放，也在医学上指通便的。不可数。
-① Writing it down was a catharsis.
-= 写下来是一种释放。
+① Writing it down was a catharsis and she burned the pages after.
+= 写下来是一种释放，写完她把纸烧了。
 catharsis = 情绪的宣泄与释放
-② The film is oddly cathartic.
-= 那部片子看完竟让人松了口气。
+② The film is oddly cathartic for something with no plot at all.
+= 一部毫无情节的片子，看完竟让人松了口气。
 cathartic = 让人得到宣泄的
-③ Tragedy offers catharsis to the audience.
-= 悲剧给观众一种宣泄。
+③ Tragedy offers catharsis to an audience that came to be moved.
+= 观众本就是冲着被打动来的，悲剧给了他们一场宣泄。
 offer = 提供
 构词：希腊语 katharsis 净化
 注意用法：形容词在医学里另有通便的意思。
@@ -80184,14 +80184,14 @@ offer = 提供
 cathedral
 核心：主教座堂：一个教区里主教的那座教堂，因此通常也是
 最大最讲究的一座。cathedral city 是有座堂的城市。可数。
-① The cathedral took two centuries to build.
-= 那座主教座堂造了两百年。
+① The cathedral took two centuries to build and two years to burn.
+= 那座主教座堂建了两百年，烧掉只用两年。
 cathedral = 主教座堂
-② They sang in the cathedral choir.
-= 他们在座堂唱诗班唱歌。
+② They sang in the cathedral choir from the age of eight.
+= 他们八岁起就在座堂唱诗班唱歌。
 cathedral choir = 座堂唱诗班
-③ It is a small cathedral city.
-= 那是座有主教座堂的小城。
+③ It is a small cathedral city with one street and a great church.
+= 那是座有主教座堂的小城，一条街，一座大教堂。
 a cathedral city = 有主教座堂的城市
 构词：希腊语 kathedra 座位，指主教的座位
 注意别混：不是按大小定的，按有没有主教的座位定。
@@ -80211,14 +80211,14 @@ turn a Catherine wheel = 翻侧手翻
 catheter
 核心：插进体内引流或注入的细管，最常说的是导尿管。
 插管这件事叫 catheterization。可数。
-① The nurse inserted a catheter.
-= 护士插了导管。
+① The nurse inserted a catheter and taped the tube to his leg.
+= 护士插了导管，把管子用胶带贴在他腿上。
 insert a catheter = 插入导管
-② A urinary catheter drains the bladder.
-= 导尿管把膀胱里的尿引出来。
+② A urinary catheter drains the bladder into a bag by the bed.
+= 导尿管把膀胱里的尿引到床边的袋子里。
 a urinary catheter = 导尿管
-③ The catheter was left in overnight.
-= 那根导管留置了一夜。
+③ The catheter was left in overnight and taken out at seven.
+= 那根导管留置了一夜，七点拔掉。
 be left in = 留置在体内
 构词：希腊语 katheter 插进去的东西
 注意用法：医疗文字里常见。
@@ -80227,14 +80227,14 @@ cathode
 核心：电极的一种，跟 anode 相对。电子器件里它是发射
 电子的那一极；至于对应正极还是负极，随装置类型而变，
 不能死记。cathode ray tube 是老式显像管。可数。
-① Electrons leave the cathode.
-= 电子从阴极射出。
+① Electrons leave the cathode as soon as it is hot enough.
+= 阴极一热到位，电子就射出来。
 cathode = 阴极
-② The cathode ray tube has gone.
-= 显像管早淘汰了。
+② The cathode ray tube has gone and taken the deep television with it.
+= 显像管淘汰了，那种厚电视机也跟着没了。
 cathode ray tube = 显像管
-③ Cathode and anode are a pair.
-= 阴极与阳极是一对。
+③ Every such device has a cathode at one end and an anode at the other.
+= 这类器件都是一头阴极、一头阳极。
 anode = 阳极
 构词：希腊语 kathodos 下去的路
 注意用法：对应正负极随装置而变，别死记。
@@ -80243,14 +80243,14 @@ catholic
 核心：两支，靠大小写分。大写的指天主教及其信徒。小写的
 是个书面形容词：兴趣广泛、无所不包。词根本义就是普遍的，
 两支都从这一点来。
-① She was raised Catholic.
-= 她是天主教家庭长大的。
+① She was raised Catholic and stopped going at about fifteen.
+= 她是天主教家庭长大的，十五岁上下就不去了。
 Catholic = 天主教的
-② He has catholic tastes in music.
-= 他听音乐口味很杂。
+② He has catholic tastes in music and owns nothing on the same shelf twice.
+= 他听音乐口味很杂，架子上没有两张同类的碟。
 catholic tastes = 广泛不挑的口味
-③ The magazine takes a catholic view.
-= 那本杂志取的是兼容并包的立场。
+③ The magazine takes a catholic view and prints both sides in full.
+= 那本杂志取兼容并包的立场，两边的意见都全文照登。
 catholic = 兼容并包的
 构词：希腊语 katholikos 普遍的
 注意用法：大写指教会，小写指兴趣广泛。
@@ -80286,14 +80286,14 @@ anion = 阴离子
 catkin
 核心：柳、榛、桦这类树上垂下来的毛毛的穗状花序，风一吹
 就散粉。可数。
-① Catkins hang from the hazel.
-= 榛树上垂着毛毛的花穗。
+① Catkins hang from the hazel and shake loose at a touch.
+= 榛树上垂着毛毛的花穗，一碰就抖落。
 catkin = 柳絮状花穗
-② The catkins release pollen.
-= 那种花穗会散出花粉。
+② The catkins release pollen that carries for miles on a dry wind.
+= 那种花穗散出的花粉，干风一吹能飘出好几英里。
 pollen = 花粉
-③ Catkins come before the leaves.
-= 花穗比叶子先出来。
+③ Catkins come before the leaves and are gone by the time they open.
+= 花穗比叶子先出来，叶子展开时它已经没了。
 come before = 早于……出现
 构词：荷兰语 katteken 小猫，因形状毛毛的像小猫尾
 注意用法：植物描写里常见。
