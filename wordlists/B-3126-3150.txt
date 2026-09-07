@@ -31,14 +31,14 @@ boron
 自然界里都以硼砂这类化合物存在。用途集中在玻璃和陶瓷——
 加了硼的玻璃耐热不炸，实验室器皿和烤箱玻璃靠的就是它；
 农业上还是植物必需的微量元素。不可数。
-① Boron makes glass heat-resistant.
-= 硼让玻璃耐热。
+① Boron makes glass heat-resistant enough to go from oven to sink.
+= 硼让玻璃耐热到能从烤箱直接放进水槽。
 heat-resistant = 耐热的
-② Plants need traces of boron.
-= 植物需要微量的硼。
+② Plants need traces of boron, and too much of it kills them.
+= 植物需要微量的硼，多了反而致命。
 trace = 微量
-③ Boron occurs as borax in nature.
-= 硼在自然界以硼砂形式存在。
+③ Boron occurs as borax in nature and never as the pure element.
+= 硼在自然界以硼砂形式存在，从不以单质出现。
 occur = 存在、出现
 构词：borax 硼砂 + -on
 词族：
@@ -49,13 +49,13 @@ borough
 有自治权的市镇，历史上有权选派议员。美国主要指纽约市下面的
 五个区——曼哈顿、布鲁克林那五个；阿拉斯加州也用它当郡一级
 的名称。可数。
-① He was born in a London borough.
-= 他生在伦敦的一个区。
-② The borough council runs the schools.
-= 区议会管着那些学校。
+① He was born in a London borough that no longer carries that name.
+= 他生在伦敦的一个区，那个区如今已不叫这个名字。
+② The borough council runs the schools and empties the bins.
+= 区议会管着那些学校，也管收垃圾。
 borough council = 区议会（英式）
-③ Brooklyn is one of the five boroughs.
-= 布鲁克林是五个区之一。
+③ Brooklyn is one of the five boroughs and the most populous of them.
+= 布鲁克林是五个区之一，也是人口最多的一个。
 指纽约那一支。
 构词：古英语 burh 设防的城镇
 注意地域：
@@ -89,13 +89,13 @@ borrower
 核心：借东西的一方，最常用在两处：向银行借钱的人和从图书馆借书
 的人。它跟 lender 成对，方向相反。金融语境里它是固定角色词，
 说 borrowers face higher rates 就是"借款人要付更高利息"。可数。
-① Borrowers face higher rates.
-= 借款人要承受更高的利率。
-② The library fined the borrower.
-= 图书馆对借书人罚了款。
+① Borrowers face higher rates every time the base rate moves.
+= 基准利率一动，借款人就得承受更高的利息。
+② The library fined the borrower for a book eleven years overdue.
+= 图书馆为一本逾期十一年的书对借书人罚了款。
 fine = 罚款
-③ First-time borrowers get advice.
-= 首次借款人能得到指导。
+③ First-time borrowers get advice they rarely have time to read.
+= 首次借款人拿到的指导，多半没工夫读。
 构词：borrow 借入 + -er
 配对词：
 lender = 出借方、放贷方
@@ -125,13 +125,13 @@ borscht
 红菜头把汤染成深红色，配酸奶油和莳萝吃，可热可冷。
 它其实是一大类汤的统称，也有绿的白的。拼法多样，
 borsch、borshch 都见得到。不可数。
-① She served borscht with sour cream.
-= 她端上罗宋汤配酸奶油。
+① She served borscht with sour cream and a fistful of dill.
+= 她端上罗宋汤，配酸奶油和一大把莳萝。
 sour cream = 酸奶油
-② Borscht gets its colour from beetroot.
-= 那种汤的颜色来自红菜头。
-③ Cold borscht is a summer dish.
-= 冷的那种是夏天吃的。
+② Borscht gets its colour from beetroot and loses it if boiled too long.
+= 那种汤的颜色来自红菜头，煮久了颜色就掉。
+③ Cold borscht is a summer dish and comes to the table almost pink.
+= 冷的那种是夏天吃的，端上桌近乎粉色。
 构词：乌克兰语与俄语的汤名
 注意拼写：borsch、borshch 等拼法都通行。
 
@@ -152,14 +152,14 @@ borzoi
 核心：俄国猎狼犬，身形瘦长、腿高、毛长而丝滑，靠速度和视力
 追猎，是所谓的视猎犬。旧时俄国贵族用成群的它猎狼，
 名字在俄语里就是"迅捷"的意思。复数 borzois。可数。
-① A borzoi is a sighthound.
-= 俄国猎狼犬属于视猎犬。
+① A borzoi is a sighthound and will not come back once it sees a hare.
+= 俄国猎狼犬属于视猎犬，一见野兔就叫不回来。
 a sighthound = 靠视力追猎的猎犬
-② Borzois were bred to hunt wolves.
-= 那种犬是为猎狼育出来的。
+② Borzois were bred to hunt wolves in pairs, one to each side.
+= 那种犬是为成对猎狼育出来的，一边一只。
 be bred to = 为某目的育种
-③ The borzoi has a long silky coat.
-= 那种犬毛长而柔滑。
+③ The borzoi has a long silky coat that mats within a week.
+= 那种犬毛长而柔滑，一周不梳就打结。
 coat = 毛皮、被毛
 构词：俄语 borzyi 迅捷的
 近义对照：
@@ -169,14 +169,14 @@ greyhound = 灵缇（短毛视猎犬，跑得更快）
 Bosnian
 核心：波斯尼亚的、波斯尼亚人，也指波斯尼亚语。要跟 Bosniak 分开：
 这个词按国籍算，那个按族群算，同一个国家里两者并不重合。可数。
-① She writes in Bosnian.
-= 她用波斯尼亚语写作。
+① She writes in Bosnian and translates her own work into German.
+= 她用波斯尼亚语写作，再自己译成德语。
 Bosnian = 波斯尼亚语
-② A Bosnian architect drew the plans.
-= 图是一位波斯尼亚建筑师画的。
+② A Bosnian architect drew the plans for the bridge that replaced the old one.
+= 替换旧桥的那座桥，图是一位波斯尼亚建筑师画的。
 a Bosnian = 波斯尼亚人
-③ Bosnian coffee is served in a small copper pot.
-= 波斯尼亚咖啡用小铜壶端上来。
+③ Bosnian coffee is served in a small copper pot with a cube of sugar.
+= 波斯尼亚咖啡用小铜壶端上来，配一块方糖。
 Bosnian coffee = 波斯尼亚咖啡
 构词：地名 Bosnia 去掉词尾加 -n
 注意别混：按国籍说用这个词，按族群说用 Bosniak。
@@ -186,14 +186,14 @@ bosom
 内心深处，in the bosom of the family 是"在家人的怀抱里"；
 三是那个高频搭配 bosom friend，指交心的挚友。
 这个词整体偏文学，日常说胸部多用别的词。
-① She clasped the child to her bosom.
-= 她把孩子搂在怀里。
+① She clasped the child to her bosom and would not put him down.
+= 她把孩子搂在怀里，怎么也不肯放下。
 clasp to = 紧搂在
-② He returned to the bosom of his family.
-= 他回到了家人身边。
+② He returned to the bosom of his family after nine years abroad.
+= 在国外待了九年之后，他回到了家人身边。
 in the bosom of = 在……的怀抱里
-③ They were bosom friends.
-= 他们是知心好友。
+③ They were bosom friends from the first week of school.
+= 他们从开学头一周起就是知心好友。
 bosom friend = 知交、挚友
 构词：古英语 bosm 胸怀
 注意语域：偏文学与委婉，日常少用。
@@ -294,13 +294,13 @@ bot
 替人重复干活——爬数据的、自动回帖的、在客服窗口应答的都叫 bot，
 是 robot 掐掉前半截来的。另一支是昆虫学的旧词：马蝇的幼虫，
 寄生在马和牛的胃里。可数。
-① A bot posted the same message.
-= 一个机器人程序反复发同一条消息。
-② The site blocks bots.
-= 那个网站会拦截自动程序。
+① A bot posted the same message from four hundred accounts.
+= 一个机器人程序用四百个账号发同一条消息。
+② The site blocks bots by asking for something a program cannot see.
+= 那个网站靠一道程序看不见的题目拦截自动程序。
 block = 拦截
-③ Bots infest the horse's stomach.
-= 马蝇幼虫寄生在马胃里。
+③ Bots infest the horse's stomach and are treated once a year.
+= 马蝇幼虫寄生在马胃里，一年驱一次。
 infest = 大量寄生
 构词：robot 的缩略；虫那一支另有来源
 词族：
@@ -345,13 +345,13 @@ botanist
 核心：研究植物的科学家——分类、生理、生态、演化都归他们管。
 它跟园艺师分得开：botanist 研究植物是什么、怎么活；
 gardener 关心怎么把它种好。可数。
-① She trained as a botanist.
-= 她学的是植物学。
-② Botanists named the new species.
-= 植物学家给那个新种命了名。
+① She works as a botanist for a seed bank in the far north.
+= 她在极北的一家种子库当植物学家。
+② Botanists named the new species after the woman who found it.
+= 植物学家用发现者的名字给那个新种命了名。
 name a species = 给物种命名
-③ The botanist pressed the specimens.
-= 那位植物学家把标本压制起来。
+③ The botanist pressed the specimens between sheets of newspaper.
+= 那位植物学家把标本夹在报纸中间压平。
 press specimens = 压制标本
 构词：botany 植物学 + -ist 人
 近义对照：

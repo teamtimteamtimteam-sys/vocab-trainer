@@ -60039,13 +60039,13 @@ yes-man = 应声虫（只会附和，不一定谄媚）
 bootlicking
 核心：拍马屁、溜须的行为，名词形容词都用。它强调那种放低姿态
 去讨好上位者的做法，贬义。多修饰 behaviour、flattery。
-① His bootlicking got him promoted.
-= 他靠拍马屁升了职。
-② She despises such bootlicking.
-= 她鄙视这种溜须做派。
+① His bootlicking got him promoted over three better candidates.
+= 他靠拍马屁越过三个更强的人选升了职。
+② She despises such bootlicking and says so where it can be heard.
+= 她鄙视这种溜须做派，还专挑听得见的地方说。
 despise = 鄙视
-③ It was shameless bootlicking.
-= 那是明目张胆的谄媚。
+③ It was shameless bootlicking dressed up as a vote of thanks.
+= 那是明目张胆的谄媚，包装成了一份致谢动议。
 shameless = 无耻的、不要脸的
 构词：boot 靴 + licking 舔
 注意语用：贬义。
@@ -60056,14 +60056,14 @@ pull yourself up by your bootstraps——拽着自己的靴襻把自己提起来
 这在物理上根本做不到，原话本是讽刺"不可能的事"，
 后来意思翻了个个儿，成了褒义的"全靠自己白手起家"。
 计算机的"启动"叫 boot，正是从这个"自己把自己提起来"来的。
-① He pulled himself up by his bootstraps.
-= 他全靠自己一路挣出来。
+① He pulled himself up by his bootstraps and never mentions his uncle's loan.
+= 他全靠自己一路挣出来，从不提叔叔借他的那笔钱。
 pull yourself up by your bootstraps = 白手起家、自力更生
-② They bootstrapped the company.
-= 那家公司是他们自筹资金做起来的。
+② They bootstrapped the company for four years before taking outside money.
+= 那家公司他们自筹资金做了四年，才拿外部的钱。
 bootstrap = 不靠外部投资自己做起来
-③ The system bootstraps from a small program.
-= 系统靠一段小程序自行启动。
+③ The system bootstraps from a small program held in read-only memory.
+= 系统靠只读存储器里的一小段程序自行启动。
 计算机那一支。
 构词：boot 靴 + strap 襻带
 注意来历：原是讽刺做不到的事，后来意思反转成褒义。
@@ -60122,13 +60122,13 @@ boozer
 核心：两支，都是英式口语。一是酒馆，就是 pub 的随口说法，
 说 down the boozer 是"上酒馆去"。二是指酒量大、常喝的人，
 带一点无奈或调侃，不算重贬义。可数。
-① They went down the boozer.
-= 他们上酒馆去了。
+① They went down the boozer straight from the match and stayed till closing.
+= 他们看完球直接上酒馆，一直待到打烊。
 down the boozer = 去酒馆（英式口语）
-② The boozer on the corner closed.
-= 街角那家酒馆关了。
-③ He is a bit of a boozer.
-= 他挺能喝的。
+② The boozer on the corner closed last year and reopened as a chemist.
+= 街角那家酒馆去年关了，改成了药店。
+③ He is a bit of a boozer and has not missed a Friday in years.
+= 他挺能喝的，好些年没漏过一个周五。
 a boozer = 常喝酒的人
 构词：booze 酒 + -er
 注意地域：英式口语，两支都很常用。
@@ -60137,13 +60137,13 @@ boozy
 核心：形容词，两支。一是说人醉醺醺的；二是说场合"有酒的、
 喝了不少的"——a boozy lunch 指那种边吃边喝、喝到下午的午餐，
 这一支用得更多，语气轻松带调侃。也说菜里放了酒。
-① They had a boozy lunch.
-= 他们吃了顿喝了不少的午饭。
+① A boozy lunch on Friday is a tradition nobody there dares to end.
+= 周五那顿喝得不少的午饭，是个没人敢废掉的传统。
 a boozy lunch = 酒喝得不少的一餐
-② He gave a boozy grin.
-= 他醉醺醺地咧嘴笑。
-③ The cake is rich and boozy.
-= 那个蛋糕料足、酒味重。
+② He gave a boozy grin and put his arm round a total stranger.
+= 他醉醺醺地咧嘴一笑，搂住了一个完全不认识的人。
+③ The cake is rich and boozy and needs a month to mature.
+= 那个蛋糕料足、酒味重，得放一个月才够味。
 说食物里放了酒。
 构词：booze 酒 + -y
 注意语域：口语，轻松带调侃。
@@ -60186,14 +60186,14 @@ borax
 核心：硼砂，一种白色的硼酸盐晶体，天然产在干涸的盐湖里。
 用途集中在三头：做玻璃和陶釉的助熔剂、做清洁剂、做焊接的
 助焊剂。它有毒性，家用清洁品里已被不少国家限制。不可数。
-① Borax lowers the melting point of glass.
-= 硼砂能降低玻璃的熔点。
+① Borax lowers the melting point of glass and makes it easier to work.
+= 硼砂能降低玻璃的熔点，也让它更好加工。
 melting point = 熔点
-② Borax was mined from dry lake beds.
-= 硼砂是从干涸的湖床里采的。
+② Borax was mined from dry lake beds and hauled out by mule teams.
+= 硼砂是从干涸的湖床里采的，靠骡队拉出来。
 lake bed = 湖床
-③ Borax is restricted in some countries.
-= 有些国家限制使用硼砂。
+③ Borax is restricted in some countries as a household cleaner.
+= 有些国家限制把硼砂用作家用清洁剂。
 restrict = 限制
 构词：阿拉伯语 buraq
 注意用法：有毒性，家用清洁品里已受限制。
@@ -60202,14 +60202,14 @@ Bordeaux
 核心：两支。一是法国波尔多产的葡萄酒，红的在英国传统上叫 claret。
 二是那种酒的深红色，作颜色词说 a Bordeaux dress。产区名当酒名用。
 不可数，说一瓶时可数。
-① He opened a good Bordeaux.
-= 他开了瓶不错的波尔多。
+① He opened a good Bordeaux and let it stand for an hour.
+= 他开了瓶不错的波尔多，醒了一小时。
 a Bordeaux = 一瓶波尔多酒
-② The wine list is heavy on Bordeaux.
-= 那份酒单上波尔多占了大头。
+② The wine list is heavy on Bordeaux and thin on everything else.
+= 那份酒单上波尔多占了大头，别的都很单薄。
 Bordeaux = 波尔多葡萄酒
-③ She wore a Bordeaux velvet coat.
-= 她穿了件酒红色天鹅绒外套。
+③ She wore a Bordeaux velvet coat that had once been her mother's.
+= 她穿着母亲从前那件酒红色天鹅绒外套。
 Bordeaux = 酒红色的
 构词：法国那座城与那个产区的名字
 注意用法：英国传统上把波尔多红酒叫 claret，今天两个词并用。
@@ -60270,13 +60270,13 @@ borderland
 区域。字面用来说国境地区，引申用来说学科和概念之间的模糊
 地带，说 the borderland between science and philosophy
 就是科学与哲学之间那片说不清的地方。可数。
-① They grew up in the borderland.
-= 他们在边境地带长大。
-② The borderland changed hands often.
-= 那片边地几度易主。
+① They grew up in the borderland and speak both languages without noticing.
+= 他们在边境地带长大，两种语言换着说都不自觉。
+② The borderland changed hands four times in one lifetime.
+= 那片边地在一个人的一生里易主了四次。
 change hands = 易主
-③ It lies in the borderland between the two fields.
-= 那处在两个领域交界的地带。
+③ The question lies in the borderland between medicine and law.
+= 那个问题处在医学与法律交界的模糊地带。
 the borderland between = 两者之间的模糊地带
 构词：border 边界 + land 地
 注意用法：指一片区域，不是一条线。
@@ -60344,13 +60344,13 @@ boreal
 最常见的搭配是 boreal forest——横跨北半球的针叶林带，
 也叫 taiga，是地球上最大的一片森林。词源是希腊风神
 Boreas，北风之神。
-① Boreal forests circle the north.
-= 寒温带针叶林环绕北半球。
+① Boreal forests circle the north and hold more carbon than the tropics.
+= 寒温带针叶林环绕北半球，储的碳比热带还多。
 boreal forest = 寒温带针叶林
-② Boreal winters are long.
-= 那一带的冬天很长。
-③ The species is boreal in range.
-= 那个物种分布在北方。
+② Boreal winters are long enough that the ground never fully thaws.
+= 那一带的冬天长到地面从未彻底解冻。
+③ The species is boreal in range and moves north as the climate warms.
+= 那个物种分布在北方，气候变暖后还在北移。
 range = 分布范围
 构词：希腊北风之神 Boreas
 近义对照：
@@ -60377,14 +60377,14 @@ boredom
 核心：无聊这个状态，不可数。它比"没事干"重一层：是明明有时间
 却提不起劲的那种空落。常见搭配 relieve boredom（解闷）、
 out of boredom（闲得没事）、die of boredom（无聊死了，夸张说法）。
-① He ate out of boredom.
-= 他闲得没事就吃东西。
+① He ate out of boredom rather than hunger all through the lockdown.
+= 封控期间他一直是闲得没事在吃，不是饿。
 out of boredom = 出于无聊
-② She was dying of boredom.
-= 她无聊得快疯了。
+② She was dying of boredom by the time the second speaker began.
+= 第二位发言人一开口，她就无聊得快疯了。
 die of boredom = 无聊透顶（夸张）
-③ Games relieve the boredom of the journey.
-= 游戏能解路上的闷。
+③ Games relieve the boredom of a journey with no scenery to look at.
+= 一路没什么景色可看，游戏能解那份闷。
 relieve boredom = 解闷
 构词：bore 无聊 + -dom 状态
 词族：
@@ -60394,14 +60394,14 @@ borehole
 核心：为取水、采样或勘探而往地下钻的一个窄而深的孔。它跟井的
 分别在口径和用途：borehole 细，靠泵抽水或取岩芯；传统的井
 口径大、能下人。可数。
-① They sank a borehole for water.
-= 他们打了口钻孔取水。
+① They sank a borehole for water and hit it at ninety metres.
+= 他们打钻孔取水，打到九十米见了水。
 sink a borehole = 打钻孔
-② Samples came from the borehole.
-= 岩样取自那个钻孔。
+② Samples came from the borehole in one-metre lengths.
+= 岩样从那个钻孔里一米一米取出来。
 sample = 样本
-③ The borehole runs two hundred metres deep.
-= 那个钻孔深两百米。
+③ The borehole runs two hundred metres deep through solid chalk.
+= 那个钻孔穿过整层白垩，深两百米。
 构词：bore 钻 + hole 孔
 近义对照：
 borehole = 细而深的钻孔（靠泵抽）
@@ -60430,13 +60430,13 @@ boringly
 核心：副词，乏味地、无趣地。它最常见的用法其实带自嘲或退让：
 boringly predictable 是"没劲地一猜就中"，boringly, the answer
 is no 是"说来无趣，答案是不行"，用来预告接下来的话平淡无奇。
-① The plot is boringly predictable.
-= 那个情节没劲地一猜就中。
+① The plot is boringly predictable from the very first scene.
+= 那个情节从头一场戏起就没劲地一猜就中。
 boringly predictable = 乏味地在意料之中
-② He talked boringly about tax.
-= 他絮絮叨叨讲税的事，闷得很。
-③ Boringly, I stayed home.
-= 说来无趣，我待在家里。
+② He talked boringly about tax to a table that had stopped listening.
+= 他絮絮叨叨讲税的事，一桌人早就不听了。
+③ Boringly, I stayed home and reread a book I already knew.
+= 说来无趣，我待在家里，重读了一本早读过的书。
 放句首作句子副词，带自嘲。
 构词：boring 乏味的 + -ly
 
@@ -60473,14 +60473,14 @@ boron
 自然界里都以硼砂这类化合物存在。用途集中在玻璃和陶瓷——
 加了硼的玻璃耐热不炸，实验室器皿和烤箱玻璃靠的就是它；
 农业上还是植物必需的微量元素。不可数。
-① Boron makes glass heat-resistant.
-= 硼让玻璃耐热。
+① Boron makes glass heat-resistant enough to go from oven to sink.
+= 硼让玻璃耐热到能从烤箱直接放进水槽。
 heat-resistant = 耐热的
-② Plants need traces of boron.
-= 植物需要微量的硼。
+② Plants need traces of boron, and too much of it kills them.
+= 植物需要微量的硼，多了反而致命。
 trace = 微量
-③ Boron occurs as borax in nature.
-= 硼在自然界以硼砂形式存在。
+③ Boron occurs as borax in nature and never as the pure element.
+= 硼在自然界以硼砂形式存在，从不以单质出现。
 occur = 存在、出现
 构词：borax 硼砂 + -on
 词族：
@@ -60491,13 +60491,13 @@ borough
 有自治权的市镇，历史上有权选派议员。美国主要指纽约市下面的
 五个区——曼哈顿、布鲁克林那五个；阿拉斯加州也用它当郡一级
 的名称。可数。
-① He was born in a London borough.
-= 他生在伦敦的一个区。
-② The borough council runs the schools.
-= 区议会管着那些学校。
+① He was born in a London borough that no longer carries that name.
+= 他生在伦敦的一个区，那个区如今已不叫这个名字。
+② The borough council runs the schools and empties the bins.
+= 区议会管着那些学校，也管收垃圾。
 borough council = 区议会（英式）
-③ Brooklyn is one of the five boroughs.
-= 布鲁克林是五个区之一。
+③ Brooklyn is one of the five boroughs and the most populous of them.
+= 布鲁克林是五个区之一，也是人口最多的一个。
 指纽约那一支。
 构词：古英语 burh 设防的城镇
 注意地域：
@@ -60531,13 +60531,13 @@ borrower
 核心：借东西的一方，最常用在两处：向银行借钱的人和从图书馆借书
 的人。它跟 lender 成对，方向相反。金融语境里它是固定角色词，
 说 borrowers face higher rates 就是"借款人要付更高利息"。可数。
-① Borrowers face higher rates.
-= 借款人要承受更高的利率。
-② The library fined the borrower.
-= 图书馆对借书人罚了款。
+① Borrowers face higher rates every time the base rate moves.
+= 基准利率一动，借款人就得承受更高的利息。
+② The library fined the borrower for a book eleven years overdue.
+= 图书馆为一本逾期十一年的书对借书人罚了款。
 fine = 罚款
-③ First-time borrowers get advice.
-= 首次借款人能得到指导。
+③ First-time borrowers get advice they rarely have time to read.
+= 首次借款人拿到的指导，多半没工夫读。
 构词：borrow 借入 + -er
 配对词：
 lender = 出借方、放贷方
@@ -60567,13 +60567,13 @@ borscht
 红菜头把汤染成深红色，配酸奶油和莳萝吃，可热可冷。
 它其实是一大类汤的统称，也有绿的白的。拼法多样，
 borsch、borshch 都见得到。不可数。
-① She served borscht with sour cream.
-= 她端上罗宋汤配酸奶油。
+① She served borscht with sour cream and a fistful of dill.
+= 她端上罗宋汤，配酸奶油和一大把莳萝。
 sour cream = 酸奶油
-② Borscht gets its colour from beetroot.
-= 那种汤的颜色来自红菜头。
-③ Cold borscht is a summer dish.
-= 冷的那种是夏天吃的。
+② Borscht gets its colour from beetroot and loses it if boiled too long.
+= 那种汤的颜色来自红菜头，煮久了颜色就掉。
+③ Cold borscht is a summer dish and comes to the table almost pink.
+= 冷的那种是夏天吃的，端上桌近乎粉色。
 构词：乌克兰语与俄语的汤名
 注意拼写：borsch、borshch 等拼法都通行。
 
@@ -60594,14 +60594,14 @@ borzoi
 核心：俄国猎狼犬，身形瘦长、腿高、毛长而丝滑，靠速度和视力
 追猎，是所谓的视猎犬。旧时俄国贵族用成群的它猎狼，
 名字在俄语里就是"迅捷"的意思。复数 borzois。可数。
-① A borzoi is a sighthound.
-= 俄国猎狼犬属于视猎犬。
+① A borzoi is a sighthound and will not come back once it sees a hare.
+= 俄国猎狼犬属于视猎犬，一见野兔就叫不回来。
 a sighthound = 靠视力追猎的猎犬
-② Borzois were bred to hunt wolves.
-= 那种犬是为猎狼育出来的。
+② Borzois were bred to hunt wolves in pairs, one to each side.
+= 那种犬是为成对猎狼育出来的，一边一只。
 be bred to = 为某目的育种
-③ The borzoi has a long silky coat.
-= 那种犬毛长而柔滑。
+③ The borzoi has a long silky coat that mats within a week.
+= 那种犬毛长而柔滑，一周不梳就打结。
 coat = 毛皮、被毛
 构词：俄语 borzyi 迅捷的
 近义对照：
@@ -60611,14 +60611,14 @@ greyhound = 灵缇（短毛视猎犬，跑得更快）
 Bosnian
 核心：波斯尼亚的、波斯尼亚人，也指波斯尼亚语。要跟 Bosniak 分开：
 这个词按国籍算，那个按族群算，同一个国家里两者并不重合。可数。
-① She writes in Bosnian.
-= 她用波斯尼亚语写作。
+① She writes in Bosnian and translates her own work into German.
+= 她用波斯尼亚语写作，再自己译成德语。
 Bosnian = 波斯尼亚语
-② A Bosnian architect drew the plans.
-= 图是一位波斯尼亚建筑师画的。
+② A Bosnian architect drew the plans for the bridge that replaced the old one.
+= 替换旧桥的那座桥，图是一位波斯尼亚建筑师画的。
 a Bosnian = 波斯尼亚人
-③ Bosnian coffee is served in a small copper pot.
-= 波斯尼亚咖啡用小铜壶端上来。
+③ Bosnian coffee is served in a small copper pot with a cube of sugar.
+= 波斯尼亚咖啡用小铜壶端上来，配一块方糖。
 Bosnian coffee = 波斯尼亚咖啡
 构词：地名 Bosnia 去掉词尾加 -n
 注意别混：按国籍说用这个词，按族群说用 Bosniak。
@@ -60628,14 +60628,14 @@ bosom
 内心深处，in the bosom of the family 是"在家人的怀抱里"；
 三是那个高频搭配 bosom friend，指交心的挚友。
 这个词整体偏文学，日常说胸部多用别的词。
-① She clasped the child to her bosom.
-= 她把孩子搂在怀里。
+① She clasped the child to her bosom and would not put him down.
+= 她把孩子搂在怀里，怎么也不肯放下。
 clasp to = 紧搂在
-② He returned to the bosom of his family.
-= 他回到了家人身边。
+② He returned to the bosom of his family after nine years abroad.
+= 在国外待了九年之后，他回到了家人身边。
 in the bosom of = 在……的怀抱里
-③ They were bosom friends.
-= 他们是知心好友。
+③ They were bosom friends from the first week of school.
+= 他们从开学头一周起就是知心好友。
 bosom friend = 知交、挚友
 构词：古英语 bosm 胸怀
 注意语域：偏文学与委婉，日常少用。
@@ -60736,13 +60736,13 @@ bot
 替人重复干活——爬数据的、自动回帖的、在客服窗口应答的都叫 bot，
 是 robot 掐掉前半截来的。另一支是昆虫学的旧词：马蝇的幼虫，
 寄生在马和牛的胃里。可数。
-① A bot posted the same message.
-= 一个机器人程序反复发同一条消息。
-② The site blocks bots.
-= 那个网站会拦截自动程序。
+① A bot posted the same message from four hundred accounts.
+= 一个机器人程序用四百个账号发同一条消息。
+② The site blocks bots by asking for something a program cannot see.
+= 那个网站靠一道程序看不见的题目拦截自动程序。
 block = 拦截
-③ Bots infest the horse's stomach.
-= 马蝇幼虫寄生在马胃里。
+③ Bots infest the horse's stomach and are treated once a year.
+= 马蝇幼虫寄生在马胃里，一年驱一次。
 infest = 大量寄生
 构词：robot 的缩略；虫那一支另有来源
 词族：
@@ -60787,13 +60787,13 @@ botanist
 核心：研究植物的科学家——分类、生理、生态、演化都归他们管。
 它跟园艺师分得开：botanist 研究植物是什么、怎么活；
 gardener 关心怎么把它种好。可数。
-① She trained as a botanist.
-= 她学的是植物学。
-② Botanists named the new species.
-= 植物学家给那个新种命了名。
+① She works as a botanist for a seed bank in the far north.
+= 她在极北的一家种子库当植物学家。
+② Botanists named the new species after the woman who found it.
+= 植物学家用发现者的名字给那个新种命了名。
 name a species = 给物种命名
-③ The botanist pressed the specimens.
-= 那位植物学家把标本压制起来。
+③ The botanist pressed the specimens between sheets of newspaper.
+= 那位植物学家把标本夹在报纸中间压平。
 press specimens = 压制标本
 构词：botany 植物学 + -ist 人
 近义对照：
