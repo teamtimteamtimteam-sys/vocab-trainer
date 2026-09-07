@@ -269,14 +269,14 @@ caravanserai
 核心：丝路上的旅栈：围成一圈的院落，中间是大院子，
 供商队人畜住宿。波斯语来的词，说中亚与中东的历史时用。
 可数。
-① The caravanserai had one gate.
-= 那座商旅驿站只有一道门。
+① The caravanserai had one gate, barred from the inside at dusk.
+= 那座商旅驿站只有一道门，天黑就从里面闩上。
 caravanserai = 商旅驿站
-② Traders slept in the caravanserai.
-= 商人们在驿站里过夜。
+② Traders slept in the caravanserai and their camels in the yard.
+= 商人们睡在驿站里，骆驼睡在院子里。
 trader = 商人
-③ Caravanserais stood a day's march apart.
-= 驿站之间相隔一天路程。
+③ Caravanserais stood a day's march apart the whole length of the route.
+= 沿着整条商路，驿站之间都隔着一天路程。
 a day's march = 一天的路程
 构词：波斯语 karwansaray 商队的院落
 注意用法：历史与旅行文字里用。
@@ -285,14 +285,14 @@ caraway
 核心：香料的一种：种子细长带棱，味偏茴香带一点柑橘气，
 用在黑麦面包、腌菜、香肠里。最常见的说法是 caraway
 seeds。不可数。
-① The bread is flecked with caraway.
-= 那种面包里点着葛缕子。
+① The bread is flecked with caraway and keeps for a week.
+= 那种面包里点着葛缕子，能放一星期。
 caraway = 葛缕子
-② Add a teaspoon of caraway seeds.
-= 加一茶匙葛缕子。
+② Add a teaspoon of caraway seeds and crush them first.
+= 加一茶匙葛缕子，先压碎。
 caraway seeds = 葛缕子籽
-③ Caraway is common in rye bread.
-= 黑麦面包里常放葛缕子。
+③ Caraway is common in rye bread and in cabbage cooked slowly.
+= 黑麦面包和慢煮的甘蓝里常放葛缕子。
 rye bread = 黑麦面包
 构词：阿拉伯语 karawya
 注意用法：多说 caraway seeds。
@@ -301,14 +301,14 @@ carb
 核心：carbohydrate 的口语缩写，说饮食里的碳水化合物，
 多用复数：cut carbs 是减碳水，a low-carb diet 是低碳水
 饮食。修车语境里也可以是化油器的缩写，看上下文。可数。
-① She is cutting carbs.
-= 她在减碳水。
+① She is cutting carbs and has given up bread entirely.
+= 她在减碳水，面包完全戒了。
 cut carbs = 减少碳水化合物
-② Rice and bread are carbs.
-= 米饭和面包都是碳水。
+② Rice and bread are carbs and so is most of what he eats.
+= 米饭和面包都是碳水，他吃的东西也大半是。
 carbs = 碳水化合物
-③ He follows a low-carb diet.
-= 他吃低碳水饮食。
+③ He follows a low-carb diet and reads every label twice.
+= 他吃低碳水饮食，每张标签都要看两遍。
 a low-carb diet = 低碳水饮食
 构词：碳水化合物那个词的口语截短
 注意用法：口语与健身饮食的文字里最常见。
@@ -316,14 +316,14 @@ a low-carb diet = 低碳水饮食
 carbine
 核心：短管步枪：枪管比标准步枪短，便于骑兵与车载人员
 携带。军事用词。可数。
-① Each trooper carried a carbine.
-= 每个骑兵带一支短管步枪。
+① Each trooper carried a carbine slung across his back.
+= 每个骑兵背上斜挎着一支短管步枪。
 carbine = 短管步枪
-② The carbine fires the same round.
-= 那种短枪用同样的子弹。
+② The carbine fires the same round as the rifle it was cut down from.
+= 那种短枪用的子弹，跟它截短自的步枪一样。
 round = 子弹
-③ Carbines are easier to handle indoors.
-= 短枪在室内更好操作。
+③ Carbines are easier to handle indoors and lose range outside.
+= 短枪在室内更好操作，到了外面射程就吃亏。
 handle = 操作
 构词：法语 carabine 卡宾枪
 注意用法：军事文字里用。
@@ -332,14 +332,14 @@ carbohydrate
 核心：碳水化合物：糖、淀粉、纤维这一类，是人体主要的
 能量来源。营养学与饮食文字里最常见，口语缩成 carbs。
 可数与不可数都有。
-① Bread is high in carbohydrate.
-= 面包碳水含量高。
+① Bread is high in carbohydrate and low in almost everything else.
+= 面包碳水含量高，别的几乎都低。
 be high in carbohydrate = 碳水含量高
-② Complex carbohydrates release energy slowly.
-= 复合碳水释放能量慢。
+② Complex carbohydrates release energy slowly over several hours.
+= 复合碳水在几小时里慢慢释放能量。
 complex carbohydrates = 复合碳水化合物
-③ The label lists total carbohydrate.
-= 标签上标着碳水总量。
+③ The label lists total carbohydrate and sugars separately.
+= 标签把碳水总量和糖分开标。
 total carbohydrate = 碳水总量
 构词：由表示碳与水合物的两个词拼成
 注意用法：口语缩成 carbs。
@@ -348,14 +348,14 @@ carbolic
 核心：苯酚的旧称，多说 carbolic acid 或 carbolic soap：
 十九世纪起用作消毒剂，气味刺鼻。今天主要在历史与怀旧的
 语境里读到。不可数。
-① The ward smelled of carbolic.
-= 病房里一股消毒水味。
+① The ward smelled of carbolic from one end to the other.
+= 病房从这头到那头都是消毒水味。
 carbolic = 苯酚消毒液
-② They washed with carbolic soap.
-= 他们用石碳酸皂洗。
+② They washed with carbolic soap that took the skin off their hands.
+= 他们用石碳酸皂洗，手上的皮都洗掉了。
 carbolic soap = 石碳酸皂
-③ Carbolic acid was the first antiseptic.
-= 苯酚是最早的消毒剂。
+③ Carbolic acid was the first antiseptic used in an operating theatre.
+= 苯酚是手术室里最早用上的消毒剂。
 carbolic acid = 苯酚
 构词：由表示碳的词根加表示油的词根拼成
 注意用法：多见于历史与怀旧的语境。
@@ -443,14 +443,14 @@ carbonara
 核心：意面酱的一种：蛋黄、干酪、猪颊肉或培根加胡椒拌成，
 不放奶油才是正宗。多说 spaghetti carbonara。名字来自
 意大利语的烧炭工。不可数。
-① He ordered spaghetti carbonara.
-= 他点了培根蛋酱意面。
+① He ordered spaghetti carbonara and sent it back for being too dry.
+= 他点了培根蛋酱意面，嫌太干退了回去。
 spaghetti carbonara = 培根蛋酱意面
-② Real carbonara has no cream.
-= 正宗的这种酱不放奶油。
+② Real carbonara has no cream and comes together off the heat.
+= 正宗的这种酱不放奶油，是离火拌成的。
 no cream = 不放奶油
-③ The egg thickens the carbonara.
-= 蛋液让那个酱变稠。
+③ The egg thickens the carbonara and scrambles if the pan is hot.
+= 蛋液让那个酱变稠，锅一烫就结块。
 thicken = 使变稠
 构词：意大利语 carbonara 烧炭工的
 注意别混：拼头跟化学上那个词一样，这里说的是意面酱。
@@ -459,14 +459,14 @@ carboy
 核心：大玻璃瓶：容量十几到几十升，外面常套柳条或塑料
 护篮，用来装酸、装酒、做发酵容器。酿酒与化学品运输里
 用得到。可数。
-① The wine ferments in a glass carboy.
-= 酒在大玻璃瓶里发酵。
+① The wine ferments in a glass carboy for three months in the dark.
+= 酒在暗处的大玻璃瓶里发酵三个月。
 carboy = 大玻璃瓶
-② Acid is shipped in carboys.
-= 酸装在大玻璃瓶里运。
+② Acid is shipped in carboys cased in wicker so a knock cannot break them.
+= 酸装在外面套着柳条护篮的大玻璃瓶里运，磕一下也碎不了。
 be shipped in = 用……装运
-③ Fit an airlock to the carboy.
-= 给发酵瓶装上水封。
+③ Fit an airlock to the carboy so gas escapes and no air gets in.
+= 给发酵瓶装上水封，让气跑得出去、空气进不来。
 airlock = 发酵水封
 构词：波斯语 qaraba 大瓶
 注意用法：酿酒与化工语境里用。
@@ -476,14 +476,14 @@ carbuncle
 比单个疖子重。二是宝石的旧称，指磨成圆凸面的红宝石类。
 英式还有个出名的比喻：说一栋难看的建筑是 a carbuncle，
 好比脸上长出的一颗疮。可数。
-① The carbuncle had to be drained.
-= 那个痈得切开引流。
+① The carbuncle had to be drained and packed for a week afterwards.
+= 那个痈得切开引流，之后还要填塞一星期。
 carbuncle = 痈
-② A carbuncle is worse than a boil.
-= 痈比一般的疖子重。
+② A carbuncle spreads under the skin where a boil stays in one place.
+= 疖子只长在一处，痈却在皮下蔓开。
 boil = 疖子
-③ Critics called the tower a carbuncle.
-= 批评的人说那座楼是脸上一颗疮。
+③ Critics called the tower a carbuncle and the name stuck for years.
+= 批评的人说那座楼是脸上一颗疮，这叫法传了好些年。
 a carbuncle = 难看的建筑（英式比喻）
 构词：拉丁语 carbunculus 小炭块，因红肿如炭火
 注意语域：说建筑那个比喻是英式说法，带贬。
@@ -492,14 +492,14 @@ carburettor
 核心：化油器：把汽油雾化后跟空气混匀送进气缸的装置，
 电喷普及之前的标准件。美式拼 carburetor，只一个 t。
 动词 carburize 是另一回事：给钢件表面渗碳增硬。可数。
-① The carburettor needs cleaning.
-= 化油器该清了。
+① The carburettor needs cleaning every spring or the engine floods.
+= 化油器每年春天都得清，不然发动机会淹缸。
 carburettor = 化油器
-② Fuel injection replaced the carburettor.
-= 燃油喷射取代了化油器。
+② Fuel injection replaced the carburettor on almost everything by 1990.
+= 到一九九〇年，燃油喷射几乎在所有车上取代了化油器。
 fuel injection = 燃油喷射
-③ The gears are carburized for hardness.
-= 齿轮做了渗碳处理以增加硬度。
+③ The gears are carburized for hardness and ground smooth afterwards.
+= 齿轮先做渗碳增硬，之后再磨光。
 carburize = 表面渗碳
 构词：由表示碳的词根加动词后缀来
 注意拼写：英式两个 t，美式一个 t。
@@ -508,14 +508,14 @@ carcass
 核心：动物死后的整具躯体，尤指屠宰后待分割的那一具；
 也指剔掉肉之后的骨架，再引申指车、船、建筑剩下的空壳。
 英式也拼 carcase。可数。
-① The butcher hung the carcass.
-= 屠户把整只屠体挂了起来。
+① The butcher hung the carcass for ten days before cutting it.
+= 屠户把整只屠体挂了十天才分割。
 carcass = 屠体
-② Vultures stripped the carcass.
-= 秃鹫把尸体啃光了。
+② Vultures stripped the carcass to the bone in under an hour.
+= 秃鹫不到一小时就把尸体啃得只剩骨头。
 strip = 剥光、啃光
-③ Only the carcass of the factory remained.
-= 那座厂只剩一个空架子。
+③ Only the carcass of the factory remained, with the roof long gone.
+= 那座厂只剩一个空架子，屋顶早没了。
 the carcass of = ……剩下的空架子
 构词：法语 carcasse 骨架
 注意拼写：英式也写 carcase。
@@ -523,14 +523,14 @@ the carcass of = ……剩下的空架子
 carcinogen
 核心：致癌物：能引起癌症的物质或因素，烟草、石棉、
 某些化学品都算。形容词 carcinogenic 是致癌的。可数。
-① Asbestos is a known carcinogen.
-= 石棉是已知的致癌物。
+① Asbestos is a known carcinogen and was used in schools for decades.
+= 石棉是已知的致癌物，却在学校里用了几十年。
 carcinogen = 致癌物
-② Tobacco smoke contains many carcinogens.
-= 烟草烟雾里含很多致癌物。
+② Tobacco smoke contains many carcinogens and dozens of other irritants.
+= 烟草烟雾里含很多致癌物，还有几十种别的刺激性物质。
 contain = 含有
-③ The dye proved carcinogenic.
-= 那种染料被证明致癌。
+③ The dye proved carcinogenic and was withdrawn within a year.
+= 那种染料被证明致癌，一年内就撤了市。
 carcinogenic = 致癌的
 构词：希腊语 karkinos 蟹、癌 加表示产生的词根
 注意用法：公共卫生与法规文字里常见。
