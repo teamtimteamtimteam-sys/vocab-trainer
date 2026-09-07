@@ -76,14 +76,14 @@ bulkhead
 它要紧在防沉：一处破了进水，水被隔板挡在那一段里，
 船还浮得住。飞机上分舱的那道板也叫它，
 所以订票时说 bulkhead seat 是紧挨隔板的座位。可数。
-① Water was held back by the bulkhead.
-= 水被隔板挡住了。
+① Water was held back by the bulkhead until the pumps caught up.
+= 水被隔板挡着，直到水泵抽得过来。
 hold back = 挡住
-② He booked a bulkhead seat.
-= 他订了紧挨隔板的座位。
+② He booked a bulkhead seat for the extra room in front of it.
+= 他订了紧挨隔板的座位，图前面地方宽敞。
 a bulkhead seat = 隔板前的座位
-③ The bulkheads divide the hull.
-= 那些隔板把船体分成几段。
+③ The bulkheads divide the hull into eight sealed sections.
+= 那些隔板把船体分成八个密封段。
 divide = 分隔
 构词：bulk 货堆 + head 隔断
 注意用法：一处进水被隔在一段里，船才不沉。
@@ -92,14 +92,14 @@ bulky
 核心：形容词，又大又占地方、不好搬不好放的。它说的不是重
 而是"体积大"——一床被子不沉却很 bulky。常用来说包裹、
 行李、家具和衣服，多带一点嫌麻烦的意味。
-① The parcel is too bulky to post.
-= 那个包裹太大，寄不了。
+① The parcel is too bulky to post and will have to go by courier.
+= 那个包裹太大寄不了，只能走快递。
 too bulky to = 大得没法……
-② He wore a bulky jumper.
-= 他穿了件厚墩墩的毛衣。
+② He wore a bulky jumper that made the coat impossible to zip.
+= 他穿了件厚墩墩的毛衣，外套拉链都拉不上。
 a bulky jumper = 厚而蓬的毛衣
-③ Bulky items cost more to ship.
-= 大件东西运费更高。
+③ Bulky items cost more to ship even when they weigh next to nothing.
+= 大件东西哪怕几乎不重，运费也更高。
 构词：bulk 体量 + -y
 注意别混：
 bulky = 占地方的（重在体积）
@@ -174,13 +174,13 @@ bulldoze
 不顾反对硬推——bulldoze a plan through 是把方案强行推过去，
 bulldoze someone into doing something 是硬压着人做事。
 它带明确的批评：说的是不听意见、碾过去。及物。
-① They bulldozed the old terrace.
-= 他们把那排老房推平了。
-② He bulldozed the proposal through.
-= 他把那个提案强行推了过去。
+① They bulldozed the old terrace in a morning and put up hoardings.
+= 他们一上午就把那排老房推平，围上了挡板。
+② He bulldozed the proposal through a committee that had not read it.
+= 他把那个提案强推过了一个根本没读它的委员会。
 bulldoze through = 强行推动通过
-③ She was bulldozed into signing.
-= 她是被硬压着签的字。
+③ She was bulldozed into signing on a doorstep in the rain.
+= 她是在雨里的门口被硬压着签的字。
 bulldoze someone into = 强压某人做某事
 构词：bull 公牛 + doze 猛击（旧俚语）
 注意语用：引申义带明确批评。
@@ -244,13 +244,13 @@ bulleted
 a bulleted list 是用圆点分条列出来的清单。
 排版和写作指南里常用，说 present it as a bulleted list
 是"分条列出来"。
-① Present the findings as a bulleted list.
-= 把结论分条列出来。
+① Present the findings as a bulleted list of no more than seven points.
+= 把结论分条列出来，不超过七条。
 a bulleted list = 项目符号清单
-② The slide uses bulleted text.
-= 那页幻灯用的是分条文字。
-③ Bulleted points are easier to scan.
-= 分条列出的要点更好扫读。
+② The slide uses bulleted text where a single picture would have done.
+= 那页幻灯用的是分条文字，其实一张图就够了。
+③ Bulleted points are easier to scan and easier to argue with.
+= 分条列出的要点更好扫读，也更好反驳。
 scan = 快速扫读
 构词：bullet 项目符号 + -ed
 
@@ -282,13 +282,13 @@ bulletproof
 无懈可击的、挑不出毛病的——a bulletproof alibi 是滴水不漏的
 不在场证明，a bulletproof case 是驳不倒的理据。
 它的画面很直白：打不穿。
-① He wore a bulletproof vest.
-= 他穿着防弹背心。
+① He wore a bulletproof vest under a shirt two sizes too big.
+= 他在一件大了两号的衬衫里穿着防弹背心。
 a bulletproof vest = 防弹背心
-② The glass is bulletproof.
-= 那块玻璃是防弹的。
-③ Her alibi was bulletproof.
-= 她的不在场证明滴水不漏。
+② The glass is bulletproof and four inches thick.
+= 那块玻璃是防弹的，厚四英寸。
+③ Her alibi was bulletproof and came with a parking ticket to prove it.
+= 她的不在场证明滴水不漏，还附着一张停车罚单为证。
 bulletproof = 无懈可击的
 构词：bullet 子弹 + proof 防……的
 注意用法：引申义比字面义常用。
@@ -309,13 +309,13 @@ bullfighter
 核心：斗牛士。西班牙语里按分工另有专门称呼，
 主斗的那位叫 matador，英语里说 bullfighter 是笼统的通称，
 说 matador 才是特指最后收场的那一位。可数。
-① The bullfighter entered the ring.
-= 斗牛士走进了场地。
+① The bullfighter entered the ring to a silence he had not expected.
+= 斗牛士走进场地，迎来的是他没料到的寂静。
 the ring = 斗牛场
-② A matador is the leading bullfighter.
-= 主斗士是领衔的那位。
-③ Bullfighters train for years.
-= 斗牛士要练很多年。
+② The leading bullfighter takes the last bull of the afternoon.
+= 领衔的斗牛士对付下午最后一头牛。
+③ Bullfighters train for years with a wheeled frame instead of a bull.
+= 斗牛士要用带轮的架子代替真牛练很多年。
 构词：bullfight 斗牛 + -er
 近义对照：
 bullfighter = 斗牛士（笼统通称）
@@ -364,13 +364,13 @@ bullheaded
 不管别人说什么。它跟 determined 的分界在于讲不讲道理：
 determined 是褒义的坚定，bullheaded 一定是批评，
 说的是"顶着不听"。也写作 bull-headed。
-① He is too bullheaded to listen.
-= 他太犟，听不进话。
+① He is too bullheaded to listen to anyone who has done it before.
+= 他太犟，做过这事的人的话也听不进。
 too bullheaded to = 犟得不肯……
-② Her bullheaded refusal surprised them.
-= 她那副死不松口让他们意外。
-③ Bullheaded persistence wastes time.
-= 一味犟着坚持只是浪费时间。
+② Her bullheaded refusal surprised a room that had expected agreement.
+= 满屋子人本以为会谈成，她那副死不松口让他们意外。
+③ Bullheaded persistence wastes time that a single question would save.
+= 一味犟着坚持白费工夫，一句话问清就省了。
 persistence = 坚持
 构词：bull 公牛 + headed 有……头脑的
 近义对照：
@@ -381,28 +381,28 @@ bullheadedness
 核心：那股犟劲儿——认准了就不回头、谁劝都没用。它是评价词，
 带明确的批评，多用在事后复盘上：说某人的 bullheadedness
 把事情搞砸了。不可数。
-① His bullheadedness cost them the deal.
-= 他那股犟劲让他们丢了那笔生意。
+① His bullheadedness cost them the deal on the very last afternoon.
+= 就在最后一个下午，他那股犟劲让他们丢了那笔生意。
 cost someone something = 让某人失去某物
-② She regretted her own bullheadedness.
-= 她后悔自己太犟。
+② She regretted her own bullheadedness long after the letter had gone.
+= 信早寄出去了，她还在后悔自己太犟。
 regret = 后悔
-③ Bullheadedness is not the same as courage.
-= 犟跟勇敢不是一回事。
+③ Bullheadedness is not the same as courage, whatever the coach says.
+= 不管教练怎么说，犟跟勇敢不是一回事。
 构词：bullheaded 固执的 + -ness
 
 bullhorn
 核心：美式，手持的扩音喇叭——一头握把一头喇叭口，
 喊话给一群人听用的，示威、指挥、海滩救生都见得到。
 英式管它叫 loudhailer 或 megaphone。可数。
-① He shouted through a bullhorn.
-= 他拿着扩音喇叭喊话。
+① He shouted through a bullhorn at people who could hear him anyway.
+= 他拿着扩音喇叭，朝本来就听得见他的人喊。
 through a bullhorn = 用扩音喇叭
-② Police used bullhorns to direct the crowd.
-= 警方用喇叭指挥人群。
+② Police used bullhorns to direct the crowd towards the side streets.
+= 警方用喇叭把人群往侧街引导。
 direct = 指挥
-③ The battery in the bullhorn died.
-= 那个喇叭没电了。
+③ The battery in the bullhorn died halfway through the announcement.
+= 通知念到一半，那个喇叭的电池就耗尽了。
 构词：bull 公牛 + horn 号角
 注意地域：
 bullhorn = 手持扩音喇叭（美式）
@@ -413,14 +413,14 @@ bullion
 不做成钱币也不做成首饰。它跟金币的分别就在这儿：
 bullion 值多少全看金属本身，不含收藏溢价。
 不可数，多说 gold bullion、silver bullion。
-① The vault holds gold bullion.
-= 那个金库存着金条。
+① The vault holds gold bullion stacked on plain wooden pallets.
+= 那个金库里的金条码在普通木托板上。
 a vault = 金库
-② Bullion is priced by weight.
-= 金银条按重量计价。
+② Bullion is priced by weight and purity, never by how it looks.
+= 金银条按重量和纯度计价，跟好不好看无关。
 be priced by = 按什么计价
-③ They bought silver bullion.
-= 他们买了银条。
+③ They bought silver bullion and paid to store it somewhere else.
+= 他们买了银条，还另花钱找地方存。
 构词：法语 bouillon 熔炼
 注意用法：价值只看金属本身，不含收藏溢价。
 
@@ -429,14 +429,14 @@ bullish
 bullish on tech 是看好科技股，跟看跌的 bearish 成对。
 日常一支是乐观自信的——说某人对前景 bullish 是他觉得
 一定行。多作表语，后面接 about 或 on。
-① Investors are bullish on the sector.
-= 投资者看好那个板块。
+① Investors are bullish on the sector for the fourth quarter running.
+= 投资者连着第四个季度看好那个板块。
 be bullish on = 看涨某物
-② She sounded bullish about the year ahead.
-= 她对来年口气很乐观。
+② She sounded bullish about the year ahead and gave no figures at all.
+= 她对来年口气很乐观，一个数字也没给。
 be bullish about = 对某事很有信心
-③ The mood on the floor was bullish.
-= 交易大厅气氛看涨。
+③ The mood on the floor was bullish until the last hour of trading.
+= 交易大厅气氛看涨，直到收盘前最后一小时。
 构词：bull 公牛；牛市 + -ish
 反义词：
 bearish = 看跌的；悲观的
