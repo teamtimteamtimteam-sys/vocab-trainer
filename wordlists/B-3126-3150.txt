@@ -362,13 +362,13 @@ botany
 核心：植物学，生物学里研究植物的那一支——形态、分类、生理、
 分布都在里头。不可数。它是最早成形的自然科学之一，
 起因很实际：认草药、辨庄稼，都得先把植物分清楚。
-① He studied botany at university.
-= 他大学学的是植物学。
-② Botany began with medicinal plants.
-= 植物学是从辨认药用植物开始的。
+① He came to botany late, after twenty years of teaching chemistry.
+= 他教了二十年化学，很晚才转到植物学。
+② Botany began with medicinal plants and the need to tell one leaf from another.
+= 植物学是从辨认药用植物、从分清这片叶子和那片叶子开始的。
 medicinal plant = 药用植物
-③ Botany overlaps with ecology.
-= 植物学和生态学有交叉。
+③ Botany overlaps with ecology wherever a plant's neighbours matter.
+= 只要邻近的生物起作用，植物学就和生态学有交叉。
 overlap = 有交叉
 构词：希腊语 botane 草木
 词族：
@@ -399,13 +399,13 @@ botfly
 核心：一类寄生性的蝇，幼虫钻进哺乳动物皮下发育，在皮肤上鼓起
 一个带小孔的包，靠那个孔呼吸。牛马受害最多，人偶尔也中招，
 中美洲的人体皮蝇最有名。复数 botflies。可数。
-① Botfly larvae live under the skin.
-= 皮蝇幼虫寄生在皮下。
+① Botfly larvae live under the skin for several weeks before dropping out.
+= 皮蝇幼虫在皮下待上几周才掉出来。
 larva = 幼虫（复数 larvae）
-② A botfly leaves a breathing hole.
-= 皮蝇会留一个呼吸孔。
-③ Cattle suffer most from botflies.
-= 牛受皮蝇害最重。
+② A botfly leaves a breathing hole no bigger than a pinprick.
+= 皮蝇留下的呼吸孔不比针眼大。
+③ Cattle suffer most from botflies, and the hides lose their value.
+= 牛受皮蝇害最重，皮子也就不值钱了。
 suffer from = 受某物之害
 构词：bot 幼虫（旧词） + fly 蝇
 注意用法：那个小孔是幼虫用来呼吸的。

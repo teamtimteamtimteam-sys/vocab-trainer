@@ -63,14 +63,14 @@ bounded
 核心：形容词，有界限的、受限定的。数学和逻辑里指"有上下界的"，
 这是它的专门用法；日常里说某物被什么围着，
 bounded by 后面接界线所在。它跟 boundless 正好相反。
-① The field is bounded by a stream.
-= 那块地以一条溪为界。
+① The field is bounded by a stream on two sides and a hedge on the third.
+= 那块地两边以溪为界，第三边是树篱。
 be bounded by = 以某物为界
-② The set is bounded above.
-= 那个集合有上界。
+② The set is bounded above but has no largest member.
+= 那个集合有上界，却没有最大元。
 数学那一支。
-③ We live in a bounded world.
-= 我们生活在一个有限的世界里。
+③ We live in a bounded world with a fixed amount of fresh water in it.
+= 我们生活在一个有限的世界里，淡水就那么多。
 构词：bound 界限 + -ed
 反义词：
 boundless = 无边无际的
@@ -103,13 +103,13 @@ boundless
 核心：形容词，无边无际的、没有限度的。它几乎只用来说抽象的
 东西——精力、热情、乐观、想象力，说 boundless energy 是
 精力用不完。说具体的东西无边无际偏文学，日常少用。
-① She has boundless energy.
-= 她精力无穷。
+① She has boundless energy for other people's problems.
+= 她对别人的麻烦有用不完的精力。
 boundless energy = 用不完的精力
-② His optimism seems boundless.
-= 他的乐观似乎没有尽头。
-③ The desert stretched boundless before them.
-= 沙漠在他们面前一望无际。
+② His optimism seems boundless and survived three failed businesses.
+= 他的乐观似乎没有尽头，三次生意失败也没磨掉。
+③ The desert stretched boundless before them with one track across it.
+= 沙漠在他们面前一望无际，只有一条车辙穿过去。
 偏文学的用法。
 构词：bound 界限 + -less 没有
 反义词：
@@ -131,13 +131,13 @@ bountiful
 核心：形容词，两支。一是物产丰饶的，说收成、说土地、说餐桌；
 二是形容人慷慨大方。它比 bounteous 常用，但仍偏书面，
 带一点庄重和感恩的口气。
-① They enjoyed a bountiful harvest.
-= 他们迎来了丰收。
+① They enjoyed a bountiful harvest and had nowhere to store half of it.
+= 他们迎来了丰收，一半却没地方存。
 a bountiful harvest = 丰饶的收成
-② The table was bountiful.
-= 那一桌菜摆得极丰盛。
-③ She was bountiful to the poor.
-= 她对穷人很慷慨。
+② The table was bountiful and half the dishes went back untouched.
+= 那一桌菜摆得极丰盛，一半原样撤了下去。
+③ She was bountiful to the poor and mean to her own family.
+= 她对穷人很慷慨，对自家人却很刻薄。
 说人慷慨那一支。
 构词：bounty 慷慨 + -ful
 近义对照：
@@ -190,13 +190,13 @@ bourbon
 名字来自肯塔基州的波本县。英式另有一支：bourbon biscuit
 是两片巧克力饼干夹奶油的长方形饼干，英国人从小吃到大。
 不可数居多。
-① He poured a glass of bourbon.
-= 他倒了杯波本威士忌。
-② Bourbon must be mostly corn.
-= 波本的原料必须以玉米为主。
+① He poured a glass of bourbon over one large piece of ice.
+= 他往一大块冰上倒了杯波本威士忌。
+② Bourbon must be mostly corn and must age in a charred new barrel.
+= 波本的原料必须以玉米为主，还得在烤焦的新桶里陈化。
 corn = 玉米
-③ She dunked a bourbon in her tea.
-= 她把巧克力夹心饼干蘸进茶里。
+③ She dunked a bourbon in her tea and lost the top layer in the cup.
+= 她把巧克力夹心饼干蘸进茶里，上面那片掉在了杯子里。
 bourbon = 巧克力夹心饼干（英式）
 构词：美国肯塔基州 Bourbon 县
 注意地域：
@@ -208,13 +208,13 @@ bourgeois
 在马克思主义语境里指占有生产资料的资产阶级，是政治批判用语；
 在日常语境里指"庸俗保守、只顾体面和物质"，也是贬义。
 所以这个词几乎总带评价，用它就是在表态。单复数同形。
-① He mocked their bourgeois taste.
-= 他嘲笑他们那套小市民趣味。
+① He mocked their bourgeois taste from a flat his parents had bought him.
+= 他住着父母买的公寓，还嘲笑别人那套小市民趣味。
 bourgeois taste = 庸俗保守的趣味
-② The play attacks bourgeois values.
-= 那出戏抨击中产阶级的价值观。
-③ She was born into a bourgeois family.
-= 她生在中产人家。
+② The play attacks bourgeois values and sold out to a bourgeois audience.
+= 那出戏抨击中产阶级的价值观，票却被中产观众抢光了。
+③ She was born into a bourgeois family and spent her life writing against it.
+= 她生在中产人家，一辈子都在写文章反对它。
 构词：法语 bourgeois 城镇居民
 注意语用：几乎总带贬义，
 用它就是在表态。
