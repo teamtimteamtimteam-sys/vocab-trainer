@@ -40,14 +40,14 @@ coppice
 核心：矮林作业：把树砍到根部，让它从根桩上重新长出许多
 细枝，隔几年砍一轮；也指这样经营的一小片林子。既是做法
 也是那片林子，还可作动词。可数。
-① They cut the hazel coppice every seven years.
-= 那片榛树矮林每七年砍一轮。
+① They cut the hazel coppice every seven years and sell the poles.
+= 那片榛树矮林每七年砍一轮，砍下的杆子卖掉。
 a coppice = 矮林
-② Coppiced trees live longer.
-= 按这法子砍过的树活得更久。
+② Coppiced trees live longer than ones left to grow up straight.
+= 按矮林法砍过的树，比任其长直的活得久。
 coppice = 砍成矮林（动词）
-③ Coppice woodland supports rare butterflies.
-= 矮林林地能养住稀有蝴蝶。
+③ Coppice woodland supports rare butterflies that need the open years.
+= 矮林林地养得住那些需要空旷年头的稀有蝴蝶。
 coppice woodland = 矮林林地
 构词：古法语 copeiz 砍伐地
 注意用法：既是做法也是那片林子。
@@ -55,14 +55,14 @@ coppice woodland = 矮林林地
 copra
 核心：椰干：椰子肉晒干或烤干之后的东西，用来榨椰子油，
 是热带岛屿的传统出口货。不可数。
-① Copra is dried in the sun.
-= 椰干是晒出来的。
+① Copra is dried in the sun on racks that are wheeled in when it rains.
+= 椰干晒在架子上，一下雨就把架子推进屋。
 copra = 椰干
-② The ship loaded copra at Suva.
-= 那条船在苏瓦装了椰干。
+② The ship loaded copra at Suva and smelled of it for a month.
+= 那条船在苏瓦装了椰干，一个月都是那股味。
 load copra = 装运椰干
-③ Copra yields coconut oil.
-= 椰干能榨出椰子油。
+③ Copra yields coconut oil and a cake that is fed to cattle.
+= 椰干榨出椰子油，剩下的饼拿去喂牛。
 yield oil = 出油
 构词：马拉雅拉姆语 koppara 椰子
 注意用法：不可数。
@@ -70,28 +70,28 @@ yield oil = 出油
 copse
 核心：小树林：一小片树，比 wood 小得多，多用在写景里。
 它其实就是 coppice 缩合来的。可数。
-① A copse hides the house from the road.
-= 一小片树把房子挡在路外。
+① A copse hides the house from the road all summer and none of the winter.
+= 整个夏天有一小片树把房子挡在路外，冬天就全挡不住了。
 a copse = 小树林
-② Pheasants roost in the copse.
-= 野鸡在那片小林子里过夜。
+② Pheasants roost in the copse and give themselves away at dusk.
+= 野鸡在那片小林子里过夜，黄昏时自己就把行踪露了。
 roost in = 在……栖息过夜
-③ They planted a copse of beech.
-= 他们种了一小片山毛榉。
+③ They planted a copse of beech to mark the boundary.
+= 他们种了一小片山毛榉，标出地界。
 a copse of = 一小片……林
 构词：coppice 的缩合
 注意分工：比 wood 小，多用在写景里。
 
 copter
 核心：直升机的口语短形式。正式文字里写全称。可数。
-① A copter circled the stadium.
-= 一架直升机在体育场上空盘旋。
+① A copter circled the stadium for an hour and drowned out the band.
+= 一架直升机在体育场上空盘旋一小时，把乐队的声音全盖住了。
 a copter = 直升机
-② Two copters lifted off together.
-= 两架直升机一起升空。
+② Two copters lifted off together and split at the coast.
+= 两架直升机一起升空，到海岸线分开。
 lift off = 升空
-③ The traffic copter reports every ten minutes.
-= 交通播报直升机每十分钟播一次。
+③ The traffic copter reports every ten minutes and always sounds cheerful.
+= 交通播报直升机每十分钟播一次，语气总是很欢快。
 a traffic copter = 交通播报直升机
 构词：helicopter 的截短
 注意语域：口语，正式文字里写全称。
@@ -166,14 +166,14 @@ a copy typist = 照稿打字员
 coq au vin
 核心：红酒烩鸡：法国菜，整鸡用红酒加培根、蘑菇、小洋葱
 慢炖。照法语原样写，不可数。
-① She ordered the coq au vin.
-= 她点了红酒烩鸡。
+① She ordered the coq au vin and asked for extra bread for the sauce.
+= 她点了红酒烩鸡，还要了额外的面包蘸汁。
 coq au vin = 红酒烩鸡
-② Coq au vin needs a whole bottle of red.
-= 做红酒烩鸡要用掉一整瓶红酒。
+② Coq au vin needs a whole bottle of red and an old bird, properly.
+= 红酒烩鸡要用掉一整瓶红酒，讲究的话还得用老鸡。
 a whole bottle of red = 一整瓶红酒
-③ Coq au vin tastes better the next day.
-= 红酒烩鸡隔天更好吃。
+③ Coq au vin tastes better the next day, so make it on the Friday.
+= 红酒烩鸡隔天更好吃，所以周五就该做上。
 taste better the next day = 隔夜更入味
 构词：法语，字面是「酒里的公鸡」
 注意用法：照法语原样写，不可数。
@@ -222,14 +222,14 @@ cor anglais = 英国管（比双簧管低五度的木管乐器）
 coracle
 核心：一种小圆船：柳条编骨架，外面蒙皮或蒙防水布，一个人
 划，是威尔士与爱尔兰河上的传统渔船。可数。
-① He paddled the coracle across.
-= 他划着小圆船过了河。
+① He paddled the coracle across with one hand and held the net with the other.
+= 他一手划着小圆船过河，一手抓着网。
 a coracle = 柳条小圆船
-② A coracle weighs little enough to carry.
-= 小圆船轻得能背着走。
+② A coracle weighs little enough to carry home on your back.
+= 小圆船轻得能背在背上走回家。
 weigh little = 分量很轻
-③ Coracles are still built in Wales.
-= 威尔士还在造这种小圆船。
+③ Coracles are still built in Wales by three or four families.
+= 威尔士还有三四户人家在造这种小圆船。
 build a coracle = 造小圆船
 构词：威尔士语 corwgl
 注意用法：可数。
@@ -260,14 +260,14 @@ a coral snake = 珊瑚蛇（美洲的一种剧毒蛇）
 corbel
 核心：托石：从墙面伸出来的一块石头或木头，用来托住上面的
 梁、拱或阳台。也作动词，corbelled 指用托石挑出来的。可数。
-① A stone corbel supports the beam.
-= 一块石托托着那根梁。
+① A stone corbel supports the beam and has a face carved on it.
+= 一块石托托着那根梁，上面刻着一张脸。
 a corbel = 托石
-② The tower has a corbelled parapet.
-= 那座塔的女儿墙是用托石挑出来的。
+② The tower has a corbelled parapet that overhangs by half a metre.
+= 那座塔的女儿墙是用托石挑出来的，探出半米。
 corbelled = 用托石挑出的
-③ Carved corbels line the nave.
-= 中殿两侧排着雕花托石。
+③ Carved corbels line the nave and no two of them match.
+= 中殿两侧排着雕花托石，没有两块是一样的。
 a carved corbel = 雕花托石
 构词：古法语 corbel 小乌鸦，指伸出的喙状石
 注意用法：可数。
@@ -330,14 +330,14 @@ cordiality = 热诚
 cordite
 核心：线状无烟火药：十九世纪末英国研制的推进药，被挤成细
 绳状，两次大战里当枪炮发射药用。不可数。
-① The air still smelled of cordite.
-= 空气里还有一股火药味。
+① The air still smelled of cordite an hour after the last round.
+= 最后一发过去一小时，空气里还有火药味。
 smell of cordite = 一股火药味
-② Cordite replaced black powder.
-= 这种无烟火药取代了黑火药。
+② Cordite replaced black powder and stopped giving the gunners away.
+= 线状无烟火药取代了黑火药，炮手的位置也就不再暴露。
 cordite = 线状无烟火药
-③ Cordite burns without much smoke.
-= 那种火药烧起来没多少烟。
+③ Cordite burns without much smoke but wears the barrel faster.
+= 那种火药烧起来烟不多，却把炮管磨得更快。
 burn without smoke = 少烟燃烧
 构词：cord 细绳 + -ite，因为它被挤成绳状
 注意用法：不可数。
@@ -346,14 +346,14 @@ cordon
 核心：名词是警戒线：警察或军队围成的一圈人或路障。动词
 几乎总跟 off 连用，指把某处围起来禁止进入。另有 cordon
 bleu，指顶级厨艺。可数。
-① Police threw a cordon round the square.
-= 警方在广场周围拉起警戒线。
+① Police threw a cordon round the square before the crowd arrived.
+= 人群到来之前，警方就在广场周围拉起了警戒线。
 throw a cordon round = 在……周围设警戒线
-② The street was cordoned off.
-= 那条街被封起来了。
+② The street was cordoned off for nine hours over one suitcase.
+= 为了一只手提箱，那条街被封了九小时。
 cordon off = 拉警戒线封锁
-③ She trained as a cordon bleu cook.
-= 她受过顶级厨艺的训练。
+③ She trained as a cordon bleu cook and now runs a sandwich bar.
+= 她受过顶级厨艺的训练，如今开着一家三明治店。
 cordon bleu = 顶级厨艺
 构词：法语 cordon 小绳、绶带
 注意搭配：动词几乎总跟 off 连用。
@@ -362,14 +362,14 @@ corduroy
 核心：灯芯绒：表面有一道道凸起绒棱的厚棉布。复数
 corduroys 指灯芯绒裤。另有 corduroy road，是用圆木横铺出
 来的烂泥路。不可数。
-① The jacket is brown corduroy.
-= 那件夹克是棕色灯芯绒的。
+① The jacket is brown corduroy and has gone shiny at the elbows.
+= 那件夹克是棕色灯芯绒的，手肘处已经磨亮了。
 corduroy = 灯芯绒
-② He wore corduroys and boots.
-= 他穿着灯芯绒裤和靴子。
+② He wore corduroys and boots to a wedding and got away with it.
+= 他穿灯芯绒裤配靴子去参加婚礼，居然没人说什么。
 corduroys = 灯芯绒裤
-③ A corduroy road crossed the swamp.
-= 一条圆木路横过沼泽。
+③ A corduroy road crossed the swamp and shook every bone in the cart.
+= 一条圆木路横过沼泽，把车上的骨头都颠散了。
 a corduroy road = 圆木横铺的路
 构词：可能是 cord 棱纹加一种旧毛料的名字
 注意用法：作裤子讲用复数。
@@ -413,15 +413,15 @@ coreferential
 代词跟它前面那个名词：一句话里的 he 跟前面提过的那个人名就是这种
 关系。名词形式是 coreference。构词是表示「共同」的前缀加上
 referential，跟表示核心的那个同头词毫无关系，不是它的派生。
-① The two phrases are coreferential.
-= 那两个说法指的是同一个东西。
+① In 「Tom said he was tired」 the two words are coreferential.
+= 在「Tom said he was tired」里，那两个词指的是同一个人。
 coreferential = 指同一对象的
-② A pronoun is usually coreferential with an earlier noun.
-= 代词通常跟前面出现过的名词指同一个人或物。
+② A pronoun is usually coreferential with an earlier noun in the same sentence.
+= 代词通常跟同一句里前面出现的名词指同一个人或物。
 coreferential with = 与……指同一对象
 介词固定用 with。
-③ Coreference makes a text hang together.
-= 同指关系让文章连贯。
+③ Coreference makes a text hang together without repeating every name.
+= 同指关系让文章连贯，不必每次都把名字重说一遍。
 coreference = 同指关系
 是这个形容词对应的名词，语篇分析里的常用概念。
 构词：表示共同的前缀 co- 加 referential
@@ -430,14 +430,14 @@ coreference = 同指关系
 corgi
 核心：柯基犬：威尔士的一种矮腿长身牧牛犬，耳朵立着，因
 英国王室饲养而出名。复数 corgis。可数。
-① The queen kept corgis for decades.
-= 女王养了几十年柯基。
+① The queen kept corgis for decades and had them buried at the castle.
+= 女王养了几十年柯基，还把它们葬在城堡。
 a corgi = 柯基犬
-② A corgi has short legs and a long back.
-= 柯基腿短身子长。
+② A corgi has short legs and a long back that gives out early.
+= 柯基腿短身子长，那背早早就出毛病。
 short legs = 短腿
-③ Corgis were bred to herd cattle.
-= 柯基当初是育来赶牛的。
+③ Corgis were bred to herd cattle by nipping at their heels.
+= 柯基当初是育来赶牛的，靠啄牛蹄后跟。
 be bred to herd = 育来放牧
 构词：威尔士语 cor 矮 + ci 狗
 注意复数：corgis。
@@ -445,14 +445,14 @@ be bred to herd = 育来放牧
 coriander
 核心：芫荽、香菜：叶子当香草，种子当香料。英式叶与籽都叫
 这个词；美式把叶子另叫 cilantro，籽才叫 coriander。不可数。
-① Chop the coriander leaves finely.
-= 香菜叶切细。
+① Chop the coriander leaves finely and add them off the heat.
+= 香菜叶切细，离火之后再放。
 coriander leaves = 香菜叶
-② Toast the coriander seeds first.
-= 芫荽籽先烘一下。
+② Toast the coriander seeds first and crush them while still warm.
+= 芫荽籽先烘一下，趁热碾碎。
 coriander seeds = 芫荽籽
-③ Coriander leaves are sold as cilantro in America.
-= 香菜叶在美国是按另一个名字卖的。
+③ Half the family cannot eat coriander and says it tastes of soap.
+= 家里一半人吃不了香菜，说那是肥皂味。
 cilantro = 香菜叶（美式叫法）
 构词：希腊语 koriannon
 注意英美差别：美式叶子叫 cilantro，籽才叫 coriander。
@@ -503,14 +503,14 @@ corm
 核心：球茎：某些植物埋在土里的短粗地下茎，储着养分过冬，
 番红花与唐菖蒲都是。跟鳞茎 bulb 的分工：鳞茎是一层层的叶，
 球茎是实心的茎。可数。
-① Plant the corms in autumn.
-= 球茎秋天下种。
+① Plant the corms in autumn about ten centimetres down.
+= 球茎秋天下种，埋大约十厘米深。
 a corm = 球茎
-② Each corm produces one shoot.
-= 每个球茎抽一根苗。
+② Each corm produces one shoot and a new corm above the old one.
+= 每个球茎抽一根苗，还在旧球茎上方长出一个新的。
 produce a shoot = 抽苗
-③ A corm is solid, not layered.
-= 球茎是实心的，不分层。
+③ Cut a corm in half and you find no rings inside.
+= 把球茎切开，里面找不到一圈圈的层。
 be solid = 实心的
 构词：希腊语 kormos 去皮的树干
 注意分工：球茎是实心茎，鳞茎 bulb 是一层层的叶。
