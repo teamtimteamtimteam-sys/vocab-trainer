@@ -2,13 +2,13 @@ busway
 核心：只给公交车走的专用道，跟普通车道隔开，
 所以不受堵车影响。它跟公交专用车道的分别在隔离程度：
 busway 多是物理隔开的独立通道，不只是画条线。可数。
-① The busway avoids the traffic.
-= 那条公交专用道不受堵车影响。
+① The busway avoids the traffic and saves twenty minutes each way.
+= 那条公交专用道不受堵车影响，单程省二十分钟。
 avoid = 避开
-② Buses run every five minutes.
-= 车每五分钟一班。
-③ The busway is kept physically separate from other traffic.
-= 那条公交专用道跟其他车流实体隔开。
+② Buses on the busway run every five minutes at peak times.
+= 高峰时段，公交专用道上的车每五分钟一班。
+③ The busway is kept physically separate from all other traffic.
+= 那条公交专用道跟其他所有车流实体隔开。
 physically separate = 实体隔开的
 构词：bus 公交 + way 通道
 注意用法：多是物理隔开的独立通道。
@@ -52,13 +52,13 @@ busybody
 核心：爱管闲事的人——打听别人家的事、还要指手画脚。
 它带明确的厌烦，是抱怨用的词，不会用来夸人。
 可数。
-① The neighbour is a real busybody.
-= 那个邻居特别爱管闲事。
-② Busybodies spread the story.
-= 是那些爱嚼舌根的把事传开的。
+① The neighbour is a real busybody and counts who comes to the door.
+= 那个邻居特别爱管闲事，谁上门都要数一遍。
+② Busybodies spread the story before anyone had checked it.
+= 还没人去核实，爱嚼舌根的就把事传开了。
 spread = 传开
-③ Nobody likes a busybody.
-= 没人喜欢爱管闲事的人。
+③ Nobody likes a busybody until they need one to remember something.
+= 没人喜欢爱管闲事的人，除非要靠他记住点什么。
 构词：busy 忙 + body 人
 注意语用：带明确厌烦，只用来抱怨。
 
@@ -95,14 +95,14 @@ butane
 ——打火机里那点液体、露营炉的气罐用的都是它。
 它跟丙烷 propane 的分工是温度：丁烷在低温下气化不好，
 所以冬天和高海拔多用丙烷。不可数。
-① The lighter runs on butane.
-= 那只打火机用的是丁烷。
+① The lighter runs on butane and refills from a small can.
+= 那只打火机用的是丁烷，拿小罐补充。
 run on = 以某种燃料驱动
-② Butane liquefies under pressure.
-= 丁烷加压后液化。
+② Butane liquefies under pressure and takes up far less room.
+= 丁烷加压后液化，占的地方小得多。
 liquefy = 液化
-③ Campers carry butane canisters.
-= 露营的人带丁烷气罐。
+③ Campers carry butane canisters except in real cold.
+= 露营的人带丁烷气罐，除非天真冷。
 a canister = 小气罐
 构词：butyl 丁基 + -ane 烷
 注意别混：
@@ -151,14 +151,14 @@ butchery
 核心：两支。一是屠宰这门行当和手艺——分割、去骨、修整，
 是有讲究的技术活。二是引申的贬义：血腥的屠杀，
 说战场和暴行时用，语气很重。不可数。
-① He trained in butchery.
-= 他学的是屠宰分割。
+① He trained in butchery for three years before opening a shop.
+= 他学了三年屠宰分割才开的店。
 train in = 学习某门手艺
-② The report described the butchery.
-= 那份报告描述了那场屠杀。
+② The report described the butchery in language the editors softened.
+= 那份报告描述了那场屠杀，措辞被编辑改缓和了。
 butchery = 血腥屠杀（贬义）
-③ Butchery is a skilled trade.
-= 屠宰分割是门手艺活。
+③ Butchery is a skilled trade that takes years to learn properly.
+= 屠宰分割是门手艺活，要好些年才学得像样。
 a skilled trade = 需要手艺的行当
 构词：butcher 屠夫 + -y
 注意语用：贬义那一支语气很重。
@@ -168,14 +168,14 @@ butler
 管其他佣人。词源很具体：来自古法语的"斟酒的人"，
 最早的职责就是掌管酒窖，所以 butler 跟 bottle 同源。
 今天多见于历史剧和豪宅语境。可数。
-① The butler answered the door.
-= 管家来开的门。
+① The butler answered the door before the bell had stopped ringing.
+= 铃声还没落，管家就来开了门。
 answer the door = 应门
-② He served as butler for thirty years.
-= 他做了三十年管家。
+② He served as butler for thirty years and outlasted two owners.
+= 他做了三十年管家，熬走了两任主人。
 serve as = 担任
-③ The butler keeps the cellar.
-= 酒窖归管家掌管。
+③ The butler keeps the cellar and nobody else has a key.
+= 酒窖归管家掌管，别人一把钥匙也没有。
 a cellar = 酒窖
 构词：古法语 bouteillier 掌酒的人
 注意来历：跟 bottle 同源，本职是掌管酒窖。
@@ -285,14 +285,14 @@ buttercup
 核心：一种野花，五片亮黄花瓣，表面有蜡质光泽亮得反光。
 英国孩子有个玩法：把花凑到下巴底下，映出黄光就说明你爱吃黄油
 ——这个说法正是名字的由来。可数。
-① Buttercups covered the meadow.
-= 草地上开满了毛茛。
+① Buttercups covered the meadow by the middle of May.
+= 到五月中，草地上开满了毛茛。
 a meadow = 草地
-② Buttercup petals are glossy enough to reflect light.
-= 毛茛的花瓣亮得能反光。
+② Buttercup petals are glossy enough to throw light onto skin.
+= 毛茛的花瓣亮得能把光映到皮肤上。
 glossy petals = 有光泽的花瓣
-③ Children hold a buttercup under the chin.
-= 孩子们把毛茛凑到下巴底下照。
+③ Children hold a buttercup under the chin to see the yellow.
+= 孩子们把毛茛凑到下巴底下，看那点黄光。
 hold under the chin = 凑到下巴底下
 构词：butter 黄油 + cup 杯
 注意来历：名字来自那个把花映在下巴上的老玩法。
@@ -337,14 +337,14 @@ butterfly effect
 放大成完全不同的结果。名字来自那个著名的设问——
 一只蝴蝶扇翅膀会不会在别处引起一场龙卷风。
 今天它早已出了气象学，泛指"小事引发大后果"。可数。
-① The butterfly effect makes forecasting hard.
-= 蝴蝶效应让预测变得很难。
+① The butterfly effect makes forecasting hard beyond about a week.
+= 蝴蝶效应让一周开外的预测变得很难。
 forecasting = 预测
-② The butterfly effect means tiny changes can have huge results.
-= 蝴蝶效应是说极小的改变可能造成巨大结果。
+② A rounding error in the third decimal produced the butterfly effect he described.
+= 小数点后第三位的一个舍入误差，就造出了他描述的那种蝴蝶效应。
 the butterfly effect = 蝴蝶效应
-③ People invoke the butterfly effect far beyond science.
-= 这个说法早被用到科学之外。
+③ People invoke the butterfly effect far beyond anything to do with weather.
+= 人们把这个说法用到了跟天气毫不相干的地方。
 invoke = 搬出（某个说法）
 构词：butterfly 蝴蝶 + effect 效应
 注意用法：今天泛指"小事引发大后果"。
@@ -368,12 +368,12 @@ butterscotch
 凝出琥珀色、带浓郁焦糖奶香的硬糖，也做成酱浇在甜点上。
 它跟 caramel 的分别在糖：butterscotch 用红糖，
 caramel 用白糖，所以前者味道更厚更带糖蜜香。不可数。
-① The sauce is butterscotch.
-= 那道酱是奶油糖酱。
-② Butterscotch uses brown sugar.
-= 奶油糖用的是红糖。
-③ She sucked a butterscotch.
-= 她含着一颗奶油硬糖。
+① The sauce is butterscotch and sets hard on cold ice cream.
+= 那道酱是奶油糖酱，浇在冷冰淇淋上会凝硬。
+② Butterscotch uses brown sugar, which is where the depth comes from.
+= 奶油糖用的是红糖，那股厚味就是这么来的。
+③ She sucked a butterscotch all the way through the second act.
+= 整个第二幕她都含着一颗奶油硬糖。
 suck = 含着吮
 构词：butter 黄油 + scotch 划刻（指切块）
 注意别混：
@@ -385,14 +385,14 @@ buttery
 也说声音圆润顺滑，a buttery voice 是那种听着舒服的低音。
 英式另有个名词：某些大学和公学里的小卖部或供餐处，
 今天只在少数老学校里还这么叫。
-① The pastry is rich and buttery.
-= 那个酥皮又香又润。
+① The pastry is rich and buttery and shatters when you pick it up.
+= 那个酥皮又香又润，一拿起来就碎。
 buttery = 黄油味浓的
-② He has a buttery voice.
-= 他嗓音圆润顺滑。
+② He has a buttery voice that sells whatever he is reading.
+= 他嗓音圆润顺滑，念什么都像在推销。
 a buttery voice = 圆润顺滑的嗓音
-③ Students queue at the buttery.
-= 学生在小卖部排队。
+③ Students queue at the buttery from half past twelve.
+= 学生从十二点半开始在小卖部排队。
 the buttery = 学院的供餐处（英式）
 构词：butter 黄油 + -y
 注意用法：学院小卖部那一支只在少数老学校用。
@@ -453,14 +453,14 @@ buttonhole
 跟 boutonnière 说的是同一样东西。三是个很形象的动词：
 拉住某人不放地跟他说话——画面正是揪着人家的扣眼不让走。
 可数。
-① The buttonhole is fraying.
-= 那个扣眼开线了。
+① The buttonhole is fraying and the button comes through on its own.
+= 那个扣眼开了线，扣子自己就滑出来。
 fray = 磨损开线
-② He wore a carnation in his buttonhole.
-= 他翻领上别着一朵康乃馨。
+② He wore a carnation in his buttonhole and a tie he had borrowed.
+= 他翻领上别着一朵康乃馨，领带是借的。
 a buttonhole = 翻领上的胸花（英式）
-③ She buttonholed him in the corridor.
-= 她在走廊里拦住他非说不可。
+③ She buttonholed him in the corridor and got an answer in one minute.
+= 她在走廊里拦住他，一分钟就问出了答案。
 buttonhole someone = 拉住某人说话
 构词：button 纽扣 + hole 孔
 注意来历：动词义的画面是揪着人扣眼不放。
@@ -471,14 +471,14 @@ buttress
 flying buttress。动词是它的比喻义，用得也多：
 支撑、加固某个说法或体系——buttress an argument 是
 给论点添支撑。可数。
-① Stone buttresses support the wall.
-= 石扶壁撑着那面墙。
+① Stone buttresses support the wall where the ground has shifted.
+= 地基移过位的地方，石扶壁撑着那面墙。
 support = 支撑
-② The cathedral has flying buttresses.
-= 那座主教座堂有飞扶壁。
+② The cathedral has flying buttresses added two centuries after the nave.
+= 那座主教座堂的飞扶壁是中殿建成两百年后加的。
 a flying buttress = 飞扶壁（隔空跨出的支撑）
-③ New data buttressed his case.
-= 新数据给他的论证添了支撑。
+③ New data buttressed his case just as the hearing opened.
+= 听证一开始，新数据就给他的论证添了支撑。
 buttress an argument = 加固论点
 构词：古法语 bouterez 支撑物
 注意别混：

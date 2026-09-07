@@ -262,13 +262,13 @@ businesslike
 核心：形容词，干练务实的——只谈正事、不寒暄、效率高。
 它是褒义的，但常带一层言外之意：这人不好亲近。
 说 in a businesslike manner 是"公事公办地"。
-① Her approach is businesslike.
-= 她做事很务实干练。
-② He dealt with it in a businesslike way.
-= 他公事公办地处理了。
+① Her approach is businesslike and leaves no room for small talk.
+= 她做事务实干练，不留一点闲聊的余地。
+② He dealt with it in a businesslike way that upset half the family.
+= 他公事公办地处理了，惹恼了家里一半人。
 in a businesslike way = 公事公办地
-③ The meeting was short and businesslike.
-= 那场会又短又干脆。
+③ The meeting was short and businesslike and ended before the coffee came.
+= 那场会又短又干脆，咖啡还没上就散了。
 构词：business 事务 + -like
 注意语用：褒义，但常暗示不好亲近。
 
@@ -318,14 +318,14 @@ busk
 核心：在街头或地铁里表演换取路人打赏——唱歌、拉琴、变戏法
 都算。它跟乞讨分得清楚：busk 是拿表演换钱，
 不是单纯要钱。不及物，多说 busk in、busk on。
-① He busks on the high street.
-= 他在主街上卖艺。
+① He busks on the high street every Saturday until the shops shut.
+= 每个周六他都在主街上卖艺，一直到商店打烊。
 busk on = 在某处街头卖艺
-② She busked her way round Europe.
-= 她一路卖艺游遍了欧洲。
+② She busked her way round Europe on one violin and two songs.
+= 她靠一把小提琴、两首曲子，一路卖艺游遍欧洲。
 busk your way = 靠卖艺一路走下去
-③ Busking needs a licence there.
-= 那里街头卖艺要执照。
+③ Busking needs a licence there and the pitches are drawn by lot.
+= 那里街头卖艺要执照，摊位靠抽签定。
 a licence = 执照
 构词：西班牙语 buscar 寻找
 注意别混：
@@ -336,13 +336,13 @@ busker
 核心：街头艺人——在街头地铁广场表演换打赏的人。
 在伦敦这类城市里，地铁站的表演位置要经过甄选和发牌，
 所以 licensed busker 是正式说法。可数。
-① A busker played by the station.
-= 一名街头艺人在车站旁演奏。
-② Buskers must hold a licence.
-= 街头艺人须持执照。
+① A busker played by the station entrance for the evening rush.
+= 一名街头艺人在车站入口旁为晚高峰演奏。
+② Buskers must hold a licence and audition for the best pitches.
+= 街头艺人须持执照，好位置还要试演竞争。
 hold a licence = 持有执照
-③ She dropped a coin in the busker's case.
-= 她往艺人的琴盒里丢了枚硬币。
+③ She dropped a coin in the busker's case without breaking step.
+= 她脚步没停，往艺人的琴盒里丢了枚硬币。
 构词：busk 街头卖艺 + -er
 词族：
 busking = 街头卖艺
@@ -352,13 +352,13 @@ buskin
 垫高身形好让远处看得见。因为这个用途，
 buskin 后来被拿来代指悲剧本身，跟代指喜剧的 sock 成对——
 读旧文学评论会碰到这个用法。可数。
-① Tragic actors wore the buskin.
-= 悲剧演员穿这种厚底靴。
+① Tragic actors wore the buskin and moved slowly because of it.
+= 悲剧演员穿这种厚底靴，也因此走得很慢。
 ② The thick sole of the buskin raised the actor above the chorus.
 = 厚底靴把演员垫得高过歌队。
 the thick sole = 厚鞋底
-③ The buskin came to stand for tragedy itself.
-= 这种靴子后来成了悲剧的代称。
+③ In old criticism the buskin stands for tragedy and the sock for comedy.
+= 旧文论里，厚底靴代表悲剧，薄底鞋代表喜剧。
 stand for = 代表、象征
 构词：可能来自古法语 bousequin
 注意用法：在旧文论里代指悲剧，
@@ -368,14 +368,14 @@ busload
 核心：一车人或一车东西，指一辆公交或大巴装得下的量。
 它常用来说成群到来的人：a busload of tourists 是一车游客。
 复数 busloads 用来夸张地说"一车一车的"。可数。
-① A busload of tourists arrived.
-= 一车游客到了。
+① A busload of tourists arrived and the café ran out of cups.
+= 一车游客到了，咖啡馆的杯子都不够用。
 a busload of = 一车的
-② Busloads of fans came down.
-= 一车车的球迷赶了过来。
+② Busloads of fans came down for a match that was called off.
+= 一车车的球迷赶了过来，比赛却取消了。
 busloads of = 一车车的（夸张）
-③ The trip took two busloads.
-= 那趟出行装了两车人。
+③ The trip took two busloads and one car for the luggage.
+= 那趟出行装了两车人，行李另用一辆车。
 构词：bus 大巴 + load 载量
 词族：
 carload = 一车（小汽车）的量
@@ -443,14 +443,14 @@ buster
 跟 bub 一路。二是作构词成分，接在名词后面表示"专门对付……的
 人或东西"：ghostbuster 是捉鬼的，crime-buster 是打击犯罪的，
 myth-buster 是破除谬见的。可数。
-① Watch it, buster.
-= 你小心点。
+① Watch it, buster, that is the third time you have said that.
+= 你小心点，老兄，这话你说第三遍了。
 buster = 老兄（美式，带不客气）
-② The film is about ghostbusters.
-= 那部片子讲的是捉鬼的人。
+② The film is about ghostbusters who run a business out of a firehouse.
+= 那部片子讲的是一伙在消防站里开公司的捉鬼人。
 -buster = 专门对付某物的人或东西
-③ They call him a crime-buster.
-= 他们叫他打击犯罪的能手。
+③ They call him a crime-buster and he hates the word.
+= 他们叫他打击犯罪的能手，他很烦这个说法。
 构词：bust 打破 + -er
 注意语用：当称呼时带不客气。
 
@@ -472,14 +472,14 @@ bustle
 动词是急匆匆地走动，bustle about 是忙里忙外。
 另有一支是服装史上的名词：十九世纪女裙后腰下垫起来的
 那个撑架。可数不可数都行。
-① She loves the bustle of the market.
-= 她喜欢集市上那股热闹劲。
+① She loves the bustle of the market on the first Saturday of the month.
+= 她喜欢每月头一个周六集市上那股热闹劲。
 the bustle of = 某处的熙攘热闹
-② He bustled about the kitchen.
-= 他在厨房里忙前忙后。
+② He bustled about the office moving papers from pile to pile.
+= 他在办公室里忙前忙后，把文件从这摞挪到那摞。
 bustle about = 忙碌地走来走去
-③ The dress has a bustle at the back.
-= 那条裙子后面有个撑架。
+③ The dress has a bustle at the back and will not fit through the door.
+= 那条裙子后面有个撑架，从门里过不去。
 a bustle = 裙撑（历史服饰）
 构词：可能来自古诺斯语 buask 准备
 注意用法：多说 the hustle and bustle。
@@ -488,13 +488,13 @@ bustling
 核心：形容词，熙熙攘攘、热闹忙碌的。它是褒义偏中性的：
 形容市场、街道、城市人多有生气，不是嫌吵。
 最常见的搭配是 a bustling market 和 a bustling city。
-① They walked through a bustling market.
-= 他们穿过熙熙攘攘的集市。
+① They walked through a bustling market where nothing had a price on it.
+= 他们穿过熙熙攘攘的集市，什么东西都不标价。
 a bustling market = 热闹的集市
-② The port was bustling with traders.
-= 港口挤满了做买卖的人。
+② The port was bustling with traders from four countries.
+= 港口挤满了来自四个国家的商人。
 be bustling with = 挤满、充满
-③ It is a bustling little town.
-= 那是个热闹的小镇。
+③ It is a bustling little town with three banks and no bookshop.
+= 那是个热闹的小镇，有三家银行，一家书店也没有。
 构词：bustle 忙碌 + -ing
 注意语用：褒义偏中性，不是嫌吵。
