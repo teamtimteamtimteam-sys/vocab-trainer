@@ -53,11 +53,11 @@ Boolean
 核心：布尔的：只取真假两个值的那一套逻辑与运算，由数学家布尔奠定。
 编程里的布尔型变量、检索里的与或非条件都用这个词。多作定语，
 首字母常大写，小写的 boolean 在代码里更常见。
-① The function returns a Boolean value.
-= 那个函数返回一个布尔值。
+① The function returns a Boolean value and nothing else.
+= 那个函数只返回一个布尔值，别的什么都不返回。
 a Boolean value = 布尔值（真或假）
-② Boolean logic underlies every digital circuit.
-= 布尔逻辑是一切数字电路的底子。
+② Boolean logic underlies every digital circuit in the building.
+= 这栋楼里每一个数字电路，底子都是布尔逻辑。
 Boolean logic = 布尔逻辑
 构词：数学家 George Boole 的姓加 -an
 注意拼写：代码里多写小写 boolean，散文里多大写。
