@@ -4153,14 +4153,14 @@ a conspiracy theorist = 阴谋论者
 conspire
 核心：两支。一是密谋：几个人私下商定干坏事，介词用 with，
 后面接不定式；二是拟人的「凑到一起作对」，主语是事情。
-① They conspired to overthrow the king.
-= 他们密谋推翻国王。
+① They conspired to overthrow the king and were betrayed by a servant.
+= 他们密谋推翻国王，被一个仆人告发了。
 conspire to do = 密谋做某事
-② She conspired with her brother.
-= 她跟她哥哥串通。
+② She conspired with her brother to keep the sale from their mother.
+= 她跟她哥哥串通，把卖房的事瞒着母亲。
 conspire with = 与……串通
-③ Everything conspired against us that day.
-= 那天什么都跟我们作对。
+③ Fog, ice and a burst pipe conspired against us that morning.
+= 那天早上大雾、结冰加上爆管，全跟我们作对。
 conspire against = 凑到一起跟……作对
 构词：拉丁语 conspirare 一同呼吸、同心
 注意用法：第二支主语是事物，是拟人说法。
@@ -4212,14 +4212,14 @@ constancy = 恒定；忠贞
 constative
 核心：语言哲学术语：陈述性的。奥斯汀把话语分成两类，
 这一类描述事实、可判真假，跟施为性的那一类相对。
-① Austin contrasted constative and performative utterances.
-= 奥斯汀把陈述性话语跟施为性话语对立起来。
+① Austin set constative utterances against the ones that do something.
+= 奥斯汀把陈述性话语跟那些「说了就做成」的话语对立起来。
 a constative utterance = 陈述性话语
-② A constative statement can be true or false.
-= 陈述性的话可以判真假。
+② A constative statement can be checked against the world and found false.
+= 陈述性的话可以拿去跟事实核对，也可能被判为假。
 constative = 陈述性的
-③ Later he doubted the constative distinction.
-= 后来他自己也怀疑那个划分。
+③ Later he doubted the constative distinction and dropped it altogether.
+= 后来他自己也怀疑那个划分，索性不用了。
 the constative distinction = 陈述与施为的划分
 构词：拉丁语 constare 确定、陈述
 注意语域：语言哲学术语。
@@ -4248,14 +4248,14 @@ consternation
 核心：惊愕沮丧：突然出事，让人又惊又慌、不知如何是好。
 常说 to somebody's consternation、in consternation。
 不可数，偏正式。
-① The news caused general consternation.
-= 那个消息让大家一片惊愕。
+① The news caused general consternation and three people walked out.
+= 那个消息让大家一片惊愕，有三个人当场走了。
 cause consternation = 引起惊愕
-② To his consternation, the door was locked.
-= 让他傻眼的是，门锁着。
+② To his consternation, the door was locked and the key was inside.
+= 让他傻眼的是，门锁着，钥匙在里面。
 to somebody's consternation = 让某人惊愕的是
-③ She stared in consternation.
-= 她惊愕地瞪着。
+③ She stared in consternation at a bill for four thousand pounds.
+= 她惊愕地瞪着一张四千镑的账单。
 in consternation = 惊愕地
 构词：拉丁语 consternare 使惊倒
 注意语域：偏正式。
@@ -4263,14 +4263,14 @@ in consternation = 惊愕地
 constipation
 核心：便秘：大便干结排不出来。形容词 constipated 说人便秘，
 也引申地说文字或音乐憋着放不开，带贬义。不可数。
-① Fibre helps prevent constipation.
-= 纤维有助于防便秘。
+① Fibre helps prevent constipation better than any of the tablets.
+= 防便秘，纤维比哪种药片都管用。
 prevent constipation = 预防便秘
-② She has been constipated for days.
-= 她便秘好几天了。
+② She has been constipated for days and blames the long flight.
+= 她便秘好几天了，怪那趟长途飞行。
 be constipated = 便秘
-③ His prose is oddly constipated.
-= 他的文字憋得慌。
+③ His prose is oddly constipated for a man who talks so freely.
+= 一个说话那么随意的人，文字却憋得慌。
 constipated = 拘谨放不开的（引申）
 构词：拉丁语 constipare 塞紧
 注意用法：引申义带贬义。
@@ -4367,14 +4367,14 @@ constitutive
 核心：正式词：起构成作用的，指某样东西是另一样的必要
 组成，少了就不成立，介词用 of。生物学里另有一支：基因
 组成型表达的，指一直开着不受调控。
-① Trust is constitutive of friendship.
-= 信任是友谊的构成要素。
+① Trust is constitutive of friendship; without it the word means nothing.
+= 信任是友谊的构成要素，没有它这个词就没意义了。
 constitutive of = 构成……的必要成分
-② Language is constitutive, not merely descriptive.
-= 语言是起构成作用的，不只是描述。
+② Language is constitutive, not merely descriptive, of how we see things.
+= 语言对我们怎么看事物起构成作用，不只是描述。
 constitutive = 起构成作用的
-③ The gene is constitutively expressed.
-= 那个基因是组成型表达的。
+③ The gene is constitutively expressed and never switches off.
+= 那个基因是组成型表达的，从不关闭。
 constitutively expressed = 组成型表达的
 构词：constitute 构成 + -ive
 注意语域：哲学与生物学用词。
@@ -4481,14 +4481,14 @@ constructively = 有建设性地
 construe
 核心：理解、解释：把话或行为往某个意思上解，多用被动，
 介词用 as。法律上指对条文作解释。
-① Her silence was construed as agreement.
-= 她的沉默被理解成同意。
+① Her silence was construed as agreement by everyone in the room.
+= 屋里的人都把她的沉默理解成了同意。
 be construed as = 被理解为
-② Do not construe this as criticism.
-= 别把这话当成批评。
+② Do not construe this as criticism of anyone still working here.
+= 别把这话理解成对还在这儿做事的人的批评。
 construe as = 把……理解为
-③ The clause must be construed narrowly.
-= 那个条款必须作狭义解释。
+③ The clause must be construed narrowly against the party who wrote it.
+= 那个条款必须作狭义解释，且不利于起草方。
 be construed narrowly = 作狭义解释
 构词：拉丁语 construere 堆到一起
 注意搭配：多用被动，介词用 as。
@@ -4780,14 +4780,14 @@ a contemplative order = 默观修会
 contemporaneous
 核心：同期发生的：两件事落在同一段时间里，正式词，多用在
 史学与法律里，介词用 with。副词 contemporaneously。
-① The two revolts were contemporaneous.
-= 那两场起事是同一时期的。
+① The two revolts were contemporaneous and neither side knew it.
+= 那两场起事是同一时期的，双方都不知道。
 contemporaneous = 同期发生的
-② The letter is contemporaneous with the treaty.
-= 那封信跟条约同期。
+② The letter is contemporaneous with the treaty and contradicts it.
+= 那封信跟条约同期，内容却跟条约相反。
 contemporaneous with = 与……同期
-③ The notes were made contemporaneously.
-= 那些笔记是当场同步记的。
+③ The notes were made contemporaneously and carry more weight for it.
+= 那些笔记是当场同步记的，分量因此重些。
 contemporaneously = 同期地、当场地
 构词：con- 共 + tempus 时间
 注意分工：这个只说时间同期，不说「当代的」。
@@ -5051,14 +5051,14 @@ continual
 核心：一再发生的：隔一阵来一次，中间有停顿，多带厌烦
 意味。副词 continually。跟 continuous 的分工是这一对最
 要紧的地方：这个是断断续续反复来，那个是一刻不停。
-① Continual interruptions ruined the morning.
-= 一次次打断把整个上午毁了。
+① Continual interruptions ruined the morning and nothing got signed.
+= 一次次打断把整个上午毁了，什么都没签成。
 continual interruptions = 没完没了的打断
-② She was continually late.
-= 她老是迟到。
+② She was continually late and always by the same eight minutes.
+= 她老是迟到，而且总是晚那八分钟。
 continually = 一再地
-③ Continual rain kept them indoors.
-= 时下时停的雨让他们出不了门。
+③ Continual rain kept them indoors for the whole of the holiday.
+= 时下时停的雨让他们整个假期都出不了门。
 continual rain = 时下时停的雨
 构词：continue 继续 + -al
 注意分工：这个是反复来，continuous 是一刻不停。
@@ -5091,14 +5091,14 @@ continuity
 核心：三支。一是连贯性：前后接得上不断层；二是影视里的
 场景衔接，a continuity error 是穿帮；三是广播电视里串场
 的话。
-① The change threatens continuity of care.
-= 那个变动会打断照护的连贯性。
+① The change threatens continuity of care for the oldest patients.
+= 那个变动会打断最年长病人的照护连贯性。
 continuity of care = 照护的连贯性
-② Viewers spotted a continuity error.
-= 观众看出了一处穿帮。
+② Viewers spotted a continuity error: the glass refills between shots.
+= 观众看出一处穿帮：两个镜头之间杯子自己满了。
 a continuity error = 场景衔接的穿帮
-③ There is continuity between the two periods.
-= 那两个时期之间是接得上的。
+③ There is more continuity between the two periods than the labels suggest.
+= 那两个时期之间的连贯，比分期的名目所显示的要多。
 continuity between = ……之间的连贯
 构词：continuous 连续的 + -ity
 注意用法：说影视穿帮时可数。
@@ -5106,14 +5106,14 @@ continuity between = ……之间的连贯
 continuo
 核心：通奏低音：巴洛克音乐里由大键琴、管风琴或大提琴一路
 托着的低音声部，全写是 basso continuo。不可数。
-① The harpsichord plays continuo.
-= 大键琴担任通奏低音。
+① The harpsichord plays continuo and holds the whole thing together.
+= 大键琴担任通奏低音，把整首曲子拢住。
 play continuo = 弹通奏低音
-② A cello doubles the continuo line.
-= 一把大提琴给通奏低音声部加倍。
+② A cello doubles the continuo line an octave below the keyboard.
+= 一把大提琴在键盘下方低八度给通奏低音加倍。
 the continuo line = 通奏低音声部
-③ The full term is basso continuo.
-= 全写是那个意大利语词组。
+③ Nothing is written out: the continuo player reads the figures and invents the rest.
+= 谱上什么都没写全，弹通奏低音的人看着数字自己编。
 basso continuo = 通奏低音（全写）
 构词：意大利语 continuo 连续不断的
 注意语域：巴洛克音乐术语。
@@ -5185,14 +5185,14 @@ a contour map = 等高线地图
 contraband
 核心：走私货：法律禁止进出口的东西，也指走私这件事。战时
 另指禁运物资。不可数，也作定语。
-① Customs seized the contraband.
-= 海关扣了那批走私货。
+① Customs seized the contraband and left the rest of the load alone.
+= 海关扣了那批走私货，其余的货没动。
 contraband = 走私货
-② He was caught smuggling contraband cigarettes.
-= 他走私香烟被抓了。
+② He was caught smuggling contraband cigarettes in a coach's fuel tank.
+= 他把走私香烟藏在大巴油箱里，被抓了。
 contraband cigarettes = 走私香烟
-③ Contraband of war includes weapons and fuel.
-= 战时禁运物资包括武器和燃料。
+③ Contraband of war includes fuel, which is why the tankers turned back.
+= 战时禁运物资包括燃料，那些油轮就是为此掉头的。
 contraband of war = 战时禁运物资
 构词：意大利语 contrabbando 违禁买卖
 注意用法：不可数，也作定语。
@@ -5200,14 +5200,14 @@ contraband of war = 战时禁运物资
 contrabass
 核心：低音提琴那一档：加在乐器名前表示比通常低八度，
 contrabassoon 是低音巴松。也直接指低音提琴。可数。
-① The contrabass anchors the section.
-= 低音提琴给整个声部压底。
+① The contrabass anchors the section and is heard only when it stops.
+= 低音提琴给整个声部压底，停下来才听得出它在。
 a contrabass = 低音提琴
-② A contrabassoon growls under the strings.
-= 低音巴松在弦乐底下低吼。
+② A contrabassoon growls under the strings in the last movement.
+= 末乐章里，低音巴松在弦乐底下低吼。
 a contrabassoon = 低音巴松
-③ Contrabass instruments sound an octave lower.
-= 冠这个词的乐器要低八度。
+③ Three contrabass instruments sit at the back and one of them is on wheels.
+= 三件低八度的乐器摆在后排，其中一件装了轮子。
 a contrabass instrument = 低八度的乐器
 构词：意大利语 contrabbasso 低于低音的
 注意用法：常作定语，加在乐器名前。
@@ -5309,14 +5309,14 @@ in contradistinction to = 与……相对照
 contrafactive
 核心：语言学术语：反事实性的。有些动词后面的从句被说话人
 当成假的，pretend 就是典型，跟 factive 事实性的相对。
-① Pretend is a contrafactive verb.
-= 那个动词是反事实动词。
+① The verb 「pretend」 is contrafactive: whatever follows it did not happen.
+= 「pretend」是反事实动词，它后面说的事并没有发生。
 a contrafactive verb = 反事实动词
-② A contrafactive predicate marks the clause as false.
-= 反事实谓词把从句标成假的。
+② A contrafactive predicate marks the clause after it as false.
+= 反事实谓词把它后面的从句标成假的。
 a contrafactive predicate = 反事实谓词
-③ Contrafactive readings depend on the main verb.
-= 反事实的读法取决于主句动词。
+③ The contrafactive reading disappears if you change the main verb.
+= 换掉主句动词，那种反事实的读法就没了。
 a contrafactive reading = 反事实的读法
 构词：contra- 反 + factive 事实性的
 注意语域：语言学术语。
@@ -5324,14 +5324,14 @@ a contrafactive reading = 反事实的读法
 contraflow
 核心：英式路政用词：对向借道通行——路的一侧封了，把双向
 车流并到另一侧走，路上会立牌写这个词。可数不可数都行。
-① A contraflow is in place for six miles.
-= 有六英里路段实行对向借道。
+① A contraflow is in place for six miles and adds an hour at teatime.
+= 有六英里路段实行对向借道，傍晚要多堵一小时。
 a contraflow = 对向借道通行
-② Contraflow systems slow everything down.
-= 借道通行会把车速全压下来。
+② Contraflow systems slow everything down and are safer for the crews.
+= 借道通行会把车速全压下来，对施工人员却更安全。
 a contraflow system = 借道通行的安排
-③ Follow the contraflow signs.
-= 按借道指示牌走。
+③ Follow the contraflow signs and stay out of the outside lane.
+= 按借道指示牌走，别占最外侧车道。
 contraflow signs = 借道指示牌
 构词：contra- 反 + flow 流
 注意语域：英式路政用词。
@@ -5339,14 +5339,14 @@ contraflow signs = 借道指示牌
 contrail
 核心：凝结尾迹：飞机高空飞过留下的那条白线，是尾气里的
 水汽遇冷凝成的冰晶。可数，多用复数。
-① Contrails crossed the evening sky.
-= 几道凝结尾迹划过傍晚的天。
+① Contrails crossed the evening sky in four straight lines.
+= 四道笔直的凝结尾迹划过傍晚的天。
 a contrail = 凝结尾迹
-② The contrail spread into thin cloud.
-= 那道尾迹散成了薄云。
+② The contrail spread into thin cloud within twenty minutes.
+= 二十分钟内，那道尾迹散成了薄云。
 spread into cloud = 散成云
-③ Contrails form only in cold, moist air.
-= 只有又冷又湿的空气里才结得出尾迹。
+③ Contrails form only in cold, moist air, so a clear trail means rain later.
+= 只有又冷又湿的空气里才结得出尾迹，尾迹清晰就说明后头有雨。
 form a contrail = 形成尾迹
 构词：由「凝结尾迹」那个词组缩合而成
 注意用法：可数，多用复数。
@@ -5354,14 +5354,14 @@ form a contrail = 形成尾迹
 contraindicate
 核心：医学用词：某个情况使某种治疗或药物不宜使用。多用
 被动。名词 contraindication 指禁忌症。
-① Aspirin is contraindicated in children.
-= 儿童禁用阿司匹林。
+① Aspirin is contraindicated in children because of a rare liver syndrome.
+= 因为一种罕见的肝脏综合征，儿童禁用阿司匹林。
 be contraindicated in = 在……身上禁用
-② Pregnancy contraindicates this drug.
-= 怀孕是这种药的禁忌。
+② Pregnancy contraindicates this drug at every dose.
+= 无论多大剂量，怀孕都是这种药的禁忌。
 contraindicate = 使不宜使用
-③ Check for contraindications first.
-= 先查禁忌症。
+③ Check for contraindications first; the list is on the second page.
+= 先查禁忌症，清单在第二页。
 a contraindication = 禁忌症
 构词：contra- 反 + indicate 指征
 注意用法：多用被动。
@@ -5369,14 +5369,14 @@ a contraindication = 禁忌症
 contralto
 核心：女低音：女声里最低的那一档，比女中音还低；也指唱
 这个声部的人。复数 contraltos。可数。
-① She sings contralto.
-= 她唱女低音。
+① She sings contralto and can reach notes the tenors envy.
+= 她唱女低音，能唱到男高音羡慕的音。
 sing contralto = 唱女低音声部
-② The contralto took the solo.
-= 女低音歌手唱了独唱。
+② The contralto took the solo and the church went completely quiet.
+= 女低音歌手唱起独唱，教堂里静得没有一点声音。
 a contralto = 女低音歌手
-③ A true contralto is rare.
-= 真正的女低音很少见。
+③ A true contralto is rare enough that choirs advertise for one.
+= 真正的女低音少见到合唱团要登广告去找。
 a true contralto = 真正的女低音
 构词：意大利语 contralto 高音之下的
 注意用法：既指声部也指人。
@@ -5384,14 +5384,14 @@ a true contralto = 真正的女低音
 contraption
 核心：装置、玩意儿：造得古怪、看着不牢靠的机器。说的时候
 多带打趣或怀疑。可数，口语。
-① He built a contraption out of bicycle parts.
-= 他拿自行车零件攒了个古怪玩意儿。
+① He built a contraption out of bicycle parts to open the gate.
+= 他拿自行车零件攒了个古怪玩意儿来开大门。
 a contraption = 古怪的装置
-② The contraption actually worked.
-= 那玩意儿居然管用。
+② The contraption actually worked and is still in the shed.
+= 那玩意儿居然管用，现在还在棚子里。
 a contraption = 看着不牢靠的机器
-③ What is that contraption in the corner?
-= 角落里那玩意儿是什么？
+③ What is that contraption in the corner with the wires coming out?
+= 角落里那个伸出一堆线的玩意儿是什么？
 that contraption = 那个玩意儿
 构词：大概是「巧计」与「陷阱」两个词混出来的
 注意语气：口语，带打趣或怀疑。
@@ -5400,14 +5400,14 @@ contrapuntal
 核心：对位的：几条旋律各自独立又同时进行，那种写法的
 形容词。也引申说小说与电影里几条线并行。副词
 contrapuntally。名词形式是 counterpoint。
-① The fugue is strictly contrapuntal.
-= 那首赋格是严格的对位写法。
+① The fugue is strictly contrapuntal and never lets a voice rest.
+= 那首赋格是严格的对位写法，没有哪个声部歇得下来。
 contrapuntal = 对位的
-② Two voices move contrapuntally.
-= 两个声部按对位法各自进行。
+② Two voices move contrapuntally and cross over twice in eight bars.
+= 两个声部按对位法各自进行，八小节里交叉了两次。
 contrapuntally = 按对位法地
-③ The novel has a contrapuntal structure.
-= 那部小说是几条线并行的结构。
+③ The novel has a contrapuntal structure with two narrators forty years apart.
+= 那部小说是并行结构，两位叙述者相隔四十年。
 a contrapuntal structure = 几条线并行的结构
 构词：意大利语 contrappunto 对位
 注意用法：名词形式是 counterpoint。
@@ -5415,14 +5415,14 @@ a contrapuntal structure = 几条线并行的结构
 contrarian
 核心：唱反调的人：市场与舆论一边倒的时候偏往另一边站，
 投资界尤其常用。也作形容词。可数。
-① He is a contrarian by instinct.
-= 他天生爱唱反调。
+① He is a contrarian by instinct and argues both sides in one evening.
+= 他天生爱唱反调，一个晚上能把正反两边都辩一遍。
 a contrarian = 唱反调的人
-② Contrarian investors buy when others sell.
-= 逆向投资者在别人卖的时候买。
+② Contrarian investors buy when others sell and wait out the noise.
+= 逆向投资者在别人卖的时候买，然后熬过那阵嘈杂。
 a contrarian investor = 逆向投资者
-③ She took a contrarian view.
-= 她持逆着大流的看法。
+③ She took a contrarian view and was proved right four years later.
+= 她持逆着大流的看法，四年后被证明是对的。
 a contrarian view = 逆着大流的看法
 构词：contrary 相反 + -an
 注意语域：投资与评论里常见。
