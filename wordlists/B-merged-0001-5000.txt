@@ -49804,28 +49804,28 @@ biomechanical = 生物力学的
 biomedical
 核心：形容词，指把生物学的方法用到医学问题上。常用搭配就三个：
 biomedical research、biomedical engineering、biomedical science。
-① He works in biomedical research.
-= 他做生物医学研究。
+① He works in biomedical research on a grant that runs out in June.
+= 他做生物医学研究，经费六月到期。
 biomedical research = 生物医学研究
-② Biomedical engineering designs implants.
-= 生物医学工程设计植入物。
+② Biomedical engineering designs implants that must last thirty years inside the body.
+= 生物医学工程设计的植入物，要在体内撑三十年。
 biomedical engineering = 生物医学工程
 跟 bioengineering 的医学那一支说的是同一件事。
-③ The grant funds biomedical science.
-= 那笔经费资助生物医学。
+③ The grant funds biomedical science across four hospitals and one university.
+= 那笔经费资助四家医院和一所大学的生物医学研究。
 构词：bio- 生物 + medical 医学的
 
 biometric
 核心：形容词，也作名词，指靠身体特征认人——指纹、虹膜、面容、声纹。
 作名词时多用复数 biometrics。
-① The phone uses biometric data.
-= 那部手机用生物特征数据。
+① The phone uses biometric data that never leaves the handset.
+= 那部手机用生物特征数据，数据不出机身。
 biometric data = 生物特征数据
-② Biometric passports store a fingerprint.
-= 生物特征护照里存着指纹。
+② Biometric passports store a fingerprint and a facial image on a chip.
+= 生物特征护照的芯片里存着指纹和面部图像。
 biometric passport = 生物特征护照
-③ Airports have rolled out biometrics.
-= 机场已经铺开了生物特征识别。
+③ Airports have rolled out biometrics and cut the queue at passport control.
+= 机场铺开了生物特征识别，边检的队伍短了。
 biometrics = 生物特征识别（名词，多用复数）
 构词：bio- 生物 + metric 测量的
 
@@ -49833,15 +49833,15 @@ bionic
 核心：形容词，两支。一是用电子机械替代或增强身体机能的，
 bionic arm 就是这一支；二是口语里夸张地说"超人一般的"，
 从上世纪的电视剧传开。
-① He has a bionic hand.
-= 他装了一只仿生手。
+① He has a bionic hand that grips hard enough to hold an egg.
+= 他装了一只仿生手，握力刚好能拿稳一个鸡蛋。
 bionic hand = 仿生手
 技术那一支。
-② Bionic limbs respond to nerve signals.
-= 仿生肢体能对神经信号作出反应。
+② Bionic limbs respond to nerve signals picked up from the remaining muscle.
+= 仿生肢体靠残余肌肉传出的神经信号作出反应。
 bionic limb = 仿生肢体
-③ She seems to have bionic hearing.
-= 她的听力简直是超人。
+③ She seems to have bionic hearing and catches every whisper across the room.
+= 她的听力简直是超人，房间那头的耳语都听得见。
 夸张那一支，口语，带玩笑口气。
 构词：bio- 生物 + -onic（仿 electronic）
 词族：
@@ -49850,13 +49850,13 @@ bionics = 仿生学
 biophysics
 核心：用物理学的方法研究生命现象——蛋白质怎么折叠、离子怎么过膜、
 神经怎么导电。形式上是复数，当单数用。
-① Biophysics studies protein folding.
-= 生物物理学研究蛋白质折叠。
+① Biophysics studies protein folding, a problem that took decades to crack.
+= 生物物理学研究蛋白质折叠，这个难题攻了几十年。
 形式复数，谓语用单数。
-② She lectures in biophysics.
-= 她教生物物理学。
-③ Biophysics bridges physics and biology.
-= 生物物理学把物理和生物连起来。
+② She lectures in biophysics and runs the imaging lab as well.
+= 她教生物物理学，还管着成像实验室。
+③ Biophysics bridges physics and biology and borrows its instruments from both.
+= 生物物理学把物理和生物连起来，仪器两边都借。
 构词：bio- 生物 + physics 物理学
 词族：
 biophysicist = 生物物理学家
@@ -49864,13 +49864,13 @@ biophysicist = 生物物理学家
 biopic
 核心：传记片，讲真人一生的电影。构词是 biographical picture 掐头
 去尾拼成的，所以按 bio 加 pic 切，不是 bi 加 optic。可数。
-① The biopic won three awards.
-= 那部传记片拿了三个奖。
-② They filmed a biopic of the singer.
-= 他们拍了一部那位歌手的传记片。
+① The biopic won three awards and was disowned by the family it portrayed.
+= 那部传记片拿了三个奖，却被片中人的家属公开撇清。
+② They filmed a biopic of the singer in the town where she grew up.
+= 他们在那位歌手长大的镇上拍了一部她的传记片。
 a biopic of = 某人的传记片
-③ Biopics often compress the timeline.
-= 传记片常把时间线压缩。
+③ Biopics often compress the timeline and put two years into one scene.
+= 传记片常把时间线压缩，两年的事挤进一场戏。
 构词：biographical 传记的 + picture 影片
 近义对照：
 biopic = 传记片（虚构演绎）
@@ -49880,13 +49880,13 @@ biopsy
 核心：从活体上取一小块组织拿去化验，多用来确认是不是癌。构词是
 bio-（活的）加 -opsy（看），"看活的"；跟 autopsy（尸检，"亲眼看"）
 正好配成一对。可数，也作动词。
-① The biopsy showed no cancer.
-= 活检结果没有发现癌。
-② She had a liver biopsy.
-= 她做了肝活检。
+① The biopsy showed no cancer and the family heard by phone that afternoon.
+= 活检没有发现癌，当天下午家属就接到了电话。
+② She had a liver biopsy under local anaesthetic and went home the same day.
+= 她做了肝活检，局部麻醉，当天就回了家。
 liver biopsy = 肝活检
-③ Doctors biopsied the lump.
-= 医生对那个肿块做了活检。
+③ Doctors biopsied the lump twice before they were satisfied.
+= 医生对那个肿块做了两次活检才放心。
 biopsy = 对……做活检（动词用法）
 构词：bio- 活的 + -opsy 看
 注意别混：
@@ -49896,14 +49896,14 @@ autopsy = 尸检（查死因）
 biorhythm
 核心：指身体按周期起伏的节律——睡眠、体温、激素都算，多用复数。
 另有一支指按出生日推算周期的那套说法，属伪科学，看语境分辨。
-① Jet lag disrupts your biorhythms.
-= 时差会打乱生物节律。
+① Jet lag disrupts your biorhythms for about a day per time zone crossed.
+= 时差会打乱生物节律，每跨一个时区大约要一天才缓过来。
 disrupt biorhythms = 打乱生物节律
 多用复数，因为身体同时在走好几套周期。
-② Biorhythms follow a daily cycle.
-= 生物节律按日周期走。
-③ He blames his biorhythms for the slump.
-= 他把状态低迷怪到生物节律头上。
+② Biorhythms follow a daily cycle that light resets more strongly than food does.
+= 生物节律按日周期走，光对它的校准比进食更有力。
+③ He blames his biorhythms for the slump rather than the four late nights.
+= 他把状态低迷怪到生物节律头上，不提连着熬的四个晚上。
 这句多半是伪科学那一支的用法，带调侃。
 构词：bio- 生物 + rhythm 节律
 近义对照：
@@ -49913,14 +49913,14 @@ circadian rhythm = 昼夜节律（专指约二十四小时那套）
 bioscience
 核心：生命科学的总称，生物学、生化、遗传、生态都装在里面。
 多用复数 biosciences，指这一大片学科。
-① She works in the biosciences.
-= 她在生命科学领域工作。
+① She works in the biosciences and moved across from chemistry.
+= 她在生命科学领域工作，是从化学转过来的。
 the biosciences = 生命科学诸学科
-② Bioscience funding has grown.
-= 生命科学的经费涨了。
+② Bioscience funding has grown while the physics budget stayed flat.
+= 生命科学的经费涨了，物理的预算却没动。
 作定语时用单数。
-③ The building houses the bioscience labs.
-= 那栋楼里是生命科学实验室。
+③ The building houses the bioscience labs on three floors above the lecture rooms.
+= 那栋楼里，讲堂上面三层都是生命科学实验室。
 构词：bio- 生命 + science 科学
 近义对照：
 bioscience = 生命科学（学科总称）
@@ -49930,14 +49930,14 @@ biosecurity
 核心：防病原体、害虫和外来物种传进来或散出去的那套措施——农场消毒、
 口岸检疫、实验室分级都算。跟 biodefence 的分别在假想的来路：
 这个防的多是自然传播和意外，那个防的是蓄意投放。不可数。
-① The farm tightened biosecurity.
-= 那个农场加强了生物安全措施。
+① The farm tightened biosecurity and made every visitor change boots.
+= 那个农场加强了生物安全措施，来人一律换靴子。
 tighten biosecurity = 收紧生物安全措施
-② Biosecurity rules apply at the border.
-= 口岸执行生物安全规定。
+② Biosecurity rules apply at the border to soil on boots as much as to fruit.
+= 口岸的生物安全规定管水果，也管靴底带的土。
 biosecurity rules = 生物安全规定
-③ A biosecurity breach closed the lab.
-= 一次生物安全事故让实验室关了门。
+③ A biosecurity breach closed the lab for the rest of the year.
+= 一次生物安全事故让实验室关到了年底。
 breach = 违规、破口
 构词：bio- 生物 + security 安全
 近义对照：
@@ -49948,13 +49948,13 @@ biosphere
 核心：地球上所有生物连同它们生存的那层空间——地表、水体和低层
 大气。它是把生命看成一个整体的说法，所以几乎总是 the biosphere。
 可数，但复数极少见。
-① Human activity is changing the biosphere.
-= 人类活动正在改变生物圈。
+① Human activity is changing the biosphere faster than most species can adapt.
+= 人类活动改变生物圈的速度，快过多数物种适应的速度。
 几乎总是带 the。
-② The biosphere absorbs carbon.
-= 生物圈吸收碳。
-③ Biosphere reserves protect whole regions.
-= 生物圈保护区保护整片区域。
+② The biosphere absorbs carbon in forests and in the surface water of the oceans.
+= 生物圈通过森林和海洋表层水吸收碳。
+③ Biosphere reserves protect whole regions and let people go on farming the outer ring.
+= 生物圈保护区保护整片区域，外圈仍准人耕作。
 biosphere reserve = 生物圈保护区
 构词：bio- 生命 + sphere 圈层
 词族：
@@ -49964,14 +49964,14 @@ hydrosphere = 水圈
 biotechnological
 核心：形容词，指跟生物技术有关的。它没有额外的意思，就是
 biotechnology 的形容词形式，多修饰 advance、process、company。
-① Biotechnological advances cut costs.
-= 生物技术的进步降低了成本。
+① Biotechnological advances cut costs until insulin was cheap to make.
+= 生物技术的进步把成本压了下来，胰岛素造起来变便宜了。
 biotechnological advance = 生物技术的进步
-② The firm uses a biotechnological process.
-= 那家公司用的是生物技术工艺。
+② The firm uses a biotechnological process instead of a chemical one and halves the waste.
+= 那家公司用生物技术工艺代替化学工艺，废料少了一半。
 biotechnological process = 生物技术工艺
-③ Biotechnological research needs approval.
-= 生物技术研究需要审批。
+③ Biotechnological research needs approval from two separate committees here.
+= 在这里，生物技术研究要经两个独立委员会审批。
 构词：biotechnology 生物技术 + -al 的
 词族：
 biotechnology = 生物技术
@@ -49998,14 +49998,14 @@ biotic
 核心：形容词，生态学术语，指"生物的、由生物造成的"。它基本只跟
 abiotic 对着用：biotic factors 是捕食、竞争、寄生这些来自活物的
 因素，abiotic factors 是温度、光照、土壤这些不来自活物的。
-① Biotic factors shape the community.
-= 生物因素塑造了群落。
+① Biotic factors shape the community through predation, competition and disease.
+= 捕食、竞争和疾病这些生物因素塑造了群落。
 biotic factor = 生物因素
-② The pond has a rich biotic community.
-= 那口塘里生物群落丰富。
+② The pond has a rich biotic community despite covering half an acre.
+= 那口塘只有半英亩，生物群落却很丰富。
 biotic community = 生物群落
-③ Biotic and abiotic stresses reduce yield.
-= 生物胁迫和非生物胁迫都会减产。
+③ Biotic and abiotic stresses reduce yield, and a dry year brings both at once.
+= 生物胁迫和非生物胁迫都会减产，旱年两样一起来。
 成对出现是这个词最常见的样子。
 构词：bio- 生物 + -tic 的
 反义词：
@@ -50015,12 +50015,12 @@ biotype
 核心：同一物种里遗传构成一致的一群个体。它比"物种"细一层，
 多用在害虫和病原菌上——同一种蚜虫分出好几个 biotype，有的能咬
 抗虫品种，有的不能，防治办法就得跟着分。可数。
-① A new biotype attacked the crop.
-= 一个新的生物型侵袭了那批作物。
-② The pest has several biotypes.
-= 那种害虫有好几个生物型。
-③ Resistance breaks down against new biotypes.
-= 抗性对新生物型会失效。
+① A new biotype attacked the crop that had resisted every earlier strain.
+= 一个新的生物型侵袭了那批作物，此前各个株系它都扛得住。
+② The pest has several biotypes and only two of them matter here.
+= 那种害虫有好几个生物型，在这里只有两个要紧。
+③ Resistance breaks down against new biotypes within a few seasons of planting.
+= 抗性对新生物型会失效，种上几季就顶不住了。
 构词：bio- 生物 + type 型
 近义对照：
 biotype = 生物型（遗传一致的一群）
@@ -50030,14 +50030,14 @@ bipartisan
 核心：形容词，指两党共同的、得到两党支持的，美国政治里的高频词。
 它的分量在于稀罕：多数议案都是一党推、一党挡，说 bipartisan
 就是在强调这件事难得地两边都点了头。
-① The bill won bipartisan support.
-= 那项法案获得了两党支持。
+① The bill won bipartisan support after both sides dropped their amendments.
+= 两边都撤回了修正案之后，那项法案获得了两党支持。
 bipartisan support = 两党支持
-② They formed a bipartisan committee.
-= 他们组建了一个两党联合委员会。
+② They formed a bipartisan committee of six and gave it a year to report.
+= 他们组建了一个六人的两党联合委员会，限期一年提交报告。
 bipartisan committee = 两党联合委员会
-③ The deal was genuinely bipartisan.
-= 那笔交易是真正两党共识的产物。
+③ The deal was genuinely bipartisan and survived the change of president.
+= 那笔交易是真正两党共识的产物，换了总统也没被推翻。
 构词：bi- 二 + partisan 党派的
 反义词：
 partisan = 一党一派的、有党派偏见的
@@ -50045,15 +50045,15 @@ partisan = 一党一派的、有党派偏见的
 bipartite
 核心：正式用词，指"由两部分组成的"或"两方参与的"。多见于法律、
 外交和技术文件里，日常说话不用它，日常会说 two-part 或 two-sided。
-① They signed a bipartite agreement.
-= 他们签了一份双方协议。
+① They signed a bipartite agreement and left the third country out of it.
+= 他们签了一份双方协议，把第三国排除在外。
 bipartite agreement = 双方协议
 两方签的，跟三方的 tripartite 相对。
-② The leaf has a bipartite structure.
-= 那片叶子是二裂结构。
+② The leaf has a bipartite structure, split almost to the stalk.
+= 那片叶子是二裂结构，几乎裂到叶柄。
 bipartite structure = 二分结构
-③ Bipartite talks resumed on Monday.
-= 双边会谈周一恢复。
+③ Bipartite talks resumed on Monday after a six-week silence.
+= 沉默了六周之后，双边会谈周一恢复。
 构词：bi- 二 + partite 分开的
 注意语域：正式，多用于法律与外交文书。
 配对词：
@@ -50062,12 +50062,12 @@ tripartite = 三方的
 biped
 核心：用两条腿走路的动物。人、鸟、袋鼠都算，跟四条腿的
 quadruped 相对。多见于生物学和人类学的行文里。可数。
-① Humans are bipeds.
-= 人类是两足动物。
-② Birds are the only surviving dinosaur bipeds.
-= 鸟是仅存的两足恐龙。
-③ The robot walks as a biped.
-= 那台机器人用两足行走。
+① Ostriches are the fastest bipeds alive.
+= 鸵鸟是现存跑得最快的两足动物。
+② Birds are the only surviving dinosaur bipeds, and they kept the hollow bones too.
+= 鸟是仅存的两足恐龙，中空的骨头也保留了下来。
+③ The robot walks as a biped and rights itself when it is shoved.
+= 那台机器人用两足行走，被推一把还能自己站稳。
 biped = 两足行走的构型（机器人学里也这么用）
 构词：bi- 二 + ped 足
 配对词：
@@ -50076,13 +50076,13 @@ quadruped = 四足动物
 bipedal
 核心：形容词，"两足行走的"。它最常出现在讲人类演化的语境里——
 直立两足行走是人跟其他猿分道的那一步，手因此腾了出来。
-① Humans are bipedal.
-= 人是两足行走的。
-② Bipedal locomotion freed the hands.
-= 两足行走把手解放了出来。
+① Humans are bipedal, and the fossils date the change to before the big brain.
+= 人是两足行走的，化石显示这一步早于大脑变大。
+② Bipedal locomotion freed the hands to carry food and infants.
+= 两足行走把手解放出来，能抱孩子、拿食物。
 bipedal locomotion = 两足行走
-③ The fossil shows bipedal adaptation.
-= 那件化石显示出两足行走的适应特征。
+③ The fossil shows bipedal adaptation in the angle of the knee.
+= 那件化石从膝关节的角度显示出两足行走的适应特征。
 构词：biped 两足动物 + -al 的
 反义词：
 quadrupedal = 四足行走的
@@ -50091,12 +50091,12 @@ biplane
 核心：上下叠着两层机翼的飞机。两层翼产生的升力大、结构也稳，
 但阻力大，后来被单层翼的 monoplane 取代，今天只在老飞机表演和
 农用机上见得到。可数。
-① The biplane took off from the field.
-= 那架双翼机从草地上起飞。
-② Early fighters were biplanes.
-= 早期的战斗机都是双翼机。
-③ He restored a wooden biplane.
-= 他修复了一架木制双翼机。
+① The biplane took off from the field in less than a hundred yards.
+= 那架双翼机在不到一百码的距离内就从草地上起飞了。
+② Early fighters were biplanes because two wings gave lift that thin engines could not.
+= 早期战斗机都是双翼机，发动机弱，升力得靠两层翼补。
+③ He restored a wooden biplane over eleven winters in a barn.
+= 他在谷仓里花了十一个冬天修复一架木制双翼机。
 构词：bi- 二 + plane 机翼
 配对词：
 monoplane = 单翼机
@@ -50126,13 +50126,13 @@ bipolar transistor = 双极型晶体管
 biracial
 核心：形容词，指父母分属两个不同族裔的，也说双族裔的家庭、社区。
 主要是美式用法，英式多说 mixed-race。
-① She is biracial.
-= 她是混血。
-② They are raising biracial children.
-= 他们在养育混血的孩子。
+① She is biracial and grew up between two sets of grandparents.
+= 她是混血，在两边祖父母之间长大。
+② They are raising biracial children in a town where nobody else is.
+= 他们在一个没有别的混血家庭的镇上养育混血孩子。
 biracial children = 混血的孩子
-③ The town has a biracial council.
-= 那个镇有一个跨族裔的议事会。
+③ The town has a biracial council that meets in the old courthouse.
+= 那个镇有一个跨族裔的议事会，在旧法院开会。
 指两个族裔共同参与的组织。
 构词：bi- 二 + racial 种族的
 注意地域：
@@ -50262,13 +50262,13 @@ birdwatching = 观鸟
 bird flu
 核心：禽流感，禽类之间传播的流感，偶尔传给人。正式名是 avian
 influenza，新闻里多用 bird flu 这个短说法。不可数，不加冠词。
-① Bird flu closed the poultry markets.
-= 禽流感让家禽市场关了门。
-② A bird flu outbreak hit the farm.
-= 那个农场暴发了禽流感。
+① Bird flu closed the poultry markets for six weeks that spring.
+= 那年春天禽流感让家禽市场关了六周。
+② A bird flu outbreak hit the farm and the whole flock had to be culled.
+= 那个农场暴发了禽流感，整群鸡都得扑杀。
 bird flu outbreak = 禽流感疫情
-③ Bird flu rarely passes between people.
-= 禽流感很少在人际间传播。
+③ Bird flu rarely passes between people, which is why each human case is investigated.
+= 禽流感很少在人际间传播，所以每一例人感染都要追查。
 这是它跟季节性流感最要紧的分别。
 构词：bird 鸟 + flu 流感
 近义对照：

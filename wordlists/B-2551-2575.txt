@@ -284,28 +284,28 @@ biomechanical = 生物力学的
 biomedical
 核心：形容词，指把生物学的方法用到医学问题上。常用搭配就三个：
 biomedical research、biomedical engineering、biomedical science。
-① He works in biomedical research.
-= 他做生物医学研究。
+① He works in biomedical research on a grant that runs out in June.
+= 他做生物医学研究，经费六月到期。
 biomedical research = 生物医学研究
-② Biomedical engineering designs implants.
-= 生物医学工程设计植入物。
+② Biomedical engineering designs implants that must last thirty years inside the body.
+= 生物医学工程设计的植入物，要在体内撑三十年。
 biomedical engineering = 生物医学工程
 跟 bioengineering 的医学那一支说的是同一件事。
-③ The grant funds biomedical science.
-= 那笔经费资助生物医学。
+③ The grant funds biomedical science across four hospitals and one university.
+= 那笔经费资助四家医院和一所大学的生物医学研究。
 构词：bio- 生物 + medical 医学的
 
 biometric
 核心：形容词，也作名词，指靠身体特征认人——指纹、虹膜、面容、声纹。
 作名词时多用复数 biometrics。
-① The phone uses biometric data.
-= 那部手机用生物特征数据。
+① The phone uses biometric data that never leaves the handset.
+= 那部手机用生物特征数据，数据不出机身。
 biometric data = 生物特征数据
-② Biometric passports store a fingerprint.
-= 生物特征护照里存着指纹。
+② Biometric passports store a fingerprint and a facial image on a chip.
+= 生物特征护照的芯片里存着指纹和面部图像。
 biometric passport = 生物特征护照
-③ Airports have rolled out biometrics.
-= 机场已经铺开了生物特征识别。
+③ Airports have rolled out biometrics and cut the queue at passport control.
+= 机场铺开了生物特征识别，边检的队伍短了。
 biometrics = 生物特征识别（名词，多用复数）
 构词：bio- 生物 + metric 测量的
 
@@ -313,15 +313,15 @@ bionic
 核心：形容词，两支。一是用电子机械替代或增强身体机能的，
 bionic arm 就是这一支；二是口语里夸张地说"超人一般的"，
 从上世纪的电视剧传开。
-① He has a bionic hand.
-= 他装了一只仿生手。
+① He has a bionic hand that grips hard enough to hold an egg.
+= 他装了一只仿生手，握力刚好能拿稳一个鸡蛋。
 bionic hand = 仿生手
 技术那一支。
-② Bionic limbs respond to nerve signals.
-= 仿生肢体能对神经信号作出反应。
+② Bionic limbs respond to nerve signals picked up from the remaining muscle.
+= 仿生肢体靠残余肌肉传出的神经信号作出反应。
 bionic limb = 仿生肢体
-③ She seems to have bionic hearing.
-= 她的听力简直是超人。
+③ She seems to have bionic hearing and catches every whisper across the room.
+= 她的听力简直是超人，房间那头的耳语都听得见。
 夸张那一支，口语，带玩笑口气。
 构词：bio- 生物 + -onic（仿 electronic）
 词族：
@@ -330,13 +330,13 @@ bionics = 仿生学
 biophysics
 核心：用物理学的方法研究生命现象——蛋白质怎么折叠、离子怎么过膜、
 神经怎么导电。形式上是复数，当单数用。
-① Biophysics studies protein folding.
-= 生物物理学研究蛋白质折叠。
+① Biophysics studies protein folding, a problem that took decades to crack.
+= 生物物理学研究蛋白质折叠，这个难题攻了几十年。
 形式复数，谓语用单数。
-② She lectures in biophysics.
-= 她教生物物理学。
-③ Biophysics bridges physics and biology.
-= 生物物理学把物理和生物连起来。
+② She lectures in biophysics and runs the imaging lab as well.
+= 她教生物物理学，还管着成像实验室。
+③ Biophysics bridges physics and biology and borrows its instruments from both.
+= 生物物理学把物理和生物连起来，仪器两边都借。
 构词：bio- 生物 + physics 物理学
 词族：
 biophysicist = 生物物理学家
@@ -344,13 +344,13 @@ biophysicist = 生物物理学家
 biopic
 核心：传记片，讲真人一生的电影。构词是 biographical picture 掐头
 去尾拼成的，所以按 bio 加 pic 切，不是 bi 加 optic。可数。
-① The biopic won three awards.
-= 那部传记片拿了三个奖。
-② They filmed a biopic of the singer.
-= 他们拍了一部那位歌手的传记片。
+① The biopic won three awards and was disowned by the family it portrayed.
+= 那部传记片拿了三个奖，却被片中人的家属公开撇清。
+② They filmed a biopic of the singer in the town where she grew up.
+= 他们在那位歌手长大的镇上拍了一部她的传记片。
 a biopic of = 某人的传记片
-③ Biopics often compress the timeline.
-= 传记片常把时间线压缩。
+③ Biopics often compress the timeline and put two years into one scene.
+= 传记片常把时间线压缩，两年的事挤进一场戏。
 构词：biographical 传记的 + picture 影片
 近义对照：
 biopic = 传记片（虚构演绎）
@@ -360,13 +360,13 @@ biopsy
 核心：从活体上取一小块组织拿去化验，多用来确认是不是癌。构词是
 bio-（活的）加 -opsy（看），"看活的"；跟 autopsy（尸检，"亲眼看"）
 正好配成一对。可数，也作动词。
-① The biopsy showed no cancer.
-= 活检结果没有发现癌。
-② She had a liver biopsy.
-= 她做了肝活检。
+① The biopsy showed no cancer and the family heard by phone that afternoon.
+= 活检没有发现癌，当天下午家属就接到了电话。
+② She had a liver biopsy under local anaesthetic and went home the same day.
+= 她做了肝活检，局部麻醉，当天就回了家。
 liver biopsy = 肝活检
-③ Doctors biopsied the lump.
-= 医生对那个肿块做了活检。
+③ Doctors biopsied the lump twice before they were satisfied.
+= 医生对那个肿块做了两次活检才放心。
 biopsy = 对……做活检（动词用法）
 构词：bio- 活的 + -opsy 看
 注意别混：
@@ -376,14 +376,14 @@ autopsy = 尸检（查死因）
 biorhythm
 核心：指身体按周期起伏的节律——睡眠、体温、激素都算，多用复数。
 另有一支指按出生日推算周期的那套说法，属伪科学，看语境分辨。
-① Jet lag disrupts your biorhythms.
-= 时差会打乱生物节律。
+① Jet lag disrupts your biorhythms for about a day per time zone crossed.
+= 时差会打乱生物节律，每跨一个时区大约要一天才缓过来。
 disrupt biorhythms = 打乱生物节律
 多用复数，因为身体同时在走好几套周期。
-② Biorhythms follow a daily cycle.
-= 生物节律按日周期走。
-③ He blames his biorhythms for the slump.
-= 他把状态低迷怪到生物节律头上。
+② Biorhythms follow a daily cycle that light resets more strongly than food does.
+= 生物节律按日周期走，光对它的校准比进食更有力。
+③ He blames his biorhythms for the slump rather than the four late nights.
+= 他把状态低迷怪到生物节律头上，不提连着熬的四个晚上。
 这句多半是伪科学那一支的用法，带调侃。
 构词：bio- 生物 + rhythm 节律
 近义对照：
@@ -393,14 +393,14 @@ circadian rhythm = 昼夜节律（专指约二十四小时那套）
 bioscience
 核心：生命科学的总称，生物学、生化、遗传、生态都装在里面。
 多用复数 biosciences，指这一大片学科。
-① She works in the biosciences.
-= 她在生命科学领域工作。
+① She works in the biosciences and moved across from chemistry.
+= 她在生命科学领域工作，是从化学转过来的。
 the biosciences = 生命科学诸学科
-② Bioscience funding has grown.
-= 生命科学的经费涨了。
+② Bioscience funding has grown while the physics budget stayed flat.
+= 生命科学的经费涨了，物理的预算却没动。
 作定语时用单数。
-③ The building houses the bioscience labs.
-= 那栋楼里是生命科学实验室。
+③ The building houses the bioscience labs on three floors above the lecture rooms.
+= 那栋楼里，讲堂上面三层都是生命科学实验室。
 构词：bio- 生命 + science 科学
 近义对照：
 bioscience = 生命科学（学科总称）
@@ -410,14 +410,14 @@ biosecurity
 核心：防病原体、害虫和外来物种传进来或散出去的那套措施——农场消毒、
 口岸检疫、实验室分级都算。跟 biodefence 的分别在假想的来路：
 这个防的多是自然传播和意外，那个防的是蓄意投放。不可数。
-① The farm tightened biosecurity.
-= 那个农场加强了生物安全措施。
+① The farm tightened biosecurity and made every visitor change boots.
+= 那个农场加强了生物安全措施，来人一律换靴子。
 tighten biosecurity = 收紧生物安全措施
-② Biosecurity rules apply at the border.
-= 口岸执行生物安全规定。
+② Biosecurity rules apply at the border to soil on boots as much as to fruit.
+= 口岸的生物安全规定管水果，也管靴底带的土。
 biosecurity rules = 生物安全规定
-③ A biosecurity breach closed the lab.
-= 一次生物安全事故让实验室关了门。
+③ A biosecurity breach closed the lab for the rest of the year.
+= 一次生物安全事故让实验室关到了年底。
 breach = 违规、破口
 构词：bio- 生物 + security 安全
 近义对照：
