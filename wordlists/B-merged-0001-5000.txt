@@ -62829,14 +62829,14 @@ brain-dead
 在很多国家这就是法律意义上的死亡，即使心跳还能靠机器维持。
 口语里另有一支夸张的用法：蠢透了、毫无思想的，
 说一档节目 brain-dead 是说它没营养。
-① The patient was declared brain-dead.
-= 那名病人被宣告脑死亡。
+① The patient was declared brain-dead after two separate sets of tests.
+= 经过两轮独立检查后，那名病人被宣告脑死亡。
 be declared brain-dead = 被宣告脑死亡
-② Brain death is a legal definition.
-= 脑死亡是一项法律认定。
+② A brain-dead patient can be kept breathing by machine for days.
+= 脑死亡的病人靠机器还能维持呼吸好几天。
 definition = 界定
-③ The show is brain-dead television.
-= 那档节目是没营养的电视。
+③ The show is brain-dead television and gets eight million viewers.
+= 那档节目是没营养的电视，却有八百万人看。
 口语的夸张用法。
 构词：brain 脑 + dead 死的
 注意语用：口语那一支是夸张，
@@ -62881,12 +62881,12 @@ brainbox
 核心：英式口语，两支。一是聪明人、学霸，说某人是 brainbox
 带点调侃，不算恶意。二是字面的脑袋，也指机器里管运算的那部分。
 可数。
-① She is the brainbox of the class.
-= 她是班上的学霸。
-② Ask the brainbox over there.
-= 问那边那个聪明人。
-③ The unit is the car's brainbox.
-= 那个单元是车的控制中枢。
+① She is the brainbox of the class and hates the label more than the homework.
+= 她是班上的学霸，比起作业更烦这个称呼。
+② Ask the brainbox over there, he has read the whole manual twice.
+= 问那边那个聪明人，整本说明书他读了两遍。
+③ The small unit under the seat is the car's brainbox and costs more than the gearbox.
+= 座位底下那个小盒子是车的控制中枢，比变速箱还贵。
 指机器里的运算核心。
 构词：brain 脑 + box 盒子
 注意语域：英式口语，带调侃不带恶意。
@@ -62896,13 +62896,13 @@ brainchild
 字面是"脑子生的孩子"。它一定跟着一个具体的人，
 说 the brainchild of someone 就是在把功劳归给他。
 不可数，几乎只用单数。
-① The festival is her brainchild.
-= 那个音乐节是她一手创办的。
-② The app was the brainchild of two students.
-= 那个应用是两名学生想出来的。
+① The festival is her brainchild and ran from her sofa for two years.
+= 那个音乐节是她一手创办的，头两年就在她家沙发上办公。
+② The app was the brainchild of two students who never finished their degrees.
+= 那个应用是两名学生想出来的，两人后来都没念完学位。
 the brainchild of = 某人的创意结晶
-③ The scheme is his brainchild.
-= 那个方案出自他的构想。
+③ The scheme is his brainchild, though his name is nowhere on it.
+= 那个方案出自他的构想，上面却没有他的名字。
 构词：brain 脑 + child 孩子
 注意用法：一定跟着某个具体的人。
 
@@ -62921,13 +62921,13 @@ brainless
 核心：形容词，没脑子的、蠢的。它骂的多是行为而不是人本身——
 a brainless mistake 是想都不想就犯的错。语气比 stupid 轻一点，
 带点埋怨。
-① That was a brainless thing to do.
-= 那事做得真没脑子。
-② It was a brainless mistake.
-= 那是个想都不想就犯的错。
+① That was a brainless thing to do with a full glass in your hand.
+= 手里端着满满一杯，那事做得真没脑子。
+② It was a brainless mistake that cost a week of everyone's work.
+= 那是个想都不想就犯的错，害得全组一周白干。
 a brainless mistake = 不动脑子犯的错
-③ The plot is brainless but fun.
-= 那个情节没什么脑子，倒挺好玩。
+③ The plot is brainless but fun and nobody minds by the second half.
+= 那个情节没什么脑子，倒挺好玩，看到后半场也没人计较了。
 构词：brain 脑 + -less 没有
 注意语用：多骂行为，语气比 stupid 轻。
 
@@ -62935,13 +62935,13 @@ brainpower
 核心：脑力、智力，尤指用来解决问题的那份能力。它常用来说
 一群人合起来的智力资源——说一个团队 has serious brainpower
 是"那伙人脑子都很好使"。不可数。
-① The project needs brainpower.
-= 那个项目需要人才。
-② The team has plenty of brainpower.
-= 那个团队智力资源很足。
+① The project needs brainpower more than it needs another budget.
+= 那个项目缺的是人才，不是再一笔预算。
+② The team has plenty of brainpower and nobody willing to make a decision.
+= 那个团队智力资源很足，却没人肯拍板。
 plenty of = 大量的
-③ Brainpower matters more than muscle.
-= 脑力比体力更要紧。
+③ Brainpower matters more than muscle in a job that is mostly waiting.
+= 一份大半时间在等的活儿，脑力比体力更要紧。
 muscle = 体力、肌肉
 构词：brain 脑 + power 力
 近义对照：
@@ -62952,13 +62952,13 @@ brainstem
 核心：脑干，大脑往下接脊髓的那一截，管的是最基础的活命功能
 ——呼吸、心跳、血压、吞咽、清醒程度。正因为它管这些，
 脑干功能不可逆地丧失在很多国家就是判定死亡的标准。可数。
-① The brainstem controls breathing.
-= 脑干控制呼吸。
-② It links the brain to the spinal cord.
-= 它把大脑和脊髓连起来。
+① The brainstem controls breathing whether you are awake or not.
+= 不管醒着还是睡着，呼吸都由脑干控制。
+② The brainstem links the rest of the brain to the spinal cord.
+= 脑干把大脑其余部分和脊髓连起来。
 spinal cord = 脊髓
-③ Brainstem death is a legal criterion.
-= 脑干死亡是一项法定判定标准。
+③ Brainstem death is the criterion that most countries apply.
+= 多数国家采用的判定标准是脑干死亡。
 criterion = 判定标准
 构词：brain 脑 + stem 干
 注意用法：管的是呼吸心跳这类活命功能。
@@ -62969,14 +62969,14 @@ brainstorm
 指一时脑子短路、糊涂了，说 I had a brainstorm 是"我当时抽风了"。
 今天英式也跟着美式用集思广益那一支，但旧义仍在，看语境分。
 可数。
-① She had a brainstorm and solved it.
-= 她灵光一闪把问题解决了。
+① She had a brainstorm in the car park and solved it before going back in.
+= 她在停车场灵光一闪，还没进门就把问题解决了。
 美式义：突然的好主意。
-② The team brainstormed for an hour.
-= 团队集体想了一个钟头的点子。
+② The team brainstormed for an hour and used one idea out of sixty.
+= 团队集体想了一个钟头点子，六十条里用了一条。
 brainstorm = 集思广益地想主意
-③ I had a complete brainstorm.
-= 我当时彻底抽风了。
+③ I had a complete brainstorm and posted the letter without the cheque.
+= 我当时彻底抽风，寄信忘了放支票。
 英式老义：一时糊涂。
 构词：brain 脑 + storm 风暴
 注意地域：美式指好主意，
@@ -62999,13 +62999,13 @@ brainwash
 核心：用高压、隔离、反复灌输的手段让人放弃原有想法、接受另一套。
 这个词分量很重，带明确指控：说某人被 brainwashed 是在说他失去了
 判断力、不是自己想通的。日常里也拿来夸张地说广告和宣传。及物。
-① The recruits were brainwashed.
-= 那些新人被洗了脑。
-② The film shows how cults brainwash.
-= 那部片子讲邪教如何洗脑。
+① The recruits were brainwashed over eight months of enforced isolation.
+= 那些新人在八个月的强制隔离里被洗了脑。
+② The film shows how cults brainwash by cutting people off from anyone who disagrees.
+= 那部片子讲邪教如何靠切断反对的声音来洗脑。
 cult = 邪教
-③ Adverts brainwash children.
-= 广告把小孩洗脑了。
+③ Adverts brainwash children into wanting things they cannot even name.
+= 广告把小孩洗脑到想要一些他们连名字都叫不出的东西。
 夸张用法。
 构词：brain 脑 + wash 洗
 注意语用：分量很重，是明确的指控。
@@ -63028,13 +63028,13 @@ brainwave
 核心：两支。英式口语里指突然冒出来的好主意，说 I had a brainwave
 就是"我灵光一闪"，这是最常用的一支，美式那边说 brainstorm。
 另一支是字面的脑电波，脑电图测的就是它。可数。
-① She had a brainwave in the shower.
-= 她洗澡时灵光一闪。
+① She had a brainwave in the shower and wrote it on the steamed-up mirror.
+= 她洗澡时灵光一闪，把主意写在了起雾的镜子上。
 have a brainwave = 突然想到好主意（英式）
-② That was a real brainwave.
-= 那主意真是绝了。
-③ The scan records brainwaves.
-= 那项检查记录的是脑电波。
+② That was a real brainwave and saved the whole afternoon.
+= 那主意真是绝了，救回了整个下午。
+③ The scan records brainwaves through electrodes stuck to the scalp.
+= 那项检查靠贴在头皮上的电极记录脑电波。
 brainwave = 脑电波
 构词：brain 脑 + wave 波
 注意地域：
@@ -63045,12 +63045,12 @@ brainy
 核心：形容词，口语，聪明的、脑子好使的。它偏轻松随意，
 多用在夸人学得快、想得清楚，不像 intelligent 那么正式。
 说小孩和学生用得最多。
-① Her brother is very brainy.
-= 她弟弟脑子特别好使。
-② He is the brainy one in the family.
-= 他是家里最聪明的那个。
-③ It is a brainy sort of film.
-= 那是部动脑子的电影。
+① Her brother is very brainy and still cannot boil an egg.
+= 她弟弟脑子特别好使，煮个蛋还是不会。
+② He is the brainy one in the family and gets asked to fix everything.
+= 他是家里最聪明的那个，什么坏了都找他。
+③ It is a brainy sort of film that repays a second viewing.
+= 那是部动脑子的电影，值得看第二遍。
 构词：brain 脑 + -y
 注意语域：口语，比 intelligent 随意。
 近义对照：
@@ -63062,13 +63062,13 @@ braise
 两步缺一不可——煎是为了出香和上色，慢煮是为了把韧的部位煮软。
 它跟炖的分别在水量：braise 的汤汁只没到食材一半，
 stew 是整个泡在汤里。及物。
-① She braised the beef in wine.
-= 她用红酒焖了那块牛肉。
-② Braising suits tough cuts.
-= 焖适合处理韧的部位。
+① She braised the beef in wine for three hours with the lid on.
+= 她盖着锅盖用红酒把那块牛肉焖了三小时。
+② Braising suits tough cuts that would be inedible if grilled.
+= 焖适合处理那些直接烤就没法吃的韧肉块。
 a tough cut = 较韧的肉块
-③ Brown the meat before braising.
-= 焖之前先把肉煎上色。
+③ Brown the meat before braising or the sauce stays pale.
+= 焖之前先把肉煎上色，不然汤汁颜色发白。
 brown = 煎至上色
 构词：法语 braise 炭火
 注意别混：
@@ -63114,13 +63114,13 @@ bramble
 核心：带刺的灌木丛，英国说 bramble 主要指野生黑莓那种——
 茎上带钩刺，长起来一大片，秋天结黑莓。它在英语里自带"缠人、
 难缠"的意味：一头扎进 brambles 是又扎又缠出不来。可数。
-① Brambles blocked the path.
-= 荆棘丛把小路挡住了。
+① Brambles blocked the path within two summers of the gate being locked.
+= 大门一锁，两个夏天荆棘丛就把小路挡住了。
 block = 挡住
-② They picked fruit from the brambles.
-= 他们在荆棘丛上摘果子。
-③ His trousers caught on a bramble.
-= 他裤子被荆棘勾住了。
+② They picked fruit from the brambles and left the low ones for the birds.
+= 他们在荆棘丛上摘果子，低处的留给鸟。
+③ His trousers caught on a bramble and tore from knee to ankle.
+= 他裤子被荆棘勾住，从膝盖撕到了脚踝。
 catch on = 被勾住
 构词：古英语 brēmel
 注意用法：英国说 bramble 主要指野生黑莓丛。
@@ -63232,13 +63232,13 @@ brandish
 核心：把武器或某样东西举起来挥动，为的是威吓或炫耀——重点不在
 "拿着"而在"挥给人看"。多跟 knife、gun、sword 搭配，
 也用来说挥着文件或奖杯。及物，偏书面。
-① He brandished a knife.
-= 他挥舞着一把刀。
-② She brandished the letter at them.
-= 她冲他们挥着那封信。
+① He brandished a knife and the whole queue stepped back.
+= 他挥舞着一把刀，整队人都往后退。
+② She brandished the letter at them without letting anyone read it.
+= 她冲他们挥着那封信，却不让任何人看。
 brandish something at = 冲某人挥舞某物
-③ The winner brandished the trophy.
-= 优胜者高举奖杯挥舞。
+③ The winner brandished the trophy at the away supporters.
+= 优胜者冲着客队球迷高举奖杯挥舞。
 trophy = 奖杯
 构词：古法语 brandir 挥剑
 注意用法：重点在挥给人看，不只是拿着。
@@ -63269,12 +63269,12 @@ brash
 不顾场合。它跟 confident 的分界就在这个"过头"：
 confident 是褒义，brash 一定带批评。也用来说颜色和音乐过于
 扎眼刺耳。
-① He is brash and loud.
-= 他张扬又聒噪。
-② The advert is brash.
-= 那则广告扎眼过头。
-③ She disliked his brash manner.
-= 她不喜欢他那副张扬做派。
+① He is brash and loud and sells more than anyone else on the floor.
+= 他张扬又聒噪，销量却是全场最高的。
+② The advert is brash enough to be remembered and disliked.
+= 那则广告扎眼到让人记住，也让人反感。
+③ She disliked his brash manner and hired him anyway.
+= 她不喜欢他那副张扬做派，还是把他招了。
 a brash manner = 张扬过头的做派
 构词：来历不明，十九世纪美式用法
 近义对照：
@@ -63285,13 +63285,13 @@ brashly
 核心：副词，张扬地、莽撞地。它多修饰 announce、claim、predict
 这类"说大话"的动作，说的是那种不看场合、气势压人的说法。
 带批评。
-① He brashly predicted victory.
-= 他大剌剌地放话说会赢。
+① He brashly predicted victory by ten points and lost by four.
+= 他大剌剌地放话说要赢十分，结果输了四分。
 predict = 预言
-② The firm brashly entered the market.
-= 那家公司莽撞地闯进了市场。
-③ She spoke brashly to the panel.
-= 她对着评审席大放厥词。
+② The firm brashly entered the market and withdrew within a year.
+= 那家公司莽撞地闯进市场，不到一年就退了出来。
+③ She spoke brashly to the panel and was remembered for it.
+= 她对着评审席大放厥词，倒因此被记住了。
 panel = 评审席
 构词：brash 张扬的 + -ly
 
@@ -63299,14 +63299,14 @@ brashness
 核心：那股张扬过头的劲儿。它是个评价词，多带批评，
 但偶尔也用在褒义的语境里——形容新人闯劲足、不怕生。
 到底是褒是贬，看上下文。不可数。
-① His brashness annoyed the board.
-= 他那股张扬劲儿惹恼了董事会。
+① His brashness annoyed the board and won over every customer he met.
+= 他那股张扬劲儿惹恼了董事会，却把见过的客户一个个拿下。
 annoy = 惹恼
-② There is a youthful brashness to it.
-= 那里头带着一股年轻人的莽劲。
+② There is a youthful brashness to the record that a producer would have sanded off.
+= 那张唱片带着一股年轻人的莽劲，换个制作人早就磨平了。
 youthful = 年轻人的
-③ Brashness can be mistaken for confidence.
-= 张扬过头容易被当成自信。
+③ Brashness can be mistaken for confidence in an interview lasting twenty minutes.
+= 在一场只有二十分钟的面试里，张扬过头容易被当成自信。
 mistake for = 误认为
 构词：brash 张扬的 + -ness
 
@@ -63344,14 +63344,14 @@ brassed off
 核心：英式口语，烦透了、受够了。只作表语，后面接 with 说
 烦的是什么。它是个偏旧的说法，语气比 annoyed 重、比脏话轻，
 上了年纪的英国人用得多。
-① I am brassed off with the delays.
-= 我受够了这些拖延。
+① I am brassed off with the delays and with being told nothing.
+= 我受够了这些拖延，也受够了没人说一声。
 be brassed off with = 对某事烦透了
-② He looked thoroughly brassed off.
-= 他一脸烦透了的样子。
+② He looked thoroughly brassed off by the time his name was called.
+= 叫到他名字的时候，他一脸烦透了的样子。
 thoroughly = 彻底地
-③ They got brassed off waiting.
-= 他们等得不耐烦了。
+③ They got brassed off waiting in a corridor with no chairs in it.
+= 他们在一条连椅子都没有的走廊里等得不耐烦了。
 构词：brass 加 off
 注意语域：英式口语，偏旧，只作表语。
 
@@ -63359,13 +63359,13 @@ brasserie
 核心：法式餐馆的一类：比小酒馆 bistro 大，全天不间断供餐，
 菜单固定、气氛热闹，多有长吧台和皮卡座。名字本义是"啤酒作坊"
 ——最早是酿啤酒兼卖简餐的地方。可数。
-① They ate at a busy brasserie.
-= 他们在一家热闹的法式餐馆吃的饭。
-② A brasserie serves all day.
-= 那类餐馆全天供餐。
+① The brasserie fills at noon and stays full until midnight.
+= 那家法式餐馆中午坐满，一直满到半夜。
+② A brasserie serves all day, so there is no wrong time to arrive.
+= 那类餐馆全天供餐，什么时候去都不算不对时候。
 serve = 供餐
-③ The brasserie has a zinc bar.
-= 那家餐馆有个锌面吧台。
+③ The brasserie has a zinc bar that has been polished for eighty years.
+= 那家餐馆有个锌面吧台，擦了八十年。
 构词：法语 brasserie 啤酒作坊
 近义对照：
 brasserie = 法式餐馆（较大，全天供餐）
@@ -63375,13 +63375,13 @@ brassica
 核心：十字花科芸苔属的统称——甘蓝、花椰菜、西兰花、抱子甘蓝、
 芥菜、萝卜都在里头。让人意外的是：这些形态差得极远的蔬菜，
 好几种其实是同一个物种被人往不同方向选育出来的。可数。
-① Cabbage is a brassica.
-= 甘蓝属于芸苔属。
-② Brassicas prefer firm soil.
-= 那类蔬菜喜欢紧实的土壤。
+① Cabbage is a brassica, and so is the broccoli beside it on the plate.
+= 甘蓝属于芸苔属，盘子里旁边那份西兰花也是。
+② Brassicas prefer firm soil and fall over in ground dug too fine.
+= 那类蔬菜喜欢紧实的土壤，地翻得太细就会倒。
 firm = 紧实的
-③ Rotate brassicas to avoid disease.
-= 那类蔬菜要轮作防病。
+③ Rotate brassicas to avoid disease that stays in the soil for years.
+= 那类蔬菜要轮作，防的是能在土里留好几年的病害。
 rotate = 轮作
 构词：拉丁语 brassica 甘蓝
 注意用法：形态差极远的几种其实同源。
@@ -63402,13 +63402,13 @@ brassy
 核心：三支，都从黄铜来。一是黄铜色的、金灿灿的，说头发说颜色。
 二是声音铜管一样刺耳发亮。三是说人举止张扬俗艳、嗓门大，
 带贬义。三支的共通处是那股"亮得晃眼、响得刺耳"。
-① Her hair went brassy after bleaching.
-= 她漂完头发泛黄。
+① Her hair went brassy after bleaching and took a toner to fix.
+= 她漂完头发泛黄，用了色素才调回来。
 brassy = 泛黄铜色的
-② The band has a brassy sound.
-= 那支乐队声音铜亮刺耳。
-③ She has a brassy manner.
-= 她做派张扬俗气。
+② The band has a brassy sound that carries across an open field.
+= 那支乐队声音铜亮刺耳，能传过一整片空地。
+③ She has a brassy manner that works on a market stall and nowhere else.
+= 她那副张扬俗气的做派在市场摊位上管用，换个地方就不行。
 说人那一支，贬义。
 构词：brass 黄铜 + -y
 注意语用：说人那一支带贬义。
