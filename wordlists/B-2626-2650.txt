@@ -381,14 +381,14 @@ bitonal
 核心：形容词，两支。音乐上指双调性的——同一段里两个调同时进行，
 听起来别扭发涩，二十世纪的作曲家拿它做效果；图像上指只有两个色阶
 的，也就是纯黑白、没有灰阶。
-① The passage is bitonal.
-= 那一段是双调性的。
+① The passage is bitonal and the two keys never resolve into one.
+= 那一段是双调性的，两个调始终没有并成一个。
 音乐那一支。
-② Stravinsky used bitonal chords.
-= 斯特拉文斯基用过双调性和弦。
+② Stravinsky used bitonal chords to make the dance sound off its footing.
+= 斯特拉文斯基用双调性和弦，让那段舞曲听着站不稳。
 bitonal chord = 双调性和弦
-③ Scan the page as a bitonal image.
-= 把那页扫成黑白二值图。
+③ Scan the page as a bitonal image and the file will be a tenth the size.
+= 把那页扫成黑白二值图，文件大小只有十分之一。
 bitonal image = 二值图像
 图像那一支：只有黑白两值。
 构词：bi- 二 + tonal 调的
@@ -399,13 +399,13 @@ bitonality
 核心：名词，指两个调同时进行这种写法。它跟无调性不是一回事：
 无调性是干脆没有调中心，双调性是有两个调中心，两个都在，
 互相别着劲，那股不协和正是作曲家要的。不可数。
-① Bitonality creates a jarring effect.
-= 双调性造成一种刺耳的效果。
+① Bitonality creates a jarring effect that a listener feels before naming it.
+= 双调性造成一种刺耳的效果，听的人先感觉到，说不出所以然。
 jarring = 刺耳的、别扭的
-② The piece explores bitonality.
-= 那首曲子探索双调性。
-③ Bitonality was common in the 1920s.
-= 双调性在二十年代很常见。
+② The piece explores bitonality in the outer movements and settles down in the middle.
+= 那首曲子头尾两个乐章探索双调性，中间那个安静下来。
+③ Bitonality was common in the 1920s and had gone out of fashion by the war.
+= 双调性在二十年代很常见，到战争年月就不时兴了。
 构词：bitonal 双调性的 + -ity
 注意别混：
 bitonality = 双调性（两个调中心并存）
@@ -415,13 +415,13 @@ bitstream
 核心：连续传下来的一串二进制位，还没切成字节、没解释成内容之前
 就叫这个。它强调的是"流"：数据一位接一位地来，接收端得按约定
 去断句，断错了整段就废了。可数。
-① The decoder reads the bitstream.
-= 解码器读取比特流。
+① The decoder reads the bitstream and throws away anything it cannot parse.
+= 解码器读取比特流，解不出来的一概丢弃。
 decoder = 解码器
-② The bitstream is encrypted.
-= 那段比特流是加密的。
-③ Errors in the bitstream corrupt the file.
-= 比特流出错会毁掉文件。
+② The bitstream is encrypted end to end and the machines in between see only noise.
+= 那段比特流全程加密，中间的机器看到的只是噪声。
+③ Errors in the bitstream corrupt the file from the bad bit onwards.
+= 比特流出错，从出错那一位往后整个文件就毁了。
 corrupt = 损坏（数据）
 构词：bit 位 + stream 流
 词族：
@@ -499,14 +499,14 @@ bittern
 核心：一种躲在芦苇丛里的鹭科水鸟，褐色带斑纹，站着一动不动时
 几乎跟芦苇一个样。最出名的是雄鸟的叫声，低沉如闷响的号角，
 能传出好几公里，英语里专门叫它 boom。可数。
-① A bittern boomed in the reeds.
-= 一只麻鳽在芦苇里发出闷响。
+① A bittern boomed in the reeds and the sound carried across two fields.
+= 一只麻鳽在芦苇里发出闷响，声音传过了两块地。
 boom = 发出低沉的鸣声
-② Bitterns are hard to spot.
-= 麻鳽很难被发现。
+② Bitterns are hard to spot even when they are standing four feet away.
+= 麻鳽很难被发现，哪怕就站在四英尺外。
 羽色跟芦苇几乎一样，这是它难找的原因。
-③ The reserve protects breeding bitterns.
-= 那个保护区保护繁殖的麻鳽。
+③ The reserve protects breeding bitterns by keeping the reedbed flooded.
+= 那个保护区靠让芦苇荡保持积水来保护繁殖的麻鳽。
 breeding = 繁殖的
 词族：
 heron = 鹭（同科，体形更大更显眼）
@@ -572,13 +572,13 @@ bitumen
 核心：黑色黏稠的沥青，石油炼到最后剩下的那部分，也有天然的。
 铺路是它最大的用途，拌上石子就是沥青混凝土；也用来做屋顶防水。
 不可数。英式读音重音在前，美式在后。
-① The road is surfaced with bitumen.
-= 那条路铺的是沥青。
+① The road is surfaced with bitumen laid over a bed of crushed stone.
+= 那条路铺的是沥青，底下垫着碎石层。
 be surfaced with = 以某种材料铺面
-② Bitumen softens in hot weather.
-= 沥青一热就变软。
-③ They sealed the roof with bitumen.
-= 他们用沥青把屋顶封了。
+② Bitumen softens in hot weather and takes the print of a heel.
+= 沥青一热就变软，鞋跟能踩出印子。
+③ They sealed the roof with bitumen and it held through two winters.
+= 他们用沥青把屋顶封了，撑过了两个冬天。
 seal = 封住、做防水
 近义对照：
 bitumen = 沥青（英式常用）
