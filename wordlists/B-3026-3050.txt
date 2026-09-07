@@ -21,13 +21,13 @@ bomber
 核心：两支。一是轰炸机，专门用来投弹的飞机；二是放炸弹的人，
 新闻里指恐怖袭击的实施者。另有一个常见搭配 bomber jacket：
 腰口和袖口收紧的短夹克，样式来自二战飞行员的皮夹克。可数。
-① The bomber dropped its load.
-= 那架轰炸机投下了炸弹。
-② Police identified the bomber.
-= 警方查明了放炸弹的人。
+① The bomber turned for home with its load still aboard.
+= 那架轰炸机炸弹没投就掉头返航了。
+② Police identified the bomber from a bus ticket in his coat.
+= 警方靠他外套里的一张公交票查明了放炸弹的人。
 identify = 查明身份
-③ He wore a leather bomber jacket.
-= 他穿了件皮质飞行夹克。
+③ He wore a leather bomber jacket that had belonged to his father.
+= 他穿着一件他父亲留下的皮质飞行夹克。
 bomber jacket = 飞行夹克（腰袖收紧的短夹克）
 构词：bomb 轰炸 + -er
 注意用法：既指飞机也指人，靠语境分。
@@ -36,13 +36,13 @@ bombing
 核心：轰炸或爆炸袭击这件事。军事语境指飞机投弹，
 新闻语境指有人放置炸弹的袭击，两者都用这个词，
 靠上下文分。可数不可数都行。
-① The bombing lasted three nights.
-= 轰炸持续了三个晚上。
+① The bombing lasted three nights and the shelters filled by seven each evening.
+= 轰炸持续了三个晚上，每天七点防空洞就满了。
 last = 持续
-② A bombing killed twelve people.
-= 一起爆炸袭击造成十二人死亡。
-③ They condemned the bombing.
-= 他们谴责了那次袭击。
+② A bombing killed twelve people at a bus station on a Sunday morning.
+= 周日上午，一起爆炸袭击在汽车站造成十二人死亡。
+③ They condemned the bombing in three languages within the hour.
+= 一小时之内他们用三种语言谴责了那次袭击。
 condemn = 谴责
 构词：bomb 轰炸 + -ing
 词族：
@@ -52,14 +52,14 @@ bombproof
 核心：字面是抗得住炸弹的——掩体、地堡、防爆玻璃都可以这么说。
 引申义用得更多：万无一失的、怎么折腾都不出错的，说计划、说系统，
 也说脾气好到怎么惹都不炸的人或马。
-① They sheltered in a bombproof cellar.
-= 他们躲进了防爆地窖。
+① They sheltered in a bombproof cellar under the old brewery.
+= 他们躲进了旧啤酒厂下面的防爆地窖。
 a bombproof shelter = 防爆掩体
-② The plan is not bombproof.
-= 那个计划并非万无一失。
+② The plan is not bombproof and falls apart if one supplier is late.
+= 那个计划并非万无一失，一家供应商晚了就散架。
 bombproof = 万无一失的
-③ That pony is bombproof with children.
-= 那匹小马跟孩子在一起怎么闹都不惊。
+③ That pony is bombproof with children and ignores passing tractors.
+= 那匹小马跟孩子在一起怎么闹都不惊，拖拉机开过也不理。
 说性情稳到不受惊。
 构词：bomb 炸弹 + proof 防……的
 注意用法：引申义比字面义常用。
@@ -97,12 +97,12 @@ bon mot
 核心：法语借词，指一句机智漂亮的妙语——短、准、让人会心一笑。
 它带一点书卷气和沙龙味，说某人善于 bon mot 就是夸他谈吐机敏。
 复数按法语走，写作 bons mots。可数。
-① He is famous for his bons mots.
-= 他以妙语闻名。
-② She dropped a bon mot and moved on.
-= 她说了句妙语就转开了话头。
-③ The memoir collects his bons mots.
-= 那本回忆录收了他的妙语。
+① He is famous for his bons mots, though half were borrowed from a dead novelist.
+= 他以妙语闻名，其中一半是从一位已故小说家那里借来的。
+② She dropped a bon mot about the chairman's new car and left before he arrived.
+= 她说了句挖苦董事长新车的妙语，趁他没到就走了。
+③ The memoir collects his bons mots but never says how long each one took to prepare.
+= 那本回忆录收了他的妙语，却没说每一句事先要琢磨多久。
 构词：法语 bon 好 + mot 词语
 注意复数：bons mots，两个词都变。
 近义对照：
@@ -113,13 +113,13 @@ bon vivant
 核心：法语借词，指讲究吃喝享乐、会过日子的人——爱美食美酒、
 爱热闹、出手大方。它偏褒义，带点羡慕，跟单纯的"贪吃"分得开。
 复数写作 bons vivants。可数。
-① He was a genial bon vivant.
-= 他是个和气而懂享受的人。
+① He was a genial bon vivant who never once let anyone else pay.
+= 他是个和气而懂享受的人，从不让别人买单。
 genial = 和气可亲的
-② Bons vivants filled the restaurant.
-= 餐厅里坐满了讲究吃喝的人。
-③ She lives like a bon vivant.
-= 她过得很会享受。
+② Bons vivants filled the restaurant and the kitchen stayed open till two.
+= 餐厅里坐满了讲究吃喝的人，厨房一直开到两点。
+③ She lives like a bon vivant on a teacher's salary.
+= 她拿着教师的薪水，日子过得很会享受。
 构词：法语 bon 好 + vivant 活着的
 近义对照：
 bon vivant = 会享受生活的人（褒义）
@@ -130,14 +130,14 @@ bona fide
 强调不是冒牌不是幌子。多用在正式和法律语境里：
 a bona fide offer 是真心实意的报价，a bona fide student 是
 真正在册的学生。作定语用。
-① She is a bona fide expert.
-= 她是货真价实的专家。
+① She is a bona fide expert with twenty years in the field.
+= 她是货真价实的专家，在这一行干了二十年。
 a bona fide expert = 名副其实的专家
-② They made a bona fide offer.
-= 他们提出了真心的报价。
+② They made a bona fide offer and left it open for a month.
+= 他们提出了真心的报价，一个月内有效。
 a bona fide offer = 诚意的报价
-③ Only bona fide members may enter.
-= 只有正式会员才能进。
+③ Only bona fide members may enter, and the card is checked at the door.
+= 只有正式会员才能进，门口要查卡。
 构词：拉丁语 bona fide 出于善意
 注意别混：
 bona fide = 货真价实的（形容词）
@@ -148,14 +148,14 @@ bona fides
 凭据。形式上是复数，用起来当单数，跟 politics 同理。
 最常见的搭配是 establish 或 check someone's bona fides。
 不可数。
-① They checked his bona fides.
-= 他们核实了他的身份。
+① They checked his bona fides and found the university had no such department.
+= 他们核实了他的身份，发现那所大学根本没有那个系。
 check someone's bona fides = 核实某人的真实身份
-② She established her bona fides quickly.
-= 她很快证明了自己的诚意。
+② She established her bona fides quickly by naming three people in the room.
+= 她点出了在场的三个人，很快证明了自己的身份。
 establish bona fides = 证明诚意与身份
-③ His bona fides was never in doubt.
-= 他的诚意从没被怀疑过。
+③ His bona fides was never in doubt, only his judgement.
+= 从没人怀疑过他的诚意，被怀疑的是他的判断。
 形式复数，谓语用单数。
 构词：拉丁语 bona fides 善意
 注意别混：
@@ -166,13 +166,13 @@ bonanza
 核心：突然到手的一大笔财富或好处。词源是西班牙语的"好天气"，
 先被美国西部的矿工拿来指挖到富矿脉，后来泛化成任何意外的
 大丰收——a sales bonanza 是销量大爆发。可数。
-① The oil find was a bonanza.
-= 那次发现石油是笔横财。
-② Christmas is a bonanza for retailers.
-= 圣诞是零售商的旺季。
+① The oil find was a bonanza for a town that had been emptying for years.
+= 那次发现石油，对一个多年人口外流的镇子是笔横财。
+② Christmas is a bonanza for retailers who make half the year's profit in six weeks.
+= 圣诞是零售商的旺季，六周就赚掉半年的利润。
 a bonanza for = 对某方是笔大买卖
-③ The law firm enjoyed a bonanza.
-= 那家律所大赚了一笔。
+③ The law firm enjoyed a bonanza when the two companies started suing.
+= 那两家公司一打官司，那家律所就大赚了一笔。
 构词：西班牙语 bonanza 好天气
 注意来历：先指矿工挖到富矿脉，后来泛化。
 
