@@ -9725,14 +9725,14 @@ by courtesy of = 蒙……惠允
 couscous
 核心：库斯库斯：北非主食，粗粒小麦粉搓成小粒蒸熟，配炖菜
 吃。不可数。
-① Steam the couscous over the stew.
-= 库斯库斯架在炖锅上蒸。
+① Steam the couscous over the stew so it takes the smell of it.
+= 库斯库斯架在炖锅上蒸，好让它沾上那股香味。
 steam couscous = 蒸库斯库斯
-② Couscous soaks up the sauce.
-= 库斯库斯很吸汤汁。
+② Couscous soaks up the sauce and doubles in the bowl.
+= 库斯库斯很吸汤汁，在碗里能涨一倍。
 soak up the sauce = 吸汤汁
-③ Couscous is the staple across the Maghreb.
-= 马格里布一带以它为主食。
+③ Couscous is the staple across the Maghreb and is eaten on Fridays.
+= 马格里布一带以库斯库斯为主食，周五必吃。
 a staple = 主食
 构词：阿拉伯语 kuskus
 注意用法：不可数。
@@ -9763,14 +9763,14 @@ kissing cousins = 沾亲带故的远亲；也说两样东西很相像
 couture
 核心：高级定制时装：为个人量体手工做的服装，全写是 haute
 couture。做这行的人叫 couturier。不可数。
-① She works in couture.
-= 她做高级定制。
+① She works in couture and has never made the same dress twice.
+= 她做高级定制，同一件裙子从没做过第二遍。
 couture = 高级定制时装
-② The gown is haute couture.
-= 那件礼服是高级定制。
+② The gown is haute couture and took nine hundred hours by hand.
+= 那件礼服是高级定制，手工做了九百个钟头。
 haute couture = 高级定制时装
-③ The couturier fitted it twice.
-= 那位定制设计师试了两次身。
+③ The couturier fitted it twice and pinned it a third time on the stairs.
+= 那位定制设计师试了两次身，第三次在楼梯上又别了一遍。
 a couturier = 高级定制设计师
 构词：法语 couture 缝纫
 注意读音：照法语读，不读成英语的 -ture。
@@ -9778,14 +9778,14 @@ a couturier = 高级定制设计师
 covalent
 核心：共价的：化学上两个原子共用电子对而结合，covalent
 bond 是共价键，跟靠电荷相吸的离子键相对。副词 covalently。
-① Water has covalent bonds.
-= 水是共价键结合的。
+① Water has covalent bonds and a shape that makes it stick to itself.
+= 水是共价键结合的，那个形状让它自己粘着自己。
 a covalent bond = 共价键
-② The atoms are covalently linked.
-= 那些原子是共价相连的。
+② The atoms are covalently linked and will not come apart in water.
+= 那些原子共价相连，在水里也拆不开。
 covalently linked = 共价相连的
-③ Covalent compounds melt at low temperatures.
-= 共价化合物熔点低。
+③ Covalent compounds melt at low temperatures and rarely conduct.
+= 共价化合物熔点低，也很少导电。
 a covalent compound = 共价化合物
 构词：co- 共 + valent 化合价的
 注意分工：跟离子键相对，靠的是共用电子对。
@@ -9793,14 +9793,14 @@ a covalent compound = 共价化合物
 covariant
 核心：数学与统计的术语：随另一个量一同变换的。统计里另有
 名词 covariate，指分析时要控制住的协变量。
-① The tensor is covariant.
-= 那个张量是协变的。
+① The tensor is covariant and changes the way the coordinates do.
+= 那个张量是协变的，坐标怎么变它就怎么变。
 covariant = 协变的
-② Covariant indices are written below.
-= 协变指标写在下方。
+② Covariant indices are written below and summed against the upper ones.
+= 协变指标写在下方，跟上方的指标求和。
 a covariant index = 协变指标
-③ Age was entered as a covariate.
-= 年龄作为协变量放了进去。
+③ Age was entered as a covariate and took half the effect away.
+= 年龄作为协变量放了进去，效应立刻少了一半。
 a covariate = 协变量
 构词：co- 共 + variant 变化的
 注意语域：数学与统计术语。
@@ -9808,14 +9808,14 @@ a covariate = 协变量
 cove
 核心：小海湾：三面环陆的一小片水域，比 bay 小。英式旧俚语
 里另指「家伙」。可数。
-① They anchored in a sheltered cove.
-= 他们在一个背风小湾抛了锚。
+① They anchored in a sheltered cove and slept without a watch.
+= 他们在一个背风小湾抛锚，连值夜的人都没留。
 a sheltered cove = 背风的小海湾
-② The cove has a shingle beach.
-= 那个小湾是卵石滩。
+② The cove has a shingle beach that empties by four in the afternoon.
+= 那个小湾是卵石滩，到下午四点就空了。
 a shingle beach = 卵石滩
-③ A smugglers' cove lies below.
-= 底下有个走私者藏身的小湾。
+③ A smugglers' cove lies below with a path cut into the rock.
+= 底下有个走私者藏身的小湾，岩壁上凿着一条小路。
 a smugglers' cove = 走私者藏身的小湾
 构词：古英语 cofa 小室
 注意分工：比 bay 小。
@@ -9823,14 +9823,14 @@ a smugglers' cove = 走私者藏身的小湾
 coven
 核心：巫团：传说里十三个女巫组成的一伙；今天也调侃地指
 同好或同谋的小团体。可数。
-① A coven met at the crossroads.
-= 一伙女巫在十字路口聚会。
+① A coven met at the crossroads on the last night of October.
+= 十月的最后一夜，一伙女巫在十字路口聚会。
 a coven = 巫团
-② The coven numbered thirteen.
-= 那个巫团有十三人。
+② The coven numbered thirteen and admitted nobody for years.
+= 那个巫团十三人，好些年没收过新人。
 number thirteen = 共十三人
-③ A coven of critics runs the prize.
-= 那个奖由一小伙评论家把持。
+③ A coven of critics runs the prize and reviews each other's books.
+= 那个奖由一小伙评论家把持，他们还互相评彼此的书。
 a coven of = 一小伙……
 构词：拉丁语 convenire 聚到一起
 注意语气：引申义带调侃。
@@ -9838,14 +9838,14 @@ a coven of = 一小伙……
 covenant
 核心：契约：郑重立下的约定。宗教里指神与人的约，法律上指
 地契里的限制条款，英式还指定期捐赠的承诺。也作动词。可数。
-① They entered into a covenant.
-= 他们订立了盟约。
+① They entered into a covenant and swore to it in front of witnesses.
+= 他们订立了盟约，当着见证人立了誓。
 enter into a covenant = 订立契约
-② A restrictive covenant bars building.
-= 一条限制性条款禁止盖房。
+② A restrictive covenant bars building anything above one storey.
+= 一条限制性条款禁止盖一层以上的房子。
 a restrictive covenant = 限制性契约条款
-③ He covenanted to pay yearly.
-= 他立约每年捐一笔。
+③ He covenanted to pay yearly and kept it up for thirty years.
+= 他立约每年捐一笔，坚持了三十年。
 covenant to do = 立约做某事
 构词：古法语 covenant 约定
 注意语域：宗教与法律用词。
@@ -9966,14 +9966,14 @@ covert
 核心：隐蔽的、暗中的：不让人察觉地做，反义是 overt 公开的。
 副词 covertly。另有名词一支：鸟翅上的覆羽，以及供猎物藏身
 的灌木丛。
-① They ran a covert operation.
-= 他们搞了次秘密行动。
+① They ran a covert operation for two years without a single leak.
+= 那次秘密行动搞了两年，一点风声都没漏。
 a covert operation = 秘密行动
-② He glanced covertly at the door.
-= 他偷偷瞟了门一眼。
+② He glanced covertly at the door and went on talking.
+= 他偷偷瞟了门一眼，话没停。
 covertly = 暗中地
-③ Covert racism is harder to prove.
-= 隐性的种族歧视更难举证。
+③ Covert racism is harder to prove and much harder to answer.
+= 隐性的种族歧视更难举证，也更难回应。
 covert racism = 隐性种族歧视
 构词：古法语 covert 被盖住的
 注意分工：反义是 overt 公开的。
@@ -10002,16 +10002,16 @@ covey
 是打猎与自然写作里的词。也戏谑地借来说挤成一小堆的人。跟表示
 小海湾的那个近形词毫无关系，它来自法语的「一窝、孵出来的一批」。
 可数。
-① A covey of partridges broke from the stubble.
-= 一群鹧鸪从麦茬地里惊起。
+① A covey of partridges broke from the stubble almost under their feet.
+= 一群鹧鸪几乎从他们脚底下从麦茬地里惊起。
 a covey of = 一小群（鹌鹑、鹧鸪之类）
 后面几乎只接这几种猎禽，接别的鸟要换成 flock。
-② The dog put up two coveys before noon.
-= 中午之前那条狗轰起了两群鸟。
+② The dog put up two coveys before noon and found nothing after.
+= 中午前那条狗轰起了两群鸟，之后一无所获。
 put up a covey = 把一群猎禽惊飞
 猎人的说法，put up 在这里是把伏着的鸟赶起来。
-③ A covey of reporters waited outside.
-= 一小簇记者等在外头。
+③ A covey of reporters waited outside and blocked the pavement.
+= 一小簇记者等在外头，把人行道堵了。
 a covey of reporters = 一小簇记者
 借来说人时带戏谑，暗指挤在一处、有点乱哄哄。
 构词：法语 couvée 一窝
@@ -10125,14 +10125,14 @@ cowboys and Indians = 孩子分两拨追打的一种游戏
 cower
 核心：缩成一团：因害怕而蜷起身子往后躲。不及物。跟 cow
 不同源，别看形近就当一家。
-① The dog cowered under the table.
-= 那条狗缩在桌子底下。
+① The dog cowered under the table until the fireworks stopped.
+= 烟花放完之前，那条狗一直缩在桌子底下。
 cower = 蜷缩躲避
-② Children cowered at the noise.
-= 孩子们被那响动吓得缩成一团。
+② Children cowered at the noise and would not come out of the corner.
+= 孩子们被那响动吓得缩成一团，怎么也不肯从角落出来。
 cower at = 因……而缩起来
-③ He cowered away from the blow.
-= 他躲着那一下往后缩。
+③ He cowered away from the blow that never came.
+= 他缩着躲那一下，可那一下始终没落下来。
 cower away from = 缩着躲开
 构词：中低地德语 kuren 蹲伏
 注意别混：跟 cow 不同源。
@@ -10163,14 +10163,14 @@ a cowling = 发动机整流罩（飞机上包住发动机的外壳）
 
 cowpat
 核心：牛粪饼：牛拉在地上的那一摊。英式说法。可数。
-① He stepped in a cowpat.
-= 他踩到一摊牛粪。
+① He stepped in a cowpat in his only good shoes.
+= 他穿着唯一一双好鞋踩到了一摊牛粪。
 a cowpat = 牛粪饼
-② Cowpats dot the meadow.
-= 草地上星星点点全是牛粪。
+② Cowpats dot the meadow and each one holds its own small population.
+= 草地上星星点点全是牛粪，每一摊都住着一小群虫子。
 dot the meadow = 星星点点散在草地上
-③ Dried cowpats were once used as fuel.
-= 晒干的牛粪从前当燃料烧。
+③ Dried cowpats were once used as fuel where there were no trees.
+= 没有树的地方，晒干的牛粪从前当燃料烧。
 dried cowpats = 晒干的牛粪
 构词：cow 牛 + pat 一小摊
 注意语域：英式说法。
@@ -10179,14 +10179,14 @@ cowpox
 核心：牛痘：牛身上的一种轻微病毒病，挤奶的人会染上，症状很
 轻。詹纳发现得过牛痘的人不再得天花，天花疫苗由此而来。
 不可数。
-① Milkmaids caught cowpox from the herd.
-= 挤奶女工从牛群那儿染上牛痘。
+① Milkmaids caught cowpox from the herd and were ill for a week.
+= 挤奶女工从牛群那儿染上牛痘，病一个星期。
 catch cowpox = 染上牛痘
-② Cowpox gave protection against smallpox.
-= 牛痘能防天花。
+② Cowpox gave protection against smallpox, and Jenner proved it on a boy.
+= 牛痘能防天花，詹纳拿一个男孩证明了这一点。
 protection against smallpox = 对天花的免疫
-③ Cowpox gave the word vaccine its root.
-= 牛痘给了「疫苗」那个词词根。
+③ Cowpox still circulates in cats and passes to people now and then.
+= 牛痘至今还在猫身上流行，偶尔也传给人。
 give a word its root = 给某个词提供词根
 构词：cow 牛 + pox 痘
 注意来历：疫苗那个词的拉丁词根就是「牛」。
@@ -10208,14 +10208,14 @@ a cowry = 宝贝壳（另一种拼法）
 
 cowshed
 核心：牛棚：关牛与挤奶的棚屋。英式说法。可数。
-① The cows were driven into the cowshed.
-= 牛被赶进了牛棚。
+① The cows were driven into the cowshed as the first hail came down.
+= 第一阵冰雹落下来时，牛被赶进了牛棚。
 a cowshed = 牛棚
-② He mucked out the cowshed.
-= 他把牛棚的粪清了。
+② He mucked out the cowshed every morning before school.
+= 他每天上学前先把牛棚的粪清了。
 muck out = 清粪打扫
-③ The cowshed was converted into a studio.
-= 那间牛棚改成了工作室。
+③ The cowshed was converted into a studio and still smells faintly.
+= 那间牛棚改成了工作室，还留着一点味道。
 be converted into = 被改建成
 构词：cow 牛 + shed 棚
 注意语域：英式说法。
@@ -10223,14 +10223,14 @@ be converted into = 被改建成
 cowslip
 核心：黄花九轮草：春天草地上开的一种黄色小花，成簇低垂，
 是英国乡野的标志性野花，因农业集约化而大量减少。可数。
-① Cowslips cover the bank in April.
-= 四月里坡上开满黄花九轮草。
+① Cowslips cover the bank in April and are gone by the end of May.
+= 四月里坡上开满黄花九轮草，五月底就没了。
 a cowslip = 黄花九轮草
-② Cowslip wine was made in cottages.
-= 从前农家拿它酿酒。
+② Cowslip wine was made in cottages and took a year to be drinkable.
+= 从前农家拿它酿酒，要放一年才能喝。
 cowslip wine = 九轮草酒
-③ Cowslips need unimproved grassland.
-= 这种花要长在没施过肥的草地上。
+③ Cowslips need unimproved grassland and vanish the year it is fertilised.
+= 这种花要长在没施过肥的草地上，一施肥当年就没了。
 unimproved grassland = 未经改良的草地
 构词：古英语 cu-slyppe，字面是牛粪，因为它长在牛踩过的草地上
 注意用法：可数。
@@ -10238,14 +10238,14 @@ unimproved grassland = 未经改良的草地
 cox
 核心：舵手：赛艇上不划桨、坐在船尾掌舵并喊口令的那个人，
 全写是 coxswain。也作动词。可数。
-① The cox called the rate.
-= 舵手喊着桨频。
+① The cox called the rate and nobody looked up from the blade.
+= 舵手喊着桨频，没人从桨叶上抬起眼来。
 a cox = 赛艇舵手
-② She coxed the winning eight.
-= 那条夺冠的八人艇是她掌的舵。
+② She coxed the winning eight three years in a row.
+= 那条夺冠的八人艇连着三年是她掌的舵。
 cox = 当舵手
-③ The coxswain sits in the stern.
-= 舵手坐在船尾。
+③ The coxswain sits in the stern and weighs less than anyone aboard.
+= 舵手坐在船尾，是全船最轻的一个。
 a coxswain = 舵手（全写）
 构词：coxswain 的截短
 注意读音：全写读起来只有两个音节。
@@ -10266,14 +10266,14 @@ coy
 核心：两支。一是忸怩作态的：装害羞来招人注意，带一点贬义；
 二是含糊其辞的：故意不肯把话说明，介词用 about。副词
 coyly，名词 coyness。
-① She gave a coy smile.
-= 她笑得忸怩作态。
+① She gave a coy smile and let him work out the rest.
+= 她笑得忸怩作态，剩下的让他自己去想。
 a coy smile = 忸怩作态的笑
-② The firm is coy about its profits.
-= 那家公司对利润讳莫如深。
+② The firm is coy about its profits and publishes the minimum.
+= 那家公司对利润讳莫如深，只公布最低限度。
 be coy about = 对……含糊其辞
-③ She looked away coyly.
-= 她忸怩地把脸转开。
+③ She looked away coyly and watched him in the window instead.
+= 她忸怩地把脸转开，改从窗玻璃里看他。
 coyly = 忸怩地
 coyness = 忸怩作态；含糊其辞
 构词：古法语 coi 安静的
@@ -10282,14 +10282,14 @@ coyness = 忸怩作态；含糊其辞
 coyote
 核心：郊狼：北美的一种小型野犬，比狼小，叫声凄厉，适应力
 极强，如今连城市里都有。美式俚语里另指带人偷渡的蛇头。可数。
-① A coyote crossed the highway.
-= 一只郊狼穿过了公路。
+① A coyote crossed the highway at three in the morning.
+= 凌晨三点，一只郊狼穿过了公路。
 a coyote = 郊狼
-② Coyotes howl at dusk.
-= 郊狼黄昏时嚎叫。
+② Coyotes howl at dusk and set off every dog in the valley.
+= 郊狼黄昏时嚎叫，把谷里的狗全引得叫起来。
 howl at dusk = 黄昏嚎叫
-③ They paid a coyote to cross.
-= 他们花钱找蛇头带着过境。
+③ They paid a coyote to cross and were left in the desert.
+= 他们花钱找蛇头带着过境，结果被丢在沙漠里。
 a coyote = 偷渡蛇头（美式俚语）
 构词：纳瓦特尔语 coyotl
 注意读音：两个音节与三个音节的读法都有人用。
@@ -10297,14 +10297,14 @@ a coyote = 偷渡蛇头（美式俚语）
 coypu
 核心：河狸鼠：南美的大型半水生啮齿动物，为取毛皮被引进各地，
 逃逸后成了掏空堤岸的入侵物种。也叫 nutria。可数。
-① Coypu burrows weaken the banks.
-= 河狸鼠打的洞把堤岸掏空了。
+① Coypu burrows weaken the banks until a stretch gives way.
+= 河狸鼠打的洞把堤岸掏空，直到有一段塌下去。
 a coypu = 河狸鼠
-② Coypu were farmed for fur.
-= 河狸鼠是为取毛皮养的。
+② Coypu were farmed for fur and escaped into the marshes by the hundred.
+= 河狸鼠是为取毛皮养的，成百地逃进了沼泽。
 be farmed for fur = 为取毛皮而养
-③ Coypu are also called nutria.
-= 河狸鼠也叫另一个名字。
+③ A coypu can eat its own weight in reeds in a few days.
+= 一只河狸鼠几天就能吃掉与自身体重相当的芦苇。
 nutria = 河狸鼠（另一个名字）
 构词：南美原住民语言
 注意用法：也叫 nutria。
@@ -10312,14 +10312,14 @@ nutria = 河狸鼠（另一个名字）
 coz
 核心：cousin 的旧式缩略，莎士比亚戏里常见的亲昵称呼，今天
 只在仿古文字里读到。可数。
-① Sweet coz, come here.
-= 好表妹，过来。
+① Sweet coz, come sit by me and tell me what the messenger said.
+= 好表妹，过来坐下，把信使说的话讲给我听。
 coz = 表亲（旧式亲昵称呼）
-② Shakespeare uses coz throughout.
-= 莎士比亚通篇都用这个称呼。
+② Nay, coz, I meant no harm by the jest, and you know it.
+= 别这样，表哥，那句玩笑我并无恶意，你是知道的。
 use coz = 用那个旧称
-③ Modern writers use coz only for period flavour.
-= 今天的作者用这个称呼只为做旧。
+③ How now, coz, what brings you back before the wedding day?
+= 怎么了表弟，婚期还没到，你怎么就回来了？
 use coz for period flavour = 用这个旧称来做旧
 构词：cousin 的截短
 注意语域：旧词，仿古用法。
@@ -10327,14 +10327,14 @@ use coz for period flavour = 用这个旧称来做旧
 cozily
 核心：美式拼法的「舒适地、暖融融地」，英式写 cosily。名词
 coziness 是那份温馨。也贬义地说两方关系近得可疑。
-① They sat cozily by the stove.
-= 他们暖融融地坐在炉边。
+① The three of them were packed cozily into the back of the car.
+= 他们三个舒舒服服地挤在车后座。
 sit cozily = 舒舒服服地坐着
-② The coziness of the room won her over.
-= 那屋子的温馨打动了她。
+② The coziness of the room won her over before she saw the rent.
+= 还没看到租金，那屋子的温馨就打动了她。
 coziness = 温馨舒适
-③ The two firms are cozily linked.
-= 那两家公司关系近得可疑。
+③ The two auditors sat cozily on the client's own board.
+= 那两名审计师就坐在客户自己的董事会里，近得可疑。
 be cozily linked = 关系近得可疑
 构词：cozy 舒适的 + -ly
 注意拼写：英式写 cosily 与 cosiness。
