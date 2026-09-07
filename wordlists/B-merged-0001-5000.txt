@@ -68885,11 +68885,11 @@ Buggins' turn
 核心：英式说法，贬义：升迁或轮值不看本事，只看排到谁了。Buggins
 是随口安的一个普通姓氏，代指「随便哪个人」。多说 by Buggins' turn。
 不可数。
-① The post went by Buggins' turn.
-= 那个位置是照排班轮到谁就给谁。
+① The post went by Buggins' turn to a man who did not want it.
+= 那个位置照排班轮给了一个并不想要它的人。
 by Buggins' turn = 论资排辈轮着来
-② They wanted merit, not Buggins' turn.
-= 他们要的是凭本事，不是论资排辈。
+② They wanted merit, not Buggins' turn, and said so in the advert.
+= 他们要的是凭本事，不是论资排辈，招聘启事上就写着。
 Buggins' turn = 论资排辈的做法
 构词：随口安的一个姓氏加 turn
 注意语域：贬义，英式，多见于讲机构任命。
@@ -69035,11 +69035,11 @@ building society
 放房贷。它跟银行的根本分别在归属：building society 归存款的
 会员所有，银行归股东所有，所以前者的盈利理论上回到会员身上。
 可数。
-① She has a building society account.
-= 她在建房互助会开了户。
+① She has a building society account that pays a little more than the bank.
+= 她在建房互助会开了户，利息比银行高一点。
 an account = 账户
-② Building societies are owned by members.
-= 那类机构归会员所有。
+② Building societies are owned by members, so there are no shareholders to pay.
+= 那类机构归会员所有，没有股东要分红。
 be owned by = 归……所有
 构词：building 建房 + society 会社
 注意别混：
@@ -69292,11 +69292,11 @@ bulldog
 后来被禁。今天这个词更常用在比喻上：
 bulldog spirit 指咬住不放、绝不退让的那股劲，
 在英国带着强烈的民族意象。可数。
-① The bulldog refused to let go.
-= 那条斗牛犬咬住就不松口。
+① The bulldog refused to let go of the rope for twenty minutes.
+= 那条斗牛犬咬着绳子二十分钟不肯松口。
 let go = 松开
-② They showed bulldog spirit.
-= 他们表现出咬住不放的韧劲。
+② They showed bulldog spirit and held the score for an hour.
+= 他们表现出咬住不放的韧劲，把比分守了一小时。
 bulldog spirit = 顽强不退让的劲头
 构词：bull 公牛 + dog 狗
 注意来历：名字来自那种已被禁止的旧式娱乐。
@@ -69322,11 +69322,11 @@ bulldozer
 引申指那种不听劝、硬往前推的人，说 he is a bulldozer
 是在说他碾过所有反对意见——跟动词 bulldoze 一样带批评。
 可数。
-① A bulldozer cleared the site.
-= 一台推土机把工地清了出来。
+① A bulldozer cleared the site in two days and buried the foundations.
+= 一台推土机两天就清完工地，把地基埋了。
 clear = 清理
-② As a manager he is a bulldozer.
-= 他当管理者是个碾着人往前推的。
+② As a manager he is a bulldozer and has lost three deputies.
+= 他当管理者是个碾着人往前推的，副手已经走了三个。
 指人那一支，带批评。
 构词：bull 公牛 + doze 猛击
 词族：
@@ -69361,11 +69361,11 @@ bullet train
 核心：高速列车的通俗说法，最早指日本的新干线——车头流线型
 像子弹，名字由此而来。今天泛指各国的高铁，
 新闻里用它比说 high-speed rail 更口语。可数。
-① They took the bullet train to Kyoto.
-= 他们坐新干线去了京都。
+① They took the bullet train to Kyoto and were there before lunch.
+= 他们坐新干线去京都，午饭前就到了。
 take a train = 乘火车
-② The bullet train runs every ten minutes.
-= 高速列车每十分钟一班。
+② The bullet train runs every ten minutes and leaves to the second.
+= 高速列车十分钟一班，发车分秒不差。
 构词：bullet 子弹 + train 列车
 近义对照：
 bullet train = 高速列车（通俗说法）
@@ -69429,10 +69429,10 @@ bullfight
 核心：西班牙、葡萄牙和拉美部分地区的一种传统表演，
 斗牛士在场上与公牛周旋。这个词在英语里天然带争议色彩：
 提到它多半连着动物福利的讨论，不少地方已立法禁止。可数。
-① They watched a bullfight in Seville.
-= 他们在塞维利亚看了场斗牛。
-② Bullfights draw protests.
-= 斗牛表演常引来抗议。
+① They watched a bullfight in Seville and left after the second bull.
+= 他们在塞维利亚看斗牛，看到第二头牛就走了。
+② Bullfights draw protests outside the gates every season.
+= 每个赛季斗牛场门外都有抗议。
 draw = 招来
 构词：bull 公牛 + fight 打斗
 注意语用：这个词天然带争议色彩。
@@ -69457,11 +69457,11 @@ bullfighting
 核心：斗牛这项活动的统称。它在英语文本里几乎总出现在争论中：
 一边说是传统与技艺，一边说是虐待动物，
 所以用这个词时上下文往往已经带着立场。不可数。
-① Bullfighting divides opinion.
-= 斗牛让人看法两极。
+① Bullfighting divides opinion within the same family at the same table.
+= 同一张桌上的一家人，对斗牛的看法都能两极。
 divide opinion = 让意见分裂
-② Some countries have outlawed bullfighting.
-= 有些国家已宣布斗牛非法。
+② Some countries have outlawed bullfighting while others still subsidise it.
+= 有些国家已宣布斗牛非法，另一些却仍在补贴它。
 outlaw = 宣布为非法
 构词：bullfight 斗牛 + -ing
 注意语用：文本里几乎总带着立场。
@@ -69470,11 +69470,11 @@ bullfinch
 核心：一种小型雀鸟，雄鸟胸腹是鲜亮的砖红色，头顶一块黑，
 在英国的花园和树篱间见得到。名字里的 bull 说的是它那副
 短粗结实的身形和大脑袋。可数。
-① A bullfinch landed on the hedge.
-= 一只红腹灰雀落在树篱上。
+① A bullfinch landed on the hedge and stripped the buds off a branch.
+= 一只红腹灰雀落在树篱上，把一根枝上的花苞啄光了。
 land on = 落在
-② Bullfinches are shy of people.
-= 那种鸟怕人。
+② Bullfinches are shy of people and vanish if you open the window.
+= 红腹灰雀怕人，一开窗就没影了。
 be shy of = 怕、躲着
 构词：bull 公牛 + finch 雀
 注意来历：名字说的是它短粗结实的身形。
@@ -69483,11 +69483,11 @@ bullfrog
 核心：一种大型蛙，个头远大于普通青蛙，叫声低沉洪亮，
 像牛叫一样能传很远——名字正是从这个叫声来的。
 北美牛蛙被引入不少地方后成了强势入侵物种。可数。
-① A bullfrog called from the pond.
-= 池塘里传来牛蛙的叫声。
+① A bullfrog called from the pond and carried across three fields.
+= 池塘里传来牛蛙的叫声，隔三块地都听得见。
 call = 鸣叫
-② Bullfrogs grow much larger than frogs.
-= 牛蛙比普通青蛙大得多。
+② Bullfrogs grow much larger than frogs and eat whatever fits.
+= 牛蛙比普通青蛙大得多，塞得下的都吃。
 构词：bull 公牛 + frog 蛙
 注意来历：得名于那种像牛叫的低沉鸣声。
 
@@ -69609,11 +69609,11 @@ bullring
 核心：斗牛场，圆形的场地四周是看台。这个词几乎只出现在
 讲西班牙和拉美的文本里，跟 bullfight 一样带争议色彩；
 不少旧斗牛场如今改作了演出场馆。可数。
-① The bullring was packed.
-= 斗牛场坐满了人。
+① The bullring was packed and the cheap seats were in the sun.
+= 斗牛场坐满了人，便宜的座位都在太阳底下。
 packed = 挤满的
-② Some bullrings now host concerts.
-= 有些斗牛场如今办演唱会。
+② Some bullrings now host concerts and the sand has gone.
+= 有些斗牛场如今办演唱会，场上的沙也没了。
 host = 举办
 构词：bull 公牛 + ring 场地
 词族：
@@ -69624,11 +69624,11 @@ bullrush
 香蒲那种顶着褐色棒状花穗的，或者莎草科的一类。
 两种拼法都通行，bulrush 更标准一点，多一个 l 的这个形式
 常见于旧文本。可数。
-① Bullrushes grew along the bank.
-= 河岸边长着一排香蒲。
+① A single bullrush stood in the ditch where the water had gone.
+= 水退了的沟里立着一根孤零零的香蒲。
 along the bank = 沿着岸
-② The basket was hidden among bullrushes.
-= 那只篮子藏在香蒲丛里。
+② He cut bullrushes to thatch the shed and left them to dry.
+= 他割了香蒲盖棚顶，先摊开晾着。
 among = 在……当中
 注意拼写：
 bulrush = 香蒲、蒲草（更标准的拼法）
@@ -69672,10 +69672,10 @@ bullshitter
 核心：满嘴胡扯的人——话说得头头是道，内容却经不起推敲。
 它跟骗子的分别跟 bullshit 一样：骗子有目的地编，
 bullshitter 只是不在乎真假。粗俗口语，贬义。可数。
-① He is a complete bullshitter.
-= 他满嘴跑火车。
-② Nobody takes the bullshitter seriously.
-= 没人拿那个胡吹的人当真。
+① He is a complete bullshitter and has never once been checked.
+= 他满嘴跑火车，却从来没人核过他的话。
+② Nobody takes the bullshitter seriously after the second meeting.
+= 开过第二次会，就没人拿那个胡吹的人当真了。
 take someone seriously = 拿某人当真
 构词：bullshit 胡扯 + -er
 注意语域：粗俗口语，贬义。
@@ -69808,10 +69808,10 @@ bumbag
 美式管它叫 fanny pack——这个说法在英国万万不能用，
 因为 fanny 在英式英语里是粗俗词，指女性生殖器；
 反过来 bum 在美式里指流浪汉，两边各有各的坑。可数。
-① She wore a bumbag on the hike.
-= 徒步时她系了个腰包。
-② The bumbag straps round the waist.
-= 那种小包用带子系在腰上。
+① She wore a bumbag on the hike and kept the map in it.
+= 徒步时她系了个腰包，地图就放在里面。
+② The bumbag straps round the waist and turns to the front on a crowded train.
+= 腰包用带子系在腰上，车挤时就转到身前。
 strap round the waist = 系在腰上
 构词：bum 屁股 + bag 包
 注意地域：
@@ -69839,10 +69839,10 @@ bumblebee
 名字里的 bumble 说的正是那个声音。它跟蜜蜂的分别在名字上就
 点出来了：蜜蜂 honeybee 是靠蜜得名，熊蜂靠声音得名。
 可数。
-① A bumblebee landed on the flower.
-= 一只熊蜂落在花上。
-② Bumblebees are furry and round.
-= 熊蜂毛茸茸圆滚滚。
+① A bumblebee landed on the flower and bent the whole stem.
+= 一只熊蜂落在花上，把整根茎都压弯了。
+② Bumblebees are furry and round and fly in weather bees will not.
+= 熊蜂毛茸茸圆滚滚，蜜蜂不肯出门的天气它照飞。
 furry = 毛茸茸的
 构词：bumble 嗡嗡 + bee 蜂
 注意来历：得名于飞行时低沉的嗡嗡声。
@@ -69898,10 +69898,10 @@ bumfluff
 核心：英式口语，指少年下巴和上唇长出的那层稀疏软毛——
 还算不上胡子的那个阶段。说这个词多半带取笑，
 用来揶揄小伙子还没长开。不可数。
-① He is proud of his bumfluff.
-= 他为下巴上那点软毛得意。
-② Bumfluff is not a beard yet.
-= 那点软毛还算不上胡子。
+① He is proud of his bumfluff and refuses to shave it off.
+= 他为下巴上那点软毛得意，怎么也不肯刮掉。
+② The photograph shows a boy of sixteen with bumfluff and a borrowed tie.
+= 照片上是个十六岁的男孩，一脸软毛，打着借来的领带。
 bumfluff = 少年脸上的稀疏软毛
 构词：bum 加 fluff 绒毛
 注意语域：英式口语，带取笑。
@@ -69983,10 +69983,10 @@ bumph
 核心：bumf 的另一种拼法，指没人想看的一堆印刷品——广告单、
 表格、说明书。两种拼法都通行，bumf 更常见一点。
 英式口语，不可数。
-① The drawer is full of bumph.
-= 那个抽屉里塞满了废纸文件。
-② He threw the bumph away.
-= 他把那堆没用的纸扔了。
+① The drawer is full of bumph from three different insurers.
+= 那个抽屉里塞满三家保险公司寄来的废纸文件。
+② There is forty pages of bumph before the form itself begins.
+= 正式表格开始之前，先是四十页没用的印刷品。
 注意拼写：
 bumf = 一堆没用的印刷品（更常见）
 bumph = 同上（另一种拼法）
@@ -69995,11 +69995,11 @@ bumpkin
 核心：乡巴佬，指没见过世面、举止土气的乡下人。它几乎总跟
 country 连用，写作 country bumpkin。带轻蔑，
 是城里人看乡下人的说法，用来说真人是失礼的。可数。
-① They treated him like a country bumpkin.
-= 他们把他当乡巴佬看。
+① They treated him like a country bumpkin and he let them.
+= 他们把他当乡巴佬看，他也由着他们。
 a country bumpkin = 土气的乡下人
-② The character is a comic bumpkin.
-= 那个角色是个逗乐的乡下傻小子。
+② The character is a comic bumpkin who turns out to own the estate.
+= 那个角色是个逗乐的乡下傻小子，最后发现庄园是他的。
 comic = 逗乐的
 构词：可能来自荷兰语 boomken 小树
 注意语用：带轻蔑，用来说真人是失礼的。
@@ -70122,10 +70122,10 @@ bunfight
 带一点取笑：一屋子人挤着吃点心。二是引申的争抢和吵闹——
 说 a bunfight over the budget 是为预算吵成一团。
 今天偏旧，多见于新闻标题。可数。
-① The reception was a real bunfight.
-= 那场招待会挤得不成样子。
-② There was a bunfight over funding.
-= 为了经费吵成了一团。
+① The reception was a real bunfight and the food ran out by seven.
+= 那场招待会挤得不成样子，七点就没吃的了。
+② There was a bunfight over funding and two departments stopped speaking.
+= 为了经费吵成一团，两个部门从此不说话。
 a bunfight over = 为某事的争抢吵闹
 构词：bun 小圆面包 + fight 争抢
 注意语域：英式口语，偏旧。
@@ -70156,10 +70156,10 @@ bungalow
 英国的退休人群里很受欢迎。词来自印地语，
 本义是"孟加拉式的房子"——殖民时期传回英国，
 指的就是那种带宽廊的平顶单层住宅。可数。
-① They retired to a bungalow.
-= 他们退休后搬进了平房。
-② A bungalow has no stairs.
-= 平房没有楼梯。
+① They retired to a bungalow with a garden on three sides.
+= 他们退休后搬进一座平房，三面都有园子。
+② A bungalow has no stairs, which is why the waiting list is long.
+= 平房没有楼梯，所以排队的人才那么多。
 stairs = 楼梯
 构词：印地语 bangla 孟加拉式的房子
 注意用法：指单层独栋，不是泛指平房。
@@ -70231,10 +70231,10 @@ bunion
 核心：脚上大拇趾根部向外鼓出来的那个骨性肿块，
 把大脚趾挤得往其他趾头偏。穿窄头鞋会加重它。
 它只指这一处，不是泛指脚上的包。可数。
-① She has a painful bunion.
-= 她大脚趾根那个包很疼。
-② Narrow shoes make bunions worse.
-= 窄头鞋会让它更严重。
+① She has a painful bunion and buys her shoes a size up.
+= 她大脚趾根那个包很疼，买鞋都要大一码。
+② Narrow shoes make bunions worse and no cream will help.
+= 窄头鞋会让那个骨突更严重，抹什么药膏都没用。
 make worse = 使加重
 构词：古法语 buigne 肿块
 注意用法：专指大拇趾根部那个骨突。
