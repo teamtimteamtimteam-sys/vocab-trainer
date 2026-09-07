@@ -88,12 +88,12 @@ blood clot
 核心：血凝成的一块。它本是保护机制——伤口靠凝血止住流血；
 但长在血管里就成了麻烦：堵住脑血管是中风，堵住肺血管是肺栓塞。
 同一件事在体外是救命的，在体内是要命的。可数。
-① A blood clot blocked the artery.
-= 一块血栓堵住了动脉。
-② She was treated for a blood clot.
-= 她因血栓接受了治疗。
-③ Long flights raise the risk of blood clots.
-= 长途飞行会增加血栓风险。
+① A blood clot blocked the artery and the leg went cold below the knee.
+= 一块血栓堵住了动脉，膝盖以下的腿都凉了。
+② She was treated for a blood clot with injections she gave herself.
+= 她因血栓接受治疗，针是自己打的。
+③ Long flights raise the risk of blood clots, so the crew tell everyone to walk about.
+= 长途飞行会增加血栓风险，所以乘务员会叫大家起来走动。
 raise the risk of = 增加……的风险
 构词：blood 血 + clot 凝块
 注意用法：体外止血是好事，
@@ -103,13 +103,13 @@ blood count
 核心：验血里最基础的一项，数血里各类细胞有多少——红细胞、
 白细胞、血小板。医生看它能看出贫血、感染和凝血问题，
 所以它常是查病的第一步。可数。
-① Her blood count was low.
-= 她的血细胞计数偏低。
+① Her blood count was low enough for the operation to be put off.
+= 她的血细胞计数低到手术只好推迟。
 a low blood count = 血细胞计数偏低
-② They repeated the blood count.
-= 他们又查了一次血常规。
-③ A high white blood count suggests infection.
-= 白细胞高提示有感染。
+② They repeated the blood count three days later to see which way it was going.
+= 三天后他们又查了一次血常规，看是往哪个方向走。
+③ A high white blood count suggests infection somewhere the scan has not found.
+= 白细胞计数偏高，提示某处有扫描还没找到的感染。
 white blood count = 白细胞计数
 构词：blood 血 + count 计数
 词族：
@@ -119,12 +119,12 @@ blood donor
 核心：献血的人。献血这件事在英语里的动词搭配是 give blood
 或 donate blood，不说 send。多数国家的献血是无偿的，
 靠的是登记制度和定期召集。可数。
-① She has been a blood donor for years.
-= 她献血很多年了。
-② Blood donors are always needed.
-= 献血者永远不嫌多。
-③ He gives blood twice a year.
-= 他一年献两次血。
+① She has been a blood donor for years and has the card to prove it.
+= 她献血很多年了，卡上记得清清楚楚。
+② Blood donors are always needed because the stock keeps for only a few weeks.
+= 献血者永远不嫌多，因为血只能存几个星期。
+③ He signed up as a blood donor and gives blood twice a year.
+= 他登记成了献血者，一年献两次血。
 give blood = 献血
 构词：blood 血 + donor 捐献者
 词族：
@@ -134,13 +134,13 @@ blood group
 核心：血型的英式说法，跟美式的 blood type 指同一件事。
 最常说的四型是 A、B、AB、O，再加 Rh 阳性或阴性。O 型阴性因为
 表面抗原最少，紧急时可以输给多数人，所以叫万能供血者。可数。
-① She belongs to blood group B.
-= 她是 B 型血。
+① She belongs to blood group B, as both her parents do.
+= 她是 B 型血，父母也都是。
 belong to = 属于
-② The card records his blood group.
-= 那张卡上记着他的血型。
-③ Group O negative is the universal donor.
-= O 型阴性是万能供血者。
+② The card records his blood group on the back, next to the allergies.
+= 那张卡背面记着他的血型，旁边是过敏史。
+③ Group O negative is the universal donor, so every hospital keeps a few units.
+= O 型阴性是万能供血者，每家医院都存着几袋。
 universal donor = 万能供血者
 构词：blood 血 + group 类别
 注意地域：
@@ -183,12 +183,12 @@ blood sport
 这个词天然带批评，说的人多半反对它，所以它常出现在动物保护的
 争论里。引申一支也常用：形容政治和媒体上你死我活的争斗。
 可数。
-① Fox hunting is a blood sport.
-= 猎狐是一种血腥运动。
-② Blood sports were banned there.
-= 那里禁止了这类活动。
-③ Politics has become a blood sport.
-= 政治变成了一场厮杀。
+① Fox hunting is a blood sport that took decades to ban.
+= 猎狐是一种血腥运动，禁了几十年才禁成。
+② Blood sports were banned there and went on quietly for years afterwards.
+= 那里禁止了这类活动，之后好些年仍在私下进行。
+③ Politics has become a blood sport, and few candidates last two terms.
+= 政治变成了一场厮杀，能干满两届的候选人没几个。
 引申义：你死我活的争斗。
 构词：blood 血 + sport 运动
 注意语用：天然带批评，用的人多半反对。
@@ -197,14 +197,14 @@ blood sugar
 核心：血里葡萄糖的浓度，是身体的即时燃料水平。它必须稳在一个
 窄范围里：高了伤血管神经，低了人会发抖出汗甚至昏过去，
 糖尿病管的就是这个数。不可数。
-① He checks his blood sugar daily.
-= 他每天测血糖。
+① He checks his blood sugar daily with a monitor stuck to his arm.
+= 他每天用贴在胳膊上的监测仪测血糖。
 check blood sugar = 测血糖
-② Low blood sugar made her shaky.
-= 低血糖让她发抖。
+② Low blood sugar made her shaky and she could not hold the cup.
+= 低血糖让她发抖，杯子都端不稳。
 low blood sugar = 低血糖
-③ Sweet drinks spike blood sugar.
-= 含糖饮料会让血糖飙升。
+③ Sweet drinks spike blood sugar faster than the same sugar in food.
+= 含糖饮料让血糖飙升，比同样的糖装在食物里还快。
 spike = 骤升
 构词：blood 血 + sugar 糖
 注意用法：高了低了都是问题，
