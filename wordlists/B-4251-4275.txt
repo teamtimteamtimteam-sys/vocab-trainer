@@ -309,14 +309,14 @@ slice = 切片
 
 cephalic
 核心：头的、头部的：解剖与动物学的形容词。术语。
-① The cephalic end develops first.
-= 头端先发育。
+① The cephalic end develops first and the tail end lags behind.
+= 头端先发育，尾端跟在后面。
 the cephalic end = 头端
-② Cephalic veins run up the arm.
-= 头静脉沿手臂上行。
+② Cephalic veins run up the arm just under the skin.
+= 头静脉紧贴皮下沿手臂上行。
 cephalic vein = 头静脉
-③ Cephalic measurements were recorded.
-= 头部尺寸被记录下来。
+③ Cephalic measurements were recorded for every skull in the collection.
+= 馆藏的每一具颅骨都记录了头部尺寸。
 measurement = 尺寸测量
 构词：希腊语 kephale 头
 注意用法：解剖与动物学的术语。
@@ -324,14 +324,14 @@ measurement = 尺寸测量
 cephalopod
 核心：头足类：章鱼、乌贼、鱿鱼、鹦鹉螺这一类软体动物，
 足长在头上、有墨囊、多数能变色。可数。
-① Octopuses are cephalopods.
-= 章鱼属头足类。
+① Octopuses are cephalopods and so is the nautilus in its shell.
+= 章鱼属头足类，壳里那只鹦鹉螺也是。
 a cephalopod = 头足类动物
-② Cephalopods change colour fast.
-= 头足类变色很快。
+② Cephalopods change colour fast enough to signal to each other.
+= 头足类变色快到能互相打信号。
 change colour = 变色
-③ The cephalopod squeezed through the gap.
-= 那只头足类从缝里挤了过去。
+③ The cephalopod squeezed through a gap the width of its beak.
+= 那只头足类从只有喙那么宽的缝里挤了过去。
 squeeze through = 从……挤过
 构词：希腊语 kephale 头 加 pous 足
 注意用法：字面就是脚长在头上。
@@ -340,14 +340,14 @@ ceramic
 核心：陶瓷的：黏土烧成的材料与制品。单数指材料，复数
 ceramics 既指陶瓷器，也指制陶这门手艺。工业上也说高温
 陶瓷部件。
-① The tiles are ceramic.
-= 那些砖是陶瓷的。
+① The tiles are ceramic and crack if a heavy pan is dropped.
+= 那些砖是陶瓷的，掉个重锅就裂。
 ceramic = 陶瓷的
-② She studies ceramics.
-= 她学的是陶艺。
+② She studies ceramics and fires everything twice.
+= 她学的是陶艺，每件都烧两遍。
 ceramics = 陶艺；陶瓷器
-③ Ceramic brakes resist heat.
-= 陶瓷刹车耐热。
+③ Ceramic brakes resist heat that would boil ordinary fluid.
+= 陶瓷刹车耐得住能把普通刹车油烧开的高温。
 ceramic brakes = 陶瓷刹车
 构词：希腊语 keramos 陶土
 注意用法：说手艺与作品时用复数。
@@ -355,14 +355,14 @@ ceramic brakes = 陶瓷刹车
 cereal
 核心：两支。一是谷物：小麦、稻、玉米这类作物与它们的
 籽实。二是早餐麦片：泡牛奶吃的那种加工谷物食品。
-① Cereal crops need dry weather at harvest.
-= 谷物收割时要天干。
+① Cereal crops need dry weather at harvest more than at any other time.
+= 谷物在收割时比任何时候都更需要天干。
 cereal crops = 谷类作物
-② She eats cereal for breakfast.
-= 她早餐吃麦片。
+② She eats cereal for breakfast and the same brand every year.
+= 她早餐吃麦片，年年吃同一个牌子。
 cereal = 早餐麦片
-③ Cereals are the world's staple food.
-= 谷物是全世界的主食。
+③ Cereals are the world's staple food and three of them feed most of it.
+= 谷物是全世界的主食，其中三种养活了大半人口。
 cereals = 谷物
 构词：罗马谷神 Ceres 的名字
 注意别混：serial 是连续的，跟它同音不同拼。
@@ -370,14 +370,14 @@ cereals = 谷物
 cerebellum
 核心：小脑：脑后下方那一块，管协调、平衡与动作的精细
 调节。复数 cerebellums 或 cerebella。可数。
-① The cerebellum coordinates movement.
-= 小脑协调动作。
+① The cerebellum coordinates movement without any conscious effort.
+= 小脑协调动作，全不用有意去想。
 the cerebellum = 小脑
-② Damage to the cerebellum affects balance.
-= 小脑受损会影响平衡。
+② Damage to the cerebellum affects balance long before anything else.
+= 小脑受损，最先出问题的是平衡。
 affect = 影响
-③ The cerebellum sits below the cerebrum.
-= 小脑在大脑下方。
+③ The cerebellum sits below and behind the rest of the brain.
+= 小脑位于脑其余部分的下后方。
 sit below = 位于……下方
 构词：拉丁语 cerebellum 小的脑
 注意别混：cerebrum 是大脑，cerebellum 是小脑。
@@ -404,14 +404,14 @@ a cerebral hemisphere = 大脑半球
 cerebrum
 核心：大脑：脑最大的那一部分，分左右两半球，管思维、
 感觉与随意运动。复数 cerebrums 或 cerebra。可数。
-① The cerebrum has two hemispheres.
-= 大脑分两个半球。
+① The cerebrum has two hemispheres joined by a thick band of fibres.
+= 大脑分两个半球，由一束粗纤维连着。
 the cerebrum = 大脑
-② Thought happens in the cerebrum.
-= 思维发生在大脑里。
+② Thought happens in the cerebrum and takes a surprising amount of sugar.
+= 思维发生在大脑里，耗掉的糖多得出人意料。
 happen in = 发生在……
-③ The cerebrum is folded to fit.
-= 大脑折叠起来才装得下。
+③ The cerebrum is folded to fit three times its area into the skull.
+= 大脑折叠起来，才把三倍的面积塞进颅腔。
 be folded = 折叠起来
 构词：拉丁语 cerebrum 脑
 注意别混：小脑是 cerebellum。
@@ -420,14 +420,14 @@ ceremonial
 核心：仪式的、礼仪上的：说服装、场合、职务。常指只有
 礼仪意义、没有实权的那一层。副词 ceremonially。也作
 名词指整套仪节。
-① The role is purely ceremonial.
-= 那个职位纯属虚位。
+① The role is purely ceremonial and carries no vote at all.
+= 那个职位纯属虚位，一票表决权也没有。
 purely ceremonial = 纯属礼仪性的
-② He wore ceremonial dress.
-= 他穿着礼服。
+② He wore ceremonial dress that had not been out of its box for years.
+= 他穿的礼服，好些年没出过箱子。
 ceremonial dress = 礼服
-③ The flag was ceremonially raised.
-= 旗帜按礼仪升起。
+③ The flag was ceremonially raised at eight and lowered at dusk.
+= 旗帜八点按礼仪升起，黄昏降下。
 ceremonially = 按仪式地
 构词：由表示仪式的那个词加形容词后缀
 注意别混：ceremonious 说人拘礼，不是说场合。
@@ -435,14 +435,14 @@ ceremonially = 按仪式地
 ceremonious
 核心：说人或做法过于讲究礼数、郑重其事，常带一点嫌它
 做作的意思。副词 ceremoniously。
-① He gave a ceremonious bow.
-= 他郑重其事地鞠了一躬。
+① He gave a ceremonious bow that took the room by surprise.
+= 他郑重其事地鞠了一躬，满屋子人都愣住了。
 a ceremonious bow = 郑重其事的鞠躬
-② She ceremoniously handed over the key.
-= 她一本正经地把钥匙交了过去。
+② She ceremoniously handed over the key to a shed.
+= 她一本正经地把一间棚子的钥匙交了过去。
 ceremoniously = 郑重其事地
-③ Their manner was stiff and ceremonious.
-= 他们的态度僵硬而拘礼。
+③ Their manner was stiff and ceremonious for the whole first hour.
+= 头一个小时里，他们的态度一直僵硬而拘礼。
 ceremonious = 拘礼的
 构词：由表示仪式的那个词加形容词后缀
 注意别混：ceremonial 说场合，这个说态度。
@@ -479,14 +479,14 @@ a closing ceremony = 闭幕式
 cerise
 核心：一种偏紫的深樱桃红。法语的樱桃，多用在时装与室内
 配色里。不可数。
-① The dress was deep cerise.
-= 那条裙子是深樱桃红。
+① The dress was deep cerise and lit up the whole photograph.
+= 那条裙子是深樱桃红，把整张照片都提亮了。
 cerise = 樱桃红
-② Cerise and grey go well together.
-= 樱桃红配灰很好看。
+② Cerise and grey go well together in a room with little light.
+= 光线不足的屋子里，樱桃红配灰很好看。
 go well together = 很搭
-③ She chose cerise for the walls.
-= 她给墙选了樱桃红。
+③ She chose cerise for the walls and regretted it by Christmas.
+= 她给墙选了樱桃红，到圣诞就后悔了。
 choose = 选
 构词：法语 cerise 樱桃
 注意用法：时装与配色语境里用。
@@ -494,14 +494,14 @@ choose = 选
 cerium
 核心：一种银灰色的稀土金属，符号 Ce，是稀土里最常见的
 一种，用在打火石、催化剂与抛光粉里。不可数。
-① Cerium is the commonest rare earth.
-= 铈是最常见的稀土。
+① Cerium is the commonest rare earth and is not rare at all.
+= 铈是最常见的稀土，其实一点也不稀有。
 cerium = 铈
-② Lighter flints contain cerium.
-= 打火石里含铈。
+② Lighter flints contain cerium and spark when they are struck.
+= 打火石里含铈，一擦就迸火星。
 contain = 含有
-③ Cerium oxide polishes glass.
-= 氧化铈用来抛光玻璃。
+③ Cerium oxide polishes glass down to an optical finish.
+= 氧化铈能把玻璃抛到光学级的光洁度。
 polish = 抛光
 构词：小行星 Ceres 的名字
 注意用法：材料与化学文字里读到。
@@ -509,13 +509,13 @@ polish = 抛光
 cert
 核心：英式口语：铁定会发生的事，几乎只用在 a dead cert
 这个说法里，赛马与打赌语境最多。可数。
-① He is a dead cert for the job.
-= 那个职位铁定是他的。
+① He is a dead cert for the job and everyone but he knows it.
+= 那个职位铁定是他的，除了他自己人人都知道。
 a dead cert = 铁定的事、稳赢的
-② The favourite looked a cert.
-= 那匹热门马看着是稳的。
+② The favourite looked a cert until the ground turned soft.
+= 场地变软之前，那匹热门马看着是稳的。
 look a cert = 看着十拿九稳
-③ Nothing is a cert in politics.
-= 政治上没有铁定的事。
+③ Nothing is a cert in politics eight weeks out from a vote.
+= 离投票还有八周，政治上没有什么是铁定的。
 构词：由表示确定性的那个词口语截短
 注意语域：英式口语，多见于赌马。

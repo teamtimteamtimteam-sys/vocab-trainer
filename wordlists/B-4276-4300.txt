@@ -79,14 +79,14 @@ certifiable = 可以认证的
 certitude
 核心：确信无疑的心理状态：比 certainty 更书面，更强调
 主观上的笃定，常带一点未必有根据的意味。不可数。
-① He spoke with total certitude.
-= 他说得毫无疑虑。
+① He spoke with total certitude about a country he had never visited.
+= 他从没去过那个国家，说起来却毫无疑虑。
 with certitude = 笃定地
-② Moral certitude can blind people.
-= 道德上的笃定会让人看不见别的。
+② Moral certitude can blind people to what is in front of them.
+= 道德上的笃定会让人看不见眼前的东西。
 moral certitude = 道德上的笃定
-③ Certitude is not the same as proof.
-= 笃定不等于证明。
+③ Her certitude survived three sets of figures that contradicted it.
+= 三组相反的数字摆出来，她的笃定还是没动摇。
 be not the same as = 不等于
 构词：拉丁语 certitudo
 注意别混：certainty 可说客观确定，这个偏主观笃定。
@@ -94,28 +94,28 @@ be not the same as = 不等于
 cerulean
 核心：天蓝色的：晴空那种带一点深的蓝。书面与文学用词，
 也用作颜料色名。
-① A cerulean sky stretched overhead.
-= 头顶是一片天蓝。
+① A cerulean sky stretched overhead for the whole of that week.
+= 那一整周，头顶都是一片天蓝。
 cerulean = 天蓝色的
-② He mixed cerulean blue into the water.
-= 他往水面调了点天蓝。
+② He mixed cerulean blue into the water and the paper buckled.
+= 他往水里调了点天蓝，纸都皱了起来。
 cerulean blue = 天蓝颜料
-③ Her eyes were cerulean.
-= 她的眼睛是天蓝色的。
+③ Her eyes were cerulean in some lights and grey in others.
+= 某些光线下她的眼睛是天蓝的，换个光又是灰的。
 构词：拉丁语 caeruleus 天蓝的
 注意语域：书面与文学用词。
 
 cerumen
 核心：耳垢的医学名，日常说 earwax。耳道里分泌的蜡状物，
 有防护作用。不可数。
-① Cerumen protects the ear canal.
-= 耳垢对耳道有保护作用。
+① Cerumen protects the ear canal and moves outward on its own.
+= 耳垢保护耳道，还会自己往外走。
 cerumen = 耳垢（医学名）
-② Excess cerumen can block hearing.
-= 耳垢太多会挡住听力。
+② Excess cerumen can block hearing without causing any pain.
+= 耳垢太多会挡住听力，却一点不疼。
 excess = 过多的
-③ The nurse removed the cerumen.
-= 护士把耳垢清了。
+③ The nurse removed the cerumen with warm water and a syringe.
+= 护士用温水和注射器把耳垢冲了出来。
 remove = 清除
 构词：拉丁语 cera 蜡
 注意语域：医学用词，日常说 earwax。
@@ -124,14 +124,14 @@ cervical
 核心：两支，因为词根颈在解剖里指两处。一是颈部的：
 cervical vertebrae 是颈椎。二是子宫颈的：cervical
 smear 是宫颈涂片。医学术语。
-① He injured a cervical vertebra.
-= 他伤了一节颈椎。
+① He injured a cervical vertebra and wore a collar for six weeks.
+= 他伤了一节颈椎，戴了六周颈托。
 cervical vertebrae = 颈椎
-② She had a cervical smear.
-= 她做了宫颈涂片检查。
+② She had a cervical smear and the result came back in a fortnight.
+= 她做了宫颈涂片，两周后出结果。
 a cervical smear = 宫颈涂片
-③ Cervical cancer is screened for.
-= 宫颈癌有筛查。
+③ Cervical cancer is screened for every three years here.
+= 这里的宫颈癌筛查每三年一次。
 be screened for = 有针对性的筛查
 构词：拉丁语 cervix 颈
 注意别混：同一个词管颈椎与子宫颈两处，看上下文。
@@ -140,14 +140,14 @@ cervix
 核心：子宫颈：子宫下端通向阴道的那一段。这个词在解剖上
 本义是颈，所以颈椎那边也用同一个词根。复数 cervices
 或 cervixes。可数。
-① The cervix dilates during labour.
-= 分娩时宫颈会扩张。
+① The cervix dilates during labour by about a centimetre an hour.
+= 分娩时宫颈每小时约扩张一厘米。
 the cervix = 子宫颈
-② Cells are taken from the cervix.
-= 从宫颈取细胞。
+② Cells are taken from the cervix with a small soft brush.
+= 用一把柔软的小刷子从宫颈取细胞。
 be taken from = 从……取
-③ The cervix was examined first.
-= 先检查了宫颈。
+③ The cervix closes again within a few weeks of the birth.
+= 产后几周之内，宫颈又会闭合。
 examine = 检查
 构词：拉丁语 cervix 颈
 注意用法：医学用词。
@@ -181,14 +181,14 @@ react with = 与……反应
 
 cessation
 核心：停止：正式用词，多用于战事、活动、症状。
-① They agreed a cessation of hostilities.
-= 他们同意停止敌对行动。
+① They agreed a cessation of hostilities that held for nine days.
+= 他们同意停止敌对行动，那次停火维持了九天。
 a cessation of hostilities = 停止敌对行动
-② The cessation of pain was sudden.
-= 疼痛是突然停的。
+② The cessation of pain was sudden and she did not trust it.
+= 疼痛停得很突然，她不敢信。
 the cessation of = ……的停止
-③ Smoking cessation clinics help.
-= 戒烟门诊有帮助。
+③ Smoking cessation clinics help most in the first three weeks.
+= 戒烟门诊在头三周里帮助最大。
 smoking cessation = 戒烟
 构词：拉丁语 cessare 停下
 注意语域：正式，日常说 stop。
@@ -196,14 +196,14 @@ smoking cessation = 戒烟
 cession
 核心：割让这件事：把领土或权利正式让出去，是 cede 的
 名词。法律与外交文书里用。
-① The treaty provided for the cession of the port.
-= 条约规定割让那个港口。
+① The treaty provided for the cession of the port and two islands.
+= 条约规定割让那个港口和两座岛。
 the cession of = 对……的割让
-② Cession was made under duress.
-= 那次割让是被迫的。
+② Cession was made under duress and disputed for a century after.
+= 那次割让是被迫的，此后争了一百年。
 under duress = 在胁迫下
-③ The cession took effect at once.
-= 割让立即生效。
+③ The cession took effect at once and the flag changed that morning.
+= 割让立即生效，当天上午旗就换了。
 take effect = 生效
 构词：拉丁语 cedere 让、退
 注意别混：session 是会期，跟它同音不同拼。
@@ -212,14 +212,14 @@ cesspit
 核心：化粪坑：没有下水道时把污水粪便存起来的坑，也说
 cesspool。比喻义常用而且语气很重：说一个地方或圈子烂透
 了。可数。
-① The cesspit needs emptying.
-= 化粪坑该清了。
+① The cesspit needs emptying twice a year and costs a fortune.
+= 化粪坑一年清两次，花钱不少。
 a cesspit = 化粪坑
-② The town became a cesspit of crime.
-= 那座城成了罪恶的污池。
+② The town became a cesspit of crime within a single decade.
+= 十年之间，那座城就成了罪恶的污池。
 a cesspit of = ……的污秽渊薮
-③ Rain overflowed the cesspit.
-= 雨水把化粪坑冲溢了。
+③ Rain overflowed the cesspit and ran down into the lane.
+= 雨水把化粪坑冲溢，顺着小路淌了下去。
 overflow = 溢出
 构词：可能出自表示沉淀池的旧词
 注意语域：比喻义语气很重。
@@ -227,14 +227,14 @@ overflow = 溢出
 cetacean
 核心：鲸类：鲸、海豚、鼠海豚这一类完全水生的哺乳动物。
 名词与形容词同形。动物学用词。可数。
-① Whales and dolphins are cetaceans.
-= 鲸和海豚都属鲸类。
+① Whales and dolphins are cetaceans and breathe air like we do.
+= 鲸和海豚都属鲸类，跟人一样呼吸空气。
 a cetacean = 鲸类动物
-② Cetacean numbers are monitored.
-= 鲸类数量受到监测。
+② Cetacean numbers are monitored from the air each summer.
+= 每年夏天都从空中监测鲸类的数量。
 be monitored = 受到监测
-③ The cetacean surfaced to breathe.
-= 那头鲸类浮上来换气。
+③ The cetacean surfaced to breathe and went down again at once.
+= 那头鲸类浮上来换气，随即又潜了下去。
 surface = 浮出水面
 构词：希腊语 ketos 海怪、大鱼
 注意用法：动物学里的分类词。
