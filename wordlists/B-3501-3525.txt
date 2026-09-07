@@ -2,11 +2,11 @@ Brownian motion
 核心：布朗运动：悬浮在液体或气体里的微粒被分子撞得不停乱抖的现象。
 最早由植物学家布朗在花粉颗粒上看到，后来成了分子确实存在的证据。
 物理学与统计学都用它。不可数。
-① Brownian motion is easy to see under a microscope.
-= 布朗运动在显微镜下很容易看到。
+① Brownian motion is easy to see under a microscope and impossible to predict.
+= 布朗运动在显微镜下很容易看到，却无法预测。
 Brownian motion = 布朗运动
-② The model treats price moves as Brownian motion.
-= 那个模型把价格波动当成布朗运动处理。
+② The model treats price moves as Brownian motion and misses the crashes.
+= 那个模型把价格波动当成布朗运动，崩盘就算不出来了。
 treat something as Brownian motion = 按布朗运动来处理
 构词：植物学家 Robert Brown 的姓加 -ian
 注意用法：金融数学里借它建模，不只是物理学的词。
@@ -48,11 +48,11 @@ brownout
 核心：电压下降造成的供电不足——灯变暗、电器转不动，
 但没有完全断电，这是它跟 blackout 的分别：一个是暗下来，
 一个是全黑。多因用电高峰或电网吃紧。美式用得多。可数。
-① A brownout dimmed the lights.
-= 电压不足让灯光暗了下来。
+① A brownout dimmed the lights and stalled every lift in the block.
+= 电压不足让灯光暗下来，整栋楼的电梯都停在半路。
 dim = 使变暗
-② Brownouts hit the city each summer.
-= 那座城每年夏天都闹电压不足。
+② Brownouts hit the city each summer when the air conditioners go on.
+= 空调一开，那座城每年夏天都闹电压不足。
 构词：brown 变暗 + out
 配对词：
 blackout = 完全停电
@@ -62,10 +62,10 @@ brownstone
 二是纽约、波士顿一带十九世纪那种排屋——外墙贴的正是这种石头，
 门前一段台阶通到二层，是那些城市的招牌建筑，
 所以 a brownstone 直接指那样一栋房子。可数。
-① They bought a brownstone in Brooklyn.
-= 他们在布鲁克林买了栋褐石排屋。
-② Brownstone weathers badly.
-= 褐砂石不太耐风化。
+① They bought a brownstone in Brooklyn with eleven steps to the door.
+= 他们在布鲁克林买了栋褐石排屋，门前十一级台阶。
+② Brownstone weathers badly and the facades are patched every generation.
+= 褐砂石不耐风化，那些立面隔一代人就要补一次。
 weather = 经受风化
 构词：brown 棕 + stone 石
 注意用法：既指石材也指那种排屋。
@@ -109,10 +109,10 @@ brrr
 核心：拟声词，冷得打哆嗦时从嘴里发出的那个声音，
 相当于中文的"冻死了"那声抖。只用在口语和写对话时，
 r 写几个不固定，写成 brr 或 brrrr 都见得到。
-① Brrr, it is freezing out here.
-= 哎哟，外面冻死了。
-② She said brrr and shut the window.
-= 她抖了一声就把窗关上了。
+① Brrr, it is freezing out here and the car will not start.
+= 哎哟，外面冻死了，车还打不着火。
+② She said brrr, shut the window and turned the heating up.
+= 她抖了一声，关上窗，把暖气开大了。
 构词：拟声
 注意用法：只用于口语和对话描写。
 
