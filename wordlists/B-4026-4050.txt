@@ -438,14 +438,14 @@ a Carib word = 加勒比语的词
 Caribbean
 核心：加勒比的：那片海、那些岛与那一带的人和文化。名词 the Caribbean
 指整片地区，恒加定冠词。重音有两种读法，英式偏后、美式偏前，都对。
-① They spent a month in the Caribbean.
-= 他们在加勒比待了一个月。
+① They spent a month in the Caribbean and never once left the island.
+= 他们在加勒比待了一个月，一次也没离开过那座岛。
 the Caribbean = 加勒比地区
-② Caribbean cooking blends African and Indian influences.
-= 加勒比菜融了非洲与印度的影响。
+② Caribbean cooking blends African and Indian influences in one pot.
+= 加勒比菜把非洲与印度的影响炖进了同一口锅。
 Caribbean cooking = 加勒比菜
-③ She writes about Caribbean literature.
-= 她研究加勒比文学。
+③ She writes about Caribbean literature and teaches two of its poets.
+= 她研究加勒比文学，课上讲其中两位诗人。
 Caribbean literature = 加勒比文学
 构词：族名 Carib 加 -bean
 注意读音：重音位置英美各有一种读法，两种都通行。
@@ -454,14 +454,14 @@ caribou
 核心：北美的驯鹿。英语用两个词分野生与驯养：北美野生的
 叫 caribou，欧亚驯化的叫 reindeer，其实是同一个物种。
 单复数同形，不加 s。
-① A herd of caribou crossed the road.
-= 一群驯鹿穿过公路。
+① A herd of caribou crossed the road and held up traffic for an hour.
+= 一群驯鹿穿过公路，堵了一小时的车。
 a herd of caribou = 一群驯鹿
-② Caribou migrate hundreds of miles.
-= 驯鹿迁徙几百英里。
+② Caribou migrate hundreds of miles between the same two valleys.
+= 驯鹿在同样两条山谷之间迁徙几百英里。
 migrate = 迁徙
-③ Caribou feed on lichen in winter.
-= 驯鹿冬天吃地衣。
+③ Caribou feed on lichen in winter and dig for it under the snow.
+= 驯鹿冬天吃地衣，还要扒开雪去找。
 lichen = 地衣
 构词：法语转自北美原住民米克马克语
 注意用法：单复数同形，不加 s。
@@ -490,14 +490,14 @@ caries
 核心：龋齿：牙被酸蚀出洞的那种病，牙医术语，日常说
 tooth decay。形式是复数，作主语时当单数用。形容词
 carious 是龋坏的。不可数。
-① Dental caries is largely preventable.
-= 龋齿基本是可以预防的。
+① Dental caries is largely preventable and still fills the clinics.
+= 龋齿基本可以预防，诊所里仍旧看不完。
 dental caries = 龋齿
-② Caries begins in the enamel.
-= 龋坏从釉质开始。
+② Caries begins in the enamel and hurts only once it is deep.
+= 龋坏从釉质开始，深了才会疼。
 enamel = 牙釉质
-③ Two carious teeth were filled.
-= 两颗龋齿补上了。
+③ Two carious teeth were filled in a single appointment.
+= 两颗龋齿一次门诊就补上了。
 carious = 龋坏的
 构词：拉丁语 caries 腐烂
 注意语域：术语，日常说 tooth decay。
@@ -505,14 +505,14 @@ carious = 龋坏的
 carillon
 核心：钟琴：塔楼里成组的定音大钟，用键盘或拉杆敲出曲调，
 低地国家的教堂塔楼最有名。也指用它奏出的曲子。可数。
-① The carillon plays every hour.
-= 那套钟琴每小时奏一次。
+① The carillon plays every hour and a longer tune at noon.
+= 那套钟琴每小时奏一次，正午奏一段长的。
 carillon = 塔楼钟琴
-② She learned to play the carillon.
-= 她学会了奏钟琴。
+② She learned to play the carillon with her fists and feet.
+= 她学会了用拳头和脚奏钟琴。
 play the carillon = 演奏钟琴
-③ A carillon needs at least twenty-three bells.
-= 一套钟琴至少要二十三口钟。
+③ A carillon needs at least twenty-three bells to count as one.
+= 一套钟琴至少要二十三口钟才算数。
 at least = 至少
 构词：法语 carillon 四口钟的一组
 注意别混：跟单口的报时钟不同，它能奏出曲调。
@@ -521,14 +521,14 @@ caring
 核心：体贴、肯照顾人的：说人也说社会与行业。
 the caring professions 指护理、社工这类以照顾人为业的
 行当。褒义，作定语最多。
-① She is a caring teacher.
-= 她是个很体贴学生的老师。
+① She is a caring teacher who notices which child has not eaten.
+= 她是个体贴学生的老师，哪个孩子没吃饭她都看得出。
 a caring teacher = 体贴学生的老师
-② We want a more caring society.
-= 我们要一个更肯照顾人的社会。
+② We want a more caring society and will not pay for one.
+= 我们想要一个更肯照顾人的社会，却不肯为它出钱。
 a caring society = 互相照顾的社会
-③ Nursing is one of the caring professions.
-= 护理属于照护行业。
+③ Nursing is one of the caring professions and the worst paid of them.
+= 护理属于照护行业，也是里面薪水最低的。
 the caring professions = 以照顾人为业的行当
 构词：由表示在意的那个词加后缀来
 注意用法：作定语最多，褒义。
@@ -537,14 +537,14 @@ carjack
 核心：持械把人从车里赶下来抢车。名词是 carjacking，
 抢车的人是 carjacker。这个词是由汽车与劫机那个词拼出来
 的，所以专指抢车这件事，不指偷停着的车。
-① Two men carjacked her at the lights.
-= 两个人在红灯前把她的车抢了。
+① Two men carjacked her at the lights and left the keys in the road.
+= 两个人在红灯前抢了她的车，把钥匙丢在路上。
 carjack = 持械抢车
-② Carjackings rose last year.
-= 抢车案去年上升了。
+② Carjackings rose last year in three districts and fell everywhere else.
+= 去年抢车案在三个区上升，别处都在下降。
 carjacking = 抢车案
-③ The carjacker was caught nearby.
-= 抢车的人在附近被抓。
+③ The carjacker was caught nearby with the engine still warm.
+= 抢车的人在附近被抓，发动机还热着。
 carjacker = 抢车的人
 构词：由汽车与劫持那两个词拼成
 注意别混：偷停着的车不用这个词。
@@ -552,14 +552,14 @@ carjacker = 抢车的人
 carmine
 核心：一种深红偏紫的红，也指做出这个颜色的天然颜料，
 从胭脂虫提取。颜料名与色名两用。不可数。
-① The dress was deep carmine.
-= 那件裙子是深胭脂红。
+① The dress was deep carmine and showed every speck of dust.
+= 那件裙子是深胭脂红，一点灰都看得见。
 carmine = 胭脂红
-② Carmine comes from an insect.
-= 这种红颜料取自一种昆虫。
+② Carmine comes from an insect and costs more than any synthetic red.
+= 这种红颜料取自一种昆虫，比任何合成红都贵。
 come from = 取自
-③ She mixed carmine into the sky.
-= 她往天空里调了点胭脂红。
+③ She mixed carmine into the sky and ruined an hour's work.
+= 她往天空里调了点胭脂红，毁了一小时的活儿。
 mix into = 调进……
 构词：与 crimson 同源，经阿拉伯语与拉丁语进英语
 注意用法：既是色名也是颜料名。
