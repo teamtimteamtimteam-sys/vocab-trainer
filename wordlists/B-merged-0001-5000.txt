@@ -44888,11 +44888,11 @@ believe of = 相信某人做得出（这一层几乎只用于否定）
 Belisha beacon
 核心：英国人行横道两端那根顶着橙色圆灯的黑白杆子，灯会一闪一闪。
 得名于一九三〇年代推行它的那位交通大臣。前半截读三个音节。可数。
-① A Belisha beacon marks each end of the crossing.
-= 人行横道两头各立着一根闪灯杆。
+① A Belisha beacon marks each end of the crossing and one of them is out.
+= 人行横道两头各立着一根闪灯杆，其中一根不亮了。
 a Belisha beacon = 人行横道的橙色闪灯杆
-② The Belisha beacons were flashing in the fog.
-= 雾里那两盏闪灯一亮一亮。
+② The Belisha beacons were flashing in the fog and you saw them before the road.
+= 雾里那两盏闪灯一亮一亮，先看见的是灯，不是路。
 Belisha beacons = 那种闪灯杆（复数）
 构词：交通大臣 Hore-Belisha 的姓
 注意用法：英国特有，别的国家的人行横道没有这东西。
@@ -44915,11 +44915,11 @@ criticize = 批评（可以是就事论事）
 Belizean
 核心：伯利兹的、伯利兹人。中美洲唯一以英语为官方语言的国家，所以
 这个词在英语文献里出现得比邻国多。可数。
-① She is a Belizean diplomat.
-= 她是伯利兹外交官。
+① She is a Belizean diplomat and covers four countries from one office.
+= 她是伯利兹外交官，一个办事处管四个国家。
 a Belizean = 伯利兹人
-② Belizean reefs draw divers.
-= 伯利兹的珊瑚礁吸引潜水的人。
+② Belizean reefs draw divers from November to April.
+= 十一月到四月，伯利兹的珊瑚礁吸引着潜水的人。
 Belizean reefs = 伯利兹的珊瑚礁
 构词：国名 Belize 加 -an
 注意拼写：中间那个 e 保留，不写作 Belizian。
@@ -44985,10 +44985,10 @@ belladonna
 核心：一种剧毒植物，中文叫颠茄。名字是意大利语的"美妇人"——
 文艺复兴时期妇女滴它的汁液散大瞳孔以显妩媚，
 代价是视力受损。它的提取物阿托品今天仍是重要药物。
-① Belladonna is highly poisonous.
-= 颠茄剧毒。
-② Atropine comes from belladonna.
-= 阿托品提自颠茄。
+① Belladonna is highly poisonous and the berries look sweet.
+= 颠茄剧毒，浆果却长得很甜美。
+② Atropine comes from belladonna and is still used to dilate the pupil.
+= 阿托品提自颠茄，至今仍用来散瞳。
 注意语域：
 植物与药理学名称。
 
@@ -45566,11 +45566,11 @@ Benelux
 核心：比利时、荷兰、卢森堡三国的合称，也指它们之间那个先于欧盟成立
 的关税同盟。由三个国名的头几个字母拼成，是这类拼合地名的样板。
 不可数，作定语最常见。
-① The firm has offices across Benelux.
-= 那家公司在比荷卢三国都设了办事处。
+① The firm has offices across Benelux and one accountant for all three.
+= 那家公司在比荷卢三国都设了办事处，三国共用一个会计。
 Benelux = 比利时、荷兰、卢森堡三国
-② The Benelux countries signed first.
-= 比荷卢三国最先签了字。
+② The Benelux countries signed first and waited two years for the rest.
+= 比荷卢三国最先签字，等了两年别国才跟上。
 the Benelux countries = 比荷卢三国
 构词：Belgium、Nederland、Luxembourg 各取词头拼成
 注意用法：多作定语，说 the Benelux countries 比单用更常见。
@@ -45612,11 +45612,11 @@ benighted
 地区或人群，暗示对方还没被"文明的光"照到。
 字面是"被夜色困住的"。今天用它要当心：它带明显的居高临下。
 另有一层旧义指"天黑时被困在路上"。
-① He called it a benighted age.
-= 他称那是个蒙昧的时代。
+① He called it a benighted age and quoted nothing written in it.
+= 他称那是个蒙昧的时代，却没引过那个时代写的一个字。
 a benighted age = 蒙昧的时代
-② Travellers were benighted on the moor.
-= 旅人天黑困在了荒原上。
+② Travellers were benighted on the moor and walked in circles till dawn.
+= 旅人天黑困在荒原上，绕着圈走到天亮。
 注意语域：
 带明显贬抑与优越感，慎用。
 
@@ -45646,11 +45646,11 @@ benignly = 慈祥地、温和地
 Beninese
 核心：贝宁的、贝宁人。-ese 这一族单复数同形：一个人是 a Beninese，
 一群人还是 Beninese，跟 Chinese、Portuguese、Congolese 一样。可数。
-① A Beninese sculptor won the prize.
-= 一位贝宁雕塑家得了奖。
+① A Beninese sculptor won the prize and gave it to her old school.
+= 一位贝宁雕塑家得了奖，把奖捐给了母校。
 a Beninese = 贝宁人
-② Beninese cotton goes mostly to Asia.
-= 贝宁的棉花多数销往亚洲。
+② Beninese cotton goes mostly to Asia and comes back as shirts.
+= 贝宁的棉花多数销往亚洲，回来时变成了衬衫。
 Beninese cotton = 贝宁棉花
 构词：国名加 -ese
 注意构词：-ese 一族单复数同形，不加 s。
@@ -45841,11 +45841,11 @@ beriberi
 十九世纪在以精米为主食的地区高发——碾米把富含 B1 的胚芽层
 去掉了，这是营养学史上的关键发现之一。
 词来自僧伽罗语，意思是"虚弱虚弱"。
-① Beriberi results from thiamine deficiency.
-= 脚气病源于硫胺素缺乏。
+① Beriberi results from thiamine deficiency and clears within days of treatment.
+= 脚气病源于硫胺素缺乏，一治几天就好。
 thiamine deficiency = 硫胺素缺乏
-② Polished rice diets caused beriberi.
-= 以精米为主食引发了脚气病。
+② Polished rice diets caused beriberi in whole garrisons.
+= 以精米为主食，整支驻军都得了脚气病。
 注意别混：
 beriberi = 脚气病（维生素缺乏症）
 athlete's foot = 足癣（真菌感染，中文也叫脚气）
@@ -45854,24 +45854,24 @@ berk
 核心：英式俚语，骂人"蠢货、笨蛋"，语气比看上去轻，
 朋友之间也用来打趣。词源其实相当粗俗，
 但今天说的人多半不知道，语感上已经淡化成轻骂。
-① Don't be such a berk.
-= 别这么犯傻。
+① Don't be such a berk; the lid comes off the other way.
+= 别这么犯傻，那个盖子是反着拧的。
 berk = 蠢货（英式俚语）
 a berk = 蠢货（英式口语）
 berk = 蠢货（英式，语气较轻）
 idiot = 白痴（通用）
-② Some berk parked across the drive.
-= 哪个蠢货把车横在车道上。
+② Some berk parked across the drive and left the hazards on.
+= 哪个蠢货把车横在车道上，双闪还开着。
 
 Berliner
 核心：两支，碰巧同形。一是柏林人。二是德式炸果酱包：中间灌果酱、
 表面撒糖粉，德语区南部才叫这个名字。第二支在英语里多见于烘焙与
 旅行文字。可数。
-① She married a Berliner.
-= 她嫁了个柏林人。
+① She married a Berliner and moved into a flat with no lift.
+= 她嫁了个柏林人，搬进一套没有电梯的公寓。
 a Berliner = 柏林人
-② The bakery sells jam-filled Berliners.
-= 那家面包房卖灌果酱的炸包。
+② The bakery sells jam-filled Berliners dusted with icing sugar.
+= 那家面包房卖灌果酱的炸包，表面撒着糖粉。
 a Berliner = 德式炸果酱包
 构词：地名 Berlin 加 -er
 注意用法：两个义靠上下文分，说人还是说点心一般不会混。
@@ -45893,11 +45893,11 @@ berm = 外倾弯道（自行车赛道）
 Bermuda shorts
 核心：及膝短裤：裤脚刚到膝盖上方，比一般短裤长，商务休闲场合也能穿。
 得名于百慕大，当地曾把它当正装。恒作复数，说一条用 a pair of。
-① He wore Bermuda shorts to the office.
-= 他穿着及膝短裤去了办公室。
+① He wore Bermuda shorts to the office and nobody said a word.
+= 他穿及膝短裤去办公室，没人吭声。
 Bermuda shorts = 及膝短裤
-② She packed two pairs of Bermuda shorts.
-= 她装了两条及膝短裤。
+② She packed two pairs of Bermuda shorts and wore neither.
+= 她装了两条及膝短裤，一条也没穿。
 a pair of Bermuda shorts = 一条及膝短裤
 构词：百慕大的地名加 shorts
 注意用法：恒作复数，数量要用 a pair of。
@@ -46077,11 +46077,11 @@ besmirch
 核心：正式动词，指"玷污名誉"——把某人的清白或声望弄脏。
 它几乎只跟 reputation、name、character 搭配。
 字面义"弄脏"今天已很少用。
-① The scandal besmirched his name.
-= 那桩丑闻玷污了他的名声。
+① The scandal besmirched his name and cleared his diary for a year.
+= 那桩丑闻玷污了他的名声，也让他的日程空了一年。
 besmirch somebody's name = 玷污某人名声
-② She refused to besmirch a colleague.
-= 她不肯败坏同事的名誉。
+② She refused to besmirch a colleague to save her own job.
+= 她不肯为保住自己的饭碗去败坏同事的名誉。
 注意语域：
 正式书面语，日常说 damage someone's reputation。
 
@@ -46131,13 +46131,13 @@ bespectacled
 核心：形容词，指"戴着眼镜的"，只作修饰语用，
 常跟其他外貌词连用来写人的样子。偏书面，
 日常直接说 wears glasses。
-① A bespectacled man opened the door.
-= 一个戴眼镜的男人来开了门。
+① A bespectacled man opened the door and asked for identification.
+= 一个戴眼镜的男人来开门，问要证件。
 bespectacled = 戴眼镜的
 bespectacled = 戴眼镜的（书面）
 wearing glasses = 戴着眼镜（日常）
-② She is small, bespectacled and quiet.
-= 她个子小，戴眼镜，话不多。
+② She is small, bespectacled and quiet until somebody is wrong.
+= 她个子小、戴眼镜、话不多，除非有人说错了话。
 多用于人物描写。
 
 bespoke
@@ -46415,11 +46415,11 @@ bete noire
 核心：法语借词，字面是"黑兽"，指"最讨厌的那个人或事"——
 一提就烦、避之不及的那一个。跟单纯的"不喜欢"不同，
 它带有长期的、近乎执念的厌恶。复数 bêtes noires。
-① Paperwork is his bête noire.
-= 文书工作是他最烦的事。
+① Paperwork is his bête noire and he leaves it until the last day.
+= 文书工作是他最烦的事，总拖到最后一天。
 one's bête noire = 某人最厌恶的人或事
-② She was the committee's bête noire.
-= 她是委员会最头疼的那个人。
+② She was the committee's bête noire and was proved right twice.
+= 她是委员会最头疼的那个人，而且两次被证明是对的。
 注意拼写：
 两个词上都带音符，正式写作里不省。
 
@@ -46442,11 +46442,11 @@ betide
 核心：偏旧的动词，今天只活在一个固定说法里：
 woe betide somebody，意思是"某人要倒霉了"，
 用来半开玩笑地警告。除此之外几乎不用。
-① Woe betide anyone who is late.
-= 谁迟到谁就倒霉。
+① Woe betide anyone who is late for her first rehearsal.
+= 谁要是第一次排练迟到，那就有得受了。
 woe betide somebody = 某人有难了（半开玩笑的警告）
-② Woe betide you if you forget.
-= 你要是忘了可有你受的。
+② Woe betide you if you forget the tickets again.
+= 票要是再忘一次，你可有你受的。
 注意用法：
 只用于那个固定搭配，别的场合不用。
 
@@ -46646,11 +46646,11 @@ bevy
 今天多半带戏谑地说一群人，尤其是一群年轻女子
 （这一用法今天听着老派且略有物化意味）。
 后接 of。
-① A bevy of reporters waited outside.
-= 一群记者等在外面。
+① A bevy of swans came round the bend and took the whole river.
+= 一群天鹅绕过河湾，把整条河都占了。
 a bevy of = 一群
-② A bevy of quail rose from the grass.
-= 一群鹌鹑从草里飞起。
+② A bevy of quail rose from the grass almost under the dog's nose.
+= 一群鹌鹑几乎从狗鼻子底下从草里飞起。
 注意语域：
 说女性时今天听着老派且略带物化，慎用。
 
@@ -46834,11 +46834,11 @@ bhangra beat = 邦戈拉节奏（重鼓点）
 
 Bhutanese
 核心：不丹的、不丹人。同样是 -ese 一族，单复数同形。可数。
-① Bhutanese textiles are woven by hand.
-= 不丹的织物是手工织的。
+① Bhutanese textiles are woven by hand on a backstrap loom.
+= 不丹的织物是用腰机手工织的。
 Bhutanese textiles = 不丹织物
-② Two Bhutanese joined the team.
-= 两名不丹人加入了那支队伍。
+② Two Bhutanese joined the team and out-walked everyone.
+= 两名不丹人加入了队伍，走起路来把谁都甩开。
 a Bhutanese = 不丹人
 构词：国名 Bhutan 加 -ese
 注意构词：跟 Beninese、Congolese 同一族，不加复数 s。
@@ -47025,11 +47025,11 @@ bibliography、bibliophile 与它同根。
 Bible-basher
 核心：英式贬称：指逮着人就传教、语气咄咄逼人的基督徒。带明显的
 不耐烦与轻蔑，读到要认得，写作时避开。可数。美式多说 Bible-thumper。
-① He was cornered by a Bible-basher.
-= 他被一个死缠着传教的人堵住了。
+① He was cornered by a Bible-basher outside the station for twenty minutes.
+= 他在车站外被一个死缠着传教的人堵了二十分钟。
 a Bible-basher = 咄咄逼人的传教者（英式贬称）
-② She hates being called a Bible-basher.
-= 她讨厌被人这么叫。
+② Her own congregation called the visiting preacher a Bible-basher.
+= 连她自己教会的人都管那位客座传道人叫死缠着传教的。
 be called a Bible-basher = 被人这么贬称
 构词：Bible 加 bash 猛敲
 注意语域：贬义，只需认得，不要用来说人。
@@ -47037,11 +47037,11 @@ be called a Bible-basher = 被人这么贬称
 Bible-bashing
 核心：Bible-basher 对应的名词与形容词：指那种硬往人身上传教的做法，
 也作定语说 Bible-bashing rhetoric。贬义。不可数。
-① He objects to the Bible-bashing tone.
-= 他反感那种硬灌教义的口气。
+① He objects to the Bible-bashing tone rather than to the argument.
+= 他反感的是那种硬灌教义的口气，不是那套道理。
 a Bible-bashing tone = 硬灌教义的口气
-② The campaign slid into Bible-bashing.
-= 那场运动变成了硬性传教。
+② The campaign slid into Bible-bashing and lost half its volunteers.
+= 那场运动变成了硬性传教，一半志愿者都走了。
 Bible-bashing = 咄咄逼人的传教
 构词：Bible-basher 的动名词形式
 注意语域：贬义，跟 Bible-basher 一样只需认得。
@@ -48780,11 +48780,11 @@ Billingsgate
 核心：两支。一是伦敦那个老鱼市的名字。二是由它引申的普通名词：
 粗话、骂街的话 —— 因为那里的鱼贩以嘴脏出名，这个词就成了「污言
 秽语」的代称，多用于书面。不可数。
-① The letter descended into pure billingsgate.
-= 那封信写到后来全是骂街的话。
+① The letter descended into pure billingsgate by the second page.
+= 那封信写到第二页就全是骂街的话了。
 billingsgate = 粗话、骂街的话
-② Billingsgate was London's fish market for centuries.
-= 那个鱼市做了几百年伦敦的鱼货集散地。
+② Billingsgate was London's fish market for centuries and moved east in 1982.
+= 那个鱼市做了几百年伦敦的鱼货集散地，一九八二年迁到了东边。
 Billingsgate = 伦敦老鱼市
 构词：伦敦的一个城门名
 注意用法：作「粗话」讲时小写，偏书面。
@@ -49229,10 +49229,10 @@ bint
 不要用。词源有意思：来自阿拉伯语的"女儿、女孩"，本是中性词，
 英军在中东驻扎时带回英国，进了英语之后才染上贬义——
 借词在移植过程中变味，这是个典型例子。
-① He called her a stupid bint.
-= 他骂她是个蠢女人。
-② Some bint at the desk took the message.
-= 前台哪个女的记了口信。
+① He called her a stupid bint and was asked to leave the site.
+= 他骂她是个蠢女人，被要求离开工地。
+② Some bint at the desk took the message, he said, and got no reply.
+= 他说前台哪个女的记了口信——没人接他的话。
 说话人的口气就很轻慢。
 注意语用：明确的侮辱，不要用来说真人。
 注意来历：阿拉伯语本义是"女儿"，中性；
