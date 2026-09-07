@@ -2,14 +2,14 @@ compunction
 核心：良心上的不安：做了亏心事之后那点内疚。几乎只用在
 否定句里，without compunction 与 have no compunction
 about 是最常见的两个说法。不可数，正式词。
-① She lied without compunction.
-= 她撒谎毫不脸红。
+① She lied without compunction and remembered every version of it.
+= 她撒谎毫不脸红，每个版本还都记得住。
 without compunction = 毫无愧色地
-② He had no compunction about firing them.
-= 他辞退他们一点不含糊。
+② He had no compunction about firing them two days before Christmas.
+= 圣诞前两天辞退他们，他一点不含糊。
 have no compunction about = 对……毫无愧疚
-③ A twinge of compunction stopped him.
-= 一丝内疚让他停住了。
+③ A twinge of compunction stopped him with the pen already on the paper.
+= 笔都搭在纸上了，一丝内疚让他停住了。
 a twinge of compunction = 一丝内疚
 构词：拉丁语 compungere 刺痛，指良心被刺了一下
 注意用法：几乎只用于否定句。
@@ -151,14 +151,14 @@ conation
 核心：心理学把心理活动分成三块：认知 cognition、情感 affect、
 意动 conation。意动指想要去做、去争取的那一面。形容词
 conative。不可数，学术词。
-① Psychologists split the mind into cognition, affect and conation.
-= 心理学把心理分成认知、情感与意动三块。
+① Cognition and affect get the attention; conation is the part nobody funds.
+= 认知和情感都受人关注，意动这一块却没人给钱。
 conation = 意动（想要去做的那一面）
-② Conation covers wanting, striving and willing.
-= 意动涵盖想要、争取与意志。
+② Conation covers wanting, striving and sticking at it when it stops being fun.
+= 意动涵盖想要、争取，还有不好玩了仍然坚持。
 conation covers = 意动涵盖……
-③ The conative side of learning is often ignored.
-= 学习里意动的那一面常被忽略。
+③ The conative side of learning is often ignored until a pupil stops trying.
+= 学习里意动的那一面常被忽略，直到学生不肯再试。
 the conative side = 意动的那一面
 构词：拉丁语 conari 尝试
 注意语域：心理学术语。
@@ -167,14 +167,14 @@ concatenate
 核心：把几段东西一个接一个连成一串，编程里最常用：把
 两个字符串拼起来。名词 concatenation，也用来说一连串
 接连发生的事。正式词，及物。
-① The function concatenates two strings.
-= 那个函数把两个字符串拼起来。
+① The function concatenates two strings and adds no space between them.
+= 那个函数把两个字符串拼起来，中间不加空格。
 concatenate = 串接
-② Concatenate the columns into one field.
-= 把那几列拼成一个字段。
+② Concatenate the columns into one field before you export the sheet.
+= 导出表格之前，先把那几列拼成一个字段。
 concatenate into = 拼接成
-③ A concatenation of errors caused it.
-= 一连串错误造成了那件事。
+③ A concatenation of small errors caused it, none of them fatal alone.
+= 那是一连串小错造成的，单拿哪一个都不致命。
 a concatenation of = 一连串接连发生的……
 构词：拉丁语 catena 锁链，本义是把链子接起来
 注意语域：正式词，编程里高频。
@@ -182,14 +182,14 @@ a concatenation of = 一连串接连发生的……
 concave
 核心：凹的：表面像碗内壁那样往里弯。光学与几何里常用，
 名词 concavity。凸的那一边是另一个词。
-① The mirror is concave.
-= 那面镜子是凹的。
+① The mirror is concave and shows your face upside down at arm's length.
+= 那面镜子是凹的，举远一臂脸就倒过来了。
 concave = 凹的
-② A concave lens spreads the light.
-= 凹透镜把光发散开。
+② A concave lens spreads the light and makes everything look smaller.
+= 凹透镜把光发散开，看什么都变小。
 a concave lens = 凹透镜
-③ The concavity holds water.
-= 那个凹处能存水。
+③ The concavity in the step holds water and freezes first.
+= 台阶上那处凹陷会存水，也最先结冰。
 concavity = 凹处；凹度
 构词：拉丁语 concavus 中空的
 注意别混：凹是这个词，凸的那个词以另一个音节开头。
@@ -263,14 +263,14 @@ conceivable
 核心：想得到的、有可能的：常跟 every 和最高级连用，
 every conceivable 是能想到的每一种。副词 conceivably
 是「说不定」。
-① It is just conceivable that he forgot.
-= 他忘了这事也不是不可能。
+① It is just conceivable that he forgot, though he wrote it down twice.
+= 他忘了也不是绝无可能，尽管他记过两遍。
 it is conceivable that = ……也不是不可能
-② They tried every conceivable angle.
-= 能想到的路子他们都试了。
+② They tried every conceivable angle and went back to the first one.
+= 能想到的路子他们都试了，最后又回到第一条。
 every conceivable = 能想到的每一种
-③ She could conceivably win.
-= 她说不定真能赢。
+③ She could conceivably win if the other two both fall away.
+= 另外两个都掉队的话，她说不定真能赢。
 conceivably = 说不定
 构词：conceive 想到 + -able
 注意搭配：常跟 every 与最高级连用。
@@ -326,14 +326,14 @@ concentration = 浓度
 concentric
 核心：同心的：几个圆或几层结构共用一个圆心，
 concentric circles 是同心圆。副词 concentrically。
-① Draw two concentric circles.
-= 画两个同心圆。
+① Draw two concentric circles and shade the ring between them.
+= 画两个同心圆，把中间那圈涂上色。
 concentric circles = 同心圆
-② The castle has concentric walls.
-= 那座城堡的城墙是一圈套一圈的。
+② The castle has concentric walls so that taking the outer one gains nothing.
+= 那座城堡的城墙一圈套一圈，攻下外圈也没用。
 concentric = 同心的
-③ Ripples spread out concentrically.
-= 涟漪一圈圈同心散开。
+③ Ripples spread out concentrically until they meet the bank.
+= 涟漪一圈圈同心散开，直到碰上岸。
 concentrically = 同心地
 构词：con- 共 + centre 中心
 注意来历：几何上「不同心」那个词，就是「古怪」一词的本义来路。
@@ -364,14 +364,14 @@ conception
 核心：三支，跟动词的两支一一对应。一是构想、认识：
 have no conception of 是对某事毫无概念；二是构思成形
 的那一刻；三是受孕。可数不可数都行。
-① He has no conception of the cost.
-= 他对那笔花费毫无概念。
+① He has no conception of the cost and asks for it again every spring.
+= 他对那笔花费毫无概念，每年春天照旧再要一次。
 have no conception of = 对……毫无概念
-② The plan was flawed from conception.
-= 那个方案打构想之初就有毛病。
+② The plan was flawed from conception and got worse in committee.
+= 那个方案打构想之初就有毛病，进了委员会更糟。
 from conception = 从构想之初
-③ Conception occurs in the tube.
-= 受孕发生在输卵管里。
+③ Conception occurs in the tube, not in the womb as most people assume.
+= 受孕发生在输卵管里，不是多数人以为的子宫。
 conception = 受孕
 构词：conceive 构想、怀孕 + -tion
 注意用法：跟动词的两支一一对应。
@@ -477,14 +477,14 @@ concertina
 核心：手风琴的一种小型近亲：六角形，两手往外拉，按钮
 比键盘那种少。动词是像它那样被压扁折成一叠，多用在说
 撞车。可数。
-① He played the concertina.
-= 他拉六角手风琴。
+① He played the concertina with his elbows out and his eyes shut.
+= 他拉六角手风琴，胳膊肘张着，眼睛闭着。
 a concertina = 六角手风琴
-② The carriages concertinaed on impact.
-= 撞击时车厢挤成了一叠。
+② The carriages concertinaed on impact and stayed on the rails.
+= 撞击时车厢挤成一叠，却没脱轨。
 concertina = 压扁折叠成一叠
-③ Concertina wire tops the fence.
-= 围栏上盘着刀片铁丝。
+③ Concertina wire tops the fence and catches plastic bags all winter.
+= 围栏上盘着刀片铁丝，整个冬天都挂着塑料袋。
 concertina wire = 盘状刀片铁丝网
 构词：concert 音乐会 + 意大利语式的后缀
 注意用法：动词义多用在讲撞车的句子里。
@@ -492,14 +492,14 @@ concertina wire = 盘状刀片铁丝网
 concerto
 核心：协奏曲：一件独奏乐器跟乐队一起演的大型作品，
 通常三个乐章。复数写 concertos 也写 concerti。可数。
-① She recorded the violin concerto.
-= 她录了那首小提琴协奏曲。
+① She recorded the violin concerto in two sessions and kept the first take.
+= 那首小提琴协奏曲她录了两场，留下的是头一遍。
 a violin concerto = 小提琴协奏曲
-② The concerto has three movements.
-= 那首协奏曲有三个乐章。
+② The concerto has three movements and the slow one is the reason people come.
+= 那首协奏曲有三个乐章，人们来听的是慢的那个。
 a movement = 乐章
-③ He wrote five piano concertos.
-= 他写过五首钢琴协奏曲。
+③ He wrote five piano concertos and disowned the second.
+= 他写过五首钢琴协奏曲，第二首自己不认。
 a piano concerto = 钢琴协奏曲
 构词：意大利语 concerto 协同演奏
 注意复数：concertos 与 concerti 都对。
