@@ -10,11 +10,11 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 5880 条，词典序 a → drop。义项 23593。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 9%（da- 126/229）
+B 词表 5890 条，词典序 a → drop。义项 23625。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 11%（da- 141/229）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
-交付文件 B-merged-0001-5000.txt + B-merged-5001-5880.txt。
+交付文件 B-merged-0001-5000.txt + B-merged-5001-5890.txt。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
 留下的残骸，只有最新那份是有效交付 —— 要不要删等用户裁定。）
 
@@ -26,7 +26,8 @@ B 词表 5880 条，词典序 a → drop。义项 23593。
   从此写出「the word X」「X means Y」那类句子会直接红，不再只是报告。
 
 ═══ 当前主线：按字母序写 d 段 ═══
-写到 dartboard，**下一条从 Darwinian 起**（coverage 的待新写清单第一个）。
+写到 database，**下一条从 datable 起**（coverage 的待新写清单第一个；
+datable 与 dateable 的词根是 date，留到 date 那一批一起并）。
 2026-09-08 这批十条：dandelion / dandle / dandruff / dandy / Dane / dang /
 danger / dangerous / dangle / Danish，另按派生并入五条（dandified 进 dandy，
 Danegeld 与 Danelaw 进 Dane，dangly 进 dangle，dangerously 进 dangerous），
@@ -39,6 +40,11 @@ dappled，daringly 进 daring，darned 与 darnedest 与 darning 进 darn）。
 闸门全绿、判重 0 对，例句均 15.1 词 / 额外实词 6.7。
 audit-idioms 的 CHECK 又补了 dare 一行（how dare you / don't you dare /
 I dare say）。dare 那条的重点是两套语法并存：情态用法只进否定与疑问。
+第三批十条：Darwinian / dash / dashboard / dashcam / dashed / dashiki /
+dashing / dastardly / data / database，并入三条（Darwinism 进 Darwinian，
+databank 与 datacomms 进 data）。闸门全绿、判重 0 对，
+例句均 15.3 词 / 额外实词 7.4。audit-idioms 的 CHECK 补了 dash 一行
+（make a dash for / cut a dash / dash off / dash somebody's hopes）。
 动笔前那四件事已经做完：大写词头进了 proper-nouns-keep（D 段 63 条）、
 d 段习语进了 audit-idioms 的 CHECK（27 个大词，dam/damage/damn 是新加的）、
 d 段动词变形进了 reference/inflections.txt。

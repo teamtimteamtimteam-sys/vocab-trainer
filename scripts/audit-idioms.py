@@ -131,6 +131,7 @@ CHECK = {
  'dare': ['how dare you', "don't you dare", 'I dare say'],
  'dark': ['in the dark', 'a shot in the dark', 'after dark', 'a dark horse',
           'the Dark Ages', 'a dark side'],
+ 'dash': ['make a dash for', 'cut a dash', 'dash off', "dash somebody's hopes"],
  'date': ['out of date', 'up to date', 'to date', 'date back to', 'date from',
           'a blind date'],
  'dead': ['a dead end', 'over my dead body', 'a dead loss', 'drop dead',
