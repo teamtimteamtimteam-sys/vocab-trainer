@@ -199,6 +199,8 @@ CHECK = {
  'dirty': ['a dirty look', "somebody's dirty work"],
  'disaster': ['a recipe for disaster', 'a disaster area'],
  'discipline': ['self-discipline'],
+ 'discretion': ["at somebody's discretion", 'use your discretion'],
+ 'discuss': ['discuss something with somebody'],
  'dish': ['dish out', 'dish up', 'dish the dirt', 'do the dishes'],
  'distance': ['in the distance', 'keep your distance', 'go the distance',
               'within walking distance', 'distance yourself from'],
