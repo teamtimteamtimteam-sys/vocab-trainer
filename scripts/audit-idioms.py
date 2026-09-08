@@ -192,6 +192,8 @@ CHECK = {
                 'with a difference'],
  'dig': ['dig in', 'dig up', 'dig out', 'dig deep', 'dig your heels in',
          'dig your own grave'],
+ 'dim': ['take a dim view of'],
+ 'dinner': ['dinner is served'],
  'dish': ['dish out', 'dish up', 'dish the dirt', 'do the dishes'],
  'distance': ['in the distance', 'keep your distance', 'go the distance',
               'within walking distance', 'distance yourself from'],
