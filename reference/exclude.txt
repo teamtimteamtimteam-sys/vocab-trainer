@@ -148,6 +148,10 @@ aholic       # -aholic 的无连字符版，词缀不收
 arian        # -arian 的无连字符版，词缀不收
 ary          # -ary 的无连字符版，词缀不收
 ance         # -ance 的无连字符版，词缀不收
+de           # de- 的无连字符版（清单 14611 行就是 de-），词缀不收
+deca         # deca- 的无连字符版（清单里 deca- 在 14765 行），词缀不收
+deci         # deci- 的无连字符版（deci- 在 14810 行），词缀不收
+demi         # demi- 的无连字符版（demi- 在 15200 行），词缀不收
 
 # --- 稀有元素不收，常见元素保留（用户裁定）---
 # 分界不按「学习者会不会遇到」那种主观线，按元素本身的性质：
@@ -403,3 +407,10 @@ d.b.a.       # doing business as，表单缩写
 deg.         # degree 的缩写
 dep.         # departs 的缩写
 doz.         # dozen 的缩写
+dem          # Dem. 的去句点版（清单 15179 行是 Dem.），Democrat 的缩写，不收
+
+# --- 拉丁短语被切开的碎片：整条短语在别的字母段收 ---
+# 清洗把「in flagrante delicto」拆开了，delicto 单独成了一条词头。
+# 它不是能独立用的英语词，整条短语在 f 段的 flagrante / in flagrante 那儿收。
+# 同一类的先例：ab initio 的 initio（coverage 的 phrase_pending 注释里记着）。
+delicto      # in flagrante delicto 的碎片，不是独立词头

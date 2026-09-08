@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 5911 条，词典序 a → drop。义项 23726。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 11%（da- 226/229、de- 26/968）
+B 词表 5933 条，词典序 a → drop。义项 23809。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 12%（da- 226/229、de- 69/962）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-5911.txt    911 条   compatible → drop
+  B-merged-5001-5933.txt    933 条   compatible → drop
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
 留下的残骸，只有最新那份是有效交付 —— 要不要删等用户裁定。）
@@ -34,9 +34,29 @@ B 词表 5911 条，词典序 a → drop。义项 23726。
 Davy lamp —— 内容词在后面的字母段，收到了 coverage 会自己把它们挪过来）。
 50 条待并入已按意思归组写进 agency / army / daddy / daisy / dance / dark /
 data / date / day 九条词根条，共 29 个义项（一组一个例句、底下并列几条等式）。
-**下一步：de- 段**（清单 968 条，已收 26 条）—— 那是 d 里最大的一段，
-动笔前先照老规矩做四件事：大写词头进 proper-nouns-keep、习语进 audit-idioms
-的 CHECK、动词变形进 reference/inflections.txt、整段清单先剔一遍。
+**de- 段已开工**（d 里最大的一段）。动笔前的四件事做完了：
+  · 大写词头：D 段 46 条早已在 proper-nouns-keep 里，de- 的九条
+    （December、Delphic、Demos、Denglish、Deutschmark、Devanagari…）都在。
+  · 习语：audit-idioms 的 CHECK 原有 dead / deal / death / deep / depth，
+    这一批又补了 deaf / dear / debt。往后每批动笔前先补下一段的清单。
+  · 动词变形：de- 里只有 dealt → deal，inflections.txt 里本来就有。
+  · 清单剔了 6 条进 exclude.txt（968 → 962）：
+      de / deca / deci / demi —— 清洗掉了连字符的词缀（清单里 de- deca-
+        deci- demi- 都各自另有一行），同 aholic / arian 那一类。
+      dem —— Dem.（Democrat）的去句点版，同 cont. / cp. / cwt 那条。
+      delicto —— in flagrante delicto 被切开的碎片，整条短语在 f 段收，
+        同 ab initio 的 initio。
+**第一批 22 条已写完**：deacon / deactivate / deaf / deafen / dean / dear /
+dearth / death / deb / debacle / debar / debase / debatable / debate /
+debauched / debenture / debilitate / debit / debonair / debrief / debris / debt，
+并入十条（deaconess 进 deacon；deafness 进 deaf；deafening、deafeningly 进
+deafen；deanery 进 dean；dearest、dearie、dearly 进 dear；deathbed、deathly、
+deathless 进 death；debasement 进 debase；debater、debating 进 debate；
+debauchery 进 debauched；debility、debilitating 进 debilitate；debtor 进 debt）。
+audit-ab 报 debate 缺 under debate —— 查过是正经用法（同 under discussion），
+补了一个义项。de- 段 26 → 69 条。**下一批从 debug 起。**
+还没并的一条要记着：**Deepavali 被 coverage 挂在 deep 名下是误判**
+（排灯节跟「深」无关），轮到它时要单列，同 Dalek / cultivable 那一类。
 2026-09-08 这批十条：dandelion / dandle / dandruff / dandy / Dane / dang /
 danger / dangerous / dangle / Danish，另按派生并入五条（dandified 进 dandy，
 Danegeld 与 Danelaw 进 Dane，dangly 进 dangle，dangerously 进 dangerous），
