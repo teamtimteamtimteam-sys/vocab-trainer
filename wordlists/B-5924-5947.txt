@@ -1,3 +1,19 @@
+debug
+核心：排错：把程序里的毛病一个个找出来改掉，也说给设备、流程排查问题。
+及物动词，双写 g：debugged、debugging。工具叫 a debugger 调试器。
+另有一支旧义：把窃听器从房间里清掉。
+① She spent the whole weekend debugging code that somebody else had left half finished.
+= 她整个周末都在给别人留下的半拉子代码排错。
+debug code = 给代码排错
+② The debugger stops the program at whatever line you choose and shows every variable.
+= 调试器会在你指定的任何一行停下来，把每个变量都摆出来给你看。
+a debugger = 调试器
+③ Security debugged the room twice before the negotiators were allowed in.
+= 保安把房间清查了两遍窃听器，才放谈判代表进来。
+debug a room = 清除房间里的窃听器
+构词：de- 去掉 加 bug 程序里的毛病
+注意用法：双写 g，名词写 debugging，不写 debuging。
+
 debunk
 核心：戳穿：拿事实证明一个流行的说法、神话或名声是假的、夸大的。
 及物动词，宾语多是 myth、claim、theory、reputation。
@@ -395,24 +411,3 @@ self-deception = 自欺
 deception = 欺骗（中性，法律与新闻常用）
 deceit = 欺骗（更重，带道德谴责）
 a lie = 谎言（说出口的那句假话）
-
-deceptive
-核心：容易让人看错的：说外表、印象、数字。重点不在有人存心骗，
-而在「看上去不是那么回事」。
-副词 deceptively 是英语里出名容易误解的一个词：deceptively simple
-说的是「看着简单，其实不简单」。
-① The calm surface is deceptive and the current underneath has drowned two people.
-= 水面平静是骗人的，底下的暗流已经淹死过两个人。
-be deceptive = 容易让人看错的
-② Appearances are deceptive, and the smallest house in the row sold for the most.
-= 外表靠不住，那排里最小的房子反而卖得最贵。
-appearances are deceptive = 外表靠不住
-③ It was a deceptively simple question that took the panel forty minutes to answer.
-= 那个问题看着简单，评审组答了四十分钟。
-deceptively simple = 看着简单其实不简单
-这个副词说的是「外表如此、实际不然」，别理解成「简单得让人放心」。
-构词：deceive 加 -ive
-注意别混：
-deceptive = 容易让人看错的（未必有人存心骗）
-misleading = 会把人引偏的（多说说法、数据）
-dishonest = 不诚实的（说人）

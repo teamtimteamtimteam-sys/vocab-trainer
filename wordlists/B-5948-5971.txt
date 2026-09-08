@@ -1,3 +1,24 @@
+deceptive
+核心：容易让人看错的：说外表、印象、数字。重点不在有人存心骗，
+而在「看上去不是那么回事」。
+副词 deceptively 是英语里出名容易误解的一个词：deceptively simple
+说的是「看着简单，其实不简单」。
+① The calm surface is deceptive and the current underneath has drowned two people.
+= 水面平静是骗人的，底下的暗流已经淹死过两个人。
+be deceptive = 容易让人看错的
+② Appearances are deceptive, and the smallest house in the row sold for the most.
+= 外表靠不住，那排里最小的房子反而卖得最贵。
+appearances are deceptive = 外表靠不住
+③ It was a deceptively simple question that took the panel forty minutes to answer.
+= 那个问题看着简单，评审组答了四十分钟。
+deceptively simple = 看着简单其实不简单
+这个副词说的是「外表如此、实际不然」，别理解成「简单得让人放心」。
+构词：deceive 加 -ive
+注意别混：
+deceptive = 容易让人看错的（未必有人存心骗）
+misleading = 会把人引偏的（多说说法、数据）
+dishonest = 不诚实的（说人）
+
 decibel
 核心：量声音大小的单位，缩写 dB。刻度是对数的 —— 加十分贝，实际响度差得
 远不止十倍，所以九十分贝与八十分贝的差别比数字看着大。可数。
@@ -424,21 +445,3 @@ be decommissioned = 被退役、被停用
 decommissioning = 退役拆解（这件事）
 构词：de- 反向 加 commission 使服役
 注意别混：decommission 是正式退出使用，dismantle 是拆成零件。
-
-decompose
-核心：两支。一是腐烂分解：尸体、落叶被微生物分解掉；
-二是学理上的「分解」：把复杂的东西拆成组成部分。名词 decomposition 两支都用。
-① Leaves decompose faster in a warm autumn and the pile sinks by half.
-= 暖秋里落叶烂得快，那堆叶子会塌下去一半。
-decompose = 腐烂分解
-② The method decomposes a long forecast into three simpler ones.
-= 那个方法把一个长期预测拆成三个较简单的预测。
-decompose something into something = 把某物分解成……
-③ Decomposition of the timber had gone further than the survey suggested.
-= 木料腐坏的程度比检验报告说的还深。
-decomposition = 腐坏、分解
-构词：de- 加 compose 组合
-注意别混：
-decompose = 腐烂（生物）；也指学理上的分解
-dissolve = 溶解（在液体里化开）
-disintegrate = 碎裂解体（散成碎块）

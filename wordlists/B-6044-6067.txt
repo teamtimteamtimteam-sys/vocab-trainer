@@ -1,3 +1,15 @@
+dehumidifier
+核心：除湿机：把屋里空气中的水分抽掉的机器。可数。
+反义的机器是 a humidifier 加湿器，只差一个前缀。
+① They ran a dehumidifier in the cellar all winter and it filled up twice a week.
+= 他们整个冬天在地窖里开着除湿机，一周得倒两回水。
+a dehumidifier = 除湿机
+② A dehumidifier will not fix damp that is coming up through the wall.
+= 除湿机治不了顺着墙往上爬的潮气。
+run a dehumidifier = 开除湿机
+构词：de- 去掉 加 humidifier 加湿器
+注意别混：dehumidifier 抽湿，humidifier 加湿。
+
 dehydrate
 核心：两支。一是人体脱水，名词 dehydration；二是食品脱水干燥，
 作定语说 dehydrated food。及物不及物都行。
@@ -373,15 +385,3 @@ delinquency = 青少年违法行为
 a delinquent account = 逾期未付的账户（美式）
 构词：拉丁语 delinquere 犯错
 注意语域：金融那一支美式常用，英式多说 overdue 或 in arrears。
-
-deliquesce
-核心：潮解：固体从空气里吸水，自己化成液体 —— 化学里的词，
-多说盐、碱这类物质。不及物动词，名词 deliquescence。
-① Left out of the jar, the crystals deliquesce within a day in this weather.
-= 这种天气里，晶体一旦离开瓶子，一天之内就潮解了。
-deliquesce = 潮解
-② Deliquescence ruined the sample and the whole run had to be repeated.
-= 潮解毁了样品，整轮实验只好重做。
-deliquescence = 潮解
-构词：拉丁语 deliquescere 化开
-注意语域：化学术语；日常说 go damp and sticky。

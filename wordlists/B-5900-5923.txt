@@ -1,3 +1,17 @@
+deacon
+核心：教会的执事：牧师之下的一级圣职。天主教、圣公会、东正教里是助理神职；
+新教有些宗派里是教友推选出来管事务的人。女性形式 deaconess 是旧称，
+现在多数教会不分性别，一律说 deacon。可数。
+① The deacon read the gospel and the vicar preached for twenty-five minutes.
+= 执事诵读福音书，教区牧师讲了二十五分钟的道。
+a deacon = 执事（牧师之下的圣职）
+② She was ordained deaconess in the seventies and outlived the title itself.
+= 她七十年代被按立为女执事，活得比这个称呼本身还长。
+a deaconess = 女执事（旧称）
+按立说 be ordained deacon，职称前不加冠词。
+构词：希腊语 diakonos 仆役
+注意用法：可数；说某人的职位时前面不加冠词（he was made deacon）。
+
 deactivate
 核心：使停止起作用：把设备、账户、警报、炸弹从「起作用」变成「不起作用」。
 及物动词，反义是 activate，名词 deactivation。
@@ -621,19 +635,3 @@ a debtor = 欠债的一方
 对方是 the creditor 债权人。
 构词：拉丁语 debitum 欠款；英语里那个 b 是后人照拉丁文补进去的，不发音
 注意用法：说欠谁钱用 owe，说处在负债状态用 be in debt。
-
-debug
-核心：排错：把程序里的毛病一个个找出来改掉，也说给设备、流程排查问题。
-及物动词，双写 g：debugged、debugging。工具叫 a debugger 调试器。
-另有一支旧义：把窃听器从房间里清掉。
-① She spent the whole weekend debugging code that somebody else had left half finished.
-= 她整个周末都在给别人留下的半拉子代码排错。
-debug code = 给代码排错
-② The debugger stops the program at whatever line you choose and shows every variable.
-= 调试器会在你指定的任何一行停下来，把每个变量都摆出来给你看。
-a debugger = 调试器
-③ Security debugged the room twice before the negotiators were allowed in.
-= 保安把房间清查了两遍窃听器，才放谈判代表进来。
-debug a room = 清除房间里的窃听器
-构词：de- 去掉 加 bug 程序里的毛病
-注意用法：双写 g，名词写 debugging，不写 debuging。
