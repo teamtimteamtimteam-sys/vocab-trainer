@@ -208,6 +208,7 @@ CHECK = {
  'dismay': ["to somebody's dismay"],
  'display': ['on display'],
  'disposal': ["at somebody's disposal"],
+ 'dispute': ['in dispute', 'beyond dispute'],
  'distance': ['in the distance', 'keep your distance', 'go the distance',
               'within walking distance', 'distance yourself from'],
  'do': ['do away with', 'do without', 'do up', 'do in', 'do over', 'do out of',
