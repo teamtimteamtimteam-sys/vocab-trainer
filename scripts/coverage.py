@@ -231,7 +231,12 @@ def host_entry(w, got, entries):
 # 不能放宽成通则：实测全表 60 个这种形状的配对里只有下面两条是真派生，
 # 其余 58 条全是碰巧（busy→business、arty→artificial、bray→brain、
 # clay→claim），放宽等于把它们全判成已收。所以用显式对照表。
-SPELLING_ROOT = {'cosiness': 'cosy', 'coziness': 'cozy'}
+SPELLING_ROOT = {'cosiness': 'cosy', 'coziness': 'cozy',
+                 # datable 的词根是 date（可定年代的），不是 data。
+                 # 前四字母判定把它算到 data 头上，于是它写在 date 条里
+                 # 也一直报缺，照着办就会把「可定年代的」并进「数据」那一条 ——
+                 # 跟 cultivable 被并进 cult 是同一个错（2026-09-08）。
+                 'datable': 'date'}
 
 def _load_inflections():
     """动词变形 → 原形。用户 2026-09-05 裁定：变形不单独立条，并进原形，

@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 5910 条，词典序 a → drop。义项 23695。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 14%（da- 176/229）
+B 词表 5911 条，词典序 a → drop。义项 23726。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 11%（da- 226/229、de- 26/968）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-5910.txt    910 条   compatible → drop
+  B-merged-5001-5911.txt    911 条   compatible → drop
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
 留下的残骸，只有最新那份是有效交付 —— 要不要删等用户裁定。）
@@ -30,9 +30,13 @@ B 词表 5910 条，词典序 a → drop。义项 23695。
   从此写出「the word X」「X means Y」那类句子会直接红，不再只是报告。
 
 ═══ 当前主线：按字母序写 d 段 ═══
-**da- 段的待新写已经清零** —— 剩下的 53 条全是待并入（50 条）与待推迟（3 条）。
-下一步二选一：要么先做 da- 的并入（dance / dark / date / day 四族占了大头，
-按意思归组、一组一个例句、底下并列几条等式），要么直接开 db- 之后的新词。
+**da- 段收完了：226/229（98%），只剩 3 条待推迟**（DA-notice、damaged goods、
+Davy lamp —— 内容词在后面的字母段，收到了 coverage 会自己把它们挪过来）。
+50 条待并入已按意思归组写进 agency / army / daddy / daisy / dance / dark /
+data / date / day 九条词根条，共 29 个义项（一组一个例句、底下并列几条等式）。
+**下一步：de- 段**（清单 968 条，已收 26 条）—— 那是 d 里最大的一段，
+动笔前先照老规矩做四件事：大写词头进 proper-nouns-keep、习语进 audit-idioms
+的 CHECK、动词变形进 reference/inflections.txt、整段清单先剔一遍。
 2026-09-08 这批十条：dandelion / dandle / dandruff / dandy / Dane / dang /
 danger / dangerous / dangle / Danish，另按派生并入五条（dandified 进 dandy，
 Danegeld 与 Danelaw 进 Dane，dangly 进 dangle，dangerously 进 dangerous），
