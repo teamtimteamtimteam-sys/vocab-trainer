@@ -173,6 +173,8 @@ CHECK = {
  'desire': ['leave a lot to be desired'],
  'despair': ['in despair'],
  'detail': ['in detail', 'go into detail'],
+ 'develop': ['develop into'],
+ 'devil': ["the devil's advocate", 'speak of the devil', 'between the devil and the deep'],
  'deep': ['in deep water', 'go off the deep end', 'deep down', 'in too deep',
           'take a deep breath', 'still waters run deep', 'deep-seated'],
  'depth': ['in depth', 'out of your depth', 'plumb the depths'],
