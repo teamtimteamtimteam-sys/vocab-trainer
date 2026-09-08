@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 6000 条，词典序 a → drop。义项 24018。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 16%（da- 226/229、de- 202/960）
+B 词表 6022 条，词典序 a → drop。义项 24104。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 18%（da- 226/229、de- 261/960）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-6000.txt   1000 条   compatible → drop
+  B-merged-5001-6022.txt   1022 条   compatible → drop
   （第三份满 2500 条时会自动切出第四份，merge-wordlist 会顺手删掉旧尾巴）
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
@@ -71,7 +71,16 @@ declension / decline / declutter / decoction / decode。
 decompose / decompress / decongest / deconsecrate / deconstruct /
 decontaminate / decontrol / decor / decorate / decorous / découpage /
 decouple / decoy / decrease / decree / decrepit / decriminalize / decry /
-decrypt。**下一批从 dedicate 起。**
+decrypt。**第五批 22 条已写完**：dedicate / deduce / deduct / deed / deejay / deem /
+deer / deets / def / deface / defamation / default / defeat / defecate /
+defect / defence / defenceless / defend / defensible / defensive / defer /
+defiance。**下一批从 defibrillator 起。**
+  · defence 不在清单里（清洗后的 OALD 表只有 defense 与 defence mechanism），
+    但它显然要收 —— 立成词条，把美式 defense 写在条内一个义项里。
+  · 这一批三道闸门各拦一次，都是真问题：audit-ab 报 defeat 缺 defeat
+    somebody（本义那一支漏了，补）；audit-padding 报 defecate ③ 例句里
+    只有旧拼法 defaecation 没有词头（改写例句）；audit-swallowed 报
+    deduction 只在核心块里出现（补了「推论」那个单数义项）。
   · 新并进退出码的 audit-swallowed 又当场逮到一条：decoration 只在
     decorate 的核心块里出现过（例句里是复数 decorations），补了「勋章」
     那一支的单数义项。这道闸门每批都在真拦东西。
