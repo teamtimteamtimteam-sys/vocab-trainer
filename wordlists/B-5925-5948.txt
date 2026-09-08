@@ -1,3 +1,19 @@
+debunk
+核心：戳穿：拿事实证明一个流行的说法、神话或名声是假的、夸大的。
+及物动词，宾语多是 myth、claim、theory、reputation。
+要害在于被戳穿的东西本来是众人信着的 —— 不是单纯反驳一个论点。
+① The paper debunked three myths about sleep that most of us grew up believing.
+= 那篇论文戳穿了三个关于睡眠的说法，多数人是信着它们长大的。
+debunk a myth = 戳穿一个流行的迷思
+② His reputation as a self-made man was debunked by his own tax records.
+= 他白手起家的名声，被他自己的纳税记录拆穿了。
+debunk a reputation = 拆穿某人的名声
+构词：de- 去掉 加 bunk 胡话（bunkum 的截短）
+注意别混：
+debunk = 用事实戳穿（对象是流行的说法）
+disprove = 证伪（中性，学术）
+refute = 驳倒（正式，针对论点）
+
 debut
 核心：首次公开亮相：演员、球员、政客、产品都能用。名词最常说 make your debut，
 动词是「首次登场」。法语借词，也写作 début，词尾的 t 不发音。
@@ -400,15 +416,3 @@ deceptively simple = 看着简单其实不简单
 deceptive = 容易让人看错的（未必有人存心骗）
 misleading = 会把人引偏的（多说说法、数据）
 dishonest = 不诚实的（说人）
-
-decibel
-核心：量声音大小的单位，缩写 dB。刻度是对数的 —— 加十分贝，实际响度差得
-远不止十倍，所以九十分贝与八十分贝的差别比数字看着大。可数。
-① The reading outside the flat reached ninety decibels every time a train went past.
-= 每有一列火车经过，公寓外的读数就到九十分贝。
-ninety decibels = 九十分贝
-② Noise limits at work are written in decibels and measured across a whole shift.
-= 工作场所的噪音上限以分贝写明，按整个班次来测。
-in decibels = 以分贝为单位
-构词：deci- 十分之一 加 bel，纪念电话的发明者贝尔
-注意用法：缩写写作 dB，前小写后大写，别弄反。

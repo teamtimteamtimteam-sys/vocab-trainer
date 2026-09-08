@@ -1,3 +1,15 @@
+decibel
+核心：量声音大小的单位，缩写 dB。刻度是对数的 —— 加十分贝，实际响度差得
+远不止十倍，所以九十分贝与八十分贝的差别比数字看着大。可数。
+① The reading outside the flat reached ninety decibels every time a train went past.
+= 每有一列火车经过，公寓外的读数就到九十分贝。
+ninety decibels = 九十分贝
+② Noise limits at work are written in decibels and measured across a whole shift.
+= 工作场所的噪音上限以分贝写明，按整个班次来测。
+in decibels = 以分贝为单位
+构词：deci- 十分之一 加 bel，纪念电话的发明者贝尔
+注意用法：缩写写作 dB，前小写后大写，别弄反。
+
 decide
 核心：决定。三个常用结构：decide to do something、decide that…、
 decide on 或 decide upon something（在几个之中挑定一个）；
@@ -430,24 +442,3 @@ decomposition = 腐坏、分解
 decompose = 腐烂（生物）；也指学理上的分解
 dissolve = 溶解（在液体里化开）
 disintegrate = 碎裂解体（散成碎块）
-
-decompress
-核心：三支。一是减压：潜水员上浮时排出体内气体，减压病叫 decompression
-sickness；二是计算机的解压缩，程序叫 a decompressor；三是口语的「缓过劲来」。
-① Divers have to decompress for an hour before coming up the last few metres.
-= 潜水员得先减压一小时，才能上浮最后那几米。
-decompress = 减压
-② Decompression sickness put two of the crew in hospital for a week.
-= 减压病害得两名船员住了一周院。
-decompression sickness = 减压病
-③ The archive decompresses to about four times its size on disk.
-= 那个压缩包解压后占的空间大约是原来的四倍。
-decompress a file = 解压文件
-④ He needs a whole evening to decompress after a day in court.
-= 在法庭上待一天，他得用一整晚才缓得过来。
-decompress = 缓过劲来（口语）
-⑤ The decompressor is built into the reader and needs no separate program.
-= 解压模块就装在阅读器里，不用另外装程序。
-a decompressor = 解压器
-构词：de- 反向 加 compress 压缩
-注意用法：潜水那一支还说 a decompression stop 减压停留。

@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 6069 条，词典序 a → drop。义项 24243。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 20%（da- 226/229、de- 351/960）
+B 词表 6092 条，词典序 a → drop。义项 24319。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 22%（da- 226/229、de- 400/960）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-6069.txt   1069 条   compatible → drop
+  B-merged-5001-6092.txt   1092 条   compatible → drop
   （第三份满 2500 条时会自动切出第四份，merge-wordlist 会顺手删掉旧尾巴）
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
@@ -81,7 +81,15 @@ defrock / defrost / deft / defunct / defuse / defy。
 **第七批 23 条已写完**：degenerate / deglaze / degrade / degrease / degree /
 dehumanize / dehumidifier / dehydrate / deictic / deify / deign / deism /
 déjà vu / dejected / dekko / delay / delayering / delectable / delegate /
-delete / deleterious / deli / deliberate。**下一批从 delicacy 起。**
+delete / deleterious / deli / deliberate。**第八批 23 条已写完**：delicacy / delicate / delicious / delight / delimit /
+delineate / delinquent / deliquesce / delirious / deliver / dell / delouse /
+Delphic / delphinium / delta / delude / deluge / deluxe / delve / demagogue /
+demand / demarcate / demean。**下一批从 demeanour 起。**
+  · audit-examples 拦下 delicious 与 delirious 两条（额外实词 3.7 与 3.8，
+    差一点点到 4）—— 各改厚两句例句，不是去调低下限。
+  · demean 条里本想写「别跟 demeanour 混」，临出手改掉了：demeanour 自己
+    还没有词条，前四个字母又跟 demean 一样，提一句就会被 coverage 判成
+    已收（deception 被 deceive 吞就是这么来的）。留到它自己那一批再写。
   · audit-padding 报 deify ④ 的例句里只有 deities、没有词头的变形
     （deif- 与 deit- 前四字母对不上），改写成两者同现的句子。
   · reference/inflections.txt 补了 defied → defy（清单里 defied 单列，

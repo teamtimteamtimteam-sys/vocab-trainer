@@ -637,19 +637,3 @@ a debugger = 调试器
 debug a room = 清除房间里的窃听器
 构词：de- 去掉 加 bug 程序里的毛病
 注意用法：双写 g，名词写 debugging，不写 debuging。
-
-debunk
-核心：戳穿：拿事实证明一个流行的说法、神话或名声是假的、夸大的。
-及物动词，宾语多是 myth、claim、theory、reputation。
-要害在于被戳穿的东西本来是众人信着的 —— 不是单纯反驳一个论点。
-① The paper debunked three myths about sleep that most of us grew up believing.
-= 那篇论文戳穿了三个关于睡眠的说法，多数人是信着它们长大的。
-debunk a myth = 戳穿一个流行的迷思
-② His reputation as a self-made man was debunked by his own tax records.
-= 他白手起家的名声，被他自己的纳税记录拆穿了。
-debunk a reputation = 拆穿某人的名声
-构词：de- 去掉 加 bunk 胡话（bunkum 的截短）
-注意别混：
-debunk = 用事实戳穿（对象是流行的说法）
-disprove = 证伪（中性，学术）
-refute = 驳倒（正式，针对论点）

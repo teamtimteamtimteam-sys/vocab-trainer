@@ -1,235 +1,246 @@
-deictic
-核心：语言学术语「指示的」：说 this、there、now、I 这一类词 ——
-它们指向什么，要靠说话的场合才定得下来。名词 deixis 指这种现象。
-形容词，只在语言学里用。
-① A deictic expression points outwards at the situation rather than inwards at the sentence.
-= 指示性表达指向说话时的场合，而不是指向句子本身。
-a deictic expression = 指示性表达
-② Deixis is what makes a note reading back in ten minutes useless on a locked door.
-= 正因为有指示这回事，锁着的门上贴一张「十分钟后回来」才等于没说。
-deixis = 指示现象
-构词：希腊语 deiktikos 指示的
-注意语域：语言学术语，日常不用。
+delirious
+核心：两支。一是医学上的谵妄：高烧或中毒时神志不清、说胡话，名词 delirium；
+二是夸张的「欣喜若狂」，副词 deliriously 多修饰 happy。
+① He was delirious for two nights and talked to people who were not there.
+= 他神志不清了两夜，对着不在场的人说话。
+be delirious = 神志不清、说胡话
+② The delirium passed as soon as the fever came down, and afterwards he remembered none of it.
+= 烧一退，谵妄就过去了，事后那一段他一点也不记得。
+delirium = 谵妄
+③ The crowd was delirious and the players could not hear each other at all.
+= 观众欣喜若狂，球员彼此喊话都听不见。
+be delirious with joy = 欣喜若狂
+④ They were deliriously happy for a fortnight and then had to find somewhere to live.
+= 他们狂喜了两周，接着就不得不去找住的地方。
+deliriously happy = 幸福得发狂
+构词：拉丁语 delirare 偏离犁沟，引申为思路跑偏
+注意别混：delirium 是暂时的神志不清，dementia 是持续的认知衰退。
 
-deify
-核心：把……奉为神：一是宗教上真的封神，二是比喻的「捧上神坛」。
-及物动词，变形 deified、deifying。名词 deification；
-a deity 是神祇，正式用词，日常说 a god。
-① Roman emperors were deified after death and sometimes before it.
-= 罗马皇帝死后被封神，有时候生前就封了。
-deify somebody = 把某人奉为神
-② The party deified its founder and rewrote everything he had ever said.
-= 那个党把创党人捧上神坛，把他说过的话全改写了一遍。
-deify a leader = 把领袖捧上神坛
-③ The deification of the emperor was a political act, not a religious one.
-= 皇帝的封神是政治动作，不是宗教动作。
-the deification of somebody = 对某人的神化
-④ The emperors they deified are long gone, but three older deities still share that temple.
-= 他们封过神的那些皇帝早已不在，那座庙里却仍供着三位更古老的神祇。
-a deity = 神祇（正式）
-构词：拉丁语 deus 神
-注意语域：deity 偏正式与学术；日常说 a god。
+deliver
+核心：四支。一是送货，名词 delivery；二是履行、拿出成果；
+三是发表讲话或宣布裁决；四是接生。
+项目管理里 a deliverable 是交付物；deliverance 是正式的「解救」，偏宗教。
+① The parcel was delivered to the wrong house and signed for by a neighbour.
+= 包裹送错了门牌，还被邻居签收了。
+deliver something = 递送某物
+② The government promised much and delivered on almost none of it.
+= 政府许诺了一大堆，几乎一样也没兑现。
+deliver on a promise = 兑现承诺
+③ She delivered the speech from memory and it ran three minutes short.
+= 她背着讲完了那篇讲话，还短了三分钟。
+deliver a speech = 发表讲话
+④ The midwife had delivered four hundred babies in the same two rooms.
+= 那位助产士在同样的两间屋子里接生过四百个孩子。
+deliver a baby = 接生
+⑤ The only deliverable anybody cared about was the final report.
+= 大家真正在意的交付物只有那份终稿报告。
+a deliverable = 交付物（项目用语）
+⑥ Delivery takes three days and costs more than the book itself did.
+= 送货要三天，运费比书本身还贵。
+delivery = 递送、送货
+⑦ The hymn is about deliverance from a danger nobody now remembers.
+= 那首圣歌唱的是从一场如今没人记得的危难中获救。
+deliverance = 解救（正式，偏宗教）
+构词：拉丁语 deliberare 释放、交出
+注意用法：说送到谁手上用 deliver something to somebody。
 
-deign
-核心：屈尊做某事：几乎只用 deign to do something 这一个结构，
-而且多在否定与讽刺的语气里 —— 说某人终于肯做一件他觉得掉份儿的事。
-① He finally deigned to answer the third email, six weeks after the first one.
-= 第一封邮件之后六周，他总算屈尊回了第三封。
-deign to do something = 屈尊做某事
-② She did not deign to explain why the meeting had been moved.
-= 会议为什么改期，她压根不屑解释。
-not deign to do something = 不屑于做某事
-构词：拉丁语 dignari 认为值得
-注意语域：几乎总带讽刺，说别人摆架子时用得最顺。
+dell
+核心：小山谷：树木环抱的一处幽静低地。文学词、偏旧，
+今天多留在地名与诗里。可数。
+① The path drops into a dell where the light never quite reaches the ground.
+= 小路下到一处小谷，那里的光始终照不到地面。
+a dell = 树木环抱的小山谷
+② They camped in the dell and woke up soaked through.
+= 他们在那处小谷里露营，醒来时浑身湿透。
+camp in a dell = 在小谷里扎营
+构词：古英语 dell，与 dale 同源
+注意语域：文学与地名里用，日常说 a small valley。
 
-deism
-核心：自然神论：认为造物主创世之后就不再插手 —— 十七八世纪流行的立场，
-跟 theism 有神论、atheism 无神论并列。
-信奉者是 a deist，形容词 deistic。不可数。
-① Deism appealed to people who wanted a creator without a church.
-= 自然神论合那些想要造物主、却不想要教会的人的意。
-deism = 自然神论
-② Several of the founders were deists and said as much in their letters.
-= 好几位开国者是自然神论者，在信里也这么说过。
-a deist = 自然神论者
-③ His deistic view of history left no room for miracles at all.
-= 他那套自然神论的历史观里，一点神迹的余地也没有。
-deistic = 自然神论的
-构词：拉丁语 deus 神 加 -ism
-注意别混：deism 认为神创世后不干预，theism 认为神持续干预。
+delouse
+核心：除虱：把人、动物或衣物上的虱子清掉。及物动词，
+多见于战时、难民营与历史叙述。
+① Every new arrival was deloused before being given a bed.
+= 每个新来的人都先除虱，才分到床位。
+delouse somebody = 给某人除虱
+② The blankets were deloused twice and still nobody would use them.
+= 那些毯子除了两回虱，还是没人肯用。
+be deloused = 被除虱
+构词：de- 去掉 加 louse 虱子
+注意用法：louse 的复数是 lice，动词本身不受影响。
 
-déjà vu
-核心：似曾相识：明明是头一回，却觉得从前经历过。法语借词，
-不带重音写作 deja vu。不可数，常说 a sense of déjà vu、a feeling of deja vu。
-也引申着说「又是这一套」的那种厌烦。
-① She had a strong sense of déjà vu the moment she walked into the hall.
-= 她一走进那个大厅，就有一种强烈的似曾相识感。
-a sense of déjà vu = 似曾相识的感觉
-② Reading the new proposal gave everyone in the room a feeling of deja vu.
-= 读那份新提案，屋里每个人都觉得似曾相识。
-a feeling of deja vu = 似曾相识之感
-不带重音的写法一样通行。
-构词：法语「已经见过」
-注意用法：不可数，前面用 a sense of 或 a feeling of。
+Delphic
+核心：模棱两可的、怎么讲都通的：源自古希腊德尔斐神谕 ——
+那些神谕出了名地两头都说得通。形容词，首字母大写，偏文学与新闻。
+① The statement was Delphic enough for both sides to claim it supported them.
+= 那份声明含糊得两边都说它是在支持自己。
+a Delphic statement = 模棱两可的声明
+② He gave a Delphic answer and left before anybody could ask again.
+= 他给了个含混两可的回答，没等人再问就走了。
+a Delphic answer = 含混两可的回答
+构词：古希腊德尔斐（Delphi）的神谕所
+注意用法：首字母大写；日常说 ambiguous。
 
-dejected
-核心：垂头丧气的：失望之后打不起精神的那副样子，说人，也说神情与语气。
-副词 dejectedly，名词 dejection。偏书面一点。
-① They came off the pitch dejected and nobody said anything in the changing room.
-= 他们垂头丧气地下了场，更衣室里谁也没说话。
-look dejected = 一脸沮丧
-② He shrugged dejectedly and went back to the queue he had just left.
-= 他沮丧地耸耸肩，回到刚离开的那条队伍里。
-shrug dejectedly = 沮丧地耸肩
-③ A note of dejection had crept into her letters by the second winter.
-= 到第二个冬天，她的信里已经透出一股消沉。
-dejection = 消沉、沮丧
-构词：拉丁语 deicere 抛下
-注意别混：dejected 是失望后的一时低落，depressed 是持续的抑郁，也可指临床诊断。
+delphinium
+核心：翠雀：花园里那种一根长穗上开满蓝紫色花的高株植物。
+可数，复数 delphiniums。
+① The delphiniums came down in one night of wind and never straightened up again.
+= 那些翠雀在一夜大风里倒了，再没直起来。
+a delphinium = 翠雀
+② She staked the delphiniums early and had the best border in the village.
+= 她早早给翠雀立了支架，花境是全村最好的。
+stake delphiniums = 给翠雀立支架
+构词：希腊语 delphis 海豚 —— 花蕾的形状像海豚
+注意用法：说一片花时常用复数。
 
-dekko
-核心：（英式俚语）看一眼：几乎只用在 have a dekko at something 里。
-偏旧、偏诙谐，是驻印英军从印度斯坦语带回来的词。可数。
-① Have a dekko at this and tell me whether the date looks right to you.
-= 你瞧瞧这个，看日期对不对。
-have a dekko at something = 瞧一眼某物
-② He took a quick dekko round the yard and found nothing worth taking.
-= 他在院子里飞快扫了一眼，没发现什么值得拿的。
-take a dekko = 看一眼
-构词：印度斯坦语 dekho「看」，经驻印英军进入英语
-注意语域：英式俚语，偏旧、偏诙谐，正式场合不用。
+delta
+核心：三支。一是河口三角洲；二是希腊字母第四个，科学与工程里拿它表示
+变化量；三是肩上的三角肌，健身里说 deltoids。
+① The delta is silting up and the channel has to be dredged every spring.
+= 那片三角洲在淤积，航道每年春天都得清淤。
+a delta = 河口三角洲
+② In the equation delta stands for the change between two measurements.
+= 那个方程里，这个符号代表两次测量之间的变化量。
+delta = 希腊字母，表示变化量
+③ He tore a deltoid lifting something he had been told to leave alone.
+= 他抬了件人家叮嘱别碰的东西，拉伤了三角肌。
+a deltoid = 三角肌
+④ Swimmers develop deltoids that no amount of tailoring can hide.
+= 游泳的人练出的三角肌，怎么裁衣服也遮不住。
+deltoids = 两侧的三角肌
+构词：希腊字母 Δ 形状像三角，三角洲因此得名
+注意用法：说某条河的三角洲用 the Nile delta 这样的写法。
 
-delay
-核心：耽搁、推迟。名词可数不可数都行；动词一是「使耽搁」，多用被动，
-二是「拖着不做」，后面接动名词。
-习语 without delay 是「立刻」，多见于正式文书。
-① There was a two-hour delay at the border and nobody explained why.
-= 边境耽搁了两个钟头，没人解释为什么。
-a two-hour delay = 两小时的耽搁
-② The flight was delayed twice and finally left after midnight.
-= 那班飞机延误了两次，最后过了午夜才起飞。
-be delayed = 被耽搁、延误
-③ He delayed telling them until the paperwork had already gone through.
-= 他一直拖着不告诉他们，直到手续都办完了。
-delay doing something = 拖着不做某事
-④ The letter said the account must be settled without delay.
-= 信上说，这笔账须立即结清。
-without delay = 立刻、不得延误
-构词：古法语 delaier 拖延
-注意用法：后面接动名词，不说 delay to tell。
+delude
+核心：使误信：让别人或自己相信不实的事。及物动词，
+最常见的是 delude yourself 自欺。
+名词 delusion 是妄想、错误信念；形容词 delusional 说人有妄想，
+delusive 说事物使人误信，偏旧。
+① He deluded himself for years that the shop would come right on its own.
+= 他多年自欺，以为那家店会自己好起来。
+delude yourself = 自欺
+② She is under the delusion that the deadline can be moved a third time.
+= 她还妄想着期限能第三次往后挪。
+be under the delusion that… = 妄想着……
+③ Delusions of grandeur are always easier to spot in other people.
+= 自大妄想总是在别人身上更容易看出来。
+delusions of grandeur = 自大妄想
+④ The whole plan was delusive and two of them knew it from the start.
+= 整个计划都是虚妄的，其中两人从一开始就知道。
+delusive = 使人误信的、虚妄的
+⑤ He became delusional in the last few weeks and did not know anyone.
+= 最后那几周他出现了妄想，谁也认不出。
+delusional = 有妄想的
+构词：拉丁语 deludere 戏弄
+注意别混：delusion 是自己信以为真的错误信念，illusion 是感官被骗。
 
-delayering
-核心：（管理用语）削减管理层级：把中间那几层管理岗撤掉，让组织变扁平。
-不可数。企业改组的报道里常见，带委婉色彩 —— 实质往往就是裁员。
-① Delayering removed two levels of management and most of the institutional memory.
-= 削减层级砍掉了两级管理岗，也砍掉了大半组织记忆。
-delayering = 削减管理层级
-② Two rounds of delayering left one manager for every forty staff.
-= 两轮层级削减之后，四十名员工才配一名管理者。
-a round of delayering = 一轮层级削减
-构词：de- 去掉 加 layer 层
-注意语域：企业与管理用语，是个委婉说法。
+deluge
+核心：两支。一是滂沱大雨、洪水；二是比喻的「排山倒海地涌来」。
+名词动词同形，动词几乎只用被动 be deluged with something。
+① The deluge started at four and had taken the bridge out by seven.
+= 大雨四点开始下，七点就把桥冲垮了。
+a deluge = 滂沱大雨、洪水
+② The station was deluged with complaints and took the programme off air.
+= 电台被投诉淹没，把那个节目撤了。
+be deluged with something = 被某物淹没
+③ A deluge of applications arrived in the last two days before the deadline.
+= 截止前最后两天，申请像潮水一样涌来。
+a deluge of something = 潮水般涌来的某物
+构词：拉丁语 diluvium 洪水
+注意别混：deluge 强调多到应付不过来，flood 更常说实际的水灾。
 
-delectable
-核心：美味的、赏心悦目的：多说食物，也半开玩笑地说人。偏正式与文学，
-日常夸吃的说 delicious。
-名词 delectation 更旧、更书面，常在 for somebody's delectation 里带调侃用。
-① The menu promised a delectable pudding and delivered something out of a packet.
-= 菜单许诺了一道美味布丁，端上来的却是袋装货。
-a delectable pudding = 美味的布丁
-② The whole thing was staged for the delectation of two visiting inspectors.
-= 整场戏是演给两位来访的检查员看的。
-for somebody's delectation = 供某人享用、给某人看着高兴
-构词：拉丁语 delectare 使愉悦，与 delight 同源
-注意语域：偏正式与文学；日常说 delicious。
+deluxe
+核心：豪华的、高一档的：说房间、车型、包装。广告里的常用词，
+自带推销口气。形容词，多作定语，也写作 de luxe。
+① They were upgraded to a deluxe room that happened to face the car park.
+= 他们被升级到一间正对着停车场的豪华房。
+a deluxe room = 豪华客房
+② The deluxe edition costs twice as much and adds exactly two photographs.
+= 豪华版贵一倍，就多了两张照片。
+a deluxe edition = 豪华版
+构词：法语 de luxe 奢华的
+注意语域：广告用语，用的时候要知道它带推销口气。
 
-delegate
-核心：名词与动词同形，读音不同。名词 a delegate 是（参加会议、大会的）代表；
-动词是把职权或事情交给别人去做 —— 攥着不放的人就是不会 delegate。
-名词 delegation 既指代表团，也指「授权、把事交下去」这件事。
-① Two hundred delegates arrived on the Sunday and half of them left early.
-= 两百名代表周日到场，一半人提前走了。
-a delegate = 代表
-② She delegates everything except the one job she should have handed over.
-= 她什么都交给别人，唯独该交出去的那件事自己攥着。
-delegate something to somebody = 把某事交给某人去做
-③ A delegation from the union met the board for four hours.
-= 工会的一个代表团跟董事会谈了四个钟头。
-a delegation = 代表团
-④ Delegation is a skill nobody teaches and everybody is judged on.
-= 授权放权是门没人教、却人人都要被拿来评判的本事。
-delegation = 授权、把事交下去
-构词：拉丁语 delegare 委派
-注意用法：名词词尾读得轻，动词词尾读作 -gate，重音都在第一个音节。
+delve
+核心：深挖。一是往深处翻找；二是引申的深入探究 —— 这一支最常用，
+几乎固定说 delve into something。不及物。
+① She delved into the parish records and found three families with the same name.
+= 她一头扎进教区档案，找出三户同姓人家。
+delve into something = 深入探究某事
+② He delved in his bag for a pen and produced four that did not work.
+= 他在包里翻笔，掏出四支都写不出的。
+delve in something = 在某处翻找
+构词：古英语 delfan 挖
+注意用法：探究义几乎总是 delve into，后面接档案、历史、细节。
 
-delete
-核心：删除：把文字、数据、记录去掉。及物动词，名词 deletion。
-计算机上那个键叫 the delete key。
-跟 erase 的分界：erase 强调抹掉痕迹（磁带、黑板、记忆），delete 多说文字与文件。
-① She deleted the whole paragraph and rewrote it from the second sentence.
-= 她把整段删掉，从第二句起重写。
-delete something = 删除某物
-② Two deletions in the record were never explained to the inquiry.
-= 记录里有两处删除，从没向调查组解释过。
-a deletion = 一处删除
-③ Hold the delete key down and it takes the whole line.
-= 按住删除键不放，整行就没了。
-the delete key = 删除键
-构词：拉丁语 delere 抹去
-注意别混：delete 说文字与文件，erase 说抹掉痕迹。
+demagogue
+核心：煽动家：靠煽动情绪、迎合偏见来拉拢民众的政客 —— 一律贬义，
+没有中性的用法。可数。形容词 demagogic，名词 demagogy 指那套做法。
+① He was dismissed as a demagogue right up until the day he won.
+= 直到他赢了那天，人家还一直把他当煽动家不当回事。
+a demagogue = 煽动家
+② The speech was demagogic from the first sentence and the crowd loved it.
+= 那篇讲话从第一句起就是煽动，人群偏偏受用。
+demagogic = 煽动性的
+③ Demagogy works fastest where people have stopped trusting anything else.
+= 在人们对别的都不再信任的地方，煽动术起效最快。
+demagogy = 煽动术
+构词：希腊语 demos 民众 加 agogos 引领者
+注意语域：一律贬义；说中性的「善于演讲」用 a powerful speaker。
 
-deleterious
-核心：有害的：正式用词，几乎只跟 effect、consequences、impact 搭配，
-多见于学术与报告文字。日常说 harmful 或 damaging。
-① The drug has a deleterious effect on the liver that shows up only after years.
-= 那种药对肝有害，几年之后才显出来。
-a deleterious effect = 有害的影响
-② Cutting the training budget had deleterious consequences nobody had predicted.
-= 削减培训预算带来了谁都没预料到的有害后果。
-deleterious consequences = 有害的后果
-构词：希腊语 deleterios 破坏性的
-注意语域：学术与报告用语；日常说 harmful。
+demand
+核心：名词与动词都极常用。动词是「强硬地要求」，语气比 ask 硬得多，
+也说「需要」（the job demands patience）；名词一是要求，
+二是经济学的需求。
+三条搭配要记牢：in demand 抢手、on demand 随叫随到、
+make demands on somebody 给某人添负担。形容词 demanding 说要求高、费心力。
+① She demanded an apology and got one three months later.
+= 她强硬地要求道歉，三个月后拿到了。
+demand an apology = 要求道歉
+② The job demands patience more than it demands experience.
+= 这份工作要的耐心比经验更多。
+demand something = 需要某物
+③ Demand for the smaller flats has doubled since the line opened.
+= 自从那条线通车，小户型的需求翻了一倍。
+demand for something = 对某物的需求
+④ Good plumbers are in demand and rarely need to advertise.
+= 好水管工很抢手，几乎不用打广告。
+be in demand = 抢手
+⑤ The service is available on demand and costs nothing extra.
+= 那项服务随叫随到，不另收费。
+on demand = 随叫随到、按需提供
+⑥ The job makes demands on your evenings that nobody mentions at interview.
+= 这份工作会占掉你的晚上，面试时没人提这一条。
+make demands on somebody = 给某人添负担
+⑦ It is a demanding course and a third of them leave in the first year.
+= 那门课要求很高，三分之一的人第一年就走了。
+a demanding course = 要求很高的课程
+构词：拉丁语 demandare 托付、要求
+注意用法：demand 后面接从句用动词原形（demand that he be told）。
 
-deli
-核心：熟食店：卖火腿、奶酪、橄榄、现做三明治的那种店。
-全称 delicatessen，日常与招牌上一律写 deli。可数，复数 delis。
-超市里的熟食柜台叫 the deli counter。
-① There is a deli on the corner that makes sandwiches to order until three.
-= 街角有家熟食店，三点前都能现点现做三明治。
-a deli = 熟食店
-② The delicatessen had been in the same family since the nineteen thirties.
-= 那家熟食店从三十年代起就一直是同一家人在经营。
-a delicatessen = 熟食店（全称）
-③ She queued at the deli counter while he found everything else.
-= 她在熟食柜台排队，他去把别的东西都找齐。
-the deli counter = 熟食柜台
-构词：德语 Delikatessen 美味食品
-注意用法：全称少用，日常一律说 deli。
+demarcate
+核心：划界：把两块地方或两种职责之间的界线明确定下来。及物动词，正式。
+名词 demarcation；工会语境里 a demarcation dispute 指「哪一工种该干哪活」的争执。
+① White posts demarcate the boundary between the two estates.
+= 白色界桩标出了两处庄园之间的界线。
+demarcate something = 划出某物的界线
+② A demarcation dispute held up the whole site for eleven days.
+= 一场工种界线之争让整个工地停了十一天。
+a demarcation dispute = 职责界线之争
+构词：西班牙语 demarcar 标出边界
+注意别混：demarcate 划的是界线本身，delimit 更常说范围的划定。
 
-deliberate
-核心：形容词与动词同形，读音不同。形容词一是「蓄意的」，二是「从容不迫的」；
-动词是仔细斟酌、评议。副词 deliberately 两支都用：故意地，也说不慌不忙地。
-名词 deliberation 是斟酌，形容词 deliberative 说评议性的机构。
-① It was a deliberate lie and he repeated it twice more that same week.
-= 那是个蓄意的谎言，那一周他又重复了两遍。
-a deliberate lie = 蓄意的谎言
-② She walked across the room with deliberate steps and picked up the phone.
-= 她不慌不忙地走过房间，拿起了电话。
-deliberate steps = 从容不迫的脚步
-③ He deliberately left the last page blank so that they would have to ask.
-= 他故意把最后一页留白，好让他们不得不来问。
-deliberately = 故意地
-④ The jury deliberated for two days and asked three questions in writing.
-= 陪审团评议了两天，书面提了三个问题。
-deliberate on something = 就某事评议、斟酌
-⑤ After long deliberation they took the offer that had been on the table first.
-= 反复斟酌之后，他们接受了最先摆出来的那个方案。
-after long deliberation = 经过长时间斟酌
-⑥ A deliberative body works slowly by design, not by accident.
-= 评议性机构走得慢是设计使然，不是出了岔子。
-a deliberative body = 评议性机构
-构词：拉丁语 deliberare 权衡
-注意用法：形容词与动词拼写相同、读音不同，动词的词尾读作 -rate。
+demean
+核心：贬损、有失身份：让人掉价，宾语多半是自己。及物动词，
+常说 demean yourself。
+形容词 demeaning 说事情让人觉得受辱，这个形式比动词常用得多。
+① He would not demean himself by asking a second time.
+= 他不肯再问第二遍，觉得那有失身份。
+demean yourself = 自贬身份
+② The work is not hard but it is demeaning, and that is why nobody stays.
+= 那活儿不累，可让人觉得受辱，所以没人留得住。
+demeaning work = 让人觉得受辱的活儿
+构词：de- 加 mean 低下
+注意用法：动词少见，日常多用 demeaning 这个形容词。
 
 die
 核心：底层是「停止活着」。往三个方向长：一是人和动物死；二是抽象的
