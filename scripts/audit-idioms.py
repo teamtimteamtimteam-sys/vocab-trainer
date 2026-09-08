@@ -195,6 +195,8 @@ CHECK = {
  'dim': ['take a dim view of'],
  'dinner': ['dinner is served'],
  'direct': ['direct debit', 'a direct hit'],
+ 'dirt': ['dirt cheap', 'dish the dirt'],
+ 'dirty': ['a dirty look', "somebody's dirty work"],
  'dish': ['dish out', 'dish up', 'dish the dirt', 'do the dishes'],
  'distance': ['in the distance', 'keep your distance', 'go the distance',
               'within walking distance', 'distance yourself from'],

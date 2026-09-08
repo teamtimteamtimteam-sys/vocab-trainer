@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 6379 条，词典序 a → drop。义项 25255。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 44%（da- 226/229、de- 932/959、di- 193/859）
+B 词表 6425 条，词典序 a → drop。义项 25399。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 44%（da- 226/229、de- 932/959、di- 285/859）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-6379.txt   1379 条   compatible → drop
+  B-merged-5001-6425.txt   1425 条   compatible → drop
   （第三份满 2500 条时会自动切出第四份，merge-wordlist 会顺手删掉旧尾巴）
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
@@ -109,7 +109,8 @@ proper-nouns-keep 里；CHECK 补了 diagnose / dial / diamond / dice；
 diminuendo、divertimento、diglossia、diglossic、ditransitive、dioptrics，
 照 accelerando / acrolect 的先例）。
 已写两批：diabetes → diarrhoea（23 条）、diaspora → diehard（23 条）。
-第三批 diesel → dilatory（23 条）已写完。第四批 dildo → dinosaur（24 条）已写完。**下一批从 diocesan 起**
+第三批 diesel → dilatory（23 条）已写完。第四批 dildo → dinosaur（24 条）、第五批 diocesan → dirigible（22 条）、
+第六批 dirigisme → disassemble（24 条）已写完。**下一批从 disaster 起**
 （dilemma、dilute、dim、dimension、diminish、dinner、dip、dire、direct 一带，
 direct 与 dinner 都是大词）。
   · 这一批 audit-swallowed 一次报出八条被吞的词 —— 派生一族写在核心块里
