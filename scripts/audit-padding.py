@@ -420,12 +420,13 @@ def main(argv):
     for h, e1, e2 in dupes[:30]:
         print('      %-18s %s' % (h, e1[:44]))
         print('      %-18s %s' % ('', e2[:44]))
-    # 【元评论例句】暂不计进退出码：2026-09-06 头一次全表跑就报出 50 条，
-    # 全是真的（拼写变体、词源、语域说明写成了例句）。这些得跟着回填一条条
-    # 换成真用法，在那之前把它并进退出码只会让这道闸门一直红着 ——
+    # 【元评论例句】2026-09-06 头一次全表跑报出 50 条，全是真的（拼写变体、
+    # 词源、语域说明写成了例句），当时不计退出码，免得闸门一直红着 ——
     # GOAL.txt 记着「一直报红的闸门等于没有闸门」。
-    # **清到 0 之后就把 talk 加进下面这一行**，它才真的开始拦人。
-    return 1 if (fake or dupes or meta) else 0
+    # 2026-09-08 回填做完，最后三条（bristols、catfight、cocksucker）也
+    # 改成了真用法，全表清到 0，按当初记下的办法把 talk 并进退出码，
+    # 这道尺子从此真的拦人：再写出「the word X」「X means Y」那类句子会红。
+    return 1 if (fake or dupes or meta or talk) else 0
 
 if __name__ == '__main__':
     sys.exit(main(sys.argv[1:]))
