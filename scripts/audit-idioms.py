@@ -194,6 +194,7 @@ CHECK = {
          'dig your own grave'],
  'dim': ['take a dim view of'],
  'dinner': ['dinner is served'],
+ 'direct': ['direct debit', 'a direct hit'],
  'dish': ['dish out', 'dish up', 'dish the dirt', 'do the dishes'],
  'distance': ['in the distance', 'keep your distance', 'go the distance',
               'within walking distance', 'distance yourself from'],
