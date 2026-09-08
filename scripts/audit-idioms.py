@@ -158,6 +158,8 @@ CHECK = {
  'defensive': ['on the defensive'],
  'defiance': ['in defiance of'],
  'defy': ['defy description', 'defy belief'],
+ 'degree': ['to a degree', 'by degrees', 'the third degree'],
+ 'delay': ['without delay'],
  'deep': ['in deep water', 'go off the deep end', 'deep down', 'in too deep',
           'take a deep breath', 'still waters run deep', 'deep-seated'],
  'depth': ['in depth', 'out of your depth', 'plumb the depths'],

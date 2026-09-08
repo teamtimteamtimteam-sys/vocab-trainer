@@ -1,215 +1,235 @@
-deflower
-核心：夺去处女之贞。旧词、文学词，今天几乎只在旧小说与法律史里读到，
-带明显的男性视角与物化色彩，现代写作里避免使用。及物动词。
-① In the ballad the squire deflowers the miller's daughter and is never punished.
-= 那首民谣里，乡绅夺去了磨坊主女儿的贞洁，却从未受罚。
-deflower somebody = 夺去某人的处女之贞
-② Victorian courts treated a woman who had been deflowered as damaged goods.
-= 维多利亚时代的法庭把失贞的女子当作有瑕疵的货色。
-be deflowered = 被夺去贞洁
-构词：de- 去掉 加 flower 花，比作摘去花朵
-注意语域：旧词，收进来只为读旧文时认得，现代写作不用。
+deictic
+核心：语言学术语「指示的」：说 this、there、now、I 这一类词 ——
+它们指向什么，要靠说话的场合才定得下来。名词 deixis 指这种现象。
+形容词，只在语言学里用。
+① A deictic expression points outwards at the situation rather than inwards at the sentence.
+= 指示性表达指向说话时的场合，而不是指向句子本身。
+a deictic expression = 指示性表达
+② Deixis is what makes a note reading back in ten minutes useless on a locked door.
+= 正因为有指示这回事，锁着的门上贴一张「十分钟后回来」才等于没说。
+deixis = 指示现象
+构词：希腊语 deiktikos 指示的
+注意语域：语言学术语，日常不用。
 
-defog
-核心：除雾：把车窗、镜片上的雾气去掉。美式说法，英式说 demist。
-及物动词，双写 g：defogged、defogging。除雾装置叫 a defogger。
-① It takes five minutes to defog the windscreen on a morning like this one.
-= 这样的早晨，除掉挡风玻璃上的雾气要五分钟。
-defog a windscreen = 给挡风玻璃除雾
-② The rear defogger stopped working and he drove all winter with a cloth on the seat.
-= 后窗除雾器坏了，他整个冬天座位上都放着块布开车。
-a defogger = 除雾器（美式）
-构词：de- 去掉 加 fog 雾
-注意用法：英式说 demist 与 demister，指的是同一件事。
+deify
+核心：把……奉为神：一是宗教上真的封神，二是比喻的「捧上神坛」。
+及物动词，变形 deified、deifying。名词 deification；
+a deity 是神祇，正式用词，日常说 a god。
+① Roman emperors were deified after death and sometimes before it.
+= 罗马皇帝死后被封神，有时候生前就封了。
+deify somebody = 把某人奉为神
+② The party deified its founder and rewrote everything he had ever said.
+= 那个党把创党人捧上神坛，把他说过的话全改写了一遍。
+deify a leader = 把领袖捧上神坛
+③ The deification of the emperor was a political act, not a religious one.
+= 皇帝的封神是政治动作，不是宗教动作。
+the deification of somebody = 对某人的神化
+④ The emperors they deified are long gone, but three older deities still share that temple.
+= 他们封过神的那些皇帝早已不在，那座庙里却仍供着三位更古老的神祇。
+a deity = 神祇（正式）
+构词：拉丁语 deus 神
+注意语域：deity 偏正式与学术；日常说 a god。
 
-defoliant
-核心：落叶剂：让植物落叶的化学药剂，战争与农业里都用过。
-动词 defoliate 是把叶子打光，名词 defoliation。可数。
-① Defoliants were sprayed along the border for years and the soil still shows it.
-= 边境沿线连着好些年喷洒落叶剂，土壤至今看得出痕迹。
-a defoliant = 落叶剂
-② Whole valleys were defoliated and the canopy has never grown back.
-= 整片山谷的叶子被打光，林冠再没长回来。
-defoliate something = 把某处的叶子打光
-③ Defoliation on that scale changed the course of two rivers.
-= 那种规模的落叶化改变了两条河的走向。
-defoliation = 落叶化
-构词：de- 去掉 加拉丁语 folium 叶
-注意语域：军事与农业用语，日常不用。
+deign
+核心：屈尊做某事：几乎只用 deign to do something 这一个结构，
+而且多在否定与讽刺的语气里 —— 说某人终于肯做一件他觉得掉份儿的事。
+① He finally deigned to answer the third email, six weeks after the first one.
+= 第一封邮件之后六周，他总算屈尊回了第三封。
+deign to do something = 屈尊做某事
+② She did not deign to explain why the meeting had been moved.
+= 会议为什么改期，她压根不屑解释。
+not deign to do something = 不屑于做某事
+构词：拉丁语 dignari 认为值得
+注意语域：几乎总带讽刺，说别人摆架子时用得最顺。
 
-deforest
-核心：把森林砍光：及物动词，多用被动。
-名词 deforestation 是环境议题里的高频词，比动词常见得多。
-反义是 reforest 重新造林。
-① Hillsides deforested in the sixties still slide every time the rain is heavy.
-= 六十年代砍光林子的那些山坡，至今一下大雨就滑坡。
-be deforested = 森林被砍光
-② Deforestation in the basin has slowed but has certainly not stopped.
-= 那片流域的森林砍伐放缓了，但绝对没有停。
-deforestation = 森林砍伐
-构词：de- 去掉 加 forest 森林
-注意用法：环境报道里几乎只用名词。
+deism
+核心：自然神论：认为造物主创世之后就不再插手 —— 十七八世纪流行的立场，
+跟 theism 有神论、atheism 无神论并列。
+信奉者是 a deist，形容词 deistic。不可数。
+① Deism appealed to people who wanted a creator without a church.
+= 自然神论合那些想要造物主、却不想要教会的人的意。
+deism = 自然神论
+② Several of the founders were deists and said as much in their letters.
+= 好几位开国者是自然神论者，在信里也这么说过。
+a deist = 自然神论者
+③ His deistic view of history left no room for miracles at all.
+= 他那套自然神论的历史观里，一点神迹的余地也没有。
+deistic = 自然神论的
+构词：拉丁语 deus 神 加 -ism
+注意别混：deism 认为神创世后不干预，theism 认为神持续干预。
 
-deform
-核心：使变形：外力把东西压弯、扭曲，失去原来的形状。及物不及物都行。
-名词 deformation 说物理上的变形量；deformed 说形状被扭坏的；
-a deformity 指身体上的畸形，说人时要当心措辞。
-① The heat deformed the plastic housing and the switch no longer clicks.
-= 高温把塑料外壳烤变了形，开关按不响了。
-deform something = 使某物变形
-② Deformation of the beam was measured every hour for a fortnight.
-= 那根梁的变形量每小时测一次，测了两周。
-deformation = 变形（可测的量）
-③ The tree grew deformed on the windward side and leaned all its life.
-= 那棵树迎风的一面长得扭曲，一辈子都是斜的。
-deformed = 变形的、扭曲的
-④ The clinic treats children with deformities of the hand and foot.
-= 那家诊所治疗手足畸形的儿童。
-a deformity = 畸形
-构词：de- 加 form 形状
-注意语域：说人的身体用 deformity 已显生硬，医学以外多改说具体情况。
+déjà vu
+核心：似曾相识：明明是头一回，却觉得从前经历过。法语借词，
+不带重音写作 deja vu。不可数，常说 a sense of déjà vu、a feeling of deja vu。
+也引申着说「又是这一套」的那种厌烦。
+① She had a strong sense of déjà vu the moment she walked into the hall.
+= 她一走进那个大厅，就有一种强烈的似曾相识感。
+a sense of déjà vu = 似曾相识的感觉
+② Reading the new proposal gave everyone in the room a feeling of deja vu.
+= 读那份新提案，屋里每个人都觉得似曾相识。
+a feeling of deja vu = 似曾相识之感
+不带重音的写法一样通行。
+构词：法语「已经见过」
+注意用法：不可数，前面用 a sense of 或 a feeling of。
 
-defrag
-核心：磁盘碎片整理：把散落在磁盘各处的文件片段重新排到一起。
-全称是 defragment，口语与软件菜单里一律缩成 defrag。及物动词，双写 g。
-机械硬盘时代的常规操作，固态硬盘上不必做。
-① He used to defrag the drive every Sunday and swore it made a difference.
-= 他从前每个周日都给硬盘做碎片整理，一口咬定有用。
-defrag a drive = 给硬盘做碎片整理
-② Defragmenting a solid-state drive wears it out and gains you nothing at all.
-= 给固态硬盘做碎片整理只会磨损它，一点好处也没有。
-defragment something = 给某个磁盘做碎片整理
-构词：de- 去掉 加 fragment 碎片
-注意用法：全称与缩略并存，日常一律说 defrag。
+dejected
+核心：垂头丧气的：失望之后打不起精神的那副样子，说人，也说神情与语气。
+副词 dejectedly，名词 dejection。偏书面一点。
+① They came off the pitch dejected and nobody said anything in the changing room.
+= 他们垂头丧气地下了场，更衣室里谁也没说话。
+look dejected = 一脸沮丧
+② He shrugged dejectedly and went back to the queue he had just left.
+= 他沮丧地耸耸肩，回到刚离开的那条队伍里。
+shrug dejectedly = 沮丧地耸肩
+③ A note of dejection had crept into her letters by the second winter.
+= 到第二个冬天，她的信里已经透出一股消沉。
+dejection = 消沉、沮丧
+构词：拉丁语 deicere 抛下
+注意别混：dejected 是失望后的一时低落，depressed 是持续的抑郁，也可指临床诊断。
 
-defraud
-核心：诈骗：用欺骗手段把钱或财物从别人那里弄走。及物动词，
-常说 defraud somebody of something。法律与新闻用语。
-① He was accused of defrauding three charities of nearly a million pounds.
-= 他被控从三家慈善机构诈得近百万英镑。
-defraud somebody of something = 骗取某人的某物
-② The scheme was designed from the very start to defraud the pension fund.
-= 那套安排从一开始就是奔着诈骗养老金去的。
-defraud something = 对某个机构行骗
-构词：de- 加 fraud 欺诈
-注意别混：defraud 强调把钱弄到手，deceive 只说让人上了当。
+dekko
+核心：（英式俚语）看一眼：几乎只用在 have a dekko at something 里。
+偏旧、偏诙谐，是驻印英军从印度斯坦语带回来的词。可数。
+① Have a dekko at this and tell me whether the date looks right to you.
+= 你瞧瞧这个，看日期对不对。
+have a dekko at something = 瞧一眼某物
+② He took a quick dekko round the yard and found nothing worth taking.
+= 他在院子里飞快扫了一眼，没发现什么值得拿的。
+take a dekko = 看一眼
+构词：印度斯坦语 dekho「看」，经驻印英军进入英语
+注意语域：英式俚语，偏旧、偏诙谐，正式场合不用。
 
-defray
-核心：（正式）分担、支付一部分费用：几乎只跟 costs、expenses 搭配，
-多说机构替人承担开销。及物动词，见于章程、公文与申请须知。
-① A small grant helps defray the costs of travelling to the hearings.
-= 一小笔补助有助于分担去参加听证的路费。
-defray the costs of something = 分担某事的费用
-② The fund exists to defray expenses that families cannot meet themselves.
-= 那笔基金就是为了承担各家自己拿不出的开销。
-defray expenses = 补偿开销
-构词：古法语 desfrayer 支付花费
-注意语域：正式公文用语；日常说 help pay for something。
+delay
+核心：耽搁、推迟。名词可数不可数都行；动词一是「使耽搁」，多用被动，
+二是「拖着不做」，后面接动名词。
+习语 without delay 是「立刻」，多见于正式文书。
+① There was a two-hour delay at the border and nobody explained why.
+= 边境耽搁了两个钟头，没人解释为什么。
+a two-hour delay = 两小时的耽搁
+② The flight was delayed twice and finally left after midnight.
+= 那班飞机延误了两次，最后过了午夜才起飞。
+be delayed = 被耽搁、延误
+③ He delayed telling them until the paperwork had already gone through.
+= 他一直拖着不告诉他们，直到手续都办完了。
+delay doing something = 拖着不做某事
+④ The letter said the account must be settled without delay.
+= 信上说，这笔账须立即结清。
+without delay = 立刻、不得延误
+构词：古法语 delaier 拖延
+注意用法：后面接动名词，不说 delay to tell。
 
-defriend
-核心：把某人从社交网络的好友名单里删掉。跟 unfriend 同义，unfriend 更常用。
-及物动词，二十一世纪才有的词。
-① She defriended everybody from that job and slept better within a week.
-= 她把那份工作认识的人全删了好友，不出一周睡得就好了。
-defriend somebody = 把某人删除好友
-② Being defriended by a cousin caused more trouble than the original argument.
-= 被表亲删了好友，比当初那场争吵还麻烦。
-be defriended = 被删除好友
-构词：de- 去掉 加 friend
-注意用法：同义的 unfriend 用得更多，还当选过年度词汇。
+delayering
+核心：（管理用语）削减管理层级：把中间那几层管理岗撤掉，让组织变扁平。
+不可数。企业改组的报道里常见，带委婉色彩 —— 实质往往就是裁员。
+① Delayering removed two levels of management and most of the institutional memory.
+= 削减层级砍掉了两级管理岗，也砍掉了大半组织记忆。
+delayering = 削减管理层级
+② Two rounds of delayering left one manager for every forty staff.
+= 两轮层级削减之后，四十名员工才配一名管理者。
+a round of delayering = 一轮层级削减
+构词：de- 去掉 加 layer 层
+注意语域：企业与管理用语，是个委婉说法。
 
-defrock
-核心：革除神职：把牧师、神父的圣职身份正式剥夺。及物动词，多用被动。
-同义词 unfrock 也通行。
-① He was defrocked in the late nineties and moved to another county entirely.
-= 他九十年代末被革除神职，搬到了另一个郡去。
-be defrocked = 被革除神职
-② A defrocked priest may not perform any of the sacraments.
-= 被革除神职的神父不得主持任何圣事。
-a defrocked priest = 被革除神职的神父
-构词：de- 去掉 加 frock 教士长袍
-注意别混：defrock 说人，deconsecrate 说建筑与器物撤除宗教用途。
+delectable
+核心：美味的、赏心悦目的：多说食物，也半开玩笑地说人。偏正式与文学，
+日常夸吃的说 delicious。
+名词 delectation 更旧、更书面，常在 for somebody's delectation 里带调侃用。
+① The menu promised a delectable pudding and delivered something out of a packet.
+= 菜单许诺了一道美味布丁，端上来的却是袋装货。
+a delectable pudding = 美味的布丁
+② The whole thing was staged for the delectation of two visiting inspectors.
+= 整场戏是演给两位来访的检查员看的。
+for somebody's delectation = 供某人享用、给某人看着高兴
+构词：拉丁语 delectare 使愉悦，与 delight 同源
+注意语域：偏正式与文学；日常说 delicious。
 
-defrost
-核心：两支。一是化冻：把冷冻的食物解冻；二是除霜：把冰箱里的霜化掉，
-也说给车窗除霜，美式的除霜装置叫 a defroster。及物不及物都行。
-① Defrost the fish overnight in the fridge rather than under the tap.
-= 鱼要放在冰箱里过夜化冻，别用水龙头冲。
-defrost something = 把某物解冻
-② The freezer has to be defrosted twice a year or the drawers stick.
-= 那台冰柜一年得除两次霜，否则抽屉会卡住。
-defrost a freezer = 给冰柜除霜
-③ The defroster clears the back window in about a minute.
-= 除霜器大约一分钟就能把后窗弄清楚。
-a defroster = 除霜器（美式）
-构词：de- 去掉 加 frost 霜
-注意用法：食物化冻英美都说 defrost。
+delegate
+核心：名词与动词同形，读音不同。名词 a delegate 是（参加会议、大会的）代表；
+动词是把职权或事情交给别人去做 —— 攥着不放的人就是不会 delegate。
+名词 delegation 既指代表团，也指「授权、把事交下去」这件事。
+① Two hundred delegates arrived on the Sunday and half of them left early.
+= 两百名代表周日到场，一半人提前走了。
+a delegate = 代表
+② She delegates everything except the one job she should have handed over.
+= 她什么都交给别人，唯独该交出去的那件事自己攥着。
+delegate something to somebody = 把某事交给某人去做
+③ A delegation from the union met the board for four hours.
+= 工会的一个代表团跟董事会谈了四个钟头。
+a delegation = 代表团
+④ Delegation is a skill nobody teaches and everybody is judged on.
+= 授权放权是门没人教、却人人都要被拿来评判的本事。
+delegation = 授权、把事交下去
+构词：拉丁语 delegare 委派
+注意用法：名词词尾读得轻，动词词尾读作 -gate，重音都在第一个音节。
 
-deft
-核心：手脚利落、身手灵巧：既说动作干净，也说处理事情高明得不着痕迹。褒义。
-副词 deftly，名词 deftness。
-① Two deft movements and the fish was filleted and the bones were gone.
-= 两下利落的动作，鱼就片好了，骨头也没了。
-deft movements = 利落的动作
-② She deftly changed the subject and nobody noticed until afterwards.
-= 她不着痕迹地把话题岔开，事后才有人回过味来。
-deftly change the subject = 巧妙地岔开话题
-③ The deftness with which he handled the complaint impressed even the complainant.
-= 他处理那件投诉的利落劲儿，连投诉人都佩服。
-deftness = 利落、高明
-构词：中古英语 defte，与 daft 同源，早先的意思是温顺
-注意别混：deft 是灵巧高明，clumsy 是笨手笨脚。
+delete
+核心：删除：把文字、数据、记录去掉。及物动词，名词 deletion。
+计算机上那个键叫 the delete key。
+跟 erase 的分界：erase 强调抹掉痕迹（磁带、黑板、记忆），delete 多说文字与文件。
+① She deleted the whole paragraph and rewrote it from the second sentence.
+= 她把整段删掉，从第二句起重写。
+delete something = 删除某物
+② Two deletions in the record were never explained to the inquiry.
+= 记录里有两处删除，从没向调查组解释过。
+a deletion = 一处删除
+③ Hold the delete key down and it takes the whole line.
+= 按住删除键不放，整行就没了。
+the delete key = 删除键
+构词：拉丁语 delere 抹去
+注意别混：delete 说文字与文件，erase 说抹掉痕迹。
 
-defunct
-核心：已不存在的、废止的：说机构、公司、法规、做法早就停摆了。
-形容词，多作定语。偏正式，常带一点干巴巴的调侃。
-① The address belongs to a defunct company that was dissolved eleven years ago.
-= 那个地址属于一家十一年前就注销了的公司。
-a defunct company = 已注销的公司
-② The rule is defunct but nobody has taken it out of the handbook.
-= 那条规定早已作废，却没人把它从手册里删掉。
-be defunct = 已经作废的
-构词：拉丁语 defunctus 已了结的
-注意别混：defunct 说机构与规矩，deceased 说人。
+deleterious
+核心：有害的：正式用词，几乎只跟 effect、consequences、impact 搭配，
+多见于学术与报告文字。日常说 harmful 或 damaging。
+① The drug has a deleterious effect on the liver that shows up only after years.
+= 那种药对肝有害，几年之后才显出来。
+a deleterious effect = 有害的影响
+② Cutting the training budget had deleterious consequences nobody had predicted.
+= 削减培训预算带来了谁都没预料到的有害后果。
+deleterious consequences = 有害的后果
+构词：希腊语 deleterios 破坏性的
+注意语域：学术与报告用语；日常说 harmful。
 
-defuse
-核心：两支。一是拆除炸弹的引信；二是引申的「化解」——把紧张、危机、
-争吵降下来。及物动词。
-拼写别跟 diffuse 混：那个是扩散、四散。
-① Two soldiers spent four hours defusing a bomb the tide had uncovered.
-= 两名士兵花了四个钟头，拆除一枚被潮水冲出来的炸弹。
-defuse a bomb = 拆除炸弹的引信
-② One sentence from the oldest man in the room defused the whole argument.
-= 屋里最年长的那位一句话就把整场争吵化解了。
-defuse a situation = 化解紧张局面
-构词：de- 去掉 加 fuse 引信
-注意别混：
-defuse = 拆引信、化解紧张
-diffuse = 扩散、四散；作形容词是「弥漫的、松散的」
+deli
+核心：熟食店：卖火腿、奶酪、橄榄、现做三明治的那种店。
+全称 delicatessen，日常与招牌上一律写 deli。可数，复数 delis。
+超市里的熟食柜台叫 the deli counter。
+① There is a deli on the corner that makes sandwiches to order until three.
+= 街角有家熟食店，三点前都能现点现做三明治。
+a deli = 熟食店
+② The delicatessen had been in the same family since the nineteen thirties.
+= 那家熟食店从三十年代起就一直是同一家人在经营。
+a delicatessen = 熟食店（全称）
+③ She queued at the deli counter while he found everything else.
+= 她在熟食柜台排队，他去把别的东西都找齐。
+the deli counter = 熟食柜台
+构词：德语 Delikatessen 美味食品
+注意用法：全称少用，日常一律说 deli。
 
-defy
-核心：三支。一是公然违抗；二是「让……做不成」——defy description 是难以形容，
-defy belief 是让人难以置信；三是激将：I defy you to… 意思是「我谅你也做不到」。
-变形 defies、defied、defying，名词是 defiance。
-① They defied the ban and marched anyway, all four hundred of them.
-= 他们违抗禁令照样游行，四百人一个不少。
-defy an order = 违抗命令
-② The mess in that kitchen defies description and I have tried twice.
-= 那间厨房乱得没法形容，我试着描述过两回。
-defy description = 难以形容
-defy explanation = 无法解释
-同一个句式的一族：后面接 description、explanation、belief、logic 都行。
-③ The way the roof stayed up defied belief and two engineers came to look at it.
-= 那屋顶居然没塌，简直让人难以置信，来了两位工程师看。
-defy belief = 让人难以置信
-④ I defy anyone to read that contract twice and still sign it.
-= 我倒要看看谁能把那份合同读上两遍还肯签字。
-I defy you to do something = 我谅你也做不到
-⑤ She defied her father for the first time at nineteen and left the following morning.
-= 她十九岁头一回违逆父亲，第二天一早就走了。
-defy somebody = 违抗某人
-构词：古法语 defier 挑战，与 defiance 同源
-注意用法：第三人称 defies，过去式 defied，名词形式是 defiance。
+deliberate
+核心：形容词与动词同形，读音不同。形容词一是「蓄意的」，二是「从容不迫的」；
+动词是仔细斟酌、评议。副词 deliberately 两支都用：故意地，也说不慌不忙地。
+名词 deliberation 是斟酌，形容词 deliberative 说评议性的机构。
+① It was a deliberate lie and he repeated it twice more that same week.
+= 那是个蓄意的谎言，那一周他又重复了两遍。
+a deliberate lie = 蓄意的谎言
+② She walked across the room with deliberate steps and picked up the phone.
+= 她不慌不忙地走过房间，拿起了电话。
+deliberate steps = 从容不迫的脚步
+③ He deliberately left the last page blank so that they would have to ask.
+= 他故意把最后一页留白，好让他们不得不来问。
+deliberately = 故意地
+④ The jury deliberated for two days and asked three questions in writing.
+= 陪审团评议了两天，书面提了三个问题。
+deliberate on something = 就某事评议、斟酌
+⑤ After long deliberation they took the offer that had been on the table first.
+= 反复斟酌之后，他们接受了最先摆出来的那个方案。
+after long deliberation = 经过长时间斟酌
+⑥ A deliberative body works slowly by design, not by accident.
+= 评议性机构走得慢是设计使然，不是出了岔子。
+a deliberative body = 评议性机构
+构词：拉丁语 deliberare 权衡
+注意用法：形容词与动词拼写相同、读音不同，动词的词尾读作 -rate。
 
 die
 核心：底层是「停止活着」。往三个方向长：一是人和动物死；二是抽象的

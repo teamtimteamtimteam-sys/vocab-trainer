@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 6046 条，词典序 a → drop。义项 24172。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 19%（da- 226/229、de- 307/960）
+B 词表 6069 条，词典序 a → drop。义项 24243。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 20%（da- 226/229、de- 351/960）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-6046.txt   1046 条   compatible → drop
+  B-merged-5001-6069.txt   1069 条   compatible → drop
   （第三份满 2500 条时会自动切出第四份，merge-wordlist 会顺手删掉旧尾巴）
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
@@ -78,7 +78,12 @@ defiance。**第六批 24 条已写完**：defibrillator / deficiency / deficit 
 define / definite / definitive / deflate / deflect / deflower / defog /
 defoliant / deforest / deform / defrag / defraud / defray / defriend /
 defrock / defrost / deft / defunct / defuse / defy。
-**下一批从 degeneracy 起。**
+**第七批 23 条已写完**：degenerate / deglaze / degrade / degrease / degree /
+dehumanize / dehumidifier / dehydrate / deictic / deify / deign / deism /
+déjà vu / dejected / dekko / delay / delayering / delectable / delegate /
+delete / deleterious / deli / deliberate。**下一批从 delicacy 起。**
+  · audit-padding 报 deify ④ 的例句里只有 deities、没有词头的变形
+    （deif- 与 deit- 前四字母对不上），改写成两者同现的句子。
   · reference/inflections.txt 补了 defied → defy（清单里 defied 单列，
     按「变形不单独立条」的裁定并进原形）。
   · audit-ab 报 defy 缺 defy explanation —— 跟 defy description、defy belief
