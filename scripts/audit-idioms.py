@@ -185,6 +185,8 @@ CHECK = {
  'dial': ['dial a number'],
  'diamond': ['a rough diamond'],
  'dice': ['dice with death', 'no dice'],
+ 'difficult': ['find it difficult to'],
+ 'digest': ['digest information'],
  'difference': ['make a difference', 'tell the difference',
                 'a world of difference', 'split the difference',
                 'with a difference'],
