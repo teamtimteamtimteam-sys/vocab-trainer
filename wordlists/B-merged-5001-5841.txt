@@ -3017,11 +3017,11 @@ a congregant = 会众中的一员
 Congregationalism
 核心：公理宗：新教的一支，主张每个堂会自主治理，不受主教或总会
 管辖。这套自治精神对新英格兰的市镇自治影响很深。不可数。
-① Congregationalism gives each church its own say.
-= 公理宗让每个堂会自己作主。
+① Congregationalism gives each church its own say and no bishop to overrule it.
+= 公理宗让每个堂会自己作主，没有主教能推翻它。
 Congregationalism = 公理宗
-② Congregationalism shaped New England town meetings.
-= 公理宗塑造了新英格兰的市镇会议。
+② Congregationalism shaped New England town meetings more than any statute did.
+= 新英格兰的市镇会议，受公理宗的塑造胜过任何一部成文法。
 shape town meetings = 塑造市镇会议
 构词：congregation 会众 + -alism
 注意用法：核心主张是堂会自治，这一点是它跟别的宗派的分界。
@@ -3029,11 +3029,11 @@ shape town meetings = 塑造市镇会议
 Congregationalist
 核心：公理宗教徒；也作形容词说公理宗的。跟 Congregationalism 成对。
 可数。
-① Her family were Congregationalists.
-= 她家是公理宗信徒。
+① Her family were Congregationalists and walked four miles to chapel.
+= 她家是公理宗信徒，去礼拜堂要走四英里。
 a Congregationalist = 公理宗教徒
-② The Congregationalist chapel dates from 1780.
-= 那座公理宗礼拜堂建于一七八〇年。
+② The Congregationalist chapel dates from 1780 and seats ninety.
+= 那座公理宗礼拜堂建于一七八〇年，能坐九十人。
 a Congregationalist chapel = 公理宗礼拜堂
 构词：Congregationalism 换后缀 -ist
 注意用法：形容词与名词同形。
@@ -3469,11 +3469,11 @@ conquistador
 核心：十六世纪征服美洲的西班牙征服者：科尔特斯、皮萨罗
 那一批人。历史用词。复数写 conquistadors 也写
 conquistadores。可数。
-① The conquistadors landed in 1519.
-= 那批征服者一五一九年登陆。
+① The conquistadors landed in 1519 with sixteen horses.
+= 那批征服者一五一九年登陆，带了十六匹马。
 a conquistador = 西班牙征服者
-② Local guides led the conquistadors inland.
-= 当地向导把那批征服者带进了内陆。
+② Local guides led the conquistadors inland and were paid in beads.
+= 当地向导把那批征服者带进内陆，报酬是些珠子。
 lead the conquistadors = 给征服者带路
 构词：西班牙语 conquistador 征服者
 注意语域：历史用词。
@@ -5701,12 +5701,12 @@ an ethical conundrum = 伦理难题
 conurbation
 核心：连片市区：几个城镇长到一起、连成一大片的建成区，
 中间没有明显的乡野隔开。英式规划与地理用词。可数。
-① The conurbation stretches for thirty miles.
-= 那片连片市区绵延三十英里。
+① The conurbation stretches for thirty miles without a real gap.
+= 那片连片市区绵延三十英里，中间没有真正断开过。
 a conurbation = 连片市区
 a conurbation = 城镇连片区
-② Manchester sits inside a large conurbation.
-= 曼彻斯特处在一大片连片市区里。
+② Manchester sits inside a large conurbation and shares its transport with it.
+= 曼彻斯特处在一大片连片市区里，交通也跟它连成一体。
 inside a conurbation = 在连片市区之内
 构词：con- 共 + urbs 城
 注意语域：英式规划与地理用词。
@@ -5871,12 +5871,12 @@ convergent = 收敛的、趋同的
 conversant
 核心：熟悉的、通晓的：对某个题目摸得清，介词只用 with。
 正式词，多出现在简历与公文里。
-① She is conversant with the regulations.
-= 她对那些规定很熟。
+① She is conversant with the regulations and quotes them by number.
+= 她对那些规定很熟，能按条号直接引。
 conversant with = 通晓、熟悉
 be conversant with = 熟悉
-② He became conversant with local custom.
-= 他慢慢摸清了当地的规矩。
+② He became conversant with local custom after two winters there.
+= 在那儿过了两个冬天，他慢慢摸清了当地的规矩。
 become conversant with = 逐渐熟悉
 构词：拉丁语 conversari 常来往
 注意搭配：介词只用 with。
@@ -6545,11 +6545,11 @@ Copernican system
 核心：哥白尼体系：把太阳而不是地球放在中心的那套天体模型。由它
 派生出通用说法 a Copernican revolution，指认识上的根本颠倒 ——
 从「一切绕我转」变成「我在绕别的转」。
-① The Copernican system put the sun at the centre.
-= 哥白尼体系把太阳放在中心。
+① The Copernican system put the sun at the centre and kept the circles.
+= 哥白尼体系把太阳放在中心，圆形轨道却留着没动。
 the Copernican system = 哥白尼体系
-② He called it a Copernican revolution in economics.
-= 他把那称作经济学里的一次根本颠倒。
+② He called it a Copernican revolution in economics and meant it literally.
+= 他把那称作经济学里的一次根本颠倒，而且不是打比方。
 a Copernican revolution = 认识上的根本颠倒
 构词：天文学家 Copernicus 的姓加 -an
 注意用法：引申的那个说法比本义更常读到。
@@ -7067,11 +7067,11 @@ Corinthian
 核心：两支。一是建筑上的科林斯柱式：三种古典柱式里最华丽的一种，
 柱头雕成茛苕叶。二是旧式褒义：说人做事讲究风度、不计报酬，尤其在
 体育上，说 a Corinthian spirit 是业余而高尚的作风。
-① The portico has Corinthian columns.
-= 那道门廊用的是科林斯柱。
+① The portico has Corinthian columns carved with acanthus leaves.
+= 那道门廊用的是科林斯柱，柱头雕着茛苕叶。
 Corinthian columns = 科林斯柱
-② They played in a Corinthian spirit.
-= 他们打得很有那种业余而高尚的风度。
+② They played in a Corinthian spirit and refused the prize money.
+= 他们打得很有那种高尚风度，奖金也不要。
 a Corinthian spirit = 重风度不计报酬的作风
 构词：希腊城市科林斯的地名
 注意用法：第二支偏旧，多见于体育史与旧式褒扬。
@@ -7356,12 +7356,12 @@ cornice
 核心：檐口线脚：建筑上沿着墙顶或天花板边沿走的一道凸出
 装饰带，室内室外那两道都叫这个词。也指山脊上被风吹出来的
 悬雪檐。可数。
-① Plaster cornices run round the ceiling.
-= 石膏线脚沿着天花板转一圈。
+① Plaster cornices run round the ceiling and hide forty years of cracks.
+= 石膏线脚沿天花板转一圈，遮住了四十年的裂缝。
 a cornice = 檐口线脚
 a cornice = 檐口
-② A snow cornice hung over the ridge.
-= 山脊上挑着一道悬雪檐。
+② A snow cornice hung over the ridge and broke off under his weight.
+= 山脊上挑着一道悬雪檐，被他的体重压塌了。
 a snow cornice = 悬雪檐
 构词：意大利语 cornice 边框
 注意用法：室内室外那两道都叫这个词。
@@ -7370,11 +7370,11 @@ Cornish
 核心：康沃尔的、康沃尔人，也指康沃尔语 —— 那是一门凯尔特语，
 十八世纪一度断绝，二十世纪被人重新学起来，是复兴得最成功的
 死语言之一。可数。
-① Cornish died out and was revived.
-= 康沃尔语一度断绝，后来被复兴了。
+① Cornish died out and was revived from what was left in writing.
+= 康沃尔语一度断绝，是靠留下的文字重新学回来的。
 Cornish = 康沃尔语
-② A Cornish fishing village sits below the cliff.
-= 崖下有个康沃尔渔村。
+② A Cornish fishing village sits below the cliff and floods twice a year.
+= 崖下有个康沃尔渔村，一年淹两回。
 a Cornish fishing village = 康沃尔渔村
 构词：地名 Cornwall 的同源形式
 注意用法：那门语言属凯尔特语族，跟威尔士语最近。
@@ -7383,11 +7383,11 @@ Cornish pasty
 核心：康沃尔馅饼：半月形的酥皮包，馅是牛肉、土豆、瑞典芜菁与洋葱，
 边上捏出一道粗辫。矿工从前拿那道边当把手，吃完扔掉。这个名字受
 欧盟产地保护，只有在康沃尔按传统做的才能这么叫。可数。
-① He ate a Cornish pasty on the train.
-= 他在火车上吃了个康沃尔馅饼。
+① He ate a Cornish pasty on the train and wore most of the pastry.
+= 他在火车上吃康沃尔馅饼，酥皮渣掉了一身。
 a Cornish pasty = 康沃尔馅饼
-② A Cornish pasty is crimped along one side.
-= 康沃尔馅饼的边是从一侧捏起来的。
+② A Cornish pasty is crimped along one side and never across the top.
+= 康沃尔馅饼的边从一侧捏起来，绝不捏在顶上。
 be crimped along one side = 沿一侧捏出花边
 构词：Cornish 加 pasty 馅饼
 注意用法：名字受产地保护，别处做的不能这么叫。
@@ -8178,12 +8178,12 @@ cosmogony
 核心：宇宙起源论：讲宇宙如何生成的学说或神话。跟研究宇宙
 整体结构的 cosmology 分工不同：这个问「怎么开始的」。学术
 词，可数不可数都行。
-① Every culture has its cosmogony.
-= 每种文化都有自己的宇宙起源说。
+① Every culture has its cosmogony and most of them start with water.
+= 每种文化都有自己的宇宙起源说，多数从水讲起。
 a cosmogony = 宇宙起源论
 cosmogony = 宇宙起源论
-② The poem sets out a cosmogony.
-= 那首诗铺陈了一套宇宙起源说。
+② The poem sets out a cosmogony in the first forty lines.
+= 那首诗头四十行就铺陈了一套宇宙起源说。
 set out a cosmogony = 铺陈宇宙起源说
 构词：希腊语 kosmos 宇宙 + gonia 生成
 注意分工：这个问「怎么开始」，cosmology 问「整体是怎样的」。
@@ -8759,12 +8759,12 @@ a coulis = 稀果蔬酱汁
 coulomb
 核心：库仑：电荷量的国际单位，一安培电流一秒钟通过的电量。
 物理用词，可数。
-① Charge is measured in coulombs.
-= 电荷量以库仑计。
+① Charge is measured in coulombs, and a lightning bolt carries about fifteen.
+= 电荷量以库仑计，一道闪电大约带十五库仑。
 a coulomb = 库仑
 one coulomb = 一库仑
-② Coulomb's law describes the force.
-= 库仑定律描述那个力。
+② Coulomb's law describes the force between two charges.
+= 库仑定律描述两个电荷之间的力。
 Coulomb's law = 库仑定律
 构词：以法国物理学家库仑命名
 注意用法：作单位时小写，作人名时大写。
@@ -9080,12 +9080,12 @@ counterculture
 核心：反主流文化：跟主流价值对着来的那一套生活方式与主张，
 最常指六十年代那一拨。形容词 countercultural。可数不可数
 都行。
-① The counterculture rejected the suburbs.
-= 反主流文化那拨人不要郊区那套日子。
+① The counterculture rejected the suburbs and moved onto the land.
+= 反主流文化那拨人不要郊区那套日子，搬到乡下务农去了。
 the counterculture = 反主流文化
 a counterculture = 一种反主流文化
-② It became a countercultural symbol.
-= 那东西成了反主流文化的符号。
+② It became a countercultural symbol and was selling in department stores by 1972.
+= 那东西成了反主流文化的符号，到一九七二年百货公司里就有得卖了。
 countercultural = 反主流文化的
 构词：counter- 反 + culture 文化
 注意用法：最常指六十年代那一拨。
@@ -9115,12 +9115,12 @@ counterfeiting = 伪造、造假（尤指假币与假货）
 counterfoil
 核心：存根：票据或支票撕下来之后留在本子上的那一半，上面
 记着开出去的内容。英式说法，美式叫 stub。可数。
-① Keep the counterfoil for your records.
-= 存根留着备查。
+① Keep the counterfoil for your records and write the date on it.
+= 存根留着备查，上面把日期写好。
 a counterfoil = 存根
 a counterfoil = 票据存根
-② Tear along the perforation and keep the counterfoil.
-= 沿虚线撕开，存根留下。
+② Tear along the perforation and keep the counterfoil in the book.
+= 沿虚线撕开，存根留在本子上。
 tear along the perforation = 沿虚线撕开
 构词：counter- 相对 + foil 薄片
 注意英美差别：美式叫 stub。
@@ -9128,12 +9128,12 @@ tear along the perforation = 沿虚线撕开
 counterintuitive
 核心：违反直觉的：结论跟人凭感觉想的相反，但确实成立。
 副词 counterintuitively。
-① The result is counterintuitive.
-= 那个结果违反直觉。
+① The result is counterintuitive and has been replicated four times.
+= 那个结果违反直觉，却已经被重复验证了四次。
 counterintuitive = 违反直觉的
 be counterintuitive = 违反直觉
-② Counterintuitively, more choice frustrates people.
-= 反直觉的是，选择越多人越烦。
+② Counterintuitively, more choice frustrates people and slows them down.
+= 反直觉的是，选择越多人越烦，也越拿不定主意。
 counterintuitively = 反直觉地
 构词：counter- 反 + intuitive 直觉的
 注意用法：说的是「反直觉但成立」。
@@ -9854,11 +9854,11 @@ Covenanter
 核心：盟约派：十七世纪苏格兰长老会的一批人，签下盟约誓死抵制国王
 把主教制强加给苏格兰教会，为此被长期镇压，那段时期叫 the Killing
 Time。讲苏格兰宗教史的固定词。可数。
-① The Covenanters met in the open fields.
-= 盟约派信徒在野地里聚会。
+① The Covenanters met in the open fields with lookouts on the ridge.
+= 盟约派信徒在野地里聚会，山脊上放着望风的人。
 a Covenanter = 盟约派信徒
-② Covenanter graves are scattered across the hills.
-= 山间散布着盟约派的坟。
+② Covenanter graves are scattered across the hills, each with a flat stone.
+= 山间散布着盟约派的坟，每座都压着一块平石。
 Covenanter graves = 盟约派的坟墓
 构词：covenant 盟约加 -er
 注意用法：讲十七世纪苏格兰宗教史时才用，大写。
@@ -10253,11 +10253,11 @@ a coxswain = 舵手（全写）
 Cox's orange pippin
 核心：英国最有名的生吃苹果品种：个不大、皮带红晕、味浓带酸香，
 被认为比一般苹果风味复杂得多。口语常省成 a Cox。可数。
-① She picked a Cox's orange pippin from the tree.
-= 她从树上摘了个考克斯苹果。
+① She picked a Cox's orange pippin from the tree and ate it warm.
+= 她从树上摘了个考克斯苹果，趁着晒热就吃了。
 a Cox's orange pippin = 考克斯橙皮苹果
-② Cox's orange pippin does not travel well.
-= 那个品种不耐运。
+② Cox's orange pippin does not travel well and bruises in the box.
+= 考克斯苹果不耐运，装箱就磕出印子。
 not travel well = 不耐运输
 构词：培育者 Richard Cox 的姓加品种描述
 注意用法：口语省成 a Cox；跟做菜用的 Bramley 分工不同。
@@ -10995,12 +10995,12 @@ craven silence = 怯懦的沉默
 craw
 核心：嗉囊：鸟脖子上那个储食的膨大部分。今天几乎只活在
 习语 stick in one's craw 里，意思是让人咽不下这口气。可数。
-① The bird's craw was full of grit.
-= 那只鸟的嗉囊里全是砂粒。
+① The bird's craw was full of grit it had picked off the track.
+= 那只鸟的嗉囊里全是从路面上啄来的砂粒。
 a craw = 嗉囊
 craw = 嗉囊（几乎只用于那个习语）
-② That apology stuck in his craw.
-= 那声道歉他咽不下去。
+② That apology stuck in his craw for the rest of the year.
+= 那声道歉他一整年都咽不下去。
 stick in one's craw = 让人咽不下这口气
 构词：中古英语 crawe
 注意用法：几乎只活在 stick in one's craw 里。
@@ -11516,11 +11516,11 @@ credulity = 轻信
 Cree
 核心：克里人：加拿大分布最广的原住民族群，也指他们的语言。那门语言
 有一套自创的音节文字，至今在加拿大北部通行。单复数同形。
-① The Cree live across much of Canada.
-= 克里人分布在加拿大很大一片地方。
+① The Cree live across much of Canada and speak several dialects.
+= 克里人分布在加拿大很大一片地方，方言有好几种。
 the Cree = 克里人
-② Cree is written in a syllabic script.
-= 克里语用一套音节文字书写。
+② Cree is written in a syllabic script that fits on one page.
+= 克里语用一套音节文字书写，一页纸就写得下。
 Cree = 克里语
 构词：族名经法语转写进英语
 注意用法：单复数同形，不加 s。
@@ -11623,12 +11623,12 @@ crept = creep 的过去式与过去分词
 cremains
 核心：骨灰：火化之后留下的骨灰，美式殡葬业造的词，由
 cremated remains 缩合而来。行业外的人多说 ashes。只用复数。
-① The cremains were scattered at sea.
-= 骨灰撒在了海里。
+① The cremains were scattered at sea from the stern of a hired boat.
+= 骨灰是从一条租来的船的船尾撒进海里的。
 cremains = 骨灰
 cremains = 骨灰（殡葬业用词）
-② The funeral home returns the cremains in an urn.
-= 殡仪馆用骨灰盒把骨灰交还。
+② The funeral home returns the cremains in an urn within a fortnight.
+= 殡仪馆两周内用骨灰盒把骨灰交还。
 return the cremains = 交还骨灰
 构词：cremated remains 的缩合
 注意语域：美式殡葬业内部用词。
