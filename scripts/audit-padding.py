@@ -409,7 +409,7 @@ def main(argv):
     for h, ex, eq in meta[:60]:
         print('      %-20s %-44s %s' % (h, ex[:44], eq[:30]))
     if len(meta) > 60: print('      ……还有 %d 条' % (len(meta) - 60))
-    print('  【元评论例句】整句在谈论这个词本身、不是在用它：%d 条 (%.1f%%)  ← 只报告，不计退出码'
+    print('  【元评论例句】整句在谈论这个词本身、不是在用它：%d 条 (%.1f%%)  ← 计入退出码'
           % (len(talk), 100.0 * len(talk) / max(tot, 1)))
     for h, ex, why in talk[:80]:
         print('      %-18s %-52s %s' % (h, ex[:52], why))

@@ -241,7 +241,14 @@ SPELLING_ROOT = {'cosiness': 'cosy', 'coziness': 'cozy',
                  # dekaliter / dekameter 的前四个字母是 deka，跟词条
                  # decalitre 的 deca 对不上，写在 decalitre 条里也会一直报缺。
                  # 同 datable → date：改的是尺子，不是把它并到错的宿主去。
-                 'dekaliter': 'decalitre', 'dekameter': 'decalitre'}
+                 'dekaliter': 'decalitre', 'dekameter': 'decalitre',
+                 # 同一族但前四字母对不上的三组（2026-09-08 补）：
+                 # 英式旧拼法 defaecate/defaecation 的前四字母是 defa，
+                 # 词条 defecate 是 defe；deity 之于 deify 是 deit 对 deif；
+                 # deixis 之于 deictic 是 deix 对 deic。三组都已在对应词条里
+                 # 配了例句与等式，不该再报缺。
+                 'defaecate': 'defecate', 'defaecation': 'defecate',
+                 'deity': 'deify', 'deixis': 'deictic'}
 
 def _load_inflections():
     """动词变形 → 原形。用户 2026-09-05 裁定：变形不单独立条，并进原形，

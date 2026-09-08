@@ -167,6 +167,7 @@ CHECK = {
  'denial': ['in denial'],
  'depend': ['depend on', 'it depends', 'depending on'],
  'deny': ['there is no denying', 'deny yourself'],
+ 'describe': ['describe somebody as'],
  'deep': ['in deep water', 'go off the deep end', 'deep down', 'in too deep',
           'take a deep breath', 'still waters run deep', 'deep-seated'],
  'depth': ['in depth', 'out of your depth', 'plumb the depths'],
