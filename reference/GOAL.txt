@@ -10,11 +10,13 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 5860 条，词典序 a → drop。义项 23524。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 6%（da- 89/229）
+B 词表 5870 条，词典序 a → drop。义项 23559。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 8%（da- 110/229）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
-交付文件 B-merged-0001-5000.txt + B-merged-5001-5860.txt。
+交付文件 B-merged-0001-5000.txt + B-merged-5001-5870.txt。
+（wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
+留下的残骸，只有最新那份是有效交付 —— 要不要删等用户裁定。）
 
 **全表回填例句已于 2026-09-08 做完**（2026-09-05 开工，共 170 批）：
   待回填 0；全表例句均 12.4 词 / 额外实词 5.7，达标率 100%（回填前 5.5 / 2.2）。
@@ -24,7 +26,13 @@ B 词表 5860 条，词典序 a → drop。义项 23524。
   从此写出「the word X」「X means Y」那类句子会直接红，不再只是报告。
 
 ═══ 当前主线：按字母序写 d 段 ═══
-写到 dancing，**下一条从 dandelion 起**（coverage 的待新写清单第一个）。
+写到 Danish，**下一条从 dank 起**（coverage 的待新写清单第一个）。
+2026-09-08 这批十条：dandelion / dandle / dandruff / dandy / Dane / dang /
+danger / dangerous / dangle / Danish，另按派生并入五条（dandified 进 dandy，
+Danegeld 与 Danelaw 进 Dane，dangly 进 dangle，dangerously 进 dangerous），
+多词条目并入五条（dandelion coffee、Danish blue、Danish pastry、
+danger money、danger zone）。九道闸门全绿、判重四通道 0 对，
+例句均 15.5 词 / 额外实词 7.6。audit-idioms 的 CHECK 顺手补了 danger 一行。
 动笔前那四件事已经做完：大写词头进了 proper-nouns-keep（D 段 63 条）、
 d 段习语进了 audit-idioms 的 CHECK（27 个大词，dam/damage/damn 是新加的）、
 d 段动词变形进了 reference/inflections.txt。
