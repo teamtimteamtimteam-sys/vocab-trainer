@@ -134,6 +134,8 @@ CHECK = {
  'dash': ['make a dash for', 'cut a dash', 'dash off', "dash somebody's hopes"],
  'date': ['out of date', 'up to date', 'to date', 'date back to', 'date from',
           'a blind date'],
+ 'dawn': ['dawn on', 'the dawn of', 'from dawn to dusk'],
+ 'daylight': ['in broad daylight', 'daylight robbery', 'the living daylights'],
  'dead': ['a dead end', 'over my dead body', 'a dead loss', 'drop dead',
           "wouldn't be seen dead", 'dead to the world', 'in the dead of night',
           'a dead ringer for', 'dead in the water', 'a dead heat'],

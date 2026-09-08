@@ -29,7 +29,14 @@ def fix(path):
     return changed
 total = 0
 paths = []
-for a in sys.argv[1:]: paths += glob.glob(a)
+# 不给参数时默认整份词表 —— 2026-09-08 踩过：GOAL.txt 记的四步里写的就是
+# 光秃秃一句 `python3 scripts/renumber.py`，于是 paths 是空的，脚本一路
+# 打印「共重排 0 处」，看着像通过，实际一个文件都没读。真有重号时
+# （daughter 那次插了一条义项，变成 ①②③③④⑤）它照样报 0，
+# 全靠 check-wordlist 的「编号不连续」把它拦下来。
+# 一直报 0 的脚本等于没有脚本，所以把默认路径补上。
+args = sys.argv[1:] or ['wordlists/A-*.txt', 'wordlists/B-*.txt']
+for a in args: paths += glob.glob(a)
 for p in sorted(paths):
     c = fix(p)
     total += c

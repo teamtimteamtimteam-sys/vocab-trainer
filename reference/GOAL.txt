@@ -10,11 +10,11 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 5890 条，词典序 a → drop。义项 23625。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 11%（da- 141/229）
+B 词表 5910 条，词典序 a → drop。义项 23695。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 14%（da- 176/229）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
-交付文件 B-merged-0001-5000.txt + B-merged-5001-5890.txt。
+交付文件 B-merged-0001-5000.txt + B-merged-5001-5910.txt。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
 留下的残骸，只有最新那份是有效交付 —— 要不要删等用户裁定。）
 
@@ -26,8 +26,9 @@ B 词表 5890 条，词典序 a → drop。义项 23625。
   从此写出「the word X」「X means Y」那类句子会直接红，不再只是报告。
 
 ═══ 当前主线：按字母序写 d 段 ═══
-写到 database，**下一条从 datable 起**（coverage 的待新写清单第一个；
-datable 与 dateable 的词根是 date，留到 date 那一批一起并）。
+**da- 段的待新写已经清零** —— 剩下的 53 条全是待并入（50 条）与待推迟（3 条）。
+下一步二选一：要么先做 da- 的并入（dance / dark / date / day 四族占了大头，
+按意思归组、一组一个例句、底下并列几条等式），要么直接开 db- 之后的新词。
 2026-09-08 这批十条：dandelion / dandle / dandruff / dandy / Dane / dang /
 danger / dangerous / dangle / Danish，另按派生并入五条（dandified 进 dandy，
 Danegeld 与 Danelaw 进 Dane，dangly 进 dangle，dangerously 进 dangerous），
@@ -45,6 +46,23 @@ dashing / dastardly / data / database，并入三条（Darwinism 进 Darwinian�
 databank 与 datacomms 进 data）。闸门全绿、判重 0 对，
 例句均 15.3 词 / 额外实词 7.4。audit-idioms 的 CHECK 补了 dash 一行
 （make a dash for / cut a dash / dash off / dash somebody's hopes）。
+第四批二十条（用户 2026-09-08 交代把每批条数提上去）：date / dative /
+datum / daub / daube / daughter / daunt / daunting / dauphin / dawdle /
+dawn / daybed / daybreak / daydream / daylight / daylily / daypack /
+daywear / daze / dazzle，并入十条（dated、dateable、datebook、date back to、
+date from 进 date；daughterboard、daughter-in-law 进 daughter；dauntless
+进 daunt；dauntingly 进 daunting；daylights、daylight saving time 进
+daylight；dazed 进 daze；dazzling、dazzlingly 进 dazzle）。
+闸门全绿、判重 0 对，例句均 14.1 词 / 额外实词 6.5。
+audit-idioms 的 CHECK 又补了 dawn 与 daylight 两行。
+**这一批逮到两个尺子的问题，都已修：**
+  · audit-ab 报 daughter 缺 daughter of —— 这条不是脚手架，of 的写法
+    在说家世时是正经用法，补了一个义项，不是把闸门调松。
+  · **renumber.py 不给参数时什么都不做**，却照样打印「共重排 0 处」。
+    GOAL.txt 记的四步里写的就是光秃秃一句 renumber.py，所以从回填期起
+    这一步一直是空转。daughter 插义项后变成 ①②③③④⑤，它报 0，
+    是 check-wordlist 的「编号不连续」把它拦下来的。已给脚本补上默认
+    路径（wordlists/A-*.txt 与 B-*.txt），现在不给参数也真的会跑。
 动笔前那四件事已经做完：大写词头进了 proper-nouns-keep（D 段 63 条）、
 d 段习语进了 audit-idioms 的 CHECK（27 个大词，dam/damage/damn 是新加的）、
 d 段动词变形进了 reference/inflections.txt。
