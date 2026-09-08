@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 6185 条，词典序 a → drop。义项 24592。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 27%（da- 226/229、de- 590/959）
+B 词表 6252 条，词典序 a → drop。义项 24791。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 32%（da- 226/229、de- 737/959）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-6185.txt   1185 条   compatible → drop
+  B-merged-5001-6252.txt   1252 条   compatible → drop
   （第三份满 2500 条时会自动切出第四份，merge-wordlist 会顺手删掉旧尾巴）
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
@@ -93,7 +93,18 @@ demonstrable / demonstrate / demoralize / demote / demos。
   第十批 demotic → denouement（23 条）
   第十一批 denounce → depopulate（23 条）
   第十二批 deport → derelict（23 条）
-**下一批从 deride 起。**
+**第十三、十四、十五批已写完**（一次输出三批，每批仍单独跑十道闸门与判重）：
+  第十三批 de facto → deselect（23 条）
+  第十四批 desensitize → despondent（23 条）
+  第十五批 despot → deteriorate（21 条）
+**下一批从 determine 起**（determine 一族大，可能少写几条）。
+  · coverage 的 SPELLING_ROOT 又补四条：defaecate / defaecation → defecate、
+    deity → deify、deixis → deictic（前四字母对不上，同 datable → date）。
+  · **audit-padding 里一句注释过期了，已改**：元评论那栏还印着「只报告，
+    不计退出码」，可它 09-08 就并进了退出码 —— 它真拦下 derivation 一条时，
+    提示语却说自己不拦，差点让人去查别的闸门。
+  · 三批里 audit-swallowed 拦下 de-ice、destructively、detective story，
+    audit-ab 拦下 sit at a desk —— 都补成了带例句与等式的真义项。
   · 三批里闸门各拦一次：dentist 缺 see a dentist（audit-ab）、
     deprecation 只在核心块里出现（audit-swallowed）—— 各补一个真义项。
   · depend 与 depress 两族按最容易混的地方逐条配了例句：

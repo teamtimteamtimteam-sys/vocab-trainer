@@ -172,6 +172,7 @@ CHECK = {
  'design': ['by design', 'have designs on'],
  'desire': ['leave a lot to be desired'],
  'despair': ['in despair'],
+ 'detail': ['in detail', 'go into detail'],
  'deep': ['in deep water', 'go off the deep end', 'deep down', 'in too deep',
           'take a deep breath', 'still waters run deep', 'deep-seated'],
  'depth': ['in depth', 'out of your depth', 'plumb the depths'],
