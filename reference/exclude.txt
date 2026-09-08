@@ -418,3 +418,4 @@ delicto      # in flagrante delicto 的碎片，不是独立词头
 # --- 窄专业：诗律术语（同 a 段的 accelerando / abscissa 那条）---
 decasyllable   # 十音节诗行，诗律术语，一般阅读里遇不到
 decasyllabic   # 同上，形容词
+demisemiquaver # 三十二分音符，音乐记谱术语，同 accelerando 那条

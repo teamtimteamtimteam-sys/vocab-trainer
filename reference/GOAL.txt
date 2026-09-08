@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 6092 条，词典序 a → drop。义项 24319。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 22%（da- 226/229、de- 400/960）
+B 词表 6116 条，词典序 a → drop。义项 24394。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 24%（da- 226/229、de- 452/959）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-6092.txt   1092 条   compatible → drop
+  B-merged-5001-6116.txt   1116 条   compatible → drop
   （第三份满 2500 条时会自动切出第四份，merge-wordlist 会顺手删掉旧尾巴）
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
@@ -84,7 +84,17 @@ déjà vu / dejected / dekko / delay / delayering / delectable / delegate /
 delete / deleterious / deli / deliberate。**第八批 23 条已写完**：delicacy / delicate / delicious / delight / delimit /
 delineate / delinquent / deliquesce / delirious / deliver / dell / delouse /
 Delphic / delphinium / delta / delude / deluge / deluxe / delve / demagogue /
-demand / demarcate / demean。**下一批从 demeanour 起。**
+demand / demarcate / demean。**第九批 24 条已写完**：demeanour / demented / dementia / demerge / demerit /
+demesne / demigod / demijohn / demilitarize / demineralize / demise / demist /
+demiurge / demo / demob / democracy / demographic / demolish / demon /
+demonstrable / demonstrate / demoralize / demote / demos。
+**下一批从 demotic 起。**
+  · audit-swallowed 又逮到两条：democratic 只在 democracy 的核心块里被提到
+    （补了一个义项）；**Demos 被 democracy 的构词行吞了** —— 那行写着
+    「希腊语 demos 民众」，而 Demos 本身是清单里的词头。给它单立了词条。
+  · 清单又剔 1 条：demisemiquaver（三十二分音符，记谱术语，同 accelerando）。
+  · dementia 与 demented 都按今天的得体说法标了语域：说患者用
+    a person with dementia，不用 sufferer、victim，也不用 the demented。
   · audit-examples 拦下 delicious 与 delirious 两条（额外实词 3.7 与 3.8，
     差一点点到 4）—— 各改厚两句例句，不是去调低下限。
   · demean 条里本想写「别跟 demeanour 混」，临出手改掉了：demeanour 自己
