@@ -128,6 +128,7 @@ CHECK = {
  'dam': ['dam up'],
  'damage': ['damage limitation', "what's the damage"],
  'danger': ['in danger of', 'out of danger', 'a danger to', 'danger money'],
+ 'dare': ['how dare you', "don't you dare", 'I dare say'],
  'dark': ['in the dark', 'a shot in the dark', 'after dark', 'a dark horse',
           'the Dark Ages', 'a dark side'],
  'date': ['out of date', 'up to date', 'to date', 'date back to', 'date from',
