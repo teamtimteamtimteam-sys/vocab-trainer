@@ -55,6 +55,10 @@ deathless 进 death；debasement 进 debase；debater、debating 进 debate；
 debauchery 进 debauched；debility、debilitating 进 debilitate；debtor 进 debt）。
 audit-ab 报 debate 缺 under debate —— 查过是正经用法（同 under discussion），
 补了一个义项。de- 段 26 → 69 条。**下一批从 debug 起。**
+**2026-09-08 加了第十道闸门 check-merged.py**（用户要求：每份 2500 条的
+交付文档都要按字母序、不跳条）。它查份内有序、份间接得上、文件名编号连续、
+与分批文件逐条一致、每条正文一字不差，已进 gates.sh。
+加完当场验过：人为打乱一处顺序、删一条、截断一条正文，三处全被报出来。
 还没并的一条要记着：**Deepavali 被 coverage 挂在 deep 名下是误判**
 （排灯节跟「深」无关），轮到它时要单列，同 Dalek / cultivable 那一类。
 2026-09-08 这批十条：dandelion / dandle / dandruff / dandy / Dane / dang /

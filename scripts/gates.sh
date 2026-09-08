@@ -1,5 +1,7 @@
 #!/bin/bash
-# 每批回填/新写之后要跑的九道闸门 —— 一道一道跑，各记各的退出码。
+# 每批回填/新写之后要跑的十道闸门 —— 一道一道跑，各记各的退出码。
+# 第十道 check-merged 是 2026-09-08 加的：交付用的合并文件必须跟分批文件
+# 一字不差、整份按词典序（用户当天的要求：每份 2500 条都要有序、不漏条）。
 #
 # 为什么要有这个脚本：2026-09-06 之前是手敲九条命令，串成
 # `audit-examples && audit-padding; echo $?` 的时候前者失败就短路，
@@ -32,7 +34,7 @@ run() {                       # run <名字> <命令...>
   fi
   rm -f /tmp/gate.$$
 }
-echo "九道闸门（段：$segs）"
+echo "十道闸门（段：$segs）"
 run check-wordlist  python3 scripts/check-wordlist.py 'wordlists/A-*.txt' 'wordlists/B-*.txt'
 for seg in ${segs//,/ }; do
   run "coverage $seg"     python3 scripts/coverage.py "$seg"
@@ -48,5 +50,6 @@ for seg in ${segs//,/ }; do
   run "audit-prefix $seg" python3 scripts/audit-prefix.py "$seg"
 done
 run audit-examples  python3 scripts/audit-examples.py "$@"
+run check-merged    python3 scripts/check-merged.py B
 if [ $fail -eq 0 ]; then echo "全部通过"; else echo "有闸门没过 —— 别提交"; fi
 exit $fail
