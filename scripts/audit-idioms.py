@@ -184,6 +184,7 @@ CHECK = {
  'diagnose': ['be diagnosed with'],
  'dial': ['dial a number'],
  'diamond': ['a rough diamond'],
+ 'dice': ['dice with death', 'no dice'],
  'difference': ['make a difference', 'tell the difference',
                 'a world of difference', 'split the difference',
                 'with a difference'],

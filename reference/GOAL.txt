@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 6286 条，词典序 a → drop。义项 24981。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 41%（da- 226/229、de- 932/959）
+B 词表 6332 条，词典序 a → drop。义项 25102。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 44%（da- 226/229、de- 932/959、di- 98/859）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-6286.txt   1286 条   compatible → drop
+  B-merged-5001-6332.txt   1332 条   compatible → drop
   （第三份满 2500 条时会自动切出第四份，merge-wordlist 会顺手删掉旧尾巴）
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
@@ -103,7 +103,17 @@ demonstrable / demonstrate / demoralize / demote / demos。
 de- 段 818/959（85%），**剩下的 141 条里 114 条是待并入**（dead / death /
 deal / deep / design / desk / detail 等词根条各带一串复合词），其余是待推迟。
 **de- 的并入 pass 已做完**：114 条按意思归组写进宿主词条，共 67 个义项。
-de- 段 932/959（97%），只剩 27 条待推迟。**下一步：di- 段**（清单 867 条）。
+de- 段 932/959（97%），只剩 27 条待推迟。**di- 段已开工**（清单 867 → 859）。动笔前四件事做完：大写词头九条早在
+proper-nouns-keep 里；CHECK 补了 diagnose / dial / diamond / dice；
+动词变形只有 dug → dig（本来就有）；清单剔 8 条（diapason、diatonic、
+diminuendo、divertimento、diglossia、diglossic、ditransitive、dioptrics，
+照 accelerando / acrolect 的先例）。
+已写两批：diabetes → diarrhoea（23 条）、diaspora → diehard（23 条）。
+**下一批从 diesel 起。**
+  · check-wordlist 拦下 diaeresis 一条：我把 coöperate 直接写进了中文译文。
+  · audit-swallowed 这两批共拦下七条只在核心块或注意行里出现的词。
+  · 有一条闸门放行、我自己改掉的：diamond in the rough 那句本来写成
+    「美国作者管这种人叫……」，是元评论式的句子，改成了真实用法。
   · **两个宿主又是 coverage 猜错的，没照着办**：它把 determine 一族十个词
     （determination、determined、determiner、determinism…）全挂在 deter 名下，
     可 determine 是高频大词，不能塞进「吓阻」那一条 —— 已单立词条，13 个义项。
