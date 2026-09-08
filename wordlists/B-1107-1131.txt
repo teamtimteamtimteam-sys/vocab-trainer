@@ -1,0 +1,491 @@
+anomalous
+核心：正式用语，指"反常的、不符合规律的"。
+科研和数据分析里常用。
+① The reading is anomalous and the same probe gave it three times.
+= 那个读数异常，而且是同一个探头给出的，给了三次。
+anomalous reading = 异常读数
+② An anomalous result appeared in the batch that had been left overnight.
+= 过夜放着的那批样品里出现了一个反常结果。
+anomalous result = 反常结果
+③ Her position is anomalous and no one has drawn the organisation chart.
+= 她的处境很特殊，也没人画过那张组织结构图。
+词族：
+anomaly = 反常现象
+近义对照：
+anomalous = 反常的（学术）
+abnormal = 异常的（医学、通用）
+atypical = 非典型的
+④ The reading was anomalously high on the one day nobody was watching.
+= 偏偏在没人盯着的那一天，读数高得反常。
+anomalously = 反常地
+
+anomaly
+核心：指"反常的现象、不符合规律的个例"。学术和技术语境高频，
+比 exception 更强调"和预期不符、需要解释"。
+① The data shows an anomaly that survives every attempt to explain it away.
+= 数据里有个异常值，怎么解释都解释不掉。
+② It's a statistical anomaly and the sample was eleven people.
+= 那是个统计上的异常，样本一共十一个人。
+statistical anomaly = 统计异常
+③ Such anomalies need explaining before anyone builds a theory on them.
+= 有人拿这类反常现象立论之前，得先把它们解释清楚。
+④ He is an anomaly in the field and has never held a formal post.
+= 他在这个领域里是个异数，从没担任过正式职务。
+注意复数：
+anomaly → anomalies
+词族：
+anomalous = 反常的
+近义对照：
+anomaly 反常（不符规律）
+exception 例外（规则之外）
+irregularity 不规则（不合常规）
+
+anomia
+核心：神经科名词，指"命名性失语"——东西认得、用途也说得出，
+就是叫不上名字，话到嘴边说不出来。中风和阿尔茨海默病里常见，
+是失语症的一种。
+① Anomia makes naming objects hard, so patients describe what a thing does instead.
+= 命名性失语让人说不出物体的名字，于是病人改说那东西是干什么的。
+② He has anomia after the stroke and calls a watch the thing that tells you when.
+= 中风之后他患上了命名性失语，管手表叫「告诉你什么时候的那个东西」。
+③ Anomia is tested by picture naming, with the pictures graded from common to rare.
+= 命名性失语靠看图命名来测，图片按常见到冷僻分级。
+picture naming = 看图命名
+注意语域：
+神经病学与言语治疗术语。
+
+anomie
+核心：社会学名词，指"失范"——社会的共同规范松动瓦解，个人失去
+方向感，随之而来的是疏离和无所适从。涂尔干用它解释自杀率的
+变化。也拼作 anomy。
+① Rapid change bred anomie in towns where three generations had done the same work.
+= 在三代人做着同一种活计的镇子上，剧变催生了失范。
+breed anomie = 滋生失范
+② Durkheim linked anomie to suicide and built a whole discipline on the connection.
+= 涂尔干把失范与自杀联系起来，并在这个联系上建起了一整门学科。
+③ The novel captures postwar anomie without once naming the war it follows.
+= 那部小说写出了战后的失范感，却一次也没点出它所跟随的那场战争。
+postwar anomie = 战后的失范
+注意语域：
+社会学术语。
+注意别混：
+anomie = 失范（社会规范瓦解）
+anomia = 命名性失语（说不出物体名称）
+
+anonymity
+核心：指"匿名"这种状态，不可数。
+常见搭配 preserve / protect / request anonymity。
+① He requested anonymity and the paper granted it after checking his account twice.
+= 他要求匿名，报社核了两遍他的说法之后同意了。
+request anonymity = 要求匿名
+② The source spoke on condition of anonymity because the contract forbade saying anything at all.
+= 消息人士要求匿名后才开口，因为合同禁止他透露任何事。
+on condition of anonymity = 以匿名为条件
+③ Online anonymity has downsides, though the people it protects rarely get counted.
+= 网络匿名有其弊端，只是它保护的那些人很少被算进去。
+online anonymity = 网络匿名
+词族：
+anonymous = 匿名的
+anonymously = 匿名地
+
+anonymous
+核心：指"匿名的、不具名的"，可以说人、信件、捐赠、举报。
+也指"没有特色的、千篇一律的"（an anonymous building）。
+① The donor wished to remain anonymous and gave enough to build a wing.
+= 捐赠者希望保持匿名，捐的钱够盖一整栋侧楼。
+remain anonymous = 保持匿名
+② She received an anonymous letter that named three people she had never met.
+= 她收到一封匿名信，里面点了三个她从没见过的人的名字。
+anonymous letter = 匿名信
+③ It's an anonymous tip-off and the police have acted on far less.
+= 这是条匿名举报，警方凭更少的线索都行动过。
+anonymous tip-off = 匿名举报
+④ The suburb looks anonymous and every street is named after a poet.
+= 这片郊区毫无特色，每条街却都以诗人命名。
+词族：
+anonymity = 匿名状态
+anonymously = 匿名地
+注意发音：/əˈnɒnɪməs/
+⑤ Anonymous FTP lets anyone download files without so much as a name.
+= 匿名文件传输让任何人不用留名就能下载文件。
+anonymous FTP = 匿名文件传输
+⑥ They anonymize the data before analysis and often do it badly.
+= 他们在分析前把数据匿名化，做得常常很糟。
+anonymize = 匿名化处理
+⑦ Anonymization is required by the policy and audited by nobody.
+= 政策要求做匿名化处理，却没人审计。
+anonymization = 匿名化
+
+anorak
+核心：两条线：带风帽的"防风外套"（英式），
+和英式俚语里的"过分痴迷冷门爱好的书呆子"。
+① He wore a waterproof anorak that had kept him dry through two Scottish winters.
+= 他穿着一件防水风衣，靠它熬过了两个苏格兰的冬天。
+waterproof anorak = 防水连帽外套
+② She bought an anorak for hiking and wore it to the supermarket all year instead.
+= 她买了件登山外套，结果一整年都穿着它去超市。
+③ He's a train anorak and can tell you which locomotive pulled which service in 1974.
+= 他是个铁道迷，一九七四年哪台机车牵引哪趟车他都说得出来。
+英式俚语，略带取笑
+词源：因纽特语
+近义对照：
+anorak = 连帽防风衣（英式）
+parka = 派克大衣（更厚）
+windbreaker = 风衣（美式）
+
+anorexia
+核心：医学词，全称 anorexia nervosa（神经性厌食症），
+一种进食障碍。不可数。
+① She was treated for anorexia over four years and counts the last one as the hard one.
+= 她治了四年厌食症，说最后一年才是难的那一年。
+treated for anorexia = 因厌食症就诊
+② Anorexia is a serious illness with the highest death rate of any psychiatric disorder.
+= 厌食症是种严重疾病，死亡率在所有精神疾病里最高。
+③ Anorexia affects both sexes, though men are diagnosed later and less often.
+= 厌食症男女都会得，只是男性确诊得更晚，也更少。
+全称：anorexia nervosa
+词族：
+anorexic = 厌食症的、厌食症患者
+相关词：
+bulimia = 贪食症
+eating disorder = 进食障碍
+
+anorexic
+核心：既是形容词"患厌食症的"，也是名词"厌食症患者"。
+日常里被滥用来形容"太瘦"，这种用法不恰当。
+① She first called herself an anorexic in a group where nobody flinched at the word.
+= 她第一次自称厌食症患者，是在一个没人听到这个词会僵一下的小组里。
+② Anorexic patients need support long after their weight has been restored.
+= 厌食症患者在体重恢复很久之后仍然需要支持。
+③ The model looked anorexic, a word the press used without any diagnosis behind it.
+= 那位模特瘦得像有厌食症，而媒体用这个词时背后并没有任何诊断。
+这种用法不严谨，宜避免
+词族：
+anorexia = 厌食症
+注意语用：把"很瘦"说成 anorexic
+既不准确也不礼貌。
+
+another
+核心：两层："另一个（同类的）"和"再一个"。只跟单数可数名词，
+不说 another books。要说"另外几个"得用 other 或 another + 数词
+加复数（another two days）。
+① Would you like another cup, or shall I put the pot away?
+= 再来一杯吗，还是我把壶收了？
+这里：
+another = 再一个
+② That's another matter entirely, and we should deal with it separately.
+= 那完全是另一回事，应该分开处理。
+这里：
+another = 另一个
+③ I'll stay another two days if the weather holds and the road reopens.
+= 天气不变、路重开的话，我再待两天。
+another + 数词 + 复数 = 再…个
+④ One after another, they left the meeting without saying where they were going.
+= 他们一个接一个离开会场，谁也没说去哪儿。
+one after another = 一个接一个
+⑤ They help one another with the harvest and have done so for generations.
+= 他们互相帮着收割，几代人都是这样。
+one another = 彼此
+注意区别：
+another 三者以上中的另一个
+the other 两者中的另一个
+⑥ The bill goes to another place before it can receive royal assent.
+= 那项法案要送往上议院，之后才能获得御准。
+another place = 另一院（议会用语，指对方那一院）
+
+answer
+核心：底层是"回应"，回应什么就分出哪一支。回应问题是"回答"，
+回应门铃电话是"应门、接电话"，回应难题是"解决办法"，回应指控
+是"辩解"。语法上有个硬点：answer 直接接宾语，不加 to——
+说 answer the question 不说 answer to it；answer to 是另一回事，
+意思是"对某人负责"。
+① Answer the question that was asked, not the one you would rather answer.
+= 回答问的那个问题，别答你更想答的那个。
+及物，中间不加介词。
+② She didn't answer my letter and I found out why about a year later.
+= 她没回我的信，大约一年后我才知道为什么。
+信也是一种问，回信就是回应。
+③ Please answer the phone; it has been ringing since I came in.
+= 请接一下电话，我进门起它就一直在响。
+answer the phone = 接电话
+answer the door = 应门
+铃响是叫你，接起来就是回应。
+④ There's no easy answer and everybody in the room has one anyway.
+= 这没有简单的答案，可屋里人人都有一个。
+难题也在等回应，答案就成了办法。
+answer = 解决之道
+⑤ In answer to your letter, we agree to everything except the last clause.
+= 兹复来函，除最后一条外我们全部同意。
+in answer to = 兹复、作为对某事的答复
+⑥ He answers to the name of Sam and to about four others.
+= 他叫萨姆，另外还应四五个名字。
+answer to the name of = 名叫（也用于宠物）
+⑦ He answers to the director and to nobody else in the building.
+= 他只对总监负责，这栋楼里别人都管不着他。
+answer to = 对某人负责
+这里的 to 一出现，意思就从"回答"转成"负责"。
+⑧ The man answers the description in every detail but the height.
+= 那人跟描述处处相符，只有身高对不上。
+answer the description = 与描述相符
+回应得上，就是对得上。
+⑨ You'll have to answer for this in front of people who were not here.
+= 你得向不在场的人交代这件事。
+answer for = 为某事承担后果
+⑩ Don't answer back; just do it and we will argue about it later.
+= 别顶嘴，先做，回头再吵。
+answer back = 顶嘴
+回应过了头就成了顶撞。
+⑪ Leave a message on the answerphone and I will call you tonight.
+= 在电话答录机上留个言，我今晚给你回。
+answerphone = 电话答录机（英式）
+注意地域：美式说 answering machine。
+⑫ Officials are answerable to parliament and in practice to almost nobody.
+= 官员对议会负责，实际上几乎不对任何人负责。
+answerable = 需要交代的、负有责任的
+
+answerable
+核心：指"须对某人负责的"，介词用 to（对谁）和 for（对什么）。
+和 accountable 基本同义。
+① He is answerable to the board for every decision that costs more than a thousand pounds.
+= 凡是花费超过一千英镑的决定，他都要向董事会交代。
+answerable to = 向…负责
+② She is answerable for the funds and signs every cheque the charity issues.
+= 她要为那笔资金负责，慈善机构开出的每张支票都由她签字。
+answerable for = 对…负有责任
+③ As sole owner he was answerable to nobody, which suited him and ruined the business.
+= 作为独资老板他不必对任何人负责，这合他的意，也毁了那门生意。
+词族：
+answer = 回答；负责
+近义对照：
+answerable = 须负责的（英式常用）
+accountable = 须问责的（通用）
+responsible = 有责任的（通用）
+
+answering machine
+核心：接电话的机器——没人接时替你放一段录音，再把对方的留言录下来。
+英式常说 answerphone，如今多被运营商的语音信箱取代。
+① Leave a message on the answering machine and he will call back within the hour.
+= 在电话答录机上留言，他一小时内会回电。
+leave a message = 留言
+② The answering machine was full, which was the first sign that nobody had been home for weeks.
+= 答录机存满了，这是家里几周没人的头一个迹象。
+③ Her answering machine picked up after four rings, and hearing her voice was worse than silence.
+= 响了四声后她的答录机接了起来，听见她的声音比一片寂静更难受。
+pick up = 接起电话
+注意地域：
+美式说 answering machine，英式常说 answerphone。
+近义对照：
+answering machine = 电话答录机（自家的设备）
+voicemail = 语音信箱（运营商提供）
+
+ant
+核心：指蚂蚁，社会性昆虫。构词能力强：anthill、
+ant colony。习语 have ants in one's pants 指坐立不安。
+① Ants marched in a line across the sill and into the sugar.
+= 蚂蚁排成一列爬过窗台，钻进了糖罐。
+② The anthill is huge and goes down further than it stands up.
+= 那个蚁丘很大，地下的部分比地上还深。
+anthill = 蚁丘
+③ He has ants in his pants and has stood up four times already.
+= 他坐立不安，已经站起来四回了。
+have ants in one's pants = 焦躁难安
+词族：
+ant colony = 蚁群
+群体昆虫：
+ant = 蚂蚁 / bee = 蜜蜂
+termite = 白蚁 / wasp = 黄蜂
+④ An ant lion digs a pit to trap prey and waits at the bottom.
+= 蚁狮挖个坑来诱捕猎物，自己守在坑底。
+ant lion = 蚁狮（幼虫挖漏斗坑捕蚁）
+
+antacid
+核心：指"抗酸药"——中和胃酸的药，碳酸钙、氢氧化铝这一类，
+吃下去几分钟就能缓解烧心和胃灼热。也作形容词。
+① She took an antacid after dinner and another one before she went to bed.
+= 她饭后吃了片抗酸药，睡前又吃了一片。
+take an antacid = 服抗酸药
+② Antacids neutralize stomach acid within minutes but do nothing about what caused it.
+= 抗酸药几分钟内就能中和胃酸，却对病因毫无办法。
+neutralize stomach acid = 中和胃酸
+③ Antacid tablets are sold over the counter, which is why people take them for years unchecked.
+= 抗酸药片是非处方药，所以有人一吃就是几年，从没查过。
+antacid tablet = 抗酸药片
+注意语域：
+药学与日常用药语境。
+
+antagonism
+核心：指双方之间公开的"对立、敌对"，不可数。
+介词用 between 或 towards。
+① There is antagonism between the two departments that no reorganisation has ever fixed.
+= 那两个部门之间存在对立，历次重组都没能解决。
+antagonism between = 之间的敌对
+② He showed open antagonism at the meeting and did not trouble to explain it afterwards.
+= 他在会上表现出公开的敌意，事后也懒得解释。
+open antagonism = 公开对抗
+③ Antagonism towards reform grew as each new rule arrived without warning.
+= 新规矩一条条不打招呼就来，对改革的抵触也随之加深。
+词族：
+antagonist = 对手
+antagonize = 使敌对
+近义对照：
+antagonism = 对立（双方结构性）
+animosity = 积怨（个人情绪）
+hostility = 敌意（立场）
+
+antagonist
+核心：两条线：文学里与主角对立的"反派"，
+和一般意义上的"对手"。生化里还指"拮抗剂"。
+① The antagonist drives the plot, and a weak one leaves the hero with nothing to push against.
+= 反派推动情节，反派立不住，主角就无处着力。
+② He faced a formidable antagonist who had beaten him twice already that season.
+= 他遇上了强劲对手，那个赛季对方已经赢过他两回。
+formidable antagonist = 劲敌
+③ The drug is a receptor antagonist and works by occupying the site without switching it on.
+= 那种药是受体拮抗剂，占住位点却不把它开启，以此起效。
+receptor antagonist = 受体拮抗剂
+配对词：
+protagonist = 主角
+antagonist = 反派、对手
+反义词（生化）：
+agonist = 激动剂
+
+antagonistic
+核心：指态度"敌对的、对着干的"。介词用 to 或 towards。
+比 unfriendly 强，暗示主动对抗。
+① He was antagonistic towards me from the first meeting onwards.
+= 从第一次开会起，他就对我充满敌意。
+antagonistic towards = 对…敌对
+② The two groups are antagonistic and share a building and a kitchen.
+= 那两个群体互相对立，却共用一栋楼和一间厨房。
+③ She took an antagonistic stance and won every vote that followed.
+= 她采取了对抗立场，此后每次表决都赢了。
+antagonistic stance = 对抗姿态
+词族：
+antagonism = 对立
+antagonize = 激怒
+反义词：
+cooperative = 合作的
+④ The two sides eyed each other antagonistically across a narrow table.
+= 隔着一张窄桌，双方彼此对立地打量着。
+antagonistically = 敌对地
+
+antagonize
+核心：指"把人惹毛、树敌"——不是一时惹恼，
+而是让对方站到自己对立面。英式也拼 antagonise。
+① Don't antagonize him before the vote; you will need those two seats.
+= 投票之前别把他惹翻，那两个席位你还用得着。
+② The policy antagonized voters who had backed the party all their lives.
+= 那项政策让一辈子支持该党的选民离了心。
+antagonize voters = 得罪选民
+③ He antagonized his colleagues one by one and then wondered why nobody defended him.
+= 他把同事一个个得罪光，然后纳闷怎么没人替他说话。
+注意英美拼写：
+antagonise = 惹恼、树敌（英式拼法）
+antagonize = 惹恼、树敌（美式拼法）
+词族：antagonism、antagonist
+近义对照：
+antagonize = 树敌（后果是对立）
+annoy = 惹恼（一时）
+provoke = 激怒（引发反应）
+
+Antarctic
+核心：指南极地区，大写。和 Arctic（北极）配对。
+注意拼写里有两个 c，第一个常被漏掉。
+① They sailed to the Antarctic and spent nine days waiting for the ice to open.
+= 他们航行到南极，花了九天等冰裂开。
+the Antarctic = 南极地区
+② Antarctic ice is melting from underneath, where the warm water reaches it first.
+= 南极冰在从底下融化，暖水最先到达的正是那里。
+Antarctic ice = 南极冰盖
+③ The Antarctic Treaty protects it by suspending every territorial claim rather than settling any.
+= 《南极条约》保护那里的办法是把所有领土主张搁置，而不是裁定谁对。
+配对词：
+Antarctic = 南极
+Arctic = 北极
+Antarctica = 南极洲（大陆）
+注意拼写：ant-arctic，两个 c。
+
+ante
+核心：赌局开牌前每人先押的那一份底注。这个词今天主要活在几个固定
+说法里，本义反而少见：up the ante 与 raise the ante 是加码、把要求
+或风险再抬高一档，比喻用法比赌桌上的用法常见得多；ante up 是掏钱、
+出份子。名词可数，多用单数。
+① Each player puts an ante in the pot before a single card is dealt.
+= 一张牌还没发，每个玩家就先往池里放一份底注。
+an ante = （牌局的）底注
+② The union upped the ante by calling a strike for the busiest week.
+= 工会把罢工定在最忙的一周，等于又加了一档筹码。
+up the ante = 加码、抬高要求或风险
+③ That deal raised the ante for everyone else in the same market.
+= 那笔交易把同一市场里所有人的门槛都抬高了。
+raise the ante = 同一个意思，两个动词都有人用
+④ We all had to ante up fifty pounds before anybody would start.
+= 谁也不肯先动手，我们每人得先掏五十镑。
+ante up = 掏钱、出份子
+作动词时偏口语，常带一点不情不愿也得出的意味。
+构词：拉丁语 ante「在……之前」，指开牌之前先押的那一份
+注意别混：跟表示反对的那个前缀只差一个字母，意思毫无关系。
+
+anteater
+核心：中南美洲的一种哺乳动物，没有牙，靠细长的吻和更长的黏舌
+伸进蚁穴舔食蚂蚁白蚁，前爪强壮能扒开蚁丘。名字就是照着
+食性起的。
+① The anteater probed the mound with its tongue and took maybe thirty ants a second.
+= 食蚁兽把舌头探进蚁丘，一秒大概舔进三十只蚂蚁。
+probe the mound = 探进蚁丘
+② A giant anteater can be two metres long, most of it tail and snout.
+= 大食蚁兽能有两米长，其中大半是尾巴和吻。
+giant anteater = 大食蚁兽
+③ Anteaters have no teeth at all and crush what they swallow in the stomach instead.
+= 食蚁兽一颗牙都没有，吞下去的东西改在胃里磨碎。
+注意语域：
+动物名称。
+
+antebellum
+核心：拉丁语借来的"战前的"，但用法极窄：在美式英语里几乎专指
+美国南北战争之前，尤其说南方那个时期的庄园、宅邸和社会。
+放在名词前面。
+① The antebellum South relied on slavery for the crop that paid for everything else.
+= 战前的南方靠奴隶制种出那种作物，其余一切开销都由它支付。
+the antebellum South = 战前的美国南方
+② They restored an antebellum mansion and said almost nothing about who had built it.
+= 他们修复了一栋战前大宅，对是谁盖起来的却几乎只字未提。
+antebellum mansion = 战前庄园宅邸
+③ Antebellum politics split the country along a line that ran through both parties.
+= 战前的政治把国家撕开，那道裂缝从两个政党中间穿过。
+注意地域：
+美式用法，几乎专指南北战争之前。
+注意语序：
+只作定语，放在名词前面。
+
+antecedent
+核心：两条线：正式的"先前的事物、前身"，
+和语法上代词所指代的"先行词"。复数还指"祖先、家世"。
+① It had many antecedents and the earliest is usually left out.
+= 它有很多前身，最早的那个通常被略去不提。
+② The pronoun's antecedent is unclear and two readings are possible.
+= 那个代词的先行词不明，可以有两种读法。
+grammatical antecedent = 语法先行词
+③ His antecedents were farmers and he has never mentioned it in print.
+= 他祖上是务农的，他在文章里从没提过。
+复数 = 家世、祖先
+④ These events are antecedent to the war and rarely appear in accounts of it.
+= 这些事件发生在战前，战史里很少提到。
+antecedent to = 先于
+词族：
+antecede = 先于（罕用）
+
+antechamber
+核心：底层是"正屋前面那间"——通往主厅之前的小房间，等候、
+通传都在这儿。宫殿、官署和旧式大宅里常见。同义的日常说法是
+anteroom，医学上还借来说心脏或器官的前腔。
+① They waited in the antechamber for two hours and were sent home without being seen.
+= 他们在前厅候了两个钟头，没见着人就被打发回去了。
+wait in the antechamber = 在前厅等候
+② The antechamber opens onto the great hall through a door low enough to make you stoop.
+= 前厅通向大厅，那道门矮得让人不得不低头。
+③ Guests left their coats in the anteroom, where a servant sat all evening doing nothing else.
+= 客人把外套留在前厅，一名仆人整晚坐在那里，别的什么也不做。
+anteroom = 前厅、候见室
+注意语域：
+建筑与宫廷语境。
