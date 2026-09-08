@@ -197,6 +197,8 @@ CHECK = {
  'direct': ['direct debit', 'a direct hit'],
  'dirt': ['dirt cheap', 'dish the dirt'],
  'dirty': ['a dirty look', "somebody's dirty work"],
+ 'disaster': ['a recipe for disaster', 'a disaster area'],
+ 'discipline': ['self-discipline'],
  'dish': ['dish out', 'dish up', 'dish the dirt', 'do the dishes'],
  'distance': ['in the distance', 'keep your distance', 'go the distance',
               'within walking distance', 'distance yourself from'],
