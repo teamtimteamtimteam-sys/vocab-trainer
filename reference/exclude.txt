@@ -414,3 +414,7 @@ dem          # Dem. 的去句点版（清单 15179 行是 Dem.），Democrat 的
 # 它不是能独立用的英语词，整条短语在 f 段的 flagrante / in flagrante 那儿收。
 # 同一类的先例：ab initio 的 initio（coverage 的 phrase_pending 注释里记着）。
 delicto      # in flagrante delicto 的碎片，不是独立词头
+
+# --- 窄专业：诗律术语（同 a 段的 accelerando / abscissa 那条）---
+decasyllable   # 十音节诗行，诗律术语，一般阅读里遇不到
+decasyllabic   # 同上，形容词

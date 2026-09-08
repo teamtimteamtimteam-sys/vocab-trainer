@@ -46,6 +46,16 @@ def main(prefix, size):
         out = f"wordlists/{prefix}-merged-{i+1:04d}-{i+len(chunk):04d}.txt"
         io.open(out, 'w', encoding='utf-8').write("\n\n".join(chunk) + "\n")
         made.append((out, len(chunk), os.path.getsize(out)))
+    # 上一次合并留下的旧尾巴要清掉 —— 尾部文件的名字每次都变
+    # （B-merged-5001-5933 → …-5955），不删就会越积越多。
+    # 2026-09-08 之前正是这么攒下六份 5001-58xx 的残骸；那天新加的
+    # check-merged.py 一上来就把它们当成「同一条词条出现两次」报了出来，
+    # 因为它是照 wordlists/<前缀>-merged-*.txt 全量读的。
+    kept = {o for o, _, _ in made}
+    for old in sorted(glob.glob(f"wordlists/{prefix}-merged-*.txt")):
+        if old not in kept:
+            os.remove(old)
+            print(f"  删掉上一轮的旧文件 {os.path.basename(old)}")
     print(f"\n合并 {n} 条 →")
     for o, c, b in made:
         print(f"  {os.path.basename(o):<30} {c:>5} 条  {b/1024/1024:.2f} MB")

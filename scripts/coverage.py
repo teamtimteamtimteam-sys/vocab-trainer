@@ -236,7 +236,12 @@ SPELLING_ROOT = {'cosiness': 'cosy', 'coziness': 'cozy',
                  # 前四字母判定把它算到 data 头上，于是它写在 date 条里
                  # 也一直报缺，照着办就会把「可定年代的」并进「数据」那一条 ——
                  # 跟 cultivable 被并进 cult 是同一个错（2026-09-08）。
-                 'datable': 'date'}
+                 'datable': 'date',
+                 # 公制「十倍」前缀的两种拼法：英式 deca-、美式 deka-。
+                 # dekaliter / dekameter 的前四个字母是 deka，跟词条
+                 # decalitre 的 deca 对不上，写在 decalitre 条里也会一直报缺。
+                 # 同 datable → date：改的是尺子，不是把它并到错的宿主去。
+                 'dekaliter': 'decalitre', 'dekameter': 'decalitre'}
 
 def _load_inflections():
     """动词变形 → 原形。用户 2026-09-05 裁定：变形不单独立条，并进原形，

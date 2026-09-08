@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 5933 条，词典序 a → drop。义项 23809。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 12%（da- 226/229、de- 69/962）
+B 词表 5955 条，词典序 a → drop。义项 23875。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 13%（da- 226/229、de- 111/960）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-5933.txt    933 条   compatible → drop
+  B-merged-5001-5955.txt    955 条   compatible → drop
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
 留下的残骸，只有最新那份是有效交付 —— 要不要删等用户裁定。）
@@ -54,7 +54,15 @@ deafen；deanery 进 dean；dearest、dearie、dearly 进 dear；deathbed、deat
 deathless 进 death；debasement 进 debase；debater、debating 进 debate；
 debauchery 进 debauched；debility、debilitating 进 debilitate；debtor 进 debt）。
 audit-ab 报 debate 缺 under debate —— 查过是正经用法（同 under discussion），
-补了一个义项。de- 段 26 → 69 条。**下一批从 debug 起。**
+补了一个义项。de- 段 26 → 69 条。**第二批 22 条已写完**：debug / debunk / debut / decade / decadence /
+decaffeinated / decagon / decal / decalitre / decamp / decant / decapitate /
+decarbonize / decathlon / decay / decease / deceit / deceive / decelerate /
+December / decency / decent，并入十余条（debugger、debutant、debutante、
+decadent、decagonal、decahedron、decametre、dekaliter、dekameter、decanter、
+decapitation、decarbonization、decathlete、deceased、deceitful、deceitfully、
+deceiver、deceleration、decently）。又剔了 2 条（decasyllable、decasyllabic，
+诗律术语，同 accelerando 那条），清单 962 → 960。
+**下一批从 decibel 起**（decide 那一族是大词，可能要少写几条）。
 **2026-09-08 加了第十道闸门 check-merged.py**（用户要求：每份 2500 条的
 交付文档都要按字母序、不跳条）。它查份内有序、份间接得上、文件名编号连续、
 与分批文件逐条一致、每条正文一字不差，已进 gates.sh。
