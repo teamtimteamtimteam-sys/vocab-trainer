@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 5955 条，词典序 a → drop。义项 23875。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 13%（da- 226/229、de- 111/960）
+B 词表 5978 条，词典序 a → drop。义项 23958。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 14%（da- 226/229、de- 160/960）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-5955.txt    955 条   compatible → drop
+  B-merged-5001-5978.txt    978 条   compatible → drop
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
 留下的残骸，只有最新那份是有效交付 —— 要不要删等用户裁定。）
@@ -62,7 +62,23 @@ decadent、decagonal、decahedron、decametre、dekaliter、dekameter、decanter
 decapitation、decarbonization、decathlete、deceased、deceitful、deceitfully、
 deceiver、deceleration、decently）。又剔了 2 条（decasyllable、decasyllabic，
 诗律术语，同 accelerando 那条），清单 962 → 960。
-**下一批从 decibel 起**（decide 那一族是大词，可能要少写几条）。
+**第三批 23 条已写完**：deception / deceptive / decentralize / decibel /
+decide / deciduous / decile / decilitre / decimal / decimate / decipher /
+decision / decisive / deck / declaim / declaration / declare / declassify /
+declension / decline / declutter / decoction / decode。
+**下一批从 décolletage 起。**
+  · deception 与 deceptive 本该是这一批之外的账：它们上一批被 deceive 的
+    核心块「吞」了 —— 只在讲解里提了一句，没有例句与等式，coverage 却
+    照报已收。这次给它们各写了独立词条。
+  · decentralize 也不能听 coverage 的：它把 decentralization / decentralize
+    挂在 decent 名下（前四字母 dece 相同），可这词的根是 central。
+    单列成词条，并在条里写明跟 decent 无关。同 Dalek / datable 那一类。
+  · **audit-swallowed 原来恒返回 0** —— 报了 5 条被吞的词，gates.sh 照样
+    打绿勾。已并进退出码（同元评论那道尺子并进 audit-padding 的做法）。
+    改完它当场又逮到两条：decide upon 与 decimal place 只出现在讲解行里，
+    各补了一个带例句与等式的义项。另外三条历史欠账也一并补了：
+    cui bono?（补了带问号的独立发问例句）、damp-proof course（写进 damp）、
+    deceitfulness（写进 deceit）。
 **2026-09-08 加了第十道闸门 check-merged.py**（用户要求：每份 2500 条的
 交付文档都要按字母序、不跳条）。它查份内有序、份间接得上、文件名编号连续、
 与分批文件逐条一致、每条正文一字不差，已进 gates.sh。

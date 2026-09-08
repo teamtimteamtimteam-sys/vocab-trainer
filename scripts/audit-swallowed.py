@@ -74,7 +74,11 @@ def main(argv):
             print('    %-24s 被 %s 吞掉' % (w, h))
     else:
         print('  ✅ 没有被吞掉的词')
-    return 0
+    # 2026-09-08：这道检查原来恒返回 0 —— 报了 5 条被吞掉的词，gates.sh 照样
+    # 打绿勾（deception 与 deceptive 就这么被 deceive 的核心块吞了三个批次）。
+    # 「一直报绿的闸门等于没有闸门」，跟元评论那道尺子并进 audit-padding
+    # 退出码是同一个道理，所以这里也计入退出码。
+    return 1 if swallowed else 0
 
 if __name__ == '__main__':
     sys.exit(main(sys.argv[1:]))
