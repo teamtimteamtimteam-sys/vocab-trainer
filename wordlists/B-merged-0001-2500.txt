@@ -4598,6 +4598,10 @@ boric acid = 硼酸（弱酸，可防腐杀虫）
 ⑱ Rain dissolves carbonic acid from the air and slowly eats the limestone.
 = 雨水溶解空气中的碳酸，慢慢侵蚀石灰岩。
 carbonic acid = 碳酸
+⑲ Deoxyribonucleic acid is what everybody calls DNA once the sentence gets going.
+= 脱氧核糖核酸，就是话一说开大家都改口叫 DNA 的那个东西。
+deoxyribonucleic acid = 脱氧核糖核酸（DNA 的全称）
+全称几乎只出现在教科书首次提到时。
 
 acidic
 核心：化学上指"酸性的"，与碱性相对；日常也指食物"发酸的"。
@@ -26449,6 +26453,10 @@ area code = 电话区号
 ⑥ The school's catchment area was redrawn and two streets lost their places.
 = 学校招生片区重新划定，两条街的孩子丢了名额。
 catchment area = 集水区；招生片区
+⑦ The development area brought two factories and one very long road.
+= 那片开发区引来了两家工厂和一条极长的路。
+a development area = 开发区（政府扶持的地区）
+英国政策用语，指获政府补助以吸引投资的地区。
 
 aren't
 核心：are not 的缩略式。有个特别之处：在反问句里它还顶替
@@ -36161,6 +36169,10 @@ baby mama = 孩子的生母（非正式）
 = 他是她孩子的父亲，有能力的时候就给点钱。
 babyfather = 孩子的生父（英式，源自加勒比英语）
 babymother = 孩子的生母（英式）
+㉙ Designer baby is the phrase people reach for whenever the screening rules are relaxed.
+= 每逢筛查规则放宽，人们就会搬出「设计婴儿」这个说法。
+a designer baby = 设计婴儿（经基因筛选的婴儿）
+带争议色彩，多出现在伦理讨论里。
 
 babysit
 核心：指"临时看孩子"——父母外出时替他们照看，通常按小时收钱。
@@ -43919,6 +43931,10 @@ hardened forewings = 硬化的前翅
 ③ She beetled off to catch the train and left her coat on the chair.
 = 她匆匆忙忙赶火车去了，外套落在椅子上。
 beetle off = 匆匆走开（英式口语）
+④ A deathwatch beetle in the roof timbers costs more to deal with than the roof did to build.
+= 屋梁里生了报死虫，处理起来比当初建屋顶还贵。
+a deathwatch beetle = 报死虫（蛀木甲虫）
+名字来自它求偶时敲木头的声响，旧时被当成死亡的预兆。
 注意语域：
 动词义是英式非正式说法。
 
@@ -45569,6 +45585,10 @@ benefice = 圣职俸禄
 = 他晚年以行善著称，早年却毫无此风。
 beneficence = 慈善、行善
 beneficent = 行善的、慈善的
+⑩ A defined benefit pension promises a figure; everything else promises a pot.
+= 确定给付型养老金承诺的是一个数额，别的方案承诺的只是一笔钱。
+a defined benefit pension = 确定给付型养老金
+跟 defined contribution 确定缴费型相对，风险落在雇主一边。
 
 Benelux
 核心：比利时、荷兰、卢森堡三国的合称，也指它们之间那个先于欧盟成立
