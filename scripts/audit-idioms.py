@@ -127,6 +127,7 @@ CHECK = {
           'as near as damn it'],
  'dam': ['dam up'],
  'damage': ['damage limitation', "what's the damage"],
+ 'danger': ['in danger of', 'out of danger', 'a danger to', 'danger money'],
  'dark': ['in the dark', 'a shot in the dark', 'after dark', 'a dark horse',
           'the Dark Ages', 'a dark side'],
  'date': ['out of date', 'up to date', 'to date', 'date back to', 'date from',
