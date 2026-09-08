@@ -204,6 +204,8 @@ CHECK = {
  'disgrace': ['in disgrace', 'a disgrace to'],
  'disguise': ['in disguise', 'a blessing in disguise'],
  'dish': ['dish out', 'dish up', 'dish the dirt', 'do the dishes'],
+ 'dislike': ['take a dislike to'],
+ 'dismay': ["to somebody's dismay"],
  'distance': ['in the distance', 'keep your distance', 'go the distance',
               'within walking distance', 'distance yourself from'],
  'do': ['do away with', 'do without', 'do up', 'do in', 'do over', 'do out of',
