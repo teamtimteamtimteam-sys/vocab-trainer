@@ -419,3 +419,13 @@ delicto      # in flagrante delicto 的碎片，不是独立词头
 decasyllable   # 十音节诗行，诗律术语，一般阅读里遇不到
 decasyllabic   # 同上，形容词
 demisemiquaver # 三十二分音符，音乐记谱术语，同 accelerando 那条
+
+# --- di- 段：窄专业术语（照 accelerando / abscissa / acrolect 三条先例）---
+diapason     # 管风琴音栓与音域，音乐术语
+diatonic     # 全音阶的，乐理术语
+diminuendo   # 渐弱，记谱术语（同 accelerando）
+divertimento # 嬉游曲，曲式名
+diglossia    # 双层语言现象，语言学术语（同 acrolect）
+diglossic    # 同上，形容词
+ditransitive # 双宾语的，语法术语
+dioptrics    # 屈光学，光学分支（dioptre 与 dioptric 保留，验光单上会遇到）
