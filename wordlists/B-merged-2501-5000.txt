@@ -28557,6 +28557,9 @@ carport = 敞棚车位
 ⑱ A car bra protects the front end from stones thrown up by lorries.
 = 车头罩能挡住卡车溅起的石子，保护车前脸。
 a car bra = 车头防石护罩（美式）
+⑲ The estate car swallowed four bicycles and still shut at the first attempt.
+= 那辆旅行车装下四辆自行车，尾门一次就关上了。
+an estate car = 旅行车（英式，车尾加长的轿车）
 构词：拉丁语 carrus 双轮货车
 注意用法：停车场英式说 car park，美式说 parking lot。
 
