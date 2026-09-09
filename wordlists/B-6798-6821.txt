@@ -1,36 +1,3 @@
-drone
-核心：四支。一是无人机（a camera drone）；
-二是雄蜂：不采蜜、只交配的那种；
-三是持续的低鸣：机器、诵读、风扇的那种声音（the drone of traffic）；
-四是动词 drone on：单调地说个没完。
-可数（无人机与雄蜂）与不可数（声音）都有。
-① A camera drone followed the boat for a mile and then ran out of battery.
-= 一架航拍无人机跟了那条船一英里，随后没了电。
-a camera drone = 航拍无人机
-② The drones are turned out of the hive before the cold comes.
-= 天冷之前，雄蜂就被赶出了蜂巢。
-a drone = 雄蜂
-③ The drone of the motorway is audible in that garden on still days.
-= 无风的日子里，那个院子里听得见高速公路的低鸣。
-the drone of something = 某物的持续低鸣
-④ He droned on about parking until two people left the room.
-= 他就停车问题单调地说个没完，说到有两个人离席。
-drone on = 单调地说个没完
-构词：古英语 drān 雄蜂 —— 声音义由它的嗡鸣来
-注意用法：说无人机是今天最常用的一支。
-
-drongo
-核心：两支。一是卷尾鸟：一种黑色、尾巴分叉的鸟，非洲与亚洲常见；
-二是澳新口语里骂人「笨蛋」。可数。
-① A drongo will imitate an alarm call to scare another bird off its food.
-= 卷尾鸟会模仿警戒叫声，把别的鸟从食物边吓走。
-a drongo = 卷尾鸟
-② Some drongo left the gate open and the whole flock was on the road by six.
-= 哪个蠢货把门开着没关，六点钟整群羊就上了公路。
-a drongo = 笨蛋（澳新口语，贬）
-构词：马达加斯加语；骂人义来自一匹屡战屡败的澳洲赛马
-注意语域：骂人那一支限澳新口语，别处不说。
-
 drool
 核心：两支。一是流口水：说婴儿、狗与睡着的人；
 二是引申的「垂涎、看得眼馋」——drool over something。
@@ -653,3 +620,33 @@ the theory du jour = 眼下时兴的那套理论
 the crisis du jour = 当下这一桩危机
 位置固定：说 the buzzword du jour、the villain du jour，永远在名词后头。
 构词：法语 of the day 整个借入。
+
+dual
+核心：双的、两部分的：一样东西有两个组成部分或两种身份 ——
+dual nationality 是双重国籍，a dual role 是一人两职。
+只作定语，没有比较级；名词是 duality。
+① The car has dual controls so the instructor can stop it from the passenger seat.
+= 那辆车装了双套操纵机构，教练在副驾就能把车停住。
+dual controls = 双套操纵装置
+dual control = 双重控制
+② She holds dual nationality and travels on whichever passport moves faster that year.
+= 她有双重国籍，哪本护照那年过关快就用哪本。
+dual nationality = 双重国籍
+③ The building serves a dual purpose: classrooms by day, a night shelter in winter.
+= 那栋楼有双重用途：白天当教室，冬天夜里当收容所。
+a dual purpose = 双重用途
+a dual role = 双重角色
+注意别混：dual 是同一样东西的两面，double 是两倍或两份。
+
+dualism
+核心：二元论：认为世界由两种互不相容的本原构成的学说 ——
+哲学上指心与物两分，宗教上指善恶两股力量对抗。不可数。
+形容词 dualistic，持这种主张的人叫 dualist。
+① Descartes's dualism splits the person into a thinking mind and a mechanical body.
+= 笛卡儿的二元论把人劈成会思考的心灵和机械的身体两半。
+dualism = 二元论
+mind-body dualism = 心物二元论
+② Zoroastrian dualism sets a god of light against a god of darkness for all of history.
+= 琐罗亚斯德教的二元论让光明之神与黑暗之神一直斗到历史尽头。
+religious dualism = 宗教二元论
+构词：dual 加 -ism
