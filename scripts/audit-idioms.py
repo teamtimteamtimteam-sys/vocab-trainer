@@ -25,6 +25,12 @@ def fold(s):
 
 CHECK = {
  'each': ['each and every'],
+ 'even': ['break even', 'even so', 'even though', 'get even', 'even if'],
+ 'ever': ['ever since', 'hardly ever', 'for ever'],
+ 'every': ['every other', 'every now and then', 'every bit as'],
+ 'event': ['in the event of', 'at all events', 'in any event'],
+ 'evidence': ['give evidence', 'be in evidence'],
+ 'evil': ['the lesser of two evils', 'speak evil of'],
  'essence': ['in essence', 'of the essence'],
  'establish': ['establish yourself'],
  'esteem': ['hold somebody in high esteem', 'self-esteem'],
