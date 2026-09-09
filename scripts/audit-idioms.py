@@ -25,6 +25,10 @@ def fold(s):
 
 CHECK = {
  'each': ['each and every'],
+ 'example': ['for example', 'set an example', 'make an example of', "follow somebody's example"],
+ 'exception': ['with the exception of', 'without exception', 'make an exception'],
+ 'excuse': ['make excuses', 'excuse me'],
+ 'exchange': ['in exchange for'],
  'even': ['break even', 'even so', 'even though', 'get even', 'even if'],
  'ever': ['ever since', 'hardly ever', 'for ever'],
  'every': ['every other', 'every now and then', 'every bit as'],
