@@ -214,6 +214,8 @@ CHECK = {
  'disturb': ['do not disturb'],
  'distance': ['in the distance', 'keep your distance', 'go the distance',
               'within walking distance', 'distance yourself from'],
+ 'divide': ['divide up', 'the great divide'],
+ 'divorce': ['get a divorce'],
  'do': ['do away with', 'do without', 'do up', 'do in', 'do over', 'do out of',
         'make do', 'have to do with', 'nothing doing', 'that will do',
         'do the trick', 'do or die', 'how do you do', 'do a runner',
