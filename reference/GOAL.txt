@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 6742 条，词典序 a → drop。义项 26403。
+B 词表 6742 条，词典序 a → drop。义项 26449。
   a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 44%（da- 226/229、de- 932/959、di- 836/859）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
@@ -119,9 +119,11 @@ diminuendo、divertimento、diglossia、diglossic、ditransitive、dioptrics，
 同 accelerando）。
 第一批 doable → dogma（24 条）、第二批 doh → domino（23 条，含 dog 一族
 十六条并入 9 个义项、另立 dolorous）已写完。do- 段 28 → 181 条（45%）。第三批 don → dossier（26 条）、第四批 dot → download（23 条）已写完。
-第五批 dominatrix → dozy（18 条）已写完，do- 段的待新写清零 ——
-剩下的全是待并入（down- 与 double- 两族的复合词占大头）。
-**下一步：do- 的并入 pass**。
+第五批 dominatrix → dozy（18 条）之后，**do- 的并入 pass 也做完了**：
+126 条按意思归组写进 48 个义项，其中 double 一族 70 条并成 17 个义项、
+down 一族 33 条并成 9 个。do- 段 382/395（96%），只剩 13 条待推迟。
+**下一步：dr- 段**（清单 349 条，已收 47；draw / dream / dress / drink / drive /
+drop 都是核心大词，习语清单 CHECK 里已备好）。
   · check-wordlist 新加了一道「草稿行」检查：写到一半改主意、把弃用的
     半截例句连同一句 Hmm 一起 append 进文件，2026-09-08 与 09-09 连着犯了
     三次（dildo、distal、dominatrix）。三次都是靠「例句缺少译文」间接报出来的，
