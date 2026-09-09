@@ -1,47 +1,3 @@
-dumbshow
-核心：哑剧式的比划：不出声、全靠动作把意思做出来的一段表演或示意 ——
-戏剧里指正戏之前的一段无言表演。可数。
-① They explained the whole route in dumbshow because nobody spoke the language.
-= 他们全靠比划把整条路线讲明白，因为没人会当地话。
-in dumbshow = 不出声地比划着
-② The play opens with a dumbshow that gives the ending away to anyone watching closely.
-= 那出戏以一段哑剧开场，看得仔细的人从中就知道结局了。
-a dumbshow = 一段哑剧
-构词：dumb（不出声的）加 show
-
-dumdum
-核心：达姆弹：弹头开口或软尖、入体后变形扩大的子弹，创伤极重；
-一八九九年起国际法禁止用于战争。可数，也说 a dumdum bullet。
-① A dumdum flattens on impact and does the damage a solid round does not.
-= 达姆弹一撞就变扁，造成实心弹造不成的创伤。
-a dumdum = 达姆弹
-② Dumdum bullets were banned for war use and turn up in police reports anyway.
-= 达姆弹在战争中被禁用，却照样出现在警方报告里。
-a dumdum bullet = 达姆弹
-构词：得名于加尔各答附近那座兵工厂
-
-dummy
-核心：五支。一是人体模型、假人：a shop dummy 是橱窗模特；
-二是（英式）安抚奶嘴，美式说 pacifier；三是仿制品、空样品；
-四是（口语，美式）笨蛋；五是（体育）假动作。
-形容词是假的、充数的：a dummy run 是演练。可数，复数 dummies。
-① A crash test dummy costs more than the car they put it in.
-= 一个碰撞试验假人比装它的那辆车还贵。
-a dummy = 假人、人体模型
-a shop dummy = 橱窗模特
-② The baby spat the dummy out and screamed until somebody found the other one.
-= 婴儿把奶嘴吐了出来，一直哭到有人找出另一个。
-a dummy = 安抚奶嘴（英式）
-③ The box on the shelf is a dummy; the real stock is all kept in the back.
-= 架上那个盒子是空样品，真货全放在后面。
-a dummy = 空样品、仿制品
-④ He sold the last defender a dummy and walked the ball into the net.
-= 他一个假动作晃过最后一名后卫，把球带进了网。
-sell somebody a dummy = 做假动作晃过某人
-⑤ We did a dummy run on Sunday and found two doors that would not open.
-= 我们周日演练了一遍，发现有两扇门打不开。
-a dummy run = 演练
-
 dump
 核心：动词四支、名词三支。动词一是（随手）扔下、堆放；二是倾倒（垃圾、废料）；
 三是（口语）甩掉（男女朋友）；四是（贸易）倾销：低价往外抛货挤垮当地厂商。
@@ -297,3 +253,45 @@ a duodenal ulcer = 十二指肠溃疡
 = 病因一去掉，十二指肠壁比肠道多数部位愈合得快。
 the duodenal wall = 十二指肠壁
 构词：duodenum 的形容词
+
+duodenum
+核心：十二指肠：小肠最前面的一段，上接胃，胆汁与胰液在这里汇进来。
+可数，复数 duodenums 或 duodena。
+① Food leaves the stomach and spends about half an hour in the duodenum.
+= 食物离开胃，在十二指肠里待上大约半个钟头。
+the duodenum = 十二指肠
+② Bile enters the duodenum through a duct about as wide as a pencil lead.
+= 胆汁经一根铅笔芯粗细的管子进入十二指肠。
+enter the duodenum = 进入十二指肠
+构词：拉丁语的「十二」，因这一段长约十二指宽
+
+duopoly
+核心：双头垄断：一个市场基本被两家公司把持的局面 ——
+一家独占是 monopoly，两家把持是 duopoly。可数。
+① Two airlines run a duopoly on that route and the fares show it.
+= 两家航空公司在那条航线上双头垄断，票价上看得出来。
+a duopoly = 双头垄断
+② The regulator broke up one duopoly and created two smaller ones.
+= 监管机构拆掉一个双头垄断，造出了两个小的。
+break up a duopoly = 拆分双头垄断
+
+dupe
+核心：两支。动词是骗、蒙：dupe somebody into doing something；
+名词是受骗上当的那个人。可数。
+① They duped several hundred people into paying deposits on flats never built.
+= 他们骗了好几百人为根本没盖的房子交定金。
+dupe somebody into doing something = 骗某人做某事
+be duped = 上当受骗
+② He was the dupe in that scheme and spent two years proving it.
+= 他是那个局里被骗的那个，花了两年才说清楚。
+a dupe = 受骗上当的人
+
+duplex
+核心：两支，多为美式。一是两户住宅或复式公寓：一栋分成两户，
+或一套占上下两层；二是形容词「双向的、成双的」：duplex printing 是双面打印。可数。
+① They rent the upper half of a duplex and hear every step below them.
+= 他们租了两户住宅的上半层，楼下每一步都听得见。
+a duplex = 一栋两户的住宅
+② Duplex printing halves the paper and doubles the jams.
+= 双面打印省一半纸，卡纸多一倍。
+duplex printing = 双面打印

@@ -1,73 +1,3 @@
-dustpan
-核心：簸箕：跟小扫帚配套、把扫拢的灰土铲起来的浅盘。可数。
-英式的一整套叫 a dustpan and brush。
-① She swept the broken glass into a dustpan and carried it out at arm's length.
-= 她把碎玻璃扫进簸箕，伸直胳膊端了出去。
-a dustpan = 簸箕
-sweep something into a dustpan = 把某物扫进簸箕
-② The cupboard holds a mop, a bucket and a dustpan and brush.
-= 柜子里放着拖把、水桶，还有一副簸箕带小刷子。
-a dustpan and brush = 簸箕和小刷子（英式一套）
-构词：dust 加 pan
-
-dusty
-核心：三支。一是布满灰尘的：a dusty shelf；二是（颜色）发灰的：dusty pink；
-三是（英式口语）not so dusty，「还不赖」。比较级 dustier。
-① The box came down off a dusty shelf and left a clean line behind it.
-= 箱子从落满灰的架子上取下来，身后留下一道干净的痕。
-a dusty shelf = 落满灰的架子
-dusty = 布满灰尘的
-② The room is painted a dusty pink that looks grey by six o'clock.
-= 屋子刷成灰扑扑的粉色，到六点看着就发灰了。
-dusty pink = 灰粉色
-③ 'How did the season go?' 'Not so dusty — we finished third.'
-= 「这个赛季怎么样？」「还不赖，我们拿了第三。」
-not so dusty = 还不赖（英式口语）
-
-Dutch
-核心：三支。一是荷兰的、荷兰人的；二是荷兰语；三是 the Dutch，荷兰人（总称）。
-习语：go Dutch 是各付各的；double Dutch 是（英式）完全听不懂的话；
-Dutch courage 是靠酒壮的胆。
-① Dutch is closer to English than most people expect the first time they see it.
-= 荷兰语比多数人头一回看见时想的要更接近英语。
-Dutch = 荷兰语
-② The Dutch built most of that coastline and maintain it still.
-= 那段海岸线大半是荷兰人修的，至今仍由他们维护。
-the Dutch = 荷兰人（总称）
-③ We went Dutch and the argument about the bill never happened.
-= 我们各付各的，那场关于账单的争执就没发生。
-go Dutch = 各付各的
-④ He needed a little Dutch courage before he made that phone call.
-= 打那通电话之前，他得靠点酒劲壮胆。
-Dutch courage = 酒壮的胆
-⑤ The instructions were double Dutch until somebody found the diagram.
-= 那份说明书像天书，直到有人翻出图来。
-double Dutch = 完全听不懂的话（英式）
-⑥ A Dutch auction starts high and the first person to speak takes the lot.
-= 荷兰式拍卖从高价开始，第一个出声的人把这批货拿走。
-a Dutch auction = 荷兰式拍卖（价格由高往低降）
-⑦ The hay is kept in a Dutch barn with a roof and hardly any walls.
-= 干草存在一座荷兰式草棚里，有顶，几乎没有墙。
-a Dutch barn = 有顶无墙的干草棚
-⑧ The Dutch door lets the air in and keeps the dog where he belongs.
-= 上下分开的对开门放进空气，也把狗关在该待的地方。
-a Dutch door = 上下两截分开的门
-⑨ Dutch elm disease took every mature elm in the county within a decade.
-= 荷兰榆病十年之内夺走了全郡所有成年榆树。
-Dutch elm disease = 荷兰榆病
-
-Dutchman
-核心：荷兰男人：可数，复数 Dutchmen，女性说 Dutchwoman。
-习语 I'm a Dutchman 是赌咒的说法：「要真那样我就不姓这个」。
-传说里的 the Flying Dutchman 是永远靠不了岸的幽灵船。
-① A Dutchman at the next table explained the whole system in two minutes.
-= 邻桌一位荷兰人两分钟就把整套制度讲明白了。
-a Dutchman = 荷兰男人
-② If that bridge opens on time next spring, I'm a Dutchman.
-= 那座桥明年春天要能按期通车，我就不姓这个。
-I'm a Dutchman = 我才不信（赌咒的说法）
-构词：Dutch 加 man
-
 Dutchwoman
 核心：荷兰女人：可数，复数 Dutchwomen；男性说 Dutchman。
 ① A Dutchwoman won the race by four seconds and rode home the same evening.
@@ -345,3 +275,49 @@ load something dynamically = 动态加载某物
 = 价格是动态定的，同一趟航班上很少有两个人付一样的钱。
 be set dynamically = 动态定价
 构词：dynamic 加 -ally
+
+dynamism
+核心：活力、干劲：说人或组织有推动力、势头足。不可数。
+① The dynamism of that department survived two reorganisations and one bad year.
+= 那个部门的活力熬过了两次重组和一个惨淡的年头。
+dynamism = 活力、干劲
+② Investors talk about dynamism and then ask for three years of steady figures.
+= 投资人嘴上讲活力，转头就要三年平稳的数字。
+economic dynamism = 经济活力
+构词：dynamic 加 -ism
+
+dynamite
+核心：三支。一是炸药：硝化甘油制的烈性炸药，做成条状；
+二是比喻极危险或极有爆炸性的东西；三是（美式口语，旧）棒极了。
+也作动词，用炸药炸。名词不可数。
+① They used dynamite to open the road and lost half the hillside with it.
+= 他们用炸药炸开那条路，半面山坡也跟着塌了。
+dynamite = 炸药
+a stick of dynamite = 一根炸药
+② Those two paragraphs are political dynamite and the lawyers know it.
+= 那两段话是政治上的火药桶，律师们心里有数。
+be dynamite = 极有爆炸性、极危险
+③ They dynamited the old chimney and the crowd applauded the dust.
+= 他们炸掉了那根旧烟囱，人群冲着扬起的尘土鼓掌。
+dynamite something = 用炸药炸掉某物
+构词：希腊语 dynamis（力量）加 -ite，诺贝尔造的词
+
+dynamo
+核心：两支。一是发电机，尤指发直流电的：靠转动线圈发电，自行车灯上那个小的也叫 dynamo；
+二是比喻精力旺盛、干劲十足的人。可数，复数 dynamos。
+① The dynamo on the front wheel powers the lamp and drags on every hill.
+= 前轮上那个小发电机给车灯供电，每次上坡都拖后腿。
+a dynamo = 发电机
+② She is a dynamo who books the hall, sells the tickets and sweeps up afterwards.
+= 她是个精力旺盛的人：订场地、卖票，散场还扫地。
+a dynamo = 精力充沛的人
+
+dynastic
+核心：王朝的、家族世袭的：说权力或产业在一个家族里代代相传。
+① The dynastic quarrel lasted three generations and cost the family two provinces.
+= 那场王朝内讧闹了三代，让那个家族丢了两个省。
+a dynastic quarrel = 王朝内部的争斗
+② Family firms often face a dynastic problem: who takes over and who accepts it.
+= 家族企业常有世袭难题：谁接班，还有谁服气。
+dynastic succession = 世袭继承
+构词：dynasty 的形容词

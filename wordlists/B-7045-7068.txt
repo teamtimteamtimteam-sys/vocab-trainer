@@ -1,48 +1,3 @@
-ebullience
-核心：热情洋溢、兴高采烈：那种压不住的兴奋劲儿。不可数，正式。
-① His ebullience carried the first hour and wore everybody out by the third.
-= 他那股兴头撑起了头一个钟头，到第三个钟头把人都熬垮了。
-ebullience = 热情洋溢
-② The ebullience of the crowd survived a two-hour delay and a change of venue.
-= 人群的兴致熬过了两个钟头的延误，还熬过了一次改场地。
-the ebullience of the crowd = 人群的兴高采烈
-构词：ebullient 的名词
-
-ebullient
-核心：热情洋溢的、兴致勃勃的：说人情绪高、劲头足，也说场面气氛热烈。正式。
-① She was ebullient about the results and cautious about what they proved.
-= 她为那些结果兴奋不已，对它们究竟证明了什么却很谨慎。
-be ebullient = 兴致勃勃
-an ebullient mood = 高涨的情绪
-② An ebullient crowd filled the square two hours before anything began.
-= 兴致高昂的人群在开场前两个钟头就挤满了广场。
-an ebullient crowd = 兴高采烈的人群
-构词：拉丁语的「沸腾」，跟 boil 同源
-
-ebulliently
-核心：兴高采烈地、热情洋溢地：修饰打招呼、说话、庆祝这类动作。
-① He greeted everyone ebulliently and forgot two of the names immediately.
-= 他兴高采烈地跟每个人打招呼，转头就忘了其中两个名字。
-greet somebody ebulliently = 热情洋溢地招呼某人
-② The team celebrated ebulliently and then lost the next four matches.
-= 那支队伍庆祝得忘乎所以，接下来四场全输。
-celebrate ebulliently = 兴高采烈地庆祝
-构词：ebullient 加 -ly
-
-eccentric
-核心：三支。一是（人、举止）古怪的、与众不同的：不带恶意，多少还有点欣赏；
-二是名词「怪人」；三是（技术）偏心的：不绕中心转的。
-副词 eccentrically，名词 eccentricity。
-① His eccentric habits are famous locally and harmless everywhere.
-= 他那些古怪习惯本地人尽皆知，放到哪儿都无伤大雅。
-eccentric habits = 古怪的习惯
-② She is a well-known eccentric who has never owned a telephone.
-= 她是当地有名的怪人，一辈子没有过电话。
-an eccentric = 怪人
-③ An eccentric wheel turns rotation into a push and a pull.
-= 偏心轮把旋转变成一推一拉。
-an eccentric wheel = 偏心轮
-
 eccentrically
 核心：古怪地、异乎常人地：说穿着打扮与行事方式。
 ① He dresses eccentrically and is the most conventional man in the office.
@@ -129,6 +84,12 @@ echo = 回荡
 ④ The report echoes what the union said three years ago.
 = 那份报告说的，正是工会三年前说过的话。
 echo something = 重复、附和某说法
+⑤ Online he lives in an echo chamber and calls it keeping informed.
+= 他在网上活在回音室里，还管这叫了解时事。
+an echo chamber = 回音室（只听得见同类意见的环境）
+⑥ The echo sounder found the wreck in an afternoon after forty years of guessing.
+= 猜了四十年，回声测深仪一个下午就找到了那条沉船。
+an echo sounder = 回声测深仪
 
 echocardiogram
 核心：超声心动图：用超声波拍出的心脏影像，看瓣膜开合与收缩情况。可数。
@@ -256,3 +217,50 @@ ecocide = 生态灭绝
 = 烧掉那片林子，三国政府称之为生态灭绝，另一国称之为意外。
 call something ecocide = 把某事称作生态灭绝
 构词：eco-（生态）加 -cide（杀）
+
+ecological
+核心：两支。一是生态的、生态学的：说跟生物与环境的关系有关；
+二是（做法、产品）对生态友好的。副词 ecologically。
+① The ecological cost of that road took thirty years to show up.
+= 那条路的生态代价，过了三十年才显出来。
+the ecological cost = 生态代价
+an ecological disaster = 生态灾难
+② An ecological approach starts with the whole valley and not with one field.
+= 生态学的路子是从整条山谷入手，而不是从一块地入手。
+an ecological approach = 生态学的思路
+③ Her ecological footprint halved when she gave up the car, not the meat.
+= 她的生态足迹减半，是因为不开车了，不是因为戒了肉。
+an ecological footprint = 生态足迹
+构词：ecology 的形容词
+
+ecologically
+核心：从生态上说、在生态方面：修饰整句或形容词，
+常见搭配是 ecologically sound、ecologically sensitive。
+① The scheme is ecologically sound and financially impossible.
+= 那个方案在生态上讲得通，在财务上办不到。
+ecologically sound = 生态上说得过去的
+② Ecologically, the wetland matters more than everything built around it.
+= 从生态上说，那片湿地比周围盖起来的一切都要紧。
+ecologically = 从生态上说
+构词：ecological 加 -ly
+
+ecologist
+核心：两支。一是生态学家：研究生物与环境关系的科学家；
+二是环保主义者：主张保护环境的人。可数。
+① The ecologist counted beetles for two summers before she drew any conclusion.
+= 那位生态学家数了两个夏天的甲虫，才下结论。
+an ecologist = 生态学家
+② Ecologists opposed the bridge and the fishermen ended up on their side.
+= 环保人士反对建那座桥，渔民最后站到了他们一边。
+ecologists = 环保主义者（复数）
+构词：ecology 加 -ist
+
+ecology
+核心：两支。一是生态学：研究生物与环境相互关系的学科，不可数；
+二是（某地的）生态：the ecology of the lake。
+① Ecology was a small subject until the word got into the newspapers.
+= 生态学本是个小学科，直到这个词进了报纸。
+ecology = 生态学
+② The ecology of that lake changed the year the mill closed.
+= 那座湖的生态，在工厂关掉那年就变了。
+the ecology of a place = 某地的生态

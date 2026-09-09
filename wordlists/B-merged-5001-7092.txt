@@ -39185,6 +39185,12 @@ echo = 回荡
 ④ The report echoes what the union said three years ago.
 = 那份报告说的，正是工会三年前说过的话。
 echo something = 重复、附和某说法
+⑤ Online he lives in an echo chamber and calls it keeping informed.
+= 他在网上活在回音室里，还管这叫了解时事。
+an echo chamber = 回音室（只听得见同类意见的环境）
+⑥ The echo sounder found the wreck in an afternoon after forty years of guessing.
+= 猜了四十年，回声测深仪一个下午就找到了那条沉船。
+an echo sounder = 回声测深仪
 
 echocardiogram
 核心：超声心动图：用超声波拍出的心脏影像，看瓣膜开合与收缩情况。可数。
@@ -39323,6 +39329,9 @@ an ecological disaster = 生态灾难
 ② An ecological approach starts with the whole valley and not with one field.
 = 生态学的路子是从整条山谷入手，而不是从一块地入手。
 an ecological approach = 生态学的思路
+③ Her ecological footprint halved when she gave up the car, not the meat.
+= 她的生态足迹减半，是因为不开车了，不是因为戒了肉。
+an ecological footprint = 生态足迹
 构词：ecology 的形容词
 
 ecologically
@@ -39371,6 +39380,9 @@ be economic = 划算、能维持得下去
 ③ Economic sanctions took two years to bite and then bit the wrong people.
 = 经济制裁两年才见效，见效时咬到的又是不该咬的人。
 economic sanctions = 经济制裁
+④ The same person is an economic migrant in one paper and a refugee in another.
+= 同一个人，这家报纸叫经济移民，那家报纸叫难民。
+an economic migrant = 经济移民
 注意别混：economic 是「经济方面的」，economical 是「省钱省料的」。
 
 economical
@@ -39451,6 +39463,9 @@ economies of scale = 规模经济
 ⑤ Buying the cheaper boots was a false economy and he bought them twice.
 = 买便宜靴子是省小钱赔大钱，他买了两回。
 a false economy = 省小钱赔大钱
+⑥ Economy class syndrome is a clot, not a mood, and it kills people.
+= 经济舱综合征是血栓，不是心情，而且真能要命。
+economy class syndrome = 经济舱综合征（久坐引发的深静脉血栓）
 
 ecosystem
 核心：两支。一是生态系统：一片地方的生物与环境构成的整体；
@@ -39589,3 +39604,45 @@ an ectopic pregnancy = 宫外孕
 = 异位组织几乎能长在任何地方，还照样按在原位时的规矩行事。
 ectopic tissue = 异位组织
 构词：ecto-（外）加 -topic（位置）
+
+ectoplasm
+核心：两支。一是（通灵说法）灵质：招魂会上据说从灵媒身上渗出的东西，
+如今多半出现在鬼故事与玩笑话里；二是（生物学）外质：细胞质靠外的那一层。不可数。
+① The photographs of ectoplasm turned out to be cheesecloth and a good camera angle.
+= 那些灵质照片，后来查明是粗棉布加一个好角度。
+ectoplasm = 灵质
+② In some single-celled organisms the ectoplasm is clearer than the layer inside it.
+= 在某些单细胞生物里，外质比里头那一层更透明。
+ectoplasm = （细胞的）外质
+构词：ecto-（外）加 -plasm（浆、质）
+
+ecumenical
+核心：普世教会的、跨教派的：说不同基督教派之间的合作与对话；
+引申指兼容并包、不分门派的。
+① An ecumenical service brought four congregations into one cold church.
+= 一场跨教派的礼拜，把四个会众聚进了一座冷冰冰的教堂。
+an ecumenical service = 跨教派的礼拜
+the ecumenical movement = 教派合一运动
+② His taste in argument is ecumenical: he will take on anybody.
+= 他辩论起来不分门派，谁都愿意接。
+ecumenical = 不分派别的
+
+ecumenism
+核心：普世教会运动、教派合一：主张各基督教派联合起来的思潮与实践。不可数。
+① Ecumenism made most progress in the years when the churches were emptying.
+= 教派合一运动进展最大的那些年头，正是教堂日渐空荡的时候。
+ecumenism = 普世教会运动
+the spirit of ecumenism = 教派合一的精神
+② Ecumenism means shared services here and shared buildings two counties away.
+= 在这里，教派合一是合办礼拜；到两个郡以外，就是合用教堂。
+构词：ecumenical 加 -ism
+
+eczema
+核心：湿疹：皮肤发红、发痒、起皮甚至渗液的一类慢性皮肤病，常有家族倾向。不可数。
+① Eczema flares in cold weather and settles again once the heating goes off.
+= 湿疹天冷就发，暖气一停又消停下去。
+eczema = 湿疹
+have eczema = 患湿疹
+② The cream treats the itch and does nothing about what triggers the eczema.
+= 那支药膏治痒，对诱发湿疹的东西一点办法没有。
+treat eczema = 治疗湿疹

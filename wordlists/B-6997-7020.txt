@@ -1,47 +1,3 @@
-earphones
-核心：耳机：戴在耳上或塞进耳里、供一个人听的小听筒，多用复数。
-比 headphones 通常小，跟 earbuds 差不多。
-① He left his earphones on the train and heard nothing all week.
-= 他把耳机落在火车上，整整一周什么也没听成。
-earphones = 耳机
-a pair of earphones = 一副耳机
-② The earphones came with the phone and outlasted it by two years.
-= 那副耳机是随手机附送的，比手机还多用了两年。
-wear earphones = 戴耳机
-构词：ear 加 phone
-
-earpiece
-核心：听筒的听音端、单耳耳机：电话、助听器、对讲设备上贴着耳朵的那一块，
-也指主持人、保安戴的那种单耳耳机。可数。
-① The presenter's earpiece kept slipping and the studio could hear him complain.
-= 主持人的耳机老往下掉，演播室里都听得见他抱怨。
-an earpiece = 单耳耳机
-② The earpiece on that old phone weighs more than a whole modern handset.
-= 那部旧电话的听筒，比现在一整只手机还沉。
-the earpiece = 听筒的听音端
-构词：ear 加 piece
-
-earplug
-核心：耳塞：塞进耳道挡噪音或挡水的小塞子，多用复数 earplugs。可数。
-① A pair of earplugs got him through four nights next to the main road.
-= 一副耳塞让他在大路边上熬过了四个晚上。
-a pair of earplugs = 一副耳塞
-② Swimmers use earplugs to keep the water out, not the noise.
-= 游泳的人戴耳塞是为了挡水，不是挡声音。
-wear earplugs = 戴耳塞
-构词：ear 加 plug
-
-earring
-核心：耳环、耳饰：戴在耳垂或耳廓上的饰物。可数，多成对说 a pair of earrings。
-① She wore one earring for a week before anybody said anything about it.
-= 她单戴了一只耳环，戴了一个星期才有人提。
-an earring = 一只耳环
-a pair of earrings = 一对耳环
-② The earring caught in her scarf and the hole took months to close up.
-= 耳环勾在围巾上，那个耳洞过了好几个月才长上。
-wear earrings = 戴耳环
-构词：ear 加 ring
-
 earset
 核心：挂耳式耳麦：挂在耳朵上、带一支小话筒的一体耳机，
 呼叫中心与舞台上常用。可数。
@@ -327,3 +283,60 @@ an easement = 地役权
 ② They bought the cottage without noticing the easement over the drive.
 = 他们买下那间小屋，没注意车道上还有一项地役权。
 an easement over something = 对某处的通行权
+
+easily
+核心：三支。一是容易地、不费劲地；二是（跟最高级、比较级连用）无疑、显然：
+easily the best；三是很可能：It could easily rain。
+① She easily lifted the box that two of them had refused to touch.
+= 她轻松抬起了那只两个人都不肯碰的箱子。
+easily = 轻而易举地
+② That is easily the best thing on the menu and it always sells out.
+= 那道菜无疑是菜单上最好的，也总是最先卖光。
+easily the best = 无疑最好的
+③ It could easily rain before we get the tent up.
+= 帐篷搭好之前很可能就下雨了。
+could easily = 很可能
+构词：easy 加 -ly，拼写 y 变 i
+
+easiness
+核心：两支。一是容易、不费力：说事情做起来不难这一点，不可数，用得少 ——
+多数场合会改说 how easy it was；二是（人与人之间的）自在随和。
+① The easiness of the first question fooled half the room.
+= 头一道题太容易，把半屋子人骗了。
+the easiness of something = 某事的容易
+② There was an easiness between them that eleven years apart had not touched.
+= 他们之间那份自在，分开十一年也没动摇。
+an easiness between people = 相处的自在随和
+构词：easy 加 -ness，拼写 y 变 i
+
+east
+核心：名词、形容词、副词三用：东、东方，太阳升起的那一边，跟 west 相对。
+名词说 the east，方位定语说 the east coast，副词说 travel east。
+大写的 the East 指东方国家，冷战语境里也指东欧。
+① The east coast gets the light first and the weather second.
+= 东海岸先得到阳光，然后才轮到天气。
+the east coast = 东海岸
+the east = 东方、东部
+② They drove east until the road ran out and then walked.
+= 他们一路向东开到路断了，然后步行。
+drive east = 向东开
+③ Trade between East and West went through that port for four centuries.
+= 东西方之间的贸易经那个港口走了四百年。
+the East = 东方（国家）
+④ The wind backed east-north-east and the ferry stayed in port.
+= 风转成东北偏东，渡轮就没出港。
+east-north-east = 东北偏东
+east-south-east = 东南偏东
+⑤ The east-west line carries twice the traffic of the other two.
+= 东西向那条线的客流是另外两条的两倍。
+east-west = 东西向的
+
+eastbound
+核心：向东行的：说车、船、航班或车道往东走。多作定语。
+① The eastbound carriageway was shut and everybody found the same back lane.
+= 东行车道封了，所有人都摸到了同一条小路。
+the eastbound carriageway = 东行车道
+② She caught the eastbound train by two seconds and stood the whole way.
+= 她差两秒赶上了东行列车，一路站到底。
+an eastbound train = 东行列车
+构词：east 加 bound（朝…去的）
