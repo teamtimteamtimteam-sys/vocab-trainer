@@ -1,16 +1,3 @@
-drool
-核心：两支。一是流口水：说婴儿、狗与睡着的人；
-二是引申的「垂涎、看得眼馋」——drool over something。
-不及物动词，也作不可数名词。
-① The dog drools whenever anybody opens the fridge and never gets anything.
-= 只要有人开冰箱，那条狗就流口水，也从来什么都没得着。
-drool = 流口水
-② They drooled over a car neither of them could ever have afforded.
-= 他们对着一辆两人都买不起的车看得眼馋。
-drool over something = 对某物垂涎
-构词：drivel 的变体
-注意语域：垂涎那一支带调侃，正式说 admire、covet。
-
 droop
 核心：耷拉下来：因为疲乏、缺水或没了支撑而下垂 ——
 说花、肩膀、眼皮、旗子。不及物为主，形容词 droopy。
@@ -650,3 +637,13 @@ mind-body dualism = 心物二元论
 = 琐罗亚斯德教的二元论让光明之神与黑暗之神一直斗到历史尽头。
 religious dualism = 宗教二元论
 构词：dual 加 -ism
+
+dualist
+核心：二元论者：主张二元论的人。可数；也作形容词，等于 dualistic。
+① He is a dualist and insists that no description of the brain will ever explain the mind.
+= 他是二元论者，坚持说再怎么描述大脑也解释不了心灵。
+a dualist = 二元论者
+② The dualist position lost ground the moment scans began to show intentions forming.
+= 脑扫描一开始能看见意图成形，二元论的立场就节节败退。
+the dualist position = 二元论立场
+构词：dual 加 -ist
