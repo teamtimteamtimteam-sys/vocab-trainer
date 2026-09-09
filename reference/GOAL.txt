@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-09） ═══
-B 词表 8031 条，词典序 a → eviction。义项 29630。
+B 词表 8074 条，词典序 a → example。义项 29767。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完：da 98%、de 97%、di 97%、do 96%、dr 94%、du 100%、dw 100%、dy 96%
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
@@ -19,7 +19,7 @@ B 词表 8031 条，词典序 a → eviction。义项 29630。
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
   B-merged-5001-7500.txt   2500 条   compatible → encroachment
-  B-merged-7501-8031.txt    531 条   encrustation → eviction
+  B-merged-7501-8074.txt    574 条   encrustation → example
 **每份固定 2500 条，满了自动顺延到下一份**（merge-wordlist.py B 2500 每次重切，
 并删掉上一轮的旧尾巴文件）。新词条现在落在第四份里。
 
@@ -137,8 +137,8 @@ ej- 与 ek- 收满，el- 段 98%（单列词与 28 个复合词并入都做完�
 em- 段 99%（单列词与 14 个复合词并入都做完了，只剩 emissions trading 待推迟）。
 en- 98%、eo- 100%、ep- 100%、eq- 95%、er- 97%、es- 95%、et- 100%
 （余下的都是待推迟）。
-eu- 100%，ev- 60%（写到 eviction）。
-**下一步：ev- 收尾**（evidence → evolve 还有 35 条），然后 ew-、ex- 段。
+eu- 100%、ev- 100%、ew- 100%，ex- 刚开头（清单 415 条，e 段最后一大块）。
+**下一步：ex- 段**（exasperate → exuberant 还有约 390 条，要写十几批）。
   · en- 第二批 audit-examples 报 enclose「偏薄」（额外实词 3.7 < 4）——
     办法是把例句改厚（加上「标着六月的文件夹」「横穿其上的老小路」这类承载词），
     不是去动那道下限。
