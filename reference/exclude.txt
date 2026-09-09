@@ -429,3 +429,7 @@ diglossia    # 双层语言现象，语言学术语（同 acrolect）
 diglossic    # 同上，形容词
 ditransitive # 双宾语的，语法术语
 dioptrics    # 屈光学，光学分支（dioptre 与 dioptric 保留，验光单上会遇到）
+
+# --- do- 段：窄专业术语（照 accelerando / abscissa 的先例）---
+dodecaphonic  # 十二音的，二十世纪作曲技法术语
+dolce         # 柔美地，乐谱上的意大利语表情记号（同 accelerando）

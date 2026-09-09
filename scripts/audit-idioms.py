@@ -216,6 +216,8 @@ CHECK = {
               'within walking distance', 'distance yourself from'],
  'divide': ['divide up', 'the great divide'],
  'divorce': ['get a divorce'],
+ 'doctor': ["doctor's orders"],
+ 'document': ['a legal document'],
  'do': ['do away with', 'do without', 'do up', 'do in', 'do over', 'do out of',
         'make do', 'have to do with', 'nothing doing', 'that will do',
         'do the trick', 'do or die', 'how do you do', 'do a runner',
