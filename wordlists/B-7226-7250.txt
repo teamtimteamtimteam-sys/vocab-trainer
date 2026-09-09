@@ -118,6 +118,13 @@ electoral reform = 选举改革
 ② Electoral law says nothing at all about that kind of advertisement.
 = 选举法对那类广告只字未提。
 electoral law = 选举法
+③ The electoral college can pick the candidate who came second in votes.
+= 选举人团有可能选出票数居次的那位候选人。
+the electoral college = 选举人团
+④ Your name has to be on the electoral register four weeks before polling day.
+= 名字得在投票日前四周就上到选民登记册上。
+the electoral register = 选民登记册
+an electoral vote = 选举人票
 
 electorally
 核心：在选举上、从选票上看：修饰整句或形容词，
@@ -153,6 +160,28 @@ be electric = 气氛紧张而热烈
 ③ Electric cars are quiet enough that the law now requires a noise.
 = 电动车安静到法律如今要求它们发出声响。
 an electric car = 电动汽车
+an electric bike = 电动自行车
+④ The electric blanket goes on at nine and off before anyone gets into bed.
+= 电热毯九点打开，还没人上床就关掉。
+an electric blanket = 电热毯
+⑤ She painted the shed electric blue and the whole lane talks about it.
+= 她把那间棚子刷成亮蓝色，整条巷子都在议论。
+electric blue = 亮蓝色
+⑥ Two states retired the electric chair in the same year.
+= 有两个州在同一年停用了电椅。
+the electric chair = 电椅
+⑦ An electric eel stuns its prey and its own jaw at the same time.
+= 电鳗放电既击晕猎物，也震到自己的下颌。
+an electric eel = 电鳗
+⑧ The electric fence keeps the cattle in and teaches the dog once.
+= 那道电围栏把牛拦住，也让狗一次就学乖。
+an electric fence = 电围栏
+⑨ He shaves with an electric razor on the train and nobody objects.
+= 他在火车上用电动剃须刀刮胡子，也没人说什么。
+an electric razor = 电动剃须刀
+⑩ The electric shock threw him across the room and left one small mark.
+= 那下电击把他弹到屋子那头，只留下一个小印子。
+an electric shock = 电击
 
 electrical
 核心：与电有关的：说系统、设备、行业与专业。
@@ -164,6 +193,9 @@ electrical equipment = 电气设备
 ② She read electrical engineering and now works in insurance.
 = 她读的是电气工程，如今做保险。
 electrical engineering = 电气工程
+③ An electrical storm took out the power and left the phones working.
+= 一场雷暴把电断了，电话倒还通着。
+an electrical storm = 雷暴
 
 electrically
 核心：用电地、靠电力地：说驱动或操作的方式。

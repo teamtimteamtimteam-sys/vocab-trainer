@@ -41068,6 +41068,9 @@ elastic = 松紧带
 ③ His definition of 'nearby' is elastic enough to include another county.
 = 他说的「附近」宽泛到能把邻郡算进去。
 an elastic definition = 有伸缩余地的定义
+④ An elastic band holds the deck together and perishes within a year.
+= 一根橡皮筋把那副牌箍着，一年不到就老化断掉。
+an elastic band = 橡皮筋（英式）
 
 elasticated
 核心：（英式）装了松紧带的：说腰、袖口、裤脚缝了松紧。美式多说 elasticized。
@@ -41165,6 +41168,12 @@ village elders = 村中长者
 ③ The elder by the gate flowers in June and feeds every bird in August.
 = 门边那棵接骨木六月开花，八月喂饱所有的鸟。
 an elder = 接骨木
+④ Elder abuse is under-reported because the person reporting it usually lives there.
+= 虐待老人的事很少被举报，因为能举报的人多半就住在那家里。
+elder abuse = 虐待老人
+⑤ The elder statesman was wheeled out for one paragraph and a photograph.
+= 那位政坛元老被请出来，就为了一段话和一张照片。
+an elder statesman = 政坛元老
 
 elderberry
 核心：接骨木果：接骨木上一串串的小黑果，多拿来做酒、糖浆与果酱；
@@ -41314,6 +41323,13 @@ electoral reform = 选举改革
 ② Electoral law says nothing at all about that kind of advertisement.
 = 选举法对那类广告只字未提。
 electoral law = 选举法
+③ The electoral college can pick the candidate who came second in votes.
+= 选举人团有可能选出票数居次的那位候选人。
+the electoral college = 选举人团
+④ Your name has to be on the electoral register four weeks before polling day.
+= 名字得在投票日前四周就上到选民登记册上。
+the electoral register = 选民登记册
+an electoral vote = 选举人票
 
 electorally
 核心：在选举上、从选票上看：修饰整句或形容词，
@@ -41349,6 +41365,28 @@ be electric = 气氛紧张而热烈
 ③ Electric cars are quiet enough that the law now requires a noise.
 = 电动车安静到法律如今要求它们发出声响。
 an electric car = 电动汽车
+an electric bike = 电动自行车
+④ The electric blanket goes on at nine and off before anyone gets into bed.
+= 电热毯九点打开，还没人上床就关掉。
+an electric blanket = 电热毯
+⑤ She painted the shed electric blue and the whole lane talks about it.
+= 她把那间棚子刷成亮蓝色，整条巷子都在议论。
+electric blue = 亮蓝色
+⑥ Two states retired the electric chair in the same year.
+= 有两个州在同一年停用了电椅。
+the electric chair = 电椅
+⑦ An electric eel stuns its prey and its own jaw at the same time.
+= 电鳗放电既击晕猎物，也震到自己的下颌。
+an electric eel = 电鳗
+⑧ The electric fence keeps the cattle in and teaches the dog once.
+= 那道电围栏把牛拦住，也让狗一次就学乖。
+an electric fence = 电围栏
+⑨ He shaves with an electric razor on the train and nobody objects.
+= 他在火车上用电动剃须刀刮胡子，也没人说什么。
+an electric razor = 电动剃须刀
+⑩ The electric shock threw him across the room and left one small mark.
+= 那下电击把他弹到屋子那头，只留下一个小印子。
+an electric shock = 电击
 
 electrical
 核心：与电有关的：说系统、设备、行业与专业。
@@ -41360,6 +41398,9 @@ electrical equipment = 电气设备
 ② She read electrical engineering and now works in insurance.
 = 她读的是电气工程，如今做保险。
 electrical engineering = 电气工程
+③ An electrical storm took out the power and left the phones working.
+= 一场雷暴把电断了，电话倒还通着。
+an electrical storm = 雷暴
 
 electrically
 核心：用电地、靠电力地：说驱动或操作的方式。
@@ -41569,6 +41610,9 @@ free electrons = 自由电子
 ③ An electron microscope shows the surface as a landscape of ridges and pits.
 = 电子显微镜把那个表面显示成一片起伏的脊与坑。
 an electron microscope = 电子显微镜
+④ The electron gun at the back of the old screen fired at thirty thousand volts.
+= 老式显像管后面的电子枪，在三万伏下打出电子。
+an electron gun = 电子枪
 
 electronic
 核心：三支。一是电子的（设备）：靠芯片与电路工作的；
@@ -41584,6 +41628,21 @@ electronic payment = 电子支付
 ③ Electronic music filled a hall that was built for a pipe organ.
 = 电子音乐灌满了一座本为管风琴而建的厅堂。
 electronic music = 电子音乐
+④ He switched to an electronic cigarette and kept the same routine round it.
+= 他改抽电子烟，围着它的那套习惯一点没变。
+an electronic cigarette = 电子烟
+⑤ Electronic mail replaced the memo and doubled the number of memos.
+= 电子邮件取代了便笺，便笺的数量却翻了一倍。
+electronic mail = 电子邮件
+⑥ Electronic publishing costs nothing to print and everything to be noticed.
+= 电子出版印刷不花钱，让人看见才花钱。
+electronic publishing = 电子出版
+⑦ An electronic signature is accepted on that form and a scan of one is not.
+= 那张表接受电子签名，扫描件却不认。
+an electronic signature = 电子签名
+⑧ Electronic tagging let him keep his job and cost him every evening.
+= 电子脚镣让他保住了工作，也搭上了每一个晚上。
+electronic tagging = 电子监控（戴脚镣定位）
 
 electronically
 核心：以电子方式：说提交、支付、储存、控制通过电子系统来做。
@@ -41663,6 +41722,9 @@ elegiac = 哀婉怀旧的
 ② An elegiac tone crept into the interviews once the mill closed.
 = 工厂一关，那些访谈里就带上了挽歌的调子。
 an elegiac tone = 哀婉的调子
+③ An elegiac couplet is one long line followed by a slightly shorter one.
+= 挽歌双行体是一长行接一稍短的行。
+an elegiac couplet = 挽歌双行体
 
 elegy
 核心：挽歌、哀歌：悼念死者或追怀逝去之物的诗文与乐曲。可数，复数 elegies。
@@ -41718,6 +41780,9 @@ an elementary mistake = 低级错误
 ③ Elementary school ends at eleven in that state and at ten in the next one.
 = 那个州的小学读到十一岁，隔壁州读到十岁。
 elementary school = 小学（美式）
+④ An elementary particle is one that nothing smaller has been found inside.
+= 基本粒子就是至今没在里头找出更小东西的那种粒子。
+an elementary particle = 基本粒子
 
 elephant
 核心：象：陆地上最大的动物，分非洲象与亚洲象；鼻子叫 trunk，象牙叫 tusks。可数。
@@ -41733,6 +41798,15 @@ a white elephant = 花钱多又没用的东西
 ③ Nobody mentioned the debt, which was the elephant in the room.
 = 谁也没提那笔债，那正是屋里人人装看不见的那头象。
 the elephant in the room = 人人回避的大问题
+④ Elephant grass grows three metres in a season and burns well when dry.
+= 象草一季长三米，晒干了很好烧。
+elephant grass = 象草
+⑤ An elephant seal holds its breath for two hours and sleeps on the way down.
+= 象海豹能屏息两个钟头，下潜途中还睡上一觉。
+an elephant seal = 象海豹
+⑥ The building is elephantine and the doorway takes one person at a time.
+= 那栋楼笨重庞大，门口一次只过得去一个人。
+elephantine = 笨重庞大的
 
 elephantiasis
 核心：象皮病：淋巴管被寄生虫堵塞造成肢体或阴囊极度肿大增厚，
@@ -41816,6 +41890,9 @@ eleven = 十一
 ② He played for the school eleven and never scored in three seasons.
 = 他给校队踢球，三个赛季一个球没进。
 the school eleven = 校队（十一人制）
+③ The eleven-plus decided which school you went to and stayed with people for life.
+= 十一岁升学考试定了你上哪所学校，这事跟人一辈子。
+the eleven-plus = 十一岁升中学考试（英式）
 
 elevenses
 核心：（英式口语）上午茶点：上午十一点前后那顿茶加饼干的小歇。
@@ -41936,6 +42013,9 @@ a process of elimination = 排除法
 ③ Elimination on goal difference is the cruellest way to go out.
 = 因净胜球被淘汰，是最残酷的出局方式。
 elimination = 淘汰出局
+④ An elimination reaction takes two groups off and puts a double bond in.
+= 消除反应脱掉两个基团，留下一个双键。
+an elimination reaction = 消除反应
 
 elision
 核心：两支。一是省音：说话时把音省掉，如把 and 说成 'n'；
