@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 6724 条，词典序 a → drop。义项 26360。
+B 词表 6742 条，词典序 a → drop。义项 26403。
   a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 44%（da- 226/229、de- 932/959、di- 836/859）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-6724.txt   1724 条   compatible → drop
+  B-merged-5001-6742.txt   1742 条   compatible → drop
   （第三份满 2500 条时会自动切出第四份，merge-wordlist 会顺手删掉旧尾巴）
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
@@ -119,7 +119,14 @@ diminuendo、divertimento、diglossia、diglossic、ditransitive、dioptrics，
 同 accelerando）。
 第一批 doable → dogma（24 条）、第二批 doh → domino（23 条，含 dog 一族
 十六条并入 9 个义项、另立 dolorous）已写完。do- 段 28 → 181 条（45%）。第三批 don → dossier（26 条）、第四批 dot → download（23 条）已写完。
-do- 段 226/395（57%）。**下一批从 downmarket 起**（down- 一族还有二十多条）。
+第五批 dominatrix → dozy（18 条）已写完，do- 段的待新写清零 ——
+剩下的全是待并入（down- 与 double- 两族的复合词占大头）。
+**下一步：do- 的并入 pass**。
+  · check-wordlist 新加了一道「草稿行」检查：写到一半改主意、把弃用的
+    半截例句连同一句 Hmm 一起 append 进文件，2026-09-08 与 09-09 连着犯了
+    三次（dildo、distal、dominatrix）。三次都是靠「例句缺少译文」间接报出来的，
+    报错文字指不到真正的原因。现在直接认 Hmm／TODO／FIXME 这类标记，
+    加完当场验过：塞一行 Hmm 进去，它报「混进了草稿行」。
   · 第四批踩到一个新坑：**我把已经有词条的 down 又写了一遍**。
     check-merged 报「合并文件里重复了词条：down（2 次）」——
     这是第十道闸门头一回逮到重复词头。已删掉新写的那条，把原条没有的

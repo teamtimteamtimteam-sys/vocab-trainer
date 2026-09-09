@@ -71,6 +71,16 @@ def parse(path):
         odd = sorted(set(c for l in (t for _, t in b['lines']) for c in l if not allowed.match(c)))
         if odd:
             e['issues'].append("混入异体字符：" + " ".join("%s(U+%04X)" % (c, ord(c)) for c in odd[:6]))
+        # 写到一半改主意留下的草稿行 —— 2026-09-08 与 09-09 连着三次
+        # 把弃用的半截例句连同一句「Hmm」一起 append 进了文件（dildo、distal、
+        # dominatrix）。三次都是靠「例句缺少译文」间接报出来的，报错文字
+        # 指不到真正的原因。这里直接认这些标记，让它一眼就说清是怎么回事。
+        DRAFT = ('Hmm', 'hmm', 'TODO', 'todo', 'FIXME', '待改', '草稿')
+        for _, t in b['lines']:
+            ts = t.strip()
+            if ts in DRAFT or ts.startswith('Hmm ') or ts.startswith('Hmm，'):
+                e['issues'].append("混进了草稿行：%s" % ts[:20])
+                break
         if not e['senses']: e['issues'].append("没有 ①②③ 例句")
         # B 词表按牛津高阶收全部义项，每条必须有一段总括的「核心：」讲解，
         # 否则几十个义项堆在一起没有主线，学的人抓不住这个词到底是什么。

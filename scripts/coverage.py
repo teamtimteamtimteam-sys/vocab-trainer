@@ -253,7 +253,12 @@ SPELLING_ROOT = {'cosiness': 'cosy', 'coziness': 'cozy',
                  # 前四个字母对不上 —— dining 之于 dine、diving 之于 dive、
                  # ditz 与 ditzy 之于 ditsy。都已在对应词条里配了例句。
                  'dining': 'dine', 'diving': 'dive',
-                 'ditz': 'ditsy', 'ditzy': 'ditsy'}
+                 'ditz': 'ditsy', 'ditzy': 'ditsy',
+                 # do- 段的五条（2026-09-09）：donor 之于 donate（dono／dona）、
+                 # doping 之于 dope、dote 与 doting 之于 dotage、dovish 之于 dove。
+                 # 都已在对应词条里配了例句与等式。
+                 'donor': 'donate', 'doping': 'dope',
+                 'dote': 'dotage', 'doting': 'dotage', 'dovish': 'dove'}
 
 def _load_inflections():
     """动词变形 → 原形。用户 2026-09-05 裁定：变形不单独立条，并进原形，
