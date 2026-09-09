@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 6701 条，词典序 a → drop。义项 26281。
+B 词表 6724 条，词典序 a → drop。义项 26360。
   a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 44%（da- 226/229、de- 932/959、di- 836/859）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-6701.txt   1701 条   compatible → drop
+  B-merged-5001-6724.txt   1724 条   compatible → drop
   （第三份满 2500 条时会自动切出第四份，merge-wordlist 会顺手删掉旧尾巴）
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
@@ -118,9 +118,13 @@ diminuendo、divertimento、diglossia、diglossic、ditransitive、dioptrics，
 所以不必再为它单开一批。清单先剔了 2 条：dodecaphonic 与 dolce（乐理术语，
 同 accelerando）。
 第一批 doable → dogma（24 条）、第二批 doh → domino（23 条，含 dog 一族
-十六条并入 9 个义项、另立 dolorous）已写完。do- 段 28 → 181 条（45%）。第三批 don → dossier（26 条，door 一族十四条
-并进 door 条）已写完。**下一批从 dot 起**（double、doubt、down 都是大词，
-它们的习语清单 CHECK 里早已备好）。
+十六条并入 9 个义项、另立 dolorous）已写完。do- 段 28 → 181 条（45%）。第三批 don → dossier（26 条）、第四批 dot → download（23 条）已写完。
+do- 段 226/395（57%）。**下一批从 downmarket 起**（down- 一族还有二十多条）。
+  · 第四批踩到一个新坑：**我把已经有词条的 down 又写了一遍**。
+    check-merged 报「合并文件里重复了词条：down（2 次）」——
+    这是第十道闸门头一回逮到重复词头。已删掉新写的那条，把原条没有的
+    down the line 与 a down jacket 两个义项补进原条。
+    **写之前先 grep 一下词头在不在**，尤其是 do、down 这类早年就收过的常用词。
   · coverage 的 SPELLING_ROOT 又补四条：dining → dine、diving → dive、
     ditz 与 ditzy → ditsy（动名词与截短形跟词头前四字母对不上）。
 （dilemma、dilute、dim、dimension、diminish、dinner、dip、dire、direct 一带，

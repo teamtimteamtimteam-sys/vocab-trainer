@@ -221,6 +221,7 @@ CHECK = {
  'dole': ['on the dole'],
  'doll': ['dolled up'],
  'domain': ['in the public domain'],
+ 'dot': ['on the dot', "dot the i's"],
  'do': ['do away with', 'do without', 'do up', 'do in', 'do over', 'do out of',
         'make do', 'have to do with', 'nothing doing', 'that will do',
         'do the trick', 'do or die', 'how do you do', 'do a runner',
