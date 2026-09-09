@@ -1,3 +1,39 @@
+duster
+核心：两支。一是抹布、掸子：擦灰用的布或掸子，a feather duster 是鸡毛掸；
+二是（美式）防尘长外套：旧时骑马赶路穿的长罩衣。可数。
+① She keeps a duster in the drawer and goes round the picture frames every Sunday.
+= 她抽屉里放着块抹布，每个周日把画框挨个擦一遍。
+a duster = 抹布、掸子
+a feather duster = 鸡毛掸子
+② He wore a long duster against the dust of the road and looked like a film extra.
+= 他穿件长防尘外套挡路上的土，看着像个电影群演。
+a duster = 防尘长外套（美式）
+构词：dust 加 -er
+
+dustman
+核心：（英式）收垃圾的工人、清洁工：沿街收垃圾桶的人，
+美式说 garbage collector。可数，复数 dustmen。
+① The dustmen come at six and the whole street hears the lids go down.
+= 清洁工六点就来，桶盖砸下去的声音整条街都听得见。
+a dustman = 收垃圾的工人
+the dustmen = 清洁工（复数）
+② He worked as a dustman for two winters and never took a day off.
+= 他当了两个冬天的清洁工，一天假也没请过。
+work as a dustman = 做清洁工
+构词：dust 加 man
+
+dustpan
+核心：簸箕：跟小扫帚配套、把扫拢的灰土铲起来的浅盘。可数。
+英式的一整套叫 a dustpan and brush。
+① She swept the broken glass into a dustpan and carried it out at arm's length.
+= 她把碎玻璃扫进簸箕，伸直胳膊端了出去。
+a dustpan = 簸箕
+sweep something into a dustpan = 把某物扫进簸箕
+② The cupboard holds a mop, a bucket and a dustpan and brush.
+= 柜子里放着拖把、水桶，还有一副簸箕带小刷子。
+a dustpan and brush = 簸箕和小刷子（英式一套）
+构词：dust 加 pan
+
 dusty
 核心：三支。一是布满灰尘的：a dusty shelf；二是（颜色）发灰的：dusty pink；
 三是（英式口语）not so dusty，「还不赖」。比较级 dustier。
@@ -303,43 +339,3 @@ build a dyke = 筑堤
 = 田里的水排进一条沿路走的水渠。
 a dyke = 排水渠（英式）
 注意语域：第三支历来是侮辱语，圈内有人自称，别人不要用。
-
-dynamic
-核心：形容词三支、名词两支。形容词一是（人）有干劲的、充满活力的；
-二是（事物）动态的、一直在变的；三是（技术）动力的。
-名词一是 a dynamic，指推动局面的那种互动关系与力量对比；
-二是复数 dynamics，动力学，也指一群人之间的互动。副词 dynamically。
-① A dynamic head of department changed the whole timetable in her first week.
-= 一位有干劲的系主任头一周就把整张课表改了。
-a dynamic person = 有干劲的人
-② The market is dynamic enough that last month's figures explain nothing.
-= 那个市场变得够快，上个月的数字什么也说明不了。
-dynamic = 动态的、不断变化的
-③ The dynamic between the two of them changed the moment money came in.
-= 钱一进来，他们两人之间那种关系格局就变了。
-the dynamic between people = 人与人之间的互动格局
-④ Group dynamics decide more meetings than the agenda does.
-= 决定会议走向的，群体互动往往多过议程本身。
-group dynamics = 群体互动
-fluid dynamics = 流体力学
-
-dynamically
-核心：动态地、随情况变化地：多用于技术语境，说按需自动调整；
-也说人做事充满干劲地。
-① The page loads a skeleton first and fills the table dynamically.
-= 页面先加载框架，再动态地把表格填上。
-load something dynamically = 动态加载某物
-② Prices are set dynamically and two people on one flight rarely pay the same.
-= 价格是动态定的，同一趟航班上很少有两个人付一样的钱。
-be set dynamically = 动态定价
-构词：dynamic 加 -ally
-
-dynamism
-核心：活力、干劲：说人或组织有推动力、势头足。不可数。
-① The dynamism of that department survived two reorganisations and one bad year.
-= 那个部门的活力熬过了两次重组和一个惨淡的年头。
-dynamism = 活力、干劲
-② Investors talk about dynamism and then ask for three years of steady figures.
-= 投资人嘴上讲活力，转头就要三年平稳的数字。
-economic dynamism = 经济活力
-构词：dynamic 加 -ism

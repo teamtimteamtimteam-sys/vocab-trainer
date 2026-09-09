@@ -1,3 +1,50 @@
+dystrophy
+核心：营养不良性病变、萎缩症：组织（尤其肌肉）逐渐退化的一类疾病，
+最常见的是 muscular dystrophy 肌营养不良。不可数。
+① Muscular dystrophy weakens the largest muscles first and is often diagnosed at four.
+= 肌营养不良先削弱最大的那些肌肉，确诊多在四岁上下。
+muscular dystrophy = 肌营养不良
+② Corneal dystrophy clouds the eye slowly and runs in families.
+= 角膜营养不良让眼睛慢慢变浑，而且有家族性。
+corneal dystrophy = 角膜营养不良
+myotonic dystrophy = 强直性肌营养不良
+
+each
+核心：限定词、代词、副词三用。指两个或两个以上里的每一个，
+着眼点是「一个一个地看」，跟 every 那种「整体上的全部」有别。
+后面接单数名词与单数动词；作代词说 each of them；副词用法放句尾。
+习语 each and every one 是加重语气的「每一个」；each other 是彼此（另立条）。
+① Each child was given a pencil and a sheet with their own name on it.
+= 每个孩子拿到一支铅笔，和一张写着自己名字的纸。
+each child = 每个孩子
+② Each of the three reports says something the other two leave out.
+= 三份报告各说了另外两份漏掉的东西。
+each of them = 他们当中的每一个
+③ The chairs cost forty pounds each and arrived in one enormous box.
+= 那些椅子每把四十镑，装在一只巨大的箱子里送来。
+cost forty pounds each = 每把四十镑
+④ Each and every one of those files has to be checked before Friday.
+= 那些文件每一份都得在周五之前查过。
+each and every one = 每一个（加重语气）
+⑤ The two of them wrote to each other every week for thirty years.
+= 他们俩三十年里每周给对方写一封信。
+each other = 彼此、互相
+注意别混：each 一个个地看，every 是整体上的全部，两者后面都跟单数。
+
+eager
+核心：热切的、急切想做某事的：说人劲头足、等不及 ——
+搭 be eager to do something 与 be eager for something。
+名词 eagerness，副词 eagerly。习语 an eager beaver 是干劲过头的人。
+① She was eager to start and had read the whole file before the meeting.
+= 她急着想开工，开会前就把整份卷宗读完了。
+be eager to do something = 急切想做某事
+② The children were eager for news and asked the same question all afternoon.
+= 孩子们急着想知道消息，整个下午问的都是同一个问题。
+be eager for something = 渴望得到某物
+③ He is an eager beaver who answers emails nobody sent to him.
+= 他是个干劲过头的人，没发给他的邮件他也回。
+an eager beaver = 干劲过头的人
+
 eagerly
 核心：热切地、急切地：多修饰等待、接过、答应这一类动作。
 最常见的固定搭配是 eagerly awaited。
@@ -280,37 +327,3 @@ earnestly hope = 真心希望
 = 她恳切地问那笔钱究竟到没到学校。
 ask earnestly = 恳切地问
 构词：earnest 加 -ly
-
-earnestness
-核心：认真、恳切：那种一本正经、当真去做的态度。不可数。
-① The earnestness of the letter made it impossible to answer briefly.
-= 那封信写得那么恳切，没法三言两语回掉。
-the earnestness of something = 某物的恳切
-② His earnestness is why people trust him and why parties tire him out.
-= 他那份认真，既是别人信他的缘由，也是聚会让他累的缘由。
-earnestness = 认真、恳切
-构词：earnest 加 -ness
-
-earnings
-核心：两支。一是（个人的）收入、工资所得；二是（公司的）盈利：
-earnings per share 是每股收益。永远用复数。
-① Average earnings rose four per cent and rents rose rather more.
-= 平均收入涨了百分之四，房租涨得更多些。
-average earnings = 平均收入
-earnings = 收入、工资所得
-② The company reports earnings on Thursday and everyone has guessed already.
-= 公司周四公布盈利，可谁都已经猜到了。
-earnings per share = 每股收益
-构词：earn 加 -ings
-
-earphones
-核心：耳机：戴在耳上或塞进耳里、供一个人听的小听筒，多用复数。
-比 headphones 通常小，跟 earbuds 差不多。
-① He left his earphones on the train and heard nothing all week.
-= 他把耳机落在火车上，整整一周什么也没听成。
-earphones = 耳机
-a pair of earphones = 一副耳机
-② The earphones came with the phone and outlasted it by two years.
-= 那副耳机是随手机附送的，比手机还多用了两年。
-wear earphones = 戴耳机
-构词：ear 加 phone

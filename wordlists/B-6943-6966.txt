@@ -1,3 +1,43 @@
+dynamic
+核心：形容词三支、名词两支。形容词一是（人）有干劲的、充满活力的；
+二是（事物）动态的、一直在变的；三是（技术）动力的。
+名词一是 a dynamic，指推动局面的那种互动关系与力量对比；
+二是复数 dynamics，动力学，也指一群人之间的互动。副词 dynamically。
+① A dynamic head of department changed the whole timetable in her first week.
+= 一位有干劲的系主任头一周就把整张课表改了。
+a dynamic person = 有干劲的人
+② The market is dynamic enough that last month's figures explain nothing.
+= 那个市场变得够快，上个月的数字什么也说明不了。
+dynamic = 动态的、不断变化的
+③ The dynamic between the two of them changed the moment money came in.
+= 钱一进来，他们两人之间那种关系格局就变了。
+the dynamic between people = 人与人之间的互动格局
+④ Group dynamics decide more meetings than the agenda does.
+= 决定会议走向的，群体互动往往多过议程本身。
+group dynamics = 群体互动
+fluid dynamics = 流体力学
+
+dynamically
+核心：动态地、随情况变化地：多用于技术语境，说按需自动调整；
+也说人做事充满干劲地。
+① The page loads a skeleton first and fills the table dynamically.
+= 页面先加载框架，再动态地把表格填上。
+load something dynamically = 动态加载某物
+② Prices are set dynamically and two people on one flight rarely pay the same.
+= 价格是动态定的，同一趟航班上很少有两个人付一样的钱。
+be set dynamically = 动态定价
+构词：dynamic 加 -ally
+
+dynamism
+核心：活力、干劲：说人或组织有推动力、势头足。不可数。
+① The dynamism of that department survived two reorganisations and one bad year.
+= 那个部门的活力熬过了两次重组和一个惨淡的年头。
+dynamism = 活力、干劲
+② Investors talk about dynamism and then ask for three years of steady figures.
+= 投资人嘴上讲活力，转头就要三年平稳的数字。
+economic dynamism = 经济活力
+构词：dynamic 加 -ism
+
 dynamite
 核心：三支。一是炸药：硝化甘油制的烈性炸药，做成条状；
 二是比喻极危险或极有爆炸性的东西；三是（美式口语，旧）棒极了。
@@ -232,50 +272,3 @@ a dystopian film = 反乌托邦电影
 = 规划者讨厌那套反乌托邦的说辞，可缺钱的时候照样拿来用。
 dystopian = 反乌托邦式的
 构词：dystopia 加 -n
-
-dystrophy
-核心：营养不良性病变、萎缩症：组织（尤其肌肉）逐渐退化的一类疾病，
-最常见的是 muscular dystrophy 肌营养不良。不可数。
-① Muscular dystrophy weakens the largest muscles first and is often diagnosed at four.
-= 肌营养不良先削弱最大的那些肌肉，确诊多在四岁上下。
-muscular dystrophy = 肌营养不良
-② Corneal dystrophy clouds the eye slowly and runs in families.
-= 角膜营养不良让眼睛慢慢变浑，而且有家族性。
-corneal dystrophy = 角膜营养不良
-myotonic dystrophy = 强直性肌营养不良
-
-each
-核心：限定词、代词、副词三用。指两个或两个以上里的每一个，
-着眼点是「一个一个地看」，跟 every 那种「整体上的全部」有别。
-后面接单数名词与单数动词；作代词说 each of them；副词用法放句尾。
-习语 each and every one 是加重语气的「每一个」；each other 是彼此（另立条）。
-① Each child was given a pencil and a sheet with their own name on it.
-= 每个孩子拿到一支铅笔，和一张写着自己名字的纸。
-each child = 每个孩子
-② Each of the three reports says something the other two leave out.
-= 三份报告各说了另外两份漏掉的东西。
-each of them = 他们当中的每一个
-③ The chairs cost forty pounds each and arrived in one enormous box.
-= 那些椅子每把四十镑，装在一只巨大的箱子里送来。
-cost forty pounds each = 每把四十镑
-④ Each and every one of those files has to be checked before Friday.
-= 那些文件每一份都得在周五之前查过。
-each and every one = 每一个（加重语气）
-⑤ The two of them wrote to each other every week for thirty years.
-= 他们俩三十年里每周给对方写一封信。
-each other = 彼此、互相
-注意别混：each 一个个地看，every 是整体上的全部，两者后面都跟单数。
-
-eager
-核心：热切的、急切想做某事的：说人劲头足、等不及 ——
-搭 be eager to do something 与 be eager for something。
-名词 eagerness，副词 eagerly。习语 an eager beaver 是干劲过头的人。
-① She was eager to start and had read the whole file before the meeting.
-= 她急着想开工，开会前就把整份卷宗读完了。
-be eager to do something = 急切想做某事
-② The children were eager for news and asked the same question all afternoon.
-= 孩子们急着想知道消息，整个下午问的都是同一个问题。
-be eager for something = 渴望得到某物
-③ He is an eager beaver who answers emails nobody sent to him.
-= 他是个干劲过头的人，没发给他的邮件他也回。
-an eager beaver = 干劲过头的人
