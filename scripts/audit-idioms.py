@@ -25,6 +25,12 @@ def fold(s):
 
 CHECK = {
  'each': ['each and every'],
+ 'elbow': ['elbow room', 'elbow grease', 'rub elbows with', 'give somebody the elbow',
+           'elbow your way'],
+ 'element': ['in your element', 'brave the elements', 'the elements'],
+ 'else': ['or else', 'something else', 'somebody else'],
+ 'elephant': ['a white elephant', 'the elephant in the room'],
+ 'eleventh': ['at the eleventh hour'],
  'effect': ['take effect', 'come into effect', 'in effect', 'to that effect',
             'put something into effect'],
  'egg': ['put all your eggs in one basket', 'a bad egg', 'have egg on your face',
