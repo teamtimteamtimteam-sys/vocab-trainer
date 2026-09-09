@@ -25,6 +25,10 @@ def fold(s):
 
 CHECK = {
  'each': ['each and every'],
+ 'embarrassment': ['an embarrassment of riches'],
+ 'emergency': ['in an emergency', 'a state of emergency'],
+ 'emphasis': ['put emphasis on', 'the emphasis is on'],
+ 'empty': ['on an empty stomach'],
  'elbow': ['elbow room', 'elbow grease', 'rub elbows with', 'give somebody the elbow',
            'elbow your way'],
  'element': ['in your element', 'brave the elements', 'the elements'],

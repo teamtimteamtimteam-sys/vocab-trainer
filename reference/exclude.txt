@@ -456,3 +456,4 @@ eina         # 南非英语感叹词，「哎哟」
 eish         # 南非英语感叹词，表惊讶或无奈
 ekdam        # 印度英语，「完全、彻底」
 ekka         # 印度英语，单马拉的小车
+emerg        # 加拿大英语，指急诊科（emergency department）的口语简称
