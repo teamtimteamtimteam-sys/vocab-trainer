@@ -41815,6 +41815,10 @@ recharge one's batteries = 恢复精力
 = 笼养养殖把母鸡关在笼里，这里二零一二年已禁止。
 battery farming = 笼养（集约化养殖）
 battery farm = 笼养农场
+⑨ A dry battery is the kind you throw away and the rechargeable one is not.
+= 干电池是用完就扔的那种，充电电池不是。
+a dry battery = 干电池
+跟可充电的 rechargeable battery 相对。
 
 battle
 核心：底层是"两方交手"。军事上是一场具体的战斗——比 war 小，

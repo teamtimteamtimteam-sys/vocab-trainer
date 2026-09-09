@@ -258,7 +258,11 @@ SPELLING_ROOT = {'cosiness': 'cosy', 'coziness': 'cozy',
                  # doping 之于 dope、dote 与 doting 之于 dotage、dovish 之于 dove。
                  # 都已在对应词条里配了例句与等式。
                  'donor': 'donate', 'doping': 'dope',
-                 'dote': 'dotage', 'doting': 'dotage', 'dovish': 'dove'}
+                 'dote': 'dotage', 'doting': 'dotage', 'dovish': 'dove',
+                 # dr- 段（2026-09-09）：dribs 只活在 in dribs and drabs 里，
+                 # 写在 drab 条内；dried／driest／drily 是 dry 的变形与副词，
+                 # 前四个字母都跟 dry 对不上。
+                 'dribs': 'drab', 'dried': 'dry', 'driest': 'dry', 'drily': 'dry'}
 
 def _load_inflections():
     """动词变形 → 原形。用户 2026-09-05 裁定：变形不单独立条，并进原形，
