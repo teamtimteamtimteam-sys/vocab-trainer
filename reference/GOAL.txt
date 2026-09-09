@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-09） ═══
-B 词表 7400 条，词典序 a → eminently。义项 28230。
+B 词表 7454 条，词典序 a → emulsion。义项 28359。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完：da 98%、de 97%、di 97%、do 96%、dr 94%、du 100%、dw 100%、dy 96%
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
@@ -18,7 +18,7 @@ B 词表 7400 条，词典序 a → eminently。义项 28230。
 交付文件（每 2500 条一份）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-7400.txt   2400 条   compatible → eminently
+  B-merged-5001-7454.txt   2454 条   compatible → emulsion
 **新词条落在第三份里**，写到 7500 时 merge-wordlist 会自动切出第四份并删掉旧尾巴。
 
 
@@ -132,9 +132,8 @@ dw 7 条，dy 31 条。d 段到此为止，余下的全是待推迟。
 eg- 100%、eh- 100%、ei- 100%（缺的都是待推迟）。
 ej- 与 ek- 收满，el- 段 98%（单列词与 28 个复合词并入都做完了，
 余下 elapsed time、electroconvulsive therapy、electroshock therapy 三条待推迟）。
-em- 段 53%（写到 eminently）。
-**下一步：em- 段继续**（emir → emulsion 还有 55 条），写完做 em- 的并入 pass
-（emergency brake／room、emery board、eminent domain、empire-building）。
+em- 段 99%（单列词与 14 个复合词并入都做完了，只剩 emissions trading 待推迟）。
+**下一步：en- 段**（先跑 coverage.py en，那是个大段）。
   · 批均等式跌到基线以下时（em- 第二批 2.12 < 2.13），补的必须是**真搭配与词源辨析**，
     不是给每条硬凑一句。那一批补的是 be embellished with、without embellishment、
     the dying embers、an air embolism 这类词典里本来就有的搭配。
