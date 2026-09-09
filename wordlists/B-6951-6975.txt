@@ -1,24 +1,3 @@
-dynasty
-核心：两支。一是王朝：同一家族连续统治的那段时期；
-二是（引申）长期称霸的家族或队伍：一个家族把持的企业、一支常年夺冠的球队。
-可数，复数 dynasties。
-① The dynasty lasted three hundred years and the last forty are barely recorded.
-= 那个王朝延续了三百年，最后四十年几乎没有记载。
-a dynasty = 王朝
-the Tang dynasty = 唐朝
-② The team built a dynasty on one draft and lost it in two summers.
-= 那支球队靠一次选秀建起王朝，两个夏天就散了。
-a dynasty = 长期称霸的家族或队伍
-
-dyne
-核心：达因：厘米克秒制里力的单位，等于十万分之一牛顿，如今很少用了。可数。
-① One dyne is the force that moves a gram by a centimetre per second squared.
-= 一达因就是让一克产生每秒平方一厘米加速度的那个力。
-a dyne = 一达因
-② Older papers give surface tension in dynes per centimetre.
-= 旧论文里的表面张力用每厘米多少达因来表示。
-dynes per centimetre = 达因每厘米
-
 dysentery
 核心：痢疾：肠道感染引起的重度腹泻，常带血或黏液，靠不洁的水与食物传播。不可数。
 ① Dysentery killed more of that army than the fighting ever did.
@@ -289,3 +268,75 @@ eagle-eyed = 眼尖的
 ⑤ An eagle owl can take a fox cub and does it without a sound.
 = 雕鸮能捉走狐狸幼崽，动手时一点声响也没有。
 an eagle owl = 雕鸮
+
+eaglet
+核心：雏鹰：刚孵出不久的小鹰。可数。
+① Two eaglets hatched and only the larger one was still there in August.
+= 两只雏鹰孵了出来，到八月只剩大的那只还在。
+an eaglet = 雏鹰
+② The camera on the nest shows the eaglets being fed at four in the morning.
+= 巢上那台摄像机拍到雏鹰凌晨四点在进食。
+eaglets = 雏鹰（复数）
+构词：eagle 加 -et（表示幼小）
+
+ear
+核心：名词四支。一是耳朵；二是听力、辨音的耳朵：have an ear for music；
+三是（谷物的）穗：an ear of corn；四是（比喻）注意、进言的机会。
+习语很多：play it by ear 是见机行事（本义是不看谱凭耳朵弹）；be all ears 是洗耳恭听；
+go in one ear and out the other 是左耳进右耳出；keep your ear to the ground 是留意风声；
+be up to your ears in something 是忙得不可开交；music to your ears 是听着中听；
+turn a deaf ear 是充耳不闻。
+① The dog put one ear up and left the other one flat.
+= 那狗竖起一只耳朵，另一只还耷拉着。
+an ear = 耳朵
+② She has an ear for accents and places people within two sentences.
+= 她对口音有耳朵，两句话就听得出人是哪儿的。
+have an ear for something = 对某类声音有辨别力
+③ We shall have to play it by ear and see who actually turns up.
+= 我们只能见机行事，看看到底谁来。
+play it by ear = 见机行事
+④ I'm all ears, he said, and then looked at his phone twice.
+= 他说「我洗耳恭听」，接着看了两回手机。
+be all ears = 洗耳恭听
+⑤ Everything I said went in one ear and out the other.
+= 我说的话全都左耳进右耳出。
+go in one ear and out the other = 左耳进右耳出
+⑥ He has the minister's ear and uses it about twice a year.
+= 他说得上大臣的话，一年大概用两回。
+have somebody's ear = 说得上某人的话、进得了言
+⑦ She keeps her ear to the ground and hears about jobs before they are advertised.
+= 她留意着风声，招聘还没登出来她就听说了。
+keep your ear to the ground = 留意动静
+⑧ I'm up to my ears in marking until the end of next week.
+= 到下周末之前，我批卷子忙得不可开交。
+be up to your ears in something = 忙得不可开交
+⑨ A full refund was music to their ears after six weeks of letters.
+= 写了六个星期的信，全额退款这话真是中听。
+be music to your ears = 听着特别中听
+⑩ The council turned a deaf ear until the second petition arrived.
+= 议会一直充耳不闻，直到第二份请愿书递上来。
+turn a deaf ear = 充耳不闻
+⑪ The field is nearly ready: the ears are heavy and the stalks are dry.
+= 那块地快熟了：穗子沉甸甸的，秆也干了。
+an ear of corn = 一穗谷物
+⑫ Two ear drops a day for a week cleared what the tablets had not.
+= 一天两滴滴耳液，用一周就治好了药片没治好的毛病。
+ear drops = 滴耳液
+⑬ The fire alarm is ear-piercing by design and everyone ignores it anyway.
+= 火警声刺耳是有意设计的，可人人照样不理。
+ear-piercing = 刺耳的
+ear-splitting = 震耳欲聋的
+⑭ Her grandmother used an ear trumpet and heard exactly what she chose to.
+= 她祖母用助听筒，想听见什么就听见什么。
+an ear trumpet = 旧式助听筒
+
+earache
+核心：耳朵痛：耳内疼痛，多由感染引起。英式常不可数，美式多说 an earache。
+英式口语里 earache 还指没完没了的唠叨。
+① The child had earache all night and was perfectly fine by breakfast.
+= 那孩子耳朵痛了一整夜，到早饭时又好端端的。
+have earache = 耳朵痛
+② Two hours of that music gave everyone in the car earache.
+= 那种音乐听两个钟头，车里人人耳朵都遭罪。
+give somebody earache = 吵得人耳朵疼；也指数落某人
+构词：ear 加 ache

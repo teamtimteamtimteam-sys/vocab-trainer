@@ -491,6 +491,9 @@ in that case = 那样的话
 ⑳ Her career is a case in point, and not a happy one.
 = 她的经历就是个例证，而且不是个令人愉快的例证。
 a case in point = 恰好说明问题的例子
+㉑ The edge case only shows up when somebody pastes an address with a line break in it.
+= 那个边缘情形只有在有人粘进带换行的地址时才冒出来。
+an edge case = 边缘情形（极少出现但会出错的情况）
 构词：情形义出自拉丁语 casus 落下、遭遇；盒义出自 capsa 箱
 注意用法：in case 后面接从句，不接不定式。
 
