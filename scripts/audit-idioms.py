@@ -25,6 +25,11 @@ def fold(s):
 
 CHECK = {
  'each': ['each and every'],
+ 'effect': ['take effect', 'come into effect', 'in effect', 'to that effect',
+            'put something into effect'],
+ 'egg': ['put all your eggs in one basket', 'a bad egg', 'have egg on your face',
+         'egg somebody on'],
+ 'either': ['either way', 'either... or'],
  'ebb': ['the ebb and flow', 'at a low ebb'],
  'echo': ['echoes of'],
  'eclipse': ['in eclipse'],

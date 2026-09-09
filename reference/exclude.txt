@@ -448,3 +448,7 @@ earl's court  # 伦敦地名（Earl's Court 区与展览馆），纯地名不收
 # --- e 段 ---
 eBay         # 商标（拍卖网站），照「商标不收」办
 ed.          # editor／edition 的缩写形式，缩写另有名单
+ee           # 英格兰北部方言感叹词（ee by gum）
+eejit        # 爱尔兰／苏格兰英语，idiot 的方言拼法
+eina         # 南非英语感叹词，「哎哟」
+eish         # 南非英语感叹词，表惊讶或无奈
