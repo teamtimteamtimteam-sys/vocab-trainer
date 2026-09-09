@@ -25,6 +25,9 @@ def fold(s):
 
 CHECK = {
  'each': ['each and every'],
+ 'essence': ['in essence', 'of the essence'],
+ 'establish': ['establish yourself'],
+ 'esteem': ['hold somebody in high esteem', 'self-esteem'],
  'err': ['err on the side of'],
  'error': ['trial and error', 'in error', 'a margin of error'],
  'errand': ['run an errand', "a fool's errand"],
