@@ -25,6 +25,11 @@ def fold(s):
 
 CHECK = {
  'each': ['each and every'],
+ 'end': ['in the end', 'at the end of the day', 'make ends meet', 'come to an end',
+         'no end of', 'end up'],
+ 'enough': ['enough is enough', 'fair enough', 'sure enough'],
+ 'enjoy': ['enjoy yourself'],
+ 'entrance': ['make an entrance'],
  'embarrassment': ['an embarrassment of riches'],
  'emergency': ['in an emergency', 'a state of emergency'],
  'emphasis': ['put emphasis on', 'the emphasis is on'],
