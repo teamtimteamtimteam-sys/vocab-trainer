@@ -2328,6 +2328,10 @@ take the biscuit = 最离谱、最过分（英式，讽刺）
 ⑥ She keeps shortbread in a biscuit barrel that her mother brought from Dundee.
 = 她把黄油酥饼装在饼干筒里，那是她母亲从邓迪带来的。
 biscuit barrel = 饼干筒（英式，带盖的饼干罐）
+⑦ A digestive biscuit survives being dunked for about two seconds.
+= 全麦消化饼干泡在茶里大概能撑两秒。
+a digestive biscuit = 全麦消化饼干（英式）
+英国最常见的茶点饼干，名字来自十九世纪的助消化说法。
 注意地域：
 biscuit = 甜饼干（英式）
 cookie = 甜饼干（美式）
@@ -8295,6 +8299,12 @@ a chopping board = 砧板
 ⑯ Chop it on the cutting board and not on the worktop, please.
 = 请在切菜板上切，别在台面上切。
 a cutting board = 砧板
+⑰ The discussion board is dead, the distribution board is live, and the diving board is closed.
+= 论坛没人了，配电盘带着电，跳板则关闭着。
+a discussion board = 网上论坛
+a distribution board = 配电盘
+a diving board = 跳板
+三个 board 各是一路：网上的版面、电箱里的盘、泳池边的板。
 构词：古英语 bord 木板
 词族：
 boarding = 寄宿；登机
@@ -27922,6 +27932,10 @@ capacitor = 电容器
 ⑦ Capacitance is measured in farads and almost never in whole ones.
 = 电容量以法拉为单位，几乎从没有整数的。
 capacitance = 电容量
+⑧ A plea of diminished capacity was entered and the trial went on for another month.
+= 被告以行为能力减弱抗辩，庭审又开了一个月。
+diminished capacity = 行为能力减弱（法律用语）
+跟英国的 diminished responsibility 是同一路的抗辩理由。
 构词：拉丁语 capax 能容纳的
 注意用法：身份那一支是正式文书里的固定说法。
 
@@ -34310,6 +34324,10 @@ chairmanship = 主席职位与任期
 ⑩ Take a chair and we will begin as soon as the last two arrive.
 = 请坐，最后两位一到我们就开始。
 take a chair = 找把椅子坐下
+⑪ A director's chair folds flat and is the least comfortable seat on any set.
+= 导演椅能折平，也是任何片场上最不舒服的座位。
+a director's chair = 导演椅
+帆布加木架的折叠椅，因片场使用而得名。
 构词：希腊语 kathedra 座位
 注意用法：今天多用中性的 chair 或 chairperson。
 
@@ -36657,6 +36675,10 @@ make up a prescription = 照处方配药
 ③ She is a research chemist and spends her days on catalysts.
 = 她是研究化学的，整天跟催化剂打交道。
 a chemist = 化学家
+④ The dispensing chemist stays open until eight and the counter closes at six.
+= 那家配药药房开到八点，柜台六点就关。
+a dispensing chemist = 可配处方药的药房（英式）
+英式说法；美式说 a pharmacy。
 构词：由表示炼金术的旧词加表示人的后缀
 注意用法：药店那一支是英式，美式说 drugstore。
 
@@ -44554,6 +44576,10 @@ code-switching = 语码转换（说话中途换语言或语体）
 = 文件按年份用颜色编码，黄色那批不见了。
 color code = 用颜色分类标记（美式拼法）
 名词说 a color code，动词直接用它，过去分词 color-coded。
+⑬ The dialling code changed in 1995 and half the letterheads never caught up.
+= 区号一九九五年改了，一半的信头一直没跟上。
+a dialling code = 电话区号（英式）
+美式说 an area code。
 构词：拉丁语 codex 木简、法典
 注意用法：代码与准则两支在今天的文字里最常读到。
 

@@ -5608,6 +5608,10 @@ activity holiday = 以运动项目为主的假期（英式）
 词族：
 active = 活跃的
 activate = 启动
+⑨ Tidying the desk before a difficult call is displacement activity and everybody does it.
+= 打难打的电话之前先收拾桌子，这是转移性行为，人人都干。
+displacement activity = 转移性行为
+心理学术语：用无关的小事来回避真正该做的事。
 
 actor
 核心：指演员，现在男女通用——actress 仍在用，但许多女演员本人
@@ -37973,6 +37977,10 @@ bag lunch = 自带的午餐（美式）
 ⑰ He slung his schoolbag over one shoulder and was gone before I answered.
 = 他把书包往肩上一甩，我还没答话人就没影了。
 a schoolbag = 书包
+⑱ The papers travelled in a diplomatic bag that nobody at the airport was allowed to open.
+= 那些文件装在外交邮袋里，机场没人有权打开。
+a diplomatic bag = 外交邮袋
+美式说 a diplomatic pouch；按公约不得开拆。
 注意语域：
 说女人 old bag 是明确的侮辱，不要用。
 注意地域：
@@ -45004,6 +45012,11 @@ bell-ringing = 敲钟（作为技艺）
 = 一名行李员搬了箱子，说什么也不肯收小费。
 bellboy = 旅馆行李员
 bellhop = 旅馆行李员（美式）
+⑯ A diving bell took three men down and the division bell brought two hundred back in.
+= 潜水钟把三个人送下水，表决铃把两百人叫回议场。
+a diving bell = 潜水钟
+the division bell = （英国议会的）表决铃
+表决铃一响，议员要在八分钟内赶回投票。
 
 belladonna
 核心：一种剧毒植物，中文叫颠茄。名字是意大利语的"美妇人"——

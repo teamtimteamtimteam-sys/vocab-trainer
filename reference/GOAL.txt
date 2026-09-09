@@ -10,14 +10,14 @@
 B 10000
 
 ═══ 现状（2026-09-08） ═══
-B 词表 6622 条，词典序 a → drop。义项 25988。
-  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 44%（da- 226/229、de- 932/959、di- 715/859）
+B 词表 6628 条，词典序 a → drop。义项 26060。
+  a 段 99%（2768/2769）  b 段 98%  c 段 97%  d 段 44%（da- 226/229、de- 932/959、di- 836/859）
   —— a、b、c 余下的全是待推迟，不必回头看：后面的字母段收到内容词，
   coverage 会自己把它们从待推迟挪到待并入。
 交付文件（每 2500 条一份，2026-09-08 改的块大小）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-6622.txt   1622 条   compatible → drop
+  B-merged-5001-6628.txt   1628 条   compatible → drop
   （第三份满 2500 条时会自动切出第四份，merge-wordlist 会顺手删掉旧尾巴）
 **新词条现在落在第三份里**，写到 7500 时再切第四份。
 （wordlists/ 里还躺着 5841 / 5851 / 5860 三份旧的尾部合并文件，是历次改名
@@ -111,8 +111,12 @@ diminuendo、divertimento、diglossia、diglossic、ditransitive、dioptrics，
 已写两批：diabetes → diarrhoea（23 条）、diaspora → diehard（23 条）。
 第三批 diesel → dilatory（23 条）已写完。第四批 dildo → dinosaur（24 条）、第五批 diocesan → dirigible（22 条）、
 第六批 dirigisme → disassemble（24 条）、第七批 disassociate → disconnect（25 条，含单立的 discus）、
-第八批 disconsolate → disengage（25 条）、第九批 disentangle → disillusion（22 条）、第十批 disincentive → dismount（24 条）、第十一批 disobedience → dispossess（25 条）、第十二批 disproportion → dissipate（25 条）、第十三批 dissociate → disturb（25 条）、第十四批 disunite → divvy（26 条）
-已写完。**下一批从 Dixie 起**（di- 段只剩尾巴与并入）
+第八批 disconsolate → disengage（25 条）、第九批 disentangle → disillusion（22 条）、第十批 disincentive → dismount（24 条）、第十一批 disobedience → dispossess（25 条）、第十二批 disproportion → dissipate（25 条）、第十三批 dissociate → disturb（25 条）、第十四批 disunite → divvy（26 条）、第十五批 diatomic → dizzy（7 条收尾）
+与 di- 的并入 pass（102 条写进 56 个义项）都已做完。
+**di- 段 836/859（97%）**，只剩 23 条待推迟。**下一步：do- 段**（清单 397 条，
+已收 28 条；do 是核心词，按裁定要独占一批）。
+  · coverage 的 SPELLING_ROOT 又补四条：dining → dine、diving → dive、
+    ditz 与 ditzy → ditsy（动名词与截短形跟词头前四字母对不上）。
 （dilemma、dilute、dim、dimension、diminish、dinner、dip、dire、direct 一带，
 direct 与 dinner 都是大词）。
   · 这一批 audit-swallowed 一次报出八条被吞的词 —— 派生一族写在核心块里

@@ -248,7 +248,12 @@ SPELLING_ROOT = {'cosiness': 'cosy', 'coziness': 'cozy',
                  # deixis 之于 deictic 是 deix 对 deic。三组都已在对应词条里
                  # 配了例句与等式，不该再报缺。
                  'defaecate': 'defecate', 'defaecation': 'defecate',
-                 'deity': 'deify', 'deixis': 'deictic'}
+                 'deity': 'deify', 'deixis': 'deictic',
+                 # di- 段的四条同类（2026-09-09）：动名词与截短形跟词头的
+                 # 前四个字母对不上 —— dining 之于 dine、diving 之于 dive、
+                 # ditz 与 ditzy 之于 ditsy。都已在对应词条里配了例句。
+                 'dining': 'dine', 'diving': 'dive',
+                 'ditz': 'ditsy', 'ditzy': 'ditsy'}
 
 def _load_inflections():
     """动词变形 → 原形。用户 2026-09-05 裁定：变形不单独立条，并进原形，
