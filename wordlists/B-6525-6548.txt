@@ -1,23 +1,3 @@
-dispatch
-核心：四支。一是发送：把货物、信件、人员派出去；
-二是名词的「急件、战地快讯」；三是（正式）「利落地办完」——with dispatch；
-四是委婉的「处决、了结」。英式旧拼 despatch，两种通行。
-派人的调度员叫 a dispatcher。
-① The parts were dispatched on Monday and arrived in a different county.
-= 那些配件周一发出，到了另一个郡。
-dispatch something = 发送某物
-② Three ambulances were dispatched and two of them were sent to the same address.
-= 派出了三辆救护车，其中两辆去了同一个地址。
-dispatch somebody = 派出某人
-③ The dispatcher kept two crews talking to each other for the whole incident.
-= 整起事件里，调度员让两组人一直保持通话。
-a dispatcher = 调度员
-④ The dispatch from the front took nine days to reach the paper.
-= 从前线发回的那份战地快讯，用了九天才到报社。
-a dispatch = 急件、战地快讯
-构词：意大利语 dispacciare 送走
-注意用法：英式旧拼 despatch，今天多数出版物写 dispatch。
-
 dispel
 核心：驱散：把疑虑、误解、恐惧、谣言散掉 —— 宾语多是抽象的。
 及物动词，双写 l：dispelled、dispelling。
@@ -364,3 +344,15 @@ disregard something = 不理会某事
 disregard for something = 对某事的漠视
 构词：dis- 反向 加 regard 注意、看重
 注意别混：disregard 是明知而不理，overlook 多是没注意到。
+
+disrepair
+核心：年久失修：建筑或设备因为长期没人管而破败。不可数，
+几乎只用在 fall into disrepair 与 in disrepair 两个说法里。
+① The chapel fell into disrepair within a decade of the last service.
+= 最后一场礼拜之后不到十年，那座小教堂就破败下去。
+fall into disrepair = 年久失修下去
+② The bridge is in disrepair and the diversion adds four miles to every journey.
+= 那座桥失修，绕行让每趟路都多出四英里。
+be in disrepair = 处于失修状态
+构词：dis- 反向 加 repair 修缮
+注意用法：几乎不单独用，总跟 fall into 或 in 搭配。
