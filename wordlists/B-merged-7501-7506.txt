@@ -1,0 +1,59 @@
+encrustation
+核心：结壳、硬壳层：长期沉积在表面结成的一层硬东西，如水垢、盐霜。
+可数不可数都行，也拼 incrustation。
+① The encrustation inside the kettle came off in one piece.
+= 水壶里那层水垢整片脱了下来。
+an encrustation = 结壳、硬壳
+② Salt encrustation on the hull adds weight and slows everything down.
+= 船体上结的盐壳增加重量，把速度都拖慢了。
+salt encrustation = 盐结壳
+
+encrusted
+核心：两支。一是结着硬壳的；二是镶满（宝石等）的。搭 be encrusted with something。
+① The pot was encrusted with something nobody wanted to identify.
+= 那口锅上结着一层谁也不想去辨认的东西。
+be encrusted with something = 结着一层某物
+② The lid is encrusted with small stones and weighs more than the box.
+= 盖子上镶满小宝石，比盒子本身还重。
+encrusted with jewels = 镶满宝石的
+
+encrypt
+核心：加密：把信息转成没有钥匙就读不懂的形式，跟 decrypt 相对。名词 encryption。
+① Encrypt the file before it leaves the building and tell nobody the password.
+= 文件离开这栋楼之前先加密，密码谁也别告诉。
+encrypt a file = 给文件加密
+be encrypted = 被加密
+② Messages are encrypted end to end and the metadata is not.
+= 消息是端到端加密的，元数据不是。
+encrypt something = 对某物加密
+
+encryption
+核心：加密：把信息编成外人读不懂的形式的做法与技术。不可数。
+① Encryption protects the message and says nothing about who sent it.
+= 加密保护的是内容，至于是谁发的，它什么也没藏住。
+encryption = 加密
+end-to-end encryption = 端到端加密
+② Strong encryption is now the default and was once a licence application.
+= 强加密如今是默认设置，从前还得申请许可证。
+strong encryption = 强加密
+
+encumber
+核心：两支。一是（正式）妨碍、拖累：让人行动不便或做事受阻；
+二是（法律）使（财产）带上债务或抵押。多用被动。名词 encumbrance。
+① Encumbered by two bags and a coat, he missed the connection.
+= 拎着两个包、还拿着大衣，他没赶上转乘。
+be encumbered by something = 被某物拖累
+② The property is encumbered by a loan the buyer never saw.
+= 那处房产上压着一笔买家从没见过的贷款。
+encumber something = 使某物带上负担
+
+encumbrance
+核心：两支。一是累赘、负担：拖着人、让人放不开手脚的东西；
+二是（法律）产权负担：压在房产上的抵押、地役权一类。可数。
+① He travels with one bag and calls everything else an encumbrance.
+= 他出门只带一个包，别的一概被他称作累赘。
+an encumbrance = 累赘、负担
+② The search showed two encumbrances on the title and the sale stopped.
+= 产权查询显示地契上有两项负担，交易就停了。
+an encumbrance on something = 压在某物上的产权负担
+构词：encumber 加 -ance
