@@ -462,3 +462,7 @@ endonormative # 同上，只在语言变体研究里用
 erf          # 南非英语，指一块划定的宅地
 erven        # 同上，erf 的复数
 ergative     # 句法类型学内部的术语（作格），不进通用语
+ese          # 构词后缀 -ese（Chinese、journalese），词缀不收
+esque        # 构词后缀 -esque（picturesque），词缀不收
+esikuti      # 东非英语，指卢希亚人的一种鼓与舞
+espressivo   # 意大利语演奏术语，只在乐谱与乐评内部用
