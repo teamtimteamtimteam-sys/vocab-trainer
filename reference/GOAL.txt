@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-09） ═══
-B 词表 7807 条，词典序 a → equitation。义项 29137。
+B 词表 7881 条，词典序 a → esp.。义项 29298。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完：da 98%、de 97%、di 97%、do 96%、dr 94%、du 100%、dw 100%、dy 96%
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
@@ -19,7 +19,7 @@ B 词表 7807 条，词典序 a → equitation。义项 29137。
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
   B-merged-5001-7500.txt   2500 条   compatible → encroachment
-  B-merged-7501-7807.txt    307 条   encrustation → equitation
+  B-merged-7501-7881.txt    381 条   encrustation → esp.
 **每份固定 2500 条，满了自动顺延到下一份**（merge-wordlist.py B 2500 每次重切，
 并删掉上一轮的旧尾巴文件）。新词条现在落在第四份里。
 
@@ -135,8 +135,9 @@ eg- 100%、eh- 100%、ei- 100%（缺的都是待推迟）。
 ej- 与 ek- 收满，el- 段 98%（单列词与 28 个复合词并入都做完了，
 余下 elapsed time、electroconvulsive therapy、electroshock therapy 三条待推迟）。
 em- 段 99%（单列词与 14 个复合词并入都做完了，只剩 emissions trading 待推迟）。
-en- 98%、eo- 100%、ep- 100%（epoch-making 已并入 epoch）、eq- 写到 equitation。
-**下一步：eq- 收尾**（equity → equivocation 还有 9 条），然后 er-、es- 段。
+en- 98%、eo- 100%、ep- 100%、eq- 95%、er- 97%（余下的都是待推迟），
+es- 写到 esp.（清单 67 条）。
+**下一步：es- 段继续**（espadrille → estuary 还有 36 条）。
   · en- 第二批 audit-examples 报 enclose「偏薄」（额外实词 3.7 < 4）——
     办法是把例句改厚（加上「标着六月的文件夹」「横穿其上的老小路」这类承载词），
     不是去动那道下限。
