@@ -242,6 +242,8 @@ CHECK = {
  'draw': ['draw the line', 'draw a blank', 'draw up', 'draw on', 'draw out',
           'draw in', 'draw back', 'draw attention to', 'the luck of the draw',
           'back to the drawing board'],
+ 'drag': ['drag your feet', 'drag on'],
+ 'drain': ['down the drain', 'a drain on'],
  'dream': ['a dream come true', 'in your dreams', 'dream up', 'like a dream',
            'beyond your wildest dreams', 'dream on'],
  'dress': ['dress up', 'dress down', 'dressed to kill', 'a dress rehearsal',
