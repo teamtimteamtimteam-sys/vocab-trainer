@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-09） ═══
-B 词表 7684 条，词典序 a → entomology。义项 28853。
+B 词表 7733 条，词典序 a → enzyme。义项 28981。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完：da 98%、de 97%、di 97%、do 96%、dr 94%、du 100%、dw 100%、dy 96%
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
@@ -19,7 +19,7 @@ B 词表 7684 条，词典序 a → entomology。义项 28853。
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
   B-merged-5001-7500.txt   2500 条   compatible → encroachment
-  B-merged-7501-7684.txt    184 条   encrustation → entomology
+  B-merged-7501-7733.txt    233 条   encrustation → enzyme
 **每份固定 2500 条，满了自动顺延到下一份**（merge-wordlist.py B 2500 每次重切，
 并删掉上一轮的旧尾巴文件）。新词条现在落在第四份里。
 
@@ -135,8 +135,9 @@ eg- 100%、eh- 100%、ei- 100%（缺的都是待推迟）。
 ej- 与 ek- 收满，el- 段 98%（单列词与 28 个复合词并入都做完了，
 余下 elapsed time、electroconvulsive therapy、electroshock therapy 三条待推迟）。
 em- 段 99%（单列词与 14 个复合词并入都做完了，只剩 emissions trading 待推迟）。
-en- 段 72%（清单 322 条，写到 entomology）。
-**下一步：en- 段继续**（entourage → enzyme 还有 89 条），写完做 en- 的并入 pass。
+en- 段 98%（单列词与 34 个复合词并入都做完了，只剩 en masse、en passant、
+en route、en suite、enfant terrible 五条待推迟）。
+**下一步：eo-、ep- 段**（先跑 coverage.py eo）。
   · en- 第二批 audit-examples 报 enclose「偏薄」（额外实词 3.7 < 4）——
     办法是把例句改厚（加上「标着六月的文件夹」「横穿其上的老小路」这类承载词），
     不是去动那道下限。
