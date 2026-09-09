@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-09） ═══
-B 词表 7038 条，词典序 a → eavestrough。义项 27344。
+B 词表 7088 条，词典序 a → ectopic。义项 27453。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完：da 98%、de 97%、di 97%、do 96%、dr 94%、du 100%、dw 100%、dy 96%
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
@@ -18,7 +18,7 @@ B 词表 7038 条，词典序 a → eavestrough。义项 27344。
 交付文件（每 2500 条一份）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-7038.txt   2038 条   compatible → eavestrough
+  B-merged-5001-7088.txt   2088 条   compatible → ectopic
 **新词条落在第三份里**，写到 7500 时 merge-wordlist 会自动切出第四份并删掉旧尾巴。
 
 
@@ -128,9 +128,11 @@ down 一族 33 条并成 9 个。do- 段 382/395（96%），只剩 13 条待推�
 大户是 dry（8 组）、drop（5 组）、draw 与 drag 与 drum（各 4 组）。
 **du-、dw-、dy- 都写完了（2026-09-09）**：du 五批 111 条＋37 个复合词并入，
 dw 7 条，dy 31 条。d 段到此为止，余下的全是待推迟。
-**e 段开工**：ea- 三批 71 条已写完（each → eavestrough），
-**下一步先做 ea- 的并入 pass**（32 个复合词：eagle eye、ear-splitting、early warning、
-earth science、ease off/up、east-west、easy-going、eat up 等），再往 eb-、ec- 走。
+**e 段进行中**：ea- 99%（71 条＋32 个复合词并入，只剩待推迟的 earned run），
+eb- 100%，ec- 77%。
+**下一步：ec- 收尾** —— 还剩 ectoplasm、ecumenical、ecumenism、eczema 四条，
+外加 7 个复合词并入（echo chamber、echo sounder、ecological footprint、
+economic migrant、economy class syndrome、eco-anxiety、eco-chic），然后走 ed-。
 **节奏：一次回复三批，每批 20-25 条**（2026-09-09 用户定的折衷，一批太慢、七批伤质量）。
   · du- 段的四个坑，都是老毛病换了个词：
     ① dumbly／dumbness 写在 dumb 的核心块里没配例句 —— audit-swallowed 逮到，
