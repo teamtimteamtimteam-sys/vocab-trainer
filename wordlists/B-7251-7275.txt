@@ -1,0 +1,273 @@
+electrode
+核心：电极：把电流引进或引出某种介质（液体、气体、人体）的导体，
+正极叫 anode，负极叫 cathode。可数。
+① The electrode has to touch skin, not hair, or the trace is useless.
+= 电极得贴到皮肤上，不能贴在头发上，否则波形没用。
+an electrode = 电极
+② Electrodes wear out fastest in the salt tank and get changed monthly.
+= 盐槽里的电极磨损最快，每月换一次。
+electrodes = 电极（复数）
+
+electrodynamics
+核心：电动力学：研究电荷、电流与电磁场相互作用的物理学分支。
+作单数看待，不可数。
+① Electrodynamics explains the motor on the bench and the light above it.
+= 电动力学既解释台上那台电机，也解释它上头那盏灯。
+electrodynamics = 电动力学
+② Quantum electrodynamics predicts a number that matches measurement to ten decimal places.
+= 量子电动力学算出的数，跟测量值到小数点后十位都对得上。
+quantum electrodynamics = 量子电动力学
+
+electroencephalogram
+核心：脑电图：把大脑的电活动记录成波形的那张图，缩写 EEG。可数。
+① The electroencephalogram showed nothing and the seizures continued.
+= 脑电图什么也没查出来，抽搐还在继续。
+an electroencephalogram = 脑电图
+② An electroencephalogram needs twenty electrodes and a very still patient.
+= 做脑电图要贴二十个电极，还得病人一动不动。
+have an electroencephalogram = 做脑电图
+
+electrolysis
+核心：两支。一是电解：让电流通过液体使它分解，如电解水制氢；
+二是（美容）电针脱毛：用电流破坏毛囊。不可数。
+① Electrolysis splits water into hydrogen and oxygen and costs more energy than it returns.
+= 电解把水分成氢和氧，耗掉的能量比拿回来的多。
+electrolysis = 电解
+② Electrolysis takes many sessions and works one follicle at a time.
+= 电针脱毛要做很多次，一次只处理一个毛囊。
+electrolysis = 电针脱毛
+
+electrolyte
+核心：两支。一是电解质：溶解后能导电的物质，也指电池里的导电液；
+二是（医学）体液里的钠、钾等离子。可数。
+① The battery leaked electrolyte and took the tray with it.
+= 电池漏了电解液，连托盘都被腐蚀了。
+electrolyte = 电解液
+② Electrolyte levels are checked first when somebody collapses in the heat.
+= 有人在高温里晕倒，最先查的就是电解质水平。
+electrolyte balance = 电解质平衡
+
+electrolytic
+核心：电解的：跟电解过程有关的。只作定语。
+① The electrolytic cell needs a membrane that outlasts the electrodes.
+= 电解槽需要一张比电极更耐用的隔膜。
+an electrolytic cell = 电解槽
+② Electrolytic capacitors dry out with age and bulge before they fail.
+= 电解电容年头一久就会干涸，失效之前会鼓包。
+an electrolytic capacitor = 电解电容
+构词：electrolysis 的形容词
+
+electromagnet
+核心：电磁铁：通电才有磁性、断电就没有的磁铁，线圈绕铁芯做成。可数。
+① The electromagnet holds the door shut until the alarm cuts the current.
+= 电磁铁把门吸住，直到警报切断电流。
+an electromagnet = 电磁铁
+② A scrapyard electromagnet lifts a car and drops it on command.
+= 废车场的电磁铁一吸把车提起来，一松就撂下。
+a scrapyard electromagnet = 废车场用的电磁铁
+
+electromagnetic
+核心：电磁的：跟电与磁互相作用有关的。
+electromagnetic radiation 从无线电波一直排到伽马射线。
+① The electromagnetic spectrum runs from radio waves all the way to gamma rays.
+= 电磁波谱从无线电波一直排到伽马射线。
+the electromagnetic spectrum = 电磁波谱
+② Electromagnetic interference from the pump wiped out the radio.
+= 那台泵的电磁干扰把收音机盖得没声了。
+electromagnetic interference = 电磁干扰
+
+electromagnetism
+核心：电磁学、电磁作用：把电与磁当作同一种基本作用来看的理论与现象。不可数。
+① Electromagnetism unified two subjects that had been taught separately for a century.
+= 电磁学把分开教了一个世纪的两门学问统一了起来。
+electromagnetism = 电磁学
+② Everything on that bench works by electromagnetism, including the clock.
+= 台上每样东西都靠电磁作用工作，连那个钟也是。
+work by electromagnetism = 靠电磁作用工作
+
+electrometer
+核心：静电计：测量极小电荷或电位差的仪器。可数。
+① The electrometer reads charges too small for any other meter in the room.
+= 静电计读得出屋里别的仪表都测不到的微小电荷。
+an electrometer = 静电计
+② An electrometer drifts if anyone walks past in a nylon coat.
+= 只要有人穿着尼龙外套走过，静电计的读数就会漂。
+the electrometer reading = 静电计读数
+构词：electro- 加 -meter
+
+electron
+核心：电子：原子里带负电的基本粒子，绕核分布；电流就是它在动。可数。
+an electron microscope 是电子显微镜。
+① An electron weighs about a two-thousandth of what a proton weighs.
+= 一个电子的质量大约是质子的两千分之一。
+an electron = 电子
+② Free electrons are what make a metal conduct at all.
+= 金属之所以导电，靠的就是自由电子。
+free electrons = 自由电子
+③ An electron microscope shows the surface as a landscape of ridges and pits.
+= 电子显微镜把那个表面显示成一片起伏的脊与坑。
+an electron microscope = 电子显微镜
+
+electronic
+核心：三支。一是电子的（设备）：靠芯片与电路工作的；
+二是电子形式的：electronic payment 是电子支付；
+三是（音乐）电子的。
+注意别混：electric 是用电的具体物件，electrical 是与电有关的，electronic 是靠电子元件工作的。
+① Electronic components arrive in trays and half of them are static-sensitive.
+= 电子元件是一盘一盘送来的，其中一半怕静电。
+electronic components = 电子元件
+② Electronic payment cleared in four seconds and the receipt took ten minutes.
+= 电子支付四秒就到账，小票倒等了十分钟。
+electronic payment = 电子支付
+③ Electronic music filled a hall that was built for a pipe organ.
+= 电子音乐灌满了一座本为管风琴而建的厅堂。
+electronic music = 电子音乐
+
+electronically
+核心：以电子方式：说提交、支付、储存、控制通过电子系统来做。
+① The form must be submitted electronically and posted copies are returned.
+= 那张表必须电子提交，寄纸质件会被退回。
+submit something electronically = 电子提交某物
+② The valves are controlled electronically and can be overridden by hand.
+= 那些阀门由电子控制，也可以手动接管。
+be controlled electronically = 由电子控制
+构词：electronic 加 -ally
+
+electronics
+核心：两支。一是电子学：研究电子器件与电路的学科，作单数；
+二是（某设备的）电子部件、电子系统，作复数。
+① Electronics was a two-year course and half of it was soldering.
+= 电子学是两年的课，其中一半是焊接。
+electronics = 电子学
+② The engine is fine and the electronics have failed twice this year.
+= 发动机没问题，电子系统今年坏了两回。
+the electronics = 电子部件
+
+electroplate
+核心：电镀：靠电解把一层薄金属镀到另一件金属上，如镀银、镀铬；
+也作名词，指电镀的器皿。
+① They electroplate the handles in nickel and the coating lasts a decade.
+= 他们把那些把手镀上一层镍，镀层能用十年。
+electroplate something = 给某物电镀
+② The tray is electroplate and the family always called it silver.
+= 那个托盘是电镀的，家里人一直管它叫银盘。
+electroplate = 电镀器皿
+
+electrostatic
+核心：静电的：跟静止不动的电荷有关；静电除尘器与复印机都靠它工作。只作定语。
+① An electrostatic charge on the film picks up every speck of dust.
+= 胶片上的静电荷把每一粒灰尘都吸了上来。
+an electrostatic charge = 静电荷
+② Electrostatic precipitators take the ash out of the flue gas.
+= 静电除尘器把烟气里的飞灰收下来。
+an electrostatic precipitator = 静电除尘器
+
+elegance
+核心：两支。一是优雅、雅致：说人、衣着、举止；
+二是（方案、证明的）简洁精妙：做法干净利落、不多不少。不可数。
+① The elegance of the room comes from what was left out of it.
+= 那间屋子的雅致，来自它舍掉的东西。
+elegance = 优雅、雅致
+② The proof has an elegance that the textbook version loses.
+= 那个证明有一种精妙的简洁，课本版本把它丢了。
+the elegance of a proof = 证明的精妙简洁
+
+elegant
+核心：两支。一是优雅的、雅致的：说人、衣着与设计；
+二是（方案、证明）简洁而巧妙的。副词 elegantly。
+① She was elegant in a way that had nothing to do with money.
+= 她那份优雅，跟钱一点关系也没有。
+elegant = 优雅的
+an elegant dress = 一件雅致的裙子
+② The elegant solution needs one moving part instead of nine.
+= 那个巧妙的方案只用一个活动件，不用九个。
+an elegant solution = 简洁巧妙的方案
+
+elegantly
+核心：优雅地、雅致地；也说论证或设计得简洁巧妙。
+① The stairs curve elegantly and are lethal in socks.
+= 那道楼梯弯得优雅，穿着袜子走要命。
+curve elegantly = 优雅地弯出弧线
+② The problem is elegantly stated and nobody has solved it in ninety years.
+= 那个问题表述得漂亮利落，九十年来没人解出来。
+be elegantly stated = 表述得简洁漂亮
+构词：elegant 加 -ly
+
+elegiac
+核心：（正式、文学）挽歌般的、哀婉怀旧的：说文字或音乐带着追怀与惋惜的调子。
+① The last chapter is elegiac and the rest of the book is not.
+= 最后一章调子哀婉，全书其余部分不是。
+elegiac = 哀婉怀旧的
+② An elegiac tone crept into the interviews once the mill closed.
+= 工厂一关，那些访谈里就带上了挽歌的调子。
+an elegiac tone = 哀婉的调子
+
+elegy
+核心：挽歌、哀歌：悼念死者或追怀逝去之物的诗文与乐曲。可数，复数 elegies。
+① The elegy was written for one man and read at a hundred funerals since.
+= 那首挽歌本是为一个人写的，此后在上百场葬礼上被诵读。
+an elegy = 挽歌
+② He wrote an elegy for a coalfield rather than for a person.
+= 他写的挽歌，悼的是一片煤田，不是某个人。
+an elegy for something = 为某物写的挽歌
+
+element
+核心：四支。一是要素、成分：an element of risk；二是（化学）元素；
+三是复数 the elements：风雨天气，也指一门学问的基础；
+四是（电器的）发热元件。
+习语：be in your element 是如鱼得水；brave the elements 是顶着风雨出门。
+① There is an element of luck in it that nobody wants to talk about.
+= 这里头有运气的成分，谁也不愿谈。
+an element of something = 某种成分
+a key element = 关键要素
+② Iron is the element that makes up most of the planet's core.
+= 铁是构成地核大部分的那种元素。
+a chemical element = 化学元素
+③ They braved the elements for four hours and saw one bird.
+= 他们顶着风雨待了四个钟头，看见一只鸟。
+brave the elements = 顶着风雨
+the elements = 风雨天气
+④ She is in her element in a kitchen and lost in a meeting.
+= 她在厨房里如鱼得水，一开会就不知所措。
+be in your element = 如鱼得水
+⑤ The element burned out and the kettle boiled nothing for a week.
+= 发热管烧断了，那把水壶一个星期没烧开过水。
+the element = 电水壶、电炉里的发热元件
+
+elemental
+核心：两支。一是（正式）最根本的、本原的；
+二是（文学）像自然力一样原始而强大的。
+① The argument comes down to an elemental question about who pays.
+= 那场争论归结成一个最根本的问题：谁出钱。
+an elemental question = 最根本的问题
+② There is something elemental about weather that stops all the traffic.
+= 能让所有交通停摆的天气，透着一股原始的力量。
+elemental = 原始而强大的
+
+elementary
+核心：三支。一是初级的、基础的；二是简单的、显而易见的：an elementary mistake；
+三是（美式）小学的：elementary school。
+① An elementary course covers the alphabet and stops at the first tense.
+= 初级课程教到字母表，讲到第一个时态就打住。
+an elementary course = 初级课程
+② Leaving the tap running was an elementary mistake with an expensive bill.
+= 忘了关水龙头是个低级错误，账单可不便宜。
+an elementary mistake = 低级错误
+③ Elementary school ends at eleven in that state and at ten in the next one.
+= 那个州的小学读到十一岁，隔壁州读到十岁。
+elementary school = 小学（美式）
+
+elephant
+核心：象：陆地上最大的动物，分非洲象与亚洲象；鼻子叫 trunk，象牙叫 tusks。可数。
+习语：a white elephant 是花钱多又没用的东西；
+the elephant in the room 是人人看得见却谁都不提的大问题。
+① An elephant drinks a bathful of water a day and remembers where it was.
+= 一头象一天喝掉一浴缸的水，还记得水在哪儿。
+an elephant = 象
+a herd of elephants = 一群象
+② The new terminal is a white elephant with four flights a day.
+= 新航站楼是个大而无用的摆设，一天才四个航班。
+a white elephant = 花钱多又没用的东西
+③ Nobody mentioned the debt, which was the elephant in the room.
+= 谁也没提那笔债，那正是屋里人人装看不见的那头象。
+the elephant in the room = 人人回避的大问题
