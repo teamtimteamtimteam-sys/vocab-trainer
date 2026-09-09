@@ -252,17 +252,12 @@ electrocution = 触电致死
 = 那个州在一九八二年用注射取代了电刑。
 death by electrocution = 电刑处死
 
-electronic
-核心：三支。一是电子的（设备）：靠芯片与电路工作的；
-二是电子形式的：electronic payment 是电子支付；
-三是（音乐）电子的。
-注意别混：electric 是用电的具体物件，electrical 是与电有关的，electronic 是靠电子元件工作的。
-① Electronic components arrive in trays and half of them are static-sensitive.
-= 电子元件是一盘一盘送来的，其中一半怕静电。
-electronic components = 电子元件
-② Electronic payment cleared in four seconds and the receipt took ten minutes.
-= 电子支付四秒就到账，小票倒等了十分钟。
-electronic payment = 电子支付
-③ Electronic music filled a hall that was built for a pipe organ.
-= 电子音乐灌满了一座本为管风琴而建的厅堂。
-electronic music = 电子音乐
+electrode
+核心：电极：把电流引进或引出某种介质（液体、气体、人体）的导体，
+正极叫 anode，负极叫 cathode。可数。
+① The electrode has to touch skin, not hair, or the trace is useless.
+= 电极得贴到皮肤上，不能贴在头发上，否则波形没用。
+an electrode = 电极
+② Electrodes wear out fastest in the salt tank and get changed monthly.
+= 盐槽里的电极磨损最快，每月换一次。
+electrodes = 电极（复数）
