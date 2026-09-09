@@ -1,14 +1,3 @@
-dystrophy
-核心：营养不良性病变、萎缩症：组织（尤其肌肉）逐渐退化的一类疾病，
-最常见的是 muscular dystrophy 肌营养不良。不可数。
-① Muscular dystrophy weakens the largest muscles first and is often diagnosed at four.
-= 肌营养不良先削弱最大的那些肌肉，确诊多在四岁上下。
-muscular dystrophy = 肌营养不良
-② Corneal dystrophy clouds the eye slowly and runs in families.
-= 角膜营养不良让眼睛慢慢变浑，而且有家族性。
-corneal dystrophy = 角膜营养不良
-myotonic dystrophy = 强直性肌营养不良
-
 each
 核心：限定词、代词、副词三用。指两个或两个以上里的每一个，
 着眼点是「一个一个地看」，跟 every 那种「整体上的全部」有别。
@@ -364,3 +353,13 @@ earnestly hope = 真心希望
 = 她恳切地问那笔钱究竟到没到学校。
 ask earnestly = 恳切地问
 构词：earnest 加 -ly
+
+earnestness
+核心：认真、恳切：那种一本正经、当真去做的态度。不可数。
+① The earnestness of the letter made it impossible to answer briefly.
+= 那封信写得那么恳切，没法三言两语回掉。
+the earnestness of something = 某物的恳切
+② His earnestness is why people trust him and why parties tire him out.
+= 他那份认真，既是别人信他的缘由，也是聚会让他累的缘由。
+earnestness = 认真、恳切
+构词：earnest 加 -ness

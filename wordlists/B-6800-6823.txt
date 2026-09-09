@@ -1,15 +1,3 @@
-droop
-核心：耷拉下来：因为疲乏、缺水或没了支撑而下垂 ——
-说花、肩膀、眼皮、旗子。不及物为主，形容词 droopy。
-① The flowers droop by lunchtime unless somebody cuts the stems again.
-= 除非有人再剪一次花梗，那些花到午饭就蔫了。
-droop = 耷拉、蔫下来
-② His droopy moustache is in every photograph and in none of the descriptions.
-= 他那撇下垂的胡子出现在每张照片里，却没写进任何一段描述。
-a droopy moustache = 下垂的胡子
-构词：古北欧语 drúpa 垂头
-注意别混：droop 是无力下垂，hang 只说挂着。
-
 drop
 核心：底层是「让它自己往下掉」——不是往下放，是撒手不管它落。
 往几个方向长：让东西落下（drop a glass）、数量水平往下掉（prices drop）、
@@ -653,3 +641,14 @@ a dualist = 二元论者
 = 脑扫描一开始能看见意图成形，二元论的立场就节节败退。
 the dualist position = 二元论立场
 构词：dual 加 -ist
+
+dualistic
+核心：二元论的、二元对立的：说一种思路把事情分成互相对立的两极 ——
+既用于哲学学说，也用来批评「非黑即白」的看法。
+① Her account of the war is dualistic: one side has motives, the other only appetites.
+= 她讲那场战争是二元对立的：一方有动机，另一方只有胃口。
+a dualistic account = 二元对立的说法
+② Dualistic thinking makes an argument easy to follow and impossible to repair.
+= 非此即彼的思路让论证好懂，也让它没法修补。
+dualistic thinking = 非此即彼的思路
+构词：dualist 加 -ic

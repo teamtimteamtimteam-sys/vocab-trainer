@@ -25,6 +25,13 @@ def fold(s):
 
 CHECK = {
  'each': ['each and every'],
+ 'ebb': ['the ebb and flow', 'at a low ebb'],
+ 'echo': ['echoes of'],
+ 'eclipse': ['in eclipse'],
+ 'economy': ['economies of scale', 'a false economy'],
+ 'edge': ['on edge', 'on the edge of', 'have the edge over', 'take the edge off',
+          'edge out', 'set your teeth on edge'],
+ 'educate': ['educate somebody about something'],
  'ear': ['play it by ear', 'be all ears', 'go in one ear and out the other',
          "have somebody's ear", 'keep your ear to the ground', 'up to your ears in',
          'music to your ears', 'turn a deaf ear'],

@@ -444,3 +444,7 @@ durative     # 语言学体貌术语，只在语法学内部用
 # --- ea- 段 ---
 earbashing   # 澳新英语，唠叨、絮叨个没完
 earl's court  # 伦敦地名（Earl's Court 区与展览馆），纯地名不收
+
+# --- e 段 ---
+eBay         # 商标（拍卖网站），照「商标不收」办
+ed.          # editor／edition 的缩写形式，缩写另有名单

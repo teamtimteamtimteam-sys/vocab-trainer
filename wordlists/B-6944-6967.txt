@@ -1,22 +1,3 @@
-dynamic
-核心：形容词三支、名词两支。形容词一是（人）有干劲的、充满活力的；
-二是（事物）动态的、一直在变的；三是（技术）动力的。
-名词一是 a dynamic，指推动局面的那种互动关系与力量对比；
-二是复数 dynamics，动力学，也指一群人之间的互动。副词 dynamically。
-① A dynamic head of department changed the whole timetable in her first week.
-= 一位有干劲的系主任头一周就把整张课表改了。
-a dynamic person = 有干劲的人
-② The market is dynamic enough that last month's figures explain nothing.
-= 那个市场变得够快，上个月的数字什么也说明不了。
-dynamic = 动态的、不断变化的
-③ The dynamic between the two of them changed the moment money came in.
-= 钱一进来，他们两人之间那种关系格局就变了。
-the dynamic between people = 人与人之间的互动格局
-④ Group dynamics decide more meetings than the agenda does.
-= 决定会议走向的，群体互动往往多过议程本身。
-group dynamics = 群体互动
-fluid dynamics = 流体力学
-
 dynamically
 核心：动态地、随情况变化地：多用于技术语境，说按需自动调整；
 也说人做事充满干劲地。
@@ -272,3 +253,14 @@ a dystopian film = 反乌托邦电影
 = 规划者讨厌那套反乌托邦的说辞，可缺钱的时候照样拿来用。
 dystopian = 反乌托邦式的
 构词：dystopia 加 -n
+
+dystrophy
+核心：营养不良性病变、萎缩症：组织（尤其肌肉）逐渐退化的一类疾病，
+最常见的是 muscular dystrophy 肌营养不良。不可数。
+① Muscular dystrophy weakens the largest muscles first and is often diagnosed at four.
+= 肌营养不良先削弱最大的那些肌肉，确诊多在四岁上下。
+muscular dystrophy = 肌营养不良
+② Corneal dystrophy clouds the eye slowly and runs in families.
+= 角膜营养不良让眼睛慢慢变浑，而且有家族性。
+corneal dystrophy = 角膜营养不良
+myotonic dystrophy = 强直性肌营养不良
