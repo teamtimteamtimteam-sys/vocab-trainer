@@ -433,3 +433,10 @@ dioptrics    # 屈光学，光学分支（dioptre 与 dioptric 保留，验光�
 # --- do- 段：窄专业术语（照 accelerando / abscissa 的先例）---
 dodecaphonic  # 十二音的，二十世纪作曲技法术语
 dolce         # 柔美地，乐谱上的意大利语表情记号（同 accelerando）
+
+# --- du- 段 ---
+dulce        # 清单里是 dulce de leche 被截断后的残片，取整词不取半截
+dum          # 同上，连字符词头被截断的残片（dumdum 另立条）
+dux          # 苏格兰／澳新英语，指全校第一名
+dunt         # 苏格兰英语，撞、碰
+durative     # 语言学体貌术语，只在语法学内部用

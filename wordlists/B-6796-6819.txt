@@ -1,15 +1,3 @@
-dromedary
-核心：单峰驼：只有一个驼峰的骆驼，阿拉伯与北非最常见 ——
-跟双峰的 Bactrian camel 相对。可数，复数 dromedaries。
-① A dromedary has one hump and a temper that gets into every travel book.
-= 单峰驼只有一个峰，脾气却写进了每一本游记。
-a dromedary = 单峰驼
-② Dromedaries were bred for speed and the two-humped ones for cold.
-= 单峰驼是按速度选育的，双峰驼是为耐寒。
-dromedaries = 单峰驼（复数）
-构词：希腊语 dromas 善跑的
-注意别混：一个峰是 dromedary，两个峰是 Bactrian camel。
-
 drone
 核心：四支。一是无人机（a camera drone）；
 二是雄蜂：不采蜜、只交配的那种；
@@ -652,3 +640,16 @@ drywall = 石膏板（美式）
 drywall something = 给某处装石膏板
 构词：dry 加 wall —— 相对于湿抹灰而言
 注意用法：英式说 plasterboard，指的是同一样东西。
+
+du jour
+核心：当日的、时下正流行的：从法语借来的后置修饰语，永远跟在名词后面 ——
+soup du jour 是当日例汤；引申指「眼下时兴的那一个」，常带点讽刺。不变形。
+① The soup du jour is leek and the waiter recommends it without much conviction.
+= 当日例汤是韭葱汤，服务员推荐得没什么底气。
+the soup du jour = 当日例汤
+② Every autumn brings a management theory du jour and every spring buries it.
+= 每年秋天冒出一套时兴的管理理论，第二年春天就埋掉。
+the theory du jour = 眼下时兴的那套理论
+the crisis du jour = 当下这一桩危机
+位置固定：说 the buzzword du jour、the villain du jour，永远在名词后头。
+构词：法语 of the day 整个借入。
