@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-09） ═══
-B 词表 7531 条，词典序 a → endomorph。义项 28522。
+B 词表 7607 条，词典序 a → enlightenment。义项 28686。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完：da 98%、de 97%、di 97%、do 96%、dr 94%、du 100%、dw 100%、dy 96%
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
@@ -18,7 +18,7 @@ B 词表 7531 条，词典序 a → endomorph。义项 28522。
 交付文件（每 2500 条一份）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
-  B-merged-5001-7531.txt   2531 条   compatible → endomorph
+  B-merged-5001-7607.txt   2607 条   compatible → enlightenment
 **新词条落在第三份里**，写到 7500 时 merge-wordlist 会自动切出第四份并删掉旧尾巴。
 
 
@@ -133,8 +133,8 @@ eg- 100%、eh- 100%、ei- 100%（缺的都是待推迟）。
 ej- 与 ek- 收满，el- 段 98%（单列词与 28 个复合词并入都做完了，
 余下 elapsed time、electroconvulsive therapy、electroshock therapy 三条待推迟）。
 em- 段 99%（单列词与 14 个复合词并入都做完了，只剩 emissions trading 待推迟）。
-en- 段 23%（清单 322 条，写到 endomorph）。
-**下一步：en- 段继续**（endorphin → enzyme 还有 245 条，是 e 段最大的一块）。
+en- 段 47%（清单 322 条，写到 enlightenment）。
+**下一步：en- 段继续**（enlist → enzyme 还有约 170 条）。
   · en- 第二批 audit-examples 报 enclose「偏薄」（额外实词 3.7 < 4）——
     办法是把例句改厚（加上「标着六月的文件夹」「横穿其上的老小路」这类承载词），
     不是去动那道下限。
