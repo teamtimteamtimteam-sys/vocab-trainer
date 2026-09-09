@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-09） ═══
-B 词表 6967 条，词典序 a → dystrophy。义项 27075。
+B 词表 6967 条，词典序 a → dystrophy。义项 27152。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完：da 98%、de 97%、di 97%、do 96%、dr 94%、du 100%、dw 100%、dy 96%
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
@@ -126,7 +126,21 @@ down 一族 33 条并成 9 个。do- 段 382/395（96%），只剩 13 条待推�
 第一批 drab → drastic（24 条）、第二批 draught → drivel（21 条）、第三批 drat → drum（23 条）、第四批 drunk → drywall（7 条）之后，
 **dr- 的并入 pass 也做完了**：112 条按意思归组写进 48 个义项，
 大户是 dry（8 组）、drop（5 组）、draw 与 drag 与 drum（各 4 组）。
-**下一步：du- 段**（清单 169 条，已收 2）。
+**du-、dw-、dy- 都写完了（2026-09-09）**：du 五批 111 条＋37 个复合词并入，
+dw 7 条，dy 31 条。d 段到此为止，余下的全是待推迟。
+**下一步：e 段**（先跑 coverage.py ea，再往下 eb、ec…）。
+  · du- 段的四个坑，都是老毛病换了个词：
+    ① dumbly／dumbness 写在 dumb 的核心块里没配例句 —— audit-swallowed 逮到，
+      当批就补成了单条；dumper truck、dune buggy、dust bunny、dust down 同理，
+      补的办法是把带占位词的等式写进宿主（dust something down 去掉 something
+      正好等于 dust down），不是另编场景。
+    ② dust bunny 一度挂到 bunny 条下，闸门照报 —— audit-swallowed 只认
+      **前四个字母同源的宿主**，所以复合词得挂在 dust 那一支上，不是内容词那一支。
+    ③ dyke 的第一个例句跟早先 dike 那条几乎一字不差（scan-dupes 通道 5 报 0.83），
+      重写成放羊的场景。拼写变体两条都留着，但场景必须各走各的。
+    ④ dy- 段全是 dys- 打头的医学词，两个义项就是硬底线；批均等式一度掉到 2.08，
+      补的是真搭配（body dysmorphic disorder、cervical dysplasia、myotonic
+      dystrophy），不是为凑数硬编。
   · check-wordlist 新加了一道「草稿行」检查：写到一半改主意、把弃用的
     半截例句连同一句 Hmm 一起 append 进文件，2026-09-08 与 09-09 连着犯了
     三次（dildo、distal、dominatrix）。三次都是靠「例句缺少译文」间接报出来的，
