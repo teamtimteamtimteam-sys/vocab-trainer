@@ -1,0 +1,609 @@
+encrustation
+核心：结壳、硬壳层：长期沉积在表面结成的一层硬东西，如水垢、盐霜。
+可数不可数都行，也拼 incrustation。
+① The encrustation inside the kettle came off in one piece.
+= 水壶里那层水垢整片脱了下来。
+an encrustation = 结壳、硬壳
+② Salt encrustation on the hull adds weight and slows everything down.
+= 船体上结的盐壳增加重量，把速度都拖慢了。
+salt encrustation = 盐结壳
+
+encrusted
+核心：两支。一是结着硬壳的；二是镶满（宝石等）的。搭 be encrusted with something。
+① The pot was encrusted with something nobody wanted to identify.
+= 那口锅上结着一层谁也不想去辨认的东西。
+be encrusted with something = 结着一层某物
+② The lid is encrusted with small stones and weighs more than the box.
+= 盖子上镶满小宝石，比盒子本身还重。
+encrusted with jewels = 镶满宝石的
+
+encrypt
+核心：加密：把信息转成没有钥匙就读不懂的形式，跟 decrypt 相对。名词 encryption。
+① Encrypt the file before it leaves the building and tell nobody the password.
+= 文件离开这栋楼之前先加密，密码谁也别告诉。
+encrypt a file = 给文件加密
+be encrypted = 被加密
+② Messages are encrypted end to end and the metadata is not.
+= 消息是端到端加密的，元数据不是。
+encrypt something = 对某物加密
+
+encryption
+核心：加密：把信息编成外人读不懂的形式的做法与技术。不可数。
+① Encryption protects the message and says nothing about who sent it.
+= 加密保护的是内容，至于是谁发的，它什么也没藏住。
+encryption = 加密
+end-to-end encryption = 端到端加密
+② Strong encryption is now the default and was once a licence application.
+= 强加密如今是默认设置，从前还得申请许可证。
+strong encryption = 强加密
+
+encumber
+核心：两支。一是（正式）妨碍、拖累：让人行动不便或做事受阻；
+二是（法律）使（财产）带上债务或抵押。多用被动。名词 encumbrance。
+① Encumbered by two bags and a coat, he missed the connection.
+= 拎着两个包、还拿着大衣，他没赶上转乘。
+be encumbered by something = 被某物拖累
+② The property is encumbered by a loan the buyer never saw.
+= 那处房产上压着一笔买家从没见过的贷款。
+encumber something = 使某物带上负担
+
+encumbrance
+核心：两支。一是累赘、负担：拖着人、让人放不开手脚的东西；
+二是（法律）产权负担：压在房产上的抵押、地役权一类。可数。
+① He travels with one bag and calls everything else an encumbrance.
+= 他出门只带一个包，别的一概被他称作累赘。
+an encumbrance = 累赘、负担
+② The search showed two encumbrances on the title and the sale stopped.
+= 产权查询显示地契上有两项负担，交易就停了。
+an encumbrance on something = 压在某物上的产权负担
+构词：encumber 加 -ance
+
+encyclical
+核心：（天主教）通谕：教宗发给全体主教或信众的正式训导文告。可数。
+① The encyclical runs to forty pages and one sentence made the news.
+= 那份通谕写了四十页，上新闻的是其中一句话。
+an encyclical = 教宗通谕
+issue an encyclical = 发布通谕
+② An encyclical is named after its first two words in Latin.
+= 通谕的名字取自它拉丁文的头两个词。
+a papal encyclical = 教宗通谕
+
+encyclopedia
+核心：百科全书：按条目收录各门知识的工具书或网站。可数，也拼 encyclopaedia。
+① The encyclopedia took up a whole shelf and settled every argument at dinner.
+= 那套百科全书占了整整一层书架，饭桌上的争论全靠它了结。
+an encyclopedia = 百科全书
+an online encyclopedia = 网络百科
+② She read the encyclopedia in order and stopped somewhere in the letter M.
+= 她按顺序读那套百科全书，读到 M 部的某处停下了。
+look something up in an encyclopedia = 在百科全书里查某物
+
+encyclopedic
+核心：两支。一是百科全书式的：说知识面广得无所不包；
+二是（书、清单）巨细无遗的。也拼 encyclopaedic。
+① He has an encyclopedic memory for fixtures and forgets his own birthday.
+= 他对赛程记得像百科全书，自己的生日倒忘了。
+encyclopedic knowledge = 百科全书式的学识
+② The catalogue is encyclopedic and impossible to carry anywhere.
+= 那本目录巨细无遗，也重得哪儿都拿不动。
+encyclopedic = 无所不包的
+
+end
+核心：名词四支、动词一支。名词一是末端、尽头；二是结束、末尾；
+三是目的：a means to an end；四是复数 ends：两头、收支两端。
+动词是结束、终止。
+习语：in the end 是最后；at the end of the day 是说到底；
+come to an end 是告一段落；no end of something 是数不清的；end up 是最终落得。
+① The house is at the end of a road that stops at a field.
+= 那栋房子在一条路的尽头，那条路到一片田里就断了。
+the end of something = 某物的尽头
+② In the end they took the train and arrived before the others had parked.
+= 最后他们坐了火车，别人还没停好车他们就到了。
+in the end = 最后、终于
+③ At the end of the day the decision is one person's and everyone knows whose.
+= 说到底，那个决定是某一个人的，而且人人都知道是谁的。
+at the end of the day = 说到底
+④ The meeting came to an end without anything being written down.
+= 会议就那么结束了，什么也没记下来。
+come to an end = 告一段落
+⑤ Two jobs and no childcare is how she makes ends meet.
+= 打两份工又没人帮着带孩子，她就这么勉强维持收支。
+make ends meet = 勉强维持收支
+⑥ The lecture gave us no end of examples and one usable rule.
+= 那场讲座举了数不清的例子，可用的规则只有一条。
+no end of something = 数不清的某物
+⑦ He ended the argument by leaving the room and taking the file with him.
+= 他离开房间还把卷宗带走，争论就此结束。
+end something = 结束某事
+⑧ They ended up in a village neither of them could pronounce.
+= 他们最后落脚在一个两人都念不出名字的村子。
+end up = 最终落得、最后到了
+⑨ The money is a means to an end and the end keeps moving.
+= 那笔钱是达到目的的手段，可目的一直在挪。
+a means to an end = 达到目的的手段
+
+endanger
+核心：危及、使处于危险：说危害生命、健康、地位或前途。
+形容词 endangered，名词 endangerment。
+① Two loose slates endanger anyone who walks under that gutter.
+= 两片松动的瓦，危及每一个从那道檐槽下走过的人。
+endanger somebody = 危及某人
+endanger life = 危及生命
+② Saying that in public would endanger the whole negotiation.
+= 那话公开说出来，会危及整场谈判。
+endanger something = 危及某事
+
+endangered
+核心：濒危的、受威胁的：说物种或语言快要消失。
+① The bird was endangered in 1970 and is common in two counties now.
+= 那种鸟一九七〇年还濒危，如今在两个郡都很常见。
+an endangered species = 濒危物种
+be endangered = 处于濒危
+② An endangered language usually has speakers and no schools.
+= 濒危语言通常还有人说，只是没有学校教。
+an endangered language = 濒危语言
+
+endangerment
+核心：（正式、法律）危害、使陷入险境：法律上 child endangerment 是危害儿童安全罪。不可数。
+① The charge was endangerment and the facts were nine minutes long.
+= 指控的是危害他人安全，案情事实只有九分钟那么长。
+endangerment = 危害、使陷入险境
+② Child endangerment covers leaving a five-year-old in a car in August.
+= 八月把五岁孩子留在车里，就落进危害儿童安全这一条。
+child endangerment = 危害儿童安全（罪名）
+构词：endanger 加 -ment
+
+endear
+核心：使受喜爱：endear somebody to somebody，多用于否定或反语。
+① The trumpet at seven did not endear him to the neighbours.
+= 早上七点吹小号，没让邻居喜欢上他。
+endear somebody to somebody = 使某人讨某人喜欢
+② He endeared himself to the committee by learning every name on the first morning.
+= 头一个上午他就把每个人的名字都记住了，就此讨得委员会的欢心。
+endear yourself to somebody = 主动讨某人喜欢
+
+endearing
+核心：讨人喜欢的、招人疼的：说习惯、缺点、笑容让人觉得可爱。副词 endearingly。
+① His inability to lie is endearing and useless in that job.
+= 他不会撒谎，这点招人喜欢，可在那份工作上没用。
+endearing = 讨人喜欢的
+an endearing habit = 招人喜欢的习惯
+② There is something endearing about a shop that never opens on time.
+= 一家从不准点开门的店，自有它惹人喜欢的地方。
+endearing = 惹人怜爱的
+
+endearingly
+核心：讨人喜欢地、憨态可掬地：修饰笑、说话与做事的样子。
+① She is endearingly bad at pretending to like the coffee.
+= 她假装喜欢那咖啡的样子，笨拙得可爱。
+endearingly bad at something = 某事上笨得可爱
+② He explained it endearingly and got the numbers completely wrong.
+= 他讲得很招人喜欢，数字却全错了。
+explain something endearingly = 讲得憨态可掬
+构词：endearing 加 -ly
+
+endearment
+核心：昵称、亲昵话：表示亲昵的称呼或说法，最常见的搭配是 a term of endearment。
+可数不可数都行。
+① Every second sentence had an endearment in it and none of them meant much.
+= 他每隔一句就带个昵称，可哪一个也没多少分量。
+an endearment = 昵称、亲昵话
+② Terms of endearment travel badly and sound odd in another country.
+= 昵称这东西不好搬家，到了别的国家听着就怪。
+a term of endearment = 表示亲昵的称呼
+
+endeavour
+核心：名词与动词，都正式。名词一是努力、尽力；二是一项事业、一次尝试。
+动词是努力去做：endeavour to do something。美式拼 endeavor。
+① We endeavour to answer within three days and manage it about half the time.
+= 我们力争三天内答复，实际做到的大约一半。
+endeavour to do something = 努力做某事
+② The whole endeavour took nine years and two changes of government.
+= 整件事花了九年，中间还换了两届政府。
+an endeavour = 一项事业、一番努力
+human endeavour = 人类的努力
+
+endemic
+核心：两支。一是（疾病、问题）某地固有的、长期存在的：be endemic in a place；
+二是（生物）某地特有的：be endemic to an island。
+注意别混：endemic 是本来就有、一直有，epidemic 是一时爆发。
+① Corruption was endemic in that department long before the audit.
+= 早在审计之前，那个部门的腐败就是常态。
+be endemic in something = 在某处长期存在
+② The plant is endemic to two valleys and grows nowhere else on earth.
+= 那种植物只在两条山谷里有，世上别处都不长。
+be endemic to a place = 为某地所特有
+
+endgame
+核心：两支。一是（国际象棋）残局：子力所剩不多的收官阶段；
+二是（比喻）终局、收官阶段：谈判或冲突的最后一段。可数。
+① The endgame took longer than the rest of the match put together.
+= 收官那一段，比整盘棋其余部分加起来还长。
+the endgame = 残局、收官阶段
+② Nobody in the room could describe the endgame and everybody kept negotiating.
+= 屋里没人说得清最后要谈成什么样，大家还接着谈。
+an endgame = 终局、最后阶段
+
+ending
+核心：两支。一是结尾、结局：故事或事情的收尾；二是（语法）词尾。可数。
+① The ending was rewritten twice and the first one is still better.
+= 结尾重写了两遍，头一版还是更好。
+an ending = 结局
+a happy ending = 圆满的结局
+② The ending changes with the tense and nothing else in the word moves.
+= 词尾随时态变化，词里别的部分一动不动。
+a verb ending = 动词词尾
+
+endive
+核心：菊苣：叶子发苦的一种蔬菜，可生拌也可烤；
+英美两地把 endive 与 chicory 的叫法正好用反。可数不可数都行。
+① Endive is bitter enough that most recipes pair it with something sweet.
+= 菊苣够苦，多数菜谱都给它配点甜的。
+endive = 菊苣
+② She grills endive with orange and calls it the only salad worth eating warm.
+= 她把菊苣配橙子烤，说这是唯一值得趁热吃的沙拉。
+grilled endive = 烤菊苣
+
+endless
+核心：两支。一是没完没了的、无穷无尽的：说时间、抱怨、可能性；
+二是（形状）环形连续的：an endless belt。副词 endlessly。
+① The meeting was endless and produced one decision about biscuits.
+= 那个会没完没了，只作出一个关于饼干的决定。
+endless = 没完没了的
+endless possibilities = 无穷的可能
+② An endless belt carries the sand up and drops it back into the same pile.
+= 一条环形传送带把沙送上去，又倒回同一堆里。
+an endless belt = 环形传送带
+
+endlessly
+核心：没完没了地、不断地：修饰重复、争论、谈论这一类动作。
+① The tape loops endlessly and nobody has found the switch.
+= 那盘带子没完没了地循环，谁也没找到开关。
+loop endlessly = 无休止地循环
+② They argued endlessly about a fence that fell down in the first storm.
+= 他们为一道围栏没完没了地争，那围栏头一场风暴就倒了。
+argue endlessly = 争论个没完
+构词：endless 加 -ly
+
+endnote
+核心：尾注：放在章末或书末的注释，跟放在页脚的 footnote 相对。可数。
+① The endnotes take up sixty pages and half of them are worth reading.
+= 那些尾注占了六十页，其中一半值得读。
+an endnote = 尾注
+② An endnote is easier to typeset and harder to actually read.
+= 尾注排版起来省事，读起来倒麻烦。
+endnotes = 尾注（复数）
+构词：end 加 note
+
+endocrine
+核心：内分泌的：说把激素直接分泌进血液的腺体与系统。只作定语。
+① The endocrine system explains why one tablet changes a whole month.
+= 内分泌系统能解释为什么一片药能改变一整个月。
+the endocrine system = 内分泌系统
+② An endocrine disorder shows up in the blood before it shows in the mirror.
+= 内分泌失调先显在血里，再显到镜子里。
+an endocrine disorder = 内分泌失调
+
+endocrinologist
+核心：内分泌科医生、内分泌学家：研究或诊治激素相关疾病的人。可数。
+① The endocrinologist reads the numbers and asks what the sleep is like.
+= 内分泌科医生看完数值，会问睡眠怎么样。
+an endocrinologist = 内分泌科医生
+② Two endocrinologists cover a region with four hundred thousand people.
+= 两名内分泌科医生，管着四十万人的一片区域。
+see an endocrinologist = 看内分泌科
+构词：endocrinology 加 -ist
+
+endocrinology
+核心：内分泌学：研究激素与内分泌腺的医学分支。不可数。
+① Endocrinology is where a small number changes everything downstream.
+= 内分泌学里，一个很小的数值会把下游的一切都改掉。
+endocrinology = 内分泌学
+② The clinic runs endocrinology on Tuesdays and everything else the rest of the week.
+= 那家诊所周二看内分泌，其余日子看别的。
+a department of endocrinology = 内分泌科
+
+endogamy
+核心：内婚制：只在本群体（宗族、种姓、教派）内部通婚的习俗，跟外婚制 exogamy 相对。不可数。
+① Endogamy kept the land in four families for three centuries.
+= 内婚制让那片地在四个家族手里传了三百年。
+endogamy = 内婚制
+② Strict endogamy narrows a gene pool faster than any isolation does.
+= 严格的内婚制缩小基因库，比任何地理隔绝都快。
+strict endogamy = 严格的内婚制
+
+endogenous
+核心：（正式、科技）内生的、内源的：由内部产生的，跟外源 exogenous 相对。
+① Endogenous hormones swamp anything a tablet can add.
+= 体内自己分泌的激素，把药片能补的那点全盖过去了。
+endogenous hormones = 内源性激素
+② The model treats prices as endogenous and the weather as given.
+= 那个模型把价格当作内生变量，把天气当作既定条件。
+endogenous growth = 内生增长
+
+endomorph
+核心：内胚型体型的人：偏圆润、容易增重的体型，
+跟外胚型 ectomorph、中胚型 mesomorph 并列。可数。
+① An endomorph gains and loses on a slower clock than the charts assume.
+= 内胚型体型的人增重减重，都比那些图表设想的慢。
+an endomorph = 内胚型体型的人
+② The programme for an endomorph starts with sleep and not with the treadmill.
+= 给内胚型体型安排的方案，先从睡眠入手，不是先上跑步机。
+a programme for an endomorph = 针对圆润体型的方案
+构词：endo-（内）加 -morph（形态）
+
+endorphin
+核心：内啡肽：大脑与垂体分泌的一类物质，能镇痛、带来愉悦感；
+运动、大笑、吃辣都能促它释放。可数，多用复数。
+① Endorphins explain why the last mile feels easier than the fourth.
+= 内啡肽能解释为什么最后一英里比第四英里还轻松。
+endorphins = 内啡肽
+② A rush of endorphins lasts about twenty minutes and answers nothing.
+= 内啡肽那阵冲劲大约二十分钟，什么问题也解决不了。
+an endorphin rush = 内啡肽带来的一阵欣快
+
+endorse
+核心：三支。一是公开赞同、支持；二是（名人）代言、为产品背书；
+三是在支票背面签字背书，英式还指把违章批注在驾照上。名词 endorsement。
+① The committee endorsed the plan and asked for the costs afterwards.
+= 委员会先表态支持那个方案，之后才要成本数字。
+endorse a plan = 赞同一项方案
+endorse a candidate = 为某候选人背书
+② She endorses one brand of boot and wears another on her days off.
+= 她给一个牌子的靴子代言，休息日穿的是另一个牌子。
+endorse a product = 为产品代言
+③ The cheque has to be endorsed on the back before the bank will take it.
+= 支票背面得签了字，银行才收。
+endorse a cheque = 在支票背面背书
+
+endorsement
+核心：三支。一是公开支持、认可；二是（名人）代言；
+三是（英式）驾照上的违章批注。可数不可数都行。
+① The letter is a ringing endorsement and mentions the work twice.
+= 那封信是全力力挺，提到工作本身两回。
+an endorsement = 认可、支持
+a ringing endorsement = 强有力的支持
+② Endorsements pay him more than playing ever did.
+= 代言给他挣的钱，比打球挣的还多。
+an endorsement deal = 代言合约
+③ Three endorsements on a licence and the licence goes.
+= 驾照上批注三次违章，驾照就吊销了。
+an endorsement = 驾照上的违章批注
+
+endoscope
+核心：内窥镜：末端带镜头与光源的细管，用来看体内的情况，也能通过它做小手术。可数。
+① The endoscope goes down in about four minutes and the sedation lasts longer.
+= 内窥镜四分钟左右就下去了，镇静剂的劲儿倒长得多。
+an endoscope = 内窥镜
+② A modern endoscope carries a camera, a light and two working channels.
+= 现代内窥镜带着摄像头、光源，还有两条操作通道。
+insert an endoscope = 插入内窥镜
+
+endoscopy
+核心：内窥镜检查：用内窥镜查看消化道等体内部位。可数不可数都行。
+① The endoscopy found nothing and the symptoms went on for a year.
+= 那次内窥镜检查什么也没查出来，症状又持续了一年。
+an endoscopy = 内窥镜检查
+have an endoscopy = 做内窥镜检查
+② Endoscopy replaced most exploratory surgery within a generation.
+= 一代人之间，内窥镜检查取代了大多数探查性手术。
+endoscopy = 内窥镜检查技术
+
+endoskeleton
+核心：内骨骼：长在体内的支撑骨架，脊椎动物都有；
+跟昆虫那种外骨骼 exoskeleton 相对。可数。
+① An endoskeleton grows with the animal and never has to be shed.
+= 内骨骼跟着动物一起长，不用蜕掉重来。
+an endoskeleton = 内骨骼
+② The endoskeleton carries the load and the muscles hang off it.
+= 内骨骼承重，肌肉挂在它上面。
+a bony endoskeleton = 骨质内骨骼
+构词：endo-（内）加 skeleton
+
+endosperm
+核心：胚乳：种子里包着胚、供发芽用的养分组织；磨面粉磨的主要就是它。不可数。
+① The endosperm is what the flour is made from and the bran is what gets removed.
+= 面粉磨的是胚乳，被去掉的是麸皮。
+endosperm = 胚乳
+② A seed with no endosperm has to carry its food in the leaves instead.
+= 没有胚乳的种子，只好把养分存进子叶里。
+starchy endosperm = 含淀粉的胚乳
+
+endothermic
+核心：两支。一是（化学）吸热的：反应要从周围吸走热量，跟放热 exothermic 相对；
+二是（生物）内温的、恒温的：靠自身代谢维持体温。
+① An endothermic reaction makes the beaker cold enough to frost.
+= 吸热反应能让烧杯冷到结霜。
+an endothermic reaction = 吸热反应
+② Endothermic animals eat far more than cold-blooded ones of the same size.
+= 内温动物吃的东西，远多过同样大小的冷血动物。
+endothermic animals = 内温（恒温）动物
+
+endow
+核心：两支。一是捐资设立、给…提供基金：endow a chair；
+二是 be endowed with something，天生具有某种品质或条件。名词 endowment。
+① A former student endowed the library and asked for no plaque.
+= 一位老校友出资资助了那座图书馆，连块牌子都没要。
+endow something = 捐资资助某物
+endow a chair = 捐资设立讲席教授职位
+② The place is endowed with two harbours and no flat land at all.
+= 那地方天生有两个港湾，却一块平地也没有。
+be endowed with something = 天生具有某物
+
+endowment
+核心：三支。一是捐赠基金：捐出来生息、供长期使用的钱；
+二是捐资这件事；三是（正式）天赋、禀赋。可数不可数都行。
+① The endowment pays for three posts and the building still leaks.
+= 那笔捐赠基金养着三个岗位，楼却照样漏雨。
+an endowment = 捐赠基金
+an endowment fund = 基金本金
+② His natural endowment was patience and everything else was practice.
+= 他天生的那份禀赋是耐心，其余全靠练。
+a natural endowment = 天赋
+
+endpaper
+核心：（书的）环衬：把书芯与封面粘在一起的那两张纸，精装书上常印花纹或地图。
+可数，多用复数。
+① The endpapers are marbled and the rest of the binding is plain.
+= 环衬做了大理石纹，装帧其余部分素净。
+endpapers = 环衬
+② Somebody wrote a name on the endpaper in 1912 and nobody has erased it.
+= 一九一二年有人在环衬上写了个名字，至今没人擦掉。
+an endpaper = 一张环衬
+
+endurable
+核心：能忍受的、挨得过去的：多用在否定或有条件的说法里。
+① The heat is endurable in the shade and impossible out in the yard.
+= 那种热在阴凉里挨得住，到院子里就没法待。
+endurable = 挨得过去的
+② Two hours of it is endurable; the third hour is where people leave.
+= 熬两个钟头还行，第三个钟头就有人走了。
+barely endurable = 勉强忍得住的
+
+endurance
+核心：两支。一是耐力：长时间承受体力或精神消耗的能力；
+二是忍耐、持久。不可数。
+① Endurance beats speed on a course with that much climbing.
+= 在爬升那么多的赛道上，耐力比速度管用。
+endurance = 耐力
+an endurance test = 耐力测试
+② Beyond endurance is where the second week of that job begins.
+= 那份工作的第二周，就从「忍无可忍」开始。
+beyond endurance = 忍无可忍
+
+endure
+核心：两支。一是忍受、熬过：endure something；
+二是（不及物）持续、留存下来。形容词 enduring。
+① They endured two winters in a caravan and never mention the second one.
+= 他们在拖车里熬过两个冬天，第二个冬天从来不提。
+endure something = 忍受、熬过某事
+endure hardship = 吃苦受累
+② The bridge endured and the road it served was closed in 1962.
+= 那座桥留存了下来，它服务的那条路一九六二年就关了。
+endure = 持续存在
+
+enduring
+核心：持久的、经久不衰的：说影响、友谊、印象一直留着。副词 enduringly。
+① The enduring image of that night is a man carrying a chair.
+= 那一夜留在人心里的画面，是一个搬椅子的人。
+an enduring image = 挥之不去的画面
+② Their enduring friendship survived two arguments about money.
+= 他们那份持久的友谊，熬过了两次为钱的争吵。
+enduring = 持久的
+
+enduringly
+核心：持久地、始终地：多修饰形容词，如 enduringly popular。
+① The song is enduringly popular and nobody can name the writer.
+= 那首歌长盛不衰，可谁也说不出词曲作者是谁。
+enduringly popular = 长盛不衰地受欢迎
+② The image stayed enduringly attached to a policy it never described.
+= 那个形象始终跟一项它根本没描述过的政策绑在一起。
+enduringly = 始终、持久地
+构词：enduring 加 -ly
+
+enduro
+核心：耐力赛：摩托车或自行车在越野路线上的长距离比赛，比的是耐力与操控。可数。
+① The enduro runs for six hours and the winner finishes with one working brake.
+= 那场耐力赛跑六个钟头，冠军冲线时只剩一个刹车还能用。
+an enduro = 耐力赛
+② An enduro bike is built for mud and useless on a motorway.
+= 耐力赛越野车是为泥地造的，上了高速就没用。
+an enduro bike = 耐力赛越野车
+
+endways
+核心：末端朝前地、竖着地：说东西以窄的一头朝前或朝上摆。美式也说 endwise。
+① The sofa only goes through the door endways and even then it marks the frame.
+= 那沙发只有竖着才进得了门，就这样还把门框刮花。
+endways = 竖着、末端朝前地
+② Stack the boards endways and they take half the floor.
+= 木板竖着摞，占的地方少一半。
+stack something endways = 把某物竖着摞起来
+
+enema
+核心：灌肠：把液体注进直肠以通便或做检查前清肠，也指所用的器具与药液。可数。
+① The enema is given the night before and the appointment is at seven.
+= 灌肠是前一天晚上做的，预约在七点。
+an enema = 灌肠
+give somebody an enema = 给某人灌肠
+② A barium enema shows the outline of a bowel that no camera reaches.
+= 钡剂灌肠能显出摄像头够不到的那段肠子的轮廓。
+a barium enema = 钡剂灌肠
+
+enemy
+核心：三支。一是敌人、仇敌，可数；二是（战争中的）敌方：the enemy；
+三是（比喻）大敌：Damp is the enemy of paper。复数 enemies。
+习语 make enemies 是树敌。
+① He made two enemies in one meeting and neither of them forgot.
+= 他一次会上就树了两个敌人，两个都没忘。
+an enemy = 敌人
+make enemies = 树敌
+② The enemy held the ridge for eleven days and left in one night.
+= 敌方守着那道山脊十一天，一夜之间撤了。
+the enemy = 敌方
+③ Damp is the enemy of every book on that shelf.
+= 潮气是那架子上每一本书的大敌。
+the enemy of something = 某物的大敌
+
+energetic
+核心：两支。一是精力充沛的、干劲足的：说人或活动；
+二是（措施、行动）大力的、积极的。副词 energetically。
+① An energetic ten minutes at the start saved an hour later on.
+= 开头精神十足地干上十分钟，后面省下一个钟头。
+energetic = 精力充沛的
+② The council took energetic action about the wrong problem.
+= 议会针对错的那个问题采取了大刀阔斧的行动。
+energetic action = 有力的行动
+
+energetically
+核心：精力充沛地、大力地：修饰工作、否认、推动这类动作。
+① She denied it energetically and produced three dates from memory.
+= 她使劲否认，还凭记忆报出三个日期。
+deny something energetically = 使劲否认
+② They set about the garden energetically and stopped at the brambles.
+= 他们干劲十足地收拾园子，到荆棘丛那儿停住了。
+set about something energetically = 干劲十足地着手
+构词：energetic 加 -ally
+
+energize
+核心：两支。一是使有活力、鼓起劲头：说人或团队被鼓舞起来；
+二是（技术）给…通电、使带电。英式也拼 energise。
+① One good hire energized a team that had stopped talking.
+= 招对了一个人，把一个连话都不说了的团队重新带活。
+energize somebody = 使某人鼓起劲头
+② The rail is energized at seven and nobody goes near it after that.
+= 那条轨道七点通电，之后没人敢靠近。
+be energized = 通了电的
+
+energy
+核心：三支。一是精力、活力：人的劲头，不可数；
+二是能量、能源：renewable energy；三是复数 energies：精力、心力。
+① She has the energy of two people and the patience of none.
+= 她有两个人的精力，却没有一个人的耐心。
+energy = 精力
+put energy into something = 在某事上使劲
+② Energy prices doubled and the insulation grant halved.
+= 能源价格翻倍，保温补贴减半。
+renewable energy = 可再生能源
+③ He devoted his energies to a project nobody had asked for.
+= 他把精力全投进一个没人要求做的项目。
+devote your energies to something = 把精力投入某事
+
+enervate
+核心：（正式）使虚弱无力、使人提不起劲：多用被动 be enervated。名词 enervation。
+注意别混：enervate 是抽走力气，跟 energize 恰好相反，样子却像。
+① The heat enervates everyone in the building by two in the afternoon.
+= 到下午两点，那股热把楼里每个人都熬得没了力气。
+enervate somebody = 使某人虚脱无力
+② Enervated by a week of meetings, he wrote the report in one sitting.
+= 被一周的会议耗得没了精神，他反倒一口气把报告写完了。
+be enervated by something = 被某事耗得虚脱
+
+enervation
+核心：（正式）虚脱、疲乏无力：被热、病或琐事耗掉力气的那种状态。不可数。
+① The enervation of a hot afternoon empties the office by four.
+= 热午后那股虚脱劲儿，四点就把办公室腾空了。
+enervation = 虚脱、疲乏无力
+② Enervation, not fever, was the symptom that finally sent him in.
+= 让他最终去看病的症状是浑身没劲，不是发烧。
+a sense of enervation = 一阵提不起劲的感觉
+构词：enervate 加 -ion
