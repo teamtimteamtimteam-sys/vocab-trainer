@@ -1,14 +1,3 @@
-dynamically
-核心：动态地、随情况变化地：多用于技术语境，说按需自动调整；
-也说人做事充满干劲地。
-① The page loads a skeleton first and fills the table dynamically.
-= 页面先加载框架，再动态地把表格填上。
-load something dynamically = 动态加载某物
-② Prices are set dynamically and two people on one flight rarely pay the same.
-= 价格是动态定的，同一趟航班上很少有两个人付一样的钱。
-be set dynamically = 动态定价
-构词：dynamic 加 -ally
-
 dynamism
 核心：活力、干劲：说人或组织有推动力、势头足。不可数。
 ① The dynamism of that department survived two reorganisations and one bad year.
@@ -264,3 +253,25 @@ muscular dystrophy = 肌营养不良
 = 角膜营养不良让眼睛慢慢变浑，而且有家族性。
 corneal dystrophy = 角膜营养不良
 myotonic dystrophy = 强直性肌营养不良
+
+each
+核心：限定词、代词、副词三用。指两个或两个以上里的每一个，
+着眼点是「一个一个地看」，跟 every 那种「整体上的全部」有别。
+后面接单数名词与单数动词；作代词说 each of them；副词用法放句尾。
+习语 each and every one 是加重语气的「每一个」；each other 是彼此（另立条）。
+① Each child was given a pencil and a sheet with their own name on it.
+= 每个孩子拿到一支铅笔，和一张写着自己名字的纸。
+each child = 每个孩子
+② Each of the three reports says something the other two leave out.
+= 三份报告各说了另外两份漏掉的东西。
+each of them = 他们当中的每一个
+③ The chairs cost forty pounds each and arrived in one enormous box.
+= 那些椅子每把四十镑，装在一只巨大的箱子里送来。
+cost forty pounds each = 每把四十镑
+④ Each and every one of those files has to be checked before Friday.
+= 那些文件每一份都得在周五之前查过。
+each and every one = 每一个（加重语气）
+⑤ The two of them wrote to each other every week for thirty years.
+= 他们俩三十年里每周给对方写一封信。
+each other = 彼此、互相
+注意别混：each 一个个地看，every 是整体上的全部，两者后面都跟单数。

@@ -24,6 +24,20 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'each': ['each and every'],
+ 'ear': ['play it by ear', 'be all ears', 'go in one ear and out the other',
+         "have somebody's ear", 'keep your ear to the ground', 'up to your ears in',
+         'music to your ears', 'turn a deaf ear'],
+ 'early': ['an early bird', 'at the earliest', 'early days', 'bright and early', 'early on'],
+ 'earn': ['earn a living', 'earn your keep'],
+ 'earth': ['cost the earth', 'down to earth', 'on earth', 'move heaven and earth',
+           'run somebody to earth'],
+ 'ease': ['at ease', 'ill at ease', 'with ease', 'put somebody at their ease'],
+ 'easy': ['take it easy', 'easier said than done', 'go easy on', 'easy come, easy go',
+          'easy does it', 'free and easy', 'within easy reach'],
+ 'eat': ['eat your words', 'eat out of somebody\'s hand', "what's eating",
+         'eat like a horse', 'eat your heart out'],
+
  'call': ['call it a day', 'call the shots', 'call off', 'call for', 'on call',
           'a close call', "call somebody's bluff", 'call in'],
  'carry': ['carry on', 'carry out', 'get carried away', 'carry weight', 'carry the can'],

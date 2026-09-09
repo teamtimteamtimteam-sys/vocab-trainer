@@ -1,15 +1,3 @@
-dustman
-核心：（英式）收垃圾的工人、清洁工：沿街收垃圾桶的人，
-美式说 garbage collector。可数，复数 dustmen。
-① The dustmen come at six and the whole street hears the lids go down.
-= 清洁工六点就来，桶盖砸下去的声音整条街都听得见。
-a dustman = 收垃圾的工人
-the dustmen = 清洁工（复数）
-② He worked as a dustman for two winters and never took a day off.
-= 他当了两个冬天的清洁工，一天假也没请过。
-work as a dustman = 做清洁工
-构词：dust 加 man
-
 dustpan
 核心：簸箕：跟小扫帚配套、把扫拢的灰土铲起来的浅盘。可数。
 英式的一整套叫 a dustpan and brush。
@@ -346,3 +334,14 @@ the dynamic between people = 人与人之间的互动格局
 = 决定会议走向的，群体互动往往多过议程本身。
 group dynamics = 群体互动
 fluid dynamics = 流体力学
+
+dynamically
+核心：动态地、随情况变化地：多用于技术语境，说按需自动调整；
+也说人做事充满干劲地。
+① The page loads a skeleton first and fills the table dynamically.
+= 页面先加载框架，再动态地把表格填上。
+load something dynamically = 动态加载某物
+② Prices are set dynamically and two people on one flight rarely pay the same.
+= 价格是动态定的，同一趟航班上很少有两个人付一样的钱。
+be set dynamically = 动态定价
+构词：dynamic 加 -ally
