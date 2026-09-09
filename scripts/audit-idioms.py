@@ -246,6 +246,8 @@ CHECK = {
  'drain': ['down the drain', 'a drain on'],
  'dream': ['a dream come true', 'in your dreams', 'dream up', 'like a dream',
            'beyond your wildest dreams', 'dream on'],
+ 'drug': ['be on drugs', 'take drugs'],
+ 'drum': ['drum up', 'bang the drum for'],
  'dress': ['dress up', 'dress down', 'dressed to kill', 'a dress rehearsal',
            'a dressing-down'],
  'drink': ['drink to', 'drink up', 'drink in', 'a stiff drink',
