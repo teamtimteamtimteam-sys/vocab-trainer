@@ -1,15 +1,3 @@
-dustpan
-核心：簸箕：跟小扫帚配套、把扫拢的灰土铲起来的浅盘。可数。
-英式的一整套叫 a dustpan and brush。
-① She swept the broken glass into a dustpan and carried it out at arm's length.
-= 她把碎玻璃扫进簸箕，伸直胳膊端了出去。
-a dustpan = 簸箕
-sweep something into a dustpan = 把某物扫进簸箕
-② The cupboard holds a mop, a bucket and a dustpan and brush.
-= 柜子里放着拖把、水桶，还有一副簸箕带小刷子。
-a dustpan and brush = 簸箕和小刷子（英式一套）
-构词：dust 加 pan
-
 dusty
 核心：三支。一是布满灰尘的：a dusty shelf；二是（颜色）发灰的：dusty pink；
 三是（英式口语）not so dusty，「还不赖」。比较级 dustier。
@@ -345,3 +333,13 @@ load something dynamically = 动态加载某物
 = 价格是动态定的，同一趟航班上很少有两个人付一样的钱。
 be set dynamically = 动态定价
 构词：dynamic 加 -ally
+
+dynamism
+核心：活力、干劲：说人或组织有推动力、势头足。不可数。
+① The dynamism of that department survived two reorganisations and one bad year.
+= 那个部门的活力熬过了两次重组和一个惨淡的年头。
+dynamism = 活力、干劲
+② Investors talk about dynamism and then ask for three years of steady figures.
+= 投资人嘴上讲活力，转头就要三年平稳的数字。
+economic dynamism = 经济活力
+构词：dynamic 加 -ism
