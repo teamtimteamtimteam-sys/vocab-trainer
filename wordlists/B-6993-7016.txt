@@ -1,18 +1,3 @@
-earnings
-核心：两支。一是（个人的）收入、工资所得；二是（公司的）盈利：
-earnings per share 是每股收益。永远用复数。
-① Average earnings rose four per cent and rents rose rather more.
-= 平均收入涨了百分之四，房租涨得更多些。
-average earnings = 平均收入
-earnings = 收入、工资所得
-② The company reports earnings on Thursday and everyone has guessed already.
-= 公司周四公布盈利，可谁都已经猜到了。
-earnings per share = 每股收益
-③ The benefit is earnings-related, so two neighbours get quite different sums.
-= 那项补助跟收入挂钩，所以两个邻居拿到的数目差得远。
-earnings-related = 与收入挂钩的
-构词：earn 加 -ings
-
 earphones
 核心：耳机：戴在耳上或塞进耳里、供一个人听的小听筒，多用复数。
 比 headphones 通常小，跟 earbuds 差不多。
@@ -332,3 +317,13 @@ an easel = 画架
 ② She works standing at an easel and sits down only to look at what she has done.
 = 她站在画架前作画，只有回头看画时才坐下。
 stand at an easel = 站在画架前
+
+easement
+核心：地役权：法律上一块地对另一块地享有的通行或使用权利 ——
+比如从邻居地里过路、埋管线。可数。
+① The easement lets the farm cross that field and predates both houses.
+= 那项地役权允许农场从那块地穿过，比两栋房子都早。
+an easement = 地役权
+② They bought the cottage without noticing the easement over the drive.
+= 他们买下那间小屋，没注意车道上还有一项地役权。
+an easement over something = 对某处的通行权

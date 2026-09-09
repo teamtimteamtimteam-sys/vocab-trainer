@@ -1,13 +1,3 @@
-ebony
-核心：两支。一是乌木：黑色的硬木，做琴键、家具镶嵌用，不可数；
-二是乌黑（的）：说颜色纯黑发亮，形容词与名词都行。
-① The black keys are ebony and the white ones stopped being ivory long ago.
-= 黑键是乌木做的，白键早就不是象牙了。
-ebony = 乌木
-② Her ebony hair shows every speck of dust that lands on a collar.
-= 她那头乌黑的头发，衣领上落一点灰都显得出来。
-ebony hair = 乌黑的头发
-
 ebullience
 核心：热情洋溢、兴高采烈：那种压不住的兴奋劲儿。不可数，正式。
 ① His ebullience carried the first hour and wore everybody out by the third.
@@ -255,3 +245,14 @@ eclipse something = 使某物相形见绌
 ③ His reputation was in eclipse for a decade and came back after he died.
 = 他的名声黯淡了十年，人死之后又回来了。
 be in eclipse = （名声）正黯淡下去
+
+ecocide
+核心：生态灭绝：大规模毁掉生态系统的行为；
+近些年有把它列为国际罪行的推动。不可数。
+① Lawyers have spent a decade trying to define ecocide tightly enough to prosecute.
+= 律师们花了十年，想把生态灭绝定义得够严密，好据以起诉。
+ecocide = 生态灭绝
+② Burning that forest was called ecocide by three governments and an accident by one.
+= 烧掉那片林子，三国政府称之为生态灭绝，另一国称之为意外。
+call something ecocide = 把某事称作生态灭绝
+构词：eco-（生态）加 -cide（杀）
