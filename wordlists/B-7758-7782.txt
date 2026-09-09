@@ -185,6 +185,7 @@ epoch
 = 那个时代由一项发明开启，又由另一项终结。
 an epoch = 时代、纪元
 mark an epoch = 开启一个时代
+an epoch-making decision = 划时代的决定
 ② The Holocene is the epoch we are still arguing about naming.
 = 全新世就是我们至今还在为怎么命名而争论的那个世。
 an epoch = （地质的）世

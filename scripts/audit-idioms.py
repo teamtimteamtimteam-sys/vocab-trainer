@@ -25,6 +25,8 @@ def fold(s):
 
 CHECK = {
  'each': ['each and every'],
+ 'equal': ['on equal terms', 'be equal to', 'all things being equal', 'have no equal'],
+ 'equation': ['part of the equation'],
  'end': ['in the end', 'at the end of the day', 'make ends meet', 'come to an end',
          'no end of', 'end up'],
  'enough': ['enough is enough', 'fair enough', 'sure enough'],
