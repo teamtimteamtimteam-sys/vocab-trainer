@@ -178,6 +178,17 @@ have eczema = 患湿疹
 = 那支药膏治痒，对诱发湿疹的东西一点办法没有。
 treat eczema = 治疗湿疹
 
+ed.
+核心：两支，都是书面缩写。一是 editor 编者、主编；二是 edition 版次。
+复数写 eds.。只写不说 —— 念的时候念全词。
+① The title page says 'ed. J. Meyer' and the introduction explains the two cuts.
+= 扉页上写着「J. 迈耶 编」，导言解释了砍掉的那两处。
+ed. = 编者、主编（书面缩写）
+② Quote from the 3rd ed.; the pagination changed after that printing.
+= 引用第三版，那一次印刷之后页码就变了。
+the 3rd ed. = 第三版
+注意：只出现在书目、版权页与注释里，正文里要写全 editor 或 edition。
+
 edamame
 核心：毛豆：连荚水煮的青大豆，撒盐当小食，日语借词。不可数。
 ① Edamame arrives too hot to touch and disappears within four minutes.
@@ -275,14 +286,3 @@ laugh edgily = 紧张地笑
 = 那个包装设计得很带棱角，里头的东西平平无奇。
 be edgily designed = 设计得前卫带刺
 构词：edgy 加 -ly，拼写 y 变 i
-
-edginess
-核心：两支。一是紧张、烦躁：坐立不安的那种状态；
-二是（风格上的）锋芒、前卫劲儿。不可数。
-① There was an edginess in the room that nobody wanted to name.
-= 屋里有一股谁也不愿点破的紧张。
-edginess = 紧张不安
-② The band lost its edginess and gained an audience.
-= 那支乐队丢了锋芒，换来了听众。
-lose your edginess = 失去锋芒
-构词：edgy 加 -ness
