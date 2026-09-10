@@ -96,6 +96,7 @@ a forward = 前锋
 ④ Forward the letter to the new address and keep a copy of the envelope.
 = 把信转寄到新地址，信封留个复印件。
 forward a letter = 转寄信件
+put something forward = 提出（建议、方案）
 ⑤ She looks forward to Thursday all week and then sleeps through it.
 = 她整周都盼着周四，到了那天却睡过去了。
 look forward to something = 盼望某事
@@ -215,6 +216,7 @@ commit a foul = 犯规
 ④ The net fouled the propeller and the engine stopped in the channel.
 = 渔网缠住螺旋桨，发动机在航道里熄了火。
 foul something = 缠住某物
+foul up = 搞砸
 ⑤ The police found no evidence of foul play and closed the file.
 = 警方没找到不正当行为的证据，把案子结了。
 foul play = 不正当行为
@@ -308,8 +310,8 @@ a fount of knowledge = 知识的源泉
 ② The stone fount stands where it stood before the wall was moved.
 = 那个石洗礼盆立在墙移动之前的老位置上。
 a stone fount = 石洗礼盆
-③ The printer ordered a new fount and used it for headings only.
-= 印工订了一副新铅字，只用来排标题。
+③ A fount of small type was sold off by weight when the works closed.
+= 厂子关门时，一副小号铅字论斤卖掉了。
 a fount of type = 一副铅字
 
 fountain

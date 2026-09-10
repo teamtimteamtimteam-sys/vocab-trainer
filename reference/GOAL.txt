@@ -422,12 +422,29 @@ forget / forgive / fork / form / forlorn 十五组。
     padding 也挑不出。
   · audit-ab 又点了两次 A 表搭配：foreign 缺 foreign language、
     forget 缺 forget to do。这是第四、第五次栽在同一件事上。
-  · **下一批从 fornicate 起**（fornication / fornicator / forsake / forsooth /
-    forswear / forsythia / fort / forte / forth / forthcoming / forthright /
-    forthwith / fortieth / fortification / fortify / fortitude / fortnight /
-    fortress / fortuitous / fortunate / fortune / forty / forum / forward
-    一带；fortune 与 forward 是大词，动笔前往 CHECK 补 make a fortune、
-    cost a fortune、a small fortune、look forward to、forward planning）。
+第九批 fornicate → fortress（25）、第十批 fortuitous → foursome（25）、
+第十一批 fourteen → fragile（25，后 12 条已进 fr- 段）。
+**fo- 段的待新写清零**：311/435（71%），剩下的全是待并入与待推迟。
+fortuitously / fortunately / foully / forthrightly / fractionally 并入各自形容词。
+  · fortnightly **没有**并进 fortnight —— 词根是名词，fortnightly 兼形容词、
+    副词与名词（双周刊），写进了 derived-keep.txt。**并入规则的对象是
+    「形容词的副词」，名词派生的 -ly 不在其列。**
+  · fortiori 剔除（只活在 a fortiori 里，同 extremis / flagrante 的办法）。
+  · **forwent 又是 coverage 的前四字母对不上**（forw / forg），
+    补进 inflections.txt 才认。**不规则过去式只要换了词头四字母，
+    就一定要显式登记**（flew、forwent 已两次）。
+  · scan-dupes 抓到 font ③ 与 fount ③ 撞车（0.50，两句都是"印工把一副铅字
+    留着排标题"）。照 dyke/dike 的老规矩两条都留，fount 换成"厂子关门时
+    一副小号铅字论斤卖掉"。**异体拼法写到第二条时，先翻出第一条再动笔。**
+
+═══ fr- 段已开工（清单 384 条）═══
+fr- 段 16/384（4%）。第十一批的后半截 fracas → fragile 已经写进去了。
+  · **下一批从 fragility 起**（fragment / fragmentary / fragmentation /
+    fragmented / fragrance / fragrant / frail / frailty / frame / framed /
+    framework / franc / franchise / franchisee / franchising / francophone /
+    frank / frankfurter / frankincense / frankness / frantic 一带；
+    frame 与 frank 是大词，动笔前往 CHECK 补 frame of mind、
+    frame of reference、a frame-up、to be frank、frankly speaking）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
