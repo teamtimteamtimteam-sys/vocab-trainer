@@ -1,12 +1,3 @@
-fasciitis
-核心：（医学）筋膜炎：筋膜发炎，最常见的是足底筋膜炎。不可数。
-① Plantar fasciitis makes the first ten steps of the morning the worst.
-= 足底筋膜炎让早上头十步最难熬。
-plantar fasciitis = 足底筋膜炎
-② Fasciitis responds to rest and to nothing that anybody wants to hear.
-= 筋膜炎只对休息有反应，别的办法谁也不爱听。
-fasciitis = 筋膜炎
-
 fascinate
 核心：使着迷、深深吸引：主语是事物，宾语是人。
 形容词有 fascinating 与 fascinated，名词 fascination。
@@ -96,6 +87,18 @@ the fashion industry = 时装业
 ③ He fixed it after a fashion and told everybody not to touch it.
 = 他勉强算是修好了，还叮嘱谁都别碰。
 after a fashion = 勉强算是
+④ The fashion designer sat through her own fashion show without once looking up.
+= 那位时装设计师坐看自己的时装秀，一次也没抬头。
+a fashion designer = 时装设计师
+a fashion show = 时装秀
+⑤ A fashion-conscious teenager and a fashion victim are two stops apart.
+= 讲究穿着的少年，跟盲目追潮流的人，隔着两站地。
+fashion-conscious = 讲究穿着的
+a fashion victim = 盲目追潮流的人
+⑥ The coat is fashion-forward and makes a fashion statement nobody asked for.
+= 那件大衣走在潮流前面，摆出一个没人想看的时尚宣言。
+fashion-forward = 引领潮流的
+a fashion statement = 时尚宣言
 
 fashionable
 核心：时髦的、时兴的：说衣着、说地段，也说某种观点一时受宠。
@@ -147,6 +150,26 @@ fast asleep = 睡得很沉
 ⑥ The company played fast and loose with the deadlines and lost the contract.
 = 那家公司拿交期玩花样，把合同弄丢了。
 play fast and loose = 玩弄手段、出尔反尔
+⑦ A fast bowler needs a long run-up and a very forgiving back.
+= 快速投球手要有长助跑，还要有一副经得起折腾的腰。
+a fast bowler = 板球里的快速投球手
+⑧ The fast break in the third quarter turned an eight-point gap into two.
+= 第三节的一次快攻，把八分的差距变成了两分。
+a fast break = 篮球里的快攻
+⑨ Fast food is cheap at the counter and expensive a long time later.
+= 快餐在柜台上便宜，很久以后才见代价。
+fast food = 快餐
+⑩ She was put on the fast track and handed the work nobody else wanted.
+= 她被放进快速晋升通道，接手的是别人都不愿干的活。
+the fast track = 快速晋升通道
+the fast lane = 快车道
+⑪ Fast forward two years and the fast-paced series already has three spin-offs.
+= 快进两年，那部节奏明快的剧集已经有了三部衍生剧。
+fast forward = 快进
+fast-paced = 节奏明快的
+⑫ A fast breeder makes more fuel than it burns and more paperwork than either.
+= 快中子增殖堆产出的燃料比烧掉的多，产出的文书比这两样还多。
+a fast breeder = 快中子增殖反应堆
 
 fastball
 核心：（棒球）快速球：投得最快、走得最直的那种球。可数。
@@ -247,6 +270,20 @@ a fat lot of good = 一点用没有
 ⑤ The cat is fat, unrepentant and asleep on the only warm chair.
 = 那只猫又胖又毫无悔意，睡在唯一暖和的椅子上。
 fat = 胖的
+⑥ Two fat cats in the boardroom voted themselves a rise and the staff a freeze.
+= 董事会里两位肥猫，给自己投了加薪，给员工投了冻薪。
+a fat cat = 肥猫（贬称高薪权贵）
+⑦ A fat finger on the keypad turned four thousand into forty thousand.
+= 键盘上手指按错一个键，四千变成了四万。
+a fat finger = 手指按错键
+fat-fingered = 按错键的
+⑧ The yoghurt is fat-free and sweeter than the one that is not.
+= 那种酸奶是脱脂的，比不脱脂的还甜。
+fat-free = 脱脂的
+⑨ Fat shaming drives people out of the gym that the fat camp sends them to.
+= 对肥胖的羞辱，把人从减肥营送去的那家健身房里赶了出来。
+fat shaming = 对肥胖的羞辱
+a fat camp = 减肥营
 
 fatal
 核心：两支。一是致命的：a fatal accident、a fatal dose；
@@ -300,3 +337,13 @@ accept something fatalistically = 听天由命地接受某事
 ④ She fatalistically accepted the third delay and opened a book.
 = 第三次延误她认了命，翻开一本书。
 构词：fatalistic 加 -ly
+
+fatality
+核心：两支。一是死亡事故中的死者，多用复数：road fatalities；
+二是（正式）致命性：the fatality rate。多见于统计与新闻。
+① Road fatalities fell for six years and rose again with the new junction.
+= 道路交通死亡人数降了六年，新路口一开又涨。
+road fatalities = 道路交通死亡人数
+② The fatality rate depends on how quickly the ambulance gets there.
+= 病死率取决于救护车多快能赶到。
+the fatality rate = 病死率

@@ -1,24 +1,3 @@
-faeces
-核心：（正式、医学）粪便：日常另有一堆说法，化验单与医嘱上写这个词。
-作复数，美式拼 feces。
-① The sample of faeces goes to the lab in a sealed plastic pot.
-= 那份粪便样本装在密封塑料盒里送往化验室。
-faeces = 粪便
-② Rats leave faeces along the same route behind the bins every night.
-= 老鼠每天夜里沿垃圾桶后面同一条路线留下粪便。
-animal faeces = 动物粪便
-
-faff
-核心：（英式，非正式）瞎忙、磨蹭：动词说 faff about 或 faff around，
-指忙活半天没弄出什么；名词指麻烦事，a bit of a faff。
-① They faffed about with the tent until the light went completely.
-= 他们摆弄那顶帐篷，一直磨蹭到天全黑。
-faff about = 瞎忙、磨蹭
-faff around = 瞎忙、磨蹭（跟 faff about 通用）
-② Getting there is a faff and getting back is a good deal worse.
-= 去那儿一趟够折腾，回来还要糟得多。
-a faff = 麻烦事
-
 fag
 核心：三支，差得很远。一是（英式，非正式）香烟；
 二是（英式，非正式）累人的差事；
@@ -29,6 +8,11 @@ a fag = 一根烟（英式）
 ② Carrying that up four flights of stairs was a real fag.
 = 把那玩意儿扛上四层楼，真是件累人的差事。
 a fag = 累人的差事
+③ They arrived at the fag end of the party and left with the last taxi.
+= 他们在派对的尾声才到，坐最后一辆出租车走的。
+the fag end of something = 某事的末尾、残余
+a fag end = 烟屁股
+fag hag = 常跟男同性恋交往的女性（俚语，冒犯，认得即可）
 
 fagged
 核心：（英式，非正式，略旧）累垮了的：多说 fagged out，等于 exhausted。
@@ -85,6 +69,9 @@ the brakes fail = 刹车失灵
 ④ Send the form back by Friday without fail.
 = 那张表务必在周五之前寄回。
 without fail = 务必、一定
+⑤ The system is fail-safe in the sense that it stops rather than guesses.
+= 那套系统是失效安全的：它宁可停机，也不瞎猜。
+fail-safe = 失效安全的
 
 failed
 核心：失败了的、没成的：多作定语 —— a failed attempt、a failed state。
@@ -148,6 +135,10 @@ faint = 晕倒
 ④ I have not the faintest idea who moved it or when.
 = 谁挪走的、什么时候挪的，我一点头绪都没有。
 not have the faintest idea = 一点头绪都没有
+⑤ The route is not for the faint-hearted and the map says so twice.
+= 那条路线不适合胆小的人，地图上写了两遍。
+not for the faint-hearted = 不适合胆小者
+the faint-hearted = 胆小的人
 
 faintly
 核心：两支。一是微弱地、隐约地；二是当程度副词用，「略微、有点」：
@@ -199,6 +190,29 @@ fair weather = 晴好天气
 ⑧ The book fair takes over the hall for a fortnight every spring.
 = 每年春天，书展都要把那个大厅占去两个星期。
 a book fair = 书展
+⑨ He made a fair copy of the minutes and burned the notes he had scribbled.
+= 他把会议记录誊清，把自己涂的草稿烧了。
+a fair copy = 誊清稿
+⑩ Fair play matters more to that crowd than the result ever does.
+= 对那群观众来说，公平竞赛比结果重要得多。
+fair play = 公平竞赛
+⑪ Once you publish a price you are fair game for every comparison site going.
+= 价格一公布，你就成了所有比价网站的靶子。
+fair game = 可以随便攻击的对象
+⑫ The valuation uses fair market value and the seller uses hope.
+= 估值按公允市价算，卖家按盼头算。
+fair market value = 公允市价
+⑬ Fair dealing and fair use cover much the same ground under different names.
+= 英式的合理使用与美式的合理使用，管的大体是同一块地，名字不同。
+fair dealing = 英式版权法的合理使用
+fair use = 美式版权法的合理使用
+⑭ A fair-minded chair gave the floor to the fair-haired newcomer last.
+= 一位处事公道的主席，最后才把发言权给那位金发新人。
+fair-minded = 处事公道的
+fair-haired = 金发的
+⑮ Fair trade coffee costs more and the difference is printed on the bag.
+= 公平贸易咖啡贵一些，差价就印在袋子上。
+fair trade = 公平贸易
 
 fairground
 核心：游乐场地、集市场地：搭旋转木马与摊位的那片空地。可数。
@@ -294,3 +308,41 @@ in good faith = 出于诚意
 ④ To break faith with the tenants now would cost more than the repairs.
 = 这时候对租户失信，代价比修缮还大。
 break faith with somebody = 对某人背信
+⑤ A faith healer at the market drew a longer queue than the doctor's surgery.
+= 集市上一位信仰治疗师，排的队比诊所还长。
+a faith healer = 信仰治疗师
+faith healing = 信仰治疗
+⑥ The faith school takes children from three parishes and one bus route.
+= 那所教会学校招三个教区、一条公交线上的孩子。
+a faith school = 教会学校
+
+faithful
+核心：三支。一是忠实的、靠得住的：a faithful friend；
+二是（伴侣）不出轨的：be faithful to somebody；三是（译文、复制）忠于原样的。
+副词 faithfully，名词 faithfulness。
+① A faithful friend tells you the awkward half of the news as well.
+= 忠实的朋友，连消息里难听的那一半也会告诉你。
+a faithful friend = 忠实的朋友
+② He stayed faithful to the club through three relegations and one rebrand.
+= 三次降级、一次改名，他都没离开那家俱乐部。
+be faithful to somebody = 对某人忠诚
+③ The translation is faithful and reads like an appliance manual.
+= 那份译文很忠实，读起来像电器说明书。
+a faithful translation = 忠实的译文
+副词 faithfully：忠实地、如实地；英式书信里 Yours faithfully 是不知收信人姓名时的落款。
+④ He reported the numbers faithfully and left out what they meant.
+= 他如实报了那些数字，却没说它们意味着什么。
+report something faithfully = 如实报告某事
+⑤ The letter ends Yours faithfully because nobody knew the manager's name.
+= 那封信以「Yours faithfully」收尾，因为谁也不知道经理姓什么。
+Yours faithfully = 谨启（英式书信落款）
+构词：faithful 加 -ly
+
+faithfulness
+核心：忠实、忠贞：对人、对承诺、也对原作。不可数。
+① Her faithfulness to the original score annoyed two critics and one conductor.
+= 她对原谱的忠实，惹恼了两位评论家和一位指挥。
+faithfulness to something = 对某物的忠实
+② Faithfulness in that job means turning up on the worst nights of the year.
+= 那份差事里的忠实，就是一年最难熬的那几夜也照样到场。
+faithfulness = 忠实

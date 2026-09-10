@@ -1,13 +1,3 @@
-fatality
-核心：两支。一是死亡事故中的死者，多用复数：road fatalities；
-二是（正式）致命性：the fatality rate。多见于统计与新闻。
-① Road fatalities fell for six years and rose again with the new junction.
-= 道路交通死亡人数降了六年，新路口一开又涨。
-road fatalities = 道路交通死亡人数
-② The fatality rate depends on how quickly the ambulance gets there.
-= 病死率取决于救护车多快能赶到。
-the fatality rate = 病死率
-
 fatberg
 核心：（新词，英式）下水道油脂块：油脂、湿巾与垃圾在下水道里结成的巨块。可数。
 ① The fatberg under that street weighed more than a double-decker bus.
@@ -65,6 +55,16 @@ the father of something = 某事物的鼻祖
 ③ Father Michael takes the early service and mends the roof himself.
 = 迈克尔神父主持早祷，屋顶也是自己修。
 Father = 神父（称呼）
+④ Her father-in-law became a father figure to half the street.
+= 她公公成了半条街孩子的父亲式人物。
+a father-in-law = 岳父、公公
+a father figure = 父亲般的长者
+⑤ The father of the chapel called the meeting and the print run stopped.
+= 印刷厂的工会车间代表召集了会议，印刷线就停了。
+the father of the chapel = 英式印刷业的工会车间代表
+⑥ Father's Day falls on a Sunday and the phone lines are busy all afternoon.
+= 父亲节赶在星期天，电话线整个下午都占着。
+Father's Day = 父亲节
 
 fatherhood
 核心：为人父、父亲这个身份。不可数。
@@ -245,3 +245,12 @@ issue a fatwa = 发布教令
 ② A fatwa is an opinion in law and not automatically a sentence.
 = 教令是教法上的意见，并不自动等于判决。
 a fatwa = 伊斯兰教令
+
+faucet
+核心：（美式）水龙头：英式说 tap。可数。
+① The faucet drips all night and the landlord calls it character.
+= 那个水龙头滴一整夜，房东管这叫「有味道」。
+a faucet = 水龙头（美式）
+② Turn the faucet off at the wall before you unscrew anything at all.
+= 拧任何东西之前，先在墙边把水阀关掉。
+turn off the faucet = 关掉水龙头

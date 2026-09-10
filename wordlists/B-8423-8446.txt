@@ -1,26 +1,3 @@
-fan
-核心：三支。一是（体育、明星的）迷、粉丝：a football fan；
-二是扇子、风扇；三是动词，扇风或煽动：fan the flames。
-① A football fan in that stand has to stand for the whole match.
-= 那个看台上的球迷，得站着看完全场。
-a football fan = 球迷
-② The fan in the office moves the hot air from one desk to another.
-= 办公室那台风扇，只是把热气从一张桌子挪到另一张。
-an electric fan = 电风扇
-③ The article fanned the flames and the paper printed an apology in June.
-= 那篇报道煽风点火，报社六月登了道歉。
-fan the flames = 煽风点火
-
-fanatic
-核心：（常含贬义）狂热者、入了迷的人：a fitness fanatic 是健身狂；
-说宗教或政治上的狂热分子时语气重得多。可数。
-① A fitness fanatic in the office starts running at six and tells everybody.
-= 办公室里有个健身狂人，六点就开跑，还逢人便说。
-a fitness fanatic = 健身狂
-② The group is small and its fanatics do most of the talking.
-= 那个团体人不多，话最多的是里头的狂热分子。
-a fanatic = 狂热者
-
 fanatical
 核心：狂热的、着了魔似的：多说 be fanatical about something。副词 fanatically。
 ① She is fanatical about punctuality and forgiving about everything else.
@@ -115,6 +92,13 @@ fancy dress = 化装舞会的行头
 ⑥ Fancy that — the same man has won it twice.
 = 真没想到 —— 同一个人赢了两回。
 fancy that = 真没想到
+⑦ He came back footloose and fancy-free and left again within a fortnight.
+= 他回来时无牵无挂，两个星期不到又走了。
+fancy-free = 无牵无挂的
+⑧ The novel has a fancy man in every other chapter and a fancy woman in the last.
+= 那本小说隔一章就有个姘夫，最后一章还有个姘妇。
+a fancy man = 旧时贬称的姘夫
+a fancy woman = 旧时贬称的姘妇
 
 fandango
 核心：两支。一是（西班牙）方丹戈舞：三拍子、带响板的舞；
@@ -306,3 +290,39 @@ the farthest field = 最远的那块地
 ⑪ She lives farthest from the school and gets there first.
 = 她住得离学校最远，到得却最早。
 live farthest from something = 住得离某处最远
+⑫ The explanation is far-fetched and the consequences are far-reaching all the same.
+= 那个解释很牵强，后果却照样影响深远。
+far-fetched = 牵强的
+far-reaching = 影响深远的
+⑬ Letters came from far-flung places and one far-off island with no post office.
+= 信来自天南地北，还有一座连邮局都没有的遥远小岛。
+far-flung = 遥远分散的
+far-off = 遥远的
+⑭ By midnight he was too far gone to argue about the bill.
+= 到半夜他已经醉得没法就账单争了。
+far gone = 醉得厉害、病得厉害
+⑮ The design was far-out in 1971 and looks conservative now.
+= 那个设计在 1971 年算前卫，如今看着保守。
+far-out = 前卫古怪的
+⑯ Far-sighted planning bought the land, and far-sightedness is rarely thanked.
+= 有远见的规划买下了那块地，可远见很少有人道谢。
+far-sighted = 有远见的
+far-sightedness = 远见
+
+farad
+核心：（物理）法拉：电容的单位，符号 F；实际元件多以微法 microfarad 计。
+① One farad is a huge capacitance and the parts here are measured in microfarads.
+= 一法拉的电容极大，这里的元件都是按微法算的。
+a farad = 法拉
+② The label says four hundred microfarads and the case says something else entirely.
+= 标签上写四百微法，外壳上写的完全是另一个数。
+microfarads = 微法
+
+Faraday cage
+核心：（物理）法拉第笼：用导电材料围起来的空间，能把外界电场挡在外面。可数。
+① A Faraday cage keeps the signal out and the engineers happy.
+= 法拉第笼把信号挡在外面，工程师就满意了。
+a Faraday cage = 法拉第笼
+② The lift acts as a Faraday cage, which is why nobody can take a call in it.
+= 电梯相当于一个法拉第笼，所以里头谁也接不了电话。
+act as a Faraday cage = 起到法拉第笼的作用

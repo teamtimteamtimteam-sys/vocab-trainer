@@ -475,3 +475,6 @@ extremis      # in extremis 被切开的碎片，整条短语在 i 段收，同 
 factitive    # 语法学内部术语，同 durative / ergative 那一类，不进通用语
 factive      # 同上，只在句法语义学里用
 faujdar      # 印度英语里的历史官职称谓，属地区变体词头，同 bwana 那条
+fah-fee          # 南非英语里的一种数字赌博，属地区变体词头，同 bwana 那条
+fair dinkum      # 澳新英语，属地区变体词头
+fatty-arbuckle   # 拿人名造的押韵俚语，同商标与纯人名那一类

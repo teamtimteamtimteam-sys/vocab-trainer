@@ -1,34 +1,3 @@
-faithful
-核心：三支。一是忠实的、靠得住的：a faithful friend；
-二是（伴侣）不出轨的：be faithful to somebody；三是（译文、复制）忠于原样的。
-副词 faithfully，名词 faithfulness。
-① A faithful friend tells you the awkward half of the news as well.
-= 忠实的朋友，连消息里难听的那一半也会告诉你。
-a faithful friend = 忠实的朋友
-② He stayed faithful to the club through three relegations and one rebrand.
-= 三次降级、一次改名，他都没离开那家俱乐部。
-be faithful to somebody = 对某人忠诚
-③ The translation is faithful and reads like an appliance manual.
-= 那份译文很忠实，读起来像电器说明书。
-a faithful translation = 忠实的译文
-副词 faithfully：忠实地、如实地；英式书信里 Yours faithfully 是不知收信人姓名时的落款。
-④ He reported the numbers faithfully and left out what they meant.
-= 他如实报了那些数字，却没说它们意味着什么。
-report something faithfully = 如实报告某事
-⑤ The letter ends Yours faithfully because nobody knew the manager's name.
-= 那封信以「Yours faithfully」收尾，因为谁也不知道经理姓什么。
-Yours faithfully = 谨启（英式书信落款）
-构词：faithful 加 -ly
-
-faithfulness
-核心：忠实、忠贞：对人、对承诺、也对原作。不可数。
-① Her faithfulness to the original score annoyed two critics and one conductor.
-= 她对原谱的忠实，惹恼了两位评论家和一位指挥。
-faithfulness to something = 对某物的忠实
-② Faithfulness in that job means turning up on the worst nights of the year.
-= 那份差事里的忠实，就是一年最难熬的那几夜也照样到场。
-faithfulness = 忠实
-
 faithless
 核心：（书面）背信的、不忠的：说人靠不住，语气比 unfaithful 更旧、更重。
 ① A faithless business partner costs a great deal more than an incompetent one.
@@ -60,6 +29,9 @@ a fake = 赝品
 ③ He faked a limp for a fortnight and then forgot which leg it was.
 = 他装瘸装了两个星期，后来忘了是哪条腿。
 fake an illness = 装病
+④ Fake news travels in the same envelope as the real thing and arrives first.
+= 假新闻跟真新闻装在同一个信封里，还先到。
+fake news = 假新闻
 
 faker
 核心：造假的人、装样子的人。可数。
@@ -182,6 +154,36 @@ the fall = 秋天（美式）
 ⑬ The falls are loudest in May and photographed most in August.
 = 那道瀑布五月声势最大，八月被拍得最多。
 the falls = 瀑布
+⑭ The audience fell about at a joke the cast had long stopped finding funny.
+= 观众为一个连演员早就不觉得好笑的段子笑翻了。
+fall about = 笑得前仰后合
+⑮ Support fell away in the second week and the deposit went with it.
+= 支持在第二周退潮，保证金也跟着没了。
+fall away = 逐渐减少、消退
+⑯ When the software failed they fell back on paper and fell back three days.
+= 软件一垮，他们退回纸笔，进度也退后了三天。
+fall back on something = 退而依靠某物
+fall back = 后退、撤回
+⑰ He fell for it, fell out with his brother and became the fall guy for both.
+= 他上了当，跟哥哥闹翻，两头的黑锅都归了他。
+fall for something = 上当、信以为真
+fall out with somebody = 跟某人闹翻
+a fall guy = 替罪羊
+⑱ The deal fell through and the tenants fell in with a new landlord instead.
+= 那笔交易告吹，租客转而跟新房东搭上了。
+fall through = 告吹
+fall in with somebody = 与某人结伴、依从某人
+⑲ Everything fell to her when the manager left and the staff fell over themselves to help.
+= 经理一走，什么都落到她头上，员工们抢着帮忙。
+fall to somebody = 落到某人头上
+fall over yourself to do something = 抢着做某事
+⑳ Two walkers fell over on the same step and a third fell down the bank.
+= 两名徒步者在同一级台阶上摔倒，第三个摔下了堤坡。
+fall over = 摔倒
+fall down = 跌倒、垮掉
+㉑ Suspicion fell upon the one person who had been away all week.
+= 嫌疑落到了整周都不在的那个人身上。
+fall upon somebody = 落到某人身上
 
 fallacious
 核心：（正式）谬误的、推理站不住的：多修饰 argument、reasoning、assumption。
@@ -221,6 +223,9 @@ a fallen tree = 倒下的树
 ② The memorial lists the fallen by street rather than by rank.
 = 那座纪念碑按街道列出阵亡者，而不是按军衔。
 the fallen = 阵亡将士
+③ The novel calls her a fallen woman and the census calls her a seamstress.
+= 小说管她叫堕落女子，人口普查表上写的是女裁缝。
+a fallen woman = 旧时说的堕落女子
 
 fallibility
 核心：（正式）会出错、并非万无一失：人或制度免不了犯错这件事。不可数。
@@ -279,3 +284,60 @@ lie fallow = 休耕
 ② A fallow period of two years produced the book that pays the mortgage.
 = 两年的停滞期，倒产出了那本还房贷的书。
 a fallow period = 停滞期
+③ Fallow deer graze that park and ignore everybody with a dog.
+= 黇鹿在那个园子里吃草，见了牵狗的人一概不理。
+a fallow deer = 黇鹿
+
+false
+核心：四支。一是不真实的、错的：a false statement；二是假的、人造的：false teeth；
+三是虚伪的：a false smile；四是一串搭配：a false alarm、a false economy、
+under false pretences。副词 falsely，名词 falsehood 与 falsity。
+① A false statement on that form is a criminal offence and the box is tiny.
+= 那张表上填不实信息属刑事犯罪，可那个格子小得可怜。
+a false statement = 不实陈述
+② His false teeth click when he is thinking and stop when he speaks.
+= 他的假牙在他思考时咔咔响，一开口就不响了。
+false teeth = 假牙
+③ It was a false alarm and the whole street stood outside for an hour.
+= 那是一场虚惊，整条街的人在外头站了一个钟头。
+a false alarm = 虚惊一场
+④ Buying the cheaper boots turned out to be a false economy.
+= 买那双便宜靴子，结果是省小钱吃大亏。
+a false economy = 省小钱吃大亏
+副词 falsely：两支。一是错误地、不实地：falsely accused；二是虚伪地：smile falsely。
+⑤ He was falsely accused and cleared eleven months later.
+= 他被诬告，十一个月之后才洗清。
+be falsely accused = 被诬告
+⑥ She smiled falsely at the camera and properly at her sister.
+= 她冲镜头假笑，冲妹妹才是真笑。
+smile falsely = 假笑
+构词：false 加 -ly
+⑦ The recovery was a false dawn and the second quarter said so plainly.
+= 那次复苏是虚假的曙光，第二季度把话挑明了。
+a false dawn = 虚假的曙光
+⑧ One false move on that ledge and the rope is all there is.
+= 在那道岩台上走错一步，就只剩绳子了。
+a false move = 一步走错
+⑨ The race had two false starts and one very long argument.
+= 那场比赛抢跑两次，外加一场很长的争论。
+a false start = 抢跑、开局失败
+⑩ A false friend in translation costs more than an unknown word ever does.
+= 翻译里的「假朋友」，代价比生词大得多。
+a false friend = 形似义异的假朋友
+a false beginner = 学过又忘的假初学者
+⑪ The claim was false imprisonment and the defence rested on a false memory.
+= 那项指控是非法拘禁，辩方靠的是记忆错构。
+false imprisonment = 非法拘禁
+a false memory = 虚假记忆
+⑫ The false ribs are the ones that never reach the breastbone.
+= 假肋就是那几根根本接不到胸骨的肋骨。
+a false rib = 假肋
+
+falsehood
+核心：（正式）谎言、虚假：可数时指一句谎话，不可数时指虚假这件事，跟 truth 相对。
+① A falsehood repeated in three papers has become a fact by Friday.
+= 一句谎话被三家报纸重复，到周五就成了事实。
+a falsehood = 一句谎言
+② Truth and falsehood are printed in exactly the same typeface.
+= 真话与假话，印出来用的是同一种字体。
+falsehood = 虚假

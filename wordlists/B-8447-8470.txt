@@ -1,12 +1,3 @@
-farad
-核心：（物理）法拉：电容的单位，符号 F；实际元件多以微法 microfarad 计。
-① One farad is a huge capacitance and the parts here are measured in microfarads.
-= 一法拉的电容极大，这里的元件都是按微法算的。
-a farad = 法拉
-② The label says four hundred microfarads and the case says something else entirely.
-= 标签上写四百微法，外壳上写的完全是另一个数。
-microfarads = 微法
-
 faraway
 核心：两支。一是遥远的：a faraway country；二是（眼神）出神的：a faraway look。
 只作定语。
@@ -83,6 +74,16 @@ farm sheep = 养羊
 = 山脊上那片风电场，四个郡都望得见。
 a wind farm = 风电场
 a fish farm = 养鱼场
+④ The work is farmed out to three studios and farmed out again by two of them.
+= 那些活儿外包给三家工作室，其中两家又转包了出去。
+farm out = 外包
+farm something out to somebody = 把某事外包给某人
+⑤ Across the farm belt the same two crops pay for everything.
+= 整条农业带上，就靠同样那两种作物养活一切。
+the farm belt = 美式说的农业带
+⑥ The farm team plays in a stadium built for a crowd that never comes.
+= 那支下属梯队的球场，是为从没来过的观众修的。
+a farm team = 美式说的下属梯队
 
 farmer
 核心：农场主、农户：以种地或养畜为业的人。可数。
@@ -197,6 +198,9 @@ fart = 放屁
 ② He calls himself an old fart and updates the software every week.
 = 他自称老古板，软件倒每周都更新。
 an old fart = 守旧的老家伙
+③ They farted around with the tent poles until it started to rain.
+= 他们摆弄帐篷杆瞎耗，直耗到下起雨来。
+fart around = 瞎耗、磨蹭（粗俗）
 
 farthing
 核心：（旧）法辛：英国旧币值，合四分之一便士，1961 年停用。
@@ -235,3 +239,12 @@ a shop fascia = 店铺招牌板
 ② Plantar fascia runs along the sole and complains after long walks.
 = 足底筋膜沿着脚掌走，走远路之后就闹脾气。
 plantar fascia = 足底筋膜
+
+fasciitis
+核心：（医学）筋膜炎：筋膜发炎，最常见的是足底筋膜炎。不可数。
+① Plantar fasciitis makes the first ten steps of the morning the worst.
+= 足底筋膜炎让早上头十步最难熬。
+plantar fasciitis = 足底筋膜炎
+② Fasciitis responds to rest and to nothing that anybody wants to hear.
+= 筋膜炎只对休息有反应，别的办法谁也不爱听。
+fasciitis = 筋膜炎

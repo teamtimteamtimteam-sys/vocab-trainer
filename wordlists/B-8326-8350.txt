@@ -1,13 +1,3 @@
-facilitation
-核心：（正式）两支。一是促进、使流程走顺；二是会议里的引导、主持。不可数。
-① Trade facilitation means fewer forms and one more office to run them.
-= 贸易便利化意味着表格更少，却多出一个部门来管这些表格。
-trade facilitation = 贸易便利化
-② The workshop's success came down to facilitation and free sandwiches.
-= 那场工作坊办成，靠的是引导得法，还有免费三明治。
-facilitation = 引导、促进
-构词：facilitate 加 -ion
-
 facilitator
 核心：会议引导者、促成方：不替大家拿主意，只让讨论能进行下去的人或机构。可数。
 ① A good facilitator says very little and keeps everybody else talking.
@@ -71,6 +61,10 @@ the fact of the matter = 实情是
 ⑤ He came with facts and figures and left with one vague promise.
 = 他带着具体数据来，带着一句含糊的承诺走。
 facts and figures = 具体数据
+⑥ The fact-finding visit produced a fact sheet and no facts anybody disputed.
+= 那趟实地调查产出一份情况说明，没有一条事实有人质疑。
+a fact-finding mission = 实地调查
+a fact sheet = 情况说明单
 
 faction
 核心：两支。一是派系、小集团（常含贬义）：rival factions；
@@ -133,6 +127,11 @@ a factor = 因数
 ③ Factor the ferry into the timetable or the whole plan slips a day.
 = 把渡轮算进时间表，不然整个计划要推迟一天。
 factor something in = 把某项算进去
+④ Factor VIII is a clotting protein and its price has a literature of its own.
+= 凝血因子八是一种凝血蛋白，光它的价格就有一整套文献。
+factor VIII = 凝血因子八
+factor in = 计入
+factor into = 计入……之中
 
 factorial
 核心：（数学）阶乘：写作 n!，就是 1 一路乘到 n；也作形容词。
@@ -165,6 +164,10 @@ the factory floor = 车间
 ③ Factory farming keeps the price down and the questions coming.
 = 集约化养殖把价格压了下去，质疑却一直没断。
 factory farming = 集约化养殖
+④ The factory shop sells seconds at half price and the factory ship never comes in.
+= 工厂直销店半价卖次品，那条加工母船则常年不靠岸。
+a factory shop = 工厂直销店
+a factory ship = 加工母船
 
 factotum
 核心：（正式或调侃）杂务总管、打杂的：什么活儿都干的那个人，
@@ -248,6 +251,9 @@ fade away = 逐渐消失
 = 那场戏在空荡的路上淡出，又在天亮时同一条路上淡入。
 fade out = 淡出
 fade in = 淡入
+④ The fade-up at the start runs three seconds and the audience talks through all of it.
+= 开场那段渐显有三秒，观众整段都在说话。
+a fade-up = 影视里的渐显
 
 fader
 核心：（音响、灯光）推子：调音台上那根上下推的滑杆，用来做渐强渐弱。可数。
@@ -266,3 +272,24 @@ faecal contamination = 粪便污染
 ② The test looks for faecal matter in water that looks perfectly clean.
 = 那项检测，是在看着干干净净的水里查粪便物质。
 faecal matter = 粪便物质
+
+faeces
+核心：（正式、医学）粪便：日常另有一堆说法，化验单与医嘱上写这个词。
+作复数，美式拼 feces。
+① The sample of faeces goes to the lab in a sealed plastic pot.
+= 那份粪便样本装在密封塑料盒里送往化验室。
+faeces = 粪便
+② Rats leave faeces along the same route behind the bins every night.
+= 老鼠每天夜里沿垃圾桶后面同一条路线留下粪便。
+animal faeces = 动物粪便
+
+faff
+核心：（英式，非正式）瞎忙、磨蹭：动词说 faff about 或 faff around，
+指忙活半天没弄出什么；名词指麻烦事，a bit of a faff。
+① They faffed about with the tent until the light went completely.
+= 他们摆弄那顶帐篷，一直磨蹭到天全黑。
+faff about = 瞎忙、磨蹭
+faff around = 瞎忙、磨蹭（跟 faff about 通用）
+② Getting there is a faff and getting back is a good deal worse.
+= 去那儿一趟够折腾，回来还要糟得多。
+a faff = 麻烦事
