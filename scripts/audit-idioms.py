@@ -24,6 +24,11 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'foreign': ['a foreign body', 'foreign policy'],
+ 'foregone': ['a foregone conclusion'],
+ 'forefront': ['at the forefront of'],
+ 'foremost': ['first and foremost'],
+ 'forelock': ['touch your forelock'],
  'force': ['by force', 'in force', 'join forces', 'the armed forces', 'a force for good'],
  'fore': ['come to the fore'],
  'forecast': ['the weather forecast'],
