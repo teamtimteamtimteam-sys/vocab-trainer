@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8896 条，词典序 a → fizzy（另有 Ebola、Easter 等大写词头）。义项 32348。
+B 词表 8968 条，词典序 a → flautist（另有 Ebola、Easter 等大写词头）。义项 32517。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -353,10 +353,20 @@ CHECK 又补 fit / fix / fist 三组。
     这是 farm out to → fence off → ferret out 之后同一个坑的第四次，
     **并入时凡是短语动词，除了带占位词的写法，都要再补一行原形等式**。
   · 剔 Fingal's Cave（纯地名）与 Fianna Fail（政党专名），fi- 清单 451 → 449。
-  · **下一步开 fl- 段**（清单约 394 条：flag / flame / flash / flat / flavour /
-    flesh / flight / float / floor / flow / fly 一带；flat、flash、flight、floor、
-    fly 都是大词，动笔前往 CHECK 补 flat out、in a flash、take flight、
-    floor somebody、fly off the handle、let fly）。
+═══ fl- 段已开工（清单 393 条）═══
+已写三批 72 条：flab → flamboyant（24）、flame → flashgun（24）、flask → flautist（24）。
+fl- 段 88/393（22%）。剔 flagrante（碎片）与 flagfall（澳新）。
+CHECK 补了 flag / flair / flak / flame / flash / flap / flat / flattery 八组。
+  · **通道 5 逮到 flak 与 flack 撞车**（0.55）：两条拼写变体我写了几乎一样的
+    「He took a lot of fla(c)k for a decision…」。照 dyke／dike 那次的规矩，
+    两条都留、场景各走各的 —— flack 改成 get flack from two directions。
+  · **产量说明**：用户 2026-09-10 指出「批次越来越少」。查下来属实 ——
+    并入 pass 只涨义项不涨词条，我却把它当成一批；还有两轮只做了两批，
+    另有 10 条、11 条的小批。**往后每轮三批、每批 22–25 条新词条；
+    并入 pass 是额外的活，不占批次名额**；一段的待新写写完就直接进下一段。
+  · **下一批从 flavonoid 起**（flavour / flaw / flax / flea / fleck / flee /
+    fleece / fleet / flesh / flex / flick / flight 一带；flesh 与 flight 是大词，
+    动笔前往 CHECK 补 in the flesh、flesh out、take flight、a flight of stairs）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
