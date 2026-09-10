@@ -10,17 +10,17 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8270 条，词典序 a → expletive。义项 30174。
+B 词表 8336 条，词典序 a → extenuating。义项 30328。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
-  e 段：ea–ev 全部收完，**ex- 在做**（清单 413，已收 227，54%，还剩 186）。
+  e 段：ea–ev 全部收完，**ex- 在做**（清单 413，已收 294，71%，还剩 119）。
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
   不必回头补。
 交付文件（每 2500 条一份）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
   B-merged-5001-7500.txt   2500 条   compatible → encroachment
-  B-merged-7501-8270.txt    770 条   encrustation → expletive
+  B-merged-7501-8336.txt    836 条   encrustation → extenuating
 **每份固定 2500 条，满了自动顺延到下一份**（merge-wordlist.py B 2500 每次重切，
 并删掉上一轮的旧尾巴文件）。新词条现在落在第四份里。
 
@@ -147,9 +147,24 @@ what do you expect、at the expense of、at somebody's expense、
 go to the expense of、spare no expense、live up to expectations、
 contrary to expectation、exceed expectations、from experience、
 in my experience、explain yourself、explain away）。
-**下一步：ex- 段继续**（explicable → exuberantly 还有 186 条，
-其中 33 条待并入、22 条待推迟；express、extend、extra、extreme 这几个大词
-都在后半段）。
+**ex- 段（2026-09-10 后三批）**：第四批 explicable → exponentially（25 条）、
+第五批 export → expressway（19 条）、第六批 expropriate → extenuating（22 条）。
+CHECK 又补了 explode / explore / express / expression / extend / extent 六组习语，
+写的时候一并落进等式（explode a myth、explore every avenue、express yourself、
+express an interest、freedom of expression、find expression in、
+extend an invitation、to some extent、to a certain extent、to a large extent、
+to what extent）。
+**下一步：ex- 段收尾**（exterior → exultation 还剩 119 条，
+其中 33 条待并入、15 条待推迟；extra、extraordinary、extreme 这三个大词在里面。
+动笔前记得往 CHECK 补 extreme 一组：in the extreme、go to extremes、
+take something to extremes）。
+  · 第四批连着触发两次 audit-swallowed，是同一个坑滚出来的：expo 的核心块提了
+    exposition（没写），补上 exposition 之后它的核心块又提了 expository。
+    **核心块里点名同前缀的词，就得当批把那个词写掉** —— 一次点名可能要连补两条。
+  · extended family 与 expiry date 一样，本来在 coverage 的待推迟栏里，
+    这轮以真搭配写进 extended（前四字母同源），不必等 family 的并入 pass。
+  · ext. 照 esp. 的老样子写（书面缩写留、正文要写全），两个等式左边都是 ext.、
+    右边中文不同 —— 判重看的是左右都相同，这种不算重复。
   · 这三批踩的坑：**核心块里不能用 ①②③ 分列义项** —— 那三个字符是例句编号，
     check-wordlist 当场把核心块的行读成没有译文的例句（exorcise、exotic、
     expand、expansion、expansive 五条一起报）。段内分支照 exhaust／excite 的
