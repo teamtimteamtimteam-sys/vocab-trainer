@@ -1,3 +1,58 @@
+expansive
+核心：两支。一是开阔的、大范围的：说视野、手势、理解的宽窄；
+二是说人谈兴大发，吃饱喝足之后话多起来，in expansive mood。
+副词 expansively，名词 expansiveness。
+① The terrace has an expansive view of the estuary and no shade at all.
+= 那片露台望得见开阔的河口，却一点遮阴也没有。
+an expansive view = 开阔的视野
+② After two glasses he grew expansive about his years at sea.
+= 两杯下肚，他谈兴大发，讲起自己出海的那些年。
+in expansive mood = 谈兴正浓
+③ The report takes an expansive view of what counts as a household.
+= 那份报告对什么算一户人家，取的是宽泛的理解。
+an expansive definition = 宽泛的定义
+
+expansively
+核心：两支。一是大幅度地：多跟 gesture、wave 连用，形容手一挥的架势；
+二是兴致高地、滔滔不绝地，说的是讲话时的那副样子。
+① He waved expansively at the fields and mentioned none of the debts.
+= 他朝田野大手一挥，一句债务也没提。
+gesture expansively = 大幅度地做手势
+② She talked expansively about next season and briefly about this one.
+= 她大谈下个赛季，对本赛季只说了几句。
+talk expansively = 滔滔不绝地讲
+构词：expansive 加 -ly
+
+expansiveness
+核心：两支。一是辽阔、开阔：地方或视野的宽广；
+二是热情健谈的劲头，说人放开了谈的那种状态。不可数。
+① The sheer expansiveness of the plain is hard to photograph from a car window.
+= 那片平原到底有多辽阔，从车窗里很难拍出来。
+the sheer expansiveness of something = 某物的辽阔
+② His expansiveness at dinner surprised colleagues who had only ever emailed him.
+= 他饭桌上那股健谈劲头，让只跟他通过邮件的同事很意外。
+expansiveness = 热情健谈
+
+expansivity
+核心：（物理）膨胀率：材料受热之后胀多少，专业行文里写作 thermal expansivity。
+不可数。日常说法是 expansion。
+① Steel and glass differ in expansivity, so the frames crack in a hard frost.
+= 钢和玻璃的膨胀率不一样，重霜天里窗框就会开裂。
+expansivity = 膨胀率
+② Low expansivity is why the dish survives both the oven and the cold tap.
+= 正因为膨胀率低，那只盘子进烤箱、冲冷水都没事。
+thermal expansivity = 热膨胀率
+
+expat
+核心：（非正式）侨居国外的人：expatriate 的截短形，现在比全称还常用。
+也当形容词，说 expat workers、the expat community。
+① The bar fills with expats on Fridays and with students the rest of the week.
+= 那家酒吧周五挤满了外派侨民，别的日子都是学生。
+the expat community = 侨民圈子
+② She has been an expat for eleven years and still votes by post.
+= 她在国外住了十一年，投票还是靠邮寄。
+an expat = 侨居国外的人
+
 expatiate
 核心：（正式，常带调侃）长篇大论、详说：几乎只用 expatiate on 或 upon something，
 言下之意是讲得比听众想听的多。
@@ -208,65 +263,3 @@ be expelled from school = 被学校开除
 ② The whale expels a spout of air that can be heard from the cliff top.
 = 鲸鱼喷出一股气，站在崖顶都听得见。
 expel air = 排出空气
-
-expend
-核心：（正式）花费、耗用：说时间、精力、金钱用在某事上，
-搭配 expend something on something。比 spend 正式，多见于书面。名词 expenditure。
-① They expend more energy on the rota than on the work it covers.
-= 他们花在排班表上的精力，比花在班上那些活儿还多。
-expend something on something = 把某物耗在某事上
-② Half the grant was expended before a single wall came down.
-= 一堵墙还没拆，拨款就已经用掉一半。
-be expended = 被耗用掉
-
-expendable
-核心：可牺牲的、用完即弃的：说人时相当冷酷，意思是没了也不要紧；
-说物则指一次性的耗材。
-① The plan treats the night shift as expendable and says so in a footnote.
-= 那份方案把夜班工人当成可以牺牲的，还写在脚注里。
-be treated as expendable = 被当成可牺牲的
-② Expendable parts are ordered by the box and never repaired.
-= 易耗件是整箱订的，坏了从不修。
-expendable parts = 易耗零件
-
-expenditure
-核心：（正式）支出、开销：花出去的钱，也说精力的耗费。
-不可数为主，分项列举时可数；跟 income 相对。
-① Public expenditure rose in every department except the one under review.
-= 除了正在被审查的那个部门，各部门的公共开支都涨了。
-public expenditure = 公共开支
-capital expenditure = 资本支出
-② The expenditure of effort was enormous and the result fitted on one page.
-= 耗掉的精力极大，结果只装了一页纸。
-the expenditure of effort = 精力的耗费
-
-expense
-核心：两支。一是花费、开销，不可数；二是复数 expenses，办事产生的、
-可以报销的费用。要紧的是两个固定搭配：at the expense of something 是
-以牺牲某事为代价，at somebody's expense 既指某人掏钱，也指拿某人取笑。
-① The hall was restored at great expense and is booked eleven days a year.
-= 那座礼堂花大钱修复，一年只租出去十一天。
-go to the expense of doing something = 不惜花钱去做某事
-spare no expense = 不惜工本
-② He got the deal through at the expense of everyone who worked weekends.
-= 他把那笔交易促成了，代价是所有周末加班的人。
-at the expense of something = 以牺牲某事为代价
-③ The joke was at his expense and he laughed longest of all.
-= 那个玩笑是拿他打趣的，他自己笑得最久。
-at somebody's expense = 拿某人取笑
-④ Travel expenses are paid monthly and the receipts have to be stapled together.
-= 差旅费按月报销，收据必须钉在一起。
-travel expenses = 差旅费
-
-expensive
-核心：贵的、花钱多的：既说价格高，也说代价大，如 an expensive mistake。
-反义 cheap 与 inexpensive；副词 expensively。
-① The camera is expensive to buy and surprisingly cheap to run.
-= 那台相机买着贵，用起来倒便宜得出奇。
-be expensive to do something = 做某事花费高
-② Ignoring the survey turned out to be an expensive mistake.
-= 不理会那份验房报告，结果成了代价高昂的错误。
-an expensive mistake = 代价高昂的错误
-③ Expensive tastes are easy to acquire on somebody else's holiday.
-= 花着别人的钱度假，很容易养出奢侈的口味。
-expensive tastes = 奢侈的品味

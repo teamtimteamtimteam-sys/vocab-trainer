@@ -1,3 +1,65 @@
+expend
+核心：（正式）花费、耗用：说时间、精力、金钱用在某事上，
+搭配 expend something on something。比 spend 正式，多见于书面。名词 expenditure。
+① They expend more energy on the rota than on the work it covers.
+= 他们花在排班表上的精力，比花在班上那些活儿还多。
+expend something on something = 把某物耗在某事上
+② Half the grant was expended before a single wall came down.
+= 一堵墙还没拆，拨款就已经用掉一半。
+be expended = 被耗用掉
+
+expendable
+核心：可牺牲的、用完即弃的：说人时相当冷酷，意思是没了也不要紧；
+说物则指一次性的耗材。
+① The plan treats the night shift as expendable and says so in a footnote.
+= 那份方案把夜班工人当成可以牺牲的，还写在脚注里。
+be treated as expendable = 被当成可牺牲的
+② Expendable parts are ordered by the box and never repaired.
+= 易耗件是整箱订的，坏了从不修。
+expendable parts = 易耗零件
+
+expenditure
+核心：（正式）支出、开销：花出去的钱，也说精力的耗费。
+不可数为主，分项列举时可数；跟 income 相对。
+① Public expenditure rose in every department except the one under review.
+= 除了正在被审查的那个部门，各部门的公共开支都涨了。
+public expenditure = 公共开支
+capital expenditure = 资本支出
+② The expenditure of effort was enormous and the result fitted on one page.
+= 耗掉的精力极大，结果只装了一页纸。
+the expenditure of effort = 精力的耗费
+
+expense
+核心：两支。一是花费、开销，不可数；二是复数 expenses，办事产生的、
+可以报销的费用。要紧的是两个固定搭配：at the expense of something 是
+以牺牲某事为代价，at somebody's expense 既指某人掏钱，也指拿某人取笑。
+① The hall was restored at great expense and is booked eleven days a year.
+= 那座礼堂花大钱修复，一年只租出去十一天。
+go to the expense of doing something = 不惜花钱去做某事
+spare no expense = 不惜工本
+② He got the deal through at the expense of everyone who worked weekends.
+= 他把那笔交易促成了，代价是所有周末加班的人。
+at the expense of something = 以牺牲某事为代价
+③ The joke was at his expense and he laughed longest of all.
+= 那个玩笑是拿他打趣的，他自己笑得最久。
+at somebody's expense = 拿某人取笑
+④ Travel expenses are paid monthly and the receipts have to be stapled together.
+= 差旅费按月报销，收据必须钉在一起。
+travel expenses = 差旅费
+
+expensive
+核心：贵的、花钱多的：既说价格高，也说代价大，如 an expensive mistake。
+反义 cheap 与 inexpensive；副词 expensively。
+① The camera is expensive to buy and surprisingly cheap to run.
+= 那台相机买着贵，用起来倒便宜得出奇。
+be expensive to do something = 做某事花费高
+② Ignoring the survey turned out to be an expensive mistake.
+= 不理会那份验房报告，结果成了代价高昂的错误。
+an expensive mistake = 代价高昂的错误
+③ Expensive tastes are easy to acquire on somebody else's holiday.
+= 花着别人的钱度假，很容易养出奢侈的口味。
+expensive tastes = 奢侈的品味
+
 expensively
 核心：昂贵地、花大钱地：多修饰 dressed、furnished、educated，
 常带一点「钱花了未必值」的口气。
@@ -219,56 +281,3 @@ explain yourself = 把自己的行为交代清楚
 ④ The manager tried to explain away three missing invoices and made it worse.
 = 经理想把三张不见的发票搪塞过去，反倒越描越黑。
 explain away = 搪塞过去、圆过去
-
-explainer
-核心：（新闻业用语）解释性报道：把复杂的事拆开讲清楚的文章或短片；
-也指展馆、部门里负责讲解的人。可数。
-① The paper ran an explainer on the new tariffs and doubled its weekend traffic.
-= 那家报纸发了一篇关税解读，周末流量翻了一番。
-an explainer = 一篇解释性报道
-② She is the department's explainer and gets sent on every school visit.
-= 她是部里负责讲解的人，每次进校园都派她去。
-the department's explainer = 部门里负责讲解的人
-
-explanation
-核心：解释、说明：可数时指给出的那个说法，an explanation for something 或
-an explanation of something；不可数时指解释这个行为，如 by way of explanation。
-① The only explanation for the missing hour is a clock that nobody reset.
-= 那消失的一个钟头，唯一说得通的解释是有只钟没人调过。
-an explanation for something = 对某事的解释
-② His explanation of how the lock works took longer than picking it.
-= 他讲那把锁怎么使，比撬开它还费时间。
-an explanation of something = 对某物的说明
-③ By way of explanation he simply pointed at the flooded cellar.
-= 作为解释，他只是指了指淹了水的地窖。
-by way of explanation = 作为解释
-
-explanatory
-核心：解释性的、说明用的：修饰 note、leaflet、booklet、text，
-指专为把事情讲明白而写的那类东西。
-① An explanatory note at the foot of the bill runs to four lines of jargon.
-= 账单底下那条说明，写了四行行话。
-an explanatory note = 说明性注释
-② The museum hands out an explanatory leaflet that most visitors leave behind.
-= 博物馆发一份说明单张，多数参观者转手就丢下了。
-an explanatory leaflet = 说明单张
-
-expletive
-核心：（正式）粗话、脏字：书面报道里用来指人脱口骂出的那个词。可数，
-常见说法 deleted expletive、an expletive-laden rant。
-① The transcript replaces every expletive with a dash and loses half the meeting.
-= 那份记录把每句粗话都换成破折号，会议的意思丢了一半。
-an expletive = 一句粗话
-② He muttered an expletive at the printer and then apologised to the intern.
-= 他冲着打印机低声骂了一句，随后跟实习生道了歉。
-mutter an expletive = 低声骂一句粗话
-
-explicable
-核心：（正式）解释得通的、说得出缘由的：多用在否定或对比里，
-常配 explicable in terms of something。反义 inexplicable 反而更常用。
-① The gap in the accounts is explicable and the missing key is not.
-= 账目上那个缺口说得通，那把不见的钥匙说不通。
-explicable = 解释得通的
-② The delay is explicable in terms of the weather and nothing else.
-= 那次延误只能从天气上解释，别的都讲不通。
-explicable in terms of something = 可以用某因素解释
