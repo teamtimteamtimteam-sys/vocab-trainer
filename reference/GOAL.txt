@@ -410,12 +410,24 @@ forbiddingly 并入 forbidding —— 派生并入规则已用到第 198 例。
     下一批就照单立写。
   · forbidden / forborne 又栽了一次 audit-swallowed：注意行里写了三态，
     却没有例句或等式。**三态行只是提示，被点名的那个形式仍要有等式兜底。**
-  · **下一批从 forefront 起**（foregather / forego / foregoing / foregone /
-    foreground / forehand / forehead / foreign / foreigner / foreknowledge /
-    foreland / foreleg / forelock / foreman / foremost / forename / forenoon /
-    forensic / foreplay / forerunner 一带；foreign 与 forest 是大词，
-    动笔前往 CHECK 补 foreign body、a foreign country、can't see the wood
-    for the trees 之类）。
+第六批 forefront → foresail（25）、第七批 foresee → forge（25）、
+第八批 forger → formalize（25）。fo- 段 240/436（55%）。
+forensically 并入 forensic，forgetfully 并入 forgetful，forlornly 并入 forlorn，
+formally 并入 formal。CHECK 补了 foreign / foregone / forefront / foremost /
+forelock / forge / forever / foresight / foreseeable / foretaste /
+forget / forgive / fork / form / forlorn 十五组。
+  · **不规则动词的过去式单独作例句，audit-padding 一定点名**（flown 之后又栽了
+    forwent 一次）。定式：例句用词头本身，**过去式放注意行 + 一条等式兜底**
+    （forwent the costs = 放弃了费用（过去式））—— 这样 coverage 认得到、
+    padding 也挑不出。
+  · audit-ab 又点了两次 A 表搭配：foreign 缺 foreign language、
+    forget 缺 forget to do。这是第四、第五次栽在同一件事上。
+  · **下一批从 fornicate 起**（fornication / fornicator / forsake / forsooth /
+    forswear / forsythia / fort / forte / forth / forthcoming / forthright /
+    forthwith / fortieth / fortification / fortify / fortitude / fortnight /
+    fortress / fortuitous / fortunate / fortune / forty / forum / forward
+    一带；fortune 与 forward 是大词，动笔前往 CHECK 补 make a fortune、
+    cost a fortune、a small fortune、look forward to、forward planning）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
