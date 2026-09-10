@@ -15895,6 +15895,7 @@ fire ants = 火蚁
 = 那家店在清仓甩卖，烟花半价出。
 a fire sale = 清仓甩卖
 a firework = 烟花
+firepower = 火力
 ㉓ One glass of that firewater ended the evening for two of them.
 = 那种烈酒一杯下肚，他们里有两个的晚上就到此为止。
 firewater = 烈酒（俗称）
@@ -16529,6 +16530,7 @@ fit into something = 塞进某处
 ⑧ He was fitted up for something he could not possibly have done.
 = 他被人栽赃了一件他绝无可能做的事。
 fit somebody up = 栽赃某人
+fit up = 栽赃、诬陷
 
 fitful
 核心：断断续续的、时有时无的：多说 sleep、progress、rain。副词 fitfully。
@@ -16687,6 +16689,7 @@ a quick fix = 权宜之计
 = 他们定下日子，一个下午就把空房收拾停当。
 fix on something = 定下某事
 fix something up = 把某物收拾停当
+fix up = 收拾停当、安排好
 
 fixable
 核心：修得好的、有办法解决的：多用在否定或对比里。

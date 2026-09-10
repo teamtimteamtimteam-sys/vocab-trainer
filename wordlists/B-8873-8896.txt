@@ -155,6 +155,7 @@ a quick fix = 权宜之计
 = 他们定下日子，一个下午就把空房收拾停当。
 fix on something = 定下某事
 fix something up = 把某物收拾停当
+fix up = 收拾停当、安排好
 
 fixable
 核心：修得好的、有办法解决的：多用在否定或对比里。

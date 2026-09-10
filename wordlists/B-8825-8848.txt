@@ -88,6 +88,7 @@ fire ants = 火蚁
 = 那家店在清仓甩卖，烟花半价出。
 a fire sale = 清仓甩卖
 a firework = 烟花
+firepower = 火力
 ㉓ One glass of that firewater ended the evening for two of them.
 = 那种烈酒一杯下肚，他们里有两个的晚上就到此为止。
 firewater = 烈酒（俗称）
