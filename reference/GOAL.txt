@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-09） ═══
-B 词表 8150 条，词典序 a → exemplar。义项 29903。
+B 词表 8201 条，词典序 a → exorbitantly。义项 30017。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完：da 98%、de 97%、di 97%、do 96%、dr 94%、du 100%、dw 100%、dy 96%
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
@@ -19,7 +19,7 @@ B 词表 8150 条，词典序 a → exemplar。义项 29903。
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
   B-merged-5001-7500.txt   2500 条   compatible → encroachment
-  B-merged-7501-8150.txt    650 条   encrustation → exemplar
+  B-merged-7501-8201.txt    701 条   encrustation → exorbitantly
 **每份固定 2500 条，满了自动顺延到下一份**（merge-wordlist.py B 2500 每次重切，
 并删掉上一轮的旧尾巴文件）。新词条现在落在第四份里。
 
@@ -138,7 +138,7 @@ em- 段 99%（单列词与 14 个复合词并入都做完了，只剩 emissions 
 en- 98%、eo- 100%、ep- 100%、eq- 95%、er- 97%、es- 95%、et- 100%
 （余下的都是待推迟）。
 eu- 100%、ev- 100%、ew- 100%，ex- 写到 exemplar（清单 415 条，已收约 100）。
-**下一步：ex- 段继续**（exemplary → exuberant 还有约 310 条）。
+**下一步：ex- 段继续**（exorcise → exuberant 还有约 260 条）。
   · en- 第二批 audit-examples 报 enclose「偏薄」（额外实词 3.7 < 4）——
     办法是把例句改厚（加上「标着六月的文件夹」「横穿其上的老小路」这类承载词），
     不是去动那道下限。
