@@ -469,3 +469,5 @@ espressivo   # 意大利语演奏术语，只在乐谱与乐评内部用
 eugene-o-neill # 剧作家人名，纯专名不收
 eve-teasing  # 印度英语，指在公共场所对女性的骚扰
 eve-teaser   # 同上，行为人
+exoglossic   # 世界英语研究内部的术语，跟 endoglossic 同类，不进通用语
+exonormative # 同上，只在语言变体研究里用

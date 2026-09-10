@@ -25,6 +25,10 @@ def fold(s):
 
 CHECK = {
  'each': ['each and every'],
+ 'exercise': ['take exercise', 'exercise your right', 'a paper exercise'],
+ 'exhaust': ['exhaust fumes', 'be exhausted'],
+ 'exhibit': ['be on exhibit'],
+ 'exist': ['cease to exist'],
  'example': ['for example', 'set an example', 'make an example of', "follow somebody's example"],
  'exception': ['with the exception of', 'without exception', 'make an exception'],
  'excuse': ['make excuses', 'excuse me'],
