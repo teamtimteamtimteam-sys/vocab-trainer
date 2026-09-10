@@ -481,3 +481,4 @@ fatty-arbuckle   # 拿人名造的押韵俚语，同商标与纯人名那一类
 feringhee    # 印度英语里对外国人的旧称，属地区变体词头，同 faujdar 那条
 fibro        # 澳新英语里指纤维水泥板与那种房子，属地区变体词头
 filmi        # 印度英语，指宝莱坞电影歌曲那一路，属地区变体词头
+fioritura    # 乐理内部的装饰音术语，同 accelerando / fermata 那一类

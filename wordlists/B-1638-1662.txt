@@ -1,0 +1,515 @@
+atom
+核心：指原子——化学元素的最小单位。
+比喻义 not an atom of 表示"一点也没有"。
+① An atom has a nucleus that holds nearly all of its mass.
+= 原子有个原子核，几乎全部质量都在里面。
+nucleus = 原子核
+② Atoms combine to form molecules, and the same atoms make very different things.
+= 原子结合成分子，同样的原子能造出差别极大的东西。
+③ There's not an atom of truth in it, and the paper printed it anyway.
+= 那里面一点真话都没有，报纸还是登了。
+not an atom of = 丝毫没有
+词族：
+atomic = 原子的
+物质层级：
+atom = 原子
+molecule = 分子
+particle = 粒子
+element = 元素
+④ Atomism reduces matter to indivisible units and is older than any laboratory.
+= 原子论把物质归结为不可分的单元，比任何实验室都古老。
+atomism = 原子论
+atomistic = 原子论的、拆解成小单元的
+⑤ The nozzle atomizes the liquid into a mist fine enough to hang in the air.
+= 喷嘴把液体雾化成能悬在空中的细雾。
+atomize = 雾化；使粉碎
+⑥ She refilled the atomizer from a bottle she had carried for twenty years.
+= 她用一个带了二十年的瓶子给喷雾器续了液。
+atomizer = 喷雾器
+
+atomic
+核心：两条线：物理上的"原子的"，
+和涉及核能核武的"原子能的"。
+① Atomic structure was studied for a century before anyone saw an atom.
+= 原子结构被研究了一百年，才有人真正看见原子。
+atomic structure = 原子结构
+② The atomic bomb changed warfare and the argument about it has not ended.
+= 原子弹改变了战争，围绕它的争论至今未止。
+atomic bomb = 原子弹
+③ Atomic energy powers the plant and nobody has solved the waste.
+= 这座电厂靠原子能发电，废料的问题谁也没解决。
+atomic energy = 原子能
+词族：atom
+近义对照：
+atomic = 原子的（较早的说法）
+nuclear = 核的（现在更常用）
+现在多说 nuclear power、nuclear weapon。
+④ An atomic clock keeps time to a nanosecond and needs a room to itself.
+= 原子钟精确到纳秒，得单占一个房间。
+atomic clock = 原子钟
+⑤ Carbon has an atomic number of six and forms more compounds than everything else.
+= 碳的原子序数是六，形成的化合物比其他元素加起来还多。
+atomic number = 原子序数
+atomic mass = 原子质量
+atomic weight = 原子量
+⑥ The atomic spectrum identifies the element from millions of miles away.
+= 原子光谱能在几百万英里外辨认出元素。
+atomic spectrum = 原子光谱
+⑦ Dalton advanced the atomic theory using measurements anyone could repeat.
+= 道尔顿用人人都能重复的测量推进了原子论。
+atomic theory = 原子学说
+⑧ Atomicity means an operation cannot be split, however the machine fails.
+= 原子性意味着操作不可分割，不管机器怎么出故障。
+atomicity = 原子性（也指化学的原子价）
+
+atonal
+核心：音乐术语，指"无调性的"——不设主音、不按大小调的引力关系
+组织音高，所以听不出"回家"的感觉。二十世纪初勋伯格那一路
+最有代表性。名词是 atonality。
+① The piece is deliberately atonal and the audience clapped in the wrong place.
+= 那首曲子是刻意写成无调性的，观众鼓错了地方。
+② Atonal music unsettles some listeners precisely because it never resolves.
+= 无调性音乐让一些听众不适，正是因为它从不给出解决。
+atonal music = 无调性音乐
+③ Atonality broke with the tonal system and has been an acquired taste ever since.
+= 无调性与调性体系决裂，此后一直是种需要培养的口味。
+atonality = 无调性
+注意语域：
+音乐理论术语。
+注意别混：
+atonal = 无调性的（不设主音）
+tonal = 调性的（有主音引力）
+
+atone
+核心：指为过错"赎罪、弥补"。介词固定用 for。
+宗教和道德语境都用。
+① He tried to atone for his mistake by taking on work nobody else wanted.
+= 他接下别人都不想干的活，想以此弥补自己的过错。
+atone for = 为…赎罪
+② Nothing can atone for that, and both of them knew it at the time.
+= 那种事无法弥补，当时两个人都明白。
+③ She atoned by helping others for thirty years and never explained why.
+= 她以三十年助人来赎过，从没解释过缘由。
+词族：
+atonement = 赎罪
+构词：at + one，原意「重归合一」
+近义对照：
+atone for = 赎罪弥补（道德分量重）
+make amends = 赔罪补偿（通用）
+compensate = 补偿（可指金钱）
+
+atonement
+核心：指为过错所做的"赎罪、补偿"。不可数。
+宗教语境里 the Atonement 特指基督的救赎。
+① He sought atonement in work rather than in words.
+= 他不靠言语，而是在劳作里寻求赎罪。
+seek atonement = 求赎罪
+② The act was one of atonement and was read by everyone as an admission.
+= 那个举动是为了赎过，所有人却把它读成了承认。
+③ Yom Kippur is the Day of Atonement and the one fast that nearly everybody keeps.
+= 赎罪日是犹太教的节日，也是几乎人人都守的那一次禁食。
+Day of Atonement = 赎罪日
+词族：
+atone = 赎罪
+近义对照：
+atonement = 赎罪（道德宗教）
+amends = 补偿（make amends）
+compensation = 赔偿（可指金钱）
+reparation = 赔款（国家间）
+
+atonic
+核心：两层，都从"没有力"来。医学上指肌肉"张力缺失的"，
+肌张力低到撑不住姿势；语音学上指音节"不带重音的"。
+名词是 atony 或 atonicity。
+① The infant showed atonic limbs that hung when he was lifted.
+= 那个婴儿四肢肌张力低下，抱起来时软软地垂着。
+atonic limbs = 张力低下的肢体
+② An atonic seizure causes sudden collapse without any warning at all.
+= 失张力发作会让人毫无预兆地突然瘫倒。
+atonic seizure = 失张力发作
+③ Atonic syllables carry no stress and are the first to disappear in fast speech.
+= 无重音音节不带重音，说快了最先消失的就是它们。
+atonic syllable = 无重音音节
+注意语域：
+医学与语音学各用一义。
+
+atop
+核心：介词兼副词，指"在…顶上"，比 on top of 简洁也更书面。
+作介词时后面直接接名词，不用再加介词；作副词时单用，
+表示"在上面"。
+① A weathervane sits atop the spire and has pointed north since the war.
+= 尖顶上装着一只风向标，战后一直指着北。
+atop something = 在某物顶上
+② She perched atop a stool that was two inches too high for the bench.
+= 她坐在一张比工作台高出两英寸的高凳上。
+③ The castle stands on a hill with a flag atop that nobody replaces.
+= 城堡立在山上，顶上那面旗没人换。
+④ He placed the box atop the pile and the whole lot came down.
+= 他把箱子放在那摞东西最上面，结果整摞塌了。
+注意用法：
+作介词时后面直接接名词，不再加别的介词。
+注意语域：
+偏书面，日常说 on top of。
+
+atopic
+核心：医学形容词，指"特应性的"——身体对本来无害的东西（花粉、
+尘螨、食物）过度反应，而且几种毛病常一起出现：湿疹、哮喘、
+过敏性鼻炎，医生管这一串叫 atopic march。名词是 atopy。
+① She has atopic dermatitis that clears every summer and comes back in October.
+= 她有特应性皮炎，每年夏天好转，十月又回来。
+atopic dermatitis = 特应性皮炎（湿疹）
+② Atopic children often develop asthma, usually before they start school.
+= 特应性体质的孩子常会发展出哮喘，多半在上学之前。
+③ Atopy tends to run in families and skips no more than a generation.
+= 特应性体质有家族倾向，最多隔一代就会出现。
+atopy = 特应性（体质）
+注意语域：
+过敏与皮肤科术语。
+
+atrium
+核心：两条线：建筑上有天窗的"中庭"，
+和解剖上心脏的"心房"。复数是拉丁式的。
+① The hotel has a glass atrium that costs more to heat than the rooms do.
+= 那家酒店有个玻璃中庭，供暖费比客房还高。
+glass atrium = 玻璃中庭
+② Blood enters the right atrium from the veins and waits there for the beat.
+= 血液从静脉进入右心房，在那里等着下一次搏动。
+right atrium = 右心房
+③ Light floods the atrium at noon and misses it entirely by three.
+= 正午时光线洒满中庭，到三点就完全照不进去了。
+注意复数：
+atrium → atria 或 atriums
+心脏四腔：
+atrium = 心房（上，收血）
+ventricle = 心室（下，泵血）
+
+atrocious
+核心：两条线：真正"暴行般残忍的"（正式），
+和口语夸张的"糟透了的"。后者日常更常见。
+① The weather was atrocious and the match went ahead anyway.
+= 天气糟透了，比赛还是照常进行。
+口语夸张用法
+② His handwriting is atrocious and his prescriptions have caused two arguments.
+= 他字写得惨不忍睹，开的处方引起过两次争执。
+③ An atrocious crime was committed in a village where nothing had happened for decades.
+= 在一个几十年太平无事的村子里，发生了一起令人发指的罪行。
+atrocious crime = 令人发指的罪行
+副词形式：
+atrociously = 糟糕地
+词族：
+atrocity = 暴行
+近义对照：
+atrocious = 糟透了（口语）；残暴的（正式）
+appalling = 骇人的
+dreadful = 糟糕的（英式常用）
+
+atrocity
+核心：指战争或冲突中的"暴行"，语气极重，
+常用复数。和口语里的 atrocious 分量差很远。
+① War atrocities were documented by a nurse who kept her notes in a biscuit tin.
+= 战争暴行是一位护士记录下来的，她把笔记藏在饼干盒里。
+war atrocity = 战争暴行
+② They committed atrocities that the courts are still trying forty years later.
+= 他们犯下的暴行，四十年后法庭仍在审。
+commit atrocities = 实施暴行
+③ The atrocity shocked the world for about eleven days.
+= 那起暴行震惊世界，大约震惊了十一天。
+注意复数：atrocity → atrocities
+词族：atrocious
+近义对照：
+atrocity = 暴行（大规模、残忍）
+crime = 罪行（通用）
+massacre = 屠杀（大量杀戮）
+
+atrophy
+核心：医学上指肌肉或器官因不用而"萎缩"，
+比喻指能力或制度"衰退"。名词动词同形。
+① The muscles atrophied within three weeks of the cast going on.
+= 打上石膏三周之内，那些肌肉就萎缩了。
+② Muscle atrophy sets in quickly and takes far longer to reverse than to cause.
+= 肌肉萎缩来得很快，逆转它要比造成它久得多。
+muscle atrophy = 肌萎缩
+③ His skills atrophied from disuse and came back faster than he expected.
+= 他的技能因荒废而退化，恢复起来却比他预想的快。
+atrophy from disuse = 因不用而退化
+注意发音：/ˈætrəfi/
+构词：a- 无 + trophy 营养
+反义词：
+hypertrophy = 肥大
+
+attaboy
+核心：非正式的喝彩语，用来夸奖或鼓劲，相当于"好样的、就这么干"。
+由 that's the boy 一路缩合而来。对女性说 attagirl。
+既作感叹词，也可作名词指这样一句夸奖。
+① Attaboy, keep it up, said the man who had never once run himself.
+= 「好样的，保持住」，说这话的人自己一次也没跑过。
+② Attagirl, you nailed it, and she pretended not to have heard.
+= 「真棒，你做到了」，她装作没听见。
+attagirl = 好样的（对女性说）
+③ He got an attaboy from the coach and nothing else for the whole season.
+= 整个赛季他从教练那里只得到一句夸奖，别的什么也没有。
+an attaboy = 一句夸奖
+注意语域：
+非正式口语，多用于体育与职场鼓劲。
+注意用法：
+默认对男性说，对女性用另一种形式。
+
+attach
+核心：底层是"把甲固定到乙上"。物理上是"附上、贴上"，邮件上是"添加
+附件"，情感上是 be attached to（依恋），重要性上是 attach
+importance to（重视）。
+① Attach the label to the box and write the weight on it as well.
+= 把标签贴到箱子上，再把重量写上去。
+attach A to B = 把 A 附到 B 上
+② Please find the file attached, unless the system has stripped it again.
+= 文件已附上，除非系统又把它剥掉了。
+attached = 附上的
+③ She is attached to her old car and has spent more on it than it cost.
+= 她舍不得那辆旧车，花在它身上的钱比车价还多。
+be attached to = 依恋
+④ We attach great importance to safety and cut the training budget anyway.
+= 我们非常重视安全，培训预算照样砍了。
+attach importance to = 重视
+⑤ No blame attaches to him and the report says so in a footnote.
+= 责任不在他，报告在一个脚注里这么写着。
+词族：
+attachment = 附件；依恋
+
+attaché
+核心：指使馆里负责某专门领域的"专员"，
+如 military attaché（武官）。带重音符号。
+① He is the cultural attaché and spends most of his week at concerts.
+= 他是文化专员，一周里大半时间在听音乐会。
+cultural attaché = 文化专员
+② The military attaché attended in uniform and said nothing all evening.
+= 武官穿着制服出席，整晚一言不发。
+military attaché = 武官
+③ She carried an attaché case with three papers and a sandwich in it.
+= 她提着一个公文箱，里面装着三份文件和一个三明治。
+attaché case = 公文箱
+注意发音：/əˈtæʃeɪ/，词源是法语。
+注意拼写：é 上有重音符号，
+也常写作 attache。
+
+attached
+核心：三条线：文件"附上的"、感情上"依恋的"、
+以及"已有伴侣的"（口语）。
+① Please see the attached file, which is the third version this week.
+= 请见附件，那已经是这周的第三版了。
+attached file = 附件
+② She is attached to a coat her mother wore to work for thirty years.
+= 她舍不得那件她母亲穿去上班穿了三十年的外套。
+be attached to = 依恋
+③ Is he attached? she asked, having already looked it up online.
+= 她其实早在网上查过了，还是问了句：他有对象吗？
+口语 = 名花有主
+④ No conditions are attached, which is why the lawyers read it twice.
+= 不附带任何条件，正因如此律师读了两遍。
+no strings attached = 不附加条件
+词族：attach、attachment
+
+attachment
+核心：四条线：邮件"附件"、感情"依恋"、机器"配件"、
+以及法律上的"财产扣押"。
+① Open the attachment on a computer, because the phone will not render it.
+= 在电脑上打开那个附件，手机显示不出来。
+email attachment = 邮件附件
+② She has a deep attachment to him that predates anything either will discuss.
+= 她对他有很深的依恋，那份依恋比两人肯谈的任何事都早。
+attachment to = 对…的依恋
+③ The drill comes with attachments that fit nothing else in the shed.
+= 那台钻配的各种配件，棚子里别的工具一样都装不上。
+④ Attachment theory explains bonding and gets quoted well beyond its evidence.
+= 依恋理论解释亲密关系的形成，被引用的范围远超它的证据。
+attachment theory = 依恋理论
+词族：attach、attached
+
+attack
+核心：底层是"发起进攻"，攻的对象不同就分出各义。攻人攻地是军事的
+进攻，攻观点是言语的抨击，攻球门是体育的进攻。疾病那一支是把病
+拟人化了——病来攻人，所以 heart attack 是"发作"而不是"攻击"，
+an attack of nerves 里连情绪也被当成来袭的东西。名词动词同形。
+① The army attacked at dawn and held the position for about six hours.
+= 军队拂晓发起进攻，阵地守了大约六个钟头。
+军事本义，可及物可不及物。
+反义词：attack 进攻 / defend 防守
+② He was attacked in the street and nobody in the queue moved at all.
+= 他在街上遭到袭击，排队的人一个也没动。
+攻的对象是人，指人身伤害。
+③ The paper attacked the policy for a week and then endorsed it.
+= 那家报纸抨击了这项政策一星期，接着又表示支持。
+attack = 抨击
+攻的对象是主张，武器换成了言辞。
+④ She attacked the job with energy that lasted about four months.
+= 她干劲十足地投入工作，那股劲头持续了约四个月。
+褒义用法：像进攻一样投入去做。
+⑤ He had a heart attack at fifty and gave up nothing at all.
+= 他五十岁心脏病发作，什么习惯也没改。
+heart attack = 心脏病发作
+病被看成来袭者，所以用这个词。
+⑥ She had an attack of nerves and read the whole speech from the paper.
+= 她一阵紧张，整篇讲稿都照着念了。
+an attack of = 一阵（疾病或情绪）
+⑦ The team's attack is weak and the defence has been carrying them all season.
+= 球队进攻乏力，整个赛季都靠防守撑着。
+体育义，也指进攻队员的整体。
+⑧ Rust attacks iron wherever the paint has been chipped away.
+= 凡是漆被磕掉的地方，铁就会被锈侵蚀。
+物作主语时是"侵蚀、损害"。
+⑨ The campaign ran attack ads all month and lost eleven points doing it.
+= 竞选团队投放了一个月的攻击性广告，支持率反而掉了十一个点。
+attack ad = 攻击性竞选广告
+⑩ An attack dog guarded the yard and was friendlier than its owner.
+= 一条护卫犬看着院子，比它主人还和气。
+attack dog = 攻击犬；（比喻）替人出头的打手
+
+attacker
+核心：两条线：袭击他人的人，
+和足球等运动里的"进攻球员"。
+① The attacker fled the scene on a bicycle that was found the next morning.
+= 袭击者骑自行车逃离现场，那辆车第二天早上被找到。
+flee the scene = 逃离现场
+② She fought off her attacker with a bag of shopping and a good deal of noise.
+= 她用一袋买来的东西和一通大喊击退了袭击者。
+fight off = 击退
+③ The attacker scored twice and was substituted before the hour.
+= 那名前锋进了两球，不到一小时就被换下。
+足球位置：
+attacker / forward = 前锋
+midfielder = 中场
+defender = 后卫
+goalkeeper = 门将
+词族：attack
+
+attain
+核心：正式用语，指"经过努力够到"，词源就是"触到"。够到的可以是
+目标、水平、地位，也可以是年龄——attain the age of 是法律文书里
+的固定说法。跟近义词的分工在语域：attain 最正式，achieve 通用，
+reach 最口语；三者都能说"达到"，但 attain 后面几乎不接具体地点。
+① She attained her goal a year early and immediately set a harder one.
+= 她提前一年达成目标，立刻又定了个更难的。
+attain a goal = 达成目标
+② He attained the rank of colonel and retired before he could be promoted.
+= 他升到上校，还没等再升就退了役。
+attain the rank of = 升至某军衔
+够到的是地位。
+③ The trust ends when she attains the age of 25, whatever she is doing then.
+= 不管她那时在做什么，信托在她年满二十五岁时终止。
+attain the age of = 年满某岁（法律文书用语）
+④ The goal is attainable within a year if nobody changes the specification.
+= 只要没人改需求，这个目标一年内可以达到。
+attainable = 可达到的
+⑤ Educational attainment has risen and wages have not moved at all.
+= 教育水平提高了，工资却纹丝不动。
+attainment = 达到的水平；成就
+近义对照：
+attain = 达到（最正式，经努力）
+achieve = 实现（通用）
+reach = 到达（口语，可接地点）
+accomplish = 完成（重在有成果）
+
+attainable
+核心：指目标"可达成的"。常和 realistic 连用，
+用于目标设定的语境。
+① Set attainable goals, because a target nobody believes in gets quietly dropped.
+= 设定可达成的目标，没人相信的指标最后总会被悄悄放弃。
+attainable goal = 可实现的目标
+② The target is attainable if the weather holds and nobody falls ill.
+= 只要天气不变、没人生病，那个指标就能达到。
+③ Success seemed attainable until the funding was cut in the second year.
+= 成功似乎触手可及，直到第二年经费被砍。
+反义词：
+unattainable = 无法达到的
+词族：attain、attainment
+近义对照：
+attainable = 可达成（正式）
+achievable = 可实现（通用）
+feasible = 可行的（做得成）
+realistic = 现实的（不离谱）
+
+attainment
+核心：两条线：抽象的"达成"，
+和具体的"学业成就、造诣"（常用复数）。
+① Educational attainment rose in the district for eleven straight years.
+= 那个区的教育水平连续十一年上升。
+educational attainment = 受教育程度
+② The attainment of peace took years and held for rather fewer.
+= 和平的实现花了多年，维持的时间却短得多。
+the attainment of = …的达成
+③ Her attainments are impressive and none of them appears on her business card.
+= 她的造诣令人赞叹，名片上一样也没印。
+复数 = 才能、造诣
+词族：attain、attainable
+近义对照：
+attainment = 达成、造诣（正式）
+achievement = 成就（通用）
+accomplishment = 成就（靠技能）
+
+attar
+核心：从花瓣蒸馏出来的浓香精油，最有名的是玫瑰精油，
+所以常说 attar of roses。要几千朵花才出一小瓶，历来极贵。
+波斯语经阿拉伯语传入英语。
+① A drop of attar scents the whole room and lingers for two days.
+= 一滴玫瑰精油就能香满整间屋子，气味留两天。
+a drop of attar = 一滴香精
+② Attar of roses comes from Bulgaria and Iran and takes a field of flowers per bottle.
+= 玫瑰精油产自保加利亚与伊朗，一瓶要用掉一整片花田。
+attar of roses = 玫瑰精油
+③ Attar is distilled from fresh petals picked before the sun is on them.
+= 香精是用日头晒到之前采下的鲜花瓣蒸馏的。
+注意语域：
+香料与香水业用语。
+
+attempt
+核心：指"试着去做"，比 try 正式，而且常暗含没成功——所以做成了的
+事更常说 managed to。名词动词同形，但介词不同：动词后面接不定式
+（attempt to do），名词后面接 at（an attempt at doing）。
+另有一个固定搭配 an attempt on someone's life，是"行刺"的正式说法。
+① He attempted to escape twice and was caught within sight of the wall.
+= 他两次试图逃跑，都在离墙不远处被抓。
+attempt to do = 试图做某事
+动词后面接不定式。
+② She made an attempt at cooking and the smoke alarm settled the matter.
+= 她试着下厨，烟雾警报器给了结论。
+an attempt at doing = 尝试做某事
+名词后面接 at，两者别混。
+③ The attempt failed for reasons that were obvious to everyone but him.
+= 这次尝试失败了，原因除了他人人都看得出来。
+注意：attempt 常暗示没成功，
+做成了的事更常说 managed to。
+④ It was his first attempt and better than anything he did afterwards.
+= 那是他的头一次尝试，比后来做的都好。
+可数，指一次具体的尝试。
+⑤ There was an attempt on his life and he refused police protection.
+= 有人企图行刺他，他拒绝了警方保护。
+an attempt on someone's life = 行刺
+⑥ They attempted the north face in winter and turned back at the ridge.
+= 他们冬天试图攀登北壁，在山脊处折返。
+及物用法：直接接要挑战的对象。
+⑦ He left the last question unattempted and still came top of the year.
+= 最后一题他没做，还是拿了年级第一。
+unattempted = 未作答的、未尝试的
+⑧ She made one last attempt and got through on the seventh ring.
+= 她最后试了一次，响到第七声接通了。
+make an attempt = 作出尝试
+
+attend
+核心：三条线：出席（及物，不加 to）、照料（attend to）、以及正式的
+"陪同"。第一条最常用，注意它是及物动词——不说 attend to a meeting。
+① She attended the meeting and the local school in the same building.
+= 她参加会议的地方，跟她上过的小学在同一栋楼。
+及物，不加 to。
+② I have matters to attend to before the bank closes at four.
+= 银行四点关门，我还有事要处理。
+attend to = 处理、照料
+③ The president was attended by guards who outnumbered the audience.
+= 总统身边的卫兵比听众还多。
+词族：
+attendance = 出席（率）
+attendant = 服务员
+注意：attend 出席时及物，
+attend to 才是"处理"。
+④ Every attendee received a badge with somebody else's name on it.
+= 每位与会者都拿到一个印着别人名字的胸牌。
+attendee = 与会者
+attender = 出席者（英式，也指常来的人）
