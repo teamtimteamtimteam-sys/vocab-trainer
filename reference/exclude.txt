@@ -472,3 +472,5 @@ eve-teaser   # 同上，行为人
 exoglossic   # 世界英语研究内部的术语，跟 endoglossic 同类，不进通用语
 exonormative # 同上，只在语言变体研究里用
 extremis      # in extremis 被切开的碎片，整条短语在 i 段收，同 delicto / initio 那条
+factitive    # 语法学内部术语，同 durative / ergative 那一类，不进通用语
+factive      # 同上，只在句法语义学里用

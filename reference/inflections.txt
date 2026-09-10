@@ -70,3 +70,27 @@ driest       dry
 #   driven（有干劲的）、drove（一群牲畜、in droves）、drunk（醉汉、醉的）、
 #   drunken（形容词）、dying（临终的、the dying）、doing（it takes some doing）
 defied       defy
+
+# --- f ---（2026-09-10 开 f 段前补齐）
+fell         fall       # fell 另有「砍倒」与 fell swoop，写 fall 时留意
+fallen       fall
+fed          feed
+felt         feel       # felt 另有「毡子」一义，到时另立
+fought       fight
+found        find       # found 另有「创办、创立」一支，另立词条
+fled         flee
+flew         fly
+flown        fly
+flung        fling
+forbade      forbid
+forbidden    forbid
+forgot       forget
+forgotten    forget
+forgave      forgive
+forgiven     forgive
+foresaw      foresee
+foreseen     foresee
+forsook      forsake
+forsaken     forsake
+froze        freeze
+frozen       freeze

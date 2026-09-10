@@ -24,6 +24,13 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'face': ['keep a straight face', 'lose face', 'save face', 'face to face',
+          'in the face of', 'on the face of it', "face the music", 'pull a face'],
+ 'fact': ['in fact', 'as a matter of fact', 'the fact of the matter', 'facts and figures'],
+ 'fail': ['without fail'],
+ 'fair': ['fair enough', 'fair and square', "it's not fair", 'more than your fair share'],
+ 'faith': ['in good faith', 'have faith in', 'break faith with'],
+ 'fall': ['fall in love', 'fall short of', 'fall into place', 'fall flat', 'fall apart'],
  'eye': ['keep an eye on', 'see eye to eye', 'turn a blind eye', "catch somebody's eye",
          'an eye for an eye', 'have your eye on', 'the eye of the storm'],
  'eyebrow': ['raise an eyebrow'],

@@ -613,3 +613,75 @@ English rose
 English setter
 Epsom salts
 Ethernet
+
+# ============================================================
+# F 段（2026-09-10 补登，动笔前做）
+# 原先只有 February 与 Friday 两条。清单里 F 打头的大写词头约 180 条，
+# 按老标准过了一遍：纯人名（Fergus、Freda）、纯地名（Fulham、Fresno）、
+# 商标（Filofax™、Frisbee™、French press™）、全大写缩写（FBI、FAQ、FYI）
+# 一律不收；French 一族那些已成通名的固定表达全收。
+# ============================================================
+
+# --- 字母／型号构成的普通名词 ---
+F-1 visa
+F-bomb
+F-word
+
+# --- 文化、时代与学科概念 ---
+Fahrenheit
+Falstaffian
+Faraday cage
+Faustian
+Fauve
+Fauvism
+Fenian
+Festschrift
+Fibonacci series
+Fortran
+Frankenfood
+Frankenstein
+Freemason
+Freemasonry
+Freudian
+Freudian slip
+Futurism
+Futurist
+
+# --- 族群、语言与宗教 ---
+Farsi
+Fijian
+Filipina
+Filipino
+Finn
+Finnish
+Flemish
+Franciscan
+Frisian
+
+# --- 已成通名的品种、食物与物品 ---
+Ferris wheel
+Freephone
+Freepost
+French
+French bean
+French braid
+French bread
+French cricket
+French door
+French dressing
+French fry
+French horn
+French kiss
+French knickers
+French letter
+French loaf
+French plait
+French pleat
+French polish
+French stick
+French toast
+French twist
+French window
+Frenchman
+Frenchwoman
+Friesian
