@@ -24,6 +24,11 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'eye': ['keep an eye on', 'see eye to eye', 'turn a blind eye', "catch somebody's eye",
+         'an eye for an eye', 'have your eye on', 'the eye of the storm'],
+ 'eyebrow': ['raise an eyebrow'],
+ 'eyelid': ['not bat an eyelid'],
+ 'eyelash': ['flutter your eyelashes'],
  'extreme': ['in the extreme', 'go to extremes', 'take something to extremes'],
  'explode': ['explode a myth'],
  'explore': ['explore every avenue'],

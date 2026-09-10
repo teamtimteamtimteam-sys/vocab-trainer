@@ -533,3 +533,83 @@ Dutchwoman
 # --- 已成通名的品种与物品 ---
 Dalmatian
 Dobermann
+
+# ============================================================
+# E 段（2026-09-10 补登）
+# **这一段原先一条都没有** —— A/B/C/D 各有 121/116/128/63 条，E 是 0。
+# 后果：coverage 只把这里列出的大写条目算进应收范围，所以 e 段一路报到
+# 「100%、收完」，可 English、Easter、European、Elizabethan、Ebola 这些
+# 一条都没写。是做 f 段动笔前核对大写词头时才翻出来的。
+# 按原有标准分栏，取舍照旧：纯人名、纯地名、商标、全大写机构缩写不收。
+# ============================================================
+
+# --- 字母／型号构成的普通名词 ---
+E-number
+ES cell
+
+# --- 文化、时代与学科概念 ---
+Ealing comedy
+Edwardian
+Electra complex
+Egyptologist
+Egyptology
+Elizabethan
+Elysian
+Essex girl
+Etonian
+Etruscan
+Eucharist
+Euclidean geometry
+Eurocentric
+Eurocentrism
+Eurocrat
+Europeanization
+Europeanize
+Eurosceptic
+Eurotrash
+Eustachian tube
+Everyman
+Excellency
+
+# --- 族群、语言、宗教与节日 ---
+Easter
+Easter bunny
+Easter egg
+Easter egg hunt
+Eastertime
+Eid
+Episcopalian
+Erse
+Eskimo
+Eskimo roll
+Esperanto
+
+# --- 常用国族形容词与国民称谓 ---
+Ecuadorian
+Egyptian
+Emirati
+English
+Englishman
+Englishwoman
+Eritrean
+Estonian
+Ethiopian
+Eurasian
+European
+
+# --- 已成通名的品种、食物与物品 ---
+Eastern time
+Ebola
+Ebola virus
+E. coli
+Eccles cake
+Edinburgh rock
+Emmental
+Empire line
+English breakfast
+English horn
+English muffin
+English rose
+English setter
+Epsom salts
+Ethernet
