@@ -484,3 +484,5 @@ filmi        # 印度英语，指宝莱坞电影歌曲那一路，属地区变�
 fioritura    # 乐理内部的装饰音术语，同 accelerando / fermata 那一类
 Fingal's Cave   # 苏格兰的一处洞穴地名，属纯地名
 Fianna Fail     # 爱尔兰政党专名，属纯专名
+flagrante    # in flagrante delicto 被切开的碎片，整条短语在 i 段收，同 delicto / extremis
+flagfall     # 澳新英语里出租车的起步价，属地区变体词头
