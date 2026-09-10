@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8859 条，词典序 a → fishnet（另有 Ebola、Easter 等大写词头）。义项 32158。
+B 词表 8892 条，词典序 a → fizzy（另有 Ebola、Easter 等大写词头）。义项 32281。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -335,9 +335,20 @@ CHECK 又补 fire（六条）、first、fish 三组。
   · check-wordlist 头一回是被**讲解行／义项**这条卡住的（1.46 < 1.5），
     不是等式密度：有六条只写了一行等式。补的是 a firkin of ale、
     the fishmonger's、a deep-sea fisherman 这类真搭配。
-  · **下一批从 fishtail 起**（fishwife / fishy / fission / fissure / fist / fit /
-    fitness / five / fix 一带；fit 与 fix 是大词，动笔前往 CHECK 补
-    see fit、fit in、fit as a fiddle、in a fix、fix up）。
+第九批 fissile → fixated（22）、第十批 fixation → fizzy（11）：**fi- 的待新写清零**。
+CHECK 又补 fit / fix / fist 三组。
+随后开始 **fi- 的并入 pass（190 条，分两半做）**：
+  第一半已做完 —— fire 38 条、first 45 条、field 19 条，共 102 条写进这三个宿主。
+  fi- 段 351/451（77%）。
+  · fire 一族分了 18 组（消防机构与车辆、逃生与防护、纵火、壁炉与火光、
+    fire away/off/up 三个短语动词等），first 一族 18 组，field 一族 6 组。
+  · check-wordlist 又拦下一条译文混英文：我写「英国的 first floor 是美国的二楼」，
+    译文里引用英文必须加引号，改成「first floor」才过。
+  · **下一步：fi- 并入 pass 的后一半**（fibre / fiddle / fifth / fifty / fig /
+    fight / figure / file / fill / film / filter / fin / final / finance / find /
+    fine / finger / finish / firing / firm / fiscal / fish / fishing / fist /
+    fit / fitness / fitted / fitting / five / fix / fixed / fixer 共 88 条），
+    做完 fi- 段就只剩 5 条待推迟。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
