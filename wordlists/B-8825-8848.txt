@@ -1,30 +1,3 @@
-fintech
-核心：金融科技：拿技术做金融服务的那个行当，也指这类公司。不可数为主。
-① Fintech promised to kill the branch and killed the queue instead.
-= 金融科技扬言要干掉网点，结果干掉的是排队。
-fintech = 金融科技
-② A fintech start-up runs on two people and a great deal of compliance.
-= 一家金融科技初创公司，靠两个人加一大堆合规撑着。
-a fintech company = 金融科技公司
-
-fiord
-核心：峡湾：fjord 的另一种拼法，指冰川挖出来的深长海湾。可数。
-① The fiord is nine hundred metres deep and the ferry crosses it in eleven minutes.
-= 那道峡湾深九百米，渡轮十一分钟就横渡过去。
-a fiord = 峡湾
-the head of a fiord = 峡湾的尽头
-② Snow on both sides of the fiord lasts until the middle of June.
-= 峡湾两岸的雪，一直留到六月中旬。
-
-fir
-核心：冷杉：常绿针叶树，针叶扁平，球果朝上直立。可数。
-① A fir planted in 1971 now blocks the light from two windows.
-= 1971 年栽下的一棵冷杉，如今挡住了两扇窗的光。
-a fir = 冷杉
-② Fir cones sit upright on the branch and fall apart rather than drop.
-= 冷杉球果直立在枝上，是散开的，不是整个掉下来。
-a fir cone = 冷杉球果
-
 fire
 核心：五支。一是火、火灾：put out a fire；二是（英式）取暖炉具：an electric fire；
 三是开火射击；四是解雇：be fired；
@@ -128,6 +101,9 @@ fire up = 启动、点着
 ㉖ A firefly in that jar lasted one night and taught nine children something.
 = 罐子里那只萤火虫活了一夜，教会九个孩子一件事。
 a firefly = 萤火虫
+㉗ A fireside chat on the radio reached more people than any speech in that hall.
+= 电台里的炉边谈话，比那间礼堂里任何演讲传得都远。
+a fireside chat = 炉边谈话
 
 firearm
 核心：（正式）枪支：手枪、步枪一类，多用复数 firearms。可数。
@@ -261,6 +237,9 @@ the firing of somebody = 对某人的解雇
 ③ The second firing sets the glaze and the first only hardens the clay.
 = 第二次烧制定住釉面，头一次只是把泥坯烧硬。
 a firing = 一次烧制
+④ The firing squad in that film is eleven men and one blank round.
+= 那部电影里的行刑队，十一个人，一发空包弹。
+a firing squad = 行刑队
 
 firkin
 核心：（英式，酿造）小桶：约九加仑的啤酒桶。可数。
@@ -293,6 +272,9 @@ firmly shut = 关得严实
 ⑥ She firmly believes the second version and has read only the first.
 = 她坚信第二个版本，读过的却只有第一个。
 firmly believe = 坚信
+⑦ Prices firm up in spring and soften again by the middle of August.
+= 价格春天走稳，到八月中又松动。
+firm up = 走稳、确定下来
 
 firmament
 核心：（书面、旧）苍穹、天空；引申指某个领域的「星空」。不可数。
@@ -421,3 +403,40 @@ a first-person shooter = 第一人称射击游戏
 ㉔ The first down came in the third minute and the crowd sat back down.
 = 第一次进攻推进出现在第三分钟，观众又坐了回去。
 a first down = （美式足球）首攻成功
+
+firstborn
+核心：长子、长女：家里第一个出生的孩子。可数，也作定语。
+① The firstborn gets the photographs and the second gets the hand-me-downs.
+= 老大占了照片，老二捡旧衣裳。
+the firstborn = 长子、长女
+② Their firstborn was named after a street and the second after a saint.
+= 他们的老大用一条街的名字命名，老二用了一位圣人的。
+a firstborn son = 长子
+
+firth
+核心：（苏格兰）河口湾：河流入海处那片宽阔水域，多见于地名。可数。
+① The firth is grey in every photograph and blue about four days a year.
+= 那道河口湾在每张照片里都是灰的，一年大约有四天是蓝的。
+a firth = 河口湾
+cross the firth = 横渡河口湾
+② A bridge across the firth took nine years and two different designs.
+= 跨那道河口湾的桥，修了九年，换过两版设计。
+
+fiscal
+核心：（正式）财政的、税收的：fiscal policy、the fiscal year。副词 fiscally。
+① Fiscal policy moves slowly and everybody feels it at the same moment.
+= 财政政策动得慢，人人却在同一刻感觉到。
+fiscal policy = 财政政策
+② The fiscal year ends in April and the paperwork ends in June.
+= 财政年度四月结束，文书到六月才完。
+the fiscal year = 财政年度
+副词 fiscally：在财政上，多说 fiscally neutral、fiscally responsible。
+③ The plan is fiscally neutral and politically expensive.
+= 那个方案财政上不增负担，政治上代价高昂。
+fiscally neutral = 财政上中性的
+④ A fiscally responsible budget still needs somebody to vote for it.
+= 一份财政上稳健的预算，也还得有人投票通过。
+fiscally responsible = 财政上稳健的
+⑤ The fiscal cliff arrived on schedule and nobody had packed for it.
+= 财政悬崖如期而至，谁都没为它做准备。
+a fiscal cliff = 财政悬崖

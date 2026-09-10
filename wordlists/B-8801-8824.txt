@@ -1,57 +1,3 @@
-fine
-核心：五支。一是好的、不错的：a fine day；二是细的、精细的：fine sand；
-三是罚款（名词与动词）：pay a fine；四是（勉强）还行；
-五是习语：cut it fine 是时间掐得太紧，a fine line 是一线之差。副词 finely。
-① It turned into a fine day and the forecast never admitted it.
-= 后来天气很好，天气预报始终没承认。
-a fine day = 好天气
-② Fine sand gets into the camera and the camera never quite recovers.
-= 细沙钻进相机，相机就再没彻底好过。
-fine sand = 细沙
-③ The fine was forty pounds and the parking would have cost two.
-= 罚款四十镑，本来停车费两镑。
-pay a fine = 交罚款
-④ They cut it fine and made the ferry with ninety seconds to spare.
-= 他们时间掐得太紧，赶上渡轮时只剩九十秒。
-cut it fine = 时间掐得太紧
-⑤ There is a fine line between confident and unbearable.
-= 自信与讨人厌之间，只有一线之差。
-a fine line = 一线之差
-副词 finely：一是细细地：finely chopped；二是精确地：finely balanced。
-⑥ The onion needs to be finely chopped and the garlic does not.
-= 洋葱要切得极细，蒜就不必。
-finely chopped = 切得极细的
-⑦ The argument is finely balanced and one letter tipped it over.
-= 那场争论势均力敌，一封信就把它压偏了。
-finely balanced = 势均力敌的
-
-fineness
-核心：两支。一是精细、细密；二是（金银的）成色、纯度。不可数。
-① The fineness of the mesh decides what gets through and what stays.
-= 网眼的细密程度，决定什么过得去、什么留下。
-the fineness of something = 某物的细密
-② Fineness is stamped on the inside of the ring in three tiny numbers.
-= 纯度用三个小数字打在戒指内圈上。
-fineness = 成色、纯度
-
-finery
-核心：华服、盛装：郑重场合穿戴的漂亮衣饰。不可数。
-① The whole family turned up in finery and stood in the rain for an hour.
-= 全家人盛装到场，在雨里站了一个钟头。
-finery = 盛装
-② Her finery came out of a suitcase that lives on top of the wardrobe.
-= 她那身华服，是从衣柜顶上那只箱子里翻出来的。
-in all your finery = 盛装打扮地
-
-fines herbes
-核心：（法餐）细香草碎：欧芹、细香葱、龙蒿与山萝卜切碎的混合香草。作复数。
-① Fines herbes go in at the very end and lose everything if they boil.
-= 细香草最后才下锅，一煮就什么味道都没了。
-fines herbes = 法式细香草碎
-② An omelette with fines herbes is the test that kitchen sets its cooks.
-= 一份细香草蛋卷，是那间厨房考厨子的题。
-an omelette with fines herbes = 细香草蛋卷
-
 finesse
 核心：两支。一是（正式）手法的精妙圆熟：handle something with finesse；
 二是动词，巧妙地绕开或处理。不可数。
@@ -82,6 +28,16 @@ point the finger at somebody = 指认某人
 ⑤ Fish fingers and peas is what that oven was bought for.
 = 那台烤箱买来就是为了烤鱼柳配豌豆。
 fish fingers = 鱼柳条
+⑥ Finger food and a finger bowl belong to two different kinds of evening.
+= 手抓小食和洗手盅，属于两种不同的晚宴。
+finger food = 手抓小食
+a finger bowl = 洗手盅
+⑦ Finger-painting covers the child, the table and one entire wall.
+= 手指画会涂满孩子、桌子，还有整整一面墙。
+finger-painting = 手指画
+⑧ The report is finger-pointing dressed up as analysis.
+= 那份报告是相互指责，装成了分析。
+finger-pointing = 相互指责
 
 fingerboard
 核心：（乐器）指板：小提琴、吉他上按弦的那块木板。可数。
@@ -199,6 +155,9 @@ a matt finish = 哑光漆面
 = 他们把漆用完了，最后手上剩两种不同的白。
 finish something off = 把某物用完、收尾
 finish up = 最后落得
+⑤ She finished with that job before it could finish with her.
+= 她先跟那份工作了断，没等它先了断她。
+finish with something = 跟某事了断
 
 finished
 核心：三支。一是完成了的：a finished product；二是（人）完了、不行了；
@@ -209,6 +168,16 @@ a finished product = 成品
 ② After that vote he was finished and the party took three years to notice.
 = 那次表决之后他就完了，党内花了三年才察觉。
 be finished = 完蛋了
+
+finisher
+核心：两支。一是跑完全程的人：多见于赛事报道；
+二是（工艺）做最后加工的人或机器。可数。
+① Every finisher gets a medal and the last one gets the loudest cheer.
+= 每个跑完全程的人都有奖牌，最后那个得到的欢呼最响。
+a finisher = 完赛者
+② The finisher smooths the concrete before it goes off and never gets photographed.
+= 那台抹光机在混凝土凝固前把它抹平，从没人给它拍过照。
+a finisher = 抹光机、精加工工人
 
 finite
 核心：有限的、有尽头的：finite resources；语法上也说限定的动词形式。
@@ -256,3 +225,30 @@ Finnish = 芬兰语
 ② The Finnish team arrived a day early and trained in the rain.
 = 芬兰队早到一天，在雨里练了一场。
 the Finnish team = 芬兰队
+
+fintech
+核心：金融科技：拿技术做金融服务的那个行当，也指这类公司。不可数为主。
+① Fintech promised to kill the branch and killed the queue instead.
+= 金融科技扬言要干掉网点，结果干掉的是排队。
+fintech = 金融科技
+② A fintech start-up runs on two people and a great deal of compliance.
+= 一家金融科技初创公司，靠两个人加一大堆合规撑着。
+a fintech company = 金融科技公司
+
+fiord
+核心：峡湾：fjord 的另一种拼法，指冰川挖出来的深长海湾。可数。
+① The fiord is nine hundred metres deep and the ferry crosses it in eleven minutes.
+= 那道峡湾深九百米，渡轮十一分钟就横渡过去。
+a fiord = 峡湾
+the head of a fiord = 峡湾的尽头
+② Snow on both sides of the fiord lasts until the middle of June.
+= 峡湾两岸的雪，一直留到六月中旬。
+
+fir
+核心：冷杉：常绿针叶树，针叶扁平，球果朝上直立。可数。
+① A fir planted in 1971 now blocks the light from two windows.
+= 1971 年栽下的一棵冷杉，如今挡住了两扇窗的光。
+a fir = 冷杉
+② Fir cones sit upright on the branch and fall apart rather than drop.
+= 冷杉球果直立在枝上，是散开的，不是整个掉下来。
+a fir cone = 冷杉球果

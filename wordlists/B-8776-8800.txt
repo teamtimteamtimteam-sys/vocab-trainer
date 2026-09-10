@@ -1,38 +1,3 @@
-filter
-核心：三支。一是滤器、滤芯：a coffee filter；二是动词，过滤：filter water；
-三是（信息、消息）筛除与渗透：filter out、filter through。
-① The coffee filter is paper and that machine takes a different size.
-= 那种咖啡滤纸是纸的，那台机器要的却是另一个尺寸。
-a coffee filter = 咖啡滤纸
-② They filter the water twice and still boil it before drinking.
-= 他们把水过滤两遍，喝之前还是要煮开。
-filter water = 过滤水
-③ The system filters out anything with two exclamation marks in it.
-= 那套系统会把带两个感叹号的东西全筛掉。
-filter out = 筛除
-④ News of the closure filtered through the building by lunchtime.
-= 关门的消息到午饭时已经在整栋楼里传开。
-filter through = 渐渐传开
-
-filth
-核心：两支。一是污秽、脏东西：be covered in filth；二是（贬）下流的言语与图像。
-不可数。形容词 filthy。
-① The cellar was covered in filth that turned out to be nine years of soot.
-= 地窖里满是污垢，原来是积了九年的烟灰。
-be covered in filth = 满是污垢
-② The letter is filth and the newspaper printed only the polite half.
-= 那封信满纸污言秽语，报纸只登了客气的那一半。
-filth = 下流的东西
-
-filthiness
-核心：肮脏、污秽：不可数；也说言语的下流。
-① The filthiness of the kitchen was the only thing the inspector wrote down.
-= 厨房之脏，是检查员唯一记下来的事。
-the filthiness of something = 某处的肮脏
-② Filthiness in a hospital corridor is a management failure, not a cleaning one.
-= 医院走廊脏，是管理的失败，不是保洁的失败。
-filthiness = 肮脏
-
 filthy
 核心：三支。一是极脏的：filthy hands；二是下流的：a filthy joke；
 三是（英式口语）糟透的：filthy weather；另有 filthy rich，富得流油。副词 filthily。
@@ -77,6 +42,9 @@ a fin = 鱼鳍
 ② The tail fin is the only part of that aircraft they repainted.
 = 尾翼是那架飞机上唯一重新喷过漆的部分。
 a tail fin = 尾翼
+③ The building is fin de siècle and the plumbing in it is older still.
+= 那栋楼是世纪末风格，里头的管道比它还老。
+fin de siècle = 世纪末（风格）
 
 finagle
 核心：（非正式）耍手腕弄到手、连蒙带混地办成：
@@ -101,6 +69,9 @@ the decision is final = 决定不可更改
 = 那场杯赛决赛，是被一个判了四分钟才算数的进球定下来的。
 the cup final = 杯赛决赛
 finals = 期末大考
+④ A final clause answers the question why and usually starts with so that.
+= 目的状语从句回答「为什么」，通常以「so that」开头。
+a final clause = 目的状语从句
 
 finale
 核心：（演出、乐曲的）终场、终曲：最后那一段最热闹的部分。可数。
@@ -172,6 +143,9 @@ raise finance = 筹措资金
 ③ Her finances recovered a good deal faster than her patience did.
 = 她的财务状况恢复得比她的耐心快得多。
 somebody's finances = 某人的财务状况
+④ The finance company lends at a rate the shop never mentions out loud.
+= 那家财务公司放贷的利率，店里从来不明说。
+a finance company = 财务公司
 
 financial
 核心：财政的、金融的、财务的：the financial year、financial difficulties。
@@ -189,6 +163,9 @@ financially viable = 财务上可行的
 ④ She has been financially independent since she was nineteen.
 = 她从十九岁起就在经济上独立了。
 financially independent = 经济独立的
+⑤ Financial aid covers the fees and does not cover the bus fare.
+= 助学金能覆盖学费，覆盖不了车费。
+financial aid = 助学金、财政援助
 
 financials
 核心：（商业）财务报表：一家公司那套账目数字，作复数。
@@ -245,6 +222,10 @@ a lucky find = 捡到的宝
 = 她用一个学期适应下来，用一年弄明白为什么。
 find your feet = 适应下来
 find out = 弄清楚
+⑥ The court found for the tenant and found against the agency twice.
+= 法庭判租客胜诉，两次判中介败诉。
+find for somebody = 判某人胜诉
+find against somebody = 判某人败诉
 
 finder
 核心：拾得者、找到东西的人；也指望远镜上的寻星镜。可数。
@@ -266,3 +247,62 @@ publish the findings = 公布结论
 ② A finding of negligence changed what the insurer was willing to pay.
 = 一项过失认定，改变了保险公司愿意赔的数目。
 a finding of negligence = 过失认定
+
+fine
+核心：五支。一是好的、不错的：a fine day；二是细的、精细的：fine sand；
+三是罚款（名词与动词）：pay a fine；四是（勉强）还行；
+五是习语：cut it fine 是时间掐得太紧，a fine line 是一线之差。副词 finely。
+① It turned into a fine day and the forecast never admitted it.
+= 后来天气很好，天气预报始终没承认。
+a fine day = 好天气
+② Fine sand gets into the camera and the camera never quite recovers.
+= 细沙钻进相机，相机就再没彻底好过。
+fine sand = 细沙
+③ The fine was forty pounds and the parking would have cost two.
+= 罚款四十镑，本来停车费两镑。
+pay a fine = 交罚款
+④ They cut it fine and made the ferry with ninety seconds to spare.
+= 他们时间掐得太紧，赶上渡轮时只剩九十秒。
+cut it fine = 时间掐得太紧
+⑤ There is a fine line between confident and unbearable.
+= 自信与讨人厌之间，只有一线之差。
+a fine line = 一线之差
+副词 finely：一是细细地：finely chopped；二是精确地：finely balanced。
+⑥ The onion needs to be finely chopped and the garlic does not.
+= 洋葱要切得极细，蒜就不必。
+finely chopped = 切得极细的
+⑦ The argument is finely balanced and one letter tipped it over.
+= 那场争论势均力敌，一封信就把它压偏了。
+finely balanced = 势均力敌的
+⑧ They went through the accounts with a fine-tooth comb and fine-tuned nothing.
+= 他们拿细齿梳把账目梳了一遍，一处也没微调。
+a fine-tooth comb = 细齿梳（细查）
+fine-tune = 微调
+fine-tuning = 微调（名词）
+
+fineness
+核心：两支。一是精细、细密；二是（金银的）成色、纯度。不可数。
+① The fineness of the mesh decides what gets through and what stays.
+= 网眼的细密程度，决定什么过得去、什么留下。
+the fineness of something = 某物的细密
+② Fineness is stamped on the inside of the ring in three tiny numbers.
+= 纯度用三个小数字打在戒指内圈上。
+fineness = 成色、纯度
+
+finery
+核心：华服、盛装：郑重场合穿戴的漂亮衣饰。不可数。
+① The whole family turned up in finery and stood in the rain for an hour.
+= 全家人盛装到场，在雨里站了一个钟头。
+finery = 盛装
+② Her finery came out of a suitcase that lives on top of the wardrobe.
+= 她那身华服，是从衣柜顶上那只箱子里翻出来的。
+in all your finery = 盛装打扮地
+
+fines herbes
+核心：（法餐）细香草碎：欧芹、细香葱、龙蒿与山萝卜切碎的混合香草。作复数。
+① Fines herbes go in at the very end and lose everything if they boil.
+= 细香草最后才下锅，一煮就什么味道都没了。
+fines herbes = 法式细香草碎
+② An omelette with fines herbes is the test that kitchen sets its cooks.
+= 一份细香草蛋卷，是那间厨房考厨子的题。
+an omelette with fines herbes = 细香草蛋卷

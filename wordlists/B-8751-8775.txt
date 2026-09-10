@@ -1,21 +1,3 @@
-filbert
-核心：榛子：一种榛果，跟 hazelnut 基本是一回事，果壳更长些。可数。
-① Filberts fall in September and the squirrels get a fortnight's start.
-= 榛子九月落下，松鼠比人早开工两个星期。
-a filbert = 榛子
-② A pound of filberts makes two jars of something nobody can stop eating.
-= 一磅榛子能做出两罐让人停不下嘴的东西。
-filberts = 榛子（复数）
-
-filch
-核心：（非正式）顺手拿走：偷不值钱的小东西，语气比 steal 轻得多。
-① Somebody filched the good scissors and left the blunt pair behind.
-= 有人顺走了那把好剪刀，把钝的那把留下了。
-filch something = 顺走某物
-② Biscuits get filched from that tin faster than anybody replaces them.
-= 那个铁罐里的饼干，被顺走的速度比补进去的还快。
-be filched = 被顺走
-
 file
 核心：五支。一是文件夹、卷宗：a personnel file；二是（电脑）文件：save a file；
 三是动词，归档、正式提交：file a report、file for divorce；
@@ -37,6 +19,11 @@ file something down = 把某物锉小
 ⑤ The children came in in single file and left in every direction at once.
 = 孩子们排成一列进来，散开时各奔东西。
 in single file = 排成一列纵队
+⑥ The file clerk keeps a file cabinet that predates file sharing by thirty years.
+= 那位档案员管着一个比文件共享早三十年的文件柜。
+a file cabinet = 文件柜（美式）
+a file clerk = 档案员
+file sharing = 文件共享
 
 filename
 核心：（电脑）文件名：后面多带扩展名。可数。
@@ -93,6 +80,9 @@ a filing cabinet = 文件柜
 ② Iron filings on a sheet of paper show the field better than any diagram.
 = 纸上的铁屑，把磁场显示得比任何示意图都清楚。
 iron filings = 铁屑
+③ The filing clerk left in June and the filing itself did not.
+= 那位归档员六月走了，归档的活儿留了下来。
+a filing clerk = 归档员
 
 Filipina
 核心：菲律宾女子：只说女性；男性与统称用 Filipino。可数。
@@ -131,6 +121,15 @@ fill up = 加满
 ⑤ A folding table fills the bill and costs eleven pounds.
 = 一张折叠桌正合适，才十一镑钱。
 fill the bill = 正合适
+⑥ Fill out the form in block capitals and post it before Thursday.
+= 表格用正楷填，周四之前寄出去。
+fill out = 填写（美式）
+⑦ They fill up on bread and leave the expensive part on the plate.
+= 他们拿面包填饱肚子，贵的那部分留在盘子里。
+fill up on something = 拿某物填饱肚子
+⑧ A fill light softens the shadow that the main lamp makes.
+= 补光灯柔化主灯打出的那道阴影。
+a fill light = 补光灯
 
 filler
 核心：三支。一是填料、腻子：wood filler；二是（版面、时间的）补白：a filler item；
@@ -141,6 +140,9 @@ wood filler = 木用腻子
 ② The bulletin ran a filler about a duck and dropped the council story.
 = 那档新闻插了一条关于鸭子的补白，把议会那条撤了。
 a filler item = 补白的小条目
+③ The filler cap is on the wrong side at every petrol station in the county.
+= 全郡的加油站，油箱盖都在不对的那一边。
+a filler cap = 油箱盖
 
 fillet
 核心：（英式）去骨的肉片、鱼片；也作动词，给鱼或肉剔骨。美式拼 filet。
@@ -162,6 +164,9 @@ the filling = 馅料
 ③ Porridge is filling, cheap and taken very seriously in that house.
 = 燕麦粥扛饿、便宜，在那家人眼里是很正经的东西。
 a filling meal = 扛饿的一顿饭
+④ The filling station on that road closed and the next one is nineteen miles away.
+= 那条路上的加油站关了，下一个在十九英里外。
+a filling station = 加油站
 
 fillip
 核心：（正式）提振、一剂强心针：给事情添把劲的东西。可数，
@@ -197,6 +202,16 @@ a film of dust = 一层薄灰
 ④ They filmed the whole street in a day and used forty seconds of it.
 = 他们一天拍完整条街，用上的只有四十秒。
 film something = 拍摄某物
+⑤ The film-maker spent a year on film-making and eleven minutes on the title.
+= 那位电影人拍片花了一年，起片名花了十一分钟。
+a film-maker = 电影人
+film-making = 电影制作
+⑥ The film certificate says fifteen and the queue is mostly twelve.
+= 那部片子定级十五岁，排队的多半十二岁。
+a film certificate = 电影分级
+⑦ Film noir is mostly rain, hats and light coming through blinds.
+= 黑色电影多半就是雨、帽子，还有百叶窗缝里透进来的光。
+film noir = 黑色电影
 
 filmgoer
 核心：常看电影的人、影迷。可数。
@@ -249,3 +264,41 @@ a filmy curtain = 轻薄的窗帘
 ② Filmy cloud came over the moon and the frost held off till dawn.
 = 一层薄云遮住月亮，霜一直到天亮才下。
 filmy cloud = 薄云
+
+filter
+核心：三支。一是滤器、滤芯：a coffee filter；二是动词，过滤：filter water；
+三是（信息、消息）筛除与渗透：filter out、filter through。
+① The coffee filter is paper and that machine takes a different size.
+= 那种咖啡滤纸是纸的，那台机器要的却是另一个尺寸。
+a coffee filter = 咖啡滤纸
+② They filter the water twice and still boil it before drinking.
+= 他们把水过滤两遍，喝之前还是要煮开。
+filter water = 过滤水
+③ The system filters out anything with two exclamation marks in it.
+= 那套系统会把带两个感叹号的东西全筛掉。
+filter out = 筛除
+④ News of the closure filtered through the building by lunchtime.
+= 关门的消息到午饭时已经在整栋楼里传开。
+filter through = 渐渐传开
+⑤ A filter tip takes out some of it and none of the habit.
+= 过滤嘴滤掉一部分，习惯一点没滤掉。
+a filter tip = 过滤嘴
+
+filth
+核心：两支。一是污秽、脏东西：be covered in filth；二是（贬）下流的言语与图像。
+不可数。形容词 filthy。
+① The cellar was covered in filth that turned out to be nine years of soot.
+= 地窖里满是污垢，原来是积了九年的烟灰。
+be covered in filth = 满是污垢
+② The letter is filth and the newspaper printed only the polite half.
+= 那封信满纸污言秽语，报纸只登了客气的那一半。
+filth = 下流的东西
+
+filthiness
+核心：肮脏、污秽：不可数；也说言语的下流。
+① The filthiness of the kitchen was the only thing the inspector wrote down.
+= 厨房之脏，是检查员唯一记下来的事。
+the filthiness of something = 某处的肮脏
+② Filthiness in a hospital corridor is a management failure, not a cleaning one.
+= 医院走廊脏，是管理的失败，不是保洁的失败。
+filthiness = 肮脏

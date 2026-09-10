@@ -1,20 +1,3 @@
-fiendish
-核心：两支。一是凶残的、恶魔般的；二是（口语）刁钻的、难得吓人的。
-副词 fiendishly。
-① A fiendish plan needs a fiendish amount of paperwork these days.
-= 如今一个恶毒的计划，得配上一大堆吓人的文书。
-a fiendish plan = 恶毒的计划
-② The last clue is fiendish and the rest of them took nine minutes.
-= 最后一条线索刁钻得很，其余的九分钟就解完了。
-a fiendish puzzle = 刁钻的谜题
-副词 fiendishly：刁钻地、极其地，多修饰 difficult、clever、complicated。
-③ The instructions are fiendishly clever and completely unreadable.
-= 那份说明构思刁钻，却根本读不下去。
-fiendishly clever = 刁钻聪明的
-④ The last two questions were fiendishly difficult and worth one mark each.
-= 最后两道题难得吓人，每道却只值一分。
-fiendishly difficult = 难得吓人
-
 fierce
 核心：三支。一是（动物、人）凶猛的；二是（竞争、批评）激烈的：fierce competition；
 三是（天气、火势）猛烈的。副词 fiercely，名词 fierceness。
@@ -103,6 +86,13 @@ a fifth = 五分之一
 ③ Fifthly, and everybody had stopped listening by then, the roof needs money.
 = 第五点 —— 讲到这儿已经没人在听了 —— 屋顶需要钱。
 fifthly = 第五（列举用语）
+④ A fifth column works from the inside and a fifth columnist is harder to name.
+= 第五纵队从内部下手，要指认一个内奸更难。
+a fifth column = 第五纵队
+a fifth columnist = 内奸
+⑤ Fifth-generation systems arrive before anybody has learned the fourth.
+= 第五代系统来的时候，第四代还没人学会。
+fifth-generation = 第五代的
 
 fiftieth
 核心：第五十；也指五十分之一。序数词，写作 50th。
@@ -124,6 +114,10 @@ in your fifties = 五十几岁
 ③ The fifties in that town meant one bus a day and no telephone.
 = 那个镇子的五十年代，意味着一天一班车、没有电话。
 the fifties = 五十年代
+④ They split it fifty-fifty and then argued about the fifty pence piece.
+= 他们对半分，随后为那枚五十便士硬币争了起来。
+fifty-fifty = 对半分
+a fifty pence piece = 五十便士硬币
 
 fig
 核心：无花果：软甜多籽的果实，也晒成干果卖。可数。
@@ -134,6 +128,9 @@ a fig = 无花果
 ② He does not give a fig what the committee thinks and says so at every meeting.
 = 委员会怎么想他一点也不在乎，每次开会都要说一遍。
 not give a fig = 一点也不在乎
+③ The report is a fig leaf and everybody at that table knows it.
+= 那份报告是块遮羞布，桌上人人心里有数。
+a fig leaf = 遮羞布
 
 fight
 核心：五支。一是打架、搏斗：get into a fight；二是（拳击等）比赛；
@@ -159,6 +156,11 @@ fight off something = 抵御住某物
 ⑥ Arguing with that department is fighting a losing battle with better stationery.
 = 跟那个部门争，是打一场文具更好的败仗。
 fight a losing battle = 打一场必败的仗
+⑦ She fought down the urge to answer and let the others fight it out.
+= 她压住回嘴的冲动，让别人去争个高下。
+fight down = 压住（情绪、冲动）
+fight it out = 争个高下
+fight out = 一决胜负
 
 fightback
 核心：（英式）反击、逆转：从落后处一路追回来。可数。
@@ -178,6 +180,9 @@ a fighter = 斗士、不服输的人
 ② The fighter came in low over the estuary and set off nine car alarms.
 = 那架战斗机贴着河口低飞过来，惊响了九个汽车警报。
 a fighter jet = 喷气式战斗机
+③ A fighter-bomber does two jobs and does neither as well as a specialist.
+= 战斗轰炸机身兼两职，哪一样都比不上专用机型。
+a fighter-bomber = 战斗轰炸机
 
 fighting
 核心：两支。一是战斗、打斗，不可数：heavy fighting；
@@ -236,6 +241,17 @@ figure something out = 弄明白某事
 = 说那扇门在看着你，是个修辞说法 —— 至少从前是。
 a figure of speech = 修辞说法
 cut a figure = 显出某种模样
+⑥ The dress is figure-hugging and the pockets on it are a lie.
+= 那条裙子紧贴身形，上头的口袋是假的。
+figure-hugging = 贴身显身材的
+⑦ She cut a figure of eight on the ice and took up figure skating at forty.
+= 她在冰上划出一个八字，四十岁才开始学花样滑冰。
+a figure of eight = 八字形
+figure skating = 花样滑冰
+⑧ I figure on leaving at six and figure on being late in any case.
+= 我打算六点走，也料到反正会迟到。
+figure on something = 打算、指望
+figure on doing something = 打算做某事
 
 figured
 核心：（织物、木材）有花纹的：figured silk、figured walnut。多作定语。
@@ -245,6 +261,9 @@ figured silk = 提花绸缎
 ② The panel is figured walnut and cost more than the rest of the room.
 = 那块面板是花纹胡桃木，比屋里其余的东西加起来还贵。
 figured walnut = 花纹胡桃木
+③ The figured bass tells the player what to fill in and not how to do it.
+= 数字低音告诉演奏者该填什么，不告诉他怎么填。
+figured bass = 数字低音
 
 figurehead
 核心：两支。一是（船首的）雕像；二是有名无实的首脑，只挂个名。可数。
@@ -281,3 +300,21 @@ a filament = 灯丝
 ② Each filament is thinner than a hair and carries the whole current.
 = 每一根细丝比头发还细，却承着全部电流。
 a fine filament = 极细的丝
+
+filbert
+核心：榛子：一种榛果，跟 hazelnut 基本是一回事，果壳更长些。可数。
+① Filberts fall in September and the squirrels get a fortnight's start.
+= 榛子九月落下，松鼠比人早开工两个星期。
+a filbert = 榛子
+② A pound of filberts makes two jars of something nobody can stop eating.
+= 一磅榛子能做出两罐让人停不下嘴的东西。
+filberts = 榛子（复数）
+
+filch
+核心：（非正式）顺手拿走：偷不值钱的小东西，语气比 steal 轻得多。
+① Somebody filched the good scissors and left the blunt pair behind.
+= 有人顺走了那把好剪刀，把钝的那把留下了。
+filch something = 顺走某物
+② Biscuits get filched from that tin faster than anybody replaces them.
+= 那个铁罐里的饼干，被顺走的速度比补进去的还快。
+be filched = 被顺走
