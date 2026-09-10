@@ -378,9 +378,29 @@ CHECK 又补 flood / floodgate / floor / flow / flower / flotsam 六组。
   · 两批被「讲解行／义项」与等式密度卡住，补的都是真搭配
     （two florins、a clay flowerpot、a flotilla of yachts、a deep flounce 等）。
     **这类短词条只写一行等式就容易压线，写的时候顺手多给一条真搭配更省事。**
-  · **下一批从 flute 起**（fluted / fluting / flutist / flutter / fluvial / flux /
-    fly / flyaway 一带，之后 fl- 就剩并入 pass；fly 是大词，动笔前往 CHECK 补
-    fly off the handle、let fly、fly in the face of、with flying colours）。
+第十批 flute → focal（25，fl- 段新写收尾，顺势起 fo-）。
+fl- 段 275/393（69%）—— **待新写已清零**，剩下的 117 条全是待并入，
+外加 fl oz / flipped classroom 两条待推迟。fl- 的并入 pass 还欠着。
+  · fly 写完补了「注意：三态是 fly / flew / flown」一行 —— coverage 认不规则
+    变形靠的是 inflections.txt **加上词条正文里出现那个字面**，只登记映射
+    不够（flew 因此在清单里挂了一轮）。**以后写不规则动词直接带上三态行。**
+  · fly 的 flown 还栽过一次 audit-padding：例句只用 flown、词头 fly 不在句里，
+    padding 不查 inflections。**例句里要出现词头本身或它的常见变形。**
+
+═══ fo- 段已开工（清单 436 条）═══
+第一批 focalization → folding（25）、第二批 foliage → foodie（25）。
+fo- 段 68/436（15%）。CHECK 补了 focus / fog / foggy / fold / foil / fodder /
+follow / food / font 九组，fly / flutter / flux 三组。
+  · fondly 并入 fond（派生并入规则第 194 例）。
+  · audit-ab 连着两批点名：fold 缺 fold in half、food 缺 buy food ——
+    **A 表里的大词搭配，写 B 的时候顺手先把 A 的等式抄一遍再动笔更省事。**
+  · foetal / foetus / foetid / fogy / föhn 都是已写过词条的异体拼法，
+    场景全部另起（照 dyke/dike、flak/flack 的老规矩），scan-dupes 0 对。
+  · **下一批从 foodstuff 起**（foody / fool / foolhardy / foolish / foolproof /
+    foot / football 一带；foot 与 fool 都是大词，动笔前往 CHECK 补
+    fool around、fool's gold、a fool's paradise、put your foot down、
+    on foot、get off on the wrong foot、foot the bill、under your feet）。
+    foot 一收，feet（fe- 段挂着的那条）就自动认上了。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
