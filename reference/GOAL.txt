@@ -9,18 +9,18 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-09） ═══
-B 词表 8202 条，词典序 a → exorbitantly。义项 30021。
+═══ 现状（2026-09-10） ═══
+B 词表 8270 条，词典序 a → expletive。义项 30174。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
-  e 段：ea–ev 全部收完，**ex- 在做**（清单 413，已收 153，还剩约 260）。
+  e 段：ea–ev 全部收完，**ex- 在做**（清单 413，已收 227，54%，还剩 186）。
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
   不必回头补。
 交付文件（每 2500 条一份）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
   B-merged-5001-7500.txt   2500 条   compatible → encroachment
-  B-merged-7501-8202.txt    702 条   encrustation → exorbitantly
+  B-merged-7501-8270.txt    770 条   encrustation → expletive
 **每份固定 2500 条，满了自动顺延到下一份**（merge-wordlist.py B 2500 每次重切，
 并删掉上一轮的旧尾巴文件）。新词条现在落在第四份里。
 
@@ -138,8 +138,31 @@ ej- 与 ek- 收满，el- 段 98%（单列词与 28 个复合词并入都做完�
 em- 段 99%（单列词与 14 个复合词并入都做完了，只剩 emissions trading 待推迟）。
 en- 98%、eo- 100%、ep- 100%、eq- 95%、er- 97%、es- 95%、et- 100%
 （余下的都是待推迟）。
-eu- 100%、ev- 100%、ew- 100%，ex- 写到 exemplar（清单 415 条，已收约 100）。
-**下一步：ex- 段继续**（exorcise → exuberant 还有约 260 条）。
+eu- 100%、ev- 100%、ew- 100%。
+**ex- 段（2026-09-10 三批）**：第一批 exorcise → expatriate（23 条）、
+第二批 expect → expensively（23 条）、第三批 experience → expletive（22 条）。
+动笔前往 audit-idioms 的 CHECK 补了 expect / expectation / expense /
+experience / explain 五组习语，写的时候一并落进等式（be expecting、
+what do you expect、at the expense of、at somebody's expense、
+go to the expense of、spare no expense、live up to expectations、
+contrary to expectation、exceed expectations、from experience、
+in my experience、explain yourself、explain away）。
+**下一步：ex- 段继续**（explicable → exuberantly 还有 186 条，
+其中 33 条待并入、22 条待推迟；express、extend、extra、extreme 这几个大词
+都在后半段）。
+  · 这三批踩的坑：**核心块里不能用 ①②③ 分列义项** —— 那三个字符是例句编号，
+    check-wordlist 当场把核心块的行读成没有译文的例句（exorcise、exotic、
+    expand、expansion、expansive 五条一起报）。段内分支照 exhaust／excite 的
+    老写法写成「核心：三支。一是…；二是…；三是…」。
+  · audit-ab 报 expert 缺 expert in：A 表教过 an expert in something。
+    on／in／at 三个介词分工不同（on 说题目、in 说行当、at 说做事），
+    核心块里讲清楚，等式补一行原形。
+  · explanatory 的核心块本来想写 self-explanatory —— 忍住没写：
+    那条多词条目的宿主前四字母是 self，挂到 explanatory 底下 audit-swallowed
+    会当场报「被吞掉」，同 dust bunny 挂到 bunny 那次。
+  · expiration date 与 expiry date 是 coverage 里挂在 date 名下的待并入项，
+    这一轮直接以真搭配的形式写进了 expiration 与 expiry 两条（前四字母同源），
+    不必等 date 的并入 pass。
   · en- 第二批 audit-examples 报 enclose「偏薄」（额外实词 3.7 < 4）——
     办法是把例句改厚（加上「标着六月的文件夹」「横穿其上的老小路」这类承载词），
     不是去动那道下限。
