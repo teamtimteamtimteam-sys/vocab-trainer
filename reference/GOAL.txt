@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8696 条，词典序 a → fatherly（另有 Ebola、Easter 等大写词头）。义项 31194。
+B 词表 8502 条，词典序 a → fatherly（另有 Ebola、Easter 等大写词头）。义项 31191。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -188,6 +188,27 @@ CHECK 补了 extreme 一组（in the extreme、go to extremes、take something t
   管道末端的 tail 的码），报「⚠ 应有词条却为空：ez」；还原后回 0。
   **往后每收完一个字母段，两件事一起做：把该字母登记进 EXPECT、
   把该字母的大写词头过一遍 proper-nouns-keep。** 少做一件，就会再出这种洞。
+
+═══ 派生词并入形容词（2026-09-10 全表回扫，已做完）═══
+用户新定的规则：形容词的 -ly 副词、比较级与最高级一律并进形容词词条，
+除非那个派生形式另有形容词没有的义项。**这条要回溯到已写的全部词条**，
+所以当场做了一次全表回扫：
+  · 新写 `scripts/audit-derived.py` 当第十一道闸门，例外登记
+    `reference/derived-keep.txt`（照 proper-nouns-keep 与 exclude 的老办法：
+    例外必须留痕，不靠记性）。已验过它会咬人 —— 把 fairly 从名单里拿掉，
+    脚本自己的退出码就变 1。
+  · 全表 **193 条副词 + 2 条比较级（farther、farthest）并入**，
+    词条 8696 → 8502，义项 31194 → 31191（只少 3 条：并入后撞出的
+    重复义项，照 2026-09-06 那条裁定「重复只留一个」收拢了 biennial 与 cozy）。
+  · 并入的写法：副词的核心块变成形容词条里的一行「副词 X：……」，
+    义项连例句带等式原样搬过去，原词条删除，再跑 renumber。
+  · **前四字母对不上的要补 inflections.txt**（ably/able、busily/busy、
+    airily/airy、cosily/cosy 这一类共 10 条），否则 coverage 认不出派生关系。
+  · 登记为例外的 11 条：badly、bodily、daily、early、duly、dumbly、easily、
+    economically、fairly、famously、faintly，外加 alternatively 与 dryer。
+  · 踩到一个坑：并入之后 resplit 重切分，某一份文件的等式密度掉到基线以下
+    （2.00 < 2.13）—— 总量没少，是切分挪动造成的。照老规矩补真搭配，
+    不动阈值。
 
 ═══ f 段进行中（2026-09-10 开工）═══
 动笔前的四件事都做完了：

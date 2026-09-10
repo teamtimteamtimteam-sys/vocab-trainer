@@ -106,3 +106,7 @@ cosily       cosy        # 副词并进形容词后，前四字母对不上，�
 cozily       cozy        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
 edgily       edgy        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
 drier        dry        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
+
+# --- 副词并入形容词后补的对照（2026-09-10）---
+farther      far        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
+farthest     far        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT

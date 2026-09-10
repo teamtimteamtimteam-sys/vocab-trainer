@@ -36,7 +36,7 @@ python3 scripts/check-wordlist.py wordlists/B-XXXX-YYYY.txt   # 先查这一批�
 python3 scripts/renumber.py                                    # 往老词条插过义项就要跑
 python3 scripts/resplit-b.py >/dev/null
 python3 scripts/merge-wordlist.py B 2500 >/dev/null            # 交付文件每份 2500，满了自动顺延
-bash scripts/gates.sh <段> <这批的词头...>                      # 十道闸门
+bash scripts/gates.sh <段> <这批的词头...>                      # 十一道闸门
 python3 scripts/scan-dupes.py --loose                          # 判重（退出码恒 0，要自己看）
 git add -A && git commit -q -m "..."
 ```
@@ -82,6 +82,14 @@ git add -A && git commit -q -m "..."
 8. 同一条词条里不许有重复义项。判据看**等式**：左边剥掉冠词占位词后相同、
    右边中文也基本相同，才算重复。改法是**改等式与场景**，不是删义项、也不是编新场景。
 9. 并入之前先问「这个宿主跟它真的同源吗」——`cult` 吞掉 `cultivable` 那次就是没问。
+10. **形容词的 -ly 副词、比较级与最高级不单立，一律并进形容词词条**（用户 2026-09-10 定）。
+    只有当那个派生形式**另有形容词没有的义项**时才留着单立，
+    例外写进 `reference/derived-keep.txt`（一行一个加理由）——
+    badly 的「非常」、easily 的「无疑／很可能」、fairly 的「还算」、
+    famously 的 get on famously、duly 的「果然」都是这么留下来的。
+    第十一道闸门 `audit-derived.py` 查这条；并入时若副词与形容词前四个字母
+    对不上（ably/able、busily/busy），还要往 `inflections.txt` 补一行，
+    否则 coverage 的派生判定认不出，audit-swallowed 会报「被吞掉」。
 
 ## 五、闸门报错时先判断是词条错了还是尺子错了
 
