@@ -10,17 +10,18 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8336 条，词典序 a → extenuating。义项 30328。
+B 词表 8407 条，词典序 a → exultation。义项 30484。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
-  e 段：ea–ev 全部收完，**ex- 在做**（清单 413，已收 294，71%，还剩 119）。
+  e 段：ea–ev 全部收完，**ex- 的待新写已清零**（清单 412，已收 367，89%，
+  余下 42 条待并入、3 条待推迟）。
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
   不必回头补。
 交付文件（每 2500 条一份）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
   B-merged-5001-7500.txt   2500 条   compatible → encroachment
-  B-merged-7501-8336.txt    836 条   encrustation → extenuating
+  B-merged-7501-8407.txt    907 条   encrustation → exultation
 **每份固定 2500 条，满了自动顺延到下一份**（merge-wordlist.py B 2500 每次重切，
 并删掉上一轮的旧尾巴文件）。新词条现在落在第四份里。
 
@@ -154,10 +155,25 @@ CHECK 又补了 explode / explore / express / expression / extend / extent 六�
 express an interest、freedom of expression、find expression in、
 extend an invitation、to some extent、to a certain extent、to a large extent、
 to what extent）。
-**下一步：ex- 段收尾**（exterior → exultation 还剩 119 条，
-其中 33 条待并入、15 条待推迟；extra、extraordinary、extreme 这三个大词在里面。
-动笔前记得往 CHECK 补 extreme 一组：in the extreme、go to extremes、
-take something to extremes）。
+**ex- 段（2026-09-10 再三批，待新写到此清零）**：第七批 exterior → extracorporeal（24 条）、
+第八批 extract → extravaganza（24 条）、第九批 extraversion → exultation（23 条）。
+CHECK 补了 extreme 一组（in the extreme、go to extremes、take something to extremes）。
+**下一步：ex- 的并入 pass** —— 42 条按意思归组写进宿主词条：
+  ex（ex cathedra / ex gratia / ex libris / ex officio / ex-directory /
+  ex-service 一族 8 条）、executive 5 条、exit 7 条、exclusion 2 条、
+  exercise 2 条、extension 2 条、extra 2 条、extreme 3 条，
+  另有 exhaust pipe、exotic dancer、expand upon、expectation of life、
+  expense account、experience points、expert system、exposure meter、
+  express lane、expression mark、exterior angle、external ear 等单条。
+  并入之后 ex- 段只剩 3 条待推迟，e 段即告收完，接着开 f 段。
+  · extremis 按碎片剔除进 exclude.txt（清单 413 → 412）：in extremis 在清单里
+    另有一行、归 i 段收，同 delicto（in flagrante delicto）与 initio（ab initio）。
+  · extraordinary rendition、extended family、extreme sports 都是原先挂在
+    待推迟栏里的多词条目，这三轮以真搭配直接写进了同前缀的宿主词条 ——
+    待推迟从 22 条降到 3 条。判据仍是 coverage 按连续字符串搜：
+    写 extreme sports 时它认得出里头的 extreme sport。
+  · 拼写变体成对出现时（extravert／extrovert、extraversion／extroversion）
+    两条都留，但场景必须各走各的 —— 同 dyke／dike 那次的教训。
   · 第四批连着触发两次 audit-swallowed，是同一个坑滚出来的：expo 的核心块提了
     exposition（没写），补上 exposition 之后它的核心块又提了 expository。
     **核心块里点名同前缀的词，就得当批把那个词写掉** —— 一次点名可能要连补两条。
