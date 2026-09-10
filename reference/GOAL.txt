@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8479 条，词典序 a → exultation（另有 Ebola、Easter 等大写词头）。义项 30683。
+B 词表 8551 条，词典序 a → fairyland（另有 Ebola、Easter 等大写词头）。义项 30858。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -21,7 +21,7 @@ B 词表 8479 条，词典序 a → exultation（另有 Ebola、Easter 等大写
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
   B-merged-5001-7500.txt   2500 条   compatible → encroachment
-  B-merged-7501-8479.txt    979 条   encrustation → Excellency 一带
+  B-merged-7501-8551.txt   1051 条   encrustation → fairyland 一带
 **每份固定 2500 条，满了自动顺延到下一份**（merge-wordlist.py B 2500 每次重切，
 并删掉上一轮的旧尾巴文件）。新词条现在落在第四份里。
 
@@ -189,7 +189,35 @@ CHECK 补了 extreme 一组（in the extreme、go to extremes、take something t
   **往后每收完一个字母段，两件事一起做：把该字母登记进 EXPECT、
   把该字母的大写词头过一遍 proper-nouns-keep。** 少做一件，就会再出这种洞。
 
-═══ 下一步：开 f 段 ═══
+═══ f 段进行中（2026-09-10 开工）═══
+动笔前的四件事都做完了：
+  ① **F 段大写词头补登 56 条**（原先只有 February、Friday）：French 一族 21 条
+     （French bean / French bread / French door / French fry / French horn /
+     French kiss / French toast / French window / Frenchman / Frenchwoman…）、
+     Fahrenheit、Faustian、Fauve 与 Fauvism、Filipino、Finnish、Flemish、
+     Franciscan、Freemason、Freudian slip、Futurism、Ferris wheel、F-word 等。
+     商标（Filofax™、Frisbee™、French press™）、全大写缩写（FBI、FAQ、FYI）、
+     纯人名地名（Fergus、Fulham）照旧不收。
+  ② **inflections.txt 补 f 段 22 条不规则变形**：fell/fallen、fed、felt、fought、
+     found、fled、flew/flown、flung、forbade/forbidden、forgot/forgotten、
+     forgave/forgiven、foresaw/foreseen、forsook/forsaken、froze/frozen。
+     三条另有别义、到时要单立：fell（砍倒）、felt（毡子）、found（创办）。
+  ③ **CHECK 补六组习语**：face（8 条）、fact、fail、fair、faith、fall。
+  ④ **清单剔 2 条**：factitive、factive（句法语义学内部术语，同 durative 那一类），
+     清单 427 → 425。
+已写三批 72 条：第一批 fa → facile（24）、第二批 facilitate → fade（24）、
+第三批 fader → fairyland（24）。fa- 段 92/425（21%）。
+  · face 一条 11 个义项，习语八条全落进等式（face to face、in the face of、
+    on the face of it、keep a straight face、pull a face、face the music、
+    lose face、save face）。
+  · **fag 与 faggot 的禁忌义只写进核心块的语域提示，不配例句** ——
+    认得就行，不必造句；两条词条各自仍有两个正常义项，闸门照过。
+  · audit-swallowed 逮到 faff around 被 faff 吞掉：核心块提了它却没配例句。
+    照 exhaust pipe 的办法补一行等式了事（宿主那条义项讲的本来就是这个意思）。
+  · **下一批从 fait accompli 起**（faith / faithful / fake / falcon / fall 一带，
+    fall 是大词，习语已在 CHECK 里）。
+
+═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
 是目前最大的一个字母段。**动笔前的四件事照旧先做**（照 de-、di-、do- 的先例）：
   ① 大写词头：**F 段现在只有 February、Friday 两条**，必须先补登 ——
