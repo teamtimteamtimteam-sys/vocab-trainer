@@ -242,21 +242,21 @@ a farmyard = 农家场院
 = 那本书里画的家畜，比真的干净得多。
 farmyard animals = 农家畜禽
 
-farther
-核心：（距离）更远：far 的比较级之一，只说实际距离；
-说程度或抽象的「进一步」用 further。
-① The village is farther than the sign says and uphill the whole way.
-= 那个村子比路牌上写的更远，而且一路上坡。
-farther = 更远
-② He walked farther than he had meant to and took a taxi back.
-= 他走得比原打算的远，回来打了车。
-walk farther = 走得更远
+farrago
+核心：（正式，贬）大杂烩：一堆凑在一起、乱七八糟的东西。可数，
+常说 a farrago of nonsense。
+① The article is a farrago of half-facts and one useful telephone number.
+= 那篇文章是一堆半真半假的东西，外加一个有用的电话号码。
+a farrago of something = 一堆乱七八糟的某物
+② A farrago of excuses arrived a week before the apology did.
+= 一大堆借口先到，道歉晚了一个星期。
+a farrago of nonsense = 一派胡言
 
-farthest
-核心：（距离）最远的：far 的最高级之一，多说实际距离，抽象场合用 furthest。
-① The farthest field is the one that floods every single spring.
-= 最远那块地，就是年年春天都要淹的那块。
-the farthest field = 最远的那块地
-② She lives farthest from the school and gets there first.
-= 她住得离学校最远，到得却最早。
-live farthest from something = 住得离某处最远
+farrier
+核心：钉蹄匠：给马修蹄、钉蹄铁的手艺人，跟兽医是两回事。可数。
+① The farrier comes every six weeks and the horses know the van.
+= 钉蹄匠每六个星期来一次，马都认得那辆车。
+a farrier = 钉蹄匠
+② A good farrier reads a horse's walk before touching the foot.
+= 好的钉蹄匠先看马怎么走路，再去动那只蹄子。
+shoe a horse = 给马钉蹄铁
