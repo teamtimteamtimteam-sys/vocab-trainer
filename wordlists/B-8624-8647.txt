@@ -1,3 +1,21 @@
+fennel
+核心：茴香：叶细如羽，球茎可炒可烤，籽做香料。不可数。
+① Fennel roasts down to something a good deal sweeter than anybody expects.
+= 茴香烤过之后，甜得远超人们的预料。
+fennel = 茴香
+② Fennel seeds go into the sausage and the leaves go into the bin.
+= 茴香籽进了香肠，叶子进了垃圾桶。
+fennel seeds = 茴香籽
+
+fenugreek
+核心：胡芦巴：种子做香料，咖喱粉里那股独特香气多半来自它。不可数。
+① Fenugreek is what makes the powder smell like a curry house.
+= 咖喱粉闻着像咖喱馆，靠的就是胡芦巴。
+fenugreek = 胡芦巴
+② Too much fenugreek turns the whole pot bitter and nothing rescues it.
+= 胡芦巴放多了，一锅都发苦，怎么救也救不回来。
+fenugreek seeds = 胡芦巴籽
+
 feral
 核心：野化的：本是家养、后来在野外自己讨生活的；也说人举止野性难驯。
 ① Feral cats on that estate are fed by three people and counted by none.
@@ -225,37 +243,3 @@ fervently deny something = 极力否认某事
 ④ She fervently hoped the train would be late and for once it was not.
 = 她热切盼着火车晚点，偏偏这回没晚。
 fervently hope = 热切盼望
-
-fervid
-核心：（正式，有时带贬义）狂热的、热烈过头的：比 fervent 更冲。副词 fervidly。
-① A fervid admirer wrote every week and signed with a different name each time.
-= 一位狂热的仰慕者每周写信，每次署的名字都不同。
-a fervid admirer = 狂热的仰慕者
-② The prose is fervid and the argument underneath it is very thin.
-= 那文笔热烈过头，底下的论证却单薄得很。
-fervid prose = 热烈过头的文字
-副词 fervidly：狂热地，多修饰 believed、argued、recommended。
-③ He argued fervidly for a plan he had only read about that morning.
-= 他为一个当天早上才读到的方案狂热地力争。
-argue fervidly = 狂热地力争
-④ The pamphlet fervidly recommends a diet of exactly nine ingredients.
-= 那本小册子狂热地推荐一种正好九样食材的食谱。
-fervidly recommend something = 狂热地推荐某物
-
-fervour
-核心：（正式）热情、热忱：投入某事的那股劲。不可数，美式拼 fervor。
-① Religious fervour built that church and the roof needed money instead.
-= 宗教热忱盖起了那座教堂，屋顶要的却是钱。
-religious fervour = 宗教热忱
-② The fervour lasted until the second committee meeting and no longer.
-= 那股热情撑到第二次委员会开会，再往后就没了。
-with fervour = 满怀热忱地
-
-fess
-核心：（非正式，多为美式）坦白、招认：几乎只用 fess up。
-① He fessed up about the window before anybody had thought to ask.
-= 还没人想到要问，他就主动招了窗子的事。
-fess up = 坦白、招认
-② Fess up now and the whole story stays in this room.
-= 现在就说实话，这事就不出这个屋。
-fess up to something = 承认某事
