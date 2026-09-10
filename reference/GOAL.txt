@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8502 条，词典序 a → fatherly（另有 Ebola、Easter 等大写词头）。义项 31191。
+B 词表 8542 条，词典序 a → faze（另有 Ebola、Easter 等大写词头）。义项 31365。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -226,7 +226,8 @@ CHECK 补了 extreme 一组（in the extreme、go to extremes、take something t
   ③ **CHECK 补六组习语**：face（8 条）、fact、fail、fair、faith、fall。
   ④ **清单剔 2 条**：factitive、factive（句法语义学内部术语，同 durative 那一类），
      清单 427 → 425。
-已写九批 242 条：fa → facile（24）、facilitate → fade（24）、fader → fairyland（24）、
+**fa- 段收完（2026-09-10）：清单 421 条，已收 416（98%），只剩 5 条待推迟。**
+已写十二批：fa → facile（24）、facilitate → fade（24）、fader → fairyland（24）、
 fait accompli → falling-out（25）、fallout → family（24）、famine → fantasist（24）、
 fantasize → farmyard（24）、farrago → fastball（24）、fasten → fatherly（24）。
 CHECK 陆续补了 family / famous / fancy / far / fashion / fast / fat / fate / father
@@ -254,9 +255,19 @@ CHECK 陆续补了 family / famous / fancy / far / fashion / fast / fat / fate /
     fastidiousness about detail、a born fatalist、accept something fatalistically、
     form a fatberg —— 不是给每条硬凑一句。
   · audit-ab 报 father 缺 become a father（A 表教过），补了一行等式。
-  · **下一批从 fathom 起**（fatigue / fatten / fatty / fatuous / faucet / fault /
-    faultless / faun / fauna / faux pas / favour 一带；favour 是大词，
-    动笔前要往 CHECK 补 in favour of、do somebody a favour、curry favour）。
+  · 第十批 fathom → faun（19）、第十一批 fauna → faze（19）：
+    **新规则第一次落到笔头** —— fatuously、faultlessly、favourably 都没单立，
+    直接写成形容词条里的「副词 X：……」加两条义项。
+  · 第十二批是 **fa- 的并入 pass**：127 条按意思归组写进 26 个宿主，
+    face 6 组、fall 8 组、fair 7 组、family 9 组、fast 6 组是大户。
+    fava bean 与 Faraday cage 前四字母找不到同源宿主，照 Eccles cake 的先例单立。
+    farm out to 头一遍没并进去 —— 我写的是 farm something out to somebody，
+    coverage 按连续字符串搜，认不出，补了一行原形等式才过。
+  · 清单又剔 3 条：fah-fee（南非）、fair dinkum（澳新）、fatty-arbuckle（人名俚语），
+    加上 faujdar（印度），fa- 段清单 425 → 421。
+  · **下一批开 fe- 段**（清单 203 条：fear / feature / feed / feel / fee 一带；
+    feel 是大词，动笔前要往 CHECK 补 feel like、feel free、feel your age，
+    fear 补 for fear of、no fear）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
