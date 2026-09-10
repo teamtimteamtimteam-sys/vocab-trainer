@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8968 条，词典序 a → flautist（另有 Ebola、Easter 等大写词头）。义项 32517。
+B 词表 9040 条，词典序 a → flog（另有 Ebola、Easter 等大写词头）。义项 32688。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -364,9 +364,18 @@ CHECK 补了 flag / flair / flak / flame / flash / flap / flat / flattery 八组
     并入 pass 只涨义项不涨词条，我却把它当成一批；还有两轮只做了两批，
     另有 10 条、11 条的小批。**往后每轮三批、每批 22–25 条新词条；
     并入 pass 是额外的活，不占批次名额**；一段的待新写写完就直接进下一段。
-  · **下一批从 flavonoid 起**（flavour / flaw / flax / flea / fleck / flee /
-    fleece / fleet / flesh / flex / flick / flight 一带；flesh 与 flight 是大词，
-    动笔前往 CHECK 补 in the flesh、flesh out、take flight、a flight of stairs）。
+第四批 flavonoid → fleek（24）、第五批 fleet → flimflam（24）、
+第六批 flimsiness → flog（24）。fl- 段 176/393（44%）。
+CHECK 又补 flea / flavour / flesh / flight / fling / flip / float / flog 八组。
+  · audit-examples 逮到 flirt 与 flirtatiousness 两条偏薄（额外实词不足 4）——
+    照老规矩把例句写厚（加上「面包房排队的人」「十九岁在吧台后头」这类承载词），
+    不动阈值。
+  · audit-ab 报 flexible 缺 flexible working hours（A 表教过），补了一行等式。
+  · **B 词表过 9000 条了**（9040），离 10000 还差 960。
+  · **下一批从 flood 起**（floodgate / floor / flop / floppy / flora / floral /
+    florid / florist / floss / flotilla / flounce / flounder / flour / flourish /
+    flout / flow 一带；floor 与 flow 是大词，动笔前往 CHECK 补 the shop floor、
+    take the floor、floor somebody、go with the flow、a flow of something）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
