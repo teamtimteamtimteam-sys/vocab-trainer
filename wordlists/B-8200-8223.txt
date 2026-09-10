@@ -1,14 +1,3 @@
-exonerate
-核心：（正式、法律）免除责任、证明清白：多用被动 ——
-be exonerated of something。名词 exoneration。
-① The inquiry exonerated the crew and criticised the schedule.
-= 调查免除了机组的责任，批评的是排班。
-exonerate somebody = 证明某人无责
-be exonerated of something = 在某事上被证明清白
-② Exonerating one person does not explain what happened.
-= 洗清一个人的责任，并没有解释事情是怎么发生的。
-exonerate somebody from blame = 免除某人的过错
-
 exoneration
 核心：（正式）免责、洗清罪责：证明某人无过失这件事。不可数。
 ① Exoneration came in a paragraph and the accusation had run for a year.
@@ -261,3 +250,13 @@ expansivity = 膨胀率
 ② Low expansivity is why the dish survives both the oven and the cold tap.
 = 正因为膨胀率低，那只盘子进烤箱、冲冷水都没事。
 thermal expansivity = 热膨胀率
+
+expat
+核心：（非正式）侨居国外的人：expatriate 的截短形，现在比全称还常用。
+也当形容词，说 expat workers、the expat community。
+① The bar fills with expats on Fridays and with students the rest of the week.
+= 那家酒吧周五挤满了外派侨民，别的日子都是学生。
+the expat community = 侨民圈子
+② She has been an expat for eleven years and still votes by post.
+= 她在国外住了十一年，投票还是靠邮寄。
+an expat = 侨居国外的人

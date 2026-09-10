@@ -1,16 +1,3 @@
-expensive
-核心：贵的、花钱多的：既说价格高，也说代价大，如 an expensive mistake。
-反义 cheap 与 inexpensive；副词 expensively。
-① The camera is expensive to buy and surprisingly cheap to run.
-= 那台相机买着贵，用起来倒便宜得出奇。
-be expensive to do something = 做某事花费高
-② Ignoring the survey turned out to be an expensive mistake.
-= 不理会那份验房报告，结果成了代价高昂的错误。
-an expensive mistake = 代价高昂的错误
-③ Expensive tastes are easy to acquire on somebody else's holiday.
-= 花着别人的钱度假，很容易养出奢侈的口味。
-expensive tastes = 奢侈的品味
-
 expensively
 核心：昂贵地、花大钱地：多修饰 dressed、furnished、educated，
 常带一点「钱花了未必值」的口气。
@@ -275,3 +262,13 @@ an expletive = 一句粗话
 ② He muttered an expletive at the printer and then apologised to the intern.
 = 他冲着打印机低声骂了一句，随后跟实习生道了歉。
 mutter an expletive = 低声骂一句粗话
+
+explicable
+核心：（正式）解释得通的、说得出缘由的：多用在否定或对比里，
+常配 explicable in terms of something。反义 inexplicable 反而更常用。
+① The gap in the accounts is explicable and the missing key is not.
+= 账目上那个缺口说得通，那把不见的钥匙说不通。
+explicable = 解释得通的
+② The delay is explicable in terms of the weather and nothing else.
+= 那次延误只能从天气上解释，别的都讲不通。
+explicable in terms of something = 可以用某因素解释

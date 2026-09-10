@@ -24,6 +24,12 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'explode': ['explode a myth'],
+ 'explore': ['explore every avenue'],
+ 'express': ['express yourself', 'express an interest'],
+ 'expression': ['freedom of expression', 'find expression in'],
+ 'extend': ['extend an invitation'],
+ 'extent': ['to some extent', 'to a certain extent', 'to a large extent', 'to what extent'],
  'expect': ['be expecting', 'what do you expect'],
  'expectation': ['live up to expectations', 'contrary to expectation', 'exceed expectations'],
  'expense': ['at the expense of', "at somebody's expense", 'go to the expense of', 'spare no expense'],
