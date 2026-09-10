@@ -154,17 +154,14 @@ abject failure = 惨败
 abjectly = 卑屈地
 注意：abject 语气极重，
 只用于最坏的情况。
-
-abjectly
-核心：abject 的副词，两个方向：程度上"极其地"（abjectly poor），
-态度上"卑屈地"（abjectly apologise）。
-① The village was abjectly poor and had no mains water until 1978.
+副词 abjectly：abject 的副词，两个方向：程度上"极其地"（abjectly poor）， 态度上"卑屈地"（abjectly apologise）。
+④ The village was abjectly poor and had no mains water until 1978.
 = 那个村子穷得赤贫，一九七八年才通自来水。
 abjectly poor = 赤贫的
-② He apologised abjectly to a woman who had already stopped listening.
+⑤ He apologised abjectly to a woman who had already stopped listening.
 = 他低声下气地向一位早就不听了的女士道歉。
 apologise abjectly = 卑微地道歉
-③ The attempt failed abjectly and cost rather more than doing nothing would have.
+⑥ The attempt failed abjectly and cost rather more than doing nothing would have.
 = 那次尝试彻底失败，花的钱比什么都不做还多。
 fail abjectly = 惨败
 词族：
@@ -242,6 +239,21 @@ able seaman = 一等水兵（海军军衔）
 ④ Ableism excludes disabled people from buildings that were built for everyone.
 = 健全主义把残障者挡在了本该向所有人开放的建筑之外。
 ableism = 健全主义（歧视残障的偏见）
+副词 ably：able 的副词形式，"能干地、出色地"。最常见的搭配是 ably assisted by（在…的得力协助下），多见于致谢和正式报道。
+⑤ She was ably assisted by her team and said so in the first line of her speech.
+= 她的团队给了她有力协助，她在致辞头一句就说了。
+ably assisted by = 得到…的得力协助
+⑥ He ably defended the case on facts that had looked hopeless in the morning.
+= 早上还显得毫无指望的事实，他据以出色地打赢了那个案子。
+⑦ The role was ably performed by an understudy who had two hours' notice.
+= 那个角色由一位提前两小时才接到通知的替角出色地演了下来。
+词族：
+able = 有能力的
+ability = 能力
+近义对照：
+ably = 能干地（正式）
+well = 好（通用）
+competently = 称职地
 
 able-bodied
 核心：指身体健全、有劳动能力的，常与残障相对。带连字符，只作定语。
@@ -273,24 +285,6 @@ ablutions block = 盥洗区（军营、营地）
 注意：ablutions 永远用复数。
 词族：
 ablution = 洗涤（单数罕用）
-
-ably
-核心：able 的副词形式，"能干地、出色地"。最常见的搭配是
-ably assisted by（在…的得力协助下），多见于致谢和正式报道。
-① She was ably assisted by her team and said so in the first line of her speech.
-= 她的团队给了她有力协助，她在致辞头一句就说了。
-ably assisted by = 得到…的得力协助
-② He ably defended the case on facts that had looked hopeless in the morning.
-= 早上还显得毫无指望的事实，他据以出色地打赢了那个案子。
-③ The role was ably performed by an understudy who had two hours' notice.
-= 那个角色由一位提前两小时才接到通知的替角出色地演了下来。
-词族：
-able = 有能力的
-ability = 能力
-近义对照：
-ably = 能干地（正式）
-well = 好（通用）
-competently = 称职地
 
 abnegation
 核心：极正式的"克己、自我否弃"，多用于宗教和道德语境。
@@ -324,6 +318,20 @@ abnormally = 反常地
 abnormal 异常 / normal 正常
 词族：
 abnormality = 异常现象
+副词 abnormally：abnormal 的副词，"反常地、异常地"。最常见的是修饰 形容词表示程度超出常态：abnormally high / low / cold。
+④ Temperatures are abnormally high for March and the blossom is three weeks early.
+= 三月的气温异常偏高，花期早了三周。
+abnormally high = 异常偏高
+⑤ The results were abnormally low and the machine was recalibrated twice.
+= 结果异常偏低，那台机器重新校准了两次。
+⑥ He behaved abnormally for about a fortnight and then went back to normal.
+= 他举止反常了两周左右，之后又恢复如常。
+词族：
+abnormal = 异常的
+abnormality = 异常
+近义对照：
+abnormally = 反常地（暗示不该如此）
+unusually = 不寻常地（中性）
 
 abnormality
 核心：指"异常之处"，可数用于具体的异常，不可数用于异常这个性质。
@@ -341,23 +349,6 @@ abnormality → abnormalities
 abnormal = 异常的
 反义词：
 normality = 正常状态
-
-abnormally
-核心：abnormal 的副词，"反常地、异常地"。最常见的是修饰
-形容词表示程度超出常态：abnormally high / low / cold。
-① Temperatures are abnormally high for March and the blossom is three weeks early.
-= 三月的气温异常偏高，花期早了三周。
-abnormally high = 异常偏高
-② The results were abnormally low and the machine was recalibrated twice.
-= 结果异常偏低，那台机器重新校准了两次。
-③ He behaved abnormally for about a fortnight and then went back to normal.
-= 他举止反常了两周左右，之后又恢复如常。
-词族：
-abnormal = 异常的
-abnormality = 异常
-近义对照：
-abnormally = 反常地（暗示不该如此）
-unusually = 不寻常地（中性）
 
 aboard
 核心：表示"在（船、飞机、火车、大巴）上"或"上到…上面"。只用于
@@ -425,3 +416,69 @@ abolitionist = 废奴主义者
 ④ Abolitionism gained ground in the eighteen thirties and split three churches.
 = 废奴主义在一八三〇年代壮大，分裂了三个教会。
 abolitionism = 废除主义（尤指废奴）
+
+abolitionist
+核心：指主张废除某项制度的人，历史上特指废奴主义者，
+现在也用于废除死刑的主张者。可作名词和形容词。
+① He was a famous abolitionist and could not read until he was thirty.
+= 他是位著名的废奴主义者，三十岁才识字。
+② Abolitionists campaigned for years before a single law changed.
+= 废奴主义者奔走多年，才改动了一条法律。
+③ She holds abolitionist views about prisons rather than about slavery.
+= 她持废除主义立场，针对的是监狱而不是奴隶制。
+abolitionist views = 废除主义主张
+④ The abolitionist movement grew fastest where the trade was most profitable.
+= 废奴运动壮大得最快的地方，正是那门生意最赚钱的地方。
+abolitionist movement = 废奴运动
+词族：
+abolish = 废除
+abolition = 废除
+
+abominable
+核心：指"糟糕透顶、令人厌恶的"，语气很重。日常也半开玩笑地
+形容天气或食物极差。the Abominable Snowman 就是"雪人"。
+① The conditions were abominable and the inspection had passed them twice.
+= 条件恶劣至极，检查却两次都放行了。
+② That's abominable behaviour from someone who lectures on ethics.
+= 一个讲伦理课的人做出那种行为，令人不齿。
+abominable behaviour = 恶劣行径
+③ The weather was abominable and the match went ahead anyway.
+= 天气糟透了，比赛还是照打。
+④ They spoke of the Abominable Snowman as if he lived nearby.
+= 他们谈起雪人，像在说住在附近的人。
+the Abominable Snowman = 喜马拉雅雪人
+词族：
+abominate = 憎恶
+abomination = 可憎之事
+副词 abominably：abominable 的副词，"极恶劣地、糟糕透顶地"。 常修饰 behave、treat 这类动词。
+⑤ He behaved abominably at the reception and wrote to apologise the next day.
+= 他在招待会上表现得极其恶劣，第二天写信道了歉。
+behave abominably = 举止恶劣
+⑥ She was treated abominably by a firm she had given eleven years to.
+= 她给了那家公司十一年，却受到极差的对待。
+be treated abominably = 遭受恶劣对待
+⑦ The team played abominably and the manager was gone within a fortnight.
+= 那支球队踢得糟透了，主帅两周内就走了。
+词族：
+abominable = 令人厌恶的
+近义对照：
+abominably = 恶劣至极（很重）
+badly = 糟糕地（通用）
+
+abominate
+核心：极正式的"憎恶"，语气与 abhor 相当，但使用频率更低。
+现在多见于文学和旧文本，日常用 hate 或 detest。
+① He abominates all forms of cruelty and will not keep an animal himself.
+= 他憎恶一切形式的残忍，自己也不养动物。
+② They abominated the practice and campaigned against it for forty years.
+= 他们厌恶那种做法，反对了四十年。
+③ She abominates dishonesty and would rather be told something unwelcome.
+= 她痛恨不诚实，宁可听到不中听的话。
+词族：
+abomination = 可憎的事物
+abominable = 可憎的
+程度：
+dislike = 不喜欢
+hate = 恨
+abhor = 痛恨
+abominate = 憎恶（最正式）

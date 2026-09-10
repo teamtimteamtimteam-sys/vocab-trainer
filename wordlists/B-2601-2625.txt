@@ -1,438 +1,583 @@
-birdseed
-核心：喂鸟的籽料，多是葵花籽、小米、油菜籽的混合。不可数，
-跟 seed 一样不用复数。
-① She scattered birdseed on the path and stepped back behind the window.
-= 她把鸟食撒在小路上，退回窗户后面。
-scatter birdseed = 撒鸟食
-② The feeder holds a kilo of birdseed and empties in three days.
-= 那个喂鸟器能装一公斤鸟食，三天就空。
-③ Squirrels steal the birdseed however high the feeder is hung.
-= 喂鸟器挂多高，松鼠都能把鸟食偷走。
-构词：bird 鸟 + seed 籽
-词族：
-bird feeder = 喂鸟器
-birdbath = 鸟浴盆
+bistro
+核心：小餐馆，法国来的说法，指店面不大、菜色家常、气氛随意的
+那一类，跟正襟危坐的 restaurant 分得开。今天英语里已成通名，
+不限于法式菜。可数，复数 bistros。
+① They found a bistro down a side street and ate whatever was on the board.
+= 他们在小巷里找到一家小餐馆，黑板上写什么就吃什么。
+② The bistro serves lunch until three and shuts the kitchen sharp.
+= 那家小馆供应午餐到三点，厨房一到点就关。
+③ She runs a bistro near the station and does the cooking herself.
+= 她在车站附近开着一家小餐馆，菜是自己做。
+构词：法语 bistro 小酒馆
+近义对照：
+bistro = 小餐馆（随意、家常）
+brasserie = 啤酒馆式餐厅（更大，全天供餐）
 
-birdsong
-核心：鸟叫声，尤指婉转成串的那种鸣唱，跟单声的叫（call）分得开：
-song 是求偶和宣示地盘时唱的，call 是报警和联络时短促地叫。
-不可数。
-① The wood was full of birdsong an hour before the sun came up.
-= 太阳出来前一个钟头，林子里就满是鸟鸣。
-② Birdsong wakes him at five from March until the middle of July.
-= 从三月到七月中，鸟鸣五点就把他吵醒。
-③ She recorded birdsong at dawn with a microphone strapped to a fence post.
-= 她把话筒绑在篱笆桩上，天亮时录鸟鸣。
-构词：bird 鸟 + song 鸣唱
+bit
+核心：底层是"一小块"，几乎所有义项都从这里长出来。切下来的碎块
+→ 抽象的一点点（a bit of luck）→ 副词的"有点"（a bit tired）→
+一段时间（wait a bit）。另有三支是各行当里"那个小零件"：钻头、
+马嚼子、计算机里最小的信息单位。还有一支跟本义无关：它是 bite
+的过去式。习语多且常用，要整条记。
+① Give me a bit of paper and something that actually writes.
+= 给我张纸，再给支能写出字的笔。
+a bit of = 一点、一小块
+本义：切下来的一小块。
+② There is a bit of truth in that, but not enough to act on.
+= 这话有几分道理，可不足以据此行事。
+抽象化：把"一小块"用在不可数的东西上。
+③ I am a bit tired and would rather do this in the morning.
+= 我有点累了，宁愿明早再弄。
+a bit = 有点（副词，修饰形容词）
+④ Wait a bit; she has not finished reading the second page.
+= 等一下，她第二页还没读完。
+a bit = 一会儿（指时间）
+⑤ He picked up the bits of the vase and glued them badly.
+= 他把花瓶的碎片捡起来，粘得很难看。
+bits = 碎片（复数）
+⑥ She keeps bits and pieces in that drawer and can find any of them.
+= 她把零碎东西都放那个抽屉里，哪样都找得到。
+bits and pieces = 零零碎碎的东西
+⑦ Change the bit before you drill or you will be at it all day.
+= 钻之前先换钻头，不然你得钻一整天。
+bit = 钻头
+零件那一支。
+⑧ The horse champed at the bit and would not stand still to be saddled.
+= 那匹马急躁地咬着嚼子，上鞍时怎么也站不住。
+champ at the bit = 急不可耐
+本义是马咬嚼子，引申指等不及。
+⑨ A byte is eight bits, which is worth knowing before you buy anything.
+= 一个字节是八位，买东西之前值得先弄明白。
+bit = 位（计算机里最小的信息单位）
+⑩ Everyone must do their bit, including the people who arranged the meeting.
+= 人人都得出一份力，包括安排这次会的人。
+do one's bit = 尽自己那一份力
+⑪ We got there bit by bit and nobody can say when it started working.
+= 我们一点一点做到了，谁也说不清是从什么时候开始见效的。
+bit by bit = 一点一点地
+⑫ It cost quite a bit and has been used exactly twice since.
+= 这东西花了不少钱，从那以后总共用过两次。
+quite a bit = 相当多
+⑬ He had a bit part in the film and is on screen for nine seconds.
+= 他在片子里演了个小角色，出镜九秒。
+bit part = 小角色（台词没几句）
+⑭ She started out as a bit player and was directing within four years.
+= 她起初只是个跑龙套的，四年内就当上了导演。
+bit player = 跑龙套的演员
+⑮ The dog bit the postman and the postman refused to press charges.
+= 狗咬了邮差，邮差却不肯追究。
+这一支是 bite 的过去式，跟"一小块"无关。
 注意别混：
-birdsong = 鸣唱（求偶、宣示地盘，成串婉转）
-birdcall = 叫声（报警、联络，短促）
+a bit = 有点（修饰形容词）
+a bit of = 一点（后接名词）
 
-birdwatcher
-核心：观鸟的人，这是最通用的说法。英式口语里另有 twitcher，
-专指听到哪里出了稀有鸟就开车赶去打卡的那种狂热者，跟一般观鸟人
-不是一回事。可数。
-① Birdwatchers lined the estuary wall waiting for the tide to push the waders in.
-= 观鸟的人沿着河口堤排开，等潮水把涉禽赶近。
-② He has been a birdwatcher since childhood and can name a bird by its call alone.
-= 他从小观鸟，光听叫声就能报出鸟名。
-③ Birdwatchers reported the rare visitor and two hundred people came the next day.
-= 观鸟者上报了那只稀客，第二天来了两百人。
-构词：bird 鸟 + watcher 观看的人
-近义对照：
-birdwatcher = 观鸟者（通用）
-birder = 观鸟者（圈内自称）
-twitcher = 追稀有鸟的狂热者（英式口语）
-
-birdwatching
-核心：观鸟这项活动，不可数。设备门槛低、随处能做，所以它在英国是
-参与人数最多的户外爱好之一，go birdwatching 是固定说法。
-① They go birdwatching every weekend, whatever the forecast says.
-= 不管天气预报怎么说，他们每个周末都去观鸟。
-go birdwatching = 去观鸟
-② Birdwatching needs good binoculars more than it needs an expensive camera.
-= 观鸟需要的是一副好望远镜，不是贵相机。
-③ She took up birdwatching after retiring and joined the local society that autumn.
-= 她退休后开始观鸟，那年秋天就入了本地的鸟会。
-take up = 开始从事（某项爱好）
-构词：bird 鸟 + watching 观看
-近义对照：
-birdwatching = 观鸟（日常说法）
-birding = 观鸟（同一件事，偏圈内）
-
-biretta
-核心：天主教神职人员戴的方形硬帽，帽顶上竖着三到四道棱脊，
-颜色分等级——神父戴黑的，主教戴紫的，枢机戴红的。可数。
-① The priest wore a black biretta and took it off before the reading.
-= 那位神父戴着黑色方帽，读经前把它摘了下来。
-② The cardinal received his red biretta from the pope in a public ceremony.
-= 那位枢机在公开仪式上从教宗手中领受了红色方帽。
-授帽是枢机就任仪式的一部分。
-③ Birettas are rarely seen today outside cathedrals and old photographs.
-= 除了大教堂和旧照片，今天已很少见到这种方帽。
-注意语域：天主教用语，多见于宗教与历史文本。
-近义对照：
-biretta = 方形硬帽（有棱脊，分色分级）
-mitre = 主教冠（高耸的礼冠，礼仪时戴）
-
-birth
-核心：底层是"出生"这件事，四支从它长出来：出生的那个时刻
-（at birth、date of birth）、分娩这个过程（a difficult birth）、
-出身血统（of noble birth）、以及任何事物的开端（the birth of a nation）。
-give birth to 字面和比喻两头都管。指时刻和出身时不可数，
-指一次具体的分娩时可数。
-① She weighed three kilos at birth and has been ahead of the chart since.
-= 她出生时三公斤，此后一直高于生长曲线。
-at birth = 出生时
-② Please give your date of birth and the town it is registered in.
-= 请提供出生日期和登记的城镇。
-date of birth = 出生日期
-③ She gave birth to twins in a hospital forty miles from home.
-= 她在离家四十英里的医院生下了双胞胎。
-give birth to = 生下
-④ It was a difficult birth and neither of them talks about it.
-= 那是次难产，两个人都不谈这件事。
-指一次具体的分娩，这时可数。
-⑤ He is Scottish by birth and has lived in three other countries since.
-= 他生在苏格兰，此后在另外三个国家住过。
-by birth = 就出身而言
-出身那一支。
-⑥ She is of noble birth and has spent her life pretending otherwise.
-= 她出身贵族，一辈子都装作不是。
-of noble birth = 出身高贵
-⑦ The war saw the birth of a nation and the end of two others.
-= 那场战争见证了一个国家的诞生和另外两个的终结。
-the birth of = 某事物的诞生
-开端那一支，用在抽象事物上。
-⑧ The idea gave birth to a whole industry that nobody now questions.
-= 这个想法催生了一整个行业，如今没人再质疑它。
-give birth to = 催生（比喻用法）
-⑨ Her birth partner stayed all night and remembers rather less than she does.
-= 陪产的人守了一夜，记得的却比她还少。
-birth partner = 陪产者（英式）
+bitch
+核心：本义是母狗，这是它唯一中性的用法，养狗和兽医的语境里照常用。
+出了这个语境，它是英语里最重的侮辱女性的词之一，任何场合都别用来
+说人。另有两支较轻的口语用法：说事情难办（a bitch of a job），
+以及动词的"抱怨"（bitch about）。
+① The bitch had six puppies and refused to let anyone near the box for a week.
+= 那条母狗生了六只小狗，一周之内不许任何人靠近窝。
+本义，养犬语境里中性。
+② That exam was a real bitch and half the year walked out early.
+= 那场考试真难，一半的同学提前交卷走人。
+a bitch = 难办的事、麻烦事（口语，粗俗）
+③ He kept bitching about the food and ate every plate of it anyway.
+= 他一个劲儿抱怨伙食，可每一盘还是吃得精光。
+bitch about = 数落、抱怨（口语，粗俗）
+④ That guitar solo is bitchin', and he plays it left-handed on a borrowed instrument.
+= 那段吉他独奏帅炸了，他还是借了把琴反手弹的。
+bitchin' = 极好的、带劲的（美式俚语，跟本义的贬义无关）
+注意语用：除养犬语境外一律粗俗；
+指女性时属严重冒犯，读到要懂，自己不要用。
 词族：
-birthday = 生日
-birthplace = 出生地
-rebirth = 重生、复兴
+bitchy = 刻薄的
+bitchiness = 刻薄
 
-birth certificate
-核心：登记出生事实的官方文件，上面写着姓名、出生日期地点和父母。
-办护照、入学、结婚都要拿它，所以它是身份链条的第一环。可数。
-① You need your birth certificate to apply, and a photocopy will not do.
-= 申请要带出生证明，复印件不行。
-② The registrar issues the birth certificate within six weeks of the birth.
-= 出生证明由登记官在出生后六周内签发。
-issue = 签发
-③ He got a copy of his birth certificate and found his father's name left blank.
-= 他领了一份出生证明的副本，发现父亲那栏是空的。
-a copy of = 一份副本
-构词：birth 出生 + certificate 证书
-词族：
-marriage certificate = 结婚证书
-death certificate = 死亡证明
+bitchiness
+核心：刻薄劲儿，指爱在背后挑刺、说人坏话的那种做派。不可数，
+口语，带贬义。它说的是一贯的作风，不是某一句话本身。
+① The bitchiness in that office is exhausting and drives out a new hire every year.
+= 那间办公室里的刻薄劲儿让人累，每年都熬走一个新人。
+② She is tired of the constant bitchiness that passes for humour there.
+= 她受够了那里当成幽默的没完没了的挖苦。
+constant = 没完没了的
+③ There was a note of bitchiness in his voice that the compliment could not hide.
+= 他话里带着一股酸刻，那句恭维盖不住。
+a note of = 一丝、一股（语气）
+构词：bitchy 刻薄的 + -ness 性质
+注意语域：口语，贬义。
 
-birth control
-核心：避孕，指防止怀孕的各种办法与措施。不可数。它比
-contraception 宽：contraception 专指具体的避孕手段，birth control
-还能指人口政策那一层，所以谈政策时用的是它。
-① They discussed birth control with the midwife before the baby was a month old.
-= 孩子还不满月，他们就跟助产士谈了避孕的事。
-② She is on birth control and has been since the migraines started.
-= 她在用避孕措施，从开始偏头痛那时起就一直用。
-be on birth control = 正在采取避孕措施
-③ Birth control policy changed in the 1980s and the effects show up in the census.
-= 生育政策在八十年代变过，效果在人口普查里看得出来。
-政策那一层，contraception 说不了这个。
-构词：birth 出生 + control 控制
+bitchy
+核心：形容词，指说话刻薄、爱挑刺、爱在背后损人。它损的多是
+"小处使坏"那种，不是正面冲突，所以常跟 remark、comment 搭配。
+口语，贬义。历史上多用来说女性，今天说谁都用，但仍带那层色彩。
+① That was a bitchy remark and she made it with a smile.
+= 那话说得真刻薄，她还带着笑说的。
+a bitchy remark = 一句刻薄话
+② She gets bitchy when she is tired and apologises the next morning.
+= 她一累就爱挑刺，第二天早上再道歉。
+③ The tone of the review was bitchy about everything except the lighting.
+= 那篇评论口气很酸，只有灯光没被挑刺。
+构词：bitch + -y 的
+注意语域：口语，贬义。
 近义对照：
-birth control = 避孕；生育控制（含政策层面）
-contraception = 避孕（专指手段）
+bitchy = 刻薄（背后损人，小处使坏）
+blunt = 直率（当面直说，不含恶意）
 
-birth mother
-核心：生下孩子的那位母亲，用在收养的语境里，跟养母
-adoptive mother 相对。日常不会无端说这个词，一说就意味着
-这孩子由别人抚养。可数。
-① She searched for her birth mother for nine years and found her two streets away.
-= 她找了九年生母，最后发现人就住在隔两条街。
-② The birth mother signed the consent form six weeks after the birth, as the law requires.
-= 依法律规定，生母在产后六周签了同意书。
-consent form = 同意书
-③ Contact with the birth mother was arranged through the agency and began with letters.
-= 与生母的联系由机构安排，先从通信开始。
-构词：birth 出生 + mother 母亲
-配对词：
-adoptive mother = 养母
-birth father = 生父
+bitcoin
+核心：第一种也是最出名的加密货币，2009 年启用。它跟一般货币的
+根本分别是没有发行机构：账本由全网共同记录，靠算力和密码学保证
+不能篡改，总量写死在协议里，上限两千一百万枚。大写 Bitcoin 多指
+这套网络与协议，小写 bitcoin 指币本身。指币时可数。
+① He bought two bitcoins in 2013 and lost the password to the wallet.
+= 他在二〇一三年买了两枚比特币，后来把钱包密码弄丢了。
+指币本身时可数。
+② The shop accepts bitcoin but prices everything in the local currency.
+= 那家店收比特币，标价却一律用本地货币。
+泛指这种支付方式时不加冠词。
+③ Bitcoin runs on a blockchain that every participant keeps a copy of.
+= 比特币跑在区块链上，每个参与者都存着一份账本。
+blockchain = 区块链
+④ Bitcoin has no central issuer, so nobody can print more of it to cover a crisis.
+= 比特币没有中央发行方，谁也不能多印一些来救急。
+这是它跟法定货币最根本的分别。
+构词：bit 位 + coin 币
+词族：
+cryptocurrency = 加密货币（总称）
+blockchain = 区块链（底层账本技术）
 
-birth rate
-核心：出生率，人口统计指标，通常按每千人每年的活产数算。
-它跟总和生育率 fertility rate 量的不是一回事：出生率摊到全体人口
-头上，生育率只看育龄妇女平均生几个。可数。
-① The birth rate has fallen sharply in every year since the crash.
-= 自那场崩盘以来，出生率年年大幅下降。
-② Japan has a low birth rate and sells more adult nappies than infant ones.
-= 日本出生率很低，成人尿布比婴儿尿布卖得还多。
-a low birth rate = 低出生率
-③ Policies aim to raise the birth rate with cash payments and longer leave.
-= 政策想靠现金补贴和延长假期提高出生率。
-构词：birth 出生 + rate 率
+bite
+核心：底层是"用牙咬"，几乎所有义项都是这个动作的引申，咬的对象
+换一换就分出一支。咬人是本义，虫蜇蛇咬也用它；咬下来的那一口成了
+名词的"一口食物"，咬出来的印子成了"咬伤"；鱼咬钩是 the fish are
+biting，人上当也说 he bit。再抽象一层：轮胎"咬"住地面是抓地，
+政策"咬"下去是开始见效，酒有 bite 是味道冲得住嘴。习语几乎全是
+从"咬"这个画面来的——bite the bullet 是咬着子弹忍痛，
+bite your tongue 是咬住舌头不出声。三态不规则：bite / bit / bitten。
+① The dog bit the postman through the letter box and drew blood.
+= 那只狗隔着信箱口咬了邮递员，咬出了血。
+本义，及物。
+② A mosquito bit my ankle in the night and it has swollen up.
+= 夜里蚊子叮了我脚踝，肿了起来。
+虫蜇蛇咬也用这个词，中文分"叮咬蜇"，英语一个 bite 全包。
+③ He has a mosquito bite on his arm that will not stop itching.
+= 他胳膊上有个蚊子包，痒得没完。
+a mosquito bite = 蚊子叮的包
+名词：咬出来的那个印子。
+④ Let us grab a bite before the film starts at seven.
+= 七点电影开场之前，我们随便吃口东西。
+grab a bite = 随便吃一口
+⑤ She took a bite of the apple and put the rest back in her bag.
+= 她咬了口苹果，剩下的又塞回了包里。
+take a bite of = 咬一口
+⑥ The fish are not biting today and the river is far too clear.
+= 今天鱼不咬钩，河水也太清了。
+bite = 咬钩
+⑦ Nobody bit at the offer, which told him what it was really worth.
+= 没人上钩，这就让他明白那个报价究竟值几个钱。
+bite = 上钩、被引诱（口语）
+从鱼咬钩来的比喻。
+⑧ The tyres failed to bite on the ice and the car slid sideways.
+= 轮胎在冰上抓不住，车横着滑了出去。
+bite = 咬住、抓住（轮胎、螺纹、刹车）
+⑨ The sanctions are starting to bite in the smaller towns first.
+= 制裁开始显效了，最先受影响的是小城镇。
+start to bite = 开始显出效果
+抽象的"咬下去"：措施真咬到肉了。
+⑩ The wine has real bite and stands up to the cheese.
+= 那款酒够冲，压得住奶酪。
+bite = 冲劲、刺激感（说味道，也说文风）
+⑪ He bit into the pear and juice ran down his wrist.
+= 他咬了一口梨，汁顺着手腕流了下来。
+bite into = 咬进去
+⑫ The rent bites into her savings a little more every month.
+= 房租每个月都多蚕食她一点积蓄。
+bite into = 侵蚀（开销、时间）
+⑬ They serve bite-sized snacks that vanish before the drinks arrive.
+= 他们端上来的小食一口一个，酒还没上就没了。
+bite-sized = 一口大小的
+也用来说信息"分量小、好消化"。
+⑭ We had to bite the bullet and pay for a whole new roof.
+= 我们只好硬着头皮，掏钱换了整个屋顶。
+bite the bullet = 硬着头皮扛下来
+旧时手术没有麻药，让伤员咬着子弹忍痛。
+⑮ He bit off more than he could chew and missed every deadline.
+= 他揽的活儿超出了能力，每个期限都误了。
+bite off more than you can chew = 贪多嚼不烂
+⑯ Another candidate bit the dust before the first round was over.
+= 第一轮还没结束，又一名候选人出了局。
+bite the dust = 完蛋、落败
+倒地时脸埋进土里的画面。
+⑰ I had to bite my tongue for the whole of that meeting.
+= 整场会我都得把话咽回去。
+bite your tongue = 强忍着不开口
+⑱ Do not bite my head off; I only asked what time it was.
+= 别冲我发那么大火，我不过问了句几点。
+bite someone's head off = 没好气地冲人吼
+⑲ Once bitten, twice shy — she reads every contract line by line now.
+= 吃一堑长一智，她现在每份合同都逐行读。
+谚语：吃过一次亏就格外小心。
+⑳ The frost bit deep and killed the young shoots overnight.
+= 霜冻得厉害，一夜之间把嫩芽全冻死了。
+bite = 刺、蜇（寒风、烟、酸味）
+㉑ She bit back a sharp reply and said nothing at all.
+= 她把一句尖刻的话咽了回去，什么也没说。
+bite back = 把话忍住不说
+㉒ The industry bit back at the new rules within days of publication.
+= 新规公布没几天，那个行业就反击了。
+bite back = 反咬一口、回击
+㉓ She was bitten by a mosquito that got in through the vent.
+= 她被一只从通风口钻进来的蚊子叮了。
+be bitten by = 被……咬（叮）
+三态 bite / bit / bitten —— 中间那个是 bit，不是 bited，这一处最容易写错。
+注意三态：bite / bit / bitten
+词族：
+biting = 刺骨的；尖刻的
+bitten = 被咬的（过去分词）
+
+biting
+核心：形容词，两支都是"咬人"的比喻：说风说冷是刺骨——冷得像
+往肉里咬；说话说文字是尖刻——损人损得像咬一口。共同点是那股
+"往里钻、让人受不了"的劲儿。
+① A biting wind cut across the field and drove the spectators behind the stand.
+= 刺骨的风扫过球场，把观众逼到了看台后面。
+a biting wind = 刺骨的风
+天气那一支。
+② It was a biting cold morning and the locks on the gates had frozen solid.
+= 那是个冷得刺骨的早晨，大门上的锁全冻死了。
+③ She made a biting remark about his book and then offered to review it.
+= 她对他那本书说了句很尖刻的话，转头又提出要写书评。
+a biting remark = 一句尖刻话
+言辞那一支。
+④ The review was biting, and the publisher quoted the one kind sentence in it.
+= 那篇评论很刻薄，出版社偏偏引了里头唯一一句好话。
+构词：bite 咬 + -ing 的
+近义对照：
+biting = 刺骨的；尖刻的（往里钻）
+blunt = 直率的（直说，不含恶意）
+
+bitingly
+核心：副词，跟 biting 一样分两支：说冷是"刺骨地"，说话是
+"尖刻地"。多修饰形容词或动词，bitingly cold 和 bitingly funny
+是两个最常见的搭配。
+① It was bitingly cold outside and the queue moved in little stamping shuffles.
+= 外面冷得刺骨，排队的人跺着脚一点点往前挪。
+bitingly cold = 冷得刺骨
+② He wrote bitingly about the trial and was barred from the courtroom.
+= 他对那场审判写得很尖刻，后来被禁止进入法庭。
+③ The satire is bitingly funny and the people it mocks quote it themselves.
+= 那出讽刺剧辛辣好笑，被它嘲弄的人自己也引。
+bitingly funny = 辛辣好笑
+构词：biting 刺骨的 + -ly
+词族：
+biting = 刺骨的；尖刻的
+
+bitmap
+核心：按像素点阵存的图像——每个点存一个颜色值，所以放大就糊，
+一格一格露出来。它跟矢量图的分别在这里：矢量图存的是线条和公式，
+放多大都清楚。照片天生是位图，图标和字体多用矢量。可数。
+① Save the image as a bitmap if the printer refuses the other format.
+= 打印机不认另一种格式的话，就把图片存成位图。
+save as = 另存为
+② Bitmaps lose quality when enlarged and show square edges on every curve.
+= 位图放大就失真，弧线上全是方格边。
+③ The icon is stored as a bitmap and looks rough on a high-resolution screen.
+= 那个图标存成了位图，在高分屏上显得毛糙。
+构词：bit 位 + map 映射
 注意别混：
-birth rate = 出生率（每千人的活产数）
-fertility rate = 生育率（育龄妇女平均生几个）
+bitmap = 位图（按像素存，放大会糊）
+vector = 矢量图（按线条公式存，放大不糊）
 
-birthday
-核心：生日，也指纪念某事创立的周年。可数。习语 birthday suit
-是玩笑说法，指一丝不挂——出生那天穿的那身"衣服"。
-① Her birthday is in March and the company marks its fiftieth this year.
-= 她的生日在三月，公司今年也满五十周年。
-② They threw him a birthday party and he found out about it beforehand.
-= 他们给他办了生日会，他事先就知道了。
-birthday party = 生日聚会
-③ He ran out in his birthday suit and the whole street was awake.
-= 他一丝不挂地跑了出去，整条街都醒着。
-birthday suit = 一丝不挂（玩笑说法）
-构词：birth 出生 + day 日
-近义对照：
-anniversary = 周年纪念（不专指出生）
-
-birther
-核心：美式政治用语，指坚称奥巴马出生在美国之外、因而无资格当总统
-的人，起于 2008 年前后。后来引申指任何拿出生证明质疑政治人物资格
-的人。带明显贬义，多是对方给的标签，很少有人自称。可数。
-① Birthers demanded to see the document even after the state had published it.
-= 州里已经公布了那份文件，那些质疑者还要求看。
-② He was dismissed as a birther and lost his slot on the panel.
-= 他被斥为出生证阴谋论者，评论席的位子也没了。
-be dismissed as = 被当作……而不予理会
-③ Birther claims were repeatedly debunked and repeated again the following week.
-= 那类主张一再被戳破，隔一周又照旧重来。
-debunk = 揭穿、戳破
-构词：birth 出生 + -er 人
-注意语域：美式政治用语，贬义，多为他称。
-
-birtherism
-核心：指质疑政治人物出生地与任职资格的那一整套主张与做法，
-是从 birther 这个人称往回造出来的抽象名词。不可数，贬义。
-① Birtherism resurfaced in the campaign whenever the polls tightened.
-= 民调一咬紧，那套出生地质疑就冒出来。
-resurface = 重新冒出来
-② He built a following on birtherism and kept it long after dropping the subject.
-= 他靠鼓吹那套主张聚拢了支持者，后来不提了，人还留着。
-a following = 一批追随者
-③ Birtherism has been thoroughly discredited and still turns up in comment threads.
-= 那套说法已被彻底否定，评论区里仍不时冒出来。
-构词：birther 质疑者 + -ism 主张
-注意语域：美式政治用语，贬义。
-
-birthing
-核心：分娩这件事，尤指看重体验与选择的那种生产方式。它跟 birth
-的分工是：birth 说结果和事实，birthing 说过程和做法，所以多作定语
-——birthing pool、birthing centre、birthing plan。不可数。
-① She used a birthing pool and stayed in it for most of the labour.
-= 她用了分娩水池，产程大半时间都待在里面。
-birthing pool = 分娩水池
-② The hospital opened a birthing centre with midwives running it and doctors on call.
-= 那家医院开了产房中心，由助产士主理，医生随叫随到。
-birthing centre = 产房中心
-③ They wrote a birthing plan and the ward tore up half of it that night.
-= 他们写了一份分娩计划，那天夜里病房撕掉了一半。
-birthing plan = 分娩计划
-构词：birth 分娩 + -ing 过程
-近义对照：
-birthing = 分娩过程（重在做法与体验）
-delivery = 分娩（医学用词，重在接生这一步）
-
-birthmark
-核心：胎记，生下来就带着的皮肤色斑，红的多是血管性的，
-褐的多是色素性的。跟后天长的痣分得开：胎记出生时就在。可数。
-① She has a birthmark on her neck that her collar usually hides.
-= 她脖子上有块胎记，衣领一般遮得住。
-② The birthmark faded over the years until only a pale patch was left.
-= 那块胎记这些年淡了下去，只剩一小片浅印。
-fade = 变淡
-③ Laser treatment can lighten a birthmark but rarely removes it altogether.
-= 激光能让胎记变浅，但很少能完全去掉。
-构词：birth 出生 + mark 印记
-注意别混：
-birthmark = 胎记（生来就有）
-mole = 痣（多为后天长出）
-
-birthplace
-核心：出生的地方，也指某事物的发源地——说 the birthplace of jazz，
-讲的是这门音乐从哪儿起来的。抽象那一支用得很多，几乎是套话。可数。
-① Stratford is Shakespeare's birthplace and the town lives off the fact.
-= 斯特拉特福是莎士比亚的出生地，全镇靠这件事吃饭。
-② New Orleans is the birthplace of jazz, though three other cities claim it.
-= 新奥尔良是爵士乐的发源地，尽管另有三座城市也这么说。
-the birthplace of = 某事物的发源地
-抽象那一支。
-③ His birthplace is listed on the form as a village that no longer exists.
-= 表格上填的出生地是一个已经不存在的村子。
-构词：birth 出生 + place 地方
-近义对照：
-birthplace = 出生地；发源地
-hometown = 长大的那个城镇（不一定是出生地）
-
-birthright
-核心：生来就该有的权利，说国籍、说自由、说继承权都用它。
-另有一支旧义指长子继承权，读圣经和旧小说会遇到——以扫为一碗汤
-卖掉 birthright 的故事就是这个词。可数，多用单数。
-① Freedom is their birthright and no government granted it to them.
-= 自由是他们与生俱来的权利，不是哪个政府赏的。
-② Citizenship is a birthright there for anyone born on the soil.
-= 在那里，凡出生在这片土地上的人，国籍都是与生俱来的。
-birthright citizenship = 出生即公民身份
-③ He sold his birthright for a meal and regretted it the rest of his life.
-= 他为一顿饭卖掉了长子继承权，抱憾终身。
-旧义那一支，多见于宗教与文学文本。
-构词：birth 出生 + right 权利
-注意年代：长子继承权那一支已属旧用法。
-
-birthstone
-核心：诞生石，一月到十二月各配一种宝石，按出生月份挑，
-多做成首饰送人。哪个月配哪种石头各国名单略有出入，
-今天通行的那份是二十世纪初珠宝业定下来的。可数。
-① Her birthstone is an emerald and she wears it on a thin chain.
-= 她的诞生石是祖母绿，挂在一条细链子上戴着。
-② He bought a birthstone ring for each of his three daughters.
-= 他给三个女儿一人买了一枚诞生石戒指。
-birthstone ring = 诞生石戒指
-③ Garnet is the birthstone for January and the cheapest one on the list.
-= 石榴石是一月的诞生石，也是那份名单上最便宜的一种。
-the birthstone for = 某月份的诞生石
-构词：birth 出生 + stone 宝石
+bitonal
+核心：形容词，两支。音乐上指双调性的——同一段里两个调同时进行，
+听起来别扭发涩，二十世纪的作曲家拿它做效果；图像上指只有两个色阶
+的，也就是纯黑白、没有灰阶。
+① The passage is bitonal and the two keys never resolve into one.
+= 那一段是双调性的，两个调始终没有并成一个。
+音乐那一支。
+② Stravinsky used bitonal chords to make the dance sound off its footing.
+= 斯特拉文斯基用双调性和弦，让那段舞曲听着站不稳。
+bitonal chord = 双调性和弦
+③ Scan the page as a bitonal image and the file will be a tenth the size.
+= 把那页扫成黑白二值图，文件大小只有十分之一。
+bitonal image = 二值图像
+图像那一支：只有黑白两值。
+构词：bi- 二 + tonal 调的
 词族：
-gemstone = 宝石
+bitonality = 双调性
 
-birthweight
-核心：出生体重，医学上按它判断新生儿的风险。低于 2500 克叫
-low birth weight，是早产和发育迟缓的重要信号，所以这个词几乎总是
-跟 low 一起出现。可数，也常写成分开的 birth weight。
-① The baby had a low birthweight and spent nine days in the incubator.
-= 那个婴儿出生体重偏低，在保温箱里待了九天。
-low birthweight = 低出生体重
-② Birthweight is recorded at delivery and follows the child through every checkup.
-= 出生体重在分娩时记录，之后每次体检都要对照。
-③ Smoking reduces birthweight by roughly two hundred grams on average.
-= 吸烟平均会让出生体重减少两百克左右。
-构词：birth 出生 + weight 体重
-注意拼写：分写的 birth weight 同样通行。
+bitonality
+核心：名词，指两个调同时进行这种写法。它跟无调性不是一回事：
+无调性是干脆没有调中心，双调性是有两个调中心，两个都在，
+互相别着劲，那股不协和正是作曲家要的。不可数。
+① Bitonality creates a jarring effect that a listener feels before naming it.
+= 双调性造成一种刺耳的效果，听的人先感觉到，说不出所以然。
+jarring = 刺耳的、别扭的
+② The piece explores bitonality in the outer movements and settles down in the middle.
+= 那首曲子头尾两个乐章探索双调性，中间那个安静下来。
+③ Bitonality was common in the 1920s and had gone out of fashion by the war.
+= 双调性在二十年代很常见，到战争年月就不时兴了。
+构词：bitonal 双调性的 + -ity
+注意别混：
+bitonality = 双调性（两个调中心并存）
+atonality = 无调性（没有调中心）
 
-bis
-核心：拉丁语来的"第二次"。乐谱上标 bis，意思是这一段重复一遍；
-欧洲的听众喊 bis 就是要求返场，相当于英语的 encore。
-另有一路用法在门牌号上：12 bis 指 12 号旁边后加出来的那一户。
-① The score is marked bis over the last eight bars.
-= 谱上最后八小节标着重复记号。
-② The audience shouted bis until the pianist sat down again.
-= 观众一直喊着再来一个，直到钢琴家重新落座。
-③ She lives at 12 bis, in the flat built into the old courtyard.
-= 她住十二号乙，在老院子里加盖的那套房。
-门牌那一支，多见于法国与意大利。
-构词：拉丁语 bis 两次
+bitstream
+核心：连续传下来的一串二进制位，还没切成字节、没解释成内容之前
+就叫这个。它强调的是"流"：数据一位接一位地来，接收端得按约定
+去断句，断错了整段就废了。可数。
+① The decoder reads the bitstream and throws away anything it cannot parse.
+= 解码器读取比特流，解不出来的一概丢弃。
+decoder = 解码器
+② The bitstream is encrypted end to end and the machines in between see only noise.
+= 那段比特流全程加密，中间的机器看到的只是噪声。
+③ Errors in the bitstream corrupt the file from the bad bit onwards.
+= 比特流出错，从出错那一位往后整个文件就毁了。
+corrupt = 损坏（数据）
+构词：bit 位 + stream 流
+词族：
+bit = 位（最小的信息单位）
+byte = 字节（八位）
+
+bitter
+核心：底层是舌头尝到的"苦"，其余各支都是这个味觉往外扩的比喻。
+心里发苦是怨恨（bitter about），事情发苦是痛心（a bitter blow），
+争执发苦是激烈（a bitter dispute），天气发苦是刺骨（bitter cold）。
+名词有一支很英式：bitter 指苦啤酒，酒吧里点 a pint of bitter；
+复数 bitters 则是调酒用的苦精。习语也从味觉来：a bitter pill
+是难以下咽的苦果，to the bitter end 是苦撑到底。
+① The coffee tastes bitter because the machine has not been cleaned since March.
+= 咖啡发苦，是因为机器从三月起就没洗过。
+本义，味觉。
+② She is still bitter about the divorce and mentions it at every gathering.
+= 她对那场离婚仍耿耿于怀，每次聚会都要提。
+be bitter about = 对某事怀恨
+心里发苦那一支。
+③ It was a bitter blow to the team and they lost the next four as well.
+= 这对球队是沉重打击，接下来四场也都输了。
+a bitter blow = 沉重的打击
+④ They had a bitter argument about money that had run out years before.
+= 他们为一笔多年前就花光的钱激烈争吵。
+a bitter argument = 激烈的争吵
+争执发苦：话说得又狠又伤人。
+⑤ A bitter wind blew off the sea and cleared the front within minutes.
+= 刺骨的风从海上吹来，几分钟就把海滨吹空了。
+bitter cold = 刺骨的严寒
+天气那一支。
+⑥ He ordered a pint of bitter and complained that it was too cold.
+= 他要了一品脱苦啤，又嫌太凉。
+bitter = 苦啤酒（英式，不可数）
+⑦ Add two dashes of bitters and stir rather than shake it.
+= 加两滴苦精，用搅的别摇。
+bitters = 苦精（调酒用，只用复数）
+⑧ Losing the case was a bitter pill and the costs made it worse.
+= 输掉官司已经难以下咽，诉讼费更是雪上加霜。
+a bitter pill to swallow = 难以接受的结果
+⑨ They fought on to the bitter end and lost by a single vote.
+= 他们坚持到最后一刻，以一票之差落败。
+to the bitter end = 坚持到底、撑到最后
+⑩ She mixes gin with bitter lemon and calls it a summer drink.
+= 她用杜松子酒兑苦柠檬水，说这是夏天的饮料。
+bitter lemon = 苦柠檬汽水（英式软饮）
+构词：与 bite 同源，本义是"咬舌头的味道"
+词族：
+bitterly = 苦苦地；激烈地
+bitterness = 苦味；怨恨
+
+bitterly
+核心：副词，跟着 bitter 的几支走：说哭说抱怨是"伤心地、恨恨地"，
+说争说反对是"激烈地"，说天气是"刺骨地"。它还有一个高频用法是
+修饰失望——bitterly disappointed 几乎成了固定搭配。
+① She wept bitterly for an hour and then washed her face and left.
+= 她伤心地哭了一个钟头，洗了把脸就走了。
+weep bitterly = 痛哭
+② He complained bitterly about the noise and then bought the flat below.
+= 他狠狠地抱怨那些噪音，随后买下了楼下那套房。
+③ The plan was bitterly opposed by the people it was meant to help.
+= 那项计划遭到激烈反对，反对的正是它本要帮的人。
+bitterly opposed = 激烈反对的
+④ It was bitterly cold on the platform and the train was ninety minutes late.
+= 站台上冷得刺骨，火车晚了九十分钟。
+bitterly cold = 冷得刺骨
+⑤ They were bitterly disappointed and did not enter again for six years.
+= 他们大失所望，六年没再报名。
+bitterly disappointed = 极其失望
+构词：bitter 苦的 + -ly
+词族：
+bitter = 苦的；怨恨的
+
+bittern
+核心：一种躲在芦苇丛里的鹭科水鸟，褐色带斑纹，站着一动不动时
+几乎跟芦苇一个样。最出名的是雄鸟的叫声，低沉如闷响的号角，
+能传出好几公里，英语里专门叫它 boom。可数。
+① A bittern boomed in the reeds and the sound carried across two fields.
+= 一只麻鳽在芦苇里发出闷响，声音传过了两块地。
+boom = 发出低沉的鸣声
+② Bitterns are hard to spot even when they are standing four feet away.
+= 麻鳽很难被发现，哪怕就站在四英尺外。
+羽色跟芦苇几乎一样，这是它难找的原因。
+③ The reserve protects breeding bitterns by keeping the reedbed flooded.
+= 那个保护区靠让芦苇荡保持积水来保护繁殖的麻鳽。
+breeding = 繁殖的
+词族：
+heron = 鹭（同科，体形更大更显眼）
+
+bitterness
+核心：名词，两支。一是味觉上的苦味；二是心里的怨恨——事情过去了
+气还没消，那股积着的不平就是它。第二支用得更多，常跟 lingering、
+deep 搭配，强调它是存下来的，不是当场发的火。不可数。
+① The bitterness of the coffee surprised him, and he drank it black anyway.
+= 那咖啡的苦味让他吃了一惊，他还是不加奶糖喝了。
+味觉那一支。
+② There was bitterness in her voice that eight years had not worn down.
+= 她话音里带着怨气，八年过去也没磨掉。
+③ Years of bitterness followed the split and neither side spoke at the funeral.
+= 分家之后是多年的积怨，葬礼上两边一句话都没说。
+lingering bitterness = 久久不散的怨恨
+④ He spoke without bitterness about the job he had been pushed out of.
+= 谈起那份被挤走的工作，他说得并无怨气。
+构词：bitter 苦的 + -ness 性质
 近义对照：
-bis = 再来一次（欧陆用法）
-encore = 返场（英语通行说法）
+bitterness = 怨恨（积下来的，冲人）
+grief = 悲痛（冲事，不针对人）
 
-biscotti
-核心：意式硬饼干，烤两遍——先烤成一条，切片后再烤一遍，
-所以又干又脆，得蘸咖啡或甜酒才好入口。名字本身就是"烤两次"。
-英语里基本只用这个复数形式，单数 biscotto 极少见。
-① She dipped a biscotti in her coffee and counted to three before biting.
-= 她把硬饼干蘸进咖啡里，数到三才咬。
-dip in = 蘸
-② The café sells almond biscotti by the jarful at the till.
-= 那家咖啡馆在收银台边整罐地卖杏仁硬饼干。
-almond biscotti = 杏仁硬饼干
-③ Biscotti keep for weeks in a tin and go soft only in damp air.
-= 硬饼干装在铁盒里能放好几周，只有受潮才会发软。
-水分烤干了才这么耐放。
-构词：意大利语 bis 两次 + cotto 烤过的
+bittersweet
+核心：苦里带甜，两种味道同时在。用在味道上说巧克力，用在心情上
+说那种"高兴里掺着难过"的滋味——毕业、告别、老照片，都是典型的
+bittersweet。它跟单纯的"喜忧参半"不同：两种情绪是搅在一起的，
+不是一半一半分得开。
+① The chocolate is bittersweet and works far better in a sauce than on its own.
+= 那款巧克力苦中带甜，做酱汁比直接吃好得多。
+bittersweet chocolate = 半甜巧克力
+② Graduation was a bittersweet day for everyone whose friends were leaving town.
+= 对那些朋友要离开的人来说，毕业那天心里五味杂陈。
+情绪那一支。
+③ She smiled a bittersweet smile and put the photograph back in the drawer.
+= 她笑得又欣慰又难过，把照片放回了抽屉。
+④ The film has a bittersweet ending that audiences argued about for years.
+= 那部电影的结局苦乐参半，观众争论了好多年。
+a bittersweet ending = 苦乐参半的结局
+构词：bitter 苦 + sweet 甜
 近义对照：
-biscotti = 意式二次烘烤硬饼干
-rusk = 烤干的面包片（同样二次烘烤）
+bittersweet = 苦乐搅在一起
+mixed feelings = 心情复杂（可以是两种分开的情绪）
 
-biscuit
-核心：这个词英美两地指的东西完全不同，是最容易出岔的日常词之一。
-英式 biscuit 是甜的小硬饼干，美式叫 cookie 或 cracker；美式
-biscuit 却是一种松软的小圆面包，配肉汁当早餐吃，跟甜点不沾边。
-另有两支专业用法：陶瓷的素烧坯叫 biscuit，一种浅黄褐色也叫这个名。
+bitty
+核心：英式口语，指东西零零碎碎、连不成整体——一篇文章东一段西
+一段，一天被杂事切得七零八落，都可以说 bitty。它评的是"不成片"，
+不是"少"。美式另有一支相反的用法，itty-bitty 指小得可爱。
+① The essay felt bitty, as if three drafts had been stapled together.
+= 那篇文章读着很零散，像是把三份草稿钉在了一起。
+零碎那一支：段落连不起来。
+② It was a bitty sort of day, all short errands and nothing finished.
+= 那一天过得七零八落，尽是些跑腿的小事，一件也没做完。
+③ The film is bitty and hard to follow if you look away for a minute.
+= 那部电影很碎，眼睛离开一分钟就跟不上了。
+④ She wore an itty-bitty hat that stayed on by some means nobody could see.
+= 她戴了顶小巧的帽子，不知靠什么挂在头上。
+itty-bitty = 小小的（美式口语，叠音）
+构词：bit 一小块 + -y 的
+注意语域：英式口语，带贬义。
+
+bitumen
+核心：黑色黏稠的沥青，石油炼到最后剩下的那部分，也有天然的。
+铺路是它最大的用途，拌上石子就是沥青混凝土；也用来做屋顶防水。
+不可数。英式读音重音在前，美式在后。
+① The road is surfaced with bitumen laid over a bed of crushed stone.
+= 那条路铺的是沥青，底下垫着碎石层。
+be surfaced with = 以某种材料铺面
+② Bitumen softens in hot weather and takes the print of a heel.
+= 沥青一热就变软，鞋跟能踩出印子。
+③ They sealed the roof with bitumen and it held through two winters.
+= 他们用沥青把屋顶封了，撑过了两个冬天。
+seal = 封住、做防水
+近义对照：
+bitumen = 沥青（英式常用）
+asphalt = 沥青；沥青路面（美式常用）
+tar = 焦油（煤或木材干馏得来，来源不同）
+
+bituminous
+核心：形容词，含沥青的、沥青质的。它最常出现在一个固定搭配里：
+bituminous coal，也就是烟煤——挥发分高、烧起来冒烟，跟硬而洁净的
+无烟煤 anthracite 相对，这是煤分级里最要紧的一条界线。
+① The mine yields bituminous coal that burns hot and leaves a lot of soot.
+= 那座矿出的烟煤火头旺，烟灰也多。
+bituminous coal = 烟煤
+② Bituminous paint protects the steel where it goes into the ground.
+= 沥青漆用来保护钢材入土的那一段。
+bituminous paint = 沥青漆
+③ The layer is bituminous and stains the drill core black.
+= 那一层是沥青质的，把岩芯染得发黑。
+构词：bitumen 沥青 + -ous 含……的
+注意别混：
+bituminous coal = 烟煤（挥发分高，冒烟）
+anthracite = 无烟煤（硬，燃烧洁净）
+
+bivalve
+核心：双壳类软体动物，两片壳靠背上的铰合部连着，能开能合——蛤、
+蚌、牡蛎、扇贝都是。它们几乎都靠滤食过活，把水抽进来滤出微粒，
+所以水一脏，它们体内先富集污染物，这也是吃生蚝要看产地的道理。
 可数。
-① Have a biscuit with your tea, and take two if you missed lunch.
-= 就着茶吃块饼干，没吃午饭的话拿两块。
-英式义：甜的小饼干。
-② She ordered biscuits and gravy and could not finish half the plate.
-= 她点了小圆面包配肉汁，半盘都没吃完。
-biscuits and gravy = 小面包配肉汁（美式早餐）
-美式义，跟甜点无关。
-③ The pot is fired to biscuit first and glazed on a second firing.
-= 那只坯先素烧一遍，第二次烧才上釉。
-biscuit = 素烧坯（陶瓷术语）
-④ The walls are painted biscuit, which the agent described as a warm neutral.
-= 墙刷成了浅黄褐色，中介说那叫暖调中性色。
-指颜色那一支。
-⑤ That really takes the biscuit, coming from someone who signed the same form.
-= 那可真是没谁了，说这话的人自己也签过同一张表。
-take the biscuit = 最离谱、最过分（英式，讽刺）
-美式说 take the cake。
-⑥ She keeps shortbread in a biscuit barrel that her mother brought from Dundee.
-= 她把黄油酥饼装在饼干筒里，那是她母亲从邓迪带来的。
-biscuit barrel = 饼干筒（英式，带盖的饼干罐）
-⑦ A digestive biscuit survives being dunked for about two seconds.
-= 全麦消化饼干泡在茶里大概能撑两秒。
-a digestive biscuit = 全麦消化饼干（英式）
-英国最常见的茶点饼干，名字来自十九世纪的助消化说法。
-注意地域：
-biscuit = 甜饼干（英式）
-cookie = 甜饼干（美式）
-biscuit = 松软小圆面包（美式）
-scone = 司康（英式，与美式 biscuit 最接近）
-
-bisect
-核心：一分为二。日常说一条路把一片地分成两半，几何里则专指
-"二等分"——bisect an angle 是把角平分，那时强调两份相等。
-及物动词。
-① The road bisects the village and the school ended up on the wrong side.
-= 那条路把村子一分为二，学校落在了不便的那一边。
-日常用法，不强调两半相等。
-② Bisect the angle with a compass and a straight edge, and never measure it.
-= 用圆规和直尺把这个角二等分，不许量。
-bisect an angle = 二等分一个角
-几何义，必须相等。
-③ A river bisects the plain and floods a mile either side each spring.
-= 一条河把平原分成两半，每年春天两侧各淹一英里。
-构词：bi- 二 + sect 切
-词族：
-bisector = 平分线
-dissect = 解剖、剖开（切开细看，不论分成几份）
-
-bisexual
-核心：形容词，也作名词，指对两种性别都有性吸引的。生物学里另有
-一支跟性取向无关：指同一个体身上兼有雌雄两套生殖器官，
-花常常如此，那时也说 hermaphrodite。可数。
-① She identifies as bisexual and said so in the interview without being asked.
-= 她认同自己是双性恋，采访里没人问她就自己讲了。
-identify as = 自我认同为
-② The survey included bisexual respondents for the first time in thirty years.
-= 那项调查办了三十年，头一回把双性恋受访者纳进来。
-③ Most flowers are bisexual, carrying stamens and a pistil in the same bloom.
-= 多数花是两性花，同一朵里既有雄蕊也有雌蕊。
-生物学那一支，跟性取向无关。
-构词：bi- 二 + sexual 性别的
+① Oysters and mussels are bivalves, and so is the scallop that swims by clapping.
+= 牡蛎和贻贝是双壳类，靠拍壳游动的扇贝也是。
+② The bivalve clamped its shell shut the moment the shadow passed over.
+= 影子一晃过去，那只双壳贝就把壳闭紧了。
+clamp shut = 紧紧闭合
+③ Bivalves filter huge volumes of water and clear a whole bay if there are enough of them.
+= 双壳类过滤大量的水，数量够多时能把整片海湾滤清。
+filter = 过滤
+构词：bi- 二 + valve 壳瓣
 近义对照：
-bisexual = 两性花的（植物学）
-hermaphrodite = 雌雄同体的（动物学多用）
+bivalve = 双壳类（两片壳）
+gastropod = 腹足类（单壳，如螺）
 
-bisexuality
-核心：指对两种性别都有性吸引这一取向本身，是 bisexual 的抽象名词。
-不可数。生物学上同样有那一支，指雌雄同体这种构造。
-① The book discusses bisexuality across four decades of letters and diaries.
-= 那本书通过四十年的书信和日记讨论双性恋。
-② Bisexuality is often misunderstood as a stage on the way to something else.
-= 双性恋常被误解成通往别处的一个阶段。
-③ Bisexuality is common in plants and rare among the animals we keep.
-= 雌雄同体在植物里很常见，在我们养的动物里则少见。
-生物学那一支。
-构词：bisexual 双性的 + -ity 性质
-词族：
-bisexual = 双性恋的；两性花的
+bivouac
+核心：临时露营，尤指不搭正经帐篷、就地对付一夜的那种，登山队和
+军队用得最多。名词动词同形。拼写上有个坑：动词变形要加一个 k，
+写作 bivouacked、bivouacking，不然按拼读规则那个 c 会读成软音。
+① They made a bivouac below the ridge and were moving again by four.
+= 他们在山脊下扎了个临时营，四点就又出发了。
+make a bivouac = 扎临时营
+② The troops bivouacked in the field and lit no fires.
+= 部队在野地里露营过夜，没有生火。
+③ We bivouacked without tents and woke with frost on the bags.
+= 我们没搭帐篷就露宿了，醒来睡袋上结了霜。
+构词：法语 bivouac 警戒宿营
+注意拼写：bivouacked、bivouacking 要加 k。
+近义对照：
+bivouac = 临时露宿（简陋，多为一夜）
+camp = 扎营（有装备，可长住）
+
+bivvy
+核心：英式口语，是 bivouac 的缩略说法，既指临时露宿，也指
+bivvy bag——那种睡袋外面再套一层的防水露宿袋，登山钓鱼的人常带。
+可数，也作动词。
+① He spent the night in a bivvy bag on a ledge the width of a bench.
+= 他在一条长凳宽的岩台上，钻在露宿袋里过了一夜。
+bivvy bag = 防水露宿袋
+② We bivvied under an overhang and listened to the rain miss us.
+= 我们在岩檐下露宿，听着雨从旁边落下去。
+③ Pack a bivvy just in case the walk out takes longer than the map says.
+= 带个露宿袋以防万一，走出去的路可能比地图上久。
+just in case = 以防万一
+构词：bivouac 的口语缩略
+注意语域：英式口语，多见于登山与野钓圈。
+
+biweekly
+核心：这个词天生有歧义，两个意思正好差四倍：既是"每两周一次"，
+也是"一周两次"。词典两个都收，光看词判断不了，只能靠上下文。
+写东西最稳妥的办法是干脆避开它，写 every two weeks 或 twice a week。
+形容词副词同形。
+① The staff newsletter is biweekly and always lands on a Friday.
+= 员工通讯两周出一期，总在周五送到。
+两周一期还是一周两期，得看上下文。
+② They hold biweekly meetings and skip the one that falls in August.
+= 他们每两周开一次会，落在八月的那次跳过。
+③ The film magazine appears biweekly and doubles in size at festival time.
+= 那份影刊两周出一期，电影节期间篇幅加倍。
+注意歧义：两个意思都通行，
+写作时改说 every two weeks 或 twice a week。
+同类歧义词：
+bimonthly = 两月一次；一月两次
+biannual = 一年两次（这个不歧义）

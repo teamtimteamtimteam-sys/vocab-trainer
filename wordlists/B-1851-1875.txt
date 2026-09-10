@@ -1,512 +1,397 @@
-avowed
-核心：指"公开宣称的、自认的"，只作定语。
-常修饰 aim、intention、enemy、atheist。
-① He is an avowed atheist who has attended more funerals in church than most believers.
-= 他是个公开的无神论者，在教堂参加的葬礼比多数信徒还多。
-avowed atheist = 自认的无神论者
-② Their avowed aim is reform and their actual aim is survival.
-= 他们公开宣称的目标是改革，实际目标是活下去。
-avowed aim = 明言的目标
-③ She is an avowed critic of the scheme and sits on the committee that runs it.
-= 她公开批评那个方案，人却坐在主管它的委员会里。
-副词形式：
-avowedly = 公开地
-词族：avow
-近义对照：
-avowed = 公开自认的（自己说的）
-self-proclaimed = 自封的（略含质疑）
-acknowledged = 公认的（外界认定）
-
-avuncular
-核心：指长者对晚辈那种"像叔伯一样和蔼的"态度。
-词源来自拉丁语 avunculus（舅父）。
-① He has an avuncular manner that works on everyone except his own children.
-= 他有种长辈般的和气，对谁都管用，唯独对自己的孩子不灵。
-avuncular manner = 慈祥的做派
-② She gave avuncular advice that turned out to be worth following.
-= 她给出长辈式的忠告，事后证明值得照办。
-avuncular advice = 长者般的建议
-③ His tone was avuncular and the message underneath it was not.
-= 他的口吻像位长辈，底下那层意思可不是。
-注意发音：/əˈvʌŋkjələ(r)/
-对应词：
-avuncular = 叔伯般的
-maternal = 母亲般的
-paternal = 父亲般的
-fraternal = 兄弟般的
-
-aw
-核心：感叹词，靠语调分两路。拖长了软下来说，是"哎呀，好可爱"
-那种怜爱或感动；短促带点不耐烦地说，是"哎呀，别这样"的抱怨或
-失望。常拉长写成 aww 或 awww 加强语气。
-① Aw, look at the puppy, she said, and the room emptied towards it.
-= 她说了句「哎呀，快看那只小狗」，一屋子人都涌了过去。
-这里表怜爱。
-② Aw, do I have to? he asked, already reaching for his coat.
-= 他一边问「唉，非去不可吗」，一边已经去拿外套了。
-这里表不情愿。
-③ Aw, that's so kind of you, she said, and meant almost none of it.
-= 她说「哎呀，你真好」，其实半点没走心。
-④ She wrote awww under the photo and nothing else for three days.
-= 她在照片下面写了一串感叹，之后三天什么也没说。
-注意用法：
-拉长字母是为了加强语气，没有别的分别。
+axion
+核心：粒子物理里一种假设的粒子——为解决强相互作用中一个理论难题
+而提出，质量极小、几乎不与别的东西作用。如果真的存在，
+它是暗物质的头号候选。至今没有直接探测到。
+① Axions remain undetected after four decades of increasingly sensitive searches.
+= 四十年来搜寻手段越来越灵敏，轴子仍未被探测到。
+remain undetected = 尚未被测到
+② The axion is a dark matter candidate that would explain two problems at once.
+= 轴子是暗物质的候选粒子，它能一次解释两个难题。
+a dark matter candidate = 暗物质候选者
+③ Experiments hunt for axion signals inside magnets the size of a room.
+= 一些实验在房间大小的磁体里搜寻轴子信号。
 注意语域：
-口语与网络留言里高频。
+理论物理术语。
 
-await
-核心：正式用语，意思是"等待"，跟 wait 的差别全在语法：await 及物，
-直接接宾语，绝不加 for；wait 不及物，要说 wait for。还有一层
-用法值得单记：主语是"要发生的事"、宾语是人时，意思变成"等着某人、
-等在前面"——A surprise awaits you 说的不是你在等，是它在等你。
-① We await your reply and have held the whole print run for it.
-= 我们等着你的答复，整批印刷都为此压着。
-及物，不说 await for。
+axis
+核心：三条线：几何和图表的"轴"、地球的"地轴"、
+以及国家间的"轴心"（二战的 the Axis）。复数是 axes。
+① Plot it on the x-axis and the pattern shows up without any calculation.
+= 把它画在横轴上，不用算就看得出规律。
+x-axis = 横轴 / y-axis = 纵轴
+② The Earth spins on its axis at a tilt that gives us the seasons.
+= 地球绕地轴自转，那个倾角给了我们四季。
+spin on its axis = 绕轴自转
+③ The Axis powers were defeated by an alliance that dissolved almost immediately.
+= 轴心国败给了一个几乎随即瓦解的同盟。
+the Axis powers = 轴心国
+注意复数：
+axis → axes /ˈæksiːz/
+注意：axes 也是 axe 的复数，
+但读 /ˈæksɪz/，靠语境区分。
+
+axle
+核心：指车轮之间的"车轴"——两轮共用的那根横杆。
+和 axis（抽象的轴线）不同，axle 是实物。
+① The axle broke on a road that had been reported eleven times.
+= 车轴断在一条已被投诉过十一次的路上。
+② A truck has multiple axles and pays toll according to how many touch the road.
+= 卡车有多根车轴，按着地的根数缴通行费。
+③ Grease the axle before winter or it will seize in the first hard frost.
+= 入冬前给车轴上油，否则头一场严霜就卡死。
+grease = 上润滑油
 注意区别：
-await = 等待（及物，正式）
-wait for = 等待（不及物加 for）
-不说 await for，也不说 wait him。
-② He awaits trial in a prison two hundred miles from his family.
-= 他在离家两百英里的监狱里等候审判。
-await trial = 等候审判
-③ A surprise awaits you at the end of a corridor with no lights.
-= 走廊尽头没有灯，那里有个惊喜等着你。
-主语是事、宾语是人，方向反过来。
-④ The results are eagerly awaited by people who will not understand them.
-= 结果万众期待，可期待的人看不懂它。
-eagerly awaited = 万众期待的
-⑤ The long-awaited sequel opened last night to an almost empty cinema.
-= 期待已久的续集昨晚上映，影院几乎空着。
-long-awaited = 期待已久的
+axle = 车轴（实物）
+axis = 轴线（几何或抽象）
+shaft = 传动轴（旋转传力）
 
-awake
-核心：形容词只作表语，指"醒着的"；动词是"醒来、唤醒"，不规则变化。
-be awake 是状态，wake up 是动作，两者不能混。
-① Are you awake, or shall I come back after the news?
-= 你醒着吗？还是我等新闻播完再来？
-be awake = 醒着（状态）
-② He lay awake all night listening to a pipe he could not find.
-= 他整夜醒着躺着，听着一根找不到位置的水管响。
-lie awake = 醒着躺着
-③ She is wide awake at four and asleep by the middle of the morning.
-= 她四点毫无睡意，上午过半就睡着了。
-wide awake = 毫无睡意
-反义词：awake 醒着 / asleep 睡着
-注意：awake 不作定语，
-日常口语更常说 wake up。
-④ The country awoke to the danger about a decade after the warnings started.
-= 警告发出十年后，这个国家才意识到危险。
-awake to = 意识到、察觉
-⑤ I could hardly stay awake through a film I had chosen myself.
-= 一部我自己挑的电影，我却几乎撑不住不睡。
-stay awake = 撑着不睡
-⑥ She awoke at dawn to a silence that turned out to be snow.
-= 她拂晓醒来，发现那片寂静原来是下雪了。
-awoke = awake 的过去式（三态 awake / awoke / awoken）
-过去分词说 be awoken by：被什么惊醒。这一族偏书面，日常说 wake up。
-
-awaken
-核心：两条线：正式或文学的"唤醒（人）"，
-和比喻的"唤起（情感、意识）"。比 wake 书面。
-① She awakened at dawn to a noise that turned out to be the boiler.
-= 她黎明时被一阵声响弄醒，后来发现是锅炉。
-② The film awakened old memories that she had been glad to lose.
-= 那部电影唤起了旧日回忆，那些回忆她本来庆幸已经忘了。
-awaken memories = 唤起回忆
-③ It awakened public interest in a building nobody had looked at for years.
-= 多年没人正眼看过的一栋楼，因此唤起了公众兴趣。
-awaken interest = 引发兴趣
-词族：
-awakening = 觉醒
-a rude awakening = 猛然醒悟（残酷现实）
-近义对照：
-awaken = 唤醒（正式、可比喻）
-wake up = 醒来（口语）
-arouse = 唤起（情绪、怀疑）
-④ He awakened to his own bias somewhere around the fourth complaint.
-= 大约到第四封投诉，他才意识到自己的偏见。
-awaken to = 醒悟到
-
-award
-核心：名词是"奖项、奖金"，动词是"授予、判给"。动词用于正式场合，
-既可以颁奖，也可以由法庭"判给"赔偿。
-① She won an award and left it in the taxi on the way home.
-= 她得了个奖，回家路上落在出租车里了。
-win an award = 获奖
-② He was awarded first prize by a panel that included his own tutor.
-= 他被授予一等奖，评委里有他自己的导师。
-be awarded = 被授予
-③ The court awarded damages of about a tenth of what was claimed.
-= 法院判赔的金额，大约是索赔额的十分之一。
-这里：
-award = 判给
-④ It's an award-winning film that ran for one week in one cinema.
-= 这部电影得过奖，只在一家影院放了一周。
-award-winning = 获奖的
-近义对照：
-award 奖（经评定授予）
-prize 奖品（比赛所得）
-reward 报酬（对行为的回报）
-⑤ Each awardee gave a short speech and one of them gave a long one.
-= 每位获奖者致简短感言，其中一位讲了很久。
-awardee = 获奖者
-
-aware
-核心：指"意识到、知道"，只作表语。介词用 of 或接 that 从句。
-和 conscious 的差别：aware 侧重"注意到了"，conscious 侧重
-"神志清醒"。
-① I'm aware of the risk and have signed something saying so.
-= 我清楚这个风险，还签了字确认。
-be aware of = 意识到
-② She was aware that he lied and let him finish the whole story.
-= 她知道他在撒谎，却让他把整个故事讲完。
-be aware that = 意识到
-③ They raise public awareness and spend most of the budget on posters.
-= 他们提升公众意识，预算大半花在海报上。
-词族：
-awareness = 意识
-unaware = 未意识到的
-注意：aware 不作定语，
-不说 an aware person。
-
-awareness
-核心：指"意识、认知程度"，不可数。
-公共议题里 raise awareness（提高认知）是高频搭配。
-① The campaign raised awareness and changed almost nothing else.
-= 那场活动提高了公众认知，别的几乎什么都没改变。
-raise awareness = 提高意识
-② Public awareness has grown faster than the services able to meet it.
-= 公众意识增长的速度，快过能应对它的服务。
-public awareness = 公众认知
-③ She lacks self-awareness in the one area where she gives advice.
-= 她恰恰在自己爱给建议的那件事上缺乏自我认知。
-self-awareness = 自我觉察
-词族：aware
-近义对照：
-awareness = 意识、认知（知道有这回事）
-consciousness = 意识（清醒状态；也指觉悟）
-knowledge = 知识（懂得内容）
-
-awash
-核心：只作表语。字面指"被水淹没的"，
-比喻指"充斥着、多得泛滥"。介词用 with。
-① The deck was awash and the pumps had been running since midnight.
-= 甲板被水淹了，水泵从半夜就一直在抽。
-② The market is awash with cash and short of anything worth buying.
-= 市场上钱多得泛滥，值得买的东西却没有。
-awash with = 充斥着
-③ The city was awash with rumours, none of which survived the week.
-= 全城谣言满天飞，没有一条撑过那一周。
-注意：awash 只作表语，
-不放在名词前。
-近义对照：
-awash with = 充斥着（多到溢出）
-flooded with = 被…淹没（同义）
-teeming with = 充满（多指生物）
-
-away
-核心：底层是"离开这里"，离开的东西是什么就分出哪一支。人离开是
-"不在"，两地离开是"相距"，时间离开是"还有多久"，东西被移开是
-"拿走、扔掉"。还有一个不好从字面推的用法：动词后面加 away 表示
-"一直不停地做"（work away），那是从"越走越远"引申出的持续感。
-① He's away this week and left no way of reaching him at all.
-= 他这周不在，也没留下任何联系方式。
-be away = 不在、外出
-② The school is 2 km away and the children walk it in all weathers.
-= 学校在两公里外，孩子们风雨无阻地走着去。
-away = 相距（前面接距离）
-③ Christmas is a week away and nothing at all has been bought.
-= 还有一周就是圣诞，什么都还没买。
-时间上的距离，句式跟上一条完全一样。
-④ Put your toys away before somebody stands on the small hard ones.
-= 把玩具收好，免得有人踩到那些又小又硬的。
-put away = 收好
-东西离开台面，回到该待的地方。
-⑤ Throw it away; it has been in that cupboard since we moved in.
-= 扔了吧，我们搬进来它就在那柜子里了。
-throw away = 扔掉
-⑥ The snow melted away in a day and took the whole road with it.
-= 雪一天就化光了，把整条路也冲垮了。
-melt away = 渐渐消失
-离开到看不见，就是消失。
-⑦ He worked away all night and had nothing to show for it by morning.
-= 他埋头干了一整夜，天亮时什么成果也没有。
-动词加 away 表示持续不停。
-⑧ They played away and won for the first time in eleven attempts.
-= 他们客场作战，十一次尝试后头一回赢了。
-away game = 客场比赛
-离开主场，所以叫客场。
-⑨ The team had an away day in York and came back no closer than before.
-= 团队去约克搞了一天外出活动，回来后关系一点没拉近。
-away day = 外出活动日（团队离开办公地的一天）
-⑩ Right away, please; the room is needed again at half past three.
-= 请马上就办，三点半这间屋子还有别的用。
-right away = 立刻（美式口语）
-⑪ The sailors were cast away on an island with water and no shade.
-= 水手们被抛在一座有水却没有遮阴的岛上。
-be cast away = 遭遇海难漂到荒岛
-castaway = 漂流荒岛的人
-由 cast away 变来，重音落在第一个音节。
-从"被抛开"来，专用于海难，鲁滨逊那种处境。
-
-awe
-核心：指混合着敬畏与惊叹的情绪——既震撼又有点怯。
-不可数。核心搭配 in awe of、awe-inspiring。
-① They stood in awe at the back of the nave and said nothing.
-= 他们肃然起敬地站在中殿后头，一句话没说。
-in awe = 敬畏地
-② She is in awe of her mentor and cannot bring herself to disagree.
-= 她对导师满怀敬畏，怎么也说不出反对的话。
-in awe of = 敬畏某人
-③ The view inspires awe for about ten minutes and then you get cold.
-= 那景色令人惊叹，大概十分钟，之后你就冻着了。
-inspire awe = 令人敬畏
-词族：
-awesome = 令人惊叹的
-awful = 糟糕的（原义也是「令人敬畏的」）
-④ The cathedral is awe-inspiring and took two hundred years to build.
-= 那座大教堂令人肃然起敬，盖了两百年。
-awe-inspiring = 令人惊叹敬畏的
-注意：awe 不是单纯的害怕，
-是"震撼到说不出话"那种感觉。
-⑤ They stood awed by the scale of it and forgot to take a photograph.
-= 他们被那个规模震住了，忘了拍照。
-awed = 敬畏的、被震住的
-
-awesome
-核心：两条线：本义"令人敬畏震撼的"（正式），
-和美式口语里泛化的"棒极了"。后者用得极滥。
-① The scale is awesome and the photographs make it look ordinary.
-= 那种规模令人震撼，照片却把它拍得平平无奇。
-② That's awesome, said a boy about a sandwich, and meant it.
-= 一个男孩对着一个三明治说「太棒了」，而且是真心的。
-口语泛化用法
-③ They face an awesome task with a budget that covers about a third.
-= 他们面临一项艰巨的任务，预算只够大约三分之一。
-awesome task = 令人生畏的任务
-词族：awe
-注意语域：
-口语里 awesome 已经等同于 great，
-正式写作要用本义才有分量。
-近义对照：
-awesome = 令人敬畏的；超棒的
-awe-inspiring = 令人肃然起敬的（只有本义）
-awful = 糟糕的（同源但已变味）
-④ The view was awesomely wide and impossible to fit into one frame.
-= 那片视野开阔得惊人，一个取景框根本装不下。
-awesomely = 令人惊叹地
-
-awestruck
-核心：指"惊叹得说不出话的"。
-构词是 awe + struck（被击中）。
-① The crowd was awestruck for about four seconds and then reached for phones.
-= 人群惊叹了大约四秒，随后纷纷掏出手机。
-② She stared awestruck at a ceiling she had walked under for years.
-= 她惊叹地盯着那面天花板，而她在它底下走了好些年。
-③ He was awestruck by the cathedral and unmoved by everything inside it.
-= 那座大教堂让他叹为观止，里面的东西却一样也没打动他。
-awestruck by = 被…震撼
+axman
+核心：axeman 的美式拼法，指的是同一样东西——用斧头的人，
+以及比喻义上负责砍预算、砍人员的那个角色。美式还有一层俚语，
+指吉他手。
+① The axman cleared the trail in a morning and left the brush where it fell.
+= 那名伐木工一上午就把小道清了出来，砍下的枝条就地留着。
+clear a trail = 清出小道
+② Budget axmen visited every department and left with the same conclusion.
+= 砍预算的人挨个部门跑了一遍，带走的结论都一样。
+③ The axman played the solo with his back to the crowd for the whole of it.
+= 那位吉他手整段独奏都是背对观众弹的。
 注意拼写：
-awestruck / awe-struck 都可以。
-同类构词：
-thunderstruck = 惊呆的
-starstruck = 见到明星激动的
-panic-stricken = 惊慌失措的
+axman = 用斧的人（美式）
+axeman = 用斧的人（英式）
 
-awful
-核心：口语里就是"糟透了"，程度很重。另有一个用法是加强语气，
-an awful lot 意为"非常多"，这时不含负面意思。副词 awfully
-也是纯粹的加强语气。
-① The weather was awful and I felt awful for most of the trip.
-= 天气糟透了，这趟旅行大半时间我也难受得很。
-② That's an awful lot of money for something nobody will ever see.
-= 为一件谁也看不见的东西花这么多钱，实在太多了。
-an awful lot of = 非常多的
-③ I'm awfully sorry; I put the letter in the wrong envelope.
-= 实在抱歉，我把信装错了信封。
-awfully = 非常（加强语气）
-词源提示：
-awful 原意是"令人敬畏的"，
-现在只剩"糟糕"和"极其"两个用法。
-④ The awfulness of it sank in slowly over the following week.
-= 那件事有多糟，是在接下来一周里慢慢体会到的。
-awfulness = 糟糕透顶、可怕
+axon
+核心：神经元上那根伸得最长的突起——负责把电信号从细胞体发出去，
+送到下一个神经元。外面裹着髓鞘的传得更快。
+跟负责接收信号的树突正好分工。
+① The axon carries the impulse away from the cell body and never back towards it.
+= 轴突把冲动从细胞体传出去，绝不往回传。
+carry the impulse = 传导冲动
+② Myelin speeds conduction along the axon by a factor of about fifty.
+= 髓鞘让轴突上的传导快了大约五十倍。
+speed conduction = 加快传导
+③ Some axons run a metre long, from the base of the spine to the toes.
+= 有的轴突长达一米，从脊柱底端一直到脚趾。
+注意别混：
+axon = 轴突（把信号送出去）
+dendrite = 树突（把信号收进来）
 
-awfully
-核心：两条线：口语里加强语气的"非常"（不含贬义），
-和字面的"糟糕地"。第一条更常见，尤其在英式英语里。
-① I'm awfully sorry, he said, in a tone that suggested he was not.
-= 「我非常抱歉」，他说，语气听着并不抱歉。
-awfully sorry = 万分抱歉
-② It's awfully kind of you to say so, and awfully unlike you.
-= 你这么说真是太好了，也太不像你了。
-awfully kind = 非常好心
-③ He played awfully in the first half and rather well after the interval.
-= 上半场他打得很糟，中场休息之后倒不错。
-字面义
-词族：awful
-注意：awfully 修饰形容词时
-基本是"非常"，不带贬义 ——
-awfully good 是「非常好」不是「糟糕地好」。
-
-awhile
-核心：副词，"一会儿"。写成一个词时是副词，
-写成两个词 a while 是名词短语，用法不同。
-① Stay awhile; the rain will have stopped before you are halfway home.
-= 多待一会儿吧，你走到半路雨大概就停了。
-② Rest awhile before going.
-= 走之前歇一会儿。
-③ Wait for a while before ringing again, since it takes him an age to reach the phone.
-= 过一阵再打，他挪到电话旁边要好久。
-介词后面要用 a while（两个词）
-注意拼写：
-awhile = 副词，直接跟动词
-a while = 名词短语，可跟介词
-不说 for awhile，要说 for a while。
-
-awks
-核心：英式非正式说法，由 awkward 砍短而来，指场面"尴尬"。
-多用作单独的感叹，评论某个让人下不来台的时刻。
-年轻人用得最多。
-① That was so awks and everyone pretended to look at their drinks.
-= 那可太尴尬了，所有人都装作在看自己的酒杯。
-so awks = 尴尬极了
-② Awks, I called him the wrong name twice in the same sentence.
-= 尴尬，我在同一句话里把他名字叫错了两次。
-③ The silence got a bit awks and then somebody mentioned the weather.
-= 那阵沉默有点尴尬，接着有人提起了天气。
+ayatollah
+核心：什叶派伊斯兰教的高级宗教学者头衔，阿拉伯语借词，字面是
+"真主的迹象"。地位最高的加一层称 grand ayatollah。
+一九七九年之后这个词在西方广为人知，也被戏谑地借去说
+某个领域里说一不二的权威。
+① The ayatollah issued a ruling that was read out in mosques the same Friday.
+= 那位阿亚图拉发布了一项教令，当周五就在各清真寺宣读。
+issue a ruling = 发布教令
+② A grand ayatollah outranks the others and is followed by choice, not by appointment.
+= 大阿亚图拉地位更高，追随者是自愿追随的，不是被指派的。
+grand ayatollah = 大阿亚图拉
+③ Critics called him the ayatollah of design and he framed the article.
+= 批评者称他是设计界的教主，他把那篇文章裱了起来。
 注意语域：
-英式年轻人的口语，正式场合不用。
+宗教头衔；比喻义带戏谑。
 
-awkward
-核心：古北欧语的意思是"朝着反方向的"，所以底层是"别扭、不顺"。
-不顺可以落在三处：落在处境上是"尴尬"，落在动作上是"笨拙"，
-落在东西上是"不趁手、不好摆弄"。说人 awkward 有歧义：可能说他
-手脚笨，也可能说他难相处，只能靠语境定。
-① There was an awkward silence and somebody started talking about the weather.
-= 一阵尴尬的沉默之后，有人开始聊天气。
-落在处境上。
-② She asked an awkward question that the whole panel had been avoiding.
-= 她问了个整个评审组一直在回避的棘手问题。
-让人不好回答，也是处境不顺。
-③ He is awkward with strangers and the life of any party he knows.
-= 他跟生人在一起很别扭，熟人聚会上却是活跃分子。
-说人的社交状态。
-④ He made an awkward movement and knocked a full glass off the table.
-= 他动作笨拙，把一满杯东西碰下了桌子。
-落在动作上。
-⑤ The box is an awkward shape and will not go through the door.
-= 这箱子形状不好摆弄，根本过不了门。
-awkward = 不趁手的
-落在东西上：不好拿、不好用。
-⑥ Don't be awkward about it; everybody has to take a turn.
-= 别别扭了，人人都得轮上一回。
-说人时的另一层：故意不配合。
-⑦ He came at an awkward time and stayed rather longer than that.
-= 他来得不是时候，待的时间还格外长。
-指时机不巧。
-⑧ He joined the awkward squad on that issue and voted against his own side.
-= 他在那件事上加入了唱反调的一伙，投票反对自己人。
-awkward squad = 一群难缠的唱反调者（原指新兵中的笨拙者）
-词族：
-awkwardly = 尴尬地；笨拙地
-awkwardness = 尴尬；笨拙
+aye
+核心：两条线：议会表决里的"赞成票"，
+和苏格兰及英格兰北部方言里的"是的"。
+① The ayes have it, said the Speaker, and the chamber emptied within a minute.
+= 议长说赞成方获胜，议事厅一分钟内就空了。
+the ayes have it = 赞成票占多数
+② He voted aye and spent the next decade explaining why.
+= 他投了赞成票，此后十年都在解释为什么。
+③ Aye, captain, came the answer from somewhere below the deck.
+= 「是，船长」，回答从甲板下什么地方传来。
+航海和方言用法
+注意发音：/aɪ/，与 I 和 eye 同音。
+反义词：
+aye = 赞成 / no（或 nay）= 反对
+议会用语：
+ayes and noes = 赞成与反对票
 
-awkwardly
-核心：副词，两条线：动作"笨拙地"，
-和场面"尴尬地"。
-① He fell awkwardly and knew before he landed that it would need an X-ray.
-= 他摔得姿势很难看，还没落地就知道这得去拍片子。
-fall awkwardly = 摔得别扭
-② She smiled awkwardly at a joke she had not understood.
-= 她对着一个没听懂的笑话尴尬地笑了笑。
-smile awkwardly = 尴尬地笑
-③ The chair sits awkwardly in a room that was designed around a different one.
-= 那把椅子摆在这屋里很不顺眼，屋子是照另一把椅子设计的。
-词族：awkward、awkwardness
-近义对照：
-awkwardly = 笨拙地；尴尬地
-clumsily = 笨手笨脚地（动作）
-uncomfortably = 不自在地（感受）
-
-awkwardness
-核心：指"尴尬"或"笨拙"这种性质，不可数。
-社交语境里多指气氛的别扭。
-① There was an awkwardness between them that survived two decades and one apology.
-= 他们之间有种尴尬，熬过了二十年和一次道歉。
-② She hid her awkwardness by asking questions until somebody else spoke.
-= 她不停发问来掩饰局促，直到有别人开口。
-③ The awkwardness soon passed and came back every Christmas thereafter.
-= 那份尴尬很快过去了，此后每年圣诞又回来一次。
-词族：awkward、awkwardly
-近义对照：
-awkwardness = 尴尬、笨拙
-embarrassment = 难堪（丢脸）
-discomfort = 不适（身心）
-
-awl
-核心：手工工具，一根尖锥装在木柄上，用来在皮革、木头或帆布上
-扎孔，好让针或线穿过去。补鞋、装订和木工都用它。
-① The cobbler pierced the leather with an awl and pulled the thread through twice.
-= 鞋匠用锥子在皮子上扎孔，把线来回穿了两遍。
-pierce with an awl = 用锥子扎孔
-② An awl makes a starter hole for the screw and stops the wood from splitting.
-= 锥子给螺丝先扎个引导孔，木头就不会裂。
-a starter hole = 引导孔
-③ Bookbinders use an awl to punch signatures before any sewing begins.
-= 装订工在开始缝之前，先用锥子给书帖打孔。
+Ayurvedic medicine
+核心：源自印度的一套传统医学，字面是"生命的知识"，把人体看作
+三种体质力量的平衡，靠草药、饮食、按摩和作息来调。
+今天在印度是受官方承认的医疗体系，在西方属补充替代医学。
+① She turned to Ayurvedic medicine after eleven years of the other kind.
+= 看了十一年别的医学之后，她转而求助阿育吠陀。
+turn to = 求助于
+② Ayurvedic medicine stresses balance and treats sleep as seriously as diet.
+= 阿育吠陀医学讲究平衡，看重睡眠不亚于饮食。
+stress balance = 强调平衡
+③ Ayurvedic remedies use herbs and oils in combinations recorded two thousand years ago.
+= 那套疗法用草药和油，配伍方式两千年前就记下来了。
+Ayurvedic remedies = 阿育吠陀疗方
 注意语域：
-手工与工具名称。
+传统医学名称，首词大写。
 
-awning
-核心：指店铺或窗户上方遮阳挡雨的"遮篷、雨篷"，
-通常是布或帆布做的，可收放。
-① The café has a striped awning that has faded to two shades of grey.
-= 那家咖啡馆有条纹遮篷，已经褪成了两种灰。
-striped awning = 条纹雨篷
-② They lowered the awning at eleven and raised it again after the sun moved.
-= 他们十一点放下遮篷，等太阳挪过去又升起来。
-lower the awning = 放下遮篷
-③ Rain dripped off the awning onto exactly the one table nobody wanted.
-= 雨水从雨篷上滴下来，正好滴在谁都不想坐的那张桌子上。
-注意发音：/ˈɔːnɪŋ/
-近义对照：
-awning = 遮篷（布制可收）
-canopy = 华盖、顶篷（较大）
-shelter = 遮蔽处（通用）
+azalea
+核心：指杜鹃花——春季开花的观赏灌木，
+花色艳丽，喜酸性土壤。
+① The azaleas are in bloom for about three weeks and bare for the rest of the year.
+= 杜鹃花开三周左右，一年里其余时候光秃秃的。
+in bloom = 盛开
+② Azaleas need acid soil, which is why they die in half the gardens that buy them.
+= 杜鹃花需要酸性土壤，所以买它的园子有一半养死了。
+acid soil = 酸性土壤
+③ She planted pink azaleas along a wall that faces north.
+= 她沿着一堵朝北的墙种了粉色杜鹃。
+注意发音：/əˈzeɪliə/
+同类花木：
+rhododendron = 杜鹃属大灌木
+camellia = 山茶花
+magnolia = 木兰
 
-awry
-核心：指"歪了"或"出了岔子"。只作表语或后置。
-最高频的搭配是 go awry（出差错）。
-① The plan went awry at the point where it needed somebody to answer a telephone.
-= 那个计划出岔子的地方，正是需要有人接电话的那一步。
-go awry = 出差错
-② His tie was awry and he had been in three meetings without anyone mentioning it.
-= 他领带歪着，开了三场会都没人提醒他。
-③ Something had gone awry in the accounts as far back as the previous audit.
-= 账目上早在上一次审计时就已经出了岔子。
-注意发音：/əˈraɪ/，
-重音在第二音节，不读成 /ˈɔːri/。
-近义对照：
-go awry = 出岔子（计划失败）
-go wrong = 出错（通用）
-askew = 歪了（位置）
+Azerbaijani
+核心：指"阿塞拜疆的、阿塞拜疆人"，也指阿塞拜疆语——那是一门
+突厥语族的语言，跟土耳其语很近。同义的简短说法是 Azeri，
+指人和语言时两者通用。
+① He is an Azerbaijani diplomat who studied in three countries.
+= 他是阿塞拜疆外交官，在三个国家读过书。
+② Azerbaijani is close to Turkish and speakers of each can follow the other.
+= 阿塞拜疆语跟土耳其语很接近，说两种语言的人大致互相听得懂。
+③ Many Azeris live across the border and outnumber those inside it.
+= 有很多阿塞拜疆人住在边界那边，人数比境内的还多。
+Azeri = 阿塞拜疆的、阿塞拜疆人（同义简称）
+④ Azerbaijani cuisine features saffron rice cooked in a crust of dough.
+= 阿塞拜疆菜里常见藏红花米饭，是包在一层面壳里焖的。
+注意用法：
+指国族与语言时首字母大写。
 
-axe
-核心：名词是"斧头"，动词是"大幅削减、砍掉"（项目、岗位）。
-美式拼 ax。习语 have an axe to grind 指别有用心。
-① He chopped wood with an axe that had belonged to his grandfather.
-= 他用一把他祖父传下来的斧头劈柴。
-chop wood = 劈柴
-② The project was axed a fortnight before it would have finished.
-= 那个项目在还差两周就完工时被砍掉了。
-axe a project = 砍掉项目
-③ Jobs face the axe in a department that has just won an award.
-= 一个刚拿过奖的部门，岗位却面临被裁。
-face the axe = 面临被砍
-④ He has an axe to grind and has waited eleven years to grind it.
-= 他别有用心，而且为此等了十一年。
-have an axe to grind = 另有企图
-注意英美拼写：
-axe = 斧头；大幅削减（英式拼法）
-ax = 斧头；大幅削减（美式拼法）
+azimuth
+核心：天文与测量术语，指"方位角"——从正北顺时针量到目标方向的
+那个角度，正北是零度，正东九十度。它跟仰角配成一对，
+两个数就能定住天上或地上任何一个方向。
+① Take the azimuth to the summit before the cloud comes down.
+= 趁云还没压下来，先测一下到峰顶的方位角。
+take an azimuth = 测方位角
+② North corresponds to an azimuth of zero and east to ninety.
+= 正北对应方位角零度，正东是九十度。
+③ Azimuth and elevation fix the direction, and nothing else is needed.
+= 方位角加仰角就定住了方向，别的都不需要。
+注意语域：
+测绘、天文与导航术语。
+配对使用：
+azimuth = 方位角（水平方向）
+elevation = 仰角（垂直方向）
+
+azoic
+核心：地质学形容词，指"无生命的"——说的是岩层里找不到任何生物
+遗迹的那个远古时期。旧地质学用 Azoic 作纪名，指前寒武纪最早
+那一段，今天这个划分已不再使用。
+① Azoic strata contain no fossils, which once seemed to prove that life began suddenly.
+= 无生代地层里没有化石，这一点曾被当作生命骤然出现的证据。
+contain no fossils = 不含化石
+② Azoic conditions persisted for hundreds of millions of years before anything left a trace.
+= 在任何生物留下痕迹之前，无生的状况持续了数亿年。
+fall out of use = 弃用
+③ Early geologists mapped azoic rock across half a continent before radiometric dating existed.
+= 在放射性测年出现之前，早期地质学家就把无生代岩层标遍了半个大陆。
+注意语域：
+地质学旧术语，今多改用别的划分。
+
+azure
+核心：指天空那种"蔚蓝色"，文学色彩浓。
+名词形容词同形。日常说 sky blue。
+① The azure sky stretched far and had not carried a cloud in nine days.
+= 蔚蓝的天空一望无际，九天里没飘过一片云。
+azure sky = 碧空
+② She wore azure silk that changed colour under the hall lights.
+= 她穿着蔚蓝色的丝绸，在礼堂灯光下变了色。
+③ The sea shone azure over the sand and went black over the weed.
+= 沙底上方的海泛着湛蓝，水草上方就成了黑的。
+注意发音：
+英式 /ˈæʒə(r)/ 美式 /ˈæʒər/
+蓝色系：
+azure = 蔚蓝（天空色）
+navy = 藏青
+turquoise = 青绿
+indigo = 靛蓝
+cobalt = 钴蓝
+
+B-list
+核心：二线的：说演艺圈里名气次一等的人，跟 A-list 成对。多作定语，
+名词形式 a B-lister 是二线名人。带轻蔑，说人时不客气。可数。
+① She was stuck on the B-list for years and outlasted everyone above her.
+= 她在二线名单上待了好些年，却比上面的人都撑得久。
+the B-list = 二线名人之列
+② It was a B-list crowd at best, and the photographers left at nine.
+= 到场的顶多算二线，摄影师九点就走了。
+a B-list crowd = 二线的一拨人
+③ He is a B-lister now and works considerably more than he used to.
+= 他现在是二线艺人，接的活反倒比从前多得多。
+a B-lister = 二线名人
+构词：字母等级 B 加 list，仿 A-list 造出来
+注意语域：带轻蔑，当面说人很不客气。
+
+B-movie
+核心：低成本影片：早年双片连映时垫场的那一部，今天泛指粗糙但常有
+邪典味的类型片。旧说法是 B-picture。可数，也作定语。
+① They watched a cheap B-movie and quoted it to each other for years.
+= 他们看了部粗制滥造的低成本片，之后好些年互相引用里面的台词。
+a B-movie = 低成本影片
+② The film has real B-movie charm and cost less than the poster campaign.
+= 那部片子有股地道的低成本片味道，成本比海报宣传还低。
+B-movie charm = 低成本片特有的粗糙魅力
+③ He directed B-movies for a decade and was rediscovered at seventy.
+= 他拍了十年低成本片，七十岁时被重新发现。
+direct B-movies = 拍低成本片
+构词：双片连映里排在第二位的那一部
+注意用法：今天不一定是贬义，常带欣赏。
+
+B-picture
+核心：B-movie 的旧说法，指双片连映时排第二位的那部低成本片。今天读
+旧影评才遇得到，现代文字一律说 B-movie。可数。
+① The studio churned out B-pictures at one a fortnight.
+= 那家制片厂两周一部地大批生产低成本片。
+a B-picture = 低成本影片（旧说法）
+② The B-picture ran first and half the audience arrived during it.
+= 低成本片排在前面放，一半观众是在那时候进场的。
+call something a B-picture = 把某片归为低成本片
+构词：同 B-movie，只是 picture 是更旧的「影片」说法
+注意用法：偏旧，现代文字改用 B-movie。
+
+B-road
+核心：英国公路等级里的二级路：编号以 B 打头，比 A-road 窄，限速与
+车流都低，多穿村镇而过。可数。
+① The road becomes a B-road at the county boundary and narrows without warning.
+= 过了郡界那条路就变成二级公路，毫无预兆地收窄。
+a B-road = 二级公路（英式）
+② B-roads are often single-track with passing places every few hundred yards.
+= 二级路常常只有一车道，每隔几百码设一处会车点。
+B-roads = 二级公路（复数）
+③ Heavy lorries are banned from B-roads and use them anyway at night.
+= 重型卡车不许走二级路，夜里照走不误。
+be banned from B-roads = 禁走二级公路
+构词：英国公路编号里的 B 级
+注意分工：A-road 是主干道，B-road 次一级。
+
+B-side
+核心：唱片的 B 面：单曲黑胶背面那首，通常不是主打歌。引申也说
+「次要的那一面」。可数。
+① The B-side became the bigger hit and the band grew to resent it.
+= 结果 B 面那首更红，乐队后来对它心生厌烦。
+the B-side = 唱片背面那首歌
+② The song was released as a B-side because nobody thought much of it.
+= 那首歌是当 B 面发的，因为没人看好它。
+be released as a B-side = 作为 B 面发行
+③ Collectors hunt for rare B-sides and pay more than the album ever cost.
+= 收藏的人到处找稀有的 B 面曲，出的价比整张专辑还高。
+a rare B-side = 稀有的 B 面曲
+构词：黑胶单曲两面分 A 面与 B 面
+注意用法：数字发行之后，这个词多用于讲旧唱片。
+
+baa
+核心：拟声词，模仿羊叫，相当于中文的"咩"。名词动词同形。
+儿歌与童书里最常见，也用来形容人云亦云地随大流。
+① The lambs baaed in the field until the ewe came back over the ridge.
+= 小羊在地里咩咩叫，直到母羊翻过山脊回来。
+名词动词同形，过去式规则变化。
+② A single baa broke the silence and the whole flock answered at once.
+= 一声羊叫打破寂静，整群羊立刻应了起来。
+③ They just baa along with the crowd and call it a consensus.
+= 他们不过跟着人群随声附和，还管这叫共识。
+比喻义：把随大流的人比作羊群，带轻蔑。
+注意语域：
+拟声词，多见于儿歌与童书。
+④ Children call it a baa-lamb long after they can say the proper word.
+= 孩子早会说正经词了，还管小羊叫咩咩羊。
+baa-lamb = 小羊羔（儿语）
+
+baba
+核心：一种小蛋糕，烤好后浸透朗姆酒糖浆，吃起来湿润带酒香。
+全称 baba au rhum，源自波兰、经法国传开。也拼作 babà。
+① He ordered a rum baba and the waiter poured more rum at the table.
+= 他点了个朗姆酒蛋糕，侍者在桌边又给淋了些酒。
+rum baba = 朗姆酒蛋糕
+② The baba soaks up the syrup and doubles in weight doing it.
+= 那种蛋糕会把糖浆吸透，重量因此翻倍。
+soak up syrup = 吸透糖浆
+③ Babas are baked in fluted moulds that give them their ridged sides.
+= 那种蛋糕用带纹的模子烤，侧面的棱就是这么来的。
+注意语域：
+甜点名称，法式糕点铺常见。
+
+Babbitt
+核心：庸俗守成的生意人：出自辛克莱·刘易斯一九二二年的同名小说，
+主人公是个满口生意经、随大流而不自知的中产。今天用它带讥讽。
+派生 Babbittry 指那种作风。可数。
+① He dismissed them as suburban Babbitts and was one himself.
+= 他讥讽他们是郊区来的庸俗生意人，自己也是一个。
+a Babbitt = 庸俗守成的生意人
+② The novel skewers small-town Babbittry without naming a single town.
+= 那部小说讽刺小城的市侩作风，一个镇名都没点。
+Babbittry = 市侩守成的作风
+构词：小说主人公的姓
+注意语域：讥讽，多见于书评与文化评论。
+
+babble
+核心：底层是"含混不成句的声响"。婴儿咿咿呀呀是它，一群人七嘴八舌
+听不出内容也是它，溪水流过石头的潺潺声还是它。
+三层共通的意思是：有声音，但辨不出话。
+① The baby babbled happily at a light fitting for twenty minutes.
+= 那个婴儿对着一盏灯咿咿呀呀开心了二十分钟。
+② They babbled on about nothing while the real question sat on the table.
+= 他们东拉西扯说个不停，真正的问题就搁在桌上。
+babble on = 唠叨个没完
+③ A babble of voices filled the hall and drowned out the announcement.
+= 大厅里一片嘈杂人声，把通知盖了过去。
+a babble of voices = 嘈杂的人声
+④ The brook babbles over stones all summer and freezes solid in January.
+= 溪水整个夏天淌过石头潺潺作响，到一月就冻实了。
+⑤ He babbled out the whole story before anyone had asked him a question.
+= 谁都还没问他，他就一股脑把整件事说了出来。
+babble out = 语无伦次地说出
+注意语域：
+说人时略带贬义，嫌其无条理。
+
+babe
+核心：三层。诗文里指"婴儿"，偏古；口语里是亲昵称呼"宝贝"；
+另有一层指"漂亮姑娘"，那一层带物化意味，容易冒犯。
+习语 babes in the wood 指全无防备、易受欺的天真之人。
+① The babe lay in a manger, as the reading has it every December.
+= 婴孩躺在马槽里，每年十二月的经课都这么念。
+这里是文语，偏古。
+② Thanks, babe, she said, and put the phone down before he answered.
+= 她说了句「谢了，宝贝」，没等他答话就挂了。
+③ He called her a babe and did not understand why the room went quiet.
+= 他管她叫美女，还不明白屋里怎么静了下来。
+这一层带物化意味。
+④ They were babes in the wood and signed the first thing put in front of them.
+= 他们天真得毫无防备，人家递来的第一份东西就签了。
+babes in the wood = 涉世未深、易受骗的人
+⑤ That car is a babe magnet, he said, of a car nobody had seen him drive.
+= 他说那辆车最招姑娘，可那车谁也没见他开过。
+babe magnet = 吸引异性的东西（口语，戏谑）
+注意语域：
+第三层可能冒犯，正式场合与陌生人之间不用。
+
+Babel
+核心：典出《创世记》：人类合力造一座通天塔，上帝把他们的语言弄乱，
+工程于是烂尾。所以这个词指"语言不通造成的混乱"，
+也指任何嘈杂喧嚷、各说各话的场面。小写时更偏指喧闹。
+① The meeting became a Babel of tongues and adjourned without a decision.
+= 那场会议成了各说各话的乱局，没做出决定就休会了。
+a Babel of tongues = 语言不通的混乱
+② The Tower of Babel explains many languages and blames the ambition of one project.
+= 巴别塔的故事解释了语言为何有许多种，把账算在一项工程的野心上。
+the Tower of Babel = 巴别塔
+③ A babel of shouting rose from the street and stopped as suddenly as it began.
+= 街上传来一片嘈杂的喊声，起得突然，停得也突然。
+注意大小写：
+指典故与塔名时大写，泛指喧闹时可小写。
+
+baboon
+核心：一种大型猴，主要分布在非洲，口鼻部长而突出像狗，
+尾巴不能缠握，多在地面群居活动。骂人时借它说"粗鲁蠢笨的家伙"，
+是明确的侮辱。
+① A troop of baboons crossed the road and took their time about it.
+= 一群狒狒穿过马路，慢条斯理的。
+a troop of baboons = 一群狒狒
+② Baboons forage on the ground and raid bins wherever people leave them.
+= 狒狒在地面觅食，人把垃圾桶搁哪儿它们就翻哪儿。
+forage on the ground = 地面觅食
+③ He called the referee a baboon and was escorted out before half-time.
+= 他骂裁判是狒狒，中场之前就被请了出去。
+注意语域：
+用于骂人时是明确的侮辱。

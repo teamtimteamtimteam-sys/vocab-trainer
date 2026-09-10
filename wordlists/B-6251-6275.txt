@@ -1,459 +1,386 @@
-detract
-核心：减损：让某件好事的价值或印象打折扣。不及物，
-固定说 detract from something。名词 a detractor 是贬低者、唱反调的人。
-① One bad chapter does not detract from a book that is otherwise excellent.
-= 一章写得差，减损不了一本别处都出色的书。
-detract from something = 减损某物的价值
-② His detractors were louder than his supporters and considerably fewer.
-= 唱反调的人嗓门比支持者大，人数却少得多。
-a detractor = 贬低者、唱反调的人
-构词：拉丁语 detrahere 拉下来
-注意用法：只用 from，不说 detract something。
+diacritic
+核心：附加符号：加在字母上头或底下、用来改变读音的那些记号 ——
+法语的重音符、德语的分音符、西班牙语的波浪号都是。可数，
+形容词 diacritical，也说 a diacritical mark。
+① French keeps its diacritics on capital letters more often than people expect.
+= 法语在大写字母上保留附加符号的情形，比一般人以为的多。
+a diacritic = 附加符号
+② The database strips every diacritical mark and then cannot tell two names apart.
+= 那个数据库把所有附加符号都去掉，结果两个名字分不出来。
+a diacritical mark = 附加符号
+构词：希腊语 diakritikos 用来区分的
+注意用法：排版与语言学里用；日常说 accents。
 
-detrain
-核心：（正式）下火车：跟 deplane 一样是行业与军事用语，
-日常英语说 get off the train。不及物动词。
-① The battalion detrained at a siding two miles from the town.
-= 那个营在离镇子两英里的侧线下车。
-detrain = 下火车
-② Passengers were asked to detrain at the next station because of a fault ahead.
-= 因为前方故障，乘客被要求在下一站下车。
-detrain at somewhere = 在某站下车
-构词：de- 加 train，与 deplane 同一路造词
-注意语域：铁路与军事用语；日常说 get off the train。
+diadem
+核心：冠冕：戴在头上的一圈饰带或宝冠，比 crown 更偏文学与古典。可数。
+① The diadem is in the museum and the rest of the treasure was never found.
+= 那顶冠冕在博物馆里，其余的宝藏一直没找到。
+a diadem = 冠冕
+② She wore a diadem of small stones that had belonged to her grandmother.
+= 她戴着一圈镶着碎宝石的冠冕，那是她祖母的。
+a diadem of something = 由某种材料做成的冠冕
+构词：希腊语 diadema 束发带
+注意别混：crown 是王冠，tiara 是女式头冠，diadem 偏古典与文学。
 
-detriment
-核心：损害：正式用词，几乎只活在两个说法里 ——
-to the detriment of something（以损害某物为代价）与
-without detriment to something（不损害某物）。
-形容词 detrimental 更常用，副词 detrimentally。
-① He worked seven days a week to the detriment of everything else.
-= 他一周干七天，把别的一切都搭了进去。
-to the detriment of something = 以损害某物为代价
-② Long shifts are detrimental to concentration and the rota ignores it.
-= 长班对注意力有害，排班表却不理这一条。
-be detrimental to something = 对某物有害
-③ The delay affected the schedule detrimentally and the client was told nothing.
-= 那次延误对进度造成了不利影响，客户却什么都没被告知。
-detrimentally = 有害地
-构词：拉丁语 detrimentum 磨损
-注意语域：正式；日常说 bad for something。
+diaeresis
+核心：分音符：加在元音上表示要跟前一个元音分开读的两点，
+写作 naïve、Noël 那样。可数，复数 diaereses，美式拼 dieresis。
+跟德语的变音符号 umlaut 形状一样、作用不同。
+① English keeps a diaeresis in naïve and drops it almost everywhere else.
+= 英语在 naïve 里保留分音符，别处几乎都不用了。
+a diaeresis = 分音符
+② The magazine famously prints a diaeresis in words where two vowels meet.
+= 那家杂志出了名地在两个元音相邻的词里印上分音符。
+print a diaeresis = 印出分音符
+构词：希腊语 diairesis 分开
+注意别混：形状跟 umlaut 一样，但 umlaut 表示元音本身变了音。
 
-detritus
-核心：碎屑、残余物：一是自然界的碎屑（叶片、岩屑）；
-二是比喻的「一地狼藉」——活动或生活留下的杂物。不可数，正式或文学。
-① The stream carries detritus down from the hillside every time it rains hard.
-= 每逢大雨，那条溪就把山坡上的碎屑冲下来。
-detritus = 碎屑
-② They cleared the detritus of the party at six in the morning without speaking.
-= 早上六点，他们一声不响地收拾派对留下的一地狼藉。
-the detritus of something = 某事留下的杂物残余
-构词：拉丁语 deterere 磨损
-注意语域：正式与文学；日常说 rubbish、mess。
+diagnose
+核心：诊断：查明是什么病，也说查明设备或组织的毛病出在哪。及物动词。
+最常用的是被动 be diagnosed with something —— 主语是人，病放在 with 后面。
+名词 diagnosis（复数 diagnoses），形容词 diagnostic，副词 diagnostically。
+① She was diagnosed with a condition that has no test and no treatment.
+= 她被诊断出一种既无检测手段也无疗法的病。
+be diagnosed with something = 被诊断出患某病
+② The engineer diagnosed the fault in twenty minutes and charged for two hours.
+= 工程师二十分钟就诊断出故障所在，收了两小时的钱。
+diagnose a fault = 诊断出故障
+③ The diagnosis took four years and three referrals to reach.
+= 那个诊断花了四年、转诊三次才做出来。
+a diagnosis = 诊断（结论）
+④ Diagnostic tests were run twice because nobody trusted the first machine.
+= 诊断性检测做了两遍，因为谁也不信第一台机器。
+a diagnostic test = 诊断性检测
+⑤ The two scans are diagnostically identical and cost the hospital very different amounts.
+= 那两种扫描在诊断价值上完全一样，花医院的钱却差得远。
+diagnostically identical = 诊断价值上一样
+副词，说「就诊断而言」，多见于医学与设备评估。
+构词：希腊语 diagignoskein 分辨出来
+注意用法：说人被诊断出病用 be diagnosed with；说病本身被诊断出用 be diagnosed。
 
-detumescence
-核心：（医学）消肿、消退：肿胀或勃起状态退下去。
-不可数，形容词 detumescent。专业术语。
-① Detumescence follows within minutes and needs no treatment at all.
-= 几分钟之内就会消退，完全不需要处理。
-detumescence = 消肿、消退
-② The detumescent phase is short and rarely of clinical interest.
-= 消退期很短，临床上一般不值得关注。
-detumescent = 消退期的
-构词：de- 反向 加拉丁语 tumescere 肿胀
-注意语域：医学术语，日常不用。
+diagonal
+核心：对角线的、斜的：一是几何上连接两个不相邻顶点的线；
+二是日常说「斜着的」（a diagonal stripe）。名词形容词同形，副词 diagonally。
+① The diagonal of a square is longer than its side by a factor everyone has to look up.
+= 正方形的对角线比边长的那个倍数，人人都得去查一下。
+a diagonal = 对角线
+② The shirt has a diagonal stripe that makes it impossible to match with anything.
+= 那件衬衫有一道斜条纹，配什么都不好看。
+a diagonal stripe = 斜条纹
+③ He crossed the square diagonally and got there before the others had started.
+= 他斜穿广场，别人还没动身他就到了。
+cross something diagonally = 斜穿某处
+构词：希腊语 diagonios 从角到角
+注意用法：说方向用 diagonally，说图案用 diagonal 作定语。
 
-deuce
-核心：三支。一是网球的平分（四十平之后要连赢两分才算胜局）；
-二是纸牌与骰子上的「二点」；三是旧式委婉语里代替 devil 的说法
-（what the deuce 相当于 what the devil）。形容词 deuced 是旧式的「该死的」。
-① The game went to deuce five times and lasted twenty minutes.
-= 那一局打到平分五次，拖了二十分钟。
-go to deuce = 打成平分
-② He turned over a deuce and folded without another word.
-= 他翻出一张二点，一声不吭就弃了牌。
-a deuce = （牌上的）二点
-③ What the deuce were they doing on the roof at that hour?
-= 那个钟点他们跑到屋顶上究竟在搞什么鬼？
-what the deuce = 究竟搞什么鬼（旧式委婉说法）
-④ It was a deuced awkward thing to say in front of her parents.
-= 当着她父母的面说那话，实在别扭得要命。
-deuced = 该死的、极其（旧）
-构词：法语 deux 二；委婉义可能是「掷出两点」那种倒霉数
-注意语域：委婉那两支偏旧，今天多见于旧小说。
+diagram
+核心：示意图：用线条与方框把结构或流程画清楚的图，不追求写实。可数。
+形容词 diagrammatic，副词 diagrammatically。
+① The diagram takes half a page and saves about three pages of explanation.
+= 那张示意图占半页，省下了大约三页的解释。
+a diagram = 示意图
+② The instructions are diagrammatic and assume you have built one before.
+= 那份说明全是图示，默认你以前装过一个。
+be diagrammatic = 以图示为主的
+③ The process is set out diagrammatically on the back of the leaflet.
+= 那个流程用图示画在传单背面。
+be set out diagrammatically = 用图示画出来
+构词：希腊语 diagramma 画出来的图形
+注意别混：diagram 是示意图，chart 多指数据图表，illustration 是写实插图。
 
-deuterium
-核心：氘：氢的一种同位素，原子核里多一个中子，
-跟氧结合成的水叫重水（heavy water）。不可数，化学与核物理用语。
-① Deuterium occurs naturally in seawater at about one part in six thousand.
-= 氘天然存在于海水里，比例大约六千分之一。
-deuterium = 氘
-② The reactor was designed around deuterium and could not be adapted afterwards.
-= 那座反应堆是围着氘设计的，后来没法改。
-be designed around deuterium = 围绕氘来设计
-构词：希腊语 deuteros 第二 —— 排在氢的第二位
-注意用法：化学符号写作 D，也按质量数写成 2H。
+dial
+核心：三支。一是仪表或钟表的盘面（the dial of a clock）；
+二是旋钮式的调节盘（turn the dial）；三是动词「拨号」——
+dial a number 是拨一个号码，dial 999 是拨报警电话。
+拨号的人或装置叫 a dialler。
+① The dial is lit from behind and impossible to read in daylight.
+= 那个表盘是背光的，白天根本看不清。
+a dial = 表盘、刻度盘
+② He turned the dial two clicks and the noise stopped altogether.
+= 他把旋钮拧了两格，噪音就完全停了。
+turn the dial = 拧动旋钮
+③ She dialled a number she had not called in fifteen years.
+= 她拨了一个十五年没打过的号码。
+dial a number = 拨一个号码
+④ The automatic dialler rang three hundred people before anybody noticed.
+= 那台自动拨号机拨了三百个人，才有人发现。
+a dialler = 拨号机
+⑤ You dial in from home, dial up the old modem if that fails, and dial down your expectations either way.
+= 在家拨入接进去；不行就拨号连那台老猫；不管哪种，先把期待调低。
+dial in = 拨入接进（会议或系统）
+dial up = 拨号连接
+dial down = 把（程度）调低
+dial into something = 拨入某个会议
+dial down 今天多用于比喻：dial down the rhetoric 把调门降下来。
+构词：中世纪拉丁语 diale 日晷盘
+注意用法：英式双写 l：dialled、dialling；美式写 dialed、dialing。
 
-Deutschmark
-核心：德国马克：欧元之前德国的货币，一九九九年起被欧元取代。
-可数，缩写 DM，也写作 Deutsche Mark。历史与财经文字里用。
-① Prices were quoted in Deutschmarks for two years after the euro arrived.
-= 欧元来了之后，价格还用马克标了两年。
-a Deutschmark = 德国马克
-② The Deutschmark was the anchor of the European system for two decades.
-= 二十年里，德国马克一直是欧洲货币体系的锚。
-the Deutschmark = 德国马克（作为货币本身）
-构词：德语 Deutsche Mark 德国马克
-注意用法：首字母大写；缩写 DM 写在数字前面。
+dialect
+核心：方言：同一种语言在某地或某群体中的说法，语音、词汇、语法都可能不同。
+可数。形容词 dialectal；研究方言的学问是 dialectology，学者是 a dialectologist。
+说方言不带贬义 —— 它跟标准语的分别是社会造成的，不是好坏之分。
+① The dialect of that valley kept three words that died out everywhere else.
+= 那条山谷的方言保住了三个别处早已消亡的词。
+a dialect = 方言
+② The form is dialectal and appears in print only in dialogue.
+= 那个形式属于方言，印出来只会出现在对白里。
+be dialectal = 属于方言的
+③ Dialectology used to mean a bicycle, a notebook and a great deal of patience.
+= 方言学从前意味着一辆自行车、一个本子和极大的耐心。
+dialectology = 方言学
+④ A dialectologist recorded her grandmother in 1961 and the tape survives.
+= 一位方言学家一九六一年录下了她祖母的话，那盘带子还在。
+a dialectologist = 方言学家
+构词：希腊语 dialektos 说话方式
+注意别混：dialect 是同一语言的地方变体，accent 只说口音。
 
-deva
-核心：（印度教与佛教）天神：梵语借词，指光明的神灵，
-在英语的宗教与神话文字里保留原词。可数。
-① The carvings show a row of devas holding lamps above the doorway.
-= 那些雕刻上是一排天神，举着灯站在门楣之上。
-a deva = 天神
-② Devas appear throughout the text and are never quite defined.
-= 天神在整部经文里反复出现，却从未被明确界定。
-devas = 天神（复数）
-构词：梵语 deva 神，与拉丁语 deus 同源
-注意语域：宗教与神话研究里用。
+dialectic
+核心：辩证法：通过正反两面的对立与冲突推进认识的那套思路 ——
+哲学用语，黑格尔与马克思之后最常被引用。
+可数不可数都行，也说 dialectics。形容词 dialectical。
+① The dialectic between the two departments produced better work than either alone.
+= 两个部门之间的相互诘难，出的活儿比任何一方单干都好。
+a dialectic = 辩证的对立与推进
+② Dialectical thinking looks for the contradiction before it looks for the answer.
+= 辩证的思路是先找矛盾，再找答案。
+dialectical thinking = 辩证的思路
+构词：希腊语 dialektike 论辩之术
+注意别混：dialectic 是辩证法，dialectal 是「方言的」—— 两个词只差一点。
 
-devalue
-核心：两支。一是货币贬值：官方把本币对外币的比价调低；
-二是贬低价值：说某人的贡献、某种资历被看轻。及物动词，名词 devaluation。
-① The country devalued twice in one year and inflation followed within months.
-= 那个国家一年之内两次贬值，几个月后通胀就跟上了。
-devalue a currency = 让货币贬值
-② Handing out the title to everybody devalues it for the people who earned it.
-= 那个头衔人人都发，就把真正挣来的人的分量冲淡了。
-devalue something = 使某物贬值、被看轻
-③ Devaluation made exports cheaper and holidays abroad impossible.
-= 贬值让出口便宜了，出国度假却没法去了。
-devaluation = 货币贬值
-构词：de- 向下 加 value 价值
-注意别混：devalue 是主动调低或看轻，depreciate 多说市场上自己掉价。
+dialogue
+核心：三支。一是对话，剧本与小说里人物说的话（不可数）；
+二是可数的一场对话或一篇对话体作品；三是政治上的「对话」，
+指双方坐下来谈（open a dialogue with somebody）。美式拼 dialog。
+① The dialogue is the best thing in the film and the plot is the worst.
+= 那部电影里对白最好，情节最差。
+dialogue = 对白
+② They opened a dialogue with the other side and kept it going for two years.
+= 他们跟对方开启了对话，谈了两年。
+open a dialogue with somebody = 跟某方开启对话
+③ A dialogue between two characters who never meet again fills the middle chapter.
+= 中间那一章写的是两个此后再无交集的人物之间的一段对话。
+a dialogue = 一段对话
+④ A dialog box appeared behind the main window and blocked everything until it was found.
+= 一个对话框弹在主窗口后面，没找到它之前什么都点不动。
+a dialog box = 对话框（软件界面）
+界面上的这个词一律用美式拼法 dialog，不写 dialogue。
+构词：希腊语 dialogos 交谈
+注意用法：计算机界面上的对话框写 a dialog box，用美式拼法。
 
-Devanagari
-核心：天城文：书写印地语、梵语等语言的那套字母，
-特点是每行字上面一道横线。首字母大写，不可数。
-① Hindi and Sanskrit are both written in Devanagari and share most of the letters.
-= 印地语和梵语都用天城文书写，字母大半相同。
-Devanagari = 天城文
-② The sign was in Devanagari on one side and English on the other.
-= 那块牌子一面是天城文，一面是英文。
-in Devanagari = 用天城文书写
-构词：梵语「城市的、神圣的文字」
-注意用法：首字母大写；说「用某种文字写」用 be written in。
+dialysis
+核心：透析：肾功能衰竭时靠机器替代肾脏清除血里废物。不可数，
+重音在第二个音节。常说 be on dialysis（在做透析）。
+① He has been on dialysis three times a week for nine years.
+= 九年来他每周做三次透析。
+be on dialysis = 在做透析
+② The dialysis unit runs two shifts and still cannot take everybody.
+= 透析中心开两班，还是收不下所有人。
+a dialysis unit = 透析中心
+构词：希腊语 dialysis 分解、分离
+注意用法：说做透析用 be on dialysis 或 have dialysis。
 
-devastate
-核心：两支。一是彻底摧毁一个地方（a devastated town）；
-二是让人「精神上垮掉」——be devastated by news。
-形容词 devastating 兼指「毁灭性的」与「让人受不了的」，也说「极出色的」
-（a devastating performance）；副词 devastatingly；名词 devastation。
-① The flood devastated three villages and the compensation took nine years.
-= 那场洪水摧毁了三个村子，赔偿用了九年才到位。
-devastate somewhere = 摧毁某地
-② She was devastated by the news and did not go back to work that term.
-= 那个消息让她整个人垮了，那个学期都没回去上班。
-be devastated by something = 被某事击垮
-③ It was a devastating report and the department published it on a Friday night.
-= 那是一份极具杀伤力的报告，部门挑了个周五夜里公布。
-a devastating report = 极具杀伤力的报告
-④ The pianist was devastatingly good and played for eleven minutes.
-= 那位钢琴家好得惊人，只弹了十一分钟。
-devastatingly good = 好得惊人
-⑤ The devastation was visible from the air long after the water had gone.
-= 水退了很久之后，从空中还看得见那片狼藉。
-devastation = 毁坏、狼藉
-构词：拉丁语 devastare 荡平
-注意用法：说人受打击几乎总用被动 be devastated。
+diamanté
+核心：仿钻的、缀满小亮片的：说衣服、鞋子、饰品上那些闪亮的小玻璃钻。
+形容词与不可数名词同形，也拼 diamante。
+文学词 diamantine 是「像钻石一样（坚硬或闪亮）的」，偏诗意。
+① She wore a diamanté clip that caught the light from every angle.
+= 她别着一枚仿钻发夹，从哪个角度看都在闪。
+a diamanté clip = 仿钻发夹
+② The dress is covered in diamante and weighs more than it looks.
+= 那条裙子上缀满仿钻，比看着要沉。
+be covered in diamante = 缀满仿钻
+③ The ice had a diamantine hardness that broke two picks.
+= 那层冰硬得像钻石，弄断了两把镐。
+diamantine = 钻石般的（文学）
+构词：法语 diamant 钻石
+注意别混：diamanté 是仿钻装饰，diamond 才是真钻石。
 
-develop
-核心：五支，都是「从小到大、从无到有」。一是发展、成长
-（develop into something）；二是研发（develop a vaccine）；
-三是（问题、症状）出现（develop a fault、develop a cough）；
-四是开发土地（develop a site），做这行的是 a developer；
-五是冲洗胶卷。名词 development 兼指发展、研发成果与新建楼盘。
-① The argument developed into a row that neither of them could later explain.
-= 那场争论发展成一次谁事后都说不清的争吵。
-develop into something = 发展成某种局面
-② The vaccine was developed in eleven months and tested for rather longer.
-= 那种疫苗研发用了十一个月，测试用的时间更长。
-develop something = 研发某物
-③ The engine developed a fault on the second day and they towed it home.
-= 发动机第二天出了毛病，他们把车拖了回去。
-develop a fault = 出现故障
-④ The developer bought the whole terrace and left it empty for six years.
-= 开发商买下了整排房子，空置了六年。
-a developer = 开发商
-⑤ He still develops his own film in a cupboard under the stairs.
-= 他至今还在楼梯下的柜子里自己冲胶卷。
-develop film = 冲洗胶卷
-⑥ The development was announced twice and finished four years late.
-= 那个开发项目宣布过两次，最后晚了四年才完工。
-a development = 开发项目；也指新进展
-⑦ Developmental delay was picked up at the two-year check and acted on quickly.
-= 发育迟缓在两岁体检时被发现，处理得很快。
-developmental = 发育的、发展的
-⑧ The developing world was promised one thing and developmentally the gap widened anyway.
-= 发展中国家得到的是一套承诺，可从发展的角度看，差距照旧拉大。
-the developing world = 发展中国家（总称）
-developmentally = 从发展的角度看
-developing 作定语说「发展中的」，是国际报道里的固定说法。
-构词：古法语 desveloper 展开
-注意用法：说发展成什么用 develop into；说患上症状用 develop a cough。
+diameter
+核心：直径：穿过圆心、两端都在圆周上的那条线，也指它的长度。可数。
+常说 a metre in diameter（直径一米）。
+形容词 diametrical 与副词 diametrically 主要用在
+diametrically opposed（截然相反）这个说法里。
+① The pipe is thirty centimetres in diameter and still blocks twice a year.
+= 那根管子直径三十厘米，一年照样堵两回。
+in diameter = 直径为……
+② The tree measures four metres in diameter at chest height.
+= 那棵树在胸高处直径四米。
+measure something in diameter = 量出直径
+③ Their two accounts are diametrically opposed and both witnesses are honest.
+= 他们两人的说法截然相反，可两位证人都是诚实的。
+diametrically opposed = 截然相反
+④ The diametrical measurement was taken at three heights and averaged.
+= 直径在三个高度上各量一次，取的是平均值。
+a diametrical measurement = 直径方向上的测量
+形容词偏技术；日常几乎只用副词 diametrically。
+构词：希腊语 diametros 横量过去
+注意用法：说直径多少用 in diameter，放在数字后面。
 
-deviance
-核心：（社会学）越轨：偏离社会公认规范的行为 —— 中性的学术用语，
-不等于犯罪。不可数，也说 deviancy。
-形容词与名词 deviant 指越轨的人或行为（日常用起来带贬义与冒犯，要当心）。
-动词 deviate 是偏离，名词 deviation。
-① Deviance is defined by the group doing the judging, not by the act itself.
-= 越轨是由做判断的那个群体定义的，不是由行为本身定义的。
-deviance = 越轨（社会学）
-② The course covers deviancy, control and the making of moral panics.
-= 那门课讲越轨、控制，以及道德恐慌是怎么造出来的。
-deviancy = 越轨（同 deviance）
-③ The train deviated from the timetable by nine minutes and nobody noticed.
-= 那趟车比时刻表偏了九分钟，没人察觉。
-deviate from something = 偏离某个标准
-④ A deviation of two degrees over that distance puts you in the next valley.
-= 在那个距离上偏两度，人就到隔壁山谷去了。
-a deviation = 偏离
-⑤ A deviant act in one decade turns up in the next one as a fashion.
-= 这十年里的越轨举动，到下个十年就成了时髦。
-a deviant act = 越轨的举动
-作形容词说行为时是学术用语；用它称呼人带强烈贬义，要避开。
-构词：拉丁语 deviare 离开正道
-注意语域：deviant 作名词说人时带强烈贬义与冒犯，学术之外少用。
+diamond
+核心：四支。一是钻石；二是菱形（a diamond shape）；
+三是纸牌里的方块花色（复数 diamonds）；四是棒球的内场。
+习语 a rough diamond 说人「外表粗糙、心地好」（美式说 a diamond in the rough）。
+① The diamond was insured for more than the house it sat in.
+= 那颗钻石的保额比放着它的那栋房子还高。
+a diamond = 钻石
+② The window has a pattern of small diamonds set in lead.
+= 那扇窗上镶着一格格铅框的小菱形。
+a diamond = 菱形
+③ He led a low diamond and lost the trick to a card nobody had counted.
+= 他打出一张小方块，输给了一张谁都没数到的牌。
+a diamond = 方块（纸牌花色）
+④ He is a rough diamond and the interview panel had no idea what to do with him.
+= 他是个外粗内秀的人，面试小组完全不知道该拿他怎么办。
+a rough diamond = 外表粗糙、心地不错的人
+⑤ Her grandparents reached their diamond wedding and the local paper sent a photographer.
+= 她祖父母迎来钻石婚，本地报纸派了摄影师来。
+a diamond wedding = 钻石婚（结婚六十周年）
+英式说 a diamond wedding，美式多说 a diamond anniversary。
+⑥ The coach saw a diamond in the rough and spent three seasons proving he was right.
+= 教练看出那是块未经打磨的璞玉，用三个赛季证明自己没看错。
+a diamond in the rough = 外表粗糙、本质不错的人（美式）
+跟英式的 a rough diamond 是同一个意思，词序不同。
+⑦ The diamond jubilee filled the street with bunting that stayed up until August.
+= 钻禧庆典把整条街挂满彩旗，一直挂到八月。
+a diamond jubilee = 钻禧（六十周年纪念）
+跟 golden jubilee 五十周年、silver jubilee 二十五周年成一族。
+构词：希腊语 adamas 最坚硬之物
+注意用法：结婚六十周年叫 a diamond wedding，说的也是这个词。
 
-device
-核心：三支。一是装置、器械（a listening device）；二是手法、招数
-（a literary device 是文学手法）；三是习语 leave somebody to their own devices，
-听任某人自己去折腾。可数。
-① The listening device was found behind a radiator during a routine check.
-= 那个窃听器是例行检查时在暖气片后面发现的。
-a device = 装置、器械
-② Repetition is a device that works on the ear before it works on the mind.
-= 重复是一种手法，先作用于耳朵，再作用于头脑。
-a literary device = 文学手法
-③ Left to his own devices, he rearranged the entire filing system.
-= 没人管他，他就把整套归档系统重新排了一遍。
-leave somebody to their own devices = 听任某人自行其是
-构词：古法语 devis 意图、设计
-注意别混：device 是名词（装置），devise 是动词（想出、设计）。
+diamorphine
+核心：二乙酰吗啡：海洛因的医药名，医院里用作强效镇痛药。
+不可数，英国的医学与法律文书里用这个名字。
+① Diamorphine was given for the pain and the note says it worked within minutes.
+= 用了二乙酰吗啡镇痛，记录上说几分钟就见效。
+diamorphine = 二乙酰吗啡
+② The ward keeps diamorphine in a locked cupboard and counts it twice a shift.
+= 病区把这种药锁在柜里，每班清点两次。
+keep diamorphine locked = 把这种药锁起来
+构词：di- 二 加 morphine 吗啡
+注意语域：医学与法律用语；街面上那种叫 heroin。
 
-devil
-核心：三支。一是魔鬼：大写的 the Devil 指基督教里的撒旦，
-小写的 a devil 指恶魔，也说人「小坏蛋」（多带宠溺）。
-二是习语一族：play devil's advocate 是故意唱反调，
-speak of the devil 是「说曹操曹操到」，
-between the devil and the deep blue sea 是进退两难。
-三是形容词 devilish 与副词 devilishly，说「棘手得要命」。
-另有 devilled（英式，用辣味调料烹制）与 devilment（顽皮胡闹）。
-① The Devil gets all the best lines in that particular play.
-= 在那出戏里，最精彩的台词全归魔鬼。
-the Devil = 魔鬼、撒旦
-② She played the devil's advocate for twenty minutes and changed three people's minds.
-= 她故意唱了二十分钟反调，说服了三个人改主意。
-play the devil's advocate = 故意唱反调
-加不加 the 都通行，说 play devil's advocate 的人更多一些。
-③ Speak of the devil — he came through the door as we were talking about him.
-= 说曹操曹操到 —— 我们正说他，他就进门了。
-speak of the devil = 说曹操曹操到
-④ They were caught between the devil and the deep blue sea and chose the devil.
-= 他们进退两难，最后选了眼前那一头。
-between the devil and the deep blue sea = 进退两难
-⑤ The wiring in that house is devilishly awkward to get at.
-= 那栋房子的线路难弄得要命。
-devilishly awkward = 棘手得要命
-⑥ They served devilled kidneys at breakfast and nobody under fifty touched them.
-= 早餐上了辣味腰花，五十岁以下的人一个都没动。
-devilled = 用辣味调料烹制的（英式）
-⑦ The twins were full of devilment and their grandmother encouraged all of it.
-= 那对双胞胎一肚子淘气，他们外婆还一味撺掇。
-devilment = 顽皮胡闹
-⑧ The wiring in that flat is devilish to trace and impossible to label.
-= 那套公寓的线路查起来要命，标注更是没法标。
-devilish = 棘手得要命的
-形容词，偏旧、偏英式；副词 devilishly 用得更多。
-⑨ He has a devil-may-care way of driving that his passengers have stopped commenting on.
-= 他开车有股满不在乎的劲儿，坐他车的人已经懒得说了。
-devil-may-care = 满不在乎的、无所顾忌的
-带一点欣赏，也带一点担心。
-构词：希腊语 diabolos 诽谤者
-注意用法：说撒旦要大写并加 the；说「小坏蛋」是宠溺的口气。
+diaper
+核心：尿布：美式说法，英式说 a nappy。可数。
+也作动词（diaper a baby），但少用。
+① The changing room has a table, a bin and nowhere to put a clean diaper.
+= 那间婴儿室有台子、有垃圾桶，却没地方放干净尿布。
+a diaper = 尿布（美式）
+② They went through eleven diapers on the flight and ran out over Greenland.
+= 那趟航班上他们用掉十一片尿布，飞到格陵兰上空就用光了。
+go through diapers = 用掉一片片尿布
+③ Diaper rash cleared up in two days once they changed the brand.
+= 换了牌子之后，尿布疹两天就好了。
+diaper rash = 尿布疹（美式）
+英式说 nappy rash。
+构词：中世纪拉丁语 diasprum 一种带花纹的白布
+注意用法：英式一律说 nappy；两边说的是同一样东西。
 
-devious
-核心：两支。一是（人或手段）拐弯抹角、不老实的 —— 这是最常用的一支，贬义；
-二是（路线）迂回曲折的（a devious route）。
-副词 deviously，名词 deviousness。
-① He got the information by devious means and told everybody how clever it was.
-= 他用不光明的手段弄到了消息，还逢人就夸自己聪明。
-devious means = 不光明的手段
-② They took a devious route through three back streets to avoid the roadworks.
-= 为避开修路，他们绕了三条小街，走了一条迂回的路线。
-a devious route = 迂回的路线
-③ She smiled deviously and said the meeting had gone very well indeed.
-= 她别有用心地笑了笑，说会开得非常顺利。
-smile deviously = 别有用心地一笑
-④ The deviousness of the arrangement only became clear when the money moved.
-= 那套安排有多不老实，等到钱一动才看明白。
-deviousness = 不老实、拐弯抹角
-构词：拉丁语 devius 偏离大路的
-注意用法：说人时是贬义，说路线时中性。
+diaphanous
+核心：薄得透光的：说布料轻薄透明，偏文学。形容词。
+也比喻着说想法、界限「薄得站不住」。
+① She wore something diaphanous over something considerably more practical.
+= 她在一件实用得多的衣服外面罩了件薄透的外衫。
+diaphanous = 薄得透光的
+② The distinction between the two categories is diaphanous at best.
+= 那两个类别之间的区分，说好听点也薄得站不住。
+be diaphanous = 薄得站不住的（比喻）
+构词：希腊语 diaphanes 透光的
+注意语域：偏文学；日常说 see-through、thin。
 
-devise
-核心：想出、设计出：把一套办法、制度、装置琢磨出来。及物动词，
-宾语多是 plan、system、scheme、method。
-跟名词 device 只差一个字母：device 是想出来的那个东西，devise 是想出它的动作。
-法律上另有一支旧义：以遗嘱把不动产留给某人。
-① They devised a rota that kept everybody happy for nearly three weeks.
-= 他们排出了一套值班表，让所有人满意了将近三周。
-devise a system = 设计出一套办法
-② The scheme was devised by two people who never met in person.
-= 那套方案是两个从没见过面的人设计出来的。
-be devised by somebody = 由某人设计出来
-③ He devised the estate to a nephew and the house to a cousin.
-= 他立遗嘱把地产留给侄子，房子留给表亲。
-devise something to somebody = 立遗嘱把不动产留给某人
-构词：古法语 deviser 分派、设计
-注意别混：devise 是动词（想出），device 是名词（装置、手法）。
+diaphragm
+核心：三支。一是横膈膜：胸腔与腹腔之间那片肌肉，呼吸靠它；
+二是避孕用的膜状器具；三是设备里的膜片，扬声器与相机光圈都用这个词。可数。
+① Singers are taught to breathe from the diaphragm and most of them forget.
+= 歌手都被教过用横膈膜呼吸，多数人后来都忘了。
+the diaphragm = 横膈膜
+② The camera's diaphragm sticks in the cold and the pictures come out dark.
+= 那台相机的光圈一冷就卡，照片都偏暗。
+a diaphragm = 光圈、膜片
+构词：希腊语 diaphragma 隔开的东西
+注意用法：说唱歌与呼吸时几乎总加 the。
 
-devoice
-核心：（语音学）清音化：把本来带声带振动的音发成不振动的。
-及物动词，多用被动。名词 devoicing。
-① Final consonants are devoiced in German, so the two words sound identical.
-= 德语里词尾辅音会清音化，那两个词因此听着一模一样。
-be devoiced = 被清音化
-② Speakers devoice the ending without noticing and hear the difference in other people.
-= 说话人自己把词尾读成清音而不自知，倒听得出别人的差别。
-devoice something = 把某个音发成清音
-构词：de- 去掉 加 voice 浊音
-注意语域：语音学术语，日常不用。
+diarist
+核心：写日记的人，尤指那些日记后来成了史料或文学作品的人。可数。
+日记本身是 a diary，英式的 diary 还兼指记事用的日程本。
+① The diarist recorded the weather every day for fifty-one years.
+= 那位日记作者连着五十一年每天记天气。
+a diarist = 日记作者
+② She keeps a diary for appointments and another one for everything else.
+= 她一本日程本记约会，另一本记别的一切。
+keep a diary = 记日记；也指记日程
+构词：diary 加 -ist
+注意别混：英式 diary 多指日程本，日记本美式说 a journal。
 
-devoid
-核心：全然没有：只用一个结构 be devoid of something，
-后面接抽象的东西（意义、幽默、感情）。形容词，正式，语气很硬。
-① The reply was polite, complete and devoid of any actual information.
-= 那份回复礼貌、完整，却没有一点实际信息。
-be devoid of something = 全然没有某物
-② A room devoid of daylight is a difficult place to work for eight hours.
-= 一间没有天光的屋子，在里面待八小时干活很难受。
-devoid of daylight = 毫无天光
-构词：古法语 desvoidier 腾空
-注意用法：只作表语，只跟 of，不说 a devoid room。
+diarrhoea
+核心：腹泻。不可数，英式拼 diarrhoea，美式拼 diarrhea，拼写常错。
+形容词 diarrhoeal 用在医学文字里。
+① Diarrhoea kept half the group in the hotel for two days.
+= 腹泻让半数人在旅馆里困了两天。
+diarrhoea = 腹泻
+② Diarrhoeal disease is still one of the biggest killers of small children.
+= 腹泻类疾病至今仍是幼儿最大的杀手之一。
+diarrhoeal disease = 腹泻类疾病
+构词：希腊语 diarrhoia 流过去
+注意用法：英美拼法不同，中间那个 oe 是英式的记号。
 
-devolution
-核心：权力下放：中央把职权交给地方议会或地方政府 ——
-英国政治里的高频词，说苏格兰、威尔士、北爱尔兰那一套安排。
-不可数。动词 devolve：devolve something to somebody 是把权力下放，
-devolve on somebody 是（责任）落到某人头上；
-形容词 devolved 说「已下放的」（devolved powers）。
-① Devolution gave the assembly control of health and left tax where it was.
-= 权力下放把卫生事务交给了地方议会，税收还留在原处。
-devolution = 权力下放
-② Powers were devolved to the assembly in stages over eleven years.
-= 那些职权分阶段下放给地方议会，前后用了十一年。
-devolve something to somebody = 把权力下放给某方
-③ Responsibility for the whole estate devolved on a caretaker who had not asked for it.
-= 整片地产的责任落到了一个并没主动揽事的看管人头上。
-devolve on somebody = 落到某人头上
-④ Devolved administrations set their own school terms and often differ by a week.
-= 各自治政府自定学期，常常差着一周。
-devolved = 已下放职权的
-构词：拉丁语 devolvere 滚下来
-注意别混：devolution 是把权力交给地方，decentralization 说的是机构与资源的分散。
+diaspora
+核心：离散族群：因迁徙或被迫离开而散居各地的同一群人，
+也指那次离散本身。可数，常加 the，首字母大小写都见得到。
+最初专指犹太人的离散，如今说任何族群都行。
+① The diaspora sends home more money each year than the country earns from exports.
+= 那个离散族群每年汇回国的钱，比这个国家出口挣的还多。
+a diaspora = 离散族群
+② Three generations of the diaspora came back for a week and argued about the food.
+= 那个离散族群的三代人回来待了一周，为吃的争论不休。
+the diaspora = 散居在外的同族人
+构词：希腊语 diaspora 播散
+注意用法：作定语说 diaspora communities、the diaspora vote。
 
-devote
-核心：把时间、精力、篇幅专门投给某件事：固定说
-devote something to something，也说 devote yourself to something。
-形容词 devoted 说人「一心一意的」（a devoted father），副词 devotedly；
-a devotee 是狂热爱好者或虔诚信徒；
-名词 devotion 是全心投入，也指宗教上的虔敬，形容词 devotional。
-① The programme devoted a whole hour to a road that carries nine cars a day.
-= 那档节目用了整整一小时讲一条一天只走九辆车的路。
-devote something to something = 把某物专门用于某事
-词典里把这个结构写作 devote to：前面放投入的东西，后面放投向的事情。
-② She devoted herself to the archive for twenty years and catalogued all of it.
-= 她把二十年投在那批档案上，全部编了目。
-devote yourself to something = 全心投入某事
-③ He was a devoted father who took the same fortnight off every single year.
-= 他是个尽心的父亲，每年都休同样的那两周假。
-a devoted father = 尽心的父亲
-④ The dog followed her devotedly from room to room all afternoon.
-= 那条狗一下午忠心耿耿地跟着她一间屋一间屋地走。
-follow somebody devotedly = 忠心耿耿地跟着某人
-⑤ Devotees of the composer travel a long way for a concert like that one.
-= 那位作曲家的拥趸会为这样一场音乐会跑很远的路。
-a devotee = 拥趸、虔诚信徒
-⑥ Her devotion to the work never turned into devotion to the institution.
-= 她对这份工作的投入，从没变成对那个机构的忠诚。
-devotion to something = 对某事的全心投入
-⑦ The devotional music was the only part of the service most people remembered.
-= 那场礼拜里，多数人只记得住那些宗教音乐。
-devotional music = 宗教虔敬音乐
-⑧ The pair are devoted to each other and argue about the radio every single morning.
-= 那两口子彼此死心塌地，每天早上却为收音机吵一架。
-be devoted to somebody = 对某人一心一意
-被动式说感情最常见；接事情时是「专用于」：the room is devoted to storage。
-构词：拉丁语 devovere 立誓奉献
-注意用法：结构固定 devote A to B；不说 devote for。
+diastole
+核心：心脏舒张期：两次收缩之间心肌松开、心腔充血的那一段 ——
+跟收缩期 systole 相对。不可数，形容词 diastolic。
+量血压时那个较小的数字就是 diastolic pressure。
+① Diastole lasts longer than the contraction and shortens as the heart speeds up.
+= 舒张期比收缩期长，心跳一快它就变短。
+diastole = 心脏舒张期
+② Her diastolic pressure was the number the nurse actually cared about.
+= 护士真正在意的是她的舒张压那个数字。
+diastolic pressure = 舒张压
+构词：希腊语 diastole 扩张
+注意用法：血压写作两个数，前面是收缩压，后面是舒张压。
 
-devour
-核心：三支。一是狼吞虎咽地吃光；二是「如饥似渴地读」
-（devour a book）；三是（火、战争）吞噬掉某物。及物动词。
-被动 be devoured by something 也说「被某种情绪吞噬」。
-① They devoured everything on the table and asked whether there was bread.
-= 他们把桌上的东西一扫而光，还问有没有面包。
-devour something = 把某物吃个精光
-② She devours three novels a week and remembers the endings of none of them.
-= 她一周啃三本小说，结局一个都记不住。
-devour a book = 如饥似渴地读一本书
-③ The fire devoured two floors before the first engine arrived.
-= 第一辆消防车赶到之前，火已经吞掉了两层楼。
-devour something = 吞噬掉某物
-④ He was devoured by jealousy for a year and hid it from everybody.
-= 他被嫉妒吞噬了一年，对谁都没露过。
-be devoured by something = 被某种情绪吞噬
-构词：拉丁语 devorare 吞下
-注意用法：吃与读两支都常用；说读书时是褒义。
+diatomic
+核心：（化学）双原子的：一个分子由两个原子组成 ——
+氧、氮、氢在常温下都是这样。形容词，学术用语。
+① Oxygen is diatomic in the air we breathe and monatomic almost nowhere on earth.
+= 我们呼吸的空气里氧是双原子的，地球上几乎没有单原子的形态。
+be diatomic = 双原子的
+② The reaction splits a diatomic molecule and needs a great deal of energy to do it.
+= 那个反应要把一个双原子分子拆开，得耗很多能量。
+a diatomic molecule = 双原子分子
+构词：di- 二 加 atom 原子
+注意语域：化学术语，日常不用。
 
-devout
-核心：两支。一是虔诚的：说人在宗教上认真守持（a devout Catholic）；
-二是（正式）真心实意的：a devout supporter、a devout wish。
-副词 devoutly。
-① She was a devout Catholic who went to Mass before work every day.
-= 她是个虔诚的天主教徒，每天上班前都去望弥撒。
-a devout Catholic = 虔诚的天主教徒
-② He remains a devout supporter of a team that has not won anything since.
-= 他至今死心塌地支持一支此后再没赢过什么的球队。
-a devout supporter = 死心塌地的支持者
-③ It is devoutly to be hoped that nobody tries the same thing next year.
-= 但愿明年没人再来这一套。
-devoutly to be hoped = 但愿如此（正式）
-构词：拉丁语 devotus 立誓奉献的，与 devote 同源
-注意用法：宗教义最常见；说球迷、读者时带一点夸张的诚恳。
+diatribe
+核心：长篇痛骂：滔滔不绝地抨击某人某事，语气激烈、听着没完。可数，
+常说 a diatribe against something。
+① The speech turned into a diatribe against the press and lasted forty minutes.
+= 那篇讲话变成了对媒体的长篇痛骂，讲了四十分钟。
+a diatribe against something = 对某事的长篇痛骂
+② He wrote a diatribe, slept on it, and posted it anyway.
+= 他写了一通痛骂，压了一夜，还是发了出去。
+write a diatribe = 写一通痛骂
+构词：希腊语 diatribe 消磨时间的讲说
+注意别混：diatribe 是长篇激烈抨击，criticism 是一般的批评。
 
-dew
-核心：露水：夜里凝在草叶、车顶上的那层水珠。不可数。
-形容词 dewy 说「沾着露水的」，也比喻着说皮肤水润；
-a dewdrop 是一颗露珠；dewberry 是一种近似黑莓的野果。
-① The grass was heavy with dew and their shoes were soaked within a minute.
-= 草上全是露水，他们的鞋一分钟就湿透了。
-dew = 露水
-② The whole field was dewy and the light came in flat across the top of it.
-= 整片田都挂着露水，光平平地从上面扫过来。
-dewy = 沾着露水的
-③ A dewdrop hung on every wire of the fence for about ten minutes.
-= 围栏的每根铁丝上都挂着一颗露珠，挂了大约十分钟。
-a dewdrop = 一颗露珠
-④ They picked dewberries along the lane and got scratched doing it.
-= 他们沿着小路摘野莓，摘得满手划痕。
-a dewberry = 露莓（近似黑莓的野果）
-复数 dewberries；名字里的 dew 说的是果皮上那层像露水的白霜。
-⑤ The forecast gives the dew point as well, which tells you whether it will feel muggy.
-= 预报里还给出露点，看它就知道会不会觉得闷。
-the dew point = 露点（气象术语）
-构词：古英语 dēaw
-注意用法：不可数；作定语说 dew point、dewfall。
+diazepam
+核心：地西泮：一种抗焦虑与抗惊厥药，商品名安定（Valium）最有名。
+不可数，医学与法律文书里用这个通用名。
+① Diazepam was prescribed for a fortnight and taken for a year and a half.
+= 那种药开的是两周的量，实际吃了一年半。
+diazepam = 地西泮
+② The paramedic gave diazepam to stop the seizure before they reached the hospital.
+= 急救员在到医院之前用地西泮止住了抽搐。
+give somebody diazepam = 给某人用地西泮
+构词：化学结构命名，与 benzodiazepine 一族同源
+注意用法：药盒上写通用名，日常口语里可能说商品名。

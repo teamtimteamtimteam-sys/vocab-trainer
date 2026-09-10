@@ -1,325 +1,258 @@
-electron
-核心：电子：原子里带负电的基本粒子，绕核分布；电流就是它在动。可数。
-an electron microscope 是电子显微镜。
-① An electron weighs about a two-thousandth of what a proton weighs.
-= 一个电子的质量大约是质子的两千分之一。
-an electron = 电子
-② Free electrons are what make a metal conduct at all.
-= 金属之所以导电，靠的就是自由电子。
-free electrons = 自由电子
-③ An electron microscope shows the surface as a landscape of ridges and pits.
-= 电子显微镜把那个表面显示成一片起伏的脊与坑。
-an electron microscope = 电子显微镜
-④ The electron gun at the back of the old screen fired at thirty thousand volts.
-= 老式显像管后面的电子枪，在三万伏下打出电子。
-an electron gun = 电子枪
+eligible
+核心：两支。一是符合资格的：be eligible for something、be eligible to do something；
+二是（旧式，说婚配）条件好的：an eligible bachelor。
+注意别混：eligible 是有资格的，illegible 是字迹难认的。
+① Everyone over sixty is eligible for the discount and half of them never claim it.
+= 六十岁以上都有资格享受折扣，其中一半从没去领过。
+be eligible for something = 有资格获得某物
+be eligible to do something = 有资格做某事
+② The novel calls him an eligible bachelor and gives him no personality at all.
+= 那部小说管他叫条件优越的单身汉，却没给他一点性格。
+an eligible bachelor = 条件好的单身男子
 
-electronic
-核心：三支。一是电子的（设备）：靠芯片与电路工作的；
-二是电子形式的：electronic payment 是电子支付；
-三是（音乐）电子的。
-注意别混：electric 是用电的具体物件，electrical 是与电有关的，electronic 是靠电子元件工作的。
-① Electronic components arrive in trays and half of them are static-sensitive.
-= 电子元件是一盘一盘送来的，其中一半怕静电。
-electronic components = 电子元件
-② Electronic payment cleared in four seconds and the receipt took ten minutes.
-= 电子支付四秒就到账，小票倒等了十分钟。
-electronic payment = 电子支付
-③ Electronic music filled a hall that was built for a pipe organ.
-= 电子音乐灌满了一座本为管风琴而建的厅堂。
-electronic music = 电子音乐
-④ He switched to an electronic cigarette and kept the same routine round it.
-= 他改抽电子烟，围着它的那套习惯一点没变。
-an electronic cigarette = 电子烟
-⑤ Electronic mail replaced the memo and doubled the number of memos.
-= 电子邮件取代了便笺，便笺的数量却翻了一倍。
-electronic mail = 电子邮件
-⑥ Electronic publishing costs nothing to print and everything to be noticed.
-= 电子出版印刷不花钱，让人看见才花钱。
-electronic publishing = 电子出版
-⑦ An electronic signature is accepted on that form and a scan of one is not.
-= 那张表接受电子签名，扫描件却不认。
-an electronic signature = 电子签名
-⑧ Electronic tagging let him keep his job and cost him every evening.
-= 电子脚镣让他保住了工作，也搭上了每一个晚上。
-electronic tagging = 电子监控（戴脚镣定位）
+eliminate
+核心：三支。一是消除、根除；二是排除（可能、嫌疑）：eliminate somebody from something；
+三是（比赛里）淘汰。名词 elimination。
+① Two changes eliminated most of the noise and one made it worse.
+= 两处改动消掉了大半噪音，另一处让它更响。
+eliminate something = 消除某物
+② The police eliminated him from the enquiry within a day.
+= 警方一天之内就把他从调查里排除了。
+eliminate somebody from something = 把某人排除在外
+③ They were eliminated in the first round and stayed for the whole tournament.
+= 他们第一轮就被淘汰，却把整届赛事看完了。
+be eliminated = 被淘汰
 
-electronically
-核心：以电子方式：说提交、支付、储存、控制通过电子系统来做。
-① The form must be submitted electronically and posted copies are returned.
-= 那张表必须电子提交，寄纸质件会被退回。
-submit something electronically = 电子提交某物
-② The valves are controlled electronically and can be overridden by hand.
-= 那些阀门由电子控制，也可以手动接管。
-be controlled electronically = 由电子控制
-构词：electronic 加 -ally
+elimination
+核心：三支。一是消除、根除；二是排除法：a process of elimination；
+三是（比赛里的）淘汰。不可数为主。
+① The elimination of that disease took thirty years and one very cold chain.
+= 根除那种病用了三十年，还靠一条极冷的冷链。
+the elimination of something = 对某物的根除
+② She found the fault by a process of elimination and a lot of tea.
+= 她靠排除法外加大量的茶，把故障找了出来。
+a process of elimination = 排除法
+③ Elimination on goal difference is the cruellest way to go out.
+= 因净胜球被淘汰，是最残酷的出局方式。
+elimination = 淘汰出局
+④ An elimination reaction takes two groups off and puts a double bond in.
+= 消除反应脱掉两个基团，留下一个双键。
+an elimination reaction = 消除反应
 
-electronics
-核心：两支。一是电子学：研究电子器件与电路的学科，作单数；
-二是（某设备的）电子部件、电子系统，作复数。
-① Electronics was a two-year course and half of it was soldering.
-= 电子学是两年的课，其中一半是焊接。
-electronics = 电子学
-② The engine is fine and the electronics have failed twice this year.
-= 发动机没问题，电子系统今年坏了两回。
-the electronics = 电子部件
+elision
+核心：两支。一是省音：说话时把音省掉，如把 and 说成 'n'；
+二是（正式）有意的略去：把内容或差别省掉不提。可数不可数都行。
+① The elision of that vowel is why the two words sound identical.
+= 那个元音的省略，正是这两个词听着一样的原因。
+elision = 省音
+② The summary depends on an elision that nobody in the room noticed.
+= 那份摘要靠的是一处略去，屋里没人察觉。
+an elision = 有意的略去
+构词：elide 的名词
 
-electroplate
-核心：电镀：靠电解把一层薄金属镀到另一件金属上，如镀银、镀铬；
-也作名词，指电镀的器皿。
-① They electroplate the handles in nickel and the coating lasts a decade.
-= 他们把那些把手镀上一层镍，镀层能用十年。
-electroplate something = 给某物电镀
-② The tray is electroplate and the family always called it silver.
-= 那个托盘是电镀的，家里人一直管它叫银盘。
-electroplate = 电镀器皿
+elite
+核心：精英、上层：某个领域或社会里居于顶端的那一小群人；
+也作定语：an elite unit 是精锐部队。作单数或复数看待都行。
+① The elite in that sport is about forty people and two training camps.
+= 那项运动的顶尖圈子，不过四十来人、两个训练营。
+the elite = 精英群体
+② An elite unit trains for a year to do something that lasts nine minutes.
+= 一支精锐部队练一年，为的是一件持续九分钟的事。
+an elite unit = 精锐部队
 
-electrostatic
-核心：静电的：跟静止不动的电荷有关；静电除尘器与复印机都靠它工作。只作定语。
-① An electrostatic charge on the film picks up every speck of dust.
-= 胶片上的静电荷把每一粒灰尘都吸了上来。
-an electrostatic charge = 静电荷
-② Electrostatic precipitators take the ash out of the flue gas.
-= 静电除尘器把烟气里的飞灰收下来。
-an electrostatic precipitator = 静电除尘器
+elitism
+核心：（多含贬义）精英主义：认为某些人天然更该有话语权与资源的想法与做法。不可数。
+① The complaint about elitism came from the school with the highest fees.
+= 抱怨精英主义的，恰是学费最高的那所学校。
+elitism = 精英主义
+② Elitism in that competition means the entry fee, not the standard.
+= 那项比赛的精英门槛，指的是报名费，不是水准。
+accusations of elitism = 精英主义的指摘
 
-elegance
-核心：两支。一是优雅、雅致：说人、衣着、举止；
-二是（方案、证明的）简洁精妙：做法干净利落、不多不少。不可数。
-① The elegance of the room comes from what was left out of it.
-= 那间屋子的雅致，来自它舍掉的东西。
-elegance = 优雅、雅致
-② The proof has an elegance that the textbook version loses.
-= 那个证明有一种精妙的简洁，课本版本把它丢了。
-the elegance of a proof = 证明的精妙简洁
+elitist
+核心：（贬）精英主义的、只为少数人的；也作名词，指持这种主张的人。
+① The scheme was called elitist and it was also the only one that worked.
+= 那个方案被说成只为少数人，可它也是唯一管用的。
+elitist = 精英主义的
+② He is an elitist about coffee and about nothing else at all.
+= 他只在咖啡上讲究得像个精英主义者，别的什么都不挑。
+an elitist = 精英主义者
 
-elegant
-核心：两支。一是优雅的、雅致的：说人、衣着与设计；
-二是（方案、证明）简洁而巧妙的。副词 elegantly。
-① She was elegant in a way that had nothing to do with money.
-= 她那份优雅，跟钱一点关系也没有。
-elegant = 优雅的
-an elegant dress = 一件雅致的裙子
-② The elegant solution needs one moving part instead of nine.
-= 那个巧妙的方案只用一个活动件，不用九个。
-an elegant solution = 简洁巧妙的方案
+elixir
+核心：两支。一是（传说中的）灵药：the elixir of life 是长生不老药；
+二是（比喻）灵丹妙药：说某样东西被吹成什么都能解决。可数。
+① Alchemists spent centuries looking for the elixir of life and found phosphorus.
+= 炼金术士找了几百年长生不老药，结果找出了磷。
+the elixir of life = 长生不老药
+② Sleep is the nearest thing to an elixir that anyone can afford.
+= 睡眠是人人负担得起的、最接近灵丹妙药的东西。
+an elixir = 灵丹妙药
 
-elegantly
-核心：优雅地、雅致地；也说论证或设计得简洁巧妙。
-① The stairs curve elegantly and are lethal in socks.
-= 那道楼梯弯得优雅，穿着袜子走要命。
-curve elegantly = 优雅地弯出弧线
-② The problem is elegantly stated and nobody has solved it in ninety years.
-= 那个问题表述得漂亮利落，九十年来没人解出来。
-be elegantly stated = 表述得简洁漂亮
-构词：elegant 加 -ly
+Elizabethan
+核心：（英国）伊丽莎白一世时代的：指 1558 到 1603 年那段，
+多说戏剧、建筑与航海；也作名词指那个时代的人。
+① Elizabethan playhouses were round, roofless and noisier than anyone now imagines.
+= 伊丽莎白时代的剧场是圆的、没有顶，比今天谁想的都吵。
+an Elizabethan playhouse = 伊丽莎白时代的剧场
+② The manor is Elizabethan at the back and Georgian across the front.
+= 那座庄园背面是伊丽莎白时代的，正面是乔治时代的。
+Elizabethan = 伊丽莎白时代的
 
-elegiac
-核心：（正式、文学）挽歌般的、哀婉怀旧的：说文字或音乐带着追怀与惋惜的调子。
-① The last chapter is elegiac and the rest of the book is not.
-= 最后一章调子哀婉，全书其余部分不是。
-elegiac = 哀婉怀旧的
-② An elegiac tone crept into the interviews once the mill closed.
-= 工厂一关，那些访谈里就带上了挽歌的调子。
-an elegiac tone = 哀婉的调子
-③ An elegiac couplet is one long line followed by a slightly shorter one.
-= 挽歌双行体是一长行接一稍短的行。
-an elegiac couplet = 挽歌双行体
+elk
+核心：两支，两地叫法不同。一是（欧洲）驼鹿：北欧与西伯利亚的大鹿，
+北美管它叫 moose；二是（北美）马鹿，学名 wapiti。可数，复数 elk 或 elks。
+① An elk crossing the road at dusk is the reason for every fence up there.
+= 黄昏时有驼鹿穿马路，这就是那一带处处围栏的原因。
+an elk = 驼鹿
+② Elk graze the valley in autumn and move above the tree line in June.
+= 马鹿秋天在谷地吃草，六月上到林线以上。
+elk = 马鹿（复数同形）
+注意别混：欧洲说的 elk 就是北美的 moose；北美的 elk 另指马鹿。
 
-elegy
-核心：挽歌、哀歌：悼念死者或追怀逝去之物的诗文与乐曲。可数，复数 elegies。
-① The elegy was written for one man and read at a hundred funerals since.
-= 那首挽歌本是为一个人写的，此后在上百场葬礼上被诵读。
-an elegy = 挽歌
-② He wrote an elegy for a coalfield rather than for a person.
-= 他写的挽歌，悼的是一片煤田，不是某个人。
-an elegy for something = 为某物写的挽歌
+elkhound
+核心：挪威猎鹿犬：灰毛卷尾的北欧猎犬，本是猎驼鹿用的，吠声很大。可数。
+① An elkhound barks at everything and means it every time.
+= 猎鹿犬见什么叫什么，而且每回都当真。
+an elkhound = 挪威猎鹿犬
+② The elkhound's coat sheds twice a year and gets everywhere.
+= 猎鹿犬一年掉两次毛，掉得到处都是。
+an elkhound's coat = 猎鹿犬的毛
 
-element
-核心：四支。一是要素、成分：an element of risk；二是（化学）元素；
-三是复数 the elements：风雨天气，也指一门学问的基础；
-四是（电器的）发热元件。
-习语：be in your element 是如鱼得水；brave the elements 是顶着风雨出门。
-① There is an element of luck in it that nobody wants to talk about.
-= 这里头有运气的成分，谁也不愿谈。
-an element of something = 某种成分
-a key element = 关键要素
-② Iron is the element that makes up most of the planet's core.
-= 铁是构成地核大部分的那种元素。
-a chemical element = 化学元素
-③ They braved the elements for four hours and saw one bird.
-= 他们顶着风雨待了四个钟头，看见一只鸟。
-brave the elements = 顶着风雨
-the elements = 风雨天气
-④ She is in her element in a kitchen and lost in a meeting.
-= 她在厨房里如鱼得水，一开会就不知所措。
-be in your element = 如鱼得水
-⑤ The element burned out and the kettle boiled nothing for a week.
-= 发热管烧断了，那把水壶一个星期没烧开过水。
-the element = 电水壶、电炉里的发热元件
+ell
+核心：（旧）厄尔：旧时量布的长度单位，英格兰的一厄尔合四十五英寸，
+各地长短不一。可数。
+① Cloth was sold by the ell and every town measured it differently.
+= 布是按厄尔卖的，可各镇的量法都不一样。
+an ell = 厄尔（旧长度单位）
+② Give him an inch and he will take an ell, as the older version has it.
+= 给他一寸，他就要一厄尔——老话是这么说的。
+give him an inch and he'll take an ell = 得寸进尺（旧说法）
 
-elemental
-核心：两支。一是（正式）最根本的、本原的；
-二是（文学）像自然力一样原始而强大的。
-① The argument comes down to an elemental question about who pays.
-= 那场争论归结成一个最根本的问题：谁出钱。
-an elemental question = 最根本的问题
-② There is something elemental about weather that stops all the traffic.
-= 能让所有交通停摆的天气，透着一股原始的力量。
-elemental = 原始而强大的
+ellipse
+核心：椭圆：把圆压扁得到的封闭曲线，行星轨道就是椭圆。可数，形容词 elliptical。
+① The orbit is an ellipse and the sun sits at one of the two focuses.
+= 那条轨道是椭圆，太阳在两个焦点中的一个上。
+an ellipse = 椭圆
+② He drew an ellipse freehand and it came out better than the compass version.
+= 他徒手画了个椭圆，比用圆规画的还好。
+draw an ellipse = 画一个椭圆
 
-elementary
-核心：三支。一是初级的、基础的；二是简单的、显而易见的：an elementary mistake；
-三是（美式）小学的：elementary school。
-① An elementary course covers the alphabet and stops at the first tense.
-= 初级课程教到字母表，讲到第一个时态就打住。
-an elementary course = 初级课程
-② Leaving the tap running was an elementary mistake with an expensive bill.
-= 忘了关水龙头是个低级错误，账单可不便宜。
-an elementary mistake = 低级错误
-③ Elementary school ends at eleven in that state and at ten in the next one.
-= 那个州的小学读到十一岁，隔壁州读到十岁。
-elementary school = 小学（美式）
-④ An elementary particle is one that nothing smaller has been found inside.
-= 基本粒子就是至今没在里头找出更小东西的那种粒子。
-an elementary particle = 基本粒子
+ellipsis
+核心：两支。一是省略号：三个点，表示话没说完或引文有删节；
+二是（语法）省略：把能省的词省掉。可数，复数 ellipses。
+① The quotation has an ellipsis where the awkward sentence used to be.
+= 那段引文里有个省略号，原先那句难堪的话就在那儿。
+an ellipsis = 省略号
+② Ellipsis is what lets 'Coming?' work as a whole question.
+= 正因为有省略，「Coming?」一个词就成了完整的问句。
+ellipsis = （语法上的）省略
 
-elephant
-核心：象：陆地上最大的动物，分非洲象与亚洲象；鼻子叫 trunk，象牙叫 tusks。可数。
-习语：a white elephant 是花钱多又没用的东西；
-the elephant in the room 是人人看得见却谁都不提的大问题。
-① An elephant drinks a bathful of water a day and remembers where it was.
-= 一头象一天喝掉一浴缸的水，还记得水在哪儿。
-an elephant = 象
-a herd of elephants = 一群象
-② The new terminal is a white elephant with four flights a day.
-= 新航站楼是个大而无用的摆设，一天才四个航班。
-a white elephant = 花钱多又没用的东西
-③ Nobody mentioned the debt, which was the elephant in the room.
-= 谁也没提那笔债，那正是屋里人人装看不见的那头象。
-the elephant in the room = 人人回避的大问题
-④ Elephant grass grows three metres in a season and burns well when dry.
-= 象草一季长三米，晒干了很好烧。
-elephant grass = 象草
-⑤ An elephant seal holds its breath for two hours and sleeps on the way down.
-= 象海豹能屏息两个钟头，下潜途中还睡上一觉。
-an elephant seal = 象海豹
-⑥ The building is elephantine and the doorway takes one person at a time.
-= 那栋楼笨重庞大，门口一次只过得去一个人。
-elephantine = 笨重庞大的
+elliptical
+核心：三支。一是椭圆的；二是（说话、文字）含糊省略的：说得太简，让人猜；
+三是椭圆机的：an elliptical trainer。副词 elliptically。
+① The track is elliptical and the two long sides are the only place to overtake.
+= 那条跑道是椭圆的，只有两条长边能超车。
+elliptical = 椭圆形的
+② His answers are elliptical and the transcript reads like a puzzle.
+= 他的回答含糊省略，记录读起来像谜语。
+an elliptical answer = 含糊省略的回答
+③ She uses the elliptical trainer and refuses to run anywhere at all.
+= 她用椭圆机，死活不肯跑步。
+an elliptical trainer = 椭圆机
 
-elephantiasis
-核心：象皮病：淋巴管被寄生虫堵塞造成肢体或阴囊极度肿大增厚，
-是淋巴丝虫病的晚期表现。不可数。
-① Elephantiasis is preventable and still disables people in a dozen countries.
-= 象皮病本可预防，如今仍在十来个国家致人残疾。
-elephantiasis = 象皮病
-② The swelling in elephantiasis does not go down when the leg is raised.
-= 象皮病的肿，把腿抬高也消不下去。
-the swelling in elephantiasis = 象皮病造成的肿胀
+elliptically
+核心：两支。一是（说话）含糊省略地：不把话说全；二是沿椭圆轨道地。
+① He referred elliptically to a row that everyone in the room remembered.
+= 他含含糊糊地提了那场争吵，屋里人人都记得那事。
+refer elliptically to something = 含糊地提及某事
+② The comet moves elliptically and comes back every seventy-six years.
+= 那颗彗星沿椭圆轨道运行，每七十六年回来一次。
+move elliptically = 沿椭圆轨道运行
+构词：elliptical 加 -ly
 
-elevate
-核心：三支。一是（正式）抬高、举起：elevate the leg；
-二是提升（地位、级别）：elevate somebody to something；
-三是提高（水准、情绪）。名词 elevation。
-① Elevate the ankle above the hip for the first two days.
-= 头两天把脚踝抬到高过髋部。
-elevate something = 把某物抬高
-② He was elevated to the board in June and left the company in December.
-= 他六月被提进董事会，十二月就离开了公司。
-elevate somebody to something = 把某人提升到某职位
-③ Two good paragraphs elevate the whole essay and the rest is still weak.
-= 两段好文字把整篇文章提了上来，其余部分还是弱。
-elevate something = 提升某物的水准
+elm
+核心：榆树：高大的落叶树，木材坚韧；二十世纪的荷兰榆病几乎杀光了欧洲的成年榆。
+树可数，木材不可数。
+① The elm by the church was the last mature one in the county.
+= 教堂边那棵榆树，是全郡最后一棵成年榆。
+an elm = 榆树
+② Elm was used for water pipes because it does not rot when wet.
+= 榆木从前用来做水管，因为它泡在水里不烂。
+elm = 榆木
 
-elevated
-核心：三支。一是升高的、架高的：an elevated railway；
-二是（数值）偏高的：elevated blood pressure；三是（文体、地位）高雅的。
-① The elevated railway runs above the shops and everybody upstairs knows the timetable.
-= 那条高架铁路从商店上方过，楼上的人都记得时刻表。
-an elevated railway = 高架铁路
-② Elevated blood pressure at two appointments is enough to start treatment.
-= 两次就诊血压都偏高，就够开始治疗了。
-elevated blood pressure = 血压偏高
-③ The tone is elevated and the argument underneath it is quite ordinary.
-= 文字调子高雅，底下的论证却很平常。
-an elevated tone = 高雅的文风
+elocution
+核心：演说术、正音：教人清晰得体地发声与念白的一门功夫；
+旧时上流社会的 elocution lessons 常带矫正口音的意味。不可数。
+① Elocution lessons cured the mumble and left the accent alone.
+= 正音课治好了含糊不清，口音倒没动。
+elocution lessons = 正音课
+② The teacher taught elocution to actors and to two nervous barristers.
+= 那位老师教演员发声，也教过两位怯场的出庭律师。
+teach elocution = 教授演说与发声
 
-elevating
-核心：（正式）令人向上的、使人精神提升的：说读物或经历让人见识、境界提高。
-如今用起来常带一点戏谑。
-① The book is elevating in a way that makes it hard to finish.
-= 那本书发人向上，向上到让人读不完。
-elevating = 使人精神提升的
-② An hour of that music is more elevating than three of the talks.
-= 那种音乐听一个钟头，比三场讲座更提振人。
-be elevating = 令人振奋提升
+elongate
+核心：拉长、变长：使某物变长，或自身变长。正式，多用于科技与描写。
+名词 elongation，形容词 elongated。
+① Heat elongates the rail by a few millimetres and the gap allows for it.
+= 受热会把钢轨拉长几毫米，那道缝就是留给它的。
+elongate something = 把某物拉长
+② The shadows elongate after four and the field looks twice as long.
+= 四点以后影子拉长，那片地看着长了一倍。
+elongate = 变长
 
-elevation
-核心：四支。一是海拔、高度；二是提升、升任（这件事）；
-三是（数值的）升高；四是（建筑）立面图。
-① The village sits at an elevation of two thousand metres and grows nothing.
-= 那个村子在海拔两千米上，什么也种不出来。
-at an elevation of = 在…的海拔上
-② Her elevation to the bench surprised nobody who had watched her in court.
-= 她升任法官，凡在法庭上见过她的人都不意外。
-somebody's elevation to something = 某人升任某职
-③ The front elevation shows two windows that were never built.
-= 正立面图上画着两扇从没建出来的窗。
-the front elevation = 正立面图
+elongated
+核心：细长的、被拉长的：说形状比通常更长。
+① The elongated windows make the room look taller than it is.
+= 那些细长的窗子，让屋子显得比实际要高。
+elongated windows = 细长的窗子
+② An elongated skull in that grave puzzled two generations of archaeologists.
+= 那座墓里一具被拉长的头骨，让两代考古学家犯难。
+an elongated skull = 变形拉长的头骨
 
-elevator
-核心：三支。一是（美式）电梯：英式说 lift；
-二是（飞机的）升降舵：尾翼上控制机头上下的那片活动面；
-三是谷物升降机、谷仓。可数。
-① The elevator stops at every floor and the stairs take the same time.
-= 那部电梯层层都停，走楼梯一样快。
-an elevator = 电梯（美式）
-② The pilot trimmed the elevator and the nose stopped wandering.
-= 飞行员配平了升降舵，机头就不再上下游移。
-the elevator = （飞机的）升降舵
-③ The grain elevator by the track holds a whole county's harvest.
-= 铁道边那座谷仓装得下全郡的收成。
-a grain elevator = 谷物升降机、谷仓
+elongation
+核心：伸长、拉长：变长的过程，或增加出来的那段长度。不可数为主。
+① Elongation of the steel is measured before anyone signs anything.
+= 钢材的伸长率要先测出来，才有人肯签字。
+elongation = 伸长（率）
+② The elongation of the working day happened one email at a time.
+= 工作日之所以变长，是一封封邮件慢慢拉出来的。
+the elongation of something = 某物的拉长
 
-eleven
-核心：数字十一：作数词与名词。足球、板球里 an eleven 指一支十一人的队。
-① Eleven of the twelve turned up and the twelfth had the key.
-= 十二个人来了十一个，钥匙在没来的那个手里。
-eleven = 十一
-② He played for the school eleven and never scored in three seasons.
-= 他给校队踢球，三个赛季一个球没进。
-the school eleven = 校队（十一人制）
-③ The eleven-plus decided which school you went to and stayed with people for life.
-= 十一岁升学考试定了你上哪所学校，这事跟人一辈子。
-the eleven-plus = 十一岁升中学考试（英式）
+elope
+核心：私奔：不告诉家里，两人一起跑去结婚。规则变化，名词 elopement。
+① They eloped in March and told her mother in September.
+= 他们三月私奔，九月才告诉她母亲。
+elope = 私奔
+② She eloped with a man her family later liked rather more than they liked her.
+= 她跟一个男人私奔，那人后来比她本人还讨家里喜欢。
+elope with somebody = 与某人私奔
 
-elevenses
-核心：（英式口语）上午茶点：上午十一点前后那顿茶加饼干的小歇。
-形式是复数，当单数用。
-① They stop for elevenses at ten past ten and call it eleven anyway.
-= 他们十点十分就歇下来喝茶，照样管它叫「十一点茶」。
-elevenses = 上午茶点
-② Elevenses in that office means a tin that somebody keeps refilling.
-= 那间办公室的上午茶点，就是一只总有人续满的饼干盒。
-stop for elevenses = 歇下来吃上午茶点
+elopement
+核心：私奔（这件事）：瞒着家里跑去结婚。可数。
+① The elopement cost them one wedding and two years of silence.
+= 那次私奔让他们少了一场婚礼，多了两年冷战。
+an elopement = 一次私奔
+② Modern elopements are planned, photographed and posted the same evening.
+= 如今的私奔是计划好的，当晚就拍照发出去。
+elopements = 私奔（复数）
+构词：elope 加 -ment
 
-eleventh
-核心：第十一，也指十一分之一。
-习语 at the eleventh hour 是在最后关头、千钧一发的时候。
-① The eleventh of November is when the two minutes' silence falls.
-= 十一月十一号是默哀两分钟的日子。
-the eleventh = （某月）十一号
-② The deal was signed at the eleventh hour and read the next morning.
-= 那笔交易在最后关头签下，第二天早上才有人读。
-at the eleventh hour = 在最后关头
+eloquence
+核心：口才、雄辩：把话说得有力、动人、恰到好处的本事。不可数。
+① Her eloquence in the second half won two votes that mattered.
+= 她后半场的口才，赢下了两张要紧的票。
+eloquence = 口才、雄辩
+② There is an eloquence in his silences that the transcript cannot show.
+= 他那些沉默里自有说服力，记录稿上体现不出来。
+the eloquence of something = 某物的感染力
 
-elf
-核心：精灵、小妖：北欧与英语民间传说里的小人；
-奇幻文学里多写成修长、长寿、擅长射箭的族类。可数，复数 elves，形容词 elfin。
-① An elf in that folklore steals milk and leaves the cows unharmed.
-= 那类民间故事里的精灵偷奶，却不伤牛。
-an elf = 精灵
-② Every shop window in December has an elf in it somewhere.
-= 十二月里每一扇橱窗，总有个精灵在某个角落。
-elves = 精灵（复数）
+eloquent
+核心：两支。一是（人、言辞）有口才的、雄辩的；
+二是（表情、沉默、事物）意味深长、不言自明的。副词 eloquently。
+① He is eloquent on paper and hopeless on his feet.
+= 他笔头上雄辩，站起来说话就不行。
+eloquent = 有口才的
+an eloquent speech = 雄辩的演讲
+② The empty shelves were eloquent enough without a press release.
+= 那些空货架已经足够说明问题，用不着发新闻稿。
+be eloquent = 不言自明、意味深长

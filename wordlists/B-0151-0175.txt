@@ -1,121 +1,3 @@
-accede
-核心：三条线，都很正式：同意某项要求（accede to）、
-就任某个职位或王位、以及加入某个国际条约或组织。
-① He acceded to their demands on the Friday and regretted it by the Monday.
-= 他周五答应了他们的要求，到周一就后悔了。
-accede to demands = 应允要求
-② She acceded to the throne at twenty-five and was crowned sixteen months later.
-= 她二十五岁即位，十六个月后才举行加冕。
-accede to the throne = 继位
-③ The country acceded to the treaty and filed four reservations at the same time.
-= 那个国家加入了该条约，同时提出四项保留。
-accede to a treaty = 加入条约
-词族：
-accession = 就任；加入
-注意别混：
-accede = 同意、加入
-exceed = 超过
-concede = 承认、让步
-
-accelerate
-核心：底层是"加快速度"，加的是什么就分出哪一支。加车速是字面义，
-加进程、增长、衰退的速度是比喻义。可及物可不及物：不及物是自己
-快起来，及物是让别的东西快起来。注意跟 speed up 的分工——意思
-一样，但 accelerate 正式得多，学术和新闻里用它。
-① The car accelerated smoothly and was doing eighty before he noticed.
-= 车平稳地加速，他没察觉就跑到了八十。
-不及物：自己快起来。
-② The plan will accelerate growth and leave the infrastructure behind.
-= 这个计划会加快增长，把基础设施甩在后面。
-及物：让别的东西快起来。
-③ She took an accelerated course and finished two years in eleven months.
-= 她读的是速成课程，十一个月修完了两年的内容。
-accelerated = 加速的、速成的
-④ The accelerator sticks in cold weather and needs a tap with the heel.
-= 天冷时油门会卡住，得用鞋跟磕一下。
-accelerator = 油门（英式）
-注意地域：美式常说 gas pedal。
-⑤ Particles are studied in an accelerator that runs under three countries.
-= 粒子在一台横跨三个国家地下的加速器里被研究。
-particle accelerator = 粒子加速器
-词族：
-acceleration = 加速；加速度
-反义词：
-decelerate = 减速
-
-acceleration
-核心：两条线：物理上的"加速度"，和抽象的"加快"。
-汽车评测里的 0-60 acceleration 是高频说法。
-① The car has good acceleration and brakes that were clearly designed for a lighter one.
-= 那辆车加速性能好，刹车却明显是给更轻的车设计的。
-good acceleration = 加速性能好
-② Acceleration equals force over mass, which is why the same engine feels different.
-= 加速度等于力除以质量，所以同一台发动机开起来会不一样。
-③ There was an acceleration in growth that nobody had forecast or explained.
-= 增长加快了，谁也没预测到，也没解释清。
-an acceleration in = …的加快
-词族：
-accelerate = 加速
-accelerator = 油门；加速器
-反义词：
-deceleration = 减速
-
-accelerator
-核心：两个意思：汽车的"油门踏板"，和物理上的"粒子加速器"。
-英式说 accelerator，美式口语常说 gas pedal。
-① He pressed the accelerator and nothing happened for a full second.
-= 他踩下油门，整整一秒钟毫无反应。
-press / hit the accelerator = 踩油门
-② Take your foot off the accelerator before you reach the bend.
-= 到弯道之前把脚从油门上挪开。
-③ They built a particle accelerator under farmland in three countries.
-= 他们在三个国家的农田底下建了台粒子加速器。
-particle accelerator = 粒子加速器
-注意英美差别：
-accelerator = 油门踏板（英式）
-gas pedal = 油门踏板（美式）
-词族：
-accelerate = 加速
-④ The accelerator board speeds up rendering and doubles the electricity bill.
-= 那块加速卡能加快渲染，也让电费翻倍。
-accelerator board = 加速卡（计算机）
-
-accelerometer
-核心：指加速度计——测量加速度的传感器。
-手机里靠它感知翻转和计步。
-① The phone has an accelerometer and knows which way up it is being held.
-= 那台手机装有加速度计，知道自己是怎么被拿着的。
-② Accelerometers detect motion and are cheap enough to put in a parcel label.
-= 加速度计能探测运动，便宜到可以贴在包裹标签上。
-③ Data came from the accelerometer rather than from anyone watching the bridge.
-= 数据来自加速度计，不是来自守在桥边的人。
-构词：accelerate + -meter 计量器
-同类传感器：
-gyroscope = 陀螺仪（测角度）
-magnetometer = 磁力计（测方向）
-barometer = 气压计
-
-accent
-核心：一是"口音"，指某地或某国的人说话的语音特征；二是"重音"，
-指词里读得重的那个音节；三是比喻义"强调的重点"。
-① She speaks with a French accent that softens after a glass of wine.
-= 她说话带法国口音，喝一杯酒就淡了。
-a strong accent = 很重的口音
-② The accent falls on the first syllable and everybody gets it wrong.
-= 重音在第一个音节，人人都念错。
-③ This year the accent is on quality and last year it was on price.
-= 今年侧重质量，去年侧重价格。
-the accent is on = 侧重于
-④ Write the accent above the letter or the word means something else.
-= 重音符号要写在字母上方，否则这个词就是别的意思。
-这里指变音符号。
-注意区别：
-an accent = 重音符号（写在字母上方的标记）
-dialect = 方言（词汇语法都不同）
-⑤ Accentuation varies between dialects and trips up every learner.
-= 不同方言的重音规律不同，每个学习者都栽在这上面。
-accentuation = 重音法；强调
-
 accented
 核心：两条线：说话"带某种口音的"，和文字上"带重音符号的"。
 第一条更常用，前面通常加限定词。
@@ -223,17 +105,14 @@ unacceptable = 不可接受的
 注意语气：
 acceptable 常只是"及格"，
 夸奖要用 good 或 excellent。
-
-acceptably
-核心：acceptable 的副词，"可接受地、还算过得去地"。
-常修饰形容词表示"在可容忍范围内"。
-① He performed acceptably in a role he had been given nine days to learn.
+副词 acceptably：acceptable 的副词，"可接受地、还算过得去地"。 常修饰形容词表示"在可容忍范围内"。
+④ He performed acceptably in a role he had been given nine days to learn.
 = 那个角色只给了他九天准备，他表现还过得去。
 perform acceptably = 表现尚可
-② The risk is acceptably low provided the checks are done every morning.
+⑤ The risk is acceptably low provided the checks are done every morning.
 = 只要每天早上做检查，风险就低到可以接受。
 acceptably low = 低到可接受
-③ It works acceptably well until somebody tries to use two of them at once.
+⑥ It works acceptably well until somebody tries to use two of them at once.
 = 用起来还行，除非有人同时开两台。
 词族：
 acceptable = 可接受的
@@ -427,16 +306,13 @@ accidental
 accidentally = 不小心地
 反义词：
 accidental 意外的 / deliberate 蓄意的
-
-accidentally
-核心：指"不小心地、无意中"，与 on purpose 相对。
-注意拼写是双 l，这是高频错拼点。
-① I accidentally deleted it and spent the rest of the evening on the backup.
+副词 accidentally：指"不小心地、无意中"，与 on purpose 相对。 注意拼写是双 l，这是高频错拼点。
+④ I accidentally deleted it and spent the rest of the evening on the backup.
 = 我不小心删掉了，剩下一晚上都在弄备份。
 accidentally delete = 误删
-② She accidentally knocked it over and caught it before it reached the floor.
+⑤ She accidentally knocked it over and caught it before it reached the floor.
 = 她不小心把它碰倒，又在落地前接住了。
-③ He found it accidentally while looking for something else entirely.
+⑥ He found it accidentally while looking for something else entirely.
 = 他在找另一样完全不相干的东西时偶然发现了它。
 反义词：
 deliberately = 故意地
@@ -481,3 +357,140 @@ widely acclaimed = 广受赞誉
 acclaim = 赞誉
 注意：critically acclaimed 指
 "评论界叫好"，未必卖座。
+
+acclamation
+核心：指热烈的欢呼喝彩。政治语境里的 elected by acclamation
+指"以欢呼方式一致通过"，即不用正式投票。
+① He was greeted with acclamation by a hall that had booed him a year earlier.
+= 一年前还嘘过他的大厅，如今用欢呼迎接他。
+with acclamation = 在欢呼声中
+② She was elected by acclamation because nobody else would take the job.
+= 她以欢呼方式获选，因为没别人肯干这活。
+by acclamation = 无异议通过
+③ The proposal passed by acclamation after a debate lasting four minutes.
+= 辩论了四分钟，那项提案就在一致赞同下通过。
+词族：
+acclaim = 赞誉
+注意别混：
+acclamation = 欢呼、一致通过
+acclimation = 适应（美式拼法）
+
+acclimatization
+核心：指"适应新环境"这个过程，运动医学和高原医学里的正式用语。
+不可数。英美拼写与动词同理。
+① Acclimatization takes several days and cannot be hurried by fitness alone.
+= 适应需要好几天，光靠体能好是赶不快的。
+② High-altitude acclimatization is vital and kills more people when skipped.
+= 高原适应至关重要，省掉这一步反倒害死更多人。
+high-altitude acclimatization = 高原适应
+③ The acclimatization period is over and the real training starts on Monday.
+= 适应期结束了，正经训练周一开始。
+acclimatization period = 适应期
+词族：
+acclimatize = 适应
+注意英美拼写：
+acclimatisation = 适应新环境（英式拼法）
+acclimatization = 适应新环境（美式拼法）
+
+acclimatize
+核心：指人或动物"适应新环境"，尤其是气候和海拔。
+英式拼 acclimatise，美式还有个短形式 acclimate。介词用 to。
+① Climbers acclimatize slowly and go up high before sleeping low again.
+= 登山者慢慢适应海拔，爬到高处再回低处过夜。
+② She acclimatized to the heat by the third week and stopped noticing it.
+= 到第三周她适应了那种炎热，也就不觉得热了。
+acclimatize to = 适应
+③ Give the fish time to acclimatize; float the bag for twenty minutes first.
+= 给鱼一点适应时间，先把袋子浮在水面二十分钟。
+注意英美差别：
+acclimatise = 适应新环境（英式拼法）
+acclimatize = 适应新环境（美式拼法）
+acclimate = 适应新环境（美式的短形式）
+词族：
+acclimatization = 适应过程
+
+accolade
+核心：指正式的"荣誉、褒奖"，可以是奖项，也可以是一句公开的高度
+评价。可数，常用复数。比 award 更强调"荣誉"而非"奖品"。
+① The prize is the highest accolade in a field with about two hundred people.
+= 那个奖是一个只有两百来人的领域里的最高荣誉。
+② She received many accolades and kept every one of them in a box.
+= 她获得了许多荣誉，每一样都收在一个盒子里。
+③ It's an accolade he deserves and would never have asked for.
+= 那是他应得的荣誉，也是他绝不会开口去要的。
+④ Critics heaped accolades on her second book and ignored the first.
+= 评论家对她第二本书赞誉有加，第一本却没人提。
+heap accolades on = 大加褒奖
+近义对照：
+accolade 荣誉、褒奖（正式）
+award 奖项（经评定授予）
+honour 荣誉（通用）
+
+accommodate
+核心：底层是"腾出空间容纳"。容纳的可以是人（提供住宿）、数量
+（能坐多少人），也可以是抽象的需求和意见（迁就、照顾到）。
+这个词拼写极易错：两个 c、两个 m。
+① The hotel can accommodate 300 guests and accommodated us for one night.
+= 这家酒店能容纳三百位客人，我们在那儿住了一晚。
+这里：
+accommodate = 容纳
+② The schedule can accommodate your request if you ask before Thursday.
+= 周四之前提出，日程可以迁就你的要求。
+这里：
+accommodate = 迁就、满足
+③ Eyes accommodate to darkness over about twenty minutes.
+= 眼睛适应黑暗大约需要二十分钟。
+accommodate to = 适应
+注意拼写：两个 c、两个 m。
+
+accommodating
+核心：指人"乐于配合、好说话的"，褒义。
+和 accommodate 的"迁就"这条线对应。
+① The staff were very accommodating and found us a table at half past ten.
+= 工作人员非常配合，十点半还给我们找到了位子。
+very accommodating = 很好说话
+② He is accommodating to new ideas provided somebody else does the work.
+= 只要活儿是别人干，他对新想法很包容。
+accommodating to = 对…包容
+③ They took an accommodating stance and got very little back for it.
+= 他们采取了通融的立场，几乎没得到什么回报。
+accommodating stance = 通融的姿态
+词族：
+accommodate = 容纳；迁就
+近义对照：
+accommodating = 乐于配合
+obliging = 乐于助人
+flexible = 灵活变通
+
+accommodation
+核心：主要指"住处"，英式用不可数，美式常用复数 accommodations。
+另有一层正式义指"折中、通融"。
+① We need accommodation for the night and everything within ten miles is full.
+= 我们需要住一晚的地方，十英里内全满了。
+英式不可数，不说 an accommodation。
+② The price includes accommodation but not the ferry that gets you there.
+= 价格含住宿，不含把你送过去的渡轮。
+③ They reached an accommodation that neither side described as a compromise.
+= 他们达成了折中方案，两边都不肯称之为妥协。
+这里：
+accommodation = 通融、和解
+注意英美差别：
+accommodation = 住处（英式，不可数）
+accommodations = 住处（美式，常用复数）
+
+accompaniment
+核心：两条线：音乐上的"伴奏"，和餐饮上"配着吃的东西"。都对应
+动词 accompany 的"伴随"这条线。介词用 to。
+① She sang to piano accompaniment played from memory by her brother.
+= 她弟弟凭记忆弹钢琴伴奏，她跟着唱。
+to the accompaniment of = 在…伴奏下
+② Rice is the usual accompaniment and the bread is worth asking for.
+= 通常配米饭，不过那里的面包值得开口要一份。
+an accompaniment to = …的配菜
+③ He played the accompaniment and covered two mistakes that were not his.
+= 他弹的是伴奏，还替别人遮过去两个错音。
+④ Wine is a good accompaniment to cheese and a poor one to fish soup.
+= 葡萄酒配奶酪很好，配鱼汤就不行。
+词族：
+accompany = 伴奏、陪同
+accompanist = 伴奏者

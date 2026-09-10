@@ -94,3 +94,8 @@ forsook      forsake
 forsaken     forsake
 froze        freeze
 frozen       freeze
+
+# --- 副词并入形容词后补的对照（2026-09-10）---
+ably         able        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
+airily       airy        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
+aptly        apt        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT

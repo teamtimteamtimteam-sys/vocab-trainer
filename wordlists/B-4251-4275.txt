@@ -1,521 +1,412 @@
-centilitre
-核心：厘升：一升的百分之一，等于十毫升。欧洲的酒类标签
-上常用。美式拼 centiliter。可数。
-① The bottle holds seventy centilitres and the label says so twice.
-= 那个瓶装七十厘升，标签上写了两遍。
-a centilitre = 厘升
-② Wine labels use centilitres across most of Europe.
-= 欧洲大部分地方的葡萄酒标签都用厘升。
-label = 标签
-③ Measure the syrup in centilitres rather than by eye.
-= 糖浆用厘升量，别凭眼睛估。
-构词：由表示百分之一的前缀与升拼成
-注意拼写：美式写 centiliter。
+cerumen
+核心：耳垢的医学名，日常说 earwax。耳道里分泌的蜡状物，
+有防护作用。不可数。
+① Cerumen protects the ear canal and moves outward on its own.
+= 耳垢保护耳道，还会自己往外走。
+cerumen = 耳垢（医学名）
+② Excess cerumen can block hearing without causing any pain.
+= 耳垢太多会挡住听力，却一点不疼。
+excess = 过多的
+③ The nurse removed the cerumen with warm water and a syringe.
+= 护士用温水和注射器把耳垢冲了出来。
+remove = 清除
+构词：拉丁语 cera 蜡
+注意语域：医学用词，日常说 earwax。
 
-centimetre
-核心：厘米：一米的百分之一，日常量长度最常用的单位之一。
-美式拼 centimeter。可数。
-① The scar is two centimetres long and fades a little each year.
-= 那道疤两厘米长，每年淡一点。
-a centimetre = 厘米
-② Measure it in centimetres and write the figure on the box.
-= 用厘米量，把数字写在箱子上。
-in centimetres = 以厘米计
-③ He grew four centimetres in a single summer.
-= 一个夏天他长高了四厘米。
-构词：由表示百分之一的前缀与米拼成
-注意拼写：美式写 centimeter。
+cervical
+核心：两支，因为词根颈在解剖里指两处。一是颈部的：
+cervical vertebrae 是颈椎。二是子宫颈的：cervical
+smear 是宫颈涂片。医学术语。
+① He injured a cervical vertebra and wore a collar for six weeks.
+= 他伤了一节颈椎，戴了六周颈托。
+cervical vertebrae = 颈椎
+② She had a cervical smear and the result came back in a fortnight.
+= 她做了宫颈涂片，两周后出结果。
+a cervical smear = 宫颈涂片
+③ Cervical cancer is screened for every three years here.
+= 这里的宫颈癌筛查每三年一次。
+be screened for = 有针对性的筛查
+构词：拉丁语 cervix 颈
+注意别混：同一个词管颈椎与子宫颈两处，看上下文。
 
-centipede
-核心：蜈蚣：身体分节、每节一对足的节肢动物，跑得快、
-有毒钩。名字字面是一百只脚，实际节数不定。可数。
-① A centipede ran under the stone faster than she could follow it.
-= 一条蜈蚣钻到石头下，快得眼睛都跟不上。
-a centipede = 蜈蚣
-② Centipedes hunt at night and take anything they can hold down.
-= 蜈蚣夜里猎食，按得住的东西都吃。
-hunt = 猎食
-构词：拉丁语 centum 一百 加 pes 脚
-注意别混：millipede 每节两对足，走得慢。
+cervix
+核心：子宫颈：子宫下端通向阴道的那一段。这个词在解剖上
+本义是颈，所以颈椎那边也用同一个词根。复数 cervices
+或 cervixes。可数。
+① The cervix dilates during labour by about a centimetre an hour.
+= 分娩时宫颈每小时约扩张一厘米。
+the cervix = 子宫颈
+② Cells are taken from the cervix with a small soft brush.
+= 用一把柔软的小刷子从宫颈取细胞。
+be taken from = 从……取
+③ The cervix closes again within a few weeks of the birth.
+= 产后几周之内，宫颈又会闭合。
+examine = 检查
+构词：拉丁语 cervix 颈
+注意用法：医学用词。
 
-central
-核心：三支。一是位置居中的、靠市中心的。二是最要紧的、
-核心的，central to the argument 是论证的关键，这一支在
-学术写作里极常用。三是集中管理的，从这一支长出一族：
-centralize 是使集中，名词 centralization；centralism 是
-中央集权主义，centralist 是主张它的人；centrality 是
-核心地位；centrally 是在中心地、集中地。
-① The flat is very central and costs accordingly every month.
-= 这套公寓位置很靠市中心，月租也就相应地贵。
-central = 位置居中的
-② That point is central to her case and the judge barely mentioned it.
-= 那一点是她诉讼的核心，法官却几乎没提。
-central to = 对……至关重要
-③ Powers were centralized in the capital and the regions were left to complain.
-= 权力集中到了首都，各地区只剩下抱怨的份。
-centralize = 使集中
-④ Centralization slowed decisions down until nothing could be settled locally.
-= 集中化把决策拖慢到地方上什么都定不了。
-centralization = 集权化
-⑤ Critics attacked party centralism long before it produced any results.
-= 批评者早在集中制见效之前就开始抨击它。
-centralism = 中央集权主义
-⑥ He is a centralist by instinct and distrusts anything decided elsewhere.
-= 他骨子里是中央集权派，不信任别处做的任何决定。
-a centralist = 主张中央集权的人
-⑦ The centrality of the issue is clear to everyone except the committee.
-= 这个问题的核心地位人人都看得出来，只有委员会看不出。
-centrality = 核心地位
-⑧ The house is centrally heated and still cold in every room.
-= 房子装了中央供暖，每个房间还是冷。
-centrally = 集中地、在中心地
-⑨ The office is in the central business district, ten minutes from the station.
-= 办公室在中央商务区，离车站十分钟。
-the central business district = 中心商务区
-⑩ The extras came straight out of central casting, right down to the hats.
-= 那些群众演员活像照模子选出来的，连帽子都一样。
-central casting = 按套路选角；引申指刻板得像标配
-⑪ Central government sets the budget and the councils take the blame.
-= 中央政府定预算，挨骂的是地方议会。
-central government = 中央政府
-⑫ The flat has central heating that has not worked since the spring.
-= 这套房有中央供暖，从开春就没热过。
-central heating = 集中供暖
-集中管理那一支的复合词多是设施与制度的名字。
-⑬ Central locking shuts all four doors, except when the battery is low.
-= 中控锁能锁上四个门，电池电量低时除外。
-central locking = 汽车中控门锁
-⑭ The drug acts on the central nervous system and takes weeks to clear.
-= 这种药作用于中枢神经系统，要几周才代谢干净。
-the central nervous system = 中枢神经系统
-医学里的中枢就是这个词，跟位置居中同源。
-⑮ The central processing unit runs hot and the fan never stops.
-= 中央处理器发热厉害，风扇一刻不停。
-the central processing unit = 中央处理器
-⑯ Do not park on the central reservation, whatever has happened to your car.
-= 不管你的车出了什么事，都别停在中央隔离带上。
-the central reservation = 公路中央隔离带（英式）
-⑰ The mean is a measure of central tendency and hides the outliers.
-= 平均数是集中趋势的一种度量，会把异常值藏起来。
-central tendency = 集中趋势（统计）
-构词：拉丁语 centrum 中心
-注意用法：第二支在学术写作里极常用。
+cesarean
+核心：caesarean 的美式拼法，指剖宫产。也拼 cesarian。
+英式写 caesarean。可数。
+① She had a cesarean after twenty hours and was walking the next morning.
+= 折腾了二十个钟头之后她做了剖宫产，第二天早上就能走动了。
+a cesarean = 剖宫产（美式拼法）
+② The baby came by cesarean section three weeks before the due date.
+= 孩子比预产期早三周剖宫产出生。
+cesarean section = 剖宫产手术
+③ Her first was a cesarian and the second was not, which surprised the midwife.
+= 她头一胎是剖宫产，第二胎不是，这让助产士很意外。
+cesarian = 同一个词的异体拼法
+构词：与那位罗马统帅的名字有关
+注意拼写：英式写 caesarean。
 
-Central time
-核心：中部时间：北美的一个时区，比协调世界时晚六小时，夏令时晚
-五小时。芝加哥、达拉斯都在这个区。缩写 CT，写作 CST 与 CDT 分别
-指标准时与夏令时。不可数。
-① The broadcast starts at eight Central time, which is nine on the coast.
-= 转播在中部时间八点开始，东海岸就是九点。
-Central time = 中部时间
-② Chicago runs on Central time and the flight crosses two zones.
-= 芝加哥用中部时间，那趟航班要跨两个时区。
-run on Central time = 使用中部时间
-构词：方位词加 time，北美四个时区都这么命名
-注意用法：跟 Eastern、Mountain、Pacific 三个时区名成一套。
+cesium
+核心：caesium 的美式拼法，指铯，符号 Cs。美国的化学
+文献里写这一个。不可数。
+① The label on the bottle gives the isotope as cesium in the American spelling.
+= 瓶上的标签按美式拼法把那个同位素写作铯。
+cesium = 铯（美式拼法）
+② Cesium reacts violently with water and is kept under oil.
+= 铯与水剧烈反应，得泡在油里保存。
+react with = 与……反应
+构词：拉丁语 caesius 蓝灰色，因谱线呈蓝
+注意拼写：英式写 caesium。
 
-centre
-核心：英式拼法，美式一族写 center。四支：一是中心点、
-正中；二是中心机构，a shopping centre 购物中心；三是
-政治上的中间派，centre-left 与 centre-right 是中间偏左
-与偏右；四是球类里的中路位置，centre forward 中锋、
-centre half 中卫、centre back 中后卫。动词是使居中，
-也说 centre on 以某事为重心。派生一族英美各拼一套：
-centred 与 centered、centrefold 与 centerfold、
-centrepiece 与 centerpiece、centreboard 与 centerboard。
-① Draw a dot at the centre and measure out from there.
-= 在中心点一个点，从那里往外量。
-the centre = 中心点
-② We met at the shopping centre because it was the only place open.
-= 我们在购物中心碰头，因为只有那儿还开着。
-a shopping centre = 购物中心
-③ Her party sits in the centre and is losing votes on both sides.
-= 她那个党居中，两边的票都在流失。
-the centre = 政治上的中间派
-④ Centre-left parties lost ground across most of the continent.
-= 中间偏左的政党在欧洲大部分地方都失了势。
-centre-left = 中间偏左的
-⑤ A centre-right coalition took over and reversed half the reforms.
-= 一个中间偏右的联盟上了台，把一半改革推翻了。
-centre-right = 中间偏右的
-⑥ He plays centre forward and has scored in every round so far.
-= 他踢中锋，到目前为止每轮都进球。
-centre forward = 中锋
-⑦ She played centre half for years before her knee gave out.
-= 膝盖坏掉之前，她踢了好些年中卫。
-centre half = 中卫
-⑧ The centre back headed it clear from under his own bar.
-= 中后卫在自家门线下把球顶了出去。
-centre back = 中后卫
-⑨ The debate centred on cost rather than on whether it would work.
-= 那场辩论围着成本转，没人谈它到底行不行。
-centre on = 以……为重心
-⑩ Keep the picture centred or the whole wall will look wrong.
-= 画要挂正，不然整面墙看着都别扭。
-centred = 居中的
-⑪ The magazine centrefold folded out to twice the width of the page.
-= 那本杂志的跨页插图展开有两页宽。
-centrefold = 杂志中间的跨页插图
-⑫ The vase is the centrepiece and everything else is arranged round it.
-= 那只花瓶是主摆件，别的都围着它摆。
-centrepiece = 餐桌主摆件；也指最要紧的一项
-⑬ A centreboard steadies the dinghy when the wind gets up.
-= 起风的时候，中央龙骨能让小艇稳住。
-centreboard = 可升降的中央龙骨
-⑭ The center of the American town is a square with a courthouse in the middle of it.
-= 美国那个镇子的中心是个广场，法院就立在广场正中。
-center = 美式拼法
-⑮ The centerpiece was a bowl of figs that nobody dared to eat.
-= 桌子中央摆着一碗谁也不敢动的无花果。
-centerpiece = 餐桌主摆件（美式拼法）
-⑯ The centerfold was torn out long before the magazine reached us.
-= 那本杂志到我们手上时，跨页早被撕走了。
-centerfold = 跨页插图（美式拼法）
-⑰ He is centered on his work and lets everything else slide.
-= 他一门心思在工作上，别的都由它去。
-centered = 居中的；专注的（美式拼法）
-⑱ Lower the centerboard before you turn across the wind.
-= 逆风转向之前，先把中央龙骨放下去。
-centerboard = 可升降中央龙骨（美式拼法）
-⑲ He fields at centre field and covers more ground than anyone.
-= 他守中外场，覆盖的范围比谁都大。
-centre field = 中外场（棒球）
-⑳ The centre of gravity sits low, which is why it will not tip.
-= 重心很低，所以它不会翻。
-the centre of gravity = 重心
-物理上的两个重心说法要分清：重力那个是 gravity。
-㉑ The centre of mass moves with the load and changes the handling.
-= 质心随载荷移动，操控也跟着变。
-the centre of mass = 质心
-质量分布的中心，跟重心在均匀重力场里才重合。
-㉒ The centre spread carried the photos everyone had been waiting for.
-= 中间跨页登了大家都在等的那些照片。
-a centre spread = 报刊中间的跨页
-㉓ She took centre stage at once and never gave it back.
-= 她一上来就站到了舞台中央，此后再没让出去。
-take centre stage = 站到舞台中央、成为焦点
-从舞台正中那个位置比喻来的，今天多用比喻义。
-㉔ She hates being the centre of attention even at her own birthday.
-= 连自己的生日，她都讨厌成为焦点。
-the centre of attention = 众人注目的焦点
-㉕ The city opened cooling centres during the heatwave and kept them open at night.
-= 热浪期间市里开了几处纳凉点，夜里也不关。
-a cooling centre = 高温天供人避暑的公共场所
-美式拼 cooling center；近年高温频发，新闻里才多起来。
-构词：拉丁语 centrum 圆心
-注意拼写：英式 centre 一族，美式 center 一族，各拼各的。
+cessation
+核心：停止：正式用词，多用于战事、活动、症状。
+① They agreed a cessation of hostilities that held for nine days.
+= 他们同意停止敌对行动，那次停火维持了九天。
+a cessation of hostilities = 停止敌对行动
+② The cessation of pain was sudden and she did not trust it.
+= 疼痛停得很突然，她不敢信。
+the cessation of = ……的停止
+③ Smoking cessation clinics help most in the first three weeks.
+= 戒烟门诊在头三周里帮助最大。
+smoking cessation = 戒烟
+构词：拉丁语 cessare 停下
+注意语域：正式，日常说 stop。
 
-centrifugal
-核心：离心的：转起来把东西往外甩的那种作用。比喻义也用，
-说使一个组织或国家分崩离析的力量。名词 centrifuge 是
-离心机，也作动词指用离心机分离。
-① Centrifugal force throws the water out and the drum spins faster to finish.
-= 离心力把水甩出去，滚筒会转得更快来收尾。
-centrifugal force = 离心力
-② Centrifugal pressures split the union along lines drawn a century earlier.
-= 离心的力量沿着一百年前划下的界线，把那个联盟撕开了。
-centrifugal = 使分离的
-③ Spin the sample in a centrifuge for ten minutes before you draw off the top layer.
-= 把样本放进离心机转十分钟，再吸取上层液。
-a centrifuge = 离心机
-④ Blood is centrifuged before testing so that the cells settle out of the plasma.
-= 血样化验前先离心，让细胞从血浆里沉下来。
-centrifuge = 用离心机分离
-构词：拉丁语 centrum 中心 加表示逃离的词根
-注意别混：向外甩是这个，向内拉是 centripetal。
+cession
+核心：割让这件事：把领土或权利正式让出去，是 cede 的
+名词。法律与外交文书里用。
+① The treaty provided for the cession of the port and two islands.
+= 条约规定割让那个港口和两座岛。
+the cession of = 对……的割让
+② Cession was made under duress and disputed for a century after.
+= 那次割让是被迫的，此后争了一百年。
+under duress = 在胁迫下
+③ The cession took effect at once and the flag changed that morning.
+= 割让立即生效，当天上午旗就换了。
+take effect = 生效
+构词：拉丁语 cedere 让、退
+注意别混：session 是会期，跟它同音不同拼。
 
-centripetal
-核心：向心的：把东西拉向圆心的那种作用。物体能绕圈而
-不飞出去，靠的就是它。比喻义指把各方拉拢到一起的力量。
-① Centripetal force keeps it in orbit and points always inward.
-= 向心力让它保持在轨道上，方向始终朝内。
-centripetal force = 向心力
-② The string supplies the centripetal force and snaps if it cannot.
-= 那根绳提供向心力，供不上就断。
-supply = 提供
-③ Trade acted as a centripetal force on a dozen small states.
-= 贸易对十几个小邦起了把它们拉拢到一起的作用。
-centripetal = 向心的、使聚拢的
-构词：拉丁语 centrum 中心 加表示寻求的词根
-注意别混：向内是这个，向外是 centrifugal。
+cesspit
+核心：化粪坑：没有下水道时把污水粪便存起来的坑，也说
+cesspool。比喻义常用而且语气很重：说一个地方或圈子烂透
+了。可数。
+① The cesspit needs emptying twice a year and costs a fortune.
+= 化粪坑一年清两次，花钱不少。
+a cesspit = 化粪坑
+② The town became a cesspit of crime within a single decade.
+= 十年之间，那座城就成了罪恶的污池。
+a cesspit of = ……的污秽渊薮
+③ Rain overflowed the cesspit and ran down into the lane.
+= 雨水把化粪坑冲溢，顺着小路淌了下去。
+overflow = 溢出
+构词：可能出自表示沉淀池的旧词
+注意语域：比喻义语气很重。
 
-centrist
-核心：政治上的中间派：既不靠左也不靠右的那一类人与主张。
-名词与形容词同形。可数。
-① She is a centrist by conviction and by temperament as well.
-= 她是中间派，出于信念，也出于性情。
-a centrist = 中间派
-② The party took a centrist line and pleased nobody at either end.
-= 那个党走中间路线，两头都没讨好。
-a centrist line = 中间路线
-③ Centrists lost seats to both sides in the same evening.
-= 同一个晚上，中间派两头都丢了席位。
-lose seats to = 把席位输给……
-构词：由表示中心的那个词加表示人的后缀
-注意语域：本身中性，但左右两边用它时可能带贬。
+cetacean
+核心：鲸类：鲸、海豚、鼠海豚这一类完全水生的哺乳动物。
+名词与形容词同形。动物学用词。可数。
+① Whales and dolphins are cetaceans and breathe air like we do.
+= 鲸和海豚都属鲸类，跟人一样呼吸空气。
+a cetacean = 鲸类动物
+② Cetacean numbers are monitored from the air each summer.
+= 每年夏天都从空中监测鲸类的数量。
+be monitored = 受到监测
+③ The cetacean surfaced to breathe and went down again at once.
+= 那头鲸类浮上来换气，随即又潜了下去。
+surface = 浮出水面
+构词：希腊语 ketos 海怪、大鱼
+注意用法：动物学里的分类词。
 
-centurion
-核心：古罗马军队里的百夫长：统领约一百人的军官。历史
-语境里用。可数。
-① A centurion commanded the unit and answered for every man in it.
-= 一名百夫长统领那支队伍，队里每个人他都要担责。
-a centurion = 百夫长
-② Centurions rose from the ranks and stayed with the army for life.
-= 百夫长是从士兵里升上来的，一辈子留在军中。
-rise from the ranks = 从士兵升上来
-③ The centurion wore his crest sideways so the men could find him.
-= 那名百夫长把盔缨横着戴，好让士兵认得出他。
-crest = 盔缨
-构词：拉丁语 centurio，出自 centum 一百
-注意用法：罗马史里的词。
+ceviche
+核心：拉美的一道生鱼菜：切块的生鱼用青柠汁腌到发白，
+加洋葱、辣椒与香菜，秘鲁最有名。也拼 seviche。不可数。
+① Ceviche is cured in lime juice for about fifteen minutes.
+= 那道菜用青柠汁腌大约十五分钟。
+ceviche = 青柠腌生鱼
+② Peruvian ceviche uses fresh fish only and is eaten at midday.
+= 秘鲁做那道菜只用鲜鱼，而且中午吃。
+fresh = 新鲜的
+③ They ordered ceviche to start and finished it before the bread came.
+= 他们头一道点了腌生鱼，面包还没上就吃完了。
+to start = 作为头道菜
+构词：西班牙语 ceviche，来历有几种说法
+注意拼写：也写作 seviche。
 
-century
-核心：一百年，也指世纪。注意世纪的编号比年份的头两位
-大一：一九零零年代属于二十世纪。板球里 a century 指
-单人一局打满一百分。复数 centuries。可数。
-① The church dates from the twelfth century and was rebuilt in the last century.
-= 这座教堂建于十二世纪，上个世纪重建过。
-the twelfth century = 十二世纪
-the last century = 上个世纪
-② Centuries passed before it was found in a cupboard in a vicarage.
-= 几百年过去，它才在一间牧师住宅的橱柜里被发现。
-centuries = 好几百年
-③ He scored a century before lunch and was out for the same score.
-= 他午饭前打出一百分，出局时还是这个分数。
-a century = 板球单局一百分
-④ At the turn of the century the town doubled in size and then emptied.
-= 世纪之交时这个镇子扩大了一倍，后来又空了。
-the turn of the century = 世纪之交
-⑤ It took him half a century to finish a book of about ninety pages.
-= 一本约九十页的书，他写了半个世纪。
-half a century = 半个世纪
-构词：拉丁语 centuria 一百人的单位
-注意用法：世纪编号比年份头两位大一。
+cf.
+核心：书面缩写：让读者拿另一处来对照着看，写在括号或
+注释里。是拉丁语「比较」一词的缩写，所以带句点。跟 see
+不同：see 是叫人去看，它是叫人去比。
+① See page ten; cf. the appendix for the fuller figures.
+= 见第十页；更全的数字参看附录。
+cf. = 参看、对照
+② The footnote reads cf. Smith and gives no page number.
+= 那条脚注写着参看史密斯，却没给页码。
+footnote = 脚注
+③ He wrote cf. beside a paragraph that flatly contradicted his own.
+= 他在一段跟自己说法正相反的文字旁写了个参看的符号。
+comparison = 对照
+构词：拉丁语 confer 比较 的缩写
+注意用法：小写带句点，只出现在书面注释里。
 
-cep
-核心：牛肝菌：一种可食用野蘑菇，菌盖厚、菌柄粗，秋天
-林中采，晒干味道更浓。意大利语说法是 porcini。可数。
-① A cep has a fat white stalk and a cap like a bun.
-= 牛肝菌的柄又白又粗，菌盖像个圆面包。
-a cep = 牛肝菌
-② Dried ceps have a strong flavour and need soaking first.
-= 干牛肝菌味道很浓，得先泡开。
-flavour = 味道
-③ Slice the ceps thickly and fry them in butter alone.
-= 牛肝菌切厚片，只用黄油煎。
-slice = 切片
-构词：法语 cepe，出自拉丁语的树干
-注意用法：菜谱里也常写作 porcini。
+ch.
+核心：书面缩写：章，指书里的第几章，后面接数字。只出现
+在引注、目录、索引里。
+① The quotation is from ch. 4 and is quoted wrongly everywhere else.
+= 那句引文出自第四章，别处引的都是错的。
+ch. = 章
+② Read ch. 1 before class and bring one question with you.
+= 上课前读第一章，带一个问题来。
+③ The index gives ch. and page for every name mentioned.
+= 索引给出提到的每个名字所在的章与页。
+index = 索引
+构词：chapter 章 的缩写
+注意用法：只用在引注里，后接数字。
 
-cephalic
-核心：头的、头部的：解剖与动物学的形容词。术语。
-① The cephalic end develops first and the tail end lags behind.
-= 头端先发育，尾端跟在后面。
-the cephalic end = 头端
-② Cephalic veins run up the arm just under the skin.
-= 头静脉紧贴皮下沿手臂上行。
-cephalic vein = 头静脉
-③ Cephalic measurements were recorded for every skull in the collection.
-= 馆藏的每一具颅骨都记录了头部尺寸。
-measurement = 尺寸测量
-构词：希腊语 kephale 头
-注意用法：解剖与动物学的术语。
+cha-cha
+核心：恰恰舞：起于古巴的双人舞，节奏是一二三加两小步，
+名字就是踩那两小步的声音。也说 cha-cha-cha。动词是跳
+这个舞。可数。
+① They danced the cha-cha badly and enjoyed it enormously.
+= 他们恰恰跳得很糟，玩得却极开心。
+the cha-cha = 恰恰舞
+② The band struck up a cha-cha and half the room stood up.
+= 乐队奏起一支恰恰，半屋子人都站了起来。
+strike up = 奏起
+③ She cha-chas better than he does and lets him lead anyway.
+= 她恰恰跳得比他好，还是让他领。
+cha-cha = 跳恰恰
+构词：拟声，模仿舞步的两小步
+注意用法：也说 cha-cha-cha。
 
-cephalopod
-核心：头足类：章鱼、乌贼、鱿鱼、鹦鹉螺这一类软体动物，
-足长在头上、有墨囊、多数能变色。可数。
-① Octopuses are cephalopods and so is the nautilus in its shell.
-= 章鱼属头足类，壳里那只鹦鹉螺也是。
-a cephalopod = 头足类动物
-② Cephalopods change colour fast enough to signal to each other.
-= 头足类变色快到能互相打信号。
-change colour = 变色
-③ The cephalopod squeezed through a gap the width of its beak.
-= 那只头足类从只有喙那么宽的缝里挤了过去。
-squeeze through = 从……挤过
-构词：希腊语 kephale 头 加 pous 足
-注意用法：字面就是脚长在头上。
+cha-ching
+核心：拟声词：收银机响的那一声，用来表示钱进账了。
+口语与网络上多带调侃，说某件事一下就来钱。不可数。
+① Another sale, cha-ching, and the day had barely started.
+= 又卖出一笔，进账了，这天才刚开始。
+cha-ching = 钱进账的那一声
+② He said cha-ching and grinned at the total on the screen.
+= 他看着屏幕上的总数，说了声进账，咧嘴笑了。
+grin = 咧嘴笑
+③ Every click is a cha-ching for them and costs you nothing yet.
+= 每次点击对他们都是一笔钱，你眼下还不用付。
+click = 点击
+构词：拟声，模仿收银机的响声
+注意语域：口语与网络，带调侃。
 
-ceramic
-核心：陶瓷的：黏土烧成的材料与制品。单数指材料，复数
-ceramics 既指陶瓷器，也指制陶这门手艺。工业上也说高温
-陶瓷部件。
-① The tiles are ceramic and crack if a heavy pan is dropped.
-= 那些砖是陶瓷的，掉个重锅就裂。
-ceramic = 陶瓷的
-② She studies ceramics and fires everything twice.
-= 她学的是陶艺，每件都烧两遍。
-ceramics = 陶艺；陶瓷器
-③ Ceramic brakes resist heat that would boil ordinary fluid.
-= 陶瓷刹车耐得住能把普通刹车油烧开的高温。
-ceramic brakes = 陶瓷刹车
-构词：希腊语 keramos 陶土
-注意用法：说手艺与作品时用复数。
+Chablis
+核心：法国勃艮第北端产的白葡萄酒，用霞多丽葡萄酿，不过桶，
+以干爽带矿石味著称。词尾的 s 不发音。不可数，说一瓶时可数。
+① They ordered a bottle of Chablis and drank it with the oysters.
+= 他们点了瓶夏布利，就着生蚝喝。
+a bottle of Chablis = 一瓶夏布利
+② Chablis never sees an oak barrel, which is what keeps it so sharp.
+= 夏布利从不过橡木桶，那股锐劲就是这么来的。
+Chablis = 夏布利白葡萄酒
+构词：勃艮第那个小镇的地名
+注意读音：词尾的 s 不发音。
 
-cereal
-核心：两支。一是谷物：小麦、稻、玉米这类作物与它们的
-籽实。二是早餐麦片：泡牛奶吃的那种加工谷物食品。
-① Cereal crops need dry weather at harvest more than at any other time.
-= 谷物在收割时比任何时候都更需要天干。
-cereal crops = 谷类作物
-② She eats cereal for breakfast and the same brand every year.
-= 她早餐吃麦片，年年吃同一个牌子。
-cereal = 早餐麦片
-③ Cereals are the world's staple food and three of them feed most of it.
-= 谷物是全世界的主食，其中三种养活了大半人口。
-cereals = 谷物
-构词：罗马谷神 Ceres 的名字
-注意别混：serial 是连续的，跟它同音不同拼。
+chaconne
+核心：巴洛克时期的一种变奏曲式：低音反复走同一个短句，
+上面不断变化，跟 passacaglia 很接近。可数。
+① The chaconne closes the suite and runs to fifteen minutes.
+= 恰空是那套组曲的收尾，长达十五分钟。
+a chaconne = 恰空（变奏曲式）
+② A chaconne repeats a bass line while everything above it changes.
+= 恰空反复走同一条低音线，上面则不断变化。
+repeat = 反复
+③ She recorded the famous chaconne on a gut-strung violin.
+= 她用一把肠弦小提琴录了那首著名的恰空。
+record = 录音
+构词：法语 chaconne，转自西班牙语
+注意用法：乐曲名与乐评里用。
 
-cerebellum
-核心：小脑：脑后下方那一块，管协调、平衡与动作的精细
-调节。复数 cerebellums 或 cerebella。可数。
-① The cerebellum coordinates movement without any conscious effort.
-= 小脑协调动作，全不用有意去想。
-the cerebellum = 小脑
-② Damage to the cerebellum affects balance long before anything else.
-= 小脑受损，最先出问题的是平衡。
-affect = 影响
-③ The cerebellum sits below and behind the rest of the brain.
-= 小脑位于脑其余部分的下后方。
-sit below = 位于……下方
-构词：拉丁语 cerebellum 小的脑
-注意别混：cerebrum 是大脑，cerebellum 是小脑。
+chad
+核心：打孔留下的小纸屑：打卡机、穿孔卡片、旧式选票打孔
+后掉下来的那些碎片。hanging chad 指挂着没掉干净的那一
+片，美国计票争议之后成了固定说法。不可数。
+① The floor was covered in chad by the end of the count.
+= 点票结束时，地上一片打孔纸屑。
+chad = 打孔纸屑
+② A hanging chad spoiled the ballot and started a court case.
+= 一片没掉干净的纸屑毁了那张选票，还闹上了法庭。
+a hanging chad = 挂着没掉的打孔纸屑
+③ Clear the chad from the punch before it jams again.
+= 趁打孔机还没再卡住，把里面的纸屑清掉。
+clear from = 从……清除
+构词：来历不确定
+注意用法：多出现在计票与穿孔卡片的语境里。
 
-cerebral
-核心：两支。一是解剖上的：脑的，cerebral palsy 是
-脑性瘫痪。二是形容人或作品重理智不重感情、偏思辨，
-有时带一点嫌它不动人的口气。
-① He had a cerebral haemorrhage at fifty-one and was back at work by autumn.
-= 他五十一岁时脑出血，秋天就回去上班了。
-cerebral haemorrhage = 脑出血
-② Cerebral palsy affects movement and has nothing to do with intelligence.
-= 脑性瘫痪影响的是运动功能，跟智力无关。
-cerebral palsy = 脑性瘫痪
-③ Her films are rather cerebral and empty the cinema by the interval.
-= 她的片子偏思辨，中场休息时影厅就空了。
-cerebral = 重理智不重感情的
-④ Each cerebral hemisphere controls one side of the body, and the wiring crosses over.
-= 每个大脑半球管身体的一侧，神经在中间交叉了过去。
-a cerebral hemisphere = 大脑半球
-构词：拉丁语 cerebrum 脑
-注意语域：第二支有时带嫌它不动人的意思。
+Chadian
+核心：乍得的、乍得人。常规的 -ian 构词。可数。
+① A Chadian officer led the patrol and spoke three languages to it.
+= 一名乍得军官带队巡逻，用三种语言跟队员讲话。
+a Chadian = 乍得人
+② Chadian oil goes out through a pipeline that crosses another country.
+= 乍得的石油靠一条穿过邻国的管道外输。
+Chadian oil = 乍得的石油
+构词：国名 Chad 加 -ian
+注意拼写：国名只有四个字母，派生时直接加后缀。
 
-cerebrum
-核心：大脑：脑最大的那一部分，分左右两半球，管思维、
-感觉与随意运动。复数 cerebrums 或 cerebra。可数。
-① The cerebrum has two hemispheres joined by a thick band of fibres.
-= 大脑分两个半球，由一束粗纤维连着。
-the cerebrum = 大脑
-② Thought happens in the cerebrum and takes a surprising amount of sugar.
-= 思维发生在大脑里，耗掉的糖多得出人意料。
-happen in = 发生在……
-③ The cerebrum is folded to fit three times its area into the skull.
-= 大脑折叠起来，才把三倍的面积塞进颅腔。
-be folded = 折叠起来
-构词：拉丁语 cerebrum 脑
-注意别混：小脑是 cerebellum。
+chador
+核心：伊朗等地一些穆斯林女性穿的黑色大罩袍：从头披到脚，
+前面敞开、用手拢住，不遮脸。也拼 chadar。可数。
+① She wore a black chador and pinned it under her chin.
+= 她穿着黑色罩袍，在下巴底下别住。
+a chador = 黑色大罩袍
+② A chador covers the hair and body but leaves the face clear.
+= 罩袍遮住头发和身体，脸是露着的。
+cover = 遮住
+③ Chadors are held closed by hand, which keeps one arm busy.
+= 罩袍是用手拢住的，一只手就腾不出来。
+hold closed = 拢住
+构词：波斯语 chadar 帐幕、罩布
+注意别混：它不遮脸，跟遮面的那几种服饰不同。
 
-ceremonial
-核心：仪式的、礼仪上的：说服装、场合、职务。常指只有
-礼仪意义、没有实权的那一层。副词 ceremonially。也作
-名词指整套仪节。
-① The role is purely ceremonial and carries no vote at all.
-= 那个职位纯属虚位，一票表决权也没有。
-purely ceremonial = 纯属礼仪性的
-② He wore ceremonial dress that had not been out of its box for years.
-= 他穿的礼服，好些年没出过箱子。
-ceremonial dress = 礼服
-③ The flag was ceremonially raised at eight and lowered at dusk.
-= 旗帜八点按礼仪升起，黄昏降下。
-ceremonially = 按仪式地
-构词：由表示仪式的那个词加形容词后缀
-注意别混：ceremonious 说人拘礼，不是说场合。
+chafe
+核心：两支，一实一虚。一是磨：皮肤被硬东西反复摩擦而
+发红发疼。二是心里不耐烦：chafe at 或 chafe against
+是受不了约束、憋着火，这一支从摩擦生热比喻来。
+① The collar chafed his neck raw by the end of the parade.
+= 阅兵走完，衣领已经把他脖子磨破了。
+chafe = 磨疼、磨破
+② She chafed at the delay and rang the office twice an hour.
+= 她对拖延憋着火，每小时给办公室打两次电话。
+chafe at = 因……而不耐烦
+③ Young officers chafed against rules written for a different war.
+= 那些规矩是为另一场战争写的，年轻军官受不了。
+chafe against = 受不了……的约束
+构词：古法语 chaufer 加热，摩擦生热
+注意用法：第二支是比喻义，很常读到。
 
-ceremonious
-核心：说人或做法过于讲究礼数、郑重其事，常带一点嫌它
-做作的意思。副词 ceremoniously。
-① He gave a ceremonious bow that took the room by surprise.
-= 他郑重其事地鞠了一躬，满屋子人都愣住了。
-a ceremonious bow = 郑重其事的鞠躬
-② She ceremoniously handed over the key to a shed.
-= 她一本正经地把一间棚子的钥匙交了过去。
-ceremoniously = 郑重其事地
-③ Their manner was stiff and ceremonious for the whole first hour.
-= 头一个小时里，他们的态度一直僵硬而拘礼。
-ceremonious = 拘礼的
-构词：由表示仪式的那个词加形容词后缀
-注意别混：ceremonial 说场合，这个说态度。
+chaff
+核心：两支。一是谷壳：打谷时扬出去的那层壳与碎秸，习语
+separate the wheat from the chaff 是分清优劣。二是军事上
+的干扰箔条：飞机撒出去骗雷达的金属碎片。苍头燕雀
+chaffinch 因爱在谷壳堆里啄食得名。不可数。
+① Wind blew the chaff away and left a heap of clean grain on the sheet.
+= 风把谷壳吹走，布上留下一堆干净的谷粒。
+chaff = 谷壳
+② Separate the wheat from the chaff before you show any of it to the committee.
+= 拿去给委员会看之前，先把好的与不中用的分开。
+separate the wheat from the chaff = 分清优劣
+③ The jet released chaff and the missile followed the cloud instead.
+= 那架飞机撒出干扰箔条，导弹追着那团云去了。
+chaff = 雷达干扰箔条
+④ A chaffinch sang on the wire from six in the morning until somebody shouted.
+= 一只苍头燕雀从早上六点在电线上唱，直到有人吼了一声。
+a chaffinch = 苍头燕雀
+构词：古英语 ceaf 谷壳
+注意用法：那个分清优劣的习语很高频。
 
-ceremony
-核心：两支。一是仪式：婚礼、毕业、颁奖这类按规矩举行的
-场合，可数。二是礼节这件事本身，不可数：stand on
-ceremony 是拘礼客套，without ceremony 是不讲客套、
-干脆利落。
-① The ceremony lasted an hour and the speeches took most of it.
-= 仪式进行了一个钟头，大半时间在致辞。
-a ceremony = 仪式
-② Don't stand on ceremony; help yourself to whatever is left.
-= 别客气了，剩下什么随便拿。
-stand on ceremony = 拘礼客套
-③ He was dismissed without ceremony after eleven years in the job.
-= 干了十一年，他被毫无客套地解雇了。
-without ceremony = 不讲客套地
-④ The master of ceremonies introduced her by the wrong name twice.
-= 司仪两次把她的名字介绍错了。
-the master of ceremonies = 司仪
-⑤ The opening ceremony drew millions of viewers and overran by an hour.
-= 开幕式吸引了数百万观众，超时了一个钟头。
-an opening ceremony = 开幕式
-⑥ A graduation ceremony is held each June in a marquee on the lawn.
-= 每年六月在草坪的大帐篷里举行毕业典礼。
-a graduation ceremony = 毕业典礼
-⑦ The closing ceremony ran late and half the athletes had already flown home.
-= 闭幕式拖了很久，一半运动员已经飞回国了。
-a closing ceremony = 闭幕式
-构词：拉丁语 caerimonia 神圣仪节
-注意用法：两个习语都很常读到。
+chagrin
+核心：懊恼：事情没成、或被人比下去而觉得难为情又不甘。
+最常出现在 to somebody's chagrin 这个说法里。形容词
+chagrined。书面语，不可数。
+① To his chagrin, she won the seat he had held for twenty years.
+= 让他懊恼的是，他守了二十年的席位被她赢走了。
+to somebody's chagrin = 让某人懊恼的是
+② She hid her chagrin and congratulated him in front of everyone.
+= 她把懊恼藏起来，当着众人的面向他道贺。
+hide = 藏起
+③ He looked chagrined for about a minute and then laughed.
+= 他难为情了约莫一分钟，接着就笑了。
+chagrined = 懊恼难为情的
+构词：法语 chagrin 忧烦
+注意语域：书面，不可数。
 
-cerise
-核心：一种偏紫的深樱桃红。法语的樱桃，多用在时装与室内
-配色里。不可数。
-① The dress was deep cerise and lit up the whole photograph.
-= 那条裙子是深樱桃红，把整张照片都提亮了。
-cerise = 樱桃红
-② Cerise and grey go well together in a room with little light.
-= 光线不足的屋子里，樱桃红配灰很好看。
-go well together = 很搭
-③ She chose cerise for the walls and regretted it by Christmas.
-= 她给墙选了樱桃红，到圣诞就后悔了。
-choose = 选
-构词：法语 cerise 樱桃
-注意用法：时装与配色语境里用。
+chai
+核心：加了香料的甜奶茶，源自南亚。chai latte 是咖啡店里
+那种加奶泡的版本。这个词进英语后专指这种香料奶茶，不是
+泛指茶。不可数。
+① She ordered a chai latte and asked for half the syrup.
+= 她点了杯香料奶茶，要求糖浆减半。
+a chai latte = 香料奶茶
+② Chai is brewed with spices and boiled with the milk together.
+= 那种茶加香料煮，牛奶也一起下锅。
+be brewed with = 加……煮
+③ Street stalls sell chai all day in small glass cups.
+= 路边摊整天用小玻璃杯卖香料奶茶。
+stall = 摊子
+构词：印地语 chai 茶，更早源自汉语
+注意用法：英语里专指香料奶茶。
 
-cerium
-核心：一种银灰色的稀土金属，符号 Ce，是稀土里最常见的
-一种，用在打火石、催化剂与抛光粉里。不可数。
-① Cerium is the commonest rare earth and is not rare at all.
-= 铈是最常见的稀土，其实一点也不稀有。
-cerium = 铈
-② Lighter flints contain cerium and spark when they are struck.
-= 打火石里含铈，一擦就迸火星。
-contain = 含有
-③ Cerium oxide polishes glass down to an optical finish.
-= 氧化铈能把玻璃抛到光学级的光洁度。
-polish = 抛光
-构词：小行星 Ceres 的名字
-注意用法：材料与化学文字里读到。
+chain
+核心：链：一环扣一环的那串。分支都从连成一串来：一是
+实物的链条与项链；二是连锁店与连锁企业；三是一连串的
+事件与因果，the food chain 是食物链；四是化学上的分子
+链。动词是用链锁住。习语 chain reaction 是连锁反应，
+chain-smoke 是一支接一支地抽。可数。
+① The gate is fastened with a chain that anyone could lift over the post.
+= 大门用一条链子拴着，谁都能把它从柱子上提下来。
+a chain = 链条
+② She wore a gold chain that had belonged to a grandmother she never met.
+= 她戴着一条金链子，是没见过面的祖母留下的。
+a gold chain = 金项链
+③ It is part of a hotel chain and looks identical in nine countries.
+= 这家酒店属于一个连锁集团，在九个国家长得一模一样。
+a chain = 连锁企业
+④ A chain of events led to the crash and none of them looked serious alone.
+= 一连串事件导致了这场事故，单看哪一件都不严重。
+a chain of events = 一连串事件
+⑤ Sharks sit at the top of the food chain and are killed for soup.
+= 鲨鱼处在食物链顶端，却被捕来做汤。
+the food chain = 食物链
+⑥ The dog was chained to a post for years before anyone reported it.
+= 那条狗被拴在柱子上多年，才有人举报。
+be chained to = 被链在……上
+⑦ One failure set off a chain reaction that took out three substations.
+= 一处故障引发连锁反应，烧掉了三个变电站。
+a chain reaction = 连锁反应
+⑧ He chain-smokes when writing and opens the window for nobody.
+= 他写东西时一根接一根地抽烟，谁来也不开窗。
+chain-smoke = 一支接一支地抽烟
+⑨ Prisoners worked in a chain gang on roads that are still in use.
+= 犯人在锁链劳役队里修的路，至今还在用。
+a chain gang = 锁在一起劳作的囚犯队
+⑩ Ignore the chain letter, whatever it promises will happen in nine days.
+= 别理那封连锁信，不管它说九天后会怎样。
+a chain letter = 连锁信
+⑪ A chain-link fence ran round the yard and kept nothing out.
+= 院子四周围着铁丝网，什么也没挡住。
+a chain-link fence = 菱形铁丝网围栏
+⑫ Knights wore chain mail that weighed more than the man inside it.
+= 骑士穿的锁子甲，比穿甲的人还重。
+chain mail = 锁子甲
+⑬ He is a chain-smoker and has been threatening to stop since 1994.
+= 他烟不离手，从一九九四年就嚷着要戒。
+a chain-smoker = 抽烟不断的人
+⑭ Every chain store looks the same and sells the same eleven things.
+= 每家连锁店都长一个样，卖的是同样那十一种东西。
+a chain store = 连锁店
+构词：拉丁语 catena 链
+注意用法：连锁企业与一连串事件那两支最常读到。
 
-cert
-核心：英式口语：铁定会发生的事，几乎只用在 a dead cert
-这个说法里，赛马与打赌语境最多。可数。
-① He is a dead cert for the job and everyone but he knows it.
-= 那个职位铁定是他的，除了他自己人人都知道。
-a dead cert = 铁定的事、稳赢的
-② The favourite looked a cert until the ground turned soft.
-= 场地变软之前，那匹热门马看着是稳的。
-look a cert = 看着十拿九稳
-③ Nothing is a cert in politics eight weeks out from a vote.
-= 离投票还有八周，政治上没有什么是铁定的。
-构词：由表示确定性的那个词口语截短
-注意语域：英式口语，多见于赌马。
+chainsaw
+核心：链锯：一圈带齿的链条绕着导板高速转，用来伐木、
+锯枝。可数。
+① He cut the trunk with a chainsaw in four passes.
+= 他用链锯分四刀锯断了树干。
+a chainsaw = 链锯
+② Chainsaws need ear protection and trousers that will stop the chain.
+= 用链锯要戴护耳，还要穿挡得住链条的裤子。
+ear protection = 护耳
+③ The chainsaw stalled halfway through and would not start again.
+= 链锯锯到一半熄了火，再没打着。
+stall = 熄火
+构词：由链与锯两个词拼成
+注意用法：伐木与园艺里的工具。

@@ -1,48 +1,3 @@
-eyewash
-核心：两支。一是洗眼液；二是（非正式，略旧）糊弄人的空话、装样子的东西。
-① The first-aid kit has eyewash in a bottle that expired in 2019.
-= 急救箱里有一瓶洗眼液，2019 年就过期了。
-eyewash = 洗眼液
-② The apology was eyewash and the second letter admitted as much.
-= 那份道歉是糊弄人的空话，第二封信自己承认了。
-eyewash = 糊弄人的空话
-
-eyewear
-核心：（商业用语）眼镜类产品：眼镜、太阳镜、护目镜的总称。不可数。
-① The shop sells eyewear and hearing aids and repairs neither of them.
-= 那家店卖眼镜也卖助听器，两样都不修。
-eyewear = 眼镜类产品
-② Protective eyewear is required past the yellow line on the floor.
-= 过了地上那条黄线，必须戴护目镜。
-protective eyewear = 护目镜
-
-eyewitness
-核心：目击者：亲眼看见事情发生的人，常说 an eyewitness account。可数。
-① An eyewitness account changed the case and arrived eleven months late.
-= 一份目击者陈述改变了案情，却晚到了十一个月。
-an eyewitness account = 目击者陈述
-② Two eyewitnesses remember the same car in different colours.
-= 两名目击者记得的是同一辆车，颜色却不一样。
-an eyewitness = 目击者
-
-eyrie
-核心：（英式）鹰巢：猛禽筑在高崖上的巢；引申指居高临下的处所。美式拼 aerie。
-① The eyrie is on a ledge that takes two hours to reach on foot.
-= 那个鹰巢在一处岩台上，走路要两个钟头才到。
-an eyrie = 鹰巢
-② His office is an eyrie above the yard and he sees every late arrival.
-= 他的办公室高踞在场院上方，谁迟到都看得见。
-an eyrie = 居高临下的处所
-
-fa
-核心：（音乐）唱名的第四音：do re mi fa 里的那个 fa，英式也拼 fah。不可数。
-① The choir came in a semitone under fa and the organist covered for them.
-= 合唱队进来时比 fa 低了半音，风琴手替他们圆了场。
-fa = 唱名第四音
-② Children learn do re mi fa long before they learn to read a stave.
-= 孩子学会唱名，比学会看五线谱早得多。
-do re mi fa = 唱名前四音
-
 fab
 核心：（英式，非正式，略旧）棒极了：fabulous 的截短形，一股六十年代的口气。
 ① The holiday was fab and the photographs are all of the same wall.
@@ -269,3 +224,44 @@ a facia = 仪表板
 ② The new facia went up before the shop had anything to sell.
 = 新招牌板挂上去的时候，店里还没有东西卖。
 a shop facia = 店铺招牌板
+
+facial
+核心：两支。一是形容词，面部的：a facial expression、facial hair；
+二是名词，面部护理。副词 facially。
+① Her facial expression did not change and the hand on the table did.
+= 她的面部表情没变，桌上那只手变了。
+a facial expression = 面部表情
+facial hair = 面部毛发
+② She books a facial before every wedding and sleeps through most of it.
+= 每逢婚礼她都先约个面部护理，多半时间都睡过去了。
+have a facial = 做面部护理
+
+facially
+核心：从面部看、长相上：多见于医学描述与人物辨认。
+① Facially the twins are identical and their walk gives them away.
+= 两个双胞胎长相一模一样，走路的样子露了馅。
+facially identical = 长相完全相同
+② The injury is facially obvious and does not show on the scan.
+= 那处伤在脸上一眼就见，扫描片上却看不出来。
+facially = 从面部看
+构词：facial 加 -ly
+
+facile
+核心：（贬，正式）流于表面的、来得太轻巧的：说论证或结论没有分量；
+也说技艺娴熟得近乎油滑。
+① The article offers a facile explanation and two very good photographs.
+= 那篇文章给了一个浮泛的解释，外加两张极好的照片。
+a facile explanation = 浮泛的解释
+② A facile comparison between the two wars survived a whole term of teaching.
+= 把那两场战争草率类比的说法，在课上讲了整整一个学期。
+facile = 流于表面的
+
+facilitate
+核心：（正式）促进、使便利：让事情办起来更顺，主语多是措施或安排。及物。
+名词 facilitation 与 facilitator。
+① A shuttle bus facilitates the journey and nobody has told the passengers.
+= 一趟接驳车让这段路好走多了，却没人告诉乘客。
+facilitate something = 促成某事
+② The grant is meant to facilitate research and pays mostly for furniture.
+= 那笔拨款本意是助力研究，花掉的大半是家具钱。
+facilitate research = 助力研究

@@ -1,573 +1,520 @@
-colander
-核心：滤盆：底与壁上有许多小孔的盆，用来沥干煮好的面
-与洗过的菜。可数。
-① Drain the pasta in a colander and keep a cup of the water.
-= 面在滤盆里沥干，留一杯面汤。
-a colander = 滤盆
-② Rinse the greens in the colander and shake them properly dry.
-= 青菜在滤盆里冲一下，好好甩干。
-rinse = 冲洗
-③ The old saucepan lid is full of holes like a colander.
-= 那个旧锅盖孔多得像个滤盆。
-be full of holes = 满是孔
-构词：拉丁语 colare 过滤
-注意别混：sieve 孔更细，多用来筛粉。
+colobus
+核心：疣猴：非洲的一类树栖猴，尾巴长、拇指退化，黑白毛
+的那种最常见。单复数同形。可数。
+① A colobus leapt between trees with its white tail streaming behind.
+= 一只疣猴在树间跳跃，白尾巴在身后拖成一条线。
+a colobus = 疣猴
+② Colobus feed mostly on leaves and have a stomach built for it.
+= 疣猴主要吃叶子，胃就是为这个长的。
+feed on = 以……为食
+构词：希腊语 kolobos 截短的，因拇指短
+注意用法：单复数同形。
 
-colcannon
-核心：爱尔兰的一道家常菜：土豆泥拌进煮软的甘蓝或卷心菜，
-再加黄油与葱，万圣节前后常吃。不可数。
-① She mashed the potatoes and stirred the kale through for colcannon.
-= 她把土豆压成泥，拌进羽衣甘蓝做成那道爱尔兰家常菜。
-colcannon = 爱尔兰土豆拌甘蓝
-② Butter melts into the colcannon and pools in the middle.
-= 黄油化进那道土豆泥里，在正中汪成一小滩。
-melt into = 化进……
-构词：爱尔兰语与英语混成
-注意用法：爱尔兰家常菜名。
+cologne
+核心：淡香水：香精浓度低于 perfume 的那一类，本指德国
+科隆产的那种配方，全称 eau de cologne。今天泛指男用
+淡香水。不可数。
+① He wears too much cologne and you can tell which lift he took.
+= 他香水抹得太多，他坐过哪部电梯都闻得出来。
+cologne = 淡香水
+② A bottle of cologne lasts him a year and a half.
+= 一瓶淡香水他用一年半。
+eau de cologne = 科隆香水
+③ Cologne is lighter than perfume and wears off by lunchtime.
+= 淡香水比香精淡，到午饭时就散了。
+lighter than = 比……淡
+构词：德国城市科隆的名字
+注意别混：perfume 浓度高，这一类淡得多。
 
-cold
-核心：五支。一是冷的。二是感冒，这一支可数。三是待人
-冷淡的。四是名词的寒冷：out in the cold 是被撂在一边
-不受理睬。五是引申出的一族固定说法，都很高频：
-in cold blood 冷酷有预谋地、go cold turkey 骤然戒断、
-the cold shoulder 故意冷落、the cold war 冷战、
-a cold call 没打招呼的推销电话。副词 coldly，名词
-coldness。
-① The water was ice cold and nobody stayed in for more than a minute.
-= 水冰凉，谁也没在里面待过一分钟。
-cold = 冷的
-② She caught a cold on the train and passed it round the whole office.
-= 她在火车上着了凉，把感冒传遍了整个办公室。
-catch a cold = 感冒
-③ He got a cold reception from people who had once queued to meet him.
-= 曾经排队想见他的人，如今冷淡待他。
-a cold reception = 冷淡的接待
-④ They left him out in the cold when the new committee was formed.
-= 新委员会组建时，他们把他撂在了一边。
-out in the cold = 被排在外面
-⑤ It was murder in cold blood, committed in front of two witnesses.
-= 那是当着两名证人的面下手的冷血凶杀。
-in cold blood = 冷酷地、有预谋地
-⑥ He quit cold turkey after twenty years and never touched it again.
-= 抽了二十年，他说戒就戒，再没碰过。
-go cold turkey = 骤然停掉不再用
-⑦ She gave him the cold shoulder for a fortnight without explaining why.
-= 她冷落了他两个星期，也不说为什么。
-give somebody the cold shoulder = 故意冷落某人
-⑧ The cold war shaped that generation more than any of them admit.
-= 冷战对那一代人的塑造，超过他们自己承认的。
-the cold war = 冷战
-⑨ Nobody likes a cold call, least of all during the evening meal.
-= 谁也不喜欢陌生推销电话，晚饭时候更是如此。
-a cold call = 没打招呼的推销电话
-⑩ She answered coldly and turned back to what she had been reading.
-= 她冷冷地答了一句，又回头看她原来在读的东西。
-coldly = 冷淡地
-⑪ The coldness in his voice was clear even down a bad line.
-= 就算线路不好，他声音里的冷淡也听得出来。
-coldness = 寒冷；冷淡
-⑫ She has a bad cold and should not be handling food at all.
-= 她感冒得厉害，根本不该碰食物。
-have a cold = 感冒
-⑬ He got cold feet the night before and rang to call it off.
-= 前一晚他打了退堂鼓，打电话取消了。
-get cold feet = 临阵退缩
-⑭ It was a cold-blooded killing that shocked even the investigating officers.
-= 那是一起连办案警员都为之震惊的冷血凶杀。
-cold-blooded = 冷血的、不动声色的；cold-bloodedly = 冷血地
-字面指爬虫类的变温，但比喻义才是常用的那一个。
-⑮ Her cold-hearted refusal shocked everyone who had spoken up for him.
-= 她那句冷冰冰的拒绝，让所有替他说过话的人都吃了一惊。
-cold-hearted = 心冷、不体恤人的
-跟 cold-blooded 分工：那个说的是下手时不动声色，这个说的是对人没有心肠。
-⑯ The firm has banned cold-calling and lost a third of its sales.
-= 那家公司禁了陌生推销电话，销售掉了三分之一。
-cold-calling = 陌生拜访推销（这种做法）
-跟这一条里的 a cold call 同一支：call 是那一通电话，calling 是这门做法。
-⑰ The murder is now a cold case that only one officer still works on.
-= 那起凶杀如今成了悬案，只剩一名警员还在查。
-a cold case = 搁置多年的悬案
-警务与犯罪剧里的常用词，说线索断了、案子放凉了。
-⑱ He paid in cold cash and refused to give a name for the receipt.
-= 他付的是现钞，也不肯留名开收据。
-cold cash = 现钞、真金白银（美式）
-英式说 hard cash；cold 在这里是「实打实、不掺虚的」。
-⑲ That was cold comfort to families who had lost everything they owned.
-= 对那些一无所有的家庭来说，那是聊胜于无的安慰。
-cold comfort = 起不了什么作用的安慰
-不可数；说某个说法或某笔补偿远不足以抵消损失。
-⑳ She took off her make-up with cold cream and a handful of tissues.
-= 她用冷霜和一把纸巾卸了妆。
-cold cream = 冷霜（卸妆润肤用的油性膏）
-名字里的 cold 指涂上去发凉，不是说要冷藏。
-㉑ The platter was piled with cold cuts and not much else.
-= 拼盘上堆满了切片冷肉，别的没多少。
-cold cuts = 切片冷肉（火腿、香肠之类）
-恒作复数，美式常用；英式多说 cold meats。
-㉒ They opened a bottle of cold duck that nobody could identify.
-= 他们开了瓶谁也说不上是什么的红白混调气泡酒。
-cold duck = 红白混调的气泡酒（美式）
-是从德语一个酒名直译过来的，跟鸭子没有关系。
-㉓ The seedlings are still in the cold frame until the frosts are over.
-= 霜期过去之前，苗还留在冷床里。
-a cold frame = 冷床（矮玻璃罩的育苗箱）
-叫 cold 是因为它不加温，只靠玻璃把太阳热聚住。
-㉔ Cold fusion was never successfully reproduced by any other laboratory.
-= 冷聚变从没被别的实验室成功重复过。
-cold fusion = 冷聚变（常温下的核聚变）
-物理学名词，今天多带怀疑色彩，用来指那类宣称了却重复不出来的结果。
-㉕ We had a cold snap in April that killed half the blossom.
-= 四月来了一场倒春寒，一半花都冻死了。
-a cold snap = 骤然的一小段寒冷天气
-可数，指短促的一阵；snap 在这里是「说来就来的一下」。
-㉖ She gets cold sores whenever she is run down or short of sleep.
-= 她一累或睡不够就长唇疱疹。
-a cold sore = 唇疱疹
-名字里的 cold 是因为着凉时容易发作，跟感冒本身不是一回事。
-㉗ He woke in a cold sweat and could not get back to sleep.
-= 他一身冷汗地醒来，再没睡着。
-a cold sweat = 冷汗
-多跟 in 或 break out in 连用，说吓出来、急出来的那种汗。
-㉘ The meat went straight into cold storage and stayed there for a year.
-= 那批肉直接进了冷库，在里头放了一年。
-cold storage = 冷藏（这件事）；a cold store = 冷库（那个地方，英式）
-比喻用法也常见：put something into cold storage 是把事情先搁置起来。
-构词：古英语 cald
-注意用法：那一族固定说法都很高频。
+Colombian
+核心：哥伦比亚的、哥伦比亚人。拼写要当心：国名是 Colombia，中间是
+o 不是 u，跟美国那个地名 Columbia 差一个字母，两者常被写混。可数。
+① A Colombian singer headlined the festival and closed with a cumbia.
+= 一位哥伦比亚歌手压轴，最后一曲唱的是昆比亚。
+a Colombian = 哥伦比亚人
+② Colombian coffee is sold as a single origin and priced accordingly.
+= 哥伦比亚咖啡按单一产地卖，价钱也照着这个来。
+Colombian coffee = 哥伦比亚咖啡
+构词：国名 Colombia 加 -n
+注意拼写：中间是 o，别写成 Columbian。
 
-coleopterist
-核心：研究甲虫的人：昆虫学里专攻鞘翅目的那一支。术语。
+colon
+核心：两支，完全不同。一是冒号：那个标点，用来引出清单、
+解释或引语。二是结肠：大肠的主要部分，形容词 colonic。
 可数。
-① A coleopterist named the species after the farm it was found on.
-= 一位甲虫学者用发现地那座农场给那个物种命了名。
-a coleopterist = 甲虫学者
-② Coleopterists collect by trapping and empty the traps every week.
-= 甲虫学者靠陷阱采集，每周去清一次。
-by trapping = 靠设陷阱
-构词：由希腊语的鞘与翅加表示研究者的后缀
-注意用法：昆虫学里的术语。
+① Use a colon before the list and nothing before the first item.
+= 清单前面用冒号，第一项前面什么都不加。
+a colon = 冒号
+② The colon absorbs water and returns it to the body.
+= 结肠吸收水分，把它送回体内。
+the colon = 结肠
+③ A colonic examination was ordered after the second test came back.
+= 第二项检查结果回来后，医生开了结肠检查。
+colonic = 结肠的
+构词：希腊语 kolon 一段、肢体
+注意别混：标点与器官两义完全不同，靠语境分。
 
-coleslaw
-核心：凉拌卷心菜丝：卷心菜加胡萝卜切细丝，用蛋黄酱拌，
-配烤肉与三明治。口语常缩成 slaw，美式尤其常用。不可数。
-① Serve it with coleslaw and something sharp to cut the mayonnaise.
-= 配凉拌卷心菜丝上，再来点酸的解蛋黄酱的腻。
-coleslaw = 凉拌卷心菜丝
-② The coleslaw is too wet and has gone grey at the edges.
-= 那份凉拌菜太湿，边上都发灰了。
-wet = 湿的
-构词：荷兰语 koolsalade 卷心菜沙拉
-注意用法：口语常缩成 slaw。
+colonel
+核心：军衔：陆军与空军里上校那一级，管一个团。拼写与
+读音差得远：读起来像 kernel，是英语里最出名的拼读不
+一致之一。可数。
+① The colonel gave the order and stayed to watch it carried out.
+= 上校下了令，还留下看着它执行。
+a colonel = 上校
+② She was promoted to colonel at thirty-nine, the youngest that year.
+= 她三十九岁升上校，是那年最年轻的。
+be promoted to = 升为
+③ The princess is colonel-in-chief of the regiment and inspects it yearly.
+= 那位公主是那个团的名誉团长，每年检阅一次。
+a colonel-in-chief = 名誉团长（英军荣誉职衔）；a colonel general = 大将（部分欧洲国家的军衔）
+两个都不带实际兵权：前者多由王室成员挂名，后者是英美两国没有的一级军衔。
+构词：意大利语 colonnello 纵队长
+注意读音：读起来像 kernel。
 
-coley
-核心：英式对青鳕一类白肉海鱼的叫法：肉比鳕鱼略暗、便宜，
-从前多做猫食，后来当平价食用鱼推销。不可数。
-① Coley is cheaper than cod and takes a strong sauce well.
-= 青鳕比鳕鱼便宜，配重味的酱很合适。
-coley = 青鳕类白肉鱼（英式）
-② The fishmonger had coley and not much else by four o'clock.
-= 四点钟鱼贩那儿除了青鳕就没剩什么了。
-a fishmonger = 鱼贩
-③ Coley firms up when cooked and stops looking grey.
-= 青鳕一煮就结实，那点灰色也就没了。
-firm up = 变结实
-构词：可能出自 coalfish 那个鱼名
-注意用法：英式鱼名。
+colonial
+核心：两支。一是殖民的：说时期、统治与制度。二是建筑与
+家具上的风格名。名词 colonialism 是殖民主义，
+colonialist 是殖民主义者也作形容词，这两个都带批判
+意味。
+① Colonial rule ended in 1960 and the borders it drew are still there.
+= 殖民统治一九六零年结束，它划的边界至今还在。
+colonial rule = 殖民统治
+② The house is colonial in style and stands among buildings a century newer.
+= 那栋房子是殖民时期式样，四周的楼比它新一百年。
+colonial = 殖民时期风格的
+③ Colonialism shaped those borders with a ruler and very little local knowledge.
+= 殖民主义拿把尺子划出了那些边界，对当地几乎一无所知。
+colonialism = 殖民主义
+④ He rejected the colonialist framing and walked out of the panel.
+= 他不接受那种殖民主义式的说法，退出了讨论。
+colonialist = 殖民主义的、殖民主义者
+构词：拉丁语 colonia 移民地
+注意语域：后两个词带批判意味。
 
-colic
-核心：腹部阵发的剧痛：婴儿那种查不出病因的持续哭闹尤其
-常这么说；马也会得。形容词 colicky。不可数。
-① The baby has colic and cries from six until nine every evening.
-= 那个婴儿肠绞痛，每晚六点哭到九点。
-colic = 肠绞痛
-② Colic peaks at six weeks and is usually gone by four months.
-= 肠绞痛六周左右最厉害，一般四个月就好了。
-peak = 达到高峰
-③ He was up all night with a colicky baby and drove to work anyway.
-= 他陪着闹绞痛的婴儿熬了一夜，照样开车去上班。
-colicky = 闹肠绞痛的
-构词：希腊语 kolikos 结肠的
-注意用法：育儿与兽医文字里常见。
+colonist
+核心：殖民者：到别人的土地上定居、参与建立殖民地的人。
+今天多用在历史叙述里，用它时要留意它站在谁的角度：被
+殖民一方的叙述里多说 settler 或直接说侵占者。可数。
+① The first colonists landed in spring and half of them died by winter.
+= 第一批殖民者春天登陆，到冬天死了一半。
+a colonist = 殖民者
+② Colonists claimed the land on paper drawn up in another country.
+= 那些殖民者靠一份在别国拟好的文书宣称那片地归自己。
+claim = 声称占有
+构词：由表示移民地的那个词加表示人的后缀
+注意语域：用它时要留意它站在谁的角度。
 
-coliseum
-核心：大型的圆形或椭圆形场馆：剧场、体育馆、演出场都可
-以叫它，美国很多场馆直接以此命名。可数。
-① The concert filled the coliseum and the car park emptied at midnight.
-= 那场演唱会把场馆填满，停车场到午夜才空。
-a coliseum = 大型圆形场馆
-② The coliseum seats twenty thousand and hosts everything from ice hockey to graduations.
-= 那个场馆坐两万人，冰球赛到毕业典礼什么都办。
-seat = 容纳
-构词：拉丁语 colosseum 巨大的建筑
-注意别混：罗马那座斗兽场拼作 Colosseum。
+colonize
+核心：两支。一是殖民：一国到别国的土地上定居并统治。
+二是生态学上的定殖：某个物种进入并在一片新地方扎下来，
+这一支是中性的。名词 colonization，colonizer 是殖民者。
+英式也拼 colonise。
+① Britain colonized much of the region within a single generation.
+= 英国在一代人的时间里殖民了那个地区的大部分。
+colonize = 殖民
+② Lichens colonize bare rock and start the soil that everything else needs.
+= 地衣在裸岩上定殖，为其余一切生物打下土壤的底子。
+colonize = 定殖、进驻
+③ Colonization changed the language map more thoroughly than any war did.
+= 殖民对语言分布的改变，比任何一场战争都彻底。
+colonization = 殖民
+④ The colonizers imposed a new code and printed it in a language nobody read.
+= 殖民者强加了一套新法，还用一种没人读得懂的语言印出来。
+a colonizer = 殖民者
+构词：由表示移民地的那个词加动词后缀
+注意别混：生态学那一支是中性的，语气跟政治那一支不同。
 
-colitis
-核心：结肠炎：结肠黏膜发炎，腹痛加腹泻。
-ulcerative colitis 是溃疡性结肠炎，一种长期的炎性肠病。
-不可数。
-① She has ulcerative colitis and plans every journey round it.
-= 她患溃疡性结肠炎，出门的行程都得围着它安排。
-ulcerative colitis = 溃疡性结肠炎
-② Colitis flares and settles, often for no reason anyone can name.
-= 结肠炎会发作也会缓解，常常谁也说不出为什么。
-flare = 发作
-构词：由表示结肠的词根加表示炎症的后缀
+colonnade
+核心：柱廊：成排的柱子撑着檐部或屋顶，多在建筑正面或
+围着院子。形容词 colonnaded。建筑术语。可数。
+① A colonnade runs along the front and keeps the doorways in shade.
+= 正面一排柱廊，把几处门口都遮在阴里。
+a colonnade = 柱廊
+② The courtyard is colonnaded on three sides and open to the south.
+= 那个院子三面是柱廊，南面敞着。
+colonnaded = 带柱廊的
+③ They sheltered under the colonnade until the shower passed.
+= 他们在柱廊下躲到那阵雨过去。
+shelter = 避雨避晒
+构词：法语 colonnade，出自表示柱的那个词
+注意用法：建筑术语。
+
+colony
+核心：四支。一是殖民地。二是聚居的同行群体：
+an artists' colony 是艺术家聚居村。三是生物学上的群体：
+一个蚁群、细菌培养出来的菌落都叫它，这一支在实验报告里
+常读到。四是引申的一片聚落。复数 colonies。可数。
+① The colony gained independence and kept the railway timetable for decades.
+= 那块殖民地独立了，铁路时刻表却沿用了几十年。
+a colony = 殖民地
+② An artists' colony grew up there because the rents were the lowest in the county.
+= 那里租金全郡最低，于是形成了个艺术家聚居村。
+a colony = 聚居群体
+③ A colony of ants nested under the step and appeared every spring for years.
+= 一群蚂蚁在台阶下做窝，此后年年春天都冒出来。
+a colony of = 一群、一个群体
+④ Bacterial colonies appeared overnight on a plate somebody had left uncovered.
+= 有人忘了盖平皿，一夜之间就长出了菌落。
+a colony = 菌落
+构词：拉丁语 colonia 移民地
+注意用法：生物学那一支在实验报告里常读到。
+
+colophon
+核心：版本记录：书末或书前那一段交代印刷者、字体、纸张
+与印数的文字，也指出版社的社徽。文献学与出版语境里的词。
+可数。
+① The colophon names the printer and the year in three lines.
+= 那段版本记录用三行写出印刷者和年份。
+a colophon = 版本记录
+② She checks the colophon before she buys anything second hand.
+= 买二手书之前，她都先翻版本记录。
+appear at = 出现在
+③ The publisher's colophon is a swan and shrinks to nothing on the spine.
+= 那家出版社的社徽是只天鹅，印到书脊上就小得看不见。
+a colophon = 出版社社徽
+构词：希腊语 kolophon 顶点、收尾
+注意用法：文献学与出版语境里的词。
+
+Colorado beetle
+核心：马铃薯甲虫：背上十条黑色纵纹的小甲虫，专吃马铃薯叶，是欧洲
+严防的检疫害虫。也叫 Colorado potato beetle。可数。
+① Colorado beetles can strip a crop in days and lay eggs on the way.
+= 马铃薯甲虫几天就能把一片庄稼啃光，边啃边产卵。
+a Colorado beetle = 马铃薯甲虫
+② Farmers must report any Colorado beetle they find, dead or alive.
+= 农民发现马铃薯甲虫必须上报，死活都要报。
+report a Colorado beetle = 上报发现马铃薯甲虫
+构词：美国科罗拉多州的州名加 beetle
+注意用法：属法定申报的检疫害虫，新闻里常提。
+
+coloratura
+核心：花腔：声乐里那种快速跑动、带装饰音的华丽唱法，
+也指擅长这种唱法的女高音。意大利语来的词。
+① The aria demands coloratura and a breath that lasts twelve bars.
+= 那首咏叹调要求花腔，还要一口气撑过十二小节。
+coloratura = 花腔唱法
+② She is a coloratura soprano and sings above the orchestra with ease.
+= 她是花腔女高音，轻松就唱得过整个乐队。
+a coloratura soprano = 花腔女高音
+③ The runs are pure coloratura and mean nothing on the page.
+= 那些跑动是纯花腔，写在纸上什么也看不出。
+a run = 快速音群
+构词：意大利语 coloratura 着色
+注意用法：声乐与乐评里的术语。
+
+colossal
+核心：巨大的：说规模、数额、失误都行。口语里常用来夸张。
+副词 colossally。
+① It was a colossal mistake and took two years to undo.
+= 那是个天大的错，花了两年才补回来。
+a colossal mistake = 天大的错
+② The statue is colossal and had to be brought in by river.
+= 那座像巨大无比，只能走水路运进来。
+colossal = 巨大的
+③ They spent a colossal amount on a car park nobody uses.
+= 他们在一个没人用的停车场上花了一大笔。
+a colossal amount = 巨额
+构词：由表示巨像的那个词加形容词后缀
+注意用法：口语里常用来夸张。
+
+colossus
+核心：两支。一是巨像：古代那种巨大的人像雕塑。二是引申
+指某个领域里压倒性的人物或机构，这一支在人物评述里常
+读到。复数 colossi 或 colossuses。可数。
+① The colossus stood at the harbour mouth and was gone within sixty years.
+= 那尊巨像立在港口入口处，不到六十年就没了。
+a colossus = 巨像
+② He was a colossus of the theatre and left nothing behind that can be watched.
+= 他是戏剧界的巨人，却没留下任何看得到的东西。
+a colossus of = ……领域里的巨人
+③ The colossal scale of the thing only registers when someone walks in front of it.
+= 只有当有人走到它前面，那庞大的体量才让人感觉得到。
+come from = 由……来
+构词：希腊语 kolossos 巨像
+注意用法：引申义在人物评述里常读到。
+
+colostomy
+核心：结肠造口术：把结肠引到腹壁上开一个口，粪便排进
+外置的袋子里，多在肠道手术后做，可以是暂时的也可以是
+永久的。可数。
+① He had a colostomy last year and was back at work in six weeks.
+= 他去年做了结肠造口，六周后就回去上班了。
+a colostomy = 结肠造口术
+② The colostomy bag is changed daily and takes about four minutes.
+= 那个造口袋每天换一次，大约四分钟。
+a colostomy bag = 造口收集袋
+③ Some colostomies are reversed later once the bowel has healed.
+= 肠子长好之后，有些造口会还原。
+be reversed = 被还原
+构词：由表示结肠与开口的两部分拼成
 注意用法：医学用词。
 
-collaborate
-核心：两支，褒贬相反。一是合作，褒义或中性。二是通敌：
-在被占领时期跟敌方合作，带强烈贬义。名词 collaboration，
-形容词 collaborative，副词 collaboratively；
-collaborator 既可以是合作者也可以是通敌者。
-① They collaborated on the book for six years and fell out over the index.
-= 那本书他们合写了六年，最后为索引闹翻了。
-collaborate on = 就……合作
-② She collaborates with two labs abroad and flies out three times a year.
-= 她跟国外两个实验室合作，一年飞过去三次。
-collaborate with = 与……合作
-③ He was accused of collaborating and never worked in the town again.
-= 他被指通敌，此后再没能在那个镇上找到活干。
-collaborate = 通敌（贬义）
-④ The collaboration lasted ten years and produced work neither could have done alone.
-= 那次合作持续了十年，做出了两人单干都做不出的成果。
-collaboration = 合作
-⑤ It was a collaborative effort, though only one name went on the cover.
-= 那是共同努力的结果，封面上却只印了一个名字。
-collaborative = 协作的
-⑥ They worked collaboratively across four time zones without ever meeting in person.
-= 他们跨四个时区协作着做事，从没见过面。
-collaboratively = 协作地
-⑦ One collaborator was tried after the war and two others left the country.
-= 战后有一名通敌者受审，另外两人离开了那个国家。
-a collaborator = 合作者；通敌者
-构词：由表示共同与劳动的两部分拼成
-注意别混：那个名词既可褒可贬，靠语境判断。
+colostrum
+核心：初乳：分娩后最初几天分泌的那种浓稠淡黄的乳，抗体
+含量极高，对新生儿的免疫很要紧。不可数。
+① Colostrum is rich in antibodies the newborn cannot make yet.
+= 初乳里的抗体，新生儿自己还造不出来。
+colostrum = 初乳
+② Calves need colostrum within six hours or they never catch up.
+= 小牛六小时内要吃到初乳，不然一辈子都补不回来。
+early = 尽早
+③ Colostrum is thicker and yellower than the milk that follows.
+= 初乳比随后来的乳更稠、更黄。
+come before = 在……之前
+构词：拉丁语 colostrum
+注意用法：育儿与畜牧文字里常见。
 
-collage
-核心：拼贴：把纸片、照片、布头贴在一块底板上做成的画，
-也指做成的作品。引申指把不同素材拼在一起的东西，这一支
-在评论文字里常读到。
-① The children made a collage out of last year's magazines.
-= 孩子们用去年的杂志做了幅拼贴画。
-a collage = 拼贴画
-② The film is a collage of interviews with nobody narrating.
-= 那部片子是访谈拼成的，没有旁白。
-a collage of = 由……拼成的东西
-③ Collage suited the modernists because it let in the street.
-= 拼贴合现代派的路子，因为它把街上的东西放了进来。
-suit = 适合
-构词：法语 collage 粘贴
-注意用法：引申义在评论文字里常读到。
+colour
+核心：英式拼法，美式全族写 color。分支：一是颜色。
+二是脸色与血色。三是肤色，people of colour 是对非白人
+族群的一个总称说法。四是引申的生气与特色：local colour
+是地方风味。五是动词：着色，也引申成影响判断。派生一族
+英美各一套：colourful 与 colorful 色彩鲜艳的、也说人
+经历丰富；colourless 与 colorless 无色的、也说人乏味；
+colourant 与 colorant 着色剂；colouration 与 coloration
+色彩样式；coloured 与 colored 有颜色的；colouring 与
+coloring 着色剂与色泽；colourist 与 colorist 善用色彩
+的画家；colourize 与 colorize 给黑白片上色；colourway
+与 colorway 配色版本；colorfast 不掉色的。
+① The colour has faded on the side that faces the window.
+= 朝窗那一面的颜色已经褪了。
+a colour = 颜色
+② She lost all colour when she heard which flight it was.
+= 一听是哪个航班，她脸色全白了。
+lose colour = 脸色发白
+③ Writers of colour won three prizes out of the four on offer.
+= 四个奖项里，非白人作家拿了三个。
+people of colour = 非白人族群
+④ The market adds local colour that the guidebooks never mention.
+= 那个集市添了旅游书上从没提过的地方风味。
+local colour = 地方风味
+⑤ Grief coloured everything she wrote for the next ten years.
+= 此后十年，悲伤给她写的一切都染上了一层。
+colour = 给……染上一层、影响判断
+⑥ The label gives the color as ivory, which in this light is nearer grey.
+= 标签上写的颜色是象牙白，在这种光线下更接近灰。
+color = 那个词的美式拼法
+⑦ It is a colourful account, though not everyone believes all of it.
+= 那是段有声有色的叙述，只是未必人人全信。
+colourful = 色彩鲜艳的；有声有色的
+colorful = 色彩鲜艳的；有声有色的（美式拼法）
+副词是 colourfully，美式写 colorfully。
+colourfully = 色彩鲜艳地
+⑧ The gas is colourless and gives no warning of any kind.
+= 那种气体无色，一点预兆都没有。
+colourless = 无色的；也说人乏味
+colorless = 无色的（美式拼法）
+⑨ Check the colorant on the label before you buy it for a child.
+= 买给孩子之前，先看看标签上的着色剂。
+a colorant = 着色剂
+a colourant = 着色剂（英式拼法）
+⑩ The coloration varies by season and confuses even experienced birders.
+= 那种色彩随季节变化，连老观鸟人都会看错。
+coloration = 色彩样式
+colouration = 色彩样式（英式拼法）
+⑪ Coloured glass filters the light and throws patterns on the floor.
+= 有色玻璃把光滤过，在地上投出图案。
+coloured = 有颜色的
+colored = 有颜色的（美式拼法）
+⑫ Food colouring was added to make the icing that shade of green.
+= 加了食用色素，糖霜才有那种绿。
+colouring = 着色剂；色泽
+coloring = 着色剂；色泽（美式拼法）
+⑬ She is a fine colourist whose drawing is nothing special.
+= 她用色极好，素描却平平。
+a colourist = 善用色彩的画家
+a colorist = 善用色彩的画家（美式拼法）
+形容词 colouristic 与美式的 coloristic 说的是用色上的。
+colouristic = 用色上的
+coloristic = 用色上的（美式拼法）
+⑭ The film was colourized in the eighties and looks worse for it.
+= 那部片子八十年代被上了色，反而更难看了。
+colourize = 给黑白片上色
+colorize = 给黑白片上色（美式拼法）
+⑮ The jacket comes in three colourways, none of which is in stock.
+= 那件外套有三个配色，一个都没货。
+a colourway = 配色版本
+a colorway = 配色版本（美式拼法）
+⑯ The dye is colorfast and survives a hot wash without bleeding.
+= 那种染料不掉色，高温洗也不渗。
+colorfast = 不掉色的
+⑰ He is colour-blind and cannot tell red from green at a distance.
+= 他是色盲，远处的红绿分不出来。
+colour-blind = 色盲的；colour blindness = 色盲
+还有一个褒义的引申：说政策、招聘不看肤色，也用这个形容词。
+⑱ The club kept a colour bar well into the sixties without admitting it.
+= 那家俱乐部一直到六十年代还设着肤色门槛，嘴上却不承认。
+a colour bar = 按肤色设的进入门槛
+旧词，指不成文的种族隔离规矩，今天只在讲那段历史时用。
+⑲ The wires are colour-coded so that the electrician can work fast.
+= 那些线按颜色分好，电工干起来快。
+colour code = 用颜色分类标记；colour-coded = 按颜色分好的
+color code = 同一个词的美式拼法（也说 color-coded）
+美式一族都少一个字母，意思完全一样。
+⑳ The children were colouring in the map while she marked the books.
+= 她批作业的时候，孩子们在给地图涂色。
+colour in = 在画好的轮廓里涂满颜色
+特指给线稿上色，不是泛指着色；美式写 color in。
+㉑ The regiment's colour party led the parade past the town hall.
+= 团里的旗队引着游行队伍走过市政厅。
+a colour party = 掌旗队；a colour sergeant = 掌旗中士（英军军衔）
+这两个词里的 colours 指的是军旗，恒用复数；都是军中用语。
+㉒ The whole room follows one colour scheme down to the light switches.
+= 整间屋子照着一套配色走，连灯开关都不例外。
+a colour scheme = 配色方案
+color scheme = 配色方案（美式拼法）
+装修与设计的常用词。
+㉓ The printer charges extra for colour separation on short runs.
+= 小批量印刷时，那家印厂分色要另加钱。
+colour separation = 分色（把彩图拆成几块印版）
+color separation = 分色（美式拼法）
+印刷术语，出片时按四色拆版。
+㉔ The Sunday paper comes with a colour supplement that nobody reads.
+= 那份周日报纸附一本没人看的彩色副刊。
+a colour supplement = 随报附送的彩色杂志（英式）
+英国报纸的老做法，指周末版夹带的那本铜版纸杂志。
+㉕ The walls were finished with a pale colour wash over bare plaster.
+= 墙面在素灰泥上刷了一层浅淡的薄色。
+a colour wash = 稀释颜料刷出的薄色层
+既指刷墙的做法，也指水彩的一种画法；动词写 colour-wash。
+㉖ Blue and orange are complementary colours and sit opposite each other.
+= 蓝和橙是互补色，在色环上正对着。
+complementary colours = 互补色
+色环上正对着的一对。注意拼 complementary，跟表示赞美与赠送的那个近形词只差一个字母。
+㉗ The fabric is colour fast and can go in with the whites.
+= 那块布不掉色，可以跟白衣服一起洗。
+colour fast = 不掉色的（英式写作两个词）
+美式并成一个词写 colorfast；这里的 fast 是「牢固、不脱」的旧义，不是快。
+构词：拉丁语 color 颜色
+注意语域：用 coloured 指人是过时且带侮辱的旧称，避开。
 
-collagen
-核心：胶原蛋白：皮肤、骨、韧带里的主要结构蛋白，让组织
-有韧性；随年龄流失，所以护肤与保健品广告里到处是这个词。
-不可数。
-① Collagen holds skin firm and makes up a third of your protein.
-= 胶原让皮肤紧实，占你体内蛋白的三分之一。
-collagen = 胶原蛋白
-② Collagen declines with age and faster in people who smoke.
-= 胶原随年龄减少，抽烟的人掉得更快。
-decline = 减少
-③ Creams claim to boost collagen with a molecule too big to get in.
-= 那些霜声称能促进胶原，用的分子却大得根本进不去。
-boost = 促进
-构词：希腊语的胶加表示产生的词根
-注意用法：护肤与保健广告里到处是这个词。
+colt
+核心：小公马：四岁以下的雄马，母的那种叫 filly。形容词
+coltish 说人年轻、腿长、动作还不太稳当，多带一点可爱的
+意味。可数。
+① The colt is two years old and has never had a saddle on him.
+= 那匹小公马两岁，还没上过鞍。
+a colt = 小公马
+② Colts are broken in gradually over a whole winter.
+= 小马是整整一冬慢慢驯出来的。
+be broken in = 被驯服
+③ She had a coltish awkwardness that she grew out of in a year.
+= 她有种小马驹式的不稳当，一年就长过去了。
+coltish = 年轻腿长、动作不稳当的
+构词：古英语 colt
+注意别混：母的那种叫 filly。
 
-collapsar
-核心：天体物理里的说法：塌缩到极致的天体，黑洞在早期
-文献里就叫这个；今天也指某类伴随长伽马暴的塌缩恒星。
-术语。可数。
-① A collapsar was what astronomers once called a black hole.
-= 天文学家从前把黑洞叫作塌缩天体。
-a collapsar = 塌缩天体
-② A collapsar may power a gamma-ray burst.
-= 塌缩星可能驱动伽马射线暴。
-power = 驱动
-构词：由表示塌缩的那个词加天体后缀
-注意用法：天体物理里的术语。
+columbine
+核心：耧斗菜：花瓣后面带长距，一圈花瓣凑起来像几只鸽头，
+名字就是从鸽子来的。园艺文字里常见。可数。
+① Columbines self-seed everywhere and come up a different colour each year.
+= 耧斗菜到处自播，每年冒出来的颜色都不一样。
+a columbine = 耧斗菜
+② Columbine flowers in May and is over before the roses start.
+= 耧斗菜五月开，玫瑰还没开它就谢了。
+flower = 开花
+构词：拉丁语 columba 鸽
+注意用法：园艺语境里的花名。
 
-collapse
-核心：五支。一是塌下来：楼、桥、屋顶。二是人体上的垮
-下去：晕倒、虚脱。三是崩溃、垮台：市场、谈判、制度，
-这一支在财经与政治报道里最常读到。四是名词的那次崩溃。
-五是折叠收起，靠 collapsible 体现；collapsed 是塌了的。
-① The roof collapsed in the storm and had been condemned two years earlier.
-= 屋顶在暴风雨里塌了，两年前就被判定为危房。
-collapse = 塌下来
-② She collapsed at the finish and was back running within a fortnight.
-= 她在终点虚脱倒下，两周内又开始跑了。
-collapse = 晕倒、虚脱
-③ Talks collapsed on Friday and resumed on Monday as if nothing had happened.
-= 谈判周五破裂，周一又若无其事地重开。
-collapse = 崩溃、谈崩
-④ The collapse cost thousands of jobs and nobody was ever prosecuted.
-= 这次垮台让几千人失业，却没有一个人被起诉。
-a collapse = 崩溃、垮台
-⑤ A collapsed lung needs draining and hurts more than the break did.
-= 肺塌陷需要引流，比骨折还疼。
-collapsed = 塌了的
-⑥ Take a collapsible chair; there is nowhere to sit for three hours.
-= 带把折叠椅，三个钟头都没地方坐。
-collapsible = 可折叠的
-构词：拉丁语 collabi 一起垮下
-注意用法：崩溃那一支在财经与政治报道里最常读到。
+column
+核心：五支。一是柱子。二是竖排的一栏：报纸版面上的一栏，
+也指表格里的一列。三是报刊的专栏，写的人是 columnist。
+四是纵队：军队与车队排成的长列。五是引申的柱状物：
+a column of smoke 是一柱烟。可数。
+① Six columns hold up the porch and two of them are purely decorative.
+= 六根柱子撑着门廊，其中两根纯属装饰。
+a column = 柱子
+② Add the figures in this column and check them against the next page.
+= 把这一栏的数字加起来，跟下一页核对。
+a column = 一列、一栏
+③ She writes a weekly column and has missed one deadline in nine years.
+= 她写每周专栏，九年只误过一次截稿。
+a column = 报刊专栏
+④ A column of troops passed and took about forty minutes to go by.
+= 一列部队经过，走了大约四十分钟才过完。
+a column of = 一列纵队
+⑤ A column of smoke rose from somewhere behind the trees.
+= 一柱烟从树后面的什么地方升了起来。
+a column of smoke = 一柱烟
+⑥ The columnist got it wrong and the correction ran in smaller type.
+= 专栏作者写错了，更正登得字号小了一号。
+a columnist = 专栏作者
+⑦ The story got barely two column inches on an inside page.
+= 这条新闻在内页只占了不到两栏英寸。
+a column inch = 栏英寸（报纸版面的计量单位）
+一栏宽、一英寸高的那一块。说篇幅多少、广告多贵都拿它计。
+构词：拉丁语 columna 柱
+注意别混：表格里的这个是列，row 是行。
 
-collar
-核心：四支。一是衣领。二是项圈。三是动词的口语义：抓住、
-拦住某人，带一点强行的意味。四是引申的一族：
-white-collar 与 blue-collar 分白领与蓝领，这个用法极常
-读到。collarbone 是锁骨，collarless 是无领的，
-collard greens 是美式的甘蓝叶菜。可数。
-① Turn your collar down; it has been up since we left the house.
-= 把领子翻下来，从出门起就一直竖着。
-a collar = 衣领
-② The dog slipped its collar and was three streets away by then.
-= 狗挣脱了项圈，那会儿已经跑出三条街。
-a collar = 项圈
-③ A reporter collared him outside and got two words out of him.
-= 一名记者在外面把他截住，只问出两个字。
-collar somebody = 把某人截住
-④ These are white-collar jobs and pay rather less than the factory did.
-= 这些是白领工作，工资还不如从前的工厂。
-white-collar = 白领的
-⑤ Blue-collar wages stagnated for a generation while output doubled.
-= 蓝领工资停滞了一代人，产量却翻了倍。
-blue-collar = 蓝领的
-⑥ He broke his collarbone falling off a bicycle he was pushing.
-= 他推着自行车摔了一跤，锁骨断了。
-a collarbone = 锁骨
-⑦ The shirt is collarless and cost more than the ones with collars.
-= 这件衬衫没有领子，比有领的还贵。
-collarless = 无领的
-⑧ Collard greens simmer for an hour with a piece of smoked ham.
-= 羽衣甘蓝配一块熏火腿慢炖一小时。
-collard greens = 甘蓝叶菜（美式）
-构词：拉丁语 collum 颈
-注意用法：白领蓝领那个用法极常读到。
+com
+核心：网址里的顶级域名，读作 dot com：本表示商业机构，
+今天几乎人人都能注册。引申的 a dot-com 指网络公司，
+the dot-com bubble 是世纪之交那轮网络股泡沫。可数。
+① They paid a fortune for the com version of the name.
+= 那个名字的商业后缀版本，他们花了一大笔才买下。
+com = 商业顶级域名
+② She founded a dot-com in 1999 and sold it eighteen months later.
+= 她一九九九年办了家网络公司，十八个月后卖掉了。
+a dot-com = 网络公司
+③ The dot-com bubble burst in 2000 and took the office furniture with it.
+= 那轮网络泡沫二零零零年破了，连办公家具都赔了进去。
+the dot-com bubble = 网络股泡沫
+构词：由表示商业的那个形容词截短而来
+注意用法：读作 dot com。
 
-collate
-核心：两支。一是核对整理：把几份材料排好次序、对照检查。
-二是印刷与打印上的按份配页。名词 collation，也指正式
-场合的轻餐。
-① She collated the responses and found two people had answered twice.
-= 她把回收的答卷整理核对了一遍，发现有两个人答了两次。
-collate = 核对整理
-② Set the printer to collate or you get thirty of page one.
-= 打印机设成按份配页，不然会印出三十张第一页。
-collate = 按份配页
-③ The collation took two days and turned up one missing file.
-= 那次整理核对用了两天，查出少了一份卷宗。
-collation = 整理核对；也指轻餐
-构词：拉丁语 collatus 带到一起
-注意别混：collect 只是收集，这个还要排序核对。
+coma
+核心：昏迷：因脑损伤或重病而长时间失去意识、叫不醒。
+形容词 comatose 既说医学上的昏迷，也口语地夸张说人瘫在
+那儿动不了。可数。
+① She was in a coma for a week and remembers a conversation from the third day.
+= 她昏迷了一周，却记得第三天的一段对话。
+be in a coma = 处于昏迷
+② He slipped into a coma on the way to hospital and never came round.
+= 他在送医途中陷入昏迷，再没醒过来。
+slip into a coma = 陷入昏迷
+③ The patient remains comatose and the family sits with him in shifts.
+= 那位病人仍在昏迷，家人轮班陪着他。
+comatose = 昏迷的
+④ He was comatose on the sofa within twenty minutes of the meal ending.
+= 饭一吃完不到二十分钟，他就瘫在沙发上不动了。
+comatose = 瘫着不动的（夸张口语）
+构词：希腊语 koma 深睡
+注意用法：口语的夸张用法要看场合。
 
-collateral
-核心：三支。一是抵押品：借钱时押给对方的东西，这一支在
-财经文字里最常读到。二是形容词的附带的：collateral
-damage 是军事上的附带伤害，指行动中波及的平民与民用
-设施，这个说法常被批评为掩饰性的。三是旁系的。
-① The loan needs collateral worth half again as much as the sum advanced.
-= 那笔贷款要有抵押品，价值是放款额的一倍半。
-collateral = 抵押品、担保物
-② They put up the house as collateral and slept badly for three years.
-= 他们把房子押上了，此后三年都睡不安稳。
-put up collateral = 提供担保物
-③ Collateral damage was heavy and the word itself drew as much criticism.
-= 附带伤害很重，这个词本身也招来同样多的批评。
-collateral damage = 附带伤害
-④ Collateral relatives were traced through parish records going back to 1780.
-= 旁系亲属是靠一七八零年以来的教区记录查出来的。
-collateral = 旁系的
-构词：由表示共同与旁侧的两部分拼成
-注意语域：附带伤害那个说法常被批评为掩饰性的。
+Comanche
+核心：科曼奇人：北美南部大平原的原住民族群，也指他们的语言。历史上
+以骑术出名，长期控制着南部平原。二战时他们的语言被用作密码。
+单复数同形。
+① The Comanche dominated the southern plains for a century and a half.
+= 科曼奇人控制南部平原一个半世纪。
+the Comanche = 科曼奇人
+② Comanche was used by code talkers in Europe and never written down.
+= 科曼奇语被密码员用在欧洲战场，从不落于纸面。
+Comanche = 科曼奇语
+构词：族名的西班牙语转写
+注意用法：单复数同形，不加 s。
 
-colleague
-核心：同事：同一单位或同一行业里的人，不含上下级的意思。
-比 coworker 更正式一点，学界与专业场合尤其常用。可数。
-① She asked a colleague for help and got an answer within the hour.
-= 她找了个同事帮忙，一小时内就有了答复。
-a colleague = 同事
-② My colleagues disagreed and said so at length in writing.
-= 我的同事们不同意，还写了长长一篇说明。
-colleagues = 同事们
-③ He thanked his former colleagues and named all nine of them.
-= 他谢了从前的同事，九个人的名字一个个念了出来。
-a former colleague = 从前的同事
-构词：拉丁语 collega 共同受任者
-注意别混：coworker 更口语，这个偏正式与专业场合。
-
-collect
-核心：五支。一是收集、收藏。二是去接人取物，这一支很
-英式，美式多说 pick up。三是收钱与募款。四是聚集。
-五是名词 collection：藏品、收取与收运。派生：collected
-有两义，收成一集的、以及说人镇定；collectable 值得
-收藏的；collective 集体的，collectively 集体地，
-collectivism 集体主义，collectivize 使集体化，
-collectivization 集体化；collector 既是收藏者也是收款员。
-① He collects old maps and can tell you which ones are wrong.
-= 他收藏老地图，能说出哪几张是画错的。
-collect = 收集、收藏
-② She collects the children at three and works again after they are in bed.
-= 她三点去接孩子，等他们睡下再接着干活。
-collect = 去接人取物（英式）
-③ They collected for charity outside a shop that had refused them entry.
-= 他们在一家不让他们进的店门外为慈善募捐。
-collect for = 为……募款
-④ A crowd collected outside long before anybody knew what had happened.
-= 还没人知道出了什么事，外面就聚起了一群人。
-collect = 聚集
-⑤ The collection is on display until March and then goes back into storage.
-= 这批藏品展到三月，之后就重新入库。
-a collection = 收藏品；收取
-⑥ Rubbish collection is weekly and misses the same street every time.
-= 垃圾一周收一次，每次都漏掉同一条街。
-collection = 收运
-⑦ She stayed calm and collected while everyone around her rang the police.
-= 周围的人都在报警，她始终镇定自若。
-collected = 镇定的；也指收成一集的
-⑧ The stamps are highly collectable and worth rather less than the album.
-= 这些邮票很有收藏价值，却比集邮册还便宜。
-collectable = 值得收藏的
-⑨ It was a collective decision, which is how nobody has to answer for it.
-= 这是集体决定，所以没人需要为它负责。
-collective = 集体的
-⑩ They acted collectively and got more than any of them had asked for.
-= 他们一致行动，拿到的比谁单独要求的都多。
-collectively = 集体地
-⑪ Collectivism shaped the policy long after the word went out of use.
-= 这个词早不用了，集体主义仍在塑造这项政策。
-collectivism = 集体主义
-⑫ Farms were collectivized in a single winter and the harvest halved.
-= 农场在一个冬天内完成了集体化，收成减了一半。
-collectivize = 使集体化
-⑬ Collectivization changed the countryside beyond anything the planners intended.
-= 集体化对乡村的改变远超规划者的本意。
-collectivization = 集体化
-⑭ A collector called about the debt and left a card under the door.
-= 一名讨债员为那笔债上过门，从门缝下塞了张名片。
-a collector = 收藏者；收款员
-⑮ She collected up the scattered papers and put them in the wrong order.
-= 她把散落的文件收拢起来，顺序全弄错了。
-collect up = 把散着的东西一件不落地收拢
-英式说法，up 强调收得干净、一件不剩。
-⑯ He was a lifelong collectivist who ended up running a private firm.
-= 他一辈子信奉集体主义，最后却经营着一家私人公司。
-a collectivist = 集体主义者；collectivist = 集体主义的
-跟这一条的 collectivism 成对，政治与经济讨论里常跟主张个人本位的那一方对举。
-构词：拉丁语 colligere 收拢
-注意用法：去接人那一支很英式，美式多说 pick up。
-
-college
-核心：四支，各地制度不同，最容易误解。一是高等院校：
-美式指本科学校。二是英国大学底下的学院：牛津剑桥那种
-住宿学院。三是英式的专科与继续教育学校，这些都不是大学。
-四是专业团体。形容词 collegiate 是学院的、也指大学生的。
-可数。
-① She is at college in Boston and comes home about twice a year.
-= 她在波士顿上大学，一年大约回家两次。
-at college = 在上大学（美式）
-② He teaches at a Cambridge college and lives forty miles away.
-= 他在剑桥一所学院教书，住在四十英里外。
-a college = 大学底下的学院（英式）
-③ She went to a sixth form college and left with three good grades.
-= 她上的是高中阶段学校，毕业时拿了三个好成绩。
-a sixth form college = 高中阶段学校（英式）
-④ The Royal College sets the standard and inspects about once a decade.
-= 皇家学会制定标准，大约十年检查一次。
-a college = 专业团体
-⑤ Collegiate sport is big there and pays the coaches rather well.
-= 那里的大学生体育很兴盛，教练的收入相当可观。
-collegiate = 学院的；大学生的
-⑥ He teaches at a college of further education and has two hundred students.
-= 他在一所继续教育学院教书，带两百名学生。
-a college of further education = 继续教育学院（英式，中学后的职业与补修课程）
-a college of higher education = 高等教育学院（英式，可授学位但不叫大学）
-两个都是英国的学校类别，名字里的 college 都不等于大学。
-构词：拉丁语 collegium 同僚团体
-注意别混：英式的 college 不一定是大学，看上下文。
-
-collide
-核心：两支。一是相撞：两个移动的东西撞在一起。二是引申
-的冲突：利益、观点、计划撞在一起。名词 collision，
-a collision course 是照这么走下去必撞，政治报道里常
-读到；collider 是对撞机。
-① Two trains collided near the bridge and nobody was seriously hurt.
-= 两列火车在桥附近相撞，无人重伤。
-collide with = 与……相撞
-② Their interests collided about a month after the contract was signed.
-= 合同签订约一个月后，双方的利益就冲突了。
-collide = 冲突
-③ The collision closed the road for two days and the diversion took an hour.
-= 这场碰撞封路两天，绕行要多花一小时。
-a collision = 碰撞
-④ They are on a collision course and neither will slow down first.
-= 他们正朝着相撞的方向走，谁也不肯先减速。
-a collision course = 必然相撞的路子
-⑤ The collider was shut down for repairs that took eighteen months.
-= 对撞机停机检修，修了十八个月。
-a collider = 对撞机
-构词：拉丁语 collidere 撞在一起
-注意用法：a collision course 在政治报道里常读到。
-
-collie
-核心：牧羊犬的一类：边境牧羊犬最有名，聪明、精力旺、
-擅长驱赶羊群。长毛的那种叫 rough collie。可数。
-① A border collie herded the sheep on three whistles and no shouting.
-= 一只边牧靠三种哨音把羊赶到一起，一句喊都没有。
-a border collie = 边境牧羊犬
-② Collies need a lot of work or they start herding the children.
-= 那种狗要很多活动量，不然会开始赶小孩。
-work = 活动、任务
-③ Rough collies have long coats that need doing twice a week.
-= 长毛牧羊犬毛很长，一周得梳两回。
-a rough collie = 长毛牧羊犬
-构词：来历不确定，苏格兰方言词
-注意用法：犬种名。
-
-collier
-核心：两支，都带旧气。一是煤矿工人：英式旧称，今天多说
-miner。二是运煤船。名词 colliery 是煤矿，英国煤矿史里
-到处是这个词。可数。
-① His grandfather was a collier and went down at fourteen.
-= 他祖父是煤矿工，十四岁就下井了。
-a collier = 煤矿工人（旧称）
-② Colliers carried coal south and came back light and high in the water.
-= 运煤船把煤运往南方，回来时空载吃水很浅。
-a collier = 运煤船
-③ The colliery closed in 1985 and the village never filled up again.
-= 那个煤矿一九八五年关了，村子再没住满过。
-a colliery = 煤矿
-构词：由表示煤的那个词加表示从业者的后缀
-注意语域：带旧气，今天多说 miner。
-
-colligate
-核心：把若干事实或规律归到一个统一的说法之下：科学哲学
-里的术语，说理论怎么把散的观察串成一条。名词
-colligation。非常书面。
-① The theory colligates findings from four separate fields.
-= 那个理论把四个不同领域的发现串成一体。
-colligate = 归并到一个说法之下
-② Colligation is a step towards a law and not the law itself.
-= 那种归并是走向定律的一步，本身还不是定律。
-colligation = 归并
-构词：由表示共同与捆扎的两部分拼成
-注意语域：科学哲学里的术语。
-
-collocate
-核心：语言学：两个词习惯性地搭在一起出现，strong tea
-说得、powerful tea 就不说，这就是搭配问题。名词
-collocation 指这种习惯搭配，是学英语时最要紧的一类
-知识。可数。
-① Heavy collocates with rain but never with wind.
-= 「heavy」跟雨搭得起来，跟风就不行。
-collocate with = 与……习惯搭配
-② Learn the collocations, not just the words on their own.
-= 要学搭配，不能只学孤零零的单词。
-a collocation = 习惯搭配
-③ Dictionaries now list collocations in a box under the entry.
-= 词典现在会在词条下方的方框里列出搭配。
-list = 列出
-构词：由表示共同与放置的两部分拼成
-注意用法：学英语时最要紧的一类知识。
+comb
+核心：四支。一是梳子，动词是梳。二是引申的仔细搜：
+comb the area 是把那一带细搜一遍，comb through 是逐条
+翻查，这一支在新闻里常读到。三是鸡冠。四是蜂巢：
+honeycomb 是蜂巢与那种六角结构。词尾 b 不发音。可数。
+① She combed her hair with a comb that had lost half its teeth.
+= 她用一把掉了一半齿的梳子梳头。
+comb = 梳
+② Police combed the woods and combed through the records at the same time.
+= 警方一边搜遍树林，一边逐条翻查档案。
+comb = 仔细搜查
+comb through = 逐条翻查
+③ The cockerel has a red comb and a temper to go with it.
+= 那只公鸡有红红的鸡冠，脾气也配得上。
+a comb = 鸡冠
+④ Honeycomb is six-sided and uses less wax than any other shape.
+= 蜂巢是六边形的，比任何别的形状都省蜡。
+honeycomb = 蜂巢
+⑤ She combed out the tangles and about half the hair with them.
+= 她把打结的地方梳开了，头发也梳掉了一半。
+comb out = 把打结处梳开；也指把不要的清理掉
+第二义偏英式：说机构裁掉冗员、从名单里剔掉不合格的。
+构词：古英语 camb
+注意读音：词尾 b 不发音。

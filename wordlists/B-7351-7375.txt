@@ -1,271 +1,293 @@
-emasculate
-核心：两支。一是（正式）削弱、架空：把法案或机构改得没了作用，这是今天的主要用法；
-二是（旧）阉割。
-① The amendment emasculated the bill and its sponsors voted for it anyway.
-= 那条修正案把法案削得没了力气，提案人照样投了赞成票。
-emasculate something = 把某物削弱得没了作用
-② A committee emasculated by two resignations cannot do very much.
-= 一个因两人辞职而元气大伤的委员会，办不成什么事。
-be emasculated = 被削弱得没了力量
-注意语域：这个词把「削弱」跟「去势」绑在一起，用的时候留意这层老比喻。
+embolden
+核心：使大胆起来、给人壮胆：让人敢做原本不敢做的事。多用被动。
+① Two easy wins emboldened them into a plan that lost the season.
+= 两场轻松的胜仗给他们壮了胆，做出一个把整季赔进去的计划。
+embolden somebody = 给某人壮胆
+feel emboldened = 觉得有了底气
+② Emboldened by the silence, he asked the question everyone had avoided.
+= 那阵沉默给他壮了胆，他问出了人人回避的那个问题。
+be emboldened by something = 因某事胆子大起来
+构词：em- 加 bold
 
-emasculation
-核心：两支。一是（正式）削弱、架空：把机构或法规弄得没有效力；二是（旧）阉割。不可数。
-① The emasculation of the inspectorate took three budgets and no announcements.
-= 把督察机构架空，用了三个预算年度，一次也没公开宣布过。
-the emasculation of something = 对某物的架空
-② What the report calls reform the staff call emasculation.
-= 报告说的是改革，员工说的是把权力抽空。
-emasculation = 削弱、架空
+embolism
+核心：栓塞：血管被血块、气泡或脂肪堵住引起的急症。可数。
+① A pulmonary embolism can follow a long flight and a longer sit.
+= 长途飞行加上更久的久坐，之后可能来一次肺栓塞。
+a pulmonary embolism = 肺栓塞
+an air embolism = 空气栓塞
+② The embolism was found on the second scan and treated the same night.
+= 那处栓塞是第二次扫描查出来的，当晚就处理了。
+an embolism = 栓塞
+注意别混：embolus 是跑动的那块栓子，embolism 是它造成的堵塞。
 
-embalm
-核心：给遗体防腐：用药物处理遗体使其不腐，供瞻仰或长期保存。名词 embalmer。
-① They embalm the body when the funeral is more than a week away.
-= 葬礼要是隔一个多星期，就给遗体做防腐。
-embalm a body = 给遗体做防腐
-② The pharaoh was embalmed with resin and forty days of salt.
-= 那位法老是用树脂加四十天的盐做的防腐。
-be embalmed = 被做防腐处理
+embolus
+核心：栓子：随血流跑动、最后堵住血管的那一小块东西 —— 血块、气泡或脂肪。
+可数，复数 emboli。
+① An embolus that starts in the leg can end up in the lung.
+= 从腿上起来的栓子，可能一路走到肺里。
+an embolus = 栓子
+a fat embolus = 脂肪栓子
+② Emboli are what the drug is meant to stop forming in the first place.
+= 那种药本就是为了从一开始就不让栓子形成。
+emboli = 栓子（复数）
+构词：希腊语「塞子」，跟 embolism 同源
 
-embalmer
-核心：遗体防腐师：负责遗体防腐与整容的人。可数。
-① The embalmer works nights and knows every family in the town.
-= 那位防腐师上夜班，全镇每一家人他都认得。
-an embalmer = 遗体防腐师
-② An embalmer is trained for two years and licensed separately in each state.
-= 遗体防腐师要培训两年，各州还得分别领证。
-work as an embalmer = 做遗体防腐师
-构词：embalm 加 -er
+emboss
+核心：压花、压凸：在纸、皮革或金属上压出凸起的图案或字。形容词 embossed。
+① They emboss the cover and charge for it by the letter.
+= 他们给封面压凸，按字母数收费。
+emboss something = 给某物压花
+emboss a logo on something = 在某物上压出标志
+② The seal is embossed rather than printed and cannot be photocopied.
+= 那个印记是压出来的，不是印的，复印不出来。
+be embossed = 压花压凸的
+构词：em- 加 boss（金属或皮上的凸饰）
 
-embankment
-核心：堤岸、路堤：为挡水或架路堆起的长条土石高地 ——
-河边的叫堤，铁路底下的叫路堤。可数。
-① The embankment holds the river back and floods the field behind it.
-= 那道堤把河水挡住，却淹了堤后那块田。
-an embankment = 堤岸
-② The railway runs along an embankment and the houses look up at it.
-= 铁路沿着路堤走，那些房子要仰头才看得见。
-a railway embankment = 铁路路堤
+embossed
+核心：压凸的、有浮凸花纹的：说纸张、封面、皮革或金属表面。
+① The embossed letters catch the light and nothing else on the card does.
+= 那些压凸的字母会反光，卡片上别处都不会。
+embossed letters = 压凸的字母
+an embossed cover = 压凸的封面
+② She chose embossed paper and the printer charged three times as much.
+= 她挑了压花纸，印厂收了三倍的钱。
+embossed paper = 压花纸
+构词：emboss 的过去分词转作形容词
 
-embargo
-核心：禁运、禁令：官方禁止与某国通商或禁止某物进出；
-新闻里 under embargo 指「到某时才准发布」。可数，复数 embargoes；也作动词。
-① The embargo lasted eleven years and the goods arrived anyway.
-= 那次禁运持续了十一年，货照样进来了。
-an embargo = 禁运
-impose an embargo on something = 对某物实行禁运
-② The report is under embargo until Thursday morning.
-= 那份报告到周四早上之前禁止发布。
-be under embargo = 处在发布禁令之下
+embouchure
+核心：（音乐）吹口型：吹管乐器时嘴唇、面部肌肉与气息配合的用法。
+法语借词，不可数为主。
+① A good embouchure takes years and goes soft in three weeks off.
+= 好的吹口型要练好些年，停三个星期就松了。
+an embouchure = 吹口型
+develop an embouchure = 练出吹口型
+② Braces changed his embouchure and he relearned the top octave.
+= 戴牙套改了他的吹口型，最高那个八度得重新练。
+somebody's embouchure = 某人的吹口型
+构词：法语 bouche（嘴）
 
-embark
-核心：两支。一是上船、登机：跟 disembark 下船相对；
-二是 embark on 或 embark upon something，着手做一件大事。
-① Passengers embark at the far end and the queue never seems to move.
-= 乘客从那一头登船，队伍看着从来不动。
-embark = 上船、登机
-② She embarked on a doctorate at fifty and finished it at fifty-four.
-= 她五十岁着手读博士，五十四岁读完。
-embark on something = 着手做某事
-embark upon something = 同 embark on，更正式些
+embrace
+核心：三支。一是拥抱：也作名词 an embrace；
+二是欣然接受（想法、变化）；三是（正式）涵盖、包括。
+① They embraced at the barrier and neither of them said anything.
+= 他们在闸口拥抱，谁也没说话。
+embrace somebody = 拥抱某人
+an embrace = 一个拥抱
+② The department embraced the new system and abandoned it within a year.
+= 那个部门欣然接受了新系统，一年之内又弃用了。
+embrace something = 欣然接受某物
+③ The word embraces everything from a shed to a cathedral.
+= 那个词从棚屋到大教堂全都涵盖在内。
+embrace something = 涵盖、包括
+构词：拉丁语 bracchium（手臂），本义是用双臂围住
 
-embarkation
-核心：上船、登机：登船登机这件事，也指办手续的过程。不可数。
-① Embarkation begins two hours before sailing and takes most of them.
-= 登船提前两小时开始，基本要用掉这两个钟头。
-embarkation = 上船、登机
-② The embarkation card has to be filled in before anyone reaches the desk.
-= 登船卡得在走到柜台之前就填好。
-an embarkation card = 登船卡
+embrasure
+核心：两支。一是（城墙上的）射击口：为射箭或架炮开的斜口；
+二是（建筑）窗龛：厚墙上窗子两侧往里斜的那部分。可数。
+① The embrasures face the road and the wall behind them is two metres thick.
+= 那些射击口对着大路，后头的墙有两米厚。
+an embrasure = 射击口
+a gun embrasure = 炮眼
+② She sat in the embrasure because it was the only place with any light.
+= 她坐在窗龛里，因为那是唯一有点光的地方。
+an embrasure = 窗龛
+构词：法语借词，本指墙上斜开的那个口
 
-embarrass
-核心：两支。一是使难堪、使窘迫：让人当众下不来台；
-二是（正式）使为难、使陷入困境，多说财务上。
-名词 embarrassment，形容词 embarrassed 与 embarrassing。
-① Don't embarrass him in front of the whole team over one dropped ball.
-= 别为一次掉球，当着全队让他下不来台。
-embarrass somebody = 使某人难堪
-② The figures embarrassed the department that had published them.
-= 那些数字让公布它们的部门很难堪。
-be embarrassed by something = 因某事而尴尬
+embrocation
+核心：（旧式）搽剂、药油：擦在皮肤上活血止痛的液体，多用于运动损伤。不可数。
+① The changing room smells of embrocation from October to April.
+= 从十月到四月，更衣室里都是药油味。
+embrocation = 搽剂、药油
+a bottle of embrocation = 一瓶药油
+② He rubbed embrocation into the knee and went out for the second half.
+= 他把药油揉进膝盖，出场打了下半场。
+rub embrocation into something = 把药油揉进某处
+构词：希腊语「淋、浇」，如今多被 liniment 取代
 
-embarrassed
-核心：（人）尴尬的、难为情的：说自己觉得窘 ——
-be embarrassed about something、be embarrassed to do something。
-注意别混：embarrassed 是人觉得窘，embarrassing 是事情让人窘。
-① She was embarrassed about the fuss and grateful for the lift.
-= 她为那阵张罗觉得不好意思，可搭车这事很感激。
-be embarrassed about something = 为某事难为情
-② He looked embarrassed and answered the question anyway.
-= 他一脸尴尬，还是把问题答了。
-look embarrassed = 显得难为情
+embroider
+核心：两支。一是刺绣：用针线在布上绣花样；
+二是（讲故事）添枝加叶，跟 embellish 的第二支同义。
+① She embroidered the cuffs in one evening and unpicked them the next.
+= 她一个晚上把袖口绣好，第二个晚上又拆了。
+embroider something = 在某物上刺绣
+embroider a design on something = 在某物上绣出花样
+② He embroiders the ending every single time he tells it.
+= 每讲一遍，他都要给结尾添点花样。
+embroider a story = 给故事添枝加叶
+构词：em- 加古法语 brouder（绣）
 
-embarrassing
-核心：（事情）令人尴尬的、丢脸的：说场面、错误、沉默让人难堪。
-① The silence that followed was embarrassing for everyone except the speaker.
-= 随后那阵沉默让所有人都尴尬，只有讲话的那位不觉得。
-embarrassing = 令人尴尬的
-an embarrassing mistake = 丢人的错误
-② It is embarrassing to be thanked for something you did not do.
-= 为自己没做过的事被人道谢，怪难为情的。
-be embarrassing = 让人难堪
+embroidery
+核心：两支。一是刺绣：这门手艺与绣出来的活儿，不可数；
+二是（叙述里的）添油加醋。
+① The embroidery on that cloth took two women a whole winter.
+= 那块布上的刺绣，两个女人绣了一整个冬天。
+embroidery = 刺绣
+an embroidery hoop = 绣绷
+do embroidery = 做刺绣
+② Half the account is embroidery and the other half has a receipt.
+= 那份叙述一半是添枝加叶，另一半有收据为凭。
+embroidery = 添油加醋的成分
+构词：embroider 加 -y
 
-embarrassingly
-核心：尴尬地、丢人地：多修饰形容词，说程度到了让人难堪的地步。
-① The hall was embarrassingly empty for a speaker flown in from abroad.
-= 请了位从国外飞来的讲者，会场却空得让人难堪。
-embarrassingly empty = 空得令人尴尬
-② He was embarrassingly early and helped stack the chairs.
-= 他早到得有点不好意思，索性帮着摞椅子。
-embarrassingly early = 早得不好意思
-构词：embarrassing 加 -ly
+embroil
+核心：把…卷入（纠纷、争端）：多用被动 be embroiled in something。
+① Two neighbours were embroiled in a boundary case for eleven years.
+= 两户邻居为一桩地界官司缠斗了十一年。
+be embroiled in something = 被卷入某事
+become embroiled in something = 卷进某事
+② He embroiled the whole department in a quarrel about a photocopier.
+= 他把整个部门都卷进了一场关于复印机的争吵。
+embroil somebody in something = 把某人卷进某事
+构词：em- 加 broil（旧义「乱作一团」）
 
-embarrassment
-核心：两支。一是尴尬、难堪（的感觉），不可数；
-二是让人难堪的人或事，可数。
-习语 an embarrassment of riches 是「好东西多得挑花眼」的甜蜜烦恼。
-① Embarrassment kept him quiet for the whole of the first half.
-= 尴尬让他上半场一句话没说。
-embarrassment = 尴尬
-② The new signing turned into an embarrassment by November.
-= 那名新签的球员，到十一月成了让人难堪的存在。
-an embarrassment to somebody = 让某人丢脸的人或事
-③ Four good offers is an embarrassment of riches for a small charity.
-= 四个不错的资助意向，对一家小慈善机构来说是甜蜜的烦恼。
-an embarrassment of riches = 多得挑花眼的好烦恼
+embryo
+核心：两支。一是胚胎：受精后早期的生命体，人类通常指到第八周为止，此后叫 fetus；
+二是（比喻）雏形：in embryo 是尚在萌芽阶段。可数，复数 embryos。
+① The embryo is transferred on the fifth day and the wait starts again.
+= 胚胎在第五天移植，接着又是等待。
+an embryo = 胚胎
+transfer an embryo = 移植胚胎
+② The scheme existed in embryo two years before anyone funded it.
+= 那个方案在有人出钱的两年前就已具雏形。
+in embryo = 尚在萌芽阶段
 
-embassy
-核心：大使馆：一国派驻他国首都的常设机构，也指馆内人员。可数，复数 embassies。
-领事馆是 consulate，规模较小，多设在首都以外的城市。
-① The embassy opens for visas three mornings a week and closes at noon.
-= 大使馆一周三个上午办签证，中午就关门。
-an embassy = 大使馆
-the British Embassy = 英国大使馆
-② The whole embassy was evacuated in one night and reopened in a hotel.
-= 整个大使馆一夜之间撤空，在一家旅馆里重新开张。
-evacuate an embassy = 撤离大使馆
+embryological
+核心：胚胎学的：跟胚胎发育与胚胎学研究有关的。只作定语。
+① The embryological evidence settled an argument that fossils could not.
+= 胚胎学的证据了结了化石解决不了的一场争论。
+embryological evidence = 胚胎学证据
+② An embryological study takes years and one very steady microscope.
+= 一项胚胎学研究要好些年，还要一台极稳的显微镜。
+an embryological study = 胚胎学研究
+构词：embryology 的形容词
 
-embattled
-核心：两支。一是（人、机构）四面受敌的、处境艰难的；二是（地区）交战中的、被围困的。
-① The embattled minister answered questions for two hours and resigned on Friday.
-= 那位四面受敌的大臣答了两个钟头的问，周五就辞了职。
-an embattled minister = 处境艰难的大臣
-② Supplies reached the embattled town by one road that changed hands twice.
-= 补给靠一条两度易手的路，送进了那座被围的城。
-an embattled town = 被围困的城镇
+embryologist
+核心：胚胎学家、胚胎师：研究胚胎发育的科学家；
+在辅助生殖诊所里也指负责培养与挑选胚胎的技术人员。可数。
+① The embryologist calls at nine with a number and no adjectives.
+= 胚胎师九点来电话，只报个数字，不带形容词。
+an embryologist = 胚胎学家、胚胎师
+② Two embryologists check every dish before anything is frozen.
+= 每一皿都要两位胚胎师核对过，才拿去冷冻。
+embryologists = 胚胎学家（复数）
+构词：embryology 加 -ist
 
-embed
-核心：三支。一是把…嵌进、牢牢插入：embed something in something；
-二是使（观念、做法）扎根：be embedded in something；
-三是（记者）随军采访。过去式 embedded。
-① A splinter of glass was embedded in the tyre and stayed there for months.
-= 一片玻璃碴嵌进了轮胎，一嵌好几个月。
-embed something in something = 把某物嵌进某物
-② The habit is embedded in the way the whole department works.
-= 那个习惯已经嵌进整个部门的做事方式里。
-be embedded in something = 深深扎根于某事
-③ Two reporters were embedded with the unit and filed the same story.
-= 有两名记者随那支部队采访，发回了同一篇报道。
-be embedded with a unit = 随某部队采访
+embryology
+核心：胚胎学：研究受精卵如何发育成个体的学科。不可数。
+① Embryology explains why a fish and a person start out looking alike.
+= 胚胎学解释了鱼和人起初为什么长得像。
+embryology = 胚胎学
+study embryology = 学胚胎学
+② Human embryology is regulated by a law with a fourteen-day line in it.
+= 人类胚胎研究受一部法律管着，里头划着十四天的界线。
+human embryology = 人类胚胎学
 
-embeddedness
-核心：（社科用词）嵌入性：说一件事或一种行为深深扎在某个社会与制度环境里，
-抽出来单看就走样。不可数。
-① The embeddedness of the market in local custom explains the odd prices.
-= 那个市场深嵌在当地习俗里，古怪的价格由此而来。
-the embeddedness of something = 某物的嵌入性
-② Embeddedness is the reason the same policy fails in the next valley.
-= 正因为深嵌于本地，同一套政策到隔壁山谷就不灵。
-embeddedness = 嵌入性
-构词：embedded 加 -ness
+embryonic
+核心：两支。一是胚胎的：embryonic cells 是胚胎细胞；
+二是（比喻）尚在雏形的、还没成形的。
+① Embryonic cells can become almost anything and that is the whole difficulty.
+= 胚胎细胞几乎能变成任何东西，难处也全在这儿。
+embryonic cells = 胚胎细胞
+embryonic development = 胚胎发育
+② The plan was embryonic in March and running by September.
+= 那个计划三月还只是雏形，九月就跑起来了。
+be embryonic = 尚在雏形阶段
 
-embellish
-核心：两支。一是装饰、加花样：添细节让东西好看；
-二是（讲故事）添油加醋：说得比事实热闹。名词 embellishment。
-① The cover is embellished with gold that comes off on your fingers.
-= 封面上镶着金饰，一摸就沾手。
-embellish something = 给某物添饰
-be embellished with something = 饰有某物
-② He embellishes every story and the core of it is usually true.
-= 他讲什么都要添油加醋，可事情的核儿通常是真的。
-embellish a story = 给故事添油加醋
-构词：em- 加 -bellish（源自拉丁语 bellus「美」）
+emcee
+核心：（美式口语）司仪、主持人：MC 的拼写形式，也作动词，担任司仪。可数。
+① The emcee filled nine minutes while somebody went to find the microphone.
+= 有人去找话筒的那九分钟，全靠司仪撑着。
+an emcee = 司仪、主持人
+② She emceed the whole evening and never once looked at her notes.
+= 她主持了整晚，一次也没看讲稿。
+emcee an event = 主持一场活动
+构词：master of ceremonies 缩成 MC，再照读音拼成 emcee
 
-embellishment
-核心：两支。一是装饰、点缀：加上去让东西更好看的部分；
-二是（叙述里的）添枝加叶。可数不可数都行。
-① The embellishment on the sleeve took longer than the rest of the coat.
-= 袖子上那点装饰，比大衣其余部分还费工。
-an embellishment = 装饰、点缀
-构词：embellish 加 -ment
-② The account is accurate once you take the embellishments out.
-= 把那些添枝加叶去掉，那份叙述是准的。
-embellishments = 添枝加叶的成分
-without embellishment = 不加修饰地
+emend
+核心：（正式）校订、订正（文本）：改掉抄本或稿子里的错。名词 emendation。
+注意别混：emend 只用于文本，amend 用于法律、协议与行为。
+① Editors emend the manuscript where the copyist clearly nodded off.
+= 抄手明显打了瞌睡的地方，编者会加以校订。
+emend a text = 校订文本
+emend a manuscript = 订正抄本
+② The line was emended twice and the older reading came back in the end.
+= 那一行改动过两回，最后又用回了较早的读法。
+be emended = 被校订
 
-ember
-核心：余烬：火将熄时仍红着的炭块，多用复数 embers。可数。
-① The embers were still warm at seven and lit the fire again with one log.
-= 到七点余烬还温着，添一根柴就把火重新点起来了。
-embers = 余烬
-the dying embers = 将熄的余烬
-② An ember jumped the guard and burnt a hole in the rug.
-= 一块火炭蹦过挡板，在地毯上烧了个洞。
-an ember = 一块火炭
-比喻用法：the embers of something 说一件事只剩下的一点余温。
+emendation
+核心：（正式）校订、订正之处：对文本所做的改动，也指改后的读法。可数。
+① The emendation is printed in square brackets and the original in a footnote.
+= 校订之处印在方括号里，原文放在脚注中。
+an emendation = 一处校订
+make an emendation = 做一处校订
+② Two emendations changed the meaning of the whole stanza.
+= 两处订正改变了整节诗的意思。
+构词：emend 加 -ation
 
-embezzle
-核心：挪用、侵吞（自己经手的钱）：监守自盗，跟外人来偷不是一回事。
-名词 embezzlement，行为人叫 embezzler。
-① She embezzled small amounts for nine years and one large one at the end.
-= 她小额挪用了九年，最后来了一笔大的。
-embezzle money = 挪用公款
-embezzle funds = 挪用资金
-② The money was embezzled by somebody who signed off the audit as well.
-= 挪走那笔钱的人，同时也是在审计上签字的人。
-be embezzled = 被侵吞
-注意别混：embezzle 是把经手的钱据为己有，steal 泛指偷。
+emerald
+核心：两支。一是祖母绿：深绿色的宝石，绿柱石的一种，可数；
+二是翠绿色，不可数。
+① The emerald in that ring is small, flawed and worth the whole collection.
+= 那枚戒指上的祖母绿又小又有瑕，却抵得上整批收藏。
+an emerald = 祖母绿
+a flawed emerald = 有瑕的祖母绿
+② The field is emerald in April and brown by the end of July.
+= 那片地四月一片翠绿，到七月底就枯黄了。
+emerald green = 翠绿色
 
-embezzlement
-核心：挪用公款、侵吞：把自己经手的钱据为己有的罪行。不可数。
-① Embezzlement is usually found by an accident, not by an audit.
-= 挪用公款多半是偶然被发现的，不是审计查出来的。
-embezzlement = 挪用公款
-a case of embezzlement = 一桩挪用公款案
-② He was convicted of embezzlement and kept the pension anyway.
-= 他因挪用公款被定罪，养老金倒还保住了。
-be convicted of embezzlement = 因挪用公款被定罪
-构词：embezzle 加 -ment
+emerge
+核心：三支。一是（从暗处、水里）出来、露出；二是（事实）显露出来：it emerged that…；
+三是（新势力、新事物）冒头、崭露头角。名词 emergence。
+① She emerged from the tunnel into light that took a minute to bear.
+= 她从隧道里出来，那片光要过一分钟才受得了。
+emerge from something = 从某处出来
+② It emerged later that two of the forms had never been sent.
+= 后来才显出，有两张表根本没寄出去。
+it emerges that... = 后来显出…
+③ A new supplier emerged in the second year and undercut everyone.
+= 第二年冒出一家新供应商，价钱压过了所有人。
+emerge = 冒头、崭露头角
 
-embezzler
-核心：挪用公款的人：监守自盗的那个。可数。
-① The embezzler kept two sets of books and a very tidy desk.
-= 那个挪用公款的人做两套账，桌面还收拾得极整齐。
-an embezzler = 挪用公款者
-a convicted embezzler = 已定罪的挪用者
-② Most embezzlers are found out by an illness or a holiday.
-= 多数挪用公款的人，是因为一场病或一次休假露的馅。
-embezzlers = 侵吞公款者（复数）
-构词：embezzle 加 -er
+emergence
+核心：出现、兴起：某物从无到有、从隐到显的那个过程。不可数。
+① The emergence of the disease was traced to one market and one month.
+= 那种病的出现，被追到了一个市场、一个月份。
+the emergence of something = 某物的出现
+② Her emergence as a candidate surprised the people who had recruited her.
+= 她冒头成为候选人，让当初招她进来的人吃了一惊。
+somebody's emergence as something = 某人崛起成为…
 
-embitter
-核心：使怨恨、使心里发苦：让人因遭遇而愤懑难平。多用被动。
-① Two decades of small refusals embittered him more than the big one did.
-= 二十年里一次次小小的拒绝，比那一次大的更让他生怨。
-embitter somebody = 使某人心怀怨恨
-embitter relations = 使关系交恶
-② A dispute over a wall embittered the whole street for a generation.
-= 一堵墙引出的纠纷，让整条街结怨了一代人。
-be embittered by something = 因某事心里发苦
-构词：em-（使…）加 bitter（苦的）
+emergency
+核心：紧急情况、突发事件：需要立刻处置的危险局面。可数，复数 emergencies。
+作定语说 an emergency exit、the emergency services。
+习语：in an emergency 是遇到紧急情况时；a state of emergency 是紧急状态。
+① In an emergency the lift stops at the nearest floor and opens.
+= 遇到紧急情况，电梯会停在最近一层并打开门。
+in an emergency = 紧急情况下
+an emergency = 紧急情况
+② A state of emergency was declared on Friday and lifted eleven days later.
+= 周五宣布进入紧急状态，十一天后解除。
+a state of emergency = 紧急状态
+③ The emergency exit is behind the stage and has been blocked since Easter.
+= 紧急出口在舞台后面，从复活节起就一直堵着。
+an emergency exit = 紧急出口
+④ All three emergency services reached the bridge before the traffic did.
+= 三家应急部门都赶在堵车之前到了桥上。
+the emergency services = 警察、消防与急救这几家应急部门
+⑤ He pulled the emergency brake and the whole carriage looked at him.
+= 他拉了紧急制动，整节车厢都在看他。
+the emergency brake = 紧急制动闸
+⑥ The emergency room takes anyone and asks about insurance afterwards.
+= 急诊室来者不拒，保险的事随后再问。
+the emergency room = 急诊室（美式）
 
-embittered
-核心：怨愤的、心怀苦涩的：说人长期受挫或受屈之后满腹怨气。
-① An embittered former partner wrote the only bad review.
-= 唯一那篇差评，是一位心怀怨恨的旧合伙人写的。
-an embittered person = 满腹怨气的人
-an embittered tone = 满是怨气的口吻
-② She left embittered and came back twelve years later to teach.
-= 她带着怨气离开，十二年后回来教书。
-be embittered = 心怀怨愤
-构词：embitter 的过去分词转作形容词
+emergent
+核心：两支。一是（正式）新出现的、兴起中的；
+二是（科学）涌现的：由许多简单部分互动生出的整体性质。
+① An emergent industry attracts money before it attracts rules.
+= 新兴行业先招来钱，后招来规矩。
+an emergent industry = 新兴行业
+an emergent nation = 新兴国家
+② Traffic jams are an emergent property of a lot of small decisions.
+= 堵车是许许多多小决定涌现出来的结果。
+an emergent property = 涌现出来的性质

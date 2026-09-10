@@ -1,365 +1,334 @@
-earshot
-核心：听力所及的范围：只用在 within earshot 与 out of earshot 这两个说法里。不可数。
-① He waited until they were out of earshot and then said what he thought.
-= 他等到他们走远听不见了，才说出自己的想法。
-out of earshot = 在听力范围之外
-② Say nothing about the price while the buyer is still within earshot.
-= 买家还听得见的时候，价钱一个字也别提。
-within earshot = 在听得见的范围内
-构词：ear 加 shot（射程）
+eastwards
+核心：向东地：只作副词，英式常用；美式多写 eastward。
+① They walked eastwards until the light went and camped where they stopped.
+= 他们一路向东走到天黑，停在哪儿就在哪儿扎营。
+walk eastwards = 向东走
+② The colony spread eastwards along the river for eighty years.
+= 那片聚居地沿河向东扩展了八十年。
+spread eastwards = 向东扩展
+构词：eastward 加 -s，英式的副词形式
 
-earth
-核心：名词四支、动词一支。名词一是（大写）地球 the Earth；
-二是跟天空相对的地面、陆地；三是泥土、土壤；
-四是（英式）电器的地线，美式说 ground。动词是给电器接地。
-习语：cost the earth 是贵得离谱；down to earth 是脚踏实地；
-what on earth 是「究竟」，加重疑问；move heaven and earth 是想尽一切办法；
-run somebody to earth 是把人找出来（本义是把狐狸追进洞）。
-① The Earth takes a year to go round the sun and nobody feels it move.
-= 地球绕太阳一圈要一年，谁也感觉不到它在动。
-the Earth = 地球
-② The rocket came down in a field and the earth around it was scorched black.
-= 火箭落在一片田里，四周的泥土烧得焦黑。
-earth = 泥土、土壤
-③ That kitchen cost the earth and they use one corner of it.
-= 那个厨房贵得离谱，他们只用得着一个角。
-cost the earth = 贵得离谱
-④ She is famous and completely down to earth about it.
-= 她很有名，对这件事却全然脚踏实地。
-down to earth = 脚踏实地、实在
-⑤ What on earth were the two of you doing on the roof?
-= 你们俩究竟在屋顶上干什么？
-what on earth = 究竟（加重疑问语气）
-⑥ They moved heaven and earth to get the licence and then never used it.
-= 他们想尽一切办法拿到那张执照，之后一次也没用过。
-move heaven and earth = 想尽一切办法
-⑦ The reporter ran him to earth in a village nobody had thought of.
-= 记者在一个谁也没想到的村子里把他找了出来。
-run somebody to earth = 把某人找出来
-⑧ The appliance must be earthed before anybody switches it on.
-= 这台电器通电之前必须接好地线。
-earth an appliance = 给电器接地
-an earth wire = 地线
-⑨ She plays the earth mother at weekends and runs a hedge fund on Mondays.
-= 她周末一副大地母亲的样子，周一经营对冲基金。
-an earth mother = 崇尚自然、母性十足的女性；也指大地女神
-⑩ Two earth movers cleared the site in a day and left ruts a metre deep.
-= 两台土方机一天就清完场地，留下一米深的车辙。
-an earth mover = 推土机、土方机械
-⑪ Earth science covers everything from earthquakes to the chemistry of rain.
-= 地球科学从地震一直管到雨水的化学成分。
-earth science = 地球科学
-an earth scientist = 地球科学家
-⑫ The findings were solid and not remotely earth-shattering.
-= 那些结果扎实，却一点也谈不上惊天动地。
-earth-shattering = 惊天动地的
-⑬ The earth station tracks four satellites and loses one every winter.
-= 那座地面站跟踪四颗卫星，每年冬天丢一颗。
-an earth station = 卫星地面站
-⑭ The whole flat is painted in earth tones and looks warmer than it is.
-= 整套房子刷成大地色系，看着比实际暖和。
-earth tones = 大地色系（土黄、赭、褐一类）
+easy
+核心：形容词三支、副词一支。一是容易的、不费劲的；二是安适的、无忧的：an easy life；
+三是（人）随和的、好相处的。副词只出现在固定说法里：take it easy、go easy on somebody。
+比较级 easier；名词是 ease，副词是 easily。
+习语：easier said than done 是说着容易做着难；easy does it 是慢点、悠着来；
+easy come, easy go 是来得容易去得快；free and easy 是不拘礼；
+within easy reach 是很方便就到得了。
+① The form is easy enough until the third page asks for dates.
+= 那张表本来挺好填，到第三页要填日期就不然了。
+easy = 容易的
+an easy question = 容易的问题
+② He wanted an easy life and took a job that gave him neither.
+= 他想过安生日子，找的工作两头都没落着。
+an easy life = 安逸的日子
+③ She is easy to work with and impossible to hurry.
+= 她很好共事，就是催不动。
+be easy to work with = 好共事
+④ Take it easy for a fortnight and the shoulder will fix itself.
+= 悠着点过两个星期，肩膀自己会好。
+take it easy = 放松、悠着点
+⑤ Go easy on him — he has been doing two jobs since March.
+= 对他宽着点，他从三月起就干着两份活。
+go easy on somebody = 对某人宽容些
+⑥ Losing weight is easier said than done in a house full of cake.
+= 家里满是蛋糕，减肥说着容易做着难。
+easier said than done = 说着容易做着难
+⑦ Easy does it — the frame will crack if you force that corner.
+= 悠着点，那个角一硬掰框子就裂。
+easy does it = 慢着来、别用蛮力
+⑧ The flat is within easy reach of the station and two bus routes.
+= 那套房离车站和两条公交线都很近便。
+within easy reach = 很方便就到得了
+⑨ Money came in fast that year and went the same way: easy come, easy go.
+= 那年钱来得快，去得也一样快：来得容易去得快。
+easy come, easy go = 来得容易去得快
+⑩ The house rules were free and easy and the neighbours were not.
+= 那家的规矩随随便便，邻居可不随便。
+free and easy = 随意、不拘礼
+⑪ It is easy to promise a deadline and hard to explain missing one.
+= 许下一个期限容易，解释为什么误了期就难了。
+it is easy to do something = 做某事很容易
+⑫ He is easy-going about everything except the washing-up.
+= 他什么都随和，只有洗碗这件事不然。
+easy-going = 随和的、不计较的
+⑬ The station plays easy listening from six until the traffic report.
+= 那家电台从六点起放轻音乐，一直放到路况播报。
+easy listening = 轻松悦耳的背景音乐
+⑭ Changing the wheel was easy-peasy and finding the jack took an hour.
+= 换轮胎小菜一碟，找千斤顶花了一个钟头。
+easy-peasy = 小菜一碟（儿语式口语）
 
-earthbound
-核心：两支。一是离不开地面的、飞不起来的：说人或器物被地面拴着；
-二是（比喻）不高远的、缺乏想象力的。
-① An earthbound telescope fights the atmosphere every clear night.
-= 地面上的望远镜每个晴夜都得跟大气层较劲。
-earthbound = 在地面上的、飞不起来的
-② The plan is earthbound in the worst way: safe, cheap and forgettable.
-= 那个方案平庸到家：稳妥、便宜、转头就忘。
-earthbound = 平庸的、不高远的
-构词：earth 加 bound（被束缚住的）
+eat
+核心：动词四支。一是吃；二是吃饭（一顿）；三是（海水、锈、酸）蚀掉，多说 eat away at；
+四是（口语）耗掉、侵蚀：eat into savings。过去式 ate，过去分词 eaten。
+习语：eat your words 是收回说过的话；eat out of somebody's hand 是被人拿捏得服服帖帖；
+what's eating you 是你哪儿不痛快；eat like a horse 是饭量极大；
+eat your heart out 是半开玩笑的「羡慕去吧」。
+① They ate at six because the youngest could not wait any longer.
+= 他们六点就开饭，因为最小的那个等不下去了。
+eat = 吃
+eat a meal = 吃一顿饭
+② The sea has eaten away at that cliff for two hundred years.
+= 两百年来，海一直在啃那道崖。
+eat away at something = 一点点蚀掉某物
+③ Repairs ate into the savings faster than either of them admitted.
+= 修缮把存款吃掉的速度，比他们俩肯承认的都快。
+eat into something = 侵蚀、耗掉某物
+④ He had to eat his words in front of the same committee a month later.
+= 一个月后，他不得不在同一个委员会面前收回自己的话。
+eat your words = 收回说过的话
+⑤ Within a week she had the whole department eating out of her hand.
+= 不出一周，整个部门都被她拿捏得服服帖帖。
+eat out of somebody's hand = 完全听某人摆布
+⑥ What's eating you? You have checked that door four times.
+= 你哪儿不痛快？那扇门你都查四遍了。
+what's eating you = 你哪儿不痛快
+⑦ He eats like a horse and still complains that the portions are small.
+= 他饭量极大，还嫌分量少。
+eat like a horse = 饭量极大
+⑧ Three languages by the age of nine — eat your heart out.
+= 九岁就会三门语言，羡慕去吧。
+eat your heart out = 羡慕去吧（半开玩笑）
+⑨ Eat up — the coach leaves in ten minutes and there is nothing to buy on it.
+= 快吃完，大巴十分钟后走，车上什么也买不到。
+eat up = 吃光、快吃完
+eat something up = 耗掉（时间、资源）
 
-earthen
-核心：两支。一是泥土筑的：an earthen floor 是泥地；
-二是陶土烧的：an earthen jar 是陶罐。只作定语。
-① The earthen floor stayed cool right through August and damp until May.
-= 那泥地整个八月都凉快，到五月还潮着。
-an earthen floor = 泥地
-② Water keeps better in an earthen jar than in anything made of metal.
-= 水搁在陶罐里比搁在任何金属容器里都存得住。
-an earthen jar = 陶罐
-构词：earth 加 -en（表示材质）
+eatable
+核心：还算能入口的：强调勉强可吃、味道过得去；也作复数名词 eatables 指吃食。
+① The bread was three days old and just about eatable with soup.
+= 面包放了三天，配着汤勉强还能吃。
+eatable = 还算能入口的
+② They brought eatables enough for twice the number of people who came.
+= 他们带来的吃食，够来客的两倍吃。
+eatables = 食物、吃食
+注意别混：edible 说的是无毒可食，eatable 说的是味道尚可入口。
 
-earthenware
-核心：陶器：陶土低温烧成、不透明也不致密的器皿 ——
-比瓷器 porcelain 粗，比炻器 stoneware 松。不可数。
-① The earthenware bowls chip at the rim and get used every single day.
-= 那些陶碗边上磕了口，却天天都在用。
-earthenware = 陶器
-an earthenware bowl = 陶碗
-② Glazed earthenware holds water; unglazed lets it sweat right through.
-= 上过釉的陶器能盛水，没上釉的会渗出来。
-glazed earthenware = 上釉陶器
-构词：earthen 加 ware（器皿）
+eater
+核心：吃东西的人：几乎总带修饰语 —— a big eater 是饭量大的人，
+a fussy eater 是挑食的人。英式还拿 an eater 指适合生吃的苹果，对着 a cooker 说。可数。
+① He is a fussy eater who will eat anything cooked by somebody else.
+= 他挑食，可只要是别人做的，什么都吃。
+a fussy eater = 挑食的人
+a big eater = 饭量大的人
+② Those apples are eaters, not cookers, and go soft by Christmas.
+= 那些苹果是生吃的，不是做菜的，到圣诞就绵了。
+an eater = 适合生吃的苹果（英式）
+构词：eat 加 -er
 
-earthiness
-核心：两支。一是泥土气、土腥味：说气味或味道厚重朴实；
-二是（言谈）粗直、不避俗。不可数。
-① The earthiness of the wine comes from the soil and not from the barrel.
-= 那款酒的泥土气来自土壤，不是来自木桶。
-the earthiness of something = 某物的泥土气
-② Her earthiness in the pulpit shocked exactly the people she meant to shock.
-= 她在讲坛上那份粗直，恰好惊到了她想惊的那些人。
-earthiness = 说话粗直、不避俗
-构词：earthy 加 -ness
+eatery
+核心：（口语）小馆子、饭馆：随口说的餐饮店，比 restaurant 轻松。可数，复数 eateries。
+① A dozen eateries opened on that street and four of them are still there.
+= 那条街上开了十来家小馆子，还剩四家。
+an eatery = 小馆子
+② The eatery by the station does one dish well and everything else badly.
+= 车站旁那家馆子有一道菜做得好，别的都糟。
+a roadside eatery = 路边小馆
+构词：eat 加 -ery（表示场所）
 
-earthling
-核心：地球人：科幻里外星人对地球人的称呼，日常用起来带调侃。可数。
-① The film has an alien call everyone earthlings and nobody objects.
-= 那部电影里外星人管所有人叫地球人，也没人反对。
-an earthling = 地球人
-② He signs his emails 'from one earthling to another' and thinks it is funny.
-= 他在邮件末尾署「地球人致地球人」，还觉得挺好笑。
-earthlings = 地球人（复数）
-构词：earth 加 -ling
+eating
+核心：两支。一是吃（这件事）：动名词，说进食这个行为，不可数；
+二是形容词「生吃的」：an eating apple。
+① Eating together every evening was the one rule that survived the divorce.
+= 每晚一起吃饭，是离婚之后唯一留下来的规矩。
+eating together = 一起吃饭
+healthy eating = 健康饮食
+② Eating apples are sweeter and fall apart in a pie.
+= 生吃的苹果更甜，做成派会烂成一摊。
+an eating apple = 生吃的苹果
 
-earthly
-核心：两支。一是尘世的、现世的：跟 heavenly 天上的相对；
-二是用来加强否定：no earthly reason、not an earthly chance，说「一丁点也没有」。
-① He gave up his earthly possessions and kept the record player.
-= 他舍弃了尘世的财产，只留下那台唱机。
-earthly possessions = 尘世的财物
-② There is no earthly reason to leave before the last train.
-= 末班车之前就走，一丁点道理也没有。
-no earthly reason = 毫无理由
-not an earthly chance = 一点机会也没有
+eats
+核心：（口语）吃的、吃食：随口说的食物，尤指聚会上的简餐。复数形式。
+① There are eats in the kitchen and nobody has touched the salad.
+= 厨房里有吃的，沙拉一口没动。
+eats = 吃食
+② They promised drinks and eats and delivered mostly drinks.
+= 他们说有酒也有吃的，端上来的基本都是酒。
+drinks and eats = 酒水与吃食
 
-earthquake
-核心：地震：地壳突然错动引起的震动，用震级 magnitude 衡量。可数。
-比喻用法指剧变：an electoral earthquake 是选举大地震。
-① The earthquake lasted nine seconds and rearranged every shelf in the house.
-= 那场地震持续了九秒，把家里每个架子都晃乱了。
-an earthquake = 地震
-a major earthquake = 大地震
-② The result was an electoral earthquake and two parties never recovered.
-= 那个结果是一场选举大地震，两个政党从此没缓过来。
-an electoral earthquake = 选举大地震
-构词：earth 加 quake（震动）
+eau de toilette
+核心：淡香水：香精浓度较低的一类香水，比 eau de parfum 淡，留香也短。
+法语借词，读音照法语。不可数，一瓶说 a bottle of eau de toilette。
+① Eau de toilette fades by lunchtime and that is rather the point.
+= 淡香水到午饭时就散了，这正是它的用处。
+eau de toilette = 淡香水
+② A bottle of eau de toilette lasts him about two years.
+= 一瓶淡香水他能用两年左右。
+a bottle of eau de toilette = 一瓶淡香水
 
-earthwork
-核心：土垒、土方工事：为防御或工程堆筑起来的土墙、土堤；
-考古里指古代留下的土垒。可数，多用复数。
-① The earthworks around the hill are older than anything written about them.
-= 那座山周围的土垒，比一切关于它们的文字都古老。
-earthworks = 土垒
-② The earthwork holds the road back from the river in flood years.
-= 发大水的年头，那道土堤把河水挡在路外面。
-an earthwork = 土堤、土方工事
-构词：earth 加 work
+eaves
+核心：屋檐：屋顶探出墙外的那一圈边沿，雨水从这里滴下来。永远用复数。
+① Swallows nest under the eaves and come back to the same corner every April.
+= 燕子在屋檐下筑巢，每年四月回到同一个角落。
+under the eaves = 在屋檐下
+the eaves = 屋檐
+② The eaves overhang far enough to keep the wall dry in most storms.
+= 屋檐探出得够远，多数暴雨里墙都淋不着。
+overhanging eaves = 探出来的屋檐
 
-earthworm
-核心：蚯蚓：在土里钻洞的环节动物，吞土取食，是土壤肥力的指标。可数。
-① A spadeful of good soil holds more earthworms than most people expect.
-= 一铁锹好土里的蚯蚓，比多数人想的要多。
-an earthworm = 蚯蚓
-② Earthworms pull leaves down into their burrows and turn the whole layer over.
-= 蚯蚓把叶子拖进洞里，把整层土都翻了一遍。
-earthworms = 蚯蚓（复数）
-构词：earth 加 worm
+eavesdrop
+核心：偷听：不动声色地听本不该听的谈话，搭 eavesdrop on somebody。
+过去式 eavesdropped，双写 p。本义是站在屋檐滴水的地方偷听。
+① She eavesdropped on the whole conversation and repeated none of it.
+= 她把那段对话整个偷听下来，一句也没往外传。
+eavesdrop on somebody = 偷听某人说话
+② Anyone on that stairwell can eavesdrop without meaning to.
+= 站在那个楼梯间的人，不想偷听也听得见。
+eavesdrop = 偷听
+构词：eaves 加 drop（屋檐滴水处）
 
-earthy
-核心：三支。一是有泥土气的（气味、味道）；二是土色的：earthy browns；
-三是（言谈）粗直的、不避俗的。比较级 earthier。
-① The mushrooms are earthy in a way that survives an hour of cooking.
-= 那些蘑菇的土腥味浓到炖一个钟头都不散。
-earthy = 有泥土气的
-② The room is painted in earthy browns that hide most of the marks.
-= 屋子刷成土褐色，多数印子都看不出来。
-earthy browns = 土褐色
-③ His earthy humour goes down badly at eleven in the morning.
-= 他那种荤素不忌的幽默，上午十一点讲出来不受用。
-earthy humour = 粗直不避俗的幽默
+eavesdropper
+核心：偷听的人：躲着听别人谈话的人。可数。
+① An eavesdropper hears the half of it that makes the least sense.
+= 偷听的人听到的，往往是最不成话的那一半。
+an eavesdropper = 偷听的人
+② The old proverb warns eavesdroppers never to expect a compliment.
+= 老话告诫偷听的人，别指望听到什么好话。
+eavesdroppers = 偷听者（复数）
+构词：eavesdrop 加 -er
 
-earwax
-核心：耳垢、耵聍：耳道里分泌的蜡状物，本是护着耳道的，多了会堵住听力。不可数。
-① Earwax protects the canal and only becomes a problem when it blocks it.
-= 耳垢本来是护着耳道的，堵住了才成问题。
-earwax = 耳垢
-② The nurse softened the earwax for three days before she removed it.
-= 护士先软化了三天耳垢，才把它取出来。
-remove earwax = 清除耳垢
-构词：ear 加 wax
+eavestrough
+核心：（北美）檐沟、天沟：装在屋檐下接雨水的槽，英式多叫 gutter。可数。
+① The eavestrough fills with pine needles twice a year and overflows both times.
+= 那道檐沟一年两回被松针塞满，两回都溢水。
+an eavestrough = 檐沟
+② He cleans the eavestroughs in October and swears about it every time.
+= 他十月里清天沟，每回都要骂两句。
+clean the eavestroughs = 清理檐沟
+构词：eaves 加 trough（槽）
 
-earwig
-核心：蠼螋：尾端带一对钳子的小昆虫，爱躲在花瓣与阴湿的缝里。可数。
-名字来自旧时「会钻进耳朵」的说法，其实并不会。
-① An earwig came out of the dahlia and both of them jumped.
-= 一只蠼螋从大丽花里爬出来，两个人都吓了一跳。
-an earwig = 蠼螋
-② Earwigs eat aphids as well as petals, which the gardener never mentions.
-= 蠼螋除了啃花瓣也吃蚜虫，园丁从不提这一头。
-earwigs = 蠼螋（复数）
+ebb
+核心：名词与动词。名词是退潮：the ebb 跟涨潮 the flow 相对；
+动词是（潮水）退去，也比喻力气、信心、热情一点点消退。
+习语：the ebb and flow of something 是某事的起起落落；at a low ebb 是处在低潮。
+① The boat has to leave on the ebb or wait another twelve hours.
+= 船得趁退潮走，不然再等十二个钟头。
+the ebb = 退潮
+② The tide ebbed and left a line of weed along the whole beach.
+= 潮水退去，整片沙滩上留下一条海草线。
+ebb = 退潮、退去
+③ His confidence ebbed away over three bad weeks and came back in one afternoon.
+= 他的信心在难熬的三周里一点点流失，一个下午又回来了。
+ebb away = 渐渐消退
+④ The ebb and flow of the argument tired everyone except the two arguing.
+= 那场争论的来来回回，把除争论双方之外的人都累坏了。
+the ebb and flow of something = 某事的起起落落
+⑤ Morale was at a low ebb and the canteen closing did not help.
+= 士气正在低潮上，食堂再一关就更糟。
+at a low ebb = 处在低潮
 
-earworm
-核心：耳虫：在脑子里循环播放、怎么也赶不走的一小段旋律。可数，口语。
-① The advert planted an earworm that lasted the whole of that summer.
-= 那支广告种下一段耳虫，整个夏天都在脑子里转。
-an earworm = 挥之不去的旋律
-② Singing the tune right through is the only cure for an earworm that works.
-= 把整首曲子从头唱完，是治耳虫唯一管用的办法。
-a cure for an earworm = 赶走耳虫的办法
-构词：德语 Ohrwurm 直译过来的
+Ebola
+核心：埃博拉（出血热）：致死率很高的病毒性传染病，全称 the Ebola virus，
+也说 Ebola virus disease。不可数，医学与新闻里都用。
+① Ebola reached the capital in nine days and the clinic had two thermometers.
+= 埃博拉九天就传到首都，那家诊所只有两支体温计。
+Ebola = 埃博拉出血热
+② The Ebola virus survives longer on surfaces than the old guidance said.
+= 埃博拉病毒在物体表面存活的时间，比旧指南上说的长。
+the Ebola virus = 埃博拉病毒
 
-ease
-核心：名词两支、动词三支。名词一是容易、不费劲：with ease；
-二是安适、自在：at ease、ill at ease。
-动词一是减轻（疼痛、压力）；二是（缓慢小心地）挪动；三是（情势）缓和。
-习语：at ease 是自在，也是军队口令「稍息」；ill at ease 是浑身不自在；
-put somebody at their ease 是让人放松下来。
-① She passed the test with ease and then complained about the parking.
-= 她轻轻松松考过了，倒抱怨起停车来。
-with ease = 轻而易举地
-ease of use = 用起来的方便
-② He never looks at ease in a suit and knows it.
-= 他穿西装从来都不自在，自己也清楚。
-be at ease = 自在
-be ill at ease = 浑身不自在
-③ The chairman put her at her ease with two sentences about the weather.
-= 主席用两句关于天气的话就让她放松下来。
-put somebody at their ease = 让某人放松下来
-④ A hot bath eased the ache enough for him to sleep.
-= 一个热水澡把酸痛压下去一些，够他睡着了。
-ease the pain = 减轻疼痛
-⑤ They eased the piano through the door and took the hinges off anyway.
-= 他们小心翼翼把钢琴挪过门，最后还是把铰链卸了。
-ease something through something = 小心地把某物挪过某处
-⑥ Tension eased after the second meeting and nobody quite said why.
-= 第二次开会之后气氛缓和了，谁也说不太清为什么。
-ease = （情势）缓和下来
-⑦ He eased himself into the job over three months and never announced it.
-= 他用三个月慢慢进入角色，也没跟谁宣布过。
-ease into something = 慢慢进入、逐步适应
-⑧ The rain eased off around four and the match restarted.
-= 雨到四点前后小了下来，比赛重新开始。
-ease off = （雨、疼痛、压力）减弱
-⑨ They eased him out over a year and called it a restructuring.
-= 他们花一年把他慢慢挤走，管这叫重组。
-ease somebody out = 婉转地把某人挤出去
-写作 ease out：宾语放中间放后面都行，多用被动 be eased out。
-⑩ Ease up — there are two more flights of stairs and no lift.
-= 悠着点，还有两层楼梯，而且没电梯。
-ease up = 放慢、放松
-ease up on somebody = 对某人手下留情
+ebony
+核心：两支。一是乌木：黑色的硬木，做琴键、家具镶嵌用，不可数；
+二是乌黑（的）：说颜色纯黑发亮，形容词与名词都行。
+① The black keys are ebony and the white ones stopped being ivory long ago.
+= 黑键是乌木做的，白键早就不是象牙了。
+ebony = 乌木
+② Her ebony hair shows every speck of dust that lands on a collar.
+= 她那头乌黑的头发，衣领上落一点灰都显得出来。
+ebony hair = 乌黑的头发
 
-easeful
-核心：安逸的、令人宁静的：文学用词，说安适无扰的状态，
-如今几乎只在诗文与引文里见得到。
-① The poem calls death easeful and the class argued about it for an hour.
-= 那首诗把死亡称作安逸的，全班为此争了一个钟头。
-easeful = 安逸的、令人宁静的
-② She wanted an easeful afternoon and got three phone calls instead.
-= 她本想过个清静的下午，结果来了三通电话。
-an easeful afternoon = 清静的下午
-构词：ease 加 -ful
+ebullience
+核心：热情洋溢、兴高采烈：那种压不住的兴奋劲儿。不可数，正式。
+① His ebullience carried the first hour and wore everybody out by the third.
+= 他那股兴头撑起了头一个钟头，到第三个钟头把人都熬垮了。
+ebullience = 热情洋溢
+② The ebullience of the crowd survived a two-hour delay and a change of venue.
+= 人群的兴致熬过了两个钟头的延误，还熬过了一次改场地。
+the ebullience of the crowd = 人群的兴高采烈
+构词：ebullient 的名词
 
-easel
-核心：画架：撑住画布或画板的三脚支架；讲课用的挂图架也叫 easel。可数。
-① The easel folds flat and still takes up the whole boot.
-= 那个画架能折平，照样占满整个后备厢。
-an easel = 画架
-② She works standing at an easel and sits down only to look at what she has done.
-= 她站在画架前作画，只有回头看画时才坐下。
-stand at an easel = 站在画架前
+ebullient
+核心：热情洋溢的、兴致勃勃的：说人情绪高、劲头足，也说场面气氛热烈。正式。
+① She was ebullient about the results and cautious about what they proved.
+= 她为那些结果兴奋不已，对它们究竟证明了什么却很谨慎。
+be ebullient = 兴致勃勃
+an ebullient mood = 高涨的情绪
+② An ebullient crowd filled the square two hours before anything began.
+= 兴致高昂的人群在开场前两个钟头就挤满了广场。
+an ebullient crowd = 兴高采烈的人群
+构词：拉丁语的「沸腾」，跟 boil 同源
 
-easement
-核心：地役权：法律上一块地对另一块地享有的通行或使用权利 ——
-比如从邻居地里过路、埋管线。可数。
-① The easement lets the farm cross that field and predates both houses.
-= 那项地役权允许农场从那块地穿过，比两栋房子都早。
-an easement = 地役权
-② They bought the cottage without noticing the easement over the drive.
-= 他们买下那间小屋，没注意车道上还有一项地役权。
-an easement over something = 对某处的通行权
+ebulliently
+核心：兴高采烈地、热情洋溢地：修饰打招呼、说话、庆祝这类动作。
+① He greeted everyone ebulliently and forgot two of the names immediately.
+= 他兴高采烈地跟每个人打招呼，转头就忘了其中两个名字。
+greet somebody ebulliently = 热情洋溢地招呼某人
+② The team celebrated ebulliently and then lost the next four matches.
+= 那支队伍庆祝得忘乎所以，接下来四场全输。
+celebrate ebulliently = 兴高采烈地庆祝
+构词：ebullient 加 -ly
 
-easily
-核心：三支。一是容易地、不费劲地；二是（跟最高级、比较级连用）无疑、显然：
-easily the best；三是很可能：It could easily rain。
-① She easily lifted the box that two of them had refused to touch.
-= 她轻松抬起了那只两个人都不肯碰的箱子。
-easily = 轻而易举地
-② That is easily the best thing on the menu and it always sells out.
-= 那道菜无疑是菜单上最好的，也总是最先卖光。
-easily the best = 无疑最好的
-③ It could easily rain before we get the tent up.
-= 帐篷搭好之前很可能就下雨了。
-could easily = 很可能
-构词：easy 加 -ly，拼写 y 变 i
+eccentric
+核心：三支。一是（人、举止）古怪的、与众不同的：不带恶意，多少还有点欣赏；
+二是名词「怪人」；三是（技术）偏心的：不绕中心转的。
+副词 eccentrically，名词 eccentricity。
+① His eccentric habits are famous locally and harmless everywhere.
+= 他那些古怪习惯本地人尽皆知，放到哪儿都无伤大雅。
+eccentric habits = 古怪的习惯
+② She is a well-known eccentric who has never owned a telephone.
+= 她是当地有名的怪人，一辈子没有过电话。
+an eccentric = 怪人
+③ An eccentric wheel turns rotation into a push and a pull.
+= 偏心轮把旋转变成一推一拉。
+an eccentric wheel = 偏心轮
 
-easiness
-核心：两支。一是容易、不费力：说事情做起来不难这一点，不可数，用得少 ——
-多数场合会改说 how easy it was；二是（人与人之间的）自在随和。
-① The easiness of the first question fooled half the room.
-= 头一道题太容易，把半屋子人骗了。
-the easiness of something = 某事的容易
-② There was an easiness between them that eleven years apart had not touched.
-= 他们之间那份自在，分开十一年也没动摇。
-an easiness between people = 相处的自在随和
-构词：easy 加 -ness，拼写 y 变 i
+eccentrically
+核心：古怪地、异乎常人地：说穿着打扮与行事方式。
+① He dresses eccentrically and is the most conventional man in the office.
+= 他穿得古里古怪，却是办公室里最循规蹈矩的人。
+dress eccentrically = 穿得古怪
+② The house is eccentrically arranged: the kitchen is upstairs and the bath is not.
+= 那房子布局古怪：厨房在楼上，浴室倒不在。
+be eccentrically arranged = 布置得古怪
+构词：eccentric 加 -ally
 
-east
-核心：名词、形容词、副词三用：东、东方，太阳升起的那一边，跟 west 相对。
-名词说 the east，方位定语说 the east coast，副词说 travel east。
-大写的 the East 指东方国家，冷战语境里也指东欧。
-① The east coast gets the light first and the weather second.
-= 东海岸先得到阳光，然后才轮到天气。
-the east coast = 东海岸
-the east = 东方、东部
-② They drove east until the road ran out and then walked.
-= 他们一路向东开到路断了，然后步行。
-drive east = 向东开
-③ Trade between East and West went through that port for four centuries.
-= 东西方之间的贸易经那个港口走了四百年。
-the East = 东方（国家）
-④ The wind backed east-north-east and the ferry stayed in port.
-= 风转成东北偏东，渡轮就没出港。
-east-north-east = 东北偏东
-east-south-east = 东南偏东
-⑤ The east-west line carries twice the traffic of the other two.
-= 东西向那条线的客流是另外两条的两倍。
-east-west = 东西向的
+eccentricity
+核心：两支。一是古怪（这种性质），不可数；
+二是（具体的）怪癖，可数，复数 eccentricities。
+① Eccentricity is tolerated in that college and rewarded in one department.
+= 那所学院容得下古怪，其中有个系还奖励古怪。
+eccentricity = 古怪
+② His eccentricities include reading only in the garden and only aloud.
+= 他的怪癖包括：只在园子里读书，而且只出声读。
+somebody's eccentricities = 某人的怪癖
+构词：eccentric 加 -ity
 
-eastbound
-核心：向东行的：说车、船、航班或车道往东走。多作定语。
-① The eastbound carriageway was shut and everybody found the same back lane.
-= 东行车道封了，所有人都摸到了同一条小路。
-the eastbound carriageway = 东行车道
-② She caught the eastbound train by two seconds and stood the whole way.
-= 她差两秒赶上了东行列车，一路站到底。
-an eastbound train = 东行列车
-构词：east 加 bound（朝…去的）
+Eccles cake
+核心：埃克尔斯饼：英格兰西北出的小圆酥饼，里头包着黑加仑干。可数。
+① An Eccles cake leaves flakes of pastry on everything within reach.
+= 一个埃克尔斯饼，够得着的地方全撒上酥皮屑。
+an Eccles cake = 埃克尔斯饼
+② The bakery sells Eccles cakes by the half-dozen and runs out by ten.
+= 那家面包房埃克尔斯饼半打起卖，十点就卖光了。
+Eccles cakes = 埃克尔斯饼（复数）
 
-Easter
-核心：复活节：基督教纪念耶稣复活的节日，日期随月相浮动，落在三四月间。
-一串固定说法：an Easter egg（复活节彩蛋，也指影视与游戏里的隐藏彩蛋）、
-an Easter egg hunt（找彩蛋游戏）、the Easter bunny（复活节兔子）、
-Eastertime（复活节前后那段日子）。
-① The shops fill with chocolate weeks before Easter and mark it down the day after.
-= 复活节前好几周店里就摆满巧克力，节后第二天就降价。
-Easter = 复活节
-at Easter = 在复活节期间
-② The children hunt for Easter eggs in a garden the neighbours have to lend them.
-= 孩子们在邻居借出来的花园里找复活节彩蛋。
-an Easter egg = 复活节彩蛋
-an Easter egg hunt = 找彩蛋游戏
-③ The film hides an Easter egg in the credits for anybody who stays put.
-= 那部电影在片尾字幕里藏了一个彩蛋，留下不走的人才看得到。
-an Easter egg = 影视、游戏里的隐藏彩蛋
-④ The Easter bunny leaves a trail of foil wrappers and no footprints.
-= 复活节兔子留下一路锡纸糖纸，却不留脚印。
-the Easter bunny = 复活节兔子
-⑤ Eastertime brings the first coach parties and the last of the frost.
-= 复活节前后，头几批大巴游客来了，霜也下最后一场。
-Eastertime = 复活节前后那段日子
+ecclesiastic
+核心：教士、神职人员：正式或旧式用词，指基督教会的圣职人员。可数。
+也作形容词，跟 ecclesiastical 同义。
+① An ecclesiastic in a plain coat took the service and left before the tea.
+= 一位穿着素净外套的教士主持了礼拜，喝茶前就走了。
+an ecclesiastic = 教士
+② Two ecclesiastics signed the letter and the bishop distanced himself from it.
+= 两位神职人员在那封信上签了名，主教随即与之划清界限。
+ecclesiastics = 神职人员（复数）
 
-easterly
-核心：两支。一是（方向）偏东的、向东的；二是（风）从东边来的 ——
-风向词说的是风从哪儿来。名词 an easterly 就是东风。
-① The path takes an easterly line along the ridge for two miles.
-= 那条小路沿山脊往东走两英里。
-an easterly line = 偏东的走向
-② An easterly wind in April brings the cold back for a week.
-= 四月里刮东风，寒气会回来一个礼拜。
-an easterly wind = 东风
-注意别混：easterly 说风是从东边来，不是往东吹。
+ecclesiastical
+核心：教会的：说跟教会组织、教规、教产、教堂建筑有关的。只作定语居多。
+① Ecclesiastical law still decides what happens to that graveyard.
+= 那片墓地如何处置，至今由教会法说了算。
+ecclesiastical law = 教会法
+② The building is ecclesiastical in every line and has been a library since 1974.
+= 那栋楼处处是教堂式样，可从一九七四年起就是图书馆。
+ecclesiastical architecture = 教会建筑
+构词：ecclesiastic 加 -al

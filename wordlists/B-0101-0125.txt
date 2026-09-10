@@ -1,75 +1,3 @@
-abs
-核心：abdominal muscles 的口语缩写，指腹肌。
-永远用复数。健身语境高频。
-① He works on his abs every morning and has never once stretched afterwards.
-= 他每天早上练腹肌，练完从没拉伸过。
-work on one's abs = 练腹肌
-② Six-pack abs take discipline and a great deal of luck with your genes.
-= 练出六块腹肌得靠自律，还得基因给面子。
-six-pack abs = 六块腹肌
-③ Do crunches for your abs, but do something for your back as well.
-= 做卷腹练腹肌，背也得练点什么。
-crunches = 卷腹
-注意：abs 永远用复数。
-词族：
-abdominal = 腹部的
-同类健身缩写：
-pecs = 胸肌 / lats = 背阔肌
-delts = 三角肌 / quads = 股四头肌
-
-abscess
-核心：医学词，指身体里化脓形成的"脓肿"。牙龈上的最常见。
-注意 sc 的读音，c 不发音。
-① He has an abscess on his gum and has been chewing on one side for a week.
-= 他牙龈上有个脓肿，一周都只用一边嚼东西。
-② The abscess had to be drained and the relief was immediate.
-= 那个脓肿必须引流，一引就立刻不疼了。
-③ An abscess formed under the skin and showed as a hard lump the size of a coin.
-= 皮下形成了一个脓肿，摸上去是个硬币大的硬块。
-注意发音：/ˈæbses/，
-中间的 c 不单独发音。
-近义对照：
-abscess 脓肿（有脓腔）
-boil 疖子（皮肤表面）
-ulcer 溃疡（表面溃烂）
-
-abscond
-核心：指携款或弃保"潜逃"，法律用语。介词用 with（带走什么）
-或 from（从哪里逃）。
-① He absconded with the funds and was traced through a hire car three weeks later.
-= 他卷款潜逃，三周后靠一辆租来的车被查到。
-abscond with = 携…潜逃
-② The prisoner absconded from custody during a hospital appointment.
-= 那名囚犯在一次就医途中脱逃。
-abscond from = 从…潜逃
-③ Two suspects have absconded and their passports were never handed in.
-= 两名嫌疑人在逃，护照始终没交上来。
-词族：
-absconder = 潜逃者
-近义对照：
-abscond = 潜逃（法律，常携款或弃保）
-flee = 逃离（危险）
-escape = 逃脱（束缚）
-
-abseil
-核心：英式登山术语，指沿绳索"速降"下崖。美式说 rappel。
-既是动词也是名词。
-① They abseiled down the cliff in a wind that pushed them sideways.
-= 他们在把人往旁边推的风里沿绳索速降下崖。
-abseil down = 沿绳下降
-② She learned to abseil at forty and has not stopped since.
-= 她四十岁学会了绳降，此后就没停过。
-③ It was a fifty-metre abseil onto a ledge the width of a table.
-= 那是五十米的绳降，落到一块桌面宽的岩台上。
-注意英美差别：
-abseil = 沿绳速降（英式）
-rappel = 沿绳速降（美式）
-注意发音：/ˈæbseɪl/，
-词源来自德语。
-④ Abseiling requires a harness and someone at the bottom who is paying attention.
-= 绳降需要安全带，还需要下面有个正在留神的人。
-abseiling = 绳降运动（美式 rappelling）
-
 absence
 核心：底层是"不在场"。具体指人的缺席，抽象指某物的缺乏。固定
 搭配 in the absence of 表示"在没有…的情况下"，学术写作里极常见。
@@ -497,3 +425,113 @@ abstinent = 有节制的
 近义对照：
 abstinence = 完全戒除
 moderation = 适度节制
+
+abstinent
+核心：形容人"正在戒除某物的"，医学和成瘾治疗语境里常用。
+比 abstemious 更强调"完全不碰"。
+① He has been abstinent for a year and counts the days without meaning to.
+= 他已经戒了一年，不由自主地数着日子。
+be abstinent = 处于戒断状态
+② Abstinent patients recover faster, though the pattern is not the same for everyone.
+= 完全戒断的病人恢复更快，不过并非人人如此。
+③ She remained abstinent throughout a job that involved four dinners a week.
+= 那份工作一周要吃四顿应酬饭，她全程滴酒未沾。
+remain abstinent = 保持戒断
+词族：
+abstinence = 戒除
+abstain = 戒除
+近义对照：
+abstinent = 完全不碰
+abstemious = 有节制（少量可以）
+
+abstract
+核心：拉丁语的本义是"抽离出来"，三个身份都从这里长出来。把性质从
+实物上抽离，得到的是"抽象的"概念；把要点从论文里抽离，得到的是
+"摘要"；动作本身就是动词"提取"。艺术上的抽象画也是同一回事——
+把形式从描摹对象里抽离出来。名词与形容词重音在前，动词重音在后，
+这是英语里典型的名动重音差。
+① It's an abstract concept and nobody has defined it the same way twice.
+= 这是个抽象概念，没有两个人给出过同样的定义。
+形容词：性质被从具体事物上抽离出来。
+反义词：
+abstract 抽象 / concrete 具体
+② Beauty is abstract until somebody puts a price on a particular painting.
+= 美是抽象的，直到有人给某幅具体的画标了价。
+摸不着、指不出实物的，就是抽象的。
+③ Let's not discuss it in the abstract; give me one real example.
+= 别泛泛而谈，给我举一个实在的例子。
+in the abstract = 抽象地、脱开实例地
+④ Read the abstract first and decide whether the rest is worth an afternoon.
+= 先读摘要，再决定余下的值不值得花一下午。
+名词：从长文里抽出来的要点，重音在前。
+abstract = 摘要
+⑤ He abstracted the key data and left out everything that complicated it.
+= 他把关键数据抽出来，凡是会添乱的都略去了。
+动词：抽离这个动作本身，重音在后。
+⑥ She paints abstract art and sells more of it than any of her portraits.
+= 她画抽象画，卖得比她任何一幅肖像都多。
+abstract art = 抽象艺术（不描摹实物）
+把形式从对象上抽离，所以也叫抽象。
+⑦ The gallery bought two abstracts and hung them in the corridor.
+= 画廊买了两幅抽象画，挂在了走廊里。
+abstract = 抽象画作（可数名词）
+⑧ Abstract expressionism began in New York and was exported as propaganda.
+= 抽象表现主义始于纽约，后来被当作宣传输出到国外。
+abstract expressionism = 抽象表现主义
+⑨ Pollock was an abstract expressionist and hated being called one.
+= 波洛克是抽象表现主义画家，最烦别人这么叫他。
+abstract expressionist = 抽象表现主义者
+⑩ "Freedom" is an abstract noun and takes no article in that sentence.
+= 「freedom」是抽象名词，在那句话里不加冠词。
+abstract noun = 抽象名词（指不可触摸的事物）
+⑪ He thinks abstractly and cannot give directions to his own house.
+= 他习惯抽象地思考，连自己家怎么走都说不清。
+abstractly = 抽象地
+⑫ The report is an abstraction of the data and hides every awkward case.
+= 这份报告是数据的抽象概括，把每个棘手的个案都藏了起来。
+abstraction = 抽象；提炼出的概念；出神
+
+abstracted
+核心：指人"心不在焉、走神的"，和形容词 abstract（抽象的）
+意思完全不同——这是同一个词的两个身份，容易读错。
+① He had an abstracted look and answered a question nobody had asked.
+= 他神情恍惚，回答了一个没人问过的问题。
+an abstracted look = 出神的神情
+② She seemed abstracted today and got off two stops early.
+= 她今天好像心不在焉，提前两站就下了车。
+③ He answered in an abstracted way that suggested he was still working.
+= 他心不在焉地答着，看得出脑子还在想事。
+注意区别：
+abstract = 抽象的（概念）
+abstracted = 走神的（人的状态）
+近义对照：
+abstracted = 出神（正式）
+absent-minded = 健忘走神（长期）
+distracted = 分心（受干扰）
+④ She stirred her tea abstractedly for a full minute without drinking any.
+= 她出神地搅了整整一分钟茶，一口没喝。
+abstractedly = 心不在焉地
+
+abstraction
+核心：三条线：抽象这个过程、抽象的"概念"本身、以及人的"出神"。
+学术写作里第一二条常见，第三条偏文学。
+① Treating the whole network as one pipe is a useful abstraction when you need rough numbers.
+= 只需要粗略数字时，把整个网络当成一根管子是个有用的抽象。
+a useful abstraction = 有用的抽象
+② Justice is an abstraction until somebody has to decide what it means in one particular case.
+= 正义只是个抽象的东西，直到有人得在某个具体案子里决定它到底指什么。
+③ He stared in abstraction at a page he had not turned for ten minutes.
+= 他出神地盯着一页纸，十分钟没翻过去。
+in abstraction = 心不在焉地
+④ Abstraction hides complexity, which is helpful until something underneath it breaks.
+= 抽象把复杂性藏了起来，这很有用，直到底下有东西坏掉。
+词族：
+abstract = 抽象的
+反义词：
+concrete = 具体的
+⑤ Abstractionism rejects representation and asks the viewer to look at colour alone.
+= 抽象主义摒弃具象再现，要观者只看颜色。
+abstractionism = 抽象主义
+⑥ She is a leading abstractionist whose early work nobody would now recognize.
+= 她是抽象派的代表人物，早期作品如今没人认得出。
+abstractionist = 抽象派艺术家

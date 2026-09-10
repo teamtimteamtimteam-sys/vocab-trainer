@@ -1,44 +1,3 @@
-facial
-核心：两支。一是形容词，面部的：a facial expression、facial hair；
-二是名词，面部护理。副词 facially。
-① Her facial expression did not change and the hand on the table did.
-= 她的面部表情没变，桌上那只手变了。
-a facial expression = 面部表情
-facial hair = 面部毛发
-② She books a facial before every wedding and sleeps through most of it.
-= 每逢婚礼她都先约个面部护理，多半时间都睡过去了。
-have a facial = 做面部护理
-
-facially
-核心：从面部看、长相上：多见于医学描述与人物辨认。
-① Facially the twins are identical and their walk gives them away.
-= 两个双胞胎长相一模一样，走路的样子露了馅。
-facially identical = 长相完全相同
-② The injury is facially obvious and does not show on the scan.
-= 那处伤在脸上一眼就见，扫描片上却看不出来。
-facially = 从面部看
-构词：facial 加 -ly
-
-facile
-核心：（贬，正式）流于表面的、来得太轻巧的：说论证或结论没有分量；
-也说技艺娴熟得近乎油滑。
-① The article offers a facile explanation and two very good photographs.
-= 那篇文章给了一个浮泛的解释，外加两张极好的照片。
-a facile explanation = 浮泛的解释
-② A facile comparison between the two wars survived a whole term of teaching.
-= 把那两场战争草率类比的说法，在课上讲了整整一个学期。
-facile = 流于表面的
-
-facilitate
-核心：（正式）促进、使便利：让事情办起来更顺，主语多是措施或安排。及物。
-名词 facilitation 与 facilitator。
-① A shuttle bus facilitates the journey and nobody has told the passengers.
-= 一趟接驳车让这段路好走多了，却没人告诉乘客。
-facilitate something = 促成某事
-② The grant is meant to facilitate research and pays mostly for furniture.
-= 那笔拨款本意是助力研究，花掉的大半是家具钱。
-facilitate research = 助力研究
-
 facilitation
 核心：（正式）两支。一是促进、使流程走顺；二是会议里的引导、主持。不可数。
 ① Trade facilitation means fewer forms and one more office to run them.
@@ -269,3 +228,35 @@ faddiness about food = 对吃的挑剔
 ② His faddiness lasted until the second week of camp and then vanished.
 = 他那份挑剔，撑到夏令营第二周就没影了。
 构词：faddy 加 -ness
+
+faddy
+核心：（英式，贬）挑食的、爱赶时兴的：多说小孩挑嘴 —— a faddy eater。
+① A faddy eater at that table changes what everybody else gets.
+= 那张桌上有一个挑食的，别人吃什么都得跟着改。
+a faddy eater = 挑食的人
+② She is faddy about tea and drinks whatever the office provides.
+= 她对茶很挑，办公室给什么她照样喝。
+be faddy about something = 对某物挑剔
+
+fade
+核心：三支。一是（颜色、光线）褪去、变淡；二是（声音、记忆）渐渐消失；
+三是影视用语 fade in（淡入）与 fade out（淡出）。
+① The curtains have faded on the side that gets the afternoon sun.
+= 窗帘朝着下午太阳的那一面褪了色。
+fade = 褪色
+② The noise faded and the room noticed the clock for the first time.
+= 那阵响动渐渐消失，屋里人头一回听见了钟摆。
+fade away = 逐渐消失
+③ The scene fades out on an empty road and fades in on the same road at dawn.
+= 那场戏在空荡的路上淡出，又在天亮时同一条路上淡入。
+fade out = 淡出
+fade in = 淡入
+
+fader
+核心：（音响、灯光）推子：调音台上那根上下推的滑杆，用来做渐强渐弱。可数。
+① He rode the fader through the whole song and never touched the other channels.
+= 整首歌他就盯着那根推子推，别的通道碰都没碰。
+a fader = 推子
+② The fader crackles at the top of its travel and behaves perfectly below it.
+= 那根推子推到顶会有杂音，往下就规规矩矩。
+构词：fade 加 -r

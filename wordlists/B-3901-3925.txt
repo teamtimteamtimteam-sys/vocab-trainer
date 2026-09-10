@@ -1,561 +1,514 @@
-camellia
-核心：山茶：常绿灌木，冬春开厚瓣的花，红白粉都有。
-名字来自十七世纪一位姓 Camellus 的植物采集者。可数。
-① The camellia flowers in February and the frost often takes it.
-= 山茶二月开花，常被霜打掉。
-camellia = 山茶
-② She planted a white camellia by the door of the old house.
-= 她在老屋门边种了一株白山茶。
-plant = 栽种
-③ Camellias need acid soil and sulk in anything chalky.
-= 山茶要酸性土，土里带白垩就长不好。
-acid soil = 酸性土壤
-构词：人名 Camellus 拉丁化后加植物后缀
-注意读音：重音在第二音节。
+candela
+核心：发光强度的国际单位，符号 cd，说的是光源在某个
+方向上有多亮。灯具与显示屏的规格里会读到。可数。
+① One candela is roughly the light of a single ordinary candle.
+= 一坎德拉大致相当于一支普通蜡烛的亮度。
+candela = 坎德拉
+② The lamp is rated at four hundred candelas in one direction only.
+= 那盏灯只在一个方向上标称四百坎德拉。
+be rated at = 标称为
+③ Candela measures intensity in a direction, not the total light given off.
+= 坎德拉量的是某个方向上的强度，不是发出的总光量。
+intensity = 强度
+构词：拉丁语 candela 蜡烛
+注意别混：量的是方向上的强度，不是总光量。
 
-Camembert
-核心：法式软质奶酪：白霉外皮，熟成后内芯变软，气味比 Brie 冲。
-产自诺曼底一个同名村子，常整只装在薄木盒里卖，可以连盒烤。不可数。
-① He baked a whole Camembert in its box and served it with a spoon.
-= 他连着木盒烤了一整只卡门贝尔，配勺子上桌。
-a whole Camembert = 一整只卡门贝尔
-② Camembert smells stronger than Brie and empties a small room.
-= 卡门贝尔比布里味儿冲，小屋子里能把人熏走。
-Camembert = 卡门贝尔奶酪
-构词：诺曼底的村名
-注意别混：跟 Brie 同类，这个个头小、味道更冲。
-
-cameo
-核心：三支从同一块石头长出来。一是浮雕宝石：在双色的
-贝壳或玛瑙上雕出侧面像，底一层、人像一层。二是影视里
-名角客串的小角色，因为像镶在片子里的一枚小浮雕。
-三是文字里精炼的一小段刻画。可数。
-① She wore a cameo on a ribbon that her grandmother had worn the same way.
-= 她用丝带系着一枚浮雕宝石，她祖母当年也是这么戴的。
-cameo = 浮雕宝石
-② The director makes a cameo in every film, usually as a man reading a paper.
-= 那位导演每部片都客串一个小角色，多半是个看报纸的人。
-make a cameo = 客串一个小角色
-③ It was a cameo appearance, three lines long, and the audience applauded anyway.
-= 那是个客串，只有三句台词，观众照样鼓了掌。
-a cameo appearance = 客串亮相
-④ The chapter is a cameo of village life in the years before the railway came.
-= 那一章是铁路修来之前村居生活的一幅精细小品。
-a cameo of = ……的精炼刻画
-构词：意大利语 cammeo 浮雕宝石
-注意用法：影视义今天最常用。
-
-camera
-核心：照相机、摄影机。几个固定说法要记住：on camera
-是在镜头前、被拍下来，off camera 是镜头外，而 in
-camera 是法律用语，指不公开审理，那是拉丁文的在小室里，
-跟拍照无关。拍摄的人是 cameraman 或 camerawoman，
-中性说法是 camera operator，camerawork 指镜头的运用。
+candelabra
+核心：多枝烛台：一个底座分出几个臂，每臂插一支蜡烛。
+严格说单数是 candelabrum，candelabra 本是它的复数，
+但今天 candelabra 常直接当单数用，复数写 candelabras。
 可数。
-① Look into the camera and smile at somebody you cannot actually see.
-= 看着镜头，对一个你其实看不见的人微笑。
-look into the camera = 看镜头
-② He admitted it on camera and denied it in every interview since.
-= 他在镜头前承认了，此后每次采访都否认。
-on camera = 在镜头前
-③ The case was heard in camera and the transcript is sealed for thirty years.
-= 案子不公开审理，笔录封存三十年。
-in camera = 不公开审理（法律）
-④ The cameraman followed her out and kept filming through the car window.
-= 摄影师跟她出来，隔着车窗一直拍。
-cameraman = 摄影师
-camerawoman = 女摄影师
-a camera operator = 摄像师
-⑤ The camerawork is what makes the film; the script is barely there.
-= 这部片子全靠镜头运用，剧本几乎不存在。
-camerawork = 镜头运用
-⑥ A camera obscura projects the view onto a wall in a darkened room.
-= 暗箱把外面的景象投到暗室的墙上。
-a camera obscura = 暗箱
-构词：拉丁语 camera 拱顶小室，暗箱由此得名
-注意别混：in camera 是法律术语，跟拍照没有关系。
+① A silver candelabra stood on the table with seven candles in it.
+= 桌上立着一座银烛台，插着七支蜡烛。
+candelabra = 多枝烛台
+② They lit every candle on the candelabra and turned the lights off.
+= 他们把烛台上每支蜡烛都点上，关了电灯。
+light a candle = 点蜡烛
+③ Two candelabras flanked the mirror at the end of the hall.
+= 大厅尽头的镜子两边各立一座烛台。
+flank = 立在两侧
+构词：拉丁语 candelabrum 烛台
+注意用法：严格的单数形式今天已少用。
 
-Cameroonian
-核心：喀麦隆的、喀麦隆人。国名两个 o，派生词也保留，常被拼错成
-一个 o。可数。
-① A Cameroonian striker scored twice in eleven minutes.
-= 一名喀麦隆前锋十一分钟里进了两球。
-a Cameroonian = 喀麦隆人
-② Cameroonian cocoa goes mostly to Europe and comes back as chocolate.
-= 喀麦隆的可可多数销往欧洲，再变成巧克力回来。
-Cameroonian cocoa = 喀麦隆可可
-构词：国名 Cameroon 加 -ian
-注意拼写：中间是两个 o，别少写一个。
+candid
+核心：直说不绕弯，尤指说出别人不爱听的实话。褒义，
+带一点难得这么坦白的意思，常搭 be candid about、
+a candid assessment。副词 candidly。另有一支说照片：
+指抓拍的、不是摆好姿势的。
+① She was candid about her mistakes in a way that made the others uncomfortable.
+= 她坦白承认自己的错，坦白到别人都不自在。
+be candid about = 对……直言不讳
+② Let me give you a candid assessment before you commit any money to this.
+= 你把钱投进去之前，我给你一个不客气的实话评价。
+a candid assessment = 坦率的评估
+③ Candidly, the plan will not work and everyone in this room knows it.
+= 说实话，那个计划行不通，这屋里人人心知肚明。
+candidly = 坦率地说
+④ These are candid shots, not posed, which is why nobody is looking at the lens.
+= 这些是抓拍不是摆拍，所以没有一个人在看镜头。
+a candid shot = 抓拍的照片
+构词：拉丁语 candidus 白、洁净
+注意语域：褒义，指诚实，不是无礼。
 
-camisole
-核心：女式贴身背心，细肩带、无袖，穿在里面也可以当
-外衣。camiknickers 是背心与内裤连成一体的连身内衣，
-英式旧称。可数。
-① She wore a silk camisole under a jacket that did not quite close.
-= 她在一件扣不严的外套里面穿了件真丝吊带背心。
-camisole = 吊带背心
-② The camisole has thin straps that slip off the shoulder.
-= 那件背心是细肩带的，老从肩上滑下来。
-strap = 肩带
-③ Camiknickers were fashionable a century ago and vanished after the war.
-= 连身内衣一百年前很时兴，战后就没了。
-camiknickers = 连身内衣（英式旧称）
-构词：法语 camisole 小衫
-注意用法：camiknickers 今天基本只在旧文本里读到。
+candida
+核心：白色念珠菌：人体上常见的一种酵母，过度繁殖会引起
+念珠菌感染，长在口腔里时俗称 thrush。医学用词，不可数。
+① The test showed candida and nothing else out of the ordinary.
+= 检查查出了念珠菌，别的没有异常。
+candida = 白色念珠菌
+② Antibiotics can let candida grow by clearing away its competition.
+= 抗生素把竞争的菌清掉，念珠菌就长起来了。
+antibiotic = 抗生素
+③ Candida infections are common, treatable and easily missed.
+= 念珠菌感染常见，治得好，也容易被漏诊。
+treatable = 治得好的
+构词：拉丁语 candidus 白，因菌落发白
+注意用法：医学用词。
 
-camogie
-核心：爱尔兰女子打的一种棍球运动，规则接近男子的
-hurling，用木棍击球。词来自爱尔兰语的弯头球棍。不可数。
-① She played camogie at county level for eleven seasons.
-= 她打了十一个赛季郡一级的女子棍球。
-camogie = 爱尔兰女子棍球
-② Camogie is played with a hurley and a small hard ball.
-= 这种球用木棍打，球又小又硬。
-hurley = 击球木棍
-③ The camogie final drew a bigger crowd than the men's match.
-= 那场女子棍球决赛来的人比男子那场还多。
-draw a crowd = 吸引大批观众
-构词：爱尔兰语 camog 弯头球棍
-注意用法：只在讲爱尔兰体育时用到。
+candidate
+核心：三支，共同点是被摆出来供人挑选。一是候选人：
+参选公职的人。二是应试者、报考者。三是引申指某样东西
+够得上被选中。参选这件事叫 candidacy，英式也说
+candidature。可数。
+① She is the party's candidate in a seat it has never once won.
+= 她是那个党在一个从没赢过的选区里的候选人。
+candidate = 候选人
+② Candidates must arrive by nine and leave their phones at the desk.
+= 应试者九点前到场，手机放在前台。
+candidate = 应试者、报考者
+③ The bridge is a candidate for replacement and has been for eleven years.
+= 那座桥够得上列入重建，已经够了十一年。
+a candidate for = ……的合适对象
+④ He announced his candidacy in May and withdrew it before the summer.
+= 他五月宣布参选，夏天没到就退出了。
+candidacy = 参选、候选资格
+⑤ Her candidature was withdrawn over a form nobody had asked her to sign.
+= 她的候选资格因一份没人要求她签的表格被撤回了。
+candidature = 候选资格（英式）
+构词：拉丁语 candidatus 穿白袍的，古罗马求职者穿白袍
+注意用法：candidacy 通用，candidature 偏英式。
 
-camomile
-核心：洋甘菊：小白花黄心的草本，晒干泡茶，也用在护肤品
-里。英式多拼 camomile，美式多拼 chamomile，读音相同。
-最常见的搭配是 camomile tea。不可数。
-① She drinks camomile tea at night and swears it works.
-= 她晚上喝洋甘菊茶，一口咬定管用。
-camomile tea = 洋甘菊茶
-② Camomile grows low and gives off scent when you tread on it.
-= 洋甘菊长得矮，踩上去就散出香气。
-be said to = 据说
-③ The lawn was planted with camomile instead of grass.
-= 那片草地种的是洋甘菊，不是草。
-lawn = 草坪
-构词：希腊语 khamaimelon 地上的苹果
-注意拼写：英式 camomile，美式 chamomile。
+candle
+核心：蜡烛。派生一族都从它来：candlelight 烛光、
+candlelit 烛光照着的、candlestick 烛台、candlewick
+烛芯，也指一种起绒的布。两个习语：burn the candle at
+both ends 是两头耗、把自己累垮；not hold a candle to
+是远不如某人。可数。
+① Light a candle and turn off the lamp; the bulb has been buzzing all evening.
+= 点根蜡烛把灯关了，那灯泡响了一晚上。
+light a candle = 点蜡烛
+② They ate by candlelight because the power had gone off at six.
+= 六点就停电了，他们只好借着烛光吃饭。
+by candlelight = 借着烛光
+③ It was a candlelit dinner in a restaurant with no other customers.
+= 那是顿烛光晚餐，餐厅里没有别的客人。
+candlelit = 烛光照着的
+④ Put it in the brass candlestick that came from her grandmother.
+= 插在她祖母留下的那个铜烛台上。
+candlestick = 烛台
+⑤ The candlewick had gone black and the flame kept guttering.
+= 烛芯已经发黑，火苗一直摇曳欲灭。
+candlewick = 烛芯
+⑥ He burns the candle at both ends and wonders why he is always ill.
+= 他两头熬着，还纳闷自己怎么总生病。
+burn the candle at both ends = 两头耗、过度消耗自己
+⑦ No one can hold a candle to her, and she has never once said so.
+= 没人比得上她，这话她自己从没说过。
+not hold a candle to = 远不如
+构词：拉丁语 candere 发白光
+注意用法：两个习语都很高频。
 
-camouflage
-核心：伪装：让东西融进背景，看不出来。三处在用：军队的
-迷彩、动物的保护色、比喻上的掩饰。动词是给……做伪装。
+candour
+核心：说话坦白、不掩饰，尤指承认对自己不利的事。
+不可数，褒义，常搭 with candour、a moment of candour。
+形容词是 candid。
+① He spoke with unusual candour about the year the firm nearly failed.
+= 谈到公司差点垮掉的那一年，他讲得异常坦白。
+with candour = 坦白地
+② Her candour won the room over before she reached the second slide.
+= 还没翻到第二页幻灯，她的坦率就把在场的人说服了。
+win over = 说服、赢得
+③ In a moment of candour he admitted he had never read it.
+= 他有一刻说了实话，承认自己压根没读过。
+a moment of candour = 一时的坦白
+构词：拉丁语 candor 洁白、明净
+注意拼写：英式 candour，美式 candor。
+
+candy
+核心：糖果。美式用它统称各种糖，英式统称说 sweets，
+英式的 candy 偏指硬糖。形容词 candied 是糖渍的。
+cotton candy = 棉花糖（美式）
+candyfloss 是英式的说法，指的是同一样东西。
+统称时不可数，指一颗时可数。
+① The children were given candy and were impossible for the rest of the day.
+= 孩子们吃了糖，剩下一整天都没法管。
+candy = 糖果（美式统称）
+② He bought a candy at the counter and ate it before he left the shop.
+= 他在柜台买了颗糖，没出店门就吃了。
+a candy = 一颗糖
+③ The cake is topped with candied peel that most people pick off.
+= 蛋糕上撒着蜜饯果皮，大多数人都会挑掉。
+candied = 糖渍的
+④ She bought candyfloss at the fair and had sticky hands all evening.
+= 她在集市上买了棉花糖，一晚上手都是黏的。
+candyfloss = 棉花糖（英式）
+⑤ Candyman is street slang for a dealer and is rarely used now.
+= 「Candyman」是毒贩的街头俚语，如今很少用了。
+candyman = 毒品贩子（美式俚语）
+⑥ He bought a candy apple at the fair and broke a tooth on it.
+= 他在集市上买了个糖苹果，把牙硌坏了一颗。
+a candy apple = 糖衣苹果（美式）
+⑦ Don't be such a candy-ass; the water is three feet deep.
+= 别这么怂，水才三英尺深。
+candy-ass = 没胆的软蛋（美式粗俗）
+⑧ A candy cane hung on the tree until well into the following March.
+= 一根拐杖糖挂在树上，一直挂到第二年三月。
+a candy cane = 拐杖糖
+⑨ She wore a candy-striped shirt that had belonged to her father.
+= 她穿着一件她父亲的红白条纹衬衫。
+candy-striped = 细红白条纹的
+⑩ Candy stripers help on the ward and are mostly still at school.
+= 医院志愿服务的少女在病房帮忙，多半还在上学。
+a candy striper = 医院少年志愿者（美式）
+⑪ Eye candy fills the first ten minutes and the plot turns up late.
+= 头十分钟全是养眼的花架子，情节姗姗来迟。
+eye candy = 养眼而无内容的东西
+构词：阿拉伯语 qandi 糖渍的，经法语进英语
+注意用法：美式统称糖，英式统称说 sweets。
+
+cane
+核心：三支。一是细长中空的茎：竹、藤、甘蔗都叫 cane，
+也指用它编东西的材料。二是手杖：走路撑的那根。三是旧时
+打学生的藤条，动词是用藤条打，caning 是那顿打。
+茎与材料义不可数，手杖义可数。
+① Cut the sugar cane by hand, because the machines bruise the stems.
+= 甘蔗要手工砍，机器会把茎压伤。
+sugar cane = 甘蔗
+② The chairs are made of cane and creak whenever anyone shifts their weight.
+= 那些椅子是藤编的，谁一动就吱吱响。
+cane furniture = 藤家具
+③ He walks with a cane now, though he still climbs the stairs unaided.
+= 他现在拄着手杖走路，不过上楼还是不用人扶。
+walk with a cane = 拄手杖走路
+④ Boys were caned for lateness well into the nineteen seventies at that school.
+= 那所学校直到七十年代还在因迟到用藤条打男生。
+cane = 用藤条打
+⑤ Caning was abolished in schools long after most parents had stopped defending it.
+= 学校里的藤条体罚废止时，多数家长早就不再替它辩护了。
+caning = 藤条体罚
+⑥ Cane rats damage the crop badly in the weeks before the harvest.
+= 收割前那几周，甘蔗鼠把作物毁得很厉害。
+a cane rat = 甘蔗鼠
+⑦ Use cane sugar, not beet, or the syrup will not set properly.
+= 用甘蔗糖，别用甜菜糖，否则糖浆凝不住。
+cane sugar = 甘蔗糖
+构词：希腊语 kanna 芦苇
+注意语域：体罚义只在历史语境里用。
+
+canine
+核心：两支。一是形容词，犬的、跟狗有关的，canine
+teeth 是犬齿。二是名词，指犬齿本身，也在正式或戏谑的
+说法里指狗与犬科动物。
+① Canine behaviour is her field and she has forty dogs on file.
+= 犬类行为是她的领域，档案里记着四十条狗。
+canine = 犬的
+② The dentist capped a canine that had cracked on a peach stone.
+= 牙医给一颗被桃核硌裂的犬齿做了套冠。
+canine = 犬齿
+③ Wolves and foxes are canines and so is the dog on the sofa.
+= 狼和狐属犬科，沙发上那条狗也是。
+canine = 犬科动物
+构词：拉丁语 canis 狗
+注意语域：用它指狗时偏正式或带戏谑。
+
+caning
+核心：用藤条打人的那顿打，旧时学校与法庭的体罚。
+名词，可数，多说 get a caning、give somebody a caning。
+口语里还有个引申义：在比赛或考试里被打得很惨。
+新加坡与马来西亚的司法体罚今天仍用这个词。
+① He got a caning for cheating and told nobody at home.
+= 他作弊挨了藤条，回家一个字没提。
+get a caning = 挨一顿藤条
+② The head gave him a caning in front of the whole school.
+= 校长当着全校的面打了他一顿藤条。
+give somebody a caning = 打某人一顿藤条
+③ Our team took a caning on Saturday and lost by five goals.
+= 我们队周六被打得很惨，输了五个球。
+take a caning = 被打得很惨（口语）
+构词：从表示藤条的那个词加名词后缀来
+注意语域：体罚义是历史与法律语境，引申义是口语。
+
+canister
+核心：金属或塑料的圆筒罐：装茶叶、面粉、胶卷的那种。
+军警用的催泪弹筒也叫这个词。可数。
+① Keep the flour in a canister with a lid that actually seals.
+= 面粉装在盖子真能封严的圆筒罐里。
+canister = 圆筒罐
+② Police fired a tear gas canister into an empty side street.
+= 警方朝一条空的侧街发射了一枚催泪弹。
+a tear gas canister = 催泪弹筒
+③ The canister was sealed with tape and marked with a date.
+= 那个罐子用胶带封着，还标了日期。
+seal with = 用……封住
+构词：希腊语 kanastron 藤篮
+注意用法：军警语境里指弹筒。
+
+canker
+核心：三支，本义都是烂开的伤。一是植物病害：树皮上
+溃烂的斑。二是动物或人身上的溃疡，美式 canker sore
+指口腔溃疡。三是比喻：慢慢腐蚀一个群体的祸患，语气重。
+可数与不可数都有。
+① Canker killed half the orchard before anyone identified what it was.
+= 还没人认出那是什么病，溃烂病害就毁了半个果园。
+canker = 树木溃烂病
+② The rabbit had canker in one ear and needed drops twice a day for a month.
+= 那只兔子一只耳朵烂了，要滴一个月药，一天两次。
+③ Distrust is a canker in the team and no amount of training will cure it.
+= 互不信任是这支队伍里的溃烂处，练多少也治不好。
+a canker in = ……里的溃烂处
+④ A canker sore made eating painful and talking not much better.
+= 口腔溃疡疼得没法吃东西，说话也好不了多少。
+a canker sore = 口腔溃疡（美式）
+构词：拉丁语 cancer 蟹、溃烂
+注意别混：跟表示癌的那个词同源，但它说的是溃烂不是癌。
+
+cannabis
+核心：大麻：植物本身与从它制成的毒品。marijuana 与
+hemp 说的是同一株植物的不同用途，hemp 指作纤维用的
+品种。医用的说法是 medicinal cannabis。不可数。
+① Cannabis is illegal here and legal across the bridge.
+= 大麻在这边违法，过了桥就合法。
+cannabis = 大麻
+② He was caught with cannabis at a checkpoint on the coast road.
+= 他在海滨公路的一处检查站被查到带着大麻。
+be caught with = 被查到带着
+③ Medicinal cannabis is prescribed for pain that nothing else touches.
+= 别的都不管用的疼痛，会开医用大麻。
+medicinal cannabis = 医用大麻
+构词：希腊语 kannabis 大麻
+注意用法：不可数，法律与医疗文字里常见。
+
+cannelloni
+核心：意大利面食的一种：粗管状的面皮，塞进肉馅或
+菠菜奶酪，淋酱汁进烤箱。词是复数形，作主语时当单数用。
 不可数。
-① The tanks were under camouflage netting that had been cut from local scrub.
-= 坦克罩着伪装网，网上的枝叶是从当地灌木上剪来的。
-camouflage netting = 伪装网
-② The moth's colouring is perfect camouflage against lichen and useless anywhere else.
-= 那种蛾的颜色贴在地衣上是完美的保护色，换个地方就没用了。
-camouflage = 保护色
-③ Soldiers camouflaged the position with branches and moved it again by dawn.
-= 士兵用树枝把阵地伪装起来，天亮前又挪了地方。
-camouflage something with = 用……伪装某物
-④ His jokes were camouflage for nerves that everyone at the table could see.
-= 他讲笑话是在掩饰紧张，可一桌人都看得出来。
-camouflage for = 对……的掩饰
-构词：法语 camoufler 乔装
-注意用法：军事、动物、比喻三处都常用。
+① Cannelloni is baked in the oven under a layer of white sauce.
+= 那道面盖着一层白酱进烤箱烤。
+cannelloni = 粗管填馅面
+② She stuffed the cannelloni with spinach and far too much cheese.
+= 她在面管里塞了菠菜，奶酪放得多得离谱。
+stuff with = 塞进……
+③ Cannelloni takes forty minutes and cannot be hurried.
+= 那道面要烤四十分钟，急不得。
+take forty minutes = 需要四十分钟
+构词：意大利语 cannello 小管
+注意用法：形式是复数，当单数用。
 
-camp
-核心：临时扎下来住的地方，从这一点长出四支：一是营地、
-野营；二是有组织的营队；三是难民营、集中营这类收容地；
-四是阵营，指意见对立的一方。动词是宿营。另有一个完全
-不同的形容词义：指夸张做作、故意娘气的风格，说表演和
-审美，可褒可贬，靠词性分。派生一族都从宿营来：camper
-露营者或露营车、campfire 篝火、campsite 与 campground
-露营地、camping 露营；campy 属于做作那一支。
-① We pitched camp beside the river and woke to find it had risen.
-= 我们在河边扎营，醒来发现河水涨了。
-pitch camp = 扎营
-② She goes to summer camp every July and comes back speaking differently.
-= 她每年七月去夏令营，回来说话都变了个样。
-summer camp = 夏令营
-③ Thousands live in the refugee camp with no expectation of leaving.
-= 几千人住在难民营里，不指望能离开。
-refugee camp = 难民营
-④ The party split into two camps over a question nobody else understood.
-= 党内就一个外人都不懂的问题分成了两派。
-two camps = 对立的两派
-⑤ They camped in the woods overnight and were moved on at first light.
-= 他们在林子里露宿一夜，天一亮就被赶走了。
-camp = 宿营
-⑥ The performance was deliberately camp and the critics missed the joke.
-= 那场演出故意做得夸张滑稽，评论家没看懂这个玩笑。
-camp = 夸张做作的（风格）
-⑦ A camper pulled in after dark and blocked the only way out.
-= 天黑后一辆露营车开了进来，把唯一的出口堵住了。
-camper = 露营者；露营车
-⑧ We sat round the campfire until the wood ran out at two.
-= 我们围着营火坐到两点，柴烧完了才散。
-campfire = 篝火
-⑨ The campsite has hot showers and a shop that closes at six.
-= 营地有热水淋浴，还有一家六点关门的小店。
-campsite = 露营地
-⑩ They booked a pitch at the campground months before the season started.
-= 旺季还没开始几个月，他们就订好了营位。
-campground = 露营地（美式）
-⑪ Camping is cheaper than hotels until you count what the gear costs.
-= 露营比住旅馆便宜，前提是别算装备的钱。
-camping = 露营
-⑫ The costumes were gloriously campy and got a round of applause alone.
-= 戏服夸张得精彩，单是它们就博得一片掌声。
-campy = 夸张做作的
-⑬ He slept on a camp bed for three months while the roof was rebuilt.
-= 屋顶重修的三个月里，他一直睡行军床。
-a camp bed = 折叠行军床
-⑭ Camp followers trailed the army and sold it back its own supplies.
-= 随军的人尾随部队，把军需品倒卖回给他们。
-a camp follower = 随军谋生的人；也指趋附者
-⑮ The comedian camped it up until even the front row was uncomfortable.
-= 那位喜剧演员越演越夸张，连前排都看得不自在。
-camp it up = 故意夸张做作
-⑯ Fans camped out overnight in weather that closed two motorways.
-= 粉丝在能让两条高速封路的天气里通宵排队。
-camp out = 露宿、在外守候
-⑰ They set up camp beside the river and stayed for the whole summer.
-= 他们在河边扎下营，住了整整一夏天。
-set up camp = 扎营
-⑱ She runs a summer training camp for children who cannot afford lessons.
-= 她办了个暑期训练营，收上不起课的孩子。
-a training camp = 集训营
-⑲ Her grandmother survived a concentration camp and never once spoke of it.
-= 她祖母从集中营里活了下来，却一次也没提过。
-a concentration camp = 集中营
-专指成批关押平民与政治犯的营地，跟关押战俘的那种营地分开说。
-构词：拉丁语里表示平地的那个词，本指军队扎营的地方
-注意用法：做作义与宿营义毫无关系，靠词性分。
+cannibal
+核心：吃同类的：说人是食人者，说动物是同类相食。名词
+cannibalism 指这种行为，形容词 cannibalistic。动词
+cannibalize 有两个很常用的引申：拆一台旧机器的零件去修
+另一台；商业上指自家新产品抢了自家旧产品的销量，名词
+cannibalization。可数。
+① The crew feared cannibals and were far more likely to die of thirst.
+= 船员怕遇上食人者，其实更可能渴死。
+cannibal = 食人者
+② Cannibalism occurs among some fish whenever the tank gets crowded.
+= 缸里一挤，有些鱼就会同类相食。
+cannibalism = 同类相食
+③ They cannibalized two engines to fix one and flew it home that night.
+= 他们拆了两台发动机修好一台，当晚就把飞机开了回来。
+cannibalize = 拆零件去修另一台
+④ The new model cannibalized its own sales within a single quarter.
+= 新款一个季度之内就抢光了自家老款的销量。
+cannibalization = 自家产品互抢销量
+⑤ The ritual was described as cannibalistic by people who never saw it.
+= 把那种仪式说成食人的，是些从没见过它的人。
+cannibalistic = 食人的
+构词：西班牙语 Canibales，加勒比一个族群的名字
+注意用法：拆零件与抢销量两个引申义在技术与商业文字里最常见。
 
-campaign
-核心：为一个目标展开的一连串有组织的行动，三处最常见：
-选举、公益或商业推广、军事上的战役。动词是开展这样的
-行动，campaign for 是为某事奔走。参与的人是 campaigner，
-campaigning 是这类活动的总称。可数。
-① They ran a clean election campaign and launched it three days late.
-= 他们的竞选活动打得干净，只是晚了三天才启动。
-an election campaign = 竞选活动
-launch a campaign = 发起一场运动
-② The advertising campaign cost millions and shifted nothing at all.
-= 那场广告推广花了几百万，什么也没带动。
-an advertising campaign = 广告推广
-③ The general planned a winter campaign and lost half his army to frost.
-= 将军策划了一场冬季战役，半支军队冻没了。
-campaign = 战役
-④ She campaigned for cleaner air for twenty years before anyone listened.
-= 她为清洁空气奔走了二十年才有人听。
-campaign for = 为……奔走
-⑤ Local campaigners blocked the road scheme and were called obstructive.
-= 当地活动人士挡下了那条道路计划，被骂成阻挠分子。
-campaigner = 活动人士
-⑥ Years of campaigning changed the law about a decade after it mattered.
-= 多年的倡导终于改了法律，那已比该改的时候晚了十年。
-campaigning = 持续的倡导活动
-构词：法语 campagne 原野，本指军队开到野外作战
-注意用法：三支的共同点是有组织、有目标、持续一段时间。
+cannon
+核心：大炮：旧式的重型火炮，铁球从炮口装填；现代指
+飞机与装甲车上的机炮。cannonball 是炮弹，也指抱膝
+砸水的跳水姿势；cannonade 是持续的炮击。习语
+a loose cannon 指不受控、随时惹事的人。可数，
+复数常直接用原形不加 s。
+① The cannon was fired at dawn to mark the anniversary of the siege.
+= 大炮在天亮时开火，纪念那次围城。
+cannon = 大炮
+② Twenty cannon lined the wall and not one of them had been fired since.
+= 城墙上排着二十门炮，之后一门都没响过。
+复数常不加 s，这是老词留下的用法。
+③ The cannonade lasted three hours and was heard in the next county.
+= 炮击持续了三个小时，隔壁郡都听得见。
+cannonade = 持续炮击
+④ He jumped in with a cannonball and soaked everyone on the poolside.
+= 他抱膝砸进水里，把池边的人全浇了。
+cannonball = 炮弹；抱膝跳水
+⑤ That reporter is a loose cannon and the editor knows it perfectly well.
+= 那个记者是个不受控的祸头子，主编心里一清二楚。
+a loose cannon = 不受控、随时惹事的人
+⑥ Recruits were treated as cannon fodder and sent forward without maps.
+= 新兵被当成炮灰，连地图都没有就被推上去。
+cannon fodder = 炮灰
+构词：意大利语 cannone 大管子
+注意别混：跟表示教规的 canon 只差一个 n。
 
-campanile
-核心：钟楼，尤指意大利那种跟教堂主体分开、单独立着的
-方形钟塔。意大利语来的词，说意大利建筑时用。可数。
-① The campanile leans slightly and has done for four hundred years.
-= 那座钟楼略微倾斜，已经斜了四百年。
-campanile = 独立的钟楼
-② They climbed the campanile for the view and counted the steps.
-= 他们爬上钟楼看风景，还数了台阶。
-for the view = 为了看风景
-③ The campanile stands apart from the church across the square.
-= 钟楼跟教堂隔着广场分开而立。
-stand apart from = 与……分开而立
-构词：意大利语 campana 钟
-注意用法：多用于意大利建筑。
+cannula
+核心：插进血管或体腔的细管，用来输液、给药或引流。
+医学用词，复数 cannulas 或 cannulae。动词 cannulate
+是插管，名词 cannulation。可数。
+① The nurse fitted a cannula on the third attempt and taped it down.
+= 护士试到第三次才插上留置导管，又用胶带固定好。
+cannula = 留置导管
+② They cannulated the vein in the back of his hand before the scan.
+= 做扫描之前，他们在他手背的静脉上插了管。
+cannulate = 插管
+③ Cannulation takes about a minute in a patient with good veins.
+= 血管条件好的病人，插管大约一分钟。
+cannulation = 插管操作
+构词：拉丁语 cannula 小管
+注意用法：医疗文字里常见。
 
-campanology
-核心：鸣钟术：教堂大钟按什么次序敲响的这门学问与技艺，
-英国教堂尤其讲究。从事的人叫 campanologist。不可数。
-① Campanology keeps eight ringers in a tower for three hours.
-= 鸣钟术能让八个人在钟楼上待足三小时。
-campanology = 鸣钟术
-② He took up campanology at university and still rings on Sundays.
-= 他上大学时开始学敲钟，如今周日还在敲。
-take up = 开始学、着手做
-③ A campanologist explained the sequence to us bell by bell.
-= 一位鸣钟师一口钟一口钟地给我们讲了那套次序。
-campanologist = 鸣钟师
-构词：拉丁语 campana 钟 加表示学问的后缀
-注意用法：英国教堂文化里的词。
+canny
+核心：精明，会算计，尤指在钱和交易上眼光准、不吃亏。
+褒义，跟 shrewd 接近。副词 cannily。
+① She is a canny investor who has never borrowed to buy.
+= 她投资很精明，从没借钱买过东西。
+a canny investor = 精明的投资人
+② It was a canny piece of timing and cost them nothing.
+= 那个时机掐得很精，还一分钱没花。
+canny = 精明的、算得准的
+③ He cannily bought the field before the road was announced.
+= 修路的消息还没公布，他就精明地把那块地买下了。
+cannily = 精明地
+近义对照：
+canny = 精明会算（褒义）
+shrewd = 有眼光（褒义）
+cunning = 狡猾（贬义）
+构词：由表示能、会的那个助动词加形容词后缀来
 
-camphor
-核心：樟脑：从樟树提取或人工合成的白色结晶，气味刺鼻
-清凉，用作防虫、外用镇痛与工业原料。旧时衣柜里放的
-樟脑丸就是它。形容词式说法 camphorated 指加了樟脑的。
-不可数。
-① The drawer smelled of camphor forty years after it was emptied.
-= 那个抽屉腾空四十年后还有一股樟脑味。
-camphor = 樟脑
-② Camphor keeps moths away from wool put by for the summer.
-= 夏天收起来的毛料，靠樟脑防蛀虫。
-keep away = 使不靠近
-③ She rubbed on camphorated oil and the whole room smelled of it.
-= 她抹了樟脑油，满屋子都是那味道。
-camphorated = 加了樟脑的
-构词：阿拉伯语 kafur，经拉丁语进英语
-注意别混：跟表示营地的那个词只是拼头相同，来路不同。
+canoe
+核心：船身窄、两头尖、无甲板的小船，坐着或跪着用单叶桨
+划。跟 kayak 的分别在桨与坐姿：kayak 用双叶桨、腿伸进
+船舱。动词是划这种船，canoeing 是这项运动，划的人是
+canoeist。习语 paddle your own canoe 是自己的事自己办。
+可数。
+① They paddled the canoe upstream against a current that hardly let them gain.
+= 他们逆着几乎推不动的水流，把独木舟划向上游。
+paddle a canoe = 划独木舟
+② We went canoeing on the lake and were back before the wind got up.
+= 我们在湖上划船，赶在起风之前回来了。
+go canoeing = 去划独木舟
+③ She is a national canoeist and trains on a river that freezes in January.
+= 她是国家队的划艇选手，训练的那条河一月会封冻。
+canoeist = 划艇选手
+④ You must paddle your own canoe, he said, and handed back the application form.
+= 他说自己的事得自己办，把申请表退了回来。
+paddle your own canoe = 自己的事自己办
+构词：西班牙语 canoa，转自加勒比原住民语言
+注意别混：kayak 用双叶桨，canoe 用单叶桨。
 
-campus
-核心：大学或学院的校园：教学楼、宿舍、场地连成的那一片
-地方，也用于大公司的园区。on campus 是在校内，
-off campus 是校外，两个说法都不加冠词。可数。
-① She lives on campus and has not cooked a meal since September.
-= 她住在校内，从九月起就没做过一顿饭。
-on campus = 在校园里
-② The company built a new campus with a lake nobody is allowed to swim in.
-= 那家公司建了一片新园区，里头有个不许游泳的湖。
-campus = 园区
-③ There are three campuses in the city and a shuttle bus that links two of them.
-= 那所学校在城里有三个校区，班车只连着其中两个。
-campuses = 校区的复数
-④ He rents a flat off campus and cycles in whatever the weather is doing.
-= 他在校外租了套公寓，不管什么天气都骑车来。
-off campus = 在校外
-构词：拉丁语里表示平地的那个词，美国大学最早这么称呼校地
-注意用法：跟表示扎营的那个词同源，但意思已经分开。
+canola
+核心：低芥酸的油菜品种，以及从它榨的食用油。这个词是
+加拿大培育出品种之后造的商品名，由加拿大与油拼成，
+所以美加说 canola，英式一般说 rapeseed oil。不可数。
+① Fry it in canola oil, which takes a higher heat than butter.
+= 用低芥酸菜籽油炒，它比黄油耐得住高温。
+canola oil = 低芥酸菜籽油
+② Canola is grown across the prairies and turns them yellow in June.
+= 大草原上到处种这种油菜，六月把整片地染成黄的。
+be grown = 被种植
+③ Canola has a neutral taste and will not fight the dressing.
+= 这种油味道很淡，不会跟调味汁抢味。
+neutral taste = 味道清淡
+构词：Canada 加拿大 与 oil 油 拼成的商品名
+注意用法：美加说 canola，英式说 rapeseed oil。
 
-can
-核心：两个不同源的词共用一个拼法，靠词性分。
-一个是助动词，底层是做得到，从这一步分出四支：能力、
-许可、可能性、以及提出请求或帮忙。否定式 can't 或
-cannot 除了不能，还表示推断上的不可能，语气比 may not
-硬。过去与委婉说法用 could。它没有不定式和完成形式，
-要说将来能就得换成 be able to。
-另一个是名词与动词：金属罐。名词是罐头、喷雾罐、洒水壶；
-动词是把食物装罐，canned 是罐装的，也引申成预先录好的。
-美式口语里它还指监狱，动词还有开除的意思。
-习语几个高频：a can of worms 是一开就收不住的麻烦，
-carry the can 是英式的背黑锅，in the can 是拍完了、办妥了。
-① I can swim two kilometres without stopping if the water is warm.
-= 水温合适的话，我能不歇气游两公里。
-能力这一支，最本义。
-can = 能够
-② You can go now, but leave your number with the desk.
-= 你可以走了，不过把电话留在前台。
-许可：说话人给出准许。
-can = 可以（许可）
-③ It can get very cold here in March, colder than in January.
-= 这儿三月能冷得厉害，比一月还冷。
-可能性：说的是有时会这样。
-can = 有时会、可能
-④ Can you help me lift this before my back gives out?
-= 趁我腰还没散架，能搭把手抬一下吗？
-提出请求，比 could 直接。
-Can you = 能不能请你……
-⑤ Can I get you a drink while you wait for the others?
-= 等别人的时候，要不要先来点喝的？
-提出帮忙，说话人是主动的一方。
-Can I = 要不要我……
-⑥ You can't park here between eight and six on weekdays.
-= 工作日八点到六点之间，这儿不能停车。
-否定式表示禁止。
-can't = 不许、不能
-⑦ That can't be right — the figures were checked twice.
-= 那不可能对，数字核过两遍了。
-否定式也表示推断上的不可能。
-can't be = 不可能是
-⑧ I cannot thank you enough for what you did that night.
-= 那天晚上你做的事，我怎么谢都不够。
-cannot 是同一个否定式的正式写法。
-cannot = 不能（正式）
-⑨ I can't help laughing every time he tells that story.
-= 他每讲一次那个故事，我都忍不住笑。
-固定结构，后面接动名词。
-can't help doing = 忍不住做某事
-⑩ Open a can of beans and put the toast on while you're up.
-= 开一罐豆子，顺手把面包烤上。
-名词第一义：罐头。
-a can of = 一罐……
-⑪ He sprayed it from an aerosol can and the smell lingered for days.
-= 他用喷罐喷的，那味道好几天没散。
-an aerosol can = 喷雾罐
-⑫ Fill the watering can and start with the pots by the door.
-= 把洒水壶灌满，先浇门边那几盆。
-a watering can = 洒水壶
-⑬ The factory cans tomatoes all summer and shuts for the winter.
-= 那家厂整个夏天装罐番茄，冬天就停工。
-can = 装罐
-⑭ Canned soup is quick but tastes of the tin more than the vegetables.
-= 罐头汤快是快，可尝着更像铁皮而不是菜。
-canned = 罐装的
-⑮ The show uses canned laughter and nobody is fooled by it.
-= 那个节目用的是罐头笑声，谁也没被糊弄过去。
-罐装的引申：预先录好、拿来就播。
-canned laughter = 预先录好的笑声
-⑯ He got canned for lying about where he had been.
-= 他谎报去向，结果被炒了。
-get canned = 被开除（美式口语）
-⑰ He spent a year in the can and came out with a trade.
-= 他蹲了一年监狱，出来时学了门手艺。
-in the can = 在监狱里（美式口语）
-⑱ That report opened a can of worms the board would rather have left shut.
-= 那份报告捅开了董事会宁愿不动的马蜂窝。
-a can of worms = 一开就收不住的麻烦
-⑲ I always carry the can for his mistakes and get no thanks for it.
-= 他的错总是我背，还落不着一句谢。
-carry the can = 背黑锅（英式）
-⑳ The film is in the can and comes out in the spring.
-= 那部片子已经拍完，春天上映。
-同一个说法在影视圈里是另一个意思，靠语境分。
-in the can = 拍完了、办妥了
-㉑ Can it! I am trying to work and you two have not stopped.
-= 闭嘴！我在干活，你们俩就没停过。
-Can it = 闭嘴、别闹（美式口语）
-㉒ The cannery closed decades ago and the town never recovered.
-= 那家罐头厂几十年前就关了，镇子再没缓过来。
-cannery = 罐头厂
-㉓ She has a real can-do attitude that the rest of the team lacks.
-= 她那股干劲十足的劲头，队里别人都没有。
-从做得到那一支来的形容词，多修饰 attitude、spirit。
-can-do = 肯干的、什么都敢试的
-㉔ Pass me the can opener; this ring pull has snapped off.
-= 把开罐器递给我，这个拉环断了。
-这里的 can 是罐头那一支。
-a can opener = 开罐器
-㉕ Thou canst not hide from it, the old translation says.
-= 那个旧译本里写着：你躲不过它。
-canst 是古体的第二人称形式，只在旧文本与诗里读到。
-canst = 古体的第二人称形式
-构词：助动词出自古英语 cunnan 知道、会；罐出自古英语 canne 容器
-注意用法：两个词同形不同源，靠词性分。
-注意区别：说将来的能要用 be able to，它没有将来形式。
+canon
+核心：三支，共同点是定下来的准则。一是教会法规，也指
+被认定为正典的那批经卷；二是引申到文学艺术，指被公认
+为经典的那批作品；三是教堂里的教士职衔。形容词
+canonical 是列入正典的、公认标准的，canonic 同义而
+少用；canonize 是封为圣徒，名词 canonization。
+音乐上的卡农也是这个词。可数。
+① The council fixed the canon of scripture and left three books out.
+= 公会议确定了圣经正典，把三卷书排除在外。
+canon = 正典
+② Her novels entered the canon about forty years after she died.
+= 她的小说在她去世约四十年后进入了经典之列。
+enter the canon = 进入经典之列
+③ He was a canon of the cathedral and lived in a house behind it.
+= 他是大教堂的教士，住在教堂后面的一栋房子里。
+canon = 教堂教士（职衔）
+④ That is the canonical version and three others are still in circulation.
+= 那是公认的标准版本，另外三个版本仍在流传。
+canonical = 公认标准的
+canonic = 正典的、按定式的（canonical 的另一形式）
+⑤ She was canonized a century later, long after everyone had forgotten why.
+= 她在一个世纪后被封为圣徒，那时早没人记得缘由。
+canonize = 封为圣徒
+⑥ The canonization took decades and required two miracles that could be documented.
+= 封圣过程持续了几十年，需要两个有据可查的神迹。
+canonization = 封圣
+⑦ Canon law governs the question and civil law has nothing to say about it.
+= 这个问题由教会法管辖，世俗法律对此只字未提。
+canon law = 教会法
+构词：希腊语 kanon 尺、准则
+注意别混：跟表示大炮的 cannon 只差一个 n。
 
-Canada goose
-核心：加拿大黑雁：黑头黑颈、脸颊一块白斑的大雁，成群迁徙、排成人字。
-在北美与英国都常见，城市公园里多到被当成扰民的鸟。复数
-Canada geese，注意不写 Canadian goose。
-① A flock of Canada geese crossed the sky in a ragged line.
-= 一群加拿大黑雁排成歪歪扭扭的一行飞过天空。
-Canada geese = 加拿大黑雁（复数）
-② A Canada goose nested by the pond and chased the dog off twice.
-= 一只加拿大黑雁在池边筑了巢，把狗轰走过两回。
-a Canada goose = 加拿大黑雁
-构词：国名 Canada 直接加 goose，不用形容词形式
-注意拼写：是 Canada goose，不是 Canadian goose，这是常见错误。
+canoodle
+核心：搂搂抱抱地亲热，多说在公共场合。口语，带调侃的
+口气，不带情色意味，正式场合不用。常说 canoodle with
+somebody。
+① They were canoodling on the back seat of a bus full of children.
+= 一车都是孩子，他们却在后座搂搂抱抱。
+canoodle = 搂抱亲热
+② She caught them canoodling behind the scenery in the interval.
+= 幕间休息时，她撞见他们在布景后头亲热。
+catch somebody doing = 撞见某人正在做某事
+③ He was canoodling with a colleague at the office party.
+= 在公司聚会上，他跟一个同事搂抱亲热。
+canoodle with somebody = 与某人搂抱亲热
+构词：来历不确定，十九世纪的美式口语
+注意语域：口语，带调侃。
 
-Canadian
-核心：加拿大的、加拿大人。要点在于它不指语言 —— 加拿大官方语言是
-英语与法语，说那两支变体要写 Canadian English、Canadian French。可数。
-① She married a Canadian and moved to a town with no road out.
-= 她嫁了个加拿大人，搬到一个没有公路通出去的镇子。
-a Canadian = 加拿大人
-② Canadian English sits between British and American on most spellings.
-= 多数拼法上，加拿大英语介于英式与美式之间。
-Canadian English = 加拿大英语
-③ Canadian winters are long enough to freeze the ground three feet down.
-= 加拿大的冬天长到能把地冻实三英尺。
-Canadian winters = 加拿大的冬天
-构词：国名 Canada 加 -ian
-注意别当语言名：说语言要写 Canadian English 或 Canadian French。
+canopy
+核心：撑在上方遮盖的东西：床的顶罩、店门口的雨篷、
+跳伞的伞面、飞机的座舱盖都叫它；再引申到树林，
+the forest canopy 指树冠层，这一支在生态文字里最常见。
+可数。
+① A canopy shaded the entrance and dripped on everyone who stood under it.
+= 门口有个雨篷遮阳，站底下的人都被滴到过。
+canopy = 雨篷、顶罩
+② The bed had a silk canopy that collected dust nobody could reach.
+= 那张床上有丝质顶罩，积的灰谁也够不着。
+a canopy = 床顶的罩
+③ Sunlight barely reaches below the canopy, so almost nothing grows on the floor.
+= 阳光几乎透不到树冠层以下，林地上几乎什么都长不了。
+the forest canopy = 森林的树冠层
+④ His canopy opened at once and he landed two fields from where he meant to.
+= 他的伞立刻打开了，落地时离预定地点差了两块田。
+canopy = 降落伞伞面
+构词：希腊语 konopeion 挂着蚊帐的床
+注意用法：树冠层那一支最常读到。
 
-Canadian bacon
-核心：美式叫法：切成圆片的腌里脊肉，瘦、几乎没有肥边，常夹在
-班尼迪克蛋下面。跟美式那种条状五花培根完全不是一回事。加拿大人
-自己管它叫 back bacon。不可数。
-① The eggs came on Canadian bacon with hollandaise over the top.
-= 那份蛋垫在圆片腌里脊上，浇着荷兰酱。
-Canadian bacon = 圆片腌里脊（美式叫法）
-② Canadian bacon is leaner than streaky bacon and shrinks far less.
-= 圆片腌里脊比条状培根瘦，也不太缩水。
-be leaner than = 比……瘦
-构词：国名加 bacon
-注意别混：跟条状五花培根不是一样东西，加拿大人自己不这么叫。
-
-Canadian football
-核心：加拿大式橄榄球：跟美式橄榄球同源但规矩不同 —— 场地更长更宽、
-每队十二人、只有三次进攻机会而不是四次。说的是那项运动，不是加拿大
-人踢的足球。不可数。
-① Canadian football allows only three downs, so the punting comes early.
-= 加拿大式橄榄球只有三次进攻机会，所以弃踢来得早。
-Canadian football = 加拿大式橄榄球
-② He switched from Canadian football to the American game at twenty-six.
-= 他二十六岁从加拿大式橄榄球转去打美式的。
-switch from = 从……转去
-构词：国名加 football
-注意别混：这里的 football 指橄榄球，不是英式足球。
-
-canal
-核心：人工挖出来的水道，供船通行或供灌溉排水。第二支是
-解剖学的管道：耳道、产道、消化道都用这个词。可数。
-① The canal links the two rivers and saved the town from being bypassed.
-= 那条运河把两条河连起来，让那个镇免于被绕开。
-canal = 运河
-② Barges still work the canal, though there are four where there were forty.
-= 平底货船还在那条运河上跑，从前四十条，如今四条。
-barge = 平底货船
-③ Water is drawn off into irrigation canals from May until the rains come.
-= 从五月到雨季来临，水都被引到灌溉渠里。
-irrigation canal = 灌溉渠
-④ The infection was in the ear canal and cleared up in three days.
-= 感染在耳道里，三天就好了。
-the ear canal = 耳道
-⑤ They live on a canal boat and move it every fourteen days by law.
-= 他们住在运河窄船上，按规定每十四天得挪一次地方。
-a canal boat = 运河窄船
-构词：拉丁语 canalis 管道、水槽
-注意用法：解剖义与水道义共用一个词。
-
-canalize
-核心：把河道改成规整的渠：拉直、加固、控制水流。引申义
-也常用：把力量或情绪引到一个方向去。名词 canalization。
-英式也拼 canalise。
-① The river was canalized long ago and has run straight ever since.
-= 那条河很早就被渠化了，从此一直是直的。
-canalize = 把河道渠化
-② Canalization stopped the flooding and killed most of the fish.
-= 渠化治住了水患，也害死了大半的鱼。
-canalization = 河道渠化
-③ He canalized his anger into work and slept four hours a night.
-= 他把怒气引到工作上，一晚只睡四小时。
-canalize something into = 把……导向某处
-构词：canal 水道 加动词后缀
-注意用法：引申义偏书面。
-
-canape
-核心：一口一个的小点心：一小片面包或饼干上放馅料，
-酒会上端出来的那种。法语来的词，讲究的写法带重音符。
-多用复数。可数。
-① Waiters passed round canapes that nobody could eat one-handed.
-= 侍者端着小点心穿来穿去，没人能单手吃下去。
-canape = 一口酥小点
-② She made smoked salmon canapes for eighty people in one afternoon.
-= 她一下午做出了够八十人吃的熏三文鱼小点。
-smoked salmon = 熏三文鱼
-③ Canapes are served with drinks and never count as dinner.
-= 小点心是配酒上的，从来不算正餐。
-be served with = 配……上桌
-构词：法语的沙发一词，那片底座像是托着馅料的坐榻
-注意用法：多用复数，酒会语境。
-
-canard
-核心：谣传、假消息，尤指流传很广却站不住的说法，
-常说 an old canard。书面语，带轻蔑。可数。
-① That is an old canard about immigrants and the figures disprove it.
-= 那是关于移民的一个老谣言，数字就能驳倒它。
-an old canard = 老谣言
-② The claim is a canard, repeated for years by people who know better.
-= 那个说法是假的，明白人却传了多年。
-canard = 站不住的传言
-③ He dismissed the story as a canard and refused to say more.
-= 他说那是谣传，不予理会，也不肯多讲。
-dismiss as = 视为……而不予理会
-构词：法语 canard 鸭子，出自一句骗人的俗语
-注意语域：书面，带轻蔑。
-
-canary
-核心：金丝雀：小型鸣禽，羽毛多为黄色，笼养听叫声。
-矿工曾带它下井查毒气，所以 a canary in the coal mine
-指提前示警的信号，这个说法今天很常用。canary yellow
-是那种鲜黄。可数。
-① The canary sang all morning and stopped when the cat came in.
-= 那只金丝雀叫了一上午，猫一进来就不叫了。
-canary = 金丝雀
-② Rising rents are a canary in the coal mine for the whole district.
-= 房租上涨是整个片区的预警信号。
-a canary in the coal mine = 提前示警的信号
-③ She painted the door canary yellow and the council made her repaint it.
-= 她把门刷成鲜黄色，市政让她重刷了一遍。
-canary yellow = 鲜黄色
-构词：加那利群岛的名字，鸟从那里来
-注意用法：预警那个说法比鸟本身更常读到。
+cant
+核心：两支，不同源。一是虚伪的套话：把道德或宗教的说法
+挂在嘴上其实不信，一定带贬义；旧义还指某个行帮的黑话。
+二是倾斜：动词是使倾斜，名词是那个斜度。
+① I am tired of political cant about hard-working families from people who inherited everything.
+= 那些什么都靠继承的人，张口就是勤劳家庭的政治套话，我听够了。
+cant = 虚伪的套话
+② The word began as thieves' cant and reached respectable print two centuries later.
+= 那个词本是贼帮的黑话，两百年后才进了正经出版物。
+thieves' cant = 贼帮黑话
+③ The deck canted to one side and everything loose slid into the scuppers.
+= 甲板向一边倾斜，没固定的东西全滑进了排水口。
+cant = 倾斜
+④ There is a slight cant to the roof so that rain runs off the back.
+= 屋顶有一点斜度，好让雨水从后面流走。
+a cant = 斜度
+构词：套话义出自拉丁语 cantare 唱，讽刺人念念有词
+注意别混：跟 can't 只差一个撇号，读音也不同。

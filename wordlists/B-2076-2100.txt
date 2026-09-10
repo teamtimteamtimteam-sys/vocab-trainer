@@ -1,501 +1,472 @@
-banner
-核心：底层是"张开的一幅旗布"。游行队伍举的横幅是本义；
-网页上那条长条广告借了这个形状；作定语时另有一层
-"格外出色的"，说的是 banner year 这种"丰收的一年"。
-习语 under the banner of 指打着某个旗号。
-① Protesters carried a banner that took four people to hold up.
-= 抗议者举着一条要四个人才撑得住的横幅。
-② The site sells banner ads and has almost no other income at all.
-= 那个网站卖横幅广告，几乎没有别的收入。
-banner ad = 横幅广告
-③ A banner headline ran across the page above a story of four lines.
-= 通栏大标题横贯整版，底下的报道只有四行。
-banner headline = 通栏大标题
-④ It was a banner year for the company and the worst for everyone else.
-= 那是公司的丰收年，对别人却是最糟的一年。
-banner year = 业绩极佳的一年
-⑤ They marched under the banner of reform and disagreed about everything else.
-= 他们打着改革的旗号游行，别的事上则毫无共识。
-under the banner of = 打着…的旗号
-注意用法：
-形容词义只作定语，多跟 year、season 搭配。
+barge
+核心：底层是"平底的运货船"——吃水浅、走内河运河、多半靠拖带，
+所以又慢又笨重。动词那一支正是从这个"笨重地挤过去"的印象来的：
+barge in 是不打招呼硬闯进来，barge into 是撞上人。
+习语 wouldn't touch it with a bargepole 指嫌弃到根本不想沾。
+① Coal came down the canal by barge until the railway undercut the freight rates.
+= 煤一直靠驳船走运河运来，直到铁路把运费压了下去。
+by barge = 用驳船运
+② The barge moored below the lock while the crew waited for the water to rise.
+= 驳船泊在闸下，船员等着水位涨上来。
+③ He barged in without knocking and started reading the papers on my desk.
+= 他没敲门就闯了进来，还看起了我桌上的文件。
+barge in = 冒失闯入
+④ She barged into me on the stairs and knocked the whole tray of glasses over.
+= 她在楼梯上撞了我一下，整盘杯子都被撞翻了。
+barge into = 撞上、猛挤
+⑤ I wouldn't touch that scheme with a bargepole, whatever commission they are offering.
+= 不管他们给多少佣金，那个项目我碰都不想碰。
+not touch with a bargepole = 避之唯恐不及（英式）
+⑥ The bargee waved from the tiller as the boat slid under the low stone bridge.
+= 船从低矮的石桥下滑过时，驳船工在舵柄旁挥了挥手。
+bargee = 驳船船工（英式）
+注意语域：
+动词义带责怪口气，说人莽撞无礼。
+⑦ A carved bargeboard trims the gable edge of every cottage in the village.
+= 村里每座小屋的山墙边都用雕花封檐板收边。
+bargeboard = 封檐板
 
-bannister
-核心：banister 的另一种拼法，指的是同一样东西——楼梯边上
-那道扶手连同底下的短柱。两种写法都通行，
-带两个字母的那种略常见于英式文本。
-① The removal men took the bannister apart to get the piano upstairs.
-= 搬家工人把扶手拆了，才把钢琴弄上楼。
-slide down the bannister = 顺扶手滑下
-② The bannister needs sanding before anyone attempts a second coat of paint.
-= 谁要刷第二遍漆，得先把扶手打磨一遍。
+barista
+核心：咖啡馆里做咖啡的人——意大利语借词，本义就是"吧台工作者"。
+英语里专指手冲和意式咖啡机后面那位，强调这是门手艺，
+不只是端咖啡的服务员。
+① The barista pulled a shot and threw it away without being asked.
+= 咖啡师萃了一杯浓缩，没人说什么就倒掉了。
+pull a shot = 萃取一份浓缩咖啡
+② She trained as a barista for six weeks and stayed eleven years.
+= 她受训做咖啡师，训了六周，干了十一年。
+③ A good barista dials in the grind before the first customer arrives.
+= 好咖啡师在第一位客人进门之前就把研磨度调准了。
+注意语域：
+餐饮行业用语，意大利语借词。
+
+baritone
+核心：男声的中间声部，比男高音低、比男低音高，是最常见的男声
+音域。也指这个音域的歌手，以及同音域的乐器
+（baritone saxophone）。
+① He sings baritone and gets the villain's part in almost every opera.
+= 他唱男中音，几乎每部歌剧里都演反派。
+sing baritone = 唱男中音
+② The baritone took the villain's role and stole the second act.
+= 那位男中音演了反派，把第二幕全抢了过去。
+③ She plays baritone saxophone and carries it in a case like a coffin.
+= 她吹上低音萨克斯，装在一个像棺材的琴盒里扛着。
+baritone saxophone = 上低音萨克斯
+声部对照：
+tenor = 男高音
+baritone = 男中音
+bass = 男低音
+
+barium
+核心：一种碱土金属元素，银白柔软、在空气中迅速氧化。
+可溶的钡盐有毒，但不溶的硫酸钡不被人体吸收，
+所以做成 barium meal 让病人吞下去，在 X 光下把消化道显影出来。
+① The patient swallowed a barium meal and was told not to eat till noon.
+= 患者吞服了钡餐，被交代中午前不许进食。
+barium meal = 钡餐（消化道造影用）
+② Barium blocks X-rays, which is what makes the gut show up white.
+= 钡能阻挡 X 射线，肠道因此在片子上显成白色。
+③ Soluble barium salts are toxic and are never used in medicine.
+= 可溶性钡盐有毒，医学上从不使用。
+注意语域：
+化学元素名，也常见于医学影像语境。
+按「常见元素保留」那条裁定收下：它天然存在，
+且在医院影像检查里日常可见。
+
+bark
+核心：两个毫无亲缘的词长成了同一个形，别去找它们之间的联系。
+第一支来自古诺尔斯语，指树干外面那层"树皮"——粗糙、护住里面。
+动词义"擦破皮"（bark your shin）也是从这来的：把皮蹭掉了。
+第二支来自古英语，指狗那一声短促的"汪"。由此引申：
+人厉声吼叫也是 bark，因为声音短而硬。围绕它的习语都在说
+"叫得凶未必咬人"——bark is worse than his bite 就是这个意思。
+第三支很少见：一种三桅帆船，也拼作 barque。
+① Birch bark peels off in strips and was once used to write on.
+= 桦树皮成条剥落，从前曾用来书写。
+tree bark = 树皮
+② Cinnamon is made from bark and loses its smell within about a year.
+= 肉桂是树皮做的，大约一年香气就散了。
+③ I barked my shin on the step that has no edging on it.
+= 我在那级没包边的台阶上蹭破了小腿。
+bark one's shin = 擦破小腿的皮
+④ The dog barked all night at something nobody else could see.
+= 狗对着谁也看不见的东西叫了一整夜。
+第二支：狗吠。
+⑤ He barked an order at them and then softened it before anyone moved.
+= 他厉声下了道命令，没等人动又把语气缓了下来。
+bark an order = 厉声下令
+⑥ His bark is worse than his bite and everyone in the office knows it.
+= 他嘴上凶，其实不咬人，办公室里人人都清楚。
+one's bark is worse than one's bite = 刀子嘴豆腐心
+⑦ You are barking up the wrong tree; she left the firm in March.
+= 你找错人了，她三月就离职了。
+bark up the wrong tree = 找错了对象或方向
+（猎犬对着空树狂吠，猎物早跑了）
+⑧ He is barking mad and has been right about almost everything so far.
+= 他疯疯癫癫的，可到目前为止几乎件件都说中了。
+barking mad = 疯得不轻（英式口语，也可单说 barking）
+⑨ A barker drew the crowd in and the show was over in four minutes.
+= 招徕的人把人群拉了进来，演出四分钟就完了。
+barker = 街头或游乐场的吆喝招客者
+注意别混：
+bark 树皮（诺尔斯语来源）
+bark 犬吠（古英语来源）
+两支同形不同源，中文里正好也是"皮"与"吠"两个字。
+注意语域：
+barking mad 与 barker 都偏英式口语。
+
+barley
+核心：一种谷物，是最早被驯化的作物之一。今天主要用途有三：
+酿啤酒和威士忌用它发麦芽、做饲料、煮汤煮粥。
+派生的几样东西名字都带它：barley water 是大麦水，
+barley sugar 是麦芽糖块，barley wine 是一种高度浓啤。
+① Barley ripens before wheat, which spreads the harvest over two months.
+= 大麦比小麦熟得早，收割因此摊在两个月里。
+② Beer is brewed from malted barley and four other ingredients at most.
+= 啤酒是用发芽大麦酿的，另外最多四样原料。
+malted barley = 麦芽
+③ She drank lemon barley water at every match for thirty years.
+= 三十年来每场比赛她都喝柠檬大麦水。
+barley water = 大麦水（英式饮料）
+④ Barley sugar comes in twisted sticks and sticks to the wrapper.
+= 麦芽糖做成扭花的小棒，还老粘在糖纸上。
+barley sugar = 麦芽糖块
+⑤ Barley wine is strong and sweet and comes in very small bottles.
+= 大麦酒又烈又甜，装在很小的瓶子里。
+barley wine = 大麦酒（高度浓啤）
+注意用法：
+不可数，说一粒时用 a grain of barley。
+
+barmy
+核心：英式非正式形容词，指人或想法"疯疯癫癫、荒唐"。
+语气轻，多是打趣。词源是啤酒发酵时表面那层泡沫 barm——
+"冒泡了"就是脑子不清楚。也拼作 balmy。
+① That is a barmy idea and it worked better than the sensible one.
+= 那个主意荒唐得很，效果却比稳妥那个还好。
+a barmy idea = 荒唐的念头
+② He has gone barmy about cycling and owns four bicycles.
+= 他对骑车着了魔，拥有四辆自行车。
+go barmy = 变得疯疯癫癫
+③ Barmy weather for July, said everyone, in the fourth week of rain.
+= 下了四周雨，人人都说七月里这种天气真古怪。
 注意拼写：
-banister 与 bannister 同义，后者多见于英式文本。
+barmy 与 balmy 两种写法都见，前者更常用于「荒唐」这层。
+注意语域：
+英式非正式，语气轻，带调侃。
 
-banns
-核心：教堂婚礼前连续三个礼拜日在会众面前宣读的"结婚公告"——
-公开男女双方姓名，让知情者有机会提出异议。总用复数。
-固定说法 read the banns 与 publish the banns。
-① The banns were read three Sundays running and nobody came the third time.
-= 结婚公告连着三个礼拜日宣读，第三次没人到场。
-read the banns = 宣读结婚公告
-② Nobody objected when the banns were published, which surprised the family.
-= 公告发布时没人提出异议，这让家里人很意外。
-③ The banns must precede the wedding by a clear period set in law.
-= 公告须在婚礼之前发布，间隔期限由法律定死。
+barn
+核心：农场上存放谷物、干草和农机的大房子，有的也关牲口。
+特点是空间大、门大。比喻着用说房子"大而空荡"。
+一批固定说法从它来：barn dance 是仓房里办的乡村舞会，
+barn owl 是仓鸮，barnstorm 原指巡回到各村仓房演出，
+后来指政客做旋风式巡回竞选。
+① They stored hay in the barn until the roof gave way in February.
+= 他们把干草存在谷仓里，直到二月屋顶塌了。
+② The flat is like a barn and costs a fortune to heat in winter.
+= 那套房子空得像个仓库，冬天供暖贵得吓人。
+③ They held a barn dance and the caller shouted himself hoarse by ten.
+= 他们办了场乡村舞会，喊舞的人不到十点就喊哑了。
+barn dance = 乡村舞会
+④ A barn owl hunted along the hedge every evening at exactly the same hour.
+= 一只仓鸮每天傍晚都在同一个时辰沿着树篱捕食。
+barn owl = 仓鸮
+⑤ The candidate barnstormed the state and visited sixty towns in nine days.
+= 那位候选人在全州旋风式拉票，九天跑了六十个镇。
+barnstorm = 旋风式巡回
+barnstorming = 精彩火爆的（作形容词）
+注意语域：
+barnstorm 的政治义主要在美式英语里用。
+⑥ Chickens scratched about the barnyard while the dog watched from the step.
+= 鸡在谷场上刨来刨去，狗从台阶上看着。
+barnyard = 谷仓前的场院
+
+barnacle
+核心：一种附着在船底、礁石和鲸皮上的甲壳动物，一旦粘住就
+一辈子不动，还极难铲掉。比喻着用形容"甩不掉的人或事"。
+另有一种 barnacle goose（白颊黑雁），得名于中世纪那个
+以为它由藤壶变来的传说。
+① Barnacles slow the ship down and add a fortune to the annual fuel bill.
+= 藤壶会拖慢船速，一年的油钱要多出一大笔。
+② The hull was scraped clear of barnacles in a dry dock over three days.
+= 船壳在干船坞里刮了三天才把藤壶清干净。
+scrape off barnacles = 刮除藤壶
+③ He clings on like a barnacle and turns up at every family occasion uninvited.
+= 他像藤壶一样甩都甩不掉，家里有事没请他也来。
+④ Barnacle geese winter on the coast and leave for the Arctic in April.
+= 白颊黑雁在海岸过冬，四月启程飞往北极。
+barnacle goose = 白颊黑雁
+注意语域：
+比喻义带嫌弃口气。
+
+barnet
+核心：伦敦押韵俚语，指"头发"。来历是 Barnet Fair（巴尼特集市）
+跟 hair 押韵，于是取前半个词当代号——这正是押韵俚语的做法：
+先找一个跟目标词押韵的短语，再把它砍掉后半截，
+外人就听不懂了。
+① Nice barnet, said the man behind the bar, and meant it.
+= 「发型不错啊」，吧台后面那人说，而且是真心的。
+② He got his barnet cut for the first time in two years.
+= 他两年来头一回把头发剪了。
+③ She spent an hour on her barnet and it rained all the way there.
+= 她在头发上花了一个钟头，一路走过去全是雨。
+注意语域：
+伦敦押韵俚语，出了伦敦多半听不懂。
+同类构词：
+plates of meat = feet（脚）
+dog and bone = phone（电话）
+
+barney
+核心：英式非正式说法，指"吵架、口角"——嗓门大、来回顶，
+但一般不动手。跟 argy-bargy 是一路。可数。
+① They had a barney over the bill and split it in the end anyway.
+= 他们为账单吵了一架，最后还是平摊了。
+have a barney = 吵一架
+② A barney broke out at closing time and was over before the police came.
+= 打烊时吵了起来，警察还没到就完事了。
+③ It was just a family barney and nobody spoke of it again.
+= 那不过是家里拌了几句嘴，之后谁也没再提。
+注意语域：
+英式非正式口语。
+
+barograph
+核心：能连续记录气压变化的仪器——一支笔跟着气压升降在
+慢慢转动的纸筒上画线，画出一周的气压曲线。
+跟只显示当下读数的 barometer 相比，它给的是趋势。
+① The barograph traced a falling curve through the whole of Thursday night.
+= 整个周四夜里，气压计描出一条不断下降的曲线。
+② A barograph records pressure over a week on a slowly turning drum.
+= 气压记录仪在慢慢转动的纸筒上记下一周的气压。
+③ Sailors read the barograph for trends rather than for the number.
+= 水手看气压曲线是为了看趋势，不是为了看数字。
+注意别混：
+barometer = 气压计（读当下）
+barograph = 气压记录仪（画趋势曲线）
+
+barometer
+核心：测大气压的仪器。气压降表示天气要变坏，升表示转晴，
+所以它成了看天气的老办法。比喻着用指"晴雨表"——
+能反映整体形势变化的那个指标。形容词是 barometric。
+① The barometer is falling steadily, which usually means rain before morning.
+= 气压在稳步下降，这通常意味着天亮前有雨。
+② House prices are a barometer of confidence.
+= 房价是信心的晴雨表。
+a barometer of = …的晴雨表
+③ Barometric pressure dropped sharply in the six hours before the storm arrived.
+= 风暴到来前的六小时里，气压骤然下降。
+barometric = 气压的
 注意用法：
-总用复数，只用于教堂婚礼程序。
+比喻义后面接介词引出所反映的东西。
 
-banoffee pie
-核心：英式甜点，饼底铺焦糖太妃、码上香蕉片、顶一层打发奶油。
-名字是 banana 和 toffee 拼起来的，一九七零年代由英格兰
-一家餐馆发明。也拼作 banoffi pie。
-① She made a banoffee pie and the caramel took an hour on its own.
-= 她做了个香蕉太妃派，光熬焦糖就用了一小时。
-② Banoffee pie layers toffee and banana under a cap of cream.
-= 香蕉太妃派把太妃与香蕉层层叠起，上头盖一层奶油。
-注意拼写：
-banoffee 与 banoffi 两种写法都见，前者更通行。
-
-banquet
-核心：正式的大型宴会——多人出席、有致辞、多道菜，多半是庆典
-或官方场合。比 dinner party 隆重得多。动词指设宴款待，
-banqueting 作定语指宴会用的。
-① The city held a banquet for the delegation and seated them by height.
-= 市里为代表团设了宴，还按身高排的座。
-hold a banquet = 设宴
-② A banquet followed the ceremony and ran three hours past its billing.
-= 典礼之后是宴会，比原定时间超了三个钟头。
-③ The hotel has a banqueting suite that has not been redecorated since 1974.
-= 那家酒店有个宴会厅，一九七四年之后没重新装修过。
-banqueting suite = 宴会厅
-注意别混：
-banquet = 正式大宴（多人、有仪式）
-feast = 盛宴（重在菜多、气氛热闹）
-
-banquette
-核心：餐厅或酒吧里靠墙的"卡座长凳"——有软垫、带靠背，
-一排通到底，前面摆桌子。跟单张椅子的分别在于它是固定的一长条。
-法语借词，跟 banquet（宴会）不是一回事。
-① They sat on the banquette by the window and watched the street fill up.
-= 他们坐在窗边的卡座上，看着街上人多起来。
-② Banquettes save floor space and are impossible to get out of quickly.
-= 卡座长凳省地方，也让人没法迅速起身。
-③ The booth has a leather banquette worn shiny at one end.
-= 那个卡座是皮面长凳，一头已经磨得发亮。
-注意别混：
-banquette = 卡座长凳（家具）
-banquet = 正式宴会（活动）
-
-banshee
-核心：爱尔兰与苏格兰传说里的女妖——她一出现并放声哀号，
-就预示那家要死人。今天几乎只活在比喻里：
-scream like a banshee 形容尖叫得极凄厉。
-① She screamed like a banshee and the whole terrace heard it.
-= 她尖叫得像女妖，整排房子都听见了。
-scream like a banshee = 凄厉地尖叫
-② The wind wailed like a banshee round the chimney all night.
-= 风绕着烟囱凄厉地哭嚎了一整夜。
-③ His grandmother swore a banshee had cried the night his brother died.
-= 他祖母赌咒说，他弟弟死的那晚有女妖哭过。
-注意语域：
-民俗名称，日常只用那个比喻说法。
-
-bantam
-核心：小型鸡的一类，个头只有普通鸡的一半，公鸡尤其好斗，
-所以比喻着用指"个子小却很凶的人"。拳击等级里的
-bantamweight（雏量级）就是从这来的。
-① They keep bantams in the yard and get about four eggs a week.
-= 他们在院里养了几只矮脚鸡，一周大约收四个蛋。
-② The bantam cock chased the dog twice round the vegetable patch.
-= 那只矮脚公鸡追着狗绕菜地跑了两圈。
-③ He fought at bantamweight and gave away four inches of reach.
-= 他打的是雏量级，臂展比对手短四英寸。
-bantamweight = 雏量级（拳击等级）
-注意语域：
-家禽名称，也用于拳击等级。
-
-banter
-核心：指"打趣、逗闷子"——朋友或同事之间来回开玩笑，
-不带恶意，甚至是亲近的表现。不可数。作动词也用。
-形容词 bantering 指语气"打趣的"。
-① They exchanged friendly banter across a counter for eleven years.
-= 隔着柜台，他们你一句我一句地打趣了十一年。
-friendly banter = 善意的打趣
-② He bantered with the crowd until one of them asked a real question.
-= 他跟观众逗着乐，直到有人问了个真问题。
-banter with = 跟…打趣
-③ Her tone was bantering and the man on the receiving end missed it entirely.
-= 她那口气是逗趣，而听的那个人完全没听出来。
-bantering = 打趣的
-注意别混：
-banter = 打趣（无恶意，往往拉近关系）
-mockery = 嘲弄（有轻蔑）
-
-Bantu
-核心：班图的：非洲中部与南部三百多种亲属语言的总称，也指说这些语言
-的各族群。作族群称谓时要当心：南非种族隔离时期官方拿它给黑人分类，
-所以那个用法带侮辱意味，今天说语言可以，说人要避开。
-① Swahili is a Bantu language and borrows heavily from Arabic.
-= 斯瓦希里语属班图语族，从阿拉伯语借了大量词。
-a Bantu language = 班图语族的语言
-② Bantu languages share a noun-class system with up to twenty classes.
-= 班图语族共有一套名词分类，多的能有二十类。
-Bantu languages = 班图诸语言
-构词：这些语言里表示「人」的那个词
-注意语域：说语言中性，说人带侮辱意味，避开。
-
-banyan
-核心：一种榕树，特点是从枝上垂下气根，气根扎进土里变成新的
-支柱根，于是一棵树能铺开成一片林子。印度的圣树，
-村里常在树下议事。
-① The banyan spreads over half an acre and looks like several trees.
-= 那棵榕树铺开了半英亩，看着像好几棵。
-② Aerial roots make the banyan spread further every decade.
-= 气根让榕树每过十年就铺得更开。
-aerial root = 气根
-③ Villagers meet under the banyan and have done for longer than anyone records.
-= 村民在榕树下聚会，比任何记载都久远。
-注意语域：
-树木名称，南亚文化里有特殊地位。
-
-baobab
-核心：非洲与马达加斯加的一种大树，树干粗得出奇、顶上枝条稀疏，
-远看像根倒插的萝卜，所以有"倒长的树"这个绰号。
-树干能储大量水，寿命上千年。
-① A baobab dominates the plain and is visible from four miles off.
-= 一棵猴面包树立在平原上，四英里外就看得见。
-② The baobab stores water in its trunk and survives years without rain.
-= 猴面包树的树干能储水，几年不下雨也活得下来。
-store water = 储水
-③ Baobabs can live a thousand years and hollow out without dying.
-= 猴面包树能活上千年，树心空了也不死。
-注意语域：
-树木名称，非洲草原的标志性树种。
-
-bap
-核心：英式说法，指一种松软的圆面包，多用来夹东西吃。
-它比 roll 大而软，面上常撒一层面粉。北英格兰与苏格兰
-用得最多，bacon bap 是经典早餐。
-① He bought a bacon bap and ate it walking to the bus stop.
-= 他买了个培根面包，一边走去公交站一边吃。
-bacon bap = 培根夹包
-② Baps go stale by lunchtime and are best bought at eight.
-= 那种面包到午饭就不新鲜了，八点买最好。
-③ Split the bap and butter it while it is still warm.
-= 趁面包还热，把它切开抹上黄油。
-注意地域：
-英式说法，尤其北英格兰与苏格兰。
-
-baptism
-核心：基督教的入教仪式，用水施洗，象征洗去旧我、归入教会。
-各宗派做法不同：有的浸入水中，有的只在额上点水。
-比喻着用指"初次经受的严峻考验"，固定说法 baptism of fire。
-动词是 baptize，形容词是 baptismal。
-① The child received baptism in a font older than the village itself.
-= 那个孩子在一个比村子还老的洗礼盆里受了洗。
-receive baptism = 受洗
-② Adult baptism is by full immersion and takes place in the river.
-= 成人受洗是全身浸入水中，在河里进行。
-adult baptism = 成人洗礼
-③ The first week was a baptism of fire and two of them left.
-= 头一周就是场硬仗，其中两人走了。
-baptism of fire = 严峻的初次考验
-④ The priest baptized her in a language she would never learn.
-= 神父用一种她永远不会学的语言给她施了洗。
-baptize = 施洗
-⑤ They chose a baptismal name that nobody in the family has ever used.
-= 他们选了个教名，家里没有一个人用过。
-baptismal name = 教名
+baron
+核心：贵族最低一级的爵位，男爵；女性对应 baroness。
+比喻着用指某行业的"大亨"——press baron 是报业大亨，
+drug baron 是毒枭。另一支 baronet 是准男爵，
+介于男爵与骑士之间，是英国独有的世袭头衔。
+① He was created a baron and never once took his seat in the chamber.
+= 他被封为男爵，却一次也没去议院就座。
+② The press barons backed the bill and the government dropped it anyway.
+= 那些报业大亨支持了那项法案，政府还是把它撤了。
+press baron = 报业大亨
+drug baron = 毒枭
+③ The baroness took her seat and asked the first question of the day.
+= 那位女男爵就座后，提了当天第一个问题。
+baroness = 女男爵
+④ A baronet ranks below a baron and above a knight, which pleases nobody.
+= 准男爵位在男爵之下、骑士之上，两边都不讨好。
+baronet = 准男爵
+baronetcy = 准男爵爵位
+⑤ The hall has a baronial fireplace that has not been lit since the war.
+= 那个厅里有个气派的大壁炉，战后就没生过火。
+baronial = 贵族气派的
 注意用法：
-比喻义只用在那个固定搭配里。
+比喻义前面加行业名，构成 X baron。
 
-Baptist
-核心：浸信会的、浸信会教徒：基督教新教的一支，主张受洗要全身浸入
-水中，且只给能自主信认的人施洗，所以不给婴儿受洗。可数。
-① She was raised a Baptist and left the church at nineteen.
-= 她是在浸信会里长大的，十九岁离开了教会。
-a Baptist = 浸信会教徒
-② The Baptist church stands on the corner and seats about ninety.
-= 那座浸信会教堂在拐角上，能坐九十来人。
-a Baptist church = 浸信会教堂
-③ Baptists reject infant baptism and baptise by full immersion.
-= 浸信会不给婴儿施洗，施洗时要全身浸入水中。
-Baptists = 浸信会教徒（复数）
-构词：希腊语 baptizein 浸入
-注意用法：大写才指这个教派，小写的 baptist 是施洗者。
-
-bar
-核心：底层是一根横着的条。所有义项都是这根条的不同用处：
-当东西——金属条、巧克力条、肥皂块，都论"条"论"块"；
-当阻挡——横在门上、路上、窗上，于是有了栏杆、障碍，
-动词就是"拦住、禁止"，介词义"除…之外"也是这么来的
-（把它挡在外面）；
-当界线——法庭上隔开旁听席与审判区的那道横木叫 the bar，
-律师要跨过它才能执业，于是"律师界"；跳高横杆立在那儿，
-于是"标准"；
-当柜台——酒馆里那条长台面叫 bar，整个店也跟着叫这个名。
-音乐的"小节"也是条：谱面上两道竖线之间的那一格。
-① He ate a chocolate bar on the platform while he waited.
-= 他在站台上等车时吃了一块巧克力。
-a bar of = 一条、一块（巧克力、肥皂、金条）
-② A steel bar reinforced the beam where the crack had started.
-= 一根钢筋加固了梁上开裂的地方。
-③ There are bars on the window and no other way out.
-= 窗户上有铁栏，别处没有出路。
-④ He spent five years behind bars for something he did not do.
-= 他为一件没做过的事坐了五年牢。
-behind bars = 在狱中
-⑤ Nothing bars your way now that the objection has been withdrawn.
-= 异议撤回之后，再没什么挡着你了。
-动词第一层：拦住。
-⑥ He was barred from the club for a year after the fight.
-= 打架之后，他被那家俱乐部禁入一年。
-be barred from = 被禁止进入或参与
-⑦ Everyone came, bar two who were away on holiday.
-= 除了两个在外度假的，大家都来了。
-bar = 除…之外（介词，偏英式）
-⑧ It was the best show of the whole festival, bar none.
-= 那是整个音乐节最好的一场演出，毫无例外。
-bar none = 毫无例外地
-⑨ We met at a bar near the station and talked until closing.
-= 我们在车站附近一家酒吧碰头，聊到打烊。
-柜台那一支：酒吧。
-⑩ She leaned on the bar and ordered the same as last time.
-= 她靠在吧台上，点了跟上次一样的东西。
-bar = 吧台（那条长台面）
-⑪ The hotel has a coffee bar that opens before the kitchen does.
-= 那家酒店有个咖啡吧，比厨房开得还早。
-凡是「一条柜台对外服务」的都能这么叫，
-snack bar、salad bar、nail bar 同理。
-⑫ She was called to the bar at twenty-four, younger than anyone expected.
-= 她二十四岁就获准出庭执业，比谁料想的都早。
-be called to the bar = 获准出庭执业（英式）
-the Bar = 出庭律师界
-⑬ The prisoner stood at the bar without saying a single word.
-= 那名囚犯站在受审席上，一言不发。
-at the bar = 在受审席上（法庭）
-⑭ That sets a high bar for everyone who comes after her.
-= 那给后来的人立了个很高的标准。
-set the bar high = 定高标准
-raise the bar = 抬高标准
-⑮ The piece is in four-four and only eight bars long.
-= 那首曲子是四四拍，只有八个小节。
-bar = 小节（音乐，美式说 measure）
-⑯ Scan the bar code at the till and the price comes up.
-= 在收银台扫条形码，价格就出来了。
-bar code = 条形码
-⑰ A sandbar blocked the channel and the boats had to wait for the tide.
-= 一道沙洲堵住了航道，船只得等涨潮。
-sandbar = 沙洲
-crowbar = 撬棍
-handlebar = 车把
-注意地域：
-「小节」英式说 bar、美式说 measure；
-「除…之外」那个介词义主要在英式书面语里。
-注意别混：
-the bar = 律师界（法庭那道横木）
-the bar = 标准（跳高那根横杆）
-两个都写作 the bar，靠上下文分。
-⑱ Read the values off the bar chart rather than off the table.
-= 从柱状图上读数，别看表格。
-bar chart = 柱状图
-bar graph = 条形图
-⑲ A bar line separates the measures and shows where the beat falls.
-= 小节线把小节分开，标出重拍落在哪里。
-bar line = 小节线
-⑳ He perched on a bar stool and did not take his coat off.
-= 他坐上高脚凳，外套都没脱。
-bar stool = 吧台高脚凳
-㉑ They serve bar snacks till late but close the kitchen at nine.
-= 他们酒吧小食供应到很晚，厨房九点就关。
-bar snack = 酒吧小食
-㉒ We bar-hopped along the seafront and lost two of the party.
-= 我们沿着海滨一家家换着喝，走丢了两个人。
-bar-hop = 连着换几家酒吧喝
-㉓ They played bar billiards in the pub until the table was needed.
-= 他们在酒吧里打小台球，直到有人要用那张桌子。
-bar billiards = 酒吧台球（英式的一种小台球）
-㉔ Scan the barcode at the checkout and bag your own shopping.
-= 在自助收银台扫码，自己装袋。
-barcode = 条形码
-㉕ The barroom emptied at midnight and the chairs went up on the tables.
-= 半夜酒吧间空了，椅子都翻到了桌上。
-barroom = 酒吧间（美式）
-㉖ A bartender mixed the drinks without once looking at a recipe.
-= 酒保调酒时一次都没看配方。
-bartender = 酒保（美式）
-barmaid = 女酒保（英式）
-barman = 男酒保（英式）
-㉗ His bar mitzvah was held in the spring with the whole family there.
-= 他的成年礼在春天举行，全家人都到了。
-bar mitzvah = 犹太男孩成年礼（十三岁）
-（这个 bar 来自希伯来语的「之子」，跟酒吧那个 bar 无关）
-㉘ The color bar was written into local law and took decades to remove.
-= 那道肤色门槛当年写进了地方法律，花了几十年才废除。
-a color bar = 按肤色设的进入门槛（美式拼法）
-英式拼 colour bar；旧词，今天只在讲种族隔离那段历史时用。
-
-barb
-核心：底层是"向后倒钩的那根小刺"。鱼钩上、箭头上、铁丝网上的
-倒刺都是它，作用是扎进去就拔不出来。比喻着用指"带刺的话"——
-说的时候不重，事后越想越扎。形容词 barbed 既说带倒刺的，
-也说话里带刺的。
-① The hook has a sharp barb that makes it almost impossible to remove.
-= 那个鱼钩上有个尖倒刺，几乎没法取下来。
-② He barely noticed the barb until he was halfway home on the bus.
-= 他坐公交回家走了一半，才察觉那句话带着刺。
-a barb = 带刺的挖苦话
-③ The field is fenced with barbed wire strung between concrete posts.
-= 那块地围着铁丝网，绷在一根根水泥柱之间。
-barbed wire = 带刺铁丝网
-④ Her barbed remark about his manners stung him for the rest of the evening.
-= 她那句挖苦他没规矩的话，扎得他一晚上都不痛快。
-barbed = 带倒刺的；话里带刺的
-注意用法：
-比喻义强调「当时不觉得，回味才疼」。
-
-Barbadian
-核心：巴巴多斯的、巴巴多斯人。国名以 -os 收尾，派生时要去掉再加
--ian，不是简单加后缀。当地人自称 Bajan，那是口语昵称。可数。
-① He is a Barbadian by birth and has not been back in thirty years.
-= 他生下来就是巴巴多斯人，三十年没回去过。
-a Barbadian = 巴巴多斯人
-② Barbadian rum is exported worldwide and aged in the heat.
-= 巴巴多斯朗姆酒销往各地，是在暑热里陈的。
-Barbadian rum = 巴巴多斯朗姆酒
-构词：国名去掉词尾再加 -ian
-注意用法：当地口语自称 Bajan，正式文字用这一个。
-
-barbarian
-核心：这个词的来历本身就带偏见：古希腊人管听不懂的外族说话叫
-"巴巴叫"，于是有了这个词，指"外族人、蛮族"。今天指"野蛮人"，
-也戏谑地说没有教养、不懂欣赏的人。同族的一批词分工不同：
-barbaric 说行为残暴，barbarous 说残暴也说粗鄙，
-barbarism 说野蛮行径或粗劣的语言用法，barbarity 专说暴行。
-① The empire fell to barbarians who had been living inside it for a century.
-= 帝国亡于蛮族之手，而那些人已在境内住了一个世纪。
-② He called them cultural barbarians and had not read the book himself.
-= 他骂他们是文化野蛮人，自己却没读过那本书。
-③ The treatment was barbaric and was standard practice until the 1950s.
-= 那种疗法极其野蛮，直到五十年代还是常规做法。
-barbaric = 野蛮残暴的
-④ Barbarous customs were abolished on paper and continued in practice.
-= 野蛮的习俗纸面上废止了，实际照旧。
-barbarous = 残暴的；粗鄙的
-⑤ The report documented barbarities that two governments have denied.
-= 报告记录的暴行，两国政府都予以否认。
-barbarity = 暴行
-⑥ Such spelling is a barbarism and has been in the dictionary since 1988.
-= 那种拼法是不规范用语，却从一九八八年起就进了词典。
-barbarism = 野蛮行径；不合规范的语言用法
+barony
+核心：男爵的爵位或男爵领地。爱尔兰另有一层：历史上的一级行政
+区划，介于郡与教区之间，今天只用于地籍与史料。
+① The barony passed to his nephew along with debts nobody had mentioned.
+= 男爵爵位传给了他侄子，一并传下的还有没人提过的债。
+指爵位本身，可以世袭传下去。
+baron = 男爵
+② The estate formed a small barony of about four hundred acres.
+= 那处地产构成一个小男爵领，约四百英亩。
+③ Irish baronies appear on old maps and on almost nothing since.
+= 爱尔兰的男爵区出现在旧地图上，此后几乎再没出现过。
+barony = 男爵区（爱尔兰旧行政区划）
+今天只用于地籍档案和史料，不是现行区划。
 注意语域：
-用来说别的民族时带明确的贬抑与欧洲中心色彩。
-⑦ The raid was carried out barbarically and against people who had surrendered.
-= 那次袭击手段野蛮，对象还是已经投降的人。
-barbarically = 野蛮地
-⑧ They were treated barbarously and nobody was ever charged with anything.
-= 他们遭到野蛮对待，却没有一个人被起诉。
-barbarously = 残暴地
+爵位与历史行政区划两义。
 
-barbecue
-核心：三层：户外烤肉的那个炉具、那种烹饪方式、以及一场烤肉聚会。
-动词是"烤"。缩写常写作 BBQ，澳式口语叫 barbie。
-配的那种甜辣酱叫 barbecue sauce。
-① They lit the barbecue an hour early so the coals would be white by six.
-= 他们提前一小时点着烤炉，好让炭到六点烧成白灰。
-light the barbecue = 点烤炉
-② We are having a barbecue on Sunday if the weather holds, so bring the kids.
-= 天气要是不变，我们星期天办烤肉聚会，把孩子也带来。
-have a barbecue = 办烤肉聚会
-③ He barbecued the ribs slowly over indirect heat for the best part of four hours.
-= 他把排骨放在不直接对着火的地方，慢烤了将近四个小时。
-④ Brush on the barbecue sauce in the last ten minutes or the sugar will burn.
-= 最后十分钟再刷烧烤酱，不然糖会烧焦。
-barbecue sauce = 烧烤酱
-⑤ Come round for a barbie on Saturday and we'll throw a few prawns on.
-= 星期六过来吃烤肉，我们烤几只大虾。
-barbie = 烤肉（澳式口语）
-注意地域：
-barbie 是澳新口语；美式缩写多写 BBQ。
-⑥ By August the candidate was back on the barbecue circuit, shaking hands in every county.
-= 到八月，那位候选人又跑起了拉票聚会，挨个县去握手。
-barbecue circuit = 巡回拉票的聚会（美式政治）
-⑦ Housing costs have become the barbecue stopper of this election, dividing families at every table.
-= 住房开销成了这次选举里最能引发热议的话题，每张餐桌上都为它争。
-barbecue stopper = 引发热议的话题（澳式）
-
-barbell
-核心：举重和力量训练用的长杠铃——一根长杆两端加片。
-跟哑铃的分别在于：杠铃双手同握一根，哑铃是每手一只。
-杆本身也叫 bar。
-① He loaded the barbell with plates until the bar visibly bent.
-= 他往杠铃上加片，加到杆子肉眼可见地弯了。
-load a barbell = 给杠铃加片
-② Barbell squats build leg strength faster than any machine will.
-= 杠铃深蹲练腿力，比任何器械都快。
-barbell squat = 杠铃深蹲
-③ She lifted the empty barbell first and it already weighed twenty kilos.
-= 她先举了空杆，那杆本身就有二十公斤。
-注意别混：
-barbell = 杠铃（一根长杆，双手同握）
-dumbbell = 哑铃（每手一只）
-
-barber
-核心：专给男士理发修面的人，铺子叫 barbershop 或 barber's。
-跟 hairdresser 的分工传统上很清楚：前者管男士剪发刮胡，
-后者管烫染造型。门口那根红白蓝旋转柱叫 barber's pole，
-源自旧时理发师兼做放血手术。
-① He went to the barber for a trim and came out almost shaved bald.
-= 他去理发店只想修一修，出来几乎剃成了光头。
-② The barbershop opens at seven and there is a queue by a quarter past.
-= 那家理发店七点开门，七点一刻就排上队了。
-barbershop = 理发店
-③ A striped barber's pole marks the door of a shop that has stood there since 1890.
-= 门口那根条纹旋转柱，标着一家开在此地一百多年的老店。
-barber's pole = 理发店旋转柱
-④ Barbershop harmony uses four unaccompanied voices and no instruments at all.
-= 理发店四重唱用四个无伴奏声部，一件乐器都不用。
-barbershop = 无伴奏四重唱（一种合唱风格）
-注意语域：
-第四层是美国的一种合唱形式，名字来自旧时理发店里的即兴合唱。
-
-barbiturate
-核心：一类镇静催眠药，二十世纪上半叶广泛用于安眠和抗癫痫。
-问题在于安全窗极窄——有效量和致死量离得太近，又容易成瘾，
-所以后来大多被苯二氮䓬类取代。
-① Barbiturates were once common sleeping pills and sat in every bathroom cabinet.
-= 巴比妥类药物从前是常用安眠药，家家药柜里都有。
-② Barbiturate overdose is often fatal because the safe dose is close to the lethal one.
-= 巴比妥过量常常致命，因为安全剂量离致死量太近。
-barbiturate overdose = 巴比妥过量
-③ Safer drugs replaced barbiturates in the sixties and the prescriptions stopped.
-= 六十年代更安全的药取代了巴比妥类，处方就此停开。
-注意语域：
-药理学与医学史用语。
-
-Barbudan
-核心：巴布达的、巴布达人。这个岛跟安提瓜合成一个国家，所以正式说
-国民时两个词并用：Antiguan and Barbudan。可数。
-① The Barbudan delegation arrived first and waited two hours.
-= 巴布达代表团先到，等了两小时。
-a Barbudan = 巴布达人
-② Barbudan land is held in common and cannot be sold to outsiders.
-= 巴布达的土地是共有的，不能卖给外人。
-Barbudan land = 巴布达的土地
-构词：岛名加 -n
-注意用法：正式说国民时跟 Antiguan 并用。
-
-bard
-核心：本指凯尔特社会里的行吟诗人——记诵部族史事、在宴上吟唱的
-那种人。今天多用于文学语境指"诗人"，偏文雅。
-带定冠词大写的 the Bard 特指莎士比亚。
-① The bard sang of ancient battles to a hall that had heard them before.
-= 那位吟游诗人向一屋子早已听过的人唱起古战事。
-② He styled himself a bard and published at his own expense.
-= 他自称诗人，书是自己掏钱印的。
-③ The Bard was born in Stratford and left the town at about eighteen.
-= 莎翁生于斯特拉福，十八岁前后离开了那个镇子。
-the Bard = 莎士比亚
+baroque
+核心：十七到十八世纪初的一种艺术风格，特点是繁复、动感、
+明暗对比强烈——建筑上满是曲线与雕饰，音乐上讲究通奏低音与
+装饰音，巴赫与亨德尔是代表。小写时泛指"过于繁复华丽的"，
+带轻微贬义。
+① The church is high baroque and took ninety years to finish.
+= 那座教堂是盛期巴洛克风格，修了九十年才完工。
+② She plays baroque music on the harpsichord and tunes it herself.
+= 她用羽管键琴演奏巴洛克音乐，琴也自己调。
+baroque music = 巴洛克音乐
+③ The prose is rather baroque and buries a good argument under it.
+= 那种文风未免太繁复，把一个不错的论点埋在了底下。
+baroque = 过于华丽繁复的（轻贬）
 注意大小写：
-特指莎士比亚时大写并带定冠词。
+指那个时期与风格时常大写，泛指繁复时小写。
+
+barquentine
+核心：帆船的一种：前桅挂横帆、其余各桅挂纵帆。
+跟 barque 的分别在于横帆桅的数目——barque 是除最后一桅外
+都挂横帆。这类船十九世纪用于远洋货运，今天多见于帆船训练。
+① A barquentine carries square sails on the foremast only.
+= 前桅横帆船只有前桅挂横帆。
+barque = 巴克帆船
+② The barquentine is easier to handle and needs fewer hands aloft.
+= 前桅横帆船更好操纵，爬桅的人手也用得少。
+注意拼写：
+barque 也拼作 bark，跟「树皮、犬吠」那两个词同形。
+
+barrack
+核心：动词，而且英美方向相反，这是最要留心的地方。
+英式指"起哄、喝倒彩"——冲着台上的人叫嚷捣乱；
+澳新与美式指"呐喊助威"，barrack for 就是"为…加油"。
+同一个动作，一边是拆台，一边是捧场。名词 barracking 指起哄声。
+注意跟名词 barracks（营房）同形但那是另一支。
+① The crowd barracked the referee for a full ten minutes after the penalty.
+= 那个点球判下来，观众冲裁判起哄了整整十分钟。
+barrack somebody = 向某人喝倒彩（英式）
+② Fans barracked for the home side from the terraces until they lost their voices.
+= 球迷在看台上为主队呐喊助威，喊到嗓子都哑了。
+barrack for = 为…加油（澳新）
+③ The barracking drowned his speech and the chairman gave up halfway through.
+= 起哄声盖过了他的讲话，主席讲到一半就放弃了。
+barracking = 起哄、喝倒彩
+注意地域：
+英式是拆台，澳新与美式是捧场，方向相反，
+听到时先判说话人是哪边的。
+
+barracks
+核心：军营里住人的房子，总用复数，但可以当单数用。
+动词 barrack 是另一回事，而且英美相反：英式指"起哄喝倒彩"，
+美式与澳式指"呐喊助威"。这个反差容易出误会。
+① The troops returned to barracks at nightfall and were confined there for a week.
+= 部队入夜返回营房，在里面关了一星期禁闭。
+return to barracks = 回营
+② A new barracks was built on the edge of town to house eight hundred men.
+= 镇子边上新建了一座营房，能住八百人。
+③ The old cavalry barracks now houses a museum and a café.
+= 那座旧骑兵营房如今改成了博物馆，还带一家咖啡馆。
+cavalry barracks = 骑兵营房
+④ They live in a barracks of a building with forty identical windows.
+= 他们住在一栋像营房似的大楼里，四十扇窗户一模一样。
+a barracks of a building = 像营房一样难看的大楼（贬义）
+注意用法：
+形式是复数，可当单数用；说「一座营房」要说 a barracks。
+动词 barrack 另有词条，英澳方向相反，别跟这条混。
+
+barracouta
+核心：南半球的一种细长海鱼，多见于新西兰与澳大利亚南部海域，
+常做成熏鱼或炸鱼薯条的原料。注意跟热带的 barracuda
+不是同一种鱼，只是名字像。
+① Barracouta is common in fish and chips and rarely named on the menu.
+= 炸鱼薯条常用那种鱼，菜单上却很少写出名字。
+② Barracouta swim in cold southern waters and move in loose shoals.
+= 那种鱼生活在南方冷水海域，松散地成群游动。
+③ Barracouta smokes well and keeps for weeks in a cool larder.
+= 那种鱼很适合熏制，放在凉爽的贮藏室能存好几周。
+注意别混：
+barracouta = 南半球的细长海鱼（冷水）
+barracuda = 梭鱼（热带珊瑚礁）
+
+barracuda
+核心：一种细长的掠食性海鱼，牙齿尖利、游速极快，
+常在珊瑚礁边成群或独行。大型个体会攻击人，但很罕见。
+比喻着用指"凶狠贪婪的人"。
+① A barracuda circled the reef and showed no interest in the divers.
+= 一条梭鱼在礁边转圈，对潜水员毫无兴趣。
+② Barracuda have needle-sharp teeth and a jaw that closes faster than the eye.
+= 梭鱼牙齿像针一样尖，合颌快过眼睛。
+③ He is a barracuda in negotiations and pleasant company at dinner.
+= 谈判桌上他凶得很，饭桌上却是个好相处的人。
+注意用法：
+单复数常同形，也可加词尾。
+
+barrage
+核心：两层，都从"密集地压过来"来。军事上指"弹幕"——炮火成片
+覆盖，掩护步兵推进；比喻着用指"连珠炮似的一大串"，
+问题、批评、短信劈头盖脸而来。另有一层是拦河的"堰坝"。
+① The artillery laid down a barrage that lasted from dawn until mid-morning.
+= 炮兵打出的弹幕从黎明一直持续到上午。
+lay down a barrage = 实施弹幕射击
+② She faced a barrage of questions about a decision she had not made.
+= 一个不是她做的决定，招来了连珠炮般的追问。
+a barrage of = 连珠炮似的一串
+③ The barrage controls the river level and lets ships through at high tide.
+= 那道堰坝控制河水位，涨潮时放船通过。
+④ Barrage balloons hung over the city on cables to force bombers higher.
+= 阻塞气球拴着钢索悬在城市上空，逼轰炸机飞高。
+barrage balloon = 阻塞气球（防低空空袭）
+注意用法：
+比喻义后面接介词引出内容，多为负面。
+
+barramundi
+核心：澳大利亚与东南亚的一种大型鲈形鱼，肉白细嫩，是澳洲
+最有名的食用鱼。名字来自澳大利亚原住民语言。
+它一生会变性：先长成雄鱼，长到一定大小再变成雌鱼。
+① Grilled barramundi is a local staple and appears on every menu in town.
+= 烤盲曹鱼是当地的常见菜，镇上每份菜单都有。
+② Barramundi change sex as they grow, starting male and finishing female.
+= 那种鱼长大后会变性，先是雄鱼，后来变成雌鱼。
+③ They farm barramundi in tanks and get to market size in two years.
+= 他们用池子养那种鱼，两年就长到上市规格。
+注意语域：
+澳新与东南亚的鱼类与菜名。
+
+barrel
+核心：底层是"一只圆肚木桶"。往容量上说是"一桶"，石油交易至今
+按桶计价；往形状上说，凡是又圆又长的筒都能借它的名——
+枪管、镜筒、桶状的胸膛。动词那一支走"滚桶"的意象：
+barrel along 是横冲直撞地疾行。
+习语围绕桶：over a barrel 是被架在桶上任人摆布，
+scrape the barrel 是刮桶底、只剩最差的了。
+① Wine ages in oak barrels that cost more than the wine inside them.
+= 酒在橡木桶中陈化，桶比里面的酒还贵。
+oak barrel = 橡木桶
+② Oil trades by the barrel and the price moves before the news does.
+= 石油按桶交易，价格比消息动得还早。
+by the barrel = 按桶计
+③ The barrel of the gun was hot and had to be changed after two belts.
+= 枪管烫得很，打完两条弹链就得换。
+barrel = 枪管、镜筒
+④ He has a barrel chest and a voice that carries across a field.
+= 他胸膛宽厚，嗓音能传过一整片田。
+barrel-chested = 胸膛厚实的
+⑤ A lorry barrelled past and took the wing mirror with it.
+= 一辆卡车疾驰而过，把后视镜刮掉了。
+barrel along = 横冲直撞地疾驰
+⑥ They have us over a barrel and the contract runs another two years.
+= 他们把我们拿捏得死死的，合同还有两年。
+have somebody over a barrel = 让人无从选择
+⑦ We are scraping the barrel now and the season has six weeks to run.
+= 我们已经在勉强凑合了，赛季还剩六周。
+scrape the barrel = 只剩最差的可选
+⑧ A barrel organ played in the square and drove the shopkeepers mad.
+= 广场上有台手摇风琴在响，把店主们烦透了。
+barrel organ = 手摇风琴
+注意用法：
+第五层是口语，强调又快又莽。
+
+barren
+核心：底层是"生不出东西来"。说土地是寸草不生的贫瘠，
+说动植物是不结果实、不能生育的，说时期或努力是"毫无成果的"。
+用于女性时是旧时说法，今天带冒犯，医学上说 infertile。
+① Nothing grows on the barren slope and the tree there has never fruited.
+= 贫瘠的山坡上什么也长不出来，那棵树从没结过果。
+barren land = 贫瘠的土地
+② It was a barren decade for the party and they lost every by-election.
+= 那是这个党毫无建树的十年，补选场场皆输。
+a barren period = 毫无成果的时期
+③ Barrenness forced them to move on after four years of poor harvests.
+= 四年歉收之后，土地的贫瘠逼得他们迁走了。
+barrenness = 贫瘠、不育
+注意语域：
+说女性时是旧称且带冒犯，今天说 infertile。
