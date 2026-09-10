@@ -1,382 +1,385 @@
-deforest
-核心：把森林砍光：及物动词，多用被动。
-名词 deforestation 是环境议题里的高频词，比动词常见得多。
-反义是 reforest 重新造林。
-① Hillsides deforested in the sixties still slide every time the rain is heavy.
-= 六十年代砍光林子的那些山坡，至今一下大雨就滑坡。
-be deforested = 森林被砍光
-② Deforestation in the basin has slowed but has certainly not stopped.
-= 那片流域的森林砍伐放缓了，但绝对没有停。
-deforestation = 森林砍伐
-构词：de- 去掉 加 forest 森林
-注意用法：环境报道里几乎只用名词。
+delineate
+核心：勾勒清楚：把轮廓、职责、区别一条条说明白。正式用词，
+宾语多是 boundaries、roles、differences。名词 delineation。
+① The report delineates who is responsible for what, and nobody has read it.
+= 那份报告把谁负责什么勾画得清清楚楚，却没人读。
+delineate something = 把某事勾勒清楚
+② The delineation of the two roles took three drafts and one resignation.
+= 那两个岗位的职责划分，改了三稿、走了一个人。
+the delineation of something = 对某事的界定勾画
+构词：拉丁语 delineare 画出轮廓
+注意语域：正式；日常说 set out clearly。
 
-deform
-核心：使变形：外力把东西压弯、扭曲，失去原来的形状。及物不及物都行。
-名词 deformation 说物理上的变形量；deformed 说形状被扭坏的；
-a deformity 指身体上的畸形，说人时要当心措辞。
-① The heat deformed the plastic housing and the switch no longer clicks.
-= 高温把塑料外壳烤变了形，开关按不响了。
-deform something = 使某物变形
-② Deformation of the beam was measured every hour for a fortnight.
-= 那根梁的变形量每小时测一次，测了两周。
-deformation = 变形（可测的量）
-③ The tree grew deformed on the windward side and leaned all its life.
-= 那棵树迎风的一面长得扭曲，一辈子都是斜的。
-deformed = 变形的、扭曲的
-④ The clinic treats children with deformities of the hand and foot.
-= 那家诊所治疗手足畸形的儿童。
-a deformity = 畸形
-构词：de- 加 form 形状
-注意语域：说人的身体用 deformity 已显生硬，医学以外多改说具体情况。
+delinquent
+核心：两支。一是少年犯罪那一支：a juvenile delinquent 是问题少年，
+名词 delinquency 指青少年违法行为；二是金融上的「拖欠的」，
+a delinquent account 是逾期未付的账户，美式常用。
+① The scheme works with juvenile delinquents and their families for two years.
+= 那个项目要跟问题少年和他们的家庭合作两年。
+a juvenile delinquent = 问题少年
+② Delinquency in the city fell for six years and nobody agrees on why.
+= 那座城市的青少年违法率降了六年，原因谁也说不拢。
+delinquency = 青少年违法行为
+③ Delinquent accounts are passed to an agency after ninety days.
+= 逾期九十天的账户会转给催收机构。
+a delinquent account = 逾期未付的账户（美式）
+构词：拉丁语 delinquere 犯错
+注意语域：金融那一支美式常用，英式多说 overdue 或 in arrears。
 
-defrag
-核心：磁盘碎片整理：把散落在磁盘各处的文件片段重新排到一起。
-全称是 defragment，口语与软件菜单里一律缩成 defrag。及物动词，双写 g。
-机械硬盘时代的常规操作，固态硬盘上不必做。
-① He used to defrag the drive every Sunday and swore it made a difference.
-= 他从前每个周日都给硬盘做碎片整理，一口咬定有用。
-defrag a drive = 给硬盘做碎片整理
-② Defragmenting a solid-state drive wears it out and gains you nothing at all.
-= 给固态硬盘做碎片整理只会磨损它，一点好处也没有。
-defragment something = 给某个磁盘做碎片整理
-构词：de- 去掉 加 fragment 碎片
-注意用法：全称与缩略并存，日常一律说 defrag。
+deliquesce
+核心：潮解：固体从空气里吸水，自己化成液体 —— 化学里的词，
+多说盐、碱这类物质。不及物动词，名词 deliquescence。
+① Left out of the jar, the crystals deliquesce within a day in this weather.
+= 这种天气里，晶体一旦离开瓶子，一天之内就潮解了。
+deliquesce = 潮解
+② Deliquescence ruined the sample and the whole run had to be repeated.
+= 潮解毁了样品，整轮实验只好重做。
+deliquescence = 潮解
+构词：拉丁语 deliquescere 化开
+注意语域：化学术语；日常说 go damp and sticky。
 
-defraud
-核心：诈骗：用欺骗手段把钱或财物从别人那里弄走。及物动词，
-常说 defraud somebody of something。法律与新闻用语。
-① He was accused of defrauding three charities of nearly a million pounds.
-= 他被控从三家慈善机构诈得近百万英镑。
-defraud somebody of something = 骗取某人的某物
-② The scheme was designed from the very start to defraud the pension fund.
-= 那套安排从一开始就是奔着诈骗养老金去的。
-defraud something = 对某个机构行骗
-构词：de- 加 fraud 欺诈
-注意别混：defraud 强调把钱弄到手，deceive 只说让人上了当。
+delirious
+核心：两支。一是医学上的谵妄：高烧或中毒时神志不清、说胡话，名词 delirium；
+二是夸张的「欣喜若狂」，副词 deliriously 多修饰 happy。
+① He was delirious for two nights and talked to people who were not there.
+= 他神志不清了两夜，对着不在场的人说话。
+be delirious = 神志不清、说胡话
+② The delirium passed as soon as the fever came down, and afterwards he remembered none of it.
+= 烧一退，谵妄就过去了，事后那一段他一点也不记得。
+delirium = 谵妄
+③ The crowd was delirious and the players could not hear each other at all.
+= 观众欣喜若狂，球员彼此喊话都听不见。
+be delirious with joy = 欣喜若狂
+④ They were deliriously happy for a fortnight and then had to find somewhere to live.
+= 他们狂喜了两周，接着就不得不去找住的地方。
+deliriously happy = 幸福得发狂
+构词：拉丁语 delirare 偏离犁沟，引申为思路跑偏
+注意别混：delirium 是暂时的神志不清，dementia 是持续的认知衰退。
 
-defray
-核心：（正式）分担、支付一部分费用：几乎只跟 costs、expenses 搭配，
-多说机构替人承担开销。及物动词，见于章程、公文与申请须知。
-① A small grant helps defray the costs of travelling to the hearings.
-= 一小笔补助有助于分担去参加听证的路费。
-defray the costs of something = 分担某事的费用
-② The fund exists to defray expenses that families cannot meet themselves.
-= 那笔基金就是为了承担各家自己拿不出的开销。
-defray expenses = 补偿开销
-构词：古法语 desfrayer 支付花费
-注意语域：正式公文用语；日常说 help pay for something。
+deliver
+核心：四支。一是送货，名词 delivery；二是履行、拿出成果；
+三是发表讲话或宣布裁决；四是接生。
+项目管理里 a deliverable 是交付物；deliverance 是正式的「解救」，偏宗教。
+① The parcel was delivered to the wrong house and signed for by a neighbour.
+= 包裹送错了门牌，还被邻居签收了。
+deliver something = 递送某物
+② The government promised much and delivered on almost none of it.
+= 政府许诺了一大堆，几乎一样也没兑现。
+deliver on a promise = 兑现承诺
+③ She delivered the speech from memory and it ran three minutes short.
+= 她背着讲完了那篇讲话，还短了三分钟。
+deliver a speech = 发表讲话
+④ The midwife had delivered four hundred babies in the same two rooms.
+= 那位助产士在同样的两间屋子里接生过四百个孩子。
+deliver a baby = 接生
+⑤ The only deliverable anybody cared about was the final report.
+= 大家真正在意的交付物只有那份终稿报告。
+a deliverable = 交付物（项目用语）
+⑥ Delivery takes three days and costs more than the book itself did.
+= 送货要三天，运费比书本身还贵。
+delivery = 递送、送货
+⑦ The hymn is about deliverance from a danger nobody now remembers.
+= 那首圣歌唱的是从一场如今没人记得的危难中获救。
+deliverance = 解救（正式，偏宗教）
+构词：拉丁语 deliberare 释放、交出
+注意用法：说送到谁手上用 deliver something to somebody。
 
-defriend
-核心：把某人从社交网络的好友名单里删掉。跟 unfriend 同义，unfriend 更常用。
-及物动词，二十一世纪才有的词。
-① She defriended everybody from that job and slept better within a week.
-= 她把那份工作认识的人全删了好友，不出一周睡得就好了。
-defriend somebody = 把某人删除好友
-② Being defriended by a cousin caused more trouble than the original argument.
-= 被表亲删了好友，比当初那场争吵还麻烦。
-be defriended = 被删除好友
-构词：de- 去掉 加 friend
-注意用法：同义的 unfriend 用得更多，还当选过年度词汇。
+dell
+核心：小山谷：树木环抱的一处幽静低地。文学词、偏旧，
+今天多留在地名与诗里。可数。
+① The path drops into a dell where the light never quite reaches the ground.
+= 小路下到一处小谷，那里的光始终照不到地面。
+a dell = 树木环抱的小山谷
+② They camped in the dell and woke up soaked through.
+= 他们在那处小谷里露营，醒来时浑身湿透。
+camp in a dell = 在小谷里扎营
+构词：古英语 dell，与 dale 同源
+注意语域：文学与地名里用，日常说 a small valley。
 
-defrock
-核心：革除神职：把牧师、神父的圣职身份正式剥夺。及物动词，多用被动。
-同义词 unfrock 也通行。
-① He was defrocked in the late nineties and moved to another county entirely.
-= 他九十年代末被革除神职，搬到了另一个郡去。
-be defrocked = 被革除神职
-② A defrocked priest may not perform any of the sacraments.
-= 被革除神职的神父不得主持任何圣事。
-a defrocked priest = 被革除神职的神父
-构词：de- 去掉 加 frock 教士长袍
-注意别混：defrock 说人，deconsecrate 说建筑与器物撤除宗教用途。
+delouse
+核心：除虱：把人、动物或衣物上的虱子清掉。及物动词，
+多见于战时、难民营与历史叙述。
+① Every new arrival was deloused before being given a bed.
+= 每个新来的人都先除虱，才分到床位。
+delouse somebody = 给某人除虱
+② The blankets were deloused twice and still nobody would use them.
+= 那些毯子除了两回虱，还是没人肯用。
+be deloused = 被除虱
+构词：de- 去掉 加 louse 虱子
+注意用法：louse 的复数是 lice，动词本身不受影响。
 
-defrost
-核心：两支。一是化冻：把冷冻的食物解冻；二是除霜：把冰箱里的霜化掉，
-也说给车窗除霜，美式的除霜装置叫 a defroster。及物不及物都行。
-① Defrost the fish overnight in the fridge rather than under the tap.
-= 鱼要放在冰箱里过夜化冻，别用水龙头冲。
-defrost something = 把某物解冻
-② The freezer has to be defrosted twice a year or the drawers stick.
-= 那台冰柜一年得除两次霜，否则抽屉会卡住。
-defrost a freezer = 给冰柜除霜
-③ The defroster clears the back window in about a minute.
-= 除霜器大约一分钟就能把后窗弄清楚。
-a defroster = 除霜器（美式）
-构词：de- 去掉 加 frost 霜
-注意用法：食物化冻英美都说 defrost。
+Delphic
+核心：模棱两可的、怎么讲都通的：源自古希腊德尔斐神谕 ——
+那些神谕出了名地两头都说得通。形容词，首字母大写，偏文学与新闻。
+① The statement was Delphic enough for both sides to claim it supported them.
+= 那份声明含糊得两边都说它是在支持自己。
+a Delphic statement = 模棱两可的声明
+② He gave a Delphic answer and left before anybody could ask again.
+= 他给了个含混两可的回答，没等人再问就走了。
+a Delphic answer = 含混两可的回答
+构词：古希腊德尔斐（Delphi）的神谕所
+注意用法：首字母大写；日常说 ambiguous。
 
-deft
-核心：手脚利落、身手灵巧：既说动作干净，也说处理事情高明得不着痕迹。褒义。
-副词 deftly，名词 deftness。
-① Two deft movements and the fish was filleted and the bones were gone.
-= 两下利落的动作，鱼就片好了，骨头也没了。
-deft movements = 利落的动作
-② She deftly changed the subject and nobody noticed until afterwards.
-= 她不着痕迹地把话题岔开，事后才有人回过味来。
-deftly change the subject = 巧妙地岔开话题
-③ The deftness with which he handled the complaint impressed even the complainant.
-= 他处理那件投诉的利落劲儿，连投诉人都佩服。
-deftness = 利落、高明
-构词：中古英语 defte，与 daft 同源，早先的意思是温顺
-注意别混：deft 是灵巧高明，clumsy 是笨手笨脚。
+delphinium
+核心：翠雀：花园里那种一根长穗上开满蓝紫色花的高株植物。
+可数，复数 delphiniums。
+① The delphiniums came down in one night of wind and never straightened up again.
+= 那些翠雀在一夜大风里倒了，再没直起来。
+a delphinium = 翠雀
+② She staked the delphiniums early and had the best border in the village.
+= 她早早给翠雀立了支架，花境是全村最好的。
+stake delphiniums = 给翠雀立支架
+构词：希腊语 delphis 海豚 —— 花蕾的形状像海豚
+注意用法：说一片花时常用复数。
 
-defunct
-核心：已不存在的、废止的：说机构、公司、法规、做法早就停摆了。
-形容词，多作定语。偏正式，常带一点干巴巴的调侃。
-① The address belongs to a defunct company that was dissolved eleven years ago.
-= 那个地址属于一家十一年前就注销了的公司。
-a defunct company = 已注销的公司
-② The rule is defunct but nobody has taken it out of the handbook.
-= 那条规定早已作废，却没人把它从手册里删掉。
-be defunct = 已经作废的
-构词：拉丁语 defunctus 已了结的
-注意别混：defunct 说机构与规矩，deceased 说人。
+delta
+核心：三支。一是河口三角洲；二是希腊字母第四个，科学与工程里拿它表示
+变化量；三是肩上的三角肌，健身里说 deltoids。
+① The delta is silting up and the channel has to be dredged every spring.
+= 那片三角洲在淤积，航道每年春天都得清淤。
+a delta = 河口三角洲
+② In the equation delta stands for the change between two measurements.
+= 那个方程里，这个符号代表两次测量之间的变化量。
+delta = 希腊字母，表示变化量
+③ He tore a deltoid lifting something he had been told to leave alone.
+= 他抬了件人家叮嘱别碰的东西，拉伤了三角肌。
+a deltoid = 三角肌
+④ Swimmers develop deltoids that no amount of tailoring can hide.
+= 游泳的人练出的三角肌，怎么裁衣服也遮不住。
+deltoids = 两侧的三角肌
+⑤ The delta wing was designed for speed and the delta rays were measured by accident.
+= 那种三角翼是为速度设计的，δ 射线倒是无意间测到的。
+a delta wing = 三角翼
+delta rays = δ 射线（次级电子）
+航空的三角翼与物理的射线，共用的是希腊字母那个三角形状。
+⑥ Delta rhythm dominates the first hours of sleep and disappears before anybody dreams much.
+= 睡眠头几个钟头以δ波为主，做梦多起来之前它就消失了。
+delta rhythm = δ 脑波节律
+脑电图上最慢的一种波，出现在深睡期。
+构词：希腊字母 Δ 形状像三角，三角洲因此得名
+注意用法：说某条河的三角洲用 the Nile delta 这样的写法。
 
-defuse
-核心：两支。一是拆除炸弹的引信；二是引申的「化解」——把紧张、危机、
-争吵降下来。及物动词。
-拼写别跟 diffuse 混：那个是扩散、四散。
-① Two soldiers spent four hours defusing a bomb the tide had uncovered.
-= 两名士兵花了四个钟头，拆除一枚被潮水冲出来的炸弹。
-defuse a bomb = 拆除炸弹的引信
-② One sentence from the oldest man in the room defused the whole argument.
-= 屋里最年长的那位一句话就把整场争吵化解了。
-defuse a situation = 化解紧张局面
-构词：de- 去掉 加 fuse 引信
-注意别混：
-defuse = 拆引信、化解紧张
-diffuse = 扩散、四散；作形容词是「弥漫的、松散的」
+delude
+核心：使误信：让别人或自己相信不实的事。及物动词，
+最常见的是 delude yourself 自欺。
+名词 delusion 是妄想、错误信念；形容词 delusional 说人有妄想，
+delusive 说事物使人误信，偏旧。
+① He deluded himself for years that the shop would come right on its own.
+= 他多年自欺，以为那家店会自己好起来。
+delude yourself = 自欺
+② She is under the delusion that the deadline can be moved a third time.
+= 她还妄想着期限能第三次往后挪。
+be under the delusion that… = 妄想着……
+③ Delusions of grandeur are always easier to spot in other people.
+= 自大妄想总是在别人身上更容易看出来。
+delusions of grandeur = 自大妄想
+④ The whole plan was delusive and two of them knew it from the start.
+= 整个计划都是虚妄的，其中两人从一开始就知道。
+delusive = 使人误信的、虚妄的
+⑤ He became delusional in the last few weeks and did not know anyone.
+= 最后那几周他出现了妄想，谁也认不出。
+delusional = 有妄想的
+构词：拉丁语 deludere 戏弄
+注意别混：delusion 是自己信以为真的错误信念，illusion 是感官被骗。
 
-defy
-核心：三支。一是公然违抗；二是「让……做不成」——defy description 是难以形容，
-defy belief 是让人难以置信；三是激将：I defy you to… 意思是「我谅你也做不到」。
-变形 defies、defied、defying，名词是 defiance。
-① They defied the ban and marched anyway, all four hundred of them.
-= 他们违抗禁令照样游行，四百人一个不少。
-defy an order = 违抗命令
-② The mess in that kitchen defies description and I have tried twice.
-= 那间厨房乱得没法形容，我试着描述过两回。
-defy description = 难以形容
-defy explanation = 无法解释
-同一个句式的一族：后面接 description、explanation、belief、logic 都行。
-③ The way the roof stayed up defied belief and two engineers came to look at it.
-= 那屋顶居然没塌，简直让人难以置信，来了两位工程师看。
-defy belief = 让人难以置信
-④ I defy anyone to read that contract twice and still sign it.
-= 我倒要看看谁能把那份合同读上两遍还肯签字。
-I defy you to do something = 我谅你也做不到
-⑤ She defied her father for the first time at nineteen and left the following morning.
-= 她十九岁头一回违逆父亲，第二天一早就走了。
-defy somebody = 违抗某人
-构词：古法语 defier 挑战，与 defiance 同源
-注意用法：第三人称 defies，过去式 defied，名词形式是 defiance。
+deluge
+核心：两支。一是滂沱大雨、洪水；二是比喻的「排山倒海地涌来」。
+名词动词同形，动词几乎只用被动 be deluged with something。
+① The deluge started at four and had taken the bridge out by seven.
+= 大雨四点开始下，七点就把桥冲垮了。
+a deluge = 滂沱大雨、洪水
+② The station was deluged with complaints and took the programme off air.
+= 电台被投诉淹没，把那个节目撤了。
+be deluged with something = 被某物淹没
+③ A deluge of applications arrived in the last two days before the deadline.
+= 截止前最后两天，申请像潮水一样涌来。
+a deluge of something = 潮水般涌来的某物
+构词：拉丁语 diluvium 洪水
+注意别混：deluge 强调多到应付不过来，flood 更常说实际的水灾。
 
-degenerate
-核心：变坏、退化：从好的状态一路往下走。动词最常说 degenerate into something
-沦为某种更糟的局面；形容词是「堕落的」，名词 a degenerate 指堕落的人（偏旧）。
-名词 degeneration 是退化，degeneracy 是堕落（正式），
-医学形容词 degenerative 说「退行性的」。
-① The meeting degenerated into a shouting match within twenty minutes.
-= 会开了不到二十分钟就沦为一场对骂。
-degenerate into something = 沦为某种更糟的状态
-② Muscle degeneration set in faster than either of the doctors had expected.
-= 肌肉退化来得比两位医生预料的都快。
-degeneration = 退化
-③ It is a degenerative condition and the treatment only slows it down.
-= 那是一种退行性疾病，治疗只能延缓，治不好。
-a degenerative condition = 退行性疾病
-④ Victorian pamphlets blamed the degeneracy of the age for everything.
-= 维多利亚时代的小册子把一切都怪在时代的堕落上。
-the degeneracy of something = 某个时代或圈子的堕落
-构词：拉丁语 degenerare 背离本族
-注意用法：动词最常见的搭配就是 degenerate into；医学义只用 degenerative。
+deluxe
+核心：豪华的、高一档的：说房间、车型、包装。广告里的常用词，
+自带推销口气。形容词，多作定语，也写作 de luxe。
+① They were upgraded to a deluxe room that happened to face the car park.
+= 他们被升级到一间正对着停车场的豪华房。
+a deluxe room = 豪华客房
+② The deluxe edition costs twice as much and adds exactly two photographs.
+= 豪华版贵一倍，就多了两张照片。
+a deluxe edition = 豪华版
+构词：法语 de luxe 奢华的
+注意语域：广告用语，用的时候要知道它带推销口气。
 
-deglaze
-核心：（烹饪）洗锅收汁：煎完肉之后往热锅里倒酒或高汤，
-把锅底那层焦香刮起来做成酱汁。及物动词，菜谱里的固定词。
-① Deglaze the pan with a glass of white wine and scrape everything off the bottom.
-= 用一杯白葡萄酒洗锅，把锅底的东西全刮起来。
-deglaze the pan = 洗锅收汁
-② She deglazed with stock instead of wine and reduced it by half.
-= 她用高汤代替酒来洗锅，收干了一半。
-deglaze with something = 用某种液体洗锅
-构词：de- 加 glaze，指把锅底那层焦糖化的东西化开
-注意语域：菜谱与厨艺节目里的词，日常对话少见。
+delve
+核心：深挖。一是往深处翻找；二是引申的深入探究 —— 这一支最常用，
+几乎固定说 delve into something。不及物。
+① She delved into the parish records and found three families with the same name.
+= 她一头扎进教区档案，找出三户同姓人家。
+delve into something = 深入探究某事
+② He delved in his bag for a pen and produced four that did not work.
+= 他在包里翻笔，掏出四支都写不出的。
+delve in something = 在某处翻找
+构词：古英语 delfan 挖
+注意用法：探究义几乎总是 delve into，后面接档案、历史、细节。
 
-degrade
-核心：三支。一是贬低人格、羞辱（degrading treatment）；二是使质量下降；
-三是环境与化学上的降解，形容词 degradable 是可降解的。
-名词 degradation 三支都用得上。
-① The inquiry called the conditions degrading and recommended closing the wing.
-= 调查组称那里的条件有辱人格，建议把那个区关掉。
-degrading conditions = 有辱人格的条件
-② The signal degrades badly once you are more than a mile from the mast.
-= 离开信号塔一英里以上，信号就明显变差。
-degrade = 劣化、变差
-③ The packaging is degradable but only in an industrial composter.
-= 那种包装可降解，可只有在工业堆肥里才行。
-degradable = 可降解的
-④ She wrote about the degradation of the marshes over sixty years.
-= 她写了那片沼泽六十年间的退化。
-the degradation of something = 某物的退化、劣化
-构词：de- 向下 加 grade 等级
-注意用法：说人受辱用 degrading，说环境劣化用 degradation。
+demagogue
+核心：煽动家：靠煽动情绪、迎合偏见来拉拢民众的政客 —— 一律贬义，
+没有中性的用法。可数。形容词 demagogic，名词 demagogy 指那套做法。
+① He was dismissed as a demagogue right up until the day he won.
+= 直到他赢了那天，人家还一直把他当煽动家不当回事。
+a demagogue = 煽动家
+② The speech was demagogic from the first sentence and the crowd loved it.
+= 那篇讲话从第一句起就是煽动，人群偏偏受用。
+demagogic = 煽动性的
+③ Demagogy works fastest where people have stopped trusting anything else.
+= 在人们对别的都不再信任的地方，煽动术起效最快。
+demagogy = 煽动术
+构词：希腊语 demos 民众 加 agogos 引领者
+注意语域：一律贬义；说中性的「善于演讲」用 a powerful speaker。
 
-degrease
-核心：去油：把机件、餐具、皮肤上的油脂洗掉。及物动词，
-厨房、修车与化验室里都用。清洁剂叫 a degreaser。
-① Degrease the parts before you try to paint any of them.
-= 上漆之前先把零件上的油除掉。
-degrease something = 给某物去油
-② The kitchen was degreased twice a year whether it needed it or not.
-= 那间厨房一年除两次油，不管需不需要。
-be degreased = 被除去油污
-构词：de- 去掉 加 grease 油脂
-注意用法：专用清洁剂说 a degreaser。
+demand
+核心：名词与动词都极常用。动词是「强硬地要求」，语气比 ask 硬得多，
+也说「需要」（the job demands patience）；名词一是要求，
+二是经济学的需求。
+三条搭配要记牢：in demand 抢手、on demand 随叫随到、
+make demands on somebody 给某人添负担。形容词 demanding 说要求高、费心力。
+① She demanded an apology and got one three months later.
+= 她强硬地要求道歉，三个月后拿到了。
+demand an apology = 要求道歉
+② The job demands patience more than it demands experience.
+= 这份工作要的耐心比经验更多。
+demand something = 需要某物
+③ Demand for the smaller flats has doubled since the line opened.
+= 自从那条线通车，小户型的需求翻了一倍。
+demand for something = 对某物的需求
+④ Good plumbers are in demand and rarely need to advertise.
+= 好水管工很抢手，几乎不用打广告。
+be in demand = 抢手
+⑤ The service is available on demand and costs nothing extra.
+= 那项服务随叫随到，不另收费。
+on demand = 随叫随到、按需提供
+⑥ The job makes demands on your evenings that nobody mentions at interview.
+= 这份工作会占掉你的晚上，面试时没人提这一条。
+make demands on somebody = 给某人添负担
+⑦ It is a demanding course and a third of them leave in the first year.
+= 那门课要求很高，三分之一的人第一年就走了。
+a demanding course = 要求很高的课程
+⑧ A demand draft cleared faster than a cheque and cost twice as much to obtain.
+= 即期汇票比支票到账快，办起来却贵一倍。
+a demand draft = 即期汇票
+银行开出的见票即付的票据，跨境汇款里常见。
+构词：拉丁语 demandare 托付、要求
+注意用法：demand 后面接从句用动词原形（demand that he be told）。
 
-degree
-核心：三支，底层都是「一级一级」。一是程度（a degree of risk、to some degree）；
-二是学位（a degree in engineering）；三是度数，温度与角度都用它。
-三条习语：to a degree 是在某种程度上，by degrees 是一点一点地，
-give somebody the third degree 是把人盘问一通（口语）。
-① There is a degree of risk in every one of the options on the table.
-= 摆在桌上的每个方案都有一定程度的风险。
-a degree of something = 一定程度的某种东西
-② She did a degree in engineering and has never worked a day in it.
-= 她读的是工程学位，一天也没干过这行。
-do a degree in something = 攻读某专业的学位
-③ It was thirty degrees in the shade and the tar on the road had gone soft.
-= 树荫下都有三十度，路上的柏油都软了。
-thirty degrees = 三十度（温度）
-④ To a degree he was right, though not for any of the reasons he gave.
-= 在某种程度上他是对的，只是他给的理由一个也不成立。
-to a degree = 在某种程度上
-⑤ By degrees the room emptied until only the two of them were left.
-= 屋里的人一点点走光，最后只剩下他们俩。
-by degrees = 一点一点地
-⑥ Her parents gave him the third degree about his job, his family and his car.
-= 她父母把他的工作、家庭、车子挨个盘问了一遍。
-give somebody the third degree = 把某人盘问一通（口语）
-⑦ The angle is ninety degrees and the frame still does not sit square.
-= 那个角是九十度，框子摆着还是不方正。
-ninety degrees = 九十度（角度）
-构词：拉丁语 gradus 台阶
-注意用法：说到什么程度用 to what degree；学位说 a degree in something。
+demarcate
+核心：划界：把两块地方或两种职责之间的界线明确定下来。及物动词，正式。
+名词 demarcation；工会语境里 a demarcation dispute 指「哪一工种该干哪活」的争执。
+① White posts demarcate the boundary between the two estates.
+= 白色界桩标出了两处庄园之间的界线。
+demarcate something = 划出某物的界线
+② A demarcation dispute held up the whole site for eleven days.
+= 一场工种界线之争让整个工地停了十一天。
+a demarcation dispute = 职责界线之争
+构词：西班牙语 demarcar 标出边界
+注意别混：demarcate 划的是界线本身，delimit 更常说范围的划定。
 
-dehumanize
-核心：使非人化：把人当成东西看待，剥掉他们身上作为人的那一部分 ——
-多说制度、宣传与流程，不常说某个具体的人。
-及物动词，英式也拼 dehumanise，名词 dehumanization。
-① The system dehumanizes everybody in it, staff and patients alike.
-= 那套体制把身处其中的人都当东西看，员工和病人都一样。
-dehumanize somebody = 把某人当成非人对待
-② Propaganda works by dehumanization long before it works by argument.
-= 宣传起作用靠的是先把人非人化，讲道理是很久以后的事。
-dehumanization = 非人化
-构词：de- 去掉 加 humanize 使人性化
-注意用法：主语多是制度、宣传、战争，而不是某个人。
+demean
+核心：贬损、有失身份：让人掉价，宾语多半是自己。及物动词，
+常说 demean yourself。
+形容词 demeaning 说事情让人觉得受辱，这个形式比动词常用得多。
+① He would not demean himself by asking a second time.
+= 他不肯再问第二遍，觉得那有失身份。
+demean yourself = 自贬身份
+② The work is not hard but it is demeaning, and that is why nobody stays.
+= 那活儿不累，可让人觉得受辱，所以没人留得住。
+demeaning work = 让人觉得受辱的活儿
+构词：de- 加 mean 低下
+注意用法：动词少见，日常多用 demeaning 这个形容词。
 
-dehumidifier
-核心：除湿机：把屋里空气中的水分抽掉的机器。可数。
-反义的机器是 a humidifier 加湿器，只差一个前缀。
-① They ran a dehumidifier in the cellar all winter and it filled up twice a week.
-= 他们整个冬天在地窖里开着除湿机，一周得倒两回水。
-a dehumidifier = 除湿机
-② A dehumidifier will not fix damp that is coming up through the wall.
-= 除湿机治不了顺着墙往上爬的潮气。
-run a dehumidifier = 开除湿机
-构词：de- 去掉 加 humidifier 加湿器
-注意别混：dehumidifier 抽湿，humidifier 加湿。
+demeanour
+核心：举止仪态：一个人待人接物时表现出来的神情与做派。不可数，
+美式拼 demeanor。多跟 calm、quiet、professional 这类词搭配。
+跟 behaviour 的分界：behaviour 说做了什么，demeanour 说看上去是什么样子。
+① Her calm demeanour in court impressed the jury more than any of the evidence did.
+= 她在法庭上那份镇定的仪态，比任何证据都更打动陪审团。
+a calm demeanour = 镇定的举止
+② His demeanour changed completely the moment the family left the room.
+= 家属一离开房间，他的做派立刻全变了。
+somebody's demeanour = 某人的举止神态
+③ The report praised the officer's professional demeanor throughout the incident.
+= 那份报告称赞这名警官在整起事件中始终保持专业的仪态。
+a professional demeanor = 专业的仪态（美式拼法）
+构词：de- 加古法语 mener 引领 —— 本义是「把自己带成什么样子」
+注意别混：behaviour 说做了什么，demeanour 说给人看上去的样子。
 
-dehydrate
-核心：两支。一是人体脱水，名词 dehydration；二是食品脱水干燥，
-作定语说 dehydrated food。及物不及物都行。
-① Children dehydrate faster than adults and show it later.
-= 小孩比大人脱水快，表现出来却更晚。
-dehydrate = 脱水
-② He was badly dehydrated and spent the night on a drip.
-= 他严重脱水，挂了一夜点滴。
-be dehydrated = 脱水的
-③ Dehydration kills more people in a heatwave than the heat itself does.
-= 热浪里死于脱水的人比死于高温本身的还多。
-dehydration = 脱水
-④ The rations are dehydrated and weigh almost nothing until you add water.
-= 那些口粮是脱水的，不加水几乎没什么重量。
-dehydrated food = 脱水食品
-构词：de- 去掉 加希腊语 hydor 水
-注意用法：说人脱水多用被动；说食品用 dehydrated 作定语。
+demented
+核心：两支。一是口语的「疯了似的」：气疯、急疯，多说 demented with worry；
+二是医学上「患痴呆的」—— 这一支今天被认为生硬且不礼貌。副词 dementedly。
+① She was demented with worry by the time the phone finally rang.
+= 电话终于响起来时，她已经担心得快疯了。
+be demented with worry = 担心得发疯
+② He was running dementedly up and down the platform looking for the right carriage.
+= 他在站台上疯了似的来回跑，找那节对的车厢。
+run dementedly = 疯了似的跑
+构词：拉丁语 dementare 使失去心智
+注意语域：说人患痴呆生硬且不礼貌，正规文字说 a person with dementia。
 
-deictic
-核心：语言学术语「指示的」：说 this、there、now、I 这一类词 ——
-它们指向什么，要靠说话的场合才定得下来。名词 deixis 指这种现象。
-形容词，只在语言学里用。
-① A deictic expression points outwards at the situation rather than inwards at the sentence.
-= 指示性表达指向说话时的场合，而不是指向句子本身。
-a deictic expression = 指示性表达
-② Deixis is what makes a note reading back in ten minutes useless on a locked door.
-= 正因为有指示这回事，锁着的门上贴一张「十分钟后回来」才等于没说。
-deixis = 指示现象
-构词：希腊语 deiktikos 指示的
-注意语域：语言学术语，日常不用。
+dementia
+核心：痴呆：脑部疾病导致记忆、判断、语言逐渐衰退的一类症状总称，
+阿尔茨海默病是其中最常见的一种。不可数。
+今天得体的说法是 a person with dementia，避免 sufferer、victim 那类词。
+① Her mother has dementia and still remembers every hymn she ever learnt.
+= 她母亲患有痴呆，却仍记得学过的每一首圣歌。
+have dementia = 患有痴呆
+② The ward is designed around people with dementia rather than around the staff.
+= 那个病区是围着痴呆患者设计的，不是围着工作人员设计的。
+people with dementia = 痴呆患者
+构词：拉丁语 dementia 失去心智
+注意语域：说患者用 a person with dementia，这是今天通行的说法。
 
-deify
-核心：把……奉为神：一是宗教上真的封神，二是比喻的「捧上神坛」。
-及物动词，变形 deified、deifying。名词 deification；
-a deity 是神祇，正式用词，日常说 a god。
-① Roman emperors were deified after death and sometimes before it.
-= 罗马皇帝死后被封神，有时候生前就封了。
-deify somebody = 把某人奉为神
-② The party deified its founder and rewrote everything he had ever said.
-= 那个党把创党人捧上神坛，把他说过的话全改写了一遍。
-deify a leader = 把领袖捧上神坛
-③ The deification of the emperor was a political act, not a religious one.
-= 皇帝的封神是政治动作，不是宗教动作。
-the deification of somebody = 对某人的神化
-④ The emperors they deified are long gone, but three older deities still share that temple.
-= 他们封过神的那些皇帝早已不在，那座庙里却仍供着三位更古老的神祇。
-a deity = 神祇（正式）
-构词：拉丁语 deus 神
-注意语域：deity 偏正式与学术；日常说 a god。
+demerge
+核心：分拆：把已经合并的公司再拆开，是 merge 的反向操作。
+及物不及物都行，名词 demerger。商业与财经新闻里的词。
+① The group demerged its retail arm and both halves lost value within a fortnight.
+= 集团把零售板块分拆出去，两边的市值两周内都跌了。
+demerge something = 把某块业务分拆出去
+② The demerger took eighteen months and three separate sets of lawyers.
+= 那次分拆用了十八个月，前后换了三拨律师。
+a demerger = 分拆
+构词：de- 反向 加 merge 合并
+注意别混：demerger 是把已合并的拆开，spin-off 是把一块业务另立门户。
 
-deign
-核心：屈尊做某事：几乎只用 deign to do something 这一个结构，
-而且多在否定与讽刺的语气里 —— 说某人终于肯做一件他觉得掉份儿的事。
-① He finally deigned to answer the third email, six weeks after the first one.
-= 第一封邮件之后六周，他总算屈尊回了第三封。
-deign to do something = 屈尊做某事
-② She did not deign to explain why the meeting had been moved.
-= 会议为什么改期，她压根不屑解释。
-not deign to do something = 不屑于做某事
-构词：拉丁语 dignari 认为值得
-注意语域：几乎总带讽刺，说别人摆架子时用得最顺。
+demerit
+核心：两支。一是（正式）缺点、短处，跟 merit 相对，常说 the merits and
+demerits of something；二是学校与军队里的记过，美式常用。
+① The report weighs the merits and demerits of each site in three pages.
+= 那份报告用三页篇幅权衡了每处选址的优劣。
+the merits and demerits of something = 某事的优劣
+② Two demerits in a term and you lost your free periods for a month.
+= 一学期记两次过，一个月的自习时间就没了。
+a demerit = 一次记过（美式校规）
+构词：de- 加 merit 优点
+注意语域：优劣那一支正式；记过那一支多见于美国校规与军规。
 
-deism
-核心：自然神论：认为造物主创世之后就不再插手 —— 十七八世纪流行的立场，
-跟 theism 有神论、atheism 无神论并列。
-信奉者是 a deist，形容词 deistic。不可数。
-① Deism appealed to people who wanted a creator without a church.
-= 自然神论合那些想要造物主、却不想要教会的人的意。
-deism = 自然神论
-② Several of the founders were deists and said as much in their letters.
-= 好几位开国者是自然神论者，在信里也这么说过。
-a deist = 自然神论者
-③ His deistic view of history left no room for miracles at all.
-= 他那套自然神论的历史观里，一点神迹的余地也没有。
-deistic = 自然神论的
-构词：拉丁语 deus 神 加 -ism
-注意别混：deism 认为神创世后不干预，theism 认为神持续干预。
+demesne
+核心：领地：中世纪庄园主自己直接经营、不租给佃户的那部分土地，
+后来也泛指一片私有地产。历史与法律文字里用，可数。
+① The demesne lands were farmed for the lord himself and never let to tenants.
+= 那片自营地是替领主本人耕种的，从不租给佃户。
+demesne lands = 庄园自营地
+② The whole demesne passed to a cousin who had never once seen it.
+= 整片领地传给了一个从没见过它的远房表亲。
+a demesne = 领地、私有地产
+构词：古法语 demeine，与 domain 同源
+注意语域：历史与法律用语，日常说 an estate。
 
-déjà vu
-核心：似曾相识：明明是头一回，却觉得从前经历过。法语借词，
-不带重音写作 deja vu。不可数，常说 a sense of déjà vu、a feeling of deja vu。
-也引申着说「又是这一套」的那种厌烦。
-① She had a strong sense of déjà vu the moment she walked into the hall.
-= 她一走进那个大厅，就有一种强烈的似曾相识感。
-a sense of déjà vu = 似曾相识的感觉
-② Reading the new proposal gave everyone in the room a feeling of deja vu.
-= 读那份新提案，屋里每个人都觉得似曾相识。
-a feeling of deja vu = 似曾相识之感
-不带重音的写法一样通行。
-构词：法语「已经见过」
-注意用法：不可数，前面用 a sense of 或 a feeling of。
+demi-monde
+核心：（旧）半上流社会：十九世纪指靠男人供养、被正经社交圈排斥的那群女子，
+后来泛指任何游走在体面边缘的圈子。法语借词，不可数，前面加 the。
+① The novel is set in the demi-monde of the eighteen seventies and pities nobody.
+= 那部小说写的是一八七〇年代的半上流社会，对谁都不留情。
+the demi-monde = 半上流社会
+② He moved in a demi-monde of dealers and unpaid rent for most of that decade.
+= 那十年的大半时间，他都混在一个由掮客与欠租组成的边缘圈子里。
+a demi-monde = 游走在体面边缘的圈子
+构词：法语「半个世界」
+注意语域：历史与文学用语，日常不用。

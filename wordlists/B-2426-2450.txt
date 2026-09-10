@@ -1,19 +1,3 @@
-biennially
-核心：副词，"每两年一次地"。跟形容词 biennial 一样，
-最容易跟 biannually（一年两次）弄混。写正式文件时为了不让人误读，
-很多机构干脆写成 every two years，把歧义堵死。
-① The award is given biennially to a translator under the age of forty.
-= 那个奖每两年颁一次，授予四十岁以下的译者。
-② Members are elected biennially, half the board at a time.
-= 成员每两年选一次，每次换董事会的一半。
-③ The survey runs biennially, which is why the trend line looks so coarse.
-= 那项调查每两年做一次，趋势线才画得这么粗。
-易混对照：
-biennially = 每两年一次
-biannually = 一年两次
-注意：正式文件里多写成 every two years，
-避免读者误解。
-
 bier
 核心：抬棺材或抬遗体用的架子，也指棺材下面那个台座。
 只用于丧仪场合，书面且庄重，日常见不到。
@@ -519,3 +503,24 @@ bigness
 big = 大的
 size = 大小（中性，常用）
 注意语域：少见，多用于评论文字。
+
+bigot
+核心：指"死抱成见、听不进不同意见的人"，尤其是在宗教、种族、
+政治上。这个词分量很重，是明确的指责，不是描述——说某人是 bigot
+等于说他不讲道理且不肯改。跟 racist 的区别在范围：racist 专指
+种族上的，bigot 不限领域，凡是抱着偏见不撒手的都算。
+① He is a religious bigot who will not sit down with anyone from the other parish.
+= 他是个宗教上的顽固分子，跟另一个教区的人连坐都不肯坐。
+religious bigot = 宗教上的偏执者
+② Bigots rarely change their minds, and evidence only makes them dig in.
+= 顽固抱成见的人很少改主意，摆证据只会让他们更死守。
+特征是听不进反证。
+③ She was called a bigot for that remark and lost half her audience overnight.
+= 她因为那句话被骂作偏执狂，一夜之间掉了一半听众。
+注意语用：分量很重，是指责不是描述。
+近义对照：
+bigot = 抱着偏见不撒手的人（不限领域）
+racist = 种族主义者（专指种族）
+词族：
+bigoted = 顽固偏执的
+bigotry = 偏执

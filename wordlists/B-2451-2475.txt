@@ -1,24 +1,3 @@
-bigot
-核心：指"死抱成见、听不进不同意见的人"，尤其是在宗教、种族、
-政治上。这个词分量很重，是明确的指责，不是描述——说某人是 bigot
-等于说他不讲道理且不肯改。跟 racist 的区别在范围：racist 专指
-种族上的，bigot 不限领域，凡是抱着偏见不撒手的都算。
-① He is a religious bigot who will not sit down with anyone from the other parish.
-= 他是个宗教上的顽固分子，跟另一个教区的人连坐都不肯坐。
-religious bigot = 宗教上的偏执者
-② Bigots rarely change their minds, and evidence only makes them dig in.
-= 顽固抱成见的人很少改主意，摆证据只会让他们更死守。
-特征是听不进反证。
-③ She was called a bigot for that remark and lost half her audience overnight.
-= 她因为那句话被骂作偏执狂，一夜之间掉了一半听众。
-注意语用：分量很重，是指责不是描述。
-近义对照：
-bigot = 抱着偏见不撒手的人（不限领域）
-racist = 种族主义者（专指种族）
-词族：
-bigoted = 顽固偏执的
-bigotry = 偏执
-
 bigoted
 核心：形容词，指人或言论"顽固偏执的"——认定一套看法就不肯听别的，
 而且往往针对某个群体。它跟 prejudiced 的分别在于顽固程度：
@@ -248,18 +227,14 @@ bilateral symmetry = 左右对称
 反义词：
 unilateral = 单方面的
 multilateral = 多边的
-
-bilaterally
-核心：副词，"双边地、两侧地"，跟形容词的两条线一一对应：
-外交上指两国之间直接谈，不经第三方；医学上指身体两侧都出现。
-写作里它常用来把一件事跟"多边"或"单侧"对立起来。
-① The issue was settled bilaterally after the wider talks collapsed.
+副词 bilaterally：副词，"双边地、两侧地"，跟形容词的两条线一一对应： 外交上指两国之间直接谈，不经第三方；医学上指身体两侧都出现。 写作里它常用来把一件事跟"多边"或"单侧"对立起来。
+⑤ The issue was settled bilaterally after the wider talks collapsed.
 = 更大范围的会谈破裂后，那件事由两国直接谈定。
 不经第三方或国际组织。
-② The nerves are affected bilaterally, which rules out a single injury.
+⑥ The nerves are affected bilaterally, which rules out a single injury.
 = 神经两侧都受了影响，这就排除了单处外伤。
 医学义。
-③ They agreed to act bilaterally rather than wait for the whole bloc.
+⑦ They agreed to act bilaterally rather than wait for the whole bloc.
 = 他们同意以双边方式行事，不等整个集团。
 反义词：
 unilaterally = 单方面地
@@ -517,3 +492,39 @@ bill of sale = 买卖契据（动产过户凭证）
 词族：
 billing = 计费；排名次序
 billboard = 广告牌
+
+billable
+核心：商务与法律用语，指"可以向客户计费的"。律师、咨询顾问、
+广告公司按小时收费，工时分成两类：能记到客户账上的是 billable
+hours，不能记的是内部时间。这个词几乎只跟 hours 连用，
+是这些行业里衡量业绩的核心指标。
+① He logged 1,800 billable hours and barely saw his children that year.
+= 他记了一千八百个计费工时，那一年几乎没见着孩子。
+billable hours = 可计费工时
+② Travel time is not billable unless the client agrees to it in writing.
+= 路上的时间不能计费，除非客户书面同意。
+③ The firm tracks billable work closely and reviews the totals every Friday.
+= 那家事务所盯着可计费工作量，每周五核一次总数。
+billable work = 可计费的工作
+注意语域：律师、咨询、广告等按时计费的行业。
+词族：
+bill = 开账单
+billing = 计费
+
+billboard
+核心：路边或楼顶那种大幅广告牌。构词就是 bill（招贴）加 board
+（板），字面是"贴招贴的板子"。美式常用，英式多说 hoarding。
+动词用法指"大张旗鼓地宣传"。美国那份同名的音乐排行榜也是从
+这个词来的：榜单原本就印在店里的招贴板上。
+① A huge billboard blocked the view of the hills from every flat on that side.
+= 一块巨大的广告牌把那一侧每户看山的视线都挡住了。
+② They bought billboard space downtown for the month before the election.
+= 他们在市中心买了广告牌位，投放选举前那一个月。
+billboard space = 广告牌版位
+③ The film was billboarded everywhere for weeks and still opened to empty cinemas.
+= 那部电影铺天盖地宣传了好几周，开画时影院还是空的。
+动词用法，指大做宣传。
+注意地域：
+美式 billboard = 大幅广告牌
+英式 hoarding = 大幅广告牌
+构词：bill 招贴 + board 板

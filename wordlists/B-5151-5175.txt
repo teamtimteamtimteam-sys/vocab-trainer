@@ -1,473 +1,592 @@
-consanguinity
-核心：血亲关系：同一祖先传下来的血缘，法律与人类学里
-讲近亲婚配限制时用。形容词 consanguineous。不可数，
-正式词。
-① The law bars marriage within degrees of consanguinity set in 1540.
-= 法律禁止通婚的血亲范围，是一五四〇年定下的。
-consanguinity = 血亲关系
-② Consanguineous marriage is common there and carefully tracked.
-= 那里近亲通婚很常见，也记录得很仔细。
-consanguineous = 有血亲关系的
-③ Close consanguinity raises genetic risk without making it certain.
-= 血缘太近会提高遗传风险，但并不等于一定出事。
-close consanguinity = 近亲血缘
-构词：拉丁语 con- 共 + sanguis 血
-注意语域：法律与人类学的正式词。
+constant
+核心：形容词三支：一是持续不断的；二是恒定不变的；三是
+书面的「始终不渝的」，说人。名词是数学与物理里的常数。
+副词 constantly，名词 constancy 指恒定，也指忠贞。
+① The constant noise wore her down over about four months.
+= 不间断的噪音用了大约四个月把她磨垮。
+constant noise = 不间断的噪音
+② Keep the temperature constant or the whole batch has to be thrown out.
+= 温度必须保持恒定，否则整批都得扔掉。
+keep something constant = 使保持恒定
+③ He was a constant friend through years when nobody else called.
+= 那些年里没人打电话来，只有他始终不渝。
+a constant friend = 始终不渝的朋友
+④ The speed of light is a constant and everything else is measured against it.
+= 光速是常数，别的一切都拿它来量。
+a constant = 常数
+⑤ She constantly checks her phone and complains about how little time she has.
+= 她不停地看手机，还抱怨自己时间太少。
+constantly = 不停地
+⑥ Her constancy surprised them more than her talent ever had.
+= 比起她的才华，她的忠贞更让他们意外。
+constancy = 恒定；忠贞
+构词：拉丁语 constare 站得稳
+注意分工：说「持续不断」和说「恒定不变」是同一个词，看上下文。
 
-conscience
-核心：良心：判断是非、让人心里不安的那个内在声音。
-常见搭配：a clear conscience 问心无愧、a guilty
-conscience 心里有鬼、a matter of conscience 关乎良心
-的事、a prisoner of conscience 良心犯。可数不可数都行。
-① My conscience is clear and the paperwork backs me up on every page.
-= 我问心无愧，文件每一页都能给我作证。
-a clear conscience = 问心无愧
-② He has a guilty conscience and mentions the matter far too often.
-= 他心里有鬼，那件事提得实在太勤。
-a guilty conscience = 心里有鬼
-③ It is a matter of conscience and the party has lifted the whip.
-= 那是关乎良心的事，党已经放开了党鞭。
-a matter of conscience = 关乎良心的事
-④ She was a prisoner of conscience for nine years and wrote three books inside.
-= 她做了九年良心犯，在里面写了三本书。
-a prisoner of conscience = 良心犯
-⑤ He returned the money, conscience-stricken, twenty-two years after the event.
-= 事情过去二十二年后，他良心不安，把钱还了回去。
-conscience-stricken = 良心不安的、内疚的
-偏书面；后半截那个成分意思是「被击中」，还能跟别的情绪名词搭成一族。
-构词：拉丁语 conscientia 心里知道
-注意别混：跟表示「清醒、意识到」的那个近形词是两码事。
+constative
+核心：语言哲学术语：陈述性的。奥斯汀把话语分成两类，
+这一类描述事实、可判真假，跟施为性的那一类相对。
+① Austin set constative utterances against the ones that do something.
+= 奥斯汀把陈述性话语跟那些「说了就做成」的话语对立起来。
+a constative utterance = 陈述性话语
+② A constative statement can be checked against the world and found false.
+= 陈述性的话可以拿去跟事实核对，也可能被判为假。
+constative = 陈述性的
+③ Later he doubted the constative distinction and dropped it altogether.
+= 后来他自己也怀疑那个划分，索性不用了。
+the constative distinction = 陈述与施为的划分
+构词：拉丁语 constare 确定、陈述
+注意语域：语言哲学术语。
 
-conscientious
-核心：认真负责的：做事仔细、对得起自己良心，褒义。
-另有个固定说法 conscientious objector：出于良心拒服
-兵役的人。副词 conscientiously。
-① She is a conscientious worker who checks things nobody asked her to check.
-= 她干活很认真负责，没人要她核的东西她也核。
-conscientious = 认真负责的
-② He registered as a conscientious objector and drove ambulances instead.
-= 他登记为良心拒服兵役者，改去开救护车。
-a conscientious objector = 良心拒服兵役者
-③ The notes were kept conscientiously and settled the dispute forty years later.
-= 那些记录记得一丝不苟，四十年后了结了一桩争议。
-conscientiously = 一丝不苟地
-④ Her conscientiousness made her indispensable and also rather hard to promote.
-= 她做事认真，成了少不了的人，也因此不好提拔。
-conscientiousness = 认真负责的品性
-心理学讲的五大人格特质，其中一项用的就是这个词。
-构词：conscience 良心 + -ous
-注意读音：中间那个音节读成 shi 的音。
+constellation
+核心：三支。一是星座；二是引申的「一批」：a constellation
+of talents 是一批人才；三是一组同时出现的特征，医学与社会
+科学里说 a constellation of symptoms。动词 constellate 偏
+文学，指散布如星。可数。
+① Orion is an easy constellation to find and the only one most people name.
+= 猎户座很好找，多数人也只叫得出这一个。
+a constellation = 星座
+② A constellation of talents gathered there for about four years in the 1920s.
+= 二十年代有那么四年，一批人才聚在了那里。
+a constellation of = 一群、一批
+③ Doctors look for a constellation of symptoms rather than any single sign.
+= 医生找的是一组同时出现的症状，而不是某一个单独的迹象。
+a constellation of symptoms = 一组症状
+④ Lights constellated the hillside wherever a farm still had someone living in it.
+= 凡是还有人住的农舍，灯火就像星子一样散在山坡上。
+constellate = 散布如星
+构词：拉丁语 con- 共 + stella 星
+注意用法：第二三支都说「凑在一起的一组」。
 
-conscientize
-核心：使觉醒：让人认识到自己处境里的不公，并起而改变。
-出自巴西教育家弗莱雷的理论，名词 conscientization。
-教育与社会学用词，也拼 conscientise。及物。
-① The programme aims to conscientize young workers, not just train them.
-= 那个项目要让年轻工人觉醒，不只是把技能教给他们。
-conscientize = 使认识到不公并起而改变
-② Literacy classes conscientized the villagers about the land contracts.
-= 识字班让村民对那些土地合同有了觉悟。
-be conscientized = 被唤起觉悟
-③ Conscientization is the goal, and it takes longer than the funding lasts.
-= 目标是觉悟化，而它比经费撑得久。
-conscientization = 觉悟化
-构词：conscience 良知 + -ize
-注意语域：教育与社会学用词。
+consternation
+核心：惊愕沮丧：突然出事，让人又惊又慌、不知如何是好。
+常说 to somebody's consternation、in consternation。
+不可数，偏正式。
+① The news caused general consternation and three people walked out.
+= 那个消息让大家一片惊愕，有三个人当场走了。
+cause consternation = 引起惊愕
+② To his consternation, the door was locked and the key was inside.
+= 让他傻眼的是，门锁着，钥匙在里面。
+to somebody's consternation = 让某人惊愕的是
+③ She stared in consternation at a bill for four thousand pounds.
+= 她惊愕地瞪着一张四千镑的账单。
+in consternation = 惊愕地
+构词：拉丁语 consternare 使惊倒
+注意语域：偏正式。
 
-conscious
-核心：三支。一是清醒的：没昏过去；二是意识到的，介词
-用 of；三是有意为之的。名词 consciousness 一是意识，
-二是知觉，lose consciousness 是失去知觉。
-① He was still conscious when the ambulance arrived but could not say his name.
-= 救护车到时他人还清醒着，却说不出自己的名字。
-conscious = 清醒的
-② She is conscious of the risk and has priced the contract accordingly.
-= 她清楚那个风险，合同价里已经算进去了。
-be conscious of = 意识到
-③ It was a conscious decision to leave the second chapter out entirely.
-= 把第二章整个拿掉，是想清楚了才做的决定。
-a conscious decision = 有意为之的决定
-④ He lost consciousness twice on the ward and nobody wrote it down.
-= 他在病房里失去过两次知觉，没人记录下来。
-lose consciousness = 失去知觉
-⑤ Class consciousness shaped the movement long before anyone wrote it down.
-= 早在有人写下来之前，阶级意识就塑造了那场运动。
-consciousness = 意识
-⑥ She consciously avoided the subject for the whole of the first hour.
-= 头一个钟头里她一直有意避开那个话题。
-consciously = 有意识地、有意地
-强调是自己知道并选择这么做的；反面是 unconsciously。
-构词：拉丁语 conscius 心里知道
-注意搭配：说意识到用 of。
+constipation
+核心：便秘：大便干结排不出来。形容词 constipated 说人便秘，
+也引申地说文字或音乐憋着放不开，带贬义。不可数。
+① Fibre helps prevent constipation better than any of the tablets.
+= 防便秘，纤维比哪种药片都管用。
+prevent constipation = 预防便秘
+② She has been constipated for days and blames the long flight.
+= 她便秘好几天了，怪那趟长途飞行。
+be constipated = 便秘
+③ His prose is oddly constipated for a man who talks so freely.
+= 一个说话那么随意的人，文字却憋得慌。
+constipated = 拘谨放不开的（引申）
+构词：拉丁语 constipare 塞紧
+注意用法：引申义带贬义。
 
-conscript
-核心：征兵：强制征召入伍。名词重音在前，指被征召的兵；
-动词重音在后，多用被动。名词 conscription 是征兵制，
-跟自愿入伍相对。
-① He was conscripted at eighteen and served two years in a signals unit.
-= 他十八岁被征了兵，在通信部队干了两年。
-be conscripted = 被征召入伍
-② Most of them were conscripts and had been farmers in March.
-= 他们大多是应征兵，三月里还是农民。
-a conscript = 应征入伍的兵
-③ Conscription ended in 1960 and the last intake left the next year.
-= 征兵制一九六〇年取消，最后一批第二年退了伍。
-conscription = 征兵制
-构词：拉丁语 conscribere 登记入册
+constituency
+核心：三支。一是选区：划定的一块选举区域；二是那个选区的
+选民整体；三是引申的支持群体、基本盘。可数。
+① She won the constituency by nine votes after three separate recounts.
+= 重新点了三遍票之后，她以九票之差赢下那个选区。
+win a constituency = 赢下一个选区
+② The constituency wants answers about a hospital promised in two elections.
+= 两次选举里都承诺过的一家医院，那个选区的选民要个说法。
+a constituency = 选区选民
+③ The party lost its core constituency and won three seats it had never held.
+= 那个党丢了基本盘，却拿下三个从没赢过的席位。
+a core constituency = 基本盘
+④ Teachers are her natural constituency and turned out in numbers for her.
+= 教师是她天然的支持群体，投票时来了很多人。
+a natural constituency = 天然的支持群体
+构词：constituent 选民 + -cy
+注意分工：既指地理上的选区，也指那批人。
+
+constituent
+核心：三支，共用「构成」这个底子。一是组成成分；二是
+选民：选区里的一个；三是形容词「有制宪权的」，
+a constituent assembly 是制宪会议。可数。
+① Water is the main constituent of blood and the one nobody thinks about.
+= 水是血液的主要成分，也是谁都想不到的那一样。
+a constituent of = ……的组成成分
+② She writes back to every constituent, which takes two evenings a week.
+= 每个选民她都回信，一周要搭进去两个晚上。
+a constituent = 选民
+③ A constituent assembly drafted the charter in under eleven weeks.
+= 制宪会议在不到十一周里起草了那份宪章。
+a constituent assembly = 制宪会议
+④ Break it into its constituent parts and the fault becomes obvious.
+= 把它拆成各个组成部分，毛病就明摆着了。
+constituent parts = 组成部分
+构词：拉丁语 constituere 组成、设立
+注意分工：三支共用「构成」这个底子。
+
+constitute
+核心：三支。一是构成、算得上：多用在下定义与判断上；
+二是组成、占：几部分合成一个整体；三是正式设立机构。
+不用进行时。
+① That constitutes a breach of contract, whatever the covering letter says.
+= 不管附函怎么写，那都构成违约。
+constitute a breach = 构成违约
+② Women constitute half the workforce and five members constitute a quorum.
+= 女性占劳动力的一半；五名成员即达到法定人数。
+constitute = 占、构成
+constitute a quorum = 达到法定人数
+③ The committee was duly constituted and has never once met.
+= 委员会依法设立，却一次会也没开过。
+be duly constituted = 依法设立
+构词：拉丁语 constituere 设立
+注意用法：不用进行时。
+
+constitution
+核心：四支。一是宪法，也指社团的章程；二是体质：
+a strong constitution 是身体底子好；三是构成方式；四是
+设立这件事。形容词 constitutional 既指宪法的也指体质的，
+名词 constitutionality 是合宪性、constitutionalism 是宪政，
+副词 constitutionally。英式旧说法 a constitutional 指饭后
+散步。
+① The constitution guarantees free speech and says nothing about who pays for it.
+= 宪法保障言论自由，却没说这笔账谁来付。
+a constitution = 宪法
+② The club amended its constitution to keep one member out.
+= 俱乐部修改章程，就为了把一个人挡在门外。
+a constitution = 社团章程
+③ She has a strong constitution and has not missed a day in thirty years.
+= 她体质结实，三十年没请过一天假。
+a strong constitution = 结实的体质
+④ The court ruled on the constitutionality of the law after eleven years.
+= 十一年后，法院才就这项法律是否合宪作出裁定。
+constitutionality = 合宪性
+⑤ It is a constitutional monarchy and the monarch opens the shopping centres.
+= 这是君主立宪制，君主的差事是给购物中心剪彩。
+a constitutional monarchy = 君主立宪制
+⑥ The move was constitutionally sound and politically disastrous.
+= 这一步在宪法上站得住，政治上却是场灾难。
+constitutionally = 在宪法上
+⑦ Constitutionalism took root slowly and only after two failed attempts.
+= 宪政扎根很慢，还是在两次失败之后。
+constitutionalism = 宪政
+⑧ He took his usual constitutional after lunch, whatever the weather.
+= 不管什么天气，他午饭后都照例散步。
+a constitutional = 饭后散步（英式，旧）
+构词：constitute 设立 + -ion
+注意用法：指某国宪法时常加定冠词。
+
+constitutive
+核心：正式词：起构成作用的，指某样东西是另一样的必要
+组成，少了就不成立，介词用 of。生物学里另有一支：基因
+组成型表达的，指一直开着不受调控。
+① Trust is constitutive of friendship; without it the word means nothing.
+= 信任是友谊的构成要素，没有它这个词就没意义了。
+constitutive of = 构成……的必要成分
+② Language is constitutive, not merely descriptive, of how we see things.
+= 语言对我们怎么看事物起构成作用，不只是描述。
+constitutive = 起构成作用的
+③ The gene is constitutively expressed and never switches off.
+= 那个基因是组成型表达的，从不关闭。
+constitutively expressed = 组成型表达的
+构词：constitute 构成 + -ive
+注意语域：哲学与生物学用词。
+
+constrain
+核心：两支。一是限制束缚：条件把人卡住，多用被动
+be constrained by；二是正式的「迫使」，接不定式，也多用
+被动。形容词 constrained 说人举止拘谨、笑容勉强。名词
+constraint 一是限制条件，二是拘谨。
+① Budgets constrain what we can do and were constrained by nothing at all.
+= 预算限制着我们能做什么，而预算本身却毫无限制。
+constrain = 限制
+be constrained by = 受……限制
+② He felt constrained to apologize in front of people who had not been there.
+= 他觉得不得不当着一群不在场的人道歉。
+be constrained to do = 不得不做
+③ Her smile was constrained and did not reach her eyes at all.
+= 她的笑很勉强，一点也没到眼睛里。
+constrained = 拘谨的、勉强的
+④ Time is the main constraint and the budget is the one everyone talks about.
+= 时间才是主要的限制，大家嘴上说的却是预算。
+a constraint = 限制条件
+⑤ They talked without constraint for the first time in about nine years.
+= 九年来他们头一次毫无拘束地聊了起来。
+without constraint = 无拘无束地
+构词：拉丁语 constringere 束紧
+注意用法：前两支都多用被动。
+
+constrict
+核心：两支。一是收紧变窄：血管、喉咙、通道；二是引申的
+束缚：把发挥空间压小。形容词 constricted，名词
+constriction 既指收缩也指发紧的感觉。
+① Cold constricts the blood vessels and the fingers go white at the tips.
+= 冷会让血管收缩，指尖发白。
+constrict = 使收缩变窄
+② The rules constrict what teachers can try and were written by people who never taught.
+= 那些规定把老师能试的东西压窄了，写规定的人从没教过书。
+constrict = 束缚、限制
+③ He spoke in a constricted voice that gave away more than the words did.
+= 他嗓子发紧地说话，那声音比话本身透露得更多。
+a constricted voice = 发紧的嗓音
+④ She felt a constriction in her chest and sat down on the nearest step.
+= 她觉得胸口发紧，在最近的一级台阶上坐了下来。
+a constriction = 发紧、收窄
+构词：拉丁语 constringere 束紧
+注意分工：跟 constrain 同源，这个偏物理上的收窄。
+
+construct
+核心：名词重音在前，动词重音在后。动词一是建造，二是
+构建：句子、论证、理论都能构建。名词是人为构想出来的
+概念，a social construct 是社会建构。名词 construction
+一是建造与建筑业，二是结构，三是对话语的解读。形容词
+constructional，承建的一方叫 constructor。
+① They constructed a bridge in six months and spent four years on the approach roads.
+= 他们六个月建好了桥，引道却修了四年。
+construct = 建造
+② She constructed a careful argument and nobody in the room could answer it.
+= 她构建了一套缜密的论证，屋里没人答得上来。
+construct an argument = 构建论证
+③ Race is a social construct and has entirely material consequences.
+= 种族是社会建构，其后果却完全是实实在在的。
+a social construct = 社会建构
+④ The site is under construction and has been for about seven years.
+= 这块地在施工，已经施工了大约七年。
+under construction = 在建造中
+⑤ Workers were killed on the construction site and the inquiry took a decade.
+= 有工人在施工现场丧生，调查进行了十年。
+a construction site = 建筑工地
+⑥ The sentence has an odd construction that no grammar book quite covers.
+= 这句话的结构很怪，哪本语法书都没完全涵盖。
+a construction = 句子结构
+⑦ Do not put that construction on my words; I said the opposite.
+= 别这样解释我的话，我说的是相反的意思。
+put a construction on = 对……作某种解读
+⑧ Constructional details are in the appendix, which nobody has ever read.
+= 构造细节在附录里，那部分从没人读过。
+constructional = 构造上的
+⑨ The constructor delivered late and blamed a supplier two countries away.
+= 承建商延期交付，怪罪于隔了两个国家的一家供货商。
+a constructor = 承建商
+构词：拉丁语 construere 堆到一起
 注意读音：名词重音在前，动词重音在后。
 
-consecrate
-核心：三支。一是祝圣：把教堂或圣餐的饼酒祝为神圣；
-二是授圣职；三是引申的把一生奉献给某事。名词
-consecration。及物。
-① The church was consecrated in 1890 and closed for repairs a century later.
-= 那座教堂一八九〇年祝的圣，一百年后因修缮关闭。
-be consecrated = 被祝圣
-② He was consecrated bishop in a cathedral he had swept as a boy.
-= 他在自己小时候扫过地的大教堂里被祝圣为主教。
-consecrate somebody bishop = 祝圣某人为主教
-③ She consecrated her life to nursing and worked in the same ward for thirty years.
-= 她把一生献给了护理，在同一个病区干了三十年。
-consecrate one's life to = 把一生献给
-④ The consecration took two hours and the choir sang for most of them.
-= 祝圣礼进行了两个钟头，唱诗班唱了大半。
-a consecration = 祝圣礼
-构词：拉丁语 consecrare 使成圣
-注意语域：宗教用词，第三支是引申。
+constructive
+核心：建设性的：提意见是为了把事情弄好，不是为了拆台，
+反义是 destructive。法律上另有一支：法律推定的，
+constructive dismissal 指雇主逼得人不得不辞职。副词
+constructively。
+① She gave constructive criticism that took the writer a month to act on.
+= 她提了建设性的批评，那位作者花了一个月才落实。
+constructive criticism = 建设性的批评
+② The talks were constructive and both sides used the same word afterwards.
+= 那次会谈是有建设性的，事后双方用的是同一个词。
+constructive = 建设性的
+③ He claimed constructive dismissal after his desk was moved to a corridor.
+= 他的办公桌被挪到走廊之后，他主张自己是被逼辞职的。
+constructive dismissal = 推定解雇
+④ Spend the time constructively; the delay will not shorten itself.
+= 把时间用在正经事上，耽误的工夫不会自己变短。
+constructively = 有建设性地
+构词：construct 建造 + -ive
+注意分工：反义是 destructive；法律那一支意思完全不同。
 
-consecutive
-核心：连续的：一个接一个、中间不断，说天数、场次、
-名次。副词 consecutively。跟 successive 近义，这个词
-更强调不间断。
-① It rained for five consecutive days and she won three consecutive titles.
-= 雨连下了五天，她拿了三届连冠。
-consecutive days = 连续几天
-consecutive titles = 连续几届冠军
-② Number the pages consecutively and start again after the appendix.
-= 页码连续编号，附录之后重新起编。
-consecutively = 连续地
-③ He served two consecutive sentences and was released after eleven years.
-= 他接连服了两个刑期，十一年后获释。
-consecutive sentences = 接连服的刑期
-法律里跟它相对的是同时服刑，那才是刑期叠着算。
-④ Interpreters offer consecutive interpreting and charge by the half day.
-= 译员提供交替传译，按半天收费。
-consecutive interpreting = 交替传译
-说话人停一段、译员译一段，跟同声传译分开。
-构词：拉丁语 consequi 紧跟其后
-注意分工：跟 successive 近义，这个词更强调不间断。
+construe
+核心：理解、解释：把话或行为往某个意思上解，多用被动，
+介词用 as。法律上指对条文作解释。
+① Her silence was construed as agreement by everyone in the room.
+= 屋里的人都把她的沉默理解成了同意。
+be construed as = 被理解为
+② Do not construe this as criticism of anyone still working here.
+= 别把这话理解成对还在这儿做事的人的批评。
+construe as = 把……理解为
+③ The clause must be construed narrowly against the party who wrote it.
+= 那个条款必须作狭义解释，且不利于起草方。
+be construed narrowly = 作狭义解释
+构词：拉丁语 construere 堆到一起
+注意搭配：多用被动，介词用 as。
 
-consensus
-核心：共识：一群人大致都能接受的意见——不必人人举手，
-但没人强烈反对。形容词 consensual 一是协商一致的，
-二是法律上「双方自愿的」。不可数。
-① They reached a consensus by consensus, and the general view now is that the bill will pass.
-= 他们以协商一致的方式达成共识，眼下普遍认为这项法案会通过。
-reach a consensus = 达成共识
-by consensus = 以协商一致的方式
-the consensus is that = 普遍看法是
-② The act was consensual and the legal argument about it dragged on for four years.
-= 那个行为是双方自愿的，围绕它的法律争议拖了四年。
-consensual = 双方自愿的
-构词：拉丁语 consensus 一致同意
-注意搭配：最常用的是 reach a consensus。
+consul
+核心：两支。一是领事：派驻外国城市、照管本国侨民与商务
+的官员，比大使低一级，consul general 是总领事；二是古
+罗马共和国的执政官。形容词 consular，办公处叫 consulate。
+可数。
+① The consul issued an emergency passport on a Sunday and asked no questions.
+= 领事在一个周日签发了临时护照，什么都没多问。
+a consul = 领事
+② She was appointed consul general in a city she had never visited.
+= 她被任命为一座自己从没去过的城市的总领事。
+a consul general = 总领事
+③ Two consuls governed Rome each year and could veto one another.
+= 罗马每年由两名执政官治理，两人可以互相否决。
+a consul = 罗马执政官
+④ Consular staff met the family at the airport and stayed until midnight.
+= 领事人员在机场接了那家人，一直陪到半夜。
+consular staff = 领事人员
+⑤ Report it to the consulate and keep a copy of everything you hand over.
+= 到领事馆去报告，交上去的东西都留一份复件。
+a consulate = 领事馆
+构词：拉丁语 consul 执政官
+注意分工：领事管侨民与商务，大使管国与国的关系。
 
-consent
-核心：同意、准许：正式地点头，动词介词用 to。法律与
-医学里是关键词：informed consent 知情同意、age of
-consent 法定承诺年龄。习语 by common consent 是公认地。
-名词不可数。
-① She consented to the operation after asking the surgeon nine questions.
-= 问了外科医生九个问题之后，她同意了手术。
-consent to = 同意
-② Written consent is required and a verbal agreement counts for nothing.
-= 需要书面同意，口头答应不算数。
-written consent = 书面同意
-③ Doctors must obtain informed consent, which means the risks as well as the odds.
-= 医生须取得知情同意，风险和几率都要讲清。
-informed consent = 知情同意
-④ By common consent he was the best keeper the club ever had.
-= 公认他是那家俱乐部有史以来最好的门将。
-by common consent = 公认地
-构词：拉丁语 consentire 一同感觉
-注意搭配：动词用 to。
+consult
+核心：三支。一是请教咨询；二是查阅：查词典查时刻表；
+三是磋商，介词用 with。名词 consultation 是咨询磋商，
+也指看诊；consultant 一是顾问，二是英式医院里最高一级的
+主任医师；consultancy 是咨询公司；形容词 consultative
+指协商性的。
+① Consult your doctor first and take the leaflet with you.
+= 先请教你的医生，把说明书带上。
+consult somebody = 向某人请教
+② She consulted the timetable and found the service had been withdrawn.
+= 她查了时刻表，发现这趟车已经停开。
+consult a timetable = 查时刻表
+③ Management consulted with the union for a fortnight and changed nothing.
+= 管理层跟工会磋商了两周，什么也没改。
+consult with = 与……磋商
+④ The consultation lasted ten minutes and cost more than the medicine.
+= 看诊十分钟，诊费比药还贵。
+a consultation = 看诊；咨询
+⑤ He is a consultant cardiologist and takes private patients on Fridays.
+= 他是心脏科主任医师，周五接私人病人。
+a consultant = 主任医师（英式）；顾问
+⑥ She runs a small consultancy out of a room above a shop.
+= 她在一间店铺楼上的屋子里经营着一家小咨询公司。
+a consultancy = 咨询公司
+⑦ The body is consultative only and its advice has never been taken.
+= 这个机构只有协商职能，它的建议从没被采纳过。
+consultative = 协商性的
+⑧ Wait in the consulting room; he is running about forty minutes late.
+= 请在诊室等候，他大约晚四十分钟。
+a consulting room = 诊室
+构词：拉丁语 consultare 反复商量
+注意分工：英式的 consultant 是医院里最高一级的医师。
 
-consequence
-核心：两支。一是后果：某事带来的结果，多指不好的那种；
-二是重要性，只活在 of no consequence 这类说法里。可数。
-① He must take the consequences, and they are more serious than he thinks.
-= 他得承担后果，而后果比他想的严重。
-take the consequences = 承担后果
-serious consequences = 严重后果
-② Prices rose as a consequence of the strike and never came back down.
-= 罢工导致物价上涨，此后再没降下来。
-as a consequence of = 由于……的结果
-③ It is of no consequence now that both parties have signed.
-= 双方都签了字，这事现在无关紧要了。
-of no consequence = 无关紧要
-构词：拉丁语 consequi 随之而来
-注意语气：说后果时多指不好的那种。
+consume
+核心：四支。一是吃喝掉，比 eat 正式；二是消耗能源时间
+资源；三是烧毁：火把东西吞掉，多用被动；四是情绪把人
+整个占住。形容词 consuming 说兴趣压倒一切。买东西的人叫
+consumer，consumerism 是消费主义，耗材叫 consumable。
+① The car consumes too much fuel and is worth less than a year's petrol.
+= 这车太费油，本身还没一年的油钱值钱。
+consume fuel = 耗油
+② They consumed the whole cake between them and blamed the children.
+= 他们两人把整个蛋糕吃光了，回头怪孩子。
+consume = 吃喝掉（正式）
+③ Fire consumed the barn and stopped short of the house by a yard.
+= 大火吞噬了谷仓，离房子只差一码就停住了。
+be consumed by fire = 被大火烧毁
+④ He was consumed with jealousy over a promotion he had turned down.
+= 一份他自己推掉的升职，让他妒火中烧。
+be consumed with = 被某种情绪吞噬
+⑤ Cycling is her consuming passion and has cost her two marriages.
+= 骑车是她全身心投入的爱好，为此赔上了两段婚姻。
+a consuming passion = 压倒一切的热爱
+⑥ Consumers are cutting back and the shops have noticed before the figures did.
+= 消费者在缩减开支，商店比统计数字更早察觉。
+a consumer = 消费者
+⑦ Consumerism took hold in the fifties and has never let go since.
+= 消费主义在五十年代扎下根，此后再没松开过。
+consumerism = 消费主义
+⑧ Printer ink is a consumable and costs more per litre than perfume.
+= 打印墨水属于耗材，每升比香水还贵。
+a consumable = 耗材
+⑨ The consumerist mindset is hard to shake even for people who despise it.
+= 消费主义心态很难摆脱，连鄙视它的人也一样。
+consumerist = 消费主义的
+构词：拉丁语 consumere 用尽
+注意语域：说吃喝时比 eat 正式。
 
-consequent
-核心：随之而来的：跟在某件事后头发生、由它引起，介词
-用 on 或 upon。副词 consequently 是「因此」，比形容词
-常用得多。正式词。
-① The flood and consequent damage closed the school for a term.
-= 洪水以及随之而来的损失让学校停了一个学期。
-consequent = 随之而来的
-② Costs rose consequent upon the delay and nobody was told.
-= 成本因那次延误而上涨，却没人被告知。
-consequent upon = 由……引起的
-③ He missed the train and consequently the only meeting that mattered.
-= 他误了车，因此也误了唯一要紧的那场会。
-consequently = 因此
-构词：consequence 后果 + -ent
-注意用法：副词比形容词常用得多。
+consummate
+核心：形容词重音在前，动词重音在后。形容词是炉火纯青的：
+a consummate professional 是极老练的行家。动词两支：一是
+使圆满完成，二是法律与婚俗上的圆房。副词 consummately，
+名词 consummation。
+① She is a consummate professional who has never once missed a deadline.
+= 她是个炉火纯青的行家，一次都没误过期限。
+a consummate professional = 极老练的行家
+② The deal consummated years of talks that four governments had abandoned.
+= 四届政府放弃过的谈判，那笔交易为它画上了句号。
+consummate = 使圆满完成
+③ The marriage was never consummated and was annulled the following spring.
+= 那桩婚姻从未圆房，第二年春天就被宣告无效。
+consummate a marriage = 圆房
+④ He plays the part consummately and refuses to discuss it afterwards.
+= 他这个角色演得炉火纯青，事后却不肯谈。
+consummately = 炉火纯青地
+⑤ The award was the consummation of her career and she retired that month.
+= 那个奖是她事业的圆满收梢，当月她就退休了。
+the consummation of = ……的圆满收梢
+构词：拉丁语 consummare 加总、完成
+注意读音：形容词重音在前，动词重音在后。
 
-consequential
-核心：两支。一是重大的、影响深远的，美式媒体上近年
-很常用；二是法律与保险上的「因……而产生的」，
-consequential loss 是间接损失。带否定前缀的反义形式
-指无关紧要的。
-① It was a consequential decision taken in eleven minutes by four tired people.
-= 那是个影响深远的决定，四个疲惫的人用十一分钟就定了。
-consequential = 影响深远的
-② The policy covers consequential loss but not the damage that caused it.
-= 那份保单赔间接损失，造成损失的那处破坏反倒不赔。
-consequential loss = 间接损失
-③ The detail is inconsequential and the lawyer spent an hour on it anyway.
-= 那个细节无关紧要，律师照样花了一小时。
-inconsequential = 无关紧要的
-④ Nothing followed consequentially from that decision, which was rather the point.
-= 那个决定没带来任何后续，而这恰恰是它的用意。
-consequentially = 作为结果地；也指举足轻重地
-很少用。注意跟常用得多的 consequently 分开，那个才是日常说「因此」的词。
-构词：consequence 后果 + -ial
-注意分工：第一支偏美式，第二支是法律术语。
+consumption
+核心：三支。一是消耗量：能源、食物、资源；二是消费：
+经济学上跟生产相对；三是十九世纪对肺结核的旧称，形容词
+consumptive 既指消费的，也旧指患肺结核的。不可数。
+① Fuel consumption fell by a tenth and the bills went up anyway.
+= 油耗降了十分之一，账单还是涨了。
+fuel consumption = 燃油消耗
+② Domestic consumption drives growth in an economy that exports almost nothing.
+= 在一个几乎不出口的经济体里，内需消费拉动增长。
+domestic consumption = 国内消费
+③ Not fit for human consumption, said a label on food already on the shelf.
+= 货架上那批食品的标签写着：不适宜人食用。
+fit for human consumption = 适宜人食用
+④ She died of consumption in eighteen forty-eight, aged twenty-nine.
+= 她一八四八年死于肺结核，年仅二十九岁。
+consumption = 肺结核（旧称）
+⑤ Consumptive patients were sent to the mountains and told to eat butter.
+= 肺结核病人被送到山里，医嘱是多吃黄油。
+consumptive = 患肺结核的（旧）
+构词：consume 消耗 + -tion
+注意用法：肺结核那一支是十九世纪的旧称。
 
-conservancy
-核心：两支。一是自然保护机构：管一片河流、森林或自然
-区的法定或民间组织，机构名里常带这个词；二是保护自然
-资源这件事本身。可数。
-① The conservancy owns the wetland and leases the grazing back.
-= 那家保护机构拥有那片湿地，又把放牧权租了回去。
-a conservancy = 自然保护机构
-② She works for a river conservancy and spends her days in waders.
-= 她在一家河流管理机构工作，整天穿着连身水裤。
-a river conservancy = 河流管理机构
-③ Conservancy of the forest is their remit; the footpaths are not.
-= 保护那片林子是他们的职责，步道不归他们管。
-conservancy = 资源保护
-构词：conserve 保护 + -ancy
-注意用法：多出现在机构名里。
+contact
+核心：几支。名词一是联系往来；二是接触：物理上碰到；三是
+熟人门路；四是接触过传染源的人；五是隐形眼镜，多用复数。
+动词是联系某人。形容词 contactable 指联系得上的，
+contactless 是非接触式的。
+① Contact me when you land, whatever the time is at this end.
+= 落地就联系我，不管这边几点。
+contact somebody = 联系某人
+② We lost contact after the war and found each other on a passenger list.
+= 战后我们失去了联系，后来在一份乘客名单上找到了彼此。
+lose contact = 失去联系
+③ Do not let it come into contact with water or the whole batch is ruined.
+= 别让它沾水，否则整批都毁了。
+come into contact with = 接触到
+④ She has useful contacts in the trade and will not introduce anyone.
+= 她在这行有不错的人脉，却谁也不肯引荐。
+a useful contact = 有用的门路
+⑤ Health teams traced every contact and found the source in four days.
+= 卫生队追踪了每一名接触者，四天就找到了源头。
+trace a contact = 追踪接触者
+⑥ He wears contacts and keeps a spare pair in three different bags.
+= 他戴隐形眼镜，在三个包里各放了一副备用的。
+contacts = 隐形眼镜
+⑦ Contactless payment is standard now and the machine still asks for a signature.
+= 非接触支付如今是常态，机器却还要签名。
+contactless payment = 非接触支付
+⑧ Is she contactable at weekends, or does the phone go off on Friday?
+= 她周末能联系上吗？还是周五就关机？
+contactable = 联系得上的
+⑨ Rugby is a contact sport and the insurance premium says so plainly.
+= 橄榄球是身体接触类运动，保费明明白白说明了这一点。
+a contact sport = 身体接触型运动
+⑩ He lost a contact lens in the pool and everyone got out to look.
+= 他把一片隐形眼镜掉进泳池，大家都上岸找。
+a contact lens = 隐形眼镜
+⑪ We kept in contact for years by letter and then stopped without deciding to.
+= 我们通信保持联系多年，后来不知不觉就断了。
+keep in contact = 保持联系
+⑫ We made contact with the base at four and lost it again by six.
+= 我们四点跟基地取得联系，六点又断了。
+make contact with = 与……联系上
+⑬ They study contact improvisation and perform in places without a stage.
+= 他们研究接触即兴，在没有舞台的地方演出。
+contact improvisation = 接触即兴（现代舞的一种即兴形式）
+两人或多人靠身体接触带动彼此，边碰边即兴，没有事先编好的动作。
+⑭ The book interviews half a dozen contactees and takes none of them seriously.
+= 这本书采访了六名自称与外星人接触过的人，一个也没当真。
+a contactee = 自称与外星人有过接触的人
+不明飞行物圈子里的词，跟自称被掳走的那一类说法成对。
+构词：拉丁语 contingere 触到
+注意用法：作联系讲不可数，作熟人门路讲可数。
 
-conservation
-核心：三支，共同点是「让它保持原样」。一是自然保护；
-二是文物修复保护；三是物理学的守恒定律。做这一行的人
-叫 conservationist。不可数。
-① Conservation of the reef is urgent and the funding runs out in June.
-= 保护那片珊瑚礁刻不容缓，而经费六月就用完了。
-conservation = 自然保护
-② She trained in paper conservation and now works on maps from the archive.
-= 她学的是纸质文物修复，现在专修档案馆的地图。
-conservation = 文物修复保护
-③ The law of conservation of energy holds even where the accounting is hard.
-= 即使账不好算，能量守恒定律照样成立。
-conservation of energy = 能量守恒
-④ Conservationists opposed the dam for nine years and lost by one vote.
-= 环保人士反对那座坝反对了九年，最后以一票之差落败。
-a conservationist = 环保人士
-⑤ The conservator cleaned the varnish and found a signature underneath.
-= 修复师清掉那层清漆，在底下发现了一个签名。
-a conservator = 文物修复师
-⑥ The whole village is a conservation area, so even the paint needs approval.
-= 整个村子都是保护区，连刷什么漆都要报批。
-a conservation area = 保护区（英式，建筑与街貌受管制的地段）
-英国的一种法定身份：区内动外观要另行报批。自然保护地也用这个词。
-构词：conserve 保存 + -ation
-注意分工：三支都是让它保持原样。
+contagion
+核心：两支。一是接触传染：病靠接触传开这件事；二是引申的
+蔓延：恐慌、危机像病一样传开。形容词 contagious 一是接触
+传染的，二是说笑声情绪有感染力，副词 contagiously。不可数。
+① Quarantine slowed the contagion but arrived a fortnight too late.
+= 隔离把传染压慢了，只是晚到了两周。
+contagion = 接触传染
+② Financial contagion spread across Asia in a matter of weeks.
+= 金融风险几周之内就在亚洲蔓延开来。
+financial contagion = 金融风险蔓延
+③ Measles is highly contagious and finds every unvaccinated child in a school.
+= 麻疹传染性很强，一所学校里没打疫苗的孩子它一个不落。
+contagious = 接触传染的
+④ Her laugh is contagious and has ruined three recordings so far.
+= 她的笑会传染，到目前已经毁了三次录音。
+contagious = 有感染力的
+⑤ He grinned contagiously and the whole row started laughing again.
+= 他咧嘴一笑，整排人又笑了起来。
+contagiously = 有感染力地
+构词：拉丁语 contingere 触到
+注意分工：contagious 靠接触传，infectious 靠病原体传，日常已混用。
 
-conservative
-核心：三支。一是守旧的、不爱变的；二是往少里说的：
-a conservative estimate 是保守估计；三是大写时指保守党
-与保守主义者。名词 conservatism。
-① He has conservative tastes in everything except the car he drives.
-= 他什么口味都守旧，唯独开的那辆车不是。
-conservative = 守旧的
-② That is a conservative estimate and the real figure may be double.
-= 那是个往少里说的估计，实数可能是两倍。
-a conservative estimate = 保守估计
-③ She votes Conservative and has never told anyone in the family.
-= 她投保守党，家里谁都没告诉过。
-Conservative = 保守党的
-④ Conservatism runs deep here and survived two changes of industry.
-= 这里保守风气很重，熬过了两轮产业更迭。
-conservatism = 保守主义、保守作风
-⑤ She dresses conservatively at work and quite differently at weekends.
-= 她上班穿得很保守，周末完全是另一回事。
-conservatively = 保守地；也指往少里估地
-第二义常见于 conservatively estimated，意思是这个数字已经往低了算。
-构词：conserve 保存 + -ative
-注意用法：指政党时大写。
+contain
+核心：三支。一是装着含有，不用进行时；二是控制住：把火势、
+疫情、事态摁住；三是忍住情绪。名词 container 是容器也指
+集装箱，containerization 是集装箱化，containment 一是遏制、
+二是控制住。
+① The box contains old letters and a photograph nobody can identify.
+= 盒子里装着旧信和一张谁也认不出的照片。
+contain = 装有、含有
+② Firefighters contained the blaze before it reached the fuel store.
+= 消防员在火势蔓延到燃料库之前控制住了它。
+contain a blaze = 控制火势
+③ She could hardly contain her excitement and told three people on the stairs.
+= 她按捺不住兴奋，在楼梯上就告诉了三个人。
+contain oneself = 忍住情绪
+④ Put it in a sealed container or the whole cupboard will smell of it.
+= 装进密封容器，不然整个柜子都是那味儿。
+a container = 容器
+⑤ The ship carries four thousand containers and is crewed by twenty people.
+= 这艘船装四千个集装箱，船员只有二十人。
+a container = 集装箱
+⑥ Containerization transformed shipping and emptied every dock in the country.
+= 集装箱化改变了航运，也让全国的码头都空了。
+containerization = 集装箱化
+⑦ Containment was the core of the policy for the better part of forty years.
+= 遏制在近四十年里一直是这项政策的核心。
+containment = 遏制；控制住
+⑧ Most freight is now containerized and moves without anyone touching it.
+= 如今大部分货运都用集装箱，全程没人经手。
+containerized = 改用集装箱运输的
+跟这一条的 containerization 成对；英式也拼 containerised。
+构词：拉丁语 continere 圈在一起
+注意用法：作含有讲不用进行时。
 
-conservatoire
-核心：音乐学院：欧洲式的专门培养演奏家与歌唱家的高等
-学校。美式与意大利式写作 conservatory。可数。
-① She trained at the Paris conservatoire.
-= 她在巴黎音乐学院受训。
-a conservatoire = 音乐学院
-② The conservatory in Cleveland takes forty singers a year out of nine hundred who apply.
-= 克利夫兰那所音乐学院每年从九百名申请者里招四十名歌唱学生。
-a conservatory = 音乐学院（美式写法）
-构词：法语 conservatoire 音乐学院
-注意拼写：美式写作 conservatory。
+contaminate
+核心：污染：让水、土、食物、样本掺进有害或不该有的东西，
+也引申说思想与名声被玷污。名词 contamination，污染物叫
+contaminant。及物，多用被动。
+① The well was contaminated with lead from pipes laid before the war.
+= 那口井被战前铺设的管道里的铅污染了。
+be contaminated with = 被……污染
+② Do not contaminate the sample; even a fingerprint will show up in the results.
+= 别把样本弄污染了，一个指纹都会出现在结果里。
+contaminate a sample = 污染样本
+③ Contamination was traced to one tank that had been left uncovered.
+= 污染源查到了一个没盖盖子的罐子。
+contamination = 污染
+④ Filters remove most contaminants but do nothing about dissolved salts.
+= 滤芯能滤掉大部分污染物，对溶解的盐类却毫无办法。
+a contaminant = 污染物
+构词：拉丁语 contaminare 弄脏
+注意搭配：多用被动，介词用 with 或 by。
 
-conservatory
-核心：两支，英美所指不同。英式指住宅侧面那间玻璃房：
-种花也当起居室用；美式指音乐学院。可数。
-① They had tea in the conservatory because it was the only warm room in the house.
-= 他们在玻璃花房里喝茶，因为那是家里唯一暖和的屋子。
-a conservatory = 玻璃花房（英式）
-② He studied at a conservatory in Boston and never once played in public afterwards.
-= 他在波士顿一所音乐学院念的书，此后一次也没公开演奏过。
-a conservatory = 音乐学院（美式）
-③ They added a conservatory at the back and lost half the garden to it.
-= 他们在后面加盖了个玻璃花房，园子因此少了一半。
-add a conservatory = 加盖玻璃花房
-构词：conserve 保存 + -ory，本指冬天存放花木的房子
-注意用法：英美所指不同，看语境。
-
-conserve
-核心：两支，重音不同。动词是省着用、保住不失：省电
-省水都用它，也指保护自然与文物。名词重音在前，指果肉
-多的蜜饯果酱。
-① Switch off lights to conserve energy and conserve your strength for the climb.
-= 关灯节约能源，也把体力留给爬山。
-conserve energy = 节约能源
-conserve one's strength = 保存体力
-② The trust conserves ancient woodland and owns about nine hundred acres.
-= 这家信托保护古老林地，拥有约九百英亩。
-conserve = 保护
-③ Spread the cherry conserve thickly; it is the only sweet thing here.
-= 樱桃蜜饯厚厚地抹，这里只有它是甜的。
-a conserve = 果肉多的蜜饯果酱
-④ Salt was once used to conserve meat through a winter with no ice.
-= 从前没有冰的冬天，靠盐把肉存住不坏。
-conserve food = 把食物存住不坏
-这一支是最老的用法，名词那支果酱义就是从它来的。
-构词：拉丁语 conservare 保住
-注意读音：动词重音在后，名词重音在前。
-
-consider
-核心：几支。一是考虑、掂量，后面接动名词，不接不定式；
-二是认为：consider somebody a friend，也说 be
-considered；三是顾及别人的感受。
-① We are considering moving and have looked at about forty houses.
-= 我们在考虑搬家，已经看了大约四十套房子。
-consider doing = 考虑做某事
-② I consider him a friend and would not lend him money.
-= 我拿他当朋友，却不会借钱给他。
-consider somebody a friend = 拿某人当朋友
-③ It is considered rude here and is perfectly normal two counties away.
-= 这在当地算失礼，隔两个郡就再正常不过。
-be considered = 被认为
-④ Consider how she feels before you put any of this in writing.
-= 把这些写下来之前，先想想她的感受。
-consider = 顾及
-构词：拉丁语 considerare 细看星象
-注意搭配：接动名词，不接不定式。
-
-considerable
-核心：相当大的、可观的：说数量、程度与影响，正式词，
-比 big 客气也更书面。副词 considerably 是「大幅地」。
-① It took considerable effort, considerable influence and a considerable sum.
-= 这既费了不小的力气，也动用了相当大的影响和一笔可观的钱。
-considerable effort = 不小的力气
-considerable influence = 相当大的影响
-a considerable number = 相当多的一批
-a considerable sum = 一笔可观的钱
-② Prices rose considerably and wages did not move at all.
-= 物价大幅上涨，工资纹丝不动。
-considerably = 大幅地
-构词：consider 掂量 + -able，本义是值得细看的
-注意语域：正式词，比 big 书面。
-
-considerate
-核心：体贴的：替别人着想、顾及别人方便，介词用 of 或
-towards。名词 consideration 三支：考虑、要顾及的因素、
-体贴，法律上还指合同里的对价。
-① It was considerate of you to call before turning up with three children.
-= 带着三个孩子上门之前先打个电话来，真是体贴。
-considerate of somebody = 某人真体贴
-② He is considerate towards neighbours and never runs the mower before nine.
-= 他对邻居很体谅，九点之前从不开割草机。
-considerate towards = 对……体谅
-③ The plan is under consideration and will stay there until after the election.
-= 那个方案在考虑中，选举之前不会有结果。
-under consideration = 在考虑中
-④ Cost is the main consideration, but the delivery date runs it close.
-= 成本是主要考量，交期紧随其后。
-a consideration = 要顾及的因素
-⑤ He showed no consideration for others and parked across two spaces.
-= 他一点不体谅别人，横占了两个车位。
-consideration for = 对……的体谅
-⑥ He considerately lowered his voice once he saw the baby was asleep.
-= 他一看见孩子睡着了，就体贴地压低了声音。
-considerately = 体贴地、替别人着想地
-注意跟 considerably 分开：那个是「相当地、大幅地」，两个词只差几个字母，意思毫不相干。
-构词：consider 顾及 + -ate
-注意别混：这个词是体贴，considerable 是相当大。
-
-consign
-核心：三支。一是发货托运：把货交给承运人，一批货叫
-a consignment；二是正式地把东西交付给某处；三是引申
-的打发去某个下场，consign to oblivion 是让它被彻底
-遗忘。及物，正式词。
-① The goods were consigned by rail and arrived four days after the shop closed.
-= 那批货走铁路托运，到货时店已经关了四天。
-consign by = 用……托运
-② A consignment arrived this morning with half the boxes crushed at one corner.
-= 今早到了一批货，一半箱子有个角压扁了。
-a consignment = 一批托运的货
-③ She consigned the letters to the fire and watched until the last one caught.
-= 她把那些信丢进火里，一直看到最后一封烧着。
-consign to = 把……交付给
-④ The book was consigned to oblivion and turned up in a skip forty years later.
-= 那本书被彻底遗忘，四十年后在一个垃圾斗里冒了出来。
-consign to oblivion = 使被彻底遗忘
-构词：拉丁语 consignare 盖印交付
-注意语域：正式词，商业与文学都用。
-
-consist
-核心：由……构成。两个介词分工是考点：consist of 后面接
-组成部分，consist in 后面接「本质在于」。不及物，不用
-进行时，也不用被动。
-① The team consists of five women and little more than sand for a pitch.
-= 这支队伍由五名女性组成，场地差不多就是一片沙地。
-consist of = 由……组成
-consist of little more than = 差不多就只是
-② Happiness does not consist in owning things, and her duties consist largely in checking figures.
-= 幸福不在于占有东西；她的职责主要在于核对数字。
-consist in = 本质在于
-consist largely in = 主要在于
-构词：拉丁语 consistere 站定
-注意用法：不及物，不用进行时，也不用被动。
-
-consistency
-核心：三支。一是一致性：前后不矛盾；二是稳定的水准：
-说发挥与产出；三是稠稀度：液体或面糊的软硬，食谱里
-最常见。
-① There is no consistency in the rules and two offices apply them differently.
-= 那些规定前后不一，两个办事处的执行口径都不一样。
-consistency = 一致性
-② She plays with great consistency and has not had a bad season since 2018.
-= 她发挥非常稳定，二零一八年以来没打过一个糟糕的赛季。
-consistency = 稳定的水准
-③ Beat it to the consistency of cream and stop the moment it holds a peak.
-= 打到奶油那样的稠度，一能立住尖就停手。
-the consistency of = ……那样的稠度
-④ Mix to a smooth consistency and leave it to stand for half an hour.
-= 拌到稠稀均匀，静置半小时。
-a smooth consistency = 均匀的稠度
-构词：consist 构成 + -ency
-注意分工：稠稀度那一支在食谱里最常见。
+contemplate
+核心：三支。一是端详：久久地看；二是沉思：在心里翻来覆去
+想；三是考虑做某事，接动名词不接不定式。名词 contemplation，
+形容词 contemplative 既指沉思的，也指宗教上默观的。
+① She contemplated the painting for an hour and bought the postcard instead.
+= 她对着那幅画端详了一个钟头，最后买了张明信片。
+contemplate = 端详
+② He contemplated his next move while the clock ran down to nothing.
+= 钟一路走到没时间，他还在心里过下一步。
+contemplate = 细想
+③ They are contemplating moving abroad and have told nobody in the family.
+= 他们在考虑移居国外，家里谁都没告诉。
+contemplate doing = 考虑做某事
+④ She sat in quiet contemplation on a bench facing away from the view.
+= 她坐在一条背对着风景的长椅上静静沉思。
+in contemplation = 在沉思中
+⑤ It is a contemplative order and the guests keep silence at meals.
+= 那是个默观修会，客人吃饭时也要保持静默。
+a contemplative order = 默观修会
+构词：拉丁语 contemplari 注视、观察
+注意搭配：作考虑讲接动名词，不接不定式。

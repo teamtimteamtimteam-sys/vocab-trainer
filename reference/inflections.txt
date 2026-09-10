@@ -99,3 +99,10 @@ frozen       freeze
 ably         able        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
 airily       airy        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
 aptly        apt        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
+
+# --- 副词并入形容词后补的对照（2026-09-10）---
+busily       busy        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
+cosily       cosy        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
+cozily       cozy        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
+edgily       edgy        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
+drier        dry        # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT

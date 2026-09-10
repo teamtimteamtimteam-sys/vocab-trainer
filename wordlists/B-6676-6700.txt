@@ -1,731 +1,588 @@
-dotage
-核心：（旧或戏谑）老糊涂的年纪：in your dotage 说人老到糊涂了。不可数。
-动词 dote on somebody 是「溺爱、宠得没边」，形容词 doting 说「溺爱的」。
-① He claims to be in his dotage and still does the crossword before breakfast.
-= 他自称已经老糊涂了，早饭前照样把填字游戏做完。
-be in your dotage = 到了老糊涂的年纪
-② She dotes on the youngest and denies it to everybody including him.
-= 她最疼小的那个，却对所有人否认，连他本人也不承认。
-dote on somebody = 溺爱某人
-③ A doting grandfather bought a drum kit and left the house before it was opened.
-= 一位溺爱孙辈的外公买了套架子鼓，还没开箱他就走了。
-a doting grandfather = 溺爱孙辈的外公
-构词：中古英语 doten 昏聩
-注意语域：说自己老糊涂是自嘲，说别人不礼貌。
+dragnet
+核心：两支。一是拖网：横拉着捞鱼或打捞的网；
+二是引申的「大搜捕」：警方拉网式的搜索。可数。
+① The dragnet brought up two bicycles and no sign of the missing bag.
+= 拖网捞上来两辆自行车，那只失踪的包毫无踪影。
+a dragnet = 拖网
+② A dragnet of the whole district produced four arrests and one apology.
+= 对整个区的拉网式搜捕抓了四个人，还赔了一次不是。
+a dragnet = 拉网式搜捕
+构词：drag 拖 加 net 网
+注意语域：警务与新闻里比喻义更常见。
 
-dotty
-核心：（英式口语）疯疯癫癫的、着迷的：一是说人有点糊涂古怪，语气轻；
-二是 be dotty about something 说「迷得不行」。形容词。
-① Her dotty neighbour feeds nine cats and knows all their birthdays.
-= 她那位有点古怪的邻居养着九只猫，每只的生日都记得。
-a dotty neighbour = 有点古怪的邻居
-② He is dotty about steam engines and has been since he was six.
-= 他迷蒸汽机迷得不行，六岁起就这样。
-be dotty about something = 对某事着迷
-构词：dot 加 -y，来源不确
-注意语域：英式口语，语气亲昵；说真正的精神状况不能用。
+dragon
+核心：两支。一是龙：西方传说里喷火的巨兽，
+在东亚文化里是另一回事 —— 英语写作里常特意区分。
+二是（贬义、过时）说女人凶悍难缠。可数。
+① The dragon in that story guards a hoard and asks riddles badly.
+= 那个故事里的龙守着一堆宝藏，出的谜语很糟。
+a dragon = 龙
+② Calling the school secretary a dragon says more about the speaker than about her.
+= 管学校秘书叫母老虎，说明的是说话人自己。
+a dragon = 凶悍难缠的女人（贬义，过时）
+③ The dragon boat race filled the river and the dragon lady in the film outlived the studio.
+= 龙舟赛挤满了整条河；片中那位「铁腕女子」比制片厂活得还久。
+a dragon boat = 龙舟
+a dragon lady = 强势凌人的女子（带东方主义色彩的旧说法）
+dragon lady 出自二十世纪的美国漫画，今天用要知道它带刻板印象。
+构词：希腊语 drakon 大蛇
+注意语域：说人那一支带性别偏见，今天避免使用。
 
-double
-核心：五支。一是两倍的、加倍（double the price）；
-二是双人的（a double room、a double bed）；
-三是替身与酷似的人（a body double、her double）；
-四是动词的「兼作」——double as something；
-五是网球与羽毛球的双打（doubles）。
-习语：at the double 与 on the double 都是「快步、立刻」，
-double back 是原路折回，double up 是（因笑或疼）弯下腰、也指两人合用，
-double-cross 是出卖同伙，see double 是看东西重影，
-a double standard 是双重标准，a double take 是愣一下才反应过来。
-形容词 doubly 是「加倍地」；doublespeak 是模棱两可的官腔，
-doublethink 是同时相信两件矛盾的事（出自《一九八四》）；
-a doublet 是紧身上衣（历史服饰）。
-① The price has doubled since the line closed and the service is worse.
-= 自从那条线停运，价钱翻了一倍，服务还更差。
-double = 翻倍
-② They asked for a double room and were given two singles on different floors.
-= 他们要的是双人间，拿到的是不同楼层的两间单人房。
-a double room = 双人间
-③ The kitchen doubles as an office and neither function is comfortable.
-= 那间厨房兼作办公室，两样都不好用。
-double as something = 兼作某用
-④ Come back at the double — the tide is already over the path.
-= 快步回来 —— 潮水已经漫过小路了。
-at the double = 快步、立刻
-⑤ They doubled back along the ridge and reached the car from the other side.
-= 他们沿山脊原路折回，从另一边回到了车旁。
-double back = 原路折回
-⑥ Half the room doubled up laughing and the speaker carried on regardless.
-= 半屋子人笑得直不起腰，讲话的人照讲不误。
-double up = 笑得弯下腰；也指两人合用一间或一物
-⑦ He was double-crossed by the only person who knew the whole plan.
-= 出卖他的，正是唯一知道全盘计划的那个人。
-double-cross somebody = 出卖同伙
-⑧ She did a double take at a name she had not seen for thirty years.
-= 看到一个三十年没见过的名字，她愣了一下才反应过来。
-do a double take = 愣一下才反应过来
-⑨ Applying that rule to one side only is a double standard and everybody says so.
-= 那条规矩只对一边用，就是双重标准，人人都这么说。
-a double standard = 双重标准
-⑩ The concussion made him see double for two days.
-= 脑震荡让他看东西重影，持续了两天。
-see double = 看东西重影
-⑪ The announcement was doublespeak and took three readings to say nothing.
-= 那份声明满是官腔，读三遍也没说出什么。
-doublespeak = 模棱两可的官腔
-⑫ Doublethink is holding two contradictory beliefs and being comfortable with both.
-= 双重思想就是同时抱着两个矛盾的信念，还都心安理得。
-doublethink = 双重思想
-⑬ She is doubly qualified and gets asked to prove it twice as often.
-= 她有双重资历，被要求证明的次数也是别人的两倍。
-doubly = 加倍地
-⑭ The doublet and hose in that portrait cost more than the sitter's house.
-= 那幅肖像里的紧身上衣与紧腿裤，比画中人的房子还贵。
-a doublet = 紧身上衣（历史服饰）
-文艺复兴时期男装的上衣，常与 hose 连说。
-⑮ The double act split after twenty years and each half toured a double bill alone.
-= 那对搭档合作二十年后拆伙，两边各自带着双主打的演出单飞。
-a double act = 双人搭档（表演）
-a double bill = 双主打的演出场次
-a double feature = 一票两片的连映
-a double-header = 一日双赛（体育）
-四个词都说「一次给两份」：搭档、场次、片子、比赛。
-⑯ The double agent ran a double life for eleven years and was caught by a double bluff.
-= 那名双面间谍过了十一年的双重生活，最后栽在一次双重虚晃上。
-a double agent = 双面间谍
-a double life = 双重生活
-a double bluff = 双重虚晃（假装虚张声势其实说真话）
-a double-dealer = 两面三刀的人
-double-dealing = 两面三刀
-这一族都取「表里两套」的意思。
-⑰ The clause put them in a double bind and the lawyer called it double jeopardy.
-= 那个条款让他们进退两难，律师管它叫一事两审。
-a double bind = 进退两难的处境
-double jeopardy = 一事不再理（对同一罪名二次受审）
-a double negative = 双重否定
-double jeopardy 是英美法上的原则：同一罪名不得二次受审。
-⑱ The joke was a double entendre and half the room heard only the innocent half.
-= 那个笑话一语双关，半屋子人只听出了干净的那一半。
-a double entendre = 一语双关（多含猥亵的第二层）
-double Dutch = 听不懂的话（英式）
-double-talk = 含混其辞的说法
-三个都说话里有话或话说不清，语气各不相同。
-⑲ He has a double-barrelled name, a double chin and a double-breasted coat he never buttons.
-= 他有个双姓、一个双下巴，还有件从不扣扣子的双排扣大衣。
-double-barrelled = 双筒的；也说英式的双姓
-a double chin = 双下巴
-double-breasted = 双排扣的
-double-sided = 双面的
-double-jointed = 关节柔韧过人的
-英式的 a double-barrelled name 指中间带连字符的复姓。
-⑳ The trial was double-blind, the room was double-booked, and somebody had to double-check both.
-= 那场试验是双盲的，会议室被重复预订，两件事都得有人复核。
-double-blind = 双盲的（试验设计）
-double-book = 重复预订
-double-booking = 重复预订（名词）
-double-check = 复核一遍
-双盲指试验者与受试者都不知道分组。
-㉑ Double-click the icon, double-park outside if you must, and do not double-dip the spoon.
-= 双击那个图标；实在不行就并排停一下车；勺子别蘸两回。
-double-click = 双击
-double-park = 并排停车（挡住别人）
-double-dip = 一勺蘸两回；也指重复领取好处
-double-dip 在经济里还有另一支，见下一条。
-㉒ A double-dip recession is two downturns with a false dawn in the middle.
-= 二次探底式衰退，就是中间夹着一次假回暖的两轮下滑。
-a double-dip recession = 二次探底式衰退
-a double whammy = 接连两重打击
-double whammy 是口语，说祸不单行。
-㉓ Double cream goes into the double boiler and neither of them behaves as expected.
-= 高脂奶油倒进双层锅，两样都不按预想来。
-double cream = 高脂厚奶油（英式）
-a double boiler = 双层隔水锅
-a double date = 两对情侣一起出去
-英式 double cream 脂肪含量高，跟美式 heavy cream 相当。
-㉔ The double-decker was double-glazed, which the driver said made the noise worse.
-= 那辆双层巴士装了双层玻璃，司机说反而更吵。
-a double-decker = 双层巴士；也指双层三明治
-double glazing = 双层玻璃
-double-glaze something = 给某物装双层玻璃
-double-glazed = 装了双层玻璃的
-double glazing 是英国房产广告里的常客。
-㉕ Inflation stayed in double figures for a year and wage rises never reached double digits.
-= 通胀在两位数上待了一年，工资涨幅却从没到过两位数。
-double figures = 两位数（英式）
-double digits = 两位数（美式）
-double-figure = 两位数的（英式定语）
-double-digit = 两位数的（美式定语）
-英式说 figures，美式说 digits，意思一样。
-㉖ They worked double time on Sunday and finished double quick because of the forecast.
-= 他们周日拿双倍工资加班，因为天气预报，干得飞快。
-double time = 双倍工资的加班
-double quick = 飞快地（口语）
-a double top = 飞镖里的上方双倍区；股市里的双顶形态
-double time 在音乐里另指速度加倍。
-㉗ A double fault at set point and a double play in the ninth ended two different games.
-= 盘点上的双误，和第九局的双杀，各自终结了一场比赛。
-a double fault = 双误（网球连续两次发球失误）
-a double play = 双杀（棒球）
-double vision = 复视（看东西重影）
-三个都是各自领域的固定说法。
-㉘ The double helix was drawn on a blackboard before anybody had the double precision to model it.
-= 早在有人用双精度去建模之前，双螺旋就已经画在黑板上了。
-the double helix = 双螺旋
-double precision = 双精度（计算机）
-double decomposition = 复分解（化学）
-三个词分属生物、计算机与化学，共用的是「双」这个意思。
-㉙ The cellist practised double-stopping, the score had a double bar, and the bassoonist played the double bassoon.
-= 大提琴手练双音，谱上有个终止双线，巴松手吹的是倍低音管。
-double-stopping = 双音演奏（弦乐）
-a double bar = 终止双线（乐谱）
-a double bassoon = 倍低音管
-a double rhyme = 双韵
-都是音乐与诗律里的术语。
-㉚ He doubled over with laughter and the understudy doubles up as the stage manager.
-= 他笑得直不起腰；替补演员还兼着舞台监督。
-double over = （因笑或疼）弯下腰
-double up as something = 兼作某职
-a double-action mechanism = 双动机构
-double up 与 double over 常通用，说身体弯折。
-㉛ A double-double in that league means ten or more in two statistical categories.
-= 在那个联赛里，两双指的是有两项统计上双。
-a double-double = 两双（篮球）
-篮球统计用语，三项上双叫 a triple-double。
-㉜ The compliment was double-edged and double-entry bookkeeping would not have hidden it.
-= 那句恭维话是把双刃剑，就算用复式记账也遮不住。
-double-edged = 双刃的、两面都有作用的
-double-entry bookkeeping = 复式记账
-a double-edged sword 是最常见的说法：好处里带着坏处。
-构词：拉丁语 duplus 两倍的
-注意用法：at the double 是英式，on the double 是美式，意思一样。
+dragonfly
+核心：蜻蜓：翅膀透明、停下来时平摊的水边昆虫。可数，
+复数 dragonflies。跟豆娘 damselfly 的分别在于停歇时翅膀摊平还是合拢。
+① A dragonfly hung over the same patch of water for most of the afternoon.
+= 一只蜻蜓大半个下午都悬停在同一片水面上。
+a dragonfly = 蜻蜓
+② Dragonflies hunt on the wing and hardly ever land where you can photograph them.
+= 蜻蜓在飞行中捕食，几乎从不停在你拍得到的地方。
+dragonflies = 蜻蜓（复数）
+构词：dragon 加 fly
+注意别混：蜻蜓停下翅膀摊平，豆娘合拢竖着。
 
-doubloon
-核心：（历史）达布隆金币：西班牙旧时的金币，
-如今几乎只出现在海盗故事与钱币收藏里。可数。
-① The chest held three doubloons and a great deal of disappointment.
-= 那口箱子里有三枚金币，和一大堆失望。
-a doubloon = 达布隆金币
-② Doubloons turn up in every pirate story and in very few museums.
-= 海盗故事里处处是这种金币，博物馆里却难得一见。
-doubloons = 达布隆金币（复数）
-构词：西班牙语 doblón「加倍的（币）」
-注意语域：历史与故事里的词。
+dragoon
+核心：两支。一是（历史）龙骑兵：骑马机动、下马作战的士兵，
+英国有几支团至今保留这个名号；二是动词「强迫」——
+dragoon somebody into doing something。可数。
+① The dragoons were cavalry in name and infantry in almost every battle.
+= 那些龙骑兵名义上是骑兵，几乎每场仗打的都是步兵。
+a dragoon = 龙骑兵
+② She was dragooned into chairing a committee she had tried to abolish.
+= 她被硬拉去主持一个自己曾想撤掉的委员会。
+dragoon somebody into doing something = 强迫某人做某事
+dragoon somebody into something = 硬逼某人接下某事
+写作 dragoon into doing something：宾语放中间，后面接名词或动名词都行，
+而且几乎总用被动 be dragooned into。
+构词：法语 dragon —— 龙骑兵早期用的火铳喷火像龙
+注意用法：动词几乎总用被动 be dragooned into something。
 
-doubt
-核心：怀疑：名词与动词都常用。名词不可数为主（in doubt），
-可数时说 doubts about something；动词是「不确定、不相信」
-（I doubt it、doubt whether…）。
-六个说法要一起记：no doubt 是「多半、想必」，without a doubt 是「毫无疑问」，
-in doubt 是「尚不确定」，beyond doubt 是「无可置疑」，
-give somebody the benefit of the doubt 是「姑且信他」，
-cast doubt on something 是「使某事受到质疑」。
-形容词 doubtful 说「怀疑的、难说的」，副词 doubtfully；
-doubtless 是「多半、想来」；a doubter 是怀疑者。
-① I doubt whether the second van will get down that lane at all.
-= 第二辆货车能不能开进那条小巷，我很怀疑。
-doubt whether… = 怀疑是否……
-② No doubt he meant well and the result was the same either way.
-= 想必他是好意，可结果反正一样。
-no doubt = 想必、多半
-③ Without a doubt it was the best thing on the programme.
-= 毫无疑问，那是整台节目里最好的。
-without a doubt = 毫无疑问
-④ The date is still in doubt and the invitations have already gone out.
-= 日期还没定，请柬倒已经发出去了。
-be in doubt = 尚不确定
-⑤ Her account was proved beyond doubt by a receipt she had kept for no reason.
-= 她的说法被一张她无缘无故留着的收据证明得无可置疑。
-beyond doubt = 无可置疑
-⑥ They gave him the benefit of the doubt twice and regretted it on the third occasion.
-= 他们姑且信了他两回，第三回就后悔了。
-give somebody the benefit of the doubt = 姑且相信某人
-⑦ One photograph cast doubt on a story that had stood for eleven years.
-= 一张照片让一个立了十一年的说法受到质疑。
-cast doubt on something = 使某事受到质疑
-⑧ It is doubtful whether the roof will last another winter.
-= 那屋顶能不能再撑一个冬天，很难说。
-be doubtful whether… = 是否……很难说
-⑨ Doubtless there is a form for this and doubtless nobody has it.
-= 想来这事有张表要填，也想来没人手上有。
-doubtless = 想必、多半
-⑩ A doubter at the back asked the question everybody else had swallowed.
-= 后排一位心存怀疑的人，问出了别人都咽回去的那个问题。
-a doubter = 心存怀疑的人
-多用于宗教与科学争论的语境。
-⑪ He looked doubtfully at the ladder and then climbed it anyway.
-= 他将信将疑地看了看那架梯子，还是爬了上去。
-look doubtfully at something = 将信将疑地看着某物
-副词说动作里带着不确定。
-⑫ There is a doubting Thomas in every room and usually more than one.
-= 每个屋子里都有一个多疑的人，通常还不止一个。
-a doubting Thomas = 非见不信的人
-出自《约翰福音》里那位不见伤痕不肯信的门徒。
-构词：拉丁语 dubitare 犹疑
-注意用法：肯定句里 doubt 后面接 whether 或 if，否定句里接 that。
+dragster
+核心：直线加速赛车：为四百米直线冲刺造的车，前轮小后轮极大。可数。
+那项比赛叫 drag racing。
+① The dragster covered the strip in under five seconds and needed a parachute to stop.
+= 那辆直线赛车不到五秒跑完全程，靠降落伞才停下来。
+a dragster = 直线加速赛车
+② Drag racing was illegal on that road and popular on it every Saturday night.
+= 那条路上禁止直线竞速，每个周六晚上照样有人赛。
+drag racing = 直线加速赛
+构词：drag 加 -ster
+注意用法：赛事说 drag racing，车叫 a dragster。
 
-douche
-核心：两支。一是冲洗：用水冲洗身体某处，尤指阴道冲洗（医学上多不建议）；
-二是美式俚语 a douche 或 douchebag，骂人「讨厌鬼」，语气不客气。
-名词动词同形。
-① Doctors advise against douching and the shelves are full of products for it.
-= 医生不建议做阴道冲洗，货架上却摆满了相关产品。
-douche = 冲洗（尤指阴道冲洗）
-② Calling somebody a douche says more about the speaker than the person.
-= 骂人家讨厌鬼，说明的是说话人自己。
-a douche = 讨厌鬼（美式俚语，粗）
-③ Calling somebody a douchebag online is the fastest way to end a thread.
-= 在网上骂人这个词，是终结一个帖子最快的办法。
-a douchebag = 讨厌鬼（美式俚语，粗）
-跟 a douche 同义，都是粗话，读到认得就好。
-构词：法语 douche 淋浴，来自意大利语 doccia
-注意语域：骂人那一支粗俗，读到能认得就好。
-
-dough
-核心：两支。一是面团：面粉加水揉成的那一坨；
-二是（旧，口语）钱。不可数。
-形容词 doughy 说「面糊糊的、发黏没烤透的」；
-甜甜圈的英式拼法是 a doughnut。
-① The dough needs an hour in a warm place and the kitchen is never warm.
-= 那团面要在暖处醒一个钟头，可厨房从来不暖。
-dough = 面团
-② The middle was doughy and the edges were burnt, which took some doing.
-= 中间没烤透，边上却焦了，这也算本事。
-be doughy = 发黏没烤透的
-③ He made serious dough in two years and lost most of it in one.
-= 他两年里挣了不少钱，一年就赔掉了大半。
-dough = 钱（旧口语）
-④ The doughnut fryer starts at four and the smell reaches two streets away.
-= 炸甜甜圈的机器四点开工，香味飘出两条街。
-a doughnut = 甜甜圈（英式拼法）
-美式写 donut，说的是同一样东西。
-构词：古英语 dāg
-注意用法：说钱那一支偏旧，今天多说 cash、money。
-
-doughty
-核心：（旧或文学）刚勇的：不畏难、敢于硬碰硬 —— 褒义，
-今天多带一点仿古的调侃。形容词。
-① A doughty campaigner in her eighties led the objection and won it.
-= 一位八十多岁的硬骨头活动家带头反对，还赢了。
-a doughty campaigner = 刚勇的活动家
-② The team put up a doughty performance and lost by a single point.
-= 那支队打得很硬，只输了一分。
-a doughty performance = 硬气的表现
-构词：古英语 dohtig 有能力的
-注意语域：旧词、文学词；今天多用于半开玩笑的赞许。
-
-doula
-核心：陪产员：在分娩前后提供陪伴与非医疗支持的人 ——
-跟助产士不同，doula 不做临床处置。可数。
-① The doula stayed for eleven hours and made more tea than anybody drank.
-= 那位陪产员待了十一个钟头，泡的茶比谁喝的都多。
-a doula = 陪产员
-② A doula supports the family and a midwife delivers the baby.
-= 陪产员照顾一家人，助产士才是接生的那个。
-a doula = 产前产后的陪伴支持者
-构词：希腊语 doule 女仆
-注意别混：doula 不做医疗处置，midwife 是有资质的助产士。
-
-dour
-核心：阴沉寡言的：面无表情、不苟言笑 —— 说人也说地方与气氛。形容词，
-副词 dourly。带一点冷硬的味道，不全是贬义。
-① The porter is dour with strangers and remembers every child's name.
-= 那位门房对生人不苟言笑，却记得每个孩子的名字。
-be dour = 阴沉寡言的
-② He accepted the award dourly and left before the photographs.
-= 他绷着脸领了奖，没等拍照就走了。
-accept something dourly = 绷着脸接受某物
-构词：可能来自盖尔语，一说来自拉丁语 durus 硬
-注意用法：读音接近 poor，不读成 sour。
-
-douse
-核心：两支。一是浇灭：泼水把火扑灭；二是浇透：把水或液体大量泼上去。
-及物动词，也拼 dowse。
-① They doused the fire with sand because the hose reached only halfway.
-= 水管只够到一半，他们用沙把火扑灭了。
-douse a fire = 扑灭火
-② She was doused by a lorry going through the same puddle twice.
-= 一辆卡车两次开过同一个水坑，把她浇了个透。
-be doused = 被浇透
-构词：来源不确，十六世纪起
-注意别混：douse 是浇灭或浇透，dowse 另有「用探杖找水」的意思。
-
-dove
-核心：三支。一是鸽子：多指白鸽，是和平的象征；
-二是政治上的「鸽派」：主张谈判而非动武的人，跟 hawk 鹰派相对；
-三是美式里 dive 的过去式。可数。
-鸽舍叫 a dovecote；动词 dovetail 是「严丝合缝地配合」，
-本义是木工的燕尾榫。
-① A dove on the roof of a church is a photograph waiting to be taken.
-= 教堂屋顶上落一只白鸽，等着人来拍。
-a dove = 鸽子
-② The doves in the cabinet were outnumbered and outlasted by the hawks.
-= 内阁里的鸽派人数不敌鹰派，也没鹰派待得久。
-a dove = 鸽派（主张和谈的人）
-③ Their schedules dovetail neatly and neither of them planned it.
-= 他们的日程严丝合缝，两个人都不是有意安排的。
-dovetail = 严丝合缝地配合
-④ The dovecote was restored and the birds moved into the church tower instead.
-= 那座鸽舍修好了，鸽子却搬进了教堂钟楼。
-a dovecote = 鸽舍
-旧庄园里常见的石砌鸽舍，也拼 dovecot。
-⑤ The dovish wing of the party won the vote and lost the argument afterwards.
-= 党内鸽派赢了投票，事后却输了道理。
-dovish = 鸽派的、主张缓和的
-跟 hawkish 鹰派的相对，多用于外交与货币政策。
-构词：古北欧语 dūfa
-注意别混：dove 作鸽子读作长音，作 dive 的过去式也同形，靠句子分。
-
-dowager
-核心：（正式）继承亡夫爵位与产业的贵妇：the dowager duchess 是太夫人。
-可数。今天也戏谑地说气派十足的老太太。
-① The dowager duchess kept the title and moved into the smaller house.
-= 那位太夫人保留了封号，搬进了小些的宅子。
-a dowager duchess = 公爵太夫人
-② She sat like a dowager at the head of a table she did not own.
-= 她像位老太夫人一样坐在一张并不属于她的桌子的主位上。
-like a dowager = 像位老派贵妇
-构词：古法语 douagiere，与 dower 同源
-注意语域：爵位语境是正式的，比喻用法带戏谑。
-
-dowdy
-核心：（贬义）土气过时的：说衣着与打扮不讲究、显得沉闷。形容词，
-多用来说女性，带性别偏见，今天用要当心。
-① The uniform was dowdy on purpose and the students had altered it within a term.
-= 那套校服是故意做得土气的，学生一学期之内就自己改了。
-be dowdy = 土气过时的
-② She was called dowdy by people who had never seen her out of uniform.
-= 说她土气的那些人，从没见过她不穿制服的样子。
-call somebody dowdy = 说某人土气
-构词：中古英语 dowd 邋遢的女人
-注意语域：贬义且带性别偏见；说衣着朴素用 plain、understated。
-
-dowel
-核心：木榫钉：把两块木头对接起来用的圆木棒，也说金属的销钉。可数，
-常说 a dowel joint。
-① The shelf is held by two dowels and a great deal of optimism.
-= 那块搁板靠两根木榫钉，外加满满的乐观撑着。
-a dowel = 木榫钉
-② A dowel joint is invisible and unforgiving of any mistake in the drilling.
-= 榫钉接合看不出接缝，可钻孔一错就没法补救。
-a dowel joint = 榫钉接合
-③ Dowelling is sold by the metre and the length you need is never on the shelf.
-= 圆木条按米卖，你要的那个长度货架上永远没有。
-dowelling = 圆木条（做榫钉用的长料）
-美式拼 doweling。
-构词：中古英语，可能来自低地德语
-注意语域：木工与家具组装用语。
-
-dower
-核心：（法律，旧）寡妇产：丈夫去世后遗孀依法可得的那一份财产。
-不可数或可数。今天几乎只在历史与法律史里读到。
-① Her dower was a third of the estate and the courts argued about it for years.
-= 她的寡妇产是遗产的三分之一，法院为此争了好些年。
-a dower = 寡妇产
-② The dower house stands empty and the family cannot agree who should have it.
-= 那座寡妇宅空着，家里人谈不拢该归谁。
-a dower house = 寡妇宅（庄园里留给遗孀住的房子）
-构词：古法语 douaire，与 dowager 同源
-注意别混：dower 是寡妇依法所得，a dowry 是女方出嫁时带过去的嫁妆。
-
-down
-核心：底层是「朝低处去」。这个词的难处不在意思，在词性 —— 同一个形式
-能当副词、介词、形容词、动词和名词，靠位置分：
-副词说方向（sit down）；介词后面接一段路或一条线（down the street）；
-形容词说情绪低落或系统停摆（I'm feeling down、the server is down）；
-动词是把东西打下来或一口灌下去；名词有两支来路不同的义 ——
-鸟身上的绒毛，以及英格兰南部那种起伏的白垩草丘（the downs）。
-引申一路都从「低」来：数量往低处走（prices are down）、
-把话落到纸上（write it down）、把事情往下压到根子上（get down to）。
-① Sit down, please — this may take rather longer than you think.
-= 请坐，这事可能比你想的要久。
-sit down = 坐下
-副词的最基本一支：动作朝低处。
-② She walked down the street without looking at any of the shops.
-= 她沿街走了过去，一家店也没看。
-down the street = 沿街往那头
-介词用法，后面接一段路或一条线，不一定真有高低。
-③ Prices are down again this month, but only on the smaller sizes.
-= 这个月价格又跌了，不过只跌了小号的。
-be down = （数量、价格）下降
-说数字往低处走，作表语。
-④ Write it down before you forget which of them said what.
-= 趁还记得谁说了什么，先记下来。
-write something down = 把某事写下来
-把话落到纸上，这一路引申很能产。
-⑤ I've been feeling a bit down since the nights started drawing in.
-= 天开始黑得早以后，我一直有点低落。
-feel down = 情绪低落
-形容词用法，说心情，不说重度抑郁。
-⑥ The server has been down all morning and nobody can log in.
-= 服务器一上午都停着，谁也登不进去。
-be down = （系统、机器）停机
-跟上一条同形，主语是机器就是这个意思。
-⑦ The fighter was downed by a missile a few miles short of the coast.
-= 那架战机在离海岸几英里处被导弹打了下来。
-down a plane = 击落飞机
-动词的第一支：把飞在空中的东西弄下来。
-⑧ He downed his pint in one go and asked for another.
-= 他一口把那杯啤酒干了，又要了一杯。
-down a drink = 一口喝干
-动词的第二支：往下灌，口语。
-⑨ The miners downed tools at noon and walked out through the gates.
-= 矿工中午撂了工具，从大门走了出去。
-down tools = 撂挑子罢工（英式）
-把工具往下一放，这是英式罢工的固定说法。
-⑩ The pillow is filled with duck down and weighs almost nothing.
-= 那个枕头填的是鸭绒，几乎没有分量。
-duck down = 鸭绒
-名词的第一支：鸟身上最贴身的那层软毛。
-⑪ They walked all day on the downs and saw nobody but a shepherd.
-= 他们在白垩草丘上走了一天，只碰见一个牧羊人。
-the downs = 起伏的白垩草丘（英式）
-名词的第二支，恒用复数，是英格兰南部特有的地貌。
-⑫ We put down a deposit and lost it when the survey came back.
-= 我们付了定金，勘查报告一出来就打了水漂。
-put down a deposit = 付定金
-把钱先放下一部分，跟下一条的首付是同一个思路。
-⑬ They saved for three years for a down payment on a small flat.
-= 他们攒了三年钱，付了一套小公寓的首付。
-a down payment = 首付
-买房买车时先付的那一笔，其余分期。
-⑭ He ended up down and out in a city where he knew nobody.
-= 他最后在一座举目无亲的城市里潦倒街头。
-down and out = 穷困潦倒、无家可归
-名词写作 a down-and-out，指流落街头的人。
-⑮ She is very down to earth for someone with that much money.
-= 有那么多钱的人里，她算是很实在的。
-down to earth = 务实、不摆架子
-褒义，说人不虚浮、讲实际。
-⑯ It all comes down to money in the end, whatever they say.
-= 不管他们怎么说，到头来还是钱的事。
-come down to = 归根到底在于
-把一件事一层层往下压到根子上。
-⑰ The delay is down to the weather rather than anything we did.
-= 这次延误是天气造成的，不是我们做了什么。
-be down to = 由……造成；也指只剩下
-第二个义说所剩无几：we're down to our last box。
-⑱ Let's get down to business; we have forty minutes and six items.
-= 咱们言归正传，四十分钟，六项议题。
-get down to = 着手做正事
-后面接名词或动名词，说不再绕弯子。
-⑲ The joke went down well with everyone except the person it was about.
-= 那个玩笑除了被说的那个人，大家都受用。
-go down well = 反应好、受欢迎
-反过来说 go down badly；主语是话、表演或提议。
-⑳ Don't let me down — I have told them you can do it.
-= 别让我失望，我跟他们说了你能行。
-let somebody down = 让某人失望
-名词是 a letdown，指令人失望的事。
-㉑ We'll know more further down the line, once the trial reports.
-= 等试验出了结果，往后我们会知道得更多。
-down the line = 将来某个时候
-也指整条流程往下的各个环节。
-㉒ He looked up and down the platform but she was not there.
-= 他把站台从头看到尾，她并不在。
-up and down = 来来回回、上上下下
-成对出现，说反复或说整个范围。
-㉓ She has a downer on him and will not say why.
-= 她看他不顺眼，又不肯说为什么。
-have a downer on = 对某人有成见（英式口语）
-名词 a downer 也指扫兴的事。
-㉔ He has been down in the mouth all week and eats almost nothing.
-= 他一整周垂头丧气，几乎不吃东西。
-down in the mouth = 垂头丧气
-形容神情，从嘴角往下耷拉来的。
-㉕ All that money went down the drain when the company folded.
-= 公司一垮，那些钱全打了水漂。
+drain
+核心：五支。一是排水沟与下水道（block the drain）；
+二是动词「排干、流干」（drain the water away）；
+三是「耗尽」：说钱、精力、资源被抽走（drain resources）；
+四是名词的「负担」——a drain on something；
+五是习语 go down the drain：白白浪费掉。
+名词 drainage 是排水系统；drained 说人「累瘫的」；
+排水管叫 a drainpipe。
+① The drain blocks every autumn and the leaves are always somebody else's.
+= 那条排水沟一到秋天就堵，落叶永远是别人家的。
+a drain = 排水沟、下水道
+② Drain the water off before you weigh the potatoes.
+= 称土豆之前先把水沥干。
+drain something off = 把某物沥干、排走
+③ The scheme was a drain on the budget for four years and produced two reports.
+= 那个项目吃了四年预算，产出两份报告。
+a drain on something = 对某物的持续消耗
+④ Ten years of savings went down the drain in one bad decision.
+= 十年的积蓄因为一个错误决定打了水漂。
 go down the drain = 白白浪费掉
-比喻很直白：顺着下水道流走了。
-㉖ Two down, three to go, and the light is already going.
-= 搞定两个还剩三个，天已经在黑了。
-two down = 已经完成两个
-口语里数进度用它，后面常跟 to go。
-㉗ The tree came down in the storm and took the fence with it.
-= 那棵树在风暴里倒了，连篱笆一起压塌了。
-come down = 倒下、掉下来
-主语是树、飞机、雨雪。
-㉘ Down with the tyrant! The words were still on the wall in the morning.
-= 「打倒暴君」——那几个字第二天早上还在墙上。
-down with = 打倒（口号）
-只用于口号与标语，后面直接接被反对的对象。
-㉙ He came down with flu the week before his final exams.
-= 期末考前一周，他得了流感。
-come down with = 染上（小病）
-这一支的重心其实在 come，收在这里是因为 down 那个方向感 —— 病把人放倒。
-㉚ Two years down the line nobody remembers who objected to the plan.
-= 两年之后，没人记得当初是谁反对那个计划。
-down the line = 到后来、往后
-说时间上往后推；也说 further down the line。
-㉛ The down jacket weighs nothing and takes up half the rucksack.
-= 那件羽绒服没什么重量，却占了半个背包。
-a down jacket = 羽绒服
-这里的 down 是羽绒那一支，跟方向无关。
-㉜ They went downstairs, walked downtown, and were downstream of the works within an hour.
-= 他们下了楼，往市中心走，一小时之内就到了工厂的下游。
-downstairs = 楼下、下楼
-downtown = 市中心（美式）
-downstream = 在下游；也说产业链下游
-downtown 是美式说法；英式说市中心用 the town centre。
-㉝ The company downsized twice and called the second round downsizing rather than redundancy.
-= 那家公司裁了两轮员，第二轮管它叫「精简」而不是裁员。
-downsize = 缩减规模、裁员
-downsizing = 缩编（委婉说法）
-a downturn = 下滑、衰退
-a downtrend = 下行趋势
-downsizing 是典型的委婉语，实质就是裁员。
-㉞ Nobody downplayed the downside and the presentation was the better for it.
-= 没人淡化其中的不利面，那场汇报反倒因此更好。
-downplay something = 淡化某事
-the downside = 不利的一面
-downright = 十足的、彻头彻尾的（加强语气）
-downright 作副词加强语气：downright rude 是「简直无礼」。
-㉟ The downpour filled the downpipe, the downspout burst, and the downdraught blew smoke back inside.
-= 一场倾盆大雨灌满了落水管，排水管爆开，下沉气流把烟又吹回了屋里。
-a downpour = 倾盆大雨
-a downpipe = 落水管（英式）
-a downspout = 落水管（美式）
-a downdraught = 下沉气流
-英式 downpipe、美式 downspout，说的是同一根管子。
-㊱ The line went downmarket, the brand went downscale, and the shares took a downtick.
-= 那个产品线走了低端路线，牌子档次下滑，股价也小跌了一下。
-go downmarket = 走低端路线（英式）
-downscale = 低端的（美式）；也指缩减
-a downtick = 小幅下跌
-英式 downmarket、美式 downscale，语气都带贬。
-㊲ Downtime on that machine costs more per hour than the downgrading of the whole line.
-= 那台机器每小时的停机损失，比整条线降级的成本还高。
-downtime = 停机时间；也指休息时间
-downgrading = 降级（名词）
-a downswing = 下行、下滑阶段
-downtime 在口语里也说个人的休息时间。
-㊳ The downtrodden characters get the last word and the downlighter above them flickers.
-= 那些受尽欺压的角色说了最后一句话，他们头顶的射灯还在闪。
-downtrodden = 受尽欺压的
-a downlighter = 向下照的射灯
-a downlink = 下行链路（卫星通信）
-downtrodden 偏文学，多说被制度压着的人。
-㊴ They walked downriver, cycled downwind, and drifted downwards without meaning to.
-= 他们沿河而下，顺风骑行，不知不觉往下漂。
-downriver = 沿河而下
-downwind = 顺风的、顺风地
-downwards = 向下（英式）
-downward = 向下的
-downwardly = 向下地
-英式副词多写 downwards，美式多写 downward。
-㊵ The post was downvoted within a minute and the downy chick in the photograph became a meme.
-= 那个帖子一分钟内就被踩了下去，照片里那只绒毛小鸡倒成了梗。
-downvote something = 给某物投反对票、点踩
-downy = 覆着绒毛的
-downstage = 舞台前部
-downshift = 降挡；也指放慢生活节奏
-downstate = 州的南部（美式）
-downvote 是论坛用语；downy 说的是 down 羽绒那一支。
-构词：古英语 ofdune 从山丘下来
-注意词性：同一个形式能作副词、介词、形容词、动词与名词，靠位置分。
+⑤ She came home drained and slept through the whole of Sunday.
+= 她回到家累瘫了，整个周日都在睡。
+be drained = 累瘫的
+⑥ The drainage in that field has not worked since the ditch was filled in.
+= 自从那条沟被填了，那块地的排水就没好使过。
+drainage = 排水（系统）
+⑦ The drainpipe came away from the wall in the storm and took two brackets with it.
+= 暴风雨里那根落水管从墙上脱落，还带下来两个托架。
+a drainpipe = 落水管
+英式的窄腿裤也叫 drainpipe trousers，说的是它像管子一样细。
+构词：古英语 drēahnian 滤干
+注意用法：说消耗用 a drain on something，介词固定用 on。
+
+drake
+核心：公鸭：跟母鸭 a duck 相对，一群鸭子统称还是 ducks。可数。
+① The drake has the bright feathers and the duck does all the sitting.
+= 公鸭长着鲜亮的羽毛，孵蛋的活全归母鸭。
+a drake = 公鸭
+② Two drakes and five ducks came with the pond and none of them was invited.
+= 那口池塘连着两只公鸭五只母鸭一起来的，谁也没请它们。
+drakes = 公鸭（复数）
+构词：中古英语 drake
+注意用法：说一群鸭子仍用 ducks，不用 drakes。
+
+dram
+核心：两支。一是（苏格兰）一小杯威士忌：a wee dram 是最常听到的说法；
+二是旧的重量单位达兰，约一盎司的十六分之一。可数。
+① He poured a wee dram for anybody who mentioned the weather.
+= 谁提起天气，他就给谁倒一小杯威士忌。
+a wee dram = 一小杯威士忌（苏格兰说法）
+② The recipe is in ounces and drams and nobody owns a scale that reads either.
+= 那个方子用盎司和达兰计量，可谁的秤都读不出这两种单位。
+a dram = 达兰（旧重量单位）
+构词：希腊语 drachme，与 drachma 同源
+注意语域：威士忌那一支带苏格兰色彩，用得最广。
+
+drama
+核心：三支。一是戏剧：作为艺术门类（study drama）；
+二是一出戏、一部剧（a television drama）；
+三是现实里的「戏剧性事件、闹剧」——make a drama out of something
+是「小题大做」。可数不可数都行。
+学戏剧的人称 dramatics 时多带贬义（说人做作）。
+① She studied drama and has made a living from it for thirty years.
+= 她学的是戏剧，靠它谋生三十年。
+drama = 戏剧（这门艺术）
+② The television drama ran for six series and killed off its lead twice.
+= 那部电视剧拍了六季，把主角写死过两回。
+a drama = 一部剧
+③ He makes a drama out of a delayed train and enjoys every minute of it.
+= 火车晚点他都能演成一出大戏，还乐在其中。
+make a drama out of something = 小题大做
+④ Her dramatics at the meeting were noted by everybody and mentioned by nobody.
+= 她在会上那番做作，人人看在眼里，谁也没提。
+dramatics = 做作的表现（贬义）
+⑤ Drama school takes three years and teaches breathing for most of the first one.
+= 戏剧学院读三年，第一年大半时间在教呼吸。
+drama school = 戏剧学院
+英国最有名的几所都在伦敦，入学竞争极激烈。
+⑥ The drama queen in that office is not the one anybody would guess.
+= 那间办公室里最爱小题大做的人，不是谁都猜得到的那个。
+a drama queen = 爱小题大做的人
+口语，带调侃；男女都能说。
+构词：希腊语 drama 行动、表演
+注意用法：说人爱闹戏用 make a drama out of something。
+
+dramatic
+核心：三支。一是戏剧的：说跟舞台有关的（dramatic art）；
+二是「引人注目的、剧烈的」：说变化、效果、改善（a dramatic improvement）——
+这是日常最常用的一支；三是说人「爱夸张、爱演」。副词 dramatically。
+① There has been a dramatic improvement since the second nurse was appointed.
+= 自从第二位护士到岗，情况有了显著改善。
+a dramatic improvement = 显著的改善
+② Numbers fell dramatically in the year the fee was introduced.
+= 收费开始那一年，人数骤然下降。
+fall dramatically = 骤然下降
+③ Do not be so dramatic — the train is four minutes late.
+= 别那么夸张 —— 火车才晚了四分钟。
+be dramatic = 爱夸张、爱演
+④ Dramatic irony works because the audience knows what the dramatic monologue conceals.
+= 戏剧反讽之所以有效，是因为观众知道那段独白隐瞒了什么。
+dramatic irony = 戏剧反讽
+a dramatic monologue = 戏剧独白
+两个都是文学分析里的术语。
+构词：drama 加 -ic
+注意用法：说数据变化剧烈是最常见的一支，跟戏剧无关。
+
+dramatis personae
+核心：剧中人物表：剧本开头列出的角色名单。拉丁语借词，只用复数形式，
+读音把每个音节都读出来。
+引申着也说一件事里的「涉事人物」。
+① The dramatis personae runs to forty names and eleven of them never speak.
+= 那份人物表列了四十个名字，其中十一个从不说话。
+the dramatis personae = 剧中人物表
+② The report sets out the dramatis personae before it says what happened.
+= 那份报告先把涉事的各方摆出来，才讲发生了什么。
+the dramatis personae = 涉事人物一览
+构词：拉丁语「剧中的人物」
+注意用法：形式上是复数，作主语时谓语可单可复。
+
+dramatist
+核心：剧作家：写剧本的人。可数，跟 playwright 同义，
+dramatist 更书面、更多用于文学史。
+① The dramatist rewrote the third act during the interval on the first night.
+= 首演当晚，那位剧作家在幕间改了第三幕。
+a dramatist = 剧作家
+② Two dramatists share a name in that period and the catalogues confuse them.
+= 那个时期有两位剧作家同名，目录里常把他们弄混。
+dramatists = 剧作家（复数）
+构词：drama 加 -ist
+注意别混：dramatist 偏书面，playwright 更常用。
+
+dramatize
+核心：两支。一是改编成戏：把小说或事件写成剧本
+（dramatize a novel）；二是「渲染夸大」：把事情说得比实际严重。
+及物动词，英式也拼 dramatise，名词 dramatization。
+① The novel was dramatized twice and neither version kept the ending.
+= 那部小说被改编过两次，两版都没保留原来的结局。
+dramatize something = 把某物改编成戏
+② He dramatizes every setback and forgets each one within a week.
+= 他把每次挫折都渲染一番，一周之内又全忘了。
+dramatize something = 渲染夸大某事
+③ The dramatization runs to six episodes and adds a character who never existed.
+= 那部改编剧共六集，还加了个根本不存在的人物。
+a dramatization = 改编剧
+构词：drama 加 -ize
+注意用法：改编义中性，渲染义带批评。
+
+dramaturgy
+核心：戏剧构作：把剧本变成能上演的东西那一整套工作 ——
+结构、节奏、文本处理都算。不可数，学术与剧场用语。
+干这活的人是 a dramaturge（也拼 dramaturg）。
+① Dramaturgy is the part of the work that the audience is not supposed to notice.
+= 戏剧构作正是不该让观众察觉的那部分工作。
+dramaturgy = 戏剧构作
+② The dramaturge cut two scenes and the play ran twenty minutes shorter.
+= 戏剧构作把两场戏砍掉，全剧短了二十分钟。
+a dramaturge = 戏剧构作者
+构词：希腊语 dramatourgia 编剧
+注意语域：剧场与戏剧研究里的专业用语。
+
+dramedy
+核心：正剧喜剧混合的作品：既有笑点也有沉重内容的影视剧。可数，
+复数 dramedies。近几十年才常用的合成词。
+① The series is a dramedy and the funniest episode is about a funeral.
+= 那部剧是喜正剧，最好笑的一集讲的是葬礼。
+a dramedy = 喜正剧
+② Awards panels dislike dramedies because they have to choose a category.
+= 评奖委员会不喜欢喜正剧，因为得给它归个类。
+dramedies = 喜正剧（复数）
+构词：drama 加 comedy
+注意语域：影视评论用语。
+
+drape
+核心：两支。一是（松松地）披挂：把布料垂着搭上去
+（drape a cloth over something）；二是名词的窗帘 —— 美式说 drapes，
+英式说 curtains。名词 drapery 说布料的悬垂感与织物；
+英式旧称卖布料的店主为 a draper。
+① She draped a coat over the back of the chair and forgot it there.
+= 她把外套搭在椅背上，就那么忘了。
+drape something over something = 把某物披搭在某处
+② The drapes were closed at four and the room went dark in the middle of the afternoon.
+= 窗帘四点就拉上，屋里下午一半就暗了。
+drapes = 窗帘（美式）
+③ The drapery in that painting took longer than the faces.
+= 那幅画里的衣褶，画的时间比脸还长。
+drapery = 布料的悬垂与衣褶
+④ The draper's shop closed in 1974 and the sign is still above the door.
+= 那家布店一九七四年关门，招牌还挂在门上。
+a draper = 布商（英式，旧）
+构词：古法语 draper，来自 drap 布
+注意用法：美式 drapes、英式 curtains，说的是同一样东西。
+
+drastic
+核心：极端而彻底的：说措施、变化、办法下手很重 ——
+多用在不得已的场合，语气偏负面。形容词，副词 drastically。
+① Drastic measures were taken and two of them worked.
+= 采取了极端的措施，其中两条起了作用。
+drastic measures = 极端的措施
+② Numbers were drastically reduced and the waiting list grew anyway.
+= 名额被大幅削减，等候名单反倒更长了。
+be drastically reduced = 被大幅削减
+构词：希腊语 drastikos 有效力的
+注意别混：drastic 强调手段激烈，dramatic 强调效果显著。
+
+drat
+核心：（口语，旧且轻）该死：一时恼火时说的委婉话，
+比 damn 轻得多，多见于旧小说与老派口吻。感叹词，
+形容词 dratted 说「讨厌的、该死的」。
+① Drat — the shop shut at five and it is four minutes past.
+= 讨厌 —— 店五点关门，现在已经过了四分钟。
+Drat! = 该死、讨厌（轻微的恼火）
+② The dratted door sticks in wet weather and nobody will plane it.
+= 那扇讨厌的门一到潮天就卡，谁也不肯刨一刨。
+a dratted thing = 讨厌的东西
+构词：God rot 的委婉变形
+注意语域：偏旧、语气很轻，今天多带戏谑。
+
+draught
+核心：英式拼法，四支。一是穿堂风：从缝里灌进来的冷风（feel a draught）；
+二是生啤：on draught 指从桶里打出来的酒；
+三是船的吃水深度；四是一大口喝下的量（a draught of water）。
+美式这几支都拼 draft。
+英式跳棋叫 draughts（棋盘 a draughtboard）；制图员是 a draughtsman；
+形容词 draughty 说屋子「四处漏风」。
+① There is a draught from under the door and a towel has been there since October.
+= 门底下灌风，从十月起那儿就塞着一条毛巾。
+a draught = 穿堂风
+② The beer is better on draught and the bottles are cheaper.
+= 那种啤酒生啤更好喝，瓶装的便宜些。
+on draught = 生啤（从桶里打出来）
+③ The boat has a shallow draught and can cross the bar at half tide.
+= 那条船吃水浅，半潮时就能过沙洲。
+a shallow draught = 浅吃水
+④ They play draughts in the corner and the board has one piece missing.
+= 他们在角落里下跳棋，那副棋少了一枚子。
+draughts = 跳棋（英式）
+⑤ The house is draughty and warm at the same time, which nobody can explain.
+= 那栋房子四处漏风，却又暖和，谁也解释不了。
+be draughty = 四处漏风的
+⑥ The draughtboard was left set up all winter and the draughtsman next door came round to finish the game.
+= 那副跳棋盘整个冬天都摆着，隔壁那位制图员会过来把棋下完。
+a draughtboard = 跳棋盘（英式）
+a draughtsman = 制图员（英式拼法）
+draughtsman 也说画技高明的素描画家；美式两个词都写 draft-。
+⑦ Draught beer, a draught excluder and a draughtswoman's eye for detail were all it took.
+= 生啤、一条挡风条，加上一位女制图员对细节的眼力，就够了。
+draught beer = 生啤
+a draught excluder = 门窗挡风条
+a draughtswoman = 女制图员
+draughtsperson = 制图员（不分性别）
+draughtsmanship = 制图的功夫
+英式一律写 draught-，美式写 draft-。
+构词：古北欧语 draht，与 draw 同源
+注意用法：英式 draught、美式 draft；跳棋美式叫 checkers。
+
+Dravidian
+核心：达罗毗荼的：印度南部的一个语系，泰米尔语、泰卢固语、马拉雅拉姆语
+都属于它 —— 跟北部的印欧语系不同源。首字母大写，形容词与名词同形。
+① Dravidian languages have a grammar that surprises anybody who starts from Hindi.
+= 达罗毗荼语系的语法，会让从印地语入门的人吃一惊。
+Dravidian languages = 达罗毗荼语系诸语言
+② The inscription is in a Dravidian language and the museum label says only Indian.
+= 那段铭文用的是达罗毗荼语系的语言，馆方标签上只写着「印度的」。
+a Dravidian language = 达罗毗荼语系的语言
+构词：梵语 Dravida，印度南部的旧称
+注意别混：达罗毗荼语系跟印欧语系不同源，不是印地语的方言。
+
+draw
+核心：底层是「往自己这边拉」。所有义项都从这一个动作长出来，
+拉的东西不同就分出一支：
+拉笔尖在纸上走 → 画；拉窗帘、拉车 → 拉动；把东西从套里拉出来 →
+抽出（枪、牌、签）；把人拉过来 → 吸引；把结论从材料里拉出来 → 得出；
+把钱从账上拉出来 → 提取、领取；把空气拉过烟囱 → 抽风；
+两边谁也拉不过谁 → 打平。名词那几支同源：a draw 是平局、是抽奖、
+也是有号召力的人或物。
+短语动词按方向记：back 后退与退缩、in 天变短与车停靠、on 动用与临近、
+out 拉长与使人开口、up 起草与停车、into 卷入。
+三态不规则：draw－drew－drawn。
+① She drew a rough map on the back of an envelope to show me the way.
+= 她在信封背面画了张草图给我指路。
+draw a map = 画一张地图
+最本义的一支：笔尖被拉着在纸上走。
+② He drew the curtains against the afternoon glare and put the lamp on.
+= 他拉上窗帘挡住午后的强光，开了台灯。
+draw the curtains = 拉窗帘
+拉开与拉拢都是这一个说法，靠上下文分。
+③ Two horses drew the cart up the hill at walking pace.
+= 两匹马拉着车，以走路的速度上了坡。
+draw a cart = 拉车
+用于牲口拉车，是最接近本义的一支。
+④ He drew a gun from inside his coat before anyone had moved.
+= 谁都还没动，他就从外套里抽出了枪。
+draw a gun = 拔枪
+「从套里拉出来」这一支还能说 draw a card、draw a sword。
+⑤ Each player draws three cards and discards one face down.
+= 每人抽三张牌，再扣着弃掉一张。
+draw a card = 抽一张牌
+抽牌与抽签都归这一支。
+⑥ They drew lots to decide who would break the news to her.
+= 他们抽签决定由谁去告诉她那个消息。
+draw lots = 抽签
+固定说法，恒用复数。
+⑦ The exhibition drew huge crowds in its final fortnight.
+= 那个展览在最后两周引来了大批观众。
+draw a crowd = 招来一大群人
+「把人拉过来」这一支，宾语是被吸引的人。
+⑧ The story drew attention to a problem the council had ignored for years.
+= 那篇报道把注意力引到了议会多年不管的一个问题上。
+draw attention to = 使人注意到
+新闻与论述里的高频搭配。
+⑨ The proposal drew fierce criticism from residents and shopkeepers alike.
+= 那个提案招来了居民和店主一致的猛烈批评。
+draw criticism = 招来批评
+引出反应这一支，宾语是那个反应本身。
+⑩ What conclusion do you draw from figures as thin as these?
+= 数据这么单薄，你能得出什么结论？
+draw a conclusion = 得出结论
+把结论从材料里拉出来，这一支在论文里极常用。
+⑪ She drew a comparison between the two periods that nobody had made before.
+= 她把那两个时期作了一番前人没做过的比较。
+draw a comparison = 作比较
+同族的还有 draw a distinction、draw a parallel。
+⑫ He drew two hundred pounds from the account and never explained why.
+= 他从账上取了两百镑，始终没说为什么。
+draw money from = 从……取钱
+把钱从账上拉出来，跟 withdraw 同源。
+⑬ She has drawn a pension since sixty and still works three days a week.
+= 她六十岁起就领养老金，现在每周还上三天班。
+draw a pension = 领养老金
+定期领取工资与补贴，用的都是它。
+⑭ The match was drawn after ninety minutes of almost no football.
+= 九十分钟几乎没什么内容，那场比赛打平了。
+be drawn = 打成平局
+两边谁也拉不过谁，于是有了平局这一支。
+⑮ The game ended in a draw that suited neither side.
+= 那场比赛以两边都不满意的平局收场。
+a draw = 平局
+名词形式，英式球类报道里天天读到。
+⑯ The prize draw takes place on Friday and the winner is notified by post.
+= 抽奖周五举行，中奖者收到信件通知。
+a prize draw = 抽奖
+名词的第二支，从「抽签」那一支来。
+⑰ She is the big draw at the festival and the tickets went in a day.
+= 她是那个音乐节最招人的一个，票一天就卖光了。
+a draw = 有号召力的人或物
+名词的第三支，从「吸引」那一支来。
+⑱ The chimney draws well once the fire has caught properly.
+= 火一烧起来，那个烟囱抽力就很好。
+draw well = 抽力好
+说烟囱、烟斗把空气拉上去，这一支不及物。
+⑲ Let the tea draw for three minutes before you pour it.
+= 茶闷三分钟再倒。
+let the tea draw = 让茶闷一会儿（英式）
+英式说法，说茶叶把味道释放出来。
+⑳ He drew a deep breath and began the speech he had rewritten twice.
+= 他深吸一口气，开始念那篇改了两遍的讲稿。
+draw a deep breath = 深吸一口气
+把空气拉进肺里，也用于比喻「稳一稳心神」。
+㉑ The nurse drew blood from his arm without him even noticing.
+= 护士从他胳膊上抽了血，他压根没察觉。
+draw blood = 抽血；也指把人打出血
+第二个义常用于比喻：在争论里说到对方痛处。
+㉒ Winter was drawing near and none of the roofs had been mended.
+= 冬天临近了，屋顶一个也没修。
+draw near = 临近
+主语是时间或事件，不及物。
+㉓ The year is drawing to a close and the accounts are still not settled.
+= 一年快过完了，账还没结清。
+draw to a close = 接近尾声
+偏书面，多用于总结性的句子。
+㉔ She drew back in alarm when the dog came round the corner.
+= 狗从拐角出来时，她惊得往后一缩。
+draw back = 后退；也指临事退缩
+两个义一个说身体，一个说决心。
+㉕ The nights are drawing in and the children come home before tea.
+= 天黑得越来越早，孩子们下午茶前就回家了。
+draw in = 白昼变短（英式）
+英式说法，专说秋冬日照缩短。
+㉖ The train drew in at platform two twenty minutes behind time.
+= 火车晚了二十分钟才驶进二号站台。
+draw in = 车辆驶近并停下
+同一个短语的第二支，主语是车。
+㉗ The book draws on ten years of research in three national archives.
+= 那本书取材于三家国家档案馆里十年的研究。
+draw on = 动用、取材于
+后面接资源、经验、积蓄。
+㉘ As winter drew on, the work on the roof stopped altogether.
+= 冬天渐深，屋顶的活儿彻底停了。
+draw on = （时间）渐渐过去、临近
+主语是时间，偏书面。
+㉙ Try to draw him out a little; he says nothing unless you ask.
+= 想办法让他多说两句，不问他就不开口。
+draw somebody out = 使某人开口
+说把不爱讲话的人引得开口；宾语放在中间。
+㉚ The meeting was drawn out for three hours by one man's questions.
+= 一个人的提问把那个会拖了三个钟头。
+draw out = 拉长、拖长；也指从账上取钱
+这两支都从「把东西拉长、拉出来」那个动作来。
+㉛ The lawyer drew up a contract that neither side could later dispute.
+= 律师起草了一份日后两边都无从争辩的合同。
+draw up = 起草（文件）
+宾语是合同、清单、计划这类文件。
+㉜ A taxi drew up outside just as the rain started.
+= 雨刚下起来，一辆出租车在外面停下了。
+draw up = （车辆）停下
+同一个短语的第二支，主语是车，不及物。
+㉝ He was drawn into the quarrel against his better judgement.
+= 他明知不该，还是被卷进了那场争吵。
+draw somebody into = 把某人卷进
+多用被动；draw into = 卷入，宾语放在中间。
+㉞ I draw the line at lying to her family about it.
+= 就这件事对她家人撒谎，我是不干的。
+draw the line at = 划下界限、到此为止
+说自己容忍的极限在哪里。
+㉟ We drew a blank at the first three shops and gave up.
+= 头三家店我们都一无所获，就放弃了。
+draw a blank = 一无所获
+本义是抽到空签，今天几乎只用比喻义。
+㊱ Some get the good rooms and some do not; it is just the luck of the draw.
+= 有人分到好房间有人没有，全凭运气。
+the luck of the draw = 全凭运气
+说结果由抽签一样的偶然定，怨不得谁。
+㊲ The plan failed at the first test, so it is back to the drawing board.
+= 那个计划头一次试就失败了，只能推倒重来。
+back to the drawing board = 推倒重来
+从头再设计一遍，语气里带一点无奈。
+㊳ The report draws a veil over the failures of the previous two years.
+= 那份报告把前两年的失败轻轻带过。
+draw a veil over = 略过不提
+偏书面，说有意不去细讲某件难堪的事。
+㊴ She drew down the last of the loan and drew on savings she had meant to keep.
+= 她把贷款的最后一笔提了出来，又动用了本想留着的存款。
+draw down = 提取（贷款或储备）
+draw down on something = 动用某笔钱
+draw upon something = 动用、借助某物
+a drawdown = 一次提取
+draw on 与 draw upon 通用，后者更书面。
+㊵ The drawback of that flat is the drawbridge nobody warned them about.
+= 那套公寓的缺点，是没人事先提过的那道吊桥。
+a drawback = 不利之处、缺点
+a drawbridge = 吊桥
+drawback 说的是一件事本身带的短处，不是外来的麻烦。
+㊶ He drew off a pint from the barrel and put the drawstring bag on the counter.
+= 他从桶里放出一品脱，把束口袋放在柜台上。
+draw something off = 从容器里放出（液体）
+写作 draw off，宾语放中间放后面都行。
+a drawstring = 抽绳、束口绳
+drawstring 作定语说 a drawstring bag、drawstring trousers。
+㊷ The top drawer sticks in summer and the drawl in his voice gets slower with it.
+= 最上面那个抽屉夏天发涩，他说话的拖腔也跟着更慢。
+a drawer = 抽屉
+drawers = （旧）衬裤
+a drawl = 拖长音的说话腔调
+美国南部的口音常被形容成 a Southern drawl。
+构词：古英语 dragan 拖、拉
+注意三态：draw / drew / drawn
 注意别混：
-be down = 情绪低落（一时的）
-be depressed = 抑郁（可能是病）
-中文都说「情绪低」，英语里前者是日常的一阵，后者可能是诊断。
+draw = 用笔画线条（铅笔、钢笔、炭笔）
+paint = 用颜料涂画
+两个中文都译「画」，英语按工具分：出线条的用 draw，上色的用 paint。
 
-downbeat
-核心：两支。一是（口气、报道）低调不乐观的：跟 upbeat 相对；
-二是音乐上的强拍：一小节的第一拍。形容词与名词。
-① The forecast was downbeat and the shares went up anyway.
-= 那份预测口气低沉，股价照样涨了。
-be downbeat = 低调不乐观的
-② The conductor brings them in on the downbeat and nobody watches the score.
-= 指挥在强拍上给他们入拍，没人看谱子。
-the downbeat = 强拍
-构词：down 加 beat
-注意别混：downbeat 是低调，upbeat 是乐观昂扬。
+dray
+核心：（历史）平板马车：无侧板的重型运货马车，啤酒厂送桶最常用。可数。
+拉车的马叫 a dray horse。
+① The dray was pulled by two horses and stopped at every pub on the street.
+= 那辆平板马车由两匹马拉着，街上每家酒馆都停。
+a dray = 平板运货马车
+② Dray horses were bred for weight rather than speed and lived longer for it.
+= 挽车的马是按体重而不是速度选育的，也因此活得更久。
+a dray horse = 挽运重货的马
+构词：古英语 drægan 拖，与 draw 同源
+注意语域：历史与酿酒业的旧语境里用。
 
-downcast
-核心：两支。一是垂头丧气的：说人心情低落；
-二是（眼睛）低垂的（downcast eyes）。形容词，偏书面。
-① He looked downcast for a fortnight and then sold the shop and cheered up.
-= 他消沉了两周，随后把店卖了，人就高兴起来。
-look downcast = 显得垂头丧气
-② She answered with downcast eyes and a voice that carried to the back row.
-= 她低垂着眼作答，声音却传到了最后一排。
-downcast eyes = 低垂的双眼
-构词：down 加 cast 投下
-注意语域：偏书面；日常说 fed up、miserable。
+dread
+核心：怕得慌：不是一时的惊，而是想到某件将来的事就发怵。
+及物动词（dread doing something），也作不可数名词。
+形容词 dreaded 多带戏谑（the dreaded form），
+dreadful 是「糟糕透顶的」，副词 dreadfully 也用作程度加强。
+① She dreads the annual review more than the work it is supposed to assess.
+= 比起被评估的那些工作，她更怕每年那场考评。
+dread something = 怕得慌
+② He filled in the dreaded form and posted it without reading it twice.
+= 他填了那张让人头疼的表格，没读第二遍就寄了。
+the dreaded something = 那个让人头疼的东西（戏谑）
+③ A sense of dread settled on the house before anybody said anything.
+= 还没人说话，一股恐惧就笼罩了那栋房子。
+a sense of dread = 恐惧感
+构词：古英语 ondrǣdan 害怕
+注意用法：后面接动名词，也接不定式，两种都常见。
 
-downfall
-核心：垮台、败落：一个人或一个政权栽跟头的那件事或那个原因。可数，
-常说 somebody's downfall、be the downfall of somebody。
-① Overconfidence was his downfall and everybody had told him so.
-= 过于自信是他垮台的原因，人人都跟他说过。
-somebody's downfall = 某人垮台的原因
-② The downfall of the regime took nine days and forty years of pressure.
-= 那个政权垮台用了九天，此前是四十年的压力。
-the downfall of something = 某个政权或机构的垮台
-构词：down 加 fall
-注意别混：downfall 说垮台的原因或过程，collapse 更强调突然倒塌。
+dreadful
+核心：两支。一是糟糕透顶的：说天气、饭菜、表现 —— 英式口语用得极广；
+二是（较正式）可怕的、骇人的（a dreadful accident）。
+副词 dreadfully 既说「糟糕地」，也当程度词用（dreadfully sorry）。
+① The weather was dreadful and the queue outside stayed forty deep.
+= 天气糟透了，外面的队照样排着四十来人。
+be dreadful = 糟糕透顶的
+② It was a dreadful accident and the road was closed until the following evening.
+= 那是场惨烈的事故，路一直封到第二天傍晚。
+a dreadful accident = 惨烈的事故
+③ I am dreadfully sorry — the letter went out with the wrong date on it.
+= 实在对不起 —— 那封信寄出去时日期写错了。
+dreadfully sorry = 十分抱歉
+构词：dread 加 -ful
+注意用法：作程度词的 dreadfully 偏英式，语气正式而客气。
 
-downgrade
-核心：降级：把等级、评级、职位往下调 —— 说信用评级、职位、
-风险等级都行。及物动词，也作名词。反义是 upgrade。
-① The agency downgraded the country's rating twice in one quarter.
-= 那家评级机构一个季度里把该国评级下调了两次。
-downgrade something = 给某物降级
-② He was downgraded in the reorganization and kept the same desk.
-= 重组中他被降了级，桌子还是那一张。
-be downgraded = 被降级
-构词：down 加 grade 等级
-注意别混：downgrade 是往下调等级，demote 专说人的职位。
-
-downhearted
-核心：灰心的：因为受挫而提不起劲。形容词，多作表语，
-常说 don't be downhearted（别灰心）。
-① Do not be downhearted — the same thing happened to everybody on that list.
-= 别灰心 —— 名单上每个人都碰到过同样的事。
-be downhearted = 灰心的
-② They came back downhearted and were told to try again on Monday.
-= 他们灰心地回来，被告知周一再试一次。
-come back downhearted = 灰心地回来
-构词：down 加 heart
-注意别混：downhearted 是一时灰心，depressed 可指持续的抑郁。
-
-downhill
-核心：两支。一是往山下：走、跑、滑（walk downhill）；
-二是习语 go downhill：一路变糟（说健康、生意、关系）。
-副词与形容词同形；滑雪里 the downhill 指速降赛。
-① The path runs downhill for two miles and nobody minds the way back.
-= 那条路下坡走两英里，回程谁也不在乎。
-run downhill = 一路下坡
-② The business went downhill after the bypass opened and never recovered.
-= 绕城公路一通，那门生意就一路走下坡，再没缓过来。
-go downhill = 一路变糟
-③ She won the downhill and came fourth in everything else.
-= 她赢下了速降赛，别的项目都是第四。
-the downhill = 速降赛（滑雪）
-构词：down 加 hill
-注意用法：说「从此顺当了」英语说 it's all downhill from here，
-可这句既能指轻松也能指变糟，要看语气。
-
-download
-核心：下载：把文件从网络取到本机。动词与名词同形（名词重音在前）。
-反义是 upload。也说 a downloadable file（可下载的文件）。
-① The file downloads in a minute and takes four hours to make sense of.
-= 那个文件一分钟就下载完，弄懂它要四个钟头。
-download something = 下载某物
-② The download failed twice and the third attempt was the one that worked.
-= 前两次下载失败，第三次才成。
-a download = 一次下载；也指下载的文件
-③ Only three of the eleven documents are downloadable and none of them is the form.
-= 十一份文件里只有三份能下载，偏偏没有那张表。
-be downloadable = 可下载的
-网站与资料库的说明里常见。
-构词：down 加 load
-注意用法：名词重音在前，动词重音在后。
-
-dowry
-核心：嫁妆：女方出嫁时带到夫家的钱财，在若干社会里曾是婚约的一部分，
-如今在一些国家已被法律禁止。可数，复数 dowries。
-① The dowry was written into the contract and argued about for two generations.
-= 那笔嫁妆写进了婚约，被争论了两代人。
-a dowry = 嫁妆
-② Dowry demands are illegal there and the practice has proved hard to stop.
-= 那里索要嫁妆是违法的，这种做法却很难禁绝。
-dowry demands = 索要嫁妆
-构词：古法语 douaire，与 dower 同源
-注意别混：dowry 是女方带去的嫁妆，dower 是寡妇依法所得的那一份。
+dreadlocks
+核心：脏辫：把头发绞成一条条的发型，跟拉斯塔法里文化关系深。
+只用复数，口语缩成 dreads。
+留这种发型的人说 wear dreadlocks 或 have dreadlocks。
+① He has worn dreadlocks since he was seventeen and cuts them for nobody.
+= 他十七岁起就留脏辫，为谁也不剪。
+wear dreadlocks = 留脏辫
+② Her dreads reach her waist and take four hours to wash and dry.
+= 她的脏辫垂到腰间，洗一次要四个钟头才干。
+dreads = 脏辫（口语）
+构词：dread 加 lock 一绺头发
+注意语域：跟牙买加的拉斯塔法里信仰渊源很深，说的时候值得知道这一层。

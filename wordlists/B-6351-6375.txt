@@ -1,498 +1,393 @@
-dioxide
-核心：二氧化物：一个分子里带两个氧原子的化合物，
-最常提到的是 carbon dioxide 二氧化碳。可数不可数都行。
-① Carbon dioxide levels are measured on that hilltop and have been since 1958.
-= 二氧化碳浓度在那座山顶上测量，从一九五八年一直测到现在。
-carbon dioxide = 二氧化碳
-② Sulphur dioxide from the plant left a taste in the air two miles away.
-= 那家厂排出的二氧化硫，两英里外空气里都有味道。
-sulphur dioxide = 二氧化硫
-构词：di- 二 加 oxide 氧化物
-注意用法：说气体本身不可数，说不同的二氧化物时可数。
+disassemble
+核心：拆开：把机器或结构拆成零件，跟 assemble 组装相对。及物动词。
+计算机里 a disassembler 是把机器码还原成汇编的程序。
+① They disassembled the press in a day and needed three weeks to put it back.
+= 他们一天就把那台印刷机拆了，装回去用了三周。
+disassemble something = 把某物拆开
+② A disassembler turns the file back into something a person can argue about.
+= 反汇编器把那个文件还原成人能拿来争论的东西。
+a disassembler = 反汇编器
+构词：dis- 反向 加 assemble 组装
+注意别混：disassemble 是拆开，dissemble 是掩饰真情 —— 只差一个字母。
 
-dioxin
-核心：二噁英：燃烧含氯物质产生的一类剧毒污染物，
-在环境与人体里都难分解。可数不可数都行。
-① Dioxins were found in the soil around the works twelve years after it closed.
-= 那家厂关闭十二年后，人们在厂区周边土壤里查出了二噁英。
-dioxins = 二噁英（复数）
-② Burning the waste at that temperature produces dioxin and nothing else useful.
-= 在那个温度下烧那些废物只会产生二噁英，别的什么好处都没有。
-dioxin = 二噁英
-构词：化学结构命名
-注意语域：环境与卫生报道里的常用词。
+disassociate
+核心：撇清关系：公开表明自己跟某人某事无关 ——
+跟 dissociate 是同一个词的两种写法，dissociate 更常见、更正式。
+及物动词，常说 disassociate yourself from something。
+① The party moved quickly to disassociate itself from the whole campaign.
+= 该党迅速表态，跟那场竞选活动划清界限。
+disassociate yourself from something = 与某事撇清关系
+② Two of the authors disassociated themselves from the conclusions and stayed on the paper.
+= 两位作者声明不认同那些结论，署名却没有撤。
+be disassociated from something = 与某事划清界限
+构词：dis- 反向 加 associate 结交
+注意别混：跟 dissociate 同义，写作里多用后者。
 
-dip
-核心：五支。一是浸一下（dip a brush in the paint）；
-二是短暂下降（sales dipped）；三是名词的「小幅下降」与「洼地」；
-四是蘸酱（a cheese dip）；五是英式的 dip the headlights，把远光调成近光。
-北斗七星在美式里叫 the Big Dipper；量油尺叫 a dipstick。
-① She dipped a corner of the bread in the soup and ate the rest dry.
-= 她把面包角在汤里蘸了一下，其余的干着吃了。
-dip something in something = 把某物在某物里蘸一下
-② Sales dipped in February and recovered without anybody doing anything.
-= 二月销量小幅下滑，没人做什么它自己就回来了。
-dip = 小幅下降
-③ There is a dip in the road where the water always collects.
-= 路上有一处洼地，水总积在那儿。
-a dip = 洼地；也指小幅下降
-④ He brought a cheese dip and forgot anything to dip into it.
-= 他带了盘奶酪蘸酱，却忘了带能蘸的东西。
-a dip = 蘸酱
-⑤ Dip your headlights when you see somebody coming the other way.
-= 看见对面来车就把远光调成近光。
-dip your headlights = 把远光调成近光（英式）
-⑥ He checked the oil with a dipstick that had not been wiped since spring.
-= 他用一根从春天起就没擦过的量油尺查了机油。
-a dipstick = 量油尺
-⑦ He found the Big Dipper first and everything else from there.
-= 他先找到北斗七星，别的星座都从那儿认起。
-the Big Dipper = 北斗七星（美式）
-英式管同一组星叫 the Plough；单说 a dipper 还指一种常在溪流里潜水的鸟。
-⑧ The dip switch on the back has eight positions and the manual explains three.
-= 背面那排拨码开关有八个位，说明书只讲了三个。
-a dip switch = 拨码开关
-老设备上那排用来设参数的小开关。
-构词：古英语 dyppan 浸
-注意用法：双写 p：dipped、dipping。
+disaster
+核心：三支。一是灾难：地震、洪水、空难那一类（a natural disaster）；
+二是「彻头彻尾的失败」（the evening was a disaster）；
+三是口语的夸张：a disaster area 说人或地方一团糟。
+形容词 disastrous，副词 disastrously。
+习语 a recipe for disaster 是「注定要出事的搭配」。
+① The flood was the worst natural disaster the county had seen in a century.
+= 那场洪水是该郡百年来最严重的自然灾害。
+a natural disaster = 自然灾害
+② Putting those two on the same shift is a recipe for disaster.
+= 把那两个人排同一个班，注定要出事。
+a recipe for disaster = 注定要出事的安排
+③ The kitchen was a disaster area and dinner was on the table by seven.
+= 厨房乱成一团，晚饭七点还是端上了桌。
+a disaster area = 一团糟的地方（口语）；也指官方划定的灾区
+④ The second half was disastrous and the manager left within the week.
+= 下半场一败涂地，主教练当周就走人了。
+be disastrous = 灾难性的
+⑤ The talks ended disastrously and both sides briefed the press separately.
+= 谈判以彻底破裂告终，双方各自向媒体吹风。
+end disastrously = 以惨败收场
+构词：意大利语 disastro「凶星」—— 本指星象不吉
+注意用法：口语里说小事失败也用 disaster，带夸张。
 
-diphtheria
-核心：白喉：细菌感染，喉咙里长出灰白色的膜，会堵住呼吸道，
-儿童疫苗里的 D 就是它。不可数。
-① Diphtheria killed more children than anything else in that parish register.
-= 在那本教区登记簿里，白喉夺走的儿童性命比任何别的病都多。
-diphtheria = 白喉
-② The vaccine covers diphtheria, tetanus and whooping cough in one injection.
-= 那种疫苗一针管白喉、破伤风和百日咳。
-the diphtheria vaccine = 白喉疫苗
-构词：希腊语 diphthera 皮革 —— 说的是喉咙里那层膜
-注意用法：拼写里的 phth 常被少写一个 h。
+disavow
+核心：（正式）否认、断然撇清：公开表明某个说法或行为跟自己无关。
+及物动词，名词 disavowal。多见于外交与法律文字。
+① The government disavowed the statement within an hour of its appearing.
+= 那份声明一出现，政府一小时内就予以否认。
+disavow something = 公开否认某事
+② A disavowal that takes three days convinces nobody.
+= 拖了三天才发的否认声明，谁也说服不了。
+a disavowal = 否认声明
+构词：dis- 反向 加 avow 公开承认
+注意别混：disavow 是否认与自己有关，deny 是否认事情本身。
 
-diphthong
-核心：双元音：一个音节里从一个元音滑向另一个的那种音，
-英语的 boy、how、time 里都有。可数。
-形容词 diphthongal；动词 diphthongize 是「变成双元音」，
-名词 diphthongization 说的是那个历史音变过程。
-① English has more diphthongs than most learners are ever told about.
-= 英语里的双元音比多数学习者被告知的要多。
-a diphthong = 双元音
-② The vowel is diphthongal in the south and flat in the north.
-= 那个元音在南方是双元音，在北方是平的。
-be diphthongal = 属于双元音的
-③ Long vowels diphthongized over three centuries and the spelling never caught up.
-= 长元音在三百年里变成了双元音，拼写一直没跟上。
-diphthongize = 变为双元音
-④ Diphthongization explains why the spelling and the sound stopped matching.
-= 双元音化解释了拼写与读音为什么对不上了。
-diphthongization = 双元音化
-构词：希腊语 di- 二 加 phthongos 音
-注意别混：diphthong 是一个音节里的滑动，digraph 是两个字母写一个音。
+disband
+核心：解散：正式把一支队伍、乐队、组织散掉。及物不及物都行，
+名词 disbandment。
+① The unit was disbanded in 1946 and its records went to three different archives.
+= 那支部队一九四六年解散，档案分别去了三个馆。
+be disbanded = 被解散
+② The band disbanded twice and reformed both times for the same festival.
+= 那支乐队解散过两回，两回都为同一个音乐节重组。
+disband = 解散
+③ Disbandment took longer than anybody expected because of the pension question.
+= 因为养老金问题，解散过程比谁想的都长。
+disbandment = 解散
+构词：dis- 反向 加 band 一伙人
+注意别混：disband 说队伍散伙，dissolve 多说议会、公司、婚姻的正式解散。
 
-diplodocus
-核心：梁龙：脖子与尾巴都极长的巨型恐龙，博物馆里最常见的那具骨架。
-可数，复数 diplodocuses 或 diplodoci。
-① The diplodocus in the main hall was replaced by a whale and half the city complained.
-= 主厅里的梁龙被一头鲸换掉，半座城的人都在抱怨。
-a diplodocus = 梁龙
-② A diplodocus was longer than the room and lighter than people assume.
-= 梁龙比那间厅还长，却比人们以为的轻。
-the diplodocus skeleton = 梁龙骨架
-构词：希腊语 diplos 双 加 dokos 梁 —— 尾椎的形状
-注意用法：博物馆里常给它起昵称，读作三个音节。
+disbar
+核心：取消律师资格：由律师公会正式把人从执业名册上除名。及物动词，
+多用被动，双写 r：disbarred。名词 disbarment。
+① He was disbarred for taking money from a client account.
+= 他因动用客户账户的钱被取消了律师资格。
+be disbarred = 被取消律师资格
+② Disbarment is rare and the hearing that leads to it is rarer still.
+= 取消律师资格很少见，导向它的那种听证更少见。
+disbarment = 取消律师资格
+构词：dis- 加 bar —— the bar 指律师界
+注意别混：disbar 专指律师，debar 是一般的取消资格。
 
-diploid
-核心：（生物）二倍体的：细胞里染色体成对，人体细胞就是这样，
-跟单倍体 haploid（生殖细胞）相对。形容词，也作名词。
-① Body cells are diploid and the two sets do not always agree.
-= 体细胞是二倍体的，两套染色体并不总一致。
-be diploid = 二倍体的
-② A diploid cell divides into two that carry the same information.
-= 一个二倍体细胞分裂成两个，携带同样的信息。
-a diploid cell = 二倍体细胞
-构词：希腊语 diploos 双重的
-注意别混：diploid 成对，haploid 单套，受精把两个单套合成一对。
+disbelief
+核心：不相信：不接受某个说法是真的。不可数，
+常说 in disbelief（一脸不敢相信）、shake your head in disbelief。
+文学理论里有个固定说法 the suspension of disbelief：读小说看戏时
+暂时把「这不是真的」搁在一边。
+动词 disbelieve，形容词 disbelieving，副词 disbelievingly。
+① She read the letter twice and looked up in disbelief.
+= 那封信她读了两遍，抬起头来一脸不敢相信。
+in disbelief = 一脸不敢相信
+② He disbelieves every figure that comes from that department, on principle.
+= 那个部门出的数字他一律不信，出于原则。
+disbelieve something = 不相信某事
+③ A disbelieving silence followed the announcement and lasted several seconds.
+= 宣布之后是一阵不敢相信的沉默，持续了好几秒。
+a disbelieving silence = 不敢相信的沉默
+④ She shook her head disbelievingly and asked him to say it again.
+= 她将信将疑地摇摇头，请他再说一遍。
+shake your head disbelievingly = 不敢相信地摇头
+构词：dis- 反向 加 belief 相信
+注意用法：说不信某人的话用 disbelieve somebody；日常更常说 not believe。
 
-diploma
-核心：文凭：修完某个课程后发的证书，通常低于学位。可数。
-常说 a diploma in something。
-① She has a diploma in bookkeeping and runs the accounts for eleven small firms.
-= 她有一张记账文凭，替十一家小公司管账。
-a diploma in something = 某专业的文凭
-② The diploma course takes a year and costs less than one term of the degree.
-= 那个文凭课程读一年，学费还不到学位课一个学期的钱。
-a diploma course = 文凭课程
-构词：希腊语 diploma 对折的文书
-注意别混：diploma 是文凭，degree 是学位，certificate 是证书。
+disburse
+核心：（正式）拨付、支出：把一笔钱从基金或账户里发出去。及物动词，
+名词 disbursement。财会与法律文书用语。
+① The grant was disbursed in three instalments over eighteen months.
+= 那笔拨款分三期在十八个月里付清。
+be disbursed = 被拨付
+② Disbursements are listed separately from fees on every invoice they send.
+= 他们每张发票上，代垫费用都跟服务费分开列。
+a disbursement = 拨付款、代垫费用
+构词：dis- 分开 加古法语 borse 钱袋
+注意语域：财会与律师账单用语；日常说 pay out。
 
-diplomacy
-核心：两支。一是外交：国与国之间打交道的那套事务与技艺；
-二是待人接物的圆融：说话办事不伤人（handle something with diplomacy）。
-不可数。搞外交的人是 a diplomat（旧称 diplomatist），
-形容词 diplomatic 兼说外交的与圆融的，副词 diplomatically。
-① Quiet diplomacy kept the two sides talking for another eighteen months.
-= 低调的外交斡旋让双方又谈了十八个月。
-quiet diplomacy = 低调的外交斡旋
-② It took some diplomacy to tell them the truth and keep them in the room.
-= 要既说实话又留住他们，是需要点圆融的。
-handle something with diplomacy = 圆融地处理某事
-③ The diplomat spoke four languages and listened in all of them.
-= 那位外交官会说四种语言，四种都用来听。
-a diplomat = 外交官
-④ He gave a diplomatic answer that satisfied nobody and offended nobody either.
-= 他给了个外交辞令式的回答，谁也不满意，也谁都没得罪。
-a diplomatic answer = 外交辞令式的回答
-⑤ She diplomatically forgot the part of the story that made him look bad.
-= 她很得体地把那段让他难堪的情节忘掉了。
-diplomatically forget something = 得体地把某事略过
-⑥ Nineteenth-century memoirs call the same official a diplomatist and mean exactly what we mean.
-= 十九世纪的回忆录管同一种官员叫另一个旧称，指的跟今天完全一样。
-a diplomatist = 外交官（旧称）
-今天一律说 a diplomat；旧称只在史料与旧小说里读到。
-构词：希腊语 diploma 官方文书
-注意用法：说外交与说圆融共用 diplomatic，靠上下文分。
+disc
+核心：三支。一是圆盘状的东西（a metal disc）；
+二是脊椎骨之间的椎间盘：a slipped disc 是椎间盘突出；
+三是唱片与光盘 —— 英式拼 disc，计算机存储那一支美式拼 disk。
+① A metal disc on the gate carries a number nobody has ever needed.
+= 大门上挂着一块金属圆牌，上面的号码从来没人用过。
+a disc = 圆盘、圆牌
+② He has had a slipped disc since the spring and drives with a cushion.
+= 他从春天起就有椎间盘突出，开车得垫个靠垫。
+a slipped disc = 椎间盘突出
+③ The whole recording fits on one disc and the sleeve notes take up two pages.
+= 整场录音一张碟就装得下，说明文字倒占了两页。
+a disc = 唱片、光盘
+④ The disc brakes squeal in the wet and the disc jockey played through it anyway.
+= 下雨天那些盘式刹车吱吱响，唱片骑师照样放他的歌。
+disc brakes = 盘式刹车
+a disc jockey = 唱片骑师（缩写 DJ）
+美式拼 disk jockey，缩写一样是 DJ。
+构词：拉丁语 discus 圆盘
+注意用法：英式 disc，美式 disk；计算机硬盘两边都写 disk。
 
-dipole
-核心：偶极：一是物理与化学里正负电荷分居两端的结构（a dipole moment）；
-二是无线电里的偶极天线。可数。
-① A water molecule is a dipole and that single fact explains most of its behaviour.
-= 水分子是一个偶极，它的大半性质都由这一点解释。
-a dipole = 偶极
-② The dipole aerial was strung between two trees and worked better than the mast.
-= 那副偶极天线拴在两棵树之间，比铁塔上的还好使。
-a dipole aerial = 偶极天线
-构词：di- 二 加 pole 极
-注意用法：化学里说 a dipole moment 偶极矩。
+discard
+核心：丢弃、弃置：把不要的东西扔掉，也说打牌时打出不要的牌。
+及物动词；名词（重音在前）指被弃的东西。
+① They discarded three of the four designs and spent a year on the fourth.
+= 四个设计他们弃了三个，在第四个上花了一年。
+discard something = 弃掉某物
+② She discarded a low card and picked up the one she had been waiting for.
+= 她打出一张小牌，摸到了等着的那张。
+discard a card = 打出一张不要的牌
+构词：dis- 去掉 加 card —— 本是打牌的话
+注意别混：discard 是决定不要而扔掉，lose 是丢失。
 
-dippy
-核心：（英式口语）傻乎乎的、糊里糊涂的：语气轻，多带宠溺或调侃，
-不是重话。形容词，比较级 dippier。
-① She has a dippy way of explaining things that turns out to be exactly right.
-= 她讲事情的方式傻乎乎的，结果每每一点不错。
-be dippy = 傻乎乎的
-② He went dippy over a dog he had known for one afternoon.
-= 他为一条只认识了一下午的狗神魂颠倒。
-go dippy over something = 为某物神魂颠倒
-构词：可能与 dip 有关，来源不确
-注意语域：英式口语，语气亲昵，不算骂人。
+discern
+核心：（正式）看出、辨出：在不清楚的情况下认出某样东西或某种规律。
+及物动词。形容词 discernible 是「看得出来的」，
+discerning 是「有眼光的」（a discerning reader），名词 discernment 是眼光。
+① It is hard to discern any pattern in the first two years of data.
+= 头两年的数据里很难看出什么规律。
+discern a pattern = 看出规律
+② There is no discernible difference between the two recordings.
+= 那两段录音之间听不出任何差别。
+a discernible difference = 看得出的差别
+③ The shop survives on a small number of discerning customers.
+= 那家店靠一小批有眼光的顾客活着。
+a discerning customer = 有眼光的顾客
+④ Her discernment about people was better than her judgement about money.
+= 她看人的眼光比看钱的判断力好。
+discernment = 眼光、识别力
+构词：拉丁语 discernere 分辨
+注意语域：正式；日常说 make out、tell。
 
-dipsomaniac
-核心：（旧）酗酒者：无法控制地一阵阵狂饮的人。可数，
-名词 dipsomania。今天医学上说 alcohol use disorder，这个词多见于旧文与戏谑。
-① The novel's narrator is a dipsomaniac who keeps immaculate accounts.
-= 那部小说的叙述者是个酗酒的人，账目却记得一丝不苟。
-a dipsomaniac = 酗酒者（旧）
-② Victorian doctors described dipsomania as a disease and treated it as a failing.
-= 维多利亚时代的医生把嗜酒说成疾病，实际当成品行问题来对待。
-dipsomania = 嗜酒症（旧）
-构词：希腊语 dipsa 渴 加 mania 狂
-注意语域：偏旧；正经场合说 someone with an alcohol problem。
+discharge
+核心：四支，名词动词同形（名词重音在前）。
+一是准许离开：出院、退伍、释放（be discharged from hospital）；
+二是排放：污水、废气排出去；三是履行职责（discharge your duties）；
+四是电学上的放电。
+① She was discharged on the fourth day and readmitted on the sixth.
+= 她第四天出院，第六天又住了回去。
+be discharged from hospital = 出院
+② The factory discharged waste into the river for eleven years.
+= 那家厂往河里排了十一年废水。
+discharge something into something = 把某物排入某处
+③ He discharged his duties correctly and without a trace of enthusiasm.
+= 他把职责履行得一丝不苟，也一丝热情都没有。
+discharge your duties = 履行职责
+④ The discharge of the battery took four hours and the readings were taken hourly.
+= 电池放电用了四个钟头，每小时记一次读数。
+the discharge of something = 某物的排出、放电
+构词：古法语 descharger 卸下负担
+注意用法：名词重音在前，动词重音在后。
 
-diptych
-核心：双联画：两块画板用铰链连在一起、可以合上的画作，
-中世纪祭坛画最常见。可数。三联的叫 a triptych。
-① The diptych folds shut and protects itself, which is why so many survive.
-= 双联画能合上自我保护，所以留存下来的才这么多。
-a diptych = 双联画
-② The two halves of the diptych were sold separately in 1912 and never rejoined.
-= 那幅双联画的两半一九一二年被分开卖掉，再没合到一起。
-the two halves of a diptych = 双联画的两半
-构词：希腊语 diptychos 对折的
-注意别混：diptych 两联，triptych 三联。
+disciple
+核心：门徒、追随者：一是宗教上的弟子（耶稣的十二门徒）；
+二是一般说某人学说的信奉者。可数。
+① The twelve disciples are named in three of the gospels and differ in one.
+= 四福音书里有三部列出了十二门徒的名字，其中一部有出入。
+a disciple = 门徒
+② He is a disciple of a school of economics that ran out of adherents in the eighties.
+= 他信奉的那个经济学派，八十年代就没什么追随者了。
+a disciple of somebody = 某人学说的信奉者
+构词：拉丁语 discipulus 学生
+注意别混：disciple 是信奉某人学说的人，follower 更泛，student 只是学生。
 
-dire
-核心：三支。一是（正式）严峻可怕的：说处境、后果、警告
-（dire consequences、a dire warning）；二是英式口语里的「糟透了」；
-三是固定说法 in dire need of something（急需某物）。形容词。
-① The consequences were dire and everybody had been warned in writing.
-= 后果极其严重，而所有人都收到过书面警告。
-dire consequences = 严重的后果
-② The film was dire and the two of them stayed to the end out of stubbornness.
-= 那部电影糟透了，他们俩硬是犟着看到了最后。
-be dire = 糟透了（英式口语）
-③ The building is in dire need of a roof and has been for four winters.
-= 那栋楼急需一个屋顶，已经急了四个冬天。
-be in dire need of something = 急需某物
-构词：拉丁语 dirus 可怕的
-注意语域：正式义与口语义共存，靠语境分。
+disciplinarian
+核心：严格执行纪律的人：说老师、军官、家长管得严。可数，
+常说 a strict disciplinarian。
+① He was a strict disciplinarian and his own children were the exception.
+= 他管纪律极严，只有自己的孩子是例外。
+a strict disciplinarian = 治军治校极严的人
+② The school needed a disciplinarian and got somebody who preferred to explain.
+= 学校要的是个严管纪律的人，来的却是个喜欢讲道理的。
+a disciplinarian = 严格管纪律的人
+构词：discipline 加 -arian
+注意用法：多带一点保留的口气，不全是夸奖。
 
-direct
-核心：五支。一是「直的、直接的」：不绕道也不经中间人（a direct route、
-direct contact）；二是动词「指路、指引」（direct somebody to somewhere）；
-三是导演与指挥（direct a film）；四是「直截了当的」，说人说话不绕弯；
-五是副词，说 fly direct 直飞。
-派生一族：direction 兼指方向与指导，directional 说方向性的，
-directionless 是没有方向的；a directive 是指令；directly 是「直接地、立刻」；
-directness 是直率；a director 是导演或董事，董事会叫 the directorate，
-职位叫 a directorship，形容词 directorial；a directory 是名录。
-① The direct route is eleven miles longer and forty minutes faster.
-= 直达路线远十一英里，却快四十分钟。
-a direct route = 直达路线
-② She directed us to a car park that had closed the previous year.
-= 她给我们指了个前一年就关掉的停车场。
-direct somebody to somewhere = 给某人指路去某处
-③ He directed three films in five years and disowned the middle one.
-= 他五年里导了三部片子，中间那部他不认。
-direct a film = 执导一部影片
-④ Her manner is direct and people either like it immediately or never do.
-= 她说话直截了当，人们要么立刻喜欢，要么永远不喜欢。
-be direct = 直截了当的
-⑤ You can fly direct on Tuesdays and change twice on every other day.
-= 周二能直飞，其余日子都要转两次机。
-fly direct = 直飞
-⑥ A direct hit took out the roof and left the walls standing.
-= 一发直接命中掀掉了屋顶，四面墙还立着。
-a direct hit = 直接命中
-⑦ The gym takes the fee by direct debit and puts it up every January.
-= 健身房用授权扣款收费，每年一月涨一次。
-direct debit = 授权定期扣款（英式）
-⑧ The directive arrived on Friday and contradicted the one from Wednesday.
-= 那份指令周五到，跟周三那份自相矛盾。
-a directive = 指令
-⑨ She went directly to the head of department and skipped three layers.
-= 她直接去找系主任，跳过了三层。
-directly = 直接地；也指立刻
-⑩ His directness costs him friends and saves everybody time.
-= 他的直率让他失掉朋友，却替所有人省时间。
-directness = 直率
-⑪ Two directors resigned in one week and the directorate met the next morning.
-= 一周里两名董事辞职，董事会第二天早上就开了会。
-a director = 董事；也指导演
-the directorate = 董事会、理事会
-⑫ Her directorial debut was made with money she raised herself.
-= 她的导演处女作是用自己筹来的钱拍的。
-a directorial debut = 导演处女作
-⑬ The directory lists everybody twice and nobody by the name they use.
-= 那本名录把每个人都列了两遍，却没有一个用的是本人在用的名字。
-a directory = 名录、目录
-⑭ Two years of directionless work ended when somebody finally wrote down a goal.
-= 两年没有方向的工作，直到有人终于写下一个目标才告一段落。
-directionless = 没有方向的
-⑮ The microphone is directional and picks up nothing from behind.
-= 那只麦克风是定向的，背后的声音一点收不到。
-directional = 定向的
-⑯ She has no sense of direction and gets home by remembering shops.
-= 她一点方向感也没有，靠记店铺认路回家。
-a sense of direction = 方向感
-in the direction of something = 朝某物的方向
-direction 另有「指导」那一支：under somebody's direction 是在某人的指导下。
-⑰ He gave up a directorship at forty-five and never explained the decision to anybody.
-= 他四十五岁辞掉了一个董事职位，从没向谁解释过这个决定。
-a directorship = 董事职位
-说担任董事职务用 hold a directorship；辞去用 give up 或 resign a directorship。
-⑱ Direct access to the archive was granted and direct action followed when it was withdrawn.
-= 档案的直接查阅权批下来了，撤销之后就有了直接行动。
-direct access = 直接查阅、直接访问
-direct action = 直接行动（罢工、占领这类抗争手段）
-direct action 是工运与抗议语境里的固定说法。
-⑲ Wages go in by direct deposit and the bills go out by direct debit on the same day.
-= 工资靠直接存入进账，账单当天靠授权扣款出账。
-direct deposit = 工资直接存入（美式）
-direct dialling = 直拨
-英式说工资入账用 direct credit 或 BACS；直拨指不经总机。
-⑳ Direct mail and direct marketing kept the company alive until a direct message replaced both.
-= 直邮与直销撑着那家公司，直到一条私信把两者都取代了。
-direct mail = 直邮广告
-direct marketing = 直销
-a direct message = 私信（社交平台）
-社交平台上的私信缩写 DM，动词也说 DM somebody。
-㉑ The grammar names the direct object first and direct speech takes the quotation marks.
-= 语法书先讲直接宾语，直接引语则要加引号。
-a direct object = 直接宾语
-direct speech = 直接引语
-跟 indirect object 间接宾语、reported speech 间接引语成对。
-㉒ Direct rule was imposed for four years and direct tax rose in three of them.
-= 直接统治实行了四年，其中三年直接税上涨。
-direct rule = 直接统治
-a direct tax = 直接税
-direct taxation = 直接税制
-直接税是对收入与财产征的，跟对消费征的间接税相对。
-㉓ The motor runs on direct current and hums at a pitch that carries through the wall.
-= 那台电机用直流电，嗡嗡声的音高能透过墙传过来。
-direct current = 直流电（缩写 DC）
-跟交流电 alternating current（AC）成对。
-㉔ Direct investment fell for two years while portfolio money kept arriving.
-= 直接投资连降两年，组合投资的钱却一直在进。
-direct investment = 直接投资
-指直接建厂或持股经营，跟只买证券的组合投资相对。
-构词：拉丁语 dirigere 使成直线
-注意用法：directly 有「立刻」的一支，英式口语里尤其常见。
+discipline
+核心：四支。一是纪律：让人守规矩的那套要求（school discipline）；
+二是自制力：self-discipline 是自律；
+三是学科：a discipline 指一门学问；四是动词「处分、管教」。
+形容词 disciplinary 说纪律方面的（a disciplinary hearing）；
+disciplined 说人或做法「有纪律、有章法」。
+① Discipline in that school rests on eleven rules and one very tall corridor.
+= 那所学校的纪律靠十一条规矩和一条极长的走廊维持。
+discipline = 纪律
+② Self-discipline got her through the third year when interest had run out.
+= 兴趣耗尽的第三年，是自律把她撑了过来。
+self-discipline = 自律
+③ The question sits between two disciplines and neither department will fund it.
+= 那个问题夹在两个学科之间，两个系都不肯出钱。
+a discipline = 学科
+④ Two officers were disciplined and neither of them was named.
+= 两名警官受了处分，两人的名字都没公布。
+be disciplined = 受到处分
+⑤ A disciplinary hearing was held in a room with no windows and no clock.
+= 纪律听证会在一间没有窗、也没有钟的屋子里开。
+a disciplinary hearing = 纪律听证会
+⑥ Their play was disciplined for an hour and fell apart in ten minutes.
+= 他们打得有章有法，撑了一个钟头，十分钟就散了。
+disciplined = 有纪律的、有章法的
+构词：拉丁语 disciplina 教导
+注意用法：说处分某人用被动 be disciplined for something。
 
-dirge
-核心：两支。一是挽歌：葬礼上唱的哀歌；
-二是贬义的引申：说一首歌或一段音乐「慢得像哭丧」。可数。
-① The dirge was sung unaccompanied and nobody in the church moved.
-= 那首挽歌是清唱的，教堂里没有人动一下。
-a dirge = 挽歌
-② The second half of the album is a dirge and the first is very good indeed.
-= 那张专辑后半张沉闷得像哭丧，前半张确实很好。
-be a dirge = 慢得像哭丧
-构词：拉丁语 dirige「引导吧」—— 亡者日课经文的头一个词
-注意语域：贬义那一支是评论与口语里的说法。
+disclaim
+核心：否认、拒绝承担：正式表示某事与自己无关，或放弃某项权利。
+及物动词。名词 a disclaimer 是免责声明，也指否认的表态。
+① The company disclaimed any responsibility and settled quietly two years later.
+= 公司否认负有任何责任，两年后悄悄和解。
+disclaim responsibility = 否认负有责任
+② The disclaimer is in grey type at the bottom and repeats what the label says.
+= 那段免责声明用灰字印在底部，重复了标签上的话。
+a disclaimer = 免责声明
+构词：dis- 反向 加 claim 主张
+注意别混：disclaim 是否认承担，deny 是否认事实本身。
 
-dirigible
-核心：飞艇：有动力、可操纵的充气飞行器，跟随风漂的气球不同。可数，
-偏旧，今天多说 an airship。
-① The dirigible moored to a mast and took two hours to unload.
-= 那艘飞艇系在系留塔上，卸货用了两个钟头。
-a dirigible = 飞艇
-② Dirigibles carried mail across the Atlantic before anybody trusted aeroplanes.
-= 在人们信得过飞机之前，飞艇就在跨大西洋送邮件了。
-dirigibles = 飞艇（复数）
-构词：拉丁语 dirigere 操纵 —— 「可操纵的」
-注意用法：今天一般说 airship；dirigible 多见于历史叙述。
+disclose
+核心：披露：把本来不为人知的事公开出来 —— 正式用词，
+财务、法律与新闻里最常见。及物动词，名词 disclosure。
+① The figures were disclosed the day after the vote and surprised nobody.
+= 那些数字在投票后一天披露，谁也不意外。
+disclose something = 披露某事
+② Full disclosure of the payments took a court order and two years.
+= 那些款项的完整披露，靠的是一纸法院命令和两年时间。
+disclosure = 披露
+构词：dis- 反向 加 close 关上
+注意别混：disclose 是正式披露，reveal 更通用，leak 是私下泄露。
 
-dirigisme
-核心：国家主导：政府直接插手指挥经济，而不只是设规则。
-法语借词，不可数，多带批评口气。形容词 dirigiste。
-① Post-war dirigisme built the motorways and left the railways to argue about.
-= 战后的国家主导修起了高速公路，铁路则留给人们争论。
-dirigisme = 国家主导（经济）
-② The plan is dirigiste in everything but name and the minister objects to the word.
-= 那份方案除了名字之外处处是国家主导，部长偏偏反感这个词。
-be dirigiste = 国家主导式的
-构词：法语 diriger 指挥
-注意语域：经济与政治评论用语，多带贬义。
+disco
+核心：三支。一是迪斯科舞厅与舞会（go to a disco）；
+二是那种音乐风格（disco music）；三是作定语说那个年代的风格
+（disco lights）。可数，复数 discos。
+正式旧称是 a discotheque；一位歌手或乐队的全部录音叫 a discography。
+① The village hall disco finished at eleven and everybody was home by twenty past.
+= 村会堂的舞会十一点散场，二十分之后人人到家。
+a disco = 舞会、迪斯科舞厅
+② Disco came back every ten years and never quite left in between.
+= 迪斯科每十年回潮一次，其间也没真正离开过。
+disco = 迪斯科音乐
+③ The discotheque closed in 1988 and the sign stayed up for another decade.
+= 那家迪斯科舞厅一九八八年关门，招牌又挂了十年。
+a discotheque = 迪斯科舞厅（旧称）
+④ Her discography runs to nine albums and about forty singles.
+= 她的全部录音有九张专辑、约四十首单曲。
+a discography = 录音作品全目
+⑤ Disco music was written off twice and outlived both of the people who wrote it off.
+= 迪斯科音乐两次被判死刑，却比两位判它死刑的人都活得长。
+disco music = 迪斯科音乐
+作定语还说 disco lights、a disco ball。
+⑥ A disco ball still hangs in the village hall and turns for one night a year.
+= 村会堂里至今挂着一只镜面球，一年只转一晚。
+a disco ball = 镜面反光球
+舞厅顶上那种贴满小镜片的球；作定语的一族还有 disco lights。
+构词：法语 discothèque 唱片库
+注意用法：discotheque 偏旧，日常一律说 disco 或 club。
 
-dirk
-核心：短剑：苏格兰高地传统服饰里佩的那种直刃匕首。可数，偏历史。
-① The dirk is worn at the belt and the small knife goes in the sock.
-= 短剑佩在腰带上，小刀插在长袜里。
-a dirk = 高地短剑
-② He carried his grandfather's dirk to the wedding and left it in the car.
-= 他带着祖父的短剑去参加婚礼，最后把它留在了车里。
-carry a dirk = 佩一把短剑
-构词：来源不确，十六世纪起见于苏格兰
-注意语域：历史与民俗语境里用。
+discolour
+核心：使变色、褪色发黄：说牙齿、布料、纸张因年久或化学作用变了颜色。
+及物不及物都行，美式拼 discolor。名词 discoloration。
+① Tea discolours the cups and no amount of scrubbing gets them back.
+= 茶把杯子染色了，怎么刷也刷不回来。
+discolour something = 使某物变色
+② The discoloration on the ceiling told them where the leak had been.
+= 天花板上那片变色告诉他们漏点在哪儿。
+discoloration = 变色的痕迹
+构词：dis- 反向 加 colour 颜色
+注意用法：英式 discolour、美式 discolor；名词两边都常写 discoloration。
 
-dirndl
-核心：迪恩德尔裙：阿尔卑斯地区的传统女装 —— 紧身上衣、宽裙、围裙。
-可数。德语借词。
-① She wore a dirndl to the festival and was photographed forty times.
-= 她穿着迪恩德尔裙去赶节庆，被拍了四十次。
-a dirndl = 迪恩德尔裙
-② A good dirndl is hand-sewn and costs more than the flight there.
-= 一条好的迪恩德尔裙是手工缝的，比飞过去的机票还贵。
-a hand-sewn dirndl = 手工缝制的迪恩德尔裙
-构词：德语 Dirndl 少女
-注意用法：民俗服饰名，说的时候一般不译。
+discombobulate
+核心：（口语，多美式，带诙谐）把人搞懵：让人一时晕头转向、不知所措。
+及物动词，多用被动 be discombobulated；
+形容词 discombobulating 说事情让人发懵。
+① The two-hour delay and the change of gate discombobulated everybody on that flight.
+= 两小时的延误加上临时换登机口，把那趟航班的人都搞懵了。
+discombobulate somebody = 把某人搞懵
+② It is a discombobulating building and the signs make it worse.
+= 那栋楼本来就让人晕头转向，标识牌更是雪上加霜。
+discombobulating = 让人发懵的
+构词：十九世纪美国生造的戏谑词
+注意语域：口语与诙谐用语，正式文字不用。
 
-dirt
-核心：三支。一是泥土、脏东西（wash the dirt off）；
-二是美式的「土」，说 a dirt road 土路；三是口语的「丑闻、内幕」——
-dish the dirt on somebody 是抖某人的料。
-习语 dirt cheap 是「便宜得像白给」。
-① He washed the dirt off his hands with a hose and went straight to the table.
-= 他用水管把手上的泥冲掉，直接就上了桌。
-dirt = 泥土、脏东西
-② The last two miles are a dirt road and the taxi will not go down it.
-= 最后两英里是土路，出租车不肯开进去。
-a dirt road = 土路（美式）
-③ They dished the dirt on their old employer for an hour and enjoyed all of it.
-= 他们抖了一个钟头老东家的料，抖得很痛快。
-dish the dirt on somebody = 抖某人的料
-④ The house was dirt cheap and the reason showed up in the first winter.
-= 那房子便宜得离谱，原因在第一个冬天就露了出来。
-dirt cheap = 便宜得离谱
-⑤ Some dirtbag had taken the wheels and left the car on bricks.
-= 哪个混账把轮子拆走了，把车架在砖头上。
-a dirtbag = 混账、下作的人（美式俚语）
-⑥ They ride dirt bikes on a dirt track that used to be a dirt road to the farm.
-= 他们在一条土跑道上骑越野摩托，那条道从前是通往农场的土路。
-a dirt bike = 越野摩托
-a dirt track = 泥土跑道
-a dirt farmer = 自耕自种的小农（美式）
-dirt track 也指赛马与摩托赛的土场地。
-⑦ They were dirt poor for two winters and never once said so to anybody.
-= 他们穷得叮当响过两个冬天，却从没对谁提起。
-dirt poor = 穷得叮当响
-跟 dirt cheap 同一路：dirt 在这里是加强语气。
-构词：古北欧语 drit 粪污
-注意语域：抖料与骂人那两支都是口语。
+discomfit
+核心：（正式）使窘迫、使乱了阵脚：让人一时不知怎么应对。
+及物动词，多用被动。名词 discomfiture。
+跟 discomfort 不同源，意思也不一样 —— 后者说身体或心里不舒服。
+① One question about the accounts discomfited a speaker who had prepared for everything else.
+= 关于账目的一个问题，让一位对其余都有准备的讲者乱了阵脚。
+discomfit somebody = 使某人窘迫失措
+② His discomfiture was obvious and lasted about four seconds.
+= 他的窘态显而易见，大约持续了四秒。
+discomfiture = 窘迫、失措
+构词：古法语 desconfit 被击败的
+注意别混：discomfit 是使人窘迫，discomfort 是不适 —— 两个词不同源。
 
-dirty
-核心：四支。一是脏的（dirty hands）；二是不正当的：说手段卑鄙
-（a dirty trick）、也说 somebody's dirty work 指替人干的下作事；
-三是下流的（a dirty joke）；四是动词「弄脏」。
-习语 give somebody a dirty look 是「瞪某人一眼」。
-① He came in with dirty hands and was sent straight back out again.
-= 他手上脏兮兮地进来，立刻又被赶了出去。
-dirty hands = 脏手
-② She gave him a dirty look across the table and he stopped talking.
-= 她隔着桌子瞪了他一眼，他就不说了。
-give somebody a dirty look = 瞪某人一眼
-③ He does somebody else's dirty work and gets none of the credit for it.
-= 他替别人干那些下作活儿，功劳一点也没他的。
-do somebody's dirty work = 替某人干下作的活儿
-④ The whole campaign turned on one dirty trick that nobody could prove.
-= 整场竞选被一记谁也证明不了的卑鄙手段左右了。
-a dirty trick = 卑鄙手段
-⑤ Do not dirty the cloth with those boots on the table.
-= 靴子别放桌上，把桌布弄脏了。
-dirty something = 弄脏某物
-⑥ The children got their coats dirty within four minutes of leaving the house.
-= 孩子们出门不到四分钟就把外套弄脏了。
-get something dirty = 把某物弄脏
-日常最常用的说法；主动去弄脏才说 dirty something。
-⑦ A dirty bomb frightens people more than it hurts them, which is the whole point of it.
-= 脏弹吓人的程度远超它的杀伤，而这正是它的用意。
-a dirty bomb = 脏弹（散布放射性物质的爆炸装置）
-a dirty word = 忌讳的说法
-a dirty word 引申指某个圈子里说不得的词，如 tax is a dirty word here。
-⑧ The phrase dirty old man did a lot of work in that report and the phrase dirty weekend did more.
-= 那份报告里「老色鬼」这个说法用得很多，「偷情周末」用得更多。
-a dirty old man = 老色鬼（口语，贬）
-a dirty weekend = 偷情的周末（英式口语，戏谑）
-dirty blonde = 暗金色的（说发色）
-前两个都是口语戏谑说法；dirty blonde 说的是发色偏深的金发。
-构词：dirt 加 -y
-注意用法：比较级 dirtier；说话下流那一支说 a dirty joke、dirty talk。
+discomfort
+核心：不适：身体上的轻微疼痛或不舒服，也说心里的别扭。
+不可数为主，可数时指某一处不适。也作动词（正式，使不安）。
+① The dentist promised mild discomfort and delivered something rather stronger.
+= 牙医许诺只有轻微不适，实际来的比那强烈得多。
+mild discomfort = 轻微不适
+② There was a visible discomfort in the room when the subject came up.
+= 那个话题一提起来，屋里明显有股别扭劲儿。
+discomfort = 别扭、不自在
+构词：dis- 反向 加 comfort 舒适
+注意用法：医学问诊里常用 discomfort 来婉指疼痛。
 
-dis
-核心：（口语，源自嘻哈圈）不尊重、贬损：说人当面或公开地怠慢别人。
-及物动词，也作名词；也拼 diss，两种写法都通行。
-变形 dissed、dissing。
-① He felt dissed by an email that took four days to arrive.
-= 一封四天才到的邮件，让他觉得被怠慢了。
-dis somebody = 怠慢、贬损某人
-② The track is one long diss aimed at somebody who never replied.
-= 那首歌通篇是冲着一个从没回应的人去的贬损。
-a diss = 一次公开贬损
-③ Calling somebody by the wrong name twice reads as disrespect, whatever you meant.
-= 把人家的名字叫错两回，不管你本意如何，读起来都是不敬。
-disrespect = 不敬、无礼
-名词形式在正式与口语里都用，动词那一支才是嘻哈圈带火的。
-构词：disrespect 的截短
-注意语域：截短形是口语与流行文化用语，正式场合不用。
+discompose
+核心：（正式，偏旧）使心神不宁：把人本来的镇定打乱。及物动词，
+名词 discomposure 更常见，说「失去镇定的样子」。
+① Nothing discomposed her except being asked to speak without notice.
+= 除了被临时叫上去讲话，什么也扰乱不了她的镇定。
+discompose somebody = 使某人心神不宁
+② A flicker of discomposure crossed his face and was gone before anybody was sure.
+= 他脸上闪过一丝慌乱，还没等谁看准就没了。
+discomposure = 失态、心神不宁
+构词：dis- 反向 加 compose 使镇定
+注意语域：偏旧、偏文学；日常说 upset、unsettle。
 
-disability
-核心：残障：身体或心智上的损伤，使某些活动受限。可数不可数都行。
-今天得体的说法是 a person with a disability 或 a disabled person，
-两种都有人主张，避免 the disabled 与 handicapped 这类旧词。
-① The building was designed without a single thought for anybody with a disability.
-= 那栋楼的设计对残障人士毫无考虑。
-a person with a disability = 残障人士
-② Disability benefit was refused twice and granted on appeal in the third year.
-= 残障津贴被拒了两次，第三年上诉才批下来。
-disability benefit = 残障津贴
-构词：dis- 去掉 加 ability 能力
-注意语域：避免 handicapped 与 the disabled 这类旧说法。
+disconcert
+核心：使不安、使发窘：让人一下子拿不准该怎么办。及物动词，
+多用被动 be disconcerted。形容词 disconcerting 说事情「让人心里发毛」，
+副词 disconcertingly。
+① She was disconcerted by how quickly he agreed to everything.
+= 他什么都答应得那么快，反倒让她不安。
+be disconcerted by something = 被某事弄得不安
+② There is a disconcerting gap between what the report says and what it shows.
+= 那份报告说的和它呈现的之间，有一道让人心里发毛的落差。
+a disconcerting gap = 让人不安的落差
+③ The corridor is disconcertingly quiet for a building with four hundred people in it.
+= 一栋住着四百人的楼，走廊安静得让人发毛。
+disconcertingly quiet = 安静得让人发毛
+构词：dis- 反向 加古法语 concerter 协调一致
+注意别混：disconcert 是让人拿不准、发窘，upset 是让人难过。
 
-disable
-核心：两支。一是使丧失能力：伤病让人不能正常活动；
-二是技术上的「停用、禁用」——disable a feature 是把功能关掉。
-及物动词。形容词 disabled 说人残障，也说设备被禁用；
-名词 disablement 指丧失劳动能力那种状态，多见于保险与法律文书。
-① The accident disabled him for a year and he went back to a different job.
-= 那场事故让他一年无法工作，回去时换了个岗位。
-disable somebody = 使某人丧失行动或工作能力
-② Disable the automatic updates before you take the machine on a plane.
-= 把机器带上飞机之前，先把自动更新关掉。
-disable a feature = 关掉某项功能
-③ The lift has been disabled since Thursday and the notice went up on Monday.
-= 那部电梯从周四起就停用了，告示周一才贴出来。
-be disabled = 被停用的
-④ The policy pays out on permanent disablement and defines it in four pages.
-= 那份保单对永久丧失劳动能力赔付，并用四页界定它。
-disablement = 丧失劳动能力
-构词：dis- 去掉 加 able 能够
-注意用法：说人时今天多说 a disabled person 或 a person with a disability。
+disconnect
+核心：三支。一是断开：切断电源、水管、线路（disconnect the supply）；
+二是挂断或掐断通话；三是名词与形容词的「脱节」——
+a disconnect between A and B 说两者对不上（美式常用），
+disconnected 说话或思路「不连贯」。名词 disconnection。
+① They disconnected the water at nine and reconnected it after dark.
+= 他们九点断了水，天黑之后才恢复。
+disconnect something = 切断某物
+② There is a disconnect between what head office plans and what the shops can do.
+= 总部的计划跟门店做得到的事之间是脱节的。
+a disconnect between A and B = 甲与乙之间的脱节
+③ His account of the evening was disconnected and he apologized for it twice.
+= 他讲那晚的经过颠三倒四，还为此道了两次歉。
+be disconnected = 不连贯的
+④ The disconnection took two minutes and getting reconnected took two weeks.
+= 断线用了两分钟，恢复用了两周。
+disconnection = 断开、断供
+构词：dis- 反向 加 connect 连接
+注意用法：名词 a disconnect 说「脱节」，美式更常用，英式多说 a gap。

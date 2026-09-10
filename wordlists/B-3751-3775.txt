@@ -1,447 +1,416 @@
-buzzer
-核心：按下去发出嗡嗡声的电子装置——门铃、抢答器、
-比赛计时结束的那一声都是。竞赛节目里 beat the buzzer 是
-赶在铃响前答出来，篮球里 a buzzer-beater 是压哨绝杀。
-可数。
-① He pressed the buzzer and nobody came for a quarter of an hour.
-= 他按下蜂鸣器，一刻钟没人来。
-press the buzzer = 按蜂鸣器
-② The buzzer sounded at full time with the score still level.
-= 终场蜂鸣响起时，比分仍是平的。
-sound = 响起
-③ She hit a buzzer-beater from beyond the halfway line.
-= 她在中线之外投进一记压哨球。
-a buzzer-beater = 压哨绝杀
-构词：buzz 嗡嗡响 + -er
+cack
+核心：英式粗俗口语，本义是屎，引申指毫无价值的东西。
+用作不可数名词，talk cack 是胡扯；也作形容词，
+意思是糟透的。这是不礼貌的词，正式与书面场合都不能用，
+收在这里只为读到时能认得。
+① Don't talk cack — you were not even in the building that afternoon.
+= 别胡扯，那天下午你根本不在楼里。
+talk cack = 胡扯（粗俗）
+② The whole film was cack apart from about four minutes near the end.
+= 那电影烂透了，只有快结尾那四分钟还行。
+cack = 糟透的（粗俗）
+③ He wrote off the plan as cack without reading past the first page.
+= 他连第一页都没读完，就一口断定那个计划是废物。
+write off as = 一口断定为……
+④ His repair was cack-handed and the tap leaked worse than before.
+= 他修得笨手笨脚，水龙头比原先漏得还厉害。
+cack-handed = 笨手笨脚的（英式口语）
+构词：拉丁语 cacare 排泄
+注意语域：粗俗不礼貌，英式；只需认得，不要用。
 
-buzzword
-核心：某个行当里一阵子人人都挂在嘴上的时髦词——听着专业、
-其实往往说不清具体指什么。用这个词就带着怀疑：
-说 the latest buzzword 是在暗示它多半是包装，不是实质。
-可数。
-① Sustainability became a buzzword before anyone had defined it.
-= 还没人给可持续性下过定义，它就成了个时髦词。
-become a buzzword = 变成人人挂嘴边的词
-② The report is full of buzzwords and short of actual figures.
-= 那份报告满是时髦术语，实在数字却没几个。
-③ Buzzwords date quickly and the papers keep using them anyway.
-= 那类词过时得很快，报纸照用不误。
-date = 过时
-构词：buzz 嗡嗡议论 + word 词
-注意语用：带怀疑，暗示多半是包装。
+cackle
+核心：母鸡下蛋后那种断续的咯咯声，是这个词的本义；
+用在人身上指刺耳、带点得意或幸灾乐祸的笑声。
+动词名词同形，名词可数也可不可数。英式口语另有
+cut the cackle：别废话，说正题。
+① The hens cackled in the yard every time somebody opened the back door.
+= 只要后门一开，母鸡就在院子里咯咯叫。
+cackle = 咯咯叫（母鸡）
+② She cackled at his misfortune and made no attempt to hide it.
+= 她对他的倒霉事咯咯直笑，一点没打算掩饰。
+cackle = 刺耳得意地笑
+③ A cackle came from the back row and the speaker lost his place.
+= 后排传来一阵怪笑，讲话的人忘了说到哪儿。
+a cackle = 一阵刺耳的笑
+④ Cut the cackle and tell me the price before the shop closes.
+= 少废话，趁店没关门直接说价。
+cut the cackle = 别废话，说正题
+构词：拟声，模仿鸡叫
+注意语域：说人笑时带贬义，不是善意的笑。
 
-by
-核心：这个介词管的支很多，几条最常用的要分清。一是被动语态里
-的施事：written by her 是她写的。二是位置上的"在旁边"：
-sit by the window。三是"经过"：walk by the shop。
-四是时间上的"不迟于"：by Friday 是周五之前，
-它跟 until 的分别要紧——by 说的是那个时点之前完成，
-until 说的是一直持续到那个时点。五是方式和手段：
-by train、by email、by hand。六是依据：by law 是依法。
-七是差额：missed by an inch 是差一英寸。
-习语 by and large 是大体上，by the way 是顺便一提。
-① The book was written by her and published under her husband's name.
-= 这本书是她写的，却用她丈夫的名字出版。
-被动语态里的施事。
-② She sat by the window and watched the same street for forty years.
-= 她坐在窗边，看了四十年同一条街。
-by = 在……旁边
-③ We walked by the old church and neither of us said a word.
-= 我们走过那座老教堂，两个人都没说话。
-by = 从旁边经过
-④ Finish it by Friday or the whole thing goes back in the queue.
-= 周五前完成，否则整件事又要重新排队。
-by = 不迟于（某个时点）
-⑤ They came by train and spent longer in the buffet than on the journey.
-= 他们坐火车来，在餐车里待的时间比路上还长。
-by = 以某种方式或手段
-⑥ It is required by law and enforced about as often as it rains here.
-= 这是法律规定的，执行的频率跟这里下雨差不多。
-by law = 依法
-⑦ He missed the shot by an inch and never mentioned it again.
-= 那一球他差一英寸没进，此后再没提过。
-by = 相差（多少）
-⑧ They are paid by the hour and are not paid for the travelling.
-= 他们按小时计酬，路上的时间不算钱。
-by the hour = 按小时计
-⑨ By and large it works, provided nobody asks it to do two things at once.
-= 大体上是管用的，只要别让它同时做两件事。
-by and large = 总的来说
-⑩ By the way, she called twice and would not leave a message.
-= 顺便说一句，她打了两次电话，不肯留言。
-by the way = 顺便提一句
-构词：古英语 bi
-注意别混：
-by Friday = 不迟于周五（那之前完成）
-until Friday = 一直到周五（持续到那时）
-
-bycatch
-核心：渔业用语，指下网时连带捞上来的非目标物种——海龟、
-海豚、幼鱼、不值钱的杂鱼都算。它是渔业管理里的核心问题：
-很多被捞上来时已经死了，扔回海里也活不成。
-不可数。
-① Bycatch is a major concern for every fishery on that coast.
-= 对那片海岸的每个渔场来说，兼捕都是个大问题。
-a concern = 令人担忧的问题
-② Turtles often end up as bycatch and rarely survive the net.
-= 海龟常成为兼捕的牺牲品，很少能活着离网。
-end up as = 最终成为
-③ New nets reduce bycatch by letting small fish through the mesh.
-= 新式渔网让小鱼从网眼里漏出去，减少了兼捕。
-reduce = 减少
-构词：by 附带的 + catch 渔获
-注意用法：指非目标物种的附带渔获。
-
-bye
-核心：两支。一是 goodbye 的缩略，最日常的道别，
-叠说 bye-bye 更随意，多对小孩说。二是体育赛制里的轮空：
-某一轮不用比赛直接晋级，说 they got a bye 是"他们轮空了"，
-多因参赛人数不成双或种子选手享受的待遇。可数。
-① Bye, see you tomorrow, she said, and was back within the hour.
-= 她说了句「再见，明天见」，不到一小时又回来了。
-② She waved bye-bye to the baby through the window of the train.
-= 她隔着火车车窗朝婴儿挥手说再见。
-bye-bye = 再见（更随意，多对小孩说）
-③ The top seed received a bye and did not play until the third round.
-= 头号种子轮空，到第三轮才上场。
-a bye = 轮空、不战而进
-④ Time for bye-byes, he said, and read the same page for the fourth time.
-= 他说了句「该睡觉觉了」，把同一页读了第四遍。
-bye-byes = 睡觉（英式儿语，对小孩说）
-⑤ The council passed a new bye-law that nobody has ever been fined under.
-= 议会通过了一条新的地方法规，从没有人因它被罚过。
-bye-law = 地方法规（by-law 的另一种拼法）
-构词：goodbye 的缩略
-注意用法：轮空那一支是体育赛制用语。
-
-bygone
-核心：形容词，过去的、早已不在的。它几乎只用在一个搭配里：
-a bygone era 或 bygone days，指那个"回不去了"的年代，
-带一点怀旧。日常说"过去的"用 past，
-bygone 一出现就带着感慨的调子。
-① It belongs to a bygone era when letters took a week to arrive.
-= 那属于信件要走一星期的逝去年代。
-a bygone era = 逝去的年代
-② She spoke of bygone days without once saying they were better.
-= 她说起从前的日子，一次也没说那时更好。
-bygone days = 往昔的岁月
-③ The style is bygone but charming and comes back every decade.
-= 那种样式虽已过时却别有味道，每十年就回潮一次。
-构词：by 过去 + gone 走了的
-注意语用：带怀旧的调子，
-日常说"过去的"用 past。
-
-bygones
-核心：名词，只活在一个说法里：let bygones be bygones——
-过去的事就让它过去，别再计较。它专用在劝人和解的场合，
-说这句就是在提议双方把旧账一笔勾销。只用复数。
-① Let bygones be bygones, he said, and poured them both a drink.
-= 他说过去的事就算了吧，给两人各倒了一杯。
-let bygones be bygones = 既往不咎
-② They agreed to let bygones be bygones and never mentioned the house.
-= 他们同意不再计较旧事，房子的事从此不提。
-agree to = 同意
-构词：bygone 过去的 + -s
-注意用法：只用在那一个习语里。
-
-byline
-核心：报刊文章上署作者名的那一行，通常在标题下方。
-它在新闻行当里不只是个署名：拿到 byline 意味着这篇稿子
-署你的名、也由你负责，所以年轻记者会说 get a byline
-是一件要紧的事。可数。
-① The story ran without a byline for reasons nobody explained.
-= 那篇报道没有署名，原因谁也没说。
-run = 刊登
-② She got her first byline at twenty on four hundred words.
-= 她二十岁靠四百字的稿子第一次署了名。
-get a byline = 拿到署名
-③ The byline sits under the headline and above the first line.
-= 署名行在标题下面、正文第一行上面。
-a headline = 标题
-构词：by 由…… + line 行
-注意用法：署名意味着由你负责。
-
-byname
-核心：正名之外的另一个名字——绰号、诨号、或者用来区分同名者的
-附加称呼。历史文本里常见：把某位国王叫作 the Bold，
-那个 the Bold 就是他的 byname。今天日常说绰号用 nickname。
-可数。
-① The king had the byname Ironside and no one recorded why.
-= 那位国王有个诨号叫铁甲，没人记下缘由。
-② In a village of nine Johns everyone needed a byname.
-= 一个村里九个约翰，人人都得有个诨号。
-distinguish = 区分
-构词：by 附加的 + name 名字
-注意语域：多用于历史文本，
-日常说 nickname。
-
-bypass
-核心：两支，都从"绕过去"来。一是绕城公路：不进城、
-从外围绕过去的那条路，英国到处都是。二是医学上的搭桥：
-心脏搭桥手术是给堵住的血管另接一条通路绕过去，
-说 a heart bypass 就是它。动词是绕开——绕开某个环节、
-某道手续、某个人，这一支在办事和政治语境里最常用。
-可数。
-① Take the bypass round the town unless you enjoy sitting at four sets of lights.
-= 走绕城路绕过那个镇吧，除非你乐意在四个红绿灯前干等。
-a bypass = 绕城公路
-② He had a heart bypass in March and was back on his bicycle by August.
-= 他三月做了心脏搭桥，八月就又骑上自行车了。
-a heart bypass = 心脏搭桥手术
-③ They bypassed the committee entirely and went straight to the minister.
-= 他们干脆绕开委员会，直接找了大臣。
-bypass = 绕开某个环节或某个人
-④ The new road bypasses the village and has halved the traffic through it.
-= 那条新路从村外绕过，把穿村的车流减了一半。
-构词：by 旁边 + pass 通过
-注意用法：绕开某个环节那一支最常用。
-
-byre
-核心：牛棚，关牛过夜和挤奶的那间屋子。它是个偏旧偏文学的词，
-今天说牛棚用 cowshed 或 barn，byre 多出现在诗、
-乡村小说和地名里。可数。
-① The byre stands a field away from the house and smells of nothing else.
-= 牛棚离屋子隔着一块地，一进去只有那一股味。
-lead into = 赶进
-② The old byre has been converted and lets for more than the farm earns.
-= 那间旧牛棚改建过了，租金比农场挣的还多。
-convert = 改建
-构词：古英语 byre 棚屋
+cacophony
+核心：一堆声音混在一起，刺耳难听。可以是实的（喇叭、
+叫喊、乐器乱响），也可以是比喻的，a cacophony of
+opinions 是众口嘈杂。形容词 cacophonous 是嘈杂难听的。
+词根 caco- 是希腊语的坏，-phony 是声音。多用单数，
+常跟 a cacophony of。
+① A cacophony of horns filled the street for the whole of the delay.
+= 堵着的那一段时间里，满街都是刺耳的喇叭声。
+a cacophony of = 一片嘈杂的……
+② The debate became a cacophony and the chair switched the microphones off.
+= 那场辩论变成一片嘈杂，主持人把话筒全关了。
+cacophony = 刺耳的混杂声响
+③ The cacophonous rehearsal drove him out to the car park.
+= 排练吵得他躲到了停车场。
+cacophonous = 嘈杂难听的
 近义对照：
-byre = 牛棚（偏旧偏文学）
-cowshed = 牛棚（日常说法）
+cacophony = 刺耳嘈杂（贬义）
+din = 持续的巨响（只说吵）
+harmony = 和谐悦耳（反面）
+构词：希腊语 kakos 坏 加 phone 声音
 
-byroad
-核心：小路、僻路——离开主干道的那种窄路，车少人少。
-它跟 byway 意思很近，都指不走大路的那条；
-byroad 更侧重"路"本身，用得比 byway 少。可数。
-① They took a byroad to avoid the traffic and arrived an hour late.
-= 他们走小路避开堵车，结果晚到了一小时。
-avoid = 避开
-② The byroad wound through fields with grass down the middle.
-= 那条小路在田间蜿蜒，路当中还长着草。
-wind = 蜿蜒
-③ Signposts are rare on byroads and the map is thirty years old.
-= 小路上很少有路牌，那张地图还是三十年前的。
-a signpost = 路牌
-构词：by 旁的 + road 路
+cactus
+核心：仙人掌类植物的统称。复数两种都对：cacti 偏正式
+与学术，cactuses 偏日常。可数。
+① The cactus needs almost no water and dies if you give it any.
+= 那盆仙人掌几乎不用浇水，浇了反而会死。
+cactus = 仙人掌
+② The desert was covered in cacti taller than the truck.
+= 沙漠里满是比卡车还高的仙人掌。
+cacti = 复数（正式）
+③ She collects cactuses and has run out of windowsill.
+= 她收集仙人掌，窗台早已摆不下。
+cactuses = 复数（日常）
+构词：希腊语 kaktos 一种带刺的植物
+注意用法：两种复数都通行，学术写作多用 cacti。
+
+cad
+核心：对待女性不讲道义的男人，骗、耍、不负责任。
+这个词现在带旧气，多见于小说或半开玩笑的说法，
+形容词 caddish 是下流无品的。可数，只说男的。
+① He behaved like an absolute cad and never once apologised.
+= 他的行为十足是个无赖，一次歉都没道过。
+a cad = 对女性不讲道义的男人
+② Her father called him a cad and shut the door on him.
+= 她父亲骂他不是东西，当面把门关上了。
+③ It was a caddish thing to do in front of her family.
+= 当着她家人的面做那种事，很没品。
+caddish = 下流无品的
+构词：caddie 的截短，本指低等仆役
+注意语域：带旧气，今天多用于戏谑。
+
+cadaver
+核心：尸体，尤指供医学解剖用的那具。这是术语用词，
+医学与法律文书里说 cadaver，日常说 body 或 corpse。
+形容词 cadaverous 借尸体的样子形容活人：面色灰白、
+瘦得脱形。可数。
+① Medical students dissect a cadaver in the first year of the course.
+= 医学生在课程第一年就做尸体解剖。
+cadaver = 供解剖的尸体
+② The report listed the cadaver by number and gave no name.
+= 报告按编号登记那具遗体，没有写名字。
+③ He had a cadaverous look after six weeks of the illness.
+= 病了六周之后，他面色灰白，瘦得脱了形。
+cadaverous = 面色灰白瘦得脱形的
 近义对照：
-byroad = 僻路（侧重路本身）
-byway = 小路；也指冷门的领域
+cadaver = 尸体（医学与法律用词）
+corpse = 尸体（通用）
+body = 遗体（最中性）
+构词：拉丁语 cadere 倒下
 
-Byronic
-核心：拜伦式的：形容那种忧郁孤高、不合流俗、又带点自毁倾向的
-男性形象，出自诗人拜伦笔下与本人的做派。文学评论里的固定说法，
-最常搭 a Byronic hero。
-① He cultivated a Byronic gloom and kept a limp he did not need.
-= 他刻意做出拜伦式的忧郁，还装着一条并不瘸的腿。
-a Byronic gloom = 拜伦式的忧郁
-② The novel gives us a classic Byronic hero who ruins everyone near him.
-= 那部小说给了个典型的拜伦式主人公，身边的人一个个被他毁掉。
-a Byronic hero = 拜伦式主人公
-构词：诗人 Byron 的姓加 -ic
-注意用法：几乎只用于文学与人物评论。
+caddie
+核心：高尔夫球童：替球手背包、递杆、看距离和风向的人。
+动词是做球童。也拼作 caddy，两种写法都对，但 caddy
+另有茶叶罐的意思，容易混。来自法语 cadet 幼子，本指
+跟着跑腿的年轻人，cad 也是从这个词截短来的。可数。
+① He worked as a caddie at the club through three summers.
+= 他在那家球会当了三个夏天的球童。
+caddie = 高尔夫球童
+② She caddied for her brother and talked him out of one club.
+= 她给她哥哥当球童，还劝他换掉了一支球杆。
+caddie for somebody = 给某人当球童
+③ The caddie read the green for him and got it exactly right.
+= 球童替他看了果岭坡度，判得分毫不差。
+read the green = 判读果岭起伏
+构词：法语 cadet 幼子，跟着跑腿的年轻人
+注意别混：caddy 也指茶叶罐，跟球童义不同源。
 
-bystander
-核心：旁观者——事情发生时正好在场、但没参与的人。
-它最常出现在两个搭配里：an innocent bystander 是
-无辜的旁观者，多用在伤及无辜的报道里；
-the bystander effect 指旁观者越多、越没人出手相助的现象。
+caddis
+核心：石蛾。这个词几乎只以两个组合出现：caddis fly 指
+成虫，caddis worm 指水里的幼虫。单说 caddis 的时候少，
+在钓鱼和淡水生态的文字里最常见。可数。
+① A caddis fly landed on the water and was gone in a second.
+= 一只石蛾落在水面上，一秒就没了。
+caddis fly = 石蛾（成虫）
+② Trout feed on caddis worms all through the early summer.
+= 整个初夏，鳟鱼都在吃石蛾幼虫。
+caddis worm = 石蛾幼虫
+③ He tied a fly to imitate a caddis and caught three that evening.
+= 他绑了个仿石蛾的假饵，那晚钓上三条。
+tie a fly = 绑制假饵
+注意用法：多说 caddis fly 或 caddis worm，少单用。
+
+caddy
+核心：两支，不同源。一是茶叶罐：带盖的小罐，专门装茶叶，
+a tea caddy 是固定说法。二是收纳小件的容器或架子，
+美式还指装工具、清洁用品的提篮。它同时也是 caddie 的
+另一种拼法，所以见到 caddy 要看上下文是罐子还是球童。
 可数。
-① An innocent bystander was hurt by a piece of falling stone.
-= 一块落石砸伤了一名无辜路人。
-an innocent bystander = 无辜的旁观者
-② Bystanders filmed the incident and nobody called for help.
-= 旁观者都在拍那件事，没人叫人来帮忙。
-film = 拍摄
-③ The bystander effect is well documented and still surprises people.
-= 旁观者效应有大量记录，人们听了还是意外。
-the bystander effect = 旁观者越多越无人相助的现象
-构词：by 旁边 + stander 站着的人
-注意用法：指在场但没参与的人。
+① She keeps loose tea in a caddy that belonged to her grandmother.
+= 她把散茶装在祖母留下的茶叶罐里。
+a tea caddy = 茶叶罐
+② Put the sponges in the shower caddy so they drain properly.
+= 把海绵放到浴室收纳架上，好让水沥干。
+shower caddy = 浴室收纳架
+③ He carried a caddy of cleaning supplies from floor to floor.
+= 他提着一篮清洁用品，一层层地走。
+caddy = 收纳提篮（美式）
+构词：马来语 kati 重量单位，原指一斤装的茶罐
+注意别混：作球童讲时是 caddie 的异体拼法，两支不同源。
 
-byte
-核心：计算机里的信息单位，一个字节等于八位。它跟 bit 的分别
-要靠大小写记：小写 b 是 bit（位），大写 B 是 byte（字节），
-所以 Mb 和 MB 差八倍——网速常按 Mbps 标，
-文件大小按 MB 标，看错就会以为下载慢了八倍。可数。
-① A byte is eight bits, which is enough for one letter of text.
-= 一个字节是八位，正好够存一个字母。
-② The file is two megabytes and will not fit on that disk.
-= 那个文件两兆字节，那张盘装不下。
-a megabyte = 兆字节
-③ Speeds are quoted in bits and sizes in bytes, so the two differ eightfold.
-= 速率按位算，容量按字节算，两者差八倍。
-be quoted in = 以某单位标示
-构词：可能是 bite 的改拼，避免跟 bit 混
-注意别混：
-bit = 位（小写 b）
-byte = 字节（大写 B，等于八位）
+cadence
+核心：说话或音乐里那种起伏的节奏感，三支都是在说一段
+声音怎么落下来。一是嗓音的抑扬顿挫；二是动作的节律，
+骑车说 cadence 指踏频；三是乐句结尾那一组和弦，
+把一段音乐收住，术语叫终止式。可数与不可数都有。
+① Her voice had a gentle cadence that put the children to sleep.
+= 她说话的调子起伏很柔和，把孩子哄睡了。
+cadence = 语调的抑扬起伏
+② Keep your cadence around ninety and let the gears do the rest.
+= 把踏频保持在九十上下，剩下的交给变速。
+cadence = 踏频
+③ The piece ends on a perfect cadence that nobody expects.
+= 那首曲子以一个谁都没料到的正格终止收尾。
+a perfect cadence = 正格终止
+构词：拉丁语 cadere 落下，与 cadaver 同源
+注意用法：说人声时最常见，其余两支限于骑行与乐理。
 
-byway
-核心：两支。一是小路僻径：偏离主干道的那种窄路，
-英国的 byways 是有法律地位的通行小道。二是引申义，
-指某个领域里的冷僻角落——the byways of history 是
-历史上那些少有人问津的旁枝末节，这一支多用复数，
-带一点探幽的意味。可数。
-① They cycled along quiet byways and met four cars in a day.
-= 他们沿着僻静小路骑车，一天只碰上四辆车。
-along = 沿着
-② The book explores the byways of science that textbooks skip.
-= 那本书探的是教科书跳过的科学冷门角落。
-the byways of = 某领域里少人问津的旁支
-③ Byways are open to walkers and to horses but not to lorries.
-= 那些小道对步行者和马开放，卡车不行。
-be open to = 对……开放
-构词：by 旁的 + way 路
-注意用法：引申义多用复数，带探幽意味。
+cadenza
+核心：协奏曲里留给独奏者一个人炫技的那一段：乐队停下，
+独奏自由发挥，早期由演奏者当场即兴，后来多由作曲家写定。
+来自意大利语，跟 cadence 同源，本来指的就是乐句收束前
+那一处停顿。可数。
+① The violinist improvised the cadenza differently every night.
+= 那位小提琴手每晚即兴的华彩段都不一样。
+cadenza = 独奏炫技的华彩段
+② The cadenza comes before the final chord and lasts two minutes.
+= 华彩段在最后一个和弦之前，长两分钟。
+③ Mozart wrote out his own cadenzas and left few to the player.
+= 莫扎特把自己的华彩段写成了谱，留给演奏者的余地不多。
+write out = 写成谱子
+构词：意大利语 cadenza 收束，与 cadence 同源
+注意用法：只用于乐曲，不作比喻。
 
-byword
-核心：某样东西的代名词——一提这个名字，人就想到那个特点。
-固定说法是 a byword for：Rolls-Royce is a byword for
-luxury 是"劳斯莱斯是奢华的代名词"。它可褒可贬：
-说某地是 a byword for corruption 就是骂它腐败出了名。
-可数。
-① The brand is a byword for quality and charges accordingly.
-= 那个牌子是品质的代名词，价钱也照此开。
-a byword for = ……的代名词
-② The town became a byword for decline within a single generation.
-= 一代人之间，那座城就成了衰败的代名词。
-decline = 衰败
-③ His name is a byword among fans who never saw him play.
-= 在没看过他比赛的球迷里，他的名字也无人不晓。
-构词：by 附加的 + word 词
-注意用法：可褒可贬，全看后面接什么。
+cadet
+核心：军校、警校里受训的学生，还没正式任职。
+police cadet、army cadet 是常见搭配，英国的 Cadet
+Force 是中学的军事训练团。词来自法语 cadet 幼子，
+贵族家的次子进军队，词义由此转成学员。可数。
+① He entered the academy as a cadet at the age of seventeen.
+= 他十七岁以学员身份进了军校。
+cadet = 军校或警校学员
+② Police cadets train for two years before they patrol alone.
+= 警校学员要训练两年才能单独巡逻。
+police cadet = 警校学员
+③ She joined the air cadets at fourteen and flew a glider that year.
+= 她十四岁加入空军少年团，当年就飞了滑翔机。
+air cadets = 空军少年训练团
+构词：法语 cadet 幼子，本指进军队的次子
+注意用法：指还在受训、尚未任职的人。
 
-Byzantine
-核心：两支。一是拜占庭的：东罗马帝国及其艺术与建筑。二是引申的
-普通义，小写居多：规矩多得离谱、绕来绕去让人摸不着头脑，说制度、
-手续、政治最常用，一律贬义。这一支比本义常读到。
-① The mosaics are Byzantine and took eleven years to clean.
-= 那些镶嵌画是拜占庭风格的，清理花了十一年。
-Byzantine = 拜占庭的
-② The rules are byzantine and change without anyone being told.
-= 那些规矩繁复得让人头大，改了也不通知谁。
-byzantine = 繁复难解的（贬义）
-③ He got lost in the byzantine bureaucracy of a single planning office.
-= 光是一个规划办公室，他就在那套盘根错节的手续里转不出来。
-byzantine bureaucracy = 盘根错节的官僚体系
-构词：拜占庭 Byzantium 加 -ine
-注意用法：说帝国大写，说繁复难解多小写。
+cadge
+核心：不太客气地跟人讨要小东西：讨支烟、蹭个车、赖顿饭。
+英式非正式，带点看不上的意思，说某人 cadge 就是嫌他老
+白拿。常搭 cadge something off 或 from somebody。
+惯于白拿的人叫 cadger。
+① He cadged a cigarette off me and never once had a packet of his own.
+= 他跟我讨了支烟，自己从来不备一包。
+cadge something off somebody = 跟某人讨要某物
+② Can I cadge a lift into town? The last bus went twenty minutes ago.
+= 能搭你的车进城吗？末班车二十分钟前就开了。
+cadge a lift = 蹭个车
+③ She is always cadging free tickets from people who work at the theatre.
+= 她老是找剧院里做事的人白要免费票。
+④ Nobody likes a cadger, least of all the people who keep giving in.
+= 谁都不喜欢总白拿的人，最烦他的正是那些一次次心软的人。
+cadger = 惯于白拿的人
+构词：来历不确定，一般认为与旧词 cadger 行商有关
+注意语域：英式非正式，带贬义。
 
-C-section
-核心：剖宫产：切开腹壁与子宫把胎儿取出的手术。全称 Caesarean
-section，日常口语与病历里都省成这两个字母加词。也作动词说
-be C-sectioned。可数。
-① The notes record a planned C-section at thirty-nine weeks.
-= 病历上记的是三十九周的择期剖宫产。
-an emergency C-section = 紧急剖宫产
-② One birth in four is a C-section here and the rate is still climbing.
-= 这里每四例分娩就有一例剖宫产，比例还在涨。
-a C-section = 剖宫产
-构词：Caesarean section 取头一个字母加后半截
-注意用法：口语与病历常用，正式医学文字写全称。
+cadmium
+核心：一种软质的银白色金属，符号 Cd。这个词在日常英语
+里最常出现在两处：cadmium yellow、cadmium red 是画材
+的颜色名；再就是重金属污染的报道。不可数。
+① Cadmium is highly toxic and builds up in the kidneys.
+= 镉毒性很强，会在肾里蓄积。
+cadmium = 镉
+② He mixed a little cadmium yellow into the sky and stopped there.
+= 他在天空里调了点镉黄，就此收手。
+cadmium yellow = 镉黄（颜料色名）
+③ The soil was contaminated with cadmium from a works closed in 1960.
+= 那片土壤被一家一九六〇年关停的工厂污染了镉。
+be contaminated with = 受……污染
+构词：拉丁语 cadmia 锌矿石
+注意用法：作颜料色名时后面直接接颜色词。
 
-C-word
-核心：委婉说法：拿首字母代替一个说不出口的词，避免把它念出来。
-最常指那句最重的粗话，但也随场合换指别的忌讳词 —— 谈癌症时
-the C-word 指的是 cancer。同样的造法还有 the F-word、the N-word。
-① Nobody at the table would say the C-word.
-= 那张桌上没人肯把那个字说出口。
-the C-word = 那个说不出口的词
-② For years he avoided the C-word after his diagnosis.
-= 确诊之后他好些年不肯提那个字。
-avoid the C-word = 避开那个忌讳的词
-构词：首字母加 word，是一整套委婉造法
-注意用法：具体指哪个词看上下文，不是固定的。
+cadre
+核心：两支。一是核心骨干：一个组织里受过训练、能带人的
+那一小批，a cadre of trainers 是一支教练骨干队伍。
+二是政党里的干部，尤其用来说共产党体制下的干部，
+这一支多是外部观察者在用。可数。
+① They trained a cadre of young engineers to run the plant alone.
+= 他们培养了一批青年工程师骨干，好让他们独立管厂。
+a cadre of = 一批骨干
+② The party sent cadres to the villages for a year at a time.
+= 那个党把干部派到村里，一去就是一年。
+cadre = 干部
+③ The cadre remained loyal long after the leadership had changed.
+= 领导层换过很久之后，那批骨干仍然忠诚。
+构词：法语 cadre 框架，本指军队的骨干框架
+注意读音：英美两种读法都通行。
 
-cab
-核心：可载客的车。本义是出租车，hail a cab 是招手叫车，
-by cab 是坐出租去；美式口语更常说 cab，英式更常说 taxi。
-第二支是驾驶室：卡车、火车头、起重机上司机坐的那一格。
-第三支是历史义，指马拉的出租马车，hansom cab 就是这种。
-口语里管出租车司机叫 cabby。可数。
-① She hailed a cab outside the hotel and gave the driver an address in the docks.
-= 她在酒店门口招手叫了辆出租，报了个码头区的地址。
-hail a cab = 招手叫出租车
-② We went by cab because the last train had left an hour earlier.
-= 我们坐出租去的，因为末班车一小时前就开了。
-by cab = 坐出租车
-③ The driver climbed into the cab and left the engine running.
-= 司机爬进驾驶室，没熄火。
-cab = 驾驶室（卡车、火车头）
-④ A hansom cab waited at the corner with its lamps already lit.
-= 街角停着一辆双轮出租马车，灯已经点上了。
-hansom cab = 十九世纪的双轮出租马车
-⑤ The cabby knew every back street and got us there in nine minutes.
-= 那司机每条小巷都熟，九分钟就把我们送到了。
-cabby = 出租车司机（口语）
-⑥ The cab driver knew a short cut that added two miles to the fare.
-= 那位出租车司机知道条近路，结果车费多算了两英里。
-a cab driver = 出租车司机
-构词：cabriolet 的截短，本指一种轻便双轮马车
-注意用法：美式偏说 cab，英式偏说 taxi；cabby 只用于口语。
+caecum
+核心：盲肠：大肠起头那一段封闭的盲袋，阑尾就长在它下端，
+所以中文里容易跟阑尾混，英语分得很清。美式拼作 cecum，
+复数 caeca，形容词 caecal。只在解剖与医学里用。可数。
+① The caecum lies at the start of the large intestine on the right.
+= 盲肠位于大肠起始处，在右侧。
+caecum = 盲肠
+② The appendix hangs from the caecum like a short blind tube.
+= 阑尾像一小段封死的管子垂在盲肠下端。
+appendix = 阑尾
+③ Rabbits have a very large caecum and digest grass in it.
+= 兔子的盲肠很大，草就在那里消化。
+caeca = 复数形式
+注意拼写：英式 caecum，美式 cecum。
 
-cabal
-核心：一小撮人私下结成的团体，专为夺权或搞阴谋。
-这个词天生带贬义，说某群人是 cabal，就是指他们在暗处
-串通、不受监督。多跟 a cabal of 接身份（将军、银行家）。
-派生 cabalistic 是神秘难解、藏着玄机的意思。可数，
-作主语时可跟单数也可跟复数动词。
-① A cabal of generals seized power while the president was abroad.
-= 总统出国期间，一小撮将领夺了权。
-a cabal of = 一小撮密谋的……
-② The decision was made by a secret cabal of four board members.
-= 那个决定是四名董事组成的秘密小集团定的。
-cabal = 阴谋小集团
-③ His writing has a cabalistic obscurity that puts most readers off.
-= 他的文章带着一种故弄玄虚的晦涩，多数读者读不下去。
-cabalistic = 神秘难解的
-构词：希伯来语 qabbalah 传承的学说，经法语进英语
-注意语域：一律贬义，不能用来中性地说团队。
+Caerphilly
+核心：威尔士奶酪：白色、微酸、质地易碎，得名于当地一个小镇。
+矿工从前爱带它下井，因为咸味补得上出汗流掉的盐。不可数。
+① The board has a wedge of Caerphilly and very little else left.
+= 拼盘上剩一角卡菲利奶酪，别的几乎没了。
+a wedge of Caerphilly = 一角卡菲利奶酪
+② Caerphilly crumbles rather than slices and salts a sandwich nicely.
+= 卡菲利一切就碎，不成片，夹三明治正好带出咸味。
+Caerphilly = 卡菲利奶酪
+构词：威尔士的镇名
+注意用法：跟 Cheddar、Cheshire cheese 一样，是拿产地命名的英国奶酪。
 
-Cabala
-核心：卡巴拉：犹太教的一套神秘主义传统，用字母与数字的对应去解读
-经文背后的隐义。也拼 Kabbalah、Qabalah。引申着用时指任何一套只有
-内行才懂的隐秘学问。不可数。
-① He spent years studying Cabala and learned Aramaic to do it.
-= 他研究卡巴拉好多年，为此还学了阿拉姆语。
-Cabala = 卡巴拉（犹太神秘主义）
-② The jargon had become a kind of cabala that kept newcomers out.
-= 那套行话成了一门隐学，把新人挡在门外。
-a kind of cabala = 一门只有内行懂的隐学
-构词：希伯来语 qabbalah 承受下来的传统
-注意拼写：Kabbalah 与 Qabalah 都是同一个词的另一种转写。
+Caesar salad
+核心：凯撒沙拉：罗马生菜配蒜香面包丁、帕玛森与蛋黄凤尾鱼酱。名字
+来自墨西哥蒂华纳一位叫 Caesar 的餐馆老板，跟罗马的那位统帅无关。
+可数不可数都行。
+① She ordered a Caesar salad and asked them to hold the croutons.
+= 她点了份凯撒沙拉，让他们别加面包丁。
+a Caesar salad = 凯撒沙拉
+② A proper Caesar salad has anchovy in the dressing and no chicken on top.
+= 正宗的凯撒沙拉酱里有凤尾鱼，上面也不铺鸡肉。
+a proper Caesar salad = 正宗的凯撒沙拉
+构词：创制它的餐馆老板的名字
+注意别混：名字来自一位厨师，不是罗马那位统帅。
 
-cabana
-核心：海滩或泳池边的小屋，供换衣、遮阳、休息用；
-美式英语里也指旅馆主楼之外靠着泳池的那种独立客房。
-来自西班牙语 cabana 小屋，所以多见于度假语境。可数。
-① We changed in the cabana by the pool and left our bags there.
-= 我们在泳池边的小屋里换了衣服，包也搁在那儿。
-cabana = 泳池边的小屋
-② The resort rents cabanas by the day and they go by nine.
-= 那家度假村的池畔小屋按天出租，九点就租光了。
-rent by the day = 按天出租
-③ Their room was a cabana facing the sea with a door onto the sand.
-= 他们住的是一间朝海的池畔客房，有扇门直通沙滩。
-cabana = 主楼外的池畔客房（美式）
-构词：西班牙语 cabana 小屋
-注意用法：只用于度假、泳池、海滩这类场合。
+caesarean
+核心：剖宫产。全称 caesarean section，口语常缩成
+a caesarean 或 a C-section，动词说法是 deliver by
+caesarean。美式拼作 cesarean。名字来自凯撒，传说他是
+这样出生的，真伪难考，但词是这么来的。可数。
+① She had an emergency caesarean after eleven hours of labour.
+= 产程十一小时后，她做了紧急剖宫产。
+have a caesarean = 做剖宫产
+② The baby was delivered by caesarean section under a local anaesthetic.
+= 孩子是在局部麻醉下由剖宫产出生的。
+by caesarean section = 以剖宫产方式
+③ Recovery from a caesarean takes longer and hurts when you laugh.
+= 剖宫产后恢复得慢些，一笑就疼。
+recovery from = 从……中恢复
+注意拼写：英式 caesarean，美式 cesarean，口语说 C-section。
 
-cabaret
-核心：两支，指的是同一件事的内容和场地。一是餐馆夜总会里
-边吃边看的那种表演，歌舞、脱口秀都算；二是提供这种表演的
-场所本身。表演义不可数，说 in cabaret、a cabaret act；
-场所义可数。重音在第一音节，词尾 t 不发音。
-① She sings in cabaret four nights a week and teaches by day.
-= 她一周四晚唱夜总会表演，白天教书。
-in cabaret = 从事夜总会表演
-② The hotel puts on a cabaret every Friday for the same forty guests.
-= 那家酒店每周五都为同样四十位客人办一场歌舞表演。
-a cabaret act = 一段夜总会表演节目
-③ They met at a cabaret in Berlin and married the following spring.
-= 他们是在柏林一家夜总会认识的，第二年春天就结了婚。
-cabaret = 有表演的夜总会
-构词：法语 cabaret 小酒馆
-注意读音：词尾 t 不发音。
+caesium
+核心：一种极软的银白色金属，符号 Cs，一碰水就剧烈反应。
+这个词在英语里出现的场合就两类：原子钟的报道，
+以及核事故报道里的放射性同位素 caesium-137。
+美式拼作 cesium。不可数。
+① Caesium is used in atomic clocks to define the second itself.
+= 铯用在原子钟里，秒本身就是靠它定义的。
+caesium = 铯
+② They measured caesium-137 in the soil for thirty years afterwards.
+= 之后的三十年里，他们一直在测土壤中的铯一三七。
+caesium-137 = 铯一三七（放射性同位素）
+③ A pea-sized piece of caesium would blow a sink apart.
+= 一粒豌豆大的铯就能把水槽炸开。
+react with = 与……起反应
+注意拼写：英式 caesium，美式 cesium。
+
+caesura
+核心：诗行中间那处停顿，念的时候要断一下，分析格律时
+用一道竖线标出来。跟行末的停顿不同，caesura 一定在
+行内。美式也拼 cesura，复数 caesuras 或 caesurae。
+用在诗学与音乐分析里，日常不用。可数。
+① The line has a caesura after the third foot in every stanza.
+= 每一节里，那一行都在第三个音步后有个停顿。
+caesura = 诗行中间的停顿
+② Mark the caesura with a vertical line before you scan the metre.
+= 分析格律之前，先用竖线标出行中停顿。
+mark with = 用……标出
+③ The caesura slows the rhythm just where the sense turns.
+= 那处停顿正好在意思转折的地方把节奏放慢。
+注意用法：只指行内停顿，行末的停顿不叫 caesura。
+
+cafe
+核心：卖咖啡、茶和简餐的小店。英式也写作 cafe 带重音符
+的形式，读法相同；英式口语把它读得很随意，拼成 caff，
+指街边那种便宜小馆。美式 cafe 有时也指自助式的小食堂。
+an Internet cafe 是网吧。可数。
+① We had lunch at a cafe by the river and stayed until they wanted the table.
+= 我们在河边一家小馆吃了午饭，坐到人家要收桌子才走。
+cafe = 咖啡馆、小餐馆
+② She runs a cafe in the old town and bakes everything herself before six.
+= 她在老城区开了家咖啡馆，所有东西都是六点前自己烤的。
+run a cafe = 经营一家咖啡馆
+③ They eat at the caff on the corner where nothing costs more than a fiver.
+= 他们在街角那家便宜小馆吃饭，什么都不超过五镑。
+caff = 街边的便宜小馆（英式口语）
+④ He checked his mail at an Internet cafe because his phone had died again.
+= 手机又没电了，他在网吧查了邮件。
+Internet cafe = 网吧
+构词：法语 cafe 咖啡、咖啡馆
+注意拼写：caff 只用于英式口语。
+
+cafeteria
+核心：自助食堂：自己端盘子取菜、到收银台付钱的那种餐厅，
+学校、医院、工厂里最常见。跟 restaurant 的分别在取餐方式，
+不在档次高低。来自西班牙语的 cafeteria 咖啡店，进美式英语
+之后变成自助餐厅。可数。
+① The hospital cafeteria closes at eight and the vending machines take over.
+= 医院食堂八点关门，之后就靠自动售货机了。
+cafeteria = 自助食堂
+② We queued at the cafeteria counter behind two entire school parties.
+= 我们在食堂取餐台前排队，前面是两整队学生。
+cafeteria counter = 食堂取餐台
+③ School cafeterias serve two hundred children in about forty minutes.
+= 学校食堂要在约四十分钟里供两百个孩子吃上饭。
+④ Meals are served cafeteria style, so take a tray before you join the queue.
+= 饭菜按自助取餐的方式供应，排队前先拿个托盘。
+cafeteria style = 自助取餐的方式
+构词：西班牙语 cafeteria 咖啡店
+注意别混：分别在自己取餐，不在档次。
+
+cafetière
+核心：法压壶：玻璃壶里放咖啡粉冲水，再把带滤网的活塞压
+下去滤渣。这是英式叫法，美式说 French press。词是法语，
+所以带重音符。可数。
+① Make the coffee in the cafetière and let it stand four minutes.
+= 用法压壶冲咖啡，静置四分钟。
+cafetière = 法压壶（英式）
+② A cafetière needs coarsely ground coffee or the plunger will not go down.
+= 法压壶要用粗研磨的咖啡粉，不然活塞压不下去。
+coarsely ground = 粗研磨的
+构词：法语 cafetière 咖啡壶
+注意用法：英式说 cafetière，美式说 French press。
+
+caff
+核心：cafe 的英式口语说法，指街边那种便宜的小馆子，
+供应炒蛋、培根、浓茶这类简单东西。写法就是把 cafe 的
+读音照口语拼出来，所以只出现在口语和写口语的文字里，
+正式场合一律写 cafe。可数。
+① We grabbed a fry-up at the caff before the first train.
+= 赶头班车之前，我们在那家小馆吃了顿煎食早餐。
+a caff = 街边的便宜小馆（英式口语）
+② There is a greasy-spoon caff by the station that opens at five.
+= 车站边上有家油腻腻的小馆，五点就开门。
+greasy spoon = 油腻的廉价小馆
+③ He has run the caff for thirty years and knows every order by heart.
+= 那家小馆他开了三十年，谁点什么都记得住。
+run a caff = 开一家小馆
+构词：cafe 的口语拼法
+注意语域：只用于口语，正式写作用 cafe。

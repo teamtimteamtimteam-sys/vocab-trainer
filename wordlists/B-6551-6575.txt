@@ -1,469 +1,739 @@
-distinct
-核心：两支。一是「界限分明的、各不相同的」（three distinct groups）；
-二是「明显的、确切的」（a distinct improvement、a distinct possibility）。
-副词 distinctly，名词 distinctness。
-跟 distinctive 别混：distinct 是「不同的、明显的」，
-distinctive 是「有特色、一看就认得出的」。
-① The report identifies three distinct problems and one very old building.
-= 那份报告指出了三个各不相同的问题，和一栋很老的楼。
-distinct groups = 各不相同的几类
-② There has been a distinct improvement since the second machine arrived.
-= 第二台机器到位之后，有了明显的改善。
-a distinct improvement = 明显的改善
-③ I distinctly remember locking it and the door was open all the same.
-= 我清清楚楚记得锁了门，门还是开着的。
-distinctly remember something = 清清楚楚记得某事
-④ The distinctness of the three layers is what makes the site datable at all.
-= 那三层界限分明，正是这处遗址能定年代的原因。
-the distinctness of something = 某物界限的分明
-名词少用，多见于考古与分类的讨论。
-构词：拉丁语 distinguere 区分
-注意别混：distinct 是不同、明显；distinctive 是有辨识度。
+dizzy
+核心：三支。一是头晕：站不稳、天旋地转（feel dizzy）；
+二是使人发晕的：说高度、速度、变化太快（dizzy heights、dizzying speed）；
+三是（旧、带轻慢）说人「傻乎乎的」。
+副词 dizzily，名词 dizziness，形容词 dizzying。
+习语 the dizzy heights of something 是「某个高得让人发晕的位置」，多带调侃。
+① She felt dizzy on the second flight of stairs and sat down on the landing.
+= 上到第二段楼梯她就头晕，在楼梯平台上坐了下来。
+feel dizzy = 觉得头晕
+② Dizziness was the first symptom and the only one anybody wrote down.
+= 头晕是最早出现的症状，也是唯一被记下来的。
+dizziness = 眩晕
+③ He rose to the dizzy heights of assistant manager and stayed there for twenty years.
+= 他升到了副经理这个「让人发晕的高位」，一待二十年。
+the dizzy heights of something = 某个高得发晕的位置（多带调侃）
+④ The changes came at a dizzying speed and nobody updated the handbook.
+= 那些变动快得让人发晕，却没人更新手册。
+a dizzying speed = 令人目眩的速度
+⑤ She stood up too quickly and swayed dizzily against the door frame.
+= 她起得太猛，晕晕乎乎地靠在了门框上。
+sway dizzily = 晕乎乎地摇晃
+构词：古英语 dysig 愚笨的 —— 后来才转成「头晕」
+注意用法：说头晕用 feel dizzy 或 get dizzy，不说 be dizzy of。
 
-distinction
-核心：三支。一是区别：把两件事分开来看（draw a distinction between A and B）；
-二是殊荣、卓越（a writer of distinction）；
-三是成绩上的「优等」（pass with distinction）。可数不可数都行。
-① The report draws a distinction between delay and refusal and then ignores it.
-= 那份报告区分了拖延与拒绝，随后又对这个区分置之不理。
-draw a distinction between A and B = 区分甲与乙
-② She is a scholar of real distinction and answers her own email.
-= 她是位真正有声望的学者，邮件都是自己回。
-of distinction = 有声望的、卓越的
-③ He passed with distinction and never mentioned it to anybody at work.
-= 他以优等成绩通过，在单位从没跟谁提过。
-pass with distinction = 以优等成绩通过
-构词：拉丁语 distinctio 区分
-注意用法：说区分用 draw 或 make a distinction between A and B。
+do
+核心：英语里用得最多的动词。它有两个彻底分开的身份，先分清再记 ——
+判断办法只有一条：句子里另有一个实义动词，它就是助动词；没有，
+它自己就是那个实义动词。
+一、助动词。它自己不表示任何意思，只给别的动词搭架子，干四件事：
+把主语提前变疑问、加 not 变否定、加进肯定句表强调、
+代替前面出现过的动词免得重复。反意疑问、so do I 这类倒装都由此而来。
+二、实义动词。底层是「做」——一个动作最泛的说法。往几支长：
+做某件事与干某种活（do the dishes）、从事某职业（What do you do）、
+把某处收拾成样（do your hair）、起某种作用（do good）、够用合适
+（That will do）、走完路程或达到速度、把食物做成某种熟度、
+口语的服刑与逛景点。
+三、短语动词一族，介词决定方向：away with 废除、without 将就着没有、
+up 系上与翻修、in 累垮、over 重做、out of 骗走、for 毁掉、down 贬低。
+三态 do－did－done，第三人称单数 does，现在分词 doing；
+否定缩写 don't、doesn't、didn't。名词是英式口语的「聚会」，复数 dos。
+① Do you know her well enough to ask for a favour?
+= 你跟她熟到能开口求人帮忙吗？
+do = 构成疑问句的助动词
+一般现在时与一般过去时的疑问句，都得靠它把主语提到前面来。
+② I don't know what he wants and I am not going to guess.
+= 我不知道他想要什么，也懒得猜。
+don't = do not 的缩写，构成否定
+否定句同样靠它，后面的实义动词保持原形。
+③ She doesn't live here any more; she moved to Bristol in the spring.
+= 她不在这儿住了，春天搬去布里斯托尔了。
+doesn't = does not 的缩写（第三人称单数）
+主语是第三人称单数时用 does，后面那个动词反而不加词尾。
+④ We didn't see anyone on the road for the last twenty miles.
+= 最后那二十英里路上我们一个人也没见着。
+didn't = did not 的缩写（过去时）
+过去时的疑问与否定都用 did，后面的动词回到原形。
+⑤ I do like this one, though the other is better made.
+= 这个我是真喜欢，虽说另一个做工更好。
+I do like it = 我是真喜欢（加强语气）
+肯定句本来用不着它，加进来就是为了强调，说的时候要重读。
+⑥ Do come in — you must be frozen standing out there.
+= 快请进，在外头站着一定冻坏了。
+do come in = 快请进（恳切的祈使）
+祈使句前面加它是客气与恳请，不是加重命令。
+⑦ She sings better than I do, and she has had half the training.
+= 她唱得比我好，受的训练还不到我一半。
+do = 代替前面出现过的动词
+免得把同一个动词重复一遍，这个用法在英语里极常见。
+⑧ You know him better than anyone here does, don't you?
+= 这儿数你最了解他，对吧？
+don't you = 反意疑问句的附加部分
+前面肯定后面就用否定，前面否定后面用肯定。
+⑨ If you think the price is absurd, so do I.
+= 你要是觉得这价钱离谱，我也这么想。
+so do I = 我也一样
+用它把前面那句的动词接过来；否定时改说 neither do I。
+⑩ What are you doing with all those boxes in the hallway?
+= 门厅里堆那么多箱子，你这是要干什么？
+do = 做（最泛的那个动作）
+问人在忙什么，用的就是它最本义的一支。
+⑪ Have you done your homework, or are you leaving it until Sunday night?
+= 作业做了没有？还是要拖到周日晚上？
+do your homework = 做作业
+「做某项任务」是最常用的一支，宾语就是那件事本身。
+⑫ He did the washing-up while she put the children to bed.
+= 她哄孩子睡觉的时候，他把碗洗了。
+do the washing-up = 洗碗（英式）
+家务活一律归它：do the laundry、do the shopping、do the cooking。
+⑬ What do you do when you are not writing about football?
+= 不写足球的时候你做什么？
+What do you do = 你从事什么职业
+问职业的固定说法，答话说 I'm a teacher，不重复这个动词。
+⑭ She did history at university and then went straight into publishing.
+= 她大学念的历史，毕业就进了出版业。
+do a subject = 修某门专业（英式）
+英式说法；美式多说 major in。
+⑮ She did her hair and changed twice before finally leaving the house.
+= 她弄了头发、换了两次衣服，才终于出门。
+do your hair = 收拾头发
+「把某处弄成样子」这一支还能说 do your nails、do the flowers。
+⑯ A walk in the cold will do you more good than another pill.
+= 出去冷风里走一走，比再吃一片药管用。
+do somebody good = 对某人有好处
+反过来说 do harm；这一支讲的是产生什么作用。
+⑰ That will do — any more salt and the soup is ruined.
+= 够了，再放盐这汤就毁了。
+that will do = 够了
+既可以是「够用了」，也可以是喝止小孩的「别闹了」，靠语气分。
+⑱ This one will do nicely until the proper part arrives.
+= 正式的零件到之前，这个先凑合着很合适。
+do nicely = 正合用
+主语是那样东西，说它够用、合适。
+⑲ We did sixty miles an hour on a road built for carts.
+= 在一条原本走马车的路上，我们跑到了时速六十英里。
+do sixty miles an hour = 时速六十英里
+说速度与说跑完多少路程，用的都是它。
+⑳ They did the Louvre in a morning and remembered almost nothing.
+= 他们一上午逛完卢浮宫，几乎什么也没记住。
+do a place = 走马观花地逛某地（口语）
+带调侃，暗指看得太快、只为打卡。
+㉑ How would you like your steak done — rare, or somewhere in between?
+= 你的牛排要几分熟，嫩一点还是折中？
+have something done = 把食物做到某个熟度
+点餐时的固定问法，答话说 rare、medium 或全熟。
+㉒ He did a brilliant impression of the head that had us all in tears.
+= 他把校长学得惟妙惟肖，笑得我们眼泪都出来了。
+do an impression of = 模仿某人
+表演与模仿这一支，宾语是被模仿的那个人。
+㉓ She did three years for fraud and came out with nothing to her name.
+= 她因诈骗坐了三年牢，出来时一无所有。
+do time = 服刑
+口语，宾语是刑期；单说 do time 也行。
+㉔ They did away with the rule quietly, hoping nobody would notice.
+= 他们悄悄废掉了那条规矩，指望没人察觉。
+do away with = 废除；口语里也指杀掉
+第二个义语气很重，多见于犯罪叙述里。
+㉕ We can do without his advice, thank you very much.
+= 他那些建议我们不用也罢，多谢了。
+do without = 没有也行、用不着
+后面接名词或动名词；语气里常带一点不屑。
+㉖ Do up your coat before you go out; it is bitter this morning.
+= 出门前把外套扣上，今早冷得厉害。
+do up = 系上、扣上
+最常说扣子、拉链与鞋带。
+㉗ They did up an old farmhouse over three summers and sold it at a profit.
+= 他们用三个夏天翻修了一栋旧农舍，转手赚了一笔。
+do up = 翻修、装修
+同一个短语的第二支，宾语换成房子就是这个意思。
+㉘ That climb has done me in; I could sleep for a week.
+= 那段爬得我快散架了，能睡上一个星期。
+do somebody in = 把某人累垮；口语里也指干掉
+两个义都重，靠上下文分，别用错场合。
+㉙ The essay was so badly argued that he had to do the whole thing over.
+= 那篇文章论证太差，他只好整个重写。
+do something over = 重做（美式）
+英式的 do over 是另一回事：洗劫或者揍一顿。
+㉚ He was done out of his share by a cousin he had trusted for years.
+= 他被一个信了多年的表亲骗走了自己那一份。
+do somebody out of = 骗走某人的（钱或机会）
+do out of = 同上，宾语放在中间
+多用被动，说出来就是明确的指控。
+㉛ The scandal did for his career long before the inquiry reported.
+= 调查还没出报告，那桩丑闻就已经毁了他的事业。
+do for = 毁掉、断送
+多用过去式与被动；英式旧义另指给人做家务。
+㉜ Don't do yourself down — that was the best piece in the whole issue.
+= 别贬低自己，那是整期里最好的一篇。
+do somebody down = 说某人坏话、贬低（英式）
+常用反身形式，劝人别自我贬低。
+㉝ We will have to make do with whatever is left in the cupboard.
+= 柜子里剩下什么，我们就将就着用什么。
+make do with = 将就着用
+固定说法，后面接手头仅有的那点东西。
+㉞ It has nothing to do with you, and I would rather not discuss it.
+= 这跟你没关系，我也不想谈。
+have nothing to do with = 与……毫无关系
+have to do with = 与……有关（中间可插 nothing、something、a lot）
+反过来说 have something to do with，就是有关系。
+㉟ Nothing doing — I asked twice and they would not move on the price.
+= 没门，我问了两次，他们价钱一分不让。
+nothing doing = 不行、没门
+口语里干脆利落的一句拒绝。
+㊱ A strong cup of tea and half an hour would do the trick.
+= 一杯浓茶加上半个钟头就管用了。
+do the trick = 管用、正好解决问题
+说某个不起眼的小办法恰好奏效。
+㊲ It was a do-or-die attempt with no money left for a second one.
+= 那是孤注一掷的一次尝试，再没钱做第二回。
+do or die = 拼死一搏
+多作定语，说一次没有退路的努力。
+㊳ How do you do? I have heard a great deal about you.
+= 您好，久仰大名。
+how do you do = 初次见面时的问候
+不是真在问好坏；答话把同一句原样还回去。
+㊴ He did a runner without paying and left his coat behind.
+= 他没付钱就溜了，外套都落下了。
+do a runner = 溜之大吉（英式口语）
+多说逃单与临阵脱逃。
+㊵ I could do with a coffee and ten minutes away from that room.
+= 我想来杯咖啡，离开那间屋子歇十分钟。
+could do with = 需要、正想要
+比 want 委婉得多，英式口语里极常用。
+㊶ Do me a favour and shut the door on your way out.
+= 帮个忙，出去时把门带上。
+do somebody a favour = 帮某人一个忙
+英式口语里单说这一句还能是反话，意思是「得了吧」。
+㊷ They are having a do on Saturday for her sixtieth birthday.
+= 他们周六给她办个六十岁生日的聚会。
+a do = 聚会（英式口语）
+复数写 dos；指的是规格不高的一场聚会。
+㊸ Read the dos and don'ts on the first page before you touch anything.
+= 动手之前先看第一页的注意事项。
+dos and don'ts = 该做与不该做的事
+恒作复数，多见于须知与守则。
+㊹ What have you done to your hair? I hardly recognized you.
+= 你把头发弄成什么样了？我差点没认出来。
+What have you done to = 你把……弄成什么样了
+带着责怪或吃惊，问对方对某样东西做了什么。
+㊺ It doesn't do to complain about the weather in a country like this.
+= 在这样的国家抱怨天气是没有用的。
+it doesn't do to = 不宜、不该
+偏英式与旧式，说某种做法并不明智。
+㊻ The book is full of derring-do and short on anybody actually getting hurt.
+= 那本书里满是英勇冒险，真受伤的人却没几个。
+derring-do = 英勇冒险的举动（偏旧、带戏谑）
+从中古英语的一处误抄来的词，字面本是「敢做」。
+㊼ Do-gooders were blamed for the delay and the do-nothing council for everything else.
+= 延误被怪在那些好心多事的人头上，其余一切都怪那个无所作为的议会。
+a do-gooder = 好心多事的人（贬）
+a do-nothing = 无所作为的人或机构
+两个词都带贬义：一个嫌人多事，一个嫌人不做事。
+㊽ Do-it-yourself saved them nothing and the do-it-yourselfer next door finished it in a weekend.
+= 自己动手一分钱没省下，隔壁那位动手族一个周末就弄完了。
+do-it-yourself = 自己动手（缩写 DIY）
+a do-it-yourselfer = 自己动手的人
+缩写 DIY 更常用，也作形容词：a DIY job。
+㊾ They did him down at every meeting and he did himself up for the last one.
+= 他们每场会都贬损他，最后一场他倒把自己收拾得利利索索。
+do somebody down = 贬损某人（英式）
+写作 do down，宾语一定放中间：do somebody down。
+do yourself up = 把自己打扮起来
+do somebody in = 把某人累垮；也指把某人干掉
+do in 有两支，一支是累垮，一支是杀掉，靠语境分。
+构词：古英语 don
+注意变位：
+do / does / did / done，现在分词 doing
+don't = do not，doesn't = does not，didn't = did not
+注意别混：
+do the dishes = 洗碗（干一件事）
+make dinner = 做饭（造出一样新东西）
+两个中文都译「做」，英语的分工是：造出一样原来没有的东西用 make，
+干一件事、完成一项活儿用 do。这是这个词最常出错的地方。
 
-distinctive
-核心：有辨识度的：一看、一听就认得出是它 —— 中性偏褒。形容词，
-副词 distinctively。
-① The building has a distinctive roof that shows up in every photograph of the town.
-= 那栋楼的屋顶很有辨识度，镇上每张照片里都有它。
-a distinctive roof = 很有辨识度的屋顶
-② Her handwriting is distinctively hers and nobody has ever forged it successfully.
-= 她的字迹独具个人特色，从没人成功仿造过。
-be distinctively somebody's = 带着某人独有的特色
-构词：distinct 加 -ive
-注意别混：distinctive 是有特色，distinct 是不同或明显。
+doable
+核心：（口语）做得成的：时间、条件都够，办得下来。形容词，多作表语。
+① Three chapters a month is doable if nothing else happens all winter.
+= 一个月三章是做得成的 —— 前提是整个冬天别出别的事。
+be doable = 做得成的
+② She looked at the timetable and said it was doable, which from her meant tight.
+= 她看了看时间表，说做得成 —— 从她嘴里说出来，意思是很紧。
+be doable = 办得下来的
+构词：do 加 -able
+注意语域：口语；正式说 feasible、achievable。
 
-distinguish
-核心：三支。一是分辨：看出两者的不同（distinguish between A and B）；
-二是使有别于：某个特点让它与众不同（distinguish A from B）；
-三是 distinguish yourself：表现出色而扬名。
-形容词 distinguishable 是「分得出来的」，
-distinguished 是「卓有成就的、气度不凡的」。
-① Most people cannot distinguish between the two grades in a blind test.
-= 盲测里多数人分不出那两个等级。
-distinguish between A and B = 分辨甲与乙
-② What distinguishes this one from the others is the paper it is printed on.
-= 这一本跟其他几本的分别在于印它的纸。
-distinguish A from B = 使甲有别于乙
-③ He distinguished himself in a role that nobody had wanted to take.
-= 他在一个没人愿意接的岗位上做出了成绩。
-distinguish yourself = 表现出色、扬名
-④ The two signatures are barely distinguishable and the bank accepted both.
-= 那两个签名几乎分不出来，银行两个都认了。
-be distinguishable = 分得出来的
-⑤ A distinguished visitor was expected and the corridor was cleared twice.
-= 有位贵宾要来，走廊清了两遍。
-a distinguished visitor = 尊贵的来宾
-构词：拉丁语 distinguere 区分
-注意用法：分辨用 between，使有别于用 from。
+Dobermann
+核心：杜宾犬：德国培育的短毛大型犬，警犬与护卫犬里常见。可数，
+也拼 Doberman（美式），全称 Dobermann pinscher。名字来自育种者的姓。
+① The Dobermann barked twice and the courier never came past the gate again.
+= 那条杜宾犬叫了两声，快递员再没进过那道门。
+a Dobermann = 杜宾犬
+② Two Dobermanns share the yard and neither of them is the one people fear.
+= 院子里有两条杜宾犬，人们怕的偏不是其中任何一条。
+Dobermanns = 杜宾犬（复数）
+构词：十九世纪德国税吏 Dobermann 的姓
+注意用法：英式多写两个 n，美式常写一个。
 
-distort
-核心：三支。一是扭曲形状：热、压力让东西变形；
-二是失真：声音或图像被破坏；三是歪曲：把事实说走样。
-及物动词。形容词 distorted，名词 distortion。
-① The heat distorted the frame and the door has not shut since.
-= 高温把门框烤变形，门从此关不严。
-distort something = 使某物变形
-② The recording distorts whenever anybody laughs near the microphone.
-= 只要有人在麦克风旁边笑，录音就失真。
-distort = 失真
-③ The quotation distorted what she had said by cutting the second half.
-= 那段引述把她的话砍掉后半截，意思就走了样。
-distort something = 歪曲某事
-④ Distortion in the older recordings is part of what people like about them.
-= 老录音里的失真，正是人们喜欢它们的原因之一。
-distortion = 失真；也指歪曲
-构词：拉丁语 distorquere 扭歪
-注意用法：说歪曲事实用 distort the facts、distort the truth。
+doc
+核心：两支口语缩略。一是 doctor 的简称，多用作称呼（Thanks, doc）；
+二是 document 的简称，尤其说计算机文件（send me the doc）。可数。
+① Thanks, doc — she said it to a physiotherapist and nobody corrected her.
+= 「谢了大夫」—— 她是对着理疗师说的，没人纠正她。
+doc = 大夫（口语称呼）
+② Send me the doc and I will put the numbers in before lunch.
+= 把那个文件发我，午饭前我就把数字填进去。
+a doc = 文档（口语）
+构词：doctor 与 document 各自的截短
+注意语域：都是口语；正式文字里写全称。
 
-distract
-核心：分散注意力：让人从正在做的事上分神。及物动词，
-常说 distract somebody from something。
-形容词 distracted 说人「心不在焉的」，distracting 说事情「让人分心的」；
-副词 distractedly；名词 distraction 兼指「让人分心的事」与「消遣」；
-考试与测验里的 a distractor 指选择题里的干扰项。
-① The noise from the yard distracted everybody from a task that needed counting.
-= 院子里的动静把大家从一件需要数数的活儿上引开了。
-distract somebody from something = 使某人从某事上分神
-② He was distracted all morning and drove past his own turning twice.
-= 他一上午心不在焉，两次开过自家的路口。
-be distracted = 心不在焉的
-③ The flicker in the corner of the screen is distracting and nobody can fix it.
-= 屏幕角上那道闪烁很扰人，谁也修不好。
-be distracting = 让人分心的
-④ She reads at lunchtime as a distraction from the rest of the day.
-= 她午间读书，好把一天余下的时间暂时甩开。
-a distraction = 让人分心的事；也指消遣
-⑤ Two of the four answers are distractors and one of them is nearly right.
-= 四个选项里有两个是干扰项，其中一个还差点就对。
-a distractor = 干扰项（考试用语）
-⑥ He answered distractedly and asked her to repeat the question twice.
-= 他心不在焉地答着，让她把问题重复了两遍。
-answer distractedly = 心不在焉地作答
-副词说动作里带着分神的样子。
-构词：拉丁语 distrahere 拉开
-注意别混：人是 distracted，事情是 distracting。
+docent
+核心：两支。一是（美式）博物馆的义务讲解员；
+二是（欧洲一些国家）大学里相当于讲师的职称。可数。
+① The docent gave a tour that lasted twice as long as the audio guide.
+= 那位讲解员带的参观，用时是语音导览的两倍。
+a docent = 博物馆讲解员（美式）
+② He was a docent in Uppsala before the title stopped meaning anything abroad.
+= 在那个头衔到国外不再表示什么之前，他在乌普萨拉当讲师。
+a docent = 大学讲师（欧洲某些国家的职称）
+构词：拉丁语 docere 教
+注意语域：美式的博物馆义工是最常见的一支。
 
-distraught
-核心：（心神）几近崩溃的：因为惊恐或悲痛而失了常态 ——
-比 upset 重得多。形容词，多作表语。
-① The parents were distraught and the police kept the road closed until morning.
-= 那对父母几近崩溃，警方把路封到了天亮。
-be distraught = 心神崩溃的
-② She arrived distraught and left three hours later almost composed.
-= 她来时六神无主，三小时后离开时几乎恢复了镇定。
-arrive distraught = 神情崩溃地赶来
-构词：拉丁语 distractus 被扯开的，与 distract 同源
-注意别混：distraught 是几近崩溃，distracted 只是分了神。
+docile
+核心：温顺的：好带、听话、不闹脾气 —— 说动物，也说人（说人时略带轻慢，
+暗示「太顺从」）。形容词，副词 docilely，名词 docility。
+① The pony is docile with children and impossible with anybody who is nervous.
+= 那匹小马跟孩子在一起很温顺，碰上紧张的人就不好弄了。
+be docile = 温顺的
+② A docile workforce was what the report praised and what the union objected to.
+= 报告称道的是一支听话的劳动力队伍，工会反对的正是这一点。
+a docile workforce = 顺从的劳动力
+③ The docility of the whole class surprised the supply teacher.
+= 全班的顺从，让那位代课老师意外。
+docility = 温顺、顺从
+④ The horse stood docilely through the whole examination and bit the vet afterwards.
+= 整个检查过程那匹马都温顺地站着，事后咬了兽医一口。
+stand docilely = 温顺地站着
+副词少用，多修饰 stand、follow、wait 这类动词。
+构词：拉丁语 docilis 易受教的
+注意用法：说人时多带一点批评，夸人听话用 well-behaved。
 
-distress
-核心：三支。一是痛苦、忧伤：身体或精神上的（in great distress）；
-二是危难：a ship in distress 是遇险的船，a distress signal 是求救信号；
-三是动词「使痛苦」。名词不可数。
-形容词 distressed 说人痛苦，也说家具「做旧的」；
-distressing 说事情「让人难受」，副词 distressingly。
-① She was in great distress and would not let anybody call her family.
-= 她极为痛苦，却不肯让人给她家里打电话。
-in great distress = 极为痛苦
-② The ship sent a distress signal and three boats reached her before dawn.
-= 那条船发出求救信号，天亮前有三条船赶到。
-a distress signal = 求救信号
-③ It distresses him to hear the same argument in his own words.
-= 听到同样的论调用他自己的话说出来，让他难受。
-distress somebody = 使某人痛苦
-④ The photographs are distressing and the report prints all of them.
-= 那些照片让人难受，报告却全登了出来。
-be distressing = 让人难受的
-⑤ The table is distressed on purpose and cost twice what a new one would.
-= 那张桌子是故意做旧的，价钱是新桌子的两倍。
-distressed = 做旧的（说家具）；也说人痛苦的
-⑥ The ward was distressingly quiet for a Friday evening in December.
-= 十二月一个周五的晚上，那个病区安静得让人心里发堵。
-distressingly quiet = 安静得让人难受
-副词修饰形容词，说程度让人心里不好受。
-构词：拉丁语 distringere 拉紧、逼迫
-注意别混：人是 distressed，事情是 distressing。
+dock
+核心：四支。一是船坞、码头：船停靠与修造的地方（dry dock 是干船坞）；
+二是动词「入坞、对接」，航天器对接也用它；
+三是法庭上被告席（in the dock）；四是扣钱：从工资里扣掉一部分。
+码头工人是 a docker；码头区叫 dockland，码头一带叫 dockside，
+造修船的场地叫 a dockyard。
+① The ship went into dry dock for three weeks and came out two months later.
+= 那条船进干船坞待三周，两个月后才出来。
+dry dock = 干船坞
+② The two craft docked without anybody on either side speaking above a murmur.
+= 两个航天器完成对接，两边没人说话高过低语。
+dock = 对接、入坞
+③ He stood in the dock for eleven days and said nine words.
+= 他在被告席上站了十一天，一共说了九个字。
+in the dock = 在被告席上
+④ They docked his pay for the two hours and he worked them anyway.
+= 他们把那两个钟头的工钱扣了，他还是把活干了。
+dock somebody's pay = 扣某人的工钱
+⑤ The dockers struck for eight weeks and the dockside went quiet for the first time in a century.
+= 码头工人罢工八周，码头一带一个世纪来头一回安静下来。
+a docker = 码头工人
+⑥ The old dockyard is flats now and the cranes were kept as decoration.
+= 老船厂如今是公寓，那些吊车留下来当了摆设。
+a dockyard = 造船修船厂
+⑦ The old dockland was warehouses for a century and flats within five years.
+= 那片老码头区当了一百年仓库，五年之内就成了公寓。
+dockland = 码头区
+伦敦的 Docklands 大写作专名，指改造后的那一片。
+构词：中古荷兰语 docke 停船处
+注意用法：说船停靠说 dock at a port；说被告席是 be in the dock。
 
-distribute
-核心：三支。一是分发：把东西发给一群人（distribute leaflets）；
-二是分布：说东西在空间上散开（evenly distributed）；
-三是发行：把产品铺到市场。及物动词。
-名词 distribution；a distributor 是经销商，也指汽车上的分电器；
-形容词 distributive 与 distributional 多见于经济与统计文字。
-① They distributed leaflets at four stations and got two replies.
-= 他们在四个车站发传单，收到两份回音。
-distribute something = 分发某物
-② The weight is evenly distributed and the shelf holds more than it looks.
-= 重量分布均匀，那块搁板比看着能承重。
-be evenly distributed = 均匀分布
-③ The film was distributed by a company that folded the following year.
-= 那部片子的发行方是一家第二年就倒闭的公司。
-be distributed by somebody = 由某方发行
-④ Distribution costs more than production in that business and always has.
-= 那一行的分销成本一向高于生产成本。
-distribution = 分销、分发；也指分布
-⑤ The distributor takes a third and the shops take a third of what is left.
-= 经销商拿走三分之一，商店再从剩下的里拿三分之一。
-a distributor = 经销商
-⑥ The distributive effects of the policy were argued about for a decade.
-= 那项政策在分配上的效果，被争论了十年。
-distributive effects = 分配效果
-distributional = 分配层面的
-两个形容词都属经济与统计文字，说的是「谁得谁失」那一面。
-构词：拉丁语 distribuere 分给
-注意用法：说分给谁用 distribute something to somebody 或 among people。
+docket
+核心：三支。一是（英式）随货单据：写明内容与去向的标签或票据；
+二是（美式法律）待审案件表：the court's docket；
+三是动词「登记在案」。可数。
+① The docket was stapled to the wrong box and travelled two hundred miles.
+= 那张单据钉错了箱子，跟着走了两百英里。
+a docket = 随货单据
+② The judge has eleven cases on the docket and one afternoon to hear them.
+= 那位法官排期表上有十一件案子，只有一个下午来审。
+be on the docket = 排在待审案件表上
+构词：来源不确，十五世纪起
+注意语域：英式说单据，美式说案件排期表，两边少有交叉。
 
-district
-核心：区、地区：行政上划出的一块，也泛指有某种特色的一片地方
-（the financial district）。可数。
-英美都有 a district council、a district nurse 这类固定说法。
-① The district covers four villages and one town that acts like a city.
-= 那个区辖着四个村子和一个自以为是城市的镇。
-a district = 区、地区
-② The financial district empties at seven and fills again at eight in the morning.
-= 金融区七点空掉，早上八点又满起来。
-the financial district = 金融区
-③ The district council runs the tip and the district nurse covers four villages.
-= 区议会管垃圾场，社区护士负责四个村子。
-a district council = 区议会（英式地方政府）
-a district nurse = 社区护士（英式，上门护理）
-两个都是英国地方公共服务里的固定说法。
-④ The district court sits twice a week and the district heating fails once a winter.
-= 地方法院一周开庭两次，区域供暖一个冬天坏一回。
-a district court = 地方法院
-district heating = 区域集中供暖
-district court 在美国是联邦初审法院，在别的国家指基层法院。
-构词：中世纪拉丁语 districtus 管辖范围
-注意别混：district 是划出来的一块地界，area 更泛，region 更大。
+doctor
+核心：三支。一是医生（see a doctor）；二是博士（a doctor of philosophy）；
+三是动词「篡改、做手脚」——doctor the figures 是改数据，
+doctor a drink 是往饮料里下东西。
+形容词 doctoral 说博士的（a doctoral thesis），名词 doctorate 是博士学位。
+习语 doctor's orders 是「医嘱如此」，多半半开玩笑地用。
+① She should see a doctor about the cough she has had since February.
+= 她二月起就咳，该去看看医生。
+see a doctor = 看医生
+② No cheese after eight — doctor's orders, and he repeats it at every meal.
+= 八点以后不吃奶酪 —— 医嘱如此，他每顿饭都要重复一遍。
+doctor's orders = 医嘱如此
+③ Somebody had doctored the figures and done it clumsily enough to be caught.
+= 有人篡改了数字，手法拙劣到被抓了个正着。
+doctor the figures = 篡改数字
+④ Her doctoral thesis took six years and is cited more than her books.
+= 她的博士论文写了六年，被引用的次数比她的书还多。
+a doctoral thesis = 博士论文
+⑤ He finished the doctorate and went straight back to the job he had before it.
+= 他读完博士学位，径直回到读博前那份工作。
+a doctorate = 博士学位
+构词：拉丁语 doctor 教师
+注意用法：英国的外科医生传统上称 Mr／Ms，不叫 Doctor。
 
-distrust
-核心：不信任：觉得某人某事靠不住。不可数名词，也作及物动词。
-形容词 distrustful，常说 distrustful of something。
-跟 mistrust 几乎同义，两者可以互换。
-① There is a deep distrust of the process and not much of the people running it.
-= 人们深深不信任那套流程，对经手的人倒没那么大意见。
-distrust of something = 对某事的不信任
-② She distrusts any figure that arrives without its working shown.
-= 凡是不附推算过程的数字，她都不信。
-distrust something = 不信任某物
-③ He is distrustful of anything that sounds like a slogan.
-= 凡是听着像口号的东西他都不信。
-be distrustful of something = 对某事心存戒备
-构词：dis- 反向 加 trust 信任
-注意用法：跟 mistrust 可以换用，distrust 稍常见些。
+doctrinaire
+核心：（贬义）教条的：死守一套理论，不看实际情况。形容词，
+说人也说做法。
+① The approach was doctrinaire and the two people who suffered were not consulted.
+= 那套做法很教条，受影响的两个人根本没被问过。
+be doctrinaire = 教条的
+② A doctrinaire refusal to spend anything cost them the roof.
+= 一种教条式的一分不花，最后把屋顶赔了进去。
+a doctrinaire refusal = 教条式的拒绝
+构词：法语 doctrinaire 讲教义的人
+注意别混：doctrinaire 是死守理论（贬义），principled 是有原则（褒义）。
 
-disturb
-核心：四支。一是打扰：把人从睡眠或专注中扰醒（do not disturb）；
-二是弄乱：把摆好的东西动了（nothing had been disturbed）；
-三是使不安：让人心里发毛；四是医学上的「紊乱」（disturbed sleep）。
-名词 disturbance；形容词 disturbed 说人「心理受扰的」，
-disturbing 说事情「令人不安的」，副词 disturbingly。
-① The sign on the door says do not disturb and has been there since Tuesday.
-= 门上挂着请勿打扰的牌子，从周二就挂着。
-do not disturb = 请勿打扰
-② Nothing in the room had been disturbed except the one drawer that mattered.
-= 屋里什么都没被动过，只有要紧的那个抽屉除外。
-be disturbed = 被动过、被弄乱
-③ What disturbs me is how quickly everybody agreed.
-= 让我心里发毛的是，所有人同意得那么快。
-disturb somebody = 使某人不安
-④ There was a disturbance in the street at two and nobody rang anybody.
-= 凌晨两点街上有过一阵骚动，谁也没打电话给谁。
-a disturbance = 骚动、扰乱
-⑤ The film is disturbing in a way the trailer carefully avoided.
-= 那部片子令人不安，预告片却小心地避开了这一点。
-be disturbing = 令人不安的
-⑥ Disturbingly, the same error appears in all three sets of accounts.
-= 令人不安的是，同样的错出现在三套账目里。
-disturbingly = 令人不安地
-⑦ The disturber of the peace turned out to be a badger and the file stayed open.
-= 扰乱治安的原来是只獾，那份卷宗还开着。
-a disturber of the peace = 扰乱治安者
-法律文书里的旧说法，日常几乎不用。
-构词：拉丁语 disturbare 搅乱
-注意别混：人是 disturbed，事情是 disturbing。
+doctrine
+核心：教义、学说：一套被正式确立、要求遵循的主张 ——
+宗教、政治、法律里都用（the Monroe Doctrine）。可数不可数都行。
+形容词 doctrinal，副词 doctrinally。
+① The doctrine was settled in the fourth century and argued about ever since.
+= 那条教义四世纪就定了下来，此后一直有人争。
+a doctrine = 教义、学说
+② Doctrinal differences kept the two congregations in separate buildings for a century.
+= 教义分歧让那两个会众在不同的建筑里各待了一个世纪。
+doctrinal differences = 教义上的分歧
+③ The two churches differ doctrinally and share a car park without incident.
+= 那两间教会在教义上有分歧，共用一个停车场倒相安无事。
+differ doctrinally = 在教义上有分歧
+副词只用于宗教与法理的讨论。
+构词：拉丁语 doctrina 教导
+注意别混：doctrine 是被确立的一套主张，theory 是有待检验的解释。
 
-disunite
-核心：使分裂：让本来同心的一群人裂开。及物动词，偏正式，多用被动。
-形容词 disunited，名词 disunity 说「不团结」，比动词常用得多。
-① One vote disunited a party that had held together through two elections.
-= 一次投票让一个熬过两届选举的政党分裂了。
-disunite somebody = 使某群人分裂
-② Disunity was the charge and everybody who made it was part of it.
-= 指控是不团结，而提出指控的人个个身在其中。
-disunity = 不团结、分裂
-③ They went into the negotiation disunited and came out with nothing.
-= 他们带着分歧走进谈判，空手走了出来。
-be disunited = 内部不齐心的
-构词：dis- 反向 加 unite 联合
-注意用法：名词 disunity 用得最多，动词偏书面。
+docudrama
+核心：纪实剧：用演员搬演真实事件的影视作品，介于纪录片与剧集之间。可数。
+同一路的还有 a docusoap：跟拍普通人日常的纪实系列节目。
+① The docudrama changed two names and got sued by a third person entirely.
+= 那部纪实剧改了两个人的名字，被告的却是完全不相干的第三个人。
+a docudrama = 纪实剧
+② The docusoap followed four families for a year and made one of them famous.
+= 那档纪实真人秀跟拍了四个家庭一年，捧红了其中一家。
+a docusoap = 纪实真人秀（英式）
+构词：documentary 加 drama、soap opera
+注意别混：docudrama 有演员搬演，documentary 拍的是真人真事。
 
-disuse
-核心：废置不用：一样东西或一种做法长期没人用。不可数，
-几乎只用在 fall into disuse 与 in disuse 里。
-形容词 disused 说「废弃的」（a disused railway），这一支最常见。
-① The custom fell into disuse and came back as a tourist attraction.
-= 那个习俗一度废弃，后来作为旅游项目回来了。
-fall into disuse = 废置不用
-② They walk the dog along a disused railway that the town keeps meaning to sell.
-= 他们沿着一条废弃铁路遛狗，镇上一直说要卖掉它。
-a disused railway = 废弃的铁路
-构词：dis- 反向 加 use 使用
-注意用法：disused 多说建筑、铁路、矿井这类大件。
+document
+核心：名词与动词同形，读音不同。名词是文件、文书（a legal document）；
+动词是「记录下来、用证据说明」（a well-documented case）。
+名词 documentation 指配套的文件材料，也指软件的说明文档。
+① He signed a legal document he had not read and paid for it for years.
+= 他签了一份没读过的法律文件，为此赔了好些年。
+a legal document = 法律文件
+② The whole process was documented in photographs nobody has looked at since.
+= 整个过程都用照片记录了下来，此后没人看过。
+document something = 记录、存证某事
+③ The documentation runs to two hundred pages and explains none of the errors.
+= 那套文档写了两百页，一个错误也没解释清楚。
+documentation = 配套文档
+④ The document case was left on the train and the papers in it were never missed.
+= 那个公文包落在了火车上，里面的文件谁也没想起来找。
+a document case = 公文包（扁平的那种）
+跟 briefcase 相比更薄，只装纸。
+构词：拉丁语 documentum 凭证
+注意用法：名词重音在前，动词重音在后。
 
-ditch
-核心：三支。一是水沟：路边或田边挖的排水沟；
-二是口语的「甩掉、抛弃」——ditch a plan、ditch somebody；
-三是飞机迫降水面（ditch a plane）。名词动词同形。
-习语 as dull as ditchwater 是英式的「无聊透顶」。
-① The car ended up in a ditch and the driver walked to the next village.
-= 车最后掉进水沟，司机步行去了下一个村子。
-a ditch = 水沟
-② They ditched the second half of the plan and kept the name.
-= 他们把计划的后半截扔了，名字倒留着。
-ditch something = 甩掉、抛弃某物
-③ The pilot ditched the aircraft in the estuary and everybody got out.
-= 飞行员把飞机迫降在河口，所有人都出来了。
-ditch a plane = 迫降水面
-④ The talk was as dull as ditchwater and the room was too warm for arguing.
-= 那场讲座无聊透顶，屋里又热得没人想争。
-as dull as ditchwater = 无聊透顶（英式）
-构词：古英语 dic，与 dike 同源
-注意语域：「甩掉」那一支是口语，正式说 abandon、drop。
+documentary
+核心：纪录片：拍真人真事的影视作品。可数。
+也作形容词：documentary evidence 是书证，指以文件形式存在的证据。
+① The documentary took four years to make and eleven minutes to argue about.
+= 那部纪录片拍了四年，引发的争论只用了十一分钟。
+a documentary = 纪录片
+② The claim rests on documentary evidence and one witness who has since died.
+= 那项主张靠的是书证，和一位此后已故的证人。
+documentary evidence = 书证
+构词：document 加 -ary
+注意别混：documentary 拍真人真事，docudrama 用演员搬演。
 
-dither
-核心：拿不定主意：来回犹豫、迟迟不决，带一点责备。不及物动词，
-也作名词（in a dither 是慌乱犹豫）。拿不定主意的人叫 a ditherer。
-① He dithered for a fortnight and the flat went to somebody who rang first.
-= 他犹豫了两周，那套公寓给了先打电话的人。
-dither = 拿不定主意
-② She was in a dither about which of the two to tell first.
-= 先告诉哪一个，她乱了方寸。
-be in a dither = 慌乱犹豫
-③ The committee is a ditherer by design and nobody wants to chair it.
-= 那个委员会天生就爱拖，谁也不想当主席。
-a ditherer = 拿不定主意的人
-构词：中古英语 didderen 发抖
-注意语域：口语，带责备；正式说 hesitate、vacillate。
+doddering
+核心：（贬义）老迈蹒跚的：说老人走路发抖、动作迟缓，语气不客气。形容词。
+动词 dodder 说「颤巍巍地走」。
+① A doddering old man in the front row asked the sharpest question of the evening.
+= 前排一位颤巍巍的老先生，提了全场最尖锐的问题。
+a doddering old man = 颤巍巍的老先生
+② He doddered to the gate and back twice a day for another nine years.
+= 此后九年，他每天颤巍巍地走到大门口再回来，一天两趟。
+dodder = 颤巍巍地走
+构词：可能与 totter 同源，十七世纪起
+注意语域：带轻慢，正经说老人步履不稳用 unsteady。
 
-ditsy
-核心：（口语，多美式）傻乎乎又爱走神的：多用来说女性，带轻慢，
-今天用起来容易被认为不礼貌。形容词，也拼 ditzy；名词 a ditz。
-① The part was written as a ditsy neighbour and the actor made her the best thing in it.
-= 那个角色本是个傻乎乎的邻居，演员把她演成了全剧最出彩的。
-a ditsy neighbour = 傻乎乎的邻居（角色设定）
-② Calling somebody a ditz says more about the speaker than about her.
-= 管人家叫傻大姐，说明的是说话人自己，不是她。
-a ditz = 傻乎乎的人（口语，贬）
-构词：来源不确，二十世纪美国口语
-注意语域：带性别偏见的贬词，读到能认得就好，自己别用。
+doddle
+核心：（英式口语）轻而易举的事：不费劲就能办成。可数，
+几乎只用在 be a doddle 里。
+① The exam was a doddle and half the class still managed to fail it.
+= 那场考试轻而易举，一半的人照样没及格。
+be a doddle = 轻而易举
+② Fitting the shelf is a doddle if you have somebody to hold the other end.
+= 装那块搁板很容易 —— 前提是有人替你扶着另一头。
+be a doddle = 不费劲的事
+构词：来源不确，二十世纪英式口语
+注意语域：英式口语；美式说 a piece of cake。
 
-ditto
-核心：同上、一样：表格与清单里表示「跟上一行相同」，
-写作符号是两个点。口语里说 ditto 就是「我也一样」。可数名词，
-也说 ditto marks。
-① Everybody signed the top of the sheet and the last three lines are marked ditto.
-= 所有人都在纸的上半部分签了字，最后三行标着「同上」。
-ditto = 同上
-② I hated the first half. Ditto the second.
-= 上半场我看着难受。下半场也一样。
-ditto = 我也一样（口语）
-构词：意大利语 detto「已说过的」
-注意用法：说「我也是」时口语可以单说 ditto，正式场合不用。
+dodecagon
+核心：十二边形。几何术语，可数。
+同族的 dodecahedron 是十二面体：一个数边，一个数面。
+① The tower is a dodecagon and looks round from anywhere except directly below.
+= 那座塔是十二边形的，除了正下方，从哪儿看都像圆的。
+a dodecagon = 十二边形
+② A dodecahedron has twelve faces and turns up in every set of dice for role-playing.
+= 十二面体有十二个面，角色扮演的骰子套装里都有它。
+a dodecahedron = 十二面体
+构词：希腊语 dodeka 十二 加 gonia 角
+注意别混：dodecagon 数边，dodecahedron 数面。
 
-ditty
-核心：小调：短小轻快、常带俏皮的歌，多半是随口编的。可数，
-复数 ditties，语气偏轻松，有时带一点看不上。
-① He made up a ditty about the roadworks and the whole street learnt it.
-= 他就修路的事编了首小调，整条街都学会了。
-a ditty = 小调、短歌
-② The advertisement ended with a ditty nobody could get out of their head.
-= 那则广告以一段小调收尾，谁听了都甩不掉。
-a ditty = 顺口的小曲
-构词：古法语 dité 作品、诗作
-注意语域：偏口语与调侃，正经说歌用 a song。
+dodge
+核心：三支。一是闪躲：侧身避开飞来的东西（dodge a ball）；
+二是躲避责任或规矩（dodge a question、tax dodging）；
+三是名词的「花招」——a tax dodge 是避税的门道。
+形容词 dodgy 是英式口语的「靠不住的、可疑的、不太妙的」，用得极广；
+碰碰车叫 a dodgem，躲避球叫 dodgeball，逃避者是 a dodger。
+① He dodged the first question and answered a better one that nobody had asked.
+= 他躲开了第一个问题，答了个没人问过的、更好答的问题。
+dodge a question = 回避问题
+② The whole arrangement was a tax dodge and it stayed legal for eleven years.
+= 整套安排就是个避税门道，合法了十一年。
+a tax dodge = 避税的门道
+③ The wiring in that flat looks dodgy and the landlord calls it original.
+= 那套公寓的线路看着不靠谱，房东管它叫「原装」。
+be dodgy = 靠不住的、可疑的（英式口语）
+④ The children spent the afternoon on the dodgems and their money by four o'clock.
+= 孩子们一下午都在碰碰车上，四点钱就花光了。
+a dodgem = 碰碰车（英式）
+⑤ Dodgeball is banned in three schools in that county and popular in the rest.
+= 躲避球在那个郡的三所学校被禁，其余学校照样受欢迎。
+dodgeball = 躲避球
+⑥ The dodger at the back of the queue had been there twice already.
+= 队尾那个想蒙混过关的人，已经排过两回了。
+a dodger = 逃避者、蒙混者
+常构成复合词：a tax dodger、a fare dodger。
+构词：来源不确，十六世纪起
+注意语域：dodgy 是英式口语里用得最广的一个词，从人到食物到天气都能说。
 
-diuretic
-核心：利尿的、利尿药：让身体排出更多尿的药物或食物。
-名词形容词同形，可数。
-① Coffee is a mild diuretic and that is most of what people know about it.
-= 咖啡有轻微利尿作用，人们对它的了解大半也就这一条。
-a diuretic = 利尿剂
-② The diuretic effect wears off before the caffeine does.
-= 利尿作用比咖啡因先消退。
-the diuretic effect = 利尿作用
-构词：希腊语 diourein 排尿
-注意语域：医学与营养语境用语。
+dodo
+核心：渡渡鸟：毛里求斯已灭绝的不会飞的大鸟，
+习语 as dead as a dodo 说「彻底完蛋、早成过去」。可数，复数 dodos。
+① The dodo is the example everybody reaches for and almost nobody has seen a bone of.
+= 说到灭绝，人人都拿渡渡鸟举例，可几乎没人见过它一根骨头。
+a dodo = 渡渡鸟
+② That format is as dead as a dodo and two companies are still selling it.
+= 那种格式早就彻底过时，还有两家公司在卖。
+as dead as a dodo = 彻底完蛋、早成过去
+构词：可能来自葡萄牙语 doudo 傻子
+注意用法：比喻用法比说鸟本身常见。
 
-diurnal
-核心：两支。一是（生物）昼行性的：白天活动、夜里休息 ——
-跟 nocturnal（夜行性的）成对；二是（正式）每日的、一昼夜的。
-形容词，学术用语。
-① Most of the birds on that list are diurnal and the survey was done at dawn.
-= 名单上多数鸟是昼行性的，调查是在拂晓做的。
-be diurnal = 昼行性的
-② The diurnal cycle of temperature matters more to the crop than the annual one.
-= 对那种作物来说，昼夜温差比年际变化更要紧。
-the diurnal cycle = 昼夜周期
-构词：拉丁语 diurnus 每日的
-注意别混：diurnal 白天活动，nocturnal 夜里活动，crepuscular 晨昏活动。
+doe
+核心：雌鹿：也指母兔、母山羊。可数，跟雄鹿 a stag／a buck 相对。
+习语 doe-eyed 说眼睛大而温柔，多用于说人，有时带一点轻慢。
+① A doe and two fawns crossed the track and stopped to look back.
+= 一只母鹿带着两只幼鹿穿过小径，停下回头看了看。
+a doe = 母鹿
+② The part called for somebody doe-eyed and she played it as somebody dangerous.
+= 那个角色本要求眼神温顺，她却演成了一个危险人物。
+doe-eyed = 眼睛大而温柔的
+构词：古英语 dā
+注意别混：doe 是母鹿与母兔，buck 与 stag 是雄的。
 
-diva
-核心：两支。一是女高音名角：歌剧界的头牌女歌手；
-二是引申的「难伺候的大牌」：说人爱摆架子、要求多，一律贬义，
-今天男女都能说。可数。
-① The diva cancelled twice and sold out both replacement nights.
-= 那位女高音取消了两场，补演的两晚照样售罄。
-a diva = 女高音名角
-② He is a diva about the seating plan and about nothing else at all.
-= 他只在座位安排上像个大牌，别的事一概好说。
-be a diva about something = 在某事上摆大牌架子
-③ They closed the shop early for Divali and reopened it at midnight for the queue.
-= 他们为过排灯节提早关了店，又在午夜为排队的人重新开门。
-Divali = 排灯节（也拼 Diwali、Deepavali）
-三种拼法都通行，英语里 Diwali 最常见。
-构词：意大利语 diva 女神
-注意语域：引申义是贬义，说人难伺候。
+doer
+核心：实干者：动手做事而不是空谈的人。可数，多带褒义，
+常说 a doer rather than a talker。
+① The committee needed a doer and appointed its most careful talker.
+= 委员会需要一个实干的人，选出来的却是最会斟酌措辞的那位。
+a doer = 实干的人
+② She is a doer and the shed was up before anybody had drawn a plan.
+= 她是个说干就干的人，图还没人画，棚子已经搭起来了。
+be a doer = 说干就干的人
+③ The evil-doer in that story is punished on the last page and pitied on the one before.
+= 那个故事里的作恶者，最后一页受了罚，前一页刚被同情过。
+an evil-doer = 作恶的人
+构词：do 加 -er
+注意用法：常跟 a talker、a thinker 对着说。
 
-divan
-核心：两支。一是没有靠背与扶手的长榻，也指底座式的床（a divan bed）；
-二是（旧）东方宫廷的枢密会议与会议厅。可数。
-① The divan bed has two drawers underneath and neither of them opens easily.
-= 那张底座床下面有两个抽屉，哪个都不好拉开。
-a divan bed = 底座式的床
-② The word came into English with accounts of councils held on a divan.
-= 这个词是随着关于在长榻上举行的会议的记述进入英语的。
-a divan = 长榻；旧指枢密会议
-构词：波斯语 dīvān 案卷、议事厅
-注意用法：家具那一支英式常见，说床时写 a divan bed。
+doff
+核心：（旧或文学）脱帽、脱下：doff your hat 是摘帽致意，
+跟 don（穿上、戴上）成对。及物动词，今天多用在仿古与戏谑的场合。
+① He doffed his cap to the headmistress and she pretended not to notice.
+= 他向女校长摘帽致意，她假装没看见。
+doff your hat = 摘帽致意
+② The uniform is doffed at the door and donned again the following morning.
+= 制服在门口脱下，第二天早上再穿上。
+doff something = 脱下某物
+构词：do off 的缩合，与 don 成对
+注意语域：旧词，今天多带戏谑；日常说 take off。
 
-dive
-核心：四支。一是跳水、潜水（dive into the pool）；
-二是俯冲：鸟或飞机急速下降；三是（价格、数值）骤降；
-四是口语的「破地方」：a dive 指又脏又差的酒吧。
-过去式英式 dived，美式常用 dove。
-潜水员是 a diver，潜水这件事是 diving。
-习语 dive in 是「一头扎进去、动手就干」。
-① She dived into the pool before anybody had told her the depth.
-= 还没人告诉她水多深，她就跳了进去。
-dive into something = 跳进某处
-② The bird dived twice and came up with nothing either time.
-= 那只鸟俯冲了两次，两次都空手而回。
-dive = 俯冲、扎入
-③ Share prices dived on the Monday and recovered by the Thursday.
-= 股价周一大跌，到周四就回来了。
-dive = 骤降
-④ The place is a dive and the food is better than anywhere else in the town.
-= 那地方是个破酒馆，饭菜却是镇上最好的。
-a dive = 又脏又差的酒吧（口语）
-⑤ Just dive in and ask questions when you get stuck.
-= 先干起来，卡住了再问。
-dive in = 一头扎进去、动手就干
-⑥ The diver surfaced twice to change tanks and stayed down for two hours.
-= 那名潜水员浮上来换过两次气瓶，一共在水下待了两个钟头。
-a diver = 潜水员
-⑦ Diving off that rock is illegal, popular, and about two metres deeper than it looks.
-= 从那块岩石上跳水是违法的，却很受欢迎，水也比看着深两米左右。
-diving = 跳水、潜水（这件事）
-作定语说 a diving board 跳板、a diving bell 潜水钟。
-⑧ The dive-bomber came in twice and the second dive-bomb attack hit the bridge.
-= 那架俯冲轰炸机来了两趟，第二趟俯冲把桥炸中了。
-dive-bomb = 俯冲轰炸
-a dive-bomber = 俯冲轰炸机
-鸟护巢时俯冲驱赶行人，口语里也说 dive-bomb。
-构词：古英语 dyfan 浸入
-注意用法：过去式英式说 dived，美式说 dove，两种都对。
+dog
+核心：本义是狗，但引申一大片，而且褒贬两极。
+一是动词：像狗一样跟着不放 —— be dogged by injury 是伤病缠身，
+这一支在报道里极常读到。
+二是说人：you lucky dog 是打趣，a dirty dog 是骂人，全看修饰语。
+三是说东西不行：a dog of a film 是烂片（美式口语）。
+习语一大族，多半拿狗的处境作比：a dog's life 是苦日子，
+go to the dogs 是每况愈下，let sleeping dogs lie 是别惹是非，
+dog eat dog 是自相残杀。
+① The dog barked all night and nobody on the street said anything.
+= 那条狗叫了一夜，街上谁也没吭声。
+a dog = 狗
+本义的一支。
+② He has been dogged by injury all season and started only twice.
+= 整个赛季他伤病缠身，只首发过两次。
+be dogged by = 被……缠住不放
+动词那一支，多用被动，主语是人。
+③ Reporters dogged her every step from the courthouse to the car.
+= 从法院到车上，记者一步不落地追着她。
+dog somebody = 紧追不舍地跟着某人
+主动式，宾语是被跟的人。
+④ You lucky dog! Two weeks off and somebody else doing your marking.
+= 你这走运的家伙！放两周假，还有人替你批卷子。
+a lucky dog = 走运的家伙
+打趣的说法，不是骂人。
+⑤ It leads a dog's life, chained up in a yard the size of a table.
+= 它过着牛马不如的日子，拴在桌子大小的院子里。
+a dog's life = 又苦又累的日子
+拿看门狗的处境作比。
+⑥ The neighbourhood has gone to the dogs since the factory shut.
+= 工厂关门以后，这一带就败落了。
+go to the dogs = 每况愈下
+说地方、机构或人一天不如一天。
+⑦ Better let sleeping dogs lie than reopen something settled years ago.
+= 多年前了结的事，还是别去惊动为好。
+let sleeping dogs lie = 别惊动旧麻烦
+劝人别去碰已经平息的事。
+⑧ It is dog eat dog in that industry and nobody pretends otherwise.
+= 那个行业你死我活，谁也不装。
+dog eat dog = 你死我活的竞争
+形容词写作 dog-eat-dog。
+⑨ She is top dog now and remembers exactly who ignored her before.
+= 她如今是头面人物，清楚记得从前谁不理她。
+top dog = 居上风的人
+反过来说 the underdog，指处于劣势的一方。
+⑩ He works like a dog and takes home less than the man who hired him.
+= 他拼命干活，拿的还不如雇他的人多。
+work like a dog = 拼命干活
+中文用牛，英语用狗，比方的落点不一样。
+⑪ They made a dog's dinner of it and blamed the software.
+= 他们把事情弄得一团糟，还怪软件。
+make a dog's dinner of = 把事情弄得一团糟（英式）
+也说 a dog's breakfast，同义。
+⑫ He had a hair of the dog at noon and felt worse by two.
+= 他中午喝了杯解酒的，两点就更难受了。
+hair of the dog = 用酒解宿醉
+出自被狗咬了拿狗毛敷的老偏方。
+⑬ The book was dog-eared from use and had three different names inside.
+= 这本书翻得卷了角，扉页上有三个不同的名字。
+dog-eared = 书角卷起的
+比方来自狗耳朵耷拉的样子。
+⑭ The vicar wore a dog collar under a jumper with a hole in it.
+= 牧师在一件破了洞的毛衣底下戴着白硬领。
+a dog collar = 狗项圈；也指牧师的硬领
+第二个义是口语的戏称。
+⑮ The dog days of August are the hottest and nothing grows through them.
+= 八月的三伏天最热，什么也长不动。
+the dog days = 三伏天；也指停滞无聊的一段时期
+名字来自天狼星那阵子出现在天上。
+⑯ It was a dog whistle to his base and everyone else heard it too.
+= 那是说给基本盘听的暗语，可别人也都听懂了。
+a dog whistle = 只有特定人群听得懂的政治暗语
+比方来自只有狗听得见的哨子。
+⑰ I was dog-tired by ten and still had the accounts to finish.
+= 十点我就累瘫了，账还没做完。
+dog-tired = 累极了
+口语，程度很重。
+⑱ He walks the dog before breakfast whatever the weather is doing.
+= 不管什么天气，他都在早饭前遛狗。
+walk a dog = 遛狗
+要留意的是这里的 walk 是及物的「带着走」，不是自己走；同样的用法还有 walk somebody home。
+⑲ She worked doggedly through a list that got longer every time she looked at it.
+= 她一声不响地啃着那份清单，可每看一眼它就更长。
+doggedly = 顽强不放弃地
+doggedness = 韧劲、不松口
+这一族取的是狗咬住不放的意思，一律褒义。
+⑳ The doghouse is empty and the dog sleeps on the landing, as everybody expected.
+= 狗屋空着，狗睡在楼梯平台上 —— 谁都料到会这样。
+a doghouse = 狗屋
+be in the doghouse = 惹人生气、正被冷落（美式口语）
+in the doghouse 是美式说法：因为做错事而被家里人冷落。
+㉑ Two dogfighters circled the field and the dogfight lasted about forty seconds.
+= 两架战机在田野上空盘旋，那场缠斗大约持续了四十秒。
+a dogfight = 空中缠斗；也指激烈的近身争夺
+dogfighting = 斗狗（非法赌博活动）
+空战与斗狗共用一个词，靠上下文分得很清。
+㉒ The dogcatcher came twice and the dogsbody in the office filled in both forms.
+= 捕犬员来了两趟，办公室里那个打杂的把两份表都填了。
+a dogcatcher = 捕犬员（美式）
+a dogsbody = 打杂的人（英式，自嘲或抱怨时用）
+dogsbody 出自旧时海军，指最没地位的那个人。
+㉓ A dogfish was in the net again and the dogwood by the slipway was out early.
+= 网里又是一条角鲨，滑道边那棵山茱萸开得早。
+a dogfish = 角鲨（小型鲨鱼）
+dogwood = 山茱萸
+两样东西名字里的 dog 都跟狗无关，只是习称。
+㉔ They lay doggo behind the wall until the torch had swung past twice.
+= 他们伏在墙后一动不动，直到手电光扫过两遍。
+lie doggo = 伏着不动、按兵不动（英式口语，旧）
+英式旧俚语，多用在躲藏与蛰伏的场合。
+㉕ Doggone it, he said, and the children repeated it for a week.
+= 「见鬼了，」他说了一句，孩子们跟着学了一星期。
+doggone it = 见鬼、该死（美式委婉说法）
+跟 damn 的委婉形式一路，同 darn、dang。
+㉖ The doggy bag came home full and went into the fridge until Thursday.
+= 打包袋满满地拿回了家，塞进冰箱一直放到周四。
+a doggy bag = 餐厅打包袋
+doggy = 狗狗的、像狗的（儿语与口语）
+名义上是给狗带的，实际多半是自己吃。
+㉗ A dogsled team of nine covered the distance in two days and a night.
+= 一支九条狗的雪橇队用了两天一夜跑完全程。
+a dogsled = 狗拉雪橇
+a dogie = 失去母牛的小牛（美国西部用语）
+dogie 是美国西部牧牛的词，多见于旧歌与西部故事。
+㉘ A dogger worked those grounds for a century and the sandbank still carries the name.
+= 那种双桅渔船在那片渔场作业了一个世纪，那道沙洲至今叫着这个名字。
+a dogger = 荷兰式双桅渔船（历史）
+北海的 Dogger Bank 就是由这种船得名。
+㉙ Dogging is what the local paper called it and the council put up two more gates.
+= 本地报纸就用了这个词来说那件事，议会又加装了两道门。
+dogging = 在野外公共场所的性活动（英式俚语）
+英式俚语，多见于警方与地方新闻；跟遛狗无关。
+㉚ The dog handler and the dog warden arrived together and neither had a dog with them.
+= 警犬训导员和管犬员一起到的，两人身边一条狗都没有。
+a dog handler = 警犬训导员
+a dog warden = 管犬员（英式）
+a dog walker = 遛狗的人
+dog walking = 遛狗（这门营生）
+英国不少城镇由 dog warden 处理走失与扰民的狗。
+㉛ A dog tag, a dog biscuit and a dog-end were all that was left in the pocket.
+= 口袋里剩下的只有一块狗牌、一块狗饼干和一个烟屁股。
+a dog tag = 狗牌；也指军人身份牌
+a dog biscuit = 狗饼干
+a dog-end = 烟屁股（英式口语）
+军人身份牌叫 dog tags，一律用复数。
+㉜ The road has a dog-leg at the bridge and the children dog-paddle in the pool below it.
+= 那条路在桥那儿拐了个急弯，孩子们在桥下的水潭里狗刨。
+a dog-leg = 急拐弯（路或球道）
+dog-paddle = 狗刨式游泳
+高尔夫球道拐弯也叫 a dog-leg。
+构词：古英语 docga
+注意语域：说人时全看修饰语 —— lucky dog 是打趣，dirty dog 是骂人。
 
-diverge
-核心：两支。一是分岔：两条路、两条线从同一点分开走；
-二是引申的「出现分歧」——说看法、数据、走势分道扬镳。
-不及物动词。名词 divergence，形容词 divergent。
-① The path diverges at the barn and both branches end at the same gate.
-= 小路在谷仓那儿分岔，两条最后都通到同一道门。
-diverge = 分岔
-② Their accounts diverge at exactly the point where it matters.
-= 他们的说法恰恰在关键的地方分了岔。
-diverge = 出现分歧
-③ The divergence between the two forecasts widened every month for a year.
-= 那两份预测之间的差距，一年里月月拉大。
-a divergence between A and B = 甲与乙之间的分歧
-④ Divergent views were welcomed in the invitation and not in the room.
-= 邀请函上欢迎不同意见，会场上并不欢迎。
-divergent views = 分歧的意见
-构词：拉丁语 divergere 岔开
-注意别混：diverge 是分开走，converge 是聚到一起。
+doge
+核心：（历史）总督：威尼斯与热那亚共和国的最高执政官。可数，
+读音接近「多杰」。只见于历史与艺术史文字。
+① The doge was elected for life and watched more closely than any prisoner.
+= 总督是终身选任的，被盯得比任何囚犯都紧。
+a doge = 威尼斯或热那亚的总督
+② The palace was built for the doge and finished long after the office had faded.
+= 那座宫殿是为总督建的，完工时这个职位早已式微。
+the doge's palace = 总督府
+构词：威尼斯方言，来自拉丁语 dux 首领
+注意语域：历史与艺术史用语。

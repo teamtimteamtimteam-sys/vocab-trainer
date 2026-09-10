@@ -1,416 +1,406 @@
-denitrify
-核心：脱氮：把土壤或废水里的硝酸盐还原成氮气排掉 —— 农业与污水处理的术语。
-及物动词，名词 denitrification。
-① Waterlogged soil denitrifies quickly and the fertilizer is simply lost.
-= 积水的土壤脱氮很快，施下去的肥就那么白费了。
-denitrify = 脱氮
-② Denitrification in the treatment plant removes most of the nitrogen before discharge.
-= 污水厂的脱氮工序在排放前去掉了大部分氮。
-denitrification = 脱氮作用
-构词：de- 去掉 加 nitrify 硝化
-注意语域：农学与环境工程术语。
+depressurize
+核心：使失压、卸压：把舱内或容器里的压力降下来 —— 航空与工业用语。
+及物不及物都行，英式也拼 depressurise。名词 depressurization。
+① The cabin depressurized slowly enough for the masks to do their job.
+= 客舱失压得够慢，氧气面罩起了作用。
+depressurize = 失压、卸压
+② Depressurization at that altitude gives you about fifteen useful seconds.
+= 在那个高度失压，留给你的有效时间大约十五秒。
+depressurization = 失压
+构词：de- 去掉 加 pressurize 加压
+注意用法：航空事故报道里常见；工业上说给管道卸压也用它。
 
-denizen
-核心：（正式或戏谑的）居住者、常客：说某地的居民，也说某个圈子里的常客。
-可数，多用复数。今天多半带一点玩笑口气。
-① The denizens of that reading room have not changed since the seventies.
-= 那间阅览室的常客从七十年代起就没换过人。
-the denizens of somewhere = 某处的常客、居住者
-② Crabs and other denizens of the rock pools disappear as soon as a shadow falls.
-= 螃蟹和潮池里别的住户，一有影子落下就没了踪影。
-a denizen of somewhere = 某处的住户
-构词：盎格鲁法语 deinzein「城里人」
-注意语域：正式或戏谑，日常说 residents、regulars。
+deprive
+核心：剥夺：把某人本该有的东西拿走 —— 固定结构 deprive somebody of something。
+及物动词。形容词 deprived 说人或地区「贫困、条件差」
+（a deprived area）；名词 deprivation 指匮乏，也说 sleep deprivation 睡眠不足。
+① The ruling deprived them of the only right they had been counting on.
+= 那项裁决剥夺了他们唯一指望着的权利。
+deprive somebody of something = 剥夺某人的某物
+词典里把这个结构写作 deprive of，被剥夺的人插在中间，后面接被拿走的东西。
+② The school takes children from three of the most deprived wards in the city.
+= 那所学校招的是全市最贫困的三个选区的孩子。
+a deprived area = 贫困地区
+③ Sleep deprivation was doing more damage than the workload itself.
+= 睡眠不足造成的损害，比工作量本身还大。
+sleep deprivation = 睡眠不足
+构词：拉丁语 deprivare 夺走
+注意用法：结构固定：deprive somebody of something，介词只能用 of。
 
-denominate
-核心：以某种货币计价：金融文字里几乎只用被动 be denominated in something。
-另有一个旧的正式义：命名、称作。及物动词。
-名词 denomination 有两支：一是货币或票据的面额，二是宗教的教派；
-形容词 denominational 说教派的。
-① The bonds are denominated in dollars and pay out in local currency.
-= 那些债券以美元计价，却用当地货币兑付。
-be denominated in something = 以某种货币计价
-② The machine takes notes of every denomination except the largest.
-= 那台机器接受各种面额的钞票，最大的一种除外。
-a denomination = 面额
-③ Three denominations share the building and each has its own hour on Sunday.
-= 三个教派共用那栋建筑，周日各占一个钟头。
-a denomination = 教派
-④ The school is denominational and takes children of any faith or none.
-= 那所学校有教派背景，但收各种信仰或没有信仰的孩子。
-denominational = 有教派背景的
-构词：拉丁语 denominare 命名
-注意用法：金融义几乎只用被动；面额与教派两支都很常见。
+depth
+核心：三支。一是深度（a depth of two metres）；二是「深入的程度」——
+in depth 是深入地，out of your depth 是「超出自己的能力」；
+三是复数 the depths，指最深处，也说最低谷（the depths of winter）。
+习语 plumb the depths of something 是「探到最低处」，多说糟糕的程度。
+① The well is only a metre across and has a depth of nearly twenty.
+= 那口井口径只有一米，深度却近二十米。
+a depth of something = 若干深度
+② The report examines three cases in depth and mentions forty others.
+= 那份报告深入分析了三个案例，另外提到四十个。
+in depth = 深入地
+③ He was out of his depth in that job from the first week.
+= 从第一周起，那份工作就超出了他的能力。
+be out of your depth = 力所不及、应付不来
+④ The film plumbs the depths of a family that never once raises its voice.
+= 那部电影探进了一个从不高声说话的家庭的最深处。
+plumb the depths of something = 探到某事的最深处
+⑤ In the depths of winter the road is passable about half the time.
+= 隆冬时节，那条路大概有一半时间能通行。
+in the depths of winter = 隆冬时节
+⑥ A depth charge went off somewhere astern and ruined the photographer's depth of field.
+= 船尾某处炸开一枚深水炸弹，把摄影师的景深也毁了。
+a depth charge = 深水炸弹
+depth of field = 景深（摄影）
+两个词的 depth 一个说海深，一个说清晰的纵深范围。
+构词：deep 加名词后缀 -th
+注意用法：out of your depth 本义是水深过头，比喻义今天用得更多。
 
-denominator
-核心：分母：分数里横线下面那个数，跟 numerator 分子相对。
-比喻里最常用的是 the lowest common denominator：本义是最小公分母，
-引申指「为迎合最多人而降到最低的那个水准」，带贬义。
-① Put both fractions over the same denominator before you add them.
-= 两个分数先通分到同一个分母，再相加。
-a denominator = 分母
-② Television written for the lowest common denominator still finds an audience.
-= 照最低水准写出来的电视节目照样有人看。
-the lowest common denominator = 迎合最多人的最低水准
-构词：拉丁语 denominare 命名
-注意用法：比喻义带贬义；数学义中性。
+deputation
+核心：代表团：几个人受托去向上级或对方陈情的那一队人。
+可数，偏正式，多用于工会、居民、行会去交涉的场合。
+① A deputation of residents waited outside the office for most of the morning.
+= 一队居民代表在办公室外等了大半个上午。
+a deputation = （去陈情的）代表团
+② They sent a deputation rather than a letter and got an answer the same week.
+= 他们没写信，而是派了个代表团去，当周就有了答复。
+send a deputation = 派出代表团
+构词：拉丁语 deputare 指派
+注意别混：deputation 是去交涉的一小队人，delegation 更常说正式派出的代表团。
 
-denotation
-核心：字面所指：一个词直接指的那样东西，跟 connotation 言外之意相对。
-语言学与文学分析里的一对术语。动词 denote 是「表示、意味着」，
-形容词 denotational 说「就字面所指而言的」。
-① The denotation of the word is neutral and the connotation is anything but.
-= 那个词的字面所指是中性的，言外之意可远不是。
-the denotation of a word = 一个词的字面所指
-② A flashing light denotes a fault somewhere in the circuit.
-= 闪烁的指示灯表示电路某处有故障。
-denote something = 表示、意味着某事
-③ The denotational meaning is the same in both sentences and everything else differs.
-= 两句话的字面所指相同，别的地方全不一样。
-denotational meaning = 字面所指的意义
-构词：拉丁语 denotare 标示
-注意别混：denotation 是字面所指，connotation 是附带的联想与感情色彩。
+depute
+核心：（正式）委派、授权某人代做某事。及物动词，日常少用；
+真正常用的是同族的两个词：deputize 是「代职、暂代」
+（deputize for somebody），a deputy 是副职或代理人。
+① The chair deputed two members to look at the accounts in detail.
+= 主席委派两名成员去细查账目。
+depute somebody to do something = 委派某人做某事
+② She deputized for the head teacher for a whole term and got no extra pay.
+= 她代理校长整整一个学期，一分额外的钱也没拿。
+deputize for somebody = 代某人履职
+③ The deputy signs everything when the director is abroad.
+= 主管出国期间，一切文件由副职签署。
+a deputy = 副职、代理人
+构词：拉丁语 deputare 指派
+注意用法：日常说「代班」用 deputize 或 stand in for somebody。
 
-denouement
-核心：（故事的）收梢：把前面的悬念一一交代清楚的那一段，
-在高潮之后。法语借词，也写作 dénouement。可数。
-也引申着说现实中一桩纠纷的最终了结。
-① The denouement takes eleven pages and explains three things nobody had asked about.
-= 那段收梢写了十一页，交代了三件没人问过的事。
-the denouement = 故事的收梢
-② The denouement of the whole affair came in a two-line statement on a Friday.
-= 整桩事的了结，是周五一份两行的声明。
-the denouement of something = 某事的最终了结
-构词：法语 dénouer 解开（结）
-注意别混：climax 是最紧张的那一刻，denouement 是之后收拾局面的那一段。
+deracinate
+核心：（正式）连根拔起：多用被动，说人被迫离开故土、失去根脉。
+形容词 deracinated 比动词常见，说「失根的」。
+① Whole communities were deracinated by the dam and rehoused two valleys away.
+= 整片社区被那座水坝连根拔起，安置到了两道山谷之外。
+be deracinated = 被连根拔起、被迫离乡
+② He wrote about a deracinated generation that belonged to neither country.
+= 他写的是失了根的一代人，哪个国家都不属于。
+a deracinated generation = 失根的一代
+构词：法语 déraciner 拔根，racine 是「根」
+注意语域：文学与社会评论用语；日常说 uprooted。
 
-denounce
-核心：公开谴责、揭发：当众说某人某事错了，语气重且正式；
-也指向当局告发某人（denounce somebody to the police）。
-及物动词，名词是 denunciation。
-① Three bishops denounced the policy from their own pulpits on the same Sunday.
-= 同一个周日，三位主教在各自的讲坛上谴责了那项政策。
-denounce something = 公开谴责某事
-② A neighbour denounced them to the authorities and moved away that winter.
-= 一个邻居向当局告发了他们，当年冬天就搬走了。
-denounce somebody to somebody = 向某方告发某人
-构词：拉丁语 denuntiare 宣告
-注意别混：
-denounce = 公开谴责、告发（重、正式）
-criticize = 批评（通用）
-decry = 贬斥（带道德口气，多说风气）
+derail
+核心：两支。一是（火车）出轨、使出轨；二是引申的「打乱、搅黄」——
+说计划、谈判、进程被中途破坏。及物不及物都行，名词 derailment。
+自行车上的变速拨链器叫 a derailleur，来自同一个法语词根。
+① The train derailed at low speed and nobody in the front carriage noticed.
+= 那趟车低速出轨，前面车厢里没人察觉。
+derail = 出轨
+② One leaked email derailed a negotiation that had taken two years.
+= 一封泄露的邮件搅黄了一场谈了两年的谈判。
+derail something = 打乱、搅黄某事
+③ The derailment closed the line for eleven days and the inquiry took three years.
+= 那次出轨让线路停了十一天，调查用了三年。
+a derailment = 一次出轨
+④ The derailleur was bent and the chain jumped on every hill.
+= 拨链器被撞弯了，一上坡链子就掉。
+a derailleur = 变速拨链器
+构词：法语 dérailler 脱轨，rail 是轨
+注意用法：比喻义如今比本义还常见，多说 derail a plan、derail talks。
 
-dense
-核心：三支。一是密集的（a dense crowd、dense forest）；
-二是物理上密度大的；三是口语里说人「脑子转不过弯」，带轻慢。
-副词 densely 多与 populated、wooded 连用；名词 density。
-① The forest is dense enough that the path disappears twenty metres in.
-= 那片林子密得很，进去二十米小路就没了。
-dense forest = 茂密的森林
-② The area is densely populated and has one doctor for every four thousand people.
-= 那个地区人口稠密，四千人才摊上一名医生。
-densely populated = 人口稠密的
-③ Bone density falls with age and falls faster if you never move.
-= 骨密度随年龄下降，不活动就降得更快。
-density = 密度
-④ Sorry, I am being dense — say the second part again.
-= 抱歉，我脑子没转过来 —— 后半段再说一遍。
-be dense = 脑子转不过弯（口语，带轻慢）
-构词：拉丁语 densus 稠密
-注意语域：说人笨那一支不客气，只在熟人之间或自嘲时用。
+deranged
+核心：精神错乱的：说人失去理智，也说做法「疯得离谱」。
+形容词，名词 derangement。
+今天说人时已显生硬，医学与法律文字用别的说法；日常多带夸张与玩笑。
+① The letters were written by somebody who was clearly deranged and deeply methodical.
+= 那些信出自一个显然精神失常、却又极有条理的人之手。
+be deranged = 精神错乱的
+② Anyone who reads that timetable will conclude it was drawn up in a state of derangement.
+= 谁读了那份时刻表都会觉得，它是在精神错乱的状态下排出来的。
+derangement = 精神错乱
+构词：法语 déranger 打乱次序
+注意语域：说真人时生硬且不礼貌；正式文字说 a person with a mental illness。
 
-dent
-核心：凹痕：硬物撞出来的一处凹陷。名词动词同形。
-比喻里最常用的是 make a dent in something —— 在一大堆事情或一大笔钱上
-「见到一点效果」，多用于否定或半开玩笑。
-① The car came back with a dent in the wing that nobody would own up to.
-= 车回来时翼子板上有个凹痕，谁也不承认是自己弄的。
-a dent = 凹痕
-② He dented the tin door with a ladder and painted over it the same afternoon.
-= 他用梯子把那扇铁皮门磕了个坑，当天下午就刷漆盖住了。
-dent something = 把某物磕出凹痕
-③ Two weekends of work barely made a dent in the paperwork.
-= 干了两个周末，那堆文件几乎没见少。
-make a dent in something = 在某事上见到一点效果
-④ The result dented their confidence more than their chances.
-= 那个结果打击的与其说是他们的机会，不如说是信心。
-dent somebody's confidence = 打击某人的信心
-构词：中古英语 dent，与 dint 同源
-注意用法：比喻义多用在否定句里：hardly make a dent in something。
+derby
+核心：三支。一是同城或近邻两队的比赛：a local derby，英式体育用语；
+二是英国的赛马大赛与由此得名的各类竞赛（a demolition derby 是撞车比赛）；
+三是美式的圆顶硬礼帽，英式叫 a bowler hat。可数，复数 derbies。
+① The local derby drew twice the usual crowd and finished goalless.
+= 那场同城德比来的人是平时的两倍，最后零比零。
+a local derby = 同城德比
+② He won a demolition derby in a car he had bought that morning.
+= 他开着当天早上刚买的车赢了一场撞车比赛。
+a demolition derby = 撞车比赛
+③ The photograph shows him in a derby and a coat two sizes too big.
+= 照片上他戴着圆顶硬礼帽，穿着大两号的外套。
+a derby = 圆顶硬礼帽（美式）
+构词：源自英国德比郡与那里的赛马大会
+注意用法：帽子那一支是美式；英式那顶帽子叫 a bowler。
 
-dental
-核心：牙齿的：说治疗、保健与费用（dental treatment、dental care）。
-形容词。医学里 dentine 是牙本质，牙釉质之下的那层；
-dentition 指一个人或一个物种的全套牙齿排列。
-① Dental treatment is free for children and argued about for everybody else.
-= 儿童看牙免费，其他人则一直在为此争论。
-dental treatment = 牙科治疗
-② Once the dentine is exposed, cold drinks become genuinely painful.
-= 牙本质一露出来，喝凉的就真会疼。
-dentine = 牙本质
-③ The dentition of that species tells you what it ate without any other evidence.
-= 那个物种的牙齿排列，不用别的证据就说明了它吃什么。
-dentition = 全套牙齿的排列
-④ The dental hygienist gave her a lecture about floss and the dental surgeon said nothing at all.
-= 洁牙师就牙线给她上了一课，牙外科医生却一句话没说。
-a dental hygienist = 洁牙师
-a dental surgeon = 牙外科医生
-英国的牙医正式头衔就是 dental surgeon，日常还是说 dentist。
-⑤ Dental floss and a dental dam cost less than one filling and last a great deal longer.
-= 牙线和牙科橡皮障加起来比补一颗牙还便宜，用得也久得多。
-dental floss = 牙线
-a dental dam = 牙科橡皮障
-橡皮障是治疗时隔开患牙的那张薄膜。
-构词：拉丁语 dens 牙
-注意用法：说看牙的费用与保险一律用 dental，不用 tooth。
+dereference
+核心：（编程）解引用：顺着指针或引用取出它指向的那个值。
+及物动词，计算机专业用语。
+① Dereferencing a null pointer is how most of those crashes begin.
+= 那些崩溃大多是从解引用空指针开始的。
+dereference something = 解引用某物
+② The compiler warns you before you dereference anything that might be empty.
+= 在你解引用可能为空的东西之前，编译器会先警告。
+dereference a pointer = 解引用一个指针
+构词：de- 加 reference 引用
+注意语域：编程术语，其他场合不用。
 
-dentist
-核心：牙医。可数；说去看牙医固定说 go to the dentist，
-不说 go to the dentist's clinic。这门行当叫 dentistry。
-① She goes to the dentist twice a year and has never needed a filling.
-= 她一年看两次牙医，从没补过牙。
-go to the dentist = 去看牙医
-② He gave up dentistry at forty and bought a boatyard.
-= 他四十岁不做牙医了，买下一家船厂。
-dentistry = 牙医这门行当
-③ You should see a dentist about that tooth before the flight, not after it.
-= 那颗牙该在坐飞机之前找牙医看，不是回来以后。
-see a dentist = 去看牙医
-跟 go to the dentist 通用；see 更强调「找专业的人看一看」，也说 see a doctor。
-构词：法语 dentiste，来自拉丁语 dens 牙
-注意用法：诊所说 the dentist's；说这门专业用 dentistry。
+deregulate
+核心：放松管制：把某个行业的规则拆掉，交给市场。及物动词，
+英式也拼 deregulate 不变，名词 deregulation，形容词 deregulatory。
+反义是 regulate。
+① Buses were deregulated in the eighties and half the rural routes disappeared.
+= 公交八十年代放开管制，一半的乡村线路就没了。
+be deregulated = 被放松管制
+② Deregulation brought fares down in the cities and up almost everywhere else.
+= 放松管制让城里票价降了，别处几乎全涨了。
+deregulation = 放松管制
+③ The deregulatory push lasted until the first serious accident.
+= 那股放松管制的势头一直持续到第一起重大事故。
+a deregulatory push = 放松管制的推动
+构词：de- 去掉 加 regulate 管制
+注意别混：deregulate 是拆掉规则，denationalize 是把国有产业卖给私人。
 
-denture
-核心：假牙：多用复数 dentures 指整副假牙，也说 a set of dentures。
-可数。日常口语里也说 false teeth。
-① He lost his dentures over the side of the boat and laughed about it for years.
-= 他把假牙掉进了船外的水里，这事他笑了好些年。
-dentures = 假牙（整副）
-② A new set of dentures takes a fortnight and two fittings.
-= 配一副新假牙要两周，还得试戴两回。
-a set of dentures = 一副假牙
-构词：法语 denture 牙列
-注意用法：几乎总用复数；口语说 false teeth。
+derelict
+核心：两支。一是（建筑、土地）废弃破败的：a derelict warehouse；
+二是名词，指流落街头、无家可归的人（偏旧、今天已不礼貌）。
+名词 dereliction 说建筑的荒废，也用在固定说法 dereliction of duty（失职）里。
+① They bought a derelict warehouse and spent nine years making it habitable.
+= 他们买下一座废弃的仓库，花了九年才让它能住人。
+a derelict warehouse = 废弃的仓库
+② The site has stood in dereliction since the last owner emigrated.
+= 自从上一任主人移民，那块地就一直荒着。
+dereliction = 荒废
+③ Leaving the gate unlocked was treated as a dereliction of duty.
+= 没锁大门被当成失职处理。
+dereliction of duty = 失职
+构词：拉丁语 derelinquere 抛弃
+注意语域：指人的那一支已过时且不礼貌，今天说 a homeless person。
 
-denude
-核心：剥光：把覆盖物去掉，让下面露出来 —— 说山坡被砍光树、
-地表被冲走表土，也比喻着说某地或某机构人才流失。
-及物动词，多用被动 be denuded of something。正式。
-① The slopes were denuded of trees within twenty years of the mine opening.
-= 矿一开，那些山坡二十年之内就被砍得精光。
-be denuded of something = 被剥得只剩光秃秃
-② Two rounds of cuts denuded the department of everyone who knew the system.
-= 两轮裁减把那个部门里懂这套系统的人全掏空了。
-denude something of somebody = 把某处的人抽空
-构词：拉丁语 denudare 剥光
-注意语域：正式，多见于地理、生态与机构叙述。
+deride
+核心：嘲笑、讥讽：公开地把某人某事说得一文不值。及物动词，正式。
+常用被动 be derided as something。
+名词 derision 是嘲笑；形容词 derisive 说人的口气带嘲讽，
+derisory 说数目「少得可笑」—— 这两个形容词最容易混。
+① Critics derided the design as a car park with windows.
+= 评论家嘲笑那个设计是「带窗户的停车场」。
+deride something as something = 把某物讥为……
+② The offer was met with derision from every union in the room.
+= 那个报价招来在场每一个工会的嘲笑。
+be met with derision = 招来一片嘲笑
+③ He gave a derisive laugh and asked whether they were serious.
+= 他嘲讽地一笑，问他们是不是认真的。
+a derisive laugh = 嘲讽的笑
+④ They were offered a derisory sum and told to take it or leave it.
+= 他们被开了个少得可笑的价钱，还被告知爱要不要。
+a derisory sum = 少得可笑的一笔钱
+⑤ He spoke derisively about the whole scheme and then applied for a job on it.
+= 他把那个项目奚落了一通，转头就去应聘了它的岗位。
+speak derisively about something = 奚落地谈起某事
+副词，说口气里带着轻蔑；跟 derisory「少得可笑」不是一回事。
+构词：拉丁语 deridere 嘲笑
+注意别混：derisive 是「带嘲讽的」（说态度），derisory 是「少得可笑的」（说数目）。
 
-denunciation
-核心：公开谴责、告发：denounce 的名词。可数不可数都行，
-常说 a denunciation of something。正式用词，多见于历史与新闻。
-① Her denunciation of the scheme ran to four pages and named eleven people.
-= 她对那套做法的谴责写了四页，点了十一个人的名。
-a denunciation of something = 对某事的公开谴责
-② Denunciation by neighbours was how most of those arrests began.
-= 那些逮捕大多是邻居告发开的头。
-denunciation = 告发
-构词：拉丁语 denuntiatio 宣告
-注意别混：denunciation 是公开谴责或告发，criticism 是一般的批评。
+derivation
+核心：来源、由来：说一个词、一套做法或一个体系是从哪儿来的。
+可数不可数都行。动词 derive 有两支：derive something from something 是
+「从某处得到」，derive from something 是「源自某处」。
+形容词与名词 derivative：作形容词是贬义的「照搬别人的、缺乏原创」，
+作名词是金融衍生品，也指派生词。
+① The derivation of the place name is disputed and probably always will be.
+= 那个地名的由来有争议，八成永远争不出结果。
+the derivation of something = 某物的由来
+② She derives most of her income from work she does not put her name to.
+= 她大部分收入来自不署自己名字的活儿。
+derive something from something = 从某处得到某物
+③ Half the street names in that town derive from a dialect that died out two centuries ago.
+= 那座镇子里一半的街名，都源自一种两百年前就消亡的方言。
+derive from something = 源自某处
+④ The reviews called the album derivative and it sold better than the first one.
+= 评论说那张专辑是照搬别人的，销量却比第一张还好。
+derivative = 照搬别人的、缺乏原创的
+⑤ The bank lost more on derivatives than it had made in the previous decade.
+= 那家银行在衍生品上亏掉的，比它此前十年赚的还多。
+a derivative = 金融衍生品
+构词：拉丁语 derivare 引水而出
+注意用法：说「源自」不加宾语，说「取得」要接 from something。
 
-deny
-核心：三支。一是否认（deny that…、deny doing something）；
-二是拒绝给予（deny somebody access）；三是 deny yourself something，
-克制着不给自己某样东西。变形 denies、denied。
-习语 there is no denying 是「无可否认」。名词 denial。
-① He denied taking the money and produced a receipt for something else entirely.
-= 他否认拿了那笔钱，还拿出一张完全不相干的收据。
-deny doing something = 否认做过某事
-② They were denied access to the file for reasons never put in writing.
-= 他们被拒绝查阅那份档案，理由从没落在纸上。
-deny somebody something = 拒绝给某人某物
-③ She denied herself a holiday for three years to get the deposit together.
-= 为了凑首付，她三年没让自己休过假。
-deny yourself something = 克制着不给自己某样东西
-④ There is no denying that the second design was the cheaper of the two.
-= 无可否认，第二个方案是两者中便宜的那个。
-there is no denying that… = 无可否认……
-构词：拉丁语 denegare 否认
-注意用法：后面接动名词或 that 从句，不接不定式。
+dermatitis
+核心：皮炎：皮肤发红、发痒、起疹的一类炎症总称，
+接触化学品、洗涤剂常引起（contact dermatitis 接触性皮炎）。不可数。
+① Contact dermatitis is the commonest work-related skin problem in that trade.
+= 接触性皮炎是那一行里最常见的工作相关皮肤病。
+contact dermatitis = 接触性皮炎
+② She developed dermatitis on both hands within a month of starting the job.
+= 上班不到一个月，她两只手都起了皮炎。
+develop dermatitis = 患上皮炎
+构词：希腊语 derma 皮肤 加 -itis 炎症
+注意用法：不可数，说患上用 develop 或 get。
 
-deodorant
-核心：除味剂：多指腋下用的止汗除味产品，也说房间用的除味剂。
-可数不可数都行。动词 deodorize 是「给……除味」。
-① He buys the same deodorant every time and complains when they change the packaging.
-= 他每次都买同一款除味剂，人家一改包装他就抱怨。
-a deodorant = 除味剂
-② They deodorized the whole flat before the viewing and it smelled of chemicals.
-= 看房之前他们把整套房子除了味，结果一屋子化学品味道。
-deodorize something = 给某处除味
-构词：de- 去掉 加拉丁语 odor 气味
-注意别混：deodorant 遮盖与抑制气味，antiperspirant 专门止汗。
+dermatology
+核心：皮肤科：研究与治疗皮肤病的医学分支。不可数。
+医生是 a dermatologist，形容词 dermatological。
+皮肤的中层叫 the dermis，在表皮 epidermis 之下。
+① Dermatology has the longest waiting list of any department in that hospital.
+= 那家医院里皮肤科的候诊名单最长。
+dermatology = 皮肤科
+② The dermatologist looked at it for four seconds and knew exactly what it was.
+= 皮肤科医生看了四秒钟，就完全清楚那是什么。
+a dermatologist = 皮肤科医生
+③ Dermatological problems account for a fifth of all appointments in general practice.
+= 皮肤方面的问题占全科门诊预约的五分之一。
+dermatological problems = 皮肤方面的问题
+④ The dermis holds the blood vessels and the nerve endings that make a burn hurt.
+= 真皮层里有血管与神经末梢，烧伤之所以疼就是因为它们。
+the dermis = 真皮层
+构词：希腊语 derma 皮肤
+注意用法：皮肤科门诊说 the dermatology clinic。
 
-deontic
-核心：（哲学与逻辑）道义的：讲「应当、允许、禁止」这一类概念的。
-形容词，最常见的搭配是 deontic logic 道义逻辑。
-① Deontic logic tries to make rules about obligation as exact as arithmetic.
-= 道义逻辑想把关于义务的规则弄得像算术一样精确。
-deontic logic = 道义逻辑
-② The distinction is deontic rather than factual: it says what ought to happen.
-= 那个区分属于道义层面而非事实层面 —— 它说的是应当如何。
-be deontic = 属于道义层面的
-构词：希腊语 deon 应尽之事
-注意语域：哲学、逻辑与语言学里用，日常不用。
+derogate
+核心：（正式）贬损；也指法律上「克减、部分不适用」——
+derogate from a right 是削减一项权利。不及物为主，后面接 from。
+名词 derogation 在国际法与人权公约里是「克减条款」；
+形容词 derogatory 说话语「贬损人的」，这是日常最常用的一支。
+① Nothing in the report derogates from the finding that the building was unsafe.
+= 报告里没有任何内容削弱「那栋楼不安全」这一结论。
+derogate from something = 削减、贬损某物
+② The government sought a derogation from two articles of the convention.
+= 政府就公约的两个条款申请了克减。
+a derogation = 克减（法律用语）
+③ The word is derogatory whatever tone you say it in.
+= 那个词不管用什么语气说出来都是贬损人的。
+be derogatory = 带贬损意味的
+构词：拉丁语 derogare 删减法条
+注意用法：日常几乎只用 derogatory；动词与克减义属法律文字。
 
-depart
-核心：两支。一是（正式）出发、离开：说交通工具与人（the train departs at six）；
-二是 depart from something，偏离常规、惯例或稿子。
-形容词 departed 是「已故的」（the dear departed）；名词 departure。
-① The train departs from platform four and waits for nobody.
-= 那趟车从四号站台发车，谁也不等。
-depart from somewhere = 从某处出发
-② She departed from the script twice and both times it was the best part.
-= 她两次脱稿，两次都是最精彩的部分。
-depart from something = 偏离某个既定的东西
-③ The departure of the two senior partners was announced on the same morning.
-= 两位资深合伙人的离职是在同一个上午宣布的。
-a departure = 离开、离职
-④ The service was for the dear departed and the singing could be heard outside.
-= 那场礼拜是为已故者办的，歌声在外面都听得见。
-the departed = 已故的人（正式）
-构词：古法语 departir 分开
-注意用法：口语说走人一般用 leave；depart 偏正式与交通用语。
+derrick
+核心：两支。一是钻井架：油井上那座高塔形的钢架；
+二是船上或码头上的吊杆式起重装置。可数。
+名字来自十七世纪伦敦一位刽子手的姓，最早指绞架。
+① The derrick was visible from the coast road for the whole of that summer.
+= 那个夏天，从海边公路一路都看得见那座钻井架。
+a derrick = 钻井架
+② Two men worked the derrick and swung the crates onto the quay.
+= 两个人操作吊杆，把板条箱吊到码头上。
+a derrick = 吊杆式起重装置
+构词：源自十七世纪伦敦刽子手 Derrick 的姓
+注意用法：石油业里几乎专指井架。
 
-department
-核心：三支。一是机构里的部门（the sales department）；
-二是政府的部（the Department of Health）；三是口语的「归谁管的那一摊」——
-that's not my department 是「那不归我管」。
-形容词 departmental 说部门层面的。
-① The sales department has three people and the reception has four.
-= 销售部三个人，前台四个人。
-a department = 部门
-② The Department of Health published the figures a week after the vote.
-= 卫生部在投票一周之后才公布那些数字。
-a Department = （政府的）部
-③ Cooking is his department and everything else is mine.
-= 做饭归他管，别的都归我。
-somebody's department = 归某人管的那一摊（口语）
-④ The departmental budget was cut twice and the workload rose both times.
-= 部门预算被砍了两次，两次工作量都上涨。
-the departmental budget = 部门预算
-⑤ The department store closed the toy floor first and the whole building two years later.
-= 那家百货公司先关了玩具楼层，两年后整栋楼也关了。
-a department store = 百货公司
-按部门分区经营的大型商店，跟专卖店相对。
-构词：法语 département 划分出来的部分
-注意用法：政府部门的名称首字母大写。
+derringer
+核心：袖珍手枪：枪管短、能藏在口袋或袖子里的小型手枪，
+十九世纪美国最有名。可数，来自制造者的姓。
+① The museum label says the derringer was found under a floorboard in 1911.
+= 博物馆的说明牌上写着，那把袖珍手枪是一九一一年在地板下发现的。
+a derringer = 袖珍手枪
+② A derringer holds one or two rounds and is useless past a few paces.
+= 袖珍手枪只装一两发子弹，隔几步远就没什么用。
+carry a derringer = 带一把袖珍手枪
+构词：制造者 Henry Deringer 的姓，进英语后多写两个 r
+注意语域：历史与西部题材里常见。
 
-depend
-核心：三支。一是取决于（it depends on the weather）；
-二是依靠、指望（depend on somebody for something）；
-三是相信某人靠得住（you can depend on her）。不及物，后面一定跟 on 或 upon。
-派生一族容易混：dependable 靠得住的，dependence 依赖，
-a dependant 是靠你养活的人（美式拼 dependent），
-dependent 作形容词是「依赖的」，a dependency 是属地，也指成瘾。
-① Whether we go at all depends on what the forecast says on Friday.
-= 去不去全看周五的天气预报怎么说。
-depend on something = 取决于某事
-② She depends on her sister for everything from lifts to legal advice.
-= 从搭车到法律咨询，她样样指望她姐姐。
-depend on somebody for something = 在某事上依靠某人
-③ It depends — some weeks there is nothing at all to do.
-= 这得看情况 —— 有些周根本没事可做。
-it depends = 得看情况
-④ Depending on the traffic, the whole trip takes between two and four hours.
-= 看路上的车况，全程要两到四个钟头。
-depending on something = 视某事而定
-⑤ He is the most dependable person on the whole crew.
-= 他是全组最靠得住的人。
-dependable = 靠得住的
-⑥ Two children and an elderly mother are listed as dependants on the form.
-= 表格上填着两个孩子和一位老母亲作为受供养人。
-a dependant = 靠人供养的家属
-⑦ The village is dependent on one bus a day and one shop.
-= 那个村子全靠一天一班的公交和一家小店过日子。
-be dependent on something = 依赖某物
-⑧ Dependence on a single customer nearly finished the business twice.
-= 依赖单一客户，两次差点把这门生意断送。
-dependence on something = 对某物的依赖
-⑨ The islands remain a dependency and send no members to parliament.
-= 那几个岛仍是属地，不向议会派议员。
-a dependency = 属地；也指成瘾状态
-⑩ Everything depends upon a survey nobody has read and on the dependability of one supplier.
-= 一切都取决于一份没人读过的勘查报告，以及一家供应商靠不靠得住。
-depend upon something = 取决于某事（比 depend on 正式）
-dependability = 可靠性
-upon 与 on 通用，upon 多见于书面。
-构词：拉丁语 dependere 悬挂在……之下
-注意别混：a dependant 是人（英式拼法），dependent 是形容词；美式两者都写 dependent。
+dervish
+核心：苏非派的托钵修士：以旋转舞蹈作为修行方式的那一支最有名。
+可数。英语里最常用的其实是比喻说法 like a whirling dervish，
+形容人转个不停、忙得团团转。
+① The ceremony lasted an hour and the dervishes never once broke step.
+= 那场仪式持续了一个钟头，修士们一次也没乱过步子。
+a dervish = 苏非派托钵修士
+② She went round the kitchen like a whirling dervish and finished in twenty minutes.
+= 她在厨房里团团转，二十分钟就干完了。
+like a whirling dervish = 像陀螺一样转个不停
+构词：波斯语 darvīsh 贫者
+注意用法：比喻那一支在日常英语里比本义常见。
 
-depersonalize
-核心：使非个人化：把人的个性与身份从一件事里抽掉 ——
-说制度、服务、医疗流程。及物动词，英式也拼 depersonalise。
-名词 depersonalization 在心理学里另有一支：人格解体，
-指人觉得自己像在旁观自己。
-① Online forms depersonalize the whole process and nobody ever gets a name.
-= 网上表格把整个流程弄得没有人味，谁也见不到一个名字。
-depersonalize something = 使某事非个人化
-② Depersonalization is a recognized symptom and frightens people who have never heard of it.
-= 人格解体是一种公认的症状，没听说过它的人会被吓到。
-depersonalization = 人格解体（心理学）
-构词：de- 去掉 加 personalize 使个人化
-注意用法：日常义与心理学义共用一个名词，靠上下文分。
+des res
+核心：（英式口语，戏谑）好房子：房产广告里 desirable residence 的截短，
+拿来调侃中介的用词。可数，两个词分写。
+① The advertisement called a two-room flat above a chip shop a des res.
+= 广告把炸鱼薯条店楼上的两居室称作「理想居所」。
+a des res = 理想居所（戏谑）
+② Anything with a garden gets called a des res round here.
+= 在这一带，只要带个院子就会被说成好房子。
+be called a des res = 被称作理想居所
+构词：desirable residence 的截短
+注意语域：英式口语与调侃，正式文字不用。
 
-depict
-核心：描绘、刻画：用画、文字或影像把某人某事表现出来。
-及物动词，正式，常说 depict somebody as something。名词 depiction。
-① The mural depicts the harbour as it looked before the second dock was built.
-= 那幅壁画描绘的是第二座船坞建成之前的港口模样。
-depict something = 描绘某物
-② The film depicts him as a reluctant hero and the family objected in print.
-= 那部电影把他刻画成一个不情愿的英雄，家人在报上提出了异议。
-depict somebody as something = 把某人刻画成某种样子
-③ The depiction of the strike in that documentary took ten years to challenge.
-= 那部纪录片对那场罢工的呈现，过了十年才有人提出质疑。
-the depiction of something = 对某事的呈现
-构词：拉丁语 depingere 画出
-注意别混：depict 多说画面与作品，describe 说用言语讲述。
+desalinate
+核心：海水淡化：把海水里的盐除掉，变成能用的淡水。及物动词，
+名词 desalination，淡化厂叫 a desalination plant。
+① The island desalinates most of its drinking water and pays for it in electricity.
+= 那座岛的饮用水大半靠海水淡化，代价是电费。
+desalinate something = 给某物脱盐
+② A desalination plant takes four years to build and one drought to justify.
+= 一座海水淡化厂要建四年，而一场旱灾就足以让它显得值。
+a desalination plant = 海水淡化厂
+构词：de- 去掉 加 saline 含盐的
+注意用法：也拼作 desalinize，但 desalinate 更常见。
 
-depilatory
-核心：脱毛的：说化学脱毛产品（a depilatory cream）。
-形容词，也作名词指那种产品。可数。
-医疗与美容器械里 a depilator 指脱毛器。
-① The depilatory cream smelled so strong she opened both windows.
-= 那款脱毛膏味道大得她把两扇窗都打开了。
-depilatory cream = 脱毛膏
-② A depilator hurts less than waxing and takes about four times as long.
-= 用脱毛器比蜜蜡疼得轻，费的时间大约是四倍。
-a depilator = 脱毛器
-构词：拉丁语 depilare 拔毛
-注意语域：说明书与美容业用语；日常说 hair removal cream。
+descale
+核心：除水垢：把水壶、锅炉、管道里的钙垢清掉。及物动词，英式常用。
+① Descale the kettle every couple of months or the element gives up.
+= 每两个月给水壶除一次垢，不然加热管就废了。
+descale something = 给某物除垢
+② The boiler was descaled twice a year and still lasted only nine.
+= 那台锅炉一年除两次垢，也才用了九年。
+be descaled = 被除垢
+构词：de- 去掉 加 scale 水垢
+注意别混：scale 在这里是水垢，不是鳞片，也不是刻度。
 
-deplane
-核心：（美式）下飞机：航空公司广播里的用词，日常英语说 get off the plane。
-不及物动词。
-① Passengers were asked to deplane by the rear door because of the wind.
-= 因为有风，乘客被要求从后门下机。
-deplane = 下飞机（美式）
-② They deplaned onto the tarmac and walked two hundred metres in the rain.
-= 他们下到停机坪，冒雨走了两百米。
-deplane onto something = 下机走到某处
-构词：de- 加 plane，仿 detrain 造出来的词
-注意语域：美式航空用语，英式几乎不说；日常一律 get off the plane。
+descant
+核心：（音乐）高音助唱声部：在主旋律之上另加一条更高的旋律，
+唱诗班在最后一段常这么处理。可数。
+也作动词，引申着说「就某事喋喋不休地发议论」（descant on something），偏旧。
+① The choir sang a descant on the last verse and the congregation stopped singing to listen.
+= 唱诗班在最后一段加了高音助唱，会众都停下来听。
+a descant = 高音助唱声部
+② He descanted on the subject of parking for the whole of the meeting.
+= 整场会上他都在就停车问题喋喋不休。
+descant on something = 就某事长篇大论
+③ A descant recorder is the one every school buys and nobody practises.
+= 高音竖笛是每所学校都买、却没人练的那一种。
+a descant recorder = 高音竖笛
+竖笛家族里音最高的那把，也是学校音乐课的标配。
+构词：中世纪拉丁语 discantus 另一条唱腔
+注意用法：音乐义常见；发议论那一支偏旧、带讥诮。
 
-deplete
-核心：耗尽、大量消耗：说库存、资源、体力、人手被用掉一大部分。
-及物动词，多用被动 be depleted。名词 depletion。
-① Two dry summers depleted the reservoir faster than anyone had modelled.
-= 两个干旱的夏天把水库耗得比谁的模型算的都快。
-deplete something = 大量消耗某物
-② Stocks were badly depleted and the shelves stayed half empty until March.
-= 存货消耗殆尽，货架到三月都还是半空的。
-be depleted = 被耗掉大半
-③ Depletion of the fish stocks was obvious to the boats years before it was to the ministry.
-= 渔业资源的枯竭，渔船比部里早好几年就看出来了。
-depletion = 枯竭、耗减
-构词：拉丁语 deplere 倒空
-注意别混：deplete 是大量消耗，exhaust 是彻底用光。
+descend
+核心：三支。一是（正式）下降、走下去（descend the stairs）；
+二是 be descended from somebody 是「是某人的后代」，
+后代叫 a descendant，名词 descent 兼指「下降」与「血统」；
+三是 descend on somewhere 指一群人突然涌到某处。
+① They descended the last stretch in the dark and reached the hut at midnight.
+= 最后一段路他们是摸黑下来的，午夜才到小屋。
+descend something = 走下、下降
+② She is descended from a family of clockmakers on her mother's side.
+= 她母亲那边的祖上是做钟表的。
+be descended from somebody = 是某人的后代
+③ Two hundred relatives descended on the village for the weekend.
+= 两百个亲戚周末涌进了那个村子。
+descend on somewhere = 一拥而至某处
+④ The plane began its descent forty minutes early and nobody explained why.
+= 飞机提前四十分钟开始下降，没人解释原因。
+a descent = 下降
+⑤ Her descendants still farm the same two fields.
+= 她的后代至今还种着那两块地。
+a descendant = 后代
+⑥ He is of Irish descent and has never been further west than Bristol.
+= 他有爱尔兰血统，却从没往西走过布里斯托。
+be of Irish descent = 有爱尔兰血统
+⑦ The debate descended into shouting, descended to name-calling, and finally descended upon the caretaker.
+= 辩论沦为叫嚷，降格成互相辱骂，最后把火烧到了看门人身上。
+descend into something = 沦为某种糟糕局面
+descend to something = 降格去做某事
+descend upon somebody = 突然涌向某人
+三个介词三个意思：into 说局面变坏，to 说自甘堕落，upon 说一拥而上。
+构词：拉丁语 descendere 走下去
+注意别混：descent 是下降与血统，dissent 是异议 —— 读音接近，别写错。

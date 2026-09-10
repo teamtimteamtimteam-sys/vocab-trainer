@@ -1,524 +1,704 @@
-dally
-核心：两支，都从「不当真」来。一是磨蹭：该走不走、该动手不动手地
-拖着。二是 dally with：拿某个念头或某个人逗着玩，不打算认真。
-偏旧且带书卷气，今天日常多说 dawdle 与 toy with。
-① Don't dally over the forms; the office shuts at four.
-= 别在表格上磨蹭，办公室四点就关门。
-dally over = 在……上磨蹭
-后面接的是正在拖着不做完的那件事。
-② He dallied with the idea of selling up and moving north.
-= 他曾拿卖掉家当搬去北方这个念头逗着玩。
-dally with an idea = 拿某个念头逗着玩
-③ She dallied with him for a summer and married someone else.
-= 她跟他玩了一个夏天，转头嫁了别人。
-dally with somebody = 跟某人逢场作戏
-④ They dilly-dallied over the paperwork until the offer expired on its own.
-= 他们在手续上磨磨蹭蹭，那个报价自己就到期了。
-dilly-dally = 磨磨蹭蹭（口语）
-叠词式口语，语气比 dawdle 还轻，多带责备。
-构词：古法语 dalier 闲聊
-注意别混：dawdle 只说慢，这个还带一层「不认真」。
+dashboard
+核心：汽车仪表板 —— 方向盘前面那块带仪表的板子，英式口语缩成 the dash。
+名字来自马车时代挡马蹄泥的那块板。近二十年多出一支软件义：
+数据看板，把关键指标汇到一屏上看。两支都可数。
+① The warning light on the dashboard had been on for a week before he took the car in.
+= 仪表板上那个警示灯亮了整整一周，他才把车送去检修。
+a dashboard = （汽车的）仪表板
+英式口语里常缩成 the dash，正式文字里不缩。
+② The sales team checks the dashboard every Monday to see which regions have slipped.
+= 销售团队每周一都看那块数据看板，看哪些区域掉了下去。
+a sales dashboard = 销售数据看板
+软件义如今极常用，说 a dashboard of key metrics。
+构词：dash 猛撞 加 board，本指马车前挡泥的板子
+注意用法：写成一个词；两支意思靠上下文分，从不混淆。
 
-Dalmatian
-核心：两支，来路同一个地名。一是斑点狗：白底缀黑斑或褐斑的大型犬，
-从前跟着消防队的马车跑，因此在美国成了消防象征。二是形容词：亚得里亚
-海东岸达尔马提亚一带的。可数。
-① A Dalmatian is born white and takes weeks to grow its spots.
-= 斑点狗生下来通身是白的，要几周才长出斑点。
-a Dalmatian = 斑点狗
-② The Dalmatian coast is a string of islands and walled towns.
-= 达尔马提亚海岸是一串岛屿和带城墙的小镇。
-the Dalmatian coast = 达尔马提亚海岸
-说那片海岸时永远带定冠词。
-构词：克罗地亚沿海的地名 Dalmatia 加 -n
-注意用法：狗与海岸共用这一个词，靠上下文分。
+dashcam
+核心：行车记录仪：装在挡风玻璃或仪表台上、一路录像的小摄像头。
+构词是 dashboard 与 camera 各取前半截，也写作分开的 dash cam。
+可数，复数 dashcams。最常出现在保险理赔和交通事故的语境里。
+① The insurer dropped the claim as soon as it saw the dashcam footage from the other car.
+= 保险公司一看到对方车上行车记录仪拍到的画面，就把索赔驳回了。
+dashcam footage = 行车记录仪拍下的画面
+最常见的搭配，footage 指录下来的那段影像。
+② He fitted a dashcam after somebody reversed into him in a car park and drove off.
+= 有人在停车场倒车撞了他又开走了，之后他装了个行车记录仪。
+fit a dashcam = 装行车记录仪
+英式说 fit，美式多说 install。
+构词：dashboard 加 camera，各取前半截
+注意用法：分写成 dash cam 也通行，意思完全一样。
 
-dam
-核心：两个同形词。一是拦河坝，以及坝拦出来的那片水；动词是筑坝拦住，
-比喻里也说把情绪堵回去。二是完全不同源的一个词：四足家畜的母亲，
-跟公的 sire 成对，只在育种与血统文书里读得到。可数。
-① The dam holds back enough water to light the whole valley.
-= 那座坝拦下的水，够整条山谷的照明。
-a dam = 拦河坝
-② They dammed the stream with turf and stones and flooded the meadow.
-= 他们用草皮和石块把溪水拦住，把草场淹了。
-dam = 筑坝拦住
-③ She dammed up forty years of it and said nothing at the funeral.
-= 四十年的话她全堵了回去，葬礼上一句没说。
-dam up = 把（情绪）堵回去
-比喻用法，宾语是感情不是水。
-④ The pedigree lists the sire on the left and the dam on the right.
-= 血统证书上左边写父本，右边写母本。
-a dam = 母畜（跟 sire 成对）
-构词：中古荷兰语 dam 堤
-注意别混：两个 dam 同形不同源，一个是堤坝，一个是母畜。
+dashed
+核心：两支。一是「虚线的」：a dashed line，跟 solid line 实线、
+dotted line 点线三分，图表和说明书里分工很死。
+二是英式旧口语里的委婉强调词，相当于 damned，多见于老派人物口中。
+① The dashed line on the chart shows the forecast and the solid one shows actual sales.
+= 图上的虚线是预测，实线是实际销量。
+a dashed line = 虚线
+跟 solid line 实线、dotted line 点线各有分工，别混用。
+② Cut along the dashed line and post the lower half back to us before the end of the month.
+= 沿虚线剪开，月底前把下半截寄回给我们。
+cut along the dashed line = 沿虚线剪开
+表格、票据、优惠券上的固定说法。
+③ It is a dashed nuisance having to go all the way back into town for one signature.
+= 为了一个签名还得专程再进城一趟，真是麻烦透顶。
+a dashed nuisance = 讨厌透顶的事（英式旧口语）
+是 damned 的委婉替身，今天只在老派口吻里听得到。
+构词：dash 加 -ed
+注意语域：强调义偏旧、限英式；虚线义是通用的。
 
-damage
-核心：损害：东西被弄坏、名誉被弄脏、身体被弄伤都用它。名词不可数，
-可复数的 damages 是另一回事 —— 法庭判的赔偿金，只用复数。动词是弄坏。
-口语里 what's the damage 是玩笑地问价钱。
-① The storm did more damage to the roof than to anything else.
-= 那场风暴对屋顶的损坏比对别处都重。
-do damage to = 对……造成损害
-也说 cause damage，语气更正式一点。
-② Water damage is not covered by that policy unless the pipe burst outside.
-= 除非是屋外的管子爆了，那份保单不保水浸损失。
-water damage = 水浸损失
-③ The court awarded damages of eleven thousand pounds against the landlord.
-= 法院判房东赔偿一万一千镑。
-damages = 赔偿金（只用复数）
-用单数就成了「损害」，两回事。
-④ Smoking damages the small blood vessels long before it shows anywhere else.
-= 抽烟早在别处显出来之前，就已经伤了细小的血管。
-damage = 损害、弄坏
-⑤ The leak damaged the firm far more than losing the contract did.
-= 那次泄密对公司的伤害，远大于丢掉那份合同。
-⑥ The statement was pure damage limitation and fooled nobody.
-= 那份声明纯粹是把损失往小里控，谁也没糊弄住。
-damage limitation = 把损失控制到最小
-⑦ Right, then — what's the damage for the two of us?
-= 那么好吧，我们两个一共多少钱？
-what's the damage = 多少钱（玩笑说法）
-构词：古法语 damage 损失
-注意用法：单数是损害，复数 damages 是赔偿金，别混。
+dashiki
+核心：达西基衫：宽松的套头上衣，领口与袖口有一圈绣花，源自西非，
+六十年代经美国黑人文化传开。可数，复数 dashikis，也常作定语
+（a dashiki shirt、dashiki print）。
+① He wore a dashiki to the ceremony and half the guests asked where he had got it.
+= 他穿了件达西基衫去典礼，一半的客人都问他是在哪儿弄到的。
+a dashiki = 达西基衫（西非式绣花套头衫）
+② The gift shop now puts dashiki prints on everything from cushions to phone cases.
+= 那家礼品店如今把达西基式的印花印到了从靠垫到手机壳的一切东西上。
+dashiki print = 达西基式印花
+作定语时不加所有格，直接放在名词前。
+构词：西非约鲁巴语一带的借词，经美式英语进入通用词汇
+注意用法：复数规则加 -s；作定语时形式不变。
 
-damaging
-核心：造成损害的：多说对名誉、健康、关系不利，介词用 to。比 harmful
-更常配抽象的东西，也更常出现在报道与评论里。跟 damaged 分开 —— 那个
-说的是已经坏了的东西。
-① The most damaging line in the report is on the last page.
-= 那份报告里最要命的一句在最后一页。
-damaging = 有损的、要命的
-② Late nights are more damaging to a teenager than to an adult.
-= 熬夜对青少年的伤害比对成年人大。
-damaging to = 对……有害
-构词：damage 加 -ing
-注意别混：damaging 是「造成损害的」，damaged 是「已经受损的」。
+dashing
+核心：夸人神采飞扬、潇洒帅气，多半说男人 —— 既说长相打扮，也说举止里
+那股干脆利落的劲儿。由 dash 猛冲那一支来。也说东西「扎眼、有派头」。
+偏旧、偏文学，今天用多半带一点玩笑口气。
+① He looked dashing in his grandfather's dinner jacket, which fitted him almost exactly.
+= 他穿着祖父那件礼服上衣，几乎正合身，显得很是潇洒。
+look dashing = 显得潇洒帅气
+② She married a dashing young officer she had known for barely six weeks.
+= 她嫁给了一个认识还不到六周的英俊军官。
+a dashing young officer = 潇洒的年轻军官
+最典型的搭配，带着旧小说的味道。
+③ He turned up at the interview in a dashing red coat and got remembered for it.
+= 他穿了件扎眼的红大衣去面试，人家就为这个记住了他。
+a dashing red coat = 扎眼的红大衣
+说东西时讲的是有派头、抢眼。
+构词：dash 猛冲 加 -ing，本义是「有冲劲的」
+注意语域：偏旧、偏文学，今天多带戏谑口气。
 
-damask
-核心：一种提花织物：正反两面的纹样明暗相反，转个角度看花色就翻过来，
-多做桌布与窗帘。也指那种花纹，以及 damask rose 那一支古老的玫瑰。
-名字来自叙利亚的大马士革。不可数。
-① The table was laid with damask that had not been used since the wedding.
-= 桌上铺的锦缎自婚礼之后就没再用过。
-damask = 提花锦缎
-② A damask rose gives more scent than colour.
-= 大马士革玫瑰香气胜过颜色。
-a damask rose = 大马士革玫瑰
-那一支玫瑰是做香精的主要原料。
-构词：叙利亚的大马士革城名 Damascus
-注意用法：靠正反两面明暗相反的纹样认。
+dastardly
+核心：卑鄙可耻的 —— 阴损里还带着怯懦：干坏事却不敢正面来。
+形容词，前面常加 utterly、truly。偏旧，今天几乎只见于新闻标题和
+半开玩笑的口吻，正经指控多改说 despicable 或 cowardly。
+① The papers called it a dastardly attack on people who could not defend themselves.
+= 报纸称之为一场对无力自卫者发动的卑劣袭击。
+a dastardly attack = 卑劣的袭击
+新闻标题里最常见的搭配。
+② He accused his brother of a dastardly plot to sell the family house behind his back.
+= 他指责他哥哥搞了个卑鄙的阴谋，要背着他把家里的房子卖掉。
+a dastardly plot = 卑鄙的阴谋
+今天这么说，十有八九带着夸张的玩笑口气。
+构词：中古英语 dastard 懦夫，加 -ly
+注意语域：偏旧；正经场合多说 despicable、cowardly。
 
-dame
-核心：三支。一是大写的 Dame：英国授予女性的荣誉称号，跟男性的 Sir
-对等，放在名字前面。二是英式圣诞哑剧里那个滑稽老妇角色，照例由男演员
-反串。三是美式旧俚语的「女人」，今天听着又轻慢又过时。可数。
-① Dame Judith took the stage without notes and spoke for an hour.
-= 朱迪思女爵不带讲稿上台，一讲就是一小时。
-a Dame = 女爵士（英国荣誉称号）
-跟 Sir 一样只放在名字前面，不单用。
-② The pantomime dame came on in a wig two feet high.
-= 哑剧里那个滑稽老妇顶着两英尺高的假发上了场。
-a pantomime dame = 哑剧里反串的滑稽老妇
-③ In those old films every dame has a cigarette and a secret.
-= 那些老片子里的女人个个叼着烟、藏着秘密。
-a dame = 女人（美式旧俚语，轻慢）
-构词：拉丁语 domina 女主人
-注意语域：第三支过时且不礼貌，读到认得就行。
-
-damn
-核心：几支都从「判罪」那个本义长出来。一是宗教上定罪、罚下地狱。
-二是严辞把一样东西否掉。三是当骂人的话与加强语气的词用，语气比多数
-脏话轻，正式场合仍要避开。习语里 not give a damn 是毫不在乎，
-damn all 是英式的「什么都没有」，damn with faint praise 是拿敷衍的
-夸奖行贬低之实。
-① The sermon damned everyone in the parish except the man who paid for it.
-= 那篇布道把全堂区的人都定了罪，只放过出钱的那位。
-damn = 定罪、宣告下地狱
-② The review damned the whole production in four lines.
-= 那篇评论四行就把整台戏否掉了。
-damn = 严辞否定
-③ Damn it, the ladder is still in the back of the van.
-= 该死，梯子还在货车后头。
-damn it = 该死（懊恼时的口头语）
-④ It is a damn good piece of work and he knows it.
-= 那活儿干得真漂亮，他自己也清楚。
-damn = 真、非常（加强语气）
-放在形容词前面，褒贬都能用。
-⑤ He does not give a damn what the neighbours think of the fence.
-= 邻居怎么看那道围栏，他一点也不在乎。
-not give a damn = 毫不在乎
-⑥ There is damn all in the fridge and the shop shut an hour ago.
-= 冰箱里什么都没有，店一小时前就关了。
-damn all = 什么都没有（英式）
-⑦ The foreword damns her with faint praise and never says so outright.
-= 那篇序拿不痛不痒的夸奖把她贬了，却始终没明说。
-damn with faint praise = 以敷衍的夸奖行贬低之实
-⑧ As near as damn it, the two estimates came to the same figure.
-= 那两份估价几乎分毫不差。
-as near as damn it = 几乎一模一样（英式口语）
-⑨ The rent is damnable and the landlord will not fix the boiler.
-= 房租贵得离谱，房东还不肯修锅炉。
-damnable = 该死的、糟透的（偏旧）
-形容词，今天多见于旧小说，日常说 awful。
-⑩ The forms are damnably long and three of them ask the same question.
-= 那些表格长得要命，其中三份问的还是同一件事。
-damnably = 要命地、极其（偏旧）
-副词，只用来加强负面的形容词。
-⑪ The preacher promised damnation to anyone who worked on a Sunday.
-= 那位传道人说，谁周日干活谁就要下地狱。
-damnation = 罚入地狱、天谴
-名词，宗教语境之外多用来夸张。
-⑫ He did his damnedest to keep the shop open through the winter.
-= 为了让铺子挺过那个冬天，他拼了老命。
-do your damnedest = 竭尽全力
-几乎只用在 do your damnedest 这个说法里。
-⑬ The most damning detail is the date on the second invoice.
-= 最要命的一处细节，是第二张发票上的日期。
-damning = 极其不利的、坐实罪名的
-形容词，多配 evidence、report、detail 这类词。
-构词：拉丁语 damnare 判罪
-注意语域：比多数脏话轻，正式与书面场合仍旧避开。
-
-Damocles
-核心：只活在一个说法里：the sword of Damocles，指头顶上悬着的
-那把随时会落下的剑 —— 眼下还没出事，可祸事随时可能来。出自古希腊
-故事：达摩克利斯羡慕王位，国王让他坐上去，头顶用一根马鬃吊着一把剑。
-永远大写，不单用。
-① The debt hung over the family like the sword of Damocles.
-= 那笔债像一把悬剑，一直吊在那家人头顶上。
-the sword of Damocles = 达摩克利斯之剑、随时会落下的祸患
-永远带定冠词，后面接 of Damocles，不拆开用。
-② A Damoclean threat of closure kept the whole ward quiet for a year.
-= 关停的威胁悬了一年，整个病区都不敢作声。
-Damoclean = 达摩克利斯式的、悬着的
-形容词形式，比名词说法少见得多。
-构词：古希腊人名 Damocles
-注意用法：只出现在那个固定说法里，不能单说 a Damocles。
-
-damp
-核心：潮：比 wet 轻，说的是「湿气还没干透」那种。名词是墙里地里
-返上来的潮气，英国老房子的常年毛病。动词 damp down 是把火压小，
-也比喻把情绪或议论压下去。形容词 dampish 是稍带潮气的。
-① The sheets came off the line still damp and smelled of smoke.
-= 床单从绳上收下来时还潮着，一股烟味。
-damp = 潮的、没干透的
-比 wet 轻：wet 是能滴下水来，damp 只是没干透。
-② Damp had come up the wall as high as the light switch.
-= 潮气顺着墙返上来，已经到了开关那么高。
-damp = 返潮、潮气（名词）
-说英国老房子时几乎专指从地基返上来的那种。
-③ They damped the fire down and went to bed.
-= 他们把炉火压小就去睡了。
-damp down = 把火压小
-④ The statement damped down talk of a takeover for about a week.
-= 那份声明把收购的传言压下去了大约一周。
-damp down = 把（议论、情绪）压下去
-比喻用法，宾语多是传言、恐慌、热情。
-⑤ A damp course keeps the wall from drawing water out of the ground.
-= 防潮层挡着墙，不让它把地里的水吸上来。
-a damp course = 防潮层
-也写作 damp-proof course，砌在墙脚的一层不透水材料。
-⑥ Rain dampened the crowd but not the noise they were making.
-= 雨把人群淋湿了，喊声却一点没小。
-dampen = 弄湿；也说使（情绪）低落
-跟 damp down 分工：这个偏「弄湿」，那个偏「压下去」。
-⑦ A cheap dampener on the door stops it slamming in the wind.
-= 门上装个便宜的缓冲件，风再大也摔不响。
-a dampener = 减震件、缓冲件
-也比喻地说 put a dampener on 扫兴。
-⑧ The news put a damper on the whole evening.
-= 那个消息给整晚都泼了盆冷水。
-put a damper on = 给……泼冷水、扫兴
-damper 本是炉子上的风门，关小了火就弱，比喻由此而来。
-⑨ She answered damply that she had already been told twice.
-= 她没精打采地答道，这话已经有人跟她说过两遍了。
-damply = 没精打采地；也说湿漉漉地
-副词，用得不多，多带一层扫兴的意思。
-⑩ The dampness in that cottage got into every book on the shelf.
-= 那间小屋的潮气钻进了架上的每一本书。
-dampness = 潮气、湿气
-名词形式，比不可数的 damp 更强调那个状态本身。
-⑪ The surveyor found no damp-proof course at all under the back wall of the cottage.
-= 验房师发现小屋后墙底下根本没有防潮层。
-a damp-proof course = 防潮层（砌在墙脚的一层不透水材料）
-英国验房报告里的高频词，缩写 DPC；没有它，地里的潮气会顺墙往上爬。
-构词：中古低地德语 damp 蒸汽
-注意别混：damp 是没干透，wet 是湿到能滴水。
-
-damsel
-核心：少女：古旧的文学词，今天几乎只活在 a damsel in distress 这个
-说法里 —— 故事里等着人来救的那位姑娘，用它多半带调侃，因为那套
-套路本身已经被笑了很久。可数。
-① The plot turns on a damsel in distress and a man with a horse.
-= 那个故事全靠一位落难少女和一个骑马的男人撑着。
-a damsel in distress = 落难待救的少女
-用它多半是在拿这套老套路开玩笑。
-② Damsels in old ballads are given nothing to do but wait.
-= 老歌谣里的少女除了等着，什么事也不让她们做。
-a damsel = 少女（古旧文学用词）
-构词：古法语 damoisele 小姐
-注意语域：古旧词，今天多带调侃。
-
-damselfly
-核心：豆娘：像细瘦的蜻蜓，停下来时翅膀合拢竖在背上 —— 蜻蜓是摊平的，
-这是最好认的一处分别。飞得慢，多在水边。可数，复数 damselflies。
-① A damselfly settled on the reed and folded its wings along its back.
-= 一只豆娘落在芦苇上，把翅膀顺着背合了起来。
-a damselfly = 豆娘
-② Damselflies fly weakly and never go far from water.
-= 豆娘飞得没力气，也从不离水太远。
-damselflies = 豆娘（复数）
-构词：damsel 少女 加 fly
-注意别混：蜻蜓停下来翅膀摊平，豆娘合拢竖着。
-
-damson
-核心：一种小李子：深紫近黑、皮厚肉酸，生吃太酸，做果酱与酒最合适。
-名字来自大马士革。可数，树与果实同名。
-① Damsons make better jam than they do eating fruit.
-= 西洋李做果酱比生吃强得多。
-a damson = 西洋李
-② The old damson at the end of the garden crops every other year.
-= 园子尽头那棵老李树隔年才结一次果。
-a damson tree = 西洋李树
-树与果实同一个词，靠上下文分。
-构词：拉丁语 prunum damascenum 大马士革的李子
-注意用法：酸得生吃不合适，几乎只用来做果酱与利口酒。
-
-dan
-核心：柔道、空手道、剑道里的段位：黑带之后按段往上排，first dan 是
-初段。日语借词，写在数字后面。可数。
-① She took her first dan at nineteen after six years of training.
-= 练了六年，她十九岁拿到初段。
-first dan = 初段
-段位写在序数词后面，说 second dan、third dan。
-② The club has three black belts and one fifth dan.
-= 那家道馆有三条黑带、一位五段。
-a fifth dan = 五段
-构词：日语「段」
-注意用法：段位在黑带之后才开始算，不是初学者的级别。
-
-dance
-核心：跳舞：既说动作，也说一支舞、一场舞会、以及跳舞这门艺术。
-比喻里 dance to somebody's tune 是任人摆布，lead somebody a dance
-是英式的把人耍得团团转。名词动词同形。
-① They danced until the band packed up and the lights came on.
-= 他们一直跳到乐队收摊、灯全亮起来。
-dance = 跳舞
-② She teaches dance at the college two evenings a week.
-= 她每周有两个晚上在学院教舞蹈。
-dance = 舞蹈（这门艺术，不可数）
-③ The village dance is the one night everyone turns up.
-= 村里的舞会是唯一一晚人人都来的场合。
-a dance = 一场舞会
-④ He has danced to his brother's tune for thirty years.
-= 三十年来他事事听他哥哥的。
-dance to somebody's tune = 任人摆布
-⑤ She led the inspectors a merry dance for six months.
-= 她把检查组耍得团团转，耍了半年。
-lead somebody a dance = 把某人耍得团团转（英式）
-也说 lead somebody a merry dance，语气更重。
-⑥ The dance floor filled the moment the dance band started their second set.
-= 舞队一奏起第二组曲子，舞池立刻就挤满了。
-the dance floor = 舞池
-a dance band = 伴舞乐队
-舞会现场的两样东西：跳舞的地方与伴奏的乐队。
-⑦ The old dance hall now sells dance music on vinyl, dance-hall reggae included.
-= 那座老舞厅如今卖黑胶舞曲唱片，连舞厅雷鬼也有。
-a dance hall = 舞厅
-dance music = 舞曲（不可数）
-dance-hall reggae = 舞厅雷鬼（牙买加的一种曲风）
-舞厅雷鬼是在舞厅现场长出来的一支，名字就记着它的出处。
-构词：古法语 dancier
-注意用法：名词动词同形，舞蹈这门艺术不可数。
-
-dancer
-核心：跳舞的人：既说职业舞者，也说舞跳得好不好的那个人 ——
-说 a good dancer 评的是舞技，不是职业。可数。
-① She trained as a dancer and stopped at twenty-six with a bad knee.
-= 她是学跳舞出身的，二十六岁因膝伤退了下来。
-a dancer = 舞者
-② He is a surprisingly good dancer for a man that size.
-= 就那个块头而言，他舞跳得出奇地好。
-a good dancer = 舞跳得好的人
-这个说法评的是舞技，跟职业不职业无关。
-构词：dance 加 -er
-注意用法：不加限定词时多指职业舞者。
-
-dancing
-核心：跳舞这件事：动名词当名词用，不可数。作定语时说 dancing shoes、
-dancing lessons。习语 dancing on the ceiling 一类多是临时说法，
-真正常用的是 have somebody dancing to your tune 那一支。
-① Dancing is the only exercise she has ever kept up.
-= 跳舞是她唯一一直坚持下来的运动。
-dancing = 跳舞（这件事，不可数）
-② She keeps her dancing shoes in the car in case of an invitation.
-= 她把舞鞋放在车里，怕临时有人请她跳。
-dancing shoes = 舞鞋
-作定语时前面不加冠词。
-构词：dance 加 -ing
-注意用法：不可数，谓语用单数。
-
-dandelion
-核心：蒲公英。名字从法语 dent de lion「狮子的牙」来，说的是叶缘那排锯齿，
-不是花的样子。可数名词，也常作定语（dandelion leaves）。
-两个搭配值得记：谢花后那团绒球叫 a dandelion clock，
-烘过的根泡出来的饮品叫 dandelion coffee。
-① The lawn was covered with dandelions by the end of April, however often he mowed it.
-= 到四月底，草坪上长满了蒲公英，他割多少遍都不管用。
-a dandelion = 蒲公英
-② She blew the dandelion clock twice and solemnly announced that it was two o'clock.
-= 她把那团蒲公英绒球吹了两下，一本正经地宣布现在是两点。
-a dandelion clock = 蒲公英的绒球（英式）
-这个叫法从吹绒球「数时间」的玩法来，只有英式这么说。
-③ The café serves dandelion coffee to customers who would rather avoid caffeine after five.
-= 那家咖啡馆给五点以后不想碰咖啡因的客人上蒲公英根饮品。
-dandelion coffee = 蒲公英根烘焙的代咖啡饮品
-量法跟咖啡一样说 a cup of，但它是代用饮品，不算咖啡的一种。
-构词：法语 dent de lion 狮牙，经中古英语转写
-注意用法：可数，复数 dandelions；作定语时不加冠词。
-
-dandle
-核心：把小孩放在膝上或臂上一颠一颠地逗。及物动词，只用于婴幼儿，
-搭配几乎固定成 dandle a child on your knee ——「膝上」那一处一般要说出来。
-现在偏书面、偏旧，日常口语多说 bounce。
-① He sat by the fire dandling the baby on his knee while the others argued about money.
-= 他坐在炉火边把婴儿放在膝头颠着逗，旁人正为钱吵得不可开交。
-dandle a baby on your knee = 把婴儿放在膝上颠着逗
-搭配固定，介词用 on，颠的那个位置要交代。
-② The grandmothers who once dandled him now ask his advice about their pensions.
-= 当年抱着他逗的那些老太太，如今反过来问他养老金的事。
-dandle a child = 逗弄（婴幼儿）
-对象只能是婴幼儿，用在大孩子或成人身上是不通的。
-构词：十六世纪起，可能与意大利语 dondolare 摇晃同源
-注意语域：偏书面、偏旧，口语里说 bounce a baby on your knee。
-
-dandruff
-核心：头皮屑。不可数名词，没有复数，也不说 a dandruff ——
-要计量得借别的词（a lot of dandruff、flakes of dandruff）。
-最常用的两个搭配是 have dandruff 和 anti-dandruff shampoo。
-① He had worn dark suits for years before he noticed the dandruff on his shoulders.
-= 他穿了好些年深色西装，才注意到肩上落着头皮屑。
-have dandruff = 有头皮屑
-② The chemist recommended an anti-dandruff shampoo and told him to leave it on for two minutes.
-= 药店店员推荐了一款去屑洗发水，叮嘱他抹上后要停两分钟。
-anti-dandruff shampoo = 去屑洗发水
-去屑产品一律用 anti- 这个前缀构词，不说 no-dandruff。
-构词：来源不确，一般认为后半截是方言词 hurf 头皮屑
-注意用法：不可数，说 a lot of dandruff，不说 many dandruffs。
-
-dandy
-核心：底层是「过分讲究穿戴的男人」。名词 a dandy 指花花公子，偏旧、
-带一点看不上的口气；派生形容词 dandified 说做派打扮太讲究，贬义更重。
-另有一支完全不同的口语义：美式的 dandy 是「顶好的」，
-多活在 fine and dandy 这个说法里，现在十有八九是反话。
-① He dressed like a Victorian dandy, down to the silk handkerchief in his top pocket.
-= 他穿得活像维多利亚时代的花花公子，连上衣口袋里的丝手帕都不落下。
-a dandy = 讲究衣着的男人、花花公子
-只说男人，语气里带着看不上。
-② Everything was fine and dandy until the bank asked where the money had come from.
-= 一切都好得很，直到银行问起这笔钱是打哪儿来的。
-fine and dandy = 好得很（多为反话）
-③ His dandified manner irritated the older partners long before they saw his figures.
-= 还没看到他那些数字，他那副刻意讲究的做派就已经惹恼了几位老合伙人。
-dandified = 打扮或做派过分讲究的
-由 dandy 加 -fied 来，贬义比名词更重。
-构词：十八世纪苏格兰与北英边界的俚语，来源不确
-注意语域：名词义偏旧；fine and dandy 是口语，美式更常用。
-
-Dane
-核心：丹麦人。三个词分工固定：国名 Denmark，语言和形容词 Danish，
-人是 a Dane，别拿国名去造。历史上 the Danes 专指侵入英格兰的维京人，
-两个复合词从这一支来 —— Danegeld 是买平安的赎金，Danelaw 是他们说了算的
-那片地方。另有 a Great Dane，那里的 Dane 也是「丹麦」。可数。
-① Two Danes and a Norwegian shared the flat above the bakery for three winters running.
-= 两个丹麦人和一个挪威人在面包店楼上合租了三个冬天。
-a Dane = 丹麦人
-人用 Dane，语言和东西用 Danish，两个词不能互换。
-② The English kings paid Danegeld for years and the raiding fleets came back all the same.
-= 英格兰的国王交了好些年丹麦金，劫掠的船队照样卷土重来。
-Danegeld = 丹麦金（付给维京人的买命钱）
-现在多用作比喻：pay the Danegeld 指花钱买平安，结果反被讹住。
-③ Villages north of the old Danelaw boundary still carry Scandinavian place names today.
-= 旧丹麦法区边界以北的村子，地名到今天还是斯堪的纳维亚式的。
-the Danelaw = 丹麦法区（受丹麦法管辖的英格兰东北部）
-既指那套法，也指适用那套法的那片地方。
-④ A Great Dane needs far more space than most city flats can offer, whatever the breeder says.
-= 大丹犬要的地方远超多数城里公寓给得起的，不管卖狗的怎么说。
-a Great Dane = 大丹犬
-名字里的 Dane 是「丹麦」，可这个犬种其实是德国育成的。
-构词：古英语 Dene，北欧部族名
-注意用法：说人只用 Dane；形容词与语言一律用 Danish。
-
-dang
-核心：damn 的委婉替身：位置、用法、语气分工全跟 damn 一样，只是把
-那个脏字避开了。可作感叹（Dang!）、可作强调用的形容词（that dang truck），
-过去分词形 danged 对应 damned。美式口语，南部与乡村口吻里最常听到。
-① Dang, I left the tickets on the kitchen table and we are already past the bridge.
-= 糟了，票落在厨房桌上了，我们都已经过桥了。
-Dang! = 该死、糟了
-② That dang truck has broken down twice on the same stretch of road this month.
-= 那辆破卡车这个月在同一段路上抛锚了两回。
-a dang thing = 该死的那个东西（强调，无实义）
-放在名词前只管加重语气，本身不添意思。
-③ I'll be danged if I am driving all the way out there again in this weather.
-= 这种天气我说什么也不再往那边跑一趟了。
-I'll be danged = 我才不呢；也表示真想不到
-跟 I'll be damned 同一个用法，语气软一档。
-构词：damn 的变音委婉形式，同类的还有 darn、dagnabbit
-注意语域：美式口语，书面几乎不用。
-
-danger
-核心：危险。三支分得很清：一是抽象的处境（in danger、out of danger），
-二是「有可能出坏事」的 danger of、danger that，三是具体的危险来源
-（a danger to somebody）。抽象义不可数，具体义可数。
-形容词 dangerous，两个常见复合词是 danger money 与 danger zone。
-① The patient was in serious danger for two days, but the surgeon says he is out of danger now.
-= 病人危险了两天，医生说现在已经脱离危险了。
-in danger = 有危险
-out of danger = 脱离危险
-一对反义搭配，中间都不加冠词。
-② Several coastal villages are in danger of being cut off whenever a high tide meets heavy rain.
-= 每逢涨潮碰上大雨，好几个沿海村子都有被隔断的危险。
-in danger of doing something = 面临做某事的危险
-后面接名词或动名词；要接从句时改说 the danger that…。
-③ Drivers who use a phone at the wheel are a danger to everyone else on the road.
-= 开车玩手机的司机，对路上其他所有人都是个危险。
-a danger to somebody = 对某人构成危险的人或物
-这一支可数，指一个具体的危险来源。
-④ Miners working the deepest seams used to be paid danger money on top of their wages.
-= 从前在最深矿层作业的矿工，工资之外还能拿一份危险津贴。
-danger money = 危险津贴（英式）
-美式说 hazard pay，两边说的是同一回事。
-⑤ Everything beyond the fence was marked as a danger zone for a fortnight after the leak.
-= 泄漏之后的两周里，围栏以外全被划成了危险区。
-a danger zone = 危险区
-也用作比喻，说血压、赤字进了危险区间。
-构词：古法语 dangier 支配权，本义是「落在别人掌握之中」
+data
+核心：数据。用法上有一处长期分歧要知道：拉丁语里 data 是 datum 的复数，
+严谨的科技写作说 the data are；日常与商业英语当不可数用，说 the data is。
+两种都通行，但同一篇文章里别换来换去。
+常见搭配：collect / gather data、raw data、personal data。
+两个复合词：a databank 是集中存放的一批资料，datacomms 是数据通信的口语缩略。
+① The data are still being checked, so nobody wants to put a number on it yet.
+= 数据还在核对，所以谁也不肯先说出一个数字来。
+the data are = 数据（作复数，科技写作）
+② All the personal data we hold is encrypted and deleted automatically after two years.
+= 我们持有的全部个人资料都做了加密，两年后自动删除。
+personal data = 个人资料
+这一句用的是不可数那一支，谓语跟单数走。
+③ They spent three months collecting raw data before anybody wrote a line of analysis.
+= 他们花了三个月采集原始数据，之后才有人动笔写分析。
+collect raw data = 采集原始数据
+raw data 指没经处理的第一手数据。
+④ The hospital keeps a databank of donor records going back to the nineteen seventies.
+= 那家医院存着一个供体记录资料库，可以一直追到七十年代。
+a databank = 资料库（集中存放的一批数据）
+⑤ The job advert asked for five years in datacomms and said nothing about hardware.
+= 那则招聘广告要求五年数据通信经验，硬件只字未提。
+datacomms = 数据通信（data communications 的口语缩略）
+⑥ The project spent six months on data capture before anybody started data mining.
+= 那个项目先花了六个月做数据采集，之后才有人开始做数据挖掘。
+data capture = 数据采集
+data mining = 数据挖掘
+采集是把数据录进来，挖掘是从里面找规律，两步不能颠倒。
+⑦ Their data processing runs overnight in a data centre two hundred miles away.
+= 他们的数据处理在两百英里外的一个数据中心通宵跑。
+data processing = 数据处理
+a data centre = 数据中心
+美式拼 data center；这一族都拿 data 作定语，不加所有格。
+⑧ Every data point in the data set was checked twice before the data warehouse was loaded.
+= 数据集里的每一个数据点都核过两遍，才装进数据仓库。
+a data point = 数据点
+a data set = 数据集
+a data warehouse = 数据仓库
+data warehousing = 数据仓库化（把数据集中存管这件事）
+warehouse 是那个库，warehousing 是把数据归拢进去这件事，别混。
+⑨ The policy is data-driven, and data protection rules decide what may be kept at all.
+= 那套做法以数据为依据，而数据保护条例决定哪些东西根本不能留。
+data-driven = 以数据为依据的
+data protection = 数据保护
+data-driven 作定语要带连字符：a data-driven approach。
+⑩ The old data terminal in the corner still works, though the data projector died years ago.
+= 角落里那台旧数据终端还能用，投影仪倒是好些年前就坏了。
+a data terminal = 数据终端
+a data projector = 投影仪（接电脑的那种）
+两个都是设备名；data projector 日常口语里多简称 projector。
+⑪ Getting the data type wrong is why half the rows failed to import last night.
+= 数据类型填错了，昨晚才有一半的行没能导进去。
+a data type = 数据类型
+数据库与编程里的词，说一列存的是数字、文本还是日期。
+构词：拉丁语 datum「给定的东西」的复数
 注意别混：
-danger = 危险（处境或来源）
-risk = 风险（可能性，可以主动去担）
-hazard = 隐患（客观存在的危险源）
+data = 数据（原始记录）
+information = 信息（数据整理出的意思）
+statistics = 统计数据（经统计处理过的）
 
-dangerous
-核心：危险的。既说会伤人的人或物（a dangerous road），也说做了后果严重的事
-（It is dangerous to…）。说对谁危险用 dangerous for somebody。
-比较级只能说 more dangerous。副词 dangerously 多跟 close、low、thin、ill
-这类词连用，意思是「已经逼近出事的那条线」。
-① That bend is dangerous in the wet, and two lorries have already gone through the fence there.
-= 那个弯道下雨天很危险，已经有两辆卡车从那儿冲破了护栏。
-be dangerous = 危险的
-② It is dangerous to leave a charger plugged in under a pillow all night.
-= 把充电器插着压在枕头底下过夜是危险的。
-it is dangerous to do something = 做某事很危险
-形式主语用 it，真正的主语是后面那个不定式。
-③ The ice was dangerously thin towards the middle of the pond, exactly as the warning sign said.
-= 越往池塘中间冰越薄，薄得危险，跟警示牌上写的一模一样。
-dangerously thin = 薄得危险
-副词加形容词，表示已经接近出事的那条界线。
-④ She came dangerously close to naming the person who had leaked the report to the press.
-= 她差一点就说出把报告透给媒体的那个人是谁。
-dangerously close to = 危险地接近、差一点就
-最常用的一个搭配，后面接名词或动名词。
-构词：danger 加 -ous
-注意用法：对谁危险说 dangerous for somebody；比较级用 more dangerous。
+database
+核心：数据库：按结构存起来、能查能改的一批数据。可数，写成一个词。
+跟 databank 的分别在于：database 强调有结构、可检索，
+databank 偏指存放着的那批资料本身。
+常见搭配：build / set up a database、search a database、
+a database of names、a database management system（缩写 DBMS）。
+① The police searched the database of stolen vehicles and matched the plate within seconds.
+= 警方在被盗车辆的数据库里一查，几秒钟就比中了那个车牌。
+search a database = 检索数据库
+② It took two interns a whole summer to build a database of every supplier in the group.
+= 两个实习生花了整整一个夏天，才建起一个囊括集团所有供应商的数据库。
+build a database of something = 建一个……的数据库
+③ Their database management system fell over on the first morning of the sale.
+= 促销头一个上午，他们的数据库管理系统就垮了。
+a database management system = 数据库管理系统（缩写 DBMS）
+构词：data 加 base
+注意别混：
+a database = 有结构、可检索的数据库
+a databank = 集中存放的一批资料
+a spreadsheet = 电子表格（行列排布，不算数据库）
+
+date
+核心：三支意思，前两支都出自「给定的时间点」。
+一是日期：the date of the meeting；动词是「注明日期」，也是「测定年代」。
+二是约会：a date 既指那场约会，也指约会的对象；date somebody 是跟某人交往。
+三是枣，跟前两支毫无关系，来自另一个词源（希腊语「手指」，说的是果子的形状）。
+一族固定说法要一起记：out of date 过时、up to date 最新、to date 到目前为止、
+date back to 与 date from 追溯到某年代、a blind date 事先没见过面的约会。
+派生：dated 过时的，dateable（也拼 datable）可定年代的，datebook 记事本（美式）。
+① The date on the letter was three weeks earlier than the postmark on the envelope.
+= 信上的日期比信封上的邮戳早了三周。
+the date = 日期
+② Please date and sign both copies before you send them back to the office.
+= 两份都请注明日期并签字，再寄回办公室。
+date something = 给某物注明日期
+③ They dated the roof timbers to within twenty years by counting the rings.
+= 他们靠数年轮，把屋顶木料的年代定到了二十年之内。
+date something to something = 把某物的年代测定到……
+④ The cathedral dates back to the twelfth century, though the tower is much later.
+= 这座主教座堂可以追溯到十二世纪，只是塔要晚得多。
+date back to = 追溯到（某个年代）
+⑤ The custom dates from a time when the river still froze every winter.
+= 这个习俗始自河水每年冬天还会封冻的年代。
+date from = 始自、追溯到
+跟 date back to 通用，后面接时间点。
+⑥ He took her out for dinner on their first date and talked about work all evening.
+= 第一次约会他带她出去吃饭，整晚都在聊工作。
+a date = 约会
+⑦ Her date turned up in a suit two sizes too big and apologized for it all night.
+= 她的约会对象穿了件大两号的西装来，为这个道了一晚上歉。
+somebody's date = 约会的对象
+同一个词既说那场约会，也说约会的那个人。
+⑧ They have been dating for a year and still have not told either family.
+= 他们交往一年了，两边家里都还没告诉。
+date somebody = 跟某人交往
+⑨ A friend set them up on a blind date that neither of them wanted to go on.
+= 朋友给他们安排了一场相亲式的约会，两个人都不想去。
+a blind date = 事先没见过面的约会
+⑩ He ate a handful of dates and left the stones in a saucer on the table.
+= 他吃了一把枣，把枣核吐在桌上的小碟里。
+a date = 枣（果实）
+这一支跟日期、约会毫无关系，另有词源。
+⑪ The safety guidance is out of date and still refers to a law repealed years ago.
+= 那份安全指引已经过时，引的还是好些年前就废止的法律。
+out of date = 过时的
+⑫ Keep the register up to date or the whole audit will have to start again.
+= 把登记册保持在最新状态，否则整个审计得从头再来。
+up to date = 最新的、跟得上的
+⑬ To date the company has replaced only nine of the faulty units.
+= 到目前为止，公司只换了九台有问题的机器。
+to date = 到目前为止（偏正式）
+⑭ The furniture looked dated but the kitchen had been redone the year before.
+= 家具显得过时，厨房倒是前一年刚翻新过。
+dated = 过时的
+形容词，多说风格、说法、装修。
+⑮ Only three of the fragments are dateable with any confidence.
+= 那些残片里只有三片能比较有把握地定出年代。
+dateable = 可定出年代的
+也拼作 datable，两种写法都通行。
+⑯ She wrote the appointment in her datebook and forgot about it until the reminder.
+= 她把那个约记在了记事本上，直到提醒响起才想起来。
+a datebook = 记事本（美式）
+英式说 a diary。
+⑰ The church dates to about 1400, though nobody has ever proved it on paper.
+= 那座教堂的年代约在一四〇〇年，只是从没人拿文书证实过。
+date to = 追溯到（跟 date back to 通用）
+后面直接接年代；加 back 语气一样，只是更常听到。
+⑱ The campaign warns students about date rape and tells them exactly where to get help.
+= 那项宣传提醒学生防范约会性侵，并明确告诉他们去哪儿求助。
+date rape = 约会性侵（施暴者是认识的人）
+法律与新闻用语；要点在于施暴者是被害人认识、甚至正在交往的人。
+构词：日期义来自拉丁语 data「给定的日子」；果实义来自希腊语 daktylos 手指
+注意别混：
+date = 日期（哪一天）
+day = 日子（一天，或星期几）
+appointment = 约定的会面（正式安排）
+
+dative
+核心：与格：语法术语，指名词代词作间接宾语（给谁、对谁）时的那个格。
+德语、拉丁语、俄语里有实打实的形态变化，英语早已没有与格形式，
+所以这个词只在讲外语语法或历史语法时用得着。名词形容词同形。
+① German learners spend most of the first term working out when to use the dative case.
+= 学德语的人第一学期大半时间都在琢磨什么时候该用与格。
+the dative case = 与格
+② In Latin the indirect object goes into the dative and the word order hardly matters.
+= 拉丁语里间接宾语用与格，语序几乎无所谓。
+the dative = 与格形式
+说到某个词「用与格」时可以直接这么省着说。
+构词：拉丁语 dativus，来自 dare 给
+注意用法：只用于语法讨论，说 the dative case 或径直说 the dative。
+
+datum
+核心：两支。一是 data 的单数「一个数据点」—— 只活在严谨的学术写作里，
+日常英语要说一条数据多用 a piece of data。
+二是测绘与工程里的基准：a datum point 是基准点，高程都从它起算。
+复数在学术义里是 data，工程义里多用 datums。
+① A single datum that far from the others is usually an error rather than a discovery.
+= 离群这么远的单个数据点，多半是出了错，而不是有了发现。
+a datum = 一个数据点
+② The surveyors marked a datum point on the wall and measured every floor from it.
+= 测量员在墙上标了个基准点，每层楼都从那儿量起。
+a datum point = 基准点
+工程测绘里的固定说法，也说 a datum line 基准线。
+构词：拉丁语 datum「给定的东西」，data 是它的复数
+注意用法：日常说一条数据用 a piece of data，别用 a datum。
+
+daub
+核心：两支，都带贬义。动词是「胡乱涂抹」：把颜料、泥、油膏成片抹上去，
+含着「粗糙、不该涂」的意思。名词既指抹上去的那一片，也贬指画得很差的画。
+另有建筑史的固定词 wattle and daub，编枝抹泥的老墙做法。
+① Somebody had daubed slogans on the shutters in white paint overnight.
+= 一夜之间有人用白漆在卷帘门上涂了标语。
+daub something on something = 把某物胡乱涂在……上
+强调涂得粗糙，多半还是不该涂的地方。
+② The walls of the old barn are wattle and daub under three layers of plaster.
+= 那座旧谷仓的墙，三层灰泥底下是编枝抹泥的老做法。
+wattle and daub = 编枝抹泥（老式墙体做法）
+③ He called his own paintings daubs and refused to sell a single one of them.
+= 他管自己的画叫涂鸦，一幅也不肯卖。
+a daub = 拙劣的画、乱涂的一片
+自嘲或贬人时用，夸画得好绝不能用这个词。
+构词：古法语 dauber 涂抹，源自拉丁语 dealbare 刷白
+注意语域：动词名词都是贬义，中性地说涂用 apply 或 spread。
+
+daube
+核心：法式红酒炖牛肉：牛肉加红酒、香草小火慢炖几个钟头，
+全称多写作 daube de bœuf。法语借词，进英语后不变形，复数照加 -s，可数。
+① The daube had been in the oven since ten and filled the whole house with the smell of wine.
+= 那锅炖牛肉从十点起就在烤箱里，满屋子都是酒香。
+a daube = 法式红酒炖牛肉
+② She serves the daube with nothing but bread, on the grounds that it needs no help.
+= 她上那道炖牛肉时只配面包，说它不需要别的东西帮衬。
+serve a daube = 上一道法式炖牛肉
+构词：法语 daube，一说源自西班牙语的炖煮一词
+注意语域：菜单与烹饪书里的词，日常口语里少见。
+
+daughter
+核心：女儿。除本义外还有一支比喻要知道：凡是「从母体分出来的」都能用它 ——
+生物学的 daughter cell 子细胞、商业的 daughter company 子公司、
+计算机的 daughterboard 子板，跟性别毫无关系。
+亲属称谓 daughter-in-law 是儿媳，复数加在前一个词上：daughters-in-law。
+① Their eldest daughter runs the farm now and the other two have moved to the city.
+= 如今是他们的大女儿在管农场，另外两个都进城去了。
+somebody's daughter = 某人的女儿
+② She is the daughter of a miner and the first in the family to stay at school past sixteen.
+= 她是矿工的女儿，也是家里第一个念到十六岁以后的人。
+the daughter of somebody = 某人的女儿（偏正式）
+说出身、家世时多用 of 的写法；日常提某人的女儿说所有格 somebody's daughter。
+③ His daughter-in-law does the accounts for the business at the end of every quarter.
+= 每个季度末，他儿媳都来替生意做一次账。
+a daughter-in-law = 儿媳
+复数加在前一个词上，说 daughters-in-law。
+④ Each daughter cell carries an identical copy of the chromosomes.
+= 每个子细胞都带着一份一模一样的染色体拷贝。
+a daughter cell = 子细胞
+⑤ The group sold two daughter companies to pay down the debt.
+= 集团卖掉了两家子公司来还债。
+a daughter company = 子公司
+⑥ The sound card was a daughterboard plugged straight into the main board.
+= 那块声卡是直接插在主板上的一块子板。
+a daughterboard = 子板（插在主板上的扩展板）
+构词：古英语 dohtor，与德语 Tochter 同源
+注意用法：比喻义取的是「由母体分出」，跟性别无关。
+
+daunt
+核心：让人心里发怵、打退堂鼓。及物动词，实际最常见的是被动式
+be daunted by，主动式少见。固定说法 nothing daunted 是「毫不气馁」，
+放在句首作插入语，偏文学。形容词 dauntless 是「无所畏惧的」，褒义。
+① She was daunted by the reading list and nearly changed course in the first week.
+= 那份书单把她吓住了，第一周她差点转了专业。
+be daunted by something = 被某事吓住
+最常用的形式，后面接任务、规模、前景。
+② Nothing daunted, he sent the manuscript to eleven more publishers that month.
+= 他毫不气馁，那个月又把稿子寄给了另外十一家出版社。
+nothing daunted = 毫不气馁（偏文学）
+③ The dauntless tone of her letters kept the whole crew going that winter.
+= 她信里那股毫不畏惧的口气，撑着全体船员熬过了那个冬天。
+dauntless = 无所畏惧的
+褒义，偏文学，日常说 fearless。
+构词：古法语 danter，源自拉丁语 domitare 驯服
+注意用法：多用被动；主动式说 the task daunted him 也通，只是少见。
+
+daunting
+核心：令人望而生畏的：难度或规模大到让人不敢下手。说任务、清单、前景，
+不用来说人。跟 frightening 的分界：frightening 是害怕，
+daunting 是「看着就觉得自己扛不动」。副词 dauntingly 多修饰形容词。
+① Rewriting the whole system in six months is a daunting prospect for a team of four.
+= 六个月重写整套系统，对一个四人小组来说是个让人发怵的前景。
+a daunting prospect = 令人生畏的前景
+最常见的三个搭配是 prospect、task、challenge。
+② The list of repairs was dauntingly long and the survey itself ran to forty pages.
+= 那份维修清单长得吓人，检验报告本身就有四十页。
+dauntingly long = 长得让人发怵
+③ He found the first week daunting but had settled in by the end of the month.
+= 头一周他觉得吃不消，到月底就适应了。
+find something daunting = 觉得某事难以招架
+构词：daunt 加 -ing
+注意别混：
+daunting = 让人觉得自己扛不动（说事）
+frightening = 让人害怕（说危险）
+intimidating = 让人在气势上矮一截（也可说人）
+
+dauphin
+核心：法国王储的称号，专指国王的长子，十四世纪一直用到大革命。
+法语借词，英语里首字母可大写可小写。今天多用作比喻，
+讥讽某个圈子里内定的接班人 —— 言外之意是位置靠继承而非靠本事。
+① The dauphin was only seven years old when the court moved back to Paris.
+= 宫廷迁回巴黎那年，王储才七岁。
+the dauphin = （法国的）王储
+② The press had called him the dauphin of the party long before anybody voted.
+= 早在有人投票之前，媒体就管他叫党内的太子了。
+the dauphin of something = 某个圈子内定的接班人
+比喻用法，带讥讽。
+构词：法语 dauphin，本是多菲内领主的头衔，后归王储所有
+注意用法：只用于法国王储；别国的王储说 the crown prince。
+
+dawdle
+核心：磨蹭：走得慢、做得慢，而且带着「本该快点、耽误了事」的责备口气。
+不及物动词，常说 dawdle over something 在某事上磨蹭、dawdle along 一路慢慢晃。
+跟 linger 的分界：linger 是舍不得走，dawdle 是纯粹拖拉。
+① Stop dawdling over your breakfast or you will miss the school bus again.
+= 别磨蹭着吃早饭了，不然又要错过校车。
+dawdle over something = 在某事上磨蹭
+② They dawdled along the river bank and arrived an hour after everybody else.
+= 他们沿着河岸一路慢慢晃，比别人晚到了一个钟头。
+dawdle along = 一路慢慢晃
+构词：十七世纪起，来源不确
+注意别混：
+dawdle = 磨蹭（该快不快，含责备）
+linger = 流连（舍不得离开）
+loiter = 闲荡逗留（常带可疑的意味）
+
+dawn
+核心：底层是「天开始亮」。三支：名词的黎明（at dawn）；比喻的「开端」
+（the dawn of an age）；动词，说天亮，也说 dawn on somebody
+「某人渐渐明白过来」—— 这一支日常用得最多。
+两个搭配：from dawn to dusk 从早到晚，the dawn chorus 清晨的鸟鸣（英式）。
+① They set off at dawn to get over the pass before the wind picked up.
+= 他们天一亮就动身，好赶在起风前翻过山口。
+at dawn = 黎明时分
+② The invention marked the dawn of an age in which distance stopped mattering.
+= 那项发明标志着一个距离不再要紧的时代的开端。
+the dawn of something = 某事物的开端
+比喻用法，后面多接 age、era、civilization。
+③ It slowly dawned on her that nobody else had read the contract either.
+= 她慢慢明白过来，原来别人也没读过那份合同。
+dawn on somebody = 某人渐渐明白过来
+主语常是 it，后面接 that 从句。
+④ They worked from dawn to dusk all through the harvest and slept in the barn.
+= 整个收获季他们从早干到晚，就睡在谷仓里。
+from dawn to dusk = 从早到晚
+⑤ The dawn chorus outside the window started at four and went on for an hour.
+= 窗外的晨鸟合唱四点就开始，一直唱了一个钟头。
+the dawn chorus = 清晨的鸟鸣（英式）
+构词：古英语 dagian 天亮
+注意别混：
+dawn = 天开始发亮的那一刻
+sunrise = 日出（太阳露出地平线）
+daybreak = 天亮（跟 dawn 通用，偏书面）
+
+day
+核心：底层是「太阳转一圈」，由此分出两个基本义，说话时靠上下文分：
+一是二十四小时那个整段（seven days a week），二是天亮到天黑那一段
+（during the day），跟 night 相对。往外再长三支：
+一天里干活的那一段（an eight-hour day）；某个时代或某人的当年
+（in those days、in my day）；人或物的全盛期（her day is over）。
+习语极多，且大半不谈时间 —— at the end of the day 是「说到底」，
+make somebody's day 是「让人高兴一整天」，have a field day 是
+「大大地占了一回上风」。可数。
+① She works seven days a week and has not had a holiday in years.
+= 她一周七天都上班，好些年没休过假了。
+seven days a week = 一周七天
+二十四小时那一支：整段的一天。
+② It rained during the day and cleared just in time for the fireworks.
+= 白天下了雨，正好赶在放烟火前放晴。
+during the day = 在白天
+跟 night 相对的那一支，说天亮着的那一段。
+③ He works an eight-hour day and travels two hours on top of that.
+= 他一天工作八小时，路上还要再花两个钟头。
+an eight-hour day = 八小时工作日
+说的是一天里干活的那一段，不是整整一天。
+④ In those days there was no electricity and the pump froze every winter.
+= 那年头还没有电，水泵年年冬天都冻上。
+in those days = 那年头、当时
+恒用复数，说过去的某个时期。
+⑤ In my day we walked to school in whatever the weather was doing.
+= 我们那会儿不管什么天气都走着上学。
+in my day = 我那会儿
+带一点今非昔比的口气，长辈说得多。
+⑥ Her day is over, and the new management makes no secret of it.
+= 她风光的时候过去了，新管理层也不避讳这一点。
+somebody's day is over = 全盛期已过
+说人或事物的鼎盛期结束了。
+⑦ He has had his day, but he still gets asked to open the show.
+= 他早已过气，可开场还是有人请他。
+have had your day = 风光过、如今不行了
+跟上一条同一支，语气更直白。
+⑧ It is dark already; let's call it a day and finish tomorrow.
+= 天都黑了，今天到这儿吧，明天再收尾。
+call it a day = 收工、就此打住
+不一定真到天黑，就是「今天不干了」。
+⑨ I saw her the other day looking better than she has for months.
+= 我前几天见过她，气色是几个月来最好的。
+the other day = 前几天
+说不久之前的某一天，具体哪天不重要。
+⑩ These days everyone books online and the shop stands half empty.
+= 如今大家都在网上订，店里空了一半。
+these days = 如今
+跟 nowadays 通用，说现在跟从前不一样。
+⑪ One day I'll go back and see whether the house is still standing.
+= 总有一天我要回去看看那房子还在不在。
+one day = 将来某一天；也指过去某一天
+同一个说法既能朝前也能朝后，靠时态分。
+⑫ Day by day he grew stronger until he could walk to the gate.
+= 他一天天好起来，后来能走到大门口了。
+day by day = 一天天地
+说变化是渐进的，一天挪一点。
+⑬ She does the same thing day in day out and never once complains.
+= 她天天做同一件事，从来不抱怨一句。
+day in day out = 日复一日
+带厌倦的口气，说单调重复。
+⑭ Your letter made my day at the end of a very bad week.
+= 一个糟透的星期末尾收到你的信，让我高兴了一整天。
+make somebody's day = 让某人高兴一整天
+多用于道谢，也用于反话。
+⑮ The papers had a field day with the story and ran it for a week.
+= 报纸拿那件事大做文章，连登了一个星期。
+have a field day = 大大地占了一回上风、大做文章
+多用于媒体与对手抓住机会尽情发挥。
+⑯ At the end of the day it is her decision and we should say so.
+= 说到底那是她的决定，我们该把话说明白。
+at the end of the day = 说到底
+跟时间无关，是「归根结底」的口语说法。
+⑰ In this day and age nobody writes letters, let alone by hand.
+= 都什么年代了还有谁写信，更别说手写。
+in this day and age = 当今这个时代
+两个词意思重复，是有意加强的固定说法。
+⑱ Her quick thinking saved the day when the projector failed.
+= 投影仪坏了，是她反应快才把场面救了回来。
+save the day = 挽回局面
+说在快要出岔子时把事情救了回来。
+⑲ His days are numbered and everyone in the department knows it.
+= 他的日子不多了，部门里人人都知道。
+somebody's days are numbered = 来日无多、位置不保
+既能说命不久矣，也能说职位快保不住。
+⑳ It is just one of those days when nothing goes to plan.
+= 就是那种什么都不按计划走的日子。
+one of those days = 处处不顺的一天
+抱怨时的固定说法，不指具体哪一天。
+㉑ She runs the day-to-day operations while he takes the credit.
+= 日常运作是她在管，功劳都归了他。
+day-to-day = 日常的、每天照例的
+作定语，说例行的那部分，不说大事。
+㉒ Friday is my day off and I spend most of it in the garden.
+= 周五是我的休息日，大半天都在园子里。
+a day off = 休息日
+从工作日里空出来的那一天。
+㉓ We had a day out at the coast and were home again before dark.
+= 我们去海边玩了一天，天黑前就到家了。
+a day out = 出去玩一天
+当天来回，不过夜。
+㉔ They booked a day trip to the island and missed the last boat back.
+= 他们订了去岛上的一日游，结果误了回程的末班船。
+a day trip = 一日游
+a day tripper = 去一日游的人
+英国海滨小镇夏天挤满的就是这一类游客。
+㉕ She looked for day care for the baby within walking distance of work.
+= 她想给孩子找个走路就能到单位的日托。
+day care = 日间托管
+托小孩与照看老人都用它。
+㉖ He kept his day job and wrote at the kitchen table every evening.
+= 他没辞掉正职，每晚在厨房桌上写作。
+a day job = 正职、糊口的工作
+常用于调侃：叫人别辞掉正职，意思是这行你干不成。
+㉗ Christmas Day falls on a Sunday this year, so the shops shut for two days.
+= 今年圣诞节赶上周日，商店要关两天。
+Christmas Day = 圣诞节当天
+节日加 Day 构成的一族，前面不加冠词。
+㉘ The day of the wedding was cold enough for the guests to keep their coats on.
+= 婚礼那天冷得客人外套都没脱。
+the day of = ……的那一天
+后面接一件事，指那件事发生的当天。
+㉙ It has been one of those days from day one of the whole project.
+= 从项目第一天起就没顺过。
+from day one = 从第一天起
+说某件事从最开头就如此。
+㉚ Every dog has its day, and his came a good deal later than most.
+= 谁都有走运的时候，他那一天来得比多数人晚得多。
+every dog has its day = 人人都有得意的一天
+谚语，安慰或自嘲时用。
+㉛ As a day pupil at a day school she was home by four while her cousins boarded.
+= 她在走读学校当走读生，四点就到家，堂兄妹们却要住校。
+a day school = 走读学校
+a day pupil = 走读生（英式）
+跟 boarding school 寄宿学校、boarder 寄宿生成对说。
+㉜ The day boys played rugby against the boarders while the day girls kept the score.
+= 走读的男生跟住校生打橄榄球，走读的女生记分。
+a day boy = 走读男生（英式）
+a day girl = 走读女生（英式）
+a day student = 走读生（美式，不分性别）
+英式按性别分说，美式一律说 day student。
+㉝ The day nursery takes babies from six months and the day centre next door is for the elderly.
+= 那家日间托儿所收六个月以上的婴儿，隔壁的日间中心是给老人的。
+a day nursery = 日间托儿所
+a day centre = 日间照护中心（英式）
+两个都是白天照看人的地方，一个管小孩，一个管老人和残障者。
+㉞ The day care center opened at seven and parents waited in the day room until it did.
+= 那家日托中心七点开门，家长就在休息室里等着。
+a day care center = 日托中心（美式拼法）
+a day room = 休息室（机构里白天供人待着的公共房间）
+英式写 day care centre；day room 多见于医院、军营、养老院。
+㉟ He hired day labourers at the roundabout and paid day labor rates in cash.
+= 他在环岛那儿雇零工，按日工的价钱付现金。
+a day labourer = 零工、按日计酬的工人
+day labor = 日工（美式拼法）
+英式 labourer 与 labour，美式 laborer 与 labor。
+㊱ She gave up a salaried job for day trading and lasted eleven months as a day trader.
+= 她辞了拿固定薪水的工作去做日内交易，当了十一个月的日内交易者。
+day trading = 日内交易（当天买当天卖）
+a day trader = 日内交易者
+关键在「不留隔夜仓」，收盘前一定平掉。
+㊲ His employer gives him day release, so he is at college every Wednesday until June.
+= 雇主给他每周一天的带薪进修，所以到六月前他每周三都在学院上课。
+day release = 带薪进修（英式，每周放一天去上课）
+英国学徒制里的固定安排，工资照发。
+㊳ They bought a day return to York and were back before the day-long strike began.
+= 他们买了去约克的当日往返票，赶在那场整日罢工开始前回来了。
+a day return = 当日往返票（英式）
+day-long = 整天的
+day-long 作定语要带连字符；美式说 a round trip ticket。
+㊴ The children go to a day camp in July and come home filthy every single evening.
+= 孩子们七月去日间夏令营，每天晚上都脏兮兮地回来。
+a day camp = 日间夏令营（美式，白天活动、晚上回家）
+跟 summer camp 的分别只在过不过夜。
+构词：古英语 dæg
+注意用法：
+说「在某一天」用 on：on Monday、on that day
+说「在白天」用 during 或 in：
+during the day = 在白天
+in the daytime = 在白天（daytime 是白昼那一段的名词）
+注意别混：
+day = 一天（时间单位或白昼）
+date = 日期（几月几号）
+中文都可能说「日子」，英语里问哪一天用 what date，问星期几用 what day。
+
+daybed
+核心：坐卧两用的榻：靠背矮、只一头有扶手，白天当座位、临时也能躺，
+放在客厅或书房，不当正经卧床用。可数，写成一个词。
+跟 sofa bed 的分别：sofa bed 白天是沙发、展开才成床，daybed 本来就是床的样子。
+① She keeps a daybed under the window so that guests can stay without moving anything.
+= 她在窗下放了张坐卧两用榻，来客留宿不用挪动任何东西。
+a daybed = 坐卧两用榻
+② He fell asleep on the daybed with the newspaper still open on his chest.
+= 他在那张榻上睡着了，报纸还摊在胸口。
+fall asleep on the daybed = 在榻上睡着
+构词：day 白天 加 bed 床
+注意别混：
+a daybed = 本来就是床形的坐卧两用榻
+a sofa bed = 白天是沙发，展开才成床
+
+daybreak
+核心：天亮：跟 dawn 通用，书面味重一点，几乎只出现在
+at daybreak、by daybreak、before daybreak 这三个搭配里。
+不可数，不加冠词。
+① They were on the road again by daybreak with the lamps still lit.
+= 天亮时分他们又上了路，车灯还亮着。
+by daybreak = 到天亮时
+② The shelling stopped shortly before daybreak and the whole street went quiet.
+= 炮击在天亮前不久停了，整条街安静下来。
+before daybreak = 天亮之前
+构词：day 加 break，字面「白昼破晓」
+注意用法：不可数、不加冠词，只跟 at、by、before 连用。
+
+daydream
+核心：白日梦：名词指醒着的胡思乱想，动词是走神空想。
+跟 dream 的分界很硬：dream 是睡着做的，daydream 一定是醒着的。
+名词可数，动词常说 daydream about something。
+① He spent the whole lesson in a daydream about the summer holidays.
+= 整节课他都在做关于暑假的白日梦。
+a daydream = 白日梦
+② She was daydreaming about the sea and missed the question entirely.
+= 她正神游到海边，把问题全然听漏了。
+daydream about something = 走神空想着某事
+构词：day 加 dream
+注意别混：
+a daydream = 醒着的胡思乱想
+a dream = 睡着做的梦；也指人生志向
+a fantasy = 明知不可能的幻想
+
+daylight
+核心：天光、白天的自然光，不可数。三处固定说法要一起记：
+in broad daylight 是「光天化日之下」，说的多是本该藏着做的事；
+daylight robbery 是英式的骂价钱离谱；the living daylights 只活在
+scare 或 knock the living daylights out of somebody 里。
+另有 daylight saving time 夏时制。
+① The room gets almost no daylight until the middle of the afternoon.
+= 那个房间要到下午过半才有一点天光。
+daylight = 天光、自然光
+② The van was taken from outside the shop in broad daylight.
+= 那辆面包车是光天化日之下从店门口被开走的。
+in broad daylight = 光天化日之下
+言外之意是这种事本该背着人干。
+③ Twelve pounds for two coffees is daylight robbery.
+= 两杯咖啡十二镑，简直是明抢。
+daylight robbery = 明抢（英式，骂价钱离谱）
+④ The noise from the ceiling scared the living daylights out of both of us.
+= 天花板上那声响把我们俩都吓得魂飞魄散。
+scare the living daylights out of somebody = 把某人吓得魂飞魄散
+换成 knock 就是揍得够呛，这个词组只用在这两个说法里。
+⑤ Daylight saving time ends on the last Sunday in October across most of Europe.
+= 欧洲大部分地方的夏时制在十月最后一个星期日结束。
+daylight saving time = 夏时制
+英式口语里也说 summer time。
+构词：day 加 light
+注意用法：不可数，不说 a daylight。
+
+daylily
+核心：萱草：一朵花只开一天，第二天换新的一朵，名字就是这么来的。
+可数，复数 daylilies，也写作分开的 day lily。
+① The daylilies along the drive open in the morning and are finished by dusk.
+= 车道边的萱草早上开，到黄昏就谢了。
+a daylily = 萱草
+② She divided the daylilies in autumn and gave half of them to the neighbours.
+= 她秋天给萱草分了株，一半送给了邻居。
+divide daylilies = 给萱草分株
+园艺里的固定说法，指把一丛分成几丛。
+构词：day 加 lily，因为一朵花只开一天
+注意用法：复数 daylilies；分写成 day lily 也通行。

@@ -1,38 +1,3 @@
-binman
-核心：英式口语，指收垃圾的工人——开着车挨家把垃圾桶倒进车里的
-那些人。构词是 bin（垃圾桶）加 man。正式说法是 refuse collector，
-今天为了不带性别也常说 bin collector 或 waste collective 的说法。
-美式说 garbage collector 或 trash collector。
-① The binmen come on Thursday, so the bins go out on Wednesday night.
-= 收垃圾的周四来，所以垃圾桶周三晚上就推出去。
-复数是 binmen。
-② He worked as a binman for years and knew every dog on the round.
-= 他做了好些年清洁工，那条线上的狗他都认得。
-③ Leave the bags out for the binmen before seven or they will be missed.
-= 七点前把垃圾袋放出去等人来收，晚了就收不上了。
-注意地域：
-英式 binman = 清洁工
-美式 garbage collector = 清洁工
-注意语域：口语；正式场合说 refuse collector。
-
-binocular
-核心：形容词，指"双眼的、用两只眼睛的"。最常见的搭配是
-binocular vision——两只眼睛各看到略有差别的画面，大脑合成之后
-才有立体感和距离感。构词是 bin-（二）加 ocular（眼的）。
-注意它是形容词，望远镜那个名词要用复数 binoculars。
-① Humans have binocular vision, which is why a covered eye makes stairs harder.
-= 人有双眼视觉，所以遮住一只眼下楼梯就变难。
-binocular vision = 双眼视觉
-两眼画面略有差别，合起来才有立体感。
-② Owls rely on binocular depth cues to judge the last few feet of a dive.
-= 猫头鹰靠双眼的深度线索判断俯冲最后那几步的距离。
-depth cue = 深度线索
-③ The condition affects binocular function, so the two eyes stop working as a pair.
-= 那种病影响双眼的协同功能，两只眼睛不再配合。
-构词：bin- 二 + ocular 眼的
-注意用法：这是形容词，
-望远镜是复数名词 binoculars。
-
 binoculars
 核心：双筒望远镜，只用复数——因为它是两个镜筒并在一起的，
 跟 glasses、scissors 同理，论具要说 a pair of binoculars。
@@ -450,3 +415,38 @@ official biographer = 经本人或家属授权的传记作者
 词族：
 biography = 传记
 biographical = 传记的
+
+biographical
+核心：形容词，说材料、影片、笔记讲的是某人的一生。常用搭配是
+biographical details、biographical information、biographical film。
+① He gave a few biographical details and refused every question after that.
+= 他讲了些生平资料，之后的问题一概不答。
+biographical details = 生平资料
+② It is a biographical film about a mathematician who died young.
+= 那是一部讲一位早逝数学家的传记片。
+biographical film = 传记片
+口语里多说 biopic。
+③ The note is purely biographical and says nothing about the poem itself.
+= 那条注释纯讲生平，对诗本身只字未提。
+构词：biography 传记 + -al 的
+近义对照：
+biographical = 传记的（讲别人一生）
+autobiographical = 自传的（讲自己一生）
+
+biography
+核心：别人写的某人生平，跟自己写的 autobiography 相对——分别不在
+内容在作者。指一本书时可数，指传记这个门类时不可数。
+① She wrote a biography of Churchill that ran to three volumes.
+= 她写了一部三卷本的丘吉尔传。
+a biography of = 某人的传记
+② He has read several biographies of the same general and trusts none of them.
+= 同一位将军的传记他读过好几本，一本也不信。
+可数，复数是 biographies。
+③ Biography is a popular genre and outsells fiction in some years.
+= 传记是很受欢迎的门类，有些年头比小说还好卖。
+指门类时不可数，不加冠词。
+构词：bio- 生平 + -graphy 写
+注意别混：
+biography = 传记（别人写的）
+autobiography = 自传（本人写的）
+memoir = 回忆录（本人写，只截取一段）

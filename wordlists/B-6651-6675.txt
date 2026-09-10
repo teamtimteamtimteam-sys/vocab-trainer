@@ -1,423 +1,589 @@
-doodle
-核心：随手涂画：开会或打电话时无意识地画的那些小图。
-名词动词同形，可数。
-① He doodles through every meeting and remembers more than anybody taking notes.
-= 他每场会都在随手涂画，记住的却比任何做笔记的人都多。
-doodle = 随手涂画
-② The margins are full of doodles and one very good drawing of the chairman.
-= 页边满是涂鸦，还有一张主席的极好素描。
-a doodle = 随手画的涂鸦
-构词：低地德语 dudeltopf 傻瓜，词义后来转变
-注意用法：说无意识地画用 doodle，正经作画用 draw。
+dower
+核心：（法律，旧）寡妇产：丈夫去世后遗孀依法可得的那一份财产。
+不可数或可数。今天几乎只在历史与法律史里读到。
+① Her dower was a third of the estate and the courts argued about it for years.
+= 她的寡妇产是遗产的三分之一，法院为此争了好些年。
+a dower = 寡妇产
+② The dower house stands empty and the family cannot agree who should have it.
+= 那座寡妇宅空着，家里人谈不拢该归谁。
+a dower house = 寡妇宅（庄园里留给遗孀住的房子）
+构词：古法语 douaire，与 dowager 同源
+注意别混：dower 是寡妇依法所得，a dowry 是女方出嫁时带过去的嫁妆。
 
-doofus
-核心：（美式口语，轻慢）笨蛋：说人做事糊涂。可数，复数 doofuses。
-语气比 idiot 轻，多用在熟人之间与自嘲。
-① Some doofus had put diesel in a petrol car and driven it two miles.
-= 哪个糊涂蛋往汽油车里加了柴油，还开了两英里。
-a doofus = 糊涂蛋（美式口语）
-② He called himself a doofus and everybody at the table agreed too quickly.
-= 他自称糊涂蛋，桌上所有人同意得太快了。
-call somebody a doofus = 说某人糊涂
-构词：可能来自苏格兰语 doof 笨人
-注意语域：美式口语，熟人之间用。
+down
+核心：底层是「朝低处去」。这个词的难处不在意思，在词性 —— 同一个形式
+能当副词、介词、形容词、动词和名词，靠位置分：
+副词说方向（sit down）；介词后面接一段路或一条线（down the street）；
+形容词说情绪低落或系统停摆（I'm feeling down、the server is down）；
+动词是把东西打下来或一口灌下去；名词有两支来路不同的义 ——
+鸟身上的绒毛，以及英格兰南部那种起伏的白垩草丘（the downs）。
+引申一路都从「低」来：数量往低处走（prices are down）、
+把话落到纸上（write it down）、把事情往下压到根子上（get down to）。
+① Sit down, please — this may take rather longer than you think.
+= 请坐，这事可能比你想的要久。
+sit down = 坐下
+副词的最基本一支：动作朝低处。
+② She walked down the street without looking at any of the shops.
+= 她沿街走了过去，一家店也没看。
+down the street = 沿街往那头
+介词用法，后面接一段路或一条线，不一定真有高低。
+③ Prices are down again this month, but only on the smaller sizes.
+= 这个月价格又跌了，不过只跌了小号的。
+be down = （数量、价格）下降
+说数字往低处走，作表语。
+④ Write it down before you forget which of them said what.
+= 趁还记得谁说了什么，先记下来。
+write something down = 把某事写下来
+把话落到纸上，这一路引申很能产。
+⑤ I've been feeling a bit down since the nights started drawing in.
+= 天开始黑得早以后，我一直有点低落。
+feel down = 情绪低落
+形容词用法，说心情，不说重度抑郁。
+⑥ The server has been down all morning and nobody can log in.
+= 服务器一上午都停着，谁也登不进去。
+be down = （系统、机器）停机
+跟上一条同形，主语是机器就是这个意思。
+⑦ The fighter was downed by a missile a few miles short of the coast.
+= 那架战机在离海岸几英里处被导弹打了下来。
+down a plane = 击落飞机
+动词的第一支：把飞在空中的东西弄下来。
+⑧ He downed his pint in one go and asked for another.
+= 他一口把那杯啤酒干了，又要了一杯。
+down a drink = 一口喝干
+动词的第二支：往下灌，口语。
+⑨ The miners downed tools at noon and walked out through the gates.
+= 矿工中午撂了工具，从大门走了出去。
+down tools = 撂挑子罢工（英式）
+把工具往下一放，这是英式罢工的固定说法。
+⑩ The pillow is filled with duck down and weighs almost nothing.
+= 那个枕头填的是鸭绒，几乎没有分量。
+duck down = 鸭绒
+名词的第一支：鸟身上最贴身的那层软毛。
+⑪ They walked all day on the downs and saw nobody but a shepherd.
+= 他们在白垩草丘上走了一天，只碰见一个牧羊人。
+the downs = 起伏的白垩草丘（英式）
+名词的第二支，恒用复数，是英格兰南部特有的地貌。
+⑫ We put down a deposit and lost it when the survey came back.
+= 我们付了定金，勘查报告一出来就打了水漂。
+put down a deposit = 付定金
+把钱先放下一部分，跟下一条的首付是同一个思路。
+⑬ They saved for three years for a down payment on a small flat.
+= 他们攒了三年钱，付了一套小公寓的首付。
+a down payment = 首付
+买房买车时先付的那一笔，其余分期。
+⑭ He ended up down and out in a city where he knew nobody.
+= 他最后在一座举目无亲的城市里潦倒街头。
+down and out = 穷困潦倒、无家可归
+名词写作 a down-and-out，指流落街头的人。
+⑮ She is very down to earth for someone with that much money.
+= 有那么多钱的人里，她算是很实在的。
+down to earth = 务实、不摆架子
+褒义，说人不虚浮、讲实际。
+⑯ It all comes down to money in the end, whatever they say.
+= 不管他们怎么说，到头来还是钱的事。
+come down to = 归根到底在于
+把一件事一层层往下压到根子上。
+⑰ The delay is down to the weather rather than anything we did.
+= 这次延误是天气造成的，不是我们做了什么。
+be down to = 由……造成；也指只剩下
+第二个义说所剩无几：we're down to our last box。
+⑱ Let's get down to business; we have forty minutes and six items.
+= 咱们言归正传，四十分钟，六项议题。
+get down to = 着手做正事
+后面接名词或动名词，说不再绕弯子。
+⑲ The joke went down well with everyone except the person it was about.
+= 那个玩笑除了被说的那个人，大家都受用。
+go down well = 反应好、受欢迎
+反过来说 go down badly；主语是话、表演或提议。
+⑳ Don't let me down — I have told them you can do it.
+= 别让我失望，我跟他们说了你能行。
+let somebody down = 让某人失望
+名词是 a letdown，指令人失望的事。
+㉑ We'll know more further down the line, once the trial reports.
+= 等试验出了结果，往后我们会知道得更多。
+down the line = 将来某个时候
+也指整条流程往下的各个环节。
+㉒ He looked up and down the platform but she was not there.
+= 他把站台从头看到尾，她并不在。
+up and down = 来来回回、上上下下
+成对出现，说反复或说整个范围。
+㉓ She has a downer on him and will not say why.
+= 她看他不顺眼，又不肯说为什么。
+have a downer on = 对某人有成见（英式口语）
+名词 a downer 也指扫兴的事。
+㉔ He has been down in the mouth all week and eats almost nothing.
+= 他一整周垂头丧气，几乎不吃东西。
+down in the mouth = 垂头丧气
+形容神情，从嘴角往下耷拉来的。
+㉕ All that money went down the drain when the company folded.
+= 公司一垮，那些钱全打了水漂。
+go down the drain = 白白浪费掉
+比喻很直白：顺着下水道流走了。
+㉖ Two down, three to go, and the light is already going.
+= 搞定两个还剩三个，天已经在黑了。
+two down = 已经完成两个
+口语里数进度用它，后面常跟 to go。
+㉗ The tree came down in the storm and took the fence with it.
+= 那棵树在风暴里倒了，连篱笆一起压塌了。
+come down = 倒下、掉下来
+主语是树、飞机、雨雪。
+㉘ Down with the tyrant! The words were still on the wall in the morning.
+= 「打倒暴君」——那几个字第二天早上还在墙上。
+down with = 打倒（口号）
+只用于口号与标语，后面直接接被反对的对象。
+㉙ He came down with flu the week before his final exams.
+= 期末考前一周，他得了流感。
+come down with = 染上（小病）
+这一支的重心其实在 come，收在这里是因为 down 那个方向感 —— 病把人放倒。
+㉚ Two years down the line nobody remembers who objected to the plan.
+= 两年之后，没人记得当初是谁反对那个计划。
+down the line = 到后来、往后
+说时间上往后推；也说 further down the line。
+㉛ The down jacket weighs nothing and takes up half the rucksack.
+= 那件羽绒服没什么重量，却占了半个背包。
+a down jacket = 羽绒服
+这里的 down 是羽绒那一支，跟方向无关。
+㉜ They went downstairs, walked downtown, and were downstream of the works within an hour.
+= 他们下了楼，往市中心走，一小时之内就到了工厂的下游。
+downstairs = 楼下、下楼
+downtown = 市中心（美式）
+downstream = 在下游；也说产业链下游
+downtown 是美式说法；英式说市中心用 the town centre。
+㉝ The company downsized twice and called the second round downsizing rather than redundancy.
+= 那家公司裁了两轮员，第二轮管它叫「精简」而不是裁员。
+downsize = 缩减规模、裁员
+downsizing = 缩编（委婉说法）
+a downturn = 下滑、衰退
+a downtrend = 下行趋势
+downsizing 是典型的委婉语，实质就是裁员。
+㉞ Nobody downplayed the downside and the presentation was the better for it.
+= 没人淡化其中的不利面，那场汇报反倒因此更好。
+downplay something = 淡化某事
+the downside = 不利的一面
+downright = 十足的、彻头彻尾的（加强语气）
+downright 作副词加强语气：downright rude 是「简直无礼」。
+㉟ The downpour filled the downpipe, the downspout burst, and the downdraught blew smoke back inside.
+= 一场倾盆大雨灌满了落水管，排水管爆开，下沉气流把烟又吹回了屋里。
+a downpour = 倾盆大雨
+a downpipe = 落水管（英式）
+a downspout = 落水管（美式）
+a downdraught = 下沉气流
+英式 downpipe、美式 downspout，说的是同一根管子。
+㊱ The line went downmarket, the brand went downscale, and the shares took a downtick.
+= 那个产品线走了低端路线，牌子档次下滑，股价也小跌了一下。
+go downmarket = 走低端路线（英式）
+downscale = 低端的（美式）；也指缩减
+a downtick = 小幅下跌
+英式 downmarket、美式 downscale，语气都带贬。
+㊲ Downtime on that machine costs more per hour than the downgrading of the whole line.
+= 那台机器每小时的停机损失，比整条线降级的成本还高。
+downtime = 停机时间；也指休息时间
+downgrading = 降级（名词）
+a downswing = 下行、下滑阶段
+downtime 在口语里也说个人的休息时间。
+㊳ The downtrodden characters get the last word and the downlighter above them flickers.
+= 那些受尽欺压的角色说了最后一句话，他们头顶的射灯还在闪。
+downtrodden = 受尽欺压的
+a downlighter = 向下照的射灯
+a downlink = 下行链路（卫星通信）
+downtrodden 偏文学，多说被制度压着的人。
+㊴ They walked downriver, cycled downwind, and drifted downwards without meaning to.
+= 他们沿河而下，顺风骑行，不知不觉往下漂。
+downriver = 沿河而下
+downwind = 顺风的、顺风地
+downwards = 向下（英式）
+downward = 向下的
+downwardly = 向下地
+英式副词多写 downwards，美式多写 downward。
+㊵ The post was downvoted within a minute and the downy chick in the photograph became a meme.
+= 那个帖子一分钟内就被踩了下去，照片里那只绒毛小鸡倒成了梗。
+downvote something = 给某物投反对票、点踩
+downy = 覆着绒毛的
+downstage = 舞台前部
+downshift = 降挡；也指放慢生活节奏
+downstate = 州的南部（美式）
+downvote 是论坛用语；downy 说的是 down 羽绒那一支。
+构词：古英语 ofdune 从山丘下来
+注意词性：同一个形式能作副词、介词、形容词、动词与名词，靠位置分。
+注意别混：
+be down = 情绪低落（一时的）
+be depressed = 抑郁（可能是病）
+中文都说「情绪低」，英语里前者是日常的一阵，后者可能是诊断。
 
-doohickey
-核心：（美式口语）小玩意儿：叫不上名字的小零件，
-跟英式的 doodah、thingy 一路。可数。
-① The doohickey on the end of the cable snapped and the whole thing was useless.
-= 电缆头上那个小玩意儿断了，整根线就废了。
-a doohickey = 叫不上名字的小零件
-② He keeps a drawer of doohickeys that have outlived whatever they came with.
-= 他有一抽屉小零件，配套的东西早没了，它们还留着。
-doohickeys = 各种小零件（复数）
-构词：美国口语的生造词
-注意语域：美式口语；正式说 a component、a fitting。
+downbeat
+核心：两支。一是（口气、报道）低调不乐观的：跟 upbeat 相对；
+二是音乐上的强拍：一小节的第一拍。形容词与名词。
+① The forecast was downbeat and the shares went up anyway.
+= 那份预测口气低沉，股价照样涨了。
+be downbeat = 低调不乐观的
+② The conductor brings them in on the downbeat and nobody watches the score.
+= 指挥在强拍上给他们入拍，没人看谱子。
+the downbeat = 强拍
+构词：down 加 beat
+注意别混：downbeat 是低调，upbeat 是乐观昂扬。
 
-doolally
-核心：（英式口语，旧）疯疯癫癫的：说人一时精神不正常或急糊涂了，
-语气轻、带戏谑。形容词，常说 go doolally。
-① She went doolally trying to book four flights on one telephone line.
-= 用一条电话线订四张机票，她差点急疯。
-go doolally = 急糊涂、发疯
-② Two weeks of rain and the whole household was doolally by the Friday.
-= 下了两周雨，到周五全家都要疯了。
-be doolally = 疯疯癫癫的
-构词：印度 Deolali 的英军转运营，士兵在那里久候生变
-注意语域：英式口语、偏旧；说真正的精神疾病绝不能用它。
+downcast
+核心：两支。一是垂头丧气的：说人心情低落；
+二是（眼睛）低垂的（downcast eyes）。形容词，偏书面。
+① He looked downcast for a fortnight and then sold the shop and cheered up.
+= 他消沉了两周，随后把店卖了，人就高兴起来。
+look downcast = 显得垂头丧气
+② She answered with downcast eyes and a voice that carried to the back row.
+= 她低垂着眼作答，声音却传到了最后一排。
+downcast eyes = 低垂的双眼
+构词：down 加 cast 投下
+注意语域：偏书面；日常说 fed up、miserable。
 
-doom
-核心：厄运：注定要来的坏结局。不可数名词，也作动词
-（be doomed to something）。
-形容词 doomed 说「注定完蛋的」；a doomsayer 是唱衰的人；
-doomsday 是世界末日，也用在 a doomsday scenario（最坏设想）里；
-doomy 是口语的「阴郁不祥的」。
-① A sense of doom settled over the office and nobody could say what had caused it.
-= 一股不祥的气氛笼罩着办公室，谁也说不清是什么引起的。
-a sense of doom = 不祥的预感
-② The plan was doomed from the moment two people were put in charge of it.
-= 从两个人同时负责那一刻起，那个计划就注定要黄。
-be doomed = 注定要完蛋
-③ Doomsayers had predicted the collapse four times before it happened once.
-= 唱衰的人预言过四回崩盘，实际只发生了一回。
-a doomsayer = 唱衰的人
-④ The doomsday scenario in that report is the one the funding was based on.
-= 那份报告里的最坏设想，正是拨款所依据的那一个。
-a doomsday scenario = 最坏设想
-⑤ The music is doomy in a way that suits the weather and nothing else.
-= 那音乐阴郁得只配这种天气，别的什么都不配。
-doomy = 阴郁不祥的（口语）
-多说音乐、气氛与语气，带一点调侃。
-⑥ The report was doom-laden and the forecast in it turned out to be optimistic.
-= 那份报告满纸凶兆，里头的预测事后看竟还算乐观。
-doom-laden = 满是凶兆的、极其悲观的
-多说报告、语气与预言。
-构词：古英语 dōm 判决 —— 末日审判那个意思
-注意语域：doomy 与 doomsayer 都偏口语，带调侃。
+downfall
+核心：垮台、败落：一个人或一个政权栽跟头的那件事或那个原因。可数，
+常说 somebody's downfall、be the downfall of somebody。
+① Overconfidence was his downfall and everybody had told him so.
+= 过于自信是他垮台的原因，人人都跟他说过。
+somebody's downfall = 某人垮台的原因
+② The downfall of the regime took nine days and forty years of pressure.
+= 那个政权垮台用了九天，此前是四十年的压力。
+the downfall of something = 某个政权或机构的垮台
+构词：down 加 fall
+注意别混：downfall 说垮台的原因或过程，collapse 更强调突然倒塌。
 
-door
-核心：门。可数。几个说法要一起记：next door 是隔壁，
-out of doors 是户外，behind closed doors 是闭门（不公开），
-from door to door 是挨家挨户，show somebody the door 是下逐客令，
-lay something at somebody's door 是把责任算在某人头上，
-get your foot in the door 是先挤进门（争取到最初的机会），
-answer the door 是去开门。
-一族复合词：a doorbell 门铃、a doorknob 门把手、a doorman 门房、
-a doormat 门垫（也说任人欺负的人）、a doorstep 门阶、a doorstop 门挡、
-a doorway 门口、a doorkeeper 看门人。
-① The people next door have a piano and the courtesy to stop at nine.
-= 隔壁人家有架钢琴，也懂事，九点就停。
-next door = 隔壁
-② The decision was taken behind closed doors and announced as a consultation.
-= 那个决定是闭门做出的，公布时说成是征求意见。
-behind closed doors = 闭门、不公开地
-③ They went from door to door for three weeks and found eleven people willing to help.
-= 他们挨家挨户跑了三周，找到十一个愿意帮忙的人。
-from door to door = 挨家挨户
-④ He was shown the door after asking the same question for the third time.
-= 同一个问题问到第三遍，他被下了逐客令。
-show somebody the door = 下逐客令
-⑤ The delay was laid at her door and she had been on leave the whole month.
-= 延误被算在了她头上，可她整个月都在休假。
-lay something at somebody's door = 把责任算在某人头上
-⑥ The unpaid work got her foot in the door and the next job paid properly.
-= 那份没报酬的活让她挤进了门，下一份工作报酬就正常了。
-get your foot in the door = 先挤进门、争取到最初的机会
-⑦ Nobody answered the door and the parcel went back to the depot.
-= 没人来开门，包裹被退回了集散站。
-answer the door = 去开门
-⑧ They eat out of doors from May until the first wasp.
-= 从五月起他们就在户外吃饭，直到第一只黄蜂出现。
-out of doors = 在户外
-⑨ The doorbell has not worked since they moved in and everybody knocks.
-= 他们搬进来之后门铃就没响过，大家都敲门。
-a doorbell = 门铃
-⑩ He wiped his boots on a doormat that said welcome in three languages.
-= 他在一块用三种文字写着「欢迎」的门垫上蹭了蹭靴子。
-a doormat = 门垫；也指任人欺负的人
-⑪ The milk was left on the doorstep and the cat got there first.
-= 牛奶放在门阶上，猫先到了一步。
-a doorstep = 门阶
-⑫ A doorstop kept the fire door open and the inspector wrote it down.
-= 一个门挡把防火门支着，检查员把这事记了下来。
-a doorstop = 门挡
-⑬ She stood in the doorway long enough for everybody to see who it was.
-= 她在门口站了足够久，让所有人都看清是谁。
-a doorway = 门口
-⑭ The doorman remembers four hundred names and pretends to remember more.
-= 那位门房记得四百个名字，还装作记得更多。
-a doorman = 门房
-⑮ The doorkeeper let them in without a word and wrote the time on a card.
-= 看门人一言不发地放他们进去，把时间记在了一张卡片上。
-a doorkeeper = 看门人
-偏正式与旧；今天多说 a doorman 或 security。
-⑯ She knocked on the door twice and let herself in with the key she still had.
-= 她敲了两下门，用自己还留着的钥匙进去了。
-knock on the door = 敲门
-跟 answer the door 成对：一个敲，一个应。
-⑰ The doorknob came off in his hand and the room stayed locked until Monday.
-= 门把手在他手里掉了下来，那间屋子锁到了周一。
-a doorknob = 圆形门把手
-英式的杆式把手叫 a door handle。
-⑱ The door furniture was replaced, the door knocker was kept, and the door prize was a tin of biscuits.
-= 门上的五金件换了，门环留着，入场抽奖的奖品是一听饼干。
-door furniture = 门上的把手铰链等五金件（英式）
-a door knocker = 门环
-a door prize = 入场抽奖的奖品（美式）
-a doornail = 门钉
-习语 as dead as a doornail 是「彻底没气了」。
-构词：古英语 duru
-注意用法：说「隔壁的人」用 next door；说「敲门有人应」用 answer the door。
+downgrade
+核心：降级：把等级、评级、职位往下调 —— 说信用评级、职位、
+风险等级都行。及物动词，也作名词。反义是 upgrade。
+① The agency downgraded the country's rating twice in one quarter.
+= 那家评级机构一个季度里把该国评级下调了两次。
+downgrade something = 给某物降级
+② He was downgraded in the reorganization and kept the same desk.
+= 重组中他被降了级，桌子还是那一张。
+be downgraded = 被降级
+构词：down 加 grade 等级
+注意别混：downgrade 是往下调等级，demote 专说人的职位。
 
-doozy
-核心：（美式口语）了不得的一个：说某件事、某个东西格外厉害、格外糟糕，
-或格外难对付。可数，也拼 doozie。
-① The last question was a doozy and three of them wrote nothing at all.
-= 最后一道题实在够呛，有三个人一个字没写。
-a doozy = 了不得的一个（难题、麻烦或好东西）
-② That storm was a doozy and the fence has not been straight since.
-= 那场风暴够猛的，篱笆从此就没直过。
-be a doozy = 是够呛的一个
-构词：来源不确，一说与 daisy 有关
-注意语域：美式口语，褒贬都能用，看上下文。
+downhearted
+核心：灰心的：因为受挫而提不起劲。形容词，多作表语，
+常说 don't be downhearted（别灰心）。
+① Do not be downhearted — the same thing happened to everybody on that list.
+= 别灰心 —— 名单上每个人都碰到过同样的事。
+be downhearted = 灰心的
+② They came back downhearted and were told to try again on Monday.
+= 他们灰心地回来，被告知周一再试一次。
+come back downhearted = 灰心地回来
+构词：down 加 heart
+注意别混：downhearted 是一时灰心，depressed 可指持续的抑郁。
 
-dopamine
-核心：多巴胺：脑内的一种神经递质，跟动机、奖赏与运动控制都有关。
-不可数。它的前体叫 dopa，用于治疗帕金森病的药是 L-dopa。
-① Dopamine is not the pleasure chemical, whatever the headlines keep saying.
-= 不管标题怎么写，多巴胺并不是什么「快乐物质」。
-dopamine = 多巴胺
-② Treatment with dopa relieved the tremor and did nothing for the stiffness.
-= 用多巴治疗缓解了震颤，对僵硬毫无帮助。
-dopa = 多巴（多巴胺的前体）
-构词：dihydroxyphenylalanine 的缩写加 -amine
-注意语域：医学与神经科学用语；通俗报道里常被简化得失真。
+downhill
+核心：两支。一是往山下：走、跑、滑（walk downhill）；
+二是习语 go downhill：一路变糟（说健康、生意、关系）。
+副词与形容词同形；滑雪里 the downhill 指速降赛。
+① The path runs downhill for two miles and nobody minds the way back.
+= 那条路下坡走两英里，回程谁也不在乎。
+run downhill = 一路下坡
+② The business went downhill after the bypass opened and never recovered.
+= 绕城公路一通，那门生意就一路走下坡，再没缓过来。
+go downhill = 一路变糟
+③ She won the downhill and came fourth in everything else.
+= 她赢下了速降赛，别的项目都是第四。
+the downhill = 速降赛（滑雪）
+构词：down 加 hill
+注意用法：说「从此顺当了」英语说 it's all downhill from here，
+可这句既能指轻松也能指变糟，要看语气。
 
-dope
-核心：四支。一是口语的毒品，多指大麻；二是运动里的兴奋剂
-（doping 是使用兴奋剂）；三是口语的「笨蛋」；
-四是（旧）内幕消息：the dope on something。
-形容词 dopey 说人「昏昏沉沉、迟钝的」。
-① He was caught with dope in the glove compartment and lost his licence.
-= 他被查出手套箱里有大麻，驾照吊销了。
-dope = 毒品（多指大麻）
-② Doping tests were introduced in the seventies and improved in the nineties.
-= 兴奋剂检测七十年代引入，九十年代才做得像样。
-doping = 使用兴奋剂
-③ Give me the dope on the new manager before I meet him.
-= 见新经理之前，先跟我说说他的底细。
-the dope on somebody = 关于某人的内幕消息
-④ She was dopey for two days after the anaesthetic and slept through both of them.
-= 麻醉之后她昏沉了两天，两天都在睡。
-be dopey = 昏昏沉沉的
-⑤ Doping controls were introduced late and tightened after every scandal.
-= 兴奋剂管控引入得晚，每出一次丑闻就收紧一回。
-doping controls = 兴奋剂管控
-体育报道里的固定说法，也说 anti-doping rules。
-构词：荷兰语 doop 蘸汁，后引申为麻醉品
-注意语域：毒品与笨蛋两支都是口语。
+download
+核心：下载：把文件从网络取到本机。动词与名词同形（名词重音在前）。
+反义是 upload。也说 a downloadable file（可下载的文件）。
+① The file downloads in a minute and takes four hours to make sense of.
+= 那个文件一分钟就下载完，弄懂它要四个钟头。
+download something = 下载某物
+② The download failed twice and the third attempt was the one that worked.
+= 前两次下载失败，第三次才成。
+a download = 一次下载；也指下载的文件
+③ Only three of the eleven documents are downloadable and none of them is the form.
+= 十一份文件里只有三份能下载，偏偏没有那张表。
+be downloadable = 可下载的
+网站与资料库的说明里常见。
+构词：down 加 load
+注意用法：名词重音在前，动词重音在后。
 
-doppelgänger
-核心：分身、酷似之人：一是民间传说里跟你一模一样的鬼影，见到它是凶兆；
-二是日常说「跟某人长得一模一样的人」。可数，德语借词，
-也写作不带变音符的 doppelganger。
-① She met her own doppelgänger at a wedding and neither of them enjoyed it.
-= 她在一场婚礼上遇见了跟自己一模一样的人，两个人都不好受。
-a doppelgänger = 酷似某人的人
-② The story turns on a doppelganger who arrives before the real one does.
-= 那个故事的关键，是一个比本人先到的分身。
-a doppelganger = （传说里的）分身
-构词：德语「走双影的人」
-注意用法：不带变音符的写法在英语里更常见。
+dowry
+核心：嫁妆：女方出嫁时带到夫家的钱财，在若干社会里曾是婚约的一部分，
+如今在一些国家已被法律禁止。可数，复数 dowries。
+① The dowry was written into the contract and argued about for two generations.
+= 那笔嫁妆写进了婚约，被争论了两代人。
+a dowry = 嫁妆
+② Dowry demands are illegal there and the practice has proved hard to stop.
+= 那里索要嫁妆是违法的，这种做法却很难禁绝。
+dowry demands = 索要嫁妆
+构词：古法语 douaire，与 dower 同源
+注意别混：dowry 是女方带去的嫁妆，dower 是寡妇依法所得的那一份。
 
-Doric
-核心：多立克式的：古希腊三种柱式里最朴素的一种 ——
-柱身有槽、柱头简单、没有基座。首字母大写，形容词。
-另一支指苏格兰东北部的方言，但已被收词裁定排除在外。
-① The Doric columns are plain and the building is the better for it.
-= 那些多立克柱式很朴素，那栋楼反倒因此更好看。
-Doric columns = 多立克柱式
-② A Doric portico was cheaper to carve and easier to repair than the alternatives.
-= 多立克式门廊比别的样式雕起来便宜，修起来也容易。
-a Doric portico = 多立克式门廊
-构词：古希腊多利亚地区的名字
-注意别混：三种柱式里 Doric 最朴素，Ionic 有涡卷，Corinthian 最繁复。
+dowse
+核心：探水：手持分叉的树枝或两根金属杆在地面上走，据说能找到水源或矿脉 ——
+科学上从未得到证实。不及物动词，做这事的人叫 a dowser。
+也拼 douse，但探水这一支多写 dowse。
+① He dowsed the field with two bent rods and marked three spots with sticks.
+= 他拿两根弯铁杆在田里探水，用木棍标了三个点。
+dowse = 探水、探矿
+② The dowser was paid in cash and the well was sunk where he said.
+= 那位探水人拿的是现金，井就打在他说的地方。
+a dowser = 探水人
+构词：来源不确，十七世纪英格兰西南部方言
+注意别混：dowse 是探水，douse 是浇灭或浇透。
 
-dork
-核心：（口语，轻慢）呆头呆脑的人：不合群、举止别扭。可数，
-形容词 dorky。语气比 nerd 更偏「傻气」，今天也常自嘲着用。
-① He was the dork with the map and the only one who knew where they were.
-= 他就是那个拿着地图的呆子，也是唯一知道他们在哪儿的人。
-a dork = 呆头呆脑的人
-② The photograph is dorky and she uses it on purpose.
-= 那张照片傻里傻气的，她偏就故意用它。
-be dorky = 傻气的
-构词：二十世纪美国俚语，来源不确
-注意语域：口语；说别人带贬义，自嘲时是亲昵的。
+dox
+核心：（网络用语）人肉曝光：把某人的真实姓名、住址等私人信息公开出来，
+用意多半是让他挨骂或受威胁。及物动词，变形 doxed、doxing，
+也拼 doxx。名词 doxing。
+① She was doxed within an hour of the post going up and moved out that week.
+= 帖子发出一小时内她就被人肉曝光，当周就搬走了。
+dox somebody = 人肉曝光某人
+② Doxing is a criminal offence in some places and a Tuesday in others.
+= 人肉曝光在有些地方是刑事犯罪，在另一些地方不过是家常便饭。
+doxing = 人肉曝光
+构词：documents 的口语缩写 docs 变来
+注意语域：网络用语，一律贬义。
 
-dormant
-核心：休眠的：暂时不活动、但还没死 —— 说植物、火山、病毒、账户、想法。
-形容词。名词 dormancy。
-① The volcano has been dormant for two centuries and is not called extinct.
-= 那座火山休眠了两个世纪，却没人说它是死火山。
-be dormant = 休眠的
-② The account lay dormant for eleven years and then paid out to a nephew.
-= 那个账户沉寂了十一年，最后付给了一个侄子。
-lie dormant = 处于沉寂状态
-③ Dormancy in those seeds can last decades and ends with one wet spring.
-= 那些种子的休眠能持续几十年，一个多雨的春天就结束了。
-dormancy = 休眠
-构词：法语 dormir 睡
-注意别混：dormant 是暂时休眠，extinct 是彻底不再活动。
+doxology
+核心：颂荣：礼拜仪式里那段简短的赞美三一上帝的诗句或歌，
+常放在末尾。可数，复数 doxologies。
+① The service ends with a doxology that everybody can sing without the book.
+= 礼拜以一段颂荣结束，人人不看本子都会唱。
+a doxology = 颂荣
+② The doxology was sung twice because the organist had lost his place.
+= 那段颂荣唱了两遍，因为管风琴手弹丢了。
+sing a doxology = 唱一段颂荣
+构词：希腊语 doxa 荣耀 加 -logia 言辞
+注意语域：教会与礼仪用语。
 
-dormer
-核心：老虎窗：从斜屋顶上凸出来、自带小屋顶的那种窗。可数，
-常说 a dormer window。
-① The dormer lets light into a room that would otherwise have none.
-= 那扇老虎窗给一间原本毫无采光的屋子引进了光。
-a dormer = 老虎窗
-② They added two dormer windows and lost the argument about the third.
-= 他们加了两扇老虎窗，第三扇没争下来。
-a dormer window = 老虎窗
-构词：法语 dormir 睡 —— 本指卧室的窗
-注意用法：跟 a skylight 天窗不同：天窗是嵌在屋面里的。
+doxy
+核心：（古旧）情妇、轻佻女子：见于十六七世纪的文学与戏剧，
+今天只在读旧文时会遇到，带贬义与性别偏见。可数，复数 doxies。
+① The play gives the doxy the best lines and the shortest life.
+= 那出戏把最好的台词给了那个情妇角色，也给了她最短的命。
+a doxy = 情妇（古旧，贬）
+② Pamphlets of that period used doxy for any woman the writer disliked.
+= 那个时期的小册子，把作者看不顺眼的任何女人都称作这个词。
+a doxy = 轻佻女子（古旧，贬）
+构词：来源不确，十六世纪的流浪者黑话
+注意语域：古旧的贬词，收它只为读旧文时认得。
 
-dormitory
-核心：两支。一是集体宿舍：一间屋里摆好几张床（学校与旅舍里那种）；
-二是（美式）学生宿舍楼，口语缩成 a dorm。可数。
-英式还有 a dormitory town：住着大批到别处上班的人的卫星城镇。
-① The dormitory sleeps fourteen and nobody has ever slept well in it.
-= 那间宿舍睡十四个人，从没人在里面睡好过。
-a dormitory = 集体宿舍
-② She lived in a dorm for one year and in a flat with three strangers after that.
-= 她在宿舍楼住了一年，之后跟三个陌生人合租公寓。
-a dorm = 学生宿舍楼（美式口语）
-③ The village became a dormitory town when the line was electrified.
-= 铁路电气化之后，那个村子成了卫星住宅镇。
-a dormitory town = 卫星住宅镇（英式）
-构词：拉丁语 dormitorium 睡处
-注意用法：美式口语一律说 dorm。
+doyen
+核心：（正式）元老：某一行里资历最深、最受敬重的人。可数，
+女性形式是 a doyenne。常说 the doyen of something。
+① He is the doyen of the local press and still files by fax.
+= 他是本地新闻界的元老，至今还用传真发稿。
+the doyen of something = 某一行的元老
+② The doyenne of the company took the smallest part and got the best notices.
+= 那家剧团的元老演了最小的角色，评论却最好。
+a doyenne = 女元老
+构词：法语 doyen 十人之长，与 dean 同源
+注意语域：正式与新闻用语；日常说 the most senior figure。
 
-dormouse
-核心：睡鼠：小型林栖鼠类，冬眠时间极长，因《爱丽丝》里那只而出名。
-可数，复数 dormice。
-① A dormouse was found asleep in a nest box in November and left alone.
-= 十一月在巢箱里发现一只睡着的睡鼠，人们没去打扰它。
-a dormouse = 睡鼠
-② Dormice are protected and the hedge cannot be cut until October.
-= 睡鼠受保护，那道树篱十月之前不能修剪。
-dormice = 睡鼠（复数）
-构词：可能与法语 dormir 睡有关
-注意用法：复数不规则：dormice，跟 mouse／mice 一路。
+doze
+核心：打盹：短暂而不深的睡。不及物动词，也作名词。
+doze off 是「不知不觉睡着」，多用在不该睡的场合。
+① He dozed through the second half and woke when the crowd stood up.
+= 下半场他一直打盹，观众起身时才醒。
+doze = 打盹
+② She dozed off in the waiting room and missed her name being called twice.
+= 她在候诊室睡着了，名字被叫了两遍都没听见。
+doze off = 不知不觉睡着
+③ A doze after lunch is the only thing he defends without argument.
+= 午饭后打个盹，是他唯一不容商量地维护的事。
+a doze = 一次打盹
+构词：可能来自北欧语，与「昏睡」有关
+注意别混：doze 是浅睡片刻，nap 更常说有意去睡的午觉。
 
-dorsal
-核心：（解剖学）背侧的：靠近背部那一面 —— 跟 ventral（腹侧的）成对。
-形容词，副词 dorsally。最常见的搭配是 a dorsal fin 背鳍。
-① The dorsal fin broke the surface twice and the whole boat stood up.
-= 背鳍两次划破水面，全船的人都站了起来。
-a dorsal fin = 背鳍
-② The muscle attaches dorsally and the diagram shows it from the wrong side.
-= 那块肌肉附着在背侧，图上却是从另一面画的。
-attach dorsally = 附着在背侧
-构词：拉丁语 dorsum 背
-注意别混：dorsal 背侧，ventral 腹侧。
+dozen
+核心：一打、十二个。可数，但前面有数词时不加 s：two dozen eggs。
+说「好多」时用复数：dozens of people。
+习语 a baker's dozen 是十三个（面包师多给一个），
+talk nineteen to the dozen 是英式的「说个不停」。
+① Two dozen eggs went into the cake and eleven people said it was dry.
+= 那个蛋糕用了两打鸡蛋，十一个人说它干。
+two dozen = 两打
+② Dozens of people wrote in and the department replied to four.
+= 几十个人来信，部门回了四封。
+dozens of people = 几十个人
+③ They gave him a baker's dozen and charged for twelve.
+= 他们给了他十三个，只收十二个的钱。
+a baker's dozen = 十三个
+④ She talks nineteen to the dozen and misses nothing anybody else says.
+= 她说起话来没个停，别人说的话却一句不漏。
+talk nineteen to the dozen = 说个不停（英式）
+构词：古法语 dozeine，来自 douze 十二
+注意用法：数词后面不加 s（three dozen），说「几十」才用 dozens of。
 
-dory
-核心：两支。一是平底小渔船：两头尖、干舷高，北大西洋渔业里用；
-二是鱼名 John Dory：一种侧扁的海鱼，餐桌上常见。可数，复数 dories。
-① The dory was launched off the deck of a bigger boat and rowed by two men.
-= 那条平底渔船是从大船甲板上放下去的，由两个人划。
-a dory = 平底小渔船
-② John Dory is expensive because most of the fish is head and bone.
-= 海鲂之所以贵，是因为这鱼大半是头和骨头。
-John Dory = 海鲂（一种食用海鱼）
-构词：船名来自美洲原住民语；鱼名来自法语 dorée「镀金的」
-注意用法：说鱼时几乎总用全称 John Dory。
+dozy
+核心：两支。一是昏昏欲睡的：说人困得反应慢；
+二是（英式口语）说人「迟钝、糊涂」，语气轻，带责备。形容词。
+① The room was warm and everybody was dozy by the third speaker.
+= 屋里暖和，到第三位讲者时人人都昏昏欲睡。
+be dozy = 昏昏欲睡的
+② Some dozy so-and-so had put the recycling out on the wrong day.
+= 哪个糊涂虫把回收垃圾在错的日子放了出去。
+dozy = 糊涂的（英式口语）
+构词：doze 加 -y
+注意语域：说人糊涂那一支是英式口语，不算重话但也不客气。
 
-dos and don'ts
-核心：注意事项：该做的与不该做的，成对说。只用复数，
-常说 the dos and don'ts of something。撇号的位置有几种写法，
-今天最常见的是 dos and don'ts。
-① The leaflet lists the dos and don'ts of visiting and gets the times wrong.
-= 那份传单列出了探视的注意事项，时间却写错了。
-the dos and don'ts of something = 某事的注意事项
-② She wrote out the dos and don'ts on the back of an envelope.
-= 她把该做的和不该做的写在了一个信封背面。
-dos and don'ts = 该做的与不该做的
-构词：do 与 don't 的复数
-注意用法：也写作 do's and don'ts，两种写法都见得到。
+drab
+核心：两支。一是（颜色）灰暗单调的：说房间、天气、衣着毫无生气；
+二是（生活、日子）乏味的。形容词，名词 drabness。
+另有一个固定说法 in dribs and drabs：零零星星地、一点一点地来。
+① The office is drab in a way that no amount of new furniture will fix.
+= 那间办公室灰暗单调，再添多少新家具也救不回来。
+be drab = 灰暗单调的
+② The drabness of that winter is the only thing everybody agrees about.
+= 那个冬天有多沉闷，是唯一人人有共识的事。
+drabness = 沉闷、灰暗
+③ The replies came in dribs and drabs and stopped altogether in March.
+= 回音零零星星地来，到三月就完全断了。
+in dribs and drabs = 零零星星地
+构词：可能来自法语 drap 布料 —— 未染色的粗布颜色
+注意用法：说颜色与说生活共用一个词，靠上下文分。
 
-dosage
-核心：用药剂量与用法：吃多少、隔多久吃一次 —— 说的是整套安排，
-比单次的 a dose 更抽象。可数不可数都行。
-① The dosage was halved and the side effects went away within a week.
-= 剂量减半，一周内副作用就没了。
-the dosage = 用药剂量
-② Nobody had explained the dosage and the label assumed you already knew.
-= 没人讲过用法用量，标签上默认你已经知道。
-explain the dosage = 讲清用法用量
-构词：dose 加 -age
-注意别混：dosage 是整套用法用量，a dose 是一次的量。
+drachma
+核心：德拉克马：希腊在欧元之前的货币单位，也指古希腊的银币。可数，
+复数 drachmas 或 drachmae。
+① Prices were still quoted in drachmas for two years after the euro arrived.
+= 欧元来了之后，价格还用德拉克马标了两年。
+a drachma = 德拉克马
+② A silver drachma from that period buys a house at auction now.
+= 那个时期的一枚银币，如今在拍卖会上够买一栋房子。
+a silver drachma = 一枚银德拉克马
+构词：希腊语 drachme，本指「一把（谷物）」
+注意语域：历史与钱币收藏语境里用。
 
-dose
-核心：三支。一是一次的药量（a dose of medicine）；
-二是「一份、一通」：a dose of reality 是「让人清醒的一记」；
-三是口语的「一场小病」（a dose of flu）。可数，也作动词。
-习语 like a dose of salts 是英式的「快得很」。
-① Take one dose at night and another only if the pain comes back.
-= 晚上服一剂，疼再犯了才服第二剂。
-a dose = 一剂、一次的量
-② The trip was a dose of reality that six months of meetings had not managed.
-= 那趟出行给了一记清醒，六个月的会都没做到。
-a dose of reality = 让人清醒的一记
-③ He had a dose of flu in January and blamed it on one particular train.
-= 他一月得了场流感，赖在某一趟火车上。
-a dose of flu = 一场流感
-构词：希腊语 dosis 给予的量
-注意别混：dose 是一次的量，dosage 是整套用法。
+draconian
+核心：严酷得离谱的：说法律、惩罚、措施重得不合情理 —— 一律贬义。
+形容词，首字母今天多小写。
+名字来自古雅典立法者德拉古，据说他的法几乎条条都判死刑。
+① The penalties are draconian and the offence they punish is parking.
+= 那些处罚严酷得离谱，而被罚的不过是违章停车。
+draconian penalties = 严酷的处罚
+② Draconian measures were announced on a Friday and quietly softened by Monday.
+= 严厉措施周五宣布，到周一就悄悄放宽了。
+draconian measures = 严厉措施
+构词：古雅典立法者 Draco 的名字
+注意语域：一律贬义；中性地说严格用 strict、tough。
 
-dosh
-核心：（英式口语，旧）钱：语气轻松，多见于口语与旧俚语。不可数。
-① They had no dosh left by the Wednesday and three days of holiday to go.
-= 到周三他们的钱就没了，假期还剩三天。
-dosh = 钱（英式口语）
-② He earns decent dosh and complains about it in the same sentence.
-= 他挣得不少，抱怨也在同一句话里。
-decent dosh = 不少的钱
-构词：二十世纪英式俚语，来源不确
-注意语域：英式口语、偏旧；正式说 money。
+draft
+核心：四支（美式还兼了英式 draught 的几个义项）。
+一是草稿：a first draft 是初稿，动词是「起草」；
+二是（美式）征兵：be drafted 是被征召入伍，被征的人是 a draftee；
+三是（美式）职业体育的选秀（the draft）；
+四是银行汇票（a banker's draft）。
+制图员美式写 a draftsman，英式写 a draughtsman。
+① The first draft was written in a weekend and rewritten eleven times.
+= 初稿是一个周末写出来的，后来改了十一遍。
+a first draft = 初稿
+② She drafted the letter and let somebody else sign it.
+= 信是她起草的，署名的是别人。
+draft something = 起草某物
+③ He was drafted at nineteen and taught to type instead of to shoot.
+= 他十九岁被征召入伍，学的是打字而不是打枪。
+be drafted = 被征召入伍（美式）
+④ The draftee list was posted on the door of the town hall.
+= 应征名单贴在市政厅的门上。
+a draftee = 应征入伍者（美式）
+⑤ Payment was made by banker's draft because nobody trusted the cheque.
+= 因为没人信那张支票，付款是用银行汇票办的。
+a banker's draft = 银行汇票
+⑥ The draftsman who drew those plans signed them in the corner in pencil.
+= 画那些图纸的制图员，用铅笔在角上签了名。
+a draftsman = 制图员（美式拼法）
+英式写 draughtsman；说画技高明的画家也用这个词。
+⑦ The draft board sent him a draft card and he became a draft dodger by staying in Canada.
+= 征兵委员会给他寄了应征卡，他留在加拿大，就此成了逃兵役的人。
+a draft board = 征兵委员会（美式）
+a draft card = 应征卡
+a draft dodger = 逃避兵役者
+a draft pick = 选秀权（美式体育）
+越战时期的美国语境里，这几个词到处都是。
+⑧ The drafter of that clause and the draftsperson who drew the plan never met.
+= 起草那个条款的人，跟画那张图的制图员从没见过面。
+a drafter = 起草者
+a draftsperson = 制图员（不分性别的说法）
+a draftswoman = 女制图员
+draftsmanship = 制图或起草的功夫
+drafty = 四处漏风的（美式拼法）
+英式对应的一族写 draught-：draughtsperson、draughty。
+构词：draw 的一个变体形式 —— 「拉出来」的东西
+注意用法：草稿与汇票两支英美同形；征兵与选秀是美式。
 
-doss
-核心：（英式口语）凑合睡、混日子：doss down 是随便找个地方睡，
-doss about 是无所事事地混。不及物动词，也作名词。
-睡便宜旅舍的人叫 a dosser，那种旅舍叫 a dosshouse（都偏旧、带贬义）。
-① They dossed down on the floor of a friend's flat for most of that summer.
-= 那个夏天大半时间，他们都凑合睡在朋友家的地板上。
-doss down = 凑合睡一晚
-② He dossed about for a year and came back knowing exactly what he wanted.
-= 他混了一年，回来时清清楚楚知道自己要什么。
-doss about = 无所事事地混
-③ The dosshouse took a shilling a night and asked no questions at all.
-= 那家廉价客栈一晚收一先令，什么也不问。
-a dosshouse = 廉价客栈（英式，旧）
-a dosser = 睡便宜客栈的人；也指流浪汉
-两个词今天都带冒犯，说无家可归者要用 a homeless person。
-构词：可能来自古法语 dos 背
-注意语域：英式口语；说无家可归者时 dosser 带冒犯，今天避免使用。
+draftee
+核心：应征入伍者：被征召而非自愿参军的人。可数，美式用语。
+① Draftees and volunteers were trained together and paid differently.
+= 应征的和志愿的一起受训，拿的钱却不一样。
+a draftee = 应征入伍者
+② Most of the draftees came from two counties and nobody explained why.
+= 应征者大多来自两个县，没人解释为什么。
+draftees = 应征入伍者（复数）
+构词：draft 加 -ee，受动者后缀
+注意语域：美式；英国实行义务兵役时说 a conscript。
 
-dossier
-核心：卷宗：关于某人某事的一整套材料。可数，法语借词，
-常说 a dossier on somebody。
-① The dossier ran to four hundred pages and named her twice.
-= 那份卷宗有四百页，提到她两次。
-a dossier on somebody = 关于某人的卷宗
-② They compiled a dossier of complaints and delivered it by hand.
-= 他们汇编了一份投诉卷宗，亲手送了过去。
-compile a dossier = 汇编卷宗
-构词：法语 dossier，本指带标签背脊的文件夹
-注意语域：新闻、情报与法律语境里最常见。
+drag
+核心：六支。一是拖：费劲地拉着走（drag a chair）；
+二是时间「拖沓难挨」（the afternoon dragged）；
+三是 drag on 是拖着不结束，drag your feet 是故意拖延；
+四是名词的「累赘、扫兴的人或事」（a drag）；
+五是口语的「抽一口烟」（take a drag）；
+六是男扮女装的表演（in drag、a drag queen）。
+物理上 drag 还指空气阻力。双写 g：dragged、dragging。
+① He dragged the chair across the room and left two marks in the floor.
+= 他把椅子拖过房间，地板上留下两道印子。
+drag something = 拖动某物
+② The meeting dragged on for another hour after the decision had been taken.
+= 决定做出之后，会议又拖了一个钟头。
+drag on = 拖着不结束
+③ The department dragged its feet for two years and then acted in a week.
+= 那个部门拖了两年，最后一周之内就办完了。
+drag your feet = 故意拖延
+④ Filling in that form twice a year is a drag and nobody has changed it.
+= 一年填两回那张表实在烦人，却没人改过它。
+be a drag = 烦人、扫兴的事
+⑤ She took one drag and put the cigarette out on the step.
+= 她抽了一口，把烟在台阶上摁灭了。
+take a drag = 抽一口烟
+⑥ The show is performed in drag and sells out every night of its run.
+= 那台演出是反串表演，整轮演出场场满座。
+in drag = 男扮女装地
+⑦ The drag queen who hosted it kept the whole room in order for four hours.
+= 主持那场的变装皇后，把全场镇住了四个钟头。
+a drag queen = 变装皇后
+男扮女装的表演者；对应的 a drag king 是女扮男装。
+⑧ They dragged the meeting out, dragged in two irrelevant reports and dragged up a decision from 1998.
+= 他们把会拖长，扯进两份不相干的报告，还翻出一九九八年的一项决定。
+drag something out = 把某事拖长
+drag something in = 硬扯进某个话题
+写作 drag in、drag out、drag up、drag into：宾语放中间放后面都行。
+drag something up = 翻出陈年旧事
+drag somebody into something = 把某人拖进某事
+三个都带贬义：拖时间、扯闲篇、翻旧账。
+⑨ The afternoon dragged by, the drag lift was closed, and the drag race was rained off.
+= 那个下午难挨得很，拖牵索道关着，直线竞速也被雨浇了。
+drag by = （时间）难挨地过去
+a drag lift = 滑雪场的拖牵索道
+a drag race = 直线加速赛
+drag by 说时间，drag on 说事情不结束。
+⑩ Drag-and-drop was meant to make it simpler and dragged the whole training day down.
+= 拖放操作本是为了让事情简单，却把整天的培训拖垮了。
+drag-and-drop = 拖放操作
+drag somebody down = 把某人拖垮、拖累
+drag down 既说人被拖累，也说数据被拉低。
+⑪ It took two hours to drag the truth out of him and four words to say it.
+= 从他嘴里把实话套出来花了两个钟头，那实话只有四个字。
+drag something out of somebody = 从某人嘴里把话套出来
+写作 drag out of，多说不情愿说出口的话。
+构词：古北欧语 draga 拉
+注意用法：drag queen 是男扮女装的表演者，是这一支最常见的说法。
 
-dot
-核心：点：小圆点，也说句点与网址里的那个点（dot com）。
-名词动词同形：dot 作动词是「星星点点地布满」（dotted with something）。
-两个说法要记：on the dot 是「准时不差」，
-dot the i's and cross the t's 是「把细节一一抠清楚」。
-形容词 dotted 说带点的（a dotted line）。
-① He arrives at nine on the dot and leaves before anybody notices.
-= 他九点整到，走的时候没人察觉。
-on the dot = 准时不差
-② The hillside is dotted with sheep and one very determined tent.
-= 山坡上星星点点是羊，还有一顶极顽强的帐篷。
-be dotted with something = 星星点点布满某物
-③ Sign along the dotted line and post the top copy back to us.
-= 沿虚线签字，把上面那联寄回给我们。
-a dotted line = 虚线
-④ Somebody has to dot the i's and cross the t's before this goes to the lawyers.
-= 送去律师那儿之前，总得有人把细节一一抠清楚。
-dot the i's and cross the t's = 把细节抠清楚
-⑤ The dot matrix printer is still in the corner and still works.
-= 那台点阵打印机还在角落里，也还能用。
-a dot matrix printer = 点阵打印机
-靠针击色带打字，声音很大，如今只在开票据的地方还见得到。
-构词：古英语 dott 小点
-注意用法：网址里读作 dot：说 example dot com。
+dragée
+核心：糖衣小球：包着糖衣或银箔的小糖果与药丸 ——
+蛋糕上那种银色小珠就是。可数，法语借词，也写作 dragee。
+① The cake was covered in silver dragées and one of them broke a tooth.
+= 蛋糕上撒满银色糖珠，有一颗把牙硌坏了。
+a dragée = 糖衣小球
+② Dragees were once used to make bitter pills possible to swallow.
+= 糖衣小球从前是用来让苦药丸能咽下去的。
+dragees = 糖衣丸（复数）
+构词：法语 dragée，来自希腊语 tragemata 甜食
+注意用法：烘焙与制药两个语境里都用它。

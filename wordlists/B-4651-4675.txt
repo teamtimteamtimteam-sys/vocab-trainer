@@ -1,647 +1,571 @@
-class
-核心：六支，共同点是归成一类。一是班级与一堂课。二是
-社会阶层，这一支在英国的社会评论里极常见。三是种类与
-等级：first class 是头等。四是口语的有格调，形容词
-classy。五是动词的归类。派生：classmate 同班同学、
-classroom 教室、classwork 课堂作业、classless 无阶级的、
-classlessness 无阶级状态。可数。
-① The class starts at nine and the door is locked at five past.
-= 课九点开始，九点零五就锁门。
-a class = 一堂课；班级
-② Talking in class is not allowed, but nobody enforces it after March.
-= 课堂上不许讲话，不过三月以后就没人管了。
-in class = 在上课
-③ He grew up working class and has never pretended otherwise.
-= 他出身工人阶级，从没装作不是。
-working class = 工人阶层
-④ They travelled first class and complained about the sandwiches anyway.
-= 他们坐的是头等舱，照样嫌三明治不好。
-first class = 头等
-⑤ She has real class, and it shows most when things go wrong.
-= 她真有格调，越是出岔子越看得出来。
-have class = 有格调
-⑥ It is a classy restaurant that does not put prices on the menu.
-= 那是家高档餐厅，菜单上不标价钱。
-classy = 有格调的
-⑦ Whales are classed as mammals, which surprises people every time.
-= 鲸被归为哺乳动物，每次说起都有人吃惊。
-be classed as = 被归为
-⑧ My classmate lent me the book and has been asking for it since.
-= 同学把书借给我，从那以后一直在讨。
-a classmate = 同班同学
-⑨ The classroom was empty except for a chair on top of a desk.
-= 教室里空空的，只有一把椅子倒扣在课桌上。
-a classroom = 教室
-⑩ Finish the classwork first and the homework will take half the time.
-= 先把课堂作业做完，家庭作业能省一半时间。
-classwork = 课堂作业
-⑪ They imagined a classless society and built a very stratified one.
-= 他们设想一个无阶级的社会，造出来的却等级森严。
-classless = 无阶级的
-⑫ Classlessness was the stated goal of a party led by three dukes.
-= 一个由三位公爵领导的政党，宣称目标是消灭阶级。
-classlessness = 无阶级状态
-⑬ Heroin is a class A drug and the sentences reflect that.
-= 海洛因属甲类毒品，量刑也相应地重。
-a class A drug = 甲类管制毒品（英式分级）
-等级那一支在法规文本里按字母分级。
-⑭ They filed a class action on behalf of eleven thousand customers.
-= 他们代表一万一千名客户提起了集体诉讼。
-a class action = 集体诉讼
-⑮ The novel is very class-conscious and rather pleased with itself.
-= 这部小说的阶级意识很强，也颇为自得。
-class-conscious = 阶级意识强的
-⑯ Class-consciousness runs through his work from the first page onwards.
-= 阶级意识从第一页起就贯穿他的作品。
-class-consciousness = 阶级意识
-⑰ Class struggle is central to the theory and awkward for the practice.
-= 阶级斗争是这套理论的核心，实践起来却很棘手。
-class struggle = 阶级斗争
-阶级那一支的复合词多出自社会理论。
-⑱ The tax was called class war by the papers that opposed it.
-= 反对这项税的报纸把它叫作阶级战争。
-class war = 阶级战争
-⑲ Critics called it class warfare and the phrase stuck for a generation.
-= 批评者称之为阶级斗争，这说法流行了一代人。
-class warfare = 阶级斗争的做法
-⑳ He plays the class warrior while sending his children to private school.
-= 他扮演阶级斗士，孩子却送进了私立学校。
-a class warrior = 阶级斗士（多带讥讽）
-这一族里带 war 的几个都语气重，用时看立场。
-构词：拉丁语 classis 罗马公民的等级
-注意用法：阶层那一支在英国的社会评论里极常见。
+cliff
+核心：悬崖：陡直的岩壁，多在海边。派生一族：clifftop 是
+崖顶，cliffhanger 是故事在最紧张处收住的结尾，形容词
+cliffhanging。可数。
+① The path runs along the cliff and loses a foot of itself every winter.
+= 小路沿着悬崖走，每年冬天都被削掉一英尺。
+a cliff = 悬崖
+② They walked the clifftop path in wind that took their breath away.
+= 他们走崖顶那条路，风大得让人喘不上气。
+a clifftop = 崖顶
+③ The episode ended on a cliffhanger and the series was then cancelled.
+= 那一集结在吊人胃口的地方，剧集随后就被砍了。
+a cliffhanger = 吊在紧张处的结尾
+④ It was a cliffhanging finish decided by a single point.
+= 那是个吊足人心的结尾，一分定的胜负。
+cliffhanging = 吊人心的
+构词：古英语 clif
+注意用法：cliffhanger 在影视与选战报道里都常读到。
 
-classic
-核心：三支。一是公认的经典之作。二是典型的、最能代表
-那一类的：a classic case of 是典型的一例，这一支在评论
-与医学描述里极常用。三是名词的经典款。大写的 Classics
-指古希腊罗马的古典学。可数。
-① The film is a classic and the bag on the poster is a design classic.
-= 这部电影是经典，海报上那只包也是设计经典款。
-a classic = 经典之作
-a design classic = 设计经典款
-② It is a classic case of overreach and everybody saw it coming.
-= 这是典型的力有不逮，人人都料到了。
-a classic case of = 典型的一例
-③ She read Classics at Oxford and works in insurance.
-= 她在牛津念古典学，现在做保险。
-Classics = 古希腊罗马古典学
-④ He restores classic cars and drives a fifteen-year-old hatchback.
-= 他修复老爷车，自己开的是辆十五年的两厢车。
-a classic car = 老爷车
-构词：拉丁语 classicus 头等的
-注意别混：这个是经典与典型，classical 侧重古典时期。
+climactic
+核心：到达高潮的：说故事、乐曲、事件里最紧张最关键的
+那一处。注意跟 climatic 气候的只差一个字母，是常见的
+打字错。
+① The climactic scene lasts ten minutes and has no dialogue at all.
+= 高潮那一场有十分钟，一句台词都没有。
+a climactic scene = 高潮场面
+② The music grows climactic and then stops on a single note.
+= 音乐渐入高潮，最后停在一个音上。
+climactic = 到达高潮的
+构词：由表示高潮的那个名词加形容词后缀
+注意别混：climatic 是气候的，只差一个字母。
 
-classical
-核心：三支。一是古典音乐的，跟流行与爵士相对。二是古
-希腊罗马的。三是学科里经典而非现代的那一套：
-classical physics 是经典物理，跟量子物理相对。副词
-classically。
-① She prefers classical music and has been to one concert in three years.
-= 她更喜欢古典音乐，三年里去过一场音乐会。
-classical music = 古典音乐
-② The temple is classical in style and was built in 1904.
-= 那座神庙是古典式的，建于一九零四年。
-classical = 古希腊罗马的
-③ Classical physics fails at that scale and something stranger takes over.
-= 在那个尺度上经典物理不管用，接手的是更古怪的东西。
-classical physics = 经典物理
-④ He was classically trained and plays in a rock band four nights a week.
-= 他受的是古典训练，一周有四晚在摇滚乐队里演出。
-classically = 按古典路子地
-构词：由表示头等的那个词加形容词后缀
-注意别混：classic 是经典与典型，这个侧重古典体系。
+climate
+核心：两支。一是气候：一个地区长期的天气状况，跟
+weather 分开——weather 是今天的天，它是几十年的平均。
+二是引申的氛围与形势：the political climate 是政治
+气候。形容词 climatic，副词 climatically；学科是
+climatology，学者是 climatologist，形容词
+climatological。
+① The climate is drier inland and nothing grows without irrigation.
+= 内陆气候更干，不灌溉就什么也长不出来。
+climate = 气候
+② The political climate has shifted and the same proposal now passes easily.
+= 政治气候变了，同一份提案如今轻松就通过。
+the political climate = 政治气候
+③ They worked in a climate of fear where nobody wrote anything down.
+= 他们在恐惧的氛围中工作，谁也不敢落笔。
+a climate of fear = 恐惧的气氛
+④ Climatic change is measured over decades and argued about every winter.
+= 气候变化以几十年为尺度衡量，却每个冬天都要吵一回。
+climatic = 气候的
+⑤ The two sites differ climatically despite being ten miles apart.
+= 两处场地相距十英里，气候上却不一样。
+climatically = 在气候上
+⑥ She studies climatology and spends most of the year on a ship.
+= 她研究气候学，一年大半时间在船上。
+climatology = 气候学
+⑦ A climatologist checked the record and found two decades missing.
+= 一位气候学家核查记录，发现少了二十年的数据。
+a climatologist = 气候学家
+⑧ Climatological data go back a century here and nowhere else nearby.
+= 这里的气候资料能上溯一百年，附近别处都没有。
+climatological = 气候学的
+⑨ Climate change dominates the agenda and disappears from the budget.
+= 气候变化占据议程，却在预算里消失了。
+climate change = 气候变化
+⑩ The van has climate control that only works on the driver's side.
+= 这辆车有恒温空调，可只有驾驶座那侧管用。
+climate control = 自动恒温控制
+⑪ The store is climate-controlled and colder than the street outside.
+= 这家店有恒温系统，比外面街上还冷。
+climate-controlled = 恒温恒湿的
+⑫ They call it the climate crisis now, which changed nothing at all.
+= 如今他们改称气候危机，什么也没因此改变。
+the climate crisis = 气候危机
+⑬ The council declared a climate emergency and then approved the runway.
+= 议会宣布进入气候紧急状态，接着批准了那条跑道。
+a climate emergency = 气候紧急状态
+⑭ Students joined the climate strike and were marked absent for it.
+= 学生参加了气候罢课，被记了旷课。
+a climate strike = 气候罢课行动
+⑮ Much of central Asia has a continental climate with brutal winters.
+= 中亚大部分地区是大陆性气候，冬天极为严酷。
+a continental climate = 大陆性气候（冬冷夏热、雨水少）
+气候分类里的固定名目，跟受海洋调节的那一类相对。
+构词：希腊语 klima 地带、倾斜
+注意别混：weather 是今天的天，这个是长期的平均。
 
-classicism
-核心：古典主义：以古希腊罗马为范本的艺术与文学取向，
-讲究均衡、克制、形式规整，跟浪漫主义相对。持这种取向的
-人是 classicist，也指研究古典学的学者。不可数。
-① Classicism values restraint and distrusts anything that shouts.
-= 古典主义讲克制，对一切喧哗的东西都不信任。
-classicism = 古典主义
-② The facade is pure classicism and the back of the building is brick.
-= 那个立面是纯粹的古典主义，楼的背面却是砖墙。
-a facade = 建筑立面
-③ A classicist edited the text and argued with the poet for a year.
-= 一位古典学者编校了那部书，跟诗人争了一年。
-a classicist = 古典学者；古典主义者
-构词：由表示古典的那个词加表示主义的后缀
-注意别混：跟浪漫主义相对。
+climax
+核心：三支。一是高潮：一连串事情里最紧张、最关键的那
+一点。二是动词：达到高潮、以……收尾。三是性高潮，
+这一支是委婉说法。可数。
+① The story reaches its climax here and then takes forty pages to stop.
+= 故事在这里到了高潮，之后还用四十页才收住。
+reach a climax = 到达高潮
+② The festival climaxed with fireworks over the harbour mouth.
+= 那个节庆以港口外的烟火收场。
+climax with = 以……收场
+③ It was the climax of her career and she retired eight months later.
+= 那是她事业的顶点，八个月后她就退了。
+the climax of = ……的顶点
+构词：希腊语 klimax 梯子
+注意别混：它的形容词是 climactic，别写成 climatic。
 
-classify
-核心：两支。一是分类：按标准归成若干类。二是列为机密：
-classified documents 是机密文件，这一支在新闻里常读到。
-名词 classification；classifiable 可归类的；classifier
-分类器；classified ad 是报纸的分类广告。
-① Books are classified by subject and then by the height of the spine.
-= 书先按主题分类，再按书脊高矮排。
-classify by = 按……分类
-② The file is classified and will not be opened for another thirty years.
-= 那份档案是机密，再过三十年才会解封。
-classified = 列为机密的
-③ The classification was disputed by every museum that held a specimen.
-= 每一家藏有标本的博物馆都对那种分类法不服。
-classification = 分类
-④ Not every case is classifiable, and the ones that are not get a footnote.
-= 不是每个个案都归得了类，归不了的加个脚注。
-classifiable = 可归类的
-⑤ The classifier sorts the images faster than a person but misses the odd ones.
-= 那个分类器分图像比人快，怪的那些就漏掉了。
-a classifier = 分类器
-⑥ She placed a classified ad and sold the piano the same afternoon.
-= 她登了一条分类广告，当天下午就把钢琴卖了。
-a classified ad = 分类广告
-构词：由表示类别的那个词加表示使的词根
-注意用法：列为机密那一支在新闻里常读到。
+climb
+核心：四支。一是往上爬。二是数值上升。三是名词的一段
+爬升。四是短语动词 climb down：既是爬下来，也引申成
+公开退让、认错，名词 climbdown，这一支在政治报道里常
+读到。climber 是登山者也指攀缘植物；climbing 是攀登
+这项活动。
+① They climbed the north face in winter and turned back near the top.
+= 他们冬天攀登北壁，快到顶时折返了。
+climb = 攀登
+② Prices climbed all year and nobody could point to a single rise.
+= 价格涨了一整年，却说不出哪一次涨过。
+climb = 上升
+③ It was a steep climb and the view at the top was of cloud.
+= 那是段陡峭的爬升，登顶看到的只有云。
+a climb = 一段爬升
+④ The minister was forced to climb down in front of the same committee.
+= 大臣不得不在同一个委员会面前公开退让。
+climb down = 公开退让、认错
+⑤ The climbdown came too late to save anybody's job.
+= 这次退让来得太晚，谁的工作也没保住。
+a climbdown = 公开退让
+⑥ Two climbers reached the top and waited four hours for the third.
+= 两名登山者登顶后，等了第三个人四个钟头。
+a climber = 登山者；攀缘植物
+⑦ She took up climbing at forty and led her first route at forty-two.
+= 她四十岁开始攀岩，四十二岁第一次领攀。
+climbing = 攀登、攀岩
+构词：古英语 climban
+注意用法：退让那一支在政治报道里常读到。
 
-clatter
-核心：一堆硬东西接连相碰的乱响：盘子、蹄子、脚步声都能
-发出。动词与名词同形。
-① Plates clattered in the sink while she pretended not to be angry.
-= 她装作不生气，池子里的盘子却碰得乱响。
-clatter = 接连碰响
-② Hooves clattered on the cobbles and woke the whole street.
-= 蹄子在石板路上嗒嗒响，把整条街都吵醒了。
-cobbles = 圆石路面
-③ Someone dropped a tray and the clatter brought three people running.
-= 有人摔了托盘，那阵乱响引来三个人跑过来。
-a clatter = 一阵乱响
+clime
+核心：气候地带，几乎只用复数：多说 warmer climes、
+sunnier climes，带一点文气或戏谑，指别处的地方。文学与
+旅游文字里读到。可数。
+① They flew off to warmer climes and let the pipes freeze.
+= 他们飞去了暖和的地方，水管冻裂了也不管。
+warmer climes = 更暖的地方
+② He longed for sunnier climes and never got further than Kent.
+= 他向往阳光多的地方，最远却只到过肯特。
+sunnier climes = 阳光更多的地方
+构词：与表示气候的那个词同源
+注意用法：几乎只用复数。
+
+clinch
+核心：三支。一是最终敲定：clinch a deal 是把交易定下来，
+clinch the title 是锁定冠军，这一支最常读到。二是拳击里
+的抱缠。三是引申指相拥。clincher 是一下定胜负的那个
+理由或证据。
+① They clinched the deal on Friday after eleven weeks of getting nowhere.
+= 僵了十一周之后，他们周五把交易定了下来。
+clinch a deal = 把交易敲定
+② A late goal clinched the title for a club that had never won anything.
+= 一个补时进球，为一家从没拿过冠军的俱乐部锁定了头衔。
+clinch the title = 锁定冠军
+③ The referee broke the clinch and warned them both about holding.
+= 裁判把两人分开，就抱缠警告了双方。
+a clinch = 拳击里的抱缠
+④ That was the clincher, and nobody round the table argued after it.
+= 那一下就定了，桌边再没人反对。
+a clincher = 一下定胜负的理由
+构词：由表示收紧的那个词变体而来
+注意用法：敲定那一支最常读到。
+
+cline
+核心：连续变化的梯度：语言学与生物学里说一个特征沿着
+地域或维度渐变、中间没有明确界线。术语。可数。
+① The vowel change forms a cline running north to south.
+= 那个元音变化构成一条自北向南的渐变带。
+a cline = 连续渐变的梯度
+② There is no sharp border between the two dialects, only a cline.
+= 两种方言之间没有明确界线，只有渐变。
+a sharp border = 明确界线
+③ Body size changes along the cline with the length of the winter.
+= 体型沿着渐变带变化，跟冬天有多长对应。
+along = 沿着
+构词：希腊语 klinein 倾斜
+注意用法：语言学与生物学里的术语。
+
+cling
+核心：三支。一是紧抓不放：cling to the hope 是抱着一线
+希望。二是黏附：湿衣服贴在身上、味道留在屋里。三是说人
+过分依附，带一点嫌它的意思。三态不规则：cling－clung－
+clung。
+① She clung to the railing while the wind took the umbrella out of her hand.
+= 她死抓着栏杆，风把伞从她手里刮走了。
+cling to = 紧抓不放
+② They cling to the hope of a cure that the doctors stopped promising years ago.
+= 他们抱着能治好的希望，医生多年前就不再这么许诺了。
+cling to the hope = 抱着希望
+③ The shirt clung to his back after twenty minutes in that heat.
+= 在那种热里待了二十分钟，衬衫贴在他背上。
+cling to = 黏附在……上
+④ He is a clinging child who will not let his father out of sight.
+= 他是个黏人的孩子，一刻不让父亲离开视线。
+clinging = 过分依附的
+⑤ Cover it with cling film and leave it in the fridge overnight.
+= 用保鲜膜盖上，放冰箱过夜。
+cling film = 保鲜膜（英式）
+⑥ He clings on to the old title although the department was abolished last year.
+= 那个部门去年就撤了，他还死抱着旧头衔。
+cling on to = 死抱着不放
+⑦ The child clung to her mother's hand the whole way through the crowded market.
+= 穿过拥挤的市场，那孩子一路紧攥着母亲的手。
+clung = cling 的过去式与过去分词
+三态 cling / clung / clung，两个过去形式同形。
+构词：古英语 clingan
+注意用法：过去式与过去分词都是 clung。
+
+clinic
+核心：三支。一是诊所：医院之外的门诊机构，也指专科门诊。
+二是英式的某一段门诊时间。三是短期集训班，美式常用。
+形容词 clinical 有三义：临床的、只看事实不带感情的、
+以及说空间冷冰冰不带人气；副词 clinically；clinician
+是临床医师，跟做研究的相对。可数。
+① She works at a private clinic three days a week and teaches on the others.
+= 她一周三天在一家私人诊所上班，其余时间教书。
+a clinic = 诊所
+② The clinic runs on Tuesdays and books up within an hour of opening.
+= 那个门诊周二开，一开放一小时内就约满。
+run = 开诊
+③ He signed up for a golf clinic run by a former tour professional.
+= 他报了个高尔夫短训班，带课的是位退役的巡回赛职业球手。
+a clinic = 短期集训班（美式）
+④ Clinical trials take years, and most of the drugs never reach a pharmacy.
+= 临床试验要好几年，多数药物根本进不了药房。
+clinical trials = 临床试验
+⑤ Her tone was clinical, as though she were reading out somebody else's results.
+= 她的口气冷静得不带感情，像在念别人的化验单。
+clinical = 不带感情的
+⑥ He is clinically depressed and has been signed off work since March.
+= 他被诊断为抑郁，三月起就一直病休。
+clinically = 在临床上
+⑦ Clinicians disagreed with the researchers about what the trial data actually showed.
+= 关于试验数据到底说明什么，临床医师跟研究者意见不一。
+a clinician = 临床医师
+构词：希腊语 kline 病床
+注意用法：不带感情那一支在书评与影评里也常读到。
+
+clink
+核心：两支。一是玻璃或金属轻碰的清脆一声：clink glasses
+是碰杯。二是英式旧俚语的监狱：in the clink 是在牢里。
+可数。
+① They clinked glasses without anyone saying what for.
+= 他们碰了杯，谁也没说为什么。
+clink glasses = 碰杯
+② The spoon settled against the cup with a small clink.
+= 勺子靠到杯壁上，轻轻当了一声。
+a clink = 一声轻碰
+③ He spent a night in the clink and came out with a story.
+= 他在牢里待了一夜，出来带了个故事。
+in the clink = 在牢里（英式旧俚语）
 构词：拟声
-注意别混：clack 是单声，这个是接连的一片。
+注意语域：监狱那一支是旧俚语。
 
-clause
-核心：两支，都极常读到。一是语法上的从句与分句。二是
-法律文件里的条款：an escape clause 是免责条款。可数。
-① The sentence has two clauses and the comma between them is doing real work.
-= 那个句子有两个分句，中间那个逗号是有用处的。
-a clause = 分句、从句
-② A relative clause modifies the noun and can usually be lifted out whole.
-= 关系从句修饰那个名词，通常整段抽掉句子仍成立。
-a relative clause = 关系从句
-③ Read clause nine carefully; it undoes most of what clause four promises.
-= 第九条要仔细读，第四条许下的东西大半被它抵消了。
-a clause = 条款
-④ The escape clause saved them a sum larger than the contract was worth.
-= 那条免责条款替他们省下的钱，比合同本身的价值还大。
-an escape clause = 免责条款
-⑤ A dependent clause cannot stand on its own, however confident it sounds.
-= 从属分句自己站不住，不管它听着多理直气壮。
-a dependent clause = 从属分句
-语法术语，也说 a subordinate clause。
-构词：拉丁语 clausula 结句
-注意用法：语法与法律两个语境里都极常读到。
+clinker
+核心：两支。一是炉渣块：煤烧过后结成的硬块，也指窑里
+烧结的水泥熟料。二是美式口语的彻底失败之作。可数。
+① Clinker blocked the grate and the fire went out before morning.
+= 炉渣把炉栅堵了，天亮前火就灭了。
+clinker = 炉渣硬块
+② Cement clinker is ground fine with a little gypsum added.
+= 水泥熟料要磨细，还要掺一点石膏。
+cement clinker = 水泥熟料
+③ The film was a clinker and closed in its second week.
+= 那部片子砸透了，第二周就下线。
+a clinker = 彻底失败之作（美式口语）
+构词：荷兰语 klinker 砖，因敲起来有声
+注意语域：失败那一支是美式口语。
 
-claustrophobia
-核心：密闭恐惧：在电梯、隧道、人堆这类封闭空间里发慌、
-喘不上气。形容词 claustrophobic 既说人有这种恐惧，也说
-空间本身憋得让人发慌。不可数。
-① He suffers from claustrophobia and takes the stairs to the ninth floor.
-= 他有密闭恐惧，爬楼梯上九层。
-claustrophobia = 密闭恐惧
-② The lift felt claustrophobic with four people and a trolley in it.
-= 四个人加一辆推车，电梯里闷得让人发慌。
-claustrophobic = 让人发慌的（说空间）
-③ She is claustrophobic in tunnels but fine in a crowd.
-= 她在隧道里会发慌，在人堆里倒没事。
-be claustrophobic = 有密闭恐惧的
-构词：拉丁语 claustrum 关闭处 加希腊语表示怕的词根
-注意用法：形容词既说人也说空间，靠主语分。
+clinometer
+核心：测坡度与倾角的仪器：勘测、地质、林业里量斜面有多
+陡用它。可数。
+① The clinometer read twelve degrees, steeper than it looked.
+= 测斜仪读数十二度，比看上去陡。
+a clinometer = 测斜仪
+② Foresters use a clinometer for tree height and pace out the base.
+= 林业人员用测斜仪测树高，底边靠步子量。
+tree height = 树高
+③ Hold the clinometer level or every reading is two degrees out.
+= 测斜仪要端平，不然每个读数都差两度。
+level = 平的
+构词：希腊语 klinein 倾斜 加表示测量的词根
+注意用法：勘测与林业里的仪器名。
 
-clave
-核心：两支。一是拉美音乐里的敲击棒：两根硬木短棒对敲，
-乐器义永远成对说复数 claves。二是那种节奏型本身：它是
-萨尔萨与伦巴的节奏骨架。可数。
-① He tapped out the clave on the side of his chair.
-= 他在椅子边上敲出那个节奏型。
-the clave = 拉美音乐的节奏骨架
-② Claves cut through the band and land exactly where the dancers step.
-= 那对木棒的声音穿透乐队，正落在舞者踩点的地方。
-claves = 敲击木棒
-③ The clave sets the pattern and everything else fits round it.
-= 那个节奏型定下骨架，别的都绕着它排。
-set the pattern = 定下格式
-构词：西班牙语 clave 关键、楔子
-注意用法：乐器义永远成对说复数。
+clip
+核心：五支。一是夹子，动词是夹住。二是剪：clipped 是
+剪短的，也说口音短促生硬；clipping 是剪下的一片，也指
+报纸剪报。三是名词的片段，这一支今天最常读到。四是弹匣。
+五是英式口语的一记轻打。clipper 是修剪器，也指旧时的
+快速帆船，复数 clippers 指剪具与推剪。
+① Fix it with a paper clip until somebody finds the proper fastener.
+= 先用回形针别着，等谁找到正经的扣件再说。
+a paper clip = 回形针
+② Clip the hedge in June and again before the first frost.
+= 六月修一次树篱，头场霜前再修一次。
+clip = 剪、修剪
+③ She spoke in clipped tones that made every sentence sound like an order.
+= 她说话干脆利落，每句都像命令。
+clipped = 短促生硬的
+④ He kept a clipping from the paper in his wallet for thirty years.
+= 他把一张剪报在钱包里放了三十年。
+a clipping = 剪报；剪下的一片
+⑤ Watch this clip and tell me whether the ball crossed the line.
+= 看看这段片段，告诉我球有没有过线。
+a clip = 视频片段
+⑥ He loaded a fresh clip and put the empty one in his pocket.
+= 他换上一个新弹夹，把空的塞进口袋。
+a clip = 弹匣
+⑦ He got a clip round the ear for something his brother had done.
+= 他弟弟干的事，他挨了一记耳光。
+a clip round the ear = 打一下耳朵（英式）
+⑧ Use the clippers on the back and leave the top alone entirely.
+= 后面用推子推，上面一点别动。
+clippers = 推剪、剪具
+⑨ The slides use clip art that was already dated twenty years ago.
+= 幻灯片用的剪贴画，二十年前就过时了。
+clip art = 现成剪贴图
+⑩ Hooves went clip-clop on the road long after the cart had passed.
+= 车早过去了，路上还回响着得得的马蹄声。
+clip-clop = 马蹄的嗒嗒声
+⑪ The bar turned out to be a clip joint and the round cost forty pounds.
+= 那家酒吧原来是宰客的，一轮酒收了四十镑。
+a clip joint = 坑客的高价店
+⑫ Clip off the loose thread before it takes the whole seam with it.
+= 把线头剪掉，别让它把整条缝都拆了。
+clip off = 剪掉
+⑬ He wore a clip-on tie to every interview and got every job.
+= 他每次面试都戴夹式领带，每份工作都拿到了。
+clip-on = 夹上去的
+⑭ The clipper rounded the Cape in record time and sank on the way back.
+= 那艘飞剪船以创纪录的时间绕过好望角，回程沉了。
+a clipper = 旧时的快速帆船；也指修剪器
+构词：两支不同源：夹住出自古诺斯语，剪出自另一个旧词
+注意用法：视频片段那一支今天最常读到。
 
-clavichord
-核心：早期的键盘乐器：琴弦被小金属片顶住发声，声音极轻，
-只适合小屋里弹。跟大键琴分开：那种是拨弦，声音亮得多。
+clipboard
+核心：两支。一是写字板：一头带夹子的硬板，站着填表用。
+二是计算机上的剪贴板：复制的内容暂存在那里，这一支今天
+更常读到。可数。
+① The nurse held a clipboard and ticked things off without looking up.
+= 护士拿着写字板，头也不抬地一项项打勾。
+a clipboard = 带夹子的写字板
+② Copy the address to the clipboard before you close the page.
+= 关掉页面前，先把地址复制到剪贴板。
+the clipboard = 剪贴板
+③ The clipboard only holds one item, so paste before you copy again.
+= 剪贴板只存一项，再复制之前先粘上。
+hold = 存放
+构词：由夹子与板两个词拼成
+注意用法：计算机义今天更常读到。
+
+clique
+核心：小圈子：抱团排外的一小群人，一定带贬义，多说职场、
+学校、圈内。形容词 cliquey 或 cliquish。法语来的词，
+读作 kleek。可数。
+① A clique runs the department and the rest hear things afterwards.
+= 那个部门是一小圈人在管，其余的人都是事后才听说。
+a clique = 抱团的小圈子
+② The club feels cliquey until somebody finally learns your name.
+= 那个俱乐部让人觉得排外，直到终于有人记住你的名字。
+cliquey = 抱团排外的
+③ She was kept out of the clique and turned out to mind less than they hoped.
+= 她被那个小圈子排在外面，却没像他们指望的那样在意。
+be kept out of = 被排除在外
+构词：法语 clique 一伙人
+注意读音：读作 kleek。
+
+clitic
+核心：语言学：读音上依附在别的词上、自己不单独重读的小
+成分，英语缩略形式里那半个音节就是。术语。可数。
+① In 「he's late」 the 's is a clitic leaning on the word before it.
+= 在「he's late」里，那个 's 是个附着成分，靠在前一个词上。
+a clitic = 附着语素
+② Clitics cannot stand alone and never carry the stress of the phrase.
+= 附着成分不能单独出现，也从不承担词组的重音。
+stand alone = 单独存在
+③ Some languages attach four or five clitics to one verb.
+= 有些语言会在一个动词上附四五个这种成分。
+attach = 附加
+构词：希腊语 klinein 倾靠
+注意用法：语言学里的术语。
+
+clitoris
+核心：女性外生殖器前上方那个敏感的性器官，神经分布极密。
+形容词 clitoral。医学与性健康文字里的正式用词。可数。
+① The clitoris is densely supplied with nerves, more than anywhere else.
+= 那个器官神经分布极密，密过身上任何一处。
+the clitoris = 阴部前端的敏感器官
+② Clitoral anatomy was long under-described in the standard textbooks.
+= 标准教科书对那部分解剖长期记述不足。
+clitoral = 该器官的
+构词：希腊语 kleitoris
+注意语域：医学与性健康文字里的正式用词。
+
+cloak
+核心：三支。一是斗篷：无袖的长披风，从肩上罩下来。二是
+动词与比喻的遮掩：be cloaked in secrecy 是被严密遮着。
+三是 cloakroom：存衣处，也是英式对公共厕所的委婉说法。
 可数。
-① He keeps a clavichord in the back room and plays it after midnight.
-= 他后屋放着一台击弦古钢琴，过了午夜才弹。
-a clavichord = 击弦古钢琴
-② The clavichord is so quiet that a passing car covers it.
-= 击弦古钢琴声音极轻，一辆车开过就盖住了。
-quiet = 声音轻的
-③ Bach taught on the clavichord and could hear every uneven finger.
-= 巴赫用击弦古钢琴教学，手指哪里不匀他都听得出。
-write for = 为……写作品
-构词：拉丁语 clavis 键 加 chorda 弦
-注意别混：大键琴是拨弦的，这个是顶弦的。
+① She threw on a black cloak that reached the floor and hid her hands.
+= 她披上一件及地的黑斗篷，连手都遮住了。
+a cloak = 斗篷
+② The deal was cloaked in secrecy until the accounts had to be filed.
+= 那笔交易一直捂得很严，直到账目非报不可。
+be cloaked in = 被……遮掩着
+③ A cloaked figure waited outside in weather that explained the cloak.
+= 一个披着斗篷的人在外面等，那天气正好解释了斗篷。
+cloaked = 披着斗篷的；遮掩着的
+④ Leave your coat in the cloakroom and take the ticket with you.
+= 外套存在存衣处，票自己拿着。
+a cloakroom = 存衣处；也是英式对厕所的委婉说法
+⑤ The whole plan was cloak-and-dagger and could have been done by email.
+= 整个计划搞得像谍战，其实发封邮件就成了。
+cloak-and-dagger = 间谍式神秘行事的
+构词：晚期拉丁语 clocca 钟，因斗篷张开像钟形
+注意用法：cloakroom 的厕所义是英式委婉说法。
 
-clavicle
-核心：锁骨：从肩到胸骨那根细长的骨头，摔倒撑手时最容易
-断的一根。医学用词，日常说 collarbone。可数。
-① He broke his clavicle coming off the bike and rode again in six weeks.
-= 他从车上摔下来断了锁骨，六周后又骑上了。
-a clavicle = 锁骨
-② The clavicle joins the shoulder to the sternum and takes the whole load.
-= 锁骨把肩与胸骨连起来，整个受力都在它身上。
-the sternum = 胸骨
-构词：拉丁语 clavicula 小钥匙，因形状像
-注意语域：医学用词，日常说 collarbone。
+clobber
+核心：两支，都是英式口语。一是动词：狠揍一顿，也引申成
+把某人整得很惨。二是名词：衣服与随身家当，不可数。
+① He got clobbered in the ring and was still smiling afterwards.
+= 他在拳台上被打得很惨，下来还笑着。
+clobber = 狠揍
+② Small firms were clobbered by the rise and half of them shut.
+= 那次上涨把小公司整得很惨，一半都关了门。
+be clobbered by = 被……整得很惨
+③ Bring your walking clobber and something dry to change into.
+= 把徒步的家当带来，再带套干衣服换。
+clobber = 衣服与随身家当（英式口语）
+构词：来历不确定，二十世纪的英式口语
+注意语域：两义都是英式口语。
 
-claw
-核心：三支。一是爪：猫、鸟的钩爪，蟹与虾的钳也叫它。
-二是动词：用爪抓、抓挠。三是引申的一点点夺回来：
-claw back 是把给出去的钱或优势收回来，名词 clawback，
-这一支在财经与政策文字里常读到。
-① The cat sharpened its claws on the one chair nobody was allowed to sit in.
-= 猫专挑那把谁都不许坐的椅子磨爪子。
-a claw = 爪
-② The crab has one big claw and drags the other along behind it.
-= 那只蟹有一只大钳，另一只拖在后面。
-a claw = 螯钳
-③ She clawed at the door until her fingers bled and still it held.
-= 她拼命抓那扇门，抓到手指出血，门还是没开。
-claw at = 拼命抓挠
-④ The treasury clawed back the subsidy from everyone who had earned over the limit.
-= 财政部把补贴从所有超过限额的人手里收了回去。
-claw back = 收回、追回
-⑤ The clawback applies from April and catches last year's payments too.
-= 那项追回从四月起执行，去年发的款也算在内。
-a clawback = 追回条款
-⑥ Use the claw hammer to pull the nail rather than levering with a screwdriver.
-= 用羊角锤把钉子拔出来，别拿螺丝刀撬。
-a claw hammer = 羊角锤
-构词：古英语 clawu
-注意用法：追回那一支在财经与政策文字里常读到。
+cloche
+核心：两支。一是园艺的钟形罩：扣在幼苗上防霜保温的玻璃
+或塑料罩。二是钟形女帽：上世纪二十年代流行的那种紧贴头
+的帽子。法语的钟。可数。
+① Put a cloche over the seedlings and lift it on warm afternoons.
+= 幼苗上扣个保温罩，暖和的下午掀开。
+a cloche = 园艺保温罩
+② The cloche keeps frost off but cooks everything if you forget it.
+= 那个罩子挡霜，可忘了掀就把苗全焖坏。
+keep off = 挡开
+③ She wore a cloche hat pulled down to her eyebrows.
+= 她戴着钟形帽，帽檐压到眉毛。
+a cloche hat = 钟形女帽
+构词：法语 cloche 钟
+注意用法：园艺与时装两个语境里都读得到。
 
-clay
-核心：黏土：细而黏的土，湿了可塑、烧了变硬，是陶瓷与砖
-的原料。也指网球的红土场地：on clay 是固定说法。习语
-feet of clay 是说被崇拜的人原来也有致命弱点。形容词
-clayey。不可数。
-① The pot is fired clay and rings like a bell when you tap it.
-= 那个罐是烧过的黏土做的，一敲像铃一样响。
-clay = 黏土
-② She plays best on clay, where the ball sits up and rallies run long.
-= 她在红土场上打得最好，那里球弹得高，来回拉得长。
-on clay = 在红土场上
-③ The hero had feet of clay, and the biography spent three chapters proving it.
-= 那个英雄也有致命弱点，传记用了三章来证明。
-feet of clay = 被崇拜者的致命弱点
-④ The soil here is clayey and holds water long after the rain stops.
-= 这儿的土是黏土质的，雨停很久还存着水。
-clayey = 黏土质的
-⑤ The tournament is on clay courts, which suits players who grew up in Spain.
-= 那场比赛在红土场打，对在西班牙长大的球员有利。
-a clay court = 红土球场
-⑥ He shoots clay pigeons on Saturdays and keeps the scores in a notebook.
-= 他周六打飞碟靶，把成绩记在本子上。
-a clay pigeon = 飞碟靶
-⑦ Clay pigeon shooting is popular here because the ground is too wet for football.
-= 飞碟射击在这儿很流行，因为地太湿踢不了球。
-clay pigeon shooting = 飞碟射击
-构词：古英语 clæg
-注意用法：网球语境里 on clay 是固定说法。
+clock
+核心：四支。一是钟：挂着或摆着的计时器，跟手表分开。
+二是动词的计时与测速。三是英式口语的看见、注意到。
+四是里程表。派生：clockwise 顺时针的，clockwork 钟表
+发条机械，like clockwork 是准得像钟表一样；clocker 是
+计时员。可数。
+① The clock struck twelve and the whole house woke except the baby.
+= 钟敲了十二下，全家都醒了，只有婴儿没醒。
+a clock = 钟
+② She was clocked at ninety on a road with a fifty limit.
+= 她在限速五十的路上被测出时速九十。
+be clocked at = 被测到（速度）
+③ I clocked him leaving by the side door about ten minutes early.
+= 我看见他提前十分钟从侧门走了。
+clock = 看见、注意到（英式口语）
+④ Turn it clockwise until it stops and then give it a quarter turn back.
+= 顺时针拧到底，再往回拧四分之一圈。
+clockwise = 顺时针的
+⑤ Everything ran like clockwork until the caterers went to the wrong address.
+= 一切都像钟表一样准，直到宴席承办商跑错了地址。
+like clockwork = 极有规律、极顺
+⑥ The toy has a clockwork motor and a key that has been lost for years.
+= 这玩具有个发条马达，钥匙已经丢了好些年。
+clockwork = 钟表发条机械
+⑦ A clocker timed each lap and read the numbers out to nobody in particular.
+= 一名计时员给每一圈计时，对着空气报数。
+a clocker = 计时员
+⑧ Staff clock in at seven and are not paid for the ten minutes before.
+= 员工七点打卡，之前那十分钟是没工钱的。
+clock in = 打卡上班（英式）
+打卡一族英美分工：英式 in / off，美式 in / out。
+⑨ She clocked off early and was seen by the one person who reports it.
+= 她提早下班打卡，偏偏被那个爱打小报告的人看见了。
+clock off = 打卡下班（英式）
+⑩ He clocks on at six and has done for twenty-two years.
+= 他六点上班打卡，这样干了二十二年。
+clock on = 打卡上工（英式）
+⑪ Clock out before you leave or the system marks you absent all day.
+= 走之前记得打卡下班，否则系统会记你全天缺勤。
+clock out = 打卡下班（美式）
+⑫ The clock radio woke him with a station he had never tuned in.
+= 闹钟收音机放着一个他从没调过的台把他吵醒了。
+a clock radio = 带收音机的闹钟
+⑬ Clock speed is not everything, as anyone who has waited on a disk knows.
+= 主频不是一切，等过硬盘的人都懂。
+clock speed = 处理器主频
+技术义借的是钟的节拍那一层。
+⑭ The clock tower struck four and lost another two minutes doing it.
+= 钟楼敲了四下，敲的过程中又慢了两分钟。
+a clock tower = 钟楼
+⑮ He clocked up ten thousand miles in a van older than his son.
+= 他开着一辆比儿子还老的货车跑了一万英里。
+clock up = 累计达到
+说里程、说场次、说岁数都行。
+⑯ Nobody likes a clock-watcher, least of all the people covering for one.
+= 没人喜欢一心盼下班的人，替他顶班的人尤其不喜欢。
+a clock-watcher = 只等下班的人
+构词：中古荷兰语 clocke 钟
+注意别混：钟是 clock，手表是 watch。
 
-claymore
-核心：两支。一是苏格兰高地的双手大剑：刃宽柄长，历史与
-文学里的兵器名。二是现代的定向反步兵地雷，因形似得名。
-可数。
-① The claymore needed both hands and a good deal of room.
-= 那把大剑要双手才使得动，还得有足够的地方。
-a claymore = 苏格兰双手大剑
-② Claymores hung in the hall above a row of dented shields.
-= 大厅里几把大剑挂在一排凹了的盾牌上方。
-hang = 挂着
-③ A claymore mine faces one way and is set out at the treeline.
-= 定向雷只朝一个方向炸，布在林缘。
-a claymore mine = 定向反步兵雷
-构词：盖尔语 claidheamh mor 大剑
-注意用法：历史兵器与现代军械两义都读得到。
+clod
+核心：两支。一是土块：翻地时翻起来的那种成块的泥。二是
+口语的笨人，带旧气；clodhopper 是同义的旧词，也指笨重
+的大鞋。可数。
+① He kicked a clod of earth across a field that had just been ploughed.
+= 他在刚犁过的地里踢起一块土。
+a clod = 土块
+② Clods break up after rain and the whole field goes soft at once.
+= 下过雨土块就散了，整块地一下就软了。
+break up = 散开
+③ He called himself a clod and nobody at the table disagreed.
+= 他自称是个笨人，桌上没人反驳。
+a clod = 笨人（带旧气）
+④ Those clodhoppers weigh a ton and leave prints in the hall carpet.
+= 那双笨重的大鞋沉得像块铁，在门厅地毯上留下脚印。
+clodhoppers = 笨重的大鞋；也指笨人
+⑤ He called the boy a clodhopper and regretted it for thirty years.
+= 他管那孩子叫笨脚汉，为这句话后悔了三十年。
+a clodhopper = 笨手笨脚的乡下人（旧词）
+构词：与 clot 同源，本义都是团块
+注意语域：说人那两支都带旧气。
 
-clean
-核心：五支。一是干净的。二是动词的打扫、清洗，clean up
-是收拾干净也引申成整顿。三是清白没污点的：a clean
-record 是没有前科，come clean 是全都说出来。四是利落
-一气呵成的：a clean break 是干净的了断，a clean sheet
-是英式足球的零封。五是不带脏话与色情的。派生：cleaner
-清洁工与清洁剂、cleaning 打扫、cleanly 利落地。
-① The kitchen is spotlessly clean, which tells you nobody has cooked in it.
-= 厨房一尘不染，可见根本没人在里面做过饭。
-clean = 干净的
-② Clean the windows first, then do the floors while they dry.
-= 先擦窗户，趁窗子晾着的工夫拖地。
-clean = 打扫、清洗
-③ They cleaned up after the party and were finished by three in the morning.
-= 聚会后他们收拾干净，弄到凌晨三点才完。
-clean up = 收拾干净；也指整顿
-④ He has a clean record apart from a parking fine he never paid.
-= 他没有前科，只有一张一直没交的停车罚单。
-a clean record = 无前科的记录
-⑤ You had better come clean before somebody else tells them for you.
-= 趁别人替你说出来之前，你还是坦白吧。
-come clean = 全都说出来
-⑥ They made a clean break and neither has been back to the town since.
-= 他们彻底断了，此后谁也没回过那座镇子。
-a clean break = 干净的了断
-⑦ The keeper kept a clean sheet in five consecutive away matches.
-= 门将连续五场客场比赛零失球。
-a clean sheet = 零封（英式足球）
-⑧ Keep the jokes clean; there are children at the back of the hall.
-= 笑话别开黄腔，大厅后面还有小孩。
-clean = 不带脏话与色情的
-⑨ The cleaner comes on Fridays and moves everything you own.
-= 清洁工周五来，把你所有的东西都挪一遍。
-a cleaner = 清洁工；清洁剂
-⑩ Cleaning took all morning and the place looked worse by the evening.
-= 打扫花了一上午，到晚上又比原先还乱。
-cleaning = 打扫
-⑪ The bone snapped cleanly and set without needing an operation.
-= 骨头断得很齐，没动手术就长好了。
-cleanly = 利落地
-⑫ She lifted a hundred kilos in the clean and jerk at her first competition.
-= 她第一次参赛就在挺举中举起了一百公斤。
-the clean and jerk = 挺举
-举重的两个项目名都借了这个词的利落那一支。
-⑬ He has a clean-cut look that the selection panel could not resist.
-= 他一副整洁端正的模样，遴选小组无法抗拒。
-clean-cut = 样子端正利落的
-⑭ Clean down the surfaces after use and put the cloths in the wash.
-= 用完把台面擦净，抹布放进待洗的一堆里。
-clean down = 彻底擦净
-⑮ Clean eating became a trend and then a business worth billions.
-= 洁净饮食先成了风潮，后来变成了几十亿的生意。
-clean eating = 清净饮食（多带营销色彩）
-近十年的健康营销词，不是营养学术语。
-⑯ They cleaned the mud from the boots with a stick and a hose.
-= 他们用一根棍子和一根水管把靴子上的泥弄掉。
-clean from = 把……从某处清掉
-⑰ A clean-limbed young athlete led the parade in front of the mayor.
-= 一位身材匀称的年轻运动员在市长面前领队游行。
-clean-limbed = 身形匀称的（旧）
-⑱ He is a clean-living man who has never been inside a pub.
-= 他生活检点，从没进过酒吧。
-clean-living = 生活规矩的
-⑲ Clean off the label first, or the new one will never stick.
-= 先把标签弄掉，不然新的贴不牢。
-clean off = 清除掉
-⑳ They cleaned out the shed and found a bicycle nobody remembered buying.
-= 他们清空了棚子，翻出一辆谁也不记得买过的自行车。
-clean out = 清空；也指把人的钱掏光
-短语动词跟 off / out / down 搭，方向决定意思。
-㉑ He arrived clean-shaven for the first time in about fifteen years.
-= 他刮了胡子来，这大概是十五年来头一回。
-clean-shaven = 脸刮净不留须的
-㉒ They dry-clean the curtains once a decade and apologize to the shop each time.
-= 那些窗帘十年干洗一回，每回都要跟店家道歉。
-dry-clean something = 干洗某物
-标签上写 dry clean only 就是只能干洗。
-构词：古英语 clæne
-注意用法：come clean 与 a clean sheet 都很常读到。
+clog
+核心：两支。一是堵住：clogged 是堵住的，clog up 是塞满，
+这一支最常读到。二是木底鞋：整块木头挖出来的那种鞋，
+也指木底皮面的厚鞋。可数。
+① Leaves clogged the gutter and the water came in over the window frame.
+= 落叶把檐沟堵了，水从窗框上头淌了进来。
+clog = 堵住
+② The filter is clogged up and the machine draws twice the power.
+= 那个滤芯堵满了，机器耗电翻了一倍。
+clog up = 塞满堵住
+③ She wore wooden clogs that could be heard from the other end of the ward.
+= 她穿着木底鞋，病房那一头都听得见。
+clogs = 木底鞋
+④ Roads clog at five and stay that way until the schools go back.
+= 五点路就堵住了，一直堵到学校开学。
+clog = 变得堵塞
+⑤ A clog dance opened the show and woke everyone in the back row.
+= 木屐舞给演出开了场，把后排的人全吵醒了。
+a clog dance = 木底鞋踏舞
+构词：中古英语 clogge 木块
+注意用法：堵住那一支最常读到。
 
-cleanliness
-核心：讲卫生、保持干净这件事：说人的习惯也说场所的状况。
-不可数。习语 cleanliness is next to godliness 是爱洁近于
-近神，多半带一点戏谑。
-① Cleanliness matters in a kitchen more than any amount of skill.
-= 厨房里卫生比多高的手艺都要紧。
-cleanliness = 清洁、讲卫生
-② Inspectors praised the cleanliness and marked the paperwork down.
-= 检查员称赞了清洁状况，却在文书上扣了分。
-praise = 称赞
-③ Cleanliness is next to godliness, she said, handing him a cloth.
-= 她一边把抹布递过去，一边说爱洁近于近神。
-cleanliness is next to godliness = 讲卫生几乎是种德行
-构词：由表示干净的那个词加名词后缀
-注意别混：cleanly 作副词是利落地，作形容词是爱干净的。
-
-cleanse
-核心：两支。一是彻底洗净：多说皮肤与伤口；护肤品里的
-cleanser 是洁面产品。二是引申的净化、清除，语气重；
-ethnic cleansing 是种族清洗，指以暴力驱逐或杀害某个
-族群，是国际法上的严重罪行。
-① Cleanse the cut with water before you put anything else near it.
-= 在往伤口上抹别的东西之前，先用水把它洗净。
-cleanse = 彻底洗净
-② She uses a gentle cleanser and nothing else has ever agreed with her skin.
-= 她用温和的洁面产品，别的东西她皮肤都受不了。
-a cleanser = 洁面产品；清洁剂
-③ The purge cleansed the ministry of everyone who had signed the earlier report.
-= 那次清洗把签过前一份报告的人从那个部里清了个干净。
-cleanse = 清除、净化
-④ Ethnic cleansing is a crime under international law and has its own tribunal.
-= 种族清洗按国际法是犯罪，有专门的法庭审理。
-ethnic cleansing = 种族清洗
-构词：由表示干净的那个词加动词后缀
-注意语域：种族清洗那个搭配语气极重，只用于那件事本身。
-
-clear
-核心：七支，共同点是没有遮挡、没有含糊。一是清楚明白
-的。二是透明清澈的。三是没有障碍的，动词是清除、清空。
-四是清白无嫌的：be cleared of 是被判无罪。五是净得的。
-六是通过审批与检查：clear customs 是过海关。七是跳过、
-越过。派生：clearance 清除与审批许可、clearing 林中
-空地、clearly 明显地、clearness 清晰、clearway 是英式的
-禁停快速路。
-① Make your position clear before the vote, not afterwards in the corridor.
-= 投票前把你的立场讲清楚，别投完了在走廊上说。
-make it clear = 把话说明白
-② The water is clear to the bottom, and you can count the stones.
-= 水清见底，底下的石头都数得出来。
-clear = 清澈透明的
-③ Clear the table, please, and put the good glasses back in the cupboard.
-= 请把桌子收了，好杯子放回柜里。
-clear = 清除、收拾
-④ He was cleared of all charges but never got his old job back.
-= 他被宣告无罪，可原来的工作再没拿回来。
-be cleared of = 被判无罪
-⑤ They made a clear profit of thirty thousand on a house they never lived in.
-= 一套他们从没住过的房子，净赚了三万。
-a clear profit = 净利
-⑥ We cleared customs in ten minutes and lost an hour finding the car.
-= 我们十分钟就过了海关，找车却花了一小时。
-clear customs = 过海关
-⑦ She cleared the bar at two metres and knew it was her last jump.
-= 她越过两米的横杆，心里明白这是最后一跳。
-clear the bar = 越过横杆
-⑧ Security clearance took weeks, and he started work without it.
-= 安全审查拖了好几周，他没等下来就上班了。
-clearance = 审批许可；清除
-⑨ They camped in a clearing where the light reached the ground.
-= 他们在一块阳光照得到地面的林间空地上扎了营。
-a clearing = 林中空地
-⑩ She clearly disagreed, though she said nothing until the meeting ended.
-= 她显然不同意，虽然散会前一句话没说。
-clearly = 明显地
-⑪ The clearness of the recording surprised him, given the age of the tape.
-= 考虑到磁带的年头，录音的清晰程度让他吃惊。
-clearness = 清晰
-⑫ No stopping on the clearway, not even to let a passenger out.
-= 无停车道上不准停，连放个乘客下车都不行。
-a clearway = 禁停快速路（英式）
-⑬ The court applied the clear and present danger test and let the speech stand.
-= 法院适用了明显而现实的危险标准，判定那番言论可以发表。
-clear and present danger = 明显而现实的危险（美国法）
-那是美国言论自由判例里的一条标准。
-⑭ Clear away the plates and we can get the table laid again.
-= 把盘子收走，我们好重新摆桌。
-clear away = 收走、清掉
-⑮ The evidence is not clear-cut, and two juries have already failed to agree.
-= 证据并不明确，已经有两个陪审团没能达成一致。
-clear-cut = 明确无疑的
-⑯ She stayed clear-headed throughout, while everyone around her lost the plot.
-= 周围的人都乱了套，她始终头脑清醒。
-clear-headed = 头脑清楚的
-⑰ Clear off before I call someone who is paid to deal with you.
-= 趁我还没叫人来对付你，快滚。
-clear off = 走开（英式口语）
-带 off 与 out 的两个都可以是叫人走，语气不客气。
-⑱ Clear out the attic this weekend, or it will still be full at Christmas.
-= 这个周末把阁楼清空，不然到圣诞还是满的。
-clear out = 清空；也指走开
-⑲ A clear-sighted assessment is rare when everyone stands to lose money.
-= 人人都要赔钱的时候，清醒的判断就难得了。
-clear-sighted = 看得明白的
-⑳ The weather cleared up an hour after the last of them had gone home.
-= 最后一批人回家一小时后，天就放晴了。
-clear up = 转晴；也指弄清、收拾
-一个短语三个意思，靠主语与宾语分。
-㉑ The tests came back and she is in the clear, at least for now.
-= 化验结果出来了，她没事，至少眼下没事。
-in the clear = 脱了嫌疑、没事了
-㉒ Steer clear of that topic unless you want the evening to end early.
-= 别碰那个话题，除非你想早点散场。
-steer clear of = 绕着走、避开
-构词：拉丁语 clarus 清楚
-注意用法：清除与判无罪两支在新闻里最常读到。
-
-cleat
-核心：两支。一是系索角：船上把缆绳绕住固定的那个两角
-金属件。二是鞋底的防滑齿，美式的 cleats 直接指整双钉鞋。
-可数。
-① Loop the rope round the cleat in a figure of eight.
-= 缆绳在系索角上绕成八字。
-a cleat = 系索角
-② His cleats gripped the turf where everyone else was sliding.
-= 别人都在打滑的地方，他的鞋钉抓住了草皮。
-cleats = 钉鞋（美式）
-③ Worn cleats slip in the mud and cost you the first two steps.
-= 磨平的鞋钉在泥里会滑，头两步就吃亏。
-worn = 磨损的
-构词：中古英语 clete 楔块
-注意用法：美式的复数直接指整双钉鞋。
-
-cleavage
-核心：三支。一是乳沟：日常与时装语境里最常读到这一支。
-二是裂开、分裂：a cleavage between the two groups 是
-两派之间的裂痕，书面语。三是矿物与细胞学上的劈裂：
-晶体沿固定方向裂开，细胞分裂也用这个词。
-① The dress showed some cleavage and she spent the evening adjusting it.
-= 那件裙子露出一点乳沟，她整晚都在拉。
-cleavage = 乳沟
-② There is a deep cleavage in the party over who pays for it.
-= 在谁来出钱这件事上，党内有很深的裂痕。
-a cleavage between = ……之间的裂痕
-③ Mica splits along its cleavage into sheets you can see through.
-= 云母沿解理面裂成透得过光的薄片。
-cleavage = 解理、劈裂面
-构词：由表示劈开的那个动词加名词后缀
-注意用法：日常里最常读到第一支。
-
-cleave
-核心：两支意思正好相反，来路也不同。一是劈开：过去分词
-cleaved 或 cloven，cloven hoof 是分趾的蹄。二是紧贴不放：
-cleave to a belief 是死守一个信念，这一支是旧词，只跟 to
-连用。cleaver 是剁肉的宽刃刀。
-① He cleaved the log in two with one stroke and made it look easy.
-= 他一斧把那根木头劈成两半，看着毫不费力。
-cleave = 劈开
-② The bow cleaves the water so cleanly that the wake takes a moment to form.
-= 船头把水分得极干净，尾迹要过一会儿才成形。
-cleave = 分开、破开
-③ She cleaves to the old rules although nobody else in the office does.
-= 办公室里再没别人这样，她还是死守着老规矩。
-cleave to = 紧贴、死守
-④ A cloven hoof leaves two marks and is easy to tell from a horse's.
-= 分趾的蹄留下两个印，跟马蹄很好分。
-cloven = 分开的、分趾的
-⑤ He reached for the cleaver and the conversation ended there.
-= 他伸手去拿那把剁刀，谈话就此结束。
-a cleaver = 剁肉宽刃刀
-构词：两支不同源，古英语里本是两个动词
-注意别混：劈开与紧贴两义正好相反，靠有没有 to 分。
-
-clef
-核心：谱号：写在五线谱开头那个符号，定下线与音的对应。
-最常见的两个是高音谱号与低音谱号。可数。
-① The piece is in the treble clef with two ledger lines above.
-= 那首曲子用高音谱号，上面还加了两条加线。
-the treble clef = 高音谱号
-② Cellos read the bass clef and change to tenor when they go high.
-= 大提琴看低音谱号，音高了就换次中音谱号。
-the bass clef = 低音谱号
-③ Move the clef and every note on the page means something else.
-= 谱号一挪，纸上每个音的意思就都变了。
-pitch = 音高
-构词：法语 clef 钥匙
-注意用法：字面是钥匙，因为它是读谱的钥匙。
-
-cleft
-核心：三支。一是裂缝：岩石与地面上的窄口。二是形容词的
-裂开的：cleft palate 腭裂与 cleft lip 唇裂是医学名，
-最常读到。三是习语 in a cleft stick：两头为难，英式。
-可数。
-① Water ran down the cleft and froze into a sheet by early evening.
-= 水顺着那道裂缝流下来，傍晚就冻成了一片。
-a cleft = 裂缝
-② He has a cleft chin that every photograph seems to exaggerate.
-= 他下巴上有道沟，每张照片都显得更深。
-a cleft chin = 有沟的下巴
-③ Cleft palate can be repaired in the first year with very good results.
-= 腭裂可以在一岁前修补，效果很好。
-cleft palate = 腭裂
-④ She was caught in a cleft stick and lost either way she moved.
-= 她两头为难，怎么动都是输。
-in a cleft stick = 两头为难（英式）
-⑤ A cleft sentence puts the focus first and pushes the rest into a clause.
-= 分裂句把焦点提到前面，其余的推进从句里。
-a cleft sentence = 分裂句（语法）
-⑥ Surgery repaired the cleft lip before the child was six months old.
-= 手术在孩子六个月大之前修补了唇裂。
-a cleft lip = 唇裂
-构词：由表示劈开的那个动词的旧过去分词来
-注意用法：医学的那两个搭配最常读到。
-
-clematis
-核心：铁线莲：攀缘的观赏藤本，花大而扁平，色多。园艺
-文字里常见。
-① Clematis climbs the trellis and reaches the gutter by August.
-= 铁线莲爬满花架，八月就够到了檐槽。
-clematis = 铁线莲
-② Prune clematis in late winter, before the buds swell.
-= 铁线莲冬末修剪，趁芽还没鼓起来。
-prune = 修剪
-③ The clematis flowers twice, heavily in May and thinly in September.
-= 那株铁线莲开两次花，五月开得密，九月开得稀。
-flower = 开花
-构词：希腊语 klematis 藤蔓
-注意用法：园艺语境里的常见花名。
-
-clemency
-核心：宽赦：对已定罪的人减刑或免罚，多是元首或法院的
-正式裁量。形容词 clement 有两义：宽厚的，以及说天气
-温和不严酷，后一支多用否定形式 inclement。不可数。
-① They pleaded for clemency and sent four hundred letters with it.
-= 他们请求宽赦，还随信送去四百封联署。
-plead for clemency = 请求宽赦
-② The governor granted clemency on his last day in office.
-= 州长在卸任前最后一天给了宽赦。
-grant clemency = 给予宽赦
-③ The weather turned clement in time for the harvest.
-= 天气转得温和，正赶上收割。
-clement = 温和的；宽厚的
-构词：拉丁语 clemens 温和的
-注意用法：说天气时多用否定形式 inclement。
+cloister
+核心：两支。一是回廊：修道院里围着院子的那圈有顶走道。
+二是引申指修道生活与与世隔绝的处境，动词多用被动；
+形容词 cloistered 说人也说环境。可数。
+① They walked in the cloister because the rain never reaches it.
+= 他们在回廊里散步，那里淋不到雨。
+a cloister = 修道院回廊
+② She was cloistered for years and saw her family twice a season.
+= 她多年过着与世隔绝的日子，一季只见两回家人。
+be cloistered = 与世隔绝地过
+③ It is a cloistered academic world where a footnote can end a friendship.
+= 那是个与世隔绝的学界，一条脚注就能断掉一段交情。
+cloistered = 与世隔绝的
+构词：拉丁语 claustrum 关闭处
+注意用法：引申义在评论文字里常读到。

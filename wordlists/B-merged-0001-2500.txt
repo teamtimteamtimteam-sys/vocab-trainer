@@ -47548,17 +47548,10 @@ biennially = 每两年一次地
 biennial = 两年一次
 biannual = 一年两次
 perennial = 多年生的（植物）
-
-biennially
-核心：副词，"每两年一次地"。跟形容词 biennial 一样，
-最容易跟 biannually（一年两次）弄混。写正式文件时为了不让人误读，
-很多机构干脆写成 every two years，把歧义堵死。
-① The award is given biennially to a translator under the age of forty.
+副词 biennially：副词，"每两年一次地"。跟形容词 biennial 一样， 最容易跟 biannually（一年两次）弄混。写正式文件时为了不让人误读， 很多机构干脆写成 every two years，把歧义堵死。
+⑤ The award is given biennially to a translator under the age of forty.
 = 那个奖每两年颁一次，授予四十岁以下的译者。
-② Members are elected biennially, half the board at a time.
-= 成员每两年选一次，每次换董事会的一半。
-③ The survey runs biennially, which is why the trend line looks so coarse.
-= 那项调查每两年做一次，趋势线才画得这么粗。
+be given biennially = 每两年颁发一次
 易混对照：
 biennially = 每两年一次
 biannually = 一年两次
@@ -48321,18 +48314,14 @@ bilateral symmetry = 左右对称
 反义词：
 unilateral = 单方面的
 multilateral = 多边的
-
-bilaterally
-核心：副词，"双边地、两侧地"，跟形容词的两条线一一对应：
-外交上指两国之间直接谈，不经第三方；医学上指身体两侧都出现。
-写作里它常用来把一件事跟"多边"或"单侧"对立起来。
-① The issue was settled bilaterally after the wider talks collapsed.
+副词 bilaterally：副词，"双边地、两侧地"，跟形容词的两条线一一对应： 外交上指两国之间直接谈，不经第三方；医学上指身体两侧都出现。 写作里它常用来把一件事跟"多边"或"单侧"对立起来。
+⑤ The issue was settled bilaterally after the wider talks collapsed.
 = 更大范围的会谈破裂后，那件事由两国直接谈定。
 不经第三方或国际组织。
-② The nerves are affected bilaterally, which rules out a single injury.
+⑥ The nerves are affected bilaterally, which rules out a single injury.
 = 神经两侧都受了影响，这就排除了单处外伤。
 医学义。
-③ They agreed to act bilaterally rather than wait for the whole bloc.
+⑦ They agreed to act bilaterally rather than wait for the whole bloc.
 = 他们同意以双边方式行事，不等整个集团。
 反义词：
 unilaterally = 单方面地
@@ -49111,3 +49100,38 @@ binky = 兔子高兴时的腾空扭身
 binky = 安抚奶嘴（美式口语）
 dummy = 安抚奶嘴（英式）
 pacifier = 安抚奶嘴（美式通用）
+
+binman
+核心：英式口语，指收垃圾的工人——开着车挨家把垃圾桶倒进车里的
+那些人。构词是 bin（垃圾桶）加 man。正式说法是 refuse collector，
+今天为了不带性别也常说 bin collector 或 waste collective 的说法。
+美式说 garbage collector 或 trash collector。
+① The binmen come on Thursday, so the bins go out on Wednesday night.
+= 收垃圾的周四来，所以垃圾桶周三晚上就推出去。
+复数是 binmen。
+② He worked as a binman for years and knew every dog on the round.
+= 他做了好些年清洁工，那条线上的狗他都认得。
+③ Leave the bags out for the binmen before seven or they will be missed.
+= 七点前把垃圾袋放出去等人来收，晚了就收不上了。
+注意地域：
+英式 binman = 清洁工
+美式 garbage collector = 清洁工
+注意语域：口语；正式场合说 refuse collector。
+
+binocular
+核心：形容词，指"双眼的、用两只眼睛的"。最常见的搭配是
+binocular vision——两只眼睛各看到略有差别的画面，大脑合成之后
+才有立体感和距离感。构词是 bin-（二）加 ocular（眼的）。
+注意它是形容词，望远镜那个名词要用复数 binoculars。
+① Humans have binocular vision, which is why a covered eye makes stairs harder.
+= 人有双眼视觉，所以遮住一只眼下楼梯就变难。
+binocular vision = 双眼视觉
+两眼画面略有差别，合起来才有立体感。
+② Owls rely on binocular depth cues to judge the last few feet of a dive.
+= 猫头鹰靠双眼的深度线索判断俯冲最后那几步的距离。
+depth cue = 深度线索
+③ The condition affects binocular function, so the two eyes stop working as a pair.
+= 那种病影响双眼的协同功能，两只眼睛不再配合。
+构词：bin- 二 + ocular 眼的
+注意用法：这是形容词，
+望远镜是复数名词 binoculars。

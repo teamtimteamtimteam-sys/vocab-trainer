@@ -1,484 +1,634 @@
-capercaillie
-核心：松鸡里最大的一种，产在北欧与苏格兰的松林。
-名字来自盖尔语，意思是林中的马，据说是形容它叫声粗哑。
-拼写长，重音在第三音节。可数。
-① The capercaillie is rare in Scotland and nearly died out twice.
-= 这种大松鸡在苏格兰很少见，两次差点绝迹。
-capercaillie = 大松鸡
-② Capercaillies live in old pine forest and avoid young plantations.
-= 它们住在老松林里，不进新造的林地。
-pine forest = 松林
-③ Conservation work has helped the capercaillie hold on in two glens.
-= 保护工作让这种鸟在两条山谷里勉强留住了。
-conservation work = 保护工作
-构词：盖尔语，意思是林中的马
-注意读音：重音在第三音节。
+carbolic
+核心：苯酚的旧称，多说 carbolic acid 或 carbolic soap：
+十九世纪起用作消毒剂，气味刺鼻。今天主要在历史与怀旧的
+语境里读到。不可数。
+① The ward smelled of carbolic from one end to the other.
+= 病房从这头到那头都是消毒水味。
+carbolic = 苯酚消毒液
+② They washed with carbolic soap that took the skin off their hands.
+= 他们用石碳酸皂洗，手上的皮都洗掉了。
+carbolic soap = 石碳酸皂
+③ Carbolic acid was the first antiseptic used in an operating theatre.
+= 苯酚是手术室里最早用上的消毒剂。
+carbolic acid = 苯酚
+构词：由表示碳的词根加表示油的词根拼成
+注意用法：多见于历史与怀旧的语境。
 
-capillary
-核心：毛细血管：最细的那一级血管，把血从动脉送到组织，
-再收进静脉。也作形容词，指细管里的现象：capillary
-action 是毛细作用，水靠它自己往上爬。可数。
-① Oxygen passes through the capillary wall in a fraction of a second.
-= 氧气不到一秒就透过毛细血管壁。
-capillary = 毛细血管
-② Broken capillaries showed on her cheeks after years outdoors.
-= 在户外待了多年，她脸上现出破裂的毛细血管。
-broken capillaries = 破裂的毛细血管
-③ Water rises by capillary action through a wall with no damp course.
-= 没做防潮层的墙里，水靠毛细作用往上爬。
-capillary action = 毛细作用
-构词：拉丁语 capillus 头发，因为细如发丝
-注意用法：毛细作用那个搭配在物理与土壤学里常用。
+carbon
+核心：碳，符号 C：有机化学的骨架元素，也指石墨、钻石
+这些单质形式。今天这个词最常出现在气候与能源的文字里，
+一大族说法都从排放多少碳来。旧办公用语里 carbon paper
+是复写纸，a carbon copy 是复写副本，引申指一模一样的人
+或物。动词 carbonize 是碳化，名词 carbonization；
+carbonate 是碳酸盐，carbonated 是充了气的；
+carboniferous 是含煤的。不可数。
+① Carbon forms the backbone of every organic molecule we know of.
+= 我们已知的每一个有机分子，骨架都是碳。
+carbon = 碳
+② Plants take in carbon dioxide and give back the oxygen we breathe.
+= 植物吸收二氧化碳，放出我们呼吸的氧气。
+carbon dioxide = 二氧化碳
+③ Carbon monoxide has no smell, which is exactly what makes it lethal.
+= 一氧化碳没有气味，这正是它致命的原因。
+carbon monoxide = 一氧化碳
+④ Flying enlarges your carbon footprint faster than anything else you do.
+= 坐飞机比你做的任何别的事都更快地扩大碳足迹。
+carbon footprint = 碳足迹
+这一族的骨架都是碳加一个核算或经济概念，认出模式就能推。
+⑤ The company claims to be carbon-neutral, having bought its way there.
+= 这家公司自称碳中和，其实是花钱买来的。
+carbon-neutral = 碳中和的
+⑥ They bought carbon offsets instead of changing a single thing they did.
+= 他们买了碳补偿额度，自己的做法一点没改。
+carbon offset = 碳抵销
+⑦ Carbon credits are traded on the market like any other commodity.
+= 碳信用额在市场上像别的商品一样交易。
+carbon credit = 碳信用
+⑧ Carbon trading started in Europe and spread more slowly than expected.
+= 碳交易始于欧洲，扩散得比预想的慢。
+carbon trading = 碳交易
+⑨ Carbon capture and storage is expensive and has never worked at scale.
+= 碳捕集与封存代价高昂，从未大规模成功过。
+carbon capture and storage = 碳捕集与封存
+⑩ Forests aid carbon sequestration, but only while they are left standing.
+= 森林有助于固碳，前提是别把它们砍了。
+carbon sequestration = 碳封存
+⑪ The carbon cycle runs through air, sea and soil on very different timescales.
+= 碳循环在大气、海洋和土壤中运行，时间尺度差别极大。
+the carbon cycle = 碳循环
+⑫ Rich countries owe a carbon debt that nobody intends to collect.
+= 富国欠着一笔谁也不打算追讨的碳债。
+carbon debt = 碳债
+⑬ Carbon dating puts it at four thousand years, give or take a century.
+= 碳定年测出它有四千年，上下差个百把年。
+carbon dating = 碳定年
+测的是碳的同位素衰变，所以叫这个名。
+⑭ Keep the carbon paper underneath or the second copy will come out blank.
+= 复写纸要垫在下面，不然第二联什么都印不出来。
+carbon paper = 复写纸
+⑮ He is a carbon copy of his father, right down to the way he laughs.
+= 他跟他父亲一模一样，连笑的样子都不差。
+a carbon copy = 一模一样的人或物
+复写纸时代留下的比喻，今天多用来说人像。
+⑯ Wood carbonizes in the kiln long before the temperature peaks.
+= 窑温还没到顶，木头就早已炭化了。
+carbonize = 碳化
+⑰ Carbonization leaves pure charcoal and a smell that gets into everything.
+= 炭化留下纯净的木炭，还有一股钻进什么都散不掉的气味。
+carbonization = 碳化
+⑱ Chalk is a carbonate and fizzes the moment acid touches it.
+= 白垩是碳酸盐，一沾酸就冒泡。
+carbonate = 碳酸盐
+碳酸盐与充气那两支都从碳酸来。
+⑲ She prefers carbonated water and will not drink it out of a plastic bottle.
+= 她喜欢气泡水，而且不肯用塑料瓶喝。
+carbonated = 充了碳酸气的
+⑳ The seam lies in carboniferous rock two hundred metres below the village.
+= 煤层埋在村子底下两百米的石炭纪岩层里。
+carboniferous = 含煤的
+煤本身就是碳，所以含煤的岩层用这个形容词。
+㉑ Carbon emissions fell by a fifth, mostly because two factories shut.
+= 碳排放降了五分之一，主要是因为关了两家工厂。
+carbon emissions = 碳排放
+构词：拉丁语 carbo 炭
+注意用法：气候文字里那一族说法最常读到。
 
-capital
-核心：五支，共同点是头等的、居首的，都从拉丁语的头来。
-一是首都；二是大写字母；三是资本：做生意的本钱，
-也指资方；四是死刑相关的，capital punishment 是死刑；
-五是建筑上的柱头。派生一族集中在资本那一支：capitalism
-资本主义、capitalist 资本家、capitalize 既是使大写也是
-利用与变现、capitalization 是大写或资本总额。习语
-make capital out of 是拿某事捞好处。
-① Paris is the capital of France and of about six other things besides.
-= 巴黎是法国的首都，还是另外六七样东西的中心。
-capital = 首都
-② Write your name in capitals and stay inside the box.
-= 姓名用大写字母填写，写在框内。
-in capitals = 用大写字母
-③ They raised capital from investors who never asked what it was for.
-= 他们从一些从没问过用途的投资人那里筹到了资金。
-raise capital = 筹集资金
-④ It remains a capital offence there, though no one has been executed for years.
-= 那里这仍是死罪，虽然多年没有人被处决。
-a capital offence = 死罪
-⑤ The column has a carved capital showing leaves and a pair of birds.
-= 那根柱子的柱头雕着叶子和一对鸟。
-capital = 柱头
-⑥ Capitalism reshaped the countryside faster than any government could.
-= 资本主义改造乡村的速度，任何政府都赶不上。
-capitalism = 资本主义
-⑦ He is a self-made capitalist who still drives a fifteen-year-old van.
-= 他是白手起家的资本家，开的还是一辆十五年的旧货车。
-capitalist = 资本家
-⑧ Capitalize the first letter of every proper noun, including the odd ones.
-= 每个专有名词首字母都要大写，冷僻的也不例外。
-capitalize = 使大写
-⑨ She capitalized on his mistake and had the contract signed by Friday.
-= 她抓住他的失误，周五就把合同签下来了。
-capitalize on = 利用、从……得利
-⑩ Market capitalization fell by half in a fortnight and never recovered.
-= 市值两周内跌了一半，再没回来。
-capitalization = 市值、资本总额
-⑪ He made capital out of the scandal and was elected on the back of it.
-= 他把那桩丑闻当资本，靠着它当选了。
-make capital out of = 拿某事捞好处
-⑫ They paid tax on the capital gain and complained about it for years.
-= 他们为资本利得交了税，抱怨了好些年。
-capital gain = 资本增值
-资本那一支的复合词多是金融术语，认出它是本钱就能推。
-⑬ Capital gains tax rose again in a budget nobody had seen coming.
-= 资本利得税在一份谁也没料到的预算案里又涨了。
-capital gains tax = 资本增值税
-⑭ The factory imports capital goods that take a year to arrive.
-= 这家工厂进口的资本货物要一年才到货。
-capital goods = 资本品、生产设备
-⑮ Steel is capital-intensive, which is why so few countries still make it.
-= 钢铁业资本密集，所以还在炼钢的国家没剩几个。
-capital-intensive = 资本密集的
-跟劳动密集相对，说的是钱在投入里占多大比重。
-⑯ Start each name with a capital letter, however the family spells it.
-= 每个姓名首字母都要大写，不管这家人自己怎么写。
-a capital letter = 大写字母
-大写那一支常用的复合词就这一个。
-⑰ The sale showed a capital loss they were glad to set against the gain.
-= 这笔出售形成了资本损失，正好用来抵扣收益，他们求之不得。
-a capital loss = 资本亏损
-⑱ Capital markets closed early on the day the announcement was made.
-= 公布消息那天，资本市场提前收市。
-capital market = 资本市场
-⑲ The policy pays a capital sum on death rather than a monthly income.
-= 这份保单在身故时一次性给付，而不是按月给钱。
-a capital sum = 一次付清的本金
-保险与贷款文书里常见。
-⑳ Capital punishment was abolished here in 1965 and has never come back.
-= 死刑在这里于一九六五年废除，再没恢复过。
-capital punishment = 死刑
-构词：拉丁语 caput 头
-注意用法：资本那一支的派生词最多，也最常读到。
+carbonara
+核心：意面酱的一种：蛋黄、干酪、猪颊肉或培根加胡椒拌成，
+不放奶油才是正宗。多说 spaghetti carbonara。名字来自
+意大利语的烧炭工。不可数。
+① He ordered spaghetti carbonara and sent it back for being too dry.
+= 他点了培根蛋酱意面，嫌太干退了回去。
+spaghetti carbonara = 培根蛋酱意面
+② Real carbonara has no cream and comes together off the heat.
+= 正宗的这种酱不放奶油，是离火拌成的。
+no cream = 不放奶油
+③ The egg thickens the carbonara and scrambles if the pan is hot.
+= 蛋液让那个酱变稠，锅一烫就结块。
+thicken = 使变稠
+构词：意大利语 carbonara 烧炭工的
+注意别混：拼头跟化学上那个词一样，这里说的是意面酱。
 
-capitation
-核心：按人头计算的付费或征收：医疗与教育经费常按注册
-人数拨给；旧时也指人头税。不可数。
-① Doctors are paid by capitation rather than for each visit.
-= 医生按登记人头拿钱，不是按看诊次数。
-by capitation = 按人头计付
-② The school receives a capitation fee for every pupil on the roll.
-= 那所学校按在册学生人头领经费。
-a capitation fee = 人头经费
-③ Capitation replaced fee-for-service and changed how time was spent.
-= 按人头付费取代了按项目付费，时间怎么花也跟着变了。
-fee-for-service = 按项目付费
-构词：拉丁语 caput 头，按头计算
-注意用法：医疗与教育财政的术语。
+carboy
+核心：大玻璃瓶：容量十几到几十升，外面常套柳条或塑料
+护篮，用来装酸、装酒、做发酵容器。酿酒与化学品运输里
+用得到。可数。
+① The wine ferments in a glass carboy for three months in the dark.
+= 酒在暗处的大玻璃瓶里发酵三个月。
+carboy = 大玻璃瓶
+② Acid is shipped in carboys cased in wicker so a knock cannot break them.
+= 酸装在外面套着柳条护篮的大玻璃瓶里运，磕一下也碎不了。
+be shipped in = 用……装运
+③ Fit an airlock to the carboy so gas escapes and no air gets in.
+= 给发酵瓶装上水封，让气跑得出去、空气进不来。
+airlock = 发酵水封
+构词：波斯语 qaraba 大瓶
+注意用法：酿酒与化工语境里用。
 
-capitol
-核心：美国州议会或国会所在的那座建筑，大写的 the
-Capitol 指华盛顿的国会大厦；Capitol Hill 借指美国国会
-这个机构。名字来自古罗马卡皮托尔山上的神庙。
-注意跟表示首都的那个词读音相同、拼法只差一个字母。可数。
-① They marched to the Capitol and got no further than the steps.
-= 他们游行到国会大厦，只到了台阶就没能再进。
-the Capitol = 美国国会大厦
-② Each state has its own capitol and most have a dome.
-= 每个州都有自己的议会大楼，多数带个圆顶。
-capitol = 州议会大楼
-③ Capitol Hill blocked the bill for the third session running.
-= 国会那边连着第三个会期把那个法案挡了下来。
-Capitol Hill = 美国国会（借指）
-构词：古罗马 Capitolium 卡皮托尔山上的神庙
-注意别混：这个指建筑，指首都的是另一个拼法。
+carbuncle
+核心：两支。一是医学上的痈：几个毛囊连成一片的化脓硬块，
+比单个疖子重。二是宝石的旧称，指磨成圆凸面的红宝石类。
+英式还有个出名的比喻：说一栋难看的建筑是 a carbuncle，
+好比脸上长出的一颗疮。可数。
+① The carbuncle had to be drained and packed for a week afterwards.
+= 那个痈得切开引流，之后还要填塞一星期。
+carbuncle = 痈
+② A carbuncle spreads under the skin where a boil stays in one place.
+= 疖子只长在一处，痈却在皮下蔓开。
+boil = 疖子
+③ Critics called the tower a carbuncle and the name stuck for years.
+= 批评的人说那座楼是脸上一颗疮，这叫法传了好些年。
+a carbuncle = 难看的建筑（英式比喻）
+构词：拉丁语 carbunculus 小炭块，因红肿如炭火
+注意语域：说建筑那个比喻是英式说法，带贬。
 
-capitulate
-核心：投降、屈服：停止抵抗，接受对方开的条件。军事上
-是投降，日常引申成在争执里让步、扛不住了。名词
-capitulation。偏书面，含着本来一直在顶着的意思。
-① The garrison capitulated after a month with no water left.
-= 水断了之后，守军撑了一个月还是投降了。
-capitulate = 投降
-② He finally capitulated to her demands and paid for the repairs.
-= 他最后对她的要求让了步，掏钱修了。
-capitulate to = 对……屈服
-③ The capitulation was signed at dawn on a drum head.
-= 投降书是天亮时在一面鼓上签的。
-capitulation = 投降、屈服
-构词：拉丁语 capitulum 条款，本指按条款议降
-注意语域：偏书面，含本来在抵抗的意思。
+carburettor
+核心：化油器：把汽油雾化后跟空气混匀送进气缸的装置，
+电喷普及之前的标准件。美式拼 carburetor，只一个 t。
+动词 carburize 是另一回事：给钢件表面渗碳增硬。可数。
+① The carburettor needs cleaning every spring or the engine floods.
+= 化油器每年春天都得清，不然发动机会淹缸。
+carburettor = 化油器
+② Fuel injection replaced the carburettor on almost everything by 1990.
+= 到一九九〇年，燃油喷射几乎在所有车上取代了化油器。
+fuel injection = 燃油喷射
+③ The gears are carburized for hardness and ground smooth afterwards.
+= 齿轮先做渗碳增硬，之后再磨光。
+carburize = 表面渗碳
+构词：由表示碳的词根加动词后缀来
+注意拼写：英式两个 t，美式一个 t。
 
-capoeira
-核心：巴西的一种武术，动作像舞蹈，配着歌声和乐器成对
-比试，起于非洲奴隶的传统。葡萄牙语来的词，不可数。
-① He trains capoeira twice a week in a hall with no mirrors.
-= 他每周在一间没镜子的厅里练两次巴西战舞。
-capoeira = 巴西战舞
-② Capoeira mixes fighting and dance and settles nothing by force.
-= 这门功夫把格斗与舞蹈混在一起，却不靠力气分胜负。
-mix fighting and dance = 把格斗与舞蹈混在一起
-③ A capoeira circle formed in the square and drew a crowd.
-= 广场上围出一个战舞圈，招来了一群人。
-构词：巴西葡萄牙语 capoeira
-注意用法：不可数，说这门功夫本身。
+carcass
+核心：动物死后的整具躯体，尤指屠宰后待分割的那一具；
+也指剔掉肉之后的骨架，再引申指车、船、建筑剩下的空壳。
+英式也拼 carcase。可数。
+① The butcher hung the carcass for ten days before cutting it.
+= 屠户把整只屠体挂了十天才分割。
+carcass = 屠体
+② Vultures stripped the carcass to the bone in under an hour.
+= 秃鹫不到一小时就把尸体啃得只剩骨头。
+strip = 剥光、啃光
+③ Only the carcass of the factory remained, with the roof long gone.
+= 那座厂只剩一个空架子，屋顶早没了。
+the carcass of = ……剩下的空架子
+构词：法语 carcasse 骨架
+注意拼写：英式也写 carcase。
 
-capon
-核心：阉过的公鸡，专为长肉养的，肉更嫩。多见于旧食谱
-与文学，今天少用。可数。
-① The recipe calls for a roast capon and half a bottle of cider.
-= 那个菜谱要一只烤阉鸡和半瓶苹果酒。
-a roast capon = 烤阉鸡
-② Capons were served at feasts and cost twice what a hen did.
-= 宴席上上的是阉鸡，价钱是母鸡的两倍。
-feast = 宴席
-③ A capon fattens faster than a cockerel and keeps its temper.
-= 阉鸡比小公鸡长肉快，性子也不躁。
-cockerel = 小公鸡
-构词：拉丁语 capo 阉鸡
-注意用法：多见于旧食谱与文学。
+carcinogen
+核心：致癌物：能引起癌症的物质或因素，烟草、石棉、
+某些化学品都算。形容词 carcinogenic 是致癌的。可数。
+① Asbestos is a known carcinogen and was used in schools for decades.
+= 石棉是已知的致癌物，却在学校里用了几十年。
+carcinogen = 致癌物
+② Tobacco smoke contains many carcinogens and dozens of other irritants.
+= 烟草烟雾里含很多致癌物，还有几十种别的刺激性物质。
+contain = 含有
+③ The dye proved carcinogenic and was withdrawn within a year.
+= 那种染料被证明致癌，一年内就撤了市。
+carcinogenic = 致癌的
+构词：希腊语 karkinos 蟹、癌 加表示产生的词根
+注意用法：公共卫生与法规文字里常见。
 
-cappella
-核心：只活在一个说法里：a cappella，无伴奏地唱，
-只用人声。意大利语的照教堂的方式，因为早期教堂合唱
-不用乐器。作副词也作形容词，不能脱开前面那个 a 单用。
-① They sang the whole song a cappella and held the last note together.
-= 那首歌他们全程无伴奏唱，最后一个音收得整整齐齐。
-a cappella = 无伴奏地（只用人声）
-② It is an a cappella group of six that tours in the summer.
-= 那是个六人的无伴奏合唱团，夏天巡演。
-an a cappella group = 无伴奏合唱团
-③ The last verse is a cappella and the band steps back.
-= 最后一段是无伴奏的，乐队退到后面。
-构词：意大利语 a cappella 照小教堂的方式
-注意用法：不能单用，必须带前面那个 a。
+carcinoma
+核心：癌的一种：起自上皮组织的恶性肿瘤，是最常见的
+那一类。跟 sarcoma 分开：后者起自结缔组织。医学用词，
+复数 carcinomas 或 carcinomata。可数。
+① The biopsy showed a carcinoma caught early enough to cut out.
+= 活检查出上皮性癌，发现得早，切得掉。
+carcinoma = 上皮性癌
+② Basal cell carcinoma grows slowly and almost never spreads.
+= 基底细胞癌长得慢，几乎不转移。
+basal cell carcinoma = 基底细胞癌
+③ Carcinoma is far commoner than sarcoma at every age.
+= 不论哪个年龄段，上皮性癌都比结缔组织的恶性肿瘤常见得多。
+sarcoma = 结缔组织的恶性肿瘤
+构词：希腊语 karkinoma 癌
+注意语域：医学用词，日常说 cancer。
 
-cappuccino
-核心：意式咖啡的一种：浓缩咖啡加打发的奶泡，上面常撒
-可可粉。跟拿铁的分别在奶：拿铁奶多泡少，它奶泡厚。
-名字来自嘉布遣会修士会衣的颜色。可数，复数 cappuccinos。
-① She ordered a cappuccino and drank the foam off the top first.
-= 她点了杯卡布奇诺，先把上面那层奶泡喝掉。
-a cappuccino = 一杯卡布奇诺
-② Cappuccino has more foam than latte and is drunk before eleven.
-= 卡布奇诺的奶泡比拿铁多，也只在十一点前喝。
-foam = 奶泡
-③ Two cappuccinos, please, and one of them without chocolate.
-= 请来两杯卡布奇诺，其中一杯不要撒可可粉。
-构词：意大利语 cappuccino 小兜帽，指修士会衣的颜色
-注意别混：拿铁奶多，这个奶泡厚。
-
-caprice
-核心：一时的兴头：没道理、说变就变的念头或做法。书面语，
-多带批评。形容词 capricious 是任性无常的，说人也说天气；
-副词 capriciously，名词 capriciousness。音乐上的随想曲
-也叫这个词。
-① He was dismissed on the caprice of a manager who left the firm a month later.
-= 他因一个经理的一时兴头被辞了，那人一个月后自己也走了。
-on the caprice of = 因……的一时兴头
-② The weather here is capricious and nobody plans anything outdoors in June.
-= 这里天气变化无常，六月没人敢安排户外的事。
-capricious = 变化无常的
-③ She capriciously changed the rules halfway through the competition.
-= 比赛进行到一半，她说变就变地改了规则。
-capriciously = 任性无常地
-④ The capriciousness of the market ruined him inside a single trading week.
-= 市场的反复无常，一个交易周就把他毁了。
-capriciousness = 反复无常
-构词：意大利语 capriccio 突发的念头
-注意语域：书面，多带批评。
-
-Capricorn
-核心：摩羯座：十二月下旬到一月下旬出生。也指南回归线所在的那条纬线，
-写作 the Tropic of Capricorn。可数。
-① He is a Capricorn and takes the description personally.
-= 他是摩羯座，对那套说法还挺当真。
-a Capricorn = 摩羯座的人
-② The ship crossed the Tropic of Capricorn on the fourth night.
-= 第四天夜里，那条船越过了南回归线。
-the Tropic of Capricorn = 南回归线
-构词：拉丁语 capricornus 山羊角
-注意用法：星座与那条纬线用的是同一个词。
-
-capsicum
-核心：辣椒属：甜椒与辣椒都属这一属。英式与澳新的食谱里
-这个词常直接指甜椒，美式说 bell pepper。辣味成分
-capsaicin 辣椒素从它得名。可数与不可数都有。
-① Slice the capsicum thinly and let it soften before the onion.
-= 把甜椒切成薄片，比洋葱先下锅焖软。
-capsicum = 甜椒、辣椒属植物
-② Red capsicum is sweeter than green because it ripens longer.
-= 红甜椒熟得久，所以比青的甜。
-sweeter than = 比……甜
-③ Capsicum is used in chilli powder and in paprika alike.
-= 辣椒粉和红椒粉用的都是这类椒。
-chilli powder = 辣椒粉
-构词：拉丁语 capsa 盒子，因果实中空像盒
-注意用法：英式与澳新常指甜椒，美式说 bell pepper。
-
-capsize
-核心：船翻过来，底朝上。既可不及物也可及物。基本只用于
-船与小艇，人跌倒不用这个词。
-① The dinghy capsized in the squall and both of them swam in.
-= 小艇在一阵狂风里翻了，两个人都是游回岸的。
-capsize = 翻船
-② A single wave capsized the canoe within sight of the beach.
-= 就在离沙滩不远处，一个浪把独木舟打翻了。
-capsize something = 把……弄翻
-③ They righted the capsized boat and bailed it out with a bucket.
-= 他们把翻掉的船扶正，用桶把水舀了出去。
-right = 把……扶正
-构词：来历不确定，可能出自西班牙语的使船头没入
-注意用法：只说船，人跌倒不用它。
-
-capstan
-核心：船上直立的绞盘：转动它收放缆绳、起锚，从前靠人
-推着转。老式录音机里带动磁带的那根轴也叫这个词。可数。
-① Sailors turned the capstan by hand and sang to keep in step.
-= 水手用手推着绞盘转，唱着号子好合上步子。
-capstan = 立式绞盘
-② The anchor chain runs to the capstan through a pipe in the deck.
-= 锚链穿过甲板上的管子接到绞盘。
-anchor chain = 锚链
-③ A worn capstan makes the tape drag and the pitch wander.
-= 走带轴磨损了，磁带会拖速，音高也跟着飘。
-capstan = 走带轴
-构词：普罗旺斯语 cabestan 绞盘
-注意用法：航海与老式录音机里都用得到。
-
-capstone
-核心：本义是压在墙顶或拱顶上的那块封顶石。引申义今天
-更常用：一件事业的顶点、收尾之作；美国教育里
-a capstone project 指毕业前的综合项目。可数。
-① The capstone weighs two tonnes and was lifted by eleven men.
-= 那块封顶石重两吨，是十一个人抬上去的。
-capstone = 封顶石
-② The prize was the capstone of her career and she retired that year.
-= 那个奖是她事业的封顶之作，当年她就退了。
-the capstone of = ……的顶点
-③ Students present a capstone project in their final term.
-= 学生在最后一个学期要做一个毕业综合项目。
-a capstone project = 毕业综合项目
-构词：由表示盖的那个词加石头拼成
-注意用法：引申义比本义更常读到。
-
-capsule
-核心：三支，共同点是小壳。一是胶囊：药装在里面的那层壳。
-二是航天器上载人或载设备的密封舱。三是植物的蒴果与
-解剖上的囊。作定语时另有一义：浓缩成一小段的。可数。
-① Take one capsule twice a day and finish the course even if you feel better.
-= 一天两次，每次一粒胶囊，就算好转也要吃完整个疗程。
-a capsule = 一粒胶囊
-② The capsule splashed down in the Pacific within sight of the recovery ship.
-= 返回舱降落在太平洋上，回收船就在视线之内。
-capsule = 返回舱、密封舱
-③ The seeds sit inside a dry capsule that splits open in the first hard frost.
-= 种子长在干蒴果里，头一场重霜就把它冻裂了。
-capsule = 蒴果
-④ He gave a capsule summary of the case in the ninety seconds before the bell.
-= 铃响前的九十秒里，他把案情浓缩讲了一遍。
-a capsule summary = 浓缩摘要
-构词：拉丁语 capsula 小盒
-注意用法：浓缩摘要那个用法多见于新闻写作。
-
-captain
-核心：带头的那一个。四支：一是船长、机长；二是军衔，
-陆军的上尉与海军的上校是同一个词，级别却不同；三是
-球队队长；四是美式警队的警监。动词是当队长、当船长。
-职位本身叫 captaincy。可数。
-① The captain gave the order to sail before the last of the cargo was aboard.
-= 最后一批货还没装完，船长就下令起航了。
-captain = 船长、机长
-a ship's captain = 船长
-② She was promoted to captain and given a company nobody else wanted.
-= 她升了上尉，接手了一个别人都不想要的连队。
-captain = 上尉（陆军）或上校（海军）
-③ He captained the team for six years and never lost a home match.
-= 他做了六年队长，主场一场没输过。
-captain = 担任队长
-④ Her captaincy ended in May after a disagreement nobody will explain.
-= 五月因为一场谁也不肯解释的分歧，她的队长任期结束了。
-captaincy = 队长或船长的职位
-⑤ The queen appointed a captain general who had never commanded anything.
-= 女王任命了一位从没指挥过任何部队的总司令。
-a captain general = 总司令（旧衔）
-⑥ He is described as a captain of industry by people who work for him.
-= 替他干活的人称他为实业巨子。
-a captain of industry = 实业巨子
-⑦ She was made team captain in her first season and kept it for nine.
-= 她第一个赛季就当上队长，一当就是九年。
-a team captain = 队长
-构词：晚期拉丁语 capitaneus 首领，出自 caput 头
-注意用法：同一个军衔词在陆军与海军里级别不同。
-
-captcha
-核心：网页上那道验证：让人辨认扭曲的字符或点选图片，
-用来分出人和机器。本是一串英文首字母缩成的名字，
-如今已当普通名词用，一律小写。可数。
-① Type the captcha to continue and get it wrong twice.
-= 输入验证码才能继续，多半还要错上两回。
-captcha = 人机验证码
-② The captcha was unreadable and there was no audio option.
-= 那个验证码根本看不清，又没有语音选项。
-unreadable = 认不出来的
-③ Bots can now beat some captchas faster than people can.
-= 有些人机验证，机器人破解得比人还快。
-beat a captcha = 破解人机验证
-构词：一串英文首字母缩成的词
-注意用法：今天一律小写，当普通名词。
-
-caption
-核心：配在图片、照片、图表下面的说明文字；影视里指
-字幕，尤指为听障观众配的那种。动词是给……配文字说明。
+card
+核心：厚纸片，从这一点长出一族：一是卡片，生日卡、
+明信片、名片；二是纸牌；三是各种证件与支付卡；
+四是电脑里的板卡；五是英式口语说人是 a card，指爱
+开玩笑的活宝。持卡的人是 cardholder。习语几个高频：
+on the cards 是很可能发生，play your cards right 是
+把牌打好、事办漂亮，hold all the cards 是掌握全部主动。
 可数。
-① The caption named everyone in the photo except the man at the back.
-= 图片说明把照片上的人都点了名，只漏了后排那位。
-caption = 图片说明
-② Turn on the captions or you will miss half the dialogue.
-= 把字幕打开，不然一半对白都听不清。
-captions = 字幕
-③ The photo was captioned in two languages and dated wrongly in both.
-= 那张照片配了两种语言的说明，两处日期都写错了。
-be captioned = 配有文字说明
-构词：拉丁语 captio 抓取，本指文件开头的抓要
-注意别混：subtitle 多指翻译字幕，这个词侧重图说与同语字幕。
+① She sent me a birthday card that arrived three weeks late.
+= 她寄了张生日贺卡给我，晚到了三个星期。
+a birthday card = 生日卡
+② He handed over his business card without being asked for it.
+= 没人跟他要，他就把名片递了过来。
+a business card = 名片
+③ They played cards until midnight and nobody kept the score properly.
+= 他们打牌打到半夜，谁也没好好记分。
+play cards = 打牌
+④ Pay by card, not cash; the machine gives no change after ten.
+= 刷卡，别用现金，十点以后机器不找零。
+pay by card = 刷卡支付
+⑤ Show your ID card at the door and again at the second gate.
+= 进门要出示身份证，到第二道门还要再出示一次。
+an ID card = 身份证
+⑥ The graphics card overheated and took the whole machine down with it.
+= 显卡过热，把整台机器都拖垮了。
+a graphics card = 显卡
+⑦ Cardholders get a discount that barely covers the annual fee.
+= 持卡人有折扣，勉强抵得上年费。
+cardholder = 持卡人
+⑧ A merger is on the cards, though both sides deny it flatly.
+= 合并很有可能，尽管双方都断然否认。
+on the cards = 很可能发生（英式）
+⑨ Play your cards right and you will get the job before Christmas.
+= 牌打得好，圣诞前你就能拿到这份工作。
+play your cards right = 把事办漂亮
+⑩ She holds all the cards and is in no hurry to show them.
+= 她握着所有筹码，一点不急着亮出来。
+hold all the cards = 掌握全部主动
+⑪ She is a card-carrying member and has the subscription to prove it.
+= 她是正式登记的党员，会费单就是凭证。
+card-carrying = 持证的、名副其实的
+本指持党证，引申成名副其实、货真价实。
+⑫ The card catalog is long gone and the drawers hold seeds now.
+= 卡片目录早没了，那些抽屉现在装种子。
+a card catalog = 卡片目录（美式）
+⑬ Teach me a card game that does not take an evening to explain.
+= 教我个不用讲一晚上才说得清的纸牌游戏。
+a card game = 纸牌游戏
+⑭ He kept a card index of sources that filled two shoeboxes.
+= 他做了个资料卡片索引，装满了两个鞋盒。
+a card index = 卡片索引
+电脑普及前做资料管理的办法，今天多在旧书里读到。
+⑮ The card key opens both doors but only until six in the evening.
+= 这张房卡两扇门都能开，但只到晚上六点。
+a card key = 门卡
+⑯ Swipe it at the card reader and wait for the light to go green.
+= 在读卡器上刷一下，等灯变绿。
+a card reader = 读卡器
+⑰ A card sharp fleeced the table and left before the round was over.
+= 一个老千把满桌人都宰了，没等这一圈打完就走了。
+a card sharp = 牌桌老千
+这里的 sharp 是老手、骗子那个旧义，不是锋利。
+⑱ There is a card swipe by the lift that nobody has ever repaired.
+= 电梯旁有个刷卡口，从来没人修过。
+a card swipe = 刷卡口
+⑲ They set up the card table in the front room every Sunday.
+= 他们每个星期天都在前厅支起牌桌。
+a card table = 折叠牌桌
+折叠腿、铺呢面，专为打牌摆的那种小桌。
+⑳ The drawing card was the band nobody expected to show up.
+= 最大的招徕是那支谁也没料到会来的乐队。
+a drawing card = 招徕人的卖点（美式）
+英式多说 a draw：the main draw of the festival。
+构词：希腊语 khartes 纸莎草纸
+注意用法：on the cards 是英式，美式说 in the cards。
 
-captivate
-核心：把人的注意力完全抓住，让人着迷。褒义，多用被动
-或用 captivating 作形容词。这一支是从抓获的本义比喻来
-的：人被迷住就像被俘住。
-① Her voice captivated an audience that had come to hear somebody else.
-= 台下本是冲着别人来的，她的声音却让他们着了迷。
-captivate = 使着迷
-② He was captivated by the city and stayed eleven years without a plan.
-= 他被那座城迷住，毫无打算地住了十一年。
-be captivated by = 被……迷住
-③ She has a captivating smile and knows exactly what it is worth.
-= 她的笑很迷人，也清楚这笑值多少。
-captivating = 迷人的
-构词：拉丁语 captivus 被俘的，比喻成被迷住
-注意语域：褒义，不带贬。
+cardamom
+核心：香料：绿色小豆荚里的黑籽，味道清凉带柠檬气，
+用在南亚菜、北欧点心和咖啡里。最常见的说法是
+cardamom pods。不可数。
+① Crush two cardamom pods and drop them in whole.
+= 压碎两颗豆蔻荚，整个丢进去。
+cardamom pod = 豆蔻荚
+② Cardamom flavours the rice without colouring it at all.
+= 豆蔻给米饭添香，一点色都不上。
+flavour = 加味
+③ Add cardamom to the coffee before it goes through the grinder.
+= 咖啡进磨之前就把豆蔻加进去。
+cardamom = 豆蔻
+构词：希腊语 kardamomon
+注意用法：多说 cardamom pods。
 
-captive
-核心：被关着、走不了的。名词指俘虏或被囚的人，形容词
-指被囚的。两个高频引申：a captive audience 是走不开
-只能听着的听众，a captive market 是别无选择只能买你的
-市场。被囚的状态叫 captivity，in captivity 说动物则指
-人工饲养。可数。
-① The captives were released at dawn on a road eleven miles from the border.
-= 俘虏在天亮时被释放，地点是离边境十一英里的一条路上。
-captive = 俘虏
-② He was held captive for a year and taught himself the language of his guards.
-= 他被扣了一年，自学会了看守说的那种语言。
-hold somebody captive = 扣住某人
-③ Passengers are a captive audience, which is why the screens never switch off.
-= 乘客是走不开的听众，所以那些屏幕从不关。
-a captive audience = 走不开只能听着的听众
-④ Pandas breed poorly in captivity and the reasons are still argued about.
-= 熊猫在圈养下不易繁殖，原因至今还有争论。
-in captivity = 在圈养状态下
-构词：拉丁语 captivus 被俘的
-注意用法：captive audience 与 captive market 都是固定说法。
+cardboard
+核心：硬纸板：比纸厚、能做箱子的那种。作定语另有个
+比喻义：说人物写得扁平、没有立体感。不可数。
+① Pack the books in cardboard boxes and do not fill any of them full.
+= 书装进纸箱，每箱都别装满。
+a cardboard box = 纸箱
+② The sign was cut from cardboard and lasted exactly one wet afternoon.
+= 那块牌子是纸板剪的，撑过了一个下雨的下午就报废了。
+be cut from = 从……剪出来
+③ The novel is full of cardboard characters who exist to move the plot.
+= 那本小说里的人物都很扁平，存在只为推动情节。
+cardboard characters = 扁平无立体感的人物
+④ A cardboard city grew under the bridge over the course of one winter.
+= 一个冬天下来，桥下聚起了一片纸箱棚区。
+a cardboard city = 露宿者的纸箱棚区（英式）
+⑤ The characters are cardboard cut-outs and the dialogue is worse.
+= 那些人物都是扁平的纸板人，对白更糟。
+a cardboard cut-out = 纸板立牌；也指扁平无个性的人物
+构词：由表示厚纸与板的两个词拼成
+注意用法：比喻义常用来批评写作。
 
-captor
-核心：抓住并扣住别人的那一方：绑匪、抓人的军队都算。
-多用复数，因为通常是一伙人。可数。
-① She never saw her captors' faces in all those weeks.
-= 那么多个星期，她始终没看见抓她那些人的脸。
-captors = 抓人扣人的一方
-② He escaped from his captors during a move between houses.
-= 在转移住处的途中，他从扣押他的人手里逃了。
-escape from one's captors = 从扣押者手中逃脱
-③ The captor demanded a ransom that the family could not raise.
-= 绑他的人索要的赎金，那家人凑不出来。
-demand a ransom = 索要赎金
-构词：拉丁语 captor 抓取者
-注意用法：多用复数。
+cardiac
+核心：心脏的：医学定语，cardiac arrest 是心搏骤停，
+cardiac surgery 是心脏外科。术语用词，日常说 heart。
+① He suffered a cardiac arrest in the car park and was revived there.
+= 他在停车场心搏骤停，就在那儿被救了回来。
+cardiac arrest = 心搏骤停
+② She works in cardiac surgery and stands for eight hours at a time.
+= 她做心脏外科，一站就是八小时。
+cardiac surgery = 心脏外科
+③ Cardiac muscle never tires and works without being told to.
+= 心肌不会疲劳，也不用谁下令就一直工作。
+cardiac muscle = 心肌
+构词：希腊语 kardia 心
+注意语域：医学术语，日常说 heart。
 
-capture
-核心：抓住并控制住。五支从这一步铺开：一是抓获逃犯或
-俘虏；二是军事上攻占据点；三是抓住抽象的东西，把气氛、
-神态抓准；四是抢占市场或份额；五是把画面、声音、数据
-记录下来。名词与动词同形。
-① Police captured him at the border with somebody else's passport.
-= 警方在边境抓获了他，他拿的是别人的护照。
-capture = 抓获
-② The town was captured overnight and changed hands twice more that month.
-= 这座城一夜之间被攻占，那个月又两次易手。
-capture = 攻占
-③ The photo captures her impatience better than anything she ever wrote.
-= 那张照片把她的急躁抓得比她写过的任何东西都准。
-capture the mood = 把气氛抓准
-④ They captured a third of the market and lost most of it within two years.
-= 他们抢下了三分之一的市场，两年内又丢掉大半。
-capture the market = 抢占市场
-⑤ The sensors capture data every second and store none of it usefully.
-= 传感器每秒采集数据，存下来的却没什么用。
-capture data = 采集数据
-⑥ The capture of the fort ended the war about eleven months early.
-= 堡垒的攻占让战争提前约十一个月结束。
-the capture of = 对……的攻占
-⑦ The opening line captures attention and the second one loses it again.
-= 开头一句抓住了注意力，第二句又把它丢了。
-capture attention = 抓住注意力
-构词：拉丁语 capere 拿、抓
-注意用法：抓抽象事物那一支在评论文字里很常见。
+cardigan
+核心：前面开襟、用扣子或拉链扣起来的针织上衣，跟套头
+毛衣的分别就在这一点。名字来自十九世纪一位卡迪根伯爵。
+可数。
+① She put on a grey cardigan with one button missing.
+= 她穿上一件灰色开襟衫，少了一颗扣子。
+a cardigan = 开襟针织衫
+② The cardigan buttons at the front and hangs straight from the shoulder.
+= 那件开襟衫在前面扣，从肩上直直垂下来。
+button at the front = 在前面扣起来
+③ He wore a cardigan over his shirt in the office all year round.
+= 他在办公室里一年到头衬衫外面套着开襟衫。
+构词：人名，十九世纪的卡迪根伯爵
+注意别混：套头的叫 pullover，开襟的才是这个词。
 
-capybara
-核心：世界上最大的啮齿动物，产在南美水边，样子像放大的
-豚鼠。名字来自南美的图皮语。可数。
-① The capybara swims well and can stay under for five minutes.
-= 水豚很会游泳，能在水下待五分钟。
-capybara = 水豚
-② Capybaras live near rivers and graze like small cattle.
-= 水豚住在河边，吃草的样子像小号的牛。
-live near = 住在……附近
-③ A capybara can weigh sixty kilos and still outrun a man.
-= 一只水豚能有六十公斤，跑起来还是比人快。
-weigh = 重达
-构词：图皮语 kapiyva
-注意用法：动物名，日常少用。
+cardinal
+核心：三支，共同点是最要紧的。一是天主教的枢机主教，
+穿红袍，所以第二支是那种深红色。三是形容词，首要的、
+根本的。语法上 cardinal numbers 是基数词，跟序数词
+相对；地理上 the cardinal points 是东南西北四个基本
+方位。北美有一种红羽鸟也叫这个词。可数。
+① The cardinal read the decree aloud in Latin to a silent congregation.
+= 那位枢机主教用拉丁文向鸦雀无声的会众宣读了教令。
+cardinal = 枢机主教
+② Her coat was cardinal red and could be seen from the far end of the platform.
+= 她的外套是枢机红，站台那一头就看得见。
+cardinal red = 深红色
+③ That is a cardinal rule here, and breaking it costs people their jobs.
+= 那在这儿是铁律，破了规矩的人要丢工作。
+a cardinal rule = 铁律、根本规矩
+④ One, two and three are cardinal numbers, while first and second are ordinals.
+= 一二三是基数词，第一第二则是序数词。
+cardinal numbers = 基数词
+⑤ Mark the cardinal points on the map before you try to plot a bearing.
+= 试着标方位角之前，先在图上标出四个基本方位。
+the cardinal points = 东南西北四方位
+⑥ Arriving late is a cardinal sin here, whatever the trains happen to be doing.
+= 在这儿迟到是大忌，不管火车出了什么状况。
+a cardinal sin = 不可犯的大错
+⑦ Cardinal vowels are reference points against which any language can be described.
+= 基本元音是参照点，任何语言都能拿它来描述。
+a cardinal vowel = 基本元音（语音学）
+构词：拉丁语 cardo 门轴，引申成关键所在
+注意用法：形容词义一定是最重要的，不表数量。
+
+cardiology
+核心：心脏内科：研究和治疗心脏病的那一科，医生是
+cardiologist。cardiovascular 是心血管的，说系统与疾病。
+健身语境里 cardio 单指有氧运动，因为练的是心肺。不可数。
+① She trained in cardiology and spent four of those years on night rotations.
+= 她学的是心脏内科，其中四年都在轮夜班。
+cardiology = 心脏内科
+② The cardiologist ordered a scan and had the result before the clinic closed.
+= 心脏科医生开了检查，门诊关门前就拿到了结果。
+cardiologist = 心脏科医生
+③ Smoking raises cardiovascular risk for years after the last cigarette.
+= 抽完最后一支烟之后好些年，吸烟仍在抬高心血管风险。
+cardiovascular = 心血管的
+④ He does cardio three times a week and lifts weights on the days between.
+= 他每周做三次有氧，中间的日子练举重。
+cardio = 有氧运动
+构词：希腊语 kardia 心 加表示学问的后缀
+注意用法：健身里的 cardio 是从这一族借来的口语说法。
+
+cardphone
+核心：投卡式公用电话：要插一张预付电话卡才能打，不收
+硬币。手机普及前英国街头很常见，今天基本是历史词。可数。
+① The cardphone took no coins and half the cards had expired.
+= 那台电话不收硬币，卡还有一半已经过期。
+cardphone = 投卡式公用电话
+② Cardphones once stood on every corner and now stand nowhere at all.
+= 投卡电话曾经街角都有，如今哪儿也见不到。
+stand = 立着、设有
+③ He bought a card for the cardphone and used four minutes of it.
+= 他为那台电话买了张卡，只用掉四分钟。
+构词：由表示卡与电话的两个词拼成
+注意用法：基本是历史词。
+
+care
+核心：底层是在意。往里走是心里的挂念：care about 是把
+某事当回事，care for 既能是喜欢也能是照料；往外走是
+照料这件事本身，health care 医疗、take care of 负责
+照看。名词另有一支是小心：with care 小心地，take care
+也用作道别。派生分两拨：careful、carefully、
+carefulness 一拨；careless、carelessly、carelessness
+一拨；carefree 是无忧无虑的。做照护的人英式说 carer，
+美式说 caregiver；careworn 是被操心磨得憔悴的。
+① I don't care what they think as long as the work is right.
+= 只要活儿做得对，他们怎么想我不在乎。
+not care = 不在乎
+② She cares about her students long after they have left the school.
+= 学生毕业很久了，她还惦记着他们。
+care about = 在意、把……当回事
+③ He cares for his mother at home and has not had a holiday in years.
+= 他在家照料母亲，好些年没休过假。
+care for = 照料
+④ Would you care for a drink, or would you rather wait for the others?
+= 要不要来点喝的？还是想等别人来？
+care for = 想要（客套说法）
+⑤ Who takes care of the accounts now that the treasurer has gone?
+= 司库走了，现在账是谁管？
+take care of = 负责照看
+⑥ Handle the box with care; the contents are older than the building.
+= 那个箱子轻拿轻放，里面的东西比这栋楼还老。
+with care = 小心地
+⑦ Take care on the ice — the path has not been gritted.
+= 冰上当心，那条路没撒过盐。
+take care = 小心；也用作道别
+⑧ The child was placed in care after the second visit from social services.
+= 社工第二次上门之后，那个孩子被送去了寄养。
+in care = 由政府机构照管（英式）
+⑨ Be careful with the knife; it is a great deal sharper than it looks.
+= 用那把刀当心，它比看上去快得多。
+careful = 小心的
+⑩ She read the letter carefully twice before she said anything at all.
+= 她把那封信仔细读了两遍才开口。
+carefully = 仔细地
+⑪ Carelessness caused the fire, according to the report published today.
+= 今天发布的报告说，那场火是疏忽引起的。
+carelessness = 疏忽
+⑫ It was a careless mistake that cost the company a great deal of money.
+= 那是个粗心的错，让公司损失了一大笔钱。
+careless = 粗心的
+⑬ Those were carefree years and none of us knew it at the time.
+= 那是无忧无虑的几年，当时我们谁也没意识到。
+carefree = 无忧无虑的
+⑭ Her carer comes twice a day and stays an hour each time.
+= 她的护理员一天来两次，每次待一个钟头。
+carer = 照护者（英式）
+⑮ Family caregivers get little help and even less recognition.
+= 家庭照护者得到的帮助很少，得到的认可更少。
+caregiver = 照护者（美式）
+⑯ His careworn face said everything the letter had left out.
+= 他那张倦容说尽了信里没写的一切。
+careworn = 被操心磨得憔悴的
+⑰ Ring the careline for advice before you take a second dose.
+= 再吃第二剂之前，先打客服热线问一问。
+careline = 厂家客服咨询热线（英式）
+⑱ She works as a care assistant on nights and studies in the day.
+= 她晚上做护理助理，白天上课。
+a care assistant = 护理助理
+⑲ He moved into a care home in the spring and settled quickly.
+= 他春天搬进了养老院，很快就适应了。
+a care home = 养护院（英式）
+照护那一支的复合词几乎都是社会服务的正式说法。
+⑳ Care in the community replaced the old asylums without replacing the beds.
+= 社区照护取代了旧式收容院，床位却没跟上。
+care in the community = 社区照护（英式政策）
+是一项政策的名字，特指把长期病人从收容院移回社区。
+㉑ Check the care label before washing anything with that much wool in it.
+= 洗含这么多羊毛的东西之前，先看洗涤标签。
+a care label = 洗涤保养标签
+这里的 care 是保养、伺候的意思，不是关心。
+㉒ Care workers are badly paid and leave the sector within two years.
+= 护理人员待遇很差，两年之内就离开这一行。
+a care worker = 照护人员
+㉓ Her carefulness with money surprised them, given how she dressed.
+= 看她的穿着，她用钱之仔细让他们意外。
+carefulness = 仔细、小心
+㉔ He carelessly left the door open and the cat was gone by morning.
+= 他大意没关门，天亮时猫已经不见了。
+carelessly = 粗心地、随手地
+㉕ The label says easy-care, which means it survives a machine and a teenager.
+= 标签上写着免烫易打理，意思是机洗和一个青少年都扛得住。
+easy-care = 免烫易打理的（衣物）
+构词：古英语 caru 忧虑、悲伤
+注意用法：care for 两义并存，照料与想要，靠语境分。
+
+careen
+核心：两支，美英分家。原是航海词：把船倾侧过来刮洗
+船底。美式引申成歪歪斜斜地猛冲，说车、说人失控地冲
+过去，这一支今天最常用；英式表达同一个意思多用 career
+那个词。
+① The truck careened down the hill with its brakes gone.
+= 那辆卡车刹车失灵，歪歪斜斜地冲下坡。
+careen = 歪斜地猛冲
+② She careened into the doorway and knocked the coats off the hook.
+= 她一头撞进门口，把挂钩上的外套全撞了下来。
+careen into = 猛冲撞进……
+③ They careened the boat at low tide to scrape the weed off.
+= 他们趁退潮把船侧过来，刮掉船底的水草。
+careen a boat = 把船倾侧刮洗
+构词：拉丁语 carina 船的龙骨
+注意别混：跟表示职业生涯的那个词拼头相同，来路不同。
+
+career
+核心：两支，同源但今天分得很开。一是职业生涯：一个人
+一辈子做的那一行；作定语指职业性的，a career diplomat
+是职业外交官。二是动词，疾驰、失控地冲，英式常用。
+一味钻营升迁叫 careerism，这样的人是 careerist，
+都带贬义。可数。
+① She had a long career in publishing and edited about four hundred books.
+= 她在出版界干了很久，编过大约四百本书。
+a career in = 在……行业的职业生涯
+② He is a career diplomat and has served under six different governments.
+= 他是职业外交官，历经六届政府。
+a career diplomat = 职业外交官
+③ The scandal ended his career and he was teaching within the year.
+= 那桩丑闻断送了他的事业，不到一年他就去教书了。
+end one's career = 断了职业生涯
+④ The car careered off the road and came to rest against a haystack.
+= 汽车失控冲出路面，撞在一个草垛上停住。
+career off = 失控地冲离
+⑤ Careerism has replaced conviction in a party that once had both.
+= 这个党曾经两者兼有，如今钻营取代了信念。
+careerism = 一味钻营升迁
+⑥ He is a careerist, nothing more, and everybody in the office knows it.
+= 他不过是个钻营的人，办公室里人人清楚。
+careerist = 钻营升迁的人
+⑦ She took a career break to study and came back on a lower grade.
+= 她中断工作去读书，回来时职级降了。
+a career break = 职业中断期
+⑧ She was introduced as a career woman in 1974 and has been introduced that way ever since.
+= 一九七四年别人介绍她是以事业为重的女性，此后一直这么介绍。
+a career woman = 以事业为重的女性（说法已过时）
+构词：法语 carriere 跑道、路
+注意用法：动词义英式常用，美式多说 careen。
+
+caress
+核心：轻柔地抚摸，带着爱意。动词与名词同形，语域偏
+文学，日常多说 stroke。也用于比喻：风、光抚过什么东西。
+① He caressed her cheek with the back of one finger.
+= 他用一根手指的背面轻抚她的脸。
+caress = 轻柔抚摸
+② She gave the dog a caress and it followed her all evening.
+= 她抚了抚那只狗，它就跟了她一整晚。
+a caress = 一下轻抚
+③ The breeze caressed the water and left it barely marked.
+= 微风抚过水面，几乎没留下痕迹。
+caress = 轻拂而过
+构词：拉丁语 carus 亲爱的
+注意语域：偏文学，日常说 stroke。
+
+caret
+核心：校对与排版用的插入符号，尖朝上的那个角，标出
+这里要补进东西。键盘上那个符号在编程里也叫这个名字，
+用来表示乘方或行首。可数。
+① Mark the omission with a caret and write the word above the line.
+= 漏掉的地方用插入符标出来，词写在行上头。
+a caret = 插入符号
+② The caret shows where to add the word and nothing about which word.
+= 插入符只标出词加在哪里，不管该加哪个词。
+show where = 标明何处
+③ He typed a caret between the two numbers to square the first one.
+= 他在两个数之间打了个插入符，把前一个数平方。
+构词：拉丁语 caret 缺少，意思是这里少了东西
+注意别混：跟表示宝石重量的同音词拼法不同。
+
+caretaker
+核心：两支。一是英式的看管人：负责一栋楼的清洁、修理、
+锁门，美式说 janitor。二是作定语指过渡性的，只管到
+接任的人上来。可数。
+① The caretaker locks up at six and has a key to every room in the building.
+= 看管员六点锁门，楼里每个房间的钥匙他都有。
+caretaker = 楼宇看管人（英式）
+② A caretaker government took over and lasted eleven weeks longer than expected.
+= 一个看守政府接了手，比预期多撑了十一周。
+a caretaker government = 看守内阁
+③ He was named caretaker manager and won five games out of six.
+= 他被任命为临时主教练，六场赢了五场。
+caretaker manager = 临时主教练
+④ Caretaker speech uses short sentences and a higher pitch than ordinary talk.
+= 对婴幼儿说话时句子很短，音调也比平常说话高。
+caretaker speech = 对婴幼儿的照护者语体
+构词：由表示照看与做事的人两部分拼成
+注意用法：过渡性那一支在政治与体育报道里很常见。
+
+cargo
+核心：船、飞机、卡车装运的货物。多不可数，也说
+a cargo of coal；复数 cargoes 或 cargos 都通行。
+作定语一族：cargo ship 货船、cargo plane 货机、
+cargo pants 是多口袋的工装裤。
+① The ship carried a cargo of grain that had been sold twice before it arrived.
+= 那艘船装的是粮食，货还没到就已经转手卖了两遍。
+a cargo of = 一船的……
+② Cargo is loaded overnight so that the berth is free by the morning tide.
+= 货是夜里装的，好让泊位在早潮之前空出来。
+load = 装载
+③ A cargo plane landed first and the passenger flights waited an hour.
+= 一架货机先落了地，客机等了一小时。
+a cargo plane = 货机
+④ He wore cargo pants with more pockets than he could keep track of.
+= 他穿着多口袋工装裤，口袋多到自己都记不清。
+cargo pants = 多口袋工装裤
+构词：西班牙语 cargo 装载
+注意用法：复数两种写法都通行。
+
+Carib
+核心：加勒比人：欧洲人到来前住在小安的列斯群岛一带的原住民族群，
+加勒比海就是拿他们的名字命名的。也指他们的语言。今天不少后裔自称
+Kalinago。可数。
+① The Carib once controlled the smaller islands and traded across them.
+= 加勒比人从前控制着那些小岛，在岛间往来贸易。
+the Carib = 加勒比人
+② Carib canoes could carry forty men between islands.
+= 加勒比人的独木舟能载四十人往来于岛屿之间。
+a Carib word = 加勒比语的词
+构词：族名，加勒比海由它得名
+注意别混：Carib 是族群，Caribbean 是那片海与那一带。

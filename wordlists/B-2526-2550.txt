@@ -1,38 +1,3 @@
-biographical
-核心：形容词，说材料、影片、笔记讲的是某人的一生。常用搭配是
-biographical details、biographical information、biographical film。
-① He gave a few biographical details and refused every question after that.
-= 他讲了些生平资料，之后的问题一概不答。
-biographical details = 生平资料
-② It is a biographical film about a mathematician who died young.
-= 那是一部讲一位早逝数学家的传记片。
-biographical film = 传记片
-口语里多说 biopic。
-③ The note is purely biographical and says nothing about the poem itself.
-= 那条注释纯讲生平，对诗本身只字未提。
-构词：biography 传记 + -al 的
-近义对照：
-biographical = 传记的（讲别人一生）
-autobiographical = 自传的（讲自己一生）
-
-biography
-核心：别人写的某人生平，跟自己写的 autobiography 相对——分别不在
-内容在作者。指一本书时可数，指传记这个门类时不可数。
-① She wrote a biography of Churchill that ran to three volumes.
-= 她写了一部三卷本的丘吉尔传。
-a biography of = 某人的传记
-② He has read several biographies of the same general and trusts none of them.
-= 同一位将军的传记他读过好几本，一本也不信。
-可数，复数是 biographies。
-③ Biography is a popular genre and outsells fiction in some years.
-= 传记是很受欢迎的门类，有些年头比小说还好卖。
-指门类时不可数，不加冠词。
-构词：bio- 生平 + -graphy 写
-注意别混：
-biography = 传记（别人写的）
-autobiography = 自传（本人写的）
-memoir = 回忆录（本人写，只截取一段）
-
 biohazard
 核心：指细菌、病毒、血液样本这类会危害健康的生物性危险物，也指
 它带来的风险。实验室和医院的容器与警示牌上就印这个词。可数。
@@ -82,17 +47,14 @@ biological warfare = 生物战（拿病原体当武器打仗）
 构词：biology 生物学 + -al 的
 词族：
 biologically = 从生物学角度；生理上
-
-biologically
-核心：副词，两个用法：一是"从生物学上说"，给整句定角度，多放句首；
-二是"在生理上"，修饰后面的形容词。
-① Biologically, the two are the same species, whatever the breeders call them.
+副词 biologically：副词，两个用法：一是"从生物学上说"，给整句定角度，多放句首； 二是"在生理上"，修饰后面的形容词。
+⑧ Biologically, the two are the same species, whatever the breeders call them.
 = 从生物学上说，这两者是同一个物种，不管育种的人叫它们什么。
 放句首给全句定角度，后面跟逗号。
-② The compound is biologically active at doses too small to taste.
+⑨ The compound is biologically active at doses too small to taste.
 = 那种化合物在尝不出味道的剂量下就有生物活性。
 biologically active = 有生物活性的
-③ They are not biologically related but share a surname and a way of walking.
+⑩ They are not biologically related but share a surname and a way of walking.
 = 他们没有血缘关系，却同姓，走路的样子也像。
 biologically related = 有血缘关系的
 构词：biological 生物的 + -ly
@@ -421,3 +383,50 @@ biotype
 近义对照：
 biotype = 生物型（遗传一致的一群）
 species = 物种（更大一层）
+
+bipartisan
+核心：形容词，指两党共同的、得到两党支持的，美国政治里的高频词。
+它的分量在于稀罕：多数议案都是一党推、一党挡，说 bipartisan
+就是在强调这件事难得地两边都点了头。
+① The bill won bipartisan support after both sides dropped their amendments.
+= 两边都撤回了修正案之后，那项法案获得了两党支持。
+bipartisan support = 两党支持
+② They formed a bipartisan committee of six and gave it a year to report.
+= 他们组建了一个六人的两党联合委员会，限期一年提交报告。
+bipartisan committee = 两党联合委员会
+③ The deal was genuinely bipartisan and survived the change of president.
+= 那笔交易是真正两党共识的产物，换了总统也没被推翻。
+构词：bi- 二 + partisan 党派的
+反义词：
+partisan = 一党一派的、有党派偏见的
+
+bipartite
+核心：正式用词，指"由两部分组成的"或"两方参与的"。多见于法律、
+外交和技术文件里，日常说话不用它，日常会说 two-part 或 two-sided。
+① They signed a bipartite agreement and left the third country out of it.
+= 他们签了一份双方协议，把第三国排除在外。
+bipartite agreement = 双方协议
+两方签的，跟三方的 tripartite 相对。
+② The leaf has a bipartite structure, split almost to the stalk.
+= 那片叶子是二裂结构，几乎裂到叶柄。
+bipartite structure = 二分结构
+③ Bipartite talks resumed on Monday after a six-week silence.
+= 沉默了六周之后，双边会谈周一恢复。
+构词：bi- 二 + partite 分开的
+注意语域：正式，多用于法律与外交文书。
+配对词：
+tripartite = 三方的
+
+biped
+核心：用两条腿走路的动物。人、鸟、袋鼠都算，跟四条腿的
+quadruped 相对。多见于生物学和人类学的行文里。可数。
+① Ostriches are the fastest bipeds alive.
+= 鸵鸟是现存跑得最快的两足动物。
+② Birds are the only surviving dinosaur bipeds, and they kept the hollow bones too.
+= 鸟是仅存的两足恐龙，中空的骨头也保留了下来。
+③ The robot walks as a biped and rights itself when it is shoved.
+= 那台机器人用两足行走，被推一把还能自己站稳。
+biped = 两足行走的构型（机器人学里也这么用）
+构词：bi- 二 + ped 足
+配对词：
+quadruped = 四足动物

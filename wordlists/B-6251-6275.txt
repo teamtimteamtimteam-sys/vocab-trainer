@@ -1,386 +1,649 @@
-diacritic
-核心：附加符号：加在字母上头或底下、用来改变读音的那些记号 ——
-法语的重音符、德语的分音符、西班牙语的波浪号都是。可数，
-形容词 diacritical，也说 a diacritical mark。
-① French keeps its diacritics on capital letters more often than people expect.
-= 法语在大写字母上保留附加符号的情形，比一般人以为的多。
-a diacritic = 附加符号
-② The database strips every diacritical mark and then cannot tell two names apart.
-= 那个数据库把所有附加符号都去掉，结果两个名字分不出来。
-a diacritical mark = 附加符号
-构词：希腊语 diakritikos 用来区分的
-注意用法：排版与语言学里用；日常说 accents。
+didactic
+核心：两支。一是「以教学为目的的」（didactic materials）；
+二是贬义的「说教的」：把道理硬灌给人，语气居高临下。
+副词 didactically。今天用多半是第二支。
+① The novel is didactic in the last thirty pages and the reviews said so.
+= 那部小说最后三十页开始说教，评论也这么写了。
+be didactic = 说教的
+② The museum's didactic panels explain three things and hide the interesting one.
+= 博物馆那些讲解板解释了三件事，把最有意思的那件藏了起来。
+didactic panels = 讲解板
+③ The chapter is written didactically and stops twice to ask the reader a question.
+= 那一章写得像上课，中间还两次停下来问读者问题。
+be written didactically = 写得像在上课
+副词多修饰 write、explain、present 这类词。
+构词：希腊语 didaktikos 善于教的
+注意语域：说文艺作品时几乎总是贬义。
 
-diadem
-核心：冠冕：戴在头上的一圈饰带或宝冠，比 crown 更偏文学与古典。可数。
-① The diadem is in the museum and the rest of the treasure was never found.
-= 那顶冠冕在博物馆里，其余的宝藏一直没找到。
-a diadem = 冠冕
-② She wore a diadem of small stones that had belonged to her grandmother.
-= 她戴着一圈镶着碎宝石的冠冕，那是她祖母的。
-a diadem of something = 由某种材料做成的冠冕
-构词：希腊语 diadema 束发带
-注意别混：crown 是王冠，tiara 是女式头冠，diadem 偏古典与文学。
+diddle
+核心：（英式口语）骗、坑：多说骗走小钱。及物动词，
+常说 diddle somebody out of something。
+同族的口语词：diddly（一点也没有，多说 diddly-squat）、
+diddums（哄小孩的「哎哟可怜的」，对大人说就是嘲讽）、
+diddy（英式方言的「小小的」）。
+① He diddled two elderly neighbours out of their heating allowance.
+= 他坑了两位年长邻居的取暖补贴。
+diddle somebody out of something = 骗走某人的某物
+② She knows diddly about engines and fixed it anyway.
+= 她对发动机一窍不通，居然还是修好了。
+know diddly = 一无所知（口语）
+③ Diddums, he said, and got a look that ended the conversation.
+= 「哎哟真可怜，」他说，随即挨了一记让谈话到此为止的眼神。
+diddums = 哎哟可怜的（哄小孩；对大人说是嘲讽）
+④ They live in a diddy flat with a view of two chimneys.
+= 他们住在一套小得可爱的公寓里，窗外看得见两根烟囱。
+diddy = 小小的（英式口语）
+构词：可能来自人名 Jeremy Diddler，一个骗小钱的戏剧角色
+注意语域：整族都是口语，多带戏谑。
 
-diaeresis
-核心：分音符：加在元音上表示要跟前一个元音分开读的两点，
-写作 naïve、Noël 那样。可数，复数 diaereses，美式拼 dieresis。
-跟德语的变音符号 umlaut 形状一样、作用不同。
-① English keeps a diaeresis in naïve and drops it almost everywhere else.
-= 英语在 naïve 里保留分音符，别处几乎都不用了。
-a diaeresis = 分音符
-② The magazine famously prints a diaeresis in words where two vowels meet.
-= 那家杂志出了名地在两个元音相邻的词里印上分音符。
-print a diaeresis = 印出分音符
-构词：希腊语 diairesis 分开
-注意别混：形状跟 umlaut 一样，但 umlaut 表示元音本身变了音。
+didgeridoo
+核心：迪吉里杜管：澳大利亚原住民的长木管乐器，靠循环换气吹出持续低音。
+可数，也拼 didjeridu。
+① He learnt circular breathing so that the didgeridoo would not stop for air.
+= 他学会了循环换气，好让迪吉里杜管的声音不断气。
+a didgeridoo = 迪吉里杜管
+② A didgeridoo made from a hollowed branch sounds better than any factory one.
+= 用中空树枝做的迪吉里杜管，比任何厂制的都好听。
+play the didgeridoo = 吹迪吉里杜管
+构词：拟声词，模仿它的低鸣
+注意用法：乐器前面加 the：play the didgeridoo。
 
-diagnose
-核心：诊断：查明是什么病，也说查明设备或组织的毛病出在哪。及物动词。
-最常用的是被动 be diagnosed with something —— 主语是人，病放在 with 后面。
-名词 diagnosis（复数 diagnoses），形容词 diagnostic，副词 diagnostically。
-① She was diagnosed with a condition that has no test and no treatment.
-= 她被诊断出一种既无检测手段也无疗法的病。
-be diagnosed with something = 被诊断出患某病
-② The engineer diagnosed the fault in twenty minutes and charged for two hours.
-= 工程师二十分钟就诊断出故障所在，收了两小时的钱。
-diagnose a fault = 诊断出故障
-③ The diagnosis took four years and three referrals to reach.
-= 那个诊断花了四年、转诊三次才做出来。
-a diagnosis = 诊断（结论）
-④ Diagnostic tests were run twice because nobody trusted the first machine.
-= 诊断性检测做了两遍，因为谁也不信第一台机器。
-a diagnostic test = 诊断性检测
-⑤ The two scans are diagnostically identical and cost the hospital very different amounts.
-= 那两种扫描在诊断价值上完全一样，花医院的钱却差得远。
-diagnostically identical = 诊断价值上一样
-副词，说「就诊断而言」，多见于医学与设备评估。
-构词：希腊语 diagignoskein 分辨出来
-注意用法：说人被诊断出病用 be diagnosed with；说病本身被诊断出用 be diagnosed。
+die
+核心：底层是「停止活着」。往三个方向长：一是人和动物死；二是抽象的
+东西消亡 —— 传统、语言、希望、火苗、发动机都能 die；三是短语动词
+按方向分：out 彻底绝迹、down 慢慢平息、away 声音渐渐听不见、
+off 一个接一个死去。
+另有一族固定说法要连着记：be dying to 是急着想，to die for 是好得要命，
+old habits die hard 是积习难改。注意 the die is cast 里的 die 不是
+这个词 —— 那是骰子的单数，跟死无关。
+现在分词 dying 要加 y 前的变化：die－dying。
+① He died last winter in the house he had never once left.
+= 他去年冬天死在那栋一步也没离开过的房子里。
+die = 死
+最本义的一支，不及物。
+② She died of pneumonia three days after being sent home as recovered.
+= 她被当作痊愈送回家，三天后死于肺炎。
+die of = 死于（某种病或原因）
+说病因用 of；说间接原因也可以用 from。
+③ Thousands died from hunger in a year when the harvest was sold abroad.
+= 收成被卖到国外的那一年，几千人饿死了。
+die from = 死于（外因）
+两个介词常通用，说疾病更多用 of。
+④ The old customs are dying and nobody under forty can name them.
+= 旧风俗正在消亡，四十岁以下的人一个也说不上来。
+die = 消亡、渐渐没有
+主语是抽象事物时的那一支。
+⑤ The engine died at the lights and would not start for twenty minutes.
+= 车到红灯前熄了火，二十分钟发动不起来。
+die = 熄火、停转
+说机器不转了，口语。
+⑥ The language died out two centuries ago and left forty words behind.
+= 这门语言两百年前消亡了，只留下四十个词。
+die out = 彻底绝迹
+主语是物种、语言、习俗，说再也没有了。
+⑦ The wind died down towards evening and the smoke went straight up.
+= 傍晚风渐渐停了，烟直直地升上去。
+die down = 慢慢平息
+说风、火、议论、疼痛由强转弱。
+⑧ The footsteps died away down the corridor and a door closed somewhere.
+= 脚步声沿着走廊渐渐消失，什么地方关了一扇门。
+die away = 声音渐渐消失
+专说声音由近及远、由响转无。
+⑨ The older members are dying off and nobody has joined since 1998.
+= 老会员一个个去世，一九九八年以来没人再入会。
+die off = 相继死去
+强调一个接一个，主语常是群体。
+⑩ I am dying to tell you, but I promised her I would not.
+= 我憋不住想告诉你，可我答应过她不说。
+be dying to = 急着想做某事
+恒用进行时，语气夸张，跟死无关。
+⑪ She is dying for a cup of tea and has been since the border.
+= 她极想喝杯茶，从过边境起就想了。
+be dying for = 极想要（某物）
+跟上一条成对，后面接名词。
+⑫ The chocolate cake is to die for and takes two days to make.
+= 那款巧克力蛋糕好吃得要命，得做两天。
+to die for = 好得要命
+褒义，多说食物、衣服、景色。
+⑬ Old habits die hard, particularly the ones nobody has ever challenged.
+= 旧习难改，尤其是从没人质疑过的那些。
+die hard = 难以根除
+主语多是习惯、偏见、传言。
+⑭ Never say die, though the scoreboard has been saying it for an hour.
+= 别认输，虽然记分牌已经这么说了一个钟头。
+never say die = 决不认输
+鼓劲的老话，多用祈使。
+⑮ We nearly died laughing when the microphone picked up his aside.
+= 话筒把他的低声嘀咕收了进去，我们差点笑死。
+die laughing = 笑得不行
+夸张说法，也说 die of embarrassment。
+⑯ The play died a death on the first night and closed by the weekend.
+= 那出戏首演惨败，到周末就停演了。
+die a death = 彻底失败（英式）
+说演出、提议无声无息地垮掉。
+⑰ The die is cast; the letters went out in this morning's post.
+= 木已成舟，信今天早班邮件就寄出去了。
+the die is cast = 木已成舟
+这里的 die 是骰子的单数，掷出去就收不回；跟「死」毫无关系。
+⑱ The hedge began to die back in July and the plaque was die-cast in one piece.
+= 那道树篱七月起开始梢枯，那块牌子是一次压铸成型的。
+die back = （植物）从梢头往回枯
+die-cast = 压铸成型的
+die-cast 里的 die 是「模具」那个词，跟死亡无关。
+构词：古诺斯语 deyja
+注意拼写：
+现在分词是 dying；表示染色的那个词的现在分词是 dyeing，多一个 e。
+dyed in the wool = 彻头彻尾的 —— 这个说法拼的是染色那个词，不是这一个。
+注意别混：
+die = 死（动词，过程）
+dead = 死的（形容词，状态）
+death = 死亡（名词）
+中文一个「死」字通吃，英语按词性分三个形式，写作时最容易错。
 
-diagonal
-核心：对角线的、斜的：一是几何上连接两个不相邻顶点的线；
-二是日常说「斜着的」（a diagonal stripe）。名词形容词同形，副词 diagonally。
-① The diagonal of a square is longer than its side by a factor everyone has to look up.
-= 正方形的对角线比边长的那个倍数，人人都得去查一下。
-a diagonal = 对角线
-② The shirt has a diagonal stripe that makes it impossible to match with anything.
-= 那件衬衫有一道斜条纹，配什么都不好看。
-a diagonal stripe = 斜条纹
-③ He crossed the square diagonally and got there before the others had started.
-= 他斜穿广场，别人还没动身他就到了。
-cross something diagonally = 斜穿某处
-构词：希腊语 diagonios 从角到角
-注意用法：说方向用 diagonally，说图案用 diagonal 作定语。
+dieback
+核心：（植物）梢枯病：树木从枝梢开始一节节枯死，多由真菌或干旱引起。
+不可数，林业与园艺用语。
+① Ash dieback changed the look of that landscape within a decade.
+= 白蜡树梢枯病十年之内就改变了那片景观的样子。
+dieback = 梢枯病
+② The dieback started at the tips and reached the trunk in three seasons.
+= 枯死从枝梢开始，三季之内蔓延到了主干。
+show dieback = 出现梢枯
+构词：die 加 back，指从末端往回死
+注意语域：林业与园艺用语，新闻里说树病时也用。
 
-diagram
-核心：示意图：用线条与方框把结构或流程画清楚的图，不追求写实。可数。
-形容词 diagrammatic，副词 diagrammatically。
-① The diagram takes half a page and saves about three pages of explanation.
-= 那张示意图占半页，省下了大约三页的解释。
-a diagram = 示意图
-② The instructions are diagrammatic and assume you have built one before.
-= 那份说明全是图示，默认你以前装过一个。
-be diagrammatic = 以图示为主的
-③ The process is set out diagrammatically on the back of the leaflet.
-= 那个流程用图示画在传单背面。
-be set out diagrammatically = 用图示画出来
-构词：希腊语 diagramma 画出来的图形
-注意别混：diagram 是示意图，chart 多指数据图表，illustration 是写实插图。
+diehard
+核心：死硬派：立场绝不松动的人 —— 多带贬义或半开玩笑。可数，
+也作定语（a diehard fan 铁杆球迷）。也写作 die-hard。
+① Two diehards voted against it and told everybody why for the next ten years.
+= 两个死硬派投了反对票，此后十年逢人就讲为什么。
+a diehard = 死硬派
+② She is a diehard fan of a team that has not won anything in her lifetime.
+= 她是某支球队的铁杆，那队在她这辈子里什么也没赢过。
+a diehard fan = 铁杆拥趸
+构词：die hard「不肯轻易死掉」的合成
+注意用法：说球迷时是褒义的「铁杆」，说立场时多带贬义。
 
-dial
-核心：三支。一是仪表或钟表的盘面（the dial of a clock）；
-二是旋钮式的调节盘（turn the dial）；三是动词「拨号」——
-dial a number 是拨一个号码，dial 999 是拨报警电话。
-拨号的人或装置叫 a dialler。
-① The dial is lit from behind and impossible to read in daylight.
-= 那个表盘是背光的，白天根本看不清。
-a dial = 表盘、刻度盘
-② He turned the dial two clicks and the noise stopped altogether.
-= 他把旋钮拧了两格，噪音就完全停了。
-turn the dial = 拧动旋钮
-③ She dialled a number she had not called in fifteen years.
-= 她拨了一个十五年没打过的号码。
-dial a number = 拨一个号码
-④ The automatic dialler rang three hundred people before anybody noticed.
-= 那台自动拨号机拨了三百个人，才有人发现。
-a dialler = 拨号机
-⑤ You dial in from home, dial up the old modem if that fails, and dial down your expectations either way.
-= 在家拨入接进去；不行就拨号连那台老猫；不管哪种，先把期待调低。
-dial in = 拨入接进（会议或系统）
-dial up = 拨号连接
-dial down = 把（程度）调低
-dial into something = 拨入某个会议
-dial down 今天多用于比喻：dial down the rhetoric 把调门降下来。
-构词：中世纪拉丁语 diale 日晷盘
-注意用法：英式双写 l：dialled、dialling；美式写 dialed、dialing。
+diesel
+核心：柴油，也指柴油机与柴油车。不可数（燃料）与可数（车辆）都行。
+名字来自发明者狄塞尔。作定语说 a diesel engine、diesel fumes。
+① Diesel was cheaper than petrol for twenty years and then suddenly was not.
+= 柴油比汽油便宜了二十年，后来忽然就不便宜了。
+diesel = 柴油
+② The old diesel starts badly in the cold and runs for ever once it goes.
+= 那辆老柴油车冷天难打着，一发动就没完没了地跑。
+a diesel = 柴油车
+③ Diesel fumes hang in that street because the buildings on both sides are tall.
+= 柴油尾气总积在那条街上，因为两边楼都高。
+diesel fumes = 柴油尾气
+构词：德国工程师 Rudolf Diesel 的姓
+注意用法：加油说 fill up with diesel；柴油机说 a diesel engine。
 
-dialect
-核心：方言：同一种语言在某地或某群体中的说法，语音、词汇、语法都可能不同。
-可数。形容词 dialectal；研究方言的学问是 dialectology，学者是 a dialectologist。
-说方言不带贬义 —— 它跟标准语的分别是社会造成的，不是好坏之分。
-① The dialect of that valley kept three words that died out everywhere else.
-= 那条山谷的方言保住了三个别处早已消亡的词。
-a dialect = 方言
-② The form is dialectal and appears in print only in dialogue.
-= 那个形式属于方言，印出来只会出现在对白里。
-be dialectal = 属于方言的
-③ Dialectology used to mean a bicycle, a notebook and a great deal of patience.
-= 方言学从前意味着一辆自行车、一个本子和极大的耐心。
-dialectology = 方言学
-④ A dialectologist recorded her grandmother in 1961 and the tape survives.
-= 一位方言学家一九六一年录下了她祖母的话，那盘带子还在。
-a dialectologist = 方言学家
-构词：希腊语 dialektos 说话方式
-注意别混：dialect 是同一语言的地方变体，accent 只说口音。
+diet
+核心：两支。一是「日常吃的东西」——a balanced diet 说的是长期吃什么；
+二是为减重或治病而限制饮食：be on a diet 是在节食，go on a diet 是开始节食。
+形容词 dietary 说饮食方面的（dietary requirements）；
+a dieter 是正在节食的人；dietetics 是营养学，dietetic 是它的形容词，
+从业的营养师叫 a dietician。
+① A balanced diet does more for the skin than anything sold in a jar.
+= 均衡饮食对皮肤的好处，胜过任何罐装产品。
+a balanced diet = 均衡的饮食
+② She has been on a diet since January and cooks for four people every night.
+= 她从一月起就在节食，却每晚给四个人做饭。
+be on a diet = 在节食
+③ The form asks about dietary requirements and gives you four lines to explain.
+= 那张表问饮食方面的要求，只留四行让你写清楚。
+dietary requirements = 饮食方面的要求
+④ The dietician changed two meals a day and the readings improved within a month.
+= 营养师改了一天里的两顿饭，一个月内指标就好转了。
+a dietician = 营养师
+⑤ Dietetics was taught in the same building as nursing and half the students switched.
+= 营养学跟护理在同一栋楼里上课，一半学生转了专业。
+dietetics = 营养学
+⑥ Every dieter in the office brought the same lunch and talked about it at length.
+= 办公室里每个在节食的人都带同样的午饭，还长篇大论地讲它。
+a dieter = 正在节食的人
+日常多说 somebody who is on a diet；这个名词多见于报道与广告。
+⑦ The hospital orders dietetic meals for four wards and gets the labels wrong twice a week.
+= 医院给四个病区订营养配餐，一周有两回把标签弄错。
+dietetic meals = 按营养要求配的膳食
+形容词，属营养学一族，说按营养标准配制的。
+构词：希腊语 diaita 生活方式
+注意别混：a diet 说长期吃什么，也说为减重限制饮食，靠上下文分。
 
-dialectic
-核心：辩证法：通过正反两面的对立与冲突推进认识的那套思路 ——
-哲学用语，黑格尔与马克思之后最常被引用。
-可数不可数都行，也说 dialectics。形容词 dialectical。
-① The dialectic between the two departments produced better work than either alone.
-= 两个部门之间的相互诘难，出的活儿比任何一方单干都好。
-a dialectic = 辩证的对立与推进
-② Dialectical thinking looks for the contradiction before it looks for the answer.
-= 辩证的思路是先找矛盾，再找答案。
-dialectical thinking = 辩证的思路
-构词：希腊语 dialektike 论辩之术
-注意别混：dialectic 是辩证法，dialectal 是「方言的」—— 两个词只差一点。
+Dieu et mon droit
+核心：英国王室的格言，法语，字面是「上帝与我的权利」，
+印在英国王室纹章上，也出现在法庭文书与官方文件的抬头。
+不可数，几乎只作专名引用。
+① Dieu et mon droit appears on the coat of arms above every courtroom door.
+= 王室格言印在每间法庭门上方的纹章上。
+Dieu et mon droit = 上帝与我的权利（英国王室格言）
+② Court papers still carry Dieu et mon droit above the case number.
+= 法庭文书至今在案号上方印着这句王室格言。
+carry Dieu et mon droit = 印着这句王室格言
+构词：法语「上帝与我的权利」，据说出自理查一世
+注意语域：专名式引用，日常不用。
 
-dialogue
-核心：三支。一是对话，剧本与小说里人物说的话（不可数）；
-二是可数的一场对话或一篇对话体作品；三是政治上的「对话」，
-指双方坐下来谈（open a dialogue with somebody）。美式拼 dialog。
-① The dialogue is the best thing in the film and the plot is the worst.
-= 那部电影里对白最好，情节最差。
-dialogue = 对白
-② They opened a dialogue with the other side and kept it going for two years.
-= 他们跟对方开启了对话，谈了两年。
-open a dialogue with somebody = 跟某方开启对话
-③ A dialogue between two characters who never meet again fills the middle chapter.
-= 中间那一章写的是两个此后再无交集的人物之间的一段对话。
-a dialogue = 一段对话
-④ A dialog box appeared behind the main window and blocked everything until it was found.
-= 一个对话框弹在主窗口后面，没找到它之前什么都点不动。
-a dialog box = 对话框（软件界面）
-界面上的这个词一律用美式拼法 dialog，不写 dialogue。
-构词：希腊语 dialogos 交谈
-注意用法：计算机界面上的对话框写 a dialog box，用美式拼法。
+differ
+核心：两支。一是不同：differ from something（跟某物不同）、
+differ in something（在某方面不同）；二是意见不合：differ with somebody，
+也说 agree to differ（各自保留意见）。不及物动词。
+① The two accounts differ in every detail that anybody could check.
+= 那两份说法在凡是查得到的细节上都不一样。
+differ in something = 在某方面不同
+② I differ with him about the cause and agree about almost everything else.
+= 关于起因我跟他看法不同，别的几乎都一致。
+differ with somebody = 与某人意见不合
+③ They agreed to differ and the meeting finished twenty minutes early.
+= 他们同意各自保留意见，会议提前二十分钟结束。
+agree to differ = 各自保留意见
+构词：拉丁语 differre 分开、拖延
+注意用法：说跟什么不同用 from，说在哪方面不同用 in。
 
-dialysis
-核心：透析：肾功能衰竭时靠机器替代肾脏清除血里废物。不可数，
-重音在第二个音节。常说 be on dialysis（在做透析）。
-① He has been on dialysis three times a week for nine years.
-= 九年来他每周做三次透析。
-be on dialysis = 在做透析
-② The dialysis unit runs two shifts and still cannot take everybody.
-= 透析中心开两班，还是收不下所有人。
-a dialysis unit = 透析中心
-构词：希腊语 dialysis 分解、分离
-注意用法：说做透析用 be on dialysis 或 have dialysis。
+difference
+核心：差别、差额。可数不可数都行。
+五个说法要一起记：make a difference 是「起作用、有影响」，
+tell the difference 是「分得出来」，a world of difference 是「天壤之别」，
+split the difference 是「折中一下」，with a difference 是「与众不同的那种」。
+① One extra pair of hands made a difference nobody had expected.
+= 多一双手帮忙，起的作用谁都没料到。
+make a difference = 起作用、有影响
+② Can you tell the difference between the two recordings with your eyes shut?
+= 闭上眼睛，你分得出那两段录音吗？
+tell the difference = 分得出来
+③ There is a world of difference between reading about it and standing in it.
+= 读到它和站在其中，是天壤之别。
+a world of difference = 天壤之别
+④ They split the difference and both went home mildly annoyed.
+= 他们各让一步取了中间数，回家时两边都有点不痛快。
+split the difference = 折中、各让一步
+⑤ It is a village shop with a difference: it opens at five in the morning.
+= 那是家与众不同的村店 —— 早上五点就开门。
+with a difference = 与众不同的
+⑥ It makes no difference which door you use; they both open onto the same yard.
+= 走哪扇门都一样，两扇都通向同一个院子。
+it makes no difference = 没有区别、都一样
+否定式写作 make no difference：it will make no difference either way。
+跟 make a difference 正好相反；后面常接 which、whether 引导的从句。
+构词：differ 的名词
+注意用法：说「有影响」用 make a difference to something。
 
-diamanté
-核心：仿钻的、缀满小亮片的：说衣服、鞋子、饰品上那些闪亮的小玻璃钻。
-形容词与不可数名词同形，也拼 diamante。
-文学词 diamantine 是「像钻石一样（坚硬或闪亮）的」，偏诗意。
-① She wore a diamanté clip that caught the light from every angle.
-= 她别着一枚仿钻发夹，从哪个角度看都在闪。
-a diamanté clip = 仿钻发夹
-② The dress is covered in diamante and weighs more than it looks.
-= 那条裙子上缀满仿钻，比看着要沉。
-be covered in diamante = 缀满仿钻
-③ The ice had a diamantine hardness that broke two picks.
-= 那层冰硬得像钻石，弄断了两把镐。
-diamantine = 钻石般的（文学）
-构词：法语 diamant 钻石
-注意别混：diamanté 是仿钻装饰，diamond 才是真钻石。
+different
+核心：不同的。三种搭配都对，但用处不一样：different from 是通用且最安全的；
+different to 是英式口语；different than 是美式，尤其后面接从句时。
+副词 differently，说 do something differently。
+① Her second book is completely different from the first and sold half as well.
+= 她的第二本书跟第一本完全不同，销量只有一半。
+different from something = 跟某物不同
+② The place looks different to me every time I come back.
+= 每次回来，我都觉得那地方跟以前不一样。
+different to somebody = 在某人看来不一样（英式）
+③ Things turned out different than anybody had predicted.
+= 事情的结果跟谁预测的都不一样。
+different than = 跟……不同（美式，尤其接从句）
+④ They do it differently in the north and neither side thinks the other is right.
+= 北边的做法不一样，两边都觉得对方不对。
+do something differently = 用不同的方式做某事
+构词：differ 加 -ent
+注意用法：三种介词都通行，写作里 from 最稳妥。
 
-diameter
-核心：直径：穿过圆心、两端都在圆周上的那条线，也指它的长度。可数。
-常说 a metre in diameter（直径一米）。
-形容词 diametrical 与副词 diametrically 主要用在
-diametrically opposed（截然相反）这个说法里。
-① The pipe is thirty centimetres in diameter and still blocks twice a year.
-= 那根管子直径三十厘米，一年照样堵两回。
-in diameter = 直径为……
-② The tree measures four metres in diameter at chest height.
-= 那棵树在胸高处直径四米。
-measure something in diameter = 量出直径
-③ Their two accounts are diametrically opposed and both witnesses are honest.
-= 他们两人的说法截然相反，可两位证人都是诚实的。
-diametrically opposed = 截然相反
-④ The diametrical measurement was taken at three heights and averaged.
-= 直径在三个高度上各量一次，取的是平均值。
-a diametrical measurement = 直径方向上的测量
-形容词偏技术；日常几乎只用副词 diametrically。
-构词：希腊语 diametros 横量过去
-注意用法：说直径多少用 in diameter，放在数字后面。
+differential
+核心：三支。一是名词的「差额」，尤指工资差距（a pay differential）；
+二是形容词「有区别的、差别对待的」（differential treatment）；
+三是机械里的差速器，与数学里的微分。
+动词 differentiate 是「区分、有区别地对待」，名词 differentiation。
+① The pay differential between the two grades has not changed since the seventies.
+= 那两个职级之间的工资差距，从七十年代起就没变过。
+a pay differential = 工资差额
+② Differential treatment of the two groups was defended and then quietly dropped.
+= 对那两个群体的差别对待先是被辩护，后来悄悄取消了。
+differential treatment = 差别对待
+③ Most people cannot differentiate between the two brands in a blind test.
+= 盲测里多数人分不出那两个牌子。
+differentiate between A and B = 分辨甲与乙
+④ The company differentiates itself on service and charges accordingly.
+= 那家公司靠服务做出区隔，价格也就照此收。
+differentiate something = 使某物与众不同
+⑤ Differentiation happens early and the cells never go back.
+= 分化发生得很早，那些细胞再也回不去了。
+differentiation = 区分；生物学上的分化
+⑥ A differential equation describes how fast something changes, not how big it is.
+= 微分方程描述的是变化有多快，不是量有多大。
+a differential equation = 微分方程
+数学与物理里的常用词，缩写 ODE、PDE 分别指常微分与偏微分方程。
+构词：拉丁语 differentia 差别
+注意用法：说分辨用 differentiate between A and B 或 differentiate A from B。
 
-diamond
-核心：四支。一是钻石；二是菱形（a diamond shape）；
-三是纸牌里的方块花色（复数 diamonds）；四是棒球的内场。
-习语 a rough diamond 说人「外表粗糙、心地好」（美式说 a diamond in the rough）。
-① The diamond was insured for more than the house it sat in.
-= 那颗钻石的保额比放着它的那栋房子还高。
-a diamond = 钻石
-② The window has a pattern of small diamonds set in lead.
-= 那扇窗上镶着一格格铅框的小菱形。
-a diamond = 菱形
-③ He led a low diamond and lost the trick to a card nobody had counted.
-= 他打出一张小方块，输给了一张谁都没数到的牌。
-a diamond = 方块（纸牌花色）
-④ He is a rough diamond and the interview panel had no idea what to do with him.
-= 他是个外粗内秀的人，面试小组完全不知道该拿他怎么办。
-a rough diamond = 外表粗糙、心地不错的人
-⑤ Her grandparents reached their diamond wedding and the local paper sent a photographer.
-= 她祖父母迎来钻石婚，本地报纸派了摄影师来。
-a diamond wedding = 钻石婚（结婚六十周年）
-英式说 a diamond wedding，美式多说 a diamond anniversary。
-⑥ The coach saw a diamond in the rough and spent three seasons proving he was right.
-= 教练看出那是块未经打磨的璞玉，用三个赛季证明自己没看错。
-a diamond in the rough = 外表粗糙、本质不错的人（美式）
-跟英式的 a rough diamond 是同一个意思，词序不同。
-⑦ The diamond jubilee filled the street with bunting that stayed up until August.
-= 钻禧庆典把整条街挂满彩旗，一直挂到八月。
-a diamond jubilee = 钻禧（六十周年纪念）
-跟 golden jubilee 五十周年、silver jubilee 二十五周年成一族。
-构词：希腊语 adamas 最坚硬之物
-注意用法：结婚六十周年叫 a diamond wedding，说的也是这个词。
+difficult
+核心：难的：说事情不好做，也说人「不好相处、爱找别扭」。
+最常用的结构是 find it difficult to do something 与 it is difficult to do something。
+形容词，比较级 more difficult。
+① Most people find it difficult to say no to somebody standing in their kitchen.
+= 有人站在自家厨房里，多数人很难开口拒绝。
+find it difficult to do something = 觉得很难做某事
+② It is difficult to explain the rule without drawing the diagram twice.
+= 不把图画两遍，那条规则很难讲清楚。
+it is difficult to do something = 做某事很难
+③ He is being difficult about the dates and everybody knows why.
+= 他在日期上故意为难人，大家都知道为什么。
+be difficult = 故意找别扭（说人）
+④ She had a difficult year and told almost nobody about any of it.
+= 她过了艰难的一年，几乎没跟谁提过。
+a difficult year = 艰难的一年
+构词：拉丁语 difficilis 不容易的
+注意用法：说人难相处用 be difficult，进行时更明显是在挑刺。
 
-diamorphine
-核心：二乙酰吗啡：海洛因的医药名，医院里用作强效镇痛药。
-不可数，英国的医学与法律文书里用这个名字。
-① Diamorphine was given for the pain and the note says it worked within minutes.
-= 用了二乙酰吗啡镇痛，记录上说几分钟就见效。
-diamorphine = 二乙酰吗啡
-② The ward keeps diamorphine in a locked cupboard and counts it twice a shift.
-= 病区把这种药锁在柜里，每班清点两次。
-keep diamorphine locked = 把这种药锁起来
-构词：di- 二 加 morphine 吗啡
-注意语域：医学与法律用语；街面上那种叫 heroin。
+difficulty
+核心：困难。不可数指「难度」（with difficulty 是「费劲地」），
+可数指一个个具体的难处（financial difficulties）。
+常说 have difficulty doing something —— 后面接动名词，不接不定式。
+① She got up the stairs with difficulty and refused all four offers of help.
+= 她费劲地上了楼，四次有人要帮忙都被她回绝。
+with difficulty = 费劲地
+② He has difficulty hearing in a room with more than three people in it.
+= 屋里超过三个人，他就听不太清。
+have difficulty doing something = 做某事有困难
+③ The company ran into financial difficulties and told the staff last.
+= 公司陷入财务困境，最后才告诉员工。
+financial difficulties = 财务困境
+构词：difficult 的名词
+注意用法：have difficulty 后面接动名词，不说 have difficulty to do。
 
-diaper
-核心：尿布：美式说法，英式说 a nappy。可数。
-也作动词（diaper a baby），但少用。
-① The changing room has a table, a bin and nowhere to put a clean diaper.
-= 那间婴儿室有台子、有垃圾桶，却没地方放干净尿布。
-a diaper = 尿布（美式）
-② They went through eleven diapers on the flight and ran out over Greenland.
-= 那趟航班上他们用掉十一片尿布，飞到格陵兰上空就用光了。
-go through diapers = 用掉一片片尿布
-③ Diaper rash cleared up in two days once they changed the brand.
-= 换了牌子之后，尿布疹两天就好了。
-diaper rash = 尿布疹（美式）
-英式说 nappy rash。
-构词：中世纪拉丁语 diasprum 一种带花纹的白布
-注意用法：英式一律说 nappy；两边说的是同一样东西。
+diffident
+核心：怯生生的、不自信的：说人不敢主张自己，语气里带同情，不是贬义。
+形容词，名词 diffidence，副词 diffidently。
+跟 shy 分界：shy 说怕生，diffident 说觉得自己不够格。
+① He was diffident about his own work and generous about everybody else's.
+= 他对自己的活儿总不自信，说起别人的却毫不吝惜。
+be diffident about something = 对某事不自信
+② She raised the point diffidently and it turned out to be the important one.
+= 她怯生生地提了那一点，结果那才是关键。
+raise something diffidently = 怯生生地提出某事
+③ His diffidence was mistaken for indifference for the whole of that year.
+= 整整一年里，他的不自信都被人当成了漠不关心。
+diffidence = 不自信、怯懦
+构词：拉丁语 diffidere 不信任（自己）
+注意别混：diffident 是不敢自我主张，shy 是怕生，modest 是不张扬。
 
-diaphanous
-核心：薄得透光的：说布料轻薄透明，偏文学。形容词。
-也比喻着说想法、界限「薄得站不住」。
-① She wore something diaphanous over something considerably more practical.
-= 她在一件实用得多的衣服外面罩了件薄透的外衫。
-diaphanous = 薄得透光的
-② The distinction between the two categories is diaphanous at best.
-= 那两个类别之间的区分，说好听点也薄得站不住。
-be diaphanous = 薄得站不住的（比喻）
-构词：希腊语 diaphanes 透光的
-注意语域：偏文学；日常说 see-through、thin。
+diffract
+核心：（物理）衍射：波遇到障碍或狭缝时绕过去、散开来。
+及物不及物都行，名词 diffraction，常说 a diffraction grating（衍射光栅）。
+① Light diffracts around the edge of the blade and blurs the shadow.
+= 光在刀刃边缘发生衍射，把影子弄模糊了。
+diffract = 衍射
+② A diffraction grating splits the beam into lines you can actually count.
+= 衍射光栅把光束分成一条条数得清的谱线。
+a diffraction grating = 衍射光栅
+构词：拉丁语 diffringere 折断
+注意别混：refract 是折射，reflect 是反射，diffract 是绕过障碍散开。
 
-diaphragm
-核心：三支。一是横膈膜：胸腔与腹腔之间那片肌肉，呼吸靠它；
-二是避孕用的膜状器具；三是设备里的膜片，扬声器与相机光圈都用这个词。可数。
-① Singers are taught to breathe from the diaphragm and most of them forget.
-= 歌手都被教过用横膈膜呼吸，多数人后来都忘了。
-the diaphragm = 横膈膜
-② The camera's diaphragm sticks in the cold and the pictures come out dark.
-= 那台相机的光圈一冷就卡，照片都偏暗。
-a diaphragm = 光圈、膜片
-构词：希腊语 diaphragma 隔开的东西
-注意用法：说唱歌与呼吸时几乎总加 the。
+diffuse
+核心：两支，读音不同。动词是「扩散、散开」，也说把知识、风气传开；
+形容词是「弥漫的、不集中的」，说光线柔散，也贬义地说文章「松散拖沓」。
+副词 diffusely，名词 diffuseness 与 diffusion；
+a diffuser 是把光或气流打散的那个装置。
+① The smell diffused through the whole floor within about ten minutes.
+= 那股味道十来分钟就散遍了整层楼。
+diffuse = 扩散开来
+② The light is diffuse and the room has no shadows in it at all.
+= 光线是弥散的，屋里一点影子都没有。
+be diffuse = 弥散的、不集中的
+③ The argument is diffuse and could be made in a third of the space.
+= 那套论证太松散，用三分之一的篇幅就能讲完。
+a diffuse argument = 松散拖沓的论证
+④ Diffusion of the new method took thirty years and two generations of teachers.
+= 那套新方法的传开用了三十年、两代教师。
+diffusion = 扩散、传播
+⑤ She put a diffuser on the lamp and the whole room stopped looking like an office.
+= 她给灯加了个柔光罩，整间屋子看着就不像办公室了。
+a diffuser = 柔光罩、扩散器
+⑥ The point is made diffusely over six pages and the diffuseness is the whole problem.
+= 那个论点用六页散散漫漫地讲下来，问题恰恰就出在这份散漫上。
+diffusely = 散漫地、不集中地
+diffuseness = 散漫、不集中
+两个词都偏批评，说文章与论证没个焦点。
+构词：拉丁语 diffundere 倒开来
+注意别混：diffuse 是扩散，defuse 是拆引信、化解 —— 拼写只差一个字母。
 
-diarist
-核心：写日记的人，尤指那些日记后来成了史料或文学作品的人。可数。
-日记本身是 a diary，英式的 diary 还兼指记事用的日程本。
-① The diarist recorded the weather every day for fifty-one years.
-= 那位日记作者连着五十一年每天记天气。
-a diarist = 日记作者
-② She keeps a diary for appointments and another one for everything else.
-= 她一本日程本记约会，另一本记别的一切。
-keep a diary = 记日记；也指记日程
-构词：diary 加 -ist
-注意别混：英式 diary 多指日程本，日记本美式说 a journal。
+dig
+核心：底层是「往土里下手把东西弄出来」。往几支长：挖土挖洞是本义；
+把埋着的东西挖出来（dig up potatoes）；抽象地「往深里挖」——
+查资料、翻旧账都用 dig into；再抽象一层是「不肯挪」——
+dig your heels in 是脚跟往土里一扎，谁也拉不动。
+名词几支：一次考古发掘、一句挖苦话、英式口语的 digs 是租住的房间。
+三态不规则：dig－dug－dug。
+① They dug a hole in the garden and hit a pipe within a foot.
+= 他们在园子里挖坑，不到一英尺就挖到了管子。
+dig a hole = 挖坑
+最本义的一支，宾语是挖出来的那个空间。
+② She was digging in the flower bed when the phone finally rang.
+= 电话终于响的时候，她正在花坛里刨土。
+dig = 挖、翻土
+不及物用法，说干挖土这件活。
+③ We dug up the potatoes and left half of them in the ground.
+= 我们把土豆挖了出来，还有一半留在土里。
+dig up = 挖出来
+宾语是埋在土里的东西。
+④ Reporters dug up an old scandal a fortnight before the vote.
+= 投票前两周，记者翻出了一桩旧丑闻。
+dig up = 翻出（旧事、丑闻）
+抽象的那一支，多用于揭人老底。
+⑤ He dug out his old notes and found them harder than he remembered.
+= 他翻出旧笔记，发现比记忆里难懂得多。
+dig out = 从堆里翻找出来
+不一定真在土里，翻箱倒柜也用它。
+⑥ The soldiers dug in before dawn and held the ridge for a week.
+= 士兵们天亮前挖壕固守，把山脊守了一星期。
+dig in = 挖掩体固守
+军事上的本义：把自己埋进土里守住。
+⑦ Dig in, everyone, before it goes cold and nobody wants it.
+= 大家动筷子吧，凉了就没人吃了。
+dig in = 开动吃饭（口语）
+同一个短语的第二支，招呼人动筷子。
+⑧ The government dug in and refused to talk to anyone at all.
+= 政府寸步不让，谁也不肯谈。
+dig in = 死守立场
+第三支，从挖工事那个比方来。
+⑨ She dug into the archives and came out with a name nobody expected.
+= 她在档案里挖，挖出一个谁也没料到的名字。
+dig into = 深入查找
+后面接资料、历史、账目。
+⑩ They had to dig into their savings to keep the shop open.
+= 为了让店开下去，他们不得不动用积蓄。
+dig into = 动用（存款）
+同一个短语的第二支，说不得不掏老本。
+⑪ He dug over the vegetable patch and put manure in before the frost.
+= 他把菜地翻了一遍，赶在霜冻前施了肥。
+dig over = 把地整片翻一遍
+园艺用语，宾语是那块地。
+⑫ Charities are asking people to dig deep in the leanest year yet.
+= 在最难的一年里，慈善机构呼吁大家慷慨解囊。
+dig deep = 深挖；也指慷慨掏钱
+募捐场合几乎只用第二个义。
+⑬ She dug her heels in and would not move on a single point.
+= 她固执到底，一个条件也不肯让。
+dig your heels in = 顽固不让步
+比方很直白：鞋跟扎进土里，拉不动。
+⑭ He is digging his own grave and inviting people to watch.
+= 他在自掘坟墓，还请人来看。
+dig your own grave = 自掘坟墓
+说人自己的做法在把自己往绝路上送。
+⑮ That was a dig at me, and everybody in the room knew it.
+= 那是在挖苦我，屋里人人都听得出来。
+a dig at somebody = 冲某人的一句挖苦
+名词的这一支，说话像往人身上戳一下。
+⑯ They are working on a dig in Turkey that has run for eleven seasons.
+= 他们在土耳其的一处发掘现场工作，那里已经挖了十一季。
+a dig = 考古发掘（现场）
+名词的第二支，考古行话。
+⑰ He is looking for digs near the college and cannot afford any of them.
+= 他想在学院附近找个住处，可哪个都租不起。
+digs = 租住的房间（英式口语）
+恒作复数，多指学生或单身汉租的一间房。
+⑱ The digger cleared the site in a day and broke a water main.
+= 挖掘机一天就把场地清了出来，还挖断了一根总水管。
+a digger = 挖掘机；也指挖掘的人
+派生名词，工地上说的就是那台机器。
+⑲ They dug themselves in on the second ridge and stayed there for eleven weeks.
+= 他们在第二道山脊上挖壕固守，一守就是十一周。
+dig yourself in = 挖壕固守；也指在某个位置上站稳
+比喻里说某人在职位或立场上扎下根来。
+构词：中古英语 diggen
+注意三态：dig / dug / dug，过去式与过去分词同形
+注意用法：短语动词那一族里，in 与 into 分工清楚 —— in 是守住、
+into 是往里查或往里掏。
 
-diarrhoea
-核心：腹泻。不可数，英式拼 diarrhoea，美式拼 diarrhea，拼写常错。
-形容词 diarrhoeal 用在医学文字里。
-① Diarrhoea kept half the group in the hotel for two days.
-= 腹泻让半数人在旅馆里困了两天。
-diarrhoea = 腹泻
-② Diarrhoeal disease is still one of the biggest killers of small children.
-= 腹泻类疾病至今仍是幼儿最大的杀手之一。
-diarrhoeal disease = 腹泻类疾病
-构词：希腊语 diarrhoia 流过去
-注意用法：英美拼法不同，中间那个 oe 是英式的记号。
+digest
+核心：三支。一是消化食物；二是「消化」消息与信息，需要时间想明白；
+三是名词（重音在前）的「文摘」：把长文压缩成的摘要合集。
+形容词 digestible 说「好消化的」，也说内容「好吸收的」；
+名词 digestion；digestive 说消化的，英式的 a digestive 还是一种全麦饼干；
+a digestif 是餐后助消化的酒。
+① Some people cannot digest milk and find out only in their thirties.
+= 有些人消化不了牛奶，三十几岁才发现。
+digest something = 消化某物
+② Give me a day to digest the figures before we decide anything.
+= 给我一天消化这些数字，再决定别的。
+digest information = 消化信息
+③ The digest runs to eight pages and saves everybody the four hundred.
+= 那份文摘八页，替所有人省下了四百页。
+a digest = 文摘
+④ The report is long but digestible and the summary is honest.
+= 那份报告很长却好读，摘要也老实。
+digestible = 好消化的；也说内容好吸收
+⑤ Digestion slows down when you eat standing up, whatever anybody tells you.
+= 站着吃东西消化会变慢，不管谁跟你说什么。
+digestion = 消化
+⑥ He had a digestif and slept through the second half of the concert.
+= 他喝了杯餐后酒，音乐会下半场全睡过去了。
+a digestif = 餐后助消化酒
+⑦ She dunked a digestive in her tea and lost half of it to the bottom of the cup.
+= 她把一块全麦饼干泡进茶里，半块掉在了杯底。
+a digestive = 全麦消化饼干（英式）
+the digestive system = 消化系统
+英式的饼干名就叫 digestive；医学里 digestive 作形容词说消化的。
+⑧ The digester runs at forty degrees and turns the waste into gas and a smell.
+= 那台厌氧发酵罐在四十度下运行，把废料变成沼气和一股味道。
+a digester = 厌氧发酵罐
+污水处理与沼气工程里的设备名。
+构词：拉丁语 digerere 分开、消化
+注意用法：名词重音在前，动词重音在后。
 
-diaspora
-核心：离散族群：因迁徙或被迫离开而散居各地的同一群人，
-也指那次离散本身。可数，常加 the，首字母大小写都见得到。
-最初专指犹太人的离散，如今说任何族群都行。
-① The diaspora sends home more money each year than the country earns from exports.
-= 那个离散族群每年汇回国的钱，比这个国家出口挣的还多。
-a diaspora = 离散族群
-② Three generations of the diaspora came back for a week and argued about the food.
-= 那个离散族群的三代人回来待了一周，为吃的争论不休。
-the diaspora = 散居在外的同族人
-构词：希腊语 diaspora 播散
-注意用法：作定语说 diaspora communities、the diaspora vote。
+digit
+核心：两支。一是数字 0 到 9 中的一个（a four-digit number 是四位数）；
+二是（正式或解剖学）手指或脚趾。可数。
+形容词 digital 说「数字的、数码的」，副词 digitally；
+digitize 是把资料数字化，名词 digitization；
+另有 digitalis，一种从毛地黄提取的强心药，跟数字无关。
+① The code is a six-digit number and the machine locks after three attempts.
+= 那个密码是六位数，试三次机器就锁。
+a six-digit number = 六位数
+② The X-ray showed a break in the smallest digit of the left foot.
+= X 光片显示左脚最小的那根趾骨骨折。
+a digit = 手指、脚趾（正式）
+③ The archive was digitized over four years and the originals were kept anyway.
+= 那批档案用四年做了数字化，原件照样留着。
+digitize something = 把某物数字化
+④ Digitization changed who could use the collection more than what was in it.
+= 数字化改变的与其说是藏品本身，不如说是谁用得上它。
+digitization = 数字化
+⑤ Everything is signed digitally now and the pen stays in the drawer.
+= 现在什么都用电子方式签，笔一直放在抽屉里。
+sign something digitally = 用电子方式签署
+⑥ Digitalis was in use long before anybody understood how it worked.
+= 早在有人弄懂它怎么起效之前，毛地黄制剂就已在用了。
+digitalis = 毛地黄制剂（强心药）
+⑦ Doctors digitalize a patient carefully because the safe dose and the dangerous one are close together.
+= 医生给病人用毛地黄类药物时很谨慎，因为安全剂量与危险剂量离得很近。
+digitalize somebody = 给某人用毛地黄类药物
+医学专用；跟把资料数字化的 digitize 只差一点，意思毫不相干。
+构词：拉丁语 digitus 手指 —— 数数最早靠手指
+注意别混：digitize 是数字化，digitalize 在医学上指用毛地黄类药物治疗。
 
-diastole
-核心：心脏舒张期：两次收缩之间心肌松开、心腔充血的那一段 ——
-跟收缩期 systole 相对。不可数，形容词 diastolic。
-量血压时那个较小的数字就是 diastolic pressure。
-① Diastole lasts longer than the contraction and shortens as the heart speeds up.
-= 舒张期比收缩期长，心跳一快它就变短。
-diastole = 心脏舒张期
-② Her diastolic pressure was the number the nurse actually cared about.
-= 护士真正在意的是她的舒张压那个数字。
-diastolic pressure = 舒张压
-构词：希腊语 diastole 扩张
-注意用法：血压写作两个数，前面是收缩压，后面是舒张压。
+digital
+核心：三支。一是数字的、数码的：用 0 与 1 存储处理的（a digital camera），
+跟 analogue 模拟的相对；二是「数字化生活方面的」——the digital economy、
+digital skills；三是钟表上的数字显示（a digital watch），跟指针式相对。
+副词 digitally。
+① The digital camera changed what people photograph more than how it looks.
+= 数码相机改变的与其说是照片的样子，不如说是人们拍什么。
+a digital camera = 数码相机
+② Digital skills are assessed in the interview and never mentioned in the job advert.
+= 面试要考数字技能，招聘广告里却只字不提。
+digital skills = 数字技能
+③ He wears a digital watch and can never tell you how long is left.
+= 他戴的是电子表，却总说不出还剩多久。
+a digital watch = 电子表
+④ The whole archive is available digitally and the reading room is still full.
+= 整批档案都能在线看了，阅览室照样坐满。
+be available digitally = 可以在线取用
+⑤ The gallery bought digital art and had to buy the screen it lives on as well.
+= 那家画廊买了数字艺术品，连带还得买下承载它的屏幕。
+digital art = 数字艺术
+a digital certificate = 数字证书
+a digital signature = 数字签名
+签名与证书那两个是安全领域的固定说法，跟手写签名不是一回事。
+⑥ The digital divide in that county is a matter of speed, not of ownership.
+= 那个郡的数字鸿沟问题在网速，不在有没有设备。
+the digital divide = 数字鸿沟
+a digital footprint = 数字足迹
+digitalization = 数字化
+数字足迹指一个人在网上留下的全部痕迹。
+⑦ Digital natives are assumed to understand the settings and mostly just accept them.
+= 人们以为数字原住民懂那些设置，其实他们多半只是照单全收。
+a digital native = 数字原住民
+a digital immigrant = 数字移民
+两个词说的是「从小就用」与「半路才学」的两代人，出自一篇两千年前后的文章。
+⑧ Digital television arrived, digital recording got cheap, and digital publishing killed two magazines.
+= 数字电视来了，数字录制便宜了，数字出版则弄垮了两本杂志。
+digital television = 数字电视
+digital recording = 数字录制
+digital publishing = 数字出版
+digital audiotape = 数字录音带
+digital audiotape 缩写 DAT，是九十年代的录音介质。
+构词：digit 手指、数字 加 -al
+注意别混：digital 是数字信号的，analogue 是连续量的；表盘那一支跟 analogue 也成对。
 
-diatomic
-核心：（化学）双原子的：一个分子由两个原子组成 ——
-氧、氮、氢在常温下都是这样。形容词，学术用语。
-① Oxygen is diatomic in the air we breathe and monatomic almost nowhere on earth.
-= 我们呼吸的空气里氧是双原子的，地球上几乎没有单原子的形态。
-be diatomic = 双原子的
-② The reaction splits a diatomic molecule and needs a great deal of energy to do it.
-= 那个反应要把一个双原子分子拆开，得耗很多能量。
-a diatomic molecule = 双原子分子
-构词：di- 二 加 atom 原子
-注意语域：化学术语，日常不用。
+dignified
+核心：有尊严的、端庄的：说举止、场合、也说人在难堪处境里仍守住体面。
+形容词。动词 dignify 是「使显得体面」，常反着用
+（dignify something with a reply 指「值不值得回一句」）；
+a dignitary 是要人、显贵；名词 dignity 是尊严。
+① She gave a dignified answer to a question that did not deserve one.
+= 面对一个不值得回答的问题，她给了个体面的回答。
+a dignified answer = 体面的回答
+② He refused to dignify the rumour with a reply and it went round anyway.
+= 他不屑于回应那个谣言，谣言照样传开了。
+dignify something with a reply = 屈尊回应某事
+③ Three dignitaries were seated in the front row and nobody knew who they were.
+= 前排坐着三位要人，谁也不知道他们是谁。
+a dignitary = 要人、显贵
+④ She kept her dignity through a hearing designed to take it away.
+= 那场听证会本就是要剥掉她的体面，她却守住了尊严。
+keep your dignity = 守住尊严
+构词：拉丁语 dignus 值得的
+注意用法：dignify 多用在否定与反讽里。
 
-diatribe
-核心：长篇痛骂：滔滔不绝地抨击某人某事，语气激烈、听着没完。可数，
-常说 a diatribe against something。
-① The speech turned into a diatribe against the press and lasted forty minutes.
-= 那篇讲话变成了对媒体的长篇痛骂，讲了四十分钟。
-a diatribe against something = 对某事的长篇痛骂
-② He wrote a diatribe, slept on it, and posted it anyway.
-= 他写了一通痛骂，压了一夜，还是发了出去。
-write a diatribe = 写一通痛骂
-构词：希腊语 diatribe 消磨时间的讲说
-注意别混：diatribe 是长篇激烈抨击，criticism 是一般的批评。
+digraph
+核心：（语言学）二合字母：两个字母合起来表示一个音，
+英语里的 sh、ch、th 都是。可数。
+① English spells one sound with a digraph in half a dozen common words.
+= 英语里有好几个常用词，用两个字母合起来表示一个音。
+a digraph = 二合字母
+② Teaching digraphs early makes reading easier and spelling no easier at all.
+= 早教二合字母能让阅读容易些，拼写却一点没变简单。
+teach digraphs = 教二合字母
+构词：希腊语 di- 二 加 graphe 写
+注意别混：digraph 是两个字母表一个音，diphthong 是一个音节里两个元音滑动。
 
-diazepam
-核心：地西泮：一种抗焦虑与抗惊厥药，商品名安定（Valium）最有名。
-不可数，医学与法律文书里用这个通用名。
-① Diazepam was prescribed for a fortnight and taken for a year and a half.
-= 那种药开的是两周的量，实际吃了一年半。
-diazepam = 地西泮
-② The paramedic gave diazepam to stop the seizure before they reached the hospital.
-= 急救员在到医院之前用地西泮止住了抽搐。
-give somebody diazepam = 给某人用地西泮
-构词：化学结构命名，与 benzodiazepine 一族同源
-注意用法：药盒上写通用名，日常口语里可能说商品名。
+digress
+核心：离题：讲着讲着岔到别处去。不及物动词，
+常在写作里客气地说一句 but I digress（扯远了）。名词 digression。
+① He digressed twice and both digressions were better than the lecture.
+= 他岔了两次题，两次岔开的内容都比正课好。
+digress = 离题
+② A long digression about her grandmother turned out to be the point.
+= 一段关于她祖母的长长的题外话，最后才是真正的重点。
+a digression = 题外话
+构词：拉丁语 digredi 走开
+注意用法：写作里常用 but I digress 把话头拉回来。

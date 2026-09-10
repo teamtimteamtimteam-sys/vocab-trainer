@@ -1,552 +1,663 @@
-char
-核心：四支，来路不同。一是烧焦：把表面烤黑，charred 是
-焦黑的。二是英式旧口语的钟点女工，全称 charwoman。
-三是英式军中与旧口语里的茶。四是一种冷水鱼。
-① Char the peppers over a flame and the skins come off in one piece.
-= 把椒在火上烤焦皮，皮就能整张揭下来。
-char = 把表面烤焦
-② The beams were charred but held, and the surveyor said so in writing.
-= 那些梁烧焦了却没塌，验房师还写进了报告。
-charred = 焦黑的
-③ The char came on Tuesdays and knew more about the house than anyone.
-= 那位钟点女工周二来，对那栋房子比谁都清楚。
-a char = 钟点女工（英式旧）
-④ Fancy a cup of char? he asked, as he had every morning for twenty years.
-= 他问「来杯茶？」，二十年来每天早上都这么问。
-char = 茶（英式旧口语）
-⑤ They charbroil the steaks over wood rather than charcoal.
-= 牛排是用木柴而不是木炭明火炭烤的。
-charbroil = 明火炭烤（美式）
-构词：烧焦那支来历不确定；茶那支转自汉语
-注意语域：钟点女工与茶那两支都带旧气。
+chat
+核心：闲聊：轻松随便地说话，动词与名词同形。第二支是
+网上聊天：a chat room 是聊天室，chatline 是英式的付费
+聊天热线，chatbot 是自动应答的聊天机器人。形容词 chatty
+有两义：爱聊的、以及文风轻松像聊天的。
+① We chatted for an hour about nothing either of us can now remember.
+= 我们聊了一个钟头，聊的什么两人现在都想不起来。
+chat = 闲聊
+② Let's have a chat about it before the meeting turns it into a row.
+= 趁会上还没吵起来，我们先聊一聊。
+have a chat = 聊一聊
+③ They met in a chat room and were married inside eighteen months.
+= 他们在网络聊天室认识，一年半内就结了婚。
+a chat room = 网络聊天室
+④ The chatbot answered at once and got every question slightly wrong.
+= 聊天机器人立刻就答，每个问题都答得差那么一点。
+a chatbot = 聊天机器人
+⑤ Calls to the chatline cost extra and the bill arrives a month later.
+= 打付费聊天热线要加收费用，账单一个月后才到。
+a chatline = 付费聊天热线（英式）
+⑥ Her letters are chatty and run to about six pages each.
+= 她的信写得家常，每封大约六页。
+chatty = 爱聊的；文风轻松的
+⑦ He appeared on a chat show and talked about everything but the book.
+= 他上了访谈节目，什么都聊，就是不聊那本书。
+a chat show = 访谈节目（英式）
+⑧ He tried to chat her up and she asked him to move his bag.
+= 他想上前搭讪，她让他把包挪开。
+chat somebody up = 搭话套近乎（英式）
+chat up 的宾语放在中间，整体是搭话套近乎的意思。
+构词：由表示喋喋不休的那个词截短来
+注意用法：访谈节目英式说 chat show，美式说 talk show。
 
-charabanc
-核心：早年的敞篷长途游览大巴：一排排横座，二十世纪初
-英国人出游坐的就是它。今天是历史词，也用来怀旧地调侃
-旅游大巴。可数。
-① They rode to the coast in a charabanc and sang most of the way.
-= 他们坐敞篷游览车去海边，一路唱了大半程。
-a charabanc = 早年的敞篷游览大巴
-② Charabancs took workers on outings once a year, weather or no weather.
-= 那种车一年拉工人出游一次，不管天气好坏。
-outing = 出游
-构词：法语 char à bancs 带长凳的车
-注意用法：历史词，也用于怀旧的调侃。
+chateau
+核心：法国的城堡式大宅，也指带酒庄的庄园，酒标上那个词
+就是它。复数 chateaux 或 chateaus。正写带重音符。可数。
+① They stayed at a chateau in Burgundy with more rooms than heating.
+= 他们住在勃艮第一座庄园宅里，房间比暖气多。
+a chateau = 法国城堡式大宅
+② The chateau bottles its own wine and sells half of it at the gate.
+= 那家庄园自己装瓶，一半的酒就在门口卖掉。
+bottle = 装瓶
+③ Two chateaux stand on the hill and neither has been lived in for years.
+= 山上立着两座庄园宅，都空了好些年。
+chateaux = 复数形式
+构词：法语 château 城堡
+注意拼写：正写带重音符。
 
-character
-核心：五支，共同点是刻在上面的印记。一是性格、品性。
-二是作品里的人物、角色。三是特色、气质。四是口语里说
-人有个性、是个有意思的家伙。五是字符：字母、数字、
-符号，也指汉字，这一支在技术文字里极常用。派生：
-characteristic 典型的、也作名词指特征；
-characteristically 一贯如此地；characterize 刻画、
-也指是……的特点；characterization 人物刻画；
-characterful 有味道有特色的；characterless 没个性的。
-① She has a generous character and rather less money than people assume.
-= 她性情慷慨，钱却比人们以为的少。
-character = 性格、品性
-② The novel has forty characters and expects you to keep track of all of them.
-= 这部小说有四十个人物，还指望你个个都记得住。
-a character = 人物、角色
-③ The street has lost its character since the chains moved in.
-= 连锁店进驻以后，这条街就失去了原有的特色。
-character = 特色、气质
-④ Your grandfather was quite a character and left behind a great many stories.
-= 你祖父是个奇人，留下了一大堆故事。
-quite a character = 很有个性的人
-⑤ The password needs eight characters and at least one you will forget.
-= 密码要八个字符，其中至少有一个你会忘。
-a character = 字符
-⑥ Patience is characteristic of her and of nobody else in that family.
-= 耐心是她的特点，那家人里别人都没有。
-be characteristic of = 是……的典型特点
-⑦ He characteristically arrived early and rearranged the chairs before anyone came.
-= 他一如既往地早到，趁没人先把椅子重摆了一遍。
-characteristically = 一贯如此地
-⑧ Critics characterized it as a failure and the public bought it anyway.
-= 评论界把它说成失败之作，公众照买不误。
-characterize as = 把……说成
-⑨ The characterization is thin and the plot does all the work.
-= 人物刻画单薄，全靠情节撑着。
-characterization = 人物刻画
-⑩ It is a characterful old pub with a floor that slopes towards the door.
-= 那是家很有味道的老酒馆，地板朝门口斜着。
-characterful = 有特色有味道的
-⑪ The new estate is characterless and every street is named after a tree.
-= 新建的住宅区毫无特色，每条街都以树命名。
-characterless = 毫无个性的
-⑫ She is a fine character actor and has never once played a lead.
-= 她是位出色的性格演员，一次主角也没演过。
-a character actor = 性格演员
-⑬ Each character code maps to one symbol, which is why the old files break.
-= 每个字符编码对应一个符号，老文件才会乱码。
-a character code = 字符编码
-⑭ Character recognition reads the scan and gets the handwritten dates wrong.
-= 字符识别能读扫描件，手写的日期总认错。
-character recognition = 字符识别
-构词：希腊语 kharakter 刻痕、印记
-注意用法：字符那一支在技术文字里极常用。
+chattel
+核心：法律上的动产：不是土地房屋的那类财产，跟不动产
+相对，多用复数。旧时把奴隶当财产的制度叫 chattel
+slavery，讨论奴隶制时很常读到。可数。
+① Goods and chattels were listed in the will down to the fire irons.
+= 遗嘱把全部动产逐项列出，连火钳都写了。
+goods and chattels = 全部动产家当
+② The lease covers the building; the chattels inside belong to the tenant.
+= 租约管的是房子，里面的动产归租户。
+be moved = 被搬动
+③ Chattel slavery treated people as property that could be sold on.
+= 那种奴隶制把人当成可以转卖的财产。
+chattel slavery = 把人当财产的奴隶制
+构词：与 cattle 同源，本义都是财产
+注意别混：跟表示闲聊的那个词只是拼头相同。
 
-charade
-核心：两支。一是明明是假的、大家还配合演下去的把戏，
-带贬义。二是复数 charades 指看手势猜词的那个客厅游戏。
+chatter
+核心：三支。一是不停地说些没要紧的话，带一点嫌它琐碎；
+名词是那种嘁嘁喳喳。二是牙齿或机件因冷或松动而打颤。
+三是引申指网上与市场上的议论声。chatterbox 是话特别多
+的人，多说小孩，语气亲切。
+① They chattered all the way home about a film neither had liked.
+= 一路上他们说个不停，说的是一部两人都不喜欢的电影。
+chatter = 不停地闲说
+② The chatter died down the moment the head of department walked in.
+= 系主任一进门，那阵嘁嘁喳喳就静了下来。
+chatter = 嘁嘁喳喳的说话声
+③ My teeth were chattering before we were halfway across the field.
+= 地还没走到一半，我牙齿就在打颤了。
+teeth chatter = 牙齿打颤
+④ Market chatter pushed the price up before anything had been announced.
+= 什么都还没公布，市场上的议论就把价格推高了。
+market chatter = 市场传闻
+⑤ She is a real chatterbox and repeats every word she hears at home.
+= 她真是个话匣子，家里听来的每个字都要说一遍。
+a chatterbox = 话特别多的人
+构词：拟声，模仿连续的说话声
+注意语域：带一点嫌它琐碎，说小孩时是亲切的。
+
+chauffeur
+核心：私人司机：受雇专门给某人开车的人，多配高级轿车。
+动词是给某人当司机开车。可数。
+① A chauffeur met them at the airport holding a card with no name on it.
+= 一位司机在机场接他们，举的牌子上没写名字。
+a chauffeur = 私人司机
+② She was chauffeured to the hotel and back in the same hour.
+= 她由司机送到酒店，一小时内又送了回来。
+be chauffeured = 由司机开车送
+③ The chauffeur waited by the car for three hours in the rain.
+= 司机在雨里守着车等了三小时。
+wait by = 在……旁边等
+构词：法语 chauffeur 烧火的人，早期汽车要先烧锅炉
+注意别混：指受雇的专职司机，不是一般开车的人。
+
+chauvinism
+核心：两支。一是狂热的本国至上主义：认定自己国家什么都
+最好。二是今天更常读到的一支：male chauvinism 大男子
+主义。持这种态度的人是 chauvinist，形容词 chauvinistic。
+带贬义，不可数。
+① National chauvinism poisoned the debate and drove out everyone reasonable.
+= 民族狂热把那场辩论搅坏了，讲道理的人都被赶走了。
+chauvinism = 狂热的本国至上主义
+② Male chauvinism was open in those days and written into the job adverts.
+= 那时候大男子主义摆在明面上，招聘广告里就写着。
+male chauvinism = 大男子主义
+③ He is an unrepentant chauvinist who has outlived his own audience.
+= 他是个死不悔改的大男子主义者，比他自己的听众活得还久。
+a chauvinist = 抱这种态度的人
+④ The remark was chauvinistic and the presenter apologised for it twice.
+= 那句话带着这种偏见，主持人为此道了两次歉。
+chauvinistic = 抱本国至上或大男子偏见的
+副词 chauvinistically 用得少，多修饰 dismiss、assume 这类动词。
+chauvinistically = 抱着那种偏见地
+构词：法国士兵 Chauvin 的名字，他对拿破仑狂热崇拜
+注意语域：一律带贬义。
+
+chav
+核心：英式贬称：指穿名牌运动装、举止粗俗的年轻工人阶层
+的人。带明显的阶级歧视色彩，公共场合用它会被视为侮辱；
+形容词 chavvy。读到要认得，写作时避开。可数。
+① He was written off as a chav because of his trainers and his postcode.
+= 就凭一双运动鞋和一个邮编，人家就把他一笔勾销了。
+a chav = 对工人阶层年轻人的贬称（英式）
+② The label sounds chavvy to them and sells out everywhere else.
+= 在他们看来那个牌子俗气，别处却处处断货。
+chavvy = 俗气的（贬义）
+构词：来历有几种说法，一说出自罗姆语的小孩
+注意语域：带阶级歧视，只需认得，不要用。
+
+chaw
+核心：两支。一是粗声粗气地咀嚼，方言与旧口语。二是美式
+的一口咀嚼烟草。今天少用。可数。
+① He took a chaw of tobacco and tucked it into his cheek.
+= 他嚼了一口烟草，塞在腮帮子里。
+a chaw = 一口咀嚼烟草
+② The old man chawed slowly and answered every question late.
+= 那个老人慢慢地嚼，每个问题都答得慢半拍。
+chaw = 咀嚼
+构词：由表示嚼的那个词的方言变体来
+注意语域：旧口语与方言，今天少用。
+
+cheap
+核心：四支。一是便宜的。二是廉价而次的，带贬义。三是说
+人小气、抠门，美式口语常用。四是引申的不值钱、卑下。
+动词 cheapen 是使降价，也指使失了身份。习语 on the
+cheap 是省着花地办。cheapo 是口语的廉价货，cheapskate
+是小气鬼。
+① Tickets were surprisingly cheap and the seats turned out to face a pillar.
+= 票便宜得出奇，座位原来正对着一根柱子。
+cheap = 便宜的
+② It is cheap and nasty and will be in the bin before the spring.
+= 这东西又便宜又劣质，开春前就得进垃圾桶。
+cheap and nasty = 又便宜又差
+③ Don't be so cheap; the whole round comes to less than a sandwich.
+= 别这么小气，整轮酒还不如一个三明治贵。
+cheap = 小气的（美式口语）
+④ His apology felt cheap and he made it in front of the wrong people.
+= 他的道歉显得廉价，还是当着不相干的人说的。
+cheap = 不值钱的、卑下的
+⑤ They did it on the cheap and paid three times over to have it redone.
+= 他们图省钱，返工时花了三倍的钱。
+on the cheap = 省着花地办
+⑥ Scandal cheapened the prize and two former winners handed theirs back.
+= 丑闻贬损了这个奖，两位往届得主退回了奖杯。
+cheapen = 使降价；使失了身份
+⑦ We ate cheaply all week and spent the saving on one bad meal.
+= 我们省吃俭用了一星期，省下的钱都花在一顿难吃的饭上。
+cheaply = 便宜地
+⑧ The cheapness of the material shows the moment anyone sits on it.
+= 一坐上去，材料的廉价就露了馅。
+cheapness = 廉价、粗劣
+⑨ He bought a cheapo phone and it outlasted the expensive one it replaced.
+= 他买了个便宜手机，比它取代的那台贵的还耐用。
+cheapo = 廉价货的（口语）
+⑩ Don't be a cheapskate; she has been at the firm for thirty years.
+= 别小气了，她在公司干了三十年。
+a cheapskate = 小气鬼
+构词：古英语 ceap 交易、价钱
+注意用法：说人小气那一支主要是美式口语。
+
+cheat
+核心：三支。一是作弊：考试、打牌、比赛里用不正当手段。
+二是骗：cheat somebody out of something 是骗走某人的
+东西。三是感情上出轨：cheat on somebody，这一支在日常
+口语里很常用。名词指作弊者与骗子。
+① He cheated in the exam and was caught by a question he answered too well.
+= 他考试作弊，因为有一题答得太好而露了馅。
+cheat = 作弊
+② She was cheated out of her share by people she had trusted for years.
+= 她被信任多年的人骗走了自己那一份。
+cheat somebody out of = 骗走某人的……
+③ He cheated on his partner and told her himself before anyone else could.
+= 他背着伴侣出了轨，抢在别人之前自己坦白了。
+cheat on somebody = 对某人不忠
+④ Nobody likes a cheat, and everybody plays with one now and again.
+= 没人喜欢骗子，可谁都难免跟骗子打过交道。
+a cheat = 作弊者、骗子
+⑤ She cheated death twice and drives exactly the same way she always did.
+= 她两次死里逃生，开车方式一点没改。
+cheat death = 侥幸逃过一死
+⑥ She was cheated of her inheritance by a will nobody could find.
+= 一份谁也找不到的遗嘱让她失去了继承权。
+cheat somebody of = 骗走某人的……
+cheat of 与 cheat out of 两个说法通用，宾语放在中间。
+⑦ Bring a cheat sheet to the lab; nobody remembers all the constants.
+= 实验课带张小抄，那些常数没人记得全。
+a cheat sheet = 要点小抄
+⑧ The cheater was disqualified and the result stood anyway.
+= 作弊者被取消资格，成绩却照旧有效。
+a cheater = 作弊者（美式多用）
+构词：由旧法律词 escheat 没收 截短而来
+注意用法：出轨那一支在日常口语里很常用。
+
+check
+核心：底层是拦一下看看。分支：一是核对、查看。二是制止、
+抑制，名词 a check on 是对……的制约，checks and
+balances 是权力的制衡。三是办手续：check in 与
+check out。四是国际象棋的将军，checkmate 是将死。
+五是格子花纹，checked 与英式 chequered 都是有格子的。
+六是美式的支票（英式 cheque）与餐馆账单。派生一族：
+checkbook 支票本、checkbox 勾选框、checker 检查员、
+checkers 跳棋（美式）、checkerboard 棋盘格、checklist
+清单、checkout 收银台、checkpoint 检查站、checkroom
+寄存处、checksum 校验和。
+① Check the figures again before the report goes to the board.
+= 报告送董事会之前再核一遍数字。
+check = 核对、查看
+② Check whether the door is locked; the wind blew it open last night.
+= 看看门锁没锁，昨晚被风吹开过。
+check whether = 查一下是否
+③ Vaccination checked the outbreak before it reached the capital.
+= 疫苗接种在疫情蔓延到首都之前把它遏制住了。
+check = 制止、抑制
+④ There is no check on his power now that the committee has gone.
+= 委员会一撤，就没什么能制约他的权力了。
+a check on = 对……的制约
+⑤ The system relies on checks and balances that take years to build.
+= 那套制度靠的是要花很多年才建得起来的相互制衡。
+checks and balances = 权力的制衡
+⑥ We checked in at noon and the room was not ready until four.
+= 我们中午办的入住，房间到四点才收拾好。
+check in = 登记入住、办登机
+⑦ Guests check out by ten or pay for another night.
+= 客人十点前退房，否则再算一晚的钱。
+check out = 结账离店；也指查一下
+⑧ He put the king in check and then took twenty minutes over his next move.
+= 他将了对方一军，接着为下一步想了二十分钟。
+in check = 被将军；也指受制约
+⑨ Two moves later it was checkmate and the game was over.
+= 两步之后就将死了，棋局结束。
+checkmate = 将死
+⑩ She wore a check shirt and a pair of boots that had seen better days.
+= 她穿着格子衬衫，配一双早该换掉的靴子。
+a check shirt = 格子衬衫
+⑪ The cloth is checked in two shades of grey and wears well.
+= 那块布是两种灰调的格子花纹，很耐穿。
+checked = 有格子花纹的
+⑫ A checkered career took him from teaching to running a nightclub.
+= 他那起落不定的经历，把他从教书带到了开夜店。
+checkered = 有格子的；也指起落不定的（美式拼法）
+⑬ He wrote a check for the deposit and dated it two weeks ahead.
+= 他开了张定金支票，日期往后写了两个星期。
+a check = 支票（美式）
+⑭ Ask the waiter for the check and we will split it evenly.
+= 跟服务员要账单，我们平摊。
+the check = 餐馆账单（美式）
+⑮ Tick the checkbox to agree to terms that nobody ever reads.
+= 勾上那个方框就算同意那些从来没人看的条款。
+a checkbox = 勾选框
+⑯ Work through the checklist before you sign the aircraft off.
+= 放飞签字之前把清单一项项过一遍。
+a checklist = 清单
+⑰ Pay at the checkout nearest the door if you have fewer than ten items.
+= 不到十件商品，就在最靠门的收银台结账。
+the checkout = 收银台
+⑱ The car was stopped at a checkpoint on the road out of town.
+= 那辆车在出城路上的检查站被拦下了。
+a checkpoint = 检查站
+⑲ Leave your coat in the checkroom and keep the ticket safe.
+= 把外套存在存衣处，牌子收好。
+a checkroom = 寄存处（美式）
+⑳ The checksum did not match, so the file had been altered somewhere.
+= 校验和对不上，说明文件中途被改过。
+a checksum = 校验和
+㉑ They played checkers after supper until the light went.
+= 晚饭后他们下跳棋，一直下到天黑。
+checkers = 跳棋（美式）
+㉒ The floor is a checkerboard of black and white marble.
+= 那个地面是黑白大理石铺的棋盘格。
+a checkerboard = 棋盘格
+㉓ He filled in his checkbook stub and put the book back in the drawer.
+= 他填好支票存根，把支票本放回了抽屉。
+a checkbook = 支票本（美式）
+㉔ A checker weighed each box before it went on the lorry.
+= 每个箱子上车之前都由检验员称过重。
+a checker = 检查员
+㉕ Pay with a check card and the money leaves your account at once.
+= 用借记卡付款，钱立刻从账上划走。
+a check card = 借记卡（美式）
+支票那一支的复合词几乎都是美式。
+㉖ We checked into the hotel at six and went straight out again.
+= 我们六点办了入住，又立刻出了门。
+check into = 登记入住
+办手续那一支跟 in / into / out 搭，方向决定意思。
+㉗ Check off each name as you go so that nobody is missed.
+= 边点边把名字划掉，免得漏人。
+check off = 逐项打勾
+核对那一支跟 off / over / through 搭，都是把清单过一遍。
+㉘ Check over the figures once more; there is one that will not add up.
+= 再把数字通查一遍，有一个怎么也对不上。
+check over = 通查一遍
+㉙ She checked through the list twice and found nothing wrong with it.
+= 她把清单从头查了两遍，什么问题也没发现。
+check through = 从头查到尾
+㉚ He went for a check-up and came out with a list of things to change.
+= 他去做了体检，出来时带了一串该改的事。
+a check-up = 体检
+名词化时加连字符，动词短语不加。
+㉛ Someone should check up on him; nobody has heard from him for days.
+= 该有人去看看他，好几天没他消息了。
+check up on = 查一查、去看看情况
+带 on 时对象是人，语气可以是关心也可以是查证。
+㉜ She kept her temper in check right up to the very last question.
+= 一直到最后一个问题，她都把脾气压着。
+keep something in check = 把……按住不发作
+keep in check = 控制住（宾语放在中间）
+㉝ Can I take a rain check? I have people coming at seven.
+= 这回能改天吗？七点有人要来。
+take a rain check = 这回先推掉、改约下次
+㉞ She paid with a cashier's check because the seller would not take cards.
+= 卖家不收卡，她就用银行本票付的。
+a cashier's check = 银行本票（美式）
+由银行自己签发、从银行账上出钱，所以比个人支票牢靠；英式说 banker's draft。
+构词：波斯语 shah 王，经象棋里的将军进英语
+注意用法：核对与办手续两支最高频；支票义是美式。
+
+Cheddar
+核心：英国最常见的硬质奶酪：黄色、紧实，熟成越久越咸香带脆粒。
+得名于萨默塞特的切达村。今天世界各地都做，名字没有产地保护，
+所以在超市里它是通名。不可数。
+① Grate some Cheddar over the top and put it back under the grill.
+= 上面擦点切达奶酪碎，再放回烤架下面。
+grate Cheddar = 擦切达奶酪碎
+② Mature Cheddar has a sharp bite and little crystals in it.
+= 熟成久的切达味道很冲，里面还有细小的结晶。
+mature Cheddar = 熟成久的切达
+构词：萨默塞特的村名
+注意用法：名字不受产地保护，各国都做，算通名。
+
+cheek
+核心：三支。一是脸颊。二是英式的没规矩、放肆：
+What a cheek! 是真好大的脸；形容词 cheeky 是没大没小
+但常带点讨喜的顽皮，很英式。三是口语指屁股的一边。
+cheekbone 是颊骨。习语 cheek by jowl 是紧挨着，
+turn the other cheek 是忍让不还手。
+① Tears ran down her cheek and she went on reading as if nothing had happened.
+= 眼泪顺着她的脸颊流下来，她照样读下去，像什么都没发生。
+a cheek = 脸颊
+② What a cheek! He borrowed the car and brought it back empty.
+= 真放肆！他借了车，还回来时油箱是空的。
+what a cheek = 真放肆
+③ Don't be cheeky to somebody who marks your work.
+= 别对给你打分的人没大没小。
+cheeky = 顽皮放肆的（英式）
+④ She grinned cheekily and put the last biscuit in her pocket.
+= 她顽皮地一笑，把最后一块饼干揣进了口袋。
+cheekily = 顽皮放肆地
+cheekiness = 放肆顽皮（名词形式）
+⑤ His cheekbones stood out after three months of being ill.
+= 病了三个月，他的颧骨都凸了出来。
+a cheekbone = 颊骨
+⑥ They sat cheek by jowl in a room built for about half as many.
+= 他们挤在一间只容得下一半人的屋里。
+cheek by jowl = 紧挨着
+⑦ He turned the other cheek and was hit again within the week.
+= 他忍让不还手，一周内又挨了一下。
+turn the other cheek = 忍让不还手
+构词：古英语 ceace 颊、颌
+注意语域：放肆那一支很英式，常带讨喜的顽皮。
+
+cheep
+核心：雏鸟那种细细的叫声，动词与名词同形，拟声词。
+英式口语 not a cheep 是一声不响、毫无消息。
+① Newly hatched chicks cheeped under the heat lamp all night.
+= 刚孵出的雏鸡在保温灯下细声叫了整夜。
+cheep = 细声叫（雏鸟）
+② A thin cheep came from somewhere in the hedge and stopped.
+= 树篱里什么地方传出一声细弱的鸟叫，随即没了。
+a cheep = 一声细叫
+③ Not a cheep out of him all week, not even a postcard.
+= 他整整一周一声不响，连张明信片都没有。
+not a cheep = 一声不响
+构词：拟声，模仿雏鸟叫
+注意别混：跟表示便宜的那个词读音相近，拼法不同。
+
+cheer
+核心：三支。一是欢呼、喝彩。二是使高兴：cheer up 是
+高兴起来。三是名词的欢乐气氛。cheers 在英式口语里有
+三个用法：干杯、谢了、再见。派生一族：cheerful 与
+cheery 是开朗高兴的，cheerfully、cheerily、
+cheerfulness 跟着走；cheering 是令人振奋的；
+cheerless 是让人打不起精神的；cheerio 是英式的再见；
+cheerleader 是拉拉队员，也引申指鼓吹者。
+① The crowd cheered the winner and forgot the man who led for an hour.
+= 观众为冠军欢呼，忘了领先了一小时的那个人。
+cheer = 欢呼、喝彩
+② A cheer went up when the lights came back on at half past nine.
+= 九点半灯重新亮起时，全场爆发出一阵欢呼。
+a cheer = 一阵欢呼
+③ Cheer up, it's not so bad, and the results are not final yet.
+= 高兴点，没那么糟，结果还不是最终的。
+cheer up = 高兴起来
+④ Her letter cheered me more than the fortnight in Spain had done.
+= 她的信比在西班牙那两周还让我振作。
+cheer = 使高兴
+⑤ Cheers, see you tomorrow, and thanks for staying so late.
+= 谢啦，明天见，也谢谢你留到这么晚。
+cheers = 干杯；谢了；再见（英式）
+⑥ He gave a cheerful wave from a car that was clearly about to break down.
+= 他从一辆眼看要抛锚的车里高高兴兴地挥了挥手。
+cheerful = 开朗高兴的
+⑦ She answered cheerfully and went back to a job she detested.
+= 她愉快地应了一声，回去干她厌恶的活。
+cheerfully = 高高兴兴地
+⑧ His cheerfulness never flags, which some people find hard to forgive.
+= 他从不消沉，有些人对此还挺难释怀。
+cheerfulness = 开朗
+⑨ The room was cheerless and the only window looked onto a wall.
+= 屋里毫无生气，唯一的窗户对着一堵墙。
+cheerless = 让人打不起精神的
+⑩ It is cheering news after a month when nothing at all went right.
+= 在一个诸事不顺的月份之后，这是个令人振奋的消息。
+cheering = 令人振奋的
+⑪ Cheerio, then, and mind how you go on that bicycle.
+= 那就再见啦，骑车小心点。
+cheerio = 再见（英式口语）
+⑫ She was a cheerleader at college and can still do the splits.
+= 她大学时是啦啦队员，如今还能劈叉。
+a cheerleader = 拉拉队员；也指鼓吹者
+⑬ Cheerleading is hard training and rather more dangerous than it looks.
+= 啦啦操训练很苦，也比看上去危险得多。
+cheerleading = 拉拉队这项活动
+⑭ He whistled cheerily all the way up a hill that broke everyone else.
+= 他一路愉快地吹着口哨爬上那座把别人都累垮的山。
+cheerily = 愉快地
+⑮ It was a cheery greeting from a man who had every reason to sulk.
+= 一个满可以板着脸的人，却打了个愉快的招呼。
+cheery = 热络高兴的
+⑯ The crowd cheered her on over the last two hundred metres.
+= 最后两百米，观众为她加油助威。
+cheer somebody on = 为某人加油
+cheer on 的宾语放在中间，也可以说 cheer on the team。
+构词：古法语 chere 脸、神情
+注意用法：cheers 三个意思靠语境分，英式口语里极高频。
+
+cheese
+核心：奶酪。复合一族：cheeseboard 餐后奶酪盘、
+cheeseburger 芝士汉堡、cheesecake 芝士蛋糕、
+cheesecloth 纱布。形容词 cheesy 有两义：奶酪味的、
+以及口语里说俗气肉麻，说笑话与台词最多。英式口语
+cheesed off 是烦透了。习语 say cheese 是拍照时让人
+笑一笑，a big cheese 是大人物。
+① Grate some cheese on top and put it back under the grill.
+= 上面擦点奶酪，再放回烤架下。
+cheese = 奶酪
+② They brought the cheeseboard round and everybody suddenly had room again.
+= 他们把奶酪拼盘端上来，人人忽然又有胃口了。
+a cheeseboard = 餐后奶酪盘
+③ He ordered a cheeseburger and picked the cheese off it himself.
+= 他点了个芝士汉堡，又自己把芝士挑了出来。
+a cheeseburger = 芝士汉堡
+④ She baked a cheesecake that took two days and lasted eleven minutes.
+= 她烤的芝士蛋糕做了两天，十一分钟就吃光了。
+a cheesecake = 芝士蛋糕
+⑤ Strain it through cheesecloth and do not squeeze the bag at all.
+= 用粗棉布过滤，千万别挤那个布袋。
+cheesecloth = 纱布
+⑥ The dialogue is a bit cheesy and the audience loved every line.
+= 对白有点俗气，观众却每一句都爱听。
+cheesy = 俗气肉麻的；也指奶酪味的
+⑦ I am thoroughly cheesed off with a system that changes every month.
+= 这套系统每月一变，我彻底烦透了。
+cheesed off = 烦透了（英式口语）
+⑧ Say cheese! Nobody has looked at the camera in about four attempts.
+= 笑一个！拍了四回都没人看镜头。
+say cheese = 拍照时让人笑
+⑨ He is a big cheese there and has an office with two windows.
+= 他在那里是个大人物，办公室有两扇窗。
+a big cheese = 大人物
+⑩ Their cheese-paring economies annoyed staff more than the pay freeze did.
+= 他们那些抠门的节约，比冻结工资更惹员工生气。
+cheese-paring = 斤斤计较地省小钱
+⑪ Cheese straws went round with drinks and were gone before the second tray.
+= 奶酪条随饮料端上来，第二盘还没到就没了。
+a cheese straw = 奶酪酥条
+构词：拉丁语 caseus 奶酪
+注意用法：cheesy 的俗气义与 cheesed off 都很口语。
+
+cheetah
+核心：猎豹：非洲草原上跑得最快的猫科动物，身上是实心
+圆斑，脸上有两道黑泪纹。可数。
+① The cheetah reaches full speed in three strides and cannot hold it.
+= 猎豹三步就跑到全速，却撑不了多久。
+a cheetah = 猎豹
+② Cheetahs hunt by day to keep out of the way of lions.
+= 猎豹白天猎食，为的是避开狮子。
+hunt by day = 白天猎食
+构词：印地语 chita 有斑点的
+注意别混：豹的斑是中空花环形，它的是实心圆点。
+
+chef
+核心：厨师，尤指餐馆里的主厨：head chef 是主厨。跟 cook
+分开：这个词含受过专业训练、在餐馆掌勺的意味，cook 泛指
+做饭的人。口语形容词 cheffy 指做菜讲究得有点摆架子。
 可数。
-① The trial was a charade and the verdict was written beforehand.
-= 那场审判是走过场，判决早就写好了。
-a charade = 装样子的把戏
-② They kept up the charade for years in front of both families.
-= 那出戏他们在两家人面前演了好些年。
-keep up the charade = 把假样子维持下去
-③ We played charades after dinner until somebody mimed a bad word.
-= 饭后我们玩猜词游戏，直到有人比划出一个不该比的词。
-charades = 看手势猜词的游戏
-构词：法语 charade 谜语
-注意用法：第一支带贬义，第二支是游戏名。
+① The chef came out to greet them and stayed at the table for twenty minutes.
+= 主厨出来招呼他们，在桌边站了二十分钟。
+a chef = 主厨、专业厨师
+② She trained as a pastry chef and now runs a bakery with three staff.
+= 她学的是甜点师，如今经营一家有三名员工的面包房。
+a pastry chef = 甜点师
+③ The presentation is a bit cheffy for a pub that serves two hundred a night.
+= 对一家一晚要供两百人的酒馆来说，那个摆盘有点摆架子。
+cheffy = 讲究得有点摆架子的（口语）
+④ The dish is his chef-d'oeuvre and has not left the menu in nine years.
+= 那道菜是他的代表作，九年没下过菜单。
+a chef-d'oeuvre = 代表作、杰作
+构词：法语 chef de cuisine 厨房主管
+注意别混：cook 泛指做饭的人，这个含专业与掌勺的意味。
 
-charcoal
-核心：木炭：木头闷烧脱水做成的黑色燃料，烧起来无烟
-温度高。也指炭笔与炭笔画，以及那种深灰色。不可数。
-① Light the charcoal early and wait until it greys over.
-= 木炭要早点点，等它烧到表面发白。
-charcoal = 木炭
-② She sketched in charcoal and fixed it with cheap hairspray.
-= 她用炭笔速写，再拿廉价发胶定型。
-in charcoal = 用炭笔
-③ He wore a charcoal suit that photographed almost black.
-= 他穿了套深灰西装，拍出来近乎全黑。
-charcoal = 深灰色的
-构词：由表示炭与木炭的两个旧词拼成
-注意用法：色名那一支在服装里很常用。
+Chelsea boot
+核心：切尔西靴：踝靴，两侧是松紧布、没有鞋带，靠后跟一个拉襻穿上。
+维多利亚时代设计出来，一九六〇年代因披头士再度流行。多用复数。
+① He wore black Chelsea boots that had been resoled twice.
+= 他穿着黑色切尔西靴，鞋底换过两回。
+Chelsea boots = 切尔西靴
+② The elastic in an old Chelsea boot goes slack and the heel slips.
+= 旧切尔西靴两侧的松紧一松，后跟就往上溜。
+a Chelsea boot = 切尔西靴
+构词：伦敦切尔西区的地名
+注意用法：靠两侧松紧布与无鞋带这两点认。
 
-chard
-核心：叶用甜菜：宽大的绿叶配红白黄的粗叶柄，煮食。
-常说 Swiss chard，跟瑞士其实没关系。不可数。
-① Steam the chard leaves for two minutes and no longer.
-= 甜菜叶蒸两分钟，不能再久。
-chard = 叶用甜菜
-② Chard stalks take longer and go in five minutes ahead of the leaves.
-= 叶柄要煮得久些，比叶子提前五分钟下锅。
-stalk = 叶柄
-③ Rainbow chard has coloured stems that fade the moment they cook.
-= 彩虹甜菜的叶柄是彩色的，一下锅颜色就掉。
-Swiss chard = 叶用甜菜的常见叫法
-构词：法语 carde 蓟类的茎
-注意用法：菜谱里常见的叫法是 Swiss chard。
+Chelsea bun
+核心：切尔西卷：加了果干与香料的甜面包，卷成螺旋、方形排在一起烤，
+表面刷糖浆。十八世纪伦敦切尔西一家面包房带起来的。可数。
+① She bought two Chelsea buns and ate one on the way home.
+= 她买了两个切尔西卷，回家路上就吃掉一个。
+a Chelsea bun = 切尔西卷
+② Chelsea buns are baked touching so they stay soft on the sides.
+= 切尔西卷挨着烤，侧面才不会硬。
+Chelsea buns = 切尔西卷（复数）
+构词：伦敦切尔西区的地名
+注意别混：跟 Bath bun 同属地名命名的英式甜面包，形状与做法不同。
 
-Chardonnay
-核心：霞多丽：世界上种得最广的白葡萄品种，也指用它酿的酒。风格
-随产地与是否过桶差得很远：不过桶清爽带酸，过桶则有黄油与香草味。
-不可数，说一杯时可数。
-① She poured two glasses of Chardonnay and left the bottle in the sink.
-= 她倒了两杯霞多丽，瓶子丢在了水槽里。
-a glass of Chardonnay = 一杯霞多丽
-② Oaked Chardonnay tastes of butter and vanilla and divides a dinner table.
-= 过桶的霞多丽有黄油与香草味，一桌人能为它分成两派。
-oaked Chardonnay = 过桶的霞多丽
-构词：法国勃艮第一个村名
-注意用法：品种名当酒名用，跟按产区命名的 Chablis 不同路。
+Chelsea tractor
+核心：英式讥语：城里人开的大型四驱越野车 —— 明明只在铺装路上接送
+孩子，却买了副能翻山越岭的样子。切尔西是伦敦的富人区。带明显嘲讽。
+可数。
+① The school run is full of Chelsea tractors and nobody can see past them.
+= 接送孩子的路上全是城里开的大越野，谁也看不见前面。
+a Chelsea tractor = 城里开的大型四驱越野车（讥语）
+② A Chelsea tractor takes two parking spaces and has never left tarmac.
+= 那种城市大越野占两个车位，却从没离开过柏油路。
+call something a Chelsea tractor = 讥称某车为城市大越野
+构词：伦敦富人区名加 tractor 拖拉机
+注意语域：嘲讽，英式，多见于报刊评论。
 
-charge
-核心：底层是装上、加上。分支：一是收费、要价；二是指控、
-控罪，名词是罪名；三是充电，名词还指电荷；四是冲锋、
-猛冲；五是负责与被托付，in charge of 是负责，
-in one's charge 是由某人照看。派生：chargeable 应由
-某方承担的；charged 带电的，也指气氛紧张的；charger
-充电器，也指战马；chargehand 英式的工头；chargesheet
-警方的起诉书。
-① They charge ten pounds a night, and twice that at the weekend.
-= 他们一晚收十镑，周末翻倍。
-charge = 收费、要价
-② He was charged with fraud on evidence that took four years to gather.
-= 他被控欺诈，证据搜集了四年。
-be charged with = 被控以……
-③ The charge was later dropped, but the arrest stayed on the record.
-= 指控后来撤销了，逮捕记录却留了下来。
-a charge = 罪名、指控
-④ Charge the battery overnight or it will not last the morning.
-= 电池要充一夜，否则撑不过上午。
-charge = 充电
-⑤ The cavalry charged the line and were cut down within minutes.
-= 骑兵向阵线冲锋，几分钟内就被打倒了。
-charge = 冲锋
-⑥ Who is in charge here, and why has nobody answered the phone?
-= 这里谁负责？为什么一直没人接电话？
-in charge of = 负责
-⑦ She took charge of the office the week the manager walked out.
-= 经理撂挑子那一周，她接管了办公室。
-take charge = 接手管起来
-⑧ The children in my charge were safe, which was more than I expected.
-= 我照管的孩子都平安，这比我预想的好。
-in one's charge = 由某人照看
-⑨ Postage is chargeable to the buyer unless the order exceeds fifty pounds.
-= 邮费由买方承担，订单超过五十镑除外。
-chargeable = 应由……承担的
-⑩ The air was charged with tension long before anybody said a word.
-= 还没人开口，空气里就充满了紧张。
-charged = 充满情绪的；带电的
-⑪ I left my charger at home and the phone died before lunch.
-= 我把充电器落在家里，手机没到午饭就没电了。
-a charger = 充电器；也指战马
-⑫ The chargehand signs the sheet at the end of every shift.
-= 每班结束时由工头在单子上签字。
-a chargehand = 工头（英式）
-⑬ The chargesheet lists four counts, two of which were later withdrawn.
-= 起诉书列了四项罪名，其中两项后来撤回。
-a chargesheet = 警方起诉书
-⑭ Put it on the charge account and settle at the end of the month.
-= 记在赊账户头上，月底一起结。
-a charge account = 赊购账户（美式）
-收费那一支的复合词多是金融与账务的说法。
-⑮ Charge capping limited local rates and starved the libraries.
-= 地方税封顶限制了税率，图书馆因此没了经费。
-charge capping = 对收费设上限（英式）
-⑯ She paid with a charge card that had to be cleared in full each month.
-= 她用一张每月必须全额还清的记账卡付了款。
-a charge card = 记账卡
-⑰ The chargé d'affaires signed for the ambassador, who was already on a plane.
-= 大使已经上了飞机，由临时代办代签。
-a chargé d'affaires = 使馆代办
-法语借词，字面是受托办事的人。
-⑱ The charge nurse runs the ward and knows every patient by name.
-= 护士长管着整个病房，每位病人的名字都叫得出。
-a charge nurse = 护士长
-负责那一支也能构词：管着一摊事的人。
-⑲ The charge sheet named four counts and misspelled his surname throughout.
-= 起诉书列了四项罪名，通篇把他的姓拼错了。
-a charge sheet = 警方起诉书
-⑳ Delivery is free of charge on anything heavier than ten kilos.
-= 十公斤以上的货物免费送。
-free of charge = 免费
-构词：晚期拉丁语 carricare 装车
-注意用法：收费、指控、充电、负责四支都极高频。
+chemical
+核心：形容词是化学的：a chemical reaction 化学反应，
+chemical weapons 化学武器。名词指化学品，多用复数，
+日常语境里常带一层人工合成、不天然的暗示。副词
+chemically。
+① A chemical reaction gives off heat and the flask gets too hot to hold.
+= 化学反应放热，烧瓶烫得拿不住。
+a chemical reaction = 化学反应
+② Chemical weapons are banned by a treaty that almost everyone has signed.
+= 化学武器已被一项几乎人人签署的条约禁止。
+chemical weapons = 化学武器
+③ The water was tested for chemicals and came back worse than expected.
+= 水样做了化学品检测，结果比预想的还糟。
+chemicals = 化学品
+④ The two are chemically identical and cost a hundred times as much.
+= 这两样化学上完全相同，价钱却差一百倍。
+chemically = 在化学上
+⑤ Carbon is a chemical element and forms more compounds than all the rest.
+= 碳是一种化学元素，形成的化合物比其余所有元素都多。
+a chemical element = 化学元素
+⑥ She works as a chemical engineer and spends most of her time on safety.
+= 她是化学工程师，大半时间花在安全上。
+a chemical engineer = 化学工程师
+⑦ He studied chemical engineering and went straight into a bank.
+= 他学的化学工程，毕业直接进了银行。
+chemical engineering = 化学工程
+⑧ Chemical warfare is outlawed and has been used four times since.
+= 化学战已被明令禁止，此后仍用过四次。
+chemical warfare = 化学战
+构词：由表示炼金术的旧词加形容词后缀
+注意用法：名词多用复数，日常里常带不天然的暗示。
 
-chargrill
-核心：炭火烤：架在明火或条纹铁板上烤出焦痕。
-chargrilled 是烤出焦痕的，多见于菜单。
-① They chargrill the aubergine until the skin lifts off in sheets.
-= 茄子炭火烤到皮能整片揭下来。
-chargrill = 炭火烤出焦痕
-② Chargrilled chicken is on the menu every day of the week.
-= 菜单上一周七天都有炭烤鸡。
-chargrilled = 炭火烤的
-③ Chargrilling adds a smoky taste that no oven will give you.
-= 炭烤带出的烟熏味，烤箱怎么也做不出。
-smoky = 烟熏味的
-构词：由表示烤焦与烤架的两个词拼成
-注意用法：多出现在菜单与食谱里。
+chemise
+核心：两支。一是女式的直筒贴身内衣，肩带式，本是旧时的
+衬裙。二是二十年代那种不收腰的直筒连衣裙。可数。
+① She wore a silk chemise under a jacket she never took off.
+= 她里面穿丝质吊带内衣，外套一直没脱。
+a chemise = 直筒贴身内衣
+② The chemise hangs straight and needs no belt to hold its shape.
+= 那件裙子是直筒的，不用腰带也有型。
+hang straight = 垂成直筒
+③ Chemise dresses came back the year waists went out.
+= 腰身不流行那年，直筒连衣裙又回来了。
+a chemise dress = 直筒连衣裙
+构词：法语 chemise 衬衣
+注意用法：服装史与时装语境里用。
 
-chariot
-核心：古代的双轮战车与竞技车：由马拉，人站着驾。驾车的
-人是 charioteer。今天只在历史、神话与文学里读到。可数。
-① The chariot was drawn by four horses harnessed abreast.
-= 那辆战车由四匹并排套着的马拉。
-a chariot = 双轮战车
-② Chariots raced in the circus seven times round the spine.
-= 战车在竞技场里绕着中脊跑七圈。
-race = 赛跑
-③ The charioteer held the reins short and wrapped round his waist.
-= 驾车人把缰绳握短，还缠在腰上。
-a charioteer = 驾战车的人
-构词：法语 charriot 大车
-注意用法：历史与神话里的词。
+chemist
+核心：两支，英美分家。英式的这个词首先指药店与药剂师：
+go to the chemist 是去药店，美式说 drugstore 与
+pharmacist。两边都可以指化学家。可数。
+① Get it from the chemist on the corner; they open at eight.
+= 去街角那家药店买，他们八点开门。
+a chemist = 药店；药剂师（英式）
+② The chemist made up the prescription while she waited.
+= 药剂师当场给她配了药。
+make up a prescription = 照处方配药
+③ She is a research chemist and spends her days on catalysts.
+= 她是研究化学的，整天跟催化剂打交道。
+a chemist = 化学家
+④ The dispensing chemist stays open until eight and the counter closes at six.
+= 那家配药药房开到八点，柜台六点就关。
+a dispensing chemist = 可配处方药的药房（英式）
+英式说法；美式说 a pharmacy。
+构词：由表示炼金术的旧词加表示人的后缀
+注意用法：药店那一支是英式，美式说 drugstore。
 
-charisma
-核心：那种让人不由自主被吸引、愿意跟着走的个人魅力：
-不靠职位，靠人本身。形容词 charismatic 说人有这种魅力，
-也指基督教里强调圣灵恩赐的那一派。不可数。
-① She has real charisma and can hold four hundred people without a microphone.
-= 她真有那种感召力，不用麦克风也镇得住四百人。
-charisma = 个人感召力
-② A charismatic leader drew the crowd that the party's policies never could.
-= 那个党的政纲聚不来的人，一位有魅力的领袖聚来了。
-charismatic = 有个人魅力的
-③ Charismatic churches grew fast in cities where the old parishes were emptying.
-= 在老教区日渐空落的城市里，灵恩派教会发展很快。
-charismatic = 灵恩派的
-④ He charismatically held the room for an hour on a subject nobody had come for.
-= 他讲的题目没人是为它来的，却很有感召力地把全场镇了一小时。
-charismatically = 很有感召力地
-构词：希腊语 kharisma 恩赐
-注意用法：宗教那一支是专有用法，看语境。
-
-charitable
-核心：两支。一是慈善的：charitable status 是慈善机构
-资格。二是待人宽厚的：不往坏处想。副词 charitably。
-① The fund has charitable status and pays no tax on what it takes in.
-= 那个基金有慈善机构资格，收入免税。
-charitable status = 慈善机构资格
-② A charitable trust owns the land and cannot sell it without a court order.
-= 那块地属一个慈善信托，没有法院命令不得出售。
-a charitable trust = 慈善信托
-③ Let us be charitable about his motives and assume he simply had not read it.
-= 咱们把他的动机往好处想，就当他压根没读过。
-be charitable about = 对……宽厚看待
-④ She judged him charitably in public and rather less so on the way home.
-= 她当众对他的评判很宽厚，回家路上就没那么客气了。
-charitably = 宽厚地
-构词：由表示慈善的那个名词加形容词后缀
-注意用法：第二支在评论人时很常用。
-
-charity
-核心：三支。一是慈善机构，英国这个词首先指机构。二是
-慈善行为与善款。三是旧义的仁爱之心。习语
-charity begins at home 是先顾好自家人。
-① The shop supports a local charity and gives it about four pounds a week.
-= 这家店支持一个本地慈善机构，每周给它大约四镑。
-a charity = 慈善机构
-② All profits go to charity, according to a sign in very small print.
-= 一张小字招牌上写着，全部利润捐作慈善。
-go to charity = 捐作慈善
-③ They lived on charity for a winter and never spoke of it again.
-= 他们靠人接济过了一冬，此后再没提过。
-live on charity = 靠人施与过活
-④ Charity begins at home, said the man who gave nothing to either.
-= 「先顾自家人」——说这话的人两头都没出过钱。
-charity begins at home = 先顾好自家人
-⑤ She buys books at the charity shop and gives them back when finished.
-= 她在慈善二手店买书，读完再捐回去。
-a charity shop = 慈善二手店（英式）
-⑥ He did it out of charity and was accused of showing off.
-= 他是出于善心才做的，却被说成是显摆。
-out of charity = 出于善心
-构词：拉丁语 caritas 亲爱、仁爱
-注意语域：靠救济那一层带一点难为情的意味。
-
-charlady
-核心：英式旧口语：钟点女工，来打扫的那位。跟 charwoman
-同义，都带旧气，今天说 cleaner。可数。
-① The charlady came twice a week and had her own key.
-= 那位钟点女工一周来两次，自己带钥匙。
-a charlady = 钟点女工（英式旧）
-② Charladies were paid by the hour and never for the waiting.
-= 钟点女工按小时算钱，等着的工夫从不算钱。
-by the hour = 按小时
-构词：由表示打扫零工的那个词加 lady 拼成
-注意语域：带旧气，今天说 cleaner。
-
-charlatan
-核心：冒充有本事的人：装成医生、专家、大师去骗人。带
-强烈贬义，比 fraud 更带一点装腔作势的味道。可数。
-① The doctor turned out to be a charlatan with a printed certificate and no training.
-= 那个医生原来是个骗子，有一张印好的证书，没受过任何训练。
-a charlatan = 冒充行家的骗子
-② Charlatans thrive on desperation and always appear when a cure is slow.
-= 骗子专靠人走投无路，治疗一慢他们就冒出来。
-thrive on = 靠……得势
-③ He dismissed the whole panel as charlatans and walked out before the vote.
-= 他说那一整组人都是江湖骗子，没等表决就走了。
-dismiss as = 视为……而不理
-构词：意大利语 ciarlare 空谈
-注意语域：强烈贬义。
-
-charleston
-核心：查尔斯顿舞：上世纪二十年代风行的快步爵士舞，膝盖
-内外交错、双手前后甩。名字来自美国那座城市。通常带
-定冠词。可数。
-① They danced the charleston until the floorboards complained.
-= 他们跳查尔斯顿，跳到地板嘎吱作响。
-the charleston = 查尔斯顿舞
-② The charleston belongs to the twenties and needs knees that still bend.
-= 查尔斯顿属于二十年代，跳它得膝盖还弯得动。
-belong to = 属于
-③ Her charleston brought the house down and the band played it twice more.
-= 她那段查尔斯顿把全场点燃，乐队又奏了两遍。
-bring the house down = 让全场叫好
-构词：美国城市 Charleston 的名字
-注意用法：多带定冠词。
-
-charlie
-核心：英式口语：傻瓜、出丑的人，最常说 feel a proper
-charlie，意思是觉得自己像个傻子。带自嘲或轻嘲。可数。
-① I felt a proper charlie standing there with the wrong flowers.
-= 我举着买错的花站在那儿，觉得自己像个傻子。
-feel a proper charlie = 觉得自己像个傻瓜
-② Don't make a charlie of yourself in front of the whole department.
-= 别当着整个部门的面出洋相。
-make a charlie of yourself = 出洋相
-构词：人名 Charlie 转成通名
-注意语域：英式旧俚语，语气不重。
-
-charlotte
-核心：一种模具布丁：用面包片或手指饼干贴住模壁，里面
-填水果或慕斯，冷藏或烤熟后倒出来。apple charlotte 是
-最常见的一款。可数。
-① She made an apple charlotte and lined the mould with buttered bread.
-= 她做了个苹果夏洛特布丁，模子里贴了一圈抹黄油的面包。
-an apple charlotte = 苹果夏洛特布丁
-② The charlotte is turned out to serve and collapses if it is warm.
-= 那道布丁要倒出来上桌，温的时候一倒就塌。
-turn out = 倒出来
-构词：人名转成菜名
-注意用法：甜点名，前面多带口味词。
-
-charm
-核心：三支。一是讨人喜欢的魅力，不可数，说人也说地方。
-二是护身符与小挂饰，这一支是本义。三是动词：使着迷，
-也指用魔法蛊惑。习语 work like a charm 是灵得不得了。
-派生：charming 迷人可爱的；charmer 很会讨人喜欢的人；
-charmless 毫无魅力的。
-① The village has real charm and about eleven people left in it.
-= 这村子确实有味道，只是只剩下十一口人。
-charm = 魅力、可人之处
-② He turned on the charm the moment he realised who she was.
-= 一认出她是谁，他立刻堆起了笑脸。
-turn on the charm = 刻意展现魅力
-③ She wears a lucky charm that has never once done anything for her.
-= 她戴着个幸运符，从来没给她带来过什么。
-a lucky charm = 幸运符
-④ The bracelet is a charm bracelet and each one marks a birthday.
-= 那是条挂饰手链，每个挂件代表一个生日。
-a charm bracelet = 挂满小坠子的手链
-⑤ He charmed the committee and got a decision the same afternoon.
-= 他把委员会哄得服服帖帖，当天下午就有了结果。
-charm = 使着迷
-⑥ The remedy worked like a charm and nobody can explain why.
-= 这个偏方灵得出奇，谁也说不清为什么。
-work like a charm = 灵验得不得了
-⑦ It is a charming little town that empties completely in October.
-= 这是座迷人的小镇，一到十月就空得彻底。
-charming = 迷人的、可爱的
-⑧ He is quite a charmer and has talked his way out of worse.
-= 他很会来事，比这更糟的场面都靠嘴脱过身。
-a charmer = 很会讨人喜欢的人
-⑨ The new block is charmless and cost twice what the old one did.
-= 新盖的楼毫无韵味，造价却是旧楼的两倍。
-charmless = 毫无魅力的
-⑩ The government launched a charm offensive three weeks before the vote.
-= 投票前三周，政府发起了一场魅力攻势。
-a charm offensive = 示好攻势
-⑪ He charmed the address out of her without her noticing it happen.
-= 他不动声色地把地址从她嘴里套了出来。
-charm something out of somebody = 把……从某人那儿哄出来
-charm out of 的宾语放在中间。
-⑫ She went to charm school and unlearned most of it within a year.
-= 她上过仪态学校，一年内把学的大半都忘光了。
-a charm school = 教举止礼仪的学校
-⑬ He smiled charmingly at a room that had already made up its mind.
-= 他冲着一屋子早有定见的人迷人地笑了笑。
-charmingly = 迷人地、讨人喜欢地
-构词：拉丁语 carmen 咒语、歌
-注意用法：护身符是本义，魅力义是从咒语比喻来的。
-
-chart
-核心：三支。一是图表：折线图、柱状图、流程图。二是海图
-与航图。三是排行榜，多用复数，说唱片与歌曲的名次。
-动词是绘制、测绘，也指把过程记述下来。可数。
-① The chart shows a steady rise until the year they changed the method.
-= 图表显示持续上升，直到他们改变统计方法的那一年。
-a chart = 图表
-② He plotted the course on the chart and ignored it within the hour.
-= 他在海图上标好航线，一小时内就抛在了脑后。
-a chart = 海图、航图
-③ The song topped the charts for a week and vanished completely.
-= 这首歌登顶排行榜一周，随后彻底消失。
-top the charts = 登上排行榜首
-④ They charted the coastline in two seasons and got most of it right.
-= 他们用两个季节测绘了海岸线，大部分都画对了。
-chart = 绘制、测绘
-⑤ The book charts her rise from a shop floor to the board.
-= 这本书记述了她从车间到董事会的上升历程。
-chart = 记述、追踪记录
-⑥ The song made her a chart-topper at an age when most people retire.
-= 这首歌让她在大多数人退休的年纪登上了排行榜首。
-a chart-topper = 排行榜冠军
-⑦ It was a chart-topping album that the band now refuses to play from.
-= 那是张登顶排行榜的专辑，乐队如今拒绝演奏其中任何一首。
-chart-topping = 登上排行榜首的
-⑧ A pie chart shows the split and hides how small the whole thing is.
-= 饼图显示了各部分占比，却掩盖了总量有多小。
-a pie chart = 饼图
-⑨ Draw a flow chart first and you will find the problem before you code.
-= 先画流程图，写代码之前就能发现问题。
-a flow chart = 流程图
-⑩ Ticket prices went off the charts and the hall was still half empty.
-= 票价高得离谱，大厅还是空了一半。
-off the charts = 高得离谱
-构词：拉丁语 charta 纸、纸卷
-注意用法：排行榜那一支多用复数。
-
-charter
-核心：三支。一是特许状：官方颁给城市、大学、公司的正式
-文件，也指立国与立会的宪章。二是包租：整架飞机或整条船
-包下来，动词是包租。三是 chartered：持有特许资格的，
-a chartered accountant 是英式的特许会计师。可数。
-① The city received a royal charter in twelve hundred and still holds the market.
-= 那座城在一二〇〇年得到皇家特许状，至今还开着那个集市。
-a charter = 特许状
-② The Charter guarantees the right to a fair hearing within a reasonable time.
-= 宪章保障在合理期限内获得公正听审的权利。
-a charter = 宪章
-③ They chartered a boat for a week and split the cost eight ways.
-= 他们包了一周的船，八个人分摊费用。
-charter = 包租
-④ We flew on a charter flight that left four hours late and landed in fog.
-= 我们坐的是包机，晚了四个钟头起飞，落地时一片雾。
-a charter flight = 包机
-⑤ She is a chartered accountant and signs off the accounts of three charities.
-= 她是特许会计师，替三家慈善机构签署账目。
-a chartered accountant = 特许会计师（英式）
-⑥ Charter members pay less and get a vote on how the fees are spent.
-= 创始会员费用低些，还能就会费怎么花投票。
-a charter member = 创始会员
-⑦ Charter schools are publicly funded but run outside the district system.
-= 特许学校由公款资助，却不归学区系统管。
-a charter school = 特许学校（美式）
-构词：拉丁语 chartula 小文书
-注意用法：美式的对应说法是 certified public accountant。
-
-Chartist
-核心：宪章派：十九世纪英国的一场工人运动，向议会递交人民宪章，
-要求普选权与无记名投票。运动本身叫 Chartism。今天多见于历史课本，
-它提的六条要求后来大都实现了。可数。
-① The Chartists gathered on the common and were counted at fifty thousand.
-= 宪章派聚在公共草地上，数下来有五万人。
-a Chartist = 宪章派成员
-② Chartist demands were mostly met in the end, though it took eighty years.
-= 宪章派的要求后来大都实现了，只是用了八十年。
-Chartist demands = 宪章派的要求
-构词：那份人民宪章 Charter 加 -ist
-注意用法：讲十九世纪英国政治史时的固定词。
-
-chartreuse
-核心：两支。一是修士酿的那种草药利口酒，绿色或黄色，
-名字来自法国那座修院。二是那种带黄的鲜绿色。不可数。
-① He poured a small glass of chartreuse after the cheese.
-= 上完奶酪，他倒了一小杯那种草药酒。
-chartreuse = 修院草药利口酒
-② The walls were chartreuse and made everyone look ill.
-= 墙刷成黄绿色，把每个人都衬得像病了。
-chartreuse = 黄绿色
-③ Chartreuse is made from more than a hundred herbs by two monks.
-= 那种酒用一百多种草药做，配方只有两名修士知道。
-herb = 草药
-构词：法国 Chartreuse 修院的名字
-注意用法：色名那一支在设计里常用。
-
-charwoman
-核心：英式旧口语：钟点女工。跟 charlady 同义，都带旧气，
-今天说 cleaner。复数 charwomen。可数。
-① A charwoman scrubbed the steps on her knees every Monday.
-= 每个周一都有位钟点女工跪着刷台阶。
-a charwoman = 钟点女工（英式旧）
-② Charwomen worked before dawn so the offices were empty when they came.
-= 那些女工天没亮就干活，来的时候办公室还空着。
-before dawn = 天亮前
-构词：由表示打扫零工的那个词加 woman 拼成
-注意语域：带旧气，今天说 cleaner。
-
-chary
-核心：小心不肯轻易给出或轻易相信的：常搭 be chary of
-doing something。书面语，比 cautious 更带一点不轻许的
-意味。
-① She is chary of making promises she may have to keep in public.
-= 她不轻易许诺，怕将来得当众兑现。
-be chary of = 对……很谨慎、不轻易
-② Banks are chary of new lenders with no five-year record.
-= 对没有五年记录的新放贷方，银行很谨慎。
-lender = 放贷方
-③ He was chary with praise and gave it once a term at most.
-= 他很少夸人，一学期最多夸一次。
-be chary with = 舍不得给出……
-构词：古英语 cearig 忧心的，与 care 同源
-注意语域：书面，常带不轻许的意味。
+chemistry
+核心：三支。一是化学这门学科。二是某样东西的化学性质与
+成分。三是引申义，日常里最常读到：人跟人之间那种默契与
+来电，说团队也说恋人。不可数。
+① She teaches chemistry to a class that has never had a lab.
+= 她教化学，那个班从来没有过实验室。
+chemistry = 化学
+② The chemistry of the soil changed within two seasons of the spill.
+= 泄漏发生后两季之内，那片土壤的化学成分就变了。
+the chemistry of = ……的化学性质
+③ There is real chemistry between them and the camera picks it up.
+= 他们两个很来电，镜头也拍得出来。
+chemistry = 人与人之间的默契
+④ The team lacked chemistry and lost to sides with half its budget.
+= 那支队伍缺默契，输给了预算只有它一半的对手。
+lack chemistry = 缺默契
+⑤ They gave him a chemistry set and regretted it by the second week.
+= 他们送了他一套化学实验器材，第二周就后悔了。
+a chemistry set = 儿童化学实验套装
+构词：由表示炼金术的旧词加表示学科的后缀
+注意用法：默契那一支在日常与影评里极常用。
