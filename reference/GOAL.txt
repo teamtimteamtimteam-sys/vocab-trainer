@@ -10,11 +10,13 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8407 条，词典序 a → exultation。义项 30484。
+B 词表 8407 条，词典序 a → exultation。义项 30513。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
-  e 段：ea–ev 全部收完，**ex- 的待新写已清零**（清单 412，已收 367，89%，
-  余下 42 条待并入、3 条待推迟）。
+  **e 段收完（2026-09-10）**：ea 至 ex 二十四个双字母段逐段核过，
+  余下 19 条全是待推迟（earned run、eco-friendly、ejector seat、elapsed time、
+  en masse 一族、equals sign、erogenous zone、expanded polystyrene 等，
+  内容词在后面的字母段，coverage 会自己挪过去）。ex- 段 409/412（99%）。
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
   不必回头补。
 交付文件（每 2500 条一份）：
@@ -158,14 +160,29 @@ to what extent）。
 **ex- 段（2026-09-10 再三批，待新写到此清零）**：第七批 exterior → extracorporeal（24 条）、
 第八批 extract → extravaganza（24 条）、第九批 extraversion → exultation（23 条）。
 CHECK 补了 extreme 一组（in the extreme、go to extremes、take something to extremes）。
-**下一步：ex- 的并入 pass** —— 42 条按意思归组写进宿主词条：
-  ex（ex cathedra / ex gratia / ex libris / ex officio / ex-directory /
-  ex-service 一族 8 条）、executive 5 条、exit 7 条、exclusion 2 条、
-  exercise 2 条、extension 2 条、extra 2 条、extreme 3 条，
-  另有 exhaust pipe、exotic dancer、expand upon、expectation of life、
+**ex- 的并入 pass 已做完（2026-09-10）**：42 条按意思归组写进 20 个宿主词条，
+  共 29 个义项 —— ex 一族 4 组（拉丁语的 ex officio / ex gratia / ex cathedra、
+  ex libris、ex-directory、ex-service 一族）、exit 3 组 6 条、executive 3 组 5 条，
+  其余是 exhaust pipe、exotic dancer、expand upon、expectation of life、
   expense account、experience points、expert system、exposure meter、
-  express lane、expression mark、exterior angle、external ear 等单条。
-  并入之后 ex- 段只剩 3 条待推迟，e 段即告收完，接着开 f 段。
+  express lane、expression mark、extension lead 与 extension agent、
+  exterior angle、external ear、extra time 与 extra virgin、extreme 三条等。
+  **exhaust pipe 与 expand upon 只补了一行等式，没另立义项** ——
+  宿主的末尾义项本来讲的就是那个意思，追加等式即可满足 coverage 与
+  audit-swallowed（两者认的是「出现在例句行或等式行」），硬编新场景反而是凑数。
+
+═══ 下一步：开 f 段 ═══
+清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
+是目前最大的一个字母段。**动笔前的四件事照旧先做**（照 de-、di-、do- 的先例）：
+  ① 大写词头：查 proper-nouns-keep 里 F 段收没收全（February、French、Friday…）。
+  ② 习语：往 audit-idioms 的 CHECK 补 f 段大词那一批 ——
+     face / fact / fall / family / far / fast / feel / few / find / fire / first /
+     fit / foot / free / friend / front / full / fun 都是习语大户。
+  ③ 动词变形：fall→fell/fallen、feed→fed、feel→felt、fight→fought、find→found、
+     flee→fled、fly→flew/flown、forbid→forbade、forget→forgot、forgive→forgave、
+     freeze→froze/frozen 都要在 inflections.txt 里对一遍。
+  ④ 清单剔除：按客观类别扫一遍（地区变体、窄专业术语、商标人名、碎片），
+     剔的写进 exclude.txt 一行一个加理由。
   · extremis 按碎片剔除进 exclude.txt（清单 413 → 412）：in extremis 在清单里
     另有一行、归 i 段收，同 delicto（in flagrante delicto）与 initio（ab initio）。
   · extraordinary rendition、extended family、extreme sports 都是原先挂在
