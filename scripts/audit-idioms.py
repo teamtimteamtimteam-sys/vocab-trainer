@@ -24,6 +24,10 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'family': ['run in the family', 'start a family', 'a family tree'],
+ 'famous': ['famous last words'],
+ 'fancy': ['take a fancy to', 'tickle your fancy', 'fancy dress', 'fancy that'],
+ 'far': ['as far as', 'by far', 'so far', 'far from', 'far and wide'],
  'face': ['keep a straight face', 'lose face', 'save face', 'face to face',
           'in the face of', 'on the face of it', "face the music", 'pull a face'],
  'fact': ['in fact', 'as a matter of fact', 'the fact of the matter', 'facts and figures'],
