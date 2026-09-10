@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8815 条，词典序 a → finished（另有 Ebola、Easter 等大写词头）。义项 32054。
+B 词表 8815 条，词典序 a → finished（另有 Ebola、Easter 等大写词头）。义项 32051。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -314,7 +314,7 @@ CHECK 陆续补了 fiddle / field / fight / figure / fig 五组，都是写的�
   · 新规则照办：fiendishly、fiercely、fifthly、figuratively 都并进了本条，
     没单立。fifthly 那种列举用的序数副词也一样并 —— 它没有 fifth 之外的义项。
 第四批 file → filmy（22）、第五批 filter → find（22）、第六批 finder → finished（21）。
-fi- 段 152/452（34%）。剔 filmi（印度英语）。
+fi- 段 164/452（36%）。剔 filmi（印度英语）。
 CHECK 又补了 file / fill / film / find / filter / fine / finger / fingertip 八组。
   · **finally 登记进 derived-keep 当例外**：「终于、总算」那一支带着「等了很久」的
     意味，final 没有；列举时的「最后一点」也是它自己的用法。
