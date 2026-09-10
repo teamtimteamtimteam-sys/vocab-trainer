@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8673 条，词典序 a → feud（另有 Ebola、Easter 等大写词头）。义项 31675。
+B 词表 8706 条，词典序 a → fictive（另有 Ebola、Easter 等大写词头）。义项 31779。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -290,9 +290,25 @@ feed / fee 六组习语。已写三批 65 条：
     festival 缺 spring festival / mid autumn festival（都是 A 表教过的），
     各补了一行等式。
   · 剔 feringhee（印度英语对外国人的旧称），fe- 清单 203 → 202。
-  · **下一批从 feudal 起**（few / fewer / fiancé / fiasco / fib / fibre / fickle /
-    fiction / fiddle / fidelity 一带，随后进 fi- 段；few 是大词，
-    动笔前往 CHECK 补 a good few、few and far between、quite a few）。
+**fe- 段收完（2026-09-10）：清单 202 条，已收 200（99%）**，
+只剩 feet（等 fo- 段的 foot）与 Ferris wheel（待推迟）。
+  第七批 fever → feudalistic（10）之后做了 **fe- 的并入 pass**：
+  36 条写进 19 个宿主（feed 5 组、feel 4 组、fence 3 组、feature 3 组是大户），
+  feta cheese 前四字母没有同源宿主，照 Eccles cake 的先例单立；
+  fever pitch 也在这一轮并进 fever。
+  · **coverage 把 feudal / feudalism / feudalistic 挂在 feud 名下是它的前缀猜测** ——
+    这三个是各自独立的词头，照旧单立，没有并进 feud。并入规则只管
+    -ly 副词与比较级最高级，别被 coverage 的宿主猜测带偏。
+  · fence off / ferret out / fend off 又踩了 farm out to 那个坑：
+    我写的是 fence something off 这种带占位词的形式，coverage 按连续字符串搜
+    认不出，并入 pass 里补了原形等式才算收进。
+
+═══ fi- 段已开工（清单 453 条，f 里最大的一段）═══
+第一批 fiance → fictive（22 条）。剔 fibro（澳新英语的纤维水泥板）。
+  · **下一批从 fiddle 起**（fidelity / field / fiend / fierce / fiery / fifteen /
+    fifth / fifty / fig 一带；field 与 fiddle 是大词，动笔前往 CHECK 补
+    play the field、take the field、fit as a fiddle、play second fiddle、
+    on the fiddle）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
