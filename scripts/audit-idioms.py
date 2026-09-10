@@ -24,6 +24,12 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'fear': ['for fear of', 'no fear', 'fear the worst'],
+ 'feast': ['feast your eyes on'],
+ 'feather': ['a feather in your cap', 'as light as a feather', 'feather your nest'],
+ 'feel': ['feel like', 'feel free', 'feel your age', 'get the feel of'],
+ 'feed': ['feed up', 'off your feed'],
+ 'fee': ['a flat fee'],
  'fault': ['find fault with', 'at fault', 'to a fault'],
  'favour': ['in favour of', 'do somebody a favour', 'curry favour'],
  'fat': ['chew the fat', 'a fat lot of good'],

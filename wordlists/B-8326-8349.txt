@@ -282,14 +282,3 @@ faeces = 粪便
 ② Rats leave faeces along the same route behind the bins every night.
 = 老鼠每天夜里沿垃圾桶后面同一条路线留下粪便。
 animal faeces = 动物粪便
-
-faff
-核心：（英式，非正式）瞎忙、磨蹭：动词说 faff about 或 faff around，
-指忙活半天没弄出什么；名词指麻烦事，a bit of a faff。
-① They faffed about with the tent until the light went completely.
-= 他们摆弄那顶帐篷，一直磨蹭到天全黑。
-faff about = 瞎忙、磨蹭
-faff around = 瞎忙、磨蹭（跟 faff about 通用）
-② Getting there is a faff and getting back is a good deal worse.
-= 去那儿一趟够折腾，回来还要糟得多。
-a faff = 麻烦事
