@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8551 条，词典序 a → fairyland（另有 Ebola、Easter 等大写词头）。义项 30858。
+B 词表 8624 条，词典序 a → fantasist（另有 Ebola、Easter 等大写词头）。义项 31030。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -21,7 +21,7 @@ B 词表 8551 条，词典序 a → fairyland（另有 Ebola、Easter 等大写�
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
   B-merged-5001-7500.txt   2500 条   compatible → encroachment
-  B-merged-7501-8551.txt   1051 条   encrustation → fairyland 一带
+  B-merged-7501-8624.txt   1124 条   encrustation → fantasist 一带
 **每份固定 2500 条，满了自动顺延到下一份**（merge-wordlist.py B 2500 每次重切，
 并删掉上一轮的旧尾巴文件）。新词条现在落在第四份里。
 
@@ -205,8 +205,10 @@ CHECK 补了 extreme 一组（in the extreme、go to extremes、take something t
   ③ **CHECK 补六组习语**：face（8 条）、fact、fail、fair、faith、fall。
   ④ **清单剔 2 条**：factitive、factive（句法语义学内部术语，同 durative 那一类），
      清单 427 → 425。
-已写三批 72 条：第一批 fa → facile（24）、第二批 facilitate → fade（24）、
-第三批 fader → fairyland（24）。fa- 段 92/425（21%）。
+已写六批 170 条：第一批 fa → facile（24）、第二批 facilitate → fade（24）、
+第三批 fader → fairyland（24）、第四批 fait accompli → falling-out（25）、
+第五批 fallout → family（24）、第六批 famine → fantasist（24）。
+CHECK 又补了 family / famous / fancy / far 四组。fa- 段 174/425（40%）。
   · face 一条 11 个义项，习语八条全落进等式（face to face、in the face of、
     on the face of it、keep a straight face、pull a face、face the music、
     lose face、save face）。
@@ -214,8 +216,17 @@ CHECK 补了 extreme 一组（in the extreme、go to extremes、take something t
     认得就行，不必造句；两条词条各自仍有两个正常义项，闸门照过。
   · audit-swallowed 逮到 faff around 被 faff 吞掉：核心块提了它却没配例句。
     照 exhaust pipe 的办法补一行等式了事（宿主那条义项讲的本来就是这个意思）。
-  · **下一批从 fait accompli 起**（faith / faithful / fake / falcon / fall 一带，
-    fall 是大词，习语已在 CHECK 里）。
+  · fall 一条 13 个义项（含 fall short of / fall into place / fall flat / fall apart），
+    face 11 个，fancy 6 个，family 5 个 —— fa- 段的大词基本都在这六批里了。
+  · **fallen 按「变形另有别义」单立**：audit-swallowed 报它被 fall 吞掉，
+    可它另有 fallen leaves 与 the fallen（阵亡将士）两支，照 inflections.txt
+    开头那条规矩（变形不单立、除非另有变形之外的义项）另开了一条。
+  · 禁忌语这一轮又碰到三个：fag、faggot、fanny。**一律只在核心块写清语域，
+    不配例句**；正常义项照写（fanny 写的是美式的 fanny pack 与 get off your fanny）。
+  · check-wordlist 拦下一条：faithfully 的译文里直接写了 Yours faithfully ——
+    译文引用英文必须加引号，改成「Yours faithfully」才过。
+  · **下一批从 fantasize 起**（fantastic / fantasy / far / farce / fare / farm 一带，
+    far 的习语已在 CHECK 里；farm 一族复合词多，注意归组）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
