@@ -396,11 +396,26 @@ follow / food / font 九组，fly / flutter / flux 三组。
     **A 表里的大词搭配，写 B 的时候顺手先把 A 的等式抄一遍再动笔更省事。**
   · foetal / foetus / foetid / fogy / föhn 都是已写过词条的异体拼法，
     场景全部另起（照 dyke/dike、flak/flack 的老规矩），scan-dupes 0 对。
-  · **下一批从 foodstuff 起**（foody / fool / foolhardy / foolish / foolproof /
-    foot / football 一带；foot 与 fool 都是大词，动笔前往 CHECK 补
-    fool around、fool's gold、a fool's paradise、put your foot down、
-    on foot、get off on the wrong foot、foot the bill、under your feet）。
-    foot 一收，feet（fe- 段挂着的那条）就自动认上了。
+第三批 foodstuff → footling（25）、第四批 footlocker → forbid（25）、
+第五批 forbidden → forefoot（25）。fo- 段 154/436（35%）。
+foolishly 并入 foolish，forcefully 并入 forceful，forcibly 并入 forcible，
+forbiddingly 并入 forbidding —— 派生并入规则已用到第 198 例。
+  · foot 一收，fe- 段挂着的 feet 自动认上了（注意行里写了「复数是 feet」）。
+  · **coverage 的 ’ 会被归一成直撇 '**（`lw = w.lower().replace('’', "'")`），
+    可词条正文不归一。fo'c'sle 因此白挂了一轮：正文写弯撇 → 永远匹配不上。
+    **英文正文一律用直撇 '**，inflections.txt 里的键也要用直撇。
+  · **fore 是四字母词头，coverage 把 48 个 fore- 开头的独立词全列成它的
+    「待并入」**（foreign / forest / foresee / forehead / foreman / foreword…）。
+    那是前四字母匹配的假象，不是判决 —— 这些词各有各的义项，**必须单立**。
+    下一批就照单立写。
+  · forbidden / forborne 又栽了一次 audit-swallowed：注意行里写了三态，
+    却没有例句或等式。**三态行只是提示，被点名的那个形式仍要有等式兜底。**
+  · **下一批从 forefront 起**（foregather / forego / foregoing / foregone /
+    foreground / forehand / forehead / foreign / foreigner / foreknowledge /
+    foreland / foreleg / forelock / foreman / foremost / forename / forenoon /
+    forensic / foreplay / forerunner 一带；foreign 与 forest 是大词，
+    动笔前往 CHECK 补 foreign body、a foreign country、can't see the wood
+    for the trees 之类）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
