@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8706 条，词典序 a → fictive（另有 Ebola、Easter 等大写词头）。义项 31779。
+B 词表 8750 条，词典序 a → filch（另有 Ebola、Easter 等大写词头）。义项 31890。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -304,11 +304,19 @@ feed / fee 六组习语。已写三批 65 条：
     认不出，并入 pass 里补了原形等式才算收进。
 
 ═══ fi- 段已开工（清单 453 条，f 里最大的一段）═══
-第一批 fiance → fictive（22 条）。剔 fibro（澳新英语的纤维水泥板）。
-  · **下一批从 fiddle 起**（fidelity / field / fiend / fierce / fiery / fifteen /
-    fifth / fifty / fig 一带；field 与 fiddle 是大词，动笔前往 CHECK 补
-    play the field、take the field、fit as a fiddle、play second fiddle、
-    on the fiddle）。
+已写三批 66 条：第一批 fiance → fictive（22）、第二批 fiddle → fiery（22）、
+第三批 fiesta → filch（22）。fi- 段 87/453（19%）。剔 fibro（澳新英语的纤维水泥板）。
+CHECK 陆续补了 fiddle / field / fight / figure / fig 五组，都是写的时候当场落实的。
+  · 大词：field 7 个义项（take the field、a level playing field、play the field）、
+    fight 6 个（put up a fight、fight back、fight off、fight a losing battle）、
+    figure 5 个（figure out、a figure of speech、cut a figure）、fiddle 4 个
+    （on the fiddle、play second fiddle）。
+  · 新规则照办：fiendishly、fiercely、fifthly、figuratively 都并进了本条，
+    没单立。fifthly 那种列举用的序数副词也一样并 —— 它没有 fifth 之外的义项。
+  · **下一批从 file 起**（filename / filet / filial / filibuster / filigree /
+    Filipino / fill / filler / fillet / filling / film / filter / filth 一带；
+    file、fill、film、filter 都是大词，动笔前往 CHECK 补 file for、on file、
+    fill in、fill up、fill the bill、film star、filter out）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
