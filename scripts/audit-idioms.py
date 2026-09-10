@@ -24,6 +24,8 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'flea': ['a flea market', 'a flea in your ear'],
+ 'flavour': ['add flavour'],
  'flat': ['flat out', 'flat broke'],
  'flattery': ['flattery will get you nowhere'],
  'flame': ['burst into flames', 'go up in flames', 'an old flame'],
