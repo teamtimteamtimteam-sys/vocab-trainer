@@ -149,6 +149,9 @@ at somebody's expense = 拿某人取笑
 ④ Travel expenses are paid monthly and the receipts have to be stapled together.
 = 差旅费按月报销，收据必须钉在一起。
 travel expenses = 差旅费
+⑤ Every lunch went on the expense account and the receipts stopped in March.
+= 每一顿午饭都记在公费账上，收据到三月就断了。
+an expense account = 公费报销账户
 
 expensive
 核心：贵的、花钱多的：既说价格高，也说代价大，如 an expensive mistake。
@@ -191,6 +194,9 @@ an experience = 一次经历
 ④ Patients experience the pain differently depending on how the news was broken.
 = 病人对疼痛的感受各不相同，要看消息是怎么告诉他们的。
 experience pain = 感到疼痛
+⑤ The game hands out experience points for walking about and none for thinking.
+= 那款游戏走来走去就给经验值，动脑子一分不给。
+experience points = 经验值
 
 experienced
 核心：有经验的、老练的：多作定语，如 an experienced nurse；
@@ -283,3 +289,6 @@ expert advice = 专家意见
 ③ It takes an expert eye to tell the copy from the original at this distance.
 = 隔这么远要分出赝品和真迹，得有行家的眼力。
 an expert eye = 行家的眼力
+④ The expert system asks forty questions and passes the hard ones to a person.
+= 那套专家系统问四十个问题，难的仍旧转给人处理。
+an expert system = 专家系统

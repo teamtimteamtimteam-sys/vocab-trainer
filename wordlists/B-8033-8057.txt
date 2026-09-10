@@ -213,14 +213,31 @@ eww = 呃（表示嫌恶）
 eww = 好恶心
 
 ex
-核心：两支，都口语。一是前任：前夫、前妻或前男女友；
-二是写成 ex- 作前缀：her ex-husband 是她前夫。可数，复数 exes。
+核心：三支。一是（口语）前任：前夫、前妻或前男女友，可数，复数 exes；
+二是写成 ex- 作前缀，表示「原来的」：her ex-husband、ex-service、ex-directory；
+三是照搬拉丁语的一组书面说法：ex officio、ex gratia、ex cathedra、ex libris。
 ① Her ex still comes to the family Christmas and carves the meat.
 = 她的前任还来过家里的圣诞节，负责切肉。
 an ex = 前任
 ② The two exes share a dog and a calendar.
 = 那两位前任共养一条狗，共用一份日程表。
 exes = 前任们
+③ The dean sits on the panel ex officio and votes only to break a tie.
+= 教务长以职务身份列席评审组，只在票数相同时投票。
+ex officio = 因职位而当然（列席、任职）
+an ex gratia payment = 通融性支付（不代表认责）
+a ruling ex cathedra = 以权威身份作出的裁断
+④ An ex libris label on the flyleaf gives a name that the catalogue does not.
+= 扉页上的藏书票写着一个名字，目录里可查不到。
+ex libris = 藏书票上的「某某藏书」
+⑤ The number has been ex-directory since a reporter found it in 1998.
+= 那个号码自 1998 年被记者翻到之后，就不再列进电话簿。
+be ex-directory = 号码不列入电话簿
+⑥ The club is for ex-service families and the bar opens at six.
+= 那家俱乐部只对退役军人家庭开放，酒吧六点开门。
+ex-service = 退役的、退伍军人的
+an ex-serviceman = 退伍男军人
+an ex-servicewoman = 退伍女军人
 
 exacerbate
 核心：（正式）使恶化、加剧：让本来就不好的情况更糟。名词 exacerbation。

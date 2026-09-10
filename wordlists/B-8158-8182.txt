@@ -73,6 +73,7 @@ exhaust every possibility = 想尽一切办法
 = 那根排气管比发动机还响，比法定上限低两分贝。
 an exhaust = 排气管
 exhaust fumes = 汽车废气
+an exhaust pipe = 排气管
 
 exhausted
 核心：两支。一是筋疲力尽的：be exhausted by something；

@@ -6040,14 +6040,31 @@ eww = 呃（表示嫌恶）
 eww = 好恶心
 
 ex
-核心：两支，都口语。一是前任：前夫、前妻或前男女友；
-二是写成 ex- 作前缀：her ex-husband 是她前夫。可数，复数 exes。
+核心：三支。一是（口语）前任：前夫、前妻或前男女友，可数，复数 exes；
+二是写成 ex- 作前缀，表示「原来的」：her ex-husband、ex-service、ex-directory；
+三是照搬拉丁语的一组书面说法：ex officio、ex gratia、ex cathedra、ex libris。
 ① Her ex still comes to the family Christmas and carves the meat.
 = 她的前任还来过家里的圣诞节，负责切肉。
 an ex = 前任
 ② The two exes share a dog and a calendar.
 = 那两位前任共养一条狗，共用一份日程表。
 exes = 前任们
+③ The dean sits on the panel ex officio and votes only to break a tie.
+= 教务长以职务身份列席评审组，只在票数相同时投票。
+ex officio = 因职位而当然（列席、任职）
+an ex gratia payment = 通融性支付（不代表认责）
+a ruling ex cathedra = 以权威身份作出的裁断
+④ An ex libris label on the flyleaf gives a name that the catalogue does not.
+= 扉页上的藏书票写着一个名字，目录里可查不到。
+ex libris = 藏书票上的「某某藏书」
+⑤ The number has been ex-directory since a reporter found it in 1998.
+= 那个号码自 1998 年被记者翻到之后，就不再列进电话簿。
+be ex-directory = 号码不列入电话簿
+⑥ The club is for ex-service families and the bar opens at six.
+= 那家俱乐部只对退役军人家庭开放，酒吧六点开门。
+ex-service = 退役的、退伍军人的
+an ex-serviceman = 退伍男军人
+an ex-servicewoman = 退伍女军人
 
 exacerbate
 核心：（正式）使恶化、加剧：让本来就不好的情况更糟。名词 exacerbation。
@@ -6743,6 +6760,10 @@ to the exclusion of something = 撇开其他一切
 ③ The exclusions are printed on the back and matter more than the cover.
 = 那些除外条款印在背面，比封面上的话要紧。
 an exclusion = 除外条款
+④ The court made an exclusion order and the police drew a two-mile exclusion zone round the site.
+= 法庭下了禁入令，警方在场地周围划出两英里的禁区。
+an exclusion order = 禁入令
+an exclusion zone = 禁区
 
 exclusionary
 核心：（正式）排他的、把人挡在外面的：说规则或做法有意无意地排斥某些人。
@@ -7077,6 +7098,17 @@ the executive = 执行机构
 ③ Executive powers are checked by two other branches and one newspaper.
 = 行政权力受另外两个分支制约，外加一份报纸。
 executive powers = 行政权力
+④ The executive director signs the accounts and the executive secretary keeps the diary.
+= 执行董事在账目上签字，行政秘书管日程。
+an executive director = 执行董事
+an executive secretary = 行政秘书
+⑤ The president signed an executive order in the morning and claimed executive privilege by Friday.
+= 总统上午签了一道行政命令，到周五就主张起行政特权。
+an executive order = 行政命令
+executive privilege = 行政特权
+⑥ Nobody read past the executive summary and the real number sat in the appendix.
+= 谁也没往内容提要后面读，真正的数字在附录里。
+an executive summary = 内容提要
 
 executor
 核心：（法律）遗嘱执行人：按遗嘱办理死者财产的人。可数，女性旧称 executrix。
@@ -7185,6 +7217,10 @@ exercise caution = 谨慎行事
 ⑤ He exercises the dog before breakfast and himself afterwards.
 = 他早饭前遛狗，早饭后才轮到自己。
 exercise a dog = 遛狗
+⑥ The spare room holds an exercise bike, an exercise ball and the ironing.
+= 那间空房里放着一辆健身车、一个健身球，还有待熨的衣服。
+an exercise bike = 健身车
+an exercise ball = 健身球
 
 exert
 核心：两支。一是施加（力量、影响、压力）：exert pressure on somebody；
@@ -7273,6 +7309,7 @@ exhaust every possibility = 想尽一切办法
 = 那根排气管比发动机还响，比法定上限低两分贝。
 an exhaust = 排气管
 exhaust fumes = 汽车废气
+an exhaust pipe = 排气管
 
 exhausted
 核心：两支。一是筋疲力尽的：be exhausted by something；
@@ -7585,6 +7622,8 @@ exit
 核心：名词三支、动词两支。名词一是出口：the fire exit；
 二是离开、退场：make an exit；三是（高速公路的）出口匝道。
 动词一是离开、退出；二是（戏剧指示）（一人）下场。
+exit 还能压在别的名词前面，指「离开时的那一下」：an exit poll、an exit interview、
+an exit exam、an exit visa、an exit wound。
 ① The exit is behind the stage and marked in two languages.
 = 出口在舞台后面，用两种语言标着。
 an exit = 出口
@@ -7595,6 +7634,18 @@ make an exit = 退场、离场
 ③ Take the third exit and the sign for it is behind a tree.
 = 走第三个出口，那块指示牌被一棵树挡着。
 an exit = 高速出口匝道
+④ Exit polls put the margin at four points and the count made it one.
+= 出口民调说差四个百分点，点票结果是一个。
+an exit poll = 出口民调
+an exit interview = 离职面谈
+an exit exam = 毕业会考
+⑤ Nobody joined that war with an exit strategy and the exit visas took four months.
+= 谁卷进那场战争时都没想好退出之计，出境签证又办了四个月。
+an exit strategy = 退出之计
+an exit visa = 出境签证
+⑥ The exit wound told the pathologist rather more than the entry wound did.
+= 那处射出口告诉病理学家的，比射入口还多。
+an exit wound = 子弹的射出口
 
 exocrine
 核心：（生理）外分泌的：说腺体把分泌物经导管送到体表或体腔，
@@ -7753,6 +7804,9 @@ exotic = 新奇罕见的
 ③ Exotic species escape from gardens and settle in the hedgerows.
 = 外来物种从花园里跑出来，在树篱里安了家。
 an exotic species = 外来物种
+④ The exotic dancer on the poster has been there since the club shut in 2011.
+= 海报上那位脱衣舞娘，从 2011 年俱乐部关张起就贴在那儿。
+an exotic dancer = 脱衣舞娘（委婉说法）
 
 exotica
 核心：（正式）异国珍玩、奇趣之物：成堆来自远方的稀奇东西，作复数看待。
@@ -7800,6 +7854,7 @@ expand into new markets = 打入新市场
 ③ He was asked to expand on the second paragraph and talked for an hour.
 = 有人请他把第二段展开讲讲，他讲了一个钟头。
 expand on something = 就某事详加说明
+expand upon something = 就某事详加说明（更正式的写法）
 
 expandable
 核心：可扩充的、可加大的：多说存储、家具、编制 —— 留了余地，日后能加。
@@ -8007,6 +8062,9 @@ exceed expectations = 超出预期
 ③ Nobody can live up to expectations that were never said out loud.
 = 从没说出口的期望，谁也达不到。
 live up to expectations = 不负期望
+④ Expectation of life in those tables is worked out for a whole cohort, not for you.
+= 那些表上的预期寿命，是按整代人算的，不是按你算的。
+expectation of life = 预期寿命
 
 expected
 核心：预期的、意料之中的：多作定语，如 the expected outcome；
@@ -8178,6 +8236,9 @@ at somebody's expense = 拿某人取笑
 ④ Travel expenses are paid monthly and the receipts have to be stapled together.
 = 差旅费按月报销，收据必须钉在一起。
 travel expenses = 差旅费
+⑤ Every lunch went on the expense account and the receipts stopped in March.
+= 每一顿午饭都记在公费账上，收据到三月就断了。
+an expense account = 公费报销账户
 
 expensive
 核心：贵的、花钱多的：既说价格高，也说代价大，如 an expensive mistake。
@@ -8220,6 +8281,9 @@ an experience = 一次经历
 ④ Patients experience the pain differently depending on how the news was broken.
 = 病人对疼痛的感受各不相同，要看消息是怎么告诉他们的。
 experience pain = 感到疼痛
+⑤ The game hands out experience points for walking about and none for thinking.
+= 那款游戏走来走去就给经验值，动脑子一分不给。
+experience points = 经验值
 
 experienced
 核心：有经验的、老练的：多作定语，如 an experienced nurse；
@@ -8312,6 +8376,9 @@ expert advice = 专家意见
 ③ It takes an expert eye to tell the copy from the original at this distance.
 = 隔这么远要分出赝品和真迹，得有行家的眼力。
 an expert eye = 行家的眼力
+④ The expert system asks forty questions and passes the hard ones to a person.
+= 那套专家系统问四十个问题，难的仍旧转给人处理。
+an expert system = 专家系统
 
 expertise
 核心：专门知识、行家本领：靠长期训练练出来的那一手。不可数 ——
@@ -8834,6 +8901,9 @@ die of exposure = 冻死在野外
 ④ A long exposure turns the crowd into a smear and keeps the building sharp.
 = 长时间曝光把人群拍成一道模糊，楼倒是清晰的。
 a long exposure = 长时间曝光
+⑤ The exposure meter is older than the camera and she trusts it a good deal more.
+= 那只测光表比相机还老，她反倒信它得多。
+an exposure meter = 测光表
 
 expound
 核心：（正式）详细阐述：expound a theory，或 expound on something 就某题目大谈，
@@ -8863,6 +8933,9 @@ an express train = 特快列车
 ④ It was her express wish that the letters be burned unread.
 = 那些信不许拆看就烧掉，是她明确的意愿。
 her express wish = 她明确的意愿
+⑤ The express lane is for eight items and the man ahead of her has nineteen.
+= 快速通道限八件商品，排在她前面那位拿了十九件。
+an express lane = 快速通道
 
 expression
 核心：四支。一是表情：a puzzled expression；二是表达这件事：freedom of expression，
@@ -8880,6 +8953,9 @@ find expression in something = 在某处得到宣泄
 ④ The expression to the left of the equals sign simplifies to three terms.
 = 等号左边那个式子可以化简成三项。
 an expression = 表达式
+⑤ The expression marks in that part were pencilled in by somebody else entirely.
+= 那份分谱上的表情记号，是另一个人用铅笔标上去的。
+an expression mark = 乐谱上的表情记号
 
 expressionism
 核心：（艺术）表现主义：不照实描摹，而是把情绪压进形与色的那个流派。
@@ -9147,6 +9223,12 @@ an extension = 分机
 ④ Free repairs are an extension of the same principle, not a new policy.
 = 免费维修是同一条原则的延伸，不是什么新政策。
 an extension of something = 某事的延伸
+⑤ An extension lead runs under the rug to a lamp that nobody ever uses.
+= 一条拖线板从地毯底下拉到一盏没人用的灯。
+an extension lead = 拖线板、接线板
+⑥ The extension agent visits four farms a week and answers questions about soil.
+= 农业推广员一周跑四个农场，回答关于土壤的问题。
+an extension agent = （美式）农业推广员
 
 extensive
 核心：广泛的、大量的、面积大的：多修饰 damage、research、knowledge、grounds。
@@ -9216,6 +9298,9 @@ the exterior walls = 外墙
 ② Behind a calm exterior he was counting the minutes to the interval.
 = 一副镇定的外表底下，他在数还有几分钟到中场休息。
 behind a calm exterior = 在镇定的外表之下
+③ The exterior angle of a triangle equals the two opposite interior angles added together.
+= 三角形的一个外角，等于两个不相邻内角之和。
+an exterior angle = 外角
 
 exterminate
 核心：（贬或专业）灭绝、扑杀：把一整群生物或一整群人消灭掉，
@@ -9270,6 +9355,9 @@ for external use = 仅供外用
 ③ An external examiner reads a sample of the scripts and signs the marks off.
 = 校外考官抽阅一部分卷子，再签字认可分数。
 an external examiner = 校外考官
+④ The external ear collects the sound and the damage usually happens further in.
+= 外耳负责收声，出毛病的地方通常还要靠里。
+the external ear = 外耳
 
 externality
 核心：（经济）外部性：一项活动落到别人头上、却没算进价格里的成本或好处。可数，
@@ -9451,6 +9539,12 @@ the extras = 附加项目
 ④ She worked as an extra for two summers and appears in one crowd scene.
 = 她当了两个夏天的群众演员，只在一个人群镜头里露过面。
 work as an extra = 当群众演员
+⑤ The match went to extra time and the winning goal came in the last minute of it.
+= 那场比赛打到加时，制胜球是加时最后一分钟进的。
+extra time = 加时赛
+⑥ Extra virgin olive oil goes on the salad and the cheap stuff goes in the pan.
+= 特级初榨橄榄油浇沙拉，便宜的那种下锅。
+extra virgin = 特级初榨的
 
 extracorporeal
 核心：（医学）体外的：让血液或循环在身体外面走一圈的那类技术，
@@ -9767,6 +9861,15 @@ take something to extremes = 把某事做过了头
 ⑥ Extreme sports insurance costs more than the trip that makes you need it.
 = 极限运动的保险，比那趟让你用得上它的旅行还贵。
 extreme sports = 极限运动
+⑦ Extreme fighting draws bigger crowds than the boxing it grew out of.
+= 极限格斗的观众，比孕育它的拳击还多。
+extreme fighting = 极限格斗
+⑧ A priest gave extreme unction at four and the family arrived at five.
+= 神父四点行了临终涂油礼，家属五点才赶到。
+extreme unction = 临终涂油礼
+⑨ Extreme vetting adds nine months to an application that used to take three weeks.
+= 极端审查让原本三周办完的申请多拖九个月。
+extreme vetting = 极端审查
 
 extremely
 核心：极其、非常：最常用的强调副词之一，修饰形容词与副词，
