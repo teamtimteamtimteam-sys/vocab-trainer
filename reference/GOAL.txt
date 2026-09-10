@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 9040 条，词典序 a → flog（另有 Ebola、Easter 等大写词头）。义项 32688。
+B 词表 9112 条，词典序 a → flustered（另有 Ebola、Easter 等大写词头）。义项 32849。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -372,10 +372,15 @@ CHECK 又补 flea / flavour / flesh / flight / fling / flip / float / flog 八�
     不动阈值。
   · audit-ab 报 flexible 缺 flexible working hours（A 表教过），补了一行等式。
   · **B 词表过 9000 条了**（9040），离 10000 还差 960。
-  · **下一批从 flood 起**（floodgate / floor / flop / floppy / flora / floral /
-    florid / florist / floss / flotilla / flounce / flounder / flour / flourish /
-    flout / flow 一带；floor 与 flow 是大词，动笔前往 CHECK 补 the shop floor、
-    take the floor、floor somebody、go with the flow、a flow of something）。
+第七批 flood → florist（24）、第八批 floss → fluent（24）、
+第九批 fluff → flustered（24）。fl- 段 251/393（63%）。
+CHECK 又补 flood / floodgate / floor / flow / flower / flotsam 六组。
+  · 两批被「讲解行／义项」与等式密度卡住，补的都是真搭配
+    （two florins、a clay flowerpot、a flotilla of yachts、a deep flounce 等）。
+    **这类短词条只写一行等式就容易压线，写的时候顺手多给一条真搭配更省事。**
+  · **下一批从 flute 起**（fluted / fluting / flutist / flutter / fluvial / flux /
+    fly / flyaway 一带，之后 fl- 就剩并入 pass；fly 是大词，动笔前往 CHECK 补
+    fly off the handle、let fly、fly in the face of、with flying colours）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
