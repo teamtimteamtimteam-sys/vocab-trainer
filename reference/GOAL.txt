@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8607 条，词典序 a → femme（另有 Ebola、Easter 等大写词头）。义项 31529。
+B 词表 8673 条，词典序 a → feud（另有 Ebola、Easter 等大写词头）。义项 31675。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -279,9 +279,20 @@ feed / fee 六组习语。已写三批 65 条：
     写的时候却没落实。**CHECK 补完要当场对着写**，不然下一批才发现。
   · feet 按 inflections.txt 开头那条规矩记成「feet → foot」，不单立；
     等 fo- 段写到 foot，coverage 自己会认。
-  · **下一批从 feminine 起**（feminism / feminist / femur / fence / fend / fennel /
-    feral / ferment / fern / ferocious / ferret / ferry / fertile 一带；
-    fence 与 ferry 是大词，动笔前往 CHECK 补 sit on the fence、mend fences）。
+  第四批 feminine → fermentation（22）、第五批 fermium → fest（22）、
+  第六批 fester → feud（22）。fe- 段 155/202（76%）。
+  · CHECK 又补了 fence（sit on the fence / mend fences）、fettle（in fine fettle）、
+    fetch（fetch and carry）三组，这回是写的时候当场落实的。
+  · audit-padding 逮到两对并入后撞车的重复义项：Fenian 与 fetus 的两条义项
+    等式左右都一样。**改等式与场景，不删义项** —— Fenian 改成
+    be called a Fenian（今日北爱语境里的贬用），fetus 改成 the rights of a fetus。
+  · audit-ab 报 fence 缺 build a fence / climb over the fence，
+    festival 缺 spring festival / mid autumn festival（都是 A 表教过的），
+    各补了一行等式。
+  · 剔 feringhee（印度英语对外国人的旧称），fe- 清单 203 → 202。
+  · **下一批从 feudal 起**（few / fewer / fiancé / fiasco / fib / fibre / fickle /
+    fiction / fiddle / fidelity 一带，随后进 fi- 段；few 是大词，
+    动笔前往 CHECK 补 a good few、few and far between、quite a few）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
