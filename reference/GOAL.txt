@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8815 条，词典序 a → finished（另有 Ebola、Easter 等大写词头）。义项 32051。
+B 词表 8859 条，词典序 a → fishnet（另有 Ebola、Easter 等大写词头）。义项 32158。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -324,9 +324,20 @@ CHECK 又补了 file / fill / film / find / filter / fine / finger / fingertip �
   · audit-ab 这三批报了四处：finance 缺 personal finance、finger 缺
     cross one's fingers、finish 缺 finish doing、fence 那两条。都是 A 表教过的，
     各补一行等式。
-  · **下一批从 finite 起**（fink / Finn / Finnish / fintech / fiord / fir / fire /
-    firearm / firebomb 一带；fire 是大词，动笔前往 CHECK 补 catch fire、
-    set fire to、on fire、under fire、open fire、play with fire）。
+第七批 finite → firefighting（22）、第八批 firing → fishnet（22）。
+fi- 段 219/451（48%）。剔 fioritura（乐理装饰音术语，同 accelerando 那一类）。
+CHECK 又补 fire（六条）、first、fish 三组。
+  · **元评论那道尺子当场咬人**：fireman 我写了「Old station signs still say
+    fireman…」，audit-padding 判成元评论（某群体 say 某词）。照 HANDOFF 第五条
+    改词条不松尺子 —— 换成一句正常使用的例句。
+  · audit-swallowed 逮到 fireman 被 firefighter 吞掉（核心块提了旧称却没配例句），
+    当批补写成词条 —— 它另有「蒸汽机车司炉」一支，本来就该单立。
+  · check-wordlist 头一回是被**讲解行／义项**这条卡住的（1.46 < 1.5），
+    不是等式密度：有六条只写了一行等式。补的是 a firkin of ale、
+    the fishmonger's、a deep-sea fisherman 这类真搭配。
+  · **下一批从 fishtail 起**（fishwife / fishy / fission / fissure / fist / fit /
+    fitness / five / fix 一带；fit 与 fix 是大词，动笔前往 CHECK 补
+    see fit、fit in、fit as a fiddle、in a fix、fix up）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
