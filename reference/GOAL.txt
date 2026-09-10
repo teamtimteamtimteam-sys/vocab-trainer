@@ -10,20 +10,18 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8407 条，词典序 a → exultation。义项 30513。
+B 词表 8479 条，词典序 a → exultation（另有 Ebola、Easter 等大写词头）。义项 30683。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
-  **e 段收完（2026-09-10）**：ea 至 ex 二十四个双字母段逐段核过，
-  余下 19 条全是待推迟（earned run、eco-friendly、ejector seat、elapsed time、
-  en masse 一族、equals sign、erogenous zone、expanded polystyrene 等，
-  内容词在后面的字母段，coverage 会自己挪过去）。ex- 段 409/412（99%）。
+  **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
+  待新写 0、待并入 0，余下 35 条全是待推迟。ea 至 ey 逐段核过，ey- 100%。
   —— 各段余下的**全部是待推迟**（内容词在后面的字母段，coverage 会自己挪过去），
   不必回头补。
 交付文件（每 2500 条一份）：
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
   B-merged-5001-7500.txt   2500 条   compatible → encroachment
-  B-merged-7501-8407.txt    907 条   encrustation → exultation
+  B-merged-7501-8479.txt    979 条   encrustation → Excellency 一带
 **每份固定 2500 条，满了自动顺延到下一份**（merge-wordlist.py B 2500 每次重切，
 并删掉上一轮的旧尾巴文件）。新词条现在落在第四份里。
 
@@ -171,10 +169,34 @@ CHECK 补了 extreme 一组（in the extreme、go to extremes、take something t
   宿主的末尾义项本来讲的就是那个意思，追加等式即可满足 coverage 与
   audit-swallowed（两者认的是「出现在例句行或等式行」），硬编新场景反而是凑数。
 
+═══ 2026-09-10 翻出的两个漏洞（都已补完，教训要记住）═══
+做 f 段动笔前核对大写词头时，发现 **e 段先前报的「收完」是错的**，两处：
+  ① **proper-nouns-keep 里 E 段一条都没有**（A/B/C/D 各 121/116/128/63 条）。
+     coverage 只把这里登记过的大写条目算进应收范围，所以 English、Easter、
+     European、Elizabethan、Ebola 一个都没写，报表却一路 100%。
+     已按原标准补登 59 条，随后分两批写完（第一批 24 条 Ebola → Eurasian，
+     第二批 26 条 Easter → Excellency，含 Eccles cake、E. coli、E-number、
+     Euclidean geometry 这类多词词头 —— 它们本来就是词典词头，直接单立，
+     比挂到别的字母段的宿主上干净）。
+  ② **ey- 整段 0 条** —— 连 eye 这种高频词都没有。audit-prefix 早就把 ey 显示成
+     空段，可它的退出码只对登记进 EXPECT 的字母负责（当时只有 a/b/c），
+     于是那行空段一直躺在「仅供参考」栏里，没人拦。
+     已补 22 条（eye → eyrie）＋ eye 一族 13 条并入（eye-catching、eye level、
+     eye strain、eye teeth、eye up、eyebrow pencil…）＋ eye candy 并入 candy。
+  **结构性的修补**：audit-prefix 的 EXPECT 已登记 d 与 e（e 是除 ez 外全部 25 段）。
+  验过尺子会咬人：故意把真空段 ez 也登记进去，脚本自己的退出码变 1（不是看
+  管道末端的 tail 的码），报「⚠ 应有词条却为空：ez」；还原后回 0。
+  **往后每收完一个字母段，两件事一起做：把该字母登记进 EXPECT、
+  把该字母的大写词头过一遍 proper-nouns-keep。** 少做一件，就会再出这种洞。
+
 ═══ 下一步：开 f 段 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
 是目前最大的一个字母段。**动笔前的四件事照旧先做**（照 de-、di-、do- 的先例）：
-  ① 大写词头：查 proper-nouns-keep 里 F 段收没收全（February、French、Friday…）。
+  ① 大写词头：**F 段现在只有 February、Friday 两条**，必须先补登 ——
+     清单里 F 打头的大写词头约 180 条，French 一族（French bread / French door /
+     French fry / French horn / French kiss / French toast / French window /
+     Frenchman / Frenchwoman…）、Fahrenheit、Faustian、Fauvism、Filipino、Finnish、
+     Flemish、Franciscan、Freemason、Freudian slip、Futurism、F-word 都在其中。
   ② 习语：往 audit-idioms 的 CHECK 补 f 段大词那一批 ——
      face / fact / fall / family / far / fast / feel / few / find / fire / first /
      fit / foot / free / friend / front / full / fun 都是习语大户。
