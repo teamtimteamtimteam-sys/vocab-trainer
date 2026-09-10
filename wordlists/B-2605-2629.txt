@@ -1,0 +1,632 @@
+biting
+核心：形容词，两支都是"咬人"的比喻：说风说冷是刺骨——冷得像
+往肉里咬；说话说文字是尖刻——损人损得像咬一口。共同点是那股
+"往里钻、让人受不了"的劲儿。
+① A biting wind cut across the field and drove the spectators behind the stand.
+= 刺骨的风扫过球场，把观众逼到了看台后面。
+a biting wind = 刺骨的风
+天气那一支。
+② It was a biting cold morning and the locks on the gates had frozen solid.
+= 那是个冷得刺骨的早晨，大门上的锁全冻死了。
+③ She made a biting remark about his book and then offered to review it.
+= 她对他那本书说了句很尖刻的话，转头又提出要写书评。
+a biting remark = 一句尖刻话
+言辞那一支。
+④ The review was biting, and the publisher quoted the one kind sentence in it.
+= 那篇评论很刻薄，出版社偏偏引了里头唯一一句好话。
+构词：bite 咬 + -ing 的
+近义对照：
+biting = 刺骨的；尖刻的（往里钻）
+blunt = 直率的（直说，不含恶意）
+副词 bitingly：副词，跟 biting 一样分两支：说冷是"刺骨地"，说话是 "尖刻地"。多修饰形容词或动词，bitingly cold 和 bitingly funny 是两个最常见的搭配。
+⑤ It was bitingly cold outside and the queue moved in little stamping shuffles.
+= 外面冷得刺骨，排队的人跺着脚一点点往前挪。
+bitingly cold = 冷得刺骨
+⑥ He wrote bitingly about the trial and was barred from the courtroom.
+= 他对那场审判写得很尖刻，后来被禁止进入法庭。
+⑦ The satire is bitingly funny and the people it mocks quote it themselves.
+= 那出讽刺剧辛辣好笑，被它嘲弄的人自己也引。
+bitingly funny = 辛辣好笑
+构词：biting 刺骨的 + -ly
+词族：
+biting = 刺骨的；尖刻的
+
+bitmap
+核心：按像素点阵存的图像——每个点存一个颜色值，所以放大就糊，
+一格一格露出来。它跟矢量图的分别在这里：矢量图存的是线条和公式，
+放多大都清楚。照片天生是位图，图标和字体多用矢量。可数。
+① Save the image as a bitmap if the printer refuses the other format.
+= 打印机不认另一种格式的话，就把图片存成位图。
+save as = 另存为
+② Bitmaps lose quality when enlarged and show square edges on every curve.
+= 位图放大就失真，弧线上全是方格边。
+③ The icon is stored as a bitmap and looks rough on a high-resolution screen.
+= 那个图标存成了位图，在高分屏上显得毛糙。
+构词：bit 位 + map 映射
+注意别混：
+bitmap = 位图（按像素存，放大会糊）
+vector = 矢量图（按线条公式存，放大不糊）
+
+bitonal
+核心：形容词，两支。音乐上指双调性的——同一段里两个调同时进行，
+听起来别扭发涩，二十世纪的作曲家拿它做效果；图像上指只有两个色阶
+的，也就是纯黑白、没有灰阶。
+① The passage is bitonal and the two keys never resolve into one.
+= 那一段是双调性的，两个调始终没有并成一个。
+音乐那一支。
+② Stravinsky used bitonal chords to make the dance sound off its footing.
+= 斯特拉文斯基用双调性和弦，让那段舞曲听着站不稳。
+bitonal chord = 双调性和弦
+③ Scan the page as a bitonal image and the file will be a tenth the size.
+= 把那页扫成黑白二值图，文件大小只有十分之一。
+bitonal image = 二值图像
+图像那一支：只有黑白两值。
+构词：bi- 二 + tonal 调的
+词族：
+bitonality = 双调性
+
+bitonality
+核心：名词，指两个调同时进行这种写法。它跟无调性不是一回事：
+无调性是干脆没有调中心，双调性是有两个调中心，两个都在，
+互相别着劲，那股不协和正是作曲家要的。不可数。
+① Bitonality creates a jarring effect that a listener feels before naming it.
+= 双调性造成一种刺耳的效果，听的人先感觉到，说不出所以然。
+jarring = 刺耳的、别扭的
+② The piece explores bitonality in the outer movements and settles down in the middle.
+= 那首曲子头尾两个乐章探索双调性，中间那个安静下来。
+③ Bitonality was common in the 1920s and had gone out of fashion by the war.
+= 双调性在二十年代很常见，到战争年月就不时兴了。
+构词：bitonal 双调性的 + -ity
+注意别混：
+bitonality = 双调性（两个调中心并存）
+atonality = 无调性（没有调中心）
+
+bitstream
+核心：连续传下来的一串二进制位，还没切成字节、没解释成内容之前
+就叫这个。它强调的是"流"：数据一位接一位地来，接收端得按约定
+去断句，断错了整段就废了。可数。
+① The decoder reads the bitstream and throws away anything it cannot parse.
+= 解码器读取比特流，解不出来的一概丢弃。
+decoder = 解码器
+② The bitstream is encrypted end to end and the machines in between see only noise.
+= 那段比特流全程加密，中间的机器看到的只是噪声。
+③ Errors in the bitstream corrupt the file from the bad bit onwards.
+= 比特流出错，从出错那一位往后整个文件就毁了。
+corrupt = 损坏（数据）
+构词：bit 位 + stream 流
+词族：
+bit = 位（最小的信息单位）
+byte = 字节（八位）
+
+bitter
+核心：底层是舌头尝到的"苦"，其余各支都是这个味觉往外扩的比喻。
+心里发苦是怨恨（bitter about），事情发苦是痛心（a bitter blow），
+争执发苦是激烈（a bitter dispute），天气发苦是刺骨（bitter cold）。
+名词有一支很英式：bitter 指苦啤酒，酒吧里点 a pint of bitter；
+复数 bitters 则是调酒用的苦精。习语也从味觉来：a bitter pill
+是难以下咽的苦果，to the bitter end 是苦撑到底。
+① The coffee tastes bitter because the machine has not been cleaned since March.
+= 咖啡发苦，是因为机器从三月起就没洗过。
+本义，味觉。
+② She is still bitter about the divorce and mentions it at every gathering.
+= 她对那场离婚仍耿耿于怀，每次聚会都要提。
+be bitter about = 对某事怀恨
+心里发苦那一支。
+③ It was a bitter blow to the team and they lost the next four as well.
+= 这对球队是沉重打击，接下来四场也都输了。
+a bitter blow = 沉重的打击
+④ They had a bitter argument about money that had run out years before.
+= 他们为一笔多年前就花光的钱激烈争吵。
+a bitter argument = 激烈的争吵
+争执发苦：话说得又狠又伤人。
+⑤ A bitter wind blew off the sea and cleared the front within minutes.
+= 刺骨的风从海上吹来，几分钟就把海滨吹空了。
+bitter cold = 刺骨的严寒
+天气那一支。
+⑥ He ordered a pint of bitter and complained that it was too cold.
+= 他要了一品脱苦啤，又嫌太凉。
+bitter = 苦啤酒（英式，不可数）
+⑦ Add two dashes of bitters and stir rather than shake it.
+= 加两滴苦精，用搅的别摇。
+bitters = 苦精（调酒用，只用复数）
+⑧ Losing the case was a bitter pill and the costs made it worse.
+= 输掉官司已经难以下咽，诉讼费更是雪上加霜。
+a bitter pill to swallow = 难以接受的结果
+⑨ They fought on to the bitter end and lost by a single vote.
+= 他们坚持到最后一刻，以一票之差落败。
+to the bitter end = 坚持到底、撑到最后
+⑩ She mixes gin with bitter lemon and calls it a summer drink.
+= 她用杜松子酒兑苦柠檬水，说这是夏天的饮料。
+bitter lemon = 苦柠檬汽水（英式软饮）
+构词：与 bite 同源，本义是"咬舌头的味道"
+词族：
+bitterly = 苦苦地；激烈地
+bitterness = 苦味；怨恨
+副词 bitterly：副词，跟着 bitter 的几支走：说哭说抱怨是"伤心地、恨恨地"， 说争说反对是"激烈地"，说天气是"刺骨地"。它还有一个高频用法是 修饰失望——bitterly disappointed 几乎成了固定搭配。
+⑪ She wept bitterly for an hour and then washed her face and left.
+= 她伤心地哭了一个钟头，洗了把脸就走了。
+weep bitterly = 痛哭
+⑫ He complained bitterly about the noise and then bought the flat below.
+= 他狠狠地抱怨那些噪音，随后买下了楼下那套房。
+⑬ The plan was bitterly opposed by the people it was meant to help.
+= 那项计划遭到激烈反对，反对的正是它本要帮的人。
+bitterly opposed = 激烈反对的
+⑭ It was bitterly cold on the platform and the train was ninety minutes late.
+= 站台上冷得刺骨，火车晚了九十分钟。
+bitterly cold = 冷得刺骨
+⑮ They were bitterly disappointed and did not enter again for six years.
+= 他们大失所望，六年没再报名。
+bitterly disappointed = 极其失望
+构词：bitter 苦的 + -ly
+词族：
+bitter = 苦的；怨恨的
+
+bittern
+核心：一种躲在芦苇丛里的鹭科水鸟，褐色带斑纹，站着一动不动时
+几乎跟芦苇一个样。最出名的是雄鸟的叫声，低沉如闷响的号角，
+能传出好几公里，英语里专门叫它 boom。可数。
+① A bittern boomed in the reeds and the sound carried across two fields.
+= 一只麻鳽在芦苇里发出闷响，声音传过了两块地。
+boom = 发出低沉的鸣声
+② Bitterns are hard to spot even when they are standing four feet away.
+= 麻鳽很难被发现，哪怕就站在四英尺外。
+羽色跟芦苇几乎一样，这是它难找的原因。
+③ The reserve protects breeding bitterns by keeping the reedbed flooded.
+= 那个保护区靠让芦苇荡保持积水来保护繁殖的麻鳽。
+breeding = 繁殖的
+词族：
+heron = 鹭（同科，体形更大更显眼）
+
+bitterness
+核心：名词，两支。一是味觉上的苦味；二是心里的怨恨——事情过去了
+气还没消，那股积着的不平就是它。第二支用得更多，常跟 lingering、
+deep 搭配，强调它是存下来的，不是当场发的火。不可数。
+① The bitterness of the coffee surprised him, and he drank it black anyway.
+= 那咖啡的苦味让他吃了一惊，他还是不加奶糖喝了。
+味觉那一支。
+② There was bitterness in her voice that eight years had not worn down.
+= 她话音里带着怨气，八年过去也没磨掉。
+③ Years of bitterness followed the split and neither side spoke at the funeral.
+= 分家之后是多年的积怨，葬礼上两边一句话都没说。
+lingering bitterness = 久久不散的怨恨
+④ He spoke without bitterness about the job he had been pushed out of.
+= 谈起那份被挤走的工作，他说得并无怨气。
+构词：bitter 苦的 + -ness 性质
+近义对照：
+bitterness = 怨恨（积下来的，冲人）
+grief = 悲痛（冲事，不针对人）
+
+bittersweet
+核心：苦里带甜，两种味道同时在。用在味道上说巧克力，用在心情上
+说那种"高兴里掺着难过"的滋味——毕业、告别、老照片，都是典型的
+bittersweet。它跟单纯的"喜忧参半"不同：两种情绪是搅在一起的，
+不是一半一半分得开。
+① The chocolate is bittersweet and works far better in a sauce than on its own.
+= 那款巧克力苦中带甜，做酱汁比直接吃好得多。
+bittersweet chocolate = 半甜巧克力
+② Graduation was a bittersweet day for everyone whose friends were leaving town.
+= 对那些朋友要离开的人来说，毕业那天心里五味杂陈。
+情绪那一支。
+③ She smiled a bittersweet smile and put the photograph back in the drawer.
+= 她笑得又欣慰又难过，把照片放回了抽屉。
+④ The film has a bittersweet ending that audiences argued about for years.
+= 那部电影的结局苦乐参半，观众争论了好多年。
+a bittersweet ending = 苦乐参半的结局
+构词：bitter 苦 + sweet 甜
+近义对照：
+bittersweet = 苦乐搅在一起
+mixed feelings = 心情复杂（可以是两种分开的情绪）
+
+bitty
+核心：英式口语，指东西零零碎碎、连不成整体——一篇文章东一段西
+一段，一天被杂事切得七零八落，都可以说 bitty。它评的是"不成片"，
+不是"少"。美式另有一支相反的用法，itty-bitty 指小得可爱。
+① The essay felt bitty, as if three drafts had been stapled together.
+= 那篇文章读着很零散，像是把三份草稿钉在了一起。
+零碎那一支：段落连不起来。
+② It was a bitty sort of day, all short errands and nothing finished.
+= 那一天过得七零八落，尽是些跑腿的小事，一件也没做完。
+③ The film is bitty and hard to follow if you look away for a minute.
+= 那部电影很碎，眼睛离开一分钟就跟不上了。
+④ She wore an itty-bitty hat that stayed on by some means nobody could see.
+= 她戴了顶小巧的帽子，不知靠什么挂在头上。
+itty-bitty = 小小的（美式口语，叠音）
+构词：bit 一小块 + -y 的
+注意语域：英式口语，带贬义。
+
+bitumen
+核心：黑色黏稠的沥青，石油炼到最后剩下的那部分，也有天然的。
+铺路是它最大的用途，拌上石子就是沥青混凝土；也用来做屋顶防水。
+不可数。英式读音重音在前，美式在后。
+① The road is surfaced with bitumen laid over a bed of crushed stone.
+= 那条路铺的是沥青，底下垫着碎石层。
+be surfaced with = 以某种材料铺面
+② Bitumen softens in hot weather and takes the print of a heel.
+= 沥青一热就变软，鞋跟能踩出印子。
+③ They sealed the roof with bitumen and it held through two winters.
+= 他们用沥青把屋顶封了，撑过了两个冬天。
+seal = 封住、做防水
+近义对照：
+bitumen = 沥青（英式常用）
+asphalt = 沥青；沥青路面（美式常用）
+tar = 焦油（煤或木材干馏得来，来源不同）
+
+bituminous
+核心：形容词，含沥青的、沥青质的。它最常出现在一个固定搭配里：
+bituminous coal，也就是烟煤——挥发分高、烧起来冒烟，跟硬而洁净的
+无烟煤 anthracite 相对，这是煤分级里最要紧的一条界线。
+① The mine yields bituminous coal that burns hot and leaves a lot of soot.
+= 那座矿出的烟煤火头旺，烟灰也多。
+bituminous coal = 烟煤
+② Bituminous paint protects the steel where it goes into the ground.
+= 沥青漆用来保护钢材入土的那一段。
+bituminous paint = 沥青漆
+③ The layer is bituminous and stains the drill core black.
+= 那一层是沥青质的，把岩芯染得发黑。
+构词：bitumen 沥青 + -ous 含……的
+注意别混：
+bituminous coal = 烟煤（挥发分高，冒烟）
+anthracite = 无烟煤（硬，燃烧洁净）
+
+bivalve
+核心：双壳类软体动物，两片壳靠背上的铰合部连着，能开能合——蛤、
+蚌、牡蛎、扇贝都是。它们几乎都靠滤食过活，把水抽进来滤出微粒，
+所以水一脏，它们体内先富集污染物，这也是吃生蚝要看产地的道理。
+可数。
+① Oysters and mussels are bivalves, and so is the scallop that swims by clapping.
+= 牡蛎和贻贝是双壳类，靠拍壳游动的扇贝也是。
+② The bivalve clamped its shell shut the moment the shadow passed over.
+= 影子一晃过去，那只双壳贝就把壳闭紧了。
+clamp shut = 紧紧闭合
+③ Bivalves filter huge volumes of water and clear a whole bay if there are enough of them.
+= 双壳类过滤大量的水，数量够多时能把整片海湾滤清。
+filter = 过滤
+构词：bi- 二 + valve 壳瓣
+近义对照：
+bivalve = 双壳类（两片壳）
+gastropod = 腹足类（单壳，如螺）
+
+bivouac
+核心：临时露营，尤指不搭正经帐篷、就地对付一夜的那种，登山队和
+军队用得最多。名词动词同形。拼写上有个坑：动词变形要加一个 k，
+写作 bivouacked、bivouacking，不然按拼读规则那个 c 会读成软音。
+① They made a bivouac below the ridge and were moving again by four.
+= 他们在山脊下扎了个临时营，四点就又出发了。
+make a bivouac = 扎临时营
+② The troops bivouacked in the field and lit no fires.
+= 部队在野地里露营过夜，没有生火。
+③ We bivouacked without tents and woke with frost on the bags.
+= 我们没搭帐篷就露宿了，醒来睡袋上结了霜。
+构词：法语 bivouac 警戒宿营
+注意拼写：bivouacked、bivouacking 要加 k。
+近义对照：
+bivouac = 临时露宿（简陋，多为一夜）
+camp = 扎营（有装备，可长住）
+
+bivvy
+核心：英式口语，是 bivouac 的缩略说法，既指临时露宿，也指
+bivvy bag——那种睡袋外面再套一层的防水露宿袋，登山钓鱼的人常带。
+可数，也作动词。
+① He spent the night in a bivvy bag on a ledge the width of a bench.
+= 他在一条长凳宽的岩台上，钻在露宿袋里过了一夜。
+bivvy bag = 防水露宿袋
+② We bivvied under an overhang and listened to the rain miss us.
+= 我们在岩檐下露宿，听着雨从旁边落下去。
+③ Pack a bivvy just in case the walk out takes longer than the map says.
+= 带个露宿袋以防万一，走出去的路可能比地图上久。
+just in case = 以防万一
+构词：bivouac 的口语缩略
+注意语域：英式口语，多见于登山与野钓圈。
+
+biweekly
+核心：这个词天生有歧义，两个意思正好差四倍：既是"每两周一次"，
+也是"一周两次"。词典两个都收，光看词判断不了，只能靠上下文。
+写东西最稳妥的办法是干脆避开它，写 every two weeks 或 twice a week。
+形容词副词同形。
+① The staff newsletter is biweekly and always lands on a Friday.
+= 员工通讯两周出一期，总在周五送到。
+两周一期还是一周两期，得看上下文。
+② They hold biweekly meetings and skip the one that falls in August.
+= 他们每两周开一次会，落在八月的那次跳过。
+③ The film magazine appears biweekly and doubles in size at festival time.
+= 那份影刊两周出一期，电影节期间篇幅加倍。
+注意歧义：两个意思都通行，
+写作时改说 every two weeks 或 twice a week。
+同类歧义词：
+bimonthly = 两月一次；一月两次
+biannual = 一年两次（这个不歧义）
+
+bizarre
+核心：离奇古怪到让人愣一下的那种怪。它比 strange 重：strange 只是
+不熟悉，bizarre 是怪得不合常理、讲出来别人都不信。它不带道德评判，
+说的是"荒诞"，不是"恶劣"。注意跟同音的 bazaar（集市）分开，
+两个词只是读音撞了，毫无关系。
+① It was a bizarre coincidence that neither of them could explain afterwards.
+= 那是个离奇的巧合，事后两人谁也说不清。
+a bizarre coincidence = 离奇的巧合
+② He told a bizarre story about a stolen boat and a policeman on a horse.
+= 他讲了个荒诞的故事，说的是一条被偷的船和一个骑马的警察。
+③ The whole situation was bizarre, and everybody behaved as if it were normal.
+= 整件事透着古怪，所有人却当它再正常不过。
+④ She wore a bizarre outfit to the interview and got the job anyway.
+= 她穿了身怪模怪样的衣服去面试，居然还录取了。
+注意别混：
+bizarre = 离奇的（形容词）
+bazaar = 集市（名词，同音不同词）
+近义对照：
+bizarre = 离奇（怪得不合常理）
+strange = 奇怪（只是不熟悉）
+副词 bizarrely：副词，两个位置。修饰形容词或动词时是"离奇地"；放句首加 逗号时是句子副词，等于"离奇的是"——说话人在对整件事下判断， 而不是形容某个动作。后一种用法在书面语里很常见。
+⑤ The room was bizarrely furnished, with a church pew facing a fish tank.
+= 那间屋子布置得怪模怪样，一条教堂长凳正对着鱼缸。
+修饰动词，说的是布置这个动作。
+⑥ Bizarrely, he agreed at once to terms he had refused all week.
+= 离奇的是，整整一周都拒绝的条件，他当场就答应了。
+放句首作句子副词，对整句下判断。
+⑦ The plot is bizarrely convoluted and needs a diagram by the third act.
+= 那个情节离奇地绕，到第三幕得画张图才理得清。
+convoluted = 弯弯绕绕的
+构词：bizarre 离奇的 + -ly
+词族：
+bizarreness = 离奇
+
+blab
+核心：口语，指把该保密的事说出去。它的重点不在"多话"而在"漏嘴"——
+说的是本不该外传的内容，所以后面常跟 about，或者直接说 blab to
+someone。贬义。
+① Don't blab about this until the letters have gone out.
+= 信没发出去之前，这事别说出去。
+blab about = 把某事说漏
+② Someone blabbed to the press two days before the announcement.
+= 公布前两天，有人向媒体走漏了消息。
+blab to = 向某人泄露
+③ He blabbed the whole plan to a stranger in a bar.
+= 他在酒吧里把整个计划都抖给了一个陌生人。
+构词：拟声词，模仿嘴不停开合的声音
+注意语域：口语，贬义。
+近义对照：
+blab = 走漏（说了不该说的）
+chat = 闲聊（内容无所谓）
+
+blabber
+核心：口语，指没完没了地说废话。它跟 blab 的分工很清楚：blab 说的是
+"漏了秘密"，blabber 说的是"话多且空"，内容有没有价值才是关键。
+常跟 on 连用。也作名词，指那一通废话。
+① He blabbered on for an hour without once reaching the point.
+= 他絮絮叨叨说了一个钟头，一次也没说到正题。
+blabber on = 唠叨个没完
+② Stop blabbering and listen, they are calling our train.
+= 别唠叨了听着，在叫我们那班车了。
+③ It was just drunken blabber and nobody remembered it by morning.
+= 那不过是醉话连篇，到早上谁也不记得了。
+构词：blab 走漏 + -er 反复动作
+注意语域：口语，贬义。
+注意别混：
+blab = 走漏秘密（重在内容不该说）
+blabber = 唠叨废话（重在话多且空）
+
+blabbermouth
+核心：大嘴巴，藏不住话的人。它骂的是"这人不能托付秘密"，不是
+"这人爱聊天"。口语，带责备，多在事后抱怨时说。可数。
+① Don't tell him, he is a blabbermouth and his wife works in that office.
+= 别告诉他，他嘴不严，他老婆还在那个办公室上班。
+② Some blabbermouth leaked the date and the surprise was ruined.
+= 哪个大嘴巴把日期透了出去，惊喜全泡汤了。
+③ She called her brother a blabbermouth and stopped telling him anything.
+= 她说她哥是个大嘴巴，从此什么都不跟他讲了。
+构词：blabber 唠叨 + mouth 嘴
+注意语域：口语，带责备。
+近义对照：
+blabbermouth = 大嘴巴（守不住秘密）
+chatterbox = 话篓子（只是话多，不涉及泄密）
+
+black
+核心：底层是"黑"这个颜色，其余各支分三路长出来。一路是物理上的黑：
+颜色本身 → 没有光的漆黑 → 咖啡不加奶也叫 black。一路是比喻上的黑，
+几乎全是负面的：脸色黑是发怒，前景黑是不妙，行径黑是邪恶，
+笑话黑是拿灾祸开玩笑。第三路指人，Black 指黑人，今天多写成大写，
+是中性的称谓。动词有一组 black out，三个意思并存：人昏过去、
+地方灯火全灭、把字涂掉。还有一支跟颜色反着来的会计用法：
+in the black 是有盈余，in the red 才是亏损——旧时账本拿红墨水记赤字，
+黑墨水记正常收支，两个说法都是从那儿来的。
+① Her hair is black and so thick that no clip will hold it.
+= 她头发又黑又厚，什么发夹都夹不住。
+本义，颜色。
+② The night was black and we could not see the path at all.
+= 夜里漆黑一片，我们完全看不见路。
+没有光那一支：黑到什么都看不见。
+③ I take my coffee black, with no sugar and no fuss.
+= 我喝咖啡不加奶不加糖，图个省事。
+black coffee = 不加奶的咖啡
+颜色引申到饮品：不掺白的东西。
+④ He wore black to the funeral and left before the reception.
+= 他穿黑衣去了葬礼，招待会没参加就走了。
+名词用法，指黑色。
+⑤ She gave him a black look across the table and said nothing.
+= 她隔着桌子瞪了他一眼，什么也没说。
+a black look = 怒视、白眼
+比喻那一路：脸色沉下来。
+⑥ Things looked black for the team after a third defeat in a row.
+= 三连败之后，那支队伍的前景一片惨淡。
+look black = 前景黯淡
+⑦ He was punished for black deeds that nobody would name aloud.
+= 他为一些谁也不肯说出口的恶行受了罚。
+black deeds = 恶行
+⑧ It is a black comedy about a funeral that goes badly wrong.
+= 那是一部关于葬礼出岔子的黑色喜剧。
+black comedy = 黑色喜剧（拿死亡与灾祸开玩笑）
+⑨ She is the first Black woman to hold the post in two hundred years.
+= 那个职位设立两百年来，她是第一位担任它的黑人女性。
+指人那一支，今天多写成大写的 Black。
+⑩ The company is back in the black for the first time since the crash.
+= 崩盘以来，那家公司头一次转亏为盈。
+in the black = 有盈余
+⑪ He blacked out at the wheel and the car drifted onto the verge.
+= 他在方向盘前晕了过去，车飘上了路肩。
+black out = 昏厥、失去知觉
+⑫ The city blacked out during the raid and stayed dark until dawn.
+= 空袭时全城灯火管制，一直黑到天亮。
+black out = 灯火管制；停电
+⑬ Two whole lines had been blacked out before the file was released.
+= 那份档案公开之前，有整整两行被涂黑了。
+black out = 涂黑、删去
+⑭ His arms were black and blue after a week on the building site.
+= 在工地干了一星期，他两条胳膊青一块紫一块。
+black and blue = 被打得遍体鳞伤
+⑮ I want the terms in black and white before I sign anything.
+= 签字之前我要白纸黑字写清条款。
+in black and white = 白纸黑字、书面写明
+⑯ He sees everything in black and white and never allows for luck.
+= 他看什么都非黑即白，从不把运气算进去。
+同一个说法的另一层：不容中间地带。
+⑰ The film was shot in black and white on a very small budget.
+= 那部片子预算极少，是用黑白胶片拍的。
+指黑白影像。
+⑱ The job is not as black as it is painted once you learn the routine.
+= 摸熟了流程就会发现，那份工作没传说的那么糟。
+谚语式说法，用来给人宽心。
+⑲ The union blacked the delivery and the lorries stood idle for a week.
+= 工会抵制那批货，卡车闲了整整一星期。
+black = 抵制（英式旧用法，工会语境）
+⑳ The terrier is black and tan, like the ones in the old photographs.
+= 那只梗犬是黑褐两色的，跟旧照片上的一样。
+black and tan = 黑黄相间的（犬类毛色）；也指黑啤兑淡啤的混饮
+㉑ They danced the black bottom at a party in nineteen twenty-six.
+= 一九二六年的一次聚会上，他们跳了黑臀舞。
+black bottom = 黑臀舞（上世纪二十年代的爵士舞）
+㉒ The sauce is a classic black butter, browned until it smells of nuts.
+= 那道酱是经典的焦黄油，煎到有坚果香为止。
+black butter = 焦化黄油酱汁（黄油煎到发褐）
+㉓ She picked a bowl of black cherries from the tree by the wall.
+= 她从墙边那棵树上摘了一碗黑樱桃。
+black cherry = 黑樱桃（色深味浓）
+㉔ The run is marked black diamond and should not be taken lightly.
+= 那条雪道标着黑钻级，不该掉以轻心。
+black diamond = 高级雪道标记（美式）；也指工业用黑金刚石
+㉕ The policy promotes black empowerment in a country still shaped by apartheid.
+= 在一个仍受种族隔离影响的国家，那项政策推动黑人赋权。
+black empowerment = 黑人经济赋权（南非的政策用语）
+㉖ The stew is made with black-eyed peas and a smoked ham hock.
+= 那道炖菜用的是黑眼豌豆和一块熏火腿肘。
+black-eyed pea = 眉豆、黑眼豆（脐眼有黑斑）
+㉗ Black-eyed Susans lined the fence all the way to the gate.
+= 黑心金光菊沿着篱笆一直开到门口。
+black-eyed Susan = 黑心金光菊（黄花黑心）
+㉘ The pirates raised the black flag as soon as they were in range.
+= 一进射程，海盗就升起了黑旗。
+black flag = 海盗旗；赛车中取消资格的黑旗
+㉙ Oil is often called black gold by people who have never drilled for it.
+= 石油常被没钻过井的人叫作黑金。
+black gold = 黑金（指石油）
+又黑又值钱，这个比喻中英文都通。
+㉚ Missed payments become black information and follow you for six years.
+= 漏还的款项会成为负面征信记录，跟着你六年。
+black information = 征信里的不良记录（英式金融）
+跟它相对的是记录良好还款的 white information。
+㉛ A black knight bid for the company while the board was still arguing.
+= 董事会还在争的时候，一个恶意收购者出了价。
+black knight = 敌意收购方（跟白衣骑士相对）
+白衣骑士是出手相救的那一方，两个词成对用。
+㉜ The posters glow under black light in a way daylight never shows.
+= 那些海报在黑光灯下发亮，白天完全看不出来。
+black light = 紫外灯、黑光灯
+它发的近紫外光人眼几乎看不见，看得见的是被照亮的东西。
+㉝ Miners developed black lung after decades underground with no masks.
+= 矿工在井下不戴口罩干了几十年，落下了黑肺病。
+black lung = 煤工尘肺
+㉞ The novel describes a black mass in a ruined chapel at midnight.
+= 那部小说写了午夜在一座废弃小教堂里的黑弥撒。
+black mass = 黑弥撒（亵渎性的仪式）
+㉟ That junction is an accident black spot and everyone local knows it.
+= 那个路口是事故多发点，本地人都知道。
+black spot = 事故多发路段（英式）
+多指视线不好的弯道和路口，标出来提醒减速。
+㊱ He ordered a black velvet, which the barman had to look up.
+= 他点了一杯黑丝绒，酒保还得查一下怎么调。
+black velvet = 黑啤兑香槟的混饮；也指黑丝绒布
+注意语用：指人那一支今天写作大写的 Black，属中性称谓；
+旧文本里的另一些叫法已废且带冒犯，读到要懂，不要沿用。
+词族：
+blacken = 使变黑；抹黑
+blackness = 黑；漆黑
+blackly = 阴沉地
+副词 blackly：副词，跟着 black 的比喻那一路走：说人看是"恶狠狠地"， 说话说笑是"阴沉地、黑色幽默地"。它不用来说颜色——形容东西黑 不说 blackly。
+㊲ He stared blackly at the door and did not answer the knock.
+= 他恶狠狠地盯着门，敲门也不应。
+stare blackly = 恶狠狠地盯着
+㊳ She spoke blackly of the future and turned out to be right.
+= 她说起将来一片悲观，后来还真让她说中了。
+㊴ The novel is blackly comic and funniest at the funeral.
+= 那本小说带着黑色幽默，葬礼那段最好笑。
+blackly comic = 黑色幽默的
+构词：black 黑 + -ly
+注意用法：只承接比喻义，不用来说颜色。
+
+black belt
+核心：武术里的最高一级腰带，柔道、空手道、跆拳道都用它标示
+达到了黑带水平的人也叫 a black belt。有个常被误解的地方：
+黑带不是终点，它上面还分段位，一段到十段。可数。
+① He has a black belt in judo and has never mentioned it at work.
+= 他柔道是黑带，在单位从没提过。
+a black belt in = 某项武术的黑带
+② She earned her black belt at sixteen after six years of training.
+= 她练了六年，十六岁拿到黑带。
+earn = 获得、挣得
+③ Two black belts demonstrated the throw slowly and then at full speed.
+= 两位黑带先慢动作、再全速演示了那个摔法。
+指人那一层用法。
+构词：black 黑 + belt 腰带
+注意用法：黑带之上还分段位，不是终点。
+
+black box
+核心：两支。一是飞机上的飞行记录仪，坠机后靠它还原经过；名字里
+虽有 black，实物却是橙色的，为的是好找。二是引申义：只看得见
+输入和输出、里头怎么运作不知道的系统，讨论算法和人工智能时用得最多。
+可数。
+① Investigators recovered the black box from ninety metres of water.
+= 调查人员从九十米深的水下找回了黑匣子。
+recover = 寻回
+② The black box records the flight data and the voices in the cockpit.
+= 黑匣子记录飞行数据，也录下驾驶舱里的对话。
+flight data = 飞行数据
+③ The algorithm is a black box even to the engineers who trained it.
+= 那个算法连训练它的工程师都看不透。
+引申义：只知进出，不知内里。
+④ Users distrust black box systems that decide who gets a loan.
+= 用户不信任那种决定谁能贷到款的黑箱系统。
+black box system = 黑箱系统
+构词：black 黑 + box 匣子
+注意用法：实物其实是橙色的，
+取名 black 说的是"看不透"。
+
+black cab
+核心：伦敦街头那种黑色出租车，可以在路边扬手拦，这是它跟必须
+预约的 minicab 最要紧的分别。司机要通过一门叫 the Knowledge 的
+考试，把全城几万条街背下来。可数。
+① She hailed a black cab outside the theatre and was home in ten minutes.
+= 她在剧院门口招手叫了辆黑出租，十分钟就到家了。
+hail = 招手叫车
+② Black cabs can be flagged down anywhere the yellow light is on.
+= 只要顶灯亮着，黑出租在哪儿都能拦。
+flag down = 挥手拦车
+③ The black cab took the back streets and beat the traffic on the main road.
+= 那辆黑出租走小路，避开了主干道的堵车。
+构词：black 黑 + cab 出租车
+注意地域：
+black cab = 伦敦黑出租（可路边拦）
+minicab = 预约出租车（不能路边拦）
+
+black eye
+核心：眼眶被打青的那块淤，中文说"熊猫眼"或"乌眼青"——注意黑的是
+眼睛周围的皮肤，不是眼球。另有一支比喻义：名声上挨的一记，
+说 give someone a black eye 就是让人栽了面子。可数。
+① He came home with a black eye.
+= 他回家时眼眶乌青。
+② She gave him a black eye in the car park and did not apologise for it.
+= 她在停车场把他眼眶打青了，事后也没道歉。
+give someone a black eye = 打青某人的眼眶
+③ The scandal left the firm with a black eye that took years to fade.
+= 那桩丑闻让那家公司颜面扫地，好些年才缓过来。
+比喻义：名声上挨的一下。
+构词：black 黑 + eye 眼
+注意用法：青的是眼周皮肤，不是眼球。
