@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8624 条，词典序 a → fantasist（另有 Ebola、Easter 等大写词头）。义项 31030。
+B 词表 8696 条，词典序 a → fatherly（另有 Ebola、Easter 等大写词头）。义项 31194。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -21,7 +21,7 @@ B 词表 8624 条，词典序 a → fantasist（另有 Ebola、Easter 等大写�
   B-merged-0001-2500.txt   2500 条   a → biliary
   B-merged-2501-5000.txt   2500 条   bilingual → compassionate
   B-merged-5001-7500.txt   2500 条   compatible → encroachment
-  B-merged-7501-8624.txt   1124 条   encrustation → fantasist 一带
+  B-merged-7501-8696.txt   1196 条   encrustation → fatherly 一带
 **每份固定 2500 条，满了自动顺延到下一份**（merge-wordlist.py B 2500 每次重切，
 并删掉上一轮的旧尾巴文件）。新词条现在落在第四份里。
 
@@ -205,10 +205,11 @@ CHECK 补了 extreme 一组（in the extreme、go to extremes、take something t
   ③ **CHECK 补六组习语**：face（8 条）、fact、fail、fair、faith、fall。
   ④ **清单剔 2 条**：factitive、factive（句法语义学内部术语，同 durative 那一类），
      清单 427 → 425。
-已写六批 170 条：第一批 fa → facile（24）、第二批 facilitate → fade（24）、
-第三批 fader → fairyland（24）、第四批 fait accompli → falling-out（25）、
-第五批 fallout → family（24）、第六批 famine → fantasist（24）。
-CHECK 又补了 family / famous / fancy / far 四组。fa- 段 174/425（40%）。
+已写九批 242 条：fa → facile（24）、facilitate → fade（24）、fader → fairyland（24）、
+fait accompli → falling-out（25）、fallout → family（24）、famine → fantasist（24）、
+fantasize → farmyard（24）、farrago → fastball（24）、fasten → fatherly（24）。
+CHECK 陆续补了 family / famous / fancy / far / fashion / fast / fat / fate / father
+九组。fa- 段 248/425（58%）。
   · face 一条 11 个义项，习语八条全落进等式（face to face、in the face of、
     on the face of it、keep a straight face、pull a face、face the music、
     lose face、save face）。
@@ -225,8 +226,16 @@ CHECK 又补了 family / famous / fancy / far 四组。fa- 段 174/425（40%）�
     不配例句**；正常义项照写（fanny 写的是美式的 fanny pack 与 get off your fanny）。
   · check-wordlist 拦下一条：faithfully 的译文里直接写了 Yours faithfully ——
     译文引用英文必须加引号，改成「Yours faithfully」才过。
-  · **下一批从 fantasize 起**（fantastic / fantasy / far / farce / fare / farm 一带，
-    far 的习语已在 CHECK 里；farm 一族复合词多，注意归组）。
+  · **farther 与 farthest 提上来跟 far 同批写** —— far 只有三个字母，
+    coverage 的前四字母派生判定罩不住它们，核心块又要点名，索性一起写掉。
+  · 第九批 check-wordlist 报「密度低于基线」（批均等式 2.08 < 2.13）。
+    照 em- 第二批的老规矩，补的是词典里本来就有的真搭配：a press fastener、
+    fastidiousness about detail、a born fatalist、accept something fatalistically、
+    form a fatberg —— 不是给每条硬凑一句。
+  · audit-ab 报 father 缺 become a father（A 表教过），补了一行等式。
+  · **下一批从 fathom 起**（fatigue / fatten / fatty / fatuous / faucet / fault /
+    faultless / faun / fauna / faux pas / favour 一带；favour 是大词，
+    动笔前要往 CHECK 补 in favour of、do somebody a favour、curry favour）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
