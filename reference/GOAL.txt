@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8892 条，词典序 a → fizzy（另有 Ebola、Easter 等大写词头）。义项 32281。
+B 词表 8896 条，词典序 a → fizzy（另有 Ebola、Easter 等大写词头）。义项 32348。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -344,11 +344,19 @@ CHECK 又补 fit / fix / fist 三组。
     fire away/off/up 三个短语动词等），first 一族 18 组，field 一族 6 组。
   · check-wordlist 又拦下一条译文混英文：我写「英国的 first floor 是美国的二楼」，
     译文里引用英文必须加引号，改成「first floor」才过。
-  · **下一步：fi- 并入 pass 的后一半**（fibre / fiddle / fifth / fifty / fig /
-    fight / figure / file / fill / film / filter / fin / final / finance / find /
-    fine / finger / finish / firing / firm / fiscal / fish / fishing / fist /
-    fit / fitness / fitted / fitting / five / fix / fixed / fixer 共 88 条），
-    做完 fi- 段就只剩 5 条待推迟。
+  第二半也做完了：88 条写进 39 个宿主。**fi- 段收完：449 条清单已收 444（98%），
+  只剩 5 条待推迟**（Fibonacci series、filo pastry、finishing line / school / touch）。
+  · **fishtail、fishwife、fishy、finisher 四条 coverage 挂在 fish / finish 名下，
+    其实是各自独立的词头**，照 feudal 那次的判断单立，没有并进去。
+  · firepower、fit up、fix up 头一遍漏掉：我写的是 fit somebody up、
+    fix something up 这种带占位词的形式，coverage 按连续字符串搜认不出。
+    这是 farm out to → fence off → ferret out 之后同一个坑的第四次，
+    **并入时凡是短语动词，除了带占位词的写法，都要再补一行原形等式**。
+  · 剔 Fingal's Cave（纯地名）与 Fianna Fail（政党专名），fi- 清单 451 → 449。
+  · **下一步开 fl- 段**（清单约 394 条：flag / flame / flash / flat / flavour /
+    flesh / flight / float / floor / flow / fly 一带；flat、flash、flight、floor、
+    fly 都是大词，动笔前往 CHECK 补 flat out、in a flash、take flight、
+    floor somebody、fly off the handle、let fly）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
