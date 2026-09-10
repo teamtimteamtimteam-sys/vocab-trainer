@@ -486,3 +486,4 @@ Fingal's Cave   # 苏格兰的一处洞穴地名，属纯地名
 Fianna Fail     # 爱尔兰政党专名，属纯专名
 flagrante    # in flagrante delicto 被切开的碎片，整条短语在 i 段收，同 delicto / extremis
 flagfall     # 澳新英语里出租车的起步价，属地区变体词头
+fortiori     # a fortiori 被切开的碎片，整条短语在 a 段收，同 extremis / flagrante

@@ -113,3 +113,4 @@ farthest     far        # 副词并进形容词后，前四字母对不上，补
 feet         foot       # 原形在 fo- 段，尚未写到；变形条先存着
 flies        fly        # 复数与第三人称形式，原形另立
 fo'c'sle     forecastle   # 缩读形，coverage 把 ’ 归一成 '
+forwent      forgo      # 过去式，前四字母对不上

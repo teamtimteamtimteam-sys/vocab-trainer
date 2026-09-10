@@ -24,6 +24,15 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'fortune': ['make a fortune', 'cost a fortune', 'a small fortune'],
+ 'forward': ['look forward to', 'put something forward'],
+ 'foul': ['foul play', 'foul up'],
+ 'foundation': ['lay the foundations'],
+ 'four': ['on all fours'],
+ 'fort': ['hold the fort'],
+ 'forte': ["somebody's forte"],
+ 'forth': ['back and forth', 'and so forth'],
+ 'fortitude': ['show fortitude'],
  'forget': ['forget about', 'forget it'],
  'forgive': ['forgive and forget'],
  'fork': ['fork out'],
