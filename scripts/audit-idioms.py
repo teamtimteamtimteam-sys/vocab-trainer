@@ -24,6 +24,12 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'focus': ['the focus of attention', 'in focus', 'out of focus', 'focus on'],
+ 'fog': ['in a fog'],
+ 'foggy': ['not have the foggiest idea'],
+ 'fold': ['fold your arms', 'return to the fold', 'fold up'],
+ 'foil': ['a foil to'],
+ 'fodder': ['cannon fodder'],
  'fly': ['fly off the handle', 'let fly', 'fly in the face of', 'with flying colours'],
  'flutter': ['a flutter of'],
  'flux': ['in a state of flux'],
