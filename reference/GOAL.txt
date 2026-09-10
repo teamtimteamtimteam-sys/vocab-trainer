@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8542 条，词典序 a → faze（另有 Ebola、Easter 等大写词头）。义项 31365。
+B 词表 8607 条，词典序 a → femme（另有 Ebola、Easter 等大写词头）。义项 31529。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -265,9 +265,23 @@ CHECK 陆续补了 family / famous / fancy / far / fashion / fast / fat / fate /
     coverage 按连续字符串搜，认不出，补了一行原形等式才过。
   · 清单又剔 3 条：fah-fee（南非）、fair dinkum（澳新）、fatty-arbuckle（人名俚语），
     加上 faujdar（印度），fa- 段清单 425 → 421。
-  · **下一批开 fe- 段**（清单 203 条：fear / feature / feed / feel / fee 一带；
-    feel 是大词，动笔前要往 CHECK 补 feel like、feel free、feel your age，
-    fear 补 for fear of、no fear）。
+**fe- 段已开工**（清单 203 条）。CHECK 先补了 fear / feast / feather / feel /
+feed / fee 六组习语。已写三批 65 条：
+  第一批 fealty → fecklessness（23）、第二批 fecund → feeler（20）、
+  第三批 feeling → femme（22）。fe- 段 83/203（40%）。
+  · **新规则在 fe- 段一路照办**：fearfully、fearlessly、federally、feebly、
+    feelingly、felicitously 都没单立，直接写成形容词条里的「副词 X：……」。
+  · audit-swallowed 这三批逮到四次「核心块点了名却没配例句」：
+    fear for（我写的是 Fears for，字面对不上，补了原形等式）、
+    fecklessness 与 femme（都是清单里的正条，当批补写成词条）、
+    feeder school（补一行等式）。
+  · audit-idioms 逮到 feed 缺 feed up 与 off your feed —— 我往 CHECK 里补了，
+    写的时候却没落实。**CHECK 补完要当场对着写**，不然下一批才发现。
+  · feet 按 inflections.txt 开头那条规矩记成「feet → foot」，不单立；
+    等 fo- 段写到 foot，coverage 自己会认。
+  · **下一批从 feminine 起**（feminism / feminist / femur / fence / fend / fennel /
+    feral / ferment / fern / ferocious / ferret / ferry / fertile 一带；
+    fence 与 ferry 是大词，动笔前往 CHECK 补 sit on the fence、mend fences）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
