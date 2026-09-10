@@ -24,6 +24,9 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'follow': ['follow suit', 'as follows', "follow in somebody's footsteps"],
+ 'food': ['food for thought', 'off your food'],
+ 'font': ['a font of knowledge'],
  'focus': ['the focus of attention', 'in focus', 'out of focus', 'focus on'],
  'fog': ['in a fog'],
  'foggy': ['not have the foggiest idea'],
