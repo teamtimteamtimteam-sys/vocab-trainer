@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-09-10） ═══
-B 词表 8750 条，词典序 a → filch（另有 Ebola、Easter 等大写词头）。义项 31890。
+B 词表 8815 条，词典序 a → finished（另有 Ebola、Easter 等大写词头）。义项 32054。
   a 段 99%  b 段 98%  c 段 97%
   d 段收完（da–dy 全段）。
   **e 段真正收完（2026-09-10，补完两个漏洞之后）**：清单 1836 条，已收 1801 条（98%），
@@ -313,10 +313,20 @@ CHECK 陆续补了 fiddle / field / fight / figure / fig 五组，都是写的�
     （on the fiddle、play second fiddle）。
   · 新规则照办：fiendishly、fiercely、fifthly、figuratively 都并进了本条，
     没单立。fifthly 那种列举用的序数副词也一样并 —— 它没有 fifth 之外的义项。
-  · **下一批从 file 起**（filename / filet / filial / filibuster / filigree /
-    Filipino / fill / filler / fillet / filling / film / filter / filth 一带；
-    file、fill、film、filter 都是大词，动笔前往 CHECK 补 file for、on file、
-    fill in、fill up、fill the bill、film star、filter out）。
+第四批 file → filmy（22）、第五批 filter → find（22）、第六批 finder → finished（21）。
+fi- 段 152/452（34%）。剔 filmi（印度英语）。
+CHECK 又补了 file / fill / film / find / filter / fine / finger / fingertip 八组。
+  · **finally 登记进 derived-keep 当例外**：「终于、总算」那一支带着「等了很久」的
+    意味，final 没有；列举时的「最后一点」也是它自己的用法。
+    filthily、financially、finely 照旧并进形容词条。
+  · audit-padding 逮到 filibuster 的两条义项等式撞车（名词与动词的等式一样），
+    改成 filibuster a bill 才分开。
+  · audit-ab 这三批报了四处：finance 缺 personal finance、finger 缺
+    cross one's fingers、finish 缺 finish doing、fence 那两条。都是 A 表教过的，
+    各补一行等式。
+  · **下一批从 finite 起**（fink / Finn / Finnish / fintech / fiord / fir / fire /
+    firearm / firebomb 一带；fire 是大词，动笔前往 CHECK 补 catch fire、
+    set fire to、on fire、under fire、open fire、play with fire）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
