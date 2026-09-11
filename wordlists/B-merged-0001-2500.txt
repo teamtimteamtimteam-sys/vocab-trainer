@@ -4571,6 +4571,8 @@ carbonic acid = 碳酸
 = 脱氧核糖核酸，就是话一说开大家都改口叫 DNA 的那个东西。
 deoxyribonucleic acid = 脱氧核糖核酸（DNA 的全称）
 全称几乎只出现在教科书首次提到时。
+folic acid = 叶酸
+formic acid = 蚁酸、甲酸
 
 acidic
 核心：化学上指"酸性的"，与碱性相对；日常也指食物"发酸的"。
@@ -6345,6 +6347,7 @@ address book = 通讯录
 ⑨ Each cell is individually addressable and can be written to on its own.
 = 每个单元都可单独寻址，能单独写入。
 addressable = 可寻址的、可触达的
+forwarding address = 转寄地址
 
 addressee
 核心：指信件、邮件、包裹的"收件人"，正式用语。

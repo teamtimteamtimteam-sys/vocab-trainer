@@ -489,6 +489,23 @@ fr- 段 282/384（73%），fu- 段 14/205（6%）。
     后者改成"那屋里没有一样东西是静止的"。
     **讲异体拼法时最容易写成元评论 —— 把拼法留在核心块里说，例句只管用词。**
 
+═══ f 段收尾（2026-09-11）═══
+**f 段 2478/2501（99%）**，只剩 23 条：16 条待推迟（内容词在后面的字母段，
+如 falling star / Ferris wheel / finishing touch / forklift truck），
+另有 7 条是多词条目里被切开的碎片。**并入 pass 一次做完**：
+fl 111 条、fo 107 条、fr 与 fu 163 条，共 381 条多词条目写成等式行
+追加进词根条（flight deck、food bank、free will、full stop 这一类）。
+  · **coverage 的「待并入」曾经把独立词也吞进去**：只按前四字母分组，
+    formula / format / former / formidable / formation / formulate…
+    全被算在 form 名下，flashlight / flashpoint / flashy 全算在 flash 名下，
+    这十七个常用词因此从没出现在「待新写」栏里，一路写到 g 段才被发现。
+    **已改 host_entry：只有多词条目才进待并入，单个词一律划到待新写。**
+    真派生词（abrasively 写进 abrasive 条）由 derived_covered 判「已收」，
+    不受影响；a–e 段复查过，没有同类漏网。
+  · 并入 pass 之后 resplit 会重排分批，**旧批次可能因此跌破密度线**
+    （这次 B-8755-8779 掉到讲解行／义项 1.5 以下），补几条真搭配即可。
+  · 收尾时补齐了 ff / fjord / fps / ft / fy 五条零头。
+
 ═══ g 段（清单约 2100 条）═══
 ga- 段刚开工（约 11/300）。动笔前的四件事照旧先做：
   ① 大写词头：G 段清单里 G 打头的大写词头需要先登记进 proper-nouns-keep
