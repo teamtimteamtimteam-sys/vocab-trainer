@@ -11677,6 +11677,8 @@ famine
 = 那场饥荒持续了两季，最先垮掉的是道路。
 a famine = 饥荒
 famine relief = 赈灾救济
+Famine relief reached the coast in a fortnight and the hills in two months.
+= 赈灾救济两周就到了沿海，到山里用了两个月。
 ② Work here is feast or famine and the rent is monthly either way.
 = 这里的活儿不是忙死就是没有，房租倒是月月照付。
 feast or famine = 忽多忽少、旱涝不均
@@ -11727,11 +11729,17 @@ fan the flames = 煽风点火
 = 粉丝群自己运营着后援会、粉丝网站，还有大半周边。
 a fan base = 粉丝群
 a fan club = 后援会
+A fan club of eleven people kept the band touring for a decade.
+= 一个十一个人的后援会，撑着那支乐队巡演了十年。
 a fan site = 粉丝网站
+A fan site catalogued every concert and corrected the official history twice.
+= 一个粉丝网站把每场演唱会都编了目，还纠正过两回官方说法。
 ⑤ Fan mail arrives in one sack and fan fiction in another.
 = 粉丝来信装一麻袋，同人小说另装一麻袋。
 fan mail = 粉丝来信
 fan fiction = 同人小说
+Two of them met writing fan fiction and married four years later.
+= 他们俩是写同人小说认识的，四年后结了婚。
 ⑥ The searchers fanned out across the field before the light went.
 = 天黑之前，搜寻的人在田野上散开。
 fan out = 散开
@@ -11850,6 +11858,8 @@ fancy-free = 无牵无挂的
 = 那本小说隔一章就有个姘夫，最后一章还有个姘妇。
 a fancy man = 旧时贬称的姘夫
 a fancy woman = 旧时贬称的姘妇
+The village called her a fancy woman and bought her bread anyway.
+= 村里人管她叫姘妇，照样买她的面包。
 
 fandango
 核心：两支。一是（西班牙）方丹戈舞：三拍子、带响板的舞；
@@ -12012,6 +12022,8 @@ how far = 多远
 = 第二版好得多，写它只花了一半时间。
 far better = 好得多
 far too much = 太多了
+There was far too much salt and everybody said the soup was lovely.
+= 盐放得太多了，人人却都说这汤真好。
 ③ As far as the bridge the path is easy, and after that it is not.
 = 到桥为止那条小路很好走，过了桥就不是了。
 as far as = 远到、就……而言
@@ -12045,10 +12057,14 @@ live farthest from something = 住得离某处最远
 = 那个解释很牵强，后果却照样影响深远。
 far-fetched = 牵强的
 far-reaching = 影响深远的
+One paragraph in the appendix turned out to be the far-reaching part.
+= 附录里的一段话，最后才是影响深远的那部分。
 ⑬ Letters came from far-flung places and one far-off island with no post office.
 = 信来自天南地北，还有一座连邮局都没有的遥远小岛。
 far-flung = 遥远分散的
 far-off = 遥远的
+The far-off hills turn blue at four and disappear by five.
+= 远处那些山四点转成蓝色，五点就看不见了。
 ⑭ By midnight he was too far gone to argue about the bill.
 = 到半夜他已经醉得没法就账单争了。
 far gone = 醉得厉害、病得厉害
@@ -12059,6 +12075,8 @@ far-out = 前卫古怪的
 = 有远见的规划买下了那块地，可远见很少有人道谢。
 far-sighted = 有远见的
 far-sightedness = 远见
+The far-sightedness of one clerk saved records that four fires nearly took.
+= 一位职员的远见，保住了四场火险些烧掉的档案。
 
 farad
 核心：（物理）法拉：电容的单位，符号 F；实际元件多以微法 microfarad 计。
@@ -12114,6 +12132,8 @@ fare
 = 四月车费涨了，时刻表一点没变。
 a single fare = 单程票价
 a return fare = 往返票价
+A return fare costs less than two singles and only on weekdays.
+= 往返票价比两张单程便宜，而且只在工作日才这样。
 ② The pub does simple fare and does all of it at one temperature.
 = 那家酒馆做的是家常饭菜，火候只有一档。
 simple fare = 家常饭菜
@@ -12154,11 +12174,17 @@ farm sheep = 养羊
 = 山脊上那片风电场，四个郡都望得见。
 a wind farm = 风电场
 a fish farm = 养鱼场
+A fish farm in the loch employs nine people and divides the village.
+= 湖里那家养鱼场雇了九个人，也把村子分成了两派。
 ④ The work is farmed out to three studios and farmed out again by two of them.
 = 那些活儿外包给三家工作室，其中两家又转包了出去。
 farm out = 外包
 farm something out to somebody = 把某事外包给某人
+They farmed the accounts out to a firm two hundred miles away.
+= 他们把账目外包给了两百英里外的一家事务所。
 farm out to somebody = 外包给某人
+Half the translation was farmed out to people who never met.
+= 那份翻译有一半外包给了彼此从未见过面的人。
 ⑤ Across the farm belt the same two crops pay for everything.
 = 整条农业带上，就靠同样那两种作物养活一切。
 the farm belt = 美式说的农业带
@@ -12220,6 +12246,8 @@ farmstead
 = 那座农庄有三间谷仓，三间加起来只剩一扇门还能用。
 a farmstead = 农庄
 an abandoned farmstead = 废弃的农庄
+An abandoned farmstead makes a good barn and a terrible house.
+= 废弃的农庄当谷仓不错，当住宅糟糕透顶。
 ② An abandoned farmstead on the hill is marked on every old map.
 = 山上那座废弃的农庄，每张老地图上都标着。
 
@@ -12299,6 +12327,8 @@ farthingale
 = 那条裙子底下的裙撑，正是画中人靠不了椅背的缘故。
 a farthingale = 裙撑
 wear a farthingale = 穿裙撑
+Only the women in the front row wear a farthingale in that painting.
+= 那幅画里只有前排的女子穿着裙撑。
 ② A farthingale took two people to put on and went through doorways sideways.
 = 穿裙撑要两个人帮忙，过门还得侧着身。
 
@@ -12382,6 +12412,8 @@ fascinator
 = 那场婚礼上每一顶头饰，都比蛋糕高。
 a fascinator = 小礼帽饰
 wear a fascinator = 戴小礼帽饰
+Guests wear a fascinator to the races and regret it in the wind.
+= 客人戴着小礼帽饰去赛马会，一起风就后悔了。
 ② She borrowed a fascinator and managed to lose it before the photographs.
 = 她借了一顶头饰，拍照之前就弄丢了。
 
@@ -12413,6 +12445,8 @@ after a fashion 是「勉强算是」。形容词 fashionable。
 = 宽领子又流行起来，那些老照片忽然有了用处。
 in fashion = 流行
 out of fashion = 过时
+The name went out of fashion for sixty years and is back everywhere.
+= 那个名字过时了六十年，如今到处都是。
 ② The fashion industry runs about six months ahead of the weather.
 = 时装业比天气大约提前半年。
 the fashion industry = 时装业
@@ -12423,14 +12457,20 @@ after a fashion = 勉强算是
 = 那位时装设计师坐看自己的时装秀，一次也没抬头。
 a fashion designer = 时装设计师
 a fashion show = 时装秀
+A fashion show lasts nine minutes and takes six months to arrange.
+= 一场时装秀九分钟，筹备要六个月。
 ⑤ A fashion-conscious teenager and a fashion victim are two stops apart.
 = 讲究穿着的少年，跟盲目追潮流的人，隔着两站地。
 fashion-conscious = 讲究穿着的
 a fashion victim = 盲目追潮流的人
+A fashion victim owns four coats and is cold in all of them.
+= 盲目追潮流的人有四件大衣，穿哪件都冷。
 ⑥ The coat is fashion-forward and makes a fashion statement nobody asked for.
 = 那件大衣走在潮流前面，摆出一个没人想看的时尚宣言。
 fashion-forward = 引领潮流的
 a fashion statement = 时尚宣言
+The hat was a fashion statement until the rain made it a problem.
+= 那顶帽子本是个时尚宣言，一下雨就成了麻烦。
 
 fashionable
 核心：时髦的、时兴的：说衣着、说地段，也说某种观点一时受宠。
@@ -12470,6 +12510,8 @@ a fast train = 快车
 = 那个盖子卡死了，罐头比柜子还老。
 stuck fast = 卡死了
 hold fast = 抓牢
+Hold fast to the rail until the boat is alongside the steps.
+= 抓牢栏杆，等船靠到台阶边上再说。
 ③ The kitchen clock is ten minutes fast and nobody bothers to adjust it.
 = 厨房那只钟快十分钟，谁也懒得去调。
 be ten minutes fast = 快十分钟
@@ -12495,10 +12537,14 @@ fast food = 快餐
 = 她被放进快速晋升通道，接手的是别人都不愿干的活。
 the fast track = 快速晋升通道
 the fast lane = 快车道
+A tractor in the fast lane on that road is not unusual.
+= 在那条路上，快车道里出现一辆拖拉机不算稀奇。
 ⑪ Fast forward two years and the fast-paced series already has three spin-offs.
 = 快进两年，那部节奏明快的剧集已经有了三部衍生剧。
 fast forward = 快进
 fast-paced = 节奏明快的
+A fast-paced first chapter hides how little happens in the second.
+= 节奏明快的头一章，掩住了第二章几乎什么都没发生。
 ⑫ A fast breeder makes more fuel than it burns and more paperwork than either.
 = 快中子增殖堆产出的燃料比烧掉的多，产出的文书比这两样还多。
 a fast breeder = 快中子增殖反应堆
@@ -12534,6 +12580,8 @@ a fastener = 扣件
 = 那件大衣上每个扣件尺寸都不一样，倒是都还能用。
 a zip fastener = 拉链
 a press fastener = 按扣
+A press fastener holds better than a button and fails all at once.
+= 按扣比纽扣扣得牢，一坏就全坏。
 
 fastening
 核心：（英式）扣合装置：门窗上的插销、衣物上的搭扣与拉链。可数。
@@ -12568,6 +12616,8 @@ fastidiousness
 = 他在账目上的一丝不苟，正是审计只用两天的缘故。
 fastidiousness = 一丝不苟
 fastidiousness about detail = 对细节的讲究
+Her fastidiousness about detail makes her slow and worth waiting for.
+= 她对细节的讲究让她慢，可值得等。
 ② Fastidiousness in a kitchen is a virtue and in a hurry is a problem.
 = 厨房里讲究是美德，赶时间的时候就成了麻烦。
 构词：fastidious 加 -ness
@@ -12609,6 +12659,8 @@ a fat cat = 肥猫（贬称高薪权贵）
 = 键盘上手指按错一个键，四千变成了四万。
 a fat finger = 手指按错键
 fat-fingered = 按错键的
+A fat-fingered transfer sent the deposit to an account in Lisbon.
+= 一次按错键的转账，把定金打到了里斯本的一个账户。
 ⑧ The yoghurt is fat-free and sweeter than the one that is not.
 = 那种酸奶是脱脂的，比不脱脂的还甜。
 fat-free = 脱脂的
@@ -12616,6 +12668,8 @@ fat-free = 脱脂的
 = 对肥胖的羞辱，把人从减肥营送去的那家健身房里赶了出来。
 fat shaming = 对肥胖的羞辱
 a fat camp = 减肥营
+A fat camp costs more per week than the family earns in two.
+= 减肥营一周的花销，比那家人两周挣的还多。
 
 fatal
 核心：两支。一是致命的：a fatal accident、a fatal dose；
@@ -12650,6 +12704,8 @@ fatalist
 = 宿命论者什么都不种，照样抱怨收成。
 a fatalist = 宿命论者
 a born fatalist = 天生的宿命论者
+A born fatalist checks the forecast anyway and takes the umbrella.
+= 天生的宿命论者照样看天气预报，伞也带上。
 ② He is a fatalist about the weather and a planner about everything else.
 = 对天气他信命，别的事都要计划。
 
@@ -12666,6 +12722,8 @@ be fatalistic about something = 对某事听天由命
 = 他听天由命地耸耸肩，还是订了晚一班的航班。
 shrug fatalistically = 听天由命地耸肩
 accept something fatalistically = 听天由命地接受某事
+Villagers accept the flooding fatalistically and move the furniture upstairs.
+= 村民听天由命地接受了发水，把家具搬到楼上。
 ④ She fatalistically accepted the third delay and opened a book.
 = 第三次延误她认了命，翻开一本书。
 构词：fatalistic 加 -ly
@@ -12686,6 +12744,8 @@ fatberg
 = 那条街底下的油脂块，比一辆双层巴士还重。
 a fatberg = 下水道油脂块
 form a fatberg = 结成下水道油块
+Wipes and cooking oil form a fatberg under any street with restaurants.
+= 湿巾加食用油，在任何有饭馆的街道底下都会结成油块。
 ② Clearing a fatberg takes three weeks and a very short-handled shovel.
 = 清掉一块下水道油块要三个星期，还得配一把短柄铲。
 构词：fat 加 iceberg 的后半截
@@ -12731,6 +12791,8 @@ father
 = 她父亲早上六点在海滩上教她开车。
 a father = 父亲
 become a father = 当上父亲
+He became a father at nineteen and a grandfather before fifty.
+= 他十九岁当上父亲，不到五十就当了祖父。
 ② He is called the father of modern surgery and hated the operating theatre.
 = 他被称作现代外科之父，却厌恶手术室。
 the father of something = 某事物的鼻祖
@@ -12741,6 +12803,8 @@ Father = 神父（称呼）
 = 她公公成了半条街孩子的父亲式人物。
 a father-in-law = 岳父、公公
 a father figure = 父亲般的长者
+The coach was a father figure to boys who had none at home.
+= 对那些家里没有父亲的男孩，教练就是父亲般的长者。
 ⑤ The father of the chapel called the meeting and the print run stopped.
 = 印刷厂的工会车间代表召集了会议，印刷线就停了。
 the father of the chapel = 英式印刷业的工会车间代表
@@ -12748,6 +12812,8 @@ the father of the chapel = 英式印刷业的工会车间代表
 = 父亲节赶在星期天，电话线整个下午都占着。
 Father's Day = 父亲节
 founding father = 开国元勋、创始人
+A founding father of the club is still on the committee at ninety.
+= 俱乐部的一位创始人九十岁了还在委员会里。
 
 fatherhood
 核心：为人父、父亲这个身份。不可数。
@@ -12794,6 +12860,8 @@ fathom
 = 我实在弄不懂，会议为什么挪到了周五下午。
 cannot fathom something = 弄不懂某事
 fathom something out = 把某事琢磨明白
+She fathomed the filing system out in a week and rebuilt it.
+= 她一个星期就把那套归档办法琢磨明白，接着重做了一遍。
 ② The chart shows nine fathoms here and the wreck sits in seven.
 = 海图上这一带是九英寻，那艘沉船在七英寻处。
 a fathom = 英寻（合六英尺）
@@ -12947,6 +13015,8 @@ fault
 = 那次延误谁都没错，人人还是道了歉。
 somebody's fault = 某人的过错
 be at fault = 有过错
+The signal was at fault and the driver was suspended anyway.
+= 有过错的是信号机，司机还是被停了职。
 ② Her one fault as a driver is that she trusts other drivers.
 = 她开车唯一的毛病，是太信别的司机。
 a fault = 缺点
@@ -12960,6 +13030,8 @@ to a fault = 过分地
 = 那手菜挑不出毛病，别的几乎样样能挑。
 you cannot fault something = 某事挑不出毛病
 find fault with something = 对某事挑刺
+He finds fault with the printing and never with the argument.
+= 他总是对印刷挑刺，对论点从不挑。
 ⑥ Fault-finding on the line takes an hour and fault-finding in meetings takes years.
 = 在生产线上查故障要一个钟头，在会上挑毛病要好些年。
 fault-finding = 查找故障；吹毛求疵
@@ -13179,6 +13251,8 @@ fawn = 浅黄褐色
 = 两名助手围着那位来客巴结，把他身后排队的人全晾着。
 fawn over somebody = 巴结某人
 fawn on somebody = 向某人摇尾乞怜
+Juniors fawn on him at the start and avoid him by the second year.
+= 新人起初向他摇尾乞怜，到第二年就躲着他。
 
 fax
 核心：传真：名词既指传真机也指传真件，动词是发传真。可数。

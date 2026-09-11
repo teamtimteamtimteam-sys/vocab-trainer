@@ -88,6 +88,8 @@ fault
 = 那次延误谁都没错，人人还是道了歉。
 somebody's fault = 某人的过错
 be at fault = 有过错
+The signal was at fault and the driver was suspended anyway.
+= 有过错的是信号机，司机还是被停了职。
 ② Her one fault as a driver is that she trusts other drivers.
 = 她开车唯一的毛病，是太信别的司机。
 a fault = 缺点
@@ -101,6 +103,8 @@ to a fault = 过分地
 = 那手菜挑不出毛病，别的几乎样样能挑。
 you cannot fault something = 某事挑不出毛病
 find fault with something = 对某事挑刺
+He finds fault with the printing and never with the argument.
+= 他总是对印刷挑刺，对论点从不挑。
 ⑥ Fault-finding on the line takes an hour and fault-finding in meetings takes years.
 = 在生产线上查故障要一个钟头，在会上挑毛病要好些年。
 fault-finding = 查找故障；吹毛求疵

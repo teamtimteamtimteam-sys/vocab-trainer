@@ -64,6 +64,8 @@ farthingale
 = 那条裙子底下的裙撑，正是画中人靠不了椅背的缘故。
 a farthingale = 裙撑
 wear a farthingale = 穿裙撑
+Only the women in the front row wear a farthingale in that painting.
+= 那幅画里只有前排的女子穿着裙撑。
 ② A farthingale took two people to put on and went through doorways sideways.
 = 穿裙撑要两个人帮忙，过门还得侧着身。
 
@@ -147,6 +149,8 @@ fascinator
 = 那场婚礼上每一顶头饰，都比蛋糕高。
 a fascinator = 小礼帽饰
 wear a fascinator = 戴小礼帽饰
+Guests wear a fascinator to the races and regret it in the wind.
+= 客人戴着小礼帽饰去赛马会，一起风就后悔了。
 ② She borrowed a fascinator and managed to lose it before the photographs.
 = 她借了一顶头饰，拍照之前就弄丢了。
 
@@ -178,6 +182,8 @@ after a fashion 是「勉强算是」。形容词 fashionable。
 = 宽领子又流行起来，那些老照片忽然有了用处。
 in fashion = 流行
 out of fashion = 过时
+The name went out of fashion for sixty years and is back everywhere.
+= 那个名字过时了六十年，如今到处都是。
 ② The fashion industry runs about six months ahead of the weather.
 = 时装业比天气大约提前半年。
 the fashion industry = 时装业
@@ -188,14 +194,20 @@ after a fashion = 勉强算是
 = 那位时装设计师坐看自己的时装秀，一次也没抬头。
 a fashion designer = 时装设计师
 a fashion show = 时装秀
+A fashion show lasts nine minutes and takes six months to arrange.
+= 一场时装秀九分钟，筹备要六个月。
 ⑤ A fashion-conscious teenager and a fashion victim are two stops apart.
 = 讲究穿着的少年，跟盲目追潮流的人，隔着两站地。
 fashion-conscious = 讲究穿着的
 a fashion victim = 盲目追潮流的人
+A fashion victim owns four coats and is cold in all of them.
+= 盲目追潮流的人有四件大衣，穿哪件都冷。
 ⑥ The coat is fashion-forward and makes a fashion statement nobody asked for.
 = 那件大衣走在潮流前面，摆出一个没人想看的时尚宣言。
 fashion-forward = 引领潮流的
 a fashion statement = 时尚宣言
+The hat was a fashion statement until the rain made it a problem.
+= 那顶帽子本是个时尚宣言，一下雨就成了麻烦。
 
 fashionable
 核心：时髦的、时兴的：说衣着、说地段，也说某种观点一时受宠。
@@ -235,6 +247,8 @@ a fast train = 快车
 = 那个盖子卡死了，罐头比柜子还老。
 stuck fast = 卡死了
 hold fast = 抓牢
+Hold fast to the rail until the boat is alongside the steps.
+= 抓牢栏杆，等船靠到台阶边上再说。
 ③ The kitchen clock is ten minutes fast and nobody bothers to adjust it.
 = 厨房那只钟快十分钟，谁也懒得去调。
 be ten minutes fast = 快十分钟
@@ -260,10 +274,14 @@ fast food = 快餐
 = 她被放进快速晋升通道，接手的是别人都不愿干的活。
 the fast track = 快速晋升通道
 the fast lane = 快车道
+A tractor in the fast lane on that road is not unusual.
+= 在那条路上，快车道里出现一辆拖拉机不算稀奇。
 ⑪ Fast forward two years and the fast-paced series already has three spin-offs.
 = 快进两年，那部节奏明快的剧集已经有了三部衍生剧。
 fast forward = 快进
 fast-paced = 节奏明快的
+A fast-paced first chapter hides how little happens in the second.
+= 节奏明快的头一章，掩住了第二章几乎什么都没发生。
 ⑫ A fast breeder makes more fuel than it burns and more paperwork than either.
 = 快中子增殖堆产出的燃料比烧掉的多，产出的文书比这两样还多。
 a fast breeder = 快中子增殖反应堆
@@ -299,6 +317,8 @@ a fastener = 扣件
 = 那件大衣上每个扣件尺寸都不一样，倒是都还能用。
 a zip fastener = 拉链
 a press fastener = 按扣
+A press fastener holds better than a button and fails all at once.
+= 按扣比纽扣扣得牢，一坏就全坏。
 
 fastening
 核心：（英式）扣合装置：门窗上的插销、衣物上的搭扣与拉链。可数。

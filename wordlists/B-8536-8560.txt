@@ -44,6 +44,8 @@ fawn = 浅黄褐色
 = 两名助手围着那位来客巴结，把他身后排队的人全晾着。
 fawn over somebody = 巴结某人
 fawn on somebody = 向某人摇尾乞怜
+Juniors fawn on him at the start and avoid him by the second year.
+= 新人起初向他摇尾乞怜，到第二年就躲着他。
 
 fax
 核心：传真：名词既指传真机也指传真件，动词是发传真。可数。

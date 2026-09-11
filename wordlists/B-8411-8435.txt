@@ -127,6 +127,8 @@ famine
 = 那场饥荒持续了两季，最先垮掉的是道路。
 a famine = 饥荒
 famine relief = 赈灾救济
+Famine relief reached the coast in a fortnight and the hills in two months.
+= 赈灾救济两周就到了沿海，到山里用了两个月。
 ② Work here is feast or famine and the rent is monthly either way.
 = 这里的活儿不是忙死就是没有，房租倒是月月照付。
 feast or famine = 忽多忽少、旱涝不均
@@ -177,11 +179,17 @@ fan the flames = 煽风点火
 = 粉丝群自己运营着后援会、粉丝网站，还有大半周边。
 a fan base = 粉丝群
 a fan club = 后援会
+A fan club of eleven people kept the band touring for a decade.
+= 一个十一个人的后援会，撑着那支乐队巡演了十年。
 a fan site = 粉丝网站
+A fan site catalogued every concert and corrected the official history twice.
+= 一个粉丝网站把每场演唱会都编了目，还纠正过两回官方说法。
 ⑤ Fan mail arrives in one sack and fan fiction in another.
 = 粉丝来信装一麻袋，同人小说另装一麻袋。
 fan mail = 粉丝来信
 fan fiction = 同人小说
+Two of them met writing fan fiction and married four years later.
+= 他们俩是写同人小说认识的，四年后结了婚。
 ⑥ The searchers fanned out across the field before the light went.
 = 天黑之前，搜寻的人在田野上散开。
 fan out = 散开
@@ -300,6 +308,8 @@ fancy-free = 无牵无挂的
 = 那本小说隔一章就有个姘夫，最后一章还有个姘妇。
 a fancy man = 旧时贬称的姘夫
 a fancy woman = 旧时贬称的姘妇
+The village called her a fancy woman and bought her bread anyway.
+= 村里人管她叫姘妇，照样买她的面包。
 
 fandango
 核心：两支。一是（西班牙）方丹戈舞：三拍子、带响板的舞；
