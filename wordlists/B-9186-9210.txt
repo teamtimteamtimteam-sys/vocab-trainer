@@ -113,6 +113,8 @@ food
 = 她做八个人的饭，自己站在灶台边吃。
 cook food = 做饭
 buy food = 买吃的
+They buy food for four and eat it between two of them.
+= 他们买四个人的吃的，两个人就吃完了。
 ② Baby food comes in jars that cost more than the fruit inside them.
 = 婴儿食品装在罐子里，罐子比里头的水果还贵。
 baby food = 婴儿食品
@@ -129,18 +131,44 @@ food for thought = 值得琢磨的东西
 = 从搬家那天起，狗就一直没胃口。
 be off your food = 没胃口
 food bank = 食物银行
+The food bank opens twice a week and runs out on Thursdays.
+= 食物银行一周开两回，周四就发完了。
 food court = 美食广场
+A food court seats four hundred and smells of all nine kitchens.
+= 美食广场坐得下四百人，九个厨房的味道都闻得到。
 food group = 食物类别
+The poster names five food groups and the canteen serves two.
+= 海报上列了五类食物，食堂供应的有两类。
 food hall = 食品大厅
+The food hall downstairs costs twice the market two streets away.
+= 楼下食品大厅的价钱，是两条街外那个集市的两倍。
 food insecurity = 粮食不保障
+Food insecurity is counted once a year and felt every Thursday.
+= 粮食不保障一年统计一次，每个星期四都感觉得到。
 food mile = 食物里程
+A food mile counts the distance and says nothing about the fuel.
+= 食物里程算的是距离，对烧了多少油只字不提。
 food pantry = 食物救济站
+The food pantry asks no questions and keeps no names at all.
+= 那家食物救济站什么也不问，名字一个不记。
 food poisoning = 食物中毒
+Food poisoning closed the kitchen and the inspector found nothing wrong.
+= 一起食物中毒让厨房停了业，检查员却什么毛病也没查出来。
 food processor = 食物料理机
+The food processor has eleven attachments and one of them gets used.
+= 那台食物料理机有十一个配件，用得上的只有一个。
 food science = 食品科学
+Food science explains why the cheap loaf stays soft for a week.
+= 食品科学能解释便宜面包为什么能软一个星期。
 food security = 粮食安全
+Food security starts with storage and ends with somebody driving a lorry.
+= 粮食安全从仓储开始，到有人开货车为止。
 food stamp = 食品券
+A food stamp buys the same bread and takes twice as long.
+= 用食品券买同样的面包，要花两倍的时间。
 food web = 食物网
+One missing beetle rearranged the whole food web in that pond.
+= 少了一种甲虫，那口塘里整张食物网就重排了。
 
 foodie
 核心：三支（非正式）。一是讲究吃、爱钻研吃的人；二是美食圈里的人；
