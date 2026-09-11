@@ -152,8 +152,8 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
 - **词典本身**：f 段 99%（剩的是待推迟），g 段在写，**下一批从 geode 起**
   （geography / geology / geometry / German / germ / gerrymander 一带）。
   G 段大写词头 51 条已登记进 proper-nouns-keep。
-- **补例句**：tier1 剩约 1570，tier2（词族）约 850。已补到 d 段末尾，
-  下一段 du / dy / ea。
+- **补例句**：tier1 剩约 1397，tier2（词族）约 849。已补到 ej 段末尾
+  （d 段与 ea–ej 都清空了），**下一段 el / em / en**（en 一段就有 113 条）。
 - **push 策略**：用户 2026-09-11 说「补完一起推」——
   补例句这件事做完之前，只在本地提交，不要 push。
 
