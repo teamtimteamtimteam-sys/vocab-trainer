@@ -24,6 +24,11 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'general': ['in general', 'a general election', 'as a general rule'],
+ 'generation': ['the younger generation', 'generation gap'],
+ 'gender': ['gender equality'],
+ 'gear': ['get into gear', 'change gear'],
+ 'geek': ['a computer geek'],
  'gather': ['gather speed', 'gather dust'],
  'gauntlet': ['throw down the gauntlet', 'run the gauntlet'],
  'gaze': ['gaze at'],

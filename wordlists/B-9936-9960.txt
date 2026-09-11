@@ -106,6 +106,7 @@ gather speed = 逐渐加速
 ④ The machine has been gathering dust since the person who used it left.
 = 自从会用它的人走了，那台机器就一直搁着积灰。
 gather dust = 搁着积灰
+gatherer = 采集者、搜集的人
 
 gathering
 核心：三支。一是聚会、集会：a family gathering；
@@ -120,6 +121,32 @@ the gathering of something = 某物的收集
 = 每一叠折页单独缝好，再装订成书。
 a gathering = 一叠折页
 
+gator
+核心：三支（美，非正式）。一是短吻鳄，alligator 的简称；
+二是佛罗里达一带对这种鳄的叫法；三是（引申）沼泽地里那份危险。
+① A gator crossed the road at walking pace and stopped four cars.
+= 一条短吻鳄以走路的速度横过公路，拦下四辆车。
+a gator = 短吻鳄
+② They keep a gator in that pond and put a sign up in April.
+= 他们那个池塘里养着一条鳄，四月立了块牌子。
+keep a gator = 养一条短吻鳄
+③ Nobody swims in that lake because of the gators.
+= 因为有鳄鱼，那个湖没人游泳。
+gators = 短吻鳄
+
+gatvol
+核心：三支（南非，非正式）。一是受够了、烦透了：be gatvol；
+二是（对某人某事）忍无可忍；三是（口语）一肚子火。
+① He was gatvol of waiting and walked the last three miles.
+= 他等得受够了，最后三英里自己走的。
+be gatvol of something = 受够了某事
+② The whole street is gatvol and the meeting is on Thursday.
+= 整条街都忍无可忍，周四开会。
+be gatvol = 忍无可忍
+③ She said she was gatvol and then made tea for everybody.
+= 她说自己烦透了，转头给所有人泡了茶。
+say you are gatvol = 说自己烦透了
+
 gauche
 核心：三支（正式）。一是（举止）笨拙不得体的：a gauche remark；
 二是（人）不懂社交分寸的；三是（做法）生硬别扭的。
@@ -132,6 +159,7 @@ be gauche = 不懂分寸
 ③ The design is gauche in a way that a year of work could not fix.
 = 那个设计生硬别扭，干了一年也改不过来。
 be gauche = 生硬别扭
+gaucheness = 举止笨拙、不得体
 
 gaucherie
 核心：三支（正式）。一是举止笨拙、不得体；二是一次失礼的言行；
@@ -171,6 +199,8 @@ be gaudy = 俗艳花哨
 ③ The college gaudy is held in June and half the year group comes back.
 = 学院的校友宴六月举行，那一届回来一半人。
 a gaudy = 学院校友宴
+gaudily = 俗艳地、花哨地
+gaudiness = 俗艳、花哨
 
 gauge
 核心：四支。一是量表、计量仪：a fuel gauge；二是（铁轨的）轨距、（金属的）厚度规格；
@@ -200,6 +230,7 @@ stand gaunt = 光秃秃地立着
 ③ He came out of hospital gaunt and put it all back on by Christmas.
 = 他出院时瘦得脱了形，到圣诞就全长回来了。
 be gaunt = 形销骨立
+gauntness = 瘦削憔悴
 
 gauntlet
 核心：三支。一是（护手的）长手套：a leather gauntlet；
@@ -254,6 +285,19 @@ the gavel comes down = 落槌成交
 = 谁拿着木槌，谁就定这场争论什么时候停。
 hold the gavel = 掌握落槌之权
 
+gavial
+核心：三支。一是恒河鳄，嘴极细长的鳄类；二是它那副窄吻；
+三是（保护名录里）濒危的那一种。
+① A gavial has a snout too thin for anything but fish.
+= 恒河鳄的吻太细，除了鱼什么也咬不了。
+a gavial = 恒河鳄
+② The gavial basks all morning and moves once.
+= 那条恒河鳄晒了一上午，只挪了一次。
+a gavial basks = 恒河鳄晒太阳
+③ Fewer than a thousand gavials are left in the wild.
+= 野外剩下的恒河鳄不到一千条。
+gavials = 恒河鳄
+
 gavotte
 核心：三支（音乐、舞蹈）。一是加沃特舞，法国的中速四拍舞；
 二是这种舞的曲子；三是组曲里插在其他舞曲之间的那一段。
@@ -292,46 +336,4 @@ be gawky = 笨拙不协调
 ③ The gawky pose in that photograph is why she hid it.
 = 照片上那个局促的姿势，就是她把它藏起来的原因。
 a gawky pose = 局促的姿势
-
-gawp
-核心：三支（英，非正式）。一是张着嘴发呆地看：gawp at something；
-二是（贬）围观看热闹；三是傻愣愣张望。
-① People gawp at that window every December and buy nothing.
-= 每年十二月都有人对着那个橱窗发呆，什么也不买。
-gawp at something = 张嘴呆看某物
-② A crowd gawped from the far pavement and the police moved them twice.
-= 一群人在对面人行道上围观，警察赶了两回。
-gawp from somewhere = 在某处围观
-③ Stop gawping and pass me the spanner.
-= 别愣着看了，把扳手递给我。
-stop gawping = 别愣着看
-
-gay
-核心：三支。一是同性恋的（主要用法）：a gay couple；
-二是（正式的旧义）欢快的：gay music；三是（旧）色彩鲜艳的。副词 gaily 并入本条。
-① A gay couple bought the corner shop and kept the old name.
-= 一对同性伴侣买下了街角那家店，老名字留着。
-a gay couple = 同性伴侣
-② Gay music in a minor key is harder to write than it sounds.
-= 小调上的欢快曲子，写起来比听着难。
-gay music = 欢快的音乐
-③ The room was gay with paper chains and none of them matched.
-= 屋里挂满彩色纸链，颜色一条也不搭。
-be gay with something = 被某物装点得鲜亮
-副词 gaily：欢快地、鲜亮地。
-④ She gaily agreed to something that took her three weekends.
-= 她轻快地答应了一件后来占掉她三个周末的事。
-gaily agree = 轻快地答应
-
-gaze
-核心：三支。一是凝视、注视：gaze at something；
-二是名词，目光：avoid somebody's gaze；三是（学术）审视的目光：the public gaze。
-① They gaze at the sea for an hour and talk about the car park.
-= 他们对着海看了一小时，聊的是停车场。
-gaze at something = 凝视某物
-② She avoided his gaze and answered the question anyway.
-= 她避开他的目光，照样回答了问题。
-avoid somebody's gaze = 避开某人的目光
-③ Everything that family does is done under the public gaze.
-= 那家人做的每一件事，都在公众的注视下。
-the public gaze = 公众的注视
+gawkiness = 手长脚长的笨拙

@@ -114,3 +114,4 @@ feet         foot       # 原形在 fo- 段，尚未写到；变形条先存着
 flies        fly        # 复数与第三人称形式，原形另立
 fo'c'sle     forecastle   # 缩读形，coverage 把 ’ 归一成 '
 forwent      forgo      # 过去式，前四字母对不上
+gaily        gay        # y→i 拼写变化，词根只有三个字母，前缀匹配对不上
