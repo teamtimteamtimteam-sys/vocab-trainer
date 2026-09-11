@@ -96,6 +96,8 @@ bundler = 捆扎的人或工具；打包程序
 构词：中古荷兰语 bundel
 词族：
 bundled = 捆在一起的；打包附送的
+The software came bundled and took nine minutes to remove.
+= 那个软件是打包附送的，卸掉花了九分钟。
 
 bunfight
 核心：英式口语，两支。一是热闹拥挤的茶会或招待会，

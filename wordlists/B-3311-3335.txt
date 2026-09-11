@@ -358,6 +358,8 @@ briefs = 三角内裤
 词族：
 briefing = 情况介绍会
 briefly = 简短地
+She spoke briefly and the meeting ran an hour over anyway.
+= 她说得简短，那个会照样超了一个钟头。
 副词 briefly：副词，两支。一是时间上短暂地——he paused briefly 是 停顿了一下。二是说话简短地，最常见的用法是放句首作插入语： Briefly, the plan failed 意思是"长话短说，计划失败了"， 用来预告接下来只讲要点。
 ⑦ He paused briefly at the door and then went in without knocking.
 = 他在门口停了一下，没敲门就进去了。

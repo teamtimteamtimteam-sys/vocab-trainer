@@ -223,6 +223,8 @@ birth partner = 陪产者（英式）
 birthday = 生日
 birthplace = 出生地
 rebirth = 重生、复兴
+The rebirth of that high street began with one bakery and a bench.
+= 那条主街的复兴，是从一家面包房和一张长椅开始的。
 
 birth certificate
 核心：登记出生事实的官方文件，上面写着姓名、出生日期地点和父母。
@@ -238,7 +240,11 @@ a copy of = 一份副本
 构词：birth 出生 + certificate 证书
 词族：
 marriage certificate = 结婚证书
+A marriage certificate settled an argument about a surname that had run for years.
+= 一张结婚证书，了结了一场为姓氏争了好些年的官司。
 death certificate = 死亡证明
+The death certificate gives a cause that the family had never heard of.
+= 死亡证明上写的死因，家里人从没听说过。
 
 birth control
 核心：避孕，指防止怀孕的各种办法与措施。不可数。它比
@@ -412,3 +418,5 @@ the birthstone for = 某月份的诞生石
 构词：birth 出生 + stone 宝石
 词族：
 gemstone = 宝石
+Every gemstone in that window is labelled and only four are priced.
+= 橱窗里每一块宝石都有标签，只有四块标了价。

@@ -392,6 +392,8 @@ news blackout = 新闻封锁
 构词：black 黑 + out 出去、消失
 词族：
 black out = 停电；昏厥；涂黑（动词形式）
+The town blacks out for four hours whenever the river rises.
+= 河水一涨，那个镇子就停四个钟头的电。
 
 blackshirt
 核心：历史名词，指上世纪二十年代意大利法西斯的民兵，因一身黑衬衫

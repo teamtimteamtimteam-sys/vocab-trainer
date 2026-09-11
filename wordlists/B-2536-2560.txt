@@ -145,6 +145,8 @@ biotechnological process = 生物技术工艺
 词族：
 biotechnology = 生物技术
 biotechnologist = 生物技术人员
+A biotechnologist spends more time on paperwork than on anything living.
+= 生物技术人员花在文书上的时间，比花在活物上的多。
 
 biotechnology
 核心：把生物过程或生物体拿来生产东西。老的那一套是酿酒、发酵、

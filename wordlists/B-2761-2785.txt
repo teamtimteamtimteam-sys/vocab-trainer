@@ -31,6 +31,8 @@ remove a blockage = 清除阻塞
 词族：
 block = 堵住
 unblock = 疏通
+Two people unblocked the drain and neither would say how.
+= 两个人把那个下水道疏通了，谁也不肯说是怎么弄的。
 
 blockbuster
 核心：极其卖座的电影或极其畅销的书，今天几乎只用在这个意思上。
@@ -385,6 +387,8 @@ give blood = 献血
 构词：blood 血 + donor 捐献者
 词族：
 blood drive = 集中献血活动（美式）
+The blood drive fills the hall and the biscuits run out first.
+= 集中献血活动把礼堂坐满，先没的是饼干。
 
 blood group
 核心：血型的英式说法，跟美式的 blood type 指同一件事。

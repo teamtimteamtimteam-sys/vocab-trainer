@@ -793,6 +793,8 @@ biotechnological process = 生物技术工艺
 词族：
 biotechnology = 生物技术
 biotechnologist = 生物技术人员
+A biotechnologist spends more time on paperwork than on anything living.
+= 生物技术人员花在文书上的时间，比花在活物上的多。
 
 biotechnology
 核心：把生物过程或生物体拿来生产东西。老的那一套是酿酒、发酵、
@@ -1370,6 +1372,8 @@ birth partner = 陪产者（英式）
 birthday = 生日
 birthplace = 出生地
 rebirth = 重生、复兴
+The rebirth of that high street began with one bakery and a bench.
+= 那条主街的复兴，是从一家面包房和一张长椅开始的。
 
 birth certificate
 核心：登记出生事实的官方文件，上面写着姓名、出生日期地点和父母。
@@ -1385,7 +1389,11 @@ a copy of = 一份副本
 构词：birth 出生 + certificate 证书
 词族：
 marriage certificate = 结婚证书
+A marriage certificate settled an argument about a surname that had run for years.
+= 一张结婚证书，了结了一场为姓氏争了好些年的官司。
 death certificate = 死亡证明
+The death certificate gives a cause that the family had never heard of.
+= 死亡证明上写的死因，家里人从没听说过。
 
 birth control
 核心：避孕，指防止怀孕的各种办法与措施。不可数。它比
@@ -1559,6 +1567,8 @@ the birthstone for = 某月份的诞生石
 构词：birth 出生 + stone 宝石
 词族：
 gemstone = 宝石
+Every gemstone in that window is labelled and only four are priced.
+= 橱窗里每一块宝石都有标签，只有四块标了价。
 
 birthweight
 核心：出生体重，医学上按它判断新生儿的风险。低于 2500 克叫
@@ -1922,6 +1932,8 @@ bitcoin
 ③ Bitcoin runs on a blockchain that every participant keeps a copy of.
 = 比特币跑在区块链上，每个参与者都存着一份账本。
 blockchain = 区块链
+A blockchain records everything and forgets nothing, which is the difficulty.
+= 区块链什么都记，什么都不忘，难处正在这儿。
 ④ Bitcoin has no central issuer, so nobody can print more of it to cover a crisis.
 = 比特币没有中央发行方，谁也不能多印一些来救急。
 这是它跟法定货币最根本的分别。
@@ -2162,6 +2174,8 @@ bitter lemon = 苦柠檬汽水（英式软饮）
 构词：与 bite 同源，本义是"咬舌头的味道"
 词族：
 bitterly = 苦苦地；激烈地
+They argued bitterly about a fence and shared a taxi home.
+= 他们为一道围栏激烈争吵，回家却合坐一辆出租车。
 bitterness = 苦味；怨恨
 副词 bitterly：副词，跟着 bitter 的几支走：说哭说抱怨是"伤心地、恨恨地"， 说争说反对是"激烈地"，说天气是"刺骨地"。它还有一个高频用法是 修饰失望——bitterly disappointed 几乎成了固定搭配。
 ⑪ She wept bitterly for an hour and then washed her face and left.
@@ -2197,6 +2211,8 @@ boom = 发出低沉的鸣声
 breeding = 繁殖的
 词族：
 heron = 鹭（同科，体形更大更显眼）
+A heron stands in that shallow for an hour without moving.
+= 一只鹭在那片浅水里站一个钟头，一动不动。
 
 bitterness
 核心：名词，两支。一是味觉上的苦味；二是心里的怨恨——事情过去了
@@ -2390,6 +2406,8 @@ convoluted = 弯弯绕绕的
 构词：bizarre 离奇的 + -ly
 词族：
 bizarreness = 离奇
+The bizarreness of the story is why nine people repeated it.
+= 那个故事离奇到这个地步，才有九个人转述它。
 
 blab
 核心：口语，指把该保密的事说出去。它的重点不在"多话"而在"漏嘴"——
@@ -2579,6 +2597,8 @@ A black velvet tastes better than it sounds and works faster.
 blacken = 使变黑；抹黑
 blackness = 黑；漆黑
 blackly = 阴沉地
+He smiled blackly at the news and said it served them right.
+= 听到那消息他阴沉地笑了笑，说他们活该。
 副词 blackly：副词，跟着 black 的比喻那一路走：说人看是"恶狠狠地"， 说话说笑是"阴沉地、黑色幽默地"。它不用来说颜色——形容东西黑 不说 blackly。
 ㊲ He stared blackly at the door and did not answer the knock.
 = 他恶狠狠地盯着门，敲门也不应。
@@ -3156,6 +3176,8 @@ news blackout = 新闻封锁
 构词：black 黑 + out 出去、消失
 词族：
 black out = 停电；昏厥；涂黑（动词形式）
+The town blacks out for four hours whenever the river rises.
+= 河水一涨，那个镇子就停四个钟头的电。
 
 blackshirt
 核心：历史名词，指上世纪二十年代意大利法西斯的民兵，因一身黑衬衫
@@ -3280,6 +3302,8 @@ shoulder blade = 肩胛骨
 构词：古英语 blæd 叶片
 词族：
 bladed = 有刃的；有叶片的
+A bladed tool in that drawer has cut three people in two years.
+= 那个抽屉里有件带刃的工具，两年里划伤了三个人。
 
 blading
 核心：轮滑，指穿单排轮滑鞋滑行，是 rollerblading 的口语缩略。
@@ -3467,6 +3491,8 @@ a bland diet = 清淡饮食
 构词：拉丁语 blandus 温和的
 词族：
 blandly = 平淡地
+She answered blandly and the second question never got asked.
+= 她答得平平淡淡，第二个问题就没人问了。
 blandness = 平淡无味
 副词 blandly：副词，指不带情绪、不动声色地。它常出现在一个特别的场合： 说的话本身很扎人，语气却平平淡淡，那种反差正是 blandly 要传的 意思，所以 say blandly 往往比大喊大叫更冷。
 ⑤ He blandly denied everything while the recording played in the next room.
@@ -3549,6 +3575,8 @@ blankety-blank = 代替脏话的委婉说法
 构词：法语 blanc 白
 词族：
 blankly = 茫然地
+He stared blankly at the timetable and missed the train twice.
+= 他茫然地盯着时刻表，两趟车都错过了。
 blankness = 空白；茫然
 副词 blankly：副词，茫然地、没有表情地。它几乎只跟看和说搭配—— stare blankly、look blankly、say blankly，形容那种"人在心不在、 接不上话"的状态。
 ⑪ She stared blankly at the wall while the doctor explained it a second time.
@@ -4016,6 +4044,8 @@ coral bleaching = 珊瑚白化
 构词：古英语 blæcan 使变白
 词族：
 bleached = 漂白过的
+Bleached driftwood on that beach ends up in half the local kitchens.
+= 那片海滩上漂白的浮木，一半进了本地人家的厨房。
 
 bleacher
 核心：两支。工艺上指漂白剂或做漂白活的人；美式另有一支更常用的，
@@ -4626,6 +4656,8 @@ color-blind = 色盲的（美式拼法）
 词族：
 blindly = 盲目地
 blindness = 失明；盲目
+Blindness in one eye kept him out of the army and in the choir.
+= 一只眼失明，让他没能参军，留在了唱诗班。
 
 blind date
 核心：跟事先没见过面的人约会，多由朋友或平台牵线。名字里的
@@ -4932,6 +4964,8 @@ blissful ignorance = 不知情带来的心安
 构词：bliss 极乐 + -ful
 词族：
 blissfully = 幸福地；浑然不觉地
+He slept blissfully through a storm that took four roofs off.
+= 一场刮掉四个屋顶的风暴里，他睡得香甜。
 副词 blissfully：副词，两个用法。一是"幸福地"，修饰 happy、quiet 这类词； 二是它最有名的搭配 blissfully unaware——浑然不觉，指当事人还 乐呵着，麻烦已经到跟前了，几乎总带一点看好戏的口气。
 ④ The house was blissfully quiet for the first time since the term began.
 = 开学以来头一回，屋里安静得让人舒服。
@@ -5350,6 +5384,8 @@ remove a blockage = 清除阻塞
 词族：
 block = 堵住
 unblock = 疏通
+Two people unblocked the drain and neither would say how.
+= 两个人把那个下水道疏通了，谁也不肯说是怎么弄的。
 
 blockbuster
 核心：极其卖座的电影或极其畅销的书，今天几乎只用在这个意思上。
@@ -5704,6 +5740,8 @@ give blood = 献血
 构词：blood 血 + donor 捐献者
 词族：
 blood drive = 集中献血活动（美式）
+The blood drive fills the hall and the biscuits run out first.
+= 集中献血活动把礼堂坐满，先没的是饼干。
 
 blood group
 核心：血型的英式说法，跟美式的 blood type 指同一件事。
@@ -5817,6 +5855,8 @@ screen = 筛查
 构词：blood 血 + transfusion 输注
 词族：
 transfuse = 输血
+They transfused four units and she was home by the weekend.
+= 他们输了四个单位的血，周末她就回了家。
 
 blood type
 核心：按红细胞表面的抗原把血分成的类别，最常用的是 ABO 系统的
@@ -6898,6 +6938,8 @@ count for = 有多少分量
 注意来历：贵族不下地，皮白得能看见蓝色静脉。
 词族：
 blue-blooded = 有贵族血统的
+A blue-blooded family sold the house and kept the portraits.
+= 一户有贵族血统的人家卖掉了房子，肖像画留着。
 
 blue cheese
 核心：带蓝绿色纹路的奶酪，纹路是特意接种的青霉菌长出来的，
@@ -6973,6 +7015,8 @@ wipe out = 灭绝
 构词：blue 蓝 + whale 鲸
 词族：
 krill = 磷虾
+Krill move in clouds that turn the water pink from above.
+= 磷虾成团游动，从上头看把水都染成了粉色。
 
 bluebell
 核心：一种春天开的野花，细茎上垂着一串蓝紫色的小钟形花。
@@ -8949,7 +8993,11 @@ be so bold as to = 冒昧地（偏旧的客套）
 构词：古英语 bald 勇敢的
 词族：
 boldly = 大胆地
+She asked boldly for a rise and got a better desk.
+= 她大胆开口要加薪，换来一张更好的桌子。
 boldness = 大胆
+The boldness of the design is why it took nine years to approve.
+= 那个设计大胆到这个地步，审批才用了九年。
 副词 boldly：副词，两支跟着 bold 走：一是大胆无畏地，多修饰 go、say、 claim；二是醒目地，说线条颜色。最有名的一句用法出自科幻剧的 开场白 to boldly go——它还成了"分裂不定式"这条老规矩的著名反例。
 ⑤ She boldly challenged the ruling in front of the judge who made it.
 = 她当着作出裁决的法官的面大胆质疑那项裁决。
@@ -11994,6 +12042,8 @@ backcombing = 倒梳
 构词：法语 bouffer 鼓起
 词族：
 beehive = 蜂窝头（bouffant 的一种）
+A beehive took an hour to build and a week to take down.
+= 一个蜂窝头做起来要一个钟头，拆要一个星期。
 
 bougainvillea
 核心：热带藤本植物，靠墙一爬一大片，看着最艳的那层"花瓣"
@@ -12973,6 +13023,8 @@ a boxful of = 一盒的量
 词族：
 handful = 一把的量
 spoonful = 一勺的量
+One spoonful of that is enough and the jar holds forty.
+= 那东西一勺就够了，一罐有四十勺。
 
 boxing
 核心：两支。一是拳击这项运动：两人戴拳套在围绳内按回合较量，
@@ -13998,6 +14050,8 @@ branch off = 岔开、分出去
 构词：晚期拉丁语 branca 爪
 词族：
 branching = 分岔的
+A branching crack in the ceiling grew an inch every wet winter.
+= 天花板上一道分岔的裂缝，每逢雨水多的冬天就长一英寸。
 
 brand
 核心：底层是"烧红的铁烙下的印记"——最早是给牲畜打烙印表明
@@ -14295,6 +14349,8 @@ brave new world = 美丽新世界（今天多带反讽）
 词族：
 bravery = 勇敢
 bravely = 勇敢地
+He waited bravely for four hours and cried in the car park.
+= 他勇敢地等了四个钟头，在停车场哭了。
 副词 bravely：副词，勇敢地。它有两种用法容易混：修饰真正冒险的行为时 是实打实的褒义；修饰 smile、admit 这类动作时往往带一层 "心里难受还撑着"的意思——she smiled bravely 是强忍着笑了笑， 不是"勇敢地笑"。
 ⑥ He bravely entered the burning house and came out with the dog.
 = 他勇敢地冲进着火的房子，抱着狗出来了。
@@ -16121,6 +16177,8 @@ briefs = 三角内裤
 词族：
 briefing = 情况介绍会
 briefly = 简短地
+She spoke briefly and the meeting ran an hour over anyway.
+= 她说得简短，那个会照样超了一个钟头。
 副词 briefly：副词，两支。一是时间上短暂地——he paused briefly 是 停顿了一下。二是说话简短地，最常见的用法是放句首作插入语： Briefly, the plan failed 意思是"长话短说，计划失败了"， 用来预告接下来只讲要点。
 ⑦ He paused briefly at the door and then went in without knocking.
 = 他在门口停了一下，没敲门就进去了。
@@ -18207,6 +18265,8 @@ brownish green = 褐绿色
 构词：brown 棕 + -ish 略带……的
 词族：
 reddish = 略带红色的
+A reddish stain on the ceiling meant the bath upstairs was leaking.
+= 天花板上一块略带红色的印子，说明楼上浴缸在漏。
 
 brownout
 核心：电压下降造成的供电不足——灯变暗、电器转不动，
@@ -18909,6 +18969,8 @@ swollen = 肿的
 构词：希腊语 boubon 腹股沟
 词族：
 bubonic plague = 腺鼠疫
+Bubonic plague emptied that village and the fields went back to wood.
+= 腺鼠疫掏空了那个村子，田地又长回成了林子。
 
 buccaneer
 核心：本义是十七世纪在加勒比海劫掠的海盗。引申指商界那种敢闯敢冒险、
@@ -20895,6 +20957,8 @@ bundler = 捆扎的人或工具；打包程序
 构词：中古荷兰语 bundel
 词族：
 bundled = 捆在一起的；打包附送的
+The software came bundled and took nine minutes to remove.
+= 那个软件是打包附送的，卸掉花了九分钟。
 
 bunfight
 核心：英式口语，两支。一是热闹拥挤的茶会或招待会，
@@ -22403,6 +22467,8 @@ exchange = 交换
 构词：business 商务 + card 卡片
 词族：
 calling card = 名片（旧式说法）
+A calling card on a silver tray belongs to a century of novels.
+= 银盘上一张名片，是整整一个世纪小说里的东西。
 
 businesslike
 核心：形容词，干练务实的——只谈正事、不寒暄、效率高。
@@ -22570,6 +22636,8 @@ busty = 胸部丰满的（带物化色彩，用来说真人失礼）
 构词：意大利语 busto 上半身
 词族：
 boom and bust = 繁荣与萧条的循环
+Boom and bust in that trade runs to about eleven years.
+= 那一行繁荣与萧条的循环，大约十一年一轮。
 
 bustard
 核心：一类大型地栖鸟，腿长脖子长，在开阔草原上走着觅食，
@@ -23234,6 +23302,8 @@ oppose = 反对
 构词：buy out 全部买下 + 名词化
 词族：
 takeover = 收购、接管
+The takeover kept the name and changed everything behind it.
+= 那次收购留下了名字，背后的一切都换了。
 
 buzz
 核心：底层是蜜蜂那种连续的嗡嗡声。从这里长出几支：

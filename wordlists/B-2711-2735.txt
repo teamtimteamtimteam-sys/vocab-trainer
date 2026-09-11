@@ -384,6 +384,8 @@ color-blind = 色盲的（美式拼法）
 词族：
 blindly = 盲目地
 blindness = 失明；盲目
+Blindness in one eye kept him out of the army and in the choir.
+= 一只眼失明，让他没能参军，留在了唱诗班。
 
 blind date
 核心：跟事先没见过面的人约会，多由朋友或平台牵线。名字里的

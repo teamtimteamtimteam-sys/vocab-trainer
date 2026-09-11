@@ -13,6 +13,8 @@ boom = 发出低沉的鸣声
 breeding = 繁殖的
 词族：
 heron = 鹭（同科，体形更大更显眼）
+A heron stands in that shallow for an hour without moving.
+= 一只鹭在那片浅水里站一个钟头，一动不动。
 
 bitterness
 核心：名词，两支。一是味觉上的苦味；二是心里的怨恨——事情过去了
@@ -206,6 +208,8 @@ convoluted = 弯弯绕绕的
 构词：bizarre 离奇的 + -ly
 词族：
 bizarreness = 离奇
+The bizarreness of the story is why nine people repeated it.
+= 那个故事离奇到这个地步，才有九个人转述它。
 
 blab
 核心：口语，指把该保密的事说出去。它的重点不在"多话"而在"漏嘴"——
@@ -395,6 +399,8 @@ A black velvet tastes better than it sounds and works faster.
 blacken = 使变黑；抹黑
 blackness = 黑；漆黑
 blackly = 阴沉地
+He smiled blackly at the news and said it served them right.
+= 听到那消息他阴沉地笑了笑，说他们活该。
 副词 blackly：副词，跟着 black 的比喻那一路走：说人看是"恶狠狠地"， 说话说笑是"阴沉地、黑色幽默地"。它不用来说颜色——形容东西黑 不说 blackly。
 ㊲ He stared blackly at the door and did not answer the knock.
 = 他恶狠狠地盯着门，敲门也不应。

@@ -30,6 +30,8 @@ screen = 筛查
 构词：blood 血 + transfusion 输注
 词族：
 transfuse = 输血
+They transfused four units and she was home by the weekend.
+= 他们输了四个单位的血，周末她就回了家。
 
 blood type
 核心：按红细胞表面的抗原把血分成的类别，最常用的是 ABO 系统的

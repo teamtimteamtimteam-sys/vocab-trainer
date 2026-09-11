@@ -477,3 +477,5 @@ backcombing = 倒梳
 构词：法语 bouffer 鼓起
 词族：
 beehive = 蜂窝头（bouffant 的一种）
+A beehive took an hour to build and a week to take down.
+= 一个蜂窝头做起来要一个钟头，拆要一个星期。

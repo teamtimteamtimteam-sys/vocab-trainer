@@ -360,6 +360,8 @@ bitcoin
 ③ Bitcoin runs on a blockchain that every participant keeps a copy of.
 = 比特币跑在区块链上，每个参与者都存着一份账本。
 blockchain = 区块链
+A blockchain records everything and forgets nothing, which is the difficulty.
+= 区块链什么都记，什么都不忘，难处正在这儿。
 ④ Bitcoin has no central issuer, so nobody can print more of it to cover a crisis.
 = 比特币没有中央发行方，谁也不能多印一些来救急。
 这是它跟法定货币最根本的分别。
@@ -600,6 +602,8 @@ bitter lemon = 苦柠檬汽水（英式软饮）
 构词：与 bite 同源，本义是"咬舌头的味道"
 词族：
 bitterly = 苦苦地；激烈地
+They argued bitterly about a fence and shared a taxi home.
+= 他们为一道围栏激烈争吵，回家却合坐一辆出租车。
 bitterness = 苦味；怨恨
 副词 bitterly：副词，跟着 bitter 的几支走：说哭说抱怨是"伤心地、恨恨地"， 说争说反对是"激烈地"，说天气是"刺骨地"。它还有一个高频用法是 修饰失望——bitterly disappointed 几乎成了固定搭配。
 ⑪ She wept bitterly for an hour and then washed her face and left.
