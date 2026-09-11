@@ -149,6 +149,8 @@ appear = 问世
 = 它看来是坏了，而且看来坏了有一阵子了。
 appear to be = 看起来是
 appear to do = 看来是、好像
+They appear to have agreed and nothing has been signed.
+= 他们看来是谈妥了，却什么也没签。
 ⑤ It appears that he lied about something nobody had asked him.
 = 看来他就一件没人问过的事撒了谎。
 it appears that = 看来
@@ -502,6 +504,8 @@ gadget 是新奇小玩意。英式还有个固定说法 fire appliance，
 = 他们把家用电器和厨房电器分在两家店卖。
 household appliance = 家用电器
 kitchen appliance = 厨房电器
+Every kitchen appliance in that flat is older than the tenant.
+= 那套公寓里每件厨房电器都比租客年纪大。
 appliance = 家电器具（洗衣机、冰箱）
 device = 装置（小型、常带电子）
 gadget = 小玩意（新奇小巧）

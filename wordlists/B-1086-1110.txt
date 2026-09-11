@@ -167,6 +167,8 @@ answer
 = 请接一下电话，我进门起它就一直在响。
 answer the phone = 接电话
 answer the door = 应门
+Nobody answered the door and the parcel went back to the depot.
+= 没人应门，包裹退回了仓库。
 铃响是叫你，接起来就是回应。
 ④ There's no easy answer and everybody in the room has one anyway.
 = 这没有简单的答案，可屋里人人都有一个。

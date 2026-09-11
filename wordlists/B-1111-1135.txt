@@ -375,11 +375,17 @@ anti-tank = 反坦克的
 = 他被指反犹，一周之内就辞了职。
 anti-Semitism = 反犹主义
 anti-Semite = 反犹者
+The letter was signed by an anti-Semite and printed without comment.
+= 那封信署名者是个反犹者，报纸不加评论就登了。
 anti-Semitic = 反犹的
+Anti-Semitic graffiti appeared on the wall twice in one month.
+= 那面墙上一个月里出现了两次反犹涂鸦。
 ⑭ Anti-vax posts spread online faster than anyone could correct them.
 = 反疫苗的帖子在网上传得比更正快得多。
 anti-vax = 反疫苗的
 anti-vaxxer = 反疫苗的人
+One anti-vaxxer in the class kept nine families arguing all term.
+= 班上一个反疫苗的家长，让九户人家吵了一学期。
 ⑮ The clinic faced anti-choice protests every Saturday for a year.
 = 那家诊所整整一年每个周六都遭到反堕胎抗议。
 anti-choice = 反对堕胎权的（这个说法本身带立场）
@@ -397,6 +403,8 @@ anticipatory = 预期性的、先行的
 = 反教权法把教会持有了几百年的土地剥夺了。
 anticlerical = 反教权的
 anticlericalism = 反教权主义
+Anticlericalism in that country emptied the seminaries in one generation.
+= 那个国家的反教权风潮，一代人之内就把神学院清空了。
 ⑲ The strata fold into an anticline that is visible from the road.
 = 那些岩层褶皱成一个从公路上就看得见的背斜。
 anticline = 背斜（岩层向上拱的褶皱）

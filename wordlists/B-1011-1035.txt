@@ -127,6 +127,8 @@ anesthesia = 麻醉（状态或学科）
 = 麻醉医师同时盯着三块屏幕上她的生命体征。
 anesthesiologist = 麻醉医师（美式）
 anesthetist = 麻醉师
+The anesthetist talks to you for a minute and you remember nothing after.
+= 麻醉师跟你说一分钟话，之后你什么都不记得。
 ⑥ They anesthetized the patient at eight and had him awake by noon.
 = 他们八点给患者施了麻醉，中午前就让他醒了过来。
 anesthetize = 施麻醉

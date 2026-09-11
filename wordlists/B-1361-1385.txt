@@ -21,8 +21,14 @@ archive
 = 他在国家档案馆工作，整天在档案里翻查。
 national archive = 国家档案馆
 search the archives = 查档
+She searched the archives for a week and found one line that mattered.
+= 她查了一周档案，找到关键的一行。
 archivist = 档案管理员
+The archivist knows which boxes are mislabelled and has told nobody.
+= 档案管理员知道哪些箱子贴错了标签，谁也没告诉。
 archival = 档案的
+Archival paper costs four times as much and lasts a hundred years.
+= 档案纸贵四倍，能存一百年。
 ② The emails were archived and nobody can now find any of them.
 = 邮件都归了档，如今一封也找不到。
 
@@ -221,12 +227,18 @@ arena
 = 他五十岁踏入政坛，五十四岁退出国际舞台。
 political arena = 政治舞台
 arena of competition = 竞争场域
+That market is an arena of competition with four players and one winner.
+= 那个市场是个竞争场域，四家在拼，赢家只有一个。
 international arena = 国际舞台
+On the international arena the country punches above its population.
+= 在国际舞台上，那个国家的分量超过它的人口。
 比喻义带对抗性，不是中性的"领域"。
 ③ The band played arena tours and lost money on every one of them.
 = 乐队跑大型场馆巡演，每一场都亏钱。
 arena tour = 大型场馆巡演
 arena rock = 场馆摇滚（为大场地写的重型摇滚）
+Arena rock needs a chorus that works from two hundred metres away.
+= 场馆摇滚要的是两百米外也听得出的副歌。
 ④ Bulls are led into the arena to a crowd that has been drinking since noon.
 = 公牛被牵进斗牛场，观众从中午就开始喝酒了。
 斗牛场也叫 arena，保留了最古的用法。
@@ -396,11 +408,15 @@ argue against = 反对
 = 她说服他留了下来，他从此一直感激她。
 argue somebody into doing = 说服某人去做
 argue into doing = 说服去做
+They argued him into staying another year and regretted it by spring.
+= 他们说服他又留了一年，到春天就后悔了。
 这一族的落点是说服，宾语是被说的人。
 ⑦ They argued her out of resigning and gave her nothing she had asked for.
 = 他们劝住了她不要辞职，她要的东西一样也没给。
 argue somebody out of doing = 劝阻某人别做
 argue out of doing = 劝阻别做
+Nobody could argue her out of selling and she was right.
+= 谁也劝不住她卖掉，事实证明她对了。
 跟 into 正好相反，一个促成一个拦下。
 ⑧ The evidence argues in favour of caution and against doing nothing at all.
 = 证据支持谨慎行事，也反对什么都不做。
