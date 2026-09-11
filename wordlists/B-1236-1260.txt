@@ -315,6 +315,8 @@ acute appendicitis = 急性阑尾炎
 词族：
 appendix = 阑尾
 appendectomy = 阑尾切除术
+An appendectomy at sea is in the log and in every retelling since.
+= 海上那次阑尾切除记在航海日志里，此后每次讲起都提。
 构词：appendic- 阑尾 + -itis 炎症
 同类：arthritis 关节炎、bronchitis 支气管炎
 

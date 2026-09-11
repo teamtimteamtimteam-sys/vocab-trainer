@@ -304,6 +304,8 @@ valve amplifier = 电子管功放（英式）
 词族：
 amplify = 放大
 amplification = 放大
+The amplification was set for a hall twice that size.
+= 扩音是按两倍大的厅调的。
 
 amplify
 核心：三条线：把声音"放大"、把内容"充实展开"、把影响"加剧"。
@@ -322,6 +324,8 @@ amplify rumours = 放大谣言
 词族：
 amplifier = 放大器、功放
 amplification = 放大
+Amplification of one rumour did more damage than the rumour itself.
+= 把一则谣言放大出去，害处比谣言本身还大。
 近义对照：
 amplify 放大（音量、影响）
 magnify 放大（视觉尺寸）
@@ -394,6 +398,8 @@ prosthetics = 假肢
 词族：
 amputate = 截肢
 amputation = 截肢手术
+The amputation took forty minutes and the rehabilitation took two years.
+= 截肢手术四十分钟，康复用了两年。
 构词：amputate + -ee 受动者
 同类：employee、trainee、addressee
 
@@ -429,6 +435,8 @@ amuse oneself = 自娱自乐
 词族：
 amusement = 消遣、愉悦
 amusement park = 游乐园
+The amusement park closes in October and the gulls move in.
+= 那个游乐园十月关园，海鸥就搬了进来。
 ④ The chef sent out an amuse-bouche that was better than either course.
 = 主厨送来一道开胃小点，比两道正菜都好吃。
 amuse-bouche = 开胃小点（法餐，餐前赠送）

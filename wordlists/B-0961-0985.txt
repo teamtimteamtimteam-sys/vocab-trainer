@@ -230,7 +230,11 @@ local anaesthetic = 局麻
 wear off = 药效消退
 词族：
 anaesthetist = 麻醉师（英式）
+The anaesthetist counted backwards with her and got to seven.
+= 麻醉师陪她倒着数数，数到七。
 anesthesiologist = 麻醉师（美式）
+An anesthesiologist earns more than the surgeon in some hospitals.
+= 在有些医院，麻醉师挣得比外科医生还多。
 注意英美拼写：
 anaesthetic = 麻醉剂（英式拼法）
 anesthetic = 麻醉剂（美式拼法）
@@ -324,6 +328,8 @@ analogous to = 类似于
 词族：
 analogy = 类比
 analogously = 类似地
+The two systems fail analogously and nobody had noticed until Friday.
+= 那两套系统出故障的方式相似，到周五才有人留意到。
 注意发音：/əˈnæləɡəs/，
 重音在第二音节，g 发 /ɡ/。
 近义对照：

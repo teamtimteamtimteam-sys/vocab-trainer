@@ -272,6 +272,8 @@ temporary amnesia = 暂时性失忆
 collective amnesia = 集体遗忘
 词族：
 amnesiac = 失忆者
+An amnesiac in that film remembers everything except the one useful thing.
+= 那部片子里的失忆者什么都记得，偏偏忘了最有用的那件。
 注意别混：
 amnesia = 失忆
 amnesty = 大赦
@@ -343,6 +345,8 @@ amoeba = 变形虫（英式拼法）
 ameba = 变形虫（美式拼法）
 词族：
 amoebic = 变形虫的
+An amoebic infection takes three weeks to name and one tablet to treat.
+= 阿米巴感染要三个星期才定得下名，吃一片药就治了。
 
 amoebic dysentery
 核心：指"阿米巴痢疾"——溶组织内阿米巴侵入大肠壁引起的感染，

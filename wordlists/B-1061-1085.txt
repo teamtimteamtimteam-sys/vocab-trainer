@@ -112,6 +112,8 @@ in the margin = 在页边
 词族：
 annotate = 加注释
 annotated = 有注释的
+An annotated copy sold for more than the first edition beside it.
+= 一本有注释的旧书，卖得比旁边的初版还贵。
 近义对照：
 annotation = 注释（说明性）
 footnote = 脚注（页底）
@@ -184,6 +186,8 @@ be annoyed about = 因某事恼火
 词族：
 annoyance = 恼怒
 annoyingly = 恼人地
+The tap drips annoyingly and only when the house is quiet.
+= 那个水龙头滴得恼人，偏偏只在屋里安静时滴。
 程度：
 annoyed 恼火 < angry 生气 < furious 暴怒
 
@@ -253,6 +257,8 @@ annual income = 年收入
 词族：
 an annual event = 一年一度的活动
 annually = 每年
+The bridge is painted annually and looks worse every second year.
+= 那座桥每年刷一次漆，隔一年就更难看一回。
 近义对照：
 annual 每年 / monthly 每月
 biannual 一年两次 / biennial 两年一次
@@ -437,6 +443,8 @@ be anointed as = 被指定为
 注意发音：/əˈnɔɪnt/
 词族：
 anointment = 涂油礼
+The anointment takes four seconds and the rest takes three hours.
+= 涂油礼四秒钟，其余的要三个钟头。
 近义对照：
 anoint = 膏立、指定（有仪式感）
 appoint = 任命（行政）

@@ -218,6 +218,8 @@ arch
 词族：
 archway = 拱门
 arched = 拱形的
+An arched doorway survived the fire and the flat roof did not.
+= 一道拱形门洞熬过了那场火，平屋顶没熬过。
 ③ He has high arches and cannot wear anything sold in a normal shop.
 = 他足弓很高，普通店里卖的鞋一双也穿不了。
 脚底那道弧，形状一样，所以同一个词。

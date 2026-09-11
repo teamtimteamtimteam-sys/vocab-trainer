@@ -268,6 +268,8 @@ study kinship = 研究亲属关系
 词族：
 anthropology = 人类学
 anthropological = 人类学的
+An anthropological account of that market fills a book and one footnote.
+= 关于那个集市的人类学记述，写满一本书外加一条脚注。
 构词：anthropo- 人 + -logist 研究者
 
 anthropology

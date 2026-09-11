@@ -97,6 +97,8 @@ asymptomatic carrier = 无症状携带者
 symptomatic = 有症状的
 词族：
 symptom = 症状
+The first symptom appeared nine days after everybody had stopped worrying.
+= 头一个症状出现时，所有人都已经不担心了。
 
 asynchronous
 核心：底层是"不同步的"——两件事不必踩着同一个节拍进行。
@@ -490,3 +492,5 @@ atmosphere = 标准大气压（物理单位）
 词族：
 atmospheric = 大气的；有情调的
 atmospherics = 电波干扰噪声；氛围效果
+Atmospherics on that frequency made the broadcast useless after dark.
+= 那个频率上的电波干扰，一入夜就让广播没法听。

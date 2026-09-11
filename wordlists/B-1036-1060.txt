@@ -140,7 +140,11 @@ animal crackers = 动物饼干
 animal husbandry = 畜牧业、畜牧学
 词族：
 animal rights = 动物权利
+Animal rights split that village and united it against the developer.
+= 动物权利把那个村子分成两派，又让它一致对抗开发商。
 wildlife = 野生动物（总称）
+Wildlife came back to the quarry within four years of its closing.
+= 采石场关停后四年，野生动物就回来了。
 
 animate
 核心：动词是"赋予生气、制作动画"，形容词是"有生命的、活跃的"。
@@ -199,6 +203,8 @@ with animation = 生动地
 词族：
 animate = 制作动画
 animator = 动画师
+An animator draws a walk nine times and keeps the fourth.
+= 动画师把一段走路画九遍，留下第四遍。
 近义对照：
 animation 动画（总称）
 cartoon 卡通（多指短片或漫画）

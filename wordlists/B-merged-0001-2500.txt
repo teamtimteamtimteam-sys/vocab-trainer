@@ -18207,6 +18207,8 @@ temporary amnesia = 暂时性失忆
 collective amnesia = 集体遗忘
 词族：
 amnesiac = 失忆者
+An amnesiac in that film remembers everything except the one useful thing.
+= 那部片子里的失忆者什么都记得，偏偏忘了最有用的那件。
 注意别混：
 amnesia = 失忆
 amnesty = 大赦
@@ -18278,6 +18280,8 @@ amoeba = 变形虫（英式拼法）
 ameba = 变形虫（美式拼法）
 词族：
 amoebic = 变形虫的
+An amoebic infection takes three weeks to name and one tablet to treat.
+= 阿米巴感染要三个星期才定得下名，吃一片药就治了。
 
 amoebic dysentery
 核心：指"阿米巴痢疾"——溶组织内阿米巴侵入大肠壁引起的感染，
@@ -18672,6 +18676,8 @@ valve amplifier = 电子管功放（英式）
 词族：
 amplify = 放大
 amplification = 放大
+The amplification was set for a hall twice that size.
+= 扩音是按两倍大的厅调的。
 
 amplify
 核心：三条线：把声音"放大"、把内容"充实展开"、把影响"加剧"。
@@ -18690,6 +18696,8 @@ amplify rumours = 放大谣言
 词族：
 amplifier = 放大器、功放
 amplification = 放大
+Amplification of one rumour did more damage than the rumour itself.
+= 把一则谣言放大出去，害处比谣言本身还大。
 近义对照：
 amplify 放大（音量、影响）
 magnify 放大（视觉尺寸）
@@ -18762,6 +18770,8 @@ prosthetics = 假肢
 词族：
 amputate = 截肢
 amputation = 截肢手术
+The amputation took forty minutes and the rehabilitation took two years.
+= 截肢手术四十分钟，康复用了两年。
 构词：amputate + -ee 受动者
 同类：employee、trainee、addressee
 
@@ -18797,6 +18807,8 @@ amuse oneself = 自娱自乐
 词族：
 amusement = 消遣、愉悦
 amusement park = 游乐园
+The amusement park closes in October and the gulls move in.
+= 那个游乐园十月关园，海鸥就搬了进来。
 ④ The chef sent out an amuse-bouche that was better than either course.
 = 主厨送来一道开胃小点，比两道正菜都好吃。
 amuse-bouche = 开胃小点（法餐，餐前赠送）
@@ -19050,7 +19062,11 @@ local anaesthetic = 局麻
 wear off = 药效消退
 词族：
 anaesthetist = 麻醉师（英式）
+The anaesthetist counted backwards with her and got to seven.
+= 麻醉师陪她倒着数数，数到七。
 anesthesiologist = 麻醉师（美式）
+An anesthesiologist earns more than the surgeon in some hospitals.
+= 在有些医院，麻醉师挣得比外科医生还多。
 注意英美拼写：
 anaesthetic = 麻醉剂（英式拼法）
 anesthetic = 麻醉剂（美式拼法）
@@ -19144,6 +19160,8 @@ analogous to = 类似于
 词族：
 analogy = 类比
 analogously = 类似地
+The two systems fail analogously and nobody had noticed until Friday.
+= 那两套系统出故障的方式相似，到周五才有人留意到。
 注意发音：/əˈnæləɡəs/，
 重音在第二音节，g 发 /ɡ/。
 近义对照：
@@ -19472,6 +19490,8 @@ the anatomy of = 对…的剖析
 词族：
 anatomical = 解剖学的
 anatomist = 解剖学家
+An anatomist drew that hand in 1543 and nobody has bettered it.
+= 一位解剖学家在一五四三年画下那只手，至今没人画得更好。
 注意发音：/əˈnætəmi/，
 重音在第二音节。
 
@@ -20088,6 +20108,8 @@ annoyance 恼火 < anger 愤怒 < rage 暴怒
 词族：
 angry = 生气的
 angrily = 生气地
+He shut the drawer angrily and apologised to the drawer afterwards.
+= 他生气地把抽屉关上，事后又对着抽屉道了歉。
 
 angina
 核心：医学词，指心绞痛——冠状动脉供血不足引起的胸痛。
@@ -20159,7 +20181,11 @@ angle grinder = 角磨机
 词族：
 angular = 有棱角的；瘦削的
 rectangle = 长方形
+A rectangle of light crosses that floor between four and five.
+= 四点到五点之间，一块长方形的光斜过那片地板。
 triangle = 三角形
+A triangle of unused land between three roads grew nine kinds of weed.
+= 三条路之间一块三角形的闲地，长了九种野草。
 ⑨ Cut it at a right angle or nothing will sit flush against the wall.
 = 要切成直角，否则什么都贴不平墙。
 a right angle = 直角
@@ -20497,7 +20523,11 @@ animal crackers = 动物饼干
 animal husbandry = 畜牧业、畜牧学
 词族：
 animal rights = 动物权利
+Animal rights split that village and united it against the developer.
+= 动物权利把那个村子分成两派，又让它一致对抗开发商。
 wildlife = 野生动物（总称）
+Wildlife came back to the quarry within four years of its closing.
+= 采石场关停后四年，野生动物就回来了。
 
 animate
 核心：动词是"赋予生气、制作动画"，形容词是"有生命的、活跃的"。
@@ -20556,6 +20586,8 @@ with animation = 生动地
 词族：
 animate = 制作动画
 animator = 动画师
+An animator draws a walk nine times and keeps the fourth.
+= 动画师把一段走路画九遍，留下第四遍。
 近义对照：
 animation 动画（总称）
 cartoon 卡通（多指短片或漫画）
@@ -20952,6 +20984,8 @@ in the margin = 在页边
 词族：
 annotate = 加注释
 annotated = 有注释的
+An annotated copy sold for more than the first edition beside it.
+= 一本有注释的旧书，卖得比旁边的初版还贵。
 近义对照：
 annotation = 注释（说明性）
 footnote = 脚注（页底）
@@ -21024,6 +21058,8 @@ be annoyed about = 因某事恼火
 词族：
 annoyance = 恼怒
 annoyingly = 恼人地
+The tap drips annoyingly and only when the house is quiet.
+= 那个水龙头滴得恼人，偏偏只在屋里安静时滴。
 程度：
 annoyed 恼火 < angry 生气 < furious 暴怒
 
@@ -21093,6 +21129,8 @@ annual income = 年收入
 词族：
 an annual event = 一年一度的活动
 annually = 每年
+The bridge is painted annually and looks worse every second year.
+= 那座桥每年刷一次漆，隔一年就更难看一回。
 近义对照：
 annual 每年 / monthly 每月
 biannual 一年两次 / biennial 两年一次
@@ -21277,6 +21315,8 @@ be anointed as = 被指定为
 注意发音：/əˈnɔɪnt/
 词族：
 anointment = 涂油礼
+The anointment takes four seconds and the rest takes three hours.
+= 涂油礼四秒钟，其余的要三个钟头。
 近义对照：
 anoint = 膏立、指定（有仪式感）
 appoint = 任命（行政）
@@ -21370,6 +21410,8 @@ online anonymity = 网络匿名
 词族：
 anonymous = 匿名的
 anonymously = 匿名地
+She gave anonymously for nine years and the plaque names her anyway.
+= 她匿名捐了九年，牌子上还是刻了她的名字。
 
 anonymous
 核心：指"匿名的、不具名的"，可以说人、信件、捐赠、举报。
@@ -21388,6 +21430,8 @@ anonymous tip-off = 匿名举报
 词族：
 anonymity = 匿名状态
 anonymously = 匿名地
+The report was published anonymously and everybody guessed the same person.
+= 那份报告是匿名发表的，大家猜的却是同一个人。
 注意发音：/əˈnɒnɪməs/
 ⑤ Anonymous FTP lets anyone download files without so much as a name.
 = 匿名文件传输让任何人不用留名就能下载文件。
@@ -21576,6 +21620,8 @@ anthill = 蚁丘
 have ants in one's pants = 焦躁难安
 词族：
 ant colony = 蚁群
+An ant colony under that path has outlived two owners of the house.
+= 小路底下那个蚁群，比那栋房子的两任主人活得都久。
 群体昆虫：
 ant = 蚂蚁 / bee = 蜜蜂
 termite = 白蚁 / wasp = 黄蜂
@@ -21759,6 +21805,8 @@ grammatical antecedent = 语法先行词
 antecedent to = 先于
 词族：
 antecede = 先于（罕用）
+Nothing in the record antecedes the fire by more than a week.
+= 记录里没有任何一件事，比那场火早出一个星期以上。
 
 antechamber
 核心：底层是"正屋前面那间"——通往主厅之前的小房间，等候、
@@ -22083,6 +22131,8 @@ study kinship = 研究亲属关系
 词族：
 anthropology = 人类学
 anthropological = 人类学的
+An anthropological account of that market fills a book and one footnote.
+= 关于那个集市的人类学记述，写满一本书外加一条脚注。
 构词：anthropo- 人 + -logist 研究者
 
 anthropology
@@ -24450,6 +24500,8 @@ acute appendicitis = 急性阑尾炎
 词族：
 appendix = 阑尾
 appendectomy = 阑尾切除术
+An appendectomy at sea is in the log and in every retelling since.
+= 海上那次阑尾切除记在航海日志里，此后每次讲起都提。
 构词：appendic- 阑尾 + -itis 炎症
 同类：arthritis 关节炎、bronchitis 支气管炎
 
@@ -26028,6 +26080,8 @@ Arbitrary detention is raised at every session and settled at none.
 arbitrarily = 专断地；任意地
 词族：
 arbitrariness = 任意性
+The arbitrariness of the cut-off date decided nine people's year.
+= 那个截止日期定得多随意，就决定了九个人的一年。
 arbitrate = 仲裁
 
 arbitrate
@@ -26285,6 +26339,8 @@ arch
 词族：
 archway = 拱门
 arched = 拱形的
+An arched doorway survived the fire and the flat roof did not.
+= 一道拱形门洞熬过了那场火，平屋顶没熬过。
 ③ He has high arches and cannot wear anything sold in a normal shop.
 = 他足弓很高，普通店里卖的鞋一双也穿不了。
 脚底那道弧，形状一样，所以同一个词。
@@ -28066,6 +28122,8 @@ arrest = 遏止
 make an arrest = 实施逮捕
 词族：
 arresting = 引人注目的
+An arresting photograph on page one and nothing behind it inside.
+= 头版一张引人注目的照片，里页却什么内容都没有。
 ⑤ A passer-by made a citizen's arrest and held him until the police came.
 = 一名路人实施了公民扭送，扣住他等到警察来。
 a citizen's arrest = 公民扭送、私人拘捕
@@ -28336,6 +28394,8 @@ charged with arson = 被控纵火罪
 suspect arson = 怀疑纵火
 词族：
 arsonist = 纵火犯
+The arsonist turned out to live opposite and to have called it in.
+= 纵火犯原来就住在对面，报警的也是他。
 注意区别：
 arson = 蓄意纵火（罪名）
 fire = 火灾（中性）
@@ -28486,6 +28546,8 @@ the carotid artery = 颈动脉
 注意复数：artery → arteries
 词族：
 arterial = 动脉的
+Arterial blood is brighter and stops a great deal less politely.
+= 动脉血颜色更鲜，止起来也远没那么客气。
 血管对照：
 artery = 动脉（离心）
 vein = 静脉（回心）
@@ -29817,6 +29879,8 @@ brain damage = 脑损伤
 词族：
 asphyxiate = 使窒息
 asphyxiation = 窒息（过程）
+Asphyxiation from smoke happens before the fire reaches the room.
+= 烟造成的窒息，比火烧到屋里还早。
 注意发音：/æsˈfɪksiə/
 
 asphyxiate
@@ -31483,6 +31547,8 @@ asymptomatic carrier = 无症状携带者
 symptomatic = 有症状的
 词族：
 symptom = 症状
+The first symptom appeared nine days after everybody had stopped worrying.
+= 头一个症状出现时，所有人都已经不担心了。
 
 asynchronous
 核心：底层是"不同步的"——两件事不必踩着同一个节拍进行。
@@ -31876,6 +31942,8 @@ atmosphere = 标准大气压（物理单位）
 词族：
 atmospheric = 大气的；有情调的
 atmospherics = 电波干扰噪声；氛围效果
+Atmospherics on that frequency made the broadcast useless after dark.
+= 那个频率上的电波干扰，一入夜就让广播没法听。
 
 atmospheric
 核心：两条线：科学上的"大气的"，
@@ -32525,6 +32593,8 @@ attention to detail = 对细节的讲究
 词族：
 attentive = 专注的；殷勤周到的
 inattention = 不专心
+A moment of inattention at that junction costs somebody a wing mirror.
+= 在那个路口一瞬间不专心，就有人要赔一只后视镜。
 
 attentive
 核心：两条线：注意力"专注的"，

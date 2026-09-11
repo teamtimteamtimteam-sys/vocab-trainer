@@ -314,6 +314,8 @@ brain damage = 脑损伤
 词族：
 asphyxiate = 使窒息
 asphyxiation = 窒息（过程）
+Asphyxiation from smoke happens before the fire reaches the room.
+= 烟造成的窒息，比火烧到屋里还早。
 注意发音：/æsˈfɪksiə/
 
 asphyxiate

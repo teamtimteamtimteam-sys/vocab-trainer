@@ -93,6 +93,8 @@ arrest = 遏止
 make an arrest = 实施逮捕
 词族：
 arresting = 引人注目的
+An arresting photograph on page one and nothing behind it inside.
+= 头版一张引人注目的照片，里页却什么内容都没有。
 ⑤ A passer-by made a citizen's arrest and held him until the police came.
 = 一名路人实施了公民扭送，扣住他等到警察来。
 a citizen's arrest = 公民扭送、私人拘捕
@@ -363,6 +365,8 @@ charged with arson = 被控纵火罪
 suspect arson = 怀疑纵火
 词族：
 arsonist = 纵火犯
+The arsonist turned out to live opposite and to have called it in.
+= 纵火犯原来就住在对面，报警的也是他。
 注意区别：
 arson = 蓄意纵火（罪名）
 fire = 火灾（中性）
@@ -513,6 +517,8 @@ the carotid artery = 颈动脉
 注意复数：artery → arteries
 词族：
 arterial = 动脉的
+Arterial blood is brighter and stops a great deal less politely.
+= 动脉血颜色更鲜，止起来也远没那么客气。
 血管对照：
 artery = 动脉（离心）
 vein = 静脉（回心）

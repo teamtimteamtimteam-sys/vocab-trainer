@@ -45,6 +45,8 @@ online anonymity = 网络匿名
 词族：
 anonymous = 匿名的
 anonymously = 匿名地
+She gave anonymously for nine years and the plaque names her anyway.
+= 她匿名捐了九年，牌子上还是刻了她的名字。
 
 anonymous
 核心：指"匿名的、不具名的"，可以说人、信件、捐赠、举报。
@@ -63,6 +65,8 @@ anonymous tip-off = 匿名举报
 词族：
 anonymity = 匿名状态
 anonymously = 匿名地
+The report was published anonymously and everybody guessed the same person.
+= 那份报告是匿名发表的，大家猜的却是同一个人。
 注意发音：/əˈnɒnɪməs/
 ⑤ Anonymous FTP lets anyone download files without so much as a name.
 = 匿名文件传输让任何人不用留名就能下载文件。
@@ -251,6 +255,8 @@ anthill = 蚁丘
 have ants in one's pants = 焦躁难安
 词族：
 ant colony = 蚁群
+An ant colony under that path has outlived two owners of the house.
+= 小路底下那个蚁群，比那栋房子的两任主人活得都久。
 群体昆虫：
 ant = 蚂蚁 / bee = 蜜蜂
 termite = 白蚁 / wasp = 黄蜂
@@ -434,6 +440,8 @@ grammatical antecedent = 语法先行词
 antecedent to = 先于
 词族：
 antecede = 先于（罕用）
+Nothing in the record antecedes the fire by more than a week.
+= 记录里没有任何一件事，比那场火早出一个星期以上。
 
 antechamber
 核心：底层是"正屋前面那间"——通往主厅之前的小房间，等候、

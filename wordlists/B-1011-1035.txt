@@ -288,6 +288,8 @@ annoyance 恼火 < anger 愤怒 < rage 暴怒
 词族：
 angry = 生气的
 angrily = 生气地
+He shut the drawer angrily and apologised to the drawer afterwards.
+= 他生气地把抽屉关上，事后又对着抽屉道了歉。
 
 angina
 核心：医学词，指心绞痛——冠状动脉供血不足引起的胸痛。
@@ -359,7 +361,11 @@ angle grinder = 角磨机
 词族：
 angular = 有棱角的；瘦削的
 rectangle = 长方形
+A rectangle of light crosses that floor between four and five.
+= 四点到五点之间，一块长方形的光斜过那片地板。
 triangle = 三角形
+A triangle of unused land between three roads grew nine kinds of weed.
+= 三条路之间一块三角形的闲地，长了九种野草。
 ⑨ Cut it at a right angle or nothing will sit flush against the wall.
 = 要切成直角，否则什么都贴不平墙。
 a right angle = 直角
