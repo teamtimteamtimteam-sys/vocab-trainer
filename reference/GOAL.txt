@@ -10,19 +10,20 @@
 B 10000
 
 ═══ 现状（2026-09-12） ═══
-B 词表 10123 条，词典序 a → geyser。A 表 3002 条。
+B 词表 10124 条，词典序 a → geyser。A 表 3002 条。
   a–f 段都在 97% 以上，余下的基本是待推迟（内容词在后面的字母段）。
   **f 段 2478/2501（99%）**：待新写清零，381 条多词条目已并入词根条。
-  **g 段在写**：ga 段 205/300，**ge 段 173/261（66%）**。
-  2026-09-12 写了三批 63 条：geddit–geophysical / geophysicist–gerund /
-  gerontocracy–geyser。**下一批从 ghastly 起**（gherkin / ghetto / ghost 一带），
-  但 ge- 段还欠两笔，先清掉更划算：
-    · **待并入 49 条**，扎堆在少数几个词根条上 —— general 13 条、
-      gender 6 条、gene 3 条、gear 4 条、get 一族（about/above/ahead/away/
-      back/behind）6 条。写进词根条里并补例句，不单列。
-    · **待推迟 42 条几乎全是 get 的短语动词**（get across / get along /
-      get by / get over…）。`get` 这个词头本身还没写 —— 它是整段最大的一条，
-      动笔前要先把那 42 条短语的清单补进 audit-idioms.py 的 CHECK。
+  **g 段在写**：ga 段 205/300，**ge 段 258/260（99%）—— 只剩 2 条待推迟**
+  （genetically modified、genito-urinary，内容词在后面的字母段）。
+  2026-09-12 这一轮：三批新词 63 条（geddit–geyser）＋ 核心词 get 一条
+  52 个义项 ＋ 并入 41 条。**下一批从 ghastly 起**（gherkin / ghetto / ghost 一带）。
+  写 get 记下的两件事：
+    · 那 43 条短语动词与习语动笔前就补进了 audit-idioms 的 CHECK，
+      写完一跑就知道有没有漏 —— 比写完回头找省一轮。
+    · **audit-padding 的强变化表漏了 get→got**（表里有 beget→begot），
+      而 same_word 对三字母词头会关掉编辑距离兜底，33 条用 got 的例句
+      被判「例句里没有词」。补表时顺手把 forget 也加了。
+      **往后写 go / do / say 这类三字母强变化动词，先查这张表。**
   G 段大写词头 51 条已登记进 proper-nouns-keep（进段前该做的四件事之一）。
   这一轮剔了两条进 exclude.txt：geese（goose 的不规则复数，已补进
   inflections.txt）、georgia-o-keeffe（人名的连字符残片）。
