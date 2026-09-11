@@ -24,6 +24,8 @@ asylum
 = 他们申请政治庇护，等了四年才有结果。
 seek asylum = 申请庇护
 political asylum = 政治庇护
+Political asylum was granted after nine years and two appeals.
+= 政治庇护在九年、两次上诉之后才获批。
 ② He was granted asylum on the third attempt and never appealed again.
 = 他第三次申请才获准庇护，此后再没上诉过。
 grant asylum = 给予庇护

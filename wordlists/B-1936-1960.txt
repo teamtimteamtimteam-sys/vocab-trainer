@@ -339,6 +339,8 @@ bactericide = 杀菌剂
 = 她学的是细菌学，整天盯着培养皿看。
 bacteriologist = 细菌学家
 bacteriology = 细菌学
+Bacteriology explained the outbreak four weeks after it had ended.
+= 细菌学在疫情结束四周后解释清了它的起因。
 ⑥ They ran a bacteriological analysis and found nothing anybody expected.
 = 他们做了细菌学分析，结果谁也没料到。
 bacteriological = 细菌学的

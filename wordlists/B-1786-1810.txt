@@ -323,6 +323,8 @@ average = 一般的、不出众的
 = 这在本区高于平均水平，在全郡则低于平均水平。
 above average = 高于平均
 below average = 低于平均
+The rainfall was below average and the reservoir emptied anyway.
+= 降雨低于平均，水库还是空了。
 ⑥ Sales averaged 100 a day until the shop next door reopened.
 = 销量平均每天一百件，直到隔壁店重新开张。
 动词：平均达到某个数。

@@ -504,6 +504,8 @@ beachcomber = 海滩拾荒者
 = 他们打沙滩排球，打到沙子钻进了所有东西里。
 beach volleyball = 沙滩排球
 beach ball = 沙滩球
+A beach ball crossed four rows and nobody sent it back.
+= 一个沙滩球飞过四排座位，没人把它送回来。
 ⑧ The shop sells beachwear all year and does most of its trade in December.
 = 这家店全年卖沙滩服装，生意大半在十二月。
 beachwear = 沙滩装

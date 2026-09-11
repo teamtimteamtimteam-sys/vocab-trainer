@@ -51,6 +51,8 @@ attend to 才是"处理"。
 = 每位与会者都拿到一个印着别人名字的胸牌。
 attendee = 与会者
 attender = 出席者（英式，也指常来的人）
+A regular attender at that clinic knows the staff better than the doctors do.
+= 那家诊所的常客，比医生还熟悉那里的员工。
 
 attendance
 核心：从 attend 来，两条线正好是"这件事"和"这些人"。一条指出席、
@@ -247,6 +249,8 @@ attitude
 = 你对这事怎么看？受影响的人还没人问过。
 attitude to = 对某事的态度
 attitude towards = 对某事的态度
+Her attitude towards deadlines changed the year she started teaching.
+= 她开始教书那年，对截止日期的态度变了。
 注意：不说 attitude for。
 ② She has a positive attitude and works with people who have none.
 = 她心态积极，共事的人却毫无积极可言。

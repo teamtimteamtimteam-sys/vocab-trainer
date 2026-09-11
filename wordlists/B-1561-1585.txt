@@ -92,6 +92,8 @@ aid 援助（正式，多指物资）
 = 协助死亡在那里仍属违法，边境另一侧却是合法的。
 assisted dying = 协助死亡
 assisted suicide = 协助自杀
+Assisted suicide is legal there and the paperwork takes months.
+= 协助自杀在那里合法，手续要办好几个月。
 ⑥ She moved into assisted living and kept her own front door key.
 = 她搬进了协助式养老公寓，还留着自家的门钥匙。
 assisted living = 协助生活（半自理养老模式）
@@ -390,6 +392,8 @@ insure 的关键差别：assure 对人，ensure 对事，insure 是投保。
 = 我向你保证它是安全的，我敢把手放上去说这话。
 assure someone that = 向某人保证
 assure somebody that = 向某人保证
+He assured her that the roof was sound and it rained in April.
+= 他向她保证屋顶没问题，四月就漏了雨。
 ② She assured me of her support and voted the other way on Thursday.
 = 她向我保证会支持，周四却投了反对票。
 assure someone of = 向某人保证…

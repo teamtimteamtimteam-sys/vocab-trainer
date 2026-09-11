@@ -25,6 +25,8 @@ ask = 邀请
 = 他们开价两百镑，大约是它价值的三倍。
 ask = 要价
 asking price = 要价、开价
+The asking price dropped twice and the house sold at the third.
+= 要价降了两回，第三次房子才卖掉。
 钱这一支：向买家提出的请求就是价钱。
 ⑦ If you ask me, it won't work, and it will take a year to fail.
 = 要我说这行不通，而且得花一年才失败得了。
@@ -189,6 +191,8 @@ various aspects of。
 = 方案的方方面面都要考虑，包括那些没人算过成本的部分。
 every aspect of = …的各个方面
 various aspects = 多个方面
+Various aspects of the plan were discussed and none of them decided.
+= 那个计划的多个方面都谈了，一个都没定。
 ② The room has a southern aspect and is still cold for most of the year.
 = 这房间朝南，一年里大半时间还是冷。
 这里：

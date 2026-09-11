@@ -41,6 +41,14 @@ def scan(segs, want=(1, 2)):
                         done = (nxt and not nxt.startswith('=') and ' = ' not in nxt
                                 and not re.search(r'[一-鿿]', nxt) and nxt[0] not in NUMS)
                         if done: continue
+                        lhs, rhs = [x.strip() for x in l.strip().split(' = ', 1)]
+                        # 这些等式不是搭配，补例句没有意义：
+                        #   · 左边没有拉丁字母（「生化用语 = 亲和力」这种标注）
+                        #   · 左边是整句（「The drug affects you. = 药影响你。」对照句）
+                        #   · 右边在讲拼法／变形／同义，本质上仍是对照
+                        if not re.search(r'[A-Za-z]', lhs): continue
+                        if lhs[-1:] in '.?!': continue
+                        if re.search(r'(拼法|异拼|同义|过去式|过去分词|复数|缩写|另一种写法)', rhs): continue
                         tier = 2 if (lab and '词族' in lab) else 1
                         if tier in want: need.append(l.strip())
                 else: lab = None

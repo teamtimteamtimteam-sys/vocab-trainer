@@ -205,6 +205,8 @@ baggage
 = 到三号转盘取行李，行李条随手拿着。
 baggage carousel = 行李转盘
 baggage reclaim = 行李提取处（英式）
+Baggage reclaim took longer than the flight from Dublin.
+= 行李提取花的时间，比从都柏林飞过来还久。
 ② The overnight train still has a baggage car at the rear.
 = 那趟夜车尾部还挂着一节行李车厢。
 baggage car = 行李车厢（美式）

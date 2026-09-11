@@ -38,6 +38,8 @@ ass-kicking = 猛烈的、了不起的（美式粗俗）
 = 没人瞧得起马屁精，开到第二次会大家就看得出来。
 ass-licker = 马屁精（美式粗俗）
 ass-licking = 拍马屁的
+The speech was ass-licking and the person it flattered had left.
+= 那篇讲话全是拍马屁，被捧的人早走了。
 
 assagai
 核心：assegai 的另一种拼法，指的是同一样东西——南部非洲那种
@@ -233,7 +235,11 @@ assemble
 = 他们组装了家具，零件每周都在这里装配。
 及物 = 组装
 assembly = 集会；装配
+The school assembly runs twenty minutes and nobody remembers a word.
+= 学校晨会开二十分钟，没人记得住一个字。
 assembly line = 流水线
+The assembly line stops for four minutes every hour by design.
+= 那条流水线按设计每小时停四分钟。
 ③ The assembler turns the code into machine instructions and hides nothing.
 = 汇编器把代码变成机器指令，什么也不隐藏。
 assembler = 汇编器；装配工
@@ -265,6 +271,8 @@ assembly room = 会议厅、集会厅
 = 一位州众议员提出了这项法案，另一位女议员把它否了。
 assemblyman = 州议会众议员（美式）
 assemblywoman = 女性州议会众议员
+The assemblywoman answers letters herself and says so in every one.
+= 那位女议员亲自回信，每封信里都要说一句。
 
 assent
 核心：正式用语，指"同意、批准"。名词动词同形，

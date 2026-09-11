@@ -58,6 +58,8 @@ element = 元素
 = 原子论把物质归结为不可分的单元，比任何实验室都古老。
 atomism = 原子论
 atomistic = 原子论的、拆解成小单元的
+An atomistic view of the team explains the wages and not the results.
+= 把球队拆成一个个人来看，能解释工资，解释不了成绩。
 ⑤ The nozzle atomizes the liquid into a mist fine enough to hang in the air.
 = 喷嘴把液体雾化成能悬在空中的细雾。
 atomize = 雾化；使粉碎
@@ -89,7 +91,11 @@ atomic clock = 原子钟
 = 碳的原子序数是六，形成的化合物比其他元素加起来还多。
 atomic number = 原子序数
 atomic mass = 原子质量
+The atomic mass is printed under the symbol and rounded on that chart.
+= 原子质量印在符号下面，那张表上取了近似值。
 atomic weight = 原子量
+Atomic weight and atomic mass are used loosely and mean different things.
+= 原子量和原子质量常被混着用，其实不是一回事。
 ⑥ The atomic spectrum identifies the element from millions of miles away.
 = 原子光谱能在几百万英里外辨认出元素。
 atomic spectrum = 原子光谱
@@ -437,6 +443,8 @@ attain the age of = 年满某岁（法律文书用语）
 ④ The goal is attainable within a year if nobody changes the specification.
 = 只要没人改需求，这个目标一年内可以达到。
 attainable = 可达到的
+The target looked attainable in January and absurd by June.
+= 那个指标一月看着能达到，到六月就荒唐了。
 ⑤ Educational attainment has risen and wages have not moved at all.
 = 教育水平提高了，工资却纹丝不动。
 attainment = 达到的水平；成就

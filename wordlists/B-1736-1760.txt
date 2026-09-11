@@ -12,6 +12,8 @@ authenticate a user = 验证用户身份
 authentication = 认证
 现代搭配：
 two-factor authentication = 双因素认证
+Two-factor authentication locked him out of his own account for a week.
+= 双因素认证把他自己锁在账户外面一周。
 近义对照：
 authenticate = 验明真伪（有权威判定）
 verify = 核实（查证属实）

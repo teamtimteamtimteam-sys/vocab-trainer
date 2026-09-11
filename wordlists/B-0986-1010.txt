@@ -245,6 +245,8 @@ The anchorwoman reads the news and rewrites half of it first.
 = 一位隐修士在那间小室里住了四十年，从没出来过。
 anchorite = 隐修士（避世苦修的人）
 anchoress = 女隐修士
+An anchoress lived in that wall for thirty years and left one letter.
+= 一位女隐修士在那面墙里住了三十年，只留下一封信。
 
 anchorage
 核心：两条线：船只可以下锚的"锚地"，
