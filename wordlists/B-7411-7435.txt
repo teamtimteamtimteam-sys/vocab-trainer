@@ -4,6 +4,8 @@ encouraging
 = 头一批结果令人鼓舞，样本是九个人。
 encouraging = 令人鼓舞的
 encouraging signs = 令人鼓舞的迹象
+There are encouraging signs on the burnt hillside after only one wet winter.
+= 只过了一个多雨的冬天，那面烧过的山坡上就有了令人鼓舞的迹象。
 ② He was encouraging about the draft and specific about the deadline.
 = 他对初稿说了鼓励的话，对截止日期倒说得很具体。
 be encouraging about something = 对某事说得让人有信心
@@ -61,6 +63,8 @@ encrypt
 = 文件离开这栋楼之前先加密，密码谁也别告诉。
 encrypt a file = 给文件加密
 be encrypted = 被加密
+The backup is encrypted and the key is written inside the same drawer.
+= 备份是加密的，钥匙却写在同一个抽屉里。
 ② Messages are encrypted end to end and the metadata is not.
 = 消息是端到端加密的，元数据不是。
 encrypt something = 对某物加密
@@ -71,6 +75,8 @@ encryption
 = 加密保护的是内容，至于是谁发的，它什么也没藏住。
 encryption = 加密
 end-to-end encryption = 端到端加密
+End-to-end encryption means the company cannot read what it is storing.
+= 端到端加密意味着公司读不了自己存着的东西。
 ② Strong encryption is now the default and was once a licence application.
 = 强加密如今是默认设置，从前还得申请许可证。
 strong encryption = 强加密
@@ -102,6 +108,8 @@ encyclical
 = 那份通谕写了四十页，上新闻的是其中一句话。
 an encyclical = 教宗通谕
 issue an encyclical = 发布通谕
+The pope issued an encyclical about the climate and the farmers read it first.
+= 教宗就气候发布了一份通谕，最先读它的是农民。
 ② An encyclical is named after its first two words in Latin.
 = 通谕的名字取自它拉丁文的头两个词。
 a papal encyclical = 教宗通谕
@@ -112,6 +120,8 @@ encyclopedia
 = 那套百科全书占了整整一层书架，饭桌上的争论全靠它了结。
 an encyclopedia = 百科全书
 an online encyclopedia = 网络百科
+An online encyclopedia can be corrected at midnight and wrong again by morning.
+= 网络百科半夜能改对，到早上又可能错了。
 ② She read the encyclopedia in order and stopped somewhere in the letter M.
 = 她按顺序读那套百科全书，读到 M 部的某处停下了。
 look something up in an encyclopedia = 在百科全书里查某物

@@ -160,10 +160,14 @@ enable
 = 那笔资助让她写完了一本搁浅了四年的书。
 enable somebody to do something = 使某人能够做某事
 enable something = 使某事成为可能
+A second bridge would enable deliveries at any tide, not just at noon.
+= 再修一座桥，什么潮位都能送货，不用非等中午。
 ② Enable two-factor login and the same password stops being a disaster.
 = 启用两步登录，同一个密码就不再是灾难。
 enable a feature = 启用某项功能
 be enabled by default = 默认开启
+Location sharing is enabled by default and most people never look.
+= 位置共享默认开启，多数人从来不去看。
 
 enablement
 核心：（正式）使能、赋能：让人或系统具备做某事的条件；
@@ -172,6 +176,8 @@ enablement
 = 那份报告谈的是赋能，预算列的却是设备。
 enablement = 使能、赋能
 digital enablement = 数字赋能
+The council spent a year on digital enablement and closed two libraries.
+= 议会在数字赋能上花了一年，关掉了两座图书馆。
 ② A patent fails on enablement if nobody can build it from the text.
 = 要是照着说明书谁也做不出来，专利就因公开不充分而不成立。
 enablement = （专利的）可实施性
@@ -184,6 +190,8 @@ enabler
 = 廉价机票是那个促成条件，行业其余部分跟着就来了。
 an enabler = 促成者、提供条件的一环
 a key enabler = 关键的促成条件
+Cheap storage was the key enabler and nobody planned for what got stored.
+= 便宜的存储是关键的促成条件，至于存了些什么，谁也没预先想过。
 ② A family enabler pays the debts and calls it kindness.
 = 家里那个纵容者替人还债，还管这叫善意。
 an enabler = 纵容者（贬义）
@@ -196,7 +204,11 @@ enact
 = 那部法律三月颁布，次年一月才开始执行。
 enact a law = 制定法律
 enact legislation = 通过立法
+Parliament enacted legislation on Friday and the guidance followed eighteen months later.
+= 议会周五通过了立法，配套指引一年半后才出。
 be enacted = 被颁布
+The ban was enacted in one state and copied by four others.
+= 那项禁令在一个州颁布，另有四个州照抄。
 ② The children enact the whole story every year with the same two props.
 = 孩子们年年把整个故事演一遍，道具还是那两件。
 enact a scene = 把一个场面演出来
@@ -211,6 +223,8 @@ the enactment of something = 某法的制定
 = 每年八月都要重演一次，同一块地被踩得稀烂。
 an enactment = 演出、重现
 a re-enactment = 重演、复现
+A re-enactment of the landing draws two thousand people and one real veteran.
+= 登陆重演吸引来两千人，其中只有一位真正的老兵。
 构词：enact 加 -ment
 
 enamel
@@ -221,6 +235,8 @@ enamel
 = 那口锅的搪瓷缺了三块，照样不漏水。
 enamel = 搪瓷、珐琅
 an enamel mug = 搪瓷缸子
+An enamel mug burns your lip and keeps tea hot on a hill.
+= 搪瓷缸子烫嘴，可在山上能让茶不凉。
 ② Enamel does not grow back and the dentist says so twice a year.
 = 牙釉质不会再长，牙医一年要说两遍。
 tooth enamel = 牙釉质
@@ -235,6 +251,8 @@ enamelled
 = 车站外那块珐琅招牌，比两家铁路公司都长命。
 an enamelled sign = 珐琅招牌
 enamelled jewellery = 珐琅首饰
+She makes enamelled jewellery in a kiln that fits on a kitchen table.
+= 她用一台放得下厨房桌的小窑做珐琅首饰。
 ② She cooks everything in one enamelled pot and washes it by hand.
 = 她什么都用一口搪瓷锅做，而且坚持手洗。
 an enamelled pot = 搪瓷锅
@@ -266,6 +284,8 @@ encamp
 = 那个团在河边扎营，一待十一个星期。
 encamp = 扎营
 encamp by a river = 在河边扎营
+They encamped by a river that rose two feet overnight.
+= 他们在河边扎营，那条河一夜之间涨了两英尺。
 ② Protesters were encamped outside the gate from March until the frost.
 = 抗议者从三月起就在大门外驻扎，一直到上冻。
 be encamped somewhere = 在某处扎营
@@ -276,6 +296,8 @@ encampment
 = 那片营地有学校、有厨房，就是一点排水都没有。
 an encampment = 营地
 set up an encampment = 搭起营地
+Families set up an encampment on the sports field the night of the quake.
+= 地震当晚，各家人在运动场上搭起了营地。
 ② A winter encampment needs firewood more than it needs canvas.
 = 冬天的营地缺的是柴火，不是帆布。
 a winter encampment = 冬季营地
@@ -288,6 +310,8 @@ encapsulate
 = 一句话概括了争了两天的一场辩论。
 encapsulate something = 把某事浓缩概括
 encapsulate an idea = 把一个想法一句说尽
+A good title encapsulates an idea the book takes three hundred pages to prove.
+= 好标题一句就把一个想法说尽，那本书要三百页才证得出来。
 ② The sensor is encapsulated in resin and survives being dropped.
 = 那个传感器封在树脂里，摔了也没事。
 be encapsulated in something = 被封装在某物里
@@ -301,6 +325,8 @@ an encapsulation of something = 对某事的概括
 = 封装挡住了潮气，也让维修变得不可能。
 encapsulation = 封装
 resin encapsulation = 树脂封装
+Resin encapsulation adds two pounds to the cost and ten years to the life.
+= 树脂封装让成本多两镑，让寿命多十年。
 构词：encapsulate 加 -ion
 
 encase
@@ -312,6 +338,8 @@ be encased in something = 被封在某物里
 = 她把整个模型罩进玻璃里，罩子另外收费。
 encase something = 把某物包起来
 be encased in concrete = 被封在混凝土里
+The old reactor is encased in concrete and monitored from a hut nearby.
+= 那座旧反应堆被封在混凝土里，由旁边一间小屋监测着。
 
 encash
 核心：（英式，正式）兑现：把支票、票据换成现金。名词 encashment。
@@ -319,6 +347,8 @@ encash
 = 那张代金券在任何一家网点都能兑现，只是得赶在四点前。
 encash a voucher = 兑现代金券
 encash a cheque = 兑现支票
+He could not encash the cheque without a second form of identity.
+= 没有第二种身份证件，他兑现不了那张支票。
 ② The cheque was encashed the same morning it arrived.
 = 支票到的当天上午就兑成了现金。
 be encashed = 被兑现

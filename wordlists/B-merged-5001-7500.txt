@@ -43760,10 +43760,14 @@ enable
 = 那笔资助让她写完了一本搁浅了四年的书。
 enable somebody to do something = 使某人能够做某事
 enable something = 使某事成为可能
+A second bridge would enable deliveries at any tide, not just at noon.
+= 再修一座桥，什么潮位都能送货，不用非等中午。
 ② Enable two-factor login and the same password stops being a disaster.
 = 启用两步登录，同一个密码就不再是灾难。
 enable a feature = 启用某项功能
 be enabled by default = 默认开启
+Location sharing is enabled by default and most people never look.
+= 位置共享默认开启，多数人从来不去看。
 
 enablement
 核心：（正式）使能、赋能：让人或系统具备做某事的条件；
@@ -43772,6 +43776,8 @@ enablement
 = 那份报告谈的是赋能，预算列的却是设备。
 enablement = 使能、赋能
 digital enablement = 数字赋能
+The council spent a year on digital enablement and closed two libraries.
+= 议会在数字赋能上花了一年，关掉了两座图书馆。
 ② A patent fails on enablement if nobody can build it from the text.
 = 要是照着说明书谁也做不出来，专利就因公开不充分而不成立。
 enablement = （专利的）可实施性
@@ -43784,6 +43790,8 @@ enabler
 = 廉价机票是那个促成条件，行业其余部分跟着就来了。
 an enabler = 促成者、提供条件的一环
 a key enabler = 关键的促成条件
+Cheap storage was the key enabler and nobody planned for what got stored.
+= 便宜的存储是关键的促成条件，至于存了些什么，谁也没预先想过。
 ② A family enabler pays the debts and calls it kindness.
 = 家里那个纵容者替人还债，还管这叫善意。
 an enabler = 纵容者（贬义）
@@ -43796,7 +43804,11 @@ enact
 = 那部法律三月颁布，次年一月才开始执行。
 enact a law = 制定法律
 enact legislation = 通过立法
+Parliament enacted legislation on Friday and the guidance followed eighteen months later.
+= 议会周五通过了立法，配套指引一年半后才出。
 be enacted = 被颁布
+The ban was enacted in one state and copied by four others.
+= 那项禁令在一个州颁布，另有四个州照抄。
 ② The children enact the whole story every year with the same two props.
 = 孩子们年年把整个故事演一遍，道具还是那两件。
 enact a scene = 把一个场面演出来
@@ -43811,6 +43823,8 @@ the enactment of something = 某法的制定
 = 每年八月都要重演一次，同一块地被踩得稀烂。
 an enactment = 演出、重现
 a re-enactment = 重演、复现
+A re-enactment of the landing draws two thousand people and one real veteran.
+= 登陆重演吸引来两千人，其中只有一位真正的老兵。
 构词：enact 加 -ment
 
 enamel
@@ -43821,6 +43835,8 @@ enamel
 = 那口锅的搪瓷缺了三块，照样不漏水。
 enamel = 搪瓷、珐琅
 an enamel mug = 搪瓷缸子
+An enamel mug burns your lip and keeps tea hot on a hill.
+= 搪瓷缸子烫嘴，可在山上能让茶不凉。
 ② Enamel does not grow back and the dentist says so twice a year.
 = 牙釉质不会再长，牙医一年要说两遍。
 tooth enamel = 牙釉质
@@ -43835,6 +43851,8 @@ enamelled
 = 车站外那块珐琅招牌，比两家铁路公司都长命。
 an enamelled sign = 珐琅招牌
 enamelled jewellery = 珐琅首饰
+She makes enamelled jewellery in a kiln that fits on a kitchen table.
+= 她用一台放得下厨房桌的小窑做珐琅首饰。
 ② She cooks everything in one enamelled pot and washes it by hand.
 = 她什么都用一口搪瓷锅做，而且坚持手洗。
 an enamelled pot = 搪瓷锅
@@ -43866,6 +43884,8 @@ encamp
 = 那个团在河边扎营，一待十一个星期。
 encamp = 扎营
 encamp by a river = 在河边扎营
+They encamped by a river that rose two feet overnight.
+= 他们在河边扎营，那条河一夜之间涨了两英尺。
 ② Protesters were encamped outside the gate from March until the frost.
 = 抗议者从三月起就在大门外驻扎，一直到上冻。
 be encamped somewhere = 在某处扎营
@@ -43876,6 +43896,8 @@ encampment
 = 那片营地有学校、有厨房，就是一点排水都没有。
 an encampment = 营地
 set up an encampment = 搭起营地
+Families set up an encampment on the sports field the night of the quake.
+= 地震当晚，各家人在运动场上搭起了营地。
 ② A winter encampment needs firewood more than it needs canvas.
 = 冬天的营地缺的是柴火，不是帆布。
 a winter encampment = 冬季营地
@@ -43888,6 +43910,8 @@ encapsulate
 = 一句话概括了争了两天的一场辩论。
 encapsulate something = 把某事浓缩概括
 encapsulate an idea = 把一个想法一句说尽
+A good title encapsulates an idea the book takes three hundred pages to prove.
+= 好标题一句就把一个想法说尽，那本书要三百页才证得出来。
 ② The sensor is encapsulated in resin and survives being dropped.
 = 那个传感器封在树脂里，摔了也没事。
 be encapsulated in something = 被封装在某物里
@@ -43901,6 +43925,8 @@ an encapsulation of something = 对某事的概括
 = 封装挡住了潮气，也让维修变得不可能。
 encapsulation = 封装
 resin encapsulation = 树脂封装
+Resin encapsulation adds two pounds to the cost and ten years to the life.
+= 树脂封装让成本多两镑，让寿命多十年。
 构词：encapsulate 加 -ion
 
 encase
@@ -43912,6 +43938,8 @@ be encased in something = 被封在某物里
 = 她把整个模型罩进玻璃里，罩子另外收费。
 encase something = 把某物包起来
 be encased in concrete = 被封在混凝土里
+The old reactor is encased in concrete and monitored from a hut nearby.
+= 那座旧反应堆被封在混凝土里，由旁边一间小屋监测着。
 
 encash
 核心：（英式，正式）兑现：把支票、票据换成现金。名词 encashment。
@@ -43919,6 +43947,8 @@ encash
 = 那张代金券在任何一家网点都能兑现，只是得赶在四点前。
 encash a voucher = 兑现代金券
 encash a cheque = 兑现支票
+He could not encash the cheque without a second form of identity.
+= 没有第二种身份证件，他兑现不了那张支票。
 ② The cheque was encashed the same morning it arrived.
 = 支票到的当天上午就兑成了现金。
 be encashed = 被兑现
@@ -43929,6 +43959,8 @@ encashment
 = 兑现要两个工作日，其中一天总是周一。
 encashment = 兑现
 early encashment = 提前兑现
+Early encashment costs three months of interest and the letter says so twice.
+= 提前兑现要扣三个月利息，那封信里说了两遍。
 ② The form asks for an encashment date that nobody can predict.
 = 那张表要填一个谁也说不准的兑现日期。
 an encashment date = 兑现日期
@@ -43940,6 +43972,8 @@ encephalitis
 = 第二天排除了脑炎，烧却没退。
 encephalitis = 脑炎
 a case of encephalitis = 一例脑炎
+One case of encephalitis closed the ward for a fortnight.
+= 一例脑炎让那个病区关了两个星期。
 ② Viral encephalitis is rare and the vaccine for one kind is not.
 = 病毒性脑炎少见，可其中一种的疫苗并不少见。
 viral encephalitis = 病毒性脑炎
@@ -43953,6 +43987,8 @@ hepatic encephalopathy = 肝性脑病
 = 血氨降下来之后，那种脑病也就转回去了。
 encephalopathy = 脑病
 chronic encephalopathy = 慢性脑病
+Chronic encephalopathy in old boxers was described long before anyone measured it.
+= 老拳手的慢性脑病，早在有人测量之前就被描述过了。
 
 enchant
 核心：两支。一是使着迷、把人迷住：多用被动 be enchanted by；
@@ -43961,6 +43997,8 @@ enchant
 = 那地方六月让人着迷，二月让人失望。
 enchant somebody = 使某人着迷
 be enchanted by something = 被某物迷住
+Audiences were enchanted by a puppet that cost eleven pounds to make.
+= 观众被一个造价十一镑的木偶迷住了。
 ② A wood enchanted by somebody's spell is the setting of half those stories.
 = 一片被谁施了魔法的林子，是那类故事里一半的背景。
 enchant something = 对某物施魔法
@@ -43975,6 +44013,8 @@ be enchanted by something = 被某物迷住
 = 一面施了魔法的镜子有问必答，却从不好心地说谎。
 an enchanted forest = 施了魔法的森林
 an enchanted castle = 被施了魔法的城堡
+Every enchanted castle in those books has one window nobody may open.
+= 那些书里每座被施了魔法的城堡，都有一扇谁也不许开的窗。
 
 enchanter
 核心：术士、施魔法的人：童话与奇幻里会法术的男性，女性叫 enchantress。可数。
@@ -43982,6 +44022,8 @@ enchanter
 = 那个故事里的术士，输给了一个问题问得更好的农夫。
 an enchanter = 术士、施魔法者
 a court enchanter = 宫廷术士
+A court enchanter kept his job by predicting only what had already happened.
+= 宫廷术士保住饭碗的办法，是只预言已经发生过的事。
 ② Two enchanters share one apprentice and neither of them trusts him.
 = 两位术士共用一个学徒，两个人都不信任他。
 enchanters = 术士（复数）
@@ -43992,6 +44034,8 @@ enchanting
 = 那个园子有三个星期迷人得很，之后就平平常常。
 enchanting = 迷人的
 an enchanting place = 迷人的地方
+It is an enchanting place in photographs and a long walk in rain.
+= 那是个照片上迷人的地方，真要去得在雨里走很远。
 ② She has an enchanting way of asking for things nobody wants to give.
 = 她开口讨东西的样子招人喜欢，哪怕那东西谁也不想给。
 an enchanting smile = 迷人的笑容
@@ -44011,6 +44055,8 @@ enchantment
 = 那股着迷的劲儿维持到巡演第二周。
 enchantment = 着迷、陶醉
 under an enchantment = 中了魔法
+The whole household sleeps under an enchantment and the kitchen fire stays lit.
+= 整户人家都中了魔法睡着，厨房的火却一直烧着。
 ② The enchantment breaks at midnight and the coach is a pumpkin again.
 = 魔法在午夜解除，马车又变回南瓜。
 break an enchantment = 解除魔法
@@ -44022,6 +44068,8 @@ enchantress
 = 那部歌剧里的女术士拿到最好的音乐，和最惨的结局。
 an enchantress = 女术士
 the enchantress in a tale = 故事里的女巫
+The enchantress in a tale is usually the only character with a plan.
+= 故事里的女巫，往往是唯一一个有计划的角色。
 ② Older reviews call her an enchantress and say nothing about the technique.
 = 旧评论管她叫「迷人的妖姬」，对技巧只字不提。
 an enchantress = （旧式）迷人的女子
@@ -44033,6 +44081,8 @@ enchilada
 = 恩奇拉达端上来烫得没法吃，凉下去又太快。
 an enchilada = 恩奇拉达
 chicken enchiladas = 鸡肉恩奇拉达
+She orders chicken enchiladas everywhere and compares them out loud.
+= 她到哪儿都点鸡肉恩奇拉达，还要大声比较一番。
 ② He wanted the whole enchilada and settled for a share of it.
 = 他本想整个儿拿下，最后只要了一部分。
 the whole enchilada = 整个儿、全套（美式口语）
@@ -44043,6 +44093,8 @@ encircle
 = 一道矮墙绕着教堂墓地，什么也挡不住。
 encircle something = 环绕某物
 be encircled by something = 被某物围住
+The lake is encircled by hills that keep the fog in until noon.
+= 那片湖被群山围住，雾一直到中午才散得开。
 ② The town was encircled for two winters and never quite fell.
 = 那座城被围了两个冬天，始终没有失守。
 encircle a town = 包围一座城
@@ -44094,6 +44146,8 @@ enclose
 = 随信附上收据副本，原件留在标着「六月」的那个文件夹里。
 enclose something = 随信附上某物
 please find enclosed = 随函附上（正式信函用语）
+Please find enclosed the forms you asked for in March.
+= 随函附上您三月要的那些表格。
 ② They enclosed the common in 1798 and the old footpaths across it survived.
 = 他们在一七九八年圈了那片公地，横穿其上的老小路倒是留了下来。
 enclose land = 圈占土地
@@ -44134,6 +44188,8 @@ encode
 = 那条消息编了两道码，有钥匙的人都读得了。
 encode a message = 给消息编码
 be encoded = 被编码
+The date is encoded in the first four digits of every serial number.
+= 日期编码在每个序列号的前四位里。
 ② That gene encodes a protein the liver makes all day.
 = 那个基因编码一种肝脏整天都在造的蛋白。
 encode a protein = 编码某种蛋白
@@ -44164,6 +44220,8 @@ encore
 = 返场那段，比下半场节目还长。
 an encore = 加演曲目
 play an encore = 加演一曲
+They played an encore they had not rehearsed and it went better.
+= 他们加演了一曲没排练过的，反倒弹得更好。
 ② The audience shouted for an encore and the pianist had already gone.
 = 观众喊着要返场，钢琴家已经走了。
 call for an encore = 要求返场
@@ -44175,6 +44233,8 @@ encounter
 = 头一周他们碰上两个问题，还给两个都起了名。
 encounter a problem = 遇到问题
 encounter opposition = 遭到反对
+The plan encountered opposition from the one household it would have helped.
+= 那个方案遭到反对，反对的正是它本会帮到的那户人家。
 ② The encounter lasted four minutes and both of them wrote about it later.
 = 那次相遇只有四分钟，两个人后来都写过它。
 an encounter = 一次相遇、交锋
@@ -44199,6 +44259,8 @@ encouragement
 = 一句在点上的鼓励，抵得上一个月的建议。
 a word of encouragement = 一句鼓励的话
 encouragement = 鼓励
+Children need encouragement more often than they need to be corrected.
+= 孩子需要鼓励的时候，比需要被纠正的时候多。
 ② She got no encouragement at home and every prize at school.
 = 她在家里得不到一点鼓励，在学校把奖拿了个遍。
 give somebody encouragement = 给某人以鼓励
@@ -44209,6 +44271,8 @@ encouraging
 = 头一批结果令人鼓舞，样本是九个人。
 encouraging = 令人鼓舞的
 encouraging signs = 令人鼓舞的迹象
+There are encouraging signs on the burnt hillside after only one wet winter.
+= 只过了一个多雨的冬天，那面烧过的山坡上就有了令人鼓舞的迹象。
 ② He was encouraging about the draft and specific about the deadline.
 = 他对初稿说了鼓励的话，对截止日期倒说得很具体。
 be encouraging about something = 对某事说得让人有信心
@@ -44266,6 +44330,8 @@ encrypt
 = 文件离开这栋楼之前先加密，密码谁也别告诉。
 encrypt a file = 给文件加密
 be encrypted = 被加密
+The backup is encrypted and the key is written inside the same drawer.
+= 备份是加密的，钥匙却写在同一个抽屉里。
 ② Messages are encrypted end to end and the metadata is not.
 = 消息是端到端加密的，元数据不是。
 encrypt something = 对某物加密
@@ -44276,6 +44342,8 @@ encryption
 = 加密保护的是内容，至于是谁发的，它什么也没藏住。
 encryption = 加密
 end-to-end encryption = 端到端加密
+End-to-end encryption means the company cannot read what it is storing.
+= 端到端加密意味着公司读不了自己存着的东西。
 ② Strong encryption is now the default and was once a licence application.
 = 强加密如今是默认设置，从前还得申请许可证。
 strong encryption = 强加密
@@ -44307,6 +44375,8 @@ encyclical
 = 那份通谕写了四十页，上新闻的是其中一句话。
 an encyclical = 教宗通谕
 issue an encyclical = 发布通谕
+The pope issued an encyclical about the climate and the farmers read it first.
+= 教宗就气候发布了一份通谕，最先读它的是农民。
 ② An encyclical is named after its first two words in Latin.
 = 通谕的名字取自它拉丁文的头两个词。
 a papal encyclical = 教宗通谕
@@ -44317,6 +44387,8 @@ encyclopedia
 = 那套百科全书占了整整一层书架，饭桌上的争论全靠它了结。
 an encyclopedia = 百科全书
 an online encyclopedia = 网络百科
+An online encyclopedia can be corrected at midnight and wrong again by morning.
+= 网络百科半夜能改对，到早上又可能错了。
 ② She read the encyclopedia in order and stopped somewhere in the letter M.
 = 她按顺序读那套百科全书，读到 M 部的某处停下了。
 look something up in an encyclopedia = 在百科全书里查某物
