@@ -53,7 +53,11 @@ fence
 = 那道花园篱笆朝东歪着，自打那场风暴起就这样。
 a garden fence = 花园篱笆
 build a fence = 立起一道围栏
+They built a fence down the middle and spoke again four years later.
+= 他们沿中线立起一道围栏，四年后才重新说话。
 climb over the fence = 翻过围栏
+Children climb over the fence for a ball and knock for a cat.
+= 孩子们为拣球就翻过围栏，为找猫才来敲门。
 ② They fenced off the corner where the well used to be.
 = 他们把从前有口井的那个角落围了起来。
 fence something off = 把某处围起来
@@ -70,6 +74,8 @@ a fence = 销赃者
 = 他们同一个星期里把果园围了起来，又把那口井隔开。
 fence in = 围起来
 fence off = 隔开、圈出
+The council fenced off the steps and forgot about them for a year.
+= 议会把那道台阶圈了起来，之后忘了一年。
 ⑦ A week of fence-mending followed one sentence said at the wrong moment.
 = 一句话说错了时候，换来一个星期的关系修补。
 fence-mending = 修补关系
@@ -263,6 +269,8 @@ a ferret = 雪貂
 = 她把那份人人都认定丢了的文件翻了出来。
 ferret something out = 挖出某物
 ferret about = 到处翻找
+He ferrets about in the shed whenever the conversation turns to money.
+= 一谈到钱，他就到棚屋里翻找东西。
 ③ She spent an afternoon ferreting about and did ferret out the receipt.
 = 她翻找了一下午，居然真把那张收据翻了出来。
 ferret out = 挖出、翻出
