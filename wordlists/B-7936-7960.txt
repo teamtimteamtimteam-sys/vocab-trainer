@@ -47,6 +47,8 @@ evict
 = 那家人十一月被赶了出去，又被安置在同一条街上。
 evict somebody = 驱逐某人
 be evicted from a place = 被从某处逐出
+They were evicted from the flat over four hundred pounds of arrears.
+= 他们因为欠了四百镑租金，被从那套房里赶了出去。
 ② Landlords cannot evict without a court order in that jurisdiction.
 = 在那个法域，房东没有法院命令不能赶人。
 evict a tenant = 驱逐房客
@@ -69,7 +71,11 @@ evidence
 = 证据单薄，结论倒写了四页。
 evidence = 证据
 a piece of evidence = 一项证据
+One piece of evidence survived the fire and it was a delivery note.
+= 火灾里只剩下一项证据，是一张送货单。
 evidence of something = 某事的证据
+Evidence of an older floor turned up when they lifted the tiles.
+= 他们掀起地砖时，出现了更早一层地面的证据。
 ② She gave evidence for two days and answered one question twice.
 = 她出庭作证两天，同一个问题答了两遍。
 give evidence = 出庭作证
@@ -83,6 +89,8 @@ evident
 = 头一分钟就看得出，那只话筒是坏的。
 it is evident that... = 显然…
 be evident = 明显的
+The damp was evident to everyone except the surveyor who missed it.
+= 那处受潮谁都看得出来，只有漏看了它的验房师没看出来。
 ② Her impatience is evident in the margins of every draft.
 = 她的不耐烦，在每一稿的页边上都看得出来。
 be evident in something = 在某处显露出来
@@ -112,6 +120,8 @@ evil
 = 恶行跟蠢行不是一回事，法庭得把两者分开。
 an evil act = 邪恶的行为
 evil = 邪恶的
+Children's books need an evil character and rarely explain where he came from.
+= 儿童书里总要有个邪恶的角色，却很少交代他从哪儿来。
 ② There is an evil smell under the stairs and nobody has looked.
 = 楼梯底下有股难闻至极的味道，没人去看过。
 an evil smell = 恶臭
@@ -168,6 +178,8 @@ evocative
 = 那块肥皂的气味最能勾起回忆，店里没人知道为什么。
 evocative = 令人回想起来的
 be evocative of something = 让人想起某事
+The tune is evocative of a programme that ended before she was born.
+= 那段曲子让人想起一个在她出生前就停播的节目。
 ② An evocative photograph beats an accurate caption every time.
 = 一张有感染力的照片，每回都赢过一句准确的说明。
 an evocative photograph = 令人身临其境的照片
@@ -187,6 +199,8 @@ evoke
 = 那张照片唤起一个夏天，他们三个记得的却各不相同。
 evoke a memory = 唤起记忆
 evoke a response = 引起反应
+The letter evoked a response from two people and silence from ninety.
+= 那封信引来两个人的回应，另外九十个没吭声。
 ② The proposal evoked more sympathy than support.
 = 那个提议引来的同情多过支持。
 evoke sympathy = 引起同情
@@ -198,6 +212,8 @@ evolution
 = 进化没有计划，可人们偏拿眼睛当计划的证据。
 evolution = 进化
 the theory of evolution = 进化论
+The theory of evolution was published late because the author dreaded the row.
+= 进化论发表得晚，因为作者怕那场争吵。
 ② The evolution of that shop from a stall took eleven years.
 = 那家店从一个摊位演变过来，用了十一年。
 the evolution of something = 某物的演变

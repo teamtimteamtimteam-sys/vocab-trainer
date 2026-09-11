@@ -4294,6 +4294,8 @@ a eucalyptus = 桉树
 = 桉树油清空一屋子人，比清鼻子还快。
 eucalyptus oil = 桉树油
 a eucalyptus grove = 桉树林
+A eucalyptus grove drops enough bark to keep one household in kindling.
+= 一片桉树林掉下的树皮，够一户人家当引火柴烧。
 
 Eucharist
 核心：（基督教）圣餐礼：分饼与酒纪念最后晚餐的仪式，多说 the Eucharist，
@@ -4325,6 +4327,8 @@ a eugenic argument = 优生学式的论证
 = 优生学的法律在那套「科学」被抛弃之后，还挂在法典上很久。
 eugenic laws = 优生学立法
 eugenic policies = 优生学政策
+Eugenic policies were written by people who never met anyone they sterilised.
+= 优生学政策的制定者，从没见过任何一个被他们绝育的人。
 
 eugenicist
 核心：优生学论者：主张按遗传标准控制生育的人。可数，多带批判色彩。
@@ -4335,6 +4339,8 @@ a eugenicist = 优生学论者
 = 优生学论者和遗传学家用同一批数据，划出的界线正相反。
 eugenicists = 优生学论者（复数）
 a leading eugenicist = 优生学的主要鼓吹者
+A leading eugenicist has a building named after him and a plaque explaining it.
+= 优生学的一位主要鼓吹者有一栋楼以他命名，旁边挂着一块解释的牌子。
 构词：eugenics 加 -ist
 
 eugenics
@@ -4347,6 +4353,8 @@ eugenics = 优生学
 = 那家博物馆把优生学的材料摆在一长段说明之后。
 the history of eugenics = 优生学的历史
 reject eugenics = 摒弃优生学
+The society rejected eugenics in 1947 and kept the same journal title.
+= 那个学会一九四七年摒弃了优生学，刊名却一直没改。
 
 eulogistic
 核心：（正式）颂扬的、溢美的：说文章或讲话把人夸得很足。
@@ -4357,6 +4365,8 @@ eulogistic = 颂扬的
 = 一段溢美的介绍，会把一个谦逊的讲者衬得可笑。
 a eulogistic tone = 颂扬的口吻
 a eulogistic account = 溢美的记述
+A eulogistic account of the founder hangs in the corridor beside the accounts.
+= 一份关于创办人的溢美记述挂在走廊上，旁边就是账目。
 
 eulogize
 核心：（正式）颂扬、称颂：公开赞美某人，尤指在悼念场合。英式也拼 eulogise。
@@ -4367,6 +4377,8 @@ eulogize somebody = 颂扬某人
 = 她不愿被人歌功颂德，还为此留了话。
 be eulogized = 受到颂扬
 eulogize the dead = 颂扬逝者
+Cultures that eulogize the dead in public tend to bury them quickly.
+= 公开颂扬逝者的文化，往往下葬得很快。
 
 eulogy
 核心：悼词、颂词：追悼会上称颂逝者的一段话，也泛指高度赞扬的文字。可数，复数 eulogies。
@@ -4374,10 +4386,14 @@ eulogy
 = 那篇悼词讲了四分钟，提到三件谁也不知道的事。
 a eulogy = 悼词、颂词
 deliver a eulogy = 致悼词
+She delivered a eulogy without notes and stopped once for a cough.
+= 她没拿稿子致悼词，只因咳嗽停了一次。
 ② Eulogies leave out whatever the family agreed to leave out.
 = 悼词里略去的，都是家属商量好要略去的。
 eulogies = 悼词（复数）
 write a eulogy = 写一篇悼词
+He wrote a eulogy for a man he had argued with every week.
+= 他给一个每周都跟自己争论的人写了悼词。
 
 eunuch
 核心：两支。一是宦官、太监：被阉割后在宫廷或后宫任职的男子；
@@ -4389,6 +4405,8 @@ a eunuch = 宦官
 = 没有预算，那个职位就是个有头衔的政治摆设。
 a political eunuch = 有名无实的角色
 the court eunuchs = 宫中的宦官
+The court eunuchs controlled who reached the emperor and charged for it.
+= 宫中的宦官掌管着谁能见到皇帝，还为此收钱。
 
 euphemism
 核心：委婉说法：拿柔和的词代替直白或刺耳的说法 ——
@@ -4397,10 +4415,14 @@ euphemism
 = 「缩编」是个委婉说法，被裁的人心里清楚。
 a euphemism = 委婉说法
 a euphemism for something = 某事的委婉说法
+Letting somebody go is a euphemism for something the accounts call a saving.
+= 「请人离开」是某件事的委婉说法，账目上管那叫节省。
 ② The report is a chain of euphemisms with one number in the middle.
 = 那份报告是一串委婉说法，中间夹着一个数字。
 euphemisms = 委婉说法（复数）
 use a euphemism = 用委婉的说法
+Doctors use a euphemism with families and the exact word with each other.
+= 医生对家属用委婉的说法，彼此之间用的是准确的词。
 
 euphemistic
 核心：委婉的、用词绕开的：说措辞把难听的事说得好听。副词 euphemistically。
@@ -4411,6 +4433,8 @@ a euphemistic label = 委婉的名目
 = 情况越糟，他们那套委婉措辞就越短。
 euphemistic language = 委婉的措辞
 a euphemistic term = 委婉的用语
+The forms use a euphemistic term and the staff use the real one.
+= 表格上用的是委婉的用语，工作人员之间用的是实在的说法。
 副词 euphemistically：委婉地：常见句式是 what is euphemistically called…， 说某事被冠了个好听的名目。
 ③ The room is euphemistically called a study and holds one chair.
 = 那间屋被委婉地称作书房，里头放得下一把椅子。
@@ -4429,6 +4453,8 @@ euphonious = 悦耳的
 = 一句音调优美的诗，大约一半的时候经得起翻译。
 a euphonious name = 好听的名字
 sound euphonious = 听着悦耳
+The bells sound euphonious from the churchyard and harsh from the tower.
+= 从教堂院子里听，钟声悦耳；站到钟楼上就刺耳了。
 
 euphonium
 核心：（乐器）上低音号：铜管乐队里音色浑厚的中低音号，比大号小。可数。
@@ -4439,6 +4465,8 @@ a euphonium = 上低音号
 = 她在一支在小礼拜堂排练的乐队里吹上低音号。
 play the euphonium = 吹上低音号
 a euphonium player = 上低音号手
+A euphonium player sits at the back and knows every part by heart.
+= 上低音号手坐在最后排，每个声部都背得出来。
 
 euphony
 核心：（正式）悦耳、音调和谐：声音听起来顺耳的那种性质，跟 cacophony 刺耳相对。不可数。
@@ -4449,6 +4477,8 @@ euphony = 悦耳、音调和谐
 = 那首诗是照顺耳来排的，论理排在后面。
 for euphony = 为求音韵和谐
 the euphony of a line = 一行诗的音韵之美
+Translators lose the euphony of a line and keep the argument intact.
+= 译者丢掉一行诗的音韵之美，把论理原封保住。
 
 euphoria
 核心：狂喜、飘飘然：短暂而强烈的兴奋与快意，
@@ -4460,6 +4490,8 @@ euphoria = 狂喜、欣快
 = 头一单成交带来的那股飘飘然，比那单本身还值。
 a wave of euphoria = 一阵狂喜
 drug-induced euphoria = 药物带来的欣快
+Drug-induced euphoria wears off on a schedule the patient learns quickly.
+= 药物带来的欣快按时消退，病人很快就摸清了那个时间表。
 
 euphoric
 核心：狂喜的、飘飘然的：说人或气氛兴奋到极点。
@@ -4470,6 +4502,8 @@ be euphoric = 欣喜若狂
 = 广场上狂欢的人群，到两点安安静静地散了。
 a euphoric mood = 狂喜的气氛
 feel euphoric = 感到飘飘然
+She felt euphoric for two stops and then remembered the return ticket.
+= 她飘飘然地坐过了两站，才想起还有回程票这回事。
 
 Eurasian
 核心：两支。一是欧亚大陆的：the Eurasian landmass、Eurasian otter；
@@ -4491,6 +4525,8 @@ eureka = 我想到了（欢呼）
 = 那个灵光一现的时刻发生在排队时，根本用不着实验室。
 a eureka moment = 灵光一现的时刻
 shout eureka = 喊一声「我想到了」
+Nobody shouts eureka in an office where four people share a desk.
+= 四个人共用一张桌子的办公室里，没人会喊「我想到了」。
 
 eurhythmics
 核心：体态律动教学法：通过随音乐做动作来学节奏与乐感的一套教学法，
@@ -4502,6 +4538,8 @@ eurhythmics = 体态律动教学法
 = 体态律动课把礼堂填满了孩子，一把椅子也不摆。
 a eurhythmics class = 体态律动课
 teach eurhythmics = 教体态律动
+She teaches eurhythmics on Saturdays and piano for the rest of the week.
+= 她周六教体态律动，一周其余时间教钢琴。
 
 euro
 核心：欧元：欧盟多数国家使用的货币，符号 €，复数 euros。可数。
@@ -4512,6 +4550,8 @@ the euro = 欧元
 = 换算成欧元的价格往上取整，再没取回来过。
 in euros = 以欧元计
 the euro area = 欧元区
+The euro area gained a member in January and argued until March.
+= 欧元区一月添了一个成员国，争论到三月才停。
 
 Eurocentric
 核心：（贬）欧洲中心的：把欧洲的经验当成衡量一切的尺子。名词 Eurocentrism。
@@ -4549,6 +4589,8 @@ euroland = 欧元区
 = 整个欧元区的利率，是在一栋楼里定的。
 across euroland = 整个欧元区
 rates in euroland = 欧元区的利率
+Rates in euroland moved twice and the mortgage letter arrived three times.
+= 欧元区的利率动了两回，房贷通知信来了三封。
 
 European
 核心：欧洲的、欧洲人：形容词与名词同形，也用来指欧盟的（European law）。
@@ -4593,6 +4635,8 @@ europium = 铕
 = 一克铕的价钱，比检测它的机器便宜。
 europium compounds = 铕的化合物
 a europium phosphor = 铕荧光粉
+A europium phosphor in the screen makes red and fades before the others.
+= 屏幕里的铕荧光粉负责红色，比别的颜色先衰减。
 
 Eurosceptic
 核心：（英式）疑欧派：对欧盟一体化持怀疑或反对态度的人，也作形容词。
@@ -4634,6 +4678,8 @@ euthanasia = 安乐死
 = 自愿安乐死要有事后法院查得到的同意。
 voluntary euthanasia = 自愿安乐死
 legalize euthanasia = 使安乐死合法化
+A referendum to legalize euthanasia passed by nine thousand votes.
+= 一场使安乐死合法化的公投，以九千票之差通过。
 
 euthanize
 核心：（多为美式）对…实施安乐死：多说给动物，英式常说 put down。
@@ -4645,6 +4691,8 @@ euthanize an animal = 给动物实施安乐死
 = 收容所如今安乐死的动物少了，收进来的却多了一倍。
 be euthanized = 被实施安乐死
 euthanize a dog = 给狗实施安乐死
+Nobody wants to euthanize a dog on a Friday and it happens anyway.
+= 谁也不愿在星期五给一条狗实施安乐死，可还是会碰上。
 
 eutrophic
 核心：（生态）富营养的：说水体养分过多、藻类疯长、溶氧变低。
@@ -4655,6 +4703,8 @@ a eutrophic lake = 富营养化的湖
 = 富营养的水里藻长得比什么都吃不过来。
 eutrophic conditions = 富营养的水体条件
 become eutrophic = 变成富营养状态
+The pond became eutrophic the year they put in the new drain.
+= 他们装了新排水管的那年，池塘变成了富营养状态。
 
 eutrophication
 核心：（生态）富营养化：氮磷流进水体、导致藻类暴发与缺氧的过程。不可数。
@@ -4665,6 +4715,8 @@ eutrophication = 富营养化
 = 逆转富营养化要几十年，养分还留在淤泥里。
 the eutrophication of a lake = 一个湖的富营养化
 prevent eutrophication = 防止富营养化
+A strip of trees along the ditch prevents eutrophication better than any fine.
+= 沟边一条树带防止富营养化，比任何罚款都管用。
 构词：eutrophic 加 -ation
 
 evacuate
@@ -4674,6 +4726,8 @@ evacuate
 = 四百人冒雨撤离，当晚就回来了。
 evacuate somebody = 撤离某人
 be evacuated = 被撤离
+The ward was evacuated twice in one week for the same faulty alarm.
+= 那个病区一周被撤离两次，都是因为同一个坏掉的报警器。
 ② They evacuated the building in ninety seconds and left one kettle on.
 = 他们九十秒清空了整栋楼，还落下一个烧着的水壶。
 evacuate a building = 清空一栋楼
@@ -4705,6 +4759,8 @@ evade
 = 他在一个房间里待着，躲过了九天追捕。
 evade capture = 躲过追捕
 evade somebody = 避开某人
+He evaded his landlord for a month in a building with one staircase.
+= 他在一栋只有一部楼梯的楼里，躲了房东一个月。
 ② She evaded the question twice and answered the third time at length.
 = 那个问题她躲了两回，第三回答得很长。
 evade the question = 回避问题
@@ -4719,6 +4775,8 @@ evaluate
 = 那个试点项目，是由设计它的人评估的。
 evaluate something = 评估某物
 evaluate the effect of something = 评估某事的效果
+Nobody has evaluated the effect of moving the stop two hundred metres.
+= 把那个车站挪两百米有什么效果，没人评估过。
 ② Teachers evaluate the work and the software counts the words.
 = 老师评价作业内容，软件数的是字数。
 evaluate performance = 评估表现
@@ -4729,6 +4787,8 @@ evaluation
 = 那次评估做了两年，改动了政策里的一段。
 an evaluation = 一次评估
 carry out an evaluation = 开展评估
+They carried out an evaluation before the scheme had run a full winter.
+= 那个项目还没跑完一个冬天，他们就开展了评估。
 ② Evaluation of the trial is due in March and the funding ends in January.
 = 试验的评估三月出结果，经费一月就断了。
 the evaluation of something = 对某事的评估
@@ -4860,6 +4920,8 @@ evasive
 = 那位证人在日期上闪烁其词，说天气倒很准确。
 evasive = 闪烁其词的
 an evasive answer = 含糊回避的回答
+An evasive answer at the door told her more than a straight one.
+= 门口那句含糊回避的回答，比直说告诉她的还多。
 ② The pilot took evasive action and reported it as routine.
 = 飞行员做了紧急避让，上报时说是例行操作。
 evasive action = 避让动作
@@ -4929,7 +4991,11 @@ even money = 一赔一的赔率
 = 两个星期不下雨，把一个泡在水里开局的季节拉平了。
 even out = 变得平均、拉平
 even something up = 把某物弄得均衡
+She pushed the sand about with her foot to even the surface up.
+= 她用脚拨着沙子，把地面弄得平整均匀。
 even up = （比分、账目）扯平
+The two accounts even up once the postage is counted in.
+= 把邮费算进去，两笔账就扯平了。
 ⑪ An even-tempered dog is worth two clever ones in a house with children.
 = 有孩子的家里，一条性情平和的狗顶得上两条聪明的。
 even-tempered = 性情平和的
@@ -4938,6 +5004,8 @@ even-tempered = 性情平和的
 = 把糊摊匀，四个角照样先熟。
 spread something evenly = 把某物摊匀
 divide something evenly = 平均分配某物
+They divided the garden evenly and argued about the tree in the middle.
+= 他们把园子平均分了，为中间那棵树争了起来。
 ⑬ The two sides are evenly matched and the match ends nil-nil.
 = 双方势均力敌，比赛零比零收场。
 evenly matched = 势均力敌的
@@ -4951,6 +5019,8 @@ evening
 = 那家店傍晚关门，开门的时候没人需要它。
 in the evening = 在晚上
 this evening = 今天傍晚
+Nothing is open this evening except the garage and the chip shop.
+= 今天傍晚只有加油站和炸鱼薯条店开着，别的都关了。
 ② The evening of songs raised nine pounds and a lot of goodwill.
 = 那场歌会筹到九镑钱，和一大堆好意。
 an evening of something = 一场以某内容为主的晚间活动
@@ -5014,6 +5084,8 @@ at all events 是不管怎样。
 = 那年夏天的大事，是一场谁也没料到的婚礼。
 an event = 事件、大事
 a major event = 重大事件
+A major event in that town is anything that closes the high street.
+= 在那个镇上，凡是能让主街封路的都算重大事件。
 ② The event sold out in a day and the venue holds two hundred.
 = 那场活动一天就售罄，场地只坐得下两百人。
 a sporting event = 体育赛事
@@ -5027,10 +5099,14 @@ in any event = 无论如何
 = 活动管理听着光鲜，实际大半是在管椅子。
 event management = 活动管理
 an event manager = 活动经理
+An event manager checks the weather more often than the guest list.
+= 活动经理看天气预报的次数，比看宾客名单还多。
 ⑥ The event planner booked a marquee and the event planning took nine months.
 = 那位活动策划订了大棚，整个策划做了九个月。
 an event planner = 活动策划人
 event planning = 活动策划
+Event planning is mostly deciding what happens when the first thing fails.
+= 活动策划大半是在定：头一件事出岔子以后怎么办。
 
 eventful
 核心：多事的、事情不断的：说一段时间或一次经历发生了许多值得说的事，
@@ -5125,6 +5201,8 @@ evergreen
 = 那道树篱是常绿的，可到二月照样露出豁口。
 evergreen = 常绿的
 an evergreen = 常绿树
+A single evergreen keeps that garden from looking dead in February.
+= 一棵常绿树，让那个园子二月里不至于看着像死了。
 ② That song is an evergreen and pays somebody's rent every Christmas.
 = 那首歌是常青曲目，每年圣诞都替谁付一次房租。
 an evergreen song = 久唱不衰的歌
@@ -5165,6 +5243,8 @@ every bit as 是丝毫不亚于。
 = 每个座位都被占了，每三个里有一个占着的是外套。
 every = 每一个
 every time = 每一次
+Every time the gate sticks somebody promises to plane it down.
+= 每一次大门卡住，都有人说要把它刨一刨。
 ② The bus comes every twenty minutes and twice at once.
 = 公交每二十分钟一班，有时两班一起来。
 every three days = 每三天一次
@@ -5199,6 +5279,8 @@ everyday
 = 家常衣服挨穿，好衣服占着衣架。
 everyday clothes = 家常衣服
 everyday life = 日常生活
+The exhibition is about everyday life and half of it is kitchen tools.
+= 那个展览讲的是日常生活，一半的展品是厨房用具。
 ② The everyday version of that word means something much milder.
 = 那个词在日常里的用法，意思温和得多。
 everyday use = 日常使用
@@ -5262,6 +5344,8 @@ evict
 = 那家人十一月被赶了出去，又被安置在同一条街上。
 evict somebody = 驱逐某人
 be evicted from a place = 被从某处逐出
+They were evicted from the flat over four hundred pounds of arrears.
+= 他们因为欠了四百镑租金，被从那套房里赶了出去。
 ② Landlords cannot evict without a court order in that jurisdiction.
 = 在那个法域，房东没有法院命令不能赶人。
 evict a tenant = 驱逐房客
@@ -5284,7 +5368,11 @@ evidence
 = 证据单薄，结论倒写了四页。
 evidence = 证据
 a piece of evidence = 一项证据
+One piece of evidence survived the fire and it was a delivery note.
+= 火灾里只剩下一项证据，是一张送货单。
 evidence of something = 某事的证据
+Evidence of an older floor turned up when they lifted the tiles.
+= 他们掀起地砖时，出现了更早一层地面的证据。
 ② She gave evidence for two days and answered one question twice.
 = 她出庭作证两天，同一个问题答了两遍。
 give evidence = 出庭作证
@@ -5298,6 +5386,8 @@ evident
 = 头一分钟就看得出，那只话筒是坏的。
 it is evident that... = 显然…
 be evident = 明显的
+The damp was evident to everyone except the surveyor who missed it.
+= 那处受潮谁都看得出来，只有漏看了它的验房师没看出来。
 ② Her impatience is evident in the margins of every draft.
 = 她的不耐烦，在每一稿的页边上都看得出来。
 be evident in something = 在某处显露出来
@@ -5327,6 +5417,8 @@ evil
 = 恶行跟蠢行不是一回事，法庭得把两者分开。
 an evil act = 邪恶的行为
 evil = 邪恶的
+Children's books need an evil character and rarely explain where he came from.
+= 儿童书里总要有个邪恶的角色，却很少交代他从哪儿来。
 ② There is an evil smell under the stairs and nobody has looked.
 = 楼梯底下有股难闻至极的味道，没人去看过。
 an evil smell = 恶臭
@@ -5383,6 +5475,8 @@ evocative
 = 那块肥皂的气味最能勾起回忆，店里没人知道为什么。
 evocative = 令人回想起来的
 be evocative of something = 让人想起某事
+The tune is evocative of a programme that ended before she was born.
+= 那段曲子让人想起一个在她出生前就停播的节目。
 ② An evocative photograph beats an accurate caption every time.
 = 一张有感染力的照片，每回都赢过一句准确的说明。
 an evocative photograph = 令人身临其境的照片
@@ -5402,6 +5496,8 @@ evoke
 = 那张照片唤起一个夏天，他们三个记得的却各不相同。
 evoke a memory = 唤起记忆
 evoke a response = 引起反应
+The letter evoked a response from two people and silence from ninety.
+= 那封信引来两个人的回应，另外九十个没吭声。
 ② The proposal evoked more sympathy than support.
 = 那个提议引来的同情多过支持。
 evoke sympathy = 引起同情
@@ -5413,6 +5509,8 @@ evolution
 = 进化没有计划，可人们偏拿眼睛当计划的证据。
 evolution = 进化
 the theory of evolution = 进化论
+The theory of evolution was published late because the author dreaded the row.
+= 进化论发表得晚，因为作者怕那场争吵。
 ② The evolution of that shop from a stall took eleven years.
 = 那家店从一个摊位演变过来，用了十一年。
 the evolution of something = 某物的演变

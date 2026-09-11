@@ -267,6 +267,8 @@ a eucalyptus = 桉树
 = 桉树油清空一屋子人，比清鼻子还快。
 eucalyptus oil = 桉树油
 a eucalyptus grove = 桉树林
+A eucalyptus grove drops enough bark to keep one household in kindling.
+= 一片桉树林掉下的树皮，够一户人家当引火柴烧。
 
 Eucharist
 核心：（基督教）圣餐礼：分饼与酒纪念最后晚餐的仪式，多说 the Eucharist，
@@ -298,3 +300,5 @@ a eugenic argument = 优生学式的论证
 = 优生学的法律在那套「科学」被抛弃之后，还挂在法典上很久。
 eugenic laws = 优生学立法
 eugenic policies = 优生学政策
+Eugenic policies were written by people who never met anyone they sterilised.
+= 优生学政策的制定者，从没见过任何一个被他们绝育的人。

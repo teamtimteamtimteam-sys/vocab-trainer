@@ -5,6 +5,8 @@ evasive
 = 那位证人在日期上闪烁其词，说天气倒很准确。
 evasive = 闪烁其词的
 an evasive answer = 含糊回避的回答
+An evasive answer at the door told her more than a straight one.
+= 门口那句含糊回避的回答，比直说告诉她的还多。
 ② The pilot took evasive action and reported it as routine.
 = 飞行员做了紧急避让，上报时说是例行操作。
 evasive action = 避让动作
@@ -74,7 +76,11 @@ even money = 一赔一的赔率
 = 两个星期不下雨，把一个泡在水里开局的季节拉平了。
 even out = 变得平均、拉平
 even something up = 把某物弄得均衡
+She pushed the sand about with her foot to even the surface up.
+= 她用脚拨着沙子，把地面弄得平整均匀。
 even up = （比分、账目）扯平
+The two accounts even up once the postage is counted in.
+= 把邮费算进去，两笔账就扯平了。
 ⑪ An even-tempered dog is worth two clever ones in a house with children.
 = 有孩子的家里，一条性情平和的狗顶得上两条聪明的。
 even-tempered = 性情平和的
@@ -83,6 +89,8 @@ even-tempered = 性情平和的
 = 把糊摊匀，四个角照样先熟。
 spread something evenly = 把某物摊匀
 divide something evenly = 平均分配某物
+They divided the garden evenly and argued about the tree in the middle.
+= 他们把园子平均分了，为中间那棵树争了起来。
 ⑬ The two sides are evenly matched and the match ends nil-nil.
 = 双方势均力敌，比赛零比零收场。
 evenly matched = 势均力敌的
@@ -96,6 +104,8 @@ evening
 = 那家店傍晚关门，开门的时候没人需要它。
 in the evening = 在晚上
 this evening = 今天傍晚
+Nothing is open this evening except the garage and the chip shop.
+= 今天傍晚只有加油站和炸鱼薯条店开着，别的都关了。
 ② The evening of songs raised nine pounds and a lot of goodwill.
 = 那场歌会筹到九镑钱，和一大堆好意。
 an evening of something = 一场以某内容为主的晚间活动
@@ -159,6 +169,8 @@ at all events 是不管怎样。
 = 那年夏天的大事，是一场谁也没料到的婚礼。
 an event = 事件、大事
 a major event = 重大事件
+A major event in that town is anything that closes the high street.
+= 在那个镇上，凡是能让主街封路的都算重大事件。
 ② The event sold out in a day and the venue holds two hundred.
 = 那场活动一天就售罄，场地只坐得下两百人。
 a sporting event = 体育赛事
@@ -172,10 +184,14 @@ in any event = 无论如何
 = 活动管理听着光鲜，实际大半是在管椅子。
 event management = 活动管理
 an event manager = 活动经理
+An event manager checks the weather more often than the guest list.
+= 活动经理看天气预报的次数，比看宾客名单还多。
 ⑥ The event planner booked a marquee and the event planning took nine months.
 = 那位活动策划订了大棚，整个策划做了九个月。
 an event planner = 活动策划人
 event planning = 活动策划
+Event planning is mostly deciding what happens when the first thing fails.
+= 活动策划大半是在定：头一件事出岔子以后怎么办。
 
 eventful
 核心：多事的、事情不断的：说一段时间或一次经历发生了许多值得说的事，
@@ -270,6 +286,8 @@ evergreen
 = 那道树篱是常绿的，可到二月照样露出豁口。
 evergreen = 常绿的
 an evergreen = 常绿树
+A single evergreen keeps that garden from looking dead in February.
+= 一棵常绿树，让那个园子二月里不至于看着像死了。
 ② That song is an evergreen and pays somebody's rent every Christmas.
 = 那首歌是常青曲目，每年圣诞都替谁付一次房租。
 an evergreen song = 久唱不衰的歌
@@ -310,6 +328,8 @@ every bit as 是丝毫不亚于。
 = 每个座位都被占了，每三个里有一个占着的是外套。
 every = 每一个
 every time = 每一次
+Every time the gate sticks somebody promises to plane it down.
+= 每一次大门卡住，都有人说要把它刨一刨。
 ② The bus comes every twenty minutes and twice at once.
 = 公交每二十分钟一班，有时两班一起来。
 every three days = 每三天一次
@@ -344,6 +364,8 @@ everyday
 = 家常衣服挨穿，好衣服占着衣架。
 everyday clothes = 家常衣服
 everyday life = 日常生活
+The exhibition is about everyday life and half of it is kitchen tools.
+= 那个展览讲的是日常生活，一半的展品是厨房用具。
 ② The everyday version of that word means something much milder.
 = 那个词在日常里的用法，意思温和得多。
 everyday use = 日常使用
