@@ -83,7 +83,7 @@ def scan(segs, want=(1, 2)):
                         if not re.search(r'[A-Za-z]', lhs): continue
                         if lhs[-1:] in '.?!': continue
                         if re.search(r'(拼法|异拼|同义|过去式|过去分词|复数|缩写|另一种写法'
-                                      r'|另一形式|另一种形式|不带重音|变体形式)', rhs): continue
+                                      r'|另一形式|另一种形式|不带重音|变体形式|连字符写法)', rhs): continue
                         tier = 2 if (lab and '词族' in lab) else 1
                         if tier in want: need.append((j, l.strip()))
                 else: lab = None
