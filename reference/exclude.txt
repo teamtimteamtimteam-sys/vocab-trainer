@@ -489,3 +489,4 @@ flagfall     # 澳新英语里出租车的起步价，属地区变体词头
 fortiori     # a fortiori 被切开的碎片，整条短语在 a 段收，同 extremis / flagrante
 geese        # goose 的不规则复数，属变形不单立条，已写进 inflections.txt
 georgia-o-keeffe  # 画家人名的连字符化残片，属纯人名，同 Fingal's Cave / Fianna Fail
+gentleman-jim-corbett  # 拳击手人名的连字符化残片，属纯人名，同 georgia-o-keeffe

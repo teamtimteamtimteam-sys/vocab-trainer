@@ -198,6 +198,9 @@ a geodesic frame = 测地线骨架
 ③ Geodesic structures use less material and are impossible to furnish.
 = 测地线结构用料少，家具却没法摆。
 a geodesic structure = 测地线结构
+④ A geodesic dome went up in the park and the children found the one weak strut.
+= 公园里搭起一座测地线穹顶，孩子们找出了唯一那根不结实的杆。
+a geodesic dome = 测地线穹顶
 
 geofence
 核心：地理围栏：在地图上画出的一圈虚拟边界，

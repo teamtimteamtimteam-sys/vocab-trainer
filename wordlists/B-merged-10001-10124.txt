@@ -10,6 +10,14 @@ run in the genes = 家族遗传
 ③ The gene was located in 1993 and the treatment is still not here.
 = 那个基因 1993 年就定位了，疗法至今没有。
 locate a gene = 定位基因
+④ Gene therapy works on one gene and the rest of the body notices.
+= 基因治疗动的是一个基因，身体其余部分都察觉得到。
+gene therapy = 基因治疗
+⑤ Gene editing is cheap now and gene pools are not easily put back.
+= 基因编辑如今很便宜，基因库却不是想还原就还原得了的。
+gene editing = 基因编辑
+a gene pool = 基因库
+第二个说的是一个群体里全部基因的总和，改掉了就回不去。
 
 genealogical
 核心：三支。一是家谱的、系谱的：a genealogical table；
@@ -89,6 +97,38 @@ in general = 一般来说
 ⑥ It generally rains on that day and generally nobody plans for it.
 = 那一天通常下雨，也通常没人为此做准备。
 generally = 通常
+⑦ General practice keeps one general practitioner for every two thousand people.
+= 全科医疗按每两千人配一名全科医生。
+general practice = 全科医疗
+a general practitioner = 全科医生
+这一族说的是「不专科、什么都管」，跟第一支的「普遍」同源。
+⑧ The general secretary answers to a general staff that meets twice a year.
+= 总书记对一个一年开两次会的总参谋班子负责。
+a general secretary = 总书记、总干事
+general staff = 总参谋部、总务班子
+职务名里的 general 是「总的、统管全局的」，不是「普通的」。
+⑨ General headquarters moved twice and the general counsel stayed put.
+= 总部搬了两回，总法律顾问一直没动。
+general headquarters = 总司令部、总部
+general counsel = 总法律顾问
+⑩ A general of the army outranks a general of the air force on paper only.
+= 陆军五星上将在纸面上高过空军五星上将，也仅止于纸面。
+a general of the army = 陆军五星上将（美式）
+a general of the air force = 空军五星上将（美式）
+两个都是美军的最高衔，平时几乎见不到。
+⑪ General admission means no seat number and a very early queue.
+= 不对号入场意味着没有座位号，还有一支很早就开始排的队。
+general admission = 不对号入场
+⑫ The general store sells everything and general delivery holds your post.
+= 那家杂货铺什么都卖，留局待领的信件也存在那儿。
+a general store = 杂货铺
+general delivery = 留局待领（美式）
+两个都是小镇上的老说法，英式的留局待领叫 poste restante。
+⑬ A general-purpose flour and a general strike have the same word for a reason.
+= 通用面粉与总罢工共用一个词，是有缘由的。
+general-purpose = 通用的
+a general strike = 总罢工
+两处的 general 都是「不限于某一类、覆盖全体」。
 
 generalissimo
 核心：三支。一是大元帅，统领全军的最高统帅；
@@ -340,6 +380,12 @@ be genetic = 出于遗传
 ④ The two plants are genetically identical and look nothing alike.
 = 那两株植物在基因上完全相同，看着却一点不像。
 be genetically identical = 基因上完全相同
+⑤ The genetic code is the same four letters in every living thing.
+= 遗传密码在一切生物里都是同样那四个字母。
+the genetic code = 遗传密码
+⑥ A genetic fingerprint settled a case that four witnesses had confused.
+= 一份基因指纹，了结了四名证人越说越乱的案子。
+a genetic fingerprint = 基因指纹
 
 geneticist
 核心：三支。一是遗传学家；二是做基因研究的专业人员；
@@ -657,6 +703,10 @@ ladies and gentlemen = 女士们先生们
 ③ He lived as a gentleman on land that paid for none of it.
 = 他以乡绅自居，那片地却供不起这份排场。
 live as a gentleman = 以绅士身份生活
+④ A gentleman's gentleman knows which of two identical coats is the good one.
+= 贴身男仆分得出两件一模一样的大衣里哪件是好的。
+a gentleman's gentleman = 贴身男仆
+旧说法，字面是「绅士的绅士」，指专门伺候一位绅士的男仆。
 
 gentlemanly
 核心：三支。一是有绅士风度的：a gentlemanly gesture；
@@ -897,6 +947,9 @@ a geodesic frame = 测地线骨架
 ③ Geodesic structures use less material and are impossible to furnish.
 = 测地线结构用料少，家具却没法摆。
 a geodesic structure = 测地线结构
+④ A geodesic dome went up in the park and the children found the one weak strut.
+= 公园里搭起一座测地线穹顶，孩子们找出了唯一那根不结实的杆。
+a geodesic dome = 测地线穹顶
 
 geofence
 核心：地理围栏：在地图上画出的一圈虚拟边界，
@@ -1055,6 +1108,12 @@ geometrically = 从几何上说
 = 第二台机器一坏，队伍就成倍地长了起来。
 grow geometrically = 成倍增长
 构词：geometric 加 -ally
+⑤ The geometric mean flatters a bad year and the arithmetic one does not.
+= 几何平均数会替糟糕的一年遮丑，算术平均数不会。
+the geometric mean = 几何平均数
+⑥ Geometric progression looks harmless for four terms and then leaves the page.
+= 等比数列头四项看着无害，之后就跑出纸面了。
+geometric progression = 等比数列
 
 geometry
 核心：三支。一是几何学这门学科；二是（某物的）形状与相互位置关系；
@@ -1266,6 +1325,9 @@ the germ of an idea = 一个念头的雏形
 注意语域：
 germ = 病菌（日常口语）
 bacteria = 细菌（医学与书面）
+④ Germ warfare is banned by a treaty that four countries have not signed.
+= 细菌战被一项条约禁止，有四个国家没签。
+germ warfare = 细菌战
 
 German
 核心：三支。一是德国人；二是德语；三是形容词「德国的」。
@@ -1279,6 +1341,12 @@ German = 德语
 ③ German engineering is a phrase that sells cars in nine countries.
 = 「德国制造的工艺」这个说法，在九个国家帮着卖车。
 German engineering = 德国工艺
+④ German measles is mild in a child and serious in one particular case.
+= 风疹在孩子身上很轻，唯独在一种情形下要紧。
+German measles = 风疹
+⑤ A German shepherd works nine years and retires to somebody's sofa.
+= 德国牧羊犬干九年活，退休后去谁家的沙发上待着。
+a German shepherd = 德国牧羊犬
 
 germane
 核心：（正式）切题的、相关的：说某一点跟正在讨论的事直接有关，
@@ -1729,6 +1797,9 @@ get off = 下车、离开
 get off with somebody = 跟某人好上（英式口语）
 get away = 脱身跑掉
 get away with something = 做了坏事没受惩罚
+❸ She got caught up in a queue that had formed for something else.
+= 她被卷进一条为别的事排起来的队。
+get caught up in something = 被卷进某事
 
 getaway
 核心：两支。一是（作案后的）逃离：make a getaway；

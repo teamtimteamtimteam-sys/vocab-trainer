@@ -10,6 +10,14 @@ run in the genes = 家族遗传
 ③ The gene was located in 1993 and the treatment is still not here.
 = 那个基因 1993 年就定位了，疗法至今没有。
 locate a gene = 定位基因
+④ Gene therapy works on one gene and the rest of the body notices.
+= 基因治疗动的是一个基因，身体其余部分都察觉得到。
+gene therapy = 基因治疗
+⑤ Gene editing is cheap now and gene pools are not easily put back.
+= 基因编辑如今很便宜，基因库却不是想还原就还原得了的。
+gene editing = 基因编辑
+a gene pool = 基因库
+第二个说的是一个群体里全部基因的总和，改掉了就回不去。
 
 genealogical
 核心：三支。一是家谱的、系谱的：a genealogical table；
@@ -89,6 +97,38 @@ in general = 一般来说
 ⑥ It generally rains on that day and generally nobody plans for it.
 = 那一天通常下雨，也通常没人为此做准备。
 generally = 通常
+⑦ General practice keeps one general practitioner for every two thousand people.
+= 全科医疗按每两千人配一名全科医生。
+general practice = 全科医疗
+a general practitioner = 全科医生
+这一族说的是「不专科、什么都管」，跟第一支的「普遍」同源。
+⑧ The general secretary answers to a general staff that meets twice a year.
+= 总书记对一个一年开两次会的总参谋班子负责。
+a general secretary = 总书记、总干事
+general staff = 总参谋部、总务班子
+职务名里的 general 是「总的、统管全局的」，不是「普通的」。
+⑨ General headquarters moved twice and the general counsel stayed put.
+= 总部搬了两回，总法律顾问一直没动。
+general headquarters = 总司令部、总部
+general counsel = 总法律顾问
+⑩ A general of the army outranks a general of the air force on paper only.
+= 陆军五星上将在纸面上高过空军五星上将，也仅止于纸面。
+a general of the army = 陆军五星上将（美式）
+a general of the air force = 空军五星上将（美式）
+两个都是美军的最高衔，平时几乎见不到。
+⑪ General admission means no seat number and a very early queue.
+= 不对号入场意味着没有座位号，还有一支很早就开始排的队。
+general admission = 不对号入场
+⑫ The general store sells everything and general delivery holds your post.
+= 那家杂货铺什么都卖，留局待领的信件也存在那儿。
+a general store = 杂货铺
+general delivery = 留局待领（美式）
+两个都是小镇上的老说法，英式的留局待领叫 poste restante。
+⑬ A general-purpose flour and a general strike have the same word for a reason.
+= 通用面粉与总罢工共用一个词，是有缘由的。
+general-purpose = 通用的
+a general strike = 总罢工
+两处的 general 都是「不限于某一类、覆盖全体」。
 
 generalissimo
 核心：三支。一是大元帅，统领全军的最高统帅；
@@ -340,6 +380,12 @@ be genetic = 出于遗传
 ④ The two plants are genetically identical and look nothing alike.
 = 那两株植物在基因上完全相同，看着却一点不像。
 be genetically identical = 基因上完全相同
+⑤ The genetic code is the same four letters in every living thing.
+= 遗传密码在一切生物里都是同样那四个字母。
+the genetic code = 遗传密码
+⑥ A genetic fingerprint settled a case that four witnesses had confused.
+= 一份基因指纹，了结了四名证人越说越乱的案子。
+a genetic fingerprint = 基因指纹
 
 geneticist
 核心：三支。一是遗传学家；二是做基因研究的专业人员；
