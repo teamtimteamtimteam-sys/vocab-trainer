@@ -178,6 +178,8 @@ commence
 = 审判周一开始，法庭的施工三月就开工了。
 commence = 开始
 commence work = 开工
+They commence work at seven and stop for an hour at nine.
+= 他们七点开工，九点停一小时。
 ② Proceedings commenced against the firm four years after the collapse.
 = 公司垮掉四年后，才对它提起了诉讼。
 commence proceedings = 提起诉讼
@@ -346,6 +348,8 @@ a commercial = 电视广播广告（美式）
 = 圣诞已经商业化到日期本身都无所谓了。
 commercialize = 使商业化
 commercialization = 商业化
+The commercialization of that festival took four years and one sponsor.
+= 那个节庆的商业化用了四年、一个赞助商。
 ⑦ The rampant commercialism put her off a festival she had loved for years.
 = 泛滥的商业气息让她对喜欢多年的节庆失去了兴趣。
 commercialism = 商业至上的作风

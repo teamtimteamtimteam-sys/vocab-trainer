@@ -407,6 +407,8 @@ closeness = 亲近；接近
 closing = 结束的、收盘的
 closing time 是打烊时间，closing price 是收盘价。
 closing time = 打烊时间
+Closing time is eleven and the last order goes in at five past.
+= 打烊时间是十一点，最后一单十一点五分才下。
 ⑪ The closeout cleared the stock in under a fortnight.
 = 那次清仓不到两周就把存货卖光了。
 a closeout = 清仓甩卖（美式）

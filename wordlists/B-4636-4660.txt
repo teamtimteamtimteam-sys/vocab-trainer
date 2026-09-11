@@ -286,6 +286,8 @@ client
 = 她见了个新客户，那客户已经炒掉两家别的公司了。
 a client = 客户
 have clients = 拥有客户
+She has clients in three countries and an office in none of them.
+= 她在三个国家有客户，一个国家也没办公室。
 ② The client software is free and the licence for the server is not.
 = 客户端软件免费，服务器的授权可不免费。
 client software = 客户端软件

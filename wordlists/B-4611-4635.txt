@@ -137,6 +137,8 @@ classic
 = 这部电影是经典，海报上那只包也是设计经典款。
 a classic = 经典之作
 a design classic = 设计经典款
+A design classic sits in the hallway and nobody may sit on it.
+= 一件设计经典款摆在门厅里，谁也不许坐。
 ② It is a classic case of overreach and everybody saw it coming.
 = 这是典型的力有不逮，人人都料到了。
 a classic case of = 典型的一例

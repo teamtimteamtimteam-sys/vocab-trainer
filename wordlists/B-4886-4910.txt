@@ -186,6 +186,8 @@ commodity
 = 大宗商品价格暴跌，商品市场提前收市。
 commodity prices = 大宗商品价格
 a commodity market = 大宗商品市场
+A commodity market moves on weather in a country nobody has visited.
+= 大宗商品市场随着一个没人去过的国家的天气起落。
 ② Coffee is a traded commodity and the grower sees about a penny of it.
 = 咖啡是可交易的大宗商品，种植者能分到大约一便士。
 a commodity = 大宗商品

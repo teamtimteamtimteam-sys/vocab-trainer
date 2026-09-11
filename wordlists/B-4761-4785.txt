@@ -310,6 +310,8 @@ coin
 = 他往投币口塞了枚硬币，他们又扔硬币决定谁先来。
 a coin = 硬币
 toss a coin = 扔硬币定夺
+They tossed a coin for the window seat and argued for the rest of the flight.
+= 他们扔硬币决定靠窗座位，剩下的航程一直在吵。
 ② She coined the term herself and it was in the dictionary within four years.
 = 这个说法是她首创的，四年内就进了词典。
 coin a term = 首创一个说法

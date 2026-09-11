@@ -20,10 +20,14 @@ comply
 = 你必须遵从这道命令，以及它援引的每一条规定。
 comply with = 遵从
 comply with regulations = 符合规定
+The building complies with regulations written for a different climate.
+= 那栋楼符合的是为另一种气候写的规定。
 ② Few firms complied and none of them refused to comply openly.
 = 照办的公司很少，却没有一家公开拒不服从。
 comply = 照办
 refuse to comply = 拒不服从
+Two departments refused to comply and nothing happened to either.
+= 两个部门拒不执行，谁也没被怎么样。
 ③ Failure to comply carries a fine that nobody has ever been charged.
 = 不照办要罚款，可从没有人真被罚过。
 failure to comply = 未照办
@@ -307,6 +311,8 @@ comprehensively = 彻底地
 = 她在本地综合中学教书，就住在马路对面。
 a comprehensive school = 综合中学（英式，不按成绩挑生源）
 a comprehensive = 综合中学（英式）
+She teaches at a comprehensive and turned down two private schools.
+= 她在综合中学教书，回绝了两所私校。
 跟这一条的 a comprehensive 是同一样东西，口语里把后半截省掉。
 ⑤ The report's comprehensiveness impressed them more than its conclusions.
 = 这份报告的周详比它的结论更让他们佩服。

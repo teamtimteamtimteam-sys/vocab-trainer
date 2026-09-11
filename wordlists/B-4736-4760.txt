@@ -114,6 +114,8 @@ cod
 cod = 鳕鱼
 旧文与商业里也说 codfish，指的是同一种鱼。
 codfish = 鳕鱼（较旧的说法）
+Codfish was cheap enough to feed a street and now feeds nobody.
+= 鳕鱼当年便宜到能喂饱一条街，如今谁也吃不起。
 ② Cod stocks fell sharply and took thirty years to come back at all.
 = 鳕鱼资源大幅下降，过了三十年才有一点恢复。
 stocks = 资源存量

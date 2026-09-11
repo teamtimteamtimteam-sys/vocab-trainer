@@ -457,6 +457,8 @@ collegiate = 学院的；大学生的
 = 他在一所继续教育学院教书，带两百名学生。
 a college of further education = 继续教育学院（英式，中学后的职业与补修课程）
 a college of higher education = 高等教育学院（英式，可授学位但不叫大学）
+A college of higher education there trains half the county's nurses.
+= 那里的一所高等教育学院，培养了全郡一半的护士。
 两个都是英国的学校类别，名字里的 college 都不等于大学。
 构词：拉丁语 collegium 同僚团体
 注意别混：英式的 college 不一定是大学，看上下文。
