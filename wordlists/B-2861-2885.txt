@@ -281,7 +281,11 @@ a cutting board = 砧板
 = 论坛没人了，配电盘带着电，跳板则关闭着。
 a discussion board = 网上论坛
 a distribution board = 配电盘
+The distribution board is in a cupboard behind four coats.
+= 配电盘装在柜子里，前面挡着四件大衣。
 a diving board = 跳板
+The diving board was removed and the marks in the tiles remain.
+= 跳板拆了，瓷砖上的印子还在。
 三个 board 各是一路：网上的版面、电箱里的盘、泳池边的板。
 ⑱ The draining board was always wet and the plates dried on it anyway.
 = 那块沥水板一直是湿的，盘子照样在上面晾干。
@@ -459,6 +463,8 @@ miss the boat 是错过时机。可数。
 = 我们坐船去岛上，当晚又坐船回来。
 take a boat = 坐船
 by boat = 坐船
+Everything on that island arrives by boat and leaves the same way.
+= 那个岛上的东西都是坐船来的，走也一样。
 boat = 小船（潜艇例外，再大也叫 boat）
 ship = 大船（跨洋的那种）
 ③ We are all in the same boat and half of us are pretending otherwise.

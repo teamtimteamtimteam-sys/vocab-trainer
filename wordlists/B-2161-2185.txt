@@ -306,6 +306,8 @@ be endowed with = 天生具有
 = 那所学院由一位银行家捐资兴办，而他从没踏进去过。
 endow = 捐资设立
 endowment = 捐赠基金；天赋
+The endowment pays for two scholarships and one very old boiler.
+= 那笔捐赠基金供着两份奖学金和一台很旧的锅炉。
 
 be gunning for
 核心：口语，两个方向相反的意思都常见：对人是"处心积虑要整他"，

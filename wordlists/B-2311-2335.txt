@@ -82,6 +82,8 @@ benefice = 圣职俸禄
 = 他晚年以行善著称，早年却毫无此风。
 beneficence = 慈善、行善
 beneficent = 行善的、慈善的
+A beneficent uncle paid the fees and never mentioned them again.
+= 一位行善的叔叔付了学费，之后再没提过。
 ⑩ A defined benefit pension promises a figure; everything else promises a pot.
 = 确定给付型养老金承诺的是一个数额，别的方案承诺的只是一笔钱。
 a defined benefit pension = 确定给付型养老金
@@ -113,6 +115,8 @@ benevolent fund = 慈善互助基金
 = 她慈祥地对着一个她打算否决的论点笑了笑。
 benevolently = 仁厚地
 benevolence = 仁慈、善举
+Her benevolence is organised, monthly and entirely anonymous.
+= 她的善举是有安排的、按月的，而且完全匿名。
 注意语域：
 略带上位者施惠的口气，说平辈之间多用 kind。
 
@@ -270,6 +274,8 @@ the bereaved = 遗属
 = 一个夏天之内，战争就让半个村子失去了亲人。
 bereavement = 丧亲
 bereavement leave = 丧假
+Bereavement leave is three days and the form takes one of them.
+= 丧假三天，办表格要占掉一天。
 注意用法：
 只用于因死亡而失去，别的失去用 lose。
 

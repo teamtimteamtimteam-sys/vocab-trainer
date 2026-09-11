@@ -282,6 +282,8 @@ cage
 = 鹦鹉从笼子里跑了，后来在邻居的晾衣绳上找到。
 cage = 笼子
 out of a cage = 从笼子里出来
+The bird was out of its cage for an hour and refused to go back.
+= 那只鸟出笼一小时，死活不肯回去。
 ② Lions should not be caged, whatever the zoo says about conservation.
 = 不管动物园怎么讲保护，狮子都不该关在笼里。
 be caged = 被关进笼子

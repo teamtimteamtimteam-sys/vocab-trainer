@@ -74,6 +74,8 @@ a calling bell = 唤人的按铃
 = 他一拉铃绳，半个天花板都跟着塌了下来。
 bell pull = 唤人铃索
 bell push = 门铃按钮
+The bell push sticks and the bell rings until somebody hits the wall.
+= 门铃按钮卡住了，铃一直响到有人拍墙。
 ⑭ Bell-ringing is a village tradition that survives on about six people.
 = 敲钟是这村子的传统，靠六个人撑着没断。
 bell-ringing = 敲钟（作为技艺）
@@ -81,10 +83,14 @@ bell-ringing = 敲钟（作为技艺）
 = 一名行李员搬了箱子，说什么也不肯收小费。
 bellboy = 旅馆行李员
 bellhop = 旅馆行李员（美式）
+A bellhop carried four cases upstairs and refused the tip twice.
+= 行李员把四个箱子搬上楼，两次谢绝了小费。
 ⑯ A diving bell took three men down and the division bell brought two hundred back in.
 = 潜水钟把三个人送下水，表决铃把两百人叫回议场。
 a diving bell = 潜水钟
 the division bell = （英国议会的）表决铃
+The division bell empties the bar in under four minutes.
+= 表决铃一响，酒吧四分钟内就空了。
 表决铃一响，议员要在八分钟内赶回投票。
 
 belladonna
@@ -147,6 +153,8 @@ belligerent = 交战方（名词）
 = 人家问得很客气，她答得却很冲。
 belligerently = 挑衅地
 belligerence = 好斗、挑衅
+His belligerence in meetings costs the department a supplier a year.
+= 他开会时的好斗劲，一年让部门丢一个供应商。
 注意别混：
 belligerent = 好斗的（多说个人）；交战方
 bellicose = 好战的（多说国家与政策）
@@ -223,11 +231,17 @@ belly 比 stomach 随意；正式与医学场合说 abdomen。
 = 她肚皮舞跳得不错，周二晚上还能教课。
 belly dance = 跳肚皮舞
 belly dancer = 肚皮舞者
+A belly dancer worked that restaurant on Fridays for eleven years.
+= 一位肚皮舞者在那家餐厅的周五场跳了十一年。
 ⑪ He rode a bellyboard in the surf until the tide turned against him.
 = 他趴板冲浪，一直冲到潮水转向。
 bellyboard = 俯卧冲浪板
 bellyboarder = 俯卧冲浪者
+A bellyboarder needs one wave and no equipment worth stealing.
+= 俯卧冲浪者只要一个浪，装备也没什么值得偷的。
 bellyboarding = 俯卧冲浪
+Bellyboarding came back into fashion and the boards cost four times as much.
+= 俯卧冲浪又流行起来，板子的价钱翻了四倍。
 ⑫ They ate their bellyful and slept where they sat.
 = 他们吃了个饱，就地坐着睡着了。
 a bellyful = 吃饱；受够了
@@ -515,6 +529,8 @@ bender = 狂饮作乐；弯管工具
 = 那是辆铰接式公交车，绕过广场要占两条车道。
 bendy = 易弯的
 bendy bus = 铰接式公交车（英式）
+A bendy bus takes that corner in two moves and blocks it in one.
+= 铰接公交要分两把才转过那个弯，堵住它只需一把。
 
 beneath
 核心：三层。空间上跟 below 与 under 大体通用，但更书面；

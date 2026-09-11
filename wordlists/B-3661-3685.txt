@@ -89,6 +89,8 @@ bushy eyebrows = 浓密的眉毛
 = 他只睡了四个钟头，来的时候却精神抖擞。
 bright-eyed and bushy-tailed = 精神抖擞
 bushy-tailed = 精神头十足的（几乎只用在这句里）
+He arrives bright-eyed and bushy-tailed at seven and fades by ten.
+= 他七点到时神采奕奕，十点就蔫了。
 构词：bush 灌木 + -y
 
 business

@@ -327,7 +327,11 @@ built 也大量作复合形容词的后半截：well-built、purpose-built、cus
 = 这套公寓有嵌入式衣柜，占了卧室三分之一。
 built-in = 内置的、做进结构里的
 built-up = 建筑密集的（a built-up area 是建成区，限速就按这个定）
+The limit drops in a built-up area and the sign is behind a tree.
+= 进了建成区限速就降，那块牌子藏在树后面。
 custom-built = 按买家要求专造的
+A custom-built cupboard fits one wall and no other house.
+= 按尺寸定做的柜子只配那面墙，别的房子都装不下。
 这一族都拿过去分词作后半截。
 构词：古英语 byldan
 注意三态：build / built / built

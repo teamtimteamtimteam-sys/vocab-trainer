@@ -13,6 +13,8 @@ bicker about = 为某事拌嘴
 = 她跟弟弟为遥控器拌嘴，直到母亲把电视插头拔了。
 bicker with = 跟某人拌嘴
 bicker over = 为某事拌嘴
+They bicker over the thermostat and agree about everything that matters.
+= 他们为暖气温度拌嘴，真要紧的事全一致。
 近义对照：
 bicker = 拌嘴（琐碎、反复）
 argue = 争论（可以是讲道理）

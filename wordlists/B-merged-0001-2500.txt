@@ -42785,6 +42785,8 @@ be endowed with = 天生具有
 = 那所学院由一位银行家捐资兴办，而他从没踏进去过。
 endow = 捐资设立
 endowment = 捐赠基金；天赋
+The endowment pays for two scholarships and one very old boiler.
+= 那笔捐赠基金供着两份奖学金和一台很旧的锅炉。
 
 be gunning for
 核心：口语，两个方向相反的意思都常见：对人是"处心积虑要整他"，
@@ -43370,6 +43372,8 @@ a beast = 厉害的家伙（口语赞语）
 = 她说了句「这鬼天气」，没拿外套就回屋去了。
 beastly = 讨厌的、糟透的（英式，偏旧）
 beastliness = 恶劣、残暴
+The beastliness of that winter is still measured against every other one.
+= 那个冬天有多恶劣，至今被拿来比每一个冬天。
 注意语域：
 beastly 偏旧且英式，今天多带调侃。
 
@@ -43463,6 +43467,8 @@ beat out = 扑灭；敲打出（节奏）
 = 他们用一个看着合规的名目骗走了他的积蓄。
 beat somebody out of = 骗走某人的…
 beat out of = 骗走（省略人称代词的简写）
+They beat him out of a month's wages and he never reported it.
+= 他们骗走了他一个月的工钱，他从没报案。
 ㉕ She beat me to the door and held it open for the others.
 = 她抢在我前面到了门口，替别人把门拉着。
 beat somebody to = 抢在某人前面到达
@@ -43471,6 +43477,8 @@ beat to = 先到（省略人称代词的简写）
 = 他抢了先，比我们早两周递交了专利。
 beat somebody to it = 抢先做成
 beat to it = 抢先一步（省略人称代词的简写）
+Somebody beat us to it by a single phone call.
+= 有人就靠一通电话，抢先了我们一步。
 ㉗ Don't beat up on yourself; nobody could possibly have known.
 = 别自责了，谁也不可能预先知道。
 beat up on = 苛责、欺负（美式）
@@ -43478,6 +43486,8 @@ beat up on = 苛责、欺负（美式）
 = 他用嘴打的节奏能镇住一整场人。
 beatbox = 口技打节拍
 beatboxing = 口技节拍
+Beatboxing filled the gap while the drummer looked for a car park.
+= 鼓手找停车位的工夫，口技节拍把空档顶了上去。
 ㉙ The car looks beaten-up but the engine has just been rebuilt.
 = 那车看着破破烂烂，发动机却是刚大修过的。
 beaten-up = 破旧不堪的
@@ -43618,10 +43628,14 @@ the beauty of it is = 妙处在于
 = 她在大街上一家洗衣店楼上开美容院。
 beauty salon = 美容院
 beauty school = 美容学校
+She left beauty school in the second term and opened a salon at thirty.
+= 她美容学校读到第二学期就走了，三十岁自己开了店。
 ⑦ The beauty queen waved from a lorry decorated with paper flowers.
 = 选美皇后在一辆扎着纸花的卡车上挥手。
 beauty queen = 选美冠军
 beauty contest = 选美比赛
+The beauty contest was dropped and the funfair kept the marquee.
+= 选美比赛取消了，游艺场把那顶大帐篷留了下来。
 ⑧ I need my beauty sleep and the meeting can wait until Monday.
 = 我得睡个美容觉，会可以等到周一。
 beauty sleep = 美容觉（半开玩笑）
@@ -43629,6 +43643,8 @@ beauty sleep = 美容觉（半开玩笑）
 = 这个村子是风景名胜，可停车实在应付不来。
 beauty spot = 风景胜地；也指脸上的美人痣
 beauty mark = 美人痣（美式）
+A beauty mark above her lip appears in every photograph but one.
+= 她唇上那颗美人痣，除了一张照片，张张都在。
 ⑩ A beautician did her nails and talked her out of the colour.
 = 美容师给她做了指甲，还劝她换了个颜色。
 beautician = 美容师
@@ -43853,6 +43869,8 @@ flower bed = 花圃
 = 那条河床干涸，是人们记忆里的头一回。
 river bed = 河床
 seabed = 海床
+The seabed there is soft enough to swallow an anchor.
+= 那里的海床软得能吞下一只锚。
 ⑤ Fossils lie in the lower beds and take days to expose.
 = 化石埋在下层岩层里，要好几天才清得出来。
 bed = 岩层
@@ -43872,7 +43890,11 @@ bed and breakfast = 提供住宿与早餐的家庭旅馆
 = 她换了床单被套，开窗透了透气。
 bed linen = 床品
 bedclothes = 铺盖
+The bedclothes go out on the line whenever there is an hour of sun.
+= 只要有一小时太阳，铺盖就晾到绳上。
 bedding = 寝具；（动物的）垫草
+Fresh bedding goes into the hutch on Sundays and is gone by Tuesday.
+= 周日给笼子换上干净垫草，周二就没了。
 ⑪ The doctor ordered bed rest for a fortnight and no visitors.
 = 医生嘱咐卧床两周，不许探视。
 bed rest = 卧床休息
@@ -43901,6 +43923,8 @@ bedchamber = 寝室（古雅）
 = 她把床罩抚平，把靠垫摆了回去。
 bedcover = 床罩
 bedspread = 床罩、床单外罩
+A bedspread that colour hides nine years of tea stains.
+= 那个颜色的床罩，遮住了九年的茶渍。
 ⑲ Bedding plants go in after the frost and flower until October.
 = 霜期过后才栽花坛苗，一直开到十月。
 bedding plant = 花坛用苗
@@ -43932,6 +43956,8 @@ bedstead = 床架
 bedlinen），一路是围着床发生的事（bedtime、bedside、bedridden）。
 词族：
 bedding = 床上用品
+Fresh bedding goes into the hutch on Sundays and is gone by Tuesday.
+= 周日给笼子换上干净垫草，周二就没了。
 bedrock = 基岩；根基
 
 bedazzle
@@ -44149,6 +44175,8 @@ spelling bee 就是拼字比赛。
 = 她在院子里养蜂，十年大概被蜇过两次。
 beekeeper = 养蜂人
 beekeeping = 养蜂
+Beekeeping takes one afternoon a week and worries him all year.
+= 养蜂一周只花一个下午，却让他惦记一整年。
 ③ He is as busy as a bee and produces about as much as one.
 = 他忙得像只蜜蜂，产出也差不多是一只蜜蜂的量。
 busy as a bee = 忙得不可开交
@@ -44790,14 +44818,24 @@ in behalf of 是美式的"为了某人的好处"（做的事对他有利），
 ① She spoke on behalf of the family and had met none of them before.
 = 她代表这家人发言，此前一个都没见过。
 on behalf of = 代表某人出面
+On behalf of nine families he asked one question and sat down.
+= 他代表九户人家问了一个问题，就坐下了。
 on somebody's behalf = 代表某人
+She signed on his behalf and kept a note of every date.
+= 她代表他签的字，每个日期都记了下来。
 on behalf of = 代表（出面）
+On behalf of nine families he asked one question and sat down.
+= 他代表九户人家问了一个问题，就坐下了。
 in behalf of = 为了某人好（美式）
+The letter was written in behalf of a neighbour who never knew.
+= 那封信是为一位邻居写的，他始终不知情。
 in place of = 代替（顶替位置）
 出面这一层：说话的分量算在被代表的人头上。
 ② Funds were raised in behalf of the victims and reached them two years later.
 = 为受害者募集的款项，两年后才到他们手上。
 in behalf of = 为了某人的利益（美式）
+The letter was written in behalf of a neighbour who never knew.
+= 那封信是为一位邻居写的，他始终不知情。
 这里没有"代他出面"的意思，只是对他有好处。
 注意地域：英式两个意思都说 on behalf of。
 ③ Don't worry on my behalf; I have been through worse than this.
@@ -44817,6 +44855,8 @@ behave
 = 规矩点，你奶奶盼这一天盼了一星期。
 behave yourself = 守规矩（多对小孩说）
 behave oneself = 守规矩
+They behaved themselves for an hour and the museum relaxed.
+= 他们守了一小时规矩，博物馆就放松了。
 ② He behaved badly at the party and rang everyone the next morning.
 = 他在派对上失了态，第二天早上挨个打电话。
 behave badly = 表现失当
@@ -44835,6 +44875,8 @@ behavioural = 行为的
 = 行为主义只研究可观察的行为，其余一概不猜。
 behaviourism = 行为主义
 behaviourist = 行为主义者
+A behaviourist watched the class for a morning and changed one rule.
+= 一位行为主义者观察了那个班一上午，改了一条规矩。
 注意拼写：
 behaviour 英式 / behavior 美式，
 派生词跟着一起变。
@@ -45336,6 +45378,8 @@ believe in somebody = 信得过他这个人
 = 换作两星期前，我绝不会相信他会这样。
 believe something of someone = 相信某人做得出某事
 believe of = 相信某人做得出（这一层几乎只用于否定）
+I would not have believed it of her and the letter says otherwise.
+= 我不信她做得出这种事，那封信却说不是。
 几乎只用于否定和惊讶的语气。
 
 Belisha beacon
@@ -45426,6 +45470,8 @@ a calling bell = 唤人的按铃
 = 他一拉铃绳，半个天花板都跟着塌了下来。
 bell pull = 唤人铃索
 bell push = 门铃按钮
+The bell push sticks and the bell rings until somebody hits the wall.
+= 门铃按钮卡住了，铃一直响到有人拍墙。
 ⑭ Bell-ringing is a village tradition that survives on about six people.
 = 敲钟是这村子的传统，靠六个人撑着没断。
 bell-ringing = 敲钟（作为技艺）
@@ -45433,10 +45479,14 @@ bell-ringing = 敲钟（作为技艺）
 = 一名行李员搬了箱子，说什么也不肯收小费。
 bellboy = 旅馆行李员
 bellhop = 旅馆行李员（美式）
+A bellhop carried four cases upstairs and refused the tip twice.
+= 行李员把四个箱子搬上楼，两次谢绝了小费。
 ⑯ A diving bell took three men down and the division bell brought two hundred back in.
 = 潜水钟把三个人送下水，表决铃把两百人叫回议场。
 a diving bell = 潜水钟
 the division bell = （英国议会的）表决铃
+The division bell empties the bar in under four minutes.
+= 表决铃一响，酒吧四分钟内就空了。
 表决铃一响，议员要在八分钟内赶回投票。
 
 belladonna
@@ -45499,6 +45549,8 @@ belligerent = 交战方（名词）
 = 人家问得很客气，她答得却很冲。
 belligerently = 挑衅地
 belligerence = 好斗、挑衅
+His belligerence in meetings costs the department a supplier a year.
+= 他开会时的好斗劲，一年让部门丢一个供应商。
 注意别混：
 belligerent = 好斗的（多说个人）；交战方
 bellicose = 好战的（多说国家与政策）
@@ -45575,11 +45627,17 @@ belly 比 stomach 随意；正式与医学场合说 abdomen。
 = 她肚皮舞跳得不错，周二晚上还能教课。
 belly dance = 跳肚皮舞
 belly dancer = 肚皮舞者
+A belly dancer worked that restaurant on Fridays for eleven years.
+= 一位肚皮舞者在那家餐厅的周五场跳了十一年。
 ⑪ He rode a bellyboard in the surf until the tide turned against him.
 = 他趴板冲浪，一直冲到潮水转向。
 bellyboard = 俯卧冲浪板
 bellyboarder = 俯卧冲浪者
+A bellyboarder needs one wave and no equipment worth stealing.
+= 俯卧冲浪者只要一个浪，装备也没什么值得偷的。
 bellyboarding = 俯卧冲浪
+Bellyboarding came back into fashion and the boards cost four times as much.
+= 俯卧冲浪又流行起来，板子的价钱翻了四倍。
 ⑫ They ate their bellyful and slept where they sat.
 = 他们吃了个饱，就地坐着睡着了。
 a bellyful = 吃饱；受够了
@@ -45867,6 +45925,8 @@ bender = 狂饮作乐；弯管工具
 = 那是辆铰接式公交车，绕过广场要占两条车道。
 bendy = 易弯的
 bendy bus = 铰接式公交车（英式）
+A bendy bus takes that corner in two moves and blocks it in one.
+= 铰接公交要分两把才转过那个弯，堵住它只需一把。
 
 beneath
 核心：三层。空间上跟 below 与 under 大体通用，但更书面；
@@ -46019,6 +46079,8 @@ benefice = 圣职俸禄
 = 他晚年以行善著称，早年却毫无此风。
 beneficence = 慈善、行善
 beneficent = 行善的、慈善的
+A beneficent uncle paid the fees and never mentioned them again.
+= 一位行善的叔叔付了学费，之后再没提过。
 ⑩ A defined benefit pension promises a figure; everything else promises a pot.
 = 确定给付型养老金承诺的是一个数额，别的方案承诺的只是一笔钱。
 a defined benefit pension = 确定给付型养老金
@@ -46050,6 +46112,8 @@ benevolent fund = 慈善互助基金
 = 她慈祥地对着一个她打算否决的论点笑了笑。
 benevolently = 仁厚地
 benevolence = 仁慈、善举
+Her benevolence is organised, monthly and entirely anonymous.
+= 她的善举是有安排的、按月的，而且完全匿名。
 注意语域：
 略带上位者施惠的口气，说平辈之间多用 kind。
 
@@ -46207,6 +46271,8 @@ the bereaved = 遗属
 = 一个夏天之内，战争就让半个村子失去了亲人。
 bereavement = 丧亲
 bereavement leave = 丧假
+Bereavement leave is three days and the form takes one of them.
+= 丧假三天，办表格要占掉一天。
 注意用法：
 只用于因死亡而失去，别的失去用 lose。
 
@@ -47758,6 +47824,8 @@ bicker about = 为某事拌嘴
 = 她跟弟弟为遥控器拌嘴，直到母亲把电视插头拔了。
 bicker with = 跟某人拌嘴
 bicker over = 为某事拌嘴
+They bicker over the thermostat and agree about everything that matters.
+= 他们为暖气温度拌嘴，真要紧的事全一致。
 近义对照：
 bicker = 拌嘴（琐碎、反复）
 argue = 争论（可以是讲道理）

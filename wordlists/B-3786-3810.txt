@@ -297,6 +297,8 @@ court calendar = 法庭案件日程表
 = 要提前一个日历月通知，不是四周，否则不算数。
 a calendar month = 日历上的整月
 the calendar year = 日历年
+The budget runs to the calendar year and the school year does not.
+= 预算按日历年走，学年不是。
 构词：拉丁语 kalendae 每月的第一天
 注意拼写：别跟 calender 混，那是机器。
 
@@ -651,10 +653,14 @@ call somebody's bluff = 摊牌戳穿虚张声势
 ❸ We set up a conference call with the New York office for six our time.
 = 我们跟纽约办公室约了个电话会议，按我们这边时间六点。
 a conference call = 电话会议（三方以上同时通话）
+A conference call with nine people settles less than one corridor conversation.
+= 九个人的电话会议，解决的事不如走廊上聊一句。
 conference 那半截指的是多方一起接进来；今天有画面的多改说 video call。
 ❹ The minister paid a courtesy call on the mayor before opening the new bridge.
 = 那位大臣在新桥剪彩前礼节性拜访了市长。
 a courtesy call = 礼节性拜访；也指商家事后回访的电话
+A courtesy call came two weeks after the repair and asked one question.
+= 维修两周后来了个回访电话，只问了一个问题。
 两个义的共同点是「不为办事，只为表示礼数」。
 构词：古诺斯语 kalla 呼叫、大声说
 注意用法：介词决定方向那条规则，比一个个背短语动词省力。

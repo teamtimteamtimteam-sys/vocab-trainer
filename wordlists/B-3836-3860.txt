@@ -38,7 +38,11 @@ in camera = 不公开审理（法律）
 = 摄影师跟她出来，隔着车窗一直拍。
 cameraman = 摄影师
 camerawoman = 女摄影师
+The camerawoman held that shot for ninety seconds without moving.
+= 那位女摄影师把那个镜头稳稳端了九十秒。
 a camera operator = 摄像师
+A camera operator earns less than the person holding the microphone.
+= 摄像师挣的比举话筒的人还少。
 ⑤ The camerawork is what makes the film; the script is barely there.
 = 这部片子全靠镜头运用，剧本几乎不存在。
 camerawork = 镜头运用

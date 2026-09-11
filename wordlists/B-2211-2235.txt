@@ -101,6 +101,8 @@ flower bed = 花圃
 = 那条河床干涸，是人们记忆里的头一回。
 river bed = 河床
 seabed = 海床
+The seabed there is soft enough to swallow an anchor.
+= 那里的海床软得能吞下一只锚。
 ⑤ Fossils lie in the lower beds and take days to expose.
 = 化石埋在下层岩层里，要好几天才清得出来。
 bed = 岩层
@@ -120,7 +122,11 @@ bed and breakfast = 提供住宿与早餐的家庭旅馆
 = 她换了床单被套，开窗透了透气。
 bed linen = 床品
 bedclothes = 铺盖
+The bedclothes go out on the line whenever there is an hour of sun.
+= 只要有一小时太阳，铺盖就晾到绳上。
 bedding = 寝具；（动物的）垫草
+Fresh bedding goes into the hutch on Sundays and is gone by Tuesday.
+= 周日给笼子换上干净垫草，周二就没了。
 ⑪ The doctor ordered bed rest for a fortnight and no visitors.
 = 医生嘱咐卧床两周，不许探视。
 bed rest = 卧床休息
@@ -149,6 +155,8 @@ bedchamber = 寝室（古雅）
 = 她把床罩抚平，把靠垫摆了回去。
 bedcover = 床罩
 bedspread = 床罩、床单外罩
+A bedspread that colour hides nine years of tea stains.
+= 那个颜色的床罩，遮住了九年的茶渍。
 ⑲ Bedding plants go in after the frost and flower until October.
 = 霜期过后才栽花坛苗，一直开到十月。
 bedding plant = 花坛用苗
@@ -180,6 +188,8 @@ bedstead = 床架
 bedlinen），一路是围着床发生的事（bedtime、bedside、bedridden）。
 词族：
 bedding = 床上用品
+Fresh bedding goes into the hutch on Sundays and is gone by Tuesday.
+= 周日给笼子换上干净垫草，周二就没了。
 bedrock = 基岩；根基
 
 bedazzle
@@ -397,6 +407,8 @@ spelling bee 就是拼字比赛。
 = 她在院子里养蜂，十年大概被蜇过两次。
 beekeeper = 养蜂人
 beekeeping = 养蜂
+Beekeeping takes one afternoon a week and worries him all year.
+= 养蜂一周只花一个下午，却让他惦记一整年。
 ③ He is as busy as a bee and produces about as much as one.
 = 他忙得像只蜜蜂，产出也差不多是一只蜜蜂的量。
 busy as a bee = 忙得不可开交
