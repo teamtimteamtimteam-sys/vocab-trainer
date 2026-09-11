@@ -84,7 +84,11 @@ adder
 zigzag pattern = 锯齿形花纹
 常用搭配：
 adder bite = 蝰蛇咬伤
+An adder bite swells for two days and rarely kills anybody.
+= 蝰蛇咬伤会肿两天，很少致命。
 puff adder = 鼓腹蝰
+A puff adder lies still until the last possible second.
+= 鼓腹蝰会一动不动躺到最后一刻。
 注意地域：
 英式指唯一的本土毒蛇；
 美式泛指几种小蛇。
@@ -272,6 +276,8 @@ address book = 通讯录
 = 每个单元都可单独寻址，能单独写入。
 addressable = 可寻址的、可触达的
 forwarding address = 转寄地址
+They left no forwarding address and the post still arrives weekly.
+= 他们没留转寄地址，信件照样每周寄来。
 
 addressee
 核心：指信件、邮件、包裹的"收件人"，正式用语。
@@ -431,8 +437,14 @@ adhere
 = 标签能粘在瓶子上，油漆却粘不住湿墙。
 adhere to = 粘附于
 adhesive = 粘合剂
+The adhesive holds in the cold and gives up in a warm room.
+= 那种粘合剂冷的时候粘得住，屋里一暖就不行。
 adherence = 遵守
+Adherence to the timetable lasted until the second week.
+= 对时间表的遵守，只撑到第二周。
 adherent = 拥护者
+An adherent of that method will not be argued out of it.
+= 那套方法的拥护者，是说不动的。
 ② You must adhere to the rules and to standards nobody has written down.
 = 你必须遵守规则，还有那些没人写下来的标准。
 adhere to = 遵守

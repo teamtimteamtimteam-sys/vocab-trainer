@@ -1023,11 +1023,14 @@ function spkBtn(text, kind) {
 }
 function renderNotes(notes) {
   if (!notes.length) return "";
+  // 拓展块里「等式 + 英文例句 + 中文翻译」是一组：例句里把那条搭配本身
+  // 高亮出来，跟义项例句一个待遇。标签行会把上下文断开。
+  let lastEq = null;
   return '<div class="notes">' + notes.map(n => {
-    if (n.t === "eq")    return '<div class="eq"><span class="lhs">' + esc(n.lhs) + '</span><span class="eqs">=</span><span class="rhs">' + esc(n.rhs) + "</span></div>";
+    if (n.t === "eq")    { lastEq = n; return '<div class="eq"><span class="lhs">' + esc(n.lhs) + '</span><span class="eqs">=</span><span class="rhs">' + esc(n.rhs) + "</span></div>"; }
     if (n.t === "gloss") return '<div class="n-gloss">' + esc(n.text) + "</div>";
-    if (n.t === "label") return '<div class="n-label">' + esc(n.text) + "</div>";
-    if (n.t === "en")    return '<div class="n-en">' + esc(n.text) + "</div>";
+    if (n.t === "label") { lastEq = null; return '<div class="n-label">' + esc(n.text) + "</div>"; }
+    if (n.t === "en")    return '<div class="n-en">' + (lastEq ? hl(n.text, lastEq.lhs) : esc(n.text)) + "</div>";
     return '<div class="n-text">' + esc(n.text) + "</div>";
   }).join("") + "</div>";
 }

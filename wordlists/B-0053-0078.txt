@@ -74,7 +74,11 @@ ability
 = 她学得快，对任何慢的东西都没耐心。
 the ability to do = 做某事的能力
 able = 有能力的
+He is able to read four languages and speaks none of them.
+= 他能读四种语言，一种也不会说。
 disability = 残疾；能力欠缺
+The form asks about disability and leaves two lines for the answer.
+= 表格问及残疾情况，只留了两行填写。
 注意：不说 ability of doing。
 ② He showed great ability in mathematics and dropped it at sixteen.
 = 他数学才能出众，十六岁就不学了。
@@ -84,6 +88,8 @@ ability in = 在某方面的才能
 = 不同能力的孩子一起上课，老师要多费一倍力气。
 abilities = 各项才能（可数复数）
 mixed-ability class = 能力混合编班
+A mixed-ability class needs two teachers and usually gets one.
+= 能力混合编班需要两位老师，通常只有一位。
 ④ I'll help to the best of my ability, which may not be very far.
 = 我会竭尽所能帮忙，虽然可能帮不了多少。
 to the best of one's ability = 竭尽所能

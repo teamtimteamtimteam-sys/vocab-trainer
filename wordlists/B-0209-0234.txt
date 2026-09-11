@@ -355,6 +355,8 @@ achieve
 = 她实现了抱负，成绩优异，却谁也没告诉。
 achievement = 成就
 achievable = 可实现的
+The target is achievable and nobody in the room believes it.
+= 那个指标是能达到的，屋里没人相信。
 ② Nothing was achieved by arguing about it for the whole afternoon.
 = 为这事争了一下午，什么也没解决。
 注意：achieve 的宾语必须是正面的。

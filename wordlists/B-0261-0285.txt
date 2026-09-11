@@ -334,6 +334,8 @@ take action 一定是抽象的行动；in action 得看主语，人是在战斗�
 = 她对一家财力雄厚得多的公司提起了诉讼。
 take action = 采取行动
 legal action = 法律诉讼
+They threatened legal action twice and settled over a phone call.
+= 他们两次扬言要打官司，一通电话就和解了。
 法律支线：打官司就是在法庭上"采取的行动"。
 ④ He was killed in action three weeks before the armistice was signed.
 = 停战协定签署前三周，他阵亡了。
@@ -410,6 +412,8 @@ activate
 = 在线激活账户，警报也会一并启用。
 activation = 激活
 deactivate = 停用
+Deactivate the alarm before you open that door, not after.
+= 开那扇门之前先解除警报，不是开了再说。
 ② Heat activates the chemical and nothing happens below forty degrees.
 = 加热激活这种化学物质，四十度以下毫无反应。
 
