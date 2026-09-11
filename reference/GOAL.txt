@@ -25,8 +25,8 @@ B 词表 10060 条，词典序 a → geochemistry。A 表 3002 条。
   · 清单与进度：`python3 scripts/need-example.py --tier1`（并入短语与常用搭配）
     与 `--tier2`（词族）；status.py 末尾也会打出来。
   · 做法见 HANDOFF 第七节。例句标准跟义项例句一样，搭配本身必须原样出现在句中。
-  · 已补到 ej 段末尾（d 段、ea–ej 全清），下一段 el / em / en；
-    tier1 剩约 1397，tier2 约 849。
+  · 已补到 en 段末尾（d 段、ea–en 全清），下一段 ep / eq / er / es；
+    tier1 剩约 1189，tier2 约 849。
   · **push 策略：用户说「补完一起推」，在此之前只在本地提交。**
 
 ═══ 2026-09-08 的一次收尾（存档，别当现状读）═══

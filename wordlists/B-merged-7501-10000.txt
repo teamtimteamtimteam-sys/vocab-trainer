@@ -1797,6 +1797,8 @@ epidemiology
 = 流行病学先回答谁和哪里，之后才回答为什么。
 epidemiology = 流行病学
 study epidemiology = 学流行病学
+She trained as a nurse and went back to study epidemiology at forty.
+= 她先当的护士，四十岁又回去学流行病学。
 ② The epidemiology of that outbreak fits on one page and took a year.
 = 那次疫情的流行病学情况一页纸就写得下，可查了一年。
 the epidemiology of something = 某病的流行病学特征
@@ -1818,6 +1820,8 @@ epidural
 = 硬膜外麻醉二十分钟起效，之后一切都安静下来。
 an epidural = 硬膜外麻醉
 have an epidural = 打硬膜外麻醉
+She had an epidural and slept for the first time in three days.
+= 她打了硬膜外麻醉，三天来头一次睡着。
 ② An epidural injection goes into the space outside the spinal cord.
 = 硬膜外注射打进的是脊髓外面那个腔隙。
 an epidural injection = 硬膜外注射
@@ -1877,6 +1881,8 @@ epilepsy
 = 多数人的癫痫，靠吃药加规律作息就控制得住。
 epilepsy = 癫痫
 have epilepsy = 患癫痫
+He has epilepsy and swims only when somebody else is in the pool.
+= 他患癫痫，只在泳池里还有别人时才下水。
 ② A diagnosis of epilepsy changed which jobs he could take.
 = 确诊癫痫，改变了他能做哪些工作。
 a diagnosis of epilepsy = 癫痫的诊断
@@ -1909,6 +1915,8 @@ epiphany
 = 那一下顿悟发生在停车场，把书的后半部改掉了。
 an epiphany = 顿悟
 have an epiphany = 恍然大悟
+She had an epiphany about the ending while queueing for petrol.
+= 她排队加油时，忽然想通了结尾该怎么写。
 ② Epiphany falls on the sixth and the decorations come down the same day.
 = 主显节在一月六号，圣诞装饰当天就得撤下来。
 Epiphany = 主显节
@@ -2018,6 +2026,8 @@ epistemology
 = 认识论问的是人凭什么知道，而且急不得。
 epistemology = 认识论
 study epistemology = 研究认识论
+He came to study epistemology and left running a data team.
+= 他来研究认识论，走的时候在带一个数据团队。
 ② The epistemology of that field changed when the instruments improved.
 = 仪器一改进，那个领域的认识论也跟着变了。
 the epistemology of something = 某领域的认识论
@@ -2087,7 +2097,11 @@ epoch
 = 那个时代由一项发明开启，又由另一项终结。
 an epoch = 时代、纪元
 mark an epoch = 开启一个时代
+Two photographs from that year mark an epoch better than any treaty.
+= 那一年的两张照片，比任何条约都更能标出一个时代的开端。
 an epoch-making decision = 划时代的决定
+An epoch-making decision was taken by eleven people in a borrowed room.
+= 一个划时代的决定，是十一个人在一间借来的屋子里作出的。
 ② The Holocene is the epoch we are still arguing about naming.
 = 全新世就是我们至今还在为怎么命名而争论的那个世。
 an epoch = （地质的）世
@@ -2165,6 +2179,8 @@ equal
 = 两块切得一样大，可总有一块看着更大。
 equal = 相等的、同样的
 equal pay = 同工同酬
+Equal pay took a strike, a court case and nineteen years.
+= 同工同酬，是一场罢工、一桩官司加十九年换来的。
 ② Equal rights on paper took another sixty years to reach the workplace.
 = 纸面上的平等权利，又花了六十年才走进职场。
 equal rights = 平等权利
@@ -2204,6 +2220,8 @@ equality
 = 机会平等，许诺起来便宜，安排起来昂贵。
 equality = 平等
 equality of opportunity = 机会平等
+Equality of opportunity means nothing where the buses stop at four.
+= 公交四点就收班的地方，机会平等无从谈起。
 ② Equality before the law is the part that gets quoted and tested.
 = 法律面前人人平等，正是被反复引用又反复检验的那一条。
 equality before the law = 法律面前的平等
@@ -2270,6 +2288,8 @@ part of the equation；三是把两者等同看待这件事。可数。
 = 那个方程有两个解，只有一个能造出真桥。
 an equation = 方程、等式
 solve an equation = 解方程
+A child can solve an equation faster than most adults can set one up.
+= 小孩解方程，比多数大人把方程列出来还快。
 ② Money is part of the equation and never the whole of it.
 = 钱是这盘账里的一环，从来不是全部。
 part of the equation = 全盘考量里的一环
@@ -2280,6 +2300,8 @@ equator
 = 赤道穿过三个大洲，却没有哪个国家以它命名。
 the equator = 赤道
 cross the equator = 跨过赤道
+The ship crosses the equator at night and the crew mark it anyway.
+= 那艘船夜里跨过赤道，船员照样要庆祝一番。
 ② Days near the equator change length by minutes and not by hours.
 = 赤道附近昼长的变化以分钟计，不是以小时计。
 near the equator = 在赤道附近
@@ -2338,6 +2360,8 @@ equilibrium
 = 市场找到了一个均衡点，可谁都不喜欢它落在哪儿。
 equilibrium = 均衡、平衡
 reach an equilibrium = 达到平衡
+Two arguing departments reach an equilibrium about a week before the deadline.
+= 两个吵架的部门，大约在截止日前一周达到平衡。
 ② She lost her equilibrium for a minute and answered the next question well.
 = 她乱了一分钟，下一个问题倒答得很好。
 regain your equilibrium = 恢复镇定
@@ -2367,6 +2391,8 @@ equinox
 = 分点在二十号，可要等到调表大家才留意。
 the equinox = 分点、昼夜平分时
 the spring equinox = 春分
+The spring equinox is when the beekeepers open the hives and count.
+= 春分那天，养蜂人开箱清点。
 ② At the equinox the sun rises due east from every window on that street.
 = 分点那天，那条街每一扇窗看出去，太阳都是正东升起。
 at the equinox = 在分点那天
@@ -2379,6 +2405,8 @@ equip
 = 他们给那辆车配了冰箱，却忘了配第二把钥匙。
 equip something with something = 给某物配备某物
 be equipped with something = 配备有某物
+Every classroom is equipped with a screen and two working sockets.
+= 每间教室都配备有一块屏幕和两个能用的插座。
 ② Two years of that work equips anyone for a committee.
 = 那种活干两年，谁都能应付委员会了。
 equip somebody for something = 使某人具备应对某事的本事
@@ -2390,6 +2418,8 @@ equipment
 = 设备装了九个箱子送来，说明书只有一张。
 equipment = 设备、装备
 a piece of equipment = 一件设备
+One piece of equipment failed and the whole shift stood outside.
+= 一件设备坏了，整个班的人都站在外头。
 ② Safety equipment is checked in March and used in December.
 = 安全装备三月检查，十二月才真用上。
 safety equipment = 安全装备
@@ -2411,6 +2441,8 @@ equitable
 = 公道的分法，未必就是均分。
 an equitable split = 公道的分法
 equitable treatment = 公平对待
+Equitable treatment of the two schools meant one of them lost a hall.
+= 对那两所学校的公平对待，结果是其中一所少了一个礼堂。
 ② The court looked for an equitable outcome and split the costs.
 = 法院寻求一个公道的结果，把讼费分摊了。
 an equitable outcome = 公道的结果
@@ -2453,6 +2485,8 @@ equivalence
 = 认定那两种资格等效，委员会用了三年。
 equivalence = 等同、等价
 the equivalence of something = 某物之间的等价关系
+The equivalence of the two degrees is accepted here and disputed abroad.
+= 那两个学位之间的等价关系，在这里被承认，在国外有争议。
 ② Equivalence is not sameness and the difference matters at the border.
 = 等价不等于相同，这个差别到了海关就要紧了。
 establish equivalence = 确立等效关系
@@ -2514,6 +2548,8 @@ era
 = 那个时代随一次辞职和一份极短的声明结束了。
 an era = 时代
 the end of an era = 一个时代的终结
+When the last ferry sailed, the whole town called it the end of an era.
+= 末班渡轮开走那天，全镇人都说这是一个时代的终结。
 ② Photographs from that era all have the same colour cast.
 = 那个年代的照片，偏色都一个样。
 from that era = 那个年代的
@@ -2524,6 +2560,8 @@ eradicate
 = 天花被根除了，认定证书又拖了两年。
 eradicate a disease = 根除一种疾病
 be eradicated = 被根除
+Rats were eradicated from the island and the seabirds came back within five years.
+= 岛上的老鼠被根除，海鸟五年之内就回来了。
 ② You cannot eradicate a habit by putting up a notice about it.
 = 贴张告示，是根除不了一个习惯的。
 eradicate something = 彻底消除某物
@@ -2545,6 +2583,8 @@ erase
 = 她把黑板擦了，下一堂课的人带着同一张图进来。
 erase something = 擦掉、抹去某物
 erase a recording = 抹掉一段录音
+Somebody erased the recording before anybody had made a transcript.
+= 还没人整理出文字稿，就有人把那段录音抹掉了。
 ② Two years abroad did not erase the accent and softened it a little.
 = 在国外那两年没把口音抹掉，倒让它软了一点。
 erase a memory = 抹去记忆
@@ -2598,10 +2638,14 @@ erect
 = 他七十岁站得笔直，还说这得怪一辈子的烂椅子。
 stand erect = 站得笔直
 erect = 直立的
+The dog's ears go erect a full second before the gate opens.
+= 大门开之前整整一秒，那条狗的耳朵就竖直了。
 ② They erected the marquee in the rain and took it down in the rain.
 = 他们冒雨搭起大棚，又冒雨把它拆掉。
 erect a building = 建起一栋楼
 erect a tent = 搭起帐篷
+Two of them erected a tent in the dark and slept in the car.
+= 他们俩摸黑搭起帐篷，最后还是睡在车里。
 
 erectile
 核心：（医学）勃起的、能勃起的：说组织在充血后变硬 ——
@@ -2723,6 +2767,8 @@ erosion
 = 冲蚀把小路带走了，扶手孤零零悬在空中。
 erosion = 侵蚀
 soil erosion = 水土流失
+Soil erosion takes a century to notice and one wet season to finish.
+= 水土流失要一个世纪才看得出来，一个雨季就收了尾。
 ② The erosion of trust was slow and the collapse took one afternoon.
 = 信任是慢慢磨没的，垮掉只用了一个下午。
 the erosion of something = 对某物的逐渐削弱
@@ -2734,6 +2780,8 @@ erotic
 = 那本小说有两章写情欲，其余部分沉闷。
 erotic = 情欲的
 an erotic poem = 情色诗
+An erotic poem from that century survived because monks kept copying it.
+= 那个世纪的一首情色诗流传了下来，因为修士们一直在抄它。
 ② Erotic art was locked in a back room for a century.
 = 情色艺术在后间里锁了一个世纪。
 erotic art = 情色艺术
@@ -2801,6 +2849,8 @@ erratic
 = 他状态飘忽，人们记住的是那两场好球。
 erratic = 飘忽不定的
 erratic behaviour = 反复无常的举动
+The erratic behaviour turned out to be a thyroid problem, not a temper.
+= 那些反复无常的举动，后来查出是甲状腺的毛病，不是脾气。
 ② The heating is erratic and warmest in the room nobody uses.
 = 暖气时好时坏，最暖的是没人用的那间屋。
 be erratic = 不稳定
@@ -2829,6 +2879,8 @@ erroneous
 = 那个数字是错的，却已经被四份报告引用。
 erroneous = 错误的
 an erroneous assumption = 错误的假定
+The plan rests on an erroneous assumption about how far people will walk.
+= 那个方案立在一个错误的假定上：以为人肯走多远。
 ② An erroneous entry in one file becomes the truth in the next three.
 = 一份档案里的错误记录，到后面三份里就成了事实。
 an erroneous belief = 站不住的看法
@@ -2848,6 +2900,8 @@ error
 = 代码里的一个错误，找了九个钟头，改只改了一个字符。
 an error = 错误
 a spelling error = 拼写错误
+A spelling error on the sign lasted nine years and became the nickname.
+= 招牌上一个拼写错误挂了九年，后来成了那地方的外号。
 ② The result is inside the margin of error and outside the headline.
 = 那个结果落在误差范围之内，落在标题之外。
 a margin of error = 误差范围
@@ -2898,6 +2952,8 @@ erudite
 = 导言写得博学，真功夫其实显在索引里。
 erudite = 博学的
 an erudite scholar = 学问深厚的学者
+An erudite scholar wrote the footnotes and a journalist wrote the title.
+= 脚注是一位学问深厚的学者写的，书名是一位记者起的。
 ② She is erudite about three centuries and hopeless with a timetable.
 = 她对三个世纪的事了如指掌，看时刻表就没辙。
 be erudite about something = 在某方面学识渊博
@@ -2932,6 +2988,8 @@ eruption
 = 那次喷发持续九个钟头，机场关了一周。
 a volcanic eruption = 火山喷发
 an eruption = 喷发
+An eruption that nobody saw changed the weather across half the world.
+= 一次没人看见的喷发，改变了半个世界的天气。
 ② An eruption of laughter in the middle of that scene ruined the take.
 = 那场戏演到一半忽然爆出笑声，这一条就废了。
 an eruption of something = 某种情绪的骤然爆发
@@ -2982,6 +3040,8 @@ escalate
 = 那场争执从一个车位升级成了一桩地界官司。
 escalate = 升级、恶化
 escalate into something = 演变成某种更糟的局面
+A complaint about noise escalated into a dispute about the whole lease.
+= 一桩噪音投诉演变成了一场关于整份租约的纠纷。
 ② Costs escalated in the second year and the design stayed the same.
 = 第二年成本猛涨，设计一点没变。
 escalate costs = 使成本猛增
@@ -3157,6 +3217,8 @@ escort
 = 那支车队有警车护送，照样要走六个钟头。
 a police escort = 警车护送
 an escort = 护卫
+An escort waited at the door and walked her to the car.
+= 一名护卫在门口等着，陪她走到车边。
 ② He escorted her to the door and stood there until the taxi came.
 = 他把她送到门口，一直站到出租车来。
 escort somebody somewhere = 把某人送到某处
@@ -3216,6 +3278,8 @@ esoteric
 = 那场技术争论深奥冷僻，它牵动的那些钱数可一点不冷僻。
 esoteric = 深奥冷僻的
 esoteric knowledge = 内行才懂的知识
+Esoteric knowledge about tides keeps four families in that village employed.
+= 关于潮汐的一套内行知识，养活着那个村子的四户人家。
 ② His interests are esoteric and he explains them to any stranger who slows down.
 = 他的爱好冷僻，路上哪个陌生人走慢一点，他都要讲上一遍。
 esoteric interests = 冷僻的爱好
@@ -3284,6 +3348,8 @@ espionage
 = 商业间谍，证明它比干它还费钱。
 espionage = 间谍活动
 industrial espionage = 商业间谍活动
+Industrial espionage usually walks out on a memory stick, not through a window.
+= 商业间谍活动多半是靠一支存储棒带出去的，不是翻窗户。
 ② The case turned on espionage that both sides admitted and neither named.
 = 那桩案子的关键是双方都承认、又都不点名的谍报活动。
 be accused of espionage = 被控从事间谍活动
@@ -3354,6 +3420,8 @@ essay
 = 那篇作文周五交，其中一半是引文。
 an essay = 作文、论文
 write an essay on something = 就某题写一篇文章
+She wrote an essay on silence and read it aloud to the class.
+= 她就沉默写了一篇文章，还在班上朗读了出来。
 ② His essays read like letters to somebody who has already agreed.
 = 他的随笔读着像写给一个早已同意他的人的信。
 an essay = 随笔
@@ -3380,6 +3448,8 @@ essence
 = 那份工作的本质，就是有礼貌地、反复地说不。
 the essence of something = 某物的本质
 in essence = 本质上、说到底
+In essence they were asking for the same thing in two different tones.
+= 说到底，他们要的是同一样东西，只是用了两种语气。
 ② Two drops of vanilla essence do what a whole pod cannot.
 = 两滴香草精能顶一整根香草荚做不到的事。
 vanilla essence = 香草精
@@ -3395,6 +3465,8 @@ essential
 = 第二把钥匙必不可少，可四年了没人去配。
 be essential = 必不可少
 be essential to something = 对某事必不可少
+Cold water is essential to that recipe and hard to get in August.
+= 冷水对那道方子必不可少，八月里又难弄到。
 ② The essential difference is who pays when it goes wrong.
 = 根本的区别在于出了事谁掏钱。
 the essential difference = 根本的区别
@@ -3492,6 +3564,8 @@ esteem
 = 连不同意她的人也很敬重她。
 hold somebody in high esteem = 对某人极为敬重
 esteem = 敬重
+The esteem of one's own trade is worth more than any prize.
+= 来自同行的敬重，比任何奖项都值钱。
 ② Self-esteem is not the same as confidence and the two get muddled.
 = 自尊跟自信不是一回事，这两样常被搅在一起。
 self-esteem = 自尊、自我评价
@@ -3548,6 +3622,8 @@ estimate that... = 估计…
 = 报价单周二到，账单来的时候是它的两倍。
 an estimate = 估价单、估计数
 a rough estimate = 粗略的估计
+His rough estimate turned out to be within ten pounds of the bill.
+= 他那个粗略的估计，跟账单只差了十镑。
 
 estimation
 核心：两支。一是判断、看法：in my estimation 是依我看；
@@ -3559,6 +3635,8 @@ in somebody's estimation = 依某人看
 = 估算损失花的时间，比修还长。
 the estimation of something = 对某物的估算
 a conservative estimation = 保守的估算
+A conservative estimation put the crowd at nine thousand; the police said twice that.
+= 保守的估算说人群有九千，警方说的是两倍。
 
 Estonian
 核心：爱沙尼亚的、爱沙尼亚人、爱沙尼亚语：形容词与名词同形。
@@ -3575,6 +3653,8 @@ estranged
 = 她那位断了往来的哥哥一年写一次，卡片从不署名。
 an estranged brother = 已疏远的兄弟
 an estranged wife = 分居的妻子
+An estranged wife inherited the house because nobody had changed the will.
+= 一位分居的妻子继承了那栋房子，因为没人改过遗嘱。
 ② His estranged wife still runs the business they started together.
 = 他那位分居的妻子，还在经营他们一起开的生意。
 be estranged from somebody = 与某人断了往来
@@ -3588,6 +3668,8 @@ an estrangement = 一段疏远
 = 那家人的疏远，跟瓷器一起代代相传。
 estrangement from somebody = 与某人的疏远
 a long estrangement = 长期的疏远
+A long estrangement ends more often over a practical matter than an apology.
+= 长期的疏远多半是因为一件实际的事才了结的，不是因为一句道歉。
 
 estrogen
 核心：（美式）雌激素：主要的女性性激素，英式拼 oestrogen。不可数。
@@ -3595,6 +3677,8 @@ estrogen
 = 雌激素是好几年里慢慢降下来的，症状却一起到。
 estrogen = 雌激素
 estrogen therapy = 雌激素治疗
+Estrogen therapy helped the sleep first and everything else took months.
+= 雌激素治疗最先改善的是睡眠，别的都要几个月。
 ② Estrogen levels are read alongside two other numbers and never alone.
 = 雌激素水平要跟另外两个数字一起看，从不单看。
 estrogen levels = 雌激素水平
@@ -3605,6 +3689,8 @@ estrus
 = 发情期的母牛坐立不安，牛群比农场主先知道。
 estrus = 发情期
 the estrus cycle = 发情周期
+The estrus cycle is tracked with a collar that counts steps.
+= 发情周期靠一个计步的项圈来追踪。
 ② The cycle brings estrus every three weeks in that species.
 = 那个物种的周期，是每三周发情一次。
 be in estrus = 处于发情期
@@ -3615,6 +3701,8 @@ estuary
 = 那个河口湾退潮时是一片泥滩，涨潮时是一英里宽的水面。
 an estuary = 河口湾
 an estuary bird = 河口湾的水鸟
+An estuary bird feeds on the falling tide and roosts on the rising one.
+= 河口湾的水鸟退潮时觅食，涨潮时歇脚。
 ② Birds use the estuary in winter and the mud is why.
 = 冬天鸟群靠这片河口湾过活，靠的正是那片泥。
 the mouth of an estuary = 河口湾的出口

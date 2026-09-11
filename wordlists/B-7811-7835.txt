@@ -4,6 +4,8 @@ estrus
 = 发情期的母牛坐立不安，牛群比农场主先知道。
 estrus = 发情期
 the estrus cycle = 发情周期
+The estrus cycle is tracked with a collar that counts steps.
+= 发情周期靠一个计步的项圈来追踪。
 ② The cycle brings estrus every three weeks in that species.
 = 那个物种的周期，是每三周发情一次。
 be in estrus = 处于发情期
@@ -14,6 +16,8 @@ estuary
 = 那个河口湾退潮时是一片泥滩，涨潮时是一英里宽的水面。
 an estuary = 河口湾
 an estuary bird = 河口湾的水鸟
+An estuary bird feeds on the falling tide and roosts on the rising one.
+= 河口湾的水鸟退潮时觅食，涨潮时歇脚。
 ② Birds use the estuary in winter and the mud is why.
 = 冬天鸟群靠这片河口湾过活，靠的正是那片泥。
 the mouth of an estuary = 河口湾的出口

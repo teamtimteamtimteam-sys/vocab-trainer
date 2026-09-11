@@ -43,6 +43,8 @@ erratic
 = 他状态飘忽，人们记住的是那两场好球。
 erratic = 飘忽不定的
 erratic behaviour = 反复无常的举动
+The erratic behaviour turned out to be a thyroid problem, not a temper.
+= 那些反复无常的举动，后来查出是甲状腺的毛病，不是脾气。
 ② The heating is erratic and warmest in the room nobody uses.
 = 暖气时好时坏，最暖的是没人用的那间屋。
 be erratic = 不稳定
@@ -71,6 +73,8 @@ erroneous
 = 那个数字是错的，却已经被四份报告引用。
 erroneous = 错误的
 an erroneous assumption = 错误的假定
+The plan rests on an erroneous assumption about how far people will walk.
+= 那个方案立在一个错误的假定上：以为人肯走多远。
 ② An erroneous entry in one file becomes the truth in the next three.
 = 一份档案里的错误记录，到后面三份里就成了事实。
 an erroneous belief = 站不住的看法
@@ -90,6 +94,8 @@ error
 = 代码里的一个错误，找了九个钟头，改只改了一个字符。
 an error = 错误
 a spelling error = 拼写错误
+A spelling error on the sign lasted nine years and became the nickname.
+= 招牌上一个拼写错误挂了九年，后来成了那地方的外号。
 ② The result is inside the margin of error and outside the headline.
 = 那个结果落在误差范围之内，落在标题之外。
 a margin of error = 误差范围
@@ -140,6 +146,8 @@ erudite
 = 导言写得博学，真功夫其实显在索引里。
 erudite = 博学的
 an erudite scholar = 学问深厚的学者
+An erudite scholar wrote the footnotes and a journalist wrote the title.
+= 脚注是一位学问深厚的学者写的，书名是一位记者起的。
 ② She is erudite about three centuries and hopeless with a timetable.
 = 她对三个世纪的事了如指掌，看时刻表就没辙。
 be erudite about something = 在某方面学识渊博
@@ -174,6 +182,8 @@ eruption
 = 那次喷发持续九个钟头，机场关了一周。
 a volcanic eruption = 火山喷发
 an eruption = 喷发
+An eruption that nobody saw changed the weather across half the world.
+= 一次没人看见的喷发，改变了半个世界的天气。
 ② An eruption of laughter in the middle of that scene ruined the take.
 = 那场戏演到一半忽然爆出笑声，这一条就废了。
 an eruption of something = 某种情绪的骤然爆发
@@ -224,6 +234,8 @@ escalate
 = 那场争执从一个车位升级成了一桩地界官司。
 escalate = 升级、恶化
 escalate into something = 演变成某种更糟的局面
+A complaint about noise escalated into a dispute about the whole lease.
+= 一桩噪音投诉演变成了一场关于整份租约的纠纷。
 ② Costs escalated in the second year and the design stayed the same.
 = 第二年成本猛涨，设计一点没变。
 escalate costs = 使成本猛增

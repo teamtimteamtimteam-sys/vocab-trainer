@@ -107,6 +107,8 @@ escort
 = 那支车队有警车护送，照样要走六个钟头。
 a police escort = 警车护送
 an escort = 护卫
+An escort waited at the door and walked her to the car.
+= 一名护卫在门口等着，陪她走到车边。
 ② He escorted her to the door and stood there until the taxi came.
 = 他把她送到门口，一直站到出租车来。
 escort somebody somewhere = 把某人送到某处
@@ -166,6 +168,8 @@ esoteric
 = 那场技术争论深奥冷僻，它牵动的那些钱数可一点不冷僻。
 esoteric = 深奥冷僻的
 esoteric knowledge = 内行才懂的知识
+Esoteric knowledge about tides keeps four families in that village employed.
+= 关于潮汐的一套内行知识，养活着那个村子的四户人家。
 ② His interests are esoteric and he explains them to any stranger who slows down.
 = 他的爱好冷僻，路上哪个陌生人走慢一点，他都要讲上一遍。
 esoteric interests = 冷僻的爱好
@@ -234,6 +238,8 @@ espionage
 = 商业间谍，证明它比干它还费钱。
 espionage = 间谍活动
 industrial espionage = 商业间谍活动
+Industrial espionage usually walks out on a memory stick, not through a window.
+= 商业间谍活动多半是靠一支存储棒带出去的，不是翻窗户。
 ② The case turned on espionage that both sides admitted and neither named.
 = 那桩案子的关键是双方都承认、又都不点名的谍报活动。
 be accused of espionage = 被控从事间谍活动

@@ -93,6 +93,8 @@ epistemology
 = 认识论问的是人凭什么知道，而且急不得。
 epistemology = 认识论
 study epistemology = 研究认识论
+He came to study epistemology and left running a data team.
+= 他来研究认识论，走的时候在带一个数据团队。
 ② The epistemology of that field changed when the instruments improved.
 = 仪器一改进，那个领域的认识论也跟着变了。
 the epistemology of something = 某领域的认识论
@@ -162,7 +164,11 @@ epoch
 = 那个时代由一项发明开启，又由另一项终结。
 an epoch = 时代、纪元
 mark an epoch = 开启一个时代
+Two photographs from that year mark an epoch better than any treaty.
+= 那一年的两张照片，比任何条约都更能标出一个时代的开端。
 an epoch-making decision = 划时代的决定
+An epoch-making decision was taken by eleven people in a borrowed room.
+= 一个划时代的决定，是十一个人在一间借来的屋子里作出的。
 ② The Holocene is the epoch we are still arguing about naming.
 = 全新世就是我们至今还在为怎么命名而争论的那个世。
 an epoch = （地质的）世
@@ -240,6 +246,8 @@ equal
 = 两块切得一样大，可总有一块看着更大。
 equal = 相等的、同样的
 equal pay = 同工同酬
+Equal pay took a strike, a court case and nineteen years.
+= 同工同酬，是一场罢工、一桩官司加十九年换来的。
 ② Equal rights on paper took another sixty years to reach the workplace.
 = 纸面上的平等权利，又花了六十年才走进职场。
 equal rights = 平等权利
@@ -279,6 +287,8 @@ equality
 = 机会平等，许诺起来便宜，安排起来昂贵。
 equality = 平等
 equality of opportunity = 机会平等
+Equality of opportunity means nothing where the buses stop at four.
+= 公交四点就收班的地方，机会平等无从谈起。
 ② Equality before the law is the part that gets quoted and tested.
 = 法律面前人人平等，正是被反复引用又反复检验的那一条。
 equality before the law = 法律面前的平等
