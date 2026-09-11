@@ -198,6 +198,8 @@ be adulterated with = 掺入
 adulterated food = 掺假食品
 词族：
 adulteration = 掺假
+The adulteration of the flour was found by a baker, not an inspector.
+= 面粉掺假是一位面包师发现的，不是检查员。
 反义词：
 unadulterated = 纯粹的；十足的
 注意：unadulterated 常用来加强语气，
@@ -217,7 +219,11 @@ grounds for divorce = 离婚理由
 词族：
 adulterer = 通奸者（男）
 adulteress = 通奸者（女）
+The old law names the adulteress and says nothing about the man.
+= 那部旧法律点名通奸的女方，对男方只字不提。
 adulterous = 通奸的
+An adulterous couple in that novel are punished by the weather.
+= 那部小说里一对通奸的男女，受的罚是天气。
 近义对照：
 adultery = 通奸（法律用语）
 affair = 婚外情（日常）
@@ -375,6 +381,8 @@ advantaged = 条件优越的
 词族：
 advantageous = 有利的
 disadvantaged = 处境不利的
+Disadvantaged pupils get a grant and the forms take a fortnight.
+= 处境不利的学生能领补助，那些表格要填两个星期。
 
 advantageous
 核心：指"有利的、有好处的"，正式。介词用 to（对谁有利）。

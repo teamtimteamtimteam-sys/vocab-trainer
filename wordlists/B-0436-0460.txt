@@ -131,6 +131,8 @@ aeronautical engineering = 航空工程
 词族：
 aeronautical = 航空学的
 astronautics = 航天学
+Aeronautics pays the bills and astronautics gets the photographs.
+= 航空学挣钱养活人，航天学出照片。
 注意区别：
 aeronautics = 航空（大气层内）
 astronautics = 航天（大气层外）
@@ -218,6 +220,8 @@ aesthete
 aesthetic = 审美的
 aesthetics = 美学
 aestheticism = 唯美主义
+Aestheticism lasted one decade and furnished four museums.
+= 唯美主义只热了十年，却填满了四座博物馆。
 注意拼写：
 aesthete = 审美家（英式）
 esthete = 审美家（美式）

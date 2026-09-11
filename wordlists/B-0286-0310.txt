@@ -80,6 +80,8 @@ actuarial exam = 精算考试
 actuary → actuaries
 词族：
 actuarial = 精算的
+An actuarial table gives you a number and no comfort whatever.
+= 精算表给你一个数字，一点安慰也不给。
 注意发音：/ˈæktʃuəri/
 
 actuate
@@ -165,6 +167,8 @@ acupuncture
 acupuncture treatment = 针灸治疗
 词族：
 acupuncturist = 针灸师
+The acupuncturist talks for ten minutes and works for forty.
+= 那位针灸师说十分钟话，扎四十分钟针。
 注意发音：/ˈækjupʌŋktʃə(r)/
 构词：acu- 针 + puncture 刺
 
@@ -441,6 +445,8 @@ adaptable to = 可适应于
 词族：
 adapt = 适应
 adaptability = 适应力
+Adaptability is what the advertisement wants and nobody can test for it.
+= 广告上要的是适应力，可谁也测不出来。
 近义对照：
 adaptable = 适应力强（可变通）
 flexible = 灵活的（不固执）

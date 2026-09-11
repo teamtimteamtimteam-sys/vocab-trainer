@@ -123,6 +123,8 @@ absolutely not = 断然拒绝
 词族：
 absolute = 绝对的
 absoluteness = 绝对性
+The absoluteness of that rule lasted until the first hard case.
+= 那条规矩的绝对性，撑到头一个棘手案子就完了。
 
 absolution
 核心：宗教用语，指神职人员对忏悔者的"赦罪"。引申义指"免除责任、
@@ -156,6 +158,8 @@ moral absolutism = 道德绝对主义
 royal absolutism = 君主专制
 词族：
 absolutist = 专制主义者
+An absolutist ruler needs a bureaucracy and resents it entirely.
+= 专制君主离不开一套官僚班子，又打心眼里厌恶它。
 absolute = 绝对的
 反义词：
 relativism = 相对主义
@@ -236,6 +240,8 @@ absorbent cotton = 脱脂棉
 词族：
 absorb = 吸收
 absorbency = 吸收性
+The absorbency drops after four washes and the packet says otherwise.
+= 洗四次之后吸收性就下降，包装上写的可不是这样。
 反义词：
 water-repellent = 防水的
 

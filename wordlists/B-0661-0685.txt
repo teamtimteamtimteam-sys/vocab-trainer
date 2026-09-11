@@ -65,6 +65,8 @@ enter through the airlock = 经气闸进入
 depressurize = 泄压
 词族：
 lock = 闸
+The lock takes nine minutes to fill and the crew make tea.
+= 那道闸要九分钟才灌满，船员趁这工夫泡茶。
 
 airmail
 核心：指"航空邮寄"这种方式，不可数。
@@ -303,6 +305,8 @@ get airtime = 获得播出时间
 词族：
 air = 播出
 prime time = 黄金时段
+Prime time is when the fewest interesting things are on.
+= 黄金时段，恰恰是有意思的东西最少的时候。
 近义对照：
 airtime = 播出时长
 coverage = 报道量（媒体关注）
@@ -387,6 +391,8 @@ airy promises = 空头承诺
 airless = 不通风的
 词族：
 airily = 满不在乎地
+He waved airily at the paperwork and left it for somebody else.
+= 他满不在乎地朝那堆文件挥挥手，留给别人去办。
 常用搭配：
 airy-fairy = 不切实际的（英式口语）
 The plan is airy-fairy and the costings are on one side of a card.

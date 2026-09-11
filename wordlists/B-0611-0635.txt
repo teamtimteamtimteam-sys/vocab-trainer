@@ -230,6 +230,8 @@ air con = 空调（英式口语简称）
 AC = 空调（美式口语简称）
 词族：
 air-conditioned = 有空调的
+The air-conditioned room is four degrees colder than anybody wants.
+= 那间有空调的屋子，比谁想要的都低四度。
 注意：设备本身叫 air conditioner。
 
 air-dry

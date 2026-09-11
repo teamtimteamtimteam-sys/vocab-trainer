@@ -63,6 +63,8 @@ play the accordion = 拉手风琴
 accordion-style = 折叠伸缩式的
 词族：
 accordionist = 手风琴手
+An accordionist plays four tunes on that platform and two well.
+= 那个站台上的手风琴手会拉四支曲子，两支拉得好。
 注意发音：/əˈkɔːdiən/
 
 accost
@@ -359,6 +361,8 @@ accretion disc = 吸积盘（天文）
 an accretion of = …的层层累积
 词族：
 accrete = 逐层积聚
+Sand accretes on one side of the harbour and vanishes from the other.
+= 沙子在港口这一侧逐层积起，另一侧却在消失。
 近义对照：
 accretion = 层层添加（缓慢附着）
 accumulation = 积累（数量增多）
@@ -380,6 +384,8 @@ accrue to = 归属于
 accrued leave = 累积假期
 词族：
 accrual = 应计项目
+The accrual sits on the balance sheet until somebody actually pays.
+= 那笔应计项目一直挂在资产负债表上，直到真有人付钱。
 近义对照：
 accrue = 累积（利息、权益，自动增长）
 accumulate = 积累（通用）
@@ -441,6 +447,8 @@ snow accumulation = 积雪量
 词族：
 accumulate = 积累
 accumulative = 累积的
+The accumulative effect of nine small delays is one missed connection.
+= 九次小延误的累积效应，就是错过一次转乘。
 
 accumulator
 核心：两条线：技术上的"蓄电池、储能装置"，和英式博彩里的

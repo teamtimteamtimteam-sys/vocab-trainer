@@ -192,6 +192,8 @@ abrasion resistance = 耐磨性
 词族：
 abrasive = 有磨蚀性的；刺人的
 abrade = 磨损
+Rope will abrade a gunwale in a season and nobody notices.
+= 绳子一个季度就能把船舷磨出槽来，没人留意。
 近义对照：
 abrasion = 擦伤（表皮）
 laceration = 撕裂伤

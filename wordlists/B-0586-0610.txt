@@ -136,6 +136,8 @@ crop yield = 作物产量
 agronomist = 农艺师
 词族：
 agronomic = 农学的
+An agronomic study of that valley took nine years and one drought.
+= 对那条山谷的农学研究做了九年，中间赶上一次旱灾。
 构词：agro- 田地 + -nomy 学科
 同类：economy、astronomy
 
