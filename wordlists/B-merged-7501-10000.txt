@@ -5609,7 +5609,11 @@ exes = 前任们
 = 教务长以职务身份列席评审组，只在票数相同时投票。
 ex officio = 因职位而当然（列席、任职）
 an ex gratia payment = 通融性支付（不代表认责）
+The airline made an ex gratia payment and admitted nothing at all.
+= 那家航空公司做了一笔通融性支付，什么也没承认。
 a ruling ex cathedra = 以权威身份作出的裁断
+A ruling ex cathedra ends the argument and starts a longer one.
+= 以权威身份作出的裁断了结一场争论，又引出一场更长的。
 ④ An ex libris label on the flyleaf gives a name that the catalogue does not.
 = 扉页上的藏书票写着一个名字，目录里可查不到。
 ex libris = 藏书票上的「某某藏书」
@@ -5620,7 +5624,11 @@ be ex-directory = 号码不列入电话簿
 = 那家俱乐部只对退役军人家庭开放，酒吧六点开门。
 ex-service = 退役的、退伍军人的
 an ex-serviceman = 退伍男军人
+An ex-serviceman runs the allotments and keeps a waiting list of nine.
+= 一位退伍男军人管着那片市民菜园，手里排着九个人的等候名单。
 an ex-servicewoman = 退伍女军人
+An ex-servicewoman trained half the drivers in that depot.
+= 那个车场里一半的司机，是一位退伍女军人带出来的。
 
 exacerbate
 核心：（正式）使恶化、加剧：让本来就不好的情况更糟。名词 exacerbation。
@@ -5648,6 +5656,8 @@ exact
 = 确切数字谁也不知道，倒有三个人引用它。
 the exact number = 确切的数字
 the exact opposite = 恰恰相反的东西
+He did the exact opposite of what the label said and it worked.
+= 他做的跟标签上写的恰恰相反，居然成了。
 ② The delay exacted a price that the contract did not mention.
 = 那次延误索去的代价，合同里并没写。
 exact a price = 索取代价
@@ -5656,6 +5666,8 @@ exact a price = 索取代价
 = 火车七点整开，站台上那个钟走得慢。
 exactly = 正好、确切地
 exactly the same = 一模一样
+Two witnesses used exactly the same phrase and neither had heard the other.
+= 两位证人用了一模一样的措辞，谁也没听过对方说话。
 ④ 'So nobody checked?' 'Exactly.'
 = 「这么说没人核对过？」「正是。」
 exactly = 正是、没错
@@ -5716,6 +5728,8 @@ exaggerated
 = 那些报道夸大了，火倒是真的。
 be exaggerated = 被夸大
 an exaggerated claim = 夸大的说法
+An exaggerated claim on the box costs less than a lawyer reading it.
+= 包装盒上一句夸大的说法，比请律师看一遍还便宜。
 ② He made an exaggerated bow and knocked over the water jug.
 = 他夸张地鞠了一躬，把水壶碰倒了。
 an exaggerated gesture = 夸张的动作
@@ -5772,7 +5786,11 @@ exam
 = 那场考试三个钟头，最后一题占三分之一的分。
 an exam = 考试
 take an exam = 参加考试
+He took an exam in a language he had studied for eleven weeks.
+= 他用一门只学了十一周的语言参加了考试。
 pass an exam = 考试及格
+You pass an exam by answering the question asked, not the one prepared.
+= 考试及格靠的是回答人家问的题，不是回答自己准备好的那道。
 ② She failed the exam twice and teaches the subject now.
 = 那门考试她挂过两回，如今在教这门课。
 fail an exam = 考试不及格
@@ -5787,6 +5805,8 @@ an examination = 考试
 = 细看之下，那个签名用的是另一种墨水。
 on closer examination = 细看之下
 close examination = 仔细的查验
+Close examination of the roof showed two slates and a bird's nest.
+= 仔细查验屋顶，看出两片瓦和一个鸟窝。
 ③ The examination took ten minutes and the waiting took two hours.
 = 那次体检十分钟，等了两个钟头。
 a medical examination = 体格检查
@@ -5798,6 +5818,8 @@ examine
 = 他们查了三个星期的账，找出一栏是错的。
 examine something = 仔细查看某物
 examine the evidence = 审查证据
+The jury examined the evidence for four days and asked for one map.
+= 陪审团审查证据审了四天，只要了一张地图。
 ② The doctor examined her knee and asked about the other one.
 = 医生检查了她的膝盖，问的却是另一条腿。
 examine a patient = 给病人做检查
@@ -5829,10 +5851,14 @@ make an example of somebody 是拿某人开刀儆戒。
 = 举一个例子，屋里的人能就它争一个钟头。
 an example = 例子
 for example = 例如
+Take the ferry timetable, for example: it has not changed since 1994.
+= 就拿渡轮时刻表来说：从一九九四年起就没变过。
 ② She sets an example by doing the job nobody signed up for.
 = 她去做那件没人报名的活儿，以身作则。
 set an example = 树立榜样
 follow somebody's example = 效法某人
+Two juniors followed her example and one of them got promoted.
+= 两个年轻人效法她，其中一个升了职。
 ③ They made an example of one supplier and the rest paid on time.
 = 他们拿一家供应商开刀儆戒，其余的都按时付了款。
 make an example of somebody = 拿某人做儆戒
@@ -5881,6 +5907,8 @@ exasperation
 = 她的恼火显在标点上，没显在措辞上。
 exasperation = 恼火、无奈
 in exasperation = 恼火之下
+In exasperation she rang the number on the poster and got a fax.
+= 恼火之下她打了海报上的电话，接通的是一台传真机。
 ② In exasperation he took the door off its hinges.
 = 一气之下，他把门从铰链上卸了下来。
 a note of exasperation = 一丝无奈的口气
@@ -5923,6 +5951,8 @@ exceed
 = 最后那张账单，比施工方的估价高出大约三分之一。
 exceed something = 超过某数
 exceed the speed limit = 超速
+A van that never exceeds the speed limit takes an extra hour.
+= 一辆从不超速的货车，要多走一个钟头。
 ② The result exceeded every expectation and nobody had written those expectations down.
 = 那个结果超出了所有预期，可那些预期谁也没白纸黑字写下来过。
 exceed expectations = 超出预期
@@ -5945,6 +5975,8 @@ excel
 = 那份工作里别人都躲的部分，她做得最好。
 excel at something = 在某方面出色
 excel in something = 擅长某事
+He excels in exams and freezes in anything that resembles a conversation.
+= 他考试擅长，一碰到像谈话的场合就僵住。
 ② He excelled himself and burnt only one of the four pans.
 = 他超常发挥，四口锅里只烧糊了一口。
 excel yourself = 超常发挥
@@ -5956,6 +5988,8 @@ excellence
 = 那一行要做到出色，得十年，外加一位好师傅。
 excellence = 卓越
 academic excellence = 学业上的优异
+Academic excellence gets the plaque and the sports team gets the coach.
+= 学业上的优异换来一块牌匾，运动队换来一辆大巴。
 ② He is the committee man par excellence and has never chaired one.
 = 他是典型的委员会型人物，却从没当过主席。
 par excellence = 首屈一指的
@@ -5976,6 +6010,8 @@ excellent
 = 那儿的菜极好，服务全看运气。
 excellent = 极好的
 an excellent idea = 极好的主意
+It was an excellent idea in June and an expensive one by October.
+= 那在六月是个极好的主意，到十月就是个昂贵的主意了。
 ② 'They said yes.' 'Excellent.'
 = 「他们答应了。」「太好了。」
 excellent = 好极了（表示赞许）
@@ -5997,6 +6033,8 @@ except
 = 除了看门的，人人都有一把钥匙，而他手里全部都有。
 except = 除…之外
 except for something = 除某物之外
+The house is perfect except for a staircase that turns the wrong way.
+= 那房子哪儿都好，除了一道拐错方向的楼梯。
 ② I would walk, except that the last stretch has no pavement.
 = 我本想走过去，只是最后那段没有人行道。
 except that... = 只是…
@@ -6022,10 +6060,14 @@ exception
 = 有一个例外，写在脚注里。
 an exception = 例外
 make an exception = 破一次例
+The librarian made an exception once and the book came back in pieces.
+= 图书管理员破过一次例，那本书回来时散了架。
 ② With the exception of one afternoon, it rained all week.
 = 除了一个下午，那一周都在下雨。
 with the exception of something = 除某物之外
 without exception = 无一例外
+Every one of them, without exception, said the same thing about the coffee.
+= 他们每一个，无一例外，对那咖啡说了同样的话。
 ③ She took exception to the word and not to the decision.
 = 她不满的是那个词，不是那个决定。
 take exception to something = 对某事表示不满
@@ -6055,6 +6097,8 @@ excerpt
 = 那段节选放两分钟，把结局给漏了。
 an excerpt = 节选
 an excerpt from something = 从某处摘出的一段
+An excerpt from the diary was read aloud without anybody asking her.
+= 那本日记里摘出的一段被当众念了出来，没人问过她。
 ② The passage was excerpted in a magazine and read by more people than the book.
 = 那一段被杂志摘登，读它的人比读那本书的还多。
 be excerpted from something = 摘自某处
@@ -6067,6 +6111,8 @@ excess
 = 盐放多了，那锅汤就只剩一个味道。
 excess = 过量
 an excess of something = 过多的某物
+An excess of caution kept the boat in harbour on the best day.
+= 过多的谨慎，让那条船在最好的一天留在了港里。
 ② He does everything to excess and sleeps four hours a night.
 = 他干什么都过头，一晚睡四个钟头。
 to excess = 过度地
@@ -6074,6 +6120,8 @@ to excess = 过度地
 = 那份保单的免赔额，比修车还贵。
 the excess = 免赔额
 excess baggage = 超重行李
+Excess baggage costs more per kilo than the flight does per person.
+= 超重行李按公斤算的钱，比机票按人头算的还贵。
 
 excessive
 核心：过多的、过分的：说数量、程度或做法超出该有的限度。副词 excessively。
@@ -6081,6 +6129,8 @@ excessive
 = 那笔收费过高，解释它的信比账单还长。
 excessive = 过多的、过分的
 excessive force = 过度的武力
+The inquiry found excessive force and recommended a longer training course.
+= 调查认定使用了过度的武力，建议把培训课程延长。
 ② Excessive noise is defined in decibels and argued about in person.
 = 噪音过量是用分贝定的，争起来却是当面吵。
 excessive noise = 过量的噪音
@@ -6103,6 +6153,8 @@ exchange
 = 交换合同花了九个星期，外加一个下午的手忙脚乱。
 an exchange = 交换
 an exchange of letters = 往来书信
+An exchange of letters settled a boundary that two solicitors could not.
+= 几封往来书信定下了一条地界，两位律师都没办成。
 ② She exchanged the shirt for one two sizes larger.
 = 她把那件衬衫换成了大两号的。
 exchange something for something = 把某物换成某物
@@ -6140,6 +6192,8 @@ excise
 = 烈酒的消费税调了两回，价钱调了三回。
 excise duty = 消费税
 excise = 消费税
+Excise brings in more money than the tax everybody complains about.
+= 消费税收上来的钱，比人人抱怨的那种税还多。
 ② The surgeon excised the lump and sent it away in a pot.
 = 外科医生把那个肿块切了下来，装罐送去化验。
 excise something = 切除某物
@@ -6198,6 +6252,8 @@ excited
 = 孩子们为那辆大巴兴奋，对城堡兴味索然。
 be excited about something = 为某事兴奋
 get excited = 激动起来
+Do not get excited until the second letter arrives in writing.
+= 等第二封信白纸黑字寄到，再激动不迟。
 ② He was too excited to eat and finished everybody else's chips.
 = 他兴奋得吃不下饭，把别人的薯条全吃了。
 be excited to do something = 兴奋地要去做某事
@@ -6217,6 +6273,8 @@ excitement
 = 那股兴奋，一直持续到队伍开始挪得很慢。
 excitement = 兴奋
 in excitement = 兴奋之下
+In excitement he gave the wrong address and waited on the wrong street.
+= 兴奋之下他报错了地址，在错的那条街上等着。
 ② The excitements of that month are a photograph and a receipt.
 = 那个月的兴奋事，如今只剩一张照片和一张收据。
 an excitement = 一件令人兴奋的事
@@ -6227,10 +6285,14 @@ exciting
 = 上半场精彩，下半场是一堂课。
 exciting = 令人兴奋的
 an exciting match = 精彩的比赛
+An exciting match ends with everyone too hoarse to discuss it.
+= 一场精彩的比赛结束时，人人嗓子都哑得没法议论。
 ② The exciting part is the first week and the work is all the rest.
 = 最带劲的是头一个星期，其余全是干活。
 the exciting part = 最带劲的那部分
 an exciting prospect = 令人期待的前景
+Two years abroad is an exciting prospect until the paperwork arrives.
+= 出国两年是个令人期待的前景，直到那堆手续寄来。
 副词 excitingly：令人兴奋地、精彩地：修饰做法、写法与安排。
 ③ The programme is excitingly planned and impossible to follow.
 = 那个节目安排得让人兴奋，就是跟不上。
@@ -6257,6 +6319,8 @@ exclamation
 = 那声惊叫是威尔士语，意思人人都懂。
 an exclamation = 一声惊叫
 give an exclamation = 发出一声惊叫
+She gave an exclamation, put down the phone and went straight out.
+= 她发出一声惊叫，放下电话就出了门。
 ② Three exclamation marks in one email undo the sentence they end.
 = 一封邮件里三个感叹号，把它们收尾的那句话毁了。
 an exclamation mark = 感叹号
@@ -6279,6 +6343,8 @@ exclude
 = 那个价钱不含运费，运费比椅子还贵。
 exclude something = 不包括某物
 exclude somebody from something = 把某人排除在某事之外
+The rules exclude anyone from voting who joined after March.
+= 规则把三月以后入会的人都排除在投票之外。
 ② The report excludes the possibility of a leak and names no source.
 = 那份报告排除了泄漏的可能，却没点出依据。
 exclude the possibility = 排除可能性
@@ -6290,6 +6356,8 @@ excluding VAT 是不含增值税。跟 including 相对。
 = 总数是九百，不含勘验费。
 excluding something = 不包括某物
 excluding VAT = 不含增值税
+The quote reads four hundred excluding VAT and everybody reads the first number.
+= 报价写着四百，不含增值税，可人人只看头一个数。
 ② Everyone excluding the two on leave was in the room.
 = 除了休假的那两位，所有人都在屋里。
 excluding = 除…之外
@@ -6302,6 +6370,8 @@ exclusion
 = 被排除在那份名单外，供应商就少了半年的活。
 exclusion = 排除在外
 exclusion from something = 被排除在某事之外
+Exclusion from the team lasted a fortnight and the friendship lasted longer.
+= 被排除在队伍之外维持了两周，那份交情维持得更久。
 ② He works on one problem to the exclusion of everything else.
 = 他只做一个问题，别的一概撇开。
 to the exclusion of something = 撇开其他一切
@@ -6312,6 +6382,8 @@ an exclusion = 除外条款
 = 法庭下了禁入令，警方在场地周围划出两英里的禁区。
 an exclusion order = 禁入令
 an exclusion zone = 禁区
+An exclusion zone round the nest kept the walkers out until August.
+= 鸟巢周围划出的禁区，把徒步的人挡到了八月。
 
 exclusionary
 核心：（正式）排他的、把人挡在外面的：说规则或做法有意无意地排斥某些人。
@@ -6330,6 +6402,8 @@ exclusive
 = 那份独家权利有效两年，中途转卖过两回。
 exclusive rights = 独家权利
 an exclusive contract = 独家合同
+An exclusive contract pays well and stops you working for anybody else.
+= 独家合同给钱不少，也堵住了给别人干活的路。
 ② The two explanations are not mutually exclusive and both are partly right.
 = 那两种解释并不互相排斥，两个都对了一半。
 mutually exclusive = 互相排斥的
@@ -6414,6 +6488,8 @@ excrement
 = 那整份报告讲的，就是饮用水里的粪便污染。
 excrement = 粪便
 human excrement = 人的粪便
+Human excrement on the beach closed it for the whole bank holiday.
+= 海滩上的人粪，让它在整个公众假期都关着。
 ② Bird excrement takes the paint off a car in one summer.
 = 鸟粪一个夏天就能把车漆蚀掉。
 bird excrement = 鸟粪
@@ -6520,6 +6596,8 @@ excursion
 = 那趟远足八点出发，几点回来由司机定。
 an excursion = 短途旅行
 go on an excursion = 去远足
+They go on an excursion each June and return with identical photographs.
+= 他们每年六月去一趟远足，带回来的照片一模一样。
 ② His excursion into politics lasted one term and two arguments.
 = 他涉足政界，维持了一个任期和两场争吵。
 an excursion into something = 涉足某个领域
@@ -6531,6 +6609,8 @@ excusable
 = 头一回犯错情有可原，第三回就是习惯了。
 excusable = 情有可原的
 an excusable error = 可以原谅的错误
+An excusable error in the first week becomes a nickname by the third.
+= 头一周一个可以原谅的错误，到第三周就成了外号。
 ② Lateness is excusable in that weather and not in that car.
 = 那种天气里迟到情有可原，开那种车就说不过去。
 be excusable = 可以原谅
@@ -6545,6 +6625,8 @@ make excuses 是找借口。
 = 借口是堵车，可那天早上的车流一路顺畅。
 an excuse = 借口
 make an excuse = 找个借口
+He made an excuse about the dog and stayed home to read.
+= 他拿狗找了个借口，留在家里看书。
 ② Excuse me — is this seat taken or is the coat travelling alone?
 = 劳驾，这位子有人吗，还是那件外套自己在坐车？
 excuse me = 劳驾、对不起
@@ -6636,6 +6718,8 @@ executive
 = 签字那位高管，墨迹还没干就走了。
 an executive = 高管
 a chief executive = 首席执行官
+A chief executive answers to a board that meets four times a year.
+= 首席执行官要向一个一年开四次会的董事会负责。
 ② The executive meets on Tuesdays and the members hear about it in the newsletter.
 = 领导班子周二开会，会员是从通讯里知道结果的。
 the executive = 执行机构
@@ -6646,10 +6730,14 @@ executive powers = 行政权力
 = 执行董事在账目上签字，行政秘书管日程。
 an executive director = 执行董事
 an executive secretary = 行政秘书
+An executive secretary knew which two people to ring and saved the week.
+= 一位行政秘书知道该给哪两个人打电话，把那一周救了回来。
 ⑤ The president signed an executive order in the morning and claimed executive privilege by Friday.
 = 总统上午签了一道行政命令，到周五就主张起行政特权。
 an executive order = 行政命令
 executive privilege = 行政特权
+Executive privilege was claimed over three emails about a car park.
+= 三封关于停车场的邮件，也被主张了行政特权。
 ⑥ Nobody read past the executive summary and the real number sat in the appendix.
 = 谁也没往内容提要后面读，真正的数字在附录里。
 an executive summary = 内容提要
@@ -6679,6 +6767,8 @@ exemplar
 = 那栋楼是一种只流行了九年的风格的典范。
 an exemplar = 典范
 an exemplar of something = 某种事物的范例
+Her notebooks are an exemplar of how to record an unexpected result.
+= 她的笔记本是「怎样记录一个意外结果」的范例。
 ② Teachers keep two exemplars and mark everything against them.
 = 老师留两份范文，一切都照着它们批。
 exemplars = 范例（复数）
@@ -6691,10 +6781,14 @@ exemplary
 = 她的出勤堪称模范，字迹是另一回事。
 exemplary conduct = 模范的举止
 exemplary = 堪称楷模的
+The repair was exemplary and the man who did it never advertised.
+= 那次修缮堪称楷模，做活的人却从不打广告。
 ② The court imposed an exemplary sentence and the rest of the trade noticed.
 = 法院判了一个以儆效尤的刑，同行都留意到了。
 an exemplary sentence = 以儆效尤的判罚
 exemplary damages = 惩罚性赔偿
+Exemplary damages are rare and the newspaper printed the figure twice.
+= 惩罚性赔偿很少见，那家报纸把数目印了两遍。
 
 exemplification
 核心：（正式）例证、举例说明：拿实例把道理讲清楚这件事，也指那个实例。
@@ -6724,6 +6818,8 @@ exempt
 = 五岁以下免收那笔费用，也没人查年龄。
 be exempt from something = 免于某事
 exempt = 获豁免的
+Charities are exempt and still have to file the same forms.
+= 慈善机构获豁免，却照样要交同样的表格。
 ② The act exempts one industry and names it in a footnote.
 = 那部法令豁免了一个行业，把它写在脚注里。
 exempt somebody from something = 免除某人的某项义务
@@ -6748,6 +6844,8 @@ a public relations exercise 是一场公关操作。
 = 她做运动的样子，跟别人吃药一样。
 take exercise = 做运动
 exercise = 锻炼
+Exercise before breakfast suits about one person in the whole office.
+= 早饭前锻炼这件事，全办公室大概只适合一个人。
 ② The exercise on page nine has an answer that the book gets wrong.
 = 第九页那道练习，书上给的答案是错的。
 an exercise = 一道练习
@@ -6758,6 +6856,8 @@ a paper exercise = 走形式的纸面功夫
 = 每位公民都可以行使那项权利，实际行使的大约三分之一。
 exercise a right = 行使权利
 exercise caution = 谨慎行事
+Drivers exercise caution for a fortnight after every new speed camera.
+= 每装一台新测速摄像头，司机就谨慎行事两个星期。
 ⑤ He exercises the dog before breakfast and himself afterwards.
 = 他早饭前遛狗，早饭后才轮到自己。
 exercise a dog = 遛狗
@@ -6765,6 +6865,8 @@ exercise a dog = 遛狗
 = 那间空房里放着一辆健身车、一个健身球，还有待熨的衣服。
 an exercise bike = 健身车
 an exercise ball = 健身球
+An exercise ball becomes a chair and then becomes a footstool.
+= 健身球先变成椅子，后来变成搁脚凳。
 
 exert
 核心：两支。一是施加（力量、影响、压力）：exert pressure on somebody；
@@ -6773,10 +6875,14 @@ exert
 = 工会施压了一年，最后接受了一次评估了事。
 exert pressure on somebody = 对某人施压
 exert influence = 施加影响
+She exerts influence through two people who never mention her name.
+= 她通过两个从不提她名字的人施加影响。
 ② He exerted himself once in that job and it showed for a week.
 = 那份工作里他使过一回劲，效果显了一个星期。
 exert yourself = 使劲、尽力
 exert oneself = 使劲、出力（同 exert yourself）
+Cats exert themselves for ninety seconds and sleep off the effort.
+= 猫使劲九十秒，然后靠睡觉把这份力气缓过来。
 
 exertion
 核心：两支。一是费力、用力：体力上的付出；
@@ -6785,6 +6891,8 @@ exertion
 = 那种热天里，四点之前使力气都不明智。
 exertion = 费力、用力
 physical exertion = 体力消耗
+Physical exertion at altitude catches out the fittest people first.
+= 高海拔上的体力消耗，最先放倒的是身体最好的人。
 ② The exertion of influence is hard to prove and easy to feel.
 = 影响力的行使很难证明，感觉倒明显。
 the exertion of something = 对某种力量的行使
@@ -6849,11 +6957,17 @@ exhaust somebody = 使某人筋疲力尽
 = 椅子用光了，他们开始搬箱子当座。
 exhaust something = 用尽某物
 exhaust every possibility = 想尽一切办法
+They exhausted every possibility on paper before anybody lifted a spanner.
+= 还没人动扳手，他们已经在纸上想尽了一切办法。
 ③ The exhaust is louder than the engine and legal by two decibels.
 = 那根排气管比发动机还响，比法定上限低两分贝。
 an exhaust = 排气管
 exhaust fumes = 汽车废气
+Exhaust fumes drift into the flats above and the window stays shut.
+= 汽车废气飘进楼上那几套房，窗户就一直关着。
 an exhaust pipe = 排气管
+An exhaust pipe rusts from the inside and fails the test in January.
+= 排气管是从里面锈起的，一月年检就过不了。
 
 exhausted
 核心：两支。一是筋疲力尽的：be exhausted by something；
@@ -6862,6 +6976,8 @@ exhausted
 = 那趟路把她累垮了，到了却睡不着。
 be exhausted = 筋疲力尽
 be exhausted by something = 被某事累垮
+He was exhausted by a week of being polite to strangers.
+= 对着陌生人客气了一个星期，把他累垮了。
 ② The mine closed when the seam was exhausted and the village stayed.
 = 矿层采空后矿关了，村子留了下来。
 an exhausted seam = 采空的矿层
@@ -6873,6 +6989,8 @@ exhausting
 = 那趟路累人，到了之后觉得值。
 exhausting = 累人的
 an exhausting day = 累人的一天
+An exhausting day ends with the shopping still in the boot.
+= 累人的一天结束时，买的东西还在后备箱里。
 ② Being cheerful all day is exhausting and nobody counts it as work.
 = 整天保持愉快是件累人的事，可没人把它算作工作。
 be exhausting = 让人筋疲力尽
@@ -6884,6 +7002,8 @@ exhaustion
 = 他因体力衰竭接受治疗，当晚就出院了。
 exhaustion = 筋疲力尽
 nervous exhaustion = 神经衰竭
+Nervous exhaustion put her in a quiet room for three weeks.
+= 神经衰竭让她在一间安静的屋子里待了三个星期。
 ② Exhaustion of the fishery took thirty years and one new net.
 = 那片渔场的枯竭用了三十年，外加一种新网。
 the exhaustion of something = 某资源的耗尽
@@ -6895,6 +7015,8 @@ exhaustive
 = 那次搜寻查得彻彻底底，那东西就在车里。
 exhaustive = 详尽无遗的
 an exhaustive list = 详尽的清单
+An exhaustive list of what can go wrong reassures absolutely nobody.
+= 一份详尽的清单列出可能出的岔子，谁看了都安不下心。
 ② An exhaustive review takes a year and reads like a phone book.
 = 一次彻底的评估要一年，读起来像电话簿。
 an exhaustive study = 彻底的研究
@@ -6921,6 +7043,8 @@ exhibit signs of something = 显出某种迹象
 = 那件展品在玻璃后面，说明牌写错了。
 an exhibit = 展品
 be on exhibit = 正在展出
+The drawings are on exhibit until March and travel to two other cities.
+= 那些素描展到三月，之后还要巡展另外两座城市。
 
 exhibition
 核心：三支。一是展览、展览会：可数；
@@ -6931,6 +7055,8 @@ exhibition
 = 那个展览办六周，图录两周就卖光了。
 an exhibition = 展览
 put on an exhibition = 举办展览
+Six students put on an exhibition in a shop that was closing anyway.
+= 六个学生在一家反正要关门的店里办了展览。
 ② That was an exhibition of temper and everybody pretended to read.
 = 那是一场脾气的表演，人人都装作在看书。
 an exhibition of something = 某种情绪或本领的表现

@@ -312,7 +312,11 @@ exes = 前任们
 = 教务长以职务身份列席评审组，只在票数相同时投票。
 ex officio = 因职位而当然（列席、任职）
 an ex gratia payment = 通融性支付（不代表认责）
+The airline made an ex gratia payment and admitted nothing at all.
+= 那家航空公司做了一笔通融性支付，什么也没承认。
 a ruling ex cathedra = 以权威身份作出的裁断
+A ruling ex cathedra ends the argument and starts a longer one.
+= 以权威身份作出的裁断了结一场争论，又引出一场更长的。
 ④ An ex libris label on the flyleaf gives a name that the catalogue does not.
 = 扉页上的藏书票写着一个名字，目录里可查不到。
 ex libris = 藏书票上的「某某藏书」
@@ -323,7 +327,11 @@ be ex-directory = 号码不列入电话簿
 = 那家俱乐部只对退役军人家庭开放，酒吧六点开门。
 ex-service = 退役的、退伍军人的
 an ex-serviceman = 退伍男军人
+An ex-serviceman runs the allotments and keeps a waiting list of nine.
+= 一位退伍男军人管着那片市民菜园，手里排着九个人的等候名单。
 an ex-servicewoman = 退伍女军人
+An ex-servicewoman trained half the drivers in that depot.
+= 那个车场里一半的司机，是一位退伍女军人带出来的。
 
 exacerbate
 核心：（正式）使恶化、加剧：让本来就不好的情况更糟。名词 exacerbation。
