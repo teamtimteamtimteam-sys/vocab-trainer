@@ -24,6 +24,10 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'future': ['in the future', 'in future', 'the foreseeable future'],
+ 'fuzzy': ['fuzzy logic'],
+ 'gag': ['a running gag'],
+ 'gain': ['gain ground', 'no pain, no gain'],
  'further': ['further to'],
  'fuss': ['make a fuss', 'kick up a fuss', 'fuss over'],
  'fury': ['in a fury'],

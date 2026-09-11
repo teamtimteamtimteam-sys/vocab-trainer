@@ -480,13 +480,27 @@ fr- 段 282/384（73%），fu- 段 14/205（6%）。
     里的这个后缀…」，check-wordlist 直接点名。**讲构词成分时最容易犯
     ——举例词要写成中文（「一满勺」「一把」），别图省事直接放原词。**
   · B 表过 9700 条了（9712），离 10000 差 288。
-  · **下一批从 furrowed 起**（furry / further / furtherance / furthermore /
-    furthest / furtive / fury / furze / fuse / fuselage / fusillade / fusion /
-    fuss / fussy / fustian 一带；further 与 fuss 是大词，动笔前往 CHECK 补
-    further to、go further、make a fuss、kick up a fuss、fuss over）。
-    **further / furthest 是 far 的比较级最高级**，可它们另有
-    「进一步的、促进」这些 far 没有的义项，按 fresher / fortnightly 的先例
-    单立，记得同时写进 derived-keep.txt。
+第四批 furry → futility（25）、第五批 futon → gadabout（25，后 11 条已进 ga- 段）。
+**f 段的待新写清零**，剩下的全是待并入与待推迟；ga- 段开工。
+  · further / furthest 按计划单立，动笔时就写进了 derived-keep.txt ——
+    **这一次是先写例外再跑闸门，没让 audit-derived 报错**，比之前省一轮。
+  · audit-padding 一次抓了两条：fuze ③ 在谈这个词的拼法（元评论），
+    Futurism ①② 是同一条义项。前者改成"一箱引信登记了两遍"，
+    后者改成"那屋里没有一样东西是静止的"。
+    **讲异体拼法时最容易写成元评论 —— 把拼法留在核心块里说，例句只管用词。**
+
+═══ g 段（清单约 2100 条）═══
+ga- 段刚开工（约 11/300）。动笔前的四件事照旧先做：
+  ① 大写词头：G 段清单里 G 打头的大写词头需要先登记进 proper-nouns-keep
+     （Gaelic / Georgian / German / Gothic / Greek / Gregorian 一族）。
+  ② 不规则变形：get / give / go / grow / grind 全在这一段，
+     got / gotten / gave / given / went / gone / grew / grown / ground
+     都要进 inflections.txt，**且词条正文里要出现那个字面**。
+  ③ 大词的习语清单：get / give / go / good 是全表最大的几个词，
+     动笔前把 CHECK 一次列足。
+  ④ **下一批从 gadfly 起**（gadget / gadgetry / gaff / gaffe / gaffer / gag /
+     gaga / gaggle / gaiety / gain / gainful / gait / gaiter / gala /
+     galaxy / gale / gall / gallant / gallantry 一带）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
