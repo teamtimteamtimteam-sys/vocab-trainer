@@ -13,6 +13,8 @@ firefighter
 = 消防员六分钟就到，其中四分钟花在路上。
 a firefighter = 消防员
 a retained firefighter = 兼职消防员
+A retained firefighter leaves the shop mid-sale when the pager goes.
+= 兼职消防员传呼机一响，生意做到一半就得走。
 ② Two firefighters carried the ladder that four people had brought.
 = 四个人抬来的那架梯子，两名消防员就扛走了。
 
@@ -42,6 +44,8 @@ firing
 = 打靶训练在天亮时进行，羊群已经习惯了。
 firing practice = 打靶训练
 in the firing line = 首当其冲
+The counter staff are in the firing line for decisions made upstairs.
+= 楼上做的决定，首当其冲的是柜台上的人。
 ② The firing of three managers in one week emptied the car park by six.
 = 一个星期解雇三名经理，六点停车场就空了。
 the firing of somebody = 对某人的解雇
@@ -58,6 +62,8 @@ firkin
 = 一小桶啤酒，那家酒馆一晚半就卖完。
 a firkin = 九加仑小桶
 a firkin of ale = 一小桶麦芽啤酒
+A firkin of ale arrived for the wake and was gone by nine.
+= 守灵宴上送来一小桶麦芽啤酒，九点就没了。
 ② Two firkins came off the lorry and one of them was already leaking.
 = 两只小桶从货车上卸下来，其中一只已经在漏了。
 
