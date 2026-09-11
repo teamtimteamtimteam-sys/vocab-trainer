@@ -1932,8 +1932,6 @@ bitcoin
 ③ Bitcoin runs on a blockchain that every participant keeps a copy of.
 = 比特币跑在区块链上，每个参与者都存着一份账本。
 blockchain = 区块链
-A blockchain records everything and forgets nothing, which is the difficulty.
-= 区块链什么都记，什么都不忘，难处正在这儿。
 ④ Bitcoin has no central issuer, so nobody can print more of it to cover a crisis.
 = 比特币没有中央发行方，谁也不能多印一些来救急。
 这是它跟法定货币最根本的分别。
@@ -1941,6 +1939,8 @@ A blockchain records everything and forgets nothing, which is the difficulty.
 词族：
 cryptocurrency = 加密货币（总称）
 blockchain = 区块链（底层账本技术）
+A blockchain records everything and forgets nothing, which is the difficulty.
+= 区块链什么都记，什么都不忘，难处正在这儿。
 
 bite
 核心：底层是"用牙咬"，几乎所有义项都是这个动作的引申，咬的对象
