@@ -152,9 +152,15 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
 - **词典本身**：f 段 99%（剩的是待推迟），g 段在写，**下一批从 geode 起**
   （geography / geology / geometry / German / germ / gerrymander 一带）。
   G 段大写词头 51 条已登记进 proper-nouns-keep。
-- **补例句**：tier1 剩约 836，tier2（词族）约 849。**d 段与整个 e 段都清空了**，
-  **下一段 fa / fe / fi**（fi 53、fl 48、ex 那种上百条的大段按词头分两三批做，
+- **补例句**：tier1 剩 936，tier2（词族）849。**整个 e 段清空了**，
+  **下一段 fa / fe / fi**（fi 53、fl 48；ex 那种上百条的大段按词头分两三批做，
   每批 35–65 条，各自过闸各自提交）。
+- **a–d 段还剩 267 条零头**（112 个词条，ai / ap / as / ba / be / …/ dr / dw）。
+  抽查下来相当一部分是 need-example 没滤干净的**辨析对照**：born 对 borne、
+  beard 对 moustache 对 sideburns、calumny 对 slander 对 libel、canonic 这类
+  拼法变体 —— 按用户定的范围本来就不补。里头也确实混着能补的
+  （launch a campaign、a bottle cap、cotton candy）。**逐条看过再动手，
+  别照单全填**；要么先把 need-example 的过滤收紧一道。
 - **push 策略**：用户 2026-09-11 说「补完一起推」——
   补例句这件事做完之前，只在本地提交，不要 push。
 

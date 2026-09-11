@@ -25,8 +25,12 @@ B 词表 10060 条，词典序 a → geochemistry。A 表 3002 条。
   · 清单与进度：`python3 scripts/need-example.py --tier1`（并入短语与常用搭配）
     与 `--tier2`（词族）；status.py 末尾也会打出来。
   · 做法见 HANDOFF 第七节。例句标准跟义项例句一样，搭配本身必须原样出现在句中。
-  · **e 段已全清**（d 段、ea–ey 一条不剩），下一段 fa / fe / fi；
-    tier1 剩约 836，tier2 约 849。
+  · **整个 e 段已清空**（ea–ey 一条不剩），下一段 fa / fe / fi；
+    tier1 剩 936，tier2 849。其中 267 条是 a–d 段的零头（112 个词条），
+    抽查下来有相当一部分是 need-example 没滤干净的辨析对照
+    （born/borne、beard/moustache/sideburns、calumny/slander/libel、
+    canonic 这类拼法变体），按用户的范围规定本来就不该补 ——
+    动手前先逐条看，别照单全填。
   · **push 策略：用户说「补完一起推」，在此之前只在本地提交。**
 
 ═══ 2026-09-08 的一次收尾（存档，别当现状读）═══
