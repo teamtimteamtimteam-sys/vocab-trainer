@@ -56,6 +56,9 @@ STRONG = {'catch': ['caught'], 'buy': ['bought'], 'teach': ['taught'],
           'fight': ['fought'], 'come': ['came'], 'become': ['became'],
           'beseech': ['besought'], 'bid': ['bade', 'bidden'], 'are': ['were', 'is', 'am'],
           'bear': ['bore', 'born', 'borne'], 'break': ['broke', 'broken'],
+          # get 漏了很久：表里有 beget→begot 却没有 get→got，而三字母词头
+          # 会关掉编辑距离兜底（same_word 里的 len(t) < 4），所以 got 认不出来。
+          'get': ['got', 'gotten'], 'forget': ['forgot', 'forgotten'],
           'beget': ['begot', 'begotten'], 'behold': ['beheld'], 'arise': ['arose', 'arisen'],
           'awake': ['awoke', 'awoken'], 'become': ['became'], 'begin': ['began', 'begun'],
           'bite': ['bit', 'bitten'], 'blow': ['blew', 'blown'], 'breed': ['bred'],

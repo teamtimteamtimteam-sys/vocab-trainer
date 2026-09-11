@@ -24,6 +24,16 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ # get 一族 —— 写 get 之前先把 coverage 的 42 条待推迟短语列进来（2026-09-12）
+ 'get': ['get across', 'get along', 'get around', 'get around to', 'get at',
+         'get away', 'get away with', 'get back', 'get back at', 'get back together',
+         'get by', 'get down', 'get down to', 'get in', 'get in on', 'get in with',
+         'get into', 'get off', 'get off on', 'get off with', 'get on', 'get on to',
+         'get on with', 'get out', 'get out of', 'get over', 'get over yourself',
+         'get round', 'get round to', 'get through', 'get through to',
+         'get through with', 'get to', 'get together', 'get up', 'get up as',
+         'get up to', 'get ahead', 'get behind', 'get about', 'get above yourself',
+         'get-go', 'get-up-and-go'],
  'gentle': ['a gentle reminder'],
  'genuine': ['the genuine article'],
  'genius': ['a stroke of genius'],

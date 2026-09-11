@@ -1,13 +1,3 @@
-Germanic
-核心：两支。一是日耳曼语族的：英语、德语、荷兰语与北欧诸语同属一支；
-二是（引申）带德意志味的：说作风严整、有条理，有时略带调侃。
-① English is Germanic in its bones and French in half its vocabulary.
-= 英语的骨架是日耳曼语族的，词汇有一半是法语来的。
-be Germanic = 属日耳曼语族
-② The filing system is Germanic and the office runs on it.
-= 那套归档办法严整得像德国人做的，办公室就靠它转。
-Germanic = 严整有条理的（引申）
-
 germanium
 核心：锗：类金属元素，符号 Ge，原子序数 32；
 早期晶体管用它，如今多用在光纤与红外镜头上。不可数。
@@ -206,6 +196,237 @@ say gesundheit = 说一句「保重」
 ② Gesundheit is what that family says and bless you is what the neighbours say.
 = 那家人说的是德语那句「保重」，邻居说的是英语那句。
 gesundheit = 保重（打喷嚏时）
+
+get
+核心：底层只有一句话 —— **从没有到有、从一个状态到另一个状态**。
+四条主干都是它的变形：
+一是取得：拿到手里，对象可以是东西、消息、分数、病痛（get a letter、get flu）。
+二是变成：当系动词，后面接形容词，重心在「变」不在「是」（get cold）。
+三是到达：人或物挪到某处；home、there、here 直接跟，接名词要用 get to。
+四是促成：让别人做、或让事情成（get somebody to do、get something done）。
+**短语动词几乎全是这四支加一个方向词**：往里 in / into，往外 out / away，
+往上 up，往下 down，穿过去 through / across，绕过去 round / around，
+跟上 on / along，落后 behind。认出方向词多半能推出意思；
+推不出的那三个（get at、get away with、get off on）另有来历，底下单列。
+三态不规则：get / got / got，美式过去分词多用 gotten。
+① I got a letter from the council and three from the same shop.
+= 我收到议会一封信，同一家店寄来三封。
+get something = 收到、拿到某物
+最基本的一支，对象是东西、消息、分数都行，日常口语里比 receive 常见得多。
+② She got flu in March and gave it to the whole office.
+= 她三月得了流感，传给了整个办公室。
+get flu = 得流感
+染上病痛也归「取得」这一支，这里不能换成 receive。
+③ It gets cold in that room the moment the sun goes round.
+= 太阳一转过去，那屋子马上就冷。
+get cold = 变冷
+系动词用法：后面接形容词，说的是变化的过程，be cold 说的才是状态。
+④ We got home at four and the kettle was still warm.
+= 我们四点到家，水壶还温着。
+get home = 到家
+到达这一支：home、there、here 后面不加介词，这是最容易写错的地方。
+⑤ Get to the station by six or you walk.
+= 六点前到车站，不然就走着去。
+get to somewhere = 到达某处
+后面接普通地名要用 to，跟上一条正好配着记。
+⑥ She got him to sign it by leaving the pen on the letter.
+= 她把笔压在信上，让他签了字。
+get somebody to do something = 让某人做某事
+促成这一支不是下命令，是想办法让事情发生，语气比 make 软。
+⑦ I got the roof mended before the rain came back.
+= 我赶在雨回来之前把屋顶修好了。
+get something done = 把某事办妥
+这个句式的重心在结果，谁动的手不重要，也常用来说「遭遇」。
+⑧ I don't get the joke and the room is waiting for me.
+= 那个笑话我没懂，满屋子的人都在等我。
+get something = 听懂、明白
+口语里最常见的是否定式，肯定句多说 I see。
+⑨ We got the last bus and stood the whole way.
+= 我们赶上末班车，一路站着。
+get the bus = 坐公交
+交通工具用 get 比 take 更口语，也含「赶上」的意思。
+⑩ He got in through a window and the alarm never went off.
+= 他从窗户进去，警报一声没响。
+get in = 进去；也指（车）到站
+往里那一族的根，进屋、进门、火车进站都用它。
+⑪ He got on at the front and paid with a card that failed.
+= 他从前门上车，刷卡没刷上。
+get on = 上车、上马
+上大件交通工具用 on，小车用 in，这是介词的老规矩。
+⑫ She got into medicine late and into research later still.
+= 她很晚才进医学这一行，进研究更晚。
+get into something = 进入某个行当；也指迷上某事
+比 get in 多一层「投身进去」的意思。
+⑬ Two of them got in on the scheme before anybody else heard of it.
+= 他们里有两个在别人还没听说时就入了伙。
+get in on something = 插一脚、入伙
+带点抢先的意味，常说 get in on the ground floor。
+⑭ He got in with a crowd that kept later hours than he did.
+= 他跟一帮比他熬得更晚的人混到了一起。
+get in with somebody = 跟某人混熟、攀上关系
+多半带贬义，说攀交情或交上不该交的朋友。
+⑮ They got out at the roundabout and walked the rest.
+= 他们在环岛下了车，剩下的路走着走完。
+get out = 出去、下车
+往外那一族的根。
+⑯ She got out of the meeting by booking a dentist.
+= 她约了牙医，躲过了那个会。
+get out of something = 逃掉、推掉某事
+推的是本该做的事，所以总带点心虚。
+⑰ He got off at the wrong stop and walked back two miles.
+= 他下错了站，往回走了两英里。
+get off = 下车、离开
+跟 get on 成对：上大件用 on，下来用 off。
+⑱ The dog got away and came back with somebody else's ball.
+= 那条狗跑掉了，回来时叼着别人的球。
+get away = 脱身、跑掉
+也说「抽身去度假」：get away for a few days。
+⑲ He got away with it for nine years and then wrote a book.
+= 他侥幸瞒了九年，之后写了本书。
+get away with something = 做了坏事却没受惩罚
+这一条推不出来，要单记：重心是「没被逮着」，不是「跑掉」。
+⑳ I get up at five and regret it by two.
+= 我五点起床，到两点就后悔。
+get up = 起床、站起来
+往上那一族的根。
+㉑ The children got up as pirates and refused to change back.
+= 孩子们打扮成海盗，死活不肯换回来。
+get up as somebody = 打扮成某种样子
+多用被动或过去分词 got up as，说化装。
+㉒ Two of them got up to something behind the shed.
+= 他们里有两个在棚子后头捣鼓什么。
+get up to something = 搞名堂
+搞的多半不太规矩，问小孩「你们在干吗」就用这句。
+㉓ The weather got him down and the darkness finished the job.
+= 天气让他情绪低落，天黑得早又补了一刀。
+get somebody down = 让某人情绪低落
+往下那一族：情绪往下掉。
+㉔ We got down to the accounts at four and finished at nine.
+= 我们四点才认真做起账来，九点收工。
+get down to something = 着手认真做某事
+前面常加 finally，暗示之前一直在拖。
+㉕ The message got across without a single slide.
+= 那个意思传达到了，一张幻灯片都没用。
+get across = （意思）传达出去
+穿过去那一族：意思从这头过到那头。
+㉖ She got through four hundred letters and answered every one.
+= 她处理完四百封信，封封都回了。
+get through something = 做完、熬过
+熬过难挨的一段也用它：get through the winter。
+㉗ Nothing he said got through to her until he wrote it down.
+= 他说什么她都听不进去，直到他写了下来。
+get through to somebody = 让某人听进去；也指打通电话
+两支都是「通到对方那儿」，一支通的是道理，一支通的是电话。
+㉘ They got through with the rewiring a day before the inspection.
+= 他们在查验前一天把布线活干完了。
+get through with something = 把某事干完
+比 get through something 更强调「总算完事了」。
+㉙ There is no getting round the fact that the roof leaks.
+= 屋顶漏水这件事绕不过去。
+get round something = 绕开、回避某事
+绕过去那一族：绕开规矩、绕开难题。
+㉚ She got round to the letters in August and to the filing never.
+= 她八月才腾出手写信，归档则一直没腾出手。
+get round to something = 腾出工夫做某事
+总含「拖了很久」，所以前面常配 finally 或 never。
+㉛ He gets about on a bicycle and knows every short cut.
+= 他骑自行车到处跑，每条近路都熟。
+get about = 四处走动；（消息）传开
+说腿脚还利索，也说风声传了出去。
+㉜ They get by on one wage and a very large garden.
+= 他们靠一份工资加一个很大的园子过日子。
+get by = 勉强过得去
+钱、语言、本事都能这么说，重点是「不宽裕但够」。
+㉝ They get along without a car and complain about nothing.
+= 他们没车也过得去，什么也不抱怨。
+get along = 过得去；也指处得来
+跟上那一族，这一支跟 get by 意思几乎一样。
+㉞ The two of them get on better by letter than in a room.
+= 他们俩通信比同处一室相处得好。
+get on with somebody = 跟某人处得来
+英式最常用的说法，美式多说 get along with。
+㉟ Get on with it — the light goes in an hour.
+= 快点干吧，再过一个钟头天就黑了。
+get on with something = 接着干、赶紧干
+同一个词组两支意思，靠后面跟人还是跟事分辨。
+㊱ She got on to the council and the pothole was filled by Friday.
+= 她跟议会联系上，周五那个坑就填了。
+get on to somebody = 跟某人联系上；也指察觉某人的底细
+办事的一支最常用，写作 get onto 也行。
+㊲ He got ahead by doing the jobs nobody put on a list.
+= 他靠干那些没人列进清单的活出了头。
+get ahead = 出人头地
+方向词是「往前」，落后的那一支正好相反。
+㊳ She got behind with the rent in one bad month.
+= 一个月不顺，她的房租就欠下了。
+get behind = 落后、拖欠
+后面接 with，欠的多半是钱或进度。
+㊴ What are you getting at? Say it and we can all go home.
+= 你到底想说什么？直说了大家都能回家。
+get at something = 想说的是、暗指
+这一条推不出来：重心在「绕着弯逼近某个意思」。
+㊵ They got at the witness and the case collapsed.
+= 他们对证人下了手，案子就垮了。
+get at somebody = 收买或恐吓某人
+同一个词组的另一支，也说「老挑某人的刺」。
+㊶ He gets off on other people's deadlines and I do not.
+= 他就爱别人赶截稿的那股紧张劲，我可不。
+get off on something = 从某事里得到快感
+口语，语气偏俗，说人从某事里得到近乎兴奋的满足。
+㊷ She got off with a fine and a very long lecture.
+= 她只落了个罚款，外加一场极长的训话。
+get off with something = 只受到轻罚
+英式还有一支是「跟某人好上」：get off with somebody。
+㊸ She got back at eleven and found the door on the latch.
+= 她十一点回来，发现门只搭着扣。
+get back = 回来、取回
+最直白的一支，也说把东西要回来。
+㊹ He got back at them by doing nothing at all.
+= 他什么也不做，就算报复了他们。
+get back at somebody = 报复某人
+多一个 at，意思就从「回来」拐到了「回敬」。
+㊺ They got back together after four years and two houses.
+= 隔了四年、两处房子，他们又和好了。
+get back together = 重归于好
+专说分手过的一对又走到一起。
+㊻ It took her a winter to get over the cold and the disappointment.
+= 那场感冒加那次失望，她用了一个冬天才缓过来。
+get over something = 从某事里恢复过来
+病、失恋、打击都用它，重心在「翻过去了」。
+㊼ Get over yourself — the queue is for everybody.
+= 别太把自己当回事，这队人人都得排。
+get over yourself = 别太把自己当回事
+只用祈使，语气不客气。
+㊽ He got above himself after one good season and nobody rang again.
+= 一个赛季打得好，他就飘了，之后没人再找他。
+get above yourself = 自视过高
+比上一条书面，也更旧一些。
+㊾ Four of them get together every August and argue about 1998.
+= 他们四个每年八月聚一次，为一九九八年的事争论。
+get together = 聚会、碰头
+名词写成一个词：a get-together 是小聚。
+㊿ The noise gets to you after the third night.
+= 到第三晚，那个噪音就开始磨人了。
+get to somebody = 惹烦某人、磨人
+跟「到达」那一支同形，靠宾语是人还是地方分辨。
+❶ From the get-go the plan had one fatal gap.
+= 那个计划打一开始就有个致命的空子。
+from the get-go = 打一开始
+美式口语，名词只用在这个搭配里。
+❷ She has the get-up-and-go of somebody half her age.
+= 她那股干劲，像个年纪只有她一半的人。
+get-up-and-go = 干劲、闯劲
+不可数，说人身上那股主动劲儿。
+注意别混：
+get round = 绕开（英式）
+get around = 同一个词的美式写法
+get round to something = 腾出工夫做某事（英式）
+get around to something = 同一个词的美式写法
+注意别混：
+get off = 下车、离开
+get off with somebody = 跟某人好上（英式口语）
+get away = 脱身跑掉
+get away with something = 做了坏事没受惩罚
 
 getaway
 核心：两支。一是（作案后的）逃离：make a getaway；
