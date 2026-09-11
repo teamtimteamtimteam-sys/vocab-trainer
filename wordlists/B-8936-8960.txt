@@ -318,6 +318,8 @@ flatcar
 = 平板车厢装的是棚车塞不下的东西。
 a flatcar = 平板车厢
 load a flatcar = 装平板车厢
+They load a flatcar with two tractors and chain everything down twice.
+= 他们往平板车厢上装两台拖拉机，捆链子捆两道。
 ② Two flatcars of timber went past and the crossing stayed down six minutes.
 = 两节装木材的平板车厢过去，道口关了六分钟。
 
@@ -327,6 +329,8 @@ flatfish
 = 比目鱼贴着水底，还会变色去配合底色。
 a flatfish = 比目鱼
 fillet a flatfish = 给比目鱼剔骨
+You fillet a flatfish from the middle out and get four pieces.
+= 给比目鱼剔骨要从中间往外片，能出四片肉。
 ② Flatfish are easy to fillet and impossible to eat neatly.
 = 比目鱼好剔骨，吃起来却没法斯文。
 
@@ -336,6 +340,8 @@ flathead
 = 扁头鱼很适合煎，骨头能整根挑出来。
 flathead = 扁头鱼
 catch flathead = 钓到扁头鱼
+They catch flathead off the sand flats and return the small ones.
+= 他们在沙滩外钓扁头鱼，小的都放回去。
 ② Two flathead off that jetty counts as a good afternoon.
 = 在那座栈桥钓上两条扁头鱼，就算一个好下午。
 
@@ -345,6 +351,8 @@ flatlet
 = 那个小套间水槽上方有扇窗，摆不下一张桌子。
 a flatlet = 小套间
 rent a flatlet = 租一间小套房
+She rents a flatlet above the surgery and hears every ambulance.
+= 她在诊所楼上租了一间小套房，每辆救护车都听得见。
 ② Three flatlets were made out of one house and the stairs stayed shared.
 = 一栋房子隔成三个小套间，楼梯还是公用的。
 
@@ -364,5 +372,7 @@ flatmate
 = 一个肯洗碗的室友，抵得上两个按时交租的。
 a flatmate = 合租室友
 look for a flatmate = 找合租室友
+They looked for a flatmate all autumn and took the first applicant.
+= 他们找了一整个秋天的合租室友，最后收了头一个来问的。
 ② Three flatmates share one kettle and argue about the heating.
 = 三个室友共用一把水壶，为暖气吵个不停。

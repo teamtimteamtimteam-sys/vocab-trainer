@@ -7,6 +7,8 @@ flaxseed = 亚麻籽
 = 磨碎的亚麻籽能存两个星期，整粒的能存一年。
 ground flaxseed = 亚麻籽粉
 flaxseed oil = 亚麻籽油
+Flaxseed oil goes rancid in a warm cupboard within a month.
+= 亚麻籽油放在暖和的柜子里，一个月就哈喇了。
 
 flay
 核心：两支。一是剥皮：flay an animal；二是（书面）严厉抨击：flay somebody。
@@ -30,7 +32,11 @@ a flea in your ear = 被抢白一顿
 = 跳蚤市场六点开市，好东西七点就没了。
 a flea market = 跳蚤市场
 flea-bitten = 跳蚤咬过的、破旧肮脏的
+They stayed in a flea-bitten hotel and told the story for years.
+= 他们住了一家又破又脏的旅馆，这事讲了好些年。
 flea circus = 跳蚤马戏
+A flea circus needed a magnifying glass and a great deal of faith.
+= 看跳蚤马戏要一把放大镜，外加十足的信心。
 
 fleabag
 核心：（非正式，贬）两支。一是脏兮兮的动物；二是（美式）破旅馆。可数。
@@ -181,6 +187,8 @@ in the flesh = 真人、亲临
 = 把第二部分充实起来，第一部分砍掉一半。
 flesh something out = 把某物充实起来
 flesh wound = 皮肉伤
+A flesh wound bleeds impressively and heals in about a week.
+= 皮肉伤流起血来很吓人，一星期左右就好。
 
 fleshly
 核心：（书面或旧）肉体的、肉欲的：跟精神的相对，多见于宗教与文学。
@@ -249,6 +257,8 @@ a flexible pipe = 软管
 = 弹性工时人人满意，除了排班的那一个。
 flexible hours = 弹性工时
 flexible working hours = 弹性工作时间
+Flexible working hours mean the first person in opens up every day.
+= 所谓弹性工作时间，就是最早到的那个人天天开门。
 副词 flexibly：灵活地，多修饰 applied、interpreted、worked。
 ③ The rule is applied flexibly and nobody will say where the line is.
 = 那条规矩执行得很灵活，界线在哪儿谁也不肯说。
@@ -257,6 +267,8 @@ be applied flexibly = 灵活执行
 = 他们弹性办公，一个季度当面见一次。
 work flexibly = 弹性工作
 flexible friend = （戏称）信用卡
+He reached for the flexible friend and the machine declined it twice.
+= 他掏出信用卡，机器拒了两回。
 
 flexion
 核心：（解剖）屈曲：关节向内弯的动作，跟伸展 extension 相对。不可数。
