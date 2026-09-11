@@ -250,6 +250,8 @@ dark glasses = 墨镜
 = 星系里大部分质量是暗物质，而暗星根本不发光。
 dark matter = 暗物质
 a dark star = 暗星
+A dark star is found by what it does to the things around it.
+= 暗星是靠它对周围东西的影响找到的。
 天文学的一族，取的都是「看不见」那层意思。
 ⑳ He asked for dark meat and she handed him both drumsticks without a word.
 = 他要深色肉，她一声不响把两只腿都给了他。
@@ -534,28 +536,42 @@ datacomms = 数据通信（data communications 的口语缩略）
 = 那个项目先花了六个月做数据采集，之后才有人开始做数据挖掘。
 data capture = 数据采集
 data mining = 数据挖掘
+Data mining found a pattern that four people had already noticed.
+= 数据挖掘找出了一个已经有四个人察觉的规律。
 采集是把数据录进来，挖掘是从里面找规律，两步不能颠倒。
 ⑦ Their data processing runs overnight in a data centre two hundred miles away.
 = 他们的数据处理在两百英里外的一个数据中心通宵跑。
 data processing = 数据处理
 a data centre = 数据中心
+A data centre uses more water in summer than the town beside it.
+= 数据中心夏天的用水，比旁边那个镇还多。
 美式拼 data center；这一族都拿 data 作定语，不加所有格。
 ⑧ Every data point in the data set was checked twice before the data warehouse was loaded.
 = 数据集里的每一个数据点都核过两遍，才装进数据仓库。
 a data point = 数据点
 a data set = 数据集
+The data set has nine years of readings and one missing winter.
+= 那个数据集有九年的读数，缺了一个冬天。
 a data warehouse = 数据仓库
+The data warehouse holds everything and answers nothing quickly.
+= 数据仓库什么都存，什么都查得慢。
 data warehousing = 数据仓库化（把数据集中存管这件事）
+Data warehousing cost more than the reports it was built to produce.
+= 数据仓库化的花费，超过了它要产出的那些报表。
 warehouse 是那个库，warehousing 是把数据归拢进去这件事，别混。
 ⑨ The policy is data-driven, and data protection rules decide what may be kept at all.
 = 那套做法以数据为依据，而数据保护条例决定哪些东西根本不能留。
 data-driven = 以数据为依据的
 data protection = 数据保护
+Data protection training is annual and lasts eleven minutes.
+= 数据保护培训一年一次，十一分钟就完。
 data-driven 作定语要带连字符：a data-driven approach。
 ⑩ The old data terminal in the corner still works, though the data projector died years ago.
 = 角落里那台旧数据终端还能用，投影仪倒是好些年前就坏了。
 a data terminal = 数据终端
 a data projector = 投影仪（接电脑的那种）
+The data projector warms up slower than the speaker talks.
+= 那台投影仪预热的速度，比讲话人开口还慢。
 两个都是设备名；data projector 日常口语里多简称 projector。
 ⑪ Getting the data type wrong is why half the rows failed to import last night.
 = 数据类型填错了，昨晚才有一半的行没能导进去。

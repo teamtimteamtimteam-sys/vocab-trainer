@@ -13037,6 +13037,8 @@ a cue = 台球杆
 = 他母球打得太重，把台上的球全撞散了。
 a cue ball = 母球
 a cue card = 提词卡
+A cue card held up too late made him read the wrong name.
+= 提词卡举晚了，他把名字念错了。
 构词：可能来自 q，旧剧本里标演员上场的记号
 注意别混：跟排队那个 queue 同音，拼法不同。
 
@@ -13160,6 +13162,8 @@ culminate
 culminate in = 以……告终
 culminate in = 最终成就
 culminate with = 以……收场
+The week culminated with a dinner that nobody could get to.
+= 那一周以一顿谁都赶不到的晚宴收场。
 culminate in = 最终集中于
 ② The award was the culmination of her career and she gave it away.
 = 这个奖是她事业的顶点，她把它送了人。
@@ -13263,7 +13267,11 @@ under cultivation = 在耕种中
 = 那块地能耕，只是三十年没翻过。
 cultivable = 可耕种的
 a cultivar = 栽培品种
+That cultivar survives frost and tastes of almost nothing.
+= 那个栽培品种抗霜冻，几乎没什么味道。
 a cultivator = 中耕机；耕作者
+A cultivator broke down in the wettest week of the year.
+= 中耕机在一年里最湿的那周坏了。
 ⑦ She is a cultivated woman who left school at fourteen.
 = 她是个有教养的人，十四岁就辍学了。
 cultivated = 有教养的
@@ -13300,7 +13308,11 @@ culturally = 在文化上
 = 她是个文化活动迷，评论还没出就把票订光了。
 a culture vulture = 文化活动迷
 a culture warrior = 文化战士（贬）
+A culture warrior gets four interviews out of one committee report.
+= 一个文化战士能靠一份委员会报告接四个采访。
 cultured = 有教养的
+His cultured accent slips after the second drink.
+= 他那口有教养的腔调，第二杯下去就露馅。
 构词：拉丁语 cultura 耕作、培育
 注意来历：跟 cultivate 同源，本义都是「耕作培育」。
 
@@ -13403,8 +13415,14 @@ cumulative effect 是累积效应，副词 cumulatively。
 = 累积效应很严重，累计数字更糟。
 a cumulative effect = 累积效应
 be cumulative = 会累积
+The effect is cumulative and nobody notices until the fourth year.
+= 那种影响会累积，到第四年才有人察觉。
 a cumulative total = 累计数
+The cumulative total is printed at the bottom and nobody reads down that far.
+= 累计数印在最下面，没人看到那儿。
 a cumulative dose = 累积剂量
+The cumulative dose is what matters and the chart shows one day.
+= 要紧的是累积剂量，图上只画了一天。
 ② Cumulatively, the fees add up to more than the course itself.
 = 累计下来，各种费用比课程本身还贵。
 cumulatively = 累计地
@@ -13523,6 +13541,8 @@ a cuppa = 一杯茶（英式口语）
 = 他们打进了杯赛决赛，输给了低两个级别的球队。
 a cup final = 杯赛决赛
 a cup tie = 杯赛淘汰赛
+A cup tie on a Tuesday night empties the pubs for two hours.
+= 周二晚上的杯赛，把酒馆空了两个钟头。
 ⑧ Add a cupful of stock and let it reduce by about half.
 = 加一杯高汤，收到大约一半。
 a cupful = 一满杯的量
@@ -13716,6 +13736,8 @@ spending 是压缩开支；二是美式的路缘石，英式拼 kerb。
 = 他们压缩了公共开支，还让所有人收敛点。
 curb spending = 压缩开支
 curb one's enthusiasm = 收敛些
+Somebody curbed his enthusiasm before he promised a date.
+= 有人在他许下日期之前把他的热情压了下去。
 ② He stepped off the curb without looking and heard the brakes first.
 = 他没看路就下了路缘石，先听见的是刹车声。
 a curb = 路缘石（美式）
@@ -13726,6 +13748,8 @@ a curb on = 对……的约束
 = 他把车停在路边，四分钟内就吃了罚单。
 curbside = 路边的
 a curbstone = 路缘石
+A curbstone knocked loose in February was replaced in November.
+= 二月松掉的一块路缘石，十一月才换。
 构词：法语 courbe 弯的，本指勒马的弯衔铁
 注意英美差别：路缘石英式拼 kerb，美式拼 curb。
 
@@ -13788,7 +13812,11 @@ prevention is better than cure = 防重于治
 = 这事没有万灵药，却人人都在卖。
 a cure-all = 万灵药
 curettage = 刮宫、刮除术
+The curettage took ten minutes and the waiting took six hours.
+= 刮除术做了十分钟，等了六个小时。
 a curette = 刮匙
+A curette is small enough to lose and expensive enough to count.
+= 刮匙小得容易丢，贵得要清点。
 ⑦ The ham is dry-cured for nine months and sliced in front of you.
 = 那只火腿干腌九个月，当着你的面切片。
 dry-cure something = 干法腌制某物
@@ -13921,6 +13949,8 @@ curly = 卷曲的
 = 那本账簿每一页的页边都描着花体卷饰。
 a curlicue = 花体卷饰
 curling = 冰壶运动
+Curling looks slow until you try to make a stone stop where you want.
+= 冰壶看着慢，直到你试着让壶停在想停的地方。
 构词：中古荷兰语 krul 卷曲
 注意用法：curl up 也说人窝在沙发或被窝里。
 
@@ -13984,6 +14014,8 @@ foreign currency = 外币
 = 那个传言流行了一个月，随后就彻底没人提了。
 gain currency = 流传开来被人接受
 lose currency = 不再流行
+That phrase lost currency in a decade and came back in advertising.
+= 那个说法十年里不再流行，又在广告里回来了。
 构词：拉丁语 currere 跑、流通
 注意用法：说流传时不可数。
 
@@ -14007,6 +14039,8 @@ a current = 电流
 = 他逆流而上，一辈子工作都是这样。
 against the current = 逆流；也指逆着潮流
 go against the current = 逆着潮流而行
+She went against the current for nine years and was right in the tenth.
+= 她逆着潮流走了九年，第十年被证明是对的。
 ⑥ She is currently abroad and has not answered an email since June.
 = 她目前在国外，六月起就没回过邮件。
 currently = 眼下、目前
@@ -14014,6 +14048,8 @@ currently = 眼下、目前
 = 她开了个活期账户，收费跟从前一样。
 a current account = 活期账户（英式）
 current events = 时事
+The current events quiz has one question about anywhere outside Europe.
+= 那份时事测验里，只有一道题问的是欧洲以外的地方。
 构词：拉丁语 currere 跑
 注意别混：跟 currant 同音，那是葡萄干。
 
@@ -14038,6 +14074,8 @@ a curriculum vitae = 简历
 = 课外活动同样重要，花的钱比学费还多。
 extracurricular = 课外的
 curricular = 课程上的
+Curricular changes are announced in July and arrive in September.
+= 课程上的改动七月宣布，九月才落地。
 构词：拉丁语 curriculum 跑道、一段行程
 注意分工：单门课是 course，整套是 curriculum。
 
@@ -14174,6 +14212,8 @@ curtain
 = 请把窗帘拉上，走之前再拉开。
 draw the curtains = 拉窗帘
 open the curtains = 把窗帘拉开
+She opens the curtains at six and the street is still dark.
+= 她六点拉开窗帘，街上还是黑的。
 ② The curtain rose at eight on a set that was still being painted.
 = 八点幕启，布景还在上漆。
 the curtain rises = 幕启
@@ -14190,7 +14230,11 @@ a curtain call = 谢幕
 = 他们用帘子把角落隔开，管它叫诊室。
 curtain off = 用帘子隔开
 a curtain-raiser = 开场戏、前奏
+The curtain-raiser was better attended than the play it preceded.
+= 那出开场戏的上座，比它之前的正戏还好。
 curtain-up = 开演时刻
+Curtain-up is at half past seven and the bar shuts at twenty past.
+= 开演是七点半，吧台七点二十就关。
 构词：拉丁语 cortina 帷幕
 注意用法：拉开和拉上都说 draw the curtains，看上下文。
 
@@ -14265,10 +14309,14 @@ throw somebody a curve = 出人意料地为难某人
 = 谈判的最后一分钟，他出了出人意料的一手。
 a curveball = 曲线球；也指出人意料的一手
 curved = 弯曲的
+A curved wall costs four times a straight one and looks the same in photographs.
+= 弧形墙的造价是直墙的四倍，照片上看着一样。
 ⑦ The road is curvilinear and was designed to slow the traffic.
 = 这条路是曲线形的，设计出来就是为了让车慢下来。
 curvilinear = 曲线的
 curvy = 曲线起伏的
+A curvy road adds nine miles and takes the same time.
+= 那条弯弯绕绕的路多绕九英里，时间一样。
 构词：拉丁语 curvus 弯的
 注意用法：ahead of the curve 是褒义，说领先。
 
@@ -14342,6 +14390,8 @@ a cussword = 脏话（美式）
 = 他没好气地咧了咧嘴，第三次拒绝了帮忙。
 cussedly = 别扭地、执拗地
 cussedness = 执拗劲儿
+Pure cussedness kept him in that job for another four years.
+= 纯粹一股执拗劲儿，让他在那份工作上又待了四年。
 构词：curse 的走音
 注意语域：美式口语。
 
@@ -14365,6 +14415,8 @@ custard powder = 速调蛋奶粉
 = 番荔枝有股香草味，怎么吃都吃得一塌糊涂。
 a custard apple = 番荔枝
 a custard pie = 奶油砸脸派
+A custard pie in the face is funny once and never twice.
+= 奶油派糊脸，第一次好笑，第二次就不了。
 ⑥ Fill the tart with confectioner's custard and chill it before you cut.
 = 挞里灌上卡仕达奶油馅，冷藏之后再切。
 confectioner's custard = 卡仕达奶油馅（西点里的浓蛋奶馅）
@@ -14434,7 +14486,11 @@ customary = 照惯例的
 = 按惯例由最年长的先开口，这次谁也没说话。
 customarily = 照惯例
 customizable = 可定制的
+The form is customizable and every department chose the same layout.
+= 那张表是可定制的，每个部门都选了同样的版式。
 customs = 海关
+Customs held the parcel for a month over a two-pound charge.
+= 海关为两镑的费用扣了那个包裹一个月。
 构词：拉丁语 consuetudo 习惯
 注意分工：风俗是群体的，习惯是个人的。
 
@@ -14456,6 +14512,8 @@ the customer is always right = 顾客至上
 = 她做客户服务，一天接大约九十个电话。
 customer service = 客户服务
 customer-facing = 直接面对客户的
+Every customer-facing job in that company pays less than the ones behind.
+= 那家公司所有面客的岗位，都比后台的挣得少。
 构词：custom 惠顾 + -er
 注意分工：买东西的是 customer，用服务的多说 client。
 
@@ -14554,10 +14612,14 @@ a cutting = 剪报；也指插条
 = 那辆车是两截拼接的，根本不该上路。
 a cut-and-shut = 两截拼接的事故车（英式）
 cut-price = 减价的
+A cut-price ticket comes with a seat beside the toilets.
+= 打折票配的座位挨着厕所。
 ㉑ She cut away the dead wood and the rose came back the next year.
 = 她剪掉了枯枝，第二年那株玫瑰又开了。
 cut away = 剪掉、切除
 cut through = 抄近路穿过；也指切开
+They cut through the churchyard and save four minutes.
+= 他们抄近路穿过教堂墓地，省下四分钟。
 ㉒ The decanter is cut glass and a good deal heavier than it looks.
 = 那个醒酒器是刻花玻璃的，比看上去沉得多。
 cut glass = 刻花玻璃
@@ -14571,6 +14633,8 @@ a cut-throat razor = 折叠直剃刀
 = 那部片子开场就切到三十年前的一片海滩。
 a cutaway = 切出镜头；也指剖面图
 a cutback = 削减
+One cutback closed the library on the day it was busiest.
+= 一次削减，让图书馆在最忙的那天关了门。
 ㉖ She is a real cutie and knows exactly how to use it.
 = 她长得实在讨喜，而且很清楚该怎么用这一点。
 a cutie = 小可爱
@@ -16060,12 +16124,18 @@ lead somebody a dance = 把某人耍得团团转（英式）
 = 舞队一奏起第二组曲子，舞池立刻就挤满了。
 the dance floor = 舞池
 a dance band = 伴舞乐队
+A dance band played there every Saturday for thirty years.
+= 一支伴舞乐队在那儿演了三十年的周六场。
 舞会现场的两样东西：跳舞的地方与伴奏的乐队。
 ⑦ The old dance hall now sells dance music on vinyl, dance-hall reggae included.
 = 那座老舞厅如今卖黑胶舞曲唱片，连舞厅雷鬼也有。
 a dance hall = 舞厅
 dance music = 舞曲（不可数）
+Dance music at that volume empties the older half of the room.
+= 那种音量的舞曲，把屋里年长的一半人赶了出去。
 dance-hall reggae = 舞厅雷鬼（牙买加的一种曲风）
+Dance-hall reggae came out of one street and went round the world.
+= 舞厅雷鬼从一条街上出来，传遍了世界。
 舞厅雷鬼是在舞厅现场长出来的一支，名字就记着它的出处。
 构词：古法语 dancier
 注意用法：名词动词同形，舞蹈这门艺术不可数。
@@ -16215,6 +16285,8 @@ danger
 = 病人危险了两天，医生说现在已经脱离危险了。
 in danger = 有危险
 out of danger = 脱离危险
+He was out of danger by Tuesday and home by the weekend.
+= 他周二脱离危险，周末就回家了。
 一对反义搭配，中间都不加冠词。
 ② Several coastal villages are in danger of being cut off whenever a high tide meets heavy rain.
 = 每逢涨潮碰上大雨，好几个沿海村子都有被隔断的危险。
@@ -16513,6 +16585,8 @@ dark glasses = 墨镜
 = 星系里大部分质量是暗物质，而暗星根本不发光。
 dark matter = 暗物质
 a dark star = 暗星
+A dark star is found by what it does to the things around it.
+= 暗星是靠它对周围东西的影响找到的。
 天文学的一族，取的都是「看不见」那层意思。
 ⑳ He asked for dark meat and she handed him both drumsticks without a word.
 = 他要深色肉，她一声不响把两只腿都给了他。
@@ -16797,28 +16871,42 @@ datacomms = 数据通信（data communications 的口语缩略）
 = 那个项目先花了六个月做数据采集，之后才有人开始做数据挖掘。
 data capture = 数据采集
 data mining = 数据挖掘
+Data mining found a pattern that four people had already noticed.
+= 数据挖掘找出了一个已经有四个人察觉的规律。
 采集是把数据录进来，挖掘是从里面找规律，两步不能颠倒。
 ⑦ Their data processing runs overnight in a data centre two hundred miles away.
 = 他们的数据处理在两百英里外的一个数据中心通宵跑。
 data processing = 数据处理
 a data centre = 数据中心
+A data centre uses more water in summer than the town beside it.
+= 数据中心夏天的用水，比旁边那个镇还多。
 美式拼 data center；这一族都拿 data 作定语，不加所有格。
 ⑧ Every data point in the data set was checked twice before the data warehouse was loaded.
 = 数据集里的每一个数据点都核过两遍，才装进数据仓库。
 a data point = 数据点
 a data set = 数据集
+The data set has nine years of readings and one missing winter.
+= 那个数据集有九年的读数，缺了一个冬天。
 a data warehouse = 数据仓库
+The data warehouse holds everything and answers nothing quickly.
+= 数据仓库什么都存，什么都查得慢。
 data warehousing = 数据仓库化（把数据集中存管这件事）
+Data warehousing cost more than the reports it was built to produce.
+= 数据仓库化的花费，超过了它要产出的那些报表。
 warehouse 是那个库，warehousing 是把数据归拢进去这件事，别混。
 ⑨ The policy is data-driven, and data protection rules decide what may be kept at all.
 = 那套做法以数据为依据，而数据保护条例决定哪些东西根本不能留。
 data-driven = 以数据为依据的
 data protection = 数据保护
+Data protection training is annual and lasts eleven minutes.
+= 数据保护培训一年一次，十一分钟就完。
 data-driven 作定语要带连字符：a data-driven approach。
 ⑩ The old data terminal in the corner still works, though the data projector died years ago.
 = 角落里那台旧数据终端还能用，投影仪倒是好些年前就坏了。
 a data terminal = 数据终端
 a data projector = 投影仪（接电脑的那种）
+The data projector warms up slower than the speaker talks.
+= 那台投影仪预热的速度，比讲话人开口还慢。
 两个都是设备名；data projector 日常口语里多简称 projector。
 ⑪ Getting the data type wrong is why half the rows failed to import last night.
 = 数据类型填错了，昨晚才有一半的行没能导进去。
@@ -17215,6 +17303,8 @@ a day out = 出去玩一天
 = 他们订了去岛上的一日游，结果误了回程的末班船。
 a day trip = 一日游
 a day tripper = 去一日游的人
+A day tripper spends nothing and takes the same photographs.
+= 一日游的人不花钱，照片拍的都一样。
 英国海滨小镇夏天挤满的就是这一类游客。
 ㉕ She looked for day care for the baby within walking distance of work.
 = 她想给孩子找个走路就能到单位的日托。
@@ -17243,46 +17333,72 @@ every dog has its day = 人人都有得意的一天
 ㉛ As a day pupil at a day school she was home by four while her cousins boarded.
 = 她在走读学校当走读生，四点就到家，堂兄妹们却要住校。
 a day school = 走读学校
+The day school costs half the boarding fee and closes at four.
+= 走读学校的学费是寄宿的一半，四点放学。
 a day pupil = 走读生（英式）
+A day pupil misses the evening and hears about it all morning.
+= 走读生错过晚间活动，整个上午都在听人说。
 跟 boarding school 寄宿学校、boarder 寄宿生成对说。
 ㉜ The day boys played rugby against the boarders while the day girls kept the score.
 = 走读的男生跟住校生打橄榄球，走读的女生记分。
 a day boy = 走读男生（英式）
 a day girl = 走读女生（英式）
 a day student = 走读生（美式，不分性别）
+Every day student on that corridor lives within two miles.
+= 那条走廊上的走读生，都住在两英里之内。
 英式按性别分说，美式一律说 day student。
 ㉝ The day nursery takes babies from six months and the day centre next door is for the elderly.
 = 那家日间托儿所收六个月以上的婴儿，隔壁的日间中心是给老人的。
 a day nursery = 日间托儿所
+The day nursery has a waiting list longer than the school's.
+= 那家日间托儿所的等候名单，比学校的还长。
 a day centre = 日间照护中心（英式）
+The day centre opens four days a week and two people run it.
+= 日间照护中心一周开四天，两个人撑着。
 两个都是白天照看人的地方，一个管小孩，一个管老人和残障者。
 ㉞ The day care center opened at seven and parents waited in the day room until it did.
 = 那家日托中心七点开门，家长就在休息室里等着。
 a day care center = 日托中心（美式拼法）
 a day room = 休息室（机构里白天供人待着的公共房间）
+The day room has nine chairs and one window that opens.
+= 休息室里九把椅子，只有一扇窗能打开。
 英式写 day care centre；day room 多见于医院、军营、养老院。
 ㉟ He hired day labourers at the roundabout and paid day labor rates in cash.
 = 他在环岛那儿雇零工，按日工的价钱付现金。
 a day labourer = 零工、按日计酬的工人
+A day labourer is paid at six and gone by half past.
+= 零工六点领钱，六点半人就走了。
 day labor = 日工（美式拼法）
 英式 labourer 与 labour，美式 laborer 与 labor。
 ㊱ She gave up a salaried job for day trading and lasted eleven months as a day trader.
 = 她辞了拿固定薪水的工作去做日内交易，当了十一个月的日内交易者。
 day trading = 日内交易（当天买当天卖）
+Day trading paid for the car and then took it back.
+= 日内交易挣出了那辆车，又把它赔了回去。
 a day trader = 日内交易者
+A day trader watches four screens and misses the one that matters.
+= 日内交易者盯着四块屏，偏偏漏了要紧的那块。
 关键在「不留隔夜仓」，收盘前一定平掉。
 ㊲ His employer gives him day release, so he is at college every Wednesday until June.
 = 雇主给他每周一天的带薪进修，所以到六月前他每周三都在学院上课。
 day release = 带薪进修（英式，每周放一天去上课）
+Day release got him a qualification and cost the firm nothing.
+= 带薪进修让他拿到了资格证，公司一分没花。
 英国学徒制里的固定安排，工资照发。
 ㊳ They bought a day return to York and were back before the day-long strike began.
 = 他们买了去约克的当日往返票，赶在那场整日罢工开始前回来了。
 a day return = 当日往返票（英式）
+A day return costs less than a single and nobody can explain it.
+= 当日往返票比单程还便宜，没人解释得清。
 day-long = 整天的
+A day-long meeting decided what an email had already settled.
+= 一场整天的会，定的是一封邮件早就定下的事。
 day-long 作定语要带连字符；美式说 a round trip ticket。
 ㊴ The children go to a day camp in July and come home filthy every single evening.
 = 孩子们七月去日间夏令营，每天晚上都脏兮兮地回来。
 a day camp = 日间夏令营（美式，白天活动、晚上回家）
+Day camp runs from nine to four and the parents queue from half past three.
+= 日间夏令营九点到四点，家长三点半就开始排队。
 跟 summer camp 的分别只在过不过夜。
 构词：古英语 dæg
 注意用法：
@@ -17627,37 +17743,53 @@ dead weight = 沉重的负担；不能自己动的重量
 = 截止日期改了两次，整个项目卡在一个条款上僵住了。
 a deadline = 截止期限
 deadlock = 僵局、陷入僵局
+The deadlock broke when one side stopped sending letters.
+= 一方不再写信，僵局就破了。
 be deadlocked = 陷入僵局的
+The talks were deadlocked for a fortnight over a single date.
+= 谈判为一个日期僵持了两周。
 deadline 本指围场外「越界即射杀」的那条线，如今只剩时间义。
 ㉒ He delivered the punchline deadpan and the deadly silence lasted four seconds.
 = 他面无表情地抖出包袱，随后是四秒钟死一般的寂静。
 deadpan = 面无表情的（说讲笑话的方式）
 deadly = 致命的；也作强调，说「死一般的」
+A deadly silence followed the question and lasted four seconds.
+= 那个问题之后是一阵死寂，持续了四秒。
 deadly 既说毒蛇与疾病致命，也说 deadly serious 一本正经。
 ㉓ Thick curtains deadened the noise from the road and the deadening effect surprised them.
 = 厚窗帘把路上的噪音压了下去，那种消音效果让他们意外。
 deaden something = 减弱、压住（声音或疼痛）
 a deadening effect = 令人麻木或消音的效果
+A deadening effect on the room came from a carpet nobody liked.
+= 屋里那种发闷的效果，来自一块没人喜欢的地毯。
 说声音是「压住」，说感受是「让人麻木」。
 ㉔ He came home dead beat and the deadbeat next door was playing records again.
 = 他回到家累瘫了，隔壁那个游手好闲的家伙又在放唱片。
 dead beat = 累瘫的（英式口语）
 a deadbeat = 游手好闲、欠债不还的人（美式，贬义）
+A deadbeat tenant left owing four months and took the door handles.
+= 一个赖账的租客欠了四个月房租跑了，还卸走了门把手。
 两个写法差一个空格，意思毫不相干：分写说累，合写说人不成器。
 ㉕ He got a dead leg in training and spent the match in the dead zone behind the goal.
 = 他训练时腿被撞麻了，整场比赛都待在球门后那块没信号的区域。
 a dead leg = 大腿被撞后的麻痹
 a dead zone = 死区（没有信号或生物的区域）
+There is a dead zone on that stair and every call drops there.
+= 那段楼梯上有个信号死区，电话到那儿全断。
 dead zone 说手机没信号，也说水体缺氧、生物无法存活的那片。
 ㉖ Analysts called the rally a dead cat bounce and the panel was still three dead white males.
 = 分析师管那波反弹叫死猫反弹，而那个专家组还是三个已故白人男性作家。
 a dead cat bounce = 死猫反弹（暴跌后短暂回升）
 a dead white male = 已故白人男性（批评经典书单时的说法）
+The reading list is all dead white males and one living woman.
+= 那份书单全是已故白人男性，外加一位在世女性。
 两个都是带讥诮的行话：一个出自股市，一个出自文学课的争论。
 ㉗ She fitted a deadbolt on the back door and left the deadhead flowers for the morning.
 = 她给后门装了个死锁栓，把要摘的残花留到早上再说。
 a deadbolt = 死锁栓（要钥匙才动的那种）
 deadhead something = 摘掉残花
+She deadheads the roses in July and gets a second flowering.
+= 她七月摘掉玫瑰残花，换来第二轮花期。
 deadhead 另有两个口语义：空车调运，以及看白戏的人。
 构词：古英语 dead
 注意词性：
@@ -17810,6 +17942,8 @@ a new deal = 一揽子新安排
 = 那个条款是谈崩的关键，写下它的那位促成交易的人也离开了公司。
 a deal-breaker = 让交易谈不成的关键点
 a dealmaker = 促成交易的人
+A dealmaker flew in for one afternoon and changed the price twice.
+= 一位促成交易的人飞来待了一下午，价钱改了两回。
 deal-breaker 如今也用在婚恋与租房这类日常场合。
 构词：古英语 dælan 分开、分配
 注意三态：deal / dealt / dealt，读音里的元音要变短
@@ -17946,6 +18080,8 @@ deathless = 不朽的（多说文字，常带反讽）
 = 死亡证明上写着一个死因，那个病区的死亡率却说着另一回事。
 a death certificate = 死亡证明
 the death rate = 死亡率
+The death rate fell for nine years and the hospital closed anyway.
+= 死亡率降了九年，那家医院还是关了。
 统计里跟 birth rate 出生率成对说。
 ⑮ The closure was a death blow to the town and sounded the death knell for the branch line.
 = 关停对那座镇子是致命一击，也敲响了那条支线铁路的丧钟。
@@ -17956,36 +18092,50 @@ sound the death knell for something = 敲响某事物的丧钟
 = 他在死囚区待了十一年，死刑判决才获减刑。
 death row = 死囚区
 a death sentence = 死刑判决
+A death sentence was passed and commuted within the same year.
+= 死刑判决下了，同一年就减了刑。
 另有 a death warrant 死刑执行令：sign your own death warrant 是自寻死路。
 ⑰ The camp was a death camp in everything but name and the death toll is still disputed.
 = 那座营地除了名字之外就是死亡营，死亡人数至今有争议。
 a death camp = 死亡营
 the death toll = 死亡人数
+The death toll rose for three days and was revised down twice.
+= 死亡人数涨了三天，又两次下修。
 death toll 是新闻里报伤亡的固定说法。
 ⑱ A death squad operated in the province for two years and left no death warrant behind.
 = 一支敢死队在那个省活动了两年，没留下任何一纸处决令。
 a death squad = 暗杀队、敢死队
 a death warrant = 死刑执行令
+A death warrant was signed and stayed in a drawer for years.
+= 一纸死刑执行令签了字，在抽屉里放了好几年。
 death squad 指政治暗杀的准军事小队，一律贬义。
 ⑲ The nurse recognized the death rattle and the family arrived before the death throes began.
 = 护士听出了临终的痰鸣，家属赶在临终挣扎开始之前到了。
 a death rattle = 临终痰鸣
 death throes = 临终的挣扎
+The industry has been in its death throes for four decades.
+= 那个行业已经临终挣扎了四十年。
 death throes 也比喻着说一个行业、政权垂死挣扎的阶段。
 ⑳ The road is a death trap in fog and the stunt was billed as death-defying.
 = 那条路起雾时就是个夺命陷阱，那场特技却被宣传成挑战死神。
 a death trap = 夺命陷阱（极危险的地方或车辆）
 death-defying = 玩命的、挑战死神的
+A death-defying climb was filmed by somebody standing on a ladder.
+= 那次玩命的攀爬，是一个站在梯子上的人拍的。
 death-defying 多用在马戏与特技的宣传语里。
 ㉑ The plaster death mask is the only likeness that survives, and death duty broke up the estate.
 = 那副石膏死亡面模是仅存的相貌记录，遗产税则把那片地产拆散了。
 a death mask = 死亡面模
 death duty = 遗产税（英式旧称）
+Death duty took the farm and left the family the farmhouse.
+= 遗产税收走了农场，只给那家人留下农舍。
 英国如今正式叫 inheritance tax，death duty 是老说法。
 ㉒ The company entered a death spiral and the founder was accused of having a death wish.
 = 那家公司进入了死亡螺旋，创始人被说成是有寻死的念头。
 a death spiral = 死亡螺旋（越糟越糟的循环）
 a death wish = 求死的念头；也说「不要命」
+He rides that junction like a man with a death wish.
+= 他过那个路口的架势，像是不要命了。
 两个都常用于比喻，说人不要命时带调侃。
 构词：古英语 dēaþ，与 die 同源
 注意别混：
@@ -18235,6 +18385,8 @@ a debtor = 欠债的一方
 = 催收员来过两回，债务减免方案晚到了两年。
 a debt collector = 催收员
 debt relief = 债务减免
+Debt relief arrived in the year the harvest was good.
+= 债务减免来的那年，收成正好不错。
 debt relief 多说国家层面的减免，也说个人破产救济。
 构词：拉丁语 debitum 欠款；英语里那个 b 是后人照拉丁文补进去的，不发音
 注意用法：说欠谁钱用 owe，说处在负债状态用 be in debt。
@@ -18915,6 +19067,8 @@ a deckhouse = 甲板室
 = 他们上午玩甲板套圈，接着打甲板网球，直到起了风。
 deck quoits = 甲板套圈
 deck tennis = 甲板网球
+Deck tennis kept four hundred passengers busy across the Atlantic.
+= 甲板网球让四百名乘客在横渡大西洋的途中有事可做。
 两样都是远洋客轮上的老式船上游戏。
 ⑪ He wore deck shoes on a boat he had never once helped to sail.
 = 他穿着帆船鞋，上的却是一条他从没帮着开过的船。
@@ -18979,6 +19133,8 @@ somebody's declared aim = 某人公开宣称的目标
 = 一小时之内，两个工会表态支持那份协议，三个表态反对。
 declare for something = 公开表态支持
 declare against something = 公开表态反对
+Two members declared against the merger and were not invited back.
+= 两名成员公开反对合并，之后没再被请去。
 多见于政治与工会报道；也说 declare for a candidate。
 构词：拉丁语 declarare 弄清楚
 注意用法：宣布某人是什么，用 declare somebody something（declare him bankrupt）。
@@ -19516,6 +19672,8 @@ in word and in deed = 言语上和行动上
 = 那份契约同他改名的单方契据是在同一周签的。
 a deed of covenant = 定期给付契约
 a deed poll = 单方契据（英国改名用）
+He changed his name by deed poll and told nobody for a year.
+= 他以单方契据改了名，一年没告诉任何人。
 英国改名的正式途径就是 change your name by deed poll。
 构词：古英语 dǣd，与 do 同源
 注意语域：「所作所为」那一支偏庄重，日常说 something you have done。
@@ -19639,17 +19797,25 @@ deepen = 加深、变深
 = 他们在后头的棚子里什么都油炸，面糊放在冷冻柜里。
 deep-fry something = 油炸某物
 a deep freeze = 冷冻柜；也说「冻结状态」
+The deep freeze in the garage holds four years of bread.
+= 车库里那台冷冻柜，存着四年的面包。
 deep-frozen = 深度冷冻的
+Deep-frozen fish tastes better than what the counter calls fresh.
+= 深冻的鱼，比柜台上号称新鲜的还好吃。
 in a deep freeze 也比喻关系或谈判被冻住。
 ㉒ He has deep-set eyes and the deep-dyed prejudices of a much older generation.
 = 他眼窝很深，抱着比他老得多的那代人的根深蒂固的偏见。
 deep-set = 深陷的（说眼睛）
 deep-dyed = 根深蒂固的（贬义）
+A deep-dyed pessimist ran the finance department for nine years.
+= 一个骨子里的悲观主义者管了九年财务部。
 deep-dyed 从染布来：染透了就洗不掉。
 ㉓ The buyer was deep-pocketed and everyone knew the deep pockets belonged to somebody else.
 = 那个买家财力雄厚，可谁都知道钱袋子是别人的。
 deep-pocketed = 财力雄厚的
 deep pockets = 雄厚的财力
+The other side has deep pockets and four more years of patience.
+= 对方财力雄厚，还比你多四年的耐心。
 多用于诉讼与收购的报道，暗示「掏得起钱」。
 ㉔ Sitting still for eleven hours risks deep vein thrombosis, whatever the airline says.
 = 一动不动坐十一个钟头有患深静脉血栓的风险，不管航空公司怎么说。
@@ -19659,6 +19825,8 @@ deep vein thrombosis = 深静脉血栓（缩写 DVT）
 = 那份提案在委员会里被枪毙了，它的深层结构却在另一项法案里活了下来。
 deep-six something = 把某物彻底毙掉（美式口语）
 deep structure = 深层结构（语言学）
+Deep structure explains why two different sentences mean the same thing.
+= 深层结构解释了为什么两个不同的句子意思一样。
 deep-six 本是水手的话：抛进六英寻深的海里。
 构词：古英语 deop
 注意用法：
@@ -19836,6 +20004,8 @@ be defective = 有缺陷的
 = 报告说那个阀门工作不正常，并归咎于密封件本身的缺陷。
 defectively = 有缺陷地、不正常地
 defectiveness = 有缺陷这一属性
+The defectiveness of the batch was obvious and argued about for months.
+= 那批货有缺陷是明摆着的，却争了好几个月。
 两个词都少用，多见于正式报告。
 构词：拉丁语 deficere 缺少、背离
 注意用法：名词重音在前，动词重音在后，两支意思不相干。
@@ -20354,6 +20524,8 @@ defy an order = 违抗命令
 = 那间厨房乱得没法形容，我试着描述过两回。
 defy description = 难以形容
 defy explanation = 无法解释
+The timetable defies explanation and has worked for eleven years.
+= 那份时刻表无法解释，却已经运转了十一年。
 同一个句式的一族：后面接 description、explanation、belief、logic 都行。
 ③ The way the roof stayed up defied belief and two engineers came to look at it.
 = 那屋顶居然没塌，简直让人难以置信，来了两位工程师看。
@@ -20985,6 +21157,8 @@ deltoids = 两侧的三角肌
 = 那种三角翼是为速度设计的，δ 射线倒是无意间测到的。
 a delta wing = 三角翼
 delta rays = δ 射线（次级电子）
+Delta rays show up as short tracks branching off the main one.
+= δ 射线显现为从主径迹上岔出的短线。
 航空的三角翼与物理的射线，共用的是希腊字母那个三角形状。
 ⑥ Delta rhythm dominates the first hours of sleep and disappears before anybody dreams much.
 = 睡眠头几个钟头以δ波为主，做梦多起来之前它就消失了。
@@ -21912,11 +22086,15 @@ dentition = 全套牙齿的排列
 = 洁牙师就牙线给她上了一课，牙外科医生却一句话没说。
 a dental hygienist = 洁牙师
 a dental surgeon = 牙外科医生
+A dental surgeon took nine minutes and charged for the hour.
+= 牙外科医生做了九分钟，按一小时收费。
 英国的牙医正式头衔就是 dental surgeon，日常还是说 dentist。
 ⑤ Dental floss and a dental dam cost less than one filling and last a great deal longer.
 = 牙线和牙科橡皮障加起来比补一颗牙还便宜，用得也久得多。
 dental floss = 牙线
 a dental dam = 牙科橡皮障
+A dental dam keeps the field dry and the patient silent.
+= 牙科橡皮障让术野保持干燥，也让病人说不了话。
 橡皮障是治疗时隔开患牙的那张薄膜。
 构词：拉丁语 dens 牙
 注意用法：说看牙的费用与保险一律用 dental，不用 tooth。
@@ -22099,6 +22277,8 @@ a dependency = 属地；也指成瘾状态
 = 一切都取决于一份没人读过的勘查报告，以及一家供应商靠不靠得住。
 depend upon something = 取决于某事（比 depend on 正式）
 dependability = 可靠性
+Dependability is why that van is still on the road at three hundred thousand miles.
+= 靠得住，正是那辆货车跑了三十万英里还在路上的原因。
 upon 与 on 通用，upon 多见于书面。
 构词：拉丁语 dependere 悬挂在……之下
 注意别混：a dependant 是人（英式拼法），dependent 是形容词；美式两者都写 dependent。
@@ -22493,6 +22673,8 @@ in the depths of winter = 隆冬时节
 = 船尾某处炸开一枚深水炸弹，把摄影师的景深也毁了。
 a depth charge = 深水炸弹
 depth of field = 景深（摄影）
+A shallow depth of field hides a kitchen nobody had time to tidy.
+= 浅景深遮住了一间来不及收拾的厨房。
 两个词的 depth 一个说海深，一个说清晰的纵深范围。
 构词：deep 加名词后缀 -th
 注意用法：out of your depth 本义是水深过头，比喻义今天用得更多。
@@ -22842,7 +23024,11 @@ be of Irish descent = 有爱尔兰血统
 = 辩论沦为叫嚷，降格成互相辱骂，最后把火烧到了看门人身上。
 descend into something = 沦为某种糟糕局面
 descend to something = 降格去做某事
+He would not descend to answering the letter and answered it anyway.
+= 他本不屑于回那封信，最后还是回了。
 descend upon somebody = 突然涌向某人
+Four relatives descended upon them on the same wet weekend.
+= 四个亲戚在同一个下雨的周末涌到他们家。
 三个介词三个意思：into 说局面变坏，to 说自甘堕落，upon 说一拥而上。
 构词：拉丁语 descendere 走下去
 注意别混：descent 是下降与血统，dissent 是异议 —— 读音接近，别写错。
@@ -22972,6 +23158,8 @@ desertification = 沙漠化
 = 他们在宣传册所谓的荒岛上待了两周，全程穿着沙漠靴。
 a desert island = 荒岛
 desert boots = 沙漠靴（麂皮系带短靴）
+Desert boots last one winter in that climate and look good doing it.
+= 沙漠靴在那种气候里只能撑一个冬天，样子倒好看。
 desert island 常出现在「只能带三样东西」那类游戏里。
 构词：拉丁语 desertus 被弃的 —— 沙漠就是「被弃之地」
 注意别混：desert（沙漠）与 dessert（甜点）只差一个 s，重音也不同。
@@ -23985,6 +24173,8 @@ developmental = 发育的、发展的
 = 发展中国家得到的是一套承诺，可从发展的角度看，差距照旧拉大。
 the developing world = 发展中国家（总称）
 developmentally = 从发展的角度看
+Developmentally the child is fine and the chart says otherwise.
+= 从发展的角度看那孩子没问题，图表却不这么说。
 developing 作定语说「发展中的」，是国际报道里的固定说法。
 构词：古法语 desveloper 展开
 注意用法：说发展成什么用 develop into；说患上症状用 develop a cough。
@@ -24430,8 +24620,14 @@ a dialler = 拨号机
 = 在家拨入接进去；不行就拨号连那台老猫；不管哪种，先把期待调低。
 dial in = 拨入接进（会议或系统）
 dial up = 拨号连接
+They dialled up at midnight because the calls were cheaper.
+= 他们半夜拨号上网，因为那时电话费便宜。
 dial down = 把（程度）调低
+Somebody dialled down the heating and four people brought blankets.
+= 有人把暖气调低了，四个人带来了毯子。
 dial into something = 拨入某个会议
+She dialled into the meeting from a car park and heard every word.
+= 她在停车场拨入会议，一字不落全听见了。
 dial down 今天多用于比喻：dial down the rhetoric 把调门降下来。
 构词：中世纪拉丁语 diale 日晷盘
 注意用法：英式双写 l：dialled、dialling；美式写 dialed、dialing。

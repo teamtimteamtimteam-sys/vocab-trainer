@@ -159,6 +159,8 @@ defy an order = 违抗命令
 = 那间厨房乱得没法形容，我试着描述过两回。
 defy description = 难以形容
 defy explanation = 无法解释
+The timetable defies explanation and has worked for eleven years.
+= 那份时刻表无法解释，却已经运转了十一年。
 同一个句式的一族：后面接 description、explanation、belief、logic 都行。
 ③ The way the roof stayed up defied belief and two engineers came to look at it.
 = 那屋顶居然没塌，简直让人难以置信，来了两位工程师看。

@@ -90,37 +90,53 @@ dead weight = 沉重的负担；不能自己动的重量
 = 截止日期改了两次，整个项目卡在一个条款上僵住了。
 a deadline = 截止期限
 deadlock = 僵局、陷入僵局
+The deadlock broke when one side stopped sending letters.
+= 一方不再写信，僵局就破了。
 be deadlocked = 陷入僵局的
+The talks were deadlocked for a fortnight over a single date.
+= 谈判为一个日期僵持了两周。
 deadline 本指围场外「越界即射杀」的那条线，如今只剩时间义。
 ㉒ He delivered the punchline deadpan and the deadly silence lasted four seconds.
 = 他面无表情地抖出包袱，随后是四秒钟死一般的寂静。
 deadpan = 面无表情的（说讲笑话的方式）
 deadly = 致命的；也作强调，说「死一般的」
+A deadly silence followed the question and lasted four seconds.
+= 那个问题之后是一阵死寂，持续了四秒。
 deadly 既说毒蛇与疾病致命，也说 deadly serious 一本正经。
 ㉓ Thick curtains deadened the noise from the road and the deadening effect surprised them.
 = 厚窗帘把路上的噪音压了下去，那种消音效果让他们意外。
 deaden something = 减弱、压住（声音或疼痛）
 a deadening effect = 令人麻木或消音的效果
+A deadening effect on the room came from a carpet nobody liked.
+= 屋里那种发闷的效果，来自一块没人喜欢的地毯。
 说声音是「压住」，说感受是「让人麻木」。
 ㉔ He came home dead beat and the deadbeat next door was playing records again.
 = 他回到家累瘫了，隔壁那个游手好闲的家伙又在放唱片。
 dead beat = 累瘫的（英式口语）
 a deadbeat = 游手好闲、欠债不还的人（美式，贬义）
+A deadbeat tenant left owing four months and took the door handles.
+= 一个赖账的租客欠了四个月房租跑了，还卸走了门把手。
 两个写法差一个空格，意思毫不相干：分写说累，合写说人不成器。
 ㉕ He got a dead leg in training and spent the match in the dead zone behind the goal.
 = 他训练时腿被撞麻了，整场比赛都待在球门后那块没信号的区域。
 a dead leg = 大腿被撞后的麻痹
 a dead zone = 死区（没有信号或生物的区域）
+There is a dead zone on that stair and every call drops there.
+= 那段楼梯上有个信号死区，电话到那儿全断。
 dead zone 说手机没信号，也说水体缺氧、生物无法存活的那片。
 ㉖ Analysts called the rally a dead cat bounce and the panel was still three dead white males.
 = 分析师管那波反弹叫死猫反弹，而那个专家组还是三个已故白人男性作家。
 a dead cat bounce = 死猫反弹（暴跌后短暂回升）
 a dead white male = 已故白人男性（批评经典书单时的说法）
+The reading list is all dead white males and one living woman.
+= 那份书单全是已故白人男性，外加一位在世女性。
 两个都是带讥诮的行话：一个出自股市，一个出自文学课的争论。
 ㉗ She fitted a deadbolt on the back door and left the deadhead flowers for the morning.
 = 她给后门装了个死锁栓，把要摘的残花留到早上再说。
 a deadbolt = 死锁栓（要钥匙才动的那种）
 deadhead something = 摘掉残花
+She deadheads the roses in July and gets a second flowering.
+= 她七月摘掉玫瑰残花，换来第二轮花期。
 deadhead 另有两个口语义：空车调运，以及看白戏的人。
 构词：古英语 dead
 注意词性：
@@ -273,6 +289,8 @@ a new deal = 一揽子新安排
 = 那个条款是谈崩的关键，写下它的那位促成交易的人也离开了公司。
 a deal-breaker = 让交易谈不成的关键点
 a dealmaker = 促成交易的人
+A dealmaker flew in for one afternoon and changed the price twice.
+= 一位促成交易的人飞来待了一下午，价钱改了两回。
 deal-breaker 如今也用在婚恋与租房这类日常场合。
 构词：古英语 dælan 分开、分配
 注意三态：deal / dealt / dealt，读音里的元音要变短
@@ -409,6 +427,8 @@ deathless = 不朽的（多说文字，常带反讽）
 = 死亡证明上写着一个死因，那个病区的死亡率却说着另一回事。
 a death certificate = 死亡证明
 the death rate = 死亡率
+The death rate fell for nine years and the hospital closed anyway.
+= 死亡率降了九年，那家医院还是关了。
 统计里跟 birth rate 出生率成对说。
 ⑮ The closure was a death blow to the town and sounded the death knell for the branch line.
 = 关停对那座镇子是致命一击，也敲响了那条支线铁路的丧钟。
@@ -419,36 +439,50 @@ sound the death knell for something = 敲响某事物的丧钟
 = 他在死囚区待了十一年，死刑判决才获减刑。
 death row = 死囚区
 a death sentence = 死刑判决
+A death sentence was passed and commuted within the same year.
+= 死刑判决下了，同一年就减了刑。
 另有 a death warrant 死刑执行令：sign your own death warrant 是自寻死路。
 ⑰ The camp was a death camp in everything but name and the death toll is still disputed.
 = 那座营地除了名字之外就是死亡营，死亡人数至今有争议。
 a death camp = 死亡营
 the death toll = 死亡人数
+The death toll rose for three days and was revised down twice.
+= 死亡人数涨了三天，又两次下修。
 death toll 是新闻里报伤亡的固定说法。
 ⑱ A death squad operated in the province for two years and left no death warrant behind.
 = 一支敢死队在那个省活动了两年，没留下任何一纸处决令。
 a death squad = 暗杀队、敢死队
 a death warrant = 死刑执行令
+A death warrant was signed and stayed in a drawer for years.
+= 一纸死刑执行令签了字，在抽屉里放了好几年。
 death squad 指政治暗杀的准军事小队，一律贬义。
 ⑲ The nurse recognized the death rattle and the family arrived before the death throes began.
 = 护士听出了临终的痰鸣，家属赶在临终挣扎开始之前到了。
 a death rattle = 临终痰鸣
 death throes = 临终的挣扎
+The industry has been in its death throes for four decades.
+= 那个行业已经临终挣扎了四十年。
 death throes 也比喻着说一个行业、政权垂死挣扎的阶段。
 ⑳ The road is a death trap in fog and the stunt was billed as death-defying.
 = 那条路起雾时就是个夺命陷阱，那场特技却被宣传成挑战死神。
 a death trap = 夺命陷阱（极危险的地方或车辆）
 death-defying = 玩命的、挑战死神的
+A death-defying climb was filmed by somebody standing on a ladder.
+= 那次玩命的攀爬，是一个站在梯子上的人拍的。
 death-defying 多用在马戏与特技的宣传语里。
 ㉑ The plaster death mask is the only likeness that survives, and death duty broke up the estate.
 = 那副石膏死亡面模是仅存的相貌记录，遗产税则把那片地产拆散了。
 a death mask = 死亡面模
 death duty = 遗产税（英式旧称）
+Death duty took the farm and left the family the farmhouse.
+= 遗产税收走了农场，只给那家人留下农舍。
 英国如今正式叫 inheritance tax，death duty 是老说法。
 ㉒ The company entered a death spiral and the founder was accused of having a death wish.
 = 那家公司进入了死亡螺旋，创始人被说成是有寻死的念头。
 a death spiral = 死亡螺旋（越糟越糟的循环）
 a death wish = 求死的念头；也说「不要命」
+He rides that junction like a man with a death wish.
+= 他过那个路口的架势，像是不要命了。
 两个都常用于比喻，说人不要命时带调侃。
 构词：古英语 dēaþ，与 die 同源
 注意别混：
@@ -698,6 +732,8 @@ a debtor = 欠债的一方
 = 催收员来过两回，债务减免方案晚到了两年。
 a debt collector = 催收员
 debt relief = 债务减免
+Debt relief arrived in the year the harvest was good.
+= 债务减免来的那年，收成正好不错。
 debt relief 多说国家层面的减免，也说个人破产救济。
 构词：拉丁语 debitum 欠款；英语里那个 b 是后人照拉丁文补进去的，不发音
 注意用法：说欠谁钱用 owe，说处在负债状态用 be in debt。

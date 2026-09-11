@@ -155,11 +155,15 @@ dentition = 全套牙齿的排列
 = 洁牙师就牙线给她上了一课，牙外科医生却一句话没说。
 a dental hygienist = 洁牙师
 a dental surgeon = 牙外科医生
+A dental surgeon took nine minutes and charged for the hour.
+= 牙外科医生做了九分钟，按一小时收费。
 英国的牙医正式头衔就是 dental surgeon，日常还是说 dentist。
 ⑤ Dental floss and a dental dam cost less than one filling and last a great deal longer.
 = 牙线和牙科橡皮障加起来比补一颗牙还便宜，用得也久得多。
 dental floss = 牙线
 a dental dam = 牙科橡皮障
+A dental dam keeps the field dry and the patient silent.
+= 牙科橡皮障让术野保持干燥，也让病人说不了话。
 橡皮障是治疗时隔开患牙的那张薄膜。
 构词：拉丁语 dens 牙
 注意用法：说看牙的费用与保险一律用 dental，不用 tooth。
@@ -342,6 +346,8 @@ a dependency = 属地；也指成瘾状态
 = 一切都取决于一份没人读过的勘查报告，以及一家供应商靠不靠得住。
 depend upon something = 取决于某事（比 depend on 正式）
 dependability = 可靠性
+Dependability is why that van is still on the road at three hundred thousand miles.
+= 靠得住，正是那辆货车跑了三十万英里还在路上的原因。
 upon 与 on 通用，upon 多见于书面。
 构词：拉丁语 dependere 悬挂在……之下
 注意别混：a dependant 是人（英式拼法），dependent 是形容词；美式两者都写 dependent。

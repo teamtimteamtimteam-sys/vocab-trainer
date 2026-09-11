@@ -53,6 +53,8 @@ a cue = 台球杆
 = 他母球打得太重，把台上的球全撞散了。
 a cue ball = 母球
 a cue card = 提词卡
+A cue card held up too late made him read the wrong name.
+= 提词卡举晚了，他把名字念错了。
 构词：可能来自 q，旧剧本里标演员上场的记号
 注意别混：跟排队那个 queue 同音，拼法不同。
 
@@ -176,6 +178,8 @@ culminate
 culminate in = 以……告终
 culminate in = 最终成就
 culminate with = 以……收场
+The week culminated with a dinner that nobody could get to.
+= 那一周以一顿谁都赶不到的晚宴收场。
 culminate in = 最终集中于
 ② The award was the culmination of her career and she gave it away.
 = 这个奖是她事业的顶点，她把它送了人。
@@ -279,7 +283,11 @@ under cultivation = 在耕种中
 = 那块地能耕，只是三十年没翻过。
 cultivable = 可耕种的
 a cultivar = 栽培品种
+That cultivar survives frost and tastes of almost nothing.
+= 那个栽培品种抗霜冻，几乎没什么味道。
 a cultivator = 中耕机；耕作者
+A cultivator broke down in the wettest week of the year.
+= 中耕机在一年里最湿的那周坏了。
 ⑦ She is a cultivated woman who left school at fourteen.
 = 她是个有教养的人，十四岁就辍学了。
 cultivated = 有教养的
@@ -316,7 +324,11 @@ culturally = 在文化上
 = 她是个文化活动迷，评论还没出就把票订光了。
 a culture vulture = 文化活动迷
 a culture warrior = 文化战士（贬）
+A culture warrior gets four interviews out of one committee report.
+= 一个文化战士能靠一份委员会报告接四个采访。
 cultured = 有教养的
+His cultured accent slips after the second drink.
+= 他那口有教养的腔调，第二杯下去就露馅。
 构词：拉丁语 cultura 耕作、培育
 注意来历：跟 cultivate 同源，本义都是「耕作培育」。
 
@@ -419,8 +431,14 @@ cumulative effect 是累积效应，副词 cumulatively。
 = 累积效应很严重，累计数字更糟。
 a cumulative effect = 累积效应
 be cumulative = 会累积
+The effect is cumulative and nobody notices until the fourth year.
+= 那种影响会累积，到第四年才有人察觉。
 a cumulative total = 累计数
+The cumulative total is printed at the bottom and nobody reads down that far.
+= 累计数印在最下面，没人看到那儿。
 a cumulative dose = 累积剂量
+The cumulative dose is what matters and the chart shows one day.
+= 要紧的是累积剂量，图上只画了一天。
 ② Cumulatively, the fees add up to more than the course itself.
 = 累计下来，各种费用比课程本身还贵。
 cumulatively = 累计地

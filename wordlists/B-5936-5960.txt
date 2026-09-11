@@ -115,6 +115,8 @@ be defective = 有缺陷的
 = 报告说那个阀门工作不正常，并归咎于密封件本身的缺陷。
 defectively = 有缺陷地、不正常地
 defectiveness = 有缺陷这一属性
+The defectiveness of the batch was obvious and argued about for months.
+= 那批货有缺陷是明摆着的，却争了好几个月。
 两个词都少用，多见于正式报告。
 构词：拉丁语 deficere 缺少、背离
 注意用法：名词重音在前，动词重音在后，两支意思不相干。

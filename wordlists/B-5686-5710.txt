@@ -44,7 +44,11 @@ customary = 照惯例的
 = 按惯例由最年长的先开口，这次谁也没说话。
 customarily = 照惯例
 customizable = 可定制的
+The form is customizable and every department chose the same layout.
+= 那张表是可定制的，每个部门都选了同样的版式。
 customs = 海关
+Customs held the parcel for a month over a two-pound charge.
+= 海关为两镑的费用扣了那个包裹一个月。
 构词：拉丁语 consuetudo 习惯
 注意分工：风俗是群体的，习惯是个人的。
 
@@ -66,6 +70,8 @@ the customer is always right = 顾客至上
 = 她做客户服务，一天接大约九十个电话。
 customer service = 客户服务
 customer-facing = 直接面对客户的
+Every customer-facing job in that company pays less than the ones behind.
+= 那家公司所有面客的岗位，都比后台的挣得少。
 构词：custom 惠顾 + -er
 注意分工：买东西的是 customer，用服务的多说 client。
 
@@ -164,10 +170,14 @@ a cutting = 剪报；也指插条
 = 那辆车是两截拼接的，根本不该上路。
 a cut-and-shut = 两截拼接的事故车（英式）
 cut-price = 减价的
+A cut-price ticket comes with a seat beside the toilets.
+= 打折票配的座位挨着厕所。
 ㉑ She cut away the dead wood and the rose came back the next year.
 = 她剪掉了枯枝，第二年那株玫瑰又开了。
 cut away = 剪掉、切除
 cut through = 抄近路穿过；也指切开
+They cut through the churchyard and save four minutes.
+= 他们抄近路穿过教堂墓地，省下四分钟。
 ㉒ The decanter is cut glass and a good deal heavier than it looks.
 = 那个醒酒器是刻花玻璃的，比看上去沉得多。
 cut glass = 刻花玻璃
@@ -181,6 +191,8 @@ a cut-throat razor = 折叠直剃刀
 = 那部片子开场就切到三十年前的一片海滩。
 a cutaway = 切出镜头；也指剖面图
 a cutback = 削减
+One cutback closed the library on the day it was busiest.
+= 一次削减，让图书馆在最忙的那天关了门。
 ㉖ She is a real cutie and knows exactly how to use it.
 = 她长得实在讨喜，而且很清楚该怎么用这一点。
 a cutie = 小可爱
