@@ -6,6 +6,12 @@
   · 不补：近义对照 / 注意别混 / 注意区别 / 反义词 / 配对词 / 注意地域 /
           注意拼写 / 注意英美拼写 / 注意英美差别 —— 这些是对照表，
           配例句反而冲散对比
+  · 有一类对照块不打标签，认不出标签就只能认形状（2026-09-11 收紧）：
+    连着几条等式、左边是跟词头不相干的另一个词 —— born 对 borne、
+    beard 对 moustache 对 sideburns、calumny 对 slander 对 libel、
+    急救 ABC 那种清单。一串里有两条以上不相干就整串剔掉。
+    「相干」放得很宽：含词头、跟词头共用一个词（birth certificate 底下的
+    marriage certificate）、或首字母共享两个以上（duke 底下的 ducal）。
   · A 表一概不补
 
 用法: python3 scripts/need-example.py [字母段...] [--list]
@@ -18,6 +24,34 @@ NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔
 LABEL = re.compile(r'^[^ =]*[：:]\s*$')
 SKIP  = re.compile(r'(对照|别混|区别|反义|配对|地域|拼写|英美)')
 FILL  = re.compile(r'(词族|常用搭配|搭配)')
+
+ART = re.compile(r'^(a|an|the|to)\s+', re.I)
+
+def related(lhs, head):
+    """等式左边是不是在讲词头本身 —— 含词头、或跟词头共享两个以上首字母。"""
+    a = ART.sub('', lhs.strip()).lower(); h = head.strip().lower()
+    if h and h in a: return True
+    # 跟词头共用一个词也算相干：birth certificate 底下的 marriage certificate
+    if set(re.findall(r'[a-z]+', a)) & set(re.findall(r'[a-z]+', h)): return True
+    w = re.sub(r'[^a-z]', '', a.split(' ')[0] if a else '')
+    hh = re.sub(r'[^a-z]', '', h)
+    n = 0
+    for x, y in zip(w, hh):
+        if x != y: break
+        n += 1
+    return n >= 2
+
+def drop_contrast_runs(cands, head):
+    """连着的一串等式里若有两条以上左边跟词头不相干，整串当辨析块剔掉。"""
+    out = []; i = 0
+    while i < len(cands):
+        j = i
+        while j + 1 < len(cands) and cands[j + 1][0] == cands[j][0] + 1: j += 1
+        run = cands[i:j + 1]
+        if sum(0 if related(x[1].split(' = ')[0], head) else 1 for x in run) < 2:
+            out += run
+        i = j + 1
+    return out
 
 def scan(segs, want=(1, 2)):
     rows = []
@@ -48,11 +82,13 @@ def scan(segs, want=(1, 2)):
                         #   · 右边在讲拼法／变形／同义，本质上仍是对照
                         if not re.search(r'[A-Za-z]', lhs): continue
                         if lhs[-1:] in '.?!': continue
-                        if re.search(r'(拼法|异拼|同义|过去式|过去分词|复数|缩写|另一种写法)', rhs): continue
+                        if re.search(r'(拼法|异拼|同义|过去式|过去分词|复数|缩写|另一种写法'
+                                      r'|另一形式|另一种形式|不带重音|变体形式)', rhs): continue
                         tier = 2 if (lab and '词族' in lab) else 1
-                        if tier in want: need.append(l.strip())
+                        if tier in want: need.append((j, l.strip()))
                 else: lab = None
-            if need: rows.append((f, head, need))
+            need = drop_contrast_runs(need, head)
+            if need: rows.append((f, head, [x[1] for x in need]))
     return rows
 
 def main(argv):
