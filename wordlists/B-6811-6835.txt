@@ -25,6 +25,8 @@ a dune buggy 是在沙地上跑的敞篷小车。
 = 那些沙丘每年移动一米，那条小路后来改了三回。
 a dune = 沙丘
 sand dunes = 沙丘群
+Sand dunes hide the sea until you are ten steps from the top.
+= 沙丘群把海挡着，要爬到离顶十步才看得见。
 ② Marram grass holds a dune together better than any fence anyone has tried.
 = 滨草固沙比谁试过的任何栅栏都管用。
 hold a dune together = 固住沙丘
@@ -39,6 +41,8 @@ cow dung 是牛粪，a dung beetle 是蜣螂。
 = 那块地二月里撒粪，气味一直留到四月。
 cow dung = 牛粪
 dung = 粪肥
+The garden took two loads of dung in autumn and grew twice as much.
+= 那片园子秋天上了两车粪肥，收成多了一倍。
 ② A dung beetle can roll a ball many times its own weight uphill.
 = 蜣螂能把比自身重许多倍的粪球推上坡。
 a dung beetle = 蜣螂
@@ -86,6 +90,8 @@ dunk something in water = 把某物按进水里
 = 他越过两名防守队员扣篮，比赛就因这一下变了走向。
 dunk = 扣篮
 a slam dunk = 扣篮；也指十拿九稳的事
+The lawyers called the case a slam dunk and lost it in three days.
+= 律师们说那案子十拿九稳，三天就输掉了。
 
 dunlin
 核心：黑腹滨鹬：小型滨鸟，喙略向下弯，冬天成大群在滩涂上觅食。
@@ -166,6 +172,8 @@ dupe
 = 他们骗了好几百人为根本没盖的房子交定金。
 dupe somebody into doing something = 骗某人做某事
 be duped = 上当受骗
+Investors were duped by a brochure with photographs of somebody else's factory.
+= 投资人上了当，那本手册上的照片是别人家的工厂。
 ② He was the dupe in that scheme and spent two years proving it.
 = 他是那个局里被骗的那个，花了两年才说清楚。
 a dupe = 受骗上当的人
@@ -194,6 +202,8 @@ duplicate work = 重复劳动
 = 表格一式两份寄来，第二份自己留着。
 in duplicate = 一式两份
 a duplicate = 副本、复制件
+The original hangs in the hall and a duplicate travels to every exhibition.
+= 原件挂在门厅，出去参展的是一件复制件。
 ④ He cut a duplicate key and hid it under the third flowerpot.
 = 他配了把备用钥匙，藏在第三个花盆底下。
 a duplicate key = 备用钥匙
@@ -205,6 +215,8 @@ duplication
 = 力气重复投入，花的钱比哪个部门肯承认的都多。
 duplication of effort = 重复劳动
 avoid duplication = 避免重复
+One shared list would avoid duplication, but each office prefers keeping its own.
+= 共用一张单子就能避免重复，可每个办公室都愿意留着自己的。
 ② Digital duplication costs nothing, which is exactly the licence holder's problem.
 = 数字复制不花钱，这恰恰是版权方头疼的地方。
 duplication = 复制
@@ -216,6 +228,8 @@ duplicitous
 = 报告说他那套说法两面三刀，却没讲哪一半不实。
 a duplicitous account = 两面三刀的说法
 duplicitous = 口是心非的
+The letters show a duplicitous man promising the same post to three people.
+= 那些信里是一个口是心非的人，把同一个职位许给了三个人。
 ② She had been duplicitous with both sides and neither found out until the vote.
 = 她对两边都耍了两面派，直到投票双方才发觉。
 be duplicitous = 耍两面派
@@ -247,6 +261,8 @@ durable
 = 一双耐穿的靴子贵一倍，穿的时间是四倍。
 durable = 耐用的
 durable materials = 耐用材料
+The school was built from durable materials and needed no repairs for thirty years.
+= 那所学校用耐用材料盖的，三十年没修过。
 ② The two sides signed a durable peace and then spent thirty years testing it.
 = 双方签了一份持久的和约，然后花三十年反复试探它。
 a durable peace = 持久的和平
@@ -261,6 +277,8 @@ durables
 = 人一预感年景难过，最先跌的就是耐用消费品的销量。
 consumer durables = 耐用消费品
 durables = 耐用品
+Durables take up half the warehouse and a tenth of the weekly turnover.
+= 耐用品占了仓库一半的地方，只占每周流水的十分之一。
 ② Durables sat unsold in warehouses while food prices rose every week.
 = 耐用品压在仓库里卖不动，食品价格却每周在涨。
 the durables market = 耐用品市场
@@ -272,6 +290,8 @@ duration
 = 疗程持续六周，落下一天就得往后拖。
 the duration of something = 某事持续的时间
 of short duration = 时间很短的
+The storm was of short duration but took out power for two days.
+= 那场风暴时间很短，却停了两天电。
 ② He moved in for a fortnight and stayed for the duration of the war.
 = 他本来搬来住两周，结果住到战争结束。
 for the duration = 直到事情结束为止
