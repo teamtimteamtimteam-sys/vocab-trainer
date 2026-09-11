@@ -140,6 +140,8 @@ draughtsman 也说画技高明的素描画家；美式两个词都写 draft-。
 = 生啤、一条挡风条，加上一位女制图员对细节的眼力，就够了。
 draught beer = 生啤
 a draught excluder = 门窗挡风条
+A draught excluder made of an old coat sits against that door.
+= 一件旧外套做的挡风条，堵在那扇门下面。
 a draughtswoman = 女制图员
 draughtsperson = 制图员（不分性别）
 draughtsmanship = 制图的功夫
@@ -293,58 +295,86 @@ draw out = 拉长、拖长；也指从账上取钱
 ㉛ The lawyer drew up a contract that neither side could later dispute.
 = 律师起草了一份日后两边都无从争辩的合同。
 draw up = 起草（文件）
+They drew up an agreement in one evening and argued about it for two years.
+= 他们一晚上起草了一份协议，为它争了两年。
 宾语是合同、清单、计划这类文件。
 ㉜ A taxi drew up outside just as the rain started.
 = 雨刚下起来，一辆出租车在外面停下了。
 draw up = （车辆）停下
+They drew up an agreement in one evening and argued about it for two years.
+= 他们一晚上起草了一份协议，为它争了两年。
 同一个短语的第二支，主语是车，不及物。
 ㉝ He was drawn into the quarrel against his better judgement.
 = 他明知不该，还是被卷进了那场争吵。
 draw somebody into = 把某人卷进
+He was drawn into a dispute that had nothing to do with him.
+= 他被卷进一场跟自己毫无关系的争执。
 多用被动；draw into = 卷入，宾语放在中间。
 ㉞ I draw the line at lying to her family about it.
 = 就这件事对她家人撒谎，我是不干的。
 draw the line at = 划下界限、到此为止
+She helps with everything and draws the line at answering his post.
+= 她什么都帮，唯独不肯替他拆信。
 说自己容忍的极限在哪里。
 ㉟ We drew a blank at the first three shops and gave up.
 = 头三家店我们都一无所获，就放弃了。
 draw a blank = 一无所获
+Four searches drew a blank and the fifth found it in a minute.
+= 四次搜寻一无所获，第五次一分钟就找到了。
 本义是抽到空签，今天几乎只用比喻义。
 ㊱ Some get the good rooms and some do not; it is just the luck of the draw.
 = 有人分到好房间有人没有，全凭运气。
 the luck of the draw = 全凭运气
+Getting that room was the luck of the draw and she kept it for years.
+= 分到那间屋纯属运气，她一住就是好几年。
 说结果由抽签一样的偶然定，怨不得谁。
 ㊲ The plan failed at the first test, so it is back to the drawing board.
 = 那个计划头一次试就失败了，只能推倒重来。
 back to the drawing board = 推倒重来
+The design failed in the cold and it was back to the drawing board.
+= 那个设计在低温下失效，只好推倒重来。
 从头再设计一遍，语气里带一点无奈。
 ㊳ The report draws a veil over the failures of the previous two years.
 = 那份报告把前两年的失败轻轻带过。
 draw a veil over = 略过不提
+The book draws a veil over four years that nobody else will discuss.
+= 那本书把四年一笔带过，别人也都不谈。
 偏书面，说有意不去细讲某件难堪的事。
 ㊴ She drew down the last of the loan and drew on savings she had meant to keep.
 = 她把贷款的最后一笔提了出来，又动用了本想留着的存款。
 draw down = 提取（贷款或储备）
+They drew down the loan in stages and spent it in one.
+= 那笔贷款他们分期提取，一次就花完了。
 draw down on something = 动用某笔钱
 draw upon something = 动用、借助某物
+The chapter draws upon letters that were nearly thrown away.
+= 那一章借助了一批差点被扔掉的信。
 a drawdown = 一次提取
 draw on 与 draw upon 通用，后者更书面。
 ㊵ The drawback of that flat is the drawbridge nobody warned them about.
 = 那套公寓的缺点，是没人事先提过的那道吊桥。
 a drawback = 不利之处、缺点
+The only drawback is the stairs and there are fifty-two of them.
+= 唯一的不利之处是楼梯，一共五十二级。
 a drawbridge = 吊桥
+The drawbridge is raised twice a day and photographed every time.
+= 那座吊桥一天升两次，每次都有人拍。
 drawback 说的是一件事本身带的短处，不是外来的麻烦。
 ㊶ He drew off a pint from the barrel and put the drawstring bag on the counter.
 = 他从桶里放出一品脱，把束口袋放在柜台上。
 draw something off = 从容器里放出（液体）
 写作 draw off，宾语放中间放后面都行。
 a drawstring = 抽绳、束口绳
+The drawstring came out in the wash and never went back in.
+= 抽绳洗掉了一次，再没穿回去。
 drawstring 作定语说 a drawstring bag、drawstring trousers。
 ㊷ The top drawer sticks in summer and the drawl in his voice gets slower with it.
 = 最上面那个抽屉夏天发涩，他说话的拖腔也跟着更慢。
 a drawer = 抽屉
 drawers = （旧）衬裤
 a drawl = 拖长音的说话腔调
+His drawl slows every meeting and nobody interrupts it.
+= 他那拖长音的腔调让每场会都变慢，却没人打断。
 美国南部的口音常被形容成 a Southern drawl。
 构词：古英语 dragan 拖、拉
 注意三态：draw / drew / drawn
@@ -470,7 +500,11 @@ a dreamlike sequence = 如梦似幻的段落
 = 第二幕演到一半她就进了梦乡，睡得没有一个梦。
 dreamland = 梦乡
 dreamless = 无梦的
+Four hours of dreamless sleep is worth eight of the other kind.
+= 四小时无梦的睡眠，抵得上八小时别的那种。
 dreamy = 恍惚出神的；也说美得像梦
+She gets dreamy at about three and sharp again by five.
+= 她三点左右就恍惚，五点又清醒起来。
 dreamland 多带玩笑口气，说人睡着了。
 ⑬ The poster called him a dreamboat and he was forty-six at the time.
 = 海报管他叫梦中情人，他那时四十六岁。
@@ -484,6 +518,8 @@ a dream job = 理想中的工作
 = 梦之队连同那对黄金搭档一起公布，两者都没撑过一个赛季。
 a dream team = 梦之队
 a dream ticket = 黄金搭档（尤指竞选正副职的组合）
+The dream ticket lasted one election and split the year after.
+= 那对黄金搭档只撑了一次选举，第二年就散了。
 dream something away = 把时间在幻想里耗掉
 写作 dream away，多说 dream away the afternoon。
 dream ticket 出自美国政治，说两人搭配天衣无缝。
@@ -491,7 +527,11 @@ dream ticket 出自美国政治，说两人搭配天衣无缝。
 = 窗上挂着一只捕梦网，那个夏天的恍惚劲儿渗进了一切。
 a dreamcatcher = 捕梦网
 dreaminess = 恍惚、如梦的感觉
+The dreaminess of that afternoon is all anybody remembers of the holiday.
+= 那个下午的恍惚劲儿，是整个假期唯一被记住的。
 a dreamworld = 幻想世界
+He lives in a dreamworld and pays the rent on time every month.
+= 他活在幻想世界里，房租倒月月准时交。
 Dreamtime = （澳大利亚原住民信仰里的）梦创时期
 Dreamtime 是澳大利亚原住民宇宙观里的核心概念，首字母大写。
 构词：中古英语 dreem 欢乐、乐声，后转为「梦」
@@ -636,13 +676,21 @@ dress down = 穿得随便；也指训斥某人
 = 门厅那个碗柜里摆着四代人的盘子，还有一只能用的手电。
 a dresser = 碗柜（英式）；也指替演员换装的人
 a dressmaker = 做衣服的裁缝
+A dressmaker on that street altered wedding dresses for forty years.
+= 那条街上的一位裁缝，改了四十年婚纱。
 美式的 a dresser 指卧室的五斗柜，跟英式不是同一件家具。
 ⑭ He wore a dress shirt under a dress uniform and looked dressy for the first time in years.
 = 他在礼服军装里穿了件礼服衬衫，多年来头一回显得那么讲究。
 a dress shirt = 礼服衬衫
 a dress uniform = 礼服军装
+A dress uniform comes out twice a year and fits once.
+= 礼服军装一年穿两次，合身的只有一次。
 dressy = 讲究、需要盛装的
+The invitation says dressy and nobody knows what that means.
+= 请柬上写着要盛装，没人知道那是什么意思。
 dressmaking = 做衣服这门手艺
+Dressmaking paid for the house and ruined her eyes.
+= 做衣服供出了那栋房子，也毁了她的眼睛。
 dressy 也说场合：a dressy occasion 是要穿得体面的场合。
 构词：古法语 dresser 整理、使就绪
 注意用法：dress down 有两支：穿得随便，与训斥某人。
