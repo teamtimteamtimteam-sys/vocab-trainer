@@ -27,6 +27,8 @@ flapper
 = 照片里那位摩登女郎，手里拿着烟，还有别人的帽子。
 a flapper = 二十年代的摩登女子
 the flapper era = 摩登女郎的年代
+The flapper era lasted nine years and supplied a century of costume parties.
+= 摩登女郎的年代只有九年，却供了一百年的化装舞会用。
 ② Flappers shocked their mothers and bored their daughters.
 = 摩登女郎吓着了母亲那一辈，又让女儿那一辈嫌闷。
 
@@ -58,6 +60,8 @@ flarepath
 = 那条灯道是人工点亮的，飞机盘旋到第三圈才落下来。
 a flarepath = 跑道灯道
 light the flarepath = 点亮跑道灯道
+Two men on bicycles light the flarepath and ride back along it.
+= 两个人骑着自行车点亮跑道灯道，再沿着它骑回来。
 ② Two lamps on the flarepath had gone out and nobody had said so.
 = 灯道上两盏灯灭了，谁也没说。
 
@@ -81,17 +85,41 @@ in a flash = 一转眼
 = 那次成功不过昙花一现，第二张专辑说明了这一点。
 a flash in the pan = 昙花一现
 flash around = 到处炫耀
+He flashes the season ticket around and never sits in the seat.
+= 他到处炫耀那张套票，却从没坐过那个座位。
 flash back = 闪回、回想起
+Her mind flashes back to that kitchen whenever bread is burning.
+= 一闻到面包烤糊，她就闪回到那间厨房。
 flash by = 一闪而过
+Two years flashed by and the scaffolding is still on the church.
+= 两年一闪而过，教堂上的脚手架还在。
 flash card = 识字卡、闪卡
+A flash card works on a train and a textbook does not.
+= 识字卡在火车上管用，课本不管用。
 flash drive = 优盘
+A flash drive in a coat pocket survived the wash and still worked.
+= 大衣口袋里一个优盘经过洗衣机，居然还能用。
 flash-forward = 闪前、预叙
+A flash-forward in the first ten minutes ruins the next ninety.
+= 头十分钟来一段闪前，把后头九十分钟毁了。
 flash memory = 闪存
+Flash memory has no moving parts and dies quietly all the same.
+= 闪存没有活动部件，照样会不声不响地坏掉。
 flash mob = 快闪族
+A flash mob filled the concourse for four minutes and vanished.
+= 一群快闪族把候车大厅占了四分钟，随即消失。
 flash mobber = 参加快闪的人
+Each flash mobber learned the routine from a video and practised alone.
+= 每个参加快闪的人都照着视频学动作，自己一个人练。
 flash mobbing = 搞快闪活动
+Flash mobbing was over by the time the shopping centres arranged one.
+= 等购物中心张罗起快闪活动，这股风已经过去了。
 flash on = 猛地想起
+It flashed on him halfway home that the tap was still running.
+= 走到半路他猛地想起，水龙头还开着。
 flash past = 飞快掠过
+A train flashed past and the platform emptied of every loose paper.
+= 一列火车飞快掠过，站台上松散的纸片全刮没了。
 
 flashback
 核心：两支。一是（影视、小说）闪回：插进去的过去片段；
@@ -109,6 +137,8 @@ flashbulb
 = 闪光灯泡一亮，人人眼里都留下一块绿方块。
 a flashbulb = 闪光灯泡
 a spent flashbulb = 用过的闪光灯泡
+A spent flashbulb is hot enough to blister a careless thumb.
+= 用过的闪光灯泡烫得能把不小心的拇指燎出泡。
 ② Photographers carried flashbulbs by the boxful and threw them away hot.
 = 摄影师整盒整盒地带着闪光灯泡，用完趁热就扔。
 
@@ -127,6 +157,8 @@ flashgun
 = 那个闪光灯装在相机顶上，重量翻了一倍。
 a flashgun = 闪光灯组件
 fit a flashgun = 装上闪光灯
+He fitted a flashgun he had borrowed and never returned it.
+= 他装上了一个借来的闪光灯，再没还回去。
 ② A flashgun on a cable can be held anywhere in the room.
 = 用连线的闪光灯，举在屋里哪个位置都行。
 
@@ -229,16 +261,38 @@ flatly refuse = 断然拒绝
 = 好消息他念得毫无起伏，坏消息倒念得动情。
 read something flatly = 平板地念出
 flat cap = 鸭舌帽
+The flat cap came back into fashion and never left that village.
+= 鸭舌帽重新流行起来，而它在那个村子从没过时过。
 flat-chested = 平胸的
+The pattern assumes nobody is flat-chested and the alterations cost extra.
+= 那个版型默认没有平胸的人，改起来还要另收钱。
 flat-footed = 扁平足的；措手不及的
+The recruiting sergeant turned him away for being flat-footed in 1916.
+= 一九一六年，征兵军士以扁平足为由把他打发走了。
 flat-pack = 平板包装待组装的家具
+A flat-pack wardrobe takes two people, four hours and one argument.
+= 一个平板包装的衣柜，要两个人、四个钟头，外加一场争吵。
 flat-panel = 平板显示的
+A flat-panel display replaced a television that weighed forty kilos.
+= 一台平板显示屏，换掉了一台四十公斤重的电视。
 flat racing = 平地赛马
+Flat racing runs all summer and the jumps take over in November.
+= 平地赛马整个夏天都在跑，十一月就轮到障碍赛。
 flat rate = 统一费率
+A flat rate suits the heavy users and punishes everybody else.
+= 统一费率对用量大的人合算，对别人都是罚。
 flat-screen = 平板屏幕的
+A flat-screen went up on the wall and the bookshelf came down.
+= 墙上挂起一块平板屏幕，书架拆了下来。
 flat spin = 平螺旋；慌乱失措
+The whole office went into a flat spin over a routine inspection.
+= 一次例行检查，让整个办公室慌了手脚。
 flat-top = 平头发型；平顶航母
+He has worn the same flat-top since the year he left the navy.
+= 自打退伍那年起，他就一直留着同一个平头。
 flat white = 馥芮白咖啡
+A flat white in that cafe costs more than the sandwich beside it.
+= 那家咖啡馆的一杯馥芮白，比旁边的三明治还贵。
 
 flatbed
 核心：两支。一是平板货车：车斗是敞开的平板；二是平板扫描仪。可数。
