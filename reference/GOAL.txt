@@ -446,14 +446,26 @@ freakishly / freely（freely 并进 free，"慷慨地"那支写成 free 的第 �
   · F 段的大写词头这次没出岔子 —— proper-nouns-keep 里 Franciscan /
     Frankenfood / Frankenstein / Freemason / Freemasonry / Freephone /
     Freepost 都已登记过（当初一次补齐 180 条的那次工作现在开始回本）。
-  · **下一批从 freeride 起**（freesheet / freesia / freestyle / freethinker /
-    freeware / freeway / freewheel / freeze / freezer / freezing / freight /
-    freighter / French / Frenchman / frenetic / frenzied / frenzy /
-    frequency / frequent / fresco / fresh 一带；freeze 与 fresh 是大词，
-    动笔前往 CHECK 补 freeze over、a freezing point、fresh air、
-    make a fresh start、fresh out of）。French 一族在 proper-nouns-keep 里
-    有二十条，写 French 时顺手把 French bread / French door / French kiss /
-    French toast / French window 这些当等式带出来。
+第四批 freeride → frequent（25）、第五批 frequentative → fried（25）、
+第六批 friend → frisée（25）。
+  · **fresher 进了 derived-keep**：它是 fresh 的比较级，可名词义（大学新生、
+    freshers' week）是 fresh 没有的。**比较级只要另有名词义就不并**，
+    与 fortnightly 那条是同一个道理。
+  · French 条里把 French bread / French toast / French door / French kiss /
+    French polish / French horn 六个复合词写成了等式 —— coverage 对多词项
+    用的是**整串字面查找**，写进等式就认，不必给每个复合词单开词条。
+  · scan-dupes 抓到 freaking ② 与 freezing ① 撞车（0.62，两句都是
+    "that hall 里冷得要命"）。**同一个加强语／形容词，别拿同一个场景去写。**
+    freaking 改成"说明书没用得要命"。
+  · audit-ab / audit-idioms 这两批各点了两次：fridge 缺 out of the fridge、
+    friend 缺 friend of mine、frighten 缺 frighten off。
+    **frighten off 这条是字面匹配的教训 —— 等式写成 frighten somebody off
+    不算数，习语清单查的是那一串字面。**
+  · **下一批从 Frisian 起**（frisk / frisky / frisson / fritillary / fritter /
+    frivolity / frivolous / frizz / frizzy / fro / frock / frog / frogman /
+    frolic / from / frond / front / frontage / frontal / frontier 一带；
+    front 与 from 是大词，动笔前往 CHECK 补 in front of、up front、
+    front of house、front runner）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
