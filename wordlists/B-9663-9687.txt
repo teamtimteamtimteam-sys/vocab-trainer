@@ -1,0 +1,341 @@
+funboard
+核心：三支（冲浪、帆板）。一是介于长板与短板之间的"趣味板"；
+二是初学者常用的那种宽板；三是形容词性，这一类装备的。
+① A funboard floats better than a short board and turns almost as well.
+= 趣味板比短板浮力好，转向也差不了多少。
+a funboard = 趣味板
+② She learned on a funboard and sold it in the second summer.
+= 她是在趣味板上学会的，第二个夏天就把板卖了。
+learn on a funboard = 在趣味板上学
+③ Two funboards are strapped to the roof from May to September.
+= 从五月到九月，车顶上绑着两块趣味板。
+funboards = 趣味板
+
+function
+核心：四支。一是功能、作用：the function of something；
+二是职责：perform a function；三是（正式的）活动、场合：a school function；
+四是（数学）函数：a function of x。
+① The function of that lever is printed on a label nobody has read.
+= 那根杆的功能印在一张没人读过的标签上。
+the function of something = 某物的功能
+② She performs a function that three people used to share.
+= 她一个人担着从前三个人分担的职责。
+perform a function = 履行职责
+③ A school function on a Friday empties the staff room by four.
+= 周五的校内活动，四点就让教员室空了。
+a school function = 校内活动
+④ Output is a function of temperature and nothing else here matters.
+= 产量是温度的函数，这里别的都不要紧。
+a function of something = 某物的函数
+
+functional
+核心：三支。一是能用的、正常运转的：a functional lift；
+二是（设计）实用为先的：functional furniture；三是（医学、语言学）功能性的。
+副词 functionally 并入本条。
+① Only one lift is functional and it stops at the wrong floors.
+= 只有一部电梯能用，还停错楼层。
+a functional lift = 能正常运转的电梯
+② Functional furniture in that flat means nothing you would sit on twice.
+= 那套公寓里所谓实用的家具，都是不想坐第二回的。
+functional furniture = 实用为先的家具
+③ The scan is normal and the problem is called functional.
+= 影像是正常的，那个问题被称作功能性的。
+a functional disorder = 功能性障碍
+副词 functionally：在功能上。
+④ The two machines are functionally the same and cost twice as different.
+= 那两台机器功能上一样，价钱差了一倍。
+be functionally the same = 功能上相同
+
+functionalism
+核心：三支。一是（建筑、设计）功能主义，形式服从用途；
+二是（社会学）功能主义理论；三是（语言学）功能主义路子。
+① Functionalism gave that town four buildings and no shade at all.
+= 功能主义给那座城留下四栋楼，一点树荫也没有。
+functionalism = 功能主义
+② Functionalism explains what a custom does and not how it started.
+= 功能主义解释一项风俗起什么作用，不解释它怎么来的。
+functionalism = 功能主义理论
+③ He teaches functionalism to students who find it cold.
+= 他给一群觉得它冷冰冰的学生讲功能主义。
+teach functionalism = 讲授功能主义
+
+functionalist
+核心：三支。一是功能主义者；二是形容词性，功能主义的：a functionalist reading；
+三是（建筑）走这一路的设计师。
+① A functionalist asks what a thing is for before asking what it means.
+= 功能主义者先问一样东西是干什么用的，再问它是什么意思。
+a functionalist = 功能主义者
+② A functionalist reading of that ritual leaves out everybody's feelings.
+= 对那项仪式的功能主义解读，把所有人的感受都撇开了。
+a functionalist reading = 功能主义解读
+③ Two functionalists designed the estate and neither lived in it.
+= 两位功能主义建筑师设计了那片小区，谁也没住进去。
+functionalists = 功能主义建筑师
+
+functionality
+核心：三支。一是（软件、设备的）功能、可用的特性：add functionality；
+二是能用性、可运转的程度；三是（设计的）实用性。
+① They add functionality every quarter and remove nothing.
+= 他们每季度加功能，什么都不删。
+add functionality = 增加功能
+② Half the functionality disappears when the connection drops.
+= 一断线，一半的功能就没了。
+lose functionality = 功能失效
+③ The functionality of that kitchen beats anything it looks like.
+= 那间厨房的实用程度，比它看上去强得多。
+the functionality of something = 某物的实用程度
+
+functionary
+核心：三支（多含贬义）。一是（照章办事的）办事人员、小官；
+二是机构里的例行角色；三是（复数）一批公职人员。
+① A functionary at the counter stamped it and sent her to another floor.
+= 柜台后的办事员盖了个章，把她打发到另一层。
+a functionary = 办事人员
+② The job is that of a functionary and the title says director.
+= 那份工作其实是个办事的，头衔上写着总监。
+be a functionary = 当个办事的
+③ Party functionaries filled the first three rows and left before the end.
+= 党务人员坐满前三排，没到散场就走了。
+functionaries = 公职人员
+
+functor
+核心：三支。一是（数学）函子，范畴之间保持结构的映射；
+二是（编程）可映射的那类结构；三是（语言学）功能词。
+① A functor carries the structure across and not just the objects.
+= 函子搬过去的不只是对象，还有结构本身。
+a functor = 函子
+② The library treats any mappable type as a functor.
+= 那个库把任何可映射的类型都当作函子处理。
+a functor = 可映射的结构
+③ Functors in that sense are the words that carry no meaning alone.
+= 在那个意义上，功能词指的是单独不带意义的词。
+a functor = 功能词
+
+fund
+核心：四支。一是基金、专款：a pension fund；二是（复数）资金：raise funds；
+三是动词，出资、资助：fund a project；四是（比喻）一笔储备：a fund of stories。
+① The pension fund lost a quarter of its value in eleven weeks.
+= 那只养老基金十一周里跌掉了四分之一。
+a pension fund = 养老基金
+② They raise funds all year and spend it in one week of August.
+= 他们一整年筹款，八月一周之内花完。
+raise funds = 筹款
+③ The council funds the library and reviews it every March.
+= 议会资助那座图书馆，每年三月审一次。
+fund something = 资助某物
+④ He has a fund of stories and about four of them are true.
+= 他一肚子故事，大约四个是真的。
+a fund of stories = 一肚子故事
+
+funda
+核心：三支（南非，非正式）。一是学习、弄懂：funda something；
+二是（引申）明白过来；三是名词性用法，功课、要学的东西。
+① He tried to funda the rules before the first match and gave up.
+= 第一场比赛前他想把规则弄懂，最后放弃了。
+funda something = 弄懂某事
+② Once you funda the system the rest of it takes a morning.
+= 系统一旦弄明白，其余的一上午就行。
+funda the system = 弄懂那套系统
+③ There is a lot of funda in that first chapter.
+= 第一章里要学的东西很多。
+funda = 要学的东西
+
+fundamental
+核心：三支。一是根本的、基础的：a fundamental difference；
+二是（复数）基本原理：the fundamentals of something；
+三是（音乐、物理）基频。副词 fundamentally 并入本条。
+① A fundamental difference in what they wanted took a year to surface.
+= 双方想要的东西上有个根本分歧，花了一年才浮出来。
+a fundamental difference = 根本的分歧
+② The fundamentals of the trade fit on one side of a card.
+= 这行的基本道理，一张卡片的一面就写得下。
+the fundamentals of something = 某事的基本原理
+③ The fundamental is weak and the overtones carry the note.
+= 基频很弱，靠泛音把那个音撑住。
+the fundamental = 基频
+副词 fundamentally：根本上。
+④ The two accounts are fundamentally the same story told twice.
+= 那两份说法根本上是同一个故事讲了两遍。
+be fundamentally the same = 根本上相同
+
+fundamentalism
+核心：三支。一是原教旨主义，严格照经典字面行事的主张；
+二是（引申）任何不容变通的教条立场；三是研究这一现象的说法。
+① Fundamentalism reads the text as it stands and stops there.
+= 原教旨主义照字面读经文，读到那里为止。
+fundamentalism = 原教旨主义
+② Market fundamentalism ran that ministry for about a decade.
+= 市场原教旨主义主导那个部大约十年。
+market fundamentalism = 市场原教旨主义
+③ Fundamentalism grows fastest where the old answers stopped working.
+= 老答案失灵的地方，原教旨主义长得最快。
+fundamentalism grows = 原教旨主义扩张
+
+fundamentalist
+核心：三支。一是原教旨主义者；二是形容词性，原教旨的：a fundamentalist reading；
+三是（引申）凡事不容变通的人。
+① A fundamentalist in that debate is anybody who will not move an inch.
+= 在那场辩论里，凡是寸步不让的都被叫作原教旨主义者。
+a fundamentalist = 原教旨主义者
+② A fundamentalist reading leaves no room for the century it was written in.
+= 原教旨式的解读，给写作的那个世纪不留余地。
+a fundamentalist reading = 原教旨式的解读
+③ Two fundamentalists on the board blocked every compromise.
+= 董事会里两个不容变通的人，把每一个折中都否了。
+fundamentalists = 不容变通的人
+
+funder
+核心：三支。一是出资方、资助者：the main funder；二是基金会、资助机构；
+三是（复数）一批金主。
+① The main funder pulled out in March and the work stopped in April.
+= 主要出资方三月退出，四月工作就停了。
+the main funder = 主要出资方
+② A funder asks for a report every quarter and reads one a year.
+= 资助方每季度要一份报告，一年读一份。
+a funder = 资助方
+③ Three funders share the cost and none of them will go first.
+= 三家出资方分摊费用，谁也不肯先出。
+funders = 出资方
+
+fundholder
+核心：三支（英，医疗体制史上的说法）。一是自行掌握预算的全科诊所；
+二是（泛）持有并支配基金的一方；三是这一制度下的那类机构。
+① A fundholder bought services directly and skipped the district office.
+= 自管预算的诊所直接买服务，绕过了区办公室。
+a fundholder = 自管预算的诊所
+② The fundholder decides where the money goes and answers for it later.
+= 持有基金的一方决定钱往哪去，事后为此负责。
+the fundholder = 基金持有方
+③ Fundholders disappeared in one reform and came back under another name.
+= 一次改革让这类机构消失，又换个名字回来了。
+fundholders = 自管预算的机构
+
+fundholding
+核心：三支。一是（英）全科诊所自管预算这套制度；二是持有并支配基金这件事；
+三是形容词性，实行这套制度的。
+① Fundholding gave some practices money and others a longer wait.
+= 那套自管预算的制度，给一些诊所带来钱，给另一些带来更长的等待。
+fundholding = 自管预算制度
+② Fundholding ended in 1999 and the arguments did not.
+= 那套制度 1999 年终止，争论没有。
+fundholding ends = 制度终止
+③ A fundholding practice employed its own physiotherapist.
+= 一家自管预算的诊所自己雇了理疗师。
+a fundholding practice = 自管预算的诊所
+
+fundi
+核心：三支（南非，非正式）。一是行家、内行：a fundi on something；
+二是手艺人、技工；三是（谐谑）自封的专家。
+① He is a fundi on old engines and useless with anything electric.
+= 他是老式发动机的行家，一碰电的就没辙。
+a fundi on something = 某方面的行家
+② The fundi came out twice and the roof still leaks.
+= 那位师傅来过两趟，屋顶照样漏。
+a fundi = 手艺人
+③ Everybody in that office is a fundi until something breaks.
+= 那间办公室里人人都是专家，直到东西坏掉。
+be a fundi = 自封的行家
+
+funding
+核心：三支。一是经费、拨款：cut funding；二是提供经费这件事；
+三是（复数不用）资金来源。
+① They cut funding in June and announced a new strategy in July.
+= 他们六月砍经费，七月宣布新战略。
+cut funding = 削减经费
+② Funding for that post ran out and the work did not.
+= 那个岗位的经费用完了，活儿没完。
+funding runs out = 经费用完
+③ Funding comes from two places and neither will say how much.
+= 经费来自两处，哪一处都不肯说数目。
+funding comes from somewhere = 经费来自某处
+
+fundraise
+核心：三支。一是筹款：fundraise for something；二是搞募捐活动；
+三是（机构里）专门做募款这件事。
+① They fundraise for the roof and have done since 2011.
+= 他们为修屋顶筹款，从 2011 年一直筹到现在。
+fundraise for something = 为某事筹款
+② She fundraises better by letter than in a room full of people.
+= 她写信募款比当面对着一屋子人管用。
+fundraise = 募款
+③ Nobody wants to fundraise and everybody wants the money spent.
+= 没人愿意去募款，人人都盼着钱花出去。
+fundraise = 做募款
+
+fundraiser
+核心：三支。一是募款活动：hold a fundraiser；二是专职募款的人；
+三是（引申）赚钱的项目。
+① They hold a fundraiser every October and it rains every October.
+= 他们每年十月办募款活动，每年十月都下雨。
+hold a fundraiser = 办募款活动
+② The fundraiser knows every family on that street by name.
+= 那位募款专员认得那条街上每一家人的名字。
+a fundraiser = 募款专员
+③ The quiz night is the best fundraiser they have.
+= 那个答题之夜，是他们最赚钱的项目。
+a fundraiser = 筹钱的项目
+
+fundraising
+核心：三支。一是筹款、募捐（名词）：go into fundraising；
+二是形容词性，募款的：a fundraising dinner；三是这项工作本身。
+① She went into fundraising after nine years of teaching.
+= 教了九年书之后，她转去做募款。
+go into fundraising = 转做募款
+② A fundraising dinner costs more to put on than it brings in.
+= 一场募款晚宴办下来的花费，比募到的还多。
+a fundraising dinner = 募款晚宴
+③ Fundraising takes up more of that job than the work it pays for.
+= 在那份工作里，募款占的时间比它资助的事还多。
+fundraising = 募款工作
+
+funeral
+核心：三支。一是葬礼：go to a funeral；二是出殡的队伍；
+三是习语 that is your funeral，那是你自己的事、后果自负。
+① Four hundred people went to a funeral for somebody who lived alone.
+= 四百人去参加一个独居者的葬礼。
+go to a funeral = 参加葬礼
+② The funeral service lasted twenty minutes and the tea lasted three hours.
+= 葬礼仪式二十分钟，之后的茶点三个小时。
+a funeral service = 葬礼仪式
+③ If you sign that without reading it, it is your funeral.
+= 不看就签，后果你自己担着。
+it is your funeral = 后果你自己担着
+
+funerary
+核心：三支（正式）。一是葬仪的、丧葬用的：funerary customs；
+二是（考古）随葬的：funerary objects；三是（建筑）墓葬的。
+① Funerary customs in that valley have not changed in four generations.
+= 那条山谷里的丧葬习俗，四代人没变过。
+funerary customs = 丧葬习俗
+② Funerary objects from that site fill two rooms of the museum.
+= 那处遗址出土的随葬品，摆满博物馆两间屋子。
+funerary objects = 随葬品
+③ The funerary chapel is locked and the key is at the farm.
+= 那座墓葬小教堂锁着，钥匙在农场。
+a funerary chapel = 墓葬小教堂
+
+funereal
+核心：三支。一是（气氛、神情）像葬礼一样阴郁的：a funereal atmosphere；
+二是（速度）慢得让人难受的；三是（颜色、音乐）沉重肃穆的。
+① A funereal atmosphere settled on the office the day the letter came.
+= 信来的那天，办公室里笼上一股葬礼似的阴郁。
+a funereal atmosphere = 阴郁沉闷的气氛
+② The queue moved at a funereal pace and nobody complained out loud.
+= 队伍慢得像出殡，没人大声抱怨。
+a funereal pace = 极慢的速度
+③ The music was funereal and the occasion was a birthday.
+= 音乐沉重肃穆，场合却是个生日。
+funereal music = 肃穆沉重的音乐
+
+funfair
+核心：三支（英）。一是游乐场、庙会式的游艺场：go to the funfair；
+二是那些临时搭起的机动游戏；三是每年来一次的那一摊。
+① They go to the funfair every August and spend it all on one stall.
+= 他们每年八月去游艺场，钱全花在一个摊子上。
+go to the funfair = 去游乐场
+② The funfair sets up in two days and leaves the field flat.
+= 那个游艺场两天就搭好，走时把地碾得平平的。
+a funfair = 临时游艺场
+③ Half the funfair was shut and the queue for the rest went round twice.
+= 游艺场一半关着，剩下那一半的队绕了两圈。
+the funfair = 游艺场
