@@ -244,6 +244,8 @@ frolic
 = 狗在雪里撒欢十分钟，就想进门。
 frolic in the snow = 在雪里撒欢
 frolic about = 四处嬉闹
+Two lambs frolic about the field and the ewes ignore them entirely.
+= 两只羊羔在田里四处嬉闹，母羊压根不理。
 ② The whole afternoon was a frolic and the bill came later.
 = 整个下午都在疯玩，账单是后来才到的。
 a frolic = 一场欢闹
@@ -334,16 +336,38 @@ up front = 预先付
 = 领跑的那位在一个周五退出，没人接替。
 a front runner = 领跑者、热门人选
 front door = 前门
+The front door has not opened since they started using the side one.
+= 自打他们改走侧门，前门就没开过。
 front end = 前端
+The front end looks finished and the database behind it is not.
+= 前端看着做完了，后头的数据库没有。
 front-end loader = 前铲装载机
+A front-end loader cleared the yard and cracked the drain doing it.
+= 前铲装载机把场院清了出来，顺手把下水道压裂了。
 front-load = 把投入压在前期
+They front-load the fees and the refund shrinks every month after.
+= 他们把费用压在前期收，之后能退的一个月比一个月少。
 front of house = （剧院）前厅与观众区
+Front of house runs on four volunteers and one very old kettle.
+= 前厅那边靠四名志愿者和一把很旧的水壶撑着。
 front office = 前台、管理层
+The front office promised a signing and the coach heard about it later.
+= 管理层许诺了一笔签约，教练是后来才听说的。
 front page = 头版
+The front page carried a photograph and the correction came on nineteen.
+= 头版登了一张照片，更正登在第十九页。
 front room = 前厅、客厅
+The front room is kept for visitors who never once come.
+= 前厅是留给客人的，而客人一次也没来过。
 front-running = 抢先交易
+Front-running is hard to prove and easy for everybody to notice.
+= 抢先交易难以证明，人人却都看得出来。
 front up = 出面、露面
+Nobody from head office fronted up and the meeting went ahead anyway.
+= 总部没人出面，那个会照开。
 front-wheel drive = 前轮驱动
+Front-wheel drive gets up that hill and struggles coming down it.
+= 前轮驱动上得了那道坡，下坡就吃力。
 
 frontage
 核心：三支。一是（房屋、地块的）临街面：a wide frontage；
