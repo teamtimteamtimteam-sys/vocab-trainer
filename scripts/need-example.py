@@ -10,6 +10,11 @@
     连着几条等式、左边是跟词头不相干的另一个词 —— born 对 borne、
     beard 对 moustache 对 sideburns、calumny 对 slander 对 libel、
     急救 ABC 那种清单。一串里有两条以上不相干就整串剔掉。
+    还有一类右边根本不是在给搭配释义，而是在讲这个写法怎么回事：
+    「同上，宾语放在中间」「同一样东西的美式说法」「省略人称代词的简写」
+    「单数少用」「几乎只用于那个习语」—— 这些补例句没意义，也一并剔掉。
+    注意别把「英式说法／美式说法」整个收进来：covering letter 与
+    be a Briticism 都是正经搭配，注里只是标了语域，头一版误剔过。
     「相干」放得很宽：含词头、跟词头共用一个词（birth certificate 底下的
     marriage certificate）、或首字母共享两个以上（duke 底下的 ducal）。
   · A 表一概不补
@@ -83,7 +88,9 @@ def scan(segs, want=(1, 2)):
                         if not re.search(r'[A-Za-z]', lhs): continue
                         if lhs[-1:] in '.?!': continue
                         if re.search(r'(拼法|异拼|同义|过去式|过去分词|复数|缩写|另一种写法'
-                                      r'|另一形式|另一种形式|不带重音|变体形式|连字符写法)', rhs): continue
+                                      r'|另一形式|另一种形式|不带重音|变体形式|连字符写法'
+                                      r'|美式写法|美式叫法|同一样东西|简写|同上'
+                                      r'|宾语放在中间|单数少用|几乎只用于|几乎只出现在)', rhs): continue
                         tier = 2 if (lab and '词族' in lab) else 1
                         if tier in want: need.append((j, l.strip()))
                 else: lab = None
