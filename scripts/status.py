@@ -100,6 +100,18 @@ def main():
                 print()
     except Exception as e:
         print("（读 reference/GOAL.txt 出错：%s）" % e)
+    # 两条并行的活儿都要在冷启动时看得见，别只报词条数
+    try:
+        import subprocess
+        for tier, name in (("--tier1", "并入短语与常用搭配"), ("--tier2", "词族")):
+            out = subprocess.run([sys.executable, "scripts/need-example.py", tier],
+                                 capture_output=True, text=True).stdout.strip().split("\n")[0]
+            if out: print("拓展块补例句（%s）：%s" % (name, out.replace("待补例句：", "")))
+        print("  清单： python3 scripts/need-example.py <段> --tier1 --list")
+        print("  补写： 写 /tmp/fill_data.py 再跑 python3 scripts/fill-example.py")
+        print()
+    except Exception:
+        pass
     print("每收完一个字母段的固定动作")
     print("  0. python3 scripts/coverage.py a         对照牛津高阶词头清单查缺 ★最重要")
     print("  1. python3 scripts/audit-prefix.py a      查双字母段有没有整段漏掉")

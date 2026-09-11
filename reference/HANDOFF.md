@@ -110,11 +110,66 @@ especially 那句「everybody said it was」被元评论检查逮到，改例句
 5. A 表教过的用法 B 里没有 → audit-ab（email address、be equipped with、
    exclusive of、exert oneself 都是这么补上的）。
 
-## 七、当前进度（2026-09-09）
+## 七、另一条并行的活：给拓展块补例句（用户 2026-09-11 定）
 
-- B 词表 **8202 条 / 30021 义项**，词典序 a → exorbitantly。
-- a–ev 段全部收完（余下的都是「待推迟」：内容词在后面的字母段，coverage 会自己挪过去）。
-- **在做 ex- 段**：清单 413 条，已收 153，还剩约 260 条
-  （exorcise → exuberant；expect、experience、explain、express、extend、extreme 这些大词在后半段）。
-- 交付文件每 2500 条一份，新词落在第四份 `B-merged-7501-*.txt`。
-- 下一个目标：B 到 10000 条。
+词条末尾那些「等式但没有例句」的拓展行（`flight deck = 驾驶舱`、
+`A-list = 一线名流`），用户要求补上例句 —— `coverage` 里那句
+「写进词根条里**并补例句**」本来就是这么定的，之前的并入 pass 只写了等式。
+
+**范围（用户裁定，别自行放大或缩小）**
+
+- 只补 **B 表**；A 表一概不动。
+- **辨析类不补**：近义对照 / 注意别混 / 注意区别 / 反义词 / 配对词 /
+  注意地域 / 注意拼写 / 英美差别。这些块是对照表，配例句反而冲散对比。
+- 剩下的都补：条目末尾无标签挂上去的并入短语、「常用搭配：」、「词族：」。
+- 三类看着像等式、其实不是搭配的，`need-example.py` 已自动剔掉：
+  左边没有拉丁字母的标注、整句对照、右边在讲拼法／变形／同义的。
+
+**每轮怎么做**
+
+```bash
+python3 scripts/need-example.py de di --tier1 --list   # 挑一段，看要补哪些
+# 写 /tmp/fill_data.py：F = {("词头","等式左边原样"): ("English sentence.","中文译文"), ...}
+python3 scripts/fill-example.py                        # 插入
+python3 scripts/check-wordlist.py 'wordlists/B-[0-9]*.txt'
+python3 scripts/merge-wordlist.py B 2500 >/dev/null
+bash scripts/gates.sh <段>                              # 每两三批跑一次整段
+python3 scripts/scan-dupes.py --loose
+git commit -m "拓展块补例句（N）：<段> 若干条"
+```
+
+**例句的标准跟义项例句一样**：11–14 词、有场景（谁、什么情况、结果如何）、
+不谈这个词本身（元评论）、译文里不混英文、**搭配本身必须原样出现在句中**
+（渲染时靠字面匹配高亮）。同一条搭配在别处已有词条的（词族那类），
+场景要另起，别跟那个词条自己的例句撞 —— scan-dupes 会报。
+
+**进度从脚本读，别手写**：`python3 scripts/status.py` 末尾会打出两档的剩余条数。
+
+## 八、当前进度（2026-09-11）
+
+- B 词表 **10060 条**，词典序 a → geochemistry；交付文件第五份已开头
+  （`B-merged-10001-*.txt`）。A 表 3002 条。
+- **词典本身**：f 段 99%（剩的是待推迟），g 段在写，**下一批从 geode 起**
+  （geography / geology / geometry / German / germ / gerrymander 一带）。
+  G 段大写词头 51 条已登记进 proper-nouns-keep。
+- **补例句**：tier1 剩约 1570，tier2（词族）约 850。已补到 d 段末尾，
+  下一段 du / dy / ea。
+- **push 策略**：用户 2026-09-11 说「补完一起推」——
+  补例句这件事做完之前，只在本地提交，不要 push。
+
+## 九、iPad app（index.html 单文件）也归这个仓库管
+
+用户会报 app 的 bug，改完要自己在浏览器里验证，并且**同时升两个版本号**：
+`index.html` 里的 `APP_VERSION` 与 `sw.js` 里的 `CACHE`，否则装了 PWA 的设备
+拿的还是旧缓存（stale-while-revalidate：打开一次拿旧的、后台更新，第二次才生效）。
+
+已修过的两个，改法可作先例：
+
+- **例句高亮**（2.0.2）：老规则只取词头第一个词、再放宽词尾 0–6 个字母，
+  `a cappella` 变成匹配 `a[a-z]{0,6}`，把 and/an/about 全涂绿。
+  现在整条词头作为整体匹配，词尾变形只在单词且 ≥4 字母时允许，且**只高亮第一处**。
+- **背诵会话计数失准**（2.0.1）：`getWords` 会把解析不出的 id 静默丢掉，
+  于是「下一个」在真正的末尾之前变灰、整组永远判不了完成；
+  `learnedCount` 又只在 toggleMark 里重算，漂了就一直错。
+  现在 `startLearn` 开背前对账（修 wordIds、重算 learnedCount），
+  并在导航条加了「找未标记」。
