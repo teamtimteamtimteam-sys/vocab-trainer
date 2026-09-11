@@ -94,31 +94,53 @@ play the field = 不定于一人、逢场作戏
 = 那位元帅视察了一所才开了四天的野战医院。
 a field marshal = 陆军元帅
 a field hospital = 野战医院
+A field hospital is packed in nine crates and up in two hours.
+= 一所野战医院装九个箱子，两个钟头就架起来。
 a field officer = 校级军官
+A field officer signs the order and a corporal carries it uphill.
+= 校级军官签下命令，下士把它送上山去。
 ⑨ A field trip to the estuary counts as fieldwork and as a day out.
 = 去河口的实地考察，既算田野作业，也算出游一天。
 a field trip = 实地考察
 a field test = 现场测试
+The field test failed in rain and the laboratory test never did.
+= 现场测试一下雨就通不过，实验室测试从来没出过问题。
 a field trial = 田间试验
+A field trial runs for three seasons and answers one question.
+= 一次田间试验做三季，回答一个问题。
 ⑩ Field hockey is played on grass in that school and on plastic everywhere else.
 = 那所学校的曲棍球在草地上打，别处都在塑胶场上打。
 field hockey = 曲棍球
 a field event = 田赛项目
+The field events happen while nobody is watching the far end.
+= 田赛项目进行的时候，没人在看场地那一头。
 a field goal = 射门得分、定位球得分
+A field goal from that angle is worth the whole coaching budget.
+= 从那个角度射中一球，抵得上整年的教练预算。
 ⑪ A field mouse got into the field corn and brought forty of its relatives.
 = 一只田鼠钻进那片饲料玉米地，还带来四十个亲戚。
 a field mouse = 田鼠
 field corn = 饲料玉米
+Field corn goes to cattle and the sweet kind goes to people.
+= 饲料玉米喂牛，甜玉米给人吃。
 ⑫ Field glasses hang by the door and cover a field of vision of about ten degrees.
 = 望远镜挂在门边，视野大约十度。
 field glasses = 双筒望远镜
 a field of vision = 视野
+His field of vision narrowed slowly and he noticed it while driving.
+= 他的视野慢慢变窄，开车时才察觉。
 a field of fire = 射界
+The wall gave the gunners a field of fire across the whole beach.
+= 那道墙给炮手的射界罩住了整片海滩。
 ⑬ Every field hand on that farm is paid by the row and finishes at four.
 = 那个农场的雇工都按垄计酬，四点收工。
 a field hand = 农田雇工
 a field house = 室内体育馆（美式）
+The field house takes four teams in winter and none in July.
+= 那座室内体育馆冬天容得下四支队，七月一支也没有。
 field sports = 野外运动
+Field sports pay three wages in that parish and divide every dinner.
+= 野外运动在那个教区养着三份工钱，也把每一场晚宴分成两派。
 
 fieldcraft
 核心：野外本领：在野外行进、观察、隐蔽而不惊动生物的那一套功夫。不可数。
@@ -290,6 +312,8 @@ fifthly = 第五（列举用语）
 = 第五纵队从内部下手，要指认一个内奸更难。
 a fifth column = 第五纵队
 a fifth columnist = 内奸
+Every failure was blamed on a fifth columnist nobody could ever name.
+= 每一次失利都怪到一个谁也指认不出的内奸头上。
 ⑤ Fifth-generation systems arrive before anybody has learned the fourth.
 = 第五代系统来的时候，第四代还没人学会。
 fifth-generation = 第五代的
