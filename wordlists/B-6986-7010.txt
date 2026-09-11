@@ -43,6 +43,8 @@ eclipse
 = 那次日食持续两分钟，鸟整整两分钟没出声。
 a solar eclipse = 日食
 a lunar eclipse = 月食
+A lunar eclipse turns the moon a dull red and needs no special glasses.
+= 月食把月亮变成暗红色，看它不用戴特制眼镜。
 ② Her second novel eclipsed the first and she still prefers the first.
 = 她的第二本小说盖过了第一本，她自己却还是更喜欢第一本。
 eclipse something = 使某物相形见绌
@@ -68,6 +70,8 @@ ecological
 = 那条路的生态代价，过了三十年才显出来。
 the ecological cost = 生态代价
 an ecological disaster = 生态灾难
+Draining the marsh was an ecological disaster that took one summer to arrange.
+= 抽干那片沼泽是一场生态灾难，而促成它只用了一个夏天。
 ② An ecological approach starts with the whole valley and not with one field.
 = 生态学的路子是从整条山谷入手，而不是从一块地入手。
 an ecological approach = 生态学的思路
@@ -113,6 +117,8 @@ economic
 = 经济增长放缓，每个部门都被要求交一份方案。
 economic growth = 经济增长
 economic policy = 经济政策
+Economic policy is written in one building and felt in nine million kitchens.
+= 经济政策在一栋楼里写出来，却在九百万个厨房里被感受到。
 ② The line is not economic and the council keeps it running anyway.
 = 那条线路不划算，议会照样让它开着。
 be economic = 划算、能维持得下去
@@ -131,6 +137,8 @@ economical
 = 那辆小车省油，上坡就不行了。
 be economical on fuel = 省油
 an economical solution = 省钱的办法
+Repairing the old roof was the economical solution and the ugliest one available.
+= 修旧屋顶是省钱的办法，也是能选的里头最难看的。
 ② He was economical with the truth and technically never lied.
 = 他避重就轻，严格说来也没撒谎。
 be economical with the truth = 只说半截实话
@@ -157,6 +165,8 @@ economics
 = 经济学本是她的第二志愿，结果成了她真正喜欢的那个。
 economics = 经济学
 study economics = 学经济学
+She left the bank to study economics and never went back to it.
+= 她离开银行去学经济学，从此再没回去过。
 ② The economics of the scheme do not work once the subsidy stops.
 = 补贴一停，那个方案的账就算不过来了。
 the economics of something = 某事的经济账
@@ -190,6 +200,8 @@ economy
 = 经济连涨了十一个季度，工资上一点也感觉不到。
 the economy = 经济
 a market economy = 市场经济
+Two generations grew up under a market economy and cannot describe any other.
+= 两代人在市场经济下长大，说不出别的经济是什么样子。
 ② The department was told to find economies of ten per cent by June.
 = 那个部门被要求六月前省出百分之十。
 economies = 省下来的开支
@@ -245,6 +257,8 @@ ecotourism
 = 生态旅游养活三名管护员，一年带来四百名游客。
 ecotourism = 生态旅游
 the ecotourism industry = 生态旅游业
+The ecotourism industry employs half the island and flies in all its food.
+= 生态旅游业雇了岛上一半的人，吃的却全靠飞机运进来。
 ② Ecotourism stops being ecological the moment the airstrip is built.
 = 一旦修起简易机场，生态旅游就不生态了。
 构词：eco- 加 tourism

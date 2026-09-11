@@ -37515,6 +37515,8 @@ muscular dystrophy = 肌营养不良
 = 角膜营养不良让眼睛慢慢变浑，而且有家族性。
 corneal dystrophy = 角膜营养不良
 myotonic dystrophy = 强直性肌营养不良
+Myotonic dystrophy makes the grip lock, so a handshake takes a moment to release.
+= 强直性肌营养不良让手一握就松不开，握个手要过一会儿才放得下。
 
 E. coli
 核心：（生物）大肠杆菌：Escherichia coli 的通用简写，肠道里本来就有，
@@ -38717,6 +38719,8 @@ ebullient
 = 她为那些结果兴奋不已，对它们究竟证明了什么却很谨慎。
 be ebullient = 兴致勃勃
 an ebullient mood = 高涨的情绪
+He came back from the audition in an ebullient mood that lasted two days.
+= 他试镜回来情绪高涨，高涨了两天。
 ② An ebullient crowd filled the square two hours before anything began.
 = 兴致高昂的人群在开场前两个钟头就挤满了广场。
 an ebullient crowd = 兴高采烈的人群
@@ -38881,6 +38885,8 @@ echolocation
 = 蝙蝠靠回声定位捕食，能在黑暗里从叶子上叼走一只蛾。
 echolocation = 回声定位
 hunt by echolocation = 靠回声定位捕猎
+Dolphins hunt by echolocation in water too muddy for any eye to help.
+= 海豚在浑得睁眼也没用的水里靠回声定位捕猎。
 ② Some blind people use echolocation with tongue clicks and learn it in months.
 = 有些盲人用舌尖打响来做回声定位，几个月就学会。
 use echolocation = 使用回声定位
@@ -38951,6 +38957,8 @@ eclipse
 = 那次日食持续两分钟，鸟整整两分钟没出声。
 a solar eclipse = 日食
 a lunar eclipse = 月食
+A lunar eclipse turns the moon a dull red and needs no special glasses.
+= 月食把月亮变成暗红色，看它不用戴特制眼镜。
 ② Her second novel eclipsed the first and she still prefers the first.
 = 她的第二本小说盖过了第一本，她自己却还是更喜欢第一本。
 eclipse something = 使某物相形见绌
@@ -38976,6 +38984,8 @@ ecological
 = 那条路的生态代价，过了三十年才显出来。
 the ecological cost = 生态代价
 an ecological disaster = 生态灾难
+Draining the marsh was an ecological disaster that took one summer to arrange.
+= 抽干那片沼泽是一场生态灾难，而促成它只用了一个夏天。
 ② An ecological approach starts with the whole valley and not with one field.
 = 生态学的路子是从整条山谷入手，而不是从一块地入手。
 an ecological approach = 生态学的思路
@@ -39021,6 +39031,8 @@ economic
 = 经济增长放缓，每个部门都被要求交一份方案。
 economic growth = 经济增长
 economic policy = 经济政策
+Economic policy is written in one building and felt in nine million kitchens.
+= 经济政策在一栋楼里写出来，却在九百万个厨房里被感受到。
 ② The line is not economic and the council keeps it running anyway.
 = 那条线路不划算，议会照样让它开着。
 be economic = 划算、能维持得下去
@@ -39039,6 +39051,8 @@ economical
 = 那辆小车省油，上坡就不行了。
 be economical on fuel = 省油
 an economical solution = 省钱的办法
+Repairing the old roof was the economical solution and the ugliest one available.
+= 修旧屋顶是省钱的办法，也是能选的里头最难看的。
 ② He was economical with the truth and technically never lied.
 = 他避重就轻，严格说来也没撒谎。
 be economical with the truth = 只说半截实话
@@ -39065,6 +39079,8 @@ economics
 = 经济学本是她的第二志愿，结果成了她真正喜欢的那个。
 economics = 经济学
 study economics = 学经济学
+She left the bank to study economics and never went back to it.
+= 她离开银行去学经济学，从此再没回去过。
 ② The economics of the scheme do not work once the subsidy stops.
 = 补贴一停，那个方案的账就算不过来了。
 the economics of something = 某事的经济账
@@ -39098,6 +39114,8 @@ economy
 = 经济连涨了十一个季度，工资上一点也感觉不到。
 the economy = 经济
 a market economy = 市场经济
+Two generations grew up under a market economy and cannot describe any other.
+= 两代人在市场经济下长大，说不出别的经济是什么样子。
 ② The department was told to find economies of ten per cent by June.
 = 那个部门被要求六月前省出百分之十。
 economies = 省下来的开支
@@ -39153,6 +39171,8 @@ ecotourism
 = 生态旅游养活三名管护员，一年带来四百名游客。
 ecotourism = 生态旅游
 the ecotourism industry = 生态旅游业
+The ecotourism industry employs half the island and flies in all its food.
+= 生态旅游业雇了岛上一半的人，吃的却全靠飞机运进来。
 ② Ecotourism stops being ecological the moment the airstrip is built.
 = 一旦修起简易机场，生态旅游就不生态了。
 构词：eco- 加 tourism
@@ -39277,6 +39297,8 @@ ecumenical
 = 一场跨教派的礼拜，把四个会众聚进了一座冷冰冰的教堂。
 an ecumenical service = 跨教派的礼拜
 the ecumenical movement = 教派合一运动
+The ecumenical movement began with letters between men who never met.
+= 教派合一运动是从几个素未谋面的人通信开始的。
 ② His taste in argument is ecumenical: he will take on anybody.
 = 他辩论起来不分门派，谁都愿意接。
 ecumenical = 不分派别的
@@ -39287,6 +39309,8 @@ ecumenism
 = 教派合一运动进展最大的那些年头，正是教堂日渐空荡的时候。
 ecumenism = 普世教会运动
 the spirit of ecumenism = 教派合一的精神
+In the spirit of ecumenism the two choirs sang together and rehearsed apart.
+= 本着教派合一的精神，两个唱诗班合唱，排练却各排各的。
 ② Ecumenism means shared services here and shared buildings two counties away.
 = 在这里，教派合一是合办礼拜；到两个郡以外，就是合用教堂。
 构词：ecumenical 加 -ism
@@ -39297,6 +39321,8 @@ eczema
 = 湿疹天冷就发，暖气一停又消停下去。
 eczema = 湿疹
 have eczema = 患湿疹
+Both children have eczema and the younger one has grown out of it.
+= 两个孩子都患湿疹，小的那个长大就好了。
 ② The cream treats the itch and does nothing about what triggers the eczema.
 = 那支药膏治痒，对诱发湿疹的东西一点办法没有。
 treat eczema = 治疗湿疹
@@ -39318,6 +39344,8 @@ edamame
 = 毛豆端上来烫得没法碰，四分钟就没了。
 edamame = 毛豆
 a bowl of edamame = 一碗毛豆
+A bowl of edamame keeps a table quiet for the first ten minutes.
+= 一碗毛豆能让一桌人头十分钟安安静静。
 ② Nobody eats the pod: you squeeze the edamame beans straight into your mouth.
 = 荚是不吃的：把毛豆粒挤进嘴里就行。
 edamame beans = 毛豆豆粒
@@ -39448,6 +39476,8 @@ edible
 = 那片林子里只有三种蘑菇能吃，其中两种长得一样。
 edible = 可食用的
 edible mushrooms = 可食用的蘑菇
+He sells edible mushrooms at the market and gives the recipes away free.
+= 他在集市上卖可食用的蘑菇，菜谱白送。
 ② The flowers on the cake are edible and nobody ever believes it.
 = 蛋糕上的花是能吃的，可从来没人信。
 be edible = 无毒能吃
@@ -39459,6 +39489,8 @@ edict
 = 那道命令是周五下来的，到三月悄悄撤回了。
 an edict = 法令、敕令
 issue an edict = 颁布法令
+Head office issued an edict about desk plants and three people resigned over it.
+= 总部就桌上摆植物这件事下了一道死命令，有三个人为此辞了职。
 ② An imperial edict closed every port to foreign ships for two hundred years.
 = 一道皇帝的敕令，把所有港口对外国船关了两百年。
 an imperial edict = 皇帝的敕令
@@ -39522,6 +39554,8 @@ edit
 = 她什么都改两遍，印出来还是能挑出一处。
 edit something = 编辑、校订某物
 make an edit = 做一处改动
+She made one edit to the opening line and the whole chapter settled.
+= 她把开头那句改了一处，整章就稳住了。
 ② He edited the paper for eleven years and never wrote a leader.
 = 他主编那份报纸十一年，一篇社论也没写过。
 edit a newspaper = 主编一份报纸
@@ -39552,6 +39586,8 @@ edition
 = 第一版里有那处印错，价钱是第二版的十倍。
 the first edition = 第一版
 a paperback edition = 平装版
+The paperback edition came out two years later with a different ending.
+= 平装版两年后才出，结尾换了一个。
 ② Monday's edition carried the correction on page nineteen.
 = 周一那一期把更正登在第十九页。
 Monday's edition = 周一那期
@@ -39580,10 +39616,14 @@ editorial
 = 那篇社论四百字，让报纸丢了两个广告客户。
 an editorial = 社论
 write an editorial = 写社论
+He was asked to write an editorial on a subject he had avoided for years.
+= 有人请他就一个他躲了多年的话题写社论。
 ② Editorial independence lasted until the owner's second phone call.
 = 编辑独立维持到老板打第二通电话为止。
 editorial independence = 编辑独立
 editorial staff = 编辑人员
+The editorial staff moved onto one floor and the paper got noticeably shorter.
+= 编辑人员搬到了一层楼上，报纸明显变薄了。
 
 editorialist
 核心：（美式）社论作者：专写社论与评论文章的人。可数。
@@ -39624,6 +39664,8 @@ educate people about something；三是训练（口味、耳朵）。
 = 那所学校教出了同一家人的四代人。
 educate somebody = 教育某人
 be educated at a school = 在某校受教育
+He was educated at a village school with one teacher and thirty-one pupils.
+= 他在一所乡村小学受的教育，那里一个老师带三十一个学生。
 ② The campaign educates people about what the symptoms actually look like.
 = 那场宣传让人们知道症状究竟长什么样。
 educate somebody about something = 就某事教导某人
@@ -39648,6 +39690,8 @@ education
 = 免费教育给那个镇带来的改变，是工厂从来没做到的。
 free education = 免费教育
 education = 教育
+Education takes up a fifth of the budget and most of the arguments.
+= 教育占掉五分之一的预算，还有大半的争论。
 ② He got a decent education and two languages out of eleven years there.
 = 在那儿待的十一年，给了他像样的学历，外加两门语言。
 a good education = 良好的教育
@@ -39662,6 +39706,8 @@ educational
 = 教育政策换一任大臣变一次，楼还是那些楼。
 educational policy = 教育政策
 an educational institution = 教育机构
+The building has been an educational institution, a hospital and a hotel.
+= 那栋楼当过教育机构、医院，也当过旅馆。
 ② The trip was educational and the children mostly remember the ferry.
 = 那趟出行很有教育意义，孩子们记住的主要是渡船。
 be educational = 有教育意义
@@ -39744,6 +39790,8 @@ eel
 = 鳗鱼每年春天洄游到那条河，可谁也没见过它们产卵。
 an eel = 鳗鱼
 smoked eel = 熏鳗鱼
+Smoked eel on brown bread is the one dish that shop has never changed.
+= 黑面包配熏鳗鱼，是那家店唯一没换过的一道。
 ② He is as slippery as an eel in any conversation about money.
 = 一谈到钱，他滑得像条鳗鱼。
 as slippery as an eel = 滑得抓不住
@@ -39755,6 +39803,8 @@ eerie
 = 下午四点，店铺全关着，那条街瘆得慌。
 eerie = 诡异的、瘆人的
 an eerie silence = 诡异的寂静
+An eerie silence followed the announcement and lasted until somebody dropped a cup.
+= 宣布之后是一阵诡异的寂静，直到有人摔了只杯子。
 ② There is an eerie similarity between the two accounts.
 = 那两份说法之间有一种诡异的相似。
 an eerie similarity = 诡异的相似
@@ -39798,6 +39848,8 @@ efface something = 抹去某物
 = 她把自己隐得太彻底，报告里记的是另外三个人的功劳。
 efface yourself = 不出头露面
 self-effacing = 不居功、不出风头的
+He is so self-effacing that visitors mistake him for somebody's driver.
+= 他太不出风头，来客常把他当成谁的司机。
 
 effect
 核心：名词三支、动词一支。名词一是影响、效果；二是（复数 effects）财物：
@@ -39810,6 +39862,8 @@ words to that effect 是「大意如此的话」；put something into effect 是
 = 新课表对最小那批孩子的影响立竿见影。
 the effect of something on somebody = 某事对某人的影响
 have an effect on something = 对某物有影响
+Two dry summers had an effect on the trees that is still visible.
+= 两个干燥的夏天对那些树的影响，至今还看得出来。
 ② The tablets take effect in about twenty minutes and last four hours.
 = 那种药大约二十分钟起效，能顶四个钟头。
 take effect = 生效、起作用
@@ -39817,6 +39871,8 @@ take effect = 生效、起作用
 = 新规四月起施行，可到现在还没人读过。
 come into effect = 开始施行
 put something into effect = 把某事付诸实施
+They put the plan into effect on a Monday and abandoned it by Thursday.
+= 他们星期一把那个方案付诸实施，到星期四就放弃了。
 ④ In effect, the two departments now report to the same person.
 = 实际上，那两个部门现在归同一个人管。
 in effect = 实际上
@@ -39830,6 +39886,8 @@ personal effects = 私人物品
 = 那些音效是拿一只皮手套和一袋碎石做出来的。
 sound effects = 音效
 special effects = 特效
+The special effects cost more than the cast and date faster than the jokes.
+= 特效比全体演员还贵，过时得比笑点还快。
 ⑧ The committee effected a change that three previous committees had only described.
 = 那个委员会促成了一项变革，前三届只是说说而已。
 effect a change = 促成一项变革
@@ -39842,6 +39900,8 @@ effective
 = 最简单的法子结果最管用，也最便宜。
 effective = 有效的
 an effective treatment = 有效的疗法
+There is an effective treatment now and the waiting list is two years long.
+= 现在有了有效的疗法，候诊名单却要排两年。
 ② She has been the effective head of the department since March.
 = 从三月起，她实际上就是那个系的头儿。
 the effective head = 实际主事的人
@@ -39965,6 +40025,8 @@ efficacious
 = 那种药对成人有效，从没在儿童身上试过。
 be efficacious = 有效的
 an efficacious remedy = 灵验的药方
+The book lists an efficacious remedy for burns that turns out to be cold water.
+= 书里列了一个治烫伤的灵验方子，其实就是冷水。
 ② Prayer was described as efficacious in the older editions and dropped from the new one.
 = 旧版里说祷告灵验，新版把这句删了。
 efficacious = 灵验的
@@ -39986,6 +40048,8 @@ efficiency
 = 效率上去了，可每个人的一天不知怎么反倒更长了。
 efficiency = 效率
 fuel efficiency = 燃油效率
+Fuel efficiency improves at fifty miles an hour and nobody drives that slowly.
+= 时速五十英里时燃油效率最好，可谁也不开那么慢。
 ② An efficiency apartment is one room, one hob and a very short walk to bed.
 = 单间公寓就是一间屋、一个灶头，外加走两步就到床。
 an efficiency apartment = 单间公寓（美式）
@@ -40001,6 +40065,8 @@ efficient
 = 她高效得让别人显得只是在忙。
 be efficient = 高效
 an efficient system = 高效的系统
+An efficient system moves the queue outdoors and calls that a solution.
+= 所谓高效的系统，就是把队伍挪到室外，还管这叫解决办法。
 ② The new boiler is efficient enough to pay for itself in six winters.
 = 新锅炉能效够高，六个冬天就把自己挣回来了。
 energy-efficient = 节能的
@@ -40021,6 +40087,8 @@ burn somebody in effigy 是烧某人的模拟像；教堂墓上的卧像也叫 e
 = 他们烧了那位大臣的模拟像，消防队照样来了。
 burn somebody in effigy = 焚烧某人的模拟像
 an effigy = 模拟像
+An effigy of the landlord stood on the bonfire wearing his actual hat.
+= 一个房东的模拟像立在篝火上，戴的是他本人的帽子。
 ② The knight's effigy lies on the tomb with its feet on a stone dog.
 = 那位骑士的卧像躺在墓上，脚踩着一条石狗。
 a stone effigy = 石雕卧像
@@ -40052,6 +40120,8 @@ effluent
 = 那家厂往河里排了六十年废水，只交过一次罚款。
 effluent = 废水、污水
 discharge effluent = 排放废水
+The plant may discharge effluent only between midnight and five in the morning.
+= 那家厂只准在午夜到早上五点之间排放废水。
 ② Treated effluent looks clean and still changes what lives downstream.
 = 处理过的废水看着干净，照样会改变下游的生物。
 treated effluent = 处理过的废水
@@ -40065,6 +40135,8 @@ be worth the effort 是值得费这个劲。
 = 起床是真使了劲，可谁也没看出来。
 make an effort = 使一把劲
 put effort into something = 在某事上下功夫
+She puts more effort into the labels than into what goes in the jars.
+= 她在标签上下的功夫，比在罐子里装什么上下的还多。
 ② Her first effort collapsed in the oven and the second one won a prize.
 = 她头一回做的在烤箱里塌了，第二回得了奖。
 a good effort = 一次不错的尝试
@@ -40181,6 +40253,8 @@ egalitarian
 = 那家公司自称人人平等，办公椅倒有三种规格。
 egalitarian = 平等主义的
 an egalitarian society = 平等的社会
+An egalitarian society still has to decide who gets the last hospital bed.
+= 即便是平等的社会，也还得决定最后一张病床归谁。
 ② She is an egalitarian who argues about it at every family dinner.
 = 她是个平等主义者，每次家庭聚餐都要为此争一回。
 an egalitarian = 平等主义者
@@ -40203,6 +40277,8 @@ have egg on your face 是出丑、下不来台；a bad egg 是坏家伙。
 = 她周日煮四个鸡蛋，一天一个吃到周四。
 an egg = 鸡蛋
 boil an egg = 煮鸡蛋
+He cannot boil an egg and has opinions about every restaurant in town.
+= 他连鸡蛋都煮不好，全城每家饭馆却都有一番评价。
 ② The female lays her eggs in the same crack in the bark every year.
 = 那只雌虫每年都把卵产在树皮的同一道缝里。
 lay eggs = 产卵
@@ -40300,6 +40376,8 @@ ego
 = 那个项目需要多两个工程师，少一个自我。
 an ego = 自负、自我
 a fragile ego = 脆弱的自尊
+A fragile ego runs that department and every email is written around it.
+= 那个部门是由一份脆弱的自尊管着的，每封邮件都得绕着它写。
 ② His ego took the criticism harder than his work did.
 = 那些批评伤到的，他的自尊比他的作品更重。
 bruise somebody's ego = 伤到某人的自尊
@@ -40409,6 +40487,8 @@ egress
 = 租约保证任何时候都能从院子出去。
 egress = 出去、通行而出
 right of egress = 通行外出的权利
+The deeds grant a right of egress that the new fence quietly removed.
+= 地契给了通行外出的权利，新围栏却悄悄把它取消了。
 ② Fire regulations require a second means of egress from every floor.
 = 消防规定要求每层楼都有第二条疏散出口。
 a means of egress = 一条出口通道
@@ -40556,6 +40636,8 @@ eighty = 八十
 = 他八十多岁开始骑车，同时把电视戒了。
 in your eighties = 八十多岁时
 the eighties = 八十年代
+The eighties left that town a bypass, a leisure centre and no factory.
+= 八十年代给那个镇留下一条绕城路、一座休闲中心，工厂却没了。
 
 einsteinium
 核心：锿：人工合成的放射性元素，符号 Es，原子序数 99；
@@ -40616,6 +40698,8 @@ ejaculation
 = 早泄常见、可治，在诊室里却很少有人提。
 premature ejaculation = 早泄
 ejaculation = 射精
+Ejaculation and orgasm are separate events, which surprises most of the class.
+= 射精和高潮是两回事，班上多数人听了都意外。
 ② The prayer book calls these short lines ejaculations and prints forty of them.
 = 祈祷书管这些短句叫「短祷」，印了四十条。
 an ejaculation = （旧式）短促的呼喊或祷词

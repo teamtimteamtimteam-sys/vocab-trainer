@@ -107,6 +107,8 @@ ebullient
 = 她为那些结果兴奋不已，对它们究竟证明了什么却很谨慎。
 be ebullient = 兴致勃勃
 an ebullient mood = 高涨的情绪
+He came back from the audition in an ebullient mood that lasted two days.
+= 他试镜回来情绪高涨，高涨了两天。
 ② An ebullient crowd filled the square two hours before anything began.
 = 兴致高昂的人群在开场前两个钟头就挤满了广场。
 an ebullient crowd = 兴高采烈的人群
@@ -271,6 +273,8 @@ echolocation
 = 蝙蝠靠回声定位捕食，能在黑暗里从叶子上叼走一只蛾。
 echolocation = 回声定位
 hunt by echolocation = 靠回声定位捕猎
+Dolphins hunt by echolocation in water too muddy for any eye to help.
+= 海豚在浑得睁眼也没用的水里靠回声定位捕猎。
 ② Some blind people use echolocation with tongue clicks and learn it in months.
 = 有些盲人用舌尖打响来做回声定位，几个月就学会。
 use echolocation = 使用回声定位

@@ -83,6 +83,8 @@ muscular dystrophy = 肌营养不良
 = 角膜营养不良让眼睛慢慢变浑，而且有家族性。
 corneal dystrophy = 角膜营养不良
 myotonic dystrophy = 强直性肌营养不良
+Myotonic dystrophy makes the grip lock, so a handshake takes a moment to release.
+= 强直性肌营养不良让手一握就松不开，握个手要过一会儿才放得下。
 
 E. coli
 核心：（生物）大肠杆菌：Escherichia coli 的通用简写，肠道里本来就有，
