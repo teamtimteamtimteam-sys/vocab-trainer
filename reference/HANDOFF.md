@@ -152,8 +152,8 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
 - **词典本身**：f 段 99%（剩的是待推迟），g 段在写，**下一批从 geode 起**
   （geography / geology / geometry / German / germ / gerrymander 一带）。
   G 段大写词头 51 条已登记进 proper-nouns-keep。
-- **补例句**：tier1 剩 543，tier2（词族）841。**e 段与 fa / fe / fi / fl 段都清空了**，
-  **下一段 fo / fr / fu / ga**（按词条数算 fo 30、fr 28、fu 17、ga 10；
+- **补例句**：tier1 剩 433，tier2（词族）841。**e 段与 fa 到 fo 各段都清空了**，
+  **下一段 fr / fu / ga / ge**（按词条数算 fr 28、fu 17、ga 10、ge 2；
   等式数大约是词条数的两三倍，fl「48 个词条」实际是 135 条等式）。
   上百条的大段按词头拆四批做，每批 26–40 条，各自过闸各自提交 ——
   fi 拆成 fiasco–figure / file–fiord / fire 一族 / first–fixed，
