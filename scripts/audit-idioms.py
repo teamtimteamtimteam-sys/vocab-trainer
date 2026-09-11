@@ -24,6 +24,10 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'fritter': ['fritter away'],
+ 'fro': ['to and fro'],
+ 'frog': ['a frog in your throat'],
+ 'frolic': ['frolic about'],
  'friend': ['make friends', 'a close friend', 'be friends with'],
  'fright': ['take fright', 'stage fright'],
  'frighten': ['frighten off'],
