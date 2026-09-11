@@ -212,6 +212,8 @@ cotton fabric = 棉布
 = 廉价信贷不到十年，就改变了那座城的肌理。
 the fabric of society = 社会结构
 the fabric of a building = 建筑的主体结构
+Damp got into the fabric of the building before anybody looked upstairs.
+= 还没人上楼看过，潮气就已经钻进了建筑的主体结构。
 
 fabricate
 核心：两支。一是编造（谎言、证据）：fabricate evidence；

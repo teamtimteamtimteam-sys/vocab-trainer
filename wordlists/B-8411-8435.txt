@@ -84,14 +84,20 @@ the cat family = 猫科
 = 那位家庭医生认识他们三代人，姓氏还是叫错。
 a family doctor = 家庭医生
 a family name = 姓氏
+The family name changed at the border and nobody wrote down why.
+= 那个姓氏在过境时改了，谁也没记下为什么。
 ⑦ Family planning services moved into the family room at the health centre.
 = 计划生育服务搬进了保健中心的家庭活动室。
 family planning = 计划生育
 a family room = 家庭活动室
+The family room has the television and the good chairs and no books.
+= 家庭活动室里有电视、有好椅子，就是没有书。
 ⑧ The hotel is family-friendly, serves food family style and calls that a policy.
 = 那家旅馆适合带孩子，饭菜合盘上桌，还管这叫政策。
 family-friendly = 适合全家的
 family style = 合盘上桌的（美式）
+Dishes arrive family style and the shy guests go hungry.
+= 菜是合盘上桌的，脸皮薄的客人就得饿着。
 ⑨ Family leave is generous on paper and taken by about one man in nine.
 = 家庭假纸面上很慷慨，九个男的里大约一个会休。
 family leave = 家庭假
@@ -108,7 +114,11 @@ family values = 家庭价值观
 = 全科医学与家庭医疗，是同一个专科的两个叫法。
 family medicine = 全科医学
 family practice = 家庭医疗
+Family practice sees the same patient at nine, nineteen and ninety.
+= 家庭医疗给同一个病人看病，九岁看到十九岁，再看到九十岁。
 a family practitioner = 全科医生
+A family practitioner refers less often than a hospital doctor expects.
+= 全科医生转诊的次数，比医院大夫预想的少。
 
 famine
 核心：饥荒：大范围的粮食短缺，可数不可数都行。

@@ -10116,6 +10116,8 @@ cotton fabric = 棉布
 = 廉价信贷不到十年，就改变了那座城的肌理。
 the fabric of society = 社会结构
 the fabric of a building = 建筑的主体结构
+Damp got into the fabric of the building before anybody looked upstairs.
+= 还没人上楼看过，潮气就已经钻进了建筑的主体结构。
 
 fabricate
 核心：两支。一是编造（谎言、证据）：fabricate evidence；
@@ -10186,14 +10188,20 @@ a face = 脸
 = 他拉着脸进来，走的时候脸更长。
 a long face = 不高兴的脸色
 pull a face = 做鬼脸
+She pulled a face at the medicine and swallowed it without a word.
+= 她冲着那勺药做了个鬼脸，一声不吭就咽了下去。
 ③ The north face is in shadow until noon and freezes again by four.
 = 北面那道岩壁中午之前都在阴影里，四点又冻上。
 the north face = 北面岩壁
 the face of a clock = 钟面
+The face of the clock was repainted and the hands were left alone.
+= 钟面重新刷过漆，指针没动。
 ④ Nobody wanted to lose face, so the meeting ran two hours over.
 = 谁也不想丢面子，会就超了两个钟头。
 lose face = 丢面子
 save face = 保住面子
+They let him announce it himself so that he could save face.
+= 他们让他自己去宣布，好保住他的面子。
 ⑤ The house faces north and the garden gets the afternoon sun.
 = 那房子朝北，花园下午有太阳。
 face north = 朝北
@@ -10201,6 +10209,8 @@ face north = 朝北
 = 迟早他得正视事实，把那东西签了。
 face the facts = 正视事实
 face up to something = 正视并承担某事
+It took him a winter to face up to the size of the debt.
+= 他花了一个冬天，才正视那笔债有多大。
 ⑦ They met face to face for the first time after nine years of letters.
 = 通了九年信之后，他们头一回面对面见上。
 face to face = 面对面
@@ -10220,23 +10230,35 @@ face the music = 承担后果
 = 她把面霜、蜜粉和面膜放在一个自称「水疗间」的抽屉里。
 face cream = 面霜
 face powder = 蜜粉
+Face powder settles into every line the photographer wanted to hide.
+= 蜜粉会沉进摄影师最想遮住的每一道纹里。
 a face pack = 面膜
+A face pack takes twenty minutes and cannot be worn to the door.
+= 一张面膜要敷二十分钟，敷着可不能去开门。
 ⑬ Face painting at the fête ran out of blue by eleven and of patience by noon.
 = 游园会上的脸部彩绘，十一点蓝色用完，中午耐心也用完了。
 face painting = 脸部彩绘
 face paint = 脸部彩绘颜料
+Face paint comes off with baby oil and off the sofa with nothing.
+= 脸部彩绘颜料用婴儿油能卸掉，沾到沙发上就什么都卸不掉。
 ⑭ He landed face down in the mud and the video going round calls it a face plant.
 = 他脸朝下摔进泥里，传开的那段视频管这叫「脸刹」。
 face down = 脸朝下
 a face plant = 脸着地摔倒
+One wet root and the whole ride ended in a face plant.
+= 一段湿树根，那趟骑行就以脸着地摔倒收了场。
 ⑮ The two sides face off twice a year and the rest is email rather than face time.
 = 双方一年正面交锋两次，其余时候都靠邮件，没什么面对面的机会。
 face off = 正面交锋
 face time = 面对面相处的时间
+New staff get less face time with the manager than the software does.
+= 新员工跟经理面对面相处的时间，比那套软件还少。
 ⑯ Taking the offer at face value cost them the face-saving exit they had planned.
 = 把那个提议照字面接受，让他们失去了原打算好的体面退路。
 face value = 表面价值、票面价值
 face-saving = 保全面子的
+A face-saving delay was agreed and nobody called it a delay.
+= 谈定了一次保全面子的推迟，谁也不管它叫推迟。
 ⑰ A face card is worth ten and the ace is a law unto itself.
 = 一张花牌算十点，A 则自成一格。
 a face card = 扑克里的花牌
@@ -10332,6 +10354,8 @@ facial
 = 她的面部表情没变，桌上那只手变了。
 a facial expression = 面部表情
 facial hair = 面部毛发
+The regiment allows facial hair on the upper lip and nowhere else.
+= 那个团只准唇上留面部毛发，别处一律不许。
 ② She books a facial before every wedding and sleeps through most of it.
 = 每逢婚礼她都先约个面部护理，多半时间都睡过去了。
 have a facial = 做面部护理
@@ -10441,6 +10465,8 @@ facts and figures = 具体数据
 = 那趟实地调查产出一份情况说明，没有一条事实有人质疑。
 a fact-finding mission = 实地调查
 a fact sheet = 情况说明单
+A fact sheet in nine languages went out and the phone rang anyway.
+= 九种语言的情况说明单发了出去，电话还是照打不误。
 
 faction
 核心：两支。一是派系、小集团（常含贬义）：rival factions；
@@ -10497,6 +10523,8 @@ factor
 = 成本才是决定性因素，会议记录里没人这么写。
 a deciding factor = 决定性因素
 a contributing factor = 促成因素
+Tiredness was a contributing factor and the report names it last.
+= 疲劳是促成因素之一，报告把它列在最后。
 ② Twelve has six factors and the class between them found five.
 = 十二有六个因数，全班加起来找出了五个。
 a factor = 因数
@@ -10507,7 +10535,11 @@ factor something in = 把某项算进去
 = 凝血因子八是一种凝血蛋白，光它的价格就有一整套文献。
 factor VIII = 凝血因子八
 factor in = 计入
+Nobody thought to factor in the week the school is closed.
+= 谁也没想到把学校放假那一周计入。
 factor into = 计入……之中
+The tide has to be factored into every delivery on that island.
+= 在那座岛上，每一趟送货都得把潮汐计入其中。
 
 factorial
 核心：（数学）阶乘：写作 n!，就是 1 一路乘到 n；也作形容词。
@@ -10534,6 +10566,8 @@ the factory floor 指车间，factory farming 指集约化养殖。
 = 那家工厂开三个班，新公路通车那年却关了门。
 a car factory = 汽车厂
 factory workers = 工厂工人
+Factory workers learned about the closure from a local radio bulletin.
+= 工厂工人是从本地电台的一则广播里得知要关厂的。
 ② Decisions made upstairs reach the factory floor about a fortnight later.
 = 楼上做的决定，大约两个星期后才传到车间。
 the factory floor = 车间
@@ -10544,6 +10578,8 @@ factory farming = 集约化养殖
 = 工厂直销店半价卖次品，那条加工母船则常年不靠岸。
 a factory shop = 工厂直销店
 a factory ship = 加工母船
+A factory ship stays out for four months and processes the catch aboard.
+= 加工母船一出海就是四个月，渔获在船上就处理了。
 
 factotum
 核心：（正式或调侃）杂务总管、打杂的：什么活儿都干的那个人，
@@ -10627,6 +10663,8 @@ fade away = 逐渐消失
 = 那场戏在空荡的路上淡出，又在天亮时同一条路上淡入。
 fade out = 淡出
 fade in = 淡入
+Let the strings fade in under the last line of dialogue.
+= 让弦乐在最后一句台词底下淡入。
 ④ The fade-up at the start runs three seconds and the audience talks through all of it.
 = 开场那段渐显有三秒，观众整段都在说话。
 a fade-up = 影视里的渐显
@@ -10666,6 +10704,8 @@ faff
 = 他们摆弄那顶帐篷，一直磨蹭到天全黑。
 faff about = 瞎忙、磨蹭
 faff around = 瞎忙、磨蹭（跟 faff about 通用）
+Stop faffing around with the seating plan and open the doors.
+= 别再为座位表瞎忙了，开门吧。
 ② Getting there is a faff and getting back is a good deal worse.
 = 去那儿一趟够折腾，回来还要糟得多。
 a faff = 麻烦事
@@ -10684,6 +10724,8 @@ a fag = 累人的差事
 = 他们在派对的尾声才到，坐最后一辆出租车走的。
 the fag end of something = 某事的末尾、残余
 a fag end = 烟屁股
+A fag end in the flowerpot told the landlord somebody had smoked.
+= 花盆里的一个烟屁股，让房东知道有人抽过烟。
 fag hag = 常跟男同性恋交往的女性（俚语，冒犯，认得即可）
 
 fagged
@@ -10780,6 +10822,8 @@ a complete failure = 彻头彻尾的失败
 = 发动机在旷野上空失灵，给了飞行员两分钟和一块田。
 engine failure = 发动机故障
 heart failure = 心力衰竭
+Heart failure explains the swollen ankles that four other tests missed.
+= 心力衰竭解释了另外四项检查都没查出的脚踝水肿。
 
 fain
 核心：（古旧、诗文）乐意地、宁愿：几乎只见于 would fain do something 这个说法，
@@ -10811,6 +10855,8 @@ not have the faintest idea = 一点头绪都没有
 = 那条路线不适合胆小的人，地图上写了两遍。
 not for the faint-hearted = 不适合胆小者
 the faint-hearted = 胆小的人
+The faint-hearted turn back at the first ladder and nobody blames them.
+= 胆小的人在头一道梯子那儿就折返了，也没人怪他们。
 
 faintly
 核心：两支。一是微弱地、隐约地；二是当程度副词用，「略微、有点」：
@@ -10878,10 +10924,14 @@ fair market value = 公允市价
 = 英式的合理使用与美式的合理使用，管的大体是同一块地，名字不同。
 fair dealing = 英式版权法的合理使用
 fair use = 美式版权法的合理使用
+A teacher copying one chapter is probably fair use and possibly not.
+= 老师复印一章，多半算合理使用，也可能不算。
 ⑭ A fair-minded chair gave the floor to the fair-haired newcomer last.
 = 一位处事公道的主席，最后才把发言权给那位金发新人。
 fair-minded = 处事公道的
 fair-haired = 金发的
+Both boys are fair-haired and neither of their parents was.
+= 两个男孩都是金发，父母哪个都不是。
 ⑮ Fair trade coffee costs more and the difference is printed on the bag.
 = 公平贸易咖啡贵一些，差价就印在袋子上。
 fair trade = 公平贸易
@@ -10984,6 +11034,8 @@ break faith with somebody = 对某人背信
 = 集市上一位信仰治疗师，排的队比诊所还长。
 a faith healer = 信仰治疗师
 faith healing = 信仰治疗
+Faith healing was tried first and the antibiotics were tried far too late.
+= 先试的是信仰治疗，抗生素用得太晚了。
 ⑥ The faith school takes children from three parishes and one bus route.
 = 那所教会学校招三个教区、一条公交线上的孩子。
 a faith school = 教会学校
@@ -11148,6 +11200,8 @@ fall = 陷落
 = 她在椅子上睡着了，暖气一开才醒。
 fall asleep = 睡着
 fall ill = 病倒
+He fell ill on a Tuesday and was back at work by Monday.
+= 他星期二病倒，到下周一又回去上班了。
 ⑤ They fell in love in a launderette and told everyone it was a concert.
 = 他们是在自助洗衣店里相爱的，对外却都说是在音乐会上。
 fall in love = 相爱
@@ -11185,23 +11239,35 @@ fall away = 逐渐减少、消退
 = 软件一垮，他们退回纸笔，进度也退后了三天。
 fall back on something = 退而依靠某物
 fall back = 后退、撤回
+The line fell back two miles and held there until spring.
+= 战线后撤了两英里，在那儿一直守到开春。
 ⑰ He fell for it, fell out with his brother and became the fall guy for both.
 = 他上了当，跟哥哥闹翻，两头的黑锅都归了他。
 fall for something = 上当、信以为真
 fall out with somebody = 跟某人闹翻
+She fell out with a neighbour over a hedge and never mentioned it.
+= 她为一道树篱跟邻居闹翻，之后再没提过。
 a fall guy = 替罪羊
+Somebody had to be the fall guy and the newest driver was chosen.
+= 总得有个人当替罪羊，挑中的是最新来的那个司机。
 ⑱ The deal fell through and the tenants fell in with a new landlord instead.
 = 那笔交易告吹，租客转而跟新房东搭上了。
 fall through = 告吹
 fall in with somebody = 与某人结伴、依从某人
+He fell in with two climbers at the hut and left with them.
+= 他在山间小屋跟两个登山者结了伴，跟他们一起走了。
 ⑲ Everything fell to her when the manager left and the staff fell over themselves to help.
 = 经理一走，什么都落到她头上，员工们抢着帮忙。
 fall to somebody = 落到某人头上
 fall over yourself to do something = 抢着做某事
+Publishers fell over themselves to sign a writer they had refused twice.
+= 出版商们抢着去签一个自己拒过两回的作者。
 ⑳ Two walkers fell over on the same step and a third fell down the bank.
 = 两名徒步者在同一级台阶上摔倒，第三个摔下了堤坡。
 fall over = 摔倒
 fall down = 跌倒、垮掉
+The argument falls down at the point where somebody has to pay.
+= 那套论证到了该谁掏钱这一步就垮掉了。
 ㉑ Suspicion fell upon the one person who had been away all week.
 = 嫌疑落到了整周都不在的那个人身上。
 fall upon somebody = 落到某人身上
@@ -11241,6 +11307,8 @@ fallen
 = 每年秋天落叶都堵住那个排水口，年年是同一个人来清。
 fallen leaves = 落叶
 a fallen tree = 倒下的树
+A fallen tree closed the lane and two farms shared one tractor.
+= 一棵倒下的树封了小路，两个农场合用一台拖拉机清理。
 ② The memorial lists the fallen by street rather than by rank.
 = 那座纪念碑按街道列出阵亡者，而不是按军衔。
 the fallen = 阵亡将士
@@ -11346,10 +11414,14 @@ a false start = 抢跑、开局失败
 = 翻译里的「假朋友」，代价比生词大得多。
 a false friend = 形似义异的假朋友
 a false beginner = 学过又忘的假初学者
+A false beginner learns the alphabet in one evening and the rest slowly.
+= 学过又忘的假初学者，一晚上就把字母表捡了回来，别的慢慢来。
 ⑪ The claim was false imprisonment and the defence rested on a false memory.
 = 那项指控是非法拘禁，辩方靠的是记忆错构。
 false imprisonment = 非法拘禁
 a false memory = 虚假记忆
+A false memory feels exactly like a real one from the inside.
+= 虚假记忆从里头感觉起来，跟真记忆一模一样。
 ⑫ The false ribs are the ones that never reach the breastbone.
 = 假肋就是那几根根本接不到胸骨的肋骨。
 a false rib = 假肋
@@ -11562,14 +11634,20 @@ the cat family = 猫科
 = 那位家庭医生认识他们三代人，姓氏还是叫错。
 a family doctor = 家庭医生
 a family name = 姓氏
+The family name changed at the border and nobody wrote down why.
+= 那个姓氏在过境时改了，谁也没记下为什么。
 ⑦ Family planning services moved into the family room at the health centre.
 = 计划生育服务搬进了保健中心的家庭活动室。
 family planning = 计划生育
 a family room = 家庭活动室
+The family room has the television and the good chairs and no books.
+= 家庭活动室里有电视、有好椅子，就是没有书。
 ⑧ The hotel is family-friendly, serves food family style and calls that a policy.
 = 那家旅馆适合带孩子，饭菜合盘上桌，还管这叫政策。
 family-friendly = 适合全家的
 family style = 合盘上桌的（美式）
+Dishes arrive family style and the shy guests go hungry.
+= 菜是合盘上桌的，脸皮薄的客人就得饿着。
 ⑨ Family leave is generous on paper and taken by about one man in nine.
 = 家庭假纸面上很慷慨，九个男的里大约一个会休。
 family leave = 家庭假
@@ -11586,7 +11664,11 @@ family values = 家庭价值观
 = 全科医学与家庭医疗，是同一个专科的两个叫法。
 family medicine = 全科医学
 family practice = 家庭医疗
+Family practice sees the same patient at nine, nineteen and ninety.
+= 家庭医疗给同一个病人看病，九岁看到十九岁，再看到九十岁。
 a family practitioner = 全科医生
+A family practitioner refers less often than a hospital doctor expects.
+= 全科医生转诊的次数，比医院大夫预想的少。
 
 famine
 核心：饥荒：大范围的粮食短缺，可数不可数都行。

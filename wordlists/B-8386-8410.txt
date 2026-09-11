@@ -18,6 +18,8 @@ fall = 陷落
 = 她在椅子上睡着了，暖气一开才醒。
 fall asleep = 睡着
 fall ill = 病倒
+He fell ill on a Tuesday and was back at work by Monday.
+= 他星期二病倒，到下周一又回去上班了。
 ⑤ They fell in love in a launderette and told everyone it was a concert.
 = 他们是在自助洗衣店里相爱的，对外却都说是在音乐会上。
 fall in love = 相爱
@@ -55,23 +57,35 @@ fall away = 逐渐减少、消退
 = 软件一垮，他们退回纸笔，进度也退后了三天。
 fall back on something = 退而依靠某物
 fall back = 后退、撤回
+The line fell back two miles and held there until spring.
+= 战线后撤了两英里，在那儿一直守到开春。
 ⑰ He fell for it, fell out with his brother and became the fall guy for both.
 = 他上了当，跟哥哥闹翻，两头的黑锅都归了他。
 fall for something = 上当、信以为真
 fall out with somebody = 跟某人闹翻
+She fell out with a neighbour over a hedge and never mentioned it.
+= 她为一道树篱跟邻居闹翻，之后再没提过。
 a fall guy = 替罪羊
+Somebody had to be the fall guy and the newest driver was chosen.
+= 总得有个人当替罪羊，挑中的是最新来的那个司机。
 ⑱ The deal fell through and the tenants fell in with a new landlord instead.
 = 那笔交易告吹，租客转而跟新房东搭上了。
 fall through = 告吹
 fall in with somebody = 与某人结伴、依从某人
+He fell in with two climbers at the hut and left with them.
+= 他在山间小屋跟两个登山者结了伴，跟他们一起走了。
 ⑲ Everything fell to her when the manager left and the staff fell over themselves to help.
 = 经理一走，什么都落到她头上，员工们抢着帮忙。
 fall to somebody = 落到某人头上
 fall over yourself to do something = 抢着做某事
+Publishers fell over themselves to sign a writer they had refused twice.
+= 出版商们抢着去签一个自己拒过两回的作者。
 ⑳ Two walkers fell over on the same step and a third fell down the bank.
 = 两名徒步者在同一级台阶上摔倒，第三个摔下了堤坡。
 fall over = 摔倒
 fall down = 跌倒、垮掉
+The argument falls down at the point where somebody has to pay.
+= 那套论证到了该谁掏钱这一步就垮掉了。
 ㉑ Suspicion fell upon the one person who had been away all week.
 = 嫌疑落到了整周都不在的那个人身上。
 fall upon somebody = 落到某人身上
@@ -111,6 +125,8 @@ fallen
 = 每年秋天落叶都堵住那个排水口，年年是同一个人来清。
 fallen leaves = 落叶
 a fallen tree = 倒下的树
+A fallen tree closed the lane and two farms shared one tractor.
+= 一棵倒下的树封了小路，两个农场合用一台拖拉机清理。
 ② The memorial lists the fallen by street rather than by rank.
 = 那座纪念碑按街道列出阵亡者，而不是按军衔。
 the fallen = 阵亡将士
@@ -216,10 +232,14 @@ a false start = 抢跑、开局失败
 = 翻译里的「假朋友」，代价比生词大得多。
 a false friend = 形似义异的假朋友
 a false beginner = 学过又忘的假初学者
+A false beginner learns the alphabet in one evening and the rest slowly.
+= 学过又忘的假初学者，一晚上就把字母表捡了回来，别的慢慢来。
 ⑪ The claim was false imprisonment and the defence rested on a false memory.
 = 那项指控是非法拘禁，辩方靠的是记忆错构。
 false imprisonment = 非法拘禁
 a false memory = 虚假记忆
+A false memory feels exactly like a real one from the inside.
+= 虚假记忆从里头感觉起来，跟真记忆一模一样。
 ⑫ The false ribs are the ones that never reach the breastbone.
 = 假肋就是那几根根本接不到胸骨的肋骨。
 a false rib = 假肋
