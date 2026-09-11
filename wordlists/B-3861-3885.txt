@@ -7,7 +7,11 @@ cancel
 = 他们取消了音乐会，电话订票的人一个也没退款。
 cancel = 取消
 cancel a subscription = 取消订阅
+Cancelling a subscription takes nine clicks and one telephone call.
+= 取消订阅要点九下，外加打一通电话。
 cancel an order = 取消订单
+She cancelled the order and it arrived a fortnight later anyway.
+= 她取消了订单，两周后货照样送到了。
 ② The clerk cancelled the stamp with a hand that had done it a million times.
 = 职员盖销了邮票，那只手做过上百万次。
 cancel a stamp = 注销邮票
@@ -195,6 +199,8 @@ candy
 核心：糖果。美式用它统称各种糖，英式统称说 sweets，
 英式的 candy 偏指硬糖。形容词 candied 是糖渍的。
 cotton candy = 棉花糖（美式）
+Cotton candy costs four dollars and weighs less than the stick.
+= 一份棉花糖四美元，比那根棍子还轻。
 candyfloss 是英式的说法，指的是同一样东西。
 统称时不可数，指一颗时可数。
 ① The children were given candy and were impossible for the rest of the day.

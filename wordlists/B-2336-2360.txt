@@ -71,6 +71,8 @@ beryl
 = 祖母绿是绿柱石的一种，颜色来自微量的铬。
 a variety of = …的一个品种
 beryl = 绿柱石
+Beryl turns green with chromium and blue with a little iron.
+= 绿柱石掺了铬发绿，掺一点铁就发蓝。
 ② Aquamarine is blue beryl and comes out of the same kind of rock.
 = 海蓝宝石是蓝色绿柱石，出自同一类岩石。
 ③ Beryl crystals form six-sided prisms that can grow to several metres.
@@ -242,7 +244,11 @@ bespectacled
 ① A bespectacled man opened the door and asked for identification.
 = 一个戴眼镜的男人来开门，问要证件。
 bespectacled = 戴眼镜的
+A bespectacled clerk copied the whole register out by hand.
+= 一位戴眼镜的书记员，把整本登记簿手抄了一遍。
 bespectacled = 戴眼镜的（书面）
+Every portrait in that corridor is bespectacled and dated after 1890.
+= 那条走廊里每一幅肖像都戴着眼镜，年份都在一八九〇年之后。
 wearing glasses = 戴着眼镜（日常）
 ② She is small, bespectacled and quiet until somebody is wrong.
 = 她个子小、戴眼镜、话不多，除非有人说错了话。
@@ -321,6 +327,8 @@ best man = 伴郎
 = 这书在三个国家都是畅销书，三个国家都没人读。
 bestseller = 畅销书
 bestselling = 畅销的
+Her bestselling book is the one she wrote in nine weeks.
+= 她那本畅销书，是她九个星期写出来的。
 ⑫ They follow best practice, which changes every time the consultants come back.
 = 他们遵循最佳实践，而顾问每来一次它就变一回。
 best practice = 最佳实践

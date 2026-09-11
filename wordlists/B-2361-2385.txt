@@ -42,10 +42,14 @@ beta
 = 那个应用还在公测，一转屏幕就崩。
 beta version = 公测版本
 beta test = 公开测试
+The beta test found nine problems and the launch found ninety.
+= 公开测试查出九个问题，上线之后查出九十个。
 ② Beta particles are fast electrons and a sheet of aluminium stops them.
 = 贝塔粒子就是高速电子，一张铝片就能挡住。
 beta particle = 贝塔粒子
 beta decay = 贝塔衰变
+Beta decay turns one element into the next one along.
+= 贝塔衰变把一种元素变成序号相邻的下一种。
 ③ He takes a beta blocker to keep his pulse down before he goes on stage.
 = 他上台前吃β受体阻滞剂，把心率压下来。
 beta blocker = β 受体阻滞剂（降心率）

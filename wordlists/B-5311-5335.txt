@@ -193,6 +193,8 @@ corrugated cardboard = 瓦楞纸板
 = 那些波纹增加了刚性，重量却一点没加。
 a corrugation = 波纹起伏
 corrugate = 使起瓦楞（动词）
+They corrugate the sheet to make it stiff without making it heavy.
+= 他们把板材压出瓦楞，让它变挺又不变重。
 构词：拉丁语 corrugare 使起皱
 注意用法：起瓦楞是为了加强度。
 

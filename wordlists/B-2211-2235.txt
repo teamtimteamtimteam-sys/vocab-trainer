@@ -191,6 +191,8 @@ bedding = 床上用品
 Fresh bedding goes into the hutch on Sundays and is gone by Tuesday.
 = 周日给笼子换上干净垫草，周二就没了。
 bedrock = 基岩；根基
+They dug four metres and hit bedrock before they hit water.
+= 他们挖了四米，没挖到水就挖到了基岩。
 
 bedazzle
 核心：指"晃得人睁不开眼"，进而指"让人眼花缭乱、看晕了头"——

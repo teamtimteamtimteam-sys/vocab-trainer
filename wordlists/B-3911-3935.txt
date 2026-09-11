@@ -384,6 +384,8 @@ captain
 = 最后一批货还没装完，船长就下令起航了。
 captain = 船长、机长
 a ship's captain = 船长
+A ship's captain marries people in films and almost nowhere else.
+= 船长给人证婚，只在电影里有，别处几乎没有。
 ② She was promoted to captain and given a company nobody else wanted.
 = 她升了上尉，接手了一个别人都不想要的连队。
 captain = 上尉（陆军）或上校（海军）

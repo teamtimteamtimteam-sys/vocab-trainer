@@ -251,7 +251,11 @@ comprehend
 ① He could not comprehend the scale of it until he saw the map.
 = 看到那张地图之前，他没法想象那个规模。
 comprehend = 理解领会
+Nobody in the room comprehended the second slide and nobody said so.
+= 屋里没人领会第二张幻灯片，也没人说出来。
 comprehend = 领会
+She comprehended the risk in about four seconds and signed anyway.
+= 她四秒左右就领会了其中的风险，还是签了字。
 ② The term comprehends both senses and the statute defines neither.
 = 那个词把两层意思都包含在内，法条却一层都没界定。
 comprehend = 包含
@@ -354,11 +358,17 @@ comprise
 ① The house comprises six rooms and the set comprises three volumes.
 = 这栋房子有六个房间，这套书含三卷。
 comprise = 由……组成
+The collection comprises nine boxes and one very large map.
+= 那批藏品包含九个箱子和一张极大的地图。
 comprise = 包含
+The estate comprises a house, a barn and nine acres of nettles.
+= 那份产业包含一栋房子、一座谷仓，还有九英亩荨麻地。
 ② Women comprise half the staff and these islands comprise the archipelago.
 = 女性占员工的一半；这些岛屿构成了这个群岛。
 comprise = 构成、占
 comprise = 构成（整体）
+Four families comprise the entire population of that island in winter.
+= 冬天，四户人家就构成了那座岛的全部人口。
 ③ The committee is comprised of experts, which purists will tell you is wrong.
 = 委员会由专家组成——纯粹主义者会说这个说法不规范。
 be comprised of = 由……组成（常见但被认为不规范）

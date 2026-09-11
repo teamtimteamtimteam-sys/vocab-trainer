@@ -48,16 +48,18 @@ def main(argv):
                 out.append(line)
                 if ' = ' in line and not line.startswith('='):
                     k = (head, line.split(' = ')[0].strip())
+                    # 键可以写成三元组 ("词头", "等式左边", 第几处)，
+                    # 指定补同一词条里的第几处同名等式（bluff 的第二支、
+                    # comprise 的第三支）。两元组等于第一处。
+                    seen[k] = seen.get(k, 0) + 1
+                    kn = (head, k[1], seen[k])
+                    if kn in F: k = kn
+                    elif k in F and seen[k] > 1:
+                        dup.append((k, line.strip())); k = None
                     if k in F:
                         en, zh = F[k]
                         nxt = L[j+1] if j+1 < len(L) else ''
-                        # 同一词条里同样的等式左边可能出现两次（形容词一支、动词
-                        # 一支各写一条 `elaborate = …`）。只补第一处，其余报出来
-                        # 让人自己看 —— 全补过会把形容词的例句塞进动词那一支。
-                        seen[k] = seen.get(k, 0) + 1
-                        if seen[k] > 1:
-                            dup.append((k, line.strip()))
-                        elif nxt.strip() != en:
+                        if nxt.strip() != en:
                             out.append(en); out.append('= ' + zh); hit += 1
                         miss.discard(k)
             if out != L: blocks[i] = '\n'.join(out); ch = True

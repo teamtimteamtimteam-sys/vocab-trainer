@@ -4308,6 +4308,8 @@ blend into = 与……浑然一体
 The extension blends into the terrace and cost twice as much for that.
 = 那处加建跟整排房子浑然一体，为此贵了一倍。
 blend = 掺成一体（分不出各是各）
+The tea is a blend and no two tins taste quite alike.
+= 那种茶是掺成一体的拼配茶，两罐之间味道从不完全一样。
 mix = 掺在一起（还看得出各是各）
 
 blender
@@ -7148,7 +7150,11 @@ bluff your way through = 连蒙带唬地应付过去
 She bluffed her way through the interview and learned the job in a fortnight.
 = 她连蒙带唬地应付完面试，两周就把活学会了。
 bluff = 虚张声势（装作有底牌）
+His bluff held for four minutes and the cards said otherwise.
+= 他虚张声势撑了四分钟，牌面可不是那么回事。
 bluff = 直率坦诚的（说人的性子）
+His bluff manner frightens new staff and reassures everybody else.
+= 他那副直率的做派吓着新人，别人倒觉得踏实。
 ③ I called his bluff and he had nothing at all to fall back on.
 = 我戳穿了他的虚张声势，他根本没有后手。
 call someone's bluff = 揭穿虚张声势
@@ -7742,6 +7748,8 @@ by boat = 坐船
 Everything on that island arrives by boat and leaves the same way.
 = 那个岛上的东西都是坐船来的，走也一样。
 boat = 小船（潜艇例外，再大也叫 boat）
+A boat that size needs two people and the tide behind it.
+= 那么大的小船要两个人，还得有潮水推着。
 ship = 大船（跨洋的那种）
 ③ We are all in the same boat and half of us are pretending otherwise.
 = 我们都在一条船上，有一半人还装作不是。
@@ -16863,6 +16871,8 @@ lift、boot、queue 都是例子。语言学与编辑工作里的用词。可数
 = 光第一页，编辑就标出了三处英式说法。
 a Briticism = 英式说法
 be a Briticism = 属于英式说法
+The spelling is a Briticism and the editor changed it back.
+= 那个拼法属于英式说法，编辑又给改了回去。
 ② Calling the boot of a car the boot is a Briticism.
 = 把汽车行李箱叫作「boot」，是个英式说法。
 spot a Briticism = 认出一处英式说法
@@ -25883,6 +25893,8 @@ campaigning 是这类活动的总称。可数。
 = 他们的竞选活动打得干净，只是晚了三天才启动。
 an election campaign = 竞选活动
 launch a campaign = 发起一场运动
+They launched a campaign in April and the posters arrived in July.
+= 他们四月发起了一场运动，海报七月才到。
 ② The advertising campaign cost millions and shifted nothing at all.
 = 那场广告推广花了几百万，什么也没带动。
 an advertising campaign = 广告推广
@@ -26252,7 +26264,11 @@ cancel
 = 他们取消了音乐会，电话订票的人一个也没退款。
 cancel = 取消
 cancel a subscription = 取消订阅
+Cancelling a subscription takes nine clicks and one telephone call.
+= 取消订阅要点九下，外加打一通电话。
 cancel an order = 取消订单
+She cancelled the order and it arrived a fortnight later anyway.
+= 她取消了订单，两周后货照样送到了。
 ② The clerk cancelled the stamp with a hand that had done it a million times.
 = 职员盖销了邮票，那只手做过上百万次。
 cancel a stamp = 注销邮票
@@ -26440,6 +26456,8 @@ candy
 核心：糖果。美式用它统称各种糖，英式统称说 sweets，
 英式的 candy 偏指硬糖。形容词 candied 是糖渍的。
 cotton candy = 棉花糖（美式）
+Cotton candy costs four dollars and weighs less than the stick.
+= 一份棉花糖四美元，比那根棍子还轻。
 candyfloss 是英式的说法，指的是同一样东西。
 统称时不可数，指一颗时可数。
 ① The children were given candy and were impossible for the rest of the day.
@@ -27108,6 +27126,8 @@ a baseball cap = 棒球帽
 = 放进包里之前，先把盖子拧回去。
 screw the cap on = 把盖子旋上
 a bottle cap = 瓶盖
+A bottle cap in the grass cut through a bicycle tyre.
+= 草里一个瓶盖，把自行车胎割破了。
 ③ The government capped tuition fees and the universities found other charges.
 = 政府给学费设了上限，大学就找出了别的收费名目。
 cap = 设上限
@@ -27594,6 +27614,8 @@ captain
 = 最后一批货还没装完，船长就下令起航了。
 captain = 船长、机长
 a ship's captain = 船长
+A ship's captain marries people in films and almost nowhere else.
+= 船长给人证婚，只在电影里有，别处几乎没有。
 ② She was promoted to captain and given a company nobody else wanted.
 = 她升了上尉，接手了一个别人都不想要的连队。
 captain = 上尉（陆军）或上校（海军）
@@ -30407,6 +30429,8 @@ a cat-o'-nine-tails = 九尾鞭
 构词：晚期拉丁语 cattus
 注意用法：几个习语都很高频，值得整句记住。
 fraidy cat = 胆小鬼（儿语）
+Being called a fraidy cat at seven lasted him until eleven.
+= 七岁时被叫作胆小鬼，这名头跟到了十一岁。
 
 CAT scan
 核心：电脑断层扫描：X 光绕着身体转一圈，靠计算机拼出断面图像。
@@ -30577,6 +30601,8 @@ catamite
 = 罗马讽刺诗拿富人和他豢养的少年开涮。
 a catamite = 被年长男子豢养的少年男伴
 catamite = 被豢养的少年男伴
+The satire names a catamite in the household and moves on without comment.
+= 那首讽刺诗点出那户人家里有个被豢养的少年男伴，随即不置一词地带过。
 ② Scholars still argue over what catamite meant in practice.
 = 学者仍在争这个词当时实际怎么用。
 argue over = 争论
@@ -32289,6 +32315,8 @@ Celtic harp
 = 凯尔特竖琴的弦比音乐会竖琴少，是架在膝上弹的。
 a Celtic harp = 凯尔特竖琴
 the Celtic harp = 凯尔特竖琴（泛指这件乐器时用定冠词）
+The Celtic harp has wire strings and is played with fingernails.
+= 凯尔特竖琴用的是金属弦，是拿指甲弹的。
 ② The Celtic harp appears on Irish coins and on every bottle of Guinness.
 = 凯尔特竖琴印在爱尔兰硬币上，也印在每一瓶健力士上。
 the Celtic harp = 爱尔兰国徽上的竖琴纹章
@@ -35461,6 +35489,8 @@ a chauvinist = 抱这种态度的人
 chauvinistic = 抱本国至上或大男子偏见的
 副词 chauvinistically 用得少，多修饰 dismiss、assume 这类动词。
 chauvinistically = 抱着那种偏见地
+He answered chauvinistically and the room let it pass twice.
+= 他抱着那种偏见答了话，满屋子的人放过了两回。
 构词：法国士兵 Chauvin 的名字，他对拿破仑狂热崇拜
 注意语域：一律带贬义。
 
@@ -37016,6 +37046,8 @@ chilli
 = 辣椒先去籽，摸脸之前一定先洗手。
 a chilli = 辣椒（英式拼法）
 chilli = 辣椒（作调味）
+One chilli in that pot feeds nine people and frightens two.
+= 那锅里放一个辣椒，够九个人吃，吓退两个。
 ② They made chilli con carne in a pot big enough for a rugby team.
 = 他们用一口够橄榄球队吃的大锅做了辣豆牛肉。
 chilli con carne = 辣豆牛肉
@@ -38498,6 +38530,8 @@ Christ
 = 福音书里的基督时而是教师，时而是医者。
 the Christ = 基督（称号）
 Christ = 基督
+Christ appears in that painting as a carpenter with dirty hands.
+= 那幅画里的基督，是个双手脏污的木匠。
 ② Christ, it's cold out there, and the heating is off again.
 = 天哪外头真冷，暖气还又停了。
 Christ = 天哪（不耐烦的感叹）
@@ -46615,7 +46649,11 @@ a commemorative stamp 是纪念邮票。及物，常用被动。
 ① The statue commemorates the dead of two wars on one plinth.
 = 那座雕像在同一个底座上纪念两场战争的死者。
 commemorate = 纪念
+A bench commemorates a woman who walked that path every morning.
+= 一张长椅纪念着一位每天早上走那条小路的女士。
 commemorate = 纪念（某个日子）
+The parade commemorates a day that two countries remember differently.
+= 那场游行纪念的日子，两个国家记得的版本不一样。
 ② They gathered in commemoration of her work with the fishing families.
 = 他们聚在一起，纪念她为渔民家庭做过的事。
 in commemoration of = 为纪念……
@@ -48818,7 +48856,11 @@ comprehend
 ① He could not comprehend the scale of it until he saw the map.
 = 看到那张地图之前，他没法想象那个规模。
 comprehend = 理解领会
+Nobody in the room comprehended the second slide and nobody said so.
+= 屋里没人领会第二张幻灯片，也没人说出来。
 comprehend = 领会
+She comprehended the risk in about four seconds and signed anyway.
+= 她四秒左右就领会了其中的风险，还是签了字。
 ② The term comprehends both senses and the statute defines neither.
 = 那个词把两层意思都包含在内，法条却一层都没界定。
 comprehend = 包含
@@ -48921,11 +48963,17 @@ comprise
 ① The house comprises six rooms and the set comprises three volumes.
 = 这栋房子有六个房间，这套书含三卷。
 comprise = 由……组成
+The collection comprises nine boxes and one very large map.
+= 那批藏品包含九个箱子和一张极大的地图。
 comprise = 包含
+The estate comprises a house, a barn and nine acres of nettles.
+= 那份产业包含一栋房子、一座谷仓，还有九英亩荨麻地。
 ② Women comprise half the staff and these islands comprise the archipelago.
 = 女性占员工的一半；这些岛屿构成了这个群岛。
 comprise = 构成、占
 comprise = 构成（整体）
+Four families comprise the entire population of that island in winter.
+= 冬天，四户人家就构成了那座岛的全部人口。
 ③ The committee is comprised of experts, which purists will tell you is wrong.
 = 委员会由专家组成——纯粹主义者会说这个说法不规范。
 be comprised of = 由……组成（常见但被认为不规范）

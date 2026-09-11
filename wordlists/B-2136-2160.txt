@@ -522,6 +522,8 @@ bay
 = 倒车进装货区，卸货的时候别熄火。
 loading bay = 装卸区
 bay = 隔出来的一格
+Each bay holds two cars and the lines were painted for one.
+= 每一格停得下两辆车，可线是照一辆划的。
 ③ A bay window juts from the wall and gives the front room light all afternoon.
 = 一扇凸窗从墙上探出来，让前屋整个下午都有光。
 bay window = 凸窗

@@ -466,6 +466,8 @@ by boat = 坐船
 Everything on that island arrives by boat and leaves the same way.
 = 那个岛上的东西都是坐船来的，走也一样。
 boat = 小船（潜艇例外，再大也叫 boat）
+A boat that size needs two people and the tide behind it.
+= 那么大的小船要两个人，还得有潮水推着。
 ship = 大船（跨洋的那种）
 ③ We are all in the same boat and half of us are pretending otherwise.
 = 我们都在一条船上，有一半人还装作不是。
