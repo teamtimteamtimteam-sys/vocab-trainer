@@ -32520,6 +32520,8 @@ double-book = 重复预订
 They double-booked the hall and two weddings arrived at once.
 = 他们把礼堂重复预订了，两场婚礼同时到场。
 double-booking = 重复预订（名词）
+A double-booking put a funeral and a birthday in one room.
+= 一次重复预订，把葬礼和生日宴排进了同一间屋子。
 double-check = 复核一遍
 Double-check the date before you book anything that cannot be changed.
 = 订不能改的东西之前，把日期复核一遍。
@@ -32531,6 +32533,8 @@ double-park = 并排停车（挡住别人）
 Somebody double-parked outside and four people missed the ferry.
 = 有人在外面并排停车，四个人误了渡轮。
 double-dip = 一勺蘸两回；也指重复领取好处
+One double-dip at that party is still mentioned at Christmas.
+= 那次派对上有人拿薯片蘸了两回，到圣诞还有人提。
 double-dip 在经济里还有另一支，见下一条。
 ㉒ A double-dip recession is two downturns with a false dawn in the middle.
 = 二次探底式衰退，就是中间夹着一次假回暖的两轮下滑。
@@ -32556,6 +32560,8 @@ double glazing = 双层玻璃
 Double glazing halved the noise and doubled the condensation.
 = 双层玻璃把噪音减半，把冷凝水翻倍。
 double-glaze something = 给某物装双层玻璃
+They double-glazed the front and the noise came round the back.
+= 他们给前面装了双层玻璃，声音从后头绕了进来。
 double-glazed = 装了双层玻璃的
 The double-glazed window still rattles in a north wind.
 = 那扇装了双层玻璃的窗，刮北风时照样响。
@@ -32567,7 +32573,11 @@ double digits = 两位数（美式）
 Inflation reached double digits and the wage talks stopped.
 = 通胀涨到两位数，工资谈判就停了。
 double-figure = 两位数的（英式定语）
+A double-figure score in that league is worth a newspaper photograph.
+= 在那个联赛里拿到两位数的得分，值得上一次报纸照片。
 double-digit = 两位数的（美式定语）
+Double-digit inflation emptied that savings account in about three years.
+= 两位数的通胀，三年左右就把那个储蓄账户掏空了。
 英式说 figures，美式说 digits，意思一样。
 ㉖ They worked double time on Sunday and finished double quick because of the forecast.
 = 他们周日拿双倍工资加班，因为天气预报，干得飞快。
@@ -32576,6 +32586,8 @@ double quick = 飞快地（口语）
 They cleared the hall double quick and left the chairs stacked wrong.
 = 他们飞快地清了场，椅子叠错了方向。
 a double top = 飞镖里的上方双倍区；股市里的双顶形态
+A double top finished the leg and the crowd stood up early.
+= 一记上方双倍区结束了那一局，观众提前就站了起来。
 double time 在音乐里另指速度加倍。
 ㉗ A double fault at set point and a double play in the ninth ended two different games.
 = 盘点上的双误，和第九局的双杀，各自终结了一场比赛。
@@ -32594,6 +32606,8 @@ double precision = 双精度（计算机）
 Double precision fixed the rounding and doubled the run time.
 = 双精度解决了舍入问题，运行时间翻倍。
 double decomposition = 复分解（化学）
+Double decomposition makes two new salts and one of them falls out.
+= 复分解生成两种新盐，其中一种会沉出来。
 三个词分属生物、计算机与化学，共用的是「双」这个意思。
 ㉙ The cellist practised double-stopping, the score had a double bar, and the bassoonist played the double bassoon.
 = 大提琴手练双音，谱上有个终止双线，巴松手吹的是倍低音管。
@@ -32602,7 +32616,11 @@ a double bar = 终止双线（乐谱）
 A double bar at the end means stop and not turn the page.
 = 末尾的终止双线意思是停，不是翻页。
 a double bassoon = 倍低音管
+A double bassoon sounds an octave below and is twice as awkward.
+= 倍低音管比正常低八度，也难伺候一倍。
 a double rhyme = 双韵
+A double rhyme is hard to use twice without sounding comic.
+= 双韵用第二次，就很难不显得滑稽。
 都是音乐与诗律里的术语。
 ㉚ He doubled over with laughter and the understudy doubles up as the stage manager.
 = 他笑得直不起腰；替补演员还兼着舞台监督。
@@ -32611,10 +32629,14 @@ double up as something = 兼作某职
 The hall doubles up as a polling station twice a decade.
 = 那个礼堂十年里有两次兼作投票站。
 a double-action mechanism = 双动机构
+A double-action mechanism cocks and fires with one pull.
+= 双动机构一扣就完成上膛与击发。
 double up 与 double over 常通用，说身体弯折。
 ㉛ A double-double in that league means ten or more in two statistical categories.
 = 在那个联赛里，两双指的是有两项统计上双。
 a double-double = 两双（篮球）
+A double-double in his first game and nothing like it since.
+= 他首场比赛就拿了两双，此后再没有过。
 篮球统计用语，三项上双叫 a triple-double。
 ㉜ The compliment was double-edged and double-entry bookkeeping would not have hidden it.
 = 那句恭维话是把双刃剑，就算用复式记账也遮不住。
@@ -33009,10 +33031,14 @@ downsize = 缩减规模、裁员
 They downsized twice and hired contractors to do the same work.
 = 他们两次裁员，又请外包干同样的活。
 downsizing = 缩编（委婉说法）
+Downsizing took nine jobs and the department kept the same workload.
+= 那次缩编砍掉九个岗位，部门的活一点没少。
 a downturn = 下滑、衰退
 The downturn closed four shops on that street in a year.
 = 那轮下滑，一年关掉了那条街上的四家店。
 a downtrend = 下行趋势
+A downtrend on that chart is four points and much worry.
+= 那张图上的下行趋势不过四个点，担心倒不少。
 downsizing 是典型的委婉语，实质就是裁员。
 ㉞ Nobody downplayed the downside and the presentation was the better for it.
 = 没人淡化其中的不利面，那场汇报反倒因此更好。
@@ -33035,41 +33061,83 @@ a downpipe = 落水管（英式）
 The downpipe blocked and the wall was wet for two winters.
 = 落水管堵了，那面墙湿了两个冬天。
 a downspout = 落水管（美式）
+The downspout empties onto the path and freezes there every January.
+= 落水管往小路上排水，每年一月就在那儿结冰。
 a downdraught = 下沉气流
+A downdraught brought the smoke back into the room twice.
+= 下沉气流把烟两次倒灌回屋里。
 英式 downpipe、美式 downspout，说的是同一根管子。
 ㊱ The line went downmarket, the brand went downscale, and the shares took a downtick.
 = 那个产品线走了低端路线，牌子档次下滑，股价也小跌了一下。
 go downmarket = 走低端路线（英式）
+The shop went downmarket in 1998 and the rent went up anyway.
+= 那家店一九九八年走了低端路线，房租照样涨。
 downscale = 低端的（美式）；也指缩减
+A downscale version of the same machine sells four times as well.
+= 同一台机器的低端版本，销量好四倍。
 a downtick = 小幅下跌
+A downtick of one per cent emptied the room of journalists.
+= 百分之一的小幅下跌，就把记者从屋里清空了。
 英式 downmarket、美式 downscale，语气都带贬。
 ㊲ Downtime on that machine costs more per hour than the downgrading of the whole line.
 = 那台机器每小时的停机损失，比整条线降级的成本还高。
 downtime = 停机时间；也指休息时间
+Downtime on that line costs more per hour than the operator earns.
+= 那条生产线停机一小时的损失，比操作工挣的还多。
 downgrading = 降级（名词）
+The downgrading of that road cost the village its only bus.
+= 那条路的降级，让村子失去了唯一一班公交。
 a downswing = 下行、下滑阶段
+A downswing lasts about eighteen months and feels like nine years.
+= 一轮下滑阶段大约十八个月，感觉像九年。
 downtime 在口语里也说个人的休息时间。
 ㊳ The downtrodden characters get the last word and the downlighter above them flickers.
 = 那些受尽欺压的角色说了最后一句话，他们头顶的射灯还在闪。
 downtrodden = 受尽欺压的
+The downtrodden clerk in that novel inherits the firm at the end.
+= 那部小说里受尽欺压的职员，到结尾继承了公司。
 a downlighter = 向下照的射灯
+A downlighter over the sink shows every crumb on the worktop.
+= 水槽上方一盏向下照的射灯，把台面上每颗屑都照了出来。
 a downlink = 下行链路（卫星通信）
+The downlink comes in at noon and the weather decides the quality.
+= 下行链路中午接通，信号好坏由天气说了算。
 downtrodden 偏文学，多说被制度压着的人。
 ㊴ They walked downriver, cycled downwind, and drifted downwards without meaning to.
 = 他们沿河而下，顺风骑行，不知不觉往下漂。
 downriver = 沿河而下
+Everything the town loses turns up downriver within about a week.
+= 镇上丢的东西，大约一周之内都会在下游出现。
 downwind = 顺风的、顺风地
+Stand downwind of that yard once and never do it again.
+= 在那个院子的下风处站一回，就不会再站第二回。
 downwards = 向下（英式）
+The path slopes downwards for a mile and then simply stops.
+= 那条小路向下斜了一英里，然后就没了。
 downward = 向下的
+The downward slope on that graph began before anybody was watching.
+= 那张图上向下的那一段，是在没人看着的时候就开始的。
 downwardly = 向下地
+The two lines move downwardly together and nobody can say why.
+= 那两条线一起向下走，谁也说不出为什么。
 英式副词多写 downwards，美式多写 downward。
 ㊵ The post was downvoted within a minute and the downy chick in the photograph became a meme.
 = 那个帖子一分钟内就被踩了下去，照片里那只绒毛小鸡倒成了梗。
 downvote something = 给某物投反对票、点踩
+Nine people downvoted the answer and one of them explained why.
+= 九个人给那个回答点了踩，只有一个说明了理由。
 downy = 覆着绒毛的
+A downy chick looks twice its size and weighs almost nothing.
+= 覆着绒毛的雏鸟看着大一倍，重量几乎等于没有。
 downstage = 舞台前部
+She moved downstage on the last line and the hall went quiet.
+= 最后一句台词时她走到舞台前部，全场安静了下来。
 downshift = 降挡；也指放慢生活节奏
+He downshifted at the corner and the engine did the braking.
+= 他在弯道降了挡，刹车靠的是发动机。
 downstate = 州的南部（美式）
+Downstate they grow rice and upstate they argue about it.
+= 州南部种稻子，州北部为这事争论。
 downvote 是论坛用语；downy 说的是 down 羽绒那一支。
 构词：古英语 ofdune 从山丘下来
 注意词性：同一个形式能作副词、介词、形容词、动词与名词，靠位置分。
