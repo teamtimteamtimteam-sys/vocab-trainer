@@ -24,6 +24,8 @@ extra
 = 他们多住了一天，按那个费率却付了一星期的钱。
 an extra day = 多出的一天
 at no extra charge = 不另外收费
+Breakfast comes at no extra charge and stops being served at eight.
+= 早餐不另外收费，八点就不供应了。
 ② The floor was extra slippery where the rain had come in under the door.
 = 雨水从门底下渗进来，那一块地板格外滑。
 extra careful = 格外小心

@@ -27,6 +27,8 @@ an eyelash = 一根睫毛
 = 她冲酒保眨眼撒娇，端上来的是自来水。
 flutter your eyelashes = 抛媚眼
 false eyelashes = 假睫毛
+False eyelashes came off in the pool and floated like small insects.
+= 假睫毛在泳池里掉了下来，浮着像几只小虫。
 
 eyelet
 核心：小孔、金属扣眼：衣服、鞋、帆布上穿绳带用的那种圈孔。可数。
@@ -64,6 +66,8 @@ eyeliner = 眼线（妆）
 = 他为演出借了一支眼线笔，留了两年。
 a stick of eyeliner = 一支眼线笔
 liquid eyeliner = 眼线液
+Liquid eyeliner needs a steady hand and a surface to rest it on.
+= 画眼线液要手稳，还要有个地方架着胳膊。
 
 eyepatch
 核心：眼罩：遮住一只眼睛的那种，医用与装扮都用。可数。
@@ -101,6 +105,8 @@ good eyesight = 视力好
 = 她的视力在衰退，靠声音把那条公交线记熟了。
 lose your eyesight = 失去视力
 have your eyesight tested = 检查视力
+Drivers over seventy have their eyesight tested and most of them pass.
+= 七十岁以上的司机要检查视力，多数都过得了。
 
 eyesore
 核心：（贬）碍眼的东西：难看得刺眼的建筑或景象。可数。
@@ -147,6 +153,8 @@ an eyewitness account = 目击者陈述
 = 两名目击者记得的是同一辆车，颜色却不一样。
 an eyewitness = 目击者
 an eyewitness to something = 某事的目击者
+An eyewitness to the whole thing was buying milk two doors down.
+= 整件事的目击者，当时正在隔两个门的店里买牛奶。
 
 eyrie
 核心：（英式）鹰巢：猛禽筑在高崖上的巢；引申指居高临下的处所。美式拼 aerie。
