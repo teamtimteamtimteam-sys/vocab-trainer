@@ -575,7 +575,7 @@ const MULTISENSE_THRESHOLD = 12;   // ≥12 义项算「核心词」，反正考
 const MULTISENSE_STAGE_CAP = 5;    // 核心词永远卡在这一级（30天/L3），不许升到 60/90天
 const DAY_START  = 4;                       // 凌晨 4:00 为一天分界
 const BACKUP_WARN_DAYS = 7;
-const APP_VERSION = "2.0.1";
+const APP_VERSION = "2.0.2";
 
 /* ---------------------------------------------------------------- utils */
 const $ = s => document.querySelector(s);
@@ -948,17 +948,31 @@ function zhText(w) {
 const HAS_CJK = /[\u4e00-\u9fff\u3400-\u4dbf]/;
 
 /* -------------------------------------------------------- 高亮目标词 */
-const SUFFIX_RE = /(ations?|ators?|ments?|nesses?|ities|ives?|ables?|ibles?|ances?|ences?|ings?|ers?|ors?|ies|ed|es|s|ly|y|e)$/;
+// 老版本这里取词头的第一个词、再允许词尾长出 0-6 个字母：
+//   "a cappella" → 取 "a" → /\b(a[a-z]{0,6})\b/gi
+// 于是 and / an / about / at / any / atoll 全被涂绿，真正的词头
+// 反倒只有首字母亮着。词尾放宽只对长词安全，对 a、A-bomb 这种是灾难。
+// 现在：整条词头（含多词与连字符）作为一个整体匹配，词尾变形只在
+// 单个词且长度 ≥4 时才允许，而且只在一句里高亮**第一处** ——
+// 同一个词在句中出现两次，后面那个多半不是本义项要教的用法。
+const INFLECT = "(?:s|es|ed|d|ing|ies|ied|er|est|ly)?";
 function hlRegex(word) {
-  const w = word.toLowerCase().split(/\s|-/)[0];
-  let stem = w;
-  const st = w.replace(SUFFIX_RE, "");
-  if (st.length >= 5) stem = st;
-  return new RegExp("\\b(" + stem.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "[a-z]{0,6})\\b", "gi");
+  const q = t => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const w = String(word || "").trim().toLowerCase();
+  if (!w) return null;
+  const parts = w.split(/[\s\-\u2010-\u2015]+/).filter(Boolean);
+  if (!parts.length) return null;
+  let body = parts.map(q).join("[\\s\\-\\u2010-\\u2015]+");
+  if (parts.length === 1 && parts[0].length >= 4) body += INFLECT;
+  const left  = /^[a-z0-9]/.test(parts[0]) ? "\\b" : "";
+  const right = /[a-z0-9]$/.test(parts[parts.length - 1]) ? "\\b" : "";
+  return new RegExp(left + "(" + body + ")" + right, "i");
 }
 function hl(sentence, word) {
   const out = esc(sentence);
-  try { return out.replace(hlRegex(word), '<span class="hl">$1</span>'); }
+  const re = hlRegex(word);
+  if (!re) return out;
+  try { return out.replace(re, '<span class="hl">$1</span>'); }   // 无 g：只替第一处
   catch (e) { return out; }
 }
 
