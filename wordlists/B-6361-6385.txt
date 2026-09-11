@@ -362,6 +362,8 @@ discourse on something = 就某题长篇谈论
 = 像「well」这样的话语标记，在对话里起的作用比多数名词都大。
 a discourse marker = 话语标记
 discourse upon something = 就某题长篇谈论
+He discoursed upon drainage for forty minutes without notes.
+= 他不看稿讲了四十分钟排水问题。
 话语标记指 well、anyway、so 这类组织话语的小词。
 构词：拉丁语 discursus 跑来跑去
 注意用法：名词重音在前，动词重音在后。

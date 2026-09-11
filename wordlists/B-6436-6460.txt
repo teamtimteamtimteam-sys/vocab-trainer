@@ -348,6 +348,8 @@ a dispatch = 急件、战地快讯
 = 一名摩托信使送来文件，大臣就在议席前的讲台上读了它们。
 a dispatch rider = 摩托信使
 the dispatch box = 英国下议院里发言人身前的那个箱子
+She stood at the dispatch box and read out a figure that was wrong.
+= 她站在发言箱前，念出了一个错的数字。
 两个词都带旧时公文传递的痕迹。
 构词：意大利语 dispacciare 送走
 注意用法：英式旧拼 despatch，今天多数出版物写 dispatch。

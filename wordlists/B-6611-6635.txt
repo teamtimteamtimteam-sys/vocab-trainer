@@ -143,8 +143,14 @@ a doorknob = 圆形门把手
 = 门上的五金件换了，门环留着，入场抽奖的奖品是一听饼干。
 door furniture = 门上的把手铰链等五金件（英式）
 a door knocker = 门环
+The door knocker is brass and cleaned once a year whether it needs it or not.
+= 那个门环是黄铜的，不管用不用得着，一年擦一次。
 a door prize = 入场抽奖的奖品（美式）
+The door prize was a hamper and the winner had already left.
+= 入场抽奖的奖品是一篮食品，中奖的人早走了。
 a doornail = 门钉
+The lock is as dead as a doornail and the door still shuts.
+= 那把锁彻底废了，门倒还关得上。
 习语 as dead as a doornail 是「彻底没气了」。
 构词：古英语 duru
 注意用法：说「隔壁的人」用 next door；说「敲门有人应」用 answer the door。
@@ -381,6 +387,8 @@ doss about = 无所事事地混
 = 那家廉价客栈一晚收一先令，什么也不问。
 a dosshouse = 廉价客栈（英式，旧）
 a dosser = 睡便宜客栈的人；也指流浪汉
+A dosser slept in that doorway all winter and moved on in April.
+= 一个流浪汉在那个门洞里睡了一冬，四月就走了。
 两个词今天都带冒犯，说无家可归者要用 a homeless person。
 构词：可能来自古法语 dos 背
 注意语域：英式口语；说无家可归者时 dosser 带冒犯，今天避免使用。

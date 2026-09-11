@@ -159,6 +159,8 @@ a diffuser = 柔光罩、扩散器
 = 那个论点用六页散散漫漫地讲下来，问题恰恰就出在这份散漫上。
 diffusely = 散漫地、不集中地
 diffuseness = 散漫、不集中
+The diffuseness of that argument is why nobody could answer it.
+= 那套论证太散，所以没人接得上。
 两个词都偏批评，说文章与论证没个焦点。
 构词：拉丁语 diffundere 倒开来
 注意别混：diffuse 是扩散，defuse 是拆引信、化解 —— 拼写只差一个字母。
@@ -279,6 +281,8 @@ a digestif = 餐后助消化酒
 = 她把一块全麦饼干泡进茶里，半块掉在了杯底。
 a digestive = 全麦消化饼干（英式）
 the digestive system = 消化系统
+The digestive system takes four hours to do what the leaflet says is instant.
+= 消化系统要四小时完成的事，单页上说是即时的。
 英式的饼干名就叫 digestive；医学里 digestive 作形容词说消化的。
 ⑧ The digester runs at forty degrees and turns the waste into gas and a smell.
 = 那台厌氧发酵罐在四十度下运行，把废料变成沼气和一股味道。
@@ -339,25 +343,41 @@ be available digitally = 可以在线取用
 = 那家画廊买了数字艺术品，连带还得买下承载它的屏幕。
 digital art = 数字艺术
 a digital certificate = 数字证书
+A digital certificate expired at midnight and took the website with it.
+= 一张数字证书午夜过期，把网站一起带垮了。
 a digital signature = 数字签名
+A digital signature is accepted everywhere except by that one office.
+= 数字签名到处都认，只有那一间办公室不认。
 签名与证书那两个是安全领域的固定说法，跟手写签名不是一回事。
 ⑥ The digital divide in that county is a matter of speed, not of ownership.
 = 那个郡的数字鸿沟问题在网速，不在有没有设备。
 the digital divide = 数字鸿沟
 a digital footprint = 数字足迹
+Her digital footprint goes back further than she can remember.
+= 她的数字足迹，比她自己记得的还早。
 digitalization = 数字化
+Digitalization moved the queue from the corridor into an app.
+= 数字化把队伍从走廊挪进了一个应用里。
 数字足迹指一个人在网上留下的全部痕迹。
 ⑦ Digital natives are assumed to understand the settings and mostly just accept them.
 = 人们以为数字原住民懂那些设置，其实他们多半只是照单全收。
 a digital native = 数字原住民
 a digital immigrant = 数字移民
+A digital immigrant prints the email before answering it.
+= 数字移民会先把邮件打印出来再回。
 两个词说的是「从小就用」与「半路才学」的两代人，出自一篇两千年前后的文章。
 ⑧ Digital television arrived, digital recording got cheap, and digital publishing killed two magazines.
 = 数字电视来了，数字录制便宜了，数字出版则弄垮了两本杂志。
 digital television = 数字电视
 digital recording = 数字录制
+Digital recording caught a cough that four takes had hidden.
+= 数字录制抓到了四次录音都没暴露的一声咳嗽。
 digital publishing = 数字出版
+Digital publishing halved the cost and doubled the arguments about it.
+= 数字出版把成本砍了一半，把争论翻了一倍。
 digital audiotape = 数字录音带
+Digital audiotape lasted one decade and two formats replaced it.
+= 数字录音带只风光了十年，被两种格式取代。
 digital audiotape 缩写 DAT，是九十年代的录音介质。
 构词：digit 手指、数字 加 -al
 注意别混：digital 是数字信号的，analogue 是连续量的；表盘那一支跟 analogue 也成对。

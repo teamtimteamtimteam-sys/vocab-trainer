@@ -344,6 +344,8 @@ the die is cast = 木已成舟
 = 那道树篱七月起开始梢枯，那块牌子是一次压铸成型的。
 die back = （植物）从梢头往回枯
 die-cast = 压铸成型的
+A die-cast model weighs four times what the plastic one does.
+= 压铸模型的重量，是塑料件的四倍。
 die-cast 里的 die 是「模具」那个词，跟死亡无关。
 构词：古诺斯语 deyja
 注意拼写：

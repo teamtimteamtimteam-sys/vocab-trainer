@@ -25248,6 +25248,8 @@ the die is cast = 木已成舟
 = 那道树篱七月起开始梢枯，那块牌子是一次压铸成型的。
 die back = （植物）从梢头往回枯
 die-cast = 压铸成型的
+A die-cast model weighs four times what the plastic one does.
+= 压铸模型的重量，是塑料件的四倍。
 die-cast 里的 die 是「模具」那个词，跟死亡无关。
 构词：古诺斯语 deyja
 注意拼写：
@@ -25520,6 +25522,8 @@ a diffuser = 柔光罩、扩散器
 = 那个论点用六页散散漫漫地讲下来，问题恰恰就出在这份散漫上。
 diffusely = 散漫地、不集中地
 diffuseness = 散漫、不集中
+The diffuseness of that argument is why nobody could answer it.
+= 那套论证太散，所以没人接得上。
 两个词都偏批评，说文章与论证没个焦点。
 构词：拉丁语 diffundere 倒开来
 注意别混：diffuse 是扩散，defuse 是拆引信、化解 —— 拼写只差一个字母。
@@ -25640,6 +25644,8 @@ a digestif = 餐后助消化酒
 = 她把一块全麦饼干泡进茶里，半块掉在了杯底。
 a digestive = 全麦消化饼干（英式）
 the digestive system = 消化系统
+The digestive system takes four hours to do what the leaflet says is instant.
+= 消化系统要四小时完成的事，单页上说是即时的。
 英式的饼干名就叫 digestive；医学里 digestive 作形容词说消化的。
 ⑧ The digester runs at forty degrees and turns the waste into gas and a smell.
 = 那台厌氧发酵罐在四十度下运行，把废料变成沼气和一股味道。
@@ -25700,25 +25706,41 @@ be available digitally = 可以在线取用
 = 那家画廊买了数字艺术品，连带还得买下承载它的屏幕。
 digital art = 数字艺术
 a digital certificate = 数字证书
+A digital certificate expired at midnight and took the website with it.
+= 一张数字证书午夜过期，把网站一起带垮了。
 a digital signature = 数字签名
+A digital signature is accepted everywhere except by that one office.
+= 数字签名到处都认，只有那一间办公室不认。
 签名与证书那两个是安全领域的固定说法，跟手写签名不是一回事。
 ⑥ The digital divide in that county is a matter of speed, not of ownership.
 = 那个郡的数字鸿沟问题在网速，不在有没有设备。
 the digital divide = 数字鸿沟
 a digital footprint = 数字足迹
+Her digital footprint goes back further than she can remember.
+= 她的数字足迹，比她自己记得的还早。
 digitalization = 数字化
+Digitalization moved the queue from the corridor into an app.
+= 数字化把队伍从走廊挪进了一个应用里。
 数字足迹指一个人在网上留下的全部痕迹。
 ⑦ Digital natives are assumed to understand the settings and mostly just accept them.
 = 人们以为数字原住民懂那些设置，其实他们多半只是照单全收。
 a digital native = 数字原住民
 a digital immigrant = 数字移民
+A digital immigrant prints the email before answering it.
+= 数字移民会先把邮件打印出来再回。
 两个词说的是「从小就用」与「半路才学」的两代人，出自一篇两千年前后的文章。
 ⑧ Digital television arrived, digital recording got cheap, and digital publishing killed two magazines.
 = 数字电视来了，数字录制便宜了，数字出版则弄垮了两本杂志。
 digital television = 数字电视
 digital recording = 数字录制
+Digital recording caught a cough that four takes had hidden.
+= 数字录制抓到了四次录音都没暴露的一声咳嗽。
 digital publishing = 数字出版
+Digital publishing halved the cost and doubled the arguments about it.
+= 数字出版把成本砍了一半，把争论翻了一倍。
 digital audiotape = 数字录音带
+Digital audiotape lasted one decade and two formats replaced it.
+= 数字录音带只风光了十年，被两种格式取代。
 digital audiotape 缩写 DAT，是九十年代的录音介质。
 构词：digit 手指、数字 加 -al
 注意别混：digital 是数字信号的，analogue 是连续量的；表盘那一支跟 analogue 也成对。
@@ -25953,6 +25975,8 @@ dimness = 昏暗、不清晰
 = 他们点了四人份的点心，一句蠢话把这顿饭毁了。
 dim sum = 广式点心
 dim-witted = 脑子不灵光的（贬）
+A dim-witted remark at the wrong table ended a friendship.
+= 一句蠢话说错了桌，断送了一段交情。
 dim sum 是粤语借词，英语里当不可数用。
 构词：古英语 dimm
 注意语域：说人笨那一支是英式口语，不客气。
@@ -25974,6 +25998,8 @@ turn on a dime = 原地掉头、说变就变
 = 那家廉价商店卖廉价小说，到后来两样都不止一角钱了。
 a dime store = 廉价杂货店（美式，旧）
 a dime novel = 廉价通俗小说（美式，旧）
+A dime novel cost less than the tram and lasted the journey.
+= 廉价小说比电车票还便宜，够看完一程。
 两个都是十九世纪末二十世纪初的美国说法。
 构词：古法语 disme 十分之一
 注意语域：三个说法都是美式；英式说 ten a penny。
@@ -26107,7 +26133,11 @@ a dining table = 餐桌
 = 他们一年下两回馆子，捡最便宜的吃，回头靠这段经历讲上好几个月。
 dine out = 下馆子
 dine on something = 以某物为正餐
+They dined on bread and cheese and called it a picnic.
+= 他们拿面包奶酪当正餐，管它叫野餐。
 dine out on something = 靠某段经历到处讲、博取招待
+He has dined out on that story for nine years.
+= 那个故事他讲了九年，到处蹭饭。
 dine out on 是英式说法，指拿一件趣事当谈资吃遍全场。
 构词：古法语 disner 吃第一顿正餐
 注意语域：dine 偏正式；日常说 have dinner。
@@ -26216,19 +26246,31 @@ invite somebody to dinner = 请某人吃饭
 = 那场家宴散得晚，整套餐具没洗就塞回了柜子。
 a dinner party = 家宴
 a dinner service = 整套餐具
+A dinner service for twelve lives in a box and comes out twice a year.
+= 一套十二人份的餐具装在箱子里，一年拿出来两次。
 the dinner table = 饭桌
+Nothing important is decided anywhere but the dinner table.
+= 要紧的事，除了饭桌上哪儿也定不下来。
 a dinner service 说的是成套的盘碟，不是上菜的服务。
 ⑥ He wore a dinner jacket to a dinner dance and was the only man in one.
 = 他穿着晚礼服去参加舞会晚宴，全场只有他一个人这么穿。
 a dinner jacket = 晚礼服上衣（英式，美式说 a tuxedo）
 a dinner suit = 全套晚礼服
+A dinner suit hired twice costs more than buying one.
+= 晚礼服租两回，比买一套还贵。
 a dinner dance = 舞会晚宴
+The dinner dance ran late and the band was paid by the hour.
+= 那场舞会晚宴拖得很晚，乐队是按小时结账的。
 英式的 dinner jacket 缩写 DJ；美式一律说 tuxedo 或 tux。
 ⑦ The dinner lady kept order at dinner time better than anybody with a title.
 = 午餐时间维持秩序，那位食堂阿姨比任何有头衔的人都管用。
 a dinner lady = 学校食堂的女工（英式）
 dinner time = 正餐时间
+Dinner time in that house moves with whoever gets home last.
+= 那家的正餐时间，随最晚到家的人变。
 a dinner theater = 餐饮剧场（美式）
+A dinner theater serves the second course during the interval.
+= 餐饮剧场在中场休息时上第二道菜。
 英国小学里 dinner time 常指午饭时间。
 构词：古法语 disner，与 dine 同源
 注意用法：英国北部与学校里 dinner 常指午饭，晚饭说 tea。
@@ -26578,6 +26620,8 @@ directness = 直率
 = 一周里两名董事辞职，董事会第二天早上就开了会。
 a director = 董事；也指导演
 the directorate = 董事会、理事会
+The directorate meets four times a year and decides nothing in public.
+= 董事会一年开四次，公开场合什么都不定。
 ⑫ Her directorial debut was made with money she raised herself.
 = 她的导演处女作是用自己筹来的钱拍的。
 a directorial debut = 导演处女作
@@ -26603,28 +26647,42 @@ a directorship = 董事职位
 = 档案的直接查阅权批下来了，撤销之后就有了直接行动。
 direct access = 直接查阅、直接访问
 direct action = 直接行动（罢工、占领这类抗争手段）
+Direct action closed the road for a day and the plan changed.
+= 一次直接行动把路封了一天，方案就改了。
 direct action 是工运与抗议语境里的固定说法。
 ⑲ Wages go in by direct deposit and the bills go out by direct debit on the same day.
 = 工资靠直接存入进账，账单当天靠授权扣款出账。
 direct deposit = 工资直接存入（美式）
 direct dialling = 直拨
+Direct dialling arrived in that village in 1979.
+= 直拨电话 1979 年才通到那个村子。
 英式说工资入账用 direct credit 或 BACS；直拨指不经总机。
 ⑳ Direct mail and direct marketing kept the company alive until a direct message replaced both.
 = 直邮与直销撑着那家公司，直到一条私信把两者都取代了。
 direct mail = 直邮广告
 direct marketing = 直销
+Direct marketing fills the doormat and empties the recycling.
+= 直销广告塞满门垫，回收桶跟着满。
 a direct message = 私信（社交平台）
+He answers a direct message in four minutes and an email in four days.
+= 私信他四分钟就回，邮件要四天。
 社交平台上的私信缩写 DM，动词也说 DM somebody。
 ㉑ The grammar names the direct object first and direct speech takes the quotation marks.
 = 语法书先讲直接宾语，直接引语则要加引号。
 a direct object = 直接宾语
 direct speech = 直接引语
+Direct speech needs the comma inside the quotation marks.
+= 直接引语里，逗号要放在引号内。
 跟 indirect object 间接宾语、reported speech 间接引语成对。
 ㉒ Direct rule was imposed for four years and direct tax rose in three of them.
 = 直接统治实行了四年，其中三年直接税上涨。
 direct rule = 直接统治
 a direct tax = 直接税
+A direct tax is easier to see and harder to raise.
+= 直接税看得见，也更难加。
 direct taxation = 直接税制
+Direct taxation fell and everything else went up to cover it.
+= 直接税降了，别的都涨上来补窟窿。
 直接税是对收入与财产征的，跟对消费征的间接税相对。
 ㉓ The motor runs on direct current and hums at a pitch that carries through the wall.
 = 那台电机用直流电，嗡嗡声的音高能透过墙传过来。
@@ -26720,7 +26778,11 @@ a dirtbag = 混账、下作的人（美式俚语）
 = 他们在一条土跑道上骑越野摩托，那条道从前是通往农场的土路。
 a dirt bike = 越野摩托
 a dirt track = 泥土跑道
+A dirt track runs behind those houses and floods every March.
+= 那排房子后面有条土路，每年三月淹。
 a dirt farmer = 自耕自种的小农（美式）
+A dirt farmer there works land that nobody else will take on.
+= 那里的自耕农种的，是别人都不肯要的地。
 dirt track 也指赛马与摩托赛的土场地。
 ⑦ They were dirt poor for two winters and never once said so to anybody.
 = 他们穷得叮当响过两个冬天，却从没对谁提起。
@@ -26757,12 +26819,18 @@ get something dirty = 把某物弄脏
 = 脏弹吓人的程度远超它的杀伤，而这正是它的用意。
 a dirty bomb = 脏弹（散布放射性物质的爆炸装置）
 a dirty word = 忌讳的说法
+Profit is a dirty word in that building and pays every wage in it.
+= 在那栋楼里，利润是个忌讳词，可里头的工资都是它发的。
 a dirty word 引申指某个圈子里说不得的词，如 tax is a dirty word here。
 ⑧ The phrase dirty old man did a lot of work in that report and the phrase dirty weekend did more.
 = 那份报告里「老色鬼」这个说法用得很多，「偷情周末」用得更多。
 a dirty old man = 老色鬼（口语，贬）
 a dirty weekend = 偷情的周末（英式口语，戏谑）
+They booked a dirty weekend and spent it walking in the rain.
+= 他们订了个偷情的周末，结果在雨里走了两天。
 dirty blonde = 暗金色的（说发色）
+Her hair is dirty blonde in winter and almost white by August.
+= 她的头发冬天是暗金色，到八月几乎发白。
 前两个都是口语戏谑说法；dirty blonde 说的是发色偏深的金发。
 构词：dirt 加 -y
 注意用法：比较级 dirtier；说话下流那一支说 a dirty joke、dirty talk。
@@ -27573,6 +27641,8 @@ discourse on something = 就某题长篇谈论
 = 像「well」这样的话语标记，在对话里起的作用比多数名词都大。
 a discourse marker = 话语标记
 discourse upon something = 就某题长篇谈论
+He discoursed upon drainage for forty minutes without notes.
+= 他不看稿讲了四十分钟排水问题。
 话语标记指 well、anyway、so 这类组织话语的小词。
 构词：拉丁语 discursus 跑来跑去
 注意用法：名词重音在前，动词重音在后。
@@ -28750,6 +28820,8 @@ a dispatch = 急件、战地快讯
 = 一名摩托信使送来文件，大臣就在议席前的讲台上读了它们。
 a dispatch rider = 摩托信使
 the dispatch box = 英国下议院里发言人身前的那个箱子
+She stood at the dispatch box and read out a figure that was wrong.
+= 她站在发言箱前，念出了一个错的数字。
 两个词都带旧时公文传递的痕迹。
 构词：意大利语 dispacciare 送走
 注意用法：英式旧拼 despatch，今天多数出版物写 dispatch。
@@ -28893,6 +28965,8 @@ a display of something = 一次（情绪或能力的）显露
 = 门口那个陈列柜和收银台边那个促销筐，卖得比货架还多。
 a display case = 陈列柜
 a display bin = 促销陈列筐
+A display bin by the door sells more than the whole shelf behind it.
+= 门边一个促销筐卖出的东西，比后面整排货架还多。
 零售业里说把商品摆出来促销的一套。
 构词：古法语 despleier 展开
 注意用法：展出说 be on display 或 put something on display。
@@ -29469,6 +29543,8 @@ within walking distance = 走路就能到
 = 远程学习救了那门课，招生简章上管它叫远程教育。
 distance learning = 远程学习
 distance education = 远程教育
+Distance education suits people who already know how to study.
+= 远程教育适合本来就会学习的人。
 两者通用；英国的公开大学是这套做法最有名的例子。
 构词：拉丁语 distantia 相隔
 注意用法：说「跟某事划清界限」是这个词最政治化的一支。
@@ -29549,6 +29625,8 @@ distillation = 蒸馏；也指提炼
 = 头一遍蒸出来的酒要倒掉，蒸馏器洗过之后才走第二遍。
 a distillate = 蒸馏所得的液体
 a distiller = 酿酒商、蒸馏器
+The distiller keeps four casks back every year and sells none of them.
+= 那家酒厂每年留下四桶，一桶也不卖。
 酿酒业里 a distiller 既指人也指设备，靠上下文分。
 构词：拉丁语 distillare 一滴滴落下
 注意用法：英式双写 l：distilled、distilling；美式词形写 distill。
@@ -30461,6 +30539,8 @@ do up = 翻修、装修
 ㉘ That climb has done me in; I could sleep for a week.
 = 那段爬得我快散架了，能睡上一个星期。
 do somebody in = 把某人累垮；口语里也指干掉
+Four hours in that queue did him in for the rest of the day.
+= 在那队里站四小时，他一整天都废了。
 两个义都重，靠上下文分，别用错场合。
 ㉙ The essay was so badly argued that he had to do the whole thing over.
 = 那篇文章论证太差，他只好整个重写。
@@ -30474,31 +30554,47 @@ do out of = 同上，宾语放在中间
 ㉛ The scandal did for his career long before the inquiry reported.
 = 调查还没出报告，那桩丑闻就已经毁了他的事业。
 do for = 毁掉、断送
+Two wet summers did for the business and the fourth finished it.
+= 两个多雨的夏天毁了那门生意，第四个把它了结了。
 多用过去式与被动；英式旧义另指给人做家务。
 ㉜ Don't do yourself down — that was the best piece in the whole issue.
 = 别贬低自己，那是整期里最好的一篇。
 do somebody down = 说某人坏话、贬低（英式）
+He does his own team down in front of people who decide things.
+= 他当着拍板的人的面贬低自己队里的人。
 常用反身形式，劝人别自我贬低。
 ㉝ We will have to make do with whatever is left in the cupboard.
 = 柜子里剩下什么，我们就将就着用什么。
 make do with = 将就着用
+They made do with one ring for a fortnight and cooked better than usual.
+= 他们将就用一个灶眼过了两周，反倒做得更好吃。
 固定说法，后面接手头仅有的那点东西。
 ㉞ It has nothing to do with you, and I would rather not discuss it.
 = 这跟你没关系，我也不想谈。
 have nothing to do with = 与……毫无关系
+The delay had nothing to do with the weather and everything to do with one form.
+= 那次延误跟天气无关，全因为一张表。
 have to do with = 与……有关（中间可插 nothing、something、a lot）
+It has something to do with the boiler and nobody will say what.
+= 那事跟锅炉有点关系，没人肯说是什么关系。
 反过来说 have something to do with，就是有关系。
 ㉟ Nothing doing — I asked twice and they would not move on the price.
 = 没门，我问了两次，他们价钱一分不让。
 nothing doing = 不行、没门
+She asked for a fourth extension and got nothing doing.
+= 她要第四次延期，人家说没门。
 口语里干脆利落的一句拒绝。
 ㊱ A strong cup of tea and half an hour would do the trick.
 = 一杯浓茶加上半个钟头就管用了。
 do the trick = 管用、正好解决问题
+A folded beer mat under the leg did the trick for nine years.
+= 桌腿下垫一张对折的杯垫，管用了九年。
 说某个不起眼的小办法恰好奏效。
 ㊲ It was a do-or-die attempt with no money left for a second one.
 = 那是孤注一掷的一次尝试，再没钱做第二回。
 do or die = 拼死一搏
+The last quarter was do or die and they played it safe.
+= 最后一个季度是拼死一搏，他们却求稳了。
 多作定语，说一次没有退路的努力。
 ㊳ How do you do? I have heard a great deal about you.
 = 您好，久仰大名。
@@ -30507,22 +30603,32 @@ how do you do = 初次见面时的问候
 ㊴ He did a runner without paying and left his coat behind.
 = 他没付钱就溜了，外套都落下了。
 do a runner = 溜之大吉（英式口语）
+The tenant did a runner and left the cat with a full bowl.
+= 那个租客溜之大吉，给猫留了一满碗食。
 多说逃单与临阵脱逃。
 ㊵ I could do with a coffee and ten minutes away from that room.
 = 我想来杯咖啡，离开那间屋子歇十分钟。
 could do with = 需要、正想要
+This room could do with a window that opens.
+= 这屋里正需要一扇打得开的窗。
 比 want 委婉得多，英式口语里极常用。
 ㊶ Do me a favour and shut the door on your way out.
 = 帮个忙，出去时把门带上。
 do somebody a favour = 帮某人一个忙
+Do me a favour and read the second page before you sign.
+= 帮我个忙，签字前把第二页看一遍。
 英式口语里单说这一句还能是反话，意思是「得了吧」。
 ㊷ They are having a do on Saturday for her sixtieth birthday.
 = 他们周六给她办个六十岁生日的聚会。
 a do = 聚会（英式口语）
+There is a do at the club on Friday and nobody knows whose.
+= 周五俱乐部有个聚会，没人知道是谁办的。
 复数写 dos；指的是规格不高的一场聚会。
 ㊸ Read the dos and don'ts on the first page before you touch anything.
 = 动手之前先看第一页的注意事项。
 dos and don'ts = 该做与不该做的事
+The dos and don'ts fill one page and the exceptions fill four.
+= 该做与不该做的事写满一页，例外写了四页。
 恒作复数，多见于须知与守则。
 ㊹ What have you done to your hair? I hardly recognized you.
 = 你把头发弄成什么样了？我差点没认出来。
@@ -30531,27 +30637,43 @@ What have you done to = 你把……弄成什么样了
 ㊺ It doesn't do to complain about the weather in a country like this.
 = 在这样的国家抱怨天气是没有用的。
 it doesn't do to = 不宜、不该
+It doesn't do to argue with the person holding the keys.
+= 跟拿钥匙的人争论是不明智的。
 偏英式与旧式，说某种做法并不明智。
 ㊻ The book is full of derring-do and short on anybody actually getting hurt.
 = 那本书里满是英勇冒险，真受伤的人却没几个。
 derring-do = 英勇冒险的举动（偏旧、带戏谑）
+The story is all derring-do and the facts fit in a footnote.
+= 那个故事满是英勇冒险，事实塞进一条脚注就够。
 从中古英语的一处误抄来的词，字面本是「敢做」。
 ㊼ Do-gooders were blamed for the delay and the do-nothing council for everything else.
 = 延误被怪在那些好心多事的人头上，其余一切都怪那个无所作为的议会。
 a do-gooder = 好心多事的人（贬）
+A do-gooder reorganised the shelves and nobody can find anything.
+= 一个好心多事的人把架子重排了，谁也找不着东西。
 a do-nothing = 无所作为的人或机构
+A do-nothing committee met four times and produced a photograph.
+= 一个无所作为的委员会开了四次会，产出一张合影。
 两个词都带贬义：一个嫌人多事，一个嫌人不做事。
 ㊽ Do-it-yourself saved them nothing and the do-it-yourselfer next door finished it in a weekend.
 = 自己动手一分钱没省下，隔壁那位动手族一个周末就弄完了。
 do-it-yourself = 自己动手（缩写 DIY）
 a do-it-yourselfer = 自己动手的人
+A do-it-yourselfer tiled that bathroom and the grout tells you so.
+= 那间浴室是自己动手贴的砖，勾缝一看就知道。
 缩写 DIY 更常用，也作形容词：a DIY job。
 ㊾ They did him down at every meeting and he did himself up for the last one.
 = 他们每场会都贬损他，最后一场他倒把自己收拾得利利索索。
 do somebody down = 贬损某人（英式）
+He does his own team down in front of people who decide things.
+= 他当着拍板的人的面贬低自己队里的人。
 写作 do down，宾语一定放中间：do somebody down。
 do yourself up = 把自己打扮起来
+She did herself up for a dinner that was cancelled at six.
+= 她盛装打扮，那顿晚饭六点被取消了。
 do somebody in = 把某人累垮；也指把某人干掉
+Four hours in that queue did him in for the rest of the day.
+= 在那队里站四小时，他一整天都废了。
 do in 有两支，一支是累垮，一支是杀掉，靠语境分。
 构词：古英语 don
 注意变位：
@@ -30970,11 +31092,15 @@ walk a dog = 遛狗
 = 她一声不响地啃着那份清单，可每看一眼它就更长。
 doggedly = 顽强不放弃地
 doggedness = 韧劲、不松口
+Pure doggedness got the roof mended in the wettest month of the year.
+= 全靠一股韧劲，屋顶在全年最湿的月份修好了。
 这一族取的是狗咬住不放的意思，一律褒义。
 ⑳ The doghouse is empty and the dog sleeps on the landing, as everybody expected.
 = 狗屋空着，狗睡在楼梯平台上 —— 谁都料到会这样。
 a doghouse = 狗屋
 be in the doghouse = 惹人生气、正被冷落（美式口语）
+He is in the doghouse for forgetting the same date twice.
+= 他把同一个日子忘了两回，这下不好过了。
 in the doghouse 是美式说法：因为做错事而被家里人冷落。
 ㉑ Two dogfighters circled the field and the dogfight lasted about forty seconds.
 = 两架战机在田野上空盘旋，那场缠斗大约持续了四十秒。
@@ -30985,11 +31111,15 @@ dogfighting = 斗狗（非法赌博活动）
 = 捕犬员来了两趟，办公室里那个打杂的把两份表都填了。
 a dogcatcher = 捕犬员（美式）
 a dogsbody = 打杂的人（英式，自嘲或抱怨时用）
+She was the dogsbody for a year and ran the place by the third.
+= 她当了一年打杂的，到第三年管起了整个地方。
 dogsbody 出自旧时海军，指最没地位的那个人。
 ㉓ A dogfish was in the net again and the dogwood by the slipway was out early.
 = 网里又是一条角鲨，滑道边那棵山茱萸开得早。
 a dogfish = 角鲨（小型鲨鱼）
 dogwood = 山茱萸
+The dogwood flowers for a fortnight and earns its keep for that.
+= 山茱萸开两周花，就凭这两周站住了位置。
 两样东西名字里的 dog 都跟狗无关，只是习称。
 ㉔ They lay doggo behind the wall until the torch had swung past twice.
 = 他们伏在墙后一动不动，直到手电光扫过两遍。
@@ -31021,19 +31151,33 @@ dogging = 在野外公共场所的性活动（英式俚语）
 = 警犬训导员和管犬员一起到的，两人身边一条狗都没有。
 a dog handler = 警犬训导员
 a dog warden = 管犬员（英式）
+The dog warden knows every loose dog in the district by name.
+= 管犬员认得辖区里每条散养的狗，连名字都叫得出。
 a dog walker = 遛狗的人
+A dog walker with five leads crosses that park at nine every morning.
+= 一个牵着五根绳的遛狗人，每天九点穿过那个公园。
 dog walking = 遛狗（这门营生）
+Dog walking pays better than the job she trained four years for.
+= 遛狗挣的，比她学了四年的那份工作还多。
 英国不少城镇由 dog warden 处理走失与扰民的狗。
 ㉛ A dog tag, a dog biscuit and a dog-end were all that was left in the pocket.
 = 口袋里剩下的只有一块狗牌、一块狗饼干和一个烟屁股。
 a dog tag = 狗牌；也指军人身份牌
+A dog tag with an old number hung on that collar for years.
+= 那个项圈上挂着写有旧号码的狗牌，挂了好些年。
 a dog biscuit = 狗饼干
 a dog-end = 烟屁股（英式口语）
+A dog-end in the drain blocked it for the whole street.
+= 下水口里一个烟屁股，把整条街的排水堵了。
 军人身份牌叫 dog tags，一律用复数。
 ㉜ The road has a dog-leg at the bridge and the children dog-paddle in the pool below it.
 = 那条路在桥那儿拐了个急弯，孩子们在桥下的水潭里狗刨。
 a dog-leg = 急拐弯（路或球道）
+The second hole is a dog-leg and four balls a day end in the trees.
+= 第二洞是个急拐弯，一天有四个球进了树林。
 dog-paddle = 狗刨式游泳
+He can dog-paddle the width and refuses to call it swimming.
+= 他能狗刨着横渡泳池，却不肯管这叫游泳。
 高尔夫球道拐弯也叫 a dog-leg。
 构词：古英语 docga
 注意语域：说人时全看修饰语 —— lucky dog 是打趣，dirty dog 是骂人。
@@ -31355,6 +31499,8 @@ domestic violence = 家庭暴力
 = 表格上写的是她的同居伴侣；家政课如今已经不开了。
 a domestic partner = 同居伴侣（法律与表格用语）
 domestic science = 家政课（旧称）
+Domestic science was taught to girls and the boys did woodwork.
+= 家政课教给女生，男生上木工。
 家政课今天叫 food technology 或 home economics。
 构词：拉丁语 domus 房屋
 注意用法：新闻里 a domestic 有时指家庭纠纷出警，是英式口语。
@@ -31565,6 +31711,8 @@ donkey's years = 好多年（英式口语）
 = 那场毛驴赛筹到九英镑，穿粗呢工装外套的那个人捐了五镑。
 a donkey derby = 毛驴赛（乡村集会上的项目）
 a donkey jacket = 粗呢工装外套（英式）
+A donkey jacket outlasts three coats and looks the same throughout.
+= 一件粗呢工装外套能顶三件大衣，从头到尾一个样。
 donkey jacket 肩背上常有一块防水皮革，是英国工地的老式外套。
 构词：十八世纪起，来源不确
 注意用法：三个说法都是口语，正式文字里少见。
@@ -31752,8 +31900,14 @@ a doorknob = 圆形门把手
 = 门上的五金件换了，门环留着，入场抽奖的奖品是一听饼干。
 door furniture = 门上的把手铰链等五金件（英式）
 a door knocker = 门环
+The door knocker is brass and cleaned once a year whether it needs it or not.
+= 那个门环是黄铜的，不管用不用得着，一年擦一次。
 a door prize = 入场抽奖的奖品（美式）
+The door prize was a hamper and the winner had already left.
+= 入场抽奖的奖品是一篮食品，中奖的人早走了。
 a doornail = 门钉
+The lock is as dead as a doornail and the door still shuts.
+= 那把锁彻底废了，门倒还关得上。
 习语 as dead as a doornail 是「彻底没气了」。
 构词：古英语 duru
 注意用法：说「隔壁的人」用 next door；说「敲门有人应」用 answer the door。
@@ -31990,6 +32144,8 @@ doss about = 无所事事地混
 = 那家廉价客栈一晚收一先令，什么也不问。
 a dosshouse = 廉价客栈（英式，旧）
 a dosser = 睡便宜客栈的人；也指流浪汉
+A dosser slept in that doorway all winter and moved on in April.
+= 一个流浪汉在那个门洞里睡了一冬，四月就走了。
 两个词今天都带冒犯，说无家可归者要用 a homeless person。
 构词：可能来自古法语 dos 背
 注意语域：英式口语；说无家可归者时 dosser 带冒犯，今天避免使用。
@@ -32118,13 +32274,21 @@ a doublet = 紧身上衣（历史服饰）
 = 那对搭档合作二十年后拆伙，两边各自带着双主打的演出单飞。
 a double act = 双人搭档（表演）
 a double bill = 双主打的演出场次
+A double bill on Saturday finishes after the last bus.
+= 周六的双主打演出，散场时末班车已经开走。
 a double feature = 一票两片的连映
+A double feature cost the same as one film and half the audience left.
+= 一票两片的连映跟一部片一个价，一半观众中途走了。
 a double-header = 一日双赛（体育）
+A double-header in that heat finished nine players.
+= 那种天气里一日双赛，撂倒了九名球员。
 四个词都说「一次给两份」：搭档、场次、片子、比赛。
 ⑯ The double agent ran a double life for eleven years and was caught by a double bluff.
 = 那名双面间谍过了十一年的双重生活，最后栽在一次双重虚晃上。
 a double agent = 双面间谍
 a double life = 双重生活
+He led a double life for four years and kept two sets of accounts.
+= 他过了四年双重生活，记着两套账。
 a double bluff = 双重虚晃（假装虚张声势其实说真话）
 a double-dealer = 两面三刀的人
 double-dealing = 两面三刀
