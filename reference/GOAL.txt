@@ -545,12 +545,21 @@ ga- 段刚开工（约 11/300）。动笔前的四件事照旧先做：
      变体，前缀匹配对不上。补进 inflections.txt 才认。
      **词根短于四个字母又带 y→i 变化的，都要显式登记。**
   · ga- 段还剩 gave（等 give）与三条待推迟。
-  · **下一批从 generally 之后的 generalship 起**（generate / generation /
-     generator / generic / generosity / generous / genesis / genetic /
-     genetics / genial / genie / genital / genius / genocide / genome /
-     genre / gent / genteel / gentle / gentleman 一带；
-     gentle 与 genius 是大词，动笔前往 CHECK 补 a stroke of genius、
-     gentle on something）。
+  · 第二批 generalship → genomics、第三批 genotype → geochemistry。
+     并入：generically / generously / genetically / genially /
+     genteelly / gently / genuinely。
+     **gentlemanly 进 derived-keep**：词根 gentleman 是名词，
+     gentlemanly 是形容词，不属于「形容词的副词」那一类。
+  · **元评论这一轮又抓到三条**（genocide「这个词写进了法律」、
+     gentile「这个词在一个镇上是一个意思」、gentrification「报告里出现四次」）。
+     **凡是写「术语、贬称、外来词」这类词条，写例句前先问一句：
+     这句在用它，还是在谈它？**
+  · **下一批从 geode 起**（geodesic / geographer / geographic / geography /
+     geological / geologist / geology / geometric / geometry / geophysics /
+     Georgian / geranium / gerbil / geriatric / germ / German / germane /
+     germinate / gerrymander / gerund 一带；geography 与 germ 是大词，
+     动笔前往 CHECK 补 a germ of an idea、physical geography）。
+     **German / Georgian 是大写词头，动笔前确认 proper-nouns-keep 里有。**
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
