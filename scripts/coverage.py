@@ -214,18 +214,20 @@ def phrase_covered(w, got, text):
 
 def host_entry(w, got, entries):
     """这个缺词该并进哪条已有词条？并不进去就返回 None（需要单独立条）。
-    多词条目看首词，派生词看词干。"""
+
+    **只有多词条目才进「待并入」**（2026-09-11 定）。单个词一律划到
+    「待新写」——因为前四字母相同不等于是派生词：form 把 formula /
+    format / former / formidable 全吞成了「待并入」，flash 把 flashlight /
+    flashpoint / flashy 全吞了，这十五个常用词因此在清单上隐身，
+    一路写到 g 段才被发现。真正的派生词（abrasively 写进 abrasive 条）
+    由 derived_covered 判成「已收」，根本不会走到这里；
+    走到这里的单词，要么得单立，要么得写进词根条的正文里 ——
+    两条路都要动笔，放在「待新写」里才看得见。"""
     k = sort_key(w)
     if len(k) > 1:
         hosts = phrase_hosts(w, got)
         if hosts: return got[(hosts[0],)]
-    lw = w.lower().replace('\u2019', "'")
-    best = None
-    for head, _ in entries:
-        h = head.lower().replace('\u2019', "'")
-        if len(h) >= 4 and lw.startswith(h) and lw != h:
-            if best is None or len(h) > len(best): best = head
-    return best
+    return None
 
 # 词根末尾的 y 在派生时换成 i，前四个字母就对不上了（cosy→cosiness）。
 # 不能放宽成通则：实测全表 60 个这种形状的配对里只有下面两条是真派生，
