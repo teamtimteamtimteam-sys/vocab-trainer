@@ -245,6 +245,8 @@ foreign
 = 她在四个外国工作过，学会了其中两门语言。
 a foreign country = 外国
 a foreign language = 外语
+He learned a foreign language from the radio and from shop labels.
+= 他靠收音机和店里的商品标签学会了一门外语。
 ② Foreign policy was decided in a room that held six people.
 = 外交政策是在一个只容得下六个人的房间里定的。
 foreign policy = 外交政策
@@ -258,8 +260,14 @@ a foreign body = 异物
 = 那种腔调，跟她写过的其他一切都格格不入。
 be foreign to something = 与某物格格不入
 foreign direct investment = 外商直接投资
+Foreign direct investment built the factory and left the road alone.
+= 外商直接投资盖起了那家工厂，路一点没管。
 foreign exchange = 外汇
+The foreign exchange desk closes at four and the flights land at six.
+= 外汇柜台四点关门，航班六点落地。
 foreign-returned = 留洋归来的
+A foreign-returned engineer was given a title and no budget.
+= 一位留洋归来的工程师，得了个头衔，没有预算。
 
 foreigner
 核心：三支。一是外国人：treat somebody as a foreigner；
