@@ -152,15 +152,19 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
 - **词典本身**：f 段 99%（剩的是待推迟），g 段在写，**下一批从 geode 起**
   （geography / geology / geometry / German / germ / gerrymander 一带）。
   G 段大写词头 51 条已登记进 proper-nouns-keep。
-- **补例句**：tier1 剩 936，tier2（词族）849。**整个 e 段清空了**，
-  **下一段 fa / fe / fi**（fi 53、fl 48；ex 那种上百条的大段按词头分两三批做，
-  每批 35–65 条，各自过闸各自提交）。
-- **a–d 段还剩 267 条零头**（112 个词条，ai / ap / as / ba / be / …/ dr / dw）。
-  抽查下来相当一部分是 need-example 没滤干净的**辨析对照**：born 对 borne、
-  beard 对 moustache 对 sideburns、calumny 对 slander 对 libel、canonic 这类
-  拼法变体 —— 按用户定的范围本来就不补。里头也确实混着能补的
-  （launch a campaign、a bottle cap、cotton candy）。**逐条看过再动手，
-  别照单全填**；要么先把 need-example 的过滤收紧一道。
+- **补例句**：tier1 剩 839，tier2（词族）841。**e 段与 fa 段都清空了**，
+  **下一段 fe / fi / fl**（按词条数算 fe 23、fi 53、fl 48；上百条的大段
+  按词头分两三批做，每批 35–65 条，各自过闸各自提交）。
+  注意：段落统计那行打的是**词条数**，不是等式数 —— fa「38」实际是 79 条等式。
+- **有一条明知故留**：fag 的 `fag hag`，词条自己标着「俚语，冒犯，认得即可」。
+  补例句就得把它写进一个自然句子里用起来，跟「认得即可」相抵，所以不补。
+  往后碰到同类（词条标了「绝不要用」「认得即可」的侮辱语）照此办理。
+- **a–d 段还剩 248 条零头**（ba / be / bl / … / dr / dw）。2026-09-11 已经把
+  need-example 收紧了一道（认标签之外再认形状：连着的等式里有两条以上
+  左边跟词头不相干，整串当对照表剔掉），剔掉了 born 对 borne、
+  beard 对 moustache 对 sideburns、calumny 对 slander 对 libel、急救 ABC
+  那类清单。**剩下的仍是混的**，里头有该补的（launch a campaign、
+  a bottle cap、cotton candy）也有漏网的对照 —— 逐条看过再动手。
 - **push 策略**：用户 2026-09-11 说「补完一起推」——
   补例句这件事做完之前，只在本地提交，不要 push。
 
