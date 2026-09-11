@@ -24,6 +24,9 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
 
 CHECK = {
+ 'frame': ['frame of mind', 'frame of reference', 'a frame-up'],
+ 'frank': ['to be frank', 'frankly speaking'],
+ 'fragment': ['fragments of'],
  'fox': ['a sly old fox'],
  'fraction': ['a fraction of a second'],
  'fracture': ['a hairline fracture'],
