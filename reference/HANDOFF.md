@@ -152,12 +152,15 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
 - **词典本身**：f 段 99%（剩的是待推迟），g 段在写，**下一批从 geode 起**
   （geography / geology / geometry / German / germ / gerrymander 一带）。
   G 段大写词头 51 条已登记进 proper-nouns-keep。
-- **补例句**：tier1 剩 433，tier2（词族）841。**e 段与 fa 到 fo 各段都清空了**，
-  **下一段 fr / fu / ga / ge**（按词条数算 fr 28、fu 17、ga 10、ge 2；
-  等式数大约是词条数的两三倍，fl「48 个词条」实际是 135 条等式）。
-  上百条的大段按词头拆四批做，每批 26–40 条，各自过闸各自提交 ——
+- **补例句**：**e / f / g 三段全清**，tier1 只剩 249 条，**全在 a–d 段**
+  （104 个词条）。tier2（词族）841 条还一条没动。
+  段落统计那行打的是**词条数**，不是等式数 —— fl「48 个词条」实际 135 条等式。
+  上百条的大段按词头拆四批做，每批 25–41 条，各自过闸各自提交 ——
   fi 拆成 fiasco–figure / file–fiord / fire 一族 / first–fixed，
   fl 拆成 flag–flat / flatcar–flip / float–flunk / fly–flyover。
+- **量集中在少数几个大词条上**：fl 的 fly 16、flying 14、flash 12，
+  fo 的 food 14、force 11、four 11，fr 的 free 33、French 18，fu 的 full 28。
+  这些词条底下挂着一长串只有等式没例句的复合词，一段的过半条目来自它们。
   注意：段落统计那行打的是**词条数**，不是等式数 —— fa「38」实际是 79 条等式。
 - **有一条明知故留**：fag 的 `fag hag`，词条自己标着「俚语，冒犯，认得即可」。
   补例句就得把它写进一个自然句子里用起来，跟「认得即可」相抵，所以不补。
