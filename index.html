@@ -259,6 +259,7 @@ main{
 .navrow button:active{color:var(--fg)}
 .navrow button[disabled]{opacity:.3;pointer-events:none}
 .navrow span{font-family:var(--mono);font-size:calc(11.5px*var(--fs));color:var(--fg-subtle);font-variant-numeric:tabular-nums}
+.navrow .linkbtn{color:var(--green-text);font-size:calc(11.5px*var(--fs));padding:4px 6px;min-width:0;font-family:var(--mono);text-decoration:underline;text-underline-offset:3px}
 
 /* 签名元素：螺旋进度环 —— 品牌标记本身用来表达「一组走完了多少」 */
 .ring{width:44px;height:44px;flex:none;transform:rotate(-90deg)}
@@ -574,7 +575,7 @@ const MULTISENSE_THRESHOLD = 12;   // ≥12 义项算「核心词」，反正考
 const MULTISENSE_STAGE_CAP = 5;    // 核心词永远卡在这一级（30天/L3），不许升到 60/90天
 const DAY_START  = 4;                       // 凌晨 4:00 为一天分界
 const BACKUP_WARN_DAYS = 7;
-const APP_VERSION = "2.0.0";
+const APP_VERSION = "2.0.1";
 
 /* ---------------------------------------------------------------- utils */
 const $ = s => document.querySelector(s);
@@ -1194,6 +1195,20 @@ async function startLearn(gid) {
     await req(store("groups", "readwrite").put(g));
   }
   const words = await getWords(g.wordIds);
+  // 开背之前先对账（2026-09-11 修）。两处会悄悄失准：
+  //   ① g.wordIds 里可能有解析不出词的 id（词库重导、备份还原时对不上），
+  //      getWords 用 filter(Boolean) 把它们静默丢掉，于是 words.length 少于
+  //      wordIds.length —— 「下一个」在真正的末尾之前就变灰，而且
+  //      learnedCount 永远追不平 wordIds.length，这一组再也判不了完成。
+  //   ② g.learnedCount 是存在组上的数，只有 toggleMark 会重算。一旦漂了，
+  //      界面就一直显示错的，直到下次标记时才「跳」回真值 —— 用户看到的
+  //      「点上一个再回来，已背下凭空 +1」就是这一跳。
+  // 重置本组之所以能让问题消失，只是因为它把 learnedCount 清零了。
+  let fixed = false;
+  if (words.length !== g.wordIds.length) { g.wordIds = words.map(x => x.id); fixed = true; }
+  const trueCount = words.filter(x => x.learned).length;
+  if (g.learnedCount !== trueCount) { g.learnedCount = trueCount; fixed = true; }
+  if (fixed) await req(store("groups", "readwrite").put(g));
   LS = { group: g, words, idx: (g.learnSession && g.learnSession.idx) || 0 };
   if (LS.idx >= words.length) LS.idx = 0;
   go("learn");
@@ -1209,7 +1224,9 @@ RENDER.learn = function () {
 
   let h = '<div class="navrow">' +
     '<button onclick="learnStep(-1)"' + (idx === 0 ? " disabled" : "") + ">‹ 上一个</button>" +
-    '<span>已标记 ' + g.learnedCount + "/" + words.length + "</span>" +
+    '<span>已标记 ' + g.learnedCount + "/" + words.length +
+      (g.learnedCount < words.length
+        ? ' <button class="linkbtn" onclick="learnJumpUnmarked()">找未标记</button>' : "") + "</span>" +
     '<button onclick="learnStep(1)"' + (idx === words.length - 1 ? " disabled" : "") + ">下一个 ›</button></div>" +
     '<div class="progressbar" style="margin-bottom:22px"><i style="width:' + (g.learnedCount / words.length * 100) + '%"></i></div>' +
     '<div class="sheet" id="cardhost">' + renderWordFull(w) + "</div>" +
@@ -1218,6 +1235,25 @@ RENDER.learn = function () {
       (w.learned ? "✓ 已背下" : "标记为已背下") + "</button></div>";
   $("#v-learn").innerHTML = h;
 };
+
+// 走到最后一张、却还有词没标记时，「下一个」变灰是对的，但界面没告诉你
+// 漏的那个在哪 —— 从当前位置往后绕一圈找第一个未标记的词。
+function learnJumpUnmarked() {
+  if (!LS) return;
+  const n = LS.words.length;
+  for (let k = 1; k <= n; k++) {
+    const i = (LS.idx + k) % n;
+    if (!LS.words[i].learned) {
+      LS.idx = i;
+      LS.group.learnSession = { idx: i };
+      req(store("groups", "readwrite").put(LS.group));
+      RENDER.learn();
+      return;
+    }
+  }
+  toast("这一组已经全部标记");
+}
+window.learnJumpUnmarked = learnJumpUnmarked;
 
 function learnStep(d) {
   const n = LS.idx + d;
@@ -1236,7 +1272,7 @@ async function toggleMark() {
   await putWord(w);
   g.learnedCount = LS.words.filter(x => x.learned).length;
 
-  if (g.learnedCount === g.wordIds.length && g.state === "learning") {
+  if (g.learnedCount >= g.wordIds.length && g.state === "learning") {
     g.state = "reviewing";
     g.completedAt = todayKey();
     g.learnSession = null;
