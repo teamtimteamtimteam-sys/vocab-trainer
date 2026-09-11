@@ -57,7 +57,11 @@ a float = 游行彩车
 = 那家公司三月上市，四月股价就跌了。
 float = 上市
 float about = 四处流传
+Rumours about the closure floated about for a year before the letter.
+= 关于关门的传言四处流传了一年，那封信才来。
 float around = 到处飘着、四处传着
+Three versions of that story float around and none of them agree.
+= 那个故事有三个版本四处流传，彼此都对不上。
 
 floater
 核心：三支。一是漂浮物；二是（眼科）飞蚊：眼前飘的小黑点；
@@ -79,7 +83,11 @@ floating debris = 漂浮的杂物
 = 学生这一拨流动人口，每年六月把那条街搬空。
 a floating population = 流动人口
 floating rib = 浮肋
+A floating rib breaks easily and heals without anybody doing anything.
+= 浮肋容易断，也不用谁做什么就自己长好。
 floating voter = 中间选民
+A floating voter decides in the last week and tells nobody beforehand.
+= 中间选民最后一周才拿定主意，事先跟谁也不说。
 
 floaty
 核心：（衣料）飘逸轻薄的：说裙子、围巾随风飘起来。
@@ -141,7 +149,11 @@ flood = 被水淹没
 = 她哭得稀里哗啦地出来，不肯说为了什么。
 in floods of tears = 哭得稀里哗啦
 flood out = 被大水冲得无家可归
+Nine families were flooded out in March and rehoused by September.
+= 三月有九户人家被大水冲得无家可归，到九月才安置好。
 flood tide = 涨潮
+The flood tide carries everything upriver and the ebb brings it back.
+= 涨潮把什么都带往上游，退潮又给送回来。
 
 flooded
 核心：两支。一是被水淹的：a flooded field；
@@ -226,10 +238,20 @@ floor somebody = 把某人问倒
 = 楼上做的决定，大约两个星期后才传到车间。
 the shop floor = 车间、一线
 floor lamp = 落地灯
+A floor lamp in the corner beats the ceiling light in every way.
+= 角落里一盏落地灯，怎么比都胜过顶灯。
 floor leader = （美议会）党团领袖
+The floor leader counts the votes before anybody stands up to speak.
+= 党团领袖在有人起身发言之前就把票数算清了。
 floor manager = 卖场经理；播控现场导演
+The floor manager holds up four fingers and the presenter stops talking.
+= 现场导演竖起四根手指，主持人就收了话头。
 floor plan = 平面图
+The floor plan shows a window that the building does not have.
+= 平面图上画着一扇窗，那栋楼上并没有。
 floor show = 餐厅夜总会的表演
+The floor show starts at eleven and the kitchen closes at ten.
+= 夜总会的表演十一点开始，厨房十点就关了。
 
 floorboard
 核心：地板条：铺地板用的长木条。可数。

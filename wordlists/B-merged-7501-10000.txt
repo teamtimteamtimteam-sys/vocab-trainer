@@ -19680,7 +19680,11 @@ a float = 游行彩车
 = 那家公司三月上市，四月股价就跌了。
 float = 上市
 float about = 四处流传
+Rumours about the closure floated about for a year before the letter.
+= 关于关门的传言四处流传了一年，那封信才来。
 float around = 到处飘着、四处传着
+Three versions of that story float around and none of them agree.
+= 那个故事有三个版本四处流传，彼此都对不上。
 
 floater
 核心：三支。一是漂浮物；二是（眼科）飞蚊：眼前飘的小黑点；
@@ -19702,7 +19706,11 @@ floating debris = 漂浮的杂物
 = 学生这一拨流动人口，每年六月把那条街搬空。
 a floating population = 流动人口
 floating rib = 浮肋
+A floating rib breaks easily and heals without anybody doing anything.
+= 浮肋容易断，也不用谁做什么就自己长好。
 floating voter = 中间选民
+A floating voter decides in the last week and tells nobody beforehand.
+= 中间选民最后一周才拿定主意，事先跟谁也不说。
 
 floaty
 核心：（衣料）飘逸轻薄的：说裙子、围巾随风飘起来。
@@ -19764,7 +19772,11 @@ flood = 被水淹没
 = 她哭得稀里哗啦地出来，不肯说为了什么。
 in floods of tears = 哭得稀里哗啦
 flood out = 被大水冲得无家可归
+Nine families were flooded out in March and rehoused by September.
+= 三月有九户人家被大水冲得无家可归，到九月才安置好。
 flood tide = 涨潮
+The flood tide carries everything upriver and the ebb brings it back.
+= 涨潮把什么都带往上游，退潮又给送回来。
 
 flooded
 核心：两支。一是被水淹的：a flooded field；
@@ -19849,10 +19861,20 @@ floor somebody = 把某人问倒
 = 楼上做的决定，大约两个星期后才传到车间。
 the shop floor = 车间、一线
 floor lamp = 落地灯
+A floor lamp in the corner beats the ceiling light in every way.
+= 角落里一盏落地灯，怎么比都胜过顶灯。
 floor leader = （美议会）党团领袖
+The floor leader counts the votes before anybody stands up to speak.
+= 党团领袖在有人起身发言之前就把票数算清了。
 floor manager = 卖场经理；播控现场导演
+The floor manager holds up four fingers and the presenter stops talking.
+= 现场导演竖起四根手指，主持人就收了话头。
 floor plan = 平面图
+The floor plan shows a window that the building does not have.
+= 平面图上画着一扇窗，那栋楼上并没有。
 floor show = 餐厅夜总会的表演
+The floor show starts at eleven and the kitchen closes at ten.
+= 夜总会的表演十一点开始，厨房十点就关了。
 
 floorboard
 核心：地板条：铺地板用的长木条。可数。
@@ -19990,6 +20012,8 @@ florin
 = 1958 年一枚弗罗林能买一张电影票加一包薯条。
 a florin = 弗罗林（旧币）
 two florins = 两枚弗罗林
+Two florins bought a week of dinners and a seat at the pictures.
+= 两枚弗罗林能买一周的晚饭，外加一张电影票。
 ② The tin holds nine florins and a key to nothing anybody remembers.
 = 那个铁盒里装着九枚弗罗林，还有一把谁也想不起开什么的钥匙。
 
@@ -20021,6 +20045,8 @@ a flotation = 上市发行
 = 每个座位底下的漂浮救生装置，一年查一次。
 a flotation device = 漂浮救生装置
 flotation tank = 漂浮减压舱
+An hour in a flotation tank felt like nine and cost like four.
+= 在漂浮减压舱里待一个钟头，感觉像九个，价钱像四个。
 
 flotilla
 核心：小舰队、小船队：一队小船或小型军舰。可数。
@@ -20028,6 +20054,8 @@ flotilla
 = 一队渔船四点出海，空着手回来。
 a flotilla = 小船队
 a flotilla of yachts = 一队帆船
+A flotilla of yachts left at dawn and three came back by noon.
+= 一队帆船天亮出发，中午回来了三条。
 ② The flotilla crossed in convoy and lost one boat to the weather.
 = 那支小舰队编队横渡，因天气损失了一条船。
 a flotilla of boats = 一队船
@@ -20039,6 +20067,8 @@ flotsam
 = 那片海滩上的漂浮杂物，来自三个国家和一条航道。
 flotsam = 漂浮的残骸杂物
 washed-up flotsam = 冲上岸的漂浮物
+Washed-up flotsam built half the sheds along that stretch of coast.
+= 那段海岸上一半的棚屋，是用冲上岸的漂浮物搭起来的。
 ② The shed holds the flotsam and jetsam of four house moves.
 = 那间棚子堆着四次搬家剩下的零碎杂物。
 flotsam and jetsam = 零碎杂物
@@ -20053,6 +20083,8 @@ flounce out = 气冲冲地走出去
 = 裙摆上一道荷叶边多用一码布，一点不保暖。
 a flounce = 荷叶边
 a deep flounce = 一道宽荷叶边
+A deep flounce at the hem hides four inches of let-down fabric.
+= 裙摆上一道宽荷叶边，遮住了四英寸放出来的布。
 
 flounced
 核心：（裙子、窗帘）带荷叶边的：多作定语。
@@ -20127,7 +20159,11 @@ a flow of traffic = 车流
 = 随一次大流，你就发现自己进了委员会。
 go with the flow = 随大流
 flow from = 由…产生
+Everything else flows from one decision taken in a corridor.
+= 其余的一切，都由走廊上作出的一个决定而来。
 flow-on = 连带影响
+The flow-on from that strike reached three industries within a fortnight.
+= 那场罢工的连带影响，两周之内波及三个行业。
 
 flower
 核心：三支。一是花：a bunch of flowers；二是动词，开花；
@@ -20142,10 +20178,20 @@ flower = 开花
 = 那片果园花期两个星期，照片能发一年。
 in flower = 正在花期
 flower arranger = 插花的人
+The flower arranger uses what the churchyard grows and buys nothing.
+= 那位插花的人只用教堂墓地里长的花，一样也不买。
 flower arranging = 插花
+Flower arranging fills the hall on Tuesdays and empties it by four.
+= 周二的插花班把礼堂坐满，四点就空了。
 flower children = 花童一代
+The flower children of that summer are grandparents with strong opinions.
+= 那年夏天的花童一代，如今是主见很强的祖父母。
 flower girl = 婚礼上的花童；卖花女
+The flower girl dropped the basket and threw the petals by hand.
+= 那个花童把篮子掉了，改用手一把把地撒花瓣。
 flower power = 花的力量（六十年代和平主张）
+Flower power lasted one summer and the posters lasted rather longer.
+= 花的力量只热了一个夏天，海报倒留得久些。
 
 flowered
 核心：印花的、有花纹的：多作定语 —— a flowered dress。
@@ -20172,6 +20218,8 @@ flowerpot
 = 那个花盆冻裂了，里头的植物照样长。
 a flowerpot = 花盆
 a clay flowerpot = 陶花盆
+A clay flowerpot dries out twice as fast and the plants prefer it.
+= 陶花盆干得快一倍，植物倒更喜欢。
 ② Nine flowerpots by the step and one of them hides the spare key.
 = 台阶边九个花盆，其中一个底下藏着备用钥匙。
 
@@ -20295,6 +20343,8 @@ brake fluid = 刹车油
 = 局势尚在变动，截止日期可不变。
 a fluid situation = 尚在变动的局势
 fluid ounce = 液量盎司
+A fluid ounce is not the same on both sides of the Atlantic.
+= 大西洋两岸的液量盎司，不是同一个量。
 
 fluidity
 核心：两支。一是流动性；二是（动作、界线的）灵活多变。不可数。
@@ -20372,6 +20422,8 @@ flunk an exam = 考试挂科
 = 那位导师判了九个学生不及格，一个都没解释评分标准。
 flunk somebody = 判某人不及格
 flunk out = 因不及格被退学
+He flunked out in the second year and came back at thirty-one.
+= 他第二年因不及格被退学，三十一岁又回来了。
 
 flunkey
 核心：（贬）跟班、听差：伺候人、唯命是从的下属。可数，也拼 flunky。

@@ -4,6 +4,8 @@ flowerpot
 = 那个花盆冻裂了，里头的植物照样长。
 a flowerpot = 花盆
 a clay flowerpot = 陶花盆
+A clay flowerpot dries out twice as fast and the plants prefer it.
+= 陶花盆干得快一倍，植物倒更喜欢。
 ② Nine flowerpots by the step and one of them hides the spare key.
 = 台阶边九个花盆，其中一个底下藏着备用钥匙。
 
@@ -127,6 +129,8 @@ brake fluid = 刹车油
 = 局势尚在变动，截止日期可不变。
 a fluid situation = 尚在变动的局势
 fluid ounce = 液量盎司
+A fluid ounce is not the same on both sides of the Atlantic.
+= 大西洋两岸的液量盎司，不是同一个量。
 
 fluidity
 核心：两支。一是流动性；二是（动作、界线的）灵活多变。不可数。
@@ -204,6 +208,8 @@ flunk an exam = 考试挂科
 = 那位导师判了九个学生不及格，一个都没解释评分标准。
 flunk somebody = 判某人不及格
 flunk out = 因不及格被退学
+He flunked out in the second year and came back at thirty-one.
+= 他第二年因不及格被退学，三十一岁又回来了。
 
 flunkey
 核心：（贬）跟班、听差：伺候人、唯命是从的下属。可数，也拼 flunky。
