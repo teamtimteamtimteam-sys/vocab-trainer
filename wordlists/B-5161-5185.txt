@@ -7,6 +7,8 @@ constraint 一是限制条件，二是拘谨。
 = 预算限制着我们能做什么，而预算本身却毫无限制。
 constrain = 限制
 be constrained by = 受……限制
+The design is constrained by a wall nobody is allowed to move.
+= 那个设计受一堵谁也不许动的墙限制。
 ② He felt constrained to apologize in front of people who had not been there.
 = 他觉得不得不当着一群不在场的人道歉。
 be constrained to do = 不得不做

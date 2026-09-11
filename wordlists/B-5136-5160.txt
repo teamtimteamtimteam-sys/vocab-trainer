@@ -26,10 +26,14 @@ consist
 = 这支队伍由五名女性组成，场地差不多就是一片沙地。
 consist of = 由……组成
 consist of little more than = 差不多就只是
+The report consists of little more than the figures rearranged.
+= 那份报告差不多就是把数字重新排了一遍。
 ② Happiness does not consist in owning things, and her duties consist largely in checking figures.
 = 幸福不在于占有东西；她的职责主要在于核对数字。
 consist in = 本质在于
 consist largely in = 主要在于
+The job consists largely in ringing people who do not answer.
+= 那份工作主要就是给不接电话的人打电话。
 构词：拉丁语 consistere 站定
 注意用法：不及物，不用进行时，也不用被动。
 
@@ -120,6 +124,8 @@ consolidate a lead = 巩固领先
 = 他们把三个办事处并成一个，贷款也一并合并了。
 consolidate into = 合并成
 consolidate loans = 合并贷款
+They consolidated the loans and paid more over a longer time.
+= 他们把几笔贷款合并，期限拉长，总共还得更多。
 ③ Consolidation cut costs by a fifth and cost two hundred people their jobs.
 = 合并削减了五分之一的成本，也让两百人丢了工作。
 consolidation = 合并；巩固
@@ -423,6 +429,8 @@ constitute a breach = 构成违约
 = 女性占劳动力的一半；五名成员即达到法定人数。
 constitute = 占、构成
 constitute a quorum = 达到法定人数
+Nine members constitute a quorum and eight turned up twice.
+= 九人达到法定人数，两次都只来了八个。
 ③ The committee was duly constituted and has never once met.
 = 委员会依法设立，却一次会也没开过。
 be duly constituted = 依法设立

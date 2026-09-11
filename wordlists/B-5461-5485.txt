@@ -379,23 +379,39 @@ creditworthiness = 信用状况
 = 她在那家店开了赊购账户，不到一年就注销了。
 a credit account = 赊账户头
 a credit line = 信贷额度
+The credit line was doubled in a week and frozen in a month.
+= 信贷额度一周内翻倍，一个月后冻结。
 a credit transfer = 转账
+A credit transfer takes a day and a cheque takes four.
+= 转账要一天，支票要四天。
 ⑬ A credit agency scores every borrower and explains the score to none of them.
 = 征信机构给每个借款人评分，却不向任何人解释。
 a credit agency = 征信机构
 a credit bureau = 征信局
+A credit bureau holds nine years of his life and two mistakes.
+= 征信局存着他九年的记录，还有两处错误。
 a credit rating = 信用评级
+Their credit rating fell twice and the loan cost more each time.
+= 他们的信用评级两次下调，贷款一次比一次贵。
 a credit score = 信用分
+A credit score goes down for asking and up for waiting.
+= 信用分一查就掉，一等就涨。
 评级多说机构与国家，评分多说个人。
 ⑭ Pay by credit card if you want any protection when it goes wrong.
 = 想在出问题时有保障，就刷信用卡。
 a credit card = 信用卡
 a credit note = 退款单
+They sent a credit note instead of the money and called it a refund.
+= 他们寄来一张退款单顶钱，还管这叫退款。
 a credit union = 信用合作社
+The credit union lent them what four banks had refused.
+= 信用合作社借给了他们四家银行都不肯借的钱。
 ⑮ He behaved creditably throughout and got no thanks for any of it.
 = 他自始至终表现得体，却没得到一句谢。
 creditably = 值得称许地
 creditworthy = 信用良好的
+He is creditworthy on paper and broke in practice.
+= 他账面上信用良好，实际上是没钱。
 ⑯ Consumer credit reached a record high in the quarter before the crash.
 = 崩盘前的那个季度，消费信贷创下历史新高。
 consumer credit = 消费信贷（借给个人买东西的钱）
@@ -534,7 +550,11 @@ creep up on = 不知不觉逼近某人
 = 那条消息让我发毛，我已经读了大概九遍。
 creep somebody out = 让人发毛
 creep out = 让人发毛（宾语放在中间）
+That corridor creeps me out and the lights work perfectly.
+= 那条走廊让我发毛，灯其实一点毛病没有。
 creeping = 悄悄蔓延的
+A creeping damp took the plaster off one wall a year.
+= 一股悄悄蔓延的潮气，一年吃掉一面墙的灰泥。
 ⑫ A doubt crept into his mind and stayed there for the rest of the trip.
 = 一丝疑虑爬进他心里，剩下的旅程一直没散。
 crept = creep 的过去式与过去分词
@@ -548,7 +568,11 @@ cremated remains 缩合而来。行业外的人多说 ashes。只用复数。
 ① The cremains were scattered at sea from the stern of a hired boat.
 = 骨灰是从一条租来的船的船尾撒进海里的。
 cremains = 骨灰
+The cremains were collected in a cardboard box and carried home on a bus.
+= 骨灰装在一个纸盒里领走，坐公交带回了家。
 cremains = 骨灰（殡葬业用词）
+The cremains were collected in a cardboard box and carried home on a bus.
+= 骨灰装在一个纸盒里领走，坐公交带回了家。
 ② The funeral home returns the cremains in an urn within a fortnight.
 = 殡仪馆两周内用骨灰盒把骨灰交还。
 return the cremains = 交还骨灰

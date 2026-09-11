@@ -88,6 +88,8 @@ crepe paper = 皱纹纸
 = 那道橙香可丽饼是当桌点火烧的，前后大约四秒钟。
 crêpe Suzette = 橙香火焰可丽饼
 crepe Suzette = 橙香火焰可丽饼（不带重音符的写法）
+A crepe Suzette is set alight at the table and eaten cold.
+= 橙香火焰可丽饼在桌边点着，吃到嘴里已经凉了。
 构词：法语 crêpe 皱的
 注意拼写：也写作 crêpe。
 
@@ -287,6 +289,8 @@ a crew cut = 板寸头
 = 他穿着件圆领毛衣，外面那件夹克在十二月太薄了。
 a crew neck = 圆领
 a crewman = 船员、机组人员
+A crewman spotted the light and nobody else on watch did.
+= 一名船员看见了那道光，同班值守的人谁也没看见。
 构词：古法语 creue 增补的人手
 注意用法：集合名词，英式可跟复数动词。
 
@@ -419,10 +423,14 @@ it is a crime to = ……太可惜了
 = 案发现场封了一星期，什么也没查出来。
 a crime scene = 案发现场
 a crime lab = 刑侦实验室
+The crime lab has a nine-month queue and two staff.
+= 刑侦实验室积压九个月的活，只有两个人。
 ⑦ A crime wave hit the estate and stopped as suddenly as it started.
 = 这个住宅区遭遇了一波犯罪潮，来得突然去得也突然。
 a crime wave = 犯罪潮
 crime-busting = 打击犯罪的
+The crime-busting campaign printed posters and closed one station.
+= 那场打击犯罪的行动印了海报，关掉了一个警所。
 构词：拉丁语 crimen 指控
 注意用法：说具体一桩可数，说整体不可数。
 
@@ -452,7 +460,11 @@ criminality = 犯罪、犯罪性
 = 车库一扇窗被砸之后，他被控刑事毁坏财物。
 criminal damage = 刑事毁坏财物
 criminalization = 定罪化
+The criminalization of that practice took four years to reverse.
+= 那项做法的定罪化，用了四年才推翻。
 criminally = 刑事上；也说「简直」
+The soup was criminally over-salted and everybody finished it.
+= 那汤咸得简直犯罪，人人还是喝完了。
 构词：crime 罪 + -al
 注意语域：第四支是口语的夸张。
 

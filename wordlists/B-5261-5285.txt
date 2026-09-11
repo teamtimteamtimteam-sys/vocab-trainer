@@ -83,6 +83,8 @@ copy = 抄
 = 回复时抄送我，我好知道已经发出去了。
 copy somebody in = 把某人抄送在内
 copy in = 抄送（宾语放中间，说 copy me in）
+Copy me in on that reply and leave the attachment off.
+= 那封回信抄送我一份，附件就别带了。
 ⑥ She blotted her copybook over something that took ten seconds to say.
 = 她因一句十秒就说完的话坏了名声。
 blot one's copybook = 留下污点

@@ -16,6 +16,8 @@ contribute to a magazine = 给杂志投稿
 = 她的贡献是决定性的，只用了大约四句话。
 a contribution = 贡献
 make a contribution = 作出贡献
+She made a contribution that the minutes record as a comment.
+= 她作出的贡献，会议纪要里记作一句评论。
 ⑤ Regular contributors get a byline and nothing else at all.
 = 固定撰稿人有署名，别的什么也没有。
 a contributor = 撰稿人；贡献者
@@ -188,7 +190,11 @@ conurbation
 ① The conurbation stretches for thirty miles without a real gap.
 = 那片连片市区绵延三十英里，中间没有真正断开过。
 a conurbation = 连片市区
+The conurbation has one name on maps and four on the buses.
+= 那片城镇连片区在地图上叫一个名，公交上有四个。
 a conurbation = 城镇连片区
+The conurbation has one name on maps and four on the buses.
+= 那片城镇连片区在地图上叫一个名，公交上有四个。
 ② Manchester sits inside a large conurbation and shares its transport with it.
 = 曼彻斯特处在一大片连片市区里，交通也跟它连成一体。
 inside a conurbation = 在连片市区之内
@@ -359,6 +365,8 @@ conversant
 = 她对那些规定很熟，能按条号直接引。
 conversant with = 通晓、熟悉
 be conversant with = 熟悉
+He is conversant with the rules and reads none of the papers.
+= 他熟悉规则，材料一份不看。
 ② He became conversant with local custom after two winters there.
 = 在那儿过了两个冬天，他慢慢摸清了当地的规矩。
 become conversant with = 逐渐熟悉
@@ -555,6 +563,8 @@ convince somebody that = 使某人相信
 = 我确信她是对的，也同样确信什么都不会改变。
 be convinced = 深信不疑
 be convinced that = 确信
+She is convinced that the letter was never posted.
+= 她确信那封信根本没寄出去。
 ④ It is not a convincing argument and the figures do not support it.
 = 这个论证没有说服力，数字也不支持它。
 a convincing argument = 有说服力的论证
