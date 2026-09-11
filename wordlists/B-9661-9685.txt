@@ -407,8 +407,14 @@ make fun of somebody = 取笑某人
 = 她当初纯是闹着玩学的，如今靠它挣钱。
 for fun = 闹着玩
 fun fur = 仿皮毛料
+Fun fur on that coat sheds onto everybody who hugs her.
+= 那件大衣上的仿皮毛料，谁抱她就掉谁一身。
 fun-loving = 爱玩爱闹的
+A fun-loving dog and a quiet street are a poor match.
+= 一条爱玩爱闹的狗，配一条安静的街，不大合适。
 fun run = 趣味跑
+The fun run raised nine hundred pounds and four people took it seriously.
+= 那场趣味跑筹到九百镑，有四个人当了真。
 
 funboard
 核心：三支（冲浪、帆板）。一是介于长板与短板之间的"趣味板"；
@@ -440,5 +446,11 @@ a school function = 校内活动
 = 产量是温度的函数，这里别的都不要紧。
 a function of something = 某物的函数
 function as = 充当、起…作用
+The kitchen table functions as a desk, a workbench and an ironing board.
+= 厨房那张桌子充当写字台、工作台，还有熨衣板。
 function key = 功能键
+One function key does four things and the label mentions none.
+= 一个功能键管四件事，键帽上一件也没写。
 function word = 功能词
+A function word carries no picture and holds the sentence together.
+= 功能词本身不带画面，却把句子撑住了。
