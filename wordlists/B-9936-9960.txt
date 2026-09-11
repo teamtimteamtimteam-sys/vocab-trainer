@@ -107,6 +107,8 @@ gather speed = 逐渐加速
 = 自从会用它的人走了，那台机器就一直搁着积灰。
 gather dust = 搁着积灰
 gatherer = 采集者、搜集的人
+The gatherer of that collection never wrote down where anything came from.
+= 那批藏品的搜集者，从没记下过任何一件的来处。
 
 gathering
 核心：三支。一是聚会、集会：a family gathering；
@@ -160,6 +162,8 @@ be gauche = 不懂分寸
 = 那个设计生硬别扭，干了一年也改不过来。
 be gauche = 生硬别扭
 gaucheness = 举止笨拙、不得体
+His gaucheness at parties turns into charm after about an hour.
+= 他在派对上的笨拙，大约一个钟头之后就变成了魅力。
 
 gaucherie
 核心：三支（正式）。一是举止笨拙、不得体；二是一次失礼的言行；
@@ -200,7 +204,11 @@ be gaudy = 俗艳花哨
 = 学院的校友宴六月举行，那一届回来一半人。
 a gaudy = 学院校友宴
 gaudily = 俗艳地、花哨地
+The hall was gaudily decorated and the singing was worth every minute.
+= 礼堂布置得花哨俗艳，那场演唱却值回每一分钟。
 gaudiness = 俗艳、花哨
+The gaudiness of that seafront is the reason half the visitors come.
+= 那片海滨的俗艳，正是一半游客来的原因。
 
 gauge
 核心：四支。一是量表、计量仪：a fuel gauge；二是（铁轨的）轨距、（金属的）厚度规格；
@@ -231,6 +239,8 @@ stand gaunt = 光秃秃地立着
 = 他出院时瘦得脱了形，到圣诞就全长回来了。
 be gaunt = 形销骨立
 gauntness = 瘦削憔悴
+The gauntness in those photographs was rationing and not illness.
+= 照片里那份瘦削憔悴是配给制闹的，不是病。
 
 gauntlet
 核心：三支。一是（护手的）长手套：a leather gauntlet；
@@ -337,3 +347,5 @@ be gawky = 笨拙不协调
 = 照片上那个局促的姿势，就是她把它藏起来的原因。
 a gawky pose = 局促的姿势
 gawkiness = 手长脚长的笨拙
+His gawkiness lasted two years and turned into a useful reach.
+= 他那份手长脚长的笨拙持续了两年，后来变成了有用的臂展。
