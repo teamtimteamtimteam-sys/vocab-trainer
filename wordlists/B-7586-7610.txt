@@ -25,6 +25,8 @@ entomology
 = 昆虫学能回答别的分支答不上的那些问题。
 entomology = 昆虫学
 study entomology = 学昆虫学
+He went to study entomology and came back describing ants as colleagues.
+= 他去学昆虫学，回来管蚂蚁叫同事。
 ② Forensic entomology puts a date on a scene from what is living in it.
 = 法医昆虫学靠现场里活着的东西，给现场定出时间。
 forensic entomology = 法医昆虫学
@@ -67,6 +69,8 @@ entrance
 = 入口在后头，指示牌指的却是另一边。
 the entrance = 入口
 the main entrance = 正门
+The main entrance has been locked since March and nobody has complained.
+= 正门从三月起就锁着，也没人抱怨。
 ② She made an entrance in a coat nobody had seen before.
 = 她穿着一件谁也没见过的大衣，隆重登了场。
 make an entrance = 惹人注目地登场
@@ -86,6 +90,8 @@ entrancing
 = 那片景色迷人一个星期，到第二个月就平常了。
 entrancing = 迷人的
 an entrancing voice = 醉人的嗓音
+She has an entrancing voice and forgets the words of everything.
+= 她嗓音醉人，可什么歌的词都记不住。
 ② She finds the whole process entrancing and everyone else finds it slow.
 = 整个过程她觉得迷人，别人只觉得慢。
 be entrancing = 令人陶醉
@@ -157,6 +163,8 @@ entrench
 = 那套做法根深蒂固，两次重组都没动着它。
 be entrenched = 根深蒂固
 entrench something = 使某物牢牢确立
+The constitution entrenches the right and makes changing it almost impossible.
+= 宪法把那项权利牢牢确立下来，想改几乎不可能。
 ② They entrenched on the ridge and stayed there for two winters.
 = 他们在山脊上挖壕据守，在那儿待了两个冬天。
 entrench = 挖壕据守
@@ -187,6 +195,8 @@ entrepreneur
 = 那位创业者从一间棚屋起家，后来搬进了隔壁那间棚屋。
 an entrepreneur = 创业者
 a young entrepreneur = 年轻创业者
+A young entrepreneur sold the company at twenty-six and bought a farm.
+= 一位年轻创业者二十六岁把公司卖了，买了个农场。
 ② Entrepreneurs get the credit and the bookkeeper keeps the company alive.
 = 功劳归创业者，让公司活下来的是记账那位。
 entrepreneurs = 创业者（复数）
@@ -237,6 +247,8 @@ entropy
 = 孤立系统里熵只增不减，热力学第二定律说的就这一句。
 entropy = 熵
 an increase in entropy = 熵的增加
+Every conversion of energy comes with an increase in entropy somewhere.
+= 每一次能量转换，都会在某处带来熵的增加。
 ② Office entropy shows up in the stationery cupboard first.
 = 办公室的失序，最先显在文具柜里。
 entropy = 失序、衰败
@@ -258,10 +270,14 @@ entry
 = 七点前免费入场，七点以后就贵了。
 entry = 进入、入场
 gain entry to a place = 进入某处
+Thieves gained entry to the hall through a window nobody could close.
+= 窃贼从一扇谁也关不上的窗户进了礼堂。
 ② The diary entry for that day is one line and a weather note.
 = 那天的日记只有一行，外加一句天气。
 a diary entry = 一则日记
 an entry in a dictionary = 词典里的一个词条
+An entry in a dictionary can take a morning and outlive the editor.
+= 词典里的一个词条可能要写一上午，比编它的人活得还长。
 ③ Four hundred entries came in and three of them were on time.
 = 收到四百份参赛作品，其中三份是按时交的。
 an entry = 参赛作品
@@ -272,3 +288,5 @@ entry to something = 加入某组织的资格
 = 一份入门级工作，在入行的那道门槛上要三年经验。
 an entry-level job = 入门级职位
 an entry point = 入口、切入点
+The river gave the town its only entry point for four hundred years.
+= 四百年里，那条河是这个镇唯一的入口。

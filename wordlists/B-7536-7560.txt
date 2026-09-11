@@ -57,6 +57,8 @@ enrol
 = 她报了一门课，结果发现那是两门课。
 enrol on a course = 报名参加课程
 enrol in a school = 入学注册
+The family enrolled the boys in a school two bus rides away.
+= 那家人让两个男孩在坐两趟公交才到的学校注册入学。
 ② The school enrols four hundred pupils and has places for three hundred.
 = 那所学校招四百名学生，座位只有三百个。
 enrol somebody = 招收、给某人注册
@@ -99,6 +101,8 @@ ensemble
 = 那个乐团十一个人，在教堂礼堂排练。
 an ensemble = 小乐团、剧团
 an ensemble cast = 群戏阵容
+An ensemble cast means no one dressing room is bigger than the others.
+= 群戏阵容意味着没有哪间化妆室比别间大。
 ② The ensemble works and no single part of it does.
 = 整体效果是好的，可拆开哪一部分都不成。
 the ensemble = 整体效果
@@ -139,6 +143,8 @@ enslave
 = 数以百万计的人被奴役，账本上把他们记作货物。
 enslave somebody = 奴役某人
 be enslaved = 被奴役
+People who had been enslaved bought land under names they chose themselves.
+= 曾被奴役的人们，用自己挑的名字买下了土地。
 ② A phone can enslave anyone who answers it at midnight.
 = 半夜还接电话的人，就会被手机拴住。
 enslave somebody to something = 使某人受制于某物
@@ -189,6 +195,8 @@ ensure
 = 两道各自独立的核对，确保没有东西不带签字就运出这栋楼。
 ensure that... = 确保…
 ensure something = 保证某事
+A deposit ensures the room and guarantees nothing about the view.
+= 交定金能保证有房间，至于景观什么也保证不了。
 ② Arriving an hour early ensures a seat by the window and nothing else at all.
 = 提早一个钟头到，能保证有个靠窗的座位，别的什么也保证不了。
 ensure success = 确保成功
@@ -200,6 +208,8 @@ entail
 = 那份工作必然带来每周两晚在外过夜，可没人提这一点。
 entail something = 必然牵涉某事
 entail doing something = 意味着要做某事
+Keeping bees entails standing still while something walks across your face.
+= 养蜂意味着要一动不动，任凭什么东西从你脸上爬过去。
 ② The estate was entailed and the daughters inherited a lawsuit.
 = 那份地产是限定继承的，女儿们继承到的是一场官司。
 be entailed = 被限定继承
@@ -248,6 +258,8 @@ enter
 = 他一进屋，所有的谈话都换了话题。
 enter a room = 进入房间
 enter a building = 进入建筑
+Nobody may enter the building after six without signing at the gate.
+= 六点以后进入这栋楼，必须在门口签字。
 ② She entered the competition twice and won it the second time.
 = 那项比赛她报了两回名，第二回赢了。
 enter a competition = 参加比赛
@@ -264,10 +276,14 @@ enter a new phase = 进入新阶段
 = 他们签下一份协议，两边都没读过第二遍。
 enter into an agreement = 达成协议
 enter into something = 正式开始、深入谈某事
+She refused to enter into the question of who had started it.
+= 至于是谁先挑起来的，她不肯深谈。
 ⑦ The lease enters on the first of March and the surveyor enters upon a second inspection.
 = 租约三月一日起生效，测量师随后又开始了第二次查验。
 enter on something = 开始（一段时期、一项工作）
 enter upon something = 同 enter on，更正式
+The country entered upon a decade that its textbooks now skip.
+= 那个国家就此进入了一个如今教科书跳过不提的十年。
 
 enteric
 核心：（医学）肠的、肠道的：说跟肠子有关的病与药。只作定语。
