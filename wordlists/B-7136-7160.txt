@@ -152,6 +152,8 @@ elderly
 = 一位上了年纪的邻居保管着备用钥匙，谁几点出门都清楚。
 an elderly neighbour = 上了年纪的邻居
 elderly = 年长的、上了年纪的
+Two elderly women run the shop and know what everyone buys on Fridays.
+= 两位上了年纪的女士经营那家店，谁周五买什么她们都清楚。
 ② Services for the elderly were cut in March and demand rose in the same month.
 = 面向老年人的服务三月被砍，需求也在同一个月涨了。
 the elderly = 老年人（群体）
@@ -186,6 +188,8 @@ elect
 = 第二轮投票选了她当主席，也没有别人参选。
 elect somebody chair = 选某人当主席
 elect somebody to something = 选某人进入某机构
+They elected him to the parish council and he attended twice in two years.
+= 他们选他进了教区议事会，两年里他去了两次。
 ② He elected to take the earlier flight and missed the whole argument.
 = 他选择坐早一班飞机，整场争吵都躲开了。
 elect to do something = 选择做某事
@@ -219,6 +223,8 @@ a general election 是大选，a by-election 是补选。
 = 那场选举七月宣布举行，几乎什么也没定下来。
 an election = 选举
 a general election = 大选
+The general election fell on the coldest day and turnout still went up.
+= 大选赶上了最冷的一天，投票率反而涨了。
 ② Her election as leader surprised even the people who had counted the votes.
 = 她当选党首，连数票的人都意外。
 somebody's election as something = 某人当选为…
@@ -262,6 +268,8 @@ electoral
 = 那套选举制度，反倒便宜了处处屈居第二的那个党。
 the electoral system = 选举制度
 electoral reform = 选举改革
+Electoral reform is promised in opposition and forgotten within a month of winning.
+= 选举改革在野时年年许诺，一赢下来一个月就忘了。
 ② Electoral law says nothing at all about that kind of advertisement.
 = 选举法对那类广告只字未提。
 electoral law = 选举法
@@ -272,6 +280,8 @@ the electoral college = 选举人团
 = 名字得在投票日前四周就上到选民登记册上。
 the electoral register = 选民登记册
 an electoral vote = 选举人票
+One electoral vote in that state was cast against the instructions of the voters.
+= 那个州有一张选举人票没照选民的意愿投。
 副词 electorally：在选举上、从选票上看：修饰整句或形容词， 常见搭配是 electorally risky、electorally impossible。
 ⑤ The policy is sound and electorally impossible in three regions.
 = 那项政策本身站得住，可在三个大区选票上通不过。

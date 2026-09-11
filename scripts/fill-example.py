@@ -20,6 +20,9 @@
 英文行被解析成 en 笔记、中文行解析成 gloss，渲染时英文行里那条搭配会自动高亮。
 
 已经补过的不会重复插（下一行若已是同一句就跳过）。
+同一词条里同样的等式左边出现两次时（形容词一支、动词一支各写一条
+`elaborate = …`），只补第一处，第二处报出来让人自己核对 —— 一律都补
+会把形容词的例句塞进动词那一支。
 """
 import glob, io, sys, importlib.util
 sys.path.insert(0, 'scripts')
@@ -33,7 +36,7 @@ def load(path):
 def main(argv):
     path = argv[0] if argv else '/tmp/fill_data.py'
     F = load(path)
-    hit = 0; miss = set(F)
+    hit = 0; miss = set(F); seen = {}; dup = []
     for f in numsort(glob.glob('wordlists/B-[0-9]*.txt')):
         s = io.open(f, encoding='utf-8').read()
         blocks = s.split('\n\n'); ch = False
@@ -48,7 +51,13 @@ def main(argv):
                     if k in F:
                         en, zh = F[k]
                         nxt = L[j+1] if j+1 < len(L) else ''
-                        if nxt.strip() != en:
+                        # 同一词条里同样的等式左边可能出现两次（形容词一支、动词
+                        # 一支各写一条 `elaborate = …`）。只补第一处，其余报出来
+                        # 让人自己看 —— 全补过会把形容词的例句塞进动词那一支。
+                        seen[k] = seen.get(k, 0) + 1
+                        if seen[k] > 1:
+                            dup.append((k, line.strip()))
+                        elif nxt.strip() != en:
                             out.append(en); out.append('= ' + zh); hit += 1
                         miss.discard(k)
             if out != L: blocks[i] = '\n'.join(out); ch = True
@@ -57,6 +66,9 @@ def main(argv):
     if miss:
         print('没对上（键跟词表字面不一致）：')
         for k in sorted(miss)[:20]: print('    %s | %s' % k)
+    if dup:
+        print('同一词条里这条等式不止一处，只补了第一处 —— 自己核对哪一处该补：')
+        for k, line in dup[:20]: print('    %s | %s' % (k[0], line))
     return 0
 
 if __name__ == '__main__':

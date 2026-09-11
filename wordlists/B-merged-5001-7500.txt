@@ -40755,6 +40755,8 @@ elaborate
 = 那个计划繁复、昂贵，第二周就废掉了。
 an elaborate plan = 精心设计的计划
 elaborate = 繁复精细的
+The icing was elaborate and the cake underneath it was dry.
+= 糖霜繁复精细，底下的蛋糕却干巴巴的。
 ② She refused to elaborate and the room waited for a full minute.
 = 她不肯细说，屋里等了整整一分钟。
 elaborate = 细说、展开讲
@@ -40980,6 +40982,8 @@ elderly
 = 一位上了年纪的邻居保管着备用钥匙，谁几点出门都清楚。
 an elderly neighbour = 上了年纪的邻居
 elderly = 年长的、上了年纪的
+Two elderly women run the shop and know what everyone buys on Fridays.
+= 两位上了年纪的女士经营那家店，谁周五买什么她们都清楚。
 ② Services for the elderly were cut in March and demand rose in the same month.
 = 面向老年人的服务三月被砍，需求也在同一个月涨了。
 the elderly = 老年人（群体）
@@ -41014,6 +41018,8 @@ elect
 = 第二轮投票选了她当主席，也没有别人参选。
 elect somebody chair = 选某人当主席
 elect somebody to something = 选某人进入某机构
+They elected him to the parish council and he attended twice in two years.
+= 他们选他进了教区议事会，两年里他去了两次。
 ② He elected to take the earlier flight and missed the whole argument.
 = 他选择坐早一班飞机，整场争吵都躲开了。
 elect to do something = 选择做某事
@@ -41047,6 +41053,8 @@ a general election 是大选，a by-election 是补选。
 = 那场选举七月宣布举行，几乎什么也没定下来。
 an election = 选举
 a general election = 大选
+The general election fell on the coldest day and turnout still went up.
+= 大选赶上了最冷的一天，投票率反而涨了。
 ② Her election as leader surprised even the people who had counted the votes.
 = 她当选党首，连数票的人都意外。
 somebody's election as something = 某人当选为…
@@ -41090,6 +41098,8 @@ electoral
 = 那套选举制度，反倒便宜了处处屈居第二的那个党。
 the electoral system = 选举制度
 electoral reform = 选举改革
+Electoral reform is promised in opposition and forgotten within a month of winning.
+= 选举改革在野时年年许诺，一赢下来一个月就忘了。
 ② Electoral law says nothing at all about that kind of advertisement.
 = 选举法对那类广告只字未提。
 electoral law = 选举法
@@ -41100,6 +41110,8 @@ the electoral college = 选举人团
 = 名字得在投票日前四周就上到选民登记册上。
 the electoral register = 选民登记册
 an electoral vote = 选举人票
+One electoral vote in that state was cast against the instructions of the voters.
+= 那个州有一张选举人票没照选民的意愿投。
 副词 electorally：在选举上、从选票上看：修饰整句或形容词， 常见搭配是 electorally risky、electorally impossible。
 ⑤ The policy is sound and electorally impossible in three regions.
 = 那项政策本身站得住，可在三个大区选票上通不过。
@@ -41136,6 +41148,8 @@ electric
 = 那把电水壶九十秒烧开，三秒就跳闸。
 an electric kettle = 电水壶
 electric light = 电灯
+Electric light reached the valley in 1948 and the chapel held out longer.
+= 电灯一九四八年才通到那条山谷，小教堂拖得更久。
 ② The atmosphere in the hall was electric until the microphone failed.
 = 大厅里的气氛热烈得要爆，直到话筒坏掉。
 be electric = 气氛紧张而热烈
@@ -41143,6 +41157,8 @@ be electric = 气氛紧张而热烈
 = 电动车安静到法律如今要求它们发出声响。
 an electric car = 电动汽车
 an electric bike = 电动自行车
+An electric bike gets him up that hill without arriving wet through.
+= 骑电动自行车上那道坡，他到的时候不至于湿透。
 ④ The electric blanket goes on at nine and off before anyone gets into bed.
 = 电热毯九点打开，还没人上床就关掉。
 an electric blanket = 电热毯
@@ -41172,6 +41188,8 @@ electrical engineering 是电气工程，an electrical fault 是电路故障。�
 = 火是电路故障引起的，那些线已经用了四十年。
 an electrical fault = 电路故障
 electrical equipment = 电气设备
+All electrical equipment is tested each August and half of it fails once.
+= 所有电气设备每年八月检测一次，有一半总有一回通不过。
 ② She read electrical engineering and now works in insurance.
 = 她读的是电气工程，如今做保险。
 electrical engineering = 电气工程
@@ -41193,6 +41211,8 @@ electrician
 = 电工九分钟就找到了故障，收了一个钟头的钱。
 an electrician = 电工
 call an electrician = 叫电工来
+Call an electrician before the ceiling light starts humming, not after.
+= 吸顶灯开始嗡嗡响之前就该叫电工来，别等响完了才叫。
 ② A qualified electrician has to sign off the work before it is covered.
 = 得有持证电工签字验收，保险才认。
 a qualified electrician = 持证电工
@@ -41203,6 +41223,8 @@ electricity
 = 四点停电，新闻播完才来。
 electricity = 电
 an electricity bill = 电费单
+The electricity bill doubled in one quarter and the meter had not been read.
+= 电费单一个季度翻了一倍，可表根本没人抄过。
 ② There was an electricity in the room that the recording does not pick up.
 = 屋里那股兴奋劲儿，录音里听不出来。
 electricity = （比喻）令人兴奋的气氛
@@ -41475,6 +41497,8 @@ elegant
 = 她那份优雅，跟钱一点关系也没有。
 elegant = 优雅的
 an elegant dress = 一件雅致的裙子
+She wore an elegant dress to the tribunal and won on the paperwork.
+= 她穿了一件雅致的裙子去仲裁庭，赢靠的却是那摞材料。
 ② The elegant solution needs one moving part instead of nine.
 = 那个巧妙的方案只用一个活动件，不用九个。
 an elegant solution = 简洁巧妙的方案
@@ -41517,6 +41541,8 @@ element
 = 这里头有运气的成分，谁也不愿谈。
 an element of something = 某种成分
 a key element = 关键要素
+Trust is the key element and the one nothing in the contract covers.
+= 信任是关键要素，也是合同里一个字都管不着的东西。
 ② Iron is the element that makes up most of the planet's core.
 = 铁是构成地核大部分的那种元素。
 a chemical element = 化学元素
@@ -41524,6 +41550,8 @@ a chemical element = 化学元素
 = 他们顶着风雨待了四个钟头，看见一只鸟。
 brave the elements = 顶着风雨
 the elements = 风雨天气
+The statue has stood out in the elements for two hundred winters.
+= 那尊像在风雨里立了两百个冬天。
 ④ She is in her element in a kitchen and lost in a meeting.
 = 她在厨房里如鱼得水，一开会就不知所措。
 be in your element = 如鱼得水
@@ -41565,6 +41593,8 @@ the elephant in the room 是人人看得见却谁都不提的大问题。
 = 一头象一天喝掉一浴缸的水，还记得水在哪儿。
 an elephant = 象
 a herd of elephants = 一群象
+A herd of elephants crossed the road at dusk and stopped all four lanes.
+= 黄昏时一群象横穿马路，四条车道全停了下来。
 ② The new terminal is a white elephant with four flights a day.
 = 新航站楼是个大而无用的摆设，一天才四个航班。
 a white elephant = 花钱多又没用的东西
@@ -41745,6 +41775,8 @@ eligibility
 = 有没有资格，取决于三月一号你睡在哪儿。
 eligibility = 资格
 eligibility criteria = 资格条件
+The eligibility criteria fill nine pages and rule out most of the applicants.
+= 资格条件写了九页，把大多数申请人都挡在了外头。
 ② His eligibility was questioned twice and confirmed both times.
 = 他的资格被质疑过两回，两回都被确认。
 somebody's eligibility = 某人的资格
@@ -41757,6 +41789,8 @@ eligible
 = 六十岁以上都有资格享受折扣，其中一半从没去领过。
 be eligible for something = 有资格获得某物
 be eligible to do something = 有资格做某事
+She is eligible to vote in two countries and does so in neither.
+= 她在两个国家都有资格投票，两边都没去投过。
 ② The novel calls him an eligible bachelor and gives him no personality at all.
 = 那部小说管他叫条件优越的单身汉，却没给他一点性格。
 an eligible bachelor = 条件好的单身男子
@@ -42002,6 +42036,8 @@ eloquent
 = 他笔头上雄辩，站起来说话就不行。
 eloquent = 有口才的
 an eloquent speech = 雄辩的演讲
+An eloquent speech at the inquiry changed nothing the report already said.
+= 听证会上一场雄辩的演讲，报告里写好的一个字也没改。
 ② The empty shelves were eloquent enough without a press release.
 = 那些空货架已经足够说明问题，用不着发新闻稿。
 be eloquent = 不言自明、意味深长
@@ -42021,6 +42057,8 @@ else
 = 你去问别人，得到的还是同一个答案，问两遍也一样。
 somebody else = 别人
 something else = 别的东西
+He came in for stamps and left with something else entirely.
+= 他进来是买邮票的，出去时拿的完全是别的东西。
 ② Where else could a piano that size have gone?
 = 那么大一架钢琴还能搬到哪儿去？
 where else = 还能在哪儿

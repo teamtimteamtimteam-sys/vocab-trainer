@@ -34,6 +34,8 @@ elegant
 = 她那份优雅，跟钱一点关系也没有。
 elegant = 优雅的
 an elegant dress = 一件雅致的裙子
+She wore an elegant dress to the tribunal and won on the paperwork.
+= 她穿了一件雅致的裙子去仲裁庭，赢靠的却是那摞材料。
 ② The elegant solution needs one moving part instead of nine.
 = 那个巧妙的方案只用一个活动件，不用九个。
 an elegant solution = 简洁巧妙的方案
@@ -76,6 +78,8 @@ element
 = 这里头有运气的成分，谁也不愿谈。
 an element of something = 某种成分
 a key element = 关键要素
+Trust is the key element and the one nothing in the contract covers.
+= 信任是关键要素，也是合同里一个字都管不着的东西。
 ② Iron is the element that makes up most of the planet's core.
 = 铁是构成地核大部分的那种元素。
 a chemical element = 化学元素
@@ -83,6 +87,8 @@ a chemical element = 化学元素
 = 他们顶着风雨待了四个钟头，看见一只鸟。
 brave the elements = 顶着风雨
 the elements = 风雨天气
+The statue has stood out in the elements for two hundred winters.
+= 那尊像在风雨里立了两百个冬天。
 ④ She is in her element in a kitchen and lost in a meeting.
 = 她在厨房里如鱼得水，一开会就不知所措。
 be in your element = 如鱼得水
@@ -124,6 +130,8 @@ the elephant in the room 是人人看得见却谁都不提的大问题。
 = 一头象一天喝掉一浴缸的水，还记得水在哪儿。
 an elephant = 象
 a herd of elephants = 一群象
+A herd of elephants crossed the road at dusk and stopped all four lanes.
+= 黄昏时一群象横穿马路，四条车道全停了下来。
 ② The new terminal is a white elephant with four flights a day.
 = 新航站楼是个大而无用的摆设，一天才四个航班。
 a white elephant = 花钱多又没用的东西
@@ -304,6 +312,8 @@ eligibility
 = 有没有资格，取决于三月一号你睡在哪儿。
 eligibility = 资格
 eligibility criteria = 资格条件
+The eligibility criteria fill nine pages and rule out most of the applicants.
+= 资格条件写了九页，把大多数申请人都挡在了外头。
 ② His eligibility was questioned twice and confirmed both times.
 = 他的资格被质疑过两回，两回都被确认。
 somebody's eligibility = 某人的资格
