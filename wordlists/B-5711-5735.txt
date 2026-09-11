@@ -165,6 +165,8 @@ a cytologist = 细胞学技师
 = 细胞质包着细胞核，大部分工作机件都在里面。
 cytoplasm = 细胞质
 cytoplasmic = 细胞质的
+A cytoplasmic change shows up before anything alters in the nucleus.
+= 细胞核还没变化之前，细胞质的改变就已经显出来了。
 ⑤ Cytomegalovirus is common and usually mild except in the newborn.
 = 巨细胞病毒很常见，除了新生儿身上，通常症状都轻。
 cytomegalovirus = 巨细胞病毒
