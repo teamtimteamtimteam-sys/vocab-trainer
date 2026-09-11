@@ -471,11 +471,22 @@ fr- 段 282/384（73%），fu- 段 14/205（6%）。
   · **heredoc 写岔了一次**：同一个文件被写进两份内容，check-wordlist 立刻
     以「同一批内重复」报了出来。**写完先看 check-wordlist 的重复列，
     它比肉眼可靠**；修法是 sed -n 把完整那一份切出来重写。
-  · **下一批从 fugal 起**（fugitive / fugue / fulcrum / fulfil / fulfilled /
-    fulfilment / full / fullness / fully / fulminate / fulsome / fumble /
-    fume / fumes / fumigate / fun / function / functional / functionary /
-    fund / fundamental 一带；full 与 function 是大词，动笔前往 CHECK 补
-    full of、in full、to the full、a function of、out of function）。
+
+═══ fu- 段（清单 205 条）═══
+第一批 fugal → funboard（25）、第二批 fufu → funfair（25）、
+第三批 fungal → furrow（25）。fu- 段 97/205（47%）。
+并入的副词：fully / fulsomely / functionally / fundamentally / funnily / furiously。
+  · **译文里混进英文又被闸门拦下一次**：-ful 那条写成「spoonful 和 handful
+    里的这个后缀…」，check-wordlist 直接点名。**讲构词成分时最容易犯
+    ——举例词要写成中文（「一满勺」「一把」），别图省事直接放原词。**
+  · B 表过 9700 条了（9712），离 10000 差 288。
+  · **下一批从 furrowed 起**（furry / further / furtherance / furthermore /
+    furthest / furtive / fury / furze / fuse / fuselage / fusillade / fusion /
+    fuss / fussy / fustian 一带；further 与 fuss 是大词，动笔前往 CHECK 补
+    further to、go further、make a fuss、kick up a fuss、fuss over）。
+    **further / furthest 是 far 的比较级最高级**，可它们另有
+    「进一步的、促进」这些 far 没有的义项，按 fresher / fortnightly 的先例
+    单立，记得同时写进 derived-keep.txt。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
