@@ -382,3 +382,5 @@ river frontage = 临河面
 = 那个门面漆成绿色，是哪一年谁也记不得了。
 the frontage = 门面
 frontage road = 辅路
+The frontage road runs beside the motorway and serves four petrol stations.
+= 辅路沿着高速走，服务着四家加油站。
