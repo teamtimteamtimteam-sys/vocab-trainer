@@ -123,6 +123,8 @@ air cover = 空中掩护
 = 客机始终在空中走廊内飞行，还是收到了警告。
 air corridor = 空中走廊、规定航路
 air lane = 航路（同义，更口语）
+The air lane over that valley carries a plane every ninety seconds.
+= 那条山谷上空的航路，每九十秒过一架飞机。
 ⑫ He fired an air pistol at the target and hit the fence instead.
 = 他用气手枪打靶，结果打中了篱笆。
 air pistol = 气手枪
@@ -133,6 +135,8 @@ air plant = 空气凤梨（附生植物）
 = 这台发动机是风冷的，声音才会那样。
 air-cooled = 风冷的
 air cooler = 冷风机、空气冷却器
+An air cooler works in dry heat and does nothing in a wet summer.
+= 冷风机在干热天管用，潮湿的夏天毫无作用。
 ⑮ She air-dashed to Delhi when he fell ill and stayed three months.
 = 他病倒时她搭飞机赶去德里，住了三个月。
 air-dash = 紧急飞往（印度英语）

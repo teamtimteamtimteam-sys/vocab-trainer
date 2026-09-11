@@ -264,6 +264,8 @@ allow doing = 允许某行为
 = 她准我早走，还在本子上记了一笔。
 allow someone to do = 准许某人做
 allow somebody to do = 准许某人做
+The rules allow you to appeal once and never say to whom.
+= 规定准许你申诉一次，却从没说向谁申诉。
 ③ You're not allowed to park here between eight and six on weekdays.
 = 工作日八点到六点之间，这里不许停车。
 be allowed to = 被允许

@@ -141,6 +141,8 @@ alec
 = 别自作聪明，那问题又不是问你的。
 smart alec = 自作聪明的人
 smart aleck = 自作聪明的人（异拼）
+Some smart aleck at the back answered before the question finished.
+= 后排一个自作聪明的人，问题还没问完就抢答了。
 ② His smart-alec remarks annoyed everyone at the table except his brother.
 = 他那些抖机灵的话惹恼了一桌人，只有他弟弟例外。
 smart-alec = 自作聪明的（作定语）
@@ -390,6 +392,8 @@ search algorithm = 搜索算法
 algorithmic = 算法的
 常用搭配：
 recommendation algorithm = 推荐算法
+The recommendation algorithm shows her the same four things all week.
+= 推荐算法整周给她推同样四样东西。
 注意拼写：algorithm 结尾 -thm。
 
 alias

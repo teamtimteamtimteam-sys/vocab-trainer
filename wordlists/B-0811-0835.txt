@@ -345,10 +345,14 @@ alpha male = 头领雄性、强势男性
 = 那个软件还在内测阶段，一开两个文件就崩。
 alpha version = 内测版本
 alpha test = 内部测试
+The alpha test ran for a fortnight with nine people and one laptop.
+= 内部测试做了两周，九个人一台笔记本。
 ④ Alpha particles are stopped by paper but are dangerous once inside the body.
 = 阿尔法粒子一张纸就能挡住，可一旦进了体内就很危险。
 alpha particle = 阿尔法粒子
 alpha radiation = 阿尔法辐射
+Alpha radiation is stopped by paper and dangerous once inhaled.
+= 阿尔法辐射一张纸就挡得住，吸进去就危险。
 ⑤ He is the office alpha geek and rewrites everybody else's scripts overnight.
 = 他是办公室里的头号技术宅，一夜之间就把别人的脚本重写了。
 alpha geek = 团队里技术最强的人

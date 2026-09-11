@@ -28,7 +28,7 @@ def scan(segs, want=(1, 2)):
             head = L[0].strip()
             if segs and not any(prefix(head, len(s)) == s for s in segs): continue
             armed = False; lab = None; need = []
-            for l in L[1:]:
+            for j, l in enumerate(L[1:], start=1):
                 if l[0] in NUMS: armed = True; lab = None; continue
                 if l.startswith('='): continue
                 if LABEL.match(l.strip()): lab = l.strip(); continue
@@ -36,6 +36,11 @@ def scan(segs, want=(1, 2)):
                     if armed: armed = False; continue      # 紧跟例句那条，已有例句
                     if lab and SKIP.search(lab): continue   # 对照块，按裁定不补
                     if lab is None or FILL.search(lab):
+                        # 下一行若是纯英文（既不是等式也不是中文），说明已经补过例句
+                        nxt = L[j + 1].strip() if j + 1 < len(L) else ''
+                        done = (nxt and not nxt.startswith('=') and ' = ' not in nxt
+                                and not re.search(r'[一-鿿]', nxt) and nxt[0] not in NUMS)
+                        if done: continue
                         tier = 2 if (lab and '词族' in lab) else 1
                         if tier in want: need.append(l.strip())
                 else: lab = None

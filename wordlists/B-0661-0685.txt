@@ -26,7 +26,11 @@ airline
 budget airline = 廉价航空
 常用搭配：
 airline industry = 航空业
+The airline industry loses money in good years and more in bad ones.
+= 航空业好年头亏钱，坏年头亏得更多。
 national airline = 国家航空公司
+The national airline flies four routes and is written about weekly.
+= 那家国家航空公司只飞四条航线，每周都上新闻。
 注意区别：
 airline 航空公司
 airway 航路；呼吸道
@@ -385,6 +389,8 @@ airless = 不通风的
 airily = 满不在乎地
 常用搭配：
 airy-fairy = 不切实际的（英式口语）
+The plan is airy-fairy and the costings are on one side of a card.
+= 那个计划不切实际，成本核算就写在一张卡片的一面上。
 副词 airily：指说话或举止"轻描淡写地、满不在乎地"。 常带一点批评，暗示对方把事情看得太轻。
 ④ He answered airily and had clearly not read a word of the report.
 = 他轻描淡写地答着，报告显然一个字没读。
