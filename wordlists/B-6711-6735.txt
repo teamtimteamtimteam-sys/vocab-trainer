@@ -161,6 +161,8 @@ a heavy drinker = 酗酒的人
 = 船上没有饮用水，而这趟要开九个小时。
 drinking water = 饮用水
 a drinking fountain = 直饮喷泉
+The drinking fountain works and the tap beside it has not.
+= 那个直饮喷泉还出水，旁边的水龙头早就不出了。
 作定语的这一族都拿现在分词打头，说跟喝这件事有关的东西。
 ⑰ Drinking is not allowed in the park, which nobody has told the park.
 = 公园里禁止饮酒，可没人跟公园里的人说过。
@@ -170,6 +172,8 @@ drinking = 饮酒这件事
 = 一个酒驾的人凌晨两点撞了墙，那个季度的酒驾数字也涨了。
 a drink-driver = 酒后驾车的人（英式）
 drink-driving = 酒后驾车（英式）
+Drink-driving convictions fall in the years when the last bus runs later.
+= 末班车开得晚的年份，酒后驾车的定罪数就降下来。
 美式说 a drunk driver、drunk driving，英式用 drink-。
 构词：古英语 drincan
 注意三态：drink / drank / drunk
@@ -205,6 +209,8 @@ be drippy = 多愁善感、没主见的（口语，贬）
 = 免烫衬衫晾着自己就平了；滴灌让那株植物活着。
 drip-dry = 免烫的、滴干即平的
 a drip feed = 滴灌；也指点滴给药
+A drip feed of small payments kept the project alive for years.
+= 一笔笔小额付款像滴灌一样，把那个项目吊了好几年。
 比喻里 drip-feed 说「一点一点地给」，多带批评。
 构词：古英语 dryppan
 注意语域：说人窝囊那一支是口语，带轻慢。
@@ -342,30 +348,52 @@ in the driving seat = 掌控局面
 = 那是一起肇事逃逸的驾驶违法，他被永久吊销了驾照。
 a driving offence = 驾驶违法行为
 a driving test = 路考
+She failed the driving test on the reverse and passed everything else.
+= 路考她倒车没过，别的项目全过了。
 a driving instructor = 驾驶教练
+A driving instructor hears more confessions than most priests do.
+= 驾驶教练听到的心里话，比多数神父还多。
 作定语的这一族都拿现在分词打头，说跟开车这件事有关的人与事。
 ㉛ The driver pulled over without signalling and nearly caused a pile-up.
 = 那个司机没打灯就靠边停，差点造成连环追尾。
 a driver = 司机、驾车的人
+The driver waited twenty minutes and left without saying anything.
+= 那位司机等了二十分钟，一句话没说就走了。
 也指起推动作用的因素：the main driver of growth 是拉动增长的主要因素。
 计算机里另指驱动程序：a printer driver 是打印机驱动。
 美式说 in the driver's seat，跟英式的 in the driving seat 同义。
 ㉜ The drive-in closed, the drive-through took its place, and the drive time show moved to podcast.
 = 露天汽车影院关了，取而代之的是免下车窗口；通勤时段的节目改成了播客。
 a drive-in = 免下车影院或餐馆
+The drive-in closed in 1987 and the screen is still standing.
+= 那家免下车影院一九八七年关了门，银幕还立着。
 a drive-through = 免下车窗口
+The drive-through queue blocks the road and the council calls it traffic.
+= 免下车窗口的队伍把路堵了，议会管这叫车流。
 drive time = 通勤时段（广播用语）
+Drive time is when the station plays the songs nobody chose.
+= 通勤时段里，电台放的是没人点过的歌。
 drive-through 也拼 drive-thru，招牌上多写后者。
 ㉝ A drive-by was reported at midnight and the driverless bus carried on regardless.
 = 午夜报了一起驾车路过的枪击案，那辆无人驾驶巴士照开不误。
 a drive-by = 驾车经过时的枪击
+A drive-by at that junction changed the parking rules for a decade.
+= 那个路口的一次驾车枪击，让停车规定改了十年。
 driverless = 无人驾驶的
+A driverless bus ran that route with two staff aboard anyway.
+= 那条线上的无人驾驶巴士，照样载着两名工作人员。
 a driveshaft = 传动轴
+The driveshaft snapped on a hill and the tow cost more.
+= 传动轴在坡上断了，拖车的钱比零件还贵。
 a drive bay = 机箱里的驱动器仓位
+An empty drive bay in that machine has been empty since 2009.
+= 那台机器里有个驱动器仓位，从二〇〇九年起就一直空着。
 drive-by 也作定语：a drive-by shooting。
 ㉞ Drive on — the turning is another mile and the light is going.
 = 接着开 —— 路口还有一英里，天要黑了。
 drive on = 继续往前开
+Drive on past the church and the turning is on the left.
+= 继续往前开，过了教堂，路口就在左边。
 也说 drive on to somewhere，指不停车继续赶路。
 构词：古英语 drifan 驱赶
 注意三态：drive / drove / driven
@@ -663,34 +691,68 @@ drop-dead gorgeous = 美得惊人
 ㉛ The noise dropped away, the drop-down menu froze, and the drop-in centre stayed open till eight.
 = 声响渐渐没了；下拉菜单卡住；那家随到随进的服务中心开到八点。
 drop away = 渐渐减少、消失
+The numbers drop away after the first fortnight of every January.
+= 每年一月头两周一过，人数就渐渐少下去。
 a drop-down menu = 下拉菜单
+A drop-down menu with ninety countries and no search box at all.
+= 一个下拉菜单列着九十个国家，连搜索框都没有。
 a drop-in centre = 无须预约的服务中心
+The drop-in centre opens at nine and the queue forms at eight.
+= 那家无须预约的服务中心九点开门，八点就开始排队。
 drop-in centre 是英国社区服务里的常见说法。
 ㉜ He dropped in on his aunt, took a drop kick at the posts and missed a drop goal by a foot.
 = 他顺道去看了姑妈，在门柱前来了记落踢，一记落地得分差一英尺没中。
 drop in on somebody = 顺道去看某人
+She drops in on her neighbour every Thursday with the same biscuits.
+= 她每个星期四都顺道去看邻居，带的总是同一种饼干。
 a drop kick = 落踢
+A drop kick from the halfway line is mostly luck and nerve.
+= 从中线开出的落踢，靠的大半是运气加胆量。
 a drop goal = 落地得分（橄榄球）
+One drop goal in the last minute settled the whole match.
+= 最后一分钟一记落地得分，把整场比赛定了下来。
 a drop shot = 放小球（网球）
+A drop shot at that end of the court is always a gamble.
+= 在球场那一头放小球，每一次都是赌。
 橄榄球与网球里这几个说法各有各的定义。
 ㉝ A drop cloth covered the floor, the drop curtain jammed, and the drop waist was back in fashion.
 = 地上铺着防尘布；落幕卡住了；低腰款式又流行起来。
 a drop cloth = 防尘布（美式）
+A drop cloth over the piano caught the paint and the plaster.
+= 钢琴上盖的防尘布，接住了油漆，也接住了石膏。
 a drop curtain = 落幕
+The drop curtain came down early and the cast kept going.
+= 幕落早了，演员在幕后还在演。
 a drop waist = 低腰设计（服装）
+A drop waist suits nobody and came back into fashion twice.
+= 低腰设计谁穿都不合适，却两度重新流行。
 drop handlebars = 弯把（公路自行车）
+Drop handlebars give you three positions and one of them hurts.
+= 弯把给你三个握姿，其中一个会疼。
 英式的防尘布叫 a dust sheet。
 ㉞ Droplets formed on the dropper, the droppings were fresh, and the diagnosis was dropsy.
 = 滴管上凝出小水珠；那些粪便是新的；诊断结果是水肿。
 a droplet = 小滴
+A single droplet on the lens ruined nine minutes of footage.
+= 镜头上一颗小水滴，毁掉了九分钟的素材。
 a dropper = 滴管
+The dropper measures four drops and the bottle holds a year's worth.
+= 那个滴管一次量四滴，一瓶够用一年。
 droppings = （动物的）粪便
+Droppings on the sill told them exactly which window was open.
+= 窗台上的鸟粪，明明白白告诉他们哪扇窗开着。
 dropsy = 水肿（旧称）
+Old parish registers say dropsy where a modern one says heart failure.
+= 旧教区登记簿上写「水肿」的地方，如今写的是心力衰竭。
 dropsy 是旧医学名，今天说 oedema 或 edema。
 ㉟ The drop zone was marked with two flags and a drop scone was waiting for everybody who landed.
 = 空投区用两面旗标出；每个落地的人都有一块烤饼等着。
 a drop zone = 空投区、跳伞降落区
+The drop zone is a field with one gate and many spectators.
+= 那片空投区是一块田，只有一道门，看的人却不少。
 a drop scone = 烤饼（英式，摊在铁板上的小圆饼）
+A drop scone is ready before the pan has finished heating up.
+= 烤饼在锅还没完全热透之前就好了。
 drop scone 也叫 a Scotch pancake。
 构词：古英语 dropa 一滴
 注意三态：drop / dropped / dropped，双写那个 p
