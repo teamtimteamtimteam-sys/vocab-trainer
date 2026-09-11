@@ -461,11 +461,21 @@ freakishly / freely（freely 并进 free，"慷慨地"那支写成 free 的第 �
     friend 缺 friend of mine、frighten 缺 frighten off。
     **frighten off 这条是字面匹配的教训 —— 等式写成 frighten somebody off
     不算数，习语清单查的是那一串字面。**
-  · **下一批从 Frisian 起**（frisk / frisky / frisson / fritillary / fritter /
-    frivolity / frivolous / frizz / frizzy / fro / frock / frog / frogman /
-    frolic / from / frond / front / frontage / frontal / frontier 一带；
-    front 与 from 是大词，动笔前往 CHECK 补 in front of、up front、
-    front of house、front runner）。
+第七批 Frisian → fromage frais（25）、第八批 frond → fruit（25）、
+第九批 fruitarian → fug（25，后 9 条已进 fu- 段）。
+fr- 段 282/384（73%），fu- 段 14/205（6%）。
+  · audit-padding 抓到 frontbencher ①③ 是同一条义项（两句都在讲"当了多久
+    前座议员"）。照 2026-09-06 的裁定改等式加换场景，没删义项 ——
+    ③ 改成"前座议员坐得着发言台、后座议员够不着"，等式改成
+    a frontbencher and a backbencher。
+  · **heredoc 写岔了一次**：同一个文件被写进两份内容，check-wordlist 立刻
+    以「同一批内重复」报了出来。**写完先看 check-wordlist 的重复列，
+    它比肉眼可靠**；修法是 sed -n 把完整那一份切出来重写。
+  · **下一批从 fugal 起**（fugitive / fugue / fulcrum / fulfil / fulfilled /
+    fulfilment / full / fullness / fully / fulminate / fulsome / fumble /
+    fume / fumes / fumigate / fun / function / functional / functionary /
+    fund / fundamental 一带；full 与 function 是大词，动笔前往 CHECK 补
+    full of、in full、to the full、a function of、out of function）。
 
 ═══ f 段其余部分 ═══
 清单约 2451 条（fa 420、fe 200、fi 448、fl 394、fo 435、fr 351、fu 203），
