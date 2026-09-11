@@ -5,6 +5,8 @@ dwelling
 = 规划允许在原本只有四户的地块上盖四十套住宅。
 forty dwellings = 四十套住宅
 a dwelling = 住宅
+Nine dwellings on that hillside share one track and one water pipe.
+= 那面山坡上的九户住宅，共用一条小路、一根水管。
 ② The law treats a houseboat as a dwelling once somebody lives on it all year.
 = 只要有人常年住在上头，法律就把船屋当作住所。
 count as a dwelling = 算作住所

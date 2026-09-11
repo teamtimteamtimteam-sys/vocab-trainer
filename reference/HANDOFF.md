@@ -152,27 +152,30 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
 - **词典本身**：f 段 99%（剩的是待推迟），g 段在写，**下一批从 geode 起**
   （geography / geology / geometry / German / germ / gerrymander 一带）。
   G 段大写词头 51 条已登记进 proper-nouns-keep。
-- **补例句**：**e / f / g 三段全清**，tier1 只剩 249 条，**全在 a–d 段**
-  （104 个词条）。tier2（词族）841 条还一条没动。
-  段落统计那行打的是**词条数**，不是等式数 —— fl「48 个词条」实际 135 条等式。
-  上百条的大段按词头拆四批做，每批 25–41 条，各自过闸各自提交 ——
-  fi 拆成 fiasco–figure / file–fiord / fire 一族 / first–fixed，
-  fl 拆成 flag–flat / flatcar–flip / float–flunk / fly–flyover。
-- **量集中在少数几个大词条上**：fl 的 fly 16、flying 14、flash 12，
-  fo 的 food 14、force 11、four 11，fr 的 free 33、French 18，fu 的 full 28。
-  这些词条底下挂着一长串只有等式没例句的复合词，一段的过半条目来自它们。
-  注意：段落统计那行打的是**词条数**，不是等式数 —— fa「38」实际是 79 条等式。
-- **有一条明知故留**：fag 的 `fag hag`，词条自己标着「俚语，冒犯，认得即可」。
-  补例句就得把它写进一个自然句子里用起来，跟「认得即可」相抵，所以不补。
-  往后碰到同类（词条标了「绝不要用」「认得即可」的侮辱语）照此办理。
-- **a–d 段还剩 248 条零头**（ba / be / bl / … / dr / dw）。2026-09-11 已经把
-  need-example 收紧了一道（认标签之外再认形状：连着的等式里有两条以上
-  左边跟词头不相干，整串当对照表剔掉），剔掉了 born 对 borne、
-  beard 对 moustache 对 sideburns、calumny 对 slander 对 libel、急救 ABC
-  那类清单。**剩下的仍是混的**，里头有该补的（launch a campaign、
-  a bottle cap、cotton candy）也有漏网的对照 —— 逐条看过再动手。
-- **push 策略**：用户 2026-09-11 说「补完一起推」——
-  补例句这件事做完之前，只在本地提交，不要 push。
+- **补例句：tier1（并入短语与常用搭配）已经做完了。** 全表从 1573 条补到
+  只剩 22 条，那 22 条是**明知故留**的，名单见下。tier2（词族）841 条还没开工。
+- **明知故留的 22 条**（`need-example --tier1 --list` 还会列出来，别当成漏网）：
+  - **辨析对照**，靠形状认不出来（跑道长度只有 1，两边不相干）：
+    asylum→refugee、be→have gone to、behalf→in place of、blend→mix、
+    boat→ship、bespectacled→wearing glasses、bladder→puncture、
+    blistered→peel off、bloodthirsty→bay for、boll→devastate、
+    bored→thoroughly、boundary→dispute、berk→berk 与 idiot、bestie→bessie
+  - **用法对照块里的**：day 的 during the day 与 in the daytime
+    （在「注意用法：说「在白天」用 during 或 in」那个块里）
+  - **两词挤一行**：back→back issue / back number、
+    counter→counter-revolution；counter-revolutionary
+  - **讲拼写而非释义**：die→dyed in the wool（注里说的是它拼的是另一个词）、
+    do→don't = do not 那张缩写表
+  - **冒犯语**：fag→fag hag，词条自己标着「俚语，冒犯，认得即可」。
+    （fuck 底下那几条补了 —— 词条本身已带例句与语域提示，不是针对人群的侮辱语。）
+- **这一轮踩过的三个坑，往后照着躲**：
+  1. `fill-example` 只认「词头＋等式左边」，同一词条里同名等式挂着几个义项时
+     （comprise 四处、bluff 三处）会补错支。现在键可以写三元组
+     `("词头", "等式左边", 第几处)`，**补完一定回头核对落点**。
+  2. 有些等式紧跟在例句后面（本来就有例句），脚本仍可能把它当第一处填进去 ——
+     drink-driving、during the day 都这么错过一次。核对落点能抓住。
+  3. 新写的句子容易跟词条自己的例句撞开头或撞意思 —— critter、drink-driving
+     各撞过一次。写之前先读完整条词条。
 
 ## 九、iPad app（index.html 单文件）也归这个仓库管
 
