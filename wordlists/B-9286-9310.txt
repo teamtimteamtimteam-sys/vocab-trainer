@@ -244,6 +244,8 @@ a forest of masts = 密密麻麻的桅杆
 = 他们在那面坡上造过两回林，两回都被羊啃光。
 forest a slope = 在坡上造林
 forest park = 森林公园
+The forest park charges for parking and nothing else at all.
+= 那座森林公园只收停车费，别的一概不收。
 
 forestall
 核心：三支。一是抢先一步阻止：forestall a strike；

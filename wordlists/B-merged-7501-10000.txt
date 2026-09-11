@@ -23475,6 +23475,8 @@ a forest of masts = 密密麻麻的桅杆
 = 他们在那面坡上造过两回林，两回都被羊啃光。
 forest a slope = 在坡上造林
 forest park = 森林公园
+The forest park charges for parking and nothing else at all.
+= 那座森林公园只收停车费，别的一概不收。
 
 forestall
 核心：三支。一是抢先一步阻止：forestall a strike；
@@ -23746,6 +23748,8 @@ forget a name = 忘了名字
 = 他忘了带钥匙，在台阶上坐到六点半。
 forget your keys = 忘带钥匙
 forget to do something = 忘了做某事
+He forgot to post the letter and carried it about for weeks.
+= 他忘了把信寄出去，揣着它走了好几个星期。
 ③ Forget about the deadline and do the part you can actually finish.
 = 别想截止日期了，先做你真做得完的那部分。
 forget about something = 别再想某事
@@ -23756,6 +23760,8 @@ forget it = 算了
 = 他已经把她忘了，而且说得比必要的次数多。
 have forgotten somebody = 已经忘掉某人
 forget-me-not = 勿忘我
+Forget-me-nots come up in the gravel where nobody planted them.
+= 勿忘我从砾石缝里长出来，那儿没人种过。
 
 forgetful
 核心：三支。一是健忘的：get forgetful；二是一时没顾上的：forgetful of the time；
@@ -23973,7 +23979,11 @@ form a group = 组成小组
 = 那场面试是例行公事，人选早就定了。
 a matter of form = 例行公事
 form-fitting = 贴身合体的
+A form-fitting dress in that fabric shows every stitch of the lining.
+= 那种料子的贴身连衣裙，衬里每一针都看得见。
 form letter = 格式信函
+A form letter arrived with her name spelled two different ways.
+= 来了一封格式信函，她的名字在里头拼成了两个样子。
 
 formal
 核心：四支。一是正式的：a formal complaint；二是（服装、场合）讲礼节的：formal dress；
@@ -24120,6 +24130,8 @@ fly in formation = 编队飞行
 = 那支建制被拆散，番号给了另一支部队。
 a formation = 建制单位
 formation dancing = 集体队形舞
+Formation dancing needs sixteen people and one of them counting aloud.
+= 集体队形舞要十六个人，其中一个得出声数拍子。
 
 formative
 核心：三支。一是（时期、经历）塑造成长的：formative years；
@@ -24640,8 +24652,14 @@ cost a fortune = 花一大笔钱
 = 她花了好大一笔钱买的桌子，屋里放不下。
 a small fortune = 好大一笔钱
 fortune cookie = 幸运签饼
+The fortune cookie said nothing useful and the meal had been excellent.
+= 幸运签饼里那句话没什么用，那顿饭倒是极好。
 fortune hunter = 猎财者、图财求婚的人
+Her family called him a fortune hunter and he outlived them all.
+= 她家人管他叫图财的，他把他们全熬走了。
 fortune teller = 算命的
+A fortune teller at the fair told four people the same thing.
+= 游园会上一个算命的，对四个人说了同样的话。
 
 forty
 核心：三支。一是四十：forty people；二是（复数）四十几岁：in her forties；
@@ -24656,7 +24674,11 @@ in your forties = 四十几岁时
 = 那房子是四十年代盖的，此后重新布过两次线。
 in the forties = 在四十年代
 forty-niner = （美）四九年淘金客
+A forty-niner walked two thousand miles and sent home nine dollars.
+= 一个四九年的淘金客走了两千英里，往家里寄了九美元。
 forty winks = 小睡片刻
+He has forty winks after lunch and denies it to everybody.
+= 他午饭后小睡片刻，跟谁都不承认。
 
 forum
 核心：三支。一是（讨论问题的）论坛、公开场合：a forum for debate；
@@ -24689,6 +24711,8 @@ a forward = 前锋
 = 把信转寄到新地址，信封留个复印件。
 forward a letter = 转寄信件
 put something forward = 提出（建议、方案）
+She put a proposal forward in March and heard nothing until December.
+= 她三月提出一份方案，到十二月才有回音。
 ⑤ She looks forward to Thursday all week and then sleeps through it.
 = 她整周都盼着周四，到了那天却睡过去了。
 look forward to something = 盼望某事
@@ -24696,7 +24720,11 @@ look forward to something = 盼望某事
 = 一个冒失的孩子问客人有多少钱。
 a forward child = 冒失的孩子
 forward-looking = 有前瞻性的
+The report is forward-looking and every figure in it is historical.
+= 那份报告号称有前瞻性，里头每个数字都是历史数据。
 forward slash = 正斜杠
+One missing forward slash sent the whole class to the wrong page.
+= 少了一个正斜杠，全班都打开了错的页面。
 
 forwardness
 核心：三支。一是冒失、过分主动：the forwardness of a question；
@@ -24737,6 +24765,8 @@ a fossil = 老古董
 = 那个说法是个遗留形式，只在一句固定说法里活着。
 a fossil word = 化石般的遗留词
 fossil fuel = 化石燃料
+Fossil fuel heats the school and the solar panels heat one shed.
+= 学校靠化石燃料供暖，太阳能板只暖得了一间棚屋。
 
 fossilization
 核心：三支。一是石化的过程：the fossilization of bone；
@@ -24812,6 +24842,8 @@ commit a foul = 犯规
 = 渔网缠住螺旋桨，发动机在航道里熄了火。
 foul something = 缠住某物
 foul up = 搞砸
+He fouled up the booking and the whole party ate standing.
+= 他把订位搞砸了，一伙人站着吃完。
 ⑤ The police found no evidence of foul play and closed the file.
 = 警方没找到不正当行为的证据，把案子结了。
 foul play = 不正当行为
@@ -24820,9 +24852,17 @@ foul play = 不正当行为
 = 他被共事多年的人下作地对待。
 be foully treated = 被下作地对待
 foul ball = （棒球）界外球
+A foul ball broke a window that had been broken twice before.
+= 一个界外球打碎了一扇已经碎过两回的窗。
 foul line = 界线、罚球线
+Her toe was over the foul line and the throw did not count.
+= 她的脚趾越过了界线，那一投不算。
 foul-mouthed = 满嘴脏话的
+A foul-mouthed parrot came with the house and stayed with it.
+= 一只满嘴脏话的鹦鹉随房子一起来，也随房子留了下来。
 foul trouble = （篮球）犯规麻烦
+Two starters were in foul trouble at half-time and the bench lost.
+= 半场时两名首发陷入犯规麻烦，替补上去就输了。
 
 foulness
 核心：三支。一是恶臭、污秽：the foulness of the air；
@@ -24857,7 +24897,11 @@ the foundation of a school = 学校的创办
 = 她用的粉底比自己的脸白两个色号。
 wear foundation = 涂粉底
 foundation course = 预科课程
+The foundation course takes a year and decides the next three.
+= 预科课程读一年，却定下了接下来的三年。
 foundation stone = 奠基石
+The foundation stone names a mayor the building has outlived by decades.
+= 奠基石上刻着一位市长的名字，那栋楼比他多活了几十年。
 
 founder
 核心：四支。一是创办人：the founder of a company；
@@ -24876,6 +24920,8 @@ founder on something = 因某事告吹
 = 那匹马在最后一个坡上力竭，只能牵着走回去。
 a horse founders = 马力竭跛倒
 founder member = 创始成员
+The last founder member resigned and the society changed nothing.
+= 最后一位创始成员辞了职，学会一点没变。
 
 foundling
 核心：三支（旧）。一是弃婴、捡来的孩子：a foundling；
@@ -24932,6 +24978,8 @@ a fountain of ideas = 点子的源泉
 = 那台饮水器从装上那年起就坏着。
 a drinking fountain = 饮水器
 fountain pen = 钢笔
+A fountain pen leaks in a shirt pocket at altitude every time.
+= 钢笔在高空放在衬衫口袋里，回回都漏。
 
 fountainhead
 核心：三支。一是（河的）源头；二是（比喻）本源、根源：the fountainhead of an idea；
