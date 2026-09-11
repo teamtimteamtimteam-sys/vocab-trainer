@@ -474,6 +474,8 @@ ambience / ambiance 都可以
 词族：
 ambient = 周围的
 ambient music = 氛围音乐
+Ambient music in that cafe is louder than the conversation it replaced.
+= 那家咖啡馆的氛围音乐，比它取代的谈话声还响。
 近义对照：
 ambience 场所格调（偏商业审美）
 atmosphere 气氛（通用）

@@ -250,6 +250,8 @@ neutral = 中性的
 词族：
 alkali = 碱
 alkalinity = 碱度
+The alkalinity of that soil is why nothing blue will grow.
+= 那片土的碱度，正是蓝色花种不活的原因。
 
 alkaloid
 核心：化学名词，指"生物碱"——植物里含氮的一类化合物，多半味苦、

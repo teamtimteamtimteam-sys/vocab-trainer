@@ -193,6 +193,8 @@ audible to = 对…来说听得见
 inaudible = 听不见的
 词族：
 audibly = 听得见地
+He sighed audibly and then denied having sighed at all.
+= 他叹了口气，声音听得见，随后又矢口否认叹过气。
 audio = 音频的
 构词：aud- 听 + -ible 可…的
 ④ Audibility drops at the back of the hall and the microphones make it worse.

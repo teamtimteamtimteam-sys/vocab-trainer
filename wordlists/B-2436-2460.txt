@@ -236,6 +236,8 @@ bigness
 词族：
 big = 大的
 size = 大小（中性，常用）
+The size of the thing is why nobody has moved it since.
+= 就因为那东西的大小，此后没人挪动过它。
 注意语域：少见，多用于评论文字。
 
 bigot

@@ -163,6 +163,8 @@ The street has been altered beyond recognition and the pub name survives.
 词族：
 alteration = 改动
 unaltered = 未经改动的
+The recipe has come down unaltered and tastes of another century.
+= 那个方子原样传了下来，吃着是上一个世纪的味道。
 注意区别：
 alter 局部修改（原物还在）
 change 改变、更换（可能换掉）

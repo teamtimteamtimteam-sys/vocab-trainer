@@ -625,3 +625,5 @@ behavioral = 行为的（美式拼法）
 词族：
 behave = 表现、举止
 misbehave = 行为不端
+The dog misbehaves only when there is somebody to appreciate it.
+= 那条狗只在有人看得懂的时候才捣乱。

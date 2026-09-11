@@ -14479,6 +14479,8 @@ algorithm
 search algorithm = 搜索算法
 词族：
 algorithmic = 算法的
+An algorithmic decision is harder to appeal than a human one.
+= 算法作出的决定，比人作的更难申诉。
 常用搭配：
 recommendation algorithm = 推荐算法
 The recommendation algorithm shows her the same four things all week.
@@ -14772,6 +14774,8 @@ neutral = 中性的
 词族：
 alkali = 碱
 alkalinity = 碱度
+The alkalinity of that soil is why nothing blue will grow.
+= 那片土的碱度，正是蓝色花种不活的原因。
 
 alkaloid
 核心：化学名词，指"生物碱"——植物里含氮的一类化合物，多半味苦、
@@ -15172,6 +15176,8 @@ all-round = 全能的、全面的（英式）
 all-around = 全能的、全面的（美式）
 词族：
 all-rounder = 多面手（英式）
+An all-rounder bats at six, bowls at first change and fields everywhere.
+= 多面手排第六位击球，第一次换人时投球，守哪儿都行。
 
 all-star
 核心：形容词，指"全明星的"——阵容里都是名角或顶尖选手。
@@ -15293,6 +15299,8 @@ the alleged = 所谓的、涉嫌的
 词族：
 allegation = 指控
 allegedly = 据称
+The money allegedly went to a charity that nobody has ever found.
+= 那笔钱据称给了一家慈善机构，可谁也没找着过。
 注意：alleged 放在名词前
 表示"尚未证实的"。
 
@@ -15312,6 +15320,8 @@ alleged offence = 被指控的罪行
 allege = 指称
 allegation = 指控
 allegedly = 据称
+She allegedly left at four and the camera says half past.
+= 据称她四点走的，摄像头显示是四点半。
 注意：alleged 只作定语。
 副词 allegedly：副词，"据称、据说"，用来把话和自己撇清。新闻和法律写作里 高频，位置灵活，常放在动词前。
 ④ He allegedly took the money and paid it back before anyone asked.
@@ -16053,6 +16063,8 @@ an almighty crash = 巨大的撞击声
 an almighty fuss = 天大的吵闹
 词族：
 might = 力量
+The might of that empire ran out at a river nobody remembers.
+= 那个帝国的力量，耗尽在一条没人记得的河边。
 注意：口语义只作定语，
 用来夸张地加强名词。
 
@@ -16089,6 +16101,8 @@ hospital almoner = 医院医务社工
 词族：
 alms = 救济品、施舍
 almshouse = 救济院
+The almshouse takes six residents and has done since 1640.
+= 那所救济院住六个人，自一六四〇年起就是这个数。
 
 almost
 核心：指"接近但没到"，差一点点。跟 nearly 基本同义，真正的分工
@@ -16382,6 +16396,8 @@ alphabetical order = 字母顺序
 词族：
 alphabetical = 按字母顺序的
 alphabetically = 按字母顺序地
+The shelves run alphabetically and the good books sit at floor level.
+= 架子按字母顺序排，好书都在贴地那一层。
 ④ The soup is alphabetic chaos and the children fish out their own initials.
 = 那锅汤字母乱成一团，孩子们把自己名字的首字母捞出来。
 alphabetic = 字母的、按字母顺序的
@@ -16406,6 +16422,8 @@ alphabetical list = 字母序清单
 词族：
 alphabet = 字母表
 alphabetically = 按字母顺序地
+Sorting the names alphabetically put four cousins in a row.
+= 名字按字母顺序一排，四个表亲挨到了一块儿。
 近义对照：
 alphabetical = 按字母序
 chronological = 按时间序
@@ -16655,6 +16673,8 @@ The street has been altered beyond recognition and the pub name survives.
 词族：
 alteration = 改动
 unaltered = 未经改动的
+The recipe has come down unaltered and tastes of another century.
+= 那个方子原样传了下来，吃着是上一个世纪的味道。
 注意区别：
 alter 局部修改（原物还在）
 change 改变、更换（可能换掉）
@@ -17466,6 +17486,8 @@ ambience / ambiance 都可以
 词族：
 ambient = 周围的
 ambient music = 氛围音乐
+Ambient music in that cafe is louder than the conversation it replaced.
+= 那家咖啡馆的氛围音乐，比它取代的谈话声还响。
 近义对照：
 ambience 场所格调（偏商业审美）
 atmosphere 气氛（通用）
@@ -17562,6 +17584,8 @@ overly ambitious = 好高骛远
 词族：
 ambition = 抱负；野心
 ambitiously = 雄心勃勃地
+The timetable was drawn up ambitiously and rewritten within a fortnight.
+= 那份时间表订得雄心勃勃，两周之内就重写了。
 
 ambivalence
 核心：指对同一事物同时抱有两种相反感受的"矛盾心理"，
@@ -17660,6 +17684,8 @@ ambulance chaser = 追着事故揽官司的律师（贬义）
 字面是"追着救护车跑"，画面很直白。
 词族：
 paramedic = 急救员
+A paramedic reached him in four minutes on a bicycle.
+= 一名急救员骑着自行车，四分钟就赶到了他身边。
 注意发音：中间那个音节读得很轻。
 
 ambulatory
@@ -32724,6 +32750,8 @@ strike an attitude = 摆出姿态
 这是最老的本义，今天多用于舞蹈与戏剧。
 词族：
 attitudinal = 态度上的
+The survey found an attitudinal change and no change in behaviour.
+= 调查发现态度上有变化，行为上一点没变。
 
 attn
 核心：书面缩写，来自 attention，用在信封、备忘录和邮件抬头上，
@@ -33187,6 +33215,8 @@ audible to = 对…来说听得见
 inaudible = 听不见的
 词族：
 audibly = 听得见地
+He sighed audibly and then denied having sighed at all.
+= 他叹了口气，声音听得见，随后又矢口否认叹过气。
 audio = 音频的
 构词：aud- 听 + -ible 可…的
 ④ Audibility drops at the back of the hall and the microphones make it worse.
@@ -33933,6 +33963,8 @@ authenticate
 authenticate a user = 验证用户身份
 词族：
 authentication = 认证
+Authentication takes nine seconds and fails twice out of every ten.
+= 认证要九秒，十次里失败两次。
 现代搭配：
 two-factor authentication = 双因素认证
 Two-factor authentication locked him out of his own account for a week.
@@ -35392,6 +35424,8 @@ there's no avoiding = 无法避免
 词族：
 avoidable = 可避免的
 unavoidable = 不可避免的
+The delay was unavoidable and the explanation took four pages.
+= 那次延误不可避免，解释写了四页。
 注意：不说 avoid to do。
 
 avoidable
@@ -35586,7 +35620,11 @@ awaken memories = 唤起回忆
 awaken interest = 引发兴趣
 词族：
 awakening = 觉醒
+The awakening came slowly and to one village at a time.
+= 那场觉醒来得很慢，一个村子一个村子地来。
 a rude awakening = 猛然醒悟（残酷现实）
+A rude awakening arrived with the first electricity bill of the winter.
+= 冬天头一张电费单，让人猛然醒过味来。
 近义对照：
 awaken = 唤醒（正式、可比喻）
 wake up = 醒来（口语）
@@ -35634,6 +35672,8 @@ be aware that = 意识到
 词族：
 awareness = 意识
 unaware = 未意识到的
+She walked past unaware and read about it the next morning.
+= 她毫无察觉地走了过去，第二天早上才从报上读到。
 注意：aware 不作定语，
 不说 an aware person。
 
@@ -35880,6 +35920,8 @@ awkward = 不趁手的
 awkward squad = 一群难缠的唱反调者（原指新兵中的笨拙者）
 词族：
 awkwardly = 尴尬地；笨拙地
+He sat awkwardly on a chair built for somebody much shorter.
+= 他别扭地坐在一把给矮得多的人做的椅子上。
 awkwardness = 尴尬；笨拙
 副词 awkwardly：副词，两条线：动作"笨拙地"， 和场面"尴尬地"。
 ⑨ He fell awkwardly and knew before he landed that it would need an X-ray.
@@ -45071,6 +45113,8 @@ behavioral = 行为的（美式拼法）
 词族：
 behave = 表现、举止
 misbehave = 行为不端
+The dog misbehaves only when there is somebody to appreciate it.
+= 那条狗只在有人看得懂的时候才捣乱。
 
 behead
 核心：指"斩首"——把头砍下来，作为处决方式。
@@ -47618,6 +47662,8 @@ on the bias = 沿布料斜纹方向
 词族：
 biased = 有偏见的
 unbiased = 不偏不倚的
+An unbiased account of that match does not exist in either town.
+= 关于那场比赛不偏不倚的说法，两个镇上都找不着。
 ⑦ She wore a bias-cut satin dress that showed every seam she had mended.
 = 她穿一条斜裁缎裙，补过的每道缝都看得见。
 bias-cut = 斜裁的
@@ -47658,6 +47704,8 @@ decathlon 是十项。它的看点在于滑到心跳飞快时还要稳住手打�
 penalty loop = 罚圈
 词族：
 biathlete = 冬季两项运动员
+A biathlete skis until the heart races and then must shoot straight.
+= 冬季两项运动员滑到心跳狂飙，接着还得把枪打准。
 同族：
 triathlon = 铁人三项
 pentathlon = 五项全能
@@ -47754,6 +47802,8 @@ biblical scholarship = 圣经学术研究
 词族：
 Bible = 圣经
 biblically = 按圣经地
+The sermon read the passage biblically and the audience read it otherwise.
+= 那场布道按圣经来解那一段，听众解的是另一套。
 
 bibliographer
 核心：研究和编制书目的人——考订一本书有哪些版本、什么时候印的、
@@ -47835,6 +47885,8 @@ Francophile = 亲法者
 audiophile = 发烧友
 词族：
 bibliomania = 藏书癖（调侃说法）
+His bibliomania filled four rooms and one very reluctant garage.
+= 他的藏书癖塞满四个房间，外加一个极不情愿的车库。
 
 bibulous
 核心：书面且带戏谑的词，指人"贪杯的、爱喝酒的"。词源是拉丁语的
@@ -47908,6 +47960,8 @@ bicarbonate of soda = 小苏打（英式全称）
 注意语域：正式化学名，口语说 bicarb 或 baking soda。
 词族：
 carbonate = 碳酸盐
+Carbonate in that water furs a kettle in about nine months.
+= 那种水里的碳酸盐，九个月左右就把水壶结满水垢。
 
 bicentenary
 核心：英式说法，指"二百周年"及其纪念活动。构词是 bi-（二）加
@@ -48498,6 +48552,8 @@ big up = 吹捧、力挺（英式俚语）
 big wheel = 摩天轮（英式）；也指要人、大人物
 词族：
 biggish = 略大的
+A biggish dog in a smallish flat suits neither of them.
+= 一条略大的狗住一套略小的房子，对谁都不合适。
 bigness = 大（性质）
 注意：big 不能修饰不可数名词说数量，
 说 a large amount 不说 a big amount。
@@ -48787,6 +48843,8 @@ bigness
 词族：
 big = 大的
 size = 大小（中性，常用）
+The size of the thing is why nobody has moved it since.
+= 就因为那东西的大小，此后没人挪动过它。
 注意语域：少见，多用于评论文字。
 
 bigot
@@ -49485,6 +49543,8 @@ billions of = 数十亿的（泛指大量）
 词族：
 billionaire = 亿万富翁
 trillion = 万亿
+A trillion is a thousand billion and nobody pictures either.
+= 一万亿是一千个十亿，可哪个也想象不出来。
 
 billionaire
 核心：指身家超过十亿的人。构词是 billion 加 -aire，
@@ -49501,6 +49561,8 @@ self-made = 白手起家的
 注意量级：billionaire 是 millionaire 的一千倍。
 词族：
 millionaire = 百万富翁
+A millionaire in 1960 and a millionaire now are different animals.
+= 一九六〇年的百万富翁，跟如今的百万富翁不是一回事。
 billion = 十亿
 
 billow
@@ -49522,6 +49584,8 @@ billow out = 鼓胀起来
 billows of = 一团团涌起的
 词族：
 billowing = 翻滚的、鼓胀的
+A billowing curtain in that doorway means the back door is open.
+= 门洞里的帘子鼓胀翻滚，说明后门开着。
 
 billy
 核心：两条线，来路不同。澳新英语里指野外烧水的"铁皮罐"——

@@ -390,6 +390,8 @@ algorithm
 search algorithm = 搜索算法
 词族：
 algorithmic = 算法的
+An algorithmic decision is harder to appeal than a human one.
+= 算法作出的决定，比人作的更难申诉。
 常用搭配：
 recommendation algorithm = 推荐算法
 The recommendation algorithm shows her the same four things all week.

@@ -10,6 +10,8 @@ authenticate
 authenticate a user = 验证用户身份
 词族：
 authentication = 认证
+Authentication takes nine seconds and fails twice out of every ten.
+= 认证要九秒，十次里失败两次。
 现代搭配：
 two-factor authentication = 双因素认证
 Two-factor authentication locked him out of his own account for a week.

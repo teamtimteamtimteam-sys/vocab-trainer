@@ -53,6 +53,8 @@ biodegrade = 被微生物分解（分子结构真的变了）
 disintegrate = 碎成小块（结构没变）
 词族：
 biodegradation = 生物降解（那个过程）
+Biodegradation of that bag takes four hundred years in a landfill.
+= 那种袋子在填埋场里的生物降解，要四百年。
 
 biodiesel
 核心：用植物油或动物脂肪做的柴油替代燃料。不可数。按掺混比例标号，
@@ -317,6 +319,8 @@ biological warfare = 生物战（拿病原体当武器打仗）
 构词：biology 生物学 + -al 的
 词族：
 biologically = 从生物学角度；生理上
+Biologically the two look identical and behave nothing alike.
+= 从生物学上看那两者一模一样，行为却毫不相似。
 副词 biologically：副词，两个用法：一是"从生物学上说"，给整句定角度，多放句首； 二是"在生理上"，修饰后面的形容词。
 ⑧ Biologically, the two are the same species, whatever the breeders call them.
 = 从生物学上说，这两者是同一个物种，不管育种的人叫它们什么。
@@ -379,6 +383,8 @@ glow with bioluminescence = 泛着生物荧光
 构词：bio- 生物 + luminescence 发光
 词族：
 bioluminescent = 会发生物光的
+A bioluminescent bay glows when you swim and not when you photograph.
+= 会发生物光的海湾，你游泳时它发光，拍照时就不发。
 
 biomass
 核心：两支。生态学上指一片地方生物体的总量，按重量算；能源上指
