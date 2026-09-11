@@ -33499,6 +33499,18 @@ a gecko crosses something = 壁虎爬过某处
 = 那间厨房里住着四只壁虎，已经没人介意了。
 geckos = 壁虎
 
+geddit
+核心：（英式，非正式）「懂了吧？」：get it 的走音写法，
+专门跟在一个自以为高明的双关或笑话后面，半是催人捧场半是自嘲。
+只出现在书面的轻松语境里，正式行文绝不用。
+① He called the barber's Curl Up and Dye, geddit, and put it on a sign.
+= 他给理发店起名叫「卷起来去死」—— 懂了吧 —— 还写成了招牌。
+geddit = 懂了吧（跟在双关后面）
+② The pun took a second to land and somebody wrote geddit underneath.
+= 那个双关过了一秒才让人反应过来，有人在底下写了句「懂了吧」。
+write geddit underneath = 在底下补一句「懂了吧」
+注意语域：只用于玩笑口吻的书面语，说出来时其实还是 get it。
+
 gee
 核心：三支（非正式）。一是表示惊讶或赞叹的感叹：gee, that was quick；
 二是 gee up，催马快走；三是（美）gee whizz 那类温和的惊叹。
@@ -33681,6 +33693,19 @@ geminate a consonant = 使辅音加倍
 = 叠音写成双字母，读得长。
 geminates = 叠音形式
 
+Gemini
+核心：两支。一是双子座：黄道十二宫的第三宫，也指这个星座下出生的人；
+二是天文学里的双子星座。可数，指人时说 a Gemini 或 she is a Gemini。
+① She is a Gemini and blames every change of mind on the stars.
+= 她是双子座，每次改主意都推给星象。
+be a Gemini = 是双子座的人
+② Gemini runs from late May to late June and the magazines never agree.
+= 双子座从五月下旬到六月下旬，杂志上说的日期从来对不上。
+Gemini = 双子座
+③ Two bright stars in Gemini are easy to find and hard to tell apart.
+= 双子座里有两颗亮星，好找，却难分清哪颗是哪颗。
+in Gemini = 在双子座里
+
 gen
 核心：三支（英，非正式）。一是内情、要点：the gen on something；
 二是动词短语 gen up，事先弄清楚；三是（军队用语）情况通报。
@@ -33732,29 +33757,3 @@ be gendered = 按性别划分
 ③ A gendered reading of that story finds a different ending.
 = 从性别角度读那个故事，读出的是另一个结局。
 a gendered reading = 性别视角的解读
-
-gene
-核心：三支。一是基因：a dominant gene；二是遗传下来的某种特质：it runs in the genes；
-三是（研究里）被定位的那一段序列。
-① A dominant gene shows up whether the other one is there or not.
-= 显性基因不管另一个在不在，都会显出来。
-a dominant gene = 显性基因
-② Bad tempers run in the genes in that family and so do good teeth.
-= 那家人的坏脾气是遗传的，好牙口也是。
-run in the genes = 家族遗传
-③ The gene was located in 1993 and the treatment is still not here.
-= 那个基因 1993 年就定位了，疗法至今没有。
-locate a gene = 定位基因
-
-genealogical
-核心：三支。一是家谱的、系谱的：a genealogical table；
-二是（研究）追溯世系的；三是（引申）追本溯源的。
-① A genealogical table on that wall stops in 1911 for no reason.
-= 墙上那张家谱表在 1911 年莫名其妙就断了。
-a genealogical table = 家谱表
-② Genealogical research turned up two families with the same name.
-= 系谱研究查出两家同姓人家。
-genealogical research = 系谱研究
-③ A genealogical account of that idea takes it back three centuries.
-= 对那个观念追本溯源，能追到三个世纪前。
-a genealogical account = 追本溯源的梳理
