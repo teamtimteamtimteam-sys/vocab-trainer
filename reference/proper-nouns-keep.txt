@@ -685,3 +685,70 @@ French window
 Frenchman
 Frenchwoman
 Friesian
+
+# ============================================================
+# G 段（2026-09-11 补登，动笔进 g 段之前做）
+# 清单里 G 打头的大写词头 199 条，按 F 段同一把尺子过：
+# 纯人名（Gavin、Gertrude、Gwendoline）、纯地名（Gatwick、Gloucestershire）、
+# 商标（Google™、Gatorade™、Guinness™）、全大写缩写（GDP、GPS、GCSE）
+# 一律不收；已成通名的表达、族群语言、学科与文化概念全收。
+# ============================================================
+
+# --- 字母构成的普通名词 ---
+G spot
+G-man
+G-string
+
+# --- 文化、时代与学科概念 ---
+Gaia
+Gallicism
+Gallup poll
+Gantt chart
+Geiger counter
+Gemini
+Gnosticism
+God-fearing
+God-given
+Gordian knot
+Gothic
+Gothic novel
+Gregorian calendar
+Gregorian chant
+Grexit
+
+# --- 族群、语言与宗教 ---
+Gaelic
+Gallic
+Gambian
+Gandhian
+Ghanaian
+Glaswegian
+Goidelic
+Grecian
+Greek
+Guatemalan
+Guinean
+Gujarati
+Gurkha
+Guyanese
+Gypsy
+Gipsy
+Geordie
+German
+Germanic
+
+# --- 已成通名的品种、食物与物品 ---
+Gaelic football
+German measles
+German shepherd
+Gorgonzola
+Gouda
+Grecian nose
+Greek cross
+Greek salad
+Greenwich
+Greyhound bus
+Gruyère
+Guernsey
+Gulag
+Gullah
