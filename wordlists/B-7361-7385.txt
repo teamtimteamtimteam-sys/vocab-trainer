@@ -26,6 +26,8 @@ empty
 = 那套房空了两年，一个下午就卖掉了。
 empty = 空的
 an empty seat = 空座位
+One empty seat in the front row made the whole hall look empty.
+= 前排一个空座位，把整个礼堂衬得空荡荡的。
 ② An empty promise costs nothing until somebody writes it down.
 = 空口的许诺不花钱，除非有人把它记下来。
 an empty promise = 空头承诺
@@ -33,6 +35,8 @@ an empty promise = 空头承诺
 = 她把抽屉倒在床上，又把一半放了回去。
 empty something = 把某物倒空
 empty out = 腾空
+The square empties out at six and fills again after the cinema.
+= 广场六点腾空下来，散场以后又满起来。
 ④ Never take those tablets on an empty stomach.
 = 那种药千万别空着肚子吃。
 on an empty stomach = 空腹
@@ -49,6 +53,8 @@ empty-headed = 没头脑的
 = 空巢期持续了三个月，随后有两个搬了回来。
 an empty nest = 空巢（子女离家后的家）
 an empty nester = 子女离家后的父母
+Two empty nesters bought a dog and named it after their son.
+= 一对子女离家的父母买了条狗，用儿子的名字给它取名。
 副词 emptily：空洞地、不走心地：说话或笑得没有内容。用得少。
 ⑨ He smiled emptily and repeated the sentence from the leaflet.
 = 他空洞地笑了笑，把传单上那句话又念了一遍。
@@ -84,6 +90,8 @@ emulation
 = 那个奖本意是鼓励后人效法，实际上主要鼓励了申报。
 emulation = 效法、仿效
 worthy of emulation = 值得效法的
+The obituary called his patience worthy of emulation and left out the temper.
+= 讣文说他的耐心值得效法，脾气那一面没提。
 ② Emulation runs the old software at a quarter of the speed and nobody minds.
 = 仿真跑那套老软件只有四分之一的速度，也没人计较。
 emulation = （计算机）仿真
@@ -95,6 +103,8 @@ emulator
 = 那个仿真器把老主机模拟得够真，连当年那些毛病也一并回来了。
 an emulator = 仿真器
 run an emulator = 跑一个仿真器
+Museums run an emulator because the original machines die a little every year.
+= 博物馆跑仿真器，因为原来那些机器每年都衰坏一点。
 ② A terminal emulator is what lets a modern laptop talk to a machine from 1984.
 = 终端仿真器让现在的笔记本能跟一台一九八四年的机器对话。
 a terminal emulator = 终端仿真器
@@ -107,6 +117,8 @@ emulsifier
 = 那种乳化剂能让酱汁四个钟头不澥。
 an emulsifier = 乳化剂
 a natural emulsifier = 天然乳化剂
+Mustard is a natural emulsifier and half a spoon holds the dressing together.
+= 芥末是天然乳化剂，半勺就能让沙拉汁不分层。
 ② Two emulsifiers on the label are what make the ice cream so smooth.
 = 配料表上那两种乳化剂，正是冰淇淋这么细腻的原因。
 emulsifiers = 乳化剂（复数）
@@ -119,6 +131,8 @@ emulsify
 = 油要慢慢加，不然那个酱根本乳化不起来。
 emulsify = 乳化
 emulsify into something = 乳化成…
+Whisked hard, the butter and stock emulsify into a sauce that coats the spoon.
+= 用力打，黄油和高汤乳化成一种能挂住勺子的酱。
 ② The yolk emulsifies the oil and one drop too fast undoes the lot.
 = 蛋黄把油乳化住，快滴一滴就全前功尽弃。
 emulsify something = 使某物乳化
@@ -130,10 +144,14 @@ emulsion
 = 乳浊液一停下搅拌就开始分层。
 an emulsion = 乳浊液
 a stable emulsion = 稳定的乳浊液
+Lecithin turns oil and water into a stable emulsion that lasts for weeks.
+= 卵磷脂把油和水变成稳定的乳浊液，能放好几周。
 ② Two coats of emulsion covered the marks and the third one was for luck.
 = 两遍乳胶漆盖住了印子，刷第三遍是图个安心。
 emulsion paint = 乳胶漆
 a coat of emulsion = 一遍乳胶漆
+A coat of emulsion dries in two hours and shows every patch underneath.
+= 一遍乳胶漆两个钟头就干，底下每一块修补痕都露出来。
 
 enable
 核心：两支。一是使能够、让…成为可能：enable somebody to do something；

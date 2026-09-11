@@ -127,6 +127,8 @@ email
 = 她一天处理两次邮件，其余时间一概不理。
 email = 电子邮件（系统）
 send an email = 发一封邮件
+He sent an email at two in the morning and apologised for it later.
+= 他凌晨两点发了一封邮件，后来为此道了歉。
 ② Email me the address and I will forward it to the office.
 = 把地址发邮件给我，我转到办公室去。
 email somebody something = 把某物用邮件发给某人
@@ -243,6 +245,8 @@ embargo
 = 那次禁运持续了十一年，货照样进来了。
 an embargo = 禁运
 impose an embargo on something = 对某物实行禁运
+Three countries imposed an embargo on the timber and the price went up.
+= 三个国家对那批木材实行禁运，价格反倒涨了。
 ② The report is under embargo until Thursday morning.
 = 那份报告到周四早上之前禁止发布。
 be under embargo = 处在发布禁令之下
@@ -257,6 +261,8 @@ embark = 上船、登机
 = 她五十岁着手读博士，五十四岁读完。
 embark on something = 着手做某事
 embark upon something = 同 embark on，更正式些
+The town embarked upon a rebuilding programme that outlived the council behind it.
+= 那个镇着手一项重建工程，工程比发起它的那届议会活得还久。
 
 embarkation
 核心：上船、登机：登船登机这件事，也指办手续的过程。不可数。

@@ -42198,6 +42198,8 @@ email
 = 她一天处理两次邮件，其余时间一概不理。
 email = 电子邮件（系统）
 send an email = 发一封邮件
+He sent an email at two in the morning and apologised for it later.
+= 他凌晨两点发了一封邮件，后来为此道了歉。
 ② Email me the address and I will forward it to the office.
 = 把地址发邮件给我，我转到办公室去。
 email somebody something = 把某物用邮件发给某人
@@ -42314,6 +42316,8 @@ embargo
 = 那次禁运持续了十一年，货照样进来了。
 an embargo = 禁运
 impose an embargo on something = 对某物实行禁运
+Three countries imposed an embargo on the timber and the price went up.
+= 三个国家对那批木材实行禁运，价格反倒涨了。
 ② The report is under embargo until Thursday morning.
 = 那份报告到周四早上之前禁止发布。
 be under embargo = 处在发布禁令之下
@@ -42328,6 +42332,8 @@ embark = 上船、登机
 = 她五十岁着手读博士，五十四岁读完。
 embark on something = 着手做某事
 embark upon something = 同 embark on，更正式些
+The town embarked upon a rebuilding programme that outlived the council behind it.
+= 那个镇着手一项重建工程，工程比发起它的那届议会活得还久。
 
 embarkation
 核心：上船、登机：登船登机这件事，也指办手续的过程。不可数。
@@ -42366,6 +42372,8 @@ embarrassing
 = 随后那阵沉默让所有人都尴尬，只有讲话的那位不觉得。
 embarrassing = 令人尴尬的
 an embarrassing mistake = 丢人的错误
+One embarrassing mistake in the first paragraph and nobody read the rest.
+= 头一段里一个丢人的错误，后面就没人往下读了。
 ② It is embarrassing to be thanked for something you did not do.
 = 为自己没做过的事被人道谢，怪难为情的。
 be embarrassing = 让人难堪
@@ -42399,6 +42407,8 @@ embassy
 = 大使馆一周三个上午办签证，中午就关门。
 an embassy = 大使馆
 the British Embassy = 英国大使馆
+The British Embassy moved to a quieter street and kept the old railings.
+= 英国大使馆搬到了一条更安静的街上，旧栏杆留着没换。
 ② The whole embassy was evacuated in one night and reopened in a hotel.
 = 整个大使馆一夜之间撤空，在一家旅馆里重新开张。
 evacuate an embassy = 撤离大使馆
@@ -42444,6 +42454,8 @@ embellish
 = 封面上镶着金饰，一摸就沾手。
 embellish something = 给某物添饰
 be embellished with something = 饰有某物
+The gates are embellished with ironwork that two smiths spent a winter on.
+= 那些大门上饰有铁艺，两个铁匠做了一整个冬天。
 ② He embellishes every story and the core of it is usually true.
 = 他讲什么都要添油加醋，可事情的核儿通常是真的。
 embellish a story = 给故事添油加醋
@@ -42460,6 +42472,8 @@ an embellishment = 装饰、点缀
 = 把那些添枝加叶去掉，那份叙述是准的。
 embellishments = 添枝加叶的成分
 without embellishment = 不加修饰地
+She told it without embellishment and it was worse that way.
+= 她不加修饰地讲了出来，那样反而更难听。
 
 ember
 核心：余烬：火将熄时仍红着的炭块，多用复数 embers。可数。
@@ -42467,6 +42481,8 @@ ember
 = 到七点余烬还温着，添一根柴就把火重新点起来了。
 embers = 余烬
 the dying embers = 将熄的余烬
+He watched the dying embers and put off going upstairs for another hour.
+= 他望着将熄的余烬，又把上楼的事拖了一个钟头。
 ② An ember jumped the guard and burnt a hole in the rug.
 = 一块火炭蹦过挡板，在地毯上烧了个洞。
 an ember = 一块火炭
@@ -42479,6 +42495,8 @@ embezzle
 = 她小额挪用了九年，最后来了一笔大的。
 embezzle money = 挪用公款
 embezzle funds = 挪用资金
+Nobody embezzles funds on the first day; it starts with a loan to themselves.
+= 没有人头一天就挪用资金，都是从借给自己一笔开始的。
 ② The money was embezzled by somebody who signed off the audit as well.
 = 挪走那笔钱的人，同时也是在审计上签字的人。
 be embezzled = 被侵吞
@@ -42490,6 +42508,8 @@ embezzlement
 = 挪用公款多半是偶然被发现的，不是审计查出来的。
 embezzlement = 挪用公款
 a case of embezzlement = 一桩挪用公款案
+A case of embezzlement takes four years to try and nine minutes to explain.
+= 一桩挪用公款案要审四年，讲清楚只要九分钟。
 ② He was convicted of embezzlement and kept the pension anyway.
 = 他因挪用公款被定罪，养老金倒还保住了。
 be convicted of embezzlement = 因挪用公款被定罪
@@ -42501,6 +42521,8 @@ embezzler
 = 那个挪用公款的人做两套账，桌面还收拾得极整齐。
 an embezzler = 挪用公款者
 a convicted embezzler = 已定罪的挪用者
+A convicted embezzler cannot be a company director for fifteen years.
+= 已定罪的挪用者十五年内不得担任公司董事。
 ② Most embezzlers are found out by an illness or a holiday.
 = 多数挪用公款的人，是因为一场病或一次休假露的馅。
 embezzlers = 侵吞公款者（复数）
@@ -42512,6 +42534,8 @@ embitter
 = 二十年里一次次小小的拒绝，比那一次大的更让他生怨。
 embitter somebody = 使某人心怀怨恨
 embitter relations = 使关系交恶
+The tariff embittered relations between two countries that had traded for centuries.
+= 那道关税让两个通商了几百年的国家关系交恶。
 ② A dispute over a wall embittered the whole street for a generation.
 = 一堵墙引出的纠纷，让整条街结怨了一代人。
 be embittered by something = 因某事心里发苦
@@ -42523,6 +42547,8 @@ embittered
 = 唯一那篇差评，是一位心怀怨恨的旧合伙人写的。
 an embittered person = 满腹怨气的人
 an embittered tone = 满是怨气的口吻
+He answered in an embittered tone and then apologised for the tone.
+= 他用满是怨气的口吻答了话，随后又为那个口吻道歉。
 ② She left embittered and came back twelve years later to teach.
 = 她带着怨气离开，十二年后回来教书。
 be embittered = 心怀怨愤
@@ -42544,6 +42570,8 @@ emblem
 = 橡树叶是一个一年聚两次的社团的标志。
 an emblem = 象征、标志
 a national emblem = 国家的象征
+The bird on the coin is a national emblem and nearly extinct.
+= 硬币上那只鸟是国家的象征，却已濒临灭绝。
 ② The empty chair became an emblem of everything the family could not say.
 = 那把空椅子，成了这家人说不出口的一切的象征。
 an emblem of something = 某物的象征
@@ -42555,6 +42583,8 @@ emblematic
 = 门外那条队，正是一套把人数了两遍的制度的写照。
 be emblematic of something = 是某事的典型体现
 an emblematic case = 标志性的案例
+Lawyers call it an emblematic case and the family calls it their life.
+= 律师管它叫标志性的案例，那家人管它叫自己的日子。
 ② The photograph became emblematic and the man in it was never named.
 = 那张照片成了标志性的图像，里头那个人却始终没被指名。
 emblematic = 具有象征意味的
@@ -42566,6 +42596,8 @@ embodiment
 = 他简直是耐心的化身，除非有人动他的工具。
 the embodiment of something = 某物的化身
 the very embodiment of something = 简直就是某物的化身
+The old porter was the very embodiment of the college and remembered every name.
+= 那位老门房简直就是那所学院的化身，每个名字他都记得。
 ② The building is the embodiment of an idea about how people should queue.
 = 那栋楼是一种「人该怎么排队」的观念的具体化。
 an embodiment = 具体体现
@@ -42578,6 +42610,8 @@ a treaty that embodies four principles。过去式 embodied。
 = 招生简章上说的她全占了，其中一半是真的。
 embody something = 体现某种品质
 embody a principle = 体现一条原则
+The rule embodies a principle nobody in the office can state out loud.
+= 那条规定体现着一条原则，办公室里谁也说不清它究竟是什么。
 ② The treaty embodies four principles and enforces none of them.
 = 那份条约写进了四条原则，一条也没落实。
 embody something = 把某物纳入其中
@@ -42589,6 +42623,8 @@ embolden
 = 两场轻松的胜仗给他们壮了胆，做出一个把整季赔进去的计划。
 embolden somebody = 给某人壮胆
 feel emboldened = 觉得有了底气
+She felt emboldened after the first letter and wrote three more that week.
+= 头一封信之后她觉得有了底气，那周又写了三封。
 ② Emboldened by the silence, he asked the question everyone had avoided.
 = 那阵沉默给他壮了胆，他问出了人人回避的那个问题。
 be emboldened by something = 因某事胆子大起来
@@ -42600,6 +42636,8 @@ embolism
 = 长途飞行加上更久的久坐，之后可能来一次肺栓塞。
 a pulmonary embolism = 肺栓塞
 an air embolism = 空气栓塞
+Divers come up slowly because rising fast risks an air embolism.
+= 潜水员上浮要慢，浮得太快有空气栓塞的危险。
 ② The embolism was found on the second scan and treated the same night.
 = 那处栓塞是第二次扫描查出来的，当晚就处理了。
 an embolism = 栓塞
@@ -42612,6 +42650,8 @@ embolus
 = 从腿上起来的栓子，可能一路走到肺里。
 an embolus = 栓子
 a fat embolus = 脂肪栓子
+A fat embolus can follow a broken thigh bone within two days.
+= 大腿骨折之后两天之内，可能出现脂肪栓子。
 ② Emboli are what the drug is meant to stop forming in the first place.
 = 那种药本就是为了从一开始就不让栓子形成。
 emboli = 栓子（复数）
@@ -42623,6 +42663,8 @@ emboss
 = 他们给封面压凸，按字母数收费。
 emboss something = 给某物压花
 emboss a logo on something = 在某物上压出标志
+They embossed the club logo on the leather and charged extra for it.
+= 他们在皮子上压出俱乐部的标志，为此另收了钱。
 ② The seal is embossed rather than printed and cannot be photocopied.
 = 那个印记是压出来的，不是印的，复印不出来。
 be embossed = 压花压凸的
@@ -42634,6 +42676,8 @@ embossed
 = 那些压凸的字母会反光，卡片上别处都不会。
 embossed letters = 压凸的字母
 an embossed cover = 压凸的封面
+An embossed cover survives a bag better than a printed one.
+= 压凸的封面比印刷的封面更经得住在包里颠。
 ② She chose embossed paper and the printer charged three times as much.
 = 她挑了压花纸，印厂收了三倍的钱。
 embossed paper = 压花纸
@@ -42646,6 +42690,8 @@ embouchure
 = 好的吹口型要练好些年，停三个星期就松了。
 an embouchure = 吹口型
 develop an embouchure = 练出吹口型
+It takes a beginner a year to develop an embouchure that holds a phrase.
+= 初学者要练一年，才练出撑得住一个乐句的吹口型。
 ② Braces changed his embouchure and he relearned the top octave.
 = 戴牙套改了他的吹口型，最高那个八度得重新练。
 somebody's embouchure = 某人的吹口型
@@ -42658,6 +42704,8 @@ embrace
 = 他们在闸口拥抱，谁也没说话。
 embrace somebody = 拥抱某人
 an embrace = 一个拥抱
+An embrace at the door settled an argument that four letters had not.
+= 门口一个拥抱，把四封信没解决的争执了结了。
 ② The department embraced the new system and abandoned it within a year.
 = 那个部门欣然接受了新系统，一年之内又弃用了。
 embrace something = 欣然接受某物
@@ -42673,6 +42721,8 @@ embrasure
 = 那些射击口对着大路，后头的墙有两米厚。
 an embrasure = 射击口
 a gun embrasure = 炮眼
+A gun embrasure on the seaward side has been bricked up since 1946.
+= 朝海那一面有个炮眼，一九四六年起就砌死了。
 ② She sat in the embrasure because it was the only place with any light.
 = 她坐在窗龛里，因为那是唯一有点光的地方。
 an embrasure = 窗龛
@@ -42684,6 +42734,8 @@ embrocation
 = 从十月到四月，更衣室里都是药油味。
 embrocation = 搽剂、药油
 a bottle of embrocation = 一瓶药油
+A bottle of embrocation lives in the kit bag and outlasts three seasons.
+= 装备袋里常年放着一瓶药油，能用过三个赛季。
 ② He rubbed embrocation into the knee and went out for the second half.
 = 他把药油揉进膝盖，出场打了下半场。
 rub embrocation into something = 把药油揉进某处
@@ -42696,6 +42748,8 @@ embroider
 = 她一个晚上把袖口绣好，第二个晚上又拆了。
 embroider something = 在某物上刺绣
 embroider a design on something = 在某物上绣出花样
+Her mother embroidered a design on every apron and never repeated one.
+= 她母亲在每条围裙上绣出花样，没有一条重样。
 ② He embroiders the ending every single time he tells it.
 = 每讲一遍，他都要给结尾添点花样。
 embroider a story = 给故事添枝加叶
@@ -42708,7 +42762,11 @@ embroidery
 = 那块布上的刺绣，两个女人绣了一整个冬天。
 embroidery = 刺绣
 an embroidery hoop = 绣绷
+An embroidery hoop keeps the cloth tight enough for the stitches to sit flat.
+= 绣绷把布绷得够紧，针脚才躺得平。
 do embroidery = 做刺绣
+She does embroidery on the train and has finished two cushions this month.
+= 她在火车上做刺绣，这个月已经绣完两个靠垫。
 ② Half the account is embroidery and the other half has a receipt.
 = 那份叙述一半是添枝加叶，另一半有收据为凭。
 embroidery = 添油加醋的成分
@@ -42720,6 +42778,8 @@ embroil
 = 两户邻居为一桩地界官司缠斗了十一年。
 be embroiled in something = 被卷入某事
 become embroiled in something = 卷进某事
+He became embroiled in a row about parking and moved house within a year.
+= 他卷进一场停车位的争执，一年之内就搬了家。
 ② He embroiled the whole department in a quarrel about a photocopier.
 = 他把整个部门都卷进了一场关于复印机的争吵。
 embroil somebody in something = 把某人卷进某事
@@ -42732,6 +42792,8 @@ embryo
 = 胚胎在第五天移植，接着又是等待。
 an embryo = 胚胎
 transfer an embryo = 移植胚胎
+The clinic will transfer one embryo now and freeze the other four.
+= 诊所这次只移植一个胚胎，另外四个冻起来。
 ② The scheme existed in embryo two years before anyone funded it.
 = 那个方案在有人出钱的两年前就已具雏形。
 in embryo = 尚在萌芽阶段
@@ -42763,6 +42825,8 @@ embryology
 = 胚胎学解释了鱼和人起初为什么长得像。
 embryology = 胚胎学
 study embryology = 学胚胎学
+She went to study embryology and stayed in the same lab for thirty years.
+= 她去学胚胎学，在同一间实验室待了三十年。
 ② Human embryology is regulated by a law with a fourteen-day line in it.
 = 人类胚胎研究受一部法律管着，里头划着十四天的界线。
 human embryology = 人类胚胎学
@@ -42774,6 +42838,8 @@ embryonic
 = 胚胎细胞几乎能变成任何东西，难处也全在这儿。
 embryonic cells = 胚胎细胞
 embryonic development = 胚胎发育
+Embryonic development follows the same order in a chicken and a person.
+= 鸡和人的胚胎发育，顺序是一样的。
 ② The plan was embryonic in March and running by September.
 = 那个计划三月还只是雏形，九月就跑起来了。
 be embryonic = 尚在雏形阶段
@@ -42795,6 +42861,8 @@ emend
 = 抄手明显打了瞌睡的地方，编者会加以校订。
 emend a text = 校订文本
 emend a manuscript = 订正抄本
+He spent two winters emending a manuscript that turned out to be a forgery.
+= 他花两个冬天订正一份抄本，后来发现那是伪作。
 ② The line was emended twice and the older reading came back in the end.
 = 那一行改动过两回，最后又用回了较早的读法。
 be emended = 被校订
@@ -42805,6 +42873,8 @@ emendation
 = 校订之处印在方括号里，原文放在脚注中。
 an emendation = 一处校订
 make an emendation = 做一处校订
+She made one emendation in forty years and defended it in three articles.
+= 四十年里她只做过一处校订，为它写了三篇文章辩护。
 ② Two emendations changed the meaning of the whole stanza.
 = 两处订正改变了整节诗的意思。
 构词：emend 加 -ation
@@ -42816,6 +42886,8 @@ emerald
 = 那枚戒指上的祖母绿又小又有瑕，却抵得上整批收藏。
 an emerald = 祖母绿
 a flawed emerald = 有瑕的祖母绿
+A flawed emerald was set into the crown because nothing better was for sale.
+= 王冠上镶的是一块有瑕的祖母绿，因为当时买不到更好的。
 ② The field is emerald in April and brown by the end of July.
 = 那片地四月一片翠绿，到七月底就枯黄了。
 emerald green = 翠绿色
@@ -42850,6 +42922,8 @@ emergency
 = 遇到紧急情况，电梯会停在最近一层并打开门。
 in an emergency = 紧急情况下
 an emergency = 紧急情况
+What the school calls an emergency turns out to be a burst pipe.
+= 学校所说的紧急情况，结果是一根水管爆了。
 ② A state of emergency was declared on Friday and lifted eleven days later.
 = 周五宣布进入紧急状态，十一天后解除。
 a state of emergency = 紧急状态
@@ -42873,6 +42947,8 @@ emergent
 = 新兴行业先招来钱，后招来规矩。
 an emergent industry = 新兴行业
 an emergent nation = 新兴国家
+An emergent nation borrows a legal system before it writes its own.
+= 新兴国家在写出自己的一套法律之前，先借用别人的。
 ② Traffic jams are an emergent property of a lot of small decisions.
 = 堵车是许许多多小决定涌现出来的结果。
 an emergent property = 涌现出来的性质
@@ -42883,6 +42959,8 @@ emerging
 = 新兴市场先拿到了钱，也把波动一并拿了去。
 emerging markets = 新兴市场
 an emerging technology = 新兴技术
+An emerging technology gets its own conference long before it gets a standard.
+= 一项新兴技术总是先有了自己的大会，很久以后才有标准。
 ② An emerging pattern in the data disappeared once the sample doubled.
 = 数据里正冒头的一个规律，样本一翻倍就没了。
 an emerging pattern = 正在显现的规律
@@ -42925,6 +43003,8 @@ emetic
 = 催吐剂做了两百年的标准疗法，害处大过好处。
 an emetic = 催吐剂
 give somebody an emetic = 给某人用催吐剂
+The vet gave the dog an emetic and the whole sock came back up.
+= 兽医给狗用了催吐剂，那只袜子整个吐了出来。
 ② He called the wallpaper emetic and repainted the room himself.
 = 他说那壁纸看得人想吐，自己动手把屋子重刷了。
 emetic = 令人作呕的
@@ -42989,6 +43069,8 @@ eminent
 = 一位著名的外科医生给那栋楼剪彩，却忘了带剪刀。
 an eminent surgeon = 著名的外科医生
 be eminent in a field = 在某领域享有盛名
+He is eminent in a field that eleven people worldwide work in.
+= 他在一个全世界只有十一个人从事的领域里享有盛名。
 ② She handled the whole week with eminent good sense.
 = 那一整周她处理得极有分寸。
 eminent good sense = 极好的见识
@@ -43039,6 +43121,8 @@ emissary
 = 一位特使带着一份条件来了，却无权把条件谈得更好。
 an emissary = 特使、密使
 send an emissary = 派出特使
+The company sent an emissary to the village and no lawyer with him.
+= 公司往那个村子派了一位特使，没让律师跟着去。
 ② Two emissaries met in a hotel neither government has admitted to.
 = 两位密使在一家旅馆碰头，两国政府都不承认有这回事。
 emissaries = 特使（复数）
@@ -43053,6 +43137,8 @@ the emission of something = 某物的排放
 = 排放量头一年降了，第三年又反弹。
 carbon emissions = 碳排放
 reduce emissions = 减少排放
+The city reduced emissions by closing one road and rerouting every bus.
+= 那座城市减少排放的办法，是封了一条路，把所有公交改道。
 
 emit
 核心：发出、放出：把光、热、气体、声音或气味释放出来。
@@ -43143,6 +43229,8 @@ an emotion = 一种情绪
 = 她不带感情地把信念了一遍，放回抽屉。
 without emotion = 不带感情地
 show emotion = 流露感情
+He does not show emotion at work and cries at every school concert.
+= 他在单位从不流露感情，学校每场汇演都要哭。
 
 emotional
 核心：三支。一是情感方面的：emotional support；
@@ -43250,6 +43338,8 @@ emperor
 = 那位皇帝设了两座都城，两座都不喜欢。
 an emperor = 皇帝
 the emperor's court = 皇帝的宫廷
+A poet at the emperor's court could lose everything over one careless line.
+= 皇帝宫廷里的诗人，可能因一句不留神的诗句失掉一切。
 ② Three emperors reigned in one year and the third one lasted.
 = 一年里换了三位皇帝，最后那位坐稳了。
 emperors = 皇帝（复数）
@@ -43264,6 +43354,8 @@ emphasis
 = 重点放在速度上，培训里一个字没提准确。
 the emphasis is on something = 重点在于某事
 put emphasis on something = 强调某事
+The new head puts emphasis on reading and has bought no books yet.
+= 新校长强调阅读，可到现在一本书也没买。
 ② She said 'later' with an emphasis that closed the subject.
 = 她说「以后再说」，那个加重的语气把话题关上了。
 with emphasis = 加重语气地
@@ -43286,6 +43378,8 @@ emphatic
 = 回答是斩钉截铁的一个「不」，那个问题六月又回来了。
 an emphatic no = 斩钉截铁的拒绝
 be emphatic about something = 对某事说得很坚决
+She was emphatic about the deadline and flexible about everything else.
+= 她对期限说得很坚决，别的什么都好商量。
 ② An emphatic win in the first leg made the second one a formality.
 = 首回合大比分取胜，让次回合成了走过场。
 an emphatic win = 大比分的胜利
@@ -43315,6 +43409,8 @@ empire
 = 那个帝国横跨四大洲，却管不住一条河。
 an empire = 帝国
 the Roman Empire = 罗马帝国
+The Roman Empire left that town a straight road and a bad drain.
+= 罗马帝国给那个镇留下一条笔直的路，和一条糟糕的下水道。
 ② She built a publishing empire from one magazine and sold it in a week.
 = 她靠一本杂志建起出版王国，一周之内卖掉了。
 a business empire = 商业王国
@@ -43339,6 +43435,8 @@ empirical
 = 是实证证据把事情定了下来，而那些证据收集了九年。
 empirical evidence = 实证证据
 an empirical study = 实证研究
+An empirical study of four hundred bakeries found what every baker already said.
+= 一项针对四百家面包房的实证研究，查出的正是每个面包师早就说过的话。
 ② The claim is plausible and has no empirical support at all.
 = 那个说法听着有理，却一点实证支持也没有。
 empirical support = 实证支持
@@ -43388,6 +43486,8 @@ employ
 = 那家厂雇了四百人，一个下午就关了。
 employ somebody = 雇用某人
 be employed as something = 受雇担任某职
+She was employed as a translator and spent most days fixing the printer.
+= 她受雇担任翻译，大半日子都在修打印机。
 ② They employed a method nobody had used since the seventies.
 = 他们用了一种七十年代以后就没人用过的方法。
 employ a method = 采用一种方法
@@ -43420,6 +43520,8 @@ employee
 = 每位员工发一张卡，五道门里能开两道。
 an employee = 雇员
 a full-time employee = 全职员工
+One full-time employee runs the whole warehouse and trains the seasonal staff.
+= 整个仓库由一名全职员工管着，季节工也由他带。
 ② Employees were told on Friday and the customers had heard on Thursday.
 = 员工是周五被告知的，顾客周四就听说了。
 employees = 员工（复数）
@@ -43440,6 +43542,8 @@ employment
 = 那个地区的就业上去了，工资一点没动。
 employment = 就业
 be in employment = 有工作
+Both parents are in employment and neither is home before seven.
+= 父母俩都有工作，谁也不会七点前到家。
 ② The employment of two more nurses changed the whole night shift.
 = 多雇两名护士，整个夜班就变了样。
 the employment of somebody = 对某人的雇用
@@ -43522,6 +43626,8 @@ empty
 = 那套房空了两年，一个下午就卖掉了。
 empty = 空的
 an empty seat = 空座位
+One empty seat in the front row made the whole hall look empty.
+= 前排一个空座位，把整个礼堂衬得空荡荡的。
 ② An empty promise costs nothing until somebody writes it down.
 = 空口的许诺不花钱，除非有人把它记下来。
 an empty promise = 空头承诺
@@ -43529,6 +43635,8 @@ an empty promise = 空头承诺
 = 她把抽屉倒在床上，又把一半放了回去。
 empty something = 把某物倒空
 empty out = 腾空
+The square empties out at six and fills again after the cinema.
+= 广场六点腾空下来，散场以后又满起来。
 ④ Never take those tablets on an empty stomach.
 = 那种药千万别空着肚子吃。
 on an empty stomach = 空腹
@@ -43545,6 +43653,8 @@ empty-headed = 没头脑的
 = 空巢期持续了三个月，随后有两个搬了回来。
 an empty nest = 空巢（子女离家后的家）
 an empty nester = 子女离家后的父母
+Two empty nesters bought a dog and named it after their son.
+= 一对子女离家的父母买了条狗，用儿子的名字给它取名。
 副词 emptily：空洞地、不走心地：说话或笑得没有内容。用得少。
 ⑨ He smiled emptily and repeated the sentence from the leaflet.
 = 他空洞地笑了笑，把传单上那句话又念了一遍。
@@ -43580,6 +43690,8 @@ emulation
 = 那个奖本意是鼓励后人效法，实际上主要鼓励了申报。
 emulation = 效法、仿效
 worthy of emulation = 值得效法的
+The obituary called his patience worthy of emulation and left out the temper.
+= 讣文说他的耐心值得效法，脾气那一面没提。
 ② Emulation runs the old software at a quarter of the speed and nobody minds.
 = 仿真跑那套老软件只有四分之一的速度，也没人计较。
 emulation = （计算机）仿真
@@ -43591,6 +43703,8 @@ emulator
 = 那个仿真器把老主机模拟得够真，连当年那些毛病也一并回来了。
 an emulator = 仿真器
 run an emulator = 跑一个仿真器
+Museums run an emulator because the original machines die a little every year.
+= 博物馆跑仿真器，因为原来那些机器每年都衰坏一点。
 ② A terminal emulator is what lets a modern laptop talk to a machine from 1984.
 = 终端仿真器让现在的笔记本能跟一台一九八四年的机器对话。
 a terminal emulator = 终端仿真器
@@ -43603,6 +43717,8 @@ emulsifier
 = 那种乳化剂能让酱汁四个钟头不澥。
 an emulsifier = 乳化剂
 a natural emulsifier = 天然乳化剂
+Mustard is a natural emulsifier and half a spoon holds the dressing together.
+= 芥末是天然乳化剂，半勺就能让沙拉汁不分层。
 ② Two emulsifiers on the label are what make the ice cream so smooth.
 = 配料表上那两种乳化剂，正是冰淇淋这么细腻的原因。
 emulsifiers = 乳化剂（复数）
@@ -43615,6 +43731,8 @@ emulsify
 = 油要慢慢加，不然那个酱根本乳化不起来。
 emulsify = 乳化
 emulsify into something = 乳化成…
+Whisked hard, the butter and stock emulsify into a sauce that coats the spoon.
+= 用力打，黄油和高汤乳化成一种能挂住勺子的酱。
 ② The yolk emulsifies the oil and one drop too fast undoes the lot.
 = 蛋黄把油乳化住，快滴一滴就全前功尽弃。
 emulsify something = 使某物乳化
@@ -43626,10 +43744,14 @@ emulsion
 = 乳浊液一停下搅拌就开始分层。
 an emulsion = 乳浊液
 a stable emulsion = 稳定的乳浊液
+Lecithin turns oil and water into a stable emulsion that lasts for weeks.
+= 卵磷脂把油和水变成稳定的乳浊液，能放好几周。
 ② Two coats of emulsion covered the marks and the third one was for luck.
 = 两遍乳胶漆盖住了印子，刷第三遍是图个安心。
 emulsion paint = 乳胶漆
 a coat of emulsion = 一遍乳胶漆
+A coat of emulsion dries in two hours and shows every patch underneath.
+= 一遍乳胶漆两个钟头就干，底下每一块修补痕都露出来。
 
 enable
 核心：两支。一是使能够、让…成为可能：enable somebody to do something；
