@@ -32,3 +32,17 @@ def prefix(headword, n=2):
     a priori 的首词是 a，归到 a 段而不是 ap 段。"""
     first = sort_key(headword)[0]
     return first[:n] if len(first) >= n else first
+
+
+def numsort(paths):
+    """按文件名里的数字大小排序，不按字符串排（2026-09-11 加）。
+
+    B 表过一万条之后，批次文件出现 B-10011-10035.txt 这样的五位数名字。
+    字符串排序会把它排在 B-9986 之前（'1' < '9'），于是 renumber、
+    resplit、merge-wordlist、check-merged 全都按错误的顺序读文件，
+    合并文件的编号连续性检查当场报「跳号」。
+    凡是枚举 wordlists/ 下批次文件的地方，一律用这个函数取代 sorted()。"""
+    import re as _re
+    def key(p):
+        return [int(x) if x.isdigit() else x for x in _re.split(r'(\d+)', p)]
+    return sorted(paths, key=key)

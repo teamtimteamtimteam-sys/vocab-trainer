@@ -5,13 +5,15 @@
 用法：脚本里 import，或命令行 add-sense.py 词头 例句 译文 等式 [讲解行]
 """
 import sys, io, glob, importlib.util as u
+sys.path.insert(0, 'scripts')
+from wordkey import numsort
 spec = u.spec_from_file_location('cw', 'scripts/check-wordlist.py')
 cw = u.module_from_spec(spec); spec.loader.exec_module(cw)
 NUMS = list(cw.NUMS)
 TAIL = ('构词', '注意', '辨析', '语域', '搭配')
 
 def add(head, ex, zh, eq, note=None):
-    for path in sorted(glob.glob('wordlists/B-*.txt')):
+    for path in numsort(glob.glob('wordlists/B-*.txt')):
         lines = io.open(path, encoding='utf-8').read().split('\n')
         try:
             i = next(k for k, l in enumerate(lines)

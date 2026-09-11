@@ -25,6 +25,8 @@
       python3 scripts/audit-padding.py --selftest    只跑【元评论例句】的用例
 """
 import sys, io, re, glob, unicodedata, importlib.util as u
+sys.path.insert(0, 'scripts')
+from wordkey import numsort
 spec = u.spec_from_file_location('cw', 'scripts/check-wordlist.py')
 cw = u.module_from_spec(spec); spec.loader.exec_module(cw)
 NUMS = set(cw.NUMS)
@@ -251,7 +253,7 @@ def metatalk(head, ex):
     return list(dict.fromkeys(frames)) or None
 
 def entries():
-    for p in [f for f in sorted(glob.glob('wordlists/B-*.txt')) if 'merged' not in f]:
+    for p in [f for f in numsort(glob.glob('wordlists/B-*.txt')) if 'merged' not in f]:
         for blk in io.open(p, encoding='utf-8').read().split('\n\n'):
             L = [l for l in blk.strip().split('\n') if l.strip()]
             if L: yield L[0], L

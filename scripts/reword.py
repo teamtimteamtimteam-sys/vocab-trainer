@@ -14,6 +14,8 @@
   reword('agreement', {1: ("After eighteen months …", "谈了十八个月……"), 3: (...)})
 """
 import io, re, glob, importlib.util as u
+sys.path.insert(0, 'scripts')
+from wordkey import numsort
 
 _s = u.spec_from_file_location('cw', 'scripts/check-wordlist.py')
 cw = u.module_from_spec(_s); _s.loader.exec_module(cw)
@@ -22,7 +24,7 @@ ap = u.module_from_spec(_s2); _s2.loader.exec_module(ap)
 NUMS = list(cw.NUMS)
 
 def reword(head, pairs):
-    for path in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
+    for path in numsort(glob.glob('wordlists/B-[0-9]*.txt')):
         lines = io.open(path, encoding='utf-8').read().split('\n')
         try:
             i = next(k for k, l in enumerate(lines)

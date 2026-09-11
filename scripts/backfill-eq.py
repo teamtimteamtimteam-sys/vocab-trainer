@@ -24,6 +24,8 @@ audit 脚本的输出里现成拿得到，比手写锚点文本可靠——锚�
 用法: python3 scripts/backfill-eq.py <补丁文件>
 """
 import io, glob, re, sys
+sys.path.insert(0, 'scripts')
+from wordkey import numsort
 
 NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟㊱㊲㊳㊴㊵㊶㊷㊸㊹㊺㊻㊼㊽㊾㊿" \
        "❶❷❸❹❺❻❼❽❾❿⓫⓬⓭⓮⓯⓰⓱⓲⓳⓴⓵⓶⓷⓸⓹⓺⓻⓼⓽⓾"
@@ -42,7 +44,7 @@ def main(patch):
         tasks.setdefault(w, {}).setdefault(int(no), []).append(eq)
 
     hit = {w: set() for w in tasks}
-    for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
+    for f in numsort(glob.glob('wordlists/B-[0-9]*.txt')):
         src = io.open(f, encoding='utf-8').read()
         blocks = src.split('\n\n')
         changed = False

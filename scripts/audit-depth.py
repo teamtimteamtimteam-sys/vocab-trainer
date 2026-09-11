@@ -9,7 +9,7 @@
 """
 import io, glob, sys, collections
 sys.path.insert(0, 'scripts')
-from wordkey import prefix
+from wordkey import prefix, numsort
 
 NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟㊱㊲㊳㊴㊵㊶㊷㊸㊹㊺㊻㊼㊽㊾㊿" \
        "❶❷❸❹❺❻❼❽❾❿⓫⓬⓭⓮⓯⓰⓱⓲⓳⓴⓵⓶⓷⓸⓹⓺⓻⓼⓽⓾"
@@ -17,7 +17,7 @@ NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔
 def a_rank():
     """A 词表按词频排，序号就是常用度。返回 词 -> 名次。"""
     r, n = {}, 0
-    for f in sorted(glob.glob('wordlists/A-[0-9]*.txt')):
+    for f in numsort(glob.glob('wordlists/A-[0-9]*.txt')):
         for b in io.open(f, encoding='utf-8').read().split('\n\n'):
             b = b.strip()
             if b:
@@ -26,7 +26,7 @@ def a_rank():
     return r
 
 def entries():
-    for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
+    for f in numsort(glob.glob('wordlists/B-[0-9]*.txt')):
         for b in io.open(f, encoding='utf-8').read().split('\n\n'):
             b = b.strip()
             if b: yield f, b

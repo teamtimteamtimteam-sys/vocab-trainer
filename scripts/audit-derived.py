@@ -16,6 +16,8 @@ proper-nouns-keep.txt、exclude.txt 一个办法：例外要留痕，不能靠�
 退出码：有未并、又没登记进 derived-keep 的候选就是 1。
 """
 import sys, io, glob, os
+sys.path.insert(0, 'scripts')
+from wordkey import numsort
 
 IRREG_ADV = {'truly':'true', 'duly':'due', 'wholly':'whole', 'publicly':'public',
              'idly':'idle', 'ably':'able', 'nobly':'noble', 'subtly':'subtle'}
@@ -60,7 +62,7 @@ def load_keep():
     return keep
 
 def entries():
-    for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
+    for f in numsort(glob.glob('wordlists/B-[0-9]*.txt')):
         for b in io.open(f, encoding='utf-8').read().split('\n\n'):
             b = b.strip()
             if b: yield f, b.split('\n')[0].strip(), b

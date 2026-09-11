@@ -17,7 +17,7 @@ ap-，漏掉了 ao-（aorta、aortic、AOB）；更早还漏了 aa-（aardvark�
 """
 import sys, io, glob, string
 sys.path.insert(0, 'scripts')
-from wordkey import sort_key, prefix
+from wordkey import sort_key, prefix, numsort
 from collections import Counter
 
 # 各字母下确实存在牛津高阶词条的双字母前缀。逐个字母核对后填进来 ——
@@ -56,7 +56,7 @@ KEY = sort_key   # 共用排序键，见 scripts/wordkey.py
 
 def main(letter=None):
     w = []
-    for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
+    for f in numsort(glob.glob('wordlists/B-[0-9]*.txt')):
         for b in io.open(f, encoding='utf-8').read().split('\n\n'):
             if b.strip(): w.append(b.strip().split('\n')[0])
     c = Counter(prefix(x) for x in w)

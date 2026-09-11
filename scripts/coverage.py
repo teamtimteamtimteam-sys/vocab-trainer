@@ -20,7 +20,7 @@
 """
 import sys, io, csv, glob, os, re, string
 sys.path.insert(0, 'scripts')
-from wordkey import sort_key, prefix
+from wordkey import sort_key, prefix, numsort
 
 def excluded():
     """收词范围的排除名单，见 reference/exclude.txt。
@@ -144,7 +144,7 @@ def collected():
     abide by、abound in 这类短语动词，只要在 abide / abound 条里
     已经作为搭配出现过，就不必再单列。"""
     got, text, entries = {}, {}, []
-    for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
+    for f in numsort(glob.glob('wordlists/B-[0-9]*.txt')):
         for b in io.open(f, encoding='utf-8').read().split('\n\n'):
             b = b.strip()
             if not b: continue

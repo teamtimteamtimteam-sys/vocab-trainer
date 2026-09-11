@@ -28,6 +28,8 @@
 进度记录本身不会漂。
 """
 import sys, io, re, glob, importlib.util as u, statistics as st
+sys.path.insert(0, 'scripts')
+from wordkey import numsort
 spec = u.spec_from_file_location('cw', 'scripts/check-wordlist.py')
 cw = u.module_from_spec(spec); spec.loader.exec_module(cw)
 
@@ -80,7 +82,7 @@ def todo(rows, n):
 
 def main(argv):
     rows = []
-    for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')): rows += cw.parse(f)
+    for f in numsort(glob.glob('wordlists/B-[0-9]*.txt')): rows += cw.parse(f)
     if argv and argv[0] == '--todo':
         return todo(rows, int(argv[1]) if len(argv) > 1 else 10)
     if argv:

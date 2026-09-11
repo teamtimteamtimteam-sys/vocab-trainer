@@ -11,6 +11,8 @@
 用法: python3 scripts/append-to-entry.py <补丁文件>
 """
 import io, glob, sys
+sys.path.insert(0, 'scripts')
+from wordkey import numsort
 
 def main(patch):
     add = {}
@@ -22,7 +24,7 @@ def main(patch):
         if w in add: print(f"补丁里 {w} 出现两次"); return 1
         add[w] = '\n'.join(L[1:]).strip()
     hit = {w: 0 for w in add}
-    for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
+    for f in numsort(glob.glob('wordlists/B-[0-9]*.txt')):
         src = io.open(f, encoding='utf-8').read()
         out, changed = [], False
         for b in src.split('\n\n'):

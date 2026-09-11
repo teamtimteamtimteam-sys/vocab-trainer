@@ -6,7 +6,7 @@
 """
 import io, glob, sys, string
 sys.path.insert(0, 'scripts')
-from wordkey import sort_key, prefix
+from wordkey import sort_key, prefix, numsort
 
 def entries(pat):
     out = []
@@ -18,8 +18,8 @@ def entries(pat):
 def main():
     A = entries('wordlists/A-[0-9]*.txt')
     B = entries('wordlists/B-[0-9]*.txt')
-    mergedA = sorted(glob.glob('wordlists/A-merged-*.txt'))
-    mergedB = sorted(glob.glob('wordlists/B-merged-*.txt'))
+    mergedA = numsort(glob.glob('wordlists/A-merged-*.txt'))
+    mergedB = numsort(glob.glob('wordlists/B-merged-*.txt'))
     pend = entries('wordlists/pending/B-pending.txt')
 
     print("=" * 66)

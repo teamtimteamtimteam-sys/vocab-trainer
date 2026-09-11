@@ -3,10 +3,12 @@
 用法: python3 scripts/new-words.py 前缀 词1 词2 ...
       python3 scripts/new-words.py A --list   # 只列出已用词数"""
 import sys, io, glob
+sys.path.insert(0, 'scripts')
+from wordkey import numsort
 if len(sys.argv) < 2: print("用法: new-words.py <前缀> <词...>"); sys.exit(2)
 prefix = sys.argv[1]
 used = set()
-for f in sorted(glob.glob('wordlists/%s-*.txt' % prefix)):
+for f in numsort(glob.glob('wordlists/%s-*.txt' % prefix)):
     for b in io.open(f, encoding='utf-8').read().split('\n\n'):
         b = b.strip()
         if b: used.add(b.split('\n')[0].strip().lower())

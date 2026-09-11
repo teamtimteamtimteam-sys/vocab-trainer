@@ -2,6 +2,8 @@
 """把每个词条里的例句编号重排成 ①②③…，消灭漏号/重号。
 用法: python3 scripts/renumber.py 'wordlists/A-*.txt'"""
 import sys, io, glob
+sys.path.insert(0, 'scripts')
+from wordkey import numsort
 NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟㊱㊲㊳㊴㊵㊶㊷㊸㊹㊺㊻㊼㊽㊾㊿❶❷❸❹❺❻❼❽❾❿⓫⓬⓭⓮⓯⓰⓱⓲⓳⓴⓵⓶⓷⓸⓹⓺⓻⓼⓽⓾"   # 1-50 圈码 + 51-80 反白圈码，见 CLAUDE.md
 MAXN = len(NUMS)
 def fix(path):
@@ -37,7 +39,7 @@ paths = []
 # 一直报 0 的脚本等于没有脚本，所以把默认路径补上。
 args = sys.argv[1:] or ['wordlists/A-*.txt', 'wordlists/B-*.txt']
 for a in args: paths += glob.glob(a)
-for p in sorted(paths):
+for p in numsort(paths):
     c = fix(p)
     total += c
     if c: print("  %s 重排 %d 处" % (p, c))

@@ -18,7 +18,7 @@
 """
 import sys, io, re, glob, os
 sys.path.insert(0, 'scripts')
-from wordkey import sort_key
+from wordkey import sort_key, numsort
 
 def load(paths):
     out = []
@@ -29,8 +29,8 @@ def load(paths):
     return out
 
 def main(prefix='B'):
-    batch = sorted(glob.glob(f'wordlists/{prefix}-[0-9]*-[0-9]*.txt'))
-    merged = sorted(glob.glob(f'wordlists/{prefix}-merged-*.txt'))
+    batch = numsort(glob.glob(f'wordlists/{prefix}-[0-9]*-[0-9]*.txt'))
+    merged = numsort(glob.glob(f'wordlists/{prefix}-merged-*.txt'))
     if not merged:
         print(f'没有 {prefix} 的合并文件 —— 先跑 merge-wordlist.py'); return 1
     bad = []

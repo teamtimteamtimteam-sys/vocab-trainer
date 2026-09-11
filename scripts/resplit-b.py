@@ -15,14 +15,14 @@
 """
 import sys, io, glob, os
 sys.path.insert(0, 'scripts')
-from wordkey import sort_key
+from wordkey import sort_key, numsort
 
 KEY = sort_key   # 共用排序键，见 scripts/wordkey.py
 SIZE_DEFAULT = 25
 
 def main(size):
     ent = []
-    for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
+    for f in numsort(glob.glob('wordlists/B-[0-9]*.txt')):
         for b in io.open(f, encoding='utf-8').read().split('\n\n'):
             b = b.strip()
             if b: ent.append((b.split('\n')[0].strip(), b))

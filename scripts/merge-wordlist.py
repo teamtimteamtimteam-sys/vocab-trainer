@@ -5,10 +5,10 @@
 """
 import sys, glob, io, os, re
 sys.path.insert(0, 'scripts')
-from wordkey import sort_key
+from wordkey import sort_key, numsort
 
 def main(prefix, size):
-    files = sorted(glob.glob(f"wordlists/{prefix}-[0-9]*-[0-9]*.txt"))
+    files = numsort(glob.glob(f"wordlists/{prefix}-[0-9]*-[0-9]*.txt"))
     files = [f for f in files if re.search(r'-\d+-\d+\.txt$', f)]
     if not files: print("没有找到分批文件"); return 1
     entries, gaps, expect = [], [], 1
@@ -52,7 +52,7 @@ def main(prefix, size):
     # check-merged.py 一上来就把它们当成「同一条词条出现两次」报了出来，
     # 因为它是照 wordlists/<前缀>-merged-*.txt 全量读的。
     kept = {o for o, _, _ in made}
-    for old in sorted(glob.glob(f"wordlists/{prefix}-merged-*.txt")):
+    for old in numsort(glob.glob(f"wordlists/{prefix}-merged-*.txt")):
         if old not in kept:
             os.remove(old)
             print(f"  删掉上一轮的旧文件 {os.path.basename(old)}")

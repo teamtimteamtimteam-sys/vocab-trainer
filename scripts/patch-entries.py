@@ -9,6 +9,8 @@
 补丁文件的格式跟词表一样：一条一段，段间空行，首行是词头。
 """
 import io, glob, sys
+sys.path.insert(0, 'scripts')
+from wordkey import numsort
 
 def main(patch):
     blocks = [b.strip() for b in io.open(patch, encoding='utf-8').read().split('\n\n') if b.strip()]
@@ -18,7 +20,7 @@ def main(patch):
         if w in new: print(f"补丁里 {w} 出现两次"); return 1
         new[w] = b
     hit = {w: 0 for w in new}
-    for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
+    for f in numsort(glob.glob('wordlists/B-[0-9]*.txt')):
         src = io.open(f, encoding='utf-8').read()
         out, changed = [], False
         for b in src.split('\n\n'):

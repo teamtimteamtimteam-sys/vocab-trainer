@@ -9,6 +9,8 @@
 删完会把词头连同理由追加进 reference/exclude.txt。
 """
 import io, glob, sys
+sys.path.insert(0, 'scripts')
+from wordkey import numsort
 
 def main(argv):
     why = ""
@@ -18,7 +20,7 @@ def main(argv):
     if not words:
         print("没给词头"); return 1
     left = set(words)
-    for f in sorted(glob.glob('wordlists/B-[0-9]*.txt')):
+    for f in numsort(glob.glob('wordlists/B-[0-9]*.txt')):
         src = io.open(f, encoding='utf-8').read()
         keep, dropped = [], False
         for b in src.split('\n\n'):
