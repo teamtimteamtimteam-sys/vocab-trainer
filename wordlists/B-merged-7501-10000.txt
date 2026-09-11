@@ -25355,6 +25355,8 @@ a fractional process = 分馏工艺
 = 门开了一条缝，猫有的是整夜时间。
 fractionally open = 开了一丝缝
 fractional distillation = 分馏
+Fractional distillation separates the whole barrel into nine useful things.
+= 分馏把一整桶东西分成九样有用的。
 
 fractious
 核心：三支。一是（人）易怒、爱闹别扭的：a fractious child；
@@ -25492,6 +25494,8 @@ fragmentation of the market = 市场的分散化
 = 碎片化让那块旧硬盘变慢，也没人去整理。
 disk fragmentation = 磁盘碎片化
 fragmentation grenade = 破片手榴弹
+A fragmentation grenade clears a room and takes the wall with it.
+= 一枚破片手榴弹能清空一个房间，连墙一起带走。
 
 fragmented
 核心：三支。一是分裂的、支离破碎的：a fragmented industry；
@@ -25586,7 +25590,11 @@ a frame-up = 栽赃陷害
 = 双方各按一套参照系争论，谁也没察觉。
 frame of reference = 参照系
 frame house = 木构架房屋
+A frame house goes up in a fortnight and creaks for a century.
+= 木构架房屋两星期就盖起来，吱呀作响一百年。
 frame tent = 支架式帐篷
+A frame tent takes two people and stands through anything.
+= 支架式帐篷要两个人搭，什么天气都立得住。
 
 framed
 核心：三支。一是装了框的：a framed photograph；
@@ -25643,6 +25651,8 @@ extend the franchise = 扩大选举权
 = 那个系列有十一部电影，其中一部还能看。
 a film franchise = 电影系列
 franchise player = 球队的当家球星
+The franchise player left in June and the season ticket sales halved.
+= 当家球星六月走了，套票销量减了一半。
 
 franchisee
 核心：三支。一是加盟商、受许方：train a franchisee；
@@ -25881,6 +25891,8 @@ a frat house = 兄弟会会所
 = 那个系里没人受得了兄弟会那一套。
 frat behaviour = 兄弟会式的做派
 frat boy = 兄弟会男生
+A frat boy in that film is shorthand for everything the writer disliked.
+= 那部片子里的兄弟会男生，是编剧一切反感之物的代称。
 
 fraternal
 核心：三支。一是兄弟般的：fraternal affection；二是（组织）互助会的：
@@ -25977,6 +25989,8 @@ be a fraud = 是个骗子
 = 从第二封信起，整个计划就是个骗局。
 a fraud = 一桩骗局
 fraud squad = 反诈骗警队
+The fraud squad took nine years and came back with two convictions.
+= 反诈骗警队查了九年，拿回来两项定罪。
 
 fraudster
 核心：三支。一是诈骗犯：catch a fraudster；二是惯于行骗的人；
@@ -26102,6 +26116,8 @@ a fitness freak = 健身狂
 = 她被一只蜘蛛吓坏了，之后笑了一周。
 freak out = 吓坏、崩溃
 freak show = 畸形秀、猎奇表演
+The pier ran a freak show until the council found the paperwork.
+= 那道栈桥上一直办着猎奇表演，直到议会翻出了相关文件。
 
 freaking
 核心：三支（美，非正式）。一是加强语气的骂词，相当于"该死的"；
@@ -26203,38 +26219,104 @@ move freely = 自由往来
 = 她慷慨解囊，却不许任何人在公开场合提起。
 give freely = 慷慨给予
 free agent = 自由身球员；自主行事的人
+He became a free agent in July and signed nowhere until March.
+= 他七月成了自由身，到三月都没签哪家。
 free association = 自由联想
+Free association took the session down a road about his grandmother.
+= 自由联想把那次治疗引到了他祖母那条线上。
 free climbing = 徒手攀岩
+Free climbing uses ropes to catch a fall and never to pull.
+= 徒手攀岩用绳子接住坠落，绝不用它往上拉。
 free fall = 自由落体；急剧下跌
+The share price went into free fall on a Tuesday afternoon.
+= 股价在一个星期二的下午开始急剧下跌。
 free-floating = 无所依附的、漂浮不定的
+A free-floating anxiety attaches itself to whatever is nearest.
+= 一种无所依附的焦虑，逮着最近的什么就贴上去。
 free-for-all = 乱作一团的混战
+The car park became a free-for-all once the barrier broke.
+= 栏杆一坏，那个停车场就乱成一团。
 free form = 自由形式的
+The garden is free form and the neighbours call it neglect.
+= 那个园子是自由形式的，邻居管它叫没人打理。
 free house = 不隶属酒厂的酒馆
+A free house sells four beers nobody else in town has.
+= 不隶属酒厂的酒馆，卖着镇上别处没有的四种啤酒。
 free kick = 任意球
+A free kick from that distance goes over the bar and out.
+= 那么远的任意球，飞过横梁就出界了。
 free love = 自由恋爱
+Free love lasted one summer and the lawsuits lasted rather longer.
+= 自由恋爱只热了一个夏天，官司拖得久多了。
 free market = 自由市场
+A free market sets the rent and the council picks up the pieces.
+= 自由市场定下房租，议会收拾残局。
 free marketeer = 自由市场论者
+A free marketeer wrote the report and a civil servant softened it.
+= 报告是一位自由市场论者写的，一名公务员把它改软了。
 free morpheme = 自由语素
+A free morpheme stands alone and the bound ones need company.
+= 自由语素能单独站住，黏着语素得有伴。
 free on board = 离岸价
+The price is free on board and the shipping doubles it.
+= 那个价格是离岸价，加上运费就翻倍。
 free paper = 免费报纸
+The free paper arrives on Thursdays and lines the cat's tray.
+= 免费报纸周四送来，正好垫猫砂盘。
 free pardon = 无条件赦免
+A free pardon came thirty years late and to the wrong address.
+= 一纸无条件赦免晚了三十年，还寄错了地址。
 free period = 空堂、没课的一节
+A free period on Friday afternoon is worth two on Monday.
+= 周五下午的一节空堂，抵得上周一的两节。
 free port = 自由港
+The free port stores whisky that pays duty in another country.
+= 那个自由港存着的威士忌，在别的国家交税。
 free radical = 自由基
+A free radical does its damage in nanoseconds and sells creams.
+= 自由基在几纳秒内造成损伤，也卖出了大量面霜。
 free-range = 散养的
+Free-range eggs cost more and the hens still sleep indoors.
+= 散养的鸡蛋更贵，那些鸡照样在屋里过夜。
 free running = 跑酷
+Free running looks effortless and breaks a great many ankles.
+= 跑酷看着毫不费力，摔断的脚踝可不少。
 free safety = （美式足球）自由安全卫
+The free safety reads the pass before the quarterback throws it.
+= 自由安全卫在四分卫出手之前就读出了传球路线。
 free school = 自由学校
+A free school opened in a former bank and closed in four years.
+= 一所自由学校开在从前的银行里，四年就关了。
 free sheet = 免费报纸
+Every free sheet in that station ends up on the same bench.
+= 那个车站所有的免费报纸，最后都堆在同一张长椅上。
 free spirit = 不受拘束的人
+Being called a free spirit usually means somebody else booked the tickets.
+= 被人叫作不受拘束的人，多半意味着票是别人订的。
 free-spirited = 洒脱不羁的
+A free-spirited aunt turned up at Christmas with nine unwrapped presents.
+= 一位洒脱不羁的姑妈圣诞节来了，带着九件没包装的礼物。
 free-standing = 独立不靠墙的
+A free-standing stove heats the room and blocks the only cupboard.
+= 那台独立式炉子把屋子烤暖，也挡住了唯一的柜子。
 free throw = 罚球
+A free throw in the last second decided a match of ninety points.
+= 最后一秒的一记罚球，定下了一场九十分的比赛。
 free-to-air = 免费收看的
+The final was free-to-air that year and nine million people watched.
+= 那年决赛是免费收看的，九百万人看了。
 free trade = 自由贸易
+Free trade closed the mill and opened four warehouses instead.
+= 自由贸易关掉了那家厂，换来四座仓库。
 free verse = 自由体诗
+Free verse has rules and every one of them is unwritten.
+= 自由体诗是有规矩的，只不过条条都不成文。
 free vote = 不受党纪约束的表决
+A free vote let nine of them side with the other party.
+= 不受党纪约束的表决，让他们里有九个站到了对面党那边。
 free will = 自由意志
+The argument about free will has been running since the second pint.
+= 关于自由意志的那场争论，从第二杯啤酒起就没停过。
 
 freebase
 核心：三支。一是游离碱形式的可卡因；二是动词，吸食这种形式的可卡因；

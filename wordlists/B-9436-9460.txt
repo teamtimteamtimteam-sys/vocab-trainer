@@ -11,6 +11,8 @@ fragmentation of the market = 市场的分散化
 = 碎片化让那块旧硬盘变慢，也没人去整理。
 disk fragmentation = 磁盘碎片化
 fragmentation grenade = 破片手榴弹
+A fragmentation grenade clears a room and takes the wall with it.
+= 一枚破片手榴弹能清空一个房间，连墙一起带走。
 
 fragmented
 核心：三支。一是分裂的、支离破碎的：a fragmented industry；
@@ -105,7 +107,11 @@ a frame-up = 栽赃陷害
 = 双方各按一套参照系争论，谁也没察觉。
 frame of reference = 参照系
 frame house = 木构架房屋
+A frame house goes up in a fortnight and creaks for a century.
+= 木构架房屋两星期就盖起来，吱呀作响一百年。
 frame tent = 支架式帐篷
+A frame tent takes two people and stands through anything.
+= 支架式帐篷要两个人搭，什么天气都立得住。
 
 framed
 核心：三支。一是装了框的：a framed photograph；
@@ -162,6 +168,8 @@ extend the franchise = 扩大选举权
 = 那个系列有十一部电影，其中一部还能看。
 a film franchise = 电影系列
 franchise player = 球队的当家球星
+The franchise player left in June and the season ticket sales halved.
+= 当家球星六月走了，套票销量减了一半。
 
 franchisee
 核心：三支。一是加盟商、受许方：train a franchisee；
