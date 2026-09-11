@@ -9,15 +9,26 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-11） ═══
-B 词表 10060 条，词典序 a → geochemistry。A 表 3002 条。
+═══ 现状（2026-09-12） ═══
+B 词表 10123 条，词典序 a → geyser。A 表 3002 条。
   a–f 段都在 97% 以上，余下的基本是待推迟（内容词在后面的字母段）。
   **f 段 2478/2501（99%）**：待新写清零，381 条多词条目已并入词根条。
-  **g 段在写**：ga 段 205/300，ge 段刚起步。**下一批从 geode 起**
-  （geography / geology / geometry / German / germ / gerrymander 一带）。
+  **g 段在写**：ga 段 205/300，**ge 段 173/261（66%）**。
+  2026-09-12 写了三批 63 条：geddit–geophysical / geophysicist–gerund /
+  gerontocracy–geyser。**下一批从 ghastly 起**（gherkin / ghetto / ghost 一带），
+  但 ge- 段还欠两笔，先清掉更划算：
+    · **待并入 49 条**，扎堆在少数几个词根条上 —— general 13 条、
+      gender 6 条、gene 3 条、gear 4 条、get 一族（about/above/ahead/away/
+      back/behind）6 条。写进词根条里并补例句，不单列。
+    · **待推迟 42 条几乎全是 get 的短语动词**（get across / get along /
+      get by / get over…）。`get` 这个词头本身还没写 —— 它是整段最大的一条，
+      动笔前要先把那 42 条短语的清单补进 audit-idioms.py 的 CHECK。
   G 段大写词头 51 条已登记进 proper-nouns-keep（进段前该做的四件事之一）。
+  这一轮剔了两条进 exclude.txt：geese（goose 的不规则复数，已补进
+  inflections.txt）、georgia-o-keeffe（人名的连字符残片）。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-…
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10123
+  前四份已核到「与分批文件逐块字节全同」，2026-09-12 随补例句一并推上了 origin。
 
 ═══ 眼下在做的另一件事：给拓展块补例句 ═══
 用户 2026-09-11 定：只补 B 表；辨析类（近义对照 / 注意别混 / 注意区别 /
