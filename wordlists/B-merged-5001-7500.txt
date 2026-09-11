@@ -44443,6 +44443,8 @@ end in something = 以某种结果告终
 = 最终成品值得等，最后的结果是团队变小了。
 the end product = 最终成品
 the end result = 最终结果
+The end result was three committees where there had been one department.
+= 最终结果是原先一个部门的地方，冒出了三个委员会。
 ⑫ Draw a line from the end point of the first cut to the corner.
 = 从第一道切口的端点画一条线到墙角。
 the end point = 端点、终点
@@ -44469,6 +44471,8 @@ endanger
 = 两片松动的瓦，危及每一个从那道檐槽下走过的人。
 endanger somebody = 危及某人
 endanger life = 危及生命
+Driving at that speed in fog endangers life and costs nine points.
+= 雾里开那么快危及生命，还要扣九分。
 ② Saying that in public would endanger the whole negotiation.
 = 那话公开说出来，会危及整场谈判。
 endanger something = 危及某事
@@ -44479,6 +44483,8 @@ endangered
 = 那种鸟一九七〇年还濒危，如今在两个郡都很常见。
 an endangered species = 濒危物种
 be endangered = 处于濒危
+The frog is endangered in one valley and thriving in the next.
+= 那种蛙在一条山谷里处于濒危，隔壁那条谷里却活得很旺。
 ② An endangered language usually has speakers and no schools.
 = 濒危语言通常还有人说，只是没有学校教。
 an endangered language = 濒危语言
@@ -44509,6 +44515,8 @@ endearing
 = 他不会撒谎，这点招人喜欢，可在那份工作上没用。
 endearing = 讨人喜欢的
 an endearing habit = 招人喜欢的习惯
+He has an endearing habit of naming every vehicle he owns.
+= 他有个招人喜欢的习惯，凡是自己的车都要起个名字。
 ② There is something endearing about a shop that never opens on time.
 = 一家从不准点开门的店，自有它惹人喜欢的地方。
 endearing = 惹人怜爱的
@@ -44541,6 +44549,8 @@ endeavour to do something = 努力做某事
 = 整件事花了九年，中间还换了两届政府。
 an endeavour = 一项事业、一番努力
 human endeavour = 人类的努力
+Mapping the seabed is human endeavour at its slowest and most patient.
+= 测绘海床是人类最慢、最有耐心的一种努力。
 
 endemic
 核心：两支。一是（疾病、问题）某地固有的、长期存在的：be endemic in a place；
@@ -44569,6 +44579,8 @@ ending
 = 结尾重写了两遍，头一版还是更好。
 an ending = 结局
 a happy ending = 圆满的结局
+The film has a happy ending that the book refuses to give anyone.
+= 电影有个圆满的结局，那本书却不肯给任何人这个结局。
 ② The ending changes with the tense and nothing else in the word moves.
 = 词尾随时态变化，词里别的部分一动不动。
 a verb ending = 动词词尾
@@ -44590,6 +44602,8 @@ endless
 = 那个会没完没了，只作出一个关于饼干的决定。
 endless = 没完没了的
 endless possibilities = 无穷的可能
+A blank notebook offers endless possibilities and usually gets a shopping list.
+= 一本空白笔记本摆着无穷的可能，最后多半写了购物清单。
 ② An endless belt carries the sand up and drops it back into the same pile.
 = 一条环形传送带把沙送上去，又倒回同一堆里。
 an endless belt = 环形传送带
@@ -44675,6 +44689,8 @@ endoplasm
 = 内质向前流动，整个细胞就跟着挪。
 endoplasm = 内质
 the endoplasm of a cell = 细胞的内质
+Heat changes the endoplasm of a cell before anything visible happens outside.
+= 外面还看不出动静，热就已经改变了细胞的内质。
 ② Granules sit in the endoplasm and never cross into the outer layer.
 = 颗粒待在内质里，从不越到外面那一层去。
 构词：endo-（内）加 -plasm（浆、质）
@@ -44696,6 +44712,8 @@ endorse
 = 委员会先表态支持那个方案，之后才要成本数字。
 endorse a plan = 赞同一项方案
 endorse a candidate = 为某候选人背书
+The union endorsed a candidate on Tuesday and apologised to members on Friday.
+= 工会周二为一位候选人背了书，周五就向会员道歉。
 ② She endorses one brand of boot and wears another on her days off.
 = 她给一个牌子的靴子代言，休息日穿的是另一个牌子。
 endorse a product = 为产品代言
@@ -44710,6 +44728,8 @@ endorsement
 = 那封信是全力力挺，提到工作本身两回。
 an endorsement = 认可、支持
 a ringing endorsement = 强有力的支持
+Two sentences and a signature is not a ringing endorsement of anybody.
+= 两句话加一个签名，算不上对谁强有力的支持。
 ② Endorsements pay him more than playing ever did.
 = 代言给他挣的钱，比打球挣的还多。
 an endorsement deal = 代言合约
@@ -44732,6 +44752,8 @@ endoscopy
 = 那次内窥镜检查什么也没查出来，症状又持续了一年。
 an endoscopy = 内窥镜检查
 have an endoscopy = 做内窥镜检查
+She had an endoscopy on Monday and was back at work by Wednesday.
+= 她周一做了内窥镜检查，周三就回去上班了。
 ② Endoscopy replaced most exploratory surgery within a generation.
 = 一代人之间，内窥镜检查取代了大多数探查性手术。
 endoscopy = 内窥镜检查技术
@@ -44773,10 +44795,14 @@ endow
 = 一位老校友出资资助了那座图书馆，连块牌子都没要。
 endow something = 捐资资助某物
 endow a chair = 捐资设立讲席教授职位
+A brewing family endowed a chair in chemistry that outlasted the brewery.
+= 一个酿酒世家捐资设了个化学讲席教授职位，那家酒厂反倒先没了。
 ② The place is endowed with two harbours and no flat land at all.
 = 那地方天生有两个港湾，却一块平地也没有。
 be endowed with something = 天生具有某物
 endow somebody with something = 赋予某人某种品质或条件
+Nature endowed him with a memory for faces and none for names.
+= 造化赋予他认脸的记性，认名字的记性一点没给。
 写作 endow with：宾语放中间，说天生具备时多用被动 be endowed with。
 
 endowment
@@ -44786,6 +44812,8 @@ endowment
 = 那笔捐赠基金养着三个岗位，楼却照样漏雨。
 an endowment = 捐赠基金
 an endowment fund = 基金本金
+The endowment fund lost a third in one year and the scholarships continued.
+= 基金本金一年里亏了三分之一，奖学金照发。
 ② His natural endowment was patience and everything else was practice.
 = 他天生的那份禀赋是耐心，其余全靠练。
 a natural endowment = 天赋
@@ -44793,6 +44821,8 @@ a natural endowment = 天赋
 = 那份储蓄型保单在不对的年头到期，只够付半个厨房。
 an endowment policy = 储蓄型保险
 an endowment mortgage = 与储蓄保单挂钩的房贷
+Thousands took an endowment mortgage in the eighties and got a shortfall letter later.
+= 八十年代成千上万人办了与储蓄保单挂钩的房贷，后来收到了缺口通知信。
 
 endpaper
 核心：（书的）环衬：把书芯与封面粘在一起的那两张纸，精装书上常印花纹或地图。
@@ -44820,6 +44850,8 @@ endurance
 = 在爬升那么多的赛道上，耐力比速度管用。
 endurance = 耐力
 an endurance test = 耐力测试
+The interview was an endurance test and so, it turned out, was the job.
+= 那场面试是一次耐力测试，后来发现那份工作也是。
 ② Beyond endurance is where the second week of that job begins.
 = 那份工作的第二周，就从「忍无可忍」开始。
 beyond endurance = 忍无可忍
@@ -44831,6 +44863,8 @@ endure
 = 他们在拖车里熬过两个冬天，第二个冬天从来不提。
 endure something = 忍受、熬过某事
 endure hardship = 吃苦受累
+Her grandparents endured hardship they described only as a difficult few years.
+= 她祖父母吃过的苦，他们只说成「有几年不太好过」。
 ② The bridge endured and the road it served was closed in 1962.
 = 那座桥留存了下来，它服务的那条路一九六二年就关了。
 endure = 持续存在
@@ -44876,6 +44910,8 @@ enema
 = 灌肠是前一天晚上做的，预约在七点。
 an enema = 灌肠
 give somebody an enema = 给某人灌肠
+A nurse gave him an enema at six and the scan still ran late.
+= 护士六点给他灌了肠，扫描还是拖了时间。
 ② A barium enema shows the outline of a bowel that no camera reaches.
 = 钡剂灌肠能显出摄像头够不到的那段肠子的轮廓。
 a barium enema = 钡剂灌肠
@@ -44888,6 +44924,8 @@ enemy
 = 他一次会上就树了两个敌人，两个都没忘。
 an enemy = 敌人
 make enemies = 树敌
+You make enemies faster by being right early than by being wrong.
+= 早早说对话比说错话更容易树敌。
 ② The enemy held the ridge for eleven days and left in one night.
 = 敌方守着那道山脊十一天，一夜之间撤了。
 the enemy = 敌方
@@ -44930,6 +44968,8 @@ energy
 = 她有两个人的精力，却没有一个人的耐心。
 energy = 精力
 put energy into something = 在某事上使劲
+He puts more energy into avoiding the job than the job would take.
+= 他在躲那件活上使的劲，比干那件活要花的还多。
 ② Energy prices doubled and the insulation grant halved.
 = 能源价格翻倍，保温补贴减半。
 renewable energy = 可再生能源
@@ -44940,6 +44980,8 @@ devote your energies to something = 把精力投入某事
 = 一根能量棒加一瓶能量饮料，把他送上了最后一个坡。
 an energy bar = 能量棒
 an energy drink = 能量饮料
+An energy drink at four in the afternoon costs you the whole night.
+= 下午四点喝一瓶能量饮料，整个晚上就搭进去了。
 
 enervate
 核心：（正式）使虚弱无力、使人提不起劲：多用被动 be enervated。名词 enervation。
@@ -44996,6 +45038,8 @@ enforce
 = 那条规矩十一年没人执行，忽然人人都开始执行。
 enforce a law = 执行法律
 enforce a rule = 执行规定
+The caretaker enforces the parking rule and the head teacher apologises for him.
+= 校工执行停车规定，校长替他向人道歉。
 ② The teacher enforced silence with a look and never raised her voice.
 = 那位老师用一个眼神就压住了全场，从没提高过嗓门。
 enforce something = 强制推行某事
@@ -45006,6 +45050,8 @@ enforceable
 = 那一条款在一个国家能强制执行，在另一个只是摆设。
 be enforceable = 可强制执行
 legally enforceable = 具有法律强制力的
+A promise made over dinner is not legally enforceable, however many witnessed it.
+= 饭桌上许的诺不具有法律强制力，哪怕有再多人听见。
 ② An agreement with no signature is rarely enforceable and often honoured.
 = 没签字的约定很少能强制执行，倒常常有人照办。
 an enforceable contract = 可强制执行的合同
@@ -45025,6 +45071,8 @@ enforcement
 = 执行时松时紧，罚款倒是大到让人在意。
 enforcement = 执行、强制实施
 law enforcement = 执法（部门）
+Law enforcement was told at seven and the reporters knew by half past.
+= 执法部门七点接到通知，记者七点半就知道了。
 ② The law changed in April and enforcement started the following January.
 = 法律四月改了，执行是次年一月才开始的。
 enforcement of a rule = 对某规定的执行
@@ -45100,6 +45148,8 @@ engaged
 = 他们订婚四年，在登记处结了婚。
 be engaged to somebody = 与某人订婚
 get engaged = 订婚
+They got engaged on a Tuesday because the restaurant was empty then.
+= 他们挑了个星期二订婚，因为那天餐馆没人。
 ② The line was engaged all morning and the office was empty.
 = 那条线整个上午都占线，办公室里却没人。
 the line is engaged = 电话占线（英式）
@@ -45114,6 +45164,8 @@ engagement
 = 订婚期比婚姻还长，两件事都办得静悄悄。
 an engagement = 订婚
 break off an engagement = 解除婚约
+She broke off the engagement by letter and posted it in another town.
+= 她写信解除了婚约，还特地到另一个镇上去寄。
 ② She declined because of a prior engagement and went to neither.
 = 她以已有约在先推掉了，结果两边都没去。
 a prior engagement = 事先有约
@@ -45130,6 +45182,8 @@ engaging
 = 那本书前两百页很吸引人，之后就开始自我解释了。
 engaging = 引人入胜的
 an engaging smile = 讨人喜欢的笑容
+An engaging smile got him through an interview he had not prepared for.
+= 一个讨人喜欢的笑容，让他混过了一场毫无准备的面试。
 ② He is engaging in a way that makes people forget to ask questions.
 = 他讨人喜欢的那股劲儿，让人忘了提问。
 be engaging = 招人喜欢
@@ -45148,6 +45202,8 @@ engender
 = 拖延引起的猜疑，比一个糟糕的答复来得还快。
 engender something = 引起某种情绪或局面
 engender trust = 培养出信任
+Turning up in bad weather engenders trust that no leaflet ever will.
+= 天气差还照样到场，这能培养出信任，发多少传单也换不来。
 ② The scheme engendered more paperwork than goodwill.
 = 那个方案引出来的表格，比善意还多。
 engender a feeling = 生出某种感觉
@@ -45159,6 +45215,8 @@ engine
 = 那台发动机第三下才打着，一着就能跑好几个钟头。
 an engine = 发动机
 start the engine = 发动引擎
+Start the engine before you open the gate or the cows come through.
+= 先发动引擎再开门，不然牛就跑出来了。
 ② The engine pulled twelve coaches and needed water every hour.
 = 那台机车拉十二节车厢，每小时要加一次水。
 a steam engine = 蒸汽机车
@@ -45169,6 +45227,8 @@ the engine of growth = 增长的引擎
 = 火车司机挥了挥手，机舱里始终四十度。
 an engine driver = 火车司机（英式）
 an engine room = 机舱、轮机舱
+The engine room is louder than the deck and twenty degrees warmer.
+= 轮机舱比甲板吵，还高二十度。
 
 engineer
 核心：名词两支、动词一支。名词一是工程师：设计与维护机器、建筑或系统的人；
@@ -45177,6 +45237,8 @@ engineer
 = 工程师查出毛病在线路上，不在软件上。
 an engineer = 工程师
 a civil engineer = 土木工程师
+A civil engineer looked at the crack and told everyone to go home.
+= 一位土木工程师看了那道裂缝，让所有人都回家。
 ② He engineered a merger that left him in charge of both companies.
 = 他一手促成了一场并购，两家公司最后都归他管。
 engineer something = 一手策划、促成某事
@@ -45187,10 +45249,14 @@ engineering
 = 工程学要读四年，头一份工作还得再学两年。
 engineering = 工程学
 study engineering = 学工程
+She stayed on to study engineering because the workshop was open all night.
+= 她留下来学工程，是因为那间车间通宵开着。
 ② Genetic engineering moved from a laboratory word to a supermarket one.
 = 基因工程从实验室里的词，变成了超市里的词。
 genetic engineering = 基因工程
 civil engineering = 土木工程
+Civil engineering leaves the longest evidence and the fewest famous names.
+= 土木工程留下的痕迹最久，留下的名字最少。
 
 English
 核心：三支。一是英语（不可数）：speak English、in plain English；
@@ -45202,6 +45268,8 @@ an English rose、the English horn、an English setter。
 = 用大白话说，满屋子人都听得懂。
 in plain English = 用大白话
 speak English = 说英语
+Everyone in the office speaks English and argues in three other languages.
+= 办公室里人人说英语，吵架用的是另外三种语言。
 ② The English take their weather personally and their tea seriously.
 = 英格兰人把天气当私事，把茶当正事。
 the English = 英格兰人
@@ -45209,6 +45277,8 @@ the English = 英格兰人
 = 一份全套英式早餐，多半人还没吃到吐司就败下阵来。
 an English breakfast = 英式早餐
 an English muffin = 英式松饼
+An English muffin is split with a fork, never cut with a knife.
+= 英式松饼要用叉子掰开，绝不用刀切。
 ④ She is an English rose in the photographs and a hard bargainer in the office.
 = 照片上她是典型的英伦玫瑰，办公室里却是讨价还价的硬手。
 an English rose = 英伦玫瑰（肤白清秀的英格兰美人）
@@ -45263,6 +45333,8 @@ engrave
 = 他们把名字刻在戒指内圈，按字母收费。
 engrave something = 在某物上刻字
 engrave a name on something = 把名字刻在某物上
+They engraved his name on a bench facing the water he swam in.
+= 他们把他的名字刻在一张长椅上，椅子对着他从前游泳的那片水。
 ② That afternoon is engraved on her memory and she cannot date it.
 = 那个下午刻在她记忆里，她却说不出确切日期。
 be engraved on somebody's memory = 深深刻在某人记忆里
@@ -45312,6 +45384,8 @@ engrossing
 = 那场比赛让人看了八十分钟，最后一分钟才见分晓。
 engrossing = 引人入胜的
 an engrossing book = 一本让人放不下的书
+An engrossing book made him miss his stop twice in one week.
+= 一本让人放不下的书，害他一周坐过站两回。
 ② An engrossing job is the only kind that makes the commute worth it.
 = 只有让人投入的工作，才值得那趟通勤。
 be engrossing = 让人全神贯注
@@ -45323,6 +45397,8 @@ engulf
 = 火焰四分钟就吞没了屋顶，墙倒还立着。
 engulf something = 吞没某物
 be engulfed in flames = 被大火吞没
+The barn was engulfed in flames before the first engine left the station.
+= 头一辆消防车还没出站，谷仓就被大火吞没了。
 ② Panic engulfed the market and nobody could name the trigger.
 = 恐慌席卷市场，谁也说不出是什么引发的。
 be engulfed by something = 被某事笼罩
@@ -45335,6 +45411,8 @@ enhance
 = 上一层油能把木纹提出来，什么也遮不住。
 enhance something = 提升、增强某物
 enhance the flavour = 提味
+A pinch of salt enhances the flavour of fruit and surprises everybody.
+= 一小撮盐能给水果提味，谁听了都意外。
 ② Two years abroad enhanced her prospects more than the degree did.
 = 在国外那两年对她前途的提升，比那个学位还大。
 enhance somebody's prospects = 提升某人的前景
