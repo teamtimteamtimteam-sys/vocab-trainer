@@ -30807,6 +30807,9 @@ gad = 到处乱跑
 ③ By gad, the whole shelf came down in one go.
 = 天哪，整个架子一下就塌了。
 by gad = 天哪
+gad around = 四处闲逛（美式多用 around，英式多用 about）
+They gad around Europe every April and come home with nothing but photographs.
+= 他们每年四月满欧洲闲逛，回来只带着照片。
 
 gadabout
 核心：三支（非正式，略旧）。一是成天在外玩乐、不着家的人；
@@ -30925,6 +30928,10 @@ a gaffer = 灯光师领班
 ③ An old gaffer at the bar remembers the pub before the road was built.
 = 吧台边一位老人，记得那条路修起来之前的酒馆。
 an old gaffer = 老头儿
+④ Gaffer tape holds that whole set together and peels off without marking the floor.
+= 布基胶带撑着整个布景，揭下来还不伤地板。
+gaffer tape = 布基胶带、剧组用的强力胶带
+名字来自第二支的灯光师领班 —— 片场上就是他们在用。
 
 gag
 核心：四支。一是堵嘴的布、封口：put a gag on somebody；
@@ -30942,6 +30949,10 @@ a running gag = 反复出现的梗
 ④ He gagged on the first mouthful and finished the plate anyway.
 = 第一口他就作呕，还是把那盘吃完了。
 gag on something = 被某物噎住
+⑤ A gag rule kept the committee from debating those petitions for eight years.
+= 一条禁言规则，让委员会八年不能辩论那些请愿。
+a gag rule = 禁止讨论某议题的规则（美式）
+gag order 是法院对个案下的，gag rule 是议事机构自己定的通则。
 
 gaga
 核心：三支（非正式）。一是（年老）糊涂的：go gaga；
@@ -31510,6 +31521,10 @@ a gamble on something = 对某事的一场豪赌
 ③ He gambled away a year's wages in a fortnight and told nobody.
 = 他两周里输光了一年的工钱，谁也没说。
 gamble away = 赌光输掉
+④ They gambled on doing the repairs themselves and finished a month late.
+= 他们冒险自己动手修，结果晚了一个月完工。
+gamble on doing something = 赌自己做得成某事
+后面接动名词时赌的是「这件事做得成」，接名词时赌的是某个结果。
 
 gambler
 核心：三支。一是赌徒：a heavy gambler；二是爱冒险的人；
@@ -31578,6 +31593,53 @@ fair game = 可以随便攻击的对象
 ⑦ She gamely finished a race she should have stopped at halfway.
 = 她硬是跑完了那场本该中途退出的比赛。
 gamely finish something = 不服输地完成某事
+⑧ Two years of quiet work kept that small firm ahead of the game.
+= 两年闷头做事，让那家小公司一直领先一步。
+be ahead of the game = 领先一步、占得先机
+the name of the game = 最要紧的事、关键所在
+In that trade speed is the name of the game and accuracy comes second.
+= 在那一行，快才是关键，准在其次。
+⑨ One cheap moisture sensor turned out to be a game changer for small farms.
+= 一个便宜的湿度传感器，结果成了小农场的转折点。
+a game changer = 改变格局的人或事
+game-changing = 扭转局面的
+Nobody called the discovery game-changing until a second trial confirmed it.
+= 第二次试验证实之前，没人说这项发现扭转了局面。
+名词写成两个词，形容词写成带连字符的一个词。
+⑩ Their game plan for the last week was to say nothing and wait.
+= 他们最后一周的行动方案，就是什么也不说，等着。
+a game plan = 行动方案、作战计划
+put on your game face = 摆出全力以赴的神情
+She put on her game face in the corridor and then asked for the whole budget.
+= 她在走廊上摆出全力以赴的神情，进门就要下整笔预算。
+a game-time decision = 临场才定的决定（美式）
+A game-time decision left half the squad packing for nothing.
+= 一个临场才定的决定，让半支队伍白收拾了行李。
+这一族把「比赛」引申成「要紧的正事」，球场外照样用。
+⑪ He saved three game points and lost the fourth to a ball off the net.
+= 他化解了三个局点，第四个输在一个擦网球上。
+game point = 局点
+⑫ The game controller stopped charging and the whole evening fell apart.
+= 游戏手柄充不上电，整个晚上就泡汤了。
+a game controller = 游戏手柄
+⑬ That game show pays its winners in holidays and takes the tax out first.
+= 那档电视游戏节目拿假期当奖品，还先把税扣掉。
+a game show = 电视游戏节目
+指电视上答题闯关那种节目，不是体育比赛。
+⑭ A game warden counts the rhino on the game reserve twice a year.
+= 猎场管理员一年两次清点保护区里的犀牛。
+a game warden = 猎场管理员、野生动物管理员
+a game reserve = 野生动物保护区
+game fish = 可供垂钓的大鱼
+Anglers fly halfway round the world for a game fish they then let go.
+= 钓手为一条可供垂钓的大鱼飞半个地球，钓上来又放回去。
+这一族接的是第三支「猎物」，指受管制、可合法猎捕的野生动物。
+⑮ A game misconduct in the second period left them a man short all night.
+= 第二节一张取消比赛资格的重罚，让他们整晚少打一人。
+a game misconduct = （冰球）取消当场比赛资格的重罚
+⑯ Game theory explains why both prisoners confess before the lawyer arrives.
+= 博弈论解释了为什么两名囚犯都赶在律师到场前认罪。
+game theory = 博弈论
 
 gamekeeper
 核心：三支。一是猎场看守人：work as a gamekeeper；
@@ -31734,6 +31796,9 @@ gaming laws = 博彩法规
 ③ Gaming the system takes longer than doing the work properly.
 = 钻规则空子花的时间，比老老实实干还长。
 game the system = 钻规则的空子
+④ Every gaming machine in that arcade takes cards now and nobody carries coins.
+= 那家游乐场的投币游戏机现在都刷卡，没人带硬币了。
+a gaming machine = 投币游戏机、老虎机
 
 gamma
 核心：三支。一是希腊字母第三个；二是伽马射线：gamma rays；
@@ -31747,6 +31812,13 @@ gamma rays = 伽马射线
 ③ The gamma on that screen is wrong and every photograph looks flat.
 = 那块屏的伽马值不对，每张照片都显得发灰。
 the gamma of a screen = 屏幕的伽马值
+④ Gamma radiation from the leak stayed above the safe level for six days.
+= 泄漏处的伽马辐射，六天都高过安全值。
+gamma radiation = 伽马辐射
+gamma globulin = 丙种球蛋白
+One dose of gamma globulin bought the whole ward a few weeks of protection.
+= 一剂丙种球蛋白，给整个病房换来几周的保护。
+讲射线本身说 gamma rays，讲照射量与防护多说 gamma radiation。
 
 gammon
 核心：三支（英）。一是腌熏猪后腿肉：a gammon steak；
@@ -31828,6 +31900,18 @@ a gang of labourers = 一班工人
 ④ Three of them ganged up on him over a parking space.
 = 他们三个为一个车位联手对付他。
 gang up on somebody = 联合起来对付某人
+⑤ The villagers ganged together and kept the road closed for a fortnight.
+= 村民抱成一团，把那条路封了两个星期。
+gang together = 联合起来、抱成团
+gang up on 是冲着某个人去的，gang together 只是聚成一伙。
+⑥ Three men were convicted of gang rape after a trial lasting four weeks.
+= 三名男子经过四周审判，被判轮奸罪名成立。
+gang rape = 轮奸
+gang bang = （粗俗俚语）多人性行为；（美俚）团伙火并
+gang bang 是粗俗俚语，认得即可，正经场合一律说 gang rape。
+⑦ The Scouts put on a gang show every spring and sell every seat twice over.
+= 童子军每年春天办一场汇演，票都卖两轮。
+a gang show = （英）童子军汇演
 
 gangbusters
 核心：三支（美，非正式）。一是 go gangbusters，势头极猛、大获成功；
@@ -32056,6 +32140,9 @@ bridge the gap = 弥合差距
 ⑤ A generation gap in that family runs along the kitchen table.
 = 那家人的代沟，就沿着餐桌划开。
 a generation gap = 代沟
+⑥ A gap-toothed grin in the school photograph is the only face anybody remembers.
+= 学校合照上那个豁牙的笑脸，是唯一被人记住的脸。
+gap-toothed = 豁牙的、牙缝大的
 
 gape
 核心：三支。一是目瞪口呆地看：gape at something；
