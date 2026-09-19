@@ -9,8 +9,11 @@ sys.path.insert(0, 'scripts')
 from wordkey import sort_key, prefix, numsort
 
 def entries(pat):
+    # 必须用 numsort，不能用 sorted —— 条数过万之后文件名字典序会把
+    # B-10101-10124 排到 B-9976-10000 前面，「最末词条」就报成 gendered
+    # 而不是 geyser，冷启动第一眼就被带偏（2026-09-20 修）。
     out = []
-    for f in sorted(glob.glob(pat)):
+    for f in numsort(glob.glob(pat)):
         for b in io.open(f, encoding='utf-8').read().split('\n\n'):
             if b.strip(): out.append(b.strip().split('\n')[0].strip())
     return out
