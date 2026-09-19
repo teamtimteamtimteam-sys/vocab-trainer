@@ -32,6 +32,22 @@ FILL  = re.compile(r'(词族|常用搭配|搭配)')
 
 ART = re.compile(r'^(a|an|the|to)\s+', re.I)
 
+def in_example(lhs, ex):
+    """这条等式的搭配是不是原样出现在它上方那句例句里（2026-09-20 收紧）。
+
+    「一组一个例句、底下并列几条等式」是并入复合词的既定写法（CLAUDE.md），
+    可 scan 只给紧跟例句的第一条等式记「已有例句」，同组第二条起一律报缺。
+    gas ⑥ 的例句 They pulled into a gas station with the gas cap still hanging
+    open. 明明把 a gas cap 演示得清清楚楚，却年年挂在待补清单上。
+    判据放得很死：搭配去掉冠词占位词后必须**逐字**出现在那句例句里，
+    连字符与空格视为同一个边界。差一个字就照旧报缺。"""
+    if not ex: return False
+    a = ART.sub('', lhs.strip()).lower().replace('-', ' ')
+    a = re.sub(r'\s+', ' ', a).strip()
+    if len(a) < 3: return False
+    e = re.sub(r'\s+', ' ', ex.lower().replace('-', ' '))
+    return a in e
+
 def related(lhs, head):
     """等式左边是不是在讲词头本身 —— 含词头、或跟词头共享两个以上首字母。"""
     a = ART.sub('', lhs.strip()).lower(); h = head.strip().lower()
@@ -66,9 +82,9 @@ def scan(segs, want=(1, 2)):
             if not L: continue
             head = L[0].strip()
             if segs and not any(prefix(head, len(s)) == s for s in segs): continue
-            armed = False; lab = None; need = []
+            armed = False; lab = None; need = []; ex = None
             for j, l in enumerate(L[1:], start=1):
-                if l[0] in NUMS: armed = True; lab = None; continue
+                if l[0] in NUMS: armed = True; lab = None; ex = l; continue
                 if l.startswith('='): continue
                 if LABEL.match(l.strip()): lab = l.strip(); continue
                 if ' = ' in l:
@@ -80,6 +96,8 @@ def scan(segs, want=(1, 2)):
                         done = (nxt and not nxt.startswith('=') and ' = ' not in nxt
                                 and not re.search(r'[一-鿿]', nxt) and nxt[0] not in NUMS)
                         if done: continue
+                        # 同组的第二条起：搭配原样出现在上方那句例句里就算已有例句
+                        if in_example(l.strip().split(' = ')[0], ex): continue
                         lhs, rhs = [x.strip() for x in l.strip().split(' = ', 1)]
                         # 这些等式不是搭配，补例句没有意义：
                         #   · 左边没有拉丁字母（「生化用语 = 亲和力」这种标注）
@@ -93,7 +111,9 @@ def scan(segs, want=(1, 2)):
                                       r'|宾语放在中间|单数少用|几乎只用于|几乎只出现在)', rhs): continue
                         tier = 2 if (lab and '词族' in lab) else 1
                         if tier in want: need.append((j, l.strip()))
-                else: lab = None
+                else:
+                    lab = None
+                    if re.match(r'^[A-Za-z]', l) and not re.search(r'[一-鿿]', l): ex = l
             need = drop_contrast_runs(need, head)
             if need: rows.append((f, head, [x[1] for x in need]))
     return rows

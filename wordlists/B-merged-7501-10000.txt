@@ -30893,6 +30893,22 @@ use gadzooks = 用这个古旧感叹词
 = 他冲侍者来了句文绉绉的感叹，午饭上得极慢。
 say gadzooks = 来一句故作古雅的感叹
 
+Gaelic
+核心：两支，都得大写。一是盖尔语这一支凯尔特语言 —— 爱尔兰的那门平时说
+Irish 或 Gaelic，苏格兰的那门说 Scottish Gaelic，两者不能互换；
+二是形容词，盖尔语的、盖尔文化的，常见于 Gaelic football、Gaelic music。
+注意跟只差一个字母的 Gallic（法国的）毫不相干。
+① Gaelic is taught in every school there and spoken in only a few homes.
+= 那里每所学校都教盖尔语，真正在家说的只有几户。
+Gaelic = 盖尔语
+② Gaelic football fills that stadium twice a summer and empties the pubs.
+= 盖尔式足球一个夏天能把那座球场填满两回，酒馆则空掉。
+Gaelic football = 盖尔式足球
+③ The Gaelic name on the road sign sits above the English one and in larger type.
+= 路牌上的盖尔语地名写在英文名上方，字号还更大。
+a Gaelic name = 盖尔语名字
+爱尔兰境内说 Irish 的时候多，说 Gaelic 的人往往是外人。
+
 gaff
 核心：三支。一是（钓鱼用的）带钩长杆：use a gaff；二是（帆船）斜桁；
 三是习语 blow the gaff，走漏风声。
@@ -30995,6 +31011,21 @@ a gaggle of children = 一群孩子
 ③ There is a gaggle of forms to fill in and two of them ask the same thing.
 = 一堆表格要填，其中两张问的是同一件事。
 a gaggle of something = 乱糟糟的一堆
+
+Gaia
+核心：希腊神话里大地女神的名字，现代英语里主要活在 the Gaia hypothesis
+（盖亚假说）里，把整个地球看作一个会自我调节的系统；由此也用作地球、
+大自然的拟人称呼，带点敬意，也常被人拿来调侃。大写，不可数。
+① The Gaia hypothesis treats the whole planet as one self-regulating system.
+= 盖亚假说把整个行星看作一个能自我调节的系统。
+the Gaia hypothesis = 盖亚假说
+② Speakers at that conference kept calling the planet Gaia and meant it seriously.
+= 那场会议上的发言人一直管地球叫盖亚，而且是认真的。
+Gaia = 盖亚（作为大地母亲的地球）
+③ Gaia comes first in that myth and every other god descends from her.
+= 在那个神话里盖亚最先出现，其余的神都由她而来。
+Gaia = 盖亚（大地女神）
+名字来自古希腊语的「大地」，二十世纪七十年代被借去给那个假说命名。
 
 gaiety
 核心：三支。一是欢快、热闹：the gaiety of a party；
@@ -31341,6 +31372,35 @@ a galliard = 三拍的活泼舞曲
 = 他们把帕凡舞曲和加亚尔德舞曲当成一对来奏。
 a pavan and a galliard = 成对的慢舞与快舞
 
+Gallic
+核心：形容词，法国的、法国人身上那一股劲儿的，源自古罗马人对高卢
+（Gaul）的叫法。日常用它多半带点调侃或欣赏，形容气质与做派，
+不用来说国籍 —— 说国籍用 French。注意别混：Gallic 是法国的，
+Gaelic 是爱尔兰与苏格兰的凯尔特语。
+① He answered with a Gallic shrug and did not say a single word.
+= 他耸了耸法国人那种肩，一个字也没说。
+a Gallic shrug = 法国式的耸肩
+② Gallic charm got him through an interview he had not prepared for.
+= 法国人那股魅力，帮他混过了一场根本没准备的面试。
+Gallic charm = 法式魅力
+③ Gallic pride in that kitchen shows in what the menu refuses to serve.
+= 那间厨房的法式自尊，体现在菜单拒绝供应什么上。
+Gallic pride = 法国人的自尊
+
+Gallicism
+核心：从法语搬进英语的痕迹 —— 一个词、一个短语，或者一种句式。
+可数，多用在语言学与写作讨论里，语气中性偏学究；说某处是 Gallicism
+是在指出它的来路，不等于说它错。大写。
+① The report is full of Gallicisms that the editor left in on purpose.
+= 那份报告满是法语式说法，编辑是故意留着的。
+a Gallicism = 法语式说法
+② Writing that somebody will assist at a meeting is a Gallicism, not a slip.
+= 写某人将「assist at」一场会议，是法语式说法，不是手误。
+be a Gallicism = 属于法语式说法
+③ Cookery writing tolerates a Gallicism that nobody would allow in a contract.
+= 烹饪文章容得下一个法语式说法，合同里却没人肯放过。
+tolerate a Gallicism = 容得下法语式说法
+
 galling
 核心：三支。一是令人恼火的、憋屈的：a galling defeat；
 二是（事实）刺人的；三是（差别）让人不服气的。
@@ -31509,6 +31569,19 @@ galvanized steel = 镀锌钢
 ③ The shock galvanized the whole street into fixing their own gutters.
 = 那次教训让整条街的人都动手修自家的排水槽。
 galvanize somebody into doing something = 促使某人去做某事
+
+Gambian
+核心：冈比亚的、冈比亚人，形容词与名词同形，大写。要记的一件事是
+国名本身固定带定冠词：the Gambia —— 英语里这样的国名没几个。
+① A Gambian passport gets her into most of West Africa without a visa.
+= 一本冈比亚护照，让她进西非大多数国家都不用签证。
+a Gambian passport = 冈比亚护照
+② Two Gambians on that team have played together since primary school.
+= 队里那两个冈比亚人，从小学起就一起打球。
+a Gambian = 冈比亚人
+③ Gambian music travels a great deal further than the country's radio signal.
+= 冈比亚的音乐，传得比这个国家自己的广播信号远得多。
+Gambian music = 冈比亚音乐
 
 gambit
 核心：三支。一是（棋）弃子抢先的开局：a gambit；
@@ -31898,6 +31971,20 @@ take a gander at something = 瞄一眼某物
 ③ What is good for the goose is good for the gander in that household.
 = 在那家人眼里，对母鹅合适的，对公鹅也一样合适。
 the goose and the gander = 母鹅与公鹅
+
+Gandhian
+核心：形容词兼名词，指甘地那一套主张 —— 非暴力、不合作、简朴自守。
+大写，后面常接 principles、movement、economics；作名词指信奉这套主张的人。
+说一场运动是 Gandhian，说的是它的手段，不是它的国籍。
+① Gandhian principles kept the protest peaceful for all of eleven weeks.
+= 甘地式的原则，让那场抗议整整十一周都没动粗。
+Gandhian principles = 甘地式原则
+② A Gandhian would rather lose the vote than win it by that method.
+= 一个甘地信徒宁可输掉表决，也不肯用那种手段赢。
+a Gandhian = 甘地思想的信奉者
+③ Gandhian economics puts the village before the factory and the hand before the machine.
+= 甘地式经济学把村庄摆在工厂前面，把手摆在机器前面。
+Gandhian economics = 甘地式经济学
 
 gang
 核心：四支。一是帮派、团伙：a street gang；二是（一伙）朋友：the whole gang；
@@ -33921,98 +34008,3 @@ a gem of a place = 难得的好地方
 ③ She is a gem and the office would fall apart in a week without her.
 = 她是个宝，没有她办公室一周就散。
 be a gem = 是个难得的好人
-
-geminate
-核心：三支（语言学）。一是双辅音、叠音的：a geminate consonant；
-二是动词，使成对、使加倍；三是（术语）成对出现的那一类形式。
-① A geminate consonant is held twice as long and changes the meaning.
-= 双辅音要拖长一倍，意思也跟着变。
-a geminate consonant = 双辅音
-② The language geminates the middle consonant in that form.
-= 那门语言在这个形式里把中间的辅音加倍。
-geminate a consonant = 使辅音加倍
-③ Geminates are written double and pronounced long.
-= 叠音写成双字母，读得长。
-geminates = 叠音形式
-
-Gemini
-核心：两支。一是双子座：黄道十二宫的第三宫，也指这个星座下出生的人；
-二是天文学里的双子星座。可数，指人时说 a Gemini 或 she is a Gemini。
-① She is a Gemini and blames every change of mind on the stars.
-= 她是双子座，每次改主意都推给星象。
-be a Gemini = 是双子座的人
-② Gemini runs from late May to late June and the magazines never agree.
-= 双子座从五月下旬到六月下旬，杂志上说的日期从来对不上。
-Gemini = 双子座
-③ Two bright stars in Gemini are easy to find and hard to tell apart.
-= 双子座里有两颗亮星，好找，却难分清哪颗是哪颗。
-in Gemini = 在双子座里
-
-gen
-核心：三支（英，非正式）。一是内情、要点：the gen on something；
-二是动词短语 gen up，事先弄清楚；三是（军队用语）情况通报。
-① Give me the gen on that supplier before I ring them.
-= 我给那家供应商打电话之前，先跟我说说他们的底细。
-the gen on something = 关于某事的内情
-② She genned up on the file overnight and ran the meeting.
-= 她一晚上把卷宗吃透，第二天主持了会议。
-gen up on something = 事先弄清某事
-③ The gen came through at four and changed the whole plan.
-= 四点通报传来，整个计划都改了。
-the gen = 通报的情况
-
-gendarme
-核心：三支。一是（法国等地的）宪兵、警察；二是乡镇上那个警所的人；
-三是（登山）山脊上的岩塔，也叫这个词。
-① A gendarme waved the whole queue through without looking at anything.
-= 一名宪兵把整队人挥手放行，什么都没看。
-a gendarme = 宪兵
-② Two gendarmes stand outside that building whatever the weather.
-= 不论什么天气，那栋楼外都站着两名宪兵。
-gendarmes = 宪兵
-③ The gendarme on that ridge has to be climbed or gone round.
-= 山脊上那座岩塔，要么翻过去，要么绕过去。
-a gendarme = 山脊岩塔
-
-gender
-核心：三支。一是性别（作为社会身份）：gender equality；
-二是（语法）性：a feminine gender noun；三是（统计、表格里的）性别栏。
-① Gender equality in that company stops at the second floor.
-= 那家公司的性别平等，到二楼就打住了。
-gender equality = 性别平等
-② A feminine gender noun takes a different article in that language.
-= 在那门语言里，阴性名词用的冠词不一样。
-grammatical gender = 语法性
-③ The form asks for gender twice and for age not at all.
-= 那张表问了两遍性别，年龄一次没问。
-ask for gender = 询问性别
-④ The gender gap in that trade closed once the shifts changed.
-= 排班一改，那一行的性别差距就合上了。
-the gender gap = 性别差距
-⑤ Gender identity is asked on the form and used in none of the decisions.
-= 表上问性别认同，做决定时一处也没用。
-gender identity = 性别认同
-⑥ Gender reassignment takes years and the waiting list takes several more.
-= 性别重置要好些年，排队还要再加几年。
-gender reassignment = 性别重置
-⑦ The uniform is gender-neutral and the changing rooms are gender-specific.
-= 制服是不分性别的，更衣室却是分性别的。
-gender-neutral = 不分性别的
-gender-specific = 分性别的
-两个正好成对，前者抹平区分，后者按性别分开。
-⑧ A gender bender in that band wore a suit and a ballgown on alternate nights.
-= 那支乐队里有位打扮不拘性别的人，一晚穿西装，一晚穿舞会长裙。
-a gender bender = 打扮不拘性别的人
-
-gendered
-核心：三支。一是有性别之分的、带性别色彩的：gendered language；
-二是（分工、期待）按性别划分的；三是（学术）性别化的。
-① Gendered language in that handbook was changed and nobody noticed.
-= 那本手册里带性别色彩的说法改过了，没人察觉。
-gendered language = 带性别色彩的语言
-② The work is gendered and the pay follows the division.
-= 那份工作按性别分工，薪酬也照着分。
-be gendered = 按性别划分
-③ A gendered reading of that story finds a different ending.
-= 从性别角度读那个故事，读出的是另一个结局。
-a gendered reading = 性别视角的解读
