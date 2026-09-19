@@ -108,6 +108,13 @@ the gate = 入场人数与门票收入
 ④ Two boys were gated for a week and spent it in the library.
 = 两个男生被禁足一周，都在图书馆里过的。
 be gated = 被禁止外出
+⑤ The gate money barely covered the stewards and the away team's coach.
+= 门票收入勉强够付安保和客队那辆大巴。
+gate money = 门票收入
+⑥ A gate array is a chip left half-finished so the buyer can wire the rest.
+= 门阵列是一块故意留了一半没做完的芯片，买家自己接完余下的线路。
+a gate array = 门阵列（芯片）
+这一支的 gate 是电子学的「门电路」，跟大门那一支只是同形。
 
 gateau
 核心：三支。一是（法式）多层奶油大蛋糕；二是切块论片卖的那种；

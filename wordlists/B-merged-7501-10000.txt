@@ -32463,6 +32463,9 @@ the garment trade = 成衣业
 ③ Each garment is checked twice and labelled by the person who checked it.
 = 每件衣服查两遍，由查的人签标。
 a garment = 一件衣服
+④ A garment bag keeps the suit flat and takes up a whole overhead locker.
+= 一个挂衣袋能让西装不起皱，却要占掉一整格行李舱。
+a garment bag = 挂衣袋、西装袋
 
 garms
 核心：三支（英，俚语）。一是衣服、行头：fresh garms；
@@ -32610,6 +32613,13 @@ throw the garter = 抛袜带
 ③ The Order of the Garter has twenty-four members and one empty stall.
 = 嘉德勋位有二十四位成员，另留一个空席。
 the Order of the Garter = 嘉德勋位
+④ She wore a garter belt under the dress because the stockings kept slipping.
+= 她在裙子里穿了吊袜腰带，因为长袜老往下掉。
+a garter belt = 吊袜腰带（美式，英式说 suspender belt）
+⑤ A garter snake in the compost heap eats slugs and frightens the neighbours.
+= 堆肥堆里的一条束带蛇专吃鼻涕虫，却把邻居吓得不轻。
+a garter snake = 束带蛇
+名字来自它身上那几道像袜带的长条纹。
 
 gas
 核心：五支。一是气体：a poisonous gas；二是（做饭、取暖的）燃气：turn the gas down；
@@ -32633,6 +32643,53 @@ step on the gas = 踩油门、加把劲
 a gas mask = 防毒面具
 A gas mask in the attic still smells of rubber after eighty years.
 = 阁楼上一副防毒面具，八十年后还有一股橡胶味。
+⑥ They pulled into a gas station with the gas cap still hanging open.
+= 他们开进加油站时，油箱盖还敞着。
+a gas station = 加油站（美式）
+a gas cap = 油箱盖（美式）
+第三支「汽油」这一族全是美式说法，英式对应的是 petrol station 一类。
+⑦ He keeps his foot light on the gas pedal and still gets poor gas mileage.
+= 他油门踩得很轻，每加仑还是跑不了多远。
+the gas pedal = 油门踏板（美式）
+gas mileage = 每加仑油跑的里程（美式）
+⑧ A gas guzzler that size is cheap to buy and ruinous to keep on the road.
+= 那么大的耗油车买着便宜，养下去能把人拖垮。
+a gas guzzler = 耗油大的车（美式）
+gas-guzzling = 耗油的
+A gas-guzzling fleet costs the council more each year than the drivers do.
+= 一队耗油的车，每年花掉议会的钱比司机还多。
+⑨ Gas oil is dyed red so that nobody is tempted to burn it in a car.
+= 燃料油被染成红色，省得有人动心加进汽车里。
+gas oil = 柴油一类的燃料油
+名字里带 gas，东西却是液体燃料，别跟美式的「汽油」义混。
+⑩ She lit the back gas ring and the gas lamp in the hall at the same time.
+= 她同时点着了后面那个煤气灶眼和门厅的煤气灯。
+a gas ring = 煤气灶眼
+a gas lamp = 煤气灯
+a gas mantle = 煤气灯的纱罩
+A gas mantle turns to ash if you so much as touch it with a finger.
+= 煤气灯的纱罩，手指碰一下就化成灰。
+gas-fired = 烧燃气的
+The gas-fired station covers the evening peak and sits idle by midnight.
+= 那座燃气电站顶着晚高峰，到半夜就闲着了。
+⑪ The gas chamber in that prison has stood unused since the nineties.
+= 那所监狱的毒气室，从九十年代起就没再用过。
+a gas chamber = 毒气室
+⑫ A gas giant has no surface to land on, only thicker and thicker cloud.
+= 气态巨行星没有可以着陆的表面，只有越来越厚的云层。
+a gas giant = 气态巨行星
+⑬ Gas exchange happens in the last millimetre of the lung and nowhere else.
+= 气体交换只发生在肺的最末一毫米，别处都不行。
+gas exchange = 气体交换
+gas-permeable = 透气的
+Gas-permeable lenses let the eye breathe and cost about twice as much.
+= 透气镜片让眼睛透得过气，价钱也贵一倍左右。
+⑭ The gas-cooled reactor ran for forty years and was taken apart in stages.
+= 那座气冷反应堆运行了四十年，分阶段拆除。
+gas-cooled = 气冷的
+⑮ The campaign ran out of gas about three weeks before the vote.
+= 那场竞选在投票前三周就没了劲。
+run out of gas = 没油了；（比喻）后劲用尽
 
 gasbag
 核心：三支（非正式）。一是话多的人、聒噪鬼；
@@ -32803,6 +32860,14 @@ a gastric ulcer = 胃溃疡
 ③ Gastric surgery is a last step and the leaflet says so twice.
 = 胃部手术是最后一步，单页上写了两遍。
 gastric surgery = 胃部手术
+④ A gastric band can be taken out again and a gastric bypass cannot.
+= 胃束带还能取出来，胃绕道手术就取不回了。
+a gastric band = 胃束带
+a gastric bypass = 胃绕道手术
+⑤ Gastric flu went round the whole ward and closed it for a week.
+= 胃肠型流感在整个病房转了一圈，病房关了一周。
+gastric flu = 胃肠型流感（英式口语）
+跟流感病毒无关，英式口语里指上吐下泻那一类，正式说法是 gastroenteritis。
 
 gastritis
 核心：三支（医学）。一是胃炎；二是急性发作的那一阵；
@@ -32927,6 +32992,13 @@ the gate = 入场人数与门票收入
 ④ Two boys were gated for a week and spent it in the library.
 = 两个男生被禁足一周，都在图书馆里过的。
 be gated = 被禁止外出
+⑤ The gate money barely covered the stewards and the away team's coach.
+= 门票收入勉强够付安保和客队那辆大巴。
+gate money = 门票收入
+⑥ A gate array is a chip left half-finished so the buyer can wire the rest.
+= 门阵列是一块故意留了一半没做完的芯片，买家自己接完余下的线路。
+a gate array = 门阵列（芯片）
+这一支的 gate 是电子学的「门电路」，跟大门那一支只是同形。
 
 gateau
 核心：三支。一是（法式）多层奶油大蛋糕；二是切块论片卖的那种；
@@ -33338,6 +33410,9 @@ gaily agree = 轻快地答应
 gayness = 同性恋这一身份
 His gayness was an open secret the village never discussed.
 = 他的同性恋身份是村里公开的秘密，却从没人拿出来说。
+⑤ Gay pride began as a protest march and now closes half the city for a day.
+= 同性恋自豪游行起初是一场抗议游行，如今能让半个城停摆一天。
+gay pride = 同性恋自豪（运动、游行）
 
 gaydar
 核心：三支（非正式）。一是辨认他人是否同性恋的直觉；
