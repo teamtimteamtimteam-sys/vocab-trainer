@@ -145,59 +145,41 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
 
 **进度从脚本读，别手写**：`python3 scripts/status.py` 末尾会打出两档的剩余条数。
 
-## 八、当前进度（2026-09-11）
+## 八、当前进度（2026-09-20）
 
-- B 词表 **10060 条**，词典序 a → geochemistry；交付文件第五份已开头
-  （`B-merged-10001-*.txt`）。A 表 3002 条。
-- **词典本身**：f 段 99%（剩的是待推迟），g 段在写，**下一批从 geode 起**
-  （geography / geology / geometry / German / germ / gerrymander 一带）。
+- B 词表 **10130 条 / 36212 个义项**，词典序 a → geyser；A 表 3002 条。
+  交付文件第五份已开头（`B-merged-10001-10130.txt`）。
+  **条数、义项数、段完成度一律从脚本读**（`status.py` / `check-merged.py` /
+  `audit-padding.py` / `coverage.py`），别照抄这一节的数字。
+- **词典本身**：a–f 段 97% 以上，g 段的 **ga 与 ge 都收完了（各 99%，
+  剩下的全是待推迟）**。**下一批从 ghastly 起**（gherkin / ghetto / ghost 一带）。
   G 段大写词头 51 条已登记进 proper-nouns-keep。
-- **补例句这件事做完了**（tier1 与 tier2 两档）。
-  - **tier1（并入短语与常用搭配）**：1573 → 22。剩的 22 条是明知故留的，名单见下。
-  - **tier2（词族）**：841 条里**只补了 141 条**，用户 2026-09-12 定的范围 ——
-    另外 700 条的左边词**自己就是 B 表词条**（abandon 的词族列着 abandonment
-    与 abandoned，这两个词各有条目、各有两三条例句），在别人的词族块底下
-    再写一条等于同一个词第二套例句，还会在 scan-dupes 的跨词条通道上
-    造出 700 对同词候选。**`need-example --tier2` 仍会列出那 694 条，
-    那不是漏网，是按范围不补的。**
-    141 条里又跳了 3 条：Aborigine（注明「现被认为过时」）、
-    adviser / advisor（两词一行）、以及已并入第一处的重复项。
-  - 判断某条属不属于那 700：左边词去掉冠词之后，是不是 B 表的一个词头。
-- **明知故留的 22 条**（`need-example --tier1 --list` 还会列出来，别当成漏网）：
-  - **辨析对照**，靠形状认不出来（跑道长度只有 1，两边不相干）：
-    asylum→refugee、be→have gone to、behalf→in place of、blend→mix、
-    boat→ship、bespectacled→wearing glasses、bladder→puncture、
-    blistered→peel off、bloodthirsty→bay for、boll→devastate、
-    bored→thoroughly、boundary→dispute、berk→berk 与 idiot、bestie→bessie
-  - **用法对照块里的**：day 的 during the day 与 in the daytime
-    （在「注意用法：说「在白天」用 during 或 in」那个块里）
-  - **两词挤一行**：back→back issue / back number、
-    counter→counter-revolution；counter-revolutionary
-  - **讲拼写而非释义**：die→dyed in the wool（注里说的是它拼的是另一个词）、
-    do→don't = do not 那张缩写表
-  - **冒犯语**：fag→fag hag，词条自己标着「俚语，冒犯，认得即可」。
-    （fuck 底下那几条补了 —— 词条本身已带例句与语域提示，不是针对人群的侮辱语。）
-- **`need-example --tier1` 现在是 63 条，三种东西混在一起，别当成一档活**
-  （2026-09-20 核过的账）：
-  - **22 条是明知故留的**，名单见上一节。
-  - **13 条是「词族」被打断后掉进 tier1 的**。给词族块补例句时插进去的例句
-    会**重置「词族：」标签的作用域**（need-example 遇到例句行就把 lab 清空），
-    标签后面剩下的等式于是不再算 tier2。这 13 条的左边词自己就是 B 词条
-    （absolute、arbitrate、audio、bigness、billion、bitterness…），
-    **属于用户裁定不补的那 700 条，别因为它们出现在 tier1 里就去填。**
-    判断办法照旧：左边词去掉冠词后是不是 B 表的一个词头。
-  - **28 条是 2026-09-12 ge- 段并入新造的**（general 6 条、gene、gender、
-    gear 等），这一批是**真该补的** —— 「一组一个例句、底下并列几条等式」
-    的做法本来就会留下这笔，等下一轮补例句时收掉。
-
-- **这一轮踩过的三个坑，往后照着躲**：
-  1. `fill-example` 只认「词头＋等式左边」，同一词条里同名等式挂着几个义项时
-     （comprise 四处、bluff 三处）会补错支。现在键可以写三元组
-     `("词头", "等式左边", 第几处)`，**补完一定回头核对落点**。
-  2. 有些等式紧跟在例句后面（本来就有例句），脚本仍可能把它当第一处填进去 ——
-     drink-driving、during the day 都这么错过一次。核对落点能抓住。
-  3. 新写的句子容易跟词条自己的例句撞开头或撞意思 —— critter、drink-driving
-     各撞过一次。写之前先读完整条词条。
+- **补例句这件事做完了**（tier1 与 tier2 两档）。剩下列出来的**都不是漏网**：
+  - **tier1 现在 52 条**。三种东西混在一起，动手前逐条判：
+    · **明知故留的冒犯语两条**：fa 段的 fag hag、ga 段的 gang bang
+      （词条本身已标「粗俗俚语，认得即可」）。
+    · **辨析对照与两词挤一行那一类**（asylum→refugee、back→back issue /
+      back number、die→dyed in the wool、day 的 during the day…）——
+      靠形状认不出来，一直会留在清单上。
+    · **「词族」被打断后掉进 tier1 的**：左边词自己就是 B 词条
+      （absolute、arbitrate、audio、billion…），属用户 2026-09-12 裁定
+      不补的那一批。判断办法：左边词去掉冠词后是不是 B 表的一个词头。
+  - **tier2 现在 562 条**，绝大多数是上面说的「左边词自己有词条」那一类，
+    按裁定不补。
+  - **need-example 2026-09-20 收紧过一道**：「一组一个例句、底下并列几条等式」
+    的写法里，搭配原样出现在上方例句中的等式不再报缺（逐字比对，
+    连字符与空格算同一个边界，差一个字照报）。tier1 72 → 52、tier2 693 → 562，
+    少掉的全是假缺口。**所以并入时照旧按意思归组、一组一个例句就行，
+    只要那一组的搭配都出现在那句例句里，就不会留下待补的账。**
+    一句例句塞不下的搭配，就地写成「等式 + 英文例句 + 译文」三行挂上去。
+- **ga- 段那一轮（2026-09-20）踩到的两个坑**：
+  1. `audit-idioms` 的 CHECK 是**字典字面量，同名键会被后一条静默覆盖** ——
+     generation / gap / dust / duty 四组各有两份，前一份从来没查过。
+     往里加之前先 grep 一下有没有同名键。
+  2. 它的兜底匹配是**全表子串、没有词边界**：'gain on' 被 'bargain on' 撞上
+     就算已有。两三个字母的短语动词别指望这道闸门，真尺子是 coverage。
+- **动词变形照旧不单立条**：`gave` 进了 `inflections.txt`（gave→give）与
+  `exclude.txt`，等 gi- 段写 give 时连内容一起收 —— 同 geese→goose 的先例。
 
 ## 九、iPad app（index.html 单文件）也归这个仓库管
 
