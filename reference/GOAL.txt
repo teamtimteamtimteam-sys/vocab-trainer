@@ -9,34 +9,25 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-20，第五轮）═══
-B 词表 10243 条，词典序 a → gloat。A 表 3002 条。
-  a–f 段都在 97% 以上；**g 段 ga 99% / ge 99% / gh 100% / gi 99%**。
-  **gl 段在写：83/160（51%），还欠 77 条**，下一批从 glob 起：
-    glob、globe（globetrotter / globetrotting / globular / globule 并进去）、
-    global（globalism / globalist / globalization / globalize / globally，
-    以及 global warming / heating / village / positioning system）、
-    glocal、glockenspiel、glom、gloom（gloomily / gloominess / gloomy）、
-    gloop 与 glop（同义异形，各立一条）、glorify（glorification / glorified）、
-    glorious（gloriously）、glory（glory days / glory in）、
-    gloss（glossy / gloss over）、glossary、glottal（glottis / glottal stop /
-    glottal fry）、glove（glovebox / gloved / glove compartment / glove puppet）、
-    glow（glowing / glowingly / glow stick / glow-worm）、**glower 另立一条
-    并写「注意别混」—— 它跟 glow 不同源**、glucose、glue（gluey / glue ear /
-    glue-sniffing）、glug、glum（glumly）、glut、gluten、gluteus（glutes）、
-    glutinous、glutton（gluttonous / gluttony）、glycerine（glycerol）、glyph。
-  进段已剔 glissando 进 exclude.txt（演奏法的乐谱术语，同 accelerando 那条；
-  注明跟 gigue、sonata 那类体裁名的分界）。
-  这一轮记下的三件事：
-    · **audit-idioms 的清单是动笔前列的，写的时候照样会漏** ——
-      people who live in glass houses 就漏了，闸门当场报缺。这正是它的用处。
-    · **audit-padding 的元评论检查逮到 glans ②**（整句在谈这个词的写法）——
-      改例句、把写法说明退回讲解行，不松尺子。
-    · **coverage 按连续字符串搜**：glass something in 盖不住 glass in。
-      等式写不带宾语的原形，宾语位置另写讲解行 —— 这一招这一轮用了三次
-      （glass in、glance on，以及上一轮的 ginger up）。
+═══ 现状（2026-09-20，第六轮）═══
+B 词表 10271 条，词典序 a → glyph。A 表 3002 条。
+  a–f 段都在 97% 以上；**g 段 ga 99% / ge 99% / gh 100% / gi 99% / gl 99%**，
+  剩下的全是待推迟（gl 段只剩 glycaemic index，index 在 i 段）。
+  **下一批从 gm- 段起**，那是个很小的段，接着是 gn-、go-（go 是核心词，
+  按规矩独占一批，短语动词一大把，动笔前先把清单补进 audit-idioms 的 CHECK）。
+  进段四件事照旧：pull-pending、大写词头登记、补习语清单、整段清单一次扫干净。
+  gl 段这一轮：新词条 66 条，并入约 60 条。剔 glissando 进 exclude.txt。
+  **这一段反复出现、值得记住的一条**：同前缀却不同源的词要各立一条并写
+  「注意别混」—— glower 之于 glow、glutinous 之于 gluten、glans 之于 gland、
+  glop 之于 glob。coverage 按前缀猜宿主，这类它一律猜错。
+  三把尺子这一轮各拦下一次，都照「改词条不松尺子」办：
+    · audit-swallowed：globule 只在复数形 globules 里露过面，词头单数没出现；
+      glad-handing 只在讲解行里被提了一句。都补成真义项。
+    · audit-padding 的元评论检查：glans ② 整句在谈这个词的写法。改例句。
+    · audit-ab：A 表教过 in all one's glory，B 里只有 in all its glory。
+      逐条判过是该收的变体，写成讲解行补上。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10243
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10271
   新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
   check-merged 每批都逐条核过。push 照旧等用户开口。
 
