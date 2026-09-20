@@ -9,19 +9,25 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-20，第十四轮）═══
-B 词表 10542 条，词典序 a → gruyere。A 表 3002 条。
+═══ 现状（2026-09-20，第十五轮）═══
+B 词表 10593 条，词典序 a → gumshoe。A 表 3002 条。
   a–f 段 97% 以上；**g 段：ga 99% / ge 99% / gh 100% / gi 99% / gl 99% /
-  gm 空 / gn 100% / go 99% / gr 97%**。
-  **gr 段收完了：460/472（97%）**，剩的 12 条全是待推迟（内容词在后面的字母段）。
-  **下一批开 gu- 段**，接着 gy-，**收完 g 字母就完整了**。
-  gu- 段里 guard / guess / guest / guide / guilty / gun 是大词，
-  动笔前照例先跑 coverage gu 看清单、把习语补进 audit-idioms 的 CHECK。
-  gr 段这一路的七个大词（great / green / ground / group / grow / grind / grip）
-  都已写完，习语清单留在 CHECK 里继续管着。
-  **这一轮记下的一条**：`gramps` 以 gram 打头，跟 grand- 那一族的前四个字母
-  对不上，写在 grandfather 条里 coverage 认不出来，只能另立一条 ——
-  跟上一轮 godchild 那笔是同一条规矩：**并入前先比前四个字母**。
+  gm 空 / gn 100% / go 99% / gr 97%**；**gu 段在写：81/167（48%）**。
+  **下一批从 gumshoe 之后起**：gun（大词：gunboat / gunfight / gunfighter /
+  gunfire / gunman / gunmetal / gunner / gunnery / gunpoint / gunpowder /
+  gunrunner / gunship / gunshot / gunsight / gunslinger / gunsmith / gunwale
+  一大族，外加 jump the gun、stick to your guns、a smoking gun、the big guns），
+  gunge / gunk、gunnel / gunny / gunnysack、guppy、gurdwara、gurgle、Gurkha、
+  gurn、gurney、guru、gush / gusher / gushing、gusset、gussy、gust / gusty、
+  gustatory / gusto、**gut（大词：guts / gutless / gutsy / gutted、
+  a gut feeling / hate somebody's guts / bust a gut / spill your guts）**、
+  gutta-percha、gutter / guttering / guttersnipe、guttural、guv / guv'nor、
+  guy、Guyanese、guzzle / guzzler。
+  收完 gu，只剩 **gy- 段 22 条**（gybe / gym / gymkhana / gymnasium / gymnast /
+  gymnastics / gymslip / gynaecology 一族 / gyp / gypsum / Gypsy / gyrate /
+  gyration / gyratory / gyroscope），**g 字母就整个收完了**。
+  Gypsy 要跟 gi- 段已写的 Gipsy 互指，照 gray 与 grey 的办法。
+  进段已剔 4 条进 exclude.txt：gulab jamun、gulliver's travels、gutser、gyan。
 交付文件（每 2500 条一份，满了自动顺延）：
   B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10542
   新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
