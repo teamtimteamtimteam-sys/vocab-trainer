@@ -615,18 +615,3 @@ talk gibberish = 胡言乱语
 ③ The file opened as gibberish because the encoding was wrong.
 = 那个文件打开是乱码，因为编码选错了。
 open as gibberish = 打开是乱码
-
-gibbet
-核心：名词，绞刑架 —— 旧时行刑后把尸体吊在上面示众的架子；
-也作动词，把人吊在绞架上示众。今天只出现在历史写作与比喻里，
-比喻用法指把人拿出来公开羞辱。
-注意别混：gibbet 是那个木架，gallows 泛指绞刑设施，两个词旧时常混用。
-① A gibbet stood at the crossroads for forty years as a warning.
-= 十字路口立着一座绞刑架，四十年没撤，就是给人看的。
-a gibbet = 绞刑架
-② Three men were gibbeted on the shore where the ship had come in.
-= 三个人被吊在船靠岸的那片滩头示众。
-be gibbeted = 被吊上绞架示众
-③ The column gibbeted him for one sentence taken out of a long speech.
-= 那个专栏抓着长篇讲话里的一句话，把他公开羞辱了一通。
-gibbet somebody = 把某人拿出来公开羞辱

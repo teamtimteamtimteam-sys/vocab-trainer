@@ -1,3 +1,84 @@
+glocal
+核心：形容词，全球本地化的 —— global 与 local 拼出来的词，说的是
+「按全球的标准做，照本地的口味调」。名词 glocalization 并入本条。
+多见于营销与管理写作，日常英语里几乎不用，写的时候要估量读者认不认得。
+① A glocal strategy keeps one brand name and changes everything else.
+= 全球本地化的策略保住一个品牌名，其余全改。
+a glocal strategy = 全球本地化策略
+② Their glocal approach means the menu differs in every country.
+= 他们那套全球本地化的做法，意味着各国菜单都不一样。
+a glocal approach = 全球本地化的做法
+③ Glocalization explains why the same chain feels different in two cities.
+= 全球本地化解释了同一家连锁店在两座城市为什么感觉不同。
+glocalization = 全球本地化
+
+glockenspiel
+核心：名词，钟琴 —— 一排调好音的金属片，用小槌敲，音色清亮，
+军乐队、管弦乐队与学校音乐课里都有。可数。
+从德语来，字面是「钟的演奏」。跟 xylophone 的分别只在材料：
+xylophone 的音条是木的，glockenspiel 是金属的。
+① A glockenspiel cuts through an entire brass band with two notes.
+= 钟琴两个音就能穿透整支铜管乐队。
+a glockenspiel = 钟琴
+② She played the glockenspiel because the school had no spare drum.
+= 她弹钟琴，因为学校没有多余的鼓。
+play the glockenspiel = 演奏钟琴
+③ The glockenspiel part is four bars long and impossible to miss.
+= 钟琴那个声部只有四小节，却绝不会被人漏听。
+the glockenspiel part = 钟琴声部
+
+glom
+核心：动词（美式口语），两支。一是抢到手、顺走：glom something；
+二是更常用的 glom onto something —— 一把抓住不放，也说「黏上某人」
+或「一头扎进某个说法」。过去式与过去分词 glommed。
+① He glommed the last seat by the window before anybody else moved.
+= 别人还没动，他就抢到了靠窗最后一个座位。
+glom something = 抢到手
+② The press glommed onto one sentence and ignored the other nine pages.
+= 媒体死抓着一句话不放，另外九页全不理会。
+glom onto something = 一把抓住不放
+③ A stray dog glommed onto the group and followed it for two days.
+= 一条流浪狗黏上了那群人，跟了两天。
+glom onto somebody = 黏上某人
+
+gloom
+核心：三支。一是昏暗、幽暗：the gloom of the hall；二是愁闷、沮丧的气氛：
+a mood of gloom；三是习语 doom and gloom，说那种满嘴坏消息的悲观论调。
+副词 gloomily、名词 gloominess 与形容词 gloomy 并入本条。
+gloomy 说天色与说心情是同一个词，英语在这两头不分。
+① The gloom of that hall makes noon feel like six in the evening.
+= 那个厅里的幽暗，让中午感觉像傍晚六点。
+the gloom of something = 某处的幽暗
+② A mood of gloom settled on the office and lasted until the figures came.
+= 一股愁云笼罩着办公室，直到数字出来才散。
+a mood of gloom = 愁闷的气氛
+③ It is not all doom and gloom, whatever the front page says today.
+= 不管今天头版怎么写，也不是满盘皆输。
+doom and gloom = 一味唱衰的悲观论调
+④ A gloomy afternoon and a gloomy forecast kept everybody indoors.
+= 一个阴沉的下午加一份灰暗的预报，把所有人都关在了屋里。
+gloomy = 阴沉的；灰暗的
+⑤ He read the letter out gloomily and then laughed at the last line.
+= 他闷闷地把信念完，念到最后一行又笑了。
+gloomily = 闷闷地
+⑥ The gloominess of that place has nothing to do with the weather.
+= 那地方的阴郁，跟天气毫无关系。
+gloominess = 阴郁
+
+gloop
+核心：名词（英，口语），黏糊糊的一摊 —— 稠、黏、说不清是什么的东西：
+锅底的糊、化开的巧克力、和过头的面糊。不可数，语气里带着嫌弃。
+形容词 gloopy 并入本条。美式对应的写法是 glop，另立一条。
+① The pan was full of grey gloop by the time anybody looked at it.
+= 等有人想起来看时，锅里已经是一摊灰糊糊的东西。
+gloop = 黏糊糊的一摊
+② Half a tin of gloop came out with the water and blocked the drain.
+= 半罐黏糊糊的东西随水流出来，把下水道堵了。
+a tin of gloop = 一罐黏糊糊的东西
+③ The sauce went gloopy in the fridge and thinned out again over heat.
+= 那酱汁在冰箱里变得黏稠，一加热又稀了。
+gloopy = 黏稠的
+
 glop
 核心：名词（美，口语），黏糊糊的一团 —— 跟英式的 gloop 是一回事：稠、黏、
 卖相不好，多用来说食物。既可不可数，也可说 a glop of（一坨）。
@@ -346,89 +427,3 @@ gluttonous = 贪吃的；大得过分的
 ④ Gluttony was painted more often than any of the other six sins.
 = 七宗罪里，暴食被画的次数比其余六宗都多。
 gluttony = 暴食
-
-glycerine
-核心：名词，甘油 —— 无色黏稠的甜味液体，糖霜、药膏、护肤品与肥皂里都有。
-不可数。化学上的正名是 glycerol，日用品标签多写 glycerine，美式拼作 glycerin。
-名词 glycerol 并入本条。
-① Glycerine keeps the icing soft enough to cut three days later.
-= 甘油让糖霜保持柔软，三天后还切得动。
-glycerine = 甘油
-② A little glycerine in the mix stops the soap from drying the skin.
-= 配方里加一点甘油，肥皂就不那么让皮肤发干。
-a little glycerine = 一点甘油
-③ Glycerol forms the backbone of every fat molecule in the body.
-= 甘油是体内每一个脂肪分子的骨架。
-glycerol = 甘油（化学正名）
-
-glyph
-核心：名词，字符、图符 —— 一个书写符号的具体形状。排版与文字学里用得最多：
-同一个字母在不同字体里就是不同的 glyph。也指古代刻画的符号，
-hieroglyph（象形文字）就是由它构成的。可数。
-① The font is missing a glyph and every such word shows an empty box.
-= 那套字体缺一个字符，凡用到它的词都显示成空方块。
-a glyph = 字符、图符
-② Two glyphs on that stone have never been matched to any known sign.
-= 那块石头上有两个符号，至今没能跟任何已知的符号对上。
-glyphs = 符号（复数）
-③ A designer draws every glyph twice and throws the first set away.
-= 设计师每个字符都画两遍，第一遍全部扔掉。
-draw a glyph = 画字符
-
-gnarled
-核心：形容词，多节的、虬曲粗糙的 —— 说老树（a gnarled oak）与老人的手
-（gnarled hands）：都是年头和力气在上面留下的疙瘩与扭结。
-带敬意多过嫌弃，写的是经历，不是丑。
-注意读音：开头的 g 不发音，读作 narled。
-① A gnarled oak by the gate has outlived three houses on that plot.
-= 门边一棵虬曲的老橡树，熬过了那块地上的三栋房子。
-a gnarled oak = 虬曲的老橡树
-② His gnarled hands still tie a fly better than anybody's in the club.
-= 他那双粗糙多节的手，绑钓饵仍比俱乐部里任何人都好。
-gnarled hands = 粗糙多节的手
-③ The path runs between gnarled roots that trip somebody every week.
-= 小路从虬结的树根之间穿过，每周都要绊倒个人。
-gnarled roots = 虬结的树根
-
-gnarly
-核心：两支。一是等于 gnarled，多节扭曲的；二是美式俚语（从冲浪与滑板圈出来的），
-同一个词两头用：既可以是「极棒的」，也可以是「凶险难对付的」，
-靠语气和上下文分 —— 说浪、说路况多是后者。
-① A gnarly old apple tree takes up half of that small garden.
-= 一棵多节的老苹果树，占了那个小园子一半。
-a gnarly old tree = 多节的老树
-② That was a gnarly wave and he came up laughing at the beach.
-= 那是个凶悍的大浪，他浮上来时还在笑。
-a gnarly wave = 凶悍的大浪
-③ The second half of that route turns gnarly as soon as it rains.
-= 那条路线的后半段，一下雨就变得难对付。
-be gnarly = 棘手难对付
-
-gnash
-核心：动词，磨牙、咬牙切齿 —— 几乎只出现在一个搭配里：gnash your teeth，
-表示恼恨或悔恨；圣经里的 weeping and gnashing of teeth（哀哭切齿）
-让这个说法一直活到今天，多半带点夸张的幽默。
-名词 gnashers 是英式口语里对牙齿的谑称，并入本条。开头的 g 不发音。
-① He gnashed his teeth over a decision he had agreed to in writing.
-= 他为一个自己白纸黑字同意过的决定咬牙切齿。
-gnash your teeth = 咬牙切齿
-② There was weeping and gnashing of teeth when the new rota went up.
-= 新排班表贴出来时，一片哀嚎与咬牙。
-gnashing of teeth = 咬牙切齿
-③ He lost his gnashers in a scrum and finished the season anyway.
-= 他在一次混战里磕掉了牙，还是打完了那个赛季。
-gnashers = 牙齿（英式谑称）
-
-gnat
-核心：名词，蚊蚋、小咬 —— 比蚊子还小的那种飞虫，黄昏成团地悬在水边。可数。
-也用来比喻微不足道的东西，跟真正麻烦的事一对比就显得不值一提。
-注意读音：g 不发音，读作 nat。
-① A cloud of gnats hangs over that stretch of water every evening.
-= 每到傍晚，那段水面上都悬着一团小咬。
-a cloud of gnats = 一团小咬
-② Gnats get through the mesh on that door and mosquitoes do not.
-= 小咬能钻过那扇门上的纱网，蚊子钻不过。
-gnats = 蚊蚋
-③ The complaint turned out to be a gnat next to what came the week after.
-= 跟第二周来的事相比，那点投诉不过是只小虫子。
-be a gnat next to something = 跟某事相比微不足道
