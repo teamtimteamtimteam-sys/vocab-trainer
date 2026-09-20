@@ -9,28 +9,31 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-20，第三轮）═══
-B 词表 10186 条，词典序 a → ginseng。A 表 3002 条。
-  a–f 段都在 97% 以上；**ga 99% / ge 99% / gh 100%**，剩的全是待推迟。
-  **gi 段在写：71/113（62%），还欠 42 条**，下一批从 Gipsy 起：
-    Gipsy、giraffe、gird、girder、girdle、girl（girlish / girlhood / girly /
-    girl band / girl Friday / girl power 都并进去）、girlfriend、giro、girth、
-    gismo 与 gizmo（同词异拼，各立一条、各走各的场景）、gist、git、
-    giveaway、giveback、given（given name / given that 并进去）、giver、gizzard。
-    **give 是核心词，按规矩独占一批**：十来个短语动词（give away / back / in /
-    off / out / over / up / up on / on to…）眼下还挂在 coverage 的待推迟里，
-    写完 give 就该当场并掉，别留到下一段。清单已列进 audit-idioms 的 CHECK。
-  这一段已剔 3 条进 exclude.txt：gillie（跟上一段的 ghillie 同词异拼）、
-  girn（苏格兰与北英方言）、githeri（东非英语食物名）。
-  gingerly 登记进 derived-keep（跟「姜」无关，不是形容词的副词）。
-  这一轮记下的两件事：
-    · **同一组的几条等式要紧挨着上方那句例句，中间不能再夹等式** ——
-      gift certificate 夹在 card 与 voucher 中间，就被 need-example 判成缺例句。
-      收紧后的判据只往上看最近一句例句，夹在中间的够不着。
-    · **audit-idioms 要的是字面**：例句写 gingered up、等式写 ginger something up，
-      清单里的 ginger up 照样报缺。照老规矩改词条不松尺子。
+═══ 现状（2026-09-20，第四轮）═══
+B 词表 10205 条，词典序 a → gizzard。A 表 3002 条。
+  a–f 段都在 97% 以上；**g 段的 ga 99% / ge 99% / gh 100% / gi 99%**，
+  剩的全是待推迟（gi 段只剩 gippy tummy 一条，tummy 在 t 段）。
+  **下一批从 gl- 段起**（glacier / glad / glance / glass 一带）。进段前四件事照旧：
+  pull-pending、大写词头登记、把 gl- 的习语清单补进 audit-idioms 的 CHECK、
+  整段清单一次扫干净再动笔。
+  gi 段这一轮：新词条 60 条＋**核心词 give 一条 37 个义项**（独占一批），
+  十三条 give 的短语动词随词根一起收掉。剔 3 条进 exclude.txt
+  （gillie / girn / githeri），gingerly 登记进 derived-keep。
+  **这一轮修的三把尺子，往后按这个顺序信它们**：
+    · **编号表一律从 check-wordlist 导入，别手写**（CLAUDE.md 早有这条，
+      当初只同步了 renumber 与 index.html）。need-example 手写的只到 30、
+      audit-depth 与 backfill-eq 只到 50 —— give（37）与 get（54）的后半截
+      整段判读失效。改完当场翻出 cross 藏了 8 条没例句的等式，已补。
+      全表 tier1 52 → 32。
+    · **audit-padding 判重只看等式剥掉占位词后的形状**：give 的双宾语式与
+      to 式因此被判成重复。改词条不松尺子 —— 把两式的差别写进等式右边
+      （「双宾语」「用 to 引出收受方」），本来就是该教的东西。
+    · **audit-idioms 要的是字面**：例句写 gingered up / is taken as a given，
+      清单要的是 ginger up / take something as a given，照样报缺。
+      两种改法都用过：把例句换成不带宾语的原形（ginger up），
+      或把完整说法写进**散文讲解行**（散文行不进 need-example 的清单）。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10186
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10205
   新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
   check-merged 每批都逐条核过。push 照旧等用户开口。
 
