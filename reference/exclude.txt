@@ -491,3 +491,9 @@ geese        # goose 的不规则复数，属变形不单立条，已写进 infl
 gave         # give 的不规则过去式，属变形不单立条，已写进 inflections.txt
 georgia-o-keeffe  # 画家人名的连字符化残片，属纯人名，同 Fingal's Cave / Fianna Fail
 gentleman-jim-corbett  # 拳击手人名的连字符化残片，属纯人名，同 georgia-o-keeffe
+ghagra       # 印度英语里的长褶裙，属地区变体词头，同 gharara
+gharara      # 印度英语里的阔腿裤装，属地区变体词头，同 ghagra
+gharana      # 印度英语，指印度古典音乐的师承流派，属地区变体词头
+gherao       # 印度英语，指围堵上司施压的抗议方式，属地区变体词头
+ghee         # 印度酥油，属「印度食物名一律不收」那一条
+ghillie      # 苏格兰英语里的狩猎向导，属地区变体词头，同 blether

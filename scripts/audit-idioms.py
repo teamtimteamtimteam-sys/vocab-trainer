@@ -34,6 +34,12 @@ CHECK = {
          'get through with', 'get to', 'get together', 'get up', 'get up as',
          'get up to', 'get ahead', 'get behind', 'get about', 'get above yourself',
          'get-go', 'get-up-and-go'],
+ # gh- 段 —— 动笔前先列清单（2026-09-20）
+ 'ghost': ['give up the ghost', 'a ghost of a chance', 'lay the ghost of',
+           'a ghost town', 'a ghost story', 'a ghost train'],
+ 'ghetto': ['a ghetto blaster'],
+ 'ghastly': ['a ghastly mistake'],
+ 'ghoulish': ['ghoulish curiosity'],
  'gentle': ['a gentle reminder'],
  'genuine': ['the genuine article'],
  'genius': ['a stroke of genius'],
