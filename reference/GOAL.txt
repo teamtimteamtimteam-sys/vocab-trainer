@@ -13,18 +13,12 @@ B 10000
 B 词表 10430 条，词典序 a → grapevine。A 表 3002 条。
   a–f 段 97% 以上；**g 段：ga 99% / ge 99% / gh 100% / gi 99% / gl 99% /
   gm 空 / gn 100% / go 99%**；**gr 段在写：95/473（20%）**。
-  **gr 是 g 里最大的一段（清单 473 条）**，**已收 320 条（67%）**，
-  下一批从 grrr 起，剩的都是小词与派生：grrr、grub / grubber / grubbiness /
-  grubby、grudge / grudging / grudgingly、gruel / gruelling、gruesome /
-  gruesomely、gruff / gruffly、grumble / grumbler / grumbling、
-  grump / grumpily / grumpy、grunge / grungy、grunt、gruyere，
-  以及前面段落里 coverage 仍报缺的零头（跑一遍 coverage gr 看清单）。
-  收完 gr 段，g 字母就只剩 gu- 与 gy- 两小段（guard / guess / guest / guide /
-  guilt / gulf / gun / gut / guy、gym / gypsy 一带）。
-  **great / green / ground / group / grow / grind / grip 这七个是大词**，
-  习语清单动笔前已经补进 audit-idioms 的 CHECK（十七组）。
-  audit-padding 的强变化表查过了：grow→grew/grown、grind→ground 都认得，
-  不必补。
+  **gr 段收完了：460/472（97%）**，剩的 12 条全是待推迟（内容词在后面的字母段）。
+  **下一批开 gu- 段**，接着 gy-，**收完 g 字母就完整了**。
+  gu- 段里 guard / guess / guest / guide / guilty / gun 是大词，
+  动笔前照例先跑 coverage gu 看清单、把习语补进 audit-idioms 的 CHECK。
+  gr 段这一路的七个大词（great / green / ground / group / grow / grind / grip）
+  都已写完，习语清单留在 CHECK 里继续管着。
   **这一轮记下的一条**：`gramps` 以 gram 打头，跟 grand- 那一族的前四个字母
   对不上，写在 grandfather 条里 coverage 认不出来，只能另立一条 ——
   跟上一轮 godchild 那笔是同一条规矩：**并入前先比前四个字母**。
