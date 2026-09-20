@@ -503,3 +503,12 @@ githeri      # 东非英语里的玉米豆子煮食，属地区变体词头兼�
 glissando    # 演奏法的乐谱术语（滑奏），同 accelerando / demisemiquaver / diapason 那条；
              # 注意跟乐曲体裁名分开：gigue、sonata 那类是名物词，照收
 gm           # 克（gram）的缩写写法，不是词汇，同 cwt 那条
+gobar        # 印度英语（牛粪沼气 gobar gas），属地区变体词头
+gogga        # 南非英语里的虫子，属地区变体词头
+goonda       # 印度英语里的街头混混，属地区变体词头
+gora         # 印度英语里对白人的称呼，属地区变体词头
+gosht        # 印度菜名（肉），属「印度食物名一律不收」那一条
+godown       # 亚洲英语（印度与东南亚）里的货栈，按国别变体通则剔
+goodo        # 澳新英语的「好极了」，属地区变体词头
+goog         # 澳新英语里的蛋，属地区变体词头
+govt         # government 的缩写写法，不是词汇，同 cwt 与 gm 那条
