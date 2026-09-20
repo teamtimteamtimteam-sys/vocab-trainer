@@ -9,25 +9,28 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-20，第十五轮）═══
-B 词表 10593 条，词典序 a → gumshoe。A 表 3002 条。
-  a–f 段 97% 以上；**g 段：ga 99% / ge 99% / gh 100% / gi 99% / gl 99% /
-  gm 空 / gn 100% / go 99% / gr 97%**；**gu 段在写：81/167（48%）**。
-  **下一批从 gumshoe 之后起**：gun（大词：gunboat / gunfight / gunfighter /
-  gunfire / gunman / gunmetal / gunner / gunnery / gunpoint / gunpowder /
-  gunrunner / gunship / gunshot / gunsight / gunslinger / gunsmith / gunwale
-  一大族，外加 jump the gun、stick to your guns、a smoking gun、the big guns），
-  gunge / gunk、gunnel / gunny / gunnysack、guppy、gurdwara、gurgle、Gurkha、
-  gurn、gurney、guru、gush / gusher / gushing、gusset、gussy、gust / gusty、
-  gustatory / gusto、**gut（大词：guts / gutless / gutsy / gutted、
-  a gut feeling / hate somebody's guts / bust a gut / spill your guts）**、
-  gutta-percha、gutter / guttering / guttersnipe、guttural、guv / guv'nor、
-  guy、Guyanese、guzzle / guzzler。
-  收完 gu，只剩 **gy- 段 22 条**（gybe / gym / gymkhana / gymnasium / gymnast /
-  gymnastics / gymslip / gynaecology 一族 / gyp / gypsum / Gypsy / gyrate /
-  gyration / gyratory / gyroscope），**g 字母就整个收完了**。
-  Gypsy 要跟 gi- 段已写的 Gipsy 互指，照 gray 与 grey 的办法。
-  进段已剔 4 条进 exclude.txt：gulab jamun、gulliver's travels、gutser、gyan。
+═══ 现状（2026-09-20，第十六轮）═══
+B 词表 10625 条，词典序 a → gyroscope。A 表 3002 条。
+  **g 字母整个收完了**：ga 99% / ge 99% / gh 100% / gi 99% / gl 99% /
+  gm 空 / gn 100% / go 99% / gr 97% / gu 97% / gy 100%，
+  剩下的全是待推迟条目（内容词在后面的字母段，轮到时自然并掉）。
+  a–f 段同样都在 97% 以上。
+  **下一步：开 h 字母**。先跑 `python3 scripts/coverage.py h` 看整字母的规模，
+  再按双字母段推进（ha / he / hi / ho / hu / hy）。
+  进段四件事照旧：pull-pending、大写词头登记进 proper-nouns-keep、
+  把该段大词的习语清单补进 audit-idioms 的 CHECK、整段清单一次扫干净再动笔。
+  h 里的大词很密：have / hand / hang / happy / hard / head / hear / heart /
+  heavy / help / high / hit / hold / home / hope / hot / house / how ——
+  **have 与 hold 按核心词规矩各占一批**，动笔前查 audit-padding 的强变化表
+  （have→had、hold→held、hear→heard、hang→hung 都要在表里）。
+  g 段这一路记下的三条，往后照用：
+    · **并入前先比前四个字母** —— coverage 的派生判定只认这个
+      （gramps、godchild 两次栽在这里）。
+    · **并入可数名词时等式左边写单数**，复数那句退成补充例句
+      （globule / gramme / greenback / greengage / grenadier / guideline
+      / grown / gyration 前后栽了八次，HANDOFF 第六节第 1b 条就是为它写的）。
+    · **同词异拼的两条词条最容易撞例句** —— gharial 与 gavial、
+      Gipsy 与 Gypsy 都被 scan-dupes 通道 5 当场逮住；改场景，别删义项。
 交付文件（每 2500 条一份，满了自动顺延）：
   B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10542
   新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
