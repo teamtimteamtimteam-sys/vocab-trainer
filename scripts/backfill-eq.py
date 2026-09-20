@@ -27,8 +27,13 @@ import io, glob, re, sys
 sys.path.insert(0, 'scripts')
 from wordkey import numsort
 
-NUMS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟㊱㊲㊳㊴㊵㊶㊷㊸㊹㊺㊻㊼㊽㊾㊿" \
-       "❶❷❸❹❺❻❼❽❾❿⓫⓬⓭⓮⓯⓰⓱⓲⓳⓴⓵⓶⓷⓸⓹⓺⓻⓼⓽⓾"
+import importlib.util as _u
+_spec = _u.spec_from_file_location('_cw', 'scripts/check-wordlist.py')
+_cw = _u.module_from_spec(_spec); _spec.loader.exec_module(_cw)
+NUMS = _cw.NUMS      # 编号表一律从 check-wordlist 导入，别再手写（CLAUDE.md）
+                     # 2026-09-20：need-example 手写的那张只到 30、audit-depth
+                     # 与 backfill-eq 只到 50，give（37 义项）与 get（54 义项）
+                     # 的后半截被当成普通行，整段判读全错。
 LAB = re.compile(r'[：:]$')
 CONTRAST = re.compile(r'(对照|别混|区别|反义)')
 
