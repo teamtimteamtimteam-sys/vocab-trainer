@@ -719,6 +719,10 @@ CHECK = {
             'hazard lights', 'hazard pay'],
  'haze': ['in a haze'],
  'hazy': ['be hazy about'],
+ 'harbinger': ['a harbinger of'],
+ 'hansom': ['a hansom cab'],
+ 'happenstance': ['by happenstance'],
+ 'hara-kiri': ['commit hara-kiri'],
 }
 
 def main():
