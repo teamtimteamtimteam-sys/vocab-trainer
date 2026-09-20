@@ -131,3 +131,4 @@ hast         have       # 古体第二人称（thou hast），内容写在 have 
 hath         have       # 古体第三人称（he hath），同上
 # h 段保留不并的（另有变形之外的义项）：
 #   having（无）；has-been 是名词，另有义，写在 have 条里但不算变形
+havala       hawala     # 同一个词的另一种拼法，内容写在 hawala 条里（同 fo'c'sle）

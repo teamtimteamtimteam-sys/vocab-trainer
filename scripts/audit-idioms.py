@@ -708,6 +708,13 @@ CHECK = {
           'have something on', 'have to do with', 'have a way with',
           'what have you', 'the haves and the have-nots', 'has-been',
           'have done with', 'have it your own way', 'be had'],
+ 'haven': ['a safe haven', 'a tax haven'],
+ 'havoc': ['wreak havoc', 'play havoc with', 'cause havoc'],
+ 'hawk': ['watch somebody like a hawk', 'hawks and doves', 'hawk-eyed'],
+ 'hay': ['make hay while the sun shines', 'hit the hay', 'a roll in the hay',
+         'hay fever'],
+ 'haystack': ['a needle in a haystack'],
+ 'haywire': ['go haywire'],
 }
 
 def main():
