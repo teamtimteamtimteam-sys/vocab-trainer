@@ -1,0 +1,403 @@
+gigabyte
+核心：名词，吉字节，缩写 GB，十亿个字节。日常说存储与流量的基本单位；
+口语里常缩成 gig。厂商按十进制算，系统按二进制显示，于是标称与实测总差一截
+（那一截的单位见 gibibyte 条）。
+① A single gigabyte held a whole music collection in those days.
+= 那年头，一个吉字节就装得下整套音乐收藏。
+a gigabyte = 吉字节
+② The update is four gigabytes and the monthly allowance is two.
+= 那个更新有四吉字节，每月流量才两吉。
+four gigabytes = 四吉字节
+③ Photographs fill gigabytes faster than anything else on a phone.
+= 手机上最能吃掉吉字节的，就数照片。
+fill gigabytes = 占掉大量吉字节
+
+gigaflop
+核心：名词，每秒十亿次浮点运算，衡量计算能力，复数 gigaflops。
+flop 是 floating-point operations per second 的缩写，所以 gigaflop 里
+已经含着「每秒」，不必再说 per second。今天讲超算多用 teraflop 与 petaflop。
+① That desktop does a few hundred gigaflops and costs less than a bicycle.
+= 那台台式机每秒能算几百吉次浮点，价钱还不如一辆自行车。
+a few hundred gigaflops = 几百吉次浮点运算
+② Machines are rated in gigaflops and sold on something else entirely.
+= 机器按吉次浮点标定，卖的时候讲的完全是别的。
+be rated in gigaflops = 以吉次浮点计
+③ One gigaflop was supercomputer territory when these tables were drawn up.
+= 制这些表的时候，每秒一吉次浮点还是超算的水准。
+a gigaflop = 一吉次浮点运算
+
+gigahertz
+核心：名词，吉赫，十亿赫兹，缩写 GHz，单复数同形。
+说处理器主频与无线频段都用它。主频这一支如今说明不了多少问题 ——
+同样的吉赫数，核心与架构不同，快慢差得远。
+① The chip runs at three gigahertz and throttles back as soon as it gets hot.
+= 那颗芯片跑在三吉赫，一热就降频。
+three gigahertz = 三吉赫
+② Clock speed in gigahertz stopped being a fair comparison years ago.
+= 用吉赫标的主频，多年前就不能拿来公平比较了。
+in gigahertz = 以吉赫计
+③ That band sits just above two gigahertz and is crowded almost everywhere.
+= 那个频段就在两吉赫上面一点，几乎到处都挤。
+above two gigahertz = 两吉赫以上
+
+gigantic
+核心：形容词，巨大的 —— 比 huge 更夸张，日常口语里用来加重语气。
+既修饰具体的东西，也修饰抽象的量：a gigantic effort、a gigantic mistake。
+本身已是极端义，一般不说 more gigantic、very gigantic。
+① A gigantic queue went round the building twice before the doors opened.
+= 开门前，一条长得离谱的队伍绕着那栋楼排了两圈。
+a gigantic queue = 长得离谱的队伍
+② It took a gigantic effort to get the thing out of the cellar.
+= 把那东西从地窖弄出来，费了九牛二虎之力。
+a gigantic effort = 巨大的努力
+③ The bill was gigantic and nobody could say which part of it was wrong.
+= 那张账单大得吓人，却没人说得出哪一项不对。
+be gigantic = 大得吓人
+
+gigantism
+核心：名词，巨人症 —— 垂体分泌过多生长激素，在骨骺闭合前发病，个子长得异常高。
+成年后才发病的那种叫 acromegaly（肢端肥大症），两者病因相同、结果不同。
+注意拼写：giantism 是同一个词的另一种拼法，医学文献里以 gigantism 为主。
+① Untreated gigantism in childhood can add thirty centimetres by the teens.
+= 童年期不治的巨人症，到少年时能多长三十厘米。
+gigantism = 巨人症
+② Surgery stopped the gigantism and left the other symptoms untouched.
+= 手术止住了巨人症，别的症状原样没动。
+stop the gigantism = 止住巨人症
+③ Pituitary gigantism is rare and almost always traced to one small tumour.
+= 垂体性巨人症很少见，几乎总能追到一个小肿瘤上。
+pituitary gigantism = 垂体性巨人症
+
+giggle
+核心：动词与名词，咯咯地笑 —— 忍不住的、带点傻气或紧张的那种笑，
+多用于孩子与场合不合时宜的时候。名词另有英式口语义：a giggle 指好玩的事。
+习语 get the giggles 是笑场、止不住。形容词 giggly 并入本条。
+① They giggled through the whole ceremony and apologized to everybody afterwards.
+= 整场典礼他们都在偷笑，事后挨个道歉。
+giggle through something = 从头笑到尾
+② A giggle from the back row set off the entire class.
+= 后排一声窃笑，带得全班都笑开了。
+a giggle = 一声窃笑
+③ We only did it for a giggle and it ended up in the local paper.
+= 我们不过是图个好玩，结果上了本地报纸。
+for a giggle = 图个好玩（英式口语）
+④ She got the giggles at the worst possible moment and had to leave the room.
+= 她在最不该笑的时候笑场了，只好出去。
+get the giggles = 笑场、止不住地笑
+⑤ Two giggly children at the back made the whole recording useless.
+= 后排两个咯咯直笑的孩子，把那整段录音毁了。
+giggly = 爱咯咯笑的
+
+gigolo
+核心：名词，被女性供养、收钱陪伴的男子，多半比对方年轻，带贬义。
+复数 gigolos。二十世纪初从法语借进英语，如今多见于旧小说、旧电影与调侃话里，
+认真讨论时很少用。
+① The novel turns on a gigolo who falls for the wrong client.
+= 那部小说讲一个吃软饭的男人爱上了不该爱的雇主。
+a gigolo = 靠女人供养的男伴
+② Calling him a gigolo in print cost the magazine a great deal of money.
+= 在文章里管他叫小白脸，让那家杂志赔了不少钱。
+call somebody a gigolo = 管某人叫小白脸
+③ A gigolo in a white suit turns up in every film of that decade.
+= 那十年的电影里，总有个穿白西装的男伴出场。
+a gigolo in a white suit = 穿白西装的男伴
+
+gigot
+核心：名词，两支，都来自法语。一是羊后腿，尤其是整条带骨的那种，
+菜单与肉铺里用，英式（苏格兰尤多）；二是 gigot sleeve，旧式女装的羊腿袖，
+肩头蓬起、袖口收紧，因形似羊腿得名。
+① A gigot of lamb feeds eight and needs three hours in a low oven.
+= 一条羊腿够八个人吃，要在低温烤箱里烤三个钟头。
+a gigot of lamb = 一条羊腿
+② The butcher boned the gigot and tied it back into shape.
+= 肉贩把羊腿剔了骨，又捆回原样。
+bone a gigot = 给羊腿剔骨
+③ Gigot sleeves puff at the shoulder and narrow to nothing at the wrist.
+= 羊腿袖肩上蓬起，到腕口收得极细。
+gigot sleeves = 羊腿袖
+
+gigue
+核心：名词，吉格舞曲 —— 巴洛克组曲的末乐章，拍子快、带跳跃感，
+多写成六八或十二八拍。跟英国民间舞 jig 同源：说乐曲用 gigue，
+说那种舞蹈用 jig。读音是法语式的，头一个音节读作 zheeg。
+① The gigue at the end wakes up everybody the sarabande put to sleep.
+= 末尾那首吉格舞曲，把被萨拉班德催睡的人全弄醒了。
+a gigue = 吉格舞曲
+② She plays the gigue faster every year and the old recordings prove it.
+= 那首吉格她一年比一年弹得快，旧录音为证。
+play a gigue = 演奏吉格舞曲
+③ A baroque suite ends with a gigue almost as a rule.
+= 巴洛克组曲差不多总是以一首吉格收尾。
+end with a gigue = 以吉格收尾
+
+gild
+核心：动词，镀金、贴金箔；引申指把不好看的事情说得体面。过去式与过去分词
+是 gilded，旧形式 gilt 已凝固成形容词与名词（见 gilt 条）。
+习语 gild the lily 是画蛇添足 —— 给百合花镀金，多此一举。
+形容词 gilded 与名词 gilding 并入本条。
+① They gild the letters by hand and charge by the letter.
+= 那些字是手工镀金的，按字收钱。
+gild something = 给某物镀金
+② The report gilds three bad years into a story about learning.
+= 那份报告把三个糟糕的年头，说成一段长见识的经历。
+gild something = 把某事说得好看
+③ A second speech gilded the lily and undid most of the first one.
+= 第二场讲话画蛇添足，把第一场的效果抵消了大半。
+gild the lily = 画蛇添足
+④ A gilded mirror hung over a fireplace nobody had lit for years.
+= 一面镀金镜子挂在多年没生过火的壁炉上方。
+gilded = 镀金的
+⑤ The gilding wore off the handles and left the brass showing through.
+= 把手上的镀金磨掉了，露出底下的黄铜。
+gilding = 镀金层、镀金工艺
+
+gilet
+核心：名词，无袖外套、背心马甲 —— 多指羽绒或抓绒的那种户外背心，英式常用。
+从法语借来，读音大致是 zhee-LAY，词尾的 t 不发音，复数 gilets。
+跟 waistcoat 不同：waistcoat 是西装三件套里那件，gilet 是保暖的户外衣。
+① A gilet keeps the cold off your back and leaves both arms free.
+= 背心马甲挡住背上的寒气，两只胳膊还能活动自如。
+a gilet = 无袖外套
+② Half the touchline was in gilets and the other half in long coats.
+= 场边一半人穿背心，另一半穿长大衣。
+in gilets = 穿着无袖外套
+③ She wears a gilet over a jumper from October until April.
+= 从十月到四月，她都在毛衣外面套一件背心。
+wear a gilet = 穿无袖外套
+
+gill
+核心：三支。一是鳃，也指蘑菇伞下那些薄片（菌褶），可数，多用复数；
+二是旧容量单位，四分之一品脱，这一支读作 jill，跟鱼鳃不同音；
+三是两条习语：packed to the gills 是塞得满满当当，
+green about the gills 是脸色发青、像要吐。
+① The gills open and close twice a second while the fish is resting.
+= 鱼歇着的时候，鳃每秒开合两次。
+the gills of a fish = 鱼鳃
+② Turn the mushroom over and count the gills if you want to be sure.
+= 想弄准的话，把蘑菇翻过来数菌褶。
+the gills of a mushroom = 菌褶
+③ The recipe asks for a gill of cream and nobody owns that measure now.
+= 那个方子要一及耳奶油，如今没人有这种量器了。
+a gill of cream = 一及耳奶油（四分之一品脱）
+④ The car was packed to the gills and the roof box was still empty.
+= 车里塞得满满当当，车顶箱倒还空着。
+packed to the gills = 塞得满满当当
+⑤ He came off the boat green about the gills and said nothing for an hour.
+= 他下船时脸色发青，一个钟头没说话。
+green about the gills = 脸色发青、像要吐
+
+gilt
+核心：三支。一是名词，镀金层、金箔；二是形容词，镀金的 —— 这是 gild
+的旧过去分词凝固下来的；三是（英，金融）金边债券，多用复数 gilts，
+指政府发行、风险最低的那类债。复合词 gilt-edged 兼有「烫金边的」
+与「最稳妥的」两义，金融义比字面义常见得多。
+① The gilt on that frame is thinner than paper and older than the painting.
+= 那个画框上的镀金比纸还薄，比画还老。
+the gilt on something = 某物上的镀金层
+② A gilt frame makes even a cheap print look like an heirloom.
+= 镀金画框能把一张便宜印刷品衬得像传家宝。
+a gilt frame = 镀金画框
+③ Gilts pay less than shares and let people sleep at night.
+= 金边债券回报比股票低，却让人睡得着觉。
+gilts = 金边债券（英）
+④ Gilt-edged stock was the safe half of every pension fund for decades.
+= 几十年里，金边证券都是各家养老金组合里稳妥的那一半。
+gilt-edged = 最稳妥的；烫金边的
+
+gimcrack
+核心：形容词与名词，都带轻蔑（略旧）。形容词说东西做得花哨而不结实；
+名词指这样的小玩意儿，多用复数。比 cheap 更刻薄：cheap 只说便宜，
+gimcrack 说的是「看着热闹、一用就散」。
+① A gimcrack ornament on every shelf and not one of them worth keeping.
+= 每层架子上都摆着花哨的小摆设，没一件值得留。
+a gimcrack ornament = 华而不实的小摆设
+② The whole extension is gimcrack work that will not last ten winters.
+= 那整片扩建都是花架子活，撑不过十个冬天。
+gimcrack work = 偷工减料的活儿
+③ He sold gimcracks at the fair and made more than the real traders.
+= 他在集市上卖些小玩意儿，赚得比正经商贩还多。
+gimcracks = 华而不实的小玩意儿
+
+gimlet
+核心：三支。一是手钻、螺丝锥，丁字柄的小工具，在木头上钻引孔；
+二是 a gimlet eye 与 gimlet-eyed，说目光锐利得像能钻透人；
+三是琴酒加青柠汁的鸡尾酒，叫琴蕾。
+① A gimlet makes a cleaner hole in old oak than any power drill.
+= 在老橡木上钻孔，手钻比电钻打得更干净。
+a gimlet = 手钻
+② She has a gimlet eye for the one figure that does not add up.
+= 哪个数字对不上，她一眼就能盯出来。
+a gimlet eye = 锐利的目光
+③ A gimlet is half gin and half lime and has to be very cold.
+= 一杯琴蕾一半琴酒一半青柠汁，必须冰得透。
+a gimlet = 琴蕾（鸡尾酒）
+
+gimme
+核心：两支，都属口语。一是 give me 的连读写法，多见于歌词、对白，
+以及固定说法 gimme a break（饶了我吧、别扯了）；二是名词，高尔夫里
+近得可以直接算进的一推，引申指板上钉钉、不费劲就能得手的事。
+正式文字里不用这个拼法。
+① Gimme a break — we finished that argument three years ago.
+= 饶了我吧，那场争论三年前就结束了。
+gimme a break = 饶了我吧
+② Gimme two minutes and I will have the answer ready for you.
+= 给我两分钟，我就把答案给你备好。
+gimme = 给我（give me 的连读写法）
+③ That putt was a gimme and he insisted on holing it anyway.
+= 那一推近得可以直接算进，他还是坚持推了进去。
+a gimme = 十拿九稳的事
+
+gimmick
+核心：名词，噱头 —— 为吸引注意想出来的花招，本身没什么实质，贬义。
+常说 a marketing gimmick、just a gimmick、a publicity gimmick。
+名词 gimmickry（一堆噱头）与形容词 gimmicky（噱头十足的）并入本条。
+① The free umbrella was a marketing gimmick and it worked all summer.
+= 送伞是个营销噱头，整整一夏都管用。
+a marketing gimmick = 营销噱头
+② Without the gimmick that shop would have closed in its first year.
+= 没有那个噱头，那家店头一年就关门了。
+a gimmick = 噱头
+③ The design is gimmicky and the thing underneath is perfectly sound.
+= 那设计噱头十足，底下的东西其实很扎实。
+gimmicky = 噱头十足的
+④ Two pages of gimmickry and one short paragraph about the product itself.
+= 两页花里胡哨的噱头，只有短短一段在讲产品本身。
+gimmickry = 一堆噱头
+
+gin
+核心：三支，外加两个复合词。一是杜松子酒、琴酒，不可数：a gin and tonic；
+二是轧棉机，cotton gin，把棉籽和纤维分开的机器；三是纸牌游戏 gin rummy
+的简称。另有 gin trap（旧式捕兽夹）与 gin sling（琴酒调的长饮）。
+第二支跟酒无关，来自 engine 的缩略。
+① A gin and tonic with too much ice tastes of nothing by the second half.
+= 冰块放太多的琴汤力，喝到一半就没味了。
+a gin and tonic = 琴汤力
+② A cotton gin pulls the seed out of the fibre many times faster than hands.
+= 轧棉机把棉籽从纤维里拽出来，比手快许多倍。
+a cotton gin = 轧棉机
+③ They play gin rummy for matchsticks and argue as if it were money.
+= 他们拿火柴棍打金拉米，争得像在赌钱。
+gin rummy = 金拉米（纸牌游戏）
+④ An old gin trap still hangs in that barn as a reminder of harder times.
+= 谷仓里还挂着一副旧捕兽夹，留作那些苦年月的记号。
+a gin trap = 旧式捕兽夹
+⑤ A gin sling is longer and sweeter than it looks and goes down too easily.
+= 琴司令比看着更长饮、更甜，也下得太顺口。
+a gin sling = 琴司令（琴酒长饮）
+
+ginger
+核心：四支。一是姜，不可数：fresh ginger；二是形容词，姜黄色的、红棕色的，
+多说头发与猫；三是动词短语 ginger something up，给…提提劲；
+四是做定语，带出一串饮料与点心：ginger ale、ginger beer、ginger wine、
+ginger nut。另有 ginger group，指团体内部推动改革的一小撮人。
+形容词 gingery 并入本条。
+① Fresh ginger keeps for a month in the fridge and much longer frozen.
+= 鲜姜冷藏能放一个月，冻起来能放得久得多。
+fresh ginger = 鲜姜
+② A ginger cat sat on the warm bonnet and refused to be moved.
+= 一只姜黄色的猫坐在温热的引擎盖上，赶都赶不走。
+a ginger cat = 姜黄色的猫
+③ They asked her to ginger up a committee that had voted on nothing for a year.
+= 他们请她给一个一年没表决过任何事的委员会加把火。
+ginger up = 给…提劲、加把火
+宾语可以放在中间：ginger the committee up。
+④ They mix ginger ale with whisky and keep the ginger beer for the children.
+= 他们拿姜汁汽水兑威士忌，姜汁啤酒留给孩子喝。
+ginger ale = 姜汁汽水
+ginger beer = 姜汁啤酒（多不含酒精）
+⑤ Ginger wine and a ginger nut is what that house offers every visitor.
+= 一杯姜酒配一块姜味硬饼干，是那户人家待客的全部。
+ginger wine = 姜酒
+a ginger nut = 姜味硬饼干（英）
+⑥ A ginger group inside the party forced the vote three months early.
+= 党内一小撮推动派，把表决提前了三个月。
+a ginger group = 推动改革的小团体
+⑦ The sauce is gingery enough to clear your head on a cold morning.
+= 那酱汁的姜味足得能在冷天早上让人一下清醒。
+gingery = 姜味足的
+
+gingerbread
+核心：名词，姜饼 —— 加姜与糖蜜烤成的甜点，可以是饼干、蛋糕或姜饼人。
+不可数，说一块用 a piece of gingerbread。做定语还有两个常见搭配：
+gingerbread house（姜饼屋），以及美式建筑里的 gingerbread，
+指屋檐门廊上那些繁复的木雕花饰。
+① The gingerbread comes out of that oven twice a week all December.
+= 整个十二月，那个烤箱每周出两回姜饼。
+gingerbread = 姜饼
+② They build a gingerbread house every year and eat the roof first.
+= 他们每年搭一座姜饼屋，先把屋顶吃掉。
+a gingerbread house = 姜饼屋
+③ The porch is covered in gingerbread that takes a week to repaint.
+= 那道门廊满是雕花装饰，重漆一遍要一个星期。
+gingerbread = 繁复的木雕花饰（美式建筑）
+
+gingerly
+核心：副词，也可作形容词，意思是小心翼翼地、轻手轻脚地 —— 怕弄疼、
+弄坏或惊动什么。常搭 pick up、step、touch、lower、open。
+注意：它跟 ginger（姜）没有关系，不是「姜似的」；ginger 作形容词说颜色，
+并不靠这个词变副词。
+① He picked the kitten up gingerly and it bit him anyway.
+= 他小心翼翼地把小猫抱起来，还是被咬了。
+pick something up gingerly = 小心翼翼地拿起
+② She stepped gingerly across the wet stones with both hands out.
+= 她张着两只手，小心翼翼地踩过湿石头。
+step gingerly = 小心翼翼地走
+③ A gingerly handshake told everybody how the meeting had gone.
+= 一次小心翼翼的握手，把会开得怎么样全说明白了。
+a gingerly handshake = 小心翼翼的握手
+
+gingham
+核心：名词，方格布 —— 白底配一色（多为红或蓝）小方格的棉布，
+常用来做桌布、校服裙与衬衫。不可数，做定语说 a gingham dress。
+名字经荷兰语从马来语来，原指「条纹的」，进英语后意思挪到了方格。
+① Gingham on the tables makes any café look older than it really is.
+= 桌上铺方格布，能让任何一家咖啡馆显得比实际年头久。
+gingham = 方格布
+② She wore a gingham dress in every school photograph for six years.
+= 六年里的每张学校合影，她穿的都是方格布裙子。
+a gingham dress = 方格布裙
+③ The gingham faded to two shades of grey after a single summer.
+= 那块方格布晒了一个夏天，就褪成了两种灰。
+gingham fades = 方格布褪色
+
+gingivitis
+核心：名词，牙龈炎 —— 牙龈红肿、刷牙出血的早期牙周病，不可数。
+构词：gingiva 是牙龈，加表示炎症的 -itis；同族的 periodontitis 是牙周炎，
+那是它拖下去的后果。日常说「刷牙出血」，牙医口中就是这个词。
+① Gingivitis shows up as blood in the sink long before anything hurts.
+= 牙龈炎早在疼起来之前，就以洗手池里的血显出来了。
+gingivitis = 牙龈炎
+② Two weeks of proper brushing cleared the gingivitis completely.
+= 好好刷两个星期牙，牙龈炎就全好了。
+clear the gingivitis = 治好牙龈炎
+③ Untreated gingivitis turns into something far harder to reverse.
+= 牙龈炎不治，会变成难得多才能逆转的毛病。
+untreated gingivitis = 未经治疗的牙龈炎
+
+ginkgo
+核心：名词，银杏（树），扇形叶、秋天转金黄，叶提取物做保健品，
+标签上写 ginkgo biloba。复数 ginkgos 或 ginkgoes。
+注意拼写：正规写法是 ginkgo，gingko 是流传很广的手误，词典两条都收。
+① A ginkgo drops every leaf within about two days in late autumn.
+= 深秋时节，银杏树两天左右就把叶子落光。
+a ginkgo = 银杏树
+② They planted ginkgos along that road because nothing else survived the fumes.
+= 他们沿那条路种银杏，因为别的树都熬不过尾气。
+ginkgos = 银杏树（复数）
+③ Ginkgo biloba sits on the shelf between the vitamins and the fish oil.
+= 银杏叶提取物摆在货架上，就在维生素和鱼油之间。
+ginkgo biloba = 银杏叶提取物
+
+ginormous
+核心：形容词，口语里的谐谑说法，意思是大得离谱 —— giant 跟 enormous
+拼在一起造出来的词，二十世纪中叶开始流行。语气夸张，写正式文字不用；
+跟 gigantic 一样，本身已是极端义，不说 more ginormous。
+① They served a ginormous breakfast and nobody managed even half of it.
+= 他们端上一份大得离谱的早餐，没人吃得下一半。
+a ginormous breakfast = 大得离谱的早餐
+② The bill was ginormous and the evening was still worth every penny.
+= 账单大得吓人，那一晚却仍然值回票价。
+be ginormous = 大得离谱
+③ He turned up with a ginormous bag for a trip of two days.
+= 两天的行程，他拎来一个大得离谱的包。
+a ginormous bag = 大得离谱的包
