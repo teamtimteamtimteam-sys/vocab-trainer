@@ -41,6 +41,13 @@ python3 scripts/scan-dupes.py --loose                          # 判重（退出
 git add -A && git commit -q -m "..."
 ```
 
+**`bash scripts/gates.sh ... | tail -N && git commit` 会把没过闸的东西提交上去。**
+管道的退出码是 tail 的，永远是 0 —— gates.sh 自己那个 1 被吃掉了。
+2026-09-20 就这么提交过一次（三条 audit-swallowed 没处理），只好 amend 回来。
+**办法**：gates 单独跑、看完输出再敲 commit；要串就写
+`bash scripts/gates.sh ha; [ ${PIPESTATUS[0]} -eq 0 ] && git commit …`，
+别把 gates 放在管道左边。
+
 **顺序要点**：check-wordlist 必须在 resplit 之前 —— resplit 会把污染打散到多个文件里，
 定位起来麻烦得多。
 
