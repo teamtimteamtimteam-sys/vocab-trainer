@@ -9,40 +9,30 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-20，第二轮）═══
-B 词表 10144 条，词典序 a → ghoulish。A 表 3002 条。
-  a–f 段都在 97% 以上，余下的基本是待推迟（内容词在后面的字母段）。
-  **g 段收到 gh 结束**：
-    · **ga 段 304/307（99%）**、**ge 段 258/260（99%）** —— 剩的全是待推迟。
-    · **gh 段 18/18（100%）**，一条尾巴都没留：ghost story / ghost town /
-      ghost train 原先报「待推迟」，词根 ghost 一写出来就归了并入，同批收掉。
-      **这是个可复用的判断**：待推迟的多词条目，只要内容词是本段要写的词，
-      写完词根就该当场并掉，不要留到下一段。
-    · 剔进 exclude.txt 的 6 条：ghagra / gharara / gharana / gherao（印度英语
-      词头）、ghee（印度食物名）、ghillie（苏格兰英语）。ghat 与 ghazal 留着
-      （已进通用英语的地理名与文体名），gharial 按动植物名留着。
-  **下一批从 gi- 段起**（giant / gift / giggle 一带）。进段前四件事照旧：
-  pull-pending、大写词头登记、把 gi- 的习语清单补进 audit-idioms 的 CHECK、
-  整段清单一次扫干净再动笔。
-  **归档区已清空（0 条）**：最后剩的 ate 是 eat 的过去式，原形早在 e 段
-  收过，但 prune 只认「词头进了主表」，变形条永远等不到那一天，于是年年
-  挂在那儿当假待办。按「合并时要连内容一起搬」的规矩，把归档条里 eat 条
-  没有的两样（eat out、ate 的英美两读）并进 eat，再手工清空 —— 
-  **往后归档区里凡是变形条，都照这个办，别等 prune。**
-  这两轮记下的三件事：
-    · **audit-idioms 的 CHECK 是字典字面量，键写重了会被后一条静默覆盖** ——
-      generation / gap / dust / duty 四组各有两份，前一份从来没查过，已并成一份。
-      往里加之前先 grep 有没有同名键。
-    · **它的兜底匹配是全表子串、没有词边界**：'gain on' 会被 'bargain on' 撞上
-      判作已有。两三个字母的短语动词别指望这道闸门，真尺子是 coverage。
-    · **同一样东西的两个拼法各立一条时，例句会撞车**：gharial 跟 ga- 段的
-      gavial（前四字母对不上，并不进去）当场被 scan-dupes 报出。
-      改法是各走各的场景，再给两条各加一行互指的「注意拼写」。
+═══ 现状（2026-09-20，第三轮）═══
+B 词表 10186 条，词典序 a → ginseng。A 表 3002 条。
+  a–f 段都在 97% 以上；**ga 99% / ge 99% / gh 100%**，剩的全是待推迟。
+  **gi 段在写：71/113（62%），还欠 42 条**，下一批从 Gipsy 起：
+    Gipsy、giraffe、gird、girder、girdle、girl（girlish / girlhood / girly /
+    girl band / girl Friday / girl power 都并进去）、girlfriend、giro、girth、
+    gismo 与 gizmo（同词异拼，各立一条、各走各的场景）、gist、git、
+    giveaway、giveback、given（given name / given that 并进去）、giver、gizzard。
+    **give 是核心词，按规矩独占一批**：十来个短语动词（give away / back / in /
+    off / out / over / up / up on / on to…）眼下还挂在 coverage 的待推迟里，
+    写完 give 就该当场并掉，别留到下一段。清单已列进 audit-idioms 的 CHECK。
+  这一段已剔 3 条进 exclude.txt：gillie（跟上一段的 ghillie 同词异拼）、
+  girn（苏格兰与北英方言）、githeri（东非英语食物名）。
+  gingerly 登记进 derived-keep（跟「姜」无关，不是形容词的副词）。
+  这一轮记下的两件事：
+    · **同一组的几条等式要紧挨着上方那句例句，中间不能再夹等式** ——
+      gift certificate 夹在 card 与 voucher 中间，就被 need-example 判成缺例句。
+      收紧后的判据只往上看最近一句例句，夹在中间的够不着。
+    · **audit-idioms 要的是字面**：例句写 gingered up、等式写 ginger something up，
+      清单里的 ginger up 照样报缺。照老规矩改词条不松尺子。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10144
-  新增条目会让 resplit 的均分块整体改名（这一轮从每份 25 条变 26 条）——
-  **那是 resplit-b 的正常行为**，不是丢文件；check-merged 每批都逐条核过。
-  push 照旧等用户开口。
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10186
+  新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
+  check-merged 每批都逐条核过。push 照旧等用户开口。
 
 ═══ 眼下在做的另一件事：给拓展块补例句 ═══
 用户 2026-09-11 定：只补 B 表；辨析类（近义对照 / 注意别混 / 注意区别 /
