@@ -5302,6 +5302,21 @@ A godawful noise from the flat above started at about midnight.
 ⑩ A god-man with eleven thousand followers built a hospital and a scandal.
 = 一位有一万一千名信徒的神人，建起了一所医院和一桩丑闻。
 a god-man = 自称神明化身的人
+⑪ A godmother and two godparents stood at the font in the rain.
+= 一位教母和两位教父母，站在雨里的洗礼池边。
+a godmother = 教母
+a godparent = 教父母
+a godson = 教子
+His godson is twenty-six and still calls him on the same day each year.
+= 他的教子二十六岁了，每年还在同一天给他打电话。
+a god-daughter = 教女
+Her god-daughter came to the funeral and read the second lesson.
+= 她的教女来参加葬礼，读了第二段经课。
+a godchild = 教子女
+Every godchild in that family gets the same silver cup as the one before.
+= 那家的每个教子女，都得到跟前一个一样的银杯。
+受洗这一族是整套的：男 godfather、女 godmother，合称 godparent；
+孩子那边男 godson、女 god-daughter，合称 godchild（详见 godfather 条）。
 
 goddess
 核心：名词，女神 —— god 的阴性形式，指多神信仰里的女性神祇；
@@ -5326,21 +5341,10 @@ godfather
 ① Her godfather sends a book every birthday and has never once missed.
 = 她的教父每年生日都寄一本书，一次也没漏过。
 a godfather = 教父
-② A godmother and two godparents stood at the font in the rain.
-= 一位教母和两位教父母，站在雨里的洗礼池边。
-a godmother = 教母
-a godparent = 教父母
-a godson = 教子
-His godson is twenty-six and still calls him on the same day each year.
-= 他的教子二十六岁了，每年还在同一天给他打电话。
-a god-daughter = 教女
-Her god-daughter came to the funeral and read the second lesson.
-= 她的教女来参加葬礼，读了第二段经课。
-a godchild = 教子女
-Every godchild in that family gets the same silver cup as the one before.
-= 那家的每个教子女，都得到跟前一个一样的银杯。
-受洗那一支是一整套称呼：男 godfather、女 godmother，合称 godparent；
-孩子这边男 godson、女 god-daughter，合称 godchild。
+② The godfather of that family kept a shop and never touched a weapon himself.
+= 那个家族的教父开着一家店，自己从没碰过武器。
+the godfather = 黑帮教父、老大
+这一支因小说与电影而通行，多带定冠词；受洗一族的称呼整套写在 god 条里。
 ③ The godfather of that whole scene never played a note himself.
 = 那整个圈子的开山鼻祖，自己一个音符都没弹过。
 the godfather of something = 某领域的开创者
@@ -5746,6 +5750,9 @@ good-humoured = 心情好的、和气的
 good humour = 好脾气、好心情
 Her good humour lasted until the third cancellation of the day.
 = 她的好心情撑到那天第三次取消为止。
+good-humouredly = 和和气气地
+He good-humouredly repeated the whole explanation for the fourth time.
+= 他和和气气地把整套说明第四次讲了一遍。
 ㉗ A good-tempered dog in a house with four children earns its keep.
 = 一条脾气好的狗，在有四个孩子的家里值回饭钱。
 good-tempered = 脾气好的
@@ -5971,6 +5978,10 @@ bowl somebody a googly = 出其不意地难住某人
 ③ He has a googly that nobody in that league can read.
 = 他有一记反旋球，那个联赛里没人看得懂。
 have a googly = 会投反旋球
+googly eyes = 玩偶上那种会转的塑料眼睛
+A packet of googly eyes turns anything in the house into a character.
+= 一包会转的塑料眼睛，能把家里任何东西变成一个角色。
+这一支跟板球无关，是手工材料的名字，靠语境分。
 
 googol
 核心：名词（数学），古戈尔 —— 一后面跟一百个零，也就是十的一百次方。可数。

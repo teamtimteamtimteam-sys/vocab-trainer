@@ -512,3 +512,4 @@ godown       # 亚洲英语（印度与东南亚）里的货栈，按国别变�
 goodo        # 澳新英语的「好极了」，属地区变体词头
 goog         # 澳新英语里的蛋，属地区变体词头
 govt         # government 的缩写写法，不是词汇，同 cwt 与 gm 那条
+god-rest-you-merry-gentlemen  # 圣诞颂歌曲名的连字符化残片，属纯专名，同 georgia-o-keeffe
