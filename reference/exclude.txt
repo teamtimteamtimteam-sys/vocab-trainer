@@ -515,3 +515,7 @@ govt         # government 的缩写写法，不是词汇，同 cwt 与 gm 那条
 god-rest-you-merry-gentlemen  # 圣诞颂歌曲名的连字符化残片，属纯专名，同 georgia-o-keeffe
 grasscutter  # 西非英语里的蔗鼠（一种可食用啮齿动物），属地区变体词头
 gray's elegy # 诗作标题（Gray's Elegy）的清洗残片，属纯专名，同 georgia-o-keeffe
+gulab jamun  # 印度甜点名，属「印度食物名一律不收」那一条
+gulliver's travels  # 小说标题的清洗残片，属纯专名，同 gray's elegy
+gutser       # 澳新英语（come a gutser 栽跟头），属地区变体词头
+gyan         # 印度英语里的「学问、说教」，属地区变体词头

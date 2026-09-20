@@ -1,32 +1,3 @@
-grist
-核心：名词，待磨的谷物 —— 本义是送进磨坊碾的那批粮食。不可数。
-今天几乎只活在习语里：grist to the mill（英式）与 grist for the mill（美式），
-指任何能派上用场、成为素材或谈资的东西。
-① Every complaint is grist to the mill for a columnist with a deadline.
-= 对一个赶稿的专栏作者来说，每桩投诉都是现成的素材。
-grist to the mill = 现成的素材
-② Rumours of that kind are grist for the mill in a small town.
-= 那类传闻在小镇上是再好不过的谈资。
-grist for the mill = 现成的谈资（美式）
-③ The mill took a share of every load of grist it ground.
-= 磨坊每碾一批粮，都要抽走一份。
-a load of grist = 一批待磨的谷物
-
-gristle
-核心：名词，（肉里的）筋、脆骨 —— 嚼不烂的那层软骨组织。不可数，
-形容词是 gristly。
-跟 cartilage 的分别只在语域：cartilage 是解剖学说的「软骨」，
-gristle 是餐桌上的说法，同一样东西。
-① Gristle in that stew is why the children stopped eating it.
-= 那锅炖菜里的筋，就是孩子们不再吃它的原因。
-gristle = 筋、脆骨
-② He cut the gristle off and gave it to the dog under the table.
-= 他把筋切下来，从桌子底下喂了狗。
-cut the gristle off = 把筋切掉
-③ A gristly piece at the end of the joint gets left every time.
-= 那块肉末端带筋的部分，每次都剩下。
-gristly = 带筋的
-
 grit
 核心：四支。一是砂砾、粗砂：grit on the road；二是（英）撒在路面防滑的砂盐，
 也作动词：grit the roads；三是（人的）毅力、韧劲：true grit；
@@ -541,3 +512,58 @@ the groundwork = 基础工作
 ③ Without that groundwork the whole thing would have collapsed in a month.
 = 没有那番铺垫，整件事一个月就垮了。
 groundwork = 铺垫
+
+group
+核心：五支。一是一群、一组（人或物）：a group of students；二是（音乐）乐队；
+三是（商业）集团：a media group；四是动词，归类、聚在一起：group them by size；
+五是（化学与数学）基团、群，术语用法。
+名词 grouping（组别、派系）与 groupware（协同办公软件）并入本条；
+groupie 与 groupthink 太常用，各自立条。
+① A group of students waited outside a door that was never going to open.
+= 一群学生等在一扇根本不会打开的门外。
+a group of students = 一群学生
+② The group played together for nine years and split over one song.
+= 那支乐队一起演了九年，为一首歌散了伙。
+a group = 乐队
+③ A media group bought both papers and closed one of them within a year.
+= 一家媒体集团买下两份报纸，一年内关掉了其中一份。
+a media group = 媒体集团
+④ Group them by size and the problem solves itself.
+= 按大小分组，问题自己就解决了。
+group something by something = 按某个标准分组
+⑤ Groupings inside that party matter more than the party itself does.
+= 那个党内部的派系，比这个党本身还要紧。
+a grouping = 组别、派系
+⑥ Groupware in that office is four systems that do not talk to each other.
+= 那间办公室的协同软件，是四套互不通气的系统。
+groupware = 协同办公软件
+⑦ A group captain signed the order and nobody above him ever saw it.
+= 一位空军上校签了那道命令，他上面没人看过。
+a group captain = （英国空军）上校
+⑧ Somebody called for a group hug and two people left the room.
+= 有人提议来个集体拥抱，两个人离开了房间。
+a group hug = 集体拥抱
+⑨ A group practice with six doctors still has only one receptionist.
+= 一家六位医生的联合诊所，前台还是只有一个。
+a group practice = 联合诊所
+group therapy = 团体治疗
+Group therapy works for some people and empties the room for others.
+= 团体治疗对有些人管用，对另一些人则让屋子空掉。
+⑩ Group work in that class means one person works and four sign it.
+= 那个班的小组作业，是一个人干活、四个人签名。
+group work = 小组作业
+
+groupie
+核心：名词（口语，多带贬义），追星族 —— 跟着乐队跑、想接近成员的粉丝；
+最初专指女性追随者，今天也泛指某个圈子里的狂热跟随者。可数。
+**语气要当心**：用它说别人不客气，说女性尤其容易冒犯；说自己是谁的 groupie
+则是自嘲，那没问题。
+① A groupie in that story follows the tour for a year and writes a book.
+= 那个故事里的追星族跟着巡演跑了一年，写成一本书。
+a groupie = 追星族
+② He is a groupie for anything with a two-stroke engine.
+= 凡是带二冲程发动机的东西，他都是铁杆。
+a groupie = 狂热跟随者
+③ Calling her a groupie ignored the four years she had spent doing sound.
+= 管她叫追星族，是无视了她做音响的那四年。
+call somebody a groupie = 管某人叫追星族

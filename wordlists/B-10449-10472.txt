@@ -1,58 +1,3 @@
-grave
-核心：四支。一是名词，坟墓：dig a grave；二是形容词，严重的：grave concern；
-三是形容词，（神情）严肃的：a grave face；四是（语音）重音符号 grave accent，
-法语 à 上面那一道，读音跟前面几支不同。
-副词 gravely 与名词 gravedigger、gravestone、graveside、graveyard 并入本条。
-两条习语：turn in your grave（死不瞑目、气得在坟里打转）、
-from the cradle to the grave（一辈子、从生到死）。
-① They dug a grave in ground that had been frozen for two weeks.
-= 他们在冻了两周的地里挖了一座坟。
-dig a grave = 挖坟
-② There is grave concern about a building nobody has inspected since March.
-= 对一栋三月以来没人查过的楼，存在严重的担忧。
-grave concern = 严重的担忧
-③ A grave face at the door told them before anybody said a word.
-= 门口一张严肃的脸，没等人开口就把消息说了。
-a grave face = 严肃的神情
-④ He gravely repeated a question everybody had already answered.
-= 他一本正经地重复了一个人人都答过的问题。
-gravely = 严肃地；严重地
-⑤ The gravedigger knew more local history than the museum did.
-= 那位掘墓人懂的地方掌故，比博物馆还多。
-a gravedigger = 掘墓人
-⑥ Her gravestone gives two dates and one line that explains neither.
-= 她的墓碑上刻着两个日期，和一句两个都解释不了的话。
-a gravestone = 墓碑
-⑦ Somebody spoke at the graveside for less than a minute.
-= 有人在墓边讲了不到一分钟。
-at the graveside = 在墓边
-⑧ The graveyard behind that church has been full since the war.
-= 教堂后面那片墓地，从战时起就满了。
-a graveyard = 墓地
-⑨ The founder would turn in his grave if he saw the new sign.
-= 创办人要是看见那块新招牌，会在坟里打转。
-turn in your grave = 死不瞑目
-⑩ The scheme was meant to look after people from the cradle to the grave.
-= 那套制度本意是从摇篮管到坟墓。
-from the cradle to the grave = 从生到死
-a grave robber = 盗墓者
-A grave robber took the metal fittings and left the bones where they were.
-= 一个盗墓者取走金属饰件，把骨殖留在原处。
-
-gravel
-核心：名词，砾石、碎石 —— 铺车道与小路用的小石子，比沙粗、比卵石细。不可数。
-形容词 gravelly（铺着砾石的；也说嗓音粗哑）与过去分词 gravelled 并入本条。
-第二支的比喻值得记：说嗓子 gravelly，说的正是那种像碎石磨过的粗粝。
-① Gravel on that drive needs raking twice a year and topping up once.
-= 那条车道上的砾石，一年要耙两次，补一次。
-gravel = 砾石
-② The path was gravelled in March and washed out by October.
-= 那条路三月铺了砾石，到十月就被水冲垮了。
-be gravelled = 铺上砾石
-③ A gravelly voice on the telephone asked for somebody who had left.
-= 电话里一个粗哑的嗓音，要找一个已经离开的人。
-a gravelly voice = 粗哑的嗓音
-
 gravid
 核心：形容词（正式或专业），怀孕的、（鱼、昆虫）带卵的 ——
 兽医、生物学与医学文献里用它，日常英语说人怀孕用 pregnant。
@@ -597,3 +542,37 @@ gremlins = 捣蛋小妖（复数）
 ③ They blamed a gremlin because the real answer took a week to find.
 = 他们推说是小妖精作怪，因为真正的原因花了一周才查出来。
 blame a gremlin = 推说是小妖精作怪
+
+grenade
+核心：名词，手榴弹 —— 用手投掷的小型爆炸物：throw a grenade；
+也指枪榴弹，以及不爆炸的 stun grenade（震撼弹）与 smoke grenade（烟幕弹）。可数。
+名词 grenadier（掷弹兵）与 grenadine（石榴糖浆）并入本条 ——
+三个词都从「石榴」来：手榴弹的形状与炸开的碎片，让人想到石榴籽。
+① They threw a grenade into the empty building and waited outside.
+= 他们往那栋空楼里扔了一枚手榴弹，人在外面等着。
+throw a grenade = 扔手榴弹
+② A stun grenade makes noise and light and leaves the walls standing.
+= 震撼弹只有声光，墙还立着。
+a stun grenade = 震撼弹
+③ A grenadier had to be tall long after the regiment stopped throwing anything.
+= 那个团早就不再投掷任何东西，掷弹兵却仍旧必须够高。
+a grenadier = 掷弹兵
+Grenadiers were chosen for height and kept the name for the uniform.
+= 掷弹兵是按身高挑的，名号则跟着军服留了下来。
+④ Grenadine turns a plain drink pink and adds almost no flavour.
+= 石榴糖浆把一杯平淡的饮料染成粉色，味道却几乎没加。
+grenadine = 石榴糖浆
+
+Grexit
+核心：名词，希腊脱欧 —— Greece 与 exit 拼出来的词，指希腊退出欧元区这件事。
+二〇一二年欧债危机中造出，后来的 Brexit 就是照它造的；同一路的还有
+Frexit、Nexit，多半只活在新闻里。不可数，大写。
+① Grexit was discussed for three years and never actually happened.
+= 希腊脱欧讨论了三年，最终没有发生。
+Grexit = 希腊脱欧
+② A whole summer of Grexit headlines emptied the beaches of that island.
+= 整整一夏关于希腊脱欧的头条，把那座岛的海滩清空了。
+Grexit headlines = 关于希腊脱欧的头条
+③ Grexit would have cost more than the debt it was meant to settle.
+= 希腊脱欧的代价，会比它要了结的那笔债还大。
+the cost of Grexit = 希腊脱欧的代价

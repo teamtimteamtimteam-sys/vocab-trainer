@@ -1,58 +1,3 @@
-group
-核心：五支。一是一群、一组（人或物）：a group of students；二是（音乐）乐队；
-三是（商业）集团：a media group；四是动词，归类、聚在一起：group them by size；
-五是（化学与数学）基团、群，术语用法。
-名词 grouping（组别、派系）与 groupware（协同办公软件）并入本条；
-groupie 与 groupthink 太常用，各自立条。
-① A group of students waited outside a door that was never going to open.
-= 一群学生等在一扇根本不会打开的门外。
-a group of students = 一群学生
-② The group played together for nine years and split over one song.
-= 那支乐队一起演了九年，为一首歌散了伙。
-a group = 乐队
-③ A media group bought both papers and closed one of them within a year.
-= 一家媒体集团买下两份报纸，一年内关掉了其中一份。
-a media group = 媒体集团
-④ Group them by size and the problem solves itself.
-= 按大小分组，问题自己就解决了。
-group something by something = 按某个标准分组
-⑤ Groupings inside that party matter more than the party itself does.
-= 那个党内部的派系，比这个党本身还要紧。
-a grouping = 组别、派系
-⑥ Groupware in that office is four systems that do not talk to each other.
-= 那间办公室的协同软件，是四套互不通气的系统。
-groupware = 协同办公软件
-⑦ A group captain signed the order and nobody above him ever saw it.
-= 一位空军上校签了那道命令，他上面没人看过。
-a group captain = （英国空军）上校
-⑧ Somebody called for a group hug and two people left the room.
-= 有人提议来个集体拥抱，两个人离开了房间。
-a group hug = 集体拥抱
-⑨ A group practice with six doctors still has only one receptionist.
-= 一家六位医生的联合诊所，前台还是只有一个。
-a group practice = 联合诊所
-group therapy = 团体治疗
-Group therapy works for some people and empties the room for others.
-= 团体治疗对有些人管用，对另一些人则让屋子空掉。
-⑩ Group work in that class means one person works and four sign it.
-= 那个班的小组作业，是一个人干活、四个人签名。
-group work = 小组作业
-
-groupie
-核心：名词（口语，多带贬义），追星族 —— 跟着乐队跑、想接近成员的粉丝；
-最初专指女性追随者，今天也泛指某个圈子里的狂热跟随者。可数。
-**语气要当心**：用它说别人不客气，说女性尤其容易冒犯；说自己是谁的 groupie
-则是自嘲，那没问题。
-① A groupie in that story follows the tour for a year and writes a book.
-= 那个故事里的追星族跟着巡演跑了一年，写成一本书。
-a groupie = 追星族
-② He is a groupie for anything with a two-stroke engine.
-= 凡是带二冲程发动机的东西，他都是铁杆。
-a groupie = 狂热跟随者
-③ Calling her a groupie ignored the four years she had spent doing sound.
-= 管她叫追星族，是无视了她做音响的那四年。
-call somebody a groupie = 管某人叫追星族
-
 groupthink
 核心：名词，群体迷思 —— 一群人为了维持和气与一致，不自觉地压住异议，
 最后一起做出糟糕的决定。不可数，贬义。
@@ -464,3 +409,31 @@ be called the Gryphon = 叫作「狮鹫」
 ③ Two gryphons hold the shield up from either side.
 = 两只狮鹫从两侧把那面盾徽托着。
 gryphons = 狮鹫（复数）
+
+guacamole
+核心：名词，牛油果酱 —— 墨西哥做法：牛油果捣碎，加青柠、洋葱、辣椒与香菜。
+不可数。注意读音：四个音节，gwah-kuh-MOH-lay，最后那个 e 要发音。
+名字来自纳瓦特尔语，字面就是「牛油果酱」；英语里连词带菜一起借了过来。
+① Guacamole goes brown within an hour unless the stone stays in it.
+= 牛油果酱一小时就发褐，除非把果核留在里面。
+guacamole = 牛油果酱
+② A bowl of guacamole disappeared before the main dish arrived.
+= 一碗牛油果酱，主菜还没上就没了。
+a bowl of guacamole = 一碗牛油果酱
+③ They make guacamole at the table and charge twice as much for it.
+= 他们当桌现做牛油果酱，价钱要贵一倍。
+make guacamole = 做牛油果酱
+
+guano
+核心：名词，鸟粪肥 —— 海鸟或蝙蝠积下的粪便，富含氮磷，十九世纪是抢手的肥料，
+为它打过仗、立过法。不可数。
+从克丘亚语经西班牙语进入英语。今天这个词也用于讲海岛生态与历史贸易。
+① Guano on that island was dug out and shipped for forty years.
+= 那座岛上的鸟粪肥被挖出来外运，运了四十年。
+guano = 鸟粪肥
+② A layer of guano two metres deep took centuries to build up.
+= 两米厚的一层鸟粪，积了几百年。
+a layer of guano = 一层鸟粪肥
+③ Bat guano in that cave feeds everything else that lives there.
+= 洞里的蝙蝠粪，养活了住在那儿的其他一切生物。
+bat guano = 蝙蝠粪肥
