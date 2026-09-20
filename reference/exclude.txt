@@ -502,3 +502,4 @@ girn         # 苏格兰与北英格兰的方言词（抱怨、龇牙），属�
 githeri      # 东非英语里的玉米豆子煮食，属地区变体词头兼食物名
 glissando    # 演奏法的乐谱术语（滑奏），同 accelerando / demisemiquaver / diapason 那条；
              # 注意跟乐曲体裁名分开：gigue、sonata 那类是名物词，照收
+gm           # 克（gram）的缩写写法，不是词汇，同 cwt 那条

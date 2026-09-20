@@ -34,6 +34,10 @@ CHECK = {
          'get through with', 'get to', 'get together', 'get up', 'get up as',
          'get up to', 'get ahead', 'get behind', 'get about', 'get above yourself',
          'get-go', 'get-up-and-go'],
+ # gn- 段 —— 动笔前先列清单（2026-09-20）
+ 'gnaw': ['gnaw at', 'gnaw away at'],
+ 'gnash': ['gnash your teeth', 'gnashing of teeth'],
+ 'gnome': ['a garden gnome', 'the gnomes of Zurich'],
  # gl- 段 —— 动笔前先列清单（2026-09-20）
  'glove': ['fit like a glove', 'the gloves are off', 'hand in glove',
            'a glove compartment'],
