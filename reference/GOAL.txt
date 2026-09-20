@@ -9,31 +9,34 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-20，第四轮）═══
-B 词表 10205 条，词典序 a → gizzard。A 表 3002 条。
-  a–f 段都在 97% 以上；**g 段的 ga 99% / ge 99% / gh 100% / gi 99%**，
-  剩的全是待推迟（gi 段只剩 gippy tummy 一条，tummy 在 t 段）。
-  **下一批从 gl- 段起**（glacier / glad / glance / glass 一带）。进段前四件事照旧：
-  pull-pending、大写词头登记、把 gl- 的习语清单补进 audit-idioms 的 CHECK、
-  整段清单一次扫干净再动笔。
-  gi 段这一轮：新词条 60 条＋**核心词 give 一条 37 个义项**（独占一批），
-  十三条 give 的短语动词随词根一起收掉。剔 3 条进 exclude.txt
-  （gillie / girn / githeri），gingerly 登记进 derived-keep。
-  **这一轮修的三把尺子，往后按这个顺序信它们**：
-    · **编号表一律从 check-wordlist 导入，别手写**（CLAUDE.md 早有这条，
-      当初只同步了 renumber 与 index.html）。need-example 手写的只到 30、
-      audit-depth 与 backfill-eq 只到 50 —— give（37）与 get（54）的后半截
-      整段判读失效。改完当场翻出 cross 藏了 8 条没例句的等式，已补。
-      全表 tier1 52 → 32。
-    · **audit-padding 判重只看等式剥掉占位词后的形状**：give 的双宾语式与
-      to 式因此被判成重复。改词条不松尺子 —— 把两式的差别写进等式右边
-      （「双宾语」「用 to 引出收受方」），本来就是该教的东西。
-    · **audit-idioms 要的是字面**：例句写 gingered up / is taken as a given，
-      清单要的是 ginger up / take something as a given，照样报缺。
-      两种改法都用过：把例句换成不带宾语的原形（ginger up），
-      或把完整说法写进**散文讲解行**（散文行不进 need-example 的清单）。
+═══ 现状（2026-09-20，第五轮）═══
+B 词表 10243 条，词典序 a → gloat。A 表 3002 条。
+  a–f 段都在 97% 以上；**g 段 ga 99% / ge 99% / gh 100% / gi 99%**。
+  **gl 段在写：83/160（51%），还欠 77 条**，下一批从 glob 起：
+    glob、globe（globetrotter / globetrotting / globular / globule 并进去）、
+    global（globalism / globalist / globalization / globalize / globally，
+    以及 global warming / heating / village / positioning system）、
+    glocal、glockenspiel、glom、gloom（gloomily / gloominess / gloomy）、
+    gloop 与 glop（同义异形，各立一条）、glorify（glorification / glorified）、
+    glorious（gloriously）、glory（glory days / glory in）、
+    gloss（glossy / gloss over）、glossary、glottal（glottis / glottal stop /
+    glottal fry）、glove（glovebox / gloved / glove compartment / glove puppet）、
+    glow（glowing / glowingly / glow stick / glow-worm）、**glower 另立一条
+    并写「注意别混」—— 它跟 glow 不同源**、glucose、glue（gluey / glue ear /
+    glue-sniffing）、glug、glum（glumly）、glut、gluten、gluteus（glutes）、
+    glutinous、glutton（gluttonous / gluttony）、glycerine（glycerol）、glyph。
+  进段已剔 glissando 进 exclude.txt（演奏法的乐谱术语，同 accelerando 那条；
+  注明跟 gigue、sonata 那类体裁名的分界）。
+  这一轮记下的三件事：
+    · **audit-idioms 的清单是动笔前列的，写的时候照样会漏** ——
+      people who live in glass houses 就漏了，闸门当场报缺。这正是它的用处。
+    · **audit-padding 的元评论检查逮到 glans ②**（整句在谈这个词的写法）——
+      改例句、把写法说明退回讲解行，不松尺子。
+    · **coverage 按连续字符串搜**：glass something in 盖不住 glass in。
+      等式写不带宾语的原形，宾语位置另写讲解行 —— 这一招这一轮用了三次
+      （glass in、glance on，以及上一轮的 ginger up）。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10205
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10243
   新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
   check-merged 每批都逐条核过。push 照旧等用户开口。
 
