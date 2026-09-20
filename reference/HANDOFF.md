@@ -147,13 +147,17 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
 
 ## 八、当前进度（2026-09-20）
 
-- B 词表 **10130 条 / 36212 个义项**，词典序 a → geyser；A 表 3002 条。
+- B 词表 **10144 条**，词典序 a → ghoulish；A 表 3002 条。
   交付文件第五份已开头（`B-merged-10001-10130.txt`）。
   **条数、义项数、段完成度一律从脚本读**（`status.py` / `check-merged.py` /
   `audit-padding.py` / `coverage.py`），别照抄这一节的数字。
-- **词典本身**：a–f 段 97% 以上，g 段的 **ga 与 ge 都收完了（各 99%，
-  剩下的全是待推迟）**。**下一批从 ghastly 起**（gherkin / ghetto / ghost 一带）。
+- **词典本身**：a–f 段 97% 以上，g 段的 **ga / ge / gh 都收完了**
+  （ga 99%、ge 99%、**gh 100%**，剩下的全是待推迟）。
+  **下一批从 gi- 段起**（giant / gift / giggle 一带）。
   G 段大写词头 51 条已登记进 proper-nouns-keep。
+  gh 段留下一条可复用的判断：**待推迟的多词条目，只要内容词正是本段要写的词
+  （ghost story / ghost town / ghost train 之于 ghost），写完词根就该当场并掉**，
+  不要留到下一段 —— coverage 会自己从「待推迟」挪进「待并入」。
 - **补例句这件事做完了**（tier1 与 tier2 两档）。剩下列出来的**都不是漏网**：
   - **tier1 现在 52 条**。三种东西混在一起，动手前逐条判：
     · **明知故留的冒犯语两条**：fa 段的 fag hag、ga 段的 gang bang
