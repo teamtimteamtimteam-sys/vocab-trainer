@@ -9,30 +9,29 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-20，第十轮）═══
-B 词表 10388 条，词典序 a → goy。A 表 3002 条。
+═══ 现状（2026-09-20，第十一轮）═══
+B 词表 10430 条，词典序 a → grapevine。A 表 3002 条。
   a–f 段 97% 以上；**g 段：ga 99% / ge 99% / gh 100% / gi 99% / gl 99% /
-  gm 空 / gn 100% / go 99%**，剩下的全是待推迟。
-  go 段两条尾巴：gonzo journalism（journalism 在 j 段）、Gordian knot（k 段）。
-  **g 段只剩 gr- 与 gu-/gy- 没开**。下一批从 **gr- 段**起
-  （grab / grace / grade / grain / grand / grant / grass / grave / great /
-  green / grey / grind / grip / ground / group / grow 一带）——
-  **这是 g 里最大的一段，里头 great / green / ground / grow / grand 都是大词，
-  动笔前先跑 coverage gr 看清单，再把习语补进 audit-idioms 的 CHECK。**
-  go 段这一轮写完两个核心词：go（56 义项）与 good（35 义项）。
-  **这一段最该记住的三件事**：
-    · **coverage 的派生判定只认「以词根前四个字母打头」** ——
-      godchild / godmother / godparent / godson 唯一对得上的词根是 god，
-      写在 godfather 条里照样算没收。整套挪进 god 条才认。
-      往后并入前先想一句：这个词跟宿主的前四个字母对得上吗。
-    · **audit-derived 会查核心词的比较级与最高级**：写完 good，
-      better 与 best 当场被报出来。逐条看过属真例外，登记进 derived-keep。
-      它也会被词条里的「副词」二字骗到（goodly 那次），同样登记留痕。
-    · **冒犯语按语域标注的规矩收而不剔**（gook / goolie / golliwog /
-      gobshite / goy），词条里写明「认得即可，别拿来用」，
-      并给出不冒犯的那一支义项（如果有）。
+  gm 空 / gn 100% / go 99%**；**gr 段在写：95/473（20%）**。
+  **gr 是 g 里最大的一段（清单 473 条）**，下一批从 grapeshot / graph 起：
+  graph / graphic / graphics / graphite / grapple / grasp / grass / grate /
+  grateful / gratify / gratitude / gratuitous / grave / gravel / gravity /
+  gravy / gray 与 grey（同词异拼，各立一条）/ graze / grease / **great** /
+  greed / Greek / **green** / greet / gregarious / grenade / grew / grid /
+  grief / grieve / grill / grim / grin / **grind** / **grip** / grisly /
+  grit / groan / grocer / groin / groom / groove / grope / gross / grotesque /
+  **ground** / **group** / grouse / grove / grovel / **grow** / growl /
+  growth / grub / grudge / gruelling / gruesome / gruff / grumble / grumpy /
+  grunge / grunt 一带。
+  **great / green / ground / group / grow / grind / grip 这七个是大词**，
+  习语清单动笔前已经补进 audit-idioms 的 CHECK（十七组）。
+  audit-padding 的强变化表查过了：grow→grew/grown、grind→ground 都认得，
+  不必补。
+  **这一轮记下的一条**：`gramps` 以 gram 打头，跟 grand- 那一族的前四个字母
+  对不上，写在 grandfather 条里 coverage 认不出来，只能另立一条 ——
+  跟上一轮 godchild 那笔是同一条规矩：**并入前先比前四个字母**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10388
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10430
   新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
   check-merged 每批都逐条核过。push 照旧等用户开口。
 
