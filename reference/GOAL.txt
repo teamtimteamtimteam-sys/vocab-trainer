@@ -9,28 +9,26 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-20，第十六轮）═══
-B 词表 10625 条，词典序 a → gyroscope。A 表 3002 条。
-  **g 字母整个收完了**：ga 99% / ge 99% / gh 100% / gi 99% / gl 99% /
-  gm 空 / gn 100% / go 99% / gr 97% / gu 97% / gy 100%，
-  剩下的全是待推迟条目（内容词在后面的字母段，轮到时自然并掉）。
-  a–f 段同样都在 97% 以上。
-  **下一步：开 h 字母**。先跑 `python3 scripts/coverage.py h` 看整字母的规模，
-  再按双字母段推进（ha / he / hi / ho / hu / hy）。
-  进段四件事照旧：pull-pending、大写词头登记进 proper-nouns-keep、
-  把该段大词的习语清单补进 audit-idioms 的 CHECK、整段清单一次扫干净再动笔。
-  h 里的大词很密：have / hand / hang / happy / hard / head / hear / heart /
-  heavy / help / high / hit / hold / home / hope / hot / house / how ——
-  **have 与 hold 按核心词规矩各占一批**，动笔前查 audit-padding 的强变化表
-  （have→had、hold→held、hear→heard、hang→hung 都要在表里）。
-  g 段这一路记下的三条，往后照用：
-    · **并入前先比前四个字母** —— coverage 的派生判定只认这个
-      （gramps、godchild 两次栽在这里）。
-    · **并入可数名词时等式左边写单数**，复数那句退成补充例句
-      （globule / gramme / greenback / greengage / grenadier / guideline
-      / grown / gyration 前后栽了八次，HANDOFF 第六节第 1b 条就是为它写的）。
-    · **同词异拼的两条词条最容易撞例句** —— gharial 与 gavial、
-      Gipsy 与 Gypsy 都被 scan-dupes 通道 5 当场逮住；改场景，别删义项。
+═══ 现状（2026-09-20，第十七轮）═══
+B 词表 10676 条，词典序 a → hale。A 表 3002 条。
+  **a–g 七个字母都收完了**（各段 97% 以上，余下全是待推迟）。
+  **h 字母开工：清单 2061 条，比 g 还大**；目前 ha 段 87/577（15%）。
+  双字母段的规模：ha 577 / he 414 / hi 242 / ho 508 / hu 约 200 /
+  hy 约 90，另有 hg / hl / hm / hp 几条零头。
+  **进段四件事已做完**：pull-pending（空）、**H 段大写词头登记 46 条进
+  proper-nouns-keep**、ha 段习语清单补进 CHECK（十组）、
+  剔 4 条进 exclude.txt（haar / haat / halwa / handphone）。
+  audit-padding 的强变化表查过：have / hold / hear / hang / hide 都认得。
+  **下一批从 half 起**：half（大词，halfpenny / halfpipe / halftone /
+  halfway / halfwit 与 better half、go halves 一族）、halibut、halitosis、
+  hall、hallelujah、hallmark、hallo、hallowed、Halloween、hallucinate 一族、
+  hallway、halo、halogen、halt、halter、halve、ham、hamburger、hamlet、
+  **hammer（大词）**、hammock、hamper、hamster、hamstring、
+  **hand（大词，复合词三十余个、习语十条）**、**hang（大词，短语动词八个）**、
+  handbag / handbook / handcuff / handful / handle / handout / handshake /
+  handsome / handwriting / handy 一带。
+  h 里的大词一路密集：**have 与 hold 按核心词规矩各占一批**，
+  head / heart / high / home / house 也要按大词的规格写。
 交付文件（每 2500 条一份，满了自动顺延）：
   B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10542
   新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
