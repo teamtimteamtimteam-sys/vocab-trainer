@@ -40,3 +40,6 @@ better         # 不只是 good 的比较级：它另有动词义（better the r
 best           # 同上：动词义（best somebody 胜过某人）、名词义（do your best、
                # at best、the best of both worlds），以及 best man、
                # best-before date、best practice 一族复合词；也同时是 well 的最高级
+goodly         # 长得像 -ly 副词，其实是形容词（a goodly sum 相当可观的一笔）；
+               # good 的副词是 well，不是它。词条里写着「不是 good 的副词」，
+               # audit-derived 认「副词」二字就把它当副词条报了出来 —— 属误判
