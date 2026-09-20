@@ -43,3 +43,6 @@ best           # 同上：动词义（best somebody 胜过某人）、名词义�
 goodly         # 长得像 -ly 副词，其实是形容词（a goodly sum 相当可观的一笔）；
                # good 的副词是 well，不是它。词条里写着「不是 good 的副词」，
                # audit-derived 认「副词」二字就把它当副词条报了出来 —— 属误判
+hardly         # 形状上像 hard 的副词，意思却完全不同：它表示「几乎不」，
+               # 而 hard 自己就是副词（work hard）。两个词不能互换 ——
+               # 这是英语里最著名的一组陷阱，并进去等于把这条分辨抹掉
