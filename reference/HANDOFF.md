@@ -103,6 +103,10 @@ especially 那句「everybody said it was」被元评论检查逮到，改例句
 ## 六、这几轮反复踩的坑（写之前扫一眼）
 
 1. 核心块预告了同源词却没给例句 → audit-swallowed（最高频，已出现十余次）。
+1b. **并入可数名词时只写了复数形，词头的单数没露过面** → 同样被 audit-swallowed
+   报「被吞掉」。globule、gramme、greenback、greengage、grenadier 都栽在这一条。
+   动笔时的习惯：**等式左边写单数**（a greenback = 一张美钞），复数那句
+   退成底下的补充例句。
 2. 例句偏薄 → audit-examples（改例句，不动阈值）。
 3. 批量补等式的脚本按字符串锚点插入时，锚点要选**那条义项独有**的字符串 ——
    ethene 那次插错义项，直接造出「两个义项等式相同」。

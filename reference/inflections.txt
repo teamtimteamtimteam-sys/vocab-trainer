@@ -119,3 +119,4 @@ geese        goose      # 不规则复数，前四字母对不上
 got          get        # 过去式与过去分词，前四字母对不上
 gotten       get        # 美式过去分词，前四字母对不上
 gave         give       # 不规则过去式，前四字母对不上
+grew         grow       # 不规则过去式；内容写在 grow 条里
