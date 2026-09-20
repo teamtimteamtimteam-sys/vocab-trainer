@@ -20,7 +20,7 @@ arose        arise
 arisen       arise
 awoke        awake
 awoken       awake
-ate          eat        # 原形在 e 段，尚未写到；变形条已存 pending
+ate          eat        # 不规则过去式；内容已并进 eat 条，归档区 2026-09-20 清空
 eaten        eat        # 同上
 
 # --- b ---
