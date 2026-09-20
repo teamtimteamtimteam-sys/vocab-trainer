@@ -53,22 +53,25 @@ def dist(a, b):
 # 派生形式（bought out、caught on）靠前缀匹配自然认得。
 STRONG = {'catch': ['caught'], 'buy': ['bought'], 'teach': ['taught'],
           'bring': ['brought'], 'seek': ['sought'], 'think': ['thought'],
-          'fight': ['fought'], 'come': ['came'], 'become': ['became'],
+          'fight': ['fought'], 'come': ['came'],
           'beseech': ['besought'], 'bid': ['bade', 'bidden'], 'are': ['were', 'is', 'am'],
           'bear': ['bore', 'born', 'borne'], 'break': ['broke', 'broken'],
           # get 漏了很久：表里有 beget→begot 却没有 get→got，而三字母词头
           # 会关掉编辑距离兜底（same_word 里的 len(t) < 4），所以 got 认不出来。
           'get': ['got', 'gotten'], 'forget': ['forgot', 'forgotten'],
+          # go 同理，2026-09-20 写 go- 段之前先补（三字母词头关掉了编辑距离兜底）
+          'go': ['went', 'gone', 'goes', 'going'], 'forgo': ['forwent', 'forgone'],
+          'undergo': ['underwent', 'undergone'], 'give': ['gave', 'given'],
           'beget': ['begot', 'begotten'], 'behold': ['beheld'], 'arise': ['arose', 'arisen'],
           'awake': ['awoke', 'awoken'], 'become': ['became'], 'begin': ['began', 'begun'],
           'bite': ['bit', 'bitten'], 'blow': ['blew', 'blown'], 'breed': ['bred'],
-          'bring': ['brought'], 'build': ['built'], 'choose': ['chose', 'chosen'],
+          'build': ['built'], 'choose': ['chose', 'chosen'],
           'cling': ['clung'], 'creep': ['crept'], 'eat': ['ate', 'eaten'],
           'die': ['dying', 'died'], 'dig': ['dug'], 'do': ['did', 'done', 'does'],
           'draw': ['drew', 'drawn'], 'drive': ['drove', 'driven'],
           'drink': ['drank', 'drunk'], 'deal': ['dealt'], 'dry': ['dried', 'drier'],
           'speak': ['spoke'], 'steal': ['stole'], 'freeze': ['froze'],
-          'choose': ['chose'], 'seek': ['sought'], 'strike': ['struck']}
+          'strike': ['struck']}
 
 def cuts_of(t):
     """词头实词 t 的各种派生词干 —— 词尾 e / y 脱落、强变化、拉丁复数"""

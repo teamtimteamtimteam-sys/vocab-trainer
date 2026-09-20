@@ -9,25 +9,28 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-20，第六轮）═══
-B 词表 10271 条，词典序 a → glyph。A 表 3002 条。
-  a–f 段都在 97% 以上；**g 段 ga 99% / ge 99% / gh 100% / gi 99% / gl 99%**，
-  剩下的全是待推迟（gl 段只剩 glycaemic index，index 在 i 段）。
-  **下一批从 gm- 段起**，那是个很小的段，接着是 gn-、go-（go 是核心词，
-  按规矩独占一批，短语动词一大把，动笔前先把清单补进 audit-idioms 的 CHECK）。
-  进段四件事照旧：pull-pending、大写词头登记、补习语清单、整段清单一次扫干净。
-  gl 段这一轮：新词条 66 条，并入约 60 条。剔 glissando 进 exclude.txt。
-  **这一段反复出现、值得记住的一条**：同前缀却不同源的词要各立一条并写
-  「注意别混」—— glower 之于 glow、glutinous 之于 gluten、glans 之于 gland、
-  glop 之于 glob。coverage 按前缀猜宿主，这类它一律猜错。
-  三把尺子这一轮各拦下一次，都照「改词条不松尺子」办：
-    · audit-swallowed：globule 只在复数形 globules 里露过面，词头单数没出现；
-      glad-handing 只在讲解行里被提了一句。都补成真义项。
-    · audit-padding 的元评论检查：glans ② 整句在谈这个词的写法。改例句。
-    · audit-ab：A 表教过 in all one's glory，B 里只有 in all its glory。
-      逐条判过是该收的变体，写成讲解行补上。
+═══ 现状（2026-09-20，第七轮）═══
+B 词表 10284 条，词典序 a → gnu。A 表 3002 条。
+  a–f 段都在 97% 以上；**g 段 ga 99% / ge 99% / gh 100% / gi 99% / gl 99% /
+  gm 空 / gn 100%**，剩下的全是待推迟。
+  **gm- 段按裁定为空**：清单里只有 gm 一条，是 gram 的缩写写法，
+  照 cwt 那条剔进 exclude.txt。**注意 audit-depth 对空段会报「没有匹配的
+  词条」并返回 1** —— 那不是质量问题，跑闸门时别把空段带上。
+  **下一批从 go- 段起，那是个大段：清单 315 条，其中 36 条待并入。**
+  动笔前必做两件事：
+    1. **go 是核心词，按规矩独占一批**（对照 get 那条 54 义项、give 那条 37 义项）。
+       短语动词一大把（go about / ahead / along with / around / at / away /
+       back / by / down / for / in / into / off / on / out / over / round /
+       through / under / up / without…），**动笔前先把清单补进 audit-idioms
+       的 CHECK**，写完一跑就知道漏没漏。
+    2. **go / went / gone 是三态不规则的三字母动词** —— 照 get 那次的教训，
+       先查 audit-padding 的强变化表里有没有 go→went、go→gone，
+       没有就先补，否则用 went 的例句会被判「例句里没有词」。
+  gn 段这一轮 12 条：gnashers 并进 gnash，gnawing / gnaw at / gnaw away at
+  并进 gnaw，Gnosticism 另立一条。这一段几乎每条词头的 g 都不发音，
+  核心块里都写了读音。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10271
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10284
   新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
   check-merged 每批都逐条核过。push 照旧等用户开口。
 
