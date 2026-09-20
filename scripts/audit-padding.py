@@ -71,7 +71,10 @@ STRONG = {'catch': ['caught'], 'buy': ['bought'], 'teach': ['taught'],
           'draw': ['drew', 'drawn'], 'drive': ['drove', 'driven'],
           'drink': ['drank', 'drunk'], 'deal': ['dealt'], 'dry': ['dried', 'drier'],
           'speak': ['spoke'], 'steal': ['stole'], 'freeze': ['froze'],
-          'strike': ['struck']}
+          'strike': ['struck'],
+          # have 同 go：四字母但变形一个都不像原形，has / had / hast / hath
+          # 全靠这张表才认得出（2026-09-21 写 have 条之前补）
+          'have': ['has', 'had', 'having', 'hast', 'hath']}
 
 def cuts_of(t):
     """词头实词 t 的各种派生词干 —— 词尾 e / y 脱落、强变化、拉丁复数"""

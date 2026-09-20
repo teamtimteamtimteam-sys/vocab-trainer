@@ -120,3 +120,14 @@ got          get        # 过去式与过去分词，前四字母对不上
 gotten       get        # 美式过去分词，前四字母对不上
 gave         give       # 不规则过去式，前四字母对不上
 grew         grow       # 不规则过去式；内容写在 grow 条里
+
+# --- h ---（2026-09-21 写 have 条前补）
+has          have       # 第三人称单数，前四字母对不上
+had          have       # 过去式与过去分词，前四字母对不上
+hasn't       have       # 缩略否定式，内容写在 have 条里
+haven't      have       # 同上
+hadn't       have       # 同上
+hast         have       # 古体第二人称（thou hast），内容写在 have 条里
+hath         have       # 古体第三人称（he hath），同上
+# h 段保留不并的（另有变形之外的义项）：
+#   having（无）；has-been 是名词，另有义，写在 have 条里但不算变形

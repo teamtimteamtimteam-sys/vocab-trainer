@@ -701,6 +701,13 @@ CHECK = {
           'when the dust settles'],
  'duty': ['on duty', 'off duty', 'do your duty', 'a duty of care',
           'duty-bound', 'bounden duty', 'do duty as', 'in the line of duty'],
+ 'have': ['have to', 'have got', 'have got to', 'have something done',
+          'have it out with', 'have had it', 'have it in for',
+          'have something against', 'have somebody on', 'have somebody in',
+          'have somebody back', 'have something out', 'have somebody up',
+          'have something on', 'have to do with', 'have a way with',
+          'what have you', 'the haves and the have-nots', 'has-been',
+          'have done with', 'have it your own way', 'be had'],
 }
 
 def main():
