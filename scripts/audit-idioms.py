@@ -34,6 +34,9 @@ CHECK = {
          'get through with', 'get to', 'get together', 'get up', 'get up as',
          'get up to', 'get ahead', 'get behind', 'get about', 'get above yourself',
          'get-go', 'get-up-and-go'],
+ 'gospel': ['the gospel truth', 'take something as gospel', 'gospel music'],
+ 'gossip': ['a gossip column', 'idle gossip'],
+ 'gouge': ['gouge out'],
  # good —— 核心词，动笔前先列清单（2026-09-20）
  'good': ['be good at', 'be good for', 'do good', 'for good',
           'for the good of', 'as good as', 'make good', 'good for you',
