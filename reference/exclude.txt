@@ -519,3 +519,7 @@ gulab jamun  # 印度甜点名，属「印度食物名一律不收」那一条
 gulliver's travels  # 小说标题的清洗残片，属纯专名，同 gray's elegy
 gutser       # 澳新英语（come a gutser 栽跟头），属地区变体词头
 gyan         # 印度英语里的「学问、说教」，属地区变体词头
+haar         # 苏格兰与东北英格兰的海雾，属地区变体词头
+haat         # 印度英语里的集市，属地区变体词头
+halwa        # 印度甜点名，属「印度食物名一律不收」；通用写法 halva 另当别论
+handphone    # 新加坡与马来西亚英语里的手机，属地区变体词头
