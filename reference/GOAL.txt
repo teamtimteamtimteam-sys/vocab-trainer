@@ -19,18 +19,16 @@ B 词表 10676 条，词典序 a → hale。A 表 3002 条。
   proper-nouns-keep**、ha 段习语清单补进 CHECK（十组）、
   剔 4 条进 exclude.txt（haar / haat / halwa / handphone）。
   audit-padding 的强变化表查过：have / hold / hear / hang / hide 都认得。
-  **下一批从 handbag 起**：handbag / handball / handbook / handcuff /
-  handcuffs / handful / handicap / handicapped / handicraft / handkerchief /
-  **handle（大词：fly off the handle、get a handle on）**/ handlebar /
-  handler / handling / handout / handshake / handsome / handwriting /
-  handy / handyman，接着 **hang（大词，八个短语动词）**、hangar / hanger /
-  hanging / hangman / hangover / hank / hanker / hanky / haphazard /
-  hapless / **happen（大词）**/ **happy（大词）**/ harangue / harass /
-  harbour / **hard（大词，一族复合词与四条习语）**/ hardback / harden /
-  hardly / hardship / hardware / hardy / hare / harem / hark / harm /
-  harmony / harness / harp / harpoon / harrow / harsh / harvest /
-  hash / hassle / haste / **hat（大词）**/ hatch / hate / hatred /
-  haul / haunt / **have（核心词，独占一批）**一带。
+  **ha 段 225/577（38%），下一批从 harbour 起**：harbour / hard（大词，
+  一族复合词与四条习语）/ hardback / hardboard / harden / hardliner /
+  hardly / hardship / hardware / hardwood / hardy、hare / harem / hark /
+  harlequin / harm / harmonica / harmonize / harmony / harness / harp /
+  harpoon / harpsichord / harridan / harrow / harry / harsh / hart /
+  harvest、has / hash / hasp / hassle / hassock / haste / hasten / hasty、
+  **hat（大词）**/ hatch / hatchback / hatchet / hate / hatred / haughty /
+  haul / haulage / haunch / haunt / hauteur、**have（核心词，独占一批）**、
+  haven / haversack / havoc / haw / hawk / hawthorn / hay / haywire /
+  hazard / haze / hazel / hazy 一带。
   h 里的大词一路密集：**have 与 hold 按核心词规矩各占一批**，
   head / heart / high / home / house 也要按大词的规格写。
 交付文件（每 2500 条一份，满了自动顺延）：
