@@ -1,26 +1,3 @@
-geranium
-核心：天竺葵：窗台上最常见的盆花之一，叶子搓一下有味，花色多为红粉。
-可数；园艺里严格说这个名字下有两个属，日常不分。
-① The geraniums on that sill have outlived two tenants and one landlord.
-= 那扇窗台上的天竺葵，熬走了两任租客、一任房东。
-a geranium = 天竺葵
-② Geraniums want sun, poor soil and to be left alone.
-= 天竺葵要的是太阳、贫瘠的土，还有别去管它。
-geraniums = 天竺葵（复数）
-
-gerbil
-核心：沙鼠：小型穴居啮齿动物，尾巴有毛，多作宠物。可数。
-多作宠物养。
-① The gerbil dug through a cardboard box in about four minutes.
-= 那只沙鼠四分钟左右就把一个纸箱挖穿了。
-a gerbil = 沙鼠
-② Two gerbils need a deeper tank than anybody at the shop mentions.
-= 养两只沙鼠要的笼子比店里说的深得多。
-gerbils = 沙鼠（复数）
-注意别混：
-gerbil = 沙鼠（尾巴有毛，白天也活动）
-hamster = 仓鼠（尾巴极短，夜里才动）
-
 geriatric
 核心：三支。一是老年医学的：geriatric care 是老年照护；
 二是（正式）老年病人的；三是（口语，贬）老掉牙的 —— 说设备或做法，用要当心。
@@ -263,3 +240,41 @@ gesticulate at something = 对着某物比划
 ② Two drivers gesticulated through closed windows and neither heard a word.
 = 两个司机隔着关着的车窗比划，谁也没听见对方一个字。
 gesticulate through something = 隔着某物比划
+
+gesticulation
+核心：打手势、比划：用手臂大幅比画这件事，也指比画出来的那些动作。
+可数不可数都行，略正式。
+① The gesticulation told the story and the words got in the way.
+= 那一通比划把事情说清楚了，话反倒添乱。
+gesticulation = 比划
+② Four minutes of gesticulation got them a table by the window.
+= 比划了四分钟，他们要到了一张靠窗的桌子。
+gesticulations = 比画的动作（复数）
+
+gesture
+核心：四支。一是手势、动作：a rude gesture 是不雅手势；
+二是姿态、表示：a gesture of goodwill 是善意的表示；
+三是（贬）做样子：an empty gesture 是空洞的姿态；
+四是动词，做手势示意：gesture towards something。
+① She made a gesture at the window and everybody looked the wrong way.
+= 她朝窗子做了个手势，所有人都看错了方向。
+make a gesture = 做个手势
+② Sending the flowers was a gesture of goodwill and cost him nothing.
+= 送花是个善意的表示，也没花他什么钱。
+a gesture of goodwill = 善意的表示
+③ The apology was an empty gesture and arrived eleven months late.
+= 那个道歉是空洞的姿态，还晚了十一个月。
+an empty gesture = 空洞的姿态
+④ He gestured towards the door without looking up from the page.
+= 他朝门口示意了一下，头都没从书页上抬起来。
+gesture towards something = 朝某处示意
+
+gesundheit
+核心：（美式，德语借词）「保重」：别人打喷嚏时说的一句，
+跟 bless you 同用。感叹词，不变形。
+① Somebody said gesundheit from two desks away and went back to work.
+= 隔着两张桌子有人说了句「保重」，接着又埋头干活。
+say gesundheit = 说一句「保重」
+② Gesundheit is what that family says and bless you is what the neighbours say.
+= 那家人说的是德语那句「保重」，邻居说的是英语那句。
+gesundheit = 保重（打喷嚏时）

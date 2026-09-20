@@ -1,225 +1,3 @@
-girth
-核心：两支。一是周长、围度 —— 树干、腰身、管子那一圈的长度：the girth of a tree；
-说人时是委婉语，比说 fat 客气得多。二是马具上的肚带，扣在马腹下把鞍固定住。
-第一支多不可数，第二支可数。
-① The girth of that oak takes four people to measure.
-= 那棵橡树的周长，得四个人合抱才量得出来。
-the girth of a tree = 树干的周长
-② He has put on a certain amount of girth since the wedding photographs.
-= 从结婚照那会儿到现在，他腰身确实粗了一圈。
-put on girth = 发福
-③ She tightened the girth twice before she got on.
-= 上马之前，她把肚带紧了两回。
-tighten the girth = 勒紧肚带
-
-gismo
-核心：gizmo 的另一种拼法，意思完全一样：叫不上名字的小装置、小玩意儿，
-可数，口语。拼 s 的这一式少见些，多出现在早年的美国口语材料里。
-注意拼写：同一个词的两种写法，同一篇文章里别混用，选定一个写到底。
-① The catalogue lists that gismo under three different names.
-= 那份目录把那个小玩意儿列在三个不同的名字底下。
-a gismo = 小玩意儿
-② Somebody left a gismo on the bench with no instructions at all.
-= 有人在工作台上留了个小装置，连说明书也没有。
-leave a gismo = 留下一个小装置
-③ Two gismos in that drawer turned out to do exactly the same job.
-= 抽屉里那两个小玩意儿，原来干的是同一件事。
-gismos = 小玩意儿（复数）
-
-gist
-核心：名词，要点、大意 —— 一段话或一份文件里最要紧的那一点。不可数，
-前面固定带 the：get the gist、the gist of something。
-说「我大概听懂了」就是 I got the gist，言外之意是细节没跟上。
-① I got the gist of the argument and missed every detail of it.
-= 我听懂了那场争论的大意，细节一个也没抓住。
-get the gist = 听懂大意
-② The gist of the letter was that nobody would be paid until March.
-= 那封信的要点是：三月之前谁也拿不到钱。
-the gist of something = 某物的要点
-③ Give me the gist and keep the paperwork for the lawyers.
-= 把要点告诉我就行，文书留给律师去看。
-give somebody the gist = 把要点告诉某人
-
-git
-核心：名词，英式俚语的骂人话，蠢货、讨厌鬼 —— 语气比 idiot 重，多用于男性，
-常说 a stupid git、a lazy git、an old git。熟人之间也可带玩笑，但对外人一律是侮辱。
-**认得即可，别拿来用。**（版本管理工具 Git 是另一回事，专名大写。）
-① He called the referee a stupid git and was asked to leave the ground.
-= 他骂裁判是个蠢货，被请出了球场。
-a stupid git = 蠢货
-② The lazy git has not washed a single cup in four years.
-= 那个懒虫四年没洗过一个杯子。
-a lazy git = 懒虫
-③ Two old gits at the bar argue about the same match every Friday.
-= 吧台边两个老家伙，每周五都为同一场比赛吵。
-an old git = 老家伙
-
-give
-核心：底层是**把自己这边的东西挪到别人那边**。所有义项都是这一句的变形：
-一是交给（give somebody something / give something to somebody），两种句型
-差在重心：双宾语重心在给的东西，to 那一式重心在收的人。
-二是给出抽象的东西：理由、消息、建议、帮助 —— 中文说「提供」，英语照样用 give。
-三是**give ＋ 动作名词**（give a party、give a speech、give a look、give a laugh）：
-把动词变成名词再「给」出去，好处是名词前面能挂修饰语。
-四是不及物的「顶不住」：东西受力弯了、塌了、断了；由此长出 give way 与名词义
-（绳子、安排上的「余量、弹性」）。
-五是致使：把病、麻烦、印象「给」了别人。
-**短语动词按方向词推**：送出去 away，还回去 back，往里屈服 in，散发出去 off，
-分发或耗尽 out，移交或停手 over，举手投降 up，朝着某处开 on to / onto。
-三态不规则：give / gave / given；gave 与 given 都不单立词条，内容都在这里。
-① He gave his sister the only key and kept none for himself.
-= 他把唯一的钥匙给了妹妹，自己一把没留。
-give somebody something = 把某物给某人（双宾语）
-双宾语句型，最常用；间接宾语（人）在前，不加介词。
-② She gave the whole collection to a school that had no library at all.
-= 她把整批藏书给了一所连图书馆都没有的学校。
-give something to somebody = 把某物给某人（用 to 引出收受方）
-收受方要强调、或者后面跟着长定语时，改用这一式。
-③ The witness gave a reason that nobody in the room believed.
-= 证人给出了一个在场没人相信的理由。
-give a reason = 给出理由
-抽象的东西也用 give：give advice、give an example、give permission。
-④ Two neighbours came to give a hand and the whole job took an hour.
-= 两个邻居过来搭了把手，整件活一小时就完了。
-give a hand = 搭把手
-完整说法是 give somebody a hand，宾语插在中间；这是口语里最常用的求助话。
-⑤ They give a party every January and invite the same forty people.
-= 他们每年一月办一次聚会，请的总是那四十个人。
-give a party = 办聚会
-这一支的 give 等于「举办」，主人是主语。
-⑥ He gave a speech of four minutes and then answered questions for an hour.
-= 他讲了四分钟，却回答了一个钟头的提问。
-give a speech = 发表讲话
-同一路的还有 give a talk、give a lecture、give a performance。
-⑦ She gave him a look that ended the discussion there and then.
-= 她瞥了他一眼，讨论当场就结束了。
-give somebody a look = 瞟某人一眼
-把动作写成名词，好处是前面能加修饰语：a long look、a hard look。
-⑧ The dog gave the children fleas and the children gave everybody else a cold.
-= 狗把跳蚤传给孩子，孩子又把感冒传给了别人。
-give somebody something = 把（病）传给某人
-致使这一支：病、麻烦、印象都能这么「给」。
-⑨ That knee gives him trouble in the cold and no trouble at all in summer.
-= 那个膝盖一到冷天就闹毛病，夏天一点事没有。
-give somebody trouble = 让某人吃苦头
-⑩ The floorboard gave under the weight of the piano and cracked right across.
-= 那块地板在钢琴的分量下塌了，整条裂开。
-give = 顶不住、塌陷
-不及物用法，说的是东西受力弯、裂、塌 —— 第四支的本相。
-⑪ There is enough give in that rope to take a second knot.
-= 那根绳子还有余量，够再打一个结。
-give = 弹性、余量
-名词义，不可数；也说安排上的回旋余地：there is no give in the timetable。
-⑫ The old bridge gave way in the flood and took two cars with it.
-= 洪水里那座老桥垮了，还带走两辆车。
-give way = 垮掉
-⑬ Drivers give way at that junction and cyclists never do.
-= 到那个路口，开车的都让行，骑车的从不。
-give way = 让行、让路
-英式路牌上写的就是这两个词，美式说 yield。
-⑭ One mistranslated line gave rise to a rumour that lasted for years.
-= 一句译错的话，惹出了一个流传多年的传言。
-give rise to something = 引起、惹出某事
-正式说法，主语多是抽象的事，引出的结果多半不好。
-⑮ She gave birth to twins in a taxi that never reached the hospital.
-= 她在一辆始终没开到医院的出租车上生下双胞胎。
-give birth to somebody = 生下某人
-也用于比喻：那十年催生了一种新的音乐，就说 gave birth to。
-⑯ A marriage of that length runs on give and take and short memories.
-= 那么长的婚姻，靠的是互相让步和记性不好。
-give and take = 互相迁就、有商有量
-名词性的固定搭配，中间不加冠词。
-⑰ The walk takes two hours, give or take ten minutes.
-= 那段路要走两个钟头，上下差十分钟。
-give or take = 上下相差
-插在数量后面，等于「大约」。
-⑱ She gave as good as she got and the argument ended level.
-= 她还击得一点不落下风，那场争论打了个平手。
-give as good as you get = 回敬得不落下风
-⑲ Give it a rest — you have told that story three times tonight.
-= 打住吧，那故事你今晚已经讲了三遍。
-give it a rest = 打住、别再说了
-口语，带不耐烦；对亲近的人才这么说。
-⑳ He does not give a damn what the neighbours think of the fence.
-= 邻居怎么看那道围栏，他根本不在乎。
-not give a damn = 毫不在乎
-语气粗，正式场合说 not care at all；同一路还有 not give a hoot。
-㉑ We were given to understand that the decision had already been taken.
-= 我们得到的意思是，那个决定早就定了。
-give somebody to understand = 让某人得知
-正式，几乎只用被动；言下之意是「别人让我这么以为的」。
-㉒ They decided to give away every plant in the greenhouse before the move.
-= 搬家之前，他们决定把温室里的植物全送出去。
-give away = 送掉、白送
-㉓ One raised eyebrow was enough to give away the whole surprise.
-= 眉毛一挑，整个惊喜就露了馅。
-give away = 泄露
-同一路的还有 give the game away（见 game 条）。
-㉔ He wanted to give back the money and keep the receipt as proof.
-= 他想把钱还回去，留着收据作证。
-give back = 归还
-㉕ The council had to give in after nine months of letters.
-= 写了九个月的信，议会只好让步。
-give in = 屈服、让步
-另有英式的「上交」义：give in your homework，宾语可插在中间。
-Students give in their essays on Friday and get them back in March.
-= 学生周五交论文，三月才拿回来。
-㉖ That heater will give off a smell of burnt dust for the first hour.
-= 那台取暖器头一个钟头会散出一股焦灰味。
-give off = 散发出（气味、热、光）
-㉗ Two volunteers began to give out blankets at the door.
-= 两名志愿者开始在门口分发毯子。
-give out = 分发
-㉘ Her voice can give out halfway through a long concert.
-= 唱到长音乐会一半，她的嗓子可能就哑了。
-give out = 耗尽、坏掉、不管用了
-同一个短语两义，靠有没有宾语分：带宾语是分发，不带是耗尽。
-㉙ Give over — nobody in this room believes a word of that.
-= 得了吧，这屋里没人信你那套。
-give over = 住手、别闹了
-英式口语，多用祈使句，北英格兰尤其常说。
-㉚ They give over to storage every room that stands empty for a year.
-= 空置满一年的房间，他们一律划作库房。
-give over to = 划作某种用途、移交给
-常用被动：the top floor was given over to storage。
-㉛ Most people give up after the third attempt and he came back ten years later.
-= 多数人试到第三次就放弃了，他十年后又回来接着做。
-give up = 放弃
-㉜ She gave up sugar for a month and slept better than she had in years.
-= 她戒糖一个月，睡得比多年来都好。
-give something up = 戒掉某物
-㉝ The garage was ready to give up on that engine and sell the car for parts.
-= 修车行打算对那台发动机死心，把车拆件卖了。
-give up on = 对…不再抱希望
-㉞ Give yourself up to the police early and the charge is usually reduced.
-= 早点自首，罪名通常会减轻。
-give yourself up to = 向…自首
-㉟ Give yourself over to one project for a year and everything else goes untouched.
-= 一年里一头扎进一个项目，别的事就全撂下了。
-give yourself over to = 全身心投入
-㊱ Both windows give on to a yard with a single tree in it.
-= 两扇窗子都朝着一个只有一棵树的院子。
-give on to = 朝向、通向
-㊲ Both doors give onto the same corridor at the back of the building.
-= 两扇门都通向楼后同一条走廊。
-give onto = 朝向、通向
-写成一个词还是两个词都行，意思一样，英式两种都见得到。
-
-giveaway
-核心：三支，都写成一个词（动词短语 give away 分写，见 give 条）。
-一是名词，露馅的破绽：a dead giveaway；二是名词，赠品、白送的东西；
-三是形容词性，低得离谱的：giveaway prices。
-第一支最常用，几乎总跟 dead 连用。
-① The accent was a dead giveaway within about three words.
-= 那口音说了三个词就露了馅。
-a dead giveaway = 一眼就看穿的破绽
-② The magazine came with a giveaway that cost more than the magazine.
-= 那本杂志附赠的东西，比杂志本身还贵。
-a giveaway = 赠品
-③ They sold the last forty at giveaway prices and still had ten left over.
-= 最后四十件他们贱价甩卖，还剩了十件。
-giveaway prices = 贱得离谱的价钱
-
 giveback
 核心：名词（美式，劳资谈判用语），指工会交还此前争到的待遇 —— 减薪、
 缩减福利之类，换的是岗位保住或工厂不关。可数，多用复数 givebacks。
@@ -537,3 +315,162 @@ a glaring error = 明显得离谱的错
 ⑤ The two accounts are glaringly different and both are signed.
 = 那两份说法差得一目了然，却都签了字。
 glaringly different = 差得一目了然
+
+glasnost
+核心：名词，公开性、开放政策 —— 一九八〇年代苏联推行的放宽言论与信息公开，
+从俄语借来，不可数，多与 perestroika（改革）成对出现。
+今天也用于比喻，说某个机构忽然变得肯讲实话。
+① Glasnost let newspapers print what everybody had been saying at home.
+= 公开政策让报纸登出了大家原本只在家里说的话。
+glasnost = 公开性政策
+② The two words glasnost and perestroika arrived in English together.
+= 「glasnost」和「perestroika」这两个词是一起进英语的。
+glasnost and perestroika = 公开性与改革
+③ A sudden glasnost at head office lasted exactly one quarter.
+= 总部忽然开明起来，正好持续了一个季度。
+a sudden glasnost = 忽然的开明
+
+glass
+核心：四支，外加一族复合词。一是玻璃这种材料，不可数：a pane of glass；
+二是玻璃杯，可数：a glass of water；三是复数的 glasses，眼镜；
+四是动词：glass something in（装玻璃封起来）、glass over（结上薄冰、蒙上一层）。
+习语 a glass ceiling 是看不见的晋升天花板，raise a glass 是举杯。
+名词 glassful、glassware、glasspaper 与形容词 glassy 并入本条。
+① A pane of glass that size takes four people and two suction cups.
+= 那么大的一块玻璃，要四个人加两个吸盘才搬得动。
+a pane of glass = 一块玻璃
+② She drank a glass of water standing up and then asked for the bill.
+= 她站着喝了一杯水，然后要了账单。
+a glass of water = 一杯水
+③ He cannot read the meter without his glasses and refuses to admit it.
+= 不戴眼镜他看不清电表，又不肯承认。
+a pair of glasses = 一副眼镜
+眼镜永远是复数；说一副用 a pair of glasses，不说 a glasses。
+④ They chose to glass in the porch and gained a room that is unusable by ten.
+= 他们决定把门廊装上玻璃封起来，多出一间十点就没法待的屋子。
+glass in = 装上玻璃封起来
+宾语也可以放中间：glass the porch in。
+⑤ The pond glasses over by the end of November in most years.
+= 多数年份，那口塘十一月底就结上一层薄冰。
+glass over = 结上薄冰、蒙上一层
+⑥ The glass ceiling in that firm is at the level just below the board.
+= 那家公司的玻璃天花板，就在董事会下面那一层。
+a glass ceiling = 看不见的晋升天花板
+比喻的是「看得见上面、却撞得头疼」，专说女性与少数族裔的晋升障碍。
+⑦ Raise a glass to the people who did the work and not to the committee.
+= 为干活的人举杯，别为委员会举杯。
+raise a glass to somebody = 为某人举杯
+⑧ A glass-blower works a foot from the furnace for the whole shift.
+= 吹玻璃的工匠整班都在离炉子一英尺的地方干活。
+a glass-blower = 吹玻璃的工匠
+glass-blowing = 玻璃吹制
+Glass-blowing looks unhurried and allows about four seconds of margin.
+= 玻璃吹制看着不慌不忙，留给人的余地大约只有四秒。
+⑨ Glass fibre went into the hull and the boat outlived the man who built it.
+= 船体用了玻璃纤维，那条船比造它的人还长寿。
+glass fibre = 玻璃纤维
+⑩ A glassful of that syrup is enough for a whole tray of coffees.
+= 一满杯那种糖浆，够一整盘咖啡用。
+a glassful = 一满杯的量
+⑪ The glassware goes on the top shelf and comes down twice a year.
+= 玻璃器皿放在最上层，一年才拿下来两回。
+glassware = 玻璃器皿
+⑫ Glasspaper smooths the join and leaves a dust that gets everywhere.
+= 玻璃砂纸把接缝磨平，留下一层到处都是的灰。
+glasspaper = 玻璃砂纸
+⑬ He gave a glassy smile and repeated the same sentence twice.
+= 他挤出一个呆滞的笑，把同一句话说了两遍。
+a glassy smile = 呆滞的笑
+⑭ He called them careless, and people who live in glass houses should not throw stones.
+= 他说人家马虎，可自身有短的人，本就不该去揭别人的短。
+people who live in glass houses = 自身有短的人
+整句谚语是 people who live in glass houses should not throw stones，
+说话时常常只说前半截，后半截听的人自己会补。
+
+glasshouse
+核心：两支，都是英式。一是温室、玻璃暖房 —— 跟 greenhouse 同义，
+但多指商业种植的大棚，家里那种小的一般说 greenhouse；
+二是（英，军中俚语）军事禁闭所，固定带定冠词：the glasshouse。可数。
+① That glasshouse grows two crops of tomatoes a year under lights.
+= 那座温室靠灯光一年种两茬番茄。
+a glasshouse = 温室
+② Glasshouse heating costs more than the crop itself in a cold winter.
+= 赶上冷冬，温室取暖的花费比作物本身还贵。
+glasshouse heating = 温室取暖
+③ Three weeks in the glasshouse ended his career in the army.
+= 在禁闭所关了三周，他的军旅生涯就此结束。
+the glasshouse = 军事禁闭所
+
+Glaswegian
+核心：名词与形容词，格拉斯哥的、格拉斯哥人，大写。
+构词不规则：Glasgow 变成 Glaswegian，跟 Norway 变 Norwegian 是同一路做法。
+也用来说那里的口音与那一路幽默。
+① A Glaswegian accent is the one people most often ask you to repeat.
+= 格拉斯哥口音，是最容易被人要求再说一遍的那种。
+a Glaswegian accent = 格拉斯哥口音
+② Two Glaswegians on that crew had never met before the job started.
+= 船上那两个格拉斯哥人，开工之前从没见过面。
+a Glaswegian = 格拉斯哥人
+③ Glaswegian humour is fast and takes no prisoners.
+= 格拉斯哥式的幽默又快又不留情面。
+Glaswegian humour = 格拉斯哥式幽默
+
+glaucoma
+核心：名词（医学），青光眼 —— 眼压升高损伤视神经，视野从外围一圈圈往里缩。
+不可数。要紧的一点是它早期几乎没有感觉，所以查眼压才有意义。
+跟 cataract（白内障）不是一回事：白内障是晶状体混浊，可以换掉；
+青光眼伤掉的视神经回不来。
+① Glaucoma takes the edges of your sight before you notice anything at all.
+= 青光眼先吃掉视野的边缘，人却什么也察觉不到。
+glaucoma = 青光眼
+② She was treated for glaucoma for twenty years and kept her licence.
+= 她治了二十年青光眼，驾照一直保住了。
+be treated for glaucoma = 接受青光眼治疗
+③ Drops for glaucoma work only if you use them every single day.
+= 青光眼的滴眼液，只有天天不落地用才管用。
+drops for glaucoma = 青光眼滴眼液
+
+glaze
+核心：四支。一是动词，给陶器上釉，以及名词的那层釉；二是名词，糕点上刷的
+糖浆或蛋液；三是动词，给窗子装玻璃 —— double glazing 就是双层玻璃；
+四是 glaze over，眼神变得呆滞无神。
+形容词 glazed 与名词 glazier（装玻璃的师傅）并入本条。
+① They glaze the pots twice and fire them at a lower temperature the second time.
+= 那些陶器上两遍釉，第二遍烧的温度要低一些。
+glaze a pot = 给陶器上釉
+② The glaze crazed in the kiln and every piece came out with fine cracks.
+= 釉在窑里开了片，每一件出来都带着细纹。
+a glaze = 釉
+③ A glaze of apricot jam keeps the fruit shining for a day.
+= 刷一层杏酱糖浆，水果能亮上一天。
+a glaze = 糕点上的糖浆
+④ It costs more to glaze that window than to replace the whole frame.
+= 给那扇窗装玻璃，比整个换掉窗框还贵。
+glaze a window = 给窗户装玻璃
+⑤ His eyes glazed over about four minutes into the explanation.
+= 讲到第四分钟，他的眼神就开始发直。
+glaze over = 眼神变呆滞
+⑥ A glazed expression went round the room and the speaker carried on.
+= 屋里一张张脸都露出呆滞的神情，讲的人还在往下说。
+a glazed expression = 呆滞的神情
+⑦ The glazier came twice and measured the same window on both visits.
+= 装玻璃的师傅来了两趟，两趟量的都是同一扇窗。
+a glazier = 玻璃装配工
+
+gleam
+核心：三支。一是名词与动词，微光、光亮 —— 干净或湿润的表面反射出的那种光；
+二是眼里的一丝神采：a gleam in somebody's eye，多指心里有了主意或起了兴致；
+三是比喻，一线希望：a gleam of hope。形容词 gleaming 并入本条。
+跟 glare 相反：glare 是刺眼的强光，gleam 是柔和的一点光。
+① The gleam of polished wood shows every fingerprint within an hour.
+= 打磨过的木头那层光亮，一小时内就把每个指纹都显出来。
+the gleam of something = 某物的光亮
+② There was a gleam in her eye that the committee should have noticed.
+= 她眼里闪过一丝神采，委员会本该留意到。
+a gleam in somebody's eye = 眼里的一丝神采
+③ Two lights gleamed across the water and went out together.
+= 水面对岸两点光亮，又一起灭了。
+gleam = 发出微光
+④ A gleaming kitchen in the photographs and a broken tap in the flat itself.
+= 照片上是锃亮的厨房，公寓里却是个坏掉的水龙头。
+a gleaming kitchen = 锃亮的厨房

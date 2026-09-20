@@ -1,41 +1,3 @@
-gesticulation
-核心：打手势、比划：用手臂大幅比画这件事，也指比画出来的那些动作。
-可数不可数都行，略正式。
-① The gesticulation told the story and the words got in the way.
-= 那一通比划把事情说清楚了，话反倒添乱。
-gesticulation = 比划
-② Four minutes of gesticulation got them a table by the window.
-= 比划了四分钟，他们要到了一张靠窗的桌子。
-gesticulations = 比画的动作（复数）
-
-gesture
-核心：四支。一是手势、动作：a rude gesture 是不雅手势；
-二是姿态、表示：a gesture of goodwill 是善意的表示；
-三是（贬）做样子：an empty gesture 是空洞的姿态；
-四是动词，做手势示意：gesture towards something。
-① She made a gesture at the window and everybody looked the wrong way.
-= 她朝窗子做了个手势，所有人都看错了方向。
-make a gesture = 做个手势
-② Sending the flowers was a gesture of goodwill and cost him nothing.
-= 送花是个善意的表示，也没花他什么钱。
-a gesture of goodwill = 善意的表示
-③ The apology was an empty gesture and arrived eleven months late.
-= 那个道歉是空洞的姿态，还晚了十一个月。
-an empty gesture = 空洞的姿态
-④ He gestured towards the door without looking up from the page.
-= 他朝门口示意了一下，头都没从书页上抬起来。
-gesture towards something = 朝某处示意
-
-gesundheit
-核心：（美式，德语借词）「保重」：别人打喷嚏时说的一句，
-跟 bless you 同用。感叹词，不变形。
-① Somebody said gesundheit from two desks away and went back to work.
-= 隔着两张桌子有人说了句「保重」，接着又埋头干活。
-say gesundheit = 说一句「保重」
-② Gesundheit is what that family says and bless you is what the neighbours say.
-= 那家人说的是德语那句「保重」，邻居说的是英语那句。
-gesundheit = 保重（打喷嚏时）
-
 get
 核心：底层只有一句话 —— **从没有到有、从一个状态到另一个状态**。
 四条主干都是它的变形：
@@ -610,3 +572,61 @@ draw a giantess = 画女巨人
 ③ Modern retellings drop the word giantess and call her a giant.
 = 新写的故事里不用这个阴性词，直接管她叫巨人。
 call somebody a giant = 管某人叫巨人
+
+giantism
+核心：名词，巨大症 —— 生长激素过多导致的异常长高，医学上更常写 gigantism，
+两个拼法同义，gi- 那个是主流。也用于植物与动物学，指个体异常巨大这一现象。
+注意拼写：giantism 由英语的 giant 加 -ism 造成，gigantism 则直接来自
+拉丁词根，词典两条都收。
+① Giantism in that family was traced to one gene in the end.
+= 那一家人的巨大症，最后追到一个基因上。
+giantism = 巨大症
+② Island giantism explains why the beetles there are twice the usual size.
+= 岛屿巨型化解释了那里的甲虫为何有寻常个头的两倍大。
+island giantism = 岛屿巨型化
+③ Textbooks spell it gigantism and clinics still write giantism.
+= 教科书拼作「gigantism」，诊所里照旧写「giantism」。
+spell it giantism = 拼成这个形式
+
+gibber
+核心：动词，因为惊恐、激动或酒意而语无伦次地乱说，多跟 with 连用：
+gibber with fear。常见的搭配是 a gibbering wreck，指吓得说不出整话的人。
+语气偏夸张，日常用来说别人慌成什么样，不用在正式场合。
+① He gibbered with fear for a minute and then gave the whole address.
+= 他先是吓得语无伦次了一分钟，接着把整个地址说了出来。
+gibber with fear = 吓得语无伦次
+② Two hours in that queue reduced her to a gibbering wreck.
+= 在那条队里排两个钟头，她整个人语无伦次了。
+a gibbering wreck = 语无伦次、崩溃的人
+③ The radio gibbered away in the corner and nobody turned it off.
+= 收音机在角落里叽里咕噜响着，没人去关。
+gibber away = 叽里咕噜说个不停
+
+gibberish
+核心：名词，不可数，听不懂的话或看不懂的文字 —— 可能是外语、专业行话、
+胡乱拼凑，也可能是乱码。带贬义，说的是「在我听来全无意义」。
+常说 talk gibberish、be gibberish to somebody。
+① The first page is gibberish to anybody outside that trade.
+= 头一页对行外人来说全是天书。
+be gibberish to somebody = 对某人来说是天书
+② He talked gibberish for ten minutes and then made perfect sense.
+= 他胡言乱语了十分钟，接着说得头头是道。
+talk gibberish = 胡言乱语
+③ The file opened as gibberish because the encoding was wrong.
+= 那个文件打开是乱码，因为编码选错了。
+open as gibberish = 打开是乱码
+
+gibbet
+核心：名词，绞刑架 —— 旧时行刑后把尸体吊在上面示众的架子；
+也作动词，把人吊在绞架上示众。今天只出现在历史写作与比喻里，
+比喻用法指把人拿出来公开羞辱。
+注意别混：gibbet 是那个木架，gallows 泛指绞刑设施，两个词旧时常混用。
+① A gibbet stood at the crossroads for forty years as a warning.
+= 十字路口立着一座绞刑架，四十年没撤，就是给人看的。
+a gibbet = 绞刑架
+② Three men were gibbeted on the shore where the ship had come in.
+= 三个人被吊在船靠岸的那片滩头示众。
+be gibbeted = 被吊上绞架示众
+③ The column gibbeted him for one sentence taken out of a long speech.
+= 那个专栏抓着长篇讲话里的一句话，把他公开羞辱了一通。
+gibbet somebody = 把某人拿出来公开羞辱
