@@ -31,3 +31,12 @@ furthest       # 与 further 同理，另有独立用法
 gentlemanly    # 词根 gentleman 是名词，gentlemanly 是形容词，不是「形容词的副词」
 gingerly       # 跟 ginger（姜）无关，词源另有来路：意思是「小心翼翼地」，
                # ginger 作形容词只说颜色，根本没有这一支，不能并
+
+# --- 2026-09-20 写核心词 good 时登记的两个例外 ---
+better         # 不只是 good 的比较级：它另有动词义（better the record 超越）、
+               # 名词义（your betters 长辈上级）、以及 get better（病好转）、
+               # think better of、better off、for better or worse 一族独立用法；
+               # 而且它同时是 well 的比较级，并进 good 会丢掉副词那一半
+best           # 同上：动词义（best somebody 胜过某人）、名词义（do your best、
+               # at best、the best of both worlds），以及 best man、
+               # best-before date、best practice 一族复合词；也同时是 well 的最高级

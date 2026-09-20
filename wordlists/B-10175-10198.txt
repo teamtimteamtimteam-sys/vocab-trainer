@@ -1,17 +1,3 @@
-gimcrack
-核心：形容词与名词，都带轻蔑（略旧）。形容词说东西做得花哨而不结实；
-名词指这样的小玩意儿，多用复数。比 cheap 更刻薄：cheap 只说便宜，
-gimcrack 说的是「看着热闹、一用就散」。
-① A gimcrack ornament on every shelf and not one of them worth keeping.
-= 每层架子上都摆着花哨的小摆设，没一件值得留。
-a gimcrack ornament = 华而不实的小摆设
-② The whole extension is gimcrack work that will not last ten winters.
-= 那整片扩建都是花架子活，撑不过十个冬天。
-gimcrack work = 偷工减料的活儿
-③ He sold gimcracks at the fair and made more than the real traders.
-= 他在集市上卖些小玩意儿，赚得比正经商贩还多。
-gimcracks = 华而不实的小玩意儿
-
 gimlet
 核心：三支。一是手钻、螺丝锥，丁字柄的小工具，在木头上钻引孔；
 二是 a gimlet eye 与 gimlet-eyed，说目光锐利得像能钻透人；
@@ -393,3 +379,17 @@ the gist of something = 某物的要点
 ③ Give me the gist and keep the paperwork for the lawyers.
 = 把要点告诉我就行，文书留给律师去看。
 give somebody the gist = 把要点告诉某人
+
+git
+核心：名词，英式俚语的骂人话，蠢货、讨厌鬼 —— 语气比 idiot 重，多用于男性，
+常说 a stupid git、a lazy git、an old git。熟人之间也可带玩笑，但对外人一律是侮辱。
+**认得即可，别拿来用。**（版本管理工具 Git 是另一回事，专名大写。）
+① He called the referee a stupid git and was asked to leave the ground.
+= 他骂裁判是个蠢货，被请出了球场。
+a stupid git = 蠢货
+② The lazy git has not washed a single cup in four years.
+= 那个懒虫四年没洗过一个杯子。
+a lazy git = 懒虫
+③ Two old gits at the bar argue about the same match every Friday.
+= 吧台边两个老家伙，每周五都为同一场比赛吵。
+an old git = 老家伙

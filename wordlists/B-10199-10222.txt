@@ -1,17 +1,3 @@
-git
-核心：名词，英式俚语的骂人话，蠢货、讨厌鬼 —— 语气比 idiot 重，多用于男性，
-常说 a stupid git、a lazy git、an old git。熟人之间也可带玩笑，但对外人一律是侮辱。
-**认得即可，别拿来用。**（版本管理工具 Git 是另一回事，专名大写。）
-① He called the referee a stupid git and was asked to leave the ground.
-= 他骂裁判是个蠢货，被请出了球场。
-a stupid git = 蠢货
-② The lazy git has not washed a single cup in four years.
-= 那个懒虫四年没洗过一个杯子。
-a lazy git = 懒虫
-③ Two old gits at the bar argue about the same match every Friday.
-= 吧台边两个老家伙，每周五都为同一场比赛吵。
-an old git = 老家伙
-
 give
 核心：底层是**把自己这边的东西挪到别人那边**。所有义项都是这一句的变形：
 一是交给（give somebody something / give something to somebody），两种句型
@@ -580,3 +566,17 @@ glasshouse heating = 温室取暖
 ③ Three weeks in the glasshouse ended his career in the army.
 = 在禁闭所关了三周，他的军旅生涯就此结束。
 the glasshouse = 军事禁闭所
+
+Glaswegian
+核心：名词与形容词，格拉斯哥的、格拉斯哥人，大写。
+构词不规则：Glasgow 变成 Glaswegian，跟 Norway 变 Norwegian 是同一路做法。
+也用来说那里的口音与那一路幽默。
+① A Glaswegian accent is the one people most often ask you to repeat.
+= 格拉斯哥口音，是最容易被人要求再说一遍的那种。
+a Glaswegian accent = 格拉斯哥口音
+② Two Glaswegians on that crew had never met before the job started.
+= 船上那两个格拉斯哥人，开工之前从没见过面。
+a Glaswegian = 格拉斯哥人
+③ Glaswegian humour is fast and takes no prisoners.
+= 格拉斯哥式的幽默又快又不留情面。
+Glaswegian humour = 格拉斯哥式幽默

@@ -1,17 +1,3 @@
-glycerine
-核心：名词，甘油 —— 无色黏稠的甜味液体，糖霜、药膏、护肤品与肥皂里都有。
-不可数。化学上的正名是 glycerol，日用品标签多写 glycerine，美式拼作 glycerin。
-名词 glycerol 并入本条。
-① Glycerine keeps the icing soft enough to cut three days later.
-= 甘油让糖霜保持柔软，三天后还切得动。
-glycerine = 甘油
-② A little glycerine in the mix stops the soap from drying the skin.
-= 配方里加一点甘油，肥皂就不那么让皮肤发干。
-a little glycerine = 一点甘油
-③ Glycerol forms the backbone of every fat molecule in the body.
-= 甘油是体内每一个脂肪分子的骨架。
-glycerol = 甘油（化学正名）
-
 glyph
 核心：名词，字符、图符 —— 一个书写符号的具体形状。排版与文字学里用得最多：
 同一个字母在不同字体里就是不同的 glyph。也指古代刻画的符号，
@@ -632,3 +618,17 @@ gobble up something = 一口吞掉、并吞
 ③ A gobbler in the yard answers every car that turns around out there.
 = 院里一只火鸡，外头每辆掉头的车它都要应一声。
 a gobbler = 火鸡
+
+gobbledegook
+核心：名词，官腔套话 —— 又长又绕、看不懂也说不清的文字，贬义，不可数。
+也拼作 gobbledygook，两种写法词典都收。
+造这个词的人说，灵感来自火鸡的咯咯声（gobble）—— 听着响，什么也没说。
+① The form is three pages of gobbledegook and one useful question.
+= 那份表格三页官话，只有一个有用的问题。
+gobbledegook = 官腔套话
+② Anything written in gobbledegook takes twice as long to answer.
+= 凡是用官腔写的东西，回起来要花两倍时间。
+in gobbledegook = 用官腔写的
+③ She rewrote the gobbledegook as eleven short sentences.
+= 她把那堆官话重写成了十一个短句。
+rewrite gobbledegook = 改写官腔文字

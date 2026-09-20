@@ -34,6 +34,17 @@ CHECK = {
          'get through with', 'get to', 'get together', 'get up', 'get up as',
          'get up to', 'get ahead', 'get behind', 'get about', 'get above yourself',
          'get-go', 'get-up-and-go'],
+ # good —— 核心词，动笔前先列清单（2026-09-20）
+ 'good': ['be good at', 'be good for', 'do good', 'for good',
+          'for the good of', 'as good as', 'make good', 'good for you',
+          'in good time', 'a good deal of', 'too good to be true',
+          'so far so good', 'as good as gold', 'good riddance',
+          'good grief', 'it is a good job', 'what is the good of',
+          'good morning', 'good day', 'good evening',
+          'good-looking', 'good looks', 'good-natured', 'good nature',
+          'good-humoured', 'good humour', 'good-tempered', 'good-hearted',
+          'good-for-nothing', 'good sense', 'good name',
+          'a good fairy', 'a good old boy'],
  # go- 段 —— 核心词 go 动笔前先列清单（2026-09-20）
  'go': ['go about', 'go after', 'go against', 'go ahead', 'go along',
         'go along with', 'go around', 'go around with', 'go at', 'go away',

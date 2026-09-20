@@ -1,17 +1,3 @@
-Glaswegian
-核心：名词与形容词，格拉斯哥的、格拉斯哥人，大写。
-构词不规则：Glasgow 变成 Glaswegian，跟 Norway 变 Norwegian 是同一路做法。
-也用来说那里的口音与那一路幽默。
-① A Glaswegian accent is the one people most often ask you to repeat.
-= 格拉斯哥口音，是最容易被人要求再说一遍的那种。
-a Glaswegian accent = 格拉斯哥口音
-② Two Glaswegians on that crew had never met before the job started.
-= 船上那两个格拉斯哥人，开工之前从没见过面。
-a Glaswegian = 格拉斯哥人
-③ Glaswegian humour is fast and takes no prisoners.
-= 格拉斯哥式的幽默又快又不留情面。
-Glaswegian humour = 格拉斯哥式幽默
-
 glaucoma
 核心：名词（医学），青光眼 —— 眼压升高损伤视神经，视野从外围一圈圈往里缩。
 不可数。要紧的一点是它早期几乎没有感觉，所以查眼压才有意义。
@@ -426,3 +412,17 @@ Two years of globetrotting left her with no fixed address at all.
 ⑦ A globe artichoke takes twenty minutes to cook and about two to eat.
 = 一颗洋蓟要煮二十分钟，吃只要两分钟左右。
 a globe artichoke = 洋蓟
+
+glocal
+核心：形容词，全球本地化的 —— global 与 local 拼出来的词，说的是
+「按全球的标准做，照本地的口味调」。名词 glocalization 并入本条。
+多见于营销与管理写作，日常英语里几乎不用，写的时候要估量读者认不认得。
+① A glocal strategy keeps one brand name and changes everything else.
+= 全球本地化的策略保住一个品牌名，其余全改。
+a glocal strategy = 全球本地化策略
+② Their glocal approach means the menu differs in every country.
+= 他们那套全球本地化的做法，意味着各国菜单都不一样。
+a glocal approach = 全球本地化的做法
+③ Glocalization explains why the same chain feels different in two cities.
+= 全球本地化解释了同一家连锁店在两座城市为什么感觉不同。
+glocalization = 全球本地化
