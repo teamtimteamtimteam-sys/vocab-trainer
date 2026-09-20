@@ -9,30 +9,30 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-20，第八轮）═══
-B 词表 10318 条，词典序 a → gong。A 表 3002 条。
+═══ 现状（2026-09-20，第九轮）═══
+B 词表 10344 条，词典序 a → gopher。A 表 3002 条。
   a–f 段 97% 以上；**g 段 ga 99% / ge 99% / gh 100% / gi 99% / gl 99% /
-  gm 空 / gn 100%**；**go 段在写：134/306（43%）**。
-  **核心词 go 已写完，一条 56 个义项**，带走 53 个短语动词与习语。
-  **下一批从 gonna 起**：gonorrhoea、goo、goober、**good（又一个核心词，
-  按规矩独占一批 —— 待推迟名单里挂着 good humour / good-looking /
-  good name / good-natured / good sense / good-tempered / good-for-nothing
-  等二十来条，写完 good 就该当场并掉）**、goodbye、goods、goodwill、goof、
-  google、goose、gore、gorge、gorgeous、gorilla、gospel、gossip、goth、
-  Gothic、gouge、gourmet、gout、govern、government、governor、gown 一带。
-  **写 good 之前先把它的习语清单补进 audit-idioms 的 CHECK**（as good as、
-  good for you、make good、for good、in good time、a good deal of…）。
-  进段已剔 9 条进 exclude.txt：gobar / gogga / goonda / gora / gosht /
-  godown（国别变体）、goodo / goog（澳新）、govt（缩写，同 cwt 与 gm）。
-  这一轮记下的两件事：
-    · **audit-padding 的【例句里没有词】只管带编号的义项** ——
-      godfather 条里讲 godson / godchild 的两个义项因此被拦。
-      改法不是删内容，是把它们改挂成扩展块（等式＋例句＋译文），
-      教学内容一点不少，词头也不再缺席。
-    · **「注意别混」点名的词必须已经写了或同批写** —— golly 提了 golliwog，
-      audit-swallowed 当场报。这跟 HANDOFF 第四节第六条是同一条规矩。
+  gm 空 / gn 100%**；**go 段在写：197/306（64%）**。
+  **两个核心词都写完了**：go 一条 56 个义项、good 一条 35 个义项，
+  各自带走几十条短语动词与复合词。
+  **下一批从 gore 起**：gorge、gorgeous、gorgon、Gorgonzola、gorilla、
+  gormless、gorp、gorse、gory、gosh、goshawk、gosling、gospel、gossamer、
+  gossip、goth、Gothic、gouache、Gouda、gouge、goujons、goulash、gourd、
+  gourmand、gourmet、gout、**govern 一族（governance / governess / governing /
+  government / governmental / governor / governor general，还有待推迟的
+  government health warning）**、gown、gowned、goy。
+  写 gossip 与 govern 之前照例把习语补进 audit-idioms 的 CHECK。
+  这一轮记下的三件事：
+    · **audit-derived 会把「比较级／最高级」查到核心词头上**：写完 good，
+      它当场报 better 与 best 该并进去。逐条看过属真例外（两者另有动词、
+      名词与 well 的比较级用法），登记进 derived-keep.txt。
+    · **它也会被词条里的「副词」二字骗到**：goodly 是形容词（a goodly sum），
+      词条里写着「它不是 good 的副词」，反倒被当成副词条报了出来。
+      同样登记进 derived-keep 并写明缘由。
+    · **冒犯语按语域标注的规矩收，不剔**（gook、goolie、golliwog、gobshite）：
+      词条里写明「认得即可，别拿来用」，并给出不冒犯的那一支义项（如果有）。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10318
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10344
   新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
   check-merged 每批都逐条核过。push 照旧等用户开口。
 
