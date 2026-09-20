@@ -1,29 +1,3 @@
-gasman
-核心：三支。一是查表、修燃气的工人：wait for the gasman；
-二是燃气公司上门的人；三是（复数）这一行的工人。
-① They waited for the gasman between eight and one and he came at four.
-= 他们八点到一点之间等燃气工，他四点才来。
-wait for the gasman = 等燃气工
-② The gasman read the meter and left a card under the door.
-= 燃气工抄了表，从门下塞了张卡片。
-the gasman reads the meter = 燃气工抄表
-③ Two gasmen dug up the pavement and left it for a fortnight.
-= 两个燃气工把人行道挖开，晾了两周。
-gasmen = 燃气工
-
-gasohol
-核心：三支。一是乙醇汽油，汽油与酒精的混合燃料；
-二是加油站里那个标号；三是相关政策里说的那种燃料。
-① Gasohol burns cleaner and gives slightly fewer miles to the gallon.
-= 乙醇汽油烧得更干净，每加仑跑的里程略少。
-gasohol = 乙醇汽油
-② The pump sells gasohol and the label explains nothing.
-= 那个加油泵卖的是乙醇汽油，标签什么也没说明。
-sell gasohol = 卖乙醇汽油
-③ Gasohol was mandated in one state and quietly dropped in another.
-= 一个州强制使用乙醇汽油，另一个州悄悄取消了。
-mandate gasohol = 强制使用乙醇汽油
-
 gasoline
 核心：三支（美）。一是汽油：a gallon of gasoline；
 二是加油站卖的那种燃料；三是（比喻）火上浇油的东西。
@@ -332,3 +306,49 @@ a gatepost = 门柱
 ③ She leaves the milk money on the gatepost every Friday.
 = 她每周五把牛奶钱放在门柱上。
 on the gatepost = 在门柱上
+
+gateway
+核心：三支。一是大门、门道：a stone gateway；
+二是（通往某处的）门户：a gateway to something；三是（计算机）网关。
+① A stone gateway is all that is left of the wall around that town.
+= 那座城墙如今只剩一道石门。
+a stone gateway = 石砌大门
+② The port calls itself a gateway to the north and the trains say otherwise.
+= 那个港口自称通往北方的门户，火车班次却不这么说。
+a gateway to something = 通往某处的门户
+③ The gateway drops the connection twice a day at the same times.
+= 那个网关每天在同样的时间掉线两次。
+a gateway = 网关
+
+gather
+核心：四支。一是聚集、集合：a crowd gathers；二是收集、采集：gather information；
+三是渐渐增加：gather speed；四是（衣料）打褶。
+习语 gather dust 是搁着积灰。
+① A crowd gathers whenever anybody opens that cupboard.
+= 只要有人打开那个柜子，就会围上一群人。
+a crowd gathers = 聚起一群人
+② She gathered information for two years before she wrote a line.
+= 她搜集了两年资料，一行字都没写。
+gather information = 搜集资料
+③ The train gathers speed slowly and arrives on time anyway.
+= 那趟车加速很慢，照样准点到。
+gather speed = 逐渐加速
+④ The machine has been gathering dust since the person who used it left.
+= 自从会用它的人走了，那台机器就一直搁着积灰。
+gather dust = 搁着积灰
+gatherer = 采集者、搜集的人
+The gatherer of that collection never wrote down where anything came from.
+= 那批藏品的搜集者，从没记下过任何一件的来处。
+
+gathering
+核心：三支。一是聚会、集会：a family gathering；
+二是采集、收集这件事；三是（书籍装订的）一叠折页。
+① A family gathering that size needs two rooms and one referee.
+= 那么大的家庭聚会，要两间屋子加一个调解人。
+a family gathering = 家庭聚会
+② The gathering of that data took nine people a whole summer.
+= 收集那批数据，九个人干了一整个夏天。
+the gathering of something = 某物的收集
+③ Each gathering is sewn separately and then the book is bound.
+= 每一叠折页单独缝好，再装订成书。
+a gathering = 一叠折页

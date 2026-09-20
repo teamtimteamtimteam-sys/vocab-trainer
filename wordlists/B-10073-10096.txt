@@ -1,68 +1,3 @@
-geochemical
-核心：地球化学的：跟岩石、土壤、水里的化学成分及其变化有关。
-只作定语；名词是 geochemistry，做这一行的人是 geochemist。
-① The geochemical survey took four summers and one very wet autumn.
-= 那次地球化学勘查做了四个夏天，外加一个极湿的秋天。
-a geochemical survey = 地球化学勘查
-② Geochemical evidence puts that eruption two centuries before the written record.
-= 地球化学证据把那次喷发定在文字记载之前两百年。
-geochemical evidence = 地球化学证据
-③ A geochemical anomaly in one stream sent the whole team upriver.
-= 一条溪流里的地球化学异常，把整个队伍引向了上游。
-a geochemical anomaly = 地球化学异常
-
-geochemistry
-核心：三支。一是地球化学这门学科；二是（某地的）地质化学构成；
-三是（勘探里）做化学取样这项工作。
-① Geochemistry explains why two fields a mile apart grow different crops.
-= 地球化学解释了为什么相隔一英里的两块地长不同的庄稼。
-geochemistry = 地球化学
-② The geochemistry of that valley is why the water tastes of iron.
-= 那条山谷的地质化学构成，正是水有铁腥味的原因。
-the geochemistry of a place = 某地的地质化学构成
-③ Geochemistry came back clean and the drilling went ahead.
-= 地球化学取样结果干净，钻探就开工了。
-geochemistry = 地化取样
-
-geode
-核心：晶洞：外表平平无奇的一块圆石，敲开里头是一腔结晶。可数。
-买卖时论「未开的」与「已开的」，开过的叫 a cut geode。
-① The geode looked like a potato until somebody put a saw through it.
-= 那块晶洞看着像个土豆，直到有人拿锯把它剖开。
-a geode = 晶洞
-② Cut geodes sell by the pair because the two halves match.
-= 剖开的晶洞成对卖，因为两半正好对得上。
-a cut geode = 剖开的晶洞
-③ Every geode in that shop came out of one hillside in Brazil.
-= 那家店里的每一块晶洞，都出自巴西的同一面山坡。
-come out of a hillside = 出自某面山坡
-
-geodesic
-核心：两支。一是（数学）测地线的：曲面上两点间最短的那条路径；
-二是（建筑）测地线穹顶的：用三角形网格拼成的球面结构。只作定语。
-① A geodesic line on a globe looks bent on a flat map and is not.
-= 测地线画在地球仪上，摊成平面地图就看着弯了，其实并不弯。
-a geodesic line = 测地线
-② The geodesic frame went up in a weekend and has stood for forty years.
-= 那座测地线骨架一个周末就搭起来，立了四十年。
-a geodesic frame = 测地线骨架
-③ Geodesic structures use less material and are impossible to furnish.
-= 测地线结构用料少，家具却没法摆。
-a geodesic structure = 测地线结构
-④ A geodesic dome went up in the park and the children found the one weak strut.
-= 公园里搭起一座测地线穹顶，孩子们找出了唯一那根不结实的杆。
-a geodesic dome = 测地线穹顶
-
-geofence
-核心：地理围栏：在地图上画出的一圈虚拟边界，
-设备一进一出就触发提醒或限制。可数，也作动词。
-① The geofence round the depot logs every lorry that crosses it.
-= 车场周围那道地理围栏，把每辆越线的货车都记下来。
-a geofence = 地理围栏
-② They geofenced the whole campus and the scooters stop at the gate.
-= 他们给整个校园设了地理围栏，滑板车到大门就停。
-geofence a place = 给某处设地理围栏
-
 geofencing
 核心：地理围栏技术：靠定位判断设备在不在某个划定区域内，
 用来投广告、限速、发提醒。不可数。
@@ -296,3 +231,52 @@ a Geordie = 泰恩赛德人
 = 她的泰恩赛德口音到伦敦软了下来，一回家又原样回来。
 a Geordie accent = 泰恩赛德口音
 注意语域：全英国都用这个词，不是只在当地说的。
+
+georgette
+核心：乔其纱：轻薄有绉感、略透明的丝织或化纤衣料，垂坠好。不可数。
+名字取自一位法国女装裁缝。
+① Georgette hangs beautifully and shows every pin you ever put in it.
+= 乔其纱垂感极好，也把你别过的每一根针都显出来。
+georgette = 乔其纱
+② The sleeves are cut from georgette and weigh almost nothing.
+= 那副袖子是用乔其纱裁的，几乎没有重量。
+be cut from georgette = 用乔其纱裁成
+
+geoscience
+核心：地球科学：地质、地球物理、气象、海洋这一大片学科的统称。
+不可数为主，说分支时可数。
+① Geoscience gets the funding when somebody finds something under the ground.
+= 一有人在地底下发现点什么，地球科学就拿得到钱。
+geoscience = 地球科学
+② The department teaches four geosciences and calls itself one thing.
+= 那个系教四门地球科学，对外只用一个名字。
+geosciences = 地球科学各分支
+
+geospatial
+核心：地理空间的：跟带位置坐标的数据及其分析有关。只作定语。
+① Geospatial data showed the flood reaching houses the model had missed.
+= 地理空间数据显示洪水淹到了模型漏掉的那些房子。
+geospatial data = 地理空间数据
+② A geospatial analysis of the bus routes took one afternoon and changed three.
+= 对公交线路做的一次地理空间分析，花了一个下午，改了三条线。
+a geospatial analysis = 地理空间分析
+
+geostationary
+核心：地球同步静止的：卫星轨道周期跟地球自转一致，
+从地面看它始终悬在同一点上空。只作定语。
+① A geostationary satellite sits over the equator and never appears to move.
+= 地球同步卫星悬在赤道上空，看上去从不移动。
+a geostationary satellite = 地球同步卫星
+② Geostationary orbit is crowded and a slot there is worth a fortune.
+= 地球同步轨道很挤，上头一个位置值一大笔钱。
+geostationary orbit = 地球同步轨道
+
+geotag
+核心：地理标签：附在照片或帖子上的坐标信息，标明它是在哪儿拍的、发的。
+可数，也作动词，过去式 geotagged。
+① The geotag on that photograph gave away a house nobody was meant to find.
+= 那张照片上的地理标签，泄露了一栋本不该被找到的房子。
+a geotag = 地理标签
+② She geotags nothing and posts everything two weeks late.
+= 她什么都不打地理标签，什么都晚两周才发。
+geotag something = 给某物打地理标签

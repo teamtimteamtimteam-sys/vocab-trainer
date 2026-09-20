@@ -1,49 +1,3 @@
-gateway
-核心：三支。一是大门、门道：a stone gateway；
-二是（通往某处的）门户：a gateway to something；三是（计算机）网关。
-① A stone gateway is all that is left of the wall around that town.
-= 那座城墙如今只剩一道石门。
-a stone gateway = 石砌大门
-② The port calls itself a gateway to the north and the trains say otherwise.
-= 那个港口自称通往北方的门户，火车班次却不这么说。
-a gateway to something = 通往某处的门户
-③ The gateway drops the connection twice a day at the same times.
-= 那个网关每天在同样的时间掉线两次。
-a gateway = 网关
-
-gather
-核心：四支。一是聚集、集合：a crowd gathers；二是收集、采集：gather information；
-三是渐渐增加：gather speed；四是（衣料）打褶。
-习语 gather dust 是搁着积灰。
-① A crowd gathers whenever anybody opens that cupboard.
-= 只要有人打开那个柜子，就会围上一群人。
-a crowd gathers = 聚起一群人
-② She gathered information for two years before she wrote a line.
-= 她搜集了两年资料，一行字都没写。
-gather information = 搜集资料
-③ The train gathers speed slowly and arrives on time anyway.
-= 那趟车加速很慢，照样准点到。
-gather speed = 逐渐加速
-④ The machine has been gathering dust since the person who used it left.
-= 自从会用它的人走了，那台机器就一直搁着积灰。
-gather dust = 搁着积灰
-gatherer = 采集者、搜集的人
-The gatherer of that collection never wrote down where anything came from.
-= 那批藏品的搜集者，从没记下过任何一件的来处。
-
-gathering
-核心：三支。一是聚会、集会：a family gathering；
-二是采集、收集这件事；三是（书籍装订的）一叠折页。
-① A family gathering that size needs two rooms and one referee.
-= 那么大的家庭聚会，要两间屋子加一个调解人。
-a family gathering = 家庭聚会
-② The gathering of that data took nine people a whole summer.
-= 收集那批数据，九个人干了一整个夏天。
-the gathering of something = 某物的收集
-③ Each gathering is sewn separately and then the book is bound.
-= 每一叠折页单独缝好，再装订成书。
-a gathering = 一叠折页
-
 gator
 核心：三支（美，非正式）。一是短吻鳄，alligator 的简称；
 二是佛罗里达一带对这种鳄的叫法；三是（引申）沼泽地里那份危险。
@@ -346,3 +300,55 @@ put up a gazebo = 搭起凉亭
 ③ The gazebo blocks the view it was built to frame.
 = 那座亭子挡住了它本该框起来的景。
 a gazebo = 观景亭
+
+gazelle
+核心：三支。一是瞪羚，跑得极快的小羚羊；二是（比喻）身形轻捷的人；
+三是（复数）草原上那一群。
+① A gazelle changes direction faster than anything chasing it.
+= 瞪羚变向比追它的任何东西都快。
+a gazelle = 瞪羚
+② She moves like a gazelle and takes the stairs three at a time.
+= 她身手轻捷，上楼一步跨三级。
+move like a gazelle = 身手轻捷
+③ Two hundred gazelles crossed that plain in one morning.
+= 两百只瞪羚一个上午就穿过了那片平原。
+gazelles = 瞪羚群
+
+gazette
+核心：三支。一是政府公报：the official gazette；
+二是（报名里的）报：the evening gazette；三是动词，在公报上刊登任命。
+① The official gazette carries every appointment and nobody reads it.
+= 政府公报刊登所有任命，没人读。
+the official gazette = 政府公报
+② The evening gazette folded and its archive went to the library.
+= 那家晚报停刊了，档案交给了图书馆。
+a gazette = 报纸
+③ He was gazetted in March and took up the post in September.
+= 他三月在公报上获任命，九月才到任。
+be gazetted = 在公报上获任命
+
+gazetteer
+核心：三支。一是地名词典、地名索引；二是地图册后面那份索引；
+三是（旧）报道地方消息的人。
+① A gazetteer at the back of that atlas runs to ninety pages.
+= 那本地图册后面的地名索引有九十页。
+a gazetteer = 地名索引
+② The gazetteer gives the population of every place in 1901.
+= 那部地名词典给出每个地方 1901 年的人口。
+a gazetteer = 地名词典
+③ Two villages are missing from the gazetteer and both still exist.
+= 地名索引里漏了两个村子，两个都还在。
+be missing from the gazetteer = 未列入地名索引
+
+gazillion
+核心：三支（非正式，夸张）。一是无数、多得数不清：a gazillion things；
+二是形容词性，海量的；三是用来替代具体数字的说法。
+① There are a gazillion things to do before Friday and one that matters.
+= 周五前有数不清的事要做，真要紧的只有一件。
+a gazillion things = 数不清的事
+② He has a gazillion photographs and cannot find the one he wants.
+= 他有海量照片，偏找不到想要的那张。
+a gazillion = 海量
+③ It costs a gazillion pounds and the council approved it anyway.
+= 那东西贵得没边，议会还是批了。
+a gazillion pounds = 贵得没边的一笔钱

@@ -1,72 +1,3 @@
-generate
-核心：三支。一是产生、引起（兴趣、收入、热量）：generate interest；
-二是发电：generate electricity；三是（计算机）生成。
-① The advertisement generated interest from people who could not afford it.
-= 那则广告引来的兴趣，来自买不起的人。
-generate interest = 引起兴趣
-② The turbine generates electricity for about nine hundred houses.
-= 那台涡轮机发的电，够九百来户人家用。
-generate electricity = 发电
-③ The program generates a report nobody has ever read to the end.
-= 那个程序生成的报告，没人从头看到尾过。
-generate a report = 生成报告
-
-generation
-核心：四支。一是一代人：the younger generation；
-二是（技术的）代：a third generation machine；
-三是（产生的）过程：the generation of heat；四是从一代传到下一代。
-① The younger generation in that village has three people in it.
-= 那个村子里的年轻一代，一共三个人。
-the younger generation = 年轻一代
-② A third generation machine does the same work and takes half the space.
-= 第三代机器干同样的活，占一半地方。
-a third generation machine = 第三代机器
-③ The generation of heat in that box is the whole problem.
-= 那个箱子里发热，就是全部的毛病所在。
-the generation of heat = 热的产生
-④ The recipe went from generation to generation and lost an ingredient each time.
-= 那个方子一代代传下来，每传一次少一样料。
-from generation to generation = 一代代地
-
-generational
-核心：三支。一是代际的、一代人的：a generational divide；
-二是（变化）需要一代人时间的；三是（差异）出于年龄层的。
-① A generational divide in that office runs along who answers the phone.
-= 那间办公室的代际差异，划在谁接电话上。
-a generational divide = 代际分歧
-② Rebuilding the trade is a generational job and the budget is annual.
-= 重振这个行当是一代人的事，预算却是一年一定。
-a generational job = 一代人的工程
-③ The difference is generational and both sides call it a difference of principle.
-= 那种分歧其实是代际的，双方都说是原则之争。
-be generational = 属于代际差异
-
-generative
-核心：三支。一是能生成的、有生成力的：a generative process；
-二是（语言学）生成的：generative grammar；三是（技术）生成式的。
-① A generative process makes more of itself out of what it has already made.
-= 生成性的过程，会拿已经做出的东西再造出更多。
-a generative process = 生成性的过程
-② Generative grammar asks what a speaker could say and not what they did say.
-= 生成语法问的是说话人可能说什么，而不是实际说了什么。
-generative grammar = 生成语法
-③ The generative model writes four drafts and none of them is checked.
-= 那个生成模型写了四稿，一稿都没核对过。
-a generative model = 生成式模型
-
-generator
-核心：三支。一是发电机：a diesel generator；
-二是（产生某物的）发生器、来源；三是（软件）生成器。
-① A diesel generator runs the whole building for eleven hours a year.
-= 一台柴油发电机，一年撑起整栋楼十一个小时。
-a diesel generator = 柴油发电机
-② That department is the main generator of complaints and of revenue.
-= 那个部门既是投诉的主要来源，也是收入的主要来源。
-a generator of something = 某物的来源
-③ The generator produces a new key every ninety seconds.
-= 那个生成器每九十秒产生一个新密钥。
-a generator = 生成器
-
 generic
 核心：三支。一是一类事物共有的、通用的：a generic term；
 二是（药）非专利的：a generic drug；三是（贬）没有特色的。副词 generically 并入本条。
@@ -338,3 +269,72 @@ a genomics company = 基因组学公司
 ③ Clinical genomics decides the dose before the first tablet is taken.
 = 临床基因组学在吃第一片药之前就定好剂量。
 clinical genomics = 临床基因组学
+
+genotype
+核心：三支（生物学）。一是基因型，个体携带的那套基因；
+二是与表型相对的那一面；三是（育种、流行病学里）某一基因型的群体。
+① The genotype is fixed at conception and the rest is weather and food.
+= 基因型在受精那一刻就定了，其余的靠天候和吃食。
+a genotype = 基因型
+② Two plants share a genotype and grow to different heights in one field.
+= 两株植物基因型相同，在同一块地里却长得一高一矮。
+share a genotype = 基因型相同
+③ One genotype of that virus spread and the other four did not.
+= 那种病毒有一个基因型传开了，另外四个没有。
+a genotype of a virus = 病毒的一种基因型
+
+genre
+核心：三支。一是（文艺作品的）类型、体裁：a literary genre；
+二是（电影、音乐的）门类；三是（绘画）风俗画这一类。
+① A literary genre is a shelf in a shop before it is anything else.
+= 文学体裁，首先是书店里的一个货架。
+a literary genre = 文学体裁
+② She writes in one genre and reads in four others.
+= 她只写一种类型，读的却有另外四种。
+write in a genre = 写某一类型
+③ Genre painting shows people doing ordinary things badly lit.
+= 风俗画画的是普通人做普通事，光线还很差。
+genre painting = 风俗画
+
+gent
+核心：三支（英，非正式）。一是先生、男子：an elderly gent；
+二是（复数 the gents）男厕；三是（旧）有绅士派头的人。
+① An elderly gent held the door and waited for nine people.
+= 一位上了年纪的先生扶着门，等了九个人。
+an elderly gent = 上了年纪的先生
+② The gents is down the stairs and the sign points the other way.
+= 男厕在楼下，牌子却指着相反的方向。
+the gents = 男厕
+③ He is a proper gent about money and impossible about everything else.
+= 他在钱上很有绅士风度，别的事上一点不好说话。
+a proper gent = 有绅士风度的人
+
+genteel
+核心：三支。一是（举止）文雅讲究的：a genteel manner；
+二是（贬）故作上流的；三是（境况）勉力维持体面的。副词 genteelly 并入本条。
+① A genteel manner in that shop is part of what the price buys.
+= 那家店里文雅的待客，也算在价钱里。
+a genteel manner = 文雅的做派
+② The tea room is genteel in a way that stopped being fashionable in 1955.
+= 那间茶室的讲究派头，1955 年之后就不时兴了。
+be genteel = 故作讲究
+③ They live in genteel poverty and the front room is still kept for visitors.
+= 他们过着体面的清贫日子，前厅还是留着待客。
+genteel poverty = 体面的清贫
+副词 genteelly：文雅地。
+④ She genteelly refused a third helping and took it home in a box.
+= 她文雅地谢绝了第三份，又装盒带回了家。
+genteelly refuse something = 文雅地谢绝
+
+gentian
+核心：三支。一是龙胆，高山上蓝色的小花；二是它那种极蓝的颜色；
+三是（药用）龙胆根做的苦味剂。
+① A gentian opens at that altitude for about three weeks.
+= 在那个海拔，龙胆花开大约三周。
+a gentian = 龙胆
+② The sky went gentian for ten minutes and then grey again.
+= 天空蓝了十分钟，又变回灰色。
+gentian blue = 龙胆蓝
+③ Gentian root makes a bitter that four drinks in that bar depend on.
+= 龙胆根做的苦精，撑起了那家酒吧的四款酒。
+gentian root = 龙胆根
