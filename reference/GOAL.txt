@@ -13,20 +13,21 @@ B 10000
 B 词表 10430 条，词典序 a → grapevine。A 表 3002 条。
   a–f 段 97% 以上；**g 段：ga 99% / ge 99% / gh 100% / gi 99% / gl 99% /
   gm 空 / gn 100% / go 99%**；**gr 段在写：95/473（20%）**。
-  **gr 是 g 里最大的一段（清单 473 条）**，下一批从 green 起：
-  green（大词，绿色一族与环保义、green light / green fingers 都在那里）、
-  greenback / greenery / greenfield / greenfly / greengage / greengrocer /
-  greenhorn / greenhouse / greening / greenish / greenkeeper / greensward /
-  greenwash / Greenwich、greet / greeter / greeting、gregarious、gremlin、
-  grenade / grenadier / grenadine、grew、Grexit、grey 一族（与已写的 gray 互指）、
-  grid / griddle / gridiron / gridlock、grief / grievance / grieve / grievous、
-  griffin 与 gryphon（同词异拼，各立一条）、grill / grille、grim / grimace /
-  grime / grimy、grin、**grind**、**grip** / gripe、grisly / grist / gristle、
-  grit / grits、grizzle / grizzled、groan / groat / grocer / grog / groin /
-  grok / grommet、groom / groove / grope、gross / grotesque / grotto / grotty、
-  grouch、**ground**（大词）、**group**（大词）、groupie / grouse / grout /
-  grove / grovel、**grow**（大词）/ growl / grown / growth、grub / grudge /
-  gruel / gruesome / gruff / grumble / grump / grunge / grunt / gruyere 一带。
+  **gr 是 g 里最大的一段（清单 473 条）**，**已收 252 条（53%）**，
+  下一批从 grizzle 起：grizzle / grizzled、groan / groat / grocer / grocery /
+  grog / groggy / groin / grok / grommet、groom / groomed / grooming /
+  groomsman、groove / grooved / groovy、grope、gross / grossly / grossness、
+  grot / grotesque / grotto / grotty、grouch / grouchy、**ground（大词：
+  地面、理由、场地、grind 的过去式，外加 break new ground / get off the ground /
+  stand your ground / common ground 一族习语）**、groundbreaking / grounded /
+  grounder / groundhog / grounding / groundless / groundnut / groundsel /
+  groundsheet / groundskeeper / groundsman / groundstroke / groundswell /
+  groundwater / groundwork、**group（大词）**/ groupie / grouping /
+  groupthink / groupware、grouse / grout / grove / grovel、**grow（大词，
+  grew 已进 inflections.txt，内容要写在这里）**/ growbag / grower / growing /
+  growl / grown / growth、groyne、grrr、grub / grubby、grudge / grudging、
+  gruel / gruelling、gruesome、gruff、grumble / grump / grumpy、
+  grunge / grungy、grunt、gruyere 一带。
   **great / green / ground / group / grow / grind / grip 这七个是大词**，
   习语清单动笔前已经补进 audit-idioms 的 CHECK（十七组）。
   audit-padding 的强变化表查过了：grow→grew/grown、grind→ground 都认得，
