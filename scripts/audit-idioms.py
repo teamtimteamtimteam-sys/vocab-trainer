@@ -53,7 +53,7 @@ CHECK = {
  'happy': ['many happy returns', 'happy hour'],
  'hard': ['hard and fast', 'hard up', 'hard done by', 'no hard feelings'],
  'hat': ['at the drop of a hat', 'take your hat off to somebody',
-         'keep something under your hat', 'old hat'],
+         'keep something under your hat', 'old hat', 'as mad as a hatter'],
  # gu- 与 gy- 段 —— 动笔前先列清单（2026-09-20）
  'guard': ['catch somebody off guard', 'be on your guard', 'stand guard',
            'let your guard down'],
@@ -715,6 +715,10 @@ CHECK = {
          'hay fever'],
  'haystack': ['a needle in a haystack'],
  'haywire': ['go haywire'],
+ 'hazard': ['hazard a guess', 'a fire hazard', 'a health hazard',
+            'hazard lights', 'hazard pay'],
+ 'haze': ['in a haze'],
+ 'hazy': ['be hazy about'],
 }
 
 def main():

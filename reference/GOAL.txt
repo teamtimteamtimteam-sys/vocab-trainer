@@ -9,31 +9,45 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-20，第十七轮）═══
-B 词表 10676 条，词典序 a → hale。A 表 3002 条。
+═══ 现状（2026-09-21，第十八轮）═══
+B 词表 10781 条、义项 39027 条，词典序 a → hazy。A 表 3002 条。
   **a–g 七个字母都收完了**（各段 97% 以上，余下全是待推迟）。
-  **h 字母开工：清单 2061 条，比 g 还大**；目前 ha 段 87/577（15%）。
-  双字母段的规模：ha 577 / he 414 / hi 242 / ho 508 / hu 约 200 /
+  **h 字母在写：清单 2061 条。ha 段 359/576（62%），字母序已推到段尾 hazy**，
+  余下 217 条是段中段的零头，不再按字母顺序，改成按类清。
+  双字母段的规模：ha 576 / he 414 / hi 242 / ho 508 / hu 约 200 /
   hy 约 90，另有 hg / hl / hm / hp 几条零头。
-  **进段四件事已做完**：pull-pending（空）、**H 段大写词头登记 46 条进
-  proper-nouns-keep**、ha 段习语清单补进 CHECK（十组）、
-  剔 4 条进 exclude.txt（haar / haat / halwa / handphone）。
-  audit-padding 的强变化表查过：have / hold / hear / hang / hide 都认得。
-  **ha 段 276/577（47%），下一批从 hasp 起**：hasp / hassle / hassock /
-  haste / hasten / hasty、**hat（大词：at the drop of a hat、old hat、
-  take your hat off to somebody、keep something under your hat）**、
-  hatch / hatchback / hatchery / hatchet / hate / hateful / hatred /
-  haughty / haul / haulage / haulier / haunch / haunt / haunted / haunting /
-  hauteur、**have（核心词，独占一批 —— 助动词、实义动词、have to、
-  have got、have something done、have it out with 一大套）**、
-  haven / haversack / havoc / hawk / hawker / hawthorn / hay / hay fever /
-  haystack / haywire / hazard / hazardous / haze / hazel / hazy 一带。
-  h 里的大词一路密集：**have 与 hold 按核心词规矩各占一批**，
-  head / heart / high / home / house 也要按大词的规格写。
+  本轮写了三批：**核心词 have 独占一批（46 个义项）**；
+  hav- / haw- / hay- 十七条一段到底（haven 到 haywire）；
+  haz- 七条（hazard / hazardous / haze / hazel / hazelnut / hazing / hazy）
+  外加四条并入（hatband·hatpin·hatter→hat，hatchling·hatchway→hatch，
+  hater·hatred→hate，hauntingly→haunt）。
+  **下一批（ha 段扫尾，按类清，不再按字母序）**：
+   1 大写专名 10 条：Hades / Hadith / Hakka / Hansard / Hanukkah /
+     Hasid / Hasidic / Hasidism / Hausa（都已在 proper-nouns-keep 名单内）；
+   2 hard- 与 half- 两族待并入（各三四十条，写进 hard / half 条里，
+     单数词头＋等式左边单数，复数句降成补充例句 —— HANDOFF 六之 1b）；
+   3 hand / hang / hammer / hair / happy 几族待并入；
+   4 剩下的散条：harbinger / harlot / harpy / harrier / happenstance /
+     haptic / haploid / hara-kiri / haram / harmonium / harum-scarum /
+     haruspex / harvestman / hassium / handsomeness / hardness / hardening 等。
+  之后是 he 段（414 条），大词一路密集：head / hear / heart / heavy /
+  help / high / hit、**hold 按核心词规矩独占一批**、home / hope / hot / house。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10542
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10781
   新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
   check-merged 每批都逐条核过。push 照旧等用户开口。
+
+═══ 本轮新记下的教训 ═══
+· **coverage 认不出派生词时，先想「前四字母对不上」这一条**：
+  has / had 对 have、hatred 对 hate、hazily 对 hazy、havala 对 hawala ——
+  内容明明写在词根条里，却照样报缺。解法是往 reference/inflections.txt
+  里登一行（变形/派生 → 词根），不是给它们单开词条。
+· **写大词之前先补 audit-padding 的 STRONG 表**：have 是四字母词头，
+  可 has / had / hast / hath 一个都不像原形，不补表就全判成「例句里没有词」。
+  go 与 get 当初也是这么补的。
+· audit-padding 的「重复义项」还是老毛病：hayloft ①② 与 haystack ①③
+  都是等式左边剥掉冠词后一模一样。**改等式写出区别，别动尺子**，
+  例句也要跟着改成对得上的形状（sleep in the hayloft、the haystack heated）。
 
 ═══ 眼下在做的另一件事：给拓展块补例句 ═══
 用户 2026-09-11 定：只补 B 表；辨析类（近义对照 / 注意别混 / 注意区别 /
