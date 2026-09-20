@@ -13,21 +13,14 @@ B 10000
 B 词表 10430 条，词典序 a → grapevine。A 表 3002 条。
   a–f 段 97% 以上；**g 段：ga 99% / ge 99% / gh 100% / gi 99% / gl 99% /
   gm 空 / gn 100% / go 99%**；**gr 段在写：95/473（20%）**。
-  **gr 是 g 里最大的一段（清单 473 条）**，**已收 252 条（53%）**，
-  下一批从 grizzle 起：grizzle / grizzled、groan / groat / grocer / grocery /
-  grog / groggy / groin / grok / grommet、groom / groomed / grooming /
-  groomsman、groove / grooved / groovy、grope、gross / grossly / grossness、
-  grot / grotesque / grotto / grotty、grouch / grouchy、**ground（大词：
-  地面、理由、场地、grind 的过去式，外加 break new ground / get off the ground /
-  stand your ground / common ground 一族习语）**、groundbreaking / grounded /
-  grounder / groundhog / grounding / groundless / groundnut / groundsel /
-  groundsheet / groundskeeper / groundsman / groundstroke / groundswell /
-  groundwater / groundwork、**group（大词）**/ groupie / grouping /
-  groupthink / groupware、grouse / grout / grove / grovel、**grow（大词，
-  grew 已进 inflections.txt，内容要写在这里）**/ growbag / grower / growing /
-  growl / grown / growth、groyne、grrr、grub / grubby、grudge / grudging、
-  gruel / gruelling、gruesome、gruff、grumble / grump / grumpy、
-  grunge / grungy、grunt、gruyere 一带。
+  **gr 是 g 里最大的一段（清单 473 条）**，**已收 320 条（67%）**，
+  下一批从 grrr 起，剩的都是小词与派生：grrr、grub / grubber / grubbiness /
+  grubby、grudge / grudging / grudgingly、gruel / gruelling、gruesome /
+  gruesomely、gruff / gruffly、grumble / grumbler / grumbling、
+  grump / grumpily / grumpy、grunge / grungy、grunt、gruyere，
+  以及前面段落里 coverage 仍报缺的零头（跑一遍 coverage gr 看清单）。
+  收完 gr 段，g 字母就只剩 gu- 与 gy- 两小段（guard / guess / guest / guide /
+  guilt / gulf / gun / gut / guy、gym / gypsy 一带）。
   **great / green / ground / group / grow / grind / grip 这七个是大词**，
   习语清单动笔前已经补进 audit-idioms 的 CHECK（十七组）。
   audit-padding 的强变化表查过了：grow→grew/grown、grind→ground 都认得，
