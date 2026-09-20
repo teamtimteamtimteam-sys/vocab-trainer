@@ -464,6 +464,9 @@ chanting = 吟诵
 a chanter = 风笛的旋律管
 构词：拉丁语 cantare 唱
 注意用法：球场与示威那一支最常读到。
+Gregorian chant = 格里高利圣咏
+Gregorian chant has one line of music and no bar lines at all.
+= 格里高利圣咏只有一条旋律线，连小节线都没有。
 
 chanterelle
 核心：鸡油菌：漏斗形、杏黄色的野蘑菇，带一点杏子香，

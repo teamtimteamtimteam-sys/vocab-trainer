@@ -191,6 +191,9 @@ adapter / adaptor 都可以，
 英式电器语境常写 adaptor。
 词族：
 adapt = 改编、适应
+a graphics adapter = 显卡、图形适配器
+The old graphics adapter cannot drive two screens at that resolution.
+= 那块老显卡带不动两块那种分辨率的屏。
 
 add
 核心：底层是"加上去"，加的是什么就分出哪一支。加数目是相加，

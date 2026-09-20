@@ -49,6 +49,10 @@ The recipe is written in grammes and the scales read in ounces.
 ③ Two hundred grams of flour makes eight small pancakes.
 = 两百克面粉，能做八张小薄饼。
 grams = 克（复数）
+gram flour = 鹰嘴豆粉
+Gram flour makes a batter that stays crisp for about a minute.
+= 鹰嘴豆粉调出来的面糊，脆劲大约能维持一分钟。
+这里的 gram 跟重量单位无关，来自印度语言里的「豆子」，同形而已。
 
 grammar
 核心：三支。一是语法，指一种语言的规则系统，不可数：English grammar；
@@ -152,6 +156,27 @@ grandly = 一本正经地、气派地
 grandness = 气派
 The grandness of that staircase makes the rest of the house look small.
 = 那道楼梯的气派，把房子其余部分衬得很小。
+⑩ The grand duke and the grand duchess ruled a grand duchy smaller than one city.
+= 大公与大公夫人治理的大公国，比一座城市还小。
+a grand duke = 大公
+a grand duchess = 大公夫人；女大公
+a grand duchy = 大公国
+⑪ Grand larceny and grand theft both start at a figure each state sets for itself.
+= 重窃罪与车辆重窃罪的起刑金额，各州自己定。
+grand larceny = 重窃罪（美式）
+grand theft = （车辆等）重窃罪（美式）
+⑫ A grand mal seizure lasts about two minutes and frightens everybody present.
+= 一次癫痫大发作持续约两分钟，在场的人都被吓到。
+grand mal = 癫痫大发作
+⑬ Grand opera needs a chorus, a full orchestra and somebody to die at the end.
+= 正歌剧要有合唱队、整支乐队，末了还得有人死。
+grand opera = 正歌剧
+⑭ He gave us the grand tour of the building and it took ten minutes.
+= 他带我们把那栋楼「全程参观」了一圈，一共十分钟。
+the grand tour = 全程参观；（旧）欧洲游学之旅
+⑮ A grand unified theory would join three of the four forces and leave gravity out.
+= 大统一理论把四种力里的三种合在一起，把引力撇在外面。
+a grand unified theory = 大统一理论
 
 grandchild
 核心：名词，孙辈 —— 儿女的孩子，复数不规则：grandchildren。
@@ -169,6 +194,9 @@ a granddaughter = 孙女、外孙女
 ④ The grandkids come for August and the house never quite recovers.
 = 孙辈们八月来住，那房子就再没完全缓过来。
 the grandkids = 孙辈们（口语）
+a grandkid = 孙辈（口语单数）
+One grandkid stays for August and the other two come at Christmas.
+= 一个孙辈八月来住，另外两个圣诞节才来。
 
 grandee
 核心：名词，大人物、权贵 —— 本指西班牙与葡萄牙最高一级的贵族，
@@ -220,6 +248,9 @@ grandpa = 爷爷、姥爷（口语）
 ⑤ That machine is the grandaddy of every model they have made since.
 = 那台机器，是他们后来所有型号的老祖宗。
 the grandaddy of something = 某物的老祖宗
+a grandfather clause = 不追溯既有情形的条款
+A grandfather clause let the existing signs stay and banned all new ones.
+= 一条不追溯的条款，让老招牌留着，新的一律禁止。
 
 grandiloquent
 核心：形容词（正式，贬），辞藻浮夸的 —— 说话写文章用大词、绕长句，
@@ -283,6 +314,9 @@ teach your grandmother to suck eggs = 班门弄斧
 ④ They played grandmother's footsteps in the hall until something broke.
 = 他们在门厅里玩「一二三木头人」，直到有东西被撞坏。
 grandmother's footsteps = 一二三木头人（儿童游戏）
+a grandmother clock = 座地小钟
+A grandmother clock is shorter than a grandfather clock and keeps worse time.
+= 座地小钟比落地摆钟矮一号，走时也更不准。
 
 grandparent
 核心：名词，祖父母、外祖父母中的一位 —— 男的是 grandfather，女的是 grandmother，
@@ -316,6 +350,9 @@ a grandstand view = 绝佳的视角
 ④ Grandstanding in a committee wastes everybody's afternoon.
 = 在委员会上哗众取宠，浪费的是所有人的下午。
 grandstanding = 哗众取宠的表演
+a grandstand finish = 最后关头的精彩冲刺
+A grandstand finish saved a race that had been dull for an hour.
+= 最后关头的精彩冲刺，救活了一场闷了一个钟头的比赛。
 
 grange
 核心：名词，两支。一是（英）乡间宅第 —— 带农庄的大房子，如今多半只剩在房名里：
@@ -397,6 +434,16 @@ take something for granted = 把某事当成理所当然
 ⑤ Granted, the price is high, and nothing else on that street compares.
 = 诚然，价钱是贵，可那条街上没有第二家比得上。
 granted = 诚然（让步语）
+A grant-aided theatre survives on grant aid and one good pantomime.
+= 一家受资助的剧院，靠拨款和一部叫座的圣诞童话剧活着。
+grant aid = 拨款资助
+grant-aided = 受拨款资助的
+a grant-in-aid = 专项补助金
+A grant-in-aid covers the roof and nothing that happens underneath it.
+= 专项补助金只管屋顶，屋顶底下的事一概不管。
+grant-maintained = （英，旧）由中央直接拨款自治的
+Grant-maintained schools answered to the government and not to the council.
+= 那类自治学校对中央负责，不归地方议会管。
 
 granular
 核心：两支。一是颗粒状的：a granular powder；二是（引申，近年用得很多）
