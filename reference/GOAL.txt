@@ -9,28 +9,30 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-20，第七轮）═══
-B 词表 10284 条，词典序 a → gnu。A 表 3002 条。
-  a–f 段都在 97% 以上；**g 段 ga 99% / ge 99% / gh 100% / gi 99% / gl 99% /
-  gm 空 / gn 100%**，剩下的全是待推迟。
-  **gm- 段按裁定为空**：清单里只有 gm 一条，是 gram 的缩写写法，
-  照 cwt 那条剔进 exclude.txt。**注意 audit-depth 对空段会报「没有匹配的
-  词条」并返回 1** —— 那不是质量问题，跑闸门时别把空段带上。
-  **下一批从 go- 段起，那是个大段：清单 315 条，其中 36 条待并入。**
-  动笔前必做两件事：
-    1. **go 是核心词，按规矩独占一批**（对照 get 那条 54 义项、give 那条 37 义项）。
-       短语动词一大把（go about / ahead / along with / around / at / away /
-       back / by / down / for / in / into / off / on / out / over / round /
-       through / under / up / without…），**动笔前先把清单补进 audit-idioms
-       的 CHECK**，写完一跑就知道漏没漏。
-    2. **go / went / gone 是三态不规则的三字母动词** —— 照 get 那次的教训，
-       先查 audit-padding 的强变化表里有没有 go→went、go→gone，
-       没有就先补，否则用 went 的例句会被判「例句里没有词」。
-  gn 段这一轮 12 条：gnashers 并进 gnash，gnawing / gnaw at / gnaw away at
-  并进 gnaw，Gnosticism 另立一条。这一段几乎每条词头的 g 都不发音，
-  核心块里都写了读音。
+═══ 现状（2026-09-20，第八轮）═══
+B 词表 10318 条，词典序 a → gong。A 表 3002 条。
+  a–f 段 97% 以上；**g 段 ga 99% / ge 99% / gh 100% / gi 99% / gl 99% /
+  gm 空 / gn 100%**；**go 段在写：134/306（43%）**。
+  **核心词 go 已写完，一条 56 个义项**，带走 53 个短语动词与习语。
+  **下一批从 gonna 起**：gonorrhoea、goo、goober、**good（又一个核心词，
+  按规矩独占一批 —— 待推迟名单里挂着 good humour / good-looking /
+  good name / good-natured / good sense / good-tempered / good-for-nothing
+  等二十来条，写完 good 就该当场并掉）**、goodbye、goods、goodwill、goof、
+  google、goose、gore、gorge、gorgeous、gorilla、gospel、gossip、goth、
+  Gothic、gouge、gourmet、gout、govern、government、governor、gown 一带。
+  **写 good 之前先把它的习语清单补进 audit-idioms 的 CHECK**（as good as、
+  good for you、make good、for good、in good time、a good deal of…）。
+  进段已剔 9 条进 exclude.txt：gobar / gogga / goonda / gora / gosht /
+  godown（国别变体）、goodo / goog（澳新）、govt（缩写，同 cwt 与 gm）。
+  这一轮记下的两件事：
+    · **audit-padding 的【例句里没有词】只管带编号的义项** ——
+      godfather 条里讲 godson / godchild 的两个义项因此被拦。
+      改法不是删内容，是把它们改挂成扩展块（等式＋例句＋译文），
+      教学内容一点不少，词头也不再缺席。
+    · **「注意别混」点名的词必须已经写了或同批写** —— golly 提了 golliwog，
+      audit-swallowed 当场报。这跟 HANDOFF 第四节第六条是同一条规矩。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10284
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10318
   新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
   check-merged 每批都逐条核过。push 照旧等用户开口。
 
