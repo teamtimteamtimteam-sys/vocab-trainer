@@ -178,8 +178,18 @@ hard
 一是硬的：a hard surface；二是难的：a hard question；三是辛苦的：hard work；
 四是（人）严厉无情的：a hard man；五是（水）硬的：hard water；
 六是副词，卖力地、使劲地：work hard；七是（证据、毒品）确凿的、烈性的：hard evidence。
-复合词：hardback、hardboard、hardliner、hardware、hardwood、hard-nosed、
-hard-boiled、the hard shoulder、a hard drive，全部并入本条。
+复合词一族极大，全部并入本条，分三堆记：
+  · 实物与术语：hardback、hardboard、hardware、hardwood、the hard shoulder、
+    a hard drive、hard hat、hard court、hardtop、hardcover、hardbound、hardscape；
+  · **成对记的**（每个都有一个 soft 的对面）：hard copy／soft copy、
+    hard drug／soft drug、hard error／soft error、hard news／soft news、
+    hard porn／soft porn、hard power／soft power、hard science／soft science、
+    hard sell／soft sell、hardball／softball、hardtop／soft top、
+    hardscape／softscape；
+  · 形容词：hard-nosed、hard-boiled、hard-bitten、hard-earned、hard-won、
+    hard-working、hard-hitting、hard-pressed、hard-wearing、hard-fought、
+    hard-headed（褒：清醒务实）对 hard-hearted（贬：铁石心肠）、
+    hardwired、hardscrabble。
 习语：hard and fast、hard up、hard done by、no hard feelings、hard of hearing、
 give somebody a hard time。
 **最要紧的一条**：hardly **不是** hard 的副词 —— hard 自己就是副词（work hard），
@@ -371,6 +381,66 @@ a hard-on = 勃起（粗俗）
 = 在几乎每个两样都允许的国家里，硬色情与软色情的管制都不一样。
 hard porn = 硬色情（露骨的色情制品）
 也说 hardcore pornography，正式文本里写 hard-core pornography。
+❺ Somebody hard-coded the tax rate in 2011 and nobody could find it for years.
+= 有人在二〇一一年把税率写死在程序里，好几年都没人找得到。
+hard-code something = 把某值写死在程序里
+写死的值改不动，只能改代码重新发布，所以是编程里公认的坏习惯。
+❻ The hard left took the constituency party and lost the seat at the next election.
+= 极左派拿下了选区党部，下一次选举就丢了席位。
+the hard left = 极左派
+❼ The hard right has grown in three countries that never had one before.
+= 极右派在三个从前没有这种势力的国家里壮大了起来。
+the hard right = 极右派
+跟 far left / far right 大体同义，hard 强调立场不肯挪动。
+❽ The government took a hard line on strikes and softened it within a fortnight.
+= 政府对罢工摆出强硬立场，不到两个星期就软了下来。
+take a hard line = 采取强硬立场
+名词 hardliner（强硬派）已在本条上文。
+❾ Hard power is armies and money; everything else takes much longer to work.
+= 硬实力就是军队和钱，别的手段见效都慢得多。
+hard power = 硬实力
+对着说的是 soft power：文化、教育、榜样的吸引力。
+❿ Hard rock filled that stadium for two nights and emptied the neighbourhood.
+= 硬摇滚把那座体育场连着填满两晚，周边街区反倒空了。
+hard rock = 硬摇滚
+比 rock 更重、更吵，再往下一档是 heavy metal。
+⓫ Physics counts as a hard science and gets the building with the new roof.
+= 物理算作硬科学，分到的是屋顶翻新过的那栋楼。
+a hard science = 硬科学（结果可量化、可重复的学科）
+对着说的是 a soft science：社会学、心理学那一路。
+The hard sciences get the money and the rest of the faculty gets the corridor.
+= 硬科学拿到钱，学院里其余的人分到走廊。
+⓬ The hard sell put her off within a minute and she bought nothing at all.
+= 那套死缠硬磨的推销一分钟就让她反感，她什么也没买。
+the hard sell = 死缠硬磨的推销法
+对着说的是 the soft sell：不逼人，让你自己想明白。
+⓭ He plays hardball over every clause and wonders why nobody rings him back.
+= 他在每一条款上都寸步不让，还奇怪怎么没人回他电话。
+play hardball = 来硬的、寸步不让（美）
+本义是打正规棒球（相对于垒球 softball），比喻强硬手腕。
+⓮ A hardbound copy of the report went to each of the twelve trustees.
+= 报告的精装本给十二位理事每人送了一册。
+a hardbound copy = 精装本
+hardbound 与 hardcover 同义，英式更爱说 hardback。
+⓯ The hardcover came out in March and the paperback eighteen months later.
+= 精装版三月出，平装版一年半后才出。
+a hardcover = 精装本（美）
+⓰ The hardening of the concrete took longer in that cold than the schedule allowed.
+= 那样的低温下混凝土变硬所需的时间，超出了工期。
+the hardening of something = 某物的硬化
+也用于抽象：a hardening of attitudes 态度变强硬。
+⓱ The hardness of the water there ruins a kettle in about a year.
+= 那里的水硬度大，一把水壶一年左右就完了。
+the hardness of something = 某物的硬度
+矿物学上按莫氏硬度分级，钻石是十级。
+⓲ The hardscape went in first: paths, walls and steps before a single plant.
+= 硬景观先做：小径、矮墙、台阶都弄好了，才种第一株植物。
+hardscape = 硬景观（园林里铺装与砌筑的部分）
+对着说的是 softscape：植物那一半。
+⓳ A hardtop keeps the noise out and takes ten seconds longer to fold away.
+= 硬顶隔噪音，收起来要多花十秒。
+a hardtop = 硬顶（可折收的金属车顶）
+对着说的是 a soft top：帆布顶篷。
 
 harden
 核心：三支。一是变硬、使变硬：the glue hardens；二是（态度、立场）转强硬：
