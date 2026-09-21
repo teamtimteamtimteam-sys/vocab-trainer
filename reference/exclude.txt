@@ -529,3 +529,7 @@ harambee     # 东非英语（肯尼亚的「齐心协力」口号与集资活�
 hartal       # 印度英语里的罢市、总罢工，属地区变体词头，同 bandh
 hassium      # 人工合成的超重元素（108 号），只存在于加速器实验里，同 bohrium 那条
 half pants   # 印度英语里的短裤（通用英语说 shorts），属地区变体词头
+harper's bazaar  # 杂志名 Harper's Bazaar 的清洗残片，属纯专名，同 gray's elegy
+harper's magazine  # 杂志名 Harper's Magazine 的清洗残片，属纯专名，同上
+hark-the-herald-angels-sing  # 圣诞颂歌曲名的连字符化残片，属纯专名，同 god-rest-you-merry-gentlemen
+hallmarktm-card  # 商标 Hallmark 粘死的清洗残片，属商标，同 airbustm
