@@ -1,17 +1,3 @@
-gyroscope
-核心：名词，陀螺仪 —— 高速旋转的转子装在万向架上，转起来会顽固地保持自己的轴向；
-船、飞机与手机里判断姿态靠的都是它。可数，口语缩略作 gyro。
-形容词 gyroscopic 并入本条。
-① A gyroscope keeps pointing the same way no matter how the case turns.
-= 不管外壳怎么转，陀螺仪始终指着同一个方向。
-a gyroscope = 陀螺仪
-② Gyroscopic stability is why a moving bicycle is easier to balance.
-= 自行车动起来更容易平衡，靠的就是陀螺效应带来的稳定。
-gyroscopic stability = 陀螺稳定性
-③ Two gyroscopes failed and the telescope stopped pointing anywhere useful.
-= 两台陀螺仪失效，那架望远镜就再也指不到有用的地方。
-gyroscopes = 陀螺仪（复数）
-
 ha
 核心：感叹词，两支。一是表示惊讶、得意或不信的「哈」：Ha! I knew it；
 二是笑声，写出来多作 ha ha 或 ha-ha-ha —— 重复的次数越多，多半越敷衍。
@@ -401,3 +387,19 @@ a haemophiliac = 血友病患者
 ③ Treatment for haemophilia changed completely in one generation.
 = 血友病的治疗，在一代人里彻底变了样。
 treatment for haemophilia = 血友病的治疗
+
+haemorrhage
+核心：名词与动词，两支。一是（医学）大出血：a brain haemorrhage；
+二是比喻，（钱、人才）大量流失：haemorrhage money。美式拼作 hemorrhage。
+形容词 haemorrhagic 并入本条。
+**注意拼写**：三个容易漏的地方 —— ae、rrh 双写、词尾 -age；
+读作 HEM-uh-rij，中间那个 o 不发音。
+① A brain haemorrhage took him to hospital in eleven minutes.
+= 一次脑出血，十一分钟就把他送进了医院。
+a brain haemorrhage = 脑出血
+② The company haemorrhaged money for two years and then closed.
+= 那家公司失血似的亏了两年钱，然后关门。
+haemorrhage money = 大量失血般地亏钱
+③ A haemorrhagic fever spreads where the health system is already thin.
+= 出血热在医疗体系本就薄弱的地方传播。
+a haemorrhagic fever = 出血热

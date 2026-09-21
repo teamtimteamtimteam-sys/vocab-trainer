@@ -1,17 +1,3 @@
-haversack
-核心：单肩帆布挎包 —— 一条带子斜挎的旧式军用与徒步装具，
-比 rucksack 小，比 satchel 结实。可数；今天多见于历史与军事语境。
-词源是德语的 Hafersack「燕麦袋」，本来是装马料的。
-① He carried three days' food in a canvas haversack and nothing else.
-= 他那只帆布挎包里装着三天的口粮，别的什么也没带。
-a haversack = 单肩帆布挎包
-② The museum keeps a haversack that came back from the Somme unopened.
-= 博物馆藏着一只从索姆河战场带回来、始终没打开过的挎包。
-a haversack = 军用挎包
-③ Two haversacks and a rolled blanket were the whole of his luggage.
-= 两只挎包加一卷毯子，就是他全部的行李。
-haversacks = 挎包（复数）
-
 havoc
 核心：不可数，前面不加冠词。指大范围的破坏与混乱 —— 天灾、战争、
 故障、孩子都造得出来。几乎只活在三个搭配里：wreak havoc、
@@ -398,3 +384,170 @@ he'll = he will 的缩略式
 = 签支票的是他，尽管他一封信也没拆过。
 it is he = 是他（正式）
 口语一概说 it is him；考试里两种都会考到，分寸在语域而不在对错。
+
+head
+核心：英语里分支最多的名词之一。底层只有一个意思 —— **一个东西的最上端、
+最前端、最要紧的那一端**；身体的头恰好三样都占齐了，所以别的义项全从它长出来。
+往四个方向推：
+一、位置上的顶端与前端：the head of the stairs、the head of the page、
+the head of the table、the head of a queue；河流最上游的那一段也这么叫。
+二、等级上的最高处：the head of the department、the head of state、
+head office、head teacher —— 作定语时不加冠词。
+三、里头装的东西，即头脑与心智：a good head for figures、keep your head、
+lose your head、go to somebody's head。
+四、形状像头的东西：啤酒的泡沫、脓包的头、录音磁头、大头针的帽。
+另有两个专用义：硬币的正面（heads，跟 tails 对）、
+牲畜的计量单位（fifty head of cattle，**复数不变**）。
+动词三支：朝某处去（head for、head north）、率领（head a team）、
+用头顶球（head the ball）。
+短语动词看方向词：off 是拦在前头，up 是挑头领着，into 是一头扎进去。
+head- 开头的单词复合词有四十来个（头痛、头条、耳机、总部、校长、路标式的
+大标题……），常用的各自立条，这里不重复收。
+① She hit her head on the doorframe and finished the argument standing up.
+= 她的头撞在门框上，那场争论是站着吵完的。
+hit your head = 撞到头
+最基本的一支，身体部位；头痛、发箍、头盔那一族复合词都从这里长出来。
+② He has a good head for figures and no memory for names at all.
+= 他对数字很在行，对名字却毫无记性。
+have a good head for figures = 对数字很在行
+把头当成装东西的容器，里面装的是心智与能力。
+句型是 have a head for something，后面接 figures、heights、business 都行。
+③ The head of the stairs is the most dangerous place in that house.
+= 那栋房子里最危险的地方就是楼梯顶端。
+the head of the stairs = 楼梯顶端
+位置义：最上端。楼梯的另一端叫 the foot of the stairs。
+④ Her name is at the head of the page and nowhere else in the document.
+= 她的名字在页首，文件里别处一次也没出现。
+at the head of the page = 在页首
+⑤ He sat at the head of the table and let everybody else choose first.
+= 他坐在长桌的主位，却让别人先挑。
+at the head of the table = 在主位
+位置义在这里叠上了地位义：主位就是主人或主宾的位置。
+⑥ The head of the department signed it without reading past the first page.
+= 系主任签了字，第一页之后根本没看。
+the head of the department = 系主任、部门负责人
+⑦ Our head is retiring after twenty-six years and one week.
+= 我们校长干了二十六年零一个星期，要退休了。
+the head = （英）校长
+全称是 the head teacher；美式说 the principal。
+⑧ A head teacher spends more time on buildings than on lessons.
+= 一位校长花在楼房上的时间比花在课上的多。
+a head teacher = （英）中小学校长
+⑨ Head office decided it and the branches heard about it in a newsletter.
+= 这事是总部定的，各分部是从通讯里知道的。
+head office = 总部
+作这个意思时不加冠词，跟 head teacher 一样。
+⑩ The head of state opened the bridge and the prime minister paid for it.
+= 剪彩开桥的是国家元首，掏钱的是首相。
+a head of state = 国家元首
+⑪ The head table was two feet higher than everybody else's.
+= 主桌比别人的桌子高出两英尺。
+the head table = 主桌（美）
+英式多说 the top table。
+⑫ Fifty head of cattle went through that gate every morning.
+= 每天早上有五十头牛从那道门过。
+fifty head of cattle = 五十头牛
+作牲畜量词时复数不变，不能说 fifty heads of cattle。
+⑬ We tossed a coin and heads meant the whole thing was off.
+= 我们扔了枚硬币，正面朝上就全取消。
+heads = （硬币）正面
+⑭ Heads or tails decides who tells her, and neither of us wants to win.
+= 正面反面来定谁去告诉她，可我们俩都不想赢。
+heads or tails = 正面还是反面（抛硬币）
+⑮ A good head on that beer lasts most of the way down the glass.
+= 那种啤酒的泡沫，能一直留到杯子快见底。
+a good head = 一层厚泡沫
+形状义：浮在最上面的那一层。
+⑯ The boil came to a head on the fourth day and burst on the fifth.
+= 那个疖子第四天化了头，第五天破了。
+come to a head = （脓包）化脓成头；（事态）到了紧要关头
+本义在医学，比喻义才是常用的：矛盾积到非爆不可的那一刻。
+⑰ The dispute came to a head when the second resignation arrived.
+= 第二份辞呈一到，争端就到了紧要关头。
+come to a head = 到了紧要关头
+⑱ They headed for the coast at four and hit the traffic anyway.
+= 他们四点就朝海边出发，照样碰上了堵车。
+head for somewhere = 朝某处去
+⑲ The whole party headed north and left one tent behind.
+= 全队朝北走，落下了一顶帐篷。
+head north = 朝北走
+方位词直接跟在后面，不加介词。
+⑳ She heads a team of nine and writes the rota herself.
+= 她带着一个九人小组，排班表自己写。
+head a team = 领导一个小组
+㉑ He headed the ball into his own net and apologised for a fortnight.
+= 他把球顶进了自家球门，道了两个星期的歉。
+head the ball = 用头顶球
+㉒ Two phone calls headed off a strike that had already been announced.
+= 两通电话拦下了一场已经宣布的罢工。
+head something off = 把某事拦在发生之前
+方向词 off 是「岔开、拦住」：赶在前头把它挡回去。
+㉓ She was asked to head up the review and refused it twice.
+= 有人请她牵头做这次复核，她回绝了两次。
+head something up = 牵头、领头负责（口语）
+㉔ A head-on collision at that speed leaves very little to examine.
+= 那种速度下的迎面相撞，留不下什么可查的。
+a head-on collision = 迎面相撞
+也作副词：the two policies met head-on。
+㉕ The two of them went head-to-head over a budget of four hundred pounds.
+= 他们俩为四百英镑的预算正面交锋。
+go head-to-head = 正面交锋
+㉖ A head start of ten minutes is worth an hour later in the day.
+= 早出发十分钟，抵得上一天里晚些时候的一个钟头。
+a head start = 领先的起跑优势
+㉗ Keep your head and the rest of them will copy you.
+= 你沉住气，其余的人就会跟着学。
+keep your head = 沉住气、不慌
+㉘ He lost his head over a parking space and lost the contract as well.
+= 他为一个车位失了分寸，连合同也丢了。
+lose your head = 失去冷静
+跟 keep your head 正好成对，一起记。
+㉙ Off the top of my head I would say nineteen, but do not quote me.
+= 我一下子想到的数是十九，不过别引我的话。
+off the top of your head = 不假思索地、一下子想到
+㉚ They fell head over heels in the first week and married in the fourth.
+= 他们头一周就坠入情网，第四周就结了婚。
+fall head over heels = 神魂颠倒地爱上
+字面是「头在脚跟之上」，本来就是颠倒的意思。
+㉛ The praise went to his head and the next book was unreadable.
+= 那些称赞冲昏了他的头，下一本书没法读。
+go to somebody's head = 冲昏某人的头；（酒）上头
+第二人称的说法更常见：go to your head，也用来说酒上头。
+㉜ Asking that department twice is banging your head against a brick wall.
+= 找那个部门问两遍，等于拿头撞墙。
+bang your head against a brick wall = 白费力气、对牛弹琴
+㉝ Her second novel is head and shoulders above everything else that year.
+= 她的第二部小说，比那一年别的书高出一大截。
+head and shoulders above = 远胜于、高出一大截
+㉞ They kept their heads above water for three winters and then sold up.
+= 他们勉强撑了三个冬天，随后把产业卖了。
+keep your head above water = 勉强维持不垮
+㉟ Burying your head in the sand about the roof costs more every year.
+= 屋顶的事装作看不见，一年比一年贵。
+bury your head in the sand = 装作看不见、逃避现实
+㊱ He laughed his head off at a joke nobody else had heard.
+= 他为一个别人都没听到的笑话笑得直不起腰。
+laugh your head off = 笑得不可开交
+这个句型可以换动词：shout your head off、talk your head off。
+㊲ The explanation went straight over my head and I nodded anyway.
+= 那番解释我完全没听懂，还是点了头。
+go over somebody's head = 超出某人的理解
+另一支是「越过某人直接找上级」：she went over his head to the director。
+㊳ From head to toe he was dressed in something borrowed.
+= 从头到脚，他穿的没一样是自己的。
+from head to toe = 从头到脚
+㊴ The four of them put their heads together and produced a worse plan.
+= 他们四个凑在一起商量，做出了一个更糟的方案。
+put your heads together = 凑在一起出主意
+㊵ Heads will roll over this and none of them will be the right heads.
+= 这事要有人掉脑袋，而掉的准不是该掉的那几个。
+heads will roll = 要有人为此丢饭碗
+㊶ It took her a week to get her head around the new filing system.
+= 新的归档办法，她花了一个星期才弄明白。
+get your head around something = 弄懂、想明白（口语）
+㊷ Three hours of that music does my head in.
+= 那种音乐听三个钟头，我脑袋要炸。
+do somebody's head in = 把某人弄得心烦意乱（英，口语）
+㊸ A head rush hit her when she stood up too quickly from the floor.
+= 她从地上站得太猛，一阵头晕。
+a head rush = 猛然起身时的一阵头晕
