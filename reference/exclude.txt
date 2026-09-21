@@ -533,3 +533,4 @@ harper's bazaar  # 杂志名 Harper's Bazaar 的清洗残片，属纯专名，�
 harper's magazine  # 杂志名 Harper's Magazine 的清洗残片，属纯专名，同上
 hark-the-herald-angels-sing  # 圣诞颂歌曲名的连字符化残片，属纯专名，同 god-rest-you-merry-gentlemen
 hallmarktm-card  # 商标 Hallmark 粘死的清洗残片，属商标，同 airbustm
+hadrian's wall  # 遗址地名 Hadrian's Wall 的清洗残片，属纯专名，同 gray's elegy（所有格专名逐段判，这是 ha- 段的）
