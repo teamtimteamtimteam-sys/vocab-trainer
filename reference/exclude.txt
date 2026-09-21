@@ -534,3 +534,7 @@ harper's magazine  # 杂志名 Harper's Magazine 的清洗残片，属纯专名�
 hark-the-herald-angels-sing  # 圣诞颂歌曲名的连字符化残片，属纯专名，同 god-rest-you-merry-gentlemen
 hallmarktm-card  # 商标 Hallmark 粘死的清洗残片，属商标，同 airbustm
 hadrian's wall  # 遗址地名 Hadrian's Wall 的清洗残片，属纯专名，同 gray's elegy（所有格专名逐段判，这是 ha- 段的）
+
+# --- he- 段（2026-09-21 开段时判的）---
+hemidemisemiquaver  # 六十四分音符，音乐记谱术语，同 demisemiquaver / accelerando 那条
+heal's       # 家具店 Heal's 的清洗残片，属纯专名兼商标，同 harper's bazaar

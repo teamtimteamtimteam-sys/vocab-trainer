@@ -135,3 +135,8 @@ havala       hawala     # 同一个词的另一种拼法，内容写在 hawala �
 hazily       hazy       # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
 hatred       hate       # 名词并进动词条后，前四字母对不上（hatr- 对 hate），补给 SPELLING_ROOT
 hands        hand       # 复数形式，hands down 一类写法的宿主要折回 hand
+
+# --- he- 段（2026-09-21 开段时补）---
+he'd         he         # 缩略式（he had / he would），词根只有两个字母，前缀判定认不出
+he'll        he         # 同上（he will）
+he's         he         # 同上（he is / he has）
