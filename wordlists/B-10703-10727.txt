@@ -209,6 +209,9 @@ a handyman = 杂修师傅
 ⑤ The handiness of that layout only shows after a month of cooking.
 = 那个布局有多顺手，做一个月饭才显得出来。
 handiness = 顺手、便利
+⑥ A handy-dandy little gadget like that lives in a drawer for twenty years.
+= 那样一件又小又巧的小玩意儿，能在抽屉里躺上二十年。
+handy-dandy = 又小又巧、顺手好用的（美，口语，带点调侃）
 
 hang
 核心：四支，外加八个短语动词与两条习语。
