@@ -134,3 +134,4 @@ hath         have       # 古体第三人称（he hath），同上
 havala       hawala     # 同一个词的另一种拼法，内容写在 hawala 条里（同 fo'c'sle）
 hazily       hazy       # 副词并进形容词后，前四字母对不上，补给 SPELLING_ROOT
 hatred       hate       # 名词并进动词条后，前四字母对不上（hatr- 对 hate），补给 SPELLING_ROOT
+hands        hand       # 复数形式，hands down 一类写法的宿主要折回 hand

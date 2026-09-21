@@ -624,6 +624,18 @@ harmful = 有害的
 ⑥ The spider is harmless and clears a room in four seconds.
 = 那种蜘蛛没有毒，却能四秒钟清空一个房间。
 harmless = 无害的
+⑦ He answered harmfully and spent the next month undoing it.
+= 他的回答伤了人，接下来一个月都在收拾。
+harmfully = 有害地、伤人地
+⑧ The harmfulness of the additive was known nine years before the ban.
+= 那种添加剂的害处，在禁用前九年就已经清楚了。
+harmfulness = 有害的程度、害处
+⑨ The snake moved harmlessly along the wall and everybody stood on a chair anyway.
+= 那条蛇沿着墙无害地爬过去，大家还是全站到了椅子上。
+harmlessly = 无害地、不造成损害地
+⑩ The harmlessness of the dye had to be proved twice in two countries.
+= 那种染料无害，得在两个国家各证明一次。
+harmlessness = 无害
 
 harmattan
 核心：哈麦丹风：每年十二月到二月从撒哈拉吹向西非海岸的干燥东北风，
@@ -680,6 +692,9 @@ harmonization = 统一、协调
 ⑦ The harmonic series explains why some notes sit well together.
 = 泛音列解释了有些音为什么放在一起好听。
 the harmonic series = 泛音列
+⑧ The two departments worked harmoniously for one year and then stopped speaking.
+= 那两个部门和睦共事了一年，随后就不说话了。
+harmoniously = 和睦地、协调地
 
 harness
 核心：三支。一是挽具 —— 套在马身上拉车的那套皮带；二是人用的背带、安全带：
