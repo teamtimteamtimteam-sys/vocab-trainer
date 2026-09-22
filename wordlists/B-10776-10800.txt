@@ -1,18 +1,3 @@
-Hasid
-核心：哈西德派犹太人 —— 十八世纪东欧兴起的犹太教虔敬运动的信徒。
-复数 Hasidim。这个拼法比 Chasid 常见；两条各举各的例子，内容互补。
-可数。
-① A Hasid on the next seat prayed quietly through the whole of the flight.
-= 邻座的一位哈西德派教徒，整趟航程都在低声祷告。
-a Hasid = 哈西德派犹太人
-② Hasidim from four countries filled the hall on the anniversary of the rebbe's death.
-= 拉比忌日那天，来自四个国家的哈西德派信徒挤满了大厅。
-Hasidim = 哈西德派教徒（复数）
-③ A Hasid follows one particular rebbe, and that choice decides which group he belongs to.
-= 哈西德派教徒各追随一位拉比，追随谁就决定了他属于哪一支。
-follow one particular rebbe = 追随某一位拉比
-注意拼写：Chasid 与 Chassid 是同一个词的别种转写，各有词条。
-
 Hasidic
 核心：哈西德派的 —— 形容那一支犹太教的做法、音乐、服饰与社区。
 这个拼法比 Chasidic 常见。常搭 a Hasidic court（某位拉比及其追随者）、
@@ -696,3 +681,34 @@ hawkers = 小贩（复数）
 ③ Street hawkers disappear the moment the first rain hits the pavement.
 = 头一阵雨打到人行道上，街头小贩立刻就没了影。
 a street hawker = 街头小贩
+
+hawkish
+核心：形容词，两支同源。一是主张动武、态度强硬的（反义是 dovish）；
+二是金融口径上的「鹰派的」—— 主张收紧货币、主张加息。
+副词 hawkishly 与名词 hawkishness 都并在本条。
+① The speech was the most hawkish thing the minister had said all year.
+= 那篇讲话是这位大臣一年里说过的最强硬的话。
+hawkish = 强硬的、主战的
+② Markets read the tone as hawkish and the currency rose before lunch.
+= 市场把这个口风读成鹰派，午饭前货币就涨了。
+hawkish = 主张收紧货币的、鹰派的
+③ He answered hawkishly and lost three votes in his own party that night.
+= 他的回答很强硬，当晚就丢了本党三张票。
+hawkishly = 强硬地
+④ The hawkishness of the new board surprised nobody who had read the minutes.
+= 新董事会的强硬做派，读过会议纪要的人一个都不觉得意外。
+hawkishness = 强硬立场
+
+hawser
+核心：船用的粗缆 —— 系泊与拖带用，直径以英寸计，比一般的 rope 粗得多，
+今天多是钢丝绳或合成纤维。可数，航海与港口语境里的常用词。
+① A hawser as thick as a man's arm held the ferry against the tide.
+= 一条粗如手臂的缆绳，把渡轮稳在急流里。
+a hawser = 粗缆绳
+② The hawser parted with a noise they heard on the far quay.
+= 缆绳绷断的响声，对岸码头上都听得见。
+the hawser parted = 缆绳绷断
+船缆断了不说 break 而说 part，这是航海英语的老讲法。
+③ Two tugs took the hawsers and walked the tanker into the lock.
+= 两艘拖轮接过缆绳，把油轮牵进了船闸。
+hawsers = 缆绳（复数）
