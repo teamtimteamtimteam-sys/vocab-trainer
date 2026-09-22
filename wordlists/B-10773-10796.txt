@@ -1,31 +1,3 @@
-harvest
-核心：三支。一是收割、收获的时节：the harvest；二是收成（收上来的量）：
-a good harvest；三是动词，收割、采集 —— 今天也说采集数据与摘取器官：
-harvest data。名词 harvester（收割机；收割的人）并入本条。
-搭配：a harvest festival（丰收节）、a bumper harvest（大丰收）。
-① The harvest starts when the weather says so and not when the calendar does.
-= 收割什么时候开始，看天说了算，不看日历。
-the harvest = 收割时节
-② A good harvest two years running paid off the machinery.
-= 连着两年好收成，把机器的钱还清了。
-a good harvest = 好收成
-③ They harvest the data every night and look at it once a quarter.
-= 他们每晚采集数据，一个季度才看一次。
-harvest data = 采集数据
-④ The harvester broke down in the one dry week of that month.
-= 收割机偏偏在那个月唯一一个干燥的星期坏了。
-a harvester = 收割机
-⑤ The harvest festival fills a church that is empty the rest of the year.
-= 丰收节把一座一年到头空着的教堂填满了。
-a harvest festival = 丰收节
-⑥ The harvest moon came up orange and big enough to work by.
-= 收获月升起来时是橙色的，大得能就着它干活。
-the harvest moon = 秋分前后的那轮满月
-离秋分最近的一次满月，升得早、看着特别大。
-⑦ A harvest mouse weighs less than a two-pound coin and climbs wheat stalks.
-= 巢鼠比一枚两镑硬币还轻，能顺着麦秆往上爬。
-a harvest mouse = 巢鼠（欧洲最小的鼠类）
-
 harvestman
 核心：盲蛛：腿极长、身体只有一颗小圆粒的蛛形动物。**它不是蜘蛛** ——
 不结网、没有毒腺、头胸腹连成一体，只有一对眼睛。复数 harvestmen。
@@ -711,3 +683,19 @@ haws = 山楂果（复数）
 = 他支吾了一分钟，随后把每一条条款都答应了。
 hem and haw = 支支吾吾、拿不定主意
 英式写作 hum and haw，意思完全一样。
+
+hawala
+核心：南亚与中东传统的地下汇款方式：汇款人在甲地把钱交给一位经纪人，
+收款人在乙地从另一位经纪人手里取钱，两位经纪人之间只记账、不动钱。
+快、便宜、不留纸面记录 —— 也因此成了反洗钱法规里的常客。
+不可数（指这套制度），也可数（指一笔汇款）。
+① Most of the money left the country through hawala and never touched a bank.
+= 那些钱大多是经地下钱庄出境的，一分都没经过银行。
+hawala = 地下钱庄式汇款制度
+② A hawala transfer clears in hours and leaves no paper behind it.
+= 一笔这样的汇款几个钟头就到账，身后不留纸面凭证。
+a hawala transfer = 一笔地下汇款
+③ Regulators treat hawala as a risk to be watched rather than a crime in itself.
+= 监管者把它当成需要盯住的风险，而不是罪行本身。
+hawala = （作定语）这套汇款系统的
+注意拼写：havala 是同一个词的另一种写法，两种拼法都见得到。
