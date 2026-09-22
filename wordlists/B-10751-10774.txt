@@ -1,38 +1,3 @@
-hark
-核心：动词（古旧），听 —— 今天只活在两处：祈使的 hark（听！多见于旧诗与圣诞颂歌），
-以及短语 hark back to something（追溯到、让人想起从前）。
-第二支才是现代英语里真正用得上的：它既说「回溯从前」，也带点「老调重弹」的意味。
-说法来自猎犬：猎人喊 hark back 是让狗回头重新找气味。
-① Hark — the bells started four minutes early this year.
-= 听啊，今年的钟声早响了四分钟。
-hark = 听
-② The design harks back to a period that most people only half remember.
-= 那个设计让人想起一个多数人只记得一半的年代。
-hark back to something = 让人想起从前
-③ He harks back to the old system whenever anything goes wrong.
-= 一出问题他就把老制度搬出来说。
-hark back to something = 老调重弹地提起从前
-④ Hark at him — three weeks ago he had never held a hammer.
-= 听听他说的，三个星期前他连锤子都没拿过。
-hark at somebody = 听听某人说的（英，口语，带嘲讽）
-几乎只用祈使式，专门用来笑话说大话的人。
-
-harken
-核心：倾听、留意 —— hearken 的另一种拼法，古体与文体用词，
-今天几乎只活在两处：仿古的祈使（Harken to me）与
-harken back to something（追溯到、让人想起从前）。不及物，后接 to。
-现代英语的日常说法是 listen 与 pay attention。
-① The speech harkens back to a decade that half the audience never saw.
-= 那篇讲话追溯的是台下一半人根本没经历过的十年。
-harken back to something = 追溯到、让人想起从前
-② Harken to the wind before you decide which side of the hill to camp on.
-= 决定在山的哪一面扎营之前，先听听风。
-harken to something = 倾听某物（古体）
-③ The whole ceremony harkens to a time when the harbour still had a fleet.
-= 整场仪式让人想起港里还泊着一支船队的年月。
-harken to something = 让人想起某个时期
-注意拼写：hearken 是更常见的写法，两种都对。
-
 harlequin
 核心：名词与形容词。一是（大写 Harlequin）意大利即兴喜剧里的丑角 ——
 戴半边面具、穿菱形彩格紧身衣；二是形容词，五彩菱格的：harlequin pattern；
@@ -425,3 +390,48 @@ the harvest moon = 秋分前后的那轮满月
 ⑦ A harvest mouse weighs less than a two-pound coin and climbs wheat stalks.
 = 巢鼠比一枚两镑硬币还轻，能顺着麦秆往上爬。
 a harvest mouse = 巢鼠（欧洲最小的鼠类）
+
+harvestman
+核心：盲蛛：腿极长、身体只有一颗小圆粒的蛛形动物。**它不是蜘蛛** ——
+不结网、没有毒腺、头胸腹连成一体，只有一对眼睛。复数 harvestmen。
+名字来自收割季：一到秋收，田里到处是它。英式也叫 harvest spider。
+① A harvestman crossed the table on legs you could hardly see at all.
+= 一只盲蛛用几乎看不见的细腿横穿了桌面。
+a harvestman = 盲蛛
+② Harvestmen appear in the stubble the week the combine finishes.
+= 联合收割机收完的那一周，麦茬地里就冒出成群的盲蛛。
+harvestmen = 盲蛛（复数）
+③ The harvestman drops a leg to escape and never grows that leg back.
+= 盲蛛靠断掉一条腿逃命，那条腿再也长不回来。
+the harvestman = 盲蛛（作物种统称）
+
+hash
+核心：四支。一是（烹饪）碎肉土豆煎饼：corned beef hash；
+二是习语 make a hash of something，把某事搞砸；
+三是井号「#」：the hash key —— 美式叫 the pound key 或 hashtag 里的那个符号；
+四是（口语）大麻树脂 hashish 的缩略。
+名词 hashtag 并入本条。
+① Corned beef hash uses up what is left and tastes better than it sounds.
+= 咸牛肉土豆饼是用剩料做的，比听着好吃。
+corned beef hash = 咸牛肉土豆饼
+② He made a hash of the first attempt and got it right on the second.
+= 头一回他搞砸了，第二回做对了。
+make a hash of something = 把某事搞砸
+③ Press the hash key twice and the machine starts again.
+= 按两下井号键，机器就重启。
+the hash key = 井号键
+④ One hashtag carried that campaign further than any advertisement.
+= 一个话题标签，把那场活动带得比任何广告都远。
+a hashtag = 话题标签
+⑤ Hashish was sold openly in that quarter for about two years.
+= 有那么两年，那一带公开卖大麻树脂。
+hashish = 大麻树脂
+口语缩略成 hash，跟前面几支只是同形。
+⑥ Hash browns come with everything in that café, whether you ask or not.
+= 那家馆子什么都配薯饼，你问不问都一样。
+hash browns = 薯饼（切碎煎成的马铃薯）
+恒作复数；美式早餐的常客。
+⑦ They hashed out the last two clauses in a corridor and signed at midnight.
+= 最后两个条款是他们在走廊里吵定的，半夜签的字。
+hash something out = 争论着把某事谈定（美）
+hash out 跟 hammer out 差不多，只是更口语、更带着吵的意味。

@@ -1,29 +1,3 @@
-headboard
-核心：床头板 —— 立在床头的那块板，木头、金属或包布的都有。可数。
-床尾那块叫 footboard，两头靠 side rails 连起来。
-① The headboard knocked against the wall every time either of them turned over.
-= 他们俩谁一翻身，床头板就撞一下墙。
-a headboard = 床头板
-② A padded headboard makes reading in bed possible for more than ten minutes.
-= 包了软垫的床头板，能让人在床上看十分钟以上的书。
-a padded headboard = 包软垫的床头板
-③ They took the headboard off to get the bed up that staircase.
-= 为了把床搬上那道楼梯，他们把床头板卸了下来。
-take the headboard off = 把床头板卸下来
-
-headbutt
-核心：用头去撞人 —— 名词与动词同形：a headbutt、headbutt somebody。
-可数。这是斗殴与球场上的动作，说出来就带着暴力，不作比喻用。
-① A headbutt in the last minute cost the captain his place in the final.
-= 最后一分钟的一记头槌，让队长丢了决赛的资格。
-a headbutt = 用头撞人的一下
-② He headbutted the door twice and the lock held both times.
-= 他用头撞了两次门，锁两次都没坏。
-headbutt something = 用头撞某物
-③ She was headbutted in the queue and the police took nine minutes to arrive.
-= 她排队时被人用头撞了，警察九分钟后才到。
-be headbutted = 被人用头撞
-
 headcase
 核心：（英，口语，贬）疯子、神经不正常的人；也写成两个词 head case。可数。
 说话人多半半开玩笑，可一旦用在真有精神疾病的人身上，就是冒犯。
@@ -336,3 +310,31 @@ headscarves = 头巾（复数）
 ③ She put a headscarf on before going into the mosque and took it off outside.
 = 进清真寺之前她戴上头巾，出来就取下。
 put a headscarf on = 戴上头巾
+
+headset
+核心：耳机加麦克风的一整套 —— 客服、飞行员、电话会议、游戏都用；
+可数。虚拟现实那种罩住眼睛的也叫 headset（a VR headset）。
+跟只出声不收音的那一族分清：光听的叫耳机，能听能说的才是 headset。
+① A headset leaves both hands free, which is why every call centre uses one.
+= 耳麦让两只手都空着，所以每家客服中心都用它。
+a headset = 耳麦
+② The pilot's headset failed and the whole approach was flown on hand signals.
+= 飞行员的耳麦坏了，整段进场全靠手势。
+a pilot's headset = 飞行员耳麦
+③ A VR headset makes ten minutes feel like an hour, in both directions.
+= 虚拟现实头显能把十分钟变得像一小时 —— 好的那种和坏的那种都算。
+a VR headset = 虚拟现实头显
+
+headship
+核心：校长这个职位，或泛指一个机构的首长之职 —— 不可数居多，
+也可数（apply for a headship）。英式教育语境里的常用词：
+它说的是职位与任期，不是那个人。
+① She applied for a headship twice and took the second one.
+= 她申请过两次校长职位，接了第二个。
+a headship = 校长职位
+② His headship lasted four terms and is still talked about.
+= 他那任校长做了四个学期，至今还有人议论。
+his headship = 他的校长任期
+③ The headship of a department that size is mostly paperwork.
+= 那么大一个系的系主任之职，多半是文书工作。
+the headship of something = 某机构的首长之职
