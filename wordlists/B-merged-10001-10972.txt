@@ -19178,6 +19178,53 @@ a henchman = 党羽
 = 那场审判里每一个党羽，都指证了雇他们的那个人。
 every henchman = 每一个党羽
 
+hendecagon
+核心：十一边形：十一条边、十一个角的多边形。可数，形容词是 hendecagonal。
+构词是希腊语的「十一」加「角」。
+它本身没什么实用价值，却是多边形命名规则的好例子：
+七边形 heptagon、八边形 octagon、九边形 nonagon、十边形 decagon，
+再往上一个就是它。
+① A hendecagon cannot tile a floor, which is why nobody ever uses one.
+= 十一边形铺不满地面，所以从来没人用它。
+a hendecagon = 十一边形
+② The coin is a hendecagon and jams in older machines.
+= 那枚硬币是十一边形的，会卡住老式机器。
+be a hendecagon = 是个十一边形
+③ Two hendecagons will not fit together without leaving a gap.
+= 两个十一边形拼不拢，中间总留着缝。
+hendecagons = 十一边形（复数）
+
+hendecasyllable
+核心：十一音节诗行 —— 每行十一个音节的诗句。可数；
+形容词 hendecasyllabic 并入本条。
+它是意大利诗的基本行，但丁的长诗通篇都是；
+在英语里则是常见的变体：标准的抑扬格五音步是十个音节，
+末尾多一个轻音节，就成了这个。
+① A hendecasyllable ends on an unstressed syllable and sounds unfinished.
+= 十一音节诗行以轻音节收尾，听着像话没说完。
+a hendecasyllable = 十一音节诗行
+② The whole poem is in hendecasyllables and reads very much like speech.
+= 整首诗都是十一音节行，读起来极像说话。
+hendecasyllables = 十一音节诗行（复数）
+③ Hendecasyllabic verse came into English through translations of Dante.
+= 十一音节诗体是随着但丁的译本进入英语的。
+hendecasyllabic verse = 十一音节诗体
+
+hendiadys
+核心：重言法：把一个「修饰语加名词」的意思拆成两个名词、中间用 and 连起来 ——
+「悦人的暖和」说成「悦人与暖和」。不可数，修辞学术语。
+要紧的是它不只活在书面修辞里：日常口语里的 try and do it、nice and easy、
+good and ready 全是这一路。
+① Shakespeare uses hendiadys so often that editors argue about which pairs count.
+= 莎士比亚用重言法用得太多，编者们为哪些算得上争论不休。
+hendiadys = 重言法
+② A translator who misses the hendiadys turns one idea into two.
+= 译者若没认出重言法，就会把一个意思译成两个。
+miss the hendiadys = 没认出重言法
+③ Everyday English is full of hendiadys, from try and do it to nice and easy.
+= 日常英语里满是重言法，从「try and do it」到「nice and easy」都是。
+be full of hendiadys = 满是重言法
+
 henge
 核心：亨吉：史前的环形土木遗迹 —— 一圈沟与一道堤围出的圆形场地，
 里面可能立过木柱或石柱。可数，考古学用词。
@@ -19208,3 +19255,35 @@ henna your hair = 用指甲花染发
 ③ The henna on her hands took nine days to fade completely.
 = 她手上的指甲花图案，九天才完全褪干净。
 the henna = 指甲花染上的颜色
+
+henpecked
+核心：（贬，常带调侃）妻管严的 —— 说男人被妻子管得死死的，事事不敢做主。
+只作形容词，多作定语。词源就是字面的「被母鸡啄」。
+**语域要当心**：它把婚姻里的强势一律算在女方头上，
+今天写在正经文字里会显得过时而且带性别偏见；
+它主要出现在旧喜剧、漫画与自嘲里。
+① A henpecked husband in that sitcom got the biggest laugh every week.
+= 那部情景喜剧里的妻管严丈夫，每周都是笑声最多的那个。
+a henpecked husband = 妻管严的丈夫
+② He describes himself as henpecked and makes every decision in the house.
+= 他自称怕老婆，家里每个决定却都是他下的。
+be henpecked = 被管得死死的
+③ Jokes about henpecked men stopped being funny at about the same time.
+= 拿妻管严的男人开的玩笑，也差不多在那时候不再好笑了。
+henpecked men = 妻管严的男人
+
+henry
+核心：亨利：电感的国际单位，符号 H。可数，复数 henries，也写 henrys。
+以美国物理学家约瑟夫·亨利命名。
+**单位名的通例在这里也成立**：作单位时小写，作人名时才大写 ——
+跟 newton、watt、volt、pascal 是同一批。
+实际电路里常用的是毫亨与微亨，整亨利的电感器已经相当大了。
+① A coil of that size measures about two henries and weighs four kilograms.
+= 那么大的线圈电感约两亨利，重四公斤。
+two henries = 两亨利
+② Inductance is given in henries and almost always with a prefix in front.
+= 电感以亨利为单位，而且几乎总在前面带个词头。
+in henries = 以亨利为单位
+③ One henry is a very large inductance for anything on a circuit board.
+= 对电路板上的元件来说，一亨利是极大的电感。
+one henry = 一亨利

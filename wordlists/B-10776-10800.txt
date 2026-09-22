@@ -698,3 +698,17 @@ hawkishly = 强硬地
 ④ The hawkishness of the new board surprised nobody who had read the minutes.
 = 新董事会的强硬做派，读过会议纪要的人一个都不觉得意外。
 hawkishness = 强硬立场
+
+hawser
+核心：船用的粗缆 —— 系泊与拖带用，直径以英寸计，比一般的 rope 粗得多，
+今天多是钢丝绳或合成纤维。可数，航海与港口语境里的常用词。
+① A hawser as thick as a man's arm held the ferry against the tide.
+= 一条粗如手臂的缆绳，把渡轮稳在急流里。
+a hawser = 粗缆绳
+② The hawser parted with a noise they heard on the far quay.
+= 缆绳绷断的响声，对岸码头上都听得见。
+the hawser parted = 缆绳绷断
+船缆断了不说 break 而说 part，这是航海英语的老讲法。
+③ Two tugs took the hawsers and walked the tanker into the lock.
+= 两艘拖轮接过缆绳，把油轮牵进了船闸。
+hawsers = 缆绳（复数）

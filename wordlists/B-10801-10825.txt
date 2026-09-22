@@ -1,17 +1,3 @@
-hawser
-核心：船用的粗缆 —— 系泊与拖带用，直径以英寸计，比一般的 rope 粗得多，
-今天多是钢丝绳或合成纤维。可数，航海与港口语境里的常用词。
-① A hawser as thick as a man's arm held the ferry against the tide.
-= 一条粗如手臂的缆绳，把渡轮稳在急流里。
-a hawser = 粗缆绳
-② The hawser parted with a noise they heard on the far quay.
-= 缆绳绷断的响声，对岸码头上都听得见。
-the hawser parted = 缆绳绷断
-船缆断了不说 break 而说 part，这是航海英语的老讲法。
-③ Two tugs took the hawsers and walked the tanker into the lock.
-= 两艘拖轮接过缆绳，把油轮牵进了船闸。
-hawsers = 缆绳（复数）
-
 hawthorn
 核心：山楂树 —— 带刺的小乔木或灌木，五月开白花，秋天结红果（haw）。
 英国乡间拿它扎树篱，所以又叫 may 或 may tree，花期正赶上五朔节。
@@ -546,3 +532,30 @@ headcases = 疯子（复数）
 ③ Being called a headcase followed him from one club to the next for years.
 = 神经病这个名声跟着他，一家俱乐部换到另一家，好些年都甩不掉。
 be called a headcase = 被叫作神经病
+
+headcheese
+核心：（美）猪头肉冻：猪头连着蹄、舌一起煮烂，汤汁凝住切片吃。不可数。
+英式叫 brawn。名字里的 cheese 跟奶酪无关，指的是「压成块的东西」。
+① Headcheese turns up on that counter every autumn and sells out by noon.
+= 那个柜台每年秋天都摆出猪头肉冻，不到中午就卖光。
+headcheese = 猪头肉冻
+② A slice of headcheese on rye is what his grandfather ate every Friday.
+= 一片猪头肉冻夹黑麦面包，是他祖父每个星期五吃的。
+a slice of headcheese = 一片猪头肉冻
+③ Making headcheese takes two days and a very large pot.
+= 做猪头肉冻要花两天，还要一口极大的锅。
+make headcheese = 做猪头肉冻
+
+headcount
+核心：清点人数，也指点出来的那个数 —— 字面是「数脑袋」。可数，
+也写成两个词 head count。两个常用场合：一是真的清点（老师在车上数孩子）；
+二是公司人事上的编制人数 —— cut headcount 是裁员的委婉说法。
+① The teacher did a headcount at every stop and twice got a different number.
+= 老师每一站都清点人数，有两次数出来的不一样。
+do a headcount = 清点人数
+② They cut headcount by a fifth and called the whole thing a reorganisation.
+= 他们把编制裁掉五分之一，还把这事叫作重组。
+cut headcount = 裁减编制人数
+③ A headcount freeze lasted eleven months and then quietly ended.
+= 编制冻结持续了十一个月，随后悄无声息地结束了。
+a headcount freeze = 编制冻结

@@ -1,45 +1,3 @@
-headspace
-核心：两支。一是（口语）心理上的余裕、心境 —— 腾得出想事情的那点空间；
-不可数，常说 have the headspace for something。
-二是技术义：容器里液体上方留出的空隙，罐头、酒瓶与气相色谱都用这个词。
-① She has no headspace for a second job and says so to everybody who asks.
-= 她腾不出心力再干第二份工作，谁问都这么说。
-have headspace for something = 有心力应付某事
-② A weekend alone gave him enough headspace to write the letter at last.
-= 独处一个周末，终于给了他写那封信的心境。
-give somebody headspace = 让某人有喘息与思量的余裕
-③ Leave a centimetre of headspace or the jar will crack in the freezer.
-= 留出一厘米顶隙，不然罐子在冷冻室里要裂。
-headspace = （容器的）顶隙
-
-headstand
-核心：头倒立：头顶与两臂撑地、身体倒过来的姿势 —— 体操与瑜伽里的动作。
-可数，搭配 do a headstand。
-跟 handstand 分清：那个只用手撑，这个头也吃力，所以对颈椎的要求高得多。
-① He can still do a headstand at sixty and will show you without being asked.
-= 他六十岁还能头倒立，而且不等你问就演示给你看。
-do a headstand = 做头倒立
-② A headstand against the wall is how everybody starts out.
-= 靠着墙做头倒立，人人都是这么起步的。
-a headstand = 头倒立
-③ Three minutes in a headstand is a great deal longer than it sounds.
-= 头倒立三分钟，比听起来长得多。
-in a headstand = 保持头倒立的姿势
-
-headstone
-核心：墓碑：立在坟头那一端、刻着姓名与生卒年的石碑。可数。
-跟 gravestone 大体同义；平铺在地面的那种叫 ledger stone，
-整座坟上的纪念建筑才是 monument。
-① The headstone leans a little and the lettering is still perfectly sharp.
-= 那块墓碑有点歪了，字迹却依旧清清楚楚。
-the headstone leans = 墓碑歪了
-② They chose a headstone in local slate because granite looked wrong there.
-= 他们挑了块本地板岩的墓碑，因为花岗岩在那儿看着不对。
-choose a headstone = 挑一块墓碑
-③ Two names on one headstone are separated by forty-one years.
-= 同一块墓碑上的两个名字，相隔四十一年。
-names on a headstone = 墓碑上的名字
-
 headstrong
 核心：执拗的、一意孤行的 —— 说人明知有人劝，仍要照自己的意思办。
 贬义偏轻，常带着无奈的欣赏；多用来说年轻人与马。
@@ -605,3 +563,64 @@ heartburn = 烧心
 ③ Two glasses of milk did nothing for the heartburn and he blamed the cheese.
 = 两杯牛奶对烧心毫无用处，他把账算在奶酪头上。
 the heartburn = 那阵烧心
+
+hearten
+核心：使振作、给人鼓舞 —— 及物动词，语气偏书面。
+最常见的是被动与分词形式：be heartened by something（因某事而振作）、
+heartening news（令人振奋的消息）。
+反义是 dishearten（使泄气），那一条另立。
+① The first three replies heartened her enough to send out forty more.
+= 头三份回信让她振作起来，又发出了四十份。
+hearten somebody = 使某人振作
+② They were heartened by a turnout that the forecast had said was impossible.
+= 预测说不可能有那样的出席率，这让他们很受鼓舞。
+be heartened by something = 因某事而振作
+③ It is heartening to see the same four people every single week.
+= 每个星期都见到同样那四个人，这让人心里踏实。
+heartening = 令人振奋的、让人心里踏实的
+
+heartfelt
+核心：衷心的、由衷的 —— 只作定语，说的是话语与情感本身出自真心：
+heartfelt thanks、a heartfelt apology、heartfelt sympathy。
+不说人 heartfelt，也不作表语（不说 his thanks were heartfelt 之外的搭配 ——
+那一式虽有，但极少见）。
+跟 sincere 的分别：sincere 是「不假」，heartfelt 多一分情感的分量。
+① Heartfelt thanks to the two people who stayed until the chairs were stacked.
+= 衷心感谢留到把椅子摞好的那两个人。
+heartfelt thanks = 衷心的感谢
+② A heartfelt apology in the second paragraph does not undo the first.
+= 第二段里一句由衷的道歉，抵不掉第一段。
+a heartfelt apology = 由衷的道歉
+③ Her heartfelt sympathy came with a casserole and no questions.
+= 她由衷的慰问，带来的是一锅炖菜，一个问题也不问。
+heartfelt sympathy = 由衷的慰问
+
+hearth
+核心：两支。一是炉膛前那块石板地 —— 壁炉正前方、火星落得到的地方；
+二是由此引申的「家、家庭」，固定说法是 hearth and home。
+读音要当心：它跟拼法只差一个字母位置的那个「心」字不同音，这个词跟 earth 押韵。
+壁炉前的小地毯叫 hearthrug，并在本条。
+① The hearth is the only part of that cottage that has never been replaced.
+= 那间小屋里唯一没换过的，就是炉前那块石板地。
+the hearth = 炉膛前的石板地
+② One photograph on the mantelpiece holds two centuries of hearth and home.
+= 壁炉架上一张照片，装着两百年的家与炉火。
+hearth and home = 家与炉火（固定说法）
+③ The hearthrug took the worst of every spark and lasted forty years.
+= 那块炉前地毯挨了所有飞出来的火星，用了四十年。
+a hearthrug = 炉前地毯
+
+heartland
+核心：两支。一是（一国的）腹地、核心地带 —— 通常是内陆的农业与工业地区，
+不靠海也不在首都：the industrial heartland。
+二是引申的「基本盘、最稳固的支持地带」：the party's heartland。可数。
+政治报道里的高频词，常带复数（in the heartlands）。
+① The industrial heartland lost four factories in one year and voted accordingly.
+= 那片工业腹地一年里丢了四家工厂，投票也就照这个来了。
+the industrial heartland = 工业腹地
+② She campaigned in the heartland and left the cities to somebody else.
+= 她在基本盘里跑选战，城市交给了别人。
+the heartland = 基本盘、核心支持地带
+③ Support held up in the heartlands and collapsed everywhere else.
+= 支持率在基本盘里稳住了，别处全线崩塌。
+in the heartlands = 在各处基本盘里
