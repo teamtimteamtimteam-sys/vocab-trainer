@@ -140,3 +140,4 @@ hands        hand       # 复数形式，hands down 一类写法的宿主要折�
 he'd         he         # 缩略式（he had / he would），词根只有两个字母，前缀判定认不出
 he'll        he         # 同上（he will）
 he's         he         # 同上（he is / he has）
+held         hold       # 过去式与过去分词，前四字母对不上；hold 在 ho- 段，写到那里才认得上
