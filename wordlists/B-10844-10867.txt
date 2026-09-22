@@ -1,31 +1,3 @@
-headroom
-核心：两支。一是净空高度：头顶到上方障碍物之间的余量 ——
-车里、桥下、楼梯下都用得到；不可数。二是引申的「余量、宽裕」：
-预算、音量、涨价空间都能说 headroom。
-① There is no headroom in the back of that car for anybody over six feet.
-= 那辆车后座的净空高度，六英尺以上的人一概坐不了。
-headroom = 净空高度
-② The sign under the bridge gives the headroom in both metres and feet.
-= 桥下那块牌子把限高用米和英尺各写了一遍。
-give the headroom = 标出限高
-③ The budget has no headroom left for a second round of repairs.
-= 预算里已经没有余量做第二轮维修。
-headroom = 余量、宽裕（引申）
-
-heads-up
-核心：（口语）事先提个醒 —— 一句先打的招呼，让人有准备。可数，
-搭配 give somebody a heads-up、a heads-up about something。
-来自军队与体育的呼喝 Heads up!（抬头当心）；写作两个词 heads up 也见得到。
-① She gave me a heads-up about the second interviewer and it made all the difference.
-= 她事先提醒了我第二位面试官的事，这一下就不一样了。
-give somebody a heads-up = 事先提醒某人
-② A heads-up about the road closure would have saved us an hour.
-= 要是有人先说一声封路的事，我们能省一个钟头。
-a heads-up about something = 关于某事的事先提醒
-③ Heads up — the inspector is on the stairs and has already started counting.
-= 当心，检查员在楼梯上了，已经开始数了。
-Heads up! = 抬头当心（呼喝）
-
 headscarf
 核心：头巾：包在头上、下巴处系住或绕过脖子的一块方巾。可数，
 复数 headscarves（f 变 v，同 scarf）。
@@ -354,6 +326,104 @@ heap praise on somebody = 对某人大加赞扬
 ⑥ A heaped spoonful of that powder is twice what the label intends.
 = 那种粉堆尖的一勺，是标签所指分量的两倍。
 a heaped spoonful = 堆得冒尖的一勺
+
+hear
+核心：**听得见**，不是「去听」—— 这是它跟 listen 的根本分界：
+hear 说的是声音进到了耳朵里（不由自主，所以几乎不用进行时，且常跟 can 连用），
+listen 说的是有意去听（可以用进行时）。I can hear you 对，I am hearing you 不说。
+由这一句往五支推：
+一是听见（hear a noise；hear somebody do／doing something —— 不带 to，
+听全程用原形，只听到一截用分词）；
+二是听说、得知（hear that…、hear about、hear of）；
+三是收到消息（hear from somebody）；
+四是法律上的审理（the court will hear the case）；
+五是听取陈述（hear somebody out 让某人把话说完）。
+三态 hear－heard－heard，过去式读音变短，跟 herd 同音。
+习语：will not hear of it（根本不答应）、hear something on the grapevine
+（辗转听说）、I hear you（我明白你的意思，未必同意）。
+派生的 a hearer（听者）并入本条；hearing 另立词条。
+① She heard the gate from the back of the house and knew at once who it was.
+= 她在屋后就听见了大门的响动，立刻知道是谁。
+hear something = 听见某物
+② I can hear you perfectly well; it is the other line that keeps dropping.
+= 我听你听得一清二楚，是另一条线老断。
+can hear somebody = 听得见某人
+这个义几乎总跟 can 连用，而且不用进行时 —— 听得见是状态，不是动作。
+③ We heard him lock the door and drive away at about two in the morning.
+= 我们听见他锁了门，凌晨两点左右开车走了。
+hear somebody do something = 听见某人做了某事（全过程）
+这里的不定式不带 to：hear him lock，不说 hear him to lock。
+④ They heard somebody moving about upstairs for most of that night.
+= 那一夜大半时间，他们都听见楼上有人在走动。
+hear somebody doing something = 听见某人正在做某事
+用分词说明只听到中间一截，没听全 —— 跟上一条的分别就在这里。
+⑤ I hear that the second shop is closing as well.
+= 我听说第二家店也要关了。
+hear that something = 听说某事
+⑥ She heard about the reorganisation from a supplier and not from her manager.
+= 那次重组，她是从供货商那儿听说的，不是从经理那儿。
+hear about something = 听到关于某事的消息
+⑦ Nobody in that office had ever heard of the man who signed the form.
+= 那间办公室里没人听说过在表上签字的那个人。
+hear of somebody = 听说过某人
+最常用的是否定式 have never heard of somebody。
+⑧ We have not heard from her since the card at Christmas.
+= 圣诞节那张卡片之后，我们再没收到她的消息。
+hear from somebody = 收到某人的消息
+跟 hear of 差得远：of 是听说这个人，from 是这个人捎了信来。
+⑨ The court will hear the case in March and rule some time in July.
+= 法庭三月开庭审理此案，七月里宣判。
+hear a case = 审理案件
+⑩ Hear me out before you decide anything at all.
+= 什么都先别定，让我把话说完。
+hear somebody out = 让某人把话说完
+hear out 的宾语只能插在中间：hear me out、hear her out，不说 hear out me。
+⑪ He would not hear of paying for the taxi and we argued all the way to the door.
+= 他根本不答应付出租车钱，我们一路争到门口。
+will not hear of something = 根本不答应某事
+⑫ She heard it on the grapevine three days before the announcement.
+= 正式宣布前三天，她就辗转听说了。
+hear something on the grapevine = 辗转听说某事
+⑬ I hear you, and I am still going to send the letter.
+= 我明白你的意思，可那封信我还是要寄。
+I hear you = 我明白你的意思（未必同意）
+⑭ Every hearer in that hall took away a different sentence.
+= 那个厅里的每一位听者，记住的都是不同的一句话。
+a hearer = 听者
+比 listener 冷僻得多，主要见于修辞学与旧文本。
+
+hearing
+核心：三支。一是听力、听觉 —— 不可数：lose your hearing、
+hard of hearing（耳背）、within hearing（在听得见的范围内）。
+二是（法律、行政的）听证会、审理，可数：a court hearing、a disciplinary hearing。
+三是「把话说出来的机会」：get a fair hearing。
+复合词 hearing aid（助听器）、hearing dog（助听犬）、hearing loop
+（听力感应线圈）与形容词 hearing-impaired（听力受损的）都并入本条。
+① She lost most of her hearing in one ear and told nobody for a year.
+= 她一只耳朵听力大半没了，一年都没跟人说。
+lose your hearing = 失去听力
+② The hearing lasted four days and produced a document of eleven pages.
+= 那场听证开了四天，出了一份十一页的文件。
+a hearing = 听证会、审理
+③ He never got a fair hearing and said so in print thirty years later.
+= 他始终没得到公正的倾听，三十年后写了出来。
+get a fair hearing = 得到公正的倾听
+④ Say that again within hearing of the person it is about.
+= 你在被议论的那个人听得见的地方再说一遍。
+within hearing = 在听得见的范围内
+⑤ A hearing aid picks up all the wrong things in a room that size.
+= 在那么大的屋子里，助听器收进来的全是不该收的声音。
+a hearing aid = 助听器
+⑥ A hearing dog answers the doorbell and the smoke alarm both.
+= 助听犬既应门铃，也应烟雾报警器。
+a hearing dog = 助听犬
+⑦ The hall has a hearing loop that has not worked since the refit.
+= 那个厅里装了听力感应线圈，翻修之后就没好过。
+a hearing loop = 听力感应线圈
+⑧ Hearing-impaired passengers get the announcement on a screen instead.
+= 听力受损的乘客改从屏幕上看通告。
+hearing-impaired = 听力受损的
+比 deaf 中性、正式；机构文本里多用这一个。
 
 hearken
 核心：倾听、留意 —— 古体与文体用词，今天几乎只活在两处：仿古的祈使

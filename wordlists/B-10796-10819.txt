@@ -1,35 +1,3 @@
-havoc
-核心：不可数，前面不加冠词。指大范围的破坏与混乱 —— 天灾、战争、
-故障、孩子都造得出来。几乎只活在三个搭配里：wreak havoc、
-play havoc with something、cause havoc。
-① The storm wreaked havoc along sixty miles of unprotected coast.
-= 那场风暴把六十英里没有护堤的海岸摧毁殆尽。
-wreak havoc = 造成浩劫
-② A single faulty sensor played havoc with the whole timetable.
-= 一个传感器坏了，把整张时刻表搅得一塌糊涂。
-play havoc with something = 把某事搅得一团糟
-③ Two puppies and an open door caused havoc in the front room.
-= 两只小狗加一扇没关的门，把前厅弄得天翻地覆。
-cause havoc = 造成混乱
-④ The havoc left behind took the village four summers to clear.
-= 留下的那一片狼藉，村子清理了四个夏天。
-havoc = 破坏之后的一片狼藉
-
-haw
-核心：两支，彼此无关。一是山楂果 —— hawthorn 结的小红果，可数；
-二是拟声的犹豫声，只活在 hem and haw（美）与 hum and haw（英）里，
-意思是支支吾吾、拿不定主意。
-① The hedge was red with haws by the end of October.
-= 到十月底，那道树篱上结满了红色的山楂果。
-a haw = 山楂果
-② Birds strip the haws first and leave the rose hips until February.
-= 鸟先把山楂果吃光，蔷薇果要留到二月才动。
-haws = 山楂果（复数）
-③ He hemmed and hawed for a minute and then agreed to every single term.
-= 他支吾了一分钟，随后把每一条条款都答应了。
-hem and haw = 支支吾吾、拿不定主意
-英式写作 hum and haw，意思完全一样。
-
 hawala
 核心：南亚与中东传统的地下汇款方式：汇款人在甲地把钱交给一位经纪人，
 收款人在乙地从另一位经纪人手里取钱，两位经纪人之间只记账、不动钱。
@@ -570,3 +538,32 @@ the head girl = （英）女生学生会主席
 = 头戴式显示器给你一条地平线，却拿走了地板。
 a head-mounted display = 头戴式显示器
 虚拟现实那一路设备的正式名称，缩写 HMD。
+
+headache
+核心：两支。一是头痛 —— 可数，说 have a headache，不说 have headache；
+二是比喻的「头疼事」：难办的问题、麻烦。
+常用搭配：a splitting headache（头痛欲裂）、a tension headache（紧张性头痛）、
+give somebody a headache。口语形容词 headachy 并在本条。
+① She had a splitting headache and read the whole file through anyway.
+= 她头痛欲裂，还是把整份卷宗读完了。
+a splitting headache = 头痛欲裂
+② Parking is the biggest headache in that part of town.
+= 在城里那一带，停车是最头疼的一件事。
+a headache = 头疼事、麻烦
+③ The noise from upstairs gives him a headache by about nine every evening.
+= 楼上的动静每天晚上九点左右就让他头疼。
+give somebody a headache = 让某人头疼
+
+headband
+核心：勒在额头上的一圈带子 —— 运动时吸汗、把头发拦住，也作装饰。可数。
+跟 hairband 的分别很实用：hairband 是弧形发箍，套在头顶把头发往后拢；
+headband 是一圈布带，勒在额前。
+① A headband soaked through in the first set and she played on without it.
+= 一条束额带第一盘就湿透了，她摘下来接着打。
+a headband = 束额带
+② Two players turned up in the same headband and neither would change.
+= 有两名球员戴着同样的束额带出场，谁也不肯换。
+the same headband = 同样的束额带
+③ She pushed the headband up and it left a line across her forehead.
+= 她把束额带往上推，额头上留下一道印子。
+push the headband up = 把束额带往上推
