@@ -9,37 +9,51 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-23，第二十轮）═══
-B 词表 11045 条、义项 40295 条，词典序 a → heyday。A 表 3002 条。
+═══ 现状（2026-09-23，第二十一轮）═══
+B 词表 11089 条、义项 40516 条，词典序 a → highwayman。A 表 3002 条。
   **a–g 七个字母收完**（各段 97% 以上，余下全是待推迟）。
-  **h 字母在写，清单 2044 条**：
-   · **ha- 段收完**：551/566（97%），只剩 15 条待推迟。
-   · **he- 段收完**：417/420（99%）。余下三条都不用管：held 已登进
-     inflections.txt（→ hold），ho- 段写 hold 时自动认上；Heimlich manoeuvre
-     与 heli-skiing 的内容词在 m / s 段。
-     本轮三批：Hebrew → heritage 20 条（含 here 21 义）、hermaphrodite →
-     het up 18 条、hetero- → heyday 16 条，外加 21 条多词条目并进
-     he / health / heart / heaven / hedge / heel / heir / hell / help / her / haw。
-     之前跳过的 heaving / Hebraic / Hebrew 一并补上了。
-   · hi 253 / ho 518 / hu / hy 未动；另有 hg / hl / hm / hp / hr 五个小段。
-  **下一批从 hi- 段起**：hi / hiatus / hibernate / hiccup / hide 一带。
-    动笔前两件事：
-    ① audit-idioms 的 CHECK 先补 hi- 的大词（hide、high、hill、hit、hint、
-      history、hire、hitch…），加之前 grep 一下有没有同名键；
-    ② high 是个大词，**写完 high 当场就把它名下的待推迟并掉** ——
-      coverage 现在把 hi-fi / high-level / high jump 等 94 条报成「待推迟」，
-      只是因为宿主 high 还没有词条。写完它们会自己挪进「待并入」。
-    hg / hl / h.p. / hr 已进 exclude.txt（用户 2026-09-23 确认：小写单位缩写同 cwt 一律剔除）；
-    hm / hmm 是感叹词，要收。
+  **h 字母在写**：
+   · ha- 段 551/566（97%）、he- 段 417/420（99%）都收完，余下全是待推迟
+     （he- 的 held 等 ho- 段写 hold 时自动认上）。
+   · **hi- 段 143/251（56%），最末词条 highwayman，待并入一栏清零。**
+     本轮三批：hi → hieroglyph 25 条（含 hi-def / hi-fi / hi-res / hi-tech /
+     hi-vis 五个缩写，它们只能各自立条 —— coverage 给它们找的宿主只有 hi）；
+     high 一族 5 条（high 78 义，按七支语义架构把挂在它名下的 80 余条
+     复合词归组并进各支，外加 high school / high street / highly 单立）；
+     highball → highwayman 14 条（higher / highly 已登 derived-keep）。
+   · ho 518 / hu / hy 未动；hm 段两条（hm / hmm）也还没写。
+  **下一批从 hijab 起**：hijab、hijack 一族、hijinks、hike 一族、hilarious 一族、
+    **hill**（大词，写完当场并掉 hill station）、hillbilly … hilt、him / himself、
+    hind 一族、hinder / hindrance / hindsight、Hindi / Hindu 一族、Hinglish、
+    **hinge**（并 hinge on / hinge upon）、**hint**、hinterland、**hip**（并
+    hip-hop / hip joint / hip pocket / hip-hugger）、hippie / hippo 一族、
+    **hire**（并 hire out / hire purchase / hire yourself out）、his、Hispanic、
+    hiss（并 hissy fit 已在 fit 条）、hist- 一族与 **history**、
+    **hit**（大词，并 hit-and-run / hit list / hit on / hit out / hit upon…）、
+    **hitch**、hitchhike 一族、hither / hitherto、hitman、hive（并 hive off）、hiya。
+    动笔前先往 audit-idioms 的 CHECK 补 hill / hint / hip / hire / history /
+    hit / hitch 几组（加之前 grep 同名键）。
+    剔除：hijra、history-sheeter 已按地区变体通则进 exclude.txt。
+  **写 hmm 之前要先改尺子**：check-wordlist 的草稿行检查把整行等于 hmm 的
+    当成草稿（DRAFT 元组里有 'hmm'），词头 hmm 本身就会被拦。
+    那是尺子错了，不是词条错了 —— 改成只查首行之外的行，再动笔。
+  **high 已 78 义，离 80 的上限只差两个**：以后别再往里塞；
+    要是回头发现还漏了 high 的复合词，拿具体名词（high chair、high jump、
+    high tide 一类）出去单立，腾出位置。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11045
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11089
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **本地领先 origin 21 笔提交**（2026-09-22 推过一次，之后的都没推，含本次改 GOAL 这一笔）。
+  **本地领先 origin 26 笔提交**（2026-09-22 推过一次，之后的都没推，含本次改 GOAL 这一笔）。
   push 照旧等用户开口。
   g / h 段 177 行 Markdown 加粗已按用户 2026-09-23 裁定全部去掉，
   check-wordlist 从此见 ** 就拦。
+  hg / hl / h.p. / hr 已进 exclude.txt（用户 2026-09-23 确认：小写单位缩写同 cwt 一律剔除）。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
+· **大词的核心块里点了同前缀的另一个词条名，那个词就得本批一起写**：
+  high 核心里讲了跟 highly 的分工，audit-swallowed 报 highly 与 highly strung
+  「被吞掉」—— 把 highly 从第三批提前到第二批才过。写大词核心之前，
+  先把要拿来对比的同前缀词排进同一批。
 · **gates.sh 与 scan-dupes 的词头别用变量传**：Bash 工具跑的是 zsh，
   W="a b c"; gates.sh he $W 会把整串当成一个参数，scan-dupes 只报
   「指定 3 条词头」—— 通道 5 等于没查。词头照字面写全，多词词头加引号
