@@ -9,47 +9,41 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-23，第二十一轮）═══
-B 词表 11089 条、义项 40516 条，词典序 a → highwayman。A 表 3002 条。
+═══ 现状（2026-09-23，第二十二轮）═══
+B 词表 11141 条、义项 40695 条，词典序 a → histrionic。A 表 3002 条。
   **a–g 七个字母收完**（各段 97% 以上，余下全是待推迟）。
   **h 字母在写**：
-   · ha- 段 551/566（97%）、he- 段 417/420（99%）都收完，余下全是待推迟
-     （he- 的 held 等 ho- 段写 hold 时自动认上）。
-   · **hi- 段 143/251（56%），最末词条 highwayman，待并入一栏清零。**
-     本轮三批：hi → hieroglyph 25 条（含 hi-def / hi-fi / hi-res / hi-tech /
-     hi-vis 五个缩写，它们只能各自立条 —— coverage 给它们找的宿主只有 hi）；
-     high 一族 5 条（high 78 义，按七支语义架构把挂在它名下的 80 余条
-     复合词归组并进各支，外加 high school / high street / highly 单立）；
-     highball → highwayman 14 条（higher / highly 已登 derived-keep）。
+   · ha- 段 551/566（97%）、he- 段 417/420（99%）都收完，余下全是待推迟。
+   · **hi- 段 227/251（90%），最末词条 histrionic，待并入一栏清零。**
+     本轮三批：hijab → hindsight 19 条（hill 11 义）、Hindi → Hispanist 21 条
+     （hint、hip、hire 讲清英美分工）、hiss → histrionic 12 条（history 14 义，
+     historic / historical 各讲分界）。hiking 已登 inflections.txt（→ hike）。
    · ho 518 / hu / hy 未动；hm 段两条（hm / hmm）也还没写。
-  **下一批从 hijab 起**：hijab、hijack 一族、hijinks、hike 一族、hilarious 一族、
-    **hill**（大词，写完当场并掉 hill station）、hillbilly … hilt、him / himself、
-    hind 一族、hinder / hindrance / hindsight、Hindi / Hindu 一族、Hinglish、
-    **hinge**（并 hinge on / hinge upon）、**hint**、hinterland、**hip**（并
-    hip-hop / hip joint / hip pocket / hip-hugger）、hippie / hippo 一族、
-    **hire**（并 hire out / hire purchase / hire yourself out）、his、Hispanic、
-    hiss（并 hissy fit 已在 fit 条）、hist- 一族与 **history**、
-    **hit**（大词，并 hit-and-run / hit list / hit on / hit out / hit upon…）、
-    **hitch**、hitchhike 一族、hither / hitherto、hitman、hive（并 hive off）、hiya。
-    动笔前先往 audit-idioms 的 CHECK 补 hill / hint / hip / hire / history /
-    hit / hitch 几组（加之前 grep 同名键）。
-    剔除：hijra、history-sheeter 已按地区变体通则进 exclude.txt。
+  **下一批把 hi- 收尾**：**hit**（大词，按核心词单立一批的写法，
+    写完当场并掉 hit-and-miss / hit-and-run / hit for / hit list / hit on /
+    hit-or-miss / hit out / hit piece / hit squad / hit up for / hit upon /
+    hit with 这十二条待推迟）、hitch、hitchhike（并 hitchhiker / hitchhiking）、
+    hither、hitherto、hitman、hitter、hive（并 hive off）、hiya。
+    动笔前先往 audit-idioms 的 CHECK 补 hit / hitch 两组（加之前 grep 同名键）。
   **写 hmm 之前要先改尺子**：check-wordlist 的草稿行检查把整行等于 hmm 的
     当成草稿（DRAFT 元组里有 'hmm'），词头 hmm 本身就会被拦。
     那是尺子错了，不是词条错了 —— 改成只查首行之外的行，再动笔。
-  **high 已 78 义，离 80 的上限只差两个**：以后别再往里塞；
-    要是回头发现还漏了 high 的复合词，拿具体名词（high chair、high jump、
-    high tide 一类）出去单立，腾出位置。
+  **high 78 义，用户 2026-09-23 裁定不拆**。以后别再往里塞。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11089
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11141
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **本地领先 origin 26 笔提交**（2026-09-22 推过一次，之后的都没推，含本次改 GOAL 这一笔）。
-  push 照旧等用户开口。
+  **2026-09-23 推送过一次**（到 18a3f3cc）；之后本地领先 origin 4 笔提交，
+  含本次改 GOAL 这一笔。push 照旧等用户开口。
   g / h 段 177 行 Markdown 加粗已按用户 2026-09-23 裁定全部去掉，
   check-wordlist 从此见 ** 就拦。
   hg / hl / h.p. / hr 已进 exclude.txt（用户 2026-09-23 确认：小写单位缩写同 cwt 一律剔除）。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
+· **HANDOFF 六之 1b 这一天又栽了三回**（heroic couplet、hijacker、hiker）：
+  可数名词的派生词并进词根时，例句顺手写成复数，单数就认不上。
+  动笔时对每一个并入的可数名词都问一句「单数露过面没有」。
+· **讲解行里写一句「更正式的写法是 X」也算点名**：hinge upon、hired hand
+  都这么被报「被吞掉」。要么给 X 一个义项，要么改用中文说。
 · **大词的核心块里点了同前缀的另一个词条名，那个词就得本批一起写**：
   high 核心里讲了跟 highly 的分工，audit-swallowed 报 highly 与 highly strung
   「被吞掉」—— 把 highly 从第三批提前到第二批才过。写大词核心之前，

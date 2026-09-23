@@ -141,3 +141,5 @@ he'd         he         # 缩略式（he had / he would），词根只有两个�
 he'll        he         # 同上（he will）
 he's         he         # 同上（he is / he has）
 held         hold       # 过去式与过去分词，前四字母对不上；hold 在 ho- 段，写到那里才认得上
+# --- hi- 段（2026-09-23）---
+hiking       hike       # 动名词，词根末尾 e 去掉，前四字母 hiki 对不上 hike；已在 hike 条配例句（go hiking）
