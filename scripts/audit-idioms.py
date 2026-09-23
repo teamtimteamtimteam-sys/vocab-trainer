@@ -805,6 +805,13 @@ CHECK = {
           'hold sway', 'hold all the cards', 'hold your horses', 'get hold of',
           'on hold', 'no holds barred', 'hold a candle to', 'hold the key to',
           'hold still', 'hold office', 'hold hands', 'take hold'],
+ 'hole': ['in the hole', 'pick holes in', 'a square peg in a round hole',
+          'hole up', 'like a hole in the head', 'burn a hole in your pocket',
+          'dig yourself into a hole', 'an ace in the hole', 'hole in one'],
+ 'holiday': ['on holiday', 'go on holiday', 'bank holiday', "a busman's holiday",
+             'the holidays'],
+ 'hollow': ['beat somebody hollow', 'hollow out', 'ring hollow', 'a hollow victory'],
+ 'holy': ['holy of holies', 'holier-than-thou', 'holy water'],
 }
 def main():
     B = {}
