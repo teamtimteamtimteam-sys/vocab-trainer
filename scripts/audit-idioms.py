@@ -852,6 +852,9 @@ CHECK = {
            'put your house in order', 'safe as houses', 'house of cards', 'keep house',
            'set up house', 'move house', 'a full house', 'people who live in glass houses'],
  'household': ['household name'],
+ 'how': ['how about', 'how come', 'how do you do', 'and how', 'how so', 'how dare you',
+         'how on earth', "how's that", 'how about that', 'how-to'],
+ 'howl': ['howl down', 'howls of laughter', 'howls of protest'],
 }
 def main():
     B = {}
