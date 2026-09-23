@@ -9,45 +9,69 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-21，第十八轮）═══
-B 词表 10781 条、义项 39027 条，词典序 a → hazy。A 表 3002 条。
-  **a–g 七个字母都收完了**（各段 97% 以上，余下全是待推迟）。
-  **h 字母在写：清单 2061 条。ha 段 359/576（62%），字母序已推到段尾 hazy**，
-  余下 217 条是段中段的零头，不再按字母顺序，改成按类清。
-  双字母段的规模：ha 576 / he 414 / hi 242 / ho 508 / hu 约 200 /
-  hy 约 90，另有 hg / hl / hm / hp 几条零头。
-  本轮写了三批：**核心词 have 独占一批（46 个义项）**；
-  hav- / haw- / hay- 十七条一段到底（haven 到 haywire）；
-  haz- 七条（hazard / hazardous / haze / hazel / hazelnut / hazing / hazy）
-  外加四条并入（hatband·hatpin·hatter→hat，hatchling·hatchway→hatch，
-  hater·hatred→hate，hauntingly→haunt）。
-  **下一批（ha 段扫尾，按类清，不再按字母序）**：
-   1 大写专名 10 条：Hades / Hadith / Hakka / Hansard / Hanukkah /
-     Hasid / Hasidic / Hasidism / Hausa（都已在 proper-nouns-keep 名单内）；
-   2 hard- 与 half- 两族待并入（各三四十条，写进 hard / half 条里，
-     单数词头＋等式左边单数，复数句降成补充例句 —— HANDOFF 六之 1b）；
-   3 hand / hang / hammer / hair / happy 几族待并入；
-   4 剩下的散条：harbinger / harlot / harpy / harrier / happenstance /
-     haptic / haploid / hara-kiri / haram / harmonium / harum-scarum /
-     haruspex / harvestman / hassium / handsomeness / hardness / hardening 等。
-  之后是 he 段（414 条），大词一路密集：head / hear / heart / heavy /
-  help / high / hit、**hold 按核心词规矩独占一批**、home / hope / hot / house。
+═══ 现状（2026-09-23，第十九轮）═══
+B 词表 10991 条、义项 40043 条，词典序 a → herbivore。A 表 3002 条。
+  **a–g 七个字母收完**（各段 97% 以上，余下全是待推迟）。
+  **h 字母在写，清单 2061 条**：
+   · **ha- 段收完**：551/566（97%），待并入与待新写两栏清零，
+     只剩 15 条待推迟（内容词 jacket / house / line / moustache / valley /
+     store / suit 等都在后面的字母段）。
+   · **he- 段 313/420（74%）**，最末词条 herbivore。
+     已写掉的大词：head（43 义）、heart（34 义）、heavy（24 义）、
+     heat（22 义）、hear（14 义）、hell（12 义）、heel（12 义）、help（11 义）、
+     heaven（11 义），外加 head- 复合词 29 条、heart- 13 条。
+   · hi 242 / ho 508 / hu 约 200 / hy 约 90 未动。
+  **下一批从 Herculean 起**：Herculean、herd（含 herder / herdsman /
+  ride herd on / the herd instinct / follow the herd）、
+  **here 一族**（hereabouts / hereafter / hereby / herein / hereinafter /
+  hereof / hereto / heretofore / hereupon / herewith 那一串法律副词，
+  外加习语 here and there / here and now / neither here nor there /
+  here goes / here you are）、hereditary / heredity / heresy / heretic /
+  heritage、hermit / hero / heroin / heron / herring、hesitate 一族、
+  hetero- 一串、hex- 一串、hey / heyday，he- 就收完了。
+  he- 段里 held 已登进 inflections.txt（→ hold），写到 ho- 段自动认上。
+  audit-idioms 的 CHECK 已为 he- 段摆好十三组（只剩 herd / here 两组还没写到）。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10781
-  新增条目会让 resplit 的均分块整体改名，**那是它按总数均分的正常行为**；
-  check-merged 每批都逐条核过。push 照旧等用户开口。
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10991
+  新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
+  **本地领先 origin 17 笔提交**（2026-09-22 推过一次，之后的都没推，含本次改 GOAL 这一笔）。
+  push 照旧等用户开口。
 
-═══ 本轮新记下的教训 ═══
-· **coverage 认不出派生词时，先想「前四字母对不上」这一条**：
-  has / had 对 have、hatred 对 hate、hazily 对 hazy、havala 对 hawala ——
-  内容明明写在词根条里，却照样报缺。解法是往 reference/inflections.txt
-  里登一行（变形/派生 → 词根），不是给它们单开词条。
-· **写大词之前先补 audit-padding 的 STRONG 表**：have 是四字母词头，
-  可 has / had / hast / hath 一个都不像原形，不补表就全判成「例句里没有词」。
-  go 与 get 当初也是这么补的。
-· audit-padding 的「重复义项」还是老毛病：hayloft ①② 与 haystack ①③
-  都是等式左边剥掉冠词后一模一样。**改等式写出区别，别动尺子**，
-  例句也要跟着改成对得上的形状（sleep in the hayloft、the haystack heated）。
+═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
+· **「写了却认不上」有三种形状**，coverage 与 audit-idioms 都认字面串：
+  ① 前四字母对不上：has / had 对 have、hatred 对 hate、hazily 对 hazy、
+    he'd 对 he（词根两个字母，干脆不看）→ 往 inflections.txt 登一行；
+  ② **带占位词的等式**：写 hammer something out、hear somebody out、
+    help somebody on with something，字面串里就没有 hammer out /
+    hear out / help on with → 在讲解行里补一句带裸形的话，
+    顺带把「宾语只能插在中间」这条语法写清。hand back / hand down /
+    hand off / hand round、go to your head、have a head for 都栽过；
+  ③ 可数名词只以复数出现（hemlines、the hard sciences）→ HANDOFF 六之 1b：
+    单数打头立义项，复数句降成补充例句。
+· **讲解行、注意行、核心块里别用英文点还没写的词的名**。四次全是同一个动作：
+  headache / headband（在 head 核心里）、heading（在 head 讲解行）、
+  headmaster（在 headman 注意别混里）、heart（在 hearth 读音提示里）。
+  **做法：动笔前先 grep 一遍这个词有没有在别处的例句里出现过** ——
+  出现过就能点名（parsley / carnivore / insecticide 都行），
+  没出现过就用中文说（omnivore / pesticide / hexameter 都这么处理了）。
+  养成这个习惯之后连着几批没再被拦。
+· **自己这条里的派生词只报名也会被吞**：hefty 核心里写了 heftily 却没给例句。
+  核心块里点名的每个派生词，正文里都要有它的义项。
+· **大词最容易掉讲解行密度**：heart 34 个义项只配了三行散文，
+  「讲解行/义项」1.44，被 check-wordlist 拦下。义项一多，核心块那点
+  固定开销就摊薄了 —— 大词每一支都要配一行说它怎么来的，不是只给等式。
+· **重复义项仍是老毛病**：hayloft、haystack、headroom、heliport、harelip、
+  harmonium 都是等式左边剥掉冠词后一模一样。改等式写出区别
+  （sleep in the hayloft、give the headroom），例句跟着改，别动尺子。
+· **难写的词最容易滑向元评论例句**：handjob、harlot 都写成过
+  「The word X…」。改成真实用法。
+· **同一个词的两种拼法要各走各的场景**：hark / harken 撞过一次
+  （The design harks back… / The design harkens…）。英美拼法一族
+  （haemat- 对 hemat-）写的时候就要有意识地岔开。
+· 测新写例句的承载力时，别拿 git diff 的新增行算 —— renumber 会重写编号，
+  几千条旧例句会显示成「新增」。正确做法是拿例句正文跟起点提交的
+  全部例句集合相减（2026-09-22 实测：本轮新写 384 条，均 13.35 词 /
+  6.65 额外实词，没有一句低于下限）。
 
 ═══ 眼下在做的另一件事：给拓展块补例句 ═══
 用户 2026-09-11 定：只补 B 表；辨析类（近义对照 / 注意别混 / 注意区别 /
