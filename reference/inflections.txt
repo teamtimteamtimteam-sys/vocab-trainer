@@ -145,3 +145,4 @@ held         hold       # 过去式与过去分词，前四字母对不上；hol
 hiking       hike       # 动名词，词根末尾 e 去掉，前四字母 hiki 对不上 hike；已在 hike 条配例句（go hiking）
 hove         heave      # 航海义的过去式（heave to / hove into view），前四字母对不上；heave 条已有例句
 hm           hmm        # 同一个感叹词的短写，hmm 条里配例句；词根两三个字母，前缀判定认不出
+holier       holy       # 比较级（y→i），前四字母 holi 对不上 holy；holier-than-thou 靠它找到 holy 这个宿主
