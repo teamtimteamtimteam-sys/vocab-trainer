@@ -864,6 +864,10 @@ CHECK = {
  'humour': ['a sense of humour', 'in a good humour', 'humour somebody'],
  'hump': ['over the hump', 'get the hump'],
  'hungry': ['go hungry', 'hungry for'],
+ 'hunt': ['hunt down', 'hunt for', 'job-hunting', 'go hunting', 'hunt high and low'],
+ 'hurry': ['in a hurry', 'hurry up', 'in no hurry', 'hurry on'],
+ 'hurt': ["hurt somebody's feelings", 'it would not hurt', 'feel hurt'],
+ 'hush': ['hush up', 'hush money'],
 }
 def main():
     B = {}
