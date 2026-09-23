@@ -796,6 +796,10 @@ CHECK = {
          'hit the deck', 'a direct hit', 'make a hit with', 'hit and run'],
  'hitch': ['get hitched', 'without a hitch', 'a technical hitch', 'hitch a lift',
            'hitch a ride', 'hitch up'],
+ 'hoarse': ['shout yourself hoarse'],
+ 'hobby': ['hobby horse'],
+ 'hock': ['in hock'],
+ 'hoax': ['a hoax call'],
 }
 def main():
     B = {}

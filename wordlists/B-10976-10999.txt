@@ -497,16 +497,3 @@ contained herein = 本文件所载的
 = 票一个钟头就全卖光了，小剧场的难处恰恰就在这里。
 herein lies the problem = 问题就在于此
 书面倒装，herein 指上文刚说的那件事；也可换成 herein lies the difference。
-
-hereinafter
-核心：here 加 in 加 after，「在下文中」。只见于法律与合同文书，
-最典型的是 hereinafter referred to as（以下简称），给一个长名称定下简称，
-此后全文都用简称。
-① The tenant, hereinafter referred to as the Occupier, shall keep the garden in good order.
-= 承租人（以下简称「占用人」）须保持花园整洁。
-hereinafter referred to as = 以下简称
-合同开头给当事方定简称的固定写法。
-② The dates hereinafter specified may be changed only by written agreement between both parties.
-= 下文规定的日期，只有经双方书面同意才可更改。
-hereinafter specified = 下文规定的
-放在过去分词前面，说的是后面的条文会写明。

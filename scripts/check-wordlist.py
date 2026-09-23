@@ -76,7 +76,8 @@ def parse(path):
         # dominatrix）。三次都是靠「例句缺少译文」间接报出来的，报错文字
         # 指不到真正的原因。这里直接认这些标记，让它一眼就说清是怎么回事。
         DRAFT = ('Hmm', 'hmm', 'TODO', 'todo', 'FIXME', '待改', '草稿')
-        for _, t in b['lines']:
+        # 跳过首行：词头本身就是 hmm 的那一条（hm- 段，2026-09-23）不是草稿。
+        for _, t in b['lines'][1:]:
             ts = t.strip()
             if ts in DRAFT or ts.startswith('Hmm ') or ts.startswith('Hmm，'):
                 e['issues'].append("混进了草稿行：%s" % ts[:20])

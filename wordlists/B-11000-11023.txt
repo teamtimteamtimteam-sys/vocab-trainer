@@ -1,3 +1,16 @@
+hereinafter
+核心：here 加 in 加 after，「在下文中」。只见于法律与合同文书，
+最典型的是 hereinafter referred to as（以下简称），给一个长名称定下简称，
+此后全文都用简称。
+① The tenant, hereinafter referred to as the Occupier, shall keep the garden in good order.
+= 承租人（以下简称「占用人」）须保持花园整洁。
+hereinafter referred to as = 以下简称
+合同开头给当事方定简称的固定写法。
+② The dates hereinafter specified may be changed only by written agreement between both parties.
+= 下文规定的日期，只有经双方书面同意才可更改。
+hereinafter specified = 下文规定的
+放在过去分词前面，说的是后面的条文会写明。
+
 hereof
 核心：here 加 of，「本文件的、关于此事的」。（正式、法律用语）
 放在名词后面，相当于 of this document：the date hereof、the terms hereof。
@@ -376,36 +389,3 @@ the idea was hers = 主意是她的
 = 她的一个朋友九点前给办公室打了两次电话。
 a friend of hers = 她的一个朋友
 这是双重所有格：of 后面要用 hers，不能用 her。
-
-herself
-核心：反身代词，两个用法要分开。
-一是真反身：动作回到主语自己身上（she cut herself），这时不能换成 her。
-二是强调：放在名词后面或句末，强调「本人、亲自」；
-这一支拿掉之后句子照样成立。
-固定说法：by herself（独自、靠自己）、be herself（还是老样子）、
-not be herself（状态不对劲）。
-一处常错：主语与宾语是同一个人时必须用 herself ——
-说 she bought her a coat，意思就变成买给别人了。
-① She taught herself Spanish from a book and two years of radio.
-= 她靠一本书加两年的广播自学了西班牙语。
-teach yourself something = 自学某事
-② The manager herself came down and carried the box out.
-= 经理本人下来，把箱子搬了出去。
-herself = 她本人、亲自（强调用法）
-③ She walked the whole way by herself and told nobody where she was going.
-= 她一个人走完了全程，没告诉任何人要去哪儿。
-by herself = 独自、靠自己
-④ She has not been herself since the second operation.
-= 第二次手术之后，她就一直不大对劲。
-not be herself = 状态不对劲、不像平常的自己
-
-hertz
-核心：赫兹，频率的单位，每秒振动一次为一赫兹。名称来自德国物理学家赫兹的姓。
-复数跟单数同形：fifty hertz，不加 s。缩写 Hz。
-① The electricity supply in Britain runs at fifty hertz, while in North America it is sixty.
-= 英国的电网频率是五十赫兹，北美则是六十赫兹。
-fifty hertz = 五十赫兹
-复数不变形，数字后面照样写 hertz。
-② The hum had a frequency of about forty hertz, too low for most people to notice at first.
-= 那嗡嗡声的频率大约是四十赫兹，低得大多数人一开始都察觉不到。
-a frequency of forty hertz = 四十赫兹的频率

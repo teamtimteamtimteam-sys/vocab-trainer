@@ -10737,6 +10737,10 @@ boot sale = 后备箱旧货集市（英式，全称 car boot sale）
 = 一夜之间车轮上多了个锁车器，到中午罚款翻了一倍。
 a Denver boot = 车轮锁（美式）
 英式说 a wheel clamp；名字来自最早大量使用它的丹佛市。
+⑫ He wore a heavy hobnail boot on his good foot and a slipper on the injured one.
+= 他好的那只脚穿着一只沉重的平头钉靴，受伤的那只穿着拖鞋。
+a hobnail boot = 平头钉靴
+鞋底钉着一排排大头钉，耐磨防滑，旧时的劳工与士兵常穿。
 构词：古法语 bote 靴
 注意地域：
 boot = 汽车后备箱（英式）
@@ -38071,6 +38075,10 @@ choice = 上等的（说食材）
 ⑥ She lives here by choice and could afford to live anywhere else.
 = 她是自愿住在这里的，别处她都住得起。
 by choice = 出于自愿
+⑦ It was Hobson's choice: take the night shift or lose the job altogether.
+= 那是没得选的选择：要么上夜班，要么干脆丢掉这份工作。
+Hobson's choice = 没有选择的选择
+出自十七世纪一个租马的人，他只准顾客牵离门口最近的那匹马。
 构词：法语 chois，与表示挑选的那个动词同源
 注意用法：形容词义只用在食材与货品上。
 

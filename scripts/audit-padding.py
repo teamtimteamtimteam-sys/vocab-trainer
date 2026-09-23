@@ -54,6 +54,9 @@ def dist(a, b):
 STRONG = {'catch': ['caught'], 'buy': ['bought'], 'teach': ['taught'],
           'bring': ['brought'], 'seek': ['sought'], 'think': ['thought'],
           'fight': ['fought'], 'come': ['came'],
+          # 感叹词的短写（2026-09-23）：hm 是 hmm 的另一种拼法，已登 inflections.txt；
+          # 三字母词头关掉了编辑距离兜底，跟 get→got 同一个缘故，只能列表。
+          'hmm': ['hm'],
           'beseech': ['besought'], 'bid': ['bade', 'bidden'], 'are': ['were', 'is', 'am'],
           'bear': ['bore', 'born', 'borne'], 'break': ['broke', 'broken'],
           # get 漏了很久：表里有 beget→begot 却没有 get→got，而三字母词头
@@ -94,6 +97,9 @@ def same_word(t, w, firm=False):
     maker. 会因为 candle 跟 chandler 只差两个字母而被当成真用法放行。
     """
     for cut in cuts_of(t):
+        # 整词相等必是同一个词，不受长度下限限制 —— hmm 的短写 hm 只有两个字母，
+        # 下面那条 len >= 3 会把 STRONG 里登记好的它挡在门外（2026-09-23）。
+        if w == cut: return True
         if len(cut) >= 3 and w.startswith(cut): return True
         # 变形出现在复合词尾部：airborne 里的 borne、handmade 里的 made。
         # 长度收到 4 以上，免得三字母词干到处误命中。
