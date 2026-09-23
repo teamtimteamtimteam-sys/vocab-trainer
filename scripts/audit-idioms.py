@@ -831,6 +831,14 @@ CHECK = {
  'hope': ['hope against hope', 'hope for the best', 'not a hope', 'pin your hopes on',
           'raise hopes', 'dash hopes', 'in the hope of', 'live in hope', 'some hope'],
  'hop': ['hop it', 'on the hop', 'hop to it', 'hop in'],
+ 'horizon': ['on the horizon', 'broaden your horizons'],
+ 'horn': ['blow your own horn', 'lock horns', 'on the horns of a dilemma',
+          'take the bull by the horns', 'pull in your horns'],
+ 'horror': ['horror of horrors', 'in horror'],
+ 'horse': ["straight from the horse's mouth", 'flog a dead horse', 'eat like a horse',
+           'a dark horse', 'put the cart before the horse', 'horses for courses',
+           'look a gift horse in the mouth', 'wild horses', 'change horses in midstream',
+           'a one-horse town', 'on horseback', 'fall off a horse', 'ride a horse'],
 }
 def main():
     B = {}

@@ -554,3 +554,4 @@ holmium      # 稀土元素钬，同 actinium 那条（窄专业）
 holophrasis  # 语言学术语「单词句」，同 ergative 那条（窄专业）
 holophrastic # 同上的形容词
 hoe in       # 澳新口语：狼吞虎咽地开吃 —— 多词词头本身属澳新变体，按地区变体通则剔除（hoe 本身照收）
+hors-d-oeuvre  # hors d'oeuvre 的撇号被洗成连字符的清洗残片，正条已收（同 hadrian's wall 那类）
