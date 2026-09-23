@@ -9,36 +9,43 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-23，第二十八轮）═══
-B 词表 11350 条、义项 41519 条，词典序 a → hospice。A 表 3002 条。
+═══ 现状（2026-09-23，第二十九轮）═══
+B 词表 11381 条、义项 41643 条，词典序 a → houmous。A 表 3002 条。
   **a–g 七个字母收完**（各段 97% 以上，余下全是待推迟）。
   **h 字母在写**：
    · ha- 551/566（97%）、he- 418/420（99%）、hi- 251/251、hm- 2/2，余下全是待推迟。
-   · **ho- 段 362/508（71%），最末词条 hospice**。
-     本轮三批：horizon → hors d'oeuvre 19 条（horn 12 义、horror 8 义）、
-     horse 单立一批（26 义，并掉十一条复合词）、horseback → hospice 18 条。
-     hors-d-oeuvre 是清洗残片，进 exclude.txt。
+   · **ho- 段 426/508（83%），最末词条 houmous**。
+     本轮三批：hospitable → hostler 13 条、hot 单立一批（43 义，并掉二十二条复合词，
+     the hots 与副词 hotly 也并在 hot 里）、hotbed → houmous 17 条。
    · 还没动的：hu 165、hy 115。
-  **下一批从 hospitable 起**：hospitable（并 hospitably）、**hospital**（并 hospital
-    corners / hospital pass / hospital trust，A 表教过 in hospital 对 in the hospital）、
-    hospitalist、hospitality（并 hospitality tray）、hospitalize（并 hospitalization）、
-    **host**、hostage（并 hostage taker / hostage-taking）、hostel、hostelry、hostess、
-    hostile（并 hostile witness）、hostility、hostler，然后 **hot**（大词，单立一批，
-    并 hot air / hot button / hot desk / hot dog / hot flush / hot potato / hot rod /
-    hot-tempered / hot tub / hot up / hot-wire 等一长串）。
+  **下一批从 hound 起**：hound（并 hound dog / hound from / hound out）、houndstooth、
+    **hour**（并 hourglass、hourly 可并可单立）、**house**（大词，单立一批，并 house arrest /
+    house call / house guest / house of God / house-proud / house-warming / house
+    music / house party / house-hunting / house-sit / house-trained / house-broken /
+    house dust mite / house martin / house sparrow / house style / house husband /
+    house officer / house organ / house of cards / household name 等一长串），
+    然后 house- 开头的单词（houseboat … housework）、housing 一族（并 housing
+    association / housing benefit / housing estate…）、hove（已登 inflections）、
+    hovel、hover 一族、**how**（大词，并 how-to）、however、howitzer、howl 一族、howzat。
+    ho- 段就收完了。
   **app 2.0.3 已推送**（例句高亮认得变形，整句不亮 12.6% → 0.9%）。
     改了 inflections.txt 要重跑 python3 scripts/gen-forms.py（第十二道闸门会拦）。
   **high 78 义，用户 2026-09-23 裁定不拆**。以后别再往里塞。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11350
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11381
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **2026-09-23 推送过三次**（最近一次到 adb8af23）；之后本地领先 origin 3 笔提交，
+  **2026-09-23 推送过三次**（最近一次到 adb8af23）；之后本地领先 origin 6 笔提交，
   含本次这一笔。push 照旧等用户开口。
   g / h 段 177 行 Markdown 加粗已按用户 2026-09-23 裁定全部去掉，
   check-wordlist 从此见 ** 就拦。
   hg / hl / h.p. / hr 已进 exclude.txt（用户 2026-09-23 确认：小写单位缩写同 cwt 一律剔除）。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
+· **大词的例句里别顺手用同前缀的另一个词条**：hot ④ 写了 The hotel has a hot tub，
+  coverage 的派生判定看前三四个字母，hotel 就被判成「已收」、从待新写里消失了 ——
+  audit-swallowed 也不报，因为它出现在例句里。这次 hotel 本来就在下一批，没漏；
+  换个没排进计划的词就会无声漏掉（CLAUDE.md 里 car 吞 carriage 那条）。
+  写大词前先想好例句里会不会冒出同前缀的别的词。
 · **截短词别靠 inflections.txt 挂到全称底下**：homie 登成 homeboy 的变形，
   coverage 认了，audit-padding 却报「例句里没有词头」—— 它说得对：
   homie 是截短，不是变形，该单立。inflections.txt 只收真正的变形与拼法变体。
