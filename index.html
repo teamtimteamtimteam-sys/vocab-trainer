@@ -575,7 +575,7 @@ const MULTISENSE_THRESHOLD = 12;   // ≥12 义项算「核心词」，反正考
 const MULTISENSE_STAGE_CAP = 5;    // 核心词永远卡在这一级（30天/L3），不许升到 60/90天
 const DAY_START  = 4;                       // 凌晨 4:00 为一天分界
 const BACKUP_WARN_DAYS = 7;
-const APP_VERSION = "2.0.2";
+const APP_VERSION = "2.0.3";
 
 /* ---------------------------------------------------------------- utils */
 const $ = s => document.querySelector(s);
@@ -955,25 +955,134 @@ const HAS_CJK = /[\u4e00-\u9fff\u3400-\u4dbf]/;
 // 现在：整条词头（含多词与连字符）作为一个整体匹配，词尾变形只在
 // 单个词且长度 ≥4 时才允许，而且只在一句里高亮**第一处** ——
 // 同一个词在句中出现两次，后面那个多半不是本义项要教的用法。
-const INFLECT = "(?:s|es|ed|d|ing|ies|ied|er|est|ly)?";
-function hlRegex(word) {
-  const q = t => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-  const w = String(word || "").trim().toLowerCase();
+// 2026-09-23 第二次重写（用户在 iPad 上报：An hour、cannot、Canned soup、can't
+// 只亮一半）。上一版的毛病有三个：① ≤3 个字母的词头一律不许变形，于是 can 认
+// 不出 canned、a 认不出 an；② 变形只会在词尾硬接后缀，认不出 hop→hopping、
+// hope→hoping、carry→carried、hold→held；③ 右边界卡在撇号前，can't 只亮 can。
+// 现在分两层：
+//   1. 先按「确定的词形」找 —— 原形、规则变形（双写辅音、去 e、y→i、f→ves）、
+//      IRREG 表里的不规则形（scripts/gen-forms.py 生成），外加否定与缩略词尾
+//      （can't、don't、he's）连着一起亮。词形是逐个列出来的，不是通配，
+//      所以三个字母的词头也能放心变形 —— and 不在 a 的词形里。
+//   2. 找不到才退一步，拿词干当前缀去找派生词（allergy→allergist、
+//      book→bookworm、haste→hastily）。这一层只给词干 ≥4 个字母的词头，
+//      免得 car 把 care 抢先涂绿。
+// 多词词头（hold on to、Anderson shelter）每个词都各自展开词形，按顺序连着匹配；
+// 等式左边的占位词（somebody / something / your…）当成可跳过的 0–4 个词。
+// 仍然只高亮句中第一处。
+/* IRREG:BEGIN —— 由 scripts/gen-forms.py 生成，别手改 */
+const IRREG = {"a":["an"],"able":["ably"],"airy":["airily"],"alga":["algae"],"an":["a"],"analysis":["analyses"],"appendix":["appendices"],"apt":["aptly"],"arise":["arose","arisen"],"awake":["awoke","awoken"],"awaken":["awoke"],"bacterium":["bacteria"],"bad":["worse","worst"],"badly":["worse","worst"],"basis":["bases"],"be":["am","is","are","was","were","been","being"],"bear":["bore","borne","born"],"beat":["beaten"],"become":["became"],"beget":["begot","begotten"],"begin":["began","begun"],"behold":["beheld"],"bend":["bent"],"beseech":["besought"],"bid":["bade","bidden"],"bind":["bound"],"bite":["bit","bitten"],"bleed":["bled"],"blow":["blew","blown"],"break":["broke","broken"],"breed":["bred"],"bring":["brought"],"build":["built"],"burn":["burnt"],"busy":["busily"],"buy":["bought"],"cactus":["cacti"],"calf":["calves"],"can":["cannot","can't","canst"],"catch":["caught"],"child":["children"],"choose":["chose","chosen"],"cleave":["cleft","clove","cloven"],"cling":["clung"],"come":["came"],"cosy":["cosily"],"cozy":["cozily"],"creep":["crept"],"crisis":["crises"],"criterion":["criteria"],"cry":["cried"],"curriculum":["curricula"],"datum":["data"],"deal":["dealt"],"defy":["defied"],"die":["dice"],"dig":["dug"],"dive":["dove"],"do":["did","done","does","doing","didn't","doesn't","don't"],"draw":["drew","drawn"],"dream":["dreamt"],"drink":["drank","drunk"],"drive":["drove","driven"],"dry":["dried","drier","driest"],"dwell":["dwelt"],"eat":["ate","eaten"],"edgy":["edgily"],"elf":["elves"],"embolus":["emboli"],"fall":["fell","fallen"],"far":["farther","further","farthest","furthest"],"feed":["fed"],"feel":["felt"],"fight":["fought"],"find":["found"],"flee":["fled"],"fling":["flung"],"fly":["flew","flown","flies"],"foot":["feet"],"forbid":["forbade","forbidden"],"forecastle":["fo'c'sle"],"foresee":["foresaw","foreseen"],"forget":["forgot","forgotten"],"forgive":["forgave","forgiven"],"forgo":["forwent","forgone"],"formula":["formulae"],"forsake":["forsook","forsaken"],"freeze":["froze","frozen"],"fungus":["fungi"],"gay":["gaily"],"get":["got","gotten"],"give":["gave","given"],"glans":["glandes"],"go":["went","gone","goes"],"good":["better","best"],"goose":["geese"],"grind":["ground"],"grow":["grew","grown"],"half":["halves"],"hand":["hands"],"hang":["hung"],"hate":["hatred"],"have":["has","had","having","hasn't","haven't","hadn't","hast","hath"],"hawala":["havala"],"hazy":["hazily"],"he":["he'd","he'll","he's"],"hear":["heard"],"heave":["hove"],"hide":["hid","hidden"],"hike":["hiking"],"hippocampus":["hippocampi"],"hippopotamus":["hippopotami"],"hmm":["hm"],"hold":["held"],"holy":["holier"],"homeopath":["homoeopath","homoeopathy"],"homeostasis":["homoeostasis"],"homey":["homy"],"honour":["honor"],"hoof":["hooves"],"index":["indices"],"keep":["kept"],"kneel":["knelt"],"knife":["knives"],"know":["knew","known"],"larva":["larvae"],"lay":["laid"],"lead":["led"],"leaf":["leaves"],"lean":["leant"],"leap":["leapt"],"learn":["learnt"],"leave":["left"],"lend":["lent"],"lie":["lay","lain","lying"],"life":["lives"],"light":["lit"],"little":["less","least"],"loaf":["loaves"],"lose":["lost"],"louse":["lice"],"make":["made"],"man":["men"],"many":["more","most"],"matrix":["matrices"],"mean":["meant"],"medium":["media"],"meet":["met"],"memorandum":["memoranda"],"mislead":["misled"],"mistake":["mistook","mistaken"],"misunderstand":["misunderstood"],"mouse":["mice"],"mow":["mown"],"much":["more","most"],"nucleus":["nuclei"],"old":["elder","eldest"],"overcome":["overcame"],"overtake":["overtook","overtaken"],"ox":["oxen"],"pay":["paid"],"person":["people"],"phenomenon":["phenomena"],"plead":["pled"],"prove":["proven"],"radius":["radii"],"ride":["rode","ridden"],"ring":["rang","rung"],"rise":["rose","risen"],"run":["ran"],"say":["said","says"],"scarf":["scarves"],"see":["saw","seen"],"seek":["sought"],"seethe":["sod"],"self":["selves"],"sell":["sold"],"send":["sent"],"sew":["sewn"],"shake":["shook","shaken"],"shall":["shan't"],"sheaf":["sheaves"],"shear":["shorn"],"shelf":["shelves"],"shine":["shone"],"shoot":["shot"],"show":["shown"],"shrink":["shrank","shrunk"],"sing":["sang","sung"],"sink":["sank","sunk"],"sit":["sat"],"slay":["slew","slain"],"sleep":["slept"],"slide":["slid"],"sling":["slung"],"slink":["slunk"],"smell":["smelt"],"smite":["smote","smitten"],"sow":["sown"],"speak":["spoke","spoken"],"speed":["sped"],"spell":["spelt"],"spend":["spent"],"spill":["spilt"],"spin":["spun"],"spit":["spat"],"spoil":["spoilt"],"spring":["sprang","sprung"],"stand":["stood"],"stave":["stove"],"steal":["stole","stolen"],"stick":["stuck"],"stimulus":["stimuli"],"sting":["stung"],"stink":["stank","stunk"],"stride":["strode","stridden"],"strike":["struck","stricken"],"string":["strung"],"strive":["strove","striven"],"swear":["swore","sworn"],"sweep":["swept"],"swell":["swollen"],"swim":["swam","swum"],"swing":["swung"],"syllabus":["syllabi"],"take":["took","taken"],"teach":["taught"],"tear":["tore","torn"],"tell":["told"],"thesis":["theses"],"thief":["thieves"],"think":["thought"],"thrive":["throve","thriven"],"throw":["threw","thrown"],"tooth":["teeth"],"tread":["trod","trodden"],"understand":["understood"],"undertake":["undertook","undertaken"],"undo":["undid","undone"],"vertex":["vertices"],"wake":["woke","woken"],"wear":["wore","worn"],"weave":["wove","woven"],"weep":["wept"],"well":["better","best"],"wharf":["wharves"],"wife":["wives"],"will":["won't"],"win":["won"],"wind":["wound"],"withdraw":["withdrew","withdrawn"],"withhold":["withheld"],"withstand":["withstood"],"wolf":["wolves"],"woman":["women"],"wring":["wrung"],"write":["wrote","written"]};
+/* IRREG:END */
+const HL_VOW = "aeiou";
+// 只收不会是真词头的占位词。his / her / one / my 这类在词头里是实词（all-in-one、
+// his and hers），当成占位词会被跳过去 —— 第一版这么放，all-in-one 只亮了 all-in。
+const HL_PH = new Set(["somebody","something","someone","sb","sth","somewhere","one's","oneself",
+  "somebody's","someone's","something's","your","yourself","yourselves"]);
+const HL_TAIL = "(?:n['\u2019]t|['\u2019](?:t|s|ll|re|ve|d|m))?";
+function hlForms(w) {
+  const out = new Set([w]);
+  (IRREG[w] || []).forEach(f => out.add(f));
+  // 带前缀的不规则词：befall→befell、uphold→upheld、outgrow→outgrew
+  if (w.length >= 5 && !IRREG[w]) for (const r in IRREG) {
+    if (r.length >= 3 && w.length - r.length >= 2 && w.endsWith(r) && /^[a-z]+$/.test(r))
+      IRREG[r].forEach(f => { if (/^[a-z]+$/.test(f)) out.add(w.slice(0, w.length - r.length) + f); });
+  }
+  // 两个字母的词头只加复数：ex→exes
+  if (w.length === 2) { out.add(w + "s"); out.add(w + "es"); }
+  // 最基本的复数与过去式词尾对任何 ≥3 字母的词都加，包括带重音与撇号的
+  // （habitués、appliquéd、aperçus、Baha'is）。
+  if (w.length >= 3) ["s", "es", "d", "ed"].forEach(x => out.add(w + x));
+  if (w.length >= 3 && /^[a-z]+$/.test(w)) {
+    const add = x => out.add(x), n = w.length;
+    const last = w[n-1], prev = w[n-2], prev2 = w[n-3];
+    ["s", "es", "ed", "ing", "er", "est", "ly", "ness"].forEach(x => add(w + x));
+    if (last === "e") { const b = w.slice(0, -1); ["d", "r", "st"].forEach(x => add(w + x)); add(b + "ing"); }
+    if (last === "y" && !HL_VOW.includes(prev)) {
+      const b = w.slice(0, -1); ["ies", "ied", "ier", "iest", "ily", "iness"].forEach(x => add(b + x));
+    }
+    if (w.endsWith("ie")) add(w.slice(0, -2) + "ying");
+    if (last === "f") add(w.slice(0, -1) + "ves");
+    if (w.endsWith("fe")) add(w.slice(0, -2) + "ves");
+    if (last === "c") { add(w + "ked"); add(w + "king"); }
+    if (w.endsWith("ic")) add(w + "ally");
+    if (w.endsWith("le") && !HL_VOW.includes(prev2)) add(w.slice(0, -1) + "y");
+    // 辅音-元音-辅音结尾双写：can→canned、hop→hopping、hot→hotter
+    if (!HL_VOW.includes(last) && !"wxy".includes(last) && HL_VOW.includes(prev) && !HL_VOW.includes(prev2))
+      ["ed", "ing", "er", "est", "y"].forEach(x => add(w + last + x));
+  }
+  return [...out].sort((x, y) => y.length - x.length);
+}
+// 重音不敏感：词头多写成不带重音的（bete noire），例句里是 bête noire。
+const HL_ACC = { a: "aàáâäå", c: "cç", e: "eèéêë", i: "iìíîï", n: "nñ", o: "oòóôöø", u: "uùúûü" };
+function hlQuote(t) {
+  return t.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+          .replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+          .replace(/[acenoiu]/g, ch => "[" + HL_ACC[ch] + "]");
+}
+function hlRegex(word, exactOnly) {
+  const w = String(word || "").trim().toLowerCase().replace(/\u2019/g, "'");
   if (!w) return null;
+  // 斜杠不拆：a/c、and/or 是一个整体
   const parts = w.split(/[\s\-\u2010-\u2015]+/).filter(Boolean);
   if (!parts.length) return null;
-  let body = parts.map(q).join("[\\s\\-\\u2010-\\u2015]+");
-  if (parts.length === 1 && parts[0].length >= 4) body += INFLECT;
-  const left  = /^[a-z0-9]/.test(parts[0]) ? "\\b" : "";
-  const right = /[a-z0-9]$/.test(parts[parts.length - 1]) ? "\\b" : "";
-  return new RegExp(left + "(" + body + ")" + right, "i");
+  const SEP = "[\\s\\-\\u2010-\\u2015]+";
+  let body = "", pending = "";
+  parts.forEach((p, i) => {
+    if (HL_PH.has(p) && parts.length > 1) { if (body) pending = "(?:" + SEP + "[\\w'\\u2019\\-]+){0,4}"; return; }
+    const alt = (exactOnly ? [p] : hlForms(p)).map(f => hlQuote(f).replace(/'/g, "['\u2019]")).join("|");
+    body += (body ? pending + SEP : "") + "(?:" + alt + ")" + HL_TAIL;
+    pending = "";
+  });
+  if (!body) return null;
+  // 左边界不用后行断言（旧版 iPad Safari 不支持 (?<!…)），改为捕获前一个字符
+  return new RegExp("(^|[^A-Za-z])(" + body + ")(?![A-Za-z])", "i");
 }
-function hl(sentence, word) {
-  const out = esc(sentence);
+// 第二层：词干当前缀找派生词。去掉词尾的 e / y / ue / le 再比，词干 ≥4 才启用。
+function hlStemRegex(word) {
+  const w = String(word || "").trim().toLowerCase();
+  if (!/^[a-z]+$/.test(w)) {
+    // 多词词头：退到其中最长的那个实词
+    const ps = w.split(/[\s\-\u2010-\u2015]+/).filter(p => /^[a-z]+$/.test(p) && !HL_PH.has(p));
+    if (!ps.length) return null;
+    const longest = ps.sort((a, b) => b.length - a.length)[0];
+    return longest.length >= 4 ? (hlRegex(longest) || hlStemRegex(longest)) : null;
+  }
+  // 三个字母的词头：只认后面至少再跟三个字母的复合词（bed→bedbugs、gun→gunman），
+  // 免得 car 抢 care、pen 抢 pence。
+  if (w.length === 3) return new RegExp("(^|[^A-Za-z])(" + hlQuote(w) + "[a-z]{3,})", "i");
+  // 去掉一个常见后缀当词干，词干 ≥4 才用（derivation→deriv…、celibacy→celib…、
+  // gluteus→glute…）。后缀表从长到短试，取第一个剩得下 4 个字母的。
+  const SUF = ["ation", "ition", "ology", "itis", "ancy", "ency", "ance", "ence", "ical", "ism", "ist",
+               "ity", "acy", "ion", "ant", "ent", "ate", "ive", "ous", "ic", "al", "us", "um", "ia",
+               "ed", "ue", "le", "e", "y"];
+  let stem = w;
+  for (const x of SUF) if (w.endsWith(x) && w.length - x.length >= 4) { stem = w.slice(0, -x.length); break; }
+  if (stem.length < 4) return null;
+  // 词干 ≥6 个字母时前面也允许带前缀（inadmissible、preconfigured、cyberbullying）——
+  // 这么长的词干碰巧撞上别的词的机会很小。
+  const pre = stem.length >= 6 ? "[A-Za-z]*" : "";
+  return new RegExp("(^|[^A-Za-z])(" + pre + hlQuote(stem) + "[a-z]*)", "i");
+}
+// 义项例句先认这个义项的等式（hope against hope 整条亮，而不是句中第二个 hope）。
+// 只挑「左边真含着词头」的那条等式 —— 等式挂歪的（例句是 anaconda，等式教 coil
+// around）不能拿来亮，否则词头反倒不亮。
+function hlSenseKey(notes, word) {
   const re = hlRegex(word);
-  if (!re) return out;
-  try { return out.replace(re, '<span class="hl">$1</span>'); }   // 无 g：只替第一处
-  catch (e) { return out; }
+  if (!re) return null;
+  const eq = (notes || []).find(n => n.t === "eq" && re.test(n.lhs));
+  return eq ? eq.lhs : null;
+}
+function hl(sentence, word, fallback) {
+  const out = esc(sentence);
+  const tries = [word, fallback].filter(Boolean);
+  try {
+    // 三层依次退：词头原样（带缩略词尾）→ 所有词形 → 词干前缀。
+    // 原样优先，免得句中先出现的变形抢了本义项要教的那个原形（It is Tuesday … will be）。
+    for (const t of tries) { const re = hlRegex(t, true); if (re && re.test(out)) return out.replace(re, '$1<span class="hl">$2</span>'); }
+    for (const t of tries) { const re = hlRegex(t); if (re && re.test(out)) return out.replace(re, '$1<span class="hl">$2</span>'); }
+    for (const t of tries) { const re = hlStemRegex(t); if (re && re.test(out)) return out.replace(re, '$1<span class="hl">$2</span>'); }
+  } catch (e) {}
+  return out;
 }
 
 /* ---------------------------------------------------------- 词条渲染 */
@@ -1021,7 +1130,7 @@ window.toggleStar = toggleStar;
 function spkBtn(text, kind) {
   return '<button class="spk' + (kind === "inline" ? " sm" : "") + '" data-say="' + esc(text) + '" aria-label="朗读">' + SPK_SVG + "</button>";
 }
-function renderNotes(notes) {
+function renderNotes(notes, word) {
   if (!notes.length) return "";
   // 拓展块里「等式 + 英文例句 + 中文翻译」是一组：例句里把那条搭配本身
   // 高亮出来，跟义项例句一个待遇。标签行会把上下文断开。
@@ -1030,7 +1139,7 @@ function renderNotes(notes) {
     if (n.t === "eq")    { lastEq = n; return '<div class="eq"><span class="lhs">' + esc(n.lhs) + '</span><span class="eqs">=</span><span class="rhs">' + esc(n.rhs) + "</span></div>"; }
     if (n.t === "gloss") return '<div class="n-gloss">' + esc(n.text) + "</div>";
     if (n.t === "label") { lastEq = null; return '<div class="n-label">' + esc(n.text) + "</div>"; }
-    if (n.t === "en")    return '<div class="n-en">' + (lastEq ? hl(n.text, lastEq.lhs) : esc(n.text)) + "</div>";
+    if (n.t === "en")    return '<div class="n-en">' + (lastEq ? hl(n.text, lastEq.lhs, word) : esc(n.text)) + "</div>";
     return '<div class="n-text">' + esc(n.text) + "</div>";
   }).join("") + "</div>";
 }
@@ -1038,16 +1147,17 @@ function renderWordFull(w) {
   // w.id 为空 = 导入预览里还没入库的词条，不显示星标
   let h = '<div class="wordhead"><div class="w">' + esc(w.word) + "</div>" +
           (w.id != null ? starBtn(w.id) : "") + spkBtn(w.word, "") + "</div>";
-  if (w.head && w.head.length) h += renderNotes(w.head);
+  if (w.head && w.head.length) h += renderNotes(w.head, w.word);
   w.senses.forEach(s => {
     h += '<div class="sense">' +
-         '<p class="ex"><span class="snum">' + NUMS[s.no-1] + "</span> " + hl(s.example, w.word) +
+         '<p class="ex"><span class="snum">' + NUMS[s.no-1] + "</span> " +
+         (k => k ? hl(s.example, k, w.word) : hl(s.example, w.word))(hlSenseKey(s.notes, w.word)) +
          " " + spkBtn(s.example, "inline") + "</p>" +
          (s.translation ? '<p class="tr">' + esc(s.translation) + "</p>" : "") +
-         renderNotes(s.notes) +
+         renderNotes(s.notes, w.word) +
          "</div>";
   });
-  if (w.summary && w.summary.length) h += '<div class="summary">' + renderNotes(w.summary) + "</div>";
+  if (w.summary && w.summary.length) h += '<div class="summary">' + renderNotes(w.summary, w.word) + "</div>";
   return h;
 }
 function speak(text) {

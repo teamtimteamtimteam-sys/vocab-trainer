@@ -34,7 +34,7 @@ run() {                       # run <名字> <命令...>
   fi
   rm -f /tmp/gate.$$
 }
-echo "十一道闸门（段：$segs）"
+echo "十二道闸门（段：$segs）"
 run check-wordlist  python3 scripts/check-wordlist.py 'wordlists/A-*.txt' 'wordlists/B-*.txt'
 for seg in ${segs//,/ }; do
   run "coverage $seg"     python3 scripts/coverage.py "$seg"
@@ -52,5 +52,9 @@ done
 run audit-examples  python3 scripts/audit-examples.py "$@"
 run check-merged    python3 scripts/check-merged.py B
 run audit-derived   python3 scripts/audit-derived.py
+# 第十二道（2026-09-23）：app 例句高亮用的不规则词形表 IRREG 由 gen-forms.py
+# 从 inflections.txt 生成、写死在 index.html 里。inflections.txt 每个字母段都在长，
+# 忘了重跑，iPad 上新登记的变形（held、hooves）就亮不起来 —— 这里拦住。
+run gen-forms       python3 scripts/gen-forms.py --check
 if [ $fail -eq 0 ]; then echo "全部通过"; else echo "有闸门没过 —— 别提交"; fi
 exit $fail

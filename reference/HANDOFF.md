@@ -36,7 +36,7 @@ python3 scripts/check-wordlist.py wordlists/B-XXXX-YYYY.txt   # 先查这一批�
 python3 scripts/renumber.py                                    # 往老词条插过义项就要跑
 python3 scripts/resplit-b.py >/dev/null
 python3 scripts/merge-wordlist.py B 2500 >/dev/null            # 交付文件每份 2500，满了自动顺延
-bash scripts/gates.sh <段> <这批的词头...>                      # 十一道闸门
+bash scripts/gates.sh <段> <这批的词头...>                      # 十二道闸门
 python3 scripts/scan-dupes.py --loose                          # 判重（退出码恒 0，要自己看）
 git add -A && git commit -q -m "..."
 ```
@@ -202,7 +202,16 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
 `index.html` 里的 `APP_VERSION` 与 `sw.js` 里的 `CACHE`，否则装了 PWA 的设备
 拿的还是旧缓存（stale-while-revalidate：打开一次拿旧的、后台更新，第二次才生效）。
 
-已修过的两个，改法可作先例：
+已修过的三个，改法可作先例：
+
+- **例句高亮认不出变形**（2.0.3，2026-09-23 用户在 iPad 上报：An hour、cannot、
+  Canned soup 不亮，can't 只亮一半）。改成先列词形再匹配：原形、规则变形
+  （双写辅音、去 e、y→i、f→ves）、`IRREG` 表里的不规则形，外加 n't / 's 这类
+  缩略词尾连着亮；三层依次退：词头原样 → 所有词形 → 词干前缀（派生词）。
+  义项例句优先亮这个义项自己的等式（hope against hope 整条亮）。
+  `IRREG` 由 `scripts/gen-forms.py` 从 `inflections.txt` 加一张通用不规则表生成，
+  **改了 inflections.txt 要重跑它**（第十二道闸门 `gen-forms --check` 会拦）。
+  体检：`node scripts/audit-highlight.js`，修前整句不亮 12.6%，修后 0.9%。
 
 - **例句高亮**（2.0.2）：老规则只取词头第一个词、再放宽词尾 0–6 个字母，
   `a cappella` 变成匹配 `a[a-z]{0,6}`，把 and/an/about 全涂绿。
