@@ -1663,13 +1663,13 @@ say gesundheit = 说一句「保重」
 gesundheit = 保重（打喷嚏时）
 
 get
-核心：底层只有一句话 —— **从没有到有、从一个状态到另一个状态**。
+核心：底层只有一句话 —— 从没有到有、从一个状态到另一个状态。
 四条主干都是它的变形：
 一是取得：拿到手里，对象可以是东西、消息、分数、病痛（get a letter、get flu）。
 二是变成：当系动词，后面接形容词，重心在「变」不在「是」（get cold）。
 三是到达：人或物挪到某处；home、there、here 直接跟，接名词要用 get to。
 四是促成：让别人做、或让事情成（get somebody to do、get something done）。
-**短语动词几乎全是这四支加一个方向词**：往里 in / into，往外 out / away，
+短语动词几乎全是这四支加一个方向词：往里 in / into，往外 out / away，
 往上 up，往下 down，穿过去 through / across，绕过去 round / around，
 跟上 on / along，落后 behind。认出方向词多半能推出意思；
 推不出的那三个（get at、get away with、get off on）另有来历，底下单列。
@@ -2902,7 +2902,7 @@ list ginseng = 标着人参
 
 Gipsy
 核心：名词兼形容词，吉普赛人。两个拼法并存，Gypsy 更常见，Gipsy 是旧式写法。
-**这个词今天多被认为带冒犯色彩**：正式场合说 Roma 或 Romany，
+这个词今天多被认为带冒犯色彩：正式场合说 Roma 或 Romany，
 英国的旅居群体说 Traveller。小写的 gipsy 另有引申义，指居无定所的人，
 用来说具体的人同样不妥。指民族时大写。
 ① The Gipsy families camped on that field every spring for a century.
@@ -3087,7 +3087,7 @@ give somebody the gist = 把要点告诉某人
 git
 核心：名词，英式俚语的骂人话，蠢货、讨厌鬼 —— 语气比 idiot 重，多用于男性，
 常说 a stupid git、a lazy git、an old git。熟人之间也可带玩笑，但对外人一律是侮辱。
-**认得即可，别拿来用。**（版本管理工具 Git 是另一回事，专名大写。）
+认得即可，别拿来用。（版本管理工具 Git 是另一回事，专名大写。）
 ① He called the referee a stupid git and was asked to leave the ground.
 = 他骂裁判是个蠢货，被请出了球场。
 a stupid git = 蠢货
@@ -3099,16 +3099,16 @@ a lazy git = 懒虫
 an old git = 老家伙
 
 give
-核心：底层是**把自己这边的东西挪到别人那边**。所有义项都是这一句的变形：
+核心：底层是把自己这边的东西挪到别人那边。所有义项都是这一句的变形：
 一是交给（give somebody something / give something to somebody），两种句型
 差在重心：双宾语重心在给的东西，to 那一式重心在收的人。
 二是给出抽象的东西：理由、消息、建议、帮助 —— 中文说「提供」，英语照样用 give。
-三是**give ＋ 动作名词**（give a party、give a speech、give a look、give a laugh）：
+三是give ＋ 动作名词（give a party、give a speech、give a look、give a laugh）：
 把动词变成名词再「给」出去，好处是名词前面能挂修饰语。
 四是不及物的「顶不住」：东西受力弯了、塌了、断了；由此长出 give way 与名词义
 （绳子、安排上的「余量、弹性」）。
 五是致使：把病、麻烦、印象「给」了别人。
-**短语动词按方向词推**：送出去 away，还回去 back，往里屈服 in，散发出去 off，
+短语动词按方向词推：送出去 away，还回去 back，往里屈服 in，散发出去 off，
 分发或耗尽 out，移交或停手 over，举手投降 up，朝着某处开 on to / onto。
 三态不规则：give / gave / given；gave 与 given 都不单立词条，内容都在这里。
 ① He gave his sister the only key and kept none for himself.
@@ -4370,7 +4370,7 @@ a glow-worm = 萤火虫（发光的雌虫）
 glower
 核心：动词，绷着脸瞪、怒视 —— 眉头压着、不出声地瞪人，多跟 at 连用；
 也作名词，指那样一副脸色。
-注意别混：它跟 glow（发光）**不同源**，读音也不同 —— 这里的 ow 读作
+注意别混：它跟 glow（发光）不同源，读音也不同 —— 这里的 ow 读作
 out 里的那个音；拼写只差一个字母，意思毫不相干。
 跟 glare 的分界：glare 是睁大眼直瞪，glower 更沉、更闷，带着一肚子不满。
 ① He glowered at the machine and pressed nothing for a full minute.
@@ -4739,23 +4739,23 @@ gnu = 角马（零复数）
 a herd of gnu = 一群角马
 
 go
-核心：底层只有一句话 —— **离开此处、朝另一处去**。位置、状态、过程三头都算，
+核心：底层只有一句话 —— 离开此处、朝另一处去。位置、状态、过程三头都算，
 所有义项都是这一句的变形：
 一是移动：go to work、go home（home、there、abroad 直接跟，接名词要 go to）。
 二是离开：I must go —— 重心在「不在这儿了」，不在去哪儿。
 三是延伸：路、线、界限通到哪里：the road goes to the coast。
-四是**变成**，当系动词用，而且多半变坏：go bad、go grey、go mad
+四是变成，当系动词用，而且多半变坏：go bad、go grey、go mad
 （对照 come true、come right —— come 那一路多半变好）。
 五是运转与进行：the car won't go、How did it go?
 六是耗掉：时间、钱、体力没了：the money goes on rent。
-七是**归位**：某样东西该放在哪儿：Where do the plates go?
+七是归位：某样东西该放在哪儿：Where do the plates go?
 八是发出声音：the gun went bang。
 九是相配：these colours go、go with something。
 十是 be going to，表打算与预测。
-**短语动词几乎全是这四支加一个方向词**：出去 out，进去 in / into，回去 back，
+短语动词几乎全是这四支加一个方向词：出去 out，进去 in / into，回去 back，
 过去 over / through，下去 down，上去 up，绕着 around / round，跟着 along / with，
 离开 away / off，没有 without。方向词认出来，意思多半推得出来。
-三态不规则：go / went / gone。**been 与 gone 要分**：He has gone to Paris
+三态不规则：go / went / gone。been 与 gone 要分：He has gone to Paris
 （还在那儿）／He has been to Paris（去过又回来了）。
 ① They go to work on the same train and never sit together.
 = 他们坐同一班车去上班，从不坐在一起。
@@ -5209,7 +5209,7 @@ goblin mode = 彻底不修边幅的状态
 
 gobshite
 核心：名词（爱尔兰与英式口语，粗俗），蠢货、满嘴胡话的人 —— 骂的正是
-「话多又没脑子」这一点，语气很重。**认得即可，别拿来用。**
+「话多又没脑子」这一点，语气很重。认得即可，别拿来用。
 构词一看就明白：gob（嘴）加 shite（shit 的爱尔兰与北英拼法）。
 ① He called the manager a gobshite and was off the premises in ten minutes.
 = 他骂经理是个蠢货，十分钟后就被请出了门。
@@ -5356,7 +5356,7 @@ godly
 核心：形容词，虔敬的、敬神的 —— 说人按教义过日子、循规蹈矩，偏书面且略旧。
 名词 godliness 并入本条；反面的 godless（不信神的、无法无天的）与
 godlessness 也在这里，另有 godlike（神一般的）。
-**注意别混**：godly 说的是「敬神」，godlike 说的是「像神」，两者差得远 ——
+注意别混：godly 说的是「敬神」，godlike 说的是「像神」，两者差得远 ——
 说一个人 godlike，夸的是他的气度或本事，不是他的信仰。
 ① A godly life in that village meant church twice on a Sunday.
 = 在那个村子里，敬神的生活意味着周日上两趟教堂。
@@ -5424,7 +5424,7 @@ the goggle-box = 电视机（英式旧称）
 gogo
 核心：这个词几乎只活在 a gogo 里（也写作 à gogo），意思是「多得很、
 要多少有多少」，放在名词后面：food a gogo。从法语借来，口气轻松，略旧。
-**注意别混**：go-go（狂舞的；红火的）是另一个词，带连字符，见 go 条。
+注意别混：go-go（狂舞的；红火的）是另一个词，带连字符，见 go 条。
 ① There was food a gogo at that party and nowhere at all to sit down.
 = 那场聚会上吃的多得很，却没有一处能坐下。
 a gogo = 多得很
@@ -5746,8 +5746,8 @@ golfing holidays = 高尔夫度假
 golliwog
 核心：名词，黑面布偶 —— 十九世纪末童书里的一个角色，后来做成布娃娃，
 在英国流行了大半个二十世纪，也上过果酱罐的商标。
-**这个形象与这个词如今公认带种族歧视色彩**：它的缩略形式是针对黑人的侮辱语，
-博物馆说明、历史讨论与旧书引用之外都不该再用。**认得即可，别拿来用。**
+这个形象与这个词如今公认带种族歧视色彩：它的缩略形式是针对黑人的侮辱语，
+博物馆说明、历史讨论与旧书引用之外都不该再用。认得即可，别拿来用。
 可数，也拼作 gollywog。注意别混：跟感叹词 golly（哎呀）没有关系。
 ① A golliwog on the shelf of that museum is labelled with two paragraphs of context.
 = 那家博物馆架上的一个黑面布偶，旁边配着两段交代来龙去脉的说明。
@@ -5762,7 +5762,7 @@ a golliwog in a book = 书里的黑面布偶
 golly
 核心：感叹词（旧，口语），哎呀、天哪 —— 表示吃惊，语气温和，
 本是避开直呼 God 的委婉说法，跟 gosh 同一路。今天听着老派。
-**注意别混**：它跟 golliwog（那种黑人布偶，如今公认带种族歧视色彩）没有关系，
+注意别混：它跟 golliwog（那种黑人布偶，如今公认带种族歧视色彩）没有关系，
 只是开头相同。
 ① Golly, that queue goes all the way round the corner and back.
 = 哎呀，那队一直排到街角拐过去又折回来。
@@ -5895,18 +5895,18 @@ a goober = 傻乎乎的人
 goober peas = 花生
 
 good
-核心：底层是**合乎标准、令人满意** —— 标准是什么，由上下文定，所有义项都从这里分叉：
+核心：底层是合乎标准、令人满意 —— 标准是什么，由上下文定，所有义项都从这里分叉：
 一是质量高：a good book、good food。
 二是本事好：be good at something（后面接名词或动名词，不接不定式）。
 三是有益：be good for somebody —— 对身体、对处境有好处。
 四是品性善：a good man，也指「厚道、肯帮忙」。
 五是（孩子、动物）听话：be a good girl。
-六是**足量**：a good three hours 不是「好的三小时」，是「足足三小时」，
+六是足量：a good three hours 不是「好的三小时」，是「足足三小时」，
    这一支最容易误读，前面加 a，后面跟数量。
 七是有效、还作数：the ticket is good for a month。
 八是名词：好处与善本身：do good、for the good of everybody、for good（永远）。
 比较级与最高级不规则：good / better / best，各有独立词条，不在这里重复。
-**复合词一大族**：好看（good-looking、good looks）、好脾气（good-natured、
+复合词一大族：好看（good-looking、good looks）、好脾气（good-natured、
 good-tempered、good-humoured）、心地好（good-hearted）、没出息（good-for-nothing）、
 常识（good sense）、名声（good name）。问候语 good morning / good day /
 good evening 也归这一支：省略的是 I wish you a good morning。
@@ -6078,7 +6078,7 @@ goodly
 核心：形容词，两支。一是相当大的、可观的：a goodly sum、a goodly number ——
 这一支今天还在用，多见于书面与半开玩笑的场合；二是（古）美好的、宜人的，
 只在旧文与仿古的句子里出现。
-**注意**：它不是 good 的副词 —— good 的副词是 well，这一条常被弄混。
+注意：它不是 good 的副词 —— good 的副词是 well，这一条常被弄混。
 ① A goodly sum changed hands and neither side put it in writing.
 = 一笔可观的钱易了手，双方都没落到纸上。
 a goodly sum = 一笔可观的钱
@@ -6130,7 +6130,7 @@ goods
 二是（英）铁路运的货：a goods train（美式说 freight train）；
 三是法律用语 goods and chattels，指全部动产。
 习语 deliver the goods 是「拿出真东西、说到做到」。
-**注意**：说「商品」不用单数 good；单数的 good 是「好处」，见 good 条第八支。
+注意：说「商品」不用单数 good；单数的 good 是「好处」，见 good 条第八支。
 ① Electrical goods go back to the shop and never to the maker.
 = 电器退回店里，从不退给厂家。
 electrical goods = 电器商品
@@ -6216,7 +6216,7 @@ google
 词来自那家公司的名字（商标本身大写 Google），因为用得太广而变成通用动词 ——
 这种现象叫商标通名化，同一路的还有 hoover（吸尘）与 xerox（复印）。
 写的时候分开：公司名大写，动作小写。
-**注意别混**：googly（板球的反旋球）与 googol（十的一百次方）都另有来路，各立一条。
+注意别混：googly（板球的反旋球）与 googol（十的一百次方）都另有来路，各立一条。
 ① She googled the address and found three different versions of it.
 = 她搜了那个地址，查出三个不同的版本。
 google something = 搜索某物
@@ -6262,9 +6262,9 @@ write a googol out = 把古戈尔写全
 a googol of something = 古戈尔个某物
 
 gook
-核心：两支，第一支**极具侮辱性**。一是二十世纪几场亚洲战争里，
-美国军人用来称呼当地人的种族蔑称 —— **今天一律视为严重的种族侮辱语，
-除历史引用外绝不可使用，认得即可**；二是（美俚，无冒犯意）黏糊糊的脏东西，
+核心：两支，第一支极具侮辱性。一是二十世纪几场亚洲战争里，
+美国军人用来称呼当地人的种族蔑称 —— 今天一律视为严重的种族侮辱语，
+除历史引用外绝不可使用，认得即可；二是（美俚，无冒犯意）黏糊糊的脏东西，
 跟 goo、gunk 同义。可数与不可数都见。
 ① He called the interpreter a gook and was sent home within the week.
 = 他用那个蔑称叫翻译，一周之内就被遣送回国。
@@ -6278,7 +6278,7 @@ gook = 黏糊糊的脏东西（美俚）
 
 goolie
 核心：名词（英式俚语，粗俗），睾丸 —— 几乎只用复数 goolies，
-多出现在挨了一下、疼得直不起腰的玩笑话里。**粗俗，认得即可。**
+多出现在挨了一下、疼得直不起腰的玩笑话里。粗俗，认得即可。
 习语 have somebody by the goolies 是「捏住某人的要害」，跟中文的「掐住命门」
 一个意思，语气同样不雅。
 ① The ball hit him in the goolies and the game stopped for two minutes.
@@ -6436,7 +6436,7 @@ gorgon
 核心：两支。一是希腊神话里的蛇发女怪 —— 三姐妹中最有名的是美杜莎，
 看她一眼就会变成石头；作神话专名时大写 Gorgon。
 二是（贬，略旧）凶悍吓人的女人。可数。
-**注意别混**：Gorgonzola（一种蓝纹奶酪）跟它毫无关系，那是意大利的地名。
+注意别混：Gorgonzola（一种蓝纹奶酪）跟它毫无关系，那是意大利的地名。
 ① A gorgon on that shield turns the attacker to stone in the story.
 = 故事里盾牌上的蛇发女怪，把来犯者变成了石头。
 a gorgon = 蛇发女怪
@@ -6464,7 +6464,7 @@ serve Gorgonzola = 上戈贡佐拉
 gorilla
 核心：两支。一是大猩猩 —— 非洲的大型类人猿，群居，力气极大，主要吃植物；
 二是（口语，贬）膀大腰圆、动辄动手的人。可数。
-**注意别混**：guerrilla（游击队员）跟它读音几乎一样，拼写与意思却毫不相干 ——
+注意别混：guerrilla（游击队员）跟它读音几乎一样，拼写与意思却毫不相干 ——
 这是英语里最常被写错的一对词。
 ① A gorilla eats for most of the day and moves very little.
 = 大猩猩一天大半时间在吃，动得很少。
@@ -6791,7 +6791,7 @@ the gourd = 那只葫芦
 gourmand
 核心：名词，贪食的人 —— 爱吃而且吃得多。比 glutton 客气些，但仍带一点取笑。
 可数，从法语来。
-**注意别混**：gourmand 说的是「量」，gourmet 说的是「品」——
+注意别混：gourmand 说的是「量」，gourmet 说的是「品」——
 一个吃得多，一个吃得讲究。这两个词常被用混，正式写作里要分清。
 ① A gourmand at that table finished three courses that others had left.
 = 那桌上有个能吃的，把别人剩下的三道菜全解决了。
@@ -6870,7 +6870,7 @@ government
 核心：三支。一是政府，指那一群人：the government has decided；
 二是政体、治理方式：local government、a system of government；
 三是（不可数）统治这件事本身。形容词 governmental 并入本条。
-**一条语法差别要记住**：英式常把 the government 当复数用
+一条语法差别要记住：英式常把 the government 当复数用
 （the government have agreed），美式一律当单数。
 搭配：a coalition government、central government、a government health warning。
 ① The government has decided to keep that road open for another winter.
@@ -6940,8 +6940,8 @@ town and gown = 市民与大学中人
 goy
 核心：名词（从意第绪语借来），非犹太人 —— 犹太人对外族人的称呼。
 复数是 goyim，也见 goys；形容词 goyish。
-**语气要当心**：它在中性与贬义之间只隔一线，取决于谁在说、说给谁听；
-非犹太人自己拿这个词来用，几乎一定会被认为不妥。**认得即可。**
+语气要当心：它在中性与贬义之间只隔一线，取决于谁在说、说给谁听；
+非犹太人自己拿这个词来用，几乎一定会被认为不妥。认得即可。
 ① A goy at that table asked what the candles were for.
 = 那桌上有位非犹太客人，问起那些蜡烛是做什么用的。
 a goy = 非犹太人
@@ -7197,7 +7197,7 @@ graduate
 二是动词，毕业：graduate from university；三是动词（正式），
 graduate to something，升级到更高一档。
 形容词 graduated（分度的；分级的）与名词 graduation（毕业典礼）并入本条。
-**注意英美差别**：英式 graduate 只说大学毕业，美式中学毕业也用它。
+注意英美差别：英式 graduate 只说大学毕业，美式中学毕业也用它。
 ① A graduate of that college runs the museum and two of its rivals.
 = 那所学院的一位毕业生，管着那家博物馆和它的两个对手。
 a graduate of somewhere = 某校的毕业生
@@ -7306,7 +7306,7 @@ gram
 核心：名词，克 —— 质量单位，一千克的千分之一，缩写 g。
 英式旧拼法 gramme 也收，今天一律多写 gram。
 它还是一族单位词的词尾：kilogram、milligram、nanogram。
-**注意别混**：另有一个来路不同的词尾 -gram（telegram、diagram 里的那个），
+注意别混：另有一个来路不同的词尾 -gram（telegram、diagram 里的那个），
 意思是「写下来的东西」，跟重量毫无关系。
 ① A gram of that spice costs more than the dish it goes into.
 = 那种香料一克的价钱，比它要调的那道菜还贵。
@@ -7393,7 +7393,7 @@ granary bread = 麦粒褐面包
 grand
 核心：五支。一是宏伟气派的：a grand house；二是（计划、说法）堂皇的：grand plans；
 三是（英与爱尔兰口语）好极了：That's grand；四是名词（口语），一千镑或一千元，
-**单复数同形**：five grand，不说 five grands；
+单复数同形：five grand，不说 five grands；
 五是做定语构成一族：a grand piano、a grand slam、a grand jury、a grand total。
 副词 grandly 与名词 grandness 并入本条。
 ① A grand house with eleven bedrooms costs more to heat than to buy.
@@ -7749,7 +7749,7 @@ grapefruit
 核心：名词，西柚、葡萄柚 —— 大个的酸味柑橘，切半挖着吃，也榨汁。
 单复数同形（two grapefruit），加 -s 也通。
 名字里的 grape 说的是它结果时像葡萄一样成串挂在枝上，跟葡萄本身无关。
-**要紧的一条**：西柚汁会影响多种常用药的代谢，药盒上常专门写着不要同服。
+要紧的一条：西柚汁会影响多种常用药的代谢，药盒上常专门写着不要同服。
 ① Half a grapefruit and black coffee was breakfast for eleven years.
 = 半个西柚加一杯黑咖啡，做了十一年的早餐。
 half a grapefruit = 半个西柚
@@ -7840,7 +7840,7 @@ graphic
 带着警告的意味；二是形容词，图形的、绘画的：graphic design；
 三是名词 graphics，图形、画面，也指电脑生成的图像。
 副词 graphically 与形容词 graphical 并入本条。
-**注意语气**：说一段描述 graphic，几乎总带负面暗示；夸一幅画好看不能用它。
+注意语气：说一段描述 graphic，几乎总带负面暗示；夸一幅画好看不能用它。
 ① He described the accident in graphic detail and two people left the room.
 = 他把那场事故讲得极其露骨，两个人离了席。
 graphic detail = 露骨的细节
@@ -7867,7 +7867,7 @@ a graphic novel = 图像小说
 graphite
 核心：名词，石墨 —— 碳的一种形态，软、滑、导电，铅笔芯、润滑剂与电极都用它。
 不可数。
-**要记的一条**：铅笔里从来没有铅 —— 那是早年把石墨误当成一种铅矿留下的叫法，
+要记的一条：铅笔里从来没有铅 —— 那是早年把石墨误当成一种铅矿留下的叫法，
 英语里 pencil lead 这个说法至今还在，错的只是名字。
 ① Graphite in a pencil is mixed with clay to make it harder or softer.
 = 铅笔里的石墨掺了黏土，靠比例调软硬。
@@ -7881,7 +7881,7 @@ graphite electrodes = 石墨电极
 
 graphology
 核心：名词，笔迹学 —— 声称能从笔迹看出性格的一套做法。不可数。
-**要紧的一条**：主流心理学不承认它有科学依据，可仍有雇主拿它做招聘参考，
+要紧的一条：主流心理学不承认它有科学依据，可仍有雇主拿它做招聘参考，
 所以这个词今天多出现在有争议的报道里。
 注意别混：forensic handwriting analysis（司法笔迹鉴定）查的是笔迹真伪，
 是另一门正经手艺。
@@ -8010,7 +8010,7 @@ grate
 核心：三支。一是动词，擦碎、磨碎：grate cheese；二是动词，刺耳、让人心烦：
 grate on somebody；三是名词，炉箅子 —— 壁炉里托着柴火的那副铁架。
 名词 grater（擦子）与 grating（格栅；也作形容词，刺耳的）并入本条。
-**注意别混**：grate 跟 great 同音，拼错是常事；意思上一个是磨擦，一个是伟大。
+注意别混：grate 跟 great 同音，拼错是常事；意思上一个是磨擦，一个是伟大。
 ① Grate the cheese first or it melts into one solid lump.
 = 先把奶酪擦碎，不然会化成硬邦邦一坨。
 grate cheese = 擦碎奶酪
@@ -8031,7 +8031,7 @@ grateful
 核心：形容词，感激的 —— be grateful to somebody for something；
 另有一个正式请求的客套格式：I would be grateful if you could…
 副词 gratefully 并入本条。
-**注意别混两组**：grateful 是人心里感激，gratifying 是事情令人欣慰（见 gratify 条）；
+注意别混两组：grateful 是人心里感激，gratifying 是事情令人欣慰（见 gratify 条）；
 thankful 偏「庆幸没出事」，grateful 偏「感谢谁做了什么」。
 ① She was grateful to the neighbour for a lift she had not asked for.
 = 邻居没等她开口就捎了她一程，她很感激。
@@ -8047,7 +8047,7 @@ gratify
 核心：动词（正式），两支。一是使满意、使高兴：be gratified by something；
 二是满足（欲望、好奇）：gratify a desire。
 名词 gratification、形容词 gratified 与 gratifying、副词 gratifyingly 并入本条。
-**注意分工**：人是 gratified（觉得欣慰），事是 gratifying（令人欣慰）；
+注意分工：人是 gratified（觉得欣慰），事是 gratifying（令人欣慰）；
 跟 grateful（感激）不是一回事，那一条另有词条。
 搭配 instant gratification（即时满足）在讨论习惯与消费时用得很多。
 ① The size of the crowd gratified everybody except the caretaker.
@@ -8301,7 +8301,7 @@ gray
 核心：grey 的美式拼法，意思完全一样：灰色、灰白的、阴沉的。
 美国写 gray，英国写 grey，其余英语地区多跟英式。派生词跟着走：
 美式 grayish、grayscale、graybeard，英式 greyish、greyscale、greybeard。
-**只有一个例外**：那种狗两岸都写 greyhound，从不写 grayhound。
+只有一个例外：那种狗两岸都写 greyhound，从不写 grayhound。
 ① A gray sky over that coast is the default from November to March.
 = 十一月到三月，那片海岸的天空默认就是灰的。
 a gray sky = 灰色的天空
@@ -8344,8 +8344,8 @@ grease
 三是动词，抹油、上润滑脂：grease the tin。不可数。
 形容词 greasy、名词 greasepaint（油彩）并入本条。
 两条习语：grease somebody's palm 是塞钱行贿，elbow grease 是卖力气擦。
-另有 greaseball：**极具侮辱性的种族蔑称**，本义「一身油的人」，
-二十世纪起用来侮辱南欧与拉美裔，**认得即可，绝不可使用**。
+另有 greaseball：极具侮辱性的种族蔑称，本义「一身油的人」，
+二十世纪起用来侮辱南欧与拉美裔，认得即可，绝不可使用。
 ① Grease on that pan needs hot water and a great deal of patience.
 = 那口锅上的油垢，要用热水，还要极大的耐心。
 grease = 油脂、油垢
@@ -8449,7 +8449,7 @@ the grebe = 那只䴙䴘
 Grecian
 核心：形容词，古希腊式的 —— 只说样式与外形：a Grecian urn、Grecian style、
 a Grecian nose（鼻梁与额头连成一条直线）。大写。
-**注意别混**：说国籍、语言与现代希腊的一切都用 Greek；
+注意别混：说国籍、语言与现代希腊的一切都用 Greek；
 Grecian 只用于风格造型，而且多半带着古典艺术的联想。
 ① A Grecian urn on that shelf is a copy made in the nineteenth century.
 = 架上那只希腊式瓮，是十九世纪的仿制品。
@@ -8674,7 +8674,7 @@ greenhouse gases = 温室气体
 Greenwich
 核心：专名，格林尼治 —— 伦敦东南的一个区，本初子午线与皇家天文台所在地，
 世界时间的基准由此而来：Greenwich Mean Time，缩写 GMT。
-**注意读音**：中间的 w 不发音，读作 GREN-ich 或 GRIN-ij —— 照字面读会露怯。
+注意读音：中间的 w 不发音，读作 GREN-ich 或 GRIN-ij —— 照字面读会露怯。
 美国有几个同名的地方，读法不尽相同。
 ① Greenwich Mean Time is still the reference even where nobody uses it.
 = 就算没人用它，格林尼治标准时仍是基准。
@@ -8783,7 +8783,7 @@ grey
 三是（天气）阴沉：a grey morning；四是比喻，界限不清的：a grey area。
 名词 greyness、形容词 greyish、grey-haired 与名词 greybeard、greyscale
 并入本条；狗的品种 greyhound 也在这里。
-**拼写**：英式 grey，美式 gray（另立一条）；**唯独 greyhound 两岸都写 grey**。
+拼写：英式 grey，美式 gray（另立一条）；唯独 greyhound 两岸都写 grey。
 ① A grey suit and a blue shirt is the whole of his wardrobe.
 = 一套灰西装加一件蓝衬衫，就是他全部的衣柜。
 a grey suit = 灰西装
@@ -8899,7 +8899,7 @@ a grievance procedure = 申诉程序
 grieve
 核心：两支。一是（因丧失而）悲痛：grieve for somebody、grieve over something；
 二是（正式）使某人难过：it grieves me to say。动名词 grieving 并入本条。
-**要点**：英语里 grieve 专指丧失之后的那一段过程 —— 所以才有 a grieving family、
+要点：英语里 grieve 专指丧失之后的那一段过程 —— 所以才有 a grieving family、
 the grieving process 这类说法；一般的难过不用它。
 ① She grieved for her brother in a way nobody else in that family could.
 = 她为哥哥的哀痛，那家里别人谁也做不到。
@@ -8916,7 +8916,7 @@ grievous
 副词 grievously 并入本条。
 法律上最常见的固定搭配是 grievous bodily harm（重伤害，缩写 GBH），
 那是英国刑法里的罪名。
-**注意读音**：只有两个音节，GREE-vus；读成三音节的 grievious 是错的，也拼不出。
+注意读音：只有两个音节，GREE-vus；读成三音节的 grievious 是错的，也拼不出。
 ① A grievous mistake in the first week cost them the whole season.
 = 头一周一个严重的失误，毁掉了他们整个赛季。
 a grievous mistake = 严重的失误
@@ -8960,8 +8960,8 @@ grill
 核心：三支。一是动词，烤：grill the fish；二是名词，烤架、烤炉，也指烧烤拼盘
 与烧烤店：a mixed grill；三是（口语）盘问：grill somebody about something。
 名词 grilling（一顿盘问）并入本条。
-**注意别混**：grille（格栅）跟它同音，只多一个 e，是另一个词，另立一条。
-**英美差别**：英式的 grill 是从上方加热，美式管那叫 broil；
+注意别混：grille（格栅）跟它同音，只多一个 e，是另一个词，另立一条。
+英美差别：英式的 grill 是从上方加热，美式管那叫 broil；
 美式的 grill 指户外炭火烤，英式那叫 barbecue。
 ① Grill the fish for four minutes and leave the skin alone.
 = 那条鱼烤四分钟，鱼皮别去动它。
@@ -8980,7 +8980,7 @@ grille
 核心：名词，格栅 —— 金属或木头做的栅格，装在窗、门、车头或柜台前面，
 用来通风、防护，或者隔着它说话：a radiator grille、a ticket grille。可数。
 从法语来，词尾的 e 不发音，跟 grill（烤）同音，这是它最容易被写错的地方。
-**分工**：烤用 grill，栅格用 grille；美式有时把栅格也写成 grill，
+分工：烤用 grill，栅格用 grille；美式有时把栅格也写成 grill，
 正式文本里仍把两者分开。
 ① A radiator grille that shape is the only part anybody recognizes.
 = 那种形状的散热格栅，是整辆车里唯一认得出来的部件。
@@ -9082,7 +9082,7 @@ grind
 核心：五支，外加三条习语。一是磨碎：grind coffee；二是磨快、磨平：grind a blade；
 三是（牙齿）磨得咯咯响：grind your teeth；四是摩擦作响地动，多用 grind to a halt；
 五是名词（口语），苦差事：the daily grind。
-**三态不规则：grind / ground / ground** —— 过去式跟「地面」那个 ground 同形。
+三态不规则：grind / ground / ground —— 过去式跟「地面」那个 ground 同形。
 名词 grinder、grindstone 与形容词性的 grinding 并入本条。
 习语：have an axe to grind（心里揣着私心）、keep your nose to the grindstone（埋头苦干）。
 ① They grind the coffee at the counter and the smell reaches the street.
@@ -9125,7 +9125,7 @@ grind out something = 艰难地做出某物
 gringo
 核心：名词（从拉美西班牙语借来），外国佬 —— 拉丁美洲对外国人、
 尤其是美国白人的称呼。复数 gringos。
-**语气要当心**：从半开玩笑到明显轻蔑都有，全看谁在说、对谁说；
+语气要当心：从半开玩笑到明显轻蔑都有，全看谁在说、对谁说；
 外来者自称 gringo 是自嘲，拿它称呼别人则要看关系。
 ① A gringo who speaks the language gets a different price at the market.
 = 会说当地话的外国佬，在市场上拿到的是另一个价。
@@ -9140,7 +9140,7 @@ call yourself a gringo = 自称外国佬
 griot
 核心：名词，格里奥 —— 西非世代相传的说唱艺人：背家族谱系、讲历史、
 在婚丧场合唱诵，兼做乐师与调停人。可数，经法语进入英语。
-**要点**：他不只是歌手 —— 这一行的活儿是「把一个族群的记忆背在身上」，
+要点：他不只是歌手 —— 这一行的活儿是「把一个族群的记忆背在身上」，
 这也正是这个词进入英语、没被 singer 取代的原因。
 ① A griot can recite nine generations of a family without a single note.
 = 一位格里奥不看任何笔记，就能背出一家九代人。
@@ -9208,7 +9208,7 @@ Constant griping about the rota changed nothing and soured the whole shift.
 grisly
 核心：形容词，血腥可怖的 —— 说凶案、事故与它们的细节：grisly details、
 a grisly discovery。
-**注意别混**：跟 grizzly（灰白的；灰熊）只差一个字母，读音也近，意思却毫不相干 ——
+注意别混：跟 grizzly（灰白的；灰熊）只差一个字母，读音也近，意思却毫不相干 ——
 grizzly bear 里那个词说的是毛色。
 跟 gruesome 基本同义，两个词常常换着用。
 ① Grisly details of that case filled two pages of every paper.
@@ -9369,7 +9369,7 @@ leave somebody groggy = 让某人昏昏沉沉
 groin
 核心：两支。一是腹股沟 —— 大腿根与腹部相接的那一块，运动伤病里常说：
 a groin strain；二是（建筑）穹棱 —— 两个拱顶相交处的棱线：a groin vault。可数。
-**注意别混**：海边那种防沙的短堤，英式拼作 groyne，美式却写成 groin ——
+注意别混：海边那种防沙的短堤，英式拼作 groyne，美式却写成 groin ——
 两个词各有条目，读音相同。
 ① A groin strain kept him out for six weeks and came back in April.
 = 腹股沟拉伤让他缺阵六周，四月又犯了。
@@ -9414,7 +9414,7 @@ groom
 核心：四支。一是给马梳刷：groom a horse；二是打理仪容：well groomed；
 三是培养（接班人）：groom somebody for something；
 四是名词，马夫，以及 bridegroom 的简称 —— 新郎。
-**要紧的一支**：groom 还指成年人为性侵而诱哄未成年人；名词 grooming
+要紧的一支：groom 还指成年人为性侵而诱哄未成年人；名词 grooming
 在新闻与法律语境里几乎专指这个意思，用这个词前要看清上下文。
 名词 groomsman（伴郎）与形容词 groomed 并入本条。
 ① She grooms the horses before anybody else in the yard is awake.
@@ -9602,7 +9602,7 @@ ground
 二是（某种用途的）场地：a football ground；三是复数 grounds，宅院、庭园；
 四是理由、根据，多用复数：grounds for an appeal；五是领域、话题：
 cover a lot of ground；六是动词，使停飞、禁足；七是（美式）电气上的接地，
-英式那叫 earth。**另外它还是 grind 的过去式与过去分词**（见 grind 条）。
+英式那叫 earth。另外它还是 grind 的过去式与过去分词（见 grind 条）。
 习语：break new ground、get off the ground、stand your ground、
 common ground、on the ground（实地、一线）。
 形容词 groundless、名词 grounding / groundwater / groundsheet / groundsman /
@@ -9808,7 +9808,7 @@ group work = 小组作业
 groupie
 核心：名词（口语，多带贬义），追星族 —— 跟着乐队跑、想接近成员的粉丝；
 最初专指女性追随者，今天也泛指某个圈子里的狂热跟随者。可数。
-**语气要当心**：用它说别人不客气，说女性尤其容易冒犯；说自己是谁的 groupie
+语气要当心：用它说别人不客气，说女性尤其容易冒犯；说自己是谁的 groupie
 则是自嘲，那没问题。
 ① A groupie in that story follows the tour for a year and writes a book.
 = 那个故事里的追星族跟着巡演跑了一年，写成一本书。
@@ -9837,7 +9837,7 @@ spot groupthink = 看出群体迷思
 
 grouse
 核心：三支，前一支与后两支来路不同，只是碰巧同形。
-一是松鸡 —— 荒原上的猎禽，**单复数同形**：two grouse；英国的松鸡狩猎季
+一是松鸡 —— 荒原上的猎禽，单复数同形：two grouse；英国的松鸡狩猎季
 从八月十二日开始，那一天叫 the Glorious Twelfth。
 二是动词（口语），发牢骚：grouse about something；三是名词，一桩牢骚。
 ① Grouse on that moor are counted in spring and shot in August.
@@ -9898,7 +9898,7 @@ grow
 三是（数量、规模）增长；四是（逐渐）变成，作系动词：grow tired、grow old；
 五是留（头发、胡子）：grow your hair；六是（较新的及物用法）把生意做大：
 grow the business。
-**三态不规则：grow / grew / grown。**
+三态不规则：grow / grew / grown。
 短语动词：grow up（长大；成熟点）、grow on somebody（越来越讨人喜欢）、
 grow out of（长大而不再适合；由…发展而来）、grow into（慢慢胜任、长成）、
 grow apart（渐行渐远）。
@@ -10124,7 +10124,7 @@ gruff
 核心：两支。一是（嗓音）低沉粗哑的：a gruff voice；
 二是（态度）生硬不客气的 —— 往往只是嘴硬：a gruff manner。
 副词 gruffly 并入本条。
-**语气要点**：说人 gruff 多半带着理解甚至亲切 —— 表面凶，心里不坏；
+语气要点：说人 gruff 多半带着理解甚至亲切 —— 表面凶，心里不坏；
 真要说人不友善，用 rude 或 abrupt。
 ① A gruff voice on the telephone turned out to belong to his daughter.
 = 电话里那个低沉粗哑的嗓音，原来是他女儿的。
@@ -10279,7 +10279,7 @@ guarantee
 核心：四支。一是名词，保修、质保：a two-year guarantee；二是名词，保证、担保：
 a guarantee of something；三是动词，保证、担保：guarantee that…；
 四是（金融）为他人债务作保。名词 guarantor（担保人）并入本条。
-**注意拼写**：中间是 -ran-，常被写成 garantee；另有一个同义词 warranty，
+注意拼写：中间是 -ran-，常被写成 garantee；另有一个同义词 warranty，
 多用于商品保修的正式文本。
 ① A two-year guarantee covers the motor and nothing that touches water.
 = 两年保修管电机，凡是沾水的一概不管。
@@ -10444,7 +10444,7 @@ a guernsey = 渔夫厚毛衣
 guerrilla
 核心：名词与形容词，游击队员、游击的：guerrilla warfare、a guerrilla group。可数。
 也拼作 guerilla（少一个 r），两种都收，双 r 更正规。
-**注意别混**：跟 gorilla（大猩猩）读音几乎一样，这是英语里最常被写错的一对。
+注意别混：跟 gorilla（大猩猩）读音几乎一样，这是英语里最常被写错的一对。
 引申用法 guerrilla marketing、guerrilla gardening 指「不打招呼就干、
 出其不意」的做法。
 ① Guerrilla warfare in that terrain beat an army ten times the size.
@@ -10685,7 +10685,7 @@ guilt
 核心：三支。一是内疚：feel guilt；二是（法律上的）罪责：admit guilt；
 三是搭配 a guilt trip，指专拿话让人内疚的那一套。
 副词 guiltily 与形容词 guiltless 并入本条；guilty 另立一条。
-**跟 shame 的分界很实用**：guilt 是「我做了坏事」，shame 是「我这个人不好」。
+跟 shame 的分界很实用：guilt 是「我做了坏事」，shame 是「我这个人不好」。
 ① She felt guilt about a decision that had been made for her.
 = 一个并非她做的决定，却让她内疚。
 feel guilt = 感到内疚
@@ -10712,7 +10712,7 @@ guilty
 核心：三支。一是（法律）有罪的：be found guilty；二是内疚的：
 feel guilty about something；三是两个搭配：a guilty conscience（良心不安）、
 a guilty pleasure（明知不该却享受的小乐子）。
-**句型要记牢**：guilty of something 是犯了某罪，guilty about something 是为某事内疚 ——
+句型要记牢：guilty of something 是犯了某罪，guilty about something 是为某事内疚 ——
 换了介词就是两回事。
 ① He was found guilty on two counts and walked out the same afternoon.
 = 他两项罪名成立，当天下午就走出了法庭。
@@ -10747,7 +10747,7 @@ guinea fowl = 珍珠鸡
 
 Guinean
 核心：形容词与名词，几内亚的、几内亚人，大写。
-**要分清三个国家**：Guinea（几内亚）、Guinea-Bissau（几内亚比绍）、
+要分清三个国家：Guinea（几内亚）、Guinea-Bissau（几内亚比绍）、
 Equatorial Guinea（赤道几内亚）；至于 Papua New Guinea，它在另一个大洋上，
 跟这几个毫无关系，只是名字同源。
 ① A Guinean passport and a boat ticket took him as far as Dakar.
@@ -10778,7 +10778,7 @@ guise
 核心：名词（正式），外表、名目 —— 几乎只出现在两个格式里：
 in the guise of something（以…的面目出现）与 under the guise of something
 （打着…的幌子）。可数。
-两个格式语气不同：in the guise of 中性，under the guise of **一定带贬义** ——
+两个格式语气不同：in the guise of 中性，under the guise of 一定带贬义 ——
 说的是借口。
 ① The same tax came back in the guise of a service charge.
 = 同一笔税，换了个「服务费」的名目又回来了。
@@ -10794,7 +10794,7 @@ guitar
 核心：名词，吉他。名词 guitarist（吉他手）并入本条。
 常见搭配：an acoustic guitar（原声吉他）、an electric guitar（电吉他）、
 a bass guitar（贝斯）。
-**句型要记**：说会演奏某种乐器用定冠词 —— play the guitar，
+句型要记：说会演奏某种乐器用定冠词 —— play the guitar，
 跟 play football 那类不带冠词的球类正好相反。
 ① He plays the guitar badly and writes songs that do not need it.
 = 他吉他弹得不好，写的歌也用不上它。
@@ -11214,7 +11214,7 @@ old gunny = 旧麻布
 
 gunwale
 核心：名词（航海），舷缘 —— 船帮的上沿，桨架与缆桩多装在这里。可数。
-**注意读音**：它不按字面读，而是读作 GUN-uhl —— 正因如此才有了照读音拼的
+注意读音：它不按字面读，而是读作 GUN-uhl —— 正因如此才有了照读音拼的
 gunnel（另立一条）。
 习语 full to the gunwales 是满到不能再满。
 ① The gunwale is what everybody grabs when the boat turns.
@@ -11510,7 +11510,7 @@ gutter = （火苗）摇曳将熄
 guttural
 核心：形容词（语音与描写），喉音的、从喉咙深处发出的：a guttural voice。
 也用作名词，指喉音。
-**注意语气**：说一门语言 guttural，常常带着偏见 —— 这个词被用来贬低
+注意语气：说一门语言 guttural，常常带着偏见 —— 这个词被用来贬低
 德语、阿拉伯语与荷兰语已有一百多年，语言学上并没有「难听的喉音语言」这回事。
 写作里说声音可以，说语言要当心。
 ① A guttural voice on the recording belongs to somebody with a heavy cold.
@@ -11527,7 +11527,7 @@ guv
 核心：名词（英式口语），老板、头儿 —— 伦敦一带用来称呼上司或陌生男子的话，
 多出自出租车司机、工人之口。可数。
 完整的写法是 guv'nor（也作 guvnor、gov），由 governor 缩来，见 governor 条。
-**语域**：亲切而随意，但只在男性之间、或对男性说；写作里不用。
+语域：亲切而随意，但只在男性之间、或对男性说；写作里不用。
 ① Where to, guv — the meter has been running for a minute.
 = 去哪儿，老板？计价器已经跑了一分钟了。
 guv = 老板、头儿
@@ -11565,7 +11565,7 @@ the good guys = 好人一方
 
 Guyanese
 核心：形容词与名词，圭亚那的、圭亚那人，大写，单复数同形。
-**要分清三个地方**：Guyana（圭亚那，南美东北角，英语国家）、
+要分清三个地方：Guyana（圭亚那，南美东北角，英语国家）、
 French Guiana（法属圭亚那）与 Guinea（几内亚，在西非）——
 名字都从同一个词根来，位置却隔着一个大洋。
 ① A Guyanese passport is the only English-speaking one in that region.
@@ -11611,7 +11611,7 @@ the biggest guzzler = 最耗能的东西
 gybe
 核心：动词与名词（航海），尾风转向、换舷 —— 顺风行驶时让风从船尾越过，
 主帆随之从一舷猛甩到另一舷。可数。美式拼作 jibe。
-**跟 tack 成对记**：tack 是船头过风，gybe 是船尾过风；
+跟 tack 成对记：tack 是船头过风，gybe 是船尾过风；
 后者更险，帆杆扫过来伤人的事故多半出在这一下。
 ① They gybed twice in heavy wind and nobody was hit by the boom.
 = 大风里他们做了两次尾风转向，没人被帆杆打到。
@@ -11668,7 +11668,7 @@ a gymnasium = 文理中学
 
 gymnast
 核心：名词，体操运动员。名词 gymnastics（体操）与形容词 gymnastic 并入本条。
-**语法要记**：gymnastics 形式上是复数，当单数用 —— gymnastics is scored…
+语法要记：gymnastics 形式上是复数，当单数用 —— gymnastics is scored…
 比喻用法 mental gymnastics 指为自圆其说绕的那些弯，带讽刺。
 ① A gymnast at that level trains six hours a day and studies at night.
 = 那个级别的体操运动员一天练六个钟头，晚上还要读书。
@@ -11687,7 +11687,7 @@ gymslip
 核心：名词（英，旧），女生运动背心裙 —— 二十世纪中叶英国女校的制服：
 无袖、及膝、腰上系带。可数。
 今天只出现在回忆与历史写作里。另有搭配 a gymslip mother（旧，贬）指未成年母亲，
-**那个说法已不宜使用**，认得即可。
+那个说法已不宜使用，认得即可。
 ① A gymslip and long socks were the uniform for forty years.
 = 运动背心裙配长袜，当了四十年的校服。
 a gymslip = 女生运动背心裙
@@ -11714,8 +11714,8 @@ a gynaecological examination = 妇科检查
 
 gyp
 核心：三支。一是（英，口语）疼痛：give somebody gyp，疼得人受不了；
-二是（美，口语）宰客、坑人 —— **这一支据信来自 Gypsy，如今被认为带族群歧视，
-认得即可，别使用**；三是（英，旧）剑桥学院里伺候学生的仆役。
+二是（美，口语）宰客、坑人 —— 这一支据信来自 Gypsy，如今被认为带族群歧视，
+认得即可，别使用；三是（英，旧）剑桥学院里伺候学生的仆役。
 ① That knee gives him gyp whenever the weather turns.
 = 天一变，那个膝盖就疼得他受不了。
 give somebody gyp = 让某人疼得受不了
@@ -11742,8 +11742,8 @@ gypsum in cement = 水泥里的石膏
 
 Gypsy
 核心：名词与形容词，吉普赛人（罗姆人）—— 跟 gi- 段那条 Gipsy 是同一个词，
-**Gypsy 是今天更常见的拼法**。指民族时大写；小写的 gypsy 指居无定所的人。
-**这个词今天多被认为带冒犯色彩**：正式场合说 Roma 或 Romany，
+Gypsy 是今天更常见的拼法。指民族时大写；小写的 gypsy 指居无定所的人。
+这个词今天多被认为带冒犯色彩：正式场合说 Roma 或 Romany，
 英国的旅居群体说 Traveller。分寸与来由见 Gipsy 条，那里写得更全。
 ① Gypsy families on that common were moved on four times in one year.
 = 那片公地上的吉普赛人家，一年被驱赶了四次。
@@ -11762,7 +11762,7 @@ A gypsy moth caterpillar strips an oak and moves to the next one.
 gyrate
 核心：动词，旋转、扭动打转 —— 多指快而夸张的转动：跳舞的身体、机器的部件。
 名词 gyration 与形容词 gyratory 并入本条。
-**英式特有的一支**：a gyratory system 指一套单向环形路网，路牌上就这么写 ——
+英式特有的一支：a gyratory system 指一套单向环形路网，路牌上就这么写 ——
 别处的英语几乎不这么用。
 ① Dancers gyrated on a stage the size of a kitchen table.
 = 舞者在一个餐桌大小的台子上扭动旋转。
@@ -12050,7 +12050,7 @@ the hackiest line = 最没新意的说法
 
 haddock
 核心：名词，黑线鳕 —— 北大西洋的一种海鱼，白肉细嫩；英国的炸鱼薯条常用它，
-熏制的叫 smoked haddock。**单复数同形**：two haddock。
+熏制的叫 smoked haddock。单复数同形：two haddock。
 跟 cod 的分别：黑线鳕个头小些、肉更细，侧线是黑的，鱼贩一眼就认得出。
 ① Haddock and chips cost more than cod and taste better fried.
 = 黑线鳕薯条比鳕鱼的贵，炸出来也更好吃。
@@ -12110,7 +12110,7 @@ the hadrosaur = 那具鸭嘴龙化石
 haematite
 核心：名词，赤铁矿 —— 最主要的铁矿石，铁的氧化物；块状的乌黑发亮，
 磨成粉却是红的。不可数。美式拼作 hematite。
-**名字就说的是那抹红**：词根来自希腊语的「血」——所以火星的红也跟它有关。
+名字就说的是那抹红：词根来自希腊语的「血」——所以火星的红也跟它有关。
 ① Haematite looks black until you scratch it on something white.
 = 赤铁矿看着是黑的，在白色东西上一划却是红的。
 haematite = 赤铁矿
@@ -12184,7 +12184,7 @@ haemorrhage
 核心：名词与动词，两支。一是（医学）大出血：a brain haemorrhage；
 二是比喻，（钱、人才）大量流失：haemorrhage money。美式拼作 hemorrhage。
 形容词 haemorrhagic 并入本条。
-**注意拼写**：三个容易漏的地方 —— ae、rrh 双写、词尾 -age；
+注意拼写：三个容易漏的地方 —— ae、rrh 双写、词尾 -age；
 读作 HEM-uh-rij，中间那个 o 不发音。
 ① A brain haemorrhage took him to hospital in eleven minutes.
 = 一次脑出血，十一分钟就把他送进了医院。
@@ -12241,8 +12241,8 @@ haft a blade = 给刀刃装柄
 
 hag
 核心：名词（贬，冒犯），老丑婆 —— 童话与骂人话里对老年女性的恶称。可数。
-**这个词带明显的年龄与性别歧视**，今天只出现在故事、历史文本与引用里，
-**认得即可，别拿来说人**。
+这个词带明显的年龄与性别歧视，今天只出现在故事、历史文本与引用里，
+认得即可，别拿来说人。
 它还构成 hagfish（盲鳗）与 haggard 的旧义，那两个词各有来路。
 ① A hag in that story guards a bridge and asks for a name.
 = 那个故事里的老巫婆守着一座桥，开口要一个名字。
@@ -12516,7 +12516,7 @@ hajj visas = 朝觐签证
 haka
 核心：名词，哈卡 —— 毛利人的仪式性舞蹈：齐声呼号、跺脚、拍击身体，
 用于迎宾、送别、纪念与激励。可数。
-新西兰橄榄球队赛前跳的那一支最广为人知，但**哈卡并不只是战舞** ——
+新西兰橄榄球队赛前跳的那一支最广为人知，但哈卡并不只是战舞 ——
 葬礼与婚礼上同样跳，词与场合决定它的分量。
 ① A haka before the match lasts ninety seconds and changes the air.
 = 赛前一段哈卡只有九十秒，整个场子的空气就变了。
@@ -12638,7 +12638,7 @@ half
 half an hour；二是（比赛的）半场：the second half；三是（英，口语）半品脱啤酒；
 四是副词，半…地：half asleep；五是构成复合词：halfpenny、halfpipe、halftone、
 halfway、halfwit，全部并入本条。复数 halves；动词 halve 另立一条。
-**两条句型要记**：half an hour 不加 of；后面接代词时要加 —— half of them。
+两条句型要记：half an hour 不加 of；后面接代词时要加 —— half of them。
 习语：your better half（另一半，谑）、go halves（对半分摊）、
 not half bad（相当不错）、half the time（有一半时候）。
 ① Half of them arrived early and half of them did not arrive at all.
@@ -12972,7 +12972,7 @@ hallucinate
 核心：动词，产生幻觉 —— 看见或听见并不存在的东西。
 名词 hallucination、形容词 hallucinatory、名词 hallucinogen（致幻剂）
 与形容词 hallucinogenic 并入本条。
-**一个新用法要知道**：说人工智能一本正经地编造事实，如今也用这个词 ——
+一个新用法要知道：说人工智能一本正经地编造事实，如今也用这个词 ——
 AI hallucination，这一支近几年才进词典。
 ① Patients with that fever hallucinate for a night and remember all of it.
 = 发那种烧的病人会幻觉一整夜，而且全都记得。
@@ -13051,7 +13051,7 @@ every halogen = 每一种卤素
 halon
 核心：名词（化学），哈龙 —— 含溴的卤代烃，灭火效率极高，
 曾经装满机房、机舱与博物馆的灭火系统。不可数。
-**要记的一条**：它破坏臭氧层的能力比氟利昂还强，一九九四年起在多数国家停产，
+要记的一条：它破坏臭氧层的能力比氟利昂还强，一九九四年起在多数国家停产，
 现存的只能回收再用 —— 所以今天这个词多出现在环保与消防法规里。
 ① Halon puts out a fire without wetting anything in the room.
 = 哈龙能灭火，却不会把屋里任何东西弄湿。
@@ -13103,7 +13103,7 @@ halve
 核心：两支。一是对半分、减半：halve the recipe、halve the time；
 二是（高尔夫）把一洞或一场打成平局。
 名词复数 halves（half 的复数形）并入本条。
-**注意读音**：halve 的 l 不发音，读作 HAHV —— 跟 have 只差一个元音，
+注意读音：halve 的 l 不发音，读作 HAHV —— 跟 have 只差一个元音，
 是最容易听混的一对。
 ① They halved the recipe and it fed six people anyway.
 = 他们把方子减半，照样喂饱了六个人。
@@ -13156,7 +13156,7 @@ ham-fisted = 笨手笨脚的
 hamburger
 核心：名词，汉堡 —— 牛肉饼夹在圆面包里；也单指那块肉饼（美式 hamburger meat
 就是绞牛肉）。可数。
-**名字跟火腿无关**：它来自德国城市汉堡（Hamburg），是「汉堡式的肉排」，
+名字跟火腿无关：它来自德国城市汉堡（Hamburg），是「汉堡式的肉排」，
 词里的 ham 纯属巧合 —— 正因为这个巧合，后来才有了 cheeseburger、
 veggieburger 这一串把 -burger 当后缀用的词。
 ① A hamburger in that place is cooked to order and takes nine minutes.
@@ -13296,7 +13296,7 @@ a hamster wheel = 原地打转的处境
 hamstring
 核心：三支。一是腘绳肌 —— 大腿后侧那三条肌肉；二是它下端的肌腱；
 三是动词，使瘫痪、束缚住手脚：be hamstrung by something。
-**动词的过去式是 hamstrung**，不是 hamstringed —— 它跟 string / strung 走同一路。
+动词的过去式是 hamstrung，不是 hamstringed —— 它跟 string / strung 走同一路。
 本义很硬：古时割断牲口或俘虏的腿腱让人走不了，比喻义就是从那儿来的。
 ① A hamstring takes six weeks to heal and goes again in the eighth.
 = 腘绳肌要六周才好，第八周又拉伤。
@@ -13614,7 +13614,7 @@ handicap
 核心：三支。一是不利条件、障碍：a serious handicap；
 二是（高尔夫、赛马的）差点与让磅：a handicap of four；
 三是动词，使处于不利：be handicapped by something。
-**语域要点**：用 handicapped 说残障人士，今天被认为过时且不妥 ——
+语域要点：用 handicapped 说残障人士，今天被认为过时且不妥 ——
 应说 disabled 或 a person with a disability；但在高尔夫与赛马里，
 这个词至今是中性的技术词。
 ① A poor signal is a serious handicap in that valley.
@@ -13647,7 +13647,7 @@ a handicraft market = 手工艺集市
 
 handkerchief
 核心：名词，手帕。复数 handkerchiefs，也见 handkerchieves。
-**拼写与读音都是难点**：它是 hand 加 kerchief（本义「遮头布」），
+拼写与读音都是难点：它是 hand 加 kerchief（本义「遮头布」），
 中间那个 d 不发音，读作 HANG-ker-chif；口语缩略成 hanky，另立一条。
 ① A handkerchief in the top pocket is for show and not for use.
 = 上衣口袋里那块手帕是摆着看的，不是拿来用的。
@@ -13697,7 +13697,7 @@ Careful handling of that complaint kept it out of the papers.
 handout
 核心：两支。一是施舍、救济：live on handouts —— 带贬义，说的是「靠人给」；
 二是课上或发布会上发的讲义、材料。可数。
-**写法有规律**：名词连写 a handout，动词分写 hand something out（分发）——
+写法有规律：名词连写 a handout，动词分写 hand something out（分发）——
 这一族（handover / hand over、handout / hand out）都照此办理。
 ① A family living on handouts gets audited more often than a company does.
 = 靠救济过活的一家人，被查的次数比一家公司还多。
@@ -13788,7 +13788,7 @@ handy-dandy = 又小又巧、顺手好用的（美，口语，带点调侃）
 
 hang
 核心：四支，外加八个短语动词与两条习语。
-一是挂、吊：hang a picture；二是（绞刑）吊死 —— **这一支的过去式是 hanged**，
+一是挂、吊：hang a picture；二是（绞刑）吊死 —— 这一支的过去式是 hanged，
 其余一律是 hung，这是英语里最常被考的不规则分工；
 三是（衣服、布料）垂下来的样子：the way it hangs；四是名词 the hang of something，
 窍门、门道。
@@ -13874,7 +13874,7 @@ hang-gliding = 悬挂式滑翔运动
 
 hangar
 核心：名词，机库 —— 停放与检修飞机的大棚。可数。
-**注意别混**：hangar 是机库，hanger 是衣架 —— 两个词只差一个字母，
+注意别混：hangar 是机库，hanger 是衣架 —— 两个词只差一个字母，
 读音也几乎一样，是航空文本里最常见的手误。
 名字从法语来，本指棚屋；机库之大常被用来打比方：as big as a hangar。
 ① A hangar that size takes four aircraft and one very long ladder.
@@ -14053,7 +14053,7 @@ happen
 三是 happen to somebody，（事情）落到某人头上；
 四是 happen on something（正式），偶然碰到。
 名词 happening（发生的事；六十年代那种即兴艺术活动）并入本条。
-**句型要记**：说「某事发生了」不用被动 —— 不说 it was happened。
+句型要记：说「某事发生了」不用被动 —— 不说 it was happened。
 ① Nobody agrees about what happened in the four minutes after that.
 = 那之后的四分钟里发生了什么，没人说得一致。
 what happened = 发生了什么
@@ -14193,7 +14193,7 @@ harass
 核心：动词，骚扰 —— 反复地找麻烦、纠缠或施压，使人不得安宁：
 harass somebody；也指（军事上）扰袭。
 名词 harassment 与形容词 harassed（被搅得疲于奔命的）并入本条。
-**读音有两派**：英式重音多在前（HA-russ），美式多在后（huh-RASS），两种都对。
+读音有两派：英式重音多在前（HA-russ），美式多在后（huh-RASS），两种都对。
 法律语境里 sexual harassment 与 racial harassment 都是正式罪名，
 这个词因此比 bother、pester 重得多。
 ① They harassed her with calls until she changed the number.
@@ -14247,7 +14247,7 @@ hard
 复合词一族极大，全部并入本条，分三堆记：
   · 实物与术语：hardback、hardboard、hardware、hardwood、the hard shoulder、
     a hard drive、hard hat、hard court、hardtop、hardcover、hardbound、hardscape；
-  · **成对记的**（每个都有一个 soft 的对面）：hard copy／soft copy、
+  · 成对记的（每个都有一个 soft 的对面）：hard copy／soft copy、
     hard drug／soft drug、hard error／soft error、hard news／soft news、
     hard porn／soft porn、hard power／soft power、hard science／soft science、
     hard sell／soft sell、hardball／softball、hardtop／soft top、
@@ -14258,7 +14258,7 @@ hard
     hardwired、hardscrabble。
 习语：hard and fast、hard up、hard done by、no hard feelings、hard of hearing、
 give somebody a hard time。
-**最要紧的一条**：hardly **不是** hard 的副词 —— hard 自己就是副词（work hard），
+最要紧的一条：hardly 不是 hard 的副词 —— hard 自己就是副词（work hard），
 hardly 意思是「几乎不」，另立一条。这是英语里最著名的陷阱之一。
 ① A hard surface under that carpet explains the noise.
 = 地毯底下是硬地面，难怪那么响。
@@ -14528,7 +14528,7 @@ a hardened criminal = 惯犯
 hardly
 核心：三支。一是几乎不：hardly any、hardly ever；二是刚一…就…：
 hardly...when；三是（委婉地表示不同意）恐怕不：that is hardly fair。
-**两条铁律**：一，hardly 不是 hard 的副词，它本身表示否定；
+两条铁律：一，hardly 不是 hard 的副词，它本身表示否定；
 二，它已经含着否定，不能再跟 not 连用 —— 不说 I can't hardly see。
 用 hardly...when 时，主句要用过去完成时，而且倒装写法（Hardly had he…）
 在书面里很常见。
@@ -14564,7 +14564,7 @@ a hardship fund = 困难补助基金
 hardy
 核心：两支。一是（人）能吃苦的、耐得住的：a hardy climber；
 二是（植物）耐寒的 —— 园艺里的专门用法：a hardy perennial。名词 hardiness 也用。
-**注意别混**：跟 hearty（热诚的；丰盛的）只差一点，意思完全不同。
+注意别混：跟 hearty（热诚的；丰盛的）只差一点，意思完全不同。
 a hardy perennial 还有个好用的比喻义：年年都要重提的老话题。
 ① A hardy climber in that weather is somebody who owns the right coat.
 = 那种天气里撑得住的登山者，是有一件对路外套的人。
@@ -14582,7 +14582,7 @@ hardiness = 耐得住、耐寒
 hare
 核心：名词与动词。一是野兔 —— 比兔子大、腿长、不掘洞，受惊就狂奔；
 二是动词（英，口语）飞跑：hare off。
-**跟 rabbit 的分别要记**：rabbit 住地洞、群居、幼崽出生时无毛闭眼；
+跟 rabbit 的分别要记：rabbit 住地洞、群居、幼崽出生时无毛闭眼；
 hare 在地面的浅窝里下崽，幼崽一出生就有毛、能看见。
 习语 mad as a March hare（疯疯癫癫）说的是三月交配季里野兔的怪动作。
 ① A hare crossed the field in a straight line and never looked back.
@@ -14614,7 +14614,7 @@ harebells = 圆叶风铃草（复数）
 the harebell = 圆叶风铃草（作物种统称）
 
 harelip
-核心：唇裂的旧称 —— 上唇裂开的先天畸形。**这个词今天不能用**：
+核心：唇裂的旧称 —— 上唇裂开的先天畸形。这个词今天不能用：
 它把人比作兔子，带侮辱意味；医学与日常都说 a cleft lip，
 连带的腭裂叫 a cleft palate。收在这里是为了读旧书时认得出。
 可数。
@@ -14632,7 +14632,7 @@ close a harelip = 把唇裂修补合拢
 harem
 核心：名词，两支。一是（历史）后宫、内院 —— 伊斯兰旧时宅邸里女眷居住、
 外男不得入内的那部分；二是（动物学）一雄多雌的群体：a harem of females。可数。
-**用词要当心**：第一支带着大量东方主义的想象，写历史时最好交代具体制度，
+用词要当心：第一支带着大量东方主义的想象，写历史时最好交代具体制度，
 而不是拿这个词笼统代指。词从阿拉伯语来，本义是「禁止入内之处」。
 ① The harem in that palace had its own courtyard and its own staircase.
 = 那座宫殿的内院，有自己的院子和自己的楼梯。
@@ -14823,7 +14823,7 @@ harmony
 核心：三支。一是（音乐）和声 —— 同时响起的几个音；二是和睦：live in harmony；
 三是（正式）一致、契合：in harmony with something。
 形容词 harmonious 与 harmonic、动词 harmonize、名词 harmonization 并入本条。
-**跟 melody 的分别记住就够用**：melody 是横着走的那条旋律线，
+跟 melody 的分别记住就够用：melody 是横着走的那条旋律线，
 harmony 是竖着叠起来的那些音。
 ① Four voices in harmony fill that church without any amplification.
 = 四个声部合起来，不用扩音就填满了那座教堂。
@@ -14902,7 +14902,7 @@ a harpoon gun = 捕鲸炮
 harpsichord
 核心：名词，羽管键琴 —— 巴洛克时期的键盘乐器：按键带动拨子拨弦，
 不是像钢琴那样击弦。可数。
-**关键的一条**：拨弦的力道固定，所以弹轻弹重出来一样响 ——
+关键的一条：拨弦的力道固定，所以弹轻弹重出来一样响 ——
 钢琴（本名 fortepiano，「强弱琴」）正是靠解决这一点把它取代了。
 ① A harpsichord sounds the same however hard you hit the keys.
 = 羽管键琴不管你按多重，响度都一样。
@@ -14920,7 +14920,7 @@ a harpsichordist = 羽管键琴演奏者
 harpy
 核心：两支同源。一是希腊神话里的鹰身女妖：人面鸟身，专抓走食物与人，
 是风暴与复仇的化身，复数 Harpies；二是由此来的骂人话 ——
-凶悍刻薄、纠缠不休的女人。第二支**性别专用、明确冒犯**，
+凶悍刻薄、纠缠不休的女人。第二支性别专用、明确冒犯，
 用它等于把人比作那只妖怪。可数。另有猛禽 harpy eagle，得名于同一个妖怪。
 ① The Harpies carried off the food before the old king could touch any of it.
 = 鹰身女妖在老国王还没碰到食物之前，就把它们全抓走了。
@@ -14935,8 +14935,8 @@ a harpy eagle = 角雕（南美洲最大的猛禽）
 
 harridan
 核心：名词（旧，贬），凶婆子、泼妇 —— 骂上了年纪、脾气凶的女性。可数。
-**这个词带着明显的年龄与性别歧视**，跟 hag 一路；今天只见于旧小说与引用，
-**认得即可，别拿来说人**。
+这个词带着明显的年龄与性别歧视，跟 hag 一路；今天只见于旧小说与引用，
+认得即可，别拿来说人。
 ① A harridan in that novel runs the boarding house and everybody in it.
 = 那部小说里的一个凶婆子，管着那家寄宿屋和屋里所有人。
 a harridan = 凶婆子
@@ -15101,7 +15101,7 @@ the harvest moon = 秋分前后的那轮满月
 a harvest mouse = 巢鼠（欧洲最小的鼠类）
 
 harvestman
-核心：盲蛛：腿极长、身体只有一颗小圆粒的蛛形动物。**它不是蜘蛛** ——
+核心：盲蛛：腿极长、身体只有一颗小圆粒的蛛形动物。它不是蜘蛛 ——
 不结网、没有毒腺、头胸腹连成一体，只有一对眼睛。复数 harvestmen。
 名字来自收割季：一到秋收，田里到处是它。英式也叫 harvest spider。
 ① A harvestman crossed the table on legs you could hardly see at all.
@@ -15361,7 +15361,7 @@ hate
 核心：三支。一是恨、厌恶：hate somebody；二是（口语里弱化了的）不愿意、不喜欢：
 I hate to ask；三是名词，仇恨：hate speech、a hate crime。
 名词 hatred 与形容词 hateful 并入本条。
-**语气跨度很大**：口语里 I hate mushrooms 只是「不爱吃」，
+语气跨度很大：口语里 I hate mushrooms 只是「不爱吃」，
 可 hate speech 与 hate crime 里的 hate 是最重的那一支，是法律术语 ——
 同一个词，两头差得远。
 ① They hated each other for a decade and worked in the same room.
@@ -15465,7 +15465,7 @@ haunt
 二是（记忆、决定）缠着人不放：that decision haunts him；
 三是（问题）长期困扰：be haunted by debt；四是名词，常去的地方：an old haunt。
 形容词 haunted 与 haunting 并入本条。
-**haunting 是褒义的**：说一段旋律 haunting，是说它美得让人忘不掉 ——
+haunting 是褒义的：说一段旋律 haunting，是说它美得让人忘不掉 ——
 跟前几支的阴郁完全不同，这一点最容易误用。
 ① The house is haunted according to four people and no records at all.
 = 有四个人说那房子闹鬼，档案上却一笔记载也没有。
@@ -15503,7 +15503,7 @@ in Hausa = 用豪萨语
 
 hauteur
 核心：名词（正式、书面），高傲、居高临下的姿态。不可数，从法语借来，
-读作 oh-TUR —— **开头的 h 不发音**，这是它最常被读错的地方。
+读作 oh-TUR —— 开头的 h 不发音，这是它最常被读错的地方。
 跟 haughty 同源（都来自法语的 haut「高」），但 hauteur 是名词、更书面，
 还带一点讽刺的距离感：用它多半是在写一个人，而不是当面骂人。
 ① The hauteur of that reply turned a small complaint into a legal letter.
@@ -16119,7 +16119,7 @@ hazily = 模模糊糊地
 he
 核心：第三人称单数阳性主格代词 —— 指男性，也指被当作雄性的动物。
 一整套要连着记：主格 he、宾格 him、所有格 his、反身 himself。
-**泛指的旧用法今天不合时宜**：从前拿它兼指男女（a student should bring
+泛指的旧用法今天不合时宜：从前拿它兼指男女（a student should bring
 his own pen），现在写作里一律改用 they、he or she，或者把句子改成复数 ——
 这是近三十年英语用法上改动最大的一处。
 缩略式 he'd（he had 或 he would）、he'll（he will）、he's（he is 或 he has）
@@ -16150,8 +16150,8 @@ a he-man = 肌肉男、硬汉（常带讽刺）
 连字符复合词，这里的 he 当「雄性的」用；今天说起来多半带点嘲讽。
 
 head
-核心：英语里分支最多的名词之一。底层只有一个意思 —— **一个东西的最上端、
-最前端、最要紧的那一端**；身体的头恰好三样都占齐了，所以别的义项全从它长出来。
+核心：英语里分支最多的名词之一。底层只有一个意思 —— 一个东西的最上端、
+最前端、最要紧的那一端；身体的头恰好三样都占齐了，所以别的义项全从它长出来。
 往四个方向推：
 一、位置上的顶端与前端：the head of the stairs、the head of the page、
 the head of the table、the head of a queue；河流最上游的那一段也这么叫。
@@ -16161,7 +16161,7 @@ head office、head teacher —— 作定语时不加冠词。
 lose your head、go to somebody's head。
 四、形状像头的东西：啤酒的泡沫、脓包的头、录音磁头、大头针的帽。
 另有两个专用义：硬币的正面（heads，跟 tails 对）、
-牲畜的计量单位（fifty head of cattle，**复数不变**）。
+牲畜的计量单位（fifty head of cattle，复数不变）。
 动词三支：朝某处去（head for、head north）、率领（head a team）、
 用头顶球（head the ball）。
 短语动词看方向词：off 是拦在前头，up 是挑头领着，into 是一头扎进去。
@@ -16474,7 +16474,7 @@ the header = 页眉
 take a header = 一头栽下去（英，口语）
 
 headgear
-核心：头上穿戴的总称 —— 帽子、头盔、面罩、头巾都算。**不可数**：
+核心：头上穿戴的总称 —— 帽子、头盔、面罩、头巾都算。不可数：
 不说 a headgear，也不说 two headgears。多出现在规章与体育语境里
 （protective headgear）。另有一支专指正畸用的头套。
 ① Protective headgear is compulsory in that ring and ignored in training.
@@ -16633,7 +16633,7 @@ a headmistress = 女校长
 be made headmaster = 被任命为校长
 
 headphones
-核心：耳机 —— **恒作复数**：说 a pair of headphones，不说 a headphone。
+核心：耳机 —— 恒作复数：说 a pair of headphones，不说 a headphone。
 罩耳的那种叫 over-ear，塞进耳道的小耳机另有名字（earbuds、earphones）。
 带麦克风的一套叫 headset，另立词条。
 ① A pair of headphones costing nine pounds outlasted three expensive ones.
@@ -16648,7 +16648,7 @@ headphones = 耳机
 
 headquarters
 核心：总部、司令部 —— 一个组织或一支部队指挥中枢所在的地方。
-**形式是复数，用作单数或复数都行**：the headquarters is / are in Leeds；
+形式是复数，用作单数或复数都行：the headquarters is / are in Leeds；
 不能说 a headquarter。缩写 HQ。动词过去分词 headquartered 并在本条
 （be headquartered in somewhere 总部设在某地）。
 ① The headquarters was three rooms above a bank for the first nine years.
@@ -16815,7 +16815,7 @@ too headstrong to do something = 执拗得不肯做某事
 a headstrong horse = 性子烈的马
 
 headwaters
-核心：源头水系：一条河最上游的那些溪流与泉眼。**恒作复数**。
+核心：源头水系：一条河最上游的那些溪流与泉眼。恒作复数。
 地理与环保写作里的常用词 —— 一条河的问题多半是从这里开始的。
 ① The headwaters of that river are in a bog that nobody owns.
 = 那条河的源头水系在一片无主的沼泽里。
@@ -16890,7 +16890,7 @@ heal
 二是治好人或伤：heal a wound、heal the sick（后者偏文，带宗教色彩）；
 三是比喻的修复：heal a rift、time heals。
 派生的 a healer（疗者）与 healing（愈合、疗愈，名词与形容词同形）都并入本条。
-**别跟 heel（脚跟）和 he'll 混** —— 三个词读音完全一样，是听写最常错的一组。
+别跟 heel（脚跟）和 he'll 混 —— 三个词读音完全一样，是听写最常错的一组。
 ① The cut healed in four days and left a line he still points out to people.
 = 那道口子四天就长好了，留下一道印子，他至今还指给人看。
 heal = （伤口）愈合
@@ -17002,7 +17002,7 @@ healthy
 二是（东西、做法）有益健康的：a healthy diet；
 三是引申的「良性的、可观的」：a healthy profit、a healthy respect for something。
 比较级 healthier、最高级 healthiest；副词 healthily 与名词 healthiness 并入本条。
-**跟 healthful 的分工**：这个词兼说「本身健康」与「有益健康」两头，
+跟 healthful 的分工：这个词兼说「本身健康」与「有益健康」两头，
 healthful 只说后一头，而且多为美式。
 ① A healthy child of that age sleeps eleven hours and wakes up shouting.
 = 那个年纪的健康孩子睡十一个钟头，醒来就喊。
@@ -17050,7 +17050,7 @@ heap praise on somebody = 对某人大加赞扬
 a heaped spoonful = 堆得冒尖的一勺
 
 hear
-核心：**听得见**，不是「去听」—— 这是它跟 listen 的根本分界：
+核心：听得见，不是「去听」—— 这是它跟 listen 的根本分界：
 hear 说的是声音进到了耳朵里（不由自主，所以几乎不用进行时，且常跟 can 连用），
 listen 说的是有意去听（可以用进行时）。I can hear you 对，I am hearing you 不说。
 由这一句往五支推：
@@ -17192,7 +17192,7 @@ a horse-drawn hearse = 马拉的柩车
 follow the hearse = 跟在柩车后面
 
 heart
-核心：底层是**身体的中央那个不停跳动的器官**，三条线全从它长出来 ——
+核心：底层是身体的中央那个不停跳动的器官，三条线全从它长出来 ——
 一、位置：中央、核心（the heart of the city、the heart of the matter），
 蔬菜的芯也叫 heart。
 二、情感：心之所在（break somebody's heart、from the heart），
@@ -17363,7 +17363,7 @@ in a heartbeat = 一瞬间、毫不犹豫地
 heartbreak
 核心：心碎：感情断裂的那一下与随之而来的痛 —— 多不可数。
 派生的 heartbreaking（令人心碎的）与 heartbroken（心碎的、极难过的）
-都并入本条，两个词的分工要记清：**heartbreaking 说事，heartbroken 说人**。
+都并入本条，两个词的分工要记清：heartbreaking 说事，heartbroken 说人。
 ① Two years of that job ended in heartbreak and a much better one.
 = 那份工作干了两年，结局是心碎，还有一份好得多的工作。
 end in heartbreak = 以心碎收场
@@ -17482,7 +17482,7 @@ leave somebody heartsick = 让某人心里发苦
 a heartsick letter = 一封伤心的信
 
 heartstrings
-核心：心弦 —— **恒作复数**，几乎只活在两个搭配里：
+核心：心弦 —— 恒作复数，几乎只活在两个搭配里：
 tug at somebody's heartstrings 与 pull at somebody's heartstrings。
 语气要当心：说某样东西 tugs at the heartstrings，多半暗指它煽情、
 刻意讨人怜，不全是褒义。
@@ -17530,7 +17530,7 @@ hearty
 三是（饭菜）实在管饱的：a hearty breakfast；
 四是（身体）健壮的 —— 今天几乎只活在 hale and hearty 里。
 比较级 heartier、最高级 heartiest；副词 heartily 与名词 heartiness 并入本条。
-**注意还有贬的一面**：说人 hearty 有时是暗指他热情得过了头、吵闹而不体察人意。
+注意还有贬的一面：说人 hearty 有时是暗指他热情得过了头、吵闹而不体察人意。
 ① A hearty welcome at that door has embarrassed several visitors.
 = 那家门口的热情招呼，让好几位客人下不来台。
 a hearty welcome = 热情的欢迎
@@ -17637,7 +17637,7 @@ heated
 核心：两支。一是加热的、供暖的：a heated pool、heated seats；
 二是（争论、言辞）激烈的、火气很大的：a heated argument。
 副词 heatedly 并入本条。
-**分工很干净**：说物是「加了热」，说话是「上了火」，两支不会混。
+分工很干净：说物是「加了热」，说话是「上了火」，两支不会混。
 ① A heated pool in that climate gets used for about four months a year.
 = 在那种气候里，恒温泳池一年用得上大约四个月。
 a heated pool = 恒温泳池
@@ -17685,7 +17685,7 @@ heathen
 核心：异教徒 —— 从一神教（尤其基督教）的立场看，不信本教的人。
 可数，也用 the heathen 作总称。
 词源就是上一条的石南荒原：本义是「住在荒地上的人」，即没进教会的乡下人。
-**语域要紧**：这个词带着居高临下的贬义，属传教时代的语汇，今天不用来指人；
+语域要紧：这个词带着居高临下的贬义，属传教时代的语汇，今天不用来指人；
 说别的宗教的信徒要用 non-Christian 或 people of other faiths。
 今天真正常见的只有戏谑用法：笑朋友不懂规矩、不讲究。
 ① Missionaries wrote home about the heathen and never learned the language.
@@ -17794,7 +17794,7 @@ heave
 三是口语的呕吐、作呕；
 四是发出（叹息、呻吟）：heave a sigh of relief；
 五是航海的 heave to：使船迎风停住。
-**过去式分两套**：一般义用 heaved，航海义用 hove ——
+过去式分两套：一般义用 heaved，航海义用 hove ——
 hove into view（进入视野）是这一支最常见的说法。
 名词义是「一举、一拽」；the heave-ho 指被赶走、被甩掉。
 ① Two of them heaved the piano onto a trolley and neither could walk on Monday.
@@ -17837,7 +17837,7 @@ heaven
 二是复数 the heavens：天空（文、旧），the heavens opened 是「大雨倾盆」；
 三是口语的「极乐、美事一桩」：sheer heaven。
 形容词 heavenly（天上的；极好的）与副词 heavenward（向天）并入本条。
-**单复数是硬规矩**：宗教义一律单数小写，天空义必用复数 the heavens。
+单复数是硬规矩：宗教义一律单数小写，天空义必用复数 the heavens。
 习语一族：thank heavens、for heaven's sake、move heaven and earth、
 in seventh heaven、heaven forbid。
 ① Nobody in that family talked about going to heaven and everybody went to church.
@@ -17882,7 +17882,7 @@ heaven-sent = 天赐的、来得正是时候
 也说 a heaven-sent opportunity（天赐良机）。
 
 heavy
-核心：底层是**重**，往六条线推：
+核心：底层是重，往六条线推：
 一、物理上沉的：a heavy suitcase（反义 light）；
 二、分量大、程度深 —— 这一支最活：heavy rain、heavy traffic、
 heavy drinking、a heavy cold、heavy losses；凡是「量大得让人吃不消」都用它；
@@ -18079,7 +18079,7 @@ hectic
 核心：忙乱的、紧张而无序的 —— 说的是一段时间或一个场面：
 a hectic week、a hectic schedule、things got hectic。
 重点在「乱」，不只是「忙」：busy 可以井井有条，hectic 一定手忙脚乱。
-**不说人 hectic** —— 人是 busy，或者 rushed off your feet。
+不说人 hectic —— 人是 busy，或者 rushed off your feet。
 副词 hectically 并入本条。
 ① A hectic week ended with two people doing four people's jobs.
 = 忙乱的一周收尾时，两个人在干四个人的活。
@@ -18423,7 +18423,7 @@ heighten awareness = 提高关注度
 heinous
 核心：（罪行）极其恶劣的、令人发指的 —— 只用于罪行、暴行与极端的行为，
 不用于日常的坏事：不说 a heinous mistake。
-**读音是最常错的一处**：重音在第一音节，元音跟 hay 一样，不读成 hee-。
+读音是最常错的一处：重音在第一音节，元音跟 hay 一样，不读成 hee-。
 副词 heinously 与名词 heinousness 并入本条。
 法律文本里 a heinous crime 是固定搭配，量刑时用来标出最重的一档。
 ① A heinous crime committed in public took nine years to come to court.
@@ -18441,7 +18441,7 @@ the heinousness of something = 某事的恶劣程度
 
 heir
 核心：继承人 —— 依法或依遗嘱继承财产、爵位、王位的人。可数。
-**读音跟 air 完全一样，h 不发音**，所以冠词要用 an heir，不是 a heir。
+读音跟 air 完全一样，h 不发音，所以冠词要用 an heir，不是 a heir。
 女性继承人是 an heiress（今天多指继承巨富的女性，带点小报腔）；
 传家的物件是 an heirloom；两个都并入本条。
 王位继承里有两个术语要分清：an heir apparent 的地位不会被后出生的人顶掉，
@@ -18592,7 +18592,7 @@ helium balloons = 氦气球
 helix
 核心：螺旋线：绕着一根中轴一圈圈上升的曲线 —— 弹簧、螺纹、DNA 都是这个形状。
 可数，复数 helices，也说 helixes。形容词 helical 并入本条。
-**跟 spiral 分清**：spiral 是在平面上越绕越大的盘旋（蚊香那样），
+跟 spiral 分清：spiral 是在平面上越绕越大的盘旋（蚊香那样），
 helix 是三维的、直径不变、一路往上走（弹簧那样）。
 中文都叫「螺旋」，英语分得很清楚。DNA 是 a double helix：两条链绕着同一根轴。
 ① A double helix was the shape that made the whole mechanism obvious.
@@ -18610,7 +18610,7 @@ hell
 二是「极难受的境地」：a living hell；
 三是口语里的加强语气词 —— 这一支用得最多，也最要当心：
 what the hell、a hell of a、like hell、to hell with。
-**语域**：比 heck 重，属轻度脏话；正式场合、对长辈与孩子面前不说。
+语域：比 heck 重，属轻度脏话；正式场合、对长辈与孩子面前不说。
 十条常用习语：go to hell、a hell of a、like hell、all hell broke loose、
 give somebody hell、come hell or high water、to hell with、what the hell、
 hell for leather、raise hell。
@@ -18675,7 +18675,7 @@ a hellacious second set = 打得极厉害的一盘
 hellebore
 核心：嚏根草（铁筷子）：冬末早春开花的多年生草本，花是绿白或暗紫色，
 在别的花都还没动静时开。可数，也作不可数。
-**全株有毒**：古代拿它当泻药、当「治疯病」的药，剂量稍差就致命 ——
+全株有毒：古代拿它当泻药、当「治疯病」的药，剂量稍差就致命 ——
 所以它在古典文献里既是药也是毒。
 园艺上常见的两类是圣诞玫瑰与四旬节玫瑰，都属这一族。
 ① Hellebore flowers in February and looks out of place doing it.
@@ -18779,7 +18779,7 @@ be a hellion = 是个刺头
 hellish
 核心：糟透了的、像地狱一样的 —— 形容处境、经历、天气与路况。
 比 awful 重，带着情绪；口语。副词 hellishly 并入本条。
-**不用来形容人**：说人恶毒要用 wicked 或 cruel。
+不用来形容人：说人恶毒要用 wicked 或 cruel。
 ① A hellish journey of fourteen hours ended in the wrong city.
 = 十四个钟头的地狱之旅，终点还是错的城市。
 a hellish journey = 糟透了的旅程
@@ -18794,7 +18794,7 @@ hello
 核心：问候语「你好」—— 也拼 hallo、hullo，后两种偏英式也偏旧。
 三个用场：见面打招呼、接电话开口、引起注意。
 也作可数名词：say hello to somebody。
-**语调决定意思**：升调的 Hello? 是试探与疑问，平调是招呼，
+语调决定意思：升调的 Hello? 是试探与疑问，平调是招呼，
 拖长的 Hel-lo! 在口语里等于「你怎么这么迟钝」。
 ① She said hello to everybody in the room and remembered four names.
 = 她跟屋里每个人都打了招呼，记住了四个名字。
@@ -18882,11 +18882,11 @@ the helmsman of the nation = 国家的舵手
 help
 核心：英语里最常用的动词之一，两条线彼此无关，全靠句型分。
 一、帮助：help somebody with something、help somebody (to) do something。
-**句型要记**：宾语后面的不定式带不带 to 都行，口语里多半不带
+句型要记：宾语后面的不定式带不带 to 都行，口语里多半不带
 （help me carry this）—— 这是英语里少数几个允许省掉 to 的动词之一；
 with 后面只能接名词，不能接动词。
 二、忍住、避免 —— 只跟 can／cannot 连用：cannot help doing something、
-cannot help it、it cannot be helped。**这一支跟「帮助」毫无关系。**
+cannot help it、it cannot be helped。这一支跟「帮助」毫无关系。
 名词有不可数的「帮助」（ask for help）与可数的「一份帮忙」（a great help）。
 短语动词：help out、help yourself、help somebody on／off with something。
 ① She helped him with the forms and refused to sign anything herself.
@@ -18948,7 +18948,7 @@ helpful
 核心：两支。一是（人）乐于助人的：a helpful neighbour；
 二是（东西、建议）有用的、管用的：a helpful suggestion。
 副词 helpfully 与名词 helpfulness 并入本条。
-**注意反讽用法**：说某人 very helpful 时语调一沉，意思就正相反 ——
+注意反讽用法：说某人 very helpful 时语调一沉，意思就正相反 ——
 英式口语里这是常见的挖苦。
 ① A helpful neighbour with a ladder saved them a call-out charge.
 = 一位有梯子又肯帮忙的邻居，给他们省了一笔上门费。
@@ -19020,7 +19020,7 @@ helpmate
 历史上几乎专用来说妻子。可数，也拼 helpmeet。
 词源有意思：它出自英文圣经里 a help meet for him（适合他的帮手）一语，
 后人把两个词误当成一个，才造出这个说法。
-**语域**：今天用它多半是仿古、戏谑或引用旧文本；正经说伴侣要用 partner。
+语域：今天用它多半是仿古、戏谑或引用旧文本；正经说伴侣要用 partner。
 ① A helpmate in that sense was expected to have no opinions of her own.
 = 那个意义上的贤内助，是不该有自己主张的。
 a helpmate = 贤内助、扶持的伴侣
@@ -19117,7 +19117,7 @@ hemisphere
 核心：两支。一是（地球的）半球：the northern hemisphere；
 二是（大脑的）半球：the left hemisphere。可数。
 形容词 hemispherical 并入本条。构词是 hemi-（半）加 sphere（球）。
-**有一条常识值得记**：南北半球季节相反，所以在全球通行的文本里，
+有一条常识值得记：南北半球季节相反，所以在全球通行的文本里，
 「夏天」这个词本身就是个陷阱，得写成月份或写明哪个半球。
 ① Nearly ninety per cent of people live in the northern hemisphere.
 = 将近九成的人住在北半球。
@@ -19177,7 +19177,7 @@ factor for hemophilia = 治血友病的凝血因子
 hemp
 核心：大麻（纤维用的那一类）：一年生草本，茎的韧皮纤维极结实 ——
 绳索、帆布、纸张与衣料都用它。不可数。
-**跟毒品那一支要分清**：是同一个物种的不同品种。hemp 指致幻成分极低、
+跟毒品那一支要分清：是同一个物种的不同品种。hemp 指致幻成分极低、
 专供纤维与种子的栽培型；说毒品要用 cannabis 或 marijuana。
 hemp seed 与 hemp oil 是食品，跟致幻无关。
 ① Hemp rope holds a knot better than anything synthetic and rots faster.
@@ -19193,7 +19193,7 @@ hemp seed = 麻籽
 hen
 核心：母鸡 —— 特指成年的雌鸡。一整套要连着记：公鸡是 a cock（英）
 或 a rooster（美），小鸡是 a chick，阉过育肥的公鸡是 a capon。可数。
-**有一处跟中文不同**：hen 还泛指别的鸟类的雌性（a hen pheasant 雌雉），
+有一处跟中文不同：hen 还泛指别的鸟类的雌性（a hen pheasant 雌雉），
 中文的「母鸡」不能这么用。
 英式的 a hen party 与 a hen night 是新娘婚前的女子聚会（男方那场叫 stag）。
 习语 as rare as hen's teeth 是「极其罕见」—— 鸡本来就没有牙。
@@ -19215,10 +19215,10 @@ as rare as hen's teeth = 极其罕见
 
 hence
 核心：两支。一是（正式）因此、所以：连接原因与结果。
-**语法要记**：它后面多跟名词短语或分词，不跟完整的主谓句 ——
+语法要记：它后面多跟名词短语或分词，不跟完整的主谓句 ——
 说 hence the delay，不说 hence the train was late；后者要用 so 或 therefore。
 二是（正式、偏旧）从此、之后：five years hence，
-时间词放在它**前面**，跟 from now 的语序正好相反。
+时间词放在它前面，跟 from now 的语序正好相反。
 ① The line was closed for two days, hence the queue at the bus stop.
 = 那条线停运了两天，所以公交站前排起了长队。
 hence = 因此、所以
@@ -19234,7 +19234,7 @@ henceforth
 核心：（正式、法律文书）从此以后、今后 —— 说的是从这份文件、这个决定
 或这一刻起往后。副词，多放句首。
 也说 henceforward，两个完全同义，后者更旧。
-**语域极高**：合同、章程、公告与旧译经里用；日常说 from now on。
+语域极高：合同、章程、公告与旧译经里用；日常说 from now on。
 ① Henceforth all requests must go through the committee in writing.
 = 今后一切申请须以书面形式递交委员会。
 henceforth = 从此以后
@@ -19310,7 +19310,7 @@ be full of hendiadys = 满是重言法
 henge
 核心：亨吉：史前的环形土木遗迹 —— 一圈沟与一道堤围出的圆形场地，
 里面可能立过木柱或石柱。可数，考古学用词。
-**要紧的一点**：这个词是从巨石阵的名字里截出来的，可按考古学的定义，
+要紧的一点：这个词是从巨石阵的名字里截出来的，可按考古学的定义，
 巨石阵本身并不算典型的亨吉 —— 它的沟在堤的里侧，跟通例正好相反。
 英国已知的亨吉有一百多处，多数从没有过石头，只剩沟与堤。
 ① A henge shows up from the air long after it has vanished from the ground.
@@ -19341,7 +19341,7 @@ the henna = 指甲花染上的颜色
 henpecked
 核心：（贬，常带调侃）妻管严的 —— 说男人被妻子管得死死的，事事不敢做主。
 只作形容词，多作定语。词源就是字面的「被母鸡啄」。
-**语域要当心**：它把婚姻里的强势一律算在女方头上，
+语域要当心：它把婚姻里的强势一律算在女方头上，
 今天写在正经文字里会显得过时而且带性别偏见；
 它主要出现在旧喜剧、漫画与自嘲里。
 ① A henpecked husband in that sitcom got the biggest laugh every week.
@@ -19357,7 +19357,7 @@ henpecked men = 妻管严的男人
 henry
 核心：亨利：电感的国际单位，符号 H。可数，复数 henries，也写 henrys。
 以美国物理学家约瑟夫·亨利命名。
-**单位名的通例在这里也成立**：作单位时小写，作人名时才大写 ——
+单位名的通例在这里也成立：作单位时小写，作人名时才大写 ——
 跟 newton、watt、volt、pascal 是同一批。
 实际电路里常用的是毫亨与微亨，整亨利的电感器已经相当大了。
 ① A coil of that size measures about two henries and weighs four kilograms.
@@ -19389,7 +19389,7 @@ hepatitis
 核心：肝炎：肝脏的炎症 —— 不可数，不加冠词。
 按病因分型，字母就是型号：甲型与戊型多经不洁的饮食与水传播，
 乙型、丙型与丁型经血液和体液传播。
-**重音在第三个音节**，这是最常念错的一处。
+重音在第三个音节，这是最常念错的一处。
 还有一点常被忽略：并非所有肝炎都由病毒引起，酒精与药物同样造得成。
 ① Hepatitis A goes round that school about once every four years.
 = 甲型肝炎在那所学校大约每四年流行一次。
@@ -19403,7 +19403,7 @@ have hepatitis = 患肝炎
 
 heptagon
 核心：七边形：七条边、七个角的多边形。可数，形容词 heptagonal 并入本条。
-**这个词有个日常落点**：英国的五十便士与二十便士硬币都是七边形，
+这个词有个日常落点：英国的五十便士与二十便士硬币都是七边形，
 而且是等宽的曲边七边形 —— 不管怎么转，横过来的宽度不变，
 自动售货机才量得准。
 ① A heptagon has seven sides and no two of them need be equal.
@@ -19464,11 +19464,11 @@ heptathletes = 七项全能选手
 
 her
 核心：两个身份，别搞混 ——
-一是 she 的**宾格**：放在动词或介词后面（I saw her）；
-二是**所有格限定词**：后面必须跟名词（her coat）。
+一是 she 的宾格：放在动词或介词后面（I saw her）；
+二是所有格限定词：后面必须跟名词（her coat）。
 所以这一个词既说「她」也说「她的」，全看它在句子里站在哪儿。
 独立使用的所有格是 hers，反身是 herself，都另立词条。
-**一处常错**：后面不跟名词时一定是宾格 —— give it to her 对，
+一处常错：后面不跟名词时一定是宾格 —— give it to her 对，
 说 give it to hers 就错了。
 泛指的问题跟 he 一样：从前拿一个性别兼指男女，今天要么用 they，
 要么写 he or she；写 her 时就是确指女性。
@@ -19496,7 +19496,7 @@ herald
 名词两支：一是（史）传令官、纹章官 —— 中世纪替君主宣读公告、
 辨认纹章的官员；二是「预兆、先声」。
 动词是「预示、宣告…的到来」，语气偏正式与新闻体，常用被动 be heralded as。
-**跟 harbinger 的分别**：harbinger 后面接的多半是坏事，这个词中性偏褒；
+跟 harbinger 的分别：harbinger 后面接的多半是坏事，这个词中性偏褒；
 而且它还能作动词，harbinger 基本不能。
 形容词 heraldic 与名词 heraldry 另立词条。
 ① A herald read the proclamation twice and rode on to the next town.
@@ -19545,10 +19545,10 @@ study heraldry = 研究纹章学
 herb
 核心：香草、药草 —— 叶、茎或花可用来调味、入药、取香的草本植物：
 parsley、thyme、basil 都是 herbs。
-**这条分界要记**：herb 取自植物的绿色部分，干的树皮、种子、根做成的调味料
+这条分界要记：herb 取自植物的绿色部分，干的树皮、种子、根做成的调味料
 则是 spices。
 可数，也常作复数；植物学上另有一个义，泛指一切草本植物，跟木本相对。
-**读音分英美**：英式发出开头的 h，美式通常不发 —— 这是英美之间
+读音分英美：英式发出开头的 h，美式通常不发 —— 这是英美之间
 最有名的几处读音差异之一。
 ① Fresh herbs go in at the end and dried ones at the beginning.
 = 新鲜香草最后放，干的一开头就放。
@@ -19595,7 +19595,7 @@ herbal
 核心：形容词与名词。形容词是「草药的、用草药的」：herbal tea、
 herbal remedies。名词是（旧）草药书 —— 按植物列出药性与用法的那种书。
 这一族两条并入本条：herbalism 是草药疗法这门实践，a herbalist 是做这行的人。
-**有一点值得说清**：herbal 不等于无害 —— 草药里同样有活性成分，
+有一点值得说清：herbal 不等于无害 —— 草药里同样有活性成分，
 也同样会跟处方药相互作用。
 ① Herbal tea in that house means whatever is growing by the back door.
 = 那家人所谓的花草茶，就是后门口正长着的那些东西。
@@ -19646,7 +19646,7 @@ use herbicide = 使用除草剂
 herbivore
 核心：食草动物：以植物为食的动物 —— 跟 carnivore（食肉动物）成对记，
 两者之间还有个既吃肉又吃植物的类别。可数，形容词 herbivorous 并入本条。
-**有一处反直觉**：食草动物的消化道往往比食肉动物长得多 ——
+有一处反直觉：食草动物的消化道往往比食肉动物长得多 ——
 纤维素难分解，得靠体内的微生物慢慢发酵，所以牛要反刍、马要靠盲肠。
 ① A herbivore that size needs to eat for sixteen hours a day.
 = 那么大的食草动物，一天得吃十六个钟头。
@@ -20276,10 +20276,10 @@ a herringbone jacket = 人字呢夹克
 用在布料上，指织出人字纹的粗花呢。
 
 hers
-核心：**独立所有格代词**：「她的那个」—— 后面**不跟名词**，
+核心：独立所有格代词：「她的那个」—— 后面不跟名词，
 它本身就顶一个完整的名词短语：that coat is hers 等于 that is her coat。
 跟 her 的分工干净得很：her 后面必须有名词，hers 后面必须没有。
-**不加撇号**：写 her's 是错的；这一族（his、hers、its、ours、yours、theirs）
+不加撇号：写 her's 是错的；这一族（his、hers、its、ours、yours、theirs）
 一律不加撇号。
 还有一个句型要记：a friend of hers —— 双重所有格，不能说 a friend of her。
 ① That coat is hers and the one on the floor is mine.
@@ -20295,12 +20295,12 @@ a friend of hers = 她的一个朋友
 
 herself
 核心：反身代词，两个用法要分开。
-一是**真反身**：动作回到主语自己身上（she cut herself），这时不能换成 her。
-二是**强调**：放在名词后面或句末，强调「本人、亲自」；
+一是真反身：动作回到主语自己身上（she cut herself），这时不能换成 her。
+二是强调：放在名词后面或句末，强调「本人、亲自」；
 这一支拿掉之后句子照样成立。
 固定说法：by herself（独自、靠自己）、be herself（还是老样子）、
 not be herself（状态不对劲）。
-**一处常错**：主语与宾语是同一个人时必须用 herself ——
+一处常错：主语与宾语是同一个人时必须用 herself ——
 说 she bought her a coat，意思就变成买给别人了。
 ① She taught herself Spanish from a book and two years of radio.
 = 她靠一本书加两年的广播自学了西班牙语。

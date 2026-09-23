@@ -81,6 +81,13 @@ def parse(path):
             if ts in DRAFT or ts.startswith('Hmm ') or ts.startswith('Hmm，'):
                 e['issues'].append("混进了草稿行：%s" % ts[:20])
                 break
+        # Markdown 加粗 —— app 不解析 Markdown，**会原样显示成星号**。CLAUDE.md
+        # 早写明了不许用，可一直没有尺子，g / h 段就攒出了 177 行（2026-09-23
+        # 用户裁定全部去掉，同时加上这一道）。单个星号不拦：asterisk 词条要用。
+        for _, t in b['lines']:
+            if '**' in t:
+                e['issues'].append("混进了 Markdown 加粗 **：%s" % t.strip()[:20])
+                break
         if not e['senses']: e['issues'].append("没有 ①②③ 例句")
         # B 词表按牛津高阶收全部义项，每条必须有一段总括的「核心：」讲解，
         # 否则几十个义项堆在一起没有主线，学的人抓不住这个词到底是什么。

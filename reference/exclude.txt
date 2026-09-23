@@ -538,3 +538,9 @@ hadrian's wall  # 遗址地名 Hadrian's Wall 的清洗残片，属纯专名，�
 # --- he- 段（2026-09-21 开段时判的）---
 hemidemisemiquaver  # 六十四分音符，音乐记谱术语，同 demisemiquaver / accelerando 那条
 heal's       # 家具店 Heal's 的清洗残片，属纯专名兼商标，同 harper's bazaar
+hg           # 缩写（百克 hectogram），同 cwt —— 用户 2026-09-23 确认小写单位缩写一律剔除
+hl           # 缩写（百升 hectolitre），同上
+h.p.         # 缩写（马力 horsepower），同上
+hr           # 缩写（小时 hour），同上
+hijra        # 印度英语（南亚的第三性群体），按地区变体通则剔除
+history-sheeter  # 印度英语（有案底的惯犯），按地区变体通则剔除

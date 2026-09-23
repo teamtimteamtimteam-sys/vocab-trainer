@@ -31,7 +31,7 @@ leave somebody heartsick = 让某人心里发苦
 a heartsick letter = 一封伤心的信
 
 heartstrings
-核心：心弦 —— **恒作复数**，几乎只活在两个搭配里：
+核心：心弦 —— 恒作复数，几乎只活在两个搭配里：
 tug at somebody's heartstrings 与 pull at somebody's heartstrings。
 语气要当心：说某样东西 tugs at the heartstrings，多半暗指它煽情、
 刻意讨人怜，不全是褒义。
@@ -79,7 +79,7 @@ hearty
 三是（饭菜）实在管饱的：a hearty breakfast；
 四是（身体）健壮的 —— 今天几乎只活在 hale and hearty 里。
 比较级 heartier、最高级 heartiest；副词 heartily 与名词 heartiness 并入本条。
-**注意还有贬的一面**：说人 hearty 有时是暗指他热情得过了头、吵闹而不体察人意。
+注意还有贬的一面：说人 hearty 有时是暗指他热情得过了头、吵闹而不体察人意。
 ① A hearty welcome at that door has embarrassed several visitors.
 = 那家门口的热情招呼，让好几位客人下不来台。
 a hearty welcome = 热情的欢迎
@@ -186,7 +186,7 @@ heated
 核心：两支。一是加热的、供暖的：a heated pool、heated seats；
 二是（争论、言辞）激烈的、火气很大的：a heated argument。
 副词 heatedly 并入本条。
-**分工很干净**：说物是「加了热」，说话是「上了火」，两支不会混。
+分工很干净：说物是「加了热」，说话是「上了火」，两支不会混。
 ① A heated pool in that climate gets used for about four months a year.
 = 在那种气候里，恒温泳池一年用得上大约四个月。
 a heated pool = 恒温泳池
@@ -234,7 +234,7 @@ heathen
 核心：异教徒 —— 从一神教（尤其基督教）的立场看，不信本教的人。
 可数，也用 the heathen 作总称。
 词源就是上一条的石南荒原：本义是「住在荒地上的人」，即没进教会的乡下人。
-**语域要紧**：这个词带着居高临下的贬义，属传教时代的语汇，今天不用来指人；
+语域要紧：这个词带着居高临下的贬义，属传教时代的语汇，今天不用来指人；
 说别的宗教的信徒要用 non-Christian 或 people of other faiths。
 今天真正常见的只有戏谑用法：笑朋友不懂规矩、不讲究。
 ① Missionaries wrote home about the heathen and never learned the language.
@@ -343,7 +343,7 @@ heave
 三是口语的呕吐、作呕；
 四是发出（叹息、呻吟）：heave a sigh of relief；
 五是航海的 heave to：使船迎风停住。
-**过去式分两套**：一般义用 heaved，航海义用 hove ——
+过去式分两套：一般义用 heaved，航海义用 hove ——
 hove into view（进入视野）是这一支最常见的说法。
 名词义是「一举、一拽」；the heave-ho 指被赶走、被甩掉。
 ① Two of them heaved the piano onto a trolley and neither could walk on Monday.
@@ -386,7 +386,7 @@ heaven
 二是复数 the heavens：天空（文、旧），the heavens opened 是「大雨倾盆」；
 三是口语的「极乐、美事一桩」：sheer heaven。
 形容词 heavenly（天上的；极好的）与副词 heavenward（向天）并入本条。
-**单复数是硬规矩**：宗教义一律单数小写，天空义必用复数 the heavens。
+单复数是硬规矩：宗教义一律单数小写，天空义必用复数 the heavens。
 习语一族：thank heavens、for heaven's sake、move heaven and earth、
 in seventh heaven、heaven forbid。
 ① Nobody in that family talked about going to heaven and everybody went to church.
@@ -431,7 +431,7 @@ heaven-sent = 天赐的、来得正是时候
 也说 a heaven-sent opportunity（天赐良机）。
 
 heavy
-核心：底层是**重**，往六条线推：
+核心：底层是重，往六条线推：
 一、物理上沉的：a heavy suitcase（反义 light）；
 二、分量大、程度深 —— 这一支最活：heavy rain、heavy traffic、
 heavy drinking、a heavy cold、heavy losses；凡是「量大得让人吃不消」都用它；
