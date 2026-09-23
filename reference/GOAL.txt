@@ -9,30 +9,27 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-23，第二十六轮）═══
-B 词表 11266 条、义项 41211 条，词典序 a → honky-tonk。A 表 3002 条。
+═══ 现状（2026-09-23，第二十七轮）═══
+B 词表 11311 条、义项 41387 条，词典序 a → horde。A 表 3002 条。
   **a–g 七个字母收完**（各段 97% 以上，余下全是待推迟）。
   **h 字母在写**：
    · ha- 551/566（97%）、he- 418/420（99%）、hi- 251/251、hm- 2/2，余下全是待推迟。
-   · **ho- 段 222/509（43%），最末词条 honky-tonk**。
-     本轮三批：homebody → homey 22 条、homicide → honcho 20 条（homie 从 homeboy
-     拆出单立）、hone → honky-tonk 13 条（honestly 登 derived-keep）。
-     homoeopath / homoeopathy / homoeostasis / homy 登 inflections.txt。
+   · **ho- 段 292/509（57%），最末词条 horde**。
+     本轮三批：Honduran → hoof 18 条（honour 21 义，本表以 honour 为词头，
+     honor→honour、hooves→hoof 登 inflections）、hook → Hooverville 18 条
+     （hook 17 义）、hop → horde 11 条（hope 18 义；hopefully 登 derived-keep）。
    · 还没动的：hu 165、hy 115。
-  **下一批先补 Honduran**（排在 honcho 与 hone 之间，这一轮漏写了），
-    然后是 **honour / honor 一族**：honour（大词，并 honour code、honour killing、
-    honourable mention、美式 honor roll / honor society / honor system）、
-    honourable / honorable（并 honourably）、honorarium、honorary、honoree / honouree、
-    honorific、honoris causa。英美拼法前四字母都是 hono，并得上；
-    但要按 HANDOFF 的老办法各走各的场景，别让两种拼法的例句撞车。
-    再往后：hooch、hood 一族、hoof（hooves 前四字母对不上，要登 inflections）、
-    **hook**、hooligan、hoop、hoot、hoover、**hop**、**hope**、horizon、**horn**、
-    **horse**、**hot**、**house**、**how** —— 大词各自单立一批。
+  **下一批从 horizon 起**：horizon、horizontal（并 horizontally）、hormone（并 hormonal、
+    hormone replacement therapy）、**horn**（并 horn in、horn of plenty、horn-rimmed、
+    horned）、hornbeam、hornbill、hornet、hornpipe、horny、horology、horoscope、
+    horrendous、horrible、horrid、horrific、horrify 一族、**horror**（并 horror story、
+    horror-struck）、hors de combat、hors d'oeuvre，然后 **horse**（大词，单立一批，
+    并 horse about / horse around / horse race 等一串）。
   **high 78 义，用户 2026-09-23 裁定不拆**。以后别再往里塞。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11266
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11311
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **2026-09-23 推送过两次**（最近一次到 cbb79206）；之后本地领先 origin 9 笔提交，
+  **2026-09-23 推送过两次**（最近一次到 cbb79206）；之后本地领先 origin 12 笔提交，
   含本次这一笔。push 照旧等用户开口。
   g / h 段 177 行 Markdown 加粗已按用户 2026-09-23 裁定全部去掉，
   check-wordlist 从此见 ** 就拦。
