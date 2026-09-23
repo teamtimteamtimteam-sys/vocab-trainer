@@ -768,6 +768,15 @@ CHECK = {
  'hereafter': ['the hereafter'],
  'hew': ['hew to', 'rough-hewn', 'hew out'],
  'hey': ['hey presto'],
+ 'hide': ['have nothing to hide', 'hide behind', 'hide out', 'hide-and-seek',
+          'hide nor hair', 'save your own hide', 'hide your light under a bushel'],
+ 'hiding': ['in hiding', 'go into hiding', 'a good hiding', 'on a hiding to nothing',
+            'hiding place'],
+ 'hidden': ['a hidden agenda', 'hidden depths', 'a hidden gem'],
+ 'high': ['high and dry', 'high and mighty', 'high time', 'in high spirits', 'on a high',
+          'from on high', 'high and low', 'the high seas', 'on your high horse',
+          'riding high', 'hold your head high', 'high on', 'aim high',
+          'the moral high ground', 'high season', 'high street'],
 }
 def main():
     B = {}
