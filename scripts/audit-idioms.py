@@ -800,6 +800,11 @@ CHECK = {
  'hobby': ['hobby horse'],
  'hock': ['in hock'],
  'hoax': ['a hoax call'],
+ 'hold': ['hold your breath', 'hold your tongue', 'hold your own', 'hold the line',
+          'hold true', 'hold water', 'hold fire', 'hold court', 'hold the fort',
+          'hold sway', 'hold all the cards', 'hold your horses', 'get hold of',
+          'on hold', 'no holds barred', 'hold a candle to', 'hold the key to',
+          'hold still', 'hold office', 'hold hands', 'take hold'],
 }
 def main():
     B = {}

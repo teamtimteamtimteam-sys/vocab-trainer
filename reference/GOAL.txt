@@ -9,33 +9,44 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-23，第二十三轮）═══
-B 词表 11150 条、义项 40767 条，词典序 a → hiya。A 表 3002 条。
+═══ 现状（2026-09-23，第二十四轮）═══
+B 词表 11185 条、义项 40929 条，词典序 a → hold。A 表 3002 条。
   **a–g 七个字母收完**（各段 97% 以上，余下全是待推迟）。
   **h 字母在写**：
-   · ha- 551/566（97%）、he- 417/420（99%），余下全是待推迟。
-   · **hi- 段收完：251/251（100%）**。本轮两批：hit 单立一批（47 义，
-     写完当场并掉十二条待推迟）；hitch → hiya 8 条（hive off 并进 hive）。
-   · 还没动的：hm 2（hm / hmm）、ho 518、hu 165、hw 1（hwyl）、hy 115。
-  **下一步**：
-    ① **hm 段先改尺子再写**：check-wordlist 的草稿行检查把整行等于 hmm 的
-      当成草稿（DRAFT 元组里有 'hmm'），词头 hmm 本身就会被拦 ——
-      改成跳过首行（词头行），故意塞一行裸的 hmm 进例句区验一遍还拦得住，再写。
-    ② hwyl 已剔（用户 2026-09-23 裁定，威尔士变体同其余地区变体一样处理）。
-    ③ 然后开 **ho- 段**（518 条，h 里最大的一段）：hold、home、horse、hot、house、
-      how 这些大词都在里面；held 已登 inflections.txt（→ hold），写 hold 时自动认上。
-      动笔前照例：先扫清单剔干净、往 audit-idioms 的 CHECK 补大词习语。
+   · ha- 551/566（97%）、he- 418/420（99%，held 随 hold 认上了）、
+     hi- 251/251（100%）、hm- 2/2（hmm 并 hm），余下全是待推迟。
+   · **ho- 段 69/509（13%），最末词条 hold**。清单剔过一轮：hongi / hooroo /
+     hoon / howzit / hoser / hoe in（地区变体）、holmium / holophrasis /
+     holophrastic（窄专业）；hove→heave、hm→hmm 进 inflections.txt。
+     本轮三批：hmm → hockey 17 条、hocus-pocus → hokum 17 条、hold 单立一批
+     （69 义，十七个短语动词全收）。
+   · 还没动的：hu 165、hy 115；hw 的 hwyl 已剔（用户 2026-09-23 裁定，
+     威尔士变体同其余地区变体一样处理）。
+  **下一批从 holdall 起**：holdall、holder、holding（并 holding company /
+    holding operation / holding pattern）、holdover、**hole**（大词，并
+    hole-and-corner / hole in the heart / hole-in-one / hole in the wall /
+    hole up）、holey、**holiday**（并 holiday camp）、holidaymaker、holiness、
+    holism / holistic、holler、**hollow**（并 hollow out）、holly / hollyhock、
+    holocaust、hologram / holograph、hols、Holstein、holster、**holy**（并
+    holy orders / holy water / holier-than-thou）、homage、hombre、homburg，
+    然后是 **home** 一族（最大的一族之一，按核心词单立一批）。
+    动笔前先往 audit-idioms 的 CHECK 补 hole / holiday / hollow / holy / home。
   **high 78 义，用户 2026-09-23 裁定不拆**。以后别再往里塞。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11150
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11185
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **2026-09-23 推送过一次**（到 18a3f3cc）；之后本地领先 origin 6 笔提交，
+  **2026-09-23 推送过两次**（最近一次到 cbb79206）；之后本地领先 origin 3 笔提交，
   含本次改 GOAL 这一笔。push 照旧等用户开口。
   g / h 段 177 行 Markdown 加粗已按用户 2026-09-23 裁定全部去掉，
   check-wordlist 从此见 ** 就拦。
   hg / hl / h.p. / hr 已进 exclude.txt（用户 2026-09-23 确认：小写单位缩写同 cwt 一律剔除）。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
+· **三字母词头的变体要登两处**：hm→hmm 进了 inflections.txt，coverage 认了，
+  audit-padding 却照报「例句里没有词」—— 它不读 inflections.txt，只认自己的
+  STRONG 表，而且原先对短于三个字母的变体一律不认。2026-09-23 已补
+  （STRONG 加 hmm→hm，same_word 认整词相等）。以后登记不规则变体时，
+  两张表都看一眼。
 · **HANDOFF 六之 1b 这一天又栽了三回**（heroic couplet、hijacker、hiker）：
   可数名词的派生词并进词根时，例句顺手写成复数，单数就认不上。
   动笔时对每一个并入的可数名词都问一句「单数露过面没有」。
