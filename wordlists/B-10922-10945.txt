@@ -1,3 +1,66 @@
+helicopter
+核心：直升机：靠旋翼产生升力、能垂直起降与悬停的飞行器。可数。
+口语缩略为 chopper（美式），军中说 helo。
+也作动词：helicopter somebody somewhere。
+两个比喻说法一并记，都并入本条：a helicopter parent（事事盘旋在孩子头顶的家长）、
+a helicopter view（居高临下的总览视角）。
+① A helicopter can hover, which is the one thing it does that a plane cannot.
+= 直升机能悬停 —— 这是它唯一做得到而飞机做不到的事。
+a helicopter = 直升机
+② They helicoptered two engineers onto the platform before the weather closed in.
+= 天气变坏之前，他们用直升机把两名工程师送上了平台。
+helicopter somebody somewhere = 用直升机把某人送到某处
+③ A helicopter parent rings the tutor before the student has even read the email.
+= 直升机家长在学生还没读到邮件之前，就给导师打了电话。
+a helicopter parent = 事事盘旋在孩子头顶的家长
+④ The report gives a helicopter view and no numbers at all.
+= 那份报告给的是居高临下的总览，一个数字也没有。
+a helicopter view = 总览视角
+
+heliocentric
+核心：日心的：以太阳为中心的 —— 说的是哥白尼那一套宇宙模型，
+对着的是 geocentric（地心的）。
+学术与科普用词，几乎只跟 model、view、system、coordinates 搭配。
+构词：helio-（太阳）加 -centric（以…为中心的）。
+① The heliocentric model was easier to calculate with long before it was believed.
+= 日心模型早在被人相信之前，就已经更好算了。
+the heliocentric model = 日心模型
+② A heliocentric view puts the observer somewhere much less comfortable.
+= 日心的视角，把观察者放到了一个远没那么舒服的位置上。
+a heliocentric view = 日心的视角
+③ Heliocentric coordinates are what those tables are actually in.
+= 那些表里用的其实是日心坐标。
+heliocentric coordinates = 日心坐标
+
+heliograph
+核心：两支。一是日光信号器：用镜子反射阳光、靠长短闪光发信号的装置 ——
+十九世纪的军用通信器材，山头之间靠它传令。
+二是太阳照相仪：专门拍摄太阳的天文仪器。可数，也作动词。
+① A heliograph worked over forty miles on a clear day and not at all in fog.
+= 晴天里日光信号器能传四十英里，一起雾就完全不行。
+a heliograph = 日光信号器
+② They heliographed the position back and waited two days for an answer.
+= 他们用日光信号把方位传了回去，等了两天才有回音。
+heliograph something = 用日光信号发送某事
+③ The heliograph in that observatory has not been used since 1962.
+= 那座天文台的太阳照相仪，从一九六二年起就没再用过。
+the heliograph = 太阳照相仪
+
+heliotrope
+核心：两支。一是香水草：开紫花、香气极浓的园艺植物 ——
+名字的意思就是「向着太阳转」。二是由这花而来的颜色词：淡紫色。
+可数（指植物），不可数（指颜色）。
+维多利亚时代的花语与半丧服里，这个颜色有固定含义，所以旧小说里常出现。
+① Heliotrope in a warm border will scent a whole garden by evening.
+= 暖处花境里的香水草，到傍晚能把整座花园熏香。
+heliotrope = 香水草
+② She wore heliotrope for the second year of mourning.
+= 服丧的第二年，她穿的是淡紫色。
+heliotrope = 淡紫色
+③ Two heliotropes in pots by the door did better than the ones in the ground.
+= 门边盆里那两株香水草，长得比地里的好。
+heliotropes = 香水草（复数）
+
 helipad
 核心：直升机停机坪：一小块专供直升机起降的平地或平台 ——
 医院楼顶、油气平台、私人宅邸上的那种。可数。
@@ -331,124 +394,3 @@ helmsmen = 舵手（复数）
 ③ Calling a leader the helmsman of the nation went out of fashion for good reason.
 = 把领袖称作国家的舵手，这种说法过时了，而且过时得有道理。
 the helmsman of the nation = 国家的舵手
-
-help
-核心：英语里最常用的动词之一，两条线彼此无关，全靠句型分。
-一、帮助：help somebody with something、help somebody (to) do something。
-句型要记：宾语后面的不定式带不带 to 都行，口语里多半不带
-（help me carry this）—— 这是英语里少数几个允许省掉 to 的动词之一；
-with 后面只能接名词，不能接动词。
-二、忍住、避免 —— 只跟 can／cannot 连用：cannot help doing something、
-cannot help it、it cannot be helped。这一支跟「帮助」毫无关系。
-名词有不可数的「帮助」（ask for help）与可数的「一份帮忙」（a great help）。
-短语动词：help out、help yourself、help somebody on／off with something。
-① She helped him with the forms and refused to sign anything herself.
-= 她帮他填了表，自己却一样都不肯签。
-help somebody with something = 在某事上帮某人
-② Two neighbours helped us carry it up three flights.
-= 两个邻居帮我们把它抬上了三层楼。
-help somebody do something = 帮某人做某事
-口语里几乎都省掉 to；写正式文体时加上 to 也对。
-③ I cannot help thinking there is a simpler way to do all this.
-= 我总忍不住觉得，这事有更简单的办法。
-cannot help doing something = 忍不住做某事
-后面必须接动名词，接不定式是错的。
-④ He is late every Tuesday and says he cannot help it.
-= 他每个星期二都迟到，还说自己没办法。
-cannot help it = 没办法、控制不了
-⑤ The roof will cost more than the house is worth, and it cannot be helped.
-= 修屋顶要花的钱比房子还值钱，可这没辙。
-it cannot be helped = 无可奈何
-⑥ She asked for help twice and got it on the third try.
-= 她开口求助了两次，第三次才求到。
-ask for help = 求助
-⑦ That one diagram was a great help to everybody in the room.
-= 单是那一张图，就帮了屋里所有人的大忙。
-a great help = 很大的帮助
-⑧ Three of them helped out on the Saturday and stayed for the clearing up.
-= 他们三个星期六来帮了一把，还留下来收拾。
-help out = 帮一把、救急
-⑨ Help yourself to the bread; the soup is coming in a minute.
-= 面包自己拿，汤马上就来。
-help yourself to something = 自己随便取用某物
-⑩ He helped her on with her coat and opened the door with his foot.
-= 他帮她穿上大衣，用脚把门顶开。
-help somebody on with something = 帮某人穿上某物
-help on with 与 help off with 的宾语只能插在中间：help her on with the coat。
-⑪ She helped him off with the wet boots and put them by the fire.
-= 她帮他脱下湿靴子，放到炉火边。
-help somebody off with something = 帮某人脱下某物
-⑫ I rang the help desk three times before anyone could tell me why my password had stopped working.
-= 我给服务台打了三次电话，才有人告诉我密码为什么不能用了。
-the help desk = 服务台、技术支持部门
-多指公司或机构里专门解答使用问题的部门，尤其是电脑方面的。
-
-helper
-核心：帮手、助手 —— 干活时搭把手的人，不是正式职位。可数。
-语气中性偏日常：a willing helper、classroom helpers。
-正式的职务要说 assistant，无偿的志愿者说 volunteer。
-① A helper with a van made the whole move take one day instead of three.
-= 有个带面包车的帮手，整场搬家一天就完了，没用三天。
-a helper = 帮手
-② Two willing helpers turned up and neither of them knew how to use the saw.
-= 来了两个乐意帮忙的人，都不会用锯。
-willing helpers = 乐意帮忙的人
-③ Classroom helpers hear a great deal more than the teachers think they do.
-= 课堂助手听到的，比老师以为的多得多。
-classroom helpers = 课堂助手
-
-helpful
-核心：两支。一是（人）乐于助人的：a helpful neighbour；
-二是（东西、建议）有用的、管用的：a helpful suggestion。
-副词 helpfully 与名词 helpfulness 并入本条。
-注意反讽用法：说某人 very helpful 时语调一沉，意思就正相反 ——
-英式口语里这是常见的挖苦。
-① A helpful neighbour with a ladder saved them a call-out charge.
-= 一位有梯子又肯帮忙的邻居，给他们省了一笔上门费。
-a helpful neighbour = 乐于助人的邻居
-② The most helpful suggestion came from somebody who had never done the job.
-= 最管用的建议，来自一个从没干过这活的人。
-a helpful suggestion = 管用的建议
-③ He helpfully pointed out the mistake after the thing had gone to print.
-= 东西都付印了，他才「好心」把那个错指出来。
-helpfully = 好心地（这里带反讽）
-④ Her helpfulness is the reason four people ring her before nine every morning.
-= 她这份热心，正是每天早上九点前有四个人给她打电话的原因。
-helpfulness = 乐于助人、热心
-
-helping
-核心：（食物的）一份、一客 —— 盛在盘子里的那个分量。可数：
-a second helping、a generous helping。
-固定说法 a helping hand 是「搭把手的帮助」，跟食物无关，也并在本条。
-① A second helping of that pudding is a decision you regret at four in the morning.
-= 那种布丁再来一份，是你凌晨四点会后悔的决定。
-a second helping = 再来的一份
-② She gave everybody a generous helping and ate almost nothing herself.
-= 她给每个人都盛得满满的，自己几乎没吃。
-a generous helping = 满满的一份
-③ Two of them offered a helping hand and one of them meant it.
-= 他们中有两个说要搭把手，其中一个是真心的。
-a helping hand = 一把帮手
-
-helpless
-核心：无助的、无能为力的 —— 说人在某个处境里完全使不上力。
-两种用法：be helpless、be helpless to do something；
-还有一支说「笑得或气得浑身没劲」：helpless with laughter。
-副词 helplessly 与名词 helplessness 并入本条。
-跟 useless 分清：useless 是「派不上用场」（可以说物），
-helpless 是「自己无力自保」，几乎只说人与动物。
-① A newborn of that species is helpless for about eleven weeks.
-= 那个物种的幼崽，头十一个星期左右完全无助。
-be helpless = 无助的、无能为力的
-② They were helpless to stop it and the paperwork proves they tried.
-= 他们无力阻止，而那些文书证明他们试过。
-be helpless to do something = 无力做某事
-③ By the third verse half the choir was helpless with laughter.
-= 唱到第三段，半个唱诗班已经笑得直不起腰。
-helpless with laughter = 笑得浑身没劲
-④ He watched helplessly from the other side of the glass.
-= 他隔着玻璃眼睁睁看着，却使不上一点力。
-helplessly = 无助地、眼睁睁地
-⑤ The helplessness of that week is what she remembers, not the diagnosis.
-= 她记住的是那一周的无力感，而不是诊断本身。
-helplessness = 无力感

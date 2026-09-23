@@ -1,3 +1,61 @@
+Hebrew
+核心：名词两个身份：一是希伯来语，不可数、不加冠词，跟 French、Latin 同一类；
+二是（古代的）希伯来人，可数，多用复数 the Hebrews。形容词是「希伯来语的、希伯来人的」。
+首字母永远大写。说语言时要分清两个阶段就加修饰语：Biblical Hebrew（圣经希伯来语）
+对 Modern Hebrew（现代希伯来语）。
+形容词 Hebraic 并入本条：它更书面，只用于文化、思想、文本的层面，
+不拿来说语言课、字母、报纸这类具体的东西 —— 那些一律用 Hebrew。
+① She started learning Hebrew in her thirties so she could read her grandfather's letters.
+= 她三十多岁才开始学希伯来语，为的是能读懂祖父的信。
+learn Hebrew = 学希伯来语
+作语言名时不可数，前面不加冠词。
+② The sign above the bakery was in Hebrew and English, with the Hebrew letters on top.
+= 面包店上方的招牌用希伯来文和英文写成，希伯来字母在上面。
+Hebrew letters = 希伯来字母
+放在名词前面就是形容词，意思是「希伯来语的」。
+③ In the sermon the Hebrews of the Old Testament were wanderers rather than settlers.
+= 在那篇布道里，旧约中的希伯来人是漂泊者，而不是定居者。
+the Hebrews = 希伯来人（古代）
+指人时只说古代的民族；今天的人不这么称呼。
+④ The novel draws on Hebraic tradition as much as it does on Greek philosophy.
+= 这部小说取材于希伯来传统，程度不亚于取材于希腊哲学。
+Hebraic tradition = 希伯来传统
+Hebraic 书面，搭配多是 tradition、thought、culture 这类抽象名词。
+
+heck
+核心：（口语）「见鬼、到底」—— hell 的委婉替身，语气轻得多，
+在长辈与孩子面前也说得出口。不可数，不作实义名词。
+三个常用位置：what the heck（到底怎么／管它呢）、
+a heck of a（好大一个、相当了不起的）、the heck 跟在疑问词后面加强语气。
+① What the heck did she mean by that second sentence?
+= 她第二句话到底是什么意思？
+what the heck = 到底（加强疑问）
+② It was a heck of a drive and we did the whole thing in one day.
+= 那趟车真够开的，我们一天就跑完了。
+a heck of a = 好大一个、相当了不起的
+③ Why the heck did nobody check the date on the tickets?
+= 究竟怎么就没人核一下票上的日期？
+why the heck = 究竟为什么
+④ Oh, what the heck — order the big one.
+= 唉，管它呢，就点大的吧。
+what the heck = 管它呢（表示放开顾虑）
+同一个说法，语调一变就从质问变成了让步。
+
+heckle
+核心：起哄、喝倒彩 —— 在演讲、演出或比赛中大声打断、嘲讽台上的人。
+及物与不及物都行。起哄的人是 a heckler，这件事是 heckling，都并入本条。
+跟 boo 的分别：boo 只是出声嘘，heckle 是喊出具体内容。
+在英国政治里它算一项传统：竞选集会上要是没人起哄，反倒显得冷清。
+① Somebody heckled the speaker for four minutes and then walked out.
+= 有人对着演讲者起哄了四分钟，随后走了出去。
+heckle somebody = 对某人起哄
+② A heckler at the back asked the only question that mattered all evening.
+= 后排一个起哄的人，问出了整晚唯一要紧的问题。
+a heckler = 起哄的人
+③ Heckling at that meeting was so constant that the chair gave up.
+= 那场会上的起哄没个完，主席索性放弃了。
+heckling = 起哄
+
 hectare
 核心：公顷：一万平方米的面积单位，约合二点四七英亩。可数，缩写 ha。
 农业、林业与土地统计里的标准单位。英美日常仍常说 acre，
@@ -418,66 +476,3 @@ a heist movie = 劫案类型片
 ③ They heisted a truck full of cigarettes and were caught selling them locally.
 = 他们劫了一卡车香烟，在本地出手时被逮住。
 heist something = 劫走某物
-
-helicopter
-核心：直升机：靠旋翼产生升力、能垂直起降与悬停的飞行器。可数。
-口语缩略为 chopper（美式），军中说 helo。
-也作动词：helicopter somebody somewhere。
-两个比喻说法一并记，都并入本条：a helicopter parent（事事盘旋在孩子头顶的家长）、
-a helicopter view（居高临下的总览视角）。
-① A helicopter can hover, which is the one thing it does that a plane cannot.
-= 直升机能悬停 —— 这是它唯一做得到而飞机做不到的事。
-a helicopter = 直升机
-② They helicoptered two engineers onto the platform before the weather closed in.
-= 天气变坏之前，他们用直升机把两名工程师送上了平台。
-helicopter somebody somewhere = 用直升机把某人送到某处
-③ A helicopter parent rings the tutor before the student has even read the email.
-= 直升机家长在学生还没读到邮件之前，就给导师打了电话。
-a helicopter parent = 事事盘旋在孩子头顶的家长
-④ The report gives a helicopter view and no numbers at all.
-= 那份报告给的是居高临下的总览，一个数字也没有。
-a helicopter view = 总览视角
-
-heliocentric
-核心：日心的：以太阳为中心的 —— 说的是哥白尼那一套宇宙模型，
-对着的是 geocentric（地心的）。
-学术与科普用词，几乎只跟 model、view、system、coordinates 搭配。
-构词：helio-（太阳）加 -centric（以…为中心的）。
-① The heliocentric model was easier to calculate with long before it was believed.
-= 日心模型早在被人相信之前，就已经更好算了。
-the heliocentric model = 日心模型
-② A heliocentric view puts the observer somewhere much less comfortable.
-= 日心的视角，把观察者放到了一个远没那么舒服的位置上。
-a heliocentric view = 日心的视角
-③ Heliocentric coordinates are what those tables are actually in.
-= 那些表里用的其实是日心坐标。
-heliocentric coordinates = 日心坐标
-
-heliograph
-核心：两支。一是日光信号器：用镜子反射阳光、靠长短闪光发信号的装置 ——
-十九世纪的军用通信器材，山头之间靠它传令。
-二是太阳照相仪：专门拍摄太阳的天文仪器。可数，也作动词。
-① A heliograph worked over forty miles on a clear day and not at all in fog.
-= 晴天里日光信号器能传四十英里，一起雾就完全不行。
-a heliograph = 日光信号器
-② They heliographed the position back and waited two days for an answer.
-= 他们用日光信号把方位传了回去，等了两天才有回音。
-heliograph something = 用日光信号发送某事
-③ The heliograph in that observatory has not been used since 1962.
-= 那座天文台的太阳照相仪，从一九六二年起就没再用过。
-the heliograph = 太阳照相仪
-
-heliotrope
-核心：两支。一是香水草：开紫花、香气极浓的园艺植物 ——
-名字的意思就是「向着太阳转」。二是由这花而来的颜色词：淡紫色。
-可数（指植物），不可数（指颜色）。
-维多利亚时代的花语与半丧服里，这个颜色有固定含义，所以旧小说里常出现。
-① Heliotrope in a warm border will scent a whole garden by evening.
-= 暖处花境里的香水草，到傍晚能把整座花园熏香。
-heliotrope = 香水草
-② She wore heliotrope for the second year of mourning.
-= 服丧的第二年，她穿的是淡紫色。
-heliotrope = 淡紫色
-③ Two heliotropes in pots by the door did better than the ones in the ground.
-= 门边盆里那两株香水草，长得比地里的好。
-heliotropes = 香水草（复数）

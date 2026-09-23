@@ -42216,6 +42216,10 @@ bath chair = 旧式带篷轮椅
 ⑰ The bathysphere descended slowly on a cable that everyone distrusted.
 = 深海球靠一根谁都信不过的缆绳缓缓下潜。
 bathysphere = 深海探测球
+⑱ The old cottage had no bathroom, only a tin hip bath in front of the kitchen fire.
+= 那座老农舍没有浴室，只在厨房炉火前放着一只铁皮坐浴盆。
+a hip bath = 坐浴盆
+只能坐着洗、水没到腰部的小浴盆，多见于旧时。
 
 Bath bun
 核心：英式甜面包：加了糖粒与蜜饯果皮的圆面包，表面撒粗砂糖，得名于

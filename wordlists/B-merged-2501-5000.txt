@@ -47407,6 +47407,10 @@ the common rat = 褐家鼠
 = 他们午饭后在公共休息室碰头，十分钟就谈妥了。
 a common room = 学校里的公共休息室（英式）
 学生用的叫 junior common room，教师用的叫 staff common room。
+⑱ The highest common factor of twelve and eighteen is six, which the whole class got wrong.
+= 十二和十八的最大公约数是六，全班都算错了。
+the highest common factor = 最大公约数
+英式数学用语，缩写 HCF；美式多说 greatest common divisor。
 构词：拉丁语 communis 公共的
 注意语域：说人 common 是英式的阶层贬义，很伤人。
 

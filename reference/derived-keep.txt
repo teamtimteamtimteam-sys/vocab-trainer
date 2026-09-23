@@ -49,3 +49,5 @@ hardly         # 形状上像 hard 的副词，意思却完全不同：它表示
 highly          # 「非常」（highly unlikely）、「高水平地」（highly paid / highly placed）、
                 # 「赞许地」（think / speak highly of）三支 high 都没有；
                 # high 作副词只说真实高度（jump high，不说 jump highly）
+higher          # 「高等的」（higher education / a higher degree）、生物学的「高等」
+                # （higher animals / plants）、口语名词 higher-ups，三支 high 都没有
