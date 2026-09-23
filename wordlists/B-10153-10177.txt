@@ -1,0 +1,424 @@
+gibe
+核心：名词与动词，讥讽、奚落 —— 当面说的那种带刺的话。
+注意拼写：更常见的写法是 jibe，两个拼法同义，词典两条都收；
+另有一个跟它同形的 jibe 表示「与…相符」，那是另一个词。
+动词常说 gibe at somebody。
+① One gibe about his accent ended a friendship of thirty years.
+= 一句拿他口音开刀的讥讽，断送了三十年的交情。
+a gibe = 讥讽的话
+② They gibed at each other across the table until the food came.
+= 他们隔着桌子互相奚落，直到菜上来。
+gibe at somebody = 奚落某人
+③ He let the gibes go and answered the one real question.
+= 他不理那些冷嘲热讽，只回答了那个真问题。
+let a gibe go = 不理会讥讽
+
+gibibit
+核心：名词，吉比特，信息量单位，等于二的三十次方个比特。
+国际电工委员会造出这一族词（kibi-、mebi-、gibi-），是为了跟按十进制
+算的 gigabit 分开：gigabit 是十亿比特，gibibit 比它多约百分之七。
+缩写 Gib，日常口语几乎不用，见于规格书与标准文本。
+① The datasheet gives the buffer in gibibits and the advert gives gigabits.
+= 规格书用吉比特写缓存，广告用吉位写。
+in gibibits = 以吉比特计
+② One gibibit is about seven per cent more than one gigabit.
+= 一吉比特比一吉位多大约百分之七。
+a gibibit = 吉比特
+③ Standards bodies write gibibit and almost nobody says it aloud.
+= 标准机构写吉比特，却几乎没人把这个词读出来。
+write gibibit = 写成吉比特
+
+gibibyte
+核心：名词，吉比字节，等于二的三十次方个字节，缩写 GiB。
+跟 gibibit 同一族：厂商按十进制标 gigabyte，操作系统按二进制算，
+于是买来标着一太字节的盘，系统里只显示九百三十多吉比字节 —— 差的就是这两套算法。
+① The drive holds about nine hundred and thirty-one gibibytes in practice.
+= 那块盘实际装得下约九百三十一吉比字节。
+a gibibyte = 吉比字节
+② Memory is sold in gigabytes and reported in gibibytes.
+= 内存按吉字节卖，按吉比字节报。
+in gibibytes = 以吉比字节计
+③ One gibibyte is exactly 1024 mebibytes and no rounding is involved.
+= 一吉比字节正好等于 1024 麦比字节，不存在四舍五入。
+a gibibyte = 1024 麦比字节
+
+giblets
+核心：名词，复数形式，禽类内脏 —— 心、肝、胗、颈这一套，掏出来单独卖，
+多用来熬汤或做肉汁。总是用复数，不说 a giblet。
+常搭 giblet stock、giblet gravy（这时用单数作定语）。
+① The giblets come in a bag tucked inside the bird.
+= 内脏装在一个袋子里，塞在禽腔中。
+giblets = 禽类内脏
+② She makes the gravy from the giblets and throws the rest away.
+= 她用内脏熬肉汁，其余的扔掉。
+make gravy from the giblets = 用内脏熬肉汁
+③ Giblet stock takes two hours and improves everything on the table.
+= 内脏高汤要熬两个钟头，桌上每道菜都因它好吃起来。
+giblet stock = 内脏高汤
+
+giddy
+核心：形容词四支。一是头晕的、天旋地转的：feel giddy；二是（因兴奋而）
+飘飘然、晕头转向的：giddy with excitement；三是（旧，贬）轻浮不稳重的；
+四是固定说法 the giddy heights，说高得眩目的位置或成绩，多带调侃。
+副词 giddily 与名词 giddiness 并入本条；吆喝马前进的 giddy-up 也在这里。
+① She felt giddy at the top of the ladder and came down two rungs.
+= 她在梯子顶上一阵头晕，退下来两级。
+feel giddy = 觉得头晕
+② The pair were giddy with excitement and forgot to bring the tickets.
+= 两个人兴奋得晕头转向，把票忘了带。
+giddy with excitement = 兴奋得晕头转向
+③ He reached the giddy heights of deputy manager and stayed there for life.
+= 他爬到副经理这个眩目的位置，就在那儿待了一辈子。
+the giddy heights = 眩目的高位
+这句多半带调侃，说的位置往往并不真的高。
+④ A giddy young thing in that play says everything twice.
+= 那出戏里有个轻浮的小姑娘，什么话都说两遍。
+a giddy young thing = 轻浮的年轻人（旧，贬）
+⑤ The room tipped and she sat down giddily on the nearest chair.
+= 房间一歪，她晕晕乎乎就近坐到椅子上。
+giddily = 晕乎乎地
+⑥ Giddiness after standing up too quickly is common and usually harmless.
+= 站起来太猛之后发晕很常见，多半没什么大碍。
+giddiness = 头晕
+⑦ He said giddy-up twice and the pony did not move an inch.
+= 他喊了两声「驾」，那匹小马一寸也没挪。
+giddy-up = 驾（吆喝马前进）
+
+gift
+核心：三支。一是礼物：a birthday gift；二是天赋、天生的本事：a gift for
+languages；三是动词（较新，体育与口语里多）白送、拱手让人：gift a goal。
+两条习语：the gift of the gab 是口才好；look a gift horse in the mouth
+是挑白得之物的毛病，多用于否定。形容词 gifted 并入本条。
+① A birthday gift arrived three weeks late with no note inside it.
+= 一份生日礼物晚了三个星期才到，里面连张字条也没有。
+a birthday gift = 生日礼物
+② She has a gift for languages and no patience at all for grammar.
+= 她有语言天赋，对语法却一点耐心也没有。
+a gift for something = 某方面的天赋
+③ The defender gifted them a goal in the opening minute of the match.
+= 后卫在开场第一分钟就白送了对方一个球。
+gift somebody a goal = 白送对方一个进球
+这一支是记者笔下的说法，等于 hand them a goal，带责备。
+④ He has the gift of the gab and gets away with far too much.
+= 他嘴上功夫了得，好些事就这么混过去了。
+the gift of the gab = 口才好、能说会道
+⑤ Nobody should look a gift horse in the mouth, and everybody does.
+= 白得的东西不该挑毛病，可人人都挑。
+look a gift horse in the mouth = 挑白得之物的毛病
+说法来自看马的牙口估年龄 —— 白送的马还查牙，未免太不知足。
+⑥ A gifted teacher holds that class for an hour without raising her voice.
+= 有天分的老师不用提高嗓门，就镇得住那个班一小时。
+gifted = 有天赋的
+⑦ A gift card is easier to post than a present and harder to choose badly.
+= 礼品卡比礼物好寄，也更不容易挑错。
+a gift card = 礼品卡
+American stores print gift certificates and British ones print gift vouchers.
+= 美国的商店印的礼品券，跟英国商店印的是同一样东西，只是叫法不同。
+a gift certificate = 礼品券（美式）
+a gift voucher = 礼品券（英式）
+⑧ The gift shop at the exit sells what the museum cannot put on display.
+= 出口处的礼品店卖的，正是博物馆展不出来的东西。
+a gift shop = 礼品店
+gift wrap = 礼品包装纸
+They charge extra for gift wrap and then do it badly in front of you.
+= 礼品包装要另收钱，还当着你的面包得很难看。
+
+gig
+核心：三支，外加一个旧义。一是（乐队、喜剧演员的）一场演出：play a gig；
+二是（口语）一份活儿，多指临时的、按次算钱的；三是（计算机口语）吉字节，
+a gig 就是一 GB。旧义是双轮轻便马车。由第二支长出 the gig economy 零工经济。
+① They play a gig every Friday in a pub that holds forty people.
+= 他们每周五在一家只装得下四十人的酒馆演一场。
+play a gig = 演一场
+② The gig pays badly and puts her in front of exactly the right people.
+= 那份活儿钱少，却让她见到了该见的人。
+a gig = 一份活儿
+③ The file is about two gigs and the connection gives up halfway through.
+= 那个文件大约两吉，传到一半连接就断了。
+a gig = 一吉字节（口语）
+④ The gig economy moved the risk onto the people doing the work.
+= 零工经济把风险挪到了干活的人身上。
+the gig economy = 零工经济
+⑤ A gig with one horse took two hours to cover what now takes ten minutes.
+= 一辆单马轻便车要走两个钟头的路，如今十分钟就到。
+a gig = 双轮轻便马车（旧）
+
+gigabit
+核心：名词，吉位、千兆位，十亿个比特，缩写 Gb。做定语最常见的是
+gigabit Ethernet。注意小写 b 是位、大写 B 是字节，两者差八倍，
+广告里常拿这一点做文章。
+① Gigabit Ethernet reached that building six years after the street outside.
+= 千兆以太网比外面那条街晚了六年才进到那栋楼。
+gigabit Ethernet = 千兆以太网
+② The line runs at two gigabits a second on a good day.
+= 顺利的时候，那条线路每秒能跑两吉位。
+gigabits a second = 每秒多少吉位
+③ Sales copy quotes gigabits because the number looks eight times better.
+= 广告词爱报吉位，因为数字看着大八倍。
+quote gigabits = 以吉位报数
+
+gigabyte
+核心：名词，吉字节，缩写 GB，十亿个字节。日常说存储与流量的基本单位；
+口语里常缩成 gig。厂商按十进制算，系统按二进制显示，于是标称与实测总差一截
+（那一截的单位见 gibibyte 条）。
+① A single gigabyte held a whole music collection in those days.
+= 那年头，一个吉字节就装得下整套音乐收藏。
+a gigabyte = 吉字节
+② The update is four gigabytes and the monthly allowance is two.
+= 那个更新有四吉字节，每月流量才两吉。
+four gigabytes = 四吉字节
+③ Photographs fill gigabytes faster than anything else on a phone.
+= 手机上最能吃掉吉字节的，就数照片。
+fill gigabytes = 占掉大量吉字节
+
+gigaflop
+核心：名词，每秒十亿次浮点运算，衡量计算能力，复数 gigaflops。
+flop 是 floating-point operations per second 的缩写，所以 gigaflop 里
+已经含着「每秒」，不必再说 per second。今天讲超算多用 teraflop 与 petaflop。
+① That desktop does a few hundred gigaflops and costs less than a bicycle.
+= 那台台式机每秒能算几百吉次浮点，价钱还不如一辆自行车。
+a few hundred gigaflops = 几百吉次浮点运算
+② Machines are rated in gigaflops and sold on something else entirely.
+= 机器按吉次浮点标定，卖的时候讲的完全是别的。
+be rated in gigaflops = 以吉次浮点计
+③ One gigaflop was supercomputer territory when these tables were drawn up.
+= 制这些表的时候，每秒一吉次浮点还是超算的水准。
+a gigaflop = 一吉次浮点运算
+
+gigahertz
+核心：名词，吉赫，十亿赫兹，缩写 GHz，单复数同形。
+说处理器主频与无线频段都用它。主频这一支如今说明不了多少问题 ——
+同样的吉赫数，核心与架构不同，快慢差得远。
+① The chip runs at three gigahertz and throttles back as soon as it gets hot.
+= 那颗芯片跑在三吉赫，一热就降频。
+three gigahertz = 三吉赫
+② Clock speed in gigahertz stopped being a fair comparison years ago.
+= 用吉赫标的主频，多年前就不能拿来公平比较了。
+in gigahertz = 以吉赫计
+③ That band sits just above two gigahertz and is crowded almost everywhere.
+= 那个频段就在两吉赫上面一点，几乎到处都挤。
+above two gigahertz = 两吉赫以上
+
+gigantic
+核心：形容词，巨大的 —— 比 huge 更夸张，日常口语里用来加重语气。
+既修饰具体的东西，也修饰抽象的量：a gigantic effort、a gigantic mistake。
+本身已是极端义，一般不说 more gigantic、very gigantic。
+① A gigantic queue went round the building twice before the doors opened.
+= 开门前，一条长得离谱的队伍绕着那栋楼排了两圈。
+a gigantic queue = 长得离谱的队伍
+② It took a gigantic effort to get the thing out of the cellar.
+= 把那东西从地窖弄出来，费了九牛二虎之力。
+a gigantic effort = 巨大的努力
+③ The bill was gigantic and nobody could say which part of it was wrong.
+= 那张账单大得吓人，却没人说得出哪一项不对。
+be gigantic = 大得吓人
+
+gigantism
+核心：名词，巨人症 —— 垂体分泌过多生长激素，在骨骺闭合前发病，个子长得异常高。
+成年后才发病的那种叫 acromegaly（肢端肥大症），两者病因相同、结果不同。
+注意拼写：giantism 是同一个词的另一种拼法，医学文献里以 gigantism 为主。
+① Untreated gigantism in childhood can add thirty centimetres by the teens.
+= 童年期不治的巨人症，到少年时能多长三十厘米。
+gigantism = 巨人症
+② Surgery stopped the gigantism and left the other symptoms untouched.
+= 手术止住了巨人症，别的症状原样没动。
+stop the gigantism = 止住巨人症
+③ Pituitary gigantism is rare and almost always traced to one small tumour.
+= 垂体性巨人症很少见，几乎总能追到一个小肿瘤上。
+pituitary gigantism = 垂体性巨人症
+
+giggle
+核心：动词与名词，咯咯地笑 —— 忍不住的、带点傻气或紧张的那种笑，
+多用于孩子与场合不合时宜的时候。名词另有英式口语义：a giggle 指好玩的事。
+习语 get the giggles 是笑场、止不住。形容词 giggly 并入本条。
+① They giggled through the whole ceremony and apologized to everybody afterwards.
+= 整场典礼他们都在偷笑，事后挨个道歉。
+giggle through something = 从头笑到尾
+② A giggle from the back row set off the entire class.
+= 后排一声窃笑，带得全班都笑开了。
+a giggle = 一声窃笑
+③ We only did it for a giggle and it ended up in the local paper.
+= 我们不过是图个好玩，结果上了本地报纸。
+for a giggle = 图个好玩（英式口语）
+④ She got the giggles at the worst possible moment and had to leave the room.
+= 她在最不该笑的时候笑场了，只好出去。
+get the giggles = 笑场、止不住地笑
+⑤ Two giggly children at the back made the whole recording useless.
+= 后排两个咯咯直笑的孩子，把那整段录音毁了。
+giggly = 爱咯咯笑的
+
+gigolo
+核心：名词，被女性供养、收钱陪伴的男子，多半比对方年轻，带贬义。
+复数 gigolos。二十世纪初从法语借进英语，如今多见于旧小说、旧电影与调侃话里，
+认真讨论时很少用。
+① The novel turns on a gigolo who falls for the wrong client.
+= 那部小说讲一个吃软饭的男人爱上了不该爱的雇主。
+a gigolo = 靠女人供养的男伴
+② Calling him a gigolo in print cost the magazine a great deal of money.
+= 在文章里管他叫小白脸，让那家杂志赔了不少钱。
+call somebody a gigolo = 管某人叫小白脸
+③ A gigolo in a white suit turns up in every film of that decade.
+= 那十年的电影里，总有个穿白西装的男伴出场。
+a gigolo in a white suit = 穿白西装的男伴
+
+gigot
+核心：名词，两支，都来自法语。一是羊后腿，尤其是整条带骨的那种，
+菜单与肉铺里用，英式（苏格兰尤多）；二是 gigot sleeve，旧式女装的羊腿袖，
+肩头蓬起、袖口收紧，因形似羊腿得名。
+① A gigot of lamb feeds eight and needs three hours in a low oven.
+= 一条羊腿够八个人吃，要在低温烤箱里烤三个钟头。
+a gigot of lamb = 一条羊腿
+② The butcher boned the gigot and tied it back into shape.
+= 肉贩把羊腿剔了骨，又捆回原样。
+bone a gigot = 给羊腿剔骨
+③ Gigot sleeves puff at the shoulder and narrow to nothing at the wrist.
+= 羊腿袖肩上蓬起，到腕口收得极细。
+gigot sleeves = 羊腿袖
+
+gigue
+核心：名词，吉格舞曲 —— 巴洛克组曲的末乐章，拍子快、带跳跃感，
+多写成六八或十二八拍。跟英国民间舞 jig 同源：说乐曲用 gigue，
+说那种舞蹈用 jig。读音是法语式的，头一个音节读作 zheeg。
+① The gigue at the end wakes up everybody the sarabande put to sleep.
+= 末尾那首吉格舞曲，把被萨拉班德催睡的人全弄醒了。
+a gigue = 吉格舞曲
+② She plays the gigue faster every year and the old recordings prove it.
+= 那首吉格她一年比一年弹得快，旧录音为证。
+play a gigue = 演奏吉格舞曲
+③ A baroque suite ends with a gigue almost as a rule.
+= 巴洛克组曲差不多总是以一首吉格收尾。
+end with a gigue = 以吉格收尾
+
+gild
+核心：动词，镀金、贴金箔；引申指把不好看的事情说得体面。过去式与过去分词
+是 gilded，旧形式 gilt 已凝固成形容词与名词（见 gilt 条）。
+习语 gild the lily 是画蛇添足 —— 给百合花镀金，多此一举。
+形容词 gilded 与名词 gilding 并入本条。
+① They gild the letters by hand and charge by the letter.
+= 那些字是手工镀金的，按字收钱。
+gild something = 给某物镀金
+② The report gilds three bad years into a story about learning.
+= 那份报告把三个糟糕的年头，说成一段长见识的经历。
+gild something = 把某事说得好看
+③ A second speech gilded the lily and undid most of the first one.
+= 第二场讲话画蛇添足，把第一场的效果抵消了大半。
+gild the lily = 画蛇添足
+④ A gilded mirror hung over a fireplace nobody had lit for years.
+= 一面镀金镜子挂在多年没生过火的壁炉上方。
+gilded = 镀金的
+⑤ The gilding wore off the handles and left the brass showing through.
+= 把手上的镀金磨掉了，露出底下的黄铜。
+gilding = 镀金层、镀金工艺
+
+gilet
+核心：名词，无袖外套、背心马甲 —— 多指羽绒或抓绒的那种户外背心，英式常用。
+从法语借来，读音大致是 zhee-LAY，词尾的 t 不发音，复数 gilets。
+跟 waistcoat 不同：waistcoat 是西装三件套里那件，gilet 是保暖的户外衣。
+① A gilet keeps the cold off your back and leaves both arms free.
+= 背心马甲挡住背上的寒气，两只胳膊还能活动自如。
+a gilet = 无袖外套
+② Half the touchline was in gilets and the other half in long coats.
+= 场边一半人穿背心，另一半穿长大衣。
+in gilets = 穿着无袖外套
+③ She wears a gilet over a jumper from October until April.
+= 从十月到四月，她都在毛衣外面套一件背心。
+wear a gilet = 穿无袖外套
+
+gill
+核心：三支。一是鳃，也指蘑菇伞下那些薄片（菌褶），可数，多用复数；
+二是旧容量单位，四分之一品脱，这一支读作 jill，跟鱼鳃不同音；
+三是两条习语：packed to the gills 是塞得满满当当，
+green about the gills 是脸色发青、像要吐。
+① The gills open and close twice a second while the fish is resting.
+= 鱼歇着的时候，鳃每秒开合两次。
+the gills of a fish = 鱼鳃
+② Turn the mushroom over and count the gills if you want to be sure.
+= 想弄准的话，把蘑菇翻过来数菌褶。
+the gills of a mushroom = 菌褶
+③ The recipe asks for a gill of cream and nobody owns that measure now.
+= 那个方子要一及耳奶油，如今没人有这种量器了。
+a gill of cream = 一及耳奶油（四分之一品脱）
+④ The car was packed to the gills and the roof box was still empty.
+= 车里塞得满满当当，车顶箱倒还空着。
+packed to the gills = 塞得满满当当
+⑤ He came off the boat green about the gills and said nothing for an hour.
+= 他下船时脸色发青，一个钟头没说话。
+green about the gills = 脸色发青、像要吐
+
+gilt
+核心：三支。一是名词，镀金层、金箔；二是形容词，镀金的 —— 这是 gild
+的旧过去分词凝固下来的；三是（英，金融）金边债券，多用复数 gilts，
+指政府发行、风险最低的那类债。复合词 gilt-edged 兼有「烫金边的」
+与「最稳妥的」两义，金融义比字面义常见得多。
+① The gilt on that frame is thinner than paper and older than the painting.
+= 那个画框上的镀金比纸还薄，比画还老。
+the gilt on something = 某物上的镀金层
+② A gilt frame makes even a cheap print look like an heirloom.
+= 镀金画框能把一张便宜印刷品衬得像传家宝。
+a gilt frame = 镀金画框
+③ Gilts pay less than shares and let people sleep at night.
+= 金边债券回报比股票低，却让人睡得着觉。
+gilts = 金边债券（英）
+④ Gilt-edged stock was the safe half of every pension fund for decades.
+= 几十年里，金边证券都是各家养老金组合里稳妥的那一半。
+gilt-edged = 最稳妥的；烫金边的
+
+gimcrack
+核心：形容词与名词，都带轻蔑（略旧）。形容词说东西做得花哨而不结实；
+名词指这样的小玩意儿，多用复数。比 cheap 更刻薄：cheap 只说便宜，
+gimcrack 说的是「看着热闹、一用就散」。
+① A gimcrack ornament on every shelf and not one of them worth keeping.
+= 每层架子上都摆着花哨的小摆设，没一件值得留。
+a gimcrack ornament = 华而不实的小摆设
+② The whole extension is gimcrack work that will not last ten winters.
+= 那整片扩建都是花架子活，撑不过十个冬天。
+gimcrack work = 偷工减料的活儿
+③ He sold gimcracks at the fair and made more than the real traders.
+= 他在集市上卖些小玩意儿，赚得比正经商贩还多。
+gimcracks = 华而不实的小玩意儿
+
+gimlet
+核心：三支。一是手钻、螺丝锥，丁字柄的小工具，在木头上钻引孔；
+二是 a gimlet eye 与 gimlet-eyed，说目光锐利得像能钻透人；
+三是琴酒加青柠汁的鸡尾酒，叫琴蕾。
+① A gimlet makes a cleaner hole in old oak than any power drill.
+= 在老橡木上钻孔，手钻比电钻打得更干净。
+a gimlet = 手钻
+② She has a gimlet eye for the one figure that does not add up.
+= 哪个数字对不上，她一眼就能盯出来。
+a gimlet eye = 锐利的目光
+③ A gimlet is half gin and half lime and has to be very cold.
+= 一杯琴蕾一半琴酒一半青柠汁，必须冰得透。
+a gimlet = 琴蕾（鸡尾酒）
+
+gimme
+核心：两支，都属口语。一是 give me 的连读写法，多见于歌词、对白，
+以及固定说法 gimme a break（饶了我吧、别扯了）；二是名词，高尔夫里
+近得可以直接算进的一推，引申指板上钉钉、不费劲就能得手的事。
+正式文字里不用这个拼法。
+① Gimme a break — we finished that argument three years ago.
+= 饶了我吧，那场争论三年前就结束了。
+gimme a break = 饶了我吧
+② Gimme two minutes and I will have the answer ready for you.
+= 给我两分钟，我就把答案给你备好。
+gimme = 给我（give me 的连读写法）
+③ That putt was a gimme and he insisted on holing it anyway.
+= 那一推近得可以直接算进，他还是坚持推了进去。
+a gimme = 十拿九稳的事
+
+gimmick
+核心：名词，噱头 —— 为吸引注意想出来的花招，本身没什么实质，贬义。
+常说 a marketing gimmick、just a gimmick、a publicity gimmick。
+名词 gimmickry（一堆噱头）与形容词 gimmicky（噱头十足的）并入本条。
+① The free umbrella was a marketing gimmick and it worked all summer.
+= 送伞是个营销噱头，整整一夏都管用。
+a marketing gimmick = 营销噱头
+② Without the gimmick that shop would have closed in its first year.
+= 没有那个噱头，那家店头一年就关门了。
+a gimmick = 噱头
+③ The design is gimmicky and the thing underneath is perfectly sound.
+= 那设计噱头十足，底下的东西其实很扎实。
+gimmicky = 噱头十足的
+④ Two pages of gimmickry and one short paragraph about the product itself.
+= 两页花里胡哨的噱头，只有短短一段在讲产品本身。
+gimmickry = 一堆噱头

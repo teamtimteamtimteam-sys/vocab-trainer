@@ -859,6 +859,11 @@ CHECK = {
  'hue': ['hue and cry'],
  'huff': ['in a huff', 'huff and puff'],
  'hug': ['give somebody a hug', 'a bear hug', 'hug the coast'],
+ 'human': ['human nature', 'only human', 'human rights', 'the human race', 'human error'],
+ 'humble': ['eat humble pie', 'in my humble opinion'],
+ 'humour': ['a sense of humour', 'in a good humour', 'humour somebody'],
+ 'hump': ['over the hump', 'get the hump'],
+ 'hungry': ['go hungry', 'hungry for'],
 }
 def main():
     B = {}
