@@ -1,16 +1,3 @@
-hospice
-核心：临终关怀医院 —— 照顾晚期病人、让他们安宁度过最后时光的机构；
-hospice care 是临终关怀。旧义是山口上修道士为旅人开的客栈。
-① She spent her last weeks in a hospice near the sea, surrounded by her family.
-= 她最后的几个星期是在海边的一家临终关怀医院度过的，家人都在身边。
-a hospice = 临终关怀医院
-② Hospice care is free for patients in their final months.
-= 生命最后几个月的病人可以免费接受临终关怀。
-hospice care = 临终关怀
-③ The monks' hospice on the pass has sheltered travellers for centuries.
-= 山口上修道士开的那家客栈已经庇护旅人好几个世纪了。
-a hospice = （旧）旅人客栈
-
 hospitable
 核心：好客的、热情待客的；（环境）宜人的、适于生存的 —— 反义是 inhospitable。
 副词 hospitably 并入本条。
@@ -457,3 +444,12 @@ a hotline = 求助热线
 ② The hotline between the two capitals was installed after the missile crisis.
 = 两国首都之间的直通热线是在导弹危机之后装的。
 the hotline between A and B = 两地之间的直通热线
+
+hotlink
+核心：（计算机）超链接；动词还指盗链 —— 直接引用别人网站上的图片，占用对方流量。
+① Click the hotlink at the bottom of the email to go straight to the booking page.
+= 点击邮件底部的链接，直接进入预订页面。
+a hotlink = 超链接
+② The blog hotlinked our photos and used up our entire monthly bandwidth.
+= 那个博客盗链我们的照片，把我们一个月的流量都用光了。
+hotlink something = 盗链
