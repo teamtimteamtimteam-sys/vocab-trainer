@@ -46,3 +46,6 @@ goodly         # 长得像 -ly 副词，其实是形容词（a goodly sum 相当
 hardly         # 形状上像 hard 的副词，意思却完全不同：它表示「几乎不」，
                # 而 hard 自己就是副词（work hard）。两个词不能互换 ——
                # 这是英语里最著名的一组陷阱，并进去等于把这条分辨抹掉
+highly          # 「非常」（highly unlikely）、「高水平地」（highly paid / highly placed）、
+                # 「赞许地」（think / speak highly of）三支 high 都没有；
+                # high 作副词只说真实高度（jump high，不说 jump highly）
