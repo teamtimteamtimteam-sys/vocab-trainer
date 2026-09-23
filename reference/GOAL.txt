@@ -9,35 +9,43 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-23，第十九轮）═══
-B 词表 10991 条、义项 40043 条，词典序 a → herbivore。A 表 3002 条。
+═══ 现状（2026-09-23，第二十轮）═══
+B 词表 11045 条、义项 40295 条，词典序 a → heyday。A 表 3002 条。
   **a–g 七个字母收完**（各段 97% 以上，余下全是待推迟）。
-  **h 字母在写，清单 2061 条**：
-   · **ha- 段收完**：551/566（97%），待并入与待新写两栏清零，
-     只剩 15 条待推迟（内容词 jacket / house / line / moustache / valley /
-     store / suit 等都在后面的字母段）。
-   · **he- 段 313/420（74%）**，最末词条 herbivore。
-     已写掉的大词：head（43 义）、heart（34 义）、heavy（24 义）、
-     heat（22 义）、hear（14 义）、hell（12 义）、heel（12 义）、help（11 义）、
-     heaven（11 义），外加 head- 复合词 29 条、heart- 13 条。
-   · hi 242 / ho 508 / hu 约 200 / hy 约 90 未动。
-  **下一批从 Herculean 起**：Herculean、herd（含 herder / herdsman /
-  ride herd on / the herd instinct / follow the herd）、
-  **here 一族**（hereabouts / hereafter / hereby / herein / hereinafter /
-  hereof / hereto / heretofore / hereupon / herewith 那一串法律副词，
-  外加习语 here and there / here and now / neither here nor there /
-  here goes / here you are）、hereditary / heredity / heresy / heretic /
-  heritage、hermit / hero / heroin / heron / herring、hesitate 一族、
-  hetero- 一串、hex- 一串、hey / heyday，he- 就收完了。
-  he- 段里 held 已登进 inflections.txt（→ hold），写到 ho- 段自动认上。
-  audit-idioms 的 CHECK 已为 he- 段摆好十三组（只剩 herd / here 两组还没写到）。
+  **h 字母在写，清单 2044 条**：
+   · **ha- 段收完**：551/566（97%），只剩 15 条待推迟。
+   · **he- 段收完**：417/420（99%）。余下三条都不用管：held 已登进
+     inflections.txt（→ hold），ho- 段写 hold 时自动认上；Heimlich manoeuvre
+     与 heli-skiing 的内容词在 m / s 段。
+     本轮三批：Hebrew → heritage 20 条（含 here 21 义）、hermaphrodite →
+     het up 18 条、hetero- → heyday 16 条，外加 21 条多词条目并进
+     he / health / heart / heaven / hedge / heel / heir / hell / help / her / haw。
+     之前跳过的 heaving / Hebraic / Hebrew 一并补上了。
+   · hi 253 / ho 518 / hu / hy 未动；另有 hg / hl / hm / hp / hr 五个小段。
+  **下一批从 hi- 段起**：hi / hiatus / hibernate / hiccup / hide 一带。
+    动笔前两件事：
+    ① audit-idioms 的 CHECK 先补 hi- 的大词（hide、high、hill、hit、hint、
+      history、hire、hitch…），加之前 grep 一下有没有同名键；
+    ② high 是个大词，**写完 high 当场就把它名下的待推迟并掉** ——
+      coverage 现在把 hi-fi / high-level / high jump 等 94 条报成「待推迟」，
+      只是因为宿主 high 还没有词条。写完它们会自己挪进「待并入」。
+    hg / hl / hp / hr 是小写单位缩写（百克、百升、马力、小时），
+    跟 cwt 同类，按旧裁定该进 exclude.txt；hm / hmm 是感叹词，要收。
+    **这条外推没经用户确认，动手前先问一句。**
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-10991
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11045
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **本地领先 origin 17 笔提交**（2026-09-22 推过一次，之后的都没推，含本次改 GOAL 这一笔）。
+  **本地领先 origin 21 笔提交**（2026-09-22 推过一次，之后的都没推，含本次改 GOAL 这一笔）。
   push 照旧等用户开口。
+  **待用户裁定**：g / h 段（约 B-10126 以后）的词条里有 177 行写了 Markdown
+  的 **加粗**，CLAUDE.md 明说 app 不解析、会原样显示星号。本轮新写的没再用；
+  旧的要不要批量去掉，等用户说。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
+· **gates.sh 与 scan-dupes 的词头别用变量传**：Bash 工具跑的是 zsh，
+  W="a b c"; gates.sh he $W 会把整串当成一个参数，scan-dupes 只报
+  「指定 3 条词头」—— 通道 5 等于没查。词头照字面写全，多词词头加引号
+  （"het up"），或者整条包进 bash -c '…'。2026-09-23 撞过一次。
 · **「写了却认不上」有三种形状**，coverage 与 audit-idioms 都认字面串：
   ① 前四字母对不上：has / had 对 have、hatred 对 hate、hazily 对 hazy、
     he'd 对 he（词根两个字母，干脆不看）→ 往 inflections.txt 登一行；
