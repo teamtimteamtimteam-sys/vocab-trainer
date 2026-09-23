@@ -759,6 +759,15 @@ CHECK = {
  'hedge': ['hedge your bets', 'hedge against', 'hedge in'],
  'hen': ['a hen party', 'as rare as hen\'s teeth', 'a hen night'],
  'herd': ['ride herd on', 'the herd instinct', 'follow the herd'],
+ 'hero': ['a hero\'s welcome', 'hero worship', 'an unsung hero'],
+ 'heroic': ['heroic couplet', 'heroics'],
+ 'hesitate': ['do not hesitate to', 'he who hesitates is lost',
+              'without hesitation', 'have no hesitation in'],
+ 'hermetic': ['hermetically sealed'],
+ 'herring': ['red herring', 'herring gull'],
+ 'hereafter': ['the hereafter'],
+ 'hew': ['hew to', 'rough-hewn', 'hew out'],
+ 'hey': ['hey presto'],
 }
 def main():
     B = {}
