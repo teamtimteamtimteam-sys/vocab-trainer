@@ -1,13 +1,3 @@
-homogenized
-核心：均质化的。本义说牛奶：脂肪被打散、均匀分布，不再浮在上面。
-比喻义贬：千篇一律的、失去个性的 —— homogenized culture、homogenized high streets。英式也拼 homogenised。
-① Homogenized milk doesn't separate, so there's no layer of cream on top.
-= 均质奶不会分层，所以上面没有一层奶油。
-homogenized milk = 均质奶
-② Critics complain that town centres have become homogenized, with the same shops everywhere.
-= 批评者抱怨城镇中心变得千篇一律，到处都是一样的商店。
-become homogenized = 变得千篇一律
-
 homograph
 核心：同形异义词 —— 拼写相同、意思不同的词，读音可同可不同，比如作「领导」讲的 lead 跟作「铅」讲的 lead。
 ① Homographs such as lead the verb and lead the metal are a trap for anyone reading aloud.
@@ -315,3 +305,13 @@ a honky-tonk = 下等酒吧
 ② He played honky-tonk piano in bars across Texas for twenty years.
 = 他在得克萨斯各地的酒吧里弹了二十年酒吧风格的钢琴。
 honky-tonk piano = 酒吧风格钢琴
+
+honorarium
+核心：（正式）酬金 —— 付给演讲者、顾问等人的礼节性报酬，数目通常不大，名义上不算工资。
+复数 honorariums 或 honoraria。
+① Guest speakers receive a small honorarium and their travel costs.
+= 客座演讲者可以拿到一小笔酬金和差旅费。
+an honorarium = 酬金
+② The fund pays honoraria to visiting lecturers from abroad.
+= 那个基金给来访的外国讲师发放酬金。
+honoraria = 酬金（复数）
