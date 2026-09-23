@@ -821,6 +821,16 @@ CHECK = {
  'honest': ['to be honest', 'honest to God', 'make an honest woman of', 'honest broker'],
  'honesty': ['in all honesty', 'honesty is the best policy'],
  'honeymoon': ['the honeymoon is over', 'honeymoon period'],
+ 'honour': ['in honour of', 'guest of honour', 'a point of honour', 'do the honours',
+            'your Honour', 'honour among thieves', 'word of honour', 'maid of honour',
+            'with honours', 'on my honour'],
+ 'hook': ['off the hook', 'by hook or by crook', 'hook, line and sinker',
+          'sling your hook', 'let somebody off the hook', 'get your hooks into'],
+ 'hoof': ['on the hoof'],
+ 'hoot': ['not give a hoot', 'a hoot'],
+ 'hope': ['hope against hope', 'hope for the best', 'not a hope', 'pin your hopes on',
+          'raise hopes', 'dash hopes', 'in the hope of', 'live in hope', 'some hope'],
+ 'hop': ['hop it', 'on the hop', 'hop to it', 'hop in'],
 }
 def main():
     B = {}

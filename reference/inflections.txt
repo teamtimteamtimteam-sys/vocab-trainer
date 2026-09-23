@@ -150,3 +150,5 @@ homoeopath   homeopath      # 英式拼法（多一个 o），前四字母 homo 
 homoeopathy  homeopath      # 同上
 homoeostasis homeostasis    # 同上
 homy         homey          # 两种拼法，前四字母 homy 对不上 home；在 homey 条配例句
+honor        honour         # 美式拼法；本表以 honour 为词头，honor roll / honor society / honor system 靠它找到宿主
+hooves       hoof           # 复数（f→ves），前四字母 hoov 对不上 hoof；在 hoof 条配例句
