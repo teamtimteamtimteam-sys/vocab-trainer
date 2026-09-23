@@ -839,6 +839,12 @@ CHECK = {
            'a dark horse', 'put the cart before the horse', 'horses for courses',
            'look a gift horse in the mouth', 'wild horses', 'change horses in midstream',
            'a one-horse town', 'on horseback', 'fall off a horse', 'ride a horse'],
+ 'hospital': ['in hospital', 'in the hospital'],
+ 'host': ['play host to', 'a host of'],
+ 'hot': ['hot and bothered', 'in hot water', 'blow hot and cold', 'hot under the collar',
+         'hot on the heels of', 'be hot on', 'hot off the press', 'not so hot', 'hot stuff',
+         'a hot potato', 'hot air', 'sell like hot cakes', 'have the hots for',
+         'in the hot seat', 'too hot to handle'],
 }
 def main():
     B = {}

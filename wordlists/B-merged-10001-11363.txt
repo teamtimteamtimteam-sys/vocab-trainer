@@ -26072,3 +26072,198 @@ hospice care = 临终关怀
 ③ The monks' hospice on the pass has sheltered travellers for centuries.
 = 山口上修道士开的那家客栈已经庇护旅人好几个世纪了。
 a hospice = （旧）旅人客栈
+
+hospitable
+核心：好客的、热情待客的；（环境）宜人的、适于生存的 —— 反义是 inhospitable。
+副词 hospitably 并入本条。
+① The villagers were very hospitable and invited us into their homes for tea.
+= 村民们非常好客，请我们到家里喝茶。
+hospitable = 好客的
+② The north coast is less hospitable, with cold winds and very little shelter.
+= 北部海岸没那么宜人，风冷，几乎无处避风。
+hospitable = （环境）宜人的
+③ They received us hospitably, although we had arrived three hours late.
+= 虽然我们晚到了三个钟头，他们还是热情地接待了我们。
+hospitably = 热情地、殷勤地
+
+hospital
+核心：医院。英美用法有一处要分清：
+英式说病人「住院」用 in hospital、go to hospital，不加冠词 —— 说的是治疗这件事；
+加 the 的 in the hospital 是「在那所医院里」，可能只是去探病或上班。美式两种情况都加 the。
+复合词并入本条：hospital corners（医院式的床角折法）、
+英式橄榄球与足球里的 hospital pass（害队友挨撞的传球）、
+英国的 hospital trust（医院信托，管理一片医院的机构）。
+① She's been in hospital for a week with a broken hip.
+= 她因髋部骨折住院一个星期了。
+in hospital = 住院（英式，不加冠词）
+② I'll be in the hospital all afternoon, visiting my uncle on the third floor.
+= 我整个下午都在医院里，去三楼看我叔叔。
+in the hospital = 在医院里（可能只是探病）
+加了 the，说的是那栋楼，不是「住院治疗」。
+③ He was taken to hospital after the crash but allowed home the same night.
+= 车祸后他被送进医院，当晚就获准回家了。
+be taken to hospital = 被送进医院
+④ Her mother taught her to make the bed with neat hospital corners.
+= 她母亲教她铺床时把床角折成整齐的医院式直角。
+hospital corners = 医院式床角折法
+⑤ The fly-half threw a hospital pass and his teammate was flattened by two forwards.
+= 接应前卫传了一个害人的球，队友被两个前锋撞倒在地。
+a hospital pass = 害队友挨撞的传球（英式）
+⑥ The hospital trust has cut two hundred beds across its three sites.
+= 那个医院信托在它的三个院区一共砍掉了两百张床位。
+a hospital trust = 医院信托（英国）
+
+hospitalist
+核心：（美式）住院医师 —— 专门负责照看住院病人的医生，不看门诊。
+① A hospitalist checked on him twice a day while he was on the ward.
+= 他住院期间，一位住院医师每天来看他两次。
+a hospitalist = （专管住院病人的）住院医师
+② The hospital hired six more hospitalists to cover nights and weekends.
+= 医院又雇了六名住院医师，负责夜班和周末。
+hospitalists = 住院医师（复数）
+
+hospitality
+核心：好客、热情款待 —— 对客人的招待。不可数。
+商业上也指招待客户的服务：corporate hospitality、the hospitality industry（酒店餐饮业）。
+英式的 hospitality tray 是酒店房间里放茶包、水壶的托盘。
+① Thank you for your hospitality over the weekend, we felt completely at home.
+= 感谢你们周末的热情款待，我们完全像在自己家一样。
+somebody's hospitality = 某人的款待
+② She has worked in the hospitality industry since she left school.
+= 她离开学校后一直在酒店餐饮业工作。
+the hospitality industry = 酒店餐饮业
+③ The hospitality tray had two tea bags, one coffee sachet and a biscuit.
+= 客房托盘上有两个茶包、一小袋咖啡和一块饼干。
+a hospitality tray = 客房茶水托盘（英式）
+
+hospitalize
+核心：使住院 —— 多用被动 be hospitalized。英式也拼 hospitalise。
+名词 hospitalization（住院、住院治疗）并入本条。
+① He was hospitalized for three days with pneumonia last winter.
+= 去年冬天他因肺炎住院三天。
+be hospitalized = 住院
+② Most patients recover without hospitalization if they rest and drink plenty.
+= 大多数病人只要休息、多喝水，不用住院就能好。
+hospitalization = 住院治疗
+
+host
+核心：本义是「请客的主人」。由此长出：
+一、主人、东道主（the host of a party），也是主办国、主办城市；
+二、节目主持人；三、（生物）宿主 —— 寄生物寄居的动植物；
+四、（计算机）主机、服务器；
+五、另一个来源的词：a host of something，「许多、一大群」。
+动词 host：主办、主持。女主人另有 hostess 一词。
+① Our host met us at the door and took our coats.
+= 主人在门口迎接我们，接过了我们的外套。
+the host = 主人
+A 表教过的本义：请客的一方。
+② The city will play host to the next Olympic Games.
+= 那座城市将主办下一届奥运会。
+play host to something = 主办某事
+③ The country hosted the summit and spent a fortune on security.
+= 那个国家主办了峰会，在安保上花了一大笔钱。
+host something = 主办某事
+④ He was the host of a late-night quiz show for eleven years.
+= 他主持一档深夜问答节目十一年了。
+the host of a show = 节目主持人
+⑤ The parasite needs a host to survive and lays its eggs inside a caterpillar.
+= 那种寄生虫需要宿主才能存活，把卵产在毛虫体内。
+a host = 宿主（生物）
+⑥ The website moved to a new host after the old server crashed twice in a week.
+= 旧服务器一周崩了两次之后，那个网站换了新的主机。
+a host = 主机、服务器（计算机）
+⑦ The plan raises a host of problems that nobody has thought about.
+= 这个计划引出了一大堆谁都没想过的问题。
+a host of something = 许多、一大堆
+另一个来源的词，跟「主人」无关。
+
+hostage
+核心：人质。常见搭配：take somebody hostage（劫持某人为人质）、be held hostage。
+比喻：be (a) hostage to something —— 受制于某事、被某事绑住手脚；
+习语 a hostage to fortune：日后可能招来麻烦的话或承诺。
+复合词 hostage taker（劫持人质者）与 hostage-taking（劫持人质）并入本条。
+① Gunmen took six people hostage in the bank and demanded a car.
+= 持枪歹徒在银行里劫持了六个人质，要求给他们一辆车。
+take somebody hostage = 劫持某人为人质
+② The government refused to be held hostage by a small group of protesters.
+= 政府拒绝受一小撮抗议者的要挟。
+be held hostage by somebody = 受某人要挟
+③ Promising no new taxes was a hostage to fortune, and he knew it.
+= 承诺不加新税，将来很可能自找麻烦，这一点他心知肚明。
+a hostage to fortune = 日后可能招来麻烦的话
+④ Police talked to the hostage taker for nine hours before he gave up.
+= 警察跟劫持人质者谈了九个小时，他才投降。
+a hostage taker = 劫持人质者
+⑤ Hostage-taking has become a business in parts of the region.
+= 在那个地区的一些地方，劫持人质已经成了一门生意。
+hostage-taking = 劫持人质
+
+hostel
+核心：（廉价）旅舍、招待所 —— 青年旅舍（youth hostel）、学生宿舍，
+英式里也指收容无家可归者的临时住所。
+① We stayed in a youth hostel with bunk beds and a shared kitchen.
+= 我们住在一家有上下铺和共用厨房的青年旅舍。
+a youth hostel = 青年旅舍
+② The charity runs a hostel for homeless young people in the city centre.
+= 那家慈善机构在市中心开了一个收容无家可归青年的临时住所。
+a hostel for somebody = 收容某类人的住所
+
+hostelry
+核心：（旧，谐）酒馆、客栈 —— 今天多半半开玩笑地指酒吧。
+① We retired to the nearest hostelry once the meeting was over.
+= 会一开完，我们就撤到最近的一家酒馆去了。
+the nearest hostelry = 最近的酒馆（谐）
+② The old hostelry on the coaching road has been an inn for four hundred years.
+= 驿道上那家老客栈已经开了四百年。
+an old hostelry = 老客栈
+
+hostess
+核心：女主人 —— host 的阴性形式；也指接待员、夜总会的陪酒女郎（后者带贬义）。
+今天说节目主持人男女都用 host。
+① The hostess made sure everyone had a drink before dinner was served.
+= 开饭之前，女主人确保每个人手里都有一杯饮料。
+the hostess = 女主人
+② She worked as a hostess at a restaurant, showing guests to their tables.
+= 她在一家餐厅当接待员，把客人领到座位上。
+a hostess = （餐厅的）女接待员
+
+hostile
+核心：敌对的、怀有敌意的；不友善的 —— 说人、态度、环境。
+be hostile to something 是「强烈反对」。
+商业上 a hostile takeover 是敌意收购；法律上 a hostile witness 是敌意证人（对传唤他的一方不利）。
+① The minister faced a hostile crowd when he visited the closed factory.
+= 部长去那家关闭的工厂时，面对的是一群怀有敌意的人。
+a hostile crowd = 怀有敌意的人群
+② Many older members were hostile to the idea of letting women join.
+= 许多老会员强烈反对让女性入会。
+be hostile to something = 强烈反对某事
+③ Plants that survive in such a hostile environment are rare.
+= 能在如此恶劣的环境里存活的植物很少见。
+a hostile environment = 恶劣的环境
+④ The company rejected a hostile takeover bid from its biggest rival.
+= 那家公司拒绝了最大竞争对手的敌意收购要约。
+a hostile takeover = 敌意收购
+⑤ The judge allowed the lawyer to treat his own client's brother as a hostile witness.
+= 法官允许律师把自己当事人的哥哥当作敌意证人来盘问。
+a hostile witness = 敌意证人
+
+hostility
+核心：敌意、敌视；复数 hostilities 指战斗、交战（正式）。
+① There was open hostility between the two families after the court case.
+= 那场官司之后，两家人之间公开敌视。
+hostility between people = 人与人之间的敌意
+② The plan met hostility from local residents.
+= 那个计划遭到当地居民的敌视。
+hostility from somebody = 来自某人的敌意
+③ Both sides agreed to a cessation of hostilities over the holiday.
+= 双方同意在节日期间停止交战。
+hostilities = 战斗、交战（正式）
+
+hostler
+核心：（美式，旧）马夫 —— 旅店里照料客人马匹的人；也指铁路上照看机车的工人。
+① The hostler took our horses round to the stable behind the inn.
+= 马夫把我们的马牵到旅店后面的马厩里。
+a hostler = 马夫
+② He worked as a hostler at the rail yard, moving engines in and out of the shed.
+= 他在铁路调车场当机车看管工，把机车开进开出库房。
+a hostler = （铁路）机车看管工
