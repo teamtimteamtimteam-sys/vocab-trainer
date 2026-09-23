@@ -788,6 +788,14 @@ CHECK = {
  'history': ['make history', 'go down in history', 'the rest is history',
              'be history', 'history repeats itself', 'ancient history',
              'a history of'],
+ 'hit': ['hit it off', 'hit the roof', 'hit the nail on the head', 'hit the road',
+         'hit the sack', 'hit the jackpot', 'hit the headlines', 'hit home',
+         'hit the spot', 'hit the ground running', 'hit rock bottom',
+         'hit below the belt', 'hit back', 'hit out at', 'hit on', 'hit upon',
+         'hit the bottle', 'hit the big time', 'hit a nerve', 'hit the books',
+         'hit the deck', 'a direct hit', 'make a hit with', 'hit and run'],
+ 'hitch': ['get hitched', 'without a hitch', 'a technical hitch', 'hitch a lift',
+           'hitch a ride', 'hitch up'],
 }
 def main():
     B = {}

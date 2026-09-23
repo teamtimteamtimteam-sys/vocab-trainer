@@ -1,26 +1,3 @@
-helpless
-核心：无助的、无能为力的 —— 说人在某个处境里完全使不上力。
-两种用法：be helpless、be helpless to do something；
-还有一支说「笑得或气得浑身没劲」：helpless with laughter。
-副词 helplessly 与名词 helplessness 并入本条。
-跟 useless 分清：useless 是「派不上用场」（可以说物），
-helpless 是「自己无力自保」，几乎只说人与动物。
-① A newborn of that species is helpless for about eleven weeks.
-= 那个物种的幼崽，头十一个星期左右完全无助。
-be helpless = 无助的、无能为力的
-② They were helpless to stop it and the paperwork proves they tried.
-= 他们无力阻止，而那些文书证明他们试过。
-be helpless to do something = 无力做某事
-③ By the third verse half the choir was helpless with laughter.
-= 唱到第三段，半个唱诗班已经笑得直不起腰。
-helpless with laughter = 笑得浑身没劲
-④ He watched helplessly from the other side of the glass.
-= 他隔着玻璃眼睁睁看着，却使不上一点力。
-helplessly = 无助地、眼睁睁地
-⑤ The helplessness of that week is what she remembers, not the diagnosis.
-= 她记住的是那一周的无力感，而不是诊断本身。
-helplessness = 无力感
-
 helpline
 核心：求助热线：为某一类问题专设的电话线 —— 心理、债务、家暴、戒瘾、
 产品故障都有。可数，英式常用。
@@ -390,3 +367,18 @@ in henries = 以亨利为单位
 ③ One henry is a very large inductance for anything on a circuit board.
 = 对电路板上的元件来说，一亨利是极大的电感。
 one henry = 一亨利
+
+hepatic
+核心：肝的、肝脏的 —— 医学与解剖学用词，只作定语：
+hepatic function、the hepatic artery、hepatic failure。
+日常一律说 liver；这个词几乎不出现在对病人说的话里。
+构词来自希腊语的「肝」，同族的还有 hepatitis。
+① Hepatic function is checked with a blood test and not with a scan.
+= 肝功能是靠验血查的，不是靠扫描。
+hepatic function = 肝功能
+② The hepatic artery supplies about a quarter of the blood the liver gets.
+= 肝动脉供给的血，约占肝脏所得的四分之一。
+the hepatic artery = 肝动脉
+③ Hepatic failure in that context means days, not months.
+= 在那种情形下，肝衰竭意味着以天计，而不是以月计。
+hepatic failure = 肝衰竭

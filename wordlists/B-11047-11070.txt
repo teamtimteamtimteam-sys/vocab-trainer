@@ -1,20 +1,3 @@
-hi
-核心：（口语）打招呼用的「嗨、你好」，比 hello 随意，熟人、同事、陌生店员之间都用。
-常见的扩展是 hi there；say hi to somebody 是「替我向某人问好」，
-也可以只是「跟某人打个招呼」。书信与正式场合不用。
-① "Hi, I'm Sam, I've just joined the accounts team and I sit by the window."
-= 「嗨，我是萨姆，刚进财务组，坐在靠窗那边。」
-hi = 嗨、你好（口语）
-自我介绍、碰面时最常用的开口，语气比 hello 轻松。
-② Say hi to your parents for me when you see them at the weekend.
-= 周末见到你爸妈时，替我向他们问声好。
-say hi to somebody = 替我向某人问好
-也可以指「过去跟某人打个招呼」：go and say hi to your aunt。
-③ "Hi there, can I help you find anything, or are you just looking around?"
-= 「您好，需要帮您找点什么吗，还是随便看看？」
-hi there = 嗨、你好（招呼对方）
-there 不指地点，只是让招呼显得更热情一点，店员招呼顾客常这么说。
-
 hi-def
 核心：（口语）高清的 —— 由「高清晰度」那个复合词缩成，也写作 HD。
 形容词多放在名词前；in hi-def 是「以高清格式」。
@@ -388,3 +371,21 @@ hierarchical = 等级森严的、分层的
 ⑤ The files on the server are arranged hierarchically, with folders inside folders.
 = 服务器上的文件是分层存放的，文件夹里套着文件夹。
 arranged hierarchically = 按层级排列
+
+hieroglyph
+核心：象形文字的一个符号 —— 尤指古埃及的。来自希腊语「神圣的雕刻」。
+形容词 hieroglyphic（象形文字的）与复数名词 hieroglyphics 并入本条。
+hieroglyphics 指整套象形文字，形式复数；口语里比喻「天书一样认不出的字」。
+① Each hieroglyph on the wall could stand for a sound, a whole word or an idea.
+= 墙上的每个象形符号可以代表一个音、一个完整的词或一个概念。
+a hieroglyph = 象形文字（单个符号）
+② The scholar spent twenty years learning to read Egyptian hieroglyphics.
+= 那位学者花了二十年学会读埃及象形文字。
+hieroglyphics = 象形文字（整套书写体系）
+③ My doctor's handwriting is pure hieroglyphics, so the chemist had to ring her.
+= 我医生的字简直是天书，药剂师只好打电话问她。
+be pure hieroglyphics = 字迹像天书
+口语比喻，说的是潦草得认不出来的字。
+④ The walls of the tomb were covered in hieroglyphic inscriptions and painted figures.
+= 墓室的墙上满是象形文字铭文和彩绘人像。
+hieroglyphic inscriptions = 象形文字铭文
