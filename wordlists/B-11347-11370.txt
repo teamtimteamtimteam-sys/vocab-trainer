@@ -1,3 +1,49 @@
+hose
+核心：两个词：
+一是软管、水管（a garden hose），动词 hose something down 是用水管冲洗；
+二是（旧，或美式商店用语）袜类：长袜、连裤袜，不可数。
+① He watered the tomatoes with a hose every evening in the dry weather.
+= 天旱时，他每天傍晚都用水管给番茄浇水。
+a hose = 软管、水管
+② After the market closed, the traders hosed down the square.
+= 集市散了以后，摊贩们用水管把广场冲洗干净。
+hose something down = 用水管冲洗某处
+③ She wore black hose and flat shoes to the funeral.
+= 她穿着黑色长袜和平底鞋去参加葬礼。
+hose = 长袜、连裤袜（旧或美式）
+
+hosepipe
+核心：（英式）浇水用的软管 —— 同 hose 的第一支。
+旱季的 hosepipe ban 是禁止用软管浇花洗车的限水令。
+① He left the hosepipe running and flooded the neighbour's garden.
+= 他没关水管，把邻居家的花园淹了。
+the hosepipe = 浇水软管
+② A hosepipe ban was announced after the driest spring in fifty years.
+= 在五十年来最干旱的春天之后，当局宣布了禁用水管令。
+a hosepipe ban = 禁用水管令（英式）
+
+hosiery
+核心：（商店用语）袜类 —— 长袜、连裤袜、短袜的统称。不可数。
+① The hosiery department is on the ground floor, next to the gloves.
+= 袜类柜台在一楼，挨着手套。
+the hosiery department = 袜类柜台
+② The shop sells a wide range of hosiery for dancers.
+= 那家店卖各式各样的舞者用袜。
+a range of hosiery = 各式袜类
+
+hospice
+核心：临终关怀医院 —— 照顾晚期病人、让他们安宁度过最后时光的机构；
+hospice care 是临终关怀。旧义是山口上修道士为旅人开的客栈。
+① She spent her last weeks in a hospice near the sea, surrounded by her family.
+= 她最后的几个星期是在海边的一家临终关怀医院度过的，家人都在身边。
+a hospice = 临终关怀医院
+② Hospice care is free for patients in their final months.
+= 生命最后几个月的病人可以免费接受临终关怀。
+hospice care = 临终关怀
+③ The monks' hospice on the pass has sheltered travellers for centuries.
+= 山口上修道士开的那家客栈已经庇护旅人好几个世纪了。
+a hospice = （旧）旅人客栈
+
 hospitable
 核心：好客的、热情待客的；（环境）宜人的、适于生存的 —— 反义是 inhospitable。
 副词 hospitably 并入本条。
@@ -413,43 +459,3 @@ hotfoot it = 急忙赶去
 ② She arrived hotfoot from the meeting with the contract still in her hand.
 = 她刚开完会就匆匆赶来，手里还拿着合同。
 hotfoot = 匆匆地
-
-hothead
-核心：鲁莽冲动的人 —— 不经思考、爱动火的人。形容词是 hot-headed，收在 hot 条。
-① He's a hothead who starts a fight every time somebody spills his drink.
-= 他是个莽撞的人，谁洒了他的酒，他就跟谁打架。
-a hothead = 鲁莽冲动的人
-② The hotheads in the union wanted to strike at once, but the leaders held them back.
-= 工会里那些冲动分子想立刻罢工，但领导层拦住了他们。
-the hotheads = 冲动分子
-
-hothouse
-核心：本义是温室 —— 加热的玻璃房，种不耐寒的植物。
-比喻：让人或思想快速成长的环境；作定语 hothouse children 指被父母加压、过早拔高的孩子。
-① Oranges and lemons were grown in the hothouse behind the old manor.
-= 老庄园后面的温室里种着橙子和柠檬。
-a hothouse = 温室
-② The small college was a hothouse of new ideas in physics.
-= 那所小学院是物理学新思想的温室。
-a hothouse of something = 培养…的温室（比喻）
-③ Hothouse children often burn out before they reach university.
-= 被过早拔高的孩子往往还没上大学就累垮了。
-hothouse children = 被加压培养的孩子
-
-hotline
-核心：热线 —— 为求助、投诉、订购设的专线电话；也指两国首脑之间的直通电话。
-① The bank set up a hotline for customers worried about fraud.
-= 银行为担心诈骗的客户开通了一条热线。
-a hotline = 求助热线
-② The hotline between the two capitals was installed after the missile crisis.
-= 两国首都之间的直通热线是在导弹危机之后装的。
-the hotline between A and B = 两地之间的直通热线
-
-hotlink
-核心：（计算机）超链接；动词还指盗链 —— 直接引用别人网站上的图片，占用对方流量。
-① Click the hotlink at the bottom of the email to go straight to the booking page.
-= 点击邮件底部的链接，直接进入预订页面。
-a hotlink = 超链接
-② The blog hotlinked our photos and used up our entire monthly bandwidth.
-= 那个博客盗链我们的照片，把我们一个月的流量都用光了。
-hotlink something = 盗链

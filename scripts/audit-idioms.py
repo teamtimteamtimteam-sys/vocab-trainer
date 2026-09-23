@@ -855,6 +855,10 @@ CHECK = {
  'how': ['how about', 'how come', 'how do you do', 'and how', 'how so', 'how dare you',
          'how on earth', "how's that", 'how about that', 'how-to'],
  'howl': ['howl down', 'howls of laughter', 'howls of protest'],
+ 'hub': ['the hub of'],
+ 'hue': ['hue and cry'],
+ 'huff': ['in a huff', 'huff and puff'],
+ 'hug': ['give somebody a hug', 'a bear hug', 'hug the coast'],
 }
 def main():
     B = {}

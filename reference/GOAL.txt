@@ -9,33 +9,35 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-23，第三十轮）═══
-B 词表 11408 条、义项 41756 条，词典序 a → housework。A 表 3002 条。
+═══ 现状（2026-09-23，第三十一轮）═══
+B 词表 11442 条、义项 41872 条，词典序 a → hullo。A 表 3002 条。
   **a–g 七个字母收完**（各段 97% 以上，余下全是待推迟）。
   **h 字母在写**：
-   · ha- 551/566（97%）、he- 418/420（99%）、hi- 251/251、hm- 2/2，余下全是待推迟。
-   · **ho- 段 482/508（94%），最末词条 housework**。
-     本轮三批：hound → hourly 5 条（hourly 登 derived-keep，词根是名词）、
-     house 单立一批（43 义，并掉二十三条复合词）、houseboat → housework 21 条
-     （household 并 household name，housemaid 并 housemaid's knee）。
-   · 还没动的：hu 165、hy 115。
-  **下一批把 ho- 收尾（14 条）**：housing（并 housing association / housing benefit /
-    housing project / housing scheme，另有 housing estate）、hovel、hover、hoverboard、
-    hovercraft（这两个各自单立）、**how**（大词，并 how-to）、howdah、howdy、
-    however、howitzer、howl（并 howl down）、howler、howling、howzat。
-    ho- 余下的待推迟：Hodgkin lymphoma / hognose snake / hollandaise sauce /
-    honeydew melon 的内容词在后面的字母段。然后开 **hu- 段**（165 条）。
-  **app 2.0.3 已推送**（例句高亮认得变形，整句不亮 12.6% → 0.9%）。
-    改了 inflections.txt 要重跑 python3 scripts/gen-forms.py（第十二道闸门会拦）。
-  **high 78 义，用户 2026-09-23 裁定不拆**。以后别再往里塞。
+   · ha- 551/566、he- 418/420、hi- 251/251、hm- 2/2、**ho- 504/508 收完**，
+     余下全是待推迟（ho- 的四条是 Hodgkin lymphoma / hognose snake /
+     hollandaise sauce / honeydew melon）。
+     本轮：housing → howzat 13 条、how 单立（22 义，并 how-to）、
+     hu- 第一批 huarache → hullo 20 条。
+   · **hu- 段开工**：动笔前剔了 humidex（加拿大英语）与 hudson's bay-company（专名残片）。
+     hung 照 bent / broken 的先例单立（hung parliament、hung jury 等 hang 没有的义项）。
+     humour 跟 honour 一样：清单里只有美式 humor，本表以 humour 为词头，
+     **写到时要往 inflections.txt 登 humor→humour 并重跑 gen-forms.py**。
+  **下一批从 hum 起**：hum、**human**（并 human capital / human error / human geography，
+    human interest / human nature / human resources / human right / human shield /
+    human smuggling / human trafficking 等待推迟一并并掉）、humane（并 humanely）、
+    humanism / humanist / humanistic、humanitarian 一族、humanity、humanize、humankind、
+    humanly、humanoid、humble（并 humbly）、humblebrag、humbug、humdinger、humdrum、
+    humectant、humerus、humid / humidity、humidifier、humiliate 一族、humility、humint、
+    hummingbird、hummock、hummus、humongous / humungous、**humour** 一族……
+  **app 2.0.3 已推送**（例句高亮认得变形）。改了 inflections.txt 要重跑 gen-forms.py。
+  **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11408
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11442
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **2026-09-23 推送过三次**（最近一次到 adb8af23）；之后本地领先 origin 9 笔提交，
+  **2026-09-23 推送过三次**（最近一次到 adb8af23）；之后本地领先 origin 13 笔提交，
   含本次这一笔。push 照旧等用户开口。
-  g / h 段 177 行 Markdown 加粗已按用户 2026-09-23 裁定全部去掉，
-  check-wordlist 从此见 ** 就拦。
-  hg / hl / h.p. / hr 已进 exclude.txt（用户 2026-09-23 确认：小写单位缩写同 cwt 一律剔除）。
+  g / h 段 177 行 Markdown 加粗已按用户 2026-09-23 裁定全部去掉，check-wordlist 见 ** 就拦。
+  hg / hl / h.p. / hr 已进 exclude.txt（用户 2026-09-23 确认）。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
 · **带冒犯色彩的旧词最容易写出元评论**：houseboy 第二个义项写成了

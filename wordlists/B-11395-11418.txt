@@ -1,3 +1,61 @@
+household
+核心：一户、家庭 —— 住在同一屋檐下的一群人，统计上的一个单位。
+也作定语：household goods、household chores（家务）。
+习语 a household name：家喻户晓的名字 —— A 表教过。
+跟 family 的分界：family 说血缘，这个词说同住一屋、同过日子。
+住户、户主叫 householder，另立词条。
+① Nearly a third of households in the town have no car.
+= 镇上将近三分之一的住户没有汽车。
+a household = 一户、家庭
+② They share the household chores, but he does most of the cooking.
+= 他们分担家务，但饭大多是他做。
+household chores = 家务
+③ Twenty years after that film she is still a household name.
+= 那部电影过去二十年了，她仍然家喻户晓。
+a household name = 家喻户晓的名字
+④ The whole household was asleep when the fire started.
+= 起火时全家人都睡着了。
+the whole household = 全家人
+近义对照：
+household = 一户人（同住一屋）
+family = 家人（血缘关系）
+
+householder
+核心：户主、房主 —— 拥有或租住一处房子的人，多见于公文。
+① Every householder in the street received a letter about the new bins.
+= 那条街的每个户主都收到了一封关于新垃圾桶的信。
+a householder = 户主
+② Their householders' policy paid for new carpets after the kitchen flooded.
+= 厨房进水之后，他们的家庭财产保险赔了新地毯。
+a householders' policy = 家庭财产保险单（英式）
+
+housekeeper
+核心：管家、女管家 —— 受雇替主人家料理家务的人；酒店里是客房部的清洁员。
+名词 housekeeping 并入本条：一是家务管理；二是酒店客房部；
+三是比喻（组织、计算机里的）日常整理与维护工作。
+① The old doctor's housekeeper had looked after him for thirty years.
+= 那位老医生的女管家照顾了他三十年。
+a housekeeper = 管家、女管家
+② Call housekeeping and ask for more towels, please.
+= 请给客房部打电话，再要几条毛巾。
+housekeeping = （酒店）客房部
+③ She gave the children a small sum from the housekeeping every week.
+= 她每周从家用开销里拿一小笔钱给孩子们。
+the housekeeping = 家用开销（英式）
+④ Before the meeting there are a few housekeeping matters about fire exits and lunch.
+= 开会之前，先讲几件关于消防出口和午饭的日常事务。
+housekeeping matters = 日常事务（比喻）
+
+housemaid
+核心：（旧）女佣、女仆 —— 大户人家里做家务的女佣。
+housemaid's knee（女佣膝，髌前滑囊炎）因常跪着擦地得名，并入本条。
+① In the census of 1901 she is listed as a housemaid aged fifteen.
+= 在一九〇一年的人口普查里，她登记为一名十五岁的女佣。
+a housemaid = 女佣
+② Years of kneeling on stone floors gave him housemaid's knee.
+= 多年跪在石头地板上，让他得了女佣膝。
+housemaid's knee = 女佣膝（髌前滑囊炎）
+
 houseman
 核心：（英式，旧）住院实习医生 —— 医学院毕业后在医院实习第一年的医生，今天多说 house officer。
 ① As a young houseman he worked a hundred hours a week.
@@ -304,58 +362,3 @@ a howitzer = 榴弹炮
 ② The field was full of craters left by howitzer shells.
 = 田野上满是榴弹炮炮弹留下的弹坑。
 howitzer shells = 榴弹炮炮弹
-
-howl
-核心：本义是狼、狗的长嚎。由此长出：风呼啸；人因痛苦、愤怒或大笑而嚎叫；
-名词 howls of laughter / howls of protest。
-短语动词 howl down：用吼叫声把讲话的人压下去。
-① Wolves howled in the hills all night, and nobody in the camp slept.
-= 狼在山里嚎了一整夜，营地里没人睡着。
-howl = （狼、狗）嚎叫
-② The wind howled round the house and rattled every window.
-= 狂风绕着房子呼啸，把每扇窗户都吹得咯咯响。
-the wind howls = 风呼啸
-③ He howled with pain when the door slammed on his fingers.
-= 门夹到他的手指，他疼得嚎叫起来。
-howl with pain = 疼得嚎叫
-④ The announcement was met with howls of protest from parents.
-= 那项宣布遭到家长们的强烈抗议。
-howls of protest = 强烈的抗议声
-⑤ His impression of the head teacher brought howls of laughter.
-= 他模仿校长，引来一阵哄堂大笑。
-howls of laughter = 哄堂大笑
-⑥ The minister was howled down before he could finish his first sentence.
-= 部长第一句话还没说完，就被一片嘘声压了下去。
-howl somebody down = 用吼叫声把某人压下去
-
-howler
-核心：（口语）愚蠢可笑的错误 —— 尤指考卷、文章里闹笑话的错。
-另指美洲的吼猴（howler monkey）。
-① The report contains a howler on the first page: it gets the year of the war wrong.
-= 那份报告第一页就闹了个大笑话：把战争的年份写错了。
-a howler = 可笑的错误（口语）
-② A howler monkey roared from the treetops as we walked into the forest.
-= 我们走进森林时，一只吼猴在树顶上吼叫。
-a howler monkey = 吼猴
-
-howling
-核心：呼啸的、咆哮的；（口语）极大的、惊人的 —— a howling success。
-也作名词：嚎叫声、呼啸声。
-① A howling gale kept the ferries in port for two days.
-= 一场呼啸的大风让渡轮在港里停了两天。
-a howling gale = 呼啸的大风
-② The show was a howling success and toured for three years.
-= 那部剧大获成功，巡演了三年。
-a howling success = 极大的成功（口语）
-③ We could hear the howling of the dogs from the other side of the valley.
-= 我们能听见山谷另一边传来的狗叫声。
-the howling of something = …的嚎叫声
-
-howzat
-核心：（板球）「出局了吧？」—— 投球手与守场员向裁判请求判击球手出局时的喊声，由 how's that 缩成。
-① "Howzat!" shouted the bowler, and the umpire raised his finger.
-= 「出局了吧！」投球手大喊，裁判举起了手指。
-Howzat! = 出局了吧！（板球）
-② The whole team went up with a loud howzat, but the umpire shook his head.
-= 全队齐声高喊出局，裁判却摇了摇头。
-a loud howzat = 齐声高喊出局

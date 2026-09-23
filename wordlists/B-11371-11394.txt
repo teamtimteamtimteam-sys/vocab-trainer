@@ -1,3 +1,43 @@
+hothead
+核心：鲁莽冲动的人 —— 不经思考、爱动火的人。形容词是 hot-headed，收在 hot 条。
+① He's a hothead who starts a fight every time somebody spills his drink.
+= 他是个莽撞的人，谁洒了他的酒，他就跟谁打架。
+a hothead = 鲁莽冲动的人
+② The hotheads in the union wanted to strike at once, but the leaders held them back.
+= 工会里那些冲动分子想立刻罢工，但领导层拦住了他们。
+the hotheads = 冲动分子
+
+hothouse
+核心：本义是温室 —— 加热的玻璃房，种不耐寒的植物。
+比喻：让人或思想快速成长的环境；作定语 hothouse children 指被父母加压、过早拔高的孩子。
+① Oranges and lemons were grown in the hothouse behind the old manor.
+= 老庄园后面的温室里种着橙子和柠檬。
+a hothouse = 温室
+② The small college was a hothouse of new ideas in physics.
+= 那所小学院是物理学新思想的温室。
+a hothouse of something = 培养…的温室（比喻）
+③ Hothouse children often burn out before they reach university.
+= 被过早拔高的孩子往往还没上大学就累垮了。
+hothouse children = 被加压培养的孩子
+
+hotline
+核心：热线 —— 为求助、投诉、订购设的专线电话；也指两国首脑之间的直通电话。
+① The bank set up a hotline for customers worried about fraud.
+= 银行为担心诈骗的客户开通了一条热线。
+a hotline = 求助热线
+② The hotline between the two capitals was installed after the missile crisis.
+= 两国首都之间的直通热线是在导弹危机之后装的。
+the hotline between A and B = 两地之间的直通热线
+
+hotlink
+核心：（计算机）超链接；动词还指盗链 —— 直接引用别人网站上的图片，占用对方流量。
+① Click the hotlink at the bottom of the email to go straight to the booking page.
+= 点击邮件底部的链接，直接进入预订页面。
+a hotlink = 超链接
+② The blog hotlinked our photos and used up our entire monthly bandwidth.
+= 那个博客盗链我们的照片，把我们一个月的流量都用光了。
+hotlink something = 盗链
+
 hotlist
 核心：热门名单、首选名单 —— 当下最时髦或最受重视的人与事物的清单。
 ① The new restaurant is on every food critic's hotlist this spring.
@@ -383,61 +423,3 @@ a houseful of something = 满屋的…
 ② With a houseful of teenagers, the fridge was empty every morning.
 = 家里满是十几岁的孩子，冰箱每天早上都是空的。
 a houseful of teenagers = 一屋子的青少年
-
-household
-核心：一户、家庭 —— 住在同一屋檐下的一群人，统计上的一个单位。
-也作定语：household goods、household chores（家务）。
-习语 a household name：家喻户晓的名字 —— A 表教过。
-跟 family 的分界：family 说血缘，这个词说同住一屋、同过日子。
-住户、户主叫 householder，另立词条。
-① Nearly a third of households in the town have no car.
-= 镇上将近三分之一的住户没有汽车。
-a household = 一户、家庭
-② They share the household chores, but he does most of the cooking.
-= 他们分担家务，但饭大多是他做。
-household chores = 家务
-③ Twenty years after that film she is still a household name.
-= 那部电影过去二十年了，她仍然家喻户晓。
-a household name = 家喻户晓的名字
-④ The whole household was asleep when the fire started.
-= 起火时全家人都睡着了。
-the whole household = 全家人
-近义对照：
-household = 一户人（同住一屋）
-family = 家人（血缘关系）
-
-householder
-核心：户主、房主 —— 拥有或租住一处房子的人，多见于公文。
-① Every householder in the street received a letter about the new bins.
-= 那条街的每个户主都收到了一封关于新垃圾桶的信。
-a householder = 户主
-② Their householders' policy paid for new carpets after the kitchen flooded.
-= 厨房进水之后，他们的家庭财产保险赔了新地毯。
-a householders' policy = 家庭财产保险单（英式）
-
-housekeeper
-核心：管家、女管家 —— 受雇替主人家料理家务的人；酒店里是客房部的清洁员。
-名词 housekeeping 并入本条：一是家务管理；二是酒店客房部；
-三是比喻（组织、计算机里的）日常整理与维护工作。
-① The old doctor's housekeeper had looked after him for thirty years.
-= 那位老医生的女管家照顾了他三十年。
-a housekeeper = 管家、女管家
-② Call housekeeping and ask for more towels, please.
-= 请给客房部打电话，再要几条毛巾。
-housekeeping = （酒店）客房部
-③ She gave the children a small sum from the housekeeping every week.
-= 她每周从家用开销里拿一小笔钱给孩子们。
-the housekeeping = 家用开销（英式）
-④ Before the meeting there are a few housekeeping matters about fire exits and lunch.
-= 开会之前，先讲几件关于消防出口和午饭的日常事务。
-housekeeping matters = 日常事务（比喻）
-
-housemaid
-核心：（旧）女佣、女仆 —— 大户人家里做家务的女佣。
-housemaid's knee（女佣膝，髌前滑囊炎）因常跪着擦地得名，并入本条。
-① In the census of 1901 she is listed as a housemaid aged fifteen.
-= 在一九〇一年的人口普查里，她登记为一名十五岁的女佣。
-a housemaid = 女佣
-② Years of kneeling on stone floors gave him housemaid's knee.
-= 多年跪在石头地板上，让他得了女佣膝。
-housemaid's knee = 女佣膝（髌前滑囊炎）
