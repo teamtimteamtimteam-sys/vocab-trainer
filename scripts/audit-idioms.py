@@ -777,6 +777,17 @@ CHECK = {
           'from on high', 'high and low', 'the high seas', 'on your high horse',
           'riding high', 'hold your head high', 'high on', 'aim high',
           'the moral high ground', 'high season', 'high street'],
+ 'hill': ['over the hill', 'as old as the hills', 'head for the hills',
+          'up hill and down dale', 'a hill of beans', 'king of the hill'],
+ 'hilt': ['to the hilt'],
+ 'himself': ['by himself', 'not himself'],
+ 'hinge': ['hinge on', 'off its hinges'],
+ 'hint': ['drop a hint', 'take the hint', 'a hint of', 'hint at'],
+ 'hip': ['shoot from the hip', 'joined at the hip', 'hip, hip, hooray'],
+ 'hire': ['for hire', 'hire out', 'hire and fire'],
+ 'history': ['make history', 'go down in history', 'the rest is history',
+             'be history', 'history repeats itself', 'ancient history',
+             'a history of'],
 }
 def main():
     B = {}
