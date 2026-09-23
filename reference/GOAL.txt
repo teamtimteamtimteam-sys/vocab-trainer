@@ -9,36 +9,39 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-23，第二十五轮）═══
-B 词表 11210 条、义项 41064 条，词典序 a → home。A 表 3002 条。
+═══ 现状（2026-09-23，第二十六轮）═══
+B 词表 11266 条、义项 41211 条，词典序 a → honky-tonk。A 表 3002 条。
   **a–g 七个字母收完**（各段 97% 以上，余下全是待推迟）。
   **h 字母在写**：
    · ha- 551/566（97%）、he- 418/420（99%）、hi- 251/251、hm- 2/2，余下全是待推迟。
-   · **ho- 段 135/509（26%），最末词条 home**。
-     本轮三批：holdall → hollyhock 14 条（hole 19 义、hollow 10 义、holiday 讲英美分工）、
-     holocaust → homburg 10 条（holy 8 义）、home 单立一批（43 义，并掉二十四条
-     home 复合词，末尾附 home / house 近义对照）。holier 进 inflections.txt（→ holy）。
+   · **ho- 段 222/509（43%），最末词条 honky-tonk**。
+     本轮三批：homebody → homey 22 条、homicide → honcho 20 条（homie 从 homeboy
+     拆出单立）、hone → honky-tonk 13 条（honestly 登 derived-keep）。
+     homoeopath / homoeopathy / homoeostasis / homy 登 inflections.txt。
    · 还没动的：hu 165、hy 115。
-  **下一批从 homebody 起**：homebody、homeboy / homegirl / homie、homebuyer、
-    homecoming、**homeland**（并 homeland security）、homeless（并 homelessness）、
-    homely、homemaker / homemaking、homeopath 一族（英式拼法 homoeopath 一族
-    前四字母对不上，得各立一条或登 inflections）、homeostasis（同上：homoeostasis）、
-    homeowner、homer、homeroom、homeschool、homesick、homespun、homestay、
-    homestead、homeward、homeware、homework、homeworker、homey / homy、
-    homicide、homily、homing（并 homing pigeon）、hominid、Homo 一族……
-    然后是 hone / honest / honey / honour 一族，再往后 hook、hop、hope、horn、
-    **horse**、**hot**、**house**、**how** 几个大词各自单立一批。
+  **下一批先补 Honduran**（排在 honcho 与 hone 之间，这一轮漏写了），
+    然后是 **honour / honor 一族**：honour（大词，并 honour code、honour killing、
+    honourable mention、美式 honor roll / honor society / honor system）、
+    honourable / honorable（并 honourably）、honorarium、honorary、honoree / honouree、
+    honorific、honoris causa。英美拼法前四字母都是 hono，并得上；
+    但要按 HANDOFF 的老办法各走各的场景，别让两种拼法的例句撞车。
+    再往后：hooch、hood 一族、hoof（hooves 前四字母对不上，要登 inflections）、
+    **hook**、hooligan、hoop、hoot、hoover、**hop**、**hope**、horizon、**horn**、
+    **horse**、**hot**、**house**、**how** —— 大词各自单立一批。
   **high 78 义，用户 2026-09-23 裁定不拆**。以后别再往里塞。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11210
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11266
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **2026-09-23 推送过两次**（最近一次到 cbb79206）；之后本地领先 origin 6 笔提交，
-  含本次改 GOAL 这一笔。push 照旧等用户开口。
+  **2026-09-23 推送过两次**（最近一次到 cbb79206）；之后本地领先 origin 9 笔提交，
+  含本次这一笔。push 照旧等用户开口。
   g / h 段 177 行 Markdown 加粗已按用户 2026-09-23 裁定全部去掉，
   check-wordlist 从此见 ** 就拦。
   hg / hl / h.p. / hr 已进 exclude.txt（用户 2026-09-23 确认：小写单位缩写同 cwt 一律剔除）。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
+· **截短词别靠 inflections.txt 挂到全称底下**：homie 登成 homeboy 的变形，
+  coverage 认了，audit-padding 却报「例句里没有词头」—— 它说得对：
+  homie 是截短，不是变形，该单立。inflections.txt 只收真正的变形与拼法变体。
 · **三字母词头的变体要登两处**：hm→hmm 进了 inflections.txt，coverage 认了，
   audit-padding 却照报「例句里没有词」—— 它不读 inflections.txt，只认自己的
   STRONG 表，而且原先对短于三个字母的变体一律不认。2026-09-23 已补
