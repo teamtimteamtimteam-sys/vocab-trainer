@@ -817,6 +817,10 @@ CHECK = {
           'nothing to write home about', 'bring something home to', 'drive home',
           'charity begins at home', 'home in on', 'leave home', 'a home truth',
           'home town', 'strike home'],
+ 'homework': ['do your homework'],
+ 'honest': ['to be honest', 'honest to God', 'make an honest woman of', 'honest broker'],
+ 'honesty': ['in all honesty', 'honesty is the best policy'],
+ 'honeymoon': ['the honeymoon is over', 'honeymoon period'],
 }
 def main():
     B = {}
