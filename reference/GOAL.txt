@@ -9,31 +9,28 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-23，第三十二轮）═══
-B 词表 11488 条、义项 42021 条，词典序 a → hunky。A 表 3002 条。
+═══ 现状（2026-09-23，第三十三轮）═══
+B 词表 11517 条、义项 42122 条，词典序 a → Hutterite。A 表 3002 条。
   **a–g 七个字母收完**（各段 97% 以上，余下全是待推迟）。
-  **h 字母在写**：
-   · ha- 551/566、he- 418/420、hi- 251/251、hm- 2/2、ho- 504/508 收完，余下全是待推迟。
-   · **hu- 段 112/163（68%），最末词条 hunky**。本轮三批：hum → humanoid 10 条
-     （human 16 义）、humble → humus 23 条（humour 为词头，humor→humour、
-     humungous→humongous 已登 inflections 并重跑 gen-forms）、Hun → hunky 13 条
-     （hung 单立；A 表的 feel hungry 记进 a-only.txt）。
-   · 还没动的：hy 115。
-  **下一批从 hunt 起**：**hunt**（并 hunt down / hunt out / hunt-and-peck，A 表的
-    go hunting / hunt for / job-hunting）、hunted、hunter（并 hunter-gatherer）、hunting
-    （并 hunting ground）、huntress、huntsman、hurdle 一族、hurdy-gurdy、hurl、hurling、
-    hurly-burly、hurrah、hurricane（并 hurricane lamp）、hurried（并 hurriedly）、
-    **hurry**（并 hurry up / hurry on / in a hurry）、**hurt**（并 hurtful、hurtfully）、hurtle、
-    husband、husbandry（「农牧；节俭经营」，另一个意思，单立）、
-    **hush**（并 hush up / hush money / hush-hush / hush puppies / hush-a-bye-baby）、
-    husk、husky（并 huskily、huskiness）、hussar、hussy、hustings、hustle（并 hustler）、
-    hut、hutch、Hutterite。然后开 **hy- 段**（115 条）。
+  **h 字母只剩 hy- 段**：
+   · ha- 551/566、he- 418/420、hi- 251/251、hm- 2/2、ho- 504/508、**hu- 163/163**，
+     余下全是待推迟。本轮 hu- 三批：hunt → hurrah 12 条、hurricane → hurtle 5 条
+     （hurry、hurt 大词）、husband → Hutterite 12 条。
+   · **hy- 段 0/115**。动笔前要做的：
+     ① 剔除候选：hydel（印度英语「水电」）、hypotaxis（语法术语，同 ergative 那条）；
+       hypernym / hyponym / hypercorrection 拿不准就收。
+     ② 待并入：hydrochloric acid 进 acid、hydrogen bomb 进 hydrogen、hymn book 进 hymn、
+       hyperbaric chamber 进 hyperbaric；待推迟 hydraulic fracturing（fracturing 在 f，
+       写 hydraulic 时可当场并）、hydrogen peroxide（写 hydrogen 时当场并）。
+     ③ 英美拼法：hyaena / hyena、hyperglycaemia / hypoglycaemia / hypoxaemia 的美式
+       拼法（-emia），前四字母相同就并得上。
+     ④ 往 audit-idioms 补 hype / hygiene / hypothesis 之类有搭配的词。
   **app 2.0.3 已推送**（例句高亮认得变形）。改了 inflections.txt 要重跑 gen-forms.py。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11488
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11517
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **2026-09-23 推送过三次**（最近一次到 adb8af23）；之后本地领先 origin 17 笔提交，
+  **2026-09-23 推送过三次**（最近一次到 adb8af23）；之后本地领先 origin 21 笔提交，
   含本次这一笔。push 照旧等用户开口。
   g / h 段 177 行 Markdown 加粗已按用户 2026-09-23 裁定全部去掉，check-wordlist 见 ** 就拦。
   hg / hl / h.p. / hr 已进 exclude.txt（用户 2026-09-23 确认）。
