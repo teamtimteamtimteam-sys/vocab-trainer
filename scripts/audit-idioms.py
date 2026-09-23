@@ -845,6 +845,13 @@ CHECK = {
          'hot on the heels of', 'be hot on', 'hot off the press', 'not so hot', 'hot stuff',
          'a hot potato', 'hot air', 'sell like hot cakes', 'have the hots for',
          'in the hot seat', 'too hot to handle'],
+ 'hour': ['at the eleventh hour', 'the small hours', 'on the hour', 'after hours',
+          'by the hour', 'hour after hour', 'the man of the hour', 'rush hour',
+          'for hours on end'],
+ 'house': ['on the house', 'bring the house down', 'get on like a house on fire',
+           'put your house in order', 'safe as houses', 'house of cards', 'keep house',
+           'set up house', 'move house', 'a full house', 'people who live in glass houses'],
+ 'household': ['household name'],
 }
 def main():
     B = {}

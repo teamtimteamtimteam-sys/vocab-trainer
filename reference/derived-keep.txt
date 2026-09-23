@@ -55,3 +55,5 @@ honestly        # 「真是的！」（表示恼火）、「真的，没关系�
                 # 「说真的」作句子副词强调也是它独有的
 hopefully       # 句子副词「但愿」（Hopefully it will stop raining）hopeful 没有；
                 # 「满怀希望地」那一支才是规则派生
+hourly          # 词根 hour 是名词，不是形容词；hourly 兼形容词（an hourly service、
+                # the hourly rate）与副词（checked hourly），同 daily / fortnightly 那两条
