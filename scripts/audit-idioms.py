@@ -812,6 +812,11 @@ CHECK = {
              'the holidays'],
  'hollow': ['beat somebody hollow', 'hollow out', 'ring hollow', 'a hollow victory'],
  'holy': ['holy of holies', 'holier-than-thou', 'holy water'],
+ 'home': ['at home', 'make yourself at home', 'feel at home', 'home and dry',
+          'home sweet home', 'a home from home', 'close to home',
+          'nothing to write home about', 'bring something home to', 'drive home',
+          'charity begins at home', 'home in on', 'leave home', 'a home truth',
+          'home town', 'strike home'],
 }
 def main():
     B = {}
