@@ -868,6 +868,7 @@ CHECK = {
  'hurry': ['in a hurry', 'hurry up', 'in no hurry', 'hurry on'],
  'hurt': ["hurt somebody's feelings", 'it would not hurt', 'feel hurt'],
  'hush': ['hush up', 'hush money'],
+ 'hype': ['hype up', 'believe the hype'],
 }
 def main():
     B = {}
