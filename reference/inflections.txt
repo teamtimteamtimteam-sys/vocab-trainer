@@ -155,3 +155,5 @@ hooves       hoof           # 复数（f→ves），前四字母 hoov 对不上 
 # --- hu- 段（2026-09-23）---
 humor        humour         # 美式拼法；本表以 humour 为词头（同 honor→honour）
 humungous    humongous      # 另一种拼法，前四字母 humu 对不上 humo；在 humongous 条配例句
+# --- hy- 段（2026-09-26）---
+hyaena       hyena          # 英式拼法，前四字母 hyae 对不上 hyen；在 hyena 条配例句
