@@ -869,6 +869,8 @@ CHECK = {
  'hurt': ["hurt somebody's feelings", 'it would not hurt', 'feel hurt'],
  'hush': ['hush up', 'hush money'],
  'hype': ['hype up', 'believe the hype'],
+ 'hypothesis': ['a working hypothesis', 'test a hypothesis'],
+ 'hysteria': ['mass hysteria', 'in hysterics'],
 }
 def main():
     B = {}

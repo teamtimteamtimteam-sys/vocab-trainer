@@ -9,37 +9,35 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-26，第三十四轮）═══
-B 词表 11561 条、义项 42228 条，词典序 a → hypernym。A 表 3002 条。
-  **a–g 七个字母收完**（各段 97% 以上，余下全是待推迟）。
-  **h 字母只剩 hy- 后半**：
-   · ha- 551/566、he- 418/420、hi- 251/251、hm- 2/2、ho- 504/508、hu- 163/163，
-     余下全是待推迟。
-   · **hy- 段 64/113（56%），最末词条 hypernym**。已剔 hydel、hypotaxis；
-     hyaena→hyena 已登 inflections。本轮三批：hyacinth → hydrocortisone 12 条
-     （hydrochloric acid 并进 acid）、hydroelectric → hygienist 16 条、hymen → hypernym 16 条。
-  **下一批从 hypersensitive 起（剩 49 条）**：hypersensitive（并 hypersensitivity）、
-    hyperspace、hypertension（并 hypertensive）、hypertext、hyperthyroidism、hypertrophy、
-    hyperventilate（并 hyperventilation）、hyphen 一族、hypnosis / hypnotic / hypnotism /
-    hypnotist / hypnotize / hypnotherapy 一族、hypnopaedia、hypo、hypoallergenic、
-    hypochondria（并 hypochondriac）、hypocrisy / hypocrite / hypocritical 一族、hypodermic、
-    hypoglycaemia、hyponym、hypotenuse、hypothalamus、hypothermia、
-    **hypothesis**（并 hypothesize；往 audit-idioms 补 working hypothesis）、
-    hypothetical（并 hypothetically）、hypothyroidism、hypoxaemia、hypoxia、hyrax、hyssop、
-    hysterectomy、hysteria（并 hysterical、hysterically、hysterics）。
-    写完 h 字母就收完了，接着按惯例跑一遍收段动作（coverage h / audit-prefix h /
-    pull-pending --prune），然后开 i 字母。
-  **app 2.0.3 已推送**（例句高亮认得变形）。改了 inflections.txt 要重跑 gen-forms.py。
+═══ 现状（2026-09-26，第三十五轮）═══
+B 词表 11595 条、义项 42312 条，词典序 a → hysteria。A 表 3002 条。
+  **a–h 八个字母收完**。h 字母 2002/2023（98%），余下 21 条全是待推迟
+  （ha 15、he 2、ho 4 —— 内容词在后面的字母段）。hy- 113/113。
+  收段动作做过：coverage h、audit-prefix h（无空段）、pull-pending --prune（归档区 0 条）。
+  **下一步开 i 字母**（清单 1926 条，in- 一段就 1256 条，im- 278 条）。
+    动笔前照惯例：
+    ① 先扫整段清单剔干净（地区变体、窄专业、专名残片、小写单位缩写）；
+    ② proper-nouns-keep.txt 里还没有 I 开头的条目 —— 大写词头（Indian、Islam、Italian、
+       Inuit、Internet…）要先逐条过一遍，登进 keep 名单；
+    ③ 往 audit-idioms 的 CHECK 补 i- 段的大词（if、in、into、idea、ice、ill、image、interest…）；
+    ④ 动词不规则形：inflections.txt 与 gen-forms 里已有的不规则动词表覆盖了大部分，
+       i 段新登记的要重跑 gen-forms.py（第十二道闸门会拦）。
+    从 ia- 起：ia 3、ib 6、ic 53、id 64……
+  **app 2.0.3 已推送**（例句高亮认得变形）。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11561
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11595
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **2026-09-23 推送过四次**（最近一次到 aa2bed2e）；之后本地领先 origin 4 笔提交，
-  含本次这一笔。push 照旧等用户开口。
+  **最近一次推送到 aa2bed2e**；之后本地领先 origin 7 笔提交，含本次这一笔。
+  push 照旧等用户开口。
   g / h 段 177 行 Markdown 加粗已按用户 2026-09-23 裁定全部去掉，check-wordlist 见 ** 就拦。
   hg / hl / h.p. / hr 已进 exclude.txt（用户 2026-09-23 确认）。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
+· **两义项的术语词扎堆，整块的批均等式会掉到基线下**（hy- 段 hypersensitive 那批
+  resplit 后 2.08 < 2.13）。办法是给真有第三个搭配的词补上（suffer from hypertension、
+  put somebody under hypnosis），不是动基线，也不是凑假等式。写术语密集段时，
+  能自然写出第三条搭配的就顺手写上。
 · **带冒犯色彩的旧词最容易写出元评论**：houseboy 第二个义项写成了
   「历史学家避免用这个词」—— 那是在谈这个词，不是在用它，audit-padding 当场拦下。
   冒犯语、旧称的第二个义项照样要写真实用法（work as a houseboy），
