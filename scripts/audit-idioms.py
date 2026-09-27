@@ -875,6 +875,11 @@ CHECK = {
         'if I were you', 'if in doubt'],
  'ice': ['break the ice', 'on thin ice', 'put something on ice', 'cut no ice', 'on ice'],
  'iceberg': ['the tip of the iceberg'],
+ 'idea': ['have no idea', 'get the idea', 'a good idea', 'the very idea', "what's the big idea",
+          'put ideas into somebody\'s head', 'not my idea of'],
+ 'identity': ['mistaken identity', 'an identity crisis'],
+ 'idle': ['sit idle', 'an idle threat'],
+ 'ignorance': ['ignorance is bliss'],
 }
 def main():
     B = {}
