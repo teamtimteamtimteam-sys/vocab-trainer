@@ -9,26 +9,31 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-26，第三十五轮）═══
-B 词表 11595 条、义项 42312 条，词典序 a → hysteria。A 表 3002 条。
-  **a–h 八个字母收完**。h 字母 2002/2023（98%），余下 21 条全是待推迟
-  （ha 15、he 2、ho 4 —— 内容词在后面的字母段）。hy- 113/113。
-  收段动作做过：coverage h、audit-prefix h（无空段）、pull-pending --prune（归档区 0 条）。
-  **下一步开 i 字母**（清单 1926 条，in- 一段就 1256 条，im- 278 条）。
-    动笔前照惯例：
-    ① 先扫整段清单剔干净（地区变体、窄专业、专名残片、小写单位缩写）；
-    ② proper-nouns-keep.txt 里还没有 I 开头的条目 —— 大写词头（Indian、Islam、Italian、
-       Inuit、Internet…）要先逐条过一遍，登进 keep 名单；
-    ③ 往 audit-idioms 的 CHECK 补 i- 段的大词（if、in、into、idea、ice、ill、image、interest…）；
-    ④ 动词不规则形：inflections.txt 与 gen-forms 里已有的不规则动词表覆盖了大部分，
-       i 段新登记的要重跑 gen-forms.py（第十二道闸门会拦）。
-    从 ia- 起：ia 3、ib 6、ic 53、id 64……
-  **app 2.0.3 已推送**（例句高亮认得变形）。
+═══ 现状（2026-09-27，第三十六轮）═══
+B 词表 11628 条、义项 42433 条，词典序 a → icy。A 表 3002 条。
+  **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
+  **i 字母开工**（清单约 1960 条，in- 一段就 1256 条）：
+   · 开段准备已做：proper-nouns-keep 补进 41 条 I 开头大写词头（I 与 I'd / I'll / I'm / I've、
+     Indian / Irish / Islam / Italian 一族、Inuit、Interpol、Impressionism…）；
+     剔除 ible / ibly、idli、iHeartmedia、ictus、iceblock；
+     inflections：ikon→icon、I'd 等→I、Igbo→Ibo、icily / iciness→icy。
+   · 已写：ia- / ib- / ie- / if- 收完；**ic- 段收完**（余下 iceberg lettuce 等已并）。
+     本轮三批：I → iftar 13 条、ice 单立（33 义，并掉二十五条复合词）、iceberg → icy 18 条。
+   · **audit-padding 改读 inflections.txt**（hm→hmm、igbo→ibo 连着两次被误报之后），
+     验过仍拦得住真错。
+  **下一批从 id 起**：id、**idea**（A 表：a good idea / get the idea / have no idea）、
+    ideal 一族（并 ideally、idealism、idealist、idealistic、idealize…）、ideate、idée fixe、idem、
+    ident、identical（并 identical twin）、identify / identification / identity 一族
+    （并 identification card / identity card / identity parade / identity politics /
+    identity theft / identify with…）、ideogram、ideology 一族、ides、idiocy、idiolect、
+    **idiom**（并 idiomatic）、idiosyncrasy、idiot（并 idiot board / idiot savant）、idle 一族、
+    idol 一族、idyll 一族；然后 ig- 段（ignite / ignore / ignorance…）、ik- 段、il- 段。
+  **app 2.0.3 已推送**。改了 inflections.txt 要重跑 gen-forms.py（第十二道闸门会拦）。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11595
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11628
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **最近一次推送到 aa2bed2e**；之后本地领先 origin 7 笔提交，含本次这一笔。
+  **最近一次推送到 aa2bed2e**；之后本地领先 origin 10 笔提交，含本次这一笔。
   push 照旧等用户开口。
   g / h 段 177 行 Markdown 加粗已按用户 2026-09-23 裁定全部去掉，check-wordlist 见 ** 就拦。
   hg / hl / h.p. / hr 已进 exclude.txt（用户 2026-09-23 确认）。
