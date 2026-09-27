@@ -157,3 +157,12 @@ humor        humour         # 美式拼法；本表以 humour 为词头（同 ho
 humungous    humongous      # 另一种拼法，前四字母 humu 对不上 humo；在 humongous 条配例句
 # --- hy- 段（2026-09-26）---
 hyaena       hyena          # 英式拼法，前四字母 hyae 对不上 hyen；在 hyena 条配例句
+# --- i- 段（2026-09-27）---
+ikon         icon           # 旧拼法，前四字母 ikon 对不上 icon；在 icon 条配例句
+i'd          i              # 缩略式，词头只有一个字母，前缀判定认不出（同 he'd）
+i'll         i
+i'm          i
+i've         i
+igbo         ibo            # 同一民族与语言的两种拼写，前四字母对不上；在 Ibo 条配例句
+icily        icy            # 副词，y→i，前四字母 icil 对不上 icy
+iciness      icy            # 名词，同上

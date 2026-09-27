@@ -79,6 +79,24 @@ STRONG = {'catch': ['caught'], 'buy': ['bought'], 'teach': ['taught'],
           # 全靠这张表才认得出（2026-09-21 写 have 条之前补）
           'have': ['has', 'had', 'having', 'hast', 'hath']}
 
+# inflections.txt 里登记的「变形 → 词根」也算词头的词形（2026-09-27）。
+# 以前只认上面手写的 STRONG 表，于是 coverage 认了的拼法变体（hm→hmm、
+# igbo→ibo）在这里照报「例句里没有词」，每遇到一次就得往 STRONG 里补一条。
+# 两处用的本来就是同一份知识，读同一份文件。
+def _load_inflections():
+    import os
+    f = 'reference/inflections.txt'
+    if not os.path.exists(f): return
+    for line in io.open(f, encoding='utf-8'):
+        line = line.split('#')[0].strip()
+        if not line: continue
+        form, root = line.split()[:2]
+        form, root = fold(form).replace(' ', ''), fold(root).replace(' ', '')
+        if form and root and form != root:
+            STRONG.setdefault(root, [])
+            if form not in STRONG[root]: STRONG[root].append(form)
+_load_inflections()
+
 def cuts_of(t):
     """词头实词 t 的各种派生词干 —— 词尾 e / y 脱落、强变化、拉丁复数"""
     cuts = [t, t.rstrip('e'), t.rstrip('y'), t[:-1]]   # bake→baking、apiary→apiarist

@@ -559,3 +559,8 @@ humidex      # 加拿大英语：湿热指数 —— 按地区变体通则剔除
 hudson's bay-company  # 公司专名 Hudson's Bay Company 的清洗残片，属纯专名
 hydel        # 印度英语：水电 —— 按地区变体通则剔除
 hypotaxis    # 语法术语「从属结构」，只在语言学内部使用，同 ergative / durative 那条
+ible         # 词缀 -ible 掉了连字符，同 aholic / arian
+ibly         # 词缀 -ibly 掉了连字符，同上
+idli         # 印度食物名，一律不收
+iHeartmedia  # 公司品牌，属商标专名
+ictus        # 诗律／医学术语（重音、中风发作），窄专业，同 hypotaxis

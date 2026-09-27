@@ -871,6 +871,10 @@ CHECK = {
  'hype': ['hype up', 'believe the hype'],
  'hypothesis': ['a working hypothesis', 'test a hypothesis'],
  'hysteria': ['mass hysteria', 'in hysterics'],
+ 'if': ['if only', 'as if', 'even if', 'if anything', 'if not', 'if so', 'ifs and buts',
+        'if I were you', 'if in doubt'],
+ 'ice': ['break the ice', 'on thin ice', 'put something on ice', 'cut no ice', 'on ice'],
+ 'iceberg': ['the tip of the iceberg'],
 }
 def main():
     B = {}
