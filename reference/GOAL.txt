@@ -9,28 +9,27 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-27，第三十七轮）═══
-B 词表 11668 条、义项 42567 条，词典序 a → ikebana。A 表 3002 条。
+═══ 现状（2026-09-28，第三十八轮）═══
+B 词表 11689 条、义项 42631 条，词典序 a → illustrious。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
-  **i 字母在写**：ia- / ib- / ic- / id- / ie- / if- / ig- / ik- 都已收完。
-    开段准备（keep 名单 41 条、剔除、inflections）见上一轮。本轮新增：idly→idle。
-    本轮三批：id → identity 14 条（idea 9 义、ideal 11 义、identity 10 义）、
-    ideogram → idyll 12 条 ＋ identikit、igloo → ikebana 14 条。
-  **下一批从 il- 段起**（73 条）：ill（大词，并 ill-advised / ill-fated / ill health /
-    ill-treat 等一串 ill- 复合词）、illegal 一族、illegible、illegitimate、illicit、illiterate、
-    illness、illogical、illuminate 一族、illusion 一族、illustrate / illustration 一族……
-    动笔前先扫一遍 il- 清单，往 audit-idioms 补 ill / illusion。
-    再往后 im- 段 278 条（image、imagine、immediate、impact、important、impress…），
-    in- 段 1256 条是整个 i 字母的主体。
-  **app 2.0.3 已推送**。改了 inflections.txt 要重跑 gen-forms.py（第十二道闸门会拦）。
+  **i 字母在写**：ia- / ib- / ic- / id- / ie- / if- / ig- / ik- / il- 都已收完（il- 68/68）。
+    本轮三批：ilang-ilang → illness 5 条（ill 35 义，29 条 ill- 复合词按意思归组并入，
+    coverage 原把它们列为「待推迟」，按 half / high 的先例并进了 ill）、
+    illegal → illogical 7 条（illiterati 并进 illiterate）、illuminate → illustrious 9 条。
+    本轮剔除：il（前缀残片）、illywhacker（澳新）、illocution / illocutionary / illuminance（窄专业）。
+    inflections 新增 ileal→ileum，gen-forms 已重跑。
+  **下一批从 im- 段起**（278 条）：image / imagine 一族、immediate、immense、immigrant、
+    impact、impair、impartial、impatient、imperial、implement、imply、import、important、
+    impose、impossible、impress 一族、improve、impulse……
+    动笔前先扫一遍 im- 清单剔干净（窄专业、地区变体），往 audit-idioms 补
+    image / impression / impulse 等大词的习语。im- 前缀词多，核心块点名 im- 词根时
+    先确认它已有词条或排进同一批。
+    再往后 in- 段 1256 条是整个 i 字母的主体。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11668
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11689
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **最近一次推送到 aa2bed2e**；之后本地领先 origin 13 笔提交，含本次这一笔。
-  push 照旧等用户开口。
-  g / h 段 177 行 Markdown 加粗已按用户 2026-09-23 裁定全部去掉，check-wordlist 见 ** 就拦。
-  hg / hl / h.p. / hr 已进 exclude.txt（用户 2026-09-23 确认）。
+  **origin 目前在 51e34015**；之后本地领先的提交都没推，push 照旧等用户开口。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
 · **两义项的术语词扎堆，整块的批均等式会掉到基线下**（hy- 段 hypersensitive 那批
