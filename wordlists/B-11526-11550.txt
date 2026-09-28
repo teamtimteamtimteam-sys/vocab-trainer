@@ -1,12 +1,3 @@
-hydro
-核心：（英式口语）水电 —— 「水力发电」那个长词的口语缩略；旧义是水疗旅馆。
-① Most of the country's electricity comes from hydro.
-= 那个国家的大部分电力来自水电。
-hydro = 水电（口语）
-② They spent a week at an old Victorian hydro taking the waters.
-= 他们在一家维多利亚时代的老水疗旅馆住了一个星期，泡温泉。
-a hydro = 水疗旅馆（旧）
-
 hydrocarbon
 核心：（化学）碳氢化合物、烃 —— 只含碳和氢的化合物。由 hydro-（氢）加 carbon（碳）构成。可数。
 ① Petrol is a mixture of hydrocarbons refined from crude oil.
@@ -258,3 +249,22 @@ believe the hype = 相信吹捧
 ④ The kids were so hyped up about the trip that nobody slept.
 = 孩子们对这次出游兴奋过头，谁也睡不着。
 hyped up = 兴奋过头的
+
+hyper
+核心：（口语）过度兴奋的、亢奋的 —— 静不下来、话特别多；也作前缀 hyper-（超、过度）。
+① The children were hyper after all that birthday cake.
+= 吃了那么多生日蛋糕，孩子们兴奋得不行。
+hyper = 过度兴奋的（口语）
+② He gets hyper when he's nervous and talks without stopping.
+= 他一紧张就亢奋，话说个不停。
+get hyper = 变得亢奋
+
+hyperactive
+核心：多动的、过分活跃的 —— 多说孩子静不下来，也作医学用语。
+名词 hyperactivity（多动）并入本条。
+① Their hyperactive son can't sit still for more than a minute.
+= 他们那个多动的儿子一分钟都坐不住。
+hyperactive = 多动的
+② Some parents believe sugar causes hyperactivity, although the evidence is weak.
+= 有些家长认为糖会导致多动，尽管证据不足。
+hyperactivity = 多动

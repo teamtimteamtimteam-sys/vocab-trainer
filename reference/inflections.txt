@@ -167,3 +167,4 @@ igbo         ibo            # 同一民族与语言的两种拼写，前四字�
 icily        icy            # 副词，y→i，前四字母 icil 对不上 icy
 iciness      icy            # 名词，同上
 idly         idle           # 副词，le→ly，前四字母 idly 对不上 idle；在 idle 条配例句
+ileal        ileum          # 形容词，ileum→ileal，前四字母 ilea 对不上 ileu；在 ileum 条配例句

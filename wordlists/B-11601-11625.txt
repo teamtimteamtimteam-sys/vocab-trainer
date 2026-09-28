@@ -1,44 +1,3 @@
-I-spy
-核心：（英式）我看见 —— 一种儿童猜物游戏：一人说「I spy with my little eye something beginning with…」，
-别人猜他看见的是什么。不可数。
-① The children played I-spy in the back of the car to pass the time.
-= 孩子们在车后座玩「我看见」猜物游戏打发时间。
-play I-spy = 玩「我看见」猜物游戏
-② A game of I-spy kept them quiet for the last twenty miles.
-= 一局猜物游戏让他们在最后二十英里里都没吵闹。
-a game of I-spy = 一局「我看见」游戏
-
-iamb
-核心：（诗律）抑扬格 —— 一轻一重两个音节组成的音步。也拼 iambus，并入本条。
-形容词 iambic（抑扬格的）也收在这里：iambic pentameter 是英诗最常见的格律「抑扬格五音步」。
-① Each line begins with an iamb, a weak beat followed by a strong one.
-= 每行都以一个抑扬格音步开头，一个轻拍接一个重拍。
-an iamb = 抑扬格音步
-② Most of the play is written in iambic pentameter.
-= 那出戏大部分用抑扬格五音步写成。
-iambic pentameter = 抑扬格五音步
-③ Older textbooks call the same foot an iambus and give examples from Greek verse.
-= 旧教科书把同样的音步写作「iambus」，并举出希腊诗歌的例子。
-an iambus = 抑扬格音步（旧拼法）
-
-Iberian
-核心：伊比利亚的 —— 指西班牙和葡萄牙所在的伊比利亚半岛；也指古伊比利亚人。首字母大写。
-① They drove across the Iberian peninsula from Lisbon to Barcelona.
-= 他们开车从里斯本出发，横穿伊比利亚半岛到了巴塞罗那。
-the Iberian peninsula = 伊比利亚半岛
-② The restaurant serves Iberian ham, cut thin and served at room temperature.
-= 那家餐厅供应伊比利亚火腿，切得很薄，常温上桌。
-Iberian ham = 伊比利亚火腿
-
-ibex
-核心：北山羊 —— 生活在高山上、长着巨大弯角的野山羊。复数不变或 ibexes。
-① An ibex stood on a narrow ledge high above the valley.
-= 一只北山羊站在山谷上方高处一道窄窄的岩架上。
-an ibex = 北山羊
-② Herds of ibex climb the dam walls to lick the salt off the stones.
-= 成群的北山羊爬上大坝的墙，去舔石头上的盐。
-herds of ibex = 成群的北山羊
-
 ibid.
 核心：同上、出处同上 —— 拉丁语 ibidem 的缩写，用在脚注里，表示引文出处跟上一条相同。
 ① The first footnote gives the full title, and the next three simply say ibid.
@@ -347,3 +306,86 @@ an iconoclast = 反传统的人
 ② Her iconoclastic ideas about schooling shocked the education ministry.
 = 她关于学校教育的反传统观点震惊了教育部。
 iconoclastic = 反传统的
+
+iconography
+核心：图像学；（某一类作品里的）图像与象征手法 —— 研究或指画中形象代表什么。不可数。
+① The lecture explained the iconography of medieval paintings, from lilies to lambs.
+= 那场讲座解释了中世纪绘画里的象征图像，从百合到羔羊都有。
+the iconography of something = …的图像象征
+② The band's iconography, all skulls and roses, was copied by a thousand others.
+= 那支乐队的视觉符号——满是骷髅和玫瑰——被无数乐队模仿。
+iconography = 视觉符号、形象体系
+
+iconology
+核心：（艺术史）图像学 —— 研究艺术作品中图像的象征意义与文化背景的学科。不可数。
+① She teaches iconology and wrote her thesis on angels in Italian painting.
+= 她教图像学，博士论文写的是意大利绘画里的天使。
+iconology = 图像学
+② Iconology asks not just what a picture shows but what it meant to its first viewers.
+= 图像学不只问一幅画画了什么，还问它对最初的观者意味着什么。
+iconology asks = 图像学探究
+
+icy
+核心：结冰的、冰冷的（A 表教过「结冰的」）；比喻冷冰冰的、不友好的。
+副词 icily 与名词 iciness 并入本条。
+① Drive slowly, the roads are icy this morning.
+= 慢点开，今天早上路面结冰了。
+icy = 结冰的
+② An icy wind blew in from the sea all afternoon.
+= 整个下午，一阵刺骨的寒风从海上吹来。
+an icy wind = 刺骨的寒风
+③ She gave him an icy stare and left the room.
+= 她冷冰冰地瞪了他一眼，离开了房间。
+an icy stare = 冷冰冰的目光
+④ "I don't think we've met," she said icily.
+= 「我想我们没见过吧。」她冷冷地说。
+icily = 冷冰冰地
+⑤ The iciness of his reply surprised everyone at the table.
+= 他回答时的冷漠让桌上每个人都很吃惊。
+the iciness of something = …的冷漠
+
+id
+核心：一是（精神分析）本我 —— 弗洛伊德理论里人格中本能、欲望的部分，总带 the；
+二是 ID（身份证明）的小写写法，见 ID 那条 —— 这里只收本我一义与口语里的写法。
+① Freud divided the mind into the id, the ego and the superego.
+= 弗洛伊德把心理分为本我、自我和超我。
+the id = 本我
+② The novel's hero is pure id, acting on every appetite without a second thought.
+= 那部小说的主人公纯粹受本能驱使，想要什么就去做，从不多想。
+be pure id = 纯受本能驱使
+
+idea
+核心：底层意思是「脑子里的想法」。从这一点长出几支：
+一、主意、打算（a good idea，A 表教过）；
+二、看法、概念 —— 对某事的理解（have no idea、get the idea）；
+三、意图、目的 —— the idea is to…（用意是…）；
+四、设想、印象 —— not my idea of fun（我可不觉得好玩）。
+口语：the very idea!（亏你想得出！）、What's the big idea?（你这是什么意思？）、
+put ideas into somebody's head（让人产生不切实际的念头）。
+① That's a good idea; let's take the train instead of driving.
+= 好主意，我们坐火车，别开车了。
+a good idea = 好主意
+② I have no idea where he's gone.
+= 我完全不知道他去哪儿了。
+have no idea = 完全不知道
+③ Once you've done a few, you'll get the idea.
+= 你做几次就明白了。
+get the idea = 明白了、领会
+④ The idea is to finish the walls before the rain comes.
+= 用意是在下雨前把墙砌完。
+the idea is to do something = 用意是做某事
+⑤ Sitting in traffic for three hours is not my idea of a holiday.
+= 堵车堵三个钟头，我可不认为这算度假。
+not somebody's idea of something = 某人可不认为这算…
+⑥ She had some strange ideas about how children should be raised.
+= 她对孩子该怎么养有些奇怪的看法。
+ideas about something = 对某事的看法
+⑦ Who put that idea into your head?
+= 是谁让你有这种念头的？
+put an idea into somebody's head = 让某人产生某种念头
+⑧ What's the big idea, parking in my space without asking?
+= 你这是什么意思，不问一声就把车停在我的车位上？
+What's the big idea? = 你这是什么意思？（表示不满）
+⑨ Me, wear a suit to the beach? The very idea!
+= 我？穿西装去海滩？亏你想得出！
+The very idea! = 亏你想得出！

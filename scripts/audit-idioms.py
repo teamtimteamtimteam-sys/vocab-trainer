@@ -880,6 +880,9 @@ CHECK = {
  'identity': ['mistaken identity', 'an identity crisis'],
  'idle': ['sit idle', 'an idle threat'],
  'ignorance': ['ignorance is bliss'],
+ 'ill': ['speak ill of', 'can ill afford', 'ill at ease', 'be taken ill', 'fall ill', 'ill will',
+         'ill-gotten gains', "it's an ill wind", 'ill effects', 'think ill of'],
+ 'illusion': ['be under the illusion', 'have no illusions about', 'an optical illusion'],
 }
 def main():
     B = {}

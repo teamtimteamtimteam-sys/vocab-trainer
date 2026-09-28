@@ -565,3 +565,8 @@ idli         # 印度食物名，一律不收
 iHeartmedia  # 公司品牌，属商标专名
 ictus        # 诗律／医学术语（重音、中风发作），窄专业，同 hypotaxis
 iceblock     # 澳新英语：冰棍 —— 按地区变体通则剔除
+il           # 前缀 il- 掉了连字符（illegal、illiterate 里的否定前缀），同 ible / ibly
+illywhacker  # 澳新英语：骗子 —— 按地区变体通则剔除
+illocution   # 语言学（言语行为理论）术语「言外行为」，只在语言学内部使用，同 hypotaxis
+illocutionary # 同上的形容词
+illuminance  # 物理学光度术语「照度」，窄专业，同 ictus 那条
