@@ -882,6 +882,16 @@ CHECK = {
  'ignorance': ['ignorance is bliss'],
  'ill': ['speak ill of', 'can ill afford', 'ill at ease', 'be taken ill', 'fall ill', 'ill will',
          'ill-gotten gains', "it's an ill wind", 'ill effects', 'think ill of'],
+ 'image': ['the spitting image of', 'in the image of', 'be the image of', 'public image'],
+ 'imagination': ['use your imagination', 'capture the imagination', 'by no stretch of the imagination',
+                 'a figment of', 'leave nothing to the imagination'],
+ 'imagine': ['just imagine', 'imagine things', 'you can imagine'],
+ 'immediate': ['the immediate future', 'immediate family', 'the immediate vicinity'],
+ 'impact': ['have an impact on', 'on impact'],
+ 'impression': ['first impressions', 'be under the impression', 'make an impression', 'do an impression of'],
+ 'impulse': ['on impulse', 'impulse buy'],
+ 'improve': ['improve on'],
+ 'immune': ['immune to', 'immune system'],
  'illusion': ['be under the illusion', 'have no illusions about', 'an optical illusion'],
 }
 def main():

@@ -42852,6 +42852,10 @@ be embedded in something = 深深扎根于某事
 ③ Two reporters were embedded with the unit and filed the same story.
 = 有两名记者随那支部队采访，发回了同一篇报道。
 be embedded with a unit = 随某部队采访
+④ Surgeons had to cut away the tissue where the bullet was imbedded near his spine.
+= 子弹嵌在他脊柱附近，外科医生只好把那一块组织切掉。
+imbed = 嵌入（embed 的另一种拼法）
+「imbed」是较少见的拼法，意思、用法与「embed」完全相同。
 
 embeddedness
 核心：（社科用词）嵌入性：说一件事或一种行为深深扎在某个社会与制度环境里，
@@ -43704,13 +43708,17 @@ beef empanadas = 牛肉馅饼
 
 empanel
 核心：（法律）选定陪审团：把陪审员选出来编成名册。
-英式也拼 impanel；过去式英式 empanelled，美式 empaneled。
+也拼 impanel（多见于美式）；过去式英式 empanelled，美式 empaneled。
 ① It took two days to empanel a jury in a town that small.
 = 在那么小的镇上，选出一个陪审团用了两天。
 empanel a jury = 组成陪审团
 ② The jury was empanelled on Monday and sworn in on Tuesday.
 = 陪审团周一选定，周二宣誓。
 be empanelled = 被选入陪审团
+③ A second jury had to be impaneled after two members fell ill during the trial.
+= 审判期间两名陪审员病倒，只好另行选定一个陪审团。
+impanel = 选定陪审团（美式拼法）
+「impanel」多见于美式，过去式 impaneled。
 
 empathetic
 核心：有共情能力的、能设身处地的：说人体会得到别人的感受。

@@ -570,3 +570,9 @@ illywhacker  # 澳新英语：骗子 —— 按地区变体通则剔除
 illocution   # 语言学（言语行为理论）术语「言外行为」，只在语言学内部使用，同 hypotaxis
 illocutionary # 同上的形容词
 illuminance  # 物理学光度术语「照度」，窄专业，同 ictus 那条
+imagesetter  # 印刷制版设备「照排机」，只在印刷业内部使用，窄专业
+imago        # 昆虫学「成虫」／精神分析「意象」，两门学科各自的术语，窄专业
+imbizo       # 南非英语：部落集会 —— 按地区变体通则剔除
+imbongi      # 南非英语：部落颂诗人 —— 按地区变体通则剔除
+immiscible   # 化学术语「不能混溶的」，窄专业，同 holmium 那条
+implicature  # 语言学（语用学）术语「会话含义」，同 illocution
