@@ -1,3 +1,36 @@
+ikebana
+核心：插花 —— 日本的插花艺术，讲究线条与留白。不可数。
+① She took a course in ikebana and now arranges the flowers for the office.
+= 她上过一门日本插花课，现在办公室的花都是她插的。
+ikebana = 日本插花
+② The ikebana on the hall table was just three branches and a single white flower.
+= 门厅桌上的插花只有三根枝条和一朵白花。
+the ikebana = 插花作品
+
+ilang-ilang
+核心：依兰，一种热带树，也指从它的花里提取的香精油。这个词几乎只在香水、精油、护肤品的语境里出现，
+常作定语：ilang-ilang oil。另一种拼法以 y 打头，两种写法读音相同。
+① The perfume opens with jasmine and a heavy, sweet note of ilang-ilang.
+= 那款香水前调是茉莉，还带着一股浓重甜腻的依兰香。
+a note of ilang-ilang = 依兰香调
+② She added three drops of ilang-ilang oil to the bath to help her sleep.
+= 她往浴缸里滴了三滴依兰精油，好让自己睡得着。
+ilang-ilang oil = 依兰精油
+
+ileum
+核心：（解剖）回肠，小肠的最后一段，下接大肠。复数 ilea。形容词 ileal 并入本条。
+注意别混：ilium 只差一个字母，是髂骨，骨盆上的一块骨头；两个词读音一样，只能靠拼写分。
+① The surgeon removed a short section of the ileum that had become blocked.
+= 外科医生切除了回肠里堵塞的一小段。
+the ileum = 回肠
+② The scan showed inflammation in the lower ileum, which explained the pain.
+= 扫描显示回肠下段有炎症，疼痛就是这么来的。
+the lower ileum = 回肠下段
+③ Doctors took an ileal biopsy to rule out an infection before the operation.
+= 手术前医生做了回肠活检，排除感染的可能。
+an ileal biopsy = 回肠活检
+ileal = 回肠的
+
 ilk
 核心：（常含贬义）同类、同一类人。几乎只出现在 of that ilk、of his ilk、and their ilk 这几个位置上，
 不单独作主语或宾语。说话人用它，多半是对那一类人不以为然。
@@ -570,67 +603,3 @@ religious imagery = 宗教意象
 = 卫星图像显示，那片森林十年里缩小了三分之一。
 satellite imagery = 卫星图像
 这一支是图像的统称，比说 images 更正式、更技术。
-
-imaginable
-核心：想象得到的 —— 常跟最高级或 every、all、no 连用，起强调作用，意思接近「所有可能的」。
-可以放名词前，也常放名词后：every colour imaginable。
-① They tried every imaginable way of getting the cat down from the roof.
-= 他们想尽了一切能想到的办法把猫从屋顶弄下来。
-every imaginable way = 能想到的一切办法
-② The shop sells sweets in every colour imaginable, and children queue outside it after school.
-= 那家店卖各种颜色的糖果，放学后孩子们在门口排队。
-every colour imaginable = 各种能想到的颜色
-放在名词后面是这个词的特色用法，同 possible。
-③ It was the worst imaginable moment to tell her that the car had been stolen.
-= 那真是告诉她车被偷了的最糟糕的时机。
-the worst imaginable = 最糟不过的
-
-imaginary
-核心：想象出来的、虚构的 —— 不存在于现实中。跟 imaginative 分清：
-imaginary 是「不是真的」，imaginative 是「有想象力的」。数学里的「虚数」也从这里来，并入本条。
-① Like many only children, she had an imaginary friend who sat beside her at dinner.
-= 跟很多独生子女一样，她有一个想象出来的朋友，吃饭时就坐在她旁边。
-an imaginary friend = 想象中的朋友
-② He complains about imaginary illnesses, and his doctor has stopped taking him seriously.
-= 他总抱怨一些臆想出来的病，医生已经不把他当回事了。
-imaginary illnesses = 臆想出来的病
-③ The equator is an imaginary line around the middle of the earth.
-= 赤道是绕地球中部的一条假想线。
-an imaginary line = 假想线
-④ The square root of minus one is an imaginary number, written as i.
-= 负一的平方根是一个虚数，写作 i。
-an imaginary number = 虚数（数学）
-
-imagination
-核心：想象力 —— 在脑子里造出没见过的东西的能力；也指想象出来的东西本身。
-不可数为主，可带 a：have a vivid imagination。由此有一串习语：
-capture the imagination（引人入胜）、a figment of your imagination（臆想出来的东西）、
-leave nothing to the imagination（一览无余）、by no stretch of the imagination（无论如何也不）。
-形容词两个，别混：imaginary（虚构的）、imaginative（有想象力的）。
-① Children with a vivid imagination often make up stories to entertain themselves.
-= 想象力丰富的孩子常常自己编故事自娱自乐。
-a vivid imagination = 丰富的想象力
-② The film lacks imagination and simply copies scenes from three older, better films.
-= 那部电影缺乏想象力，只是照搬了三部更早、更好的电影里的场面。
-lack imagination = 缺乏想象力
-③ It was only my imagination; there was nobody at the window after all.
-= 那只是我的幻觉，窗口根本没有人。
-only your imagination = 只是你的幻觉
-这一支指想象出来的东西本身。
-④ The strange noise turned out to be a figment of her imagination.
-= 那奇怪的声音结果是她臆想出来的。
-a figment of your imagination = 臆想出来的东西
-⑤ The story of the lost city captured the imagination of a whole generation of readers.
-= 失落之城的故事让整整一代读者心驰神往。
-capture the imagination = 引人入胜、激发想象
-⑥ Use your imagination and turn the old boxes into a castle for the children.
-= 发挥你的想象力，把那些旧箱子给孩子们改成一座城堡。
-use your imagination = 发挥想象力
-也可以是不耐烦的话：「你自己想想吧」，意思是答案很明显。
-⑦ By no stretch of the imagination could the hotel be called luxurious.
-= 那家酒店无论如何也称不上豪华。
-by no stretch of the imagination = 无论如何也不
-放句首时后面要倒装，同 in no way。
-⑧ Her dress left nothing to the imagination, and the photographers loved it.
-= 她那身裙子几乎一览无余，摄影师们爱极了。
-leave nothing to the imagination = 一览无余、暴露无遗

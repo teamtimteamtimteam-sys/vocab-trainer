@@ -1,3 +1,56 @@
+I
+核心：第一人称单数主格代词「我」—— 永远大写，不管在句中哪个位置。
+宾格 me、所有格 my / mine、反身 myself，各有用法。
+缩略式并入本条：I'm（I am）、I've（I have）、I'll（I will）、I'd（I had 或 I would）——
+I'd 一身兼二职，靠后面跟什么来分：跟过去分词是 I had，跟动词原形是 I would。
+一处常错：and 连起来的主语里放在后面、且仍用主格 —— my wife and I；
+作宾语时要用 me：between you and me，说 between you and I 是矫枉过正。
+① I left the office at six and walked home along the river.
+= 我六点离开办公室，沿着河边走回家。
+I = 我（主格）
+永远大写，哪怕在句中。
+② My sister and I share a flat near the station.
+= 我和我姐姐在车站附近合租一套公寓。
+my sister and I = 我和我姐姐（作主语）
+并列主语里把 I 放在后面，是礼貌的习惯。
+③ I'm sorry I'm late, the trains were all cancelled.
+= 对不起我迟到了，火车全取消了。
+I'm = I am 的缩略式
+④ I've never been to Scotland, but I'd love to go.
+= 我从没去过苏格兰，不过我很想去。
+I've = I have 的缩略式
+I'd love to = 我很想（I would 的缩略）
+⑤ I'd already eaten by the time they arrived.
+= 他们到的时候我已经吃过了。
+I'd = I had 的缩略式
+后面跟过去分词时是 I had，跟动词原形时是 I would。
+⑥ I'll call you as soon as the plane lands.
+= 飞机一落地我就给你打电话。
+I'll = I will 的缩略式
+
+I-spy
+核心：（英式）我看见 —— 一种儿童猜物游戏：一人说「I spy with my little eye something beginning with…」，
+别人猜他看见的是什么。不可数。
+① The children played I-spy in the back of the car to pass the time.
+= 孩子们在车后座玩「我看见」猜物游戏打发时间。
+play I-spy = 玩「我看见」猜物游戏
+② A game of I-spy kept them quiet for the last twenty miles.
+= 一局猜物游戏让他们在最后二十英里里都没吵闹。
+a game of I-spy = 一局「我看见」游戏
+
+iamb
+核心：（诗律）抑扬格 —— 一轻一重两个音节组成的音步。也拼 iambus，并入本条。
+形容词 iambic（抑扬格的）也收在这里：iambic pentameter 是英诗最常见的格律「抑扬格五音步」。
+① Each line begins with an iamb, a weak beat followed by a strong one.
+= 每行都以一个抑扬格音步开头，一个轻拍接一个重拍。
+an iamb = 抑扬格音步
+② Most of the play is written in iambic pentameter.
+= 那出戏大部分用抑扬格五音步写成。
+iambic pentameter = 抑扬格五音步
+③ Older textbooks call the same foot an iambus and give examples from Greek verse.
+= 旧教科书把同样的音步写作「iambus」，并举出希腊诗歌的例子。
+an iambus = 抑扬格音步（旧拼法）
+
 Iberian
 核心：伊比利亚的 —— 指西班牙和葡萄牙所在的伊比利亚半岛；也指古伊比利亚人。首字母大写。
 ① They drove across the Iberian peninsula from Lisbon to Barcelona.
@@ -314,31 +367,3 @@ iconoclasm = 破坏圣像
 ② Her iconoclasm made her unpopular with the older critics.
 = 她那种反传统的作风让老一辈评论家不喜欢她。
 somebody's iconoclasm = 某人的反传统作风
-
-iconoclast
-核心：反传统的人、打破偶像的人 —— 敢于挑战权威和公认信念的人。
-形容词 iconoclastic 并入本条。
-① He was an iconoclast who enjoyed mocking the art world's favourite painters.
-= 他是个反传统的人，喜欢嘲弄艺术界最推崇的画家。
-an iconoclast = 反传统的人
-② Her iconoclastic ideas about schooling shocked the education ministry.
-= 她关于学校教育的反传统观点震惊了教育部。
-iconoclastic = 反传统的
-
-iconography
-核心：图像学；（某一类作品里的）图像与象征手法 —— 研究或指画中形象代表什么。不可数。
-① The lecture explained the iconography of medieval paintings, from lilies to lambs.
-= 那场讲座解释了中世纪绘画里的象征图像，从百合到羔羊都有。
-the iconography of something = …的图像象征
-② The band's iconography, all skulls and roses, was copied by a thousand others.
-= 那支乐队的视觉符号——满是骷髅和玫瑰——被无数乐队模仿。
-iconography = 视觉符号、形象体系
-
-iconology
-核心：（艺术史）图像学 —— 研究艺术作品中图像的象征意义与文化背景的学科。不可数。
-① She teaches iconology and wrote her thesis on angels in Italian painting.
-= 她教图像学，博士论文写的是意大利绘画里的天使。
-iconology = 图像学
-② Iconology asks not just what a picture shows but what it meant to its first viewers.
-= 图像学不只问一幅画画了什么，还问它对最初的观者意味着什么。
-iconology asks = 图像学探究

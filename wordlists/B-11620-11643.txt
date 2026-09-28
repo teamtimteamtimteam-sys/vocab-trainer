@@ -1,3 +1,31 @@
+iconoclast
+核心：反传统的人、打破偶像的人 —— 敢于挑战权威和公认信念的人。
+形容词 iconoclastic 并入本条。
+① He was an iconoclast who enjoyed mocking the art world's favourite painters.
+= 他是个反传统的人，喜欢嘲弄艺术界最推崇的画家。
+an iconoclast = 反传统的人
+② Her iconoclastic ideas about schooling shocked the education ministry.
+= 她关于学校教育的反传统观点震惊了教育部。
+iconoclastic = 反传统的
+
+iconography
+核心：图像学；（某一类作品里的）图像与象征手法 —— 研究或指画中形象代表什么。不可数。
+① The lecture explained the iconography of medieval paintings, from lilies to lambs.
+= 那场讲座解释了中世纪绘画里的象征图像，从百合到羔羊都有。
+the iconography of something = …的图像象征
+② The band's iconography, all skulls and roses, was copied by a thousand others.
+= 那支乐队的视觉符号——满是骷髅和玫瑰——被无数乐队模仿。
+iconography = 视觉符号、形象体系
+
+iconology
+核心：（艺术史）图像学 —— 研究艺术作品中图像的象征意义与文化背景的学科。不可数。
+① She teaches iconology and wrote her thesis on angels in Italian painting.
+= 她教图像学，博士论文写的是意大利绘画里的天使。
+iconology = 图像学
+② Iconology asks not just what a picture shows but what it meant to its first viewers.
+= 图像学不只问一幅画画了什么，还问它对最初的观者意味着什么。
+iconology asks = 图像学探究
+
 icy
 核心：结冰的、冰冷的（A 表教过「结冰的」）；比喻冷冰冰的、不友好的。
 副词 icily 与名词 iciness 并入本条。
@@ -326,63 +354,3 @@ idiomatic = 地道的
 ④ The translation is accurate but not idiomatically natural.
 = 那篇译文很准确，但读起来不够地道自然。
 idiomatically = 地道地
-
-idiosyncrasy
-核心：个人的怪癖、特有的习惯；（事物）独特之处。形容词 idiosyncratic 并入本条。
-① One of his idiosyncrasies was wearing odd socks to every meeting.
-= 他的怪癖之一是每次开会都穿不成对的袜子。
-an idiosyncrasy = 怪癖
-② She has an idiosyncratic way of spelling that drives her editor mad.
-= 她拼写的方式很独特，把编辑都快逼疯了。
-idiosyncratic = 独特的、怪异的
-
-idiot
-核心：白痴、傻瓜 —— 口语里常用来骂人，也常自嘲（I'm such an idiot!）。
-形容词 idiotic 与副词 idiotically 并入本条；复合词 idiot board（提词板，口语）、
-idiot savant（白痴学者：智力障碍却在某方面有惊人才能的人，旧称，今天多说 savant）也收在这里。
-① I'm such an idiot, I left my phone on the train.
-= 我真是个傻瓜，把手机落在火车上了。
-an idiot = 傻瓜
-② It was an idiotic idea to swim across the lake at night.
-= 半夜游过那个湖真是个愚蠢透顶的主意。
-idiotic = 愚蠢的
-③ He grinned idiotically at everyone in the room.
-= 他冲着屋里每个人傻笑。
-idiotically = 傻乎乎地
-④ The presenter read every word from the idiot board beside the camera.
-= 主持人每个字都是照着摄像机旁的提词板念的。
-the idiot board = 提词板（口语）
-⑤ The film's hero is an idiot savant who can count cards but can't cross a road alone.
-= 那部电影的主人公是个「白痴学者」，能记牌，却不能独自过马路。
-an idiot savant = 白痴学者（旧称）
-
-idle
-核心：底层是「不在干活」。三支：
-一、（人）懒散的；无所事事的；（机器、工厂）闲置的 —— sit idle、lie idle；
-二、无用的、无根据的 —— idle gossip、an idle threat（说说而已的威胁）；
-三、动词：闲混（idle away the hours）；（发动机）空转。
-名词 idleness、表示「懒人」的 idler 与副词 idly 并入本条。
-① The factory has been standing idle since the orders dried up.
-= 订单断了以后，那家工厂一直闲置着。
-stand idle = 闲置
-② It was only idle gossip, and nobody believed it.
-= 那只是闲言碎语，没人相信。
-idle gossip = 闲言碎语
-③ Don't worry about his threats; they're idle threats.
-= 别担心他的威胁，那只是说说而已。
-an idle threat = 说说而已的威胁
-④ We idled away the afternoon on the beach.
-= 我们在海滩上消磨了一个下午。
-idle away something = 消磨（时间）
-⑤ The taxi sat idling outside the station with its lights on.
-= 那辆出租车开着灯，在车站外空转着等客。
-idle = （发动机）空转
-⑥ Idleness, his mother said, was the root of all his trouble.
-= 他母亲说，懒散是他一切麻烦的根源。
-idleness = 懒散
-⑦ Every idler in the town seemed to spend the morning in that café over a single coffee.
-= 镇上的闲人好像都在那家咖啡馆里泡一上午，只点一杯咖啡。
-an idler = 闲人、懒人
-⑧ She stood idly by the window, watching the rain.
-= 她无所事事地站在窗边看雨。
-idly = 无所事事地
