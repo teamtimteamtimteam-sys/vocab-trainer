@@ -9,25 +9,28 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-28，第三十八轮）═══
-B 词表 11689 条、义项 42631 条，词典序 a → illustrious。A 表 3002 条。
+═══ 现状（2026-09-28，第三十九轮）═══
+B 词表 11742 条、义项 42811 条，词典序 a → imp。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
-  **i 字母在写**：ia- / ib- / ic- / id- / ie- / if- / ig- / ik- / il- 都已收完（il- 68/68）。
-    本轮三批：ilang-ilang → illness 5 条（ill 35 义，29 条 ill- 复合词按意思归组并入，
-    coverage 原把它们列为「待推迟」，按 half / high 的先例并进了 ill）、
-    illegal → illogical 7 条（illiterati 并进 illiterate）、illuminate → illustrious 9 条。
-    本轮剔除：il（前缀残片）、illywhacker（澳新）、illocution / illocutionary / illuminance（窄专业）。
-    inflections 新增 ileal→ileum，gen-forms 已重跑。
-  **下一批从 im- 段起**（278 条）：image / imagine 一族、immediate、immense、immigrant、
-    impact、impair、impartial、impatient、imperial、implement、imply、import、important、
-    impose、impossible、impress 一族、improve、impulse……
-    动笔前先扫一遍 im- 清单剔干净（窄专业、地区变体），往 audit-idioms 补
-    image / impression / impulse 等大词的习语。im- 前缀词多，核心块点名 im- 词根时
-    先确认它已有词条或排进同一批。
+  **i 字母在写**：ia- 到 il- 都已收完；**im- 段在写**（87/273，31%）。
+    本轮三批：image → imbue 15 条（image 10 义、imagination 8 义、imagine 7 义）、
+    imitate → imminent 20 条（immediate 8 义；immediately 因英式连词用法登 derived-keep 单立）、
+    immobile → imp 18 条（immune 分 to / from 两支，并 immune system / immune response；
+    imp 并 impish / impishly）。
+    开段准备已做：剔除 imagesetter / imago / immiscible / implicature（窄专业）、imbizo / imbongi（南非）；
+    inflections 补 imbed→embed、impanel→empanel 并在宿主条配了例句；
+    audit-idioms 补了 image / imagination / imagine / immediate / impact / impression /
+    impulse / improve / immune 九组。
+  **下一批从 impact 起**：impact（并 impacted / impactful）、impair 一族、impala、impale、impart、
+    impartial 一族、impasse、impatience / impatient 一族、impeach 一族、impeccable、impede /
+    impediment、imperative、imperfect、imperial 一族、impersonal（并 impersonal pronoun）……
+    还有两条待并入：impulse buy / impulse buying 并进 impulse，improper fraction 并进 improper
+    （coverage 把它们挂在 buy / fraction 名下，按重心放进 im- 词条；写完看 coverage 认不认）。
+    im- 里的大词：impact、import、important、impose、impossible、impress / impression、improve、impulse。
     再往后 in- 段 1256 条是整个 i 字母的主体。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11689
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11742
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 目前在 51e34015**；之后本地领先的提交都没推，push 照旧等用户开口。
 
