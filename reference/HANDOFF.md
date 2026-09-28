@@ -51,6 +51,15 @@ git add -A && git commit -q -m "..."
 **顺序要点**：check-wordlist 必须在 resplit 之前 —— resplit 会把污染打散到多个文件里，
 定位起来麻烦得多。
 
+**词头要照字面写进命令行，别用变量传**：Bash 工具跑的是 zsh，`W="a b c"; gates.sh he $W`
+会把整串当成一个参数，scan-dupes 只报「指定 3 条词头」—— 通道 5 等于没查。
+多词词头加引号（`"het up"`、`"hors d'oeuvre"`），或者整条包进 `bash -c '…'`。
+
+**单文件那一步报「密度低于基线」多半是假警报**：新文件里只有一两条大词时，
+批均等式按那一个文件算会偏低。以 resplit 之后 gates 里那一道 check-wordlist 为准；
+要是 resplit 后仍报某个分块低于 2.13，那才是真的 —— 办法是给真有第三条搭配的词补上
+（suffer from hypertension），不动基线、不凑假等式（hy- 段 2026-09-26）。
+
 ## 三、收词筛选（客观类别，不按「看着像不像词」判）
 
 **剔除**（写进 `reference/exclude.txt`，一行一个词加理由）：
@@ -119,7 +128,25 @@ especially 那句「everybody said it was」被元评论检查逮到，改例句
    ethene 那次插错义项，直接造出「两个义项等式相同」。
 4. 思考注记漏进 heredoc → check-wordlist 的草稿行检查（ergo 那次）。
 5. A 表教过的用法 B 里没有 → audit-ab（email address、be equipped with、
-   exclusive of、exert oneself 都是这么补上的）。
+   exclusive of、exert oneself 都是这么补上的）。只是初学者脚手架的（feel hungry）
+   按 CLAUDE.md「A 不是 B 的标尺」记进 reference/a-only.txt，不补。
+6. **1b 仍是最高频的坑**（2026-09-20 到 09-27 又栽了十来次：heroic couplet、hijacker、
+   hiker、homing pigeon、ice skate、identical twin、idler…）。每并入一个可数名词都问一句
+   「单数在等式左边露过面没有」。
+7. **讲解行里写「更正式的写法是 X」「美式说 X」也算点名** —— hinge upon、hired hand、
+   horseback riding 都这么被报「被吞掉」。要么给 X 一个义项，要么改用中文说。
+8. **大词的例句里别顺手用同前缀的另一个词条**：hot 的例句里写了 hotel，coverage 就按
+   前缀把 hotel 判成「已收」，从待新写里消失，而且没有闸门会报（它在例句里）。
+   写完大词，回头确认同前缀的单词都还在待新写清单上（house 那次查过，没吞）。
+9. **核心块写「东西」而不是「词」**仍会反复出现（海鲜酱配料、大猪草灼伤皮肤、
+   马毛旧用途、臭氧层、花色随酸碱变…）。闸门拦不住，全靠写完自查。
+10. **说名称的句子是元评论**：「管它叫…」「历史学家避免用这个词」「过去称为…」——
+   冒犯语、旧称、别名最容易写成这样。audit-padding 只拦得住一部分，自查。
+11. **变体与截短要分清**：拼法变体、不规则变形登 inflections.txt（hm→hmm、
+   humor→humour、ikon→icon）；**截短词单立**（homie 不能挂在 homeboy 下）。
+   登完 inflections.txt 必须重跑 `python3 scripts/gen-forms.py`（第十二道闸门会拦）。
+12. **词根是名词的 -ly 词**（hourly、daily）不归 audit-derived 那条规矩管，
+   登进 derived-keep.txt 写明「词根是名词」。
 
 ## 七、另一条并行的活：给拓展块补例句（用户 2026-09-11 定）
 
@@ -156,45 +183,35 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
 
 **进度从脚本读，别手写**：`python3 scripts/status.py` 末尾会打出两档的剩余条数。
 
-## 八、当前进度（2026-09-20）
+## 八、当前进度（2026-09-28）
 
-- B 词表 **10144 条**，词典序 a → ghoulish；A 表 3002 条。
-  交付文件第五份已开头（`B-merged-10001-10130.txt`）。
-  **条数、义项数、段完成度一律从脚本读**（`status.py` / `check-merged.py` /
-  `audit-padding.py` / `coverage.py`），别照抄这一节的数字。
-- **词典本身**：a–f 段 97% 以上，g 段的 **ga / ge / gh 都收完了**
-  （ga 99%、ge 99%、**gh 100%**，剩下的全是待推迟）。
-  **下一批从 gi- 段起**（giant / gift / giggle 一带）。
-  G 段大写词头 51 条已登记进 proper-nouns-keep。
-  gh 段留下一条可复用的判断：**待推迟的多词条目，只要内容词正是本段要写的词
-  （ghost story / ghost town / ghost train 之于 ghost），写完词根就该当场并掉**，
-  不要留到下一段 —— coverage 会自己从「待推迟」挪进「待并入」。
-- **补例句这件事做完了**（tier1 与 tier2 两档）。剩下列出来的**都不是漏网**：
-  - **tier1 现在 52 条**。三种东西混在一起，动手前逐条判：
-    · **明知故留的冒犯语两条**：fa 段的 fag hag、ga 段的 gang bang
-      （词条本身已标「粗俗俚语，认得即可」）。
-    · **辨析对照与两词挤一行那一类**（asylum→refugee、back→back issue /
-      back number、die→dyed in the wool、day 的 during the day…）——
-      靠形状认不出来，一直会留在清单上。
-    · **「词族」被打断后掉进 tier1 的**：左边词自己就是 B 词条
-      （absolute、arbitrate、audio、billion…），属用户 2026-09-12 裁定
-      不补的那一批。判断办法：左边词去掉冠词后是不是 B 表的一个词头。
-  - **tier2 现在 562 条**，绝大多数是上面说的「左边词自己有词条」那一类，
-    按裁定不补。
-  - **need-example 2026-09-20 收紧过一道**：「一组一个例句、底下并列几条等式」
-    的写法里，搭配原样出现在上方例句中的等式不再报缺（逐字比对，
-    连字符与空格算同一个边界，差一个字照报）。tier1 72 → 52、tier2 693 → 562，
-    少掉的全是假缺口。**所以并入时照旧按意思归组、一组一个例句就行，
-    只要那一组的搭配都出现在那句例句里，就不会留下待补的账。**
-    一句例句塞不下的搭配，就地写成「等式 + 英文例句 + 译文」三行挂上去。
-- **ga- 段那一轮（2026-09-20）踩到的两个坑**：
-  1. `audit-idioms` 的 CHECK 是**字典字面量，同名键会被后一条静默覆盖** ——
-     generation / gap / dust / duty 四组各有两份，前一份从来没查过。
-     往里加之前先 grep 一下有没有同名键。
-  2. 它的兜底匹配是**全表子串、没有词边界**：'gain on' 被 'bargain on' 撞上
-     就算已有。两三个字母的短语动词别指望这道闸门，真尺子是 coverage。
-- **动词变形照旧不单立条**：`gave` 进了 `inflections.txt`（gave→give）与
-  `exclude.txt`，等 gi- 段写 give 时连内容一起收 —— 同 geese→goose 的先例。
+- **条数、义项数、段完成度一律从脚本读**（`status.py` / `check-merged.py` /
+  `coverage.py`），这一节只记「现在在哪、下一步干什么、有什么没收尾的」。
+  **最新的现状块在 reference/GOAL.txt 顶部**，比这一节更细。
+- B 词表 11668 条，词典序 a → ikebana；A 表 3002 条。交付文件第五份
+  `B-merged-10001-11668.txt`。
+- **a–h 八个字母收完**（h 2002/2023，余下 21 条都是待推迟）。
+- **i 字母在写**：ia- / ib- / ic- / id- / ie- / if- / ig- / ik- 已收完。
+  **下一批从 il- 段起**（73 条，ill 一族最大），然后 im- 278 条，in- 1256 条是主体。
+- **开新字母段的固定准备**（i 字母时做过一遍，j 字母照做）：
+  ① 从 `reference/OALD10_Cleaned_Learning_List.csv` 第二列列出该字母的大写词头，
+     按「已进词汇才收」逐条判，收的登进 `proper-nouns-keep.txt`（纯人名地名、全大写缩写、
+     商标不收）；② 扫一遍整段清单，把地区变体、窄专业、专名残片、词缀、小写单位缩写
+     登进 exclude.txt；③ 往 audit-idioms 的 CHECK 补大词的习语（先 grep 同名键）。
+- **大词单立一批**：hit / hold / home / horse / hot / house / how / ice 都是这么写的 ——
+  核心块讲语义架构，挂在它名下的复合词、短语动词按义归组并进去。high 78 义，
+  **用户 2026-09-23 裁定不拆**，也别再往里塞。
+- **本轮用户裁定过的事**（都已落实，写在对应文件里）：
+  · g / h 段 177 行 Markdown 加粗全部去掉，check-wordlist 从此见 `**` 就拦；
+  · 小写单位缩写（hg / hl / h.p. / hr）同 cwt 一律剔除；
+  · 威尔士变体同其余地区变体一样剔除（hwyl、cwtch）。
+- **尺子本轮的改动**（都先验过「塞一个真错进去照样报红」）：
+  · check-wordlist：加「见 ** 就拦」；草稿行检查跳过首行（词头就是 hmm）；
+  · audit-padding：连 inflections.txt 一起读（变体不再被误报「例句里没有词」）；
+    same_word 认整词相等（两个字母的变体 hm）；
+  · gates.sh 加第十二道 `gen-forms --check`。
+- **推送**：最近一次推到 aa2bed2e（2026-09-23）；本地之后又有十几笔提交没推，
+  **push 照旧等用户开口**。
 
 ## 九、iPad app（index.html 单文件）也归这个仓库管
 
