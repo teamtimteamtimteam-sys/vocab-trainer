@@ -894,7 +894,8 @@ CHECK = {
  'impress': ['impress something on somebody', 'be impressed by'],
  'impression': ['first impressions', 'be under the impression', 'make an impression', 'do an impression of'],
  'impulse': ['on impulse', 'impulse buy'],
- 'improve': ['improve on'],
+ 'improve': ['improve on', 'improve upon', 'improve yourself'],
+ 'improvement': ['room for improvement', 'an improvement on'],
  'immune': ['immune to', 'immune system'],
  'illusion': ['be under the illusion', 'have no illusions about', 'an optical illusion'],
 }

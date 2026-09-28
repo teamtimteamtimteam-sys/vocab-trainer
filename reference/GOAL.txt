@@ -9,29 +9,26 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-29，第四十轮）═══
-B 词表 11802 条、义项 42973 条，词典序 a → imply。A 表 3002 条。
+═══ 现状（2026-09-29，第四十一轮）═══
+B 词表 11851 条、义项 43133 条，词典序 a → impute。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
-  **i 字母在写**：ia- 到 il- 都已收完；**im- 段在写**（184/273，67%）。
-    上一轮三批：image → imbue、imitate → imminent、immobile → imp（开段准备见那三笔提交）。
-    本轮三批：impact → impediment 21 条（impact 7 义）、impedimenta → imperturbable 22 条、
-    impervious → imply 17 条（implication 分属 imply / implicate 两个动词的三支）。
-    impertinent 首跑被 audit-examples 拦（额外实词 3.3），重写三句后过 —— 单义形容词最容易写短。
-  **下一批从 impolite 起**：impolite 一族、impolitic、imponderable、import（大词，并 importation /
-    importer）、importance、important（并 importantly）、importunate / importune、impose（并 imposition）、
-    imposing、impossible（并 impossibility / impossibly）、impostor / imposture、impotent 一族、impound、
-    impoverish 一族、impracticable / impractical 一族、imprecation、imprecise 一族、impregnable、
-    impregnate 一族、impresario、impress / impressed / impression / impressionable / Impressionism /
-    impressionist / impressive、imprimatur、imprint、imprison、improbable 一族、impromptu、
-    improper（并 improper fraction）、impropriety、improv、improve（并 improve on / upon）、
-    improvident、improvise / improvisation、imprudent 一族、impudent 一族、impugn、
-    impulse（并 impulse buy / impulse buying）、impulsion、impulsive 一族、impunity、impure / impurity、
-    impute（并 impute to）/ imputation。
-    impulse buy 与 improper fraction 被 coverage 挂在 buy / fraction 名下，按重心放进 im- 词条，写完看它认不认。
-    再往后 in- 段 1256 条是整个 i 字母的主体。
+  **i 字母在写**：ia- 到 im- 都已收完（im- 273/273）。
+    本轮三批：impolite → impoverish 14 条（import 8 义、impose 7 义）、
+    impracticable → impromptu 18 条（impression 7 义；impressionist 两个来源）、
+    improper → impute 17 条（improper 并 improper fraction，impulse 并 impulse buy / buying，
+    improve 并 improve on / upon —— coverage 都认了，重心放进 im- 词条的做法可行）。
+    本轮被闸门拦的都是写短、写漏：audit-ab 报 import from、audit-idioms 报 make life impossible、
+    audit-examples 报 impudent / impute 偏薄、coverage 报 impute to 没有裸形字面（讲解行里补了
+    impute to her motives...）。单义的正式词（impudent、impute、impertinent）连着三次被 audit-examples 拦，
+    写这类词的例句时要主动加时间、场合、后果。
+  **下一批从 in- 段起**（约 1256 条，整个 i 字母的主体）：in（大词）、inability、inaccessible、
+    inaccurate、inaction、inactive、inadequate、inadvertent……
+    开段前照例：扫清单剔干净（in- 里窄专业与拉丁短语多），往 audit-idioms 补 in / income / increase /
+    indeed / independent / industry / influence / information / inside / instance / interest 等大词的习语；
+    in 本身是虚词表里的词，先看 coverage 怎么报 in 打头的多词条目（in advance 已并进 advance 那一类）。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11802
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11851
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 目前在 51e34015**；之后本地领先的提交都没推，push 照旧等用户开口。
 
