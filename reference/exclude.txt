@@ -576,3 +576,19 @@ imbizo       # 南非英语：部落集会 —— 按地区变体通则剔除
 imbongi      # 南非英语：部落颂诗人 —— 按地区变体通则剔除
 immiscible   # 化学术语「不能混溶的」，窄专业，同 holmium 那条
 implicature  # 语言学（语用学）术语「会话含义」，同 illocution
+indaba       # 南非英语：部落会议、协商会 —— 按地区变体通则剔除
+induna       # 南非英语：部落首领、工头 —— 同上
+inyanga      # 南非英语：传统草药医生 —— 同上
+incharge     # 印度英语：负责人（in-charge 作名词）—— 按地区变体通则剔除
+inchoative   # 语言学术语「起始体」，只在语言学内部使用，同 illocution
+interlanguage # 二语习得术语「中介语」，同上
+interlingual # 语言学术语「语际的」，同上
+infix        # 语言学术语「中缀」，同上
+inscape      # 霍普金斯自造的诗学术语，只见于文学批评，窄专业
+intertextuality # 文学理论术语「互文性」，只在文论内部使用
+individuate  # 哲学与心理学术语「个体化」，窄专业
+insolation   # 气象学术语「日照量」，窄专业
+intraoperative # 外科术语「术中的」，只在医学内部使用
+indium       # 化学元素铟，同 holmium 那条
+interlinear  # 版本学术语「行间对照的」，窄专业
+intra        # 前缀 intra- 掉了连字符，同 il
