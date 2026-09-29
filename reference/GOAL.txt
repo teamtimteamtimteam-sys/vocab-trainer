@@ -9,10 +9,10 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-29，第四十九轮）═══
-B 词表 12372 条、义项 44638 条，词典序 a → intellectual。A 表 3002 条。
+═══ 现状（2026-09-29，第五十轮）═══
+B 词表 12424 条、义项 44807 条，词典序 a → interject。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
-  **i 字母在写**：ia- 到 im- 都已收完；**in- 段在写**（887/1253，71%）。
+  **i 字母在写**：ia- 到 im- 都已收完；**in- 段在写**（995/1253，79%）。
     开段准备已做：剔除 16 条（indaba / induna / inyanga 南非，incharge 印度，
     inchoative / interlanguage / interlingual / infix / inscape / intertextuality / individuate /
     insolation / intraoperative / indium / interlinear 窄专业，intra 前缀残片）；
@@ -22,25 +22,27 @@ B 词表 12372 条、义项 44638 条，词典序 a → intellectual。A 表 300
     incessant → including 23 条（inch 9 义；incidentally 登 derived-keep 单立）、
     inclusion → incongruous 20 条（income 并 income tax / income support）、
     inconsequential → incredulous 22 条（increase 并 increased；incorporated 单立）。
-    本轮三批：inspiration → institute 18 条（instant 并 instant message / messaging / messenger / replay；
-    instead 并 instead of）、institution → insulting 21 条（institution 10 义，并 institutionalize 一族）、
-    insuperable → intellectual 20 条（insurance 并 insurance policy / adjuster；integrate 并 integrated
-    circuit；intellectual 并 intellectual property）。三批都一次过闸。
-    **预检偏薄的一直是同一类**：单义、偏正式的形容词和名词（insipid、insular、integer、intellect…），
-    头一稿总是「主语 + be + 词」的八九个词短句。写这类词时直接给一个场景状语（after months of…、
-    in the thick fog over…），别等 audit-examples 报。
-    audit-idioms 本轮补了 instance / instant / instead / instinct / intend / intent / interest。
-  **下一批从 intelligence 起**：intelligence（并 intelligence quotient / test）、intelligent、intelligentsia、
-    intelligible 一族、intemperate 一族、intend / intended、intense 一族、intensifier、intensify、intensity、
-    intensive（并 intensive care）、intent、intention 一族、intently、inter / inter alia、interact 一族、
-    interbreed、intercede、intercept 一族、intercession、interchange 一族……
+    本轮三批：intelligence → interactive 19 条、interbreed → interdisciplinary 19 条、
+    interest → interject 14 条（interest 14 义；interior 并 interior design / decoration / angle / monologue）。
+    **尺子改了一处（coverage.py phrase_hosts）**：in 在虚词表里，并进 in 条的 in-house、in-flight、
+    in-crowd 等连字符复合词一直认不上。现在连字符复合词的虚词首成分也可当宿主；分写的 in advance
+    照旧只认内容词。验过：抹掉 in-house 立刻变回未收；a / b 段已收数不变。
+    **本轮被拦的**：intently 单立了（audit-derived，并回 intent）；intend ①④ 剥掉占位词后等式都成了
+    intend to do（audit-padding 重复义项，④ 改被动 be intended to do）；interconnection 只露复数；
+    interest 的习语写成复数 interests 而清单要单数（两种都写上了）；interject 讲解行点了 interrupt 的名。
+    **写完一个复合词族要回头查漏**：inset day、intelligent design、in-group 三条都是 coverage 挂在别处
+    才发现的 —— 写某个 in- 词之前先 grep 一下清单里以它打头的多词条目。
+  **下一批从 interlace 起**：interlace、interleave、interlink、interlock、interlocutor、interloper、interlude、
+    intermarry 一族、intermediary、intermediate（并 intermediate technology）、interment、intermesh、
+    intermezzo、interminable 一族、intermingle、intermission、intermittent 一族、intermix、intern、
+    internal（并 internal market / medicine / rhyme、internal-combustion engine）、international 一族、internet……
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
     coverage 认）。写到那个 in- 词时顺手并，不要漏：写每批前先 grep 一下清单里以该词打头的多词条目。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12372
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12424
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 目前在 51e34015**；之后本地领先的提交都没推，push 照旧等用户开口。
 
