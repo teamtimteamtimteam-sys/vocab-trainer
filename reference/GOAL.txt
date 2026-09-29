@@ -9,29 +9,33 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-29，第四十二轮）═══
-B 词表 11911 条、义项 43314 条，词典序 a → inception。A 表 3002 条。
+═══ 现状（2026-09-29，第四十三轮）═══
+B 词表 11976 条、义项 43506 条，词典序 a → incredulous。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
-  **i 字母在写**：ia- 到 im- 都已收完；**in- 段开了**（94/1253，7%）。
+  **i 字母在写**：ia- 到 im- 都已收完；**in- 段在写**（209/1253，16%）。
     开段准备已做：剔除 16 条（indaba / induna / inyanga 南非，incharge 印度，
     inchoative / interlanguage / interlingual / infix / inscape / intertextuality / individuate /
     insolation / intraoperative / indium / interlinear 窄专业，intra 前缀残片）；
     audit-idioms 补 in / inch / income / increase。大写词头（Indian 一族、Injun、Interpol、
     Indonesian…）早已在 proper-nouns-keep 里判过。
-    本轮三批：in → in-laws 13 条（in 38 义，in- 连字符复合词归组并入；拉丁短语 in absentia、
-    in situ、in vitro 等各自立条 —— coverage 原把它们列「待推迟」，因为 in 是虚词、内容词不是英语词条）、
-    inability → inauspicious 23 条、inauthentic → inception 24 条（inc. 两义：Inc. 与英式「含」）。
-  **下一批从 incessant 起**：incessant、incest 一族、inch（大词，习语已进 CHECK）、inchoate、
-    incidence、incident（并 incident room）、incidental 一族、incinerate 一族、incipient、incise 一族、
-    incite、incivility、incl.、inclement、inclination、incline、inclined、include / included / including、
-    inclusion、inclusive 一族、incognito、incoherent 一族、income（并 income tax / income support）……
+    前两轮六批：in → in-laws、inability → inauspicious、inauthentic → inception、
+    incessant → including 23 条（inch 9 义；incidentally 登 derived-keep 单立）、
+    inclusion → incongruous 20 条（income 并 income tax / income support）、
+    inconsequential → incredulous 22 条（increase 并 increased；incorporated 单立）。
+    本轮被拦的：incl. 核心点了 inclusive 的名（audit-swallowed），改成只说 including；
+    incite / incivility / inclination / incommode / incense 例句偏薄 —— 写前先跑
+    audit-examples 预检，偏薄的当场补厚，比写完被闸门拦再改省一轮。
+  **下一批从 increment 起**：increment 一族、incriminate 一族、incrustation、incubate 一族、incubus、
+    inculcate、incumbent 一族、incur、incurable、incurious、incursion、indebted、indecent（并 indecent
+    assault / indecent exposure）、indecipherable、indecision / indecisive、indeed、indefatigable、
+    indefensible、indefinable、indefinite（并 indefinite pronoun）、indefinitely、indelible……
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
     coverage 认）。写到那个 in- 词时顺手并，不要漏：写每批前先 grep 一下清单里以该词打头的多词条目。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11911
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11976
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 目前在 51e34015**；之后本地领先的提交都没推，push 照旧等用户开口。
 
