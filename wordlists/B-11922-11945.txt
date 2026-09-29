@@ -1,3 +1,43 @@
+incipient
+核心：（正式）初期的、刚开始显露的 —— 多说坏事的苗头：incipient baldness、an incipient crisis。
+① He was worried about his incipient baldness and bought three different shampoos.
+= 他担心自己开始秃顶，买了三种洗发水。
+incipient baldness = 初期秃顶
+② The central bank acted quickly to stop the incipient crisis.
+= 央行迅速出手，遏制了刚冒头的危机。
+an incipient crisis = 初露端倪的危机
+
+incise
+核心：（正式）刻；切开 —— 在表面刻出图案，或（外科）切开。名词 incision（切口）并入本条。
+① A pattern of leaves had been incised into the stone.
+= 石头上刻着树叶的图案。
+be incised into something = 刻在…上
+② The surgeon made a small incision in the patient's side.
+= 外科医生在病人侧腹切了一个小切口。
+make an incision = 切开一个切口
+
+incisive
+核心：敏锐的、一针见血的 —— 说头脑、评论、分析切中要害。本义「能切进去的」。
+副词 incisively 与名词 incisiveness 并入本条。
+① Her incisive questions quickly exposed the weakness in his argument.
+= 她几个一针见血的问题，很快就揭露了他论点的弱点。
+incisive questions = 一针见血的问题
+② He analysed the problem incisively and proposed three simple solutions.
+= 他敏锐地分析了问题，提出了三个简单的解决办法。
+incisively = 敏锐地
+③ Readers admired the incisiveness of her columns.
+= 读者们欣赏她专栏文章的犀利。
+incisiveness = 犀利、敏锐
+
+incisor
+核心：门牙 —— 前面用来切断食物的牙齿，人类上下各四颗。跟 canine（犬齿）、molar（臼齿）并列。
+① The boy knocked out one of his front incisors playing hockey.
+= 那男孩打曲棍球时磕掉了一颗门牙。
+an incisor = 门牙
+② Rabbits' incisors never stop growing, so they need to chew hard food.
+= 兔子的门牙会一直长，所以它们需要啃硬东西。
+incisors = 门牙（复数）
+
 incite
 核心：煽动、激起 —— 鼓动人去做（暴力、违法的）事。常见 incite somebody to do something、
 incite violence/hatred。名词 incitement 并入本条。
@@ -263,78 +303,3 @@ be held incommunicado = 被单独关押、与外界隔绝
 ② I'll be incommunicado for the weekend, so don't bother texting me.
 = 这个周末我不跟外界联系，别给我发短信了。
 be incommunicado = 联系不上（谑）
-
-incomparable
-核心：无与伦比的、无可比拟的 —— 好到没法比。副词 incomparably（无比地）与名词 incomparability 并入本条。
-① The view from the top of the mountain was incomparable.
-= 山顶的景色无与伦比。
-incomparable beauty = 无与伦比的美
-② The new trains are incomparably faster and more comfortable than the old ones.
-= 新火车比旧火车快得多、舒服得多，简直没法比。
-incomparably better = 好得无法比拟
-③ Critics debated the incomparability of the two writers, who worked in completely different styles.
-= 评论家争论这两位作家是否可以比较，因为他们的风格截然不同。
-the incomparability of A and B = A与B的不可比
-
-incompatible
-核心：不相容的、合不来的 —— 两样东西或两个人放在一起行不通。说人（性格不合）、设备（不兼容）、
-观念（互相矛盾）、血型与药物（不能相配）。名词 incompatibility 并入本条。
-① They divorced after ten years, saying they were simply incompatible.
-= 十年后他们离了婚，说两人就是合不来。
-be incompatible = 合不来
-② The new software is incompatible with older computers.
-= 新软件与老式电脑不兼容。
-be incompatible with something = 与…不兼容
-③ His views on the environment are incompatible with his job at an oil company.
-= 他的环保观点与他在石油公司的工作互相矛盾。
-be incompatible with something = 与…相矛盾
-④ Blood group incompatibility can cause problems during pregnancy.
-= 血型不合可能在怀孕期间引起问题。
-blood group incompatibility = 血型不合
-
-incompetent
-核心：无能的、不胜任的 —— 没有能力把工作做好。也作名词（an incompetent）。法律上另指无行为能力的。
-名词 incompetence 与副词 incompetently 并入本条。
-① The report blamed incompetent managers for the company's collapse.
-= 报告把公司倒闭归咎于无能的管理层。
-an incompetent manager = 无能的经理
-② The inquiry found the police guilty of gross incompetence.
-= 调查认定警方严重失职。
-gross incompetence = 严重失职、极其无能
-③ The renovation had been done so incompetently that the roof leaked within a month.
-= 翻修做得一塌糊涂，不到一个月屋顶就漏水了。
-incompetently = 无能地、拙劣地
-④ The court ruled that the old man was mentally incompetent to sign the will.
-= 法院裁定那位老人精神上无行为能力，不能签署遗嘱。
-mentally incompetent = 无行为能力的（法律）
-
-incomplete
-核心：不完整的、未完成的 —— in- 加 complete。副词 incompletely 与名词 incompleteness 并入本条。
-① The application was rejected because the form was incomplete.
-= 申请被拒，因为表格没填完整。
-an incomplete form = 没填完整的表格
-② The novel was left incomplete when the author died.
-= 作者去世时，那部小说还没写完。
-be left incomplete = 未完成
-③ The disease is still incompletely understood by scientists.
-= 科学家对这种病的了解仍然不完整。
-incompletely understood = 了解得不完整
-④ The incompleteness of the records made it hard to trace her family.
-= 记录不全，很难追溯她的家族。
-the incompleteness of something = …的不完整
-
-incomprehensible
-核心：无法理解的、难懂的 —— 说语言、文字、行为让人看不懂。
-名词 incomprehensibility 与副词 incomprehensibly 并入本条。
-① The instructions were written in incomprehensible technical language.
-= 说明书是用晦涩难懂的技术语言写的。
-incomprehensible language = 难懂的语言
-② It is incomprehensible to me why anyone would pay so much for a car.
-= 我真不明白为什么有人会花这么多钱买一辆车。
-be incomprehensible to somebody = 让某人无法理解
-③ He mumbled something incomprehensibly and left the room.
-= 他含糊不清地咕哝了一句，离开了房间。
-incomprehensibly = 让人听不懂地
-④ Readers complained about the incomprehensibility of the new tax forms.
-= 读者抱怨新的税表难以看懂。
-the incomprehensibility of something = …的难以理解
