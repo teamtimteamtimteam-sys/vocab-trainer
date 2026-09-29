@@ -9,10 +9,10 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-29，第四十五轮）═══
-B 词表 12109 条、义项 43890 条，词典序 a → infantry。A 表 3002 条。
+═══ 现状（2026-09-29，第四十六轮）═══
+B 词表 12178 条、义项 44077 条，词典序 a → ingenuous。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
-  **i 字母在写**：ia- 到 im- 都已收完；**in- 段在写**（462/1253，37%）。
+  **i 字母在写**：ia- 到 im- 都已收完；**in- 段在写**（570/1253，45%）。
     开段准备已做：剔除 16 条（indaba / induna / inyanga 南非，incharge 印度，
     inchoative / interlanguage / interlingual / infix / inscape / intertextuality / individuate /
     insolation / intraoperative / indium / interlinear 窄专业，intra 前缀残片）；
@@ -22,25 +22,24 @@ B 词表 12109 条、义项 43890 条，词典序 a → infantry。A 表 3002 �
     incessant → including 23 条（inch 9 义；incidentally 登 derived-keep 单立）、
     inclusion → incongruous 20 条（income 并 income tax / income support）、
     inconsequential → incredulous 22 条（increase 并 increased；incorporated 单立）。
-    本轮三批：individual → indulgent 23 条（induction 并 induction course / loop；inflections 补
-    indices→index —— 上一批写进 index 却没认上，前四字母 indi/inde 对不上）、industrial → inertial
-    23 条（industrial 10 义，并 industrial action / relations / tribunal / park / estate 等）、
-    inescapable → infantry 24 条（infant 并 infant mortality / infant school）。
-    **本轮新教训**：单义形容词扎堆的批次（ineffective、inept、inequitable 那一串），每义只有一条等式时
-    check-wordlist 的「讲解行/义项 ≥1.50」会跌破 —— 这不是尺子错，是真没讲。每义都要配一行说
-    语域、跟近义词的分界、只作定语之类（inefficient 对 ineffective、inexpert 对 inexperienced）。
-    讲解行里顺口点名的清单词（industrial estate）要给等式，不然被 audit-swallowed 报「被吞掉」。
-  **下一批从 infarction 起**：infarction、infatuated / infatuation、infect 一族（infected / infection /
-    infectious / infective）、infer / inference、inferior / inferiority、infernal、inferno、infertile 一族、
-    infest 一族、infidel、infidelity、infield、infighting、infill、infiltrate 一族、infinite 一族、
-    infinitesimal、infinitive、infinity（并 infinity pool）、infirm 一族、inflame 一族……
+    本轮三批：infarction → infinity 22 条（infinity 并 infinity pool）、infirm → infomercial 23 条
+    （influence 7 义，并 influence peddling；inflammable 讲清「不是不可燃」）、inform → ingenuous 24 条
+    （information 并 information technology / science / security / theory；ingenious / ingenuous 互为辨析）。
+    本轮被拦的：讲解里写了 ∞ 符号（check-wordlist 异体字符）；info / infomercial 的核心点了
+    information 的名而它下一批才写（audit-swallowed）—— 截短词、拼缀词的核心块特别容易点名全称，
+    全称没写到之前一律用中文说；infirmity 只露复数（HANDOFF 六之 1b 又一次）。
+    单义形容词的批次照上一轮的做法每义配讲解行，check-wordlist 密度没再跌。
+  **下一批从 ingest 起**：ingest 一族、inglenook、inglorious、ingot、ingrained、ingratiate 一族、
+    ingratitude、ingredient、ingress、ingrowing、inhabit 一族、inhalant / inhale 一族、inharmonious、
+    inhere（并 inhere in）、inherent、inherit 一族（inheritance 并 inheritance tax）、inhibit 一族、
+    inhospitable、inhuman / inhumane 一族、inimical、inimitable、iniquity 一族、initial 一族……
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
     coverage 认）。写到那个 in- 词时顺手并，不要漏：写每批前先 grep 一下清单里以该词打头的多词条目。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12109
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12178
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 目前在 51e34015**；之后本地领先的提交都没推，push 照旧等用户开口。
 
