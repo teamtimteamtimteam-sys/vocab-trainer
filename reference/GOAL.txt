@@ -9,10 +9,10 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-29，第四十四轮）═══
-B 词表 12039 条、义项 43704 条，词典序 a → indistinguishable。A 表 3002 条。
+═══ 现状（2026-09-29，第四十五轮）═══
+B 词表 12109 条、义项 43890 条，词典序 a → infantry。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
-  **i 字母在写**：ia- 到 im- 都已收完；**in- 段在写**（335/1253，26%）。
+  **i 字母在写**：ia- 到 im- 都已收完；**in- 段在写**（462/1253，37%）。
     开段准备已做：剔除 16 条（indaba / induna / inyanga 南非，incharge 印度，
     inchoative / interlanguage / interlingual / infix / inscape / intertextuality / individuate /
     insolation / intraoperative / indium / interlinear 窄专业，intra 前缀残片）；
@@ -22,25 +22,25 @@ B 词表 12039 条、义项 43704 条，词典序 a → indistinguishable。A �
     incessant → including 23 条（inch 9 义；incidentally 登 derived-keep 单立）、
     inclusion → incongruous 20 条（income 并 income tax / income support）、
     inconsequential → incredulous 22 条（increase 并 increased；incorporated 单立）。
-    本轮三批：increment → indefinite 22 条（indecent 并 indecent assault / exposure；indefinite 并
-    indefinitely 与 indefinite pronoun）、indelible → indie 19 条（independent 8 义；index 并 index card /
-    finger / -linked；Indian 并 Indian summer 等六个复合词与 India rubber）、
-    indifference → indistinguishable 21 条（indirect 并 indirect speech / object / question / tax）。
-    本轮被拦的：audit-ab 报缺 be independent of；scan-dupes 通道 5 报 index 与 indicator 场景撞车；
-    语法术语义项别写成「In "…", X is the Y」—— 那是在谈句子不是在用词，改成真实场景（reporters put
-    words into indirect speech）。单义正式词例句照旧容易偏薄，预检 audit-examples 仍要跑。
-  **下一批从 individual 起**：individual 一族（individualism / individualist / individualistic /
-    individuality / individualize / individually…）、indivisible 一族、indoctrinate、indolent、
-    indomitable、Indonesian、indoor / indoors、indrawn、indubitable、induce / inducement、induct 一族、
-    inductance、induction（并 induction course / induction loop）、indulge 一族、industrial（并 industrial
-    action / archaeology / arts / park / relations / tribunal、industrial-strength）……
+    本轮三批：individual → indulgent 23 条（induction 并 induction course / loop；inflections 补
+    indices→index —— 上一批写进 index 却没认上，前四字母 indi/inde 对不上）、industrial → inertial
+    23 条（industrial 10 义，并 industrial action / relations / tribunal / park / estate 等）、
+    inescapable → infantry 24 条（infant 并 infant mortality / infant school）。
+    **本轮新教训**：单义形容词扎堆的批次（ineffective、inept、inequitable 那一串），每义只有一条等式时
+    check-wordlist 的「讲解行/义项 ≥1.50」会跌破 —— 这不是尺子错，是真没讲。每义都要配一行说
+    语域、跟近义词的分界、只作定语之类（inefficient 对 ineffective、inexpert 对 inexperienced）。
+    讲解行里顺口点名的清单词（industrial estate）要给等式，不然被 audit-swallowed 报「被吞掉」。
+  **下一批从 infarction 起**：infarction、infatuated / infatuation、infect 一族（infected / infection /
+    infectious / infective）、infer / inference、inferior / inferiority、infernal、inferno、infertile 一族、
+    infest 一族、infidel、infidelity、infield、infighting、infill、infiltrate 一族、infinite 一族、
+    infinitesimal、infinitive、infinity（并 infinity pool）、infirm 一族、inflame 一族……
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
     coverage 认）。写到那个 in- 词时顺手并，不要漏：写每批前先 grep 一下清单里以该词打头的多词条目。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12039
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12109
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 目前在 51e34015**；之后本地领先的提交都没推，push 照旧等用户开口。
 
