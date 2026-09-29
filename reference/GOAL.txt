@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-29，第五十五轮）═══
-B 词表 12745 条、义项 45731 条，词典序 a → jeggings。A 表 3002 条。
+═══ 现状（2026-09-29，第五十六轮）═══
+B 词表 12810 条、义项 45898 条，词典序 a → jive。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -23,23 +23,26 @@ B 词表 12745 条、义项 45731 条，词典序 a → jeggings。A 表 3002 �
     incessant → including 23 条（inch 9 义；incidentally 登 derived-keep 单立）、
     inclusion → incongruous 20 条（income 并 income tax / income support）、
     inconsequential → incredulous 22 条（increase 并 increased；incorporated 单立）。
-  **j 字母开了**：ja- 收完（94/94），je- 在写。
+  **j 字母在写**：ja- / je- / ji- 收完；jh- 两条都剔了；下一步 jo-、ju-。
     开段准备已做：J 段大写词头判完（收 31 条进 proper-nouns-keep）；exclude 补印度、南非东非、澳新、苏格兰变体
     与窄专业、专名残片共 28 条；inflections 补 jehad→jihad、jerrymander(ing)→gerrymander(ing)；
     audit-idioms 补 j 段十五个大词。
-    本轮三批：jab → jaded 23 条（jack 14 义）、jag → jarhead 27 条（jam 9 义）、Jain → jeggings 23 条（jaw、jazz、jealous）。
-    **冒犯语第二义又差点写成元评论**（Jap、jailbait）：头一稿写「有人用这个词」，改成角色口中的真话。
-  **下一批从 jeer 之后的 Jehovah 起**：Jehovah（并 Jehovah's Witness）、jejune、jejunum（并 jejunal）、jell、jelly 一族
-    （并 jellied、jelly baby / bean / roll、jello、jellyfish）、jemmy、jenny、jeopardize、jeopardy、jerboa、jeremiad、
-    jerk 一族（并 jerk around / off / out）、jerkin、jeroboam、jerry-built、jerrycan、jersey、jessie、jest、jester、
-    Jesuit、Jesus、jet 一族（并 jet black / engine / lag / stream…、jet-setter）、jetsam、jettison、jetty、Jew 一族、jewel 一族……
+    本轮三批：Jehovah → jerky 16 条（jelly 8 义、jerk 7 义）、jeroboam → Jezebel 25 条（jet 10 义，并 jet lag /
+    stream / propulsion、jet-setter…）、jib → jive 24 条（jihad 并 jehad；jiu-jitsu 并 ju-jitsu）。
+    **本轮被拦的**：Jehovah 那批讲解行密度低于基线（又补了四十多条）；jerboa、Jew's harp 两义等式重复（冷僻单义词
+    凑出的第二义，改成真搭配）；jihad ③、jism ② 头一稿又是「这个词怎么拼 / 墙上写着这个词」的元评论；
+    jemmy / jimmy、jangle / jingle 跨词条撞场景（scan-dupes 通道 5 报）。gerrymander 条补了 jerrymander。
+  **下一批从 job 起**：job（大词，并 job action / creation / description / lot / satisfaction / seeker / share、
+    jobseeker's allowance）、jobber、jobbing、jobcentre、jobless 一族、jobsworth、jock（并 jock itch）、jockey、jockstrap、
+    jocose、jocular 一族、jocund、jodhpurs、joe、joey、jog 一族（并 jog along / on、jogging suit）、john、joie de vivre、
+    join（并 join in / up）、joined-up、joiner 一族、joint（并 joint degree / family / resolution / venture / -stock company）……
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
     coverage 认）。写到那个 in- 词时顺手并，不要漏：写每批前先 grep 一下清单里以该词打头的多词条目。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12500 / 12501-12745
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12500 / 12501-12810
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 目前在 51e34015**；之后本地领先的提交都没推，push 照旧等用户开口。
 
