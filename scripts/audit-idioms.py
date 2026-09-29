@@ -886,6 +886,7 @@ CHECK = {
  'inch': ['every inch', 'inch by inch', 'give somebody an inch', 'within an inch of', 'not budge an inch'],
  'income': ['on a low income', 'live within your income'],
  'increase': ['on the increase'],
+ 'influence': ['under the influence', 'a bad influence', 'have influence over', 'influence peddling'],
  'image': ['the spitting image of', 'in the image of', 'be the image of', 'public image'],
  'imagination': ['use your imagination', 'capture the imagination', 'by no stretch of the imagination',
                  'a figment of', 'leave nothing to the imagination'],
