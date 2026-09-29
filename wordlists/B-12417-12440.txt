@@ -1,3 +1,43 @@
+interference
+核心：干涉、干预；（无线电）干扰。两支：插手别人的事（interference in）；
+收音机、电视里的杂音（radio interference）。体育上指犯规阻挡。
+① The government has been accused of interference in the courts.
+= 政府被指控干预法院。
+interference in something = 对…的干预
+② Mobile phones can cause interference with the plane's instruments.
+= 手机可能会对飞机仪表造成干扰。
+interference with something = 对…的干扰
+③ There was so much interference that we could hardly hear the radio.
+= 杂音太大，我们几乎听不清收音机。
+interference = （信号）干扰、杂音
+
+interferon
+核心：（医学）干扰素 —— 人体产生的一种蛋白质，能抑制病毒繁殖，也用作药物。
+① Interferon is sometimes used to treat certain types of cancer.
+= 干扰素有时被用来治疗某些癌症。
+interferon = 干扰素
+② The body produces interferon when it is attacked by a virus.
+= 身体受到病毒攻击时会产生干扰素。
+produce interferon = 产生干扰素
+
+intergalactic
+核心：星系间的 —— 在不同星系之间的，多见于科幻与天文。
+① The film is about an intergalactic war between two ancient empires.
+= 那部电影讲的是两个古老帝国之间的星际战争。
+an intergalactic war = 星系间的战争
+② Astronomers study the gas that fills intergalactic space.
+= 天文学家研究充满星系际空间的气体。
+intergalactic space = 星系际空间
+
+intergenerational
+核心：代际的、几代人之间的 —— 说不同年龄层之间的关系、公平、传承。
+① The project brings old and young people together for intergenerational activities.
+= 那个项目把老人和年轻人聚在一起，开展代际活动。
+intergenerational activities = 代际活动
+② Economists worry about intergenerational fairness when young people cannot afford homes.
+= 年轻人买不起房时，经济学家担心代际公平的问题。
+intergenerational fairness = 代际公平
+
 intergovernmental
 核心：政府间的 —— 两个或多个国家政府之间的。
 ① The report was produced by an intergovernmental panel of scientists.
@@ -220,81 +260,3 @@ during the intermission = 中场休息时
 ② The rain fell without intermission for three days, and the river burst its banks.
 = 雨接连下了三天没停过，河水漫过了堤岸。
 without intermission = 不间断地
-
-intermittent
-核心：断断续续的、间歇的 —— 时有时无、不连续。副词 intermittently 并入本条。
-① The forecast for the weekend is for sunshine and intermittent showers in the west.
-= 周末的天气预报说，西部地区晴，间有阵雨。
-intermittent showers = 间歇性阵雨
-② Up in the mountains the phone signal is intermittent, so hikers should carry a map.
-= 在山里手机信号时有时无，所以徒步者应该带张地图。
-be intermittent = 时有时无
-③ She worked intermittently as a waitress while she was a student.
-= 上学期间，她断断续续地当过服务员。
-intermittently = 断断续续地
-
-intermix
-核心：（使）混合 —— 同 intermingle，多说不同成分混在一起。
-① The two languages intermix in the everyday speech of the border towns.
-= 边境小镇的日常口语里，两种语言混杂在一起。
-intermix = 混杂
-② Intermix the dry ingredients before adding the eggs.
-= 加鸡蛋之前，先把干料混合均匀。
-intermix ingredients = 混合原料
-
-intern
-核心：两个来路不同的意思。名词（重音在前）：（美）实习医生；实习生（an intern at a law firm）；
-动词（重音在后）：（战时）拘留、扣押（敌国侨民、战俘）。
-被拘留者 internee、拘留 internment 与实习期 internship 并入本条。
-① She spent the summer as an intern at a newspaper in New York.
-= 她那个夏天在纽约一家报社当实习生。
-an intern = 实习生
-② During the war, thousands of foreign nationals were interned in camps.
-= 战争期间，成千上万的外国侨民被关进了拘留营。
-be interned = 被拘留
-③ The internees were held on an island for the rest of the war.
-= 被拘留者在一座岛上一直被关到战争结束。
-an internee = 被拘留者
-④ The internment of civilians without trial is now against international law.
-= 未经审判拘留平民如今违反国际法。
-internment = 拘留
-⑤ He did a six-month internship with a software company after graduating.
-= 毕业后，他在一家软件公司实习了半年。
-an internship = 实习期
-
-internal
-核心：内部的；体内的；国内的。几支：在一个东西、组织里面的（internal walls、an internal inquiry）；
-身体内部的（internal injuries）；国家内部的（internal affairs）；心里的（internal conflict）。
-副词 internally、动词 internalize（使内化，英式也拼 -ise）与名词 internalization 并入本条。
-internal market（内部市场）、internal medicine（内科学）、internal rhyme（行内韵）、
-internal-combustion engine（内燃机）也并在这里。
-① The police have launched an internal inquiry into the missing money.
-= 警方已就失踪的钱展开内部调查。
-an internal inquiry = 内部调查
-② The driver suffered internal injuries and was rushed to hospital.
-= 司机受了内伤，被紧急送往医院。
-internal injuries = 内伤
-③ The government warned other countries not to interfere in its internal affairs.
-= 政府警告别国不要干涉其内政。
-internal affairs = 内政
-④ The medicine is for external use only and must not be taken internally.
-= 此药仅限外用，切勿内服。
-internally = 内部地；内服地
-⑤ Children internalize their parents' values long before they can explain them.
-= 孩子们早在能说出道理之前，就已经把父母的价值观内化了。
-internalize something = 使…内化
-⑥ The internalization of rules is a key part of growing up.
-= 把规则内化是成长的关键部分。
-the internalization of something = …的内化
-⑦ The European Union created an internal market with no barriers to trade.
-= 欧盟建立了一个没有贸易壁垒的内部市场。
-an internal market = 内部市场
-⑧ She trained as a doctor of internal medicine.
-= 她受训成为一名内科医生。
-internal medicine = 内科学
-⑨ Children's songs often use internal rhyme to make each line easy to remember.
-= 儿歌常用行内韵，让每一行都好记。
-internal rhyme = 行内韵
-⑩ The internal-combustion engine changed the way people travelled.
-= 内燃机改变了人们的出行方式。
-an internal-combustion engine = 内燃机

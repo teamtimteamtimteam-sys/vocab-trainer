@@ -1,3 +1,60 @@
+integration
+核心：结合、整合；融入、融合；（种族）一体化、取消隔离。
+① The integration of the two companies took more than a year.
+= 两家公司的整合用了一年多时间。
+the integration of something = …的整合
+② The government wants to encourage the integration of refugees into society.
+= 政府希望促进难民融入社会。
+integration into society = 融入社会
+③ The civil rights movement fought for racial integration in schools.
+= 民权运动为学校中的种族融合而斗争。
+racial integration = 种族融合
+
+integrity
+核心：正直、诚实；完整、完好。两支：人的品格坚持原则、不受收买（a man of integrity）；
+事物保持完整、不被破坏（territorial integrity）。
+① She is a woman of great integrity who would never take a bribe.
+= 她是一个非常正直的人，绝不会收受贿赂。
+a person of integrity = 正直的人
+② The scandal damaged the integrity of the whole election.
+= 那起丑闻损害了整个选举的公正性。
+the integrity of something = …的公正、完整
+③ Engineers checked the structural integrity of the bridge after the earthquake.
+= 地震之后，工程师检查了桥梁结构是否完好。
+structural integrity = 结构完整性
+
+intellect
+核心：智力、理解力；才智出众的人。不可数时指思考、理解的能力；可数时指聪明人。
+① Even her critics admitted that the old judge was a woman of formidable intellect.
+= 连批评她的人都承认，那位老法官是个才智过人的女性。
+formidable intellect = 过人的才智
+② Einstein is often described as one of the great intellects of the twentieth century.
+= 爱因斯坦常被称为二十世纪最杰出的才智之士之一。
+an intellect = 才智出众的人
+
+intellectual
+核心：智力的、理智的；知识分子。形容词：跟思考、知识有关的（intellectual development）；
+（人）有学问、爱思考的。名词：知识分子。副词 intellectually、名词 intellectualism（唯理智论；重理智）
+与动词 intellectualize（从理智上分析）并入本条。intellectual property（知识产权）也并在这里。
+① Reading to children helps their intellectual development.
+= 给孩子读书有助于他们的智力发展。
+intellectual development = 智力发展
+② He is a leading intellectual and writes regularly for the newspapers.
+= 他是一位知名知识分子，经常给报纸写文章。
+an intellectual = 知识分子
+③ The film is intellectually challenging but not much fun.
+= 那部电影在智力上很有挑战，但不太好看。
+intellectually = 在智力上
+④ Several critics attacked the novel's cold intellectualism and lack of real feeling.
+= 几位评论家抨击那部小说冷冰冰的唯理智倾向，缺乏真情实感。
+intellectualism = 唯理智论、重理智
+⑤ He tends to intellectualize his feelings rather than express them.
+= 他倾向于从理智上分析自己的感情，而不是表达出来。
+intellectualize something = 从理智上分析…
+⑥ The company took legal action to protect its intellectual property.
+= 那家公司采取法律行动保护自己的知识产权。
+intellectual property = 知识产权
+
 intelligence
 核心：智力、智慧；情报；情报机构。两支：理解、学习、思考的能力（human intelligence、artificial intelligence）；
 （尤指军事、政治上的）秘密信息，以及搜集这些信息的机构（military intelligence）。
@@ -285,64 +342,3 @@ interbreed = 杂交
 ② Farmers interbred the local sheep with a hardier breed from the mountains.
 = 农民们让本地羊与一种来自山区、更耐寒的品种杂交。
 interbreed A with B = 让A与B杂交
-
-intercede
-核心：（正式）说情、调停 —— 为别人向有权者求情（intercede with somebody for/on behalf of somebody），
-或在争执双方之间调解。名词 intercession（说情、调停；宗教上的代祷）并入本条。
-① The bishop interceded with the king on behalf of the prisoners.
-= 主教代表囚犯们向国王求情。
-intercede with somebody on behalf of somebody = 代某人向某人求情
-② The UN was asked to intercede in the border dispute between the two countries.
-= 联合国被请求调停两国之间的边界争端。
-intercede in a dispute = 调停争端
-③ Thanks to the intercession of a local priest, the boy was released from prison.
-= 多亏当地一位神父说情，那男孩被放出了监狱。
-the intercession of somebody = 某人的说情
-④ The congregation offered prayers of intercession for the sick.
-= 会众为病人作代祷。
-prayers of intercession = 代祷
-
-intercept
-核心：拦截、截获 —— 在人、东西、信息到达目的地之前把它截住。
-名词 interception（拦截；截获）与拦截者、拦截机 interceptor 并入本条。
-① Police intercepted the lorry at the border and found drugs hidden in the cargo.
-= 警方在边境拦下那辆卡车，在货物里发现了藏着的毒品。
-intercept a vehicle = 拦截车辆
-② The defender intercepted the pass and ran the length of the pitch to score.
-= 那名后卫截住传球，带球跑了全场破门得分。
-intercept a pass = 截断传球
-③ Security services are accused of the illegal interception of private emails.
-= 安全部门被指控非法截取私人邮件。
-the interception of something = 对…的截取
-④ Two fighter interceptors were sent up to follow the unknown plane.
-= 两架截击机起飞，跟踪那架不明飞机。
-an interceptor = 截击机、拦截者
-
-interchange
-核心：交换、交流；（高速公路的）立交道口。名词重音在前：想法、信息的互换（an interchange of ideas）；
-公路上的立体交叉枢纽。动词重音在后：互换、交替。
-形容词 interchangeable（可互换的）、副词 interchangeably 与名词 interchangeability 并入本条。
-① The conference allowed a useful interchange of ideas between scientists and farmers.
-= 那次会议让科学家和农民进行了有益的思想交流。
-an interchange of ideas = 思想交流
-② There was a long traffic jam at the motorway interchange.
-= 高速公路立交道口堵了很长的车。
-a motorway interchange = 高速公路立交道口
-③ The parts are interchangeable, so you can use either battery in the camera.
-= 这些部件可以互换，所以两块电池哪块都能用在相机上。
-be interchangeable = 可互换
-④ In everyday speech many people use the two words interchangeably.
-= 日常说话时，很多人把这两个说法混着用。
-use something interchangeably = 交替使用
-⑤ The interchangeability of the parts made repairs much cheaper.
-= 零件可互换，让修理便宜了很多。
-the interchangeability of something = …的可互换性
-
-intercity
-核心：城际的 —— 城市之间的（交通），多作定语：intercity trains、intercity buses。
-① The intercity train from London to Edinburgh takes about four and a half hours.
-= 从伦敦到爱丁堡的城际列车大约要四个半小时。
-an intercity train = 城际列车
-② Cheap intercity buses have taken many passengers away from the railways.
-= 廉价的城际大巴从铁路那里抢走了许多乘客。
-intercity buses = 城际大巴
