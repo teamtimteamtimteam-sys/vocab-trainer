@@ -900,6 +900,7 @@ CHECK = {
  'interest': ['in the interest of', 'take an interest in', 'of interest', 'conflict of interest', 'with interest'],
  'interview': ['a job interview', 'give an interview', 'interview for'],
  'interval': ['at intervals', 'at regular intervals'],
+ 'into': ['be into', 'well into', 'crash into', 'look into'],
  'image': ['the spitting image of', 'in the image of', 'be the image of', 'public image'],
  'imagination': ['use your imagination', 'capture the imagination', 'by no stretch of the imagination',
                  'a figment of', 'leave nothing to the imagination'],
