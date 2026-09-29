@@ -1,16 +1,3 @@
-inhibit
-核心：抑制、阻碍；使拘束。两支：阻止一个过程发生或变慢（inhibit growth）；
-让人不敢做、放不开（inhibit somebody from doing）。抑制剂 inhibitor 并入本条；inhibited、inhibition 另立。
-① Economists warned that high interest rates would inhibit economic growth for years.
-= 经济学家警告说，高利率会在多年内抑制经济增长。
-inhibit growth = 抑制增长
-② Fear of making mistakes can inhibit students from speaking in class.
-= 害怕出错会让学生不敢在课堂上开口。
-inhibit somebody from doing something = 使某人不敢做…
-③ The drug is an enzyme inhibitor that slows the spread of the virus.
-= 这种药是一种酶抑制剂，能减缓病毒扩散。
-an inhibitor = 抑制剂
-
 inhibited
 核心：拘谨的、放不开的 —— 因害羞或紧张而不敢自然地表达感情、行动。反义 uninhibited。
 ① He felt inhibited about dancing in front of his colleagues.
@@ -318,3 +305,30 @@ a terrible injustice = 极大的不公
 ③ You do her an injustice if you think she only cares about money.
 = 你要是认为她只在乎钱，那就冤枉她了。
 do somebody an injustice = 冤枉某人
+
+ink
+核心：墨水、油墨 —— 书写、印刷用的有色液体；也指章鱼、乌贼喷出的墨汁。不可数。
+动词 ink：（正式）签署（合同）、给…上墨；ink in 是用墨水描（先用铅笔画好的线）。
+ink pad（印台）、inkjet printer（喷墨打印机）、inkblot test（墨迹测验）并入本条。
+① Please fill in the form in black ink and use capital letters.
+= 请用黑色墨水填表，并用大写字母。
+in ink = 用墨水
+② The octopus squirted a cloud of ink and escaped into the rocks.
+= 章鱼喷出一团墨汁，逃进了岩石缝里。
+squirt ink = 喷墨汁
+③ The two companies inked a deal worth ten million dollars last week.
+= 上周两家公司签下了一笔价值一千万美元的交易。
+ink a deal = 签下交易
+新闻用语，多美式。
+④ Draw the outline in pencil first, then ink it in when you are happy with it.
+= 先用铅笔画出轮廓，满意之后再用墨水描上。
+ink something in = 用墨水描…
+⑤ The clerk pressed the rubber stamp onto the ink pad and then onto the form.
+= 职员把橡皮章在印台上按一下，再盖到表格上。
+an ink pad = 印台
+⑥ An inkjet printer is cheap to buy but expensive to run.
+= 喷墨打印机买起来便宜，用起来贵。
+an inkjet printer = 喷墨打印机
+⑦ In an inkblot test, patients describe what they see in random shapes of ink.
+= 在墨迹测验中，病人描述自己从随机墨迹图形里看到了什么。
+an inkblot test = 墨迹测验
