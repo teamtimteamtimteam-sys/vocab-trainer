@@ -176,3 +176,6 @@ isn't        be             # is not 的缩约；在 be 条里讲
 it'd         it             # it would / it had 的缩约；在 it 条配例句
 it'll        it             # it will 的缩约；在 it 条配例句
 it's         it             # it is / it has 的缩约；在 it 条配例句（注意别混 its）
+jehad        jihad          # 拼法变体，前四字母对不上；在 jihad 条配例句
+jerrymander  gerrymander    # 拼法变体（多为英式旧写）；在 gerrymander 条配例句
+jerrymandering gerrymandering # 同上的名词

@@ -611,3 +611,31 @@ isoprene     # 化学术语「异戊二烯」，窄专业
 iwi          # 新西兰毛利语借词：部落 —— 按地区变体通则剔除
 izzat        # 印度英语：名誉、尊严 —— 按地区变体通则剔除
 it's a-wonderful-life  # 电影片名 It's a Wonderful Life 的清洗残片，纯专名
+ja           # 南非英语：是、对 —— 按地区变体通则剔除
+jackaroo     # 澳新英语：牧场见习生 —— 按地区变体通则剔除
+jillaroo     # 澳新英语：牧场女见习生 —— 同上
+jaffle       # 澳新英语：烤三明治 —— 同上
+jaggery      # 印度食物名（粗糖），一律不收
+jalebi       # 印度食物名，一律不收
+jilebi       # 同上的另一种拼法
+jali         # 印度英语：镂空石雕窗格 —— 按地区变体通则剔除
+jatha        # 印度英语：（锡克教徒的）队伍 —— 同上
+jawan        # 印度英语：士兵 —— 同上
+jeera        # 印度英语：孜然 —— 同上（通用英语说 cumin）
+jhil         # 印度英语：湖、沼泽 —— 同上
+jhuggi       # 印度英语：贫民窟棚屋 —— 同上
+jugaad       # 印度英语：因陋就简的变通办法 —— 同上
+jungli       # 印度英语：粗野的 —— 同上
+jembe        # 东非英语：锄头 —— 按地区变体通则剔除
+jiko         # 东非英语：炭炉 —— 同上
+juakali      # 东非英语：露天手工业 —— 同上
+jibba        # 苏丹、东非的长袍名称，地区变体借词
+jol          # 南非英语：聚会、玩乐 —— 按地区变体通则剔除
+jobbie       # 苏格兰英语：粪便（口语）—— 按地区变体通则剔除
+jussive      # 语法术语「命令语气」，只在语言学内部使用，同 inchoative
+jd           # 学位缩写 JD（法学博士）的清洗残片，全大写缩写
+johnson-johnson  # 公司名 Johnson & Johnson 的清洗残片，纯专名
+john-brown's body  # 歌名专名残片
+john-o-groats  # 地名 John o' Groats 的清洗残片
+jelly-roll-morton  # 人名 Jelly Roll Morton 的清洗残片
+juan-ponce-de-leon  # 人名 Juan Ponce de León 的清洗残片
