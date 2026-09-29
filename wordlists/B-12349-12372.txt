@@ -1,3 +1,21 @@
+insulator
+核心：绝缘体、隔热材料 —— 不导电或不传热的物质；也指电线杆上的绝缘子。
+① Rubber is a good insulator, which is why it is used on electrical cables.
+= 橡胶是很好的绝缘体，所以被用在电缆上。
+a good insulator = 良好的绝缘体
+② Workers replaced the cracked insulators on the power lines.
+= 工人们更换了输电线上开裂的绝缘子。
+an insulator = 绝缘子
+
+insulin
+核心：胰岛素 —— 调节血糖的激素；糖尿病人需要注射它。
+① People with diabetes may need to inject insulin every day.
+= 糖尿病患者可能每天都需要注射胰岛素。
+inject insulin = 注射胰岛素
+② The body produces insulin to control the level of sugar in the blood.
+= 身体分泌胰岛素来控制血糖水平。
+produce insulin = 分泌胰岛素
+
 insult
 核心：侮辱、辱骂 —— 动词重音在后，名词重音在前。
 动词：说或做冒犯人的事；名词：一句冒犯的话、一个冒犯的举动（shout insults、an insult to）。
@@ -276,55 +294,3 @@ intellectualize something = 从理智上分析…
 ⑥ The company took legal action to protect its intellectual property.
 = 那家公司采取法律行动保护自己的知识产权。
 intellectual property = 知识产权
-
-intelligence
-核心：智力、智慧；情报；情报机构。两支：理解、学习、思考的能力（human intelligence、artificial intelligence）；
-（尤指军事、政治上的）秘密信息，以及搜集这些信息的机构（military intelligence）。
-intelligence quotient（智商，缩写「IQ」）与 intelligence test（智力测验）并入本条。
-① Children of average intelligence can easily learn to play chess.
-= 智力一般的孩子也能轻松学会下国际象棋。
-average intelligence = 一般的智力
-② Some people worry that artificial intelligence will replace millions of jobs.
-= 有些人担心人工智能会取代数以百万计的工作岗位。
-artificial intelligence = 人工智能
-③ Intelligence reports suggested that an attack on the capital was likely.
-= 情报报告显示，首都很可能遭到袭击。
-intelligence reports = 情报报告
-④ He spent thirty years working for military intelligence and never talked about it.
-= 他在军事情报部门工作了三十年，从来不谈这件事。
-military intelligence = 军事情报部门
-⑤ An intelligence quotient of around one hundred is considered average.
-= 智商在一百左右被认为是一般水平。
-intelligence quotient = 智商
-⑥ All applicants had to take an intelligence test before the interview.
-= 所有申请人面试前都得做一次智力测验。
-an intelligence test = 智力测验
-
-intelligent
-核心：聪明的、有才智的；（机器）智能的。说人理解快、会思考；也说机器、系统能自行判断。
-副词 intelligently 并入本条。跟 clever 的分别：intelligent 偏思维能力；clever 更口语，也可指机灵、耍小聪明。
-① She is a highly intelligent student who reads everything she can find.
-= 她是个非常聪明的学生，能找到的书全都读。
-highly intelligent = 非常聪明的
-② Dolphins are among the most intelligent animals in the sea.
-= 海豚是海洋中最聪明的动物之一。
-intelligent animals = 聪明的动物
-③ The new intelligent heating system learns when you are usually at home.
-= 新的智能供暖系统会记住你通常什么时候在家。
-an intelligent system = 智能系统
-④ He spoke intelligently about the problem and offered practical solutions.
-= 他对这个问题谈得很有见地，还提出了切实可行的办法。
-intelligently = 聪明地、有见地地
-⑤ Supporters of intelligent design argue that living things are too complex to have evolved by chance.
-= 「智能设计论」的支持者认为，生物复杂得不可能是偶然进化来的。
-intelligent design = 智能设计论
-一种主张生命由某种智能设计者创造的观点，科学界普遍不接受。
-
-intelligentsia
-核心：知识界、知识阶层 —— 一个社会里的知识分子群体（作家、学者、艺术家），集合名词，前加 the。
-① The country's intelligentsia met in the cafés of the capital to discuss politics.
-= 那个国家的知识界在首都的咖啡馆里聚会，讨论政治。
-the intelligentsia = 知识界
-② The new government arrested many members of the intelligentsia.
-= 新政府逮捕了许多知识界人士。
-members of the intelligentsia = 知识界人士
