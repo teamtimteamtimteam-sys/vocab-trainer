@@ -889,6 +889,8 @@ CHECK = {
  'influence': ['under the influence', 'a bad influence', 'have influence over', 'influence peddling'],
  'information': ['for your information', 'a piece of information'],
  'inform': ['inform on'],
+ 'inside': ['inside out', 'on the inside', 'inside of', 'the inside track', 'know something inside out'],
+ 'insight': ['an insight into'],
  'image': ['the spitting image of', 'in the image of', 'be the image of', 'public image'],
  'imagination': ['use your imagination', 'capture the imagination', 'by no stretch of the imagination',
                  'a figment of', 'leave nothing to the imagination'],

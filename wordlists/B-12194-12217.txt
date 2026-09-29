@@ -1,3 +1,61 @@
+inhere
+核心：（正式）存在于、内在于 —— 几乎只用 inhere in something，说某种品质天生就在某物里面。
+形容词 inherent 是它最常见的相关词。
+① Certain rights inhere in every citizen, whatever the government says.
+= 某些权利是每个公民与生俱来的，不管政府怎么说。
+inhere in something = 内在于…
+哲学、法律文字用语，日常几乎不用。
+② The risk inheres in the very nature of the job.
+= 风险就内在于这份工作的性质之中。
+inhere in the nature of something = 存在于…的本质中
+
+inherent
+核心：内在的、固有的 —— 本来就存在于某物里面、去不掉的。常接 in。副词 inherently 并入本条。
+① There are risks inherent in any kind of investment.
+= 任何投资都有其固有的风险。
+be inherent in something = 是…所固有的
+② The plan has an inherent weakness: it depends on good weather.
+= 这个计划有一个内在的弱点：它依赖好天气。
+an inherent weakness = 内在的弱点
+③ He argued that nuclear power is inherently dangerous.
+= 他认为核能本质上就是危险的。
+inherently = 本质上、天生地
+常修饰 dangerous、difficult、unstable 这类词。
+
+inherit
+核心：继承（财产）；遗传（特征）；接手（问题、局面）。本义是在别人死后得到其财产；
+引申为从父母身上得到外貌、性格；再引申为从前任手里接过（多半是麻烦）。
+形容词 inheritable（可继承的、可遗传的）与继承人 inheritor 并入本条。
+① When she was twenty, she inherited a large house by the sea from her grandmother.
+= 二十岁时，她从祖母那里继承了一座海边的大房子。
+inherit something from somebody = 从某人那里继承…
+② He inherited his father's red hair and his mother's temper.
+= 他遗传了父亲的红头发和母亲的脾气。
+inherit something = 遗传…
+③ The new government inherited huge debts from the previous one.
+= 新政府从上一届政府那里接手了巨额债务。
+inherit a problem = 接手问题
+比喻：从前任手里接过来，多是烂摊子。
+④ Some forms of heart disease are inheritable.
+= 某些心脏病是可遗传的。
+inheritable = 可遗传的
+⑤ The young artist was seen as the true inheritor of the old master's style.
+= 那位年轻画家被视为老大师画风的真正传人。
+the inheritor of something = …的继承者
+
+inheritance
+核心：继承的财产、遗产；遗传；继承。可数时指一笔遗产；不可数时指继承、遗传这回事。
+inheritance tax（遗产税）并入本条。
+① She used her inheritance to buy a small farm in Wales.
+= 她用继承来的遗产在威尔士买了个小农场。
+somebody's inheritance = 某人的遗产
+② Eye colour is determined by genetic inheritance.
+= 眼睛的颜色由基因遗传决定。
+genetic inheritance = 基因遗传
+③ The family had to sell the house to pay the inheritance tax.
+= 那家人不得不卖房来交遗产税。
+inheritance tax = 遗产税
+
 inhibit
 核心：抑制、阻碍；使拘束。两支：阻止一个过程发生或变慢（inhibit growth）；
 让人不敢做、放不开（inhibit somebody from doing）。抑制剂 inhibitor 并入本条；inhibited、inhibition 另立。
@@ -265,56 +323,3 @@ injure your knee = 伤了膝盖
 ③ The scandal badly injured the company's reputation.
 = 那起丑闻严重损害了公司的声誉。
 injure somebody's reputation = 损害某人的声誉
-
-injured
-核心：受伤的；（感情）受了伤害的。也作名词：the injured（伤员，谓语用复数）。
-① Ambulances took the injured to three different hospitals.
-= 救护车把伤员送往三家不同的医院。
-the injured = 伤员
-② She gave him an injured look when he forgot her birthday.
-= 他忘了她的生日，她一脸受伤的样子看着他。
-an injured look = 受伤的神情
-第二支：情感上被伤害，多带委屈。
-③ The injured party can ask the court for compensation.
-= 受害方可以向法院要求赔偿。
-the injured party = 受害方
-法律用语。
-
-injurious
-核心：（正式）有害的、伤害性的 —— 常接 to：be injurious to health。
-① Every packet carried a warning that smoking is seriously injurious to health.
-= 每包烟上都印着警示语：吸烟严重危害健康。
-be injurious to health = 有害健康
-比 harmful 正式，多见于警示语、法律文字。
-② The judge ruled that the newspaper article was injurious to his reputation as a doctor.
-= 法官裁定，那篇报纸文章损害了他作为医生的名誉。
-injurious to somebody's reputation = 有损某人名誉的
-
-injury
-核心：伤害、损伤 —— 可数时指身体上一处伤（a head injury）；不可数时指受伤这回事（risk of injury）。
-也比喻对名誉、感情的伤害。injury time（英，足球：伤停补时）并入本条；习语 add insult to injury（雪上加霜）。
-① He suffered serious head injuries in the crash.
-= 他在车祸中头部受了重伤。
-a head injury = 头部受伤
-② Wearing a helmet greatly reduces the risk of injury.
-= 戴头盔能大大降低受伤的风险。
-the risk of injury = 受伤的风险
-③ The winning goal came in the third minute of injury time.
-= 制胜球是在伤停补时第三分钟打进的。
-injury time = （英）伤停补时
-④ First they cancelled the flight, and then, to add insult to injury, they lost my luggage.
-= 他们先是取消了航班，更糟糕的是又把我的行李弄丢了。
-add insult to injury = 雪上加霜
-
-injustice
-核心：不公正、不公平；不公正的事。不可数时指不公这种状况（fight against injustice）；
-可数时指一件具体的不公（a terrible injustice）。do somebody an injustice 是「冤枉某人、对某人评价不公」。
-① He spent his life fighting against poverty and injustice.
-= 他一生都在同贫困与不公作斗争。
-fight injustice = 与不公作斗争
-② The trial was a terrible injustice, and the man spent ten years in prison for nothing.
-= 那场审判是极大的冤案，那人白白坐了十年牢。
-a terrible injustice = 极大的不公
-③ You do her an injustice if you think she only cares about money.
-= 你要是认为她只在乎钱，那就冤枉她了。
-do somebody an injustice = 冤枉某人

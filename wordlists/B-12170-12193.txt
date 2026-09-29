@@ -1,3 +1,47 @@
+infrequent
+核心：不常发生的、稀少的 —— 次数少、间隔长。副词 infrequently 并入本条。
+① Buses to the village are infrequent, so most people drive.
+= 去那个村子的公交车很少，所以大多数人开车。
+be infrequent = 不常有
+② We see each other only infrequently now that she lives abroad.
+= 她住到国外以后，我们难得见上一面。
+infrequently = 难得地
+
+infringe
+核心：侵犯（权利）；违反（法律、规定）。两支：infringe a law/copyright（违反、侵权）；
+infringe on/upon somebody's rights（侵犯权利）。名词 infringement 并入本条。
+① The company was accused of infringing copyright by copying the design.
+= 那家公司因抄袭设计被控侵犯版权。
+infringe copyright = 侵犯版权
+② The new law infringes on the right to free speech.
+= 新法律侵犯了言论自由权。
+infringe on a right = 侵犯权利
+③ Any infringement of the rules will be punished.
+= 任何违反规定的行为都将受到处罚。
+an infringement of something = 对…的违反
+
+infuriate
+核心：激怒、使大怒 —— 比 annoy 强得多。形容词 infuriating（气人的）与副词 infuriatingly 并入本条。
+① His constant lateness for morning meetings infuriated his colleagues and his boss.
+= 他早会总是迟到，把同事和老板都气坏了。
+infuriate somebody = 激怒某人
+② It is infuriating when the last train home is cancelled without any explanation or apology.
+= 回家的末班车取消了，既没解释也没道歉，真是气人。
+infuriating = 气人的
+③ The instructions for assembling the wardrobe were infuriatingly vague about which screws to use.
+= 组装衣柜的说明书对该用哪种螺丝说得含糊不清，让人火大。
+infuriatingly = 气人地
+
+infuse
+核心：注入、使充满；浸泡（茶、草药）。两支：把一种品质注入某物（infuse something with energy）；
+把茶叶、草药泡在热水里出味。医学上另指静脉输注。
+① The new coach infused the team with fresh confidence.
+= 新教练给球队注入了新的信心。
+infuse somebody with something = 给某人注入…
+② Leave the herbs to infuse in hot water for five minutes.
+= 把草药在热水里泡五分钟。
+let something infuse = 让…泡出味
+
 infusion
 核心：注入；浸剂（泡出的茶或药水）；（医学）输液。
 ① The company survived thanks to an infusion of cash from a new investor.
@@ -228,61 +272,3 @@ look inharmonious = 显得不协调
 ② The choir produced an inharmonious sound until the conductor stopped them.
 = 合唱团唱出了刺耳的声音，直到指挥叫停。
 an inharmonious sound = 不和谐的声音
-
-inhere
-核心：（正式）存在于、内在于 —— 几乎只用 inhere in something，说某种品质天生就在某物里面。
-形容词 inherent 是它最常见的相关词。
-① Certain rights inhere in every citizen, whatever the government says.
-= 某些权利是每个公民与生俱来的，不管政府怎么说。
-inhere in something = 内在于…
-哲学、法律文字用语，日常几乎不用。
-② The risk inheres in the very nature of the job.
-= 风险就内在于这份工作的性质之中。
-inhere in the nature of something = 存在于…的本质中
-
-inherent
-核心：内在的、固有的 —— 本来就存在于某物里面、去不掉的。常接 in。副词 inherently 并入本条。
-① There are risks inherent in any kind of investment.
-= 任何投资都有其固有的风险。
-be inherent in something = 是…所固有的
-② The plan has an inherent weakness: it depends on good weather.
-= 这个计划有一个内在的弱点：它依赖好天气。
-an inherent weakness = 内在的弱点
-③ He argued that nuclear power is inherently dangerous.
-= 他认为核能本质上就是危险的。
-inherently = 本质上、天生地
-常修饰 dangerous、difficult、unstable 这类词。
-
-inherit
-核心：继承（财产）；遗传（特征）；接手（问题、局面）。本义是在别人死后得到其财产；
-引申为从父母身上得到外貌、性格；再引申为从前任手里接过（多半是麻烦）。
-形容词 inheritable（可继承的、可遗传的）与继承人 inheritor 并入本条。
-① When she was twenty, she inherited a large house by the sea from her grandmother.
-= 二十岁时，她从祖母那里继承了一座海边的大房子。
-inherit something from somebody = 从某人那里继承…
-② He inherited his father's red hair and his mother's temper.
-= 他遗传了父亲的红头发和母亲的脾气。
-inherit something = 遗传…
-③ The new government inherited huge debts from the previous one.
-= 新政府从上一届政府那里接手了巨额债务。
-inherit a problem = 接手问题
-比喻：从前任手里接过来，多是烂摊子。
-④ Some forms of heart disease are inheritable.
-= 某些心脏病是可遗传的。
-inheritable = 可遗传的
-⑤ The young artist was seen as the true inheritor of the old master's style.
-= 那位年轻画家被视为老大师画风的真正传人。
-the inheritor of something = …的继承者
-
-inheritance
-核心：继承的财产、遗产；遗传；继承。可数时指一笔遗产；不可数时指继承、遗传这回事。
-inheritance tax（遗产税）并入本条。
-① She used her inheritance to buy a small farm in Wales.
-= 她用继承来的遗产在威尔士买了个小农场。
-somebody's inheritance = 某人的遗产
-② Eye colour is determined by genetic inheritance.
-= 眼睛的颜色由基因遗传决定。
-genetic inheritance = 基因遗传
-③ The family had to sell the house to pay the inheritance tax.
-= 那家人不得不卖房来交遗产税。
-inheritance tax = 遗产税

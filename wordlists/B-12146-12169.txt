@@ -1,3 +1,59 @@
+inflow
+核心：流入、涌入 —— 水、钱、人流进一个地方。常接 of。反义 outflow。
+① An inflow of foreign money has pushed up house prices in the capital.
+= 外资流入推高了首都的房价。
+an inflow of money = 资金流入
+② The dam controls the inflow of water from the mountains.
+= 那座水坝控制着从山上流下的水量。
+the inflow of water = 水的流入
+
+influence
+核心：影响（力）；（对人）有影响的人或事物；势力。名词：对人或事的作用（have an influence on/over）；
+能左右别人的力量（political influence）；一个起影响作用的人或事物（a good influence）；
+under the influence（酒后，法律用语 under the influence of alcohol）。动词：影响、左右。
+influence peddling（利用影响力谋私）并入本条。
+① Parents have a strong influence on their children's attitudes to money.
+= 父母对孩子的金钱观影响很大。
+have an influence on somebody = 对某人有影响
+② The new friends she made at university were a bad influence on her.
+= 她在大学新交的朋友对她产生了坏影响。
+a bad influence = 带来坏影响的人
+可数，指「一个起影响作用的人」。
+③ The businessman used his influence to get his son a job at the ministry.
+= 那个商人利用自己的势力给儿子在部里谋了份差事。
+use your influence = 利用自己的势力
+④ He was arrested for driving under the influence after crashing into a parked van.
+= 他撞上一辆停着的面包车后，因酒后驾车被捕。
+under the influence = 酒后（驾驶）
+⑤ The weather can influence your mood more than you think.
+= 天气对你心情的影响可能比你以为的大。
+influence something = 影响…
+动词；跟 affect 的分别：influence 偏间接地左右想法、决定。
+⑥ The senator was accused of influence peddling after taking money from builders.
+= 那位参议员收了建筑商的钱，被控利用影响力谋私。
+influence peddling = 利用影响力谋私
+⑦ The central government has little influence over local schools.
+= 中央政府对地方学校影响甚微。
+have influence over something = 对…有影响力
+
+influencer
+核心：网红、有影响力的人 —— 多指在社交媒体上有大量粉丝、能左右消费的人。较新的用法。
+① The brand pays influencers to post photos of themselves wearing its clothes.
+= 那个品牌花钱请网红发穿着它家衣服的照片。
+an influencer = 网红
+② She became an influencer after her cooking videos were watched by millions.
+= 她的烹饪视频被几百万人观看后，她成了网红。
+become an influencer = 成为网红
+
+influential
+核心：有影响力的 —— 能左右别人的看法、决定或事态发展。
+① She is one of the most influential writers of her generation.
+= 她是她那一代人中最有影响力的作家之一。
+an influential writer = 有影响力的作家
+② His research was influential in changing the government's policy on smoking.
+= 他的研究对改变政府的吸烟政策起了重要作用。
+be influential in doing something = 在…方面起重要作用
+
 influenza
 核心：（正式）流行性感冒 —— 日常说 flu，这是它的全称。从意大利语借来。
 ① A new strain of influenza has spread rapidly across the region.
@@ -229,47 +285,3 @@ damage to infrastructure = 基础设施受损
 ③ Many infrastructural projects were delayed because of the crisis.
 = 许多基础设施项目因危机而延期。
 infrastructural projects = 基础设施项目
-
-infrequent
-核心：不常发生的、稀少的 —— 次数少、间隔长。副词 infrequently 并入本条。
-① Buses to the village are infrequent, so most people drive.
-= 去那个村子的公交车很少，所以大多数人开车。
-be infrequent = 不常有
-② We see each other only infrequently now that she lives abroad.
-= 她住到国外以后，我们难得见上一面。
-infrequently = 难得地
-
-infringe
-核心：侵犯（权利）；违反（法律、规定）。两支：infringe a law/copyright（违反、侵权）；
-infringe on/upon somebody's rights（侵犯权利）。名词 infringement 并入本条。
-① The company was accused of infringing copyright by copying the design.
-= 那家公司因抄袭设计被控侵犯版权。
-infringe copyright = 侵犯版权
-② The new law infringes on the right to free speech.
-= 新法律侵犯了言论自由权。
-infringe on a right = 侵犯权利
-③ Any infringement of the rules will be punished.
-= 任何违反规定的行为都将受到处罚。
-an infringement of something = 对…的违反
-
-infuriate
-核心：激怒、使大怒 —— 比 annoy 强得多。形容词 infuriating（气人的）与副词 infuriatingly 并入本条。
-① His constant lateness for morning meetings infuriated his colleagues and his boss.
-= 他早会总是迟到，把同事和老板都气坏了。
-infuriate somebody = 激怒某人
-② It is infuriating when the last train home is cancelled without any explanation or apology.
-= 回家的末班车取消了，既没解释也没道歉，真是气人。
-infuriating = 气人的
-③ The instructions for assembling the wardrobe were infuriatingly vague about which screws to use.
-= 组装衣柜的说明书对该用哪种螺丝说得含糊不清，让人火大。
-infuriatingly = 气人地
-
-infuse
-核心：注入、使充满；浸泡（茶、草药）。两支：把一种品质注入某物（infuse something with energy）；
-把茶叶、草药泡在热水里出味。医学上另指静脉输注。
-① The new coach infused the team with fresh confidence.
-= 新教练给球队注入了新的信心。
-infuse somebody with something = 给某人注入…
-② Leave the herbs to infuse in hot water for five minutes.
-= 把草药在热水里泡五分钟。
-let something infuse = 让…泡出味

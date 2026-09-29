@@ -1,3 +1,56 @@
+injured
+核心：受伤的；（感情）受了伤害的。也作名词：the injured（伤员，谓语用复数）。
+① Ambulances took the injured to three different hospitals.
+= 救护车把伤员送往三家不同的医院。
+the injured = 伤员
+② She gave him an injured look when he forgot her birthday.
+= 他忘了她的生日，她一脸受伤的样子看着他。
+an injured look = 受伤的神情
+第二支：情感上被伤害，多带委屈。
+③ The injured party can ask the court for compensation.
+= 受害方可以向法院要求赔偿。
+the injured party = 受害方
+法律用语。
+
+injurious
+核心：（正式）有害的、伤害性的 —— 常接 to：be injurious to health。
+① Every packet carried a warning that smoking is seriously injurious to health.
+= 每包烟上都印着警示语：吸烟严重危害健康。
+be injurious to health = 有害健康
+比 harmful 正式，多见于警示语、法律文字。
+② The judge ruled that the newspaper article was injurious to his reputation as a doctor.
+= 法官裁定，那篇报纸文章损害了他作为医生的名誉。
+injurious to somebody's reputation = 有损某人名誉的
+
+injury
+核心：伤害、损伤 —— 可数时指身体上一处伤（a head injury）；不可数时指受伤这回事（risk of injury）。
+也比喻对名誉、感情的伤害。injury time（英，足球：伤停补时）并入本条；习语 add insult to injury（雪上加霜）。
+① He suffered serious head injuries in the crash.
+= 他在车祸中头部受了重伤。
+a head injury = 头部受伤
+② Wearing a helmet greatly reduces the risk of injury.
+= 戴头盔能大大降低受伤的风险。
+the risk of injury = 受伤的风险
+③ The winning goal came in the third minute of injury time.
+= 制胜球是在伤停补时第三分钟打进的。
+injury time = （英）伤停补时
+④ First they cancelled the flight, and then, to add insult to injury, they lost my luggage.
+= 他们先是取消了航班，更糟糕的是又把我的行李弄丢了。
+add insult to injury = 雪上加霜
+
+injustice
+核心：不公正、不公平；不公正的事。不可数时指不公这种状况（fight against injustice）；
+可数时指一件具体的不公（a terrible injustice）。do somebody an injustice 是「冤枉某人、对某人评价不公」。
+① He spent his life fighting against poverty and injustice.
+= 他一生都在同贫困与不公作斗争。
+fight injustice = 与不公作斗争
+② The trial was a terrible injustice, and the man spent ten years in prison for nothing.
+= 那场审判是极大的冤案，那人白白坐了十年牢。
+a terrible injustice = 极大的不公
+③ You do her an injustice if you think she only cares about money.
+= 你要是认为她只在乎钱，那就冤枉她了。
+do somebody an injustice = 冤枉某人
+
 ink
 核心：墨水、油墨 —— 书写、印刷用的有色液体；也指章鱼、乌贼喷出的墨汁。不可数。
 动词 ink：（正式）签署（合同）、给…上墨；ink in 是用墨水描（先用铅笔画好的线）。
@@ -247,40 +300,3 @@ an innocuous remark = 无意冒犯的话
 ③ The letter began innocuously, with news about the family.
 = 那封信开头平淡无奇，讲的是家里的消息。
 innocuously = 无害地、平淡地
-
-innovate
-核心：革新、创新 —— 引入新方法、新产品、新想法。名词 innovation、形容词 innovative、
-人 innovator 另立。
-① Companies that fail to innovate soon lose their customers.
-= 不创新的公司很快就会失去顾客。
-innovate = 创新
-② The school has innovated in the way it teaches maths.
-= 那所学校在数学教学方式上有所创新。
-innovate in something = 在…方面创新
-
-innovation
-核心：创新、革新；新发明、新方法。不可数时指创新这件事；可数时指一项具体的新东西。
-① The government wants to encourage innovation in small businesses.
-= 政府希望鼓励小企业创新。
-encourage innovation = 鼓励创新
-② The mobile phone was one of the most important innovations of the century.
-= 手机是那个世纪最重要的发明之一。
-an innovation = 一项新发明
-
-innovative
-核心：创新的、有创意的 —— 说产品、方法、设计新颖，也说人敢于创新。
-① The small Danish company is known all over Europe for its innovative furniture designs.
-= 那家丹麦小公司以新颖的家具设计闻名全欧洲。
-an innovative design = 创新的设计
-② Teachers in poor areas need innovative ways of teaching children to read and write.
-= 贫困地区的老师需要用创新的方法教孩子读书写字。
-innovative ways of doing something = 做…的新方法
-
-innovator
-核心：创新者、革新者 —— 引入新方法、新产品的人或公司。
-① She was a great innovator in the field of children's television.
-= 她是儿童电视领域一位了不起的革新者。
-an innovator in something = …领域的革新者
-② The small company became an innovator in solar technology.
-= 那家小公司成了太阳能技术的创新者。
-an innovator = 创新者
