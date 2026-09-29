@@ -9,10 +9,11 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-29，第五十三轮）═══
-B 词表 12605 条、义项 45331 条，词典序 a → irony。A 表 3002 条。
+═══ 现状（2026-09-29，第五十四轮）═══
+B 词表 12672 条、义项 45540 条，词典序 a → ivy。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
-  **i 字母在写**：ia- 到 in- 都已收完（in- 1252/1253，余下 in tray 待 t 段认）；io- / ip- 收完；**ir- 段在写**（27/93）。
+  **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
+    以及 coverage 的一处统计残差，都等 t 段。
     开段准备已做：剔除 16 条（indaba / induna / inyanga 南非，incharge 印度，
     inchoative / interlanguage / interlingual / infix / inscape / intertextuality / individuate /
     insolation / intraoperative / indium / interlinear 窄专业，intra 前缀残片）；
@@ -22,26 +23,20 @@ B 词表 12605 条、义项 45331 条，词典序 a → irony。A 表 3002 条�
     incessant → including 23 条（inch 9 义；incidentally 登 derived-keep 单立）、
     inclusion → incongruous 20 条（income 并 income tax / income support）、
     inconsequential → incredulous 22 条（increase 并 increased；incorporated 单立）。
-    本轮三批：inverse → inviolate 19 条（invest 并 invest in / with；investment 并 investment bank /
-    banker / banking）、invisible → inwards 15 条（invite 并 invite back / along / around / in / over / round）
-    —— in- 段收完；iodide → irony 25 条（iron 12 义）。
-    **交付文件改按台账切**（reference/B-delivered.txt，详见 CLAUDE.md）：用户导入第五份报 7 个重复，
-    原因是回头补写 g 段七条把边界往前推了。第 5 份已重排为 Gaelic → intramural，第 6 份起只装未交付词条。
-    开段准备（io- 到 iz-）已做：剔除见上一笔提交；is / isn't 登 inflections 挂到 be，it'd / it'll / it's 挂到 it。
-    **带占位词的短语动词又栽一次**：invite somebody over 的字面串里没有 invite over，讲解行补了宾语后置写法。
-  **下一批从 irradiate 起**：irradiate 一族、irrational 一族、irreconcilable、irrecoverable 一族、irredeemable 一族、
-    irreducible 一族、irrefutable 一族、irregular 一族、irrelevant 一族、irreligious、irremediable、irreparable、
-    irreplaceable、irrepressible、irreproachable、irresistible、irresolute、irrespective of、irresponsible 一族、
-    irretrievable、irreverent、irreversible、irrevocable、irrigate、irritable（并 irritable bowel syndrome）、
-    irritant、irritate 一族、irrupt。然后 is-（Islam、island、isolate、issue…）、it-（it、its、itself、item…）、iv-。
-    i 字母收完后开 j 字母。
+    本轮三批：irradiate → irrevocable 23 条、irrigate → isolationism 19 条（另补 Irish stew / whiskey、
+    iron-grey / iron rations）、isomer → ivy 24 条（issue 13 义；it 11 义，并 it's / it'd / it'll）。
+    **单义形容词扎堆又一次把讲解行密度拉到基线下**（irr- 那一串），补了四十多条真讲解行才过 ——
+    写这种批次时每个义项都要配一行说搭配、语域或近义分界，别只写等式。
+  **下一步：开 j 字母**。照 HANDOFF 八节做开段准备：① 列出 J 段大写词头按「已进词汇才收」判，登 proper-nouns-keep；
+    ② 扫一遍 j 清单，剔地区变体、窄专业、专名残片、词缀；③ 往 audit-idioms 补 job / join / joke / judge / jump /
+    just 等大词的习语（先 grep 同名键）；④ 查 j 段的不规则变形（没有什么，但 jumped 之类规则变形不必登）。
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
     coverage 认）。写到那个 in- 词时顺手并，不要漏：写每批前先 grep 一下清单里以该词打头的多词条目。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12500 / 12501-12605
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12500 / 12501-12672
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 目前在 51e34015**；之后本地领先的提交都没推，push 照旧等用户开口。
 
