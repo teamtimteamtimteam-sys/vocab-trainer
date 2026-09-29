@@ -183,6 +183,12 @@ def phrase_hosts(w, got):
     k = sort_key(w)
     if len(k) < 2: return []
     out = []
+    # 连字符复合词的首个成分即使是虚词，也可以当宿主（2026-09-29）：
+    # in-house、in-flight、in-crowd 的重心在 in-，并进 in 条是对的；
+    # 分写的 in advance、at large 不受影响，照旧只认内容词。
+    head = w.lower().split('-')[0] if '-' in w else None
+    if head and head in FUNCTION_WORDS and (head,) in got:
+        out.append(head)
     for p in k:
         if p in FUNCTION_WORDS: continue
         if (p,) in got: out.append(p); continue
