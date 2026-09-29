@@ -215,6 +215,14 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
 
 ## 九、iPad app（index.html 单文件）也归这个仓库管
 
+- **导入报「重复」不是 bug，是交付文件边界挪了**（2026-09-29 用户导入 10001-12500 报 7 个重复、实导 2493）：
+  app 按词头小写跟整个词库去重。用户 09-11 前后导入的第四份结尾是 genealogical，之后 a–g 段补写了
+  Gaelic、Gaia、Gallic、Gallicism、Gambian、Gandhian、geddit 七条，第四份的边界往前挪到 gem，
+  geminate → genealogical 七条就滑进了第五份 —— 这七条 app 里已有（跳过），而新补的七条 app 里没有。
+  排查办法：拿 git 里各版本的 B-merged-7501-10000.txt 的词头集跟现在比，找出「重复数」对得上的那一版，
+  两边差集就是 app 里缺的词；单独导一个补漏 txt 给用户。**已导入词条的内容不会被重新导入覆盖**，
+  回头改过的老词条（加粗清理、add-sense 补义项）在 app 里仍是旧版。
+
 用户会报 app 的 bug，改完要自己在浏览器里验证，并且**同时升两个版本号**：
 `index.html` 里的 `APP_VERSION` 与 `sw.js` 里的 `CACHE`，否则装了 PWA 的设备
 拿的还是旧缓存（stale-while-revalidate：打开一次拿旧的、后台更新，第二次才生效）。
