@@ -1,27 +1,3 @@
-irresponsible
-核心：不负责任的 —— 做事不考虑后果。名词 irresponsibility 与副词 irresponsibly 并入本条。
-① It was irresponsible of him to leave the children alone in the house all evening.
-= 他把孩子们整晚单独留在家里，太不负责任了。
-it was irresponsible of somebody to do something = 某人做…太不负责任
-② The report criticized the bank's irresponsibility in lending money to people who could not repay it.
-= 报告批评了那家银行放贷给还不起钱的人的不负责任做法。
-irresponsibility = 不负责任
-不可数，多说机构、政策。
-③ Some drivers behave irresponsibly on the motorway, especially in bad weather.
-= 有些司机在高速公路上开车不负责任，天气不好时尤其如此。
-irresponsibly = 不负责任地
-常修饰 behave、act、drive、spend。
-
-irretrievable
-核心：（正式）无法挽回的、不能恢复的 —— 说损失、关系、数据。副词 irretrievably 并入本条。
-① The judge accepted that the marriage had broken down irretrievably.
-= 法官认定那段婚姻已经破裂到无法挽回。
-break down irretrievably = 彻底破裂
-离婚判决里的固定说法。
-② Without a backup, the files are irretrievable once the disk fails.
-= 没有备份的话，磁盘一坏，文件就无法恢复了。
-be irretrievable = 无法恢复
-
 irreverent
 核心：不敬的、不恭的 —— 对应当尊重的人或事不严肃，常带幽默、调侃，可褒可贬。
 名词 irreverence 与副词 irreverently 并入本条。
@@ -296,3 +272,40 @@ in isolation = 孤立地
 ④ The country's isolation grew after it left the trade agreement.
 = 那个国家退出贸易协定后，更加孤立了。
 somebody's isolation = 某人的孤立
+
+isolationism
+核心：孤立主义 —— 主张国家不参与国际事务、不结盟的外交政策。孤立主义者 isolationist（也作形容词）并入本条。
+① American isolationism kept the country out of the war until 1941.
+= 美国的孤立主义让它直到一九四一年才参战。
+isolationism = 孤立主义
+② Isolationists in parliament voted against sending troops abroad.
+= 议会里的孤立主义者投票反对向国外派兵。
+an isolationist = 孤立主义者
+③ The new president's isolationist policies worried the country's allies.
+= 新总统的孤立主义政策让盟国感到不安。
+isolationist policies = 孤立主义政策
+
+isomer
+核心：（化学）同分异构体 —— 分子式相同、原子排列不同、性质也不同的化合物。
+形容词 isomeric 与名词 isomerism（同分异构现象）并入本条。
+① Glucose and fructose are isomers: they contain the same atoms arranged differently.
+= 葡萄糖和果糖是同分异构体：它们含有相同的原子，只是排列不同。
+an isomer = 同分异构体
+② The two isomeric forms of the drug have very different effects on the body.
+= 这种药的两种同分异构形式对身体的作用大不相同。
+isomeric forms = 同分异构形式
+③ Students learn about isomerism in their second year of chemistry.
+= 学生们在化学课第二年学习同分异构现象。
+isomerism = 同分异构现象
+
+isometric
+核心：等长收缩的（肌肉锻炼）；等距的、等轴的（绘图）。名词复数 isometrics（等长练习）并入本条。
+① Isometric exercises strengthen muscles without moving the joints.
+= 等长练习能在关节不动的情况下增强肌肉力量。
+isometric exercises = 等长练习
+② The architect showed us an isometric drawing of the new kitchen.
+= 建筑师给我们看了新厨房的等轴测图。
+an isometric drawing = 等轴测图
+③ After the injury, her physiotherapist started her on gentle isometrics.
+= 受伤后，她的理疗师让她从轻柔的等长练习开始。
+isometrics = 等长练习
