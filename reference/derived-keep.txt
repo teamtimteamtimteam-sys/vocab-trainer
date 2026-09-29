@@ -59,3 +59,4 @@ hourly          # 词根 hour 是名词，不是形容词；hourly 兼形容词�
                 # the hourly rate）与副词（checked hourly），同 daily / fortnightly 那两条
 humanly         # 几乎只活在 humanly possible（人力所能及）里，human 没有这个用法
 immediately     # 英式另有连词用法「一…就…」（immediately she saw him），immediate 没有这一支
+incidentally    # 句首「顺便说一句」是话语标记，incidental 没有这一支
