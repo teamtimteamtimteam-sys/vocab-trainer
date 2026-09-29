@@ -171,3 +171,8 @@ ileal        ileum          # 形容词，ileum→ileal，前四字母 ilea 对�
 imbed        embed          # 拼法变体，前四字母 imbe 对不上 embe；在 embed 条配例句
 impanel      empanel        # 拼法变体（多为美式），前四字母对不上；在 empanel 条配例句
 indices      index          # 复数（拉丁式），前四字母 indi 对不上 inde；在 index 条配例句
+is           be             # be 的第三人称单数现在时；在 be 条里讲
+isn't        be             # is not 的缩约；在 be 条里讲
+it'd         it             # it would / it had 的缩约；在 it 条配例句
+it'll        it             # it will 的缩约；在 it 条配例句
+it's         it             # it is / it has 的缩约；在 it 条配例句（注意别混 its）

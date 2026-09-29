@@ -592,3 +592,22 @@ intraoperative # 外科术语「术中的」，只在医学内部使用
 indium       # 化学元素铟，同 holmium 那条
 interlinear  # 版本学术语「行间对照的」，窄专业
 intra        # 前缀 intra- 掉了连字符，同 il
+irio         # 东非（肯尼亚）食物名 —— 按地区变体通则剔除
+iroko        # 西非木材树名，只在木材业内部使用，窄专业
+iridium      # 化学元素铱，同 indium 那条
+irradiance   # 物理学光度术语「辐照度」，同 illuminance
+isikuti      # 南非英语：部落舞蹈 —— 按地区变体通则剔除
+isiXhosa     # 南非对科萨语的本族称呼，属南非英语用法 —— 按地区变体通则剔除（英语通称另有词条）
+isiZulu      # 同上，祖鲁语的本族称呼
+ist          # 后缀 -ist 掉了连字符，同 il / intra
+ista         # 后缀 -ista 掉了连字符
+ite          # 后缀 -ite 掉了连字符
+itis         # 后缀 -itis 掉了连字符
+ization      # 后缀 -ization 掉了连字符
+izationally  # 同上
+ize          # 后缀 -ize 掉了连字符
+isogloss     # 方言学术语「同言线」，只在语言学内部使用，同 interlanguage
+isoprene     # 化学术语「异戊二烯」，窄专业
+iwi          # 新西兰毛利语借词：部落 —— 按地区变体通则剔除
+izzat        # 印度英语：名誉、尊严 —— 按地区变体通则剔除
+it's a-wonderful-life  # 电影片名 It's a Wonderful Life 的清洗残片，纯专名

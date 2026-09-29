@@ -904,6 +904,7 @@ CHECK = {
  'invest': ['invest in', 'invest with'],
  'invite': ['invite round', 'invite over', 'invite trouble'],
  'involve': ['be involved in', 'be involved with', 'get involved'],
+ 'iron': ['iron out', 'pump iron', 'strike while the iron is hot', 'too many irons in the fire', 'an iron fist', 'an iron will'],
  'image': ['the spitting image of', 'in the image of', 'be the image of', 'public image'],
  'imagination': ['use your imagination', 'capture the imagination', 'by no stretch of the imagination',
                  'a figment of', 'leave nothing to the imagination'],
