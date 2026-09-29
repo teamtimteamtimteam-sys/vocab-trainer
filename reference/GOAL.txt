@@ -9,26 +9,29 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-09-29，第四十一轮）═══
-B 词表 11851 条、义项 43133 条，词典序 a → impute。A 表 3002 条。
+═══ 现状（2026-09-29，第四十二轮）═══
+B 词表 11911 条、义项 43314 条，词典序 a → inception。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
-  **i 字母在写**：ia- 到 im- 都已收完（im- 273/273）。
-    本轮三批：impolite → impoverish 14 条（import 8 义、impose 7 义）、
-    impracticable → impromptu 18 条（impression 7 义；impressionist 两个来源）、
-    improper → impute 17 条（improper 并 improper fraction，impulse 并 impulse buy / buying，
-    improve 并 improve on / upon —— coverage 都认了，重心放进 im- 词条的做法可行）。
-    本轮被闸门拦的都是写短、写漏：audit-ab 报 import from、audit-idioms 报 make life impossible、
-    audit-examples 报 impudent / impute 偏薄、coverage 报 impute to 没有裸形字面（讲解行里补了
-    impute to her motives...）。单义的正式词（impudent、impute、impertinent）连着三次被 audit-examples 拦，
-    写这类词的例句时要主动加时间、场合、后果。
-  **下一批从 in- 段起**（约 1256 条，整个 i 字母的主体）：in（大词）、inability、inaccessible、
-    inaccurate、inaction、inactive、inadequate、inadvertent……
-    开段前照例：扫清单剔干净（in- 里窄专业与拉丁短语多），往 audit-idioms 补 in / income / increase /
-    indeed / independent / industry / influence / information / inside / instance / interest 等大词的习语；
-    in 本身是虚词表里的词，先看 coverage 怎么报 in 打头的多词条目（in advance 已并进 advance 那一类）。
+  **i 字母在写**：ia- 到 im- 都已收完；**in- 段开了**（94/1253，7%）。
+    开段准备已做：剔除 16 条（indaba / induna / inyanga 南非，incharge 印度，
+    inchoative / interlanguage / interlingual / infix / inscape / intertextuality / individuate /
+    insolation / intraoperative / indium / interlinear 窄专业，intra 前缀残片）；
+    audit-idioms 补 in / inch / income / increase。大写词头（Indian 一族、Injun、Interpol、
+    Indonesian…）早已在 proper-nouns-keep 里判过。
+    本轮三批：in → in-laws 13 条（in 38 义，in- 连字符复合词归组并入；拉丁短语 in absentia、
+    in situ、in vitro 等各自立条 —— coverage 原把它们列「待推迟」，因为 in 是虚词、内容词不是英语词条）、
+    inability → inauspicious 23 条、inauthentic → inception 24 条（inc. 两义：Inc. 与英式「含」）。
+  **下一批从 incessant 起**：incessant、incest 一族、inch（大词，习语已进 CHECK）、inchoate、
+    incidence、incident（并 incident room）、incidental 一族、incinerate 一族、incipient、incise 一族、
+    incite、incivility、incl.、inclement、inclination、incline、inclined、include / included / including、
+    inclusion、inclusive 一族、incognito、incoherent 一族、income（并 income tax / income support）……
+  **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
+    invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
+    insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
+    coverage 认）。写到那个 in- 词时顺手并，不要漏：写每批前先 grep 一下清单里以该词打头的多词条目。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11851
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-11911
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 目前在 51e34015**；之后本地领先的提交都没推，push 照旧等用户开口。
 
