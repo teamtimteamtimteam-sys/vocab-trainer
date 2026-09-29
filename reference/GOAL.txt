@@ -646,7 +646,7 @@ ga- 段刚开工（约 11/300）。动笔前的四件事照旧先做：
   · 第八批 gator → geisha（ga- 段新写收尾）、第九批 gel → generalized。
      **B 表过一万条了：10010 条。**
   · **一万条这道坎撞出一个真 bug**：批次与合并文件名过万之后出现五位数
-     （B-10001-12039.txt），而全项目十七个脚本都用 `sorted(glob.glob(...))`
+     （B-10001-10010.txt），而全项目十七个脚本都用 `sorted(glob.glob(...))`
      按**字符串**排文件名 —— '1' < '9'，于是 B-10001 排到了 B-9986 前面，
      check-merged 当场报「跳号 / 两份之间断了」。renumber、resplit、
      merge-wordlist、coverage 读文件的顺序也全错。
