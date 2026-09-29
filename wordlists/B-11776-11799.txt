@@ -288,16 +288,3 @@ implicit trust = 绝对的信任
 ④ The contract implicitly allows the company to change the prices.
 = 合同暗含允许公司调整价格。
 implicitly = 含蓄地、暗中
-
-implode
-核心：内爆、向内塌陷 —— 跟 explode 相对；比喻指（组织、计划）从内部崩溃。
-名词 implosion 并入本条。
-① The screen of the old television imploded with a loud bang and scattered glass across the carpet.
-= 那台旧电视的屏幕砰的一声内爆了，玻璃碴撒了一地毯。
-implode = 内爆
-② The party imploded after its leader resigned in disgrace.
-= 领导人丢脸辞职后，那个政党从内部分崩离析。
-implode = 从内部崩溃
-③ The implosion of the banking sector led to a deep recession.
-= 银行业的崩溃导致了一场严重的衰退。
-the implosion of something = …的崩溃

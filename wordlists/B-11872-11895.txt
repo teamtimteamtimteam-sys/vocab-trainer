@@ -1,3 +1,24 @@
+inadmissible
+核心：（法律）不可采纳的 —— 按规定不能被接受，多说证据。
+① The judge ruled that the confession was inadmissible because it had been forced.
+= 法官裁定那份供词不可采纳，因为是被逼出来的。
+inadmissible evidence = 不可采纳的证据
+② Questions about the witness's private life were ruled inadmissible.
+= 有关证人私生活的问题被裁定不得提出。
+be ruled inadmissible = 被裁定不可采纳
+
+inadvertent
+核心：无意的、疏忽造成的 —— 不是故意的。名词 inadvertence 与副词 inadvertently（最常用）并入本条。
+① The leak of the documents was inadvertent, according to the minister.
+= 据部长说，文件泄露是无意之失。
+an inadvertent mistake = 无心之失
+② She inadvertently deleted the whole file while trying to save it.
+= 她想存盘，却不小心把整个文件删了。
+inadvertently = 无意中、不小心
+③ Through inadvertence, the letter was sent to the wrong address.
+= 由于疏忽，那封信寄错了地址。
+through inadvertence = 由于疏忽
+
 inadvisable
 核心：不明智的、不可取的 —— in- 加 advisable。多作表语：it is inadvisable to do something。
 ① It is inadvisable to swim in the lake after heavy rain.
@@ -237,27 +258,3 @@ an inbuilt camera = 内置摄像头
 ② Larger companies have an inbuilt advantage when they bid for government contracts.
 = 大公司在竞标政府合同时有先天优势。
 an inbuilt advantage = 先天优势
-
-inc.
-核心：两个缩写同形。一是（美）股份有限公司，写在公司名称之后，常大写成 Inc.；
-二是（英）「包括、含」，多见于价目，同 incl.。
-① She works as an accountant for Smith & Jones Inc. in Chicago.
-= 她在芝加哥的史密斯琼斯股份有限公司当会计。
-Inc. = （美）股份有限公司
-英式对应的写法是 Ltd 或 plc。
-② The hotel charges ninety pounds a night inc. breakfast and parking.
-= 那家酒店每晚九十英镑，含早餐和停车。
-inc. breakfast = 含早餐
-这一支是英式缩写，读作 including。
-
-incalculable
-核心：（正式）无法估量的、极大的 —— 多说损害、价值、损失。副词 incalculably 并入本条。
-① The oil spill caused incalculable damage to the coastline.
-= 那次漏油对海岸线造成了无法估量的损害。
-incalculable damage = 无法估量的损害
-② His support over the years was of incalculable value to the charity.
-= 这些年来他的支持对那家慈善机构价值无法估量。
-of incalculable value = 价值无法估量
-③ The internet has made research incalculably easier.
-= 互联网让研究工作不知轻松了多少。
-incalculably = 无法估量地
