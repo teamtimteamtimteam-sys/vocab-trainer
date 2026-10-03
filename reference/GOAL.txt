@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-03，第五十九轮）═══
-B 词表 12992 条、义项 46486 条，词典序 a → kennel。A 表 3002 条。
+═══ 现状（2026-10-03，第六十轮）═══
+B 词表 13042 条、义项 46645 条，词典序 a → kilim。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -27,26 +27,28 @@ B 词表 12992 条、义项 46486 条，词典序 a → kennel。A 表 3002 条�
     开段准备已做：J 段大写词头判完（收 31 条进 proper-nouns-keep）；exclude 补印度、南非东非、澳新、苏格兰变体
     与窄专业、专名残片共 28 条；inflections 补 jehad→jihad、jerrymander(ing)→gerrymander(ing)；
     audit-idioms 补 j 段十五个大词。
-  **k 字母开了**（清单 418 条）：ka- 收完（49/49），ke- 在写（46/90）。
+  **k 字母在写**（清单 418 条）：ka- / ke- / kh- 收完，ki- 在写（约 42/142）。
     开段准备已做：K 段大写词头收 22 条；exclude 补 64 条（k 段印度、东非西非、南非、澳新、苏格兰借词多，逐条判过；
     印度服饰 kameez / kurta 照 achkan / dhoti 的先例剔）；小写单位缩写 kg / km / kHz / kW 等照 cwt 的先例剔；
     inflections 补 kept / knelt / knew / knives 与六个拼法变体；audit-idioms 补 keep / key / kick / kill / kind / knock / know 等十四个大词。
-    本轮三批：ka-ching → kanji 20 条、Kannada → keel 23 条、keen → kennel 15 条（keep 36 义，单独占了大半批）。
-    **两义词扎堆时等式密度会跌破 2.13**（ka- 第一批 2.05）：补真搭配（kabuki theatre、a kamikaze attack），
-    当场删掉了两条凑数的（a red kangaroo、a Kalashnikov rifle 与原等式同义）。
-    **译文里混英文**（kappa、kahuna、kebab ③ 的 kabob）被 check-wordlist 拦了三次：讲字母名、借词时用「」括起来或改中文。
-  **下一批从 kept 之后的 keratin 起**：keratin、kerb（并 kerbside、kerbstone、kerb-crawler / -crawling）、kerchief、kerfuffle、
-    kernel、kerosene、kestrel、ketamine、ketch、ketchup、kettle（并 kettledrum？另立）、kettling、key（大词，并 key card / grip /
-    light / ring / signature / worker、key to、Key lime pie）、keyboard 一族、keyed up、keyhole（并 keyhole surgery）、
-    keylogger、keynote、keypad、keystone、keystroke、keyword。然后 kh-、ki-（kick、kid、kill、kind、king、kiss、kit、kitchen）、
-    kl-、kn-（knee、knife、knock、know 单立一批）、ko-、kr-、ku-、kv-、kw-、ky-。
+    上一轮三批：ka-ching → kanji、Kannada → keel、keen → kennel（keep 36 义）。
+    本轮三批：Kenyan → keyed up 16 条（key 15 义，并 key ring / card / worker / signature…）、
+    keyboard → kibosh 20 条（kh- 收完）、kick → kilim 14 条（kick 21 义）。
+    **用户问过排序**（2026-10-03）：B 的词头顺序跟原始目录比有 96 处相邻逆序，全是带空格 / 连字符 / 重音的词头 ——
+    目录按字母逐个排（忽略空格连字符），本项目按 CLAUDE.md 的规矩按词排。已如实告知，用户没要求改，照旧按词排。
+    **被拦的老毛病**：单义词扎堆的分块讲解行密度不够（又补二十多条）；冒犯语把词头放进引号（kike ①）
+    被判元评论；kickstand / khazi / keyword 两义等式相同。
+  **下一批从 kill 起**：kill（大词，并 kill off、kill switch、killer 另立）、killer（并 killer app / bee / cell / instinct / whale）、
+    killing（并 killing fields、make a killing）、killjoy、kiln、kilo 一族（kilobit / kilobyte / kilogram / kilohertz /
+    kilojoule / kilometre / kilowatt、kilowatt-hour）、kilt（并 kilted）、kilter、kimchi、kimono、kin、kinaesthesia、
+    kind（大词，并 kinder、kind-hearted）、kindergarten 一族、kindle、kindling、kindly（看是否单立）、kindness、kindred……
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
     coverage 认）。写到那个 in- 词时顺手并，不要漏：写每批前先 grep 一下清单里以该词打头的多词条目。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12500 / 12501-12992
+  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12500 / 12501-13042
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 目前在 51e34015**；之后本地领先的提交都没推，push 照旧等用户开口。
 
