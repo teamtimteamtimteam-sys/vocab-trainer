@@ -639,3 +639,4 @@ john-brown's body  # 歌名专名残片
 john-o-groats  # 地名 John o' Groats 的清洗残片
 jelly-roll-morton  # 人名 Jelly Roll Morton 的清洗残片
 juan-ponce-de-leon  # 人名 Juan Ponce de León 的清洗残片
+jollof rice  # 西非英语：辣味番茄饭 —— 按地区变体通则剔除
