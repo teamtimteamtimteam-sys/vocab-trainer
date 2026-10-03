@@ -640,3 +640,66 @@ john-o-groats  # 地名 John o' Groats 的清洗残片
 jelly-roll-morton  # 人名 Jelly Roll Morton 的清洗残片
 juan-ponce-de-leon  # 人名 Juan Ponce de León 的清洗残片
 jollof rice  # 西非英语：辣味番茄饭 —— 按地区变体通则剔除
+kai          # 新西兰英语（毛利语借词）：食物 —— 按地区变体通则剔除
+kia ora      # 新西兰英语（毛利语问候语）—— 同上
+korowai      # 新西兰英语：毛利羽毛斗篷 —— 同上
+kindy        # 澳新英语：幼儿园 —— 按地区变体通则剔除
+king-hit     # 澳新英语：偷袭的一拳 —— 同上
+kombi        # 南非、澳新英语：小型面包车 —— 同上
+kylie        # 澳洲英语：一种回旋镖 —— 同上
+kajal        # 印度英语：眼线膏 —— 按地区变体通则剔除（通用说法 kohl 另有词条）
+kameez       # 印度英语：长衫（同 achkan / dhoti 那条）
+kurta        # 印度英语：无领长衫（同上）
+kangri       # 印度英语（克什米尔）：手提火炉 —— 按地区变体通则剔除
+keema        # 印度食物名，一律不收
+kofta        # 印度食物名，一律不收
+korma        # 印度食物名，一律不收
+kulfi        # 印度食物名，一律不收
+khadi        # 印度英语：手纺土布 —— 按地区变体通则剔除
+khana        # 印度英语：饭食 —— 同上
+khansama     # 印度英语：男厨 —— 同上
+kharif       # 印度英语：秋收作物 —— 同上
+kho-kho      # 印度英语：一种追逐游戏 —— 同上
+kisan        # 印度英语：农民 —— 同上
+kitab        # 印度英语：书 —— 同上
+kitty party  # 印度英语：轮流做东的妇女聚会 —— 同上
+kotwal       # 印度英语：警察局长 —— 同上
+kotwali      # 印度英语：警察局 —— 同上
+kumkum       # 印度英语：额头红粉 —— 同上
+kund         # 印度英语：水池 —— 同上
+kanga        # 东非英语：印花棉布 —— 按地区变体通则剔除
+khanga       # 同上的另一种拼法
+kanzu        # 东非英语：男式白长袍 —— 同上
+kayamba      # 东非英语：沙锤类乐器 —— 同上
+kikoi        # 东非英语：条纹布 —— 同上
+kiondo       # 东非英语：手编篮 —— 同上
+kora         # 西非英语：二十一弦琴 —— 按地区变体通则剔除
+klap         # 南非英语：一巴掌 —— 按地区变体通则剔除
+kloof        # 南非英语：峡谷 —— 同上
+koeksister   # 南非英语：麻花甜食 —— 同上
+koppie       # 南非英语：小山丘 —— 同上
+kraal        # 南非英语：村落、畜栏 —— 同上
+kwaai        # 南非英语：很棒 —— 同上
+kwaito       # 南非英语：一种流行音乐 —— 同上
+kwela        # 南非英语：便士哨音乐 —— 同上
+kist         # 南非与苏格兰英语：箱子 —— 同上
+kirk         # 苏格兰英语：教堂 —— 按地区变体通则剔除
+kyle         # 苏格兰英语：海峡 —— 同上
+kelpie       # 苏格兰传说里的水马／澳洲牧羊犬，两义都属地区变体
+kecks        # 北英格兰英语：裤子 —— 按地区变体通则剔除
+kebaya       # 马来、印尼英语：女式上衣 —— 按地区变体通则剔除
+kg           # 小写单位缩写，同 cwt / hg 一律剔除
+km           # 同上
+kmph         # 同上
+kHz          # 单位缩写，同上
+kW           # 同上
+kWh          # 同上
+kibibit      # 计算机二进制计量单位，窄专业
+kibibyte     # 同上
+kinesis      # 生物学术语「动态」，窄专业
+katabolism   # 生物化学术语 catabolism 的旧式拼法，窄专业
+kouros       # 考古学术语：古希腊青年男子雕像，窄专业
+king's lynn  # 地名残片
+king's cross # 地名残片
+king's road  # 地名残片
+king's college-cambridge  # 机构名残片

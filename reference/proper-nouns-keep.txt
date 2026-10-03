@@ -884,3 +884,34 @@ Judas
 Julian calendar
 Jupiter
 Jurassic
+
+# --- K 段（2026-10-03 逐条过完）---
+# 收：族群与语言名、宗教概念、已成普通词汇的表达（Kafkaesque、Kalashnikov、Komodo dragon、
+# King's evidence、Key lime pie、K-12、K rations）、冒犯性旧称 Kraut（词条里标明冒犯）。
+# 剔：纯人名（Karen / Keith / Kevin…）、纯地名（Kansas / Kenya / Kuwait…，含 King's Cross / King's Lynn 等残片）、
+# 商标（Kleenex™ / Kevlar™ / Klaxon™ / Kodak™ / Kilner jar™…）、全大写缩写（KFC / KKK / KO / KP / KWIC…）与
+# 计量缩写（Kb / Kbps / Kib）、书名片名口号（Kidnapped / Kilroy was here）、公司名、
+# 地区变体的专名（Kaffir 南非蔑称、Koori 澳洲、Kiswahili 东非自称、Kathakali 印度舞蹈、Kejia）、
+# 单个人名典故或社团（Knickerbocker、Kiwanis、Kendal mint cake）。
+K-12
+Kaaba
+Kabbalah
+Kafkaesque
+Kalashnikov
+Kannada
+Kaposi’s sarcoma
+Kazakh
+Kenyan
+Key lime pie
+Khmer
+King’s evidence
+Kittitian
+Komodo dragon
+Koran
+Koranic
+Korean
+K rations
+Kraut
+Kuwaiti
+Kwanzaa
+Kyrgyz
