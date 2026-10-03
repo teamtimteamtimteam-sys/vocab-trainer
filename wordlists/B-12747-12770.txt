@@ -1,3 +1,51 @@
+jejune
+核心：（正式）幼稚的、天真的；枯燥无味的。两支：想法、说法太简单、不成熟；文章内容贫乏、没意思。
+① His jejune remarks about politics showed how little he really knew.
+= 他那些关于政治的幼稚言论暴露出他其实懂得很少。
+jejune remarks = 幼稚的言论
+第一支：想法不成熟、太天真，偏书面。
+② The report was long but jejune, and nobody read beyond the first page.
+= 那份报告很长却枯燥乏味，没人读完第一页。
+jejune = 枯燥乏味的
+第二支：内容贫乏，本义是「空腹的」，跟 jejunum（空肠）同源。
+
+jejunum
+核心：（解剖）空肠 —— 小肠的中段，介于十二指肠和回肠之间。形容词 jejunal 并入本条。
+① Most of the nutrients from our food are absorbed in the jejunum, the middle part of the small intestine.
+= 食物中的大部分营养是在空肠里被吸收的，空肠是小肠的中段。
+the jejunum = 空肠
+医学用语，跟 ileum（回肠）、duodenum（十二指肠）并列。
+② The surgeon found a small jejunal ulcer during the operation.
+= 手术中外科医生发现了一处小的空肠溃疡。
+jejunal = 空肠的
+只作定语，多见于医学报告。
+
+jell
+核心：（想法、计划）成形、变得清晰；（团队）配合默契；（液体）凝结。英式也写 gel。
+① It took a few weeks for the ideas for the new book to jell.
+= 新书的构思过了几个星期才渐渐成形。
+jell = 成形、变清晰
+说想法、计划从模糊到清楚，口语里常说 things started to jell。
+② The new players took half a season to jell with the rest of the team.
+= 新球员花了半个赛季才和队里其他人磨合好。
+jell with somebody = 与某人配合默契
+说人之间合得来、配合好，多用于团队。
+③ Put the mixture in the fridge and leave it to jell overnight.
+= 把混合物放进冰箱，让它凝结一夜。
+leave something to jell = 让…凝结
+本义：液体变成胶状，英式也写 gel。
+
+jello
+核心：（美）果冻 —— 源自商标 Jell-O 的通名用法，英式说 jelly。
+① The hospital served jello and soup to patients who could not eat solid food.
+= 医院给不能吃固体食物的病人提供果冻和汤。
+jello = （美）果冻
+原为商标 Jell-O，现已通名化，常小写。
+② The children laughed as the red jello wobbled on the plate.
+= 红色果冻在盘子里颤悠悠地晃，孩子们哈哈大笑。
+a plate of jello = 一盘果冻
+可数时说 a bowl / plate of jello。
+
 jelly
 核心：（英）果冻；（美）果酱；胶状物。英式里是甜点果冻（美式 jello）；美式里是果冻状的果酱（peanut butter and jelly）；
 也指任何半透明的胶状物质（petroleum jelly）；比喻腿软（legs turned to jelly）。
@@ -271,79 +319,3 @@ Jesus = 耶稣
 = 天哪，你吓了我一跳！我没听见你进来。
 Jesus = （感叹）天哪
 语域：有些信教的人会觉得冒犯，正式场合避免。
-
-jet
-核心：喷气式飞机；（液体、气体的）喷射；煤玉（黑色宝石）。几支：喷气式飞机（fly by jet）；
-从小孔喷出的一股水或气（a jet of water）；动词 jet：乘飞机到处飞（jet around the world）；
-黑得发亮的煤玉，jet black 即「乌黑」。
-一串复合词并入本条：jet engine（喷气发动机）、jet lag / jet-lagged（时差反应）、jet propulsion / jet-propelled（喷气推进）、
-jet stream（急流）、jet-setter / jet-setting（出入上流社会、到处飞的富人）、jet-skiing（水上摩托运动）。
-① The jet took off and disappeared into the clouds.
-= 喷气式飞机起飞了，消失在云层里。
-a jet = 喷气式飞机
-② A jet of water shot out of the broken pipe and soaked the wall.
-= 一股水从破裂的管子里喷出来，浇湿了墙。
-a jet of water = 一股水
-③ She jets around the world for her work, sometimes visiting three countries in a week.
-= 她为工作满世界飞，有时一周跑三个国家。
-jet around the world = 满世界飞
-④ The model has jet black hair and pale skin.
-= 那位模特一头乌黑的头发，皮肤白皙。
-jet black = 乌黑的
-⑤ The noise of the jet engines was so loud that we couldn't hear each other.
-= 喷气发动机的噪音太大，我们彼此都听不见。
-a jet engine = 喷气发动机
-⑥ I always suffer from jet lag after flying to Asia.
-= 我飞到亚洲后总会倒时差。
-jet lag = 时差反应
-be jet-lagged = 有时差反应
-⑦ The first jet-propelled aircraft flew in 1939.
-= 第一架喷气推进飞机于一九三九年试飞。
-jet-propelled = 喷气推进的
-jet propulsion = 喷气推进
-⑧ Strong winds in the jet stream help planes flying east to save fuel.
-= 急流中的强风帮助向东飞的飞机节省燃油。
-the jet stream = 急流
-⑨ The resort is popular with jet-setters who arrive by private plane.
-= 那个度假胜地很受乘私人飞机前来的富豪们欢迎。
-a jet-setter = 周游世界的富豪
-the jet-setting lifestyle = 富豪们周游世界的生活方式
-⑩ They spent the afternoon jet-skiing across the lake.
-= 他们整个下午都在湖上玩水上摩托。
-jet-skiing = 水上摩托运动
-
-jetfoil
-核心：喷水推进水翼船 —— 一种靠喷水推进、船身能抬离水面高速行驶的客船。
-① The jetfoil crosses from Hong Kong to Macau in about an hour.
-= 喷射水翼船从香港到澳门大约一个小时。
-the jetfoil = 喷射水翼船
-② Rough seas forced the company to cancel all jetfoil services that afternoon.
-= 风浪太大，公司被迫取消了当天下午所有的喷射水翼船航班。
-jetfoil services = 喷射水翼船航班
-
-jetliner
-核心：（美）喷气式客机 —— 大型的喷气式民航飞机。
-① The new jetliner can carry more than four hundred passengers.
-= 那款新型喷气式客机能载四百多名乘客。
-a jetliner = 喷气式客机
-② A jetliner made an emergency landing after one of its engines failed.
-= 一架喷气式客机在一台发动机失灵后紧急降落。
-make an emergency landing = 紧急降落
-
-jetpack
-核心：喷气背包 —— 背在身上、能让人飞起来的喷气装置，多见于科幻与表演。
-① In the film, the hero escapes by flying over the city with a jetpack.
-= 电影里，主人公背着喷气背包飞过城市逃走了。
-a jetpack = 喷气背包
-② Engineers are testing a jetpack that could be used by rescue teams in the mountains.
-= 工程师们正在测试一种可供山区救援队使用的喷气背包。
-test a jetpack = 测试喷气背包
-
-jetsam
-核心：（船只遇险时）抛弃的货物 —— 常与 flotsam（漂浮的残骸）连用：flotsam and jetsam（漂浮物；比喻零碎杂物、被社会遗弃的人）。
-① The beach was covered in flotsam and jetsam after the storm.
-= 暴风雨过后，海滩上满是漂浮的残骸和抛弃物。
-flotsam and jetsam = 漂浮物、零碎杂物
-② The crew threw cargo overboard, and the jetsam washed up on the shore days later.
-= 船员把货物扔进海里，几天后那些抛弃物被冲上了岸。
-jetsam = 抛弃的货物
