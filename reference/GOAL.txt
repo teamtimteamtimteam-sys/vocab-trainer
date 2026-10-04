@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-04，第六十七轮）═══
-B 词表 13391 条、义项 47981 条，词典序 a → leeway。A 表 3002 条。
+═══ 现状（2026-10-04，第六十八轮）═══
+B 词表 13457 条、义项 48240 条，词典序 a → lest。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -28,7 +28,7 @@ B 词表 13391 条、义项 47981 条，词典序 a → leeway。A 表 3002 条�
     与窄专业、专名残片共 28 条；inflections 补 jehad→jihad、jerrymander(ing)→gerrymander(ing)；
     audit-idioms 补 j 段十五个大词。
   **k 字母收完**（414/417，余下 kola nut 等 3 条待推迟）。a–k 十一个字母都已收完。kph 照 kg 的先例剔；Komodo dragon 并进 dragon 条。
-  **l 字母在写**（清单约 1727 条）：la- 段收完（397/401）；le- 段写到 leeway（36 条），le- 还剩待新写 127 条 + left。
+  **l 字母在写**（清单约 1727 条）：la- 段收完（397/401）；le- 段写到 lest（102 条），le- 还剩待新写 34 条。
     开段准备已做：L 段大写词头收 32 条（判语见 proper-nouns-keep 的 L 段注释）；exclude 补 39 条（la- 段的印度、南非、澳新词，
     语音学 / 医学 / 元素窄专业，小写缩写 lb / lbw / l.c. / ll / lm 等）；inflections 补 labor 一族、lah→la、laid→lay、lain→lie；
     audit-idioms 补 la- 段十四个大词（labour、lack、lady、lamb、land、language、lap、large、last、late、laugh、launch、law、lay）。
@@ -38,15 +38,19 @@ B 词表 13391 条、义项 47981 条，词典序 a → leeway。A 表 3002 条�
     医学 lentigo / leucocyte，lector / lectrice / legate / legatee 等窄专业，书名残片）；inflections 补 led / leaves / lent / let’s / left→leave；
     audit-idioms 补 lead、leaf、league、lean、leap、learn、least、leave、left、leg、lend、length、less、lesson、let、letter、level、leisure。
     **li- / lo- / lu- / ly- 各段的准备还没做。**
-    本轮三批：lea → leaflet 9 条（lead 30 义，两个同形词写在一条里；leading 10 义、leaf 10 义）、
-    league → least 11 条（lean 13 义、learn 12 义、leap 11 义、least 10 义）、leather → leeway 16 条（leave 23 义、lecture 9 义）。
-    被拦的：leave 条里 left 不被认作词形（audit-padding 报「例句里没有词」）→ 登 inflections，照 felt→feel 的先例；
-    **登了以后 coverage 不再把 left 列进待新写，但「左」那一支仍要单立词条，别漏。**
-    leadership、least、leer 例句偏薄；lead ⑳ 与 leash ①、lee ② 与 leeward ① 场景撞车。
-  **下一批从 left 起**：left（左；并 left-hand / left-hand drive、left-handed 一族、left wing / left-winger、left field、left-of-centre、
-    left luggage office）、leftie / lefty、leftism / leftist、leftmost、leftover、leftward，然后 leg（大词）、legacy、legal 一族（legal aid /
-    age / eagle / high / holiday / pad / proceedings / tender、legalese、legalistic、legality、legalize）、legation、legato、legend 一族、
-    legerdemain、leggings、leggy、legible 一族、legion 一族、legislate 一族、legit、legitimate 一族、legless、legroom、legume、legwork。
+    本轮三批：left → leggy 19 条（left 16 义，「左」已单立；leg 16 义、legal 12 义）、legible → lend 22 条（lend 13 义、lemon 11 义、
+    leisure 8 义；leisurely 是形容词，登 derived-keep 单立）、length → lest 25 条（less 11 义、length 10 义、lesson 7 义）。
+    legionnaires' disease 并进 disease 条。
+    被拦的：audit-ab 报缺 pull someone's leg（B 写的是 somebody's，两种都留了等式）、take lessons；
+    audit-padding 判 lend ①② 等式相同（lend sb sth / lend sth to sb 剥掉占位词后一样）→ 第二条等式改成具体搭配；
+    legality、legitimate、leisurely、leitmotif、lesbian、lesson 例句偏薄。
+  **下一批收完 le- 段**：let（大词，并 let’s、let down / in for / in on / into / off / on / out / up、letting）、lethal（并 lethally）、
+    lethargy（并 lethargic）、letter（并 letterbox、letterhead、lettering、letter bomb / box / carrier / opener、letter of credit、
+    letter-perfect、letter-size）、lettuce、leukaemia、levee、level（大词，并 leveller、levelly、level at / down / off / out / up / with、
+    level-headed、level against）、lever、leverage（并 leveraged buyout）、leveret、leviathan、levitate、levity、levy、lewd、
+    lexical（并 lexis、lexical meaning / unit）、lexicography、lexicon。lese-majesty 待推迟。
+    **然后进 li- 段，先做该段的开段准备**（exclude、inflections：lain→lie、lit→light、lice→louse 等、audit-idioms：lie、life、lift、light、like、
+    line、link、lip、list、listen、little、live 等大词）。
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
