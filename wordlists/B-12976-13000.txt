@@ -398,3 +398,13 @@ a kerosene lamp = 煤油灯
 = 喷气发动机烧的是一种煤油。
 kerosene = 煤油
 不可数。
+
+kestrel
+核心：红隼 —— 一种小型猛禽，常悬停在空中寻找猎物。
+① A kestrel hovered over the field, looking for mice.
+= 一只红隼在田野上空悬停，寻找老鼠。
+a kestrel = 红隼
+② We watched the kestrel drop like a stone onto its prey.
+= 我们看着那只红隼像石头一样俯冲向猎物。
+the kestrel = 那只红隼
+悬停捕猎是它最显著的特点。

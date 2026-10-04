@@ -10,7 +10,7 @@
 B 10000
 
 ═══ 现状（2026-10-04，第六十三轮）═══
-B 词表 13191 条、义项 47073 条，词典序 a → lacuna。A 表 3002 条。
+B 词表 13192 条、义项 47074 条，词典序 a → lacy。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -28,7 +28,7 @@ B 词表 13191 条、义项 47073 条，词典序 a → lacuna。A 表 3002 条�
     与窄专业、专名残片共 28 条；inflections 补 jehad→jihad、jerrymander(ing)→gerrymander(ing)；
     audit-idioms 补 j 段十五个大词。
   **k 字母收完**（414/417，余下 kola nut 等 3 条待推迟）。a–k 十一个字母都已收完。kph 照 kg 的先例剔；Komodo dragon 并进 dragon 条。
-  **l 字母在写**（清单 1754 条）：la- 段写到 lacuna（24 条）。
+  **l 字母在写**（清单 1754 条）：la- 段写到 lacy（25 条；lacy 与 lace 前四字母对不上，单立）。
     开段准备已做：L 段大写词头收 32 条（判语见 proper-nouns-keep 的 L 段注释）；exclude 补 39 条（la- 段的印度、南非、澳新词，
     语音学 / 医学 / 元素窄专业，小写缩写 lb / lbw / l.c. / ll / lm 等）；inflections 补 labor 一族、lah→la、laid→lay、lain→lie；
     audit-idioms 补 la- 段十四个大词（labour、lack、lady、lamb、land、language、lap、large、last、late、laugh、launch、law、lay）。
