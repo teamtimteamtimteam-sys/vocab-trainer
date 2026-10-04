@@ -207,3 +207,4 @@ led          lead           # 不规则过去式、过去分词；在 lead 条�
 leaves       leaf           # 不规则复数；在 leaf 条配例句
 lent         lend           # 不规则过去式、过去分词；在 lend 条配例句
 let’s        let            # 缩略式；在 let 条配例句
+left         leave          # 不规则过去式、过去分词；left 另有「左」一支，另立词条
