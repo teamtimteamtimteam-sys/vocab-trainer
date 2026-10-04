@@ -1,3 +1,50 @@
+lewd
+核心：淫秽的、下流的 —— 粗俗地涉及性的。副词 lewdly 与名词 lewdness 并入本条。
+① He was thrown out of the bar for making lewd remarks to the staff.
+= 他因对店员说下流话被赶出了酒吧。
+lewd remarks = 下流话
+② The drunk men sang lewd songs on the last train home.
+= 那几个醉汉在回家的末班火车上唱下流歌曲。
+lewd songs = 下流歌曲
+③ He winked lewdly at her across the room.
+= 他隔着屋子下流地朝她挤了挤眼。
+wink lewdly = 下流地挤眼
+④ The man was fined for public lewdness in the park.
+= 那个男人因在公园里有伤风化的行为被罚款。
+public lewdness = 公然猥亵、有伤风化
+
+lexical
+核心：（语言学）词汇的、与词有关的。副词 lexically 与名词 lexis（一门语言的全部词汇）并入本条；
+术语 lexical meaning（词汇意义）、lexical unit（词汇单位）也并在这里。
+① The two dialects have the same grammar but many lexical differences.
+= 那两种方言语法相同，但词汇上差异很多。
+lexical differences = 词汇差异
+② The lexical meaning of a word is the meaning you find in a dictionary.
+= 一个词的词汇意义就是词典里查到的那个意思。
+lexical meaning = 词汇意义
+与 grammatical meaning（语法意义）相对。
+③ A phrasal verb is treated as a single lexical unit.
+= 短语动词被当作一个词汇单位来处理。
+a lexical unit = 词汇单位
+④ The two languages are lexically similar, so speakers can read each other's newspapers.
+= 那两种语言词汇上相近，所以说这两种话的人能看懂对方的报纸。
+lexically similar = 词汇上相近
+⑤ The course covers both the grammar and the lexis of business English.
+= 那门课既讲商务英语的语法，也讲它的词汇。
+lexis = （一门语言的）词汇
+
+lexicography
+核心：词典编纂（学）—— 编写词典的工作和学问。名词 lexicographer（词典编纂者）并入本条。
+① She has worked in lexicography for thirty years, mostly on learners' dictionaries.
+= 她做了三十年词典编纂，主要是编学习词典。
+work in lexicography = 从事词典编纂
+② Computers have changed lexicography by giving editors millions of real examples.
+= 计算机给编者提供了几百万条真实例句，改变了词典编纂。
+change lexicography = 改变词典编纂
+③ The lexicographer spent a whole week on the entry for one small word.
+= 那位词典编纂者在一个小词的词条上花了整整一个星期。
+a lexicographer = 词典编纂者
+
 lexicon
 核心：（某语言、某领域、某人的）全部词汇；（古希腊语等的）词典。
 ① Within a few years, the new word had entered the lexicon of everyday English.
@@ -278,71 +325,3 @@ a library of records = 一批唱片收藏
 ④ The program uses a free library for drawing charts.
 = 那个程序用一个免费的库来画图表。
 a library = （计算机）库
-
-libretto
-核心：（歌剧、音乐剧的）剧本、唱词。复数 librettos 或 libretti。作者叫 librettist，并入本条。
-① The composer wrote the music, and a poet wrote the libretto.
-= 作曲家写了音乐，一位诗人写了唱词。
-write the libretto = 写歌剧唱词
-② The opera has wonderful music but a weak libretto.
-= 那部歌剧音乐很美，剧本却弱。
-a weak libretto = 弱的剧本
-③ The librettist based the story on an old French play.
-= 那位剧本作者把故事建立在一出法国老戏上。
-a librettist = 歌剧剧本作者
-意大利语「小书」。
-
-Libyan
-核心：利比亚的；利比亚人。
-① The Libyan desert covers most of the country and is crossed by only a few roads.
-= 利比亚沙漠覆盖了那个国家的大部分土地，只有几条公路穿过。
-the Libyan desert = 利比亚沙漠
-国名是 Libya，在北非。
-② Most Libyans live in the cities along the coast, where the winter rains fall.
-= 大多数利比亚人住在沿海的城市里，那里冬天有雨。
-a Libyan = 利比亚人
-
-license
-核心：（动词）给…发许可证、批准。名词 licence（许可证、执照）英式拼 licence，美式名词动词都拼 license。
-形容词 licensed（有执照的；获准卖酒的）、名词 licensee（持照人，尤指酒馆老板）并入本条；
-搭配 licensing laws（英：售酒法规）、license plate（美：车牌）、license number（美：车牌号）、
-licensed victualler（英，正式：持照卖酒的店主）。
-① The restaurant is licensed to sell wine and beer.
-= 那家餐馆获准出售葡萄酒和啤酒。
-be licensed to do something = 获准做…
-② The drug has not yet been licensed for use in children.
-= 那种药尚未获准用于儿童。
-be licensed for use = 获准使用
-③ You need a license to fish in this river.
-= 在这条河里钓鱼要有许可证。
-a license = （美式拼法）许可证
-英式名词拼 licence。
-④ We had lunch at a licensed cafe by the harbour.
-= 我们在港口边一家有售酒执照的咖啡馆吃了午饭。
-a licensed cafe = 有售酒执照的咖啡馆
-⑤ The licensee of the pub was fined for selling drinks after hours.
-= 那家酒馆的老板因超时卖酒被罚款。
-the licensee = 持照人、酒馆老板
-⑥ Under the licensing laws, pubs could not open on Sunday afternoons.
-= 根据售酒法规，酒馆星期天下午不得营业。
-licensing laws = （英）售酒法规
-⑦ The witness wrote down the license plate of the car.
-= 目击者记下了那辆车的车牌。
-a license plate = （美）车牌
-英式说 number plate。
-⑧ The police traced the owner through the license number.
-= 警察通过车牌号查到了车主。
-a license number = （美）车牌号
-⑨ His father was a licensed victualler who ran a pub in Leeds.
-= 他父亲是持照卖酒的店主，在利兹开一家酒馆。
-a licensed victualler = （英，正式）持照卖酒的店主
-
-licentious
-核心：（正式，贬）放荡的、纵欲的。名词 licentiousness 并入本条。
-① The court of the old king was famous for its licentious behaviour.
-= 老国王的宫廷以放荡的行为闻名。
-licentious behaviour = 放荡的行为
-② The priest spoke against the licentiousness of the city's theatres.
-= 神父抨击城里剧院的淫靡之风。
-licentiousness = 放荡
-和 license 同源：自由过了头。
