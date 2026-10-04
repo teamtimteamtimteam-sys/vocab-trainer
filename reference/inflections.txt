@@ -220,3 +220,7 @@ likable      likeable       # 拼法变体；在 likeable 条配例句
 livable      liveable       # 拼法变体；在 liveable 条配例句
 lay          lie            # lie（躺）的不规则过去式；lay 另是独立动词「放」，已单立词条
 lying        lie            # 现在分词，拼法不规则（ie→y）
+loaves       loaf           # 不规则复数；在 loaf 条配例句
+loci         locus          # 不规则复数；在 locus 条配例句
+lost         lose           # 不规则过去式、过去分词；lost 另有形容词用法，另立词条
+loth         loath          # 拼法变体；在 loath 条配例句
