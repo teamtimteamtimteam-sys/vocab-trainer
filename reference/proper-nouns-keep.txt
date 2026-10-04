@@ -915,3 +915,45 @@ Kraut
 Kuwaiti
 Kwanzaa
 Kyrgyz
+
+# --- L 段（2026-10-04 逐条过完）---
+# 收：族群与语言名、国民称呼、宗教与学说、星座、已成普通词汇的表达（a Lolita、a Lothario、
+# a Luddite、Lilliputian）、病名（Lassa fever、Lyme disease）、冒犯性旧称 Limey（词条里注明）。
+# 剔：纯人名（Laura / Liam / Lucy…）、纯地名（Laos / Leeds / London / Luxembourg…）、
+# 商标（Lego™ / Lycra™ / Linux™ / Lurex™ / Librium™…）、全大写缩写（LCD / LGBT / LOL / LP / LSD / LARP…）、
+# 称谓缩写（Lt / Ltd / Lieut. / Lab.）、机构与商号（Ladbrokes / Lloyds / Littlewoods / Lord's）、
+# 地区变体的专名（Lallans 苏格兰、Lahnda 印巴、Luo 东非）、单个人名典故与神话地名（Linnaean / Lazarus / Lethe /
+# Lyonesse / Laurasia）、窄品种与地方食物（Lakeland terrier / Lipizzaner / Leyland cypress / Lancashire hotpot /
+# Lambrusco / Liebfraumilch / Lincoln green）。Latin lover 不单列，写进 Latin 条。
+L-plate
+Labrador
+Lamaism
+Lao
+Laotian
+Lassa fever
+Latin
+Latina
+Latinate
+Latino
+Latvian
+Lebanese
+Leninism
+Leninist
+Leo
+Liberian
+Libra
+Libran
+Libyan
+Liechtensteiner
+Lilliputian
+Limey
+Lithuanian
+Liverpudlian
+Lolita
+Londoner
+Lothario
+Lucifer
+Luddite
+Lutheran
+Luxembourger
+Lyme disease

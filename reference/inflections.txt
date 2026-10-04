@@ -193,3 +193,12 @@ kaffiyeh     keffiyeh       # 拼法变体；在 keffiyeh 条配例句
 kelim        kilim          # 拼法变体；在 kilim 条配例句
 ker-ching    ka-ching       # 拼法变体；在 ka-ching 条配例句
 kybosh       kibosh         # 拼法变体；在 kibosh 条配例句
+labor        labour         # 美式拼法；本表以 labour 为词头，labor union 靠它找到宿主
+labored      laboured       # 美式拼法
+laborer      labourer       # 美式拼法
+laboring     labouring      # 美式拼法
+lah          la             # 拼法变体；在 la 条配例句
+lah-di-dah   la-di-da       # 拼法变体；在 la-di-da 处配例句
+ladies-fingers  ladies' fingers  # 连字符写法
+laid         lay            # 不规则过去式、过去分词；在 lay 条配例句
+lain         lie            # 不规则过去分词；在 lie 条配例句

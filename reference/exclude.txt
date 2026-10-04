@@ -704,3 +704,42 @@ king's cross # 地名残片
 king's road  # 地名残片
 king's college-cambridge  # 机构名残片
 kph          # 小写单位缩写，同 cwt / kg 一律剔除
+laager       # 南非英语（车阵营地），地区变体
+labial       # 语音学窄专业（唇音）
+labiodental  # 语音学窄专业
+labiovelar   # 语音学窄专业
+labyrinthitis  # 医学窄专业（迷路炎）
+lactobacillus  # 微生物学窄专业
+lactoprotein # 生化窄专业
+laddu        # 印度甜食，地区变体
+ladoo        # 同 laddu
+lakh         # 印度英语（十万），地区变体
+laksa        # 东南亚食物名，同 kameez / kurta 的先例剔
+lamington    # 澳新糕点，地区变体
+langar       # 锡克教公共厨房，印度英语
+langra       # 印度芒果品种
+lapa         # 南非英语（庭院凉棚）
+larney       # 南非英语
+larrikin     # 澳新英语
+lathi        # 印度英语（警棍）
+lassi        # 印度饮品，地区变体
+langlauf     # 越野滑雪的德语叫法，窄专业
+langouste    # 龙虾的法语叫法，窄专业；langoustine 照收
+langue       # 语言学窄专业（索绪尔术语）
+lanternfish  # 鱼类窄专业
+lanthanum    # 化学元素，窄专业（同 indium）
+lawrencium   # 化学元素，窄专业
+laparotomy   # 外科窄专业；laparoscopy 照收
+lavage       # 医学窄专业（灌洗）
+lawks        # 旧式感叹词，已废
+lastminute.com  # 商号
+lat.         # 缩写
+lb           # 小写单位缩写，同 cwt / kg 一律剔除
+lbw          # 板球术语缩写
+l.c.         # 缩写
+l.h.         # 缩写
+ll           # 缩写
+lm           # 小写单位缩写
+lloyd's of-london  # 机构名残片
+la-nina      # 气象专名，窄专业
+lady-chatterley's lover  # 书名残片
