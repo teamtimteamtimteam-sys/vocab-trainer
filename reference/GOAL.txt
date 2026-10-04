@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-04，第七十轮）═══
-B 词表 13557 条、义项 48742 条，词典序 a → limestone。A 表 3002 条。
+═══ 现状（2026-10-04，第七十一轮）═══
+B 词表 13599 条、义项 48923 条，词典序 a → lipstick。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -28,7 +28,7 @@ B 词表 13557 条、义项 48742 条，词典序 a → limestone。A 表 3002 �
     与窄专业、专名残片共 28 条；inflections 补 jehad→jihad、jerrymander(ing)→gerrymander(ing)；
     audit-idioms 补 j 段十五个大词。
   **k 字母收完**（414/417，余下 kola nut 等 3 条待推迟）。a–k 十一个字母都已收完。kph 照 kg 的先例剔；Komodo dragon 并进 dragon 条。
-  **l 字母在写**（清单约 1688 条）：la- 段收完（397/401）、le- 段收完（298/299）；li- 段写到 limestone（81 条），li- 还剩待新写约 133 条。
+  **l 字母在写**（清单约 1688 条）：la- 段收完（397/401）、le- 段收完（298/299）；li- 段写到 lipstick（123 条），li- 还剩待新写约 74 条。
     开段准备已做：L 段大写词头收 32 条（判语见 proper-nouns-keep 的 L 段注释）；exclude 补 39 条（la- 段的印度、南非、澳新词，
     语音学 / 医学 / 元素窄专业，小写缩写 lb / lbw / l.c. / ll / lm 等）；inflections 补 labor 一族、lah→la、laid→lay、lain→lie；
     audit-idioms 补 la- 段十四个大词（labour、lack、lady、lamb、land、language、lap、large、last、late、laugh、launch、law、lay）。
@@ -43,17 +43,17 @@ B 词表 13557 条、义项 48742 条，词典序 a → limestone。A 表 3002 �
     inflections 补 lied→lie、lit→light、lives→life、lice→louse 与拼法变体 lichee / litchi→lychee、licorice→liquorice、liter→litre、
     likable→likeable、livable→liveable；audit-idioms 补 liberty、lick、lid、lie、life、lift、light、like、likely、limb、limit、line、lion、lip、
     listen、little、live、living。**lo- / lu- / ly- 各段的准备还没做。**
-    本轮三批：lie → lifetime 22 条（life 39 义，二十来个 life + 名词与七个 life- 形容词全并；lie 20 义，躺 / 说谎两个同形词写在一条）、
-    lift → lightweight 11 条（light 45 义，光 / 轻两个同形词写在一条；lift 11 义；lightly 登 derived-keep 单立）、
-    like → limestone 20 条（like 20 义、likely 7 义、lime 7 义；likely 登 derived-keep）。lima bean 并进 bean 条。
-    被拦的：lie 条里 lay / lying 不被认作词形 → 登 inflections（lay→lie，照 left→leave 的先例；lay 条已单立不受影响）；
-    life 小词一族加 light 45 义落进同一切块，讲解行密度低于基线，补了三十多行；
-    like 一族六条例句偏薄（like 20 条例句平均不到 9 个词）—— 高频小词的例句最容易写短，下笔就要带场景。
-  **下一批从 Limey 起**：Limey、limit（并 limiting、limitless、limit to、off limits）、limitation、limited（并 limited company / liability）、
-    limousine（并 limo）、limp（并 limply）、limpet（并 limpet mine）、limpid、linchpin、linctus、linden，然后 line（大词，并 line up、
-    line dancing / drawing / drive / item / manager / management / of credit / of sight / printer、line-out、line-caught、lined）、lineage、lineal、
-    linear 一族、linebacker、lineman、linen、liner（并 liner note）、linesman、linger 一族、lingerie、lingo、lingua franca、linguine、
-    linguist 一族、liniment、lining、link 一族、links、linnet、lino / linoleum / linocut、linseed、lint、lintel。
+    本轮三批：Limey → linden 11 条（limit 11 义）、line → linesman 9 条（line 40 义，十个习语、十来个 line + 名词搭配全并）、
+    linger → lipstick 22 条（lip 15 义、link 12 义）。
+    被拦的：audit-swallowed 报 liner note（等式写成了复数）、lip balm（只在讲解行里）；audit-ab 报缺 read someone's lips；
+    line 40 义落进的切块讲解行密度低于基线，补了近三十行；linchpin、linger、liposuction 例句偏薄。
+    **规律：三四十义的大词必然把所在切块的讲解行密度拉到基线以下，写大词时至少一半义项要配讲解行。**
+  **下一批从 liquefy 起**：liquefy、liqueur、liquid（并 liquid crystal display、liquid paraffin）、liquidate 一族、liquidity、liquidize（并 liquidizer）、
+    liquor（并 liquor store）、liquorice（并 licorice、liquorice allsorts）、lira、lisp、lissom、list（并 listing、listicle、list box / price、listed building）、
+    listen（并 listener、listenable、listen for / in / out for / up、listening post）、listeria、listless 一族、litany、lite、literacy、literal 一族、
+    literary（并 literary agent）、literate、literati、literature、lithe、lithium、lithograph 一族、Lithuanian、litigate 一族、litmus（并 litmus test）、
+    litre、litter（并 litter bin / lout）、little（大词）、littoral、liturgy 一族、live（大词，两个读音）、liveable、lived-in、livelihood、lively、liven、
+    liver、Liverpudlian、livery、livestock、livid、living、lizard。
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
