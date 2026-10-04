@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-04，第六十二轮）═══
-B 词表 13135 条、义项 46913 条，词典序 a → knucklehead。A 表 3002 条。
+═══ 现状（2026-10-04，第六十三轮）═══
+B 词表 13191 条、义项 47073 条，词典序 a → lacuna。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -27,20 +27,19 @@ B 词表 13135 条、义项 46913 条，词典序 a → knucklehead。A 表 3002
     开段准备已做：J 段大写词头判完（收 31 条进 proper-nouns-keep）；exclude 补印度、南非东非、澳新、苏格兰变体
     与窄专业、专名残片共 28 条；inflections 补 jehad→jihad、jerrymander(ing)→gerrymander(ing)；
     audit-idioms 补 j 段十五个大词。
-  **k 字母在写**（清单 418 条，已收 379）：ka- 到 kn- 收完；还剩 ko- / kp- / kr- / ku- / kv- / kw- / ky-（待新写 35 条）。
-    开段准备已做：K 段大写词头收 22 条；exclude 补 64 条（k 段印度、东非西非、南非、澳新、苏格兰借词多，逐条判过；
-    印度服饰 kameez / kurta 照 achkan / dhoti 的先例剔）；小写单位缩写 kg / km / kHz / kW 等照 cwt 的先例剔；
-    inflections 补 kept / knelt / knew / knives 与六个拼法变体；audit-idioms 补 keep / key / kick / kill / kind / knock / know 等十四个大词。
-    本轮三批：kleptocracy → knob 23 条（kl- 段收完；knee 8 义、knife 7 义、knight 7 义、knit 9 义）、
-    knock → knotty 7 条（knock 32 义，短语动词与复合词全并进来）、know → knucklehead 8 条（know 25 义；
-    knowingly / knowledgeably 并进形容词，known 单立）—— kn- 段收完。
-    被拦的：audit-idioms 报缺 bring to its knees（等式写成了带 something 的占位形）；knave 例句偏薄；
-    audit-swallowed 报 knock around together、knock knees 只在讲解行里（改成等式）。
-  **下一批从 ko- 段起**：koala、kohl、kohlrabi、koi、kook（并 kooky）、kookaburra、kop、Koran（并 Koranic）、Korean、
-    korfball、kosher、kowtow；Komodo dragon 挂 dragon 名下（用 add-sense.py 补进 dragon 条）；kola nut 待推迟。
-    然后 kph、kr-（krait、kraken、Kraut、krill、kris、krona、krone、krummhorn、krypton、kryptonite）、
-    ku-（kudos、kudu、kudzu、kumquat、kung fu、Kuwaiti）、kvetch、Kwanzaa、kwashiorkor、Kyrgyz。
-    k 收完后开 l 字母（先做开段准备：大写词头、exclude、inflections、audit-idioms 大词清单）。
+  **k 字母收完**（414/417，余下 kola nut 等 3 条待推迟）。a–k 十一个字母都已收完。kph 照 kg 的先例剔；Komodo dragon 并进 dragon 条。
+  **l 字母在写**（清单 1754 条）：la- 段写到 lacuna（24 条）。
+    开段准备已做：L 段大写词头收 32 条（判语见 proper-nouns-keep 的 L 段注释）；exclude 补 39 条（la- 段的印度、南非、澳新词，
+    语音学 / 医学 / 元素窄专业，小写缩写 lb / lbw / l.c. / ll / lm 等）；inflections 补 labor 一族、lah→la、laid→lay、lain→lie；
+    audit-idioms 补 la- 段十四个大词（labour、lack、lady、lamb、land、language、lap、large、last、late、laugh、launch、law、lay）。
+    **le- / li- / lo- / lu- / ly- 各段的 exclude 与 audit-idioms 还没做**，写到那一段之前先逐条过一遍。
+    labour 不在清单里（清单只有 labour under、labourer 等），照样单立为词条做宿主。
+    本轮三批：koala → Kyrgyz 32 条（k 收完）、l 开段准备、la → lacuna 24 条（labour 19 义、lack 7 义、lace 7 义）。
+    被拦的：ko–ky 一批等式密度 2.05 低于基线（补了 krona / krone 的国别搭配与 kung fu 第三义）；kp 段剔空后 audit-depth 报「没有匹配」，属正常。
+  **下一批从 lad 起**：lad（并 laddie / laddish / ladette）、ladder、laden、ladies' fingers、lading、ladle（并 ladle out）、
+    lady 一族（ladybird、ladyboy、ladyfinger、ladykiller、ladylike、ladyship；并 lady-in-waiting、ladies' man、ladies-day）、
+    lag（并 laggy、laggard）、lager（并 lager lout）、lagoon、lair、laird、lairy、laissez-faire、laity、lake 一族、lam、lama、lamb…
+    多词条目写前先 grep 清单里以该词打头的条目，按重心并进 la- 词条。
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
