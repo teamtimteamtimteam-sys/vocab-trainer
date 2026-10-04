@@ -703,3 +703,4 @@ king's lynn  # 地名残片
 king's cross # 地名残片
 king's road  # 地名残片
 king's college-cambridge  # 机构名残片
+kph          # 小写单位缩写，同 cwt / kg 一律剔除
