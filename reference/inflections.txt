@@ -203,3 +203,7 @@ laid         lay            # 不规则过去式、过去分词；在 lay 条配
 lain         lie            # 不规则过去分词；在 lie 条配例句
 lazily       lazy           # 副词并进形容词后，前四字母对不上
 laziness     lazy           # 名词并进形容词后，前四字母对不上
+led          lead           # 不规则过去式、过去分词；在 lead 条配例句
+leaves       leaf           # 不规则复数；在 leaf 条配例句
+lent         lend           # 不规则过去式、过去分词；在 lend 条配例句
+let’s        let            # 缩略式；在 let 条配例句
