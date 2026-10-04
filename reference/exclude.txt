@@ -743,3 +743,5 @@ lm           # 小写单位缩写
 lloyd's of-london  # 机构名残片
 la-nina      # 气象专名，窄专业
 lady-chatterley's lover  # 书名残片
+land's end   # 地名残片
+ladies-fingers  # 清单里 ladies’ fingers 的重复写法，词条已写
