@@ -1,3 +1,13 @@
+kibbutz
+核心：基布兹 —— 以色列的集体农庄，成员共同劳动、共享财产。复数 kibbutzim。
+① She spent a year working on a kibbutz in Israel after leaving school.
+= 中学毕业后，她在以色列的一个集体农庄干了一年。
+a kibbutz = 基布兹、集体农庄
+希伯来语借词，介词用 on。
+② Many kibbutzim now run hotels and factories as well as farms.
+= 如今许多基布兹除了农场，还经营酒店和工厂。
+kibbutzim = 基布兹（复数）
+
 kibitz
 核心：（美，口语）（看别人打牌、下棋时）在旁边多嘴、乱出主意；闲聊。多嘴的旁观者 kibitzer 并入本条。
 ① Stop kibitzing and let me finish the game by myself.
@@ -408,13 +418,3 @@ two kilos of something = 两公斤…
 = 自从骑车上班以来，他瘦了十公斤。
 lose ten kilos = 瘦十公斤
 日常说 kilo，正式写 kilogram。
-
-kilobyte
-核心：千字节 —— 计算机存储单位，约一千字节（严格说是一千零二十四）。同类的 kilobit（千比特）并入本条。
-① The file is only a few kilobytes, so it will download in a second.
-= 那个文件只有几千字节，一秒钟就能下完。
-a kilobyte = 千字节
-② Old modems sent data at fifty-six kilobits per second.
-= 老式调制解调器每秒传输五十六千比特的数据。
-a kilobit = 千比特
-比特是字节的八分之一，多用来说传输速度。

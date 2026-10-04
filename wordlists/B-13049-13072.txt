@@ -1,3 +1,13 @@
+kilobyte
+核心：千字节 —— 计算机存储单位，约一千字节（严格说是一千零二十四）。同类的 kilobit（千比特）并入本条。
+① The file is only a few kilobytes, so it will download in a second.
+= 那个文件只有几千字节，一秒钟就能下完。
+a kilobyte = 千字节
+② Old modems sent data at fifty-six kilobits per second.
+= 老式调制解调器每秒传输五十六千比特的数据。
+a kilobit = 千比特
+比特是字节的八分之一，多用来说传输速度。
+
 kilogram
 核心：千克、公斤 —— 质量的国际单位；英式也拼 kilogramme，口语说 kilo。
 ① The baby weighed three and a half kilograms at birth.
@@ -324,12 +334,3 @@ a kingfisher = 翠鸟
 ② We saw the blue flash of a kingfisher along the bank.
 = 我们看到岸边一只翠鸟掠过的蓝色闪光。
 the flash of a kingfisher = 翠鸟掠过的闪光
-
-kingmaker
-核心：拥立国王者；（比喻）幕后决定谁上台的人、关键少数。
-① With only ten seats, the small party became the kingmaker in the new parliament.
-= 那个小党只有十个席位，却成了新议会里决定谁执政的关键力量。
-the kingmaker = 决定谁上台的人
-② The old newspaper owner was a kingmaker who could end a politician's career.
-= 那位老报业大亨是个幕后造王者，能终结一个政客的生涯。
-a kingmaker = 幕后造王者
