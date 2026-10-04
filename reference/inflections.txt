@@ -208,3 +208,13 @@ leaves       leaf           # 不规则复数；在 leaf 条配例句
 lent         lend           # 不规则过去式、过去分词；在 lend 条配例句
 let’s        let            # 缩略式；在 let 条配例句
 left         leave          # 不规则过去式、过去分词；left 另有「左」一支，另立词条
+lied         lie            # 规则过去式（说谎）；在 lie 条配例句
+lit          light          # 不规则过去式、过去分词；在 light 条配例句
+lives        life           # 不规则复数；在 life 条配例句
+lice         louse          # 不规则复数；在 louse 条配例句
+lichee       lychee         # 拼法变体；在 lychee 条配例句
+litchi       lychee         # 拼法变体；在 lychee 条配例句
+licorice     liquorice      # 美式拼法；在 liquorice 条配例句
+liter        litre          # 美式拼法；在 litre 条配例句
+likable      likeable       # 拼法变体；在 likeable 条配例句
+livable      liveable       # 拼法变体；在 liveable 条配例句
