@@ -976,7 +976,7 @@ CHECK = {
  'lick': ['lick your lips', 'lick your wounds', 'lick into shape'],
  'lid': ['keep a lid on', 'take the lid off', 'flip your lid'],
  'lie': ['lie down', 'lie in', 'lie ahead', 'tell a lie', 'lie low', 'lie in wait', 'lie detector', 'white lie'],
- 'life': ['come to life', 'for life', 'bring to life', 'way of life', 'lose your life', 'save somebody', 'the time of your life', 'life sentence', "that's life", 'full of life'],
+ 'life': ['come to life', 'for life', 'bring to life', 'way of life', 'lose your life', "save somebody's life", 'the time of your life', 'life sentence', "that's life", 'full of life'],
  'lift': ['give somebody a lift', 'lift off', 'lift a finger'],
  'light': ['come to light', 'in the light of', 'shed light on', 'light up', 'set light to', 'see the light', 'make light of', 'light-hearted', 'light year', 'bring to light'],
  'like': ['look like', 'feel like', 'would like', 'like-minded', 'if you like', 'what is it like', 'and the like'],
