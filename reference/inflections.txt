@@ -218,3 +218,5 @@ licorice     liquorice      # 美式拼法；在 liquorice 条配例句
 liter        litre          # 美式拼法；在 litre 条配例句
 likable      likeable       # 拼法变体；在 likeable 条配例句
 livable      liveable       # 拼法变体；在 liveable 条配例句
+lay          lie            # lie（躺）的不规则过去式；lay 另是独立动词「放」，已单立词条
+lying        lie            # 现在分词，拼法不规则（ie→y）
