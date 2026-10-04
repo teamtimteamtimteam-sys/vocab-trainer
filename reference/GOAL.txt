@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-04，第六十五轮）═══
-B 词表 13308 条、义项 47542 条，词典序 a → lather。A 表 3002 条。
+═══ 现状（2026-10-04，第六十六轮）═══
+B 词表 13355 条、义项 47754 条，词典序 a → lazy。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -28,24 +28,20 @@ B 词表 13308 条、义项 47542 条，词典序 a → lather。A 表 3002 条�
     与窄专业、专名残片共 28 条；inflections 补 jehad→jihad、jerrymander(ing)→gerrymander(ing)；
     audit-idioms 补 j 段十五个大词。
   **k 字母收完**（414/417，余下 kola nut 等 3 条待推迟）。a–k 十一个字母都已收完。kph 照 kg 的先例剔；Komodo dragon 并进 dragon 条。
-  **l 字母在写**（清单 1754 条）：la- 段写到 lather（141 条），la- 还剩待新写 72 条。
+  **l 字母在写**（清单 1754 条）：**la- 段收完**（397/401，余下 lain 等 lie、ladies' man 等 m 段）。
     开段准备已做：L 段大写词头收 32 条（判语见 proper-nouns-keep 的 L 段注释）；exclude 补 39 条（la- 段的印度、南非、澳新词，
     语音学 / 医学 / 元素窄专业，小写缩写 lb / lbw / l.c. / ll / lm 等）；inflections 补 labor 一族、lah→la、laid→lay、lain→lie；
     audit-idioms 补 la- 段十四个大词（labour、lack、lady、lamb、land、language、lap、large、last、late、laugh、launch、law、lay）。
     **le- / li- / lo- / lu- / ly- 各段的 exclude 与 audit-idioms 还没做**，写到那一段之前先逐条过一遍。
     labour 不在清单里（清单只有 labour under、labourer 等），照样单立为词条做宿主。
-    本轮三批：lane → lapwing 22 条（language 13 义、lap 15 义、lapse 9 义）、larceny → lasso 21 条（large 10 义、lash 11 义）、
-    last → lather 15 条（last 24 义、late 14 义、later 8 义）。largely / lastly / lately 登 derived-keep 单立。
-    audit-idioms 又补 lane / lapse / lash。
-    被拦的：两个切块讲解行密度低于基线（lane 那批的一串两义词，以及上一轮 land 一族 —— 重切后落进同一块才暴露），
-    各补了二三十行讲解；lapel、latest、lather 例句偏薄；latest 两义译文相似（改了场景与等式）。
-    教训：两义的小词也要每个义项配讲解行，大词的义项多、讲解行少，会把整块的密度拉下去。
-  **下一批从 Latin 起**：Latin（并 Latin lover）、Latina / Latino、Latinate、latitude、latrine、latte、latter（并 latterly、latter-day）、
-    lattice（并 latticed、lattice window）、Latvian、laud 一族（laudable / laudably / laudatory）、laudanum、
-    laugh（大词，并 laugh at / off、laughing stock、laugh track、laugh-out-loud、laughing gas；laughable / laughter 单立）、
-    launch（并 launcher、launch pad、launch into / out）、launder 一族、laundry（并 laundry list）、laureate、laurel（并 laurel wreath）、
-    lav、lava（并 lava lamp）、lavatory 一族、lavender、lavish，然后 law 一族、lawn 一族、lax 一族、lay（大词，并 laid）、layer…lazy。
-    lain 要等 li- 段的 lie。
+    本轮三批：Latin → lavish 24 条（laugh 18 义、launch 12 义）、law → laxative 11 条（law 16 义、lawn 7 义）、
+    lay → lazy 12 条（lay 27 义，十个短语动词全并；lazy 8 义）。Lassa fever 并进 fever，laver bread 并进 bread。
+    被拦的：layperson / laywoman 并进 layman 不被认（前四字母 layp / layw 对不上 laym，audit-padding 报「例句里没有词」）→ 各自单立；
+    lazily / laziness 同理对不上 lazy → 登 inflections；audit-ab 报缺 obey the law；audit-swallowed 报 lay up；
+    laughter、lawyer 例句偏薄；lay ⑲ 与 layover ① 场景撞车。
+  **下一批从 le- 段起，先做开段准备**：逐条过 le- 清单（322 条）判 exclude、补 inflections（led / leant / leapt / learnt / left / lent…）、
+    audit-idioms 补 lead / leaf / lean / leap / learn / least / leave / left / leg / length / less / lesson / let / letter / level 等大词。
+    le- 开头：lea、leach、lead（大词）、leader 一族、leaf 一族、league、leak 一族、lean、leap、learn 一族、lease、leash、least、leather、leave（大词）…
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
