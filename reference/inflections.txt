@@ -201,3 +201,5 @@ lah          la             # 拼法变体；在 la 条配例句
 lah-di-dah   la-di-da       # 拼法变体；在 la-di-da 处配例句
 laid         lay            # 不规则过去式、过去分词；在 lay 条配例句
 lain         lie            # 不规则过去分词；在 lie 条配例句
+lazily       lazy           # 副词并进形容词后，前四字母对不上
+laziness     lazy           # 名词并进形容词后，前四字母对不上
