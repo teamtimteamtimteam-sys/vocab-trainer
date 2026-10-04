@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-04，第七十三轮）═══
-B 词表 13697 条、义项 49326 条，词典序 a → logo。A 表 3002 条。
+═══ 现状（2026-10-04，第七十四轮）═══
+B 词表 13731 条、义项 49503 条，词典序 a → loopy。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -28,7 +28,7 @@ B 词表 13697 条、义项 49326 条，词典序 a → logo。A 表 3002 条。
     与窄专业、专名残片共 28 条；inflections 补 jehad→jihad、jerrymander(ing)→gerrymander(ing)；
     audit-idioms 补 j 段十五个大词。
   **k 字母收完**（414/417，余下 kola nut 等 3 条待推迟）。a–k 十一个字母都已收完。kph 照 kg 的先例剔；Komodo dragon 并进 dragon 条。
-  **l 字母在写**（清单约 1650 条）：la- / le- / li- 三段收完；ll- 收完（llama）；lo- 段写到 logo（47 条），lo- 还剩待新写约 114 条。
+  **l 字母在写**（清单约 1650 条）：la- / le- / li- 三段收完；ll- 收完；lo- 段写到 loopy（81 条），lo- 还剩待新写约 72 条。
     开段准备已做：L 段大写词头收 32 条（判语见 proper-nouns-keep 的 L 段注释）；exclude 补 39 条（la- 段的印度、南非、澳新词，
     语音学 / 医学 / 元素窄专业，小写缩写 lb / lbw / l.c. / ll / lm 等）；inflections 补 labor 一族、lah→la、laid→lay、lain→lie；
     audit-idioms 补 la- 段十四个大词（labour、lack、lady、lamb、land、language、lap、large、last、late、laugh、launch、law、lay）。
@@ -47,13 +47,16 @@ B 词表 13697 条、义项 49326 条，词典序 a → logo。A 表 3002 条。
     locative / logogram / locution / longueurs 等冷僻或窄专业词，橄榄球、航运、物理术语，剧名与板球场专名残片）；
     inflections 补 loaves→loaf、loci→locus、lost→lose、loth→loath；audit-idioms 补 load、lock、log、long、look、loop、loose、lose、loss、lost、
     lot、loud、love、low、lord。**lu- / ly- 两段的准备还没做。**
-    本轮三批：llama → lobster 15 条（load 15 义、loan 8 义；lo 条并入 lo-cal / lo-res / lo-tech）、local → locksmith 13 条（lock 20 义、local 12 义）、
-    loco → logo 20 条（log 14 义、lodge 9 义）。
-    被拦的：audit-swallowed 报 lobotomize（等式只写了被动式）；load、locality、loggerheads、loggia 例句偏薄。
-  **下一批从 loin 起**：loin（并 loincloth）、loiter、Lolita、loll、lollipop（并 lolly、lollipop lady / man）、lollop、Londoner、lone（并 lone parent、
-    lone-parent family）、lonely（并 loneliness、lonely heart）、loner、lonesome，然后 long（大词，并二十来个 long- 复合词）、longboat、longbow、
-    longevity、longhand、longing 一族、longitude 一族、longship、longshoreman、loo、loofah，再到 look（大词，短语动词一大族）。
-    **lost 登了 inflections 后 coverage 不会再提醒，形容词 lost 仍要单立**（同 left）。
+    本轮三批：loin → lonesome 12 条、long → loofah 11 条（long 46 义，二十多个 long- 复合词与八个 long + 名词搭配全并）、
+    look → loopy 11 条（look 39 义，二十来个短语动词全并；loop 9 义）。
+    被拦的：long 与 look 落进同一切块，讲解行密度低于基线，补了三十多行；look 39 条例句偏薄（短语动词的例句最容易只写一个主谓宾），
+    补了十四句的场景；longevity、looker 例句偏薄。
+    一个操作教训：补丁脚本的 glob 要覆盖重切后的文件名（B-136* 与 B-137* 都要带上），否则替换数是 0 而不报错 —— 每次看一眼打印的替换数。
+  **下一批从 loose 起**：loose（并 loosely、looseness、loose change / end / cover / box、loose-leaf、loose-fitting、loose-limbed；loosen 并 loosen up）、
+    loot（并 looter、looting）、lop（并 lop off、lop-eared、lop ears）、lope、lopsided、loquacious（并 loquacity）、loquat、lord（并 lordly、lordship）、
+    lore、lorry、lose（大词，并 loser、lose out）、loss（并 lossless、lossy、loss adjuster、loss-leader、loss-making）、lost（形容词，单立；
+    并 lost cause、lost property、lost and found）、lot、Lothario、lotion、lottery、lotto、lotus、louche、loud 一族、lounge 一族、louse（并 lice、
+    louse up）、lousy、lout、louvre、lovable、love（大词）一族、low（大词）一族、loyal 一族、lozenge。
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
