@@ -14669,6 +14669,10 @@ bread sauce = 面包酱（英式，配烤禽）
 ⑩ The bread tree feeds whole islands and fruits twice in a good year.
 = 面包树养活着整座整座的岛屿，好年头能结两次果。
 bread tree = 面包树
+⑪ In south Wales, laver bread is fried with bacon and served at breakfast.
+= 在威尔士南部，紫菜糊和熏肉一起煎，早饭时吃。
+laver bread = （威尔士）紫菜糊
+名叫 bread，其实是煮烂的海藻。
 构词：古英语 bread
 词族：
 breadwinner = 养家的人
