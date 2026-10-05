@@ -21439,6 +21439,19 @@ machine-readable = 机器可读的
 ⑩ Her mother worked as a machinist in a shirt factory.
 = 她母亲在一家衬衫厂当缝纫工。
 a machinist = 缝纫工；机械工
+⑪ She prefers hand-knitted jumpers to machine-made ones from the big shops.
+= 比起大商店里机器织的套头衫，她更喜欢手织的。
+machine-made = 机器制造的
+与 handmade（手工的）相对。
+⑫ His father worked for forty years in the machine shop of a shipyard.
+= 他父亲在一家造船厂的机加工车间干了四十年。
+a machine shop = 机加工车间
+⑬ The factory makes machine tools such as lathes and drills.
+= 那家工厂生产车床、钻床之类的机床。
+a machine tool = 机床
+⑭ Machine translation is good enough for reading a menu but not for a contract.
+= 机器翻译看个菜单够用，翻合同就不行了。
+machine translation = 机器翻译
 
 machinery
 核心：机器、机械（总称）；机器的运转部件；（比喻）（政府、组织的）机构、体制。不可数。
@@ -23128,6 +23141,10 @@ malted milk = 麦乳精
 ⑥ The loaf is made with malted flour and has a sweet, nutty taste.
 = 那条面包是用加麦芽的面粉做的，有甜甜的坚果味。
 malted flour = 加麦芽的面粉
+⑦ The men on the corner were drinking cans of cheap malt liquor.
+= 街角那几个男人在喝便宜的罐装麦芽酒。
+malt liquor = （美）麦芽酒
+比普通啤酒度数高。
 
 Maltese
 核心：马耳他的；马耳他人（复数不变）；马耳他语。Maltese cross（马耳他十字：四臂末端呈 V 形的十字）并入本条。
@@ -25149,6 +25166,16 @@ of marriageable age = 到了婚龄的
 ⑩ The film is a perfect marriage of music and pictures.
 = 那部电影是音乐与画面的完美结合。
 a marriage of A and B = 两者的结合
+⑪ You need to show your marriage certificate when you apply for the visa.
+= 申请那种签证时要出示结婚证。
+a marriage certificate = 结婚证
+⑫ Thousands of people marched through the city in support of marriage equality.
+= 成千上万的人在城里游行，支持婚姻平权。
+marriage equality = 婚姻平权
+指同性伴侣享有同等的结婚权利。
+⑬ The couple went for marriage guidance before deciding to separate.
+= 那对夫妇先去做了婚姻辅导，才决定分居。
+marriage guidance = （英）婚姻辅导
 
 married
 核心：已婚的；婚姻的；married to（与…结了婚；全身心扑在…上）。常说 get married（结婚）。
@@ -25240,6 +25267,10 @@ marshland = 沼泽地带
 ③ The field is too marshy to grow wheat.
 = 那块地太泥泞，种不了小麦。
 marshy = 沼泽般的、泥泞的
+④ Bubbles of marsh gas rose to the surface of the black water.
+= 一串串沼气泡冒上了黑水的水面。
+marsh gas = 沼气
+主要成分是甲烷。
 
 marshal
 核心：（陆军、空军的）元帅；（美）执法官、警长；（活动、比赛的）司仪、现场管理员。动词：集结、调集；整理（论据、思路）。

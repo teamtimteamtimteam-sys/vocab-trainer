@@ -42,6 +42,19 @@ machine-readable = 机器可读的
 ⑩ Her mother worked as a machinist in a shirt factory.
 = 她母亲在一家衬衫厂当缝纫工。
 a machinist = 缝纫工；机械工
+⑪ She prefers hand-knitted jumpers to machine-made ones from the big shops.
+= 比起大商店里机器织的套头衫，她更喜欢手织的。
+machine-made = 机器制造的
+与 handmade（手工的）相对。
+⑫ His father worked for forty years in the machine shop of a shipyard.
+= 他父亲在一家造船厂的机加工车间干了四十年。
+a machine shop = 机加工车间
+⑬ The factory makes machine tools such as lathes and drills.
+= 那家工厂生产车床、钻床之类的机床。
+a machine tool = 机床
+⑭ Machine translation is good enough for reading a menu but not for a contract.
+= 机器翻译看个菜单够用，翻合同就不行了。
+machine translation = 机器翻译
 
 machinery
 核心：机器、机械（总称）；机器的运转部件；（比喻）（政府、组织的）机构、体制。不可数。
