@@ -1,103 +1,3 @@
-métier
-核心：（正式）擅长的行当、专长。
-① She tried teaching and banking before she found her true métier as a writer.
-= 她试过教书和银行业，才找到自己真正的专长：写作。
-your true métier = 真正的专长
-② Comedy is his métier, and he looks uncomfortable in serious parts.
-= 喜剧是他的本行，演正剧角色他显得别扭。
-his métier = 他的本行
-法语借词，读如 met-ee-ay。
-
-metric
-核心：公制的、米制的；名词（商业用语）：衡量指标。
-形容词 metrical（诗的格律的）与名词 metrication（改用公制）并入本条；metric ton（公吨，一千公斤）也在这里。
-① Most of the world uses the metric system of weights and measures.
-= 世界上大多数国家使用公制度量衡。
-the metric system = 公制
-② The bridge can carry lorries of up to forty metric tons.
-= 那座桥可通行最重四十公吨的卡车。
-a metric ton = 公吨
-③ Sales per customer is the most useful metric for a small shop.
-= 对小店来说，每位顾客的消费额是最有用的衡量指标。
-a metric = 衡量指标
-④ The poem follows a strict metrical pattern of ten syllables to a line.
-= 那首诗遵循严格的格律，每行十个音节。
-a metrical pattern = 格律
-⑤ Metrication began in British schools in the 1970s.
-= 英国学校在二十世纪七十年代开始改用公制。
-metrication = 改用公制
-
-metro
-核心：（巴黎、莫斯科等城市的）地铁；形容词（美，口语）：大都市的（metropolitan 的缩略）。
-① We took the metro from the airport to the centre of Paris.
-= 我们从机场坐地铁到了巴黎市中心。
-take the metro = 坐地铁
-② The nearest metro station is five minutes from the hotel.
-= 最近的地铁站离酒店五分钟。
-a metro station = 地铁站
-③ Four million people live in the metro area around the city.
-= 那座城市周边的都市圈住着四百万人。
-the metro area = （美）都市圈
-伦敦的叫 the Underground，纽约的叫 the subway。
-
-metronome
-核心：节拍器。形容词 metronomic（像节拍器一样规律的）并入本条。
-① She practises the piano with a metronome to keep the right speed.
-= 她练钢琴时用节拍器保持速度。
-a metronome = 节拍器
-② The old clock ticked like a metronome in the silent hall.
-= 那座老钟在寂静的门厅里像节拍器一样滴答作响。
-like a metronome = 像节拍器一样
-③ The runner kept up a metronomic pace for the whole race.
-= 那位选手整场比赛都保持着节拍器般均匀的步速。
-a metronomic pace = 节拍器般均匀的步速
-
-metropolis
-核心：大都市、大都会 —— 一国或一个地区的主要大城市。
-① In fifty years, the fishing village grew into a metropolis of ten million people.
-= 五十年间，那个渔村发展成了一座千万人口的大都市。
-a metropolis = 大都市
-② She left the small town for the bright lights of the metropolis.
-= 她离开小城，奔向大都市的灯红酒绿。
-the metropolis = 大都会
-希腊语「母城」。
-
-metropolitan
-核心：大都市的、大都会的；（法国等）本土的。
-① The metropolitan area has a population of eight million.
-= 那个都市区有八百万人口。
-the metropolitan area = 都市区
-② The Metropolitan Police is responsible for most of London.
-= 伦敦警察厅管辖伦敦的大部分地区。
-the Metropolitan Police = 伦敦警察厅
-③ She prefers the quiet of the country to metropolitan life.
-= 比起都市生活，她更喜欢乡下的安静。
-metropolitan life = 都市生活
-
-metrosexual
-核心：（口语）都市型男 —— 住在大城市、讲究穿着打扮和护肤的异性恋男子。也作形容词。
-① The magazine is aimed at metrosexuals who spend money on clothes and skin cream.
-= 那本杂志面向舍得在衣服和面霜上花钱的都市型男。
-a metrosexual = 都市型男
-② His brother jokes about his metrosexual habits, such as a weekly haircut.
-= 他哥哥拿他那些都市型男的习惯开玩笑，比如每周理一次发。
-metrosexual habits = 都市型男的习惯
-metropolitan 加 heterosexual 的拼合词，二十一世纪初流行。
-
-mettle
-核心：（正式）勇气、毅力、能耐 —— 在困难面前显出来的那股劲。习语 on your mettle（鼓足干劲、全力以赴）、
-show / prove your mettle（显出本事）、test your mettle（考验能耐）。
-① The young team showed its mettle by winning in the last minute.
-= 那支年轻的球队在最后一分钟取胜，显出了本事。
-show your mettle = 显出本事
-② The long climb in the snow tested the mettle of every walker.
-= 雪中的长途攀登考验了每个徒步者的毅力。
-test your mettle = 考验能耐
-③ The visit of the inspectors put the whole school on its mettle.
-= 督学来访，让全校上下都鼓足了干劲。
-on your mettle = 鼓足干劲、全力以赴
-别和 metal（金属）弄混，读音相同。
-
 mew
 核心：（猫、海鸥）咪咪叫、发出尖细的叫声；名词：这样的叫声。
 动词 mewl（（婴儿）微弱地啼哭）及其形容词 mewling 并入本条。
@@ -277,3 +177,90 @@ a microcosm of something = …的缩影
 = 那家人的争吵以小见大，显出了整个地区的问题。
 in microcosm = 以小见大地
 与 macrocosm 相对。
+
+microelectronics
+核心：微电子学、微电子技术。形容词 microelectronic 并入本条。
+① The region around the university has become a centre for microelectronics and software.
+= 那所大学周边的地区成了微电子和软件产业的中心。
+a centre for microelectronics = 微电子产业中心
+② The cheap plastic watch is controlled by a tiny microelectronic circuit and a battery.
+= 那块便宜的塑料表由一个微小的微电子电路和一粒电池控制。
+a microelectronic circuit = 微电子电路
+
+microfibre
+核心：超细纤维 —— 极细的合成纤维织成的柔软面料。美式拼 microfiber。
+① Clean the screen with a dry microfibre cloth.
+= 用一块干的超细纤维布擦屏幕。
+a microfibre cloth = 超细纤维布
+② The jacket is made of light microfibre that dries in minutes.
+= 那件外套是轻薄的超细纤维做的，几分钟就干。
+made of microfibre = 超细纤维做的
+
+microfilm
+核心：缩微胶卷 —— 把文件、报纸缩小拍摄存档的胶片；动词：把…拍成缩微胶卷。
+① The library keeps old newspapers on microfilm.
+= 那座图书馆把旧报纸存在缩微胶卷上。
+on microfilm = 存在缩微胶卷上
+② The spy microfilmed the secret plans and hid the film in a pen.
+= 那个间谍把秘密计划拍成缩微胶卷，藏在一支钢笔里。
+microfilm the plans = 把计划拍成缩微胶卷
+
+microfinance
+核心：小额信贷 —— 向穷人、小生意提供小笔贷款的金融服务。
+① Microfinance helped the women of the village to start small businesses.
+= 小额信贷帮助村里的妇女做起了小生意。
+microfinance = 小额信贷
+② She borrowed fifty dollars from a microfinance bank to buy a sewing machine.
+= 她从一家小额信贷银行借了五十美元买缝纫机。
+a microfinance bank = 小额信贷银行
+
+microlight
+核心：（英）超轻型飞机 —— 只坐一两个人、构造极简的小飞机。
+① He flew over the fields in a microlight on a calm summer evening.
+= 一个风平浪静的夏日傍晚，他驾着超轻型飞机飞过田野。
+a microlight = （英）超轻型飞机
+② Learning to fly a microlight is cheaper than learning in a normal plane.
+= 学开超轻型飞机比学开普通飞机便宜。
+fly a microlight = 驾驶超轻型飞机
+
+micromanage
+核心：（贬）事无巨细都要管、管得太细。名词 micromanagement 与 micromanager 并入本条。
+① The new boss micromanages every email that we send.
+= 新老板连我们发的每一封邮件都要管。
+micromanage something = 对…管得太细
+② The staff are tired of micromanagement from head office.
+= 员工们受够了总部事无巨细的管束。
+micromanagement = 事无巨细的管束
+③ He is a micromanager who checks his team's work three times a day.
+= 他是个管得极细的上司，一天查三遍下属的工作。
+a micromanager = 管得极细的上司
+
+microorganism
+核心：微生物 —— 肉眼看不见的生物，如细菌、病毒、真菌。
+① Yeast is a microorganism that turns the sugar in grape juice into alcohol.
+= 酵母是一种把葡萄汁里的糖变成酒精的微生物。
+a microorganism = 微生物
+复数常见。
+② Heating the milk for a few seconds kills harmful microorganisms without spoiling the taste.
+= 把牛奶加热几秒钟，就能杀死有害的微生物而不破坏味道。
+harmful microorganisms = 有害的微生物
+比 microbe 更学术。
+
+microphone
+核心：麦克风、话筒。口语说 mic 或 mike。
+① She spoke into the microphone, but nobody at the back could hear.
+= 她对着话筒说话，可后排谁也听不见。
+speak into the microphone = 对着话筒说话
+② The reporter pushed a microphone in front of the minister.
+= 记者把话筒伸到部长面前。
+a microphone = 话筒
+把声音变成电信号的装置。
+
+microplastic
+核心：微塑料 —— 塑料分解成的极小颗粒，污染海洋和食物链。多用复数。
+① Scientists have found microplastics in fish, salt and even rain.
+= 科学家在鱼、盐甚至雨水里都发现了微塑料。
+microplastics = 微塑料
+② Washing clothes made of plastic fibres sends microplastics into the sea.
+= 洗塑料纤维做的衣服会把微塑料排进大海。
+send microplastics into the sea = 把微塑料排进大海

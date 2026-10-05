@@ -1,52 +1,3 @@
-melee
-核心：混战、乱作一团的人群。
-① Several fans were hurt in the melee outside the ground.
-= 球场外的混战中有好几名球迷受伤。
-in the melee = 在混战中
-② She lost her bag in the melee at the station when the train was cancelled.
-= 火车取消时车站乱成一团，她的包在混乱中丢了。
-the melee at the station = 车站的混乱
-法语借词，读如 mel-ay。
-
-mellifluous
-核心：（正式）（声音、音乐）甜美流畅的、悦耳的。
-① The actor read the poem in his deep, mellifluous voice.
-= 那位演员用他低沉悦耳的嗓音朗读了那首诗。
-a mellifluous voice = 甜美悦耳的嗓音
-② We sat by the window listening to the mellifluous sound of a cello.
-= 我们坐在窗边，听着大提琴甜美流畅的琴声。
-a mellifluous sound = 甜美流畅的声音
-拉丁语「流着蜜的」。
-
-mellow
-核心：（颜色、声音、光线）柔和的；（酒、水果）醇厚的、熟透的；（人）因年纪、阅历而温和的；（口语）放松的、微醺的。
-动词：变得柔和、温和；mellow out（口语：放松下来）。
-① The room was filled with the mellow light of the evening sun.
-= 屋里洒满了夕阳柔和的光。
-mellow light = 柔和的光
-② The wine has a rich, mellow taste after ten years in the bottle.
-= 那酒在瓶里放了十年，味道醇厚浓郁。
-a mellow taste = 醇厚的味道
-③ He was a fierce young man, but he has mellowed with age.
-= 他年轻时脾气火爆，上了年纪就温和了。
-mellow with age = 上了年纪变得温和
-④ After a glass of wine by the fire, we were all feeling mellow.
-= 在炉火边喝了一杯酒，我们都有点微醺、很放松。
-feel mellow = 放松、微醺
-⑤ You should mellow out and stop worrying about the exam.
-= 你该放松下来，别再为考试发愁了。
-mellow out = （口语）放松下来
-
-melodic
-核心：旋律的；旋律优美的。
-① The old folk song has a simple melodic line that even small children can sing.
-= 那首老民歌的旋律线很简单，连小孩子都能唱。
-a melodic line = 旋律线
-② Her speaking voice is soft and melodic, with a trace of a Welsh accent.
-= 她说话的嗓音柔和而有旋律感，带一点威尔士口音。
-a melodic voice = 有旋律感的嗓音
-比 melodious 中性：也可以只说「和旋律有关的」。
-
 melodious
 核心：（正式）悦耳动听的、旋律优美的。副词 melodiously 并入本条。
 ① We woke to the melodious song of a blackbird in the garden.
@@ -388,3 +339,68 @@ the whole ménage = 一大家子
 = 那部小说写的是一位画家、他的妻子和妻子的情人之间的三人同居。
 a ménage à trois = 三人同居的关系
 读如 may-nahzh。
+
+menagerie
+核心：（私人养的或巡回展出的）一群野生动物、动物园；（谑）五花八门的一群。
+① The king kept a menagerie of lions, bears and monkeys at the palace.
+= 国王在宫里养了一群狮子、熊和猴子。
+a menagerie of animals = 一群动物
+② Their flat is a menagerie of cats, rabbits and a very noisy parrot.
+= 他们的公寓简直是个动物园：猫、兔子，外加一只吵得要命的鹦鹉。
+a menagerie = 一群五花八门的动物
+
+mend
+核心：修理、修补；（英）缝补；（伤、骨头）愈合；（关系）修复。名词 mender（修理者，多作后一成分）并入本条。
+习语：on the mend（在好转、在康复）、mend your ways（改过自新）、mend fences（修复关系、言归于好）。
+① He mended the broken chair with glue and two screws.
+= 他用胶水和两颗螺丝修好了那把坏椅子。
+mend a chair = 修椅子
+英式口语常用。
+② She sat by the fire mending a hole in her son's jumper.
+= 她坐在炉火边，给儿子的套头衫补一个洞。
+mend a hole = 补洞
+③ The bone took six weeks to mend.
+= 那根骨头六个星期才长好。
+the bone mends = 骨头愈合
+④ She has been very ill, but she is on the mend now.
+= 她病得很重，不过现在正在好转。
+on the mend = 在好转、在康复
+⑤ The judge told the young man to mend his ways or go to prison.
+= 法官告诉那个年轻人，要么改过自新，要么坐牢。
+mend your ways = 改过自新
+⑥ The minister flew to Paris to mend fences after the trade dispute.
+= 贸易争端之后，部长飞往巴黎修复关系。
+mend fences = 修复关系
+⑦ The road mender filled the holes with stones and tar.
+= 修路工用石子和沥青把坑填上了。
+a road mender = 修路工
+美式修东西多说 fix 或 repair。
+
+mendacious
+核心：（正式）说谎的、不诚实的；虚假的。名词 mendacity 并入本条。
+① The newspaper printed a mendacious report about the minister's past.
+= 那家报纸登了一篇关于部长往事的不实报道。
+a mendacious report = 不实的报道
+② The judge was shocked by the mendacity of the main witness.
+= 主要证人满口谎言，法官大为震惊。
+mendacity = 说谎、不诚实
+
+mendicant
+核心：（正式）行乞的、托钵的；名词：乞丐、托钵僧。
+① Mendicant monks walk through the village each morning with their bowls.
+= 托钵僧每天早上端着钵从村里走过。
+mendicant monks = 托钵僧
+② The old city was full of mendicants who slept in the doorways of temples.
+= 那座古城里到处是睡在寺庙门口的乞丐。
+a mendicant = 乞丐
+
+menfolk
+核心：（旧）（一个家庭、群体里的）男人们。复数名词。
+① The menfolk of the village were away at sea for most of the summer.
+= 那个村子的男人们夏天大半时间都出海在外。
+the menfolk = 男人们
+有点老派，带乡土味。
+② While the women cooked, the menfolk carried the tables into the garden.
+= 女人们做饭的时候，男人们把桌子搬到了花园里。
+the menfolk carry = 男人们搬
+女人们是 womenfolk。
