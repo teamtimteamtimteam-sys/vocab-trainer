@@ -235,3 +235,4 @@ mattins      matins         # 拼法变体；在 matins 条配例句
 magus        Magi           # 单数形；在 Magi 条配例句
 Moslem       Muslim         # 旧拼法；在 Muslim 条配例句
 Mohammed     Muhammad       # 拼法变体；在 Muhammad 条配例句
+men          man            # 不规则复数；在 man 条配例句
