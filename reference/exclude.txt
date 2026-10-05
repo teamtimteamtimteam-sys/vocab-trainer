@@ -966,3 +966,7 @@ matchwood    # 冷僻
 mattock      # 农具，冷僻
 magna cum laude  # 美国大学拉丁文荣誉等级，窄
 mammy-wag    # 西非英语（小货车）
+martha's vineyard   # 地名残片
+mary-queen-of-scots # 人名残片
+masculine rhyme     # 诗律窄专业
+marriage lines      # 旧式英语（结婚证），冷僻
