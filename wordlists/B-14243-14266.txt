@@ -1,3 +1,21 @@
+melanin
+核心：黑色素 —— 决定皮肤、头发、眼睛颜色深浅的色素。
+① People with dark skin have more melanin than people with fair skin.
+= 肤色深的人比肤色浅的人黑色素多。
+have more melanin = 黑色素多
+② Sunlight makes the skin produce extra melanin, which turns it brown.
+= 阳光使皮肤生成更多的黑色素，皮肤就晒黑了。
+produce melanin = 生成黑色素
+
+melanoma
+核心：黑色素瘤 —— 一种恶性的皮肤癌，常从痣发展而来。
+① The doctor removed a mole from her back to test it for melanoma.
+= 医生从她背上切下一颗痣，化验是不是黑色素瘤。
+test for melanoma = 化验是否为黑色素瘤
+② Too much sun in childhood raises the risk of melanoma later in life.
+= 小时候晒太阳过多，会增加日后得黑色素瘤的风险。
+the risk of melanoma = 得黑色素瘤的风险
+
 melatonin
 核心：褪黑素 —— 大脑分泌的调节睡眠节律的激素；也指它的补充剂。
 ① The body produces melatonin when it gets dark.
@@ -303,59 +321,3 @@ memorialize = 纪念
 ⑤ The stone carries the words in memoriam and the names of the crew.
 = 那块石碑上刻着「永志纪念」和船员们的名字。
 in memoriam = 悼念、纪念
-
-memorize
-核心：记住、背下来。英式也拼 memorise。
-① She memorized the whole poem in an evening.
-= 她一个晚上就把整首诗背了下来。
-memorize a poem = 背诗
-② I have never managed to memorize my own phone number.
-= 我自己的电话号码一直没记住。
-memorize a number = 记住号码
-同 learn by heart。
-
-memory
-核心：记忆力；记忆、回忆；（对死者的）怀念；（计算机）内存、存储器。
-习语：from memory（凭记忆）、in memory of（为纪念）、in living memory（在人们的记忆里）、if memory serves（如果我没记错）、
-a trip down memory lane（重温往事）、have a memory like a sieve（记性极差）、commit to memory（记住、背下）。
-搭配 memory card（存储卡）与 memory bank（存储库；记忆库）并入本条。
-① She has a good memory for names and faces.
-= 她记人名和长相记得很牢。
-a good memory = 好记性
-② My grandfather is losing his memory.
-= 我祖父正在丧失记忆力。
-lose your memory = 丧失记忆力
-③ I have happy memories of our holidays by the sea.
-= 我对我们在海边度过的假期有美好的回忆。
-happy memories of something = 对…的美好回忆
-④ He drew a map of the village from memory.
-= 他凭记忆画出了那个村子的地图。
-from memory = 凭记忆
-⑤ The hospital wing was built in memory of his wife.
-= 医院的那栋侧楼是为纪念他的妻子而建的。
-in memory of = 为纪念
-⑥ It was the coldest winter in living memory.
-= 那是人们记忆中最冷的一个冬天。
-in living memory = 在人们的记忆里
-⑦ If memory serves, we first met at a wedding in 1998.
-= 如果我没记错，我们是一九九八年在一场婚礼上认识的。
-if memory serves = 如果我没记错
-⑧ Visiting the old school was a trip down memory lane.
-= 回母校看看，是重温了一遍往事。
-memory lane = 回忆往事的路
-a trip down memory lane：重温往事。
-⑨ I have a memory like a sieve and forget where I put my keys every day.
-= 我记性极差，天天忘了钥匙放哪儿。
-a memory like a sieve = 极差的记性
-⑩ The actor committed the whole speech to memory in two days.
-= 那位演员两天就把整段台词背了下来。
-commit to memory = 记住、背下
-⑪ The computer has sixteen gigabytes of memory.
-= 那台电脑有十六吉字节内存。
-memory = 内存
-⑫ All the photographs are saved on a memory card.
-= 所有的照片都存在一张存储卡上。
-a memory card = 存储卡
-⑬ The details were stored in the memory bank of the central computer.
-= 那些细节存在中央计算机的存储库里。
-a memory bank = 存储库
