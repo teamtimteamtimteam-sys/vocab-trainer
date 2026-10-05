@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-05，第七十八轮）═══
-B 词表 13947 条、义项 50492 条，词典序 a → malicious。A 表 3002 条。
+═══ 现状（2026-10-05，第七十九轮）═══
+B 词表 14000 条、义项 50669 条，词典序 a → manhunt。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -38,23 +38,22 @@ B 词表 13947 条、义项 50492 条，词典序 a → malicious。A 表 3002 �
     audit-ab 报 luck 缺 have no luck；lush ② 与 luxurious ① 场景撞车；lull、lumpy、lunch、luscious、lustre、luxuriant 例句偏薄；
     lu- 后半一块讲解行密度低于基线，补了近三十行。
     义项序号超过 ㊿ 用 ❶❷❸…（check-wordlist 的 NUMS 共 80 个），low 是头一个用到的；数义项时正则要带上 ❶-❿。
-  **m 字母在写**（清单约 2500 条）：ma- 段写到 malicious（114 条），ma- 还剩待新写约 365 条。
+  **m 字母在写**（清单约 2500 条）：ma- 段写到 manhunt（167 条），ma- 还剩待新写约 295 条。
     开段准备已做：M 段大写词头收 82 条（判语见 proper-nouns-keep 的 M 段注释；Mr / Mrs / Ms 照 Jr 的先例按称谓缩写剔）；
     ma- 段 exclude 补 86 条（印度 maha / mahal / mandir / mazdoor，东非 matatu / matoke / manyatta / makuti，南非 maas / mampara / matric，
     澳新 mana / mateship，西非 mallam，窄专业 macrophage / maxilla / maltose / marl，冷僻词与商号残片）；
     inflections 补 made→make、matrices→matrix、maneuver 一族→manoeuvre、math→maths、mattins→matins、magus→Magi、
     Moslem→Muslim、Mohammed→Muhammad；audit-idioms 补 mad、magic、main、make、man、manner、many、map、march、mark、market、
     marriage、mass、master、match、matter、may。**me- / mi- / mo- / mu- / my- 各段的 exclude 与 audit-idioms 还没做。**
-    本轮三批：maharaja → majority 23 条（mail 21 义、main 14 义、major 12 义、majority 10 义）、make → making 6 条（make 49 义，
-    十个短语动词、十一个习语、made-up / made to measure / make-believe 等全并）、maladjusted → malicious 24 条（male 7 义）。
-    exclude 又补 magna cum laude。
-    被拦的：audit-swallowed 报 major league（等式写成了复数 the major leagues）；maharaja 一批切块讲解行密度低于基线；
-    maintain、majesty、major、majority、making、malaria、malarkey、Malaysian、malice 例句偏薄。
-    make 这回动笔时就给近半数义项配了讲解行、把短句加了场景，切块密度没再出问题 —— 大词照这个做法写。
-  **下一批从 malign 起**：malign、malignant（并 malignancy）、malinger（并 malingerer）、mall（并 mall rat）、mallard、malleable（并 malleability）、
-    mallet、mallow、malnutrition（并 malnourished）、malodorous、malpractice、malt（并 malted、malt vinegar / whisky、malted milk）、
-    Maltese（并 Maltese cross）、Malthusian、maltreat（并 maltreatment）、malware、mam / mama、mamba、mambo、mammal 一族、mammogram、
-    Mammon、mammoth，然后 man（大词）、manacle、manage 一族、mañana、manatee、Mancunian、mandala、mandarin、mandate 一族…
+    本轮三批：malign → mammoth 25 条（malt 6 义）、man → manager 5 条（man 32 义，十几个 man- / man + 名词复合词全并；manage 11 义）、
+    mañana → manhunt 23 条（mandate 5 义）。exclude 又补 mammy-wag（西非）；inflections 补 men→man。
+    被拦的：man 条里 men 不被认作词形（audit-padding 报「例句里没有词」）→ 登 inflections；audit-swallowed 报 mama’s boy；
+    malignant、Mammon、manacle、mandatory、mane、manhandle 例句偏薄。
+  **下一批从 mania 起**：mania（并 maniac、maniacal(ly)）、manic（并 manically、manic depression / manic-depressive）、manicure（并 manicured、
+    manicurist）、manifest（并 manifestly、manifest destiny）、manifestation、manifesto、manifold、manipulate 一族、mankind、manky、manly（并 manliness）、
+    manna、mannequin、manner（并 mannered、mannerism、mannerist）、mannish、manoeuvre 一族（美式 maneuver 已登 inflections）、manor（并 manorial）、
+    manpower、manservant、mansion、manslaughter、mansplain、mantelpiece、mantis、mantle、mantra、manual（并 manually）、manufacture 一族、manure、
+    manuscript（并 manuscript paper）、Manx（并 Manx cat）、many（大词）、Maoism / Maoist、Maori，然后 map、maple、mar、marathon…
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
