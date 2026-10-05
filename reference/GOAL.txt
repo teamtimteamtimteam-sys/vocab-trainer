@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-05，第八十二轮）═══
-B 词表 14176 条、义项 51401 条，词典序 a → mazurka。A 表 3002 条。
+═══ 现状（2026-10-05，第八十三轮）═══
+B 词表 14223 条、义项 51618 条，词典序 a → medley。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -38,24 +38,27 @@ B 词表 14176 条、义项 51401 条，词典序 a → mazurka。A 表 3002 条
     audit-ab 报 luck 缺 have no luck；lush ② 与 luxurious ① 场景撞车；lull、lumpy、lunch、luscious、lustre、luxuriant 例句偏薄；
     lu- 后半一块讲解行密度低于基线，补了近三十行。
     义项序号超过 ㊿ 用 ❶❷❸…（check-wordlist 的 NUMS 共 80 个），low 是头一个用到的；数义项时正则要带上 ❶-❿。
-  **m 字母在写**（清单约 2480 条）：**ma- 段收完**（343 条词条，清单 717 条全收）。
+  **m 字母在写**（清单约 2400 条）：ma- 段收完；me- 段写到 medley（47 条），me- 还剩待新写约 211 条。
     开段准备已做：M 段大写词头收 82 条（判语见 proper-nouns-keep 的 M 段注释；Mr / Mrs / Ms 照 Jr 的先例按称谓缩写剔）；
     ma- 段 exclude 补 86 条（印度 maha / mahal / mandir / mazdoor，东非 matatu / matoke / manyatta / makuti，南非 maas / mampara / matric，
     澳新 mana / mateship，西非 mallam，窄专业 macrophage / maxilla / maltose / marl，冷僻词与商号残片）；
     inflections 补 made→make、matrices→matrix、maneuver 一族→manoeuvre、math→maths、mattins→matins、magus→Magi、
     Moslem→Muslim、Mohammed→Muhammad；audit-idioms 补 mad、magic、main、make、man、manner、many、map、march、mark、market、
     marriage、mass、master、match、matter、may。**me- / mi- / mo- / mu- / my- 各段的 exclude 与 audit-idioms 还没做。**
-    本轮三批：mat → matt 23 条（match 22 义、mate 9 义、material 8 义）、matter → mawkish 14 条（matter 20 义、mature 11 义）、
-    max → mazurka 15 条（may 10 义、maximum 7 义）。收尾时 coverage 又冒出一批挂在已写词条名下的搭配：machine-made / machine shop /
-    machine tool / machine translation、malt liquor、marriage certificate / equality / guidance、marsh gas，用 add-sense 补进宿主条。
-    exclude 又补 8 条（重复写法 ma-am / magistrates-court，冷僻的 marram grass / maidenhair tree / marriage broker / marriage bureau，
-    西非 mammy-wagon，童谣句残片）；inflections 补 mating→mate。
-    被拦的：matins ① 「says matins」被 audit-padding 误判成元评论句式（改成 leads matins）；mat 一批切块讲解行密度低于基线；
-    matter、may、maybe、mayor、max 等十一条例句偏薄 —— 又是高频小词写短了。
-    **教训（两次了）：一段收完后要再跑一次 coverage，宿主词条写出来以后才会冒出「待并入已有词条」的搭配。**
-  **下一批进 me- 段（清单 441 条），先做开段准备**：exclude（地区词、窄专业、缩写 mg / ml / mm / mph 等小段一并判）、
-    inflections（meant→mean、met→meet、mice→mouse、media / medium 等）、audit-idioms 大词（meal、mean、means、measure、meat、medium、
-    meet、memory、mend、mention、mercy、mess、message、method 等）。me- 开头：me、mead、meadow、meagre、meal、mean（大词）…
+    me- 段开段准备已做：exclude 补 85 条（连同 mb- / mg- / mh- / ml- / mm- / mp- / mr- / mw- / mz- 这些只有一两条的小段一并判了：
+    单位缩写 mg / ml / mm / mpg / mph，东非 mzee / mzungu / mwalimu，拟声 mhm / mwah；me- 段的 mealie 南非、mehndi / mela / methi 印度，
+    语言学的 meta- 一族、解剖的 metacarpal / meninges、元素、毒品名、药名等）；inflections 补 meant→mean、met→meet 与变体
+    mediaeval / medivac / meany / methought / med / meds；audit-idioms 补 meal、mean、means、measure、medicine、medium、meet、melt、memory、
+    mend、mention、mercy、mess、message、mettle。**mi- / mo- / mu- / my- 各段的准备还没做。** mnemonic 留着，写到 mn- 时单立。
+    本轮两批：me → meat 20 条（measure 22 义、mean 21 义，三个同形词写在一条；meat 11 义、means 10 义）、
+    Mecca → medley 27 条（medium 10 义、medical 9 义）。
+    被拦的：audit-swallowed 报 mealtime（等式只写了 at mealtimes）；audit-ab 报 medical 缺 medical check-up；
+    两批的切块讲解行密度都低于基线；mean ① 与 meaning ②、meaning ④ 与 meaningful ② 场景撞车；
+    meaning、meaningful、meaningless、measurement、mechanical、medallion、medication 例句偏薄。
+  **下一批从 meek 起**：meek（并 meekly、meekness）、meerkat、meet（大词，并 met、meetup、meet up / with、meet and greet）、meeting（并 meeting place /
+    house）、mega、megabucks、megabyte、megacity、megahertz、megalith（并 megalithic）、megalomania（并 megalomaniac）、megalopolis、megaphone、
+    megapixel、megastar、megastore、megawatt、melancholy 一族、melange、melanin、melanoma、melatonin、meld、melee、mellifluous、mellow（并 mellow out）、
+    melody 一族、melodrama 一族、melon、melt（并 meltdown、melting、melting point / pot）、member、membership、membrane、meme、memento、memo…
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
