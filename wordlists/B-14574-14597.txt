@@ -1,3 +1,27 @@
+mitre
+核心：两支。一是主教冠，主教在仪式上戴的尖顶高帽；二是（木工）斜接，两块木料各切一个斜角拼成直角。
+① The bishop wore a white mitre and carried a silver staff as he entered the cathedral.
+= 主教头戴白色主教冠、手持银杖走进大教堂。
+a mitre = 主教冠
+miter = 主教冠（mitre 的美式拼法）
+② The carpenter cut a neat mitre joint at each corner of the picture frame.
+= 木匠在画框的每个角上都切出了一个利落的斜接。
+a mitre joint = 斜接
+
+mitt
+核心：三支。一是（棒球）接球手套；二是连指的厚手套，尤指隔热用的 oven mitt；三是（非正式）手，常用复数。
+是 mitten 的缩短。
+① The catcher held up his mitt and felt the ball smack into the worn leather.
+= 接球手举起手套，感到球啪的一声砸进磨旧的皮革里。
+hold up your mitt = 举起接球手套
+② Use an oven mitt to take the dish out, because the handles get extremely hot.
+= 把盘子端出来要戴隔热手套，把手烫得很。
+an oven mitt = 隔热手套
+③ Keep your greasy mitts off my new book until you have washed your hands.
+= 没洗手之前，别拿你那双油手碰我的新书。
+keep your mitts off something = 别用手碰…
+口语，带点不客气的玩笑。
+
 mitten
 核心：连指手套：四指并在一个套里，拇指单分，跟分五指的 glove 相对。通常成对说。
 ① The toddler kept pulling off one mitten and dropping it in the snow.
@@ -468,72 +492,3 @@ slip into mockney = 换上假伦敦腔
 ② Critics laughed at the actor's mockney accent, since he had been to an expensive private school.
 = 那位演员上过昂贵的私立学校，评论家都笑他那口假伦敦腔。
 a mockney accent = 假伦敦腔的口音
-
-mod
-核心：几个缩短形式凑成的一条。一是二十世纪六十年代英国的摩登派青年，穿着讲究、骑小型摩托，跟摇滚派是对头；
-二是（非正式）对软件、游戏、汽车做的改装和改动，也作动词，名词 modding 并入本条；三是（非正式）网上论坛的版主。
-mod con 是英式说法，指住宅里的现代化设施，多用复数，房屋广告里写 all mod cons。
-① In 1964 mods and rockers fought on the beach at Brighton in front of the cameras.
-= 一九六四年，摩登派和摇滚派在布赖顿的海滩上当着镜头打了起来。
-a mod = 摩登派青年
-② He downloaded a mod that adds new maps and weapons to the original game.
-= 他下载了一个改装包，给原版游戏加了新地图和新武器。
-a mod = 游戏改装包
-③ She spent the summer modding her old car with a louder exhaust and wider wheels.
-= 她花了一个夏天改装自己的旧车，换上更响的排气管和更宽的轮子。
-mod a car = 改装汽车
-④ Modding has become so popular that some studios release their tools to the players.
-= 改装游戏十分流行，有些工作室干脆把工具放给玩家。
-modding = 改装（游戏、软件）
-⑤ One of the mods deleted the thread after the argument turned into personal abuse.
-= 争论变成了人身攻击，一位版主就把那个帖子删了。
-one of the mods = 一位版主
-⑥ The cottage looks ancient from the lane, but inside it has every mod con.
-= 那座小屋从巷子里看很古旧，里面却样样现代化设施都有。
-a mod con = 现代化设施
-all mod cons = 现代化设施一应俱全
-
-modal
-核心：（语法）情态动词，也叫 modal verb、modal auxiliary：can、may、must、should 这一类，
-放在动词原形前表示可能、许可、义务。名词可数，也作形容词。
-名词 modality 并入本条：语法上指情态；正式用语里指「方式、形态」，医学上说治疗手段。
-① The exercise asks students to fill each gap with a suitable modal.
-= 那道练习要学生在每个空里填一个合适的情态动词。
-a modal = 情态动词
-② Unlike ordinary verbs, a modal verb takes no ending in the third person singular.
-= 跟普通动词不同，情态动词在第三人称单数时不加词尾。
-a modal verb = 情态动词
-③ Surgery is only one of several treatment modalities that the hospital can offer.
-= 手术只是那家医院能提供的几种治疗手段之一。
-a treatment modality = 治疗手段
-④ The chapter on modality explains how speakers express doubt and certainty.
-= 讲情态的那一章解释了说话人怎样表达怀疑与确信。
-modality = 情态
-
-mode
-核心：底子是「方式」。几支：做事或存在的方式，正式，a mode of 后接名词；机器的工作状态、模式；
-（非正式）人所处的状态、劲头：be in holiday mode；一时的风尚，旧说法；音乐上的调式；统计上的众数。
-① The bicycle is still the cheapest mode of transport in most of the city.
-= 在城里大部分地方，自行车仍是最便宜的交通方式。
-a mode of transport = 交通方式
-比 way 正式，多见于书面。
-② Switch the camera to night mode before you try to photograph the fireworks.
-= 拍烟花之前，先把相机调到夜景模式。
-night mode = 夜景模式
-③ The phone goes into sleep mode after two minutes to save the battery.
-= 手机两分钟后进入休眠状态，以节省电量。
-go into sleep mode = 进入休眠状态
-④ By Friday afternoon the whole office is already in holiday mode.
-= 到了星期五下午，整个办公室已经是一副放假的劲头。
-be in holiday mode = 一副放假的劲头
-把人比作机器，口语。
-⑤ Long skirts were the mode that winter, and every shop window was full of them.
-= 那年冬天时兴长裙，家家橱窗里都摆满了。
-be the mode = 正时兴
-这一支已经旧了，来自法语。
-⑥ The folk tune is written in a mode that sounds strange to ears used to major keys.
-= 那支民间曲调用的调式，听惯大调的耳朵会觉得陌生。
-a mode = 调式
-⑦ The mode is the value that occurs most often in a set of figures.
-= 众数是一组数字里出现次数最多的那个值。
-the mode = 众数
