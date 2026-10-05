@@ -19311,6 +19311,10 @@ in the final analysis = 归根结底
 = 义素分析把一个词的意思拆成可以互相比较的若干特征。
 componential analysis = 义素分析（语义学方法）
 做法是把一个词拆成几条特征的组合，再拿这些特征去比较近义词。
+⑥ A meta-analysis of forty studies found that the drug had only a small effect.
+= 一项汇总四十项研究的荟萃分析发现，那种药只有很小的效果。
+a meta-analysis = 荟萃分析
+把许多项独立研究的结果合起来再分析。
 注意复数：analysis → analyses
 
 analyst
