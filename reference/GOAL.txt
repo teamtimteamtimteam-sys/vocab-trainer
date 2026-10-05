@@ -9,34 +9,35 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-05，第八十九轮收尾）═══
-B 词表 14556 条、义项 52882 条，词典序 a → missus。A 表 3002 条。
+═══ 现状（2026-10-05，第九十轮收尾）═══
+B 词表 14600 条、义项 53094 条，词典序 a → mode。A 表 3002 条。
   **a–l 十二个字母收完**（各字母余下的只有「待推迟」条目，等后面字母的内容词；用 coverage.py <字母> 现查）。
-  **m 字母在写**（清单约 2300 条）：ma- / me- 两段收完；mi- 段写到 missus（mis-selling → missus 三批 70 条），还剩待新写 34 条 ——
-    mist 起到 mixture：两个大词 mistake、mix 及其复合词，外加 mit- 的几条。
+  **m 字母在写**（清单约 2300 条）：ma- / me- / mi- 三段收完（mi- 只剩 mice 等 mouse、Midas touch 等 touch），
+    mc-（McCarthyism、McCoy）与 mn-（mnemonic）也写了；mo- 段写到 mode，待新写还有 353 条。
   **开段准备做到哪儿了**：M 段大写词头全判完（收 82 条，判语在 proper-nouns-keep 的 M 段注释；Mr / Mrs / Ms 按称谓缩写剔了，
-    已告知用户「想收说一声」，用户尚未表态）；ma- / me- / mi- 三段的 exclude、inflections、audit-idioms 都做了，
-    连同 mb- / mg- / mh- / ml- / mm- / mp- / mr- / mw- / mz- 这些一两条的小段。
-    **mo-（约 530 条）/ mu-（约 250 条）/ my-（约 38 条）三段的准备还没做，写到之前各自先过一遍。** mnemonic 留着，写到 mn- 时单立。
-  **下一批从 mist 起，一批收完 mi- 段**：mist（并 misty、misty-eyed）、mistake（大词，并 mistaken / mistakenly、mistake for；mistook 已登 inflections）、
-    mister、mistime（并 mistiming）、mistletoe、mistreat（并 mistreatment）、mistress、mistrial、mistrust（并 mistrustful / mistrustfully）、
-    misunderstand（并 misunderstanding；misunderstood 已登 inflections）、misuse、mite、mitigate（并 mitigating / mitigation）、mitre（miter 已登 inflections）、
-    mitt、mitten、mix（大词：mix up / mixed up / mix and match / mix in / mix into，audit-idioms 已列）、mixed（并 mixed feelings、mixed doubles、
-    mixed-race、mixed number 及 coverage 列在别的宿主名下的 mixed economy / farming / media / message / metaphor / martial arts）、mixer、mixture。
-    mice 仍列在待新写里：它登的是 mouse，写到 mo- 段的 mouse 时配例句，不单立。
-    收完 mi- 之后再跑一次 coverage mi（mixing bowl / mixing desk / milch cow 用 add-sense.py 补进宿主条），然后做 mo- 段的开段准备。
-    写法照这一轮：动词和它的名词、形容词并成一条（misapply + misapplication），每条两到四个义项；
-    audit-idioms 认字面串，带占位词的习语要在讲解行里留一处裸形（misery 的 put out of its misery 这一轮栽过）。
+    已告知用户「想收说一声」，用户尚未表态）；ma- / me- / mi- / mo- 四段的 exclude、inflections、audit-idioms 都做了。
+    mo- 的要点：清单里没有 mould（清洗时丢了），词头按英式立 mould，mold / molder / molding / moldy / molt 已登 inflections；
+    monied→moneyed、moveable→movable、mousey→mousy、mossie→mozzie 也登了；Mohammed、Moslem 早先登在 Muhammad、Muslim 名下，等 mu- 段。
+    momma、mommy 并进 mom 条（三字母词根，coverage 认）。mooli、molybdenum、morpheme、monism、motherfucker 判了留。
+    **mu-（约 250 条）/ my-（约 38 条）两段的准备还没做，写到之前各自先过一遍。**
+  **下一批从 model 起**：model（大词，并 modeller / modelling、model home、model after / on / upon、model village、model yourself on）、modem、
+    moderate（并 moderately）、moderation、moderator、modern（并 modern dance、modern-day、modern English、modern language）、modernism 一族、
+    modernity、modernize（并 modernization）、modest（并 modestly）、modesty、modicum、modify（并 modification、modifier）、modish、modular、
+    modulate（并 modulation）、module、modus operandi、modus vivendi、moggie、mogul、mohair、Mohawk、Mohican、moi、moiety、moire、moist 一族……
+    **mod / modal / mode 三条已写：它们的词根只有三四个字母，往里补内容时别用 model、modern、moderate、modest 这些还没写的词**（会被无声吞掉）。
+    mo- 的大词：moment、money、monkey、month、mood、moon、moral、more、morning、most、mother、motion、mould、mount、mountain、mouth、move ——
+    audit-idioms 都已列清单；写每个大词前先从 coverage mo 的「待并入」「待推迟」里把以它打头的条目列出来并进去。
+    audit-idioms 认字面串，带占位词的习语要在讲解行里留一处裸形（misery 的 put out of its misery 栽过）。
   **节奏**：每次回复约三批（每批 20–25 条，有大词就少些），每批跑十二道闸门加判重、各自本地提交；开新段那一轮可以是「准备 + 两批」。
   **in- 段的并入原则仍适用于所有字母**：多词条目（X + 名词、短语动词）一律按重心并进以 X 打头的那个词条，
     写每个大词前先从 coverage 输出里把以它打头的「待并入」「待推迟」条目列出来，全部并进去。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
   已交付五份：B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12500（用户已导入 app）。
-  **第六份在攒：现为 B-merged-12501-14556（2056 条），满 2500 条时会自动定名 B-merged-12501-15000 并登进台账 ——
-  到时主动告诉用户「第六份可以导入了」并用 SendUserFile 发给他。** 还差 444 条。
+  **第六份在攒：现为 B-merged-12501-14600（2100 条），满 2500 条时会自动定名 B-merged-12501-15000 并登进台账 ——
+  到时主动告诉用户「第六份可以导入了」并用 SendUserFile 发给他。** 还差 400 条。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **origin 目前在 51e34015**；本地领先 207 个提交，全部没推，push 照旧等用户开口。
+  **origin 目前在 51e34015**；本地领先 212 个提交，全部没推，push 照旧等用户开口。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
 · **两义项的术语词扎堆，整块的批均等式会掉到基线下**（hy- 段 hypersensitive 那批
