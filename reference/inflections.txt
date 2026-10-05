@@ -236,3 +236,4 @@ magus        Magi           # 单数形；在 Magi 条配例句
 Moslem       Muslim         # 旧拼法；在 Muslim 条配例句
 Mohammed     Muhammad       # 拼法变体；在 Muhammad 条配例句
 men          man            # 不规则复数；在 man 条配例句
+mating       mate           # 名词并进 mate 条后，前四字母对不上
