@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-05，第八十五轮）═══
-B 词表 14332 条、义项 52011 条，词典序 a → meteorology。A 表 3002 条。
+═══ 现状（2026-10-05，第八十六轮）═══
+B 词表 14379 条、义项 52142 条，词典序 a → microwave。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -38,7 +38,7 @@ B 词表 14332 条、义项 52011 条，词典序 a → meteorology。A 表 3002
     audit-ab 报 luck 缺 have no luck；lush ② 与 luxurious ① 场景撞车；lull、lumpy、lunch、luscious、lustre、luxuriant 例句偏薄；
     lu- 后半一块讲解行密度低于基线，补了近三十行。
     义项序号超过 ㊿ 用 ❶❷❸…（check-wordlist 的 NUMS 共 80 个），low 是头一个用到的；数义项时正则要带上 ❶-❿。
-  **m 字母在写**（清单约 2400 条）：ma- 段收完；me- 段写到 meteorology（156 条），me- 还剩待新写 37 条。
+  **m 字母在写**（清单约 2300 条）：ma- 段收完；**me- 段收完**（376/378，余 men's room、mezzo-soprano 待推迟）；mi- 段写到 microwave（25 条），mi- 还剩待新写约 306 条。
     开段准备已做：M 段大写词头收 82 条（判语见 proper-nouns-keep 的 M 段注释；Mr / Mrs / Ms 照 Jr 的先例按称谓缩写剔）；
     ma- 段 exclude 补 86 条（印度 maha / mahal / mandir / mazdoor，东非 matatu / matoke / manyatta / makuti，南非 maas / mampara / matric，
     澳新 mana / mateship，西非 mallam，窄专业 macrophage / maxilla / maltose / marl，冷僻词与商号残片）；
@@ -50,14 +50,19 @@ B 词表 14332 条、义项 52011 条，词典序 a → meteorology。A 表 3002
     语言学的 meta- 一族、解剖的 metacarpal / meninges、元素、毒品名、药名等）；inflections 补 meant→mean、met→meet 与变体
     mediaeval / medivac / meany / methought / med / meds；audit-idioms 补 meal、mean、means、measure、medicine、medium、meet、melt、memory、
     mend、mention、mercy、mess、message、mettle。**mi- / mo- / mu- / my- 各段的准备还没做。** mnemonic 留着，写到 mn- 时单立。
-    本轮三批：menace → meow 22 条（mental 8 义、mention 8 义、mend 7 义）、mercantile → merry 23 条（merry 9 义、merchant 8 义、mercy 8 义）、
-    mesh → meteorology 19 条（mess 15 义、message 9 义、metal 8 义）。meta-analysis 并进 analysis 条。
-    被拦的：mesh 一批切块讲解行密度低于基线；meningitis、menswear、menu、merciless、merit、mesmerize、mess 例句偏薄。
-  **下一批收完 me- 段**：meter、meth（并 methamphetamine、meths、methylated spirit）、methadone、methane、methanol、methinks（并 methought）、
-    method（并 methodical(ly)、method acting / actor）、Methodism（并 Methodist）、methodology（并 methodological(ly)）、meticulous 一族、métier、
-    metric（并 metrical、metrication、metric ton）、metro、metronome（并 metronomic）、metropolis、metropolitan、metrosexual、mettle、mew（并 mewl(ing)）、
-    mews（并 mews house）、Mexican（并 Mexican wave）、mezzanine。收完后再跑一次 coverage me，看有没有冒出挂在已写词条名下的搭配。
-    **然后进 mi- 段（清单 531 条），先做该段的开段准备。**
+    mi- 段开段准备已做：exclude 补 88 条（计量单位 micron / microgram / millibar / millivolt，窄专业 mitosis / mitochondrion / mimesis / mineralogy，
+    冷僻的 mis- 动词 misfile / miskey / misdial / misname 等九条，英式粗俗俚语 minge / minger / minging，东非 miraa、印度 mirch / mixie、
+    南非 mine dump，过时的 minidisc / microfiche / microcomputer，带种族主义历史的 miscegenation，片名与历史事件残片）；
+    inflections 补 mice→mouse、mistook→mistake、misunderstood→misunderstand 与变体 milage / milometer / miter / mike / miaow / missis；
+    audit-idioms 补 might、mile、milk、mill、mind、mine、minute、mint、miss、mistake、mix、mischief、misery。**mo- / mu- / my- 各段的准备还没做。**
+    本轮两批：meter → mezzanine 22 条（method 8 义）—— me- 段收完，收完后再跑 coverage 没有冒出新的待并入条目；
+    mi → microwave 25 条（micro- 一族）。meow 条补了英式拼法 miaow 的等式。
+    被拦的：meth、methane、Methodism、microblog、microelectronics、microorganism、microwave 例句偏薄 —— 科技名词的例句容易只写一个主谓宾。
+  **下一批从 mid 起**：mid（并 mid-air、mid-range、mid-sized、mid-Atlantic）、midday、middle（大词，并 middle age / middle-aged / middle-age spread、
+    middle class、middle name、middle school、middle ground、middle finger、middle ear、middle management / manager、middle-of-the-road、middle-distance、
+    middle C、middle-ranking）、middlebrow、middleman、middleweight、middling、midfield（并 midfielder）、midge、midget、midlife（并 midlife crisis）、
+    midnight（并 midnight blue）、midpoint、midriff、midshipman、midst、midstream、midsummer（并 midsummer's day）、midterm、midtown、midway、midweek、
+    Midwestern、midwife（并 midwifery）、midwinter、mien、miffed、might（并 mightily、mighty、might-have-been）、migraine、migrant、migrate 一族…
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
