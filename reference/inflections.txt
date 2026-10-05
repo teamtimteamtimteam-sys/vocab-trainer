@@ -225,3 +225,13 @@ loci         locus          # 不规则复数；在 locus 条配例句
 lost         lose           # 不规则过去式、过去分词；lost 另有形容词用法，另立词条
 loth         loath          # 拼法变体；在 loath 条配例句
 lynchpin     linchpin       # 拼法变体；在 linchpin 条配例句
+made         make           # 不规则过去式、过去分词；在 make 条配例句
+matrices     matrix         # 不规则复数；在 matrix 条配例句
+maneuver     manoeuvre      # 美式拼法；在 manoeuvre 条配例句
+maneuverable manoeuvre      # 美式拼法
+maneuvering  manoeuvre      # 美式拼法
+math         maths          # 美式说法；在 maths 条配例句
+mattins      matins         # 拼法变体；在 matins 条配例句
+magus        Magi           # 单数形；在 Magi 条配例句
+Moslem       Muslim         # 旧拼法；在 Muslim 条配例句
+Mohammed     Muhammad       # 拼法变体；在 Muhammad 条配例句
