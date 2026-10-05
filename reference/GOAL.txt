@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-05，第七十五轮）═══
-B 词表 13768 条、义项 49723 条，词典序 a → loving。A 表 3002 条。
+═══ 现状（2026-10-05，第七十六轮）═══
+B 词表 13833 条、义项 50072 条，词典序 a → lyric。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -28,34 +28,20 @@ B 词表 13768 条、义项 49723 条，词典序 a → loving。A 表 3002 条�
     与窄专业、专名残片共 28 条；inflections 补 jehad→jihad、jerrymander(ing)→gerrymander(ing)；
     audit-idioms 补 j 段十五个大词。
   **k 字母收完**（414/417，余下 kola nut 等 3 条待推迟）。a–k 十一个字母都已收完。kph 照 kg 的先例剔；Komodo dragon 并进 dragon 条。
-  **l 字母在写**（清单约 1650 条）：la- / le- / li- 三段收完；ll- 收完；lo- 段写到 loving（118 条），lo- 只剩待新写 12 条。
-    开段准备已做：L 段大写词头收 32 条（判语见 proper-nouns-keep 的 L 段注释）；exclude 补 39 条（la- 段的印度、南非、澳新词，
-    语音学 / 医学 / 元素窄专业，小写缩写 lb / lbw / l.c. / ll / lm 等）；inflections 补 labor 一族、lah→la、laid→lay、lain→lie；
-    audit-idioms 补 la- 段十四个大词（labour、lack、lady、lamb、land、language、lap、large、last、late、laugh、launch、law、lay）。
-    **le- / li- / lo- / lu- / ly- 各段的 exclude 与 audit-idioms 还没做**，写到那一段之前先逐条过一遍。
-    labour 不在清单里（清单只有 labour under、labourer 等），照样单立为词条做宿主。
-    le- 段开段准备已做：exclude 补 27 条（南非 lekker / lekgotla、东非 leso，语言学 lemma / lenis / lexeme / lexicology，
-    医学 lentigo / leucocyte，lector / lectrice / legate / legatee 等窄专业，书名残片）；inflections 补 led / leaves / lent / let’s / left→leave；
-    audit-idioms 补 lead、leaf、league、lean、leap、learn、least、leave、left、leg、lend、length、less、lesson、let、letter、level、leisure。
-    **li- / lo- / lu- / ly- 各段的准备还没做。**
-    li- 段开段准备已做：exclude 补 39 条（lidocaine / lignocaine / ligate / lipase / liposome / lithosphere 等窄专业，limba 西非，
-    light globe 澳新，lilo 商标，liver bird / lincoln's birthday 专名，lipstick lesbian / limp-wristed 冒犯性标签）；
-    inflections 补 lied→lie、lit→light、lives→life、lice→louse 与拼法变体 lichee / litchi→lychee、licorice→liquorice、liter→litre、
-    likable→likeable、livable→liveable；audit-idioms 补 liberty、lick、lid、lie、life、lift、light、like、likely、limb、limit、line、lion、lip、
-    listen、little、live、living。**lo- / lu- / ly- 各段的准备还没做。**
-    lo- 段开段准备已做：exclude 补 41 条（lobola 南非、lota 印度、lough 爱尔兰、loonie 加拿大、lorikeet 澳洲，lode / lodestar / lodestone、
-    locative / logogram / locution / longueurs 等冷僻或窄专业词，橄榄球、航运、物理术语，剧名与板球场专名残片）；
-    inflections 补 loaves→loaf、loci→locus、lost→lose、loth→loath；audit-idioms 补 load、lock、log、long、look、loop、loose、lose、loss、lost、
-    lot、loud、love、low、lord。**lu- / ly- 两段的准备还没做。**
-    本轮三批：loose → lorry 11 条（loose 20 义、lord 8 义）、lose → louche 9 条（lose 22 义、loss 14 义、lost 11 义、lot 11 义；
-    形容词 lost 已单立）、loud → loving 17 条（love 31 义，十几个 love + 名词搭配全并；loud 13 义、lounge 8 义）。
-    被拦的：audit-ab 报 love 缺 would love to do、fall in love with（写了 would love to / fall in love，A 的等式多一个词）；
-    love 所在切块讲解行密度低于基线，补了近三十行；loosen、lot、lousy 例句偏薄。
-  **下一批收完 lo- 段**：low（大词，并 lowball、lowbrow、lowly、lowland / lowlander 与三十来个 low- 复合词：low-key、low-fat、low-cost、
-    low tide、low season、low-lying、low-paid、low-profile、low-down、low life、low point、low pressure、low water / low-water mark、
-    low beams、low-rise…）、lower（并 lower case、lower class、lower house / chamber、lower school、lowest common multiple）、
-    loyal（并 loyally、loyalist）、loyalty（并 loyalty card）、lozenge。
-    **然后进 lu- 段（清单 124 条）与 ly- 段（24 条），各自先做开段准备**；l 字母收完后可交第六份合并文件的进度（现 1268 条，满 2500 才交）。
+  **l 字母收完**（1608/1616，余下 8 条全是待推迟：lain 已随 lie 写完、ladies' man / lese-majesty / lying-in 等要等 m、s 段的内容词）。
+    a–l 十二个字母都已收完。
+    l 段的开段准备分段做（la- / le- / li- / lo- / lu- + ly-），判语都在 exclude.txt、proper-nouns-keep.txt 的 L 段注释与 inflections.txt 里。
+    本轮三批：low → lozenge 5 条（low 53 义，三十来个 low- 复合词全并；lower 11 义，登 derived-keep）—— lo- 段收完；
+    lubricant → lumpy 27 条（luck 13 义、lucky 8 义、lump 8 义）；lunacy → lyric 33 条（lunch 11 义）—— lu- / ly- 段收完。
+    Lyme disease 并进 disease 条；lynchpin 登 inflections，在 linchpin 条补了等式。
+    被拦的：lowland 只在核心块里（补等式）；lychee ③ 是元评论例句（「有些店把它拼成…」）→ 改成两条真用法；
+    audit-ab 报 luck 缺 have no luck；lush ② 与 luxurious ① 场景撞车；lull、lumpy、lunch、luscious、lustre、luxuriant 例句偏薄；
+    lu- 后半一块讲解行密度低于基线，补了近三十行。
+    义项序号超过 ㊿ 用 ❶❷❸…（check-wordlist 的 NUMS 共 80 个），low 是头一个用到的；数义项时正则要带上 ❶-❿。
+  **下一批进 m 字母（清单 2593 条），先做开段准备**：M 段大写词头逐条判（收进 proper-nouns-keep）、ma- 段的 exclude（784 条里地区词、
+    窄专业、缩写 mb / mg / ml / mm / mph 等）、inflections（made→make、men→man、meant→mean、met→meet、mice→mouse 等）、
+    audit-idioms 大词（make、man、many、mark、market、matter、mean、meet、mind、miss、moment、money、more、most、move、much 等）。
+    准备照 l 字母的做法分段做，先做 ma-。ma- 开头：ma、macabre、macaroni、machine 一族、mad 一族、made、magazine、magic 一族、main 一族、make（大词）…
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
