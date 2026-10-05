@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-05，第八十三轮）═══
-B 词表 14223 条、义项 51618 条，词典序 a → medley。A 表 3002 条。
+═══ 现状（2026-10-05，第八十四轮）═══
+B 词表 14268 条、义项 51776 条，词典序 a → memory。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -38,7 +38,7 @@ B 词表 14223 条、义项 51618 条，词典序 a → medley。A 表 3002 条�
     audit-ab 报 luck 缺 have no luck；lush ② 与 luxurious ① 场景撞车；lull、lumpy、lunch、luscious、lustre、luxuriant 例句偏薄；
     lu- 后半一块讲解行密度低于基线，补了近三十行。
     义项序号超过 ㊿ 用 ❶❷❸…（check-wordlist 的 NUMS 共 80 个），low 是头一个用到的；数义项时正则要带上 ❶-❿。
-  **m 字母在写**（清单约 2400 条）：ma- 段收完；me- 段写到 medley（47 条），me- 还剩待新写约 211 条。
+  **m 字母在写**（清单约 2400 条）：ma- 段收完；me- 段写到 memory（92 条），me- 还剩待新写约 146 条。
     开段准备已做：M 段大写词头收 82 条（判语见 proper-nouns-keep 的 M 段注释；Mr / Mrs / Ms 照 Jr 的先例按称谓缩写剔）；
     ma- 段 exclude 补 86 条（印度 maha / mahal / mandir / mazdoor，东非 matatu / matoke / manyatta / makuti，南非 maas / mampara / matric，
     澳新 mana / mateship，西非 mallam，窄专业 macrophage / maxilla / maltose / marl，冷僻词与商号残片）；
@@ -50,15 +50,14 @@ B 词表 14223 条、义项 51618 条，词典序 a → medley。A 表 3002 条�
     语言学的 meta- 一族、解剖的 metacarpal / meninges、元素、毒品名、药名等）；inflections 补 meant→mean、met→meet 与变体
     mediaeval / medivac / meany / methought / med / meds；audit-idioms 补 meal、mean、means、measure、medicine、medium、meet、melt、memory、
     mend、mention、mercy、mess、message、mettle。**mi- / mo- / mu- / my- 各段的准备还没做。** mnemonic 留着，写到 mn- 时单立。
-    本轮两批：me → meat 20 条（measure 22 义、mean 21 义，三个同形词写在一条；meat 11 义、means 10 义）、
-    Mecca → medley 27 条（medium 10 义、medical 9 义）。
-    被拦的：audit-swallowed 报 mealtime（等式只写了 at mealtimes）；audit-ab 报 medical 缺 medical check-up；
-    两批的切块讲解行密度都低于基线；mean ① 与 meaning ②、meaning ④ 与 meaningful ② 场景撞车；
-    meaning、meaningful、meaningless、measurement、mechanical、medallion、medication 例句偏薄。
-  **下一批从 meek 起**：meek（并 meekly、meekness）、meerkat、meet（大词，并 met、meetup、meet up / with、meet and greet）、meeting（并 meeting place /
-    house）、mega、megabucks、megabyte、megacity、megahertz、megalith（并 megalithic）、megalomania（并 megalomaniac）、megalopolis、megaphone、
-    megapixel、megastar、megastore、megawatt、melancholy 一族、melange、melanin、melanoma、melatonin、meld、melee、mellifluous、mellow（并 mellow out）、
-    melody 一族、melodrama 一族、melon、melt（并 meltdown、melting、melting point / pot）、member、membership、membrane、meme、memento、memo…
+    本轮三批：meek → megawatt 17 条（meet 20 义）、melancholy → melt 15 条（melt 14 义）、member → memory 13 条（memory 13 义）。
+    被拦的：audit-swallowed 报 memorialize（等式只写了被动式 be memorialized）；megabucks、megahertz、melodic、memoir 例句偏薄。
+    这一轮三批都没有再触发讲解行密度 —— 两义小词从动笔就每个义项配一行讲解，是管用的。
+  **下一批从 menace 起**：menace（并 menacing(ly)）、ménage（并 ménage à trois）、menagerie、mend（并 mender）、mendacious（并 mendacity）、mendicant、
+    menfolk、menial、meningitis、Mennonite、menopause（并 menopausal）、menorah、menstruate 一族、menswear、mental（并 mentally、mental age / health）、
+    mentality、mentee、menthol（并 mentholated）、mention、mentor（并 mentoring、mentorship）、menu（并 menu bar）、meow、mercantile 一族、mercenary、
+    merch、merchandise（并 merchandising）、merchant（并 merchant bank / banker / banking / navy / marine）、merciful 一族、mercurial、mercury、mercy、
+    mere（并 merely）、merengue、meretricious、merge（并 merger）、meridian、meringue、merino、merit 一族、mermaid（并 merman）、merry 一族…
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
