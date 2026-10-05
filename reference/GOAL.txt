@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-05，第七十六轮）═══
-B 词表 13833 条、义项 50072 条，词典序 a → lyric。A 表 3002 条。
+═══ 现状（2026-10-05，第七十七轮）═══
+B 词表 13894 条、义项 50259 条，词典序 a → magpie。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -38,10 +38,21 @@ B 词表 13833 条、义项 50072 条，词典序 a → lyric。A 表 3002 条�
     audit-ab 报 luck 缺 have no luck；lush ② 与 luxurious ① 场景撞车；lull、lumpy、lunch、luscious、lustre、luxuriant 例句偏薄；
     lu- 后半一块讲解行密度低于基线，补了近三十行。
     义项序号超过 ㊿ 用 ❶❷❸…（check-wordlist 的 NUMS 共 80 个），low 是头一个用到的；数义项时正则要带上 ❶-❿。
-  **下一批进 m 字母（清单 2593 条），先做开段准备**：M 段大写词头逐条判（收进 proper-nouns-keep）、ma- 段的 exclude（784 条里地区词、
-    窄专业、缩写 mb / mg / ml / mm / mph 等）、inflections（made→make、men→man、meant→mean、met→meet、mice→mouse 等）、
-    audit-idioms 大词（make、man、many、mark、market、matter、mean、meet、mind、miss、moment、money、more、most、move、much 等）。
-    准备照 l 字母的做法分段做，先做 ma-。ma- 开头：ma、macabre、macaroni、machine 一族、mad 一族、made、magazine、magic 一族、main 一族、make（大词）…
+  **m 字母在写**（清单约 2500 条）：ma- 段写到 magpie（61 条），ma- 还剩待新写约 441 条。
+    开段准备已做：M 段大写词头收 82 条（判语见 proper-nouns-keep 的 M 段注释；Mr / Mrs / Ms 照 Jr 的先例按称谓缩写剔）；
+    ma- 段 exclude 补 86 条（印度 maha / mahal / mandir / mazdoor，东非 matatu / matoke / manyatta / makuti，南非 maas / mampara / matric，
+    澳新 mana / mateship，西非 mallam，窄专业 macrophage / maxilla / maltose / marl，冷僻词与商号残片）；
+    inflections 补 made→make、matrices→matrix、maneuver 一族→manoeuvre、math→maths、mattins→matins、magus→Magi、
+    Moslem→Muslim、Mohammed→Muhammad；audit-idioms 补 mad、magic、main、make、man、manner、many、map、march、mark、market、
+    marriage、mass、master、match、matter、may。**me- / mi- / mo- / mu- / my- 各段的 exclude 与 audit-idioms 还没做。**
+    本轮两批：ma → macroeconomics 29 条（machine 10 义）、mad → magpie 32 条（magnet 15 义、mad 14 义、magic 14 义）。
+    被拦的：mad → magpie 一批九条例句偏薄（一串两义的名词，句子都写成了八九个词）—— 小词的例句起笔就要带时间、地点或结果；
+    macaroon、machinery、mackerel 同理。上一轮 low 53 义所在的切块在加进新词条、重切之后又掉到基线以下，补了三十行讲解。
+  **下一批从 maharaja 起**：maharaja（并 maharani）、mahatma、mahjong、mahogany、maid（并 maidservant）、maiden（并 maiden name）、
+    mail 一族（mailbag、mailbox、mailer、mailing、mailman、mailroom、mailshot、mail order / merge / out / slot）、maim、main 一族（mainframe、
+    mainland、mainline、mainly、mainsail、mainspring、mainstay、mainstream、main street / verb / man）、maintain、maintenance、maisonette、
+    maitre d'、maize、majestic、majesty、major 一族（majorette、majority、majorly、major-domo、major in / on）、然后 make（大词）。
+    made 已登 inflections，在 make 条配例句；made-up、made to measure / order 并进 make。
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
