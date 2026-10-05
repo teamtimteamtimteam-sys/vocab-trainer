@@ -9,8 +9,8 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-05，第八十六轮）═══
-B 词表 14379 条、义项 52142 条，词典序 a → microwave。A 表 3002 条。
+═══ 现状（2026-10-05，第八十七轮）═══
+B 词表 14438 条、义项 52371 条，词典序 a → millstone。A 表 3002 条。
   **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
   **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
     以及 coverage 的一处统计残差，都等 t 段。
@@ -38,7 +38,7 @@ B 词表 14379 条、义项 52142 条，词典序 a → microwave。A 表 3002 �
     audit-ab 报 luck 缺 have no luck；lush ② 与 luxurious ① 场景撞车；lull、lumpy、lunch、luscious、lustre、luxuriant 例句偏薄；
     lu- 后半一块讲解行密度低于基线，补了近三十行。
     义项序号超过 ㊿ 用 ❶❷❸…（check-wordlist 的 NUMS 共 80 个），low 是头一个用到的；数义项时正则要带上 ❶-❿。
-  **m 字母在写**（清单约 2300 条）：ma- 段收完；**me- 段收完**（376/378，余 men's room、mezzo-soprano 待推迟）；mi- 段写到 microwave（25 条），mi- 还剩待新写约 306 条。
+  **m 字母在写**（清单约 2300 条）：ma- / me- 两段收完；mi- 段写到 millstone（84 条），mi- 还剩待新写约 215 条。
     开段准备已做：M 段大写词头收 82 条（判语见 proper-nouns-keep 的 M 段注释；Mr / Mrs / Ms 照 Jr 的先例按称谓缩写剔）；
     ma- 段 exclude 补 86 条（印度 maha / mahal / mandir / mazdoor，东非 matatu / matoke / manyatta / makuti，南非 maas / mampara / matric，
     澳新 mana / mateship，西非 mallam，窄专业 macrophage / maxilla / maltose / marl，冷僻词与商号残片）；
@@ -55,14 +55,17 @@ B 词表 14379 条、义项 52142 条，词典序 a → microwave。A 表 3002 �
     南非 mine dump，过时的 minidisc / microfiche / microcomputer，带种族主义历史的 miscegenation，片名与历史事件残片）；
     inflections 补 mice→mouse、mistook→mistake、misunderstood→misunderstand 与变体 milage / milometer / miter / mike / miaow / missis；
     audit-idioms 补 might、mile、milk、mill、mind、mine、minute、mint、miss、mistake、mix、mischief、misery。**mo- / mu- / my- 各段的准备还没做。**
-    本轮两批：meter → mezzanine 22 条（method 8 义）—— me- 段收完，收完后再跑 coverage 没有冒出新的待并入条目；
-    mi → microwave 25 条（micro- 一族）。meow 条补了英式拼法 miaow 的等式。
-    被拦的：meth、methane、Methodism、microblog、microelectronics、microorganism、microwave 例句偏薄 —— 科技名词的例句容易只写一个主谓宾。
-  **下一批从 mid 起**：mid（并 mid-air、mid-range、mid-sized、mid-Atlantic）、midday、middle（大词，并 middle age / middle-aged / middle-age spread、
-    middle class、middle name、middle school、middle ground、middle finger、middle ear、middle management / manager、middle-of-the-road、middle-distance、
-    middle C、middle-ranking）、middlebrow、middleman、middleweight、middling、midfield（并 midfielder）、midge、midget、midlife（并 midlife crisis）、
-    midnight（并 midnight blue）、midpoint、midriff、midshipman、midst、midstream、midsummer（并 midsummer's day）、midterm、midtown、midway、midweek、
-    Midwestern、midwife（并 midwifery）、midwinter、mien、miffed、might（并 mightily、mighty、might-have-been）、migraine、migrant、migrate 一族…
+    本轮三批：mid → midst 16 条（middle 22 义，十五个 middle + 名词搭配全并）、midstream → milieu 23 条（might 11 义、mild 9 义、mile 9 义）、
+    militant → millstone 20 条（milk 22 义、mill 13 义）。exclude 又补 midyear。
+    被拦的：middle ⑫ middle class 与 ⑬ middle-class 被 audit-padding 判成重复义项（等式剥掉连字符后相同）→ ⑬ 改成具体搭配 middle-class tastes；
+    mileage ④ 又写了一条谈拼法的元评论例句 → 删掉该义项，把 milage 作为第二条等式挂在 ① 下面；
+    三批的切块讲解行密度都低于基线，外加更早的 melody … menfolk 一块因重切漂移又掉线，共补了一百多行；
+    midday、midnight、midst、midterm、might、mild、mildew、millimetre、million 例句偏薄。
+    **记住：拼法变体不要单开义项写「某某把它拼成…」，直接在已有义项下面加一条等式即可（lychee、mileage 两次踩同一个坑）。**
+  **下一批从 mime 起**：mime、mimic（并 mimicry）、mimosa、minaret、mince（并 mincemeat、mincer、mincing、mince pie）、mind（大词，十几个习语，
+    并 minded、minder、mind-blowing / -boggling / -bending / -numbing、mind game / map / reader、mind out）、mindful（并 mindfulness）、mindless、mindset、
+    mine（并 minefield、miner、mineshaft、minesweeper、mineworker、mining、mine detector）、mineral（并 mineral water / oil）、minestrone、mingle、
+    mini 一族（miniature、minibar、minibus、minicab、minidress、minigolf、miniseries、miniskirt、minivan）、minimal 一族、minimum（并 minimum wage）…
   **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
     invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
     insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
