@@ -328,3 +328,13 @@ a lithe gymnast = 身体柔软的体操选手
 = 那只猫轻盈地跳上墙头，沿着墙顶走去。
 jump lithely = 轻盈地跳
 比 flexible 多一层「优美」。
+
+lithium
+核心：锂 —— 最轻的金属元素，符号 Li；用于电池，其化合物用于治疗躁郁症。
+① Most mobile phones run on lithium batteries.
+= 大多数手机用的是锂电池。
+a lithium battery = 锂电池
+② The doctor prescribed lithium to control his sudden changes of mood.
+= 医生给他开了锂盐，控制他情绪的突然波动。
+prescribe lithium = 开锂盐（药）
+这一支是药名。
