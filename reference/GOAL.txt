@@ -9,73 +9,34 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-05，第八十八轮）═══
+═══ 现状（2026-10-05，第八十八轮收尾，交接用）═══
 B 词表 14486 条、义项 52602 条，词典序 a → mirth。A 表 3002 条。
-  **a–h 八个字母收完**（h 2002/2023，余下 21 条全是待推迟）。
-  **i 字母收完**（1911/1914）：余下 in tray（已写进 in 条，挂 tray 名下）、isosceles triangle（内容词在 t 段，到时并）、
-    以及 coverage 的一处统计残差，都等 t 段。
-    开段准备已做：剔除 16 条（indaba / induna / inyanga 南非，incharge 印度，
-    inchoative / interlanguage / interlingual / infix / inscape / intertextuality / individuate /
-    insolation / intraoperative / indium / interlinear 窄专业，intra 前缀残片）；
-    audit-idioms 补 in / inch / income / increase。大写词头（Indian 一族、Injun、Interpol、
-    Indonesian…）早已在 proper-nouns-keep 里判过。
-    前两轮六批：in → in-laws、inability → inauspicious、inauthentic → inception、
-    incessant → including 23 条（inch 9 义；incidentally 登 derived-keep 单立）、
-    inclusion → incongruous 20 条（income 并 income tax / income support）、
-    inconsequential → incredulous 22 条（increase 并 increased；incorporated 单立）。
-  **j 字母收完**（434/434）。a–j 十个字母都已收完（各段余下的只有待推迟条目）。
-    开段准备已做：J 段大写词头判完（收 31 条进 proper-nouns-keep）；exclude 补印度、南非东非、澳新、苏格兰变体
-    与窄专业、专名残片共 28 条；inflections 补 jehad→jihad、jerrymander(ing)→gerrymander(ing)；
-    audit-idioms 补 j 段十五个大词。
-  **k 字母收完**（414/417，余下 kola nut 等 3 条待推迟）。a–k 十一个字母都已收完。kph 照 kg 的先例剔；Komodo dragon 并进 dragon 条。
-  **l 字母收完**（1608/1616，余下 8 条全是待推迟：lain 已随 lie 写完、ladies' man / lese-majesty / lying-in 等要等 m、s 段的内容词）。
-    a–l 十二个字母都已收完。
-    l 段的开段准备分段做（la- / le- / li- / lo- / lu- + ly-），判语都在 exclude.txt、proper-nouns-keep.txt 的 L 段注释与 inflections.txt 里。
-    本轮三批：low → lozenge 5 条（low 53 义，三十来个 low- 复合词全并；lower 11 义，登 derived-keep）—— lo- 段收完；
-    lubricant → lumpy 27 条（luck 13 义、lucky 8 义、lump 8 义）；lunacy → lyric 33 条（lunch 11 义）—— lu- / ly- 段收完。
-    Lyme disease 并进 disease 条；lynchpin 登 inflections，在 linchpin 条补了等式。
-    被拦的：lowland 只在核心块里（补等式）；lychee ③ 是元评论例句（「有些店把它拼成…」）→ 改成两条真用法；
-    audit-ab 报 luck 缺 have no luck；lush ② 与 luxurious ① 场景撞车；lull、lumpy、lunch、luscious、lustre、luxuriant 例句偏薄；
-    lu- 后半一块讲解行密度低于基线，补了近三十行。
-    义项序号超过 ㊿ 用 ❶❷❸…（check-wordlist 的 NUMS 共 80 个），low 是头一个用到的；数义项时正则要带上 ❶-❿。
-  **m 字母在写**（清单约 2300 条）：ma- / me- 两段收完；mi- 段写到 mirth（132 条），mi- 还剩待新写约 135 条（几乎全是 mis- 一族，外加 miss、mist、mistake、mix）。
-    开段准备已做：M 段大写词头收 82 条（判语见 proper-nouns-keep 的 M 段注释；Mr / Mrs / Ms 照 Jr 的先例按称谓缩写剔）；
-    ma- 段 exclude 补 86 条（印度 maha / mahal / mandir / mazdoor，东非 matatu / matoke / manyatta / makuti，南非 maas / mampara / matric，
-    澳新 mana / mateship，西非 mallam，窄专业 macrophage / maxilla / maltose / marl，冷僻词与商号残片）；
-    inflections 补 made→make、matrices→matrix、maneuver 一族→manoeuvre、math→maths、mattins→matins、magus→Magi、
-    Moslem→Muslim、Mohammed→Muhammad；audit-idioms 补 mad、magic、main、make、man、manner、many、map、march、mark、market、
-    marriage、mass、master、match、matter、may。**me- / mi- / mo- / mu- / my- 各段的 exclude 与 audit-idioms 还没做。**
-    me- 段开段准备已做：exclude 补 85 条（连同 mb- / mg- / mh- / ml- / mm- / mp- / mr- / mw- / mz- 这些只有一两条的小段一并判了：
-    单位缩写 mg / ml / mm / mpg / mph，东非 mzee / mzungu / mwalimu，拟声 mhm / mwah；me- 段的 mealie 南非、mehndi / mela / methi 印度，
-    语言学的 meta- 一族、解剖的 metacarpal / meninges、元素、毒品名、药名等）；inflections 补 meant→mean、met→meet 与变体
-    mediaeval / medivac / meany / methought / med / meds；audit-idioms 补 meal、mean、means、measure、medicine、medium、meet、melt、memory、
-    mend、mention、mercy、mess、message、mettle。**mi- / mo- / mu- / my- 各段的准备还没做。** mnemonic 留着，写到 mn- 时单立。
-    mi- 段开段准备已做：exclude 补 88 条（计量单位 micron / microgram / millibar / millivolt，窄专业 mitosis / mitochondrion / mimesis / mineralogy，
-    冷僻的 mis- 动词 misfile / miskey / misdial / misname 等九条，英式粗俗俚语 minge / minger / minging，东非 miraa、印度 mirch / mixie、
-    南非 mine dump，过时的 minidisc / microfiche / microcomputer，带种族主义历史的 miscegenation，片名与历史事件残片）；
-    inflections 补 mice→mouse、mistook→mistake、misunderstood→misunderstand 与变体 milage / milometer / miter / mike / miaow / missis；
-    audit-idioms 补 might、mile、milk、mill、mind、mine、minute、mint、miss、mistake、mix、mischief、misery。**mo- / mu- / my- 各段的准备还没做。**
-    本轮三批：mime → mindset 9 条（mind 38 义，十九个习语、四个 mind- 形容词全并）、mine → minnow 23 条（mine 15 义，代词 / 矿两个同形词；
-    mini- 一族）、minor → mirth 16 条（minute 14 义，「分钟」与「极小的」两个读音写在一条；minority 8 义、mint 8 义、mirror 8 义）。
-    inflections 补 mining→mine。
-    被拦的：audit-padding 判重复义项两处 —— minidress 两条等式都只是词头本身、minor 的名词「辅修」与动词 minor in（合成一个义项、两条等式）；
-    minus 的讲解行里混进了数学减号 U+2212，check-wordlist 报「混入异体字符」（中文译文、讲解里不许出现这类符号，改成文字）；
-    mini ① 与 miniskirt ①、major ⑤ 与 minor ⑥ 场景撞车；minidress、minimal、minimize、miniseries、minute、mire 例句偏薄。
-    **只有一个意思的名词（minidress、minibus 这类）第二条例句要配一个真搭配的等式，别两条都写「a X = X」。**
-  **下一批从 mis-selling 起**：mis- 一族一百来条 —— misadventure、misalign、misanthrope 一族、misapply、misapprehension、misappropriate、misbehave、
-    miscalculate、miscarriage（并 miscarriage of justice）、miscarry、miscast、miscellaneous、miscellany、mischance、mischief（并 mischief-making）、
-    mischievous、miscommunication、misconceive(d)、misconception、misconduct、misconstrue、miscount、miscreant、misdeed、misdemeanour、misdiagnose、
-    misdirect、miser 一族、miserable、misery（并 misery memoir）、misfire、misfit、misfortune、misgiving、misgovern、misguided、mishandle、mishap、mishear…
-    写法：动词和它的名词并成一条（misapply + misapplication），每条两三个义项，例句都带场景。
-  **in- 段的并入原则**：coverage 把 industrial action、index card、inner city、intensive care、
-    invite back 等 41 条挂在 action / card / city / care / back 名下，把 income tax、indirect speech、
-    insist on、invest in 等 110 条列「待推迟」—— 一律按重心并进对应的 in- 词条（同 impulse buy 的做法，
-    coverage 认）。写到那个 in- 词时顺手并，不要漏：写每批前先 grep 一下清单里以该词打头的多词条目。
+  **a–l 十二个字母收完**（各字母余下的只有「待推迟」条目，等后面字母的内容词；用 coverage.py <字母> 现查）。
+  **m 字母在写**（清单约 2300 条）：ma- / me- 两段收完；mi- 段写到 mirth，还剩待新写约 135 条 ——
+    几乎全是 mis- 一族，外加 miss、mist、mistake、mix 几个大词及其复合词。
+  **开段准备做到哪儿了**：M 段大写词头全判完（收 82 条，判语在 proper-nouns-keep 的 M 段注释；Mr / Mrs / Ms 按称谓缩写剔了，
+    已告知用户「想收说一声」，用户尚未表态）；ma- / me- / mi- 三段的 exclude、inflections、audit-idioms 都做了，
+    连同 mb- / mg- / mh- / ml- / mm- / mp- / mr- / mw- / mz- 这些一两条的小段。
+    **mo-（约 530 条）/ mu-（约 250 条）/ my-（约 38 条）三段的准备还没做，写到之前各自先过一遍。** mnemonic 留着，写到 mn- 时单立。
+  **下一批从 mis-selling 起**：mis- 一族 —— misadventure、misalign(ed/ment)、misanthrope 一族、misapply（并 misapplication）、misapprehension、
+    misappropriate、misbegotten、misbehave、miscalculate、miscarriage（并 miscarriage of justice）、miscarry、miscast、miscellaneous、miscellany、
+    mischance、mischief（并 mischief-making）、mischievous、miscommunication、misconceive(d)、misconception、misconduct、misconstrue、miscount、
+    miscreant、misdeed、misdemeanour、misdiagnose、misdirect、miser 一族、miserable、misery（并 misery memoir）、misfire、misfit、misfortune、
+    misgiving、misgovern、misguided、mishandle、mishap、mishear、mishmash、misinform、misinterpret、misjudge、mislay、mislead、mismanage、mismatch、
+    misnomer、miso、misogyny 一族、misplace(d)、misprint、mispronounce、misquote、misread、misrepresent、misrule，然后 miss（大词）、missile、
+    missing、mission、missionary、missive、misspell、misspend、misstep、missus、mist、mistake（大词，mistook 已登 inflections）、mister、mistime、
+    mistletoe、mistreat、mistress、mistrial、mistrust、misty、misunderstand、misuse、mite、mitigate、mitre、mitt、mitten、mix（大词）一族。
+    写法：动词和它的名词、形容词并成一条（misapply + misapplication），每条两三个义项。
+  **节奏**：每次回复约三批（每批 20–25 条，有大词就少些），每批跑十二道闸门加判重、各自本地提交；开新段那一轮可以是「准备 + 两批」。
+  **in- 段的并入原则仍适用于所有字母**：多词条目（X + 名词、短语动词）一律按重心并进以 X 打头的那个词条，
+    写每个大词前先从 coverage 输出里把以它打头的「待并入」「待推迟」条目列出来，全部并进去。
   **high 78 义，用户 2026-09-23 裁定不拆**。
-交付文件（每 2500 条一份，满了自动顺延）：
-  B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12500 / 12501-13097
+交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
+  已交付五份：B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12500（用户已导入 app）。
+  **第六份在攒：现为 B-merged-12501-14486（1986 条），满 2500 条时会自动定名 B-merged-12501-15000 并登进台账 ——
+  到时主动告诉用户「第六份可以导入了」并用 SendUserFile 发给他。** 还差 514 条。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **origin 目前在 51e34015**；之后本地领先的提交都没推，push 照旧等用户开口。
+  **origin 目前在 51e34015**；本地领先 202 个提交，全部没推，push 照旧等用户开口。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
 · **两义项的术语词扎堆，整块的批均等式会掉到基线下**（hy- 段 hypersensitive 那批

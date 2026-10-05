@@ -147,6 +147,34 @@ especially 那句「everybody said it was」被元评论检查逮到，改例句
    登完 inflections.txt 必须重跑 `python3 scripts/gen-forms.py`（第十二道闸门会拦）。
 12. **词根是名词的 -ly 词**（hourly、daily）不归 audit-derived 那条规矩管，
    登进 derived-keep.txt 写明「词根是名词」。
+13. **拼法变体不要单开义项写「某某把它拼成…」** —— 那是元评论，audit-padding 当场拦（lychee、mileage 连栽两次）。
+   做法：变体登 inflections.txt，然后在宿主词条已有义项下面**加一条等式**（`milage = 里程（mileage 的另一种拼法）`），
+   想配例句就写一条真用法（She bought a kilo of fresh lichees…）。
+14. **登了 inflections 的同形词仍要单立**：left→leave、lost→lose、lay→lie、found→find 这类，登记后 coverage 不再把它列进
+   待新写，但「左」「迷路的」「放」这些独立的词条照样要写 —— 写到那个位置自己记着。
+15. **并进主条却前四个字母对不上的派生词，coverage 不认**（lazily / laziness→lazy、mating→mate、mining→mine、
+   layperson / laywoman→layman）。两条路：登 inflections（仍并在主条里），或者单立。audit-padding 报
+   「例句里没有词」多半也是这个原因（men、left、lay、lying 都是登记后解决的）。
+16. **讲解行密度是整块算的，会随重切漂移**：三四十义的大词必然把所在切块拉到基线下；隔几批以后，
+   早先通过的切块也可能因为总条数变了、边界挪动而重新掉线。每批跑完都看一眼
+   `python3 scripts/check-wordlist.py 'wordlists/B-*.txt' | grep '←'`，掉线就给那一块补讲解行。
+   **预防**：大词动笔时至少一半义项直接配讲解行；两义小词每个义项都配一行。
+17. **高频小词、科技名词、单义名词的例句最容易写短**（like、may、menu、microwave、minute…）。
+   每句动笔就带上时间、地点、原因或结果，目标十个词以上；别等 audit-examples 报了再补。
+18. **只有一个意思的名词**（minidress、minibus、megastore）两条例句别都配「a X = X」—— 等式相同会被判重复义项。
+   第二条给一个真搭配（a wool minidress、a minibus meets the train）。同理，名词义和同形动词义
+   （a minor in / minor in）剥掉占位词后等式相同，合成一个义项、挂两条等式。
+19. **一段写完后再跑一次 coverage**：宿主词条写出来以后，才会冒出挂在它名下的「待并入已有词条」
+   （machine tool、marriage certificate、marsh gas 都是这么补的）。用 `scripts/add-sense.py` 的 `add()` 补进宿主条，
+   疾病名、X + 名词挂在别的字母宿主下的（Lassa fever→fever、lima bean→bean、meta-analysis→analysis）也用它。
+20. **补丁脚本的 glob 要覆盖重切后的文件名**（`B-13[67]*.txt` 而不是只写 `B-137*`），并且**每次看打印的替换数**：
+   匹配不到时替换数是 0，脚本不报错，闸门照旧红。
+21. **中文译文和讲解行里不许出现数学符号、希腊字母等异体字符**（minus 那次写了 U+2212 的减号，check-wordlist 报
+   「混入异体字符」）—— 一律用文字。
+22. **audit-padding 的「元评论」偶有误判**：「says matins」被当成「某人 says 某词」的句式。换个动词（leads matins），别动尺子。
+23. **gates.sh 传了还没有词条的段名会报「没有匹配的词条」**（kp、ly 刚开段时）—— 属正常，那一段有了词条再带上。
+24. **义项超过 ㊿ 用 ❶❷❸…**（NUMS 共 80 个，low 53 义是头一个）；自己数义项的正则要带上 `❶-❿`。
+25. **scratchpad 路径每个会话不同**，闸门输出写到当前会话的 scratchpad（系统提示里给），别照抄旧路径。
 
 ## 七、另一条并行的活：给拓展块补例句（用户 2026-09-11 定）
 
@@ -183,35 +211,29 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
 
 **进度从脚本读，别手写**：`python3 scripts/status.py` 末尾会打出两档的剩余条数。
 
-## 八、当前进度（2026-09-28）
+## 八、当前进度（2026-10-05，k → mi 这一长段会话收尾时写）
 
 - **条数、义项数、段完成度一律从脚本读**（`status.py` / `check-merged.py` /
   `coverage.py`），这一节只记「现在在哪、下一步干什么、有什么没收尾的」。
-  **最新的现状块在 reference/GOAL.txt 顶部**，比这一节更细。
-- B 词表 11668 条，词典序 a → ikebana；A 表 3002 条。交付文件第五份
-  `B-merged-10001-11668.txt`。
-- **a–h 八个字母收完**（h 2002/2023，余下 21 条都是待推迟）。
-- **i 字母在写**：ia- / ib- / ic- / id- / ie- / if- / ig- / ik- 已收完。
-  **下一批从 il- 段起**（73 条，ill 一族最大），然后 im- 278 条，in- 1256 条是主体。
-- **开新字母段的固定准备**（i 字母时做过一遍，j 字母照做）：
-  ① 从 `reference/OALD10_Cleaned_Learning_List.csv` 第二列列出该字母的大写词头，
-     按「已进词汇才收」逐条判，收的登进 `proper-nouns-keep.txt`（纯人名地名、全大写缩写、
-     商标不收）；② 扫一遍整段清单，把地区变体、窄专业、专名残片、词缀、小写单位缩写
-     登进 exclude.txt；③ 往 audit-idioms 的 CHECK 补大词的习语（先 grep 同名键）。
-- **大词单立一批**：hit / hold / home / horse / hot / house / how / ice 都是这么写的 ——
-  核心块讲语义架构，挂在它名下的复合词、短语动词按义归组并进去。high 78 义，
-  **用户 2026-09-23 裁定不拆**，也别再往里塞。
-- **本轮用户裁定过的事**（都已落实，写在对应文件里）：
-  · g / h 段 177 行 Markdown 加粗全部去掉，check-wordlist 从此见 `**` 就拦；
-  · 小写单位缩写（hg / hl / h.p. / hr）同 cwt 一律剔除；
-  · 威尔士变体同其余地区变体一样剔除（hwyl、cwtch）。
-- **尺子本轮的改动**（都先验过「塞一个真错进去照样报红」）：
-  · check-wordlist：加「见 ** 就拦」；草稿行检查跳过首行（词头就是 hmm）；
-  · audit-padding：连 inflections.txt 一起读（变体不再被误报「例句里没有词」）；
-    same_word 认整词相等（两个字母的变体 hm）；
-  · gates.sh 加第十二道 `gen-forms --check`。
-- **推送**：最近一次推到 aa2bed2e（2026-09-23）；本地之后又有十几笔提交没推，
-  **push 照旧等用户开口**。
+  **最新的现状块在 reference/GOAL.txt 顶部**，比这一节更细，下一批的词头清单也在那里。
+- B 词表 14486 条，词典序 a → mirth；A 表 3002 条。**a–l 十二个字母收完**，m 字母写完 ma- / me-，
+  mi- 写到 mirth，**下一批从 mis-selling 起**（mis- 一族约 135 条）。
+- **交付按台账走**（`reference/B-delivered.txt`，见第二节与 CLAUDE.md）：前五份用户已导入 app；
+  第六份现为 `B-merged-12501-14486.txt`（1986 条），**满 2500 条时主动告诉用户并用 SendUserFile 发过去**。
+- **开新字母、新段的固定准备**（l、m 两个字母都是分段做的，一段一做，别一口气判完整个字母）：
+  ① 大写词头：从 `reference/OALD10_Cleaned_Learning_List.csv` 第二列列出该字母的大写词头，
+     按「已进词汇才收」逐条判，收的登进 `proper-nouns-keep.txt` 并在段首写判语注释
+     （纯人名地名、全大写缩写、商标、称谓缩写不收）—— **整个字母一次判完**；
+  ② exclude：扫该段「待新写」「待推迟」「待并入」三张清单，把地区变体（印度、东非、南非、西非、澳新、苏格兰、爱尔兰）、
+     窄专业、专名与书名残片、小写单位缩写、冒犯性标签、清单里的重复写法登进 exclude.txt；
+  ③ inflections：不规则过去式与复数、美式拼法、拼法变体（登完跑 gen-forms.py）；
+  ④ audit-idioms：给该段的大词补习语清单（插在 `'image':` 那个键前面，先 grep 同名键）；
+  ⑤ 提交一笔「X 段开段准备」，再动笔。
+- **M 段有一处等用户表态**：Mr / Mrs / Ms 按「称谓缩写不收」剔了（同 Jr），已告诉用户想收就说，用户没回。别自己改。
+- **mo- / mu- / my- 三段的准备还没做。**
+- **排序规则**：按词（word-by-word）排，和原始 CSV 的逐字母排在带空格、连字符的词头上有约百处相邻逆序；
+  用户 2026-10 问过、知道、没要求改，保持现状。
+- **推送**：origin 在 51e34015；本地领先两百多笔提交全没推，**push 照旧等用户开口**。
 
 ## 九、iPad app（index.html 单文件）也归这个仓库管
 
