@@ -255,3 +255,4 @@ miaow        meow           # 英式拼法；在 meow 条配例句
 missis       missus         # 拼法变体；在 missus 条配例句
 mistook      mistake        # 不规则过去式；在 mistake 条配例句
 misunderstood misunderstand # 不规则过去式、过去分词；在 misunderstand 条配例句
+mining       mine           # 名词并进 mine 条后，前四字母对不上

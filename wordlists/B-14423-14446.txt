@@ -1,3 +1,13 @@
+militate
+核心：militate against（正式）—— 妨碍、不利于、使难以实现。
+① The high cost of housing militates against young people who want to start a family.
+= 高昂的住房成本对想成家的年轻人很不利。
+militate against = 妨碍、不利于
+② His bad temper militated against his chances of becoming captain.
+= 他的坏脾气妨碍了他当队长的机会。
+militate against his chances = 妨碍他的机会
+别和 mitigate（减轻）弄混。
+
 militia
 核心：民兵组织、民兵（总称）。名词 militiaman（民兵）并入本条。
 ① The village formed a militia to guard the bridge at night.
@@ -282,6 +292,7 @@ mime
 ① The children performed a short mime about a man walking into the wind.
 = 孩子们演了一段哑剧，演一个人顶着风走路。
 a mime = 一段哑剧
+不说话，全靠动作和表情。
 ② She mimed drinking a cup of tea to show that she was thirsty.
 = 她做了个喝茶的动作，表示自己渴了。
 mime doing something = 用动作示意做…
@@ -298,6 +309,7 @@ mimic
 ① He can mimic the voice of every teacher in the school.
 = 学校里每位老师的嗓音他都能模仿。
 mimic somebody's voice = 模仿某人的嗓音
+常是为了逗乐。
 ② The insect mimics a dead leaf to hide from birds.
 = 那种昆虫酷似一片枯叶，以躲避鸟类。
 mimic a leaf = 酷似一片叶子
@@ -336,6 +348,7 @@ mincer（英：绞肉机）、mincing（步态做作的）。
 ① Fry the mince with onions until it is brown.
 = 把肉末和洋葱一起炒到变色。
 fry the mince = 炒肉末
+美式说 ground beef。
 ② She minced the beef and mixed it with herbs.
 = 她把牛肉绞碎，拌上香草。
 mince the beef = 把牛肉绞碎
@@ -375,18 +388,21 @@ mind-numbing（无聊得让人发木的，副词 mind-numbingly）。
 ① He has a sharp mind and learns quickly.
 = 他头脑敏锐，学得快。
 a sharp mind = 敏锐的头脑
+思考、记忆、感受的那个「心」。
 ② She is one of the finest minds of her generation.
 = 她是她那一代最出色的头脑之一。
 the finest minds = 最出色的头脑
 ③ I cannot make up my mind whether to stay or go.
 = 我拿不定主意是留是走。
 make up your mind = 拿定主意
+同 decide，更口语。
 ④ He was going to sell the car but changed his mind.
 = 他本打算卖车，后来改了主意。
 change your mind = 改变主意
 ⑤ Bear in mind that the shops close early on Sundays.
 = 记住，商店星期天关门早。
 bear in mind = 记住、考虑到
+后面常接 that 从句。
 ⑥ Keep in mind that she has never done this before.
 = 别忘了她以前从没做过这个。
 keep in mind = 记住
@@ -408,6 +424,7 @@ speak your mind = 直言不讳
 ⑫ I am in two minds about taking the job in London.
 = 伦敦的那份工作接不接，我拿不定主意。
 in two minds = 拿不定主意
+美式说 of two minds。
 ⑬ You must be out of your mind to swim in that river in winter.
 = 你冬天跑到那条河里游泳，准是疯了。
 out of your mind = 疯了
@@ -426,6 +443,7 @@ take your mind off = 让…不去想
 ⑱ Do you mind if I open the window?
 = 我开窗你介意吗？
 do you mind = 你介意…吗
+动词 mind 多用于疑问、否定。
 ⑲ Would you mind waiting outside for a moment?
 = 劳驾在外面等一会儿好吗？
 would you mind doing something = 劳驾…好吗
@@ -436,9 +454,11 @@ I don't mind = 我无所谓
 ㉑ "I have broken a cup." "Never mind; it was an old one."
 = “我打碎了一个杯子。”“没关系，那是个旧的。”
 never mind = 没关系
+也用来说「别管了、算了」。
 ㉒ He told the reporter to mind her own business.
 = 他叫那个记者少管闲事。
 mind your own business = 少管闲事
+相当不客气。
 ㉓ Mind out! There is a bicycle coming.
 = 当心！有辆自行车过来了。
 mind out = （英）当心
@@ -449,6 +469,7 @@ mind the gap = 小心站台间隙
 ㉕ Mind the step as you come in.
 = 进来的时候留神台阶。
 mind the step = 留神台阶
+英式提醒语；美式说 watch。
 ㉖ Could you mind my bag while I buy a ticket?
 = 我去买票，你帮我看一下包好吗？
 mind somebody's bag = 替某人看包
@@ -476,6 +497,7 @@ a mind reader = 能读心的人
 ㉞ The view from the top of the mountain was mind-blowing.
 = 山顶的景色令人震撼。
 mind-blowing = 令人震撼的
+口语，多是好的震撼。
 ㉟ The universe is mind-bogglingly large, and the numbers are mind-boggling.
 = 宇宙大得难以想象，那些数字也叫人咋舌。
 mind-boggling = 难以想象的
@@ -518,12 +540,3 @@ mindless of something = 不顾…
 ④ She sat on the sofa, mindlessly changing channels.
 = 她坐在沙发上，无意识地换着台。
 mindlessly = 无意识地、机械地
-
-mindset
-核心：思维定式、心态 —— 一套固定的想法和态度，影响人怎么看事、怎么做事。
-① You need a different mindset to run your own business.
-= 自己做生意需要另一种心态。
-a different mindset = 另一种心态
-② The new manager is trying to change the mindset of the whole team.
-= 新经理正设法改变整个团队的思维定式。
-change the mindset = 改变思维定式
