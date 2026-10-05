@@ -246,3 +246,12 @@ meany        mean           # meanie 的另一种拼法
 methought    methinks       # 古语过去式；在 methinks 条配例句
 med          medical        # 口语缩略；在 medical 条配例句
 meds         medication     # 口语缩略；在 medication 条配例句
+mice         mouse          # 不规则复数；在 mouse 条配例句
+milage       mileage        # 拼法变体；在 mileage 条配例句
+milometer    mileometer     # 拼法变体；在 mileometer 条配例句
+miter        mitre          # 美式拼法；在 mitre 条配例句
+mike         mic            # 拼法变体；在 mic 条配例句
+miaow        meow           # 英式拼法；在 meow 条配例句
+missis       missus         # 拼法变体；在 missus 条配例句
+mistook      mistake        # 不规则过去式；在 mistake 条配例句
+misunderstood misunderstand # 不规则过去式、过去分词；在 misunderstand 条配例句

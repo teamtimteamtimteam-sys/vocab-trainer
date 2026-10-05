@@ -162,6 +162,7 @@ a meow = 一声喵
 ② The kitten meowed until someone opened the window.
 = 那只小猫喵喵叫个不停，直到有人打开窗户。
 meow = 喵喵叫
+miaow = （英式拼法）喵；喵喵叫
 
 mercantile
 核心：（正式）商业的、贸易的、商人的。
