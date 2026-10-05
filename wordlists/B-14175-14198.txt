@@ -1,3 +1,15 @@
+maze
+核心：迷宫；（比喻）错综复杂的一大片（街巷、规则）。
+① We got lost in the maze at the old palace and had to shout for help.
+= 我们在老宫殿的迷宫里迷了路，只好喊人帮忙。
+a maze = 迷宫
+② The old town is a maze of narrow streets.
+= 老城是一片迷宫般的窄街。
+a maze of streets = 迷宫般的街巷
+③ Small firms struggle with the maze of tax rules.
+= 小公司被错综复杂的税务规定搞得焦头烂额。
+a maze of rules = 错综复杂的规定
+
 mazurka
 核心：玛祖卡舞 —— 波兰的一种三拍子民间舞；玛祖卡舞曲。
 ① The couples danced a lively mazurka at the wedding.
@@ -487,40 +499,3 @@ mechanics = 力学
 ③ He explained the mechanics of the new voting system to the committee.
 = 他向委员会解释了新投票制度的具体运作方式。
 the mechanics of something = …的具体运作方式
-
-mechanical
-核心：机械的、与机器有关的；（动作、回答）机械般的、不走心的。副词 mechanically 并入本条。
-搭配：mechanical engineering（机械工程）、mechanical engineer（机械工程师）、mechanical pencil（美：自动铅笔）。
-① The flight was delayed by a mechanical problem with one of the engines.
-= 那趟航班因一台发动机出了机械故障而延误。
-a mechanical problem = 机械故障
-名词是 machine、mechanism。
-② She gave the visitor a mechanical smile and went on typing her report.
-= 她冲来客机械地笑了一下，继续打她的报告。
-a mechanical smile = 机械的笑
-③ He nodded mechanically at everything his aunt said without hearing a word.
-= 他姑妈说什么他都机械地点头，一个字也没听进去。
-mechanically = 机械地
-④ She has a degree in mechanical engineering and designs engines for racing cars.
-= 她有机械工程学位，为赛车设计发动机。
-mechanical engineering = 机械工程
-⑤ Her father was a mechanical engineer who designed pumps.
-= 她父亲是设计水泵的机械工程师。
-a mechanical engineer = 机械工程师
-⑥ He wrote the answer to each sum with a mechanical pencil that never needs sharpening.
-= 他用一支不用削的自动铅笔写下每道算术题的答案。
-a mechanical pencil = （美）自动铅笔
-英式说 propelling pencil。
-
-mechanism
-核心：机械装置、机件；机制、办法；（生物、心理的）机理。
-① The lock has a simple mechanism that even a child can open.
-= 那把锁的机件很简单，连小孩都打得开。
-a simple mechanism = 简单的机件
-一组互相配合的零件。
-② There is no mechanism for dealing with complaints from patients.
-= 没有处理病人投诉的机制。
-a mechanism for doing something = 做…的机制
-③ Laughing can be a defence mechanism when people are nervous.
-= 人紧张的时候，笑可能是一种防御机制。
-a defence mechanism = 防御机制
