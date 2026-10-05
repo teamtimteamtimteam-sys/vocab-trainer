@@ -1,3 +1,13 @@
+metadata
+核心：元数据 —— 描述其他数据的数据，如一张照片的拍摄时间、地点。
+① The metadata shows that the photograph was taken at six in the morning.
+= 元数据显示那张照片是早上六点拍的。
+the metadata shows = 元数据显示
+② The police used the metadata of his phone calls to find out where he had been.
+= 警方利用他通话的元数据查出了他去过哪些地方。
+the metadata of phone calls = 通话的元数据
+meta- 表示「关于…的」。
+
 metal
 核心：金属。形容词 metallic（金属的、像金属的）并入本条；
 并入的还有 metalwork（金属制品；金属工艺）、metalworker（金属工）、metal detector（金属探测器）、（英）metalled（（路）铺了碎石的）。
@@ -333,13 +343,3 @@ like a metronome = 像节拍器一样
 ③ The runner kept up a metronomic pace for the whole race.
 = 那位选手整场比赛都保持着节拍器般均匀的步速。
 a metronomic pace = 节拍器般均匀的步速
-
-metropolis
-核心：大都市、大都会 —— 一国或一个地区的主要大城市。
-① In fifty years, the fishing village grew into a metropolis of ten million people.
-= 五十年间，那个渔村发展成了一座千万人口的大都市。
-a metropolis = 大都市
-② She left the small town for the bright lights of the metropolis.
-= 她离开小城，奔向大都市的灯红酒绿。
-the metropolis = 大都会
-希腊语「母城」。

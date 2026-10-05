@@ -1,3 +1,16 @@
+mercury
+核心：汞、水银 —— 常温下呈液态的银白色金属，符号 Hg；Mercury —— 水星；（罗马神话里的）信使神墨丘利。
+① Old thermometers contain mercury, which is poisonous.
+= 老式温度计里有水银，有毒。
+contain mercury = 含水银
+② The mercury rose to forty degrees in the afternoon.
+= 下午气温升到了四十度。
+the mercury rises = 气温上升
+借温度计里的水银柱指气温。
+③ Mercury is the smallest planet and the closest to the sun.
+= 水星是最小的行星，也离太阳最近。
+Mercury = 水星
+
 mercy
 核心：仁慈、宽恕、怜悯；（口语）幸事。
 习语：at the mercy of（任由…摆布）、have mercy on（可怜、饶了）、show no mercy（毫不留情）、beg for mercy（求饶）、
@@ -394,13 +407,3 @@ the metabolic rate = 代谢率
 ④ The liver metabolizes alcohol at about one drink an hour.
 = 肝脏代谢酒精的速度大约是一小时一杯。
 metabolize alcohol = 代谢酒精
-
-metadata
-核心：元数据 —— 描述其他数据的数据，如一张照片的拍摄时间、地点。
-① The metadata shows that the photograph was taken at six in the morning.
-= 元数据显示那张照片是早上六点拍的。
-the metadata shows = 元数据显示
-② The police used the metadata of his phone calls to find out where he had been.
-= 警方利用他通话的元数据查出了他去过哪些地方。
-the metadata of phone calls = 通话的元数据
-meta- 表示「关于…的」。
