@@ -964,3 +964,4 @@ mastic       # 窄专业
 mastitis     # 医学窄专业
 matchwood    # 冷僻
 mattock      # 农具，冷僻
+magna cum laude  # 美国大学拉丁文荣誉等级，窄
