@@ -237,3 +237,12 @@ Moslem       Muslim         # 旧拼法；在 Muslim 条配例句
 Mohammed     Muhammad       # 拼法变体；在 Muhammad 条配例句
 men          man            # 不规则复数；在 man 条配例句
 mating       mate           # 名词并进 mate 条后，前四字母对不上
+meant        mean           # 不规则过去式、过去分词；在 mean 条配例句
+met          meet           # 不规则过去式、过去分词；在 meet 条配例句
+mediaeval    medieval       # 拼法变体；在 medieval 条配例句
+medivac      medevac        # 拼法变体；在 medevac 条配例句
+meanie       mean           # 口语名词并进 mean 条，前四字母对不上
+meany        mean           # meanie 的另一种拼法
+methought    methinks       # 古语过去式；在 methinks 条配例句
+med          medical        # 口语缩略；在 medical 条配例句
+meds         medication     # 口语缩略；在 medication 条配例句

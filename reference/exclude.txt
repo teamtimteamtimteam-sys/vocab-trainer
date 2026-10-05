@@ -987,3 +987,89 @@ marram grass        # 植物名，窄
 ma-am               # ma'am 的重复写法，词条已写
 marriage broker     # 旧称，冷僻
 marriage bureau     # 旧称，冷僻
+mbira        # 非洲乐器名，窄
+mg           # 小写单位缩写，同 kg 一律剔除
+ml           # 小写单位缩写
+mm           # 小写单位缩写
+mpg          # 小写单位缩写
+mph          # 小写单位缩写
+mhm          # 拟声应答
+mwah         # 拟声（飞吻）
+mridangam    # 印度乐器
+mwalimu      # 东非英语
+mwananchi    # 东非英语
+mzee         # 东非英语
+mzungu       # 东非英语
+meadowlark   # 北美鸟名
+mealie       # 南非英语（玉米）
+mealie meal  # 南非英语
+mealworm     # 窄
+mebibit      # 计量单位，窄
+mebibyte     # 计量单位，窄
+mecha        # 动漫行话
+mechatronics # 工程窄专业
+medial       # 解剖 / 语音窄专业
+medico       # 旧式口语
+medlar       # 果树名，冷僻
+meg          # megabyte 的口语缩略
+megabit      # 计量单位，窄
+megadeath    # 核战术语
+megaflop     # 冷僻
+megalosaurus # 恐龙属名
+megaton      # 核武当量单位，窄
+megachurch   # 美国用语
+meh          # 网络感叹词
+mehndi       # 印度英语（手绘）
+mela         # 印度英语（集会）
+meitnerium   # 化学元素，窄
+mendelevium  # 化学元素，窄
+melisma      # 乐理窄专业
+melodica     # 乐器名，窄
+melamine     # 材料名，窄
+meiosis      # 生物学窄专业
+memsahib     # 殖民时期印度的称呼
+menhir       # 考古窄词
+meninges     # 解剖窄专业
+meniscus     # 解剖 / 物理窄专业
+mensch       # 美式意第绪语借词
+menses       # 医学窄专业
+ment         # 后缀残片
+mephedrone   # 毒品名
+mercerization # 纺织窄专业
+mercerize    # 纺织窄专业
+merchantable # 法律窄专业
+merchantman  # 旧称（商船）
+merkin       # 冷僻
+merlin       # 鸟名，窄
+mesa         # 美国西南部地貌名
+mescal       # 酒名 / 仙人掌名
+mescaline    # 毒品名
+mesclun      # 菜名
+mesomorph    # 窄专业
+mesophyll    # 植物学窄专业
+mesquite     # 北美树名
+metacarpal   # 解剖窄专业
+metatarsal   # 解剖窄专业
+metafiction  # 文论窄专业
+metafile     # 计算机窄专业
+metalanguage # 语言学窄专业
+metalinguistic   # 语言学窄专业
+metalinguistics  # 语言学窄专业
+metanarrative    # 文论窄专业
+metathesis   # 语言学窄专业
+metalliferous # 窄专业
+metalloid    # 化学窄专业
+methi        # 印度英语（葫芦巴）
+methicillin  # 药名
+methuselah   # 专名出身，冷僻
+metrological # 窄专业
+metrology    # 计量学，窄
+metonymy     # 修辞学窄专业
+mezuzah      # 犹太教器物，窄
+mezzotint    # 版画窄专业
+meze         # 地中海小菜名
+metaphysical poets  # 文学史专名
+medical hall # 爱尔兰英语（药房）
+metropolitan county # 英国行政区划术语
+meow meow    # 毒品俚语
+mentally handicapped # 旧称，带冒犯性
