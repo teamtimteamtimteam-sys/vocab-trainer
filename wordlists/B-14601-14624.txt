@@ -1,72 +1,3 @@
-mod
-核心：几个缩短形式凑成的一条。一是二十世纪六十年代英国的摩登派青年，穿着讲究、骑小型摩托，跟摇滚派是对头；
-二是（非正式）对软件、游戏、汽车做的改装和改动，也作动词，名词 modding 并入本条；三是（非正式）网上论坛的版主。
-mod con 是英式说法，指住宅里的现代化设施，多用复数，房屋广告里写 all mod cons。
-① In 1964 mods and rockers fought on the beach at Brighton in front of the cameras.
-= 一九六四年，摩登派和摇滚派在布赖顿的海滩上当着镜头打了起来。
-a mod = 摩登派青年
-② He downloaded a mod that adds new maps and weapons to the original game.
-= 他下载了一个改装包，给原版游戏加了新地图和新武器。
-a mod = 游戏改装包
-③ She spent the summer modding her old car with a louder exhaust and wider wheels.
-= 她花了一个夏天改装自己的旧车，换上更响的排气管和更宽的轮子。
-mod a car = 改装汽车
-④ Modding has become so popular that some studios release their tools to the players.
-= 改装游戏十分流行，有些工作室干脆把工具放给玩家。
-modding = 改装（游戏、软件）
-⑤ One of the mods deleted the thread after the argument turned into personal abuse.
-= 争论变成了人身攻击，一位版主就把那个帖子删了。
-one of the mods = 一位版主
-⑥ The cottage looks ancient from the lane, but inside it has every mod con.
-= 那座小屋从巷子里看很古旧，里面却样样现代化设施都有。
-a mod con = 现代化设施
-all mod cons = 现代化设施一应俱全
-
-modal
-核心：（语法）情态动词，也叫 modal verb、modal auxiliary：can、may、must、should 这一类，
-放在动词原形前表示可能、许可、义务。名词可数，也作形容词。
-名词 modality 并入本条：语法上指情态；正式用语里指「方式、形态」，医学上说治疗手段。
-① The exercise asks students to fill each gap with a suitable modal.
-= 那道练习要学生在每个空里填一个合适的情态动词。
-a modal = 情态动词
-② Unlike ordinary verbs, a modal verb takes no ending in the third person singular.
-= 跟普通动词不同，情态动词在第三人称单数时不加词尾。
-a modal verb = 情态动词
-③ Surgery is only one of several treatment modalities that the hospital can offer.
-= 手术只是那家医院能提供的几种治疗手段之一。
-a treatment modality = 治疗手段
-④ The chapter on modality explains how speakers express doubt and certainty.
-= 讲情态的那一章解释了说话人怎样表达怀疑与确信。
-modality = 情态
-
-mode
-核心：底子是「方式」。几支：做事或存在的方式，正式，a mode of 后接名词；机器的工作状态、模式；
-（非正式）人所处的状态、劲头：be in holiday mode；一时的风尚，旧说法；音乐上的调式；统计上的众数。
-① The bicycle is still the cheapest mode of transport in most of the city.
-= 在城里大部分地方，自行车仍是最便宜的交通方式。
-a mode of transport = 交通方式
-比 way 正式，多见于书面。
-② Switch the camera to night mode before you try to photograph the fireworks.
-= 拍烟花之前，先把相机调到夜景模式。
-night mode = 夜景模式
-③ The phone goes into sleep mode after two minutes to save the battery.
-= 手机两分钟后进入休眠状态，以节省电量。
-go into sleep mode = 进入休眠状态
-④ By Friday afternoon the whole office is already in holiday mode.
-= 到了星期五下午，整个办公室已经是一副放假的劲头。
-be in holiday mode = 一副放假的劲头
-把人比作机器，口语。
-⑤ Long skirts were the mode that winter, and every shop window was full of them.
-= 那年冬天时兴长裙，家家橱窗里都摆满了。
-be the mode = 正时兴
-这一支已经旧了，来自法语。
-⑥ The folk tune is written in a mode that sounds strange to ears used to major keys.
-= 那支民间曲调用的调式，听惯大调的耳朵会觉得陌生。
-a mode = 调式
-⑦ The mode is the value that occurs most often in a set of figures.
-= 众数是一组数字里出现次数最多的那个值。
-the mode = 众数
-
 model
 核心：底子是「照着它来的那个样子」。名词几支：缩小的仿制品，模型；产品的一个型号；
 用来说明、推算一件复杂事情的模型（数学的、计算机的）；值得照着做的样板、典范，作定语就是「模范的」；
@@ -463,3 +394,35 @@ a Mogul emperor = 莫卧儿皇帝
 ③ She hit a mogul at full speed and landed on her back in the soft snow.
 = 她全速撞上一个雪包，仰面摔在了松软的雪里。
 a mogul = （滑雪道上的）雪包
+
+mohair
+核心：马海毛：安哥拉山羊的毛，也指用它织的料子和毛线。不可数，常作定语。借自阿拉伯语。
+① She knitted him a mohair scarf that was far too warm for an English spring.
+= 她给他织了一条马海毛围巾，英格兰的春天戴实在太热。
+a mohair scarf = 马海毛围巾
+② The suit is made of a blend of mohair and wool that hardly creases at all.
+= 那套西装用马海毛与羊毛混纺的料子做成，几乎不起皱。
+a blend of mohair and wool = 马海毛与羊毛混纺
+
+Mohawk
+核心：两支。一是莫霍克人，北美原住民的一支，也指他们的语言；二是（美）莫霍克发型：两侧剃光、中间留一道竖起的头发。
+这个发型英式叫 Mohican。
+① Her grandmother was a Mohawk who grew up on a reservation near the Canadian border.
+= 她祖母是莫霍克人，在靠近加拿大边境的一处保留地长大。
+a Mohawk = 莫霍克人
+② He came home from college with a bright green Mohawk and a ring in his nose.
+= 他从大学回家时，顶着亮绿色的莫霍克头，鼻子上还穿了个环。
+a green Mohawk = 绿色的莫霍克头
+
+Mohican
+核心：两支。一是（英）莫希干发型：两侧剃光、中间留一道竖起的头发，美式叫 Mohawk；
+二是莫希干人，北美原住民的一支。发型的名字是从族名借来的。
+① The drummer had a pink Mohican that added ten centimetres to his height.
+= 那个鼓手留着粉色的莫希干头，让他高出了十厘米。
+a pink Mohican = 粉色的莫希干头
+② The barber refused to give a twelve-year-old a Mohican haircut without his mother's permission.
+= 没有母亲的许可，理发师不肯给一个十二岁的孩子剃莫希干头。
+a Mohican haircut = 莫希干发型
+③ The novel is set among the Mohicans during the wars of the eighteenth century.
+= 那部小说以十八世纪战争期间的莫希干人为背景。
+the Mohicans = 莫希干人
