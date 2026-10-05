@@ -1,3 +1,91 @@
+module
+核心：一个大整体里可以单独拿出来的单元。几支：课程的一个单元；软件、电路的模块；
+航天器上可以分离的舱；预制的建筑或家具部件。
+① Students must pass six modules in the first year, including one in statistics.
+= 学生第一年必须通过六个单元，其中一个是统计学。
+pass a module = 通过一个单元
+② The program is divided into modules that can be tested separately.
+= 那个程序分成若干模块，可以分别测试。
+a module = （程序的）模块
+③ The lunar module separated from the main craft and began its descent to the surface.
+= 登月舱与主飞船分离，开始向月面下降。
+the lunar module = 登月舱
+④ Each bathroom arrives from the factory as a finished module and is lifted into place by crane.
+= 每间浴室都是工厂做好的成品部件，运来后用吊车吊装到位。
+a finished module = 成品部件
+
+modus operandi
+核心：（正式，拉丁语）做事的惯用手法、行事方式，尤指罪犯作案的手法。只用单数。警方常缩写成 MO。
+① The police noticed that all five burglaries shared the same modus operandi.
+= 警方注意到，五起入室盗窃的作案手法如出一辙。
+the same modus operandi = 同样的作案手法
+② Her modus operandi is to agree with everybody at the meeting and then do exactly as she pleases.
+= 她的一贯做法是会上谁的话都赞成，会后爱怎么干就怎么干。
+somebody's modus operandi = 某人的惯用做法
+
+modus vivendi
+核心：（正式，拉丁语）权宜的相处之道：意见不合的双方为了能共处而达成的安排。只用单数。
+① The two communities have reached a modus vivendi after years of bitter quarrels.
+= 经过多年激烈的争吵，那两个社群找到了相安无事的办法。
+reach a modus vivendi = 找到相安无事的办法
+② The divorced couple worked out a modus vivendi for the sake of their children.
+= 那对离了婚的夫妇为了孩子，摸索出了一套相处的办法。
+work out a modus vivendi = 摸索出相处的办法
+
+moggie
+核心：（英，非正式）猫，尤指没有品种的家猫。带亲昵口气。也拼 moggy。
+① Our cat is not a pedigree animal, just an ordinary moggie from the rescue centre.
+= 我们家的猫不是纯种的，只是从救助中心领来的一只普通家猫。
+an ordinary moggie = 普通家猫
+② The old lady next door feeds every stray moggie in the street.
+= 隔壁的老太太把街上的每只流浪猫都喂了。
+a stray moggie = 流浪猫
+
+mogul
+核心：三个义项来路不同。一是大亨、巨头，某一行里极有钱有势的人，前面常加行业名；
+这个义项借自印度历史上的莫卧儿皇帝，那个义项要大写。二是滑雪道上的雪包。
+① The media mogul owns four newspapers and a television channel.
+= 那位传媒大亨拥有四家报纸和一个电视频道。
+a media mogul = 传媒大亨
+② The fort was built by a Mogul emperor in the sixteenth century.
+= 那座城堡是十六世纪一位莫卧儿皇帝修建的。
+a Mogul emperor = 莫卧儿皇帝
+③ She hit a mogul at full speed and landed on her back in the soft snow.
+= 她全速撞上一个雪包，仰面摔在了松软的雪里。
+a mogul = （滑雪道上的）雪包
+
+mohair
+核心：马海毛：安哥拉山羊的毛，也指用它织的料子和毛线。不可数，常作定语。借自阿拉伯语。
+① She knitted him a mohair scarf that was far too warm for an English spring.
+= 她给他织了一条马海毛围巾，英格兰的春天戴实在太热。
+a mohair scarf = 马海毛围巾
+② The suit is made of a blend of mohair and wool that hardly creases at all.
+= 那套西装用马海毛与羊毛混纺的料子做成，几乎不起皱。
+a blend of mohair and wool = 马海毛与羊毛混纺
+
+Mohawk
+核心：两支。一是莫霍克人，北美原住民的一支，也指他们的语言；二是（美）莫霍克发型：两侧剃光、中间留一道竖起的头发。
+这个发型英式叫 Mohican。
+① Her grandmother was a Mohawk who grew up on a reservation near the Canadian border.
+= 她祖母是莫霍克人，在靠近加拿大边境的一处保留地长大。
+a Mohawk = 莫霍克人
+② He came home from college with a bright green Mohawk and a ring in his nose.
+= 他从大学回家时，顶着亮绿色的莫霍克头，鼻子上还穿了个环。
+a green Mohawk = 绿色的莫霍克头
+
+Mohican
+核心：两支。一是（英）莫希干发型：两侧剃光、中间留一道竖起的头发，美式叫 Mohawk；
+二是莫希干人，北美原住民的一支。发型的名字是从族名借来的。
+① The drummer had a pink Mohican that added ten centimetres to his height.
+= 那个鼓手留着粉色的莫希干头，让他高出了十厘米。
+a pink Mohican = 粉色的莫希干头
+② The barber refused to give a twelve-year-old a Mohican haircut without his mother's permission.
+= 没有母亲的许可，理发师不肯给一个十二岁的孩子剃莫希干头。
+a Mohican haircut = 莫希干发型
+③ The novel is set among the Mohicans during the wars of the eighteenth century.
+= 那部小说以十八世纪战争期间的莫希干人为背景。
+the Mohicans = 莫希干人
+
 moi
 核心：（幽默）我。借自法语，故意装腔作势地用：或者单独当一句反问，假装对别人的指责大感意外；或者放在句尾代替 me。
 ① Late for my own party? Moi? I have never kept anybody waiting in my life.
@@ -195,93 +283,3 @@ the molestation of a child = 对儿童的猥亵
 ④ A convicted child molester is not allowed to work in any school.
 = 被定过罪的猥亵儿童犯不得在任何学校工作。
 a child molester = 猥亵儿童犯
-
-moll
-核心：（旧，俚语）黑帮分子的情妇、女伴。几乎只见于 a gangster's moll。
-① She plays a gangster's moll who betrays her lover to the police.
-= 她演一个黑帮分子的情妇，向警方出卖了自己的情人。
-a gangster's moll = 黑帮分子的情妇
-② In the old films the moll always wears furs and smokes through a long holder.
-= 老电影里，黑帮的女人总是穿着皮草，叼着长烟嘴抽烟。
-the moll = 黑帮的女人
-
-mollify
-核心：安抚、使消气：让正在生气的人平静下来。正式些。
-① The manager tried to mollify the angry customers by offering them a free meal.
-= 经理想用免费请一顿饭的办法，安抚那些愤怒的顾客。
-mollify somebody by doing something = 用某种办法安抚某人
-② She was not mollified by his apology and refused to speak to him for a week.
-= 他的道歉没能让她消气，她一个星期不肯跟他说话。
-be mollified by something = 因…而消气
-
-mollusc
-核心：软体动物：蜗牛、蛞蝓、贻贝、章鱼这一大类身体柔软、多数带壳的动物。美式拼 mollusk。
-① The oyster is a mollusc that can change sex several times in its life.
-= 牡蛎是一种一生中能几次变换性别的软体动物。
-a mollusc = 软体动物
-② The beach was covered with the shells of molluscs washed up by the storm.
-= 海滩上满是风暴冲上来的软体动物的壳。
-the shells of molluscs = 软体动物的壳
-
-molly
-核心：（非正式）摇头丸一类毒品的俗称，指它的粉末或晶体。不可数，也大写。
-① Two students were taken to hospital after taking molly at a music festival.
-= 两名学生在音乐节上服用摇头丸后被送进医院。
-take molly = 服用摇头丸
-② The police found a bag of molly hidden in the lining of his jacket.
-= 警察在他夹克的衬里中搜出了一包摇头丸。
-a bag of molly = 一包摇头丸
-
-mollycoddle
-核心：（贬义）娇惯、过分呵护，把人护得什么苦都吃不了。口气比 spoil 更嫌弃。
-① She was mollycoddled as a child and never learned to cook a meal for herself.
-= 她从小被娇惯，连给自己做顿饭都没学会。
-be mollycoddled as a child = 从小被娇惯
-② The coach refuses to mollycoddle his young players and trains them in all weathers.
-= 那位教练不肯娇惯年轻球员，什么天气都照练不误。
-mollycoddle somebody = 娇惯某人
-
-molten
-核心：熔化的、熔融的。原是 melt 的旧过去分词，现在只作形容词，而且只说高温才化的东西：金属、岩石、玻璃。
-黄油、巧克力、雪化了用 melted。
-① Molten lava poured down the side of the volcano and reached the village by dawn.
-= 熔岩顺着火山的山坡倾泻而下，天亮前流到了村子。
-molten lava = 熔岩
-② The workers poured the molten metal into moulds shaped like bells.
-= 工人们把熔化的金属浇进钟形的模子里。
-molten metal = 熔化的金属
-
-molybdenum
-核心：钼：一种银白色的金属元素，主要用来炼合金钢。不可数。读音重音在第二个音节。
-① A little molybdenum is added to the steel to make it stronger at high temperatures.
-= 钢里加一点钼，高温下强度更高。
-add molybdenum to steel = 往钢里加钼
-② The town grew up around a molybdenum mine that closed thirty years ago.
-= 那座小镇是围着一座钼矿发展起来的，矿三十年前就关了。
-a molybdenum mine = 钼矿
-
-mom
-核心：（美，非正式）妈妈，英式说 mum。当称呼用时常大写。
-更亲昵、孩子气的说法是 mommy 和 momma，并入本条。
-mom-and-pop 作定语，指夫妻俩自己经营的小店；mommy track 指为照顾孩子而放慢的职业道路。
-① My mom drove me to practice every morning before she went to work.
-= 我妈每天早上先开车送我去训练，然后才去上班。
-my mom = 我妈
-② Can I stay up late tonight, Mom, since there is no school tomorrow?
-= 妈，今晚我能晚点睡吗？明天不上学。
-Mom = 妈（称呼）
-③ She gave up her job to be a stay-at-home mom until the twins started school.
-= 她辞了工作在家当全职妈妈，直到双胞胎上学。
-a stay-at-home mom = 全职妈妈
-④ The little boy cried for his mommy when the lights went out.
-= 灯一灭，小男孩就哭着要妈妈。
-mommy = 妈咪（幼儿用语）
-⑤ His momma taught him to say grace before every meal.
-= 他妈妈教他每顿饭前都要祷告。
-momma = 妈（美国南方等地的说法）
-⑥ The supermarket drove every mom-and-pop store in the neighbourhood out of business.
-= 那家超市把街坊里的夫妻小店全挤垮了。
-a mom-and-pop store = 夫妻小店
-⑦ She refused to be put on the mommy track after her first child was born.
-= 生了第一个孩子以后，她不肯被划进那条专给妈妈们走的慢车道。
-the mommy track = 妈妈慢车道
