@@ -1,3 +1,13 @@
+mayfly
+核心：蜉蝣 —— 生在水边的小昆虫，成虫只活一两天。
+① Clouds of mayflies rise from the river on warm evenings in June.
+= 六月温暖的傍晚，成群的蜉蝣从河面飞起。
+a mayfly = 蜉蝣
+② The life of an adult mayfly lasts no more than a day or two.
+= 蜉蝣成虫的寿命不过一两天。
+an adult mayfly = 蜉蝣成虫
+常用来比喻生命短暂。
+
 mayhem
 核心：大混乱、骚乱。
 ① There was mayhem in the classroom when the teacher left the room.
@@ -388,82 +398,3 @@ a measly tip = 少得可怜的小费
 ② All we got after an hour's wait was a measly sandwich each.
 = 等了一个小时，我们每人只得到一个可怜的三明治。
 a measly sandwich = 一个可怜的三明治
-
-measure
-核心：测量、量；尺寸是…；衡量、评估。名词：措施、办法；（一定的）量、程度；衡量的标准；量具；（音乐）小节。
-短语动词：measure up（合格、达标；measure up to = 比得上）、measure out（量出）、measure against（把…与…相比）。
-习语：take measures（采取措施）、for good measure（另外再加一点）、beyond measure（无法估量地、极其）、
-in large measure（在很大程度上）、get the measure of（摸清底细）。
-形容词 measured（慎重的、从容的）、measurable（可测量的；明显的）、副词 measurably、形容词 measureless（文：无法估量的）并入本条；
-量具 measuring tape（卷尺）、measuring jug（英：量杯）、measuring cup（美：量杯）、measuring spoon（量勺）也在这里。
-① He measured the window before buying the curtains.
-= 买窗帘之前，他量了窗户的尺寸。
-measure the window = 量窗户
-名词 measurement。
-② The room measures four metres by five.
-= 那个房间长五米、宽四米。
-measure four metres by five = 尺寸是四米乘五米
-③ It is hard to measure the success of the project after only one year.
-= 才过了一年，很难评估那个项目成功与否。
-measure the success = 评估成功与否
-④ The government has taken measures to reduce traffic in the city centre.
-= 政府已采取措施减少市中心的交通流量。
-take measures = 采取措施
-这一支多用复数。
-⑤ The plan was accepted with a measure of doubt.
-= 那个方案是带着几分疑虑被接受的。
-a measure of = 一定程度的
-⑥ Exam results are not the only measure of a good school.
-= 考试成绩不是衡量好学校的唯一标准。
-a measure of something = 衡量…的标准
-⑦ The new teacher did not measure up, and she left after a term.
-= 那位新老师不合格，一个学期后就走了。
-measure up = 合格、达标
-多用于否定。
-⑧ The hotel did not measure up to the photographs.
-= 那家酒店没有照片上那么好。
-measure up to = 比得上
-⑨ She measured out two cups of flour.
-= 她量出了两杯面粉。
-measure out = 量出
-⑩ Each child's progress is measured against the average for the class.
-= 每个孩子的进步都拿来和全班平均水平相比。
-measure against = 把…与…相比
-⑪ He packed two jumpers and added a scarf for good measure.
-= 他装了两件套头衫，另外又加了一条围巾。
-for good measure = 另外再加一点
-本指卖东西时多给一点。
-⑫ Her kindness has helped us beyond measure.
-= 她的好心对我们的帮助无法估量。
-beyond measure = 无法估量地、极其
-⑬ His success is in large measure due to his wife.
-= 他的成功在很大程度上归功于他的妻子。
-in large measure = 在很大程度上
-⑭ It took the new manager a month to get the measure of the team.
-= 新经理花了一个月才摸清那支队伍的底细。
-get the measure of = 摸清底细
-⑮ She replied in a calm, measured voice.
-= 她用平静、从容的声音作了回答。
-a measured voice = 从容的声音
-⑯ There has been a measurable improvement in the quality of the water.
-= 水质有了明显可测的改善。
-a measurable improvement = 明显可测的改善
-⑰ The air is measurably cleaner since the factory closed.
-= 工厂关门以后，空气明显干净了。
-measurably = 明显地、可测地
-⑱ Use a measuring tape to check the length of the shelf.
-= 用卷尺量一下搁板的长度。
-a measuring tape = 卷尺
-也说 tape measure。
-⑲ Pour the milk into a measuring jug.
-= 把牛奶倒进量杯。
-a measuring jug = （英）量杯
-⑳ The recipe uses a measuring cup of sugar and two of flour.
-= 那个菜谱用一量杯糖、两量杯面粉。
-a measuring cup = （美）量杯
-㉑ Add one measuring spoon of salt to the water.
-= 往水里加一量勺盐。
-a measuring spoon = 量勺
-㉒ The poet writes of the measureless depths of the sea.
-= 那位诗人写到大海不可测的深处。
-measureless = （文）无法估量的
