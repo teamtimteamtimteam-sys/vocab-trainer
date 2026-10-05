@@ -256,3 +256,12 @@ missis       missus         # 拼法变体；在 missus 条配例句
 mistook      mistake        # 不规则过去式；在 mistake 条配例句
 misunderstood misunderstand # 不规则过去式、过去分词；在 misunderstand 条配例句
 mining       mine           # 名词并进 mine 条后，前四字母对不上
+mold         mould          # 美式拼法；在 mould 条配例句
+molder       moulder        # 美式拼法；在 moulder 条配例句
+molding      moulding       # 美式拼法；在 moulding 条配例句
+moldy        mouldy         # 美式拼法；在 mouldy 条配例句
+molt         moult          # 美式拼法；在 moult 条配例句
+monied       moneyed        # 拼法变体；在 moneyed 条配例句
+moveable     movable        # 拼法变体；在 movable 条配例句
+mousey       mousy          # 拼法变体；在 mousy 条配例句
+mossie       mozzie         # 拼法变体；在 mozzie 条配例句
