@@ -76,6 +76,7 @@ be concerned about = 对……担心
 注意用法：concerned 放名词前是担心，放名词后是相关。
 
 concert
+/ˈkɒnsət/
 核心：名词是音乐会。另有一支书面义「协同」：in concert
 with 是与……联手。形容词 concerted 是齐心协力的，
 a concerted effort 是一番合力。可数。
@@ -802,6 +803,7 @@ conduce to = 有益于
 注意搭配：介词只用 to，后面跟名词或动名词。
 
 conduct
+/kənˈdʌkt/（动）/ˈkɒndʌkt/（名）
 核心：几支，重音分工清楚。名词重音在前：一是行为举止，
 code of conduct 是行为准则；二是处理经营的方式。动词
 重音在后：进行开展、指挥乐队、导电导热，以及 conduct
@@ -1205,6 +1207,7 @@ a configuration = 排布方式
 注意语域：计算机与工程用词。
 
 confine
+/kənˈfaɪn/
 核心：两支。一是限制在某个范围内，介词用 to；二是关
 起来，多用被动。名词 confinement 是关押；复数
 confines 指界限；形容词 confined 是狭小封闭的。
@@ -1313,6 +1316,7 @@ conflation = 混为一谈
 注意语气：批评性用词。
 
 conflict
+/ˈkɒnflɪkt/（名）/kənˈflɪkt/（动）
 核心：名词重音在前，动词重音在后。名词一是冲突争斗，
 从吵架到战争都算；二是矛盾抵触，a conflict of interest
 是利益冲突。动词是相抵触，介词用 with。形容词
@@ -2557,6 +2561,7 @@ add a conservatory = 加盖玻璃花房
 注意用法：英美所指不同，看语境。
 
 conserve
+/kənˈsɜːv/
 核心：两支，重音不同。动词是省着用、保住不失：省电
 省水都用它，也指保护自然与文物。名词重音在前，指果肉
 多的蜜饯果酱。
@@ -2766,6 +2771,7 @@ a games console = 游戏机
 注意读音：动词重音在后，名词重音在前。
 
 consolidate
+/kənˈsɒlɪdeɪt/
 核心：三支。一是巩固：把已有的地位、成果、知识坐实；
 二是合并：把几个部分并成一个，公司与债务都常这么说；
 三是账目上的合并。名词 consolidation。
@@ -3196,6 +3202,7 @@ a constriction = 发紧、收窄
 注意分工：跟 constrain 同源，这个偏物理上的收窄。
 
 construct
+/kənˈstrʌkt/（动）/ˈkɒnstrʌkt/（名）
 核心：名词重音在前，动词重音在后。动词一是建造，二是
 构建：句子、论证、理论都能构建。名词是人为构想出来的
 概念，a social construct 是社会建构。名词 construction
@@ -3407,6 +3414,7 @@ consumptive = 患肺结核的（旧）
 注意用法：肺结核那一支是十九世纪的旧称。
 
 contact
+/ˈkɒntækt/
 核心：几支。名词一是联系往来；二是接触：物理上碰到；三是
 熟人门路；四是接触过传染源的人；五是隐形眼镜，多用复数。
 动词是联系某人。形容词 contactable 指联系得上的，
@@ -3621,6 +3629,7 @@ contemptuously = 轻蔑地
 注意别混：contemptuous 说露出轻蔑的人，contemptible 说该被轻蔑的事。
 
 contend
+/kənˈtend/
 核心：三支。一是争夺，介词用 for；二是应付难处，介词用
 with；三是主张、辩称，接 that 从句，正式。竞争者叫
 contender。
@@ -3640,6 +3649,7 @@ a contender = 竞争者
 注意搭配：争夺用 for，应付用 with。
 
 content
+/ˈkɒntent/（内容）/kənˈtent/（满足的）
 核心：两个词挤在一个拼法里，重音不同。重音在前的名词：
 内容；复数 contents 指目录，也指容纳的东西；跟食物连用
 指含量。重音在后的形容词与动词：满足的、使满足。名词
@@ -4021,6 +4031,7 @@ contraceptive pills = 避孕药
 注意分工：抽象说法用 contraception，具体药具用 contraceptive。
 
 contract
+/ˈkɒntrækt/（名）/kənˈtrækt/（动）
 核心：名词重音在前：合同。动词重音在后，三支：一是收缩
 变小；二是签约承包，contract out 是外包；三是染上重病，
 正式。形容词 contractile 指能收缩的；名词 contraction 一是
@@ -4219,6 +4230,7 @@ a contrarian view = 逆着大流的看法
 注意语域：投资与评论里常见。
 
 contrary
+/ˈkɒntrəri/
 核心：三支。一是相反的，名词短语 on the contrary 是恰恰
 相反、to the contrary 是相反的（证据说法）；二是 contrary
 to 与……相反；三是形容词说人故意拧着来，这一支重音在
@@ -4249,6 +4261,7 @@ contrarily = 相反地
 注意读音：说人故意拧着来那一支重音在中间。
 
 contrast
+/ˈkɒntrɑːst/（名）/kənˈtrɑːst/（动）
 核心：名词重音在前，动词重音在后。名词一是反差对比；二是
 屏幕与照片的明暗对比度。动词两支：一是把两样东西对比；
 二是形成反差，介词用 with。形容词 contrasting 是反差鲜明
@@ -4430,6 +4443,7 @@ a control centre = 控制中心、指挥中心
 注意搭配：in control of 是掌控，under control 是局面稳住了。
 
 controversy
+/ˈkɒntrəvɜːsi/
 核心：争议：公开的、往往拖很久的争论。英式两种重音都有人
 读。形容词 controversial，副词 controversially。动词
 controvert 偏正式，意思是反驳、否认。
@@ -4766,6 +4780,7 @@ a conversion van = 改装厢式车（内部改作居住或商务用途）
 注意用法：改建那一支英式最常见。
 
 convert
+/kənˈvɜːt/（动）/ˈkɒnvɜːt/（名）
 核心：名词重音在前：皈依者、改变立场的人。动词重音在后，
 几支：改变形式或用途、换算、使皈依（介词用 to）、橄榄球
 加踢命中。名词 converter 是转换器；convertible 一是形容词
@@ -5741,6 +5756,7 @@ a cordless drill = 无绳电钻
 注意分工：比 string 粗，比 rope 细。
 
 cordial
+/ˈkɔːdiəl/
 核心：两支。形容词是热诚友好的：待人客气而真心，比
 friendly 正式。名词是英式的浓缩果味饮料，兑水喝。名词
 cordiality，副词 cordially。留意 cordially dislike 是反用，
@@ -6747,6 +6763,7 @@ They corrugate the sheet to make it stiff without making it heavy.
 注意用法：起瓦楞是为了加强度。
 
 corrupt
+/kəˈrʌpt/
 核心：三支。形容词一是贪腐的：受贿枉法；二是道德败坏的；
 三是计算机里指文件损坏。动词是使腐化、使败坏，也指把文件
 弄坏。名词 corruption 一是贪腐、二是败坏、三是文本流传中
@@ -10372,6 +10389,7 @@ credentialed = 持证的（美式）
 注意用法：多用复数。
 
 credible
+/ˈkredəbəl/
 核心：可信的：说法与人经得起推敲。副词 credibly，名词
 credibility。反义 incredible 今天多用作「棒极了」，别当
 成单纯的反义词用。
@@ -11268,6 +11286,7 @@ cripes = 温和替换掉的赌咒话
 注意语域：偏旧的口语，今天带一点老派。
 
 cripple
+/ˈkrɪpəl/
 核心：两支。名词是旧称的残疾人 —— 今天是明确的冒犯语，
 不要用来说人。动词一是使残疾；二是引申的使瘫痪：把机构、
 经济、系统弄得动不了，这一支今天最常用。形容词 crippling
@@ -13549,6 +13568,7 @@ a cull = 扑杀行动
 注意语气：扑杀那一支带争议，报道里常见。
 
 culminate
+/ˈkʌlmɪneɪt/
 核心：达到顶点、以……告终：一路积累到最后收在某件事上，
 介词用 in，偶尔用 with。名词 culmination。正式词，不及物。
 ① The tour culminated in a concert and culminated with an argument backstage.
@@ -13643,6 +13663,7 @@ a cult following = 小众死忠
 注意语气：说团体时是贬义，说电影则是褒义。
 
 cultivate
+/ˈkʌltɪveɪt/
 核心：几支。一是耕种：把地整好种庄稼；二是培育：养某种
 作物；三是培养：习惯、兴趣、能力；四是经营关系：刻意跟
 有用的人拉近，略带心机。名词 cultivation，形容词
@@ -18062,6 +18083,7 @@ dazzle = 强光晃眼（也说才华耀人）
 stun = 震住（打击或惊讶得说不出话）
 
 dazzle
+/ˈdæzəl/
 核心：底层是「亮得让人睁不开眼」。两支：一是强光晃眼
 （be dazzled by the headlights）；二是比喻的「让人惊艳」，说才华、口才、气场。
 形容词 dazzling 两支都用 —— dazzling sunlight 是刺眼的阳光，
@@ -18980,6 +19002,7 @@ a debutante = 初入社交界的少女；也指首次登场的女性
 注意用法：名词说 make a debut，动词直接说 debut，两种都常见。
 
 decade
+/ˈdekeɪd/
 核心：十年。可数。说某个十年段常用带 the 的复数年份（the nineties），
 或 the first decade of the century。重音在第一个音节。
 ① The shop had been in the same family for three decades before it finally closed.
@@ -20036,6 +20059,7 @@ decoy somebody = 把某人引开、诱入圈套
 注意用法：作定语说 a decoy car、a decoy operation。
 
 decrease
+/dɪˈkriːs/（动）/ˈdiːkriːs/（名）
 核心：减少：数量或程度变小，跟 increase 正好相对。
 动词以不及物为主，也可及物；名词说 a decrease in something。
 跟 increase 一样，名词重音在前、动词重音在后。
@@ -20166,6 +20190,7 @@ dedication to something = 对某事的投入
 注意别混：dedicated 说人是投入，说设备是专用，靠上下文分。
 
 deduce
+/dɪˈdjuːs/
 核心：推断出：从已知的事实一步步推出结论。及物动词，
 常说 deduce that…、deduce something from something。
 形容词 deducible 是「可以推出来的」。名词是 deduction，跟「扣除」那个
@@ -20541,6 +20566,7 @@ defaecation = 排便（英式旧拼法）
 注意语域：医学与正式文字用语；日常说 go to the toilet。
 
 defect
+/ˈdiːfekt/（名）/dɪˈfekt/（动）
 核心：两支同形，重音不同。名词 a defect 是缺陷、毛病，重音在前；
 动词 defect 是叛逃变节 —— 从一个国家或政党投奔对方，重音在后。
 名词 defection 是叛逃这件事，a defector 是叛逃的人；
@@ -22943,6 +22969,7 @@ deplane onto something = 下机走到某处
 注意语域：美式航空用语，英式几乎不说；日常一律 get off the plane。
 
 deplete
+/dɪˈpliːt/
 核心：耗尽、大量消耗：说库存、资源、体力、人手被用掉一大部分。
 及物动词，多用被动 be depleted。名词 depletion。
 ① Two dry summers depleted the reservoir faster than anyone had modelled.
@@ -23741,6 +23768,7 @@ desensitization = 脱敏
 注意用法：心理义带贬义，医学义中性。
 
 desert
+/ˈdezət/（名）/dɪˈzɜːt/（动）
 核心：三支，重音不同。名词 a desert 是沙漠，重音在前；
 动词 desert 是抛弃、擅离职守（desert your post），重音在后，
 逃兵是 a deserter，名词 desertion。
@@ -24757,6 +24785,7 @@ in Devanagari = 用天城文书写
 注意用法：首字母大写；说「用某种文字写」用 be written in。
 
 devastate
+/ˈdevəsteɪt/
 核心：两支。一是彻底摧毁一个地方（a devastated town）；
 二是让人「精神上垮掉」——be devastated by news。
 形容词 devastating 兼指「毁灭性的」与「让人受不了的」，也说「极出色的」
@@ -27729,6 +27758,7 @@ the disappearance of something = 某事物的消失
 注意用法：不及物，没有被动式；说使某物消失用 make something disappear。
 
 disappoint
+/ˌdɪsəˈpɔɪnt/
 核心：使失望：事情或人没达到期待。及物动词。
 派生一族分工要清楚：disappointed 说人（be disappointed with something），
 disappointing 说事物（a disappointing result）；
@@ -27988,6 +28018,7 @@ discard a card = 打出一张不要的牌
 注意别混：discard 是决定不要而扔掉，lose 是丢失。
 
 discern
+/dɪˈsɜːn/
 核心：（正式）看出、辨出：在不清楚的情况下认出某样东西或某种规律。
 及物动词。形容词 discernible 是「看得出来的」，
 discerning 是「有眼光的」（a discerning reader），名词 discernment 是眼光。
@@ -28007,6 +28038,7 @@ discernment = 眼光、识别力
 注意语域：正式；日常说 make out、tell。
 
 discharge
+/dɪsˈtʃɑːdʒ/（动）/ˈdɪstʃɑːdʒ/（名）
 核心：四支，名词动词同形（名词重音在前）。
 一是准许离开：出院、退伍、释放（be discharged from hospital）；
 二是排放：污水、废气排出去；三是履行职责（discharge your duties）；
@@ -28293,6 +28325,7 @@ a discordant note = 不谐和音；也比喻「不合调的一句话」
 注意别混：discord 是失和，disagreement 只是意见不同。
 
 discount
+/ˈdɪskaʊnt/（名）/dɪsˈkaʊnt/（动）
 核心：三支。一是折扣：名词（重音在前）说减价，动词（重音在后）说打折；
 二是动词的「不予考虑」——把某个说法当作不可信而排除；
 三是零售业的 a discounter，指走低价路线的连锁。
@@ -28827,6 +28860,7 @@ a blessing in disguise = 因祸得福的事
 注意用法：乔装说 in disguise；掩饰情绪说 disguise your feelings。
 
 disgust
+/dɪsˈɡʌst/
 核心：厌恶、反感：强到让人生理上不舒服的那种。不可数名词，也作动词。
 形容词分工：disgusted 说人（be disgusted by something），
 disgusting 说事物（a disgusting smell）；
@@ -29338,6 +29372,7 @@ dismantlement = 拆除（正式）
 注意别混：dismantle 是有序拆解，destroy 是毁掉。
 
 dismay
+/dɪsˈmeɪ/
 核心：沮丧惊愕：事情出乎意料地糟，让人一时发懵又难受。不可数名词，
 也作动词，多用被动 be dismayed by something。
 习语 to somebody's dismay 是「令某人沮丧的是」。
@@ -30864,6 +30899,7 @@ A dive-bomber makes one pass and the noise arrives before it does.
 注意用法：过去式英式说 dived，美式说 dove，两种都对。
 
 diverge
+/daɪˈvɜːdʒ/
 核心：两支。一是分岔：两条路、两条线从同一点分开走；
 二是引申的「出现分歧」——说看法、数据、走势分道扬镳。
 不及物动词。名词 divergence，形容词 divergent。
@@ -30896,6 +30932,7 @@ divers persons = 若干人等
 注意别混：divers 是古旧的「若干」，diverse 是今天说的「多样的」。
 
 diverse
+/daɪˈvɜːs/
 核心：多样的：成分或种类不单一。形容词，副词 diversely。
 动词 diversify 是「使多样化、拓展经营」，名词 diversification；
 名词 diversity 说多样性，也指人群构成的多元。
@@ -34985,6 +35022,7 @@ Dreamtime 是澳大利亚原住民宇宙观里的核心概念，首字母大写�
 注意用法：过去式英式多写 dreamt，美式写 dreamed，两种都对。
 
 dreary
+/ˈdrɪəri/
 核心：沉闷乏味的：说天气、地方、工作、日子 —— 灰扑扑提不起劲。形容词，
 副词 drearily，名词 dreariness。
 ① A dreary morning in a waiting room with nothing to read but a poster.

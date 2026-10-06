@@ -47,6 +47,7 @@ dazzle = 强光晃眼（也说才华耀人）
 stun = 震住（打击或惊讶得说不出话）
 
 dazzle
+/ˈdæzəl/
 核心：底层是「亮得让人睁不开眼」。两支：一是强光晃眼
 （be dazzled by the headlights）；二是比喻的「让人惊艳」，说才华、口才、气场。
 形容词 dazzling 两支都用 —— dazzling sunlight 是刺眼的阳光，

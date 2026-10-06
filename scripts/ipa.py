@@ -13,6 +13,7 @@
     python3 scripts/ipa.py status                # 两张表各有多少条有音标
     python3 scripts/ipa.py fill                  # 用 data/pron 里的 Britfone 自动填（只填单词、读法无歧义的）
     python3 scripts/ipa.py missing [前缀] [-n N]  # 列出还没有音标的词头
+    python3 scripts/ipa.py draft [A|B] [前缀] [-n N] # 给缺音标的词头出草稿（机器合成的底子，必须逐条校对）
     python3 scripts/ipa.py set 文件.tsv           # 手写的批量写入：每行「词头<TAB>音标行」
     python3 scripts/ipa.py check [词头...]        # 闸门：全表音标行格式合法；点名的词头必须有音标
 
@@ -151,6 +152,71 @@ def lookup(word, bf):
     if len(set(stress_shape(v) for v in vs)) > 1: return None, '重音有两读'
     return '/' + convert(vs[0], word) + '/', ''
 
+# ------------------------------------------------------------ 草稿：ipa-dict 的 en_UK
+# 这份文件是语音合成软件按规则生成的，不是人编的词典：拿它跟 Britfone 对，
+# 12996 个共有的词里 12% 读法不同，其中相当一部分是它错（conquer 读成 nk、muse 读成 s、
+# apparatchik 重音错位、gymkhana 冒出 kh）。**所以它只用来出草稿，草稿必须逐条看过、
+# 改过，再记进 manual.tsv —— 绝不直接写进词表。**
+DRAFT = 'data/pron/ipa-dict.en_UK.txt'
+_PH = sorted(['aɪə', 'aʊə', 'aɪ', 'aʊ', 'eɪ', 'iː', 'uː', 'ɑː', 'ɔɪ', 'ɔː', 'əʊ', 'ɛə', 'eə', 'ɜː', 'ɪə', 'ʊə', 'tʃ', 'dʒ',
+              'b', 'd', 'f', 'ɡ', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 's', 't', 'v', 'w', 'z', 'æ', 'ð', 'ŋ', 'ɐ', 'ɒ',
+              'ə', 'ɛ', 'e', 'ɪ', 'ɹ', 'r', 'ʃ', 'ʊ', 'ʒ', 'θ', 'ʌ', 'i', 'u', 'a', 'x', 'o'], key=len, reverse=True)
+
+def _tok(s):
+    out, i, st = [], 0, ''
+    while i < len(s):
+        if s[i] in 'ˈˌ': st = s[i]; i += 1; continue
+        for p in _PH:
+            if s.startswith(p, i):
+                if p in ('aɪə', 'aʊə'): out.append(st + p[:2]); out.append('ə')
+                else: out.append(st + p)
+                st = ''; i += len(p); break
+        else:
+            return None
+    return out
+
+def load_draft():
+    d = {}
+    for l in io.open(DRAFT, encoding='utf-8'):
+        if '\t' not in l: continue
+        w, p = l.rstrip('\n').split('\t', 1)
+        d[w.lower()] = p.split(',')[0].strip().strip('/')
+    return d
+
+def draft_one(word, d):
+    k = word.lower()
+    if k not in d: return None
+    t = _tok(d[k])
+    if t is None: return None
+    t = [x.replace('ɐ', 'ə') for x in t]
+    for i in range(len(t) - 1):                       # n 在 k 前读 ŋ
+        if t[i] == 'n' and t[i+1].lstrip('ˈˌ') == 'k': t[i] = 'ŋ'
+        if t[i] == 'uː' and t[i+1].lstrip('ˈˌ') in VOWELS | {'ɛ', 'ɛə'}: t[i] = 'ʊ'   # 非重读的 uː 在元音前
+    if len(t) > 2 and t[0] == 'ɛ' and t[1] in ('k', 'ɡ', 'g'): t[0] = 'ɪ'            # 非重读的 ex-
+    try:
+        line = '/' + convert(t, word) + '/'
+    except Exception:
+        return None
+    return line if valid(line) else None
+
+def cmd_draft(args):
+    n = 300; pref = ''; table = None
+    it = iter(args)
+    for a in it:
+        if a == '-n': n = int(next(it))
+        elif a in ('A', 'B'): table = a
+        else: pref = a.lower()
+    d = load_draft()
+    ms = [h for t, h, ip in all_heads() if not ip and h.lower().startswith(pref) and (table is None or t == table)]
+    for h in ms[:n]:
+        parts = re.split(r'([ \-])', h)
+        if len(parts) == 1:
+            print('%s\t%s' % (h, draft_one(h, d) or '?'))
+        else:   # 多词：各部分的草稿拼在一起，重音要人来定
+            ds = [draft_one(x, d) if x not in ' -' else x for x in parts]
+            print('%s\t%s' % (h, ' '.join((x or '?').strip('/') if x not in (' ', '-') else '' for x in ds).replace('  ', ' ') if all(ds) else '?'))
+    print('# 草稿 %d 条（共缺 %d 条）。逐条看过、改过，再追加到 data/pron/manual.tsv' % (min(n, len(ms)), len(ms)), file=sys.stderr)
+
 # ------------------------------------------------------------ 命令
 def all_heads():
     out = []
@@ -226,6 +292,7 @@ if __name__ == '__main__':
     if not a or a[0] == 'status': cmd_status()
     elif a[0] == 'fill': cmd_fill()
     elif a[0] == 'missing': cmd_missing(a[1:])
+    elif a[0] == 'draft': cmd_draft(a[1:])
     elif a[0] == 'set': sys.exit(cmd_set(a[1]))
     elif a[0] == 'check': sys.exit(cmd_check(a[1:]))
     else: print(__doc__); sys.exit(2)

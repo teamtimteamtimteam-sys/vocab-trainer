@@ -265,6 +265,7 @@ awake = 醒着（状态）
 bustling = 熙攘忙碌的
 
 astonish
+/əˈstɒnɪʃ/
 核心：程度比 amaze 还重，指"震惊到难以置信"。分词形容词分工同样
 要注意：astonished 是人震惊，astonishing 是事物令人震惊。
 ① I was astonished at the result and rather less astonished by the reaction.

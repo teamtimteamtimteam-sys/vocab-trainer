@@ -97,6 +97,7 @@ igneous rock = 火成岩
 igneous stone = 火成岩石
 
 ignite
+/ɪɡˈnaɪt/
 核心：点燃、使着火；比喻点燃（情绪、争论）、引发 —— ignite a debate、ignite a war。
 ① A single spark ignited the dry grass, and the fire spread across the hill.
 = 一粒火星点燃了干草，大火蔓延过整座山坡。

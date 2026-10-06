@@ -114,6 +114,7 @@ explicit 明说的 / implicit 暗含的
 explicitly = 明确地
 
 exploit
+/ɪkˈsplɔɪt/（动）/ˈeksplɔɪt/（名）
 ① They exploit cheap labour.
 = 他们剥削廉价劳动力。
 这里：
@@ -152,6 +153,7 @@ external = 外部的
 external 外部 / internal 内部
 
 extract
+/ɪkˈstrækt/（动）/ˈekstrækt/（名）
 ① Extract the tooth.
 = 把那颗牙拔掉。
 这里：
@@ -250,6 +252,7 @@ fibre = 纤维
 optical fibre = 光纤
 
 finance
+/ˈfaɪnæns/
 ① He works in finance.
 = 他在金融行业工作。
 这里：
@@ -279,6 +282,7 @@ flexible 灵活 / rigid 死板
 flexible working hours = 弹性工时
 
 fluent
+/ˈfluːənt/
 ① She is fluent in Chinese.
 = 她中文流利。
 be fluent in = 精通某语言
@@ -364,6 +368,7 @@ framework = 抽象的体系
 structure = 结构（可具体可抽象）
 
 frequent
+/ˈfriːkwənt/（形）/frɪˈkwent/（动）
 ① He is a frequent visitor.
 = 他常来。
 这里：

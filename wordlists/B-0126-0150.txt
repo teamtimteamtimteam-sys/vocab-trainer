@@ -508,6 +508,7 @@ magnetometer = 磁力计（测方向）
 barometer = 气压计
 
 accent
+/ˈæksent/
 核心：一是"口音"，指某地或某国的人说话的语音特征；二是"重音"，
 指词里读得重的那个音节；三是比喻义"强调的重点"。
 ① She speaks with a French accent that softens after a glass of wine.

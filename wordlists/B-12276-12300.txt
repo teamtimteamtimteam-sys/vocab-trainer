@@ -154,6 +154,7 @@ drift inshore = 漂向岸边
 inshore fishermen = 近海渔民
 
 inside
+/ˌɪnˈsaɪd/
 核心：里面 —— 本义是在一个东西的内部。介词：在…里面（inside the box）；时间上「在…之内」（inside an hour）。
 副词：在里面、进屋（go inside）；（俚）坐牢（three years inside）。名词：the inside（内部；内侧车道）；
 insides（口语，肚子）。形容词：内部的；内部人员提供的（inside information）。

@@ -346,6 +346,7 @@ jungle = 热带丛林（茂密）
 forest = 森林（一般）
 
 just
+/dʒʌst/
 ① I just arrived.
 = 我刚到。
 这里：
@@ -446,6 +447,7 @@ kill = 杀死
 kill time = 打发时间
 
 kilometre
+/ˈkɪləmiːtə(r)/
 ① It's five kilometres away.
 = 有五公里远。
 这里：

@@ -257,6 +257,7 @@ dismantlement = 拆除（正式）
 注意别混：dismantle 是有序拆解，destroy 是毁掉。
 
 dismay
+/dɪsˈmeɪ/
 核心：沮丧惊愕：事情出乎意料地糟，让人一时发懵又难受。不可数名词，
 也作动词，多用被动 be dismayed by something。
 习语 to somebody's dismay 是「令某人沮丧的是」。

@@ -30946,6 +30946,7 @@ igneous rock = 火成岩
 igneous stone = 火成岩石
 
 ignite
+/ɪɡˈnaɪt/
 核心：点燃、使着火；比喻点燃（情绪、争论）、引发 —— ignite a debate、ignite a war。
 ① A single spark ignited the dry grass, and the fire spread across the hill.
 = 一粒火星点燃了干草，大火蔓延过整座山坡。
@@ -32452,6 +32453,7 @@ an impish grin = 顽皮的笑
 impishly = 顽皮地
 
 impact
+/ˈɪmpækt/（名）/ɪmˈpækt/（动）
 核心：来自拉丁语「撞进去」。本义是撞击、冲击 —— 两个物体猛地碰上（on impact 撞上的那一刻）；
 比喻是一件事「撞」到另一件事上留下的影响，这是今天最常用的一支：have an impact on、
 the environmental impact。作动词 impact (on) 是较新的用法，美式与商务语体常见，英式有人嫌它生硬，
@@ -32483,6 +32485,7 @@ impactful = 有影响力的（商务行话）
 不少人嫌这个词是行话，正式写作多说 effective 或 powerful。
 
 impair
+/ɪmˈpeə(r)/
 核心：（正式）损害、削弱 —— 使（能力、功能、质量）变差。多说视力、听力、判断力、健康。
 形容词 impaired（受损的；委婉指残障：hearing-impaired）与名词 impairment 并入本条。
 ① Drinking even a small amount of alcohol can impair your judgement behind the wheel.
@@ -32539,6 +32542,7 @@ impart news = 告知消息
 impart a flavour to something = 使某物带上…的味道
 
 impartial
+/ɪmˈpɑːʃəl/
 核心：公正的、不偏不倚的 —— im- 加 partial（偏袒的）。多说法官、调查、建议、报道。
 跟 neutral 的分别：neutral 是不站队；impartial 是评判时对各方一视同仁。
 名词 impartiality 与副词 impartially 并入本条。
@@ -32687,6 +32691,7 @@ the impedance of an amplifier = 功放的阻抗
 high impedance = 高阻抗
 
 impede
+/ɪmˈpiːd/
 核心：（正式）阻碍、妨碍 —— 使（行动、进展）变慢或受阻。多用于 progress、movement、traffic、investigation。
 名词 impediment 另立一条。
 ① Fallen trees impeded the rescue teams on their way to the village.
@@ -32764,6 +32769,7 @@ remain impenitent = 不知悔改
 an impenitent smoker = 死不悔改的烟民（谑）
 
 imperative
+/ɪmˈperətɪv/
 核心：拉丁语「命令的」。三支：形容词「必须的、极其重要的」（it is imperative that...）；
 名词「必须做的事、迫切需要」（a moral imperative）；语法上的「祈使语气、祈使句」。
 it is imperative that 后面的从句常用原形动词（虚拟语气）。
@@ -33224,6 +33230,7 @@ too many imponderables = 变数太多
 imponderable = 无法估量的（形容词）
 
 import
+/ɪmˈpɔːt/（动）/ˈɪmpɔːt/（名）
 核心：拉丁语「带进来」。名词重音在前，动词重音在后。本义是进口 —— 把货物从外国带进本国，
 这一支最常用，名词（imports）与动词都有；由「带进来」还长出两支：
 把外来的东西（文化、做法）引入；计算机上把数据从别的程序导入。
@@ -35489,6 +35496,7 @@ an incorruptible metal = 不朽的金属
 incorruptibility = 廉洁
 
 increase
+/ɪnˈkriːs/（动）/ˈɪŋkriːs/（名）
 核心：增加、增长 —— 动词重音在后，名词重音在前。数量、程度、大小变大。
 动词可及物（increase prices）也可不及物（prices increased）；名词常接 in（an increase in prices）。
 习语 on the increase（在增加）。形容词 increased（增加了的）并入本条；副词 increasingly 另立。
@@ -36353,6 +36361,7 @@ the indiscriminate use of something = 滥用…
 fire indiscriminately = 胡乱开枪
 
 indispensable
+/ˌɪndɪˈspensəbəl/
 核心：必不可少的 —— 缺了就不行。常接 to/for。
 ① A good dictionary is indispensable for anyone learning a language.
 = 对学语言的人来说，一本好词典必不可少。
@@ -38851,6 +38860,7 @@ the innards of a machine = 机器的内部构件
 比喻用法，口语。
 
 innate
+/ɪˈneɪt/
 核心：天生的、固有的 —— 与生俱来、不是学来的。副词 innately 并入本条。
 跟 inborn 近义；跟 inherent 分清：inherent 多说事物本身固有的性质。
 ① She has an innate sense of rhythm and started dancing before she could talk.
@@ -38974,6 +38984,7 @@ an innocuous remark = 无意冒犯的话
 innocuously = 无害地、平淡地
 
 innovate
+/ˈɪnəveɪt/
 核心：革新、创新 —— 引入新方法、新产品、新想法。名词 innovation、形容词 innovative、
 人 innovator 另立。
 ① Companies that fail to innovate soon lose their customers.
@@ -39522,6 +39533,7 @@ drift inshore = 漂向岸边
 inshore fishermen = 近海渔民
 
 inside
+/ˌɪnˈsaɪd/
 核心：里面 —— 本义是在一个东西的内部。介词：在…里面（inside the box）；时间上「在…之内」（inside an hour）。
 副词：在里面、进屋（go inside）；（俚）坐牢（three years inside）。名词：the inside（内部；内侧车道）；
 insides（口语，肚子）。形容词：内部的；内部人员提供的（inside information）。

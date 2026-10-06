@@ -459,6 +459,7 @@ scope = 涉及范围
 range = 幅度、系列
 
 segment
+/ˈseɡmənt/（名）/seɡˈment/（动）
 ① Divide it into segments.
 = 把它分成几段。
 这里：
@@ -591,6 +592,7 @@ stability = 稳定性
 stable 稳定 / unstable 不稳
 
 statistic
+/stəˈtɪstɪk/
 ① That's an interesting statistic.
 = 那是个有意思的数据。
 这里：

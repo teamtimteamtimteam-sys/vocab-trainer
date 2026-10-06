@@ -1766,6 +1766,7 @@ repeal = 废止（成文法条）
 revoke = 撤销（许可、命令）
 
 abrupt
+/əˈbrʌpt/
 核心：拉丁语本义是"折断的"，所以底层是"断口"——没有过渡，说断
 就断。断在事件上是"猝然、戛然而止"；断在人的话头上，就是话说得
 又短又硬，让人觉得没礼貌，这一支是贬义；断在地形上是"陡峭"，
@@ -2356,6 +2357,7 @@ abstinent = 完全不碰
 abstemious = 有节制（少量可以）
 
 abstract
+/ˈæbstrækt/（形、名）/æbˈstrækt/（动）
 核心：拉丁语的本义是"抽离出来"，三个身份都从这里长出来。把性质从
 实物上抽离，得到的是"抽象的"概念；把要点从论文里抽离，得到的是
 "摘要"；动作本身就是动词"提取"。艺术上的抽象画也是同一回事——
@@ -2957,6 +2959,7 @@ magnetometer = 磁力计（测方向）
 barometer = 气压计
 
 accent
+/ˈæksent/
 核心：一是"口音"，指某地或某国的人说话的语音特征；二是"重音"，
 指词里读得重的那个音节；三是比喻义"强调的重点"。
 ① She speaks with a French accent that softens after a glass of wine.
@@ -7984,6 +7987,7 @@ flattery = 奉承（有目的）
 adulatory = 谄媚吹捧的
 
 adult
+/ˈædʌlt/
 核心：底层是"已经长成的"，所以人、动物、态度都能用。名词指法定
 成年人，形容词第一层就是"成年的"。第二层是委婉语，adult content
 指色情内容——用"成人"来避开直说，这是英语里常见的回避手法。
@@ -16286,6 +16290,7 @@ alluvial gold = 砂金
 地质学与土壤学术语。
 
 ally
+/ˈælaɪ/（名）/əˈlaɪ/（动）
 核心：名词是"盟友"，动词是"结盟"。注意名词重音在前、
 动词重音在后。政治、军事、也用于日常"支持者"。
 ① They are close allies and have not agreed on anything since March.
@@ -25060,6 +25065,7 @@ appetizer = 开胃菜
 注意拼写：appetizing / appetising 都可以。
 
 applaud
+/əˈplɔːd/
 核心：字面是"鼓掌"，从拉丁语的拍击声来。掌声是公开表示赞成，
 所以直接引申出"称赞、赞许"——这一支在正式文体里很常见，
 applaud a decision 并不是真的鼓掌。名词 applause 只有掌声这一义，
@@ -28741,6 +28747,7 @@ arrogance = 傲慢（负面）
 hubris = 狂妄（招致覆灭）
 
 arrogant
+/ˈærəɡənt/
 核心：从 arrogate（擅自据为己有）来，所以底层不是"自信过头"，
 而是"把不属于自己的分量硬揽到自己身上"。这解释了它跟 confident
 的真正分界：自信只说自己行，傲慢还要把别人压下去。这个词一律贬义，
@@ -31690,6 +31697,7 @@ awake = 醒着（状态）
 bustling = 熙攘忙碌的
 
 astonish
+/əˈstɒnɪʃ/
 核心：程度比 amaze 还重，指"震惊到难以置信"。分词形容词分工同样
 要注意：astonished 是人震惊，astonishing 是事物令人震惊。
 ① I was astonished at the result and rather less astonished by the reaction.
@@ -33476,6 +33484,7 @@ due to = 由于（通用）
 caused by = 由…造成（因果明确）
 
 attribute
+/əˈtrɪbjuːt/（动）/ˈætrɪbjuːt/（名）
 核心：动词是"把…归因于"（重音在后），名词是"属性、特质"
 （重音在前）。动词介词固定用 to。
 ① He attributes his success to luck and works about eighty hours a week.
@@ -42022,6 +42031,7 @@ barrel organ = 手摇风琴
 第五层是口语，强调又快又莽。
 
 barren
+/ˈbærən/
 核心：底层是"生不出东西来"。说土地是寸草不生的贫瘠，
 说动植物是不结果实、不能生育的，说时期或努力是"毫无成果的"。
 用于女性时是旧时说法，今天带冒犯，医学上说 infertile。
@@ -48278,6 +48288,7 @@ barrister = 出庭律师（英式）
 注意语域：书面，多见于法庭与历史描写。
 
 bewilder
+/bɪˈwɪldə(r)/
 核心：指"把人弄得晕头转向"——事情太多太杂太意外，
 人反应不过来。它比 confuse 强：confuse 是没搞清楚，
 bewilder 是懵在那儿。形容词有两个方向：

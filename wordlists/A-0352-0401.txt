@@ -540,6 +540,7 @@ include = 包括
 exclude = 不包括
 
 increase
+/ɪnˈkriːs/（动）/ˈɪŋkriːs/（名）
 ① Prices have increased.
 = 价格上涨了。
 这里 increase 是动词：

@@ -159,6 +159,7 @@ error = 错误（偏正式、技术性）
 mistake = 错误（日常）
 
 essay
+/ˈeseɪ/
 ① I wrote a long essay.
 = 我写了篇长文章。
 这里：
@@ -373,6 +374,7 @@ explosion = 爆炸（名词）
 explosive = 爆炸性的
 
 export
+/ɪkˈspɔːt/（动）/ˈekspɔːt/（名）
 ① They export rice to Japan.
 = 他们向日本出口大米。
 export to = 出口到
