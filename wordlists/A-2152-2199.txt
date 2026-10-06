@@ -648,7 +648,7 @@ event = 事件（中性，也指活动）
 accident = 意外事故
 
 incline
-/ɪnˈklaɪn/
+/ɪnˈklaɪn/（动）/ˈɪnklaɪn/（名）
 ① I'm inclined to agree.
 = 我倾向于同意。
 be inclined to do = 倾向于

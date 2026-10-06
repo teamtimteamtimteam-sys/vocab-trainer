@@ -261,7 +261,7 @@ testimony = 证词（可口头）
 statement = 陈述（通用）
 
 affiliate
-/əˈfɪlɪeɪt/
+/əˈfɪlieɪt/（动）/əˈfɪliət/（名）
 核心：动词指机构之间"隶属、挂靠"，常用被动 be affiliated with/to；
 名词指"分支机构、联属公司"。商业和学术语境高频。
 ① The clinic is affiliated with the hospital and shares its laboratories.

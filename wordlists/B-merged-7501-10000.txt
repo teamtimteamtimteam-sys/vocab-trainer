@@ -1221,7 +1221,7 @@ entrails = 内脏
 read the entrails = 察看内脏占卜
 
 entrance
-/ˈentrəns/
+/ˈentrəns/（名）/ɪnˈtrɑːns/（动）
 核心：名词三支、动词一支，重音不同。名词一是入口、大门；二是进入、登场；
 三是进入的资格：gain entrance to a place。动词是使着迷，多用被动。
 习语 make an entrance 是惹人注目地登场。
@@ -3704,7 +3704,7 @@ an ess = S 形
 an ess bend = S 形弯道
 
 essay
-/ˈeseɪ/
+/ˈeseɪ/（名）/eˈseɪ/（动）
 核心：名词两支、动词一支（重音不同）。名词一是（学校的）作文、（学术的）论文；
 二是（文学的）随笔、小品文。动词是（正式）尝试去做。可数。
 ① The essay is due on Friday and half of it is a quotation.
@@ -3916,7 +3916,7 @@ estimable = 可敬的
 an estimable person = 可敬的人
 
 estimate
-/ˈestɪmɪt/
+/ˈestɪmət/（名）/ˈestɪmeɪt/（动）
 核心：名词与动词，读音不同。动词是估计、估算：estimate that…、estimate something at something。
 名词一是估计数；二是（工程的）报价单。可数。名词还有 estimation。
 ① They estimate the crowd at four thousand and count the tickets at two.
@@ -7154,7 +7154,7 @@ An excusable error in the first week becomes a nickname by the third.
 be excusable = 可以原谅
 
 excuse
-/ɪkˈskjuːs/
+/ɪkˈskjuːs/（名）/ɪkˈskjuːz/（动）
 核心：名词与动词，读音不同。名词是借口、理由：make an excuse。
 动词一是原谅：excuse somebody for something；二是免除、准许离开：
 be excused from something。
@@ -8305,7 +8305,7 @@ expatiate on something = 就某事长篇大论
 expatiate upon something = 详论某事
 
 expatriate
-/ˌeksˈpætriət/
+/ˌeksˈpætriət/（名、形）/ˌeksˈpætrieɪt/（动）
 核心：三支。一是名词，侨居国外的人，尤指外派去工作的，口语截短成 expat；
 二是形容词，expatriate staff、expatriate community；
 三是（正式）动词，把人逐出国、或自己放弃本国国籍，多用被动。
@@ -8652,7 +8652,7 @@ experiential learning = 体验式学习
 experiential knowledge = 体验得来的知识
 
 experiment
-/ɪkˈsperɪmənt/
+/ɪkˈsperɪmənt/（名）/ɪkˈsperɪment/（动）
 核心：名词与动词同形。名词是实验、试验，搭配 carry out 或 conduct an experiment；
 动词是做实验、试新做法，搭配 experiment with something。
 名词还有 experimentation，形容词 experimental。
@@ -27413,7 +27413,7 @@ the fragility of an arrangement = 安排的不牢靠
 somebody's fragility = 某人的脆弱
 
 fragment
-/ˈfræɡmənt/
+/ˈfræɡmənt/（名）/fræɡˈment/（动）
 核心：三支。一是碎片：a fragment of pottery；二是片段、残篇：a fragment of a song；
 三是动词，碎裂、分裂：the group fragmented。
 ① A fragment of pottery in the flower bed turned out to be Roman.

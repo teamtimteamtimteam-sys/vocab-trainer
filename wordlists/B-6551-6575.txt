@@ -488,7 +488,7 @@ a docusoap = 纪实真人秀（英式）
 注意别混：docudrama 有演员搬演，documentary 拍的是真人真事。
 
 document
-/ˈdɒkjʊment/
+/ˈdɒkjʊmənt/（名）/ˈdɒkjʊment/（动）
 核心：名词与动词同形，读音不同。名词是文件、文书（a legal document）；
 动词是「记录下来、用证据说明」（a well-documented case）。
 名词 documentation 指配套的文件材料，也指软件的说明文档。

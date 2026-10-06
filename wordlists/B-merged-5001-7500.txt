@@ -1691,9 +1691,9 @@ a congestion charge = 进城拥堵费
 注意用法：动词多用被动。
 
 conglomerate
-/kənˈɡlɒmərət/
-核心：两支，重音不同。名词一是企业集团：跨好几个行业
-的大公司；二是地质学上的砾岩。动词重音在后，指聚成
+/kənˈɡlɒmərət/（名）/kənˈɡlɒməreɪt/（动）
+核心：两支，末音节读音不同。名词一是企业集团：跨好几个行业
+的大公司；二是地质学上的砾岩。动词末音节读足，指聚成
 一团；名词 conglomeration 指杂七杂八凑成的一堆。
 ① The conglomerate owns forty brands and most shoppers know none of the connections.
 = 那家集团旗下有四十个品牌，多数买东西的人一个关联都不知道。
@@ -1708,7 +1708,7 @@ conglomerate into = 聚成
 = 那是四个不同世纪的风格凑成的大杂烩。
 a conglomeration of = ……的杂凑
 构词：拉丁语 conglomerare 卷成一团
-注意读音：名词与形容词重音在前，动词重音在后。
+注意读音：名词与形容词末音节弱读，动词末音节读足。
 
 Congolese
 /ˌkɒŋɡəˈliːz/
@@ -2643,7 +2643,7 @@ add a conservatory = 加盖玻璃花房
 注意用法：英美所指不同，看语境。
 
 conserve
-/kənˈsɜːv/
+/kənˈsɜːv/（动）/ˈkɒnsɜːv/（名）
 核心：两支，重音不同。动词是省着用、保住不失：省电
 省水都用它，也指保护自然与文物。名词重音在前，指果肉
 多的蜜饯果酱。
@@ -4348,7 +4348,7 @@ a contrarian view = 逆着大流的看法
 注意语域：投资与评论里常见。
 
 contrary
-/ˈkɒntrəri/
+/ˈkɒntrəri/（相反的）/kənˈtreəri/（拧着来的）
 核心：三支。一是相反的，名词短语 on the contrary 是恰恰
 相反、to the contrary 是相反的（证据说法）；二是 contrary
 to 与……相反；三是形容词说人故意拧着来，这一支重音在
@@ -5421,9 +5421,9 @@ cooperatively = 合作地
 注意拼写：也写作 co-operate，英式旧文里带连字符。
 
 coordinate
-/kəʊˈɔːdɪneɪt/
-核心：动词重音在后：协调，把几方的动作配到一起，也说衣物
-颜色相配。名词重音在前：坐标，多用复数。名词 coordination
+/kəʊˈɔːdɪneɪt/（动）/kəʊˈɔːdɪnət/（名）
+核心：动词末音节读足：协调，把几方的动作配到一起，也说衣物
+颜色相配。名词末音节弱读：坐标，多用复数。名词 coordination
 一是协调、二是身体的协调性；协调人叫 coordinator。
 ① She coordinates the volunteers and does most of the work herself.
 = 她统筹志愿者，大部分活儿还是自己干。
@@ -5445,7 +5445,7 @@ a coordinator = 协调人
 a coordinate clause = 并列分句
 语法术语，指由并列连词连起来、地位对等的两个分句。
 构词：co- 共 + ordinate 排列
-注意读音：动词重音在后，名词重音在前。
+注意读音：重音位置相同，动词末音节读足，名词末音节弱读。
 
 coot
 /kuːt/
@@ -21361,7 +21361,7 @@ deficit spending = 赤字支出
 注意别混：deficit 是收支或数量上的差额，surplus 是盈余。
 
 defile
-/dɪˈfaɪl/
+/dɪˈfaɪl/（玷污）/ˈdiːfaɪl/（隘路）
 核心：玷污：把神圣或纯净的东西弄脏 —— 多说圣地、坟墓、名誉，
 带明显的道德与宗教色彩。及物动词，名词 defilement。
 另有一个来源不同的名词义：山间狭窄的隘路。
@@ -22004,7 +22004,7 @@ for somebody's delectation = 供某人享用、给某人看着高兴
 注意语域：偏正式与文学；日常说 delicious。
 
 delegate
-/ˈdelɪɡɪt/
+/ˈdelɪɡət/（名）/ˈdelɪɡeɪt/（动）
 核心：名词与动词同形，读音不同。名词 a delegate 是（参加会议、大会的）代表；
 动词是把职权或事情交给别人去做 —— 攥着不放的人就是不会 delegate。
 名词 delegation 既指代表团，也指「授权、把事交下去」这件事。
@@ -22071,7 +22071,7 @@ the deli counter = 熟食柜台
 注意用法：全称少用，日常一律说 deli。
 
 deliberate
-/dɪˈlɪbrɪt/
+/dɪˈlɪbərət/（形）/dɪˈlɪbəreɪt/（动）
 核心：形容词与动词同形，读音不同。形容词一是「蓄意的」，二是「从容不迫的」；
 动词是仔细斟酌、评议。副词 deliberately 两支都用：故意地，也说不慌不忙地。
 名词 deliberation 是斟酌，形容词 deliberative 说评议性的机构。
@@ -24585,7 +24585,7 @@ a designer = 设计师
 注意用法：by design 与 by accident 成对；designer 作定语指名牌货。
 
 designate
-/ˈdezɪɡneɪt/
+/ˈdezɪɡneɪt/（动）/ˈdezɪɡnət/（形）
 核心：两支，读音不同。动词是「指定、划定」（designate an area、
 designate somebody as something）；形容词后置，指「已获任命、尚未就职的」，
 写作 the director designate。名词 designation 是名称或职称。
@@ -26477,7 +26477,7 @@ plant dicotyledons = 种双子叶植物
 注意用法：专业文字里常缩写成 dicot。
 
 dictate
-/dɪkˈteɪt/
+/dɪkˈteɪt/（动）/ˈdɪkteɪt/（名）
 核心：三支。一是口述让人记下（dictate a letter），名词 dictation；
 二是发号施令、把条件强加于人（dictate terms）；
 三是（作名词，重音在前）the dictates of something 指某种要求或律令。
@@ -28824,7 +28824,7 @@ a disc jockey = 唱片骑师（缩写 DJ）
 注意用法：英式 disc，美式 disk；计算机硬盘两边都写 disk。
 
 discard
-/dɪˈskɑːd/
+/dɪˈskɑːd/（动）/ˈdɪskɑːd/（名）
 核心：丢弃、弃置：把不要的东西扔掉，也说打牌时打出不要的牌。
 及物动词；名词（重音在前）指被弃的东西。
 ① They discarded three of the four designs and spent a year on the fourth.
@@ -29205,7 +29205,7 @@ discouragingly similar = 相似得让人泄气
 注意别混：人是 discouraged，事情是 discouraging。
 
 discourse
-/ˈdɪskɔːs/
+/ˈdɪskɔːs/（名）/dɪsˈkɔːs/（动）
 核心：三支。一是（正式）论述、谈论：说一场正式的讲话或一篇论说
 （a discourse on something）；二是学术上的「话语」：某个领域里说话的整套方式
 （political discourse）；三是动词（重音在后）「长篇谈论」。
@@ -32655,7 +32655,7 @@ a docusoap = 纪实真人秀（英式）
 注意别混：docudrama 有演员搬演，documentary 拍的是真人真事。
 
 document
-/ˈdɒkjʊment/
+/ˈdɒkjʊmənt/（名）/ˈdɒkjʊment/（动）
 核心：名词与动词同形，读音不同。名词是文件、文书（a legal document）；
 动词是「记录下来、用证据说明」（a well-documented case）。
 名词 documentation 指配套的文件材料，也指软件的说明文档。
@@ -34508,7 +34508,7 @@ be doused = 被浇透
 注意别混：douse 是浇灭或浇透，dowse 另有「用探杖找水」的意思。
 
 dove
-/dʌv/
+/dʌv/（鸽子）/dəʊv/（过去式）
 核心：三支。一是鸽子：多指白鸽，是和平的象征；
 二是政治上的「鸽派」：主张谈判而非动武的人，跟 hawk 鹰派相对；
 三是美式里 dive 的过去式。可数。
@@ -38819,7 +38819,7 @@ a duplex = 一栋两户的住宅
 duplex printing = 双面打印
 
 duplicate
-/ˈdjuːplɪkɪt/
+/ˈdjuːplɪkeɪt/（动）/ˈdjuːplɪkət/（名、形）
 核心：动词两支，另有名词与形容词各一支。动词一是复制、做副本；
 二是（无谓地）重复做已经做过的事。名词是副本、复制件；形容词是完全一样的。
 习语 in duplicate 是一式两份。
@@ -43323,8 +43323,8 @@ El Niño = 厄尔尼诺现象
 an El Niño year = 厄尔尼诺年
 
 elaborate
-/ɪˈlæbərɪt/
-核心：形容词与动词，重音不同。形容词是精心细致的、繁复的；
+/ɪˈlæbərət/（形）/ɪˈlæbəreɪt/（动）
+核心：形容词与动词，末音节读音不同。形容词是精心细致的、繁复的；
 动词是详细说明、展开讲，搭 elaborate on something。
 副词 elaborately，名词 elaboration。
 ① The plan was elaborate, expensive and abandoned in the second week.

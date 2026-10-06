@@ -4606,7 +4606,7 @@ blessing = 祝福；恩惠
 blessed = 受祝福的；神圣的
 
 blessed
-/blest/
+/blest/（有幸的）/ˈblesɪd/（神圣的）
 核心：这个词有两个读音，意思跟着分家，是英语里最典型的一例。
 读一个音节像 blest 时是"受祝福的、有幸的"，多用在 be blessed
 with 里；读两个音节像 bless-id 时是"神圣的"，用在宗教称号上，
@@ -13247,7 +13247,7 @@ bovver boots = 街头闹事青年穿的大头靴
 注意年代：英式旧俚语，七十年代的说法。
 
 bow
-/bəʊ/
+/baʊ/（鞠躬、船头）/bəʊ/（弓、蝴蝶结）
 核心：这个词有两个读音，读音一变意思整组都变，是英语里最典型
 的一对。读作跟 now 押韵时，意思是弯腰鞠躬，名词是那个躬，
 take a bow 是谢幕；另外还指船头，the bow of the ship。
@@ -20534,15 +20534,15 @@ buffer = 缓存、缓冲（计算机）
 注意用法：共同点是"挡在中间吸掉冲击"。
 
 buffet
-/ˈbʌfɪt/
+/ˈbʊfeɪ/（自助餐）/ˈbʌfɪt/（猛击）
 核心：这个词有两个读音，对应两个毫不相干的意思。
-读作重音在后、末尾 t 不发音时，是自助餐：菜摆一排各人自取，
+读作末尾 t 不发音时，是自助餐：菜摆一排各人自取，
 a buffet lunch 是自助午餐。读作重音在前、t 要发音时，
 是动词"反复猛击"，多说风浪：buffeted by winds 是被风一阵阵
 拍打，引申指被接连打击。可数与不可数都有。
 ① They laid on a cold buffet and ran out of plates within ten minutes.
 = 他们摆了桌冷餐自助，十分钟内盘子就不够了。
-a buffet = 自助餐（重音在后）
+a buffet = 自助餐（t 不发音）
 ② Help yourself at the buffet, but leave the salmon for the speakers.
 = 自助餐请随意取用，三文鱼留给发言的人。
 ③ The ship was buffeted by waves for two days and lost a lifeboat.
@@ -20554,7 +20554,7 @@ buffet = 反复冲击（重音在前）
 = 午餐在餐车供应，十一点到两点之间。
 buffet car = 火车上的餐车
 构词：自助餐来自法语 buffet；动词另有来源
-注意读音：自助餐重音在后、t 不发音；
+注意读音：自助餐那一支 t 不发音；
 猛击那一支重音在前、t 要发音。
 
 buffeting
@@ -34939,7 +34939,7 @@ certainty = 确定性；确定的事
 注意别混：a certain 那一支是某个，不表示把握。
 
 certificate
-/səˈtɪfɪkɪt/
+/səˈtɪfɪkət/
 核心：证书：证明某件事属实的正式文件，出生证、结业证、
 体检证都是。certificated 是持证的，certification 是
 发证与认证这件事。可数。
@@ -44714,7 +44714,7 @@ clonk somebody = 敲某人一下（英式口语）
 注意别混：clank 是金属的，这个更钝更闷。
 
 close
-/kləʊs/
+/kləʊz/（动、名）/kləʊs/（形、副）
 核心：这个拼法是两个词，读音不同：动词读得像 clohz，
 形容词与副词读得像 clohs，这是它最要紧的一点。动词那支
 是关上、结束、停业，close down 是关门停业。形容词那支
@@ -51006,7 +51006,7 @@ fair-complected = 浅肤色的（美式）
 注意语域：美式口语，正式写作里避开。
 
 complement
-/ˈkɒmplɪmənt/
+/ˈkɒmplɪmənt/（名）/ˈkɒmplɪment/（动）
 核心：底层是「补齐使完整」，跟那个表示称赞的同音词只差
 一个字母，是两回事。名词一是补足的东西；二是满员的编制；
 三是语法里的补语。动词是与……相配、补足。形容词

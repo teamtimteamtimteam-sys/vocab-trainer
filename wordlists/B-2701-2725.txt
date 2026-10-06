@@ -342,7 +342,7 @@ blessing = 祝福；恩惠
 blessed = 受祝福的；神圣的
 
 blessed
-/blest/
+/blest/（有幸的）/ˈblesɪd/（神圣的）
 核心：这个词有两个读音，意思跟着分家，是英语里最典型的一例。
 读一个音节像 blest 时是"受祝福的、有幸的"，多用在 be blessed
 with 里；读两个音节像 bless-id 时是"神圣的"，用在宗教称号上，

@@ -1988,7 +1988,7 @@ absence 缺席 / presence 在场
 a leave of absence = 请假
 
 absent
-/ˈæbsənt/
+/ˈæbsənt/（形）/æbˈsent/（动）
 核心：形容词义是"缺席的、不在的"；另有一个动词用法 absent
 oneself，很正式，指"故意不出席"。还有一层"心不在焉"的意思，
 常写成 absent-minded。
@@ -2683,7 +2683,7 @@ abundance = 丰富
 使用频率高于字面义。
 
 abuse
-/əˈbjuːz/
+/əˈbjuːs/（名）/əˈbjuːz/（动）
 核心：底层是"用错、用坏"。用在物上是"滥用"（滥用权力、药物），
 用在人上是"虐待"，用在语言上是"辱骂"。注意名词和动词读音不同：
 名词结尾读 /s/，动词结尾读 /z/。
@@ -9011,7 +9011,7 @@ lobbying = 游说（施加影响）
 campaigning = 造势（发动运动）
 
 advocate
-/ˈædvəkeɪt/
+/ˈædvəkeɪt/（动）/ˈædvəkət/（名）
 核心：动词是"主张、提倡"，名词是"倡导者"，苏格兰法律里还指"律师"。
 注意动词和名词发音不同，结尾一个是 /eɪt/ 一个是 /ət/。
 后面接名词或 doing，不接 to do。
@@ -9779,7 +9779,7 @@ testimony = 证词（可口头）
 statement = 陈述（通用）
 
 affiliate
-/əˈfɪlɪeɪt/
+/əˈfɪlieɪt/（动）/əˈfɪliət/（名）
 核心：动词指机构之间"隶属、挂靠"，常用被动 be affiliated with/to；
 名词指"分支机构、联属公司"。商业和学术语境高频。
 ① The clinic is affiliated with the hospital and shares its laboratories.
@@ -11258,7 +11258,7 @@ ancient = 古代的（时间尺度更大）
 long-standing = 长期存在的
 
 aged
-/eɪdʒd/
+/eɪdʒd/（岁数）/ˈeɪdʒɪd/（年老的）
 核心：两个读音对应两个意思。读一个音节时是"…岁的"（aged 12），
 读两个音节时是"年老的"（the aged）。这是高频混淆点。
 ① He has a son aged ten who reads at the level of a fifteen-year-old.
@@ -11519,7 +11519,7 @@ aggravation = 恶化（正式）；烦扰（口语）
 hassle = 麻烦（口语）
 
 aggregate
-/ˈæɡrɪɡeɪt/
+/ˈæɡrɪɡət/（名、形）/ˈæɡrɪɡeɪt/（动）
 核心：名词指"总量、合计"，形容词指"总计的"，动词指"汇总"。
 in aggregate 是"总计"。建筑上还指混凝土用的"骨料"。
 注意动词和名词发音不同。
@@ -17588,7 +17588,7 @@ quarrel = 争吵（较私人）
 brawl = 打架（动手）
 
 alternate
-/ˈɔːltəneɪt/
+/ˈɔːltəneɪt/（动）/ɔːlˈtɜːnət/（形）
 核心：动词是"交替进行"，形容词有两个意思："轮流的"，
 以及美式里等于 alternative（替代的）。动词形容词重音不同。
 ① Wet days alternated with dry ones for the whole of that summer.
@@ -26543,15 +26543,15 @@ approval = 批准、赞同（通用）
 praise = 称赞（口头）
 
 appropriate
-/əˈprəʊpriət/
-核心：形容词指"合适、得体"，强调合乎场合与身份；动词重音在后，
+/əˈprəʊpriət/（形）/əˈprəʊprieɪt/（动）
+核心：形容词指"合适、得体"，强调合乎场合与身份；动词末音节读足，
 指"挪用、拨款"，是完全不同的意思。介词用 for 或 to。
 ① It's appropriate for the occasion and nobody else has dressed up at all.
 = 这身衣服合乎场合，别人却一个都没打扮。
 be appropriate for = 适合于
 ② Funds were appropriated for the project and spent on something else.
 = 这笔款项拨给了该项目，却花到了别处。
-这里是动词，重音在后。
+这里是动词，末音节读足。
 副词形式：
 appropriately = 恰当地
 反义词：
@@ -26703,8 +26703,8 @@ fricative = 擦音（摩擦出声）
 stop = 塞音（完全堵住再放开）
 
 approximate
-/əˈprɒksɪmeɪt/
-核心：形容词是"大约的"（重音在 -mate 读 /mət/），
+/əˈprɒksɪmət/（形）/əˈprɒksɪmeɪt/（动）
+核心：形容词是"大约的"（词尾 -mate 读 /mət/），
 动词是"接近、近似于"（读 /meɪt/）。介词用 to。
 ① Give me an approximate figure now and the exact one on Friday.
 = 现在给我个大概数字，周五给准确的。
@@ -30194,7 +30194,7 @@ article of faith = 信条、不容置疑的信念
 articled = 立约当学徒的、实习的
 
 articulate
-/ɑːˈtɪkjʊlɪt/
+/ɑːˈtɪkjʊlət/（形）/ɑːˈtɪkjʊleɪt/（动）
 核心：形容词是"表达清晰的"（读 /lət/），
 动词是"清楚表达"或"发音清晰"（读 /leɪt/）。
 解剖上还指骨头"以关节相连"。
@@ -32337,7 +32337,7 @@ Crown Court = 刑事法院（英格兰）
 Magistrates' Court = 治安法院
 
 associate
-/əˈsəʊʃɪeɪt/
+/əˈsəʊʃieɪt/（动）/əˈsəʊʃiət/（名、形）
 核心：底层是"把两样东西连在一起"。心理上连起来是"联想"，人际上连
 起来是"来往"，名词是"同事、合伙人"。注意动词和名词发音不同。
 ① I associate the smell with childhood and cannot say which house.
@@ -44069,7 +44069,7 @@ Basque = 巴斯克人的、巴斯克语
 小写指服装，大写指民族与语言。
 
 bass
-/bæs/
+/beɪs/（低音）/bæs/（鲈鱼）
 核心：这是英语里最典型的同形异读词之一，两个词拼法完全一样、
 读音完全不同、意思毫无关系：
 读作跟 base 同音的那个，指"低音"——男低音、贝斯、低音部、
@@ -48211,9 +48211,9 @@ Belorussian folk songs = 白俄罗斯民歌
 注意拼写：今天的正式写法是 Belarusian。
 
 beloved
-/bɪˈlʌvd/
+/bɪˈlʌvɪd/（作定语）/bɪˈlʌvd/（作表语）
 核心：书面且带感情的词，指"深受喜爱的、心爱的"。
-作定语时读两个音节，作表语接 of 或 by 时读三个音节，
+作定语时读三个音节，作表语接 of 或 by 时读两个音节，
 这是它少见的读音差别。也可作名词指"心上人"。
 ① Her beloved husband died last year and she still sets two places.
 = 她心爱的丈夫去年去世，她仍摆两副碗筷。
@@ -48224,7 +48224,7 @@ beloved by = 受某人爱戴
 ③ She wrote to her beloved every day for four years and kept every reply.
 = 她给心上人天天写信，写了四年，回信一封没丢。
 beloved = 心上人（名词）
-注意读音：作定语两个音节，作表语三个音节。
+注意读音：作定语三个音节，作表语两个音节。
 
 below
 /bɪˈləʊ/

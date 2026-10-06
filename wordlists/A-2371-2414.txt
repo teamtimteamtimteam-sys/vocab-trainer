@@ -383,7 +383,7 @@ compile = 收集整理成册
 write = 撰写
 
 complement
-/ˈkɒmplɪmənt/
+/ˈkɒmplɪmənt/（名）/ˈkɒmplɪment/（动）
 ① The wine complements the meal.
 = 那款酒和这餐很配。
 这里：
@@ -598,7 +598,7 @@ consensus 中间是 s 不是 c，
 consencus 是常见错误。
 
 conserve
-/kənˈsɜːv/
+/kənˈsɜːv/（动）/ˈkɒnsɜːv/（名）
 ① We must conserve water.
 = 我们必须节约用水。
 这里：

@@ -79,7 +79,7 @@ country = 乡下、农村
 乡下（前面加 the）
 
 house
-/haʊs/
+/haʊs/（名）/haʊz/（动）
 ① They live in a small house.
 = 他们住在一栋小房子里。
 这里：
@@ -557,7 +557,7 @@ open = 开着的
 反义词：close（动词）/ closed（形容词）
 
 close
-/kləʊs/
+/kləʊz/（动、名）/kləʊs/（形、副）
 ① Close the door, please.
 = 请关门。
 这里 close 是动词，读 /kləʊz/。
@@ -568,7 +568,7 @@ close to = 靠近
 一个词两个读音，意思完全不同。
 
 read
-/riːd/
+/riːd/（原形）/red/（过去式、过去分词）
 ① I read a book every week.
 = 我每周读一本书。
 这里：
@@ -822,7 +822,7 @@ move = 搬家
 挪动生活 = 搬家
 
 live
-/lɪv/
+/lɪv/（动）/laɪv/（形、副）
 ① I live in Shanghai.
 = 我住在上海。
 这里 live 是动词，读 /lɪv/：

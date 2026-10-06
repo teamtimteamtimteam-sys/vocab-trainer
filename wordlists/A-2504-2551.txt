@@ -626,7 +626,7 @@ fragility = 脆弱
 FRAGILE = 易碎品（包装箱上）
 
 fragment
-/ˈfræɡmənt/
+/ˈfræɡmənt/（名）/fræɡˈment/（动）
 ① Pick up the fragments.
 = 把碎片捡起来。
 这里：

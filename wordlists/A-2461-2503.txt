@@ -56,7 +56,7 @@ devise = 设计（动词，读 /z/）
 device = 装置（名词，读 /s/）
 
 dictate
-/dɪkˈteɪt/
+/dɪkˈteɪt/（动）/ˈdɪkteɪt/（名）
 ① He dictated a letter.
 = 他口述了一封信。
 这里：
@@ -192,7 +192,7 @@ disastrous = 灾难性的
 注意：disaster 口语里也说"糟透了"。
 
 discard
-/dɪˈskɑːd/
+/dɪˈskɑːd/（动）/ˈdɪskɑːd/（名）
 ① Discard old papers.
 = 把旧文件扔掉。
 这里：

@@ -421,7 +421,7 @@ give somebody something
 = give something to somebody
 
 use
-/juːs/
+/juːz/（动）/juːs/（名）
 ① I use my phone to take photos.
 = 我用手机拍照。
 这里 use 是动词：
@@ -759,7 +759,7 @@ country = 乡下、农村
 乡下（前面加 the）
 
 house
-/haʊs/
+/haʊs/（名）/haʊz/（动）
 ① They live in a small house.
 = 他们住在一栋小房子里。
 这里：
@@ -1237,7 +1237,7 @@ open = 开着的
 反义词：close（动词）/ closed（形容词）
 
 close
-/kləʊs/
+/kləʊz/（动、名）/kləʊs/（形、副）
 ① Close the door, please.
 = 请关门。
 这里 close 是动词，读 /kləʊz/。
@@ -1248,7 +1248,7 @@ close to = 靠近
 一个词两个读音，意思完全不同。
 
 read
-/riːd/
+/riːd/（原形）/red/（过去式、过去分词）
 ① I read a book every week.
 = 我每周读一本书。
 这里：
@@ -1502,7 +1502,7 @@ move = 搬家
 挪动生活 = 搬家
 
 live
-/lɪv/
+/lɪv/（动）/laɪv/（形、副）
 ① I live in Shanghai.
 = 我住在上海。
 这里 live 是动词，读 /lɪv/：
@@ -3086,7 +3086,7 @@ snow
 snowy = 下雪的
 
 wind
-/wɪnd/
+/wɪnd/（风）/waɪnd/（缠绕）
 ① The wind is very strong today.
 = 今天风很大。
 注意：说风大用 strong，不用 big。
@@ -3622,7 +3622,7 @@ follow = 遵照
 follow = 听懂
 
 lead
-/liːd/
+/liːd/（带领）/led/（铅）
 ① This road leads to the station.
 = 这条路通向车站。
 lead to = 通向、导致
@@ -5365,7 +5365,7 @@ introduce A to B
 introduction = 介绍（名词）
 
 invite
-/ɪnˈvaɪt/
+/ɪnˈvaɪt/（动）/ˈɪnvaɪt/（名）
 ① They invited us to dinner.
 = 他们请我们吃晚饭。
 invite somebody to = 邀请某人去
@@ -7183,7 +7183,7 @@ exit = 出口
 entrance = 入口
 
 experiment
-/ɪkˈsperɪmənt/
+/ɪkˈsperɪmənt/（名）/ɪkˈsperɪment/（动）
 ① They did an experiment.
 = 他们做了个实验。
 do an experiment = 做实验
@@ -10579,7 +10579,7 @@ sight 视觉 / hearing 听觉 / smell 嗅觉
 taste 味觉 / touch 触觉
 
 separate
-/ˈseprɪt/
+/ˈseprət/（形）/ˈsepəreɪt/（动）
 ① They live in separate rooms.
 = 他们住在不同的房间。
 这里 separate 是形容词，读 /ˈseprət/。
@@ -11089,7 +11089,7 @@ join a team = 加入球队
 a team of doctors = 一个医生团队
 
 tear
-/tɪə(r)/
+/teə(r)/（撕）/tɪə(r)/（眼泪）
 ① She tore the letter.
 = 她把信撕了。
 这里 tear 是动词，读 /teə/：
@@ -12345,7 +12345,7 @@ be worth doing = 值得做
 = 值得一试。
 
 wound
-/wuːnd/
+/wuːnd/（伤）/waʊnd/（缠绕的过去式）
 ① He has a wound on his arm.
 = 他胳膊上有伤口。
 这里：
@@ -15806,7 +15806,7 @@ get divorced = 离婚
 marry 结婚 / divorce 离婚
 
 document
-/ˈdɒkjʊment/
+/ˈdɒkjʊmənt/（名）/ˈdɒkjʊment/（动）
 ① Please sign this document.
 = 请在这份文件上签字。
 这里：
@@ -16253,7 +16253,7 @@ entirely = 完全地
 entire = whole = 整个的
 
 entrance
-/ˈentrəns/
+/ˈentrəns/（名）/ɪnˈtrɑːns/（动）
 ① Where is the entrance?
 = 入口在哪？
 这里：
@@ -16295,7 +16295,7 @@ error = 错误（偏正式、技术性）
 mistake = 错误（日常）
 
 essay
-/ˈeseɪ/
+/ˈeseɪ/（名）/eˈseɪ/（动）
 ① I wrote a long essay.
 = 我写了篇长文章。
 这里：
@@ -16325,7 +16325,7 @@ establish = 查明
 establishment = 机构
 
 estimate
-/ˈestɪmɪt/
+/ˈestɪmət/（名）/ˈestɪmeɪt/（动）
 ① I estimate it will take a week.
 = 我估计要一周。
 这里 estimate 是动词：
@@ -16453,7 +16453,7 @@ excited 人感到兴奋
 exciting 事令人兴奋
 
 excuse
-/ɪkˈskjuːs/
+/ɪkˈskjuːs/（名）/ɪkˈskjuːz/（动）
 ① Excuse me, where is the station?
 = 打扰一下，车站在哪？
 Excuse me = 打扰一下
@@ -20049,7 +20049,7 @@ mount = 增加
 Mount = 山（用于山名前）
 
 mouth
-/maʊθ/
+/maʊθ/（名）/maʊð/（动）
 ① Open your mouth.
 = 张嘴。
 这个词属于身体部位，
@@ -23586,7 +23586,7 @@ trade route = 商路
 英式 /ruːt/ 美式也可读 /raʊt/
 
 row
-/rəʊ/
+/rəʊ/（一排、划船）/raʊ/（争吵）
 ① Sit in the front row.
 = 坐前排。
 这里 row 读 /rəʊ/：
@@ -27861,7 +27861,7 @@ disability = 残疾
 to the best of one's ability = 尽力而为
 
 absent
-/ˈæbsənt/
+/ˈæbsənt/（形）/æbˈsent/（动）
 ① Three students were absent.
 = 三名学生缺席。
 be absent from = 缺席
@@ -28569,7 +28569,7 @@ approach = 方法
 不说 approach to the city。
 
 appropriate
-/əˈprəʊpriət/
+/əˈprəʊpriət/（形）/əˈprəʊprieɪt/（动）
 ① That's not appropriate.
 = 那样不合适。
 这里：
@@ -28693,7 +28693,7 @@ assignment = 作业、任务
 assign a task = 分派任务
 
 associate
-/əˈsəʊʃɪeɪt/
+/əˈsəʊʃieɪt/（动）/əˈsəʊʃiət/（名、形）
 ① I associate it with summer.
 = 我一想到它就想起夏天。
 associate A with B = 把 A 与 B 联系起来
@@ -29430,7 +29430,7 @@ cooperative = 合作的
 co- 共同 + operate 运作
 
 coordinate
-/kəʊˈɔːdɪneɪt/
+/kəʊˈɔːdɪneɪt/（动）/kəʊˈɔːdɪnət/（名）
 ① Coordinate the two teams.
 = 协调这两个团队。
 这里：
@@ -29743,7 +29743,7 @@ delicate = 精致的、微妙的
 delicious = 美味的
 
 deliberate
-/dɪˈlɪbrɪt/
+/dɪˈlɪbərət/（形）/dɪˈlɪbəreɪt/（动）
 ① It was a deliberate act.
 = 那是故意的行为。
 这里：
@@ -30192,7 +30192,7 @@ effective = 有效（能达到目的）
 两个词最容易混。
 
 elaborate
-/ɪˈlæbərɪt/
+/ɪˈlæbərət/（形）/ɪˈlæbəreɪt/（动）
 ① It's an elaborate design.
 = 那是个精心设计的方案。
 这里：
@@ -30993,7 +30993,7 @@ event = 事件（中性，也指活动）
 accident = 意外事故
 
 incline
-/ɪnˈklaɪn/
+/ɪnˈklaɪn/（动）/ˈɪnklaɪn/（名）
 ① I'm inclined to agree.
 = 我倾向于同意。
 be inclined to do = 倾向于
@@ -31115,7 +31115,7 @@ heritage = 文化遗产
 注意：inherit 既说财产也说基因。
 
 initiate
-/ɪˈnɪʃɪeɪt/
+/ɪˈnɪʃieɪt/（动）/ɪˈnɪʃiət/（名）
 ① They initiated the project.
 = 他们启动了那个项目。
 这里：
@@ -31298,7 +31298,7 @@ inter- 之间 + vene 来
 = 插进中间来
 
 intimate
-/ˈɪntɪmɪt/
+/ˈɪntɪmət/（形）/ˈɪntɪmeɪt/（动）
 ① They are intimate friends.
 = 他们是密友。
 这里：
@@ -33135,7 +33135,7 @@ admit = 承认、准许进入
 承认 = 招认
 
 advocate
-/ˈædvəkeɪt/
+/ˈædvəkeɪt/（动）/ˈædvəkət/（名）
 ① She advocates reform.
 = 她主张改革。
 这里：
@@ -33369,7 +33369,7 @@ arrogance = 傲慢
 arrogant 傲慢 / humble 谦逊
 
 articulate
-/ɑːˈtɪkjʊlɪt/
+/ɑːˈtɪkjʊlət/（形）/ɑːˈtɪkjʊleɪt/（动）
 ① She is very articulate.
 = 她表达能力很强。
 这里 articulate 是形容词，读 /ət/。
@@ -34002,7 +34002,7 @@ compile = 收集整理成册
 write = 撰写
 
 complement
-/ˈkɒmplɪmənt/
+/ˈkɒmplɪmənt/（名）/ˈkɒmplɪment/（动）
 ① The wine complements the meal.
 = 那款酒和这餐很配。
 这里：
@@ -34217,7 +34217,7 @@ consensus 中间是 s 不是 c，
 consencus 是常见错误。
 
 conserve
-/kənˈsɜːv/
+/kənˈsɜːv/（动）/ˈkɒnsɜːv/（名）
 ① We must conserve water.
 = 我们必须节约用水。
 这里：
@@ -34305,7 +34305,7 @@ contradiction = 矛盾
 contra- 相反 + dict 说
 
 contrary
-/ˈkɒntrəri/
+/ˈkɒntrəri/（相反的）/kənˈtreəri/（拧着来的）
 ① On the contrary, I agree.
 = 恰恰相反，我同意。
 on the contrary = 恰恰相反
@@ -34770,7 +34770,7 @@ degradation = 退化、屈辱
 biodegradable = 可生物降解的
 
 delegate
-/ˈdelɪɡɪt/
+/ˈdelɪɡət/（名）/ˈdelɪɡeɪt/（动）
 ① She delegated the task.
 = 她把任务派下去了。
 这里 delegate 是动词，读 /eɪt/。
@@ -34857,7 +34857,7 @@ descend = 下降
 反义词：descent 下降 / ascent 上升
 
 designate
-/ˈdezɪɡneɪt/
+/ˈdezɪɡneɪt/（动）/ˈdezɪɡnət/（形）
 ① He was designated leader.
 = 他被指定为领队。
 这里：
@@ -34989,7 +34989,7 @@ devise = 设计（动词，读 /z/）
 device = 装置（名词，读 /s/）
 
 dictate
-/dɪkˈteɪt/
+/dɪkˈteɪt/（动）/ˈdɪkteɪt/（名）
 ① He dictated a letter.
 = 他口述了一封信。
 这里：
@@ -35125,7 +35125,7 @@ disastrous = 灾难性的
 注意：disaster 口语里也说"糟透了"。
 
 discard
-/dɪˈskɑːd/
+/dɪˈskɑːd/（动）/ˈdɪskɑːd/（名）
 ① Discard old papers.
 = 把旧文件扔掉。
 这里：
@@ -36187,7 +36187,7 @@ fragility = 脆弱
 FRAGILE = 易碎品（包装箱上）
 
 fragment
-/ˈfræɡmənt/
+/ˈfræɡmənt/（名）/fræɡˈment/（动）
 ① Pick up the fragments.
 = 把碎片捡起来。
 这里：
@@ -36788,7 +36788,7 @@ imperative = 必要的
 important < crucial < imperative
 
 implement
-/ˈɪmplɪment/
+/ˈɪmplɪment/（动）/ˈɪmplɪmənt/（名）
 ① They implemented the plan.
 = 他们执行了那个计划。
 这里 implement 是动词，读 /ment/。
@@ -37255,7 +37255,7 @@ legacy 侧重"留给后世的影响"
 inheritance 侧重"继承到的财产"
 
 legitimate
-/lɪˈdʒɪtɪmɪt/
+/lɪˈdʒɪtɪmət/
 ① That's a legitimate concern.
 = 那是个合理的顾虑。
 这里：
@@ -39798,7 +39798,7 @@ a last resort = 最后手段
 诉诸手段 / 度假胜地
 
 resume
-/rɪˈzjuːm/
+/rɪˈzjuːm/（动）/ˈrezjumeɪ/（名）
 ① Work resumed on Monday.
 = 周一复工了。
 这里 resume 是动词，
