@@ -1220,3 +1220,16 @@ naw          # 方言拼写（no 的变体）
 nancy        # 冒犯性标签
 nature strip # 澳新
 national scenic area # 苏格兰
+nebuchadnezzar # 冷僻（特大号酒瓶名）
+neep         # 苏格兰
+neg.         # 小写排版缩写
+negator      # 语法窄专业
+neta         # 印度
+neo          # 词缀截出来的残片
+neoplasticism # 美术史窄专业
+newfie       # 加拿大，且带冒犯色彩
+nez-perce    # 纯专名
+nelson's column # 纯专名
+negative gearing # 澳新
+next tomorrow # 西非
+new variant CJD # 医学窄专业

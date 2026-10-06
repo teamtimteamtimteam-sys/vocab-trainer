@@ -270,3 +270,6 @@ mustached    moustache      # 美式拼法；在 moustache 条配等式（mousta
 musing       muse           # 名词并进 muse 条后，前四字母对不上
 mutism       mute           # 名词并进 mute 条后，前四字母对不上
 napa         nappa          # 拼法变体；在 nappa 条配等式
+nett         net            # 拼法变体；在 net 条配等式
+needn't      need           # 缩略式；在 need 条配例句
+needs        need           # 副词（must needs）与复数、第三人称形，并在 need 条

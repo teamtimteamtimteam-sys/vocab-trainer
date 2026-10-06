@@ -79,3 +79,4 @@ more            # 不规则比较级，自成大词（more and more、more or le
 most            # 不规则最高级，自成大词（at most、for the most part、make the most of、构成最高级），同 least
 namely       # 词根是名词 name，义为「即、也就是」，不是形容词的副词
 naturally       # 另有句子副词「当然、不用说」（Naturally, I said yes）与 come naturally to，natural 没有这两支
+nearly          # 意思是「几乎、差不多」，不是 near 的「近」加 -ly；near 没有这一支
