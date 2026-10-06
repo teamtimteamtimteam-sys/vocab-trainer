@@ -1253,3 +1253,4 @@ non-factive  # 语言学窄专业
 nosology     # 医学窄专业
 nose tackle  # 美式橄榄球窄专业
 no side      # 英式橄榄球窄专业
+non          # 词缀截出来的残片（同 neo）
