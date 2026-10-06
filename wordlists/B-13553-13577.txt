@@ -456,6 +456,9 @@ rise linearly = 成正比上涨
 ④ The engineers tested the linearity of the sensor at different temperatures.
 = 工程师们在不同温度下测试了那个传感器的线性度。
 linearity = 线性（度）
+⑤ The novel has a non-linear plot that jumps backwards and forwards across three decades.
+= 那部小说的情节是非线性的，在三十年间来回跳跃。
+non-linear = 非线性的
 
 linebacker
 /ˈlaɪnbækə(r)/

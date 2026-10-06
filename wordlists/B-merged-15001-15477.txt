@@ -2016,6 +2016,9 @@ a native speaker of English = 以英语为母语的人
 ⑩ After two years on the island he had gone native and wore sandals to the office.
 = 在岛上待了两年，他已经入乡随俗，穿着凉鞋去上班了。
 go native = 入乡随俗
+⑪ The evening course is designed for non-native speakers who already read English well.
+= 那门晚间课程是为英语阅读已经不错的非母语者开的。
+non-native = 非母语的、非本地的
 
 nativity
 /nəˈtɪvɪti/
@@ -7551,6 +7554,22 @@ north-south = 南北向的
 ⑮ He never lost his north-country accent, even after forty years in London.
 = 他在伦敦住了四十年，北方口音始终没丢。
 north-country = 英格兰北部的
+⑯ A north-easterly wind brought sleet to the coast, while a north-westerly gale battered the islands.
+= 东北风给海岸带来雨夹雪，西北大风则猛袭那些岛屿。
+north-easterly = 东北的、从东北吹来的
+north-westerly = 西北的、从西北吹来的
+⑰ Rainfall is far heavier in the north-western hills than on the north-eastern plain.
+= 西北部山区的降雨比东北部平原多得多。
+north-western = 西北部的
+north-eastern = 东北部的
+⑱ The main road runs north-eastwards to the port, and a branch turns north-westwards to the mines.
+= 主路向东北通往港口，一条支路折向西北通往矿区。
+north-eastwards = 向东北
+north-westwards = 向西北
+⑲ The glacier is retreating in a north-eastward direction, and the river has taken a north-westward course.
+= 冰川正朝东北方向退缩，河流则改走了偏西北的河道。
+north-eastward = 向东北的
+north-westward = 向西北的
 
 northbound
 /ˈnɔːθbaʊnd/

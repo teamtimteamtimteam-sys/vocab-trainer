@@ -3561,6 +3561,9 @@ contact improvisation = 接触即兴（现代舞的一种即兴形式）
 = 这本书采访了六名自称与外星人接触过的人，一个也没当真。
 a contactee = 自称与外星人有过接触的人
 不明飞行物圈子里的词，跟自称被掳走的那一类说法成对。
+⑮ Swimming is a non-contact sport that is kind to injured knees.
+= 游泳是没有身体接触的运动，对受过伤的膝盖很友好。
+a non-contact sport = 无身体接触的运动
 构词：拉丁语 contingere 触到
 注意用法：作联系讲不可数，作熟人门路讲可数。
 
@@ -8036,6 +8039,9 @@ count toward = 同一个词的美式写法，少一个字母
 = 「advice」是不可数的，所以不能说「an advice」。
 a count noun = 可数名词
 跟这一条里的 countable noun 是一回事，语法书两种说法都用；反面叫 mass noun。
+⑲ In this dictionary a non-count noun such as furniture is marked with a capital U.
+= 在这部词典里，家具这类不可数名词用一个大写的字母标出。
+a non-count noun = 不可数名词
 构词：拉丁语 computare 计算；伯爵那支来自 comes 随从
 注意分工：欧陆的伯爵叫 count，英国的叫 earl。
 
@@ -13868,6 +13874,9 @@ haute cuisine = 高档法式烹调
 ③ Thai cuisine balances four tastes in almost every dish.
 = 泰国菜几乎每道都讲究四味平衡。
 Thai cuisine = 泰国菜系
+④ The chef trained in the days of nouvelle cuisine, when plates were large and portions tiny.
+= 那位厨师是在新式烹饪盛行的年代学的艺，那时盘子大，菜量小。
+nouvelle cuisine = 新式烹饪
 构词：法语 cuisine 厨房
 注意分工：比 cooking 正式，说的是整套路数。
 
@@ -16578,6 +16587,9 @@ a dairy = 牛奶加工间
 ④ The menu marks the dairy-free dishes with a small green square.
 = 菜单上用一个绿色小方块标出不含奶的菜。
 dairy-free = 不含奶的
+⑤ The café offers oat milk and two other non-dairy alternatives for customers who ask.
+= 那家咖啡馆给有需要的顾客备了燕麦奶和另外两种不含乳制品的替代品。
+non-dairy = 不含乳制品的
 构词：中古英语 deye 女仆 + -ery
 注意用法：作定语时最常见，说食品分类一律用它。
 

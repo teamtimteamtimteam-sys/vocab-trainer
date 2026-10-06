@@ -3777,6 +3777,9 @@ essentially = 本质上
 ⑥ Essentially, nobody read the appendix and the appendix had the answer.
 = 说到底，没人读附录，而答案就在附录里。
 essentially = 说到底
+⑦ All non-essential travel was banned while the roads were covered in ice.
+= 道路结冰期间，一切非必要的出行都被禁止。
+non-essential = 非必需的
 构词：essential 加 -ly
 
 Essex girl
@@ -5530,6 +5533,9 @@ an event planner = 活动策划人
 event planning = 活动策划
 Event planning is mostly deciding what happens when the first thing fails.
 = 活动策划大半是在定：头一件事出岔子以后怎么办。
+⑦ After weeks of publicity the launch of the product turned out to be a non-event.
+= 宣传了好几个星期，那款产品的发布会结果雷声大雨点小。
+a non-event = 雷声大雨点小的事
 
 eventful
 /ɪˈventfəl/
@@ -7288,6 +7294,9 @@ Executive privilege was claimed over three emails about a car park.
 ⑥ Nobody read past the executive summary and the real number sat in the appendix.
 = 谁也没往内容提要后面读，真正的数字在附录里。
 an executive summary = 内容提要
+⑦ She sits on the board as a non-executive director and attends six meetings a year.
+= 她以非执行董事的身份进了董事会，一年开六次会。
+a non-executive director = 非执行董事
 
 executor
 /ɪɡˈzekjʊtə(r)/
@@ -7827,6 +7836,9 @@ a hand-to-mouth existence = 朝不保夕的生活
 ③ The department came into existence in a corridor conversation.
 = 那个部门是在走廊里的一次谈话中诞生的。
 come into existence = 产生、开始存在
+④ The lawyers argued for a week over the existence or non-existence of a written agreement.
+= 律师们为到底有没有一份书面协议争了一个星期。
+non-existence = 不存在
 
 existent
 /ɪɡˈzɪstənt/
@@ -7838,6 +7850,9 @@ barely existent = 几乎不存在的
 ② The existent rules cover none of this and the new ones are late.
 = 现有的规则一条也管不着这些，新的又迟迟不来。
 existent = 现有的、存在的
+③ Public transport is almost non-existent in the villages on the far side of the river.
+= 河对岸那些村子里，公共交通几乎等于没有。
+non-existent = 不存在的
 
 existential
 /ˌeɡzɪˈstenʃəl/
@@ -16408,6 +16423,9 @@ a polite fiction = 客套的假象
 ③ Fact and fiction are shelved apart and shopped for together.
 = 纪实与小说分开上架，买的时候一起买。
 fact and fiction = 真实与虚构
+④ She reads novels on holiday and non-fiction, mostly history, during the rest of the year.
+= 她度假时读小说，其余时候读非虚构作品，多半是历史。
+non-fiction = 非虚构作品
 
 fictional
 /ˈfɪkʃənəl/
@@ -18029,6 +18047,9 @@ finite resources = 有限的资源
 ② A finite number of chairs meets an unpredictable number of guests.
 = 数目固定的椅子，碰上人数说不准的客人。
 a finite number = 有限的数目
+③ The infinitive and the two participles are the non-finite forms of an English verb.
+= 不定式和两种分词，是英语动词的非限定形式。
+non-finite = 非限定的
 
 fink
 /fɪŋk/

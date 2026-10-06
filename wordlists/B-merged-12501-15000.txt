@@ -467,6 +467,9 @@ invasive species = 入侵物种
 ③ Many people find the new security checks invasive.
 = 许多人觉得新的安检措施侵扰隐私。
 invasive = 侵扰的
+④ A non-invasive scan can detect the blockage without any need for surgery.
+= 一次无创的扫描就能查出堵塞，不必动手术。
+non-invasive = 无创的
 
 invective
 /ɪnˈvektɪv/
@@ -2103,6 +2106,9 @@ the issuer of something = …的发行人
 ⑬ He died without issue, so his estate went to his nephew.
 = 他死时没有子嗣，于是遗产归了他的侄子。
 without issue = 无子嗣（旧，法律）
+⑭ Parking was a non-issue in the street until the flats were built opposite.
+= 对面那些公寓盖起来以前，这条街上停车根本不成问题。
+a non-issue = 不成问题的事
 
 isthmus
 /ˈɪsθməs/
@@ -5059,6 +5065,9 @@ be judgemental about somebody = 对某人评头论足
 ② The counsellor listened without making any judgemental comments.
 = 那位辅导员只是倾听，没有说任何评判性的话。
 judgemental comments = 评判性的话
+③ A good counsellor listens in a non-judgemental way and gives very little advice.
+= 好的心理咨询师倾听时不妄加评判，也很少给建议。
+non-judgemental = 不妄加评判的
 
 judicature
 /ˈdʒuːdɪkətʃə(r)/
@@ -17475,6 +17484,9 @@ rise linearly = 成正比上涨
 ④ The engineers tested the linearity of the sensor at different temperatures.
 = 工程师们在不同温度下测试了那个传感器的线性度。
 linearity = 线性（度）
+⑤ The novel has a non-linear plot that jumps backwards and forwards across three decades.
+= 那部小说的情节是非线性的，在三十年间来回跳跃。
+non-linear = 非线性的
 
 linebacker
 /ˈlaɪnbækə(r)/
@@ -24480,6 +24492,9 @@ a malignant stare = 恶毒的目光
 = 外科医生在她肺部的恶性肿瘤扩散到肝脏之前把它切除了。
 a malignancy = 恶性肿瘤
 与 benign（良性的）相对。
+④ Tests showed that the growth was non-malignant, and the surgeon sent her home.
+= 检查显示那个肿块不是恶性的，外科医生就让她回家了。
+non-malignant = 非恶性的
 
 malinger
 /məˈlɪŋɡə(r)/

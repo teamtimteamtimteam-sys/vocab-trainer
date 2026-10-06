@@ -286,6 +286,9 @@ a character code = 字符编码
 ⑭ Character recognition reads the scan and gets the handwritten dates wrong.
 = 字符识别能读扫描件，手写的日期总认错。
 character recognition = 字符识别
+⑮ The shopkeeper in the game is a non-player character who repeats the same three lines.
+= 游戏里的店主是个非玩家角色，翻来覆去就是那三句话。
+a non-player character = 非玩家角色
 构词：希腊语 kharakter 刻痕、印记
 注意用法：字符那一支在技术文字里极常用。
 

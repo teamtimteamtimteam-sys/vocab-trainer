@@ -182,6 +182,9 @@ biodegradable packaging = 可降解包装
 ④ Glass is not biodegradable, though it can be melted down again and again.
 = 玻璃不会自然降解，尽管它可以一再回炉重熔。
 玻璃可以回收，但微生物拿它没办法，两件事别混。
+⑤ Non-biodegradable plastic bags can lie in the ground for hundreds of years.
+= 不可降解的塑料袋能在土里埋上几百年。
+non-biodegradable = 不可生物降解的
 构词：bio- 生物 + degradable 可降解的
 注意别混：
 biodegradable = 可被微生物分解的

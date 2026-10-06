@@ -139,6 +139,9 @@ invasive species = 入侵物种
 ③ Many people find the new security checks invasive.
 = 许多人觉得新的安检措施侵扰隐私。
 invasive = 侵扰的
+④ A non-invasive scan can detect the blockage without any need for surgery.
+= 一次无创的扫描就能查出堵塞，不必动手术。
+non-invasive = 无创的
 
 invective
 /ɪnˈvektɪv/

@@ -363,6 +363,9 @@ a dairy = 牛奶加工间
 ④ The menu marks the dairy-free dishes with a small green square.
 = 菜单上用一个绿色小方块标出不含奶的菜。
 dairy-free = 不含奶的
+⑤ The café offers oat milk and two other non-dairy alternatives for customers who ask.
+= 那家咖啡馆给有需要的顾客备了燕麦奶和另外两种不含乳制品的替代品。
+non-dairy = 不含乳制品的
 构词：中古英语 deye 女仆 + -ery
 注意用法：作定语时最常见，说食品分类一律用它。
 

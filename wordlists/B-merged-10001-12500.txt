@@ -29073,6 +29073,9 @@ human smuggling = 偷运人口
 ⑯ A human smuggler charged each family five thousand euros for the crossing.
 = 一个蛇头向每个家庭收取五千欧元的偷渡费。
 a human smuggler = 蛇头
+⑰ The study compares how humans and non-human primates learn to recognise faces.
+= 那项研究比较了人类和非人灵长类动物怎样学会辨认面孔。
+non-human = 非人类的
 
 humane
 /hjuːˈmeɪn/
@@ -31625,6 +31628,9 @@ an identical twin = 同卵双胞胎之一
 ④ The boys were dressed identically in blue shorts and white shirts.
 = 男孩们穿得一模一样，都是蓝短裤、白衬衫。
 dressed identically = 穿得一模一样
+⑤ The sisters are non-identical twins, and one is a head taller than the other.
+= 姐妹俩是异卵双胞胎，一个比另一个高出一头。
+a non-identical twin = 异卵双胞胎之一
 
 identifiable
 /aɪˌdentɪˈfaɪəbəl/
@@ -43790,6 +43796,9 @@ interventionism = 干预主义
 ④ The new president is more interventionist in foreign policy than the last.
 = 新总统在外交政策上比上一任更倾向于干预。
 interventionist = 干预主义的
+⑤ The government followed a policy of non-intervention in the civil war across the border.
+= 对边境那边的内战，政府奉行不干涉政策。
+non-intervention = 不干涉
 
 interview
 /ˈɪntəvjuː/

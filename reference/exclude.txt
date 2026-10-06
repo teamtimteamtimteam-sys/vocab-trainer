@@ -1254,3 +1254,5 @@ nosology     # 医学窄专业
 nose tackle  # 美式橄榄球窄专业
 no side      # 英式橄榄球窄专业
 non          # 词缀截出来的残片（同 neo）
+nor-easter   # 清单的清洗伪影，即 nor'easter（已收）
+ne-er-do-well # 清单的清洗伪影，即 ne'er-do-well（已并在 ne'er 条）

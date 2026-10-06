@@ -263,6 +263,9 @@ attendance centre = 考勤中心（英国对少年犯的非监禁处分）
 词族：
 attend = 出席；照料
 attendant = 服务员；随从
+⑦ Three warnings for non-attendance at lectures can cost a student the scholarship.
+= 因缺课受到三次警告，学生就可能丢掉奖学金。
+non-attendance = 缺席、不出席
 
 attendant
 /əˈtendənt/
