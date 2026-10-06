@@ -9,38 +9,35 @@
 # 格式：第一行 B<空格><目标条数>，其后的行是自由说明。
 B 10000
 
-═══ 现状（2026-10-06，第九十四轮收尾）═══
-B 词表 14852 条、义项 54050 条，词典序 a → mousy。A 表 3002 条。
+═══ 现状（2026-10-06，第九十五轮收尾）═══
+B 词表 14896 条、义项 54264 条，词典序 a → mufti。A 表 3002 条。
   **a–l 十二个字母收完**（各字母余下的只有「待推迟」条目，等后面字母的内容词；用 coverage.py <字母> 现查）。
-  **m 字母在写**（清单约 2300 条）：ma- / me- / mi- 三段收完（mi- 只剩 Midas touch 等 touch），
-    mc-（McCarthyism、McCoy）与 mn-（mnemonic）也写了；mo- 段写到 mousy，待新写只剩 25 条（其中 Mohammed、Moslem 等 mu- 段）。
-  **开段准备做到哪儿了**：M 段大写词头全判完（收 82 条，判语在 proper-nouns-keep 的 M 段注释；Mr / Mrs / Ms 按称谓缩写剔了，
-    已告知用户「想收说一声」，用户尚未表态）；ma- / me- / mi- / mo- 四段的 exclude、inflections、audit-idioms 都做了。
-    mo- 的要点：清单里没有 mould（清洗时丢了），词头按英式立 mould，mold / molder / molding / moldy / molt 已登 inflections；
-    monied→moneyed、moveable→movable、mousey→mousy、mossie→mozzie 也登了；Mohammed、Moslem 早先登在 Muhammad、Muslim 名下，等 mu- 段。
-    momma、mommy 并进 mom 条（三字母词根，coverage 认）。mooli、molybdenum、morpheme、monism、motherfucker 判了留。
-    **mu-（约 250 条）/ my-（约 38 条）两段的准备还没做，写到之前各自先过一遍。**
-  **下一批一批收完 mo- 段**：mouth（大词，并 mouth off / organ / ulcer、mouth-to-mouth resuscitation、mouth-watering；mouthy 单立）、mouthfeel、mouthful、
-    mouthguard、mouthpiece、mouthwash、mouthy、movable（并 movable feast；moveable 已登 inflections，挂等式）、move（大词，并 move along / in / in with / into /
-    off / on / out / over）、movement、mover、movie（并 movie rating / star / theater、moviegoer）、moving（并 movingly、moving van）、mow（并 mow down）、mower、
-    moxie、Mozambican、mozzarella、mozzie（mossie 已登 inflections，挂等式）。audit-idioms 里 mouth、move 的清单已列。
-    **写完后用 add-sense.py 补挂在别的宿主下的**：morris dance / dancer / dancing（dance、dancer、dancing）、Moses basket（basket）、
-    monounsaturated fat（fat），再跑一次 coverage mo 确认只剩「待推迟」。
-    **然后做 mu- 段（约 250 条）的开段准备**（exclude、inflections、audit-idioms，见 HANDOFF 第八节五步；Mohammed→Muhammad、Moslem→Muslim 已登），
-    my- 段（约 38 条）写到之前也先过一遍。
-    这一轮栽的三处：motherly 要登 derived-keep（词根是名词的形容词）；motte-and-bailey castle 只在核心块里点了名被报「被吞掉」，补了一个义项；
-    motor 写出来以后 coverage 才冒出挂在它名下的 motor wind（HANDOFF 六之 19），补了。
-    **讲解行照旧要写足**：大词至少一半义项配讲解行，两义小词每个义项尽量配一行。
+  **m 字母在写**（清单约 2300 条）：ma- / me- / mi- / mo- 四段收完（余下的只有「待推迟」，另 Mohammed、Moslem 等 Muhammad、Muslim 两条）；
+    mc-、mn- 也写了；**mu- 段写到 mufti，待新写还有 157 条；my- 段 34 条没动。**
+  **开段准备**：M 段大写词头全判完（Mr / Mrs / Ms 按称谓缩写剔了，已告知用户「想收说一声」，用户尚未表态）；
+    mu- / my- 两段的 exclude、inflections、audit-idioms 都做了（2026-10-06）：剔了 mukene、murram、munsif、mushaira、muti、mulligatawny、mulatto、
+    multicast、muddy waters（人名）、myelin、mythography；mustache / mustached 登成 moustache 的美式拼法，等式已挂在 moustache 条；
+    mustachioed 是另一个词，写到时单立。习语清单补了 much、muck、mud、mug、mum、murder、muscle、music、must、mustard、muster、mutton。
+    **n 字母的准备还没做**（大写词头整个字母一次判完，见 HANDOFF 第八节五步）。
+  **下一批从 mug 起**：mug（并 mug up / mug up on、a mug's game、mugger、mugging 单立与否看义项：mugging 并进 mug）、muggins、muggy、Mughal、mugshot、mugwump、
+    Muhammad（Mohammed 挂等式）、mujahideen、mukluk、mulberry、mulch、mule（并 muleteer、mulish 单立）、mull（并 mulled、mull over）、mullah、mullered、mullet、
+    mullion（并 mullioned）、multi- 一族约 45 条（multiple 是大词，并 multiple-choice、multiple sclerosis、multiple personality disorder；multiply、
+    multiplication 并 multiplication table；multi-storey car park、multi-access、multi-ethnic、multi-user、multi-word 挂在别的宿主名下，写进以 multi 打头的近亲条或用 add-sense）、
+    mum（并 mummy's boy？mummy 单立）、mumble、mumbo jumbo（宿主 jumbo，用 add-sense 或单立）、mummer、mummify、mummy、mumps、mumsy、munch 一族……
+    mu- 的大词：multiple、murder、muscle、music（并 music box / hall / stand / video）、musical（并 musical box / bumps / chairs / comedy / director / saw）、must、mute、mutual。
+    **三个字母的词头会无声吞词**：mud（已写）、mug、mum、mun- 里别用还没写的同前缀词（mug 条里别出现 muggy、mugshot 以外没排进同批的词）。
+    这一轮栽的两处：much 一立，audit-derived 就把 more、most 报成「该并进 much 的比较级」，按 less / least 的先例登了 derived-keep；
+    muck around with 只写在讲解行里会被吞，短语动词的每个变体都给一条等式。讲解行照旧写足。
   **节奏**：每次回复约三批（每批 20–25 条，有大词就少些），每批跑十二道闸门加判重、各自本地提交；开新段那一轮可以是「准备 + 两批」。
   **in- 段的并入原则仍适用于所有字母**：多词条目（X + 名词、短语动词）一律按重心并进以 X 打头的那个词条，
     写每个大词前先从 coverage 输出里把以它打头的「待并入」「待推迟」条目列出来，全部并进去。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
   已交付五份：B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12500（用户已导入 app）。
-  **第六份在攒：现为 B-merged-12501-14852（2352 条），满 2500 条时会自动定名 B-merged-12501-15000 并登进台账 ——
-  到时主动告诉用户「第六份可以导入了」并用 SendUserFile 发给他。** 还差 148 条。
+  **第六份在攒：现为 B-merged-12501-14896（2396 条），满 2500 条时会自动定名 B-merged-12501-15000 并登进台账 ——
+  到时主动告诉用户「第六份可以导入了」并用 SendUserFile 发给他。** 还差 104 条。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **origin 目前在 51e34015**；本地领先 228 个提交，全部没推，push 照旧等用户开口。
+  **origin 目前在 51e34015**；本地领先 233 个提交，全部没推，push 照旧等用户开口。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
 · **两义项的术语词扎堆，整块的批均等式会掉到基线下**（hy- 段 hypersensitive 那批
