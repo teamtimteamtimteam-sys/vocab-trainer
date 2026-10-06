@@ -384,3 +384,15 @@ be mottled with spots = 布满斑点
 = 那些蛋是淡绿色的，带灰色斑纹，在草丛里很难发现。
 mottled with grey = 带灰色斑纹
 后面用 with 说是什么颜色的斑。
+
+motto
+核心：座右铭、格言、箴言：概括一个人、一个团体的信条的一句短话。复数 mottoes 或 mottos。
+① The school's motto is a Latin phrase that nobody can translate.
+= 那所学校的校训是一句没人翻译得出的拉丁文。
+the school's motto = 校训
+② Never apologize and never explain has been his motto for years.
+= 不道歉、不解释，多年来一直是他的信条。
+somebody's motto = 某人的信条
+③ The family motto is carved in stone above the main door.
+= 家训刻在正门上方的石头上。
+the family motto = 家训

@@ -183,6 +183,10 @@ access road = 支线道路
 ⑧ Access time was cut in half and the machine still feels slow.
 = 存取时间减了一半，机器还是觉得慢。
 access time = 存取时间
+⑨ The library catalogue runs on a multi-access system that hundreds of readers can search at once.
+= 图书馆的目录运行在一套多用户系统上，几百名读者可以同时检索。
+a multi-access system = 多用户同时使用的系统
+计算机用语：允许多人同时接入。
 
 accessibility
 核心：三条线，对应 accessible：到得了、用得上、看得懂。
