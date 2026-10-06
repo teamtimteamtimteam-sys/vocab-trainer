@@ -1,3 +1,84 @@
+nasal
+/ˈneɪzəl/
+核心：三支。一是鼻的、鼻腔的，只作定语；二是（嗓音）带鼻音的；三是（语音学）鼻音的，名词指鼻音，如 m、n。
+动词 nasalize（使带鼻音、发成鼻音）与名词 nasalization 并入本条。
+① The spray is used to clear the nasal passages during a heavy cold.
+= 那种喷剂用来在重感冒时疏通鼻腔。
+the nasal passages = 鼻腔
+a nasal spray = 鼻喷剂
+② He spoke in a high nasal voice that carried to the back of the hall.
+= 他说话嗓音又高又带鼻音，一直传到大厅后排。
+a nasal voice = 带鼻音的嗓音
+③ The sounds at the ends of "sum", "sun" and "sung" are the three nasals of English.
+= 这三个词末尾的音，就是英语的三个鼻音。
+a nasal = 鼻音
+④ French speakers nasalize the vowel in that word instead of sounding the final letter.
+= 说法语的人把那个词里的元音发成鼻化音，最后那个字母不念出来。
+nasalize a vowel = 把元音发成鼻化音
+⑤ The nasalization of vowels is one of the first things learners of Portuguese notice.
+= 元音鼻化，是学葡萄牙语的人最先注意到的特点之一。
+nasalization = 鼻化
+
+nascent
+/ˈnæsənt/
+核心：两支，正式。一是初生的、刚刚萌芽的，多说产业、运动、民主；二是（才能、感情）刚露头、尚未成形的。只作定语居多。
+① The grant is meant to help the country's nascent film industry find its feet.
+= 那笔拨款意在帮助该国刚起步的电影业站稳脚跟。
+a nascent industry = 刚起步的产业
+② The teacher recognised a nascent talent for drawing in the quiet boy at the back.
+= 老师看出后排那个安静的男孩身上，有一份刚露头的绘画才能。
+a nascent talent = 刚露头的才能
+
+nasturtium
+/nəˈstɜːʃəm/
+核心：两支，可数。一是旱金莲：一种园艺花卉，圆叶，开红、橙、黄色的花，藤蔓会爬；二是它的花和叶，可以拌沙拉吃，有胡椒味。
+① Orange nasturtiums had climbed the fence and spilled over into the lane.
+= 橙色的旱金莲爬上了篱笆，一直垂到小巷里。
+a nasturtium = 旱金莲
+② She scattered a few nasturtium flowers over the salad for colour and a peppery taste.
+= 她在沙拉上撒了几朵旱金莲花，添点颜色，也添点胡椒味。
+nasturtium flowers = 旱金莲花
+
+nasty
+/ˈnɑːsti/
+核心：五支。一是讨厌的、令人难受的（气味、味道、天气）；二是（人、言行）恶意的、不怀好意的，介词用 to；
+三是严重的、危险的（伤、事故、弯道）；四是难对付的、棘手的；五是 turn nasty，（人）翻脸、（局面）变得凶险。
+习语 a nasty piece of work 是（英式）人品恶劣的家伙；a nasty shock、a nasty surprise 是叫人难受的意外。
+副词 nastily 与名词 nastiness 并入本条。
+① The medicine has a nasty taste that not even orange juice can hide.
+= 那种药味道很难吃，连橙汁都盖不住。
+a nasty taste = 难吃的味道
+a nasty smell = 难闻的气味
+② Do not be so nasty to your brother, who was only trying to help.
+= 别对你弟弟那么刻薄，他只是想帮忙。
+be nasty to somebody = 对某人刻薄
+③ She has a nasty habit of reading other people's letters.
+= 她有个讨人嫌的毛病，爱看别人的信。
+a nasty habit = 讨人嫌的毛病
+④ He had a nasty fall from the ladder and broke his wrist.
+= 他从梯子上重重摔下来，摔断了手腕。
+a nasty fall = 摔得不轻
+a nasty cut = 很深的口子
+⑤ There is a nasty bend just before the bridge where several cars have left the road.
+= 桥前头有个险弯，好几辆车在那儿冲出过路面。
+a nasty bend = 险弯
+⑥ The bill for the repairs came as a nasty shock.
+= 修理费的账单让人倒吸一口凉气。
+a nasty shock = 叫人难受的意外
+⑦ The crowd turned nasty when the police tried to move the barriers.
+= 警察想挪开路障的时候，人群翻了脸。
+turn nasty = 翻脸、变得凶险
+⑧ Keep away from the landlord, who is a nasty piece of work.
+= 离那个房东远点，他是个人品恶劣的家伙。
+a nasty piece of work = 人品恶劣的家伙
+英式说法。
+⑨ "Nobody asked you," she said nastily, without looking up from her phone.
+= 「没人问你。」她头也不抬地盯着手机，恶声恶气地说。
+say something nastily = 恶声恶气地说
+⑩ He was shocked by the nastiness of the comments under the article.
+= 文章底下那些评论的恶毒，让他吃了一惊。
+the nastiness of something = 某事的恶毒
+
 natal
 /ˈneɪtəl/
 核心：两支，正式，只作定语。一是出生的、与出生有关的；二是出生地的。更常见的是它的复合形式：产前的、产后的。
@@ -422,136 +503,3 @@ occur naturally = 天然存在
 ⑥ Teaching came naturally to her, and she never needed notes.
 = 教书对她来说不学就会，她从来不用讲稿。
 come naturally to somebody = 对某人来说不学就会
-
-nature
-/ˈneɪtʃə(r)/
-核心：三条主线。一是大自然、自然界：不可数，前面不加 the；大写的 Nature 把它当成一股力量，Mother Nature 是拟人说法。
-二是（人、动物的）天性、本性：可数或不可数，by nature 是生性，it is not in his nature 是他不是那种人；
-human nature 是人性。三是（事物的）性质、类别：单数，the nature of the problem；of this nature 是这一类的。
-习语：second nature 是习惯成自然的事；in the nature of 是属于…一类；in the nature of things 是按事物的常理；
-back to nature 是回归自然；the call of nature 是（委婉）要上厕所；let nature take its course 是顺其自然。
-nature reserve（自然保护区）与 nature trail（自然观察小径）并入本条。
-① The film shows the beauty of nature through a single year in a mountain valley.
-= 那部片子用一座山谷里的一年四季，展现大自然的美。
-the beauty of nature = 大自然的美
-这一支不加冠词。
-② The sea wall was no match for the forces of nature that night.
-= 那天夜里，海堤根本挡不住自然的力量。
-the forces of nature = 自然的力量
-③ Mother Nature gave the islands warm seas and almost no fresh water.
-= 大自然给了那些岛屿温暖的海水，却几乎没给淡水。
-Mother Nature = 大自然（拟人说法）
-④ She is cautious by nature and reads every contract twice.
-= 她生性谨慎，每份合同都读两遍。
-by nature = 生性
-⑤ It is not in his nature to bear a grudge for long.
-= 他不是那种会长久记仇的人。
-it is not in somebody's nature to do something = 某人不是那种会做某事的人
-⑥ It is only human nature to want what the neighbours have.
-= 想要邻居有的东西，不过是人性使然。
-human nature = 人性
-⑦ The dog has a gentle nature and has never snapped at a child.
-= 那条狗性情温顺，从没冲孩子龇过牙。
-a gentle nature = 温顺的性情
-⑧ The doctors have not yet established the exact nature of the illness.
-= 医生们还没确定那种病的确切性质。
-the nature of something = 某事的性质
-⑨ Decisions of this nature should be taken by the full committee.
-= 这一类决定应当由全体委员作出。
-of this nature = 这一类的
-⑩ His remarks were in the nature of a warning rather than a threat.
-= 他的话算是一种警告，而不是威胁。
-in the nature of = 属于…一类
-⑪ In the nature of things, young people want to leave a village like this one.
-= 按常理，年轻人总想离开这样的村子。
-in the nature of things = 按事物的常理
-⑫ After twenty years, locking the workshop door had become second nature to him.
-= 二十年下来，锁作坊的门对他来说已经成了习惯。
-second nature = 习惯成自然的事
-become second nature to somebody = 对某人成了习惯
-⑬ They sold the house in town and went back to nature on a hill farm.
-= 他们卖了城里的房子，到一座山地农场回归自然去了。
-back to nature = 回归自然
-⑭ He left the meeting for a moment to answer the call of nature.
-= 他离开会场片刻，去方便一下。
-the call of nature = 要上厕所（委婉）
-⑮ The vet said there was nothing more to do but let nature take its course.
-= 兽医说，没别的可做了，只能顺其自然。
-let nature take its course = 顺其自然
-⑯ The marsh was made a nature reserve to protect the birds that winter there.
-= 那片沼泽划成了自然保护区，为的是保护在那儿越冬的鸟。
-a nature reserve = 自然保护区
-⑰ The children followed a nature trail through the wood with a list of leaves to find.
-= 孩子们拿着一张要找的树叶清单，顺着一条自然观察小径穿过树林。
-a nature trail = 自然观察小径
-
-naturism
-/ˈneɪtʃərɪzəm/
-核心：裸体主义：认为在户外不穿衣服有益身心的主张与做法，英式多用这个词，美式多说 nudism。不可数。
-奉行的人叫 naturist，也作定语：a naturist beach。并入本条。
-① Naturism is permitted on two beaches along that stretch of coast.
-= 那一段海岸有两处海滩允许裸体活动。
-naturism = 裸体主义
-② The far end of the bay is a naturist beach, marked by a small sign.
-= 海湾的尽头是一片裸体海滩，立着一块小牌子。
-a naturist beach = 裸体海滩
-③ A group of naturists has rented the campsite every August for thirty years.
-= 一群裸体主义者三十年来每年八月都租下那片营地。
-a naturist = 裸体主义者
-
-naturopathy
-/ˌneɪtʃəˈrɒpəθi/
-核心：自然疗法：不用药物，靠饮食、锻炼、草药、按摩来防病治病的一套做法，属于替代医学。不可数。
-从业者叫 naturopath，形容词 naturopathic。并入本条。
-① She turned to naturopathy when years of tablets had failed to cure her headaches.
-= 吃了多年药片都没治好头痛，她转向了自然疗法。
-turn to naturopathy = 转向自然疗法
-② The naturopath told him to give up coffee and sleep with the window open.
-= 那位自然疗法师让他戒掉咖啡，开着窗睡觉。
-a naturopath = 自然疗法师
-③ The clinic offers naturopathic treatments alongside ordinary medical care.
-= 那家诊所在常规医疗之外，也提供自然疗法。
-naturopathic treatments = 自然疗法的治疗
-
-naught
-/nɔːt/
-核心：两支，旧式、书面，是 nought 的另一种拼法。一是「无、零」，如今只活在固定说法里：
-come to naught 是落空、化为乌有，be for naught 是白费；二是 set something at naught，（正式）不把某事放在眼里。
-① All their plans for the summer came to naught when the car broke down.
-= 汽车一坏，他们整个夏天的计划全落了空。
-come to naught = 落空、化为乌有
-② Three years of patient work had been for naught.
-= 三年耐心的工夫全白费了。
-be for naught = 白费
-③ The new owner set the old agreements at naught and doubled the rent.
-= 新业主不把旧协议放在眼里，把租金翻了一倍。
-set something at naught = 不把某事放在眼里
-
-naughty
-/ˈnɔːti/
-核心：三支。一是（孩子）淘气的、不听话的；大人对自己用是开玩笑：it was naughty of me；
-二是（口语，诙谐）有点出格的、带点色情意味的；三是 naughty but nice，明知不该却忍不住的享受。
-副词 naughtily 与名词 naughtiness 并入本条。
-naughty step 是罚淘气孩子去坐着反省的那级楼梯，并入本条。
-① The naughty boy had hidden the teacher's glasses in the piano.
-= 那个淘气的男孩把老师的眼镜藏进了钢琴里。
-a naughty boy = 淘气的男孩
-② It was naughty of me to finish the chocolates without telling anyone.
-= 我没跟人说就把巧克力吃光了，真不应该。
-it was naughty of me = 我真不应该
-大人自嘲的说法。
-③ The comedian told a few naughty jokes once the children had gone to bed.
-= 等孩子们上床睡了，那位喜剧演员讲了几个荤段子。
-a naughty joke = 荤段子
-④ A cream cake in the middle of the afternoon is naughty but nice.
-= 下午三四点钟来一块奶油蛋糕，明知不该，却真是享受。
-naughty but nice = 明知不该却忍不住的享受
-⑤ The little girl grinned naughtily and dropped another pea into the water jug.
-= 小女孩调皮地咧嘴一笑，又往水壶里丢了一颗豌豆。
-grin naughtily = 调皮地咧嘴笑
-⑥ The teacher put his naughtiness down to boredom and gave him harder sums.
-= 老师把他的淘气归因于无聊，给了他更难的算术题。
-somebody's naughtiness = 某人的淘气
-⑦ He spent five minutes on the naughty step for throwing his dinner on the floor.
-= 他把饭扔到地上，在反省台阶上坐了五分钟。
-the naughty step = 反省台阶
