@@ -1,4 +1,5 @@
 dashboard
+/ˈdæʃbɔːd/
 核心：汽车仪表板 —— 方向盘前面那块带仪表的板子，英式口语缩成 the dash。
 名字来自马车时代挡马蹄泥的那块板。近二十年多出一支软件义：
 数据看板，把关键指标汇到一屏上看。两支都可数。
@@ -14,6 +15,7 @@ a sales dashboard = 销售数据看板
 注意用法：写成一个词；两支意思靠上下文分，从不混淆。
 
 dashcam
+/ˈdæʃkæm/
 核心：行车记录仪：装在挡风玻璃或仪表台上、一路录像的小摄像头。
 构词是 dashboard 与 camera 各取前半截，也写作分开的 dash cam。
 可数，复数 dashcams。最常出现在保险理赔和交通事故的语境里。
@@ -29,6 +31,7 @@ fit a dashcam = 装行车记录仪
 注意用法：分写成 dash cam 也通行，意思完全一样。
 
 dashed
+/dæʃt/
 核心：两支。一是「虚线的」：a dashed line，跟 solid line 实线、
 dotted line 点线三分，图表和说明书里分工很死。
 二是英式旧口语里的委婉强调词，相当于 damned，多见于老派人物口中。
@@ -48,6 +51,7 @@ a dashed nuisance = 讨厌透顶的事（英式旧口语）
 注意语域：强调义偏旧、限英式；虚线义是通用的。
 
 dashiki
+/dɑːˈʃiːki/
 核心：达西基衫：宽松的套头上衣，领口与袖口有一圈绣花，源自西非，
 六十年代经美国黑人文化传开。可数，复数 dashikis，也常作定语
 （a dashiki shirt、dashiki print）。
@@ -62,6 +66,7 @@ dashiki print = 达西基式印花
 注意用法：复数规则加 -s；作定语时形式不变。
 
 dashing
+/ˈdæʃɪŋ/
 核心：夸人神采飞扬、潇洒帅气，多半说男人 —— 既说长相打扮，也说举止里
 那股干脆利落的劲儿。由 dash 猛冲那一支来。也说东西「扎眼、有派头」。
 偏旧、偏文学，今天用多半带一点玩笑口气。
@@ -80,6 +85,7 @@ a dashing red coat = 扎眼的红大衣
 注意语域：偏旧、偏文学，今天多带戏谑口气。
 
 dastardly
+/ˈdæstədli/
 核心：卑鄙可耻的 —— 阴损里还带着怯懦：干坏事却不敢正面来。
 形容词，前面常加 utterly、truly。偏旧，今天几乎只见于新闻标题和
 半开玩笑的口吻，正经指控多改说 despicable 或 cowardly。
@@ -269,6 +275,7 @@ day = 日子（一天，或星期几）
 appointment = 约定的会面（正式安排）
 
 dative
+/ˈdeɪtɪv/
 核心：与格：语法术语，指名词代词作间接宾语（给谁、对谁）时的那个格。
 德语、拉丁语、俄语里有实打实的形态变化，英语早已没有与格形式，
 所以这个词只在讲外语语法或历史语法时用得着。名词形容词同形。
@@ -318,6 +325,7 @@ a daub = 拙劣的画、乱涂的一片
 注意语域：动词名词都是贬义，中性地说涂用 apply 或 spread。
 
 daube
+/dəʊb/
 核心：法式红酒炖牛肉：牛肉加红酒、香草小火慢炖几个钟头，
 全称多写作 daube de bœuf。法语借词，进英语后不变形，复数照加 -s，可数。
 ① The daube had been in the oven since ten and filled the whole house with the smell of wine.
@@ -359,6 +367,7 @@ a daughterboard = 子板（插在主板上的扩展板）
 注意用法：比喻义取的是「由母体分出」，跟性别无关。
 
 daunt
+/dɔːnt/
 核心：让人心里发怵、打退堂鼓。及物动词，实际最常见的是被动式
 be daunted by，主动式少见。固定说法 nothing daunted 是「毫不气馁」，
 放在句首作插入语，偏文学。形容词 dauntless 是「无所畏惧的」，褒义。
@@ -377,6 +386,7 @@ dauntless = 无所畏惧的
 注意用法：多用被动；主动式说 the task daunted him 也通，只是少见。
 
 daunting
+/ˈdɔːntɪŋ/
 核心：令人望而生畏的：难度或规模大到让人不敢下手。说任务、清单、前景，
 不用来说人。跟 frightening 的分界：frightening 是害怕，
 daunting 是「看着就觉得自己扛不动」。副词 dauntingly 多修饰形容词。
@@ -397,6 +407,7 @@ frightening = 让人害怕（说危险）
 intimidating = 让人在气势上矮一截（也可说人）
 
 dauphin
+/ˈdɔːfɪn/
 核心：法国王储的称号，专指国王的长子，十四世纪一直用到大革命。
 法语借词，英语里首字母可大写可小写。今天多用作比喻，
 讥讽某个圈子里内定的接班人 —— 言外之意是位置靠继承而非靠本事。
@@ -411,6 +422,7 @@ the dauphin of something = 某个圈子内定的接班人
 注意用法：只用于法国王储；别国的王储说 the crown prince。
 
 dawdle
+/ˈdɔːdəl/
 核心：磨蹭：走得慢、做得慢，而且带着「本该快点、耽误了事」的责备口气。
 不及物动词，常说 dawdle over something 在某事上磨蹭、dawdle along 一路慢慢晃。
 跟 linger 的分界：linger 是舍不得走，dawdle 是纯粹拖拉。
@@ -674,6 +686,7 @@ date = 日期（几月几号）
 中文都可能说「日子」，英语里问哪一天用 what date，问星期几用 what day。
 
 daybed
+/ˈdeɪbed/
 核心：坐卧两用的榻：靠背矮、只一头有扶手，白天当座位、临时也能躺，
 放在客厅或书房，不当正经卧床用。可数，写成一个词。
 跟 sofa bed 的分别：sofa bed 白天是沙发、展开才成床，daybed 本来就是床的样子。
@@ -689,6 +702,7 @@ a daybed = 本来就是床形的坐卧两用榻
 a sofa bed = 白天是沙发，展开才成床
 
 daybreak
+/ˈdeɪbreɪk/
 核心：天亮：跟 dawn 通用，书面味重一点，几乎只出现在
 at daybreak、by daybreak、before daybreak 这三个搭配里。
 不可数，不加冠词。
@@ -747,6 +761,7 @@ daylight saving time = 夏时制
 注意用法：不可数，不说 a daylight。
 
 daylily
+/ˈdeɪlɪli/
 核心：萱草：一朵花只开一天，第二天换新的一朵，名字就是这么来的。
 可数，复数 daylilies，也写作分开的 day lily。
 ① The daylilies along the drive open in the morning and are finished by dusk.

@@ -1,4 +1,5 @@
 decelerate
+/ˌdiːˈseləreɪt/
 核心：减速：说车、列车，也说增长速度放慢 —— 经济与技术报道里
 常说 growth is decelerating。反义是 accelerate，名词 deceleration。
 不及物为主，也可及物（decelerate the process）。
@@ -72,6 +73,7 @@ decent = 像样的、正派的
 descent = 下降、血统（只差一个字母，别写错）
 
 decentralize
+/ˌdiːˈsentrəlaɪz/
 核心：把权力、机构、资源从中央分散到地方。及物动词，英式也拼 decentralise，
 名词 decentralization。反义是 centralize。
 它的词根是 central，跟 decent 正派毫无关系 —— 只是前四个字母碰巧一样。
@@ -106,6 +108,7 @@ deceit = 欺骗（更重，带道德谴责）
 a lie = 谎言（说出口的那句假话）
 
 deceptive
+/dɪˈseptɪv/
 核心：容易让人看错的：说外表、印象、数字。重点不在有人存心骗，
 而在「看上去不是那么回事」。
 副词 deceptively 是英语里出名容易误解的一个词：deceptively simple
@@ -127,6 +130,7 @@ misleading = 会把人引偏的（多说说法、数据）
 dishonest = 不诚实的（说人）
 
 decibel
+/ˈdesɪbel/
 核心：量声音大小的单位，缩写 dB。刻度是对数的 —— 加十分贝，实际响度差得
 远不止十倍，所以九十分贝与八十分贝的差别比数字看着大。可数。
 ① The reading outside the flat reached ninety decibels every time a train went past.
@@ -173,6 +177,7 @@ decide upon something = 定下某样东西（比 decide on 正式）
 注意用法：接从句用 that；decide whether 表示「还在犹豫」，不是已经定了。
 
 deciduous
+/dɪˈsɪdʒuəs/
 核心：落叶的：说树木冬天把叶子落光，跟 evergreen 常绿相对。
 医学里另有一支：乳牙叫 deciduous teeth，取的还是「会掉」这层意思。
 形容词，重音在第二个音节。
@@ -188,6 +193,7 @@ deciduous = 落叶的（冬天落光）
 evergreen = 常绿的（四季有叶）
 
 decile
+/ˈdesaɪl/
 核心：十分位：把一组数据按大小排开、平均分成十份，每份的分界点。
 常说 the top decile、the bottom decile。统计与政策文件里的用语，可数。
 ① Households in the bottom decile spend a third of their income on rent alone.
@@ -203,6 +209,7 @@ a quartile = 四分位（分成四份）
 a percentile = 百分位（分成一百份）
 
 decilitre
+/ˈdesɪliːtə(r)/
 核心：一分升，十分之一升。公制里 deci- 表示十分之一：decilitre 一分升、
 decimetre 一分米。两个词日常都少用，主要出现在食谱、实验记录与换算表里。
 美式拼 deciliter、decimeter。可数。
@@ -241,6 +248,7 @@ one decimal place = 小数点后一位
 注意用法：英式用句点作小数点、逗号作千位分隔；有些国家正好相反。
 
 decimate
+/ˈdesɪmeɪt/
 核心：大批毁掉：说人口、部队、种群、行业被削掉一大部分。
 本义是古罗马军法的「十抽一处死」，所以老派的人坚持它只该指减少十分之一；
 今天通行的用法是「大量消灭」，词典也认。名词 decimation。
@@ -257,6 +265,7 @@ the decimation of something = 某个行业或群体的凋敝
 注意用法：正式写作里若怕被挑刺，可换 devastate。
 
 decipher
+/dɪˈsaɪfə(r)/
 核心：辨认、释读：把本来看不懂的东西弄明白 —— 潦草字迹、古文字、密码，
 也说读懂别人话里的意思。及物动词。
 跟 decode 的分界：decode 的对象有一套编码规则，decipher 的对象是本来就难辨认。
@@ -379,6 +388,7 @@ deck shoes = 帆船鞋（鞋底防滑的那种）
 注意用法：在甲板上说 on deck，下到舱里说 below deck。
 
 declaim
+/dɪˈkleɪm/
 核心：慷慨陈词：拿腔拿调地大声说，像在台上朗诵。
 不及物多说 declaim against something 大声抨击某事，也可及物说朗诵。
 名词 declamation，形容词 declamatory 指腔调夸张，多带贬义。
@@ -443,6 +453,7 @@ Two members declared against the merger and were not invited back.
 注意用法：宣布某人是什么，用 declare somebody something（declare him bankrupt）。
 
 declassify
+/ˌdiːˈklæsɪfaɪ/
 核心：解密：把文件的密级去掉，公之于众。及物动词，多用被动。
 名词 declassification。反义是 classify —— 在这一支里 classify 是「定为机密」，
 不是「分类」。
@@ -456,6 +467,7 @@ declassification = 解密
 注意别混：这里的 classify 是「定为机密」，跟「分类」那个义项不是一回事。
 
 declension
+/dɪˈklenʃən/
 核心：变格：名词、代词、形容词按格、数、性变形的那一整套。
 拉丁语、德语、俄语里有，英语基本已经没有了。也指其中的一套模式
 （the second declension）。语法术语，可数。
@@ -495,6 +507,7 @@ refuse = 拒绝（更硬）
 reject = 否决、退回（多说申请与方案）
 
 declutter
+/ˌdiːˈklʌtə(r)/
 核心：清杂物：把用不着的东西清掉，让地方或日程清爽起来。
 及物不及物都行，近二十年因整理术流行才常见。
 也说 declutter your life，把生活里多余的事清掉。

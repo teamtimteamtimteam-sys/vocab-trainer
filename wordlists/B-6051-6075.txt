@@ -1,4 +1,5 @@
 dendrite
+/ˈdendraɪt/
 核心：神经元上分叉如树枝的那部分突起，负责接收信号。
 生物学术语，可数。形容词 dendritic 说「树枝状的」，
 矿物、河网、结晶都能这么形容。
@@ -12,6 +13,7 @@ a dendritic pattern = 树枝状的纹样
 注意用法：形容词 dendritic 用得比名词广，说河网与结晶都行。
 
 dendrochronology
+/ˌdendrəʊkrəˈnɒlədʒi/
 核心：树轮年代学：数树木年轮来定年代，也用来还原过去的气候。
 不可数，做这行的人是 a dendrochronologist。
 考古与气候研究里最常用到。
@@ -25,6 +27,7 @@ a dendrochronologist = 树轮学家
 注意语域：考古与气候学的术语。
 
 dendrology
+/denˈdrɒlədʒi/
 核心：树木学：研究乔木与灌木的学问，属植物学的一支。
 不可数，研究者是 a dendrologist。
 ① Dendrology was taught as part of forestry and dropped when the course was shortened.
@@ -37,6 +40,7 @@ a dendrologist = 树木学家
 注意别混：dendrology 研究树，dendrochronology 用年轮定年代。
 
 Denglish
+/ˈdeŋɡlɪʃ/
 核心：德式英语：德语里混用英语词、或按德语习惯生造的英语说法。
 不可数，多带调侃，跟 Franglais（法式英语）是一路的说法。
 ① Advertising in Berlin is written in a Denglish that neither language quite recognizes.
@@ -49,6 +53,7 @@ complain about Denglish = 抱怨德英混杂的用语
 注意语域：口语与媒体评论用词，带调侃。
 
 dengue
+/ˈdeŋɡi/
 核心：登革热：蚊子传播的热带传染病，发高烧、骨关节剧痛，
 旧称 breakbone fever 就是从那阵痛来的。不可数，常说 dengue fever。
 ① Dengue spread up the coast after two unusually wet summers.
@@ -61,6 +66,7 @@ dengue fever = 登革热
 注意用法：说得病用 have dengue 或 catch dengue。
 
 deniable
+/dɪˈnaɪəbəl/
 核心：可以否认的：说一件事留有余地，被问起来推得掉。
 形容词，多与政治、情报连用；名词短语 plausible deniability 指
 「安排得让当事人能合理否认」的那种设计。反义 undeniable 是「无可否认的」。
@@ -91,6 +97,7 @@ be in denial about something = 对某事不肯正视
 注意用法：心理那一支固定说 be in denial about something。
 
 denier
+/ˈdeniə(r)/
 核心：两支，读音不同。一是纺织的旦尼尔：量丝线粗细的单位，
 数字越大越厚（15 denier 的丝袜很薄）；二是「否认者」——
 今天多用在 a climate change denier 这类说法里，带贬义。
@@ -104,6 +111,7 @@ a denier = 否认者（贬义）
 注意用法：两支读音不同，靠上下文分得很清。
 
 denigrate
+/ˈdenɪɡreɪt/
 核心：贬损、抹黑：说人或事不好，好把对方压下去 —— 正式用词，一律贬义。
 及物动词，名词 denigration。
 ① He denigrated every predecessor in a speech that was meant to be unifying.
@@ -133,6 +141,7 @@ a denim jacket = 牛仔夹克
 注意用法：布料不可数；说裤子今天一般直接说 jeans。
 
 denitrify
+/ˌdiːˈnaɪtrɪfaɪ/
 核心：脱氮：把土壤或废水里的硝酸盐还原成氮气排掉 —— 农业与污水处理的术语。
 及物动词，名词 denitrification。
 ① Waterlogged soil denitrifies quickly and the fertilizer is simply lost.
@@ -145,6 +154,7 @@ denitrification = 脱氮作用
 注意语域：农学与环境工程术语。
 
 denizen
+/ˈdenɪzən/
 核心：（正式或戏谑的）居住者、常客：说某地的居民，也说某个圈子里的常客。
 可数，多用复数。今天多半带一点玩笑口气。
 ① The denizens of that reading room have not changed since the seventies.
@@ -157,6 +167,7 @@ a denizen of somewhere = 某处的住户
 注意语域：正式或戏谑，日常说 residents、regulars。
 
 denominate
+/dɪˈnɒmɪneɪt/
 核心：以某种货币计价：金融文字里几乎只用被动 be denominated in something。
 另有一个旧的正式义：命名、称作。及物动词。
 名词 denomination 有两支：一是货币或票据的面额，二是宗教的教派；
@@ -191,6 +202,7 @@ the lowest common denominator = 迎合最多人的最低水准
 注意用法：比喻义带贬义；数学义中性。
 
 denotation
+/ˌdiːnəʊˈteɪʃən/
 核心：字面所指：一个词直接指的那样东西，跟 connotation 言外之意相对。
 语言学与文学分析里的一对术语。动词 denote 是「表示、意味着」，
 形容词 denotational 说「就字面所指而言的」。
@@ -207,6 +219,7 @@ denotational meaning = 字面所指的意义
 注意别混：denotation 是字面所指，connotation 是附带的联想与感情色彩。
 
 denouement
+/deɪˈnuːmɒn/
 核心：（故事的）收梢：把前面的悬念一一交代清楚的那一段，
 在高潮之后。法语借词，也写作 dénouement。可数。
 也引申着说现实中一桩纠纷的最终了结。
@@ -220,6 +233,7 @@ the denouement of something = 某事的最终了结
 注意别混：climax 是最紧张的那一刻，denouement 是之后收拾局面的那一段。
 
 denounce
+/dɪˈnaʊns/
 核心：公开谴责、揭发：当众说某人某事错了，语气重且正式；
 也指向当局告发某人（denounce somebody to the police）。
 及物动词，名词是 denunciation。
@@ -324,6 +338,7 @@ see a dentist = 去看牙医
 注意用法：诊所说 the dentist's；说这门专业用 dentistry。
 
 denture
+/ˈdentʃə(r)/
 核心：假牙：多用复数 dentures 指整副假牙，也说 a set of dentures。
 可数。日常口语里也说 false teeth。
 ① He lost his dentures over the side of the boat and laughed about it for years.
@@ -336,6 +351,7 @@ a set of dentures = 一副假牙
 注意用法：几乎总用复数；口语说 false teeth。
 
 denude
+/dɪˈnjuːd/
 核心：剥光：把覆盖物去掉，让下面露出来 —— 说山坡被砍光树、
 地表被冲走表土，也比喻着说某地或某机构人才流失。
 及物动词，多用被动 be denuded of something。正式。
@@ -349,6 +365,7 @@ denude something of somebody = 把某处的人抽空
 注意语域：正式，多见于地理、生态与机构叙述。
 
 denunciation
+/dɪˌnʌnsiˈeɪʃən/
 核心：公开谴责、告发：denounce 的名词。可数不可数都行，
 常说 a denunciation of something。正式用词，多见于历史与新闻。
 ① Her denunciation of the scheme ran to four pages and named eleven people.

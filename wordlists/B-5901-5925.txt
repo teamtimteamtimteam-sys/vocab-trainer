@@ -1,4 +1,5 @@
 decoction
+/dɪˈkɒkʃən/
 核心：煎剂：把植物材料放在水里久煮，煮出有效成分的那种液体。
 草药与旧药方里的词。跟 infusion 的分界：infusion 是热水冲泡，decoction 是持续煮沸。
 可数，专业与旧文里用。
@@ -35,6 +36,7 @@ decipher = 释读（本来难辨认）
 translate = 翻译（跨语言）
 
 décolletage
+/ˌdeɪkɒlˈtɑːʒ/
 核心：低胸领口：说女装领口开得很低的那个设计，也说因此露出的胸颈那一片。
 法语借词，不带重音写作 decolletage。形容词 décolleté 说「低胸的」。
 时装报道与正式描写里用，日常说 a low neckline。
@@ -49,6 +51,7 @@ décolleté = 低胸的
 注意语域：时装与正式描写用语；日常说 a low neckline。
 
 decolonization
+/ˌdiːˌkɒlənaɪˈzeɪʃən/
 核心：非殖民化：殖民地摆脱宗主国、取得独立的那个过程，多说二战后那几十年。
 不可数，英式也拼 decolonisation。
 近十年多出一支引申用法：decolonize the curriculum 指检讨课程里以宗主国视角
@@ -64,6 +67,7 @@ decolonize something = 清理某物里的殖民视角
 注意用法：英式拼 -isation，美式拼 -ization。
 
 decommission
+/ˌdiːkəˈmɪʃən/
 核心：退役、停用：把军舰、电厂、平台正式退出使用，反义是 commission 使服役。
 及物动词，多用被动。核电与油气的语境里最常见。
 ① The reactor was decommissioned in stages over eleven years.
@@ -76,6 +80,7 @@ decommissioning = 退役拆解（这件事）
 注意别混：decommission 是正式退出使用，dismantle 是拆成零件。
 
 decompose
+/ˌdiːkəmˈpəʊz/
 核心：两支。一是腐烂分解：尸体、落叶被微生物分解掉；
 二是学理上的「分解」：把复杂的东西拆成组成部分。名词 decomposition 两支都用。
 ① Leaves decompose faster in a warm autumn and the pile sinks by half.
@@ -94,6 +99,7 @@ dissolve = 溶解（在液体里化开）
 disintegrate = 碎裂解体（散成碎块）
 
 decompress
+/ˌdiːkəmˈpres/
 核心：三支。一是减压：潜水员上浮时排出体内气体，减压病叫 decompression
 sickness；二是计算机的解压缩，程序叫 a decompressor；三是口语的「缓过劲来」。
 ① Divers have to decompress for an hour before coming up the last few metres.
@@ -115,6 +121,7 @@ a decompressor = 解压器
 注意用法：潜水那一支还说 a decompression stop 减压停留。
 
 decongest
+/ˌdiːkənˈdʒest/
 核心：疏通堵塞：医学上指通鼻塞，城市与交通的语境里指疏解拥堵。
 动词本身少用，常用的是名词 a decongestant，通鼻塞的药。
 ① The plan is to decongest the city centre by charging for every entry.
@@ -127,6 +134,7 @@ a decongestant = 通鼻塞的药
 注意用法：药名那一支比动词常用得多。
 
 deconsecrate
+/ˌdiːˈkɒnsɪkreɪt/
 核心：撤除宗教用途：把教堂正式解除祝圣，之后才谈得上改作他用或出售。
 及物动词，多用被动。名词 deconsecration。
 ① The church was deconsecrated in the nineties and is now a climbing centre.
@@ -139,6 +147,7 @@ deconsecration = 撤除宗教用途
 注意用法：只说建筑与器物；说人离开神职用 leave the priesthood。
 
 deconstruct
+/ˌdiːkənˈstrʌkt/
 核心：拆解分析：把一个文本、说法、形象拆开，看它是怎么搭起来的、藏着什么前提。
 来自二十世纪的文学理论 deconstruction 解构，信奉者叫 a deconstructionist。
 如今日常也用：把一道菜拆成分开摆的几样，就叫 deconstructed。
@@ -158,6 +167,7 @@ a deconstructed dessert = 拆开摆盘的甜点
 注意语域：学术义偏专业；拆菜那一支是餐饮界的时髦说法。
 
 decontaminate
+/ˌdiːkənˈtæmɪneɪt/
 核心：去污染、洗消：把辐射、化学品、病菌从人、设备或场地上清除掉。
 及物动词，名词 decontamination，应急现场口语缩略成 decon。
 ① Crews decontaminated the whole floor before anybody was allowed back inside.
@@ -170,6 +180,7 @@ decontamination = 去污染、洗消
 注意语域：应急、核电与医疗里的术语。
 
 decontrol
+/ˌdiːkənˈtrəʊl/
 核心：解除管制：把价格、租金、行业从政府管制里放开。
 动词与名词同形，双写 l：decontrolled、decontrolling。偏经济与政策用语。
 ① Rents were decontrolled in the fifties and doubled within two years.
@@ -225,6 +236,7 @@ a decoration = 勋章
 注意别混：英式 decorating 是刷墙装修，美式那件事说 painting。
 
 decorous
+/ˈdekərəs/
 核心：得体的：举止、场合、穿着合乎分寸，不失礼。偏正式、偏旧。
 副词 decorously，名词 decorum 指礼数与分寸。
 最常见的搭配是 a decorous silence 与 observe decorum。
@@ -244,6 +256,7 @@ polite = 有礼貌的（通用）
 proper = 合规矩的（也说「正经的」）
 
 découpage
+/ˌdeɪkuːˈpɑːʒ/
 核心：剪贴装饰：把纸样剪下来贴在家具、盒子上，再刷几层清漆做成一体的工艺。
 法语借词，不带重音写作 decoupage。不可数。
 ① She took up découpage and covered every box in the house with pressed flowers.
@@ -256,6 +269,7 @@ be done in decoupage = 用剪贴装饰做成
 注意语域：手工艺用语；两种拼法都通行。
 
 decouple
+/ˌdiːˈkʌpəl/
 核心：脱钩：把本来连在一起的两样东西分开 —— 说经济、政策、系统，也说车厢。
 及物动词，常说 decouple A from B。近年在经济与外交报道里很常见。
 ① The aim is to decouple economic growth from carbon emissions altogether.
@@ -268,6 +282,7 @@ decouple carriages = 摘挂车厢
 注意别混：decouple 断的是原有的联动，disconnect 多说线路与设备。
 
 decoy
+/ˈdiːkɔɪ/
 核心：诱饵：引人或动物上钩的东西 —— 猎鸭用的假鸟、警方的诱饵车、军事上的假目标。
 可数名词，也作动词「把……引开、诱入圈套」。
 ① The police left a decoy van in the street and arrested two men that same night.
@@ -338,6 +353,7 @@ decrepitude = 破败、老朽
 注意语域：说人多带轻慢，只有自嘲时才安全。
 
 decriminalize
+/ˌdiːˈkrɪmɪnəlaɪz/
 核心：非罪化：把原本违法的行为从刑法里拿掉 —— 这不等于合法化，
 可能仍属违规、仍要罚款。这个分别是这一族的要害。
 及物动词，英式也拼 decriminalise，名词 decriminalization。
@@ -351,6 +367,7 @@ decriminalization = 非罪化
 注意别混：decriminalize 是不再算刑事犯罪，legalize 是彻底合法化。
 
 decry
+/dɪˈkraɪ/
 核心：公开谴责、贬斥：说某件事不好、不该有。正式用词，多见于社论与讲话。
 及物动词，变形 decried、decrying。
 跟 criticize 的分界：decry 带道德口气，语气更重、更书面。
@@ -367,6 +384,7 @@ criticize = 批评（通用）
 denounce = 公开揭发指控（更重，常点名）
 
 decrypt
+/diːˈkrɪpt/
 核心：解密：把加密的数据还原成原文，多说计算机与通信。
 及物动词，名词 decryption，反义是 encrypt。
 跟 decode 的分界：decrypt 专指破解加密，对象是有密钥的密文。

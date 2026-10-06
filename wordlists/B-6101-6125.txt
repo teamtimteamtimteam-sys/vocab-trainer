@@ -1,4 +1,5 @@
 depressurize
+/ˌdiːˈpreʃəraɪz/
 核心：使失压、卸压：把舱内或容器里的压力降下来 —— 航空与工业用语。
 及物不及物都行，英式也拼 depressurise。名词 depressurization。
 ① The cabin depressurized slowly enough for the masks to do their job.
@@ -60,6 +61,7 @@ A shallow depth of field hides a kitchen nobody had time to tidy.
 注意用法：out of your depth 本义是水深过头，比喻义今天用得更多。
 
 deputation
+/ˌdepjuˈteɪʃən/
 核心：代表团：几个人受托去向上级或对方陈情的那一队人。
 可数，偏正式，多用于工会、居民、行会去交涉的场合。
 ① A deputation of residents waited outside the office for most of the morning.
@@ -72,6 +74,7 @@ send a deputation = 派出代表团
 注意别混：deputation 是去交涉的一小队人，delegation 更常说正式派出的代表团。
 
 depute
+/dɪˈpjuːt/
 核心：（正式）委派、授权某人代做某事。及物动词，日常少用；
 真正常用的是同族的两个词：deputize 是「代职、暂代」
 （deputize for somebody），a deputy 是副职或代理人。
@@ -88,6 +91,7 @@ a deputy = 副职、代理人
 注意用法：日常说「代班」用 deputize 或 stand in for somebody。
 
 deracinate
+/ˌdiːˈræsɪneɪt/
 核心：（正式）连根拔起：多用被动，说人被迫离开故土、失去根脉。
 形容词 deracinated 比动词常见，说「失根的」。
 ① Whole communities were deracinated by the dam and rehoused two valleys away.
@@ -100,6 +104,7 @@ a deracinated generation = 失根的一代
 注意语域：文学与社会评论用语；日常说 uprooted。
 
 derail
+/dɪˈreɪl/
 核心：两支。一是（火车）出轨、使出轨；二是引申的「打乱、搅黄」——
 说计划、谈判、进程被中途破坏。及物不及物都行，名词 derailment。
 自行车上的变速拨链器叫 a derailleur，来自同一个法语词根。
@@ -119,6 +124,7 @@ a derailleur = 变速拨链器
 注意用法：比喻义如今比本义还常见，多说 derail a plan、derail talks。
 
 deranged
+/dɪˈreɪndʒd/
 核心：精神错乱的：说人失去理智，也说做法「疯得离谱」。
 形容词，名词 derangement。
 今天说人时已显生硬，医学与法律文字用别的说法；日常多带夸张与玩笑。
@@ -149,6 +155,7 @@ a derby = 圆顶硬礼帽（美式）
 注意用法：帽子那一支是美式；英式那顶帽子叫 a bowler。
 
 dereference
+/ˌdiːˈrefərəns/
 核心：（编程）解引用：顺着指针或引用取出它指向的那个值。
 及物动词，计算机专业用语。
 ① Dereferencing a null pointer is how most of those crashes begin.
@@ -161,6 +168,7 @@ dereference a pointer = 解引用一个指针
 注意语域：编程术语，其他场合不用。
 
 deregulate
+/ˌdiːˈreɡjʊleɪt/
 核心：放松管制：把某个行业的规则拆掉，交给市场。及物动词，
 英式也拼 deregulate 不变，名词 deregulation，形容词 deregulatory。
 反义是 regulate。
@@ -177,6 +185,7 @@ a deregulatory push = 放松管制的推动
 注意别混：deregulate 是拆掉规则，denationalize 是把国有产业卖给私人。
 
 derelict
+/ˈderɪlɪkt/
 核心：两支。一是（建筑、土地）废弃破败的：a derelict warehouse；
 二是名词，指流落街头、无家可归的人（偏旧、今天已不礼貌）。
 名词 dereliction 说建筑的荒废，也用在固定说法 dereliction of duty（失职）里。
@@ -193,6 +202,7 @@ dereliction of duty = 失职
 注意语域：指人的那一支已过时且不礼貌，今天说 a homeless person。
 
 deride
+/dɪˈraɪd/
 核心：嘲笑、讥讽：公开地把某人某事说得一文不值。及物动词，正式。
 常用被动 be derided as something。
 名词 derision 是嘲笑；形容词 derisive 说人的口气带嘲讽，
@@ -217,6 +227,7 @@ speak derisively about something = 奚落地谈起某事
 注意别混：derisive 是「带嘲讽的」（说态度），derisory 是「少得可笑的」（说数目）。
 
 derivation
+/ˌderɪˈveɪʃən/
 核心：来源、由来：说一个词、一套做法或一个体系是从哪儿来的。
 可数不可数都行。动词 derive 有两支：derive something from something 是
 「从某处得到」，derive from something 是「源自某处」。
@@ -241,6 +252,7 @@ a derivative = 金融衍生品
 注意用法：说「源自」不加宾语，说「取得」要接 from something。
 
 dermatitis
+/ˌdɜːməˈtaɪtɪs/
 核心：皮炎：皮肤发红、发痒、起疹的一类炎症总称，
 接触化学品、洗涤剂常引起（contact dermatitis 接触性皮炎）。不可数。
 ① Contact dermatitis is the commonest work-related skin problem in that trade.
@@ -253,6 +265,7 @@ develop dermatitis = 患上皮炎
 注意用法：不可数，说患上用 develop 或 get。
 
 dermatology
+/ˌdɜːməˈtɒlədʒi/
 核心：皮肤科：研究与治疗皮肤病的医学分支。不可数。
 医生是 a dermatologist，形容词 dermatological。
 皮肤的中层叫 the dermis，在表皮 epidermis 之下。
@@ -272,6 +285,7 @@ the dermis = 真皮层
 注意用法：皮肤科门诊说 the dermatology clinic。
 
 derogate
+/ˈderəɡeɪt/
 核心：（正式）贬损；也指法律上「克减、部分不适用」——
 derogate from a right 是削减一项权利。不及物为主，后面接 from。
 名词 derogation 在国际法与人权公约里是「克减条款」；
@@ -289,6 +303,7 @@ be derogatory = 带贬损意味的
 注意用法：日常几乎只用 derogatory；动词与克减义属法律文字。
 
 derrick
+/ˈderɪk/
 核心：两支。一是钻井架：油井上那座高塔形的钢架；
 二是船上或码头上的吊杆式起重装置。可数。
 名字来自十七世纪伦敦一位刽子手的姓，最早指绞架。
@@ -302,6 +317,7 @@ a derrick = 吊杆式起重装置
 注意用法：石油业里几乎专指井架。
 
 derringer
+/ˈderɪndʒə(r)/
 核心：袖珍手枪：枪管短、能藏在口袋或袖子里的小型手枪，
 十九世纪美国最有名。可数，来自制造者的姓。
 ① The museum label says the derringer was found under a floorboard in 1911.
@@ -314,6 +330,7 @@ carry a derringer = 带一把袖珍手枪
 注意语域：历史与西部题材里常见。
 
 dervish
+/ˈdɜːvɪʃ/
 核心：苏非派的托钵修士：以旋转舞蹈作为修行方式的那一支最有名。
 可数。英语里最常用的其实是比喻说法 like a whirling dervish，
 形容人转个不停、忙得团团转。
@@ -327,6 +344,7 @@ like a whirling dervish = 像陀螺一样转个不停
 注意用法：比喻那一支在日常英语里比本义常见。
 
 des res
+/ˌdez ˈrez/
 核心：（英式口语，戏谑）好房子：房产广告里 desirable residence 的截短，
 拿来调侃中介的用词。可数，两个词分写。
 ① The advertisement called a two-room flat above a chip shop a des res.
@@ -339,6 +357,7 @@ be called a des res = 被称作理想居所
 注意语域：英式口语与调侃，正式文字不用。
 
 desalinate
+/ˌdiːˈsælɪneɪt/
 核心：海水淡化：把海水里的盐除掉，变成能用的淡水。及物动词，
 名词 desalination，淡化厂叫 a desalination plant。
 ① The island desalinates most of its drinking water and pays for it in electricity.
@@ -351,6 +370,7 @@ a desalination plant = 海水淡化厂
 注意用法：也拼作 desalinize，但 desalinate 更常见。
 
 descale
+/ˌdiːˈskeɪl/
 核心：除水垢：把水壶、锅炉、管道里的钙垢清掉。及物动词，英式常用。
 ① Descale the kettle every couple of months or the element gives up.
 = 每两个月给水壶除一次垢，不然加热管就废了。
@@ -362,6 +382,7 @@ be descaled = 被除垢
 注意别混：scale 在这里是水垢，不是鳞片，也不是刻度。
 
 descant
+/ˈdeskænt/
 核心：（音乐）高音助唱声部：在主旋律之上另加一条更高的旋律，
 唱诗班在最后一段常这么处理。可数。
 也作动词，引申着说「就某事喋喋不休地发议论」（descant on something），偏旧。
