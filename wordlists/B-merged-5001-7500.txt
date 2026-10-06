@@ -43971,6 +43971,7 @@ electrolyte = 电解液
 electrolyte balance = 电解质平衡
 
 electrolytic
+/ɪˌlektrəˈlɪtɪk/
 核心：电解的：跟电解过程有关的。只作定语。
 ① The electrolytic cell needs a membrane that outlasts the electrodes.
 = 电解槽需要一张比电极更耐用的隔膜。
@@ -43981,6 +43982,7 @@ an electrolytic capacitor = 电解电容
 构词：electrolysis 的形容词
 
 electromagnet
+/ɪˌlektrəʊˈmæɡnɪt/
 核心：电磁铁：通电才有磁性、断电就没有的磁铁，线圈绕铁芯做成。可数。
 ① The electromagnet holds the door shut until the alarm cuts the current.
 = 电磁铁把门吸住，直到警报切断电流。
@@ -43990,6 +43992,7 @@ an electromagnet = 电磁铁
 a scrapyard electromagnet = 废车场用的电磁铁
 
 electromagnetic
+/ɪˌlektrəʊmæɡˈnetɪk/
 核心：电磁的：跟电与磁互相作用有关的。
 electromagnetic radiation 从无线电波一直排到伽马射线。
 ① The electromagnetic spectrum runs from radio waves all the way to gamma rays.
@@ -44000,6 +44003,7 @@ the electromagnetic spectrum = 电磁波谱
 electromagnetic interference = 电磁干扰
 
 electromagnetism
+/ɪˌlektrəʊˈmæɡnɪtɪzəm/
 核心：电磁学、电磁作用：把电与磁当作同一种基本作用来看的理论与现象。不可数。
 ① Electromagnetism unified two subjects that had been taught separately for a century.
 = 电磁学把分开教了一个世纪的两门学问统一了起来。
@@ -44009,6 +44013,7 @@ electromagnetism = 电磁学
 work by electromagnetism = 靠电磁作用工作
 
 electrometer
+/ˌɪlekˈtrɒmɪtə(r)/
 核心：静电计：测量极小电荷或电位差的仪器。可数。
 ① The electrometer reads charges too small for any other meter in the room.
 = 静电计读得出屋里别的仪表都测不到的微小电荷。
@@ -44067,6 +44072,7 @@ an electronic signature = 电子签名
 electronic tagging = 电子监控（戴脚镣定位）
 
 electronically
+/ɪˌlekˈtrɒnɪkli/
 核心：以电子方式：说提交、支付、储存、控制通过电子系统来做。
 ① The form must be submitted electronically and posted copies are returned.
 = 那张表必须电子提交，寄纸质件会被退回。
@@ -44088,6 +44094,7 @@ electronics = 电子学
 the electronics = 电子部件
 
 electroplate
+/ɪˈlektrəpleɪt/
 核心：电镀：靠电解把一层薄金属镀到另一件金属上，如镀银、镀铬；
 也作名词，指电镀的器皿。
 ① They electroplate the handles in nickel and the coating lasts a decade.
@@ -44098,6 +44105,7 @@ electroplate something = 给某物电镀
 electroplate = 电镀器皿
 
 electrostatic
+/ɪˌlektrəʊˈstætɪk/
 核心：静电的：跟静止不动的电荷有关；静电除尘器与复印机都靠它工作。只作定语。
 ① An electrostatic charge on the film picks up every speck of dust.
 = 胶片上的静电荷把每一粒灰尘都吸了上来。
@@ -44107,6 +44115,7 @@ an electrostatic charge = 静电荷
 an electrostatic precipitator = 静电除尘器
 
 elegance
+/ˈelɪɡəns/
 核心：两支。一是优雅、雅致：说人、衣着、举止；
 二是（方案、证明的）简洁精妙：做法干净利落、不多不少。不可数。
 ① The elegance of the room comes from what was left out of it.
@@ -44139,6 +44148,7 @@ be elegantly stated = 表述得简洁漂亮
 构词：elegant 加 -ly
 
 elegiac
+/ˌelɪˈdʒaɪək/
 核心：（正式、文学）挽歌般的、哀婉怀旧的：说文字或音乐带着追怀与惋惜的调子。
 ① The last chapter is elegiac and the rest of the book is not.
 = 最后一章调子哀婉，全书其余部分不是。
@@ -44151,6 +44161,7 @@ an elegiac tone = 哀婉的调子
 an elegiac couplet = 挽歌双行体
 
 elegy
+/ˈelɪdʒi/
 核心：挽歌、哀歌：悼念死者或追怀逝去之物的诗文与乐曲。可数，复数 elegies。
 ① The elegy was written for one man and read at a hundred funerals since.
 = 那首挽歌本是为一个人写的，此后在上百场葬礼上被诵读。
@@ -44188,6 +44199,7 @@ be in your element = 如鱼得水
 the element = 电水壶、电炉里的发热元件
 
 elemental
+/ˌelɪˈmentəl/
 核心：两支。一是（正式）最根本的、本原的；
 二是（文学）像自然力一样原始而强大的。
 ① The argument comes down to an elemental question about who pays.
@@ -44242,6 +44254,7 @@ an elephant seal = 象海豹
 elephantine = 笨重庞大的
 
 elephantiasis
+/ˌelɪfənˈtaɪəsɪs/
 核心：象皮病：淋巴管被寄生虫堵塞造成肢体或阴囊极度肿大增厚，
 是淋巴丝虫病的晚期表现。不可数。
 ① Elephantiasis is preventable and still disables people in a dozen countries.
@@ -44267,6 +44280,7 @@ elevate somebody to something = 把某人提升到某职位
 elevate something = 提升某物的水准
 
 elevated
+/ˈelɪveɪtɪd/
 核心：三支。一是升高的、架高的：an elevated railway；
 二是（数值）偏高的：elevated blood pressure；三是（文体、地位）高雅的。
 ① The elevated railway runs above the shops and everybody upstairs knows the timetable.
@@ -44280,6 +44294,7 @@ elevated blood pressure = 血压偏高
 an elevated tone = 高雅的文风
 
 elevating
+/ˈelɪveɪtɪŋ/
 核心：（正式）令人向上的、使人精神提升的：说读物或经历让人见识、境界提高。
 如今用起来常带一点戏谑。
 ① The book is elevating in a way that makes it hard to finish.
@@ -44365,6 +44380,7 @@ an elf = 精灵
 elves = 精灵（复数）
 
 elfin
+/ˈelfɪn/
 核心：小巧灵秀的：说人脸小、五官精致，带一点顽皮的灵气；也指精灵般的。
 ① She has an elfin face and a voice that fills a hall.
 = 她长着一张小巧灵秀的脸，嗓音却填得满一个厅。
@@ -44375,6 +44391,7 @@ elfin = 精灵般的
 构词：elf 加 -in
 
 elicit
+/ɪˈlɪsɪt/
 核心：（正式）问出、引出：想办法让对方说出信息或做出反应 ——
 elicit something from somebody、elicit a response。规则变化。
 注意别混：elicit 是引出，illicit 是非法的，两个词读音相近。
@@ -44386,6 +44403,7 @@ elicit something from somebody = 从某人那里问出某物
 elicit a response = 引出反应
 
 elicitation
+/ɪˌlɪsɪˈteɪʃən/
 核心：（正式）引出、问取：让人说出信息或做出反应的过程；
 语言学与调查里指从受访者那里取得材料的做法。不可数。
 ① The elicitation of place names took two summers and forty conversations.
@@ -44397,6 +44415,7 @@ elicitation = 引人说出材料的做法
 构词：elicit 加 -ation
 
 elide
+/ɪˈlaɪd/
 核心：两支。一是（语音）省音：说话时把某个音省掉不发；
 二是（正式）把两件事混为一谈、抹掉差别。名词 elision。
 ① Speakers elide the middle syllable and the name comes out with two.
@@ -44466,6 +44485,7 @@ elimination = 淘汰出局
 an elimination reaction = 消除反应
 
 elision
+/ɪˈlɪʒən/
 核心：两支。一是省音：说话时把音省掉，如把 and 说成 'n'；
 二是（正式）有意的略去：把内容或差别省掉不提。可数不可数都行。
 ① The elision of that vowel is why the two words sound identical.
@@ -44488,6 +44508,7 @@ the elite = 精英群体
 an elite unit = 精锐部队
 
 elitism
+/ɪˈliːtɪzəm/
 核心：（多含贬义）精英主义：认为某些人天然更该有话语权与资源的想法与做法。不可数。
 ① The complaint about elitism came from the school with the highest fees.
 = 抱怨精英主义的，恰是学费最高的那所学校。
@@ -44497,6 +44518,7 @@ elitism = 精英主义
 accusations of elitism = 精英主义的指摘
 
 elitist
+/ɪˈliːtɪst/
 核心：（贬）精英主义的、只为少数人的；也作名词，指持这种主张的人。
 ① The scheme was called elitist and it was also the only one that worked.
 = 那个方案被说成只为少数人，可它也是唯一管用的。
@@ -44506,6 +44528,7 @@ elitist = 精英主义的
 an elitist = 精英主义者
 
 elixir
+/ɪˈlɪksə(r)/
 核心：两支。一是（传说中的）灵药：the elixir of life 是长生不老药；
 二是（比喻）灵丹妙药：说某样东西被吹成什么都能解决。可数。
 ① Alchemists spent centuries looking for the elixir of life and found phosphorus.
@@ -44516,6 +44539,7 @@ the elixir of life = 长生不老药
 an elixir = 灵丹妙药
 
 Elizabethan
+/ɪˌlɪzəˈbiːθən/
 核心：（英国）伊丽莎白一世时代的：指 1558 到 1603 年那段，
 多说戏剧、建筑与航海；也作名词指那个时代的人。
 ① Elizabethan playhouses were round, roofless and noisier than anyone now imagines.
@@ -44538,6 +44562,7 @@ elk = 马鹿（复数同形）
 注意别混：欧洲说的 elk 就是北美的 moose；北美的 elk 另指马鹿。
 
 elkhound
+/ˈelkhaʊnd/
 核心：挪威猎鹿犬：灰毛卷尾的北欧猎犬，本是猎驼鹿用的，吠声很大。可数。
 ① An elkhound barks at everything and means it every time.
 = 猎鹿犬见什么叫什么，而且每回都当真。
@@ -44547,6 +44572,7 @@ an elkhound = 挪威猎鹿犬
 an elkhound's coat = 猎鹿犬的毛
 
 ell
+/el/
 核心：（旧）厄尔：旧时量布的长度单位，英格兰的一厄尔合四十五英寸，
 各地长短不一。可数。
 ① Cloth was sold by the ell and every town measured it differently.
@@ -44578,6 +44604,7 @@ an ellipsis = 省略号
 ellipsis = （语法上的）省略
 
 elliptical
+/ɪˈlɪptɪkəl/
 核心：三支。一是椭圆的；二是（说话、文字）含糊省略的：说得太简，让人猜；
 三是椭圆机的：an elliptical trainer。副词 elliptically。
 ① The track is elliptical and the two long sides are the only place to overtake.
@@ -44610,6 +44637,7 @@ an elm = 榆树
 elm = 榆木
 
 elocution
+/ˌeləˈkjuːʃən/
 核心：演说术、正音：教人清晰得体地发声与念白的一门功夫；
 旧时上流社会的 elocution lessons 常带矫正口音的意味。不可数。
 ① Elocution lessons cured the mumble and left the accent alone.
@@ -44620,6 +44648,7 @@ elocution lessons = 正音课
 teach elocution = 教授演说与发声
 
 elongate
+/ˈiːlɒŋɡeɪt/
 核心：拉长、变长：使某物变长，或自身变长。正式，多用于科技与描写。
 名词 elongation，形容词 elongated。
 ① Heat elongates the rail by a few millimetres and the gap allows for it.
@@ -44630,6 +44659,7 @@ elongate something = 把某物拉长
 elongate = 变长
 
 elongated
+/ˈiːlɒŋɡeɪtɪd/
 核心：细长的、被拉长的：说形状比通常更长。
 ① The elongated windows make the room look taller than it is.
 = 那些细长的窗子，让屋子显得比实际要高。
@@ -44639,6 +44669,7 @@ elongated windows = 细长的窗子
 an elongated skull = 变形拉长的头骨
 
 elongation
+/ˌiːlɒŋˈɡeɪʃən/
 核心：伸长、拉长：变长的过程，或增加出来的那段长度。不可数为主。
 ① Elongation of the steel is measured before anyone signs anything.
 = 钢材的伸长率要先测出来，才有人肯签字。
@@ -44648,6 +44679,7 @@ elongation = 伸长（率）
 the elongation of something = 某物的拉长
 
 elope
+/ɪˈləʊp/
 核心：私奔：不告诉家里，两人一起跑去结婚。规则变化，名词 elopement。
 ① They eloped in March and told her mother in September.
 = 他们三月私奔，九月才告诉她母亲。
@@ -44657,6 +44689,7 @@ elope = 私奔
 elope with somebody = 与某人私奔
 
 elopement
+/ɪˈləʊpmənt/
 核心：私奔（这件事）：瞒着家里跑去结婚。可数。
 ① The elopement cost them one wedding and two years of silence.
 = 那次私奔让他们少了一场婚礼，多了两年冷战。
@@ -44667,6 +44700,7 @@ elopements = 私奔（复数）
 构词：elope 加 -ment
 
 eloquence
+/ˈeləkwəns/
 核心：口才、雄辩：把话说得有力、动人、恰到好处的本事。不可数。
 ① Her eloquence in the second half won two votes that mattered.
 = 她后半场的口才，赢下了两张要紧的票。
@@ -44676,6 +44710,7 @@ eloquence = 口才、雄辩
 the eloquence of something = 某物的感染力
 
 eloquent
+/ˈeləkwənt/
 核心：两支。一是（人、言辞）有口才的、雄辩的；
 二是（表情、沉默、事物）意味深长、不言自明的。副词 eloquently。
 ① He is eloquent on paper and hopeless on his feet.
@@ -44728,6 +44763,7 @@ elsewhere = 在别处
 look elsewhere = 到别处去找
 
 elucidate
+/ɪˈluːsɪdeɪt/
 核心：（正式）阐明、讲清楚：把难懂的东西说明白。名词 elucidation。
 ① One diagram elucidates what four pages of text could not.
 = 一张图就把四页文字讲不清的东西说明白了。
@@ -44737,6 +44773,7 @@ elucidate something = 阐明某事
 elucidate = 加以说明
 
 elucidation
+/ɪˌluːsɪˈdeɪʃən/
 核心：（正式）阐明、说明：把事情讲清楚的过程，或那一段说明文字。不可数为主。
 ① The footnote offers elucidation and adds two new questions.
 = 那条脚注做了说明，又添出两个新问题。
@@ -44762,6 +44799,7 @@ success eludes somebody = 某人始终得不到成功
 the word eludes me = 那个词我一下想不起来
 
 elusive
+/ɪˈluːsɪv/
 核心：三支。一是难找到、抓不着的：说人或动物；
 二是（成功、答案）求而不得的；三是（记忆、意思）说不清道不明的。
 副词 elusively，名词 elusiveness。
@@ -44784,6 +44822,7 @@ answer elusively = 闪烁其词地回答
 构词：elusive 加 -ly
 
 elusiveness
+/ɪˈluːsɪvnəs/
 核心：难以捉摸：说人或事物总也抓不住、说不清的那种性质。不可数。
 ① The elusiveness of the smell made it worse, not better.
 = 那股味道说不清道不明，反倒更让人难受。
@@ -44793,6 +44832,7 @@ the elusiveness of something = 某物的难以捉摸
 elusiveness = 难以捉摸
 
 elver
+/ˈelvə(r)/
 核心：幼鳗：鳗鱼洄游到河口时那个透明的小鱼阶段，也叫玻璃鳗。可数。
 ① Elvers come up the estuary in spring and the licences are counted in dozens.
 = 幼鳗春天沿河口上溯，捕捞许可证是按打数的。
@@ -44814,6 +44854,7 @@ two hundred elves = 两百个精灵
 构词：elf 的复数，f 变 v 加 -es
 
 Elysian
+/ɪˈlɪziən/
 核心：（书面）极乐的、福地般的：出自希腊神话的 the Elysian fields（至福乐土），
 多用来说安宁美好得不真实的地方。
 ① The brochure promises Elysian calm and the airport is nine miles away.
@@ -44824,6 +44865,7 @@ Elysian calm = 仙境般的宁静
 the Elysian fields = 至福乐土
 
 emaciated
+/ɪˈmeɪsieɪtɪd/
 核心：极度消瘦的、瘦骨嶙峋的：因长期饥饿或重病瘦到皮包骨。名词 emaciation。
 ① The dog was emaciated when they found him and unrecognisable a month later.
 = 他们找到那条狗时它瘦得脱了形，一个月后就认不出来了。
@@ -44833,6 +44875,7 @@ be emaciated = 瘦得脱了形
 an emaciated figure = 瘦骨嶙峋的身影
 
 emaciation
+/ɪˌmeɪsiˈeɪʃən/
 核心：极度消瘦：因长期饥饿或重病瘦到皮包骨的状态。不可数，正式。
 ① Emaciation is measured, not guessed at, before the drip goes up.
 = 挂点滴之前，消瘦到什么程度是要测的，不是估的。
@@ -44862,6 +44905,7 @@ an email = 一封电子邮件
 an email address = 电子邮箱地址
 
 emanate
+/ˈeməneɪt/
 核心：两支。一是（气味、光、声音）散发出来：emanate from somewhere；
 二是（想法、命令）出自、来源于。正式。
 ① A smell of burnt toast emanates from that flat every single morning.
@@ -44872,6 +44916,7 @@ emanate = 散发出来
 emanate from something = 出自某处
 
 emanation
+/ˌeməˈneɪʃən/
 核心：两支。一是散发出来的东西：气味、光、气体一类；
 二是（正式）产物、体现：说某物是某种精神或制度的产物。可数。
 ① The emanation from the pipe was measured and turned out to be steam.
@@ -44882,6 +44927,7 @@ an emanation = 散发出来的东西
 an emanation of something = 某物的产物、体现
 
 emancipate
+/ɪˈmænsɪpeɪt/
 核心：解放、使摆脱束缚：让人从奴役、法律限制或旧观念下解脱出来。
 多用被动，正式。名词 emancipation。
 ① The law emancipated one group and left the next one waiting sixty years.
@@ -44892,6 +44938,7 @@ emancipate somebody = 解放某人
 emancipate somebody from something = 把某人从某种束缚中解放出来
 
 emancipated
+/ɪˈmænsɪpeɪtɪd/
 核心：已获解放的、自主的：说人不再受法律或习俗的束缚 ——
 法律上 an emancipated minor 指经法院认定可自主生活的未成年人。
 ① An emancipated minor signs her own lease and her own consent forms.
@@ -44902,6 +44949,7 @@ an emancipated minor = 法律上自主的未成年人
 be emancipated = 获得解放、得以自主
 
 emancipation
+/ɪˌmænsɪˈpeɪʃən/
 核心：解放：从奴役、法律限制或旧束缚里解脱出来；
 历史上专指废奴。不可数。
 ① Emancipation was declared in one year and enforced over the next ten.
@@ -44912,6 +44960,7 @@ emancipation = 解放
 the emancipation of somebody = 某群体的解放
 
 emasculate
+/ɪˈmæskjʊleɪt/
 核心：两支。一是（正式）削弱、架空：把法案或机构改得没了作用，这是今天的主要用法；
 二是（旧）阉割。
 ① The amendment emasculated the bill and its sponsors voted for it anyway.
@@ -44923,6 +44972,7 @@ be emasculated = 被削弱得没了力量
 注意语域：这个词把「削弱」跟「去势」绑在一起，用的时候留意这层老比喻。
 
 emasculation
+/ɪˌmæskjʊˈleɪʃən/
 核心：两支。一是（正式）削弱、架空：把机构或法规弄得没有效力；二是（旧）阉割。不可数。
 ① The emasculation of the inspectorate took three budgets and no announcements.
 = 把督察机构架空，用了三个预算年度，一次也没公开宣布过。
@@ -44932,6 +44982,7 @@ the emasculation of something = 对某物的架空
 emasculation = 削弱、架空
 
 embalm
+/ɪmˈbɑːm/
 核心：给遗体防腐：用药物处理遗体使其不腐，供瞻仰或长期保存。名词 embalmer。
 ① They embalm the body when the funeral is more than a week away.
 = 葬礼要是隔一个多星期，就给遗体做防腐。
@@ -44941,6 +44992,7 @@ embalm a body = 给遗体做防腐
 be embalmed = 被做防腐处理
 
 embalmer
+/ɪmˈbɑːmə(r)/
 核心：遗体防腐师：负责遗体防腐与整容的人。可数。
 ① The embalmer works nights and knows every family in the town.
 = 那位防腐师上夜班，全镇每一家人他都认得。
@@ -44962,6 +45014,7 @@ an embankment = 堤岸
 a railway embankment = 铁路路堤
 
 embargo
+/ɪmˈbɑːɡəʊ/
 核心：禁运、禁令：官方禁止与某国通商或禁止某物进出；
 新闻里 under embargo 指「到某时才准发布」。可数，复数 embargoes；也作动词。
 ① The embargo lasted eleven years and the goods arrived anyway.
@@ -44989,6 +45042,7 @@ The town embarked upon a rebuilding programme that outlived the council behind i
 = 那个镇着手一项重建工程，工程比发起它的那届议会活得还久。
 
 embarkation
+/ˌembɑːˈkeɪʃən/
 核心：上船、登机：登船登机这件事，也指办手续的过程。不可数。
 ① Embarkation begins two hours before sailing and takes most of them.
 = 登船提前两小时开始，基本要用掉这两个钟头。
@@ -45072,6 +45126,7 @@ The British Embassy moved to a quieter street and kept the old railings.
 evacuate an embassy = 撤离大使馆
 
 embattled
+/ɪmˈbætəld/
 核心：两支。一是（人、机构）四面受敌的、处境艰难的；二是（地区）交战中的、被围困的。
 ① The embattled minister answered questions for two hours and resigned on Friday.
 = 那位四面受敌的大臣答了两个钟头的问，周五就辞了职。
@@ -45100,6 +45155,7 @@ imbed = 嵌入（embed 的另一种拼法）
 「imbed」是较少见的拼法，意思、用法与「embed」完全相同。
 
 embeddedness
+/ɪmˈbedɪdnəs/
 核心：（社科用词）嵌入性：说一件事或一种行为深深扎在某个社会与制度环境里，
 抽出来单看就走样。不可数。
 ① The embeddedness of the market in local custom explains the odd prices.
@@ -45111,6 +45167,7 @@ embeddedness = 嵌入性
 构词：embedded 加 -ness
 
 embellish
+/ɪmˈbelɪʃ/
 核心：两支。一是装饰、加花样：添细节让东西好看；
 二是（讲故事）添油加醋：说得比事实热闹。名词 embellishment。
 ① The cover is embellished with gold that comes off on your fingers.
@@ -45125,6 +45182,7 @@ embellish a story = 给故事添油加醋
 构词：em- 加 -bellish（源自拉丁语 bellus「美」）
 
 embellishment
+/ɪmˈbelɪʃmənt/
 核心：两支。一是装饰、点缀：加上去让东西更好看的部分；
 二是（叙述里的）添枝加叶。可数不可数都行。
 ① The embellishment on the sleeve took longer than the rest of the coat.
@@ -45139,6 +45197,7 @@ She told it without embellishment and it was worse that way.
 = 她不加修饰地讲了出来，那样反而更难听。
 
 ember
+/ˈembə(r)/
 核心：余烬：火将熄时仍红着的炭块，多用复数 embers。可数。
 ① The embers were still warm at seven and lit the fire again with one log.
 = 到七点余烬还温着，添一根柴就把火重新点起来了。
@@ -45152,6 +45211,7 @@ an ember = 一块火炭
 比喻用法：the embers of something 说一件事只剩下的一点余温。
 
 embezzle
+/ɪmˈbezəl/
 核心：挪用、侵吞（自己经手的钱）：监守自盗，跟外人来偷不是一回事。
 名词 embezzlement，行为人叫 embezzler。
 ① She embezzled small amounts for nine years and one large one at the end.
@@ -45166,6 +45226,7 @@ be embezzled = 被侵吞
 注意别混：embezzle 是把经手的钱据为己有，steal 泛指偷。
 
 embezzlement
+/ɪmˈbezəlmənt/
 核心：挪用公款、侵吞：把自己经手的钱据为己有的罪行。不可数。
 ① Embezzlement is usually found by an accident, not by an audit.
 = 挪用公款多半是偶然被发现的，不是审计查出来的。
@@ -45179,6 +45240,7 @@ be convicted of embezzlement = 因挪用公款被定罪
 构词：embezzle 加 -ment
 
 embezzler
+/ɪmˈbezlə(r)/
 核心：挪用公款的人：监守自盗的那个。可数。
 ① The embezzler kept two sets of books and a very tidy desk.
 = 那个挪用公款的人做两套账，桌面还收拾得极整齐。
@@ -45192,6 +45254,7 @@ embezzlers = 侵吞公款者（复数）
 构词：embezzle 加 -er
 
 embitter
+/ɪmˈbɪtə(r)/
 核心：使怨恨、使心里发苦：让人因遭遇而愤懑难平。多用被动。
 ① Two decades of small refusals embittered him more than the big one did.
 = 二十年里一次次小小的拒绝，比那一次大的更让他生怨。
@@ -45205,6 +45268,7 @@ be embittered by something = 因某事心里发苦
 构词：em-（使…）加 bitter（苦的）
 
 embittered
+/ɪmˈbɪtəd/
 核心：怨愤的、心怀苦涩的：说人长期受挫或受屈之后满腹怨气。
 ① An embittered former partner wrote the only bad review.
 = 唯一那篇差评，是一位心怀怨恨的旧合伙人写的。
@@ -45218,6 +45282,7 @@ be embittered = 心怀怨愤
 构词：embitter 的过去分词转作形容词
 
 emblazon
+/ɪmˈbleɪzən/
 核心：（把纹章、字样）醒目地印上、绣上：多用被动 be emblazoned with 或 across。
 ① The shirts are emblazoned with a slogan nobody on the team chose.
 = 那些球衣上印着一句口号，队里谁也没选过它。
@@ -45228,6 +45293,7 @@ be emblazoned across something = 赫然横印在某物上
 构词：em- 加 blazon（纹章）
 
 emblem
+/ˈembləm/
 核心：象征、标志：代表一个国家、组织或某种抽象事物的图案或物件。可数。
 ① The oak leaf is the emblem of a society that meets twice a year.
 = 橡树叶是一个一年聚两次的社团的标志。
@@ -45241,6 +45307,7 @@ an emblem of something = 某物的象征
 注意别混：emblem 多是具体的图案或物件，symbol 用得更宽。
 
 emblematic
+/ˌembləˈmætɪk/
 核心：象征性的、有代表性的：说一件事典型地体现了更大的东西。正式。
 ① The queue outside is emblematic of a system that counts people twice.
 = 门外那条队，正是一套把人数了两遍的制度的写照。
@@ -45254,6 +45321,7 @@ emblematic = 具有象征意味的
 构词：emblem 加 -atic
 
 embodiment
+/ɪmˈbɒdimənt/
 核心：化身、具体体现：某种品质或观念在某人某物身上呈现出来。可数为主。
 ① He is the embodiment of patience until somebody touches his tools.
 = 他简直是耐心的化身，除非有人动他的工具。
@@ -45282,6 +45350,7 @@ embody something = 把某物纳入其中
 构词：em- 加 body，本义是「使有形体」
 
 embolden
+/ɪmˈbəʊldən/
 核心：使大胆起来、给人壮胆：让人敢做原本不敢做的事。多用被动。
 ① Two easy wins emboldened them into a plan that lost the season.
 = 两场轻松的胜仗给他们壮了胆，做出一个把整季赔进去的计划。
@@ -45295,6 +45364,7 @@ be emboldened by something = 因某事胆子大起来
 构词：em- 加 bold
 
 embolism
+/ˈembəlɪzəm/
 核心：栓塞：血管被血块、气泡或脂肪堵住引起的急症。可数。
 ① A pulmonary embolism can follow a long flight and a longer sit.
 = 长途飞行加上更久的久坐，之后可能来一次肺栓塞。
@@ -45308,6 +45378,7 @@ an embolism = 栓塞
 注意别混：embolus 是跑动的那块栓子，embolism 是它造成的堵塞。
 
 embolus
+/ˈembələs/
 核心：栓子：随血流跑动、最后堵住血管的那一小块东西 —— 血块、气泡或脂肪。
 可数，复数 emboli。
 ① An embolus that starts in the leg can end up in the lung.
@@ -45322,6 +45393,7 @@ emboli = 栓子（复数）
 构词：希腊语「塞子」，跟 embolism 同源
 
 emboss
+/ɪmˈbɒs/
 核心：压花、压凸：在纸、皮革或金属上压出凸起的图案或字。形容词 embossed。
 ① They emboss the cover and charge for it by the letter.
 = 他们给封面压凸，按字母数收费。
@@ -45335,6 +45407,7 @@ be embossed = 压花压凸的
 构词：em- 加 boss（金属或皮上的凸饰）
 
 embossed
+/ɪmˈbɒst/
 核心：压凸的、有浮凸花纹的：说纸张、封面、皮革或金属表面。
 ① The embossed letters catch the light and nothing else on the card does.
 = 那些压凸的字母会反光，卡片上别处都不会。
@@ -45348,6 +45421,7 @@ embossed paper = 压花纸
 构词：emboss 的过去分词转作形容词
 
 embouchure
+/ˌɒmbuˈʃʊə(r)/
 核心：（音乐）吹口型：吹管乐器时嘴唇、面部肌肉与气息配合的用法。
 法语借词，不可数为主。
 ① A good embouchure takes years and goes soft in three weeks off.
@@ -45380,6 +45454,7 @@ embrace something = 涵盖、包括
 构词：拉丁语 bracchium（手臂），本义是用双臂围住
 
 embrasure
+/ɪmˈbreɪʒə(r)/
 核心：两支。一是（城墙上的）射击口：为射箭或架炮开的斜口；
 二是（建筑）窗龛：厚墙上窗子两侧往里斜的那部分。可数。
 ① The embrasures face the road and the wall behind them is two metres thick.
@@ -45394,6 +45469,7 @@ an embrasure = 窗龛
 构词：法语借词，本指墙上斜开的那个口
 
 embrocation
+/ˌembrəˈkeɪʃən/
 核心：（旧式）搽剂、药油：擦在皮肤上活血止痛的液体，多用于运动损伤。不可数。
 ① The changing room smells of embrocation from October to April.
 = 从十月到四月，更衣室里都是药油味。
@@ -45407,6 +45483,7 @@ rub embrocation into something = 把药油揉进某处
 构词：希腊语「淋、浇」，如今多被 liniment 取代
 
 embroider
+/ɪmˈbrɔɪdə(r)/
 核心：两支。一是刺绣：用针线在布上绣花样；
 二是（讲故事）添枝加叶，跟 embellish 的第二支同义。
 ① She embroidered the cuffs in one evening and unpicked them the next.
@@ -45421,6 +45498,7 @@ embroider a story = 给故事添枝加叶
 构词：em- 加古法语 brouder（绣）
 
 embroidery
+/ɪmˈbrɔɪdəri/
 核心：两支。一是刺绣：这门手艺与绣出来的活儿，不可数；
 二是（叙述里的）添油加醋。
 ① The embroidery on that cloth took two women a whole winter.
@@ -45438,6 +45516,7 @@ embroidery = 添油加醋的成分
 构词：embroider 加 -y
 
 embroil
+/ɪmˈbrɔɪl/
 核心：把…卷入（纠纷、争端）：多用被动 be embroiled in something。
 ① Two neighbours were embroiled in a boundary case for eleven years.
 = 两户邻居为一桩地界官司缠斗了十一年。
@@ -45451,6 +45530,7 @@ embroil somebody in something = 把某人卷进某事
 构词：em- 加 broil（旧义「乱作一团」）
 
 embryo
+/ˈembriəʊ/
 核心：两支。一是胚胎：受精后早期的生命体，人类通常指到第八周为止，此后叫 fetus；
 二是（比喻）雏形：in embryo 是尚在萌芽阶段。可数，复数 embryos。
 ① The embryo is transferred on the fifth day and the wait starts again.
@@ -45464,6 +45544,7 @@ The clinic will transfer one embryo now and freeze the other four.
 in embryo = 尚在萌芽阶段
 
 embryological
+/ˌembriəˈlɒdʒɪkəl/
 核心：胚胎学的：跟胚胎发育与胚胎学研究有关的。只作定语。
 ① The embryological evidence settled an argument that fossils could not.
 = 胚胎学的证据了结了化石解决不了的一场争论。
@@ -45474,6 +45555,7 @@ an embryological study = 胚胎学研究
 构词：embryology 的形容词
 
 embryologist
+/ˌembriˈɒlədʒɪst/
 核心：胚胎学家、胚胎师：研究胚胎发育的科学家；
 在辅助生殖诊所里也指负责培养与挑选胚胎的技术人员。可数。
 ① The embryologist calls at nine with a number and no adjectives.
@@ -45485,6 +45567,7 @@ embryologists = 胚胎学家（复数）
 构词：embryology 加 -ist
 
 embryology
+/ˌembriˈɒlədʒi/
 核心：胚胎学：研究受精卵如何发育成个体的学科。不可数。
 ① Embryology explains why a fish and a person start out looking alike.
 = 胚胎学解释了鱼和人起初为什么长得像。
@@ -45497,6 +45580,7 @@ She went to study embryology and stayed in the same lab for thirty years.
 human embryology = 人类胚胎学
 
 embryonic
+/ˌembriˈɒnɪk/
 核心：两支。一是胚胎的：embryonic cells 是胚胎细胞；
 二是（比喻）尚在雏形的、还没成形的。
 ① Embryonic cells can become almost anything and that is the whole difficulty.
@@ -45510,6 +45594,7 @@ Embryonic development follows the same order in a chicken and a person.
 be embryonic = 尚在雏形阶段
 
 emcee
+/ˌemˈsiː/
 核心：（美式口语）司仪、主持人：MC 的拼写形式，也作动词，担任司仪。可数。
 ① The emcee filled nine minutes while somebody went to find the microphone.
 = 有人去找话筒的那九分钟，全靠司仪撑着。
@@ -45520,6 +45605,7 @@ emcee an event = 主持一场活动
 构词：master of ceremonies 缩成 MC，再照读音拼成 emcee
 
 emend
+/iˈmend/
 核心：（正式）校订、订正（文本）：改掉抄本或稿子里的错。名词 emendation。
 注意别混：emend 只用于文本，amend 用于法律、协议与行为。
 ① Editors emend the manuscript where the copyist clearly nodded off.
@@ -45533,6 +45619,7 @@ He spent two winters emending a manuscript that turned out to be a forgery.
 be emended = 被校订
 
 emendation
+/ˌiːmenˈdeɪʃən/
 核心：（正式）校订、订正之处：对文本所做的改动，也指改后的读法。可数。
 ① The emendation is printed in square brackets and the original in a footnote.
 = 校订之处印在方括号里，原文放在脚注中。
@@ -45610,6 +45697,7 @@ the emergency brake = 紧急制动闸
 the emergency room = 急诊室（美式）
 
 emergent
+/iˈmɜːdʒənt/
 核心：两支。一是（正式）新出现的、兴起中的；
 二是（科学）涌现的：由许多简单部分互动生出的整体性质。
 ① An emergent industry attracts money before it attracts rules.
@@ -45636,6 +45724,7 @@ An emerging technology gets its own conference long before it gets a standard.
 an emerging pattern = 正在显现的规律
 
 emerita
+/iˈmerɪtə/
 核心：（女性）荣休的：跟在职称后面，如 professor emerita，
 指退休后保留原头衔的女性学者。男性用 emeritus，复数 emeritae。
 ① Professor emerita means the office is gone and the title is not.
@@ -45646,6 +45735,7 @@ professor emerita = 荣休女教授
 be emerita = 已荣休（女性）
 
 emeritus
+/iˈmerɪtəs/
 核心：荣休的：跟在职称后面或作定语，指退休后保留原头衔的学者；
 女性形式是 emerita。
 ① The emeritus professor keeps a desk and gives one lecture a year.
@@ -45656,6 +45746,7 @@ an emeritus professor = 荣休教授
 emeritus status = 荣休身份
 
 emery
+/ˈeməri/
 核心：金刚砂：极硬的天然磨料，用来磨光金属，也做成指甲锉。不可数。
 ① Emery takes the burr off the edge in about four strokes.
 = 用金刚砂磨四下，边上的毛刺就没了。
@@ -45668,6 +45759,7 @@ emery paper = 金刚砂纸
 an emery board = 指甲锉（砂纸做的）
 
 emetic
+/ɪˈmetɪk/
 核心：催吐剂、催吐的：让人呕吐的药；形容词也夸张地说「难看难吃到想吐」。可数。
 ① An emetic was standard treatment for two centuries and did more harm than good.
 = 催吐剂做了两百年的标准疗法，害处大过好处。
@@ -45680,6 +45772,7 @@ The vet gave the dog an emetic and the whole sock came back up.
 emetic = 令人作呕的
 
 emigrant
+/ˈemɪɡrənt/
 核心：移居国外的人：从本国迁往他国定居的人 ——
 同一个人，从接收国的角度看叫 immigrant。可数。
 ① Emigrants left from that quay for sixty years and few of them came back.
@@ -45690,6 +45783,7 @@ an emigrant = 移居国外者
 emigrants = 移出国外的人（复数）
 
 emigrate
+/ˈemɪɡreɪt/
 核心：移居国外：离开本国到别国定居，搭 emigrate to somewhere、emigrate from somewhere。
 注意别混：emigrate 是从本国出去，immigrate 是进到别国来。
 ① They emigrated to Canada in the spring and wrote every week for a year.
@@ -45700,6 +45794,7 @@ emigrate to somewhere = 移居到某国
 emigrate from somewhere = 从某国移出
 
 emigration
+/ˌemɪˈɡreɪʃən/
 核心：（人口）外迁、移居国外：人成批离开本国这件事。不可数。
 ① Emigration emptied the village faster than any of the closures did.
 = 让村子空下来的是外迁，比哪一次关停都快。
@@ -45709,6 +45804,7 @@ emigration = 人口外迁
 emigration figures = 外迁人数
 
 emigre
+/ˈemɪɡreɪ/
 核心：（政治性的）流亡者、侨居者：因政局动荡离开祖国的人。
 法语借词，也写 émigré。可数。
 ① The emigre community met in one café and argued in three languages.
@@ -45719,6 +45815,7 @@ an emigre = 流亡者、侨居者
 the emigre community = 流亡侨民群体
 
 eminence
+/ˈemɪnəns/
 核心：三支。一是（正式）卓越、声望：在某个领域出类拔萃；
 二是（正式）高地、高处；三是 Your Eminence，对枢机主教的尊称。
 习语 an eminence grise 是幕后掌权的人。
@@ -45733,6 +45830,7 @@ an eminence = 高地
 an eminence grise = 幕后掌权者
 
 eminent
+/ˈemɪnənt/
 核心：两支。一是卓越的、著名的：说人在某领域享有声望；
 二是（正式）（品质）突出的：with eminent good sense。副词 eminently。
 ① An eminent surgeon opened the building and forgot the scissors.
@@ -45757,6 +45855,7 @@ eminently suitable = 极为合适的
 构词：eminent 加 -ly
 
 emir
+/eˈmɪə(r)/
 核心：埃米尔：某些穆斯林国家或酋长国的统治者、王公；其辖地叫 emirate。可数。
 ① The emir opened the new port and named it after his father.
 = 埃米尔为新港剪彩，并以他父亲的名字给港口命名。
@@ -45766,6 +45865,7 @@ an emir = 埃米尔（王公）
 the emir's palace = 埃米尔的宫殿
 
 emirate
+/ˈemɪrət/
 核心：酋长国、埃米尔的辖地：由 emir 统治的国家或地区；
 阿联酋就是七个酋长国组成的联邦。可数。
 ① The emirate has more cranes than the whole country had ten years ago.
@@ -45776,6 +45876,7 @@ an emirate = 酋长国
 the seven emirates = 七个酋长国
 
 Emirati
+/ˌemɪˈrɑːti/
 核心：阿联酋的、阿联酋人：形容词与名词同形，复数 Emiratis。
 ① The Emirati team arrived with three coaches and a single interpreter.
 = 阿联酋队带了三名教练、一个翻译过来。
@@ -45785,6 +45886,7 @@ an Emirati = 阿联酋人
 Emirati law = 阿联酋法律
 
 emissary
+/ˈemɪsəri/
 核心：（正式）特使、密使：受派去传话或谈判的人，常带机密色彩。
 可数，复数 emissaries。
 ① An emissary arrived with an offer and no authority to improve it.
@@ -45823,6 +45925,7 @@ emit a sound = 发出声音
 emit a gas = 排放某种气体
 
 Emmental
+/ˈeməntɑːl/
 核心：埃门塔尔奶酪：瑞士出的大孔硬奶酪，也拼 Emmenthal。不可数。
 ① Emmental melts more evenly than cheddar and costs about twice as much.
 = 埃门塔尔比切达融得匀，价钱大约是两倍。
@@ -45832,6 +45935,7 @@ Emmental = 埃门塔尔奶酪
 holes in Emmental = 埃门塔尔上的孔眼
 
 emo
+/ˈiːməʊ/
 核心：两支。一是（音乐）情绪核：八十年代起于硬核朋克的一种曲风，歌词偏内省；
 二是（口语）指这类乐迷的装扮与做派，有时带贬义。
 ① Emo came out of a hardcore scene and kept the volume and lost the anger.
@@ -45842,6 +45946,7 @@ emo = 情绪核（乐风）
 an emo phase = 一段情绪核时期
 
 emoji
+/ɪˈməʊdʒi/
 核心：绘文字、表情符号：手机与聊天里用的小图，日语借词；
 复数写 emoji 或 emojis 都通行。
 注意别混：emoji 是图，emoticon 是用标点拼出来的脸。
@@ -45853,6 +45958,7 @@ an emoji = 一个表情符号
 use an emoji = 用一个表情符号
 
 emollient
+/ɪˈmɒliənt/
 核心：两支。一是润肤剂：让皮肤变软、锁住水分的膏或油；
 二是（正式）安抚性的：说话缓和，意在平息争端。
 ① The emollient goes on damp skin and works better than any of the tablets.
@@ -45863,6 +45969,7 @@ an emollient = 润肤剂
 an emollient tone = 安抚性的口吻
 
 emolument
+/ɪˈmɒljʊmənt/
 核心：（正式或法律）报酬、酬金：职位带来的薪金与实物好处，多用复数。可数。
 ① The emoluments of the office include a house and no privacy.
 = 那个职位的报酬包括一栋房子，外加毫无隐私。
@@ -45872,6 +45979,7 @@ emoluments = 职位的酬金与待遇
 an emolument = 一笔酬金
 
 emote
+/ɪˈməʊt/
 核心：（常带调侃）夸张地流露感情、把情绪演出来。
 ① Actors emote and the camera moves closer until one of them stops.
 = 演员放开了演情绪，镜头越推越近，直到有一方先停。
@@ -45881,6 +45989,7 @@ emote = 夸张地表露情感
 emote on demand = 说来就来地演情绪
 
 emoticon
+/ɪˈməʊtɪkɒn/
 核心：颜文字、表情符：用标点符号拼出来的脸，如 :-) 这类。可数。
 如今多被 emoji 取代，读旧邮件还会碰上。
 ① An emoticon at the end of that sentence would have saved a week.
@@ -45931,6 +46040,7 @@ speak emotionally = 动情地讲话
 构词：emotional 加 -ly
 
 emotionless
+/ɪˈməʊʃənləs/
 核心：不动声色的、毫无表情的：说人的脸、嗓音或叙述不带感情。
 ① His emotionless account of the crash was the hardest part to listen to.
 = 他讲那场车祸时毫无起伏，最难听下去的正是这一点。
@@ -45941,6 +46051,7 @@ emotionless = 毫无表情的
 构词：emotion 加 -less
 
 emotive
+/ɪˈməʊtɪv/
 核心：（常含贬义）煽情的、易挑动情绪的：说话题或措辞容易勾起感情。
 注意别混：emotive 是「挑动情绪的」，emotional 是「情感的、动感情的」。
 ① Housing is an emotive issue in a town where nobody can move.
@@ -45951,6 +46062,7 @@ an emotive issue = 易激起情绪的议题
 emotive language = 煽情的措辞
 
 empanada
+/ˌempəˈnɑːdə/
 核心：（拉美与西班牙的）馅饼：面皮包馅后烤或炸出来的半月形小饼。可数。
 ① The empanadas come out at eight and are gone by twenty past.
 = 馅饼八点出炉，八点二十就没了。
@@ -45960,6 +46072,7 @@ an empanada = 馅饼
 beef empanadas = 牛肉馅饼
 
 empanel
+/ɪmˈpænəl/
 核心：（法律）选定陪审团：把陪审员选出来编成名册。
 也拼 impanel（多见于美式）；过去式英式 empanelled，美式 empaneled。
 ① It took two days to empanel a jury in a town that small.
@@ -45974,6 +46087,7 @@ impanel = 选定陪审团（美式拼法）
 「impanel」多见于美式，过去式 impaneled。
 
 empathetic
+/ˌempəˈθetɪk/
 核心：有共情能力的、能设身处地的：说人体会得到别人的感受。
 也拼 empathic；副词 empathetically，名词 empathy。
 ① An empathetic nurse changes a ward more than a new ceiling does.
@@ -45992,6 +46106,7 @@ respond empathetically = 带着共情地回应
 构词：empathetic 加 -ally
 
 empathize
+/ˈempəθaɪz/
 核心：共情、设身处地地体会：搭 empathize with somebody。英式也拼 empathise。
 ① I can empathize with anyone who has waited on that platform in February.
 = 谁二月在那个站台上等过车，我都能感同身受。
@@ -46001,6 +46116,7 @@ empathize with somebody = 与某人共情
 empathize = 设身处地体会
 
 empathy
+/ˈempəθi/
 核心：共情、同理心：设身处地体会他人感受的能力。不可数。
 注意别混：empathy 是站到对方的处境里，sympathy 是为对方难过。
 ① Empathy is not agreement and the two get confused in every argument.
@@ -46053,6 +46169,7 @@ emphasize that... = 强调说…
 emphasize something = 使某物显得突出
 
 emphatic
+/ɪmˈfætɪk/
 核心：三支。一是（回答、否认）斩钉截铁的：an emphatic no；
 二是（胜利）大比分的、毫无悬念的；三是（说话）加重语气的。副词 emphatically。
 ① The answer was an emphatic no and the question came back in June.
@@ -46074,6 +46191,7 @@ emphatically not = 绝对不是
 构词：emphatic 加 -ally
 
 emphysema
+/ˌemfɪˈsiːmə/
 核心：肺气肿：肺泡壁被破坏、气排不出去，造成长期气短的病，
 多由吸烟或长期吸入粉尘引起。不可数。
 ① Emphysema takes decades to show up and one flight of stairs to reveal itself.
@@ -46101,6 +46219,7 @@ a business empire = 商业王国
 empire-building = 扩充自己的地盘与人马
 
 Empire line
+/ˈempaɪə laɪn/
 核心：（服装）高腰式剪裁：腰线提到胸口下方的连衣裙样式，
 源自法兰西第一帝国时期的时装。
 ① The dress has an Empire line and hides rather more than it flatters.
@@ -46133,6 +46252,7 @@ empirically = 从实证上看
 构词：empirical 加 -ly
 
 empiricism
+/ɪmˈpɪrɪsɪzəm/
 核心：经验主义：认为知识来自感官经验的哲学立场，跟理性主义相对；
 也指凡事讲证据的态度。不可数。
 ① Empiricism says the world has to be looked at before it is explained.
@@ -46143,6 +46263,7 @@ empiricism = 经验主义
 British empiricism = 英国经验主义
 
 empiricist
+/ɪmˈpɪrɪsɪst/
 核心：经验主义者：主张知识来自经验的人；也作形容词。可数。
 ① An empiricist wants the measurement and takes the theory afterwards.
 = 经验主义者先要测量数据，理论随后再说。
@@ -46153,6 +46274,7 @@ the empiricist tradition = 经验主义传统
 构词：empiricism 加 -ist
 
 emplacement
+/ɪmˈpleɪsmənt/
 核心：（军事）炮位、阵地：架设火炮的固定位置；也指安放这件事。可数。
 ① The gun emplacement faces the wrong way and always did.
 = 那个炮位朝向不对，一直就不对。
@@ -46180,6 +46302,7 @@ employ a method = 采用一种方法
 in the employ of somebody = 受雇于某人
 
 employability
+/ɪmˌplɔɪəˈbɪlɪti/
 核心：就业能力：一个人被雇用的可能性，取决于技能、经历与市场行情。不可数。
 ① The course improves employability and says nothing about which job.
 = 那门课提高就业能力，可没说提高到哪份工作上去。
@@ -46189,6 +46312,7 @@ employability = 就业能力
 improve employability = 提升就业能力
 
 employable
+/ɪmˈplɔɪəbəl/
 核心：有就业能力的、雇得上的：说人具备被雇用的条件。
 ① Two short courses made him employable in a trade he had never considered.
 = 两门短期课程，让他在一个从没考虑过的行当里雇得上了。
@@ -46248,6 +46372,7 @@ employment insurance = 失业保险（加拿大说法）
 employment equity = 就业平权
 
 emporium
+/emˈpɔːriəm/
 核心：（旧式或戏谑）大商场、杂货商行：卖各色货品的大店，
 如今多用于店名或调侃。可数，复数 emporiums 或 emporia。
 ① The emporium sells lamps, cheese and secondhand skis under one roof.
@@ -46258,6 +46383,7 @@ an emporium = 大商场、商行
 a furniture emporium = 家具商场
 
 empower
+/ɪmˈpaʊə(r)/
 核心：两支。一是使有能力、给人底气与主动权；
 二是（正式）授权：empower somebody to do something。名词 empowerment。
 ① The training is meant to empower and mostly produces new forms.
@@ -46268,6 +46394,7 @@ empower somebody = 使某人更有能力与底气
 empower somebody to do something = 授权某人做某事
 
 empowerment
+/ɪmˈpaʊəmənt/
 核心：赋权、增能：让人（尤指弱势群体）有能力与话语权掌握自己的事。不可数。
 ① Empowerment is the word on the poster and the budget says otherwise.
 = 海报上写的是「赋权」，预算说的是另一回事。
@@ -46277,6 +46404,7 @@ empowerment = 赋权、增能
 the empowerment of somebody = 对某群体的赋权
 
 empress
+/ˈemprəs/
 核心：两支。一是女皇：自身统治帝国的女性君主；二是皇后：皇帝的妻子。可数。
 ① The empress ruled for thirty-four years and never left the capital.
 = 那位女皇统治了三十四年，一次也没离开过都城。
@@ -46286,6 +46414,7 @@ an empress = 女皇
 the empress = 皇后
 
 empties
+/ˈemptiz/
 核心：（口语）空瓶、空罐：喝完用完的容器，尤指要回收退押的酒瓶。复数。
 ① The empties go out on Tuesday and come back as a small refund.
 = 空瓶周二送走，换回一点点退款。
@@ -46295,6 +46424,7 @@ empties = 空瓶、空罐
 return the empties = 退还空瓶
 
 emptiness
+/ˈemptinəs/
 核心：两支。一是空、空荡：说地方或容器里什么都没有；
 二是（心里的）空虚：说日子过得没意思。不可数。
 ① The emptiness of the flat surprised her more than the noise had.
@@ -46353,6 +46483,7 @@ echo emptily = 空荡荡地回响
 构词：empty 加 -ly，拼写 y 变 i
 
 emu
+/ˈiːmjuː/
 核心：鸸鹋：澳大利亚的大型走禽，不会飞，个头仅次于鸵鸟，跑得极快。可数。
 ① An emu can outrun a horse over rough ground and often does.
 = 在崎岖地面上鸸鹋跑得过马，而且常常真跑赢。
@@ -46362,6 +46493,7 @@ an emu = 鸸鹋
 emus = 鸸鹋（复数）
 
 emulate
+/ˈemjʊleɪt/
 核心：两支。一是效法、学着做：把某人当榜样去追赶；
 二是（计算机）仿真：用一个系统模拟另一个系统。名词 emulation。
 ① Younger players emulate his footwork and skip the twelve years of practice.
@@ -46372,6 +46504,7 @@ emulate somebody = 效法某人
 emulate a system = 仿真某个系统
 
 emulation
+/ˌemjʊˈleɪʃən/
 核心：两支。一是效法、仿效：把别人当榜样去学；
 二是（计算机）仿真：让一个系统装成另一个系统来跑。不可数为主。
 ① The prize is meant to encourage emulation and mostly encourages applications.
@@ -46386,6 +46519,7 @@ emulation = （计算机）仿真
 构词：emulate 的名词
 
 emulator
+/ˈemjʊleɪtə(r)/
 核心：（计算机）仿真器：让一台机器或一套系统装成另一套来运行的软硬件。可数。
 ① The emulator runs the old console well enough that the bugs come back too.
 = 那个仿真器把老主机模拟得够真，连当年那些毛病也一并回来了。
@@ -46399,6 +46533,7 @@ a terminal emulator = 终端仿真器
 构词：emulate 加 -or
 
 emulsifier
+/ɪˈmʌlsɪfaɪə(r)/
 核心：乳化剂：让油和水混在一起不分层的物质，
 食品与化妆品里常见，卵磷脂就是一种。可数。
 ① The emulsifier keeps the sauce together for about four hours.
@@ -46413,6 +46548,7 @@ emulsifiers = 乳化剂（复数）
 构词：emulsify 加 -er
 
 emulsify
+/ɪˈmʌlsɪfaɪ/
 核心：使乳化、乳化：把油与水搅成不分层的混合液。
 过去式 emulsified；蛋黄酱就是靠这一步做成的。
 ① Add the oil slowly or the sauce will not emulsify at all.
@@ -46426,6 +46562,7 @@ Whisked hard, the butter and stock emulsify into a sauce that coats the spoon.
 emulsify something = 使某物乳化
 
 emulsion
+/ɪˈmʌlʃən/
 核心：三支。一是乳浊液：一种液体的小滴悬在另一种里，牛奶就是；
 二是（英式）乳胶漆：emulsion paint，哑光墙漆；三是（胶片的）感光乳剂。可数不可数都行。
 ① An emulsion separates the moment it stops being stirred.
@@ -46459,6 +46596,7 @@ Location sharing is enabled by default and most people never look.
 = 位置共享默认开启，多数人从来不去看。
 
 enablement
+/ɪˈneɪbəlmənt/
 核心：（正式）使能、赋能：让人或系统具备做某事的条件；
 专利文书里也指说明书要写到照着能做出来的程度。不可数。
 ① The report talks about enablement and budgets for equipment.
@@ -46473,6 +46611,7 @@ enablement = （专利的）可实施性
 构词：enable 加 -ment
 
 enabler
+/ɪˈneɪblə(r)/
 核心：两支。一是促成者、提供条件的那一环；
 二是（心理学，贬）纵容者：明知有害还替人兜着，让问题继续下去。可数。
 ① Cheap flights were the enabler and the rest of the industry followed.
@@ -46504,6 +46643,7 @@ The ban was enacted in one state and copied by four others.
 enact a scene = 把一个场面演出来
 
 enactment
+/ɪˈnæktmənt/
 核心：两支。一是（法律的）制定、颁布，也指颁布出来的那部法规；
 二是（正式）演出、重现。可数不可数都行。
 ① The enactment of that clause took two sessions and one very long night.
@@ -46518,6 +46658,7 @@ A re-enactment of the landing draws two thousand people and one real veteran.
 构词：enact 加 -ment
 
 enamel
+/ɪˈnæməl/
 核心：三支。一是搪瓷、珐琅：烧在金属上的光亮涂层；
 二是牙釉质：牙齿最外那层硬壳；三是瓷漆：干后又亮又硬的漆。不可数。
 也作动词，英式过去式 enamelled。
@@ -46535,6 +46676,7 @@ tooth enamel = 牙釉质
 enamel paint = 瓷漆
 
 enamelled
+/ɪˈnæməld/
 核心：涂了珐琅的、上了瓷釉的：说锅、招牌、首饰表面烧或涂了一层光亮涂层。
 美式拼 enameled。
 ① The enamelled sign outside the station has outlived two railway companies.
@@ -46548,6 +46690,7 @@ She makes enamelled jewellery in a kiln that fits on a kitchen table.
 an enamelled pot = 搪瓷锅
 
 enamoured
+/ɪˈnæməd/
 核心：（正式）倾心的、着迷的：be enamoured of 或 with something；
 否定用法更常见：not entirely enamoured 是「不怎么感冒」。美式拼 enamored。
 ① He is enamoured of a plan that three people have already costed out.
@@ -46558,6 +46701,7 @@ be enamoured of something = 对某物着迷
 be not entirely enamoured with something = 对某事不怎么感冒
 
 enc.
+/ɪnˈkləʊzd/
 核心：（书信缩写）附件：写在信末，表示随信附了东西，全写是 enclosure；
 另一个常见写法是 encl.。只写不说。
 ① The letter ends with 'enc.' and nothing was in the envelope.
@@ -46569,6 +46713,7 @@ enc. = 随信附上
 注意：只出现在书信格式里，正文要写全 enclosure。
 
 encamp
+/ɪnˈkæmp/
 核心：（正式或军事）扎营、驻扎：多用被动 be encamped。
 ① The regiment encamped by the river and stayed for eleven weeks.
 = 那个团在河边扎营，一待十一个星期。
@@ -46581,6 +46726,7 @@ They encamped by a river that rose two feet overnight.
 be encamped somewhere = 在某处扎营
 
 encampment
+/ɪnˈkæmpmənt/
 核心：营地、宿营地：临时搭起的一片帐篷或棚屋，也指驻扎这件事。可数。
 ① The encampment had a school, a kitchen and no drainage at all.
 = 那片营地有学校、有厨房，就是一点排水都没有。
@@ -46594,6 +46740,7 @@ a winter encampment = 冬季营地
 构词：encamp 加 -ment
 
 encapsulate
+/ɪnˈkæpsjʊleɪt/
 核心：两支。一是概括、浓缩成一句：把要点用极短的话说尽；
 二是把…封装起来：用外壳或胶囊包住。名词 encapsulation。
 ① One sentence encapsulated an argument that had run for two days.
@@ -46607,6 +46754,7 @@ A good title encapsulates an idea the book takes three hundred pages to prove.
 be encapsulated in something = 被封装在某物里
 
 encapsulation
+/ɪnˌkæpsjʊˈleɪʃən/
 核心：两支。一是概括、浓缩；二是封装：把东西包进外壳里。不可数为主。
 ① The poster is a fair encapsulation of an argument that fills a book.
 = 那张海报把一本书那么长的论证概括得还算公道。
@@ -46620,6 +46768,7 @@ Resin encapsulation adds two pounds to the cost and ten years to the life.
 构词：encapsulate 加 -ion
 
 encase
+/ɪnˈkeɪs/
 核心：把…完全包住、装进壳里：多用被动 be encased in something。
 ① The pipe is encased in concrete and nobody knows where it goes.
 = 那根管子整个封在混凝土里，谁也不知道它通向哪儿。
@@ -46632,6 +46781,7 @@ The old reactor is encased in concrete and monitored from a hut nearby.
 = 那座旧反应堆被封在混凝土里，由旁边一间小屋监测着。
 
 encash
+/ɪnˈkæʃ/
 核心：（英式，正式）兑现：把支票、票据换成现金。名词 encashment。
 ① You can encash the voucher at any branch and only before four.
 = 那张代金券在任何一家网点都能兑现，只是得赶在四点前。
@@ -46644,6 +46794,7 @@ He could not encash the cheque without a second form of identity.
 be encashed = 被兑现
 
 encashment
+/ɪnˈkæʃmənt/
 核心：（英式，正式）兑现：把票据换成现金这件事。不可数。
 ① Encashment takes two working days and one of them is always a Monday.
 = 兑现要两个工作日，其中一天总是周一。
@@ -46657,6 +46808,7 @@ an encashment date = 兑现日期
 构词：encash 加 -ment
 
 encephalitis
+/enˌsefəˈlaɪtɪs/
 核心：脑炎：脑组织发炎，多由病毒引起，表现从头痛发烧到神志改变。不可数。
 ① Encephalitis was ruled out on the second day and the fever stayed.
 = 第二天排除了脑炎，烧却没退。
@@ -46669,6 +46821,7 @@ One case of encephalitis closed the ward for a fortnight.
 viral encephalitis = 病毒性脑炎
 
 encephalopathy
+/enˌsefəˈlɒpəθi/
 核心：脑病：泛指脑功能受损的一类病变，肝肾衰竭与中毒都可能引起。不可数。
 ① Hepatic encephalopathy shows up as confusion long before any scan does.
 = 肝性脑病先表现为神志不清，扫描要晚得多才看得出来。
@@ -46681,6 +46834,7 @@ Chronic encephalopathy in old boxers was described long before anyone measured i
 = 老拳手的慢性脑病，早在有人测量之前就被描述过了。
 
 enchant
+/ɪnˈtʃɑːnt/
 核心：两支。一是使着迷、把人迷住：多用被动 be enchanted by；
 二是（童话里）对…施魔法。名词 enchantment。
 ① The place enchants people in June and disappoints them in February.
@@ -46694,6 +46848,7 @@ Audiences were enchanted by a puppet that cost eleven pounds to make.
 enchant something = 对某物施魔法
 
 enchanted
+/ɪnˈtʃɑːntɪd/
 核心：两支。一是着迷的、陶醉的：be enchanted by something；
 二是（童话）被施了魔法的：an enchanted forest。
 ① She was enchanted by a village that had two shops and one bus.
@@ -46707,6 +46862,7 @@ Every enchanted castle in those books has one window nobody may open.
 = 那些书里每座被施了魔法的城堡，都有一扇谁也不许开的窗。
 
 enchanter
+/ɪnˈtʃɑːntə(r)/
 核心：术士、施魔法的人：童话与奇幻里会法术的男性，女性叫 enchantress。可数。
 ① The enchanter in that story loses to a farmer with better questions.
 = 那个故事里的术士，输给了一个问题问得更好的农夫。
@@ -46719,6 +46875,7 @@ A court enchanter kept his job by predicting only what had already happened.
 enchanters = 术士（复数）
 
 enchanting
+/ɪnˈtʃɑːntɪŋ/
 核心：迷人的、令人陶醉的：说地方、笑容、表演让人喜欢得不得了。副词 enchantingly。
 ① The garden is enchanting for about three weeks and ordinary after that.
 = 那个园子有三个星期迷人得很，之后就平平常常。
@@ -46739,6 +46896,7 @@ sing enchantingly = 唱得动人
 构词：enchanting 加 -ly
 
 enchantment
+/ɪnˈtʃɑːntmənt/
 核心：两支。一是着迷、陶醉：被迷住的那种状态；
 二是魔法、咒语：童话里施的法术。可数不可数都行。
 ① The enchantment lasted until the second week of the tour.
@@ -46752,6 +46910,7 @@ The whole household sleeps under an enchantment and the kitchen fire stays lit.
 break an enchantment = 解除魔法
 
 enchantress
+/ɪnˈtʃɑːntrəs/
 核心：两支。一是女术士、女巫：童话与奇幻里会法术的女性；
 二是（旧式）迷人的女子 —— 这一支带旧派眼光，如今少用。可数。
 ① The enchantress in that opera gets the best music and the worst ending.
@@ -46765,6 +46924,7 @@ The enchantress in a tale is usually the only character with a plan.
 an enchantress = （旧式）迷人的女子
 
 enchilada
+/ˌentʃɪˈlɑːdə/
 核心：（墨西哥菜）恩奇拉达：玉米饼卷馅、浇辣酱再烤的一道菜。可数。
 习语 the whole enchilada 是（美式口语）「整个儿、全套」。
 ① The enchiladas come out too hot to eat and cool down too fast.
@@ -46778,6 +46938,7 @@ She orders chicken enchiladas everywhere and compares them out loud.
 the whole enchilada = 整个儿、全套（美式口语）
 
 encircle
+/ɪnˈsɜːkəl/
 核心：包围、环绕：从四面围住，或绕成一圈。名词 encirclement。
 ① A low wall encircles the churchyard and keeps nothing out.
 = 一道矮墙绕着教堂墓地，什么也挡不住。
@@ -46790,6 +46951,7 @@ The lake is encircled by hills that keep the fog in until noon.
 encircle a town = 包围一座城
 
 encirclement
+/ɪnˈsɜːkəlmənt/
 核心：包围：把对方四面围死的态势，多用于军事。不可数。
 ① Encirclement was complete on paper and leaky on the ground.
 = 包围在地图上算是完成了，实地却处处漏风。
@@ -46800,6 +46962,7 @@ the threat of encirclement = 被包围的威胁
 构词：encircle 加 -ment
 
 encl.
+/ɪnˈkləʊzd/
 核心：（书信缩写）附件：跟 enc. 同义，全写是 enclosure，写在信末。只写不说。
 ① The letter says encl. and lists three documents on the next line.
 = 信上写着那个附件缩写，下一行列了三份文件。
@@ -46810,6 +46973,7 @@ encl. = 随信附上
 注意：跟 enc. 一样，只出现在书信格式里。
 
 enclave
+/ˈenkleɪv/
 核心：两支。一是飞地：被另一国或另一地区包住的一块领土；
 二是（比喻）聚居区、自成一片的小圈子。可数。
 ① The enclave has its own post office and no road of its own.
@@ -46820,6 +46984,7 @@ an enclave = 飞地
 an enclave of something = 某类事物的聚集区
 
 enclitic
+/ɪnˈklɪtɪk/
 核心：（语言学）后附着词：读音上靠在前一个词后头、不单独重读的小词。
 可数，也作形容词。
 ① An enclitic leans on the word in front and never takes a stress of its own.
@@ -46889,6 +47054,7 @@ The date is encoded in the first four digits of every serial number.
 encode a protein = 编码某种蛋白
 
 encomium
+/enˈkəʊmiəm/
 核心：（正式）颂词、赞辞：公开的高声称赞，多在纪念或告别场合。
 可数，复数 encomiums 或 encomia。
 ① The encomium ran for twenty minutes and mentioned the work twice.
@@ -46910,6 +47076,7 @@ encompass something = 涵盖某物
 be encompassed by something = 被某物包围
 
 encore
+/ˈɒŋkɔː(r)/
 核心：加演、返场：观众叫好之后再演的一段，也指观众那声「再来一个」。可数。
 ① The encore lasted longer than the second half of the programme.
 = 返场那段，比下半场节目还长。
@@ -46985,6 +47152,7 @@ nod encouragingly = 鼓励地点头
 构词：encouraging 加 -ly
 
 encroach
+/ɪnˈkrəʊtʃ/
 核心：两支。一是（渐渐）侵占、蚕食（土地、权利）：encroach on something；
 二是（工作、事情）占去本属别处的时间。名词 encroachment。
 ① The car park encroaches on the field a metre a year.
@@ -46995,6 +47163,7 @@ encroach on something = 侵占某物
 encroach on somebody's time = 占用某人的时间
 
 encroachment
+/ɪnˈkrəʊtʃmənt/
 核心：侵占、蚕食：一点点占去别人的地方、时间或权利。可数不可数都行。
 ① The encroachment was measured in centimetres and argued over in court.
 = 那次侵占是按厘米量的，官司却打上了法庭。
@@ -47005,6 +47174,7 @@ encroachment on something = 对某物的蚕食
 构词：encroach 加 -ment
 
 encrustation
+/ˌenkrʌˈsteɪʃən/
 核心：结壳、硬壳层：长期沉积在表面结成的一层硬东西，如水垢、盐霜。
 可数不可数都行，也拼 incrustation。
 ① The encrustation inside the kettle came off in one piece.
@@ -47015,6 +47185,7 @@ an encrustation = 结壳、硬壳
 salt encrustation = 盐结壳
 
 encrusted
+/ɪnˈkrʌstɪd/
 核心：两支。一是结着硬壳的；二是镶满（宝石等）的。搭 be encrusted with something。
 ① The pot was encrusted with something nobody wanted to identify.
 = 那口锅上结着一层谁也不想去辨认的东西。
@@ -47024,6 +47195,7 @@ be encrusted with something = 结着一层某物
 encrusted with jewels = 镶满宝石的
 
 encrypt
+/ɪnˈkrɪpt/
 核心：加密：把信息转成没有钥匙就读不懂的形式，跟 decrypt 相对。名词 encryption。
 ① Encrypt the file before it leaves the building and tell nobody the password.
 = 文件离开这栋楼之前先加密，密码谁也别告诉。
@@ -47049,6 +47221,7 @@ End-to-end encryption means the company cannot read what it is storing.
 strong encryption = 强加密
 
 encumber
+/ɪnˈkʌmbə(r)/
 核心：两支。一是（正式）妨碍、拖累：让人行动不便或做事受阻；
 二是（法律）使（财产）带上债务或抵押。多用被动。名词 encumbrance。
 ① Encumbered by two bags and a coat, he missed the connection.
@@ -47059,6 +47232,7 @@ be encumbered by something = 被某物拖累
 encumber something = 使某物带上负担
 
 encumbrance
+/ɪnˈkʌmbrəns/
 核心：两支。一是累赘、负担：拖着人、让人放不开手脚的东西；
 二是（法律）产权负担：压在房产上的抵押、地役权一类。可数。
 ① He travels with one bag and calls everything else an encumbrance.
@@ -47070,6 +47244,7 @@ an encumbrance on something = 压在某物上的产权负担
 构词：encumber 加 -ance
 
 encyclical
+/ɪnˈsɪklɪkəl/
 核心：（天主教）通谕：教宗发给全体主教或信众的正式训导文告。可数。
 ① The encyclical runs to forty pages and one sentence made the news.
 = 那份通谕写了四十页，上新闻的是其中一句话。
@@ -47095,6 +47270,7 @@ An online encyclopedia can be corrected at midnight and wrong again by morning.
 look something up in an encyclopedia = 在百科全书里查某物
 
 encyclopedic
+/ɪnˌsaɪkləˈpiːdɪk/
 核心：两支。一是百科全书式的：说知识面广得无所不包；
 二是（书、清单）巨细无遗的。也拼 encyclopaedic。
 ① He has an encyclopedic memory for fixtures and forgets his own birthday.
@@ -47167,6 +47343,7 @@ an end table = （沙发旁的）边几
 the end zone = （美式橄榄球）端区
 
 endanger
+/ɪnˈdeɪndʒə(r)/
 核心：危及、使处于危险：说危害生命、健康、地位或前途。
 形容词 endangered，名词 endangerment。
 ① Two loose slates endanger anyone who walks under that gutter.
@@ -47193,6 +47370,7 @@ The frog is endangered in one valley and thriving in the next.
 an endangered language = 濒危语言
 
 endangerment
+/ɪnˈdeɪndʒəmənt/
 核心：（正式、法律）危害、使陷入险境：法律上 child endangerment 是危害儿童安全罪。不可数。
 ① The charge was endangerment and the facts were nine minutes long.
 = 指控的是危害他人安全，案情事实只有九分钟那么长。
@@ -47203,6 +47381,7 @@ child endangerment = 危害儿童安全（罪名）
 构词：endanger 加 -ment
 
 endear
+/ɪnˈdɪə(r)/
 核心：使受喜爱：endear somebody to somebody，多用于否定或反语。
 ① The trumpet at seven did not endear him to the neighbours.
 = 早上七点吹小号，没让邻居喜欢上他。
@@ -47213,6 +47392,7 @@ endear yourself to somebody = 主动讨某人喜欢
 写作 endear to：宾语放中间，endear somebody to somebody。
 
 endearing
+/ɪnˈdɪərɪŋ/
 核心：讨人喜欢的、招人疼的：说习惯、缺点、笑容让人觉得可爱。副词 endearingly。
 ① His inability to lie is endearing and useless in that job.
 = 他不会撒谎，这点招人喜欢，可在那份工作上没用。
@@ -47233,6 +47413,7 @@ explain something endearingly = 讲得憨态可掬
 构词：endearing 加 -ly
 
 endearment
+/ɪnˈdɪəmənt/
 核心：昵称、亲昵话：表示亲昵的称呼或说法，最常见的搭配是 a term of endearment。
 可数不可数都行。
 ① Every second sentence had an endearment in it and none of them meant much.
@@ -47257,6 +47438,7 @@ Mapping the seabed is human endeavour at its slowest and most patient.
 = 测绘海床是人类最慢、最有耐心的一种努力。
 
 endemic
+/enˈdemɪk/
 核心：两支。一是（疾病、问题）某地固有的、长期存在的：be endemic in a place；
 二是（生物）某地特有的：be endemic to an island。
 注意别混：endemic 是本来就有、一直有，epidemic 是一时爆发。
@@ -47268,6 +47450,7 @@ be endemic in something = 在某处长期存在
 be endemic to a place = 为某地所特有
 
 endgame
+/ˈendɡeɪm/
 核心：两支。一是（国际象棋）残局：子力所剩不多的收官阶段；
 二是（比喻）终局、收官阶段：谈判或冲突的最后一段。可数。
 ① The endgame took longer than the rest of the match put together.
@@ -47291,6 +47474,7 @@ The film has a happy ending that the book refuses to give anyone.
 a verb ending = 动词词尾
 
 endive
+/ˈendaɪv/
 核心：菊苣：叶子发苦的一种蔬菜，可生拌也可烤；
 英美两地把 endive 与 chicory 的叫法正好用反。可数不可数都行。
 ① Endive is bitter enough that most recipes pair it with something sweet.
@@ -47323,6 +47507,7 @@ argue endlessly = 争论个没完
 构词：endless 加 -ly
 
 endnote
+/ˈendnəʊt/
 核心：尾注：放在章末或书末的注释，跟放在页脚的 footnote 相对。可数。
 ① The endnotes take up sixty pages and half of them are worth reading.
 = 那些尾注占了六十页，其中一半值得读。
@@ -47333,6 +47518,7 @@ endnotes = 尾注（复数）
 构词：end 加 note
 
 endocrine
+/ˈendəʊkraɪn/
 核心：内分泌的：说把激素直接分泌进血液的腺体与系统。只作定语。
 ① The endocrine system explains why one tablet changes a whole month.
 = 内分泌系统能解释为什么一片药能改变一整个月。
@@ -47342,6 +47528,7 @@ the endocrine system = 内分泌系统
 an endocrine disorder = 内分泌失调
 
 endocrinologist
+/ˌendəʊkrɪˈnɒlədʒɪst/
 核心：内分泌科医生、内分泌学家：研究或诊治激素相关疾病的人。可数。
 ① The endocrinologist reads the numbers and asks what the sleep is like.
 = 内分泌科医生看完数值，会问睡眠怎么样。
@@ -47352,6 +47539,7 @@ see an endocrinologist = 看内分泌科
 构词：endocrinology 加 -ist
 
 endocrinology
+/ˌendəʊkrɪˈnɒlədʒi/
 核心：内分泌学：研究激素与内分泌腺的医学分支。不可数。
 ① Endocrinology is where a small number changes everything downstream.
 = 内分泌学里，一个很小的数值会把下游的一切都改掉。
@@ -47361,6 +47549,7 @@ endocrinology = 内分泌学
 a department of endocrinology = 内分泌科
 
 endogamy
+/enˈdɒɡəmi/
 核心：内婚制：只在本群体（宗族、种姓、教派）内部通婚的习俗，跟外婚制 exogamy 相对。不可数。
 ① Endogamy kept the land in four families for three centuries.
 = 内婚制让那片地在四个家族手里传了三百年。
@@ -47370,6 +47559,7 @@ endogamy = 内婚制
 strict endogamy = 严格的内婚制
 
 endogenous
+/enˈdɒdʒənəs/
 核心：（正式、科技）内生的、内源的：由内部产生的，跟外源 exogenous 相对。
 ① Endogenous hormones swamp anything a tablet can add.
 = 体内自己分泌的激素，把药片能补的那点全盖过去了。
@@ -47379,6 +47569,7 @@ endogenous hormones = 内源性激素
 endogenous growth = 内生增长
 
 endomorph
+/ˈendəʊmɔːf/
 核心：内胚型体型的人：偏圆润、容易增重的体型，
 跟外胚型 ectomorph、中胚型 mesomorph 并列。可数。
 ① An endomorph gains and loses on a slower clock than the charts assume.
@@ -47390,6 +47581,7 @@ a programme for an endomorph = 针对圆润体型的方案
 构词：endo-（内）加 -morph（形态）
 
 endoplasm
+/ˈendəʊplæzəm/
 核心：内质：细胞质靠里的那一层，比外面的外质稠。不可数，生物学用词。
 ① The endoplasm flows towards the front and the whole cell moves with it.
 = 内质向前流动，整个细胞就跟着挪。
@@ -47402,6 +47594,7 @@ Heat changes the endoplasm of a cell before anything visible happens outside.
 构词：endo-（内）加 -plasm（浆、质）
 
 endorphin
+/enˈdɔːfɪn/
 核心：内啡肽：大脑与垂体分泌的一类物质，能镇痛、带来愉悦感；
 运动、大笑、吃辣都能促它释放。可数，多用复数。
 ① Endorphins explain why the last mile feels easier than the fourth.
@@ -47446,6 +47639,7 @@ an endorsement deal = 代言合约
 an endorsement = 驾照上的违章批注
 
 endoscope
+/ˈendəʊskəʊp/
 核心：内窥镜：末端带镜头与光源的细管，用来看体内的情况，也能通过它做小手术。可数。
 ① The endoscope goes down in about four minutes and the sedation lasts longer.
 = 内窥镜四分钟左右就下去了，镇静剂的劲儿倒长得多。
@@ -47455,6 +47649,7 @@ an endoscope = 内窥镜
 insert an endoscope = 插入内窥镜
 
 endoscopy
+/enˈdɒskəpi/
 核心：内窥镜检查：用内窥镜查看消化道等体内部位。可数不可数都行。
 ① The endoscopy found nothing and the symptoms went on for a year.
 = 那次内窥镜检查什么也没查出来，症状又持续了一年。
@@ -47467,6 +47662,7 @@ She had an endoscopy on Monday and was back at work by Wednesday.
 endoscopy = 内窥镜检查技术
 
 endoskeleton
+/ˈendəʊskelɪtən/
 核心：内骨骼：长在体内的支撑骨架，脊椎动物都有；
 跟昆虫那种外骨骼 exoskeleton 相对。可数。
 ① An endoskeleton grows with the animal and never has to be shed.
@@ -47478,6 +47674,7 @@ a bony endoskeleton = 骨质内骨骼
 构词：endo-（内）加 skeleton
 
 endosperm
+/ˈendəʊspɜːm/
 核心：胚乳：种子里包着胚、供发芽用的养分组织；磨面粉磨的主要就是它。不可数。
 ① The endosperm is what the flour is made from and the bran is what gets removed.
 = 面粉磨的是胚乳，被去掉的是麸皮。
@@ -47487,6 +47684,7 @@ endosperm = 胚乳
 starchy endosperm = 含淀粉的胚乳
 
 endothermic
+/ˌendəʊˈθɜːmɪk/
 核心：两支。一是（化学）吸热的：反应要从周围吸走热量，跟放热 exothermic 相对；
 二是（生物）内温的、恒温的：靠自身代谢维持体温。
 ① An endothermic reaction makes the beaker cold enough to frost.
@@ -47515,6 +47713,7 @@ Nature endowed him with a memory for faces and none for names.
 写作 endow with：宾语放中间，说天生具备时多用被动 be endowed with。
 
 endowment
+/ɪnˈdaʊmənt/
 核心：三支。一是捐赠基金：捐出来生息、供长期使用的钱；
 二是捐资这件事；三是（正式）天赋、禀赋。可数不可数都行。
 ① The endowment pays for three posts and the building still leaks.
@@ -47534,6 +47733,7 @@ Thousands took an endowment mortgage in the eighties and got a shortfall letter 
 = 八十年代成千上万人办了与储蓄保单挂钩的房贷，后来收到了缺口通知信。
 
 endpaper
+/ˈendpeɪpə(r)/
 核心：（书的）环衬：把书芯与封面粘在一起的那两张纸，精装书上常印花纹或地图。
 可数，多用复数。
 ① The endpapers are marbled and the rest of the binding is plain.
@@ -47544,6 +47744,7 @@ endpapers = 环衬
 an endpaper = 一张环衬
 
 endurable
+/ɪnˈdjʊərəbəl/
 核心：能忍受的、挨得过去的：多用在否定或有条件的说法里。
 ① The heat is endurable in the shade and impossible out in the yard.
 = 那种热在阴凉里挨得住，到院子里就没法待。
@@ -47581,6 +47782,7 @@ Her grandparents endured hardship they described only as a difficult few years.
 endure = 持续存在
 
 enduring
+/ɪnˈdjʊərɪŋ/
 核心：持久的、经久不衰的：说影响、友谊、印象一直留着。副词 enduringly。
 ① The enduring image of that night is a man carrying a chair.
 = 那一夜留在人心里的画面，是一个搬椅子的人。
@@ -47598,6 +47800,7 @@ enduringly = 始终、持久地
 构词：enduring 加 -ly
 
 enduro
+/ɪnˈdjʊərəʊ/
 核心：耐力赛：摩托车或自行车在越野路线上的长距离比赛，比的是耐力与操控。可数。
 ① The enduro runs for six hours and the winner finishes with one working brake.
 = 那场耐力赛跑六个钟头，冠军冲线时只剩一个刹车还能用。
@@ -47607,6 +47810,7 @@ an enduro = 耐力赛
 an enduro bike = 耐力赛越野车
 
 endways
+/ˈendweɪz/
 核心：末端朝前地、竖着地：说东西以窄的一头朝前或朝上摆。美式也说 endwise。
 ① The sofa only goes through the door endways and even then it marks the frame.
 = 那沙发只有竖着才进得了门，就这样还把门框刮花。
@@ -47616,6 +47820,7 @@ endways = 竖着、末端朝前地
 stack something endways = 把某物竖着摞起来
 
 enema
+/ˈenəmə/
 核心：灌肠：把液体注进直肠以通便或做检查前清肠，也指所用的器具与药液。可数。
 ① The enema is given the night before and the appointment is at seven.
 = 灌肠是前一天晚上做的，预约在七点。
@@ -47646,6 +47851,7 @@ the enemy = 敌方
 the enemy of something = 某物的大敌
 
 energetic
+/ˌenəˈdʒetɪk/
 核心：两支。一是精力充沛的、干劲足的：说人或活动；
 二是（措施、行动）大力的、积极的。副词 energetically。
 ① An energetic ten minutes at the start saved an hour later on.
@@ -47664,6 +47870,7 @@ set about something energetically = 干劲十足地着手
 构词：energetic 加 -ally
 
 energize
+/ˈenədʒaɪz/
 核心：两支。一是使有活力、鼓起劲头：说人或团队被鼓舞起来；
 二是（技术）给…通电、使带电。英式也拼 energise。
 ① One good hire energized a team that had stopped talking.
@@ -47697,6 +47904,7 @@ An energy drink at four in the afternoon costs you the whole night.
 = 下午四点喝一瓶能量饮料，整个晚上就搭进去了。
 
 enervate
+/ˈenəveɪt/
 核心：（正式）使虚弱无力、使人提不起劲：多用被动 be enervated。名词 enervation。
 注意别混：enervate 是抽走力气，跟 energize 恰好相反，样子却像。
 ① The heat enervates everyone in the building by two in the afternoon.
@@ -47707,6 +47915,7 @@ enervate somebody = 使某人虚脱无力
 be enervated by something = 被某事耗得虚脱
 
 enervation
+/ˌenəˈveɪʃən/
 核心：（正式）虚脱、疲乏无力：被热、病或琐事耗掉力气的那种状态。不可数。
 ① The enervation of a hot afternoon empties the office by four.
 = 热午后那股虚脱劲儿，四点就把办公室腾空了。
@@ -47717,6 +47926,7 @@ a sense of enervation = 一阵提不起劲的感觉
 构词：enervate 加 -ion
 
 enfeeble
+/ɪnˈfiːbəl/
 核心：（正式）使衰弱、削弱：说病、年纪或困境把人或机构弄得没了力气。
 多用被动，形容词 enfeebled。
 ① Two winters of that work enfeebled men who had never been ill.
@@ -47727,6 +47937,7 @@ enfeeble somebody = 使某人衰弱
 be enfeebled by something = 因某事而衰弱
 
 enfeebled
+/ɪnˈfiːbəld/
 核心：衰弱的、元气大伤的：说人、机构或经济被拖得没了力气。
 ① The enfeebled old dog still walks to the gate and back twice a day.
 = 那条衰弱的老狗，每天还是去大门口走两个来回。
@@ -47736,6 +47947,7 @@ an enfeebled state = 虚弱的状态
 be enfeebled = 元气大伤的
 
 enfold
+/ɪnˈfəʊld/
 核心：（文学）裹住、抱住：用手臂、布或雾把东西整个围起来。
 ① She enfolded the child in a coat two sizes too big.
 = 她用一件大了两号的外套把孩子裹住。
@@ -47759,6 +47971,7 @@ The caretaker enforces the parking rule and the head teacher apologises for him.
 enforce something = 强制推行某事
 
 enforceable
+/ɪnˈfɔːsəbəl/
 核心：（法律上）可强制执行的：说条款或判决在法院里能落到实处。
 ① The clause is enforceable in one country and decorative in the other.
 = 那一条款在一个国家能强制执行，在另一个只是摆设。
@@ -47771,6 +47984,7 @@ A promise made over dinner is not legally enforceable, however many witnessed it
 an enforceable contract = 可强制执行的合同
 
 enforced
+/ɪnˈfɔːst/
 核心：被迫的、强制的：说停顿、休息、分离不是自愿的，是形势逼出来的。
 ① Three weeks of enforced rest did more for the knee than the physiotherapy.
 = 被迫休息的那三周，对膝盖的好处比理疗还大。
@@ -47793,6 +48007,7 @@ Law enforcement was told at seven and the reporters knew by half past.
 enforcement of a rule = 对某规定的执行
 
 enforcer
+/ɪnˈfɔːsə(r)/
 核心：两支。一是执行者：负责让规矩落地的人；
 二是（口语，多贬）打手：替团伙用威胁或暴力办事的人。可数。
 ① Every committee has an enforcer and hers keeps the minutes as well.
@@ -47803,6 +48018,7 @@ an enforcer = 执行规矩的人
 a gang enforcer = 团伙打手
 
 enfranchise
+/ɪnˈfræntʃaɪz/
 核心：（正式）赋予选举权：让某群体获得投票资格，跟 disenfranchise 相对。
 多用被动，名词 enfranchisement。
 ① The act enfranchised two million people and named none of them.
@@ -47813,6 +48029,7 @@ enfranchise somebody = 赋予某人选举权
 be enfranchised = 获得选举权
 
 enfranchisement
+/ɪnˈfræntʃɪzmənt/
 核心：（正式）取得选举权、赋予选举权这件事。不可数。
 ① Enfranchisement came in stages and each stage took a generation.
 = 选举权是一步步给的，每一步都要一代人。
@@ -47823,6 +48040,7 @@ the enfranchisement of somebody = 某群体获得选举权
 构词：enfranchise 加 -ment
 
 eng.
+/ˌendʒɪˈnɪərɪŋ/
 核心：（书面缩写）两支。一是 engineer 工程师或 engineering 工程；
 二是 English 英语、英格兰的。只写不说，多见于名片、课表与目录。
 ① The card says eng. and gives no hint which kind of engineer.
@@ -47916,6 +48134,7 @@ talk engagingly = 谈吐讨喜
 构词：engaging 加 -ly
 
 engender
+/ɪnˈdʒendə(r)/
 核心：（正式）引起、生出（某种感觉或局面）：多接抽象的东西。
 ① Delay engenders suspicion faster than a bad answer does.
 = 拖延引起的猜疑，比一个糟糕的答复来得还快。
@@ -48024,6 +48243,7 @@ an Englishman = 英格兰男人
 an Englishman's home is his castle = 私宅不容外人插手
 
 Englishwoman
+/ˈɪŋɡlɪʃwʊmən/
 核心：英格兰女人，复数 Englishwomen。
 ① The Englishwoman who bought the mill has already restored the wheel.
 = 买下那座磨坊的英格兰女人，已经把水轮修好了。
@@ -48033,6 +48253,7 @@ an Englishwoman = 英格兰女人
 Englishwomen = 英格兰女人（复数）
 
 engorge
+/ɪnˈɡɔːdʒ/
 核心：（正式或医学）使充血、胀满：多用被动 be engorged with something。
 ① The tissue engorges with blood and the swelling goes down by morning.
 = 那处组织充血肿起来，到早上就消了。
@@ -48042,6 +48263,7 @@ be engorged with blood = 充血肿胀
 engorge = 胀满、吸胀
 
 engrained
+/ɪnˈɡreɪnd/
 核心：根深蒂固的：说习惯、观念、偏见深到改不动。也拼 ingrained。
 ① The habit is engrained and no memo has ever changed it.
 = 那个习惯根深蒂固，什么通知都改不动它。
@@ -48051,6 +48273,7 @@ engrained habits = 根深蒂固的习惯
 be engrained = 根深蒂固
 
 engrave
+/ɪnˈɡreɪv/
 核心：两支。一是雕刻、镌刻：在金属、玻璃或石头上刻字或图案；
 二是（比喻）深深刻在（记忆里）。人是 engraver，作品是 engraving。
 ① They engrave the name inside the ring and charge by the letter.
@@ -48064,6 +48287,7 @@ They engraved his name on a bench facing the water he swam in.
 be engraved on somebody's memory = 深深刻在某人记忆里
 
 engraver
+/ɪnˈɡreɪvə(r)/
 核心：雕刻师、镌版师：在金属或木头上刻字刻图的人，从前也指制版的匠人。可数。
 ① The engraver works from a photograph and never meets the family.
 = 那位雕刻师照着照片刻，从不见家属。
@@ -48074,6 +48298,7 @@ engravers = 雕刻师（复数）
 构词：engrave 加 -er
 
 engraving
+/ɪnˈɡreɪvɪŋ/
 核心：两支。一是版画：从刻好的板上印出来的画；
 二是雕刻：这门手艺，也指刻出来的字迹。可数不可数都行。
 ① The engraving hung in the hall and nobody knew who had made it.
@@ -48084,6 +48309,7 @@ an engraving = 版画
 engraving = 刻出来的字迹
 
 engross
+/ɪnˈɡrəʊs/
 核心：两支。一是使全神贯注：多用被动 be engrossed in something；
 二是（法律）誊写正式文本。形容词有 engrossed 与 engrossing。
 ① The film engrosses children who will not sit still for anything else.
@@ -48094,6 +48320,7 @@ engross somebody = 使某人全神贯注
 engross a document = 誊写正式文书
 
 engrossed
+/ɪnˈɡrəʊst/
 核心：全神贯注的、看得入神的：搭 be engrossed in something。
 ① She was engrossed in a catalogue of tools she has no use for.
 = 她看一本自己根本用不上的工具目录，看得入了神。
@@ -48103,6 +48330,7 @@ be engrossed in something = 全神贯注于某物
 look engrossed = 一副入神的样子
 
 engrossing
+/ɪnˈɡrəʊsɪŋ/
 核心：引人入胜的、让人看得入神的：说书、电影、比赛。
 ① The match was engrossing for eighty minutes and settled in the last one.
 = 那场比赛让人看了八十分钟，最后一分钟才见分晓。
@@ -48115,6 +48343,7 @@ An engrossing book made him miss his stop twice in one week.
 be engrossing = 让人全神贯注
 
 engulf
+/ɪnˈɡʌlf/
 核心：两支。一是（水、火、烟）吞没、席卷：把东西整个盖住；
 二是（比喻）（情绪、危机）压倒、笼罩。多用被动。
 ① Flames engulfed the roof in four minutes and the walls stood.

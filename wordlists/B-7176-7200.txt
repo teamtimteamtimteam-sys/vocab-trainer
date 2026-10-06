@@ -10,6 +10,7 @@ electrolyte = 电解液
 electrolyte balance = 电解质平衡
 
 electrolytic
+/ɪˌlektrəˈlɪtɪk/
 核心：电解的：跟电解过程有关的。只作定语。
 ① The electrolytic cell needs a membrane that outlasts the electrodes.
 = 电解槽需要一张比电极更耐用的隔膜。
@@ -20,6 +21,7 @@ an electrolytic capacitor = 电解电容
 构词：electrolysis 的形容词
 
 electromagnet
+/ɪˌlektrəʊˈmæɡnɪt/
 核心：电磁铁：通电才有磁性、断电就没有的磁铁，线圈绕铁芯做成。可数。
 ① The electromagnet holds the door shut until the alarm cuts the current.
 = 电磁铁把门吸住，直到警报切断电流。
@@ -29,6 +31,7 @@ an electromagnet = 电磁铁
 a scrapyard electromagnet = 废车场用的电磁铁
 
 electromagnetic
+/ɪˌlektrəʊmæɡˈnetɪk/
 核心：电磁的：跟电与磁互相作用有关的。
 electromagnetic radiation 从无线电波一直排到伽马射线。
 ① The electromagnetic spectrum runs from radio waves all the way to gamma rays.
@@ -39,6 +42,7 @@ the electromagnetic spectrum = 电磁波谱
 electromagnetic interference = 电磁干扰
 
 electromagnetism
+/ɪˌlektrəʊˈmæɡnɪtɪzəm/
 核心：电磁学、电磁作用：把电与磁当作同一种基本作用来看的理论与现象。不可数。
 ① Electromagnetism unified two subjects that had been taught separately for a century.
 = 电磁学把分开教了一个世纪的两门学问统一了起来。
@@ -48,6 +52,7 @@ electromagnetism = 电磁学
 work by electromagnetism = 靠电磁作用工作
 
 electrometer
+/ˌɪlekˈtrɒmɪtə(r)/
 核心：静电计：测量极小电荷或电位差的仪器。可数。
 ① The electrometer reads charges too small for any other meter in the room.
 = 静电计读得出屋里别的仪表都测不到的微小电荷。
@@ -106,6 +111,7 @@ an electronic signature = 电子签名
 electronic tagging = 电子监控（戴脚镣定位）
 
 electronically
+/ɪˌlekˈtrɒnɪkli/
 核心：以电子方式：说提交、支付、储存、控制通过电子系统来做。
 ① The form must be submitted electronically and posted copies are returned.
 = 那张表必须电子提交，寄纸质件会被退回。
@@ -127,6 +133,7 @@ electronics = 电子学
 the electronics = 电子部件
 
 electroplate
+/ɪˈlektrəpleɪt/
 核心：电镀：靠电解把一层薄金属镀到另一件金属上，如镀银、镀铬；
 也作名词，指电镀的器皿。
 ① They electroplate the handles in nickel and the coating lasts a decade.
@@ -137,6 +144,7 @@ electroplate something = 给某物电镀
 electroplate = 电镀器皿
 
 electrostatic
+/ɪˌlektrəʊˈstætɪk/
 核心：静电的：跟静止不动的电荷有关；静电除尘器与复印机都靠它工作。只作定语。
 ① An electrostatic charge on the film picks up every speck of dust.
 = 胶片上的静电荷把每一粒灰尘都吸了上来。
@@ -146,6 +154,7 @@ an electrostatic charge = 静电荷
 an electrostatic precipitator = 静电除尘器
 
 elegance
+/ˈelɪɡəns/
 核心：两支。一是优雅、雅致：说人、衣着、举止；
 二是（方案、证明的）简洁精妙：做法干净利落、不多不少。不可数。
 ① The elegance of the room comes from what was left out of it.
@@ -178,6 +187,7 @@ be elegantly stated = 表述得简洁漂亮
 构词：elegant 加 -ly
 
 elegiac
+/ˌelɪˈdʒaɪək/
 核心：（正式、文学）挽歌般的、哀婉怀旧的：说文字或音乐带着追怀与惋惜的调子。
 ① The last chapter is elegiac and the rest of the book is not.
 = 最后一章调子哀婉，全书其余部分不是。
@@ -190,6 +200,7 @@ an elegiac tone = 哀婉的调子
 an elegiac couplet = 挽歌双行体
 
 elegy
+/ˈelɪdʒi/
 核心：挽歌、哀歌：悼念死者或追怀逝去之物的诗文与乐曲。可数，复数 elegies。
 ① The elegy was written for one man and read at a hundred funerals since.
 = 那首挽歌本是为一个人写的，此后在上百场葬礼上被诵读。
@@ -227,6 +238,7 @@ be in your element = 如鱼得水
 the element = 电水壶、电炉里的发热元件
 
 elemental
+/ˌelɪˈmentəl/
 核心：两支。一是（正式）最根本的、本原的；
 二是（文学）像自然力一样原始而强大的。
 ① The argument comes down to an elemental question about who pays.
@@ -281,6 +293,7 @@ an elephant seal = 象海豹
 elephantine = 笨重庞大的
 
 elephantiasis
+/ˌelɪfənˈtaɪəsɪs/
 核心：象皮病：淋巴管被寄生虫堵塞造成肢体或阴囊极度肿大增厚，
 是淋巴丝虫病的晚期表现。不可数。
 ① Elephantiasis is preventable and still disables people in a dozen countries.
@@ -306,6 +319,7 @@ elevate somebody to something = 把某人提升到某职位
 elevate something = 提升某物的水准
 
 elevated
+/ˈelɪveɪtɪd/
 核心：三支。一是升高的、架高的：an elevated railway；
 二是（数值）偏高的：elevated blood pressure；三是（文体、地位）高雅的。
 ① The elevated railway runs above the shops and everybody upstairs knows the timetable.
@@ -319,6 +333,7 @@ elevated blood pressure = 血压偏高
 an elevated tone = 高雅的文风
 
 elevating
+/ˈelɪveɪtɪŋ/
 核心：（正式）令人向上的、使人精神提升的：说读物或经历让人见识、境界提高。
 如今用起来常带一点戏谑。
 ① The book is elevating in a way that makes it hard to finish.

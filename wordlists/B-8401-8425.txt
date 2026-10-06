@@ -1,4 +1,5 @@
 falsies
+/ˈfɔːlsiz/
 核心：（非正式）垫胸的假衬垫：缝在内衣或戏服里的那种。作复数。
 ① The costume came with falsies sewn into the lining.
 = 那套戏服的衬里缝着假衬垫。
@@ -8,6 +9,7 @@ falsies = 垫胸假衬垫
 spare falsies = 备用的假衬垫
 
 falsification
+/ˌfɔːlsɪfɪˈkeɪʃən/
 核心：两支。一是伪造、篡改（记录、数据）；二是（科学哲学）证伪。不可数。
 ① Falsification of the log book cost the captain his licence.
 = 篡改航海日志，让那位船长丢了执照。
@@ -18,6 +20,7 @@ falsification = 证伪
 构词：falsify 加 -ation
 
 falsify
+/ˈfɔːlsɪfaɪ/
 核心：两支。一是伪造、篡改（文件、账目）：falsify records；
 二是（科学哲学）证伪：拿证据推翻一个说法。名词 falsification。
 ① He falsified the mileage and the garage turned out to keep its own record.
@@ -28,6 +31,7 @@ falsify records = 篡改记录
 falsify a theory = 证伪一个理论
 
 falsity
+/ˈfɔːlsɪti/
 核心：（正式）虚假、不实：说陈述本身是假的。不可数。
 ① The falsity of the claim took one phone call to establish.
 = 那个说法是假的，打一通电话就查实了。
@@ -37,6 +41,7 @@ the falsity of something = 某说法的虚假
 falsity = 不实
 
 Falstaffian
+/fɔːlˈstɑːfiən/
 核心：（文学）福斯塔夫式的：像莎剧里那个又胖又贪杯、爱吹牛却讨人喜欢的角色。
 ① A Falstaffian figure at the bar told the same story to four different groups.
 = 酒吧里一个福斯塔夫式的人物，把同一个故事对四拨人各讲了一遍。
@@ -46,6 +51,7 @@ a Falstaffian figure = 福斯塔夫式的人物
 Falstaffian = 福斯塔夫式的
 
 falter
+/ˈfɔːltə(r)/
 核心：两支。一是（声音、脚步）发颤、踉跄；二是（信心、经济、需求）动摇、走弱。
 形容词 faltering。
 ① Her voice faltered on the second name and steadied for all the rest.
@@ -56,6 +62,7 @@ somebody's voice falters = 某人声音发颤
 falter = 走弱、动摇
 
 faltering
+/ˈfɔːltərɪŋ/
 核心：踉跄的、迟疑的、不稳的：多修饰 steps、voice、attempt、recovery。
 ① The faltering recovery shows up in the figures and not on the street.
 = 那场步履蹒跚的复苏，只在数字里看得见，街面上看不出。
@@ -65,6 +72,7 @@ a faltering recovery = 步履蹒跚的复苏
 faltering steps = 蹒跚的脚步
 
 fam
+/fæm/
 核心：（非正式，年轻人用语）「家人」：拿来称呼要好的朋友，也指自己那一伙人。
 ① He calls everybody fam and remembers about half of their names.
 = 他管谁都叫「家人」，名字大概记得一半。
@@ -95,6 +103,7 @@ be famed for something = 以某物闻名
 famed = 著名的
 
 familial
+/fəˈmɪliəl/
 核心：（正式、医学）家族的、家庭的：多说 familial ties、a familial disease。
 ① Familial ties decide who gets the shop and the law decides everything else.
 = 谁接手那家店由家族关系定，其余一切由法律定。
@@ -127,6 +136,7 @@ be familiarly known as something = 俗称某名
 构词：familiar 加 -ly
 
 familiarity
+/fəˌmɪliˈærɪti/
 核心：两支。一是熟悉、通晓：familiarity with something；二是（贬）过分随便。
 谚语 familiarity breeds contempt，亲近生轻慢。
 ① Familiarity with the route matters more than speed on that road.
@@ -137,6 +147,7 @@ familiarity with something = 对某事的熟悉
 familiarity breeds contempt = 亲近生轻慢
 
 familiarization
+/fəˌmɪliəraɪˈzeɪʃən/
 核心：（正式）熟悉过程、上手培训：让人先把环境或设备摸熟。
 英式也拼 familiarisation。不可数。
 ① A day of familiarization saves a week of mistakes on the line.
@@ -148,6 +159,7 @@ a familiarization visit = 熟悉环境的参观
 构词：familiarize 加 -ation
 
 familiarize
+/fəˈmɪliəraɪz/
 核心：（正式）使熟悉：最常用的是 familiarize yourself with something，
 先把某事摸熟。英式也拼 familiarise。
 ① Familiarize yourself with the exits before you unpack anything.
@@ -233,6 +245,7 @@ Famine relief reached the coast in a fortnight and the hills in two months.
 feast or famine = 忽多忽少、旱涝不均
 
 famished
+/ˈfæmɪʃt/
 核心：（非正式，夸张）饿坏了：多作表语，be famished，比 hungry 重得多。
 ① By four o'clock the children were famished and the cake was purely decorative.
 = 到四点孩子们饿坏了，那块蛋糕纯粹是摆设。
@@ -253,6 +266,7 @@ be famous for something = 因某事而出名
 famous last words = 这话说得太早
 
 famously
+/ˈfeɪməsli/
 核心：两支。一是众所周知地：he famously refused；
 二是（略旧）get on famously，相处得极好。
 ① He famously refused the medal and quietly accepted the pension.
@@ -328,6 +342,7 @@ fanatically loyal = 死心塌地地忠诚
 构词：fanatical 加 -ly
 
 fanaticism
+/fəˈnætɪsɪzəm/
 核心：（贬）狂热：不容异见、一路走极端的那种劲头。不可数。
 ① Fanaticism starts as commitment and loses the ability to stop.
 = 狂热起初是投入，后来是停不下来。
@@ -337,6 +352,7 @@ fanaticism = 狂热
 religious fanaticism = 宗教狂热
 
 fanboy
+/ˈfænbɔɪ/
 核心：（非正式，常带调侃或贬义）死忠男粉：对某个品牌或作品一味护短的人。
 可数；女性一侧的说法是 fangirl。
 ① A fanboy will defend the second film against the people who made it.
