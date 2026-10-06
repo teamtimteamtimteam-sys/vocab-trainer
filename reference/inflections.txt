@@ -282,3 +282,5 @@ nodal        node           # 形容词并进 node 条后，前四字母对不�
 nosily       nosy           # 副词并进 nosy 条后，前四字母对不上
 nosiness     nosy           # 名词并进 nosy 条后，前四字母对不上
 non-committally committal   # 副词并在 committal 条（同 non-committal）
+numskull     numbskull      # 拼法变体；在 numbskull 条配等式
+nudie        nude           # 口语派生，并在 nude 条；前四字母对不上

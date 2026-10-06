@@ -1256,3 +1256,15 @@ no side      # 英式橄榄球窄专业
 non          # 词缀截出来的残片（同 neo）
 nor-easter   # 清单的清洗伪影，即 nor'easter（已收）
 ne-er-do-well # 清单的清洗伪影，即 ne'er-do-well（已并在 ne'er 条）
+nuffin       # 方言拼写（nothing 的变体）
+nullah       # 印度
+numpty       # 苏格兰
+nu metal     # 音乐窄类名
+nut out      # 澳新
+nyama choma  # 东非食物名
+nyatiti      # 东非
+ndugu        # 东非
+ngoma        # 东非
+nshima       # 南部非洲食物名
+nr           # 小写排版缩写（near）
+ns           # 小写单位缩写（nanosecond）
