@@ -1,4 +1,5 @@
 heptagon
+/ˈheptəɡən/
 核心：七边形：七条边、七个角的多边形。可数，形容词 heptagonal 并入本条。
 这个词有个日常落点：英国的五十便士与二十便士硬币都是七边形，
 而且是等宽的曲边七边形 —— 不管怎么转，横过来的宽度不变，
@@ -14,6 +15,7 @@ a heptagon with curved sides = 曲边七边形
 heptagonal = 七边形的
 
 heptahedron
+/ˌheptəˈhiːdrən/
 核心：七面体：有七个面的多面体。可数，复数 heptahedra，也写 heptahedrons；
 形容词 heptahedral。
 几何术语，日常用不到；它值得记的是构词规则 ——
@@ -29,6 +31,7 @@ a regular heptahedron = 正七面体
 heptahedra = 七面体（复数）
 
 heptameter
+/hepˈtæmɪtə(r)/
 核心：七音步诗行：每行七个音步的诗句。可数，韵律学术语。
 英语诗里少见，原因很实在：七音步太长，朗读时几乎总会断成四加三 ——
 一断开，剩下的就是英语里最常见的那种民谣体。
@@ -44,6 +47,7 @@ heptameters = 七音步诗行（复数）
 break a heptameter = 把七音步断开
 
 heptathlon
+/hepˈtæθlən/
 核心：七项全能：女子田径的综合项目，两天赛七项 ——
 第一天一百米栏、跳高、铅球、二百米，第二天跳远、标枪、八百米。
 可数，选手是 a heptathlete。
@@ -60,6 +64,7 @@ lead the heptathlon = 在七项全能中领先
 heptathletes = 七项全能选手
 
 her
+/hə(r)/（弱读）/hɜː(r)/（强读）
 核心：两个身份，别搞混 ——
 一是 she 的宾格：放在动词或介词后面（I saw her）；
 二是所有格限定词：后面必须跟名词（her coat）。
@@ -111,6 +116,7 @@ be heralded as something = 被誉为某物
 herald something = 预示某事
 
 heraldic
+/həˈrældɪk/
 核心：纹章的、纹章学的 —— 只作定语：heraldic devices、a heraldic shield、
 heraldic colours。
 纹章有一条硬规矩叫「色料律」：金银两种「金属」不能压在一起，
@@ -126,6 +132,7 @@ a heraldic shield = 纹章盾徽
 heraldic colours = 纹章用色
 
 heraldry
+/ˈherəldri/
 核心：纹章学：设计、授予、描述与考证纹章的那一整套学问与制度。不可数。
 它有自己的语言 —— 用固定的词序把一面盾徽完整描述出来，读的人据此就能画；
 也有自己的官署，英国的纹章院至今仍在授予新纹章。
@@ -160,6 +167,7 @@ a herb = 一株香草
 herbs = 香草、药草（复数）
 
 herbaceous
+/hɜːˈbeɪʃəs/
 核心：草本的 —— 植物学上指茎柔软、不木质化、地上部分每年枯死的植物，
 跟 woody（木本的）相对。只作定语。
 园艺上最常见的搭配是 a herbaceous border：一条专种宿根草本花卉的花境，
@@ -175,6 +183,7 @@ herbaceous plants = 草本植物
 be herbaceous = 是草质的
 
 herbage
+/ˈhɜːbɪdʒ/
 核心：（正式、农业）草被、草料 —— 田野与牧场上长出来的那一层草本植物，
 尤其指可供牲畜采食的部分。不可数。
 比 grass 宽：禾本草之外的阔叶草本也算；比 pasture 窄：
@@ -214,6 +223,7 @@ herbalism = 草药疗法
 a herbalist = 草药师
 
 herbarium
+/hɜːˈbeəriəm/
 核心：腊叶标本馆，也指其中的标本集 —— 把植物压干、装裱在台纸上、
 按分类编排保存的地方。可数，复数 herbaria，也写 herbariums。
 它是植物学的基础设施：一个物种的学名最终要靠一份指定的模式标本来定，
@@ -229,6 +239,7 @@ the herbarium = 腊叶标本馆
 herbaria = 腊叶标本馆（复数）
 
 herbicide
+/ˈhɜːbɪsaɪd/
 核心：除草剂：杀死植物、尤其是杂草的农药。可数与不可数都有。
 按作用范围分两类：选择性的只杀阔叶草而不伤禾本作物，
 灭生性的见绿就杀。
@@ -244,6 +255,7 @@ herbicide resistance = 除草剂抗性
 use herbicide = 使用除草剂
 
 herbivore
+/ˈhɜːbɪvɔː(r)/
 核心：食草动物：以植物为食的动物 —— 跟 carnivore（食肉动物）成对记，
 两者之间还有个既吃肉又吃植物的类别。可数，形容词 herbivorous 并入本条。
 有一处反直觉：食草动物的消化道往往比食肉动物长得多 ——
@@ -259,6 +271,7 @@ herbivores = 食草动物（复数）
 herbivorous = 食草的
 
 Herculean
+/ˌhɜːkjʊˈliːən/
 核心：来自希腊神话里的大力士赫拉克勒斯（拉丁名 Hercules），
 他完成过十二件几乎不可能完成的苦差 —— 这个形容词取的就是那份「苦」与「力」。
 主要一支是「（任务）极其艰巨的、要花极大力气与毅力的」，几乎总修饰
@@ -414,6 +427,7 @@ look here = 听着、喂（表示不满）
 开口就带着责备，跟真的叫人「看这里」无关。
 
 hereabouts
+/ˌhɪərəˈbaʊts/
 核心：here 加 about，意思是「在这附近、这一带」。
 放句末或紧跟在名词后面，口气偏旧、偏乡间，城里的口语更常说 round here。
 美式里也写作不带 s 的形式，意思不变。
@@ -426,6 +440,7 @@ something hereabouts = 这一带的某物
 紧跟在名词后面作定语，相当于 in this area。
 
 hereafter
+/ˌhɪərˈɑːftə(r)/
 核心：here 加 after，两支。
 一是（正式）从今以后、此后：多见于公告、规章与庄重的文体；
 二是名词 the hereafter：来世、死后的世界，总带 the。
@@ -458,6 +473,7 @@ hereby certify = 兹证明
 证明书、检验报告里的套语，中文对应「兹」。
 
 hereditary
+/həˈredɪtəri/
 核心：来自拉丁语「继承人」一词，跟 heir、heritage 同源 —— 本意是「按继承传下来的」。
 两支：一是生物上的「遗传的」—— 病、特征由父母传给子女；
 二是社会与法律上的「世袭的」—— 头衔、职位、权利按血缘传给下一代：
@@ -480,6 +496,7 @@ a hereditary peer = 世袭贵族（英国）
 the hereditary principle = 世袭原则
 
 heredity
+/həˈredɪti/
 核心：hereditary 的名词：遗传 —— 特征由父母传给子女的过程。不可数。
 最常跟 environment 成对出现，讨论先天与后天各占几分。
 跟 heritage 的分别：heritage 是文化与历史意义上「传下来的东西」，
@@ -506,6 +523,7 @@ herein lies the problem = 问题就在于此
 书面倒装，herein 指上文刚说的那件事；也可换成 herein lies the difference。
 
 hereinafter
+/ˌhɪərɪnˈɑːftə(r)/
 核心：here 加 in 加 after，「在下文中」。只见于法律与合同文书，
 最典型的是 hereinafter referred to as（以下简称），给一个长名称定下简称，
 此后全文都用简称。

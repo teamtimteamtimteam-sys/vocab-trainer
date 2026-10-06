@@ -1,4 +1,5 @@
 hyperbaric
+/ˌhaɪpəˈbærɪk/
 核心：高压的 —— 气压高于正常大气压的。复合词 hyperbaric chamber（高压氧舱）并入本条。
 ① The diver was treated in a hyperbaric chamber after coming up too fast.
 = 那个潜水员上浮太快，被送进高压氧舱治疗。
@@ -8,6 +9,7 @@ a hyperbaric chamber = 高压氧舱
 hyperbaric oxygen therapy = 高压氧疗法
 
 hyperbola
+/haɪˈpɜːbələ/
 核心：（数学）双曲线。可数。
 ① The path of the comet traces a hyperbola around the sun.
 = 那颗彗星绕太阳运行的轨迹是一条双曲线。
@@ -27,6 +29,7 @@ it is no hyperbole to say that = 说…并不夸张
 full of hyperbole = 满是夸张之辞
 
 hyperbolic
+/ˌhaɪpəˈbɒlɪk/
 核心：两个来源：一是 hyperbole 的形容词 —— 夸张的、言过其实的；
 二是 hyperbola 的形容词 —— （数学）双曲线的。
 ① The press gave the match a hyperbolic build-up, calling it the game of the century.
@@ -37,6 +40,7 @@ hyperbolic = 夸张的
 hyperbolic functions = 双曲函数
 
 hypercorrection
+/ˌhaɪpəkəˈrekʃən/
 核心：（语言学）矫枉过正 —— 为了显得规范而用错，比如说 between you and I。不可数。
 ① Saying "between you and I" is a classic hypercorrection.
 = 说「between you and I」是典型的矫枉过正。
@@ -46,6 +50,7 @@ a hypercorrection = 矫枉过正的用法
 hypercorrection = 矫枉过正
 
 hyperglycaemia
+/ˌhaɪpəɡlaɪˈsiːmiə/
 核心：（医学）高血糖。不可数。美式拼作 hyperglycemia。反义是低血糖。
 ① Untreated diabetes can lead to severe hyperglycaemia, and patients may feel thirsty all the time.
 = 糖尿病不加治疗会导致严重的高血糖，病人可能一直口渴。
@@ -55,6 +60,7 @@ hyperglycaemia = 高血糖
 hyperglycemia = 高血糖（美式拼法）
 
 hyperinflation
+/ˌhaɪpərɪnˈfleɪʃən/
 核心：恶性通货膨胀 —— 物价在短期内飞涨、货币几乎失去价值。不可数。
 ① During the hyperinflation, workers were paid twice a day so they could shop before prices rose again.
 = 恶性通胀期间，工人一天领两次工资，好赶在物价再涨之前去买东西。
@@ -64,6 +70,7 @@ hyperinflation = 恶性通货膨胀
 be wiped out by hyperinflation = 被恶性通胀摧毁
 
 hyperlink
+/ˈhaɪpəlɪŋk/
 核心：超链接 —— 点一下就跳到另一页或另一个文件的文字或图片。名词、动词同形。
 ① Click the hyperlink in the email to confirm your address.
 = 点击邮件里的超链接确认你的地址。
@@ -73,6 +80,7 @@ a hyperlink = 超链接
 be hyperlinked to something = 链接到某处
 
 hypermarket
+/ˈhaɪpəmɑːkɪt/
 核心：（英式）特大型超市 —— 通常开在城郊、同时卖食品和百货的超大商场。
 ① They drove to the hypermarket on the ring road to do the monthly shop.
 = 他们开车到环路边的特大超市去做每月一次的采购。
@@ -82,6 +90,7 @@ a hypermarket = 特大型超市
 the new hypermarket = 新开的特大超市
 
 hypermetropia
+/ˌhaɪpəmɪˈtrəʊpiə/
 核心：（医学）远视 —— 看近处模糊、看远处清楚。不可数，日常说 long-sightedness。
 ① The optician found mild hypermetropia and prescribed reading glasses.
 = 验光师发现有轻度远视，开了老花镜。
@@ -91,6 +100,7 @@ hypermetropia = 远视
 hypermetropia in children = 儿童远视
 
 hypernym
+/ˈhaɪpənɪm/
 核心：（语言学）上位词 —— 概括一组词的上层词，比如「颜色」是「红」「蓝」的上位词。
 反义是下位词。
 ① In this dictionary, each noun links to its hypernym, so dog leads to animal.
@@ -101,6 +111,7 @@ a hypernym = 上位词
 find a hypernym for something = 为…找上位词
 
 hypersensitive
+/ˌhaɪpəˈsensɪtɪv/
 核心：过度敏感的 —— 一是对批评、情绪反应过于敏感；二是（医学）对某种物质过敏。
 名词 hypersensitivity 并入本条。
 ① He's hypersensitive about his height and hates any joke about it.
@@ -114,6 +125,7 @@ be hypersensitive to something = 对某物过敏
 hypersensitivity = 过度敏感
 
 hyperspace
+/ˈhaɪpəspeɪs/
 核心：（科幻）超空间 —— 比普通空间多出维度、能让飞船超光速穿行的空间；数学上指高维空间。
 ① The ship jumped into hyperspace and the stars turned into streaks of light.
 = 飞船跃入超空间，星星都变成了一道道光线。
@@ -123,6 +135,7 @@ jump into hyperspace = 跃入超空间
 hyperspace = 高维空间（数学）
 
 hypertension
+/ˌhaɪpəˈtenʃən/
 核心：（医学）高血压 —— 日常说 high blood pressure。不可数。
 形容词 hypertensive（高血压的；高血压患者）并入本条。
 ① Hypertension often has no symptoms, so regular checks matter.
@@ -136,6 +149,7 @@ suffer from hypertension = 患高血压
 hypertensive = 高血压的
 
 hypertext
+/ˈhaɪpətekst/
 核心：超文本 —— 含有可点击链接、能跳转到其他文本的电子文本。不可数。
 ① The early web was built on hypertext, pages linked to other pages.
 = 早期的网络是建立在超文本上的，一页链接着另一页。
@@ -145,6 +159,7 @@ hypertext = 超文本
 be published as hypertext = 以超文本形式出版
 
 hyperthyroidism
+/ˌhaɪpəˈθaɪrɔɪdɪzəm/
 核心：（医学）甲状腺功能亢进，简称甲亢。不可数。
 ① Weight loss and a racing heart can be signs of hyperthyroidism.
 = 体重下降和心跳过快可能是甲亢的征兆。
@@ -154,6 +169,7 @@ hyperthyroidism = 甲状腺功能亢进
 be treated for hyperthyroidism = 接受甲亢治疗
 
 hypertrophy
+/haɪˈpɜːtrəfi/
 核心：（医学）肥大 —— 器官或组织因细胞增大而变大；健身里指肌肉增大。不可数。
 ① Years of high blood pressure had caused hypertrophy of the heart muscle.
 = 多年的高血压导致心肌肥厚。
@@ -163,6 +179,7 @@ hypertrophy of something = …的肥大
 muscle hypertrophy = 肌肉增大
 
 hyperventilate
+/ˌhaɪpəˈventɪleɪt/
 核心：换气过度 —— 呼吸太快太深，常因惊慌引起，会导致头晕。
 名词 hyperventilation 并入本条。
 ① She started to hyperventilate in the lift and had to sit on the floor.
@@ -190,6 +207,7 @@ hyphenate something = 用连字符连接某词
 hyphenation = 连字符的使用
 
 hypnopaedia
+/ˌhɪpnəˈpiːdiə/
 核心：睡眠学习法 —— 睡觉时播放录音、让人在睡梦中学习的方法。不可数。
 ① The course promised to teach French by hypnopaedia, with tapes played overnight.
 = 那门课程声称用睡眠学习法教法语，整夜播放录音带。
@@ -199,6 +217,7 @@ hypnopaedia = 睡眠学习法
 hypnopaedia works = 睡眠学习法有效
 
 hypnosis
+/hɪpˈnəʊsɪs/
 核心：催眠；催眠状态。不可数。常说 under hypnosis（在催眠状态下）。
 ① Under hypnosis he remembered details of the accident he had forgotten.
 = 在催眠状态下，他想起了事故中早已忘记的细节。
@@ -211,6 +230,7 @@ try hypnosis = 试用催眠
 put somebody under hypnosis = 使某人进入催眠状态
 
 hypnotherapy
+/ˌhɪpnəʊˈθerəpi/
 核心：催眠疗法。不可数。施行这种疗法的人叫 hypnotherapist，并入本条。
 ① He turned to hypnotherapy after years of trying to beat his fear of flying.
 = 多年试图克服恐飞症无果之后，他转而求助于催眠疗法。
@@ -220,6 +240,7 @@ hypnotherapy = 催眠疗法
 a hypnotherapist = 催眠治疗师
 
 hypnotic
+/hɪpˈnɒtɪk/
 核心：催眠的；使人昏昏欲睡的 —— 比喻节奏、声音让人着迷、入神。也作名词：安眠药。
 ① The hypnotic rhythm of the train sent her to sleep.
 = 火车催眠般的节奏让她睡着了。
@@ -229,6 +250,7 @@ hypnotic = 催眠般的、让人入神的
 a hypnotic = 安眠药
 
 hypnotism
+/ˈhɪpnətɪzəm/
 核心：催眠术。不可数。施催眠术的人叫 hypnotist，并入本条。
 ① Stage hypnotism was a popular act in Victorian music halls.
 = 舞台催眠术是维多利亚时代杂耍剧场里很受欢迎的节目。
@@ -238,6 +260,7 @@ hypnotism = 催眠术
 a hypnotist = 催眠师
 
 hypnotize
+/ˈhɪpnətaɪz/
 核心：对…施催眠术；比喻迷住、使着迷。英式也拼 hypnotise。
 ① The volunteer was hypnotized in less than a minute.
 = 那个志愿者不到一分钟就被催眠了。

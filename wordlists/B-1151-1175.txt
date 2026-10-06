@@ -1,4 +1,5 @@
 antipathetic
+/ˌæntɪpəˈθetɪk/
 核心：底层是"感情上抵触"。既可以说人对某事"打心底反感"，
 也可以说某事物"令人反感"，方向两头都通。名词是 antipathy。
 正式用语。
@@ -16,6 +17,7 @@ antipathetic = 反感的（正式，情绪上抵触）
 sympathetic = 有好感的（反义）
 
 antipathy
+/ænˈtɪpəθi/
 核心：指本能的"反感、厌恶"，正式。介词用 towards 或 to。
 不可数为主。
 ① He feels antipathy towards bureaucracy of a kind that thirty years in it has only sharpened.
@@ -35,6 +37,7 @@ aversion = 厌恶（想躲开）
 dislike = 不喜欢（通用）
 
 antiperspirant
+/ˌæntiˈpɜːspərənt/
 核心：指"止汗剂"——靠铝盐暂时堵住汗腺口来减少出汗。注意它跟
 除臭剂不是一回事：止汗剂管的是"少出汗"，除臭剂管的是"不发臭"，
 很多产品两样都做，所以标签上常并列写。
@@ -51,6 +54,7 @@ antiperspirant = 止汗剂（减少出汗）
 deodorant = 除臭剂（压住气味）
 
 Antipodean
+/ænˌtɪpəˈdiːən/
 核心：底层是"脚底相对的地方"——从欧洲看过去，地球正对面就是
 澳大利亚和新西兰，所以英式英语拿这个词指那两个国家的人和事。
 名词 the Antipodes 就指那一带。带点旧派和戏谑的口气。
@@ -70,6 +74,7 @@ the Antipodes = 澳大利亚与新西兰一带
 略带旧派与戏谑，正式文本少用。
 
 antiquarian
+/ˌæntɪˈkweəriən/
 核心：指"古物古书的"，也作名词指专门研究或买卖古物古籍的人。
 重点在"旧而稀有、有收藏价值"，不同于研究古代社会的考古学家。
 名词也可说 antiquary。
@@ -144,6 +149,7 @@ antiquity = 古代（时期）
 ancient times = 古代（通用）
 
 antirrhinum
+/ˌæntɪˈraɪnəm/
 核心：园艺植物名，就是"金鱼草"——花形像张开的兽嘴，捏住花的两侧
 它会一张一合，所以俗名叫 snapdragon。名字的词根是希腊语的
 "像鼻子"。
@@ -160,6 +166,7 @@ sow seeds = 播种
 园艺与植物学名称。
 
 antiseptic
+/ˌæntiˈseptɪk/
 核心：指杀灭伤口细菌的"消毒剂"，名词形容词同形。
 比喻义形容环境"过分洁净、缺乏人情味"。
 ① Apply antiseptic to the cut before you cover it, not afterwards.
@@ -177,6 +184,7 @@ disinfectant = 消毒液（用于物表）
 sterile = 无菌的
 
 antisocial
+/ˌæntiˈsəʊʃəl/
 核心：三条线：行为"反社会的"（法律用语）、
 人"不爱交际的"、以及做法"给别人添麻烦的"。
 ① He was given an antisocial behaviour order and broke it within a fortnight.
@@ -195,6 +203,7 @@ unsociable = 不爱交际的
 asocial = 无社交需求的
 
 antithesis
+/ænˈtɪθəsɪs/
 核心：指"对立面、截然相反的事物"，正式。介词用 of。
 修辞学上还指对照句式。复数是 antitheses。
 ① He is the antithesis of his brother in every way except the voice.
@@ -211,6 +220,7 @@ antithesis → antitheses /ænˈtɪθəsiːz/
 thesis 正题 / antithesis 反题 / synthesis 合题
 
 antithetical
+/ˌæntɪˈθetɪkəl/
 核心：底层是"摆在对面的"——两样东西正好相对、根本合不来。
 常说 antithetical to something。名词是 antithesis，
 修辞学上指把两个相反的说法并排摆出来的写法。
@@ -229,6 +239,7 @@ incompatible = 不相容的（凑不到一起）
 opposed = 反对的（态度上）
 
 antitrust
+/ˌæntiˈtrʌst/
 核心：美式法律用语，指"反垄断的"——防止企业靠合并、串通或滥用
 支配地位来消灭竞争。英式说 competition law。名词化说法是
 antitrust legislation。
@@ -264,6 +275,7 @@ antiviral = 抗病毒的（医学用药）
 计算机安全用语。
 
 antler
+/ˈæntlə(r)/
 核心：指鹿类头上分叉的"角"，每年脱落再生。
 和牛羊的 horn（终生不脱落）是两回事。
 ① The stag has large antlers that he will drop in the spring and grow again by August.
@@ -279,6 +291,7 @@ horn = 牛羊角（不分叉，终生保留）
 tusk = 长牙（象、海象）
 
 antonym
+/ˈæntənɪm/
 核心：指意思相反的词。构词是 anti-（相反）加 -onym（名字、词），
 认出 -onym 这个词尾，一整族术语就都推得出来：synonym 是同义词、
 homonym 是同形同音异义词、pseudonym 是笔名。注意反义关系不是绝对的，
@@ -297,6 +310,7 @@ homonym = 同形同音异义词
 homophone = 同音异形词
 
 antsy
+/ˈæntsi/
 核心：非正式形容词，指"坐不住、心里发毛"——等得不耐烦，
 或者紧张得想动。字面像是身上爬了蚂蚁，就是从 ants in your pants
 那个说法来的。美式常用。
@@ -334,6 +348,7 @@ anal = 肛门的
 日常交流通常回避。
 
 anvil
+/ˈænvɪl/
 核心：两条线：铁匠打铁用的"铁砧"，
 和耳朵中耳里的"砧骨"。
 ① The blacksmith struck the anvil twice between blows to keep the rhythm.
@@ -454,6 +469,7 @@ somebody 用于肯定句
 nobody 本身已含否定
 
 anyhoo
+/ˈenihuː/
 核心：anyhow 的戏谑变形，用来岔开话题或把跑偏的话拉回来，
 相当于"总之、不管怎么说"。只出现在轻松的口语和网络聊天里。
 ① Anyhoo, where were we before the dog got out?

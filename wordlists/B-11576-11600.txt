@@ -1,4 +1,5 @@
 hypo
+/ˈhaɪpəʊ/
 核心：（口语）一是低血糖发作 —— 糖尿病人的说法，hypoglycaemia 的缩略；
 二是注射器、皮下注射针 —— hypodermic 的缩略。
 ① He keeps a bar of chocolate in his pocket in case he has a hypo at work.
@@ -9,6 +10,7 @@ have a hypo = 低血糖发作（口语）
 a hypo = 注射器（口语）
 
 hypoallergenic
+/ˌhaɪpəʊˌæləˈdʒenɪk/
 核心：低致敏的 —— 不易引起过敏反应的：hypoallergenic soap、hypoallergenic pillows、
 也说狗、猫的品种「不易致敏」。
 ① She uses hypoallergenic soap because ordinary brands make her skin itch.
@@ -22,6 +24,7 @@ hypoallergenic pillows = 低致敏枕头
 a hypoallergenic breed = 不易致敏的品种
 
 hypochondria
+/ˌhaɪpəˈkɒndriə/
 核心：疑病症 —— 总担心自己有病、把小毛病想成大病。不可数。
 有这种毛病的人叫 hypochondriac，并入本条（也作形容词）。
 ① His hypochondria got worse after he started reading about diseases online.
@@ -35,6 +38,7 @@ a hypochondriac = 疑病症患者
 hypochondriac = 疑病症的
 
 hypocrisy
+/hɪˈpɒkrəsi/
 核心：虚伪 —— 说一套做一套，自称有某种道德标准却不照着做。不可数。
 ① The minister was accused of hypocrisy after sending his children to a private school.
 = 那位部长把孩子送进了私立学校，被指责虚伪。
@@ -44,6 +48,7 @@ be accused of hypocrisy = 被指责虚伪
 sheer hypocrisy = 纯粹的虚伪
 
 hypocrite
+/ˈhɪpəkrɪt/
 核心：伪君子 —— 说一套做一套的人。形容词 hypocritical（虚伪的）与副词 hypocritically 并入本条。
 ① He called his father a hypocrite for smoking while telling him not to.
 = 父亲一边叫他别抽烟一边自己抽，他骂父亲是伪君子。
@@ -56,6 +61,7 @@ it is hypocritical of somebody to do something = 某人做某事很虚伪
 hypocritically = 虚伪地
 
 hypodermic
+/ˌhaɪpəˈdɜːmɪk/
 核心：皮下的；皮下注射针 —— a hypodermic needle / syringe。口语缩成 hypo。
 ① The nurse used a hypodermic needle to give the injection.
 = 护士用一根皮下注射针打了那一针。
@@ -65,6 +71,7 @@ a hypodermic needle = 皮下注射针
 a hypodermic = 注射器
 
 hypoglycaemia
+/ˌhaɪpəʊɡlaɪˈsiːmiə/
 核心：（医学）低血糖。不可数。美式拼作 hypoglycemia。口语缩成 hypo。
 ① Skipping meals can cause hypoglycaemia in people with diabetes.
 = 对糖尿病人来说，不吃饭会导致低血糖。
@@ -74,6 +81,7 @@ hypoglycaemia = 低血糖
 hypoglycemia = 低血糖（美式拼法）
 
 hyponym
+/ˈhaɪpənɪm/
 核心：（语言学）下位词 —— 属于某个上层概念的具体词，比如「玫瑰」是「花」的下位词。反义是上位词。
 ① Rose, tulip and daisy are all hyponyms of flower.
 = 玫瑰、郁金香和雏菊都是「花」的下位词。
@@ -83,6 +91,7 @@ a hyponym of something = …的下位词
 a hyponym = 下位词
 
 hypotenuse
+/haɪˈpɒtənjuːz/
 核心：（数学）斜边 —— 直角三角形中与直角相对的最长的边。
 ① The square on the hypotenuse equals the sum of the squares on the other two sides.
 = 斜边的平方等于另外两边平方之和。
@@ -92,6 +101,7 @@ the hypotenuse = 斜边
 the length of the hypotenuse = 斜边的长度
 
 hypothalamus
+/ˌhaɪpəˈθæləməs/
 核心：（解剖）下丘脑 —— 大脑中调节体温、饥饿、睡眠等的一小块区域。
 ① The hypothalamus, a part of the brain no bigger than an almond, controls body temperature, hunger and thirst.
 = 下丘脑是大脑里一块不比杏仁大的区域，控制着体温、饥饿和口渴。
@@ -101,6 +111,7 @@ the hypothalamus = 下丘脑
 damage to the hypothalamus = 下丘脑受损
 
 hypothermia
+/ˌhaɪpəʊˈθɜːmiə/
 核心：体温过低、失温 —— 身体长时间受冷导致体温降到危险水平。不可数。
 常见搭配：suffer from hypothermia、die of hypothermia。
 ① The climbers were suffering from hypothermia when the rescue team found them.
@@ -146,6 +157,7 @@ purely hypothetical = 纯属假设的
 hypothetically = 假设地说
 
 hypothyroidism
+/ˌhaɪpəʊˈθaɪrɔɪdɪzəm/
 核心：（医学）甲状腺功能减退，简称甲减。不可数。
 ① Tiredness and weight gain can be symptoms of hypothyroidism.
 = 疲劳和体重增加可能是甲减的症状。
@@ -155,6 +167,7 @@ hypothyroidism = 甲状腺功能减退
 control hypothyroidism = 控制甲减
 
 hypoxaemia
+/ˌhaɪpɒkˈsiːmiə/
 核心：（医学）低氧血症 —— 血液中含氧量过低。不可数。美式拼作 hypoxemia。
 ① The patient was given oxygen to treat severe hypoxaemia.
 = 病人被输了氧，以治疗严重的低氧血症。
@@ -164,6 +177,7 @@ hypoxaemia = 低氧血症
 hypoxemia = 低氧血症（美式拼法）
 
 hypoxia
+/haɪˈpɒksiə/
 核心：（医学）缺氧 —— 身体组织得不到足够的氧气，高山上常见。不可数。
 ① At that altitude climbers risk hypoxia unless they carry oxygen.
 = 在那个海拔，登山者不带氧气就有缺氧的危险。
@@ -173,6 +187,7 @@ hypoxia = 缺氧
 mild hypoxia = 轻度缺氧
 
 hyrax
+/ˈhaɪræks/
 核心：蹄兔 —— 非洲、中东的一种兔子大小、生活在岩石间的小型哺乳动物。复数 hyraxes。
 ① A hyrax sat sunning itself on a rock beside the path.
 = 一只蹄兔坐在小路旁的一块岩石上晒太阳。
@@ -182,6 +197,7 @@ a hyrax = 蹄兔
 rock hyraxes = 岩蹄兔
 
 hyssop
+/ˈhɪsəp/
 核心：牛膝草 —— 一种开蓝花的芳香香草，用于烹调与草药；《圣经》里也提到它。不可数。
 ① She added a sprig of hyssop to the soup for its slightly bitter taste.
 = 她往汤里加了一小枝牛膝草，取它那点微苦的味道。
@@ -191,6 +207,7 @@ a sprig of hyssop = 一小枝牛膝草
 hyssop = 牛膝草
 
 hysterectomy
+/ˌhɪstəˈrektəmi/
 核心：（医学）子宫切除术。可数。
 ① She had a hysterectomy at forty-five and took six weeks off work.
 = 她四十五岁时做了子宫切除手术，请了六个星期的假。
@@ -200,6 +217,7 @@ have a hysterectomy = 做子宫切除手术
 recommend a hysterectomy = 建议做子宫切除术
 
 hysteria
+/hɪˈstɪəriə/
 核心：歇斯底里 —— 失控的极度激动、恐慌；群体性的狂热：mass hysteria。不可数。
 形容词 hysterical（歇斯底里的；口语里「极好笑的」）、副词 hysterically、
 复数名词 hysterics（歇斯底里的发作；口语「笑得前仰后合」）并入本条。
@@ -254,6 +272,7 @@ I'd = I had 的缩略式
 I'll = I will 的缩略式
 
 I-spy
+/ˌaɪ ˈspaɪ/
 核心：（英式）我看见 —— 一种儿童猜物游戏：一人说「I spy with my little eye something beginning with…」，
 别人猜他看见的是什么。不可数。
 ① The children played I-spy in the back of the car to pass the time.
@@ -264,6 +283,7 @@ play I-spy = 玩「我看见」猜物游戏
 a game of I-spy = 一局「我看见」游戏
 
 iamb
+/ˈaɪæm/
 核心：（诗律）抑扬格 —— 一轻一重两个音节组成的音步。也拼 iambus，并入本条。
 形容词 iambic（抑扬格的）也收在这里：iambic pentameter 是英诗最常见的格律「抑扬格五音步」。
 ① Each line begins with an iamb, a weak beat followed by a strong one.
@@ -277,6 +297,7 @@ iambic pentameter = 抑扬格五音步
 an iambus = 抑扬格音步（旧拼法）
 
 Iberian
+/aɪˈbɪəriən/
 核心：伊比利亚的 —— 指西班牙和葡萄牙所在的伊比利亚半岛；也指古伊比利亚人。首字母大写。
 ① They drove across the Iberian peninsula from Lisbon to Barcelona.
 = 他们开车从里斯本出发，横穿伊比利亚半岛到了巴塞罗那。
@@ -286,6 +307,7 @@ the Iberian peninsula = 伊比利亚半岛
 Iberian ham = 伊比利亚火腿
 
 ibex
+/ˈaɪbeks/
 核心：北山羊 —— 生活在高山上、长着巨大弯角的野山羊。复数不变或 ibexes。
 ① An ibex stood on a narrow ledge high above the valley.
 = 一只北山羊站在山谷上方高处一道窄窄的岩架上。

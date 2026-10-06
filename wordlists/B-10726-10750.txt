@@ -1,4 +1,5 @@
 hapless
+/ˈhæpləs/
 核心：形容词（书面或带谑），倒霉的、时运不济的 —— 说的是一个人接二连三倒霉，
 而且多半不是自己的错：the hapless driver。
 构词同上：hap（运气）加 -less（没有）—— 字面就是「没运气的」。
@@ -14,6 +15,7 @@ a hapless assistant = 倒霉的助理
 hapless candidates = 倒霉的应聘者
 
 haploid
+/ˈhæplɔɪd/
 核心：单倍体的：细胞里每种染色体只有一条，记作 n —— 精子与卵子就是这样，
 受精后合成二倍体（diploid，2n）。生物学词，也作名词指单倍体细胞。
 对应的动词短语是 halve the chromosome number。
@@ -53,6 +55,7 @@ The happenings of that week filled two notebooks.
 = 那一周发生的种种，写满了两个本子。
 
 happenstance
+/ˈhæpənstæns/
 核心：（多为美式）纯属巧合、碰巧发生的事 —— happen 加 circumstance 拼出来的词。
 既作不可数（by happenstance 出于偶然），也作可数（a happenstance 一桩巧合）。
 语气是中性的，强调「没人安排」。
@@ -114,6 +117,7 @@ play happy families = 装作一家和睦
 happy slapping = （英）拍打取乐（打人并拍下来传播）
 
 haptic
+/ˈhæptɪk/
 核心：触觉的 —— 跟摸、碰、握有关的那一路感觉。两处最常用：
 一是心理学与生理学里的触觉研究；二是技术上的「触感反馈」，
 手机震一下、方向盘抖一下，都叫 haptic feedback。名词 haptics 指这门技术。
@@ -128,6 +132,7 @@ a haptic signal = 触觉信号
 haptic memory = 触觉记忆
 
 hara-kiri
+/ˌhærə ˈkɪri/
 核心：剖腹自尽 —— 日本武士以短刀切腹的自杀方式，介错人随后斩首了结。
 日语里正式的说法是 seppuku，hara-kiri 是通俗说法，进了英语反而成了常用词。
 不可数，搭 commit hara-kiri。也用作比喻：自毁前程的举动。
@@ -142,6 +147,7 @@ political hara-kiri = 政治上的自杀行为
 hara-kiri = 切腹
 
 haram
+/hɑːˈrɑːm/
 核心：（伊斯兰教）禁止的、不合教法的 —— 跟 halal（合法可行的）相对。
 既说食物（猪肉与酒是 haram），也说行为（放高利贷、赌博是 haram）。
 表语与定语都用；不作可数名词。
@@ -156,6 +162,7 @@ make something haram = 使某物成为教法禁物
 haram = 教法所禁的
 
 harangue
+/həˈræŋ/
 核心：名词与动词，长篇训斥 —— 又长又激动、听的人插不上嘴的那种数落或演说。
 可数。读作 huh-RANG，词尾的 ue 不发音。
 跟 lecture 的分别：lecture 可以是正经讲课，harangue 一定是单方面的、令人不耐的；
@@ -171,6 +178,7 @@ harangue somebody = 数落某人
 be harangued = 被高声训导
 
 harass
+/ˈhærəs/
 核心：动词，骚扰 —— 反复地找麻烦、纠缠或施压，使人不得安宁：
 harass somebody；也指（军事上）扰袭。
 名词 harassment 与形容词 harassed（被搅得疲于奔命的）并入本条。
@@ -188,6 +196,7 @@ harassment = 骚扰
 look harassed = 一脸疲于应付
 
 harbinger
+/ˈhɑːbɪndʒə(r)/
 核心：先兆、预告者 —— 某事到来之前先出现的那个东西或那个人。
 书面语，几乎只用于 a harbinger of something，后面接的多半是坏事
 （战争、衰败、寒冬），接好事时常带点讽味。
@@ -588,6 +597,7 @@ hare-brained = 轻率的、没脑子的
 拼作 harebrained 也对；说的是像野兔一样一惊就跑、不过脑子。
 
 harebell
+/ˈheəbel/
 核心：圆叶风铃草：细茎上挂着淡蓝色的小钟形花，长在草地、沙丘与石灰岩坡上。
 可数。苏格兰把它叫 bluebell —— 而英格兰的 bluebell 是另一种花（蓝铃花），
 这是英国植物名里最常见的一处错位。
@@ -602,6 +612,7 @@ harebells = 圆叶风铃草（复数）
 the harebell = 圆叶风铃草（作物种统称）
 
 harelip
+/ˈheəlɪp/
 核心：唇裂的旧称 —— 上唇裂开的先天畸形。这个词今天不能用：
 它把人比作兔子，带侮辱意味；医学与日常都说 a cleft lip，
 连带的腭裂叫 a cleft palate。收在这里是为了读旧书时认得出。
@@ -618,6 +629,7 @@ close a harelip = 把唇裂修补合拢
 语域：正确说法是 a cleft lip；引用旧文献之外不要使用。
 
 harem
+/ˈhɑːriːm/
 核心：名词，两支。一是（历史）后宫、内院 —— 伊斯兰旧时宅邸里女眷居住、
 外男不得入内的那部分；二是（动物学）一雄多雌的群体：a harem of females。可数。
 用词要当心：第一支带着大量东方主义的想象，写历史时最好交代具体制度，
@@ -633,6 +645,7 @@ a harem = 一雄多雌的群体
 paintings of the harem = 画后宫的作品
 
 haricot
+/ˈhærɪkəʊ/
 核心：菜豆 —— 法语来的词，英式英语里指干的白芸豆（haricot beans），
 炖菜与罐头焗豆用的就是它；也泛指青嫩时整荚吃的那种（haricots verts 四季豆）。
 可数，多作复数或作定语。美式一般说 navy beans 或 white beans。
@@ -647,6 +660,7 @@ haricots = 菜豆（复数）
 haricots verts = 四季豆（法语借形，读音保留法语）
 
 harissa
+/həˈrɪsə/
 核心：哈里萨辣酱：北非（尤其突尼斯）的辣椒酱，用干辣椒、大蒜、孜然、
 芫荽籽与橄榄油舂成，辣而香，带一点烟味。不可数。
 吃法是抹在面包上、拌进古斯米、调进汤里，不是当蘸料整口吃。
@@ -661,6 +675,7 @@ stir harissa into something = 把辣酱拌进某物
 harissa = 哈里萨辣酱（自制的）
 
 hark
+/hɑːk/
 核心：动词（古旧），听 —— 今天只活在两处：祈使的 hark（听！多见于旧诗与圣诞颂歌），
 以及短语 hark back to something（追溯到、让人想起从前）。
 第二支才是现代英语里真正用得上的：它既说「回溯从前」，也带点「老调重弹」的意味。
@@ -680,6 +695,7 @@ hark at somebody = 听听某人说的（英，口语，带嘲讽）
 几乎只用祈使式，专门用来笑话说大话的人。
 
 harken
+/ˈhɑːkən/
 核心：倾听、留意 —— hearken 的另一种拼法，古体与文体用词，
 今天几乎只活在两处：仿古的祈使（Harken to me）与
 harken back to something（追溯到、让人想起从前）。不及物，后接 to。
