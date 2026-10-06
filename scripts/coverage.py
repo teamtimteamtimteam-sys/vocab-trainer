@@ -150,6 +150,9 @@ def collected():
             if not b: continue
             w = b.split('\n')[0].strip()
             got[sort_key(w)] = w
+            # 音标行（词头下面以「/」开头的那一行）不是正文：/ˈlentəl/ 里的 lent、/ˈbetə(r)/ 里的 bet
+            # 都是拉丁字母串，留着就会被当成「这条词条里提到了 lent」，把没写的词判成已收（2026-10-06 栽过）。
+            b = '\n'.join(l for l in b.split('\n') if not l.startswith('/'))
             low = b.lower().replace('\u2019', "'")
             text.setdefault(sort_key(w)[0], []).append(low)
             entries.append((w, low))
