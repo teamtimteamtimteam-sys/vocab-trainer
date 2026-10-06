@@ -1,3 +1,41 @@
+nit
+/nɪt/
+核心：两支，可数。一是虱卵、虮子：头虱产在头发上的卵，也泛指头虱，多用复数；
+二是（英式口语）傻瓜，责备里带点亲昵。
+① The school sent a letter home warning parents to check for nits.
+= 学校给家里发了封信，提醒家长检查孩子头上有没有虱子。
+check for nits = 检查有没有虱子
+② She combed the nits out of her daughter's hair with a fine metal comb.
+= 她用一把细齿的金属梳子，把女儿头发里的虮子梳出来。
+comb out the nits = 把虮子梳出来
+③ You silly nit, you have put salt in the tea instead of sugar.
+= 你这个傻瓜，往茶里放的是盐，不是糖。
+you silly nit = 你这个傻瓜
+
+nitpicking
+/ˈnɪtpɪkɪŋ/
+核心：两支，口语，含贬义。一是名词，吹毛求疵、在细枝末节上挑毛病，不可数；二是形容词，吹毛求疵的。
+本义是从头发里一颗颗挑虱卵。爱这样挑刺的人叫 nitpicker，并入本条。
+① I am tired of the constant nitpicking over commas while the argument is ignored.
+= 论点没人理会，却没完没了地在逗号上吹毛求疵，我烦透了。
+nitpicking over something = 在某事上吹毛求疵
+② The review was a list of nitpicking complaints about the index.
+= 那篇书评罗列的，是对索引的种种吹毛求疵的抱怨。
+nitpicking complaints = 吹毛求疵的抱怨
+③ Every committee has one nitpicker who reads the minutes aloud to find mistakes.
+= 每个委员会都有那么一个爱挑刺的人，把会议纪要念出声来找错。
+a nitpicker = 爱挑刺的人
+
+nitrate
+/ˈnaɪtreɪt/
+核心：硝酸盐：含氮和氧的一类化合物，最大的用途是做化肥，也用作肉类防腐剂。可数也可不可数。
+① Nitrates washed off the fields have polluted the river below the farm.
+= 从田里冲下来的硝酸盐，污染了农场下游的那条河。
+nitrates = 硝酸盐
+② Ammonium nitrate is a cheap fertiliser that must be stored with great care.
+= 硝酸铵是一种便宜的化肥，储存时必须格外小心。
+ammonium nitrate = 硝酸铵
+
 nitrite
 /ˈnaɪtraɪt/
 核心：亚硝酸盐：比硝酸盐少一个氧原子的一类化合物，用来腌制火腿、培根并保持肉色。可数也可不可数。
@@ -493,87 +531,3 @@ a nodule on the lung = 肺上的结节
 ② The nodules on the roots of peas contain bacteria that feed the plant.
 = 豌豆根上的根瘤里有给植株提供养分的细菌。
 nodules on the roots = 根瘤
-
-Noel
-/nəʊˈel/
-核心：两支，首字母大写，来自法语，也写作 Noël。一是圣诞节：只见于贺卡、颂歌与装饰上；二是圣诞颂歌里反复出现的欢呼词。
-① A banner wishing everyone a joyous Noel hung across the high street all December.
-= 整个十二月，主街上横挂着一条祝大家圣诞快乐的横幅。
-a joyous Noel = 圣诞快乐（贺词）
-② The choir ended the service with The First Noel, sung by candlelight on the church steps.
-= 唱诗班在教堂的台阶上就着烛光唱了那首讲头一个圣诞的颂歌，礼拜就此结束。
-The First Noel = 一首圣诞颂歌的歌名
-
-Noh
-/nəʊ/
-核心：能剧：日本的一种古典戏剧，演员戴面具，动作缓慢，有歌队和乐师伴奏。不可数，首字母大写，也写作 No。
-① We saw a Noh play in Kyoto that lasted four hours and had almost no scenery.
-= 我们在京都看了一出能剧，演了四个小时，几乎没有布景。
-a Noh play = 一出能剧
-② The carved masks used in Noh are handed down from one actor to the next.
-= 能剧用的雕刻面具，由一代演员传给下一代。
-masks used in Noh = 能剧面具
-
-noir
-/nwɑː(r)/
-核心：两支，来自法语。一是黑色电影：一种调子阴暗、多写犯罪与人性幽暗面的影片，也叫 film noir，不可数；
-二是形容词，带这种阴暗风格的，常放在名词后面，也用来给小说分类。
-① The festival is showing a season of American noir from the nineteen-forties.
-= 那个电影节正在放映一组二十世纪四十年代的美国黑色电影。
-American noir = 美国黑色电影
-② It is a classic film noir, with a detective, a storm and a woman who lies.
-= 那是一部经典的黑色电影：一个侦探，一场暴雨，一个撒谎的女人。
-film noir = 黑色电影
-③ She writes crime novels in a noir style set in the back streets of Glasgow.
-= 她写的犯罪小说走阴暗路线，背景是格拉斯哥的后街。
-a noir style = 阴暗的风格
-
-noise
-/nɔɪz/
-核心：两支。一是声响、噪音：多指响的、不好听的、不想听到的，可数也可不可数；make a noise 是弄出响声。
-跟 sound 的分别：sound 是中性的「声音」，这个词多半带「吵」的意思。
-二是（技术）干扰、杂讯：信号里没用的成分；也引申指没有价值的信息。
-复数 noises 另有一支口语用法：make noises about 是放出风声、含糊地表态；make the right noises 是说些得体的场面话。
-a big noise 是（英式口语）大人物。make a noise about something 是为某事大吵大嚷。
-形容词 noiseless（无声的）与副词 noiselessly 并入本条。
-noises off 是戏剧用语，指幕后传来的音响效果，也引申指场外的杂音，并入本条。
-① Try not to make a noise when you come in, because the baby is asleep.
-= 进来的时候尽量别弄出声响，宝宝睡着了。
-make a noise = 弄出响声
-make noise = 制造噪音
-② The noise of the traffic kept us awake until two in the morning.
-= 车流的噪音吵得我们凌晨两点才睡着。
-noise = 噪音（难听的）
-the noise of the traffic = 车流的噪音
-③ I heard a strange noise coming from the engine and pulled over.
-= 我听见发动机里传出一种怪声，就靠边停了车。
-a strange noise = 怪声
-④ The neighbours complained to the council about the noise from the pub.
-= 邻居们就酒馆的噪音向市政会投诉。
-complain about the noise = 投诉噪音
-⑤ The signal was lost in the noise on the line.
-= 信号淹没在线路的杂讯里了。
-noise on the line = 线路上的杂讯
-⑥ The government has been making noises about raising the retirement age.
-= 政府一直在放风，说要提高退休年龄。
-make noises = 放出风声
-make noises about something = 就某事放出风声
-⑦ He made all the right noises at the interview and still did not get the job.
-= 他面试时场面话说得句句得体，还是没得到那份工作。
-make the right noises = 说得体的场面话
-⑧ Her uncle is a big noise in the city and knows every banker by name.
-= 她叔叔是金融城里的大人物，每个银行家他都叫得出名字。
-a big noise = 大人物
-⑨ Parents made such a noise about the plan that the school dropped it.
-= 家长们为那个计划闹得很凶，学校只好作罢。
-make a noise about something = 为某事大吵大嚷
-⑩ The owl flew across the field on noiseless wings.
-= 那只猫头鹰扇着无声的翅膀飞过田野。
-noiseless wings = 无声的翅膀
-noiseless = 无声的
-⑪ She closed the door noiselessly and crept down the stairs.
-= 她悄无声息地关上门，蹑手蹑脚下了楼。
-noiselessly = 悄无声息地
-⑫ The script calls for noises off: a car door, footsteps and a scream.
-= 剧本要求有幕后音效：车门声、脚步声和一声尖叫。
-noises off = 幕后音效
