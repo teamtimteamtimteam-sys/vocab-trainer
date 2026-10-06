@@ -251,6 +251,10 @@ fat shaming = 对肥胖的羞辱
 a fat camp = 减肥营
 A fat camp costs more per week than the family earns in two.
 = 减肥营一周的花销，比那家人两周挣的还多。
+⑩ Olive oil is rich in monounsaturated fat, which doctors consider better for the heart than butter.
+= 橄榄油富含单不饱和脂肪，医生认为它比黄油对心脏更好。
+monounsaturated fat = 单不饱和脂肪
+营养标签上的分类用语。
 
 fatal
 核心：两支。一是致命的：a fatal accident、a fatal dose；
