@@ -50,6 +50,19 @@ EXPECT = {
     #                                查的时候别 grep 错列。
     # 清单里确实有可收词的 15 个前缀列在下面
     'c': ['ca','cc','ce','cf','ch','ci','cl','cm','co','cr','ct','cu','cw','cy','cz'],
+    # f–n 于 2026-10-07 一次补登（之前七个字母收完时都没登记，整段漏写不会报红）。
+    # 做法：逐字母跑 coverage，取「清单有条目且已收 > 0」的双字母段；清单有条目却一条没收的只有两段，
+    # gw（gweilo，香港与东南亚英语且带冒犯）与 kj（kJ，单位缩写），都按通则补进了 exclude。
+    # n 的 nd / ng / ns / nr 只有东非、南部非洲用语与小写缩写，剔除后即空。
+    'f': ['fa','fe','ff','fi','fj','fl','fo','fp','fr','ft','fu','fy'],
+    'g': ['ga','ge','gh','gi','gl','gn','go','gr','gu','gy'],
+    'h': ['ha','he','hi','hm','ho','hu','hy'],
+    'i': ['ia','ib','ic','id','ie','if','ig','ik','il','im','in','io','ip','ir','is','it','iv'],
+    'j': ['ja','je','ji','jo','ju'],
+    'k': ['ka','ke','kh','ki','kl','kn','ko','kr','ku','kv','kw','ky'],
+    'l': ['la','le','li','ll','lo','lu','ly'],
+    'm': ['ma','mc','me','mi','mn','mo','mu','my'],
+    'n': ['na','ne','ni','no','nt','nu','ny'],
 }
 
 KEY = sort_key   # 共用排序键，见 scripts/wordkey.py
