@@ -34,7 +34,7 @@ run() {                       # run <名字> <命令...>
   fi
   rm -f /tmp/gate.$$
 }
-echo "十二道闸门（段：$segs）"
+echo "十三道闸门（段：$segs）"
 run check-wordlist  python3 scripts/check-wordlist.py 'wordlists/A-*.txt' 'wordlists/B-*.txt'
 for seg in ${segs//,/ }; do
   run "coverage $seg"     python3 scripts/coverage.py "$seg"
@@ -56,5 +56,8 @@ run audit-derived   python3 scripts/audit-derived.py
 # 从 inflections.txt 生成、写死在 index.html 里。inflections.txt 每个字母段都在长，
 # 忘了重跑，iPad 上新登记的变形（held、hooves）就亮不起来 —— 这里拦住。
 run gen-forms       python3 scripts/gen-forms.py --check
+# 第十三道（2026-10-06）：音标行。全表的音标行格式必须合法；这一批点名的词头必须带音标。
+# 存量还在分批补，缺的条数只报不拦 —— 补完以后把 ipa.py check 改成全表必须有。
+run audit-ipa       python3 scripts/ipa.py check "$@"
 if [ $fail -eq 0 ]; then echo "全部通过"; else echo "有闸门没过 —— 别提交"; fi
 exit $fail

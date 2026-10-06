@@ -283,6 +283,8 @@ main{
 }
 @media (max-width:520px){ .sheet{padding:18px 16px 20px;border-radius:var(--r-md)} }
 .wordhead{display:flex;align-items:flex-start;gap:12px;margin:4px 0 24px}
+.wordhead.has-ipa{margin-bottom:6px}
+.ipa{margin:0 0 22px;font-family:system-ui,-apple-system,"Segoe UI","Lucida Sans Unicode",sans-serif;font-size:calc(19px*var(--fs));color:var(--fg-muted);letter-spacing:.01em}
 .wordhead .w{
   font-family:var(--serif);font-weight:700;
   font-size:calc(45px*var(--fs));line-height:1.12;letter-spacing:-.022em;
@@ -575,7 +577,7 @@ const MULTISENSE_THRESHOLD = 12;   // ≥12 义项算「核心词」，反正考
 const MULTISENSE_STAGE_CAP = 5;    // 核心词永远卡在这一级（30天/L3），不许升到 60/90天
 const DAY_START  = 4;                       // 凌晨 4:00 为一天分界
 const BACKUP_WARN_DAYS = 7;
-const APP_VERSION = "2.0.3";
+const APP_VERSION = "2.1.0";
 
 /* ---------------------------------------------------------------- utils */
 const $ = s => document.querySelector(s);
@@ -822,7 +824,7 @@ function parseVocab(text) {
   if (cur) blocks.push(cur);
 
   return blocks.map(b => {
-    const e = { word: "", senses: [], summary: [], head: [], issues: [], line: b.start,
+    const e = { word: "", ipa: "", senses: [], summary: [], head: [], issues: [], line: b.start,
                 raw: b.lines.map(l => l.t).join("\n") };
     const first = b.lines[0].t;
     e.word = first;
@@ -832,6 +834,9 @@ function parseVocab(text) {
     let sense = null, inSummary = false;
     for (let i = 1; i < b.lines.length; i++) {
       const { n, t } = b.lines[i];
+      // 音标行：第一个例句之前、以「/」开头的一行。单独存，不进 head ——
+      // head 是核心块，L3 拿它当题面和选项，音标混进去等于把答案念出来。
+      if (!sense && t[0] === "/") { if (!e.ipa) e.ipa = t; continue; }
       const idx = NUMS.indexOf(t[0]);
       if (idx >= 0) {
         sense = { no: idx + 1, example: t.slice(1).trim(), translation: "", notes: [] };
@@ -1145,8 +1150,9 @@ function renderNotes(notes, word) {
 }
 function renderWordFull(w) {
   // w.id 为空 = 导入预览里还没入库的词条，不显示星标
-  let h = '<div class="wordhead"><div class="w">' + esc(w.word) + "</div>" +
+  let h = '<div class="wordhead' + (w.ipa ? " has-ipa" : "") + '"><div class="w">' + esc(w.word) + "</div>" +
           (w.id != null ? starBtn(w.id) : "") + spkBtn(w.word, "") + "</div>";
+  if (w.ipa) h += '<div class="ipa">' + esc(w.ipa) + "</div>";
   if (w.head && w.head.length) h += renderNotes(w.head, w.word);
   w.senses.forEach(s => {
     h += '<div class="sense">' +
@@ -1917,6 +1923,7 @@ async function saveWord() {
   const w = await getWord(WORDID);
   Object.assign(w, {
     word: parsed.word, wordKey: parsed.word.toLowerCase(),
+    ipa: parsed.ipa || "",
     senses: parsed.senses, summary: parsed.summary, head: parsed.head, raw: parsed.raw,
   });
   try { await putWord(w); } catch (e) { toast("保存失败：可能与已有单词重名"); return; }
@@ -2037,6 +2044,7 @@ async function commitImport() {
         id: seq, seq,
         word: e.word,                       // 展示用原文
         wordKey: e.word.toLowerCase(),      // 索引 / 去重 / 搜索键
+        ipa: e.ipa || "",
         senses: e.senses, summary: e.summary, head: e.head, raw: e.raw,
         groupId: null, learned: false, learnedAt: null,
       });

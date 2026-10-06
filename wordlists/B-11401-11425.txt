@@ -45,6 +45,7 @@ not give something houseroom = 白送也不要
 not give an idea houseroom = 根本不把某种看法当回事
 
 housewares
+/ˈhaʊsweəz/
 核心：（主要美式）家庭用品 —— 厨具、餐具等，常是商店的一个部门。复数。
 ① Housewares are on the fourth floor, next to furniture.
 = 家庭用品在四楼，挨着家具部。
@@ -54,6 +55,7 @@ housewares = 家庭用品
 the housewares department = 家庭用品部
 
 housewife
+/ˈhaʊswaɪf/
 核心：家庭主妇。复数 housewives。今天常换成更中性的 homemaker 或 stay-at-home parent。
 形容词 housewifely（持家有方的，偏旧）并入本条。
 ① She was a housewife for twenty years before she started her own business.
@@ -67,6 +69,7 @@ a smiling housewife = 微笑的家庭主妇（广告形象）
 housewifely = 持家有方的（旧）
 
 housework
+/ˈhaʊswɜːk/
 核心：家务活 —— 打扫、洗衣、做饭这类。不可数，不说 a housework。
 跟 homework（家庭作业）只差一个词，别混。
 ① He does all the housework on Saturday mornings while she takes the children swimming.
@@ -77,6 +80,7 @@ do the housework = 做家务
 most of the housework = 大部分家务
 
 housing
+/ˈhaʊzɪŋ/
 核心：住房 —— 房屋的总称，也指提供住房这件事。不可数。
 英式有一串复合词：a housing estate（住宅区）、a housing association（住房协会，非营利的租房机构）、
 housing benefit（住房补贴）、a housing scheme（住房项目）；美式的 a housing project 指公共住房区。
@@ -105,6 +109,7 @@ a housing = 外壳、护套
 另一支：包住机器零件的壳。
 
 hovel
+/ˈhɒvəl/
 核心：破屋、陋室 —— 又小又脏的简陋住处。
 ① They lived in a damp hovel with one window and a leaking roof.
 = 他们住在一间只有一扇窗、屋顶漏雨的潮湿破屋里。
@@ -114,6 +119,7 @@ a hovel = 破屋、陋室
 seem a hovel = 显得像间破屋（夸张）
 
 hover
+/ˈhɒvə(r)/
 核心：本义是（鸟、直升机）悬停在空中。由此长出：
 人在某处徘徊、犹豫不决（hover in the doorway）；数值在某个水平上下浮动（hover around zero）；
 hover between life and death（徘徊在生死之间）；
@@ -144,6 +150,7 @@ a hoverboard = 平衡车
 a hoverboard = 悬浮滑板（科幻）
 
 hovercraft
+/ˈhɒvəkrɑːft/
 核心：气垫船 —— 靠底部喷出的气垫浮在水面或地面上行驶的交通工具。复数不变。
 ① We crossed to the island by hovercraft, and the whole trip took ten minutes.
 = 我们坐气垫船去岛上，全程只要十分钟。
@@ -153,6 +160,7 @@ by hovercraft = 乘气垫船
 the hovercraft service = 气垫船航线
 
 how
+/haʊ/
 核心：疑问副词，底层问的是「以什么方式、到什么程度、处于什么状况」。长出六支：
 一、方式：How do you spell it?、know how to do something；
 二、程度：how 后面紧跟形容词或副词 —— how old、how much / how many、how long、how often、how far；
@@ -250,6 +258,7 @@ ride in a howdah = 乘象轿
 a canopied howdah = 带篷的象轿
 
 howdy
+/ˈhaʊdi/
 核心：（美式口语，尤其南方与西部）你好 —— 由 how do you do 缩成的随意招呼。
 ① "Howdy, stranger," said the old man at the gas station.
 = 「你好啊，陌生人。」加油站的老人说。
@@ -259,6 +268,7 @@ howdy = 你好（美式口语）
 howdy, folks = 大家好
 
 however
+/ˌhaʊˈevə(r)/
 核心：三支：
 一、副词「然而、不过」—— 表示转折，比 but 正式，多放在句首并加逗号，也可以放句中；
 二、「无论多么」—— however + 形容词或副词（A 表教过）；
@@ -288,6 +298,7 @@ a howitzer = 榴弹炮
 howitzer shells = 榴弹炮炮弹
 
 howl
+/haʊl/
 核心：本义是狼、狗的长嚎。由此长出：风呼啸；人因痛苦、愤怒或大笑而嚎叫；
 名词 howls of laughter / howls of protest。
 短语动词 howl down：用吼叫声把讲话的人压下去。
@@ -352,6 +363,7 @@ a pair of huaraches = 一双墨西哥编织凉鞋
 a huarache = 一只墨西哥编织凉鞋
 
 hub
+/hʌb/
 核心：本义是车轮的轮毂 —— 辐条汇聚的中心。由此比喻「中心、枢纽」：
 the hub of something（…的中心）、a transport hub（交通枢纽）；
 计算机里 hub 是把多台设备连在一起的集线器。

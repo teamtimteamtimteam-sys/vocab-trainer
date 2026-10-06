@@ -54,6 +54,7 @@ A blockchain records everything and forgets nothing, which is the difficulty.
 = 区块链什么都记，什么都不忘，难处正在这儿。
 
 bite
+/baɪt/
 核心：底层是"用牙咬"，几乎所有义项都是这个动作的引申，咬的对象
 换一换就分出一支。咬人是本义，虫蜇蛇咬也用它；咬下来的那一口成了
 名词的"一口食物"，咬出来的印子成了"咬伤"；鱼咬钩是 the fish are
@@ -243,6 +244,7 @@ bit = 位（最小的信息单位）
 byte = 字节（八位）
 
 bitter
+/ˈbɪtə(r)/
 核心：底层是舌头尝到的"苦"，其余各支都是这个味觉往外扩的比喻。
 心里发苦是怨恨（bitter about），事情发苦是痛心（a bitter blow），
 争执发苦是激烈（a bitter dispute），天气发苦是刺骨（bitter cold）。
@@ -485,6 +487,7 @@ bimonthly = 两月一次；一月两次
 biannual = 一年两次（这个不歧义）
 
 bizarre
+/bɪˈzɑː(r)/
 核心：离奇古怪到让人愣一下的那种怪。它比 strange 重：strange 只是
 不熟悉，bizarre 是怪得不合常理、讲出来别人都不信。它不带道德评判，
 说的是"荒诞"，不是"恶劣"。注意跟同音的 bazaar（集市）分开，
@@ -521,6 +524,7 @@ The bizarreness of the story is why nine people repeated it.
 = 那个故事离奇到这个地步，才有九个人转述它。
 
 blab
+/blæb/
 核心：口语，指把该保密的事说出去。它的重点不在"多话"而在"漏嘴"——
 说的是本不该外传的内容，所以后面常跟 about，或者直接说 blab to
 someone。贬义。
@@ -571,6 +575,7 @@ blabbermouth = 大嘴巴（守不住秘密）
 chatterbox = 话篓子（只是话多，不涉及泄密）
 
 black
+/blæk/
 核心：底层是"黑"这个颜色，其余各支分三路长出来。一路是物理上的黑：
 颜色本身 → 没有光的漆黑 → 咖啡不加奶也叫 black。一路是比喻上的黑，
 几乎全是负面的：脸色黑是发怒，前景黑是不妙，行径黑是邪恶，

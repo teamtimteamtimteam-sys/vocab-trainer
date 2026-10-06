@@ -1,4 +1,5 @@
 anyhow
+/ˈenɪhaʊ/
 核心：三条线：等于 anyway 的"总之、不管怎样"、
 "随随便便地"、以及"无论如何"。
 ① Anyhow, let's move on; we can come back to it if there is time.
@@ -15,6 +16,7 @@ anyhow 另有"随便乱来"这个意思
 anyway 没有
 
 anyone
+/ˈenɪwən/
 核心：和 anybody 完全同义。否定疑问句里是"任何人"，
 肯定句里是"任何一个人都行"。作主语配单数动词。
 ① Does anyone know why the alarm goes off at four every morning?
@@ -48,6 +50,7 @@ someplace = 某个地方（美式口语）
 anywhere = 任何地方（通用）
 
 anything
+/ˈenɪθɪŋ/
 核心：由 any 加 thing 拼成，所以它继承了 any 的全部脾气：在否定句
 和疑问句里是"任何东西"（相当于把范围放开去问），在肯定句里是
 "什么都行"（范围放开到不挑）。真正推不出来的只有 anything but ——
@@ -76,6 +79,7 @@ anything but = 一点也不、绝不是
 if anything = 要说有的话（引出轻微的相反判断）
 
 anytime
+/ˈenɪtaɪm/
 核心：美式常写作一个词，意为"任何时候"。
 英式书面更常分写 any time。
 ① Come anytime; there is always somebody in and the kettle is always on.
@@ -93,6 +97,7 @@ any time = 任何时间（名词短语）
 I don't have any time. = 我没时间。
 
 anyway
+/ˈenɪweɪ/
 核心：三个用法：转折回到主题（"总之"）、让步（"不管怎样"）、
 以及结束话题。口语极高频。注意 anyway 和 any way（任何方式）
 是两个东西。
@@ -115,6 +120,7 @@ any way 任何方式（两个词）
 in any way = 以任何方式
 
 anywhere
+/ˈenɪweə(r)/
 核心：否定疑问句里是"任何地方"，肯定句里是"随便哪里"。美式口语
 常用 anyplace。not… anywhere 等于 nowhere，但 nowhere 不能
 再配否定词。
@@ -185,6 +191,7 @@ aorta = 主动脉
 重音在第二音节。
 
 apace
+/əˈpeɪs/
 核心：文学腔的副词，指"迅速地、大步向前地"。几乎只跟表示进展的
 动词搭配，最常见的是 continue apace 和 grow apace，
 说某件事正在快速推进。
@@ -202,6 +209,7 @@ grow apace = 迅速扩张
 书面语、文学腔，日常说 quickly。
 
 Apache
+/əˈpætʃi/
 核心：北美西南部的一支印第安人，历史上以骑术和游击战闻名，
 十九世纪与美墨两国长期冲突。也是他们语言的名称。
 军用直升机的型号名就是取自这个族名。
@@ -218,6 +226,7 @@ the Apache language = 阿帕奇语
 北美原住民历史与语言学语境。
 
 apart
+/əˈpɑːt/
 核心：底层是"分开、彼此有距离"。距离可以是空间上的（住得分开）、
 感情上的（疏远）、也可以是把整体拆散（拆开、散架）。
 apart from 是高频短语，两个方向都有：一是"除某项之外（不算它）"，
@@ -280,6 +289,7 @@ apartheid = 种族隔离制度（专指南非）
 segregation = 隔离（通用）
 
 apartment
+/əˈpɑːtmənt/
 核心：美式英语的"公寓"，英式叫 flat。英式里用 apartment 时通常
 指高档或度假的公寓。apartment block / building 指整栋楼。
 ① They rent a small apartment above a bakery that opens at four.
@@ -357,6 +367,7 @@ feed on foliage = 以枝叶为食
 通俗读物里也叫它 brontosaurus。
 
 ape
+/eɪp/
 核心：名词指类人猿（黑猩猩、大猩猩、猩猩），没有尾巴——
 这是它和 monkey 的关键差别。动词义是"拙劣模仿"。
 ① Apes have no tails, which is the quickest way to tell them apart.
@@ -457,6 +468,7 @@ go ballistic = 大发雷霆（口语，稍轻）
 lose one's temper = 发脾气（通用）
 
 apex
+/ˈeɪpeks/
 核心：字面指三角形或山峰的"顶点"，
 比喻指事业、权力的"顶峰"。介词用 of。
 ① The apex of the triangle sits directly above the midpoint of the base.

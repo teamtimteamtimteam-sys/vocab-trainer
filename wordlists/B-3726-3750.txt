@@ -30,6 +30,7 @@ the bystander effect = 旁观者越多越无人相助的现象
 注意用法：指在场但没参与的人。
 
 byte
+/baɪt/
 核心：计算机里的信息单位，一个字节等于八位。它跟 bit 的分别
 要靠大小写记：小写 b 是 bit（位），大写 B 是 byte（字节），
 所以 Mb 和 MB 差八倍——网速常按 Mbps 标，
@@ -125,6 +126,7 @@ avoid the C-word = 避开那个忌讳的词
 注意用法：具体指哪个词看上下文，不是固定的。
 
 cab
+/kæb/
 核心：可载客的车。本义是出租车，hail a cab 是招手叫车，
 by cab 是坐出租去；美式口语更常说 cab，英式更常说 taxi。
 第二支是驾驶室：卡车、火车头、起重机上司机坐的那一格。
@@ -216,6 +218,7 @@ cabaret = 有表演的夜总会
 注意读音：词尾 t 不发音。
 
 cabbage
+/ˈkæbɪdʒ/
 核心：卷心菜。英式口语里还有个很不客气的引申义，
 说人是 cabbage，指因重病或脑损伤而失去反应能力的人，
 这个用法带冒犯性，现在多避开。作菜通常不可数，
@@ -265,6 +268,7 @@ caber tossing = 抛木杆比赛
 注意用法：基本只用在 toss the caber 这个说法里。
 
 cabin
+/ˈkæbɪn/
 核心：三支，共同点是围起来的一小间。一是小木屋：山里
 林中那种简易住所，log cabin 是原木小屋。二是船上的舱房、
 飞机上的客舱，cabin crew 是客舱乘务组，cabin baggage 是
@@ -294,6 +298,7 @@ cabin crew = 客舱乘务组
 注意用法：cabin crew、cabin baggage 都是航空固定说法。
 
 cabinet
+/ˈkæbɪnɪt/
 核心：两支，都从带门的柜子来。一是柜子：filing cabinet
 文件柜、medicine cabinet 药柜、display cabinet 陈列柜。
 二是内阁：一国政府里最高的那几位大臣，原意是他们议事的
@@ -325,6 +330,7 @@ cabinet pudding = 英式蒸葡萄干布丁
 注意用法：内阁义大写，cabinetry 不可数。
 
 cable
+/ˈkeɪbəl/
 核心：三支，从粗绳一层层长出来。一是粗缆绳、钢索：
 桥的悬索、起重机的钢丝绳都是。二是电缆、导线，进而指
 有线电视，on cable 就是在有线电视上。三是海底电报时代
@@ -438,6 +444,7 @@ A spoon of creme de cacao turns a bad coffee into a worse dessert.
 注意别混：cacao 是树与生豆，cocoa 是加工后的粉与饮料。
 
 cache
+/kæʃ/
 核心：藏起来的一批东西，也指藏它的地点，a cache of
 weapons 是一批藏起来的武器。计算机义是缓存：把常用数据
 先存在快的地方，下次直接取，clear the cache 是清缓存。

@@ -259,6 +259,7 @@ biodiesel = 生物柴油（替柴油）
 bioethanol = 生物乙醇（替汽油）
 
 biodiversity
+/ˌbaɪəʊdaɪˈvɜːsɪti/
 核心：一个地方生物种类的丰富程度，也含种内的基因差异。不可数，
 多跟 loss、hotspot、conservation 这几个词搭配出现。
 ① The reef has extraordinary biodiversity packed into a few square kilometres.
@@ -436,6 +437,7 @@ biographical = 传记的（讲别人一生）
 autobiographical = 自传的（讲自己一生）
 
 biography
+/baɪˈɒɡrəfi/
 核心：别人写的某人生平，跟自己写的 autobiography 相对——分别不在
 内容在作者。指一本书时可数，指传记这个门类时不可数。
 ① She wrote a biography of Churchill that ran to three volumes.

@@ -1,4 +1,5 @@
 technique
+/tekˈniːk/
 ① She has good technique.
 = 她技巧不错。
 这里：
@@ -13,6 +14,7 @@ technique = 具体技巧（练出来的）
 method = 方法（有步骤的）
 
 temper
+/ˈtempə(r)/
 ① He has a bad temper.
 = 他脾气不好。
 这里：
@@ -29,6 +31,7 @@ temper = 脾气（易怒程度）
 mood = 心情（当下状态）
 
 temple
+/ˈtempəl/
 ① They visited an old temple.
 = 他们参观了一座古庙。
 这里：
@@ -42,6 +45,7 @@ temple = 太阳穴
 身体的 = 太阳穴
 
 tend
+/tend/
 ① I tend to agree.
 = 我倾向于同意。
 tend to do = 往往会、倾向于
@@ -55,6 +59,7 @@ tendency = 倾向
 tend to be = 往往是
 
 tender
+/ˈtendə(r)/
 ① The meat is tender.
 = 这肉很嫩。
 这里：
@@ -69,6 +74,7 @@ tender = 温柔的
 tender 嫩 / tough 老（说肉）
 
 tension
+/ˈtenʃən/
 ① There is tension in the room.
 = 房间里气氛紧张。
 这里：
@@ -83,6 +89,7 @@ tense = 紧张的
 ease tension = 缓和紧张
 
 term
+/tɜːm/
 ① What does this term mean?
 = 这个术语是什么意思？
 这里：
@@ -99,6 +106,7 @@ in terms of = 就…而言
 long-term = 长期的
 
 territory
+/ˈterɪtəri/
 ① They entered enemy territory.
 = 他们进入了敌方领土。
 这里：
@@ -113,6 +121,7 @@ area = 地区（通用）
 region = 大区域
 
 terror
+/ˈterə(r)/
 ① He screamed in terror.
 = 他恐惧地尖叫。
 这里：
@@ -128,6 +137,7 @@ terrorist = 恐怖分子
 fear 害怕 < terror 极度恐惧
 
 theory
+/ˈθɪəri/
 ① In theory, it works.
 = 理论上可行。
 in theory = 理论上
@@ -141,6 +151,7 @@ in theory 理论上 / in practice 实际上
 theory → theories
 
 therefore
+/ˈðeəfɔː(r)/
 ① He was late; therefore he missed it.
 = 他迟到了，因此错过了。
 这里：
@@ -154,6 +165,7 @@ so 口语常用
 therefore 前面通常用分号或句号。
 
 thief
+/θiːf/
 ① The thief ran away.
 = 小偷跑了。
 这里：
@@ -168,6 +180,7 @@ theft = 盗窃
 thief 偷东西 / robber 抢劫
 
 third
+/θɜːd/
 ① He came third.
 = 他得了第三。
 这里：
@@ -181,6 +194,7 @@ a half 二分之一 / a third 三分之一
 a quarter 四分之一
 
 thorough
+/ˈθʌrə/
 ① She did a thorough check.
 = 她做了彻底的检查。
 这里：
@@ -194,6 +208,7 @@ thorough 读 /ˈθʌrə/，
 和 through /θruː/ 完全不同。
 
 thousand
+/ˈθaʊzənd/
 ① There are two thousand people.
 = 有两千人。
 注意：具体数字后不加 s。
@@ -207,6 +222,7 @@ hundred 百 / thousand 千
 million 百万 / billion 十亿
 
 thread
+/θred/
 ① I need a needle and thread.
 = 我需要针线。
 这里：
@@ -220,6 +236,7 @@ lose the thread = 跟不上思路
 thread a needle = 穿针
 
 threat
+/θret/
 ① It's a serious threat.
 = 那是个严重的威胁。
 这里：
@@ -234,6 +251,7 @@ pose a threat = 构成威胁
 under threat = 受到威胁
 
 throat
+/θrəʊt/
 ① I have a sore throat.
 = 我嗓子疼。
 这里：
@@ -246,6 +264,7 @@ sore throat = 喉咙痛
 at each other's throats = 互相攻击
 
 through
+/θruː/
 ① Walk through the door.
 = 从门里走过去。
 这里：
@@ -262,6 +281,7 @@ through = 穿过（内部）
 across = 横过（表面）
 
 throughout
+/θruːˈaʊt/
 ① It rained throughout the day.
 = 整天都在下雨。
 这里：
@@ -273,6 +293,7 @@ throughout = 从头到尾、遍及各处
 during = 在…期间（不强调全程）
 
 thumb
+/θʌm/
 ① He gave me a thumbs up.
 = 他给我竖了个大拇指。
 这里：
@@ -286,6 +307,7 @@ thumb 的 b 不发音，读 /θʌm/。
 thumb 拇指 / finger 其他手指
 
 thunder
+/ˈθʌndə(r)/
 ① I heard thunder.
 = 我听到打雷了。
 注意：thunder 不可数。
@@ -298,6 +320,7 @@ thunderstorm = 雷暴
 中文说"电闪雷鸣"，顺序相反。
 
 thus
+/ðʌs/
 ① He failed; thus he must retake it.
 = 他没通过，因此得重考。
 这里：
@@ -310,6 +333,7 @@ thus 很书面，比 therefore 更正式，
 口语基本不用。
 
 tide
+/taɪd/
 ① The tide is coming in.
 = 涨潮了。
 这里：
@@ -323,6 +347,7 @@ high tide 涨潮 / low tide 落潮
 go against the tide = 逆流而行
 
 till
+/tɪl/
 ① Wait till I come back.
 = 等到我回来。
 这里：
@@ -337,6 +362,7 @@ till = 收银机
 till 更口语。
 
 timber
+/ˈtɪmbə(r)/
 ① The house is made of timber.
 = 那房子是木头造的。
 注意：timber 不可数。
@@ -349,6 +375,7 @@ timber = 建筑用木材
 wood = 木头（通用）
 
 tip
+/tɪp/
 ① Leave a tip.
 = 留点小费。
 这里：
@@ -365,6 +392,7 @@ tip = 尖端
 tip of the iceberg = 冰山一角
 
 toast
+/təʊst/
 ① I had toast for breakfast.
 = 我早餐吃了吐司。
 注意：这个意思不可数。
@@ -379,6 +407,7 @@ a slice of toast = 一片吐司
 propose a toast = 提议干杯
 
 tobacco
+/təˈbækəʊ/
 ① He gave up tobacco.
 = 他戒烟了。
 注意：tobacco 不可数。
@@ -391,6 +420,7 @@ tobacco = 烟草（原料）
 cigarette = 香烟（成品）
 
 toe
+/təʊ/
 ① I stubbed my toe.
 = 我踢到脚趾了。
 这里：
@@ -405,6 +435,7 @@ from head to toe = 从头到脚
 finger 手指 / toe 脚趾
 
 toilet
+/ˈtɔɪlɪt/
 ① Where is the toilet?
 = 洗手间在哪？
 这里（英式）：
@@ -418,6 +449,7 @@ toilet = 厕所
 问路要说 restroom。
 
 tomato
+/təˈmɑːtəʊ/
 ① Add two tomatoes.
 = 加两个番茄。
 注意复数：
@@ -430,6 +462,7 @@ tomato → tomatoes（加 es）
 中间元音差别很大。
 
 tongue
+/tʌŋ/
 ① Stick out your tongue.
 = 把舌头伸出来。
 这里：
@@ -444,6 +477,7 @@ tongue 读 /tʌŋ/，
 结尾的 ue 不发音。
 
 topic
+/ˈtɒpɪk/
 ① Let's change the topic.
 = 我们换个话题。
 这里：
@@ -457,6 +491,7 @@ subject = 科目、主题
 theme = 主题（贯穿全篇的）
 
 torch
+/tɔːtʃ/
 ① Shine the torch here.
 = 把手电照这儿。
 这里（英式）：
@@ -470,6 +505,7 @@ torch = 火炬
 美式 flashlight = 手电筒
 
 tough
+/tʌf/
 ① The meat is tough.
 = 这肉很老。
 这里：
@@ -484,6 +520,7 @@ tough 老 / tender 嫩
 tough luck = 运气不好
 
 tourist
+/ˈtʊərɪst/
 ① The city is full of tourists.
 = 城里全是游客。
 这里：
@@ -497,6 +534,7 @@ tourism = 旅游业
 tourist guide = 导游
 
 trace
+/treɪs/
 ① There is no trace of him.
 = 找不到他的踪迹。
 这里：
@@ -510,6 +548,7 @@ trace = 痕迹
 without a trace = 无影无踪
 
 track
+/træk/
 ① The train is on track two.
 = 火车在二号轨道。
 这里：
@@ -523,6 +562,7 @@ keep track of = 跟踪记录
 on the right track = 方向对了
 
 tradition
+/trəˈdɪʃən/
 ① It's a family tradition.
 = 那是家族传统。
 这里：
@@ -535,6 +575,7 @@ traditional = 传统的
 traditionally = 传统上
 
 tragedy
+/ˈtrædʒɪdi/
 ① It was a terrible tragedy.
 = 那是场可怕的悲剧。
 这里：

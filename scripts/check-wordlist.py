@@ -19,6 +19,9 @@ EQ = re.compile(r"^([A-Za-zÀ-ÿ][A-Za-zÀ-ÿ0-9’'\-\s.]{0,44}?)\s*=\s*(.+)$")
 # 正当词头，全表 12 条。斜杠不会凭空造出假词头，放行是安全的。
 WORD_OK = re.compile(r"^[A-Za-zÀ-ÿ0-9][A-Za-zÀ-ÿ0-9’'\-./ ]*$")
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from ipa import LINE_RE as IPA_LINE
+
 def parse(path):
     is_b = os.path.basename(path).startswith('B-')
     lines = io.open(path, encoding='utf-8').read().replace('\r\n', '\n').split('\n')
@@ -41,6 +44,12 @@ def parse(path):
         e['notes'] = 0
         e['core'] = False          # 第一个 ① 之前是否有「核心：」讲解块（B 词表必需）
         for n, t in b['lines'][1:]:
+            # 音标行（2026-10-06）：词头下面以「/」开头的一行。不算讲解行、不计字符，
+            # 否则每条白捡一行，讲解行密度和 A 表的字符基线都会虚高。
+            if sense is None and t.startswith('/'):
+                e['chars'] -= len(t)
+                if not IPA_LINE.match(t): e['issues'].append("音标行格式不合法：%s" % t)
+                continue
             if t[0] in NUMS:
                 sense = {'ex': t[1:].strip(), 'tr': ''}
                 e['senses'].append(sense); continue

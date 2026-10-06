@@ -88,6 +88,7 @@ antiquarian = 古物古籍的（收藏、买卖）
 archaeologist = 考古学家（发掘、研究遗址）
 
 antiquated
+/ˈæntɪkweɪtɪd/
 核心：指制度、设备、观念"陈旧过时的"，贬义。
 比 old 带批评，暗示"早该换了"。
 ① The system is antiquated and the only man who understands it retires in March.
@@ -107,6 +108,7 @@ obsolete = 淘汰的（不再使用）
 outdated = 过时的（通用）
 
 antique
+/ænˈtiːk/
 核心：指有年代和收藏价值的"古董"，名词形容词同形。
 和 antiquated（过时的，贬义）方向相反。
 ① She collects antiques and can date a chair by the way its legs are joined.
@@ -123,6 +125,7 @@ antiquated = 过时的（该淘汰，贬义）
 old = 旧的（中性）
 
 antiquity
+/ænˈtɪkwɪti/
 核心：三条线：古代这个时期、古老这个性质、
 以及复数的"古物"。
 ① The statue dates from antiquity and lost its arms long before anyone thought to record how.
@@ -242,6 +245,7 @@ antitrust legislation = 反垄断法
 美式用词，英式说竞争法。
 
 antivirus
+/ˌæntɪˈvaɪrəs/
 核心：指"杀毒的"，专说电脑软件——扫描并清除恶意程序的那类工具。
 也直接作名词指这种软件。注意它跟医学上的抗病毒完全是两回事，
 医学那个说 antiviral。
@@ -312,6 +316,7 @@ restless = 静不下来的（通用）
 nervous = 紧张的（怕）
 
 anus
+/ˈeɪnəs/
 核心：解剖学词，指肛门——消化道的末端开口。
 医学语境用，日常有委婉说法。
 ① The anus is the end of the digestive tract and is controlled by two separate muscles.
@@ -345,6 +350,7 @@ anvil = 砧骨
 stirrup = 镫骨
 
 anxiety
+/æŋˈzaɪəti/
 核心：两层：日常的"担忧"和医学上的"焦虑症"。另有一层正面的
 "急切渴望"，搭配 anxiety to do。不可数为主，指具体的忧虑时可数。
 ① She felt great anxiety and has suffered from it since her twenties.
@@ -364,6 +370,7 @@ concern 关切 < worry 担心 < anxiety 焦虑
 eco-anxiety = 生态焦虑（为环境前景持续担忧）
 
 anxious
+/ˈæŋʃəs/
 核心：两个方向相反的意思。一是"担忧的"（负面），二是"急切想要的"
 （正面）。靠结构区分：be anxious about 是担心，
 be anxious to do 是急于。
@@ -397,6 +404,7 @@ anxiety = 焦虑
 anxiously 也有担忧和急切两个方向。
 
 any
+/ˈeni/
 核心：底层是"不特指哪一个"。用在否定句和疑问句里对应肯定句的
 some；用在肯定句里意思变成"任何一个都行"。修饰比较级时表示程度，
 是很多人不知道的用法。
@@ -427,6 +435,7 @@ any more = 不再（用于否定与疑问）
 any time = 随时
 
 anybody
+/ˈenɪbɒdi/
 核心：和 anyone 完全同义，可互换。否定疑问句里是"任何人"，肯定句
 里是"任何一个人（都行）"。作主语时动词用单数。
 ① Is anybody there? she called down a staircase nobody had used for years.

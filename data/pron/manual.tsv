@@ -1,0 +1,5 @@
+# 手写与更正的音标：词头<TAB>音标行。用 python3 scripts/ipa.py set data/pron/manual.tsv 写入（会覆盖自动填的）。
+# 2026-10-06 抽查自动填充结果时发现的词典错误：
+refugee	/ˌrefjuˈdʒiː/
+employee	/ɪmˈplɔɪiː/
+caffeine	/ˈkæfiːn/

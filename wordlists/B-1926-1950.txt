@@ -48,6 +48,7 @@ dayshift = 白班
 nightshift = 夜班（深夜到清晨）
 
 backside
+/ˈbæksaɪd/
 核心：非正式说法，指"屁股"。语气比 buttocks 随意，比更粗的
 说法客气，所以是相对安全的日常用词。也可指某物的"背面"，
 但那一层少见。
@@ -307,6 +308,7 @@ retract = 收回（正式撤回原话）
 qualify = 加限定（不推翻，只缩小范围）
 
 backup
+/ˈbækʌp/
 核心：底层是"顶在后面的那一份"。数据上是"备份"；人手上是
 "后援、支援"；东西上是"备用的那一个"。写成两个词
 back up 时是动词。
@@ -326,6 +328,7 @@ sing backup = 唱伴唱
 名词与形容词连写，动词分写成两个词。
 
 backward
+/ˈbækwəd/
 核心：底层是"朝后的"。方向上是向后；进度上是落后、发展迟缓；
 态度上是踌躇不前。注意第二层用来说人或地区时带冒犯，
 今天多改说 developing 或 with learning difficulties。
@@ -363,6 +366,7 @@ backward-looking = 守旧的（贬义）
 forward-looking = 有前瞻的（褒义）
 
 backwards
+/ˈbækwədz/
 核心：backward 的副词形式，英式常加词尾 s，美式两种都用。
 三层：方向上"向后"；顺序上"倒着来"；程度上跟 lean over
 搭配指"竭尽全力"。习语 know something backwards 指"熟到倒背如流"。

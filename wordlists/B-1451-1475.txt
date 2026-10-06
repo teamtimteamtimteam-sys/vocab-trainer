@@ -1,4 +1,5 @@
 arsenal
+/ˈɑːsənəl/
 核心：三条线：储存武器的"军火库"、一国的"全部军备"、
 以及比喻义的"全套手段"。
 ① The nuclear arsenal was reduced by treaty and by the cost of keeping it.
@@ -16,6 +17,7 @@ armoury = 军械库（存放处）
 stockpile = 储备（囤积量）
 
 arsenic
+/ˈɑːsnɪk/
 核心：指砷，一种剧毒的化学元素，符号 As。
 历史上是著名的毒药。不可数。
 ① Arsenic is highly toxic and was for centuries impossible to detect after death.
@@ -32,6 +34,7 @@ mercury = 汞 / lead = 铅
 cadmium = 镉 / thallium = 铊
 
 arson
+/ˈɑːsən/
 核心：法律用语，指蓄意"纵火"这一罪行。不可数。
 关键在"蓄意"——意外失火不叫 arson。
 ① He was charged with arson after a neighbour remembered the smell of petrol.
@@ -52,6 +55,7 @@ fire = 火灾（中性）
 accidental fire = 意外失火
 
 art
+/ɑːt/
 核心：两条线。一条是我们熟悉的"艺术"：不可数时指艺术这个整体，
 复数 arts 指各门艺术，也指学校里的"文科"。另一条更老，指"技艺、
 本事"——凡是要练出来的门道都算，所以有 the art of persuasion、
@@ -180,6 +184,7 @@ arteriosclerosis = 动脉硬化（管壁变硬的统称）
 atherosclerosis = 粥样硬化（脂质斑块那一型）
 
 artery
+/ˈɑːtəri/
 核心：两条线：把血从心脏送出去的"动脉"，
 和比喻义的"交通干道"。
 ① The artery was blocked and the surgeon had about four minutes.
@@ -238,6 +243,7 @@ artless = 天真质朴的
 那个意思要用 artistic。
 
 arthritis
+/ɑːˈθraɪtɪs/
 核心：指关节炎——关节发炎引起疼痛和僵硬。不可数。
 最常见的两型是 osteoarthritis 和 rheumatoid arthritis。
 ① She suffers from arthritis and can no longer hold a pen for long.
@@ -309,6 +315,7 @@ artichoke heart = 洋蓟心
 是完全不同的植物。
 
 article
+/ˈɑːtɪkəl/
 核心：四层：报刊上的文章、法律条文的条款、一件物品、以及语法上的
 冠词。四个意思之间没有明显联系，靠搭配识别。
 ① I read an article about it that got two of the facts wrong.
@@ -334,6 +341,7 @@ article of faith = 信条、不容置疑的信念
 articled = 立约当学徒的、实习的
 
 articulate
+/ɑːˈtɪkjʊlɪt/
 核心：形容词是"表达清晰的"（读 /lət/），
 动词是"清楚表达"或"发音清晰"（读 /leɪt/）。
 解剖上还指骨头"以关节相连"。
@@ -379,6 +387,7 @@ pronunciation = 发音（读音准不准）
 enunciation = 吐字（清不清楚）
 
 artifact
+/ˈɑːtɪfækt/
 核心：artefact 的美式拼法，两层意思。一是"人工制品"——人做出来的
 东西，考古学里特指出土的器物；二是技术上的"伪影"，指测量或成像
 过程本身弄出来的假信号，不是被测对象真有的东西。
@@ -415,6 +424,7 @@ technique = 技法（中性）
 guile = 狡诈（贬义）
 
 artificial
+/ˌɑːtɪˈfɪʃəl/
 核心：指"人造的，不是天然的"。用于物是中性（人造材料），用于人的
 表情态度是贬义（虚假的）。artificial intelligence 是现在最高频的
 搭配。
@@ -493,6 +503,7 @@ artist = 艺术家（创作）
 labourer = 体力工（无特定技艺）
 
 artist
+/ˈɑːtɪst/
 核心：狭义指画家，广义指一切靠创作吃饭的人，音乐人、演员都算。
 另有一层口语用法要单记：artist 跟在某个坏事后面，指"干那事的
 老手"，con artist 是骗子、rip-off artist 是宰客的行家——这里的
@@ -542,6 +553,7 @@ artist = 艺术家（含画家、音乐人）
 artiste = 表演艺人（专指演出）
 
 artistic
+/ˌɑːˈtɪstɪk/
 核心：三条线：人"有艺术天分的"、事物"有艺术性的"、
 以及"与艺术有关的"。
 ① She is very artistic and cannot draw a straight line to save herself.

@@ -88,6 +88,7 @@ aloe = 芦荟（多肉，叶含胶质）
 cactus = 仙人掌（多刺，无真叶）
 
 age
+/eɪdʒ/
 核心：底层是"经历的时间长度"。落在人身上是年龄，落在物上是年头，
 落在历史上就是时代。动词还是这条主线：让时间在身上多走一段，
 就是"变老"，用在酒和奶酪上就是"陈化"——同一件事，褒贬不同。
@@ -172,6 +173,7 @@ ancient = 古代的（时间尺度更大）
 long-standing = 长期存在的
 
 aged
+/eɪdʒd/
 核心：两个读音对应两个意思。读一个音节时是"…岁的"（aged 12），
 读两个音节时是"年老的"（the aged）。这是高频混淆点。
 ① He has a son aged ten who reads at the level of a fifteen-year-old.
@@ -189,6 +191,7 @@ aged 12 → /eɪdʒd/ 一个音节
 the aged → /ˈeɪdʒɪd/ 两个音节
 
 ageing
+/ˈeɪdʒɪŋ/
 核心：既是名词"衰老、老化"，也是形容词"日渐老化的"。
 人口老龄化 an ageing population 是社会议题高频词。
 ① We have an ageing population and a housing stock built for young families.
@@ -243,6 +246,7 @@ ageless = 不显老、不过时
 timeless = 永恒的（同义，更常用）
 
 agency
+/ˈeɪdʒənsi/
 核心：指代办某类业务的机构。前面加限定词就分出各种类型：travel
 agency、news agency、advertising agency。另有一个正式义指
 "自主行动的能力"，社科文献里常见。
@@ -260,6 +264,7 @@ a dating agency = 婚介所、交友中介
 注意复数：agency → agencies
 
 agenda
+/əˈdʒendə/
 核心：字面是会议的"议程表"，比喻义是某人心里"真正想推动的事"，
 后者常带负面色彩，说某人 has an agenda 意思是他别有所图。
 ① What's on the agenda? The issue has been high on it since March.
@@ -276,6 +281,7 @@ a hidden agenda = 不明说的盘算
 现在当单数用，复数是 agendas。
 
 agent
+/ˈeɪdʒənt/
 核心：底层是"替别人办事的人或起作用的东西"。替客户办事的是经纪人
 和代理商，替政府办事的是特工，化学上起作用的是"剂"。
 ① She is a real estate agent and has sold the same house four times.
@@ -367,6 +373,7 @@ aggrandisement = 扩张权势（英式）
 正式书面语，带贬义。
 
 aggravate
+/ˈæɡrəveɪt/
 核心：两条线：一是正式义"使恶化"（宾语是问题、病情），二是口语义
 "惹恼"。第一条在书面语里更常见，第二条有些人认为不够规范。
 ① The delay aggravated the problem and turned a repair into a rebuild.
@@ -420,6 +427,7 @@ aggravation = 恶化（正式）；烦扰（口语）
 hassle = 麻烦（口语）
 
 aggregate
+/ˈæɡrɪɡeɪt/
 核心：名词指"总量、合计"，形容词指"总计的"，动词指"汇总"。
 in aggregate 是"总计"。建筑上还指混凝土用的"骨料"。
 注意动词和名词发音不同。
@@ -467,6 +475,7 @@ aggregation = 汇集（把分散的合起来）
 accumulation = 积累（逐渐增多）
 
 aggression
+/əˈɡreʃən/
 核心：两条线：国际上的"侵略"，和心理上的"攻击性"。不可数。
 注意它和 aggressive 的褒贬分工不同——aggression 基本是负面的。
 ① They condemned the aggression and went on buying the same oil.
@@ -490,6 +499,7 @@ aggressor = 侵略者
 但 aggressive 在商业语境可褒。
 
 aggressive
+/əˈɡresɪv/
 核心：来自 aggress（进攻），所以底层永远是"主动扑上去"。扑的对象
 不同，褒贬就翻转：扑向人是"好斗、有攻击性"，贬义；扑向市场和目标
 是"积极进取的"，褒义；医学上说病扑向身体，是"侵袭性强、发展快"。

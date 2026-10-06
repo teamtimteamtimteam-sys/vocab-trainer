@@ -1,4 +1,5 @@
 advantage
+/ədˈvɑːntɪdʒ/
 核心：底层是"比别人多出来的那点有利条件"——多出来这一点是关键，
 所以它天然要有个比较对象，介词用 over。take advantage of 有两种
 语气，全靠宾语判断：宾语是机会、折扣这类事物，是中性的"好好利用"；
@@ -37,6 +38,7 @@ Disadvantaged pupils get a grant and the forms take a fortnight.
 = 处境不利的学生能领补助，那些表格要填两个星期。
 
 advantageous
+/ˌædvənˈteɪdʒəs/
 核心：指"有利的、有好处的"，正式。介词用 to（对谁有利）。
 比 good 精确，强调"带来优势"。
 ① The deal is advantageous to us and rather less so to everyone downstream.
@@ -55,6 +57,7 @@ disadvantageous = 不利的
 advantage = 优势
 
 advent
+/ˈædvent/
 核心：指某个重要事物的"出现、到来"，正式。固定用 the advent of。
 大写 Advent 特指基督教的"降临节"。
 ① The advent of the internet changed everything except the postal service.
@@ -72,6 +75,7 @@ the advent of 这个结构。
 adventitious = 偶然的、外来的（正式）
 
 adventure
+/ədˈventʃə(r)/
 核心：底层是"结果未定、带风险的经历"，词源就是"将要发生的事"。
 不可数时指"冒险"这种气质或状态（a spirit of adventure）；
 可数时指一次具体的经历。派生词分褒贬两路：adventurous 是褒义的
@@ -130,6 +134,7 @@ explorer = 探险者（中性）
 opportunist = 机会主义者（贬义）
 
 adventurous
+/ədˈventʃərəz/
 核心：两条线：人"爱冒险的"，和事物"大胆新颖的"。
 说菜式、设计 adventurous 是褒义，指敢于创新。
 ① She has an adventurous spirit and a filing system nobody else can use.
@@ -186,6 +191,7 @@ adverbial particle = 小品词（不带宾语，可移位）
 preposition = 介词（后面必带宾语）
 
 adversary
+/ˈædvəsəri/
 核心：指"对手、敌手"，比 opponent 正式且对抗性更强，
 常用于政治、法律、军事。形容词 adversarial 指"对抗式的"。
 ① He faced a formidable adversary who had studied every game he had played.
@@ -284,6 +290,7 @@ hardship 艰难（生活困苦）
 misfortune 不幸（运气不好）
 
 advert
+/ædˈvɜːt/
 核心：英式口语里 advertisement 的简写，就是"广告"。
 美式说 ad。另有一个正式动词 advert to，意为"提及"，很少用。
 ① I saw an advert in the paper for a job that no longer existed.
@@ -310,6 +317,7 @@ advertise = 打广告
 advertorial = 软文广告
 
 advertise
+/ˈædvətaɪz/
 核心：底层是"让公众知道"，告知的目的不同就分出各义。为卖东西而
 告知是"打广告"，为招人而告知是"登启事"，不为交易只是让人都知道，
 就成了贬义的"张扬"。拼写上 -ise 与 -ize 都行，但名词
@@ -340,6 +348,7 @@ advertiser = 广告主
 注意发音：英式重音在第二个音节，美式在第三个。
 
 advertisement
+/ədˈvɜːtɪsmənt/
 核心：正式的"广告"一词。英美重音位置差别很大，是个经典发音难点。
 可数，介词用 for。
 ① He placed an advertisement and had forty replies before the weekend.
@@ -365,6 +374,7 @@ a classified advertisement = 分类广告
 advertising = 广告业
 
 advertiser
+/ˈædvətaɪzə(r)/
 核心：指投放广告的人或公司，即广告主，不是广告公司。
 广告代理公司叫 advertising agency。
 ① Advertisers target young buyers who have almost no money to spend.
@@ -385,6 +395,7 @@ advertising agency 广告公司（做广告的）
 advertise = 做广告
 
 advertising
+/ˈædvətaɪzɪŋ/
 核心：指广告这个行业和这项活动，不可数。
 和 advertisement（单则广告，可数）区分。
 ① She works in advertising and can no longer watch television without commenting.
@@ -402,6 +413,7 @@ advertisement = 一则广告（可数）
 advert / ad = 广告（口语）
 
 advice
+/ədˈvaɪs/
 核心：不可数名词，这是最容易错的地方——不说 an advice、advices，
 要说 a piece of advice。动词是 advise，拼写和读音都不同。
 ① That's a good piece of advice and nobody in this family will take it.
@@ -451,6 +463,7 @@ advise = 建议
 advisability = 是否明智、可取性
 
 advise
+/ədˈvaɪz/
 核心：动词，指"给出建议"。三种结构都高频：advise doing、advise
 someone to do、advise that。另有商务上"正式告知"的义。
 ① I advise waiting until the survey comes back before you make an offer.
@@ -475,6 +488,7 @@ advisedly = 经过考虑地、有意地
 take under advisement = 郑重考虑（美式）
 
 adviser
+/ədˈvaɪzə(r)/
 核心：指顾问、指导老师。拼写 adviser 和 advisor 都对——
 英式偏 adviser，美式两者都常见。介词用 to 或 on。
 ① She is an adviser to the president and speaks to him twice a week.
@@ -497,6 +511,7 @@ adviser / advisor 都可以，
 英式文本更常见 adviser。
 
 advisory
+/ədˈvaɪzəri/
 核心：形容词指"咨询性质的、只提建议不作决定的"；名词指官方发布的
 "警示公告"（weather advisory）。后者美式更常用。
 ① He serves in an advisory role and attends about half the meetings.
@@ -536,6 +551,7 @@ eggnog = 蛋奶酒（英美圣诞饮品）
 liqueur = 利口酒（甜味烈酒统称）
 
 advocacy
+/ˈædvəkəsi/
 核心：指"公开倡导、为某个主张奔走"，不可数。介词用 of 或 for。
 法律上还指"出庭辩护"。
 ① She is known for her advocacy of reform that took twenty years to arrive.
@@ -554,6 +570,7 @@ lobbying = 游说（施加影响）
 campaigning = 造势（发动运动）
 
 advocate
+/ˈædvəkeɪt/
 核心：动词是"主张、提倡"，名词是"倡导者"，苏格兰法律里还指"律师"。
 注意动词和名词发音不同，结尾一个是 /eɪt/ 一个是 /ət/。
 后面接名词或 doing，不接 to do。

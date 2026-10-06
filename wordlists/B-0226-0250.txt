@@ -15,6 +15,7 @@ propane = 丙烷 / butane = 丁烷
 methane = 甲烷
 
 ache
+/eɪk/
 核心：指持续的钝痛，不是突然的刺痛。既是名词也是动词。构词上
 可以和身体部位组合：headache、backache、toothache、stomach ache。
 ① My head aches whenever the pressure drops and the forecast never mentions it.
@@ -49,6 +50,7 @@ achievable 可实现 / unachievable 无法实现
 achieve = 实现
 
 achieve
+/əˈtʃiːv/
 核心：指"通过努力得到"，宾语是目标、成绩、结果这类正面的东西。
 不能说 achieve a failure。被动用得也很多。
 ① She achieved her ambition, achieved excellent results and told nobody.
@@ -62,6 +64,7 @@ The target is achievable and nobody in the room believes it.
 注意：achieve 的宾语必须是正面的。
 
 achievement
+/əˈtʃiːvmənt/
 核心：既指"取得"这个行为，也指"取得的成果"。作"成果"讲时可数，
 作"取得"讲时不可数。
 ① It was a remarkable achievement for a team that had lost its funding in March.
@@ -181,6 +184,7 @@ sore = 酸痛（碰了更疼）
 tender = 一按就疼
 
 acid
+/ˈæsɪd/
 核心：一个化学概念长出三条线。化学本义是"酸"，与碱相对，性质是
 "腐蚀"。腐蚀这个性质往两头走：往物质走是形容词"酸的、有腐蚀性的"，
 往人走就是比喻义"说话尖刻"——话像酸一样蚀人。第三条线是俚语，
@@ -265,6 +269,7 @@ hydrochloric acid = 盐酸
 强酸之一，胃液的主要成分。
 
 acidic
+/əˈsɪdɪk/
 核心：化学上指"酸性的"，与碱性相对；日常也指食物"发酸的"。
 和形容词 acid 意思重叠，acidic 更偏技术。
 ① The soil is acidic and grows rhododendrons better than anything else.
@@ -299,6 +304,7 @@ acidic = 酸性的
 alkalinity = 碱度
 
 acknowledge
+/əkˈnɒlɪdʒ/
 核心：底层是"公开表示我看见了、我认这件事"。认的对象不同就分出
 各义：认事实是"承认"，认某人的本事是"公认他是"，认收到东西是
 "确认收讫"，认见到了人就是点头示意，认别人帮过忙就是"致谢"。
@@ -332,6 +338,7 @@ acknowledgement = 承认；致谢；回执
 acknowledged = 公认的（作定语）
 
 acknowledged
+/əkˈnɒlɪdʒd/
 核心：指某人或某事"被公认为…的"，只作定语或用在
 be acknowledged as 结构里。强调是外界公认，不是自封。
 ① She is an acknowledged expert and has never held a formal qualification.
@@ -352,6 +359,7 @@ renowned = 著名的（名气大）
 self-proclaimed = 自封的（反面）
 
 acknowledgement
+/əkˈnɒlɪdʒmənt/
 核心：三条线，全从动词来：承认某事、确认收到、以及书里的"致谢"。
 最后一条常用复数 acknowledgements，指书前的致谢页。
 ① There was no acknowledgement of the error in any of the three statements.
@@ -390,6 +398,7 @@ pinnacle = 巅峰（正式）
 zenith = 顶点（天文引申）
 
 acne
+/ˈækni/
 核心：指痤疮、粉刺，医学词但日常通用。不可数——这是常见错点，
 不说 an acne 或 acnes。
 ① She suffers from acne and has been given four different creams this year.
@@ -423,6 +432,7 @@ follower = 追随者（中性）
 disciple = 门徒（尊敬）
 
 acorn
+/ˈeɪkɔːn/
 核心：橡树的果实，也就是橡子。词本身单义，值得记的是它在英语里
 的比喻位置：小得不起眼却能长成参天大树，所以谚语和文学里常拿它
 比"起点微小的东西"。名字也进了几个照形状取的词，如 acorn squash。
@@ -443,6 +453,7 @@ acorn squash = 橡子南瓜（因形似得名）
 注意发音：重音在前，读作两个音节。
 
 acoustic
+/əˈkuːstɪk/
 核心：指"声音的、原声的"。音乐上指不用电扩音的（acoustic guitar），
 建筑上指与声学有关的。复数名词 acoustics 指某个空间的"音效"。
 ① He plays acoustic guitar in a bar that has never once turned the lights up.
@@ -498,6 +509,7 @@ acquaintance = 熟人；了解
 注意：acquaint 一定要带 with。
 
 acquaintance
+/əˈkweɪntəns/
 核心：两条线：认识但不熟的"熟人"（可数），和"对某事的了解"
 （不可数）。前者比 friend 疏远得多，这个分寸很重要。
 make someone's acquaintance 是正式的"结识"。

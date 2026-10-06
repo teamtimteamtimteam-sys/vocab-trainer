@@ -1,4 +1,5 @@
 elm
+/elm/
 核心：榆树：高大的落叶树，木材坚韧；二十世纪的荷兰榆病几乎杀光了欧洲的成年榆。
 树可数，木材不可数。
 ① The elm by the church was the last mature one in the county.
@@ -95,6 +96,7 @@ argue eloquently = 雄辩地论证
 speak eloquently about something = 有力地道出某事
 
 else
+/els/
 核心：三支，永远跟在疑问词、不定代词或副词后面。
 一是别的、其他的：something else、anyone else、where else；
 二是 or else：否则，也用来含糊地威胁；三是所有格写作 somebody else's。
@@ -115,6 +117,7 @@ or else = 否则
 somebody else's = 别人的
 
 elsewhere
+/ˈelsweə(r)/
 核心：在别处、到别处：副词，指另外某个地方；
 正式文体里也用来指「另一处文献、另一节」。
 ① The same rule applies elsewhere and nobody enforces it here.
@@ -144,6 +147,7 @@ further elucidation = 进一步的说明
 构词：elucidate 的名词
 
 elude
+/ɪˈluːd/
 核心：三支。一是躲开、逃脱：elude the police；
 二是（成功、结果）总也得不到：success eluded him；
 三是（名字、意思）一时想不起来。规则变化，形容词 elusive。
@@ -198,6 +202,7 @@ an elver = 幼鳗
 elvers = 幼鳗（复数）
 
 elves
+/elvz/
 核心：elf 的复数：精灵们。拼写上是 f 变 v 再加 -es，
 跟 leaf → leaves、half → halves 同一路。
 ① The elves in that film were played by tall actors and short cameras.
@@ -237,6 +242,7 @@ emaciation = 极度消瘦
 the emaciation of somebody = 某人的形销骨立
 
 email
+/ˈiːmeɪl/
 核心：名词两支、动词一支。名词一是电子邮件这套系统，不可数；
 二是一封邮件，可数。动词是发邮件：email somebody something。也写作 e-mail。
 ① She answers email twice a day and ignores it the rest of the time.

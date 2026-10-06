@@ -1,4 +1,5 @@
 adjust
+/əˈdʒʌst/
 核心：底层是"做小幅度的改动使之更合适"。调机器是及物用法，人去
 适应新情况是不及物加 to。和 adapt 的差别：adjust 改的幅度小，
 adapt 可能是结构性的改变。
@@ -14,6 +15,7 @@ adjustment = 调整
 adjustable = 可调节的
 
 adjustable
+/əˈdʒʌstəbəl/
 核心：指"可调节的"，家具、设备、利率都能用。
 adjustable rate mortgage 是金融高频词。
 ① The seat is adjustable in six directions and comfortable in none of them.
@@ -38,6 +40,7 @@ An adjustable wrench rounds off every nut it has ever touched.
 = 活动扳手碰过的螺母，个个都被磨圆了角。
 
 adjustment
+/əˈdʒʌstmənt/
 核心：三条线：技术上的"调校"、数据上的"调整"、
 以及心理上"适应新环境"的过程。
 ① Make a small adjustment to the mirror before you pull out of the space.
@@ -94,6 +97,7 @@ advertising = 广告业
 adman = 广告从业者
 
 administer
+/ədˈmɪnɪstə(r)/
 核心：三条线：管理机构、执行法规、以及医学上"给药"。都可以归到
 "把某件事施行下去"。比 manage 正式。
 ① She administers the fund and has never once drawn on it herself.
@@ -118,6 +122,7 @@ administration = 管理
 administrator = 管理者
 
 administration
+/ədˌmɪnɪˈstreɪʃən/
 核心：三层：管理这件事、管理机构本身、美式英语里的"政府任期"。
 另有医学上"给药"的正式义。
 ① She works in administration and knows where every file in the building is.
@@ -135,6 +140,7 @@ administer = 管理、施行
 administrative = 行政的
 
 administrative
+/ədˈmɪnɪstrətɪv/
 核心：指"行政的、管理事务的"，与业务和技术工作相对。
 常见搭配 administrative work / staff / costs。
 ① She does administrative work three days a week and teaches on the others.
@@ -157,6 +163,7 @@ administratively = 行政上
 administration = 行政
 
 administrator
+/ədˈmɪnɪstreɪtə(r)/
 核心：指负责管理运营的人。在学校、医院、公司里都用；
 IT 里的"系统管理员"是 system administrator，常简称 admin。
 ① She is a hospital administrator and used to be a nurse on the same ward.
@@ -216,6 +223,7 @@ admire = 钦佩
 重音在第一音节 /ˈædmərəbli/。
 
 admiral
+/ˈædmərəl/
 核心：海军的最高军衔，"海军上将"。注意它和 admire 只是看着像，
 词源不同，意思毫无关系。
 ① He was promoted to admiral at forty-eight and retired within three years.
@@ -236,6 +244,7 @@ air marshal 空军元帅（英式）
 注意：admiral 和 admire 无关。
 
 admiration
+/ˌædmɪˈreɪʃən/
 核心：指"钦佩、赞赏"这种感情，不可数。介词用 for。
 搭配 have / express / win admiration。
 ① I have great admiration for her and have told her so exactly once.
@@ -259,6 +268,7 @@ admirer = 仰慕者
 注意：admiration 不可数。
 
 admire
+/ədˈmaɪə(r)/
 核心：底层是"因为对方好而心生佩服"。佩服的可以是人的品质本事，
 也可以只是"欣赏地看着"某样东西——后一支不带敬意，纯粹是看得入神。
 介词用 for，引出佩服的理由。名词 admirer 有一层专用义：爱慕者、
@@ -345,6 +355,7 @@ admission = 准入
 admissibility = 可采纳性
 
 admission
+/ədˈmɪʃən/
 核心：三条线，对应动词 admit：承认（an admission of guilt）、
 入场准入（admission fee）、以及入院入学。第一条最容易被忽略。
 ① It was an admission of guilt made in front of no witnesses at all.
@@ -366,6 +377,7 @@ admission 承认；准入
 admittance 准入（只有这一个意思，更正式）
 
 admit
+/ədˈmɪt/
 核心：底层是"让某样东西进来"，进的是什么就分出哪一支。让事实进来
 是"承认"，让人进门是"准许入内"，让人进学校是"录取"，让病人进
 医院是"收治"。语法上有个硬点：承认义后面接 doing 或 that 从句，
@@ -423,6 +435,7 @@ admission = 准入；承认；入场费
 admit = 准许进入
 
 admittedly
+/ədˈmɪtɪdli/
 核心：句首副词，用来"先承认对方有理，再转折"。是学术写作和辩论里
 的高频让步标记，后面通常跟 but 或 however。
 ① Admittedly, the plan has flaws, but nobody has offered a better one.
@@ -503,6 +516,7 @@ fuss = 大惊小怪（通用口语）
 commotion = 骚动（场面混乱）
 
 adobe
+/əˈdəʊbi/
 核心：指"土坯"——黏土掺稻草晒干做成的砖，也指用这种砖盖的房子和
 这种建筑材料本身。西班牙语借词，美国西南部和墨西哥一带常见。
 ① The walls are made of adobe and stay cool through the worst of the afternoon.

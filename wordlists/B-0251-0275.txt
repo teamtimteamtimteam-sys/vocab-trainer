@@ -18,6 +18,7 @@ acquaintance = 熟人
 且暗示交情不深。
 
 acquiesce
+/ˌækwɪˈes/
 核心：指"默许、不情愿地顺从"——关键在于不是主动同意，
 而是不反对。正式。介词用 in 或 to。
 ① She acquiesced in the decision and put her objection in writing anyway.
@@ -57,6 +58,7 @@ acquiescence = 默许（消极不反对）
 consent = 同意（积极表态）
 
 acquire
+/əˈkwaɪə(r)/
 核心：底层是"逐步得到并拥有"。得到的可以是技能、习惯、名声
 （靠积累），也可以是资产、公司（靠购买）。比 get 正式得多。
 ① She acquired fluent French and a reputation for saying too much.
@@ -73,6 +75,7 @@ acquired = 后天获得的
 innate = 天生的
 
 acquired
+/əˈkwaɪəd/
 核心：指"后天获得的"，与 innate（天生的）相对。
 三个高频搭配：acquired taste、acquired immunity、acquired skill。
 ① It's an acquired taste and most people give up before acquiring it.
@@ -93,6 +96,7 @@ acquire = 获得
 acquired characteristic = 获得性状（生物学）
 
 acquisition
+/ˌækwɪˈzɪʃən/
 核心：两条线，对应动词 acquire：商业上的"收购"，和学习上的
 "习得"。language acquisition 是语言学核心术语。另可指"新添的
 藏品或人员"。
@@ -132,6 +136,7 @@ greedy = 贪婪的（更直白）
 acquisitiveness = 占有欲
 
 acquit
+/əˈkwɪt/
 核心：法律用语，指法庭"宣判无罪"，几乎总用被动 be acquitted of。
 另有一个反身用法 acquit oneself，指"表现（得如何）"。
 注意拼写要双写 t。
@@ -169,6 +174,7 @@ conviction = 有罪判决
 acquit = 判无罪
 
 acre
+/ˈeɪkə(r)/
 核心：英美的面积单位，约 4047 平方米，合约 6 市亩。复数 acres 在
 口语里还能表示"一大片"。注意发音，不读成"阿克"。
 ① The farm covers two hundred acres and is worked by three people.
@@ -251,6 +257,7 @@ hostility = 敌意（立场性）
 resentment = 忿恨（积怨）
 
 acrobat
+/ˈækrəbæt/
 核心：指杂技演员，尤指做翻腾、走钢丝这类技巧的人。
 比喻义可指立场灵活多变的人（political acrobat）。
 ① The acrobat balanced on a wire strung between two chimney stacks.
@@ -332,6 +339,7 @@ necropolis = 陵园
 acrophobia = 恐高症
 
 across
+/əˈkrɒs/
 核心：底层意象是"从一边到另一边横穿"。由此有三层：横穿的动作、
 横穿之后到达的"对面"、以及范围上的"遍及各处"。和 through 的
 差别：across 走的是表面，through 是穿过内部。
@@ -387,6 +395,7 @@ carcinogen = 致癌物
 Maillard reaction = 美拉德反应
 
 acrylic
+/əˈkrɪlɪk/
 核心：三条线：合成纤维（毛衣）、丙烯颜料（绘画）、
 以及有机玻璃（acrylic sheet）。都指同一类合成材料。
 ① The sweater is acrylic and holds its shape better than the wool one did.
@@ -403,6 +412,7 @@ acrylic = 腈纶、亚克力（合成）
 wool = 羊毛（天然）
 
 act
+/ækt/
 核心：主线是"做出一个动作"，一切分支都能从这里推出来。人真做，
 是"行动"；装着做，是"表演、假装"；把该怎么做定成条文，是"法案"；
 戏里的一段做，是"幕"；药在体内起的作用，也是它在"做事"。
@@ -473,6 +483,7 @@ act upon = 依照某事行动（同 act on，更正式）
 an enabling act = 授权法
 
 acting
+/ˈæktɪŋ/
 核心：两条线，来路都是 act，但一条走"演"，一条走"暂时代做"。
 走演的是名词，指表演这门行当，不可数；走代做的是形容词，
 只能放在职务名前面，acting head 是代理负责人——他不是在演，

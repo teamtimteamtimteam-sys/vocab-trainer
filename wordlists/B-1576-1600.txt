@@ -1,4 +1,5 @@
 assume
+/əˈsjuːm/
 核心：两条完全不同的线：一是"假定、想当然认为"（没有证据就先当真
 了），二是"承担、就任"（assume responsibility / office）。
 第一条最常用，也最容易带出问题。
@@ -22,6 +23,7 @@ assumption = 假设
 assuming that = 假设、假定
 
 assumed
+/əˈsjuːmd/
 核心：两条线：身份"假的、化名的"（an assumed name），
 和"被认定的、假定的"。只作定语居多。
 ① He travelled under an assumed name for two years and was caught by a dentist.
@@ -40,6 +42,7 @@ pseudonym = 笔名（写作用）
 pen name = 笔名
 
 assumption
+/əˈsʌmpʃən/
 核心：指"没有验证就当真的前提"。学术写作里高频，常带批判意味——
 指出对方的论证建立在未经检验的假设上。on the assumption that
 是固定搭配。
@@ -59,6 +62,7 @@ hypothesis 假说（待检验，科学用语）
 premise 前提（论证的出发点）
 
 assurance
+/əˈʃʊərəns/
 核心：三条线：郑重的"保证"、性格上的"自信笃定"、
 以及英式的"人寿保险"（life assurance）。
 ① He gave assurances of support and put none of them in writing.
@@ -79,6 +83,7 @@ life insurance = 人寿保险（美式）
 insurance 保可能发生的事。
 
 assure
+/əˈʃʊə(r)/
 核心：指"向某人保证，让他放心"，宾语一定是人。这是它和 ensure、
 insure 的关键差别：assure 对人，ensure 对事，insure 是投保。
 这组三个词是经典易混。
@@ -101,6 +106,7 @@ assured = 自信的
 assurance = 保证；自信
 
 assured
+/əˈʃɔːd/
 核心：三条线：人"自信笃定的"、结果"有保障的"、
 以及英式保险里的"被保险人"。
 ① She has an assured manner that took about fifteen years to acquire.
@@ -139,6 +145,7 @@ flower into late autumn = 开到深秋
 astronomy、asterisk 与它同源。
 
 asterisk
+/ˈæstərɪsk/
 核心：指星号「*」这个符号，用来标注、加脚注、
 或替换敏感字符。名词动词同形。
 ① Words marked with an asterisk are optional and the rest are not.
@@ -172,6 +179,7 @@ port = 左舷 / starboard = 右舷
 fore = 船首 / aft = 船尾
 
 asteroid
+/ˈæstərɔɪd/
 核心：指小行星——太阳系里绕日运行的小型岩质天体，
 多数集中在火星与木星之间的小行星带。
 ① An asteroid passed near Earth and was found only two days beforehand.
@@ -189,6 +197,7 @@ meteor = 流星（进入大气）
 meteorite = 陨石（落地）
 
 asthma
+/ˈæzmə/
 核心：指哮喘——气道收窄导致呼吸困难的慢性病。不可数。
 注意 th 不发音，这是高频读错点。
 ① Asthma narrows the airways in spasms rather than steadily.
@@ -287,6 +296,7 @@ surprised 惊讶 < amazed 惊叹
 < astonished 震惊 < astounded 目瞪口呆
 
 astonishing
+/əˈstɒnɪʃɪŋ/
 核心：指事物"令人震惊的"，可以是好事也可以是坏事。
 常修饰 speed、success、amount、lack。
 ① It's an astonishing achievement for a team that trains on a public field.

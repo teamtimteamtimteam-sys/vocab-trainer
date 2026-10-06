@@ -1,4 +1,5 @@
 archaeology
+/ˌɑːkɪˈɒlədʒi/
 核心：指考古学——通过物质遗存研究人类历史。不可数。
 注意英美拼写差别。
 ① Archaeology is mostly rubbish, in the literal sense: middens tell you more than palaces.
@@ -67,6 +68,7 @@ bow = 弓 / arrow = 箭
 quiver = 箭袋
 
 archery
+/ˈɑːtʃəri/
 核心：射箭这项运动，不可数。词根 arch- 在这里是"弓"，跟建筑上的"拱"
 同源——弓和拱本来就是同一个形状，所以弓箭手叫 archer。
 作为奥运项目，它的术语都很直白：靶叫 target，靶心叫 bullseye。
@@ -136,6 +138,7 @@ peninsula = 半岛
 isthmus = 地峡
 
 architect
+/ˈɑːkɪtekt/
 核心：设计建筑的人。比喻义指某项事业的"缔造者、总设计师"，
 搭配 the architect of。词族 architecture 既指建筑学也指建筑风格，
 计算机里还指"体系结构"。
@@ -154,6 +157,7 @@ architectural = 建筑的
 architectonic = 结构性的、体系构造的
 
 architectural
+/ˌɑːkɪˈtektʃərəl/
 核心：指"建筑的、建筑学的"。常见搭配
 architectural style / design / heritage。
 ① The architectural style is hard to place, since three centuries had a hand in it.
@@ -170,6 +174,7 @@ architecturally = 在建筑上
 词族：architect、architecture
 
 architecture
+/ˈɑːkɪtektʃə(r)/
 核心：三条线：建筑学这门学科、某种"建筑风格"、
 以及计算机的"体系结构"。不可数为主。
 ① She studies architecture and has not slept a full night since the second year.
@@ -186,6 +191,7 @@ architectural = 建筑的
 注意发音：ch 读 /k/，/ˈɑːkɪtektʃə(r)/
 
 archive
+/ˈɑːkaɪv/
 核心：指"档案、档案馆"，也作动词"归档"。
 常用复数 archives 指整批档案。
 ① He works in the national archive and searches the archives all day.
@@ -239,6 +245,7 @@ gateway = 大门口
 doorway = 门口
 
 Arctic
+/ˈɑːktɪk/
 核心：指北极地区，大写。和 Antarctic（南极）配对。
 小写 arctic 可形容"极冷的"。
 ① They sailed into the Arctic in a boat built for a warmer sea.
@@ -342,6 +349,7 @@ there are = 有（后接复数）
 第一人称单数用 am，第三人称单数用 is。
 
 area
+/ˈeəriə/
 核心：底层是"一片范围"。地理上的地区、数学上的面积、抽象上的领域，
 都是同一条主线。in the area of 在学术写作里常用来说"在…领域"。
 ① They live in a rural area where the bus comes twice a week.
@@ -385,6 +393,7 @@ aren't I = 我不是吗（反问句里顶替 am not）
 反问句里的 aren't I 是标准说法，不算不规范。
 
 arena
+/əˈriːnə/
 核心：拉丁语的 arena 是"沙"——古罗马竞技场地面铺沙，为的是吸血。
 这个词就此定型为"四周有看台、中间是场地"的地方。因为竞技场天生
 含"当众较量"的意味，比喻义指的不是随便什么领域，而是有对抗、

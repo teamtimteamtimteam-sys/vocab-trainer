@@ -17,6 +17,7 @@ romantic = 浪漫的（通用）
 erotic = 色情的（着重情欲）
 
 amaze
+/əˈmeɪz/
 核心：指"让人惊讶到说不出话"，程度比 surprise 重。分词形容词
 要分清：amazed 是人感到惊讶，amazing 是事物令人惊讶。
 ① I was amazed at her skill and more amazed that nobody had noticed it.
@@ -37,6 +38,7 @@ amazement = 惊讶
 surprise 惊讶 < amaze 惊叹 < astonish 震惊
 
 amazed
+/əˈmeɪzd/
 核心：指人"感到惊讶"，程度比 surprised 深。介词用 at 或 by，
 也可接 that 从句或不定式。
 ① I was amazed at the result and had to read the table twice before I believed it.
@@ -74,6 +76,7 @@ astonishment = 震惊（更强）
 surprise = 惊讶（通用）
 
 amazing
+/əˈmeɪzɪŋ/
 核心：指事物"令人惊叹的"，日常里也常用作单纯的高度赞美，
 相当于"棒极了"。
 ① That's an amazing view, and the photographs never manage to carry any of it home.
@@ -109,6 +112,7 @@ surprisingly = 出乎意料地
 remarkably = 显著地
 
 ambassador
+/æmˈbæsədə(r)/
 核心：一国派驻他国的最高级外交代表，是外交衔级的顶端。介词用 to，
 后面接派往的国家，不是派出的国家——ambassador to France 是驻法
 大使。比喻义从"代表一方去到另一方"来：形象大使、亲善大使，代表的
@@ -141,6 +145,7 @@ embassy = 大使馆
 注意：embassy 的拼写里没有 a。
 
 amber
+/ˈæmbə(r)/
 核心：三条线：化石树脂"琥珀"、琥珀色（黄褐色），
 以及英式交通灯的"黄灯"（美式说 yellow）。
 ① The necklace is made of amber with an insect trapped in one bead.
@@ -206,6 +211,7 @@ ambience 场所格调（偏商业审美）
 atmosphere 气氛（通用）
 
 ambiguity
+/ˌæmbɪɡˈjuːɪti/
 核心：指"含义不明、可以有多种解释"的状态。学术和法律写作里
 常作为批评：指出条文或论述有歧义。可数不可数都有。
 ① There is some ambiguity here that four readers have each resolved differently.
@@ -224,6 +230,7 @@ ambiguous = 有歧义的
 clarity = 清晰
 
 ambiguous
+/æmˈbɪɡjuəs/
 核心：指"可以有两种以上解释的"，本身中性——有时是缺点（法律
 条文），有时是手法（文学、外交辞令）。
 ① It's an ambiguous phrase and both sides quote it to prove opposite things.
@@ -258,6 +265,7 @@ scope = 范围（通用）
 remit = 职责范围（英式）
 
 ambition
+/æmˈbɪʃən/
 核心：两层：抽象的"雄心"（不可数）和具体的"抱负、想实现的目标"
 （可数）。褒贬取决于语境，英语里 ambition 大体是褒义。
 ① Her ambition is to be a pilot and she achieved it at forty-one.
@@ -274,6 +282,7 @@ The timetable is ambitious and the first week is already behind.
 = 那份时间表定得很有野心，第一周就落后了。
 
 ambitious
+/æmˈbɪʃəs/
 核心：从 ambition（抱负）来，说人和说事褒贬不同。说人是"有抱负、
 想往上走"，基本是褒义；说计划、目标、项目是"目标定得很高"，
 表面褒义，实际常暗含"恐怕做不到"——英语里批评一个方案不切实际，
@@ -372,6 +381,7 @@ ambrosia = 仙馔（神的食物，极美味）
 nectar = 神饮（神的饮料，也指花蜜）
 
 ambulance
+/ˈæmbjʊləns/
 核心：指运送伤病员的急救车。词源是法语的"移动医院"——最早指
 随军的野战医院，后来才缩到车上，所以这个词的底子是"把救治送到
 现场去"。英式呼救说 call an ambulance，美式常直接说 call 911。
@@ -468,6 +478,7 @@ improve = 改进（通用）
 alleviate = 减轻（痛苦、问题）
 
 amen
+/ˌeɪˈmen/
 核心：源自希伯来语，祷告或圣歌末尾说的一声"阿门"，意思是"诚然
 如此"。日常引申着用，表示"说得太对了"，常说 amen to that。
 ① The congregation said amen and the organ started before anyone had lifted their head.

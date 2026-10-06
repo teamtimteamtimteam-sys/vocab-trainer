@@ -1,4 +1,5 @@
 model
+/ˈmɒdəl/
 核心：底子是「照着它来的那个样子」。名词几支：缩小的仿制品，模型；产品的一个型号；
 用来说明、推算一件复杂事情的模型（数学的、计算机的）；值得照着做的样板、典范，作定语就是「模范的」；
 还有两种「供人看着画、看着买」的人：时装模特与画家的模特。
@@ -75,6 +76,7 @@ a model home = 样板房
 a model village = 模范村
 
 modem
+/ˈməʊdem/
 核心：调制解调器：把电脑接上电话线或宽带线路的设备。由 modulator 和 demodulator 两个词各取开头拼成。
 ① The engineer replaced the faulty modem, and the internet connection was restored within minutes.
 = 工程师换掉了出故障的调制解调器，几分钟后网络就恢复了。
@@ -84,6 +86,7 @@ a faulty modem = 出故障的调制解调器
 by modem = 通过调制解调器
 
 moderate
+/ˈmɒdəreɪt/
 核心：底子是「不走极端」。形容词：中等的、不大不小的；（政治）温和的；有节制的、合情理的。
 动词读音不同，末音节读成 rate：使缓和、变缓和；主持讨论、管理网上论坛；（英）复核考试评分。
 名词是「温和派」。副词 moderately 并入本条。
@@ -138,6 +141,7 @@ call for moderation = 呼吁克制
 be subject to moderation = 须经审核
 
 moderator
+/ˈmɒdəreɪtə(r)/
 核心：居中的人。几支：调解人；辩论、讨论的主持人；网上论坛的管理员；（英）复核考试评分的人。
 ① An independent moderator was brought in to settle the dispute between the two unions.
 = 请来了一位独立调解人，解决两个工会之间的争端。
@@ -153,6 +157,7 @@ a moderator removes a post = 管理员删帖
 an external moderator = 校外复核人
 
 modern
+/ˈmɒdən/
 核心：现代的。两层意思要分开：一是时间上的，属于当今或不久以前这个时代（modern history）；
 二是评价上的，新式的、用了最新办法的（modern equipment）。
 艺术上专指摆脱传统样式的那一路；说观念、做派，是「新派的」。
@@ -228,6 +233,7 @@ modernize or lose your customers = 不革新就丢顾客
 the modernization of something = …的现代化改造
 
 modest
+/ˈmɒdɪst/
 核心：底子是「不过分」。三支：数量、规模不大的（往往是客气的说法）；谦虚的，不夸耀自己；
 （衣着、举止）端庄的、不暴露的。副词 modestly 并入本条。
 ① They live in a modest house on the edge of town and drive a ten-year-old car.
@@ -276,6 +282,7 @@ a modicum of common sense = 一点常识
 a modicum of comfort = 一点点舒适
 
 modify
+/ˈmɒdɪfaɪ/
 核心：稍作修改，使它更合用；使缓和、不那么极端；（语法）修饰、限定另一个词的意思。
 genetically modified 是「转基因的」。名词 modification、modifier 并入本条。
 ① The engineers modified the design of the wing after the first test flight.
@@ -312,6 +319,7 @@ a modish hat = 时髦的帽子
 modish theories = 时兴的理论
 
 modular
+/ˈmɒdjʊlə(r)/
 核心：由若干独立单元组成的。两支：（课程）分单元的，各单元单独考核；（家具、建筑、机器）组合式的，部件可以拼装和更换。
 ① The degree is modular, so students can spread their exams over three years.
 = 那个学位课程是分单元的，学生可以把考试分散在三年里。
@@ -340,6 +348,7 @@ modulate the response = 调节反应
 a modulation into a minor key = 转入小调
 
 module
+/ˈmɒdʒuːl/
 核心：一个大整体里可以单独拿出来的单元。几支：课程的一个单元；软件、电路的模块；
 航天器上可以分离的舱；预制的建筑或家具部件。
 ① Students must pass six modules in the first year, including one in statistics.

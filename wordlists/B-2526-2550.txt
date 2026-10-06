@@ -15,6 +15,7 @@ biohazard = 生物危害（病原体、血样）
 toxic waste = 有毒废物（化学品）
 
 biological
+/baɪəˈlɒdʒɪkəl/
 核心：形容词，四支都从"跟生命有关"来：说学科（生物学的）、
 说过程（生命体自身的）、说血缘（亲生的）、说武器（拿病原体当武器
 的）。判断全靠搭配，四支几乎不会混。
@@ -64,6 +65,7 @@ biologically related = 有血缘关系的
 biological = 生物的；亲生的
 
 biologist
+/baɪˈɒlədʒɪst/
 核心：研究生物的人。按研究对象再分，marine biologist 研究海洋生物，
 molecular biologist 研究分子层面。可数。
 ① He trained as a biologist and spent his whole career counting birds.
@@ -78,6 +80,7 @@ marine biologist = 海洋生物学家
 molecular biologist = 分子生物学家
 
 biology
+/baɪˈɒlədʒi/
 核心：研究生命的学科。还有一支容易漏：指某个生物体自身的生理机能
 ——说 the biology of the tumour 或 her biology，讲的是身体怎么运作，
 不是那门学问。两支都不可数。
@@ -239,6 +242,7 @@ biopic = 传记片（虚构演绎）
 documentary = 纪录片（实拍记录）
 
 biopsy
+/ˈbaɪɒpsi/
 核心：从活体上取一小块组织拿去化验，多用来确认是不是癌。构词是
 bio-（活的）加 -opsy（看），"看活的"；跟 autopsy（尸检，"亲眼看"）
 正好配成一对。可数，也作动词。
@@ -342,6 +346,7 @@ A biotechnologist spends more time on paperwork than on anything living.
 = 生物技术人员花在文书上的时间，比花在活物上的多。
 
 biotechnology
+/ˌbaɪəʊtekˈnɒlədʒi/
 核心：把生物过程或生物体拿来生产东西。老的那一套是酿酒、发酵、
 育种，新的那一套是基因工程、单克隆抗体、细胞培养，用的都是同一个
 词。不可数，口语和股市里缩作 biotech。

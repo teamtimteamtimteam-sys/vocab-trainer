@@ -69,6 +69,7 @@ count headwords = 数词头数量
 the headword = 词头
 
 heady
+/ˈhedi/
 核心：三支，都从「上头」来。一是（酒、香气）易上头的、浓烈的；
 二是（气氛、时光）令人兴奋得发昏的：the heady days of something；
 三是（人，较旧）得意忘形的。
@@ -84,6 +85,7 @@ the heady days = 令人兴奋得发昏的年月
 headier = 更浓烈上头的
 
 heal
+/hiːl/
 核心：三支。一是（伤口）愈合 —— 不及物：the cut healed；
 二是治好人或伤：heal a wound、heal the sick（后者偏文，带宗教色彩）；
 三是比喻的修复：heal a rift、time heals。
@@ -112,6 +114,7 @@ healing = 愈合、疗愈
 a healing wound = 正在愈合的伤口
 
 health
+/helθ/
 核心：不可数。两支。一是（人、动物的）健康状况 —— 好坏都算在内，
 所以 in poor health 跟 in good health 一样自然；
 二是引申的「良好状态」：the health of the economy、the health of a language。
@@ -181,6 +184,7 @@ a health maintenance organization = 健康维护组织（美国的一种医疗�
 美式用语，常缩写成 HMO；参保人得在它指定的医生里看病。
 
 healthcare
+/ˈhelθkeə(r)/
 核心：医疗保健：给人看病、维持健康的整套服务与行业。不可数，
 也写作两个词 health care。作定语极常见：healthcare system、
 healthcare workers、healthcare costs。
@@ -196,6 +200,7 @@ healthcare workers = 医护人员
 healthcare costs = 医疗费用
 
 healthy
+/ˈhelθi/
 核心：三支。一是（人、动物）健康的：a healthy child；
 二是（东西、做法）有益健康的：a healthy diet；
 三是引申的「良性的、可观的」：a healthy profit、a healthy respect for something。
@@ -223,6 +228,7 @@ eat healthily = 吃得健康
 the healthiness of something = 某事物有益健康的程度
 
 heap
+/hiːp/
 核心：三支。一是一堆 —— 随手堆起来、不整齐的那种；跟 pile 的分别很实用：
 pile 可以是码得整整齐齐的一摞，heap 一定是乱的。
 二是口语的「一大堆、很多」：heaps of time；作副词还能加强比较级（heaps better）。
@@ -248,6 +254,7 @@ heap praise on somebody = 对某人大加赞扬
 a heaped spoonful = 堆得冒尖的一勺
 
 hear
+/hɪə(r)/
 核心：听得见，不是「去听」—— 这是它跟 listen 的根本分界：
 hear 说的是声音进到了耳朵里（不由自主，所以几乎不用进行时，且常跟 can 连用），
 listen 说的是有意去听（可以用进行时）。I can hear you 对，I am hearing you 不说。
@@ -313,6 +320,7 @@ a hearer = 听者
 比 listener 冷僻得多，主要见于修辞学与旧文本。
 
 hearing
+/ˈhɪərɪŋ/
 核心：三支。一是听力、听觉 —— 不可数：lose your hearing、
 hard of hearing（耳背）、within hearing（在听得见的范围内）。
 二是（法律、行政的）听证会、审理，可数：a court hearing、a disciplinary hearing。
@@ -376,6 +384,7 @@ hearsay evidence = 传闻证据
 on hearsay alone = 单凭传闻
 
 hearse
+/hɜːs/
 核心：柩车：运送棺柩的车 —— 今天多是加长的黑色轿车，后部放棺。可数。
 读音跟 horse 不同：它跟 worse 押韵，这是最常念错的一处。
 出殡的车队叫 funeral cortège，跟在它后面走。
@@ -390,6 +399,7 @@ a horse-drawn hearse = 马拉的柩车
 follow the hearse = 跟在柩车后面
 
 heart
+/hɑːt/
 核心：底层是身体的中央那个不停跳动的器官，三条线全从它长出来 ——
 一、位置：中央、核心（the heart of the city、the heart of the matter），
 蔬菜的芯也叫 heart。
@@ -618,6 +628,7 @@ a heartfelt apology = 由衷的道歉
 heartfelt sympathy = 由衷的慰问
 
 hearth
+/hɑːθ/
 核心：两支。一是炉膛前那块石板地 —— 壁炉正前方、火星落得到的地方；
 二是由此引申的「家、家庭」，固定说法是 hearth and home。
 读音要当心：它跟拼法只差一个字母位置的那个「心」字不同音，这个词跟 earth 押韵。

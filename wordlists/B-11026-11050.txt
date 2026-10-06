@@ -28,6 +28,7 @@ vaccine hesitancy = 疫苗犹豫
 说的是一种人群中的态度，不是某个人一时的犹豫。
 
 hesitate
+/ˈhezɪteɪt/
 核心：本意是「在行动或说话之前停住」—— 因为拿不准、担心，或者不情愿。
 一个意思，四个常用句型：单用（hesitated for a moment）、
 hesitate to do something（迟迟不去做）、hesitate over / about something（在某事上拿不定主意）、
@@ -179,6 +180,7 @@ a heterozygote = 杂合子
 be heterozygous for something = 在某基因上是杂合的
 
 heuristic
+/hjuːˈrɪstɪk/
 核心：来自希腊语「发现」，跟人们找到答案时喊的 eureka 同源。
 形容词（正式）指「启发式的」—— 让人自己动手、在尝试中找到答案，而不是先给规则。
 名词 a heuristic 指一条经验法则、一种解题的捷径：不保证对，但多半管用。
@@ -197,6 +199,7 @@ heuristics = 启发式规则、启发式算法
 复数用法，心理学与计算机里都常见。
 
 hew
+/hjuː/
 核心：本义是用斧子等工具「砍、劈、凿」，偏旧、偏文学。
 过去式 hewed；过去分词 hewed 或 hewn，作形容词时几乎只用 hewn（hewn stone）。
 从「砍」长出三支：一是 hew something out of something（从…中凿出）；
@@ -293,6 +296,7 @@ in hexameter = 用六音步写成
 English hexameters = 英语六音步诗行
 
 hey
+/heɪ/
 核心：（口语）感叹词，用途都是「开口先抓住对方」：
 叫住人、打招呼、表示吃惊或不满，还有耸耸肩说「算了」的 but hey。
 美式里作打招呼用极常见，相当于 hi。
@@ -333,6 +337,7 @@ in somebody's heyday = 在某人最风光的时候
 the heyday of something = …的鼎盛时期
 
 hi
+/haɪ/
 核心：（口语）打招呼用的「嗨、你好」，比 hello 随意，熟人、同事、陌生店员之间都用。
 常见的扩展是 hi there；say hi to somebody 是「替我向某人问好」，
 也可以只是「跟某人打个招呼」。书信与正式场合不用。

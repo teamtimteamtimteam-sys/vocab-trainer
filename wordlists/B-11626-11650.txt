@@ -1,4 +1,5 @@
 ideal
+/aɪˈdɪəl/
 核心：形容词：理想的、完美的 —— 最合适的；也指只存在于想象中的。
 名词：理想、典范 —— 一种追求的原则或完美的标准。
 同族并入本条：ideally（理想的情况下；最合适地）、idealism / idealist / idealistic
@@ -74,6 +75,7 @@ an ident = 台标片花
 the ident runs = 台标片花播出
 
 identical
+/aɪˈdentɪkəl/
 核心：完全相同的、一模一样的 —— 常说 identical to / with something。
 副词 identically 与复合词 identical twin（同卵双胞胎）并入本条。
 ① Her dress was identical to the one her sister had worn the week before.
@@ -99,6 +101,7 @@ be identifiable = 可辨认的
 easily identifiable = 容易辨认的
 
 identification
+/aɪˌdentɪfɪˈkeɪʃən/
 核心：一是身份证明（证件）—— 常缩写 ID；二是辨认、识别；三是（感情上的）认同。
 复合词 identification card（身份证）与 identification parade（英式，列队辨认嫌疑人）并入本条。
 ① The hotel won't let you check in without some identification, such as a passport or driving licence.
@@ -118,6 +121,7 @@ an identification card = 身份证
 an identification parade = 列队辨认（英式）
 
 identifier
+/aɪˈdentɪfaɪə(r)/
 核心：标识符 —— 用来辨认某物的名称、编号或符号，计算机里尤其常见。
 ① Each account has a unique identifier, a string of twelve numbers.
 = 每个账户都有一个唯一的标识符，是一串十二位数字。
@@ -127,6 +131,7 @@ a unique identifier = 唯一标识符
 identifiers = 标识符（复数）
 
 identify
+/aɪˈdentɪfaɪ/
 核心：辨认出、认出 —— 确认某人或某物是谁、是什么；找出、发现（问题、原因）。
 短语：identify with somebody（认同、同情某人）、identify yourself with something（与…站在一起、支持）、
 be identified with something（被视为跟…有关）。
@@ -157,6 +162,7 @@ an identikit picture = 拼凑人像
 identikit = 千篇一律的（比喻）
 
 identity
+/aɪˈdentɪti/
 核心：一是身份 —— 某人是谁；二是个性、特质 —— 使人或群体与众不同的东西（national identity）；
 三是（数学）恒等式。
 复合词并入本条：identity card（身份证）、identity parade（列队辨认）、identity politics（身份政治）、
@@ -202,6 +208,7 @@ an ideogram = 表意符号
 use ideograms = 使用表意符号
 
 ideology
+/aɪdɪˈɒlədʒi/
 核心：意识形态、思想体系 —— 一套指导政治、经济行为的信念。可数与不可数都用。
 形容词 ideological（意识形态的）、副词 ideologically 与名词 ideologue（空想家、理论家，常贬）并入本条。
 ① The party has moved away from its old socialist ideology.
@@ -246,6 +253,7 @@ an idiolect = 个人方言
 compare idiolects = 比较个人方言
 
 idiom
+/ˈɪdiəm/
 核心：一是习语、成语 —— 意思不能从字面推出来的固定说法（kick the bucket）；
 二是（某种语言、某个人、某种艺术的）风格、表现手法 —— the jazz idiom。
 形容词 idiomatic（地道的；习语的）与副词 idiomatically 并入本条。
@@ -272,6 +280,7 @@ an idiosyncrasy = 怪癖
 idiosyncratic = 独特的、怪异的
 
 idiot
+/ˈɪdiət/
 核心：白痴、傻瓜 —— 口语里常用来骂人，也常自嘲（I'm such an idiot!）。
 形容词 idiotic 与副词 idiotically 并入本条；复合词 idiot board（提词板，口语）、
 idiot savant（白痴学者：智力障碍却在某方面有惊人才能的人，旧称，今天多说 savant）也收在这里。
@@ -292,6 +301,7 @@ the idiot board = 提词板（口语）
 an idiot savant = 白痴学者（旧称）
 
 idle
+/ˈaɪdəl/
 核心：底层是「不在干活」。三支：
 一、（人）懒散的；无所事事的；（机器、工厂）闲置的 —— sit idle、lie idle；
 二、无用的、无根据的 —— idle gossip、an idle threat（说说而已的威胁）；
@@ -323,6 +333,7 @@ an idler = 闲人、懒人
 idly = 无所事事地
 
 idol
+/ˈaɪdəl/
 核心：一是偶像 —— 受狂热崇拜的明星、名人（a pop idol）；二是神像、偶像（宗教崇拜的对象）。
 名词 idolatry（偶像崇拜；盲目崇拜）与形容词 idolatrous 并入本条。
 ① The singer was the idol of millions of teenagers in the sixties.

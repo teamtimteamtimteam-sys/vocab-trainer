@@ -14,6 +14,7 @@ accompaniment = 伴奏
 注意发音：/əˈkʌmpənɪst/
 
 accompany
+/əˈkʌmpəni/
 核心：底层是"跟着一起出现"，跟的是什么就分出哪一支。人跟人是
 "陪同"，事跟事是"伴随"，乐器跟人声是"伴奏"。正式文体里被动式
 be accompanied by 极常见，用来说"附有、随附"。语法硬点：
@@ -53,6 +54,7 @@ accessory 从犯（协助但未实施）
 conspirator 共谋者（策划阶段）
 
 accomplish
+/əˈkɒmplɪʃ/
 核心：指"把定下的事做成"，重点在有结果、有成果，比 finish 郑重。
 finish 只说做完了，accomplish 还含"做成了、达到了目的"。宾语多是
 task、goal、mission 这类有目标性的词，不说 accomplish a book。
@@ -78,6 +80,7 @@ accomplishment = 成就；才艺
 accomplished fact = 既成事实
 
 accomplished
+/əˈkɒmplɪʃt/
 核心：两条线：形容人"造诣很高的"（褒义强），
 和形容事情"已完成的"。第一条更常用。
 ① She is an accomplished pianist and earns her living doing something else.
@@ -111,6 +114,7 @@ accomplishment = 成就（靠技能）
 achievement = 成就（靠努力）
 
 accord
+/əˈkɔːd/
 核心：底层是"一致、相符"。名词指正式的协议，也指"一致"这个状态；
 动词指"给予"（正式）或"与…相符"。of one's own accord 是高频
 习语，指"主动、自愿"。
@@ -129,6 +133,7 @@ in accord with = 与…一致
 accordance = 一致
 
 accordance
+/əˈkɔːdəns/
 核心：只出现在一个固定结构里：in accordance with（依照、按照）。
 这是合同、法规、正式通知里的高频措辞，比 according to 更正式，
 且不含"据说"的意味。
@@ -162,6 +167,7 @@ go according to plan = 按计划进行
 注意：不说 according to me。
 
 accordingly
+/əˈkɔːdɪŋli/
 核心：两个用法：一是"因此、于是"（表结果，比 so 正式），
 二是"相应地"（按照情况调整）。学术和商务写作里都高频。
 ① He was late three times; accordingly, he was taken off the rota.
@@ -181,6 +187,7 @@ therefore 因此（论证）
 so 所以（口语）
 
 accordion
+/əˈkɔːdiən/
 核心：指手风琴。演奏者叫 accordionist。形容词性用法
 accordion-style 指"像手风琴一样可折叠伸缩的"。
 ① He plays the accordion at weddings and has never taken a lesson.
@@ -213,6 +220,7 @@ approach = 走近、接洽（中性）
 confront = 当面质问（对抗）
 
 account
+/əˈkaʊnt/
 核心：底层是"把事情一条条交代清楚"，交代的对象不同就分出两大支。
 交代钱，就是账户、账目、账单；交代事，就是叙述、说明、解释。
 动词只走"交代"这一支：account for 是给出交代，交代数量就成了
@@ -285,6 +293,7 @@ a checking account = 活期存款账户（美式）
 a chequing account = 活期账户（加拿大拼法）
 
 accountability
+/əkaʊntəˈbɪlɪti/
 核心：指"对结果负责、须做出交代"的状态，是治理和管理领域的核心词。
 不可数。比 responsibility 多一层"必须接受问责"的意思。
 ① There is no accountability here and everyone has known that for years.
@@ -338,6 +347,7 @@ accountancy firm = 会计师事务所
 accountant = 会计师
 
 accountant
+/əˈkaʊntənt/
 核心：以记账、报税、审计为业的人。这一族三个词的分工要记死：
 accountant 是人，accounting 是这门学科和这项工作，accountancy 是
 这个行业（英式说法）。英美的资格名称也不同：英式最高一级叫
@@ -366,6 +376,7 @@ account = 账户；账目
 accountable = 需要交代的
 
 accounting
+/əˈkaʊntɪŋ/
 核心：指会计这门学科和这项工作，不可数。和 accountancy（英式，
 指会计这个行业）、accountant（会计师）区分开。
 ① She studies accounting and can already spot what a balance sheet hides.
@@ -451,6 +462,7 @@ certify = 出具证明
 credit = 归功于（通用）
 
 accreditation
+/əˌkredɪˈteɪʃən/
 核心：指学校、医院、实验室获得的官方"资质认证"。不可数为主。
 教育和医疗行业的核心词。
 ① The school lost its accreditation and reopened under a different name.
@@ -465,6 +477,7 @@ accreditation body = 认证机构
 词族：accredit、accredited
 
 accredited
+/əˈkredɪtɪd/
 核心：指机构或个人"经官方认可的"。常见搭配 accredited
 journalist（有采访资质的记者）、accredited course。
 ① She is an accredited journalist and still had to queue with everyone else.

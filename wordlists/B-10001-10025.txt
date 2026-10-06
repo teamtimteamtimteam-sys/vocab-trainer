@@ -51,6 +51,7 @@ gendarmes = 宪兵
 a gendarme = 山脊岩塔
 
 gender
+/ˈdʒendə(r)/
 核心：三支。一是性别（作为社会身份）：gender equality；
 二是（语法）性：a feminine gender noun；三是（统计、表格里的）性别栏。
 ① Gender equality in that company stops at the second floor.
@@ -94,6 +95,7 @@ be gendered = 按性别划分
 a gendered reading = 性别视角的解读
 
 gene
+/dʒiːn/
 核心：三支。一是基因：a dominant gene；二是遗传下来的某种特质：it runs in the genes；
 三是（研究里）被定位的那一段序列。
 ① A dominant gene shows up whether the other one is there or not.
@@ -141,6 +143,7 @@ hire a genealogist = 雇家谱研究者
 a genealogist = 查家族史的人
 
 genealogy
+/ˌdʒiːnɪˈælədʒi/
 核心：三支。一是家谱、世系：trace a genealogy；二是系谱学这门学问；
 三是（引申）某个观念的来龙去脉。
 ① Tracing a genealogy in that county means reading four hands of writing.
@@ -167,6 +170,7 @@ separate the genera = 区分各属
 new genera = 新属
 
 general
+/ˈdʒenrəl/
 核心：五支。一是总体的、普遍的：a general rule；二是笼统的、不具体的；
 三是总的、全面的：general knowledge；四是（军衔）将军；
 五是习语 in general，一般来说。副词 generally 并入本条。
@@ -265,6 +269,7 @@ the generality of people = 大多数人
 the generality of a rule = 规则的普泛
 
 generalization
+/ˌdʒenərəlaɪˈzeɪʃən/
 核心：三支。一是概括、归纳：a broad generalization；
 二是（贬）以偏概全的说法；三是（学术）把结论推广到更大范围。
 ① A broad generalization at the start of that book undoes the rest of it.
@@ -278,6 +283,7 @@ be a generalization = 以偏概全
 generalization from something = 由某物作出的推广
 
 generalize
+/dʒenərəlaɪz/
 核心：三支。一是概括、归纳：generalize from something；
 二是（贬）以偏概全；三是（正式）把结论推广开。也拼作 generalise。
 ① You cannot generalize from four people who all live on the same street.
@@ -291,6 +297,7 @@ generalize about something = 对某事一概而论
 generalize to something = 推广到某范围
 
 generalized
+/ˈdʒenərəlaɪzd/
 核心：三支。一是普遍的、全身性的：generalized pain；
 二是笼统的、不具体的：a generalized statement；三是（数学）广义的。
 ① Generalized pain is harder to place than pain in one spot.
@@ -317,6 +324,7 @@ generalship = 指挥才能
 somebody's generalship = 某人的将任
 
 generate
+/ˈdʒenəreɪt/
 核心：三支。一是产生、引起（兴趣、收入、热量）：generate interest；
 二是发电：generate electricity；三是（计算机）生成。
 ① The advertisement generated interest from people who could not afford it.
@@ -330,6 +338,7 @@ generate electricity = 发电
 generate a report = 生成报告
 
 generation
+/ˌdʒenəˈreɪʃən/
 核心：四支。一是一代人：the younger generation；
 二是（技术的）代：a third generation machine；
 三是（产生的）过程：the generation of heat；四是从一代传到下一代。
@@ -373,6 +382,7 @@ generative grammar = 生成语法
 a generative model = 生成式模型
 
 generator
+/ˈdʒenəreɪtə(r)/
 核心：三支。一是发电机：a diesel generator；
 二是（产生某物的）发生器、来源；三是（软件）生成器。
 ① A diesel generator runs the whole building for eleven hours a year.
@@ -386,6 +396,7 @@ a generator of something = 某物的来源
 a generator = 生成器
 
 generic
+/dʒəˈnerɪk/
 核心：三支。一是一类事物共有的、通用的：a generic term；
 二是（药）非专利的：a generic drug；三是（贬）没有特色的。副词 generically 并入本条。
 ① A generic term covers four things that behave completely differently.

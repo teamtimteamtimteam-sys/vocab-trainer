@@ -14,6 +14,7 @@ ahoy = 船上招呼（航海）
 hello = 你好（通用）
 
 aid
+/eɪd/
 核心：底层是"帮助"。国际间的援助是不可数的 aid，帮助工具是可数的
 aid（hearing aid、teaching aids），动词义是"援助"。
 in aid of 是英式的"为…募捐"。
@@ -43,6 +44,7 @@ in aid of = 为…筹款
 aid climbing = 器械攀登（借装备受力）
 
 aide
+/eɪd/
 核心：指高级官员或政要的"助手、幕僚"，正式。
 和 aid（帮助）只差一个 e，读音相同。
 ① He is a presidential aide and has never once been named in print.
@@ -101,6 +103,7 @@ judo = 柔道（摔投与压制）
 karate = 空手道（拳脚击打）
 
 ail
+/eɪl/
 核心：两条线：古旧的"使苦恼"（What ails you?），
 和现在更常用的"使（组织、经济）陷入困境"。
 ① What ails you, she asked, in the voice her own grandmother had used.
@@ -133,6 +136,7 @@ rudder = 方向舵（偏航）
 注意发音：/ˈeɪlərɒn/
 
 ailing
+/ˈeɪlɪŋ/
 核心：两条线：人"久病不愈的"，和机构经济"每况愈下的"。
 第二条在财经报道里高频。只作定语为主。
 ① His ailing father needs care that the family cannot afford to buy in.
@@ -168,6 +172,7 @@ illness 疾病（通用）
 disease 疾病（有明确病理）
 
 aim
+/eɪm/
 核心：底层是"对准"。枪对准目标是字面义，努力对准目标是比喻义。
 名词是"目标"，aim to do 和 aim at doing 都对，前者更常用。
 ① He aimed the gun at the target and hit the post beside it.
@@ -277,6 +282,7 @@ aioli = 蒜蛋黄酱（重蒜味，橄榄油）
 mayonnaise = 蛋黄酱（不放蒜）
 
 air
+/eə(r)/
 核心：底层是"空气"。往外扩就是"空中、航空"，比喻上是人身上散发的
 "气质、神态"，动词义是"晾、公开表达"。on air 是广播用语。
 ① Fresh air is good for you, whatever the temperature outside happens to be.

@@ -223,6 +223,7 @@ the implausibility of something = …的不可信
 implausibly = 令人难以置信地
 
 implement
+/ˈɪmplɪment/
 核心：两个词性、两个意思。动词（末音节读得完整，名词末音节弱读）是实施、执行（计划、决定、政策），这是最常用的一支；
 名词是工具、器具，尤指农具、园艺工具。名词 implementation 另立。
 ① The government has promised to implement the new tax rules by next April.
@@ -237,6 +238,7 @@ farming implements = 农具
 名词：比 tool 正式，多说简单的手工器具。
 
 implementation
+/ˌɪmplɪmenˈteɪʃən/
 核心：实施、执行 —— implement 动词的名词。另在计算机上指（某种设计、标准的）具体实现。
 ① The implementation of the new system has been delayed by a year.
 = 新系统的实施推迟了一年。
@@ -256,6 +258,7 @@ implicate somebody in something = 表明某人与…有牵连
 be implicated in a disease = 被认为与某病有关
 
 implication
+/ˌɪmplɪˈkeɪʃən/
 核心：三支，分属两个动词：imply 的名词 —— 言外之意、暗示（by implication）；
 可能的影响、后果（implications for，多用复数）；implicate 的名词 —— 牵连（implication in a crime）。
 ① The implication of his remark was that I had lied.
@@ -273,6 +276,7 @@ implications for something = 对…的影响
 somebody's implication in something = 某人与…的牵连
 
 implicit
+/ɪmˈplɪsɪt/
 核心：含蓄的、未明说的 —— 跟 explicit（明确的）相对。另一支：完全的、无保留的（implicit trust），
 只用在 faith、trust、confidence 前面。副词 implicitly 并入本条。
 ① Beneath the polite words of her letter there was an implicit threat to go to the newspapers.

@@ -1,4 +1,5 @@
 attach
+/əˈtætʃ/
 核心：底层是"把甲固定到乙上"。物理上是"附上、贴上"，邮件上是"添加
 附件"，情感上是 be attached to（依恋），重要性上是 attach
 importance to（重视）。
@@ -36,6 +37,7 @@ attaché case = 公文箱
 也常写作 attache。
 
 attached
+/əˈtætʃt/
 核心：三条线：文件"附上的"、感情上"依恋的"、
 以及"已有伴侣的"（口语）。
 ① Please see the attached file, which is the third version this week.
@@ -53,6 +55,7 @@ no strings attached = 不附加条件
 词族：attach、attachment
 
 attachment
+/əˈtætʃmənt/
 核心：四条线：邮件"附件"、感情"依恋"、机器"配件"、
 以及法律上的"财产扣押"。
 ① Open the attachment on a computer, because the phone will not render it.
@@ -69,6 +72,7 @@ attachment theory = 依恋理论
 词族：attach、attached
 
 attack
+/əˈtæk/
 核心：底层是"发起进攻"，攻的对象不同就分出各义。攻人攻地是军事的
 进攻，攻观点是言语的抨击，攻球门是体育的进攻。疾病那一支是把病
 拟人化了——病来攻人，所以 heart attack 是"发作"而不是"攻击"，
@@ -126,6 +130,7 @@ goalkeeper = 门将
 词族：attack
 
 attain
+/əˈteɪn/
 核心：正式用语，指"经过努力够到"，词源就是"触到"。够到的可以是
 目标、水平、地位，也可以是年龄——attain the age of 是法律文书里
 的固定说法。跟近义词的分工在语域：attain 最正式，achieve 通用，
@@ -174,6 +179,7 @@ feasible = 可行的（做得成）
 realistic = 现实的（不离谱）
 
 attainment
+/əˈteɪnmənt/
 核心：两条线：抽象的"达成"，
 和具体的"学业成就、造诣"（常用复数）。
 ① Educational attainment rose in the district for eleven straight years.
@@ -207,6 +213,7 @@ attar of roses = 玫瑰精油
 香料与香水业用语。
 
 attempt
+/əˈtempt/
 核心：指"试着去做"，比 try 正式，而且常暗含没成功——所以做成了的
 事更常说 managed to。名词动词同形，但介词不同：动词后面接不定式
 （attempt to do），名词后面接 at（an attempt at doing）。
@@ -240,6 +247,7 @@ unattempted = 未作答的、未尝试的
 make an attempt = 作出尝试
 
 attend
+/əˈtend/
 核心：三条线：出席（及物，不加 to）、照料（attend to）、以及正式的
 "陪同"。第一条最常用，注意它是及物动词——不说 attend to a meeting。
 ① She attended the meeting and the local school in the same building.
@@ -263,6 +271,7 @@ A regular attender at that clinic knows the staff better than the doctors do.
 = 那家诊所的常客，比医生还熟悉那里的员工。
 
 attendance
+/əˈtendəns/
 核心：从 attend 来，两条线正好是"这件事"和"这些人"。一条指出席、
 到场这件事本身（不可数），另一条指到场的人数或整体（可数）。
 in attendance 是第三层：不只是到场，而是"在旁听候、随时伺候"，
@@ -308,6 +317,7 @@ assistant = 助手（协助工作）
 steward = 乘务员（旧称）
 
 attention
+/əˈtenʃən/
 核心：底层是"把注意力投过去"。投过去的方向不同就分出各义：自己
 投出去是"专心"，让别人投过来是"引起注意"，把注意力落到需要处理
 的事上就是"照料、处理"。军队的口令 stand to attention（立正）
@@ -410,6 +420,7 @@ certify = 出具证明（官方）
 verify = 核实（验证真伪）
 
 attic
+/ˈætɪk/
 核心：指屋顶下的"阁楼"，通常用来堆放杂物。
 美式有时说 loft，但英式 loft 更常指未装修的屋顶空间。
 ① Boxes are stored in the attic and nobody has opened one since the move.
@@ -451,6 +462,7 @@ dress code = 着装规范
 attired = 穿着…的（正式）
 
 attitude
+/ˈætɪtjuːd/
 核心：本义是"摆出的姿态"，从姿势引申到心里的姿态，就是对人对事的
 "态度、看法"。因为源头是"摆姿势"，它天然带一点"摆出来给人看"的
 意味，所以口语里 have an attitude 单独用是贬义，指"摆出一副
@@ -496,6 +508,7 @@ attn = 请…收阅、经办
 公文与商务书信用语。
 
 attorney
+/əˈtɜːni/
 核心：美式用语，指律师。英式说 solicitor 或 barrister。
 另有 power of attorney（委托代理权）这个法律概念。
 ① He hired an attorney who had never argued a case of that kind.
@@ -516,6 +529,7 @@ lawyer = 律师（美式通用说法）
 attorney general = 总检察长、司法部长
 
 attract
+/əˈtrækt/
 核心：拉丁语的本义就是"往自己这边拉"，所有用法都是这个动作，
 只看拉的是什么。磁铁拉铁是物理的吸引，人拉人是好感，城市拉游客
 和投资是招徕，事情拉来批评和注意也是同一个动作——所以
@@ -547,6 +561,7 @@ attraction = 吸引力；游览景点
 attractive = 有吸引力的；诱人的
 
 attraction
+/əˈtrækʃən/
 核心：三条线：物理上的"引力"、人际上的"吸引力"、
 以及旅游上的"景点"。
 ① Gravity is a force of attraction that acts across any distance at all.

@@ -1,4 +1,5 @@
 aloud
+/əˈlaʊd/
 核心：指"出声地"，与"在心里默念"相对。注意它和 loudly 完全不同：
 aloud 说的是"出不出声"，loudly 说的是"声音大不大"。
 ① Read the passage aloud, quietly if you like, but move your lips and make a sound.
@@ -50,6 +51,7 @@ alphorn = 阿尔卑斯长号（较短的拼法）
 乐器名称，瑞士与奥地利民俗。
 
 alpha
+/ˈælfə/
 核心：底层是"打头的那一个"。它是希腊字母表的第一个字母，由此派生
 出一连串用法：群体里最强势的那个（alpha male）、软件最早放出的那版
 （alpha version）、统计里先定下的那个门槛（显著性水平）、放射性
@@ -106,6 +108,7 @@ alphabetize = 按字母顺序排列
 alphabet soup = 字母汤；一堆看不懂的缩写
 
 alphabetical
+/ˌælfəˈbetɪkəl/
 核心：指"按字母顺序的"。最高频的搭配是
 in alphabetical order。
 ① Names are in alphabetical order on the register, so latecomers are easy to spot.
@@ -169,6 +172,7 @@ alpenhorn = 阿尔卑斯长号（长拼法）
 乐器名称，瑞士民俗音乐。
 
 alpine
+/ˈælpaɪn/
 核心：指"高山的、高海拔的"，也特指阿尔卑斯山区的。
 大写 Alpine 时专指阿尔卑斯。
 ① Alpine plants survive cold that would kill anything growing a thousand metres lower.
@@ -206,6 +210,7 @@ alpinism = 阿尔卑斯式登山（轻装快攀）
 mountaineering = 登山（通称）
 
 already
+/ɔːlˈredi/
 核心：表示"比预期早、已经发生了"。通常用于肯定句和完成时；放在
 疑问句里表示惊讶（"这么快就…？"）。和 yet、still 的分工要分清。
 ① She was already there and had already eaten by the time we arrived.
@@ -224,6 +229,7 @@ not… already? = 这么快就…？
 用在疑问句里表示意外。
 
 alright
+/ˌɔːlˈraɪt/
 核心：all right 的合写形式，口语和非正式书面里常见，
 但正式文体和多数编辑规范仍要求写成 all right。
 ① Is everything alright? You have been staring at that letter for ten minutes.
@@ -258,6 +264,7 @@ Alsatian = 德国牧羊犬（英式旧称）
 German shepherd = 德国牧羊犬（通用名）
 
 also
+/ˈɔːlsəʊ/
 核心：表示"也"，位置在实义动词前、be 动词后、助动词后。不能放句
 末——放句末要用 too 或 as well。这是中国学生高频错误。
 ① She also speaks French, which nobody discovered until the third year.
@@ -317,6 +324,7 @@ alt-right rhetoric = 另类右翼话语
 alt- = 另类的（由 alternative 缩来）
 
 altar
+/ˈɔːltə(r)/
 核心：指教堂或神庙里的"祭坛、圣坛"。
 注意和 alter（改变）拼写只差一个字母，读音相同。
 ① They knelt before the altar in a church that had no heating.
@@ -356,6 +364,7 @@ altcoin = 另类币（比特币之外的）
 stablecoin = 稳定币（锚定法币）
 
 alter
+/ˈɔːltə(r)/
 核心：指做局部改动而不换掉整体，衣服改尺寸、计划改细节都用它。
 和 change 的关键差别：change 可以是整个换掉，alter 只是改一改。
 ① I need to alter this dress before the wedding on Saturday.
@@ -387,6 +396,7 @@ alterable = 可更改的
 alternation = 交替、轮换
 
 alteration
+/ˌɔːltəˈreɪʃən/
 核心：指"改动、修改"，尤指局部的。服装店的 alterations
 特指改衣服尺寸。
 ① We made a few alterations to the script and the scene finally played properly.
@@ -424,6 +434,7 @@ quarrel = 争吵（较私人）
 brawl = 打架（动手）
 
 alternate
+/ˈɔːltəneɪt/
 核心：动词是"交替进行"，形容词有两个意思："轮流的"，
 以及美式里等于 alternative（替代的）。动词形容词重音不同。
 ① Wet days alternated with dry ones for the whole of that summer.
@@ -475,6 +486,7 @@ alternating current = 交流电（方向来回变）
 direct current = 直流电（方向不变）
 
 alternative
+/ɔːlˈtɜːnətɪv/
 核心：底层是"另一个可以选的"。名词是"可选项"，形容词一是"替代的"，
 二是"另类的、非主流的"。严格说 alternative 只用于两者之间，
 但现代英语已放宽。
@@ -503,6 +515,7 @@ alternative medicine = 替代医学
 alternative vote = 排序复选制（选举）
 
 alternatively
+/ɔːlˈtɜːnətɪvli/
 核心：副词，用来提出"另一个选择"，相当于"或者、要不然"。
 常放句首。和 alternately（交替地）完全不同。
 ① Alternatively, you could fly and be there before the others have finished packing.

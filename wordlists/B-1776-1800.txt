@@ -1,4 +1,5 @@
 automotive
+/ˌɔːtəˈməʊtɪv/
 核心：指"汽车的、机动车辆的"，几乎只作定语，
 用于产业语境。
 ① He works in automotive design and has never owned a car.
@@ -31,6 +32,7 @@ the parasympathetic branch = 副交感支
 生理学与医学术语。
 
 autonomous
+/ɔːˈtɒnəməs/
 核心：三条线：地区"自治的"、个人"自主的"、
 以及技术上的"无人驾驶、自主运行的"。
 ① It's an autonomous region on paper and rather less so in practice.
@@ -48,6 +50,7 @@ autonomously = 自主地
 构词：auto- 自己 + nomos 法则
 
 autonomy
+/ɔːˈtɒnəmi/
 核心：构词一看就懂：auto-（自己）加 -nomy（规则、法则），
 "自己给自己定规矩"。政治上是地区的"自治权"，教育与心理学上是
 个人的"自主性"，工程上说机器 autonomous 是"能自己决定动作"，
@@ -185,6 +188,7 @@ correct pitch = 校正音高
 音乐制作用语，原为商标名。
 
 autumn
+/ˈɔːtəm/
 核心：英式的"秋天"，美式说 fall。
 介词用 in autumn（英式常不加 the）。
 ① Leaves fall in autumn and block the drains by the middle of November.
@@ -222,6 +226,7 @@ column /ˈkɒləm/ → columnar
 hymn /hɪm/ → hymnal
 
 auxiliary
+/ɔːɡˈzɪljəri/
 核心：指"辅助的、备用的"。语法上还指"助动词"
 （be、have、do、will 这类）。
 ① The auxiliary power kicked in four seconds after the mains failed.
@@ -258,6 +263,7 @@ synthetic auxin = 人工合成生长素
 植物生理学术语。
 
 avail
+/əˈveɪl/
 核心：两条线：正式的"有益于"（多用于否定），
 和反身的 avail oneself of（利用）。名词只用 to no avail。
 ① Our efforts were to no avail and the building came down in March.
@@ -277,6 +283,7 @@ fruitless = 无成果的
 avail yourself of = 利用（正式）
 
 availability
+/əˌveɪləˈbɪlɪti/
 核心：指"可获得性、有无货、有没有空"。不可数。
 预订和供应链语境高频。
 ① Check room availability before you book the flights, not after.
@@ -294,6 +301,7 @@ accessibility = 可及性（够不够得着）
 supply = 供应量（有多少）
 
 available
+/əˈveɪləbəl/
 核心：由 avail（有用）来，底层是"拿得到、用得上"。拿得到的是东西，
 就是"有货、可获取"；拿得到的是人，就是"有空、见得着"。这个词在
 商务和雅思写作里极高频，两个介词分工清楚：to 说的是对谁开放，
@@ -404,6 +412,7 @@ avast
 航海古语，今天只用于戏仿与故事里。
 
 avatar
+/ˈævətɑː(r)/
 核心：底层是梵语的"降下来"——神从天界下到人间所取的那个身形，
 印度教里毗湿奴的十个化身就是这么说的。计算机借了这个意思：
 你在网络世界里的那个代表形象，头像或三维角色，都是你的化身。

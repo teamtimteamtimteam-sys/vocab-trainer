@@ -33,6 +33,7 @@ measure altitude = 测量高度角
 天文史与航海史用语。
 
 astrology
+/əˈstrɒlədʒi/
 核心：指占星术——认为星辰位置影响人事。
 不是科学。注意和 astronomy（天文学）严格区分。
 ① She reads her astrology column every morning and disputes it by lunchtime.
@@ -119,6 +120,7 @@ astronomically = 天文数字般地
 astronomical unit = 天文单位（地日平均距离）
 
 astronomy
+/əˈstrɒnəmi/
 核心：指天文学——研究天体和宇宙的科学。不可数。
 和占星术 astrology 严格区分。
 ① He studies astronomy and has seen the sky properly about four times a year.
@@ -193,6 +195,7 @@ refugee = 难民（在境外获认定）
 美式法律用语。
 
 asylum
+/əˈsaɪləm/
 核心：底层是"避难所"，从希腊语"不可劫夺之地"来。这个意思往两条
 线走：一条走向政治，指国家给外国人的"庇护"，今天绝大多数用例都
 在这一支；另一条走向医疗，旧时指收容精神病人的"疯人院"，那一支
@@ -219,6 +222,7 @@ asylum = 疯人院（旧称）
 现在一律说 psychiatric hospital。
 
 asymmetric
+/ˌæsɪˈmetrɪk/
 核心：指"不对称的"。也拼作 asymmetrical，两者通用。
 构词是 a-（无）+ symmetric（对称的）。
 ① The design is asymmetric on purpose and the client took a year to accept it.

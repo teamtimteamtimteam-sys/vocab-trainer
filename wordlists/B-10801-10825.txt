@@ -13,6 +13,7 @@ hawthorn = 山楂树
 hawthorn = 山楂木
 
 hay
+/heɪ/
 核心：不可数。割下晒干、留着冬天喂牲口的草 —— 青着长在地里的是 grass，
 晒干了才是 hay。没晒透就堆起来会闷出热甚至自燃，所以农事上极讲时机，
 make hay while the sun shines（趁晴天赶紧干）就是从这儿来的。
@@ -118,6 +119,7 @@ somebody's sense of direction goes haywire = 方向感彻底失灵
 haywire = 捆干草的细铁丝（本义）
 
 hazard
+/ˈhæzəd/
 核心：三支。一是危险、隐患 —— 可能造成伤害的东西或情形，可数，
 最常见的是 a fire hazard、a health hazard、a safety hazard；
 二是动词，斗胆提出（hazard a guess）、拿某物去冒险；
@@ -149,6 +151,7 @@ hazard pay = 危险津贴
 a hazard = （高尔夫）障碍区
 
 hazardous
+/ˈhæzədəs/
 核心：形容词，危险的、有害的。比 dangerous 正式，主要活在制度、法规
 与技术文本里：hazardous waste、hazardous substances、a hazardous journey。
 副词 hazardously 并在本条。
@@ -163,6 +166,7 @@ hazardous = 危险的
 hazardously = 危险地
 
 haze
+/heɪz/
 核心：两支。一是霾、薄雾 —— 灰尘、烟或热气造成的朦胧，比 fog 薄、
 比 mist 脏；不可数，也说 a haze。二是比喻的迷糊状态：in a haze
 ＝ 昏昏沉沉、事后记不清。动词 haze 另有「整治新人」一义，见 hazing 条。
@@ -177,6 +181,7 @@ the haze = 那层薄雾
 in a haze = 昏昏沉沉、迷迷糊糊
 
 hazel
+/ˈheɪzəl/
 核心：两支。一是榛树 —— 结榛子的灌木或小乔木，枝条弯而不断，
 从前用来编篱笆、做占卜杖；可数（指树），也作不可数的木料名。
 二是颜色词：（眼睛）淡褐色的、褐中带绿的 —— 英语里几乎专说眼睛。
@@ -219,6 +224,7 @@ haze somebody = 整治新人
 anti-hazing laws = 反新人整治法
 
 hazy
+/ˈheɪzi/
 核心：三支，由实到虚。一是（天气）有薄霾的、朦胧的；
 二是（记忆、想法）模糊不清的，常说 be hazy about something；
 三是（人）迷迷糊糊、说不清楚的。副词 hazily 并在本条。
@@ -236,6 +242,7 @@ a hazy memory = 模糊的记忆
 hazily = 模模糊糊地
 
 he
+/hiː/
 核心：第三人称单数阳性主格代词 —— 指男性，也指被当作雄性的动物。
 一整套要连着记：主格 he、宾格 him、所有格 his、反身 himself。
 泛指的旧用法今天不合时宜：从前拿它兼指男女（a student should bring
@@ -269,6 +276,7 @@ a he-man = 肌肉男、硬汉（常带讽刺）
 连字符复合词，这里的 he 当「雄性的」用；今天说起来多半带点嘲讽。
 
 head
+/hed/
 核心：英语里分支最多的名词之一。底层只有一个意思 —— 一个东西的最上端、
 最前端、最要紧的那一端；身体的头恰好三样都占齐了，所以别的义项全从它长出来。
 往四个方向推：
@@ -455,6 +463,7 @@ a head-mounted display = 头戴式显示器
 虚拟现实那一路设备的正式名称，缩写 HMD。
 
 headache
+/ˈhedeɪk/
 核心：两支。一是头痛 —— 可数，说 have a headache，不说 have headache；
 二是比喻的「头疼事」：难办的问题、麻烦。
 常用搭配：a splitting headache（头痛欲裂）、a tension headache（紧张性头痛）、

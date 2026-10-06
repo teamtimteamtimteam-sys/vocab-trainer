@@ -15,6 +15,7 @@ generator = 发电机（通用）
 dynamo = 直流发电机（旧称）
 
 although
+/ˌɔːlˈðəʊ/
 核心：引导让步从句，意思是"虽然"。最要紧的一条是中英不对称：
 中文说"虽然……但是……"，英文里 although 和 but 只能留一个，
 两个一起用是硬错。第二层用法容易被忽略：although 也能放在句子
@@ -59,6 +60,7 @@ altitude = 高度
 meter = 计量仪表
 
 altitude
+/ˈæltɪtjuːd/
 核心：指海拔高度或飞行高度。不可数为主，具体数值时可数。
 高原反应叫 altitude sickness。
 ① The plane climbed to high altitude to get above the weather.
@@ -114,6 +116,7 @@ altocumulus = 高积云（一团团）
 cumulus = 积云（低层，馒头状）
 
 altogether
+/ˌɔːltəˈɡeðə(r)/
 核心：两个用法：一是"完全地"，二是"总共"。注意和 all together
 （大家一起）是两个不同的东西，写成一个词还是两个词意思就变了。
 ① That's altogether different from what you told me on the phone last night.
@@ -189,6 +192,7 @@ alumina = 氧化铝（化合物）
 aluminium = 铝（金属单质）
 
 aluminium
+/ˌæljʊˈmɪniəm/
 核心：金属元素铝。英美拼写和读音都不同，这是最著名的英美差异
 之一：英式 aluminium 五个音节，美式 aluminum 四个音节。
 ① The frame is made of aluminium, so one person can carry the whole thing upstairs.
@@ -205,6 +209,7 @@ aluminum = 铝（美式拼法，读 /əˈluːmɪnəm/）
 拼写和音节数都不同。
 
 alumnus
+/əˈlʌmnəs/
 核心：指某校的"男校友"，女校友是 alumna。复数形式是拉丁式的，
 四种形式要分清。口语常用缩写 alum。
 ① He is an alumnus of Oxford and mentions it rather more often than necessary.
@@ -244,6 +249,7 @@ alveolar = 齿龈的、肺泡的
 解剖学与语音学都用它。
 
 always
+/ˈɔːlwɪz/
 核心：一是"总是"（频率），二是"一直"（持续）。配进行时用时带情绪
 色彩——表示抱怨或赞叹，不是单纯陈述频率，这层意思很容易被忽略。
 ① He is always late and always has a reason nobody can check.
@@ -405,6 +411,7 @@ amaryllis bulb = 朱顶红球根
 园艺植物名称。
 
 amass
+/əˈmæs/
 核心：指"积聚起大量的"，宾语通常是财富、证据、收藏、数据。
 比 collect 更强调数量之大。及物动词。
 ① He amassed a fortune and left almost none of it to his children.

@@ -31,6 +31,7 @@ sea bream = 海鲷
 注意用法：单复数同形，不加 -s。
 
 breast
+/brest/
 核心：底层是"胸前那一块"。指女性的乳房是最常用的一支；
 指禽类胸脯肉是另一支，chicken breast 是鸡胸肉；
 也泛指人的胸膛，偏文学的用法里 breast 是情感所在，
@@ -128,6 +129,7 @@ backstroke = 仰泳
 freestyle = 自由泳
 
 breath
+/breθ/
 核心：名词，指一次呼吸或呼出的那口气。它跟动词 breathe 只差一个
 字母，读音却差得远：breath 里的元音短、结尾是清音，
 breathe 里的元音长、结尾是浊音，这是中文母语者最常读错写错的
@@ -229,6 +231,7 @@ over the limit = 超过法定限值
 注意来历：原为商标，后来通名化。
 
 breathe
+/briːð/
 核心：动词，呼吸。跟名词 breath 只差一个字母，读音差得远——
 这里的元音长、结尾是浊音。基本用法是 breathe in 吸气、
 breathe out 呼气。习语好几个都很常用：
@@ -272,6 +275,7 @@ breather = 歇口气（很短，口语）
 break = 休息（可长可短，通用）
 
 breathing
+/ˈbriːðɪŋ/
 核心：呼吸这件事，不可数。医学上说 breathing difficulties
 是呼吸困难。另有一个高频引申搭配 breathing space：
 喘息的余地——不是真的喘气，是指时间上或财务上让人缓一缓的
@@ -373,6 +377,7 @@ stockings = 长袜
 注意用法：只用复数，论条用 a pair of。
 
 breed
+/briːd/
 核心：底层是"生出下一代"。动物自行繁殖是不及物；人有意识地
 配种培育是及物，breed horses 是养马育种。名词是品种：
 a breed of dog 是狗的一个品种；引申指"一类人"，
@@ -422,6 +427,7 @@ breeder reactor = 增殖反应堆
 注意用法：育种是有计划地选，跟随便养不同。
 
 breeding
+/ˈbriːdɪŋ/
 核心：三支。一是繁殖这件事，breeding season 是繁殖季。
 二是有计划的育种，selective breeding 是选择性育种。
 三是意思拐了个弯的一支：教养。旧时说 a man of good breeding
@@ -443,6 +449,7 @@ breeding ground = 繁殖地；滋生温床
 今天多含讽刺。
 
 breeze
+/briːz/
 核心：底层是微风——不冷不烈、吹着舒服的那种风。从"轻"引申出
 口语里最常用的一支：轻而易举的事，说 it was a breeze 是
 "那事一点不难"。动词也从"轻"来：breeze in 是不当回事地

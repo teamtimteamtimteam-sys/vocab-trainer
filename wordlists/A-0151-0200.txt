@@ -1,4 +1,5 @@
 father
+/ˈfɑːðə(r)/
 ① My father works in a bank.
 = 我爸爸在银行工作。
 这里：
@@ -13,6 +14,7 @@ father = 父亲（正式、书面）
 dad = 爸爸（口语、亲近）
 
 mother
+/ˈmʌðə(r)/
 ① My mother is a teacher.
 = 我妈妈是老师。
 这里：
@@ -28,6 +30,7 @@ mother = 母亲（正式）
 mum（英）/ mom（美） = 妈妈（口语）
 
 parent
+/ˈpeərənt/
 ① My parents live in Beijing.
 = 我父母住在北京。
 注意：parents 指父母两人，
@@ -43,6 +46,7 @@ parent = 家长
 parents = 父母（两人）
 
 son
+/sʌn/
 ① They have one son and two daughters.
 = 他们有一个儿子和两个女儿。
 这里：
@@ -55,6 +59,7 @@ son 和 sun 读音完全相同，都是 /sʌn/，
 靠上下文区分。
 
 daughter
+/ˈdɔːtə(r)/
 ① His daughter is only five years old.
 = 他女儿才五岁。
 这里：
@@ -70,6 +75,7 @@ son = 儿子
 daughter = 女儿
 
 brother
+/ˈbrʌðə(r)/
 ① I have an older brother.
 = 我有个哥哥。
 注意：英语的 brother 不分哥哥弟弟，
@@ -82,6 +88,7 @@ older brother = 哥哥
 younger brother = 弟弟
 
 sister
+/ˈsɪstə(r)/
 ① She has two sisters.
 = 她有两个姐妹。
 这里：
@@ -95,6 +102,7 @@ older sister = 姐姐
 younger sister = 妹妹
 
 baby
+/ˈbeɪbi/
 ① The baby is sleeping now.
 = 宝宝正在睡觉。
 这里：
@@ -109,6 +117,7 @@ baby 结尾是"辅音 + y"，
 变复数要把 y 改成 i 再加 es：babies。
 
 boy
+/bɔɪ/
 ① That boy is my classmate.
 = 那个男孩是我同学。
 这里：
@@ -121,6 +130,7 @@ boy = 男孩（未成年）
 man = 男人（成年）
 
 girl
+/ɡɜːl/
 ① A little girl was crying in the street.
 = 一个小女孩在街上哭。
 这里：
@@ -133,6 +143,7 @@ girl = 女孩（未成年）
 woman = 女人（成年）
 
 person
+/ˈpɜːsən/
 ① He is a very kind person.
 = 他是个很善良的人。
 这里：
@@ -146,6 +157,7 @@ person = 人（单个）
 复数 = people
 
 age
+/eɪdʒ/
 ① What is your age?
 = 你多大了？
 这里：
@@ -163,6 +175,7 @@ age = 时代
 历史的 = 时代
 
 birthday
+/ˈbɜːθdeɪ/
 ① Happy birthday to you!
 = 祝你生日快乐！
 ② My birthday is on May 3rd.
@@ -176,6 +189,7 @@ birthday cake = 生日蛋糕
 birthday present = 生日礼物
 
 holiday
+/ˈhɒlɪdeɪ/
 ① We are going on holiday next week.
 = 我们下周去度假。
 go on holiday = 去度假
@@ -189,6 +203,7 @@ holiday = 节日、假日
 美式 vacation = 假期
 
 party
+/ˈpɑːti/
 ① I'm having a party on Saturday.
 = 我周六办个聚会。
 have a party = 办聚会
@@ -202,6 +217,7 @@ party = 政党
 party → parties（y 变 i 加 es）
 
 letter
+/ˈletə(r)/
 ① I got a letter from my friend.
 = 我收到朋友的一封信。
 这里：
@@ -218,6 +234,7 @@ capital letter = 大写字母
 拼单词的 = 字母
 
 paper
+/ˈpeɪpə(r)/
 ① I need a piece of paper.
 = 我需要一张纸。
 这里 paper 不可数：
@@ -233,6 +250,7 @@ paper = 报纸
 paper = 论文
 
 pen
+/pen/
 ① Can I borrow your pen?
 = 我能借你的笔用一下吗？
 这里：
@@ -246,6 +264,7 @@ pen = 墨水笔（写了擦不掉）
 pencil = 铅笔（可以擦）
 
 bag
+/bæɡ/
 ① My bag is very heavy today.
 = 我的包今天很重。
 这里：
@@ -261,6 +280,7 @@ schoolbag = 书包
 shopping bag = 购物袋
 
 box
+/bɒks/
 ① There are some books in the box.
 = 箱子里有几本书。
 这里：
@@ -273,6 +293,7 @@ box 结尾是 x，
 变复数要加 es：boxes。
 
 table
+/ˈteɪbəl/
 ① Put the plates on the table.
 = 把盘子放在桌上。
 这里：
@@ -290,6 +311,7 @@ table = 平面的桌子（吃饭、开会）
 desk = 书桌、办公桌（有抽屉）
 
 chair
+/tʃeə(r)/
 ① Please take a chair.
 = 请坐。
 take a chair = 请坐（口语说法）
@@ -302,6 +324,7 @@ sit on a chair = 坐在椅子上（用 on）
 sit in an armchair = 坐在扶手椅里（用 in）
 
 bed
+/bed/
 ① I go to bed at eleven.
 = 我十一点上床睡觉。
 go to bed = 上床睡觉
@@ -314,6 +337,7 @@ go to bed = 上床睡觉
 in bed = 躺在床上（不加 the）
 
 window
+/ˈwɪndəʊ/
 ① Please open the window.
 = 请开窗。
 这里：
@@ -328,6 +352,7 @@ look out of the window = 望向窗外
 window = 售票窗口
 
 floor
+/flɔː(r)/
 ① Don't put your bag on the floor.
 = 别把包放在地上。
 这里：
@@ -344,6 +369,7 @@ on the third floor = 在三楼
 美式一楼叫 first floor
 
 wall
+/wɔːl/
 ① There is a picture on the wall.
 = 墙上有幅画。
 注意介词：墙上用 on。
@@ -356,6 +382,7 @@ the Great Wall = 长城
 paint the wall = 刷墙
 
 kitchen
+/ˈkɪtʃən/
 ① She is cooking in the kitchen.
 = 她在厨房做饭。
 这里：
@@ -371,6 +398,7 @@ bathroom = 卫生间
 living room = 客厅
 
 garden
+/ˈɡɑːdən/
 ① They grow vegetables in the garden.
 = 他们在园子里种菜。
 这里：
@@ -384,6 +412,7 @@ garden = 花园、菜园
 美式 yard = 院子，garden 更常指花圃
 
 park
+/pɑːk/
 ① Let's go for a walk in the park.
 = 我们去公园散散步吧。
 这里 park 是名词：
@@ -398,6 +427,7 @@ car park = 停车场（英式）
 一个词两种身份，意思完全不同。
 
 station
+/ˈsteɪʃən/
 ① I'll meet you at the station.
 = 我在车站等你。
 这里：
@@ -413,6 +443,7 @@ bus station = 汽车站
 petrol station = 加油站
 
 hospital
+/ˈhɒspɪtəl/
 ① He is in hospital.
 = 他住院了。
 in hospital 不加 the，表示"住院"这个状态。
@@ -426,6 +457,7 @@ in hospital = 住院（自己是病人）
 in the hospital = 在医院里（可能只是探病）
 
 bank
+/bæŋk/
 ① I need to go to the bank.
 = 我得去趟银行。
 这里：
@@ -441,6 +473,7 @@ in the bank = 存在银行里
 只能靠上下文分辨。
 
 hotel
+/həʊˈtel/
 ① We stayed at a small hotel.
 = 我们住在一家小旅馆。
 stay at a hotel = 住旅馆
@@ -453,6 +486,7 @@ stay at a hotel = 住旅馆
 hotel 虽然 h 发音，用 a hotel。
 
 restaurant
+/ˈrestrɒnt/
 ① Let's eat at that restaurant.
 = 我们去那家餐厅吃吧。
 eat at a restaurant = 在餐厅吃饭
@@ -465,6 +499,7 @@ restaurant 中间的 au 最容易漏，
 读 /ˈrestrɒnt/，中间那个音很轻。
 
 market
+/ˈmɑːkɪt/
 ① I buy vegetables at the market.
 = 我在市场买菜。
 这里：
@@ -478,6 +513,7 @@ market = 市场（商业意义）
 supermarket = 超市
 
 office
+/ˈɒfɪs/
 ① She works in an office.
 = 她在办公室工作。
 这里：
@@ -492,6 +528,7 @@ post office = 邮局
 officer = 官员、警官
 
 farm
+/fɑːm/
 ① They live on a farm.
 = 他们住在农场里。
 注意介词：农场用 on，不用 in。
@@ -506,6 +543,7 @@ farmer = 农民
 farming = 农业
 
 animal
+/ˈænɪməl/
 ① Dogs are friendly animals.
 = 狗是友好的动物。
 这里：
@@ -518,6 +556,7 @@ wild animal = 野生动物
 注意：animal 泛指人以外的所有动物。
 
 dog
+/dɒɡ/
 ① My dog is very smart.
 = 我的狗很聪明。
 这里：
@@ -531,6 +570,7 @@ walk a dog = 遛狗
 注意动词：狗叫用 bark。
 
 cat
+/kæt/
 ① The cat is sleeping on the sofa.
 = 猫在沙发上睡觉。
 这里：
@@ -544,6 +584,7 @@ cat = 猫
 养宠物用 have 或 keep，不用 raise。
 
 bird
+/bɜːd/
 ① A bird is singing outside.
 = 一只鸟在外面叫。
 注意动词：鸟叫用 sing，不用 cry。
@@ -555,6 +596,7 @@ bird
 鸟在树上用 in the tree，不用 on。
 
 fish
+/fɪʃ/
 ① I caught three fish today.
 = 我今天钓到三条鱼。
 注意：fish 的复数通常还是 fish，
@@ -567,6 +609,7 @@ fish
 go fishing = 去钓鱼
 
 tree
+/triː/
 ① There is a big tree in front of the house.
 = 房子前面有棵大树。
 这里：
@@ -580,6 +623,7 @@ tree = 树
 停在树上的鸟用 in the tree
 
 flower
+/ˈflaʊə(r)/
 ① She gave me some flowers.
 = 她送了我一些花。
 这里：
@@ -592,6 +636,7 @@ flower = 花
 come out = 开花
 
 sun
+/sʌn/
 ① The sun is very bright today.
 = 今天太阳很亮。
 注意：sun 前面几乎总是加 the。
@@ -604,6 +649,7 @@ sunny = 晴朗的
 sunshine = 阳光
 
 moon
+/muːn/
 ① Look at the moon tonight.
 = 今晚看看月亮。
 和 sun 一样，前面加 the。
@@ -615,6 +661,7 @@ on the moon = 在月球上
 full moon = 满月
 
 star
+/stɑː(r)/
 ① The stars are very bright tonight.
 = 今晚星星很亮。
 这里：
@@ -630,6 +677,7 @@ star = 明星
 台上的 = 明星
 
 sky
+/skaɪ/
 ① The sky is blue today.
 = 今天天空是蓝的。
 注意：sky 前面通常加 the。
@@ -641,6 +689,7 @@ in the sky = 在天空中
 = 天要黑了。
 
 sea
+/siː/
 ① We swam in the sea yesterday.
 = 我们昨天在海里游泳。
 这里：
@@ -656,6 +705,7 @@ sea = 海
 ocean = 大洋（比海更大）
 
 river
+/ˈrɪvə(r)/
 ① They live near a river.
 = 他们住在河边。
 这里：

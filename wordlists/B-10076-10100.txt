@@ -1,4 +1,5 @@
 geography
+/dʒɪˈɒɡrəfi/
 核心：三支。一是地理学这门学科；二是（某地的）地形地貌与空间格局；
 三是（引申）某件事的分布格局。不可数。
 ① Geography was the one subject he never had to revise for.
@@ -22,6 +23,7 @@ geolocation = 定位
 turn geolocation off = 关掉定位
 
 geological
+/ˌdʒiːəˈlɒdʒɪkəl/
 核心：地质的、地质学的：跟岩层、地壳及其漫长变化有关；
 说时间时 geological 意味着「以百万年计」。副词 geologically。
 ① A geological survey of that hill found coal, water and one problem.
@@ -50,6 +52,7 @@ a geologist = 地质学家
 geologists = 地质学家（复数）
 
 geology
+/dʒɪˈɒlədʒi/
 核心：三支。一是地质学这门学科；二是（某地的）地质构造；
 三是（口语）一摞层层叠叠的东西，带调侃。不可数。
 ① Geology explains the shape of that coast better than any history does.
@@ -116,6 +119,7 @@ the geometric mean = 几何平均数
 geometric progression = 等比数列
 
 geometry
+/dʒɪˈɒmətri/
 核心：三支。一是几何学这门学科；二是（某物的）形状与相互位置关系；
 三是（引申）局面的结构。不可数为主。
 ① Geometry was invented by people who needed to measure a flooded field.
@@ -185,6 +189,7 @@ geopolitics = 地缘政治
 the geopolitics of something = 某种资源的地缘政治
 
 Geordie
+/ˈdʒɔːdi/
 核心：两支。一是泰恩赛德人：英格兰东北纽卡斯尔一带出生的人；
 二是那一带的口音与方言。可数；说口音时也作形容词。
 ① A Geordie in that office translated for the rest of the meeting.

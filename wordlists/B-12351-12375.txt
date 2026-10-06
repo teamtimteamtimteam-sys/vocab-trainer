@@ -43,6 +43,7 @@ insupportable pain = 难以忍受的疼痛
 an insupportable claim = 站不住脚的说法
 
 insurance
+/ɪnˈʃɔːrəns/
 核心：保险；保险费；保险业；（比喻）防范措施。几支：为防损失而买的保障（car insurance、take out insurance）；
 为此付的钱；保险这一行；为以防万一而做的准备（as insurance against）。
 insurance policy（保单）与 insurance adjuster（美，理赔员）并入本条。
@@ -68,6 +69,7 @@ an insurance adjuster = （美）理赔员
 英式说 loss adjuster。
 
 insure
+/ɪnˈʃɔː(r)/
 核心：给…保险、投保；（美）确保。两支：为东西或生命买保险（insure something against something）；
 美式里也写作「确保」，同 ensure。形容词 insured（已投保的）与保险公司 insurer 并入本条。
 ① The house is insured against fire and flood.
@@ -124,6 +126,7 @@ crush an insurrection = 镇压起义
 an insurrectionary group = 起义组织
 
 intact
+/ɪnˈtækt/
 核心：完整无损的、未受损伤的 —— 经历了事故、灾难或时间后依然完好。只作表语或后置。
 ① Most of the town was destroyed, but the old church survived the earthquake intact.
 = 小镇大部分被毁，但那座古老的教堂在地震中完好无损。
@@ -142,6 +145,7 @@ an intaglio = 凹雕
 print by intaglio = 用凹版印刷
 
 intake
+/ˈɪnteɪk/
 核心：摄入量；吸收（新人）的数量；进口。几支：吃进喝进的量（alcohol intake）；
 一批新招的学生或员工（this year's intake）；水、空气的入口（an air intake）；an intake of breath 是倒吸一口气。
 ① Doctors advised him to reduce his intake of salt.
@@ -179,6 +183,7 @@ an intarsia pattern = 嵌花图案
 intarsia = 镶嵌细工
 
 integer
+/ˈɪntɪdʒə(r)/
 核心：（数学）整数 —— 不带小数或分数的数，包括正数、负数和零。
 ① In this part of the test the answer must be an integer, so fractions will be marked wrong.
 = 这部分考试的答案必须是整数，填分数会被判错。
@@ -204,6 +209,7 @@ an integral = 积分
 integrally linked = 紧密相连
 
 integrate
+/ˈɪntɪɡreɪt/
 核心：（使）融入、结合；（使）一体化。两支：把几部分合成一个整体（integrate A with/into B）；
 让人融入一个群体或社会（integrate into a community）。形容词 integrated（综合的、一体化的）并入本条，
 integrated circuit（集成电路）也并在这里。
@@ -221,6 +227,7 @@ an integrated system = 一体化系统
 an integrated circuit = 集成电路
 
 integration
+/ˌɪntɪˈɡreɪʃən/
 核心：结合、整合；融入、融合；（种族）一体化、取消隔离。
 ① The integration of the two companies took more than a year.
 = 两家公司的整合用了一年多时间。
@@ -233,6 +240,7 @@ integration into society = 融入社会
 racial integration = 种族融合
 
 integrity
+/ɪnˈteɡrɪti/
 核心：正直、诚实；完整、完好。两支：人的品格坚持原则、不受收买（a man of integrity）；
 事物保持完整、不被破坏（territorial integrity）。
 ① She is a woman of great integrity who would never take a bribe.
@@ -255,6 +263,7 @@ formidable intellect = 过人的才智
 an intellect = 才智出众的人
 
 intellectual
+/ˌɪntəˈlektʃuəl/
 核心：智力的、理智的；知识分子。形容词：跟思考、知识有关的（intellectual development）；
 （人）有学问、爱思考的。名词：知识分子。副词 intellectually、名词 intellectualism（唯理智论；重理智）
 与动词 intellectualize（从理智上分析）并入本条。intellectual property（知识产权）也并在这里。
@@ -278,6 +287,7 @@ intellectualize something = 从理智上分析…
 intellectual property = 知识产权
 
 intelligence
+/ɪnˈtelɪdʒəns/
 核心：智力、智慧；情报；情报机构。两支：理解、学习、思考的能力（human intelligence、artificial intelligence）；
 （尤指军事、政治上的）秘密信息，以及搜集这些信息的机构（military intelligence）。
 intelligence quotient（智商，缩写「IQ」）与 intelligence test（智力测验）并入本条。
@@ -301,6 +311,7 @@ intelligence quotient = 智商
 an intelligence test = 智力测验
 
 intelligent
+/ɪnˈtelɪdʒənt/
 核心：聪明的、有才智的；（机器）智能的。说人理解快、会思考；也说机器、系统能自行判断。
 副词 intelligently 并入本条。跟 clever 的分别：intelligent 偏思维能力；clever 更口语，也可指机灵、耍小聪明。
 ① She is a highly intelligent student who reads everything she can find.

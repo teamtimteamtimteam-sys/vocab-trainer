@@ -34,6 +34,7 @@ alkene = 烯烃（双键，不饱和）
 alkane = 烷烃（单键，饱和）
 
 all
+/ɔːl/
 核心：底层就是"全部"，简单，难在词性和习语。它能作形容词
 （all students）、代词（all of them）、副词（all alone，加强语气），
 还能直接罩住一段时间（all day）。真正要单独记的是习语：这些
@@ -448,6 +449,7 @@ all-weather = 全天候的（各种天气都行）
 waterproof = 防水的（只管水）
 
 allay
+/əˈleɪ/
 核心：指"减轻、平息（担忧、恐惧、疑虑）"，正式。
 宾语几乎总是负面情绪：fears、concerns、doubts、suspicions。
 ① The statement allayed fears of a shortage, and the queues outside the shops thinned by evening.
@@ -465,6 +467,7 @@ alleviate = 减轻（痛苦、问题）
 relieve = 缓解（通用）
 
 allegation
+/ˌælɪˈɡeɪʃən/
 核心：指"未经证实的指控"，这是它和 accusation 的关键差别——
 allegation 强调"只是说法，还没证实"，新闻里为了免责大量使用。
 介词用 of 或 against。
@@ -487,6 +490,7 @@ accusation 指控（可正式可日常）
 charge 控罪（法律正式提出）
 
 allege
+/əˈledʒ/
 核心：指"声称、指称（但未证实）"，几乎总用被动 it is alleged
 that 或 the alleged。新闻写作的核心免责用词。
 ① He is alleged to have stolen it, and the case has not yet been heard.
@@ -509,6 +513,7 @@ The money allegedly went to a charity that nobody has ever found.
 表示"尚未证实的"。
 
 alleged
+/əˈledʒd/
 核心：指"据称的、涉嫌的"，只作定语。新闻和法律写作的核心免责词，
 表示"这是指控，尚未证实"。
 ① The alleged attacker was arrested at the airport and has not yet entered a plea.
@@ -542,6 +547,7 @@ allegedly 表示"这是别人的说法，
 我不为真实性背书"。
 
 allegiance
+/əˈliːdʒəns/
 核心：指对国家、组织、领袖的"忠诚、效忠"。核心搭配是
 swear / pledge allegiance to。介词用 to。
 ① He swore allegiance to the king in the morning and was plotting against him by autumn.

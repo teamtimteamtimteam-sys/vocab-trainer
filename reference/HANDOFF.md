@@ -31,12 +31,12 @@ sed -n '1,60p' reference/GOAL.txt
 
 ```bash
 # 1 写之前：把这一段的习语清单补进 audit-idioms.py 的 CHECK，再动笔
-# 2 写：heredoc 追加到新文件 wordlists/B-<起>-<止>.txt
+# 2 写：heredoc 追加到新文件 wordlists/B-<起>-<止>.txt（每条词头下面一行音标，见第十节）
 python3 scripts/check-wordlist.py wordlists/B-XXXX-YYYY.txt   # 先查这一批，别先 resplit
 python3 scripts/renumber.py                                    # 往老词条插过义项就要跑
 python3 scripts/resplit-b.py >/dev/null
 python3 scripts/merge-wordlist.py B 2500 >/dev/null            # 交付文件每份 2500，满了自动顺延
-bash scripts/gates.sh <段> <这批的词头...>                      # 十二道闸门
+bash scripts/gates.sh <段> <这批的词头...>                      # 十三道闸门（第十三道查音标行）
 python3 scripts/scan-dupes.py --loose                          # 判重（退出码恒 0，要自己看）
 git add -A && git commit -q -m "..."
 ```
@@ -266,3 +266,30 @@ git commit -m "拓展块补例句（N）：<段> 若干条"
   `learnedCount` 又只在 toggleMark 里重算，漂了就一直错。
   现在 `startLearn` 开背前对账（修 wordIds、重算 learnedCount），
   并在导航条加了「找未标记」。
+
+## 十、音标（用户 2026-10-06 要求：给所有词条补音标）
+
+**用户定的四件事**：只标英式；下载开源读音词典打底；**app 的导入逻辑不改**（已导入 iPad 的词条不更新，
+只管以后新导入的）；A、B 两张表都补。
+
+**格式**：词头下面单占一行，以「/」开头，写法见 CLAUDE.md「音标行」。闸门的字符集放行国际音标，
+`scripts/ipa.py` 里的 `LINE_RE` 管这一行的合法性（check-wordlist 与第十三道闸门都用它）。
+
+```bash
+python3 scripts/ipa.py status              # 两张表各缺多少
+python3 scripts/ipa.py missing mu -n 300   # 列出某个前缀下缺音标的词头
+# 把手写的追加到 data/pron/manual.tsv（词头<TAB>音标行），然后：
+python3 scripts/ipa.py set data/pron/manual.tsv
+python3 scripts/merge-wordlist.py B 2500 >/dev/null     # 改了分批文件必须重新合并，否则 check-merged 红
+python3 scripts/merge-wordlist.py A 3000 >/dev/null; rm -f wordlists/A-merged-3001-3002.txt   # A 的尾巴不交付，别留
+bash scripts/gates.sh <段>
+```
+
+**现状从 `ipa.py status` 读**。2026-10-06 自动填了 7728 条（A 表 93%、B 表 33%），余下一万条左右：
+Britfone 里没有的（九千多）、多词与带连字符的词头（五百多）、重音有两读的（199 条，多半是名动异读，
+要手写成两段）。**Britfone 本身有错**（抽查 170 条错 1 条：caffeine；另见过 refugee、employee），
+而且名动异读的词它常只给一个读法（separate、use、close、lead、live…）—— 这一类要另列清单逐个改。
+
+**新写词条时**：每条词头下面直接写音标行；写完 `gates.sh` 第十三道会查这一批点名的词头有没有。
+存量的缺口只报不拦；全部补完以后把 `ipa.py check` 改成全表必须有。
+

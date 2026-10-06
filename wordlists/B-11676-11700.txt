@@ -10,6 +10,7 @@ an illiberal democracy = 非自由民主
 政治学里的固定说法，指有投票、却压制言论与司法独立的体制。
 
 illicit
+/ɪˈlɪsɪt/
 核心：违法的；见不得人的。比 illegal 多一层「违背道德或社会规矩」：
 illicit drugs 是违法，an illicit affair 并不违法，只是见不得人。偏书面。
 副词 illicitly 并入本条。注意别混：elicit 读音几乎一样，意思是「引出（回答、反应）」。
@@ -59,6 +60,7 @@ the illiterati = 没文化的人们（谑、贬）
 总是带 the、当复数用；拿「文人雅士」那个拉丁复数词开玩笑造出来的。
 
 illness
+/ˈɪlnɪs/
 核心：生病这件事，或某一种病 —— 形容词 ill 加 -ness。可数不可数两用：
 泛指「生病」不可数（through illness），具体的某一种病可数（a serious illness）。
 跟 disease 的分别：disease 偏指有明确病因、有病理的病，也能说植物；illness 偏指人病了这件事本身，
@@ -157,6 +159,7 @@ be illumined by faith = 被信仰启迪（文）
 比喻义，同 illuminate 的「照亮心灵」。
 
 illusion
+/ɪˈluːʒən/
 核心：来自拉丁语「嘲弄、欺骗」。本质是「被骗了」，分两层：一是感官被骗 —— 错觉：an optical illusion；
 二是心里被骗 —— 幻想、错误的信念：be under the illusion that、have no illusions about。
 由第一层还引出「假象」：give an illusion of space（显得宽敞）。
@@ -202,6 +205,7 @@ illusive = 虚幻的（少见）
 意思同 illusory；要说「难以捉摸、抓不住」得用 elusive。
 
 illustrate
+/ˈɪləstreɪt/
 核心：来自拉丁语「照亮、使清楚」，同 illuminate 一个思路。两支：一是给书配插图；
 二是举例说明、说明问题（这一支更常用）—— 用一个例子把道理「照亮」。
 形容词 illustrated（配有插图的）与名词 illustrator（插画家）并入本条；
@@ -225,6 +229,7 @@ illustrate how = 说明…如何
 an illustrator = 插画家
 
 illustration
+/ˌɪləˈstreɪʃən/
 核心：illustrate 的名词，两支对应它的两支。一是插图（可数）；画插图这门手艺（不可数）；
 二是例证、说明（可数）：a clear illustration of；by way of illustration（举例来说）。
 ① The illustrations in the old atlas were all drawn and coloured by hand.
@@ -269,6 +274,7 @@ an illustrious predecessor = 声名显赫的前任
 illustrious former pupils = 杰出校友
 
 image
+/ˈɪmɪdʒ/
 核心：来自拉丁语「像、模样」。本质是「某样东西的像」，按这个像在哪里分成几支：
 在别人心里 —— 形象、公众印象（public image，这是今天最常用的一支）；
 在自己心里 —— 脑中的画面、印象（an image of her as...）；
@@ -317,6 +323,7 @@ brain imaging = 脑部成像
 imaging 是「成像技术」，不可数，多用于医学与科研。
 
 imagery
+/ˈɪmɪdʒri/
 核心：image 的集合名词，不可数。两支：一是文学、艺术里的意象（用语言唤起的画面）；
 二是图像的统称，多说卫星、医学、电脑生成的画面。
 ① The novel's dark imagery of rivers and drowning stays with you long after the last page.
@@ -343,6 +350,7 @@ every colour imaginable = 各种能想到的颜色
 the worst imaginable = 最糟不过的
 
 imaginary
+/ɪˈmædʒɪnəri/
 核心：想象出来的、虚构的 —— 不存在于现实中。跟 imaginative 分清：
 imaginary 是「不是真的」，imaginative 是「有想象力的」。数学里的「虚数」也从这里来，并入本条。
 ① Like many only children, she had an imaginary friend who sat beside her at dinner.
@@ -359,6 +367,7 @@ an imaginary line = 假想线
 an imaginary number = 虚数（数学）
 
 imagination
+/ɪˌmædʒɪˈneɪʃən/
 核心：想象力 —— 在脑子里造出没见过的东西的能力；也指想象出来的东西本身。
 不可数为主，可带 a：have a vivid imagination。由此有一串习语：
 capture the imagination（引人入胜）、a figment of your imagination（臆想出来的东西）、
@@ -393,6 +402,7 @@ by no stretch of the imagination = 无论如何也不
 leave nothing to the imagination = 一览无余、暴露无遗
 
 imaginative
+/ɪˈmædʒɪnətɪv/
 核心：有想象力的、有创意的 —— 说人，也说作品、方案、设计。跟 imaginary 分清：
 imaginary 是「不是真的」，imaginative 是「想得出新东西」。副词 imaginatively 并入本条。
 ① She is an imaginative teacher who turns grammar lessons into detective games.
@@ -408,6 +418,7 @@ an imaginative solution = 有创意的解决办法
 imaginatively converted = 别出心裁地改造的
 
 imagine
+/ɪˈmædʒɪn/
 核心：在脑子里形成画面 —— 这是本义，由此长出三支：
 一是设想、想象（imagine doing / imagine what）；二是猜想、料想，语气比 think 弱（I imagine so）；
 三是凭空以为有，其实没有（imagine things、you're imagining it）。
@@ -471,6 +482,7 @@ the imam of a mosque = 清真寺的伊玛目
 the Imam = （什叶派）伊玛目（头衔）
 
 imbalance
+/ɪmˈbæləns/
 核心：不平衡、失衡 —— 两样本该相称的东西差得太多。可数：an imbalance between A and B。
 im- 是否定前缀，加在 balance 上。
 ① There is a serious imbalance between the number of teachers and the number of pupils.

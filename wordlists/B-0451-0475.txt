@@ -37,6 +37,7 @@ symptom = 症状（表现出来的）
 diagnosis = 诊断（判定是什么病）
 
 afar
+/əˈfɑː(r)/
 核心：文学或正式用语，只活在 from afar（从远处）这个搭配里。
 日常说 from a distance。
 ① He watched her from afar for a whole term and never once spoke to her.
@@ -74,6 +75,7 @@ approachable = 好接近的
 affability = 和蔼可亲
 
 affair
+/əˈfeə(r)/
 核心：本义就是"要办的事"，从这一点分出三条线。复数指成规模的
 "事务"（国家的、公司的、时下的）；单数指"一件事、一桩事情"，
 口语里还能拿来指"那玩意儿"（说不出名字的东西）；第三条是高频的
@@ -107,6 +109,7 @@ have an affair = 有婚外情
 affaire = 私情（法语写法，多指恋情）
 
 affect
+/əˈfekt/
 核心：动词，指"对…产生影响"，直接接宾语不加介词。和名词 effect
 是英语里最经典的易混对：affect 是动词，effect 是名词。
 另有"假装"这个正式义。
@@ -153,6 +156,7 @@ pretension = 自命不凡
 mannerism = 习惯性小动作（中性）
 
 affected
+/əˈfektɪd/
 核心：两条完全不同的线：一是"受影响的"（被动，中性），
 二是"装腔作势的"（贬义）。靠语境和位置区分。
 ① Affected areas received aid within a week, and the rest waited months.
@@ -175,6 +179,7 @@ affectation = 做作
 affectedly = 装模作样地
 
 affection
+/əˈfekʃən/
 核心：指温和持久的"喜爱、情感"，比 love 平和，多用于家人、朋友、
 宠物。介词用 for。复数 affections 指"感情"整体。
 ① She has great affection for him and shows none of it in public.
@@ -250,6 +255,7 @@ testimony = 证词（可口头）
 statement = 陈述（通用）
 
 affiliate
+/əˈfɪlɪeɪt/
 核心：动词指机构之间"隶属、挂靠"，常用被动 be affiliated with/to；
 名词指"分支机构、联属公司"。商业和学术语境高频。
 ① The clinic is affiliated with the hospital and shares its laboratories.
@@ -272,6 +278,7 @@ affiliation = 隶属关系
 动词 /əˈfɪlieɪt/ 名词 /əˈfɪliət/
 
 affiliated
+/əˈfɪlɪeɪtɪd/
 核心：指机构"隶属于、挂靠于"另一机构。介词用 with 或 to。
 学术论文的作者单位标注也用这个词。
 ① The clinic is affiliated with the university and takes its students on placement.
@@ -287,6 +294,7 @@ affiliate = 使隶属；分支机构
 affiliation = 隶属关系
 
 affiliation
+/əˌfɪlɪˈeɪʃən/
 核心：指"隶属关系、所属立场"。学术上指作者单位，
 政治上指党派归属，宗教上指教派归属。
 ① State your institutional affiliation, or the paper goes back unreviewed.
@@ -327,6 +335,7 @@ affinity card = 联名信用卡（刷卡额分成给关联团体）
 affinity group = 兴趣或身份互助小组
 
 affirm
+/əˈfɜːm/
 核心：正式的"肯定、确认"，比 say 郑重，多用于声明、法庭、公告。
 另有一层"给予肯定和支持"的心理学用法。
 ① He affirmed his commitment in public and withdrew it in a letter.
@@ -488,6 +497,7 @@ wealthy 有钱（说个人）
 rich 富（通用）
 
 afford
+/əˈfɔːd/
 核心：底层是"负担得起"。几乎总和 can、could、be able to 连用。
 负担的可以是钱，也可以是时间和风险。另有一个正式义"提供"。
 ① I can't afford a new car and the old one has failed two tests.
@@ -514,6 +524,7 @@ affordability = 可负担程度
 affordably = 在价格上负担得起地
 
 affordable
+/əˈfɔːdəbəl/
 核心：指价格"负担得起的"，是房产、医疗、教育政策讨论的核心词。
 affordable housing 是高频固定搭配。
 ① They need affordable housing and the definition of it changes every few years.

@@ -37,7 +37,7 @@ def entries():
             if b: yield f, b
 
 def measure(block):
-    L = block.split('\n')
+    L = [l for l in block.split('\n') if not l.startswith('/')]   # 音标行不算讲解行
     se = [l for l in L[1:] if l and l[0] in NUMS]
     ci = next((i for i, l in enumerate(L) if l.startswith('核心')), None)
     si = next((i for i, l in enumerate(L) if l and l[0] in NUMS), len(L))

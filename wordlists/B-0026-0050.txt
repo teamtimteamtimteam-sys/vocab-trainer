@@ -1,4 +1,5 @@
 abandon
+/əˈbændən/
 核心：底层动作是"扔下不管，而且不打算回头"。对象可以是人、地方、
 交通工具（弃船、遗弃孩子），也可以是已经开始的事和心里的念头
 （中止搜救、放弃希望）。名词用法反过来指"什么都不顾"的放纵状态，
@@ -31,6 +32,7 @@ abandoned = 被遗弃的；放荡的
 an abandoned building = 废弃的楼
 
 abandoned
+/əˈbændənd/
 核心：两条线：一是"被遗弃的"（房子、汽车、孩子），二是"放纵无拘的"
 （举止、舞蹈）。第二条偏文学。
 ① They found an abandoned house with the table still laid for a meal.
@@ -115,6 +117,7 @@ abashed = 局促（自觉理亏）
 embarrassed = 尴尬（当场出丑）
 
 abate
+/əˈbeɪt/
 核心：正式用语，指风雨、痛苦、噪音、热情"减弱、平息"。
 不及物为主。法律上也指"废除、减免"。
 ① The storm abated at about four and the crews went out to clear the road.
@@ -195,6 +198,7 @@ abbey = 修道院
 注意复数：abbess → abbesses
 
 abbey
+/ˈæbi/
 核心：指修道院，也指由修道院改建的大教堂。Westminster Abbey
 就是后一种。和 monastery、convent 的区别在于 abbey 由 abbot 或
 abbess 主持，规模更大。
@@ -213,6 +217,7 @@ monastery 男修道院
 convent 女修道院
 
 abbot
+/ˈæbət/
 核心：指男修道院的院长，是修道院的最高负责人。
 和 monk（普通僧侣）区分：abbot 是管事的那位。
 ① The abbot led the prayers at four in the morning every day of the year.
@@ -227,6 +232,7 @@ abbot = 院长 / prior 副院长 / monk 修士
 abbey = 修道院
 
 abbreviate
+/əˈbriːvɪeɪt/
 核心：指把词或短语"缩写"成更短的形式。被动式最常用：
 be abbreviated to。注意宾语是文字，不是时间——缩短时间是 shorten。
 ① Doctor is abbreviated to two letters and takes a full stop in some styles.
@@ -307,6 +313,7 @@ belly 肚子（口语）
 tummy 肚肚（儿语）
 
 abdominal
+/æbˈdɒmɪnəl/
 核心：解剖学形容词，"腹部的"。常见搭配 abdominal pain、
 abdominal muscles（腹肌，口语缩写 abs）。
 ① He has abdominal pain that comes on about an hour after every meal.
@@ -420,6 +427,7 @@ aberration = 一次反常（偶发）
 anomaly = 异常（不符规律）
 
 abet
+/əˈbet/
 核心：法律用语，几乎只出现在固定搭配 aid and abet（教唆并协助）
 里，指帮别人犯罪。注意拼写要双写 t。
 ① He aided and abetted the crime by lending a van and asking nothing.

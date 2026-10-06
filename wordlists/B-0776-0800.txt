@@ -106,6 +106,7 @@ carcinogen = 致癌物
 pathogen = 病原体
 
 allergic
+/əˈlɜːdʒɪk/
 核心：医学上指"过敏的"，介词用 to；口语里比喻指"极其反感"。
 后者是半开玩笑的用法。
 ① She is allergic to penicillin and carries a card that says so.
@@ -125,6 +126,7 @@ allergy = 过敏
 作定语时直接修饰名词。
 
 allergy
+/ˈælədʒi/
 核心：指过敏症本身，可数。介词用 to。和 allergic 配对：
 have an allergy to 等于 be allergic to。
 ① She has a nut allergy severe enough to need a pen in every bag.
@@ -167,6 +169,7 @@ ease 减轻（较口语）
 mitigate 缓和（减轻严重程度）
 
 alley
+/ˈæli/
 核心：指建筑之间的"小巷"，也指保龄球道。习语 a blind alley 指
 "死胡同"，up someone's alley 指"正合某人口味"（美式）。
 ① They walked down a narrow alley that smelled of frying oil and rain.
@@ -190,6 +193,7 @@ alley cat = 野猫（流浪的）
 alley-oop = 空中接力扣篮（篮球）
 
 alliance
+/əˈlaɪəns/
 核心：指国家、组织、政党之间为共同目标结成的"联盟"。
 介词用 with（和谁结盟）或 between（谁和谁之间）。
 ① They formed an alliance in the spring and dissolved it by Christmas.
@@ -284,6 +288,7 @@ garlic = 大蒜
 leek = 韭葱
 
 allocate
+/ˈæləkeɪt/
 核心：指按计划"分配"资源、时间、资金、名额。介词用 to（分给谁）
 或 for（用于什么）。比 give 正式，强调"有计划地划拨"。
 ① Funds were allocated to schools and each team is allocated one room.
@@ -303,6 +308,7 @@ distribute 分发（分到各处）
 assign 分派（指定归属）
 
 allocation
+/ˌæləˈkeɪʃən/
 核心：既指"分配"这个行为，也指"分到的份额"。预算、名额、
 资源语境高频。
 ① The allocation of funds took months and satisfied nobody who applied.
@@ -389,6 +395,7 @@ allosaurus = 异特龙（侏罗纪，北美）
 tyrannosaurus = 霸王龙（白垩纪，更晚更大）
 
 allot
+/əˈlɒt/
 核心：指按份额"分配、拨给"，正式。介词用 to。
 注意拼写要双写 t。
 ① Places on the course were allotted to applicants in the order their forms arrived.
@@ -409,6 +416,7 @@ allocate = 划拨（有计划）
 assign = 分派（指定归属）
 
 allotment
+/əˈlɒtmənt/
 核心：两条线：一是"分配的份额"，二是英式特有的"市民菜园"——
 政府划给居民种菜的小块地。第二条在英国文化里很常见。
 ① He grows vegetables on his allotment and gives away more beans than he can eat.
@@ -445,6 +453,7 @@ allotrope = 同素异形体（化学）
 allot = 分配（动词，毫不相干）
 
 allow
+/əˈlaʊ/
 核心：底层是"准许"。三个结构：allow doing（笼统地准许某行为）、
 allow someone to do（准许某人做）、be allowed to（被准许）。
 不能说 allow someone doing。另有"留出余量"的义。

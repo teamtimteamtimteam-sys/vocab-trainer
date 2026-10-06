@@ -95,6 +95,7 @@ a dastardly plot = 卑鄙的阴谋
 注意语域：偏旧；正经场合多说 despicable、cowardly。
 
 data
+/ˈdeɪtə/
 核心：数据。用法上有一处长期分歧要知道：拉丁语里 data 是 datum 的复数，
 严谨的科技写作说 the data are；日常与商业英语当不可数用，说 the data is。
 两种都通行，但同一篇文章里别换来换去。
@@ -169,6 +170,7 @@ information = 信息（数据整理出的意思）
 statistics = 统计数据（经统计处理过的）
 
 database
+/ˈdeɪtəbeɪs/
 核心：数据库：按结构存起来、能查能改的一批数据。可数，写成一个词。
 跟 databank 的分别在于：database 强调有结构、可检索，
 databank 偏指存放着的那批资料本身。
@@ -190,6 +192,7 @@ a databank = 集中存放的一批资料
 a spreadsheet = 电子表格（行列排布，不算数据库）
 
 date
+/deɪt/
 核心：三支意思，前两支都出自「给定的时间点」。
 一是日期：the date of the meeting；动词是「注明日期」，也是「测定年代」。
 二是约会：a date 既指那场约会，也指约会的对象；date somebody 是跟某人交往。
@@ -280,6 +283,7 @@ the dative = 与格形式
 注意用法：只用于语法讨论，说 the dative case 或径直说 the dative。
 
 datum
+/ˈdeɪtəm/
 核心：两支。一是 data 的单数「一个数据点」—— 只活在严谨的学术写作里，
 日常英语要说一条数据多用 a piece of data。
 二是测绘与工程里的基准：a datum point 是基准点，高程都从它起算。
@@ -295,6 +299,7 @@ a datum point = 基准点
 注意用法：日常说一条数据用 a piece of data，别用 a datum。
 
 daub
+/dɔːb/
 核心：两支，都带贬义。动词是「胡乱涂抹」：把颜料、泥、油膏成片抹上去，
 含着「粗糙、不该涂」的意思。名词既指抹上去的那一片，也贬指画得很差的画。
 另有建筑史的固定词 wattle and daub，编枝抹泥的老墙做法。
@@ -325,6 +330,7 @@ serve a daube = 上一道法式炖牛肉
 注意语域：菜单与烹饪书里的词，日常口语里少见。
 
 daughter
+/ˈdɔːtə(r)/
 核心：女儿。除本义外还有一支比喻要知道：凡是「从母体分出来的」都能用它 ——
 生物学的 daughter cell 子细胞、商业的 daughter company 子公司、
 计算机的 daughterboard 子板，跟性别毫无关系。
@@ -421,6 +427,7 @@ linger = 流连（舍不得离开）
 loiter = 闲荡逗留（常带可疑的意味）
 
 dawn
+/dɔːn/
 核心：底层是「天开始亮」。三支：名词的黎明（at dawn）；比喻的「开端」
 （the dawn of an age）；动词，说天亮，也说 dawn on somebody
 「某人渐渐明白过来」—— 这一支日常用得最多。
@@ -449,6 +456,7 @@ sunrise = 日出（太阳露出地平线）
 daybreak = 天亮（跟 dawn 通用，偏书面）
 
 day
+/deɪ/
 核心：底层是「太阳转一圈」，由此分出两个基本义，说话时靠上下文分：
 一是二十四小时那个整段（seven days a week），二是天亮到天黑那一段
 （during the day），跟 night 相对。往外再长三支：
@@ -694,6 +702,7 @@ before daybreak = 天亮之前
 注意用法：不可数、不加冠词，只跟 at、by、before 连用。
 
 daydream
+/ˈdeɪdriːm/
 核心：白日梦：名词指醒着的胡思乱想，动词是走神空想。
 跟 dream 的分界很硬：dream 是睡着做的，daydream 一定是醒着的。
 名词可数，动词常说 daydream about something。
@@ -710,6 +719,7 @@ a dream = 睡着做的梦；也指人生志向
 a fantasy = 明知不可能的幻想
 
 daylight
+/ˈdeɪlaɪt/
 核心：天光、白天的自然光，不可数。三处固定说法要一起记：
 in broad daylight 是「光天化日之下」，说的多是本该藏着做的事；
 daylight robbery 是英式的骂价钱离谱；the living daylights 只活在

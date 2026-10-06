@@ -1,4 +1,5 @@
 assert
+/əˈsɜːt/
 核心：底层是"把话立起来、把东西立住"。立的是说法，就是"断言"——
 不管有没有证据，态度先摆足；立的是权利地位，就是"维护、主张"；
 反身的 assert oneself 是把自己立起来，即不甘示弱。还有一支
@@ -35,6 +36,7 @@ claim = 声称（常暗示存疑）
 state = 陈述（中性）
 
 assertion
+/əˈsɜːʃən/
 核心：指"断言、说法"——强调是主张而非已证实的事实。
 学术写作里常带"尚待证明"的暗示。
 ① That's a bold assertion for a paper with a sample of nine.
@@ -52,6 +54,7 @@ statement = 陈述（中性）
 allegation = 指控（未经证实）
 
 assertive
+/əˈsɜːtɪv/
 核心：指人"敢于表明立场、不卑不亢的"，褒义。
 关键分寸：assertive 是自信有主见，aggressive 是咄咄逼人。
 ① She is confident and assertive in a room where nobody else speaks.
@@ -73,6 +76,7 @@ aggressive = 咄咄逼人（贬义）
 assertiveness = 果断自信（敢于表达主张）
 
 assess
+/əˈses/
 核心：指"评估、估价"，强调经过判断得出结论。用于学业评定、财产
 估价、风险评估。比 judge 正式，多用于书面和专业场合。
 ① We need to assess the risk before somebody signs anything at all.
@@ -98,6 +102,7 @@ evaluate 评价（价值）
 assessable = 可评估的、可课税的
 
 assessment
+/əˈsesmənt/
 核心：三条线：学业的"评估考核"、风险的"评估"、
 以及财产的"估价"。介词用 of。
 ① Continuous assessment replaced exams and doubled everybody's workload.
@@ -136,6 +141,7 @@ appraiser = 估价师（美式）
 adjuster = 理赔员（保险）
 
 asset
+/ˈæset/
 核心：金融上是"资产"（常用复数），比喻上是"有价值的人或优势"。
 后者说人时是很高的赞美，意思是"他是我们的宝贵财富"。
 ① The company sold its assets and its assets still exceeded its liabilities.
@@ -149,6 +155,7 @@ be an asset to = 是…的宝贵资源
 asset-stripping = 拆产变卖（买下公司后卖掉资产）
 
 asshole
+/ˈɑːshəʊl/
 核心：arsehole 的美式拼法，字面是"肛门"，骂人时指"混蛋"。
 另有一个固定说法 the asshole of nowhere，指鸟不拉屎的地方。
 语气很重，冒犯性强。
@@ -188,6 +195,7 @@ industrious = 勤劳的（肯干）
 assiduity = 勤勉、专心致志
 
 assign
+/əˈsaɪn/
 核心：底层是"分派下去"。分派任务、分派人手、分派资源都是它。
 被动式在正式文体里极常见。介词用 to。
 ① The teacher assigned homework and assigned a task to each group.
@@ -223,6 +231,7 @@ assignment = 任务、作业（中性）
 两个词只差几个字母，语域天差地别。
 
 assignment
+/əˈsaɪnmənt/
 核心：三条线：学生的"作业"、工作上的"任务派遣"、
 以及法律上权利的"转让"。
 ① Hand in your assignment by Friday or it loses ten per cent a day.
@@ -242,6 +251,7 @@ task = 任务（通用）
 homework = 家庭作业（不可数）
 
 assimilate
+/əˈsɪmɪleɪt/
 核心：两条线：移民或群体"融入"主流社会，
 和知识"消化吸收"。介词用 into 或 to。
 ① Immigrants assimilated into society over three generations rather than one.
@@ -275,6 +285,7 @@ integration = 融合（双方互相适应）
 segregation = 隔离
 
 assist
+/əˈsɪst/
 核心：正式的"协助"，比 help 书面。结构：assist someone with
 something 或 assist someone in doing。注意 in 后面接 doing，
 不接动词原形。
@@ -312,6 +323,7 @@ assisted area = 受政府扶持的地区
 assist somebody with = 在……上帮某人
 
 assistance
+/əˈsɪstəns/
 核心：正式用语，指"帮助、援助"，不可数。
 常见搭配 offer / provide / seek assistance。
 ① Can I be of assistance, or would you rather work it out yourself?
@@ -330,6 +342,7 @@ aid = 援助（多指物资）
 support = 支持（持续）
 
 assistant
+/əˈsɪstənt/
 核心：从 assist（帮忙）来，指"打下手的人"。这个词的用法值得单记的
 不是意思，而是两个位置：单用是名词"助手"；放在职位名前面就成了
 定语"副的、助理的"，assistant manager 是副经理，不是"经理的助手"。
@@ -395,6 +408,7 @@ Crown Court = 刑事法院（英格兰）
 Magistrates' Court = 治安法院
 
 associate
+/əˈsəʊʃɪeɪt/
 核心：底层是"把两样东西连在一起"。心理上连起来是"联想"，人际上连
 起来是"来往"，名词是"同事、合伙人"。注意动词和名词发音不同。
 ① I associate the smell with childhood and cannot say which house.
@@ -422,6 +436,7 @@ Associate's degree = 副学士学位（美国两年制）
 associative = 结合的、联想的
 
 association
+/əˌsəʊsɪˈeɪʃən/
 核心：两层：组织团体（协会），和抽象的"联系、联想"。in association
 with 是高频正式搭配，用于合作署名。
 ① He joined the residents' association and was chairing it within a year.

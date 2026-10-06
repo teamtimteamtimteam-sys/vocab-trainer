@@ -14,6 +14,7 @@ alfalfa sprouts = 苜蓿芽
 美式说 alfalfa，英式也叫 lucerne。
 
 algae
+/ˈælɡi/
 核心：指藻类，从单细胞到海带都算。这个词本身就是复数形式，
 单数是 alga，但日常几乎只用复数。
 ① Algae bloom in warm water and die back within a fortnight of the cold.
@@ -35,6 +36,7 @@ moss = 苔藓（陆生）
 algal bloom = 藻华、水华
 
 algebra
+/ˈældʒɪbrə/
 核心：数学分支，代数。不可数。词源来自阿拉伯语，形容词是
 algebraic。注意重音在第一音节。
 ① She studies algebra in the evenings to prepare for the engineering entrance exam.
@@ -119,6 +121,7 @@ Algonquian = 阿尔冈昆语族（语言学）
 Algonquin = 阿尔冈昆人（具体一个族群）
 
 algorithm
+/ˈælɡərɪðəm/
 核心：指解决问题的一套明确步骤，计算机科学核心词。现在日常也常
 指社交平台的"推荐算法"。注意结尾拼写是 -thm，不是 -thim。
 ① The sorting algorithm handles a million records in under a second on an ordinary laptop.
@@ -139,6 +142,7 @@ The recommendation algorithm shows her the same four things all week.
 注意拼写：algorithm 结尾 -thm。
 
 alias
+/ˈeɪliəs/
 核心：名词指"化名、别名"，介词用法是"又名"（放在两个名字之间）。
 计算机里还指命令的"别名"。
 ① He used an alias to check into the hotel so that reporters could not trace him.
@@ -158,6 +162,7 @@ pen name = 笔名（同义）
 nickname = 绰号（亲昵或戏称）
 
 alibi
+/ˈælɪbaɪ/
 核心：法律用语，指"不在场证明"。比喻义在口语里指"借口"。
 介词用 for。
 ① He has an alibi for that night: three colleagues saw him at the office until midnight.
@@ -190,6 +195,7 @@ keep hair off the face = 把头发拢开
 名字来自书中人物，首词大写。
 
 alien
+/ˈeɪliən/
 核心：三条线：形容词"陌生的、格格不入的"，名词"外星人"，
 以及法律上的"外国人"（现在被认为不礼貌，多改说 foreign national）。
 ① The customs seemed alien to him and the concept stayed alien for years.
@@ -272,6 +278,7 @@ alight on = 落在…上
 alight upon = 偶然看到、想到（正式）
 
 align
+/əˈlaɪn/
 核心：两条线：物理上"对齐、校准"，抽象上"使一致、结盟"
 （align with）。商业和政治语境里第二条更常用。
 ① Align the text left and the ragged edge stops distracting the reader.
@@ -294,6 +301,7 @@ alignment = 对齐；结盟
 misalign = 未对准
 
 alignment
+/əˈlaɪnmənt/
 核心：对应动词的两条线：物理上的"对准状态"，和抽象上的
 "一致、结盟"。常见搭配 in alignment with、out of alignment。
 ① The wheels are out of alignment and the car pulls to the left.
@@ -311,6 +319,7 @@ political alignment = 政治阵营
 align = 对齐、结盟
 
 alike
+/əˈlaɪk/
 核心：两个用法：作表语形容词"相似的"（放在系动词后），
 和作副词"同样地"（放在两个并列名词后）。绝不放在名词前。
 ① The twins look alike until you hear them speak for ten seconds.
@@ -376,6 +385,7 @@ aliquot part = 等分因数（数学）
 实验室操作与数学术语。
 
 alive
+/əˈlaɪv/
 核心：只作表语，不放在名词前——不说 an alive fish，要说 a live
 fish 或 a living fish。除"活着"外还有"有活力、还在延续"的比喻义。
 ① She is still alive and has outlived three of her own doctors.
