@@ -30699,6 +30699,7 @@ pistil = 雌蕊
 注意别混：跟表示花瓣与萼片的那两个词形近，容易看错。
 
 carpenter
+/ˈkɑːpəntə(r)/
 核心：木工：做木结构与木制品的手艺人，做房架、门窗、
 家具。这门手艺叫 carpentry。英式还有个分工：作坊里做
 细活的叫 joiner，工地上装的才叫 carpenter。可数。
@@ -30762,6 +30763,7 @@ a carpet bag = 毯料旅行袋
 注意别混：rug 只铺一块，这个铺满整地。
 
 carrel
+/ˈkærəl/
 核心：图书馆里的单人小隔间：一张桌子三面挡板，供人安静
 看书。也拼 carrell。可数。
 ① She booked a carrel on the third floor for the whole of March.
@@ -30842,6 +30844,7 @@ a carrier pigeon = 信鸽
 注意用法：携带者那一支在公共卫生文字里常见。
 
 carrion
+/ˈkæriən/
 核心：腐肉：动物死后腐烂的肉，秃鹫、乌鸦这类以它为食。
 作定语指以腐肉为食的，carrion crow 是小嘴乌鸦。带一股
 死气，文学里常用来营造荒凉。不可数。
@@ -31007,6 +31010,7 @@ a cart track = 车辙土路
 注意用法：超市推车英式说 trolley。
 
 carte blanche
+/ˌkɑːt ˈblɑːnʃ/
 核心：法语原文，字面是空白的纸：给某人全权，随他怎么办。
 英语里整词借用，常搭 give somebody carte blanche 与
 have carte blanche。不可数。
@@ -31022,6 +31026,7 @@ have carte blanche = 有全权
 注意用法：整词借用，不拆开。
 
 cartel
+/kɑːˈtel/
 核心：几家企业私下联手，约定价格或产量，把竞争关掉。
 带贬义，多数国家里违法。也用于国家间的组织，还常用来
 说贩毒集团。可数。
@@ -31038,6 +31043,7 @@ a drug cartel = 贩毒集团
 注意语域：带贬义，通常指违法的联手。
 
 Cartesian
+/kɑːˈtiːziən/
 核心：笛卡尔的：出自哲学家兼数学家笛卡尔。两处最常读到 —— 数学里的
 Cartesian coordinates 是直角坐标，哲学里的 Cartesian dualism 是身心
 二元论。作定语用。
@@ -31051,6 +31057,7 @@ Cartesian dualism = 身心二元论
 注意用法：几乎只作定语，不单用。
 
 carthorse
+/ˈkɑːthɔːs/
 核心：拉车的重挽马：骨架粗、力气大、走得慢。英式还拿它
 比喻笨重迟缓的人或机构。可数。
 ① A carthorse pulled the plough through ground no tractor could take.
@@ -31083,6 +31090,7 @@ cartilaginous = 软骨的
 注意用法：运动损伤的报道里常见。
 
 cartography
+/kɑːˈtɒɡrəfi/
 核心：制图学：画地图这门学问与手艺。做的人叫
 cartographer，形容词 cartographic。不可数。
 ① She studied cartography and can still draw a coastline freehand.
@@ -31138,6 +31146,7 @@ cartoonist = 漫画家
 注意用法：底稿义是本义，今天只在美术史里读到。
 
 cartouche
+/kɑːˈtuːʃ/
 核心：两支。一是古埃及的王名圈：椭圆形的框，里面刻法老的
 名字，破译圣书体就是从它入手的。二是建筑与装饰上的卷边
 框：石碑、地图、天花板上那种带涡卷边的椭圆框，里面题字。
@@ -31176,6 +31185,7 @@ cartridge paper = 厚绘图纸（英式）
 注意用法：各支的共同点是装好一份、整只更换。
 
 cartwheel
+/ˈkɑːtwiːl/
 核心：两支。一是侧手翻：手撑地、身体像轮子一样翻过去。
 二是本义：大车的木轮，也用来形容又大又圆的东西。可数。
 ① She turned three cartwheels and landed the last one badly.
@@ -31224,6 +31234,7 @@ a carving knife = 切肉刀
 注意用法：be carved in stone 常用来说规矩不可更改。
 
 caryatid
+/ˌkæriˈætɪd/
 核心：做成女性人形的石柱：用雕出来的女子代替柱子撑住
 上面的檐部，雅典卫城那几尊最有名。建筑术语，复数
 caryatids 或 caryatides。可数。
@@ -31240,6 +31251,7 @@ replace = 代替
 注意用法：建筑与艺术史里的词。
 
 Casanova
+/ˌkæsəˈnəʊvə/
 核心：情场老手：到处追求女性、不断换对象的男人。出自十八世纪威尼斯
 那位以风流回忆录出名的卡萨诺瓦。带一点讥讽，说人时不算恭维。
 今天小写的 casanova 也常见。可数。
@@ -31253,6 +31265,7 @@ the office Casanova = 办公室里那个到处撩人的男人
 注意语域：带讥讽，不是夸人的话。
 
 casbah
+/ˈkæzbɑː/
 核心：北非城市里的老城区，尤指阿尔及尔那一片：街巷窄而
 绕。词本义是城中的城堡。也拼 kasbah。可数。
 ① They got lost in the casbah twice in the same afternoon.
@@ -31367,6 +31380,7 @@ an edge case = 边缘情形（极少出现但会出错的情况）
 注意用法：in case 后面接从句，不接不定式。
 
 casement
+/ˈkeɪsmənt/
 核心：侧边装铰链、像门一样推开的窗，跟上下推拉的
 sash window 相对。全称 a casement window，文学里也
 直接用这个词指窗。可数。
@@ -31470,6 +31484,7 @@ pay in cash = 付现金
 注意用法：不可数，不说 a cash。
 
 cashew
+/ˈkæʃuː/
 核心：腰果：热带树的种子，长在一个梨形假果下面，生的
 带毒性，所以一律加工后才卖。多说 cashew nuts。
 ① Toast the cashews lightly and let them cool before chopping.
@@ -31485,6 +31500,7 @@ raw = 生的
 注意别混：跟表示现金的那个词只是拼头相同。
 
 cashier
+/kæˈʃɪə(r)/
 核心：两支，不同源。一是收银员：店里、银行里收付款的人。
 二是军事上的动词：革除军职，把军官开革出去，正式用词，
 多用被动。可数。
@@ -31501,6 +31517,7 @@ be cashiered = 被革除军职
 注意用法：革职义只用于军队，多用被动。
 
 cashmere
+/ˈkæʃmɪə(r)/
 核心：山羊绒：取自克什米尔一带山羊的细软绒毛，织出来
 又轻又暖，价格高。名字就是那个地名。不可数。
 ① The scarf is pure cashmere and weighs almost nothing.
@@ -31516,6 +31533,7 @@ a cashmere jumper = 羊绒衫
 注意用法：不可数。
 
 casing
+/ˈkeɪsɪŋ/
 核心：包在外面的那层壳或套：电缆的护套、香肠的肠衣、
 轮胎的胎体、机器的外壳都叫它。可数与不可数都有。
 ① The casing cracked in the frost and let the water straight in.
@@ -31565,6 +31583,7 @@ hold = 容纳
 注意别混：barrel 泛指桶，这个侧重装酒与陈放。
 
 casket
+/ˈkɑːskɪt/
 核心：两支。一是小匣子：装珠宝、装骨灰的精致盒。二是
 美式的棺材，比 coffin 委婉，形状是长方带盖，不像 coffin
 两头收窄。可数。
@@ -31581,6 +31600,7 @@ ashes = 骨灰
 注意语域：棺材义是美式委婉说法，英式说 coffin。
 
 Cassandra
+/kəˈsændrə/
 核心：预言灾祸却没人肯信的人。出自希腊神话：特洛伊公主卡珊德拉能
 预知未来，却被诅咒说了没人相信。用它多带一点无奈或不以为然，
 说某人是 a Cassandra 就是说他老唱衰、而且多半没人听。可数。
@@ -31594,6 +31614,7 @@ Cassandra warnings = 不被采信的警告
 注意用法：重点在「没人信」，不只是「唱衰」。
 
 cassava
+/kəˈsɑːvə/
 核心：木薯：热带作物，块根富含淀粉，是非洲与南美很多
 地方的主粮，磨粉做面包与淀粉。生的有毒，必须去毒处理。
 不可数。
@@ -31644,6 +31665,7 @@ come in = 以……的形式出售
 注意用法：如今多出现在怀旧语境里。
 
 cassis
+/kæˈsiːs/
 核心：黑加仑做的甜酒，法语来的词，全称 creme de cassis。
 也直接用来说黑加仑那个味道，品酒笔记里常见。不可数。
 ① Add a dash of cassis and the whole drink turns a deep violet.
@@ -31664,6 +31686,7 @@ creme de cassis = 不带重音的写法，菜单上两种都见得到
 注意用法：品酒笔记里常用来说香气。
 
 cassock
+/ˈkæsək/
 核心：教士穿的那件长及脚踝的黑袍，扣到领口。天主教、
 圣公会、东正教都用。可数。
 ① The priest wore a black cassock that reached his shoes.
@@ -31679,6 +31702,7 @@ surplice = 白色罩袍
 注意用法：教会语境里的词。
 
 cassoulet
+/ˈkæsʊleɪ/
 核心：法国西南部的炖菜：白豆加香肠、鸭腿或猪肉，慢炖
 几个小时，表面结一层壳。法语来的词。不可数。
 ① Cassoulet needs slow cooking and tastes better on the second day.
@@ -31694,6 +31718,7 @@ serve = 供应
 注意用法：法国菜名，不可数。
 
 cassowary
+/ˈkæsəweəri/
 核心：新几内亚与澳洲北部的大型不会飞的鸟：头上有骨质
 冠，腿粗有力。复数 cassowaries。可数。
 ① The cassowary cannot fly and kicks harder than a horse.
@@ -31791,6 +31816,7 @@ be cast down = 灰心、沮丧
 注意用法：三态不变，过去式与过去分词同形。
 
 castanets
+/ˌkæstəˈnets/
 核心：西班牙舞里用的响板：两片贝壳形的硬木，套在手指上
 互相碰击打节拍。永远用复数。
 ① She clicked her castanets on the offbeat all the way through.
@@ -31806,6 +31832,7 @@ a pair of castanets = 一副响板
 注意用法：永远用复数。
 
 caste
+/kɑːst/
 核心：世袭的社会等级：生在哪一层就属哪一层，通婚与职业
 都受限，说南亚社会结构时最常用。引申也说别处封闭的阶层。
 可数与不可数都有。
@@ -31822,6 +31849,7 @@ a caste of its own = 自成一格的封闭阶层
 注意别混：跟表示投掷的那个词只是拼头相同。
 
 castellated
+/ˈkæstəleɪtɪd/
 核心：造得像城堡的：墙头做出一排凹凸的雉堞，十八九世纪
 的仿古建筑很爱这么做。那排凹凸叫 castellations。
 ① The house has a castellated roofline added a century after it was built.
@@ -31837,6 +31865,7 @@ castellations = 城墙上的凹凸雉堞
 注意用法：建筑描写里的词。
 
 caster
+/ˈkɑːstə(r)/
 核心：两支。一是家具底下的小脚轮，装了它柜子能推着走，
 也拼 castor。二是撒调料的小瓶；英式的 caster sugar 是
 细砂糖，颗粒比普通白糖细，做蛋糕用。可数。
@@ -31853,6 +31882,7 @@ roll on = 靠……滚动
 注意拼写：脚轮义也写作 castor。
 
 castigate
+/ˈkæstɪɡeɪt/
 核心：严厉斥责，公开批评。书面语，语气重，多见于评论
 与新闻。名词 castigation。
 ① The report castigated the regulator for missing eleven warning signs.
@@ -31894,6 +31924,7 @@ a castle keep = 城堡的主塔
 注意别混：象棋里那枚棋子也叫 rook。
 
 castor
+/ˈkɑːstə(r)/
 核心：三支。一是家具脚轮，跟 caster 通用。二是
 castor oil 蓖麻油：既作泻药也作润滑油，味道很难闻。
 三是海狸香，香水原料。
@@ -31913,6 +31944,7 @@ castor sugar = 细砂糖（英式）
 注意拼写：脚轮义与 caster 通用。
 
 castrate
+/kæˈstreɪt/
 核心：阉割：摘除雄性的睾丸。比喻义也常用：把一份文件、
 一项提案里有力量的部分删掉，使它失去锋芒。名词
 castration。
@@ -31989,6 +32021,7 @@ casualty = 急诊科（英式）
 注意用法：急诊义是英式，美式说 emergency room。
 
 casuistry
+/ˈkæzjuɪstri/
 核心：拿一套原则去套具体个案的推理，本是伦理学与神学的
 正当方法；但今天几乎只用贬义，指诡辩，靠钻细节把明显
 不对的事说圆。不可数。
@@ -32005,6 +32038,7 @@ dismiss as = 视为……而不理
 注意语域：今天几乎只用贬义。
 
 casus belli
+/ˌkɑːsəs ˈbeli/
 核心：拉丁语原词：构成开战理由的那件事。国际法与历史
 写作里用，整词借用，单复数同形。
 ① The attack became the casus belli three weeks after it happened.
@@ -32067,6 +32101,7 @@ Being called a fraidy cat at seven lasted him until eleven.
 = 七岁时被叫作胆小鬼，这名头跟到了十一岁。
 
 CAT scan
+/ˈkæt skæn/
 核心：电脑断层扫描：X 光绕着身体转一圈，靠计算机拼出断面图像。
 全称 computerized axial tomography。跟 CT scan 完全同指，美式旧文字
 偏用这个，今天医学界一律说 CT scan。可数。
@@ -32080,6 +32115,7 @@ CAT scans = 断层扫描（复数）
 注意用法：跟 CT scan 同指，今天多说后者。
 
 catabolism
+/kəˈtæbəlɪzəm/
 核心：分解代谢：身体把大分子拆成小分子并放出能量的那
 一半代谢，跟合成的 anabolism 相对。形容词 catabolic。
 生化术语，不可数。
@@ -32113,6 +32149,7 @@ recover from = 从……中恢复
 注意语域：语气极重，不用于小事。
 
 catacombs
+/ˈkætəkuːmz/
 核心：地下墓穴：凿在岩层里的通道与壁龛，用来葬人，罗马
 那几处最有名。几乎永远用复数。
 ① They toured the catacombs beneath the city with one guide and no map.
@@ -32128,6 +32165,7 @@ run for = 延伸达
 注意用法：几乎永远用复数。
 
 catafalque
+/ˈkætəfælk/
 核心：停灵的高台：国葬时把棺木架在上面供人瞻仰的那个
 台座。仪典用词。可数。
 ① A catafalque was built in the hall overnight and taken down in a day.
@@ -32143,6 +32181,7 @@ flank = 立在两侧
 注意用法：国葬与仪典的报道里才用得到。
 
 Catalan
+/ˈkætəlæn/
 核心：加泰罗尼亚的、加泰罗尼亚人，也指加泰罗尼亚语。语言上要点
 清楚：那是一门独立的罗曼语，不是西班牙语的方言，也通行于安道尔与
 法国南部一角。可数。
@@ -32156,6 +32195,7 @@ a Catalan = 加泰罗尼亚人
 注意用法：那是独立的一门语言，不是西班牙语的方言。
 
 catalepsy
+/ˈkætəlepsi/
 核心：僵住不动的状态：肌肉发僵、姿势固定、对外界几乎
 没有反应，可以持续很久。医学与精神科用词，形容词
 cataleptic。不可数。
@@ -32217,6 +32257,7 @@ a catalytic converter = 汽车三元催化器
 注意用法：比喻义比化学义更常读到。
 
 catamaran
+/ˌkætəməˈræn/
 核心：双体船：两个平行的船体架在一起，比同长度的单体船
 稳也快。帆船与渡轮都有。口语里缩成 cat。可数。
 ① They sailed a catamaran across the bay in under two hours.
@@ -32231,6 +32272,7 @@ capsize = 翻船
 注意用法：口语里缩成一个音节。
 
 catamite
+/ˈkætəmaɪt/
 核心：历史与文学用词：被年长男子豢养的少年男伴，出现在
 古罗马语境里。今天只在历史与文学讨论中读到，不用于说
 当代的人。可数。
@@ -32247,6 +32289,7 @@ argue over = 争论
 注意语域：历史与文学用词。
 
 cataphora
+/kəˈtæfərə/
 核心：语言学：先用代词、后面才交代它指谁。跟回指相反，
 回指是先说名字再用代词。那个前指的词叫 cataphor。
 不可数。
@@ -32263,6 +32306,7 @@ anaphora = 回指
 注意用法：语言学术语。
 
 catapult
+/ˈkætəpʌlt/
 核心：两支。一是弹射装置：古代的抛石机，现代指航母上把
 飞机弹射出去的那套设备。二是英式的弹弓，美式说
 slingshot。动词是弹射，比喻义很常用：一下把人推到某个
@@ -32283,6 +32327,7 @@ catapult somebody to fame = 把某人一下推上名声
 注意用法：弹弓义是英式，美式说 slingshot。
 
 cataract
+/ˈkætərækt/
 核心：两支，共同点是奔泻而下。一是白内障：眼球晶状体
 变浑浊，看东西像隔了层雾，这是今天最常见的一支。二是
 大瀑布、急流，书面用词。可数。
@@ -32299,6 +32344,7 @@ a cataract = 大瀑布、急流
 注意用法：眼科那一支今天最常用。
 
 catarrh
+/kəˈtɑː(r)/
 核心：鼻腔与咽喉里过多的黏液，感冒或过敏之后堵着难受。
 英式常用，美式多说 congestion。不可数。
 ① He suffers from catarrh every spring and blames the rapeseed.
@@ -32337,6 +32383,7 @@ catastrophe theory = 突变理论（数学）
 注意别混：disaster 通用，这个更强调无可挽回。
 
 catatonia
+/ˌkætəˈtəʊniə/
 核心：紧张症：一种精神与运动状态，人可能长时间僵住不动、
 保持怪异姿势，也可能反过来激越乱动。形容词 catatonic，
 口语里也拿它夸张地形容人呆住了。不可数。
@@ -32353,6 +32400,7 @@ treatable = 治得好的
 注意语域：医学术语；夸张的口语用法要看场合。
 
 catbird
+/ˈkætbɜːd/
 核心：北美一种灰色鸣禽，叫声像猫。美式习语里更常读到的
 是 in the catbird seat：占着最有利的位置，稳操胜券。可数。
 ① A catbird nested in the hedge and scolded anyone who passed.
@@ -32368,6 +32416,7 @@ mimic = 模仿
 注意用法：那个美式习语比鸟名更常读到。
 
 catcall
+/ˈkætkɔːl/
 核心：冲着人喊的粗话或口哨。本指剧场里观众起哄嘘演员，
 今天更常指在街上对人吹口哨、喊话的骚扰。动词与名词同形。
 可数。
@@ -32481,6 +32530,7 @@ be caught up in = 被卷进、陷进（某件事）
 caught = catch 的过去式与过去分词
 
 Catch-22
+/ˌkætʃ twenti ˈtuː/
 核心：无解的两难：想脱身就得满足某个条件，而那个条件本身要求你先
 脱不了身。出自海勒同名小说：想以精神失常为由免除飞行任务，可你
 提出申请这件事本身就证明你神志清醒。已成通用名词，说
@@ -32495,6 +32545,7 @@ a Catch-22 situation = 自相缠死的处境
 注意用法：重点在「规则本身让你出不去」，不是一般的两难。
 
 catchphrase
+/ˈkætʃfreɪz/
 核心：某个人或某个节目反复说、于是被大家记住并到处引用
 的一句话。跟口号不同：口号是为宣传设计出来的，它多是
 说着说着传开的。可数。
@@ -32510,6 +32561,7 @@ enter everyday speech = 进入日常说话
 注意别混：口号是设计出来的，这个多是传开的。
 
 catechism
+/ˈkætɪkɪzəm/
 核心：教理问答：把信仰要点编成一问一答的小册子，供教
 初学者。引申义常用：说一套背得滚瓜烂熟、不容置疑的教条，
 带贬义。可数。
@@ -32594,6 +32646,7 @@ become = 变成
 注意用法：履带义原为商标，已通名化。
 
 caterwaul
+/ˈkætəwɔːl/
 核心：像猫打架那样又长又难听地叫喊：说猫，也说人吵闹
 或唱得刺耳。动词与名词同形，一律带贬义。
 ① Cats caterwauled all night under the window of the back bedroom.
@@ -32609,6 +32662,7 @@ a caterwaul = 一阵刺耳的怪叫
 注意语域：一律带贬义。
 
 catfight
+/ˈkætfaɪt/
 核心：口语：两个女人之间的激烈争吵或厮打。这个词带明显
 的贬义与性别偏见色彩，用它去说女性之间的冲突会被视为
 轻蔑；读到要认得，写作时避开。可数。
@@ -32622,6 +32676,7 @@ call something a catfight = 把某事说成女人间的厮打
 注意语域：带贬义与性别偏见，只需认得。
 
 catfish
+/ˈkætfɪʃ/
 核心：鲇鱼：嘴边有须、无鳞的淡水鱼，须像猫的胡子，名字
 由此而来。今天还多出一个网络义：动词指用假身份在网上骗
 人交往，名词 catfishing。单复数同形。
@@ -32638,6 +32693,7 @@ catfishing = 用假身份在网上骗人
 注意用法：网络义近年才有，如今很常读到。
 
 catgut
+/ˈkætɡʌt/
 核心：做琴弦与旧式手术缝线的坚韧细线，材料其实取自羊或
 牛的肠子，跟猫无关，名字来历不明。今天琴弦多用尼龙，
 缝线多用合成材料。不可数。
@@ -32654,6 +32710,7 @@ replace = 取代
 注意别混：跟猫无关，别照字面理解。
 
 catharsis
+/kəˈθɑːsɪs/
 核心：把郁积的情绪释放出来因而觉得轻松：本是亚里斯多德
 讲悲剧作用时的说法，后来进了心理学与日常。形容词
 cathartic 既说这种情绪释放，也在医学上指通便的。不可数。
@@ -32686,6 +32743,7 @@ a cathedral city = 有主教座堂的城市
 注意别混：不是按大小定的，按有没有主教的座位定。
 
 Catherine wheel
+/ˈkæθrɪn wiːl/
 核心：两支。一是转轮烟花：钉在柱子上点着后飞转喷火。二是杂技与
 体操里的侧手翻。都得名于传说中殉道时被绑在轮子上的圣凯瑟琳。可数。
 ① A Catherine wheel spun on the fence post and threw sparks over the path.
@@ -32698,6 +32756,7 @@ turn a Catherine wheel = 翻侧手翻
 注意用法：烟花那一支在英国的篝火之夜最常提到。
 
 catheter
+/ˈkæθɪtə(r)/
 核心：插进体内引流或注入的细管，最常说的是导尿管。
 插管这件事叫 catheterization。可数。
 ① The nurse inserted a catheter and taped the tube to his leg.
@@ -32713,6 +32772,7 @@ be left in = 留置在体内
 注意用法：医疗文字里常见。
 
 cathode
+/ˈkæθəʊd/
 核心：电极的一种，跟 anode 相对。电子器件里它是发射
 电子的那一极；至于对应正极还是负极，随装置类型而变，
 不能死记。cathode ray tube 是老式显像管。可数。
@@ -32746,6 +32806,7 @@ catholic = 兼容并包的
 注意用法：大写指教会，小写指兴趣广泛。
 
 Catholicism
+/kəˈθɒləsɪzəm/
 核心：天主教：以罗马教宗为首的那一支基督教，也指它的信仰与做法。
 跟小写的 catholic 分清楚：那个形容词意思是「兴趣广泛、无所不包」，
 跟宗教无关。不可数。
@@ -32759,6 +32820,7 @@ Catholicism = 天主教
 注意别混：小写的 catholic 是「兴趣广博的」，跟教派无关。
 
 cation
+/ˈkætaɪən/
 核心：带正电的离子：电解时往阴极跑，所以得了这个名。
 跟 anion 相对。读作两个音节，不是一个。化学术语。可数。
 ① Sodium forms a cation as soon as it gives up its single outer electron.
@@ -32774,6 +32836,7 @@ anion = 阴离子
 注意读音：读作两个音节。
 
 catkin
+/ˈkætkɪn/
 核心：柳、榛、桦这类树上垂下来的毛毛的穗状花序，风一吹
 就散粉。可数。
 ① Catkins hang from the hazel and shake loose at a touch.
@@ -32789,6 +32852,7 @@ come before = 早于……出现
 注意用法：植物描写里常见。
 
 catmint
+/ˈkætmɪnt/
 核心：一种薄荷科植物，猫闻了会兴奋打滚。英式叫
 catmint，美式多叫 catnip。不可数。
 ① The cat rolled in the catmint and flattened half the clump.
@@ -32803,6 +32867,7 @@ grow from seed = 由种子长成
 注意用法：英式说 catmint，美式说 catnip。
 
 catnap
+/ˈkætnæp/
 核心：短短的小睡，十几二十分钟那种，多是坐着打个盹。
 动词与名词同形。口语。可数。
 ① He took a catnap on the sofa with his boots still on.
@@ -32818,6 +32883,7 @@ clear the head = 使头脑清醒
 注意语域：口语。
 
 catsuit
+/ˈkætsuːt/
 核心：连身紧身衣：上下连成一件、贴身包住四肢的那种，
 舞台、体操、时装里都有。可数。
 ① She wore a black catsuit on stage and changed out of it in the wings.
@@ -32833,6 +32899,7 @@ come back into fashion = 重新流行
 注意别混：跟 jumpsuit 的分别在贴身程度。
 
 catsup
+/ˈkætsəp/
 核心：ketchup 的另一种拼法，美式旧标签上常见，意思完全
 一样：番茄酱。今天主流写 ketchup，读到这个拼法认得就行。
 不可数。
@@ -32848,6 +32915,7 @@ be the same thing = 是一回事
 注意拼写：主流写 ketchup。
 
 cattail
+/ˈkæteɪl/
 核心：美式：长在水边的香蒲，穗子棕褐色像腊肠。英式叫
 bulrush 或 reedmace。可数。
 ① Cattails choked the ditch and had to be cut every second year.
@@ -32863,6 +32931,7 @@ spread = 蔓延
 注意用法：美式；英式说 bulrush。
 
 cattery
+/ˈkætəri/
 核心：猫舍：寄养或繁育猫的地方，主人出门时把猫送去。
 复数 catteries。可数。
 ① They boarded the cat at a cattery and it sulked for a week after.
@@ -32908,6 +32977,7 @@ a cattle call = 大规模公开试镜（美式）
 注意用法：永远复数，说一头要换词。
 
 catty
+/ˈkæti/
 核心：说话带刺、专挑人不痛快的，多指间接的、闲话式的
 恶意。名词 cattiness。带贬义，而且这个词多被用来说女性，
 用它要留意那层偏见。
@@ -32927,6 +32997,7 @@ catty-cornered = 斜对角的（美式）
 注意语域：带贬义，且常带性别偏见。
 
 catwalk
+/ˈkætwɔːk/
 核心：两支。一是时装秀的走秀台：模特儿走的那条窄长台。
 二是本义：架在高处的窄通道，工厂、桥梁、舞台后方那种
 检修便道。可数。
@@ -32943,6 +33014,7 @@ a catwalk = 高处的窄通道
 注意用法：时装义今天最常用。
 
 Caucasian
+/kɔːˈkeɪziən/
 核心：两支，差得很远。一是高加索地区的：那一带的族群与语言。
 二是英美官方表格与警方描述里的「白种人」—— 这个用法出自十八世纪
 一套已被推翻的人种分类，今天在学术上不成立，日常也越来越少用，
@@ -32957,6 +33029,7 @@ Caucasian languages = 高加索诸语言
 注意语域：第二支来自已被推翻的人种分类，学术上不用，日常也在退场。
 
 caucus
+/ˈkɔːkəs/
 核心：党内的核心会议或小组：美式指党内推选候选人的基层
 会议，也指议会里同属一党或同一立场的议员小组。动词是
 开这种会。可数。
@@ -32973,6 +33046,7 @@ caucus = 开党团会议（作动词）
 注意用法：美式政治里最常见。
 
 cauldron
+/ˈkɔːldrən/
 核心：大锅：架在火上的圆肚铁锅，多出现在女巫与民间故事
 里。比喻义常用：动荡不安、随时要炸的局面。异体拼法
 caldron 多见于美式。可数。
@@ -33077,6 +33151,7 @@ a cause celebre = 轰动一时的公案
 注意用法：动词义最高频。
 
 causeway
+/ˈkɔːzweɪ/
 核心：修在水面或湿地上的路堤：把路垫高，让人车穿过浅水
 与沼泽。可数。
 ① The causeway floods at high tide and strands anyone who miscounts.
@@ -33092,6 +33167,7 @@ at low water = 在低潮时
 注意用法：地理与旅行文字里常见。
 
 caustic
+/ˈkɔːstɪk/
 核心：两支，都从烧来。一是化学上有腐蚀性的：能烧穿皮肤
 与织物，caustic soda 是烧碱。二是比喻：说话尖刻带酸，
 一个烧皮肤，一个烧人。副词 caustically。
@@ -33111,6 +33187,7 @@ caustically = 尖刻地
 注意用法：两支同源，靠上下文分。
 
 cauterize
+/ˈkɔːtəraɪz/
 核心：烧灼止血或封闭伤口：用高温或化学品把创面烧封住。
 医学用词，英式也拼 cauterise。
 ① The surgeon cauterized the wound and the smell filled the room.
@@ -33170,6 +33247,7 @@ cautiousness = 谨小慎微
 注意用法：cautious optimism 是新闻里的固定说法。
 
 cava
+/ˈkɑːvə/
 核心：西班牙的瓶中发酵起泡酒，做法跟香槟同一套，产区
 主要在加泰罗尼亚。不可数。
 ① They opened a bottle of cava and nobody could tell the difference.
@@ -33185,6 +33263,7 @@ well chilled = 冰得很透
 注意别混：香槟只能出自法国那个产区，这个是西班牙的。
 
 cavalcade
+/ˌkævəlˈkeɪd/
 核心：成列前行的队伍：本指马队，今天多指车队。也比喻
 一连串接着来的事或人。可数。
 ① A cavalcade of cars followed with their headlights on in daylight.
@@ -33200,6 +33279,7 @@ a cavalcade of characters = 接连登场的众多人物
 注意用法：今天多指车队。
 
 cavalier
+/ˌkævəˈlɪə(r)/
 核心：两支。一是形容词：对要紧的事满不在乎、随随便便，
 一定带批评。二是名词，大写时指英国内战里保王党的骑士。
 副词 cavalierly。
@@ -33216,6 +33296,7 @@ cavalierly = 轻率满不在乎地
 注意语域：形容词一律带批评。
 
 cavalry
+/ˈkævəlri/
 核心：骑兵：骑马作战的部队，今天也指装甲或空中机动的
 对应兵种。习语 here comes the cavalry 是救兵到了。
 集体名词，作主语单复数动词都行。不可数。
@@ -33235,6 +33316,7 @@ cavalry twill = 马裤斜纹呢
 注意别混：Calvary 是地名，字母顺序不同，很容易打错。
 
 cavatina
+/ˌkævəˈtiːnə/
 核心：短小抒情的独唱曲或器乐乐段，不分段、不重复，
 比咏叹调简单。音乐术语。可数。
 ① The cavatina opens the second act and lasts barely three minutes.
@@ -33293,6 +33375,7 @@ caveat emptor = 买家自己当心
 注意用法：学术与法律写作里很常见。
 
 caveman
+/ˈkeɪvmæn/
 核心：石器时代住在洞穴里的人，多用来泛指史前人类。
 比喻义常用而且带贬：说男人观念粗野、把女性当附属。
 复数 cavemen。可数。
@@ -33326,6 +33409,7 @@ cavernous eyes = 深陷的眼睛
 注意别混：比一般的洞更大更空旷。
 
 caviar
+/ˈkæviɑː(r)/
 核心：鱼子酱：鲟鱼的盐渍鱼卵，贵重，是奢华的象征。英式
 也拼 caviare。习语 caviar to the general 出自莎士比亚，
 指好东西给不懂的人看，白费。不可数。
@@ -33342,6 +33426,7 @@ caviar to the general = 好东西给不懂的人白费
 注意拼写：英式也写 caviare。
 
 cavil
+/ˈkævəl/
 核心：为无关紧要的小处挑毛病、找碴。书面语，带贬义，
 常搭 cavil at。英式双写 l：cavilled、cavilling。
 ① He cavilled at every clause and signed the thing anyway.
@@ -33357,6 +33442,7 @@ cavilling = 挑刺找碴
 注意语域：书面，带贬义。
 
 caving
+/ˈkeɪvɪŋ/
 核心：洞穴探险：钻进天然洞穴里勘查、攀爬、涉水的那项
 活动。英式说 caving，美式多说 spelunking，专业勘测叫
 speleology。玩的人是 caver。不可数。
@@ -33390,6 +33476,7 @@ a cavity wall = 中空双层墙
 注意用法：牙科语境里就是牙洞那一支。
 
 cavort
+/kəˈvɔːt/
 核心：又跳又闹地欢腾：说人玩闹，也说动物撒欢。说人时
 常带一点挖苦，指在公开场合放纵嬉闹。
 ① Children cavorted in the fountain until an attendant came over.
@@ -33405,6 +33492,7 @@ cavort = 放纵嬉闹（带挖苦）
 注意语域：说人时常带挖苦。
 
 caw
+/kɔː/
 核心：乌鸦那种粗哑的叫声。动词与名词同形，拟声词。
 ① Crows cawed in the elms from first light until the tractor came.
 = 从天亮到拖拉机开来，乌鸦一直在榆树上呀呀地叫。
@@ -33419,6 +33507,7 @@ rook = 秃鼻乌鸦
 注意用法：只用于乌鸦一类。
 
 cayenne
+/keɪˈen/
 核心：辣椒粉的一种：用小而极辣的红辣椒磨成，全称
 cayenne pepper。名字来自南美一个地名。不可数。
 ① Add a pinch of cayenne and taste before you add any more.
@@ -33447,6 +33536,7 @@ cayman = 凯门鳄
 注意拼写：词典多以 caiman 立条。
 
 cc
+/ˌsiː ˈsiː/
 核心：邮件里的抄送：写在收件人之外，让另一方也看到这封
 信。本是复写副本那两个词的首字母缩写，纸质时代留下来的
 说法。动词也用：把某人加进抄送。不可数。
@@ -33463,6 +33553,7 @@ be cc'd to = 被抄送给……
 注意用法：一律小写，过去式常写作 cc'd。
 
 CD burner
+/ˌsiː ˈdiː bɜːnə(r)/
 核心：光盘刻录机：把数据写进空白光盘的设备或那个功能。动词说
 burn a CD。数字下载普及之后这个词多用于讲二〇〇〇年前后那段时间。
 可数。
@@ -33476,6 +33567,7 @@ die halfway through = 中途坏掉
 注意用法：跟 CD writer 同指，这个说法更口语。
 
 CD writer
+/ˌsiː ˈdiː raɪtə(r)/
 核心：光盘刻录机的另一种说法，跟 CD burner 同指，产品说明与技术
 文字里偏用这一个，口语偏用那一个。可数。
 ① The spec lists a built-in CD writer and two megabytes of buffer.
@@ -33511,6 +33603,7 @@ a cease-and-desist letter = 要求立即停止的正式函件
 注意语域：正式，日常说 stop。
 
 ceaseless
+/ˈsiːsləs/
 核心：不停的、没完没了的：多修饰噪音、活动、努力，
 带一点被磨得吃不消的口气。副词 ceaselessly。书面语。
 ① The ceaseless noise wore them down over a single winter.
@@ -33526,6 +33619,7 @@ flood = 淹没
 注意语域：书面，比 constant 更带吃不消的意味。
 
 cecum
+/ˈsiːkəm/
 核心：caecum 的美式拼法，指盲肠。两种写法通用，美国的
 医学文献里写这一个。复数 ceca。可数。
 ① American charts label the pouch the cecum and drop the extra vowel.
@@ -33554,6 +33648,7 @@ keep out = 挡在外面
 注意用法：说木料时不可数。
 
 cede
+/siːd/
 核心：割让：把领土、权利、地位正式让给别人，多半是被迫。
 常搭 cede something to somebody。正式用词，名词是
 cession。
@@ -33570,6 +33665,7 @@ cede ground = 让出地盘
 注意语域：正式，多用于领土与权利。
 
 cedilla
+/səˈdɪlə/
 核心：附在字母下面那个像小挂钩的符号，法语用它把 c 读成
 s 的音。排版与语言学里用。可数。
 ① French uses a cedilla to keep the letter soft before a hard vowel.
@@ -33585,6 +33681,7 @@ type = 输入
 注意用法：排版与语言学里的词。
 
 ceilidh
+/ˈkeɪli/
 核心：苏格兰与爱尔兰的传统聚会：有乐队、有集体舞、有
 唱歌讲故事。拼写与读音差得远，读起来像两个音节。可数。
 ① They held a ceilidh in the village hall and cleared the chairs away.
@@ -33623,6 +33720,7 @@ a ceiling rose = 天花板上的圆形灯座（英式）
 注意用法：上限那一支在财经报道里极常见。
 
 celandine
+/ˈseləndaɪn/
 核心：一种早春开黄花的野草，花瓣发亮，贴地长，多见于
 英国的林边路旁。
 ① Celandines opened in March and closed again by four each afternoon.
@@ -33635,6 +33733,7 @@ spread across = 蔓延过
 注意用法：多见于英国的野花描写。
 
 celebrant
+/ˈseləbrənt/
 核心：两支。一是主持仪式的人：主持婚礼或弥撒的神职人员
 或司仪。二是美式里也指参加庆祝的人，这一支英式少用。
 可数。
@@ -33700,6 +33799,7 @@ celebrity culture = 名人文化
 注意用法：缩写只用于口语与八卦。
 
 celeriac
+/səˈleriæk/
 核心：根芹：芹菜的一种，吃它膨大的球状根，味道像芹菜带
 一点坚果气，做汤与泥。不可数。
 ① Peel the celeriac thickly and drop it straight into lemon water.
@@ -33715,6 +33815,7 @@ keep = 保存得住
 注意别混：吃的是根，不是叶柄。
 
 celery
+/ˈseləri/
 核心：芹菜：一根根带筋的浅绿叶柄，生吃或煮汤。
 celery salt 是芹菜盐。不可数，说一根用 a stick of
 celery。
@@ -33731,6 +33832,7 @@ celery salt = 芹菜盐
 注意用法：不可数，说一根要加量词。
 
 celesta
+/səˈlestə/
 核心：钢片琴：外形像小型立式钢琴，敲的是钢片，声音清亮
 像铃，糖果仙子那段舞曲里的音色就是它。也拼 celeste。
 可数。
@@ -33747,6 +33849,7 @@ call for = 要用到
 注意拼写：也写作 celeste。
 
 celestial
+/səˈlestiəl/
 核心：两支。一是天文上的：天体的、天空的，celestial
 bodies 是天体，the celestial sphere 是天球。二是文学
 用法：天上的、超凡美妙的。书面语。
@@ -33763,6 +33866,7 @@ celestial = 天上的、超凡的
 注意语域：书面，第二支偏文学。
 
 celiac
+/ˈsiːliæk/
 核心：coeliac 的美式拼法：指腹腔的。最常读到的是
 celiac disease 乳糜泻，患者吃了含麸质的食物就会伤肠道。
 ① Celiac disease runs in families and often shows up late.
@@ -33778,6 +33882,7 @@ gluten = 麸质
 注意拼写：英式写 coeliac。
 
 celibacy
+/ˈselɪbəsi/
 核心：独身不婚、也不发生性关系，多是出于宗教誓愿或自愿
 选择。形容词与名词 celibate 指过这种生活的、这样的人。
 不可数。
@@ -33879,6 +33984,7 @@ cellist = 大提琴手
 注意用法：日常不说全称。
 
 cellulite
+/ˈseljʊlaɪt/
 核心：皮下脂肪把结缔组织撑得凹凸不平，多在大腿臀部，
 看着像橘皮。不是病名，是外观描述，多出现在美容广告里。
 不可数。
@@ -33892,6 +33998,7 @@ common = 常见的
 注意语域：不是医学诊断，多见于美容广告。
 
 celluloid
+/ˈseljʊlɔɪd/
 核心：最早的塑料之一：赛璐珞，一度用来做电影胶片，所以
 引申指电影本身。因为易燃，早被别的材料取代。不可数。
 ① Early films were shot on celluloid that shrank as it aged.
@@ -33907,6 +34014,7 @@ capture on celluloid = 拍成电影
 注意用法：引申指电影，带一点怀旧味。
 
 cellulose
+/ˈseljʊləʊs/
 核心：纤维素：植物细胞壁的主要成分，也是纸、棉、人造丝
 的原料。人消化不了它，所以它是膳食纤维的主体。不可数。
 ① Paper is mostly cellulose with a little clay for smoothness.
@@ -33922,6 +34030,7 @@ digest = 消化
 注意用法：造纸与营养两处都常读到。
 
 Celsius
+/ˈselsiəs/
 核心：摄氏：水的冰点定为零度、沸点定为一百度的温标。写法有讲究：
 数字后面写 20°C，读作 twenty degrees Celsius；旧称 centigrade 今天
 基本被这个词取代。不可数。
@@ -33963,6 +34072,7 @@ Celtic metalwork = 凯尔特金属工艺
 注意读音：跟 Celt 一样，一般读硬音。
 
 Celtic cross
+/ˌkeltɪk ˈkrɒs/
 核心：凯尔特十字：十字交叉处套着一个圆环的石十字，爱尔兰与苏格兰
 的教堂墓地里常见，也做成首饰。可数。
 ① A Celtic cross stands in the churchyard with the names worn off.
@@ -33975,6 +34085,7 @@ wear a Celtic cross = 戴凯尔特十字
 注意用法：靠交叉处那个圆环认，别的十字没有。
 
 Celtic harp
+/ˌkeltɪk ˈhɑːp/
 核心：凯尔特竖琴：架在膝上或立地弹的小竖琴，比乐团用的大竖琴小得多，
 爱尔兰与苏格兰的传统乐器。也叫 clarsach。可数。
 ① A Celtic harp has fewer strings than a concert harp and sits on the knee.
@@ -33990,6 +34101,7 @@ the Celtic harp = 爱尔兰国徽上的竖琴纹章
 注意用法：也叫 clarsach，指同一样乐器。
 
 Celtic twilight
+/ˌkeltɪk ˈtwaɪlaɪt/
 核心：凯尔特薄暮：十九世纪末爱尔兰的一场文学复兴，叶芝等人回头
 从神话与民间传说取材。名字出自叶芝一本书。今天也带一点讥讽，
 说那种朦胧唯美、故作古意的调子。不可数。
@@ -34044,6 +34156,7 @@ a war cemetery = 战争公墓
 注意别混：教堂院内的坟地叫 churchyard。
 
 cenotaph
+/ˈsenətɑːf/
 核心：空冢式的纪念碑：立起来纪念葬在别处或找不回遗体的
 死者，多是战争纪念碑。伦敦白厅那座最有名。可数。
 ① Wreaths were laid at the cenotaph in the eleventh minute.
@@ -34059,6 +34172,7 @@ hold = 里面有
 注意用法：字面就是空的墓，这是它跟一般墓碑的分别。
 
 censer
+/ˈsensə(r)/
 核心：香炉：礼拜中提着摇动的那种带链金属炉，烧香散烟。
 可数。
 ① The censer swung on its chain and left smoke along the aisle.
@@ -34095,6 +34209,7 @@ censorious = 爱挑错责难的
 注意别混：censure 是公开谴责，跟审查不是一回事。
 
 censure
+/ˈsenʃə(r)/
 核心：公开正式地谴责：议会、行会对某人的行为下的正式
 批评，比私下批评重、比处罚轻。动词与名词同形，书面语。
 ① The house censured the minister and stopped short of removing him.
@@ -34146,6 +34261,7 @@ put in your two cents = 说说自己的浅见（美式）
 注意用法：跟表示百分比的那个词同一个词根。
 
 centaur
+/ˈsentɔː(r)/
 核心：希腊神话里的半人马：上半身是人，腰以下是马。可数。
 ① Centaurs appear in Greek myth as teachers and as brawlers.
 = 半人马在希腊神话里既当老师，也参与斗殴。
@@ -34160,6 +34276,7 @@ a hybrid = 混合体
 注意用法：神话与文学里的词。
 
 centenarian
+/ˌsentəˈneəriən/
 核心：活到一百岁的人，也作形容词。可数。
 ① The centenarian still gardens and refuses any help with it.
 = 那位百岁老人还在弄花园，谁帮忙都不要。
@@ -34174,6 +34291,7 @@ centenarian = 百岁的
 注意别混：centenary 说的是一百周年，这个说的是人。
 
 centenary
+/senˈtiːnəri/
 核心：一百周年：英式说法，多作定语。美式说 centennial。
 可数。
 ① The centenary falls next year and nobody has booked a hall.
@@ -34189,6 +34307,7 @@ sing at = 在……上演唱
 注意用法：英式说 centenary，美式说 centennial。
 
 centennial
+/senˈteniəl/
 核心：一百周年：美式说法，名词与形容词同形。英式说
 centenary。可数。
 ① The centennial was marked with fireworks over the river.
@@ -34204,6 +34323,7 @@ a centennial parade = 百年纪念游行
 注意用法：美式说法。
 
 centigrade
+/ˈsentɪɡreɪd/
 核心：摄氏的：水的冰点为零度、沸点为一百度那套刻度。
 今天科学写作一律用 Celsius，这个是老说法，日常与旧文本
 里仍读得到。不可数。
@@ -34220,6 +34340,7 @@ be marked in = 以……标刻
 注意用法：正式场合改用 Celsius。
 
 centigram
+/ˈsentɪɡræm/
 核心：厘克：一克的百分之一。计量单位，实际很少用，多
 出现在换算表里。英式也拼 centigramme。可数。
 ① One centigram is a hundredth of a gram and rarely worth writing.
@@ -34235,6 +34356,7 @@ list = 列出
 注意用法：实际少用，多在换算表里。
 
 centilitre
+/ˈsentɪliːtə(r)/
 核心：厘升：一升的百分之一，等于十毫升。欧洲的酒类标签
 上常用。美式拼 centiliter。可数。
 ① The bottle holds seventy centilitres and the label says so twice.
@@ -34249,6 +34371,7 @@ label = 标签
 注意拼写：美式写 centiliter。
 
 centimetre
+/ˈsentɪmiːtə(r)/
 核心：厘米：一米的百分之一，日常量长度最常用的单位之一。
 美式拼 centimeter。可数。
 ① The scar is two centimetres long and fades a little each year.
@@ -34263,6 +34386,7 @@ in centimetres = 以厘米计
 注意拼写：美式写 centimeter。
 
 centipede
+/ˈsentɪpiːd/
 核心：蜈蚣：身体分节、每节一对足的节肢动物，跑得快、
 有毒钩。名字字面是一百只脚，实际节数不定。可数。
 ① A centipede ran under the stone faster than she could follow it.
@@ -34339,6 +34463,7 @@ central tendency = 集中趋势（统计）
 注意用法：第二支在学术写作里极常用。
 
 Central time
+/ˈsentrəl taɪm/
 核心：中部时间：北美的一个时区，比协调世界时晚六小时，夏令时晚
 五小时。芝加哥、达拉斯都在这个区。缩写 CT，写作 CST 与 CDT 分别
 指标准时与夏令时。不可数。
@@ -34444,6 +34569,7 @@ a cooling centre = 高温天供人避暑的公共场所
 注意拼写：英式 centre 一族，美式 center 一族，各拼各的。
 
 centrifugal
+/ˌsentrɪˈfjuːɡəl/
 核心：离心的：转起来把东西往外甩的那种作用。比喻义也用，
 说使一个组织或国家分崩离析的力量。名词 centrifuge 是
 离心机，也作动词指用离心机分离。
@@ -34463,6 +34589,7 @@ centrifuge = 用离心机分离
 注意别混：向外甩是这个，向内拉是 centripetal。
 
 centripetal
+/senˈtrɪpɪtəl/
 核心：向心的：把东西拉向圆心的那种作用。物体能绕圈而
 不飞出去，靠的就是它。比喻义指把各方拉拢到一起的力量。
 ① Centripetal force keeps it in orbit and points always inward.
@@ -34478,6 +34605,7 @@ centripetal = 向心的、使聚拢的
 注意别混：向内是这个，向外是 centrifugal。
 
 centrist
+/ˈsentrɪst/
 核心：政治上的中间派：既不靠左也不靠右的那一类人与主张。
 名词与形容词同形。可数。
 ① She is a centrist by conviction and by temperament as well.
@@ -34493,6 +34621,7 @@ lose seats to = 把席位输给……
 注意语域：本身中性，但左右两边用它时可能带贬。
 
 centurion
+/senˈtjʊəriən/
 核心：古罗马军队里的百夫长：统领约一百人的军官。历史
 语境里用。可数。
 ① A centurion commanded the unit and answered for every man in it.
@@ -34534,6 +34663,7 @@ half a century = 半个世纪
 注意用法：世纪编号比年份头两位大一。
 
 cep
+/sep/
 核心：牛肝菌：一种可食用野蘑菇，菌盖厚、菌柄粗，秋天
 林中采，晒干味道更浓。意大利语说法是 porcini。可数。
 ① A cep has a fat white stalk and a cap like a bun.
@@ -34549,6 +34679,7 @@ slice = 切片
 注意用法：菜谱里也常写作 porcini。
 
 cephalic
+/sɪˈfælɪk/
 核心：头的、头部的：解剖与动物学的形容词。术语。
 ① The cephalic end develops first and the tail end lags behind.
 = 头端先发育，尾端跟在后面。
@@ -34563,6 +34694,7 @@ measurement = 尺寸测量
 注意用法：解剖与动物学的术语。
 
 cephalopod
+/ˈsefələpɒd/
 核心：头足类：章鱼、乌贼、鱿鱼、鹦鹉螺这一类软体动物，
 足长在头上、有墨囊、多数能变色。可数。
 ① Octopuses are cephalopods and so is the nautilus in its shell.
@@ -34611,6 +34743,7 @@ cereals = 谷物
 注意别混：serial 是连续的，跟它同音不同拼。
 
 cerebellum
+/ˌserɪˈbeləm/
 核心：小脑：脑后下方那一块，管协调、平衡与动作的精细
 调节。复数 cerebellums 或 cerebella。可数。
 ① The cerebellum coordinates movement without any conscious effort.
@@ -34646,6 +34779,7 @@ a cerebral hemisphere = 大脑半球
 注意语域：第二支有时带嫌它不动人的意思。
 
 cerebrum
+/səˈriːbrəm/
 核心：大脑：脑最大的那一部分，分左右两半球，管思维、
 感觉与随意运动。复数 cerebrums 或 cerebra。可数。
 ① The cerebrum has two hemispheres joined by a thick band of fibres.
@@ -34661,6 +34795,7 @@ be folded = 折叠起来
 注意别混：小脑是 cerebellum。
 
 ceremonial
+/ˌserɪˈməʊniəl/
 核心：仪式的、礼仪上的：说服装、场合、职务。常指只有
 礼仪意义、没有实权的那一层。副词 ceremonially。也作
 名词指整套仪节。
@@ -34677,6 +34812,7 @@ ceremonially = 按仪式地
 注意别混：ceremonious 说人拘礼，不是说场合。
 
 ceremonious
+/ˌserɪˈməʊniəs/
 核心：说人或做法过于讲究礼数、郑重其事，常带一点嫌它
 做作的意思。副词 ceremoniously。
 ① He gave a ceremonious bow that took the room by surprise.
@@ -34722,6 +34858,7 @@ a closing ceremony = 闭幕式
 注意用法：两个习语都很常读到。
 
 cerise
+/səˈriːz/
 核心：一种偏紫的深樱桃红。法语的樱桃，多用在时装与室内
 配色里。不可数。
 ① The dress was deep cerise and lit up the whole photograph.
@@ -34737,6 +34874,7 @@ choose = 选
 注意用法：时装与配色语境里用。
 
 cerium
+/ˈsɪəriəm/
 核心：一种银灰色的稀土金属，符号 Ce，是稀土里最常见的
 一种，用在打火石、催化剂与抛光粉里。不可数。
 ① Cerium is the commonest rare earth and is not rare at all.
@@ -34752,6 +34890,7 @@ polish = 抛光
 注意用法：材料与化学文字里读到。
 
 cert
+/sɜːt/
 核心：英式口语：铁定会发生的事，几乎只用在 a dead cert
 这个说法里，赛马与打赌语境最多。可数。
 ① He is a dead cert for the job and everyone but he knows it.
@@ -34820,6 +34959,7 @@ certification = 认证、发证
 注意别混：certificate 是那张纸，certification 是过程。
 
 certify
+/ˈsɜːtɪfaɪ/
 核心：正式证明：由有资格的人书面确认某事属实。医学上
 旧时 certify somebody 指判定某人精神失常，所以口语的
 certifiable 才有疯得该关起来那层玩笑意思。certified 是
@@ -34846,6 +34986,7 @@ certifiable = 可以认证的
 注意语域：certifiable 那层玩笑意思来自旧时的精神卫生法。
 
 certitude
+/ˈsɜːtɪtjuːd/
 核心：确信无疑的心理状态：比 certainty 更书面，更强调
 主观上的笃定，常带一点未必有根据的意味。不可数。
 ① He spoke with total certitude about a country he had never visited.
@@ -34861,6 +35002,7 @@ be not the same as = 不等于
 注意别混：certainty 可说客观确定，这个偏主观笃定。
 
 cerulean
+/səˈruːliən/
 核心：天蓝色的：晴空那种带一点深的蓝。书面与文学用词，
 也用作颜料色名。
 ① A cerulean sky stretched overhead for the whole of that week.
@@ -34875,6 +35017,7 @@ cerulean blue = 天蓝颜料
 注意语域：书面与文学用词。
 
 cerumen
+/səˈruːmen/
 核心：耳垢的医学名，日常说 earwax。耳道里分泌的蜡状物，
 有防护作用。不可数。
 ① Cerumen protects the ear canal and moves outward on its own.
@@ -34890,6 +35033,7 @@ remove = 清除
 注意语域：医学用词，日常说 earwax。
 
 cervical
+/ˈsɜːvɪkəl/
 核心：两支，因为词根颈在解剖里指两处。一是颈部的：
 cervical vertebrae 是颈椎。二是子宫颈的：cervical
 smear 是宫颈涂片。医学术语。
@@ -34906,6 +35050,7 @@ be screened for = 有针对性的筛查
 注意别混：同一个词管颈椎与子宫颈两处，看上下文。
 
 cervix
+/ˈsɜːvɪks/
 核心：子宫颈：子宫下端通向阴道的那一段。这个词在解剖上
 本义是颈，所以颈椎那边也用同一个词根。复数 cervices
 或 cervixes。可数。
@@ -34922,6 +35067,7 @@ examine = 检查
 注意用法：医学用词。
 
 cesarean
+/sɪˈzeəriən/
 核心：caesarean 的美式拼法，指剖宫产。也拼 cesarian。
 英式写 caesarean。可数。
 ① She had a cesarean after twenty hours and was walking the next morning.
@@ -34937,6 +35083,7 @@ cesarian = 同一个词的异体拼法
 注意拼写：英式写 caesarean。
 
 cesium
+/ˈsiːziəm/
 核心：caesium 的美式拼法，指铯，符号 Cs。美国的化学
 文献里写这一个。不可数。
 ① The label on the bottle gives the isotope as cesium in the American spelling.
@@ -34949,6 +35096,7 @@ react with = 与……反应
 注意拼写：英式写 caesium。
 
 cessation
+/seˈseɪʃən/
 核心：停止：正式用词，多用于战事、活动、症状。
 ① They agreed a cessation of hostilities that held for nine days.
 = 他们同意停止敌对行动，那次停火维持了九天。
@@ -34963,6 +35111,7 @@ smoking cessation = 戒烟
 注意语域：正式，日常说 stop。
 
 cession
+/ˈseʃən/
 核心：割让这件事：把领土或权利正式让出去，是 cede 的
 名词。法律与外交文书里用。
 ① The treaty provided for the cession of the port and two islands.
@@ -34978,6 +35127,7 @@ take effect = 生效
 注意别混：session 是会期，跟它同音不同拼。
 
 cesspit
+/ˈsespɪt/
 核心：化粪坑：没有下水道时把污水粪便存起来的坑，也说
 cesspool。比喻义常用而且语气很重：说一个地方或圈子烂透
 了。可数。
@@ -34994,6 +35144,7 @@ overflow = 溢出
 注意语域：比喻义语气很重。
 
 cetacean
+/sɪˈteɪʃən/
 核心：鲸类：鲸、海豚、鼠海豚这一类完全水生的哺乳动物。
 名词与形容词同形。动物学用词。可数。
 ① Whales and dolphins are cetaceans and breathe air like we do.
@@ -35009,6 +35160,7 @@ surface = 浮出水面
 注意用法：动物学里的分类词。
 
 ceviche
+/səˈviːtʃeɪ/
 核心：拉美的一道生鱼菜：切块的生鱼用青柠汁腌到发白，
 加洋葱、辣椒与香菜，秘鲁最有名。也拼 seviche。不可数。
 ① Ceviche is cured in lime juice for about fifteen minutes.
@@ -35024,6 +35176,7 @@ to start = 作为头道菜
 注意拼写：也写作 seviche。
 
 cf.
+/ˌsiː ˈef/
 核心：书面缩写：让读者拿另一处来对照着看，写在括号或
 注释里。是拉丁语「比较」一词的缩写，所以带句点。跟 see
 不同：see 是叫人去看，它是叫人去比。
@@ -35040,6 +35193,7 @@ comparison = 对照
 注意用法：小写带句点，只出现在书面注释里。
 
 ch.
+/ˈtʃæptə(r)/
 核心：书面缩写：章，指书里的第几章，后面接数字。只出现
 在引注、目录、索引里。
 ① The quotation is from ch. 4 and is quoted wrongly everywhere else.
@@ -35054,6 +35208,7 @@ index = 索引
 注意用法：只用在引注里，后接数字。
 
 cha-cha
+/ˈtʃɑː tʃɑː/
 核心：恰恰舞：起于古巴的双人舞，节奏是一二三加两小步，
 名字就是踩那两小步的声音。也说 cha-cha-cha。动词是跳
 这个舞。可数。
@@ -35070,6 +35225,7 @@ cha-cha = 跳恰恰
 注意用法：也说 cha-cha-cha。
 
 cha-ching
+/tʃəˈtʃɪŋ/
 核心：拟声词：收银机响的那一声，用来表示钱进账了。
 口语与网络上多带调侃，说某件事一下就来钱。不可数。
 ① Another sale, cha-ching, and the day had barely started.
@@ -35085,6 +35241,7 @@ click = 点击
 注意语域：口语与网络，带调侃。
 
 Chablis
+/ˈʃæbli/
 核心：法国勃艮第北端产的白葡萄酒，用霞多丽葡萄酿，不过桶，
 以干爽带矿石味著称。词尾的 s 不发音。不可数，说一瓶时可数。
 ① They ordered a bottle of Chablis and drank it with the oysters.
@@ -35097,6 +35254,7 @@ Chablis = 夏布利白葡萄酒
 注意读音：词尾的 s 不发音。
 
 chaconne
+/ʃəˈkɒn/
 核心：巴洛克时期的一种变奏曲式：低音反复走同一个短句，
 上面不断变化，跟 passacaglia 很接近。可数。
 ① The chaconne closes the suite and runs to fifteen minutes.
@@ -35129,6 +35287,7 @@ clear from = 从……清除
 注意用法：多出现在计票与穿孔卡片的语境里。
 
 Chadian
+/ˈtʃædiən/
 核心：乍得的、乍得人。常规的 -ian 构词。可数。
 ① A Chadian officer led the patrol and spoke three languages to it.
 = 一名乍得军官带队巡逻，用三种语言跟队员讲话。
@@ -35140,6 +35299,7 @@ Chadian oil = 乍得的石油
 注意拼写：国名只有四个字母，派生时直接加后缀。
 
 chador
+/ˈtʃɑːdɔː(r)/
 核心：伊朗等地一些穆斯林女性穿的黑色大罩袍：从头披到脚，
 前面敞开、用手拢住，不遮脸。也拼 chadar。可数。
 ① She wore a black chador and pinned it under her chin.
@@ -35193,6 +35353,7 @@ a chaffinch = 苍头燕雀
 注意用法：那个分清优劣的习语很高频。
 
 chagrin
+/ˈʃæɡrɪn/
 核心：懊恼：事情没成、或被人比下去而觉得难为情又不甘。
 最常出现在 to somebody's chagrin 这个说法里。形容词
 chagrined。书面语，不可数。
@@ -35209,6 +35370,7 @@ chagrined = 懊恼难为情的
 注意语域：书面，不可数。
 
 chai
+/tʃaɪ/
 核心：加了香料的甜奶茶，源自南亚。chai latte 是咖啡店里
 那种加奶泡的版本。这个词进英语后专指这种香料奶茶，不是
 泛指茶。不可数。
@@ -35277,6 +35439,7 @@ a chain store = 连锁店
 注意用法：连锁企业与一连串事件那两支最常读到。
 
 chainsaw
+/ˈtʃeɪnsɔː/
 核心：链锯：一圈带齿的链条绕着导板高速转，用来伐木、
 锯枝。可数。
 ① He cut the trunk with a chainsaw in four passes.
@@ -35339,6 +35502,7 @@ an easy chair = 安乐椅（带扶手的软座椅）
 注意用法：今天多用中性的 chair 或 chairperson。
 
 chairlift
+/ˈtʃeəlɪft/
 核心：缆椅：滑雪场里挂在钢索上的敞开式吊椅，把人送上山。
 可数。
 ① Take the chairlift to the top and walk down the far side.
@@ -35354,6 +35518,7 @@ run = 运行
 注意别混：封闭轿厢的那种叫 cable car。
 
 chaise
+/ʃeɪz/
 核心：两支。一是旧式的轻便马车。二是法语借词组合
 chaise longue，字面是长椅子，指一头带靠背的长躺椅；
 美式常讹写成 chaise lounge。可数。
@@ -35370,6 +35535,7 @@ chaise lounge = 长躺椅（美式讹写）
 注意拼写：正写 chaise longue。
 
 chakra
+/ˈtʃʌkrə/
 核心：瑜伽与印度传统里说的能量中心：身体沿脊柱分布的
 若干个点，冥想与体位法里讲要打通。可数。
 ① The root chakra sits at the base of the spine in that system.
@@ -35385,6 +35551,7 @@ the heart chakra = 心轮
 注意用法：瑜伽与身心修习的语境里用。
 
 chalet
+/ˈʃæleɪ/
 核心：两支。一是阿尔卑斯式木屋：坡屋顶、宽出檐，本是
 瑞士山间牧人的房子。二是度假村或营地里成排的小木屋。
 词尾 t 不发音。可数。
@@ -35401,6 +35568,7 @@ holiday chalet = 度假小木屋
 注意读音：词尾 t 不发音。
 
 chalice
+/ˈtʃælɪs/
 核心：圣杯：圣餐礼上盛葡萄酒的高脚杯，也泛指华丽的大
 酒杯。习语 a poisoned chalice 指看着体面、接下来会害了
 你的东西，多说职位与任务。可数。
@@ -35457,6 +35625,7 @@ a piece of chalk = 一支粉笔
 注意用法：两个习语都高频。
 
 challah
+/ˈhɑːlə/
 核心：犹太人安息日与节日吃的辫子形白面包，用蛋和面，
 色黄味微甜。复数 challahs 或 challot。
 ① She braided the challah from six strands without measuring.
@@ -35550,6 +35719,7 @@ a decompression chamber = 减压舱
 注意用法：议院与腔室那两支最常读到。
 
 chamberlain
+/ˈtʃeɪmbəlɪn/
 核心：内侍大臣：旧时替君主或大贵族管理内廷家务的官员。
 今天只剩几个礼仪性头衔还在用。可数。
 ① The chamberlain announced the guests in order of precedence.
@@ -35565,6 +35735,7 @@ household = 内廷、家务
 注意用法：历史与宫廷语境里的词。
 
 chambermaid
+/ˈtʃeɪmbəmeɪd/
 核心：旅馆里收拾客房、换床铺的女服务员。今天多改称
 room attendant，这个词带旧气。可数。
 ① The chambermaid changed the sheets and left the window open.
@@ -35577,6 +35748,7 @@ start = 开始上班
 注意语域：带旧气，今天多说 room attendant。
 
 chambré
+/ˈʃɒmbreɪ/
 核心：说红酒回到室温：从酒窖拿出来放一会儿，让它到适饮
 温度。法语来的过去分词，只出现在品酒与餐饮语境里。
 ① The red was served chambré and tasted of far more than it had upstairs.
@@ -35605,6 +35777,7 @@ independently = 各自地
 注意语域：比喻义可褒可贬，看上下文。
 
 chamfer
+/ˈtʃæmfə(r)/
 核心：把直角的棱削成一道斜面：木工与金属加工里的做法，
 为的是不刮手、好上漆。名词指那道斜面。可数。
 ① Chamfer the edges before sanding or the paint will not hold.
@@ -35620,6 +35793,7 @@ chamfered = 倒了斜角的
 注意用法：木工与机加工里的词。
 
 chamois
+/ˈʃæmwɑː/
 核心：两支，读音还不一样。一是岩羚：欧洲山地的一种羚羊。
 二是麂皮：擦车擦玻璃的那种软皮布，本是用岩羚皮做的，
 这一支读起来像 shammy，也直接拼成 shammy。
@@ -35636,6 +35810,7 @@ chamois leather = 麂皮
 注意读音：说布时读作 shammy，跟说羚羊时不同。
 
 chamomile
+/ˈkæməmaɪl/
 核心：camomile 的美式主流拼法，指洋甘菊，最常说
 chamomile tea。两种写法读音相同，英式偏另一个。不可数。
 ① He keeps chamomile tea in the office for the long afternoons.
@@ -35651,6 +35826,7 @@ label = 标签
 注意拼写：英式偏 camomile。
 
 champ
+/tʃæmp/
 核心：两支。一是口语的冠军，是 champion 的截短，也用来
 亲切地夸人。二是动词：马大声嚼东西；习语 champ at the
 bit 是急不可待，画面是马咬着嚼子等不住。可数。
@@ -35690,6 +35866,7 @@ a champagne socialist = 嘴上讲平等自己过得阔的人（英式）
 注意用法：别处产的叫 sparkling wine。
 
 champers
+/ˈʃæmpəz/
 核心：英式口语的香槟：把 champagne 掐短再加英式口语常见
 的尾巴，带一点轻松俏皮。不可数。
 ① Let's crack open the champers before anybody changes their mind.
@@ -35771,6 +35948,7 @@ a fighting chance = 拼一拼还有的机会
 注意用法：the chances are 与 by chance 都极高频。
 
 chancel
+/ˈtʃɑːnsəl/
 核心：教堂里祭台那一端：跟中殿之间常有栏杆或屏隔开，
 供神职人员与唱诗班用。建筑术语。可数。
 ① The choir sits in the chancel with its back to the congregation.
@@ -35786,6 +35964,7 @@ rebuild = 重建
 注意用法：教堂建筑的术语。
 
 chancellery
+/ˈtʃɑːnsɪləri/
 核心：两支。一是总理府：某些国家政府首脑的办公机构与
 那座楼。二是大使馆里的办事处。可数。
 ① The chancellery issued a statement of four lines and took no questions.
@@ -35822,6 +36001,7 @@ vice-chancellor = 英国大学的实职校长
 注意用法：同一个头衔各国指的职位不同，别照搬。
 
 chancer
+/ˈtʃɑːnsə(r)/
 核心：英式口语：投机取巧的人，看有便宜就上、不太讲规矩。
 带贬义，语气不算重，有时还带点无奈的佩服。可数。
 ① He is a bit of a chancer and has never once been caught out.
@@ -35834,6 +36014,7 @@ take advantage of = 钻……的空子
 注意语域：英式口语，带贬但语气不重。
 
 chancery
+/ˈtʃɑːnsəri/
 核心：两支。一是衡平法院：英美法里处理信托、遗产、公司
 这类案件的那一支法庭。二是档案与文书处，也指大使馆
 办事处。习语 in chancery 旧指陷进没完没了的诉讼。
@@ -35850,6 +36031,7 @@ in chancery = 陷在讼累里
 注意用法：法律语境里最常读到。
 
 chancre
+/ˈʃæŋkə(r)/
 核心：硬性溃疡：梅毒第一期在感染处长出的那个无痛硬结。
 相关的 chancroid 是另一种性传播病引起的软性溃疡，会痛。
 医学术语。可数。
@@ -35866,6 +36048,7 @@ chancroid = 软性溃疡（另一种病）
 注意别混：chancre 不痛，chancroid 会痛，两种病不同。
 
 chancy
+/ˈtʃɑːnsi/
 核心：口语：说不准的、靠运气的，做起来有风险。多修饰
 说事情的名词。英式偏多。
 ① Buying off-plan is chancy when the builder has no track record.
@@ -35897,6 +36080,7 @@ hold = 里面装着
 注意用法：室内设计与建筑描写里常见。
 
 chandler
+/ˈtʃɑːndlə(r)/
 核心：两支。一是船具商：给船供应缆绳、帆布、五金与食物
 的店家，全称 ship's chandler，港口城市里仍有这个招牌。
 二是本义：做蜡烛卖蜡烛的人，今天只在姓氏与旧文里留着。
@@ -35995,6 +36179,7 @@ change one's mind = 改主意
 注意用法：零钱那一支不可数。
 
 changeling
+/ˈtʃeɪndʒlɪŋ/
 核心：民间传说里被精灵偷换走后留下的那个孩子：外表像
 自己的孩子，性情却不对。也比喻某人像换了个人。可数。
 ① The story is about a changeling who cannot be sent back.
@@ -36068,6 +36253,7 @@ Gregorian chant has one line of music and no bar lines at all.
 = 格里高利圣咏只有一条旋律线，连小节线都没有。
 
 chanterelle
+/ˌʃɒntəˈrel/
 核心：鸡油菌：漏斗形、杏黄色的野蘑菇，带一点杏子香，
 秋天林中采，是名贵食用菌。可数。
 ① They found chanterelles under the pines where the moss was thickest.
@@ -36083,6 +36269,7 @@ fry in = 用……煎
 注意别混：跟表示吟诵的那个词只是拼头相同。
 
 chanteuse
+/ʃɒnˈtɜːz/
 核心：女歌手，尤指在夜总会、小酒馆里唱慢歌的那种。
 法语来的词，用它带一层有情调、有风格的意味。可数。
 ① The chanteuse sang in French to a room of about nine people.
@@ -36095,6 +36282,7 @@ hold the room = 镇住全场
 注意语域：多用于爵士与香颂语境。
 
 chantey
+/ˈʃænti/
 核心：水手号子的美式拼法：从前船上一起干活时喊唱的那种
 歌，一人领唱众人接。英式与主流拼法是 shanty。可数。
 ① The crew sang a chantey while hauling.
@@ -36110,6 +36298,7 @@ spell = 拼写
 注意拼写：主流写 shanty。
 
 chantry
+/ˈtʃɑːntri/
 核心：为亡者做弥撒设的基金，也指为此专建的小礼拜堂：
 中世纪富人捐钱请人长期为自己的灵魂祈祷。可数。
 ① He endowed a chantry to have his name said aloud every single day.
@@ -36125,6 +36314,7 @@ be dissolved = 被解散取消
 注意用法：中世纪史与教堂建筑里的词。
 
 Chanukah
+/ˈhænʊkə/
 核心：光明节：犹太教的八天节日，纪念圣殿重献，每晚点亮烛台上的
 一支蜡烛。拼法很多：Hanukkah 最常见，这一个与 Chanukkah 也都对，
 因为原词开头那个音英语里没有。不可数。
@@ -36181,6 +36371,7 @@ chaps = 牛仔皮护腿
 注意语域：说人那一支是英式口语，带老派亲切。
 
 chaparral
+/ˌʃæpəˈræl/
 核心：美国西南部与墨西哥的那种植被：低矮的硬叶灌木丛，
 耐旱、易燃。地理与生态文字里用。不可数。
 ① Fire swept through the chaparral faster than a man can run.
@@ -36220,6 +36411,7 @@ a chapel of rest = 殡仪馆的停灵室（英式）
 注意用法：第三支只在英国的工会史里读到。
 
 chaperone
+/ˈʃæpərəʊn/
 核心：陪同者：旧时陪未婚女子出门以保名节的长辈；今天
 指带学生外出的随行成人，或艺人、运动员的随行人员。
 动词是陪同、看着。也拼 chaperon。可数。
@@ -36236,6 +36428,7 @@ a chaperone = 随行人员
 注意用法：旧义带保名节的意味，今义只是随行看护。
 
 chaplain
+/ˈtʃæplɪn/
 核心：随处驻的神职人员：军队、医院、监狱、学校、船上
 配的那位牧师或神父，不属某个堂区。那个岗位与部门叫
 chaplaincy。可数。
@@ -36252,6 +36445,7 @@ chaplaincy = 随驻神职的岗位与部门
 注意别混：它不是堂区神职，是机构里配的。
 
 chaplet
+/ˈtʃæplət/
 核心：两支。一是戴在头上的花环或叶冠。二是天主教里一串
 较短的念珠，以及照它念的那套祷文。可数。
 ① She wore a chaplet of daisies that fell apart by noon.
@@ -36291,6 +36485,7 @@ a chapter house = 教士议事堂
 注意用法：分会那一支在美式社团语境里常见。
 
 Chapter 11
+/ˌtʃæptər ɪˈlevən/
 核心：美国破产法里的重整程序：公司照常经营，同时跟债权人谈条件、
 削减债务。新闻里说某公司 in Chapter 11 不等于倒闭。跟 Chapter 7
 成对，那个才是清算关门。
@@ -36304,6 +36499,7 @@ Chapter 11 = 破产重整程序
 注意别误读：进入这个程序不等于关门，公司照常营业。
 
 Chapter 7
+/ˌtʃæptə ˈsevən/
 核心：美国破产法里的清算程序：把资产变卖还债，公司就此关门，个人
 则免除大部分剩余债务。跟 Chapter 11 成对，那个是重整、继续经营。
 说 file for Chapter 7。
@@ -36340,6 +36536,7 @@ charbroil = 明火炭烤（美式）
 注意语域：钟点女工与茶那两支都带旧气。
 
 charabanc
+/ˈʃærəbæŋ/
 核心：早年的敞篷长途游览大巴：一排排横座，二十世纪初
 英国人出游坐的就是它。今天是历史词，也用来怀旧地调侃
 旅游大巴。可数。
@@ -36408,6 +36605,7 @@ character recognition = 字符识别
 注意用法：字符那一支在技术文字里极常用。
 
 charade
+/ʃəˈrɑːd/
 核心：两支。一是明明是假的、大家还配合演下去的把戏，
 带贬义。二是复数 charades 指看手势猜词的那个客厅游戏。
 可数。
@@ -36424,6 +36622,7 @@ charades = 看手势猜词的游戏
 注意用法：第一支带贬义，第二支是游戏名。
 
 charcoal
+/ˈtʃɑːkəʊl/
 核心：木炭：木头闷烧脱水做成的黑色燃料，烧起来无烟
 温度高。也指炭笔与炭笔画，以及那种深灰色。不可数。
 ① Light the charcoal early and wait until it greys over.
@@ -36455,6 +36654,7 @@ Swiss chard = 叶用甜菜的常见叫法
 注意用法：菜谱里常见的叫法是 Swiss chard。
 
 Chardonnay
+/ˈʃɑːdəneɪ/
 核心：霞多丽：世界上种得最广的白葡萄品种，也指用它酿的酒。风格
 随产地与是否过桶差得很远：不过桶清爽带酸，过桶则有黄油与香草味。
 不可数，说一杯时可数。
@@ -36543,6 +36743,7 @@ free of charge = 免费
 注意用法：收费、指控、充电、负责四支都极高频。
 
 chargrill
+/ˈtʃɑːɡrɪl/
 核心：炭火烤：架在明火或条纹铁板上烤出焦痕。
 chargrilled 是烤出焦痕的，多见于菜单。
 ① They chargrill the aubergine until the skin lifts off in sheets.
@@ -36558,6 +36759,7 @@ smoky = 烟熏味的
 注意用法：多出现在菜单与食谱里。
 
 chariot
+/ˈtʃæriət/
 核心：古代的双轮战车与竞技车：由马拉，人站着驾。驾车的
 人是 charioteer。今天只在历史、神话与文学里读到。可数。
 ① The chariot was drawn by four horses harnessed abreast.
@@ -36638,6 +36840,7 @@ out of charity = 出于善心
 注意语域：靠救济那一层带一点难为情的意味。
 
 charlady
+/ˈtʃɑːleɪdi/
 核心：英式旧口语：钟点女工，来打扫的那位。跟 charwoman
 同义，都带旧气，今天说 cleaner。可数。
 ① The charlady came twice a week and had her own key.
@@ -36831,6 +37034,7 @@ a charter school = 特许学校（美式）
 注意用法：美式的对应说法是 certified public accountant。
 
 Chartist
+/ˈtʃɑːtɪst/
 核心：宪章派：十九世纪英国的一场工人运动，向议会递交人民宪章，
 要求普选权与无记名投票。运动本身叫 Chartism。今天多见于历史课本，
 它提的六条要求后来大都实现了。可数。
@@ -36844,6 +37048,7 @@ Chartist demands = 宪章派的要求
 注意用法：讲十九世纪英国政治史时的固定词。
 
 chartreuse
+/ʃɑːˈtrɜːz/
 核心：两支。一是修士酿的那种草药利口酒，绿色或黄色，
 名字来自法国那座修院。二是那种带黄的鲜绿色。不可数。
 ① He poured a small glass of chartreuse after the cheese.
@@ -36859,6 +37064,7 @@ herb = 草药
 注意用法：色名那一支在设计里常用。
 
 charwoman
+/ˈtʃɑːwʊmən/
 核心：英式旧口语：钟点女工。跟 charlady 同义，都带旧气，
 今天说 cleaner。复数 charwomen。可数。
 ① A charwoman scrubbed the steps on her knees every Monday.
@@ -36871,6 +37077,7 @@ before dawn = 天亮前
 注意语域：带旧气，今天说 cleaner。
 
 chary
+/ˈtʃeəri/
 核心：小心不肯轻易给出或轻易相信的：常搭 be chary of
 doing something。书面语，比 cautious 更带一点不轻许的
 意味。
@@ -36927,6 +37134,7 @@ chase away = 赶走
 注意用法：cut to the chase 与 chase up 都很高频。
 
 Chasid
+/ˈhæsɪd/
 核心：哈西德派犹太人：十八世纪东欧兴起的一支犹太教虔敬运动的信徒，
 重神秘体验与喜乐敬拜，男性多留鬓发、着黑衣礼帽。拼法多：Hasid、
 Chassid 都是同一个词。复数 Chasidim。可数。
@@ -36940,6 +37148,7 @@ Chasidim = 哈西德派教徒（复数）
 注意拼写：Hasid 与 Chassid 都是同一个词的转写。
 
 Chasidic
+/hæˈsɪdɪk/
 核心：哈西德派的：形容那一支犹太教的做法、音乐与服饰。也拼 Hasidic。
 最常搭 a Chasidic community、Chasidic music。
 ① They live in a Chasidic community where the shops shut at three on Friday.
@@ -36952,6 +37161,7 @@ Chasidic melodies = 哈西德派曲调
 注意拼写：Hasidic 是更常见的写法。
 
 Chasidism
+/ˈhæsɪdɪzəm/
 核心：哈西德主义：那一支犹太教运动本身。主张亲近上帝不必靠深奥的
 经院学问，普通人靠虔诚与喜乐也能做到，因此在东欧穷苦犹太社群里
 传得很广。也拼 Hasidism。不可数。
@@ -36981,6 +37191,7 @@ widen into = 扩大成
 注意读音：词首读作 k。
 
 chassé
+/ˈʃæseɪ/
 核心：舞蹈里的滑步：一只脚滑出去，另一只脚跟上并拢，
 像追着走。芭蕾与社交舞里的基本步。动词也用。可数。
 ① The step begins with a chassé and ends facing the mirror.
@@ -36996,6 +37207,7 @@ link = 连接
 注意用法：舞蹈术语，带重音符。
 
 chasseur
+/ʃæˈsɜː(r)/
 核心：两支。一是法国军队里的轻装步兵或骑兵，历史语境里
 的兵种名。二是法国菜里的一种做法：用蘑菇、洋葱、番茄与
 白葡萄酒烧，叫猎人式。可数。
@@ -37048,6 +37260,7 @@ a vow of chastity = 守贞誓愿
 注意别混：chasten 是使人醒悟收敛，跟守贞无关。
 
 chasten
+/ˈtʃeɪsən/
 核心：让人受了教训因而收敛：多用被动与过去分词，
 be chastened by 是被……教训得老实了，a chastening
 experience 是让人清醒的经历。书面语。
@@ -37080,6 +37293,7 @@ chastisement = 责罚
 注意别混：chasten 是使人醒悟收敛，这个是当面痛斥。
 
 chasuble
+/ˈtʃæzjʊbəl/
 核心：祭披：神职人员在圣餐礼上套在最外面的那件无袖长
 罩衣，颜色随教会年历变。宗教服饰的术语。可数。
 ① The priest wore a green chasuble for the ordinary weeks.
@@ -37129,6 +37343,7 @@ chat up 的宾语放在中间，整体是搭话套近乎的意思。
 注意用法：访谈节目英式说 chat show，美式说 talk show。
 
 chateau
+/ˈʃætəʊ/
 核心：法国的城堡式大宅，也指带酒庄的庄园，酒标上那个词
 就是它。复数 chateaux 或 chateaus。正写带重音符。可数。
 ① They stayed at a chateau in Burgundy with more rooms than heating.
@@ -37144,6 +37359,7 @@ chateaux = 复数形式
 注意拼写：正写带重音符。
 
 chattel
+/ˈtʃætəl/
 核心：法律上的动产：不是土地房屋的那类财产，跟不动产
 相对，多用复数。旧时把奴隶当财产的制度叫 chattel
 slavery，讨论奴隶制时很常读到。可数。
@@ -37184,6 +37400,7 @@ a chatterbox = 话特别多的人
 注意语域：带一点嫌它琐碎，说小孩时是亲切的。
 
 chauffeur
+/ˈʃəʊfə(r)/
 核心：私人司机：受雇专门给某人开车的人，多配高级轿车。
 动词是给某人当司机开车。可数。
 ① A chauffeur met them at the airport holding a card with no name on it.
@@ -37224,6 +37441,7 @@ He answered chauvinistically and the room let it pass twice.
 注意语域：一律带贬义。
 
 chav
+/tʃæv/
 核心：英式贬称：指穿名牌运动装、举止粗俗的年轻工人阶层
 的人。带明显的阶级歧视色彩，公共场合用它会被视为侮辱；
 形容词 chavvy。读到要认得，写作时避开。可数。
@@ -37237,6 +37455,7 @@ chavvy = 俗气的（贬义）
 注意语域：带阶级歧视，只需认得，不要用。
 
 chaw
+/tʃɔː/
 核心：两支。一是粗声粗气地咀嚼，方言与旧口语。二是美式
 的一口咀嚼烟草。今天少用。可数。
 ① He took a chaw of tobacco and tucked it into his cheek.
@@ -37453,6 +37672,7 @@ A cashier's check took three days and one queue to obtain.
 注意用法：核对与办手续两支最高频；支票义是美式。
 
 Cheddar
+/ˈtʃedə(r)/
 核心：英国最常见的硬质奶酪：黄色、紧实，熟成越久越咸香带脆粒。
 得名于萨默塞特的切达村。今天世界各地都做，名字没有产地保护，
 所以在超市里它是通名。不可数。
@@ -37500,6 +37720,7 @@ turn the other cheek = 忍让不还手
 注意语域：放肆那一支很英式，常带讨喜的顽皮。
 
 cheep
+/tʃiːp/
 核心：雏鸟那种细细的叫声，动词与名词同形，拟声词。
 英式口语 not a cheep 是一声不响、毫无消息。
 ① Newly hatched chicks cheeped under the heat lamp all night.
@@ -37654,6 +37875,7 @@ a chef-d'oeuvre = 代表作、杰作
 注意别混：cook 泛指做饭的人，这个含专业与掌勺的意味。
 
 Chelsea boot
+/ˌtʃelsi ˈbuːt/
 核心：切尔西靴：踝靴，两侧是松紧布、没有鞋带，靠后跟一个拉襻穿上。
 维多利亚时代设计出来，一九六〇年代因披头士再度流行。多用复数。
 ① He wore black Chelsea boots that had been resoled twice.
@@ -37666,6 +37888,7 @@ a Chelsea boot = 切尔西靴
 注意用法：靠两侧松紧布与无鞋带这两点认。
 
 Chelsea bun
+/ˌtʃelsi ˈbʌn/
 核心：切尔西卷：加了果干与香料的甜面包，卷成螺旋、方形排在一起烤，
 表面刷糖浆。十八世纪伦敦切尔西一家面包房带起来的。可数。
 ① She bought two Chelsea buns and ate one on the way home.
@@ -37678,6 +37901,7 @@ Chelsea buns = 切尔西卷（复数）
 注意别混：跟 Bath bun 同属地名命名的英式甜面包，形状与做法不同。
 
 Chelsea tractor
+/ˌtʃelsi ˈtræktə(r)/
 核心：英式讥语：城里人开的大型四驱越野车 —— 明明只在铺装路上接送
 孩子，却买了副能翻山越岭的样子。切尔西是伦敦的富人区。带明显嘲讽。
 可数。
@@ -37724,6 +37948,7 @@ chemical warfare = 化学战
 注意用法：名词多用复数，日常里常带不天然的暗示。
 
 chemise
+/ʃəˈmiːz/
 核心：两支。一是女式的直筒贴身内衣，肩带式，本是旧时的
 衬裙。二是二十年代那种不收腰的直筒连衣裙。可数。
 ① She wore a silk chemise under a jacket she never took off.
@@ -37783,6 +38008,7 @@ a chemistry set = 儿童化学实验套装
 注意用法：默契那一支在日常与影评里极常用。
 
 chemoreceptor
+/ˈkiːməʊrɪseptə(r)/
 核心：化学感受器：能感知化学物质浓度并发出信号的感觉
 细胞或器官，舌上的味觉细胞、颈动脉旁监测血氧的那些都是。
 生理学术语。可数。
@@ -37815,6 +38041,7 @@ hair loss = 脱发
 注意用法：口语一律说 chemo。
 
 chenille
+/ʃəˈniːl/
 核心：一种起绒的纱线与用它织的布：表面毛茸茸，名字就是
 法语的毛虫。做毛衣、抱枕、床罩。不可数。
 ① The cushion is chenille and holds every cat hair in the house.
@@ -37830,6 +38057,7 @@ chenille yarn = 起绒纱线
 注意用法：家居与针织语境里用。
 
 cheongsam
+/ˌtʃɒŋˈsæm/
 核心：旗袍：中式的贴身连身长裙，立领、开襟、侧摆开衩。
 这个词经粤语进英语，英语里另有 qipao 指同一样东西。可数。
 ① She wore a silk cheongsam to the New Year dinner and could not sit down comfortably.
@@ -37845,6 +38073,7 @@ be cut close = 剪裁贴身
 注意用法：英语里另有 qipao 一词，同指旗袍。
 
 chequebook
+/ˈtʃekbʊk/
 核心：英式拼法：支票本，美式写 checkbook。报道里两个
 固定说法：chequebook diplomacy 是拿钱办外交，
 chequebook journalism 是花钱买爆料。可数。
@@ -37861,6 +38090,7 @@ chequebook journalism = 花钱买爆料的新闻
 注意拼写：美式写 checkbook。
 
 chequered
+/ˈtʃekəd/
 核心：英式拼法，美式写 checkered。两义：一是有方格图案
 的，赛车终点那面黑白格旗就是 the chequered flag。二是
 比喻：起落不定、有好有坏。
@@ -37877,6 +38107,7 @@ a chequered history = 起落不定的经历
 注意拼写：美式写 checkered。
 
 cherish
+/ˈtʃerɪʃ/
 核心：两支。一是珍视：把人或东西看得很重、好好护着。
 二是心里怀着某个愿望或想法不放。语气偏正式且带感情，
 比 value 更热。
@@ -37893,6 +38124,7 @@ cherish the hope of = 心里怀着……的希望
 注意语域：偏正式且带感情，比 value 更热。
 
 Cherokee
+/ˈtʃerəkiː/
 核心：切罗基人：北美东南部的原住民族群，也指他们的语言。十九世纪
 被迫西迁，那条路被称作 the Trail of Tears。他们的语言有一套自创的
 音节文字。单复数同形。
@@ -37906,6 +38138,7 @@ Cherokee = 切罗基语
 注意用法：单复数同形，不加 s。
 
 cheroot
+/ʃəˈruːt/
 核心：一种两头都切平的雪茄：不像普通雪茄那样一头收尖。
 本是南亚与东南亚的做法。可数。
 ① He lit a cheroot on the veranda and let it go out twice.
@@ -37960,6 +38193,7 @@ a cherry tomato = 小番茄
 注意用法：cherry-pick 在评论与商业文字里极常用。
 
 cherub
+/ˈtʃerəb/
 核心：两支，两个复数还分工。一是圣经里的天使级别，
 复数用 cherubim。二是艺术里画成的胖娃娃天使，进而说
 脸圆可爱的小孩，复数用 cherubs。形容词 cherubic 是
@@ -37977,6 +38211,7 @@ cherubic = 娃娃般圆润可爱的
 注意用法：宗教语境用 cherubim，说娃娃用 cherubs。
 
 chervil
+/ˈtʃɜːvɪl/
 核心：香草的一种：叶细如芹，味道像淡淡的茴香带一点甘草
 气，法国菜里与龙蒿、香葱、欧芹配成一套混合香草。不可数。
 ① Chop the chervil finely and stir it in after the heat is off.
@@ -37992,6 +38227,7 @@ fines herbes = 法式混合细香草
 注意用法：法国菜里的香草，宜生用。
 
 Cheshire cheese
+/ˌtʃeʃə ˈtʃiːz/
 核心：英国最古老的奶酪之一：微咸、质地松散易碎，比切达更酥。产自
 柴郡。跟同名的柴郡猫毫无关系，那是《爱丽丝》里的角色。不可数。
 ① Cheshire cheese crumbles in the hand and will not slice for a sandwich.
@@ -38079,6 +38315,7 @@ in Canada = 在加拿大
 注意用法：加拿大英语里泛指沙发。
 
 chestnut
+/ˈtʃesnʌt/
 核心：三支。一是栗子与栗树：sweet chestnut 是能吃的
 栗子，horse chestnut 是七叶树，果实不能吃。二是那种
 红褐色，也说马的毛色。三是习语 an old chestnut：
@@ -38099,6 +38336,7 @@ an old chestnut = 老掉牙的话或笑话
 注意别混：能吃的是 sweet chestnut，另一种不能吃。
 
 chevron
+/ˈʃevrən/
 核心：V 形的标记：军服袖子上表示军阶的那道人字纹、
 路上的箭头式指示标、纹章上的人字形都是。可数。
 ① Three chevrons on his sleeve showed twelve years of service.
@@ -38138,6 +38376,7 @@ chewy = 有嚼劲的
 注意用法：chew over 与 chew out 两个说法都常读到。
 
 Cheyenne
+/ʃaɪˈæn/
 核心：夏延人：北美大平原的原住民族群，也指他们的语言。历史上以
 骑马作战出名，跟阿拉帕霍人长期结盟。单复数同形。
 ① The Cheyenne hunted along the Platte and moved camp with the herds.
@@ -38150,6 +38389,7 @@ Cheyenne = 夏延语
 注意用法：单复数同形；也是美国怀俄明州首府的名字。
 
 chez
+/ʃeɪ/
 核心：法语借词：在某人家、某人那儿，写作它加人名，
 chez nous 是我们家。英语里用它带一点俏皮或文气，多见于
 随笔与请帖。
@@ -38180,6 +38420,7 @@ chi = 气（生命能量）
 注意拼写：气那一支也写 qi。
 
 Chianti
+/kiˈænti/
 核心：意大利托斯卡纳产的红葡萄酒，主要用桑娇维塞葡萄。旧时装在
 底部裹草的圆肚瓶里，那种瓶子叫 fiasco。词首读硬音。不可数，
 说一瓶时可数。
@@ -38193,6 +38434,7 @@ Chianti = 基安蒂红葡萄酒
 注意读音：开头那两个字母读硬音。
 
 chiaroscuro
+/kiˌɑːrəˈskʊərəʊ/
 核心：明暗对照：绘画与摄影里靠强光与深影的对比造出立体
 感与戏剧性。意大利语的明加暗。不可数。
 ① The painting uses strong chiaroscuro and lights only one hand.
@@ -38208,6 +38450,7 @@ be shot in = 按……的手法拍
 注意用法：美术史与摄影里的术语。
 
 chiasmus
+/kaɪˈæzməs/
 核心：修辞里的交错对照：把两个成分的次序在后半句倒过来，
 形成前后交叉的格式。复数 chiasmi。可数。
 ① The famous line about country and citizen is a chiasmus.
@@ -38242,6 +38485,7 @@ eco-chic = 环保时尚（既讲环保又讲时髦）
 注意读音：读起来像 sheek，不照字面读。
 
 Chicana
+/tʃɪˈkɑːnə/
 核心：Chicano 的女性形式：认同奇卡诺文化传统的墨西哥裔女性。
 西班牙语的名词分阴阳性，-o 结尾是男性、-a 结尾是女性，这一对
 沿用了那个规矩。可数。
@@ -38255,6 +38499,7 @@ Chicana artists = 奇卡诺裔女艺术家
 注意构词：跟 Chicano 成对，词尾一个字母分男女。
 
 chicane
+/ʃɪˈkeɪn/
 核心：两支。一是赛道上故意设的连续急弯：为了逼车手减速。
 二是名词 chicanery：用花招、诡辩去骗人，legal chicanery
 是钻法律空子的手段，带贬义。可数。
@@ -38271,6 +38516,7 @@ chicanery = 花招、诡计
 注意用法：赛车义与诡计义都常读到。
 
 Chicano
+/tʃɪˈkɑːnəʊ/
 核心：奇卡诺人：美国的墨西哥裔，尤指认同那段民权运动与文化传统的
 一代。这个词从前是蔑称，一九六〇年代被当事人主动拿回来当自称，
 所以带自豪意味 —— 外人用它要看场合。女性形式 Chicana。可数。
@@ -38284,6 +38530,7 @@ a Chicano = 奇卡诺人（男性或统称）
 注意语域：曾是蔑称，后被当事人拿回来自称，外人用要看场合。
 
 chichi
+/ˈʃiːʃiː/
 核心：故意讲究得有点做作的：说装饰、店面、说话腔调。
 带轻嘲，意思接近太精致反而俗气。法语来的词。
 ① The café is a bit chichi and charges four pounds for a pot of tea.
@@ -38319,6 +38566,7 @@ chick lit = 主打女性读者的轻小说（口语，带轻慢）
 注意语域：指年轻女子那一支不礼貌，只需认得。
 
 chickadee
+/ˈtʃɪkədiː/
 核心：北美的一种小山雀，头顶与喉部有黑斑，叫声像它的
 名字。可数。
 ① A chickadee landed on the feeder and took one seed at a time.
@@ -38380,6 +38628,7 @@ chicken wire = 六角细铁丝网
 注意语域：胆小那一支是口语，最后那个词粗俗，只需认得。
 
 chickpea
+/ˈtʃɪkpiː/
 核心：鹰嘴豆：淡黄色、一头带小尖的豆子，做豆泥与炖菜。
 美式常叫 garbanzo bean。可数。
 ① Soak the chickpeas overnight or they stay hard however long you boil them.
@@ -38395,6 +38644,7 @@ chickpea flour = 鹰嘴豆粉
 注意用法：美式常说 garbanzo bean。
 
 chickweed
+/ˈtʃɪkwiːd/
 核心：繁缕：小白花的常见杂草，贴地铺开、长得极快，园子
 里到处都是；嫩苗可以吃，也拿来喂鸟。不可数。
 ① Chickweed took over the bed in the fortnight they were away.
@@ -38407,6 +38657,7 @@ pull up = 拔起
 注意用法：园艺文字里常见的杂草名。
 
 chicle
+/ˈtʃɪkəl/
 核心：从热带树的乳汁里取的天然胶：早期口香糖就是用它
 做的，今天多被合成胶替代。不可数。
 ① Chewing gum once used chicle and tasted of nothing after a minute.
@@ -38422,6 +38673,7 @@ synthetic = 合成的
 注意用法：口香糖史与材料文字里读到。
 
 chico
+/ˈtʃiːkəʊ/
 核心：西班牙语借词，美式英语里用：指小男孩、小伙子，
 也用作亲切的称呼。多见于美国西南部与拉美语境的对话。
 可数。
@@ -38438,6 +38690,7 @@ chica = 姑娘、小妹（西班牙语借词）
 注意语域：多见于美国西南部与拉美语境。
 
 chicory
+/ˈtʃɪkəri/
 核心：两支，都从同一种植物来。一是菊苣：叶子微苦，
 生吃做沙拉。二是它的根烤过磨粉掺进咖啡，法式咖啡里
 就有。要留意英美对这种菜与 endive 的叫法正好互换。
@@ -38452,6 +38705,7 @@ be blended with = 掺有……
 注意别混：英美对它与 endive 的叫法互换，看产地判断。
 
 chide
+/tʃaɪd/
 核心：责备：轻声但明确地指出对方不该那样，语气比 scold
 温和、比 criticize 更带私人关系的味道。书面语，过去式
 chided，旧式也用 chid。
@@ -38553,6 +38807,7 @@ the commander-in-chief = 总司令、最高统帅
 注意用法：形容词义与构成头衔那一支都很高频。
 
 chiffon
+/ˈʃɪfɒn/
 核心：一种极薄、半透明的织物：丝或化纤织成，柔软飘垂，
 做礼服与围巾。也用来说轻软的口感。不可数。
 ① The dress is silk chiffon over a lining you can barely see.
@@ -38568,6 +38823,7 @@ a chiffon cake = 戚风蛋糕
 注意用法：也用来说轻软的口感。
 
 chigger
+/ˈtʃɪɡə(r)/
 核心：恙螨的幼虫：极小，钻进皮肤引起剧痒的红疙瘩，
 美洲与热带地区常见。可数。
 ① Chiggers left itchy welts around the top of both socks.
@@ -38580,6 +38836,7 @@ wait in = 藏在……里
 注意用法：多见于美洲的户外语境。
 
 chignon
+/ˈʃiːnjɒn/
 核心：发髻：把头发在颈后或后脑盘成的那个低髻，正式场合
 与芭蕾里常见。法语来的词，不照字面读。可数。
 ① She wore her hair in a chignon that survived the whole ceremony.
@@ -38595,6 +38852,7 @@ neat = 利落的
 注意读音：法语来的词，不照字面读。
 
 chihuahua
+/tʃɪˈwɑːwə/
 核心：吉娃娃：世界上最小的犬种之一，眼睛大、耳朵立，
 名字来自墨西哥的一个州。拼写与读音差得远。可数。
 ① The chihuahua barked at everyone from behind its owner's ankles.
@@ -38607,6 +38865,7 @@ weigh under = 重量不到
 注意读音：拼写与读音差得远。
 
 chikungunya
+/ˌtʃɪkənˈɡʌnjə/
 核心：基孔肯雅热：蚊子传播的病毒病，发烧加剧烈关节疼。
 名字来自坦桑尼亚一种语言，意思是弯着身子，形容病人疼得
 直不起腰。不可数。
@@ -38620,6 +38879,7 @@ joint pain = 关节疼
 注意用法：公共卫生文字里读到。
 
 chilblain
+/ˈtʃɪlbleɪn/
 核心：冻疮：手指、脚趾、耳朵受冻后又回暖，皮肤肿红发痒
 的那种小疙瘩。多用复数。可数。
 ① She gets chilblains every winter on the two smallest toes.
@@ -38710,6 +38970,7 @@ child support = 子女扶养费（美式）
 注意别混：childlike 是褒义，childish 说大人一定带贬。
 
 Chilean
+/ˈtʃɪliən/
 核心：智利的、智利人。常规的 -an 构词，国名词尾的 e 保留。可数。
 ① A Chilean writer won the prize and read from the book in Spanish.
 = 一位智利作家得了奖，用西班牙语念了一段书。
@@ -38721,6 +38982,7 @@ Chilean wine = 智利葡萄酒
 注意拼写：跟表示辣椒的 chilli、chili 只差一点，别写混。
 
 chili
+/ˈtʃɪli/
 核心：辣椒的美式主流拼法，英式写 chilli。也指那道
 炖菜，美式菜单上直接说 chili。chili powder 是辣椒粉。
 可数与不可数都有。
@@ -38793,6 +39055,7 @@ take a chill pill = 冷静点（口语）
 注意用法：口语的放松那一支近几十年才有，很常用。
 
 chilli
+/ˈtʃɪli/
 核心：辣椒的英式主流拼法，美式写 chili。指那种小而辣的
 椒，也指辣椒粉与那道辣豆牛肉。复数 chillies。
 ① Deseed the chillies first, and wash your hands before you touch your face.
@@ -38829,6 +39092,7 @@ chime with = 与……相吻合
 注意用法：两个短语动词都很常读到。
 
 chimenea
+/ˌtʃɪmɪˈneɪə/
 核心：陶土做的户外火炉：肚大、上头一根烟囱，摆在院子里
 取暖。来自西班牙语，也拼 chiminea。可数。
 ① They lit the chimenea at dusk and moved the chairs in close.
@@ -38844,6 +39108,7 @@ crack = 开裂
 注意拼写：也写作 chiminea。
 
 chimera
+/kaɪˈmɪərə/
 核心：两支。一是希腊神话里那头狮头羊身蛇尾的怪物，
 所以第二支是引申义，也是今天最常用的一支：根本实现不了
 的幻想。生物学上还指由两套不同细胞组成的个体。形容词
@@ -38959,6 +39224,7 @@ china clay = 高岭土
 注意语域：伦敦土话那一支带旧气。
 
 chinagraph
+/ˈtʃaɪnəɡrɑːf/
 核心：一种蜡质彩色铅笔：能在瓷面、玻璃、胶片、照片上
 写字，擦得掉。英式说法，全称 chinagraph pencil。可数。
 ① Mark the slide with a chinagraph before it goes under the lens.
@@ -38971,6 +39237,7 @@ wipe off = 擦掉
 注意用法：英式说法。
 
 Chinatown
+/ˈtʃaɪnətaʊn/
 核心：唐人街：欧美城市里华人聚居、开店做生意的那一片。多数大城市
 都有一处，说的时候常直接当地名用，前面不加冠词。可数。
 ① They had dinner in Chinatown at a place with no menu in English.
@@ -38983,6 +39250,7 @@ a Chinatown = 一处唐人街
 注意用法：当地名用时前面不加冠词。
 
 chinchilla
+/tʃɪnˈtʃɪlə/
 核心：两支。一是南美安第斯山的一种小型啮齿动物，毛极密
 极软。二是它的毛皮，历史上因此被大量猎捕，今天多是人工
 养殖。
@@ -39016,6 +39284,7 @@ Chinese characters = 汉字
 注意用法：单复数同形；说具体哪一门要写 Mandarin 或 Cantonese。
 
 Chinese cabbage
+/ˌtʃaɪniːz ˈkæbɪdʒ/
 核心：大白菜一类的统称：叶子长、包得松，炒煮腌都行。英美超市里也叫
 Chinese leaf 或按品种叫 napa cabbage、bok choy。可数不可数都行。
 ① Shred the Chinese cabbage finely and salt it for an hour.
@@ -39028,6 +39297,7 @@ keep for weeks = 能存放好几周
 注意用法：同一类菜英美还有好几个名字，超市标签不统一。
 
 Chinese chequers
+/ˌtʃaɪniːz ˈtʃekəz/
 核心：跳棋：六角星形的棋盘，把自己那十颗棋子跳到对面的角里。名字
 其实名不副实 —— 这个游戏是二十世纪初德国人改自美国棋，跟中国无关，
 当年取这个名字是为了好卖。美式拼 Chinese checkers。恒作复数。
@@ -39041,6 +39311,7 @@ take two to six players = 可容两到六人玩
 注意别误信：这个游戏跟中国没有关系，名字是当年的营销手法。
 
 Chinese lantern
+/ˌtʃaɪniːz ˈlæntən/
 核心：两支。一是纸灯笼：竹骨糊纸、里面点烛或装灯，节庆时挂。
 二是一种植物：果实外裹一层橙红色纸质囊，形状像小灯笼，也叫
 physalis。可数。
@@ -39054,6 +39325,7 @@ Chinese lanterns = 灯笼果（植物）
 注意用法：说植物那一支时也叫 physalis。
 
 Chinese whispers
+/ˌtʃaɪniːz ˈwɪspəz/
 核心：传话游戏：一句话在一圈人耳边挨个传下去，传到最后已经面目全非。
 英语里更常拿它比喻消息越传越走样。美式说 telephone 或
 the telephone game。近年因为名字里的族群指称受到质疑，正式文字
@@ -39068,6 +39340,7 @@ Chinese whispers = 消息辗转失真
 注意语域：名字里的族群指称近年受质疑，正式文字多改说别的。
 
 Chinglish
+/ˈtʃɪŋɡlɪʃ/
 核心：中式英语：受汉语影响而不地道的英语，多指公示牌与说明书上那些
 硬译。构词是 Chinese 加 English 各取一段，同一种造法还有 Franglais、
 Spanglish、Singlish。带调侃，说自己的英语时是自嘲，说别人时不礼貌。
@@ -39101,6 +39374,7 @@ chink = 叮当作响
 注意语域：第三个意思极不礼貌，只需认得，不要使用。
 
 chinless
+/ˈtʃɪnləs/
 核心：英式挖苦：字面是下巴后缩的，用来说人显得软弱、
 没主张。固定说法 chinless wonder 骂的是出身好、有关系
 却没本事的年轻男子。带阶级嘲讽。
@@ -39114,6 +39388,7 @@ a chinless wonder = 有背景却没本事的年轻人
 注意语域：英式挖苦，带阶级嘲讽。
 
 chinoiserie
+/ʃɪnˈwɑːzəri/
 核心：中国风：十七八世纪欧洲装饰艺术里模仿中式题材的那
 种风格，瓷器、壁纸、家具上的宝塔、龙、亭子都是。法语
 来的词。不可数。
@@ -39130,6 +39405,7 @@ wallpaper = 壁纸
 注意用法：艺术史与室内设计里的词。
 
 chinook
+/tʃɪˈnuːk/
 核心：两支。一是落基山东侧那种又干又暖的下坡风：冬天
 一吹，气温几小时内能升好几十度，雪迅速融掉。二是太平洋
 的大鳞鲑。可数。
@@ -39143,6 +39419,7 @@ chinook salmon = 大鳞鲑
 注意用法：气象与渔业两处都读得到。
 
 chinos
+/ˈtʃiːnəʊz/
 核心：斜纹棉布做的休闲长裤：介于西裤与牛仔裤之间，
 米色最常见。永远用复数，说一条用 a pair of chinos。
 ① He wore beige chinos and the same shirt three days running.
@@ -39158,6 +39435,7 @@ crease = 起皱
 注意用法：永远用复数。
 
 chintz
+/tʃɪnts/
 核心：一种印花棉布：亮面、多是繁密的花卉图案，做窗帘与
 沙发套，是英式乡村住宅的标志花色。形容词 chintzy 有
 两义：花哨得俗气的，以及美式口语的小气廉价。不可数。
@@ -39174,6 +39452,7 @@ chintzy = 花哨俗气的；也指小气廉价的
 注意用法：形容词的两个意思英美各偏一个。
 
 chinwag
+/ˈtʃɪnwæɡ/
 核心：英式口语：闲聊、聊一会儿，多说 have a chinwag。
 带轻松亲切的口气。可数。
 ① We had a good chinwag on the doorstep and forgot the shopping.
@@ -39242,6 +39521,7 @@ a chip shot = 高尔夫的挑击
 注意别混：英式 chips 是薯条，美式 chips 是薯片。
 
 chipboard
+/ˈtʃɪpbɔːd/
 核心：刨花板：把木屑碎料加胶热压成的板材，便宜、不耐水，
 多用在家具背板与地板垫层。不可数。
 ① The shelves are chipboard and sag in the middle after a year.
@@ -39254,6 +39534,7 @@ swell = 胀起
 注意用法：美式多说 particle board。
 
 chipmunk
+/ˈtʃɪpmʌŋk/
 核心：北美的花鼠：背上几道黑白纵纹，两颊能塞满食物，
 在地下打洞储粮。可数。
 ① A chipmunk darted across the path with both cheeks full.
@@ -39266,6 +39547,7 @@ store = 储存
 注意别混：松鼠背上没有那几道纵纹。
 
 chipolata
+/ˌtʃɪpəˈlɑːtə/
 核心：细而短的小香肠：英式圣诞餐桌上常见，也用来配早餐。
 名字来自意大利语一道洋葱菜。可数。
 ① Wrap the chipolatas in bacon and turn them once halfway.
@@ -39281,6 +39563,7 @@ tray = 托盘
 注意用法：英式节庆餐桌上常见。
 
 chipotle
+/tʃɪˈpəʊtleɪ/
 核心：熏干的墨西哥辣椒：把成熟的辣椒烟熏晒干，味道辣里
 带浓烟熏香，常泡在酱里装罐。
 ① Add a spoon of chipotle paste and taste before you add salt.
@@ -39296,6 +39579,7 @@ tinned = 装罐的
 注意用法：味道的重点是烟熏，不只是辣。
 
 Chippendale
+/ˈtʃɪpəndeɪl/
 核心：奇彭代尔式：十八世纪英国家具的一种风格，得名于家具匠奇彭代尔
 出的那本图样册。特点是椅背镂空、腿部带球爪脚，用桃花心木。作定语
 最常见。
@@ -39309,6 +39593,7 @@ Chippendale designs = 奇彭代尔式设计
 注意用法：说的是风格，不一定出自他本人的作坊。
 
 chipper
+/ˈtʃɪpə(r)/
 核心：两支。一是形容词：精神好、兴致高，多说人病后或
 早晨的状态，口语，偏美式。二是名词：碎木机，把树枝打成
 碎屑的那种机器。
@@ -39325,6 +39610,7 @@ a chipper = 碎木机
 注意语域：形容词是口语，偏美式。
 
 chippings
+/ˈtʃɪpɪŋz/
 核心：碎石屑：铺路时撒在沥青上的那层小石子，
 loose chippings 是英国路边常见的警示牌。也指木屑。
 永远用复数。
@@ -39341,6 +39627,7 @@ bark chippings = 树皮碎屑
 注意用法：永远用复数。
 
 chippy
+/ˈtʃɪpi/
 核心：两支，都是英式口语。一是名词：炸鱼薯条店。二是
 形容词：一碰就翻脸、爱较劲的，跟那个「心里存着不平之
 气」的习语同源。可数。
@@ -39357,6 +39644,7 @@ tone = 口气
 注意语域：两义都是英式口语。
 
 chiromancy
+/ˈkaɪərəʊmænsi/
 核心：手相术：看手掌纹路推命的那套做法。看手相的人是
 chiromancer。书面与旧文里用，日常多说 palmistry。
 不可数。
@@ -39370,6 +39658,7 @@ a chiromancer = 看手相的人
 注意用法：日常多说 palmistry。
 
 chiropody
+/kɪˈrɒpədi/
 核心：足病诊疗：治脚上的病，趾甲、老茧、足弓问题都在这
 一科。做这行的是 chiropodist。英式说法，今天正式名称多
 改成 podiatry。不可数。
@@ -39383,6 +39672,7 @@ a chiropodist = 足病医师
 注意用法：今天正式名称多说 podiatry。
 
 chiropractic
+/ˌkaɪərəʊˈpræktɪk/
 核心：脊椎推拿疗法：靠手法调整脊柱关节来治疼痛的一套
 做法。做这行的是 chiropractor。不可数。
 ① He tried chiropractic for his back after the pills stopped working.
@@ -39421,6 +39711,7 @@ chirpiness = 活泼开心
 注意语域：chirpy 在英式口语里很常用。
 
 chirrup
+/ˈtʃɪrəp/
 核心：比单声的短叫更连续、更起伏的一串鸣叫：鸟与蟋蟀都
 用；也指人对马或婴儿发出的那种逗弄声。动词与名词同形。
 可数。
@@ -39481,6 +39772,7 @@ chit-chat = 寒暄闲聊
 注意语域：第二支带旧气与轻蔑。
 
 chitterlings
+/ˈtʃɪtəlɪŋz/
 核心：猪的小肠洗净后炖或炸着吃：美国南方与英国旧时的
 家常菜，美式口语缩成 chitlins。永远用复数。
 ① Chitterlings need hours of cleaning before they go anywhere near a pot.
@@ -39496,6 +39788,7 @@ chitlins = 猪小肠（口语缩写）
 注意用法：永远用复数。
 
 chivalry
+/ˈʃɪvəlri/
 核心：两支。一是中世纪的骑士制度与那套准则：勇敢、忠诚、
 护弱。二是引申到今天：男子对女子彬彬有礼、主动照顾的
 举动，也有人认为这套观念本身过时。形容词 chivalrous，
@@ -39549,6 +39842,7 @@ chivvy somebody into = 催着某人做某事
 注意语域：英式口语，带一点烦人的意味。
 
 chlamydia
+/kləˈmɪdiə/
 核心：一类细菌，也指它引起的性传播感染：常见、往往没有
 症状，不治会伤生育能力。公共卫生文字里常见。不可数。
 ① Chlamydia often has no symptoms, so it is found at a routine screen.
@@ -39580,6 +39874,7 @@ dissolve = 溶解
 注意别混：氯化物是化合物，氯本身是元素。
 
 chlorine
+/ˈklɔːriːn/
 核心：氯：黄绿色的有毒气体，符号 Cl，用来消毒自来水与
 泳池，也是化工原料。动词 chlorinate 是加氯消毒，名词
 chlorination。不可数。
@@ -39596,6 +39891,7 @@ chlorination = 加氯消毒处理
 注意别混：氯是元素，氯化物是它的化合物。
 
 chlorofluorocarbon
+/ˌklɔːrəʊˈflʊərəʊkɑːbən/
 核心：氟氯烃：从前用作制冷剂与喷雾推进剂的一类化合物，
 因为破坏臭氧层，国际公约之后被逐步淘汰。读写都常用缩写
 形式。可数。
@@ -39612,6 +39908,7 @@ contain = 含有
 注意用法：读写都常用缩写形式。
 
 chloroform
+/ˈklɒrəfɔːm/
 核心：三氯甲烷：一种无色带甜味的液体，从前当麻醉剂用，
 因毒性早已停用；小说与电影里常出现用它把人迷倒的情节。
 动词是用它迷倒。不可数。
@@ -39628,6 +39925,7 @@ no longer = 不再
 注意用法：迷倒那一支多出现在小说与电影里。
 
 chlorophyll
+/ˈklɒrəfɪl/
 核心：叶绿素：让植物呈绿色的色素，靠它把光变成化学能。
 装着它的那个细胞器叫 chloroplast。不可数。
 ① Chlorophyll makes leaves green and drains away before they turn.
@@ -39643,6 +39941,7 @@ a chloroplast = 叶绿体
 注意用法：生物课本里的基本词。
 
 choc
+/tʃɒk/
 核心：英式口语：巧克力的截短，也指一块巧克力糖。
 choccy 是更亲昵的儿语式说法。可数。
 ① Have a choc — there is a whole tin of them nobody has touched.
@@ -39661,6 +39960,7 @@ a choc ice = 裹巧克力的雪糕（英式）
 注意语域：英式口语。
 
 chocoholic
+/ˌtʃɒkəˈhɒlɪk/
 核心：戏称爱巧克力爱到停不下来的人。也拼 chocaholic。
 这类词是照表示酗酒者那个词的尾巴造的，一律带玩笑口气，
 不是医学说法。可数。
@@ -39704,6 +40004,7 @@ drinking chocolate = 冲泡用的热巧克力粉（英式）
 注意用法：说材料时不可数。
 
 Choctaw
+/ˈtʃɒktɔː/
 核心：乔克托人：北美东南部的原住民族群，也指他们的语言。十九世纪
 被迫西迁，是最早走那条路的族群之一。二战时他们的语言被用作密码。
 单复数同形。
@@ -39825,6 +40126,7 @@ choke up = 哽住说不出话
 注意用法：掉链子那一支在体育报道里很常读到。
 
 chola
+/ˈtʃəʊlə/
 核心：美国西南部与墨西哥语境里的西班牙语借词：指有
 奇卡诺文化背景的年轻女子，尤指妆容与穿着风格鲜明的。
 男性对应词是 cholo。圈内可以是带自豪的自称，外人用
@@ -39856,6 +40158,7 @@ rehydration = 补液
 注意用法：公共卫生与历史文字里常见。
 
 choleric
+/ˈkɒlərɪk/
 核心：易怒的、动不动就发火的：书面语，带旧气，出自古代
 的四体液学说，认为黄胆汁多的人脾气暴。今天多用来形容
 脾气坏的老派人物。
@@ -39886,6 +40189,7 @@ not all bad = 并非全坏
 注意用法：体检与健康报道里极常见。
 
 cholo
+/ˈtʃəʊləʊ/
 核心：西班牙语借词，美式英语里用：指有奇卡诺文化背景的
 年轻男子，尤指穿着与举止风格鲜明的；在一些语境里也被
 用作对拉美裔的贬称。女性对应词是 chola。可数。
@@ -39919,6 +40223,7 @@ chomp at the bit = 急不可待
 注意用法：跟 champ 通用，这个今天更常见。
 
 choo-choo
+/ˈtʃuː tʃuː/
 核心：儿语里的火车：拟声词，模仿旧式蒸汽机车喷气的声音。
 只用在跟小孩说话时。可数。
 ① Look at the choo-choo going over the bridge!
@@ -40013,6 +40318,7 @@ chop suey = 杂碎（美式中餐菜名）
 注意用法：被砍掉那一支是英式口语。
 
 chopper
+/ˈtʃɒpə(r)/
 核心：三支。一是斧头与剁刀：厨房里剁骨头那把宽刃刀。
 二是口语的直升机，美式尤其常用。三是那种高把手、长前叉
 的改装摩托车。可数。
@@ -40029,6 +40335,7 @@ a chopper = 高把改装摩托车
 注意语域：直升机那一支是口语。
 
 chopstick
+/ˈtʃɒpstɪk/
 核心：筷子：东亚吃饭用的那一对细棍，永远成对说。可数。
 ① He eats with chopsticks and holds them halfway down.
 = 他用筷子吃饭，握在中段。
@@ -40043,6 +40350,7 @@ take practice = 需要练习
 注意用法：成对说，多用复数。
 
 choral
+/ˈkɔːrəl/
 核心：合唱的：为合唱队写的、由合唱队唱的。只作定语，
 副词 chorally。
 ① They sang choral music written for a building with a long echo.
@@ -40107,6 +40415,7 @@ after school = 放学后
 注意用法：多用复数说家务。
 
 chorea
+/kɒˈrɪə/
 核心：舞蹈症：一类不受控制的抽动动作，肢体像被牵着乱甩，
 名字就来自动作像跳舞。医学术语。不可数。
 ① Chorea causes jerky movements that the person cannot suppress.
@@ -40119,6 +40428,7 @@ be inherited = 遗传得来
 注意用法：医学术语。
 
 choreography
+/ˌkɒriˈɒɡrəfi/
 核心：舞蹈编排：把动作与队形设计出来，也指编出来的那套
 动作。动词 choreograph 是编舞，也引申成精心安排一件
 公开场合的事，这个引申义在政治报道里常见；编舞的人是
@@ -40142,6 +40452,7 @@ choreographic = 编舞的
 注意用法：精心安排那个引申义在政治报道里常见。
 
 choric
+/ˈkɒrɪk/
 核心：像古希腊戏剧里合唱队那样的：文学批评里说某个角色
 起 choric 作用，指他像旁观的合唱队一样替观众说话、
 点评剧情。术语。
@@ -40155,6 +40466,7 @@ comment on = 点评
 注意用法：文学批评里的术语。
 
 chorister
+/ˈkɒrɪstə(r)/
 核心：唱诗班成员，尤指教堂唱诗班里的男童或少年。英式多
 指童声部成员，美式也泛指合唱团成员。可数。
 ① The choristers filed in two by two with their hands behind them.
@@ -40170,6 +40482,7 @@ rehearse = 排练
 注意用法：英式多指童声部成员。
 
 chorizo
+/tʃəˈriːzəʊ/
 核心：西班牙与葡萄牙的红肠：猪肉加甜椒粉与蒜灌成，
 颜色红、味道带烟熏辣。
 ① Slice the chorizo thinly and let the fat come out in the pan.
@@ -40185,6 +40498,7 @@ need cooking = 需要煮熟
 注意别混：西班牙的多是干肠可直接切片，墨西哥的是生肠。
 
 chortle
+/ˈtʃɔːtəl/
 核心：得意而快活地笑出声：常带一点看别人倒霉的意味。
 动词与名词同形。这个词是《爱丽丝》的作者造出来的，
 由表示低声笑与喷鼻息的两个词拼成。可数。
@@ -40231,6 +40545,7 @@ a chorus line = 一字排开的歌舞队
 注意用法：副歌与众口一声两支最常读到。
 
 chough
+/tʃʌf/
 核心：一种黑羽的乌鸦科鸟：喙与腿是红或黄的，住在海崖
 与山上。词尾读起来像 chuff。可数。
 ① Choughs nest on the cliffs and drop out of sight in one movement.
@@ -40246,6 +40561,7 @@ return to = 回到
 注意读音：词尾读起来像 chuff。
 
 chow
+/tʃaʊ/
 核心：三支。一是口语的吃的、饭食，chow down 是美式口语
 的开吃。二是中国松狮犬，全称 chow chow。三是 chow mein
 炒面，这个音出自汉语方言。
@@ -40265,6 +40581,7 @@ chow mein = 炒面
 注意语域：吃的那一支是口语。
 
 chowder
+/ˈtʃaʊdə(r)/
 核心：一种浓稠的汤：奶油底加海鲜或玉米与土豆，
 clam chowder 蛤蜊浓汤是新英格兰名菜。美式常用。
 chowderhead 是美式旧俚语的糊涂蛋。不可数。
@@ -40281,6 +40598,7 @@ a chowderhead = 糊涂蛋（美式旧俚语）
 注意用法：美式常用，尤其新英格兰。
 
 Chrimbo
+/ˈkrɪmbəʊ/
 核心：圣诞节的英式口语昵称，轻快随便，多用在短信与闲聊里，正式
 文字绝不用。也拼 Crimbo，两种写法都常见。不可数。
 ① See you after Chrimbo, and bring the ladder back.
@@ -40293,6 +40611,7 @@ a Chrimbo dinner = 圣诞大餐
 注意语域：英式口语，正式文字写 Christmas。
 
 Chrissake
+/ˈkraɪseɪk/
 核心：只出现在一个感叹里：for Chrissake，表示不耐烦或恼火，
 相当于「天哪、拜托」。由 for Christ's sake 磨损而成，因为提到基督
 之名，虔诚的人听着会不舒服。也拼 Chrissakes。
@@ -40324,6 +40643,7 @@ Christ = 天哪（不耐烦的感叹）
 注意语域：作感叹用时是轻慢圣名，正式与宗教场合都要避开。
 
 christen
+/ˈkrɪsən/
 核心：三支。一是给婴儿施洗并起教名。二是引申的命名：
 给船、给建筑起名，尤指正式的落成命名。三是口语的开张
 使用：新锅新壶第一次用。名词 christening 是洗礼仪式。
@@ -40343,6 +40663,7 @@ a christening = 洗礼仪式
 注意用法：开张使用那一支是轻松口语。
 
 Christendom
+/ˈkrɪsəndəm/
 核心：基督教世界：信奉基督教的那些国家与人的总称，尤指中世纪那个
 以教会为共同框架的欧洲。今天多用于历史与文化论述，说现代世界一般
 不用它。不可数。
@@ -40373,6 +40694,7 @@ very Christian of you = 你真厚道
 注意用法：第三个义是引申的褒奖，有时带调侃。
 
 Christian name
+/ˈkrɪstʃən neɪm/
 核心：教名：受洗时取的名字，也就是姓之前的那个名。今天英语世界
 表格上多改说 first name 或 given name —— 因为不是人人都是基督徒，
 这个说法带宗教预设。读到要认得，填表时用中性说法。可数。
@@ -40421,6 +40743,7 @@ over Christmas = 整个圣诞期间
 注意搭配：说节期用 at，说那一天用 on Christmas Day。
 
 Christmas box
+/ˈkrɪsməs bɒks/
 核心：英式旧俗：圣诞前后给邮递员、清洁工这类常来服务的人的一笔
 赏钱或小礼。十二月二十六日的 Boxing Day 就是由这个习俗得名的。可数。
 ① They still give the postman a Christmas box and he still refuses it twice.
@@ -40433,6 +40756,7 @@ Christmas boxes = 圣诞赏钱（复数）
 注意用法：Boxing Day 这个节名就是由它来的。
 
 Christmas cake
+/ˈkrɪsməs keɪk/
 核心：圣诞蛋糕：果干重糖的深色蛋糕，外面裹一层杏仁糖膏再覆白色
 糖霜。要提前几周做好，隔一阵往里浇一次白兰地养着。不可数居多。
 ① She feeds the Christmas cake with brandy every week from October.
@@ -40445,6 +40769,7 @@ a Christmas cake = 圣诞蛋糕
 注意用法：跟 Christmas pudding 分开：那个是蒸的，这个是烤的。
 
 Christmas card
+/ˈkrɪsməs kɑːd/
 核心：圣诞贺卡：圣诞前寄给亲友的卡片，英语世界的老习惯。派生说法
 on somebody's Christmas card list 是「跟某人还有来往」，反过来说
 not on my Christmas card list 就是「跟这人合不来」。可数。
@@ -40458,6 +40783,7 @@ not on somebody's Christmas card list = 跟某人合不来
 注意用法：那个「贺卡名单」的说法是常用的委婉表达。
 
 Christmas carol
+/ˌkrɪsməs ˈkærəl/
 核心：圣诞颂歌：圣诞期间唱的宗教歌曲，挨家挨户去唱叫 carol singing
 或 go carolling。狄更斯那本小说也用这个名字。可数。
 ① The choir sang three Christmas carols and one nobody knew.
@@ -40470,6 +40796,7 @@ sing Christmas carols = 唱圣诞颂歌
 注意用法：挨家挨户唱那件事说 carol singing。
 
 Christmas cracker
+/ˌkrɪsməs ˈkrækə(r)/
 核心：圣诞拉炮：一个纸筒，两人各拉一头，啪一声炸开，里面掉出纸帽、
 小玩意和一张冷笑话纸条。英国圣诞餐桌上人人一个。引申里说某样东西
 not much of a cracker 就是说它不怎么样。可数。
@@ -40483,6 +40810,7 @@ a Christmas cracker = 圣诞拉炮
 注意用法：英国特有，别的国家的圣诞餐桌上没有。
 
 Christmas pudding
+/ˌkrɪsməs ˈpʊdɪŋ/
 核心：圣诞布丁：果干、香料与板油做的深色蒸布丁，圣诞正餐最后端上来，
 上桌前浇白兰地点火。也叫 plum pudding，虽然里面并没有李子。不可数
 居多。
@@ -40496,6 +40824,7 @@ set something alight = 把某物点着
 注意别误信：别名里的 plum 是旧义的「果干」，不是李子。
 
 Christmas stocking
+/ˌkrɪsməs ˈstɒkɪŋ/
 核心：圣诞袜：孩子在圣诞前夜挂起来、等着第二天早上装满小礼物的
 长袜。派生说法 a stocking filler 指往里塞的那种小礼物。可数。
 ① They hung their Christmas stockings by the fire and argued about whose was whose.
@@ -40508,6 +40837,7 @@ a Christmas stocking = 圣诞袜
 注意用法：往里塞的小礼物叫 stocking filler。
 
 Christmas tree
+/ˈkrɪsməs triː/
 核心：圣诞树：摆在屋里挂满灯饰的常绿树，真树假树都有。这个习俗
 十九世纪从德国传进英国，此后成了圣诞的头号标志。引申里也说
 a Christmas tree 指挂满东西、花花绿绿的一样东西。可数。
@@ -40521,6 +40851,7 @@ like a Christmas tree = 亮得花花绿绿
 注意用法：比喻里说「灯全亮了」最常用它。
 
 Christmassy
+/ˈkrɪsməsi/
 核心：有圣诞气氛的：说布置、音乐、心情让人觉得像过圣诞。口语用词，
 多带暖意。也拼 Christmasy，但双写 s 那个更常见。
 ① The shop looks very Christmassy and has done since October.
@@ -40533,6 +40864,7 @@ feel Christmassy = 有过节的心情
 注意拼写：双写 s 的这个写法更常见。
 
 Christmastime
+/ˈkrɪsməstaɪm/
 核心：圣诞期间：圣诞前后那一段日子，不只是那一天。偏文雅与怀旧，
 日常多直接说 at Christmas。也分写成 Christmas time。不可数。
 ① The village looks its best at Christmastime and empties in January.
@@ -40545,6 +40877,7 @@ Christmastime = 圣诞期间
 注意语域：偏文雅怀旧，日常说 at Christmas。
 
 chroma
+/ˈkrəʊmə/
 核心：色彩的饱和度：说一个颜色有多纯、多鲜，跟明度与
 色相并列，是描述颜色的三个维度之一。影视技术里的
 chromakey 就是靠单一色背景抠像，绿幕蓝幕用的就是它。
@@ -40562,6 +40895,7 @@ chromakey = 色键抠像
 注意用法：色彩学与影视技术里的词。
 
 chromatic
+/krəˈmætɪk/
 核心：两支。一是音乐上的半音的：the chromatic scale 是
 十二个半音的音阶，跟只有七个音的自然音阶相对。二是光学
 与色彩上的有颜色的，chromatic aberration 是色差。
@@ -40578,6 +40912,7 @@ chromatic aberration = 色差
 注意用法：音乐义与光学义都常读到。
 
 chromatography
+/ˌkrəʊməˈtɒɡrəfi/
 核心：色谱法：把混合物里的成分按在介质上移动快慢分开的
 分析方法，实验室里检测成分靠它。形容词
 chromatographic。不可数。
@@ -40616,6 +40951,7 @@ chrome yellow = 铬黄
 注意别混：元素本身叫 chromium。
 
 chromium
+/ˈkrəʊmiəm/
 核心：铬：银白色的硬金属，符号 Cr，用来镀层与做不锈钢。
 它的镀层与色泽日常说 chrome。不可数。
 ① Chromium resists corrosion, which is why taps keep their shine for decades.
@@ -40691,6 +41027,7 @@ a chronicler = 编年史作者
 注意用法：动词义在书评与传记里常读到。
 
 chronograph
+/ˈkrɒnəɡrɑːf/
 核心：能计时的表：除了走时还带秒表功能，按一下开始计一段
 时间，表盘上多几个小盘。钟表语境里的词。可数。
 ① He wears a chronograph and has never once timed anything with it.
@@ -40706,6 +41043,7 @@ dial = 表盘
 注意用法：钟表语境里的词。
 
 chronology
+/krəˈnɒlədʒi/
 核心：两支。一是年代顺序：事情先后的排列。二是编好的
 年表：一份按时间列出来的清单。形容词 chronological，
 副词 chronologically；in chronological order 是极高频的
@@ -40726,6 +41064,7 @@ chronologically = 按时间顺序
 注意用法：那个固定说法极高频。
 
 chronometer
+/krəˈnɒmɪtə(r)/
 核心：走时极准的计时器：本指航海上用来定经度的那种精密
 钟，今天也用作钟表业的认证名号，通过特定精度检测的表才
 能这么标。可数。
@@ -40742,6 +41081,7 @@ be certified as = 被认证为
 注意用法：钟表业里是个有标准的名号。
 
 chrysalis
+/ˈkrɪsəlɪs/
 核心：蛹：蝶蛾从幼虫变成成虫之间那个不动的硬壳阶段，
 也指那层壳。比喻义指某样东西还没成形、正在酝酿。复数
 chrysalises 或 chrysalides。可数。
@@ -40758,6 +41098,7 @@ in chrysalis = 还没成形、在酝酿中
 注意别混：蛾多结茧 cocoon，蝶多是裸蛹。
 
 chrysanthemum
+/krɪˈsænθəməm/
 核心：菊花：秋天开的花，花瓣密而多层，园艺品种极多。
 口语常缩短，美式的 mums 就指菊花。可数。
 ① Chrysanthemums flower in autumn and stand up to the first frosts.
@@ -40770,6 +41111,7 @@ show = 参展用的
 注意用法：口语常用缩短形式。
 
 chub
+/tʃʌb/
 核心：欧洲淡水里的一种鲤科鱼：身子粗、鳞大，垂钓常见。
 单复数同形。可数。
 ① He caught a chub below the weir on a piece of bread.
@@ -40891,6 +41233,7 @@ a chugger = 街头拦人劝捐的募款员（英式）
 注意语域：喝光那一支是美式口语。
 
 chukka
+/ˈtʃʌkə/
 核心：两支。一是马球比赛的一节：一场分若干节，每节
 七分半钟，也拼 chukker。二是 chukka boot：踝高、两三对
 鞋眼的短靴，本是马球手穿的。可数。
@@ -40928,6 +41271,7 @@ chumminess = 过分的亲热
 注意语域：带旧气，今天多半开玩笑地用。
 
 chump
+/tʃʌmp/
 核心：两支。一是口语的傻瓜、容易被骗的人，语气比 fool
 轻，带调笑。二是短而粗的一块：chump chop 是羊腿上端那
 块厚排。英式习语 off your chump 是脑子不清楚了。可数。
@@ -40974,6 +41318,7 @@ chunky = 粗厚的；块状的；壮实的
 注意用法：说比例的那一支很常读到。
 
 chunter
+/ˈtʃʌntə(r)/
 核心：英式口语：低声不停地嘟囔抱怨，多说 chunter on 或
 chunter away。带一点嫌它啰嗦的意味。
 ① He chuntered on about the delay for the whole of the journey.
@@ -41031,6 +41376,7 @@ a churchwoman = 教会里的女性
 注意用法：go to church 不加冠词，说的是做礼拜。
 
 churl
+/tʃɜːl/
 核心：脾气坏、待人不客气的人：今天几乎只以形容词
 churlish 出现，说人小气、不识好、连句谢都没有；副词
 churlishly，名词 churlishness。本义是中世纪的自由农民。
@@ -41092,6 +41438,7 @@ a chute = 降落伞（口语截短）
 注意别混：跟 shoot 同音，拼法不同。
 
 chutney
+/ˈtʃʌtni/
 核心：酸甜带辣的佐餐酱：果蔬加糖、醋与香料熬成，配咖喱、
 冷肉与奶酪吃。这个词经印度进英语，今天已是通用英语词。
 不可数。
@@ -41108,6 +41455,7 @@ go well with = 与……相配
 注意用法：今天已是通用英语词。
 
 chutzpah
+/ˈhʊtspə/
 核心：胆大脸厚：明明没道理还敢这么做、这么要求，说的是
 那种让人又气又佩服的放胆。意第绪语来的词，褒贬都有。
 不可数。
@@ -41124,6 +41472,7 @@ show chutzpah = 表现出那种放胆
 注意语域：褒贬都有，多带一点佩服。
 
 ciabatta
+/tʃəˈbætə/
 核心：意大利的一种白面包：面团含水量高，烤出来外壳脆、
 内部孔洞大，形状扁长像拖鞋，名字就是拖鞋。
 ① Toast the ciabatta lightly and rub a cut clove of garlic over it.
@@ -41152,6 +41501,7 @@ wave = 挥手
 注意语域：轻松随便，正式场合不用。
 
 cicada
+/sɪˈkɑːdə/
 核心：蝉：夏天在树上鸣叫的昆虫，雄虫靠腹部的发声器发出
 持续的高频叫声。有几种要在地下待十几年才出土。复数
 cicadas 或 cicadae。可数。
@@ -41243,6 +41593,7 @@ cigarette paper = 卷烟纸
 注意别混：英式口语那个三字母缩写在美式里是侮辱语，别混用。
 
 ciggy
+/ˈsɪɡi/
 核心：英式口语的香烟：把整词掐短再加个亲昵尾巴，带轻松
 随便的口气。也拼 ciggie。可数。
 ① Fancy a ciggy before the second half starts?
@@ -41255,6 +41606,7 @@ roll = 卷（烟）
 注意语域：英式口语。
 
 cilantro
+/sɪˈlæntrəʊ/
 核心：美式对香菜叶的叫法：英式把叶与籽都叫 coriander，
 美式把叶叫 cilantro、籽叫 coriander。写食谱时这个分别
 常出问题。不可数。
@@ -41268,6 +41620,7 @@ divide opinion = 让人意见两极
 注意别混：美式叶叫 cilantro、籽叫 coriander。
 
 cimbalom
+/ˈsɪmbələm/
 核心：匈牙利的扬琴：架在支腿上的大型击弦乐器，用两根
 小槌敲，匈牙利与罗姆音乐里的标志乐器。可数。
 ① The cimbalom led the band and the fiddles followed a beat behind.
@@ -41283,6 +41636,7 @@ write for = 为……写作品
 注意用法：中欧民间音乐里的乐器名。
 
 cinch
+/sɪntʃ/
 核心：两支。一是口语的轻而易举的事，也说十拿九稳。
 二是美式的马肚带：把鞍固定在马身上的那条带，动词是
 勒紧、系牢。可数。
@@ -41299,6 +41653,7 @@ a cinch = 马肚带（美式）
 注意语域：轻而易举那一支是口语。
 
 cinder
+/ˈsɪndə(r)/
 核心：燃烧后剩下的渣块：还没烧透、不再有火焰的那种。
 多用复数。burnt to a cinder 是烧焦了、烤糊了。可数。
 ① Rake out the cinders before you lay the fire for the following morning.
@@ -41317,6 +41672,7 @@ a cinder block = 煤渣混凝土砌块（美式）
 注意别混：ash 是烧尽的灰，这个是没烧透的渣块。
 
 Cinderella
+/ˌsɪndəˈrelə/
 核心：由童话人物引申出的普通名词：长期被冷落、得不到资源的人或
 事物。最常搭 a Cinderella service、the Cinderella of，说某个领域
 没人重视。也说灰姑娘式的翻身故事。可数。
@@ -41330,6 +41686,7 @@ a Cinderella run = 黑马般的一路闯关
 注意用法：两个引申义，一个说受冷落，一个说意外翻身。
 
 cine
+/ˈsɪni/
 核心：作定语的旧式说法，指跟电影摄制有关的：
 a cine camera 是电影摄影机，cine film 是电影胶片。
 今天带旧气，多出现在胶片时代与家庭录像的语境里。
@@ -41343,6 +41700,7 @@ develop = 冲洗
 注意语域：带旧气，多用于胶片时代的语境。
 
 cineaste
+/ˈsɪniæst/
 核心：影迷、电影行家：认真看电影、懂电影史的那种人，
 带一点行家的意味。同义的 cinephile 更强调痴迷。法语来的
 词，也拼 cineast。可数。
@@ -41381,6 +41739,7 @@ cinéma-vérité = 真实电影（纪实风格）
 注意用法：英式说 cinema，美式日常说 the movies。
 
 cinematography
+/ˌsɪnɪməˈtɒɡrəfi/
 核心：电影摄影：镜头、构图、打光这一整套怎么拍的活儿。
 做这行的是 cinematographer，也就是摄影指导；形容词
 cinematographic。不可数。
@@ -41397,6 +41756,7 @@ cinematographic = 电影摄影的
 注意别混：它说的是怎么拍，不是拍什么。
 
 cinnabar
+/ˈsɪnəbɑː(r)/
 核心：朱砂：红色的汞矿石，是提炼汞的主要矿，也磨成古代
 最重要的红色颜料。也指那种朱红色。不可数。
 ① Cinnabar is the chief ore of mercury and was mined by prisoners.
@@ -41412,6 +41772,7 @@ cinnabar = 朱红色
 注意用法：矿物学与颜料史里的词。
 
 cinnamon
+/ˈsɪnəmən/
 核心：肉桂：樟科树的内层树皮，卷成筒晒干，磨粉做香料，
 味道甜辛。也指那种浅红棕色。不可数。
 ① Add a stick of cinnamon to the pot and fish it out before serving.
@@ -41427,6 +41788,7 @@ cinnamon = 肉桂色
 注意用法：也可以当颜色词用。
 
 cipher
+/ˈsaɪfə(r)/
 核心：三支。一是密码体系：把明文按规则变成看不懂的字符。
 二是数字零，旧义。三是引申指没有分量的人：徒有其位的
 角色。动词是加密。英式也拼 cypher。可数。
@@ -41443,6 +41805,7 @@ a cipher = 徒有其位、没有分量的人
 注意别混：code 多是替换整词，这个多是按字符变换。
 
 circa
+/ˈsɜːkə/
 核心：拉丁语的大约，只用在年份与数字前，表示日期不确定。
 书面语，常缩写成 c. 或 ca.。
 ① The house dates from circa 1700 and nobody can narrow it further.
@@ -41455,6 +41818,7 @@ c. = circa 的缩写
 注意用法：只用于年份与数字，不修饰别的词。
 
 circadian
+/sɜːˈkeɪdiən/
 核心：生物钟的：说身体里那套大约二十四小时一轮的节律，
 circadian rhythm 是昼夜节律，倒时差就是它被打乱。只作
 定语。
@@ -41612,6 +41976,7 @@ circulatory = 循环系统的
 注意用法：发行量那一支在媒体报道里常读到。
 
 circumcise
+/ˈsɜːkəmsaɪz/
 核心：割除包皮：这项手术出于宗教、文化或医学理由。名词
 circumcision。宗教、文化与医学三个语境里都读得到。
 ① The boy was circumcised at eight days with the family looking on.
@@ -41624,6 +41989,7 @@ circumcision = 包皮环切、割礼
 注意用法：三个语境里都读得到。
 
 circumference
+/səˈkʌmfərəns/
 核心：圆周：绕圆一周的那条线，也指那条线的长度；也用于
 球体与树干的周长。跟直径、半径成套。可数。
 ① Measure the circumference of the trunk at chest height, not at the root.
@@ -41639,6 +42005,7 @@ walk the circumference = 绕一周走
 注意别混：周长是这个词，直径是 diameter。
 
 circumflex
+/ˈsɜːkəmfleks/
 核心：字母上方那个尖顶符号，法语里用得最多；也指语音学上
 先升后降的调。排版与语言学里的词。可数。
 ① The French word for island takes a circumflex over the first vowel.
@@ -41654,6 +42021,7 @@ vowel = 元音
 注意用法：排版与语言学里的词。
 
 circumlocution
+/ˌsɜːkəmləˈkjuːʃən/
 核心：绕着说：不直说，用一堆话兜圈子。带贬义，多用来
 批评官样文章与推托。
 ① The report is full of circumlocution and never says who decided.
@@ -41669,6 +42037,7 @@ beat = 胜过
 注意语域：带贬义，多批评官样文章。
 
 circumnavigate
+/ˌsɜːkəmˈnævɪɡeɪt/
 核心：环航：坐船或坐飞机绕地球或绕某片水域走一整圈。
 名词 circumnavigation。也戏用来说绕着某个话题兜圈子。
 ① They circumnavigated the globe in a boat built for two.
@@ -41684,6 +42053,7 @@ circumnavigate = 绕开、兜圈子（戏用）
 注意用法：戏用义靠语境认。
 
 circumscribe
+/ˈsɜːkəmskraɪb/
 核心：两支。一是限定、约束：把权力或自由圈在一定范围内，
 多用被动，偏书面与法律。二是几何上的外接：画一个圆把
 多边形围住。名词 circumscription。
@@ -41703,6 +42073,7 @@ circumscription = 限制、划界
 注意语域：限定那一支偏书面与法律。
 
 circumspect
+/ˈsɜːkəmspekt/
 核心：谨慎小心、把各面都看过再动：字面就是四下张望过再
 走，比 careful 更强调这一层。书面语。名词
 circumspection，副词 circumspectly。
@@ -41748,6 +42119,7 @@ circumstantial = 详尽细致的
 注意用法：间接证据那个搭配在法律文字里最常读到。
 
 circumvent
+/ˌsɜːkəmˈvent/
 核心：绕过去：不硬碰而设法避开规则、障碍或人。常带一点
 不太光明但有效的意味。名词 circumvention。书面语。
 ① They circumvented the ban by registering the boat in another country.
@@ -41780,6 +42152,7 @@ a circus = 圆形广场（英式地名）
 注意用法：闹剧那一支带贬义。
 
 cirque
+/sɜːk/
 核心：冰斗：山坡上被冰川挖出来的半圆形凹地，三面陡壁
 一面开口，冰川退去后常积成小湖。也叫 corrie。地貌术语。
 可数。
@@ -41796,6 +42169,7 @@ cut into = 切进
 注意用法：地貌学的术语，也叫 corrie。
 
 cirrhosis
+/səˈrəʊsɪs/
 核心：肝硬化：肝组织反复受损后被瘢痕替代、功能衰退，
 长期饮酒与肝炎是主因。形容词 cirrhotic。不可数。
 ① Cirrhosis scars the liver until the blood can no longer get through.
@@ -41808,6 +42182,7 @@ cirrhotic = 肝硬化的
 注意用法：医学与公共卫生文字里常见。
 
 cirrus
+/ˈsɪrəs/
 核心：卷云：最高的那层云，细丝状、发白，像一缕缕马尾，
 由冰晶组成，常预示天气要变。派生的两个云名：
 cirrocumulus 卷积云，cirrostratus 卷层云。不可数。
@@ -41827,6 +42202,7 @@ cirrostratus = 卷层云
 注意用法：气象里的云属名。
 
 cis
+/sɪs/
 核心：两支。一是化学上的顺式：分子里两个取代基在双键
 同一侧，跟 trans 反式相对。二是今天更常读到的一支：
 cisgender 的截短，指性别认同与出生时被指定的性别一致，
@@ -41844,6 +42220,7 @@ cisgender = 顺性别的
 注意语域：性别那一支是中性描述词，不是贬称。
 
 cissy
+/ˈsɪsi/
 核心：英式拼法，美式写 sissy：贬称男孩或男人不够男子气，
 也用来说人胆小怕事。这个词建立在性别刻板印象上，今天多
 被视为不该用；读到要认得，写作时避开。可数。
@@ -41857,6 +42234,7 @@ sissy = 同一个词的美式拼法
 注意语域：带性别刻板印象，只需认得，不要用。
 
 cistern
+/ˈsɪstən/
 核心：蓄水的容器：屋顶或地下的储水箱，也指抽水马桶上方
 那个水箱，英式日常就用这个词。可数。
 ① The cistern refills slowly and you cannot flush twice in a minute.
@@ -41872,6 +42250,7 @@ overflow = 溢出
 注意用法：英式说马桶水箱就用这个词。
 
 citadel
+/ˈsɪtədəl/
 核心：城堡要塞：城里那座最坚固的堡垒，守到最后的那一处。
 比喻义常用：某种价值或势力的最后据点。可数。
 ① The citadel guards the harbour from a rock nothing can be dragged up.
@@ -41932,6 +42311,7 @@ be cited for = 因……受嘉奖（功绩）
 注意别混：quote 是照原话搬，这个侧重指出出处与依据。
 
 citified
+/ˈsɪtɪfaɪd/
 核心：美式：被城市习气同化了的，说人举止、口味、穿着
 像城里人，多带一点乡下看城里的调侃。也拼 cityfied。
 ① He came back citified, in shoes that had never seen a field.
@@ -41974,6 +42354,7 @@ a citizen journalist = 公民记者
 注意用法：senior citizen 是避免说 old 的客气说法。
 
 citrus
+/ˈsɪtrəs/
 核心：柑橘类：橙、柠檬、柚、橘这一属的统称，也作定语说
 那种香气。形容词 citric，最常读到的是 citric acid
 柠檬酸；citron 是香橼，一种厚皮柑橘；citronella 是香茅，
@@ -41997,6 +42378,7 @@ citronella = 香茅
 注意用法：柠檬酸那个搭配在食品标签上到处是。
 
 cittern
+/ˈsɪtən/
 核心：文艺复兴时期的一种拨弦乐器：金属弦、平背，介于
 早期吉他与琉特之间，酒馆里常见。今天也指爱尔兰民乐里
 那种四对弦的乐器。可数。
@@ -42204,6 +42586,7 @@ a civil war = 内战
 注意别混：民事那一支跟刑事相对，别跟客气那一支混。
 
 civvies
+/ˈsɪviz/
 核心：军人口语：便服，跟军装相对，in civvies 是穿便服。
 永远用复数。相关的 Civvy Street 是英式军中口语，指退役
 后的平民生活。
@@ -42220,6 +42603,7 @@ Civvy Street = 退役后的平民生活（英式军中口语）
 注意用法：永远用复数，军中口语。
 
 cl
+/ˈsentɪliːtə(r)/
 核心：书面缩写：厘升，一升的百分之一。欧洲的酒瓶与饮料
 标签上标容量常用它。只出现在标签与配方里。
 ① The bottle says 75 cl and holds six glasses if you are careful.
@@ -42232,6 +42616,7 @@ label = 标签
 注意用法：只出现在标签与配方里。
 
 clack
+/klæk/
 核心：硬东西相碰的短促脆响：键盘、鞋跟、织机都能发出。
 动词与名词同形。拟声词。可数。
 ① Her heels clacked on the tiles the whole length of the corridor.
@@ -42304,6 +42689,7 @@ claim back = 申请退回
 注意用法：索赔与申领那一支最常读到。
 
 clairvoyance
+/kleəˈvɔɪəns/
 核心：所谓的通灵预知：声称能看见常人看不见的事、能知道
 远处或未来发生什么。有这种自称的人是 clairvoyant，也作
 形容词。不可数。
@@ -42336,6 +42722,7 @@ clam up = 闭口不谈
 注意用法：clam up 在口语里很常读到。
 
 clambake
+/ˈklæmbeɪk/
 核心：美式的海滩聚会：在沙坑里用热石与海藻焖蛤、玉米与
 土豆，一群人边吃边聊。引申也指热闹的聚会。可数。
 ① They held a clambake on the beach and dug the pit at noon.
@@ -42351,6 +42738,7 @@ steam = 蒸焖
 注意用法：美式，尤其新英格兰海岸。
 
 clamber
+/ˈklæmbə(r)/
 核心：手脚并用地爬：往上或往下，动作费力而不利索，多说
 爬岩石、爬围栏、爬进车里。常搭 clamber over、
 clamber into、clamber up。
@@ -42367,6 +42755,7 @@ clamber up = 爬上
 注意别混：climb 中性，这个强调费力不利索。
 
 clammy
+/ˈklæmi/
 核心：又湿又凉又黏的：说皮肤出冷汗、说空气闷湿。一律带
 不舒服的意味。名词 clamminess。
 ① His hands were clammy and left marks on the paper.
@@ -42382,6 +42771,7 @@ feel clammy = 觉得湿冷发黏
 注意语域：一律带不舒服的意味。
 
 clamour
+/ˈklæmə(r)/
 核心：两支。一是嘈杂的人声：一片喊叫。二是强烈的公开
 要求：a clamour for reform 是要求改革的呼声，动词
 clamour for 是大声要求。形容词 clamorous。美式拼
@@ -42426,6 +42816,7 @@ clamp on = 强加限制
 注意用法：clamp down on 在新闻里极常读到。
 
 clamshell
+/ˈklæmʃel/
 核心：两支。一是蛤壳。二是引申指像蛤壳一样对开合上的
 东西：翻盖手机、对折的塑料包装、挖泥机的抓斗都叫它。
 作定语最多。可数。
@@ -42462,6 +42853,7 @@ a clansman = 氏族成员
 注意用法：引申义带贬。
 
 clandestine
+/klænˈdestɪn/
 核心：暗中进行的、见不得光的：说会面、行动、关系，一定
 带怕人知道的意味。书面语，比 secret 更正式、更强调有意
 隐藏。
@@ -42478,6 +42870,7 @@ stay clandestine = 一直瞒着
 注意语域：书面，比 secret 更正式。
 
 clang
+/klæŋ/
 核心：金属被撞击时那种响而带余音的声音：铁门、大钟、
 铁管都能发出。动词与名词同形。形容词 clangorous 与名词
 clangour 说的是持续不断的金属噪响，偏文学。可数。
@@ -42497,6 +42890,7 @@ clangorous = 金属噪响的
 注意别混：clank 是闷重的一声，这个响而带余音。
 
 clanger
+/ˈklæŋə(r)/
 核心：英式口语：说错话、办错事而且当场很显眼，
 drop a clanger 是说漏了嘴、出了大洋相。带自嘲或调笑。
 可数。
@@ -42513,6 +42907,7 @@ laugh off = 一笑而过
 注意语域：英式口语，带调笑。
 
 clank
+/klæŋk/
 核心：金属相碰时那种闷重的一声：锁链、镣铐、旧管道都
 会发出。动词与名词同形。可数。
 ① Chains clanked in the hold every time the ship rolled.
@@ -42569,6 +42964,7 @@ clap one's hands = 拍手
 注意用法：clap eyes on 与 clapped out 都是口语。
 
 clapboard
+/ˈklæpbɔːd/
 核心：美式的墙板：一块块横搭、上缘薄下缘厚的木板，把
 外墙一层层盖住，新英格兰的白色木屋就是它。英式说
 weatherboard。不可数。
@@ -42582,6 +42978,7 @@ repaint = 重新刷漆
 注意用法：美式；英式说 weatherboard。
 
 Clapham omnibus
+/ˌklæpəm ˈɒmnɪbəs/
 核心：只活在一个法律说法里：the man on the Clapham omnibus，指
 「普通有理性的人」—— 英国法官拿他当判断标准，问一件事在寻常人
 看来合不合理。Clapham 是伦敦一个普通区，omnibus 是旧时的公共马车。
@@ -42595,6 +42992,7 @@ invoke the Clapham omnibus = 搬出「寻常人」这个标准
 注意用法：只出现在那个固定说法里，不单用。
 
 claptrap
+/ˈklæptræp/
 核心：空话废话：听着煞有介事、其实没内容的说法，带明显
 的贬义。本指戏台上专为博掌声硬加的花腔。不可数。
 ① The speech was pure claptrap and got a standing ovation.
@@ -42607,6 +43005,7 @@ believe = 相信
 注意语域：明显带贬义。
 
 claque
+/klæk/
 核心：捧场队：受雇在剧场里带头鼓掌喝彩的一伙人；引申指
 一个人身边只会捧的随从。法语来的词，带贬义。可数。
 ① The singer hired a claque and the reviews mentioned the applause.
@@ -42619,6 +43018,7 @@ a claque of = 一群只会捧场的……
 注意语域：带贬义。
 
 claret
+/ˈklærət/
 核心：两支。一是英式对波尔多红葡萄酒的叫法：英国人几百
 年来专用这个词指那一带的红酒。二是那种深红偏紫的颜色。
 不可数。
@@ -42652,6 +43052,7 @@ clarification = 澄清、进一步说明
 注意用法：要求说明时用那个固定搭配。
 
 clarinet
+/ˌklærəˈnet/
 核心：单簧管：黑色的木管乐器，靠一片簧片发声，音域宽，
 古典与爵士都用。吹的人是 clarinettist，美式单写 t。
 可数。
@@ -42685,6 +43086,7 @@ clarity of thought = 思路清明
 注意用法：三支都不可数。
 
 clarsach
+/ˈklɑːsək/
 核心：苏格兰与爱尔兰的小型竖琴：架在膝上或立地弹，用
 金属或肠弦，盖尔语音乐里的传统乐器。也拼 clairseach。
 可数。
@@ -42863,6 +43265,7 @@ classically = 按古典路子地
 注意别混：classic 是经典与典型，这个侧重古典体系。
 
 classicism
+/ˈklæsɪsɪzəm/
 核心：古典主义：以古希腊罗马为范本的艺术与文学取向，
 讲究均衡、克制、形式规整，跟浪漫主义相对。持这种取向的
 人是 classicist，也指研究古典学的学者。不可数。
@@ -42906,6 +43309,7 @@ a classified ad = 分类广告
 注意用法：列为机密那一支在新闻里常读到。
 
 clatter
+/ˈklætə(r)/
 核心：一堆硬东西接连相碰的乱响：盘子、蹄子、脚步声都能
 发出。动词与名词同形。
 ① Plates clattered in the sink while she pretended not to be angry.
@@ -42944,6 +43348,7 @@ a dependent clause = 从属分句
 注意用法：语法与法律两个语境里都极常读到。
 
 claustrophobia
+/ˌklɔːstrəˈfəʊbiə/
 核心：密闭恐惧：在电梯、隧道、人堆这类封闭空间里发慌、
 喘不上气。形容词 claustrophobic 既说人有这种恐惧，也说
 空间本身憋得让人发慌。不可数。
@@ -42960,6 +43365,7 @@ be claustrophobic = 有密闭恐惧的
 注意用法：形容词既说人也说空间，靠主语分。
 
 clave
+/kleɪv/
 核心：两支。一是拉美音乐里的敲击棒：两根硬木短棒对敲，
 乐器义永远成对说复数 claves。二是那种节奏型本身：它是
 萨尔萨与伦巴的节奏骨架。可数。
@@ -42976,6 +43382,7 @@ set the pattern = 定下格式
 注意用法：乐器义永远成对说复数。
 
 clavichord
+/ˈklævɪkɔːd/
 核心：早期的键盘乐器：琴弦被小金属片顶住发声，声音极轻，
 只适合小屋里弹。跟大键琴分开：那种是拨弦，声音亮得多。
 可数。
@@ -42992,6 +43399,7 @@ write for = 为……写作品
 注意别混：大键琴是拨弦的，这个是顶弦的。
 
 clavicle
+/ˈklævɪkəl/
 核心：锁骨：从肩到胸骨那根细长的骨头，摔倒撑手时最容易
 断的一根。医学用词，日常说 collarbone。可数。
 ① He broke his clavicle coming off the bike and rode again in six weeks.
@@ -43061,6 +43469,7 @@ clay pigeon shooting = 飞碟射击
 注意用法：网球语境里 on clay 是固定说法。
 
 claymore
+/ˈkleɪmɔː(r)/
 核心：两支。一是苏格兰高地的双手大剑：刃宽柄长，历史与
 文学里的兵器名。二是现代的定向反步兵地雷，因形似得名。
 可数。
@@ -43158,6 +43567,7 @@ dry-clean something = 干洗某物
 注意用法：come clean 与 a clean sheet 都很常读到。
 
 cleanliness
+/ˈklenlinəs/
 核心：讲卫生、保持干净这件事：说人的习惯也说场所的状况。
 不可数。习语 cleanliness is next to godliness 是爱洁近于
 近神，多半带一点戏谑。
@@ -43174,6 +43584,7 @@ cleanliness is next to godliness = 讲卫生几乎是种德行
 注意别混：cleanly 作副词是利落地，作形容词是爱干净的。
 
 cleanse
+/klenz/
 核心：两支。一是彻底洗净：多说皮肤与伤口；护肤品里的
 cleanser 是洁面产品。二是引申的净化、清除，语气重；
 ethnic cleansing 是种族清洗，指以暴力驱逐或杀害某个
@@ -43275,6 +43686,7 @@ steer clear of = 绕着走、避开
 注意用法：清除与判无罪两支在新闻里最常读到。
 
 cleat
+/kliːt/
 核心：两支。一是系索角：船上把缆绳绕住固定的那个两角
 金属件。二是鞋底的防滑齿，美式的 cleats 直接指整双钉鞋。
 可数。
@@ -43291,6 +43703,7 @@ worn = 磨损的
 注意用法：美式的复数直接指整双钉鞋。
 
 cleavage
+/ˈkliːvɪdʒ/
 核心：三支。一是乳沟：日常与时装语境里最常读到这一支。
 二是裂开、分裂：a cleavage between the two groups 是
 两派之间的裂痕，书面语。三是矿物与细胞学上的劈裂：
@@ -43332,6 +43745,7 @@ a cleaver = 剁肉宽刃刀
 注意别混：劈开与紧贴两义正好相反，靠有没有 to 分。
 
 clef
+/klef/
 核心：谱号：写在五线谱开头那个符号，定下线与音的对应。
 最常见的两个是高音谱号与低音谱号。可数。
 ① The piece is in the treble clef with two ledger lines above.
@@ -43374,6 +43788,7 @@ a cleft lip = 唇裂
 注意用法：医学的那两个搭配最常读到。
 
 clematis
+/ˈklemətɪs/
 核心：铁线莲：攀缘的观赏藤本，花大而扁平，色多。园艺
 文字里常见。
 ① Clematis climbs the trellis and reaches the gutter by August.
@@ -43389,6 +43804,7 @@ flower = 开花
 注意用法：园艺语境里的常见花名。
 
 clemency
+/ˈklemənsi/
 核心：宽赦：对已定罪的人减刑或免罚，多是元首或法院的
 正式裁量。形容词 clement 有两义：宽厚的，以及说天气
 温和不严酷，后一支多用否定形式 inclement。不可数。
@@ -43405,6 +43821,7 @@ clement = 温和的；宽厚的
 注意用法：说天气时多用否定形式 inclement。
 
 clementine
+/ˈkleməntiːn/
 核心：小柑橘的一种：皮薄好剥、几乎无籽、味甜，冬天当
 零食吃。跟 mandarin、satsuma、tangerine 同属一大类，
 超市按品种分。可数。
@@ -43418,6 +43835,7 @@ a seed = 籽
 注意别混：跟 satsuma、tangerine 同类，按品种分。
 
 clenbuterol
+/klenˈbjuːtərɒl/
 核心：一种支气管扩张药，也被当作违规的增肌与减脂药物，
 体育兴奋剂检测里常出现。畜牧上曾非法用于催瘦肉，因此
 出过肉类污染事件。不可数。
@@ -43431,6 +43849,7 @@ be banned = 被禁用
 注意用法：多出现在兴奋剂检测与食品安全的报道里。
 
 clench
+/klentʃ/
 核心：把身体某处紧紧收住：握紧拳头、咬紧牙、绷紧下颌。
 也指心口或胃里一紧。名词是那一握。
 ① He clenched his fists behind his back where nobody could see.
@@ -43446,6 +43865,7 @@ clench = 收紧、一紧
 注意别混：clutch 是抓住别的东西，这个是自己收紧。
 
 clerestory
+/ˈklɪəstɔːri/
 核心：高侧窗层：教堂中殿墙上部那一排开在屋顶下的窗，
 把光从高处引进来。也拼 clearstory。建筑术语。可数。
 ① Light falls from the clerestory onto the floor and never on the altar.
@@ -43481,6 +43901,7 @@ the laity = 平信徒
 注意用法：作主语用复数动词。
 
 cleric
+/ˈklerɪk/
 核心：神职人员，中性的单数说法：不分性别、不限教派，
 伊斯兰教的教士也常用这个词。形容词 clerical 有两支：
 一是神职的，二是办公室文书的，clerical error 是笔误，
@@ -43501,6 +43922,7 @@ clerical work = 文书工作
 注意别混：clerical 两支一个说宗教一个说文书，靠语境分。
 
 clerihew
+/ˈklerɪhjuː/
 核心：一种四行滑稽小诗：两两押韵、行长不齐，第一行以
 某个人的名字收尾，专门用来俏皮地写人。以发明者的名字
 命名。可数。
@@ -43568,6 +43990,7 @@ a clever Dick = 自作聪明的人（英式）
 注意用法：英式说聪明常用它，美式多说 smart。
 
 cliché
+/ˈkliːʃeɪ/
 核心：陈词滥调：说了太多遍、已经不带力量的说法或套路，
 带贬义。也指情节与形象上的老套。形容词 cliched 是老套
 的。法语来的词，本指印刷用的铅版。可数。
@@ -43678,6 +44101,7 @@ cliffhanging = 吊人心的
 注意用法：cliffhanger 在影视与选战报道里都常读到。
 
 climactic
+/klaɪˈmæktɪk/
 核心：到达高潮的：说故事、乐曲、事件里最紧张最关键的
 那一处。注意跟 climatic 气候的只差一个字母，是常见的
 打字错。
@@ -43796,6 +44220,7 @@ climbing = 攀登、攀岩
 注意用法：退让那一支在政治报道里常读到。
 
 clime
+/klaɪm/
 核心：气候地带，几乎只用复数：多说 warmer climes、
 sunnier climes，带一点文气或戏谑，指别处的地方。文学与
 旅游文字里读到。可数。
@@ -43809,6 +44234,7 @@ sunnier climes = 阳光更多的地方
 注意用法：几乎只用复数。
 
 clinch
+/klɪntʃ/
 核心：三支。一是最终敲定：clinch a deal 是把交易定下来，
 clinch the title 是锁定冠军，这一支最常读到。二是拳击里
 的抱缠。三是引申指相拥。clincher 是一下定胜负的那个
@@ -43829,6 +44255,7 @@ a clincher = 一下定胜负的理由
 注意用法：敲定那一支最常读到。
 
 cline
+/klaɪn/
 核心：连续变化的梯度：语言学与生物学里说一个特征沿着
 地域或维度渐变、中间没有明确界线。术语。可数。
 ① The vowel change forms a cline running north to south.
@@ -43923,6 +44350,7 @@ in the clink = 在牢里（英式旧俚语）
 注意语域：监狱那一支是旧俚语。
 
 clinker
+/ˈklɪŋkə(r)/
 核心：两支。一是炉渣块：煤烧过后结成的硬块，也指窑里
 烧结的水泥熟料。二是美式口语的彻底失败之作。可数。
 ① Clinker blocked the grate and the fire went out before morning.
@@ -43938,6 +44366,7 @@ a clinker = 彻底失败之作（美式口语）
 注意语域：失败那一支是美式口语。
 
 clinometer
+/klaɪˈnɒmɪtə(r)/
 核心：测坡度与倾角的仪器：勘测、地质、林业里量斜面有多
 陡用它。可数。
 ① The clinometer read twelve degrees, steeper than it looked.
@@ -44005,6 +44434,7 @@ a clipper = 旧时的快速帆船；也指修剪器
 注意用法：视频片段那一支今天最常读到。
 
 clipboard
+/ˈklɪpbɔːd/
 核心：两支。一是写字板：一头带夹子的硬板，站着填表用。
 二是计算机上的剪贴板：复制的内容暂存在那里，这一支今天
 更常读到。可数。
@@ -44021,6 +44451,7 @@ hold = 存放
 注意用法：计算机义今天更常读到。
 
 clique
+/kliːk/
 核心：小圈子：抱团排外的一小群人，一定带贬义，多说职场、
 学校、圈内。形容词 cliquey 或 cliquish。法语来的词，
 读作 kleek。可数。
@@ -44037,6 +44468,7 @@ be kept out of = 被排除在外
 注意读音：读作 kleek。
 
 clitic
+/ˈklɪtɪk/
 核心：语言学：读音上依附在别的词上、自己不单独重读的小
 成分，英语缩略形式里那半个音节就是。术语。可数。
 ① In 「he's late」 the 's is a clitic leaning on the word before it.
@@ -44052,6 +44484,7 @@ attach = 附加
 注意用法：语言学里的术语。
 
 clitoris
+/ˈklɪtərɪs/
 核心：女性外生殖器前上方那个敏感的性器官，神经分布极密。
 形容词 clitoral。医学与性健康文字里的正式用词。可数。
 ① The clitoris is densely supplied with nerves, more than anywhere else.
@@ -44088,6 +44521,7 @@ cloak-and-dagger = 间谍式神秘行事的
 注意用法：cloakroom 的厕所义是英式委婉说法。
 
 clobber
+/ˈklɒbə(r)/
 核心：两支，都是英式口语。一是动词：狠揍一顿，也引申成
 把某人整得很惨。二是名词：衣服与随身家当，不可数。
 ① He got clobbered in the ring and was still smiling afterwards.
@@ -44103,6 +44537,7 @@ clobber = 衣服与随身家当（英式口语）
 注意语域：两义都是英式口语。
 
 cloche
+/klɒʃ/
 核心：两支。一是园艺的钟形罩：扣在幼苗上防霜保温的玻璃
 或塑料罩。二是钟形女帽：上世纪二十年代流行的那种紧贴头
 的帽子。法语的钟。可数。
@@ -44226,6 +44661,7 @@ a clog dance = 木底鞋踏舞
 注意用法：堵住那一支最常读到。
 
 cloister
+/ˈklɔɪstə(r)/
 核心：两支。一是回廊：修道院里围着院子的那圈有顶走道。
 二是引申指修道生活与与世隔绝的处境，动词多用被动；
 形容词 cloistered 说人也说环境。可数。
@@ -44262,6 +44698,7 @@ a clone of = ……的翻版
 注意用法：翻版那一支带贬义。
 
 clonk
+/klɒŋk/
 核心：钝重的一声闷响：硬东西砸在东西上，动词与名词同形。
 英式口语里也指敲人一下。拟声词。可数。
 ① The loose pipe clonked against the wall every time the pump started.
@@ -44625,6 +45062,7 @@ smell of = 闻起来像
 注意别混：蒜瓣与丁香同一个词，靠搭配分。
 
 clover
+/ˈkləʊvə(r)/
 核心：三叶草：叶子三片一组的草本，牧草与蜜源，偶尔出现
 四叶的。习语 be in clover 是过得舒服无忧。cloverleaf 是
 苜蓿叶形的立体交叉路口，美式说法。不可数。
@@ -44664,6 +45102,7 @@ a clownfish = 小丑鱼
 注意用法：说人那一支带贬义。
 
 cloy
+/klɔɪ/
 核心：甜得腻人、好得发腻：本说味道，也说感情与文风过分
 甜软而让人受不了。形容词 cloying 与副词 cloyingly 今天
 更常用，多批评音乐、小说与广告。
@@ -44738,6 +45177,7 @@ club together = 凑钱合买
 注意用法：go clubbing 与 join the club 都很常读到。
 
 cluck
+/klʌk/
 核心：母鸡那种短促的咕咕声，动词与名词同形；也说人用
 舌头发出的表示不以为然的咂声。可数。
 ① The hens clucked in the yard and followed her to the gate.
@@ -44794,6 +45234,7 @@ clumpy = 结成块的；也说鞋子笨重
 注意别混：这个是自然长成的一丛，bunch 多是拿在一起的。
 
 clumsy
+/ˈklʌmzi/
 核心：三支。一是手脚不利索的。二是做得笨拙的：
 a clumsy translation 是别扭的译文，这一支很常读到。
 三是笨重不好用的，说工具与设计。副词 clumsily，名词
@@ -44909,6 +45350,7 @@ visual clutter = 画面上多余的杂物
 注意用法：说版面与画面太满那一支在设计文字里常读到。
 
 cm
+/ˈsentɪmiːtə(r)/
 核心：书面缩写：厘米。量长度最常用的缩写之一，不加句点，
 也不加复数 s。
 ① The scar is 3 cm long and fades a little every year.
@@ -44962,6 +45404,7 @@ a coach house = 旧宅旁停马车的车房
 注意用法：英美对这个词的交通义分工不同。
 
 coagulate
+/kəʊˈæɡjʊleɪt/
 核心：凝结：液体变成半固体的团，最常说血。名词
 coagulation。书面与医学用词，日常说 clot。
 ① Blood coagulates in seconds unless something is stopping it.
@@ -45067,6 +45510,7 @@ a coalition of = ……的联盟
 注意用法：政治报道里极常见。
 
 coaming
+/ˈkəʊmɪŋ/
 核心：舱口围板：甲板开口四周立起来的一圈挡板，防水漫进
 舱里。航海术语。可数。
 ① Water broke over the coaming and drained straight out again.
@@ -45201,6 +45645,7 @@ a duffel coat = 粗呢连帽大衣（木扣绳襻）
 注意用法：一层那一支在工艺与说明书里常读到。
 
 coati
+/kəʊˈɑːti/
 核心：南美的一种浣熊科动物：鼻子长而灵活、尾巴带环纹，
 成群觅食。也叫 coatimundi。可数。
 ① A coati raided the bins and got the lid off in one go.
@@ -45264,6 +45709,7 @@ a cob = 雄天鹅
 注意用法：玉米那一支最常读到。
 
 cobalt
+/ˈkəʊbɔːlt/
 核心：一种银灰带蓝的金属，符号 Co，用在合金、电池与
 颜料里。cobalt blue 是那种浓艳的蓝，画家与陶瓷上常用。
 不可数。
@@ -45280,6 +45726,7 @@ be mined with = 与……一起开采
 注意用法：色名义在艺术与陶瓷里常读到。
 
 cobble
+/ˈkɒbəl/
 核心：两支。一是圆石路面石：cobbles 与 cobblestones 都
 指那种铺路圆石，cobbled 是铺圆石的。二是动词 cobble
 together：草草凑起来，带一点将就，这一支很常读到。
@@ -45320,6 +45767,7 @@ a king cobra = 眼镜王蛇
 注意用法：动物名。
 
 cobweb
+/ˈkɒbweb/
 核心：蛛网：旧的、积了灰的那种，尤指屋角挂着的。形容词
 cobwebbed。习语 blow the cobwebs away 是出去透透气、
 把脑子里的滞闷吹散。可数。
@@ -45336,6 +45784,7 @@ blow the cobwebs away = 出去透气清脑
 注意别混：新织的网多说 spider's web。
 
 coca
+/ˈkəʊkə/
 核心：南美的一种灌木，叶子含微量兴奋成分，安第斯山区有
 嚼叶与泡茶的传统；也是提炼可卡因的原料，所以这个词在
 缉毒报道里常出现。不可数。
@@ -45368,6 +45817,7 @@ constrict = 使收缩
 注意用法：法律与医学报道里常见。
 
 coccyx
+/ˈkɒksɪks/
 核心：尾骨：脊柱最下端那几节融合成的小骨，摔到臀部时最
 容易伤。复数 coccyges 或 coccyxes。日常说 tailbone。
 可数。
@@ -45381,6 +45831,7 @@ the spine = 脊柱
 注意语域：医学用词，日常说 tailbone。
 
 cochineal
+/ˌkɒtʃɪˈniːl/
 核心：从一种胭脂虫身上取的红色染料与食用色素。也指那种
 深红色。食品标签上常见。不可数。
 ① The red in those sweets is cochineal and comes from an insect.
@@ -45393,6 +45844,7 @@ come from = 取自
 注意用法：食品标签上常见。
 
 cochlea
+/ˈkɒkliə/
 核心：耳蜗：内耳里那个卷成螺旋的结构，把声波变成神经
 信号。复数 cochleae。形容词 cochlear，a cochlear
 implant 是人工耳蜗，这个搭配最常读到。可数。
@@ -45459,6 +45911,7 @@ a cocker = 可卡犬
 注意语域：粗俗那一支语气很重，只需认得，不要用。
 
 cockade
+/kɒˈkeɪd/
 核心：帽徽上的丝带花结：旧时军服与礼服帽上那朵，颜色
 表明所属阵营。历史与服饰史里的词。可数。
 ① A white cockade marked his side and got him through the gate.
@@ -45471,6 +45924,7 @@ be worn on = 戴在……上
 注意用法：历史与服饰史里的词。
 
 cockamamie
+/ˈkɒkəmeɪmi/
 核心：美式口语：荒唐可笑、站不住脚的，多修饰 idea、
 excuse、scheme。带轻嘲。也拼 cockamamy。
 ① That is a cockamamie excuse and the third one this month.
@@ -45483,6 +45937,7 @@ a scheme = 计划
 注意语域：美式口语，带轻嘲。
 
 cockatoo
+/ˌkɒkəˈtuː/
 核心：凤头鹦鹉：头上有一撮可以立起的羽冠，产在澳洲与
 东南亚，叫声很响。cockatiel 是同一类里小得多的鸡尾
 鹦鹉，常当宠物。复数 cockatoos。可数。
@@ -45499,6 +45954,7 @@ a cockatiel = 鸡尾鹦鹉
 注意用法：鸡尾鹦鹉是同一类里小得多的一种。
 
 cockchafer
+/ˈkɒktʃeɪfə(r)/
 核心：一种大型金龟子：五六月傍晚飞得笨重、爱撞灯，幼虫
 啃草根。英式俗称 May bug。可数。
 ① A cockchafer bumped the window all evening and gave up at ten.
@@ -45511,6 +45967,7 @@ at dusk = 黄昏
 注意用法：英式俗称 May bug。
 
 cockerel
+/ˈkɒkərəl/
 核心：小公鸡：还没长成的雄鸡，英式常用，比 cock 更明确
 地指年轻的那只。可数。
 ① Two cockerels fought in the yard until someone threw water over them.
@@ -45526,6 +45983,7 @@ be sold off = 被卖掉
 注意用法：英式常用，指年轻的雄鸡。
 
 cockeyed
+/ˈkɒkaɪd/
 核心：两支，都是口语。一是荒唐的、不合情理的。二是歪的、
 不正的。
 ① It is a cockeyed idea and it might just work.
@@ -45538,6 +45996,7 @@ cockeyed = 歪的、不正的
 注意语域：口语。
 
 cockfight
+/ˈkɒkfaɪt/
 核心：斗鸡：让两只公鸡相斗供人赌博的活动，多数国家已
 禁止。名词 cockfighting 指这项活动。可数。
 ① Cockfights are illegal here and still draw a crowd out of town.
@@ -45568,6 +46027,7 @@ a cockleshell = 贝壳；引申指小船
 注意用法：那个习语很常读到。
 
 cockney
+/ˈkɒkni/
 核心：两支。一是伦敦东区的本地人：传统说法是要生在教堂
 钟声听得见的范围内。二是他们说的那种口音与方言，最有名
 的特点是押韵俚语。
@@ -45584,6 +46044,7 @@ cockney rhyming slang = 东区押韵俚语
 注意语域：本地人自称时是中性的。
 
 cockpit
+/ˈkɒkpɪt/
 核心：三支。一是驾驶舱：飞机与赛车里驾驶员坐的那一格，
 今天基本只用这一支。二是引申的争斗场地，书面语。三是
 本义：斗鸡的场子。可数。
@@ -45613,6 +46074,7 @@ survive = 活下来
 注意用法：美式口语缩成 roach。
 
 cocksucker
+/ˈkɒksʌkə(r)/
 核心：极粗俗的侮辱语，美式常用，字面猥亵，实际是骂人
 话里最重的那一类。任何正式场合与书面写作都不能用；收在
 这里只为读到能认得。可数。
@@ -45626,6 +46088,7 @@ soften into = 弱化成
 注意语域：极粗俗，只需认得，绝不要用。
 
 cocksure
+/ˌkɒkˈʃɔː(r)/
 核心：过分自信、有把握得让人反感：带明显的贬义，多说
 年轻人或说话的口气。名词 cocksureness。
 ① He is cocksure about everything and has been wrong twice this week.
@@ -45781,6 +46244,7 @@ cod = 假的、装出来的（英式口语）
 注意用法：单复数同形。
 
 coda
+/ˈkəʊdə/
 核心：两支。一是乐曲的尾声：正文结束后加的那一段收尾。
 二是引申指一件事或一本书的收尾部分，这一支在书评里常
 读到。可数。
@@ -45797,6 +46261,7 @@ a coda to = ……的收尾
 注意用法：引申义在书评里常读到。
 
 coddle
+/ˈkɒdəl/
 核心：两支。一是过分呵护：把人照顾得太周到，多带批评。
 二是烹饪上的小火慢煮：coddled eggs 是嫩煮蛋。
 ① They coddle their students and act surprised when nobody argues back.
@@ -45871,6 +46336,7 @@ Morse code = 摩尔斯电码
 注意用法：代码与准则两支在今天的文字里最常读到。
 
 codeine
+/ˈkəʊdiːn/
 核心：一种鸦片类止痛药，也用来止咳，常与别的药配成
 复方。有依赖性，多数国家管制。不可数。
 ① The tablets contain codeine and cannot be taken with the other ones.
@@ -45883,6 +46349,7 @@ habit-forming = 会形成依赖的
 注意用法：医药与管制报道里常见。
 
 codependency
+/ˌkəʊdɪˈpendənsi/
 核心：共依存：一段关系里两个人互相强化对方的问题行为，
 最常说酒瘾、药瘾家庭里那种彼此拖住的模式。形容词与名词
 都是 codependent。心理学与自助书里的词。不可数。
@@ -45899,6 +46366,7 @@ a codependent = 处在共依存关系里的人
 注意用法：心理学与自助书里的词。
 
 codex
+/ˈkəʊdeks/
 核心：手抄本：古代与中世纪装订成册的抄写文献，跟卷轴
 相对。复数 codices。文献学与历史里的词。可数。
 ① The codex dates from the fourth century and is missing its first leaf.
@@ -45914,6 +46382,7 @@ hold = 收藏
 注意用法：复数是 codices。
 
 codger
+/ˈkɒdʒə(r)/
 核心：老家伙：说上了年纪的男人，多说 an old codger，
 带一点无奈的调笑，不算恶意但也不客气。英式偏多，
 带旧气。可数。
@@ -45927,6 +46396,7 @@ gather = 聚集
 注意语域：调笑口气，正式场合不用。
 
 codicil
+/ˈkəʊdɪsɪl/
 核心：遗嘱附件：在原遗嘱之外另立的一份补充或修改文件，
 跟原件一起生效。法律用词。可数。
 ① She added a codicil in March and told nobody about it.
@@ -45942,6 +46412,7 @@ be witnessed = 有见证人
 注意用法：法律文书里的词。
 
 codify
+/ˈkəʊdɪfaɪ/
 核心：把散着的规则整理成成文的一套：codify the law 是
 把法律法典化，也说把惯例写成明文。名词 codification。
 书面与法律用词。
@@ -45958,6 +46429,7 @@ codification = 法典化
 注意语域：书面与法律用词。
 
 codpiece
+/ˈkɒdpiːs/
 核心：十五六世纪男装裤前那块鼓出来的遮布，有时垫得很
 夸张。服饰史与舞台服装里的词。可数。
 ① The portrait shows a padded codpiece and a very small dog.
@@ -45970,6 +46442,7 @@ absurdly = 荒唐地
 注意用法：服饰史与舞台服装里的词。
 
 codswallop
+/ˈkɒdzwɒləp/
 核心：英式口语：胡说八道、废话，多说 a load of
 codswallop。带轻蔑但语气不重，偏旧。不可数。
 ① That is a load of codswallop and he knows it perfectly well.
@@ -45982,6 +46455,7 @@ dismiss as = 视为……而不理
 注意语域：英式口语，带轻蔑但不重。
 
 coed
+/ˌkəʊˈed/
 核心：两支，都是美式。一是形容词：男女同校的，也说男女
 混合的队与活动。二是名词：旧时指女子大学生，这个用法
 今天被视为过时且带轻慢，避开。也拼 co-ed。
@@ -46012,6 +46486,7 @@ a term = 项
 注意用法：数学与理工文字里的基本词。
 
 coelacanth
+/ˈsiːləkænθ/
 核心：矛尾鱼：一类曾被认为早已灭绝的古老鱼，上世纪三十
 年代在南非近海被重新发现，因此成了活化石的代表。可数。
 ① A coelacanth was caught in 1938 and the museum kept the skin.
@@ -46024,6 +46499,7 @@ be thought extinct = 被认为已灭绝
 注意用法：古生物与自然史文字里常读到。
 
 coeliac
+/ˈsiːliæk/
 核心：英式拼法：腹腔的，最常读到的是 coeliac disease
 乳糜泻，吃了含麸质的食物就伤肠道。美式写 celiac。
 ① Coeliac disease is lifelong and the only treatment is the diet.
@@ -46036,6 +46512,7 @@ be diagnosed coeliac = 确诊乳糜泻
 注意拼写：美式写 celiac。
 
 coelurosaur
+/sɪˈljʊərəsɔː(r)/
 核心：一类体形轻巧的食肉恐龙：骨头中空、后肢长，鸟类就
 是从这一支演化来的。古生物学的分类词。可数。
 ① Birds descend from coelurosaurs and kept the wishbone and the hollow bones.
@@ -46048,6 +46525,7 @@ hollow = 中空的
 注意用法：古生物学的分类词。
 
 coerce
+/kəʊˈɜːs/
 核心：强迫：用威胁或压力逼人做事。名词 coercion，形容词
 coercive。书面与法律用词，比 force 更强调施压。
 ① They coerced him into signing by threatening his brother's job.
@@ -46063,6 +46541,7 @@ coercive = 强制的
 注意语域：书面与法律用词。
 
 coeval
+/kəʊˈiːvəl/
 核心：同一时代的：说两样东西年代相同、同时存在，
 coeval with 是与……同期。书面语，多见于学术写作。
 ① The two temples are coeval and were probably built by one workshop.
@@ -46075,6 +46554,7 @@ coeval with = 与……同期
 注意语域：书面，多见于学术写作。
 
 coexist
+/ˌkəʊɪɡˈzɪst/
 核心：并存：两方在同一时间同一地方共处，多说互相容忍地
 共处。名词 coexistence，peaceful coexistence 是和平
 共处，冷战语境里的固定说法。
@@ -46146,6 +46626,7 @@ a coffee-table book = 图多字少、供人随手翻的大开本画册
 注意用法：说一杯时可数。
 
 coffer
+/ˈkɒfə(r)/
 核心：两支。一是钱箱与库藏：多用复数指一个机构的资金，
 the public coffers 是公共财库，这一支最常读到。二是
 建筑上的方格镶板，coffered ceiling 是格镶天花。可数。
@@ -46193,6 +46674,7 @@ a cogwheel = 齿轮
 注意用法：那个习语比字面义常读到。
 
 cogent
+/ˈkəʊdʒənt/
 核心：论证有力、说得让人不能不服：说理由、论点与说法，
 褒义，书面语。名词 cogency，副词 cogently。
 ① She made a cogent case in nine minutes and sat down.
@@ -46208,6 +46690,7 @@ cogently = 有说服力地
 注意语域：书面，褒义。
 
 cogitate
+/ˈkɒdʒɪteɪt/
 核心：细想、琢磨：正式或半开玩笑地说在思考，cogitate on
 something 是琢磨某件事。名词 cogitation。今天多带一点
 戏谑。
@@ -46221,6 +46704,7 @@ cogitation = 思索
 注意语域：正式，或半开玩笑。
 
 cognac
+/ˈkɒnjæk/
 核心：法国干邑地区按规定工艺蒸馏的葡萄白兰地：产地受
 保护，别处的同类酒只能叫 brandy。不可数。
 ① He poured two cognacs and put the bottle back out of reach.
@@ -46233,6 +46717,7 @@ be aged in = 在……里陈放
 注意别混：别处产的同类酒只能叫 brandy。
 
 cognate
+/ˈkɒɡneɪt/
 核心：两支。一是语言学上的同源词：两个语言里从同一个
 祖先词来的词。二是形容词的同源的、相关的，书面语。可数。
 ① The English 「father」 and the German 「Vater」 are cognates.
@@ -46248,6 +46733,7 @@ cognate = 同源的、相关的
 注意用法：语言学里的术语，也作书面形容词。
 
 cognition
+/kɒɡˈnɪʃən/
 核心：认知：感知、记忆、推理这一整套心智活动，心理学与
 神经科学的核心词。形容词 cognitive，两个搭配在今天的
 文字里很常读到：cognitive behavioural therapy 认知行为
@@ -46268,6 +46754,7 @@ cognitive bias = 认知偏差
 注意用法：那两个搭配很常读到。
 
 cognizance
+/ˈkɒɡnɪzəns/
 核心：两支。一是知晓、注意到：take cognizance of 是把
 某事纳入考虑，正式用词。二是法律上的管辖与受理权。
 形容词 cognizant 是知道的、意识到的。英式也拼
@@ -46285,6 +46772,7 @@ cognizance = 管辖与受理权
 注意语域：正式与法律用词。
 
 cognoscenti
+/ˌkɒnjəˈʃenti/
 核心：内行、行家们：懂某一门的那一小群人，多说艺术、
 音乐、美酒。永远用复数，带一点圈内的意味。意大利语来的
 词。
@@ -46298,6 +46786,7 @@ be known to = 为……所知
 注意用法：永远用复数。
 
 cohabit
+/kəʊˈhæbɪt/
 核心：同居：没结婚而住在一起过日子，正式与法律文书里的
 用词。名词 cohabitation，也用来说两种事物并存。
 ① They cohabited for six years before either family was told.
@@ -46313,6 +46802,7 @@ cohabit = 并存
 注意语域：正式与法律用词。
 
 cohere
+/kəʊˈhɪə(r)/
 核心：连成一体、说得通：各部分合得上、不散，多说论证与
 作品。这一族分两支，别混：coherence 与 coherent 说的是
 有条理、连贯；cohesion 与 cohesive 说的是凝聚、抱成
@@ -46343,6 +46833,7 @@ cohesiveness = 凝聚力
 注意别混：coherent 说条理，cohesive 说凝聚，别混用。
 
 cohort
+/ˈkəʊhɔːt/
 核心：三支。一是同批人：研究里指同一时段出生或入学的
 那一群，社科与流行病学里最常用。二是一群追随者，多带
 贬义。三是本义：古罗马军团的一个支队。可数。
@@ -46362,6 +46853,7 @@ a cohort = 古罗马军团支队
 注意用法：同批人那一支在社科与流行病学里最常用。
 
 coiffure
+/kwɑːˈfjʊə(r)/
 核心：发式：精心做出来的头发造型，法语来的词，比
 hairstyle 更文气也更正式。理发师叫 coiffeur。可数。
 ① Her coiffure took an hour and survived a windy walk to the car.
@@ -46459,6 +46951,7 @@ coincident = 重合的；同时发生的
 注意用法：那几个派生形式都很常读到。
 
 coir
+/ˈkɔɪə(r)/
 核心：椰壳纤维：从椰子外壳取的粗硬纤维，做绳、地垫与
 园艺基质。不可数。
 ① The doormat is coir and sheds fibres for the first month.
@@ -46474,6 +46967,7 @@ resist = 耐得住
 注意用法：园艺与家居语境里常见。
 
 coitus
+/ˈkəʊɪtəs/
 核心：性交的正式与医学用词：日常不用，只出现在医学、
 法律与学术文本里。coitus interruptus 是体外排精那种
 避孕做法。不可数。
@@ -46504,6 +46998,7 @@ coke = 可卡因（俚语）
 注意语域：可乐那一支是口语，毒品那一支是俚语。
 
 col
+/kɒl/
 核心：山口：两座山峰之间那道低下去的鞍部，登山与地形
 文字里用。气象上也指两个高压之间的低压鞍区。可数。
 ① They camped on the col and got the wind from both sides.
@@ -46519,6 +47014,7 @@ unsettled = 不稳定的
 注意用法：登山地形与气象两处都用。
 
 cola
+/ˈkəʊlə/
 核心：两支。一是可乐：那种深棕色的含气饮料。二是它的
 原料之一：西非可乐果树与它的果实，这一支也拼 kola。
 不可数。
@@ -46535,6 +47031,7 @@ be sold = 被售卖
 注意拼写：果实那一支也拼 kola。
 
 colander
+/ˈkʌləndə(r)/
 核心：滤盆：底与壁上有许多小孔的盆，用来沥干煮好的面
 与洗过的菜。可数。
 ① Drain the pasta in a colander and keep a cup of the water.
@@ -46550,6 +47047,7 @@ be full of holes = 满是孔
 注意别混：sieve 孔更细，多用来筛粉。
 
 colcannon
+/kɒlˈkænən/
 核心：爱尔兰的一道家常菜：土豆泥拌进煮软的甘蓝或卷心菜，
 再加黄油与葱，万圣节前后常吃。不可数。
 ① She mashed the potatoes and stirred the kale through for colcannon.
@@ -46673,6 +47171,7 @@ cold storage = 冷藏（这件事）；a cold store = 冷库（那个地方，�
 注意用法：那一族固定说法都很高频。
 
 coleopterist
+/ˌkɒliˈɒptərɪst/
 核心：研究甲虫的人：昆虫学里专攻鞘翅目的那一支。术语。
 可数。
 ① A coleopterist named the species after the farm it was found on.
@@ -46685,6 +47184,7 @@ by trapping = 靠设陷阱
 注意用法：昆虫学里的术语。
 
 coleslaw
+/ˈkəʊlslɔː/
 核心：凉拌卷心菜丝：卷心菜加胡萝卜切细丝，用蛋黄酱拌，
 配烤肉与三明治。口语常缩成 slaw，美式尤其常用。不可数。
 ① Serve it with coleslaw and something sharp to cut the mayonnaise.
@@ -46697,6 +47197,7 @@ wet = 湿的
 注意用法：口语常缩成 slaw。
 
 coley
+/ˈkəʊli/
 核心：英式对青鳕一类白肉海鱼的叫法：肉比鳕鱼略暗、便宜，
 从前多做猫食，后来当平价食用鱼推销。不可数。
 ① Coley is cheaper than cod and takes a strong sauce well.
@@ -46712,6 +47213,7 @@ firm up = 变结实
 注意用法：英式鱼名。
 
 colic
+/ˈkɒlɪk/
 核心：腹部阵发的剧痛：婴儿那种查不出病因的持续哭闹尤其
 常这么说；马也会得。形容词 colicky。不可数。
 ① The baby has colic and cries from six until nine every evening.
@@ -46727,6 +47229,7 @@ colicky = 闹肠绞痛的
 注意用法：育儿与兽医文字里常见。
 
 coliseum
+/ˌkɒləˈsiːəm/
 核心：大型的圆形或椭圆形场馆：剧场、体育馆、演出场都可
 以叫它，美国很多场馆直接以此命名。可数。
 ① The concert filled the coliseum and the car park emptied at midnight.
@@ -46753,6 +47256,7 @@ flare = 发作
 注意用法：医学用词。
 
 collaborate
+/kəˈlæbəreɪt/
 核心：两支，褒贬相反。一是合作，褒义或中性。二是通敌：
 在被占领时期跟敌方合作，带强烈贬义。名词 collaboration，
 形容词 collaborative，副词 collaboratively；
@@ -46782,6 +47286,7 @@ a collaborator = 合作者；通敌者
 注意别混：那个名词既可褒可贬，靠语境判断。
 
 collage
+/ˈkɒlɑːʒ/
 核心：拼贴：把纸片、照片、布头贴在一块底板上做成的画，
 也指做成的作品。引申指把不同素材拼在一起的东西，这一支
 在评论文字里常读到。
@@ -46798,6 +47303,7 @@ suit = 适合
 注意用法：引申义在评论文字里常读到。
 
 collagen
+/ˈkɒlədʒən/
 核心：胶原蛋白：皮肤、骨、韧带里的主要结构蛋白，让组织
 有韧性；随年龄流失，所以护肤与保健品广告里到处是这个词。
 不可数。
@@ -46814,6 +47320,7 @@ boost = 促进
 注意用法：护肤与保健广告里到处是这个词。
 
 collapsar
+/kəˈlæpsɑː(r)/
 核心：天体物理里的说法：塌缩到极致的天体，黑洞在早期
 文献里就叫这个；今天也指某类伴随长伽马暴的塌缩恒星。
 术语。可数。
@@ -46888,6 +47395,7 @@ collard greens = 甘蓝叶菜（美式）
 注意用法：白领蓝领那个用法极常读到。
 
 collate
+/kəˈleɪt/
 核心：两支。一是核对整理：把几份材料排好次序、对照检查。
 二是印刷与打印上的按份配页。名词 collation，也指正式
 场合的轻餐。
@@ -46904,6 +47412,7 @@ collation = 整理核对；也指轻餐
 注意别混：collect 只是收集，这个还要排序核对。
 
 collateral
+/kəˈlætərəl/
 核心：三支。一是抵押品：借钱时押给对方的东西，这一支在
 财经文字里最常读到。二是形容词的附带的：collateral
 damage 是军事上的附带伤害，指行动中波及的平民与民用
@@ -47058,6 +47567,7 @@ a collider = 对撞机
 注意用法：a collision course 在政治报道里常读到。
 
 collie
+/ˈkɒli/
 核心：牧羊犬的一类：边境牧羊犬最有名，聪明、精力旺、
 擅长驱赶羊群。长毛的那种叫 rough collie。可数。
 ① A border collie herded the sheep on three whistles and no shouting.
@@ -47073,6 +47583,7 @@ a rough collie = 长毛牧羊犬
 注意用法：犬种名。
 
 collier
+/ˈkɒliə(r)/
 核心：两支，都带旧气。一是煤矿工人：英式旧称，今天多说
 miner。二是运煤船。名词 colliery 是煤矿，英国煤矿史里
 到处是这个词。可数。
@@ -47089,6 +47600,7 @@ a colliery = 煤矿
 注意语域：带旧气，今天多说 miner。
 
 colligate
+/ˈkɒlɪɡeɪt/
 核心：把若干事实或规律归到一个统一的说法之下：科学哲学
 里的术语，说理论怎么把散的观察串成一条。名词
 colligation。非常书面。
@@ -47102,6 +47614,7 @@ colligation = 归并
 注意语域：科学哲学里的术语。
 
 collocate
+/ˈkɒləkeɪt/
 核心：语言学：两个词习惯性地搭在一起出现，strong tea
 说得、powerful tea 就不说，这就是搭配问题。名词
 collocation 指这种习惯搭配，是学英语时最要紧的一类
@@ -47119,6 +47632,7 @@ list = 列出
 注意用法：学英语时最要紧的一类知识。
 
 colloquial
+/kəˈləʊkwiəl/
 核心：口语的：说话里用、正式写作里不用的那种词与说法。
 这是个中性的描述词，不表示不好。副词 colloquially，
 名词 colloquialism 指一个口语说法。
@@ -47135,6 +47649,7 @@ a colloquialism = 一个口语说法
 注意用法：中性描述词，不表示不好。
 
 colloquium
+/kəˈləʊkwiəm/
 核心：学术研讨会：规模不大、以讨论为主的会，多在大学里
 办。复数 colloquia 或 colloquiums。可数。
 ① She spoke at the colloquium and took questions for an hour.
@@ -47150,6 +47665,7 @@ a conference = 大型会议
 注意用法：学界用词。
 
 colloquy
+/ˈkɒləkwi/
 核心：正式的交谈与对话：书面语，带旧气，也用作文体名指
 对话体的作品。复数 colloquies。可数。
 ① A long colloquy followed and nothing was written down.
@@ -47162,6 +47678,7 @@ be written as = 写成……体
 注意语域：书面且带旧气。
 
 collude
+/kəˈluːd/
 核心：串通：暗中合谋做不正当的事。名词 collusion，
 in collusion 是勾结着；形容词 collusive。书面与法律
 用词，一定带贬义。
@@ -47181,6 +47698,7 @@ collusive = 串通的
 注意语域：一定带贬义。
 
 collywobbles
+/ˈkɒliwɒbəlz/
 核心：英式口语：肚子里那种因紧张而发慌打鼓的感觉，
 get the collywobbles 是心里发慌。永远用复数，带戏谑。
 ① She got the collywobbles before going on and was fine after two lines.
@@ -47198,6 +47716,7 @@ settle the collywobbles = 把心慌压下去
 注意用法：永远用复数，英式戏谑口语。
 
 colobus
+/ˈkɒləbəs/
 核心：疣猴：非洲的一类树栖猴，尾巴长、拇指退化，黑白毛
 的那种最常见。单复数同形。可数。
 ① A colobus leapt between trees with its white tail streaming behind.
@@ -47227,6 +47746,7 @@ lighter than = 比……淡
 注意别混：perfume 浓度高，这一类淡得多。
 
 Colombian
+/kəˈlʌmbiən/
 核心：哥伦比亚的、哥伦比亚人。拼写要当心：国名是 Colombia，中间是
 o 不是 u，跟美国那个地名 Columbia 差一个字母，两者常被写混。可数。
 ① A Colombian singer headlined the festival and closed with a cumbia.
@@ -47295,6 +47815,7 @@ colonialist = 殖民主义的、殖民主义者
 注意语域：后两个词带批判意味。
 
 colonist
+/ˈkɒlənɪst/
 核心：殖民者：到别人的土地上定居、参与建立殖民地的人。
 今天多用在历史叙述里，用它时要留意它站在谁的角度：被
 殖民一方的叙述里多说 settler 或直接说侵占者。可数。
@@ -47308,6 +47829,7 @@ claim = 声称占有
 注意语域：用它时要留意它站在谁的角度。
 
 colonize
+/ˈkɒlənaɪz/
 核心：两支。一是殖民：一国到别国的土地上定居并统治。
 二是生态学上的定殖：某个物种进入并在一片新地方扎下来，
 这一支是中性的。名词 colonization，colonizer 是殖民者。
@@ -47328,6 +47850,7 @@ a colonizer = 殖民者
 注意别混：生态学那一支是中性的，语气跟政治那一支不同。
 
 colonnade
+/ˌkɒləˈneɪd/
 核心：柱廊：成排的柱子撑着檐部或屋顶，多在建筑正面或
 围着院子。形容词 colonnaded。建筑术语。可数。
 ① A colonnade runs along the front and keeps the doorways in shade.
@@ -47364,6 +47887,7 @@ a colony = 菌落
 注意用法：生物学那一支在实验报告里常读到。
 
 colophon
+/ˈkɒləfən/
 核心：版本记录：书末或书前那一段交代印刷者、字体、纸张
 与印数的文字，也指出版社的社徽。文献学与出版语境里的词。
 可数。
@@ -47380,6 +47904,7 @@ a colophon = 出版社社徽
 注意用法：文献学与出版语境里的词。
 
 Colorado beetle
+/ˌkɒlərɑːdəʊ ˈbiːtəl/
 核心：马铃薯甲虫：背上十条黑色纵纹的小甲虫，专吃马铃薯叶，是欧洲
 严防的检疫害虫。也叫 Colorado potato beetle。可数。
 ① Colorado beetles can strip a crop in days and lay eggs on the way.
@@ -47392,6 +47917,7 @@ report a Colorado beetle = 上报发现马铃薯甲虫
 注意用法：属法定申报的检疫害虫，新闻里常提。
 
 coloratura
+/ˌkɒlərəˈtʊərə/
 核心：花腔：声乐里那种快速跑动、带装饰音的华丽唱法，
 也指擅长这种唱法的女高音。意大利语来的词。
 ① The aria demands coloratura and a breath that lasts twelve bars.
@@ -47407,6 +47933,7 @@ a run = 快速音群
 注意用法：声乐与乐评里的术语。
 
 colossal
+/kəˈlɒsəl/
 核心：巨大的：说规模、数额、失误都行。口语里常用来夸张。
 副词 colossally。
 ① It was a colossal mistake and took two years to undo.
@@ -47422,6 +47949,7 @@ a colossal amount = 巨额
 注意用法：口语里常用来夸张。
 
 colossus
+/kəˈlɒsəs/
 核心：两支。一是巨像：古代那种巨大的人像雕塑。二是引申
 指某个领域里压倒性的人物或机构，这一支在人物评述里常
 读到。复数 colossi 或 colossuses。可数。
@@ -47438,6 +47966,7 @@ come from = 由……来
 注意用法：引申义在人物评述里常读到。
 
 colostomy
+/kəˈlɒstəmi/
 核心：结肠造口术：把结肠引到腹壁上开一个口，粪便排进
 外置的袋子里，多在肠道手术后做，可以是暂时的也可以是
 永久的。可数。
@@ -47454,6 +47983,7 @@ be reversed = 被还原
 注意用法：医学用词。
 
 colostrum
+/kəˈlɒstrəm/
 核心：初乳：分娩后最初几天分泌的那种浓稠淡黄的乳，抗体
 含量极高，对新生儿的免疫很要紧。不可数。
 ① Colostrum is rich in antibodies the newborn cannot make yet.
@@ -47615,6 +48145,7 @@ coltish = 年轻腿长、动作不稳当的
 注意别混：母的那种叫 filly。
 
 columbine
+/ˈkɒləmbaɪn/
 核心：耧斗菜：花瓣后面带长距，一圈花瓣凑起来像几只鸽头，
 名字就是从鸽子来的。园艺文字里常见。可数。
 ① Columbines self-seed everywhere and come up a different colour each year.
@@ -47695,6 +48226,7 @@ comatose = 瘫着不动的（夸张口语）
 注意用法：口语的夸张用法要看场合。
 
 Comanche
+/kəˈmæntʃi/
 核心：科曼奇人：北美南部大平原的原住民族群，也指他们的语言。历史上
 以骑术出名，长期控制着南部平原。二战时他们的语言被用作密码。
 单复数同形。
@@ -47772,6 +48304,7 @@ combat fatigues = 作战服、迷彩服
 注意用法：对抗那一支在政策文字里极常读到。
 
 combi
+/ˈkɒmbi/
 核心：英式口语的截短形，指两用的东西：a combi boiler 是
 既供暖又供热水的两用锅炉，最常读到的就是这个搭配；也说
 两用微波炉与两用车。可数。
@@ -47842,6 +48375,7 @@ a combo = 组合、搭配
 注意语域：口语。
 
 combust
+/kəmˈbʌst/
 核心：燃烧：正式与技术用词，日常说 burn。名词
 combustion，internal combustion 是内燃，这个搭配最常
 读到；形容词 combustible 是易燃的，也作名词指可燃物。
@@ -48107,6 +48641,7 @@ came = come 的过去式（过去分词跟原形同形，只有过去式变）
 注意用法：短语动词是这个词的重心，介词决定方向。
 
 comeback
+/ˈkʌmbæk/
 核心：两支。一是复出、回升：make a comeback 是重新回到
 从前的位置，说人也说风格与产品，这一支最常读到。二是
 口语的回嘴：一句机敏的反驳。可数。
@@ -48123,6 +48658,7 @@ a comeback = 一句机敏的回嘴
 注意用法：复出那一支最常读到。
 
 comedian
+/kəˈmiːdiən/
 核心：喜剧演员：靠说笑话与滑稽表演谋生的人。女性旧称
 comedienne，今天多不分性别一律说 comedian。形容词
 comedic 是喜剧的。也带贬义地说某人爱逗、不正经。可数。
@@ -48160,6 +48696,7 @@ a comedy of manners = 风俗喜剧（讽刺某个阶层言谈举止的喜剧）
 注意别混：跟悲剧相对的是这个词。
 
 comely
+/ˈkʌmli/
 核心：说人好看的、端正耐看的：书面且带旧气，多说女性，
 今天基本只在旧文学里读到。
 ① She was a comely young woman with a temper the poem leaves out.
@@ -48172,6 +48709,7 @@ a comely maid = 模样端正的姑娘
 注意语域：带旧气，今天基本只在旧文学里读到。
 
 comer
+/ˈkʌmə(r)/
 核心：来的人：几乎只出现在几个固定说法里。all comers 是
 来的人一概奉陪，a late comer 是来晚的人；美式还用
 an up-and-comer 指后起之秀。可数。
@@ -48188,6 +48726,7 @@ an up-and-comer = 后起之秀（美式）
 注意用法：几乎只出现在那几个固定说法里。
 
 comestible
+/kəˈmestɪbəl/
 核心：食物：正式且带戏谑的说法，多用复数，今天多出现在
 菜单、旧文与开玩笑的场合。可数。
 ① The hamper held various comestibles and one bottle wrapped in straw.
@@ -48216,6 +48755,7 @@ mostly = 主要是
 注意用法：天文语境里的基本词。
 
 comeuppance
+/kʌmˈʌpəns/
 核心：应得的报应：做了坏事终于自己吃到苦头。口语，带一点
 看着解气的意味。不可数。
 ① He finally got his comeuppance from a clerk he had never noticed.
@@ -48228,6 +48768,7 @@ end with = 以……收尾
 注意语域：口语，带看着解气的意味。
 
 comfit
+/ˈkʌmfɪt/
 核心：糖衣果仁与糖衣香籽：旧时的一种糖果，把杏仁、香菜
 籽之类裹上糖衣。今天是历史词，多在旧文与糖果史里读到。
 可数。
@@ -48337,6 +48878,7 @@ uncomfortable = 不舒服的
 注意用法：comfy 只说东西与衣物，不说人的心情。
 
 comfrey
+/ˈkʌmfri/
 核心：聚合草：叶子粗糙带毛的一种草本植物，开紫的或白的
 钟形小花，传统上捣烂了敷伤处，园子里也拿来沤肥。
 不可数。
@@ -48416,6 +48958,7 @@ coming of age = 长大成人的那个过程；也指到达法定成年
 注意用法：作形容词只放名词前。
 
 comity
+/ˈkɒmɪti/
 核心：国与国之间以礼相待、互相尊重对方的法律与习惯，
 法律与外交的正式词，最常见的搭配是 comity of nations。
 也泛指人与人之间的和睦相处。不可数。
@@ -48515,6 +49058,7 @@ a command post = 指挥所（前线的临时指挥点）
 注意搭配：说语言能力用 a command of。
 
 commandant
+/ˈkɒməndænt/
 核心：指挥官，尤其指军校、战俘营、要塞这类机构的主官。
 是个头衔，常放在姓名前。可数。
 ① The commandant inspected the barracks and found the kitchens worst.
@@ -48530,6 +49074,7 @@ the camp commandant = 营地主官
 注意用法：多用于军事院校与营地一类机构。
 
 commandeer
+/ˌkɒmənˈdɪə(r)/
 核心：为公用或军用而强行征用私人财物，车、房、船都行。
 也口语地夸张说「霸占」，比如把会议室占了。及物。
 ① Troops commandeered the trucks and left a receipt nobody could redeem.
@@ -48545,6 +49090,7 @@ commandeer = 霸占（口语的夸张说法）
 注意语域：第三支是口语玩笑。
 
 commandment
+/kəˈmɑːndmənt/
 核心：诫命，尤其指圣经里的十诫 the Ten Commandments。
 泛用时指郑重宣布的规条，带宗教或庄严色彩。可数。
 ① The Ten Commandments are in Exodus and again, differently, later on.
@@ -48560,6 +49106,7 @@ a commandment = 奉为铁律的规条
 注意语域：带宗教与庄严色彩。
 
 commando
+/kəˈmɑːndəʊ/
 核心：突击队，也指突击队员：受特种训练、执行突袭任务的
 小分队。复数写 commandos，也写 commandoes。口语习语 go
 commando 是里面不穿内裤，玩笑话。可数。
@@ -48576,6 +49123,7 @@ go commando = 不穿内裤（玩笑话）
 注意语域：第三支是口语玩笑。
 
 commedia dell’arte
+/kəˌmeɪdiə del ˈɑːteɪ/
 核心：即兴假面喜剧：十六到十八世纪意大利的一种民间戏剧，
 演员戴面具演固定几个角色，情节临场发挥。今天主要是戏剧史
 术语。不可数。也写作 commedia dell'arte。
@@ -48589,6 +49137,7 @@ perform commedia dell’arte = 演即兴假面喜剧
 注意语域：戏剧史术语。
 
 commemorate
+/kəˈmeməreɪt/
 核心：纪念：用仪式、碑、邮票之类把某人某事记下来，免得
 被忘掉。名词 commemoration，形容词 commemorative，
 a commemorative stamp 是纪念邮票。及物，常用被动。
@@ -48633,6 +49182,7 @@ commencement = 毕业典礼（美式）
 注意语域：正式词，日常说 begin 或 start。
 
 commend
+/kəˈmend/
 核心：三支。一是表扬嘉奖，常用被动 be commended for；
 二是郑重推荐、把某事交托给别人，介词用 to；三是老式的
 「使人喜欢」：have little to commend it 是没什么可取之处。
@@ -48660,6 +49210,7 @@ a commendation = 嘉奖
 注意语域：正式词。
 
 commensal
+/kəˈmensəl/
 核心：生物学词。两种生物住在一起，一方得益、另一方既不
 受益也不受害，这种关系叫 commensalism，这样的生物叫
 commensal。跟共生 symbiosis 的分工在有没有互利。既作
@@ -48677,6 +49228,7 @@ commensalism = 共栖关系
 注意分工：共栖只一方得益，共生是两边互利。
 
 commensurate
+/kəˈmenʃərət/
 核心：相称的、成比例的：大小、程度、价值跟另一样东西配
 得上。介词用 with，偶尔用 to。副词 commensurately。正式
 词，最常出现在讲薪酬与责任的句子里。
@@ -48812,6 +49364,7 @@ a commercial traveller = 旅行推销员（英式旧词）
 注意语域：说作品太商业是贬义。
 
 commie
+/ˈkɒmi/
 核心：共产党人的蔑称，冷战年代的美式口语，今天多带调侃
 或引述意味。也作形容词。可数，贬义。
 ① He called them commies and meant anyone who disagreed with him.
@@ -48827,6 +49380,7 @@ call somebody a commie = 管某人叫赤色分子
 注意语域：贬义蔑称，自己别用。
 
 commingle
+/kəˈmɪŋɡəl/
 核心：混在一起，尤其指把本该分开的东西掺到一处，最常见
 于财务与法律：把客户的钱跟自己的钱混着放叫 commingling
 of funds。也书面地说情感与观念交融。
@@ -48843,6 +49397,7 @@ commingle = 汇合
 注意语域：书面与法律用语。
 
 commis
+/ˈkɒmi/
 核心：厨房里最低一级的学徒厨师，全写是 commis chef。
 法式厨房的分级里它在最底层，上面是 chef de partie。
 餐饮业内部用词。可数。
@@ -48859,6 +49414,7 @@ spend years as a commis = 当几年学徒厨师
 注意语域：餐饮业内部用词。
 
 commiserate
+/kəˈmɪzəreɪt/
 核心：对倒霉的人表示同情、陪着叹气，介词用 with。名词
 commiseration，复数形式 commiserations 是口语里「真替你
 难过」的一句话。不及物。
@@ -48878,6 +49434,7 @@ commiseration = 同情
 注意用法：不及物，介词用 with。
 
 commissar
+/ˌkɒmɪˈsɑː(r)/
 核心：苏联体制里的政治委员：派驻部队或机构、管思想与
 纪律的党代表。今天也讽刺地说那种爱管人、爱定规矩的官。
 可数。
@@ -48894,6 +49451,7 @@ a commissar = 爱管人的官（讽刺）
 注意语域：第三支是讽刺用法。
 
 commissariat
+/ˌkɒmɪˈseəriət/
 核心：两支。一是军队里管粮秣补给的部门；二是苏联早期的
 人民委员部，相当于部委。都是历史与军事用词。可数。
 ① The commissariat failed to feed the army through a mild winter.
@@ -48909,6 +49467,7 @@ depend on the commissariat = 仰赖军需部门
 注意语域：历史与军事用词。
 
 commissary
+/ˈkɒmɪsəri/
 核心：三支，都从「受委派」这个意思分出来。一是美式的
 军营或监狱小卖部；二是电影制片厂的食堂；三是旧时的
 代表、代理人，天主教里指主教代表。可数。
@@ -48959,6 +49518,7 @@ commission somebody to do = 委托某人做
 注意用法：指官方机构时常大写，成为机构名的一部分。
 
 commissionaire
+/kəˌmɪʃəˈneə(r)/
 核心：英式的制服门卫：站在旅馆、剧院、写字楼门口迎客、
 叫车、看门的人，早年多由退伍军人担任。今天偏旧。可数。
 ① The commissionaire held the door and remembered every guest's name.
@@ -49048,6 +49608,7 @@ a time commitment = 时间上的投入
 注意搭配：介词用 to。
 
 committal
+/kəˈmɪtəl/
 核心：正式送交这件事。法律上指把人送交上级法院受审，或
 送进监狱与医院；另有一支指下葬那一刻的仪式。法律与宗教
 用词。可数不可数都行。
@@ -49093,6 +49654,7 @@ a conference committee = 两院协商委员会（美国国会）
 注意用法：英式可跟复数动词，美式一般用单数。
 
 commode
+/kəˈməʊd/
 核心：两支。一是带便盆的坐椅或床边马桶椅，医院与养老
 院里常见；二是古董家具里的一种带抽屉的矮柜，法式的。
 可数。
@@ -49109,6 +49671,7 @@ a mahogany commode = 红木矮柜
 注意用法：家具那支多在古董行话里。
 
 commodify
+/kəˈmɒdɪfaɪ/
 核心：把本来不当商品的东西变成可买卖的商品——文化、
 身体、私人数据都常被这么说。名词 commodification。
 是个批评性的词，多用在社会学与文化评论里。及物。
@@ -49125,6 +49688,7 @@ the commodification of = ……的商品化
 注意语域：批评性用词。
 
 commodious
+/kəˈməʊdiəs/
 核心：宽敞的：房间、车、包里头地方大，住着放着都宽绰。
 正式而偏旧，今天多在房产广告与文学里读到。
 ① They rented a commodious flat with a hallway you could cycle down.
@@ -49140,6 +49704,7 @@ call something commodious = 把……说成宽敞
 注意语域：正式偏旧。
 
 commoditize
+/kəˈmɒdɪtaɪz/
 核心：使商品化，尤指原本靠品质与品牌卖钱的东西变得
 人人都能做、只剩下拼价格。名词 commoditization。商业
 评论用词，也拼作 commoditise。跟 commodify 的分工：
@@ -49185,6 +49750,7 @@ a hot commodity = 抢手的人或物（美式）
 注意用法：第二支几乎只用在 a rare commodity 这类说法里。
 
 commodore
+/ˈkɒmədɔː(r)/
 核心：海军军衔，在上校之上、少将之下；也指船队或游艇
 俱乐部的会长。是个头衔，放在姓名前。可数。
 ① The commodore led the squadron into a harbour he had never seen.
@@ -49274,6 +49840,7 @@ the highest common factor = 最大公约数
 注意语域：说人 common 是英式的阶层贬义，很伤人。
 
 commoner
+/ˈkɒmənə(r)/
 核心：平民：不是贵族、不属王室的人，多用在讲君主制的
 语境里。牛津剑桥另有一支旧义：自费的普通学生，跟拿奖
 学金的 scholar 相对。可数。
@@ -49290,6 +49857,7 @@ a commoner = 自费生（牛津剑桥旧称）
 注意语域：多用在君主制语境里。
 
 commonhold
+/ˈkɒmənhəʊld/
 核心：英格兰与威尔士二〇〇二年设立的一种房产持有方式：
 公寓业主各自持有自己那套的永久产权，公共部分由业主组成
 的公司共管，本意是取代租赁产权。法律与房产用词。不可数。
@@ -49306,6 +49874,7 @@ convert to commonhold = 转为共有产权
 注意语域：英格兰与威尔士的法律用词。
 
 commonplace
+/ˈkɒmənpleɪs/
 核心：形容词是司空见惯的、不新鲜的。名词一是老生常谈的
 套话，二是习以为常的事。旧时还有 a commonplace book，
 指把读到的好句子抄下来的本子。
@@ -49345,6 +49914,7 @@ the Commonwealth Games = 英联邦运动会
 注意用法：指英联邦时大写。
 
 commotion
+/kəˈməʊʃən/
 核心：骚动：一阵吵闹混乱，人叫着挤着、事情乱成一团。
 比 chaos 轻，多指一时的响动，常说 cause a commotion。
 可数不可数都行。
@@ -49361,6 +49931,7 @@ commotion = 吵闹混乱
 注意分工：比 chaos 轻，多指一时的响动。
 
 comms
+/kɒmz/
 核心：通信联络的口语缩写，指通信设备与联络这件事，军队、
 应急救援与公司里都用；公司里还专指公关传播那摊工作。
 只用复数。
@@ -49377,6 +49948,7 @@ check comms = 检查通信
 注意用法：只用复数。
 
 communal
+/kəˈmjuːnəl/
 核心：两支。一是公用共享的：communal kitchen 公用厨房、
 communal living 共居；二是族群之间的，尤其用在南亚语境
 里讲教派或族群冲突。副词 communally，名词 communalism
@@ -49400,6 +49972,7 @@ communalism = 教派本位主义
 注意分工：第二支主要用在南亚语境里。
 
 commune
+/ˈkɒmjuːn/（名）/kəˈmjuːn/（动）
 核心：两支，读音还不一样。名词是公社：一群没有亲缘的人
 住在一起、共有财产共同劳动；也指法国、意大利等国的最小
 行政区。动词是心灵相通地交流，多说跟自然、跟死者、跟神。
@@ -49420,6 +49993,7 @@ commune with the dead = 与死者神交
 注意读音：名词重音在前，动词重音在后。
 
 communicable
+/kəˈmjuːnɪkəbəl/
 核心：可传染的：病能从一个人传到另一个人，公共卫生里的
 正式说法，communicable disease 是传染病。另有一支书面义
 指可传达的：想法能说清楚、感受能传给别人。
@@ -49436,6 +50010,7 @@ communicable = （情绪、热情）会感染别人的
 注意语域：公共卫生的正式说法。
 
 communicant
+/kəˈmjuːnɪkənt/
 核心：领圣餐的人：基督教里参加圣餐礼、领受饼与酒的教徒。
 教会用词。可数。
 ① She has been a communicant at that church for forty years.
@@ -49534,6 +50109,7 @@ a communion = 同一信仰的教派团体
 注意用法：指圣餐礼时常大写。
 
 communique
+/kəˈmjuːnɪkeɪ/
 核心：公报：政府、军方或会议正式发布的简短声明，多用在
 外交场合。也写作 communiqué，带重音符。可数。
 ① The summit issued a joint communique of eleven bland paragraphs.
@@ -49649,6 +50225,7 @@ a community church = 不隶属某个教派的社区教堂
 注意用法：指群体时前面常加限定语。
 
 commutative
+/kəˈmjuːtətɪv/
 核心：数学词：满足交换律的，指运算两边对调结果不变。
 加法与乘法是这样，减法与除法不是。
 ① Addition is commutative, so three plus four gives what four plus three gives.
@@ -49664,6 +50241,7 @@ the commutative law = 交换律
 注意语域：数学术语。
 
 commutator
+/ˈkɒmjuteɪtə(r)/
 核心：电机里的换向器：一圈铜片，随转子转动不断切换电流
 方向，直流电机靠它才能一直转下去。数学的群论里另指
 换位子。可数，专业词。
@@ -49708,6 +50286,7 @@ commutable = 可折换的；也指路程可通勤的
 注意用法：通勤那支不及物，减刑那支及物。
 
 Comoran
+/ˈkɒmərən/
 核心：科摩罗的、科摩罗人。国名 the Comoros 恒用复数加定冠词，
 派生词却是单数形式。也拼 Comorian。可数。
 ① A Comoran crew rescued them and would take nothing for it.
@@ -49741,6 +50320,7 @@ comp = 伴奏
 注意语域：口语与行业内部用词。
 
 compact
+/kəmˈpækt/（形、动）/ˈkɒmpækt/（名）
 核心：三支，重音还不一样。形容词是紧凑的：占地小而齐全。
 动词是压实，及物，重音在后。名词一是粉盒，二是正式的
 协定。副词 compactly，名词 compactness，压实机叫
@@ -49777,6 +50357,7 @@ a compact disc = 激光唱片（缩写 CD）
 注意读音：形容词与名词重音在前，动词重音在后。
 
 compadre
+/kəmˈpɑːdreɪ/
 核心：美式口语里的哥们儿，从西班牙语借来。本义是教父与
 孩子父母之间的互称，进英语后就是熟不拘礼的朋友。可数，
 带点玩笑气。
@@ -49966,6 +50547,7 @@ a comparison site = 比价网站
 注意搭配：介词用 with，也用 to。
 
 compartment
+/kəmˈpɑːtmənt/
 核心：隔开的一格：车厢里的包间、箱包里的分格、冰箱的
 冷冻格都算。引申指心里分开存放的那一块。可数。
 ① They shared a train compartment with a man and his three dogs.
@@ -49981,6 +50563,7 @@ a separate compartment = 单独隔开的一格
 注意用法：可数。
 
 compartmentalize
+/ˌkɒmpɑːtˈmentəlaɪz/
 核心：把事情或情绪分格隔开、互不相通，多说人把工作与
 私生活截然分开。名词 compartmentalization，英式也拼
 compartmentalise。及物。
@@ -50020,6 +50603,7 @@ compass = 音域
 注意用法：圆规英式常说 a pair of compasses。
 
 compassion
+/kəmˈpæʃən/
 核心：怜悯之心：看见别人受苦而生的同情，还带着想帮一把
 的意思。跟 pity 的分工在姿态：这个词是平视的，pity 常
 有居高临下的味道。不可数。
@@ -50036,6 +50620,7 @@ out of compassion = 出于怜悯
 注意分工：这个词是平视的，pity 常带居高临下。
 
 compassionate
+/kəmˈpæʃənət/
 核心：有怜悯心的、体恤的。英式有个固定说法 compassionate
 leave：因家人重病或去世准的假。副词 compassionately。
 ① She is a compassionate doctor who sits down before she speaks.
@@ -50074,6 +50659,7 @@ compatibly = 相容地
 注意搭配：介词一律用 with。
 
 compatriot
+/kəmˈpætriət/
 核心：同胞：同一个国家的人，多用在人在国外的时候。也
 引申说同一队伍、同一行当里的同伴。略偏正式。可数。
 ① He met a compatriot in Lisbon and they talked for six hours.
@@ -50112,6 +50698,7 @@ compellingly = 有说服力地
 注意语域：比 force 正式。
 
 compendium
+/kəmˈpendiəm/
 核心：汇编：把一个题目下的材料收拢在一册里的书。英式还
 指一盒多种棋类玩具的合装。复数写 compendiums 也写
 compendia。形容词 compendious 指简明而全备的，正式偏旧。
@@ -50149,6 +50736,7 @@ compensatory = 补偿性的
 注意搭配：赔人用及物，弥补某事用 for。
 
 compère
+/ˈkɒmpeə(r)/
 核心：英式的节目主持人：在演出或晚会上串场、报幕、逗
 场子的人，也作动词用。美式说 host 或 emcee。也写作
 compere，不带重音符。可数。
@@ -50324,6 +50912,7 @@ a compiler = 编译器；编纂者
 注意用法：编译那一支也可以不及物。
 
 complacent
+/kəmˈpleɪsənt/
 核心：自满的：觉得自己已经够好了，于是不再使劲，带贬义，
 重点在「不该松劲的时候松了」。名词 complacency，副词
 complacently。
@@ -50383,6 +50972,7 @@ cause for complaint = 抱怨的理由
 注意语域：第三支偏旧。
 
 complaisant
+/kəmˈpleɪzənt/
 核心：一味迁就的、有求必应的：为了让人高兴而顺着人，
 带点软弱的味道。名词 complaisance。正式偏旧，今天多在
 文学里读到。
@@ -50399,6 +50989,7 @@ a complaisant husband = 万事顺着的丈夫
 注意别混：跟表示自满的那个近形词是两码事。
 
 complected
+/kəmˈplektɪd/
 核心：美式的形容词，只跟表示深浅的词连用说肤色：
 dark-complected 深肤色的、light-complected 浅肤色的。
 标准英语更常说 complexioned，不少人认为这个形式不规范。
@@ -50501,6 +51092,7 @@ a complex number = 复数（数学）
 注意读音：名词重音一律在第一个音节。
 
 complexion
+/kəmˈplekʃən/
 核心：两支。一是面色肤色：脸上皮肤的颜色与质地；二是
 引申的性质与局面：put a different complexion on 是使
 事情变成另一回事。可数。
@@ -50541,6 +51133,7 @@ compliant = 顺从的（略带贬义）
 注意搭配：介词用 with。
 
 complicate
+/ˈkɒmplɪkeɪt/
 核心：把本来简单的事弄复杂。形容词 complicated 是复杂
 难办的，说事也说人，说人是指心思难懂；名词 complication
 一是使事情麻烦的新情况，二是医学上的并发症。及物。
@@ -50563,6 +51156,7 @@ complications = 并发症
 注意用法：说人 complicated 是指心思难懂。
 
 complicit
+/kəmˈplɪsɪt/
 核心：合谋的、串通一气的：明知不对还搭了手，或睁只眼
 闭只眼。介词用 in。名词 complicity。贬义，指责性很强。
 ① He was complicit in the cover-up and kept the file for nine years.
@@ -50578,6 +51172,7 @@ complicity = 串通、共谋
 注意语气：贬义，指责性很强。
 
 compliment
+/ˈkɒmplɪmənt/（名）/ˈkɒmplɪment/（动）
 核心：称赞的话：夸人一句。动词是称赞，介词用 on。习语
 fish for compliments 是拐弯抹角讨夸奖。形容词
 complimentary 两支：一是恭维的，二是免费赠送的。
@@ -50600,6 +51195,7 @@ complimentary tickets = 赠票
 注意别混：这个词是夸人，那个同音词是补足，只差一个字母。
 
 compline
+/ˈkɒmplɪn/
 核心：基督教修道日课里的最后一堂：晚祷之后、就寝之前的
 那次祈祷。教会用词。不可数。
 ① The monks sang compline by candlelight with the doors already barred.
@@ -50637,6 +51233,7 @@ failure to comply = 未照办
 注意搭配：介词只用 with。
 
 compo
+/ˈkɒmpəʊ/
 核心：把一个以 comp- 开头的长词截短出来的口语形式，几个行当各截各的，
 所以同一个拼法在不同人嘴里指的不是一回事。建筑与装修行当里指
 composition 那类调和的灰浆；英国军中指 composite ration，成箱配发的
@@ -50671,6 +51268,7 @@ component parts = 组成部件
 注意用法：也可以作定语。
 
 comport
+/kəmˈpɔːt/
 核心：正式而偏旧的词，两支。一是 comport oneself：举止
 行事，等于 behave；二是 comport with：与……相符，多用
 在讲说法跟事实、原则对不对得上。名词 comportment 指
@@ -50688,6 +51286,7 @@ comportment = 举止仪态
 注意语域：正式偏旧。
 
 compos mentis
+/ˌkɒmpəs ˈmentɪs/
 核心：拉丁语借来的说法，法律与医学上说人神志清楚、有
 行为能力，反过来是 non compos mentis。口语里也玩笑地
 说自己还清醒着。作表语，不放名词前。
@@ -50790,6 +51389,7 @@ compostable = 可堆肥降解的
 注意用法：名词不可数。
 
 composure
+/kəmˈpəʊʒə(r)/
 核心：镇定：心里乱不了、脸上也看不出来的那份沉着。
 常见搭配三个：keep、lose、regain one's composure。
 不可数。
@@ -50806,6 +51406,7 @@ regain one's composure = 重新镇定下来
 注意用法：不可数。
 
 compote
+/ˈkɒmpɒt/
 核心：糖水炖果：水果加糖慢慢煮出来的甜品，冷热都吃，
 常配酸奶或配肉。也指盛它的那种高脚玻璃盘。可数不可数
 都行。
@@ -50853,6 +51454,7 @@ a compound fracture = 开放性骨折（断骨刺破皮肉）
 注意读音：名词与形容词重音在前，动词重音在后。
 
 comprehend
+/ˌkɒmprɪˈhend/
 核心：两支。一是理解、领会，比 understand 正式，实际用
 起来多在否定句里；二是书面的「包含」：把某些东西涵盖
 在内。及物。
@@ -50871,6 +51473,7 @@ comprehend = 包含
 注意语域：比 understand 正式，常用于否定句。
 
 comprehensible
+/ˌkɒmprɪˈhensəbəl/
 核心：能看懂听懂的：写得或讲得让人明白。介词用 to 说对
 谁而言。带否定前缀的反义形式其实更常用。
 ① The manual is barely comprehensible and was clearly translated twice over.
@@ -50936,6 +51539,7 @@ comprehensiveness = 全面、周详的程度
 注意用法：英式的中学那一支可以名词化。
 
 compress
+/kəmˈpres/（动）/ˈkɒmpres/（名）
 核心：动词是压缩：把体积压小，也说把时间或文字压短，
 计算机里压缩文件也是它，重音在后。名词重音在前，指
 医用的敷布。名词 compression，形容词 compressed，
@@ -51016,6 +51620,7 @@ compromising = 会连累名声的、不体面的
 注意用法：第二支是及物动词，贬义。
 
 comptroller
+/kənˈtrəʊlə(r)/
 核心：审计长、主计长：政府或大机构里管账目稽核的高级
 官员。它其实就是 controller 的一个旧拼法，读音也跟
 controller 一样，只在职衔里这么写。可数。
@@ -51032,6 +51637,7 @@ the office of comptroller = 主计长这一职位
 注意读音：读得跟 controller 一模一样。
 
 compulsion
+/kəmˈpʌlʃən/
 核心：两支。一是被迫，不可数，under compulsion 是被逼
 的；二是心理上的强迫冲动：忍不住要做某事，可数。形容词
 compulsive 一是有强迫性的，二是说读物与节目让人放不下。
@@ -51080,6 +51686,7 @@ compulsorily = 强制地、按规定必须地
 注意分工：反义是 optional 或 voluntary。
 
 compunction
+/kəmˈpʌŋkʃən/
 核心：良心上的不安：做了亏心事之后那点内疚。几乎只用在
 否定句里，without compunction 与 have no compunction
 about 是最常见的两个说法。不可数，正式词。
@@ -51244,6 +51851,7 @@ The strings play con sordino and the hall swallows them anyway.
 注意用法：四支来路各不相同，不要当成同一个词的引申。
 
 conation
+/kəʊˈneɪʃən/
 核心：心理学把心理活动分成三块：认知 cognition、情感 affect、
 意动 conation。意动指想要去做、去争取的那一面。形容词
 conative。不可数，学术词。
@@ -51277,6 +51885,7 @@ a concatenation of = 一连串接连发生的……
 注意语域：正式词，编程里高频。
 
 concave
+/kɒnˈkeɪv/
 核心：凹的：表面像碗内壁那样往里弯。光学与几何里常用，
 名词 concavity。凸的那一边是另一个词。
 ① The mirror is concave and shows your face upside down at arm's length.
@@ -51427,6 +52036,7 @@ concentration = 浓度
 注意搭配：说专注用 on。
 
 concentric
+/kənˈsentrɪk/
 核心：同心的：几个圆或几层结构共用一个圆心，
 concentric circles 是同心圆。副词 concentrically。
 ① Draw two concentric circles and shade the ring between them.

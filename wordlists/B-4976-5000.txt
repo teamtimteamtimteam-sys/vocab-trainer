@@ -45,6 +45,7 @@ comprehensiveness = 全面、周详的程度
 注意用法：英式的中学那一支可以名词化。
 
 compress
+/kəmˈpres/（动）/ˈkɒmpres/（名）
 核心：动词是压缩：把体积压小，也说把时间或文字压短，
 计算机里压缩文件也是它，重音在后。名词重音在前，指
 医用的敷布。名词 compression，形容词 compressed，
@@ -125,6 +126,7 @@ compromising = 会连累名声的、不体面的
 注意用法：第二支是及物动词，贬义。
 
 comptroller
+/kənˈtrəʊlə(r)/
 核心：审计长、主计长：政府或大机构里管账目稽核的高级
 官员。它其实就是 controller 的一个旧拼法，读音也跟
 controller 一样，只在职衔里这么写。可数。
@@ -141,6 +143,7 @@ the office of comptroller = 主计长这一职位
 注意读音：读得跟 controller 一模一样。
 
 compulsion
+/kəmˈpʌlʃən/
 核心：两支。一是被迫，不可数，under compulsion 是被逼
 的；二是心理上的强迫冲动：忍不住要做某事，可数。形容词
 compulsive 一是有强迫性的，二是说读物与节目让人放不下。
@@ -189,6 +192,7 @@ compulsorily = 强制地、按规定必须地
 注意分工：反义是 optional 或 voluntary。
 
 compunction
+/kəmˈpʌŋkʃən/
 核心：良心上的不安：做了亏心事之后那点内疚。几乎只用在
 否定句里，without compunction 与 have no compunction
 about 是最常见的两个说法。不可数，正式词。
@@ -353,6 +357,7 @@ The strings play con sordino and the hall swallows them anyway.
 注意用法：四支来路各不相同，不要当成同一个词的引申。
 
 conation
+/kəʊˈneɪʃən/
 核心：心理学把心理活动分成三块：认知 cognition、情感 affect、
 意动 conation。意动指想要去做、去争取的那一面。形容词
 conative。不可数，学术词。
@@ -386,6 +391,7 @@ a concatenation of = 一连串接连发生的……
 注意语域：正式词，编程里高频。
 
 concave
+/kɒnˈkeɪv/
 核心：凹的：表面像碗内壁那样往里弯。光学与几何里常用，
 名词 concavity。凸的那一边是另一个词。
 ① The mirror is concave and shows your face upside down at arm's length.
@@ -536,6 +542,7 @@ concentration = 浓度
 注意搭配：说专注用 on。
 
 concentric
+/kənˈsentrɪk/
 核心：同心的：几个圆或几层结构共用一个圆心，
 concentric circles 是同心圆。副词 concentrically。
 ① Draw two concentric circles and shade the ring between them.
