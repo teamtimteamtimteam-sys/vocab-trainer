@@ -80,3 +80,4 @@ most            # 不规则最高级，自成大词（at most、for the most par
 namely       # 词根是名词 name，义为「即、也就是」，不是形容词的副词
 naturally       # 另有句子副词「当然、不用说」（Naturally, I said yes）与 come naturally to，natural 没有这两支
 nearly          # 意思是「几乎、差不多」，不是 near 的「近」加 -ly；near 没有这一支
+neighbourly     # 词根 neighbour 是名词；neighbourly 是形容词（a neighbourly gesture），不是副词，同 motherly

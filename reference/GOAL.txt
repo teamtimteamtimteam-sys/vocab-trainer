@@ -19,14 +19,23 @@ B 10000
   **app 2.1.0 已于 2026-10-06 推送**（用户同意的那一次）；之后的提交照旧本地攒着，push 等用户开口。
   **「继续」现在指什么要看用户上一句在说哪件事**：音标已经补完，「继续」就是接着写词表（n 字母开段）。拿不准就问。
 
-═══ 现状（2026-10-06，第九十九轮收尾）═══
-B 词表 15143 条、义项 55215 条，词典序 a → Nazism。A 表 3002 条。A、B 两表每条都有音标行（第十三道闸门缺一条就红）。
+═══ 现状（2026-10-06，第一百轮收尾）═══
+B 词表 15210 条、义项 55486 条，词典序 a → neon。A 表 3002 条。A、B 两表每条都有音标行（第十三道闸门缺一条就红）。
   **a–m 十三个字母收完**（各字母余下的只有「待推迟」条目；用 coverage.py <字母> 现查）。
-  **n 字母在写**（清单约 1040 条）：大写词头整个字母已判完（判语在 proper-nouns-keep.txt 的 N 段段首）；
-    **na- 段收完**（204 条全收）。
-  **下一步：ne- 段的开段准备**（清单 260 条；HANDOFF 第八节第 ②③④ 步：exclude → inflections → audit-idioms，提交一笔），然后从 ne- 动笔。
-    ni- / no- / nu- / ny- 各段照此一段一做。ne- 的大词：near、neck、need、negative、neither、nerve、net、never、new、news、next。
-    大写的 Negro 收（标明冒犯，并 Negress、Negro spiritual）；Neanderthal、Neolithic、Nepalese、Neptune、Nevisian 都在 keep 名单里。
+  **n 字母在写**（清单约 1040 条）：大写词头整个字母已判完（判语在 proper-nouns-keep.txt 的 N 段段首）；na- 段收完。
+    **ne- 段**：exclude / inflections / 习语清单已做（12 个大词的习语都登了）；写到 neon，待新写还有 106 条。
+    ni- / no- / nu- / ny- 各段的准备还没做，一段一做。
+  **下一批从 neonatal 起**：neonatal（并 neonate）、neophyte、neoplastic、neoprene、Nepalese、nephew、nepotism、Neptune、neptunium、nerd（并 nerdy）、
+    nerve（大词，七条习语；并 nerveless、nerve agent / centre / gas、nerve-racking）、nervous（并 nervously、nervousness、nervous system、nervous breakdown）、nervy、ness、
+    nest（并 nest box、nest egg；nestle、nestling 单立）、net（大词，并 nett、net curtain、net neutrality、net surfer）、netball、netbook、nether、netiquette、netizen、
+    netminder、netting、nettle（并 nettlerash、nettlesome?——nettlesome 单立更稳）、network（并 networker、networking、network effect）、neural（并 neural network）、
+    neuralgia、neurasthenia、neurobiology、neurolinguistics、neurology（并 neurological、neurologist）、neuron、neurophysiology、neuroscience（并 neuroscientist）、
+    neurosis、neurosurgery（并 neurosurgeon）、neurotic、neurotoxin、neurotransmitter、neuter、neutral（并 neutrally、neutrality、neutralist、neutral zone）、neutralize、
+    neutrino、neutron（并 neutron bomb）、never（大词）、nevermore、nevertheless、Nevisian、new（大词）、newbie、newborn、newcomer、newfangled、newness?（并进 new）、
+    news（大词）与 news- 一族约 20 条、newt、newton、next（大词）、nexus。约四批收完 ne-。
+  这一轮记下的：**例句里把词头放进引号会被判元评论**（Negro 两句都栽了）—— 旧称、冒犯语要用历史名称、作品标题这类真用法来配例句，不加引号；
+    词根是名词的 -ly 形容词登 derived-keep（neighbourly，同 motherly）；neither 的音标行写了两个读法（常见 / 也读）。
+    同段还没写的高频词（need、never、new、next、news）前几批都避开了，没有吞词。
   **M 段有一处等用户表态**：Mr / Mrs / Ms 按称谓缩写剔了，已告知用户「想收说一声」，用户尚未表态。别自己改。
   这两轮记下的：并进主条却前四个字母对不上的派生词登 inflections（musing→muse、mutism→mute；mustached 要指到 moustache 这个词头）；
     词根是名词的 -ly 词登 derived-keep（namely）；写某一批时别在例句里用同前缀、还没写的词头（这一批避开了 narrow、nasty、nation、native、natural、nature）。
@@ -37,7 +46,7 @@ B 词表 15143 条、义项 55215 条，词典序 a → Nazism。A 表 3002 条�
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
   已交付六份：B-merged-0001-2500 … 10001-12500（用户已导入 app），**第六份 12501-15000 于 2026-10-06 用 SendUserFile 发给用户**，
     并提醒了「先让 iPad 升到 2.1.0 再导入」（带音标行）。
-  第七份在攒：现为 B-merged-15001-15143（143 条），满 2500 条时照旧主动发给用户。
+  第七份在攒：现为 B-merged-15001-15210（210 条），满 2500 条时照旧主动发给用户。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 在 2026-10-06 推过两次**（音标补齐那批、此前的 app 2.1.0）；之后的提交照旧本地攒着，push 等用户开口。
 
