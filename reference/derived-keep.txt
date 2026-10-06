@@ -75,3 +75,5 @@ monthly         # 词根 month 是名词，不是形容词；monthly 兼形容�
                 # 与名词（月刊），同 daily / hourly 那两条
 mostly          # 意思是「主要地、大多」，说比例与常态；most 作副词是「最」，没有这一支（同 largely）
 motherly        # 词根 mother 是名词；motherly 是形容词（a motherly woman），不是副词，同 gentlemanly
+more            # 不规则比较级，自成大词（more and more、more or less、what is more、构成比较级），much / many 条里放不下，同 less
+most            # 不规则最高级，自成大词（at most、for the most part、make the most of、构成最高级），同 least
