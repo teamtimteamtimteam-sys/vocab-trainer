@@ -1,4 +1,5 @@
 bleachers
+/ˈbliːtʃəz/
 核心：美式，球场边不带顶棚的露天看台，一排排长条木凳或铝凳，
 票最便宜。名字来历很实在：没遮没挡，日头一年年晒，板子都晒白了，
 所以叫 bleachers。只用复数。
@@ -49,6 +50,7 @@ stretch = 延伸
 构词：bleak 黯淡的 + -ly
 
 bleakness
+/ˈbliːknəs/
 核心：荒凉、黯淡这个性质，说景物也说处境。它常跟 unrelieved、
 sheer 搭配，强调"一点亮色都没有"。不可数。
 ① The bleakness of the landscape struck her before the cold did.
@@ -62,6 +64,7 @@ shake off = 摆脱
 构词：bleak 黯淡的 + -ness 性质
 
 bleary
+/ˈblɪəri/
 核心：形容眼睛因为困倦、哭过或喝多而发花看不清。它说的是眼睛的
 状态，不是视力本身有毛病——睡一觉就好了，这是它跟近视之类的
 根本分别。常写成 bleary-eyed。
@@ -86,6 +89,7 @@ blink blearily = 惺忪地眨眼
 构词：bleary 惺忪的 + -ly
 
 bleat
+/bliːt/
 核心：本义是羊或小牛的叫声，那种细而颤的"咩"。引申一支很常用：
 指人有气无力地抱怨、絮絮叨叨地叫屈，带轻蔑——把对方的抱怨比作
 羊叫。后面跟 about。也作名词。
@@ -105,6 +109,7 @@ bleat about = 絮叨着抱怨
 注意语用：说人的那一支带轻蔑。
 
 bleating
+/ˈbliːtɪŋ/
 核心：两支。一是羊叫声本身；二是没完没了的抱怨，承接 bleat 的
 引申义，带轻蔑，常说 constant bleating。名词形容词都用。
 ① The bleating of sheep filled the valley from first light onwards.
@@ -149,6 +154,7 @@ bleed someone dry = 把某人的钱榨光
 注意三态：bleed / bled / bled
 
 bleeder
+/ˈbliːdə(r)/
 核心：两支，都偏旧。医学上旧时管血友病人叫 bleeder，今天正式说法
 是 haemophiliac，这个词已不用于医疗场合。英式旧俚语里 bleeder
 是骂人的话，相当于"这家伙"，语气可轻可重，多见于旧小说和老电影。
@@ -211,6 +217,7 @@ bleep = 电子短音（英式常用）
 beep = 电子短音（美式常用）
 
 bleeper
+/ˈbliːpə(r)/
 核心：英式，传呼机——医院和值班的人腰上别的那个小盒子，有事就
 响一声叫你回电话。美式说 pager。手机普及后基本退出日常，
 但英国医院至今还在用，因为它信号穿得进楼。可数。
@@ -228,6 +235,7 @@ bleeper = 传呼机（英式）
 pager = 传呼机（美式）
 
 blemish
+/ˈblemɪʃ/
 核心：底层是"一小块本不该有的瑕疵"。长在皮肤上是斑点痘印，
 落在名声上是污点，出现在东西表面是划痕污渍。名词最常用，
 动词是玷污。它强调的是"整体是好的，只坏了一小处"，
@@ -248,6 +256,7 @@ blemish = 瑕疵（整体好，坏了一小处）
 flaw = 缺陷（可能伤及整体）
 
 blench
+/blentʃ/
 核心：因为害怕或恶心而猛地一缩、一退。正式偏文学的词，日常说话
 用 flinch。它跟 blanch 只差一个字母，意思也沾边——blanch 是脸
 变白，blench 是身子往后缩，两个词常被混用，看清楚拼写。
@@ -290,6 +299,7 @@ The tea is a blend and no two tins taste quite alike.
 mix = 掺在一起（还看得出各是各）
 
 blender
+/ˈblendə(r)/
 核心：厨房里的搅拌机，底下带刀片的那种，把食材打成泥或打成汁。
 它跟食物料理机的分工是刀片和用途：blender 打液体和糊，
 food processor 切丝切片剁馅。可数。美式也说 liquidizer 的英式对应。
@@ -364,6 +374,7 @@ blessedly free of = 幸而没有
 构词：blessed 有幸的 + -ly
 
 blessedness
+/ˈblesɪdnəs/
 核心：受神眷顾的那种幸福，宗教味很重，多出现在讲道、诗歌和旧
 文本里，日常不用。另有一个固定说法 single blessedness，
 是拿它开玩笑说"单身的清福"。不可数。
@@ -379,6 +390,7 @@ single blessedness = 单身的清福（戏谑说法）
 注意语域：宗教与文学语境，日常不用。
 
 blesser
+/ˈblesə(r)/
 核心：施行祝福的人，字面用法多见于宗教文本。它另有一支南非英语的
 用法，指包养年轻女性、以钱换取交往的富有男子，那一支带明显批评，
 只在南非的社会报道里出现。可数。
@@ -446,6 +458,7 @@ blight = 毁掉（成片地、拖着不放）
 ruin = 毁掉（一次性地、彻底）
 
 blighter
+/ˈblaɪtə(r)/
 核心：英式旧俚语，指"那个家伙"，语气随修饰语走：lucky blighter
 是羡慕，poor blighter 是同情，单说 blighter 才带点厌烦。
 今天基本只在旧小说、老电影和上年纪的人嘴里听到。可数。
@@ -461,6 +474,7 @@ poor blighter = 可怜的家伙
 注意年代：英式旧俚语，今天少见。
 
 Blighty
+/ˈblaɪti/
 核心：英国的旧式亲昵称呼，尤其出自在外当兵的人之口：一战时士兵说
 回 Blighty 就是回国。今天带怀旧与戏谑。另有 a blighty one，指伤得
 正好能被送回国的那种伤。不可数。

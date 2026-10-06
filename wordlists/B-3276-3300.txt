@@ -1,4 +1,5 @@
 breakwater
+/ˈbreɪkwɔːtə(r)/
 核心：修在港口外的一道石堤或混凝土堤，专门迎着浪把浪打散，
 让堤内的水面平静下来，船才停得住。它跟码头的分别在用途：
 breakwater 是挡浪的，pier 是靠船上下人的。可数。
@@ -16,6 +17,7 @@ breakwater = 防波堤（挡浪用）
 pier = 突堤码头（靠船上下人用）
 
 bream
+/briːm/
 核心：一类体侧扁、身形高的鱼，淡水里的欧鳊和海里的鲷鱼
 都叫 bream。它们的共同点是那个"扁而高"的侧影，
 所以英语拿一个词统称。单复数同形，说三条也是 three bream。
@@ -65,6 +67,7 @@ breastbone = 胸骨
 breastfeed = 母乳喂养
 
 breastbone
+/ˈbrestbəʊn/
 核心：胸骨，胸前正中那块扁长的骨头，两侧接着肋软骨，
 把左右肋骨连成一个笼子护住心肺。心肺复苏时按压的位置就在
 它的下半段。正式名称是 sternum。可数。
@@ -83,6 +86,7 @@ breastbone = 胸骨（日常说法）
 sternum = 胸骨（医学正式名称）
 
 breastfeed
+/ˈbrestfiːd/
 核心：用母乳喂养婴儿，跟用奶瓶喂配方奶的 bottle-feed 相对。
 三态不规则：breastfeed / breastfed / breastfed。
 它既可及物也可不及物：breastfeed the baby 是喂那个孩子，
@@ -99,6 +103,7 @@ breastfeed
 bottle-feed = 用奶瓶喂养
 
 breastplate
+/ˈbrestpleɪt/
 核心：护住胸口的那片铠甲，金属或皮革做的一整块，是全身甲里
 最要紧的一件——心肺都在后面。中世纪骑士和罗马军团都用。
 可数。
@@ -114,6 +119,7 @@ display = 展出
 注意用法：护的是心肺这些要害。
 
 breaststroke
+/ˈbreststrəʊk/
 核心：蛙泳，四种竞技泳姿之一：两臂在胸前划圆往外推，
 两腿像蛙一样收起来再蹬开，头随着换气一起一伏。
 它是四种泳姿里速度最慢的，但最省力、最容易保持头在水面上。
@@ -167,6 +173,7 @@ breath = 呼吸（名词，元音短）
 breathe = 呼吸（动词，元音长，结尾浊音）
 
 breath test
+/ˈbreθ test/
 核心：呼气检测，最常见的是查驾驶人有没有酒驾：
 对着仪器吹一口，测呼出气里的酒精浓度，再据此推算血液含量。
 后来也用于检测幽门螺杆菌等医学用途。可数。
@@ -184,6 +191,7 @@ bacterium = 细菌
 breathalyser = 酒精呼气测试仪
 
 breathable
+/ˈbriːðəbəl/
 核心：两支。最常用的是说面料"透气"——汗气能透出去、
 不闷不捂，运动服和登山装备的卖点就在这里。另一支说空气
 可供呼吸，多见于科幻和环境话题里，说某个星球有没有
@@ -200,6 +208,7 @@ breathable air = 可供呼吸的空气
 注意用法：说面料那一支最常用。
 
 breathalyse
+/ˈbreθəlaɪz/
 核心：用酒精测试仪查驾驶人呼气里的酒精含量。警察拦下车让人
 对着仪器吹气，读数超标就构成酒驾。英式拼 breathalyse，
 美式拼 breathalyze。及物。
@@ -217,6 +226,7 @@ breathalyse = 做酒精呼气检测（英式拼法）
 breathalyze = 做酒精呼气检测（美式拼法）
 
 breathalyser
+/ˈbreθəlaɪzə(r)/
 核心：酒精呼气测试仪，测的是呼出气里的酒精浓度，
 再据此推算血液酒精含量。它本是商标名 Breathalyzer，
 用得多了就成了通名，这跟 hoover、biro 是同一个路子。
@@ -259,6 +269,7 @@ breathe = 呼吸（动词）
 breath = 呼吸（名词）
 
 breather
+/ˈbriːðə(r)/
 核心：短暂的歇口气，口语，固定说法是 take a breather 或
 have a breather——干活干累了停一小会儿，强调时间很短。
 它跟正经的 break 分工：breather 更短、更随口。可数。
@@ -296,6 +307,7 @@ Two extra weeks gave them breathing room and they used it to argue.
 注意用法：breathing space 指的是缓一缓的余地。
 
 breathless
+/ˈbreθləs/
 核心：两支。一是喘不上气的，跑完或病了那种。二是屏住呼吸般的
 ——因为紧张、激动或期待而"连气都忘了喘"，
 breathless anticipation 是屏息以待。第二支是褒义或中性的，
@@ -326,6 +338,7 @@ wait breathlessly = 屏息等待
 构词：breathless 屏息的 + -ly
 
 breathtaking
+/ˈbreθteɪkɪŋ/
 核心：美到或惊人到让人一时忘了呼吸。它最常用来夸景色、
 夸技艺、夸速度，是很强的褒义词。但它也常反着用：
 breathtaking arrogance 是"傲慢得叫人瞠目"，
@@ -342,6 +355,7 @@ a breathtaking performance = 令人屏息的演出
 注意用法：可褒可贬，反用时只保留"程度惊人"。
 
 breech
+/briːtʃ/
 核心：两支。一是枪炮的后膛：装弹药的那一头，跟枪口那头
 相对；breech-loading 是后膛装填，比从枪口塞进去的前膛枪
 快得多，是十九世纪的重要改进。二是产科术语：
@@ -364,6 +378,7 @@ breach = 违反；缺口（同音不同词）
 breeches = 马裤（复数，另一个词）
 
 breeches
+/ˈbrɪtʃɪz/
 核心：及膝的紧身裤，裤腿到膝下收口。它在两处还活着：
 骑马服里的马裤，和古装剧里十八世纪男装那种配长袜的短裤。
 只用复数，论条说 a pair of breeches。口语里也拼作 britches。
@@ -410,6 +425,7 @@ bred 大量用作复合形容词的后半截，前面加个副词说明「怎么
 注意三态：breed / bred / bred
 
 breeder
+/ˈbriːdə(r)/
 核心：两支。一是育种的人：有计划地给动植物配种、挑选后代，
 说 a dog breeder 是养狗育种的人，跟随便养宠物的人分得开。
 二是核物理术语：breeder reactor 是增殖反应堆，
@@ -477,6 +493,7 @@ breezeway = 连接两栋楼的有顶通道（美式）
 breezy = 有微风的；轻松的
 
 breezeblock
+/ˈbriːzblɒk/
 核心：英式，煤渣砖——用煤渣或炉渣掺水泥压成的空心大砖块，
 比实心砖轻、便宜、砌得快，多用来砌内墙和不承重的隔断。
 表面粗糙，通常还要抹灰。美式叫 cinder block。可数。
@@ -490,6 +507,7 @@ breezeblock = 煤渣砖（英式）
 cinder block = 煤渣砖（美式）
 
 breeziness
+/ˈbriːzinəs/
 核心：两支。一是天气有微风、凉爽这个性质。二是人身上那股
 轻松自在的劲儿——不拘谨、不端着。第二支可褒可贬：
 夸人随和是褒，嫌人不上心是贬，跟 breezy 一样看语气。

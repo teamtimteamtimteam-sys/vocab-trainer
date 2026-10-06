@@ -94,6 +94,7 @@ building = 建筑物（任何用途）
 house = 住宅（专指住人的）
 
 building society
+/ˈbɪldɪŋ səsaɪəti/
 核心：英式的一类金融机构，由会员共同拥有，主要业务是收存款、
 放房贷。它跟银行的根本分别在归属：building society 归存款的
 会员所有，银行归股东所有，所以前者的盈利理论上回到会员身上。
@@ -129,6 +130,7 @@ plant bulbs = 种球茎
 注意用法：两支靠语境分，园艺文里一定是球茎。
 
 bulbous
+/ˈbʌlbəs/
 核心：形容词，圆鼓鼓的、像球茎一样往外鼓的。它最常见的搭配是
 a bulbous nose——鼓起的酒糟鼻，用来说人多少带点不客气。
 也说船首、说建筑、说植物的形状。
@@ -144,6 +146,7 @@ a bulbous bow = 球鼻艏
 注意语用：说人的鼻子时带一点不客气。
 
 bulgar
+/ˈbʌlɡə(r)/
 核心：粗麦粉——小麦粒煮过、烘干再碾碎，所以泡一泡就能吃，
 不用久煮。中东菜里的塔布勒沙拉用的就是它。
 更常见的拼法是 bulgur，两种都通行。不可数。
@@ -197,6 +200,7 @@ a bulge = 数量上的一段隆起
 bulging = 鼓鼓的；塞满的
 
 bulging
+/ˈbʌldʒɪŋ/
 核心：形容词，鼓鼓的、撑得满满的。两种常见用法：
 说容器是塞得太满，a bulging suitcase 是撑得关不上的箱子；
 说眼睛是瞪得凸出，bulging eyes 多因惊恐或用力。
@@ -212,6 +216,7 @@ bulging eyes = 瞪凸的眼睛
 构词：bulge 鼓出 + -ing
 
 bulimia
+/buˈlɪmiə/
 核心：一种进食障碍，特点是暴食之后再想办法把吃进去的弄出来。
 它跟厌食症 anorexia 的分别常被混：厌食是极力少吃，
 贪食是先吃后清，体重未必看得出来。全称是 bulimia nervosa。
@@ -230,6 +235,7 @@ bulimia = 贪食症（先暴食再设法清除）
 anorexia = 厌食症（极力少吃）
 
 bulimic
+/buˈlɪmɪk/
 核心：形容词也作名词，指患贪食症的或那样的患者。
 今天医学和媒体写作里越来越少用它当名词直接指人——
 说 a person with bulimia 比说 a bulimic 得体，
@@ -271,6 +277,7 @@ bulk out = 使分量显得更多
 注意用法：the bulk of 和 in bulk 是两个高频搭配。
 
 bulkhead
+/ˈbʌlkhed/
 核心：船舱和机舱里的隔板，把内部分成互不相通的若干段。
 它要紧在防沉：一处破了进水，水被隔板挡在那一段里，
 船还浮得住。飞机上分舱的那道板也叫它，
@@ -356,6 +363,7 @@ bull dyke = 对外表偏男性化的女同性恋者的侮辱称呼
 bullish = 看涨的；牛气的
 
 bulldog
+/ˈbʊldɒɡ/
 核心：一种矮壮的犬，头大、口鼻扁塌、下颌前突。名字来自
 它的旧用途：bull-baiting，一种拿狗咬公牛的旧式娱乐，
 后来被禁。今天这个词更常用在比喻上：
@@ -371,6 +379,7 @@ bulldog spirit = 顽强不退让的劲头
 注意来历：名字来自那种已被禁止的旧式娱乐。
 
 bulldoze
+/ˈbʊldəʊz/
 核心：本义是用推土机把地面推平、把房子推倒。引申义用得更多：
 不顾反对硬推——bulldoze a plan through 是把方案强行推过去，
 bulldoze someone into doing something 是硬压着人做事。
@@ -387,6 +396,7 @@ bulldoze someone into = 强压某人做某事
 注意语用：引申义带明确批评。
 
 bulldozer
+/ˈbʊldəʊzə(r)/
 核心：推土机，前面装一块大铲板把土石推开的工程车。
 引申指那种不听劝、硬往前推的人，说 he is a bulldozer
 是在说他碾过所有反对意见——跟动词 bulldoze 一样带批评。
@@ -428,6 +438,7 @@ dodge a bullet = 侥幸避开一场麻烦
 bulleted = 带项目符号的
 
 bullet train
+/ˈbʊlɪt treɪn/
 核心：高速列车的通俗说法，最早指日本的新干线——车头流线型
 像子弹，名字由此而来。今天泛指各国的高铁，
 新闻里用它比说 high-speed rail 更口语。可数。
@@ -442,6 +453,7 @@ bullet train = 高速列车（通俗说法）
 high-speed rail = 高速铁路（正式说法）
 
 bulleted
+/ˈbʊlɪtɪd/
 核心：形容词，带项目符号的。它几乎只跟 list 搭配：
 a bulleted list 是用圆点分条列出来的清单。
 排版和写作指南里常用，说 present it as a bulleted list
@@ -481,6 +493,7 @@ bulletin = 简报（短，追进展）
 report = 报告（长，成篇）
 
 bulletproof
+/ˈbʊlɪtpruːf/
 核心：字面是防弹的，说背心说玻璃说车。引申义用得更多：
 无懈可击的、挑不出毛病的——a bulletproof alibi 是滴水不漏的
 不在场证明，a bulletproof case 是驳不倒的理据。
@@ -497,6 +510,7 @@ bulletproof = 无懈可击的
 注意用法：引申义比字面义常用。
 
 bullfight
+/ˈbʊlfaɪt/
 核心：西班牙、葡萄牙和拉美部分地区的一种传统表演，
 斗牛士在场上与公牛周旋。这个词在英语里天然带争议色彩：
 提到它多半连着动物福利的讨论，不少地方已立法禁止。可数。
