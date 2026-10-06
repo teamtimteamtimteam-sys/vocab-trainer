@@ -17,40 +17,27 @@ B 10000
   到 2026-10-06 十轮共校了 9929 条，A、B 两表音标全部补齐（B 表缺 0 条）。
   同日做了第一轮名动异读核对：67 条改成分读法标注（-ate 形动对、清浊对、重音对、同形异读）。
   **app 2.1.0 已于 2026-10-06 推送**（用户同意的那一次）；之后的提交照旧本地攒着，push 等用户开口。
-  **「继续」现在指什么要看用户上一句在说哪件事**：说的是音标就接着补音标，说的是词表就从 muscat 接着写。拿不准就问。
+  **「继续」现在指什么要看用户上一句在说哪件事**：音标已经补完，「继续」就是接着写词表（n 字母开段）。拿不准就问。
 
-═══ 现状（2026-10-06，第九十六轮收尾）═══
-B 词表 14973 条、义项 54489 条，词典序 a → murmur。A 表 3002 条。
-  **a–l 十二个字母收完**（各字母余下的只有「待推迟」条目，等后面字母的内容词；用 coverage.py <字母> 现查）。
-  **m 字母在写**（清单约 2300 条）：ma- / me- / mi- / mo- 四段收完（余下的只有「待推迟」，另 Mohammed、Moslem 等 Muhammad、Muslim 两条）；
-    mc-、mn- 也写了；**mu- 段写到 murmur，待新写还有 66 条；my- 段 34 条没动。**
-  **开段准备**：M 段大写词头全判完（Mr / Mrs / Ms 按称谓缩写剔了，已告知用户「想收说一声」，用户尚未表态）；
-    mu- / my- 两段的 exclude、inflections、audit-idioms 都做了（2026-10-06）：剔了 mukene、murram、munsif、mushaira、muti、mulligatawny、mulatto、
-    multicast、muddy waters（人名）、myelin、mythography；mustache / mustached 登成 moustache 的美式拼法，等式已挂在 moustache 条；
-    mustachioed 是另一个词，写到时单立。习语清单补了 much、muck、mud、mug、mum、murder、muscle、music、must、mustard、muster、mutton。
-    **n 字母的准备还没做**（大写词头整个字母一次判完，见 HANDOFF 第八节五步）。
-  **下一批从 muscat 起**：muscat、muscatel、muscle（大词，并 muscled、muscle in、muscle-bound；muscleman 单立）、muscovado、muscular、musculature、muse（并 musing）、
-    museum（并 museum piece）、mush、musher、mushroom（并 mushroom cloud）、mushy（并 mushy peas）、music（大词，并 music box / hall / stand / video）、
-    musical（并 musically、musicality、musical box / bumps / chairs / comedy / director / saw）、musician（并 musicianship）、musicology（并 musicologist）、musk（并 musky、
-    musk ox、musk rose）、musket（并 musketry；musketeer 单立）、muskrat、Muslim（Moslem 挂等式）、muslin、muso、muss、mussel、must（大词）、mustachioed、mustang、
-    mustard（并 mustard gas、mustard greens）、muster（并 muster station）、musty、mutable（并 mutability）、mutant、mutate（并 mutation）、mutatis mutandis、
-    mute（并 muted、mutely、mutism、mute button）、mutilate（并 mutilation）、mutiny（并 mutineer、mutinous、mutinously）、mutt、mutter（并 muttering）、mutton（并 mutton chops）、
-    mutual（并 mutually、mutuality、mutual fund）、muzzle、muzzy。约两批半收完 mu-，接着 my- 段 34 条（my、myself、mystery、myth 四个词是重点）。
-    **第六份交付文件写到 2473 条，下一批写满 27 条就满 2500**：merge-wordlist.py 会自动定名 B-merged-12501-15000 并登进台账，
-    **到时用 SendUserFile 把它发给用户，告诉他「第六份可以导入了」**。
-    **n 字母的开段准备还没做**（大写词头整个字母一次判完，见 HANDOFF 第八节五步）。
-    multi- 一族的教训：这一族互为同前缀，分两批写时，前一批的条目里一个后一批的 multi- 词都不能出现；这一轮照此写，没有吞词。
-    例句仍有写短的（municipality 两句都不到九个词）：两义小词每句动笔就带上地点、原因或结果。
-  **节奏**：每次回复约三批（每批 20–25 条，有大词就少些），每批跑十二道闸门加判重、各自本地提交；开新段那一轮可以是「准备 + 两批」。
+═══ 现状（2026-10-06，第九十七轮收尾）═══
+B 词表 15041 条、义项 54788 条，词典序 a → myxomatosis。A 表 3002 条。A、B 两表每条都有音标行（第十三道闸门现在缺一条就红）。
+  **a–m 十三个字母收完**（各字母余下的只有「待推迟」条目，等后面字母的内容词；用 coverage.py <字母> 现查。
+    m 字母清单 2356 条已收 2341 条，余下 15 条都是待推迟，另 Mohammed 一条等 Muhammad）。
+  **M 段有一处等用户表态**：Mr / Mrs / Ms 按称谓缩写剔了，已告知用户「想收说一声」，用户尚未表态。别自己改。
+  **下一步：n 字母的开段准备**（HANDOFF 第八节五步：大写词头整个字母一次判完 → exclude → inflections → audit-idioms → 提交一笔「开段准备」），
+    然后从 na- 段动笔。开新段那一轮可以是「准备 + 两批」。
+  这一轮记下的：并进主条却前四个字母对不上的派生词又出现三个（musing→muse、mutism→mute；mustached 要指到 moustache 这个词头，
+    指到没有单立的 moustached 不算数）—— 都登了 inflections。
+  **节奏**：每次回复约三批（每批 20–25 条，有大词就少些），每批跑十三道闸门加判重、各自本地提交。
   **in- 段的并入原则仍适用于所有字母**：多词条目（X + 名词、短语动词）一律按重心并进以 X 打头的那个词条，
     写每个大词前先从 coverage 输出里把以它打头的「待并入」「待推迟」条目列出来，全部并进去。
   **high 78 义，用户 2026-09-23 裁定不拆**。
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
-  已交付五份：B-merged-0001-2500 / 2501-5000 / 5001-7500 / 7501-10000 / 10001-12500（用户已导入 app）。
-  **第六份在攒：现为 B-merged-12501-14973（2473 条），满 2500 条时会自动定名 B-merged-12501-15000 并登进台账 ——
-  到时主动告诉用户「第六份可以导入了」并用 SendUserFile 发给他。** 还差 27 条。
+  已交付六份：B-merged-0001-2500 … 10001-12500（用户已导入 app），**第六份 12501-15000 于 2026-10-06 用 SendUserFile 发给用户**，
+    并提醒了「先让 iPad 升到 2.1.0 再导入」（带音标行）。
+  第七份在攒：现为 B-merged-15001-15041（41 条），满 2500 条时照旧主动发给用户。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
-  **origin 目前在 51e34015**；本地领先 237 个提交，全部没推，push 照旧等用户开口。
+  **origin 在 2026-10-06 推过两次**（音标补齐那批、此前的 app 2.1.0）；之后的提交照旧本地攒着，push 等用户开口。
 
 ═══ 近三天新记下的教训（动笔时自查，每条都栽过不止一次）═══
 · **两义项的术语词扎堆，整块的批均等式会掉到基线下**（hy- 段 hypersensitive 那批
