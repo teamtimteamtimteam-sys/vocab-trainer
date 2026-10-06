@@ -273,3 +273,5 @@ napa         nappa          # 拼法变体；在 nappa 条配等式
 nett         net            # 拼法变体；在 net 条配等式
 needn't      need           # 缩略式；在 need 条配例句
 needs        need           # 副词（must needs）与复数、第三人称形，并在 need 条
+nite         night          # 非正式拼法；在 night 条配等式
+nibs         nib            # his nibs 并在 nib 条
