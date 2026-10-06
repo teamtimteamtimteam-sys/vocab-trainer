@@ -266,4 +266,6 @@ moveable     movable        # 拼法变体；在 movable 条配例句
 mousey       mousy          # 拼法变体；在 mousy 条配例句
 mossie       mozzie         # 拼法变体；在 mozzie 条配例句
 mustache     moustache      # 美式拼法；在 moustache 条配等式
-mustached    moustached     # 美式拼法；在 moustache 条配等式
+mustached    moustache      # 美式拼法；在 moustache 条配等式（moustached 并在该条，没有单立）
+musing       muse           # 名词并进 muse 条后，前四字母对不上
+mutism       mute           # 名词并进 mute 条后，前四字母对不上
