@@ -1,4 +1,5 @@
 biohazard
+/ˈbaɪəʊhæzəd/
 核心：指细菌、病毒、血液样本这类会危害健康的生物性危险物，也指
 它带来的风险。实验室和医院的容器与警示牌上就印这个词。可数。
 ① The lab handles biohazards daily and logs every container that leaves.
@@ -102,6 +103,7 @@ biological = 生物的
 biologist = 生物学家
 
 bioluminescence
+/ˌbaɪəʊˌluːmɪˈnesəns/
 核心：活体自己发出的光——萤火虫、深海鱼、发光水母、有些真菌。
 靠体内的化学反应发光，几乎不发热，所以又叫冷光。不可数。
 ① Bioluminescence lights the deep sea where no sunlight reaches.
@@ -118,6 +120,7 @@ A bioluminescent bay glows when you swim and not when you photograph.
 = 会发生物光的海湾，你游泳时它发光，拍照时就不发。
 
 biomass
+/ˈbaɪəʊmæs/
 核心：两支。生态学上指一片地方生物体的总量，按重量算；能源上指
 拿来当燃料的植物与动物废料。两支都不可数。
 ① Forest biomass has declined even where the number of trees has held steady.
@@ -137,6 +140,7 @@ biomass = 生物质（原料）
 bioenergy = 生物能（取出来的能量）
 
 biome
+/ˈbaɪəʊm/
 核心：按气候和植被划分的大尺度生态区，苔原、雨林、荒漠、草原
 各是一个。分的不是地理位置而是气候与植被，所以同一个 biome 可以
 隔着大洋分布在几块大陆上。可数。
@@ -152,6 +156,7 @@ biome = 生物群系（按气候植被分的大区）
 ecosystem = 生态系统（一处生物与环境的整体，尺度可大可小）
 
 biomechanics
+/ˌbaɪəʊmɪˈkænɪks/
 核心：用力学的方法研究生物体的运动——骨骼肌肉怎么受力、跑姿好不好、
 假肢该怎么设计。形式上是复数，当单数用。
 ① Biomechanics explains the injury better than bad luck does.
@@ -167,6 +172,7 @@ the biomechanics of = 某动作的力学机理
 biomechanical = 生物力学的
 
 biomedical
+/ˌbaɪəʊˈmedɪkəl/
 核心：形容词，指把生物学的方法用到医学问题上。常用搭配就三个：
 biomedical research、biomedical engineering、biomedical science。
 ① He works in biomedical research on a grant that runs out in June.
@@ -181,6 +187,7 @@ biomedical engineering = 生物医学工程
 构词：bio- 生物 + medical 医学的
 
 biometric
+/ˌbaɪəʊˈmetrɪk/
 核心：形容词，也作名词，指靠身体特征认人——指纹、虹膜、面容、声纹。
 作名词时多用复数 biometrics。
 ① The phone uses biometric data that never leaves the handset.
@@ -195,6 +202,7 @@ biometrics = 生物特征识别（名词，多用复数）
 构词：bio- 生物 + metric 测量的
 
 bionic
+/baɪˈɒnɪk/
 核心：形容词，两支。一是用电子机械替代或增强身体机能的，
 bionic arm 就是这一支；二是口语里夸张地说"超人一般的"，
 从上世纪的电视剧传开。
@@ -213,6 +221,7 @@ bionic limb = 仿生肢体
 bionics = 仿生学
 
 biophysics
+/ˌbaɪəʊˈfɪzɪks/
 核心：用物理学的方法研究生命现象——蛋白质怎么折叠、离子怎么过膜、
 神经怎么导电。形式上是复数，当单数用。
 ① Biophysics studies protein folding, a problem that took decades to crack.
@@ -227,6 +236,7 @@ biophysics
 biophysicist = 生物物理学家
 
 biopic
+/ˈbaɪəʊpɪk/
 核心：传记片，讲真人一生的电影。构词是 biographical picture 掐头
 去尾拼成的，所以按 bio 加 pic 切，不是 bi 加 optic。可数。
 ① The biopic won three awards and was disowned by the family it portrayed.
@@ -260,6 +270,7 @@ biopsy = 活检（取活人组织）
 autopsy = 尸检（查死因）
 
 biorhythm
+/ˈbaɪəʊrɪðəm/
 核心：指身体按周期起伏的节律——睡眠、体温、激素都算，多用复数。
 另有一支指按出生日推算周期的那套说法，属伪科学，看语境分辨。
 ① Jet lag disrupts your biorhythms for about a day per time zone crossed.
@@ -277,6 +288,7 @@ biorhythm = 生物节律（泛指身体的周期起伏）
 circadian rhythm = 昼夜节律（专指约二十四小时那套）
 
 bioscience
+/ˈbaɪəʊsaɪəns/
 核心：生命科学的总称，生物学、生化、遗传、生态都装在里面。
 多用复数 biosciences，指这一大片学科。
 ① She works in the biosciences and moved across from chemistry.
@@ -293,6 +305,7 @@ bioscience = 生命科学（学科总称）
 life sciences = 生命科学（同义，日常更常用）
 
 biosecurity
+/ˌbaɪəʊsɪˈkjʊərɪti/
 核心：防病原体、害虫和外来物种传进来或散出去的那套措施——农场消毒、
 口岸检疫、实验室分级都算。跟 biodefence 的分别在假想的来路：
 这个防的多是自然传播和意外，那个防的是蓄意投放。不可数。
@@ -311,6 +324,7 @@ biosecurity = 生物安全（防自然传入与意外）
 biodefence = 生物防御（防蓄意投放）
 
 biosphere
+/ˈbaɪəʊsfɪə(r)/
 核心：地球上所有生物连同它们生存的那层空间——地表、水体和低层
 大气。它是把生命看成一个整体的说法，所以几乎总是 the biosphere。
 可数，但复数极少见。
@@ -328,6 +342,7 @@ atmosphere = 大气圈
 hydrosphere = 水圈
 
 biotechnological
+/ˌbaɪəʊˌteknəˈlɒdʒɪkəl/
 核心：形容词，指跟生物技术有关的。它没有额外的意思，就是
 biotechnology 的形容词形式，多修饰 advance、process、company。
 ① Biotechnological advances cut costs until insulin was cheap to make.
@@ -364,6 +379,7 @@ biotech = 生物技术（缩略形式，多作定语）
 构词：bio- 生物 + technology 技术
 
 biotic
+/baɪˈɒtɪk/
 核心：形容词，生态学术语，指"生物的、由生物造成的"。它基本只跟
 abiotic 对着用：biotic factors 是捕食、竞争、寄生这些来自活物的
 因素，abiotic factors 是温度、光照、土壤这些不来自活物的。
@@ -381,6 +397,7 @@ biotic community = 生物群落
 abiotic = 非生物的（温度、光照、土壤）
 
 biotype
+/ˈbaɪəʊtaɪp/
 核心：同一物种里遗传构成一致的一群个体。它比"物种"细一层，
 多用在害虫和病原菌上——同一种蚜虫分出好几个 biotype，有的能咬
 抗虫品种，有的不能，防治办法就得跟着分。可数。
@@ -396,6 +413,7 @@ biotype = 生物型（遗传一致的一群）
 species = 物种（更大一层）
 
 bipartisan
+/ˌbaɪpɑːtɪˈzæn/
 核心：形容词，指两党共同的、得到两党支持的，美国政治里的高频词。
 它的分量在于稀罕：多数议案都是一党推、一党挡，说 bipartisan
 就是在强调这件事难得地两边都点了头。
@@ -412,6 +430,7 @@ bipartisan committee = 两党联合委员会
 partisan = 一党一派的、有党派偏见的
 
 bipartite
+/baɪˈpɑːtaɪt/
 核心：正式用词，指"由两部分组成的"或"两方参与的"。多见于法律、
 外交和技术文件里，日常说话不用它，日常会说 two-part 或 two-sided。
 ① They signed a bipartite agreement and left the third country out of it.
@@ -429,6 +448,7 @@ bipartite structure = 二分结构
 tripartite = 三方的
 
 biped
+/ˈbaɪped/
 核心：用两条腿走路的动物。人、鸟、袋鼠都算，跟四条腿的
 quadruped 相对。多见于生物学和人类学的行文里。可数。
 ① Ostriches are the fastest bipeds alive.

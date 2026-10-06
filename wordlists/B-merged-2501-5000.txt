@@ -1,4 +1,5 @@
 binoculars
+/bɪˈnɒkjʊləz/
 核心：双筒望远镜，只用复数——因为它是两个镜筒并在一起的，
 跟 glasses、scissors 同理，论具要说 a pair of binoculars。
 跟单筒的 telescope 分工：binoculars 便携、视野宽、看远处的鸟兽
@@ -19,6 +20,7 @@ binoculars = 双筒望远镜（便携，视野宽）
 telescope = 单筒望远镜（倍率高，观天）
 
 binomial
+/baɪˈnəʊmiəl/
 核心：两条线，都从"两个名"来。数学上指"二项式"——两项相加减
 组成的代数式，如 x 加 y；生物学上指"双名法的"，学名由属名加
 种加词两部分组成，所以人是 Homo sapiens。构词是 bi-（二）加
@@ -39,6 +41,7 @@ binomial distribution = 二项分布
 构词：bi- 二 + nomen 名
 
 bint
+/bɪnt/
 核心：英式俚语，指女人，带轻蔑，是不礼貌的说法，知道意思就行，
 不要用。词源有意思：来自阿拉伯语的"女儿、女孩"，本是中性词，
 英军在中东驻扎时带回英国，进了英语之后才染上贬义——
@@ -53,6 +56,7 @@ bint
 经英军带回英语后才变成贬义。
 
 biobank
+/ˈbaɪəʊbæŋk/
 核心：专门收存生物样本的库——血液、组织、DNA，连同捐献者的
 健康数据一起长期低温保存，供研究使用。它跟普通标本库的区别在于
 规模和配套数据：样本要能跟病历、随访信息对上，才有研究价值。
@@ -70,6 +74,7 @@ biobank access = 样本库使用权限
 biobanking = 生物样本库的建设与管理
 
 biobreak
+/ˈbaɪəʊbreɪk/
 核心：美式办公室与会议里的委婉说法，指"上厕所的休息时间"。
 构词是 bio-（生理）加 break（休息），用一个技术味的词避开
 直说，常出现在远程会议和长时间培训里。语气轻松，
@@ -87,6 +92,7 @@ biobreak = 方便一下（委婉，办公室用语）
 comfort break = 中场休息（英式，同样委婉）
 
 biochemical
+/ˌbaɪəʊˈkemɪkəl/
 核心：形容词，指"生物化学的"——跟活体内发生的化学过程有关。
 也作名词，指生化制品或生化物质。构词是 bio-（生命）加 chemical
 （化学的）。它跟 chemical 的分界很清楚：加了 bio- 就限定在
@@ -106,6 +112,7 @@ biochemistry = 生物化学
 biochemist = 生物化学家
 
 biochemist
+/ˌbaɪəʊˈkemɪst/
 核心：研究生命体内化学过程的人——酶怎么催化、代谢怎么走、
 蛋白质怎么折叠都归他们管。它跟 chemist 的分工是研究对象：
 chemist 研究物质本身，biochemist 研究物质在活体里怎么反应。
@@ -124,6 +131,7 @@ chemist = 化学家；（英式）药剂师、药店
 biochemistry = 生物化学
 
 biochemistry
+/ˌbaɪəʊˈkemɪstri/
 核心：研究生命体内化学过程的学科，介于生物学和化学之间：
 用化学的方法去解释生命现象。不可数。它也用来指某个具体生物体
 "体内的生化状况"——说 the patient's biochemistry，
@@ -145,6 +153,7 @@ biochemical = 生化的
 biochemist = 生化学家
 
 bioconversion
+/ˌbaɪəʊkənˈvɜːʃən/
 核心：技术用语，指靠生物的力量把一种物质转成另一种——用微生物、
 酶或植物把有机废料变成燃料、饲料或化工原料。它跟单纯的化学转化
 的分别就在这个"生物"：干活的是活体或活体产生的酶，
@@ -163,6 +172,7 @@ biofuel = 生物燃料
 biodegradable = 可生物降解的
 
 biodata
+/ˈbaɪəʊdeɪtə/
 核心：指一个人的"个人背景资料"——学历、工作经历、家庭情况这类
 成套信息。在南亚以外的英语里它主要出现在人力资源和心理测量的
 语境里，指用背景资料预测工作表现的那套方法。
@@ -182,6 +192,7 @@ biodata = 个人背景资料（成套信息）
 résumé = 简历（本人撰写，自陈经历）
 
 biodefence
+/ˈbaɪəʊdɪfens/
 核心：指防生物武器和人为疫情的整套防备——监测预警、疫苗储备、
 实验室安保。手段跟公共卫生防疫一样，分别在假想对手是人。不可数。
 ① The country expanded its biodefence programme after the outbreak reached the capital.
@@ -199,6 +210,7 @@ biodefence = 生物防御（英式）
 biodefense = 生物防御（美式）
 
 biodegradable
+/ˌbaɪəʊdɪˈɡreɪdəbəl/
 核心：说一样东西能被细菌真菌分解掉，烂完回到自然里。反面是塑料
 玻璃那种埋着不烂的，否定式 not biodegradable 用得很多。
 ① Use biodegradable packaging or expect the council to charge you for waste.
@@ -219,6 +231,7 @@ compostable = 可堆肥的（还须限期内分解、残渣无毒）
 recyclable = 可回收的（靠人工再造，跟会不会烂无关）
 
 biodegrade
+/ˌbaɪəʊdɪˈɡreɪd/
 核心：指有机物被微生物分解掉，回到自然循环。要害在"谁来分解"：
 靠活的微生物才算，日晒风吹碎成小块不算。多作不及物。
 ① Paper biodegrades quickly in a warm heap but hardly at all in a sealed landfill.
@@ -240,6 +253,7 @@ Biodegradation of that bag takes four hundred years in a landfill.
 = 那种袋子在填埋场里的生物降解，要四百年。
 
 biodiesel
+/ˈbaɪəʊdiːzəl/
 核心：用植物油或动物脂肪做的柴油替代燃料。不可数。按掺混比例标号，
 B20 是掺两成，B100 才是纯的。
 ① The bus runs on biodiesel and smells faintly of the chip shop next door.
@@ -279,6 +293,7 @@ biodiversity hotspot = 生物多样性热点地区
 biodiverse = 生物多样性丰富的
 
 bioenergy
+/ˌbaɪəʊˈenədʒi/
 核心：从生物质里取出来的能量——木柴、秸秆、粪肥、有机垃圾，烧掉
 或发酵产气都算。不可数，多出现在能源统计和政策文件里。
 ① The town heats its schools with bioenergy from wood chips.
@@ -295,6 +310,7 @@ biomass = 生物质（原料本身）
 biofuel = 生物燃料（加工出来的燃料）
 
 bioengineering
+/ˌbaɪəʊˌendʒɪˈnɪərɪŋ/
 核心：两条线：把工程手段用到医学上（人工关节、支架、义肢），也叫
 biomedical engineering；或者改造生物体去替人合成药物材料。共同点
 是把活物当成工程对象来造。不可数。
@@ -317,6 +333,7 @@ bioengineering = 生物工程（重在设计制造）
 biotechnology = 生物技术（重在把生物过程用于产业）
 
 bioethanol
+/ˌbaɪəʊˈeθənɒl/
 核心：作物发酵酿出的酒精，脱水后当汽油替代燃料烧。多掺进汽油里用，
 E10、E85 这类标号里的数字就是乙醇的掺混比例。
 ① The car runs on a bioethanol blend and loses a little range in winter.
@@ -336,6 +353,7 @@ bioethanol = 生物乙醇（替汽油）
 biodiesel = 生物柴油（替柴油）
 
 bioethics
+/ˌbaɪəʊˈeθɪks/
 核心：研究生物医学进展带来的道德难题——器官怎么分配、基因该不该
 编辑、临终撤不撤治疗。形式上是复数，当单数用。
 ① Bioethics deals with hard choices that medicine can pose but not settle.
@@ -355,6 +373,7 @@ bioethical = 生物伦理的
 bioethicist = 生物伦理学家
 
 biofeedback
+/ˌbaɪəʊˈfiːdbæk/
 核心：把心率、血压、肌肉紧张度这些平时感觉不到的信号接上仪器实时
 显示，人盯着屏幕学着去调。要害在"看得见"，察觉不到就调不动。
 不可数。
@@ -372,6 +391,7 @@ biofeedback = 生物反馈（借仪器看见身体信号）
 neurofeedback = 神经反馈（专盯脑电波的那一种）
 
 biofuel
+/ˈbaɪəʊfjuːəl/
 核心：用生物质做出来的燃料，跟化石燃料相对——原料是活物或活物的
 残余。泛指时不可数，说种类时用复数。
 ① The refinery makes biofuel from sugar cane and sells the pulp as cattle feed.
@@ -389,6 +409,7 @@ bioethanol = 生物乙醇（液体，替汽油）
 biogas = 沼气（气体）
 
 biogas
+/ˈbaɪəʊɡæs/
 核心：有机物在无氧环境里被细菌分解产生的气体，主要成分是甲烷，
 可以直接烧。中文说"沼气"。不可数。
 ① The farm runs on biogas made from its own slurry.
@@ -405,6 +426,7 @@ biogas = 沼气（厌氧分解得来的甲烷）
 natural gas = 天然气（地下开采的）
 
 biographer
+/baɪˈɒɡrəfə(r)/
 核心：写传记的人。写谁就说 the biographer of 加人名，也说
 his biographer。可数。
 ① She is his official biographer and was given the letters nobody else has seen.
@@ -420,6 +442,7 @@ biography = 传记
 biographical = 传记的
 
 biographical
+/ˌbaɪəˈɡræfɪkəl/
 核心：形容词，说材料、影片、笔记讲的是某人的一生。常用搭配是
 biographical details、biographical information、biographical film。
 ① He gave a few biographical details and refused every question after that.
@@ -456,6 +479,7 @@ autobiography = 自传（本人写的）
 memoir = 回忆录（本人写，只截取一段）
 
 biohazard
+/ˈbaɪəʊhæzəd/
 核心：指细菌、病毒、血液样本这类会危害健康的生物性危险物，也指
 它带来的风险。实验室和医院的容器与警示牌上就印这个词。可数。
 ① The lab handles biohazards daily and logs every container that leaves.
@@ -559,6 +583,7 @@ biological = 生物的
 biologist = 生物学家
 
 bioluminescence
+/ˌbaɪəʊˌluːmɪˈnesəns/
 核心：活体自己发出的光——萤火虫、深海鱼、发光水母、有些真菌。
 靠体内的化学反应发光，几乎不发热，所以又叫冷光。不可数。
 ① Bioluminescence lights the deep sea where no sunlight reaches.
@@ -575,6 +600,7 @@ A bioluminescent bay glows when you swim and not when you photograph.
 = 会发生物光的海湾，你游泳时它发光，拍照时就不发。
 
 biomass
+/ˈbaɪəʊmæs/
 核心：两支。生态学上指一片地方生物体的总量，按重量算；能源上指
 拿来当燃料的植物与动物废料。两支都不可数。
 ① Forest biomass has declined even where the number of trees has held steady.
@@ -594,6 +620,7 @@ biomass = 生物质（原料）
 bioenergy = 生物能（取出来的能量）
 
 biome
+/ˈbaɪəʊm/
 核心：按气候和植被划分的大尺度生态区，苔原、雨林、荒漠、草原
 各是一个。分的不是地理位置而是气候与植被，所以同一个 biome 可以
 隔着大洋分布在几块大陆上。可数。
@@ -609,6 +636,7 @@ biome = 生物群系（按气候植被分的大区）
 ecosystem = 生态系统（一处生物与环境的整体，尺度可大可小）
 
 biomechanics
+/ˌbaɪəʊmɪˈkænɪks/
 核心：用力学的方法研究生物体的运动——骨骼肌肉怎么受力、跑姿好不好、
 假肢该怎么设计。形式上是复数，当单数用。
 ① Biomechanics explains the injury better than bad luck does.
@@ -624,6 +652,7 @@ the biomechanics of = 某动作的力学机理
 biomechanical = 生物力学的
 
 biomedical
+/ˌbaɪəʊˈmedɪkəl/
 核心：形容词，指把生物学的方法用到医学问题上。常用搭配就三个：
 biomedical research、biomedical engineering、biomedical science。
 ① He works in biomedical research on a grant that runs out in June.
@@ -638,6 +667,7 @@ biomedical engineering = 生物医学工程
 构词：bio- 生物 + medical 医学的
 
 biometric
+/ˌbaɪəʊˈmetrɪk/
 核心：形容词，也作名词，指靠身体特征认人——指纹、虹膜、面容、声纹。
 作名词时多用复数 biometrics。
 ① The phone uses biometric data that never leaves the handset.
@@ -652,6 +682,7 @@ biometrics = 生物特征识别（名词，多用复数）
 构词：bio- 生物 + metric 测量的
 
 bionic
+/baɪˈɒnɪk/
 核心：形容词，两支。一是用电子机械替代或增强身体机能的，
 bionic arm 就是这一支；二是口语里夸张地说"超人一般的"，
 从上世纪的电视剧传开。
@@ -670,6 +701,7 @@ bionic limb = 仿生肢体
 bionics = 仿生学
 
 biophysics
+/ˌbaɪəʊˈfɪzɪks/
 核心：用物理学的方法研究生命现象——蛋白质怎么折叠、离子怎么过膜、
 神经怎么导电。形式上是复数，当单数用。
 ① Biophysics studies protein folding, a problem that took decades to crack.
@@ -684,6 +716,7 @@ biophysics
 biophysicist = 生物物理学家
 
 biopic
+/ˈbaɪəʊpɪk/
 核心：传记片，讲真人一生的电影。构词是 biographical picture 掐头
 去尾拼成的，所以按 bio 加 pic 切，不是 bi 加 optic。可数。
 ① The biopic won three awards and was disowned by the family it portrayed.
@@ -717,6 +750,7 @@ biopsy = 活检（取活人组织）
 autopsy = 尸检（查死因）
 
 biorhythm
+/ˈbaɪəʊrɪðəm/
 核心：指身体按周期起伏的节律——睡眠、体温、激素都算，多用复数。
 另有一支指按出生日推算周期的那套说法，属伪科学，看语境分辨。
 ① Jet lag disrupts your biorhythms for about a day per time zone crossed.
@@ -734,6 +768,7 @@ biorhythm = 生物节律（泛指身体的周期起伏）
 circadian rhythm = 昼夜节律（专指约二十四小时那套）
 
 bioscience
+/ˈbaɪəʊsaɪəns/
 核心：生命科学的总称，生物学、生化、遗传、生态都装在里面。
 多用复数 biosciences，指这一大片学科。
 ① She works in the biosciences and moved across from chemistry.
@@ -750,6 +785,7 @@ bioscience = 生命科学（学科总称）
 life sciences = 生命科学（同义，日常更常用）
 
 biosecurity
+/ˌbaɪəʊsɪˈkjʊərɪti/
 核心：防病原体、害虫和外来物种传进来或散出去的那套措施——农场消毒、
 口岸检疫、实验室分级都算。跟 biodefence 的分别在假想的来路：
 这个防的多是自然传播和意外，那个防的是蓄意投放。不可数。
@@ -768,6 +804,7 @@ biosecurity = 生物安全（防自然传入与意外）
 biodefence = 生物防御（防蓄意投放）
 
 biosphere
+/ˈbaɪəʊsfɪə(r)/
 核心：地球上所有生物连同它们生存的那层空间——地表、水体和低层
 大气。它是把生命看成一个整体的说法，所以几乎总是 the biosphere。
 可数，但复数极少见。
@@ -785,6 +822,7 @@ atmosphere = 大气圈
 hydrosphere = 水圈
 
 biotechnological
+/ˌbaɪəʊˌteknəˈlɒdʒɪkəl/
 核心：形容词，指跟生物技术有关的。它没有额外的意思，就是
 biotechnology 的形容词形式，多修饰 advance、process、company。
 ① Biotechnological advances cut costs until insulin was cheap to make.
@@ -821,6 +859,7 @@ biotech = 生物技术（缩略形式，多作定语）
 构词：bio- 生物 + technology 技术
 
 biotic
+/baɪˈɒtɪk/
 核心：形容词，生态学术语，指"生物的、由生物造成的"。它基本只跟
 abiotic 对着用：biotic factors 是捕食、竞争、寄生这些来自活物的
 因素，abiotic factors 是温度、光照、土壤这些不来自活物的。
@@ -838,6 +877,7 @@ biotic community = 生物群落
 abiotic = 非生物的（温度、光照、土壤）
 
 biotype
+/ˈbaɪəʊtaɪp/
 核心：同一物种里遗传构成一致的一群个体。它比"物种"细一层，
 多用在害虫和病原菌上——同一种蚜虫分出好几个 biotype，有的能咬
 抗虫品种，有的不能，防治办法就得跟着分。可数。
@@ -853,6 +893,7 @@ biotype = 生物型（遗传一致的一群）
 species = 物种（更大一层）
 
 bipartisan
+/ˌbaɪpɑːtɪˈzæn/
 核心：形容词，指两党共同的、得到两党支持的，美国政治里的高频词。
 它的分量在于稀罕：多数议案都是一党推、一党挡，说 bipartisan
 就是在强调这件事难得地两边都点了头。
@@ -869,6 +910,7 @@ bipartisan committee = 两党联合委员会
 partisan = 一党一派的、有党派偏见的
 
 bipartite
+/baɪˈpɑːtaɪt/
 核心：正式用词，指"由两部分组成的"或"两方参与的"。多见于法律、
 外交和技术文件里，日常说话不用它，日常会说 two-part 或 two-sided。
 ① They signed a bipartite agreement and left the third country out of it.
@@ -886,6 +928,7 @@ bipartite structure = 二分结构
 tripartite = 三方的
 
 biped
+/ˈbaɪped/
 核心：用两条腿走路的动物。人、鸟、袋鼠都算，跟四条腿的
 quadruped 相对。多见于生物学和人类学的行文里。可数。
 ① Ostriches are the fastest bipeds alive.
@@ -900,6 +943,7 @@ biped = 两足行走的构型（机器人学里也这么用）
 quadruped = 四足动物
 
 bipedal
+/baɪˈpiːdəl/
 核心：形容词，"两足行走的"。它最常出现在讲人类演化的语境里——
 直立两足行走是人跟其他猿分道的那一步，手因此腾了出来。
 ① Humans are bipedal, and the fossils date the change to before the big brain.
@@ -914,6 +958,7 @@ bipedal locomotion = 两足行走
 quadrupedal = 四足行走的
 
 biplane
+/ˈbaɪpleɪn/
 核心：上下叠着两层机翼的飞机。两层翼产生的升力大、结构也稳，
 但阻力大，后来被单层翼的 monoplane 取代，今天只在老飞机表演和
 农用机上见得到。可数。
@@ -929,6 +974,7 @@ monoplane = 单翼机
 triplane = 三翼机
 
 bipolar
+/ˌbaɪˈpəʊlə(r)/
 核心：两支，都从"有两极"来。医学上指双相情感障碍，情绪在躁与郁
 两头摆，也直接说 he is bipolar；一般义指有两个极点的、两极对立的，
 说世界格局、说磁体都用它。
@@ -950,6 +996,7 @@ bipolar transistor = 双极型晶体管
 不要拿来随口形容谁情绪多变。
 
 biracial
+/ˌbaɪˈreɪʃəl/
 核心：形容词，指父母分属两个不同族裔的，也说双族裔的家庭、社区。
 主要是美式用法，英式多说 mixed-race。
 ① She is biracial and grew up between two sets of grandparents.
@@ -1092,6 +1139,7 @@ birdcage = 鸟笼
 birdwatching = 观鸟
 
 bird flu
+/ˈbɜːd fluː/
 核心：禽流感，禽类之间传播的流感，偶尔传给人。正式名是 avian
 influenza，新闻里多用 bird flu 这个短说法。不可数，不加冠词。
 ① Bird flu closed the poultry markets for six weeks that spring.
@@ -1108,6 +1156,7 @@ bird flu = 禽流感（日常与新闻用语）
 avian influenza = 禽流感（正式名称）
 
 bird of paradise
+/ˌbɜːd əv ˈpærədaɪs/
 核心：两支。一是极乐鸟，产于新几内亚一带，雄鸟羽毛极华丽，
 求偶时展开来跳舞；二是鹤望兰，一种花，橙蓝相间的花形像鸟头
 探出来，因此得名。复数都作 birds of paradise。
@@ -1125,6 +1174,7 @@ plume = 饰羽
 birds of paradise = 极乐鸟；鹤望兰（复数在中心词上）
 
 bird of prey
+/ˌbɜːd əv ˈpreɪ/
 核心：猛禽——鹰、隼、鵟、鸮这一类靠捕食其他动物为生的鸟，
 共同特征是钩状的喙和能抓握的利爪。注意复数变的是中心词：
 birds of prey，不是 bird of preys。
@@ -1142,6 +1192,7 @@ bird of prey = 猛禽（含鹰隼鸮）
 raptor = 猛禽（学界与观鸟圈的用词）
 
 birdbath
+/ˈbɜːdbɑːθ/
 核心：花园里给鸟洗澡喝水的浅水盆，多是石头或水泥做的，带一根柱子
 撑着。它跟喂鸟器分工不同：一个给水，一个给食。可数。
 ① A stone birdbath stands on the lawn where the cat cannot creep up on it.
@@ -1157,6 +1208,7 @@ bird feeder = 喂鸟器（给食）
 birdbath = 鸟浴盆（给水）
 
 birdbrain
+/ˈbɜːdbreɪn/
 核心：非正式，骂人笨——鸟脑袋小，就拿它当蠢的比方。语气偏轻，
 多用于开玩笑或亲近的人之间，对生人说仍是冒犯。可数。
 ① Don't be such a birdbrain, the tickets are in your own pocket.
@@ -1170,6 +1222,7 @@ birdbrained = 愚蠢的（形容词形式）
 注意语域：非正式，带轻蔑，玩笑口气居多。
 
 birdcage
+/ˈbɜːdkeɪdʒ/
 核心：鸟笼。除了本义，也常拿来打比方，说某个地方又小又关得住人，
 说 feel like a birdcage 就是这个意思。可数。
 ① The parrot rattled its birdcage every time the doorbell rang.
@@ -1185,6 +1238,7 @@ birdcage
 cage = 笼子；把……关进笼里
 
 birder
+/ˈbɜːdə(r)/
 核心：观鸟的人。它跟 birdwatcher 指的是同一批人，只是 birder
 更像圈内人的自称，语气更专业一点；随口说多用 birdwatcher。可数。
 ① Birders gathered at dawn in the car park and compared notes before setting off.
@@ -1200,6 +1254,7 @@ birder = 观鸟者（圈内自称，偏专业）
 birdwatcher = 观鸟者（通用说法）
 
 birdhouse
+/ˈbɜːdhaʊs/
 核心：给野鸟做的人工巢箱，钉在树上或杆子上让鸟进去筑巢，
 不是养鸟的笼子——这是它跟 birdcage 的根本分别：一个请鸟自愿来，
 一个把鸟关住。美式用词，英式多说 nest box。可数。
@@ -1215,6 +1270,7 @@ birdhouse = 鸟巢箱（美式）
 nest box = 鸟巢箱（英式）
 
 birdie
+/ˈbɜːdi/
 核心：三支，共同点只是都跟"小鸟"沾边。高尔夫里指低于标准杆一杆，
 是这个词今天最常用的意思；儿语里指小鸟，拍照说 watch the birdie
 就是哄小孩看镜头；美式还拿它指羽毛球的球。可数。
@@ -1237,6 +1293,7 @@ eagle = 低于标准杆两杆
 bogey = 高于标准杆一杆
 
 birding
+/ˈbɜːdɪŋ/
 核心：观鸟这项活动，不可数。它跟单纯"看见鸟"不一样：讲究认种、
 记录、按名录打钩，所以才配得上 go birding 这种当正经活动说的用法。
 ① They went birding at the reservoir and stayed until the light failed.
@@ -1252,6 +1309,7 @@ birding = 观鸟（讲究认种记录）
 birdwatching = 观鸟（同一件事，日常说法）
 
 birdlime
+/ˈbɜːdlaɪm/
 核心：涂在树枝上粘鸟的黏胶，旧时捕鸟用，如今多数国家已禁。
 这个词今天基本只在讲历史和读旧书时遇到。不可数。
 ① Poachers once smeared birdlime on branches near a spring where birds came to drink.
@@ -1266,6 +1324,7 @@ decoy = 诱饵、引诱用的假鸟
 注意年代：多为历史用法，今天少见。
 
 birdseed
+/ˈbɜːdsiːd/
 核心：喂鸟的籽料，多是葵花籽、小米、油菜籽的混合。不可数，
 跟 seed 一样不用复数。
 ① She scattered birdseed on the path and stepped back behind the window.
@@ -1281,6 +1340,7 @@ bird feeder = 喂鸟器
 birdbath = 鸟浴盆
 
 birdsong
+/ˈbɜːdsɒŋ/
 核心：鸟叫声，尤指婉转成串的那种鸣唱，跟单声的叫（call）分得开：
 song 是求偶和宣示地盘时唱的，call 是报警和联络时短促地叫。
 不可数。
@@ -1296,6 +1356,7 @@ birdsong = 鸣唱（求偶、宣示地盘，成串婉转）
 birdcall = 叫声（报警、联络，短促）
 
 birdwatcher
+/ˈbɜːdwɒtʃə(r)/
 核心：观鸟的人，这是最通用的说法。英式口语里另有 twitcher，
 专指听到哪里出了稀有鸟就开车赶去打卡的那种狂热者，跟一般观鸟人
 不是一回事。可数。
@@ -1312,6 +1373,7 @@ birder = 观鸟者（圈内自称）
 twitcher = 追稀有鸟的狂热者（英式口语）
 
 birdwatching
+/ˈbɜːdwɒtʃɪŋ/
 核心：观鸟这项活动，不可数。设备门槛低、随处能做，所以它在英国是
 参与人数最多的户外爱好之一，go birdwatching 是固定说法。
 ① They go birdwatching every weekend, whatever the forecast says.
@@ -1328,6 +1390,7 @@ birdwatching = 观鸟（日常说法）
 birding = 观鸟（同一件事，偏圈内）
 
 biretta
+/bɪˈretə/
 核心：天主教神职人员戴的方形硬帽，帽顶上竖着三到四道棱脊，
 颜色分等级——神父戴黑的，主教戴紫的，枢机戴红的。可数。
 ① The priest wore a black biretta and took it off before the reading.
@@ -1386,6 +1449,7 @@ The rebirth of that high street began with one bakery and a bench.
 = 那条主街的复兴，是从一家面包房和一张长椅开始的。
 
 birth certificate
+/ˈbɜːθ sətɪfɪkət/
 核心：登记出生事实的官方文件，上面写着姓名、出生日期地点和父母。
 办护照、入学、结婚都要拿它，所以它是身份链条的第一环。可数。
 ① You need your birth certificate to apply, and a photocopy will not do.
@@ -1406,6 +1470,7 @@ The death certificate gives a cause that the family had never heard of.
 = 死亡证明上写的死因，家里人从没听说过。
 
 birth control
+/ˈbɜːθ kəntrəʊl/
 核心：避孕，指防止怀孕的各种办法与措施。不可数。它比
 contraception 宽：contraception 专指具体的避孕手段，birth control
 还能指人口政策那一层，所以谈政策时用的是它。
@@ -1423,6 +1488,7 @@ birth control = 避孕；生育控制（含政策层面）
 contraception = 避孕（专指手段）
 
 birth mother
+/ˈbɜːθ mʌðə(r)/
 核心：生下孩子的那位母亲，用在收养的语境里，跟养母
 adoptive mother 相对。日常不会无端说这个词，一说就意味着
 这孩子由别人抚养。可数。
@@ -1439,6 +1505,7 @@ adoptive mother = 养母
 birth father = 生父
 
 birth rate
+/ˈbɜːθ reɪt/
 核心：出生率，人口统计指标，通常按每千人每年的活产数算。
 它跟总和生育率 fertility rate 量的不是一回事：出生率摊到全体人口
 头上，生育率只看育龄妇女平均生几个。可数。
@@ -1471,6 +1538,7 @@ birthday suit = 一丝不挂（玩笑说法）
 anniversary = 周年纪念（不专指出生）
 
 birther
+/ˈbɜːθə(r)/
 核心：美式政治用语，指坚称奥巴马出生在美国之外、因而无资格当总统
 的人，起于 2008 年前后。后来引申指任何拿出生证明质疑政治人物资格
 的人。带明显贬义，多是对方给的标签，很少有人自称。可数。
@@ -1486,6 +1554,7 @@ debunk = 揭穿、戳破
 注意语域：美式政治用语，贬义，多为他称。
 
 birtherism
+/ˈbɜːθərɪzəm/
 核心：指质疑政治人物出生地与任职资格的那一整套主张与做法，
 是从 birther 这个人称往回造出来的抽象名词。不可数，贬义。
 ① Birtherism resurfaced in the campaign whenever the polls tightened.
@@ -1500,6 +1569,7 @@ a following = 一批追随者
 注意语域：美式政治用语，贬义。
 
 birthing
+/ˈbɜːθɪŋ/
 核心：分娩这件事，尤指看重体验与选择的那种生产方式。它跟 birth
 的分工是：birth 说结果和事实，birthing 说过程和做法，所以多作定语
 ——birthing pool、birthing centre、birthing plan。不可数。
@@ -1518,6 +1588,7 @@ birthing = 分娩过程（重在做法与体验）
 delivery = 分娩（医学用词，重在接生这一步）
 
 birthmark
+/ˈbɜːθmɑːk/
 核心：胎记，生下来就带着的皮肤色斑，红的多是血管性的，
 褐的多是色素性的。跟后天长的痣分得开：胎记出生时就在。可数。
 ① She has a birthmark on her neck that her collar usually hides.
@@ -1533,6 +1604,7 @@ birthmark = 胎记（生来就有）
 mole = 痣（多为后天长出）
 
 birthplace
+/ˈbɜːθpleɪs/
 核心：出生的地方，也指某事物的发源地——说 the birthplace of jazz，
 讲的是这门音乐从哪儿起来的。抽象那一支用得很多，几乎是套话。可数。
 ① Stratford is Shakespeare's birthplace and the town lives off the fact.
@@ -1549,6 +1621,7 @@ birthplace = 出生地；发源地
 hometown = 长大的那个城镇（不一定是出生地）
 
 birthright
+/ˈbɜːθraɪt/
 核心：生来就该有的权利，说国籍、说自由、说继承权都用它。
 另有一支旧义指长子继承权，读圣经和旧小说会遇到——以扫为一碗汤
 卖掉 birthright 的故事就是这个词。可数，多用单数。
@@ -1564,6 +1637,7 @@ birthright citizenship = 出生即公民身份
 注意年代：长子继承权那一支已属旧用法。
 
 birthstone
+/ˈbɜːθstəʊn/
 核心：诞生石，一月到十二月各配一种宝石，按出生月份挑，
 多做成首饰送人。哪个月配哪种石头各国名单略有出入，
 今天通行的那份是二十世纪初珠宝业定下来的。可数。
@@ -1582,6 +1656,7 @@ Every gemstone in that window is labelled and only four are priced.
 = 橱窗里每一块宝石都有标签，只有四块标了价。
 
 birthweight
+/ˈbɜːθweɪt/
 核心：出生体重，医学上按它判断新生儿的风险。低于 2500 克叫
 low birth weight，是早产和发育迟缓的重要信号，所以这个词几乎总是
 跟 low 一起出现。可数，也常写成分开的 birth weight。
@@ -1596,6 +1671,7 @@ low birthweight = 低出生体重
 注意拼写：分写的 birth weight 同样通行。
 
 bis
+/bɪs/
 核心：拉丁语来的"第二次"。乐谱上标 bis，意思是这一段重复一遍；
 欧洲的听众喊 bis 就是要求返场，相当于英语的 encore。
 另有一路用法在门牌号上：12 bis 指 12 号旁边后加出来的那一户。
@@ -1612,6 +1688,7 @@ bis = 再来一次（欧陆用法）
 encore = 返场（英语通行说法）
 
 biscotti
+/bɪˈskɒti/
 核心：意式硬饼干，烤两遍——先烤成一条，切片后再烤一遍，
 所以又干又脆，得蘸咖啡或甜酒才好入口。名字本身就是"烤两次"。
 英语里基本只用这个复数形式，单数 biscotto 极少见。
@@ -1667,6 +1744,7 @@ biscuit = 松软小圆面包（美式）
 scone = 司康（英式，与美式 biscuit 最接近）
 
 bisect
+/baɪˈsekt/
 核心：一分为二。日常说一条路把一片地分成两半，几何里则专指
 "二等分"——bisect an angle 是把角平分，那时强调两份相等。
 及物动词。
@@ -1703,6 +1781,7 @@ bisexual = 两性花的（植物学）
 hermaphrodite = 雌雄同体的（动物学多用）
 
 bisexuality
+/ˌbaɪˌsekʃuˈælɪti/
 核心：指对两种性别都有性吸引这一取向本身，是 bisexual 的抽象名词。
 不可数。生物学上同样有那一支，指雌雄同体这种构造。
 ① The book discusses bisexuality across four decades of letters and diaries.
@@ -1739,6 +1818,7 @@ archbishop = 大主教
 bishopric = 主教职位；主教辖区
 
 bishopric
+/ˈbɪʃəprɪk/
 核心：主教的职位，也指主教管辖的那片地区。指地区时跟 diocese
 说的是同一件事，只是 bishopric 更偏"职位与辖权"这一层，
 diocese 更偏行政区划本身。可数，多见于教会与历史文本。
@@ -1757,6 +1837,7 @@ bishopric = 主教职位；主教辖区
 diocese = 主教教区（偏行政区划）
 
 bismuth
+/ˈbɪzməθ/
 核心：一种金属元素，符号 Bi。它两个特点值得记：熔点低，
 所以用来配易熔合金做保险丝；化合物能护住胃黏膜，
 所以进了治胃痛和腹泻的常见药。不可数。
@@ -1790,6 +1871,7 @@ buffalo = 水牛（非洲与亚洲）
 美式口语常拿 buffalo 指野牛，属沿用旧称。
 
 bisque
+/bɪsk/
 核心：两支，互不相干。一是浓汤，用龙虾、蟹这类甲壳类熬底再加
 奶油打成，口感厚滑，lobster bisque 是它最常见的样子；二是陶瓷的
 素烧坯，跟 biscuit 那一支说的是同一回事。都不可数。
@@ -1807,6 +1889,7 @@ bisque = 甲壳类奶油浓汤（厚滑）
 consommé = 清汤（澄清见底）
 
 bistro
+/ˈbiːstrəʊ/
 核心：小餐馆，法国来的说法，指店面不大、菜色家常、气氛随意的
 那一类，跟正襟危坐的 restaurant 分得开。今天英语里已成通名，
 不限于法式菜。可数，复数 bistros。
@@ -1905,6 +1988,7 @@ bitchy = 刻薄的
 bitchiness = 刻薄
 
 bitchiness
+/ˈbɪtʃinəs/
 核心：刻薄劲儿，指爱在背后挑刺、说人坏话的那种做派。不可数，
 口语，带贬义。它说的是一贯的作风，不是某一句话本身。
 ① The bitchiness in that office is exhausting and drives out a new hire every year.
@@ -1919,6 +2003,7 @@ a note of = 一丝、一股（语气）
 注意语域：口语，贬义。
 
 bitchy
+/ˈbɪtʃi/
 核心：形容词，指说话刻薄、爱挑刺、爱在背后损人。它损的多是
 "小处使坏"那种，不是正面冲突，所以常跟 remark、comment 搭配。
 口语，贬义。历史上多用来说女性，今天说谁都用，但仍带那层色彩。
@@ -1936,6 +2021,7 @@ bitchy = 刻薄（背后损人，小处使坏）
 blunt = 直率（当面直说，不含恶意）
 
 bitcoin
+/ˈbɪtkɔɪn/
 核心：第一种也是最出名的加密货币，2009 年启用。它跟一般货币的
 根本分别是没有发行机构：账本由全网共同记录，靠算力和密码学保证
 不能篡改，总量写死在协议里，上限两千一百万枚。大写 Bitcoin 多指
@@ -2050,6 +2136,7 @@ biting = 刺骨的；尖刻的
 bitten = 被咬的（过去分词）
 
 biting
+/ˈbaɪtɪŋ/
 核心：形容词，两支都是"咬人"的比喻：说风说冷是刺骨——冷得像
 往肉里咬；说话说文字是尖刻——损人损得像咬一口。共同点是那股
 "往里钻、让人受不了"的劲儿。
@@ -2083,6 +2170,7 @@ bitingly funny = 辛辣好笑
 biting = 刺骨的；尖刻的
 
 bitmap
+/ˈbɪtmæp/
 核心：按像素点阵存的图像——每个点存一个颜色值，所以放大就糊，
 一格一格露出来。它跟矢量图的分别在这里：矢量图存的是线条和公式，
 放多大都清楚。照片天生是位图，图标和字体多用矢量。可数。
@@ -2099,6 +2187,7 @@ bitmap = 位图（按像素存，放大会糊）
 vector = 矢量图（按线条公式存，放大不糊）
 
 bitonal
+/ˌbaɪˈtəʊnəl/
 核心：形容词，两支。音乐上指双调性的——同一段里两个调同时进行，
 听起来别扭发涩，二十世纪的作曲家拿它做效果；图像上指只有两个色阶
 的，也就是纯黑白、没有灰阶。
@@ -2117,6 +2206,7 @@ bitonal image = 二值图像
 bitonality = 双调性
 
 bitonality
+/ˌbaɪtəʊˈnælɪti/
 核心：名词，指两个调同时进行这种写法。它跟无调性不是一回事：
 无调性是干脆没有调中心，双调性是有两个调中心，两个都在，
 互相别着劲，那股不协和正是作曲家要的。不可数。
@@ -2133,6 +2223,7 @@ bitonality = 双调性（两个调中心并存）
 atonality = 无调性（没有调中心）
 
 bitstream
+/ˈbɪtstriːm/
 核心：连续传下来的一串二进制位，还没切成字节、没解释成内容之前
 就叫这个。它强调的是"流"：数据一位接一位地来，接收端得按约定
 去断句，断错了整段就废了。可数。
@@ -2216,6 +2307,7 @@ bitterly disappointed = 极其失望
 bitter = 苦的；怨恨的
 
 bittern
+/ˈbɪtən/
 核心：一种躲在芦苇丛里的鹭科水鸟，褐色带斑纹，站着一动不动时
 几乎跟芦苇一个样。最出名的是雄鸟的叫声，低沉如闷响的号角，
 能传出好几公里，英语里专门叫它 boom。可数。
@@ -2234,6 +2326,7 @@ A heron stands in that shallow for an hour without moving.
 = 一只鹭在那片浅水里站一个钟头，一动不动。
 
 bitterness
+/ˈbɪtənəs/
 核心：名词，两支。一是味觉上的苦味；二是心里的怨恨——事情过去了
 气还没消，那股积着的不平就是它。第二支用得更多，常跟 lingering、
 deep 搭配，强调它是存下来的，不是当场发的火。不可数。
@@ -2253,6 +2346,7 @@ bitterness = 怨恨（积下来的，冲人）
 grief = 悲痛（冲事，不针对人）
 
 bittersweet
+/ˌbɪtəˈswiːt/
 核心：苦里带甜，两种味道同时在。用在味道上说巧克力，用在心情上
 说那种"高兴里掺着难过"的滋味——毕业、告别、老照片，都是典型的
 bittersweet。它跟单纯的"喜忧参半"不同：两种情绪是搅在一起的，
@@ -2274,6 +2368,7 @@ bittersweet = 苦乐搅在一起
 mixed feelings = 心情复杂（可以是两种分开的情绪）
 
 bitty
+/ˈbɪti/
 核心：英式口语，指东西零零碎碎、连不成整体——一篇文章东一段西
 一段，一天被杂事切得七零八落，都可以说 bitty。它评的是"不成片"，
 不是"少"。美式另有一支相反的用法，itty-bitty 指小得可爱。
@@ -2291,6 +2386,7 @@ itty-bitty = 小小的（美式口语，叠音）
 注意语域：英式口语，带贬义。
 
 bitumen
+/ˈbɪtʃʊmən/
 核心：黑色黏稠的沥青，石油炼到最后剩下的那部分，也有天然的。
 铺路是它最大的用途，拌上石子就是沥青混凝土；也用来做屋顶防水。
 不可数。英式读音重音在前，美式在后。
@@ -2308,6 +2404,7 @@ asphalt = 沥青；沥青路面（美式常用）
 tar = 焦油（煤或木材干馏得来，来源不同）
 
 bituminous
+/bɪˈtjuːmɪnəs/
 核心：形容词，含沥青的、沥青质的。它最常出现在一个固定搭配里：
 bituminous coal，也就是烟煤——挥发分高、烧起来冒烟，跟硬而洁净的
 无烟煤 anthracite 相对，这是煤分级里最要紧的一条界线。
@@ -2325,6 +2422,7 @@ bituminous coal = 烟煤（挥发分高，冒烟）
 anthracite = 无烟煤（硬，燃烧洁净）
 
 bivalve
+/ˈbaɪvælv/
 核心：双壳类软体动物，两片壳靠背上的铰合部连着，能开能合——蛤、
 蚌、牡蛎、扇贝都是。它们几乎都靠滤食过活，把水抽进来滤出微粒，
 所以水一脏，它们体内先富集污染物，这也是吃生蚝要看产地的道理。
@@ -2343,6 +2441,7 @@ bivalve = 双壳类（两片壳）
 gastropod = 腹足类（单壳，如螺）
 
 bivouac
+/ˈbɪvuæk/
 核心：临时露营，尤指不搭正经帐篷、就地对付一夜的那种，登山队和
 军队用得最多。名词动词同形。拼写上有个坑：动词变形要加一个 k，
 写作 bivouacked、bivouacking，不然按拼读规则那个 c 会读成软音。
@@ -2360,6 +2459,7 @@ bivouac = 临时露宿（简陋，多为一夜）
 camp = 扎营（有装备，可长住）
 
 bivvy
+/ˈbɪvi/
 核心：英式口语，是 bivouac 的缩略说法，既指临时露宿，也指
 bivvy bag——那种睡袋外面再套一层的防水露宿袋，登山钓鱼的人常带。
 可数，也作动词。
@@ -2375,6 +2475,7 @@ just in case = 以防万一
 注意语域：英式口语，多见于登山与野钓圈。
 
 biweekly
+/ˌbaɪˈwiːkli/
 核心：这个词天生有歧义，两个意思正好差四倍：既是"每两周一次"，
 也是"一周两次"。词典两个都收，光看词判断不了，只能靠上下文。
 写东西最稳妥的办法是干脆避开它，写 every two weeks 或 twice a week。
@@ -2449,6 +2550,7 @@ blab = 走漏（说了不该说的）
 chat = 闲聊（内容无所谓）
 
 blabber
+/ˈblæbə(r)/
 核心：口语，指没完没了地说废话。它跟 blab 的分工很清楚：blab 说的是
 "漏了秘密"，blabber 说的是"话多且空"，内容有没有价值才是关键。
 常跟 on 连用。也作名词，指那一通废话。
@@ -2466,6 +2568,7 @@ blab = 走漏秘密（重在内容不该说）
 blabber = 唠叨废话（重在话多且空）
 
 blabbermouth
+/ˈblæbəmaʊθ/
 核心：大嘴巴，藏不住话的人。它骂的是"这人不能托付秘密"，不是
 "这人爱聊天"。口语，带责备，多在事后抱怨时说。可数。
 ① Don't tell him, he is a blabbermouth and his wife works in that office.
@@ -2636,6 +2739,7 @@ The second act is blackly comic and the audience laughs late.
 注意用法：只承接比喻义，不用来说颜色。
 
 black belt
+/ˌblæk ˈbelt/
 核心：武术里的最高一级腰带，柔道、空手道、跆拳道都用它标示
 达到了黑带水平的人也叫 a black belt。有个常被误解的地方：
 黑带不是终点，它上面还分段位，一段到十段。可数。
@@ -2652,6 +2756,7 @@ earn = 获得、挣得
 注意用法：黑带之上还分段位，不是终点。
 
 black box
+/ˌblæk ˈbɒks/
 核心：两支。一是飞机上的飞行记录仪，坠机后靠它还原经过；名字里
 虽有 black，实物却是橙色的，为的是好找。二是引申义：只看得见
 输入和输出、里头怎么运作不知道的系统，讨论算法和人工智能时用得最多。
@@ -2673,6 +2778,7 @@ black box system = 黑箱系统
 取名 black 说的是"看不透"。
 
 black cab
+/ˌblæk ˈkæb/
 核心：伦敦街头那种黑色出租车，可以在路边扬手拦，这是它跟必须
 预约的 minicab 最要紧的分别。司机要通过一门叫 the Knowledge 的
 考试，把全城几万条街背下来。可数。

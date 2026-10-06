@@ -17,6 +17,7 @@ boulevard = 林荫大道
 street = 街 / lane = 巷 / alley = 小巷
 
 aver
+/əˈvɜː(r)/
 核心：正式动词，指"断言、郑重宣称"——不是随口说说，而是把话说死，
 承担说错的责任。法律语境里指在诉状中主张某项事实。
 后面常接 that 从句。
@@ -71,6 +72,7 @@ batting average = 击球率（引申指整体表现）
 averagely = 一般地、中等地
 
 averse
+/əˈvɜːs/
 核心：指"反感的、不愿意的"，只作表语，介词用 to。
 最常见的是否定形式 not averse to（不排斥、倒也愿意）。
 ① He is averse to risk in a job that consists entirely of taking it.
@@ -88,6 +90,7 @@ adverse = 不利的（adverse effects）
 两个词只差一个字母，意思完全不同。
 
 aversion
+/əˈvɜːʃən/
 核心：指强烈的"厌恶、反感"，介词用 to。
 医学上 aversion therapy 指厌恶疗法。
 ① He has an aversion to crowds and books the first train of the day.
@@ -125,6 +128,7 @@ avoid = 躲开（不去碰）
 ward off = 挡开（威胁）
 
 avian
+/ˈeɪviən/
 核心：形容词，指"鸟的、禽类的"，正式或科学用语。最常见的搭配是
 avian flu（禽流感）——那是由禽类间流行的流感病毒引起的，
 偶尔跨物种传给人，所以是公共卫生的长期关注点。
@@ -140,6 +144,7 @@ avian flu = 禽流感
 生物学与兽医用语，日常说 bird。
 
 aviary
+/ˈeɪviəri/
 核心：指养鸟的"大鸟舍"——人能走进去的那种，
 比 birdcage 大得多。
 ① The zoo has a large aviary you walk through rather than look into.
@@ -175,6 +180,7 @@ aeronautics = 航空学（学科）
 flight = 飞行（行为或航班）
 
 aviator
+/ˈeɪvieɪtə(r)/
 核心：指飞行员，偏旧式或文学用法，
 现在日常说 pilot。aviator sunglasses 是常见搭配。
 ① The aviator crossed the Atlantic alone and could not swim.
@@ -191,6 +197,7 @@ pilot = 飞行员（现代通用）
 airman = 空军士兵
 
 aviculture
+/ˈeɪvɪkʌltʃə(r)/
 核心：指"养鸟业、鸟类饲养"——在人工条件下饲养和繁殖鸟类，
 既包括观赏鸟，也包括为保育目的做的圈养繁殖。跟以肉蛋为目标的
 家禽养殖不是一回事。
@@ -243,6 +250,7 @@ eagerly = 急切地（想要）
 keenly = 强烈地（英式）
 
 avionics
+/ˌeɪviˈɒnɪks/
 核心：航空电子设备的总称——导航、通信、飞控、显示这一整套机载
 电子系统。词由 aviation 和 electronics 各取一半拼成。
 形式是复数，作单数用。形容词是 avionic。
@@ -276,6 +284,7 @@ avocado → avocados 或 avocadoes
 guacamole = 牛油果酱
 
 avocation
+/ˌævəˈkeɪʃən/
 核心：正式名词，指"副业、业余爱好"——正职之外认真投入的那件事。
 注意它跟 vocation（本职、天职）只差一个字母，意思正相反，
 最容易混。
@@ -291,6 +300,7 @@ avocation = 副业、业余爱好
 vocation = 本职、天职（正相反）
 
 avocet
+/ˈævəset/
 核心：一种涉禽，黑白羽色、腿细长，最显眼的是那张细长而向上翘的
 喙——它左右扫过浅水滩来捞小虫小虾。英国皇家鸟类保护协会
 拿它作会徽。
@@ -325,6 +335,7 @@ The delay was unavoidable and the explanation took four pages.
 注意：不说 avoid to do。
 
 avoidable
+/əˈvɔɪdəbəl/
 核心：指"本可避免的"，常带惋惜或批评。
 和 unavoidable 配对使用频率相当。
 ① It was an avoidable accident and the report says so in the first line.
@@ -343,6 +354,7 @@ preventable = 可预防的（有措施能防）
 inevitable = 必然的（反义）
 
 avoidance
+/əˈvɔɪdəns/
 核心：指"回避、躲开"这个行为。
 税务语境里 tax avoidance（合法避税）和 tax evasion（非法逃税）
 是必须分清的一对。
@@ -361,6 +373,7 @@ tax avoidance = 避税（合法，钻空子）
 tax evasion = 逃税（违法，会坐牢）
 
 avoirdupois
+/ˌævədəˈpɔɪz/
 核心：英美常衡制的名称——一磅等于十六盎司的那一套，日常称东西
 用的就是它。跟称金银的金衡制和称药的药衡制相区别。
 法语借词，读音跟拼写差得远。戏谑着用时指人的"体重、分量"。
@@ -376,6 +389,7 @@ avoirdupois = 常衡制（日常称重，一磅十六盎司）
 troy = 金衡制（称贵金属，一磅十二盎司）
 
 avow
+/əˈvaʊ/
 核心：正式用语，指"公开承认、公开声明"。
 现在更常见的是过去分词 avowed。
 ① He avowed his support in public and withdrew it in a private letter.
@@ -397,6 +411,7 @@ confess = 坦白（承认过错）
 avowal = 公开承认、坦白表白
 
 avowed
+/əˈvaʊd/
 核心：指"公开宣称的、自认的"，只作定语。
 常修饰 aim、intention、enemy、atheist。
 ① He is an avowed atheist who has attended more funerals in church than most believers.
@@ -416,6 +431,7 @@ self-proclaimed = 自封的（略含质疑）
 acknowledged = 公认的（外界认定）
 
 avuncular
+/əˈvʌŋkjʊlə(r)/
 核心：指长者对晚辈那种"像叔伯一样和蔼的"态度。
 词源来自拉丁语 avunculus（舅父）。
 ① He has an avuncular manner that works on everyone except his own children.

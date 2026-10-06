@@ -1,4 +1,5 @@
 autochthonous
+/ɔːˈtɒkθənəs/
 核心：地质与生态学形容词，指"原地生成的"——岩层或有机质就在
 现在这个位置形成，不是从别处搬来的。也用于人群，
 指"土生土长的原住民"。反义是 allochthonous。
@@ -17,6 +18,7 @@ autochthonous = 原地的（就地生成）
 allochthonous = 外来的（搬运而来）
 
 autoclave
+/ˈɔːtəʊkleɪv/
 核心：高压蒸汽灭菌器——把东西封进密闭腔里通入蒸汽，靠加压把水的
 沸点抬到一百二十度以上，几分钟就能杀死芽孢。医院器械、
 实验室培养基和牙科工具都靠它消毒。也作动词。
@@ -32,6 +34,7 @@ autoclave = 高压灭菌（动词）
 医疗与实验室设备用语。
 
 autocomplete
+/ˌɔːtəʊkəmˈpliːt/
 核心：输入时"自动补全"——你才打了几个字母，系统就把整词或整句
 接出来供你选。搜索框、代码编辑器和邮箱地址栏都靠它省事。
 同一族的还有 autofill（自动填表）和 autosave（自动保存）。
@@ -50,6 +53,7 @@ autosave = 自动保存
 软件与界面用语。
 
 autocorrect
+/ˈɔːtəʊkərekt/
 核心：输入时自动改词的功能——系统认定你打错了，就替你换成它以为
 对的那个词。好处是省事，麻烦是它经常改错，把人名和方言改成
 不相干的词，因而成了一类固定的笑料。名词动词同形。
@@ -68,6 +72,7 @@ autocomplete = 自动补全（补完你正在打的）
 autocorrect = 自动更正（改掉它认为的错）
 
 autocracy
+/ɔːˈtɒkrəsi/
 核心：指独裁政体——权力集中在一人手中。
 和 democracy 相对。可数不可数都有。
 ① The country slid into autocracy through a series of entirely legal steps.
@@ -87,6 +92,7 @@ oligarchy = 寡头制
 theocracy = 神权制
 
 autocrat
+/ˈɔːtəkræt/
 核心：构词是 auto-（自己）加 -crat（掌权者），字面就是"自己一个人说了算"。
 政治上指独裁者；日常里也用来说作风专断的老板或家长，那时是夸张的说法，
 并非真指政治体制。同族的 -crat 词尾一律指某种掌权者：democrat、
@@ -106,6 +112,7 @@ despot = 暴君（残暴）
 tyrant = 暴君（专横）
 
 autocratic
+/ˌɔːtəˈkrætɪk/
 核心：指作风"独断专行的"。既说政体，也说管理风格。
 和 authoritarian 意思很近。
 ① He has an autocratic manner that the board mistook for decisiveness.
@@ -123,6 +130,7 @@ democratic = 民主的
 consultative = 有商有量的
 
 autocross
+/ˈɔːtəʊkrɒs/
 核心：一种赛车项目，在用锥筒摆出的场地里单车计时跑，比的是
 过弯精度而不是绝对速度。门槛低、开自家车就能参加，
 所以是最普及的入门赛事。英式另指越野土路赛。
@@ -137,6 +145,7 @@ be marked with cones = 用锥筒标出
 美式指锥桶场地计时赛，英式多指越野土路赛。
 
 autodidact
+/ˌɔːtəʊˈdaɪdækt/
 核心：指"自学成才的人"——没受过科班训练，全靠自己读书摸索
 把一门学问或手艺拿下来。形容词是 autodidactic。
 词根就是"自己教自己"。
@@ -155,6 +164,7 @@ autodidact = 自学成才者（正式）
 self-taught = 自学的（通用说法）
 
 autofocus
+/ˈɔːtəʊfəʊkəs/
 核心：相机上"自动对焦"的功能——靠对比度或相位差判断远近，
 自动把镜头拧到合焦位置。缩写常写作 AF，跟手动对焦相对。
 名词动词同形。
@@ -170,6 +180,7 @@ autofocus = 自动对焦
 manual focus = 手动对焦
 
 autogenic
+/ˌɔːtəʊˈdʒenɪk/
 核心：形容词，指"自我产生的"，几乎只出现在
 autogenic training 这个搭配里——一套自我放松法：默念
 "我的手臂很沉、很暖"这类句子，引导身体进入放松状态。
@@ -187,6 +198,7 @@ autogenic exercises = 自律训练练习
 心理放松疗法用语。
 
 autograph
+/ˈɔːtəɡrɑːf/
 核心：指名人的"亲笔签名"。名词动词同形。
 和 signature（法律意义的签字）区分。
 ① He asked for an autograph and was given a signed photograph instead.
@@ -203,6 +215,7 @@ autograph = 名人签名（收藏用）
 signature = 签字（法律效力）
 
 autohypnosis
+/ˌɔːtəʊhɪpˈnəʊsɪs/
 核心：指"自我催眠"——不靠别人引导，自己把自己带进一种高度专注、
 容易接受暗示的状态。常跟自我暗示配合，用于放松、止痛和
 调整习惯。
@@ -217,6 +230,7 @@ practise autohypnosis = 做自我催眠
 心理治疗与自助语境。
 
 autoimmune
+/ˌɔːtəʊɪˈmjuːn/
 核心：医学形容词，指"自身免疫的"——免疫系统认错了目标，把自己
 身体的组织当成外敌来攻击。类风湿关节炎、一型糖尿病、
 桥本甲状腺炎都属这一类。
@@ -233,6 +247,7 @@ autoimmune disease = 自身免疫性疾病
 免疫学与临床术语。
 
 automagically
+/ˌɔːtəˈmædʒɪkli/
 核心：技术圈的玩笑话，把 automatically 和 magically 拼在一起，
 指"自动得像变魔术一样"——事情自己就办好了，用的人根本不知道
 背后怎么运作的。带调侃，有时也暗讽"黑箱"。
@@ -247,6 +262,7 @@ update automagically = 自动神奇地更新
 技术圈玩笑用语，正式文档里不用。
 
 automaker
+/ˈɔːtəʊmeɪkə(r)/
 核心：美式说法，指"汽车制造商"，就是造整车的那些公司。
 英式多说 car manufacturer 或 carmaker。多用于商业与行业报道。
 ① The automaker recalled forty thousand cars over a switch worth two pounds.
@@ -260,6 +276,7 @@ recall cars = 召回车辆
 美式说 automaker，英式说 carmaker。
 
 automat
+/ˈɔːtəmæt/
 核心：一种自助餐馆，墙上一格格小玻璃门后面摆着做好的菜，
 投币开门取走。二十世纪上半叶在纽约和费城风行一时，
 后来被快餐店取代，如今是个怀旧符号。
@@ -273,6 +290,7 @@ automat
 美国餐饮史用语，带怀旧色彩。
 
 automate
+/ˈɔːtəmeɪt/
 核心：指用机器或软件"使自动化"，取代人工操作。
 常用被动。
 ① The process was automated and now takes two people to supervise.
@@ -294,6 +312,7 @@ digitize = 数字化（转成数字形式）
 automated teller machine = 自动柜员机
 
 automated teller machine
+/ˌɔːtəmeɪtɪd ˈtelə məʃiːn/
 核心：自动柜员机的全称，日常一律说缩写。它替银行做了柜台的活：
 取现、存款、查余额、转账。第一台一九六七年装在伦敦，
 从此改变了人跟银行打交道的方式。
@@ -373,6 +392,7 @@ mechanization = 机械化（用机器出力）
 robotics = 机器人技术
 
 automatism
+/ɔːˈtɒmətɪzəm/
 核心：两层。医学上指"自动症"——人在意识不清时做出的一串看似有
 目的的动作，癫痫发作和梦游时都会出现，法律上可以据此免责；
 艺术上指超现实主义的"自动书写"，放手让手自己写画，
@@ -390,6 +410,7 @@ argue automatism = 以自动症抗辩
 医学、法律与艺术史各用一义。
 
 automaton
+/ɔːˈtɒmətən/
 核心：两条线：早期的"自动机械人偶"，
 和比喻义的"像机器一样机械行事的人"。后者是贬义。
 ① The clock has an automaton that strikes the hour with a small hammer.

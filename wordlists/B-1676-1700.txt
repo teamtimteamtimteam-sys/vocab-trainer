@@ -23,6 +23,7 @@ appealing 讨人喜欢（偏感受）
 attractiveness = 吸引力
 
 attributable
+/əˈtrɪbjʊtəbəl/
 核心：指"可归因于…的"，正式。介词固定用 to。
 学术和统计写作里高频。
 ① The rise is attributable to demand rather than to anything the company did.
@@ -64,6 +65,7 @@ attributive = 定语的（放在名词前修饰）
 attributively = 作定语地
 
 attribution
+/ˌætrɪˈbjuːʃən/
 核心：指"归因、署名归属"。学术上指注明出处，
 艺术上指认定作品出自谁手。
 ① The attribution is disputed and two museums claim the same brush.
@@ -82,6 +84,7 @@ credit = 署名致谢（通用）
 citation = 引用出处（学术）
 
 attrition
+/əˈtrɪʃən/
 核心：两条线：军事上靠消耗拖垮对方的"消耗战"，
 和人事上的"自然减员"（不补员的流失）。不可数。
 ① It became a war of attrition that neither side had planned for.
@@ -100,6 +103,7 @@ turnover = 人员周转率（含补员）
 erosion = 侵蚀（渐进消磨）
 
 attune
+/əˈtjuːn/
 核心：指使人或事物"适应、契合"某种情况。
 几乎总用被动 be attuned to。
 ① She is attuned to his moods and can tell from the way he shuts a door.
@@ -116,6 +120,7 @@ adapt to = 适应（改变自己）
 adjust to = 适应（小幅调整）
 
 atypical
+/ˌeɪˈtɪpɪkəl/
 核心：指"非典型的、不符合常见模式的"。
 构词是 a-（非）+ typical。医学和学术语境高频。
 ① The symptoms are atypical, which is why it took four doctors and a year.
@@ -135,6 +140,7 @@ unusual = 不寻常的（少见）
 aberrant = 反常的（学术，含偏离）
 
 au fait
+/ˌəʊ ˈfeɪ/
 核心：法语借来的说法，指"熟悉内情、门儿清"，固定接介词说
 au fait with something。作表语，不放在名词前面。
 ① She is au fait with the new rules and quotes them at people who wrote them.
@@ -151,6 +157,7 @@ get au fait with = 熟悉起来
 英式偏口语的借词，略带书卷气。
 
 au gratin
+/ˌəʊ ˈɡrætæn/
 核心：烹饪术语，指"焗的"——表面撒上奶酪或面包糠，再烤到金黄
 起壳。放在菜名后面，比如 potatoes au gratin。
 名字里的词就是那层脆壳。
@@ -167,6 +174,7 @@ potatoes au gratin = 焗土豆
 菜单与食谱用语。
 
 au jus
+/ˌəʊ ˈʒuː/
 核心：法语借来的餐饮说法，指"配原汁的"——肉烤出来的那点自然肉汁，
 不勾芡不调味，直接浇上或另盛一小碗蘸着吃。美式菜单上最常见，
 尤其配烤牛肉三明治。
@@ -184,6 +192,7 @@ gravy = 肉汁酱（加了面粉勾芡）
 美式餐饮菜单用语。
 
 au naturel
+/ˌəʊ nætʃəˈrel/
 核心：法语借词，两层。烹饪上指"原味的"——不加酱汁、不多加工，
 就照食材本来的样子上；日常戏谑着用时指"一丝不挂"。
 后一层用得比前一层还多。
@@ -201,6 +210,7 @@ au naturel = 一丝不挂（戏谑）
 第二层是玩笑话，正式场合别用。
 
 au pair
+/ˌəʊ ˈpeə(r)/
 核心：法语借词，指住在寄宿家庭、以照顾孩子和做家务
 换取食宿和零用钱的外国年轻人。多为欧洲做法。
 ① They hired an au pair who spoke better English than either of them.
@@ -218,6 +228,7 @@ nanny = 保姆（受雇，专职带娃）
 babysitter = 临时看孩子的人
 
 au revoir
+/ˌəʊ rəˈvwɑː(r)/
 核心：法语的"再见"，字面是"等着再见到"。英语里用它多半带一点
 俏皮或做作的味道，或者是在明确的法语场合。日常告别还是说
 goodbye。
@@ -234,6 +245,7 @@ au revoir = 再见（还会再见）
 adieu = 别了（含永别意味）
 
 aubade
+/əʊˈbɑːd/
 核心：诗歌与音乐的一种体裁，指"晨歌"——写黎明时分情人不得不
 分别的那个时刻。跟写夜晚幽会的小夜曲正好一头一尾。
 ① The poem is an aubade and never once says the word morning.
@@ -316,6 +328,7 @@ auction room = 拍卖厅
 put up for auction = 拿去拍卖
 
 auctioneer
+/ˌɔːkʃəˈnɪə(r)/
 核心：指主持拍卖的人——喊价、敲槌成交。
 构词是 auction + -eer（从事者）。
 ① The auctioneer raised the hammer and waited three seconds longer than usual.
@@ -330,6 +343,7 @@ accept a bid = 接受出价
 volunteer 志愿者、profiteer 牟取暴利者
 
 audacious
+/ɔːˈdeɪʃəs/
 核心：两条线：褒义的"大胆无畏的"，
 和贬义的"厚颜放肆的"。靠语境判断。
 ① It was an audacious plan that depended on nobody checking the register.
@@ -350,6 +364,7 @@ daring = 敢冒险的（褒）
 impudent = 无礼放肆的（贬）
 
 audacity
+/ɔːˈdæsɪti/
 核心：和形容词一样有两面：褒义的"胆识"，
 和贬义的"厚颜"。后者更常见，搭配 have the audacity to。
 ① He had the audacity to ask for a reference from the man he had sued.
@@ -367,6 +382,7 @@ gall = 厚颜（纯贬义）
 courage = 勇气（纯褒义）
 
 audible
+/ˈɔːdəbəl/
 核心：指"听得见的"。介词用 to。
 和 visible（看得见的）构词对应。
 ① Her voice was barely audible over a fan that nobody could switch off.
@@ -470,6 +486,7 @@ audiometry = 听力测定
 audiophile = 音响发烧友
 
 audiovisual
+/ˌɔːdiəʊˈvɪʒuəl/
 核心：指"视听的"——同时涉及声音和影像。
 教学设备和会议室语境高频。常缩写 AV。
 ① The room has audiovisual equipment that nobody in the building can operate.

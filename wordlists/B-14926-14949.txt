@@ -1,4 +1,5 @@
 multigrade
+/ˈmʌltiɡreɪd/
 核心：两个行业里的用语。说机油：多级的，冷热天都适用；说班级（尤美）：复式的，几个年级的学生合在一个班里上课。
 ① The manual recommends a multigrade oil for use all year round.
 = 说明书建议全年使用多级机油。
@@ -8,6 +9,7 @@ a multigrade oil = 多级机油
 a multigrade class = 复式班
 
 multigrain
+/ˈmʌltiɡreɪn/
 核心：杂粮的：用好几种谷物做的。说面包、饼干、早餐麦片。只放在名词前。
 ① He has two slices of multigrain toast with honey for breakfast.
 = 他早餐吃两片抹蜂蜜的杂粮吐司。
@@ -17,6 +19,7 @@ multigrain toast = 杂粮吐司
 a multigrain loaf = 杂粮面包
 
 multigym
+/ˈmʌltidʒɪm/
 核心：（英）多功能健身器：一台机器上能做好几种力量练习；也指摆着这类器械的健身房。
 ① He bought a second-hand multigym and set it up in the garage.
 = 他买了一台二手的多功能健身器，装在车库里。
@@ -26,6 +29,7 @@ a multigym = 多功能健身器
 a multigym in the basement = 地下室的器械健身房
 
 multilateral
+/ˌmʌltiˈlætərəl/
 核心：多边的：有三个以上的国家或团体参加的。跟 bilateral（双边的）、unilateral（单边的）相对。
 名词 multilateralism（多边主义）并入本条。
 ① The four countries signed a multilateral agreement on fishing rights.
@@ -39,6 +43,7 @@ multilateral talks = 多边会谈
 multilateralism = 多边主义
 
 multilingual
+/ˌmʌltiˈlɪŋɡwəl/
 核心：使用多种语言的；（人）会说多种语言的；（文件、词典）用几种语言写成的。
 ① Switzerland is a multilingual country with four national languages.
 = 瑞士是个使用多种语言的国家，有四种国语。
@@ -65,6 +70,7 @@ use multimedia = 使用多媒体
 这里是名词。
 
 multimillionaire
+/ˌmʌltiˌmɪljəˈneə(r)/
 核心：千万富翁、大富豪：财产值好几百万（英镑、美元）的人。
 ① He became a multimillionaire by the age of thirty after selling his software company.
 = 他卖掉自己的软件公司，不到三十岁就成了千万富翁。
@@ -88,6 +94,7 @@ a multinational = 跨国公司
 名词，可数。
 
 multipack
+/ˈmʌltipæk/
 核心：多件装：几件同样的商品捆在一起卖的一包。
 ① Crisps are cheaper if you buy them in a multipack of twelve bags.
 = 薯片买十二袋的多件装更便宜。
@@ -97,6 +104,7 @@ a multipack of twelve = 十二件装
 from a multipack = 从多件装里拿出来的
 
 multiparty
+/ˌmʌltiˈpɑːti/
 核心：多党的：有几个政党参加的。只放在名词前。
 ① The country held its first multiparty elections for thirty years.
 = 那个国家举行了三十年来的第一次多党选举。
@@ -106,6 +114,7 @@ multiparty elections = 多党选举
 a multiparty system = 多党制
 
 multiplayer
+/ˌmʌltiˈpleɪə(r)/
 核心：（电子游戏）多人的：供几个人同时玩的。只放在名词前。
 ① The boys spend their evenings in a multiplayer game with friends in three countries.
 = 那几个男孩晚上都在跟三个国家的朋友一起打一款多人游戏。
@@ -148,6 +157,7 @@ multiple sclerosis = 多发性硬化症
 multiple personality disorder = 多重人格障碍
 
 multiplex
+/ˈmʌltɪpleks/
 核心：多厅影院：一栋楼里有好几个放映厅。也说 multiplex cinema。
 ① A new multiplex with twelve screens has opened on the edge of town.
 = 城边新开了一家有十二个放映厅的多厅影院。
@@ -157,6 +167,7 @@ a multiplex = 多厅影院
 the multiplex arrives = 多厅影院开张
 
 multiplication
+/ˌmʌltɪplɪˈkeɪʃən/
 核心：乘法；也指数量的大量增加、繁殖。不可数。
 multiplication table（乘法表）并入本条，英式也叫 times table。
 ① The children are learning multiplication and division this term.
@@ -171,6 +182,7 @@ the multiplication of something = …的大量增加
 a multiplication table = 乘法表
 
 multiplicity
+/ˌmʌltɪˈplɪsɪti/
 核心：（正式）多种多样、大量。固定说 a multiplicity of，后接复数名词。
 ① The city has a multiplicity of small theatres, most of them above pubs.
 = 那座城市有各式各样的小剧场，大多开在酒馆楼上。
@@ -180,6 +192,7 @@ a multiplicity of something = 各式各样的…
 a multiplicity of errors = 许许多多的差错
 
 multiplier
+/ˈmʌltɪplaɪə(r)/
 核心：乘数：乘法里用来去乘的那个数。经济学上指乘数效应的那个倍数；也指把效果放大的东西。
 ① In the sum six times four, the number four is the multiplier.
 = 在六乘四这道题里，四是乘数。
@@ -213,6 +226,7 @@ multiply the risk = 使风险成倍增加
 bacteria multiply = 细菌繁殖
 
 multiprocessor
+/ˌmʌltiˈprəʊsesə(r)/
 核心：（计算机）多处理器的；多处理器系统：一台机器里有几个处理器同时运算。
 ① The laboratory runs its weather models on a multiprocessor system.
 = 那个实验室在一套多处理器系统上运行它的天气模型。
@@ -222,6 +236,7 @@ a multiprocessor system = 多处理器系统
 multiprocessor machines = 多处理器机器
 
 multipurpose
+/ˌmʌltiˈpɜːpəs/
 核心：多用途的：能派好几种用场。只放在名词前。
 ① He carries a multipurpose tool with a knife, a saw and a pair of pliers.
 = 他随身带着一把多用途工具，上面有刀、锯和钳子。
@@ -231,6 +246,7 @@ a multipurpose tool = 多用途工具
 a multipurpose hall = 多功能厅
 
 multiracial
+/ˌmʌltiˈreɪʃəl/
 核心：多种族的：包含或涉及几个种族的人。
 ① The school is proud of being a multiracial community of forty nationalities.
 = 那所学校以自己是个有四十种国籍的多种族群体而自豪。
@@ -240,6 +256,7 @@ a multiracial community = 多种族群体
 multiracial elections = 多种族选举
 
 multitask
+/ˌmʌltiˈtɑːsk/
 核心：同时做几件事；（计算机）同时运行多个程序。名词 multitasking 并入本条。
 ① Parents of small children learn to multitask without even noticing.
 = 小孩子的父母不知不觉就学会了一心多用。
@@ -252,6 +269,7 @@ a computer cannot multitask = 电脑不能多任务运行
 multitasking = 一心多用
 
 multitrack
+/ˈmʌltitræk/
 核心：（录音）多轨的：把各件乐器、各路人声分别录在不同的音轨上，之后再混合。只放在名词前。
 ① The band made the album on a multitrack recorder in a rented cottage.
 = 那支乐队在一栋租来的小屋里，用一台多轨录音机做出了那张专辑。
@@ -261,6 +279,7 @@ a multitrack recorder = 多轨录音机
 multitrack recording = 多轨录音
 
 multitude
+/ˈmʌltɪtjuːd/
 核心：（正式）大量、许多：a multitude of；也指人群、群众，the multitude 常带轻视，指芸芸众生。
 习语 cover a multitude of sins：遮掩种种毛病。形容词 multitudinous 并入本条。
 ① The delay was blamed on a multitude of small problems with the software.
@@ -283,6 +302,7 @@ multitudinous fish = 数不清的鱼
 正式而少见。
 
 multivitamin
+/ˌmʌltiˈvɪtəmɪn/
 核心：复合维生素：含多种维生素的药片或胶囊。
 ① She takes a multivitamin with her breakfast every morning.
 = 她每天早餐时吃一片复合维生素。

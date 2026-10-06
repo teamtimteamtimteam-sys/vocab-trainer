@@ -1,4 +1,5 @@
 binoculars
+/bɪˈnɒkjʊləz/
 核心：双筒望远镜，只用复数——因为它是两个镜筒并在一起的，
 跟 glasses、scissors 同理，论具要说 a pair of binoculars。
 跟单筒的 telescope 分工：binoculars 便携、视野宽、看远处的鸟兽
@@ -19,6 +20,7 @@ binoculars = 双筒望远镜（便携，视野宽）
 telescope = 单筒望远镜（倍率高，观天）
 
 binomial
+/baɪˈnəʊmiəl/
 核心：两条线，都从"两个名"来。数学上指"二项式"——两项相加减
 组成的代数式，如 x 加 y；生物学上指"双名法的"，学名由属名加
 种加词两部分组成，所以人是 Homo sapiens。构词是 bi-（二）加
@@ -39,6 +41,7 @@ binomial distribution = 二项分布
 构词：bi- 二 + nomen 名
 
 bint
+/bɪnt/
 核心：英式俚语，指女人，带轻蔑，是不礼貌的说法，知道意思就行，
 不要用。词源有意思：来自阿拉伯语的"女儿、女孩"，本是中性词，
 英军在中东驻扎时带回英国，进了英语之后才染上贬义——
@@ -53,6 +56,7 @@ bint
 经英军带回英语后才变成贬义。
 
 biobank
+/ˈbaɪəʊbæŋk/
 核心：专门收存生物样本的库——血液、组织、DNA，连同捐献者的
 健康数据一起长期低温保存，供研究使用。它跟普通标本库的区别在于
 规模和配套数据：样本要能跟病历、随访信息对上，才有研究价值。
@@ -70,6 +74,7 @@ biobank access = 样本库使用权限
 biobanking = 生物样本库的建设与管理
 
 biobreak
+/ˈbaɪəʊbreɪk/
 核心：美式办公室与会议里的委婉说法，指"上厕所的休息时间"。
 构词是 bio-（生理）加 break（休息），用一个技术味的词避开
 直说，常出现在远程会议和长时间培训里。语气轻松，
@@ -87,6 +92,7 @@ biobreak = 方便一下（委婉，办公室用语）
 comfort break = 中场休息（英式，同样委婉）
 
 biochemical
+/ˌbaɪəʊˈkemɪkəl/
 核心：形容词，指"生物化学的"——跟活体内发生的化学过程有关。
 也作名词，指生化制品或生化物质。构词是 bio-（生命）加 chemical
 （化学的）。它跟 chemical 的分界很清楚：加了 bio- 就限定在
@@ -106,6 +112,7 @@ biochemistry = 生物化学
 biochemist = 生物化学家
 
 biochemist
+/ˌbaɪəʊˈkemɪst/
 核心：研究生命体内化学过程的人——酶怎么催化、代谢怎么走、
 蛋白质怎么折叠都归他们管。它跟 chemist 的分工是研究对象：
 chemist 研究物质本身，biochemist 研究物质在活体里怎么反应。
@@ -124,6 +131,7 @@ chemist = 化学家；（英式）药剂师、药店
 biochemistry = 生物化学
 
 biochemistry
+/ˌbaɪəʊˈkemɪstri/
 核心：研究生命体内化学过程的学科，介于生物学和化学之间：
 用化学的方法去解释生命现象。不可数。它也用来指某个具体生物体
 "体内的生化状况"——说 the patient's biochemistry，
@@ -145,6 +153,7 @@ biochemical = 生化的
 biochemist = 生化学家
 
 bioconversion
+/ˌbaɪəʊkənˈvɜːʃən/
 核心：技术用语，指靠生物的力量把一种物质转成另一种——用微生物、
 酶或植物把有机废料变成燃料、饲料或化工原料。它跟单纯的化学转化
 的分别就在这个"生物"：干活的是活体或活体产生的酶，
@@ -163,6 +172,7 @@ biofuel = 生物燃料
 biodegradable = 可生物降解的
 
 biodata
+/ˈbaɪəʊdeɪtə/
 核心：指一个人的"个人背景资料"——学历、工作经历、家庭情况这类
 成套信息。在南亚以外的英语里它主要出现在人力资源和心理测量的
 语境里，指用背景资料预测工作表现的那套方法。
@@ -182,6 +192,7 @@ biodata = 个人背景资料（成套信息）
 résumé = 简历（本人撰写，自陈经历）
 
 biodefence
+/ˈbaɪəʊdɪfens/
 核心：指防生物武器和人为疫情的整套防备——监测预警、疫苗储备、
 实验室安保。手段跟公共卫生防疫一样，分别在假想对手是人。不可数。
 ① The country expanded its biodefence programme after the outbreak reached the capital.
@@ -199,6 +210,7 @@ biodefence = 生物防御（英式）
 biodefense = 生物防御（美式）
 
 biodegradable
+/ˌbaɪəʊdɪˈɡreɪdəbəl/
 核心：说一样东西能被细菌真菌分解掉，烂完回到自然里。反面是塑料
 玻璃那种埋着不烂的，否定式 not biodegradable 用得很多。
 ① Use biodegradable packaging or expect the council to charge you for waste.
@@ -219,6 +231,7 @@ compostable = 可堆肥的（还须限期内分解、残渣无毒）
 recyclable = 可回收的（靠人工再造，跟会不会烂无关）
 
 biodegrade
+/ˌbaɪəʊdɪˈɡreɪd/
 核心：指有机物被微生物分解掉，回到自然循环。要害在"谁来分解"：
 靠活的微生物才算，日晒风吹碎成小块不算。多作不及物。
 ① Paper biodegrades quickly in a warm heap but hardly at all in a sealed landfill.
@@ -240,6 +253,7 @@ Biodegradation of that bag takes four hundred years in a landfill.
 = 那种袋子在填埋场里的生物降解，要四百年。
 
 biodiesel
+/ˈbaɪəʊdiːzəl/
 核心：用植物油或动物脂肪做的柴油替代燃料。不可数。按掺混比例标号，
 B20 是掺两成，B100 才是纯的。
 ① The bus runs on biodiesel and smells faintly of the chip shop next door.
@@ -279,6 +293,7 @@ biodiversity hotspot = 生物多样性热点地区
 biodiverse = 生物多样性丰富的
 
 bioenergy
+/ˌbaɪəʊˈenədʒi/
 核心：从生物质里取出来的能量——木柴、秸秆、粪肥、有机垃圾，烧掉
 或发酵产气都算。不可数，多出现在能源统计和政策文件里。
 ① The town heats its schools with bioenergy from wood chips.
@@ -295,6 +310,7 @@ biomass = 生物质（原料本身）
 biofuel = 生物燃料（加工出来的燃料）
 
 bioengineering
+/ˌbaɪəʊˌendʒɪˈnɪərɪŋ/
 核心：两条线：把工程手段用到医学上（人工关节、支架、义肢），也叫
 biomedical engineering；或者改造生物体去替人合成药物材料。共同点
 是把活物当成工程对象来造。不可数。
@@ -317,6 +333,7 @@ bioengineering = 生物工程（重在设计制造）
 biotechnology = 生物技术（重在把生物过程用于产业）
 
 bioethanol
+/ˌbaɪəʊˈeθənɒl/
 核心：作物发酵酿出的酒精，脱水后当汽油替代燃料烧。多掺进汽油里用，
 E10、E85 这类标号里的数字就是乙醇的掺混比例。
 ① The car runs on a bioethanol blend and loses a little range in winter.
@@ -336,6 +353,7 @@ bioethanol = 生物乙醇（替汽油）
 biodiesel = 生物柴油（替柴油）
 
 bioethics
+/ˌbaɪəʊˈeθɪks/
 核心：研究生物医学进展带来的道德难题——器官怎么分配、基因该不该
 编辑、临终撤不撤治疗。形式上是复数，当单数用。
 ① Bioethics deals with hard choices that medicine can pose but not settle.
@@ -355,6 +373,7 @@ bioethical = 生物伦理的
 bioethicist = 生物伦理学家
 
 biofeedback
+/ˌbaɪəʊˈfiːdbæk/
 核心：把心率、血压、肌肉紧张度这些平时感觉不到的信号接上仪器实时
 显示，人盯着屏幕学着去调。要害在"看得见"，察觉不到就调不动。
 不可数。
@@ -372,6 +391,7 @@ biofeedback = 生物反馈（借仪器看见身体信号）
 neurofeedback = 神经反馈（专盯脑电波的那一种）
 
 biofuel
+/ˈbaɪəʊfjuːəl/
 核心：用生物质做出来的燃料，跟化石燃料相对——原料是活物或活物的
 残余。泛指时不可数，说种类时用复数。
 ① The refinery makes biofuel from sugar cane and sells the pulp as cattle feed.
@@ -389,6 +409,7 @@ bioethanol = 生物乙醇（液体，替汽油）
 biogas = 沼气（气体）
 
 biogas
+/ˈbaɪəʊɡæs/
 核心：有机物在无氧环境里被细菌分解产生的气体，主要成分是甲烷，
 可以直接烧。中文说"沼气"。不可数。
 ① The farm runs on biogas made from its own slurry.
@@ -405,6 +426,7 @@ biogas = 沼气（厌氧分解得来的甲烷）
 natural gas = 天然气（地下开采的）
 
 biographer
+/baɪˈɒɡrəfə(r)/
 核心：写传记的人。写谁就说 the biographer of 加人名，也说
 his biographer。可数。
 ① She is his official biographer and was given the letters nobody else has seen.
@@ -420,6 +442,7 @@ biography = 传记
 biographical = 传记的
 
 biographical
+/ˌbaɪəˈɡræfɪkəl/
 核心：形容词，说材料、影片、笔记讲的是某人的一生。常用搭配是
 biographical details、biographical information、biographical film。
 ① He gave a few biographical details and refused every question after that.
