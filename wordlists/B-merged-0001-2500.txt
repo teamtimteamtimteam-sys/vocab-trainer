@@ -27313,6 +27313,7 @@ arachnid = 蛛形纲（八腿，两段身）
 insect = 昆虫（六腿，三段身）
 
 arak
+/ˈæræk/
 核心：arrack 的另一种拼法，指的是同一类东西——亚洲与中东用椰花汁、
 棕榈汁或米蒸馏出的烈酒。在黎凡特一带这个拼法多指茴香味的那种，
 兑水会变成乳白色。
@@ -27328,6 +27329,7 @@ arak = 亚洲烈酒（较短的拼法）
 arrack = 亚洲烈酒（更通行的拼法）
 
 Aramaic
+/ˌærəˈmeɪɪk/
 核心：一门古老的闪族语言，公元前后一千年间是西亚的通用语，
 波斯帝国拿它做行政语言，耶稣的日常语言也是它。今天在叙利亚、
 伊拉克的少数社群里还有人说，属濒危语言。
@@ -27343,6 +27345,7 @@ lingua franca = 通用语
 语言学与古代史用语，首字母大写。
 
 Aran jumper
+/ˈærən dʒʌmpə(r)/
 核心：爱尔兰阿伦群岛出的那种粗针厚毛衣——本白色，通身是绞花、
 菱格和蜂巢纹的立体织样。传说不同家族有不同花样，实际上更多是
 织工自己的搭配。美式多说 Aran sweater。
@@ -27361,6 +27364,7 @@ cable pattern = 绞花织样
 以群岛名命名，首词大写。
 
 Arapaho
+/əˈræpəhəʊ/
 核心：北美大平原上的一支印第安人，历史上以狩猎野牛为生，
 与夏延人结盟，说的是阿尔冈昆语族的一门语言。今天主要住在
 怀俄明和俄克拉何马两州的保留地。也指他们的语言。
@@ -27375,6 +27379,7 @@ follow the herds = 追随兽群
 北美原住民族群与语言名称。
 
 Arawak
+/ˈærəwæk/
 核心：加勒比海与南美北部的一支原住民，是哥伦布最先遇到的族群，
 殖民之后人口锐减。英语里的 hammock、canoe、hurricane 这些词
 就是经西班牙语从他们的语言借来的。
@@ -27389,6 +27394,7 @@ enter through = 经由…进入
 加勒比史与语言学用语。
 
 arbiter
+/ˈɑːbɪtə(r)/
 核心：指有权裁断的人。两条线：正式的"仲裁人"，
 和比喻义的"权威、风向标"（arbiter of taste）。
 ① He acted as arbiter in a quarrel that had already outlasted two of its causes.
@@ -27406,6 +27412,7 @@ arbitrator = 仲裁员（正式程序）
 judge = 法官、评委
 
 arbitrage
+/ˈɑːbɪtrɑːʒ/
 核心：金融操作，指"套利"——同一样东西在两个市场价钱不同，
 就低买高卖，赚那个价差。理论上无风险，因为买和卖几乎同时完成。
 做这行的人叫 arbitrageur。也作动词。
@@ -27456,6 +27463,7 @@ The arbitrariness of the cut-off date decided nine people's year.
 arbitrate = 仲裁
 
 arbitrate
+/ˈɑːbɪtreɪt/
 核心：指以第三方身份"仲裁"争端。介词用 in 或 between。
 比 mediate 更有约束力——仲裁结果双方须遵守。
 ① She arbitrated in the dispute and delivered a decision neither side had asked for.
@@ -27492,6 +27500,7 @@ mediation = 调解（有人帮忙）
 arbitration = 仲裁（第三方裁决）
 
 arbitrator
+/ˈɑːbɪtreɪtə(r)/
 核心：指主持仲裁的人，通常由双方共同选定。
 和 arbiter 的差别：arbitrator 是正式程序里的角色。
 ① An arbitrator was appointed from a list that both sides had helped to draw up.
@@ -27508,6 +27517,7 @@ arbitrator = 仲裁员（有裁决权）
 mediator = 调解人（无裁决权）
 
 arboreal
+/ɑːˈbɔːriəl/
 核心：形容词，指"树栖的、树木的"。说动物时指一辈子基本在树上过，
 在树间攀爬跳跃；说环境时指跟树木有关的。树懒、猴子、树蛙
 都是典型的树栖动物。
@@ -27527,6 +27537,7 @@ terrestrial = 陆栖的
 aquatic = 水栖的
 
 arboretum
+/ˌɑːbəˈriːtəm/
 核心：种着各色树木供人观赏和研究的"树木园"，本质上是一座
 专收树的植物园，每株都挂牌标名。复数是 arboreta 或 arboretums。
 ① The arboretum holds three hundred species, half of which will not survive the next drought.
@@ -27542,6 +27553,7 @@ arboretum = 树木园（专收树）
 botanical garden = 植物园（各类植物都收）
 
 arboriculture
+/ˈɑːbərɪkʌltʃə(r)/
 核心：底层是拉丁语的"树"——指"树木栽培学"，专管单株树木的种植、
 修剪、诊病和保护，跟以成片林子和木材产出为目标的林业不同。
 从业者叫 arboriculturist，日常多说 arborist（树艺师）。
@@ -27563,6 +27575,7 @@ forestry = 林业（管成片林子与木材）
 horticulture = 园艺（管花果菜）
 
 Arborio
+/ɑːˈbɔːriəʊ/
 核心：意大利产的一种短粒米，名字来自波河平原上一个镇子。
 它淀粉多，煮的时候不断搅动会释出淀粉形成浓稠的汤汁，
 米心还保持一点硬，所以是做意大利烩饭的标准用米。
@@ -27577,6 +27590,7 @@ release starch = 释出淀粉
 烹饪与食材名称。
 
 arbour
+/ˈɑːbə(r)/
 核心：园子里用藤蔓遮盖的"凉亭、绿廊"——搭个木架或铁架，让攀援
 植物爬满，底下留出坐处。美式拼 arbor。注意跟另一个 arbor
 （机床上的心轴）拼法相同、来源不同。
@@ -27592,6 +27606,7 @@ arbour = 藤架凉亭（英式）
 arbor = 藤架凉亭（美式）
 
 arbutus
+/ɑːˈbjuːtəs/
 核心：一类常绿灌木或小乔木，开一串串白色小坛状花，结的红果表面
 带疣粒，样子像草莓，所以俗名叫 strawberry tree。地中海一带最常见。
 ① An arbutus grows by the wall and keeps its leaves through the worst of the winter.
@@ -27646,6 +27661,7 @@ arch = 拱
 构词：arc 弧 + -ade
 
 Arcadian
+/ɑːˈkeɪdiən/
 核心：底层是希腊那个多山的牧区地名。文学传统把那里想象成牧人
 吹笛、与世无争的乐土，于是这个词就指"田园牧歌式的"——恬静、
 淳朴、不受城市和现代生活侵扰。也作名词指那里的人。
@@ -27665,6 +27681,7 @@ pastoral = 田园的（也指牧羊的）
 rustic = 乡土的（可能带粗糙意味）
 
 arcana
+/ɑːˈkɑːnə/
 核心：指"奥秘、深奥难懂的知识"——只有内行才通的那一套。多用复数，
 单数是 arcanum。塔罗牌把牌分成 major arcana（大阿卡纳）
 和 minor arcana（小阿卡纳），也是这个词。
@@ -27682,6 +27699,7 @@ major arcana = 大阿卡纳（塔罗的主牌）
 正式或带神秘色彩，也用于塔罗术语。
 
 arcane
+/ɑːˈkeɪn/
 核心：指知识"深奥难懂、只有内行才明白的"，
 常带一点"故弄玄虚"的意味。
 ① The rules are arcane enough that the people who wrote them consult a summary.
@@ -27786,6 +27804,7 @@ archeological = 考古学的（美式拼法）
 词族：archaeology、archaeologist
 
 archaeologist
+/ˌɑːkiˈɒlədʒɪst/
 核心：指考古学家——通过发掘遗迹研究古代人类。
 和 anthropologist（研究人类社会文化）分工不同。
 ① Archaeologists uncovered a tomb that had been robbed twice before they got to it.
@@ -27820,6 +27839,7 @@ archeology = 考古学（美式拼法）
 注意发音：/ˌɑːkiˈɒlədʒi/
 
 archaic
+/ɑːˈkeɪɪk/
 核心：两条线：语言"古体的、已废弃的"，
 和事物"陈旧过时的"（贬义）。
 ① "Thou" is archaic, but it survives in a few dialects and in every hymn book.
@@ -27838,6 +27858,7 @@ obsolete = 已淘汰的
 antiquated = 过时的（贬义）
 
 archbishop
+/ˌɑːtʃˈbɪʃəp/
 核心：指大主教——管辖一个教省的高级主教，
 地位在 bishop 之上。
 ① The Archbishop of Canterbury spoke for eleven minutes and said very little.
@@ -27857,6 +27878,7 @@ priest = 神父
 archbishopric = 大主教之职、大主教辖区
 
 archer
+/ˈɑːtʃə(r)/
 核心：指射箭的人。射箭这项运动叫 archery。
 中世纪战争里 archer 是重要兵种。
 ① The archer drew his bow and held it while the wind dropped.
@@ -27891,6 +27913,7 @@ target = 靶
 bullseye = 靶心
 
 archetypal
+/ˌɑːkiˈtaɪpəl/
 核心：指"典型的、原型式的"——最能代表某一类的。
 比 typical 更强调"本源、范式"。
 ① He's the archetypal English gentleman, right down to the apology when someone treads on him.
@@ -27907,6 +27930,7 @@ typical = 典型的（常见）
 quintessential = 精髓的（最纯粹）
 
 archetype
+/ˈɑːkitaɪp/
 核心：指"原型、典型代表"——某一类事物最本源的样板。
 心理学里指荣格说的集体无意识原型。介词用 of。
 ① He is the archetype of a hero who wins by refusing to fight.
@@ -27925,6 +27949,7 @@ prototype = 原型机（第一个实物）
 stereotype = 刻板印象（简化偏见）
 
 archipelago
+/ˌɑːkɪˈpeləɡəʊ/
 核心：指群岛——成群分布的岛屿。可数。
 注意重音和 ch 的读音。
 ① Indonesia is an archipelago, and the distance from end to end is greater than that across Europe.
@@ -28014,6 +28039,7 @@ Archival paper costs four times as much and lasts a hundred years.
 = 邮件都归了档，如今一封也找不到。
 
 archivist
+/ˈɑːkɪvɪst/
 核心：指管理档案的专业人员——负责整理、保存、
 提供查阅。
 ① The archivist catalogued the papers over four years and found two letters nobody knew existed.
@@ -28030,6 +28056,7 @@ archive = 档案
 同类：librarian 图书管理员、curator 策展人
 
 archway
+/ˈɑːtʃweɪ/
 核心：指拱形的门道或通道。
 构词是 arch（拱）+ way（通道）。
 ① They passed under the archway and the noise of the street stopped at once.
@@ -28071,6 +28098,7 @@ Antarctic = 南极
 Arctic tern = 北极燕鸥（迁徙距离最远的鸟）
 
 ardent
+/ˈɑːdənt/
 核心：指感情或信念"热烈的、狂热的"。
 常修饰 supporter、admirer、fan、desire。
 ① He is an ardent supporter who has not missed a home game in thirty years.
@@ -28091,6 +28119,7 @@ passionate = 充满激情的
 zealous = 狂热的（近乎偏执）
 
 ardour
+/ˈɑːdə(r)/
 核心：指强烈的"热情、激情"，不可数，正式。
 美式拼 ardor。
 ① He spoke with ardour for forty minutes and convinced nobody who had come to disagree.
@@ -28112,6 +28141,7 @@ enthusiasm = 热忱（通用）
 zeal = 狂热（近乎执着）
 
 arduous
+/ˈɑːdjuəs/
 核心：指任务"艰巨费力的"——又难又累又长。
 常修饰 task、journey、process、climb。
 ① It was an arduous journey that took three weeks and two changes of guide.
@@ -28132,6 +28162,7 @@ laborious = 繁重的（琐碎冗长）
 arduously = 艰难地、费力地
 
 are
+/ə(r)/（弱读）/ɑː(r)/（强读）
 核心：be 的现在时复数与第二人称形式——跟 you、we、they 以及所有
 复数主语搭配。它同时承担进行时和被动语态的助动词。
 缩略式是 're，否定缩略是 aren't。
@@ -28180,6 +28211,7 @@ a development area = 开发区（政府扶持的地区）
 英国政策用语，指获政府补助以吸引投资的地区。
 
 aren't
+/ɑːnt/
 核心：are not 的缩略式。有个特别之处：在反问句里它还顶替
 am not——英语没有 amn't 这个说法，所以要说 aren't I。
 这是标准用法，不是口误。
@@ -28232,6 +28264,7 @@ stadium = 体育场（露天大型）
 venue = 场地（通用，不含对抗义）
 
 areola
+/əˈriːələ/
 核心：解剖学名词，指乳头周围那一圈"乳晕"——颜色比周围深，
 上面分布着小小的皮脂腺。复数是 areolae 或 areolas。
 更广义时也指任何色素较深的小环。
@@ -28248,6 +28281,7 @@ darken during pregnancy = 孕期变深
 解剖学与医学术语。
 
 arête
+/əˈret/
 核心：登山与地貌用词，指"刃脊"——两侧冰川各自向下刨蚀，中间剩下
 一道薄薄的山脊，窄得像刀刃，两边都是陡壁。法语借词，
 词上那个尖音符不能省。
@@ -28264,6 +28298,7 @@ traverse an arête = 横越刃脊
 词中带尖音符，不能省。
 
 argent
+/ˈɑːdʒənt/
 核心：纹章学用语，指盾面上的"银色、白色"。纹章学给每种颜色都起了
 专门的名字，argent 就是其中之一，画的时候用留白表示。
 作形容词也作名词。在诗里偶尔借来形容月光般的银白。
@@ -28282,6 +28317,7 @@ or = 金黄
 gules = 红
 
 Argentine
+/ˈɑːdʒɪntaɪn/
 核心：指"阿根廷的、阿根廷人"。同义的另一种写法是 Argentinian，
 两者通用，英式媒体两个都用。国名来自拉丁语的"银"——早期探险者
 以为那里出银子。
@@ -28300,6 +28336,7 @@ Argentinian = 阿根廷的、阿根廷人（同义异写）
 两种写法通用，同一篇文章里保持一致就好。
 
 argon
+/ˈɑːɡɒn/
 核心：一种惰性气体，占空气近百分之一，无色无味，几乎不与任何
 东西反应。正因为不反应，才用来给灯泡和焊接现场充气，
 把氧气隔开以防氧化。名字来自希腊语的"懒惰的"。
@@ -28316,6 +28353,7 @@ shielding gas = 保护气体
 化学元素名称，也常见于工业语境。
 
 argot
+/ˈɑːɡəʊ/
 核心：指某个圈子内部的"行话、黑话"——小偷、赌徒、某个行业或
 亚文化自己人才懂的说法，外人听着云里雾里。法语借词，
 词尾那个 t 不发音。
@@ -28334,6 +28372,7 @@ jargon = 行话（专业术语，未必想瞒人）
 slang = 俚语（非正式，流通更广）
 
 arguable
+/ˈɑːɡjuəbəl/
 核心：两条线，方向相反：一是"有理有据、说得通的"，
 二是"尚有争议、未必成立的"。靠语境判断。
 ① It's arguable that he was right, and two of the three judges thought so.
@@ -28350,6 +28389,7 @@ argue = 论证
 要靠上下文分辨是"站得住"还是"有争议"。
 
 arguably
+/ˈɑːɡjuəbli/
 核心：用来给主张留余地，意为"可以说、大概"。
 最常见的是修饰最高级：arguably the best。
 ① He is arguably the best player of his generation, and the argument has run for years.
@@ -28442,6 +28482,7 @@ argumentation = 论证、说理过程
 a closing argument = 结案陈词
 
 argumentative
+/ˌɑːɡjuˈmentətɪv/
 核心：指人"爱争辩的、动不动就抬杠的"，贬义。
 不是"论证严密的"——那个意思要用 well-argued。
 ① He gets argumentative when tired and remembers none of it in the morning.
@@ -28458,6 +28499,7 @@ well-argued = 论证充分的（褒义，说文章）
 persuasive = 有说服力的
 
 argy-bargy
+/ˌɑːdʒi ˈbɑːdʒi/
 核心：英式非正式说法，指"吵吵嚷嚷的争执"——嗓门大、来回顶嘴，
 但一般不动手，多半是些不值当的事。是那种叠韵式的俏皮造词。
 ① There was some argy-bargy at the bar and the landlord settled it by turning the lights up.
@@ -28472,6 +28514,7 @@ end in argy-bargy = 以争吵收场
 英式非正式口语，带轻描淡写的口气。
 
 argyle
+/ɑːˈɡaɪl/
 核心：一种菱格花纹——大块菱形套着细斜线，多用几种颜色，
 最常见于毛袜和毛衣。花样来自苏格兰阿盖尔郡一个氏族的格纹，
 所以带这个地名。也拼作 argyll。
@@ -28524,6 +28567,7 @@ semi-arid = 半干旱
 humid = 潮湿
 
 Aries
+/ˈeəriːz/
 核心：黄道十二宫的第一宫，中文叫"白羊座"，符号是一对羊角，
 时段大致三月二十一日到四月十九日。同名的星座也在天上。
 属这一宫的人也直接叫 Aries，不另变形式。
@@ -28540,6 +28584,7 @@ the constellation Aries = 白羊星座
 天文与占星语境。
 
 aright
+/əˈraɪt/
 核心：偏旧的副词，指"正确地、无误地"，几乎只出现在
 if I remember aright（如果我没记错）这一类固定说法里。
 日常说 correctly 或 right。
@@ -28577,6 +28622,7 @@ raise 举起、提高（及物）
 rise 上升（不及物）
 
 aristocracy
+/ˌærɪˈstɒkrəsi/
 核心：指贵族阶层，也指贵族统治这种政体。
 集合名词，英式可配复数动词。
 ① The aristocracy owned the land and, for four centuries, the men who worked it.
@@ -28594,6 +28640,7 @@ aristocratic = 贵族的
 同类：democracy、bureaucracy
 
 aristocrat
+/ˈærɪstəkræt/
 核心：指贵族出身的人。
 和 nobleman 基本同义，aristocrat 更常用。
 ① He is a French aristocrat whose title outlasted the estate by two generations.
@@ -28609,6 +28656,7 @@ every inch = 十足的
 美式 /əˈrɪstəkræt/ 重音在第二音节
 
 aristocratic
+/ˌærɪstəˈkrætɪk/
 核心：两条线：字面"贵族的、出身贵族的"，
 和比喻义"有贵族派头的"（举止优雅高傲）。
 ① He comes from an aristocratic family and has spent his life playing it down.
@@ -28622,6 +28670,7 @@ aristocratic bearing = 高贵的仪态
 词族：aristocracy、aristocrat
 
 Aristotelian
+/ˌærɪstəˈtiːliən/
 核心：指"亚里士多德的、亚里士多德式的"。他那套讲究分类、逻辑
 推演和经验观察的路数，两千年里是欧洲学术的骨架。今天说某种论证
 "Aristotelian"，意思多半是它讲形式逻辑、重目的因。
@@ -28637,6 +28686,7 @@ Aristotelian ethics = 亚里士多德伦理学
 由人名派生，首字母大写。
 
 arithmetic
+/əˈrɪθmətɪk/
 核心：指算术——加减乘除这部分数学。不可数。
 注意名词和形容词重音不同。
 ① He is good at arithmetic but has never learned to read a graph.
@@ -28744,6 +28794,7 @@ arm candy = 陪衬用的漂亮伴侣（贬义）
 arm-wrestling = 掰手腕
 
 armada
+/ɑːˈmɑːdə/
 核心：指庞大的舰队，尤指一五八八年西班牙进攻英国的
 "无敌舰队"（the Spanish Armada）。
 ① The Spanish Armada was defeated less by the English fleet than by the weather.
@@ -28761,6 +28812,7 @@ fleet = 舰队（通用）
 flotilla = 小舰队
 
 armadillo
+/ˌɑːməˈdɪləʊ/
 核心：中南美洲的一种哺乳动物，背上覆着一块块骨质甲板连成的壳，
 受惊时缩起来护住软腹，有的种能滚成一个球。名字是西班牙语的
 "披小铠甲的"。复数 armadillos。
@@ -28776,6 +28828,7 @@ roll into a ball = 缩成球
 动物名称。
 
 Armageddon
+/ˌɑːməˈɡedən/
 核心：底层是《启示录》里那个决战之地的名字。宗教上指"末日大决战"；
 日常引申着用，指任何"毁灭性的大灾难或终极对决"，常用来说核战、
 气候崩溃或一场决定生死的比赛，带夸张色彩。
@@ -28792,6 +28845,7 @@ nuclear Armageddon = 核浩劫
 宗教义正式，引申义多带夸张，新闻标题里常见。
 
 Armagnac
+/ˈɑːmənjæk/
 核心：法国西南部加斯科涅地区产的一种白兰地，用铜制单柱蒸馏器
 一次蒸馏，酒体比干邑粗犷厚重些。名字就是那个产区的地名，
 受原产地命名保护。
@@ -28809,6 +28863,7 @@ Armagnac = 雅文邑（加斯科涅，单次蒸馏）
 Cognac = 干邑（夏朗德，两次蒸馏）
 
 armament
+/ˈɑːməmənt/
 核心：指"武器装备"——一支部队、一艘军舰或一架飞机所配备的全部
 火力，多用复数。也指"扩充军备"这件事本身，反义是 disarmament。
 ① The ship's armament includes missiles that were fitted after it was launched.
@@ -28828,6 +28883,7 @@ armament = 扩充军备
 disarmament = 裁军
 
 armaments
+/ˈɑːməmənts/
 核心：指一国的"军备、武器装备"，常用复数。
 不同于 arms（泛指武器），armaments 强调成体系的装备。
 ① The armaments race escalated until both sides had more than they could ever use.
@@ -28848,6 +28904,7 @@ arms = 武器（泛指）
 weapons = 兵器（具体）
 
 armature
+/ˈɑːmətʃə(r)/
 核心：底层是"撑起来的骨架"。雕塑家先用铁丝木条搭一个内骨架再敷
 泥，那个骨架就是它；电机里绕着线圈、在磁场中转动的那个部件也叫
 这个名字，因为它同样是承载绕组的骨干。生物学上还指动植物的
@@ -28866,6 +28923,7 @@ armature = 电枢（电机中的转动绕组部件）
 雕塑、电机工程与生物学各用一义。
 
 armband
+/ˈɑːmbænd/
 核心：指戴在上臂的"臂章"，用来表明身份、
 哀悼或权限。游泳用的浮臂圈也叫 armband。
 ① He wore a black armband for the whole of the season after his father died.
@@ -28881,6 +28939,7 @@ captain's armband = 队长袖标
 headband 发带 / wristband 腕带
 
 armchair
+/ˈɑːmtʃeə(r)/
 核心：指有扶手的"扶手椅"。作定语时是比喻义，
 指"纸上谈兵的"（armchair critic）。
 ① He sat in an armchair that had moulded itself to him over twenty years.
@@ -28913,6 +28972,7 @@ unarmed = 徒手的、无武装的
 词族：arm、arms、armaments
 
 Armenian
+/ɑːˈmiːniən/
 核心：指"亚美尼亚的、亚美尼亚人"，也指亚美尼亚语——它在印欧语系里
 自成一支，用的是自己一套字母。亚美尼亚是世界上第一个把基督教
 定为国教的国家。
@@ -28927,6 +28987,7 @@ of Armenian descent = 亚美尼亚血统的
 族群、国别与语言都用这个词。
 
 armful
+/ˈɑːmfəl/
 核心：指"一抱之量"——两臂能抱住的分量。
 构词是 arm + -ful。
 ① She carried an armful of books up three flights and dropped none of them.
@@ -28943,6 +29004,7 @@ handful 一把 / mouthful 一口
 spoonful 一勺 / cupful 一杯
 
 armhole
+/ˈɑːmhəʊl/
 核心：衣服上让胳膊穿过去的那个"袖窿"——袖子跟衣身缝合的那一圈开口。
 裁剪上它的大小直接决定抬手方不方便，所以是版型的关键处之一。
 ① The armholes are cut too tight and the jacket pulls whenever he reaches up.
@@ -28957,6 +29019,7 @@ widen the armhole = 放大袖窿
 裁缝与服装制版用语。
 
 armistice
+/ˈɑːmɪstɪs/
 核心：指交战双方约定"停战"，比 ceasefire 正式，
 常指结束战争的正式协定。
 ① They signed an armistice in a railway carriage in a forest.
@@ -28973,6 +29036,7 @@ ceasefire = 停火（临时）
 truce = 休战（临时，可非正式）
 
 armlet
+/ˈɑːmlət/
 核心：戴在上臂的"臂环、臂章"——可以是金属或串珠的装饰环，
 古代地中海和非洲都戴；也可以是套在袖子上标明身份的布圈，
 比如裁判和纠察员戴的那种。
@@ -28989,6 +29053,7 @@ bracelet = 手镯（戴手腕）
 armband = 臂章（多为布制，标身份）
 
 armlock
+/ˈɑːmlɒk/
 核心：摔跤和柔道里的"锁臂"——把对手的胳膊别到关节反方向，
 让他动弹不得或疼得认输。固定说法 put somebody in an armlock。
 比喻着用时指"把人逼到没有选择的余地"。
@@ -29003,6 +29068,7 @@ put somebody in an armlock = 锁住某人手臂
 格斗术语，比喻义见于口语。
 
 armoire
+/ɑːmˈwɑː(r)/
 核心：法语借来的家具名，指"大衣柜"——独立的高身双门柜，通常带
 雕花，是在墙里没有嵌入式衣橱的年代用来挂衣服的。今天多指
 古董或仿古的那种。
@@ -29020,6 +29086,7 @@ wardrobe = 衣柜（通称）
 closet = 壁橱（嵌在墙里，美式）
 
 armorial
+/ɑːˈmɔːriəl/
 核心：纹章学形容词，指"纹章的、带纹章的"。说盾徽、印章、餐具上
 那套家族标记。作名词时指"纹章图谱"——把各家族的纹章汇编成册的
 那种书。
@@ -29062,6 +29129,7 @@ armor-plated = 装甲的（美式拼法）
 armourer = 军械师、盔甲匠
 
 armoured
+/ˈɑːməd/
 核心：指"装甲的、有防护的"。常见搭配
 armoured vehicle、armoured car、armoured division。
 ① An armoured vehicle arrived at the gate and nobody was allowed past it.
@@ -29082,6 +29150,7 @@ armored = 装甲的（美式拼法）
 armoured personnel carrier = 装甲运兵车
 
 armoury
+/ˈɑːməri/
 核心：指存放武器的"军械库"，比喻义指某人可用的
 "全套手段"。美式拼 armory。
 ① The armoury was guarded day and night by men who had never fired anything.
@@ -29099,6 +29168,7 @@ armoury = 军械库（存放）
 arsenal = 兵工厂；武器库（也可指全部装备）
 
 armpit
+/ˈɑːmpɪt/
 核心：指腋窝，构词就是 arm（臂）加 pit（凹坑），一看就懂。
 医学上另有正式词 axilla。俚语用法要知道：说某地是 the armpit of
 某个国家，意思是"那是最烂的地方"——拿身体上最不体面的部位作比，
@@ -29117,6 +29187,7 @@ axilla = 腋窝（医学术语）
 armpit 腋窝 / navel 肚脐 / dimple 酒窝
 
 armrest
+/ˈɑːmrest/
 核心：指座椅或车门上的"扶手"。
 飞机上争扶手是常见话题。
 ① He rested his elbow on the armrest and slept for most of the flight.
@@ -29178,6 +29249,7 @@ a dad's army = 一群上了年纪的人凑成的队伍（英式，戏谑）
 出自二战时的本土卫队，语气是善意的调侃，不是骂人。
 
 arnica
+/ˈɑːnɪkə/
 核心：一种黄花的山地菊科植物，也指用它做的外用药。传统上拿它
 涂抹瘀青、扭伤和肌肉酸痛，药膏和顺势疗法制剂里常见。
 注意它不能口服，整株有毒。
@@ -29219,6 +29291,7 @@ stench = 恶臭
 aromatherapist = 芳香疗法师
 
 aromatherapy
+/əˌrəʊməˈθerəpi/
 核心：指芳香疗法——用植物精油来放松或缓解不适。
 不可数。
 ① She tried aromatherapy after the physiotherapy ran out of things to offer.
@@ -29236,6 +29309,7 @@ psychotherapy 心理治疗
 chemotherapy 化疗
 
 aromatic
+/ˌærəˈmætɪk/
 核心：指"芳香的、气味浓郁的"。化学上还指
 "芳香族的"（苯环类化合物）。
 ① Aromatic herbs flavour the dish and go in at the very end so they keep their oils.
@@ -29277,6 +29351,7 @@ come around = 顺道来访
 美式多用 around，英式 about 更常见。
 
 around-the-clock
+/əˌraʊnd ðə ˈklɒk/
 核心：形容词，指"二十四小时不间断的"，放在名词前面。
 写成不带连字符的 around the clock 时是副词短语，跟在动词后面。
 英式也说 round the clock。
@@ -29294,6 +29369,7 @@ work around the clock = 昼夜不停地干
 英式也说 round the clock。
 
 arousal
+/əˈraʊzəl/
 核心：两条线：从睡眠或迟钝中"唤醒"的状态，
 和生理心理上的"兴奋唤起"。不可数。
 ① The drug affects arousal, which is why it is never given late in the day.
@@ -29329,6 +29405,7 @@ rouse = 唤醒（人）
 raise = 举起、提出
 
 arpeggio
+/ɑːˈpedʒiəʊ/
 核心：音乐术语，意大利语借词，字面是"像弹竖琴那样"，指"琶音"——
 把一个和弦的几个音不同时按下，而是一个接一个快速弹出来，
 听着像水波荡开。复数 arpeggios。
@@ -29347,6 +29424,7 @@ arpeggio = 琶音（和弦音逐个弹）
 chord = 和弦（几个音同时弹）
 
 arr.
+/əˈraɪvz/
 核心：书面缩写，有两个常用来源，靠场合分辨。时刻表上它是
 arrives 或 arrival，标"到达"；乐谱和唱片上它是 arranged by，
 标"编曲者"。只写不说，念时要念全词。
@@ -29364,6 +29442,7 @@ arr. = 编曲（乐谱、唱片）
 时刻表、乐谱与唱片说明上常见。
 
 arrack
+/ˈæræk/
 核心：亚洲和中东一带的一类烈酒的统称——原料各地不同，
 可以是椰花汁、棕榈汁、甘蔗或米。不是某一种固定的酒，
 而是"当地蒸馏烈酒"的泛称。也拼作 arak。
@@ -29381,6 +29460,7 @@ arak = 亚洲烈酒（异拼）
 酒类名称，泛指而非专指某一种。
 
 arraign
+/əˈreɪn/
 核心：法律用语，指把被告"传讯到庭、宣读控罪并让其答辩"。
 是刑事程序的一个固定环节。常用被动。
 ① He was arraigned on murder charges eleven months after the arrest.
@@ -29446,6 +29526,7 @@ come to an arrangement = 谈妥
 arrange = 安排；编曲
 
 arrant
+/ˈærənt/
 核心：加强语气的形容词，只作定语，专门用来堆在贬义名词前面，
 把"彻头彻尾"这层意思顶上去。最常见的搭配是 arrant nonsense。
 偏旧，带点书卷腔。
@@ -29491,6 +29572,7 @@ be arrayed in = 身着（文学用法）
 给自己"列开"，就是打扮起来。
 
 arrears
+/əˈrɪəz/
 核心：指拖欠未付的款项，永远用复数。
 核心搭配是 in arrears（拖欠中）。
 ① He is in arrears with the rent and the landlord has stopped answering the phone.
@@ -29577,6 +29659,7 @@ reach 及物，直接接地点
 get to 口语说法
 
 arriviste
+/ˌæriːˈviːst/
 核心：法语借词，指"暴发户、钻营上位的人"——刚爬进某个圈子、
 行事张扬、被老资格看不起的那种。带明显贬义，重点不在有没有钱，
 而在"来路新、姿态急"。
@@ -29595,6 +29678,7 @@ parvenu = 暴发户（有了钱但没教养）
 social climber = 攀附上流的人（通用说法）
 
 arrogance
+/ˈærəɡəns/
 核心：指"傲慢自大"，不可数，贬义。
 比 confidence（自信）多一层"看不起别人"。
 ① His arrogance annoyed everyone except the two people who could have stopped him.
@@ -29640,6 +29724,7 @@ humble = 谦逊的
 modest = 谦虚的
 
 arrogate
+/ˈærəɡeɪt/
 核心：正式动词，指"擅自占为己有"——把本不属于自己的权力、
 头衔或功劳硬揽过来。结构固定：arrogate something to yourself。
 带谴责口气。
@@ -29688,6 +29773,7 @@ an arrow key = 方向键
 键盘上那四个键统称 the arrow keys，多用复数。
 
 arroyo
+/əˈrɔɪəʊ/
 核心：美国西南部与墨西哥的地貌词，指"干河沟"——平时是干的，
 一下暴雨就变成湍急的洪流，几分钟内能淹没人车。西班牙语借词，
 复数 arroyos。
@@ -29889,6 +29975,7 @@ artistic = 艺术的、有艺术天分的
 a work of art = 艺术品
 
 artefact
+/ˈɑːtɪfækt/
 核心：指人工制品，尤指有历史或考古价值的器物。
 美式拼 artifact。技术上还指数据里的"伪影"。
 ① The museum displays ancient artefacts that three countries have asked for back.
@@ -29908,6 +29995,7 @@ relic = 遗物（有年代或神圣性）
 antique = 古董（有收藏价值）
 
 arteriole
+/ɑːˈtɪəriəʊl/
 核心：指"小动脉"——动脉分到最细的那一级，再往下就是毛细血管。
 它管壁上有平滑肌，一收一舒就能调节流向各处的血量，
 所以血压主要就是靠它调的。
@@ -29927,6 +30015,7 @@ arteriole = 小动脉
 capillary = 毛细血管
 
 arteriosclerosis
+/ɑːˌtɪəriəʊskləˈrəʊsɪs/
 核心：医学名词，指"动脉硬化"——动脉壁增厚变硬、失去弹性。
 最常见的一型是脂质斑块堆在内壁上的 atherosclerosis（粥样硬化），
 两个词常被混用，其实后者是前者的一种。
@@ -29968,6 +30057,7 @@ vein = 静脉（回心）
 capillary = 毛细血管
 
 artesian
+/ɑːˈtiːziən/
 核心：形容词，只跟 well 搭配，指"自流井"——含水层被上下两层不透水
 的岩层夹住，水在里头憋着压力，一旦钻穿，水自己往上涌，不用抽。
 名字来自法国最早打出这种井的那个地区。
@@ -29985,6 +30075,7 @@ artesian aquifer = 承压含水层
 水文地质学用语。
 
 artful
+/ˈɑːtfəl/
 核心：指"精明狡黠、手法巧妙的"。褒贬取决于语境——
 夸手法时是褒，说人用心机时偏贬。
 ① He made an artful move that looked like a concession and was not one.
@@ -30026,6 +30117,7 @@ arthritic = 关节炎的；患关节炎的
 arthroscopic surgery = 关节镜手术（微创）
 
 arthropod
+/ˈɑːθrəpɒd/
 核心：节肢动物门的统称——外骨骼、身体分节、附肢也分节，
 这是动物界最大的一门，昆虫、甲壳类、蛛形纲、多足类全在里面，
 物种数占已知动物的八成以上。
@@ -30044,6 +30136,7 @@ crustacean = 甲壳类
 arachnid = 蛛形纲
 
 Arthurian
+/ɑːˈθjʊəriən/
 核心：指"亚瑟王传说的"——围绕亚瑟王、圆桌骑士、梅林和圣杯的那一
 整套中世纪故事。它不是史书而是文学传统，各国各代不断改写添枝，
 今天仍是奇幻文学的源头之一。
@@ -30059,6 +30152,7 @@ the Arthurian legend = 亚瑟王传说
 由人名派生，首字母大写。
 
 artichoke
+/ˈɑːtɪtʃəʊk/
 核心：指洋蓟，一种可食用的花蕾类蔬菜。
 另有一种不同的植物叫 Jerusalem artichoke（菊芋）。
 ① She cooked an artichoke and spent longer eating it than she had cooking it.
@@ -30129,6 +30223,7 @@ articulator = 发音器官
 articulatory = 发音的（涉及发音器官动作）
 
 articulation
+/ɑːˌtɪkjʊˈleɪʃən/
 核心：三条线：观点的"清晰表达"、语音的"发音"、
 以及解剖上的"关节连接"。
 ① The articulation of policy matters as much as the policy, and takes longer.
@@ -30165,6 +30260,7 @@ artifact = 人工制品（美式）
 artefact = 人工制品（英式）
 
 artifice
+/ˈɑːtɪfɪs/
 核心：指为达目的而用的"技巧、诡计"，
 也指"矫饰、不自然"。多为贬义或中性偏贬。
 ① The film relies on artifice and admits as much in the first three minutes.
@@ -30223,6 +30319,7 @@ artificiality = 不自然、造作
 artificially = 人工地、人为地
 
 artillery
+/ɑːˈtɪləri/
 核心：两条线：重型火炮这类"炮兵武器"，
 和作为兵种的"炮兵部队"。不可数。
 ① The artillery opened fire at dawn and stopped without any order.
@@ -30243,6 +30340,7 @@ armour = 装甲兵
 artilleryman = 炮兵
 
 artisan
+/ˌɑːtɪˈzæn/
 核心：指手工匠人——靠手艺做东西的人。
 形容词用法指食品"手工精制的"（artisan bread）。
 ① Artisans made the furniture and signed it underneath where nobody would look.
@@ -30296,6 +30394,7 @@ artiste 表演艺人（法语借词，偏旧）
 artistic = 有艺术性的；有艺术天分的
 
 artiste
+/ɑːˈtiːst/
 核心：法语借词，指专业的表演艺人——歌手、舞者、
 杂技演员。比 artist 窄，专指表演行业。
 ① She is a cabaret artiste who has worked the same three cities for twenty years.

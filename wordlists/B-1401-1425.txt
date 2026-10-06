@@ -1,4 +1,5 @@
 Armagnac
+/ˈɑːmənjæk/
 核心：法国西南部加斯科涅地区产的一种白兰地，用铜制单柱蒸馏器
 一次蒸馏，酒体比干邑粗犷厚重些。名字就是那个产区的地名，
 受原产地命名保护。
@@ -16,6 +17,7 @@ Armagnac = 雅文邑（加斯科涅，单次蒸馏）
 Cognac = 干邑（夏朗德，两次蒸馏）
 
 armament
+/ˈɑːməmənt/
 核心：指"武器装备"——一支部队、一艘军舰或一架飞机所配备的全部
 火力，多用复数。也指"扩充军备"这件事本身，反义是 disarmament。
 ① The ship's armament includes missiles that were fitted after it was launched.
@@ -35,6 +37,7 @@ armament = 扩充军备
 disarmament = 裁军
 
 armaments
+/ˈɑːməmənts/
 核心：指一国的"军备、武器装备"，常用复数。
 不同于 arms（泛指武器），armaments 强调成体系的装备。
 ① The armaments race escalated until both sides had more than they could ever use.
@@ -55,6 +58,7 @@ arms = 武器（泛指）
 weapons = 兵器（具体）
 
 armature
+/ˈɑːmətʃə(r)/
 核心：底层是"撑起来的骨架"。雕塑家先用铁丝木条搭一个内骨架再敷
 泥，那个骨架就是它；电机里绕着线圈、在磁场中转动的那个部件也叫
 这个名字，因为它同样是承载绕组的骨干。生物学上还指动植物的
@@ -73,6 +77,7 @@ armature = 电枢（电机中的转动绕组部件）
 雕塑、电机工程与生物学各用一义。
 
 armband
+/ˈɑːmbænd/
 核心：指戴在上臂的"臂章"，用来表明身份、
 哀悼或权限。游泳用的浮臂圈也叫 armband。
 ① He wore a black armband for the whole of the season after his father died.
@@ -88,6 +93,7 @@ captain's armband = 队长袖标
 headband 发带 / wristband 腕带
 
 armchair
+/ˈɑːmtʃeə(r)/
 核心：指有扶手的"扶手椅"。作定语时是比喻义，
 指"纸上谈兵的"（armchair critic）。
 ① He sat in an armchair that had moulded itself to him over twenty years.
@@ -120,6 +126,7 @@ unarmed = 徒手的、无武装的
 词族：arm、arms、armaments
 
 Armenian
+/ɑːˈmiːniən/
 核心：指"亚美尼亚的、亚美尼亚人"，也指亚美尼亚语——它在印欧语系里
 自成一支，用的是自己一套字母。亚美尼亚是世界上第一个把基督教
 定为国教的国家。
@@ -134,6 +141,7 @@ of Armenian descent = 亚美尼亚血统的
 族群、国别与语言都用这个词。
 
 armful
+/ˈɑːmfəl/
 核心：指"一抱之量"——两臂能抱住的分量。
 构词是 arm + -ful。
 ① She carried an armful of books up three flights and dropped none of them.
@@ -150,6 +158,7 @@ handful 一把 / mouthful 一口
 spoonful 一勺 / cupful 一杯
 
 armhole
+/ˈɑːmhəʊl/
 核心：衣服上让胳膊穿过去的那个"袖窿"——袖子跟衣身缝合的那一圈开口。
 裁剪上它的大小直接决定抬手方不方便，所以是版型的关键处之一。
 ① The armholes are cut too tight and the jacket pulls whenever he reaches up.
@@ -164,6 +173,7 @@ widen the armhole = 放大袖窿
 裁缝与服装制版用语。
 
 armistice
+/ˈɑːmɪstɪs/
 核心：指交战双方约定"停战"，比 ceasefire 正式，
 常指结束战争的正式协定。
 ① They signed an armistice in a railway carriage in a forest.
@@ -180,6 +190,7 @@ ceasefire = 停火（临时）
 truce = 休战（临时，可非正式）
 
 armlet
+/ˈɑːmlət/
 核心：戴在上臂的"臂环、臂章"——可以是金属或串珠的装饰环，
 古代地中海和非洲都戴；也可以是套在袖子上标明身份的布圈，
 比如裁判和纠察员戴的那种。
@@ -196,6 +207,7 @@ bracelet = 手镯（戴手腕）
 armband = 臂章（多为布制，标身份）
 
 armlock
+/ˈɑːmlɒk/
 核心：摔跤和柔道里的"锁臂"——把对手的胳膊别到关节反方向，
 让他动弹不得或疼得认输。固定说法 put somebody in an armlock。
 比喻着用时指"把人逼到没有选择的余地"。
@@ -210,6 +222,7 @@ put somebody in an armlock = 锁住某人手臂
 格斗术语，比喻义见于口语。
 
 armoire
+/ɑːmˈwɑː(r)/
 核心：法语借来的家具名，指"大衣柜"——独立的高身双门柜，通常带
 雕花，是在墙里没有嵌入式衣橱的年代用来挂衣服的。今天多指
 古董或仿古的那种。
@@ -227,6 +240,7 @@ wardrobe = 衣柜（通称）
 closet = 壁橱（嵌在墙里，美式）
 
 armorial
+/ɑːˈmɔːriəl/
 核心：纹章学形容词，指"纹章的、带纹章的"。说盾徽、印章、餐具上
 那套家族标记。作名词时指"纹章图谱"——把各家族的纹章汇编成册的
 那种书。
@@ -269,6 +283,7 @@ armor-plated = 装甲的（美式拼法）
 armourer = 军械师、盔甲匠
 
 armoured
+/ˈɑːməd/
 核心：指"装甲的、有防护的"。常见搭配
 armoured vehicle、armoured car、armoured division。
 ① An armoured vehicle arrived at the gate and nobody was allowed past it.
@@ -289,6 +304,7 @@ armored = 装甲的（美式拼法）
 armoured personnel carrier = 装甲运兵车
 
 armoury
+/ˈɑːməri/
 核心：指存放武器的"军械库"，比喻义指某人可用的
 "全套手段"。美式拼 armory。
 ① The armoury was guarded day and night by men who had never fired anything.
@@ -306,6 +322,7 @@ armoury = 军械库（存放）
 arsenal = 兵工厂；武器库（也可指全部装备）
 
 armpit
+/ˈɑːmpɪt/
 核心：指腋窝，构词就是 arm（臂）加 pit（凹坑），一看就懂。
 医学上另有正式词 axilla。俚语用法要知道：说某地是 the armpit of
 某个国家，意思是"那是最烂的地方"——拿身体上最不体面的部位作比，
@@ -324,6 +341,7 @@ axilla = 腋窝（医学术语）
 armpit 腋窝 / navel 肚脐 / dimple 酒窝
 
 armrest
+/ˈɑːmrest/
 核心：指座椅或车门上的"扶手"。
 飞机上争扶手是常见话题。
 ① He rested his elbow on the armrest and slept for most of the flight.
@@ -385,6 +403,7 @@ a dad's army = 一群上了年纪的人凑成的队伍（英式，戏谑）
 出自二战时的本土卫队，语气是善意的调侃，不是骂人。
 
 arnica
+/ˈɑːnɪkə/
 核心：一种黄花的山地菊科植物，也指用它做的外用药。传统上拿它
 涂抹瘀青、扭伤和肌肉酸痛，药膏和顺势疗法制剂里常见。
 注意它不能口服，整株有毒。
@@ -426,6 +445,7 @@ stench = 恶臭
 aromatherapist = 芳香疗法师
 
 aromatherapy
+/əˌrəʊməˈθerəpi/
 核心：指芳香疗法——用植物精油来放松或缓解不适。
 不可数。
 ① She tried aromatherapy after the physiotherapy ran out of things to offer.

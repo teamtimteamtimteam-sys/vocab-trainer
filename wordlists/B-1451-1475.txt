@@ -130,6 +130,7 @@ artistic = 艺术的、有艺术天分的
 a work of art = 艺术品
 
 artefact
+/ˈɑːtɪfækt/
 核心：指人工制品，尤指有历史或考古价值的器物。
 美式拼 artifact。技术上还指数据里的"伪影"。
 ① The museum displays ancient artefacts that three countries have asked for back.
@@ -149,6 +150,7 @@ relic = 遗物（有年代或神圣性）
 antique = 古董（有收藏价值）
 
 arteriole
+/ɑːˈtɪəriəʊl/
 核心：指"小动脉"——动脉分到最细的那一级，再往下就是毛细血管。
 它管壁上有平滑肌，一收一舒就能调节流向各处的血量，
 所以血压主要就是靠它调的。
@@ -168,6 +170,7 @@ arteriole = 小动脉
 capillary = 毛细血管
 
 arteriosclerosis
+/ɑːˌtɪəriəʊskləˈrəʊsɪs/
 核心：医学名词，指"动脉硬化"——动脉壁增厚变硬、失去弹性。
 最常见的一型是脂质斑块堆在内壁上的 atherosclerosis（粥样硬化），
 两个词常被混用，其实后者是前者的一种。
@@ -209,6 +212,7 @@ vein = 静脉（回心）
 capillary = 毛细血管
 
 artesian
+/ɑːˈtiːziən/
 核心：形容词，只跟 well 搭配，指"自流井"——含水层被上下两层不透水
 的岩层夹住，水在里头憋着压力，一旦钻穿，水自己往上涌，不用抽。
 名字来自法国最早打出这种井的那个地区。
@@ -226,6 +230,7 @@ artesian aquifer = 承压含水层
 水文地质学用语。
 
 artful
+/ˈɑːtfəl/
 核心：指"精明狡黠、手法巧妙的"。褒贬取决于语境——
 夸手法时是褒，说人用心机时偏贬。
 ① He made an artful move that looked like a concession and was not one.
@@ -267,6 +272,7 @@ arthritic = 关节炎的；患关节炎的
 arthroscopic surgery = 关节镜手术（微创）
 
 arthropod
+/ˈɑːθrəpɒd/
 核心：节肢动物门的统称——外骨骼、身体分节、附肢也分节，
 这是动物界最大的一门，昆虫、甲壳类、蛛形纲、多足类全在里面，
 物种数占已知动物的八成以上。
@@ -285,6 +291,7 @@ crustacean = 甲壳类
 arachnid = 蛛形纲
 
 Arthurian
+/ɑːˈθjʊəriən/
 核心：指"亚瑟王传说的"——围绕亚瑟王、圆桌骑士、梅林和圣杯的那一
 整套中世纪故事。它不是史书而是文学传统，各国各代不断改写添枝，
 今天仍是奇幻文学的源头之一。
@@ -300,6 +307,7 @@ the Arthurian legend = 亚瑟王传说
 由人名派生，首字母大写。
 
 artichoke
+/ˈɑːtɪtʃəʊk/
 核心：指洋蓟，一种可食用的花蕾类蔬菜。
 另有一种不同的植物叫 Jerusalem artichoke（菊芋）。
 ① She cooked an artichoke and spent longer eating it than she had cooking it.
@@ -370,6 +378,7 @@ articulator = 发音器官
 articulatory = 发音的（涉及发音器官动作）
 
 articulation
+/ɑːˌtɪkjʊˈleɪʃən/
 核心：三条线：观点的"清晰表达"、语音的"发音"、
 以及解剖上的"关节连接"。
 ① The articulation of policy matters as much as the policy, and takes longer.
@@ -406,6 +415,7 @@ artifact = 人工制品（美式）
 artefact = 人工制品（英式）
 
 artifice
+/ˈɑːtɪfɪs/
 核心：指为达目的而用的"技巧、诡计"，
 也指"矫饰、不自然"。多为贬义或中性偏贬。
 ① The film relies on artifice and admits as much in the first three minutes.
@@ -464,6 +474,7 @@ artificiality = 不自然、造作
 artificially = 人工地、人为地
 
 artillery
+/ɑːˈtɪləri/
 核心：两条线：重型火炮这类"炮兵武器"，
 和作为兵种的"炮兵部队"。不可数。
 ① The artillery opened fire at dawn and stopped without any order.
@@ -484,6 +495,7 @@ armour = 装甲兵
 artilleryman = 炮兵
 
 artisan
+/ˌɑːtɪˈzæn/
 核心：指手工匠人——靠手艺做东西的人。
 形容词用法指食品"手工精制的"（artisan bread）。
 ① Artisans made the furniture and signed it underneath where nobody would look.
@@ -537,6 +549,7 @@ artiste 表演艺人（法语借词，偏旧）
 artistic = 有艺术性的；有艺术天分的
 
 artiste
+/ɑːˈtiːst/
 核心：法语借词，指专业的表演艺人——歌手、舞者、
 杂技演员。比 artist 窄，专指表演行业。
 ① She is a cabaret artiste who has worked the same three cities for twenty years.
