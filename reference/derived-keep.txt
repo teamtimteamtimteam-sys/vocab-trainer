@@ -74,3 +74,4 @@ lower           # 另有动词义（lower your voice、lower the price）和一�
 monthly         # 词根 month 是名词，不是形容词；monthly 兼形容词（a monthly meeting）、副词（paid monthly）
                 # 与名词（月刊），同 daily / hourly 那两条
 mostly          # 意思是「主要地、大多」，说比例与常态；most 作副词是「最」，没有这一支（同 largely）
+motherly        # 词根 mother 是名词；motherly 是形容词（a motherly woman），不是副词，同 gentlemanly
