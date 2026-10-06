@@ -1,16 +1,3 @@
-multicultural
-/ˌmʌltiˈkʌltʃərəl/
-核心：多元文化的：包含或面向几种不同文化背景的人。名词 multiculturalism（多元文化主义：主张各种文化在一个社会里并存）并入本条。
-① She grew up in a multicultural neighbourhood where six languages were spoken.
-= 她在一个多元文化的街区长大，那里的人说六种语言。
-a multicultural neighbourhood = 多元文化的街区
-② Britain has become a multicultural society over the last sixty years.
-= 过去六十年间，英国变成了一个多元文化的社会。
-a multicultural society = 多元文化的社会
-③ The debate about multiculturalism has divided both main parties.
-= 关于多元文化主义的争论让两大政党内部都起了分歧。
-multiculturalism = 多元文化主义
-
 multidimensional
 /ˌmʌltidaɪˈmenʃənəl/
 核心：多维的；引申为多方面的、有许多层面的。说空间、数据，也说问题、人物。
@@ -298,3 +285,13 @@ a multiprocessor system = 多处理器系统
 ② The software was rewritten to take advantage of multiprocessor machines.
 = 那套软件重写过，以便发挥多处理器机器的长处。
 multiprocessor machines = 多处理器机器
+
+multipurpose
+/ˌmʌltiˈpɜːpəs/
+核心：多用途的：能派好几种用场。只放在名词前。
+① He carries a multipurpose tool with a knife, a saw and a pair of pliers.
+= 他随身带着一把多用途工具，上面有刀、锯和钳子。
+a multipurpose tool = 多用途工具
+② The school has built a multipurpose hall for sport, drama and assemblies.
+= 学校盖了一座多功能厅，体育、戏剧和集会都用它。
+a multipurpose hall = 多功能厅
