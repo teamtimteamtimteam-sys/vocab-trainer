@@ -1,4 +1,5 @@
 aesthetics
+/iːsˈθetɪks/
 核心：两条线：哲学分支"美学"（配单数动词），
 和某物的"审美特质"（配复数动词）。
 ① Aesthetics is a branch of philosophy and asks questions with no test for them.
@@ -17,6 +18,7 @@ aesthetics = 美学（英式拼法）
 esthetics = 美学（美式拼法）
 
 aetiology
+/ˌiːtiˈɒlədʒi/
 核心：医学术语，指"病因学"——研究疾病成因的学问，也指某一种病的
 病因本身。引申到别的领域，可指某个现象的成因研究。美式拼 etiology。
 ① The aetiology of the disease is unclear and four theories are in play.
@@ -53,6 +55,7 @@ from afar = 自远方（文学）
 from a distance = 从远处（通用）
 
 affable
+/ˈæfəbəl/
 核心：指人"和蔼可亲、好搭话的"，褒义。强调容易接近、
 聊得开，比 friendly 更侧重待人接物的从容。
 ① He is an affable host who can keep a table of strangers talking for hours.
@@ -138,6 +141,7 @@ affective = 情感的（心理学）
 affectively = 在情感层面上
 
 affectation
+/ˌæfekˈteɪʃən/
 核心：指刻意装出来的"做作举止"，贬义。可以是口音、姿态、
 用词上的假装。可数不可数都有。
 ① His accent is an affectation and slips whenever he is genuinely angry.
@@ -203,6 +207,7 @@ love 爱（更强烈）
 passion 激情（炽烈）
 
 affectionate
+/əˈfekʃənət/
 核心：指人"充满情意的、爱表达感情的"，说拥抱、眼神、称呼都可以。
 褒义。副词 affectionately 常出现在书信落款里。
 ① She is very affectionate with strangers and reserved with her own family.
@@ -238,6 +243,7 @@ affection = 喜爱
 affectionate = 深情的
 
 affidavit
+/ˌæfɪˈdeɪvɪt/
 核心：法律用语，指"宣誓书"——在宣誓下签署、可作证据用的
 书面陈述。可数。
 ① He signed an affidavit that contradicted what he had said in the interview.
@@ -310,6 +316,7 @@ affiliate = 隶属
 affiliated = 附属的
 
 affinity
+/əˈfɪnɪti/
 核心：两条线：人对某物的"喜好、亲近感"（affinity with/for），
 和事物之间的"相似性、亲缘关系"（affinity between）。
 学术和生物学里都用。
@@ -360,6 +367,7 @@ affirmative = 肯定的
 deny = 否认
 
 affirmation
+/ˌæfəˈmeɪʃən/
 核心：三条线：正式的"肯定、确认"，法律上代替宣誓的"郑重声明"，
 以及心理学里反复对自己说的"正向自我肯定语"。
 ① It was an affirmation of support that cost the speaker two old friendships.
@@ -377,6 +385,7 @@ affirmative = 肯定的
 negation = 否定
 
 affirmative
+/əˈfɜːmətɪv/
 核心：指"表示肯定的"。语法上与 negative 相对；口语里
 in the affirmative 是正式的"回答说是"。美式的
 affirmative action 指扶助弱势群体的政策。
@@ -398,6 +407,7 @@ affirm = 肯定
 affirmatively = 肯定地
 
 affix
+/ˈæfɪks/（名）/əˈfɪks/（动）
 核心：两条线：动词"把…贴上、附上"（正式），
 和语言学名词"词缀"。注意动词名词重音不同。
 ① Affix a stamp to the envelope and post it before the box is emptied at five.
@@ -416,6 +426,7 @@ infix = 中缀
 动词 /əˈfɪks/ 名词 /ˈæfɪks/
 
 afflict
+/əˈflɪkt/
 核心：指疾病、灾难、痛苦"折磨、使受苦"，几乎总用被动
 be afflicted with/by。语气很重，正式。
 ① He is afflicted with arthritis and still cycles to work every morning.
@@ -437,6 +448,7 @@ suffer 受苦（主语是受害者）
 plague 困扰（反复不断）
 
 affliction
+/əˈflɪkʃən/
 核心：指长期折磨人的"病痛、苦难"，正式且偏书面。
 可数不可数都有。
 ① Arthritis is a common affliction and the waiting list runs to eleven months.
@@ -454,6 +466,7 @@ ailment = 小毛病
 suffering = 苦难（通用）
 
 affluence
+/ˈæfluəns/
 核心：指"富裕、丰裕"这种状态，不可数，正式。
 常用来描述社会阶层或时代。
 ① They live in affluence and complain about it more than anyone poorer does.
@@ -473,6 +486,7 @@ affluence = 富裕（正式，说社会）
 wealth = 财富（可指具体钱财）
 
 affluent
+/ˈæfluənt/
 核心：指"富裕的"，比 rich 正式，多用于描述地区、社会阶层、
 生活方式。名词 affluence 指富裕状态。
 ① They live in an affluent area where the schools are the real attraction.

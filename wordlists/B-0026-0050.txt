@@ -49,6 +49,7 @@ abandon = 抛弃；放纵
 abandonment = 遗弃
 
 abandonment
+/əˈbændənmənt/
 核心：指"遗弃"这个行为或状态，法律语境高频（遗弃子女、弃权）。
 也指"放弃（计划、权利）"。不可数。
 ① He was charged with abandonment and the case turned on a single letter.
@@ -66,6 +67,7 @@ abandonment = 遗弃（法律、正式）
 desertion = 擅离（军事、婚姻）
 
 abase
+/əˈbeɪs/
 核心：正式且偏文学的"贬低、使卑下"，最常见的是反身用法
 abase oneself，意为"自贬身价、低声下气"。
 ① He abased himself before the king and was given nothing for the trouble.
@@ -83,6 +85,7 @@ humiliate = 羞辱（通用）
 degrade = 使降格
 
 abasement
+/əˈbeɪsmənt/
 核心：abase 的名词形式，指"自贬、屈辱"。极正式，多见于宗教和
 文学文本。最常见的是 self-abasement。
 ① Self-abasement was part of the ritual and lasted the whole of the first day.
@@ -100,6 +103,7 @@ abasement = 自贬屈辱（正式）
 humiliation = 羞辱（通用）
 
 abashed
+/əˈbæʃt/
 核心：指因为难为情或自觉理亏而"局促不安的"。只作表语。
 更常见的其实是反义词 unabashed（毫不害臊的）。
 ① He looked abashed and studied the carpet until somebody changed the subject.
@@ -135,6 +139,7 @@ subside = 消退（水、情绪）
 diminish = 减少（数量）
 
 abatement
+/əˈbeɪtmənt/
 核心：指"减弱、削减"，环境和法律语境高频：noise abatement
 （噪音治理）、tax abatement（减税）。不可数。
 ① They demanded noise abatement and got a wall built along the bypass.
@@ -150,6 +155,7 @@ no abatement in = 没有减弱
 abate = 减弱
 
 abattoir
+/ˈæbətwɑː(r)/
 核心：英式的"屠宰场"，美式常说 slaughterhouse。
 词源是法语，注意结尾的 -oir 读法。
 ① The animals go to an abattoir forty miles away because the local one shut.
@@ -165,6 +171,7 @@ abattoir = 屠宰场（英式）
 slaughterhouse = 屠宰场（美式）
 
 abaya
+/əˈbeɪə/
 核心：指阿拉伯地区女性穿的宽松长袍，通常为黑色，
 罩在外衣之外。
 ① She wore a black abaya over jeans and nobody could tell either way.
@@ -181,6 +188,7 @@ burqa = 罩袍（全遮）
 chador = 黑色长罩袍（伊朗）
 
 abbess
+/ˈæbes/
 核心：女修道院的院长，管一所修道院的全部事务。这一族三个词配套记：
 abbey 是那座院子，abbot 是男院长，abbess 是女院长。
 -ess 是英语里表示女性的老词尾，今天多数职业词已经不用它了，
@@ -249,6 +257,7 @@ abbreviate 缩写（文字）
 shorten 缩短（长度、时间）
 
 abbreviation
+/əˌbriːviˈeɪʃən/
 核心：指缩写形式本身。介词用 for 或 of。和 acronym（首字母缩略词，
 可以拼读成一个词，如 NATO）、initialism（逐字母念，如 BBC）
 是不同层级的概念。
@@ -266,6 +275,7 @@ acronym 能拼读的缩略词（NATO）
 initialism 逐字母念的（BBC）
 
 abdicate
+/ˈæbdɪkeɪt/
 核心：本义是君主"退位"，引申义是"放弃（责任、权力）"。
 第二条搭配固定：abdicate responsibility。
 ① The king abdicated in 1936 and left the country within twenty-four hours.
@@ -281,6 +291,7 @@ abdication = 退位、放弃
 指"该负的责任不负"。
 
 abdication
+/ˌæbdɪˈkeɪʃən/
 核心：对应动词的两条线：君主"退位"和责任的"放弃"。
 不可数为主。历史上最著名的是 the abdication of Edward VIII。
 ① The abdication shocked the nation and filled the papers for a fortnight.
@@ -295,6 +306,7 @@ abdication crisis = 退位危机
 abdicate = 退位
 
 abdomen
+/ˈæbdəmən/
 核心：解剖学上指腹部，比日常的 stomach 或 belly 正式，多用于医学
 文本。昆虫身体的第三节也叫 abdomen。
 ① He felt pain in his abdomen for three days before he telephoned anyone.
@@ -331,6 +343,7 @@ abs = 腹肌
 abdomen = 腹部
 
 abduct
+/əbˈdʌkt/
 核心：指用暴力或欺骗"绑架、劫持"人，法律用语。
 和 kidnap 基本同义，abduct 更正式，常用于新闻和法律文本。
 ① She was abducted at gunpoint outside a school in broad daylight.
@@ -352,6 +365,7 @@ abductee = 被绑架者
 构词：abduct + -ee 受动者
 
 abduction
+/əbˈdʌkʃən/
 核心：从拉丁语"拉走"来，两个用法都保留了这层意思。常用义是法律上的
 "绑架、拐带"——把人硬拉走；另一个是解剖学的"外展"——把肢体拉离
 身体中线，跟 adduction（内收）成对。同一个词根，一个拉的是人，
@@ -378,6 +392,7 @@ abduct = 绑架；使外展
 abductor = 绑架者；外展肌
 
 abductor
+/əbˈdʌktə(r)/
 核心：两条毫不相干的线：法律上的"绑匪"，和解剖学上的
 "外展肌"（abductor muscle）。靠语境区分。
 ① The abductor was arrested at a petrol station four counties away.
@@ -392,6 +407,7 @@ abductor muscle = 外展肌
 abductor = 外展肌 / adductor 内收肌
 
 aberrant
+/æˈberənt/
 核心：正式用语，指"偏离常态的、异常的"，多用于行为、数据、
 细胞。语气比 unusual 重，暗示"不该是这样"。
 ① The paper documents aberrant behaviour in a colony studied for thirty years.
@@ -410,6 +426,7 @@ abnormal = 异常（医学、通用）
 deviant = 越轨（多指行为，贬义）
 
 aberration
+/ˌæbəˈreɪʃən/
 核心：指"一次反常、偏离常轨的事"，常用来给失常行为找台阶：
 "那只是一时反常"。光学上还指"像差"。
 ① It was a temporary aberration, his lawyer said, in an otherwise blameless life.

@@ -71,6 +71,7 @@ actioner = 动作片（影评行话）
 词族：active、activity、activate
 
 actionable
+/ˈækʃənəbəl/
 核心：两条线：法律上"可诉讼的"，和现代商业里"可落实执行的"
 （actionable advice / insights）。第二条越来越常用。
 ① The remark is actionable and the paper printed an apology within a week.
@@ -184,6 +185,7 @@ activity = 活动
 passively = 被动地
 
 activism
+/ˈæktɪvɪzəm/
 核心：指为推动社会或政治变革而进行的积极行动，不可数。前面常加
 限定：political / environmental / online activism。
 ① Environmental activism is growing fastest in places with the least to lose.
@@ -322,6 +324,7 @@ actual bodily harm = 实际身体伤害（英国刑法，缩写 ABH）
 actualize = 使成为现实
 
 actuality
+/ˌæktʃuˈælɪti/
 核心：指"现实、实际情况"，与设想或理论相对。
 常见搭配 in actuality（实际上），语气比 actually 正式。
 ① In actuality, the cost was higher than the two published estimates combined.
@@ -357,6 +360,7 @@ actually
 "目前"是 currently。
 
 actuary
+/ˈæktʃuəri/
 核心：指精算师——用统计和概率给保险和养老金定价的专业人士。
 是个门槛很高的职业。
 ① She works as an actuary and explains her job at parties in one sentence.
@@ -375,6 +379,7 @@ An actuarial table gives you a number and no comfort whatever.
 注意发音：/ˈæktʃuəri/
 
 actuate
+/ˈæktʃueɪt/
 核心：正式或技术用语，指"启动、驱动（机械装置）"，
 也指"促使（人行动）"。后者常用被动。
 ① The switch actuates the valve and there is no way to override it by hand.
@@ -393,6 +398,7 @@ activate = 激活（使开始工作）
 trigger = 触发（引发反应）
 
 acuity
+/əˈkjuːɪti/
 核心：指感官或思维的"敏锐度"。正式。
 最常见的搭配是 visual acuity（视力）和 mental acuity。
 ① Visual acuity declines with age and the change is easy to miss.
@@ -411,6 +417,7 @@ acumen = 判断力（专业领域）
 sharpness = 锐利（通用）
 
 acumen
+/ˈækjʊmən/
 核心：指在某个领域的"敏锐判断力"，褒义。最高频的搭配是
 business acumen（商业头脑）和 political acumen。
 ① She has great business acumen and has never read a book about business.
@@ -430,6 +437,7 @@ insight = 洞察（看透本质）
 shrewdness = 精明（识人识局）
 
 acupressure
+/ˈækjʊpreʃə(r)/
 核心：指指压——按压穴位以缓解不适，
 原理同针灸但不用针。不可数。
 ① She tried acupressure for nausea and swears by the band on her wrist.
@@ -446,6 +454,7 @@ acupuncture = 针灸（用针）
 reflexology = 反射区疗法（足部）
 
 acupuncture
+/ˈækjʊpʌŋktʃə(r)/
 核心：指针灸，源自中医。不可数。相关的人叫 acupuncturist。
 在英语里已是通行词汇，不需要解释。
 ① She tried acupuncture for her back after nothing else had worked for two years.
@@ -491,6 +500,7 @@ acute accent = 尖音符（é 上面那一撇）
 acuteness = 敏锐；严重程度
 
 acutely
+/əˈkjuːtli/
 核心：两个用法：一是"强烈地"（加强语气，最常见的是
 acutely aware），二是医学上"急性地"。
 ① I'm acutely aware of the risk and have said so at every single meeting.
@@ -531,6 +541,7 @@ advert = 广告（英式口语）
 ad blocker = 广告拦截插件
 
 ad hoc
+/ˌæd ˈhɒk/
 核心：拉丁语借词，指"为这一件事临时设立的"，不是常设的。
 既作形容词也作副词。常见 an ad hoc committee。
 ① They set up an ad hoc committee that has now been running for nine years.
@@ -549,6 +560,7 @@ temporary = 暂时的（时间上）
 improvised = 临场发挥的
 
 ad hominem
+/ˌæd ˈhɒmɪnem/
 核心：拉丁语短语，字面是"针对人的"，指辩论时不驳对方的论点，
 而是攻击对方这个人。既作形容词也作副词，逻辑学里算一种谬误。
 ① That's an ad hominem attack and it tells you the argument has run out.

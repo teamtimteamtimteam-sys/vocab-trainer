@@ -1,4 +1,5 @@
 gibbon
+/ˈɡɪbən/
 核心：名词，长臂猿 —— 东南亚森林里的小型无尾猿，前肢极长、靠双臂
 在树间荡行，叫声能传出几公里。可数。
 动物学上属类人猿，但日常英语里说 ape 多半想到大猩猩，说 gibbon 要单点名。
@@ -13,6 +14,7 @@ gibbons call = 长臂猿鸣叫
 a gibbon in a reserve = 保护区里的长臂猿
 
 gibbous
+/ˈɡɪbəs/
 核心：形容词，凸的 —— 几乎只用在月相上：gibbous moon 指盈凸月或亏凸月，
 也就是半月与满月之间那几天，圆得不满。天文写作以外极少见，
 读的时候重音在前。
@@ -27,6 +29,7 @@ be gibbous = 呈凸月形
 waxing gibbous = 盈凸月
 
 gibe
+/dʒaɪb/
 核心：名词与动词，讥讽、奚落 —— 当面说的那种带刺的话。
 注意拼写：更常见的写法是 jibe，两个拼法同义，词典两条都收；
 另有一个跟它同形的 jibe 表示「与…相符」，那是另一个词。
@@ -42,6 +45,7 @@ gibe at somebody = 奚落某人
 let a gibe go = 不理会讥讽
 
 gibibit
+/ˈɡɪbibɪt/
 核心：名词，吉比特，信息量单位，等于二的三十次方个比特。
 国际电工委员会造出这一族词（kibi-、mebi-、gibi-），是为了跟按十进制
 算的 gigabit 分开：gigabit 是十亿比特，gibibit 比它多约百分之七。
@@ -57,6 +61,7 @@ a gibibit = 吉比特
 write gibibit = 写成吉比特
 
 gibibyte
+/ˈɡɪbibaɪt/
 核心：名词，吉比字节，等于二的三十次方个字节，缩写 GiB。
 跟 gibibit 同一族：厂商按十进制标 gigabyte，操作系统按二进制算，
 于是买来标着一太字节的盘，系统里只显示九百三十多吉比字节 —— 差的就是这两套算法。
@@ -71,6 +76,7 @@ in gibibytes = 以吉比字节计
 a gibibyte = 1024 麦比字节
 
 giblets
+/ˈdʒɪbləts/
 核心：名词，复数形式，禽类内脏 —— 心、肝、胗、颈这一套，掏出来单独卖，
 多用来熬汤或做肉汁。总是用复数，不说 a giblet。
 常搭 giblet stock、giblet gravy（这时用单数作定语）。
@@ -85,6 +91,7 @@ make gravy from the giblets = 用内脏熬肉汁
 giblet stock = 内脏高汤
 
 giddy
+/ˈɡɪdi/
 核心：形容词四支。一是头晕的、天旋地转的：feel giddy；二是（因兴奋而）
 飘飘然、晕头转向的：giddy with excitement；三是（旧，贬）轻浮不稳重的；
 四是固定说法 the giddy heights，说高得眩目的位置或成绩，多带调侃。
@@ -174,6 +181,7 @@ the gig economy = 零工经济
 a gig = 双轮轻便马车（旧）
 
 gigabit
+/ˈɡɪɡəbɪt/
 核心：名词，吉位、千兆位，十亿个比特，缩写 Gb。做定语最常见的是
 gigabit Ethernet。注意小写 b 是位、大写 B 是字节，两者差八倍，
 广告里常拿这一点做文章。
@@ -188,6 +196,7 @@ gigabits a second = 每秒多少吉位
 quote gigabits = 以吉位报数
 
 gigabyte
+/ˈɡɪɡəbaɪt/
 核心：名词，吉字节，缩写 GB，十亿个字节。日常说存储与流量的基本单位；
 口语里常缩成 gig。厂商按十进制算，系统按二进制显示，于是标称与实测总差一截
 （那一截的单位见 gibibyte 条）。
@@ -202,6 +211,7 @@ four gigabytes = 四吉字节
 fill gigabytes = 占掉大量吉字节
 
 gigaflop
+/ˈɡɪɡəflɒp/
 核心：名词，每秒十亿次浮点运算，衡量计算能力，复数 gigaflops。
 flop 是 floating-point operations per second 的缩写，所以 gigaflop 里
 已经含着「每秒」，不必再说 per second。今天讲超算多用 teraflop 与 petaflop。
@@ -216,6 +226,7 @@ be rated in gigaflops = 以吉次浮点计
 a gigaflop = 一吉次浮点运算
 
 gigahertz
+/ˈɡɪɡəhɜːts/
 核心：名词，吉赫，十亿赫兹，缩写 GHz，单复数同形。
 说处理器主频与无线频段都用它。主频这一支如今说明不了多少问题 ——
 同样的吉赫数，核心与架构不同，快慢差得远。
@@ -230,6 +241,7 @@ in gigahertz = 以吉赫计
 above two gigahertz = 两吉赫以上
 
 gigantic
+/dʒaɪˈɡæntɪk/
 核心：形容词，巨大的 —— 比 huge 更夸张，日常口语里用来加重语气。
 既修饰具体的东西，也修饰抽象的量：a gigantic effort、a gigantic mistake。
 本身已是极端义，一般不说 more gigantic、very gigantic。
@@ -244,6 +256,7 @@ a gigantic effort = 巨大的努力
 be gigantic = 大得吓人
 
 gigantism
+/dʒaɪˈɡæntɪzəm/
 核心：名词，巨人症 —— 垂体分泌过多生长激素，在骨骺闭合前发病，个子长得异常高。
 成年后才发病的那种叫 acromegaly（肢端肥大症），两者病因相同、结果不同。
 注意拼写：giantism 是同一个词的另一种拼法，医学文献里以 gigantism 为主。
@@ -279,6 +292,7 @@ get the giggles = 笑场、止不住地笑
 giggly = 爱咯咯笑的
 
 gigolo
+/ˈʒɪɡələʊ/
 核心：名词，被女性供养、收钱陪伴的男子，多半比对方年轻，带贬义。
 复数 gigolos。二十世纪初从法语借进英语，如今多见于旧小说、旧电影与调侃话里，
 认真讨论时很少用。
@@ -293,6 +307,7 @@ call somebody a gigolo = 管某人叫小白脸
 a gigolo in a white suit = 穿白西装的男伴
 
 gigot
+/ˈdʒɪɡət/
 核心：名词，两支，都来自法语。一是羊后腿，尤其是整条带骨的那种，
 菜单与肉铺里用，英式（苏格兰尤多）；二是 gigot sleeve，旧式女装的羊腿袖，
 肩头蓬起、袖口收紧，因形似羊腿得名。
@@ -307,6 +322,7 @@ bone a gigot = 给羊腿剔骨
 gigot sleeves = 羊腿袖
 
 gigue
+/ʒiːɡ/
 核心：名词，吉格舞曲 —— 巴洛克组曲的末乐章，拍子快、带跳跃感，
 多写成六八或十二八拍。跟英国民间舞 jig 同源：说乐曲用 gigue，
 说那种舞蹈用 jig。读音是法语式的，头一个音节读作 zheeg。
@@ -343,6 +359,7 @@ gilded = 镀金的
 gilding = 镀金层、镀金工艺
 
 gilet
+/ˈʒiːleɪ/
 核心：名词，无袖外套、背心马甲 —— 多指羽绒或抓绒的那种户外背心，英式常用。
 从法语借来，读音大致是 zhee-LAY，词尾的 t 不发音，复数 gilets。
 跟 waistcoat 不同：waistcoat 是西装三件套里那件，gilet 是保暖的户外衣。
@@ -398,6 +415,7 @@ gilts = 金边债券（英）
 gilt-edged = 最稳妥的；烫金边的
 
 gimcrack
+/ˈdʒɪmkræk/
 核心：形容词与名词，都带轻蔑（略旧）。形容词说东西做得花哨而不结实；
 名词指这样的小玩意儿，多用复数。比 cheap 更刻薄：cheap 只说便宜，
 gimcrack 说的是「看着热闹、一用就散」。
@@ -412,6 +430,7 @@ gimcrack work = 偷工减料的活儿
 gimcracks = 华而不实的小玩意儿
 
 gimlet
+/ˈɡɪmlət/
 核心：三支。一是手钻、螺丝锥，丁字柄的小工具，在木头上钻引孔；
 二是 a gimlet eye 与 gimlet-eyed，说目光锐利得像能钻透人；
 三是琴酒加青柠汁的鸡尾酒，叫琴蕾。

@@ -15,6 +15,7 @@ glean a field = 在地里拾落穗
 gleanings = 搜集到的点滴
 
 glebe
+/ɡliːb/
 核心：名词（英，历史与教会用语），教区圣职领地 —— 拨给本堂神父、
 靠出产或租金养他的那块地。可数，也用作定语：glebe land。
 今天主要出现在历史写作、地名与土地文件里，日常几乎不说。
@@ -63,6 +64,7 @@ the length of the glen = 整条山谷
 the name of a glen = 山谷的名字
 
 glengarry
+/ɡlenˈɡæri/
 核心：名词，格伦加里帽 —— 苏格兰的一种船形呢帽，顶上有折缝、帽后垂两条飘带，
 风笛队与苏格兰礼服里常见。可数，复数 glengarries。
 得名自苏格兰的格伦加里谷（见 glen 条）；说帽子本身时小写，作正式名称时大写。
@@ -112,6 +114,7 @@ glide into something = 不着痕迹地进入
 gliding = 滑翔运动
 
 glider
+/ˈɡlaɪdə(r)/
 核心：名词，两支。一是滑翔机 —— 没有发动机、靠牵引起飞再靠上升气流留空的
 飞行器，也泛指滑翔翼一类；二是（美式）门廊上前后摆动的那种座椅。可数。
 第一支是主流；说运动本身用 gliding（见 glide 条）。
@@ -126,6 +129,7 @@ stay up in a glider = 驾滑翔机滞空
 a glider = 摇摆座椅（美式）
 
 glimmer
+/ˈɡlɪmə(r)/
 核心：两支。一是名词与动词，微弱摇曳的光：a glimmer of light；
 二是比喻，一丝希望、一点理解或兴趣 —— a glimmer of hope 是最常见的搭配。
 跟 gleam 的分别：gleam 是稳定的一道光，glimmer 弱而闪烁，随时可能灭。
@@ -171,6 +175,7 @@ glint = 闪光
 a glint of amusement = 一丝笑意
 
 glisten
+/ˈɡlɪsən/
 核心：动词，（湿的或油亮的表面）闪闪发亮 —— 要点在「湿」：汗、雨、油、泪。
 常说 glisten with sweat、eyes glistening with tears。
 跟 glitter 的分别：glitter 是许多小点在闪（亮片、星光），
@@ -186,6 +191,7 @@ glisten = 湿亮
 eyes glisten = 眼里泛起泪光
 
 glister
+/ˈɡlɪstə(r)/
 核心：动词（古旧），闪光 —— 就是 glitter 的旧形式。今天几乎只活在一句谚语里：
 all that glisters is not gold（闪光的未必都是金子），出自莎士比亚；
 除引用之外一律写 glitter。诗文里偶尔还用它取那股旧味道。
@@ -200,6 +206,7 @@ glister = 闪光（古旧）
 glister on something = 在某物上闪光
 
 glitch
+/ɡlɪtʃ/
 核心：名词与动词，小故障 —— 设备、软件、流程里短暂的毛病，多半不严重，
 常常自己就好了。可数，常说 a technical glitch、iron out the glitches。
 最早是航天与广播业的行话（指电压瞬变），后来进了日常语。
@@ -215,6 +222,7 @@ glitch = 出小故障
 glitchy = 毛病不断的
 
 glitter
+/ˈɡlɪtə(r)/
 核心：三支。一是动词，闪闪发光 —— 许多小点在闪：霜、珠宝、亮片；
 二是名词，做手工与化妆用的闪粉、亮片，不可数；
 三是比喻，浮华、表面的光鲜。谚语 all that glitters is not gold。
@@ -240,6 +248,7 @@ the glitterati = 名流圈
 仿 literati 造的词，永远用复数，带一点挖苦。
 
 glitz
+/ɡlɪts/
 核心：名词，浮华 —— 表面上的光鲜热闹：灯光、亮片、排场，贬义，不可数。
 形容词 glitzy 并入本条。
 跟 glamour 的分界：glamour 多少还有点真魅力，glitz 只剩表面。
@@ -270,6 +279,7 @@ gloat about something = 拿某事炫耀
 gloating = 幸灾乐祸
 
 glob
+/ɡlɒb/
 核心：名词（口语），一团、一坨 —— 半流体的一小堆：a glob of paint、a glob of glue。
 可数。跟 blob 的分别在稠度：blob 可以是任何一小团（也指圆点），
 glob 一定是稠的、会挂丝的那种。
@@ -364,6 +374,7 @@ Two years of globetrotting left her with no fixed address at all.
 a globe artichoke = 洋蓟
 
 glocal
+/ˈɡləʊkəl/
 核心：形容词，全球本地化的 —— global 与 local 拼出来的词，说的是
 「按全球的标准做，照本地的口味调」。名词 glocalization 并入本条。
 多见于营销与管理写作，日常英语里几乎不用，写的时候要估量读者认不认得。
@@ -378,6 +389,7 @@ a glocal approach = 全球本地化的做法
 glocalization = 全球本地化
 
 glockenspiel
+/ˈɡlɒkənʃpiːl/
 核心：名词，钟琴 —— 一排调好音的金属片，用小槌敲，音色清亮，
 军乐队、管弦乐队与学校音乐课里都有。可数。
 从德语来，字面是「钟的演奏」。跟 xylophone 的分别只在材料：
@@ -393,6 +405,7 @@ play the glockenspiel = 演奏钟琴
 the glockenspiel part = 钟琴声部
 
 glom
+/ɡlɒm/
 核心：动词（美式口语），两支。一是抢到手、顺走：glom something；
 二是更常用的 glom onto something —— 一把抓住不放，也说「黏上某人」
 或「一头扎进某个说法」。过去式与过去分词 glommed。
@@ -432,6 +445,7 @@ gloomily = 闷闷地
 gloominess = 阴郁
 
 gloop
+/ɡluːp/
 核心：名词（英，口语），黏糊糊的一摊 —— 稠、黏、说不清是什么的东西：
 锅底的糊、化开的巧克力、和过头的面糊。不可数，语气里带着嫌弃。
 形容词 gloopy 并入本条。美式对应的写法是 glop，另立一条。

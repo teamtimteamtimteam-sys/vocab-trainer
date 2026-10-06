@@ -1,4 +1,5 @@
 allowable
+/əˈlaʊəbəl/
 核心：指"容许的、在规定范围内的"，多用于税务、
 法规、技术标准。
 ① Mileage to a client is an allowable expense, but the parking fine you collected is not.
@@ -35,6 +36,7 @@ tax-free allowance = 免税额
 allow = 允许；留出
 
 alloy
+/ˈælɔɪ/（名）/əˈlɔɪ/（动）
 核心：指两种以上金属熔合成的"合金"。动词义是"熔合"，也有比喻义
 "掺杂使不纯"。注意名词和动词重音不同。
 ① Steel is an alloy of iron and carbon, and a change of one per cent transforms what it can do.
@@ -52,6 +54,7 @@ bronze = 青铜（铜锡）
 steel = 钢（铁碳）
 
 allspice
+/ˈɔːlspaɪs/
 核心：一种香料，是多香果树的干果实，一颗里同时尝得出丁香、
 肉桂和肉豆蔻的味道，名字就是这么来的——不是几种香料的混合。
 不可数。
@@ -69,6 +72,7 @@ mixed spice = 混合香料（真的是几种拌在一起）
 烹饪与香料用语。
 
 allude
+/əˈluːd/
 核心：指"间接提到、暗指"，不点破。必须带 to。和 refer to 的差别：
 refer 是明说，allude 是暗示。注意别和 elude（躲避）混。
 ① He alluded to the scandal without ever naming anyone involved in it.
@@ -88,6 +92,7 @@ allude to 暗示（不点名）
 refer to 提到（明说）
 
 allure
+/əˈlʊə(r)/
 核心：指"诱惑力、吸引力"，尤其指那种让人向往的魅力。名词动词
 同形。形容词 alluring 是"诱人的"。
 ① The allure of the city is strong until you have paid a month's rent.
@@ -109,6 +114,7 @@ appeal 吸引力（通用）
 charm 魅力（讨人喜欢）
 
 alluring
+/əˈlʊərɪŋ/
 核心：指"诱人的、有魅力的"，常带一点让人难以抗拒的意味。
 可以说人，也可以说前景、提议。
 ① It is an alluring prospect: a year abroad, expenses paid, and nobody checking on you.
@@ -129,6 +135,7 @@ tempting = 诱人的（想要）
 attractive = 有吸引力的（通用）
 
 allusion
+/əˈluːʒən/
 核心：指不点名的"暗指、典故"。文学里指引用他典而不明说。
 介词用 to。注意别和 illusion（幻觉）混。
 ① He made an allusion to her past that only two people in the room caught.
@@ -150,6 +157,7 @@ delusion = 妄想
 allusive = 多用典故的、暗指的
 
 alluvium
+/əˈluːviəm/
 核心：地质学名词，指"冲积层"——河流搬运后沉下来的泥沙砾石。
 冲积土肥沃，尼罗河、黄河的下游平原都是这么来的。形容词是 alluvial。
 ① The valley floor is alluvium and grows anything you put into it.
@@ -187,6 +195,7 @@ the Allies = 同盟国（大写）
 反义词：ally 盟友 / enemy 敌人
 
 alma mater
+/ˌælmə ˈmɑːtə(r)/
 核心：拉丁语借词，字面是"哺育的母亲"，指一个人"毕业的母校"。
 也可指母校的校歌。正式或带感情色彩的说法。
 ① He donated to his alma mater on condition that the library keep his old reading room.
@@ -203,6 +212,7 @@ return to one's alma mater = 回母校
 指自己念过的那所学校，前面加物主代词。
 
 almanac
+/ˈɔːlmənæk/
 核心：指按年出版的"年鉴、历书"，含日历、天文数据、统计资料。
 传统上还预测天气和农时。
 ① He consulted the almanac before setting the date, mainly for the tide tables at the back.
@@ -259,6 +269,7 @@ almond milk = 杏仁奶
 l 不发音。
 
 almoner
+/ˈɑːmənə(r)/
 核心：底层是 alms（施舍）——负责把救济发下去的人。旧时是教会或
 王室里的施赈人；二十世纪的英国医院把这个词借去，指管病人经济困难
 和出院安排的医务社工，一九六四年后改称 medical social worker。
@@ -303,6 +314,7 @@ almost / nearly 基本同义
 almost 能配否定词，nearly 不能
 
 alms
+/ɑːmz/
 核心：指施舍给穷人的"救济品、施舍"。永远用复数形式，
 但配单数或复数动词都可以。古旧且宗教色彩浓。
 ① They gave alms to the poor at the gate on the first day of each month.
@@ -362,6 +374,7 @@ overhead = 在头顶上方（通用）
 up high = 在高处（口语）
 
 aloha
+/əˈləʊhə/
 核心：夏威夷语借词，一个词兼作"你好"和"再见"，底层含义是善意与
 关爱。夏威夷因此被称作 the Aloha State。
 ① Aloha, welcome to the island, said a sign older than the airport.
@@ -467,6 +480,7 @@ cold 冷漠（更负面）
 aloofness = 冷淡疏远
 
 alopecia
+/ˌæləˈpiːʃə/
 核心：医学名词，指"脱发症"——头发或体毛成片掉落。最常见的是
 alopecia areata（斑秃），免疫系统攻击毛囊造成，跟自然衰老掉发不同。
 ① She was diagnosed with alopecia at nineteen and shaved the rest of her hair the same week.

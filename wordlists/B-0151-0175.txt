@@ -1,4 +1,5 @@
 accented
+/ˈæksəntɪd/
 核心：两条线：说话"带某种口音的"，和文字上"带重音符号的"。
 第一条更常用，前面通常加限定词。
 ① She spoke heavily accented English and never once had to repeat herself.
@@ -15,6 +16,7 @@ accent = 口音；重音
 本身是中性描述，不含贬义。
 
 accentuate
+/əkˈsentʃueɪt/
 核心：指"使更突出、更明显"，可以是好的（衬托优点）
 也可以是坏的（凸显问题）。比 emphasize 更强调视觉或感官上的凸显。
 ① The dress accentuates her figure and cost less than the shoes she wore with it.
@@ -75,6 +77,7 @@ acceptable = 可接受的
 acceptance = 接受；认可
 
 acceptability
+/əkˌseptəˈbɪlɪti/
 核心：指"可接受的程度"，不可数。社会规范、产品标准、
 政治方案的讨论里常用。
 ① The plan's acceptability is doubtful in every ward except the one that proposed it.
@@ -231,6 +234,7 @@ inaccessible = 无法到达的
 accessibility = 无障碍性
 
 accession
+/ækˈseʃən/
 核心：三条线：登基就任、加入条约或组织、以及图书馆博物馆的
 "新入藏"。都源自"进入某个位置"。
 ① Her accession to the throne came while she was abroad and out of contact.
@@ -246,6 +250,7 @@ accession number = 入藏编号
 accede = 就任；加入
 
 accessorize
+/əkˈsesəraɪz/
 核心：指给服装"搭配配饰"，时尚语境用语。
 英式也拼 accessorise。及物不及物都可以。
 ① She accessorized the outfit with a scarf her mother had worn to the same church.
@@ -307,6 +312,7 @@ accident and emergency = 急诊科（英式，缩写 A&E）
 accident-prone = 容易出事故的
 
 accidental
+/ˌæksɪˈdentəl/
 核心：指"非故意造成的"，多用于法律和正式场合描述死亡、损坏、
 泄露。副词 accidentally 在日常里比形容词常用得多。
 ① The verdict was accidental death and the family appealed against it twice.
@@ -335,6 +341,7 @@ accidentally 有两个 l，
 不是 accidently。
 
 acclaim
+/əˈkleɪm/
 核心：指"公开的高度赞誉"，比 praise 隆重得多，多用于艺术作品和
 成就。名词不可数，动词常用被动 be acclaimed as。
 ① The film won critical acclaim and took eleven years to make its money back.
@@ -355,6 +362,7 @@ praise 表扬（通用）
 applause 掌声（字面）
 
 acclaimed
+/əˈkleɪmd/
 核心：指作品或人"广受赞誉的"，只作定语。
 最高频的搭配是 critically acclaimed。
 ① It's a critically acclaimed film that lost money in every market.
@@ -372,6 +380,7 @@ acclaim = 赞誉
 "评论界叫好"，未必卖座。
 
 acclamation
+/ˌækləˈmeɪʃən/
 核心：指热烈的欢呼喝彩。政治语境里的 elected by acclamation
 指"以欢呼方式一致通过"，即不用正式投票。
 ① He was greeted with acclamation by a hall that had booed him a year earlier.
@@ -389,6 +398,7 @@ acclamation = 欢呼、一致通过
 acclimation = 适应（美式拼法）
 
 acclimatization
+/əˌklaɪmətaɪˈzeɪʃən/
 核心：指"适应新环境"这个过程，运动医学和高原医学里的正式用语。
 不可数。英美拼写与动词同理。
 ① Acclimatization takes several days and cannot be hurried by fitness alone.
@@ -406,6 +416,7 @@ acclimatisation = 适应新环境（英式拼法）
 acclimatization = 适应新环境（美式拼法）
 
 acclimatize
+/əˈklaɪmətaɪz/
 核心：指人或动物"适应新环境"，尤其是气候和海拔。
 英式拼 acclimatise，美式还有个短形式 acclimate。介词用 to。
 ① Climbers acclimatize slowly and go up high before sleeping low again.
@@ -423,6 +434,7 @@ acclimate = 适应新环境（美式的短形式）
 acclimatization = 适应过程
 
 accolade
+/ˈækəleɪd/
 核心：指正式的"荣誉、褒奖"，可以是奖项，也可以是一句公开的高度
 评价。可数，常用复数。比 award 更强调"荣誉"而非"奖品"。
 ① The prize is the highest accolade in a field with about two hundred people.
@@ -458,6 +470,7 @@ accommodate to = 适应
 注意拼写：两个 c、两个 m。
 
 accommodating
+/əˈkɒmədeɪtɪŋ/
 核心：指人"乐于配合、好说话的"，褒义。
 和 accommodate 的"迁就"这条线对应。
 ① The staff were very accommodating and found us a table at half past ten.
@@ -494,6 +507,7 @@ accommodation = 住处（英式，不可数）
 accommodations = 住处（美式，常用复数）
 
 accompaniment
+/əˈkʌmpənɪmənt/
 核心：两条线：音乐上的"伴奏"，和餐饮上"配着吃的东西"。都对应
 动词 accompany 的"伴随"这条线。介词用 to。
 ① She sang to piano accompaniment played from memory by her brother.

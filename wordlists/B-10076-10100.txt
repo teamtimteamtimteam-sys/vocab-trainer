@@ -13,6 +13,7 @@ the geography of a place = 某地的地形格局
 the geography of something = 某事的分布格局
 
 geolocation
+/ˌdʒiːəʊləʊˈkeɪʃən/
 核心：定位、地理位置信息：判断设备或照片在地球上哪一点，
 也指判定出来的那个位置本身。不可数为主。
 ① Geolocation put the photograph in a village the photographer had never named.
@@ -42,6 +43,7 @@ be geologically active = 地质上活跃
 构词：geological 加 -ly
 
 geologist
+/dʒiˈɒlədʒɪst/
 核心：地质学家：研究岩石、地层与地球构造的人。可数。
 勘探公司里也指下野外做取样判断的那个人。
 ① The geologist read the cliff face the way other people read a page.
@@ -66,6 +68,7 @@ the geology of a place = 某地的地质构造
 the geology of something = 层层叠叠的堆积（调侃）
 
 geomagnetic
+/ˌdʒiːəʊmæɡˈnetɪk/
 核心：地磁的：跟地球磁场及其变化有关。只作定语。
 a geomagnetic storm 是太阳风扰动引起的磁暴，会干扰电网与导航。
 ① A geomagnetic storm took out the compasses and left the stars alone.
@@ -76,6 +79,7 @@ a geomagnetic storm = 地磁暴
 geomagnetic readings = 地磁记录
 
 geomagnetism
+/ˌdʒiːəʊˈmæɡnətɪzəm/
 核心：地磁、地磁学：地球磁场本身，也指研究它的学问。不可数。
 ① Geomagnetism flips every few hundred thousand years and nobody can date the next one.
 = 地磁每隔几十万年翻转一次，下一次谁也算不出日子。
@@ -85,6 +89,7 @@ geomagnetism = 地磁
 go into geomagnetism = 进入地磁学这一行
 
 geomancy
+/ˈdʒiːəʊmænsi/
 核心：两支。一是土占：看地上的沙土或石子落点来占卜，欧洲旧法术；
 二是（引申）看地形定吉凶的一套做法，中文语境里多译作风水。不可数。
 ① Medieval geomancy read patterns in a handful of thrown earth.
@@ -95,6 +100,7 @@ geomancy = 土占
 pay for geomancy = 花钱看风水
 
 geometric
+/ˌdʒiːəˈmetrɪk/
 核心：三支。一是几何的：跟几何学有关；二是（图案）由直线与规则形状构成的；
 三是（增长）按倍数递增的：geometric growth。也拼 geometrical。副词 geometrically。
 ① The tiles form a geometric pattern that repeats every nine rows.
@@ -133,6 +139,7 @@ the geometry of something = 某物的形状与位置关系
 the geometry of a situation = 局面的结构
 
 geophysical
+/ˌdʒiːəʊˈfɪzɪkəl/
 核心：地球物理的：用物理方法（地震波、重力、磁法）探查地下的。只作定语。
 ① A geophysical survey found the old foundations without lifting a spade.
 = 一次地球物理勘查查出了旧地基，一锹土都没动。
@@ -142,6 +149,7 @@ a geophysical survey = 地球物理勘查
 geophysical data = 地球物理数据
 
 geophysicist
+/ˌdʒiːəʊˈfɪzɪsɪst/
 核心：地球物理学家：用物理手段研究地球内部与海底构造的人。可数。
 ① The geophysicist spent nine months on a ship and four days on land.
 = 那位地球物理学家在船上待了九个月，在陆上待了四天。
@@ -151,6 +159,7 @@ a geophysicist = 地球物理学家
 geophysicists = 地球物理学家（复数）
 
 geophysics
+/ˌdʒiːəʊˈfɪzɪks/
 核心：地球物理学：用物理方法研究地球的构造、磁场与内部运动。
 作单数，不可数。
 ① Geophysics tells you what is under the field without digging it up.
@@ -164,6 +173,7 @@ geophysics = 地球物理（探看不见的那部分）
 geology = 地质学（研究岩石本身）
 
 geopolitical
+/ˌdʒiːəʊpəˈlɪtɪkəl/
 核心：地缘政治的：跟地理位置如何左右国家间权力与利益有关。
 只作定语；副词 geopolitically。
 ① A geopolitical argument about a strait decided where that railway went.
@@ -179,6 +189,7 @@ geopolitically = 从地缘政治上说
 构词：geopolitical 加 -ly
 
 geopolitics
+/ˌdʒiːəʊˈpɒlətɪks/
 核心：地缘政治：研究地理位置如何塑造国家间的角力，也指那种角力本身。
 作单数，不可数。
 ① Geopolitics decides which pipelines get built and which get drawn on maps.
@@ -201,6 +212,7 @@ a Geordie accent = 泰恩赛德口音
 注意语域：全英国都用这个词，不是只在当地说的。
 
 georgette
+/dʒɔːˈdʒet/
 核心：乔其纱：轻薄有绉感、略透明的丝织或化纤衣料，垂坠好。不可数。
 名字取自一位法国女装裁缝。
 ① Georgette hangs beautifully and shows every pin you ever put in it.
@@ -211,6 +223,7 @@ georgette = 乔其纱
 be cut from georgette = 用乔其纱裁成
 
 geoscience
+/ˌdʒiːəʊˈsaɪəns/
 核心：地球科学：地质、地球物理、气象、海洋这一大片学科的统称。
 不可数为主，说分支时可数。
 ① Geoscience gets the funding when somebody finds something under the ground.
@@ -221,6 +234,7 @@ geoscience = 地球科学
 geosciences = 地球科学各分支
 
 geospatial
+/ˌdʒiːəʊˈspeɪʃəl/
 核心：地理空间的：跟带位置坐标的数据及其分析有关。只作定语。
 ① Geospatial data showed the flood reaching houses the model had missed.
 = 地理空间数据显示洪水淹到了模型漏掉的那些房子。
@@ -230,6 +244,7 @@ geospatial data = 地理空间数据
 a geospatial analysis = 地理空间分析
 
 geostationary
+/ˌdʒiːəʊˈsteɪʃənəri/
 核心：地球同步静止的：卫星轨道周期跟地球自转一致，
 从地面看它始终悬在同一点上空。只作定语。
 ① A geostationary satellite sits over the equator and never appears to move.
@@ -240,6 +255,7 @@ a geostationary satellite = 地球同步卫星
 geostationary orbit = 地球同步轨道
 
 geotag
+/ˈdʒiːəʊtæɡ/
 核心：地理标签：附在照片或帖子上的坐标信息，标明它是在哪儿拍的、发的。
 可数，也作动词，过去式 geotagged。
 ① The geotag on that photograph gave away a house nobody was meant to find.
@@ -250,6 +266,7 @@ a geotag = 地理标签
 geotag something = 给某物打地理标签
 
 geothermal
+/ˌdʒiːəʊˈθɜːməl/
 核心：地热的：靠地下热量取暖或发电的。只作定语。
 ① Geothermal heat warms the whole town and the pipes run under the pavements.
 = 地热供着整个镇子的暖，管道走在人行道底下。
@@ -259,6 +276,7 @@ geothermal heat = 地热
 a geothermal plant = 地热电站
 
 geotracking
+/ˈdʒiːəʊtrækɪŋ/
 核心：位置追踪：持续记录一个人或一件东西的所在位置。不可数。
 打一次标签是一次性的，追踪是连续不断的。
 ① Geotracking on the fleet cut the fuel bill and raised everybody's blood pressure.
@@ -269,6 +287,7 @@ geotracking = 位置追踪
 turn geotracking off = 关掉位置追踪
 
 geranium
+/dʒəˈreɪniəm/
 核心：天竺葵：窗台上最常见的盆花之一，叶子搓一下有味，花色多为红粉。
 可数；园艺里严格说这个名字下有两个属，日常不分。
 ① The geraniums on that sill have outlived two tenants and one landlord.
@@ -279,6 +298,7 @@ a geranium = 天竺葵
 geraniums = 天竺葵（复数）
 
 gerbil
+/ˈdʒɜːbɪl/
 核心：沙鼠：小型穴居啮齿动物，尾巴有毛，多作宠物。可数。
 多作宠物养。
 ① The gerbil dug through a cardboard box in about four minutes.

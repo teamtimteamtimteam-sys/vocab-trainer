@@ -1,4 +1,5 @@
 agora
+/ˈæɡərə/
 核心：古希腊城邦里的"集市广场"——既是买卖东西的市场，也是公民
 议事辩论的公共空间。复数是 agorae 或 agoras。引申指供人聚会
 议事的场所。
@@ -19,6 +20,7 @@ agora = 集市广场（希腊，兼作议事）
 forum = 罗马广场（兼作法庭与集会）
 
 agoraphobia
+/ˌæɡərəˈfəʊbiə/
 核心：指"广场恐惧症"——害怕身处开阔或人多、不容易脱身的场所，
 严重的完全不敢出门。名字来自希腊语的集市广场。形容词是
 agoraphobic，也可作名词指患者。
@@ -39,6 +41,7 @@ agoraphobia = 广场恐惧（怕开阔与人群）
 claustrophobia = 幽闭恐惧（怕封闭狭小）
 
 agraphia
+/əˈɡræfiə/
 核心：神经科名词，指"失写症"——脑损伤之后写不出字，但手本身没瘫，
 认字的能力也可能还在。常跟失语症一起出现。
 ① Agraphia often accompanies aphasia and is easy to miss in a quiet patient.
@@ -56,6 +59,7 @@ alexia = 失读症（读不懂）
 aphasia = 失语症（说不出或听不懂）
 
 agrarian
+/əˈɡreəriən/
 核心：指"与农业和土地有关的"，正式且偏学术，多见于历史和社会学
 文本。日常说农业用 agricultural。
 ① It was an agrarian society in which four families owned most of the land.
@@ -101,6 +105,7 @@ agree with = 适合（身体）
 disagree = 不同意
 
 agreeable
+/əˈɡriːəbəl/
 核心：三条线：事物"令人愉快的"、人"和蔼的"、以及
 "同意的"（be agreeable to）。第三条偏正式。
 ① We had an agreeable evening and nobody mentioned the thing everyone was thinking.
@@ -158,6 +163,7 @@ a gentleman's agreement = 君子协定
 不落纸面、只靠信用的约定，正因为如此，一换人就难说了。
 
 agribusiness
+/ˈæɡrɪbɪznəs/
 核心：指"农业综合企业"——把种植养殖、加工、仓储和销售连成一条链的
 大规模商业化农业。作行业统称时不可数，指具体一家公司时可数。
 用起来常隐含跟小农户对立的意味。
@@ -176,6 +182,7 @@ farming = 务农（生产环节本身）
 smallholding = 小农户（自有的小块地）
 
 agric
+/ˈæɡrɪk/
 核心：agriculture 与 agricultural 的非正式缩略写法，只作定语，
 用在院系、专业、行业这类名词前面。正式文本一律写完整拼法。
 ① He studies at the agric faculty and works a real farm at weekends.
@@ -244,6 +251,7 @@ agribusiness = 农业综合企业
 agri- 这一族的构词成分都从 agriculture 截来。
 
 agritourism
+/ˈæɡrɪtʊərɪzəm/
 核心：指"农业旅游"——让游客住到农场去，参与采摘、喂养、酿造这类
 农活，顺带买些农产品。也拼作 agrotourism。
 ① Agritourism supports small farms through the months when nothing is growing.
@@ -263,6 +271,7 @@ agritourism = 农业旅游（到农场体验农活）
 ecotourism = 生态旅游（看自然、讲环保）
 
 agro-industry
+/ˌæɡrəʊ ˈɪndəstri/
 核心：指"农业工业"——把农产品的种植、加工、包装和销售按工业化方式
 组织起来的产业。词头强调的是农业，「industry」只是说它的组织方式，
 所以它跟 agribusiness、agrochemical 是一族。形容词是 agro-industrial。
@@ -285,6 +294,7 @@ agribusiness = 农业综合企业（一体化经营的公司）
 manufacturing = 制造业（不限于农产品）
 
 agrochemical
+/ˌæɡrəʊˈkemɪkəl/
 核心：指"农用化学品"——化肥、农药、除草剂这类用在农业生产上的
 化学制剂。多用复数指具体产品，也可作形容词。
 ① Agrochemicals reached the water table about fifteen years after they were sprayed.
@@ -303,6 +313,7 @@ pesticide = 农药（杀虫害）
 herbicide = 除草剂（除杂草）
 
 agroforestry
+/ˌæɡrəʊˈfɒrɪstri/
 核心：指"农林复合经营"——在同一块地上把树木跟农作物或牲畜搭配着
 种养，靠树遮荫、固土、保水，同时还有收成。不可数。
 ① Agroforestry improves soil health and takes about eight years to show it.
@@ -321,6 +332,7 @@ agroforestry = 农林复合（树与作物同地）
 monoculture = 单一种植（一地只种一样）
 
 agronomy
+/əˈɡrɒnəmi/
 核心：指农学——研究作物生产和土壤管理的学科。
 不可数。从业者叫 agronomist。
 ① She studies agronomy and spends half the year in other people's fields.
@@ -339,6 +351,7 @@ An agronomic study of that valley took nine years and one drought.
 同类：economy、astronomy
 
 aground
+/əˈɡraʊnd/
 核心：航海用语，指船底触到河床或浅滩，动弹不得。构词是 a- 加 ground，
 字面就是"到了地上"——船本该浮着，落到地上就出事了。只作表语，
 几乎只跟 run 和 go 连用。比喻着用指计划卡住，画面完全一样：
@@ -395,6 +408,7 @@ oh = 哦（一般反应）
 eureka = 我发现了（重大发现）
 
 ahchoo
+/ɑːˈtʃuː/
 核心：拟声词，模仿打喷嚏的声音，相当于中文的"阿嚏"。也拼作 achoo，
 英式还写作 atishoo。只在写对话或漫画时用。
 ① Ahchoo! He caught it in his elbow the way the poster had told him to.
@@ -437,6 +451,7 @@ go ahead = 开始吧、请便
 反义词：ahead 在前 / behind 在后
 
 ahem
+/əˈhem/
 核心：拟声感叹词，模仿清嗓子的声音，用来提醒对方注意
 或表示不以为然。写在文字里比说出来更常见。
 ① Ahem, may I say something before this goes any further?
@@ -450,6 +465,7 @@ ahem
 讽刺或纠正的意味。
 
 ahimsa
+/əˈhɪmsɑː/
 核心：梵语借词，指"不害、非暴力"——不伤害任何有生命的东西，是印度教、
 耆那教和佛教共有的戒律。甘地把它用作政治抵抗的原则，这个词才进了
 通用英语。
@@ -469,6 +485,7 @@ nonviolence = 非暴力（通用说法）
 pacifism = 和平主义（反对一切战争）
 
 ahistorical
+/ˌeɪhɪˈstɒrɪkəl/
 核心：形容词，指"不顾历史脉络的"——把一件事从它的时代背景里抽出来
 单看，或者干脆不管历史。多用于学术批评，带贬义。注意它不是
 "说错了史实"，那个意思要用 unhistorical。

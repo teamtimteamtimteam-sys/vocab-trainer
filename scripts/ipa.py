@@ -193,6 +193,14 @@ def draft_one(word, d):
         if t[i] == 'n' and t[i+1].lstrip('ˈˌ') == 'k': t[i] = 'ŋ'
         if t[i] == 'uː' and t[i+1].lstrip('ˈˌ') in VOWELS | {'ɛ', 'ɛə'}: t[i] = 'ʊ'   # 非重读的 uː 在元音前
     if len(t) > 2 and t[0] == 'ɛ' and t[1] in ('k', 'ɡ', 'g'): t[0] = 'ɪ'            # 非重读的 ex-
+    for i in range(len(t) - 1):
+        nxt = t[i+1].lstrip('ˈˌ')
+        if t[i] == 'ɪ' and (nxt in VOWELS or nxt in ('ɛ', 'ɛə')): t[i] = 'i'              # 元音前的非重读 ɪ：abbreviation
+    j = 0; u = []
+    while j < len(t):                                                                   # 重读的 i 加 ə 是一个 ɪə：adherent
+        if t[j] in ('ˈi', 'ˌi') and j + 1 < len(t) and t[j+1] == 'ə': u.append(t[j][0] + 'ɪə'); j += 2
+        else: u.append(t[j]); j += 1
+    t = u
     try:
         line = '/' + convert(t, word) + '/'
     except Exception:
@@ -216,6 +224,49 @@ def cmd_draft(args):
             ds = [draft_one(x, d) if x not in ' -' else x for x in parts]
             print('%s\t%s' % (h, ' '.join((x or '?').strip('/') if x not in (' ', '-') else '' for x in ds).replace('  ', ' ') if all(ds) else '?'))
     print('# 草稿 %d 条（共缺 %d 条）。逐条看过、改过，再追加到 data/pron/manual.tsv' % (min(n, len(ms)), len(ms)), file=sys.stderr)
+
+def draft_rows(args):
+    n = 300; pref = ''; table = None
+    it = iter(args)
+    for a in it:
+        if a == '-n': n = int(next(it))
+        elif a in ('A', 'B'): table = a
+        else: pref = a.lower()
+    d = load_draft()
+    ms = [h for t, h, ip in all_heads() if not ip and h.lower().startswith(pref) and (table is None or t == table)]
+    rows = []
+    for h in ms[:n]:
+        rows.append((h, draft_one(h, d) if re.match(r'^[A-Za-z]+$', h) else None))
+    return rows, len(ms)
+
+def cmd_accept(args):
+    """accept <改正文件> [A|B] [前缀] [-n N]：同一组草稿里，校对时没动的照收，动过的用改正文件里的。
+    改正文件每行「词头<TAB>音标行」；草稿打「?」的词头必须在改正文件里，否则那一条留着不写。"""
+    fix = {}
+    for l in io.open(args[0], encoding='utf-8'):
+        l = l.rstrip('\n')
+        if l.strip() and not l.startswith('#'):
+            w, ip = l.split('\t', 1); fix[w.strip()] = ip.strip()
+    rows, total = draft_rows(args[1:])
+    bad = [(w, ip) for w, ip in fix.items() if not valid(ip)]
+    if bad:
+        print("❌ 改正文件里 %d 行格式不合法：" % len(bad))
+        for w, ip in bad[:30]: print("   %s\t%s" % (w, ip))
+        return 1
+    out, left = [], []
+    for h, dr in rows:
+        ip = fix.get(h, dr)
+        if ip: out.append((h, ip))
+        else: left.append(h)
+    stray = [w for w in fix if w not in dict(rows)]
+    with io.open('data/pron/manual.tsv', 'a', encoding='utf-8') as f:
+        f.write("# 校对批次：%s —— 草稿照收 %d 条，改正或手写 %d 条\n" % (' '.join(args[1:]), len(out) - sum(1 for h, _ in out if h in fix), sum(1 for h, _ in out if h in fix)))
+        for h, ip in out: f.write("%s\t%s\n" % (h, ip))
+        for w in stray: f.write("%s\t%s\n" % (w, fix[w]))
+    mapping = dict(out); mapping.update({w: fix[w] for w in stray})
+    n = rewrite(mapping, overwrite=True)
+    print("写入 %d 条；这一组里还没着落的 %d 条：%s" % (n, len(left), ' '.join(left[:40])))
+    return 0
 
 # ------------------------------------------------------------ 命令
 def all_heads():
@@ -293,6 +344,7 @@ if __name__ == '__main__':
     elif a[0] == 'fill': cmd_fill()
     elif a[0] == 'missing': cmd_missing(a[1:])
     elif a[0] == 'draft': cmd_draft(a[1:])
+    elif a[0] == 'accept': sys.exit(cmd_accept(a[1:]))
     elif a[0] == 'set': sys.exit(cmd_set(a[1]))
     elif a[0] == 'check': sys.exit(cmd_check(a[1:]))
     else: print(__doc__); sys.exit(2)

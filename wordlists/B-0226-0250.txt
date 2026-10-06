@@ -1,4 +1,5 @@
 acetylene
+/əˈsetəliːn/
 核心：指乙炔——燃烧温度极高的气体，用于气焊切割。
 不可数。化学式 C₂H₂。
 ① They used an acetylene torch to cut through a hinge that had rusted solid.
@@ -33,6 +34,7 @@ pain = 疼痛（通用）
 sting = 刺痛
 
 achievable
+/əˈtʃiːvəbəl/
 核心：指"能做到的、可实现的"，最常见的搭配是 achievable goals。
 在目标管理和励志语境里高频，常和 realistic 连用。
 ① Set achievable goals and one that nobody in the room believes in.
@@ -78,6 +80,7 @@ achievement
 a sense of achievement = 成就感
 
 achiever
+/əˈtʃiːvə(r)/
 核心：指成就突出的人，最常见的是 high achiever（成绩优异者）
 和 underachiever（未发挥出应有水平的人）。
 ① She is a high achiever and has not taken a full week off since 2016.
@@ -95,6 +98,7 @@ achievement = 成就
 但也可能暗示压力大。
 
 Achilles heel
+/əˌkɪliːz ˈhiːl/
 核心：从同一个神话来的比喻，指"致命弱点"——别处再强，
 就这一处一戳就破。跟解剖学上那根跟腱是同源不同用：
 一个说身体部位，一个说抽象的软肋。
@@ -112,6 +116,7 @@ Achilles heel = 致命弱点（比喻）
 Achilles tendon = 跟腱（解剖部位）
 
 Achilles tendon
+/əˌkɪliːz ˈtendən/
 核心：小腿后侧连到脚跟的那根粗肌腱，是人体最粗最强的一根，
 走路跑跳全靠它把小腿肌肉的力传到脚上。名字出自荷马史诗：
 阿喀琉斯全身刀枪不入，只有脚跟这一处例外。
@@ -127,6 +132,7 @@ strain the tendon = 拉伤肌腱
 解剖学与运动医学术语，以神话人物命名故大写。
 
 aching
+/ˈeɪkɪŋ/
 核心：两条线：身体"隐隐作痛的"，和感情上"渴望而痛苦的"。
 第二条偏文学，搭配 an aching heart。
 ① I have aching legs from a walk that was meant to be flat.
@@ -148,6 +154,7 @@ sore = 酸痛（碰了更疼）
 achingly = 令人心疼地、极其地
 
 achoo
+/əˈtʃuː/
 核心：拟声词，模仿打喷嚏的声音，相当于中文的"阿嚏"。
 也拼作 atishoo（英式）。
 ① Achoo, she sneezed, and every head in the reading room came up at once.
@@ -165,6 +172,7 @@ cough = 咳嗽 / hiccup = 打嗝
 yawn = 打哈欠
 
 achy
+/ˈeɪki/
 核心：口语形容词，指"隐隐作痛的、酸疼的"。
 感冒和运动后最常用。
 ① I feel achy all over and cannot decide whether it is flu or the garden.
@@ -286,6 +294,7 @@ acid = 酸
 acidity = 酸度
 
 acidity
+/əˈsɪdɪti/
 核心：指"酸度"这个可测量的性质。不可数。
 食品、土壤、葡萄酒的品评里都用。
 ① Test the soil's acidity before you buy a single plant for that bed.
@@ -381,6 +390,7 @@ in acknowledgement = 表示认可
 acknowledgement of country = 致敬原住民土地（澳洲惯例）
 
 acme
+/ˈækmi/
 核心：指某事物的"顶点、极致"，正式且偏文学。搭配固定：
 the acme of。日常少用，多见于书评和颂扬性文字。
 ① It's the acme of good taste and cost about the same as a small car.
@@ -417,6 +427,7 @@ pimple = 一颗痘（可数）
 spot = 痘痘（英式口语）
 
 acolyte
+/ˈækəlaɪt/
 核心：两条线：宗教仪式上的"助祭"，和比喻义的"追随者、跟班"。
 第二条常带轻蔑，暗示"没有主见地跟着"。
 ① He served as an acolyte and remembers the smell of the candles best.
@@ -477,6 +488,7 @@ acoustically = 在声学上
 acoustician = 声学专家
 
 acoustics
+/əˈkuːstɪks/
 核心：两条线：某个空间的"音响效果"（用复数，配复数动词），
 和作为学科的"声学"（用复数形式但配单数动词）。
 ① The acoustics are excellent and the building was designed as a grain store.
@@ -493,6 +505,7 @@ acoustic = 声学的；原声的
 说学科时配单数动词。
 
 acquaint
+/əˈkweɪnt/
 核心：指"使熟悉、使了解"，正式。两个结构：acquaint someone
 with something，和反身的 acquaint oneself with。
 ① Acquaint yourself with the rules before you sign anything at all.

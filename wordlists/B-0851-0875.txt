@@ -1,4 +1,5 @@
 alternator
+/ˈɔːltəneɪtə(r)/
 核心：汽车和发电设备里的"交流发电机"，把机械能转成交流电。
 和 generator 的差别：alternator 专指发交流电的。
 ① The alternator failed on the motorway and the headlights dimmed within a mile.
@@ -43,6 +44,7 @@ even though = 即便（语气最强）
 though 能放句末，although 不能——这是两者唯一的硬区别。
 
 altimeter
+/ˈæltɪmiːtə(r)/
 核心：飞机和登山表上的"高度表"——靠测气压推算海拔高度。
 气压随天气变，所以起飞前要按当地气压校准。
 ① Check the altimeter before descent and again when you break through the cloud.
@@ -78,6 +80,7 @@ height = 高度（通用）
 elevation = 海拔（地理术语）
 
 alto
+/ˈæltəʊ/
 核心：音乐术语，指女低音或男声最高声部，也指该音域的乐器
 （alto saxophone）。可数。
 ① She sings alto in a choir that meets in a church hall on Thursdays.
@@ -97,6 +100,7 @@ tenor = 男高音
 bass = 男低音
 
 altocumulus
+/ˌæltəʊˈkjuːmjʊləs/
 核心：气象学名词，指"高积云"——中层云，一团团排成行或成片，
 底部大约两到七千米。前缀 alto- 在云名里表示中层，跟 alto（女低音）
 毫无关系。alto- 打头的另一种是 altostratus，高层云，均匀成幕。
@@ -140,6 +144,7 @@ all together 大家一起（两个词）
 They sang all together. = 他们一起唱。
 
 altruism
+/ˈæltruɪzəm/
 核心：指"利他主义"——不图回报地为他人着想。不可数。
 和 selfishness（自私）相对，是伦理学和心理学的核心概念。
 ① Her act was pure altruism: she gave the money anonymously and never mentioned it again.
@@ -156,6 +161,7 @@ egoism = 利己主义
 altruistic = 利他的
 
 altruistic
+/ˌæltruˈɪstɪk/
 核心：形容行为或动机"无私利他的"，褒义。
 常和 motive、act、behaviour 搭配。
 ① It was an altruistic gesture, and it cost him a client he could not afford to lose.
@@ -174,6 +180,7 @@ selfish = 自私的
 altruism = 利他主义
 
 alumina
+/əˈluːmɪnə/
 核心：化学名词，指"氧化铝"——白色粉末，是从铝土矿里提出来的
 中间产物，电解它得到金属铝。也用作研磨料和陶瓷原料。
 ① Alumina is smelted into aluminium in cells that draw enough current to light a small town.
@@ -229,6 +236,7 @@ an alum = 校友（口语，不分男女）
 复数写 alums。
 
 alveolus
+/ˌælviˈəʊləs/
 核心：底层是拉丁语的"小凹坑"。身体里凡是这种小窝小囊都用它：肺里
 换气的小气囊是肺泡，牙齿嵌进去的那个窝是牙槽。语音学的形容词
 alveolar 指"齿龈的"，说的正是舌尖抵住牙槽那道脊发出来的音。
@@ -277,6 +285,7 @@ The shop is not always open and the sign never says which days.
 always-on = 常在线的、不间断的
 
 alyssum
+/ˈælɪsəm/
 核心：一种低矮的观赏花，开细密的白色或紫色小花，成片铺在花坛
 边缘和石缝里，带蜜香。园艺里说的多半是 sweet alyssum。
 ① She edged the bed with alyssum, which spilled over the bricks by midsummer.
@@ -291,6 +300,7 @@ sweet alyssum = 香雪球
 园艺植物名称。
 
 alzheimer's
+/ˈæltshaɪməz/
 核心：指"阿尔茨海默病"——最常见的一种痴呆症，脑细胞逐渐死亡，
 记忆、语言和判断力一步步退化。以最早描述它的德国医生命名，
 所以要大写并带所有格。全称 Alzheimer's disease。
@@ -310,6 +320,7 @@ Alzheimer's = 阿尔茨海默病（痴呆最常见的一种）
 dementia = 痴呆（症状统称）
 
 a.m.
+/ˌeɪ ˈem/
 核心：拉丁语 ante meridiem 的缩写，指"上午"，
 与 p.m.（下午）配对。只跟在具体时刻后面。
 ① The meeting starts at 9 a.m. and the coffee arrives twenty minutes later.
@@ -329,6 +340,7 @@ p.m. = 下午（post meridiem）
 a.m. 本身已含"上午"。
 
 amalgam
+/əˈmælɡəm/
 核心：两条线：牙科用的"汞合金"补牙材料，
 和比喻义的"混合物、杂糅体"。介词用 of。
 ① The filling is an amalgam, and dentists used it for a century before the debate over mercury began.
@@ -346,6 +358,7 @@ blend = 混合物（融合得好）
 mixture = 混合物（通用）
 
 amalgamate
+/əˈmælɡəmeɪt/
 核心：指两个或多个组织"合并"成一个，正式，商业和行政语境常用。
 介词用 with。
 ① The two firms amalgamated and shed a third of the staff within the year.
@@ -363,6 +376,7 @@ merge = 合并（通用，商业）
 consolidate = 整合（做强做大）
 
 amanuensis
+/əˌmænjuˈensɪs/
 核心：正式名词，指"笔录助手"——替别人记录口述、抄写文稿的人。
 多用于作家、学者身边那种助理。复数是 amanuenses。
 ① Milton dictated to an amanuensis after he went blind, often his own daughters.
@@ -381,6 +395,7 @@ secretary = 秘书（通用事务）
 scribe = 抄写员（古时誊抄公文）
 
 amaretti
+/ˌæməˈreti/
 核心：意大利的杏仁小圆饼，用杏仁粉和蛋白做，外脆内软，带苦杏仁香。
 本身是复数，单数是 amaretto。注意跟同名的杏仁利口酒区分。
 ① She served coffee with amaretti and put the tin on the table so nobody had to ask.
@@ -397,6 +412,7 @@ amaretti = 杏仁小圆饼（点心）
 amaretto = 杏仁利口酒（酒）
 
 amaryllis
+/ˌæməˈrɪlɪs/
 核心：一种球根花卉，冬天在室内水培或盆栽，抽出粗壮的空心花葶，
 顶端开出几朵喇叭状的大花，红色最常见。圣诞前后的应景花。
 ① She forced an amaryllis for Christmas and it opened three days too late.
@@ -430,6 +446,7 @@ accumulate 逐渐积累（自然堆积）
 collect 收集（有意搜集）
 
 amateur
+/ˈæmətə(r)/
 核心：底层是"因为喜欢而做，不靠它挣钱"。中性时指"业余爱好者"，
 贬义时指"外行、不专业"。注意发音，重音在第一音节。
 ① He is an amateur photographer whose work hangs in two galleries.
@@ -454,6 +471,7 @@ amateurish = 外行的
 amateurism = 业余精神；业余水准
 
 amateurish
+/ˈæmətərɪʃ/
 核心：贬义词，指做得"外行、不专业"。
 和 amateur 的中性义要分开：amateur 可以只是"业余的"。
 ① The work looks amateurish beside the panel next to it, which was cut by machine.

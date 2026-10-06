@@ -1,4 +1,5 @@
 airstrip
+/ˈeəstrɪp/
 核心：指简易的"飞机跑道"，通常在偏远地区，
 没有航站楼和塔台。
 ① They landed on a dirt airstrip that turns to mud for half the year.
@@ -15,6 +16,7 @@ runway = 跑道（正规机场的）
 airport = 民航机场
 
 airtight
+/ˈeətaɪt/
 核心：字面指容器"密封不透气的"，比喻指论证或不在场证明
 "无懈可击的"。第二条在法律和辩论里高频。
 ① Store it in an airtight container or the whole cupboard will smell of it.
@@ -32,6 +34,7 @@ watertight = 防水的；同样可比喻严密
 sealed = 密封的（通用）
 
 airtime
+/ˈeətaɪm/
 核心：两条线：广播电视的"播出时长"，
 和手机的"通话时长"。前者更常用。
 ① The story got lots of airtime and disappeared from the news in two days.
@@ -51,6 +54,7 @@ airtime = 播出时长
 coverage = 报道量（媒体关注）
 
 airwaves
+/ˈeəweɪvz/
 核心：指广播电视信号所走的"电波"，引申指广播电视这个媒介。
 永远用复数。
 ① The song filled the airwaves that summer and was unbearable by August.
@@ -65,6 +69,7 @@ over the airwaves = 通过广播
 注意：airwaves 永远用复数。
 
 airway
+/ˈeəweɪ/
 核心：两条线：医学上的"呼吸道"（急救里的关键词），
 和航空上的"空中航路"。急救 ABC 里的 A 就是 airway。
 ① Clear the airway first, before you check for anything else at all.
@@ -81,6 +86,7 @@ Breathing = 呼吸
 Circulation = 循环
 
 airwoman
+/ˈeəwʊmən/
 核心：指"女飞行员、女空军军人"，跟 airman 相对，复数是 airwomen。
 现在军方多改用不分性别的说法。
 ① She served as an airwoman for nine years and instructed for eleven more.
@@ -98,6 +104,7 @@ airman = 男空军军人
 aircrew = 机组人员（不分性别）
 
 airworthy
+/ˈeəwɜːði/
 核心：航空术语，形容词，指飞机"适航的"——经检查符合安全标准、
 可以放飞。名词是 airworthiness。反义是 unairworthy。
 ① The plane is no longer airworthy and stands at the end of the runway.
@@ -204,6 +211,7 @@ leave the door ajar = 留有余地
 不说 an ajar door。
 
 aka
+/ˌeɪ keɪ ˈeɪ/
 核心：缩略语，读作三个字母，意思是"又名、亦称"，夹在两个称呼之间
 引出另一个叫法。也写成带句点的 a.k.a.，或全大写。多见于新闻、
 警方通报和艺人介绍。
@@ -221,6 +229,7 @@ a.k.a. = 又名（带句点的写法）
 新闻、警务与娱乐报道里常见。
 
 akimbo
+/əˈkɪmbəʊ/
 核心：副词兼形容词，指"两手叉腰、两肘外撑"的姿势，固定说法是
 arms akimbo，放在名词后面。这个姿势通常透着不耐烦或摆架子。
 引申也说 legs akimbo，指四肢摊开。
@@ -259,6 +268,7 @@ akin to 近乎（书面）
 similar to 类似于（通用）
 
 akinesia
+/ˌeɪkɪˈniːziə/
 核心：神经科名词，指"运动不能"——肌肉没瘫，但动作发不起来，
 想动却动不了，是帕金森病的核心症状之一。形容词是 akinetic。
 注意它跟 akin（相似的）毫无关系，只是开头碰巧拼得一样。
@@ -281,6 +291,7 @@ bradykinesia = 运动迟缓（动得很慢）
 dyskinesia = 运动障碍（动作不受控）
 
 al dente
+/ˌæl ˈdenteɪ/
 核心：意大利语借词，形容意面或米饭"煮得弹牙"——中心还留一点硬芯，
 咬下去有嚼劲，不软烂。放在名词或动词后面。
 ① Cook the pasta al dente and finish it in the sauce for the last minute.
@@ -298,6 +309,7 @@ al dente = 弹牙（中心留硬芯）
 overcooked = 煮过头（软烂）
 
 al desko
+/ˌæl ˈdeskəʊ/
 核心：戏谑造词，仿 al fresco（户外的）拼出来，指"在办公桌前吃饭"。
 说的是那种忙到不离座、边看屏幕边扒饭的状态。
 ① She ate lunch al desko again and answered eleven emails while chewing.
@@ -315,6 +327,7 @@ al desko = 在工位上吃（玩笑话）
 al fresco = 在户外吃（正经词）
 
 al fresco
+/ˌæl ˈfreskəʊ/
 核心：意大利语借词，指"在户外"，说的多半是在露天吃饭。
 作副词也作形容词，形容词写法常带连字符。
 ① We ate al fresco on the terrace until the wind took the tablecloth.
@@ -332,6 +345,7 @@ al fresco = 在户外（正经词）
 al desko = 在工位上吃（玩笑话）
 
 alabaster
+/ˈæləbɑːstə(r)/
 核心：指雪花石膏，一种半透明的白色石材，用于雕塑和装饰。
 比喻义形容皮肤"白皙光洁"，偏文学。
 ① The statue is carved from alabaster and glows when a lamp is put behind it.
@@ -349,6 +363,7 @@ granite = 花岗岩
 limestone = 石灰岩
 
 alacrity
+/əˈlækrɪti/
 核心：指做事时的"爽快、乐意的迅速"，正式。
 几乎只用 with alacrity 这个搭配。
 ① He accepted with alacrity and asked what the job involved afterwards.
@@ -366,6 +381,7 @@ eagerness = 急切（想要）
 promptness = 及时（只讲快）
 
 aladdin's cave
+/əˌlædɪnz ˈkeɪv/
 核心：习语，指"藏宝洞"——一个塞满了稀奇好东西的地方，多半是
 仓库、店铺或阁楼，走进去让人眼花缭乱。典出《一千零一夜》。
 ① The shop is an Aladdin's cave of old books and nothing is priced.
@@ -406,6 +422,7 @@ alarming = 令人担忧的
 alarm call = 叫醒电话；报警叫声
 
 alarmed
+/əˈlɑːmd/
 核心：指人"感到惊慌担忧的"。介词用 at 或 by。
 注意和 alarming 的分工：alarmed 说人，alarming 说事。
 ① She was alarmed by the noise and rang a neighbour before the police.
@@ -423,6 +440,7 @@ alarmed = 感到惊慌的（说人）
 alarming = 令人担忧的（说事）
 
 alarming
+/əˈlɑːmɪŋ/
 核心：指"令人担忧、让人警觉的"，程度比 worrying 重。
 常见搭配 an alarming rate、alarming increase，在数据描述里高频。
 ① The rate is alarming and has been climbing since the records began.
@@ -458,6 +476,7 @@ alarmingly = 令人担忧地（有威胁感）
 surprisingly = 出乎意料地（中性）
 
 alarmist
+/əˈlɑːmɪst/
 核心：指"危言耸听的（人）"，贬义——说对方把危险夸大了。
 名词形容词同形。
 ① Don't be alarmist, they said, about a warning that proved right in March.

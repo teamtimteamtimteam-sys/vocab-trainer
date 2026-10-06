@@ -1,4 +1,5 @@
 alkane
+/ˈælkeɪn/
 核心：有机化学术语，指"烷烃"——碳原子之间全是单键、氢原子挂满的
 饱和烃。甲烷、乙烷、丙烷都是，天然气和石油的主要成分。
 ① Methane, the simplest alkane, seeps out of landfill sites for decades after they close.
@@ -17,6 +18,7 @@ alkene = 烯烃（含双键）
 alkyne = 炔烃（含三键）
 
 alkene
+/ˈælkiːn/
 核心：有机化学术语，指"烯烃"——碳链里至少含一个碳碳双键的不饱和烃。
 乙烯是最简单的一个，也是塑料工业的基础原料。
 ① Ethene, an alkene given off by ripening fruit, is why one brown banana spoils the whole bunch.
@@ -162,6 +164,7 @@ An all-pervading smell of paint made the whole floor unusable.
 = 一股无孔不入的油漆味，让整层楼都没法用。
 
 all-clear
+/ˌɔːl ˈklɪə(r)/
 核心：指"解除警报的信号"——危险过去了，可以恢复正常。原本是空袭
 警报解除的那声长鸣，现在也用于医学检查结果没问题。固定搭配
 give the all-clear 和 get the all-clear。
@@ -178,6 +181,7 @@ get the all-clear = 得到放行
 前面通常加定冠词，跟 give 或 get 搭配。
 
 all-consuming
+/ˌɔːl kənˈsjuːmɪŋ/
 核心：形容词，指"占去一个人全部心神的"——某件事或某种情绪大到
 容不下别的，多半带担忧的口气。放在名词前面。
 ① Her work became all-consuming, and friends stopped expecting her at birthdays.
@@ -195,6 +199,7 @@ all-consuming = 占去全部心神的（含担忧）
 absorbing = 引人入胜的（中性偏褒）
 
 all-embracing
+/ˌɔːl ɪmˈbreɪsɪŋ/
 核心：形容词，指"无所不包的"——一个说法、体系或计划把所有情况都
 涵盖进去了，没有漏在外面的。
 ① The theory is all-embracing, which is exactly why critics say it explains nothing in particular.
@@ -212,6 +217,7 @@ all-embracing = 无所不包的（一个不落）
 comprehensive = 全面的（通用，中性）
 
 all-important
+/ˌɔːl ɪmˈpɔːtənt/
 核心：形容词，指"至关重要的"——在一堆因素里就数它决定成败。
 加强语气用的，放在名词前面。
 ① In comedy, timing is all-important: the same line lands or dies by a half-second.
@@ -229,6 +235,7 @@ all-important = 至关重要的（加强语气）
 crucial = 关键的（通用）
 
 all-in-one
+/ˌɔːl ɪn ˈwʌn/
 核心：形容词兼名词，指"多合一的"——一件东西把好几样功能或部件
 合在一起。打印机、洗发水、连体衣都能这么说。
 ① She bought an all-in-one printer that scans and copies, and it takes up half the desk.
@@ -246,6 +253,7 @@ all-in-one = 多合一的（功能合并）
 multipurpose = 多用途的（一物多用）
 
 all-inclusive
+/ˌɔːl ɪnˈkluːsɪv/
 核心：形容词，旅游业里指"一价全包的"——房费、三餐、饮料和活动
 都算在报价里，到了不用再掏钱。也泛指"把所有项目都包括在内的"。
 ① They booked an all-inclusive holiday so they wouldn't have to think about money for a week.
@@ -263,6 +271,7 @@ all-inclusive = 一价全包的（不再另付）
 self-catering = 自炊式的（不含餐）
 
 all-nighter
+/ˌɔːl ˈnaɪtə(r)/
 核心：非正式名词，指"通宵"——为了赶工、复习或玩乐整夜不睡。
 固定搭配 pull an all-nighter。
 ① He pulled an all-nighter before the exam and could barely read the questions by morning.
@@ -279,6 +288,7 @@ do an all-nighter = 通宵赶工
 非正式口语。
 
 all-or-nothing
+/ˌɔːl ɔː ˈnʌθɪŋ/
 核心：形容词，指"要么全有要么全无的"——中间没有折中余地。
 说人时指那种非黑即白的思维方式。
 ① It was an all-or-nothing gamble: he remortgaged the house to fund one last season.
@@ -296,6 +306,7 @@ all-or-nothing = 全有或全无（无折中）
 compromise = 折中（各让一步）
 
 all out
+/ˌɔːl ˈaʊt/
 核心：副词短语，指"全力以赴地"，常说 go all out。写成带连字符的
 all-out 时是形容词，指"全面的、倾尽全力的"，多用于战争与冲突。
 ① They went all out to win and had nothing left for the second leg.
@@ -313,6 +324,7 @@ all-out strike = 全面罢工
 作副词分写，作定语带连字符。
 
 all-powerful
+/ˌɔːl ˈpaʊəfəl/
 核心：形容词，指"全能的、大权在握的"——权力大到没有任何制约。
 说神、说君主、说垄断机构都行，用在世俗对象上时常带批评口气。
 ① Within a decade the company became all-powerful, and no supplier dared question its terms.
@@ -329,6 +341,7 @@ all-powerful = 全能的、一手遮天的
 omnipotent = 全能的（神学正式说法）
 
 all-purpose
+/ˌɔːl ˈpɜːpəs/
 核心：形容词，指"通用的、什么都能对付的"——一样东西不专门针对
 某一种用途，各种场合都能凑合用。
 ① One bottle of all-purpose cleaner does the kitchen, the bathroom and the windows.
@@ -348,6 +361,7 @@ all-purpose = 通用的（各种用途都行）
 specialized = 专用的（只对一种用途）
 
 all right
+/ˌɔːl ˈraɪt/
 核心：三条线：状态"没事的"、质量"还行"、以及表示同意的"好吧"。
 标准写法是分开两个词——alright 虽常见但不被正式文体接受。
 ① Are you all right? You have been staring at the same page for twenty minutes.
@@ -366,6 +380,7 @@ turn out all right = 结果没问题
 正式文体用 all right（两个词）。
 
 all-round
+/ˌɔːl ˈraʊnd/
 核心：指人"全能的、多面手的"，或表现"全面的"。英式用法，
 美式说 all-around。只作定语。
 ① He is an all-round athlete who swims, cycles and still finds time to play cricket.
@@ -385,6 +400,7 @@ An all-rounder bats at six, bowls at first change and fields everywhere.
 = 多面手排第六位击球，第一次换人时投球，守哪儿都行。
 
 all-star
+/ˈɔːl stɑː(r)/
 核心：形容词，指"全明星的"——阵容里都是名角或顶尖选手。
 体育里的 all-star game 是把各队最好的球员凑成两队打的表演赛。
 ① The film has an all-star cast, and the studio spent more on salaries than on everything else.
@@ -400,6 +416,7 @@ all-star game = 全明星赛
 体育与娱乐报道用语。
 
 all-terrain vehicle
+/ˌɔːl təreɪn ˈviːəkəl/
 核心：指"全地形车"——四轮、宽胎、跨骑式的小型越野车，能在沙地、
 泥地和山路上跑。常缩写，形容词 all-terrain 也单用。
 ① They rented an all-terrain vehicle to reach the cabin once the snow closed the road.
@@ -417,6 +434,7 @@ all-terrain vehicle = 全地形车（四轮跨骑）
 off-road vehicle = 越野车（含普通汽车）
 
 all-time
+/ˈɔːl taɪm/
 核心：形容词，指"有史以来的"——放在最高级前面加强语气，说的是
 纪录、高点、低点这一类。只作定语。
 ① Prices hit an all-time high in August and then fell back within a fortnight.
@@ -432,6 +450,7 @@ all-time favourite = 一直以来最喜欢的
 只作定语，后面多接最高级。
 
 all-weather
+/ˌɔːl ˈweðə(r)/
 核心：形容词，指"全天候的"——什么天气都能用、都不受影响。
 说场地、涂料、轮胎和衣物。
 ① They laid an all-weather pitch so the season no longer stops for a week of rain.

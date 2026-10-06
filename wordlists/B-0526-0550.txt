@@ -1,4 +1,5 @@
 agape
+/əˈɡeɪp/
 核心：指嘴巴"张大着"，通常因为惊讶。只作表语，
 几乎只和 mouth 或 with astonishment 连用。
 ① He stood with his mouth agape while the water came up over the step.
@@ -16,6 +17,7 @@ agape = 张着嘴（惊讶）
 gaping = 张大的（口子、缺口）
 
 agar
+/ˈeɪɡɑː(r)/
 核心：从海藻里提出来的胶质，遇热化开、冷却成冻。实验室拿它做细菌
 培养基，厨房里当素食凝固剂，代替明胶。也写作 agar-agar。
 ① Bacteria grow on agar plates that have to be poured the same morning.
@@ -35,6 +37,7 @@ agar = 琼脂（海藻提取，素食可用）
 gelatin = 明胶（动物胶原提取）
 
 agaric
+/ˈæɡərɪk/
 核心：真菌学名词，指伞菌——有菌柄和菌褶的那一类蘑菇。最有名的是
 fly agaric，就是童话插画里红伞白点的那种毒蘑菇。
 ① The fly agaric is red with white spots and appears in every fairy-tale book.
@@ -52,6 +55,7 @@ mushroom = 蘑菇（通称，多指可食）
 toadstool = 毒蕈（口语，多指有毒）
 
 agate
+/ˈæɡət/
 核心：指玛瑙，一种带条纹的半宝石。可数不可数都有，
 做首饰和装饰用。
 ① The ring has an agate stone that belonged to her great-grandmother.
@@ -68,6 +72,7 @@ quartz = 石英
 jade = 玉
 
 agave
+/əˈɡɑːvi/
 核心：一种原产美洲的多肉植物，叶子厚、边缘带刺，呈莲座状铺开。
 龙舌兰酒和龙舌兰糖浆都出自它。西班牙语借词，重音在第二个音节。
 ① Agave grows in dry soil and rots in a season if you water it.
@@ -156,6 +161,7 @@ chronological age = 按出生算的实际年龄
 注意读音：aged 作"某岁的"读一个音节，作"年老的"读两个音节。
 
 age-old
+/ˌeɪdʒ ˈəʊld/
 核心：指习俗、问题、争论"由来已久的"，只作定语。
 带连字符。常搭配 question、tradition、problem。
 ① It's an age-old question and every generation answers it differently.
@@ -209,6 +215,7 @@ aging = 老化、衰老（美式拼法）
 age = 年龄；变老
 
 ageism
+/ˈeɪdʒɪzəm/
 核心：指"年龄歧视"——因为一个人的年龄而区别对待，多指针对老年人，
 也可以指针对年轻人。构词跟 racism、sexism 是同一路。美式也拼 agism。
 ① Ageism is illegal in hiring and almost impossible to prove in a tribunal.
@@ -229,6 +236,7 @@ racism = 种族歧视
 sexism = 性别歧视
 
 ageless
+/ˈeɪdʒləs/
 核心：两条线：人"看不出年纪、不显老的"，
 和事物"永不过时的"。都是褒义。
 ① She seems ageless and refuses to say what she does about it.
@@ -320,6 +328,7 @@ a travel agent = 旅行社职员
 店面本身叫 a travel agency，人跟机构别用混。
 
 agglomeration
+/əˌɡlɒməˈreɪʃən/
 核心：指杂七杂八堆在一起的"聚集体"，正式。
 城市规划里 urban agglomeration 指城市群。
 ① It's an agglomeration of styles and no two windows are the same shape.
@@ -338,6 +347,7 @@ cluster = 集群（有关联）
 collection = 集合（通用）
 
 agglutinative
+/əˈɡluːtɪnətɪv/
 核心：语言类型学术语，形容"黏着型"的语言——把一个个意义明确的词缀
 一节一节粘到词根上，每个词缀只管一件事。土耳其语、日语、芬兰语
 都属这一类。
@@ -356,6 +366,7 @@ inflectional = 屈折语（一个词尾管好几件事）
 isolating = 孤立语（靠语序，词形少变）
 
 aggrandizement
+/əˈɡrændɪzmənt/
 核心：正式名词，指"扩张权势、抬高自己"，几乎总带贬义。最常见的搭配
 是 self-aggrandizement，说一个人一味给自己脸上贴金。英式拼 aggrandisement。
 ① He accused them of self-aggrandizement in a speech mostly about himself.
@@ -394,6 +405,7 @@ worsen 变糟（通用）
 exacerbate 加剧（学术）
 
 aggravating
+/ˈæɡrəveɪtɪŋ/
 核心：两条线，对应动词的两个义：一是法律上的"加重情节的"
 （aggravating circumstances），二是口语的"讨厌的"。
 ① There were aggravating circumstances and the sentence was doubled.
@@ -410,6 +422,7 @@ aggravate = 加重；惹恼
 aggravation = 恶化；烦扰
 
 aggravation
+/ˌæɡrəˈveɪʃən/
 核心：两条线：情况的"恶化"（正式），和日常的"麻烦、烦心事"
 （口语，常用不可数）。
 ① The aggravation of the injury was serious enough to end his season.
@@ -458,6 +471,7 @@ Aggregate demand fell for three quarters and the shops noticed first.
 news aggregator = 新闻聚合平台
 
 aggregation
+/ˌæɡrɪˈɡeɪʃən/
 核心：指把分散的东西"汇集起来"这个过程或结果。
 数据、新闻、需求都能 aggregate。学术和技术语境常用。
 ① Data aggregation raises privacy issues that no single record does.
@@ -529,6 +543,7 @@ aggression = 侵略；攻击性
 aggressively = 强势地、激进地
 
 aggressively
+/əˈɡresɪvli/
 核心：两条线，和形容词一样有褒贬两面：贬义的"咄咄逼人地"，
 和商业语境的"积极进取地"。
 ① He responded aggressively to a question that had been asked politely.

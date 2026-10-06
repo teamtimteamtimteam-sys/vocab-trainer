@@ -1,4 +1,5 @@
 amenable
+/əˈmiːnəbəl/
 核心：两条线：人"愿意听劝、好商量的"（amenable to），
 和事物"可用某种方式处理的"（amenable to treatment）。
 ① She is amenable to suggestions, provided you bring them before the plan is drawn up.
@@ -58,6 +59,7 @@ The tabled amendment changed two words and the whole meaning.
 = 提交的修正案改了两个词，意思全变了。
 
 amends
+/əˈmendz/
 核心：只用复数，且几乎只出现在 make amends 这个搭配里，
 意为"赔罪、补偿"。介词用 for 或 to。
 ① He tried to make amends by turning up every Sunday for a year.
@@ -75,6 +77,7 @@ amend = 修订
 注意：amend 和 amends 意思不同。
 
 amenity
+/əˈmiːnɪti/
 核心：指让生活更方便舒适的"配套设施"，房地产和酒店语境高频，
 几乎总用复数 amenities。
 ① The hotel has excellent amenities and a car park you can never get into.
@@ -93,6 +96,7 @@ facilities 设施（功能性场所）
 features 特色（卖点）
 
 amenorrhoea
+/eɪˌmenəˈrɪə/
 核心：医学名词，指"闭经"——该来月经却不来。原发性指从没来过，
 继发性指本来有、后来停了。美式拼 amenorrhea。
 ① Stress can cause amenorrhoea, and it often resolves once the cause is dealt with.
@@ -109,6 +113,7 @@ amenorrhea = 闭经（美式）
 妇科术语。
 
 Amerasian
+/ˌæməˈreɪʒən/
 核心：指"美亚混血儿"，特指二十世纪美军驻亚洲期间，美国军人与
 当地女性所生的孩子，越战之后这个词用得最多。
 ① Many Amerasians sought US citizenship decades after the war that produced them had ended.
@@ -159,6 +164,7 @@ The menu has been Americanized and the portions show it.
 日常几乎专指美国，泛指美洲要看上下文。
 
 Amerindian
+/ˌæməˈrɪndiən/
 核心：指"美洲印第安人的、美洲原住民的"，由 American 和 Indian
 合成。学术语境里用得较多；日常在美国多说 Native American，
 在加拿大说 First Nations。
@@ -177,6 +183,7 @@ Amerindian = 美洲原住民的
 Indian = 印度的（也旧指美洲原住民，今避免）
 
 amethyst
+/ˈæmɪθɪst/
 核心：一种紫色的石英宝石，颜色从淡紫到深紫，是二月的诞生石。
 古人以为它能防醉，名字就是从"不醉"来的。
 ① She wore an amethyst ring that had been her grandmother's and never fitted either of them.
@@ -191,6 +198,7 @@ a variety of quartz = 石英的一种
 宝石与矿物名称。
 
 amiable
+/ˈeɪmiəbəl/
 核心：指人"和蔼可亲、好相处"，褒义。多形容性情和态度。
 注意别和 amicable（关系友好、气氛和睦）混——一个说人，一个说关系。
 ① He is an amiable man who has never fallen out with anyone in the village.
@@ -216,6 +224,7 @@ amiability = 和蔼可亲
 amiably = 和气地
 
 amicable
+/ˈæmɪkəbəl/
 核心：指关系或过程"和睦无争的"，说的是关系不是人——
 这是它和 amiable（性情和善，说人）的关键分工。
 ① They reached an amicable settlement on the courtroom steps, minutes before the hearing.
@@ -254,6 +263,7 @@ amidst 略偏文学。
 amidships = 在船身中部
 
 amidst
+/əˈmɪdst/
 核心：和 amid 完全同义，都是"在…之中"，
 但 amidst 略偏文学和英式。
 ① He stood amidst the ruins of a house he had been born in.
@@ -271,6 +281,7 @@ while / whilst
 toward / towards
 
 amigo
+/əˈmiːɡəʊ/
 核心：西班牙语借来的"朋友"，英语里多半带调侃或随意的口气，
 用作称呼语。复数 amigos。
 ① Thanks, amigo, I owe you one and I will not forget it.
@@ -288,6 +299,7 @@ mate = 伙计（英式口语）
 buddy = 哥们（美式口语）
 
 amir
+/əˈmɪə(r)/
 核心：阿拉伯语借词，指穆斯林国家的"埃米尔"——统治者、王公或军事
 首领的称号。也拼作 emir，那是更常见的写法。
 ① The amir received the delegation in a hall built for four times as many people.
@@ -305,6 +317,7 @@ emir = 埃米尔（通行拼法）
 中东与伊斯兰世界的称号。
 
 Amish
+/ˈɑːmɪʃ/
 核心：北美的一个基督教再洗礼派群体，以拒用现代技术著称——不接电、
 不开汽车、穿素色手工衣物，用马车代步，讲一种德语方言。
 作形容词也作集合名词。
@@ -339,6 +352,7 @@ take amiss = 误解、见怪
 注意：amiss 只作表语。
 
 amity
+/ˈæmɪti/
 核心：正式名词，指国与国或群体之间的"和睦、友好"。多出现在条约
 名称和外交辞令里，日常不用。不可数。
 ① The treaty of amity was signed in 1815 and held for the better part of a century.
@@ -357,6 +371,7 @@ friendship = 友谊（通用）
 enmity = 敌意（反义）
 
 ammeter
+/ˈæmiːtə(r)/
 核心：测电流用的仪表，读数单位是安培。要串在电路里用，跟测电压的
 表接法正好相反。
 ① Connect the ammeter in series, because putting it across the supply will destroy it.
@@ -374,6 +389,7 @@ ammeter = 电流表（串联接入）
 voltmeter = 电压表（并联接入）
 
 ammo
+/ˈæməʊ/
 核心：ammunition 的口语缩略，指"弹药"。不可数。比喻着用时指
 辩论或攻击时手里的"材料、把柄"。
 ① They ran out of ammo halfway through the level and had to finish it with a crowbar.
@@ -391,6 +407,7 @@ ammo = 弹药（口语）
 ammunition = 弹药（正式）
 
 ammonia
+/əˈməʊniə/
 核心：化学物质氨，有强烈刺鼻气味，用于清洁剂和化肥。
 不可数。化学式 NH₃。
 ① Ammonia has a sharp smell that clears a room faster than any warning sign.
@@ -406,6 +423,7 @@ sharp smell = 刺鼻气味
 英文写作 never mix ammonia and bleach。
 
 ammonite
+/ˈæmənaɪt/
 核心：一种已灭绝的海洋软体动物，壳盘成螺旋、内部分隔成一室室，
 是中生代地层里最常见的标准化石。名字来自古埃及那位羊角神的形象。
 ① The cliff yields ammonite fossils after every winter storm strips a layer away.
@@ -420,6 +438,7 @@ die out = 灭绝
 古生物学与地质学名称。
 
 ammonium
+/əˈməʊniəm/
 核心：化学名词，指"铵"——氨得到一个氢离子后形成的正离子，
 自己不单独存在，总是跟酸根结合成盐。化肥里到处是它。
 ① Ammonium nitrate is a common fertilizer and, stored badly in quantity, a notorious hazard.
@@ -437,6 +456,7 @@ ammonium = 铵（离子）
 ammonia = 氨（气体分子）
 
 ammunition
+/ˌæmjʊˈnɪʃən/
 核心：字面指"弹药"，不可数——这是高频错误点，不说 ammunitions。
 比喻义指论战中可用的"把柄、材料"。口语缩写 ammo。
 ① The inquiry found that the battalion ran out of ammunition on the second day.

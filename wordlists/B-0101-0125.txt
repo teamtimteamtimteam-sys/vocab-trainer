@@ -44,6 +44,7 @@ absent-mindedly = 心不在焉地
 in absentia = 缺席地（拉丁语）
 
 absent-minded
+/ˌæbsənt ˈmaɪndɪd/
 核心：指人"总是心不在焉、容易忘事"，是性格特征而非一时状态。
 带连字符。常和教授、科学家的刻板印象连用。
 ① He is absent-minded and has locked himself out four times this year.
@@ -61,6 +62,7 @@ absent-minded = 健忘走神（长期特征）
 distracted = 分心（一时）
 
 absentee
+/ˌæbsənˈtiː/
 核心：指该到而没到的人。三个高频搭配：absentee landlord（不住在
 当地的房东）、absentee ballot（缺席选票，美式）、absentee rate。
 ① The absentee was marked down in a register nobody ever checked.
@@ -78,6 +80,7 @@ absence = 缺席
 absenteeism = 旷工现象
 
 absenteeism
+/ˌæbsənˈtiːɪzəm/
 核心：指普遍性的"旷工、旷课"现象，不是某一次缺席——这是它和
 absence 的关键差别。管理和教育统计里高频。不可数。
 ① Absenteeism is a growing problem in a workforce that has never been asked why.
@@ -93,6 +96,7 @@ absence = 一次缺席（具体）
 absenteeism = 旷工现象（普遍、统计）
 
 absently
+/ˈæbsəntli/
 核心：指"心不在焉地"做某事，多修饰 nod、stare、stir 这类
 不用动脑的小动作。和 absent-minded 同源。
 ① He nodded absently at a question he had not taken in at all.
@@ -109,6 +113,7 @@ absence = 缺席
 不是人不在场。
 
 absinthe
+/ˈæbsɪnθ/
 核心：一种高酒精度的苦艾酒，因十九世纪的禁令和艺术家传说而出名。
 不可数。也拼作 absinth。
 ① Absinthe was banned for decades on evidence that turned out to be worthless.
@@ -208,6 +213,7 @@ The absoluteness of that rule lasted until the first hard case.
 = 那条规矩的绝对性，撑到头一个棘手案子就完了。
 
 absolution
+/ˌæbsəˈluːʃən/
 核心：宗教用语，指神职人员对忏悔者的"赦罪"。引申义指"免除责任、
 获得原谅"。不可数。
 ① The priest granted absolution and set a penance of three prayers.
@@ -227,6 +233,7 @@ forgiveness = 原谅（通用）
 pardon = 赦免（法律）
 
 absolutism
+/ˈæbsəluːtɪzəm/
 核心：两条线：政治上的"专制制度"（君主拥有绝对权力），
 和哲学上的"绝对主义"（认为存在绝对标准）。不可数。
 ① Absolutism ended with the revolution and returned in a different name.
@@ -246,6 +253,7 @@ absolute = 绝对的
 relativism = 相对主义
 
 absolve
+/əbˈzɒlv/
 核心：指"免除（责任、罪责）"，介词用 of 或 from。
 法律和宗教语境都用。常用被动。
 ① The report absolved him of blame and named two other people instead.
@@ -309,6 +317,7 @@ absorbed = 入神的（说人）
 absorbing = 引人入胜的（说事物）
 
 absorbent
+/əbˈzɔːbənt/
 核心：指材料"吸水性强的"。厨房纸、尿布、毛巾的产品说明里高频。
 名词义指"吸收剂"。
 ① Use absorbent paper and press rather than rub, or the stain spreads.
@@ -329,6 +338,7 @@ The absorbency drops after four washes and the packet says otherwise.
 water-repellent = 防水的
 
 absorbing
+/əbˈzɔːbɪŋ/
 核心：指书、电影、工作"引人入胜的"，让人不知不觉投入。
 只说事物，不说人。
 ① It's an absorbing novel and the first hundred pages give nothing away.
@@ -363,6 +373,7 @@ absorb = 吸收
 absorbent = 吸水的
 
 abstain
+/əbˈsteɪn/
 核心：两条线：投票时"弃权"，和"戒除、忌口"（abstain from）。
 后者语气比 avoid 正式，常用于酒精、食物、性行为。
 ① Three members abstained and the motion passed by a single vote.
@@ -384,6 +395,7 @@ abstinence = 节制、戒断
 abstainer = 弃权者；戒酒者
 
 abstemious
+/əbˈstiːmiəs/
 核心：正式用语，指人在饮食尤其是饮酒上"有节制的"。
 褒义。日常少用，多见于书面人物描写。
 ① He leads an abstemious life and keeps one bottle of wine for visitors.
@@ -403,6 +415,7 @@ moderate = 适度的（通用）
 temperate = 有节制的（正式）
 
 abstention
+/əbˈstenʃən/
 核心：两条线：投票时的"弃权"（可数，常用复数），
 和"戒除"这个行为（不可数，正式）。前者在议会报道里高频。
 ① There were three abstentions and the chair recorded each one by name.
@@ -441,6 +454,7 @@ abstinence = 完全戒除
 moderation = 适度节制
 
 abstinent
+/ˈæbstɪnənt/
 核心：形容人"正在戒除某物的"，医学和成瘾治疗语境里常用。
 比 abstemious 更强调"完全不碰"。
 ① He has been abstinent for a year and counts the days without meaning to.
@@ -507,6 +521,7 @@ abstractly = 抽象地
 abstraction = 抽象；提炼出的概念；出神
 
 abstracted
+/æbˈstræktɪd/
 核心：指人"心不在焉、走神的"，和形容词 abstract（抽象的）
 意思完全不同——这是同一个词的两个身份，容易读错。
 ① He had an abstracted look and answered a question nobody had asked.
@@ -528,6 +543,7 @@ distracted = 分心（受干扰）
 abstractedly = 心不在焉地
 
 abstraction
+/æbˈstrækʃən/
 核心：三条线：抽象这个过程、抽象的"概念"本身、以及人的"出神"。
 学术写作里第一二条常见，第三条偏文学。
 ① Treating the whole network as one pipe is a useful abstraction when you need rough numbers.

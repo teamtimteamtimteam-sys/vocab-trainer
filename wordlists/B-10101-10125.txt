@@ -1,4 +1,5 @@
 geriatric
+/ˌdʒeriˈætrɪk/
 核心：三支。一是老年医学的：geriatric care 是老年照护；
 二是（正式）老年病人的；三是（口语，贬）老掉牙的 —— 说设备或做法，用要当心。
 ① The geriatric ward has more visitors than any other and fewer chairs.
@@ -13,6 +14,7 @@ geriatric = 老掉牙的（贬）
 注意语域：说人「geriatric」带侮辱意味，说病区、照护则是中性术语。
 
 geriatrician
+/ˌdʒeriəˈtrɪʃən/
 核心：老年病医生：专治老年人疾病的医师。可数。
 这一支是临床看病的，跟做老年学研究的那一支分工不同。
 ① The geriatrician cut four of his nine medicines and he walked again.
@@ -63,6 +65,7 @@ German measles = 风疹
 a German shepherd = 德国牧羊犬
 
 germane
+/dʒɜːˈmeɪn/
 核心：（正式）切题的、相关的：说某一点跟正在讨论的事直接有关，
 搭 be germane to something。多用于会议、法庭与学术语境。
 ① The question is germane and the chair ruled it out anyway.
@@ -73,6 +76,7 @@ be germane to something = 与某事切题相关
 be germane = 切题
 
 Germanic
+/dʒɜːˈmænɪk/
 核心：两支。一是日耳曼语族的：英语、德语、荷兰语与北欧诸语同属一支；
 二是（引申）带德意志味的：说作风严整、有条理，有时略带调侃。
 ① English is Germanic in its bones and French in half its vocabulary.
@@ -83,6 +87,7 @@ be Germanic = 属日耳曼语族
 Germanic = 严整有条理的（引申）
 
 germanium
+/dʒɜːˈmeɪniəm/
 核心：锗：类金属元素，符号 Ge，原子序数 32；
 早期晶体管用它，如今多用在光纤与红外镜头上。不可数。
 ① Germanium made the first transistors and silicon took the job over.
@@ -93,6 +98,7 @@ germanium = 锗
 a germanium lens = 锗镜头
 
 germicidal
+/ˌdʒɜːmɪˈsaɪdəl/
 核心：杀菌的：能杀死病菌的（溶液、紫外灯、涂层）。只作定语。
 ① A germicidal lamp runs at night in a room nobody may enter.
 = 杀菌灯夜里开着，那间屋子谁也不许进。
@@ -102,6 +108,7 @@ a germicidal lamp = 杀菌灯
 germicidal soap = 杀菌皂
 
 germicide
+/ˈdʒɜːmɪsaɪd/
 核心：杀菌剂：用来杀灭病菌的药剂。可数不可数都行。
 ① The germicide has to sit for four minutes and nobody ever waits.
 = 那种杀菌剂要停留四分钟，可谁也不肯等。
@@ -111,6 +118,7 @@ a germicide = 杀菌剂
 germicides = 杀菌剂（复数）
 
 germinate
+/ˈdʒɜːmɪneɪt/
 核心：两支。一是（种子）发芽；二是（念头）萌生、开始成形。
 名词 germination。
 ① Those seeds germinate in four days and rot in five if the tray is wet.
@@ -121,6 +129,7 @@ germinate = 发芽
 germinate = 萌生
 
 germination
+/ˌdʒɜːmɪˈneɪʃən/
 核心：发芽、萌发：种子破壳长出芽来的那个过程。不可数。
 ① Germination needs warmth and dark, and the airing cupboard has both.
 = 发芽要暖和与黑暗，晾衣柜里两样都有。
@@ -130,6 +139,7 @@ germination = 发芽
 the germination rate = 发芽率
 
 gerontocracy
+/ˌdʒerɒnˈtɒkrəsi/
 核心：老人统治：由年长者把持权力的制度或集团，多带批评意味。
 可数，复数 gerontocracies。
 ① The committee is a gerontocracy and the youngest member is fifty-eight.
@@ -140,6 +150,7 @@ a gerontocracy = 老人统治
 gerontocracies = 老人统治（复数）
 
 gerontocratic
+/dʒəˌrɒntəˈkrætɪk/
 核心：老人统治的：说制度或做派由年长者把持。只作定语，带批评意味。
 ① A gerontocratic committee took nine months to approve a new kettle.
 = 一个老人把持的委员会，批一把新水壶批了九个月。
@@ -149,6 +160,7 @@ a gerontocratic committee = 老人把持的委员会
 gerontocratic habits = 老人统治的习气
 
 gerontologist
+/ˌdʒerɒnˈtɒlədʒɪst/
 核心：老年学研究者：研究衰老过程及其社会影响的学者。可数。
 ① The gerontologist followed four hundred people for thirty years.
 = 那位老年学研究者跟踪了四百个人，跟了三十年。
@@ -161,6 +173,7 @@ gerontologist = 老年学研究者（做研究）
 geriatrician = 老年病医生（看病）
 
 gerontology
+/ˌdʒerɒnˈtɒlədʒi/
 核心：老年学：研究人如何变老、以及衰老在社会与经济上的后果。不可数。
 ① Gerontology started as biology and became mostly economics.
 = 老年学起初是生物学，后来大半成了经济学。
@@ -170,6 +183,7 @@ gerontology = 老年学
 teach gerontology = 教老年学
 
 gerrymander
+/ˈdʒerimændə(r)/
 核心：（贬）为选举私利划分选区：把选区边界画得奇形怪状，
 好让某一方稳赢。动词与名词同形；名词也指划出来的那种怪形选区。
 词源是一位州长名字加蝾螈的形状，如今只剩贬义。
@@ -185,6 +199,7 @@ jerrymander = 不公正地划分选区（旧式拼法）
 「jerrymander」是较旧的英式拼法，与 g 打头的写法同义同音。
 
 gerrymandering
+/ˈdʒerimændərɪŋ/
 核心：（贬）选区划分操纵：为让某一方占便宜而画选区边界的做法。不可数。
 ① Gerrymandering decides more seats than any campaign ever does.
 = 选区划分操纵决定的席位，比任何一场竞选都多。
@@ -198,6 +213,7 @@ jerrymander = 不公正地划分选区（旧式拼法）
 「jerrymander」「jerrymandering」是较旧的英式拼法，意思与 g 打头的写法完全相同。
 
 gerund
+/ˈdʒerənd/
 核心：动名词：动词加 -ing 后当名词用的那个形式 ——
 Swimming is cheap 里的 swimming 就是。可数，语法术语。
 跟现在分词的分别在职能：动名词占名词的位置，分词修饰名词或构成时态。
@@ -209,6 +225,7 @@ a gerund = 动名词
 take a gerund = 接动名词
 
 gestalt
+/ɡəˈʃtælt/
 核心：格式塔、整体：整体呈现出来的样子，大于各部分之和 ——
 心理学借自德语。多作单数，说 the gestalt of something。
 ① The gestalt of that room changes completely when one chair moves.
@@ -219,6 +236,7 @@ the gestalt of something = 某物的整体感
 gestalt therapy = 格式塔疗法
 
 gestate
+/dʒeˈsteɪt/
 核心：两支。一是（正式）怀胎、妊娠：说动物或人怀着胎儿；
 二是（比喻）（想法、计划）在心里慢慢成形。名词 gestation。
 ① Elephants gestate for nearly two years and give birth standing up.
@@ -229,6 +247,7 @@ gestate = 怀胎
 gestate = 慢慢成形
 
 gestation
+/dʒeˈsteɪʃən/
 核心：三支。一是妊娠期：怀胎从受孕到生产那一段；
 二是（比喻）酝酿期；三是（医学）孕周：说胎儿多大。不可数。
 ① The gestation of a horse is eleven months and nobody hurries it.
@@ -242,6 +261,7 @@ a long gestation = 漫长的酝酿期
 weeks' gestation = 孕周
 
 gesticulate
+/dʒeˈstɪkjʊleɪt/
 核心：（用手臂）比划：说话时大幅度地挥手打手势，
 多半是因为着急、激动或语言不通。名词 gesticulation。
 ① He gesticulated at the map until somebody finally understood the street.
@@ -252,6 +272,7 @@ gesticulate at something = 对着某物比划
 gesticulate through something = 隔着某物比划
 
 gesticulation
+/dʒeˌstɪkjʊˈleɪʃən/
 核心：打手势、比划：用手臂大幅比画这件事，也指比画出来的那些动作。
 可数不可数都行，略正式。
 ① The gesticulation told the story and the words got in the way.
@@ -281,6 +302,7 @@ an empty gesture = 空洞的姿态
 gesture towards something = 朝某处示意
 
 gesundheit
+/ɡəˈzʊndhaɪt/
 核心：（美式，德语借词）「保重」：别人打喷嚏时说的一句，
 跟 bless you 同用。感叹词，不变形。
 ① Somebody said gesundheit from two desks away and went back to work.

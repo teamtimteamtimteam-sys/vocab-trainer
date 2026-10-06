@@ -47,6 +47,7 @@ auxiliary = 辅助的（同义）
 supplementary = 补充的
 
 and
+/ənd/（弱读）/ænd/（强读）
 核心：最基本的并列连词，难点不在"和"，而在它还能表出好几层
 逻辑关系，全靠语序和句型定：两件事排先后就是"然后"，前因后果
 就是"于是"，祈使句后面跟 and 就成了条件句，同一个词重复连接
@@ -78,6 +79,7 @@ try and do = 试着做（口语，等于 try to do）
 注意：这个句式重音落在第二个词上。
 
 and/or
+/ˌænd ˈɔː(r)/
 核心：法律与技术文书里的写法，意思是"两者之一，或两者皆可"——
 写成 A and/or B，表示只有 A、只有 B、A 加 B 三种情况都算数。
 它存在的理由就是堵住只写 and 或只写 or 会漏掉一种情况的口子。
@@ -94,6 +96,7 @@ and/or = 二者之一或二者皆可
 读的时候念成两个词，中间那道斜杠不发音。
 
 andante
+/ænˈdænteɪ/
 核心：意大利语借词，字面是"走着的"，所以指"行板"——比慢板快、
 比快板慢，大致是从容步行的速度。作副词和形容词标演奏速度，
 作名词指一段行板乐章。
@@ -115,6 +118,7 @@ andante = 行板（步行速度）
 allegro = 快板（轻快）
 
 Anderson shelter
+/ˈændəsən ʃeltə(r)/
 核心：二战期间英国家庭用的简易防空洞——半埋在后院地下，
 上面拱着波纹钢板再覆土，能挡住炸弹的冲击与破片，但挡不住直击。
 以当时负责民防的大臣安德森命名，政府免费发给低收入家庭。
@@ -130,6 +134,7 @@ be issued free = 免费发放
 英国二战史用语，以人名命名故大写。
 
 Andorran
+/ænˈdɔːrən/
 核心：指"安道尔的、安道尔人"。安道尔是夹在法国和西班牙之间的
 比利牛斯山小国，官方语言是加泰罗尼亚语。
 ① She is Andorran by birth and holds a passport that puzzles most border officials.
@@ -143,6 +148,7 @@ Andorran ski resort = 安道尔滑雪场
 指国族时首字母大写。
 
 androgen
+/ˈændrədʒən/
 核心：指"雄激素"——睾酮那一类促成男性特征的激素。男女体内都有，
 只是量差得多。它管的是肌肉量、体毛、变声和皮脂分泌。
 ① Androgens drive muscle growth, which is why they are banned in almost every sport.
@@ -160,6 +166,7 @@ androgen = 雄激素
 oestrogen = 雌激素
 
 androgynous
+/ænˈdrɒdʒɪnəs/
 核心：底层是"男女两性合在一起"——外表或气质上分不出、也不必分
 男女。说打扮、说长相、说时装风格时最常用，多是中性甚至褒义的
 描述。名词是 androgyny。
@@ -201,6 +208,7 @@ robot = 机器人（通称，不必像人）
 cyborg = 赛博格（人机结合体）
 
 anecdotal
+/ˌænɪkˈdəʊtəl/
 核心：指证据"只是个例、没有系统性的"，学术语境里基本是批评。
 也指内容"多是趣闻轶事的"。
 ① That's anecdotal evidence and the committee treated it as proof.
@@ -237,6 +245,7 @@ anecdotal = 轶事性的
 基本是负面评价。
 
 anemia
+/əˈniːmiə/
 核心：anaemia 的美式拼法，指"贫血"——血里的红细胞或血红蛋白不够，
 带氧能力下降，人就乏力、气短、脸色发白。形容词 anemic 除了本义，
 还常比喻着用，说业绩或表演"没劲、没气力"。
@@ -257,6 +266,7 @@ anemia = 贫血（美式）
 anaemia = 贫血（英式）
 
 anemometer
+/ˌænɪˈmɒmɪtə(r)/
 核心：测风速的仪器，气象站上转个不停的那三只小杯就是。
 词根来自希腊语的"风"，跟 anemone 同源。
 ① The anemometer recorded gale-force winds an hour before the storm reached the coast.
@@ -295,6 +305,7 @@ anemone fish = 海葵鱼、小丑鱼
 说海葵时常带上 sea 以免跟花混淆。
 
 aneroid
+/ˈænərɔɪd/
 核心：形容词，字面是"不用液体的"，专门修饰那种"无液气压计"——
 靠一个抽了气的金属膜盒随气压胀缩来推动指针，不像老式气压计
 那样得灌水银。轻便，登山表和家用晴雨表都用它。
@@ -311,6 +322,7 @@ aneroid barometer = 无液气压计
 仪器与气象术语。
 
 anesthetic
+/ˌænəsˈθetɪk/
 核心：anaesthetic 的美式拼法，指"麻醉剂"，也作形容词指"麻醉的"。
 按作用范围分两种：全身麻醉让人失去意识，局部麻醉只麻住一块地方。
 同一族的词全部照这个拼法走：anesthesia 是麻醉状态，
@@ -341,6 +353,7 @@ anesthetic = 麻醉剂（美式）
 anaesthetic = 麻醉剂（英式）
 
 aneurysm
+/ˈænjʊrɪzəm/
 核心：指"动脉瘤"——血管壁被血压顶出一个鼓包，像轮胎侧壁的疝气。
 鼓包本身多半没症状，危险在于它可能破裂，脑动脉瘤破了就是
 蛛网膜下腔出血。也拼作 aneurism。
@@ -429,6 +442,7 @@ angelic = 天使般的
 注意发音：重音在前，中间的辅音读作软音。
 
 angelic
+/ænˈdʒelɪk/
 核心：两条线：宗教上的"天使的"，
 和形容人"天使般纯真美好的"。后者常用来夸孩子。
 ① She has an angelic face and a vocabulary that empties the room.
@@ -446,6 +460,7 @@ angelically = 天使般地
 常带一点"看着乖"的调侃。
 
 angelica
+/ænˈdʒelɪkə/
 核心：一种高大的伞形科草本，茎中空。腌渍糖制后切成亮绿色的条，
 是蛋糕和圣诞布丁上的经典装饰；根和籽还用来给金酒和苦味酒调味。
 名字来自"天使的"，据说因为它被当作能挡瘟疫的灵药。
@@ -499,6 +514,7 @@ He shut the drawer angrily and apologised to the drawer afterwards.
 = 他生气地把抽屉关上，事后又对着抽屉道了歉。
 
 angina
+/ænˈdʒaɪnə/
 核心：医学词，指心绞痛——冠状动脉供血不足引起的胸痛。
 全称 angina pectoris。不可数。
 ① He suffers from angina and carries a spray in his coat pocket wherever he goes.
@@ -515,6 +531,7 @@ chest pain = 胸痛
 heart attack = 心肌梗死（更严重）
 
 angioplasty
+/ˈændʒiəʊplæsti/
 核心：指"血管成形术"——把带气囊的细导管顺着血管送到狭窄处，
 撑开血管恢复血流，多数还会留下一个支架撑住。冠心病最常见的
 介入治疗。

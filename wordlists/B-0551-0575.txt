@@ -1,4 +1,5 @@
 aggressor
+/əˈɡresə(r)/
 核心：指挑起冲突的一方，国际关系和法律语境用语。
 一定是负面，指"先动手的那个"。
 ① The country was named the aggressor in a resolution that changed nothing.
@@ -17,6 +18,7 @@ victim = 受害方
 defender = 防御方
 
 aggrieved
+/əˈɡriːvd/
 核心：指"因受到不公而愤懑的"。法律上 the aggrieved party
 指受害方、原告方。介词用 at 或 about。
 ① He felt aggrieved at the decision and wrote a letter he never sent.
@@ -54,6 +56,7 @@ trouble = 麻烦（通用）
 hassle = 琐碎的烦扰（口语）
 
 aghast
+/əˈɡɑːst/
 核心：指"惊骇的"，程度比 shocked 重，多因看到可怕或
 令人反感的事。只作表语。介词用 at。
 ① She was aghast at the news and had to sit down on somebody else's chair.
@@ -93,6 +96,7 @@ One agile movement got him over a wall he should not have climbed.
 = 一个灵巧的动作，让他翻过了本不该翻的墙。
 
 agility
+/əˈdʒɪlɪti/
 核心：两条线：身体的"敏捷"，和头脑或组织的"灵活应变"。
 第二条在商业语境里越来越常用。
 ① The cat moved with agility along a fence too narrow to walk on.
@@ -132,6 +136,7 @@ ageing = 老化（英式）
 形容词义既说人也说设备。
 
 agism
+/ˈeɪdʒɪzəm/
 核心：ageism 的另一种拼法，少了中间那个字母，意思完全一样，
 指"年龄歧视"。美式文本里偶尔见到，英式几乎只用全的那种拼法。
 ① Agism turns up in American style guides and almost nowhere else.
@@ -172,6 +177,7 @@ He arrived visibly agitated and would not say what had happened.
 = 他到的时候明显焦躁，又不肯说出了什么事。
 
 agitated
+/ˈædʒɪteɪtɪd/
 核心：指人"焦躁不安的"，比 nervous 更外显——坐立不安、
 语无伦次。医学上也是描述症状的词。
 ① He became agitated in the waiting room and could not sit for a minute.
@@ -191,6 +197,7 @@ anxious = 焦虑（内心）
 restless = 静不下来
 
 agitation
+/ˌædʒɪˈteɪʃən/
 核心：两条线：心理上的"焦躁不安"，和政治上的"鼓动、煽动"。
 两条都来自"搅动"这个底层。
 ① He showed signs of agitation that the nurse recorded but nobody read.
@@ -207,6 +214,7 @@ agitate = 使不安；鼓动
 agitator = 煽动者
 
 agitato
+/ˌædʒɪˈtɑːtəʊ/
 核心：音乐术语，意大利语借词，指"激动地"——标在谱上要求演奏得
 急促不安、情绪外露。作副词也作形容词，只在音乐语境里用。
 ① The passage is marked agitato and most players take it too fast.
@@ -225,6 +233,7 @@ adagio = 慢板（从容）
 allegro = 快板（轻快）
 
 agitator
+/ˈædʒɪteɪtə(r)/
 核心：指政治上的"煽动者、鼓动分子"，通常带贬义——
 说话人不认同其主张。也可指工业上的"搅拌器"。
 ① He was branded an agitator for asking who owned the land.
@@ -243,6 +252,7 @@ activist = 活动人士（中性）
 organizer = 组织者（中性）
 
 agitprop
+/ˈædʒɪtprɒp/
 核心：指"鼓动宣传"——带明确政治目的的戏剧、海报、电影这类作品，
 目的是煽动而不是说理。词由 agitation 和 propaganda 各取一半拼成，
 源自苏联，用起来多半带贬义。
@@ -261,6 +271,7 @@ agitation = 鼓动
 propaganda = 宣传
 
 agleam
+/əˈɡliːm/
 核心：文学用词，形容词，指"闪着光的"，只作表语，不放在名词前面。
 跟 aglow、aflame、afloat 是同一族构词，都只能作表语。
 ① The lake was agleam in the moonlight and dead flat from shore to shore.
@@ -280,6 +291,7 @@ aglow = 发着红光的
 aflame = 燃烧着的
 
 aglow
+/əˈɡləʊ/
 核心：只作表语，指"发着光的"或人"因喜悦或运动而容光焕发"。
 偏文学。介词用 with。
 ① The sky was aglow for twenty minutes after the sun had gone down.
@@ -296,6 +308,7 @@ glowing = 发光的（通用）
 radiant = 容光焕发的
 
 agnosia
+/æɡˈnəʊziə/
 核心：神经科名词，指"失认症"——感官本身没毛病，但大脑认不出看到、
 听到或摸到的东西是什么。按受损的感觉通道分成好几种。
 ① Visual agnosia impairs object recognition while leaving the eyes untouched.
@@ -313,6 +326,7 @@ amnesia = 失忆症（记不起来）
 aphasia = 失语症（说不出或听不懂）
 
 agnostic
+/æɡˈnɒstɪk/
 核心：宗教上指"不可知论者"——认为神是否存在无法知晓，
 和 atheist（无神论者，认为神不存在）不同。引申义指技术上
 "不挑平台的"（platform-agnostic）。
@@ -364,6 +378,7 @@ some time ago = 前些时候（注意 some time 分写）
 现在完成时不能跟 ago 连用。
 
 agog
+/əˈɡɒɡ/
 核心：指"急切期待、兴奋得不行"，只作表语，略带戏谑。
 介词用 with 或 for。
 ① The crowd was agog and the doors had not even opened yet.
@@ -382,6 +397,7 @@ eager = 急切的（通用）
 excited = 兴奋的（通用）
 
 agogo
+/əˈɡəʊɡəʊ/
 核心：法语借来的说法，作后置修饰语，意思是"多得很、要多少有多少"，
 放在名词后面。也写成 a gogo。带轻快甚至戏谑的口气。
 ① There was champagne agogo and about eleven people to drink it.
@@ -401,6 +417,7 @@ a gogo = 多得很（分写，也有带重音符的写法）
 口语化，带轻快戏谑的味道。
 
 agonize
+/ˈæɡənaɪz/
 核心：指为难以决定的事"苦苦纠结"。介词用 over 或 about。
 英式也拼 agonise。
 ① He agonized over the choice for a fortnight and then tossed a coin.
@@ -418,6 +435,7 @@ agony = 极度痛苦
 agonizing = 折磨人的
 
 agonized
+/ˈæɡənaɪzd/
 核心：指表情、喊声"充满痛苦的"。多作定语，
 修饰 cry、expression、look。
 ① He gave an agonized cry that brought two neighbours over the fence.
@@ -434,6 +452,7 @@ agonized = 充满痛苦的（美式拼法）
 词族：agony、agonize
 
 agonizing
+/ˈæɡənaɪzɪŋ/
 核心：指"折磨人的、让人难以忍受的"，可以说疼痛，
 也可以说漫长的等待或艰难的抉择。
 ① It was an agonizing wait and the news came through at ten past four.

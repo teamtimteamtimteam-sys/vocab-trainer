@@ -1,4 +1,5 @@
 afforestation
+/əˌfɒrɪˈsteɪʃən/
 核心：指"植树造林"——在原本无林的地方种上树。
 和 reforestation（重新造林，恢复被砍伐的林地）要分清。
 ① Afforestation reduces erosion on slopes that were stripped a century ago.
@@ -19,6 +20,7 @@ forest = 森林
 afforest = 造林、植树成林（动词）
 
 affray
+/əˈfreɪ/
 核心：法律用语，指在公共场所的"斗殴、闹事"。
 英国刑法里是一项具体罪名。现在日常几乎不用。
 ① He was charged with affray after a fight he had tried to break up.
@@ -36,6 +38,7 @@ brawl = 打群架（通用）
 riot = 骚乱（规模大）
 
 affricate
+/ˈæfrɪkət/
 核心：语音学术语，指"塞擦音"——发音时先把气流完全堵住，再慢慢放开
 让它摩擦着出来的辅音。英语里 church 和 judge 开头的音就是这一类。
 ① The first sound is an affricate and English learners often turn it into a stop.
@@ -52,6 +55,7 @@ stop = 塞音（完全堵断再放开）
 fricative = 擦音（气流持续摩擦）
 
 affront
+/əˈfrʌnt/
 核心：指公开的"冒犯、侮辱"，尤其伤及尊严。名词动词同形。
 介词用 to（对什么的冒犯）。
 ① It's an affront to democracy, he said, of a rule his own party had drafted.
@@ -68,6 +72,7 @@ insult = 侮辱（通用）
 offence = 冒犯（英式拼法）
 
 Afghan
+/ˈæfɡæn/
 核心：既指"阿富汗的、阿富汗人"，也指两样以它命名的东西：一种钩织的
 彩色毯子（小写 afghan），以及那种长毛细腰的猎犬。指语言时说的是
 达里语，即当地的波斯语变体。
@@ -89,6 +94,7 @@ Afghan coat = 阿富汗羊皮袄
 指国族时大写，指毯子时小写。
 
 aficionado
+/əˌfɪʃəˈnɑːdəʊ/
 核心：西班牙语借词，指某样东西的"发烧友、行家"——不只是喜欢，还懂
 门道。复数直接加字母 s。后面常接介词引出对象。
 ① He is a jazz aficionado and can name the drummer on any record you play.
@@ -107,6 +113,7 @@ fan = 粉丝（喜欢，不必懂）
 connoisseur = 鉴赏家（品味上的权威）
 
 afield
+/əˈfiːld/
 核心：只活在两个搭配里：far afield（远方）和
 further afield（更远处）。用来说搜寻或活动范围扩大。
 ① They travelled far afield and came home with almost no photographs.
@@ -121,6 +128,7 @@ further afield = 更远的地方
 构词：a- + field
 
 aflame
+/əˈfleɪm/
 核心：只作表语。字面"燃烧着的"，比喻"因情绪或色彩而炽烈"。
 比 ablaze 更偏文学。
 ① The building was aflame from the second floor upwards within ten minutes.
@@ -138,6 +146,7 @@ ablaze = 熊熊燃烧的（更常用）
 on fire = 着火的（通用）
 
 afloat
+/əˈfləʊt/
 核心：字面指"浮在水面上"，比喻指企业或人"勉强维持不倒"。
 只作表语。keep afloat 和 stay afloat 是高频搭配。
 ① The boat stayed afloat with two people bailing all the way in.
@@ -156,6 +165,7 @@ set afloat = 使漂起
 不放在名词前。
 
 aflutter
+/əˈflʌtə(r)/
 核心：形容词，只作表语，不能放在名词前面。一层指心"怦怦乱跳、
 激动不安"，一层指旗帜彩带"飘动着"。文学腔，日常少用。
 ① Her heart was all aflutter at a prospect she had been dreading for weeks.
@@ -193,6 +203,7 @@ afoot = 暗中进行（略带悬念）
 underway = 在进行中（中性）
 
 aforementioned
+/əˈfɔːmenʃənd/
 核心：极正式的法律和公文用语，指"前面提到的"。
 只作定语。日常写作里用它会显得刻板。
 ① The aforementioned clause applies to every contract signed after April.
@@ -210,6 +221,7 @@ above-mentioned = 上文提及的
 比 aforementioned 自然得多。
 
 aforesaid
+/əˈfɔːsed/
 核心：法律文书用语，和 aforementioned 同义，
 但更古旧，主要出现在合同和法条里。只作定语。
 ① The aforesaid conditions apply notwithstanding anything written elsewhere.
@@ -227,6 +239,7 @@ aforesaid / aforementioned = 上述的
 said（法律用法）= 该、上述的
 
 aforethought
+/əˈfɔːθɔːt/
 核心：法律用语，只活在 malice aforethought 这一个搭配里，意思是
 "预谋的恶意"——英美法用它区分谋杀与过失杀人。词序特别：
 它放在名词后面，不放前面。
@@ -245,6 +258,7 @@ premeditated = 有预谋的（通用，前置）
 deliberate = 故意的（强调不是意外）
 
 afoul
+/əˈfaʊl/
 核心：美式副词，几乎只用在 run afoul of 这个搭配里，意思是"触犯、
 与…相抵触"，后面多接法律、规定、当局。
 ① He ran afoul of the law over a shed he had built four inches too high.
@@ -279,6 +293,7 @@ be afraid to do = 不敢做
 I'm afraid = 恐怕（客套语）
 
 afresh
+/əˈfreʃ/
 核心：指"重新、从头再来"，正式。常和 start、begin、look 连用。
 和 again 的差别：afresh 强调"推倒重来"。
 ① They started afresh in a town where nobody knew what had happened.
@@ -341,6 +356,7 @@ African renaissance = 非洲复兴
 指非裔美国人时用复合说法，不单说这个词。
 
 Afrikaans
+/ˌæfrɪˈkɑːns/
 核心：南非的官方语言之一，由十七世纪荷兰移民带去的荷兰语演变而来，
 今天是南非和纳米比亚数百万人的母语。只指语言，不指人。
 ① He speaks Afrikaans at home and English everywhere outside the front door.
@@ -358,6 +374,7 @@ Afrikaner = 阿非利卡人（人）
 南非与纳米比亚的语言名称。
 
 Afrikaner
+/ˌæfrɪˈkɑːnə(r)/
 核心：指"阿非利卡人"——南非白人里以南非荷兰语为母语的那一支，
 多是荷兰、德国、法国移民的后裔。旧称在今天多用于历史语境。
 指人，不指语言。
@@ -395,6 +412,7 @@ Afrobeat = 非洲节拍乐
 带文化与身份认同的分量，不只是个发型名。
 
 Afrobeat
+/ˈæfrəʊbiːt/
 核心：一种音乐流派，一九六零年代末发端于尼日利亚，把约鲁巴传统鼓乐、
 爵士与放克揉在一起，曲子长、节奏绵密，常带政治歌词。注意跟后来的
 「Afrobeats」（词尾多一个字母）不是一回事，那是另一种流行乐。
@@ -412,6 +430,7 @@ Afrobeats = 非洲流行乐（二零一零年代，泛西非）
 音乐流派名称。
 
 Afrocentric
+/ˌæfrəʊˈsentrɪk/
 核心：形容词，指"以非洲为中心的"——看历史、文化和教育时把非洲与
 非洲人的经验放在中心，而不是当作欧洲叙事的边角。名词是 Afrocentrism。
 ① The course takes an Afrocentric approach and starts a thousand years earlier.
@@ -429,6 +448,7 @@ Eurocentric = 以欧洲为中心的
 学术与文化评论用语。
 
 aft
+/ɑːft/
 核心：航海与航空用语，指"在船尾、朝船尾"，既作副词也作形容词。
 跟 fore（船头）相对，固定说法 fore and aft 意思是从头到尾。
 ① The crew moved aft as the bow began to lift out of the water.

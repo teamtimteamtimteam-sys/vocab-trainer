@@ -1,4 +1,5 @@
 airer
+/ˈeərə(r)/
 核心：英式说法，指"晾衣架"——折叠的架子或墙上拉出的绳栏，
 把洗好的衣服摊开晾干。可数。美式多说 drying rack。
 ① Hang the shirts on the airer and turn them once before they go stiff.
@@ -33,6 +34,7 @@ fare = 车船票价
 ticket price = 票价（通用）
 
 airfield
+/ˈeəfiːld/
 核心：指小型的"飞机场"，通常没有航站楼，用于通用航空
 或军事。比 airport 简陋。
 ① The plane landed at a small airfield with sheep on the far side of the fence.
@@ -48,6 +50,7 @@ airfield = 小型机场、军用机场
 airstrip = 简易跑道
 
 airflow
+/ˈeəfləʊ/
 核心：指空气的"流动、气流"，不可数。
 建筑通风、汽车设计、呼吸医学都用。
 ① Good airflow keeps it cool and costs nothing once the vents are cut.
@@ -66,6 +69,7 @@ draught = 穿堂风（英式，常不受欢迎）
 breeze = 微风（自然）
 
 airfoil
+/ˈeəfɔɪl/
 核心：美式航空术语，指"翼型"——机翼、螺旋桨叶、尾翼这类横截面
 形状特殊的部件，气流经过时产生升力。英式拼 aerofoil。
 ① A propeller blade acts as an airfoil turning about its own axis.
@@ -82,6 +86,7 @@ airfoil shape = 翼型剖面
 航空工程术语。
 
 airfreight
+/ˈeəfreɪt/
 核心：指"空运"——用飞机运货，也指这样运的货物本身和运费。
 名词动词同形。也分写成 air freight。
 ① They sent the parts by airfreight and still missed the deadline by a day.
@@ -99,6 +104,7 @@ airfreight = 空运（快而贵）
 sea freight = 海运（慢而便宜）
 
 airgun
+/ˈeəɡʌn/
 核心：指用压缩空气发射弹丸的"气枪"，威力小于火药枪。
 英式也写 air gun。
 ① He owns an airgun and keeps it locked in a cabinet with the ammunition apart.
@@ -115,6 +121,7 @@ airgun = 气枪（压缩空气）
 firearm = 枪械（火药）
 
 airhead
+/ˈeəhed/
 核心：口语贬义词，指"没脑子的人、傻乎乎的人"。
 用来说人很不客气，要谨慎。
 ① Don't be such an airhead, he said, to somebody with two degrees.
@@ -152,6 +159,7 @@ air = 通风；播出
 airing cupboard = 烘物柜（英式，借热水箱余温烘干）
 
 airless
+/ˈeələs/
 核心：指房间"不通风、闷的"，也可指天体"没有空气的"。
 形容室内环境时是负面词。
 ① The room was hot and airless and the one window had been painted shut.
@@ -169,6 +177,7 @@ stuffy = 闷的（空气不新鲜）
 stifling = 令人窒息的（更重）
 
 airlift
+/ˈeəlɪft/
 核心：指用飞机紧急"空运"人员或物资，多用于救灾和撤离。
 名词动词同形。
 ① Supplies were airlifted in after the only road bridge collapsed.
@@ -208,6 +217,7 @@ airway 航路；呼吸道
 route 航线
 
 airliner
+/ˈeəlaɪnə(r)/
 核心：指大型的"定期航班客机"，比 plane 具体。
 新闻报道里常用。
 ① The airliner carried three hundred people and one very anxious dog.
@@ -224,6 +234,7 @@ aircraft = 飞行器（总称）
 airline = 航空公司
 
 airlock
+/ˈeəlɒk/
 核心：两条线：航天器或潜艇的"气闸舱"，
 和管道里堵住液体流动的"气塞"。
 ① They entered through the airlock and waited four minutes for the pressure.
@@ -240,6 +251,7 @@ The lock takes nine minutes to fill and the crew make tea.
 = 那道闸要九分钟才灌满，船员趁这工夫泡茶。
 
 airmail
+/ˈeəmeɪl/
 核心：指"航空邮寄"这种方式，不可数。
 信封上写 by airmail。现在因电子通讯而少用。
 ① Send it by airmail and it will still take about three weeks.
@@ -256,6 +268,7 @@ airmail / air mail 都可以。
 surface mail = 平邮（陆运海运）
 
 airman
+/ˈeəmən/
 核心：指空军军人，尤指非军官的士兵。
 女性用 airwoman，复数 airmen。
 ① He is an airman and has spent his whole service on the ground.
@@ -273,6 +286,7 @@ sailor = 海军水兵
 airman = 空军士兵
 
 airmiss
+/ˈeəmɪs/
 核心：航空术语，指"空中危险接近"——两架飞机靠得太近，虽然没撞上
 但已经超出安全间隔，事后必须上报调查。英式用词。
 ① The pilots reported an airmiss over a stretch of coast used by both airports.
@@ -307,6 +321,7 @@ aeroplane = 飞机（英式拼法）
 总称 aircraft（单复数同形）
 
 airplay
+/ˈeəpleɪ/
 核心：指"电台播放量"——一首歌在广播里被播出的次数和时长，
 是衡量一首歌红不红的关键指标。不可数。
 ① The song got heavy airplay and sold almost nothing for the first month.
@@ -350,6 +365,7 @@ airport lounge = 机场休息室
 airport tax = 机场税
 
 airship
+/ˈeəʃɪp/
 核心：指飞艇——靠轻于空气的气体升空、有动力可操纵的飞行器。
 和不可操纵的 balloon 区分。
 ① The airship floated overhead so slowly that people stopped to watch it.
@@ -365,6 +381,7 @@ balloon = 气球（随风飘）
 blimp = 软式飞艇（无骨架）
 
 airsick
+/ˈeəsɪk/
 核心：指坐飞机时"晕机的"。只作表语。
 和 seasick（晕船）、carsick（晕车）同一构词法。
 ① She gets airsick easily and books a seat over the wing every time.
@@ -382,6 +399,7 @@ carsick = 晕车
 homesick = 想家
 
 airspace
+/ˈeəspeɪs/
 核心：指一国主权范围内的"领空"，不可数。
 国际法和军事新闻里的核心词。
 ① The jet entered our airspace and left again within about four minutes.
@@ -399,6 +417,7 @@ territorial waters = 领海
 territory = 领土
 
 airspeed
+/ˈeəspiːd/
 核心：航空术语，指"空速"——飞机相对于周围空气的速度，跟相对地面的
 地速不是一回事，差别就在风。不可数。
 ① The airspeed dropped sharply and the stall warning sounded twice.
@@ -415,6 +434,7 @@ ground speed = 地速（相对地面）
 航空飞行术语。
 
 airstream
+/ˈeəstriːm/
 核心：底层是"成股流动的空气"，两个学科各取一段用。气象和航空里指
 大范围移动的气流，带来冷暖天气；语音学里指发音时从肺里推出来的
 那股气，声音就是靠塑造它发出来的。

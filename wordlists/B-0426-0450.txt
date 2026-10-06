@@ -1,4 +1,5 @@
 adze
+/ædz/
 核心：木工工具，指"锛子"——柄像斧头，但刃口横着装，朝使用者方向
 劈削，用来把原木修平。美式也拼作 adz。
 ① He shaped the beam with an adze and left the marks deliberately visible.
@@ -16,6 +17,7 @@ adze = 锛（刃口横装，朝自己劈）
 axe = 斧（刃口竖装，朝外劈）
 
 adzuki
+/ədˈzuːki/
 核心：日语借词，指"红小豆"，颗粒小、皮红，东亚常用来煮甜汤和做
 豆沙馅。同一种豆也拼作 aduki 或 azuki。
 ① Adzuki beans are boiled with sugar until the skins begin to split.
@@ -33,6 +35,7 @@ aduki = 红小豆（英式变体）
 一般说 adzuki bean，很少单说。
 
 aegis
+/ˈiːdʒɪs/
 核心：正式用语，只活在 under the aegis of 这个搭配里，
 意为"在…的主持或庇护下"。词源是希腊神话中宙斯的盾。
 ① The talks were held under the aegis of the UN and produced a single paragraph.
@@ -49,6 +52,7 @@ under the aegis of = 在…主持下（正式）
 under the auspices of = 在…赞助下（同义）
 
 aeolian
+/iːˈəʊliən/
 核心：形容词，指"风成的、由风造成的"，地质学里说的是风搬运堆积
 形成的地貌。词根来自希腊风神，所以 Aeolian harp（风鸣琴）也用这个
 词，那是一种靠风吹动琴弦发声的乐器。美式也拼 eolian。
@@ -68,6 +72,7 @@ aeolian = 风成的（英式）
 eolian = 风成的（美式）
 
 aeon
+/ˈiːən/
 核心：指长得难以计量的"时代、万古"，正式或文学。
 口语里用复数夸张地说"好久好久"。美式常拼 eon。
 ① The rocks formed over aeons and were quarried away in about nine years.
@@ -87,6 +92,7 @@ era = 时代（有特征）
 epoch = 纪元（地质、历史分期）
 
 aerate
+/ˈeəreɪt/
 核心：指往液体或土壤里"充气、通气"。园艺、水处理、饮料
 三个领域都用。过去分词 aerated 最常见。
 ① Aerate the soil before planting or the roots will sit in standing water.
@@ -135,6 +141,7 @@ antenna = 天线（美式）
 aerialist = 空中杂技演员
 
 aerie
+/ˈɪəri/
 核心：指猛禽筑在悬崖高处的巢，尤其是鹰巢；引申指建在高处、
 俯瞰四方的住所。英式多拼作 eyrie，美式用这个拼法。
 ① The eagle returned to its aerie with something too big to carry easily.
@@ -153,6 +160,7 @@ nest = 巢（通称）
 perch = 栖枝（落脚的高处）
 
 aerobatics
+/ˌeərəˈbætɪks/
 核心：指飞机的"特技飞行"，形式是复数。
 注意别和 acrobatics（杂技）混——一个在天上，一个在地上。
 ① The team performed aerobatics in a wind that grounded everyone else.
@@ -170,6 +178,7 @@ acrobatics = 杂技（人体）
 aerobics = 有氧操（健身）
 
 aerobic
+/eəˈrəʊbɪk/
 核心：指"有氧的"。运动上是 aerobic exercise，生物学上指需要氧气
 的生物过程。复数名词 aerobics 指"有氧健身操"。
 ① Running is aerobic exercise and walking uphill counts for rather more.
@@ -190,6 +199,7 @@ aerobic 有氧 / anaerobic 无氧
 构词：aero- 空气 + bio- 生命
 
 aerobics
+/eəˈrəʊbɪks/
 核心：指有氧健身操这项运动，形式是复数但配单数动词。
 和 aerobic（形容词，有氧的）区分。
 ① She does aerobics twice a week and has kept it up since 1994.
@@ -207,6 +217,7 @@ aerobic = 有氧的
 aerobic exercise 指有氧运动这一类。
 
 aerodrome
+/ˈeərədrəʊm/
 核心：英式说法，指规模不大的"机场、飞机场"，多用于小型飞机、私人
 飞机和早期航空的语境。大型民航机场说 airport。美式拼 airdrome。
 ① The plane landed at a small aerodrome with a grass strip and one hangar.
@@ -224,6 +235,7 @@ airport = 机场（民航客运，通用）
 airfield = 飞行场（跑道设施，含军用）
 
 aerodynamic
+/ˌeərəʊdaɪˈnæmɪk/
 核心：指"空气动力学的"，也指外形"符合流线设计、阻力小的"。
 汽车和自行车评测里高频。
 ① The car has an aerodynamic shape that adds four miles to the gallon.
@@ -240,6 +252,7 @@ aerodynamically = 在空气动力学上
 aerodynamics = 空气动力学
 
 aerodynamics
+/ˌeərəʊdaɪˈnæmɪks/
 核心：指空气动力学这门学科（配单数动词），
 也指某个物体的"空气动力特性"（配复数动词）。
 ① Aerodynamics is a branch of physics that engineers use more than physicists do.
@@ -257,6 +270,7 @@ aerodynamic = 空气动力学的
 学科义单数、特性义复数。
 
 aerofoil
+/ˈeərəfɔɪl/
 核心：英式航空术语，指"翼型"——机翼、螺旋桨叶、尾翼这类横截面
 形状特殊的部件，气流经过时能产生升力。美式拼 airfoil。
 ① The wing acts as an aerofoil at any speed above about forty knots.
@@ -275,6 +289,7 @@ fuselage = 机身（装载的舱段）
 airframe = 机体（整机结构）
 
 aerogramme
+/ˈeərəɡræm/
 核心：指"航空邮简"——一张薄纸，写完把边折起来自成信封，不必另装
 信封，邮费便宜。电子邮件普及后基本退出使用。美式拼 aerogram。
 ① She posted an aerogramme to Delhi and it arrived nine days later.
@@ -291,6 +306,7 @@ aerogram = 航空邮简（美式）
 现在很少见，多出现在旧时书信语境。
 
 aeronaut
+/ˈeərənɔːt/
 核心：指"气球或飞艇的驾驶员"——飞的是靠浮力升空的航空器，
 不是飞机。带年代感，多出现在航空史的语境里。
 ① The aeronaut crossed the Channel by balloon and landed in a ploughed field.
@@ -309,6 +325,7 @@ aviator = 飞行员（开飞机，也偏旧）
 astronaut = 宇航员（上太空）
 
 aeronautics
+/ˌeərəˈnɔːtɪks/
 核心：指航空学——研究飞行器设计与飞行的学科。
 形式是复数但配单数动词。形容词是 aeronautical。
 ① Aeronautics is taught here alongside a course in metalwork.
@@ -382,6 +399,7 @@ aero- 航空 + space 太空
 aeronautics = 航空学
 
 aerostat
+/ˈeərəstæt/
 核心：航空术语，指"轻航空器"——靠比空气轻的气体获得浮力的飞行器，
 热气球和飞艇都算。跟靠机翼产生升力的那一类正好相对。
 ① The aerostat rose above the treeline and stopped where the cable ran out.
@@ -399,6 +417,7 @@ aerodyne = 重航空器（靠升力升空）
 airship = 飞艇（有动力、可操纵）
 
 aesthete
+/ˈiːsθiːt/
 核心：指"唯美主义者、审美家"——对艺术与美格外敏感、格外讲究的人。
 语气可褒可贬：褒时说品味高，贬时说只顾好看、不问实用。
 美式也拼 esthete。
@@ -446,6 +465,7 @@ aesthetics = 美学
 aestheticism = 唯美主义
 
 aesthetically
+/iːsˈθetɪkli/
 核心：指"在美感上、从审美角度"。最高频的搭配是
 aesthetically pleasing（看着舒服）。
 ① The design is aesthetically pleasing and completely impractical to clean.
