@@ -17,6 +17,7 @@ It's the only word in that sentence spelled the way he meant it.
 注意发音：/əˈpɒstrəfi/，四个音节。
 
 apostrophize
+/əˈpɒstrəfaɪz/
 核心：修辞学动词，指"顿呼"——写作或演说中忽然掉转头去，
 直接对一个不在场的人、死者、甚至抽象事物说话。这跟标点里那个
 撇号是同一个词根，但完全是两回事。
@@ -33,6 +34,7 @@ apostrophe = 撇号；也指这种顿呼
 文学修辞术语。
 
 apothecary
+/əˈpɒθɪkəri/
 核心：旧时的"药剂师"——既配药也卖药，在没有现代药房和医生分工的
 年代，还兼着看病开方。今天只出现在历史语境和刻意复古的店名里，
 现代说 pharmacist 或 chemist。
@@ -52,6 +54,7 @@ pharmacist = 药剂师（现代，美式常用）
 chemist = 药剂师、药房（英式）
 
 apotheosis
+/əˌpɒθiˈəʊsɪs/
 核心：底层是"被抬举成神"。古罗马把死去的皇帝奉为神明就是这个词；
 引申开来指"最高境界、集大成的典范"，说某件作品或某个人是某种
 东西发展到极致的样子。复数是 apotheoses。
@@ -93,6 +96,7 @@ The app tray holds forty icons and she uses four of them.
 日常与技术语境都高频。
 
 appal
+/əˈpɔːl/
 核心：指"使震惊、使骇然"，常用被动 be appalled。
 英式拼 appal，美式拼 appall。
 ① The news appalled us so completely that nobody spoke for a full minute.
@@ -145,6 +149,7 @@ appallingly = 骇人地
 词族：appal、appalled
 
 apparatchik
+/ˌæpəˈrætʃɪk/
 核心：俄语借词，本指苏共党务机器里的"党工"，那套机器本身叫
 apparat。今天泛指任何大机构里那种循规蹈矩、只照章办事的
 "官僚办事员"，带明显贬义。复数 apparatchiks。
@@ -256,6 +261,7 @@ apparently 常暗示消息未经核实，
 apparent = 显而易见的；表面的
 
 apparition
+/ˌæpəˈrɪʃən/
 核心：指突然出现的"幽灵、幻影"，文学色彩浓。
 也泛指任何令人吃惊的突然出现。
 ① He saw an apparition at the foot of the stairs and never used that landing again.
@@ -384,6 +390,7 @@ judge by appearances = 以貌取人
 keep up appearances = 撑门面
 
 appease
+/əˈpiːz/
 核心：指为了平息对方而"姑息、绥靖"，常带贬义——
 暗示让步不该让的。历史上特指对纳粹德国的绥靖政策。
 ① They tried to appease him with a title that carried no duties and no salary.
@@ -401,6 +408,7 @@ placate = 抚慰（中性）
 pacify = 使平静（通用）
 
 appeasement
+/əˈpiːzmənt/
 核心：指"绥靖政策"——用让步换取和平。因二战前
 对希特勒的绥靖而带上强烈贬义。不可数。
 ① Appeasement failed in 1938, and the word has been an accusation ever since.
@@ -416,6 +424,7 @@ appease = 绥靖
 几乎一定是指责，不是中性描述。
 
 appellant
+/əˈpelənt/
 核心：法律名词，指"上诉人"——对原审判决不服、向上级法院提出上诉
 的那一方。跟它相对的是被上诉人 respondent。受理上诉的法院叫
 appellate court。
@@ -433,6 +442,7 @@ appellant = 上诉人（提起上诉的一方）
 respondent = 被上诉人（应诉的一方）
 
 appellate court
+/əˈpelət kɔːt/
 核心：指"上诉法院"——不重新查事实，只审下级法院有没有把法律
 适用错、程序走错。多数国家的司法体系都分初审与上诉两层，
 这一层就是第二层。
@@ -451,6 +461,7 @@ trial court = 初审法院（查事实）
 appellate court = 上诉法院（审法律适用）
 
 appellation
+/ˌæpəˈleɪʃən/
 核心：底层是"给它安的那个叫法"——正式或郑重场合用的名称、称号。
 在葡萄酒上它有个专门用法：法国的原产地命名制度就叫这个词，
 标签上的 appellation 说明这瓶酒产自哪个受管制的产区。
@@ -470,6 +481,7 @@ appellative = 称呼用的；普通名词的
 正式用语，也是葡萄酒业的专门术语。
 
 append
+/əˈpend/
 核心：正式用语，指在文件末尾"附加、增补"。
 计算机里指把数据加到列表或文件末尾。
 ① A note was appended explaining why two of the figures had been revised.
@@ -488,6 +500,7 @@ attach = 附上（通用）
 add = 添加（通用）
 
 appendage
+/əˈpendɪdʒ/
 核心：两条线：正式的"附属物、附加部分"，
 和生物学上的"附肢"（腿、触角、鳍）。
 ① It's a mere appendage to the main report and nobody on the committee read it.

@@ -1,4 +1,5 @@
 appendicitis
+/əˌpendɪˈsaɪtɪs/
 核心：医学词，指阑尾炎。不可数。
 急性阑尾炎需要手术切除阑尾（appendectomy）。
 ① He was rushed in with appendicitis on the second night of the holiday.
@@ -35,6 +36,7 @@ append = 附加
 appendicitis = 阑尾炎
 
 appertain
+/ˌæpəˈteɪn/
 核心：正式动词，指"属于、与…有关"，固定接介词说 appertain to。
 多出现在法律文书里，说某项权利、义务或职责归属于谁。
 日常几乎不用。
@@ -68,6 +70,7 @@ appetizer = 开胃菜
 appetizing = 开胃的、诱人的
 
 appetizer
+/ˈæpɪtaɪzə(r)/
 核心：指正餐前的"开胃菜、前菜"。美式常用，
 英式更常说 starter。也拼作 appetiser。
 ① We ordered appetizers to share and then found we had ordered five of them.
@@ -86,6 +89,7 @@ main course = 主菜
 dessert = 甜点
 
 appetizing
+/ˈæpɪtaɪzɪŋ/
 核心：指食物"看着诱人、让人有食欲的"。
 否定形式 unappetizing 用得同样多。
 ① The smell is appetizing from the street, which is most of why the queue exists.
@@ -229,6 +233,7 @@ apply = 应用
 applied = 应用的（applied science 应用科学）
 
 applicable
+/əˈplɪkəbəl/
 核心：指规则、条款"适用的"。介词用 to。
 表格里的 N/A 就是 not applicable（不适用）。
 ① The reduced rate is applicable to households on a single income.
@@ -312,6 +317,7 @@ pure = 纯理论的（不问用途）
 theoretical = 理论的
 
 appliqué
+/əˈpliːkeɪ/
 核心：法语借词，指"贴布绣"——把剪好的布片缝贴到底布上拼成图案，
 不是绣线绣出来的。既作名词指这种工艺和成品，也作动词。
 过去分词写作 appliquéd。词尾那个字母上的尖音符不能省。
@@ -407,6 +413,7 @@ appointment book = 预约簿
 appointment calendar = 预约日历
 
 apportion
+/əˈpɔːʃən/
 核心：正式用语，指按比例"分配、分摊"。
 最常见的搭配是 apportion blame（分摊责任）。
 ① Costs were apportioned fairly between the three departments that had asked for it.
@@ -425,6 +432,7 @@ allocate = 划拨（有计划）
 distribute = 分发（分到各处）
 
 apposition
+/ˌæpəˈzɪʃən/
 核心：底层是"并排摆在一起"。语法上指"同位语"——两个成分挨着放、
 指的是同一个东西，后一个给前一个作补充说明。形容词 appositional。
 同源的 apposite 是另一路意思：指话说得"贴切、正合适"。
@@ -468,6 +476,7 @@ evaluation = 评价（看价值）
 review = 复核（定期）
 
 appraise
+/əˈpreɪz/
 核心：指"评估、鉴定"，尤指估算价值或水平。
 注意别和 apprise（通知）混——两个词只差一个字母。
 ① An expert appraised the painting and put it at a tenth of the asking price.
@@ -490,6 +499,7 @@ appraisee = 受考评的人
 appraiser = 估价师；考评人
 
 appreciable
+/əˈpriːʃəbəl/
 核心：指数量或变化"大到看得出来的"，正式。
 和 appreciate 的"欣赏"义无关，来自"可察觉"这条线。
 ① There was an appreciable difference between the two samples by the third week.

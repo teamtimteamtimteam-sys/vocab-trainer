@@ -1,4 +1,5 @@
 isotherm
+/ˈaɪsəθɜːm/
 核心：（气象）等温线 —— 地图上连接气温相同各点的线。
 ① The isotherms on the map show how quickly the temperature drops towards the north.
 = 地图上的等温线显示出越往北气温下降得多快。
@@ -8,6 +9,7 @@ isotherms = 等温线
 the zero-degree isotherm = 零度等温线
 
 isotonic
+/ˌaɪsəˈtɒnɪk/
 核心：等渗的 —— 说运动饮料等与人体体液浓度相同、易吸收的。
 ① Runners often drink isotonic sports drinks to replace lost salts.
 = 跑步的人常喝等渗运动饮料来补充流失的盐分。
@@ -17,6 +19,7 @@ an isotonic drink = 等渗饮料
 an isotonic solution = 等渗溶液
 
 isotope
+/ˈaɪsətəʊp/
 核心：（化学、物理）同位素 —— 同一元素中质子数相同、中子数不同的原子，有的具放射性。
 ① Carbon-14 is a radioactive isotope used to find the age of ancient objects.
 = 碳十四是一种放射性同位素，用来测定古物的年代。
@@ -36,6 +39,7 @@ the Israeli government = 以色列政府
 an Israeli = 以色列人
 
 Israelite
+/ˈɪzrəlaɪt/
 核心：（历史）古以色列人 —— 《圣经》里雅各的后代，古代以色列王国的人民。跟 Israeli（现代以色列人）不同。
 ① The story tells how the Israelites escaped from Egypt.
 = 那个故事讲的是古以色列人怎样逃出埃及。
@@ -102,6 +106,7 @@ the Isthmus of Panama = 巴拿马地峡
 a narrow isthmus = 狭长的地峡
 
 it
+/ɪt/
 核心：它 —— 代词，本义指已经提到或眼前的东西、动物、情况。由此长出几个不指具体东西的用法：
 占位主语 —— 说天气、时间、距离（it's raining、it's five o'clock）；
 形式主语 / 宾语 —— 把后面的不定式、从句挪到句尾（It is important to…、I find it hard to…）；
@@ -160,6 +165,7 @@ an Italian = 意大利人
 Italian = 意大利语
 
 Italianate
+/ɪˈtæliəneɪt/
 核心：意大利风格的 —— 多说建筑、园林模仿意大利式样。
 ① The house has an Italianate tower and a garden full of statues.
 = 那座房子有一座意大利式的塔楼，花园里满是雕像。
@@ -226,6 +232,7 @@ a news item = 一条新闻
 be an item = 成了一对（口语）
 
 itemize
+/ˈaɪtəmaɪz/
 核心：逐条列出、分项开列 —— 英式也拼 -ise；多说账单、费用清单。
 ① Please itemize all your travel expenses on the form.
 = 请在表格上逐项列出你所有的差旅费用。
@@ -235,6 +242,7 @@ itemize expenses = 分项列出费用
 an itemized bill = 分项账单
 
 iterate
+/ˈɪtəreɪt/
 核心：（正式）重复、反复做；（计算机、数学）迭代。名词 iteration（重复；迭代；一个版本）
 与形容词 iterative（反复的、迭代的）并入本条。
 ① The software iterates through the list until it finds a match.
@@ -248,6 +256,7 @@ an iteration = 一轮迭代、一个版本
 an iterative process = 反复的过程
 
 itinerant
+/aɪˈtɪnərənt/
 核心：（正式）巡回的、流动的 —— 从一地到另一地谋生或工作的。也作名词：流动工人、巡回者。
 ① In the past, itinerant farm workers moved from farm to farm at harvest time.
 = 过去，流动的农场工人在收获季节从一个农场转到另一个农场。
@@ -257,6 +266,7 @@ itinerant workers = 流动工人
 an itinerant preacher = 巡回传教士
 
 itinerary
+/aɪˈtɪnərəri/
 核心：行程、旅行路线 —— 一次旅行的计划安排，包括去哪里、什么时候到。
 ① The travel agent sent us a detailed itinerary for our trip to Japan.
 = 旅行社给我们寄来了去日本旅行的详细行程。
@@ -266,6 +276,7 @@ a detailed itinerary = 详细行程
 be on the itinerary = 在行程安排里
 
 its
+/ɪts/
 核心：它的 —— it 的物主形式，没有撇号。最常见的拼写错误就是把它和 it's（it is / it has）弄混。
 ① The company has changed its name and moved its offices to Manchester.
 = 那家公司改了名，还把办公室搬到了曼彻斯特。
@@ -294,6 +305,7 @@ by itself = 自动地
 in itself = 本身、就其本身而言
 
 Ivorian
+/aɪˈvɔːriən/
 核心：科特迪瓦的；科特迪瓦人 —— Côte d'Ivoire（科特迪瓦，旧称象牙海岸）的形容词与人称。
 ① Ivorian cocoa farmers produce much of the world's chocolate.
 = 科特迪瓦的可可农生产了世界上大量的巧克力原料。
@@ -348,6 +360,7 @@ a flu jab = （英）流感疫苗针
 take a jab at somebody = 挖苦某人
 
 jabber
+/ˈdʒæbə(r)/
 核心：（贬）急促含糊地说、叽里呱啦 —— 说得又快又多，让人听不懂或觉得烦。
 ① The tourists jabbered away in a language nobody on the bus understood.
 = 游客们叽里呱啦地说着一种车上没人听得懂的语言。
@@ -357,6 +370,7 @@ jabber away = 叽里呱啦说个不停
 the jabber of voices = 叽叽喳喳的说话声
 
 jabot
+/ˈʒæbəʊ/
 核心：（衬衫、女衫胸前的）褶边装饰 —— 旧式服装里垂在领口下的花边或褶边。
 ① The judge wore a black gown with a white lace jabot at the neck.
 = 那位法官穿着黑色长袍，领口处饰着白色花边褶饰。

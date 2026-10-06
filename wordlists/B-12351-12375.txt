@@ -1,4 +1,5 @@
 insult
+/ɪnˈsʌlt/（动）/ˈɪnsʌlt/（名）
 核心：侮辱、辱骂 —— 动词重音在后，名词重音在前。
 动词：说或做冒犯人的事；名词：一句冒犯的话、一个冒犯的举动（shout insults、an insult to）。
 习语 add insult to injury（雪上加霜）已在 injury 条讲；形容词 insulting 另立。
@@ -16,6 +17,7 @@ an insult to somebody = 对某人的侮辱
 take something as an insult = 把…看作侮辱
 
 insulting
+/ɪnˈsʌltɪŋ/
 核心：侮辱性的、无礼的 —— 冒犯人的言行。常接 to。
 ① His remarks about women were deeply insulting.
 = 他对女性的评论极具侮辱性。
@@ -25,6 +27,7 @@ deeply insulting = 极具侮辱性的
 be insulting to somebody = 对某人是侮辱
 
 insuperable
+/ɪnˈsuːpərəbəl/
 核心：（正式）无法克服的 —— 说困难、障碍大到解决不了。跟 insurmountable 同义。
 ① The cost of the project proved an insuperable obstacle.
 = 项目的费用成了一个无法克服的障碍。
@@ -34,6 +37,7 @@ an insuperable obstacle = 无法克服的障碍
 insuperable difficulties = 无法克服的困难
 
 insupportable
+/ˌɪnsəˈpɔːtəbəl/
 核心：（正式）无法忍受的；站不住脚的。两支：痛苦、处境让人受不了；说法、观点无法支持。
 ① The pain became insupportable, and she called the doctor at midnight.
 = 疼痛变得难以忍受，她半夜给医生打了电话。
@@ -90,6 +94,7 @@ insure that = （美）确保
 英式在这一支只用 ensure。
 
 insurgency
+/ɪnˈsɜːdʒənsi/
 核心：叛乱、暴动 —— 反政府武装在一个地区进行的长期武装斗争。
 ① The army has been fighting an insurgency in the north for ten years.
 = 军队在北部与叛乱武装作战已有十年。
@@ -99,6 +104,7 @@ an insurgency = 叛乱
 end an insurgency = 结束叛乱
 
 insurgent
+/ɪnˈsɜːdʒənt/
 核心：叛乱者、起义者 —— 武装反抗政府的人。也作形容词：叛乱的。
 ① Insurgents attacked a police station on the edge of the city.
 = 叛乱分子袭击了城市边缘的一个警察局。
@@ -108,6 +114,7 @@ insurgents = 叛乱分子
 insurgent forces = 叛军
 
 insurmountable
+/ˌɪnsəˈmaʊntəbəl/
 核心：无法克服的、不可逾越的 —— 障碍、问题太大，没法解决。
 ① Lack of money is not an insurmountable problem; we can apply for a grant.
 = 缺钱不是解决不了的问题，我们可以申请补助。
@@ -117,6 +124,7 @@ an insurmountable problem = 无法解决的问题
 an insurmountable lead = 无法追赶的领先优势
 
 insurrection
+/ˌɪnsəˈrekʃən/
 核心：起义、暴动 —— 民众武装反抗政府。形容词 insurrectionary（起义的）并入本条。
 ① Within a week the army had crushed the insurrection and arrested its leaders.
 = 不到一周，军队就镇压了那场起义，逮捕了起义领袖。
@@ -136,6 +144,7 @@ survive intact = 完好无损
 remain intact = 完好无损
 
 intaglio
+/ɪnˈtɑːliəʊ/
 核心：凹雕、阴刻；凹版印刷 —— 在石头、金属上刻出凹下去的图案；也指用这种方法印的画。
 ① The ring has an intaglio of a lion's head cut into the stone.
 = 那枚戒指的宝石上刻着一个凹雕的狮头。
@@ -162,6 +171,7 @@ an intake of breath = 倒吸一口气
 an air intake = 进气口
 
 intangible
+/ɪnˈtændʒəbəl/
 核心：无形的、难以捉摸的 —— 摸不到、说不清，却确实存在的；商业上指无形资产。也作名词复数 intangibles。
 ① There is an intangible sense of peace in the old monastery.
 = 那座古老的修道院里有一种难以言喻的宁静感。
@@ -174,6 +184,7 @@ intangible assets = 无形资产
 intangibles = 无形因素
 
 intarsia
+/ɪnˈtɑːsiə/
 核心：（毛衣编织的）嵌花；（木工的）镶嵌细工 —— 用不同颜色的毛线或木片拼出图案的技法。
 ① She knitted a jumper with an intarsia pattern of red and white stars.
 = 她织了一件带红白星星嵌花图案的毛衣。
@@ -193,6 +204,7 @@ an integer = 整数
 a positive integer = 正整数
 
 integral
+/ˈɪntɪɡrəl/
 核心：构成整体所必需的、不可或缺的；（数学）积分。形容词：是整体的一部分、离不开（be integral to）；
 数学上的名词：积分。副词 integrally 并入本条。
 ① At the village school, music and drama are an integral part of the teaching.
@@ -254,6 +266,7 @@ the integrity of something = …的公正、完整
 structural integrity = 结构完整性
 
 intellect
+/ˈɪntəlekt/
 核心：智力、理解力；才智出众的人。不可数时指思考、理解的能力；可数时指聪明人。
 ① Even her critics admitted that the old judge was a woman of formidable intellect.
 = 连批评她的人都承认，那位老法官是个才智过人的女性。
@@ -332,6 +345,7 @@ intelligent design = 智能设计论
 一种主张生命由某种智能设计者创造的观点，科学界普遍不接受。
 
 intelligentsia
+/ɪnˌtelɪˈdʒentsiə/
 核心：知识界、知识阶层 —— 一个社会里的知识分子群体（作家、学者、艺术家），集合名词，前加 the。
 ① The country's intelligentsia met in the cafés of the capital to discuss politics.
 = 那个国家的知识界在首都的咖啡馆里聚会，讨论政治。
