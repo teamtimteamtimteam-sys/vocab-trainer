@@ -16,6 +16,7 @@ a flavour = 一种口味
 the flavour of something = 某地的气息
 
 flavoured
+/ˈfleɪvəd/
 核心：加了某种味道的：多用作后缀式合成词，lemon-flavoured。美式拼 flavored。
 ① The water is lemon-flavoured and tastes mostly of the bottle.
 = 那水是柠檬味的，喝起来主要是瓶子的味道。
@@ -25,6 +26,7 @@ lemon-flavoured = 柠檬味的
 flavoured crisps = 调味薯片
 
 flavouring
+/ˈfleɪvərɪŋ/
 核心：调味料、香精：加进食品里增味的东西。可数不可数都行。美式拼 flavoring。
 ① The flavouring is listed last and does most of the work.
 = 香精排在配料表最后，出的力却最多。
@@ -34,6 +36,7 @@ a flavouring = 调味香精
 vanilla flavouring = 香草香精
 
 flavourless
+/ˈfleɪvələs/
 核心：没味道的、寡淡的：说食物尝不出滋味。美式拼 flavorless。
 ① The tomatoes are flavourless in January and worth waiting for in August.
 = 一月的番茄寡淡无味，八月的值得等。
@@ -43,6 +46,7 @@ flavourless = 没味道的
 a flavourless sauce = 寡淡的酱汁
 
 flavoursome
+/ˈfleɪvəsəm/
 核心：（英式，褒）有滋味的、味道足的：美式拼 flavorsome。
 ① The stew is flavoursome and looks like something the dog turned down.
 = 那锅炖菜很有滋味，看着却像狗都不吃的东西。
@@ -62,6 +66,7 @@ a flaw = 瑕疵
 a fatal flaw = 致命缺陷
 
 flawed
+/flɔːd/
 核心：有缺陷的：说方案、论证，也说人物 —— deeply flawed。
 ① The method is deeply flawed and the results were quoted for a decade.
 = 那个方法有严重缺陷，结论却被引用了十年。
@@ -71,6 +76,7 @@ deeply flawed = 有严重缺陷的
 a flawed hero = 有缺陷的主角
 
 flawless
+/ˈflɔːləs/
 核心：完美无瑕的：说表演、皮肤，也说逻辑。副词 flawlessly。
 ① Her timing is flawless and her memory for names is not.
 = 她的节奏拿捏得完美无瑕，记名字可不行。
@@ -87,6 +93,7 @@ be executed flawlessly = 执行得无懈可击
 deliver something flawlessly = 讲得毫无差错
 
 flax
+/flæks/
 核心：亚麻：茎可制亚麻布、籽可榨油的作物。不可数。
 ① Flax in flower turns a whole field pale blue for about four days.
 = 亚麻开花，整块地淡蓝上四天左右。
@@ -96,6 +103,7 @@ flax = 亚麻
 grow flax = 种亚麻
 
 flaxen
+/ˈflæksən/
 核心：（书面）亚麻色的、浅金色的：几乎只修饰头发。
 ① Flaxen hair in that portrait has gone brown in every copy of it.
 = 那幅画像里的亚麻色头发，在每一份复制品里都变成了棕色。
@@ -105,6 +113,7 @@ flaxen hair = 亚麻色的头发
 flaxen = 亚麻色的
 
 flaxseed
+/ˈflæksiːd/
 核心：亚麻籽：也叫 linseed，用来榨油或直接吃。不可数。
 ① Flaxseed goes into the bread and comes out of the toaster in every direction.
 = 亚麻籽揉进面包，又从烤面包机里四处乱蹦。
@@ -117,6 +126,7 @@ Flaxseed oil goes rancid in a warm cupboard within a month.
 = 亚麻籽油放在暖和的柜子里，一个月就哈喇了。
 
 flay
+/fleɪ/
 核心：两支。一是剥皮：flay an animal；二是（书面）严厉抨击：flay somebody。
 ① The tanner flays the hide in one piece and sells the rest to the dog food man.
 = 制革匠把皮整张剥下来，其余的卖给做狗粮的。
@@ -146,6 +156,7 @@ A flea circus needed a magnifying glass and a great deal of faith.
 = 看跳蚤马戏要一把放大镜，外加十足的信心。
 
 fleabag
+/ˈfliːbæɡ/
 核心：（非正式，贬）两支。一是脏兮兮的动物；二是（美式）破旅馆。可数。
 ① The fleabag on the step turned out to be somebody's very expensive cat.
 = 台阶上那只脏兮兮的东西，原来是别人家一只很名贵的猫。
@@ -155,6 +166,7 @@ a fleabag = 脏兮兮的动物
 a fleabag hotel = 破旅馆
 
 fleapit
+/ˈfliːpɪt/
 核心：（英式，非正式，谑）破电影院：座椅塌陷、地板发黏的老影院。可数。
 ① The fleapit shows one film a week and sells tickets from a little window.
 = 那家破影院一周放一部片子，从一个小窗口卖票。
@@ -163,6 +175,7 @@ a fleapit = 破电影院
 = 镇上一半人，是在那家破影院里认识电影的。
 
 fleck
+/flek/
 核心：斑点、小片：颜色或碎屑的小点。可数，也作动词。
 ① A fleck of paint on the lens ruined nine photographs.
 = 镜头上一点漆，毁了九张照片。
@@ -172,6 +185,7 @@ a fleck = 斑点
 be flecked with something = 布着某色的斑点
 
 flection
+/ˈflekʃən/
 核心：flexion 的另一种拼法：弯曲、屈曲，多见于解剖与语言学。不可数。
 ① Flection at the knee is measured in degrees and recorded at every visit.
 = 膝关节的屈曲按度数量，每次就诊都要记录。
@@ -181,6 +195,7 @@ flection = 屈曲
 flection of a joint = 关节的屈曲
 
 fledged
+/fledʒd/
 核心：两支。一是（雏鸟）羽翼已丰的；二是 fully fledged，完全合格的、成熟的。
 ① The chicks are fledged by June and gone by the end of it.
 = 那些雏鸟六月就长齐了羽毛，月底就飞走了。
@@ -190,6 +205,7 @@ be fledged = 羽翼已丰
 fully fledged = 完全合格的
 
 fledgling
+/ˈfledʒlɪŋ/
 核心：两支。一是刚会飞的雏鸟；二是作定语，刚起步的：a fledgling company。
 ① A fledgling on the lawn brings every cat in the street.
 = 草坪上一只刚会飞的雏鸟，把整条街的猫都招来。
@@ -224,6 +240,7 @@ a fleece jacket = 抓绒外套
 fleece somebody = 宰某人一笔
 
 fleecy
+/ˈfliːsi/
 核心：绒毛般的、抓绒的：说布料柔软起绒，也说云像羊毛。
 ① Fleecy lining makes the coat warm and impossible to dry.
 = 抓绒内衬让那件外套暖和，也让它没法晾干。
@@ -233,6 +250,7 @@ fleecy lining = 抓绒内衬
 fleecy cloud = 絮状的云
 
 fleek
+/fliːk/
 核心：（俚语，多见于网络）完美到位：几乎只用在 on fleek 这个说法里。
 ① Her eyebrows are on fleek and the rest of the outfit is an afterthought.
 = 她的眉毛画得完美到位，身上其余的都是随手一凑。
@@ -256,6 +274,7 @@ a fleet of vans = 一队货车
 fleet of foot = 脚下快捷的
 
 fleeting
+/ˈfliːtɪŋ/
 核心：转瞬即逝的、短暂的：a fleeting glimpse、a fleeting moment。副词 fleetingly。
 ① A fleeting glimpse of the platform is all anybody ever got of that station.
 = 那座车站，人们看到的只是站台一闪而过。

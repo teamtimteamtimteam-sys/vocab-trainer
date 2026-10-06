@@ -308,5 +308,5 @@ coverage 就当成「lentil 条里提到了 lent」，audit-swallowed 报「lent
 提交必须写成 `bash scripts/gates.sh … && git commit …`，不能用分号接。
 
 **新写词条时**：每条词头下面直接写音标行；写完 `gates.sh` 第十三道会查这一批点名的词头有没有。
-存量的缺口只报不拦；全部补完以后把 `ipa.py check` 改成全表必须有。
+存量 2026-10-06 已全部补齐，`ipa.py check` 从此要求全表每一条都有音标，缺一条闸门就红。
 

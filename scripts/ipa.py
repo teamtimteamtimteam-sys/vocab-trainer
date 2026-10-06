@@ -328,14 +328,14 @@ def cmd_check(words):
     H = all_heads()
     bad = [(h, ip) for _, h, ip in H if ip and not valid(ip)]
     have = {h: ip for _, h, ip in H}
-    lack = [w for w in words if w in have and not have[w]]
-    total_lack = sum(1 for _, _, ip in H if not ip)
+    lack = [h for _, h, ip in H if not ip]
     if bad:
         print("【音标行格式不合法】%d 条" % len(bad))
         for h, ip in bad[:20]: print("    %-20s %s" % (h, ip))
     if lack:
-        print("【这一批缺音标】%d 条：%s" % (len(lack), ' '.join(lack)))
-    print("全表还缺音标 %d 条（存量在分批补，不计入退出码；新写的词条必须带）" % total_lack)
+        print("【缺音标】%d 条：%s" % (len(lack), ' '.join(lack[:40])))
+    else:
+        print("全表 %d 条都有音标" % len(H))
     return 1 if (bad or lack) else 0
 
 if __name__ == '__main__':
