@@ -73,3 +73,4 @@ least           # 不规则最高级，自成大词（at least、not in the leas
 lower           # 另有动词义（lower your voice、lower the price）和一批固定搭配（lower case、lower house），low 条里放不下
 monthly         # 词根 month 是名词，不是形容词；monthly 兼形容词（a monthly meeting）、副词（paid monthly）
                 # 与名词（月刊），同 daily / hourly 那两条
+mostly          # 意思是「主要地、大多」，说比例与常态；most 作副词是「最」，没有这一支（同 largely）
