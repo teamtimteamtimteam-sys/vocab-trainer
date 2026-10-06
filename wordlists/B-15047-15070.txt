@@ -1,17 +1,3 @@
-nadir
-/ˈneɪdɪə(r)/
-核心：两支。一是（书面）最低点、谷底：处境最糟的时刻，常说 reach a nadir，反义 zenith；
-二是（天文）天底：观测者正下方的那一点。单数。
-① The company's fortunes reached their nadir in the winter of that year.
-= 那家公司的境况在那年冬天跌到了谷底。
-reach a nadir = 跌到谷底
-② Relations between the two countries are at their nadir after the expulsions.
-= 互相驱逐外交官之后，两国关系降到了最低点。
-at its nadir = 处于最低点
-③ The astronomer measured the angle from the nadir to the star.
-= 那位天文学家测量了从天底到那颗星的角度。
-the nadir = 天底
-
 naff
 /næf/
 核心：两支，英式口语。一是土气的、没品位的；二是蹩脚的、不上档次的。
@@ -491,3 +477,13 @@ a nanoparticle = 纳米颗粒
 = 偏远高山的山顶积雪里，已经发现了纳米塑料。
 nanoplastics = 纳米塑料
 a nanoplastic = 一种纳米塑料微粒
+
+nanoscale
+/ˈnænəʊskeɪl/
+核心：两支。一是形容词，纳米尺度的，只作定语；二是名词，the nanoscale，纳米尺度这个量级，常说 at the nanoscale。
+① The lab builds nanoscale devices that are far too small to see.
+= 那个实验室造的是纳米尺度的器件，小得根本看不见。
+nanoscale devices = 纳米尺度的器件
+② Materials often behave quite differently at the nanoscale.
+= 在纳米尺度上，材料的表现往往大不一样。
+at the nanoscale = 在纳米尺度上
