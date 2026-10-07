@@ -51,3 +51,5 @@ computer	work on a computer
 hungry	feel hungry
 paragraph	paragraph break
 pattern	sentence pattern
+peasant	peasant farmer
+peasant	peasant family
