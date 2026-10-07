@@ -296,3 +296,4 @@ omission     omit           # 名词并进 omit 条后，前四字母对不上
 opacity      opaque         # 名词并进 opaque 条后，前四字母对不上
 oops-a-daisy oops           # 感叹词变体并在 oops 条
 oozy         ooze           # 形容词并进 ooze 条后，前四字母对不上
+op. cit.     op             # 拉丁缩写，等式挂在 op 条
