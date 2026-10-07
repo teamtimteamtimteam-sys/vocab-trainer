@@ -12919,6 +12919,9 @@ know no bounds = 没有限度
 ⑩ A suffix is a bound form and cannot stand on its own at all.
 = 后缀是黏着形式，根本不能单独成词。
 bound form = 黏着形式（不能单独成词的语素）
+⑪ The liner was outward bound for New York when the telegram reached the captain.
+= 电报送到船长手里的时候，那艘邮轮正驶离本港前往纽约。
+outward bound = 驶离本港的、出航的
 构词：四个来源，同形不同源
 注意用法：意思差得很远，全靠搭配分。
 
