@@ -1392,3 +1392,5 @@ parataxis    # 语法窄专业
 parentis     # 短语截出来的残片（in loco parentis）
 passant      # 短语截出来的残片（en passant）
 pardner      # 方言拼写（partner 的变体）
+Paki         # 种族蔑称；用户 2026-10-07 裁定不收
+Polack       # 种族蔑称；用户 2026-10-07 裁定不收

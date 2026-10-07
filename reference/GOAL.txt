@@ -25,8 +25,8 @@ B 词表 16237 条、义项 59660 条，词典序 a → panhandle。A 表 3002 �
   **p 字母在写**（清单 4169 条；pa 762、pe 581、ph 195、pi 331、pl 315、po 620、pr 918、ps 51、pu 358、py 19）：大写词头整个字母已判完。
     **pa- 段**：准备已做；写了五批，到 panhandle。**原始待写清单在 reference/pa-todo.txt（515 个词头），以它为准逐个核对着写**，
     coverage 的「待新写」会因为例句里用到同段词而漏报。
-    **Paki 没写，跳过去了**：它和 Polack 都登在 keep 名单里，但用户对「两个种族蔑称是否照 nigger 的裁定收」还没表态（已问两轮）。
-    **用户没明说之前不要写这两条**；用户说收就照 Negro 条写法补，说不收就从 keep 名单里撤掉并登进 exclude。
+    **Paki、Polack 用户 2026-10-07 裁定不收**，已从 keep 名单撤掉、登进 exclude。
+    **蔑称的规矩**：nigger 是用户点名要收的唯一一个；别的种族、族群蔑称（冒犯性标签）照旧不收，不要外推那次裁定，也不用再逐个问。
   **下一批从 panic 起**：panic（并 panicky、panic button、panic room、panic-stricken、panic into doing）、panini、pannier、panoply、panorama（并 panoramic）、pansy、
     pant（并 pant after / for）、pantaloons、pantechnicon、pantheism（并 pantheist、pantheistic）、pantheon、panther、panties（并 pantie girdle）、pantile、panto、
     pantograph、pantomime（并 pantomime horse）、pantry、pants（三条习语）、pantsuit、pantyhose、pap、papa、papacy、papal、paparazzo、papaya、

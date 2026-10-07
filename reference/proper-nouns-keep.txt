@@ -1130,10 +1130,9 @@ Oxonian
 #     Post-it / Prozac / Pyrex …）、机构与节目名（PBS / Peanuts / Psycho）、虚构人物与剧名（Pinocchio / Popeye / Pygmalion / Prospero）、
 #     地区变体（Pakeha 新西兰、Provo 北爱尔兰、Podunk 美国）、冷僻专名搭配（Peters projection / Plimsoll line / Portland cement / Piltdown man / Parma violet）、
 #     时区名（Pacific time）、截短的人名（Pam / Pete / Phil / Pru）。
-# Paki、Polack 是带种族侮辱的蔑称：按用户 2026-10-07 对 nigger 的裁定（学习者要认得、知道不能用），照 Negro 条的写法收，汇报时已告知。
+# Paki、Polack 是带种族侮辱的蔑称：用户 2026-10-07 裁定不收（nigger 那次的裁定只针对那一个词，不外推到别的蔑称），已登进 exclude。
 # Paleolithic 是 Palaeolithic 的美式拼法，登 inflections。
 Paiute
-Paki
 Pakistani
 Palaeolithic
 Palauan
@@ -1176,7 +1175,6 @@ Plantagenet
 Platonism
 Platonist
 Pluto
-Polack
 Pollyanna
 Ponzi scheme
 Portuguese
