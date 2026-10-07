@@ -19,21 +19,22 @@ B 10000
   **app 2.1.0 已于 2026-10-06 推送**（用户同意的那一次）；之后的提交照旧本地攒着，push 等用户开口。
   **「继续」现在指什么要看用户上一句在说哪件事**：音标已经补完，「继续」就是接着写词表（n 字母开段）。拿不准就问。
 
-═══ 现状（2026-10-08，第一百二十九轮收尾）═══
-B 词表 16682 条、义项 61495 条，词典序 a → perineum。A 表 3002 条。A、B 两表每条都有音标行。
+═══ 现状（2026-10-08，第一百三十轮收尾）═══
+B 词表 16746 条、义项 61765 条，词典序 a → persuasive。A 表 3002 条。A、B 两表每条都有音标行。
   **a–o 十五个字母收完**（各字母余下的只有「待推迟」条目；audit-prefix 的 EXPECT 已登到 o）。
   **p 字母在写**（清单 4169 条；pa 762、pe 581、ph 195、pi 331、pl 315、po 620、pr 918、ps 51、pu 358、py 19）：大写词头整个字母已判完。
     **pa- 段收完**（十八批；coverage 只剩 pajamas 等 pyjamas、packing density 待推迟；pa-todo.txt 已删）。
     **pe- 段**（清单 588 条）：开段准备已做（inflections：pediatric 一族、pedophile 一族、pederast、pence、penn'orth、persnickety；exclude 四条；
-    audit-idioms 登了 peace、pearl、pedestal、peel、peg、pen、penny、people、perfect、peril、person、perspective、pet、petard 十四个大词）；写了七批，到 perineum。
+    audit-idioms 登了 peace、pearl、pedestal、peel、peg、pen、penny、people、perfect、peril、person、perspective、pet、petard 十四个大词）；写了十批，到 persuasive。
     **Paki、Polack 用户 2026-10-07 裁定不收**，已从 keep 名单撤掉、登进 exclude。
     **蔑称的规矩**：nigger 是用户点名要收的唯一一个；别的种族、族群蔑称（冒犯性标签）照旧不收，不要外推那次裁定，也不用再逐个问。
-  **下一批从 period 起**：period（并 periodic(ally)、period piece；periodical 单立）、periodontal（并 periodontitis）、peripatetic、peripheral（并 peripherally）、periphery、
-    periphrasis（并 periphrastic）、periscope、perish（并 perishable(s)、perished、perisher、perishing）、peristalsis、peritoneum（并 peritonitis）、periwinkle、perjure（并 perjurer、perjury）、
-    perk（并 perk up、perky、perkiness）、perm（并 permanent wave）、permaculture、permafrost、permalink、permanent（并 permanence、permanently、permanent resident）、permatan、
-    permeate（并 permeable、permeability、permeation）、permission、permissible、permissive（并 permissiveness）、permit、permutation、pernicious、pernickety（并 persnickety）… 往下照 coverage pe；
-    person、personal、personality 是后面的大词（personal 的复合词有十几个要并）。
-    这一批密度掉过基线：大词（perform、perfect）写的时候就要每个义项配讲解行，别等闸门拦了再补。
+  **下一批从 pert 起（pe- 段还剩两批左右）**：pert（并 pertly）、pertain（并 pertain to）、pertinacious（并 pertinacity）、pertinent（并 pertinence、pertinently）、
+    perturb（并 perturbation、perturbed）、pertussis、peruse（并 perusal）、Peruvian、perv、pervade、pervasive（并 pervasively、pervasiveness）、perverse（并 perversely、perversity）、
+    perversion、pervert（并 perverted）、peseta、pesky、peso、pessary、pessimism、pessimist（并 pessimistic(ally)）、pest、pester（并 pester power）、pesticide、pestilence（并 pestilential）、
+    pestle、pesto、pet（大词；两条习语；并 pet name、pet sitter、petting、petting zoo）、petal、petanque、petard（一条习语）、peter（并 peter out）、pethidine、petit bourgeois、petit four、
+    petit mal、petite、petition（并 petitioner）、petits pois、petrel、Petri dish、petrify（并 petrified）、petrochemical、petrodollar、petrol（并 petrol station / bomb / cap / blue）、
+    petroleum、petrology、petticoat、pettifogging、pettish(ly)、petty（并 pettiness、petty cash / officer / bourgeois）、petulant（并 petulance、petulantly）、petunia、pew、pewter、peyote。
+    写完跑 coverage pe 查漏，再做 ph- 段开段准备（195 条）。
     这一轮记下的：**reference/ 里放临时清单会被 coverage 当成词头清单读进去**（pa-todo.txt 整行成了一个「词头」），下回临时清单放 scratchpad 或登进 OWN；
     并入主条、主条又不是词头的美式拼法，inflections 要指到真正的词头（paleontologist → palaeontology）；例句里引号括住含词头的话会判元评论（Rest in peace）。
   **用户 2026-10-07 裁定**：Mr / Mrs / Ms 收（已写，登进 proper-nouns-keep 末尾）；nigger 照 Negro 条的写法收（已写：核心块讲分量与不可用，例句用书名）；
@@ -50,7 +51,7 @@ B 词表 16682 条、义项 61495 条，词典序 a → perineum。A 表 3002 �
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
   已交付六份：B-merged-0001-2500 … 10001-12500（用户已导入 app），**第六份 12501-15000 于 2026-10-06 用 SendUserFile 发给用户**，
     并提醒了「先让 iPad 升到 2.1.0 再导入」（带音标行）。
-  第七份在攒：现为 B-merged-15001-16682（1682 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
+  第七份在攒：现为 B-merged-15001-16746（1746 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 在 2026-10-06 推过两次**（音标补齐那批、此前的 app 2.1.0）；之后的提交照旧本地攒着，push 等用户开口。
 
