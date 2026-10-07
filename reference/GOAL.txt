@@ -19,18 +19,17 @@ B 10000
   **app 2.1.0 已于 2026-10-06 推送**（用户同意的那一次）；之后的提交照旧本地攒着，push 等用户开口。
   **「继续」现在指什么要看用户上一句在说哪件事**：音标已经补完，「继续」就是接着写词表（n 字母开段）。拿不准就问。
 
-═══ 现状（2026-10-07，第一百零八轮收尾）═══
-B 词表 15582 条、义项 57058 条，词典序 a → observe。A 表 3002 条。A、B 两表每条都有音标行。
+═══ 现状（2026-10-07，第一百零九轮收尾）═══
+B 词表 15612 条、义项 57197 条，词典序 a → oceanic。A 表 3002 条。A、B 两表每条都有音标行。
   **a–n 十四个字母收完**（各字母余下的只有「待推迟」条目；audit-prefix 的 EXPECT 已登到 n）。
-  **o 字母在写**（清单 1226 条，24 个双字母段）：大写词头整个字母已判完（88 条收 23 条，判语在 proper-nouns-keep.txt 的 O 段段首）；
-    oa- 段收完；ob- 段的 exclude / inflections / 习语清单已做，写到 observe，待新写还有 35 条。
-    **oc- 以后各段的准备都还没做，一段一做**（小段可以两三段并在一起做）。
-  **下一批从 obsess 起**：obsess（并 obsession、obsessional(ly)、obsessive(ly)；obsessive compulsive disorder 是「待并入 disorder」，用 add-sense 补）、obsidian、
-    obsolete（并 obsolescence、obsolescent）、obstacle（并 obstacle course、obstacle race）、obstetrics（并 obstetric、obstetrician）、obstinate（并 obstinacy、obstinately）、
-    obstreperous、obstruct（并 obstruction、obstructive、obstructionism、obstructionist）、obtain（并 obtainable）、obtrude（并 obtrusive(ly)）、obtuse（并 obtuseness、
-    obtuse angle）、obverse、obviate、obvious（并 obviously、obviousness；习语 state the obvious）。一批收完 ob-。
-    还有两条「待并入」要用 add-sense 补：obiter dictum → dictum，observation car → car（observation 条里已有，但清单认 car）。
-  **o 字母的功能词**（of、off、on、or、out、over 等）照 no- 段的办法，放在各自那一段的头一批先写。
+  **o 字母在写**（清单 1226 条，24 个双字母段）：大写词头整个字母已判完；**oa-、ob- 两段收完**（ob- 的七条并入已用 add-sense 补进宿主）。
+    oc- / od- / oe- 三段的 exclude 与习语清单已做（occasion、occur、ocean、odd、odds）；oc- 写到 oceanic，待新写还有 15 条。
+    **of- 以后各段的准备都还没做，一段一做**。
+  **下一批**：oc- 余下的 oceanography（并 oceanographer）、ocelot、ochre、octagon（并 octagonal）、octahedron、octane、octave、octet、October、octogenarian、octopus、
+    ocular、oculist；od- 段 odd（A 表 odd = 奇怪的 / 奇数的、odd jobs；习语 the odd one out；并 oddly、oddness、odd-job man）、oddball、oddity、oddments、
+    odds（六条习语；并 odds and ends、odds-on）、ode、odious、odium、odometer、odorous、odour（并 odourless）、odyssey；
+    oe- 段 oedema、Oedipal（并 Oedipus complex）、oenology（并 oenophile）、oesophagus、oestrogen、oeuvre。约一批半。
+    然后是 of- 段（清单 81 条）：**of、off 两个功能词放头一批先写**，off 的短语动词与复合词很多（off-licence、off-peak、offshore、offside…）。
   **用户 2026-10-07 裁定**：Mr / Mrs / Ms 收（已写，登进 proper-nouns-keep 末尾）；nigger 照 Negro 条的写法收（已写：核心块讲分量与不可用，例句用书名）；
     已交付的六份用户决定自己清空后重新导入（不改 app）：2026-10-07 已把 A 表一份加 B 表六份用 SendUserFile 发过去，
     并告知步骤「导出进度备份 → 清空 → 导入七份 → 恢复进度」（restoreProgress 按词头对回分组与复习进度）。
@@ -45,7 +44,7 @@ B 词表 15582 条、义项 57058 条，词典序 a → observe。A 表 3002 条
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
   已交付六份：B-merged-0001-2500 … 10001-12500（用户已导入 app），**第六份 12501-15000 于 2026-10-06 用 SendUserFile 发给用户**，
     并提醒了「先让 iPad 升到 2.1.0 再导入」（带音标行）。
-  第七份在攒：现为 B-merged-15001-15582（582 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
+  第七份在攒：现为 B-merged-15001-15612（612 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 在 2026-10-06 推过两次**（音标补齐那批、此前的 app 2.1.0）；之后的提交照旧本地攒着，push 等用户开口。
 
