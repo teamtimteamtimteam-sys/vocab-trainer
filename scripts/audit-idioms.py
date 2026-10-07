@@ -1197,6 +1197,7 @@ CHECK = {
  'pan': ['pan out', 'go down the pan', 'a flash in the pan'],
  'pants': ['wear the pants', 'caught with your pants down', 'by the seat of your pants'],
  'paper': ['on paper', 'put pen to paper', 'paper over the cracks', 'not worth the paper it is written on'],
+ 'parade': ["rain on someone's parade"],
  'par': ['on a par with', 'below par', 'par for the course', 'up to par'],
  'pardon': ['I beg your pardon', 'pardon me'],
  'part': ['take part', 'for the most part', 'in part', 'play a part', 'part and parcel', 'for my part', 'part company', 'on the part of', 'the best part of', 'look the part', 'part with'],
