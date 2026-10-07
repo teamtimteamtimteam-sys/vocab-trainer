@@ -1,13 +1,3 @@
-pager
-/ˈpeɪdʒə(r)/
-核心：寻呼机：一种随身带的小装置，有人找时会响、会显示号码或短信，手机普及以前很常见，如今医院里还用。可数。
-① The surgeon's pager went off in the middle of the film.
-= 电影放到一半，那位外科医生的寻呼机响了。
-a pager goes off = 寻呼机响了
-② Nurses on call still carry a pager because phones fail in the basement.
-= 值班护士至今带着寻呼机，因为手机在地下室没信号。
-carry a pager = 带着寻呼机
-
 paginate
 /ˈpædʒɪneɪt/
 核心：给…编页码、把文本分页。及物动词，出版与计算机用语。名词 pagination 指页码的编排、分页，并入本条。
@@ -419,3 +409,14 @@ at the palais = 在舞厅
 ② The old palais became a bingo hall and then a block of flats.
 = 那家老舞厅先改成了宾果游戏厅，后来又成了一栋公寓楼。
 the old palais = 老舞厅
+
+palatable
+/ˈpælətəbəl/
+核心：两支。一是（食物、饮料）可口的、味道还不错的；二是（主意、事实）可以接受的、听得进去的，介词用 to。形容词，反义 unpalatable。
+① A little honey makes the medicine more palatable for small children.
+= 加一点蜂蜜，小孩子就觉得那药好入口些。
+make something palatable = 让某物好入口
+② The truth was not palatable to a board that had hoped for good news.
+= 董事会本来盼着好消息，那个实情他们听不进去。
+be palatable to somebody = 某人能接受
+反义是 unpalatable。

@@ -1,13 +1,3 @@
-overland
-/ˈəʊvəlænd/
-核心：经由陆路的、走陆路：不坐船、不坐飞机。形容词兼副词。
-① They travelled overland from London to India in an old bus.
-= 他们坐一辆旧巴士，走陆路从伦敦到了印度。
-travel overland = 走陆路
-② The overland route across the desert takes nine days by lorry.
-= 穿越沙漠的陆路，坐卡车要九天。
-the overland route = 陆路
-
 overlap
 /ˌəʊvəˈlæp/（动）/ˈəʊvəlæp/（名）
 核心：动词（重音在后）：部分重叠：一是（物体）搭叠在一起；二是（时间、职责、范围）部分相同、有交叉，介词用 with。
@@ -305,3 +295,14 @@ be overripe = 熟过头了
 ② An overripe pear fell from the tree and burst on the path.
 = 一只熟透了的梨从树上掉下来，在小路上摔烂了。
 an overripe pear = 熟过头的梨
+
+overrule
+/ˌəʊvəˈruːl/
+核心：（有更高权力的人）否决、驳回：宣布别人的决定、反对无效。及物动词，多用被动，法庭与机构用语。
+① The judge overruled the objection and told the witness to answer.
+= 法官驳回了反对，让证人回答。
+overrule an objection = 驳回反对
+② The manager's decision was overruled by head office a week later.
+= 一个星期后，经理的决定被总部否决了。
+be overruled by somebody = 被某人否决
+法庭上法官说 Objection overruled，是「反对无效」。
