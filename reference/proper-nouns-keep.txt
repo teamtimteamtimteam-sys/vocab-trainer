@@ -964,7 +964,7 @@ Lyme disease
 # 历史文化概念（McCarthyism、Mughal、Michaelmas、Medicare / Medicaid）、宗教人物 Muhammad / Messiah（照 Jesus / Jehovah 的先例）。
 # 剔：纯人名（Margaret / Matthew / Michael…）、纯地名（Madagascar / Manchester / Mexico / Montreal…）、
 # 商标（Mace™ / Marmite™ / Meccano™ / Muzak™…）、全大写缩写（MBA / MP / MP3 / MRI / MSG / MVP…）、
-# 称谓缩写（Mr / Mrs / Ms / Messrs / Mt / Maj. / Mgr，同 Jr / Ave.）、机构与商号（Macy's / Mencap / Mensa / Microsoft）、
+# 称谓缩写（Messrs / Mt / Maj. / Mgr，同 Jr / Ave.；Mr / Mrs / Ms 用户 2026-10-07 裁定收，见文件末尾）、机构与商号（Macy's / Mencap / Mensa / Microsoft）、
 # 书名剧名与虚构人物（Macbeth / Middlemarch / Mowgli / Mitty）、地区变体的专名（Metis 加拿大、Mosotho / Motswana 南部非洲单数形）、
 # 窄宗教学术语（Mahayana / Manichaean / Mephistophelian）、酒名与地方物产（Marsala / Moselle / Muscadet / Médoc /
 # Mississippi mud pie）、冷僻专名搭配（Martello tower / Maundy money / May bug / McKenzie friend / Mercator projection / Michelin man / Mummerset）。
@@ -1091,3 +1091,7 @@ Norway lobster
 Norway rat
 Norwegian
 November
+# ── 用户 2026-10-07 裁定收的三条称谓（原先按「称谓缩写不收」剔了）──
+Mr
+Mrs
+Ms

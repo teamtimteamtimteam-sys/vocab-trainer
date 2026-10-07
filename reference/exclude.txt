@@ -1235,7 +1235,6 @@ next tomorrow # 西非
 new variant CJD # 医学窄专业
 ni-Vanuatu   # 纯专名（瓦努阿图人的自称）
 nibblies     # 澳新
-nigger       # 冒犯性标签（极重的种族侮辱语；同 nancy 的处理）
 nim          # 冷僻（一种取子游戏）
 nivas        # 印度
 nitrify      # 化学窄专业
