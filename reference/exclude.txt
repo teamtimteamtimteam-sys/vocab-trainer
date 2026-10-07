@@ -1358,3 +1358,37 @@ o-er         # 清单的清洗伪影，即 o'er（已收）
 o-come-all-ye-faithful # 圣诞颂歌名
 o-n-o        # 清单的清洗伪影，即缩写 o.n.o.
 O grade      # 苏格兰（旧考试名）
+paan         # 印度
+paisa        # 印度
+pakora       # 印度食物名
+palak        # 印度食物名
+palampore    # 印度
+panchayat    # 印度
+pandal       # 印度
+pandit       # 印度
+paneer       # 印度食物名
+panir        # 印度食物名
+papad        # 印度食物名
+paratha      # 印度食物名
+parishad     # 印度
+patta        # 印度
+patwari      # 印度
+pantsula     # 南非
+padkos       # 南非
+panga        # 东非
+parkade      # 加拿大
+pandowdy     # 冷僻（美国甜点名）
+panstick     # 冷僻（舞台化妆品）
+panatella    # 冷僻（雪茄名）
+palliasse    # 冷僻
+parlando     # 音乐窄专业
+palatal      # 语音学窄专业
+palatalization # 语音学窄专业
+palatalize   # 语音学窄专业
+packetize    # 计算机窄专业
+paraclinical # 医学窄专业
+paralinguistic # 语言学窄专业
+parataxis    # 语法窄专业
+parentis     # 短语截出来的残片（in loco parentis）
+passant      # 短语截出来的残片（en passant）
+pardner      # 方言拼写（partner 的变体）
