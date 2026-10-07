@@ -1,3 +1,54 @@
+Oxbridge
+/ˈɒksbrɪdʒ/
+核心：牛津与剑桥：把英国这两所最古老的大学合起来的称呼，常含「精英、特权」的意味。不可数，首字母大写，多作定语。
+① Half the cabinet had an Oxbridge education and went to the same three schools.
+= 内阁里一半的人受的是牛津剑桥的教育，上的还是同样的三所中学。
+an Oxbridge education = 牛津剑桥的教育
+② The school sends a dozen pupils to Oxbridge every year.
+= 那所学校每年有十来个学生考进牛津剑桥。
+go to Oxbridge = 上牛津或剑桥
+由 Oxford 与 Cambridge 拼成。
+
+oxford
+/ˈɒksfəd/
+核心：两支。一是牛津鞋：一种系带的低帮皮鞋，可数，多用复数；二是牛津布：一种织纹较粗、结实的衬衫棉布，也说 oxford cloth，不可数。
+① He wore polished black oxfords with a suit that had seen better days.
+= 他穿着一双擦得锃亮的黑牛津鞋，配一身已经旧了的西装。
+oxfords = 牛津鞋
+② The shirt is made of blue oxford cloth and has a button-down collar.
+= 那件衬衫是蓝色牛津布的，领尖有扣。
+oxford cloth = 牛津布
+
+oxide
+/ˈɒksaɪd/
+核心：氧化物：一种元素与氧结合成的化合物。可数也可不可数，化学用语：iron oxide 是氧化铁，即铁锈的主要成分。
+动词 oxidize 是氧化、使氧化，名词 oxidation；oxidant 是氧化剂。并入本条。
+① Rust is a form of iron oxide that forms when steel is left in the damp.
+= 铁锈是氧化铁的一种，钢铁放在潮湿的地方就会生出来。
+iron oxide = 氧化铁
+② The glaze contains an oxide of copper that turns green in the kiln.
+= 那种釉含有一种铜的氧化物，进窑一烧就变绿。
+an oxide of copper = 铜的氧化物
+③ The cut surface of an apple oxidizes and turns brown within minutes.
+= 苹果的切面几分钟内就氧化变褐。
+oxidize = 氧化
+④ A layer of paint protects the metal from oxidation.
+= 一层漆保护金属不被氧化。
+oxidation = 氧化
+⑤ Chlorine is a powerful oxidant and is used to disinfect water.
+= 氯是一种强氧化剂，用来给水消毒。
+an oxidant = 氧化剂
+
+Oxonian
+/ɒkˈsəʊniən/
+核心：两支，首字母大写，正式。一是名词，牛津大学的学生或校友、牛津人，可数；二是形容词，牛津的、牛津大学的。
+① The club was founded by three Oxonians who had rowed in the same boat.
+= 那家俱乐部是三个曾在同一条赛艇上划过桨的牛津校友创办的。
+an Oxonian = 牛津校友
+② He spoke with an Oxonian drawl that he had acquired in a single term.
+= 他说话带着牛津腔的拖调，那是他只用一个学期学来的。
+an Oxonian drawl = 牛津腔的拖调
+
 oxtail
 /ˈɒksteɪl/
 核心：牛尾：牛的尾巴，当作食材，多用来炖汤。不可数；指一条时可数。
@@ -394,80 +445,3 @@ pack drill = 罚背行装操练
 ㉕ Her father is a pack rat who has kept every newspaper since 1980.
 = 她父亲什么都舍不得扔，一九八〇年以来的每份报纸都留着。
 a pack rat = 什么都舍不得扔的人
-
-package
-/ˈpækɪdʒ/
-核心：名词四支，可数。一是包裹：包好寄出或送来的东西，美式的通行说法，英式多说 parcel；二是（美式）包装盒、包装袋；
-三是一揽子（建议、措施、待遇）：a package of measures；四是（计算机）软件包。
-动词是包装；也指把…包装、打造成某种形象。名词 packaging 是包装材料、包装方式，不可数。
-package holiday、package tour 是（英式）旅行社包办交通食宿的包价旅游；package store 是（美式）只许外卖的酒类专卖店。并入本条。
-① A package arrived this morning with no name on the outside.
-= 今天早上来了个包裹，外面没写名字。
-package = 包裹
-a package arrives = 来了个包裹
-② Check the date on the package before you open the cheese.
-= 打开奶酪之前，看看包装上的日期。
-the package = 包装盒
-③ The government announced a package of measures to help small farms.
-= 政府宣布了一揽子帮助小农场的措施。
-a package of measures = 一揽子措施
-④ The job comes with a generous package of pay and holidays.
-= 那份工作的薪水和假期待遇很优厚。
-a pay package = 薪酬待遇
-⑤ The goods are packaged in boxes of twelve and sent by lorry.
-= 那些货物十二件装一箱，用卡车运走。
-be packaged = 被包装
-⑥ Half the weight of the parcel was plastic packaging.
-= 那个包裹的重量有一半是塑料包装。
-packaging = 包装材料
-⑦ They booked a package holiday to Spain with flights and meals included.
-= 他们订了一趟去西班牙的包价旅游，机票和三餐都含在内。
-a package holiday = 包价旅游
-a package tour = 包价旅游
-⑧ He stopped at the package store on the edge of town for a bottle of whiskey.
-= 他在镇边的酒类专卖店停了一下，买了瓶威士忌。
-a package store = 酒类专卖店
-
-packet
-/ˈpækɪt/
-核心：三支，可数。一是（英式）小包、小盒、小袋：a packet of biscuits；二是（计算机）数据包；
-三是（英式口语）一大笔钱：cost a packet、make a packet。
-通信里 packet switching 是分组交换。并入本条。
-① She opened a packet of biscuits and put the kettle on.
-= 她拆开一包饼干，把水壶坐上。
-a packet of biscuits = 一包饼干
-② The seeds come in small paper packets with a picture on the front.
-= 种子装在正面印着图的小纸袋里。
-a paper packet = 纸袋
-③ The new roof cost a packet, and it still leaks in a gale.
-= 新屋顶花了一大笔钱，刮大风时还是漏。
-cost a packet = 花一大笔钱
-④ Each message is broken into packets and put together again at the other end.
-= 每条信息被拆成一个个数据包，到另一头再拼起来。
-a packet = 数据包
-⑤ The internet depends on packet switching rather than on fixed lines between callers.
-= 互联网靠的是分组交换，而不是通话双方之间的固定线路。
-packet switching = 分组交换
-
-packhorse
-/ˈpækhɔːs/
-核心：驮马：用来驮货物的马，尤指从前山路上运货的。可数。
-① Wool was carried across the hills by packhorse before the canal was dug.
-= 运河开挖以前，羊毛是靠驮马运过山的。
-by packhorse = 靠驮马
-② An old packhorse bridge, too narrow for a cart, crosses the stream below the village.
-= 村子下方的小溪上有一座旧驮马桥，窄得过不了车。
-a packhorse bridge = 驮马桥
-
-pact
-/pækt/
-核心：协定、条约、约定：两方或多方之间正式的约定，多说国家、政党之间；也指私下的约定。可数：make a pact with。
-① The two countries signed a pact to share the water of the river.
-= 两国签了一项共用那条河水的协定。
-sign a pact = 签协定
-② The friends made a pact to meet at the same café in ten years' time.
-= 朋友们约定十年后在同一家咖啡馆见面。
-make a pact = 约定
-③ The parties formed an electoral pact and agreed which seats each would fight.
-= 那几个党结成选举同盟，商定各自争哪些议席。
-an electoral pact = 选举同盟
