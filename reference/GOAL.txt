@@ -19,22 +19,18 @@ B 10000
   **app 2.1.0 已于 2026-10-06 推送**（用户同意的那一次）；之后的提交照旧本地攒着，push 等用户开口。
   **「继续」现在指什么要看用户上一句在说哪件事**：音标已经补完，「继续」就是接着写词表（n 字母开段）。拿不准就问。
 
-═══ 现状（2026-10-07，第一百一十二轮收尾）═══
-B 词表 15717 条、义项 57679 条，词典序 a → omnivore。A 表 3002 条。A、B 两表每条都有音标行。
+═══ 现状（2026-10-07，第一百一十三轮收尾）═══
+B 词表 15745 条、义项 57854 条，词典序 a → onyx。A 表 3002 条。A、B 两表每条都有音标行。
   **a–n 十四个字母收完**（各字母余下的只有「待推迟」条目；audit-prefix 的 EXPECT 已登到 n）。
   **o 字母在写**（清单 1226 条，24 个双字母段）：大写词头整个字母已判完；
-    **oa- 到 om- 十二段收完**（oa ob oc od oe of og oh oi ok ol om）。
-    **on- 段的准备已做**（剔 3 条；习语清单登了 on、once、one、onion、only），还没动笔，待新写 42 条。
+    **oa- 到 on- 十三段收完**（oa ob oc od oe of og oh oi ok ol om on）。
     oo- 以后各段的准备都还没做：oo（9）、op（144）、or（130）、os（26）、ot（12）、ou（143）、ov（211）、ow（18）、ox（19）、oy（7）、oz（5）。
-  **下一批（on- 段头一批，功能词先写）**：on（大词；习语 on and on、on and off、be on about、later on、from now on；并 on-off、on-field、on-ramp、on-screen、
-    on-street、on-trend）、once（十二条习语；A 表 once a week、once = 一旦；并 once-over）、one（大词，十条习语；并 one's、one-off、one-on-one、one-to-one、
-    one-sided、one-upmanship、one-liner、one-man (band)、one-night stand、one-parent family、one-size-fits-all、one-track mind、one-way (mirror)、one-day cricket、
-    one-dimensional、one-piece、one-shot、one-star、one-stop、one-time、one-touch、one-trick pony、one-woman）、oneself、only（六条习语；A 表 an only child、if only）、onto。
-    第二批：onanism、onboard（并 onboarding）、oncology（并 oncologist）、oncoming、oneness、onerous、onesie、ongoing、onion（know your onions；A 表 spring onion；
-    并 onion dome、onion ring、onion-skin paper）、online（并 online dating）、onlooker、onomatopoeia（并 onomatopoeic）、onrush、onset、onshore、onside、onslaught、
-    onstage、ontology（并 ontological）、onus、onward（并 onwards）、onyx。
-  这一轮记下的：old 条 40 义把二十多个 old X 搭配并了进去，写完后 coverage 把宿主从 age / hand / man 等改认成 old，没有再留「待并入」；
-    olive branch、olive drab 同理并在 olive 条。
+  **下一步：oo- 与 op- 两段的准备**（exclude → inflections → audit-idioms，提交一笔），然后动笔。
+    oo- 九条很小（ooh、oomph、oops、ooze 等），可以和 op- 头一批并在一起。
+    op- 的大词：open（很大，复合词多：open-air、open-ended、open-minded、open-plan…）、operate / operation、opinion、opportunity、oppose / opposite、option、opt。
+    **or- 段的 or、order、other（ot- 段）、ou- 段的 our、out，ov- 段的 over，ow- 段的 own 都是例句里躲不开的词，各段头一批先写。**
+  这一轮记下的：功能词条写完后自己通读一遍 —— one 条有一句漏了否定词（this is the year → this is not the year），闸门查不出语义反了的句子，
+    前面 nor、nothing 条也各栽过一次，都是「否定词条里的例句漏否定」。
   **用户 2026-10-07 裁定**：Mr / Mrs / Ms 收（已写，登进 proper-nouns-keep 末尾）；nigger 照 Negro 条的写法收（已写：核心块讲分量与不可用，例句用书名）；
     已交付的六份用户决定自己清空后重新导入（不改 app）：2026-10-07 已把 A 表一份加 B 表六份用 SendUserFile 发过去，
     并告知步骤「导出进度备份 → 清空 → 导入七份 → 恢复进度」（restoreProgress 按词头对回分组与复习进度）。
@@ -49,7 +45,7 @@ B 词表 15717 条、义项 57679 条，词典序 a → omnivore。A 表 3002 �
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
   已交付六份：B-merged-0001-2500 … 10001-12500（用户已导入 app），**第六份 12501-15000 于 2026-10-06 用 SendUserFile 发给用户**，
     并提醒了「先让 iPad 升到 2.1.0 再导入」（带音标行）。
-  第七份在攒：现为 B-merged-15001-15717（717 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
+  第七份在攒：现为 B-merged-15001-15745（745 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 在 2026-10-06 推过两次**（音标补齐那批、此前的 app 2.1.0）；之后的提交照旧本地攒着，push 等用户开口。
 
