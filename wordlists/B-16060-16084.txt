@@ -267,47 +267,50 @@ be overstaffed = 人员过多
 an overstaffed ministry = 冗员的部
 反义是 understaffed，人手不足。
 
-overt
-/əʊˈvɜːt/
-核心：公开的、明显的、不加掩饰的：说行为、态度、敌意。形容词，多作定语，正式，反义 covert。副词 overtly 并入本条。
-① There was no overt hostility, only a silence that lasted through dinner.
-= 没有公开的敌意，只有一顿饭从头到尾的沉默。
-overt hostility = 公开的敌意
-② The advertisement makes no overt claim, but the meaning is clear enough.
-= 那则广告没有明说什么，但意思够清楚了。
-an overt claim = 明说的主张
-③ The film is not overtly political, though its sympathies are obvious.
-= 那部片子没有明着谈政治，不过它同情哪一方一目了然。
-overtly = 公开地、明着
-反义是 covert，隐蔽的。
+overstate
+/ˌəʊvəˈsteɪt/
+核心：夸大、把…说得过重：cannot be overstated 是怎么说都不为过。及物动词，反义 understate。
+名词 overstatement 并入本条。
+① The report overstates the savings and leaves out the cost of training.
+= 那份报告夸大了节省的数额，又漏掉了培训的开支。
+overstate the savings = 夸大节省的数额
+反义是 understate，轻描淡写。
+② The importance of the first five years of a child's life cannot be overstated.
+= 孩子生命头五年的重要性，怎么说都不为过。
+cannot be overstated = 怎么说都不为过
+③ It is no overstatement to say that the bridge saved the town.
+= 说那座桥救了整座镇，一点都不夸张。
+an overstatement = 夸大的说法
 
-ovoid
-/ˈəʊvɔɪd/
-核心：卵形的、蛋形的。形容词，正式或技术用语；也作名词指卵形物。
-① The seed is ovoid and about the size of a grain of rice.
-= 那种种子是卵形的，大约有一粒米大。
-be ovoid = 呈卵形
-② The sculptor carved a smooth ovoid form from a block of white marble.
-= 那位雕塑家用一块白色大理石雕出了一个光滑的卵形体。
-an ovoid form = 卵形体
+overstay
+/ˌəʊvəˈsteɪ/
+核心：逗留超过（许可的期限）：overstay a visa 是签证过期滞留；overstay your welcome 是待得太久招人嫌。及物动词。
+① He overstayed his visa by six months and was sent home.
+= 他签证过期后滞留了六个月，被遣送回国。
+overstay a visa = 签证过期滞留
+及物，后面直接接期限或许可。
+② We left on Sunday morning so as not to overstay our welcome.
+= 我们星期天上午就走了，免得待久了招人嫌。
+overstay your welcome = 待得太久招人嫌
 
-ovulate
-/ˈɒvjʊleɪt/
-核心：排卵：卵巢排出成熟的卵子。不及物动词，医学与生物学用语。名词 ovulation 并入本条。
-① A woman usually ovulates about two weeks before her period.
-= 女性通常在月经前两周左右排卵。
-ovulate = 排卵
-② The test strips show the two days around ovulation.
-= 那种试纸能测出排卵前后的两天。
-ovulation = 排卵
+overstep
+/ˌəʊvəˈstep/
+核心：超越（界限、权限）：overstep the mark、overstep the line 是做得过分、越了界。及物动词，过去式 overstepped。
+① The officer overstepped his authority by searching the house without a warrant.
+= 那名警官没有搜查证就搜了房子，越了权。
+overstep your authority = 越权
+过去式要双写 p。
+② She overstepped the mark when she read her daughter's diary.
+= 她看了女儿的日记，这就过分了。
+overstep the mark = 做得过分
 
-ovum
-/ˈəʊvəm/
-核心：卵子、卵细胞：雌性的生殖细胞。可数，生物学用语，复数 ova。
-① A single sperm enters the ovum, and the outer wall closes behind it.
-= 一个精子进入卵子，外壁随即在它身后闭合。
-an ovum = 卵子
-② The ova are collected and fertilised in the laboratory.
-= 卵子被取出来，在实验室里受精。
-ova = 卵子（复数）
-日常说 egg，这个词是术语。
+overstock
+/ˌəʊvəˈstɒk/
+核心：进货过多、存货过剩；也指（牧场、鱼塘）放养得太多。动词。名词指过剩的存货。
+① The shop overstocked for Christmas and was selling puddings in March.
+= 那家店圣诞节进货太多，到三月还在卖圣诞布丁。
+overstock = 进货过多
+这里是不及物用法。
+② The pond was overstocked with carp, and half of them died in the hot weather.
+= 那个池塘鲤鱼放得太多，天一热死了一半。
+be overstocked with something = 某物放养、囤积得太多
