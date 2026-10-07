@@ -1307,3 +1307,6 @@ ology        # 词缀截出来的残片
 omena        # 东非
 omigod       # 非正式拼写（oh my God 连写）
 omnium       # 自行车运动窄专业
+one-flew-over-the-cuckoo's nest # 书名
+o.n.o.       # 小写缩写（or near offer）
+onomastics   # 窄专业（专名学）
