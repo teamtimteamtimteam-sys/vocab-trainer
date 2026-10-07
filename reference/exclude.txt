@@ -1269,3 +1269,11 @@ nr           # 小写排版缩写（near）
 ns           # 小写单位缩写（nanosecond）
 gweilo       # 香港、东南亚英语，且带冒犯色彩（g 段收完时漏判，2026-10-07 补）
 kJ           # 单位缩写（千焦；k 段收完时漏判，2026-10-07 补）
+oater        # 冷僻（美式旧俚语，西部片）
+ob-gyn       # 美式口语缩写
+obo          # 小写缩写（or best offer）
+obv          # 网络缩写
+obvs         # 网络缩写
+observed trials # 摩托车运动窄专业
+object language # 计算机、逻辑学窄专业
+object program # 计算机窄专业

@@ -1095,3 +1095,31 @@ November
 Mr
 Mrs
 Ms
+# ── O（2026-10-07 整个字母一次判完，清单大写词头 88 条）──
+# 收：国名形容词与民族语言名、已进词汇的专名派生词、月份、带专名的普通搭配、已成通用词的 OK 与 Ouija board。
+# 不收：全大写缩写（OAP / OBE / OCD / OECD / OPEC / OMG / OTT …）、纯人名地名（Oliver / Ohio / Ottawa / Ouse …）、
+# 商标与商号（Oreo / Ovaltine / Oxo / Odeon / Oxfam / Oyster card）、机构名（Ofcom / Ofsted / OUP）、剧名与虚构人物（Othello / Oberon / Ozymandias / Oklahoma!）、
+# 地区变体与带冒犯色彩的称呼（O grade 苏格兰、Okie、Ozzie）、截短的专名（Oli / Oxon）、单个字母 O（同 N、M 的处理）。
+Occitan
+Oceanian
+October
+Oedipal
+Oedipus complex
+O level
+Ojibwa
+OK
+Olympiad
+Olympian
+Olympic
+Omani
+Omega-3
+Op.
+Orangeman
+Orcadian
+Oriya
+Orwellian
+Osage
+Oscar
+Ouija board
+Oxbridge
+Oxonian
