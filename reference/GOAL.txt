@@ -19,18 +19,21 @@ B 10000
   **app 2.1.0 已于 2026-10-06 推送**（用户同意的那一次）；之后的提交照旧本地攒着，push 等用户开口。
   **「继续」现在指什么要看用户上一句在说哪件事**：音标已经补完，「继续」就是接着写词表（n 字母开段）。拿不准就问。
 
-═══ 现状（2026-10-07，第一百一十五轮收尾）═══
-B 词表 15885 条、义项 58459 条，词典序 a → ottoman。A 表 3002 条。A、B 两表每条都有音标行。
+═══ 现状（2026-10-07，第一百一十六轮收尾）═══
+B 词表 15920 条、义项 58613 条，词典序 a → outfit。A 表 3002 条。A、B 两表每条都有音标行。
   **a–n 十四个字母收完**（各字母余下的只有「待推迟」条目；audit-prefix 的 EXPECT 已登到 n）。
-  **o 字母在写**（清单 1226 条，24 个双字母段）：大写词头整个字母已判完；
-    **oa- 到 ot- 十八段收完**（oa ob oc od oe of og oh oi ok ol om on oo op or os ot）。
-    op- 只剩 coverage 仍报「待并入 op ← op. cit.」（等式和例句已在 op 条里，是带句点词头归一化的尺子问题，没查清）。
-    还剩六段，准备都没做：**ou（143）、ov（211）**、ow（18）、ox（19）、oy（7）、oz（5）。
-  **下一步：ou- 段的准备**，然后动笔。**头一批先写功能词 ought、our（并 ours、ourselves）、out（很大：out of、短语动词、out-and-out、out-of-date…）、outside**。
-    ou- 其余约一百条是 out- 复合词（outbreak、outcome、outdoor、outfit、outline、output、outrage、outstanding…）加 ounce、oust、oval 不在此段。
-    ov- 段同理：**over 先写**，其余两百条几乎全是 over- 复合词（overall、overcome、overlook、overseas、overtake、overwhelm…），外加 oval、ovary、oven、overt、ovum。
-    ow- 段的 owe、owl、own（功能词，先写）、owner；ox- 段 ox、Oxbridge、oxide、oxygen、Oxonian；oy- 的 oyster；oz- 的 ozone。
-  这一轮记下的：单文件那一步的 check-wordlist 报「有问题」多半是新文件里只有一两条大词造成的密度假警报（order 那批），以 resplit 之后闸门里那一道为准。
+  **o 字母在写**（清单 1226 条，24 个双字母段）：大写词头整个字母已判完；**oa- 到 ot- 十八段收完**。
+    **ou- 段**（清单 134 条）：准备已做（剔 9 条；习语清单登了 ounce、out、outdo、outset、outside、outstay）；
+    功能词先写了（ouch、oud、ought、ounce、our、ours、ourselves、oust、out 47 义、outside、ouzo），out- 复合词写到 outfit，待新写还有 74 条。
+    还剩五段，准备都没做：**ov（211）**、ow（18）、ox（19）、oy（7）、oz（5）。
+  **下一批从 outflank 起**：outflank、outflow、outfox、outgoing（并 outgoings）、outgrow（并 outgrowth）、outgun、outhouse、outing、outlandish（并 outlandishly）、outlast、
+    outlaw、outlay、outlet、outlier、outline、outlive、outlook、outlying、outmanoeuvre、outmoded、outnumber、outpace、outpatient、outperform（并 outperformance）、
+    outplacement、outplay、outpoint、outpost、outpouring、output（A 表有 output level / total output / audio output）、outrage（并 outrageous(ly)）、outrank、outré、
+    outreach、outrider、outrigger、outright、outrun（outran 已登）、outsell、outset（at / from the outset）、outshine、outsider、outsize、outskirts、outsmart、
+    outsource（并 outsourcing）、outspend、outspoken（并 -ly、-ness）、outspread、outstanding（并 -ly）、outstay（outstay your welcome）、outstretched、outstrip、
+    outvote、outward（并 outwardly、outwards、outward bound）、outweigh、outwit、outwork（并 outworker、outworking）、outworn。约三批。
+  这一轮记下的：**两义小词扎堆的批次，每条动笔就配一行讲解**（语域、英美差别、反义、变形）—— or- 段 orangery … oregano 那一块全是两义小词又夹着 order 31 义，
+    讲解行密度掉到基线下，事后补了 17 行；out- 这批照此写，一次过密度。outer 被 audit-derived 判成 out 的比较级，登了 derived-keep。
   **用户 2026-10-07 裁定**：Mr / Mrs / Ms 收（已写，登进 proper-nouns-keep 末尾）；nigger 照 Negro 条的写法收（已写：核心块讲分量与不可用，例句用书名）；
     已交付的六份用户决定自己清空后重新导入（不改 app）：2026-10-07 已把 A 表一份加 B 表六份用 SendUserFile 发过去，
     并告知步骤「导出进度备份 → 清空 → 导入七份 → 恢复进度」（restoreProgress 按词头对回分组与复习进度）。
@@ -45,7 +48,7 @@ B 词表 15885 条、义项 58459 条，词典序 a → ottoman。A 表 3002 条
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
   已交付六份：B-merged-0001-2500 … 10001-12500（用户已导入 app），**第六份 12501-15000 于 2026-10-06 用 SendUserFile 发给用户**，
     并提醒了「先让 iPad 升到 2.1.0 再导入」（带音标行）。
-  第七份在攒：现为 B-merged-15001-15885（885 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
+  第七份在攒：现为 B-merged-15001-15920（920 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 在 2026-10-06 推过两次**（音标补齐那批、此前的 app 2.1.0）；之后的提交照旧本地攒着，push 等用户开口。
 
