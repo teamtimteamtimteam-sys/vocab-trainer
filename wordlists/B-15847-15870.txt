@@ -1,3 +1,34 @@
+ormolu
+/ˈɔːməluː/
+核心：镀金铜饰、仿金铜：镀金的青铜或黄铜合金，十八、十九世纪用来装饰钟表、家具、烛台。不可数，常作定语。
+① An ormolu clock ticked on the mantelpiece between two china dogs.
+= 壁炉台上，一座镀金铜钟在两只瓷狗中间嘀嗒作响。
+an ormolu clock = 镀金铜钟
+② The desk is decorated with ormolu at the corners and round the drawers.
+= 那张书桌的四角和抽屉边上饰有镀金铜件。
+decorated with ormolu = 饰有镀金铜件
+
+ornament
+/ˈɔːnəmənt/（名）/ˈɔːnəment/（动）
+核心：名词两支。一是装饰品、摆设：好看而没有实际用处的小物件，可数；二是（正式）装饰、点缀，不可数：for ornament。
+动词是装饰、点缀，多用被动，介词用 with。
+形容词 ornamental 是装饰性的、观赏用的；名词 ornamentation 指装饰、装饰物的总称。并入本条。
+① The shelf was crowded with china ornaments collected over fifty years.
+= 架子上挤满了五十年里攒下的瓷摆件。
+a china ornament = 瓷摆件
+② The buttons on the sleeve are there purely for ornament.
+= 袖子上的扣子纯粹是装饰。
+for ornament = 作装饰
+③ The ceiling is ornamented with plaster leaves and flowers.
+= 天花板上饰有石膏的枝叶和花朵。
+be ornamented with something = 饰有某物
+④ The park has an ornamental lake with two black swans.
+= 公园里有个观赏湖，养着两只黑天鹅。
+ornamental = 装饰性的、观赏用的
+⑤ The church is plain inside, with no ornamentation except a carved door.
+= 那座教堂内部朴素，除了一扇雕花门没有别的装饰。
+ornamentation = 装饰
+
 ornate
 /ɔːˈneɪt/
 核心：两支。一是装饰华丽的、繁复的：说建筑、家具、物品；二是（文风）辞藻华丽的、雕琢的。副词 ornately 并入本条。
@@ -278,34 +309,3 @@ ossify = 僵化
 ③ The report warns of the ossification of a system that no longer listens.
 = 那份报告警告说，一个不再倾听的体制正在僵化。
 ossification = 僵化、骨化
-
-ostensible
-/ɒˈstensəbəl/
-核心：表面上的、号称的：摆在明面上的理由、目的，暗示真实的另有其事。形容词，只作定语，正式。
-副词 ostensibly 并入本条。
-① The ostensible purpose of the visit was to open a school.
-= 那次访问表面上的目的是为一所学校剪彩。
-the ostensible purpose = 表面上的目的
-② His ostensible reason for leaving early was a headache.
-= 他提早离开，对外的理由是头疼。
-the ostensible reason = 对外的理由
-③ He was ostensibly on holiday but spent every morning on the telephone.
-= 他名义上在度假，却每天上午都在打电话。
-ostensibly = 表面上、名义上
-
-ostentatious
-/ˌɒstenˈteɪʃəs/
-核心：两支，含贬义。一是炫耀的、摆阔的：故意显示财富、地位让人看；二是（举动）做给人看的、张扬的。
-名词 ostentation 与副词 ostentatiously 并入本条。
-① They live in an ostentatious house with gold gates and two fountains.
-= 他们住在一座摆阔的房子里，镀金的大门，两个喷泉。
-an ostentatious house = 摆阔的房子
-② She gave the money quietly and disliked ostentatious charity.
-= 她悄悄地捐了钱，不喜欢张扬的善举。
-ostentatious charity = 张扬的善举
-③ The family dressed plainly and avoided any ostentation.
-= 那家人穿着朴素，从不摆阔。
-ostentation = 炫耀、摆阔
-④ He looked ostentatiously at his watch while the chairman was speaking.
-= 主席讲话的时候，他故意让人看见似的看了看表。
-ostentatiously = 做给人看地
