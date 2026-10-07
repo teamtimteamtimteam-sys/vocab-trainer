@@ -288,3 +288,4 @@ nudity       nude           # 名词并进 nude 条后，前四字母对不上
 obligato     obbligato      # 拼法变体；在 obbligato 条配等式
 oboist       oboe           # 演奏者并进 oboe 条后，前四字母对不上
 offense      offence        # 美式拼法；在 offence 条配等式
+oho          oh             # 感叹词并在 oh 条
