@@ -325,3 +325,14 @@ partook      partake        # 不规则过去式
 partaken     partake        # 不规则过去分词
 parings      pare           # 并在 pare 条
 paring       pare           # paring knife 并在 pare 条
+pediatric    paediatrics    # 美式拼法
+pediatrician paediatrics    # 美式拼法
+pediatrics   paediatrics    # 美式拼法
+pedophile    paedophile     # 美式拼法
+pedophilia   paedophile     # 美式拼法
+pederast     paederast      # 美式拼法
+pederasty    paederast      # 美式拼法
+pence        penny          # 不规则复数
+penn’orth    pennyworth     # 缩略拼法，在 pennyworth 条配等式
+penn'orth    pennyworth     # 缩略拼法
+persnickety  pernickety     # 美式变体，在 pernickety 条配等式

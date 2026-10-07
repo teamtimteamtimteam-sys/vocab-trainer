@@ -1396,3 +1396,7 @@ Paki         # 种族蔑称；用户 2026-10-07 裁定不收
 Polack       # 种族蔑称；用户 2026-10-07 裁定不收
 pass a round          # 清单伪影（pass around 的错切），pass 条已有 pass around
 Paul Revere's ride   # 纯专名（美国史事）
+penn-orth            # 清单伪影（penn'orth 的撇号洗成了连字符）
+perlocution          # 窄专业（语言学言语行为理论）
+perlocutionary       # 窄专业（同上）
+petiole              # 窄专业（植物学：叶柄）
