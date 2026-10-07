@@ -1400,3 +1400,4 @@ penn-orth            # 清单伪影（penn'orth 的撇号洗成了连字符）
 perlocution          # 窄专业（语言学言语行为理论）
 perlocutionary       # 窄专业（同上）
 petiole              # 窄专业（植物学：叶柄）
+petrol bunk          # 地区变体（印度英语：加油站）
