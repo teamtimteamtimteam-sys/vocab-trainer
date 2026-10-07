@@ -1169,6 +1169,8 @@ CHECK = {
  'orbit': ['in orbit'],
  'order': ['in order to', 'out of order', 'in order', 'on order', 'order of magnitude', 'the order of the day', 'in working order', 'made to order', 'law and order', 'a tall order', 'put your house in order', 'order about', 'order around'],
  'ordinary': ['out of the ordinary', 'in the ordinary way'],
+ 'other': ['the other day', 'other than', 'each other', 'one after the other', 'every other', 'in other words', 'on the other hand', 'the other way round', 'somehow or other', 'other half'],
+ 'otherwise': ['or otherwise'],
  'image': ['the spitting image of', 'in the image of', 'be the image of', 'public image'],
  'imagination': ['use your imagination', 'capture the imagination', 'by no stretch of the imagination',
                  'a figment of', 'leave nothing to the imagination'],

@@ -1329,3 +1329,5 @@ orogeny      # 地质学窄专业
 orographic   # 气象、地质窄专业
 ordinary grade # 苏格兰
 order of chivalry # 冷僻
+osseous      # 解剖学窄专业
+otolaryngology # 医学窄专业（耳鼻喉科学）
