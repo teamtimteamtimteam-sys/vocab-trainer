@@ -1350,3 +1350,6 @@ ovine        # 窄专业（绵羊的）
 oviparous    # 动物学窄专业
 ovoviviparous # 动物学窄专业
 ovule        # 植物学窄专业
+owt          # 北英格兰
+oxter        # 苏格兰
+oz           # 单位缩写（ounce）

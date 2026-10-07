@@ -312,3 +312,4 @@ overlaid     overlay        # 不规则过去式
 overran      overrun        # 不规则过去式
 overspent    overspend      # 不规则过去式
 overtook     overtake       # 不规则过去式
+owing        owe            # 并在 owe 条（owing to）
