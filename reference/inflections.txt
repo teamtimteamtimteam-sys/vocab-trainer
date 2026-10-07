@@ -317,7 +317,7 @@ Paleolithic  Palaeolithic   # 美式拼法
 paleontologist palaeontologist # 美式拼法
 paleontology palaeontology  # 美式拼法
 parrakeet    parakeet       # 拼法变体
-pacy         pacey          # 拼法变体
+pacy         pace           # pacey 的另一种拼法；两个都并在 pace 条
 pajamas      pyjamas        # 美式拼法；在 pyjamas 条配等式
 partook      partake        # 不规则过去式
 paid         pay            # 不规则过去式；形容词用法并在 pay 条
