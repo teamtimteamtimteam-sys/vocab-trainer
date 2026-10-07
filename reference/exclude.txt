@@ -1353,3 +1353,8 @@ ovule        # 植物学窄专业
 owt          # 北英格兰
 oxter        # 苏格兰
 oz           # 单位缩写（ounce）
+o-clock      # 清单的清洗伪影，即 o'clock（已收）
+o-er         # 清单的清洗伪影，即 o'er（已收）
+o-come-all-ye-faithful # 圣诞颂歌名
+o-n-o        # 清单的清洗伪影，即缩写 o.n.o.
+O grade      # 苏格兰（旧考试名）

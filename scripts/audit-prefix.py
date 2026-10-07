@@ -63,6 +63,8 @@ EXPECT = {
     'l': ['la','le','li','ll','lo','lu','ly'],
     'm': ['ma','mc','me','mi','mn','mo','mu','my'],
     'n': ['na','ne','ni','no','nt','nu','ny'],
+    # o 收完后登记（2026-10-07）。二十五个双字母段都有词条；清单里没有 ob… 以外的空段需要解释。
+    'o': ['oa','ob','oc','od','oe','of','og','oh','oi','oj','ok','ol','om','on','oo','op','or','os','ot','ou','ov','ow','ox','oy','oz'],
 }
 
 KEY = sort_key   # 共用排序键，见 scripts/wordkey.py
