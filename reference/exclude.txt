@@ -1401,3 +1401,9 @@ perlocution          # 窄专业（语言学言语行为理论）
 perlocutionary       # 窄专业（同上）
 petiole              # 窄专业（植物学：叶柄）
 petrol bunk          # 地区变体（印度英语：加油站）
+phile                # 词缀残片（-phile 掉了连字符）
+philia               # 词缀残片（-philia）
+phobe                # 词缀残片（-phobe）
+phonotactic          # 窄专业（音系学）
+phonotactics         # 窄专业（音系学）
+photic               # 窄专业（海洋学、生理学：光的）

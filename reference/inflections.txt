@@ -338,3 +338,5 @@ penn'orth    pennyworth     # 缩略拼法
 persnickety  pernickety     # 美式变体，在 pernickety 条配等式
 peafowl      peacock        # 并在 peacock 条
 peahen       peacock        # 并在 peacock 条
+phony        phoney         # 美式拼法；在 phoney 条配等式
+phantasy     fantasy        # 旧拼法
