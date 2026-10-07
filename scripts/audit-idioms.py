@@ -1151,6 +1151,8 @@ CHECK = {
  'offing': ['in the offing'],
  'often': ['every so often', 'more often than not', 'as often as not'],
  'oil': ['burn the midnight oil', 'pour oil on troubled waters', 'oil the wheels', 'no oil painting', 'strike oil'],
+ 'old': ['any old', 'the good old days', 'old hat', 'as old as the hills', 'of old'],
+ 'olive': ['olive branch'],
  'image': ['the spitting image of', 'in the image of', 'be the image of', 'public image'],
  'imagination': ['use your imagination', 'capture the imagination', 'by no stretch of the imagination',
                  'a figment of', 'leave nothing to the imagination'],

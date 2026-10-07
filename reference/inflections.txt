@@ -291,3 +291,4 @@ offense      offence        # 美式拼法；在 offence 条配等式
 oho          oh             # 感叹词并在 oh 条
 oiliness     oily           # 名词并进 oily 条后，前四字母对不上
 okey-doke    OK             # 口语变体并在 OK 条
+olde         old            # 仿古拼法（olde worlde）；并在 old 条
