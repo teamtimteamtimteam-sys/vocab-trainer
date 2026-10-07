@@ -295,56 +295,24 @@ be outfitted with something = 配备了某物
 = 我们在进公园前的最后一座镇上，向一家户外用品店租了帐篷和独木舟。
 an outfitter = 户外用品店
 
-outside
-/ˌaʊtˈsaɪd/
-核心：名词、形容词、介词、副词都用，反义 inside。
-名词：外面、外部、外表：the outside of the house。形容词只作定语：外面的、外来的；可能性极小的：an outside chance。
-介词：在…外面、到…外面；超出…的范围：outside office hours；美式也说 outside of，口语里还表示「除了」。
-副词：在外面、到外面。at the outside 是至多、充其量。
-英式里 the outside lane 是靠路中间的超车道；outside broadcast 是（电台、电视台）在演播室以外的现场转播。并入本条。
-① The outside of the house needs painting before the winter.
-= 房子的外墙得在入冬前刷一遍漆。
-the outside of something = 某物的外面
-② The cake was burnt on the outside and raw in the middle.
-= 那个蛋糕外面焦了，中间还是生的。
-on the outside = 在外面、表面上
-③ The outside walls are two feet thick and keep the house cool.
-= 外墙有两英尺厚，让房子保持凉爽。
-the outside walls = 外墙
-④ The firm called in outside experts to look at the accounts.
-= 那家公司请了外面的专家来查账。
-outside experts = 外面的专家
-⑤ She has only an outside chance of winning, but she is going to try.
-= 她获胜的希望很渺茫，但她打算试一试。
-an outside chance = 渺茫的希望
-⑥ A taxi was waiting outside the station with its engine running.
-= 一辆出租车没熄火，等在车站外面。
-outside the station = 在车站外面
-⑦ You cannot ring the office outside working hours.
-= 上班时间以外打不通办公室的电话。
-outside working hours = 上班时间以外
-⑧ Nobody outside of the family knew about the will.
-= 除了家里人，谁也不知道那份遗嘱的事。
-outside of = 除了、在…之外
-⑨ It is cold outside, so take a scarf.
-= 外面冷，带条围巾。
-outside = 在外面
-⑩ The repairs will take three weeks at the outside.
-= 修理至多要三个星期。
-at the outside = 至多
-⑪ He stayed in the outside lane for ten miles with a queue of cars behind him.
-= 他在超车道上开了十英里，后面跟着一长串车。
-the outside lane = 超车道
-⑫ The match was shown as an outside broadcast from a field in the rain.
-= 那场比赛是从一块下着雨的场地现场转播的。
-an outside broadcast = 现场转播
+outflank
+/ˌaʊtˈflæŋk/
+核心：两支。一是（军事）从侧翼包抄、迂回到敌人侧后；二是（比喻）用更高明的一招占了对手的上风。及物动词。
+① The cavalry outflanked the enemy by crossing the river at night.
+= 骑兵趁夜渡河，从侧翼包抄了敌人。
+outflank the enemy = 从侧翼包抄敌人
+② The smaller firm outflanked its rivals by selling directly to customers.
+= 那家较小的公司直接卖给顾客，占了对手的上风。
+outflank your rivals = 占对手的上风
+本义是军事用语。
 
-ouzo
-/ˈuːzəʊ/
-核心：乌佐酒、茴香酒：希腊的一种烈酒，有茴芹味，兑水后变成乳白色。不可数；指一杯时可数。
-① The old men at the café drink ouzo with water and a plate of olives.
-= 咖啡馆里的老头们喝兑水的乌佐酒，配一碟橄榄。
-drink ouzo = 喝乌佐酒
-② She brought back a bottle of ouzo that nobody has dared to open.
-= 她带回一瓶乌佐酒，至今没人敢开。
-a bottle of ouzo = 一瓶乌佐酒
+outflow
+/ˈaʊtfləʊ/
+核心：流出、外流：水、资金、人口大量往外流，介词用 of。可数，多用单数，反义 inflow。
+① The dam controls the outflow of water from the lake in dry years.
+= 干旱的年份，那座水坝控制着湖水的流出量。
+the outflow of water = 水的流出
+② The government acted to stop the outflow of capital from the country.
+= 政府采取行动，阻止资本外流。
+an outflow of capital = 资本外流
+反义是 inflow。
