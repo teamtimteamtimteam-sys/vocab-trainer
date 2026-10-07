@@ -50,3 +50,4 @@ climb	climb up
 computer	work on a computer
 hungry	feel hungry
 paragraph	paragraph break
+pattern	sentence pattern
