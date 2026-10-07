@@ -1289,3 +1289,12 @@ odontology   # 窄专业
 octopus trousers # 冷僻
 occipital bone # 解剖窄专业
 oestrus      # 生物学窄专业
+offa's dyke  # 纯专名
+offsider     # 澳新
+off-tackle   # 美式橄榄球窄专业
+oh-susanna   # 歌名
+ogham        # 古文字窄专业
+ohmigod      # 非正式拼写（oh my God 连写）
+oid          # 词缀截出来的残片
+okada        # 西非
+oke          # 拼法变体（OK 的另一种写法）
