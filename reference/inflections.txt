@@ -301,3 +301,5 @@ oracy        oral           # 名词并进 oral 条后，前四字母对不上
 ordination   ordain         # 名词并进 ordain 条后，前四字母对不上
 ordinand     ordain         # 名词并进 ordain 条后，前四字母对不上
 orgiastic    orgy           # 形容词并进 orgy 条后，前四字母对不上
+outran       outrun         # 不规则过去式
+ought to     ought          # 清单把 ought to 当词头；词条立在 ought
