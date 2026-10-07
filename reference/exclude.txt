@@ -1394,3 +1394,5 @@ passant      # 短语截出来的残片（en passant）
 pardner      # 方言拼写（partner 的变体）
 Paki         # 种族蔑称；用户 2026-10-07 裁定不收
 Polack       # 种族蔑称；用户 2026-10-07 裁定不收
+pass a round          # 清单伪影（pass around 的错切），pass 条已有 pass around
+Paul Revere's ride   # 纯专名（美国史事）

@@ -314,7 +314,7 @@ overspent    overspend      # 不规则过去式
 overtook     overtake       # 不规则过去式
 owing        owe            # 并在 owe 条（owing to）
 Paleolithic  Palaeolithic   # 美式拼法
-paleontologist palaeontologist # 美式拼法
+paleontologist palaeontology  # 美式拼法；palaeontologist 并在 palaeontology 条
 paleontology palaeontology  # 美式拼法
 parrakeet    parakeet       # 拼法变体
 pacy         pace           # pacey 的另一种拼法；两个都并在 pace 条
@@ -323,3 +323,5 @@ partook      partake        # 不规则过去式
 paid         pay            # 不规则过去式；形容词用法并在 pay 条
 partook      partake        # 不规则过去式
 partaken     partake        # 不规则过去分词
+parings      pare           # 并在 pare 条
+paring       pare           # paring knife 并在 pare 条
