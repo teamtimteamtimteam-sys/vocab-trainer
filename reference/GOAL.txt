@@ -24,7 +24,8 @@ B 词表 15794 条、义项 58119 条，词典序 a → opus。A 表 3002 条。
   **a–n 十四个字母收完**（各字母余下的只有「待推迟」条目；audit-prefix 的 EXPECT 已登到 n）。
   **o 字母在写**（清单 1226 条，24 个双字母段）：大写词头整个字母已判完；
     **oa- 到 op- 十五段收完**（oa ob oc od oe of og oh oi ok ol om on oo op）。
-    op- 余两条「待并入」没补：optical character recognition → character、optical fibre → fibre（optical 条里已有，清单认宿主），用 add-sense 补。
+    op- 只剩一条 coverage 仍报「待并入 op ← op. cit.」：等式和例句已在 op 条里（⑤），也登了 inflections，清单还是不认，
+      多半是带句点的词头归一化对不上 —— 是尺子的问题，没查清，下次有空看 coverage.py 第 301 行附近的归一化。
     or- 以后各段的准备都还没做：or（130）、os（26）、ot（12）、ou（143）、ov（211）、ow（18）、ox（19）、oy（7）、oz（5）。
   **下一步：or- 段的准备**（exclude → inflections → audit-idioms，提交一笔），然后动笔。
     **头一批先写功能词 or 与大词 order**（in order to、out of order、order of magnitude、orderly…），再按词典序 oracle → orthodox…。
