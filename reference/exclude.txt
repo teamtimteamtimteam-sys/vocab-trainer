@@ -1340,3 +1340,13 @@ outta        # 非正式拼写（out of 连写）
 outer belt   # 美国地方用语（环城公路）
 out-group    # 社会学窄专业
 outliner     # 软件窄专业
+overbridge   # 冷僻（英式，跨线桥）
+overdog      # 冷僻
+overgarment  # 冷僻
+overlie      # 地质学窄专业
+overtop      # 冷僻
+oviduct      # 解剖学窄专业
+ovine        # 窄专业（绵羊的）
+oviparous    # 动物学窄专业
+ovoviviparous # 动物学窄专业
+ovule        # 植物学窄专业

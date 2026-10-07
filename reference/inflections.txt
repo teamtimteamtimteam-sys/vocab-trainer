@@ -303,3 +303,12 @@ ordinand     ordain         # 名词并进 ordain 条后，前四字母对不上
 orgiastic    orgy           # 形容词并进 orgy 条后，前四字母对不上
 outran       outrun         # 不规则过去式
 ought to     ought          # 清单把 ought to 当词头；词条立在 ought
+ova          ovum           # 不规则复数
+overate      overeat        # 不规则过去式
+overcame     overcome       # 不规则过去式
+overfed      overfeed       # 不规则过去式
+overhung     overhang       # 不规则过去式
+overlaid     overlay        # 不规则过去式
+overran      overrun        # 不规则过去式
+overspent    overspend      # 不规则过去式
+overtook     overtake       # 不规则过去式
