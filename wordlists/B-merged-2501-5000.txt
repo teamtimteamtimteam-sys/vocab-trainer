@@ -29377,6 +29377,9 @@ an estate car = 旅行车（英式，车尾加长的轿车）
 = 我们把车停在车站附近一座立体停车场的顶层。
 a multi-storey car park = 立体停车场
 英式说法，口语里常只说 a multi-storey。
+㉑ We watched the glacier from the observation car at the back of the train.
+= 我们从列车尾部的观景车厢里看冰川。
+an observation car = 观景车厢
 构词：拉丁语 carrus 双轮货车
 注意用法：停车场英式说 car park，美式说 parking lot。
 
@@ -46344,6 +46347,9 @@ a dialling code = 电话区号（英式）
 = 被困的水手用手电筒打摩尔斯电码发信号，直到一艘路过的船回应。
 Morse code = 摩尔斯电码
 用长短两种信号的组合代表字母；得名于发明者，首字母大写。
+⑮ The source file is compiled into object code before the program can run.
+= 源文件要先编译成目标代码，程序才能运行。
+object code = 目标代码
 构词：拉丁语 codex 木简、法典
 注意用法：代码与准则两支在今天的文字里最常读到。
 

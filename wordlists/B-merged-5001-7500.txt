@@ -8794,6 +8794,9 @@ a coursebook = 一门课配套的课本；courseware = 配套的教学软件
 = 一半分数来自整学年陆续交的平时作业。
 coursework = 平时作业与作品（计入成绩的那部分）
 不可数；跟期末考试相对，是英式教育里的常用词。
+⑰ The new recruits were timed over the obstacle course on their second morning.
+= 新兵第二天早上就在障碍场上接受了计时测验。
+an obstacle course = 障碍场
 构词：拉丁语 cursus 跑动、路线
 注意别混：of course 与 in due course 意思差得远，别看形近就混。
 
@@ -26570,6 +26573,9 @@ a dictum = 名言、断语
 ② Two of his dicta are quoted more often than anything he actually built.
 = 他有两句断语被引用的次数，比他真正盖过的任何东西都多。
 dicta = 名言（复数）
+③ The remark about tenants was an obiter dictum and does not bind later courts.
+= 关于租户的那句话只是附带意见，对以后的法庭没有约束力。
+an obiter dictum = （法官的）附带意见
 构词：拉丁语 dictum「说过的话」
 注意语域：正式与学术用语；日常说 a saying。
 
@@ -30378,6 +30384,9 @@ disorderly conduct = 扰乱治安（法律用语）
 ④ Her sleep has been disordered since the shift pattern changed.
 = 自从班次改了，她的睡眠就一直紊乱。
 be disordered = 紊乱的
+⑤ She was diagnosed with obsessive compulsive disorder after years of checking every lock five times.
+= 她多年来每把锁都要查五遍，后来被诊断为强迫症。
+obsessive compulsive disorder = 强迫症
 构词：dis- 反向 加 order 秩序
 注意用法：医学义可数：a disorder、two disorders。
 
