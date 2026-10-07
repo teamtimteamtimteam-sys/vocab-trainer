@@ -1,3 +1,74 @@
+nuke
+/njuːk/
+核心：三支，口语。一是名词，核武器，可数；二是动词，用核武器攻击；三是动词，（美式）用微波炉加热。
+① The country is believed to have about ninety nukes hidden in tunnels under the mountains.
+= 据信该国有大约九十枚核弹，藏在山底下的隧道里。
+nukes = 核武器
+② In the film the generals argue about whether to nuke the asteroid.
+= 片子里，将军们争论要不要用核弹炸那颗小行星。
+nuke something = 用核武器攻击某物
+③ Just nuke the soup for two minutes and stir it well.
+= 把汤放进微波炉转两分钟，搅匀就行。
+nuke the soup = 用微波炉热汤
+
+null
+/nʌl/
+核心：三支，形容词。一是（法律）无效的，固定说法 null and void；二是（技术）零值的、空的：a null result 是没有得出结果；
+三是（计算机）空值，作名词。统计学的 null hypothesis 是零假设、原假设。并入本条。
+① The contract was declared null and void because one party had been misled.
+= 因为有一方受了误导，那份合同被宣告无效。
+null and void = 无效
+② The experiment gave a null result, which was useful in itself.
+= 那次实验没有得出结果，这本身也有用。
+a null result = 没有得出结果
+③ The program crashes if the name field is left as a null.
+= 姓名那一栏要是留成空值，程序就会崩溃。
+a null = 空值
+④ The test is designed to show whether the null hypothesis can be rejected.
+= 那项检验是为了看能不能推翻零假设。
+the null hypothesis = 零假设
+
+nullify
+/ˈnʌlɪfaɪ/
+核心：两支，正式。一是（法律）使无效、废止：宣布协议、判决、选举结果作废；二是抵消、使不起作用。
+名词 nullity 是（法律）无效，尤指婚姻自始无效，并入本条。
+① The court nullified the election after evidence of fraud in six districts.
+= 六个选区发现舞弊证据之后，法院宣布那次选举无效。
+nullify an election = 宣布选举无效
+② A sharp rise in costs nullified the benefit of the higher price.
+= 成本猛涨，把提价带来的好处抵消了。
+nullify the benefit = 抵消好处
+③ She applied for a decree of nullity on the ground that the marriage was never valid.
+= 她以婚姻自始无效为由，申请宣告婚姻无效的判令。
+a decree of nullity = 宣告婚姻无效的判令
+
+numb
+/nʌm/
+核心：字母 b 不发音。形容词一是（身体部位）麻木的、失去知觉的：因为冷、压迫或打了麻药，介词用 with；
+二是（因震惊、悲痛）呆住的、没有感觉的。动词是使麻木、使呆住。
+形容词 numbing 是让人麻木的、沉闷得要命的；副词 numbly；名词 numbness。并入本条。
+① My fingers were numb with cold by the time we reached the hut.
+= 等我们走到小屋，我的手指都冻麻了。
+numb with cold = 冻麻了
+② The injection will make your jaw go numb for a couple of hours.
+= 这一针会让你的下巴麻上两三个钟头。
+go numb = 发麻
+③ She sat numb with shock, holding the letter in her lap.
+= 她惊得呆坐着，信搁在膝头。
+numb with shock = 惊呆了
+④ The icy water numbed his legs within a minute.
+= 冰冷的水不到一分钟就让他的两条腿麻木了。
+numb something = 使某物麻木
+⑤ The meeting was three hours of numbing detail about parking permits.
+= 那场会开了三个钟头，净是关于停车证的细节，沉闷得要命。
+numbing detail = 沉闷得要命的细节
+⑥ He nodded numbly and signed where the nurse pointed.
+= 他木然地点点头，在护士指的地方签了字。
+numbly = 木然地
+⑦ She felt a numbness in her left arm and rang for an ambulance.
+= 她觉得左臂发麻，就打电话叫了救护车。
+numbness = 麻木
+
 number
 /ˈnʌmbə(r)/
 核心：名词六支。一是数、数字：an even number、a number between one and ten；二是号码、编号：a phone number、
@@ -378,101 +449,3 @@ nurture an ambition = 怀着志向
 ④ The old argument about nature and nurture is far from settled.
 = 关于先天与后天的那场老争论，远没有定论。
 nature and nurture = 先天与后天
-
-nut
-/nʌt/
-核心：名词四支，可数。一是坚果：有硬壳的干果，如核桃、榛子；二是螺母：拧在螺栓上的那个小金属件；
-三是（口语）疯子、怪人，也指对某事入迷的人：a football nut；四是（英式口语）脑袋。
-动词是（英式口语）用头撞人。
-复数形式 nuts 作形容词是（口语）疯了的、傻了的：go nuts 是发疯、气疯；be nuts about 是痴迷于。
-习语：a hard nut to crack 是难对付的人、难解决的事；do your nut 是（英式）大发雷霆；
-the nuts and bolts 是基本的、具体的细节；off your nut 是（英式）疯了。
-以它打头的复合词并入本条：nut-brown（深棕色的）、nut loaf 与 nut roast（素食者吃的烤坚果糕）。
-① She cracked the nuts with a stone because nobody could find the nutcracker.
-= 谁也找不到坚果钳，她就用石头把坚果砸开。
-nut = 坚果
-crack a nut = 砸开坚果
-② The cake contains nuts, so it must be kept away from the child with the allergy.
-= 那块蛋糕里有坚果，千万别让那个过敏的孩子碰。
-contain nuts = 含坚果
-③ Tighten the nut with a spanner until the wheel no longer wobbles.
-= 用扳手把螺母拧紧，直到轮子不再晃。
-nut = 螺母
-tighten a nut = 拧紧螺母
-④ Her brother is a cricket nut who knows every score since 1950.
-= 她哥哥是个板球迷，一九五〇年以来的每个比分都知道。
-a cricket nut = 板球迷
-⑤ Some nut on a motorbike overtook us on a blind bend.
-= 一个骑摩托的疯子，在看不见对面的弯道上超了我们的车。
-some nut = 某个疯子
-⑥ He was sent off for nutting the goalkeeper after the whistle.
-= 他在哨响之后用头撞了守门员，被罚下场。
-nut somebody = 用头撞某人
-⑦ You must be nuts to swim in the sea in January.
-= 一月份下海游泳，你准是疯了。
-be nuts = 疯了
-⑧ My daughter is nuts about horses and talks of nothing else.
-= 我女儿迷马迷得不行，嘴里说的全是马。
-be nuts about = 痴迷于
-⑨ The crowd went nuts when the home team scored in the last minute.
-= 主队在最后一分钟进球，观众都疯了。
-go nuts = 发疯、兴奋得发狂
-⑩ The new tax code is a hard nut to crack, even for accountants.
-= 新税法是块难啃的骨头，连会计都觉得难。
-a hard nut to crack = 难解决的事
-⑪ Dad will do his nut when he sees the dent in the car.
-= 爸爸看见车上那个凹坑，准会大发雷霆。
-do your nut = 大发雷霆
-⑫ The course covers the nuts and bolts of running a small business.
-= 那门课讲的是经营小生意的具体门道。
-the nuts and bolts = 具体的细节
-⑬ You are off your nut if you think I will lend you that much.
-= 你要是以为我会借给你那么多钱，那你是疯了。
-off your nut = 疯了
-⑭ The pony had a nut-brown coat that shone in the sun.
-= 那匹小马一身深棕色的毛，在太阳底下发亮。
-nut-brown = 深棕色的
-⑮ The vegetarians were served a nut loaf with mushroom gravy.
-= 给吃素的人上的是烤坚果糕配蘑菇汁。
-a nut loaf = 烤坚果糕
-a nut roast = 烤坚果糕
-
-nutcase
-/ˈnʌtkeɪs/
-核心：疯子、怪人。可数，口语，带轻蔑；拿来说真正有精神疾病的人是冒犯的。
-① Some nutcase rang the station six times to say the moon was following him.
-= 有个疯子给警局打了六回电话，说月亮在跟踪他。
-some nutcase = 某个疯子
-② My friends think I am a nutcase for cycling to work in the snow.
-= 我冒雪骑车上班，朋友们觉得我是个怪人。
-be a nutcase = 是个怪人
-
-nutcracker
-/ˈnʌtkrækə(r)/
-核心：坚果钳、胡桃夹子：夹碎坚果壳的工具。可数，英式常用复数 nutcrackers 指一把。
-① She handed round a bowl of walnuts and a pair of nutcrackers.
-= 她把一碗核桃和一把坚果钳传给大家。
-a pair of nutcrackers = 一把坚果钳
-② The wooden nutcracker on the shelf is carved in the shape of a soldier.
-= 架子上那只木头胡桃夹子，刻成了士兵的样子。
-a wooden nutcracker = 木头胡桃夹子
-
-nuthatch
-/ˈnʌthætʃ/
-核心：䴓：一种小型林鸟，背灰腹橙，能头朝下沿树干往下爬，把坚果塞进树皮缝里啄开。可数。
-① A nuthatch ran head first down the trunk of the oak.
-= 一只䴓头朝下，顺着橡树的树干跑了下来。
-a nuthatch = 䴓
-② Nuthatches visit the bird table in winter and carry off the peanuts one by one.
-= 冬天，䴓常到喂鸟台来，把花生一颗一颗叼走。
-nuthatches = 䴓
-
-nuthouse
-/ˈnʌthaʊs/
-核心：两支，口语。一是（旧，冒犯）精神病院，如今不该这么说；二是（诙谐）乱成一团、像疯人院的地方。可数。
-① In the old film the hero is locked up in a nuthouse by relatives who want his money.
-= 那部老片子里，主角被想要他钱的亲戚关进了疯人院。
-a nuthouse = 精神病院（旧称，冒犯）
-② With three toddlers and a puppy, the house is a nuthouse by six in the evening.
-= 三个刚会走的孩子加一只小狗，到傍晚六点，那座房子就像个疯人院。
-be a nuthouse = 乱得像疯人院

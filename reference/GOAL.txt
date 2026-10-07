@@ -19,21 +19,18 @@ B 10000
   **app 2.1.0 已于 2026-10-06 推送**（用户同意的那一次）；之后的提交照旧本地攒着，push 等用户开口。
   **「继续」现在指什么要看用户上一句在说哪件事**：音标已经补完，「继续」就是接着写词表（n 字母开段）。拿不准就问。
 
-═══ 现状（2026-10-07，第一百一十轮收尾）═══
-B 词表 15645 条、义项 57363 条，词典序 a → offensive。A 表 3002 条。A、B 两表每条都有音标行。
+═══ 现状（2026-10-07，第一百一十一轮收尾）═══
+B 词表 15688 条、义项 57560 条，词典序 a → okra。A 表 3002 条。A、B 两表每条都有音标行。
   **a–n 十四个字母收完**（各字母余下的只有「待推迟」条目；audit-prefix 的 EXPECT 已登到 n）。
-  **o 字母在写**（清单 1226 条，24 个双字母段）：大写词头整个字母已判完；**oa-、ob-、oc-、od- 四段收完**。
-    **oe- 段 6 条还没写**（准备已做）：oedema、Oedipal（并 Oedipus complex，也用 add-sense 补进 complex 条）、oenology（并 oenophile）、oesophagus、oestrogen、oeuvre。
-    of- / og- / oh- / oi- / ok- 五段的 exclude、inflections、习语清单已做（off、offence、offer、office、offing、often、oil）。
-    of- 段写了头一批：of（16 义）、off（43 义，并了 off-air … off year 二十多个复合词）、offal、offbeat、offcut、offence（并 offense）、offend、offensive；待新写还有 27 条。
-    ol- 以后各段的准备都还没做，一段一做。
-  **下一批**：oe- 六条；of- 余下的 offer（A 表 offer to do、offer = 优惠；习语 on offer、under offer、open to offers；并 offering）、offertory、offhand（并 offhandedly）、
-    office（大词；A 表 post office；习语 take office、in office；并 office block / boy / girl / hours / party / worker、office-holder，其中 block、boy、girl、holder 是
-    「待并入」宿主条，要 add-sense）、officer、official（A 表 officially；并 officialdom、officialese、official receiver、official secret）、officiate、
-    officious（并 officiously、officiousness）、offing、offline、offload、offprint、offset、offshoot、offshore（并 offshoring）、offside、offspring、offstage、
-    often（A 表 How often；三条习语；并 oftentimes）。
-    然后 og-（ogle、ogre 并 ogress）、oh-（oh 并 oho、oh-oh、oh-so；ohm 并 ohmmeter）、oi-（oil 大词）、ok-（OK 并 okay、okey-doke；okapi、okra）。
-    **清单里没有 offence 和 okay，只有 offense 和 OK** —— 词头按英式写 offence，offense 登了 inflections；OK 条里给 okay 配等式。
+  **o 字母在写**（清单 1226 条，24 个双字母段）：大写词头整个字母已判完；
+    **oa- ob- oc- od- oe- of- og- oh- oi- ok- 十段收完**（各段的并入义项已用 add-sense 补进宿主）。
+    **ol- 以后各段的准备都还没做，一段一做**：ol（51）、om（23）、on（80）、oo（9）、op（144）、or（130）、os（26）、ot（12）、ou（143）、ov（211）、
+    ow（18）、ox（19）、oy（7）、oz（5）。
+  **下一步：ol- 与 om- 两段的准备**（exclude → inflections → audit-idioms，提交一笔），然后动笔。
+    ol- 的大词：old（A 表多半有）、olive、Olympic 一族；om- 的 omen、omit、omnibus、omelette。
+    再往后 on- 段：**on、once、one、only 四个功能词放头一批先写**；ou- 段的 out、ov- 段的 over 同理，这两段的复合词极多（out- 与 over- 各上百条）。
+  这一轮记下的：**大词密集的切块会掉到讲解行密度基线以下**（oil 23 义几乎没配讲解行，B-15665-15688 报「密度低于基线」）——
+    大词动笔时至少一半义项直接配讲解行，HANDOFF 第六节第 16 条早写过，这回又栽了。
   **用户 2026-10-07 裁定**：Mr / Mrs / Ms 收（已写，登进 proper-nouns-keep 末尾）；nigger 照 Negro 条的写法收（已写：核心块讲分量与不可用，例句用书名）；
     已交付的六份用户决定自己清空后重新导入（不改 app）：2026-10-07 已把 A 表一份加 B 表六份用 SendUserFile 发过去，
     并告知步骤「导出进度备份 → 清空 → 导入七份 → 恢复进度」（restoreProgress 按词头对回分组与复习进度）。
@@ -48,7 +45,7 @@ B 词表 15645 条、义项 57363 条，词典序 a → offensive。A 表 3002 �
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
   已交付六份：B-merged-0001-2500 … 10001-12500（用户已导入 app），**第六份 12501-15000 于 2026-10-06 用 SendUserFile 发给用户**，
     并提醒了「先让 iPad 升到 2.1.0 再导入」（带音标行）。
-  第七份在攒：现为 B-merged-15001-15645（645 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
+  第七份在攒：现为 B-merged-15001-15688（688 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 在 2026-10-06 推过两次**（音标补齐那批、此前的 app 2.1.0）；之后的提交照旧本地攒着，push 等用户开口。
 
