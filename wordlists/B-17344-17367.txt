@@ -1,3 +1,33 @@
+popsock
+/ˈpɒpsɒk/
+核心：（英式）及膝丝袜：只到膝盖下面的女式短丝袜，穿在长裤里。可数，多用复数。
+① She wore popsocks under her trousers instead of tights.
+= 她在长裤里穿及膝丝袜，不穿连裤袜。
+popsocks = 及膝丝袜
+② The elastic at the top of her popsocks left a red line below each knee.
+= 她及膝丝袜的松紧口在两个膝盖下面各勒出一道红印。
+the top of her popsocks = 她丝袜的袜口
+
+poptastic
+/pɒpˈtæstɪk/
+核心：（英式口语）（流行音乐）棒极了的。由 pop 和 fantastic 拼成，带玩笑口气。
+① The band's new single is a poptastic three minutes of pure fun.
+= 那支乐队的新单曲是三分钟棒极了的纯快乐。
+poptastic = 棒极了的
+② The DJ promised an evening of poptastic hits from the eighties.
+= 调音师许诺了一晚上八十年代的超棒金曲。
+poptastic hits = 超棒的金曲
+
+populace
+/ˈpɒpjələs/
+核心：（正式）the populace：（一国、一地的）全体居民、平民百姓。单数，动词单复数都行。读音跟 populous 一样。
+① The new tax was deeply unpopular with the populace.
+= 新税在百姓中极不得人心。
+the populace = 平民百姓
+② The whole populace of the town turned out to welcome the team home.
+= 全城的人都出来迎接球队凯旋。
+the whole populace = 全城的人
+
 popular
 /ˈpɒpjələ(r)/
 核心：三路意思。一是受欢迎的、受人喜爱的：be popular with；二是（只作定语）大众的、通俗的：面向普通人而不是专家的：popular music、the popular press；
@@ -290,65 +320,3 @@ stir the porridge = 搅麦片粥
 ③ He did five years' porridge for his part in the robbery.
 = 他因参与那起抢劫坐了五年牢。
 do porridge = 坐牢
-
-port
-/pɔːt/
-核心：几个同形的词。一是港口、港口城市：船装卸货物、上下客的地方，可数也可不可数：in port、leave port。
-习语：any port in a storm 是有难处时顾不得挑、有个地方躲就行；port of call 是（航程中的）停靠港，引申为一路上要去的一处地方。
-二是（船、飞机的）左舷、左侧：面朝前进方向时的左边，不可数，跟 starboard（右舷）相对。
-三是波特酒：葡萄牙产的一种甜而浓的红葡萄酒，饭后喝，不可数。port wine stain 是（脸上、身上）紫红色的胎记。
-四是（计算机）端口、接口：电脑上接别的设备的插口，可数；动词：把（软件）移植到另一种系统上。
-① The ship spent three days in port while the engine was repaired.
-= 修发动机的时候，那艘船在港里停了三天。
-in port = 在港里
-② Rotterdam is one of the busiest ports in Europe.
-= 鹿特丹是欧洲最繁忙的港口之一。
-a busy port = 繁忙的港口
-③ The hotel was dirty, but it was late and any port in a storm.
-= 那家旅馆很脏，可天晚了，有个地方落脚就不挑了。
-any port in a storm = 有难处时顾不得挑
-④ Our first port of call in the town was the tourist office.
-= 我们在镇上去的头一处是游客服务处。
-port of call = 停靠港、要去的一处地方
-⑤ The lighthouse appeared on the port side an hour before dawn.
-= 拂晓前一个钟头，灯塔出现在左舷方向。
-the port side = 左舷
-⑥ The old men sat by the fire with a glass of port after dinner.
-= 饭后，老头儿们坐在炉边，一人一杯波特酒。
-a glass of port = 一杯波特酒
-⑦ The baby was born with a port wine stain on her left cheek.
-= 那婴儿生下来左脸上就有一块紫红色的胎记。
-a port wine stain = 紫红色胎记
-⑧ Plug the printer into the port at the back of the computer.
-= 把打印机插到电脑背后的接口上。
-a port = 端口、接口
-⑨ The game has been ported to three different kinds of telephone.
-= 那款游戏已经移植到三种不同的手机上。
-be ported to something = 被移植到某系统上
-
-portable
-/ˈpɔːtəbl/
-核心：形容词：便携的、轻便可携带的；（计算机）（软件）可移植的；（福利、养老金）换了工作可以带走的。名词：便携的东西（电视、电脑），可数。
-名词 portability，不可数。并入本条。
-① She wrote the whole novel on a portable typewriter in a hotel room.
-= 整部小说她是在旅馆房间里用一台便携打字机写的。
-a portable typewriter = 便携打字机
-② The pension is fully portable if you move to another employer.
-= 你要是换了雇主，那份养老金可以全部带走。
-a portable pension = 可带走的养老金
-③ We watched the match on a small portable in the kitchen.
-= 我们在厨房里用一台小便携电视看了那场比赛。
-a portable = 便携电视、便携电脑
-④ The portability of the new machine makes it popular with travelling salesmen.
-= 新机器便于携带，很受跑外勤的推销员欢迎。
-portability = 便携性
-
-portage
-/ˈpɔːtɪdʒ/
-核心：（在两段水路之间）抬着船和货物走陆路；也指这样走的那段陆路。不可数或可数。
-① The rapids forced the party to make a portage of two miles.
-= 急流逼得那队人抬着船走了两英里陆路。
-make a portage = 抬船走陆路
-② The portage between the two lakes follows an old trail through the woods.
-= 两个湖之间的那段陆路沿着一条穿林的古道。
-the portage = 那段陆路
