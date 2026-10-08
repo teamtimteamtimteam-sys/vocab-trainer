@@ -19,8 +19,8 @@ B 10000
   **app 2.1.0 已于 2026-10-06 推送**（用户同意的那一次）；之后的提交照旧本地攒着，push 等用户开口。
   **「继续」现在指什么要看用户上一句在说哪件事**：音标已经补完，「继续」就是接着写词表（n 字母开段）。拿不准就问。
 
-═══ 现状（2026-10-08，第一百四十八轮收尾）═══
-B 词表 17711 条、义项 65598 条，词典序 a → pristine。A 表 3002 条。A、B 两表每条都有音标行。
+═══ 现状（2026-10-08，第一百四十九轮收尾）═══
+B 词表 17774 条、义项 65874 条，词典序 a → profusion。A 表 3002 条。A、B 两表每条都有音标行。
   **a–o 十五个字母收完**（各字母余下的只有「待推迟」条目；audit-prefix 的 EXPECT 已登到 o）。
   **p 字母在写**（清单 4169 条；pa 762、pe 581、ph 195、pi 331、pl 315、po 620、pr 918、ps 51、pu 358、py 19）：大写词头整个字母已判完。
     **pa- 段收完**（十八批；coverage 只剩 pajamas 等 pyjamas、packing density 待推迟；pa-todo.txt 已删）。
@@ -30,13 +30,14 @@ B 词表 17711 条、义项 65598 条，词典序 a → pristine。A 表 3002 �
     **pl- 段收完**（七批；coverage 只剩 placer mining、planter's punch 待推迟）。
     **po- 段收完**（十五批；coverage 只剩 pogo stick 待推迟）。poof 照「冒犯性标签不收」排除，问过用户，尚无回话。
     **pr- 段**（清单 916 条）：开段准备做了第一部分（exclude：pre、priori、prepone、prithee、prescind、prana、三个稀土元素名、proclitic、procaine；
-    inflections：practise、praesidium、primaeval、pretense、pressie / prezzie、prez、prob / probs；audit-idioms 登 practice → price 十四个大词）；写了十一批，到 pristine。
+    inflections：practise、praesidium、primaeval、pretense、pressie / prezzie、prez、prob / probs；audit-idioms 登 practice → price 十四个大词）；写了十四批，到 profusion。
     **Paki、Polack 用户 2026-10-07 裁定不收**，已从 keep 名单撤掉、登进 exclude。
     **蔑称的规矩**：nigger 是用户点名要收的唯一一个；别的种族、族群蔑称（冒犯性标签）照旧不收，不要外推那次裁定，也不用再逐个问。
-  **下一批从 privacy 起（pr- 段还剩二十四批左右）**：privacy、private（一条习语；并 privately、private parts / road / school / secretary / soldier / view、privateer 另立）、privateer、privation、
-    privatize（并 privatization）、privet、privilege（并 privileged）、privy、prize（一条习语；并 prized、prize-giving、prizefight 一族、prizewinner / -winning）、pro（并 pros and cons、pro bono、
-    pro forma、pro rata、pro shop、pro tem）、proactive(ly)、probability（并 probabilistic）、probable、probably、probate、probation（并 probationary、probationer）、probe（并 probing）、probiotic、
-    probity、problem（四条习语；并 prob / probs、problematic、problem-solving）、proboscis、procedure（并 procedural）、proceed（并 proceed from）、proceeding(s)、proceeds、process（两条习语；并 processing）… 照 pr.txt 往下。
+  **下一批从 progenitor 起（pr- 段还剩二十一批左右）**：progenitor、progeny、progesterone、prognosis（并 prognostic、prognostication）、programme（英式词头；并 program、programmable、
+    programmatic(ally)、programmer、programming）、progress（两条习语）、progression、progressive（并 -ly、progressivism）、prohibit（并 prohibited）、prohibition（并 prohibitionist）、
+    prohibitive（并 -ly）、project（并 project onto、projection、projectionist、projector 视情况单立）、projectile、prolapse、prole、proletarian、proliferate（并 proliferation）、prolific(ally)、
+    prolix（并 prolixity）、prologue、prolong（并 prolongation、prolonged）、prom、promenade、Promethean、prominent（并 prominence、prominently）、promiscuous（并 promiscuity）、
+    promise（四条习语；并 promising(ly)）、promo、promontory、promote、promoter、promotion（并 promotional）、prompt … 照 pr.txt 往下。
     **pr- 的习语清单已登到 prowl**（prick → prowl 二十二个大词是第二部分登的）；prude 往后没有要登的大词。
     programme 这个英式拼法的词头清单里没单列（只列了 program），写到时以英式为词头、美式配等式；pretence、prise 已这么写了。
     提交一律用 if 判断闸门退出码再提交。
@@ -58,7 +59,7 @@ B 词表 17711 条、义项 65598 条，词典序 a → pristine。A 表 3002 �
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
   已交付六份：B-merged-0001-2500 … 10001-12500（用户已导入 app），**第六份 12501-15000 于 2026-10-06 用 SendUserFile 发给用户**，
     并提醒了「先让 iPad 升到 2.1.0 再导入」（带音标行）。
-  **第七份 15001–17500（Mr → prawn）于 2026-10-08 用 SendUserFile 发给用户**，并提醒了 app 需 2.1.0。第八份在攒：现为 B-merged-17501-17711（211 条），满 2500 条时照旧主动发。
+  **第七份 15001–17500（Mr → prawn）于 2026-10-08 用 SendUserFile 发给用户**，并提醒了 app 需 2.1.0。第八份在攒：现为 B-merged-17501-17774（274 条），满 2500 条时照旧主动发。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 在 2026-10-06 推过两次**（音标补齐那批、此前的 app 2.1.0）；之后的提交照旧本地攒着，push 等用户开口。
 
