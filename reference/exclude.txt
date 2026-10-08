@@ -1440,3 +1440,14 @@ poker machine        # 地区变体（澳新：老虎机）
 Poor Richard's Almanack   # 纯专名（书名）
 poor-richard's almanack   # 同上的清洗形式
 poets-corner         # 清单伪影（Poets' Corner 的清洗形式，poet 条已收）
+pre                  # 词缀残片（pre- 掉了连字符）
+priori               # 清单伪影（a priori 的残片，a 段已收）
+prepone              # 地区变体（印度英语：提前）
+prithee              # 整词已废的古旧词（请）
+prescind             # 冷僻的书面词
+prana                # 窄专业（瑜伽、印度哲学用语）
+praseodymium         # 窄专业（稀土元素名，照 actinium 的例）
+promethium           # 窄专业（同上）
+protactinium         # 窄专业（同上）
+proclitic            # 窄专业（语言学）
+procaine             # 窄专业（局部麻醉药名）

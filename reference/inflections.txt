@@ -354,3 +354,12 @@ ploughshare  plough         # 并在 plough 条
 pocked       pockmark       # 并在 pockmark 条
 pollywog     polliwog       # 拼法变体
 popish       pope           # 并在 pope 条
+practise     practice       # 英式动词拼法；并在 practice 条
+praesidium   presidium      # 拼法变体
+primaeval    primeval       # 拼法变体
+pretense     pretence       # 美式拼法
+pressie      present        # 英式口语，礼物；在 present 条配等式
+prezzie      present        # 同上
+prez         president      # 口语截短
+prob         problem        # 口语截短
+probs        problem        # 口语截短
