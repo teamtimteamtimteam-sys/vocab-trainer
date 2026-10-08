@@ -42398,6 +42398,94 @@ the post room = 收发室
 = 随函附上邮资已付的信封供您回信。
 post-paid = 邮资已付的
 
+post-coital
+/ˌpəʊst ˈkɔɪtl/
+核心：（正式）性交之后的。只作定语。
+① The film ends with a post-coital scene of two people smoking in silence.
+= 那部片子以两人事后默默抽烟的一场戏收尾。
+a post-coital scene = 事后的一场戏
+② The clinic gives advice on post-coital contraception.
+= 那家诊所提供事后避孕方面的指导。
+post-coital contraception = 事后避孕
+post- 是「在……之后」。
+
+post hoc
+/ˌpəʊst ˈhɒk/
+核心：（正式）事后的、事后才作的：先有了结果，再回过头去找理由、作解释。形容词、副词；来自拉丁语「在这之后」。
+逻辑上的 post hoc 谬误：甲发生在乙之前，就认定甲是乙的原因。
+① The report offers a post hoc justification for a decision that had already been taken.
+= 那份报告是给一个早已作出的决定事后找理由。
+a post hoc justification = 事后找的理由
+② It is easy to explain the crash post hoc, but nobody predicted it.
+= 事后解释那场崩盘容易，可事前谁也没预料到。
+explain something post hoc = 事后解释某事
+
+post-mortem
+/ˌpəʊst ˈmɔːtəm/
+核心：名词，可数：验尸、尸体解剖：为查明死因而做的，也说 post-mortem examination，美式多说 autopsy；
+引申为（对一次失败的）事后剖析、检讨：a post-mortem on。形容词：死后的。来自拉丁语「死后」。
+① The post-mortem showed that the man had died of a heart attack.
+= 验尸表明那人死于心脏病发作。
+a post-mortem = 验尸
+② The party held a long post-mortem on its defeat in the election.
+= 那个党对选举失利作了长时间的检讨。
+a post-mortem on something = 对某事的事后剖析
+③ The bruises were the result of post-mortem injuries.
+= 那些瘀伤是死后才受的伤。
+post-mortem injuries = 死后受的伤
+
+post-partum
+/ˌpəʊst ˈpɑːtəm/
+核心：（医学）产后的。只作定语；也写作 postpartum。post-partum depression 是（美式）产后抑郁症，英式多说 postnatal depression。
+① The hospital keeps new mothers for two days of post-partum care.
+= 那家医院留产妇住两天，做产后护理。
+post-partum care = 产后护理
+② She suffered from post-partum depression after the birth of her second child.
+= 生第二个孩子以后，她得了产后抑郁症。
+post-partum depression = 产后抑郁症
+来自拉丁语「分娩之后」。
+
+post-production
+/ˌpəʊst prəˈdʌkʃn/
+核心：（电影、电视、唱片的）后期制作：拍完、录完之后的剪辑、配音、加特效等工作。不可数；常作定语。
+① The film spent a year in post-production because of its special effects.
+= 那部片子因为特效，后期制作花了一年。
+in post-production = 在后期制作中
+② The music was added during post-production at a studio in London.
+= 配乐是后期制作时在伦敦的一个录音棚加的。
+during post-production = 在后期制作时
+
+post-sync
+/ˌpəʊst ˈsɪŋk/
+核心：（术语）后期配音、后期同步：画面拍完以后再给它配上声音。动词，也作名词，不可数。
+① The actors had to post-sync their lines because of the noise of the wind.
+= 风声太大，演员们只好后期给台词配音。
+post-sync lines = 后期给台词配音
+② The whole film was shot without sound and finished with post-sync.
+= 整部片子拍的时候没录音，最后靠后期配音完成。
+post-sync = 后期配音
+sync 是 synchronize 的截短。
+
+post-truth
+/ˌpəʊst ˈtruːθ/
+核心：后真相的：指一种风气，人们更受情绪和成见左右，客观事实不那么起作用。多作定语：post-truth politics。
+① Commentators described the campaign as an example of post-truth politics.
+= 评论家说那场竞选是后真相政治的一个例子。
+post-truth politics = 后真相政治
+② In a post-truth age, a rumour can travel further than any correction.
+= 在后真相的时代，谣言能比任何更正传得更远。
+a post-truth age = 后真相的时代
+
+post-war
+/ˌpəʊst ˈwɔː(r)/
+核心：战后的：尤指第二次世界大战以后的。多作定语。反义是 pre-war。
+① The post-war years brought new houses and new schools to the town.
+= 战后那些年，镇上盖起了新房子、新学校。
+the post-war years = 战后的年月
+② She is an expert on post-war British poetry.
+= 她是战后英国诗歌方面的专家。
+post-war poetry = 战后的诗歌
+
 postage
 /ˈpəʊstɪdʒ/
 核心：邮资、邮费：寄信、寄包裹要付的钱。不可数。postage stamp 是邮票的正式说法；postage and packing 是邮寄包装费。
@@ -42631,3 +42719,156 @@ a postmaster = 邮局局长
 ② His grandmother was postmistress of the village for forty years.
 = 他奶奶当了四十年村里的邮局局长。
 a postmistress = 女邮局局长
+
+postmodern
+/ˌpəʊstˈmɒdn/
+核心：后现代的：指二十世纪后期艺术、建筑、文学里的一种风格，把不同时代的手法混在一起，常带戏谑，不信单一的权威说法。
+这种风格、思潮叫 postmodernism，不可数；拥护者叫 postmodernist，也作形容词。并入本条。
+① The bank is a postmodern building with a classical front and a glass roof.
+= 那家银行是座后现代建筑，古典式的正面配玻璃屋顶。
+a postmodern building = 后现代建筑
+② The novel is a postmodern game in which the author appears as a character.
+= 那部小说是一场后现代的游戏，作者自己成了书里的人物。
+a postmodern game = 后现代的游戏
+③ The course traces the rise of postmodernism in the arts after 1960.
+= 那门课梳理了一九六〇年以后后现代主义在艺术中的兴起。
+postmodernism = 后现代主义
+④ The critic is a postmodernist who distrusts every grand theory.
+= 那位评论家是后现代主义者，什么宏大理论都不信。
+a postmodernist = 后现代主义者
+
+postmodifier
+/ˌpəʊstˈmɒdɪfaɪə(r)/
+核心：（语法）后置修饰语：放在被修饰的词后面的词、短语，如 the man in the corner 里的 in the corner。可数。
+① In "the house on the hill", the phrase "on the hill" is a postmodifier.
+= 在「the house on the hill」里，「on the hill」这个短语是后置修饰语。
+a postmodifier = 后置修饰语
+② A relative clause is the most common kind of postmodifier in English.
+= 关系从句是英语里最常见的一种后置修饰语。
+a kind of postmodifier = 一种后置修饰语
+放在前面的叫 premodifier。
+
+postnatal
+/ˌpəʊstˈneɪtl/
+核心：产后的、出生后的。只作定语。postnatal depression 是（英式）产后抑郁症。反义是 antenatal、prenatal。并入本条。
+① The midwife visits every day during the first week of postnatal care.
+= 产后护理的头一个星期，助产士每天上门。
+postnatal care = 产后护理
+② She was treated for postnatal depression after her son was born.
+= 儿子出生后，她治了一阵产后抑郁症。
+postnatal depression = 产后抑郁症
+
+postpone
+/pəˈspəʊn/
+核心：推迟、延期：把一件事挪到以后办：postpone something until、to，postpone doing。及物。名词 postponement，可数也可不可数。并入本条。
+① The match has been postponed until Thursday because of the snow.
+= 因为下雪，比赛推迟到了星期四。
+be postponed until Thursday = 推迟到星期四
+② They decided to postpone having children until they had bought a house.
+= 他们决定买了房子再要孩子。
+postpone doing something = 推迟做某事
+③ The postponement of the trial angered the families of the victims.
+= 审判延期让受害人的家属很愤怒。
+the postponement of something = 某事的延期
+跟 cancel 不同：cancel 是不办了。
+
+postposition
+/ˌpəʊstpəˈzɪʃn/
+核心：（语法）后置词：功能像介词、却放在名词后面的词，日语、土耳其语里多见。可数。形容词 postpositional，并入本条。
+① Learners of Japanese soon discover that it uses postpositions where English uses prepositions before the noun.
+= 学日语的人很快就发现，英语在名词前用介词的地方，日语用后置词。
+a postposition = 后置词
+② In "three years ago", the word "ago" behaves like a postposition.
+= 在「three years ago」里，「ago」的表现像个后置词。
+like a postposition = 像个后置词
+③ The new grammar of Turkish devotes a whole chapter to postpositional phrases and their word order.
+= 那部新出的土耳其语语法用了整整一章讲后置词短语和它们的语序。
+postpositional = 后置词的
+
+postprandial
+/ˌpəʊstˈprændiəl/
+核心：（正式，或玩笑）饭后的、餐后的。只作定语。
+① He took a postprandial walk round the garden with his pipe.
+= 饭后他叼着烟斗在花园里散了一圈步。
+a postprandial walk = 饭后散步
+② The old judge was enjoying a postprandial nap in his armchair.
+= 老法官正在扶手椅里享受饭后的小睡。
+a postprandial nap = 饭后的小睡
+日常说 after-dinner。
+
+postscript
+/ˈpəʊstskrɪpt/
+核心：两支，可数。一是（信末签名之后的）附言、又及：缩写 PS；二是（一件事、一本书的）后话、补充的一笔。
+① She added a postscript asking him to bring the photographs.
+= 她加了一句附言，让他把照片带来。
+a postscript = 附言
+② There is a sad postscript to the story: the house burned down a year later.
+= 那件事还有一段伤心的后话：一年后那座房子烧掉了。
+a postscript to the story = 那件事的后话
+字面是「写在后面的」。
+
+postseason
+/ˌpəʊstˈsiːzn/
+核心：（美式，体育）季后赛阶段：常规赛季结束之后的那段比赛期。单数；常作定语。
+① The team has not reached the postseason for eleven years.
+= 那支球队已经十一年没打进季后赛了。
+reach the postseason = 打进季后赛
+② He hit three home runs in his first postseason game.
+= 他头一场季后赛就打出三支本垒打。
+a postseason game = 季后赛的一场比赛
+
+postulate
+/ˈpɒstjuleɪt/（动）/ˈpɒstjʊlət/（名）
+核心：（正式）动词：假定、假设：提出某事为真，作为理论、推理的基础。名词：假定、公设，可数。
+① Scientists postulated the existence of the particle long before it was detected.
+= 远在探测到那种粒子之前，科学家就假定它存在。
+postulate the existence of something = 假定某物存在
+② The theory postulates that the universe began from a single point.
+= 那个理论假定宇宙是从一个点开始的。
+postulate that = 假定
+③ The whole argument rests on a postulate that cannot be tested.
+= 整个论证建立在一条无法检验的假定上。
+a postulate = 假定、公设
+
+posture
+/ˈpɒstʃə(r)/
+核心：名词：姿势、体态：坐着、站着时身体的样子，不可数或可数：good posture；（对一件事的）态度、姿态，可数，多用单数。
+动词：（贬）故作姿态、装腔作势，这种行为叫 posturing。形容词 postural 是姿势的。并入本条。
+① Bad posture at a desk can lead to pain in the back.
+= 伏案时姿势不好会引起背疼。
+bad posture = 不良的姿势
+② The dancer held an upright posture even when she was sitting down.
+= 那位舞者坐着的时候也保持挺直的体态。
+an upright posture = 挺直的体态
+③ The government has adopted a tougher posture towards the strikers.
+= 政府对罢工的人摆出了更强硬的姿态。
+a tough posture = 强硬的姿态
+④ The two leaders postured in front of the cameras and settled nothing.
+= 两位领导人在镜头前故作姿态，什么也没谈成。
+posture = 故作姿态
+⑤ Voters are tired of the posturing of politicians before every election.
+= 每逢选举政客们就装腔作势，选民已经烦了。
+posturing = 装腔作势
+⑥ The chair is designed to correct postural problems in children.
+= 那种椅子是为矫正儿童的姿势问题设计的。
+postural = 姿势的
+
+postviral syndrome
+/ˌpəʊstˌvaɪrəl ˈsɪndrəʊm/
+核心：（医学）病毒感染后综合征：得了一场病毒性的病之后，长期极度疲乏、肌肉酸痛、没精神的状况。不可数；也说 postviral fatigue syndrome。
+① She was off work for a year with postviral syndrome after a bad attack of flu.
+= 得了一场重流感之后，她因病毒感染后综合征一年没上班。
+postviral syndrome = 病毒感染后综合征
+② Doctors still disagree about the causes of postviral syndrome.
+= 病毒感染后综合征的病因，医生们至今看法不一。
+the causes of postviral syndrome = 病毒感染后综合征的病因
+
+posy
+/ˈpəʊzi/
+核心：小花束：手里拿得住的一小把花。可数，复数 posies。
+① The little girl gave the queen a posy of spring flowers.
+= 小女孩献给女王一小束春天的花。
+a posy of flowers = 一小束花
+② Each bridesmaid carried a posy of white roses.
+= 每位伴娘手捧一小束白玫瑰。
+carry a posy = 手捧小花束

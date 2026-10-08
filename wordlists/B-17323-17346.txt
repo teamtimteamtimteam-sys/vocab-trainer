@@ -1,3 +1,33 @@
+ponytail
+/ˈpəʊniteɪl/
+核心：马尾辫：把头发拢到脑后扎成一束，像马尾巴一样垂着。可数。
+① She tied her hair back in a ponytail before she went running.
+= 跑步之前，她把头发往后扎成马尾辫。
+in a ponytail = 扎成马尾辫
+② The waiter was a tall man with a grey ponytail.
+= 那个服务员是个留着花白马尾辫的高个子。
+a grey ponytail = 花白的马尾辫
+
+Ponzi scheme
+/ˈpɒnzi skiːm/
+核心：庞氏骗局：一种投资骗局，拿后来的人投的钱当作利润付给先来的人，新钱一断就垮。可数；得名于二十世纪初的一个美国骗子。
+① Thousands of people lost their savings when the Ponzi scheme collapsed.
+= 那个庞氏骗局一垮，成千上万的人丢了积蓄。
+a Ponzi scheme = 庞氏骗局
+② The fund that promised twenty per cent a year turned out to be a Ponzi scheme.
+= 那个许诺每年两成回报的基金，原来是个庞氏骗局。
+turn out to be a Ponzi scheme = 原来是庞氏骗局
+
+poo
+/puː/
+核心：（英式，儿语）名词：大便、粑粑，不可数；一次大便，可数。动词：拉粑粑。美式说 poop。
+① The puppy has done a poo on the kitchen floor.
+= 小狗在厨房地板上拉了粑粑。
+do a poo = 拉粑粑
+② He trod in some dog poo on the pavement and had to scrape his shoe.
+= 他在人行道上踩到了狗屎，只好刮鞋。
+dog poo = 狗屎
+
 pooch
 /puːtʃ/
 核心：（口语，美式用得多）狗、狗狗。可数；带点亲昵、玩笑。
@@ -395,71 +425,3 @@ the populace = 平民百姓
 ② The whole populace of the town turned out to welcome the team home.
 = 全城的人都出来迎接球队凯旋。
 the whole populace = 全城的人
-
-popular
-/ˈpɒpjələ(r)/
-核心：三路意思。一是受欢迎的、受人喜爱的：be popular with；二是（只作定语）大众的、通俗的：面向普通人而不是专家的：popular music、the popular press；
-三是（只作定语）民众的、多数人的：popular opinion、by popular demand 是应大家的要求；也指普遍流行的（看法）：a popular belief。
-副词 popularly 是普遍地、通常：popularly known as。the popular vote 是（美国选举里）选民直接投的票数，跟选举人票相对。并入本条。
-① She is very popular with the other children in her class.
-= 她很受班上别的孩子喜欢。
-be popular with somebody = 受某人喜欢
-② The seaside town is a popular place for family holidays.
-= 那座海滨小城是一家人度假的热门去处。
-a popular place = 热门去处
-③ The story was covered by both the serious papers and the popular press.
-= 那件事严肃报纸和通俗小报都报道了。
-the popular press = 通俗报刊
-④ Contrary to popular belief, bats are not blind.
-= 跟普遍的看法相反，蝙蝠并不瞎。
-a popular belief = 普遍的看法
-⑤ The show has returned for a second week by popular demand.
-= 应观众的要求，那场演出加演一个星期。
-by popular demand = 应大家的要求
-⑥ The tower is popularly known as "the Needle".
-= 那座塔俗称「针」。
-popularly known as = 俗称
-⑦ The candidate won the popular vote but lost the election.
-= 那位候选人赢了普选票，却输了选举。
-the popular vote = 普选票
-
-popularity
-/ˌpɒpjuˈlærəti/
-核心：受欢迎（的程度）、流行、声望。不可数：popularity with、among。
-① The game is growing in popularity among older people.
-= 那种游戏在年长的人当中越来越流行。
-grow in popularity = 越来越流行
-② The president's popularity with voters fell sharply after the scandal.
-= 丑闻之后，总统在选民中的声望大跌。
-popularity with somebody = 在某类人中的声望
-
-popularize
-/ˈpɒpjələraɪz/
-核心：两支，及物。一是使普及、使流行：让许多人知道、喜欢上；二是使通俗化：把专门的学问讲得普通人能懂。英式也拼作 popularise。
-名词 popularization，不可数。并入本条。
-① The film popularized a dance that had been known only in one small town.
-= 那部片子让一种原先只有一个小镇知道的舞流行开来。
-popularize a dance = 让一种舞流行开来
-② He has done more than anyone to popularize the science of the stars.
-= 在普及天文学上，他出的力比谁都多。
-popularize a science = 普及一门学问
-③ The popularization of the bicycle changed the lives of country people.
-= 自行车的普及改变了乡下人的生活。
-popularization = 普及
-
-populate
-/ˈpɒpjuleɪt/
-核心：两支，及物，多用被动。一是居住于、生活在（某地）：be populated by、densely populated；二是迁移到（某地）定居、使有人住；
-也指（计算机）往（表格、数据库）里填数据。
-① The island is populated mainly by fishermen and their families.
-= 岛上住的主要是渔民和他们的家人。
-be populated by somebody = 住着某类人
-② The coast is the most densely populated part of the country.
-= 沿海是那个国家人口最稠密的地方。
-densely populated = 人口稠密的
-③ The valley was populated by settlers from the north in the last century.
-= 那个山谷是上个世纪由北方来的移民定居下来的。
-be populated by settlers = 由移民定居
-④ The form is populated automatically with your name and address.
-= 那张表格会自动填上你的姓名和地址。
-be populated with something = 填上某数据
