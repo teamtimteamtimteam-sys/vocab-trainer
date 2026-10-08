@@ -344,3 +344,4 @@ pigmy        pygmy          # 拼法变体
 pita         pitta          # 美式拼法；在 pitta 条配等式
 pilaf        pilau          # 拼法变体；在 pilau 条配等式
 pix          pic            # pic 的复数拼法
+piping       pipe           # 并在 pipe 条（管道、滚边、piping hot）

@@ -1,3 +1,26 @@
+phlebotomy
+/fləˈbɒtəmi/
+核心：（医学）静脉切开、抽血：扎开静脉取血，如今为化验，古时为放血治病。不可数或可数。
+① The nurse who performs phlebotomy at the clinic can find a vein in seconds.
+= 诊所里负责抽血的护士几秒钟就能找到静脉。
+perform phlebotomy = 抽血
+② Phlebotomy was the standard treatment for fever until the nineteenth century.
+= 直到十九世纪，放血一直是治发烧的常规办法。
+phlebotomy = 放血、抽血
+抽血的人叫 phlebotomist。
+
+phlegm
+/flem/
+核心：两支，不可数。一是痰：感冒时嗓子、鼻子里那种黏稠的东西；二是（正式）沉着、冷静：遇事不慌不忙的性子。
+拼写里的 g 不发音。
+① He had a bad cold and was coughing up thick phlegm.
+= 他感冒很重，咳出浓痰。
+cough up phlegm = 咳痰
+② She received the bad news with her usual phlegm.
+= 听到那个坏消息，她一如既往地沉着。
+with phlegm = 沉着地
+这一支来自古代医学：以为体内黏液多的人性子慢。
+
 phlegmatic
 /fleɡˈmætɪk/
 核心：沉着冷静的、不易激动的：遇事不慌，也不大动感情。副词 phlegmatically，并入本条。
@@ -343,39 +366,3 @@ a photocell = 光电管
 ② The burglar alarm works by means of a beam of light and a photocell.
 = 那个防盗警报靠一束光和一个光电管起作用。
 by means of a photocell = 靠光电管
-
-photochemical
-/ˌfəʊtəʊˈkemɪkl/
-核心：（化学）光化学的：由光引起、跟光引起的化学变化有关的。只作定语：photochemical smog 是光化学烟雾。
-① On hot days the city is covered by a brown photochemical smog.
-= 天热的日子，那座城市罩在一片褐色的光化学烟雾里。
-photochemical smog = 光化学烟雾
-② The fading of the paint is the result of a photochemical reaction.
-= 油漆褪色是一种光化学反应的结果。
-a photochemical reaction = 光化学反应
-photo- 是「光」。
-
-photocopy
-/ˈfəʊtəʊkɒpi/
-核心：名词：复印件，可数，复数 photocopies。动词：复印。第三人称单数 photocopies，过去式 photocopied。
-复印机叫 photocopier。并入本条。
-① Please send a photocopy of your passport with the form.
-= 请随表格寄一份护照复印件。
-a photocopy of something = 某物的复印件
-make a photocopy = 复印一份
-② She photocopied the article and gave a copy to each student.
-= 她把那篇文章复印了，给每个学生发了一份。
-photocopy an article = 复印文章
-③ The photocopier on the second floor has run out of paper again.
-= 二楼的复印机又没纸了。
-a photocopier = 复印机
-
-photoelectric
-/ˌfəʊtəʊɪˈlektrɪk/
-核心：光电的：利用光照产生电流的。只作定语。photoelectric cell 是光电池、光电管，也说 photocell。并入本条。
-① The photoelectric effect was explained by a young physicist in 1905.
-= 光电效应是一九〇五年由一位年轻的物理学家解释的。
-the photoelectric effect = 光电效应
-② The doors open when you break the beam of a photoelectric cell.
-= 你一挡住光电管的光束，门就开了。
-a photoelectric cell = 光电管
