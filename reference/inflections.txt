@@ -351,3 +351,5 @@ plowman      plough         # 美式拼法
 plowshare    plough         # 美式拼法
 ploughman    plough         # 并在 plough 条
 ploughshare  plough         # 并在 plough 条
+pocked       pockmark       # 并在 pockmark 条
+pollywog     polliwog       # 拼法变体
