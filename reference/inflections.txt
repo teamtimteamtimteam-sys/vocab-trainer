@@ -345,3 +345,9 @@ pita         pitta          # 美式拼法；在 pitta 条配等式
 pilaf        pilau          # 拼法变体；在 pilau 条配等式
 pix          pic            # pic 的复数拼法
 piping       pipe           # 并在 pipe 条（管道、滚边、piping hot）
+pled         plead          # 美式、苏格兰的过去式
+plow         plough         # 美式拼法；在 plough 条配等式
+plowman      plough         # 美式拼法
+plowshare    plough         # 美式拼法
+ploughman    plough         # 并在 plough 条
+ploughshare  plough         # 并在 plough 条

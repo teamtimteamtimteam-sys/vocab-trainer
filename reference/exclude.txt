@@ -1420,3 +1420,9 @@ pike on              # 地区变体（澳新）
 pike out             # 地区变体（澳新）
 Pike's Peak          # 纯专名（美国山名）
 pike-s-peak          # 同上的清洗形式
+pl.                  # 缩写（plural、place）
+plc                  # 缩写（public limited company）
+plz                  # 缩写（短信里的 please）
+platteland           # 地区变体（南非：偏远乡间）
+playback singer      # 地区变体（印度英语：电影幕后代唱歌手）
+plutoid              # 窄专业（天文学分类名）
