@@ -19,23 +19,25 @@ B 10000
   **app 2.1.0 已于 2026-10-06 推送**（用户同意的那一次）；之后的提交照旧本地攒着，push 等用户开口。
   **「继续」现在指什么要看用户上一句在说哪件事**：音标已经补完，「继续」就是接着写词表（n 字母开段）。拿不准就问。
 
-═══ 现状（2026-10-08，第一百三十四轮收尾）═══
-B 词表 16952 条、义项 62465 条，词典序 a → piffle。A 表 3002 条。A、B 两表每条都有音标行。
+═══ 现状（2026-10-08，第一百三十五轮收尾）═══
+B 词表 17016 条、义项 62727 条，词典序 a → pious。A 表 3002 条。A、B 两表每条都有音标行。
   **a–o 十五个字母收完**（各字母余下的只有「待推迟」条目；audit-prefix 的 EXPECT 已登到 o）。
   **p 字母在写**（清单 4169 条；pa 762、pe 581、ph 195、pi 331、pl 315、po 620、pr 918、ps 51、pu 358、py 19）：大写词头整个字母已判完。
     **pa- 段收完**（十八批；coverage 只剩 pajamas 等 pyjamas、packing density 待推迟；pa-todo.txt 已删）。
     **pe- 段收完**（十二批；coverage 只剩 pease pudding、peptic ulcer 待推迟）。
     **ph- 段收完**（五批，coverage 100%）。
     **pi- 段**（清单 326 条上下）：开段准备已做（exclude：pibroch、piccaninny / pickaninny、pikey、pi-dog / pie-dog、picturize / picturization、pike on / out、Pike's Peak；
-    inflections：pigmy、pita、pilaf、pix；audit-idioms 登了 pick、picture、pie、piece、pig、pigeon、pile、pill、pillar、pin、pinch、pink、pipe、pipeline、piss、pit、pitch、pity 十八个大词）；写了三批，到 piffle。
+    inflections：pigmy、pita、pilaf、pix；audit-idioms 登了 pick、picture、pie、piece、pig、pigeon、pile、pill、pillar、pin、pinch、pink、pipe、pipeline、piss、pit、pitch、pity 十八个大词）；写了六批，到 pious。
     **Paki、Polack 用户 2026-10-07 裁定不收**，已从 keep 名单撤掉、登进 exclude。
     **蔑称的规矩**：nigger 是用户点名要收的唯一一个；别的种族、族群蔑称（冒犯性标签）照旧不收，不要外推那次裁定，也不用再逐个问。
-  **下一批从 pig 起（pi- 段还剩十批左右）**：pig（四条习语；并 pig out、pig iron、pig-ignorant、pig-headed(ness)、pig-sticking、piggery、piglet、pigswill）、pigeon（一条习语；并 pigeon-toed）、
-    pigeonhole、piggy（并 piggy bank、piggy in the middle）、piggyback（并 piggyback on）、pigment（并 pigmentation、pigmented）、pigskin、pigsty、pigtail、pike（并 pikestaff）、
-    pilaster、Pilates、pilau（并 pilaf）、pilchard、pile（三条习语；并 pile on / up、piledriver、piles）、pilfer（并 pilferage、pilferer、pilfering）、pilgrim、pilgrimage、
-    pill（三条习语；并 pillbox）、pillage（并 pillager）、pillar（两条习语；并 pillared、pillar box、pillar-box red）、pillion、pillock、pillory、pillow（并 pillowcase）、
-    pilot（并 pilot light / officer / whale）… 往下照 coverage pi（清单在 scratchpad 的 pi.txt）。
-    核心块里别点名同段还没写的词头（pick 条点了 pickaxe、pic 条点了 picture，都被拦过）。
+  **下一批从 pip 起（pi- 段还剩四批左右）**：pip（两个词：果核、嘀声；pipped at the post）、pipe（大词；四条习语；并 pipe band / bomb / cleaner / dream / organ、piped music、pipework、
+    piping、piping hot）、pipeline（一条习语）、piper、pipette、pipit、pipsqueak、piquant（并 piquancy）、pique（并 piqued）、piracy、piranha、pirate（并 piratical）、piri-piri、pirouette、
+    piscatorial、Pisces（并 Piscean）、piscine、piss（两条习语；并 piss about / around / down / off、piss artist、piss-poor、piss-take、piss-up、pissed、pisspot）、pistachio、piste、pistil、
+    pistol（并 pistol-whip）、piston、pit（三条习语；并 pit bull terrier、pit pony / prop / stop / viper、pithead、pitted）、pitta（并 pita）、pit-a-pat、pitter-patter、
+    pitch（大词；三条习语；并 pitch-black / -dark、pitch invasion、pitch pipe、pitch and putt、pitch in / into / up、pitched、pitched battle、pitchout）、pitcher、pitchfork、piteous(ly)、pitfall、
+    pith（并 pith helmet）、pithy（并 pithily）、pitiable、pitiful、pitiless、piton、pittance、pituitary、pity（三条习语；并 pitying(ly)）、pivot（并 pivot on / around）、pivotal、pixel（并 pixelate）、
+    pixie、pizza、pizzazz、pizzeria、pizzicato。写完跑 coverage pi 查漏，再做 pl- 段开段准备（315 条）。
+    复合词的等式要带单数形（pine nut、pinto bean 被拦过）；核心块里提到的派生词都得有例句和等式（pinkness）。
     **讲解行密度**：两义小词每条动笔就配一行讲解或第二条等式，别只写一行等式——pert → pesto 那批和 permalink → persevere 那批都掉了基线，事后补了八十四行。
     这一轮记下的：**reference/ 里放临时清单会被 coverage 当成词头清单读进去**（pa-todo.txt 整行成了一个「词头」），下回临时清单放 scratchpad 或登进 OWN；
     并入主条、主条又不是词头的美式拼法，inflections 要指到真正的词头（paleontologist → palaeontology）；例句里引号括住含词头的话会判元评论（Rest in peace）。
@@ -53,7 +55,7 @@ B 词表 16952 条、义项 62465 条，词典序 a → piffle。A 表 3002 条�
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
   已交付六份：B-merged-0001-2500 … 10001-12500（用户已导入 app），**第六份 12501-15000 于 2026-10-06 用 SendUserFile 发给用户**，
     并提醒了「先让 iPad 升到 2.1.0 再导入」（带音标行）。
-  第七份在攒：现为 B-merged-15001-16952（1952 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
+  第七份在攒：现为 B-merged-15001-17016（2016 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 在 2026-10-06 推过两次**（音标补齐那批、此前的 app 2.1.0）；之后的提交照旧本地攒着，push 等用户开口。
 
