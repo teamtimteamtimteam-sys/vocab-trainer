@@ -369,3 +369,13 @@ photocopy an article = 复印文章
 ③ The photocopier on the second floor has run out of paper again.
 = 二楼的复印机又没纸了。
 a photocopier = 复印机
+
+photoelectric
+/ˌfəʊtəʊɪˈlektrɪk/
+核心：光电的：利用光照产生电流的。只作定语。photoelectric cell 是光电池、光电管，也说 photocell。并入本条。
+① The photoelectric effect was explained by a young physicist in 1905.
+= 光电效应是一九〇五年由一位年轻的物理学家解释的。
+the photoelectric effect = 光电效应
+② The doors open when you break the beam of a photoelectric cell.
+= 你一挡住光电管的光束，门就开了。
+a photoelectric cell = 光电管

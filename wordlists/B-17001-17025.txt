@@ -1,83 +1,3 @@
-pineal
-/ˈpɪniəl/
-核心：（解剖）松果体的：只用在 pineal gland、pineal body 里，指大脑深处一个豌豆大小的腺体，分泌调节睡眠的激素。只作定语。
-① The pineal gland releases more of the hormone when it gets dark.
-= 天一黑，松果体就多分泌那种激素。
-the pineal gland = 松果体
-② The scan showed a small cyst close to the pineal body.
-= 扫描显示松果体附近有个小囊肿。
-the pineal body = 松果体
-得名于形状像松果。
-
-pineapple
-/ˈpaɪnæpl/
-核心：菠萝、凤梨：一种热带水果，皮厚而粗糙，顶上一簇硬叶，果肉黄而多汁。可数也可不可数。
-① She cut the top off the pineapple and sliced it into rings.
-= 她切掉菠萝的顶，把它切成一个个圆片。
-a pineapple = 菠萝
-② The ham was served with a slice of grilled pineapple.
-= 火腿配的是一片烤菠萝。
-a slice of pineapple = 一片菠萝
-pineapple juice = 菠萝汁
-
-ping
-/pɪŋ/
-核心：名词：叮、砰的一声：短促清脆的金属声，可数。动词：发出叮的一声；（计算机）向（另一台电脑）发信号看它通不通；
-（口语）给（某人）发条短信、邮件。
-英式的 pinger 是到时间就叮一声的定时器。ping-pong 是（口语）乒乓球，正式叫 table tennis。并入本条。
-① The microwave gave a ping to show that the soup was ready.
-= 微波炉叮了一声，表示汤热好了。
-a ping = 叮的一声
-② A stone pinged against the side of the car as the lorry passed.
-= 卡车开过的时候，一块石子叮的一声打在车身上。
-ping against something = 叮的一声打在某物上
-③ The engineer pinged the server to see whether it was still running.
-= 工程师向服务器发了个信号，看它还在不在运行。
-ping a server = 向服务器发信号测试
-④ Ping me when you get to the station, and I will come down.
-= 你到车站给我发条消息，我就下来。
-ping somebody = 给某人发条消息
-⑤ Set the pinger for ten minutes so that the eggs do not boil dry.
-= 把定时器定到十分钟，免得鸡蛋煮干了。
-a pinger = 定时器
-⑥ We played ping-pong on the kitchen table with a row of books for a net.
-= 我们在厨房桌上打乒乓球，用一排书当网。
-ping-pong = 乒乓球
-
-pinhead
-/ˈpɪnhed/
-核心：两支，可数。一是针头：大头针顶上那个小圆头，常用来形容极小的东西；二是（口语）笨蛋。
-① The spider was no bigger than a pinhead.
-= 那只蜘蛛只有针头那么大。
-no bigger than a pinhead = 只有针头那么大
-② Some pinhead in the office has ordered ten thousand envelopes instead of one thousand.
-= 办公室里不知哪个笨蛋把一千个信封订成了一万个。
-some pinhead = 不知哪个笨蛋
-
-pinhole
-/ˈpɪnhəʊl/
-核心：针孔、极小的孔。可数。pinhole camera 是针孔照相机：不用镜头、光从一个小孔射进暗箱成像。并入本条。
-① Light came through a pinhole in the blind and made a bright spot on the wall.
-= 光从百叶窗上的一个针孔透进来，在墙上照出一个亮点。
-a pinhole = 针孔
-② The children made a pinhole camera out of a shoebox and a sheet of foil.
-= 孩子们用一个鞋盒和一张锡纸做了一架针孔照相机。
-a pinhole camera = 针孔照相机
-
-pinion
-/ˈpɪnjən/
-核心：两个词。一是动词：按住、捆住（人的胳膊），使动弹不得：多用被动，pinion somebody against、to。
-二是名词：小齿轮：跟大齿轮或齿条咬合的那个，可数：rack and pinion 是齿条齿轮传动。
-① Two guards pinioned his arms behind his back and marched him out.
-= 两个卫兵把他的胳膊反剪在背后，押了出去。
-pinion somebody's arms = 把某人的胳膊按住
-② She was pinioned against the fence by the crowd behind her.
-= 她被身后的人群挤得贴在栅栏上动弹不得。
-be pinioned against something = 被挤在某物上动弹不得
-③ The steering works by a rack and pinion beneath the engine.
-= 转向靠发动机下面的齿条齿轮传动。
-a rack and pinion = 齿条齿轮传动
-
 pink
 /pɪŋk/
 核心：形容词：粉红色的；（英式口语，贬）政治上偏左的。名词：粉红色，不可数或可数；也指石竹：一种带香味的园艺小花，可数。
@@ -423,3 +343,94 @@ a pipe cleaner = 烟斗通条、绒毛铁丝
 ㉑ The police found the parts of a pipe bomb in the garage.
 = 警察在车库里找到了一枚管状土炸弹的零件。
 a pipe bomb = 管状土炸弹
+
+pipeline
+/ˈpaɪplaɪn/
+核心：管道、输油输气管线：把石油、天然气、水送到远处的一长串管子。可数。
+习语 in the pipeline 是正在筹划、酝酿、办理之中，快要有结果了。
+① The pipeline carries gas for a thousand miles across the desert.
+= 那条管道把天然气输送一千英里，穿过沙漠。
+a gas pipeline = 输气管道
+② An oil pipeline was blown up near the border last night.
+= 昨晚边界附近的一条输油管道被炸了。
+an oil pipeline = 输油管道
+③ Several new laws on housing are already in the pipeline.
+= 好几项有关住房的新法律已经在酝酿之中。
+in the pipeline = 正在酝酿、办理之中
+
+piper
+/ˈpaɪpə(r)/
+核心：吹笛人、吹风笛的人。可数。
+习语 he who pays the piper calls the tune 是谁出钱谁说了算；pay the piper 是（美式）为自己做过的事付出代价。
+① A piper in a kilt played outside the castle as the guests arrived.
+= 客人到的时候，一位穿苏格兰短裙的风笛手在城堡外面吹奏。
+a piper = 风笛手
+② The firm borrowed too much in the good years, and now it has to pay the piper.
+= 那家公司在好年头借得太多，现在得还债了。
+pay the piper = 付出代价
+③ The donors decide what the museum shows, because he who pays the piper calls the tune.
+= 博物馆展什么由捐助人定，谁出钱谁说了算嘛。
+he who pays the piper calls the tune = 谁出钱谁说了算
+
+pipette
+/pɪˈpet/
+核心：移液管、吸量管、滴管：实验室里吸取、量取、转移少量液体的细玻璃管。可数。
+① She used a pipette to add three drops of acid to the solution.
+= 她用滴管往溶液里加了三滴酸。
+a pipette = 滴管、移液管
+② The technician filled the pipette and emptied it into the next test tube.
+= 技术员把移液管吸满，再放进下一支试管里。
+fill the pipette = 把移液管吸满
+来自法语「小管子」。
+
+pipit
+/ˈpɪpɪt/
+核心：鹨：一类褐色带条纹的小鸟，样子像云雀，多在旷野、海边活动。可数。
+① A meadow pipit rose from the grass and sang as it fell.
+= 一只草地鹨从草丛里飞起，一边下落一边鸣叫。
+a meadow pipit = 草地鹨
+② Rock pipits were feeding among the seaweed along the shore.
+= 石鹨在岸边的海藻间觅食。
+a rock pipit = 石鹨
+
+pipsqueak
+/ˈpɪpskwiːk/
+核心：（旧式口语，贬）小人物、无足轻重的小子：个子小、年纪轻、不值得放在眼里的人。可数。
+① I am not taking orders from a pipsqueak half my age.
+= 我才不听一个年纪只有我一半的毛头小子指挥。
+a pipsqueak = 毛头小子、小人物
+② The bully called him a pipsqueak, and he hit him on the nose.
+= 那个恶霸叫他小不点儿，他照人家鼻子就是一拳。
+call somebody a pipsqueak = 叫某人小不点儿
+
+piquant
+/ˈpiːkənt/
+核心：两支。一是（食物）味道辛辣开胃的、带点刺激的；二是（书面）有趣的、撩人兴味的。名词 piquancy，不可数。并入本条。
+① The fish is served with a piquant sauce of lemon and capers.
+= 那道鱼配的是柠檬加刺山柑的开胃酱汁。
+a piquant sauce = 开胃的酱汁
+② The story has a piquant twist: the thief turns out to be the detective's wife.
+= 那个故事有个耐人寻味的转折：小偷原来是侦探的妻子。
+a piquant twist = 耐人寻味的转折
+③ A little mustard gives piquancy to the cheese sauce.
+= 加一点芥末，奶酪酱就多了几分辛辣。
+piquancy = 辛辣、趣味
+
+pique
+/piːk/
+核心：名词：（因自尊心受伤而起的）不快、赌气：in a fit of pique，不可数。
+动词：伤……的自尊、惹恼，多用被动；pique somebody's interest、curiosity 是引起某人的兴趣、好奇，美式用得多。
+分词 piqued 作形容词：恼了的。读音跟 peak 一样。并入本条。
+① She left the meeting in a fit of pique when her plan was rejected.
+= 她的方案被否，她一气之下离开了会场。
+a fit of pique = 一时赌气
+② He was piqued by her refusal to dance with him.
+= 她不肯跟他跳舞，让他很恼火。
+be piqued by something = 被某事惹恼
+③ The strange title piqued my curiosity, and I bought the book.
+= 那个古怪的书名引起了我的好奇，我就把书买了。
+pique somebody's curiosity = 引起某人的好奇
+pique somebody's interest = 引起某人的兴趣
+④ He sounded a little piqued that nobody had asked for his opinion.
+= 没人问他的意见，听得出他有点恼。
+piqued = 恼了的
