@@ -1436,3 +1436,7 @@ posteriori           # 清单伪影（a posteriori 的残片，a 段已收）
 poesy                # 整词已废的古旧词（诗歌）
 poof                 # 冒犯性蔑称（对男同性恋；照「冒犯性标签不收」办）
 pom                  # 地区变体（澳新：对英国人的称呼，同 pommy）
+poker machine        # 地区变体（澳新：老虎机）
+Poor Richard's Almanack   # 纯专名（书名）
+poor-richard's almanack   # 同上的清洗形式
+poets-corner         # 清单伪影（Poets' Corner 的清洗形式，poet 条已收）
