@@ -1,14 +1,3 @@
-phlebitis
-/fləˈbaɪtɪs/
-核心：（医学）静脉炎：静脉的壁发炎，多见于腿部，又红又疼。不可数。
-① She developed phlebitis in her left leg after the long flight.
-= 那趟长途飞行之后，她的左腿得了静脉炎。
-develop phlebitis = 得静脉炎
-② The doctor treated the phlebitis with rest and a support stocking.
-= 医生让她休息、穿弹力袜来治静脉炎。
-treat phlebitis = 治静脉炎
-phleb- 是「静脉」，-itis 是「炎」。
-
 phlebotomy
 /fləˈbɒtəmi/
 核心：（医学）静脉切开、抽血：扎开静脉取血，如今为化验，古时为放血治病。不可数或可数。
@@ -367,3 +356,13 @@ a photobomb = 被人乱入的照片
 a photobomber = 抢镜的人
 photobombing = 抢镜
 由 photo 加 bomb 造的新词。
+
+photocell
+/ˈfəʊtəʊsel/
+核心：光电池、光电管：受到光照就产生电流、改变电流的元件，用在自动门、路灯开关、测光表里。可数；全称 photoelectric cell。
+① A photocell above the door switches the light on when it gets dark.
+= 门上方的一个光电管在天黑时把灯打开。
+a photocell = 光电管
+② The burglar alarm works by means of a beam of light and a photocell.
+= 那个防盗警报靠一束光和一个光电管起作用。
+by means of a photocell = 靠光电管
