@@ -19,8 +19,8 @@ B 10000
   **app 2.1.0 已于 2026-10-06 推送**（用户同意的那一次）；之后的提交照旧本地攒着，push 等用户开口。
   **「继续」现在指什么要看用户上一句在说哪件事**：音标已经补完，「继续」就是接着写词表（n 字母开段）。拿不准就问。
 
-═══ 现状（2026-10-08，第一百三十九轮收尾）═══
-B 词表 17204 条、义项 63570 条，词典序 a → plywood。A 表 3002 条。A、B 两表每条都有音标行。
+═══ 现状（2026-10-08，第一百四十轮收尾）═══
+B 词表 17245 条、义项 63792 条，词典序 a → polio。A 表 3002 条。A、B 两表每条都有音标行。
   **a–o 十五个字母收完**（各字母余下的只有「待推迟」条目；audit-prefix 的 EXPECT 已登到 o）。
   **p 字母在写**（清单 4169 条；pa 762、pe 581、ph 195、pi 331、pl 315、po 620、pr 918、ps 51、pu 358、py 19）：大写词头整个字母已判完。
     **pa- 段收完**（十八批；coverage 只剩 pajamas 等 pyjamas、packing density 待推迟；pa-todo.txt 已删）。
@@ -29,13 +29,14 @@ B 词表 17204 条、义项 63570 条，词典序 a → plywood。A 表 3002 条
     **pi- 段收完**（九批；coverage 只剩 pigmy 等写到 pygmy 时并进去）。
     **pl- 段收完**（七批；coverage 只剩 placer mining、planter's punch 待推迟）。
     **po- 段**（清单 615 条上下）：开段准备已做（exclude：pommy、posho、potjie、poteen / potheen、poutine、posteriori、poesy、poof；inflections：pocked、pollywog；
-    audit-idioms 登了 pocket、point、poison、poke、pole、polish、pond、poor、pop、port、pose、position、possess、possession、possible、post、pot、potato、pound、pour、powder、power 二十二个大词）；还没开写。
+    audit-idioms 登了 pocket、point、poison、poke、pole、polish、pond、poor、pop、port、pose、position、possess、possession、possible、post、pot、potato、pound、pour、powder、power 二十二个大词）；写了三批，到 polio。
     **Paki、Polack 用户 2026-10-07 裁定不收**，已从 keep 名单撤掉、登进 exclude。
     **蔑称的规矩**：nigger 是用户点名要收的唯一一个；别的种族、族群蔑称（冒犯性标签）照旧不收，不要外推那次裁定，也不用再逐个问。
-  **下一批从 po-faced 起（po- 段，清单 615 条上下，约二十五批）**：po-faced、poach（并 poacher）、pockmark（并 pocked、pockmarked）、pocket（大词；六条习语；并 pocketbook、
-    pocketful、pocketknife 及 pocket 打头的复合词）、pod、podcast（并 podcaster、podcasting）、podgy、podiatry（并 podiatrist）、podium、poem、poet（并 poetess）、poetic（并 poetically、poetics）、
-    poetry、pogrom、poignant（并 poignancy、poignantly）、poinsettia、point（大词；十七条习语，可独占一批）… 往下照 scratchpad 的 po.txt。
-    po- 段里 pocket、point、poison、poke、pole、polish、pool、poor、pop、port、pose、position、possess、possible、post、pot、pound、pour、powder、power 都是大词。
+  **下一批从 polish 起（po- 段还剩二十二批左右）**：polish（三条习语；并 polished、polisher；大写的 Polish 是波兰的、波兰语）、politburo、polite（并 politely、politeness）、politesse、
+    politic、political（并 politically、political correctness / science / scientist）、politician、politicize（并 politicization）、politicking、politico、politics、polity、polka、
+    poll（并 polling、polling station、poll tax、pollster）、pollard、pollen（并 pollen tube、pollen count）、pollinate（并 pollination）、polliwog、pollute（并 pollutant、polluter）、pollution、
+    Pollyanna、polo（并 polo shirt、polo neck）、polonaise、polonium、poltergeist、poltroon、poly- 一族（polyamory … polyurethane，四十来条，多是单义术语）… 往下照 scratchpad 的 po.txt。
+    复合词等式要有（pole-vaulting、police force 被拦过）；截短词的核心块别点原词（pol 点了 politician）。
     **讲解行密度**：两义小词每条动笔就配一行讲解或第二条等式，别只写一行等式——pert → pesto 那批和 permalink → persevere 那批都掉了基线，事后补了八十四行。
     这一轮记下的：**reference/ 里放临时清单会被 coverage 当成词头清单读进去**（pa-todo.txt 整行成了一个「词头」），下回临时清单放 scratchpad 或登进 OWN；
     并入主条、主条又不是词头的美式拼法，inflections 要指到真正的词头（paleontologist → palaeontology）；例句里引号括住含词头的话会判元评论（Rest in peace）。
@@ -53,7 +54,7 @@ B 词表 17204 条、义项 63570 条，词典序 a → plywood。A 表 3002 条
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
   已交付六份：B-merged-0001-2500 … 10001-12500（用户已导入 app），**第六份 12501-15000 于 2026-10-06 用 SendUserFile 发给用户**，
     并提醒了「先让 iPad 升到 2.1.0 再导入」（带音标行）。
-  第七份在攒：现为 B-merged-15001-17204（2204 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
+  第七份在攒：现为 B-merged-15001-17245（2245 条；Mr / Mrs / Ms、nigger 按台账落在这一份里），满 2500 条时照旧主动发给用户。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 在 2026-10-06 推过两次**（音标补齐那批、此前的 app 2.1.0）；之后的提交照旧本地攒着，push 等用户开口。
 
