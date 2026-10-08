@@ -54,3 +54,4 @@ pattern	sentence pattern
 peasant	peasant farmer
 peasant	peasant family
 persuade	try to persuade
+phrase	useful phrase

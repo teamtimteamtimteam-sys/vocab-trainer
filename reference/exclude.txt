@@ -1407,3 +1407,4 @@ phobe                # 词缀残片（-phobe）
 phonotactic          # 窄专业（音系学）
 phonotactics         # 窄专业（音系学）
 photic               # 窄专业（海洋学、生理学：光的）
+phillipstm-screwdriver   # 商标残片（Phillips™ screwdriver）

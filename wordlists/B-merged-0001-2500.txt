@@ -40942,6 +40942,7 @@ a tray of baklava = 一盘果仁蜜饼
 ② Baklava is layered with filo pastry brushed with butter between every sheet.
 = 那种甜点用薄酥皮层层叠起，每张之间都刷上黄油。
 filo pastry = 薄酥皮
+phyllo pastry = 薄酥皮（美式拼法）
 ③ Honey syrup soaks the baklava overnight and sets it solid by morning.
 = 蜜糖浆浸透那块酥饼一夜，到早上就凝实了。
 注意别混：
