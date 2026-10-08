@@ -340,3 +340,7 @@ peafowl      peacock        # 并在 peacock 条
 peahen       peacock        # 并在 peacock 条
 phony        phoney         # 美式拼法；在 phoney 条配等式
 phantasy     fantasy        # 旧拼法
+pigmy        pygmy          # 拼法变体
+pita         pitta          # 美式拼法；在 pitta 条配等式
+pilaf        pilau          # 拼法变体；在 pilau 条配等式
+pix          pic            # pic 的复数拼法

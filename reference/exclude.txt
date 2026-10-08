@@ -1408,3 +1408,15 @@ phonotactic          # 窄专业（音系学）
 phonotactics         # 窄专业（音系学）
 photic               # 窄专业（海洋学、生理学：光的）
 phillipstm-screwdriver   # 商标残片（Phillips™ screwdriver）
+pibroch              # 地区变体（苏格兰：风笛变奏曲）
+piccaninny           # 种族蔑称（冒犯性标签，照规矩不收）
+pickaninny           # 种族蔑称（同上，美式拼法）
+pikey                # 族群蔑称（对游民的冒犯称呼）
+pi-dog               # 地区变体（印度英语：野狗）
+pie-dog              # 地区变体（同上）
+picturize            # 地区变体（印度英语：拍成电影）
+picturization        # 地区变体（同上）
+pike on              # 地区变体（澳新）
+pike out             # 地区变体（澳新）
+Pike's Peak          # 纯专名（美国山名）
+pike-s-peak          # 同上的清洗形式
