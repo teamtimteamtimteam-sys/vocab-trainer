@@ -24415,6 +24415,9 @@ button mushroom = 小白蘑菇
 ⑨ He is rather buttoned-up and has worked here for eleven years.
 = 他为人拘谨，在这里干了十一年。
 buttoned-up = 拘谨不外露的
+⑩ The old telephone with a dial was replaced by a push-button model.
+= 带拨盘的旧电话换成了按键式的。
+push-button = 按钮式的、按键式的
 构词：古法语 boton 芽、纽扣
 注意用法：两个习语都很高频。
 

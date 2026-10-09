@@ -40226,6 +40226,10 @@ a pollster = 民意调查员
 ⑨ The poll tax led to riots in several cities.
 = 人头税在好几个城市引发了骚乱。
 a poll tax = 人头税
+⑩ The party was accused of running a push poll to spread rumours about its rival.
+= 那个党被指搞诱导式民调，借机散布对手的谣言。
+a push poll = 诱导式民调
+名为调查、实为借提问影响人的看法。
 
 pollard
 /ˈpɒləd/
