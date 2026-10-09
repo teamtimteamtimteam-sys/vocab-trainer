@@ -15310,6 +15310,10 @@ take into custody = 拘留
 ⑤ He is in custodial care and gets one visit a fortnight.
 = 他在羁押看管中，两周能有一次探视。
 custodial = 羁押的、看管的
+⑥ The witness was taken into protective custody until the gang had been arrested.
+= 在那伙人落网之前，那名证人被保护性拘留起来。
+protective custody = 保护性拘留
+为了当事人自己的安全把人看管起来。
 构词：拉丁语 custodia 看管
 注意分工：两支差得远，看语境是家事还是刑事。
 
