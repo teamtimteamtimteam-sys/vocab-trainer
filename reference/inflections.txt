@@ -364,3 +364,8 @@ prez         president      # 口语截短
 prob         problem        # 口语截短
 probs        problem        # 口语截短
 program      programme      # 美式拼法；电脑程序英式也拼 program，在 programme 条讲
+put          put            # 过去式、过去分词同形
+pummelo      pomelo         # 拼法变体
+pud          pudding        # 英式口语截短，在 pudding 条配等式
+pubes        pubic          # 并进 pubic
+pubis        pubic          # 并进 pubic
