@@ -1,3 +1,27 @@
+priest
+/priːst/
+核心：两支，可数。一是（天主教、东正教、英国国教的）神父、司铎、牧师：有资格主持圣事的神职人员；二是（非基督教的）祭司、僧侣，女的叫 priestess。
+派生：the priesthood 是神父的职位，也指全体神职人员；priestly 是神父的、祭司的。
+priest's hole 是神父藏身处：英国旧宅里的暗室，十六、十七世纪天主教神父遭迫害时藏在里面。并入本条。
+① The village priest has lived in the same small house for forty years.
+= 村里的神父在同一座小房子里住了四十年。
+a priest = 神父
+② The priests of the temple carried the statue down to the river at dawn.
+= 拂晓时，庙里的祭司把神像抬到了河边。
+the priests of a temple = 庙里的祭司
+③ In the story the priestess warns the king not to cross the sea.
+= 故事里，女祭司警告国王不要渡海。
+a priestess = 女祭司
+④ He entered the priesthood at twenty-five after studying law.
+= 他学完法律，二十五岁当了神父。
+enter the priesthood = 当神父
+⑤ The old man took his priestly duties seriously and visited every sick neighbour.
+= 那位老人对自己神父的职责很认真，哪个邻居病了都去探望。
+priestly duties = 神父的职责
+⑥ The guide showed us a priest's hole behind the panelling in the library.
+= 导游带我们看了藏书室护墙板后面的一处神父藏身暗室。
+a priest's hole = 神父藏身的暗室
+
 prig
 /prɪɡ/
 核心：（贬）自以为道德高尚、处处循规蹈矩并看不惯别人的人。可数。形容词 priggish，名词 priggishness，不可数。并入本条。
@@ -418,84 +442,3 @@ prink in front of the mirror = 在镜子前打扮
 ② He prinked himself for an hour before the dance.
 = 舞会之前，他把自己拾掇了一个钟头。
 prink yourself = 拾掇自己
-
-print
-/prɪnt/
-核心：本义是「压出印子」。动词：印、印刷（书、报、图案）；刊登、发表；打印；（照相）洗印；用印刷体写：print your name。
-名词：印刷出来的字，不可数：in large print；印痕、印子，可数：a footprint，prints 常指指纹；（照片）洗出的一张，可数；版画，可数；印花布、印花图案，可数。
-短语动词：print out、print off 是（从电脑）打印出来。
-习语：in print 一是（书）还在印行、买得到，二是登出来了、成了铅字；out of print 是绝版的；the small print、美式 the fine print 是（合同里）小字印的细则。
-派生与复合词：printing 是印刷、印刷术，也指一次印的数量；printout 是打印出来的一份；printable 是可以打印的、适合刊登的；printworks 是印染厂；
-print run 是一次的印数；print queue 是打印队列；printmaker 是版画家，这门艺术叫 printmaking。并入本条。
-① The firm prints ten thousand copies of the magazine every month.
-= 那家公司每月印一万份那本杂志。
-print copies = 印若干份
-② The newspaper printed her letter on the front page.
-= 那份报纸把她的信登在了头版。
-print a letter = 刊登信
-③ Please print your name in the box and sign below it.
-= 请在方框里用印刷体写上姓名，在下面签字。
-print your name = 用印刷体写姓名
-④ The book is available in large print for readers with poor sight.
-= 那本书有大字版，供视力不好的读者用。
-in large print = 用大号字印的
-⑤ The burglar left his prints all over the kitchen window.
-= 窃贼在厨房窗户上留下了满是指纹。
-prints = 指纹
-⑥ She ordered two prints of each photograph for her parents.
-= 每张照片她给父母各订了两张洗印的。
-a print = 洗印的照片
-⑦ The gallery sells prints by local artists at prices that students can afford.
-= 那家画廊卖当地艺术家的版画，价钱学生也买得起。
-a print = 版画
-⑧ She wore a cotton dress with a flower print.
-= 她穿着一条印花的棉布连衣裙。
-a flower print = 印花图案
-⑨ Print out two copies of the report and leave one on my desk.
-= 把报告打印两份，一份放在我桌上。
-print out = 打印出来
-print off = 打印出来
-⑩ Her first novel is still in print after fifty years.
-= 她的头一部小说五十年后还在印行。
-in print = 还在印行、成了铅字
-⑪ The dictionary has been out of print since 1980.
-= 那部词典一九八〇年以后就绝版了。
-out of print = 绝版的
-⑫ Always read the small print before you sign an agreement.
-= 签协议之前一定要看小字细则。
-the small print = 小字印的细则
-⑬ The invention of printing changed the way knowledge was spread.
-= 印刷术的发明改变了知识传播的方式。
-printing = 印刷术
-⑭ He handed me a printout of the figures for the last three months.
-= 他递给我一份打印出来的近三个月的数字。
-a printout = 打印出来的一份
-⑮ The page offers a printable version of the map without the advertisements.
-= 那个网页提供不带广告的可打印版地图。
-printable = 可以打印的
-⑯ The first print run of five thousand sold out in a week.
-= 首印的五千册一个星期就卖完了。
-a print run = 一次的印数
-⑰ My letter is still waiting in the print queue behind a hundred pages of somebody else's report.
-= 我的信还排在打印队列里，前面是别人一百页的报告。
-a print queue = 打印队列
-⑱ The printmaker cut the design into a block of wood with a small knife.
-= 那位版画家用一把小刀把图样刻在一块木头上。
-a printmaker = 版画家
-printmaking = 版画制作
-⑲ The old printworks by the river has been turned into flats.
-= 河边那座旧印染厂已经改成了公寓。
-a printworks = 印染厂
-
-printer
-/ˈprɪntə(r)/
-核心：两支，可数。一是打印机；二是印刷工、印刷商、印刷厂。
-① The printer in the office has run out of ink again.
-= 办公室的打印机又没墨了。
-a printer = 打印机
-② The book is at the printer's and will be in the shops next month.
-= 那本书在印刷厂，下个月上架。
-at the printer's = 在印刷厂
-③ His grandfather was a printer who set every page by hand.
-= 他爷爷是印刷工，每一页都是手工排的。
-a printer = 印刷工

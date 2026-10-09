@@ -1,3 +1,84 @@
+print
+/prɪnt/
+核心：本义是「压出印子」。动词：印、印刷（书、报、图案）；刊登、发表；打印；（照相）洗印；用印刷体写：print your name。
+名词：印刷出来的字，不可数：in large print；印痕、印子，可数：a footprint，prints 常指指纹；（照片）洗出的一张，可数；版画，可数；印花布、印花图案，可数。
+短语动词：print out、print off 是（从电脑）打印出来。
+习语：in print 一是（书）还在印行、买得到，二是登出来了、成了铅字；out of print 是绝版的；the small print、美式 the fine print 是（合同里）小字印的细则。
+派生与复合词：printing 是印刷、印刷术，也指一次印的数量；printout 是打印出来的一份；printable 是可以打印的、适合刊登的；printworks 是印染厂；
+print run 是一次的印数；print queue 是打印队列；printmaker 是版画家，这门艺术叫 printmaking。并入本条。
+① The firm prints ten thousand copies of the magazine every month.
+= 那家公司每月印一万份那本杂志。
+print copies = 印若干份
+② The newspaper printed her letter on the front page.
+= 那份报纸把她的信登在了头版。
+print a letter = 刊登信
+③ Please print your name in the box and sign below it.
+= 请在方框里用印刷体写上姓名，在下面签字。
+print your name = 用印刷体写姓名
+④ The book is available in large print for readers with poor sight.
+= 那本书有大字版，供视力不好的读者用。
+in large print = 用大号字印的
+⑤ The burglar left his prints all over the kitchen window.
+= 窃贼在厨房窗户上留下了满是指纹。
+prints = 指纹
+⑥ She ordered two prints of each photograph for her parents.
+= 每张照片她给父母各订了两张洗印的。
+a print = 洗印的照片
+⑦ The gallery sells prints by local artists at prices that students can afford.
+= 那家画廊卖当地艺术家的版画，价钱学生也买得起。
+a print = 版画
+⑧ She wore a cotton dress with a flower print.
+= 她穿着一条印花的棉布连衣裙。
+a flower print = 印花图案
+⑨ Print out two copies of the report and leave one on my desk.
+= 把报告打印两份，一份放在我桌上。
+print out = 打印出来
+print off = 打印出来
+⑩ Her first novel is still in print after fifty years.
+= 她的头一部小说五十年后还在印行。
+in print = 还在印行、成了铅字
+⑪ The dictionary has been out of print since 1980.
+= 那部词典一九八〇年以后就绝版了。
+out of print = 绝版的
+⑫ Always read the small print before you sign an agreement.
+= 签协议之前一定要看小字细则。
+the small print = 小字印的细则
+⑬ The invention of printing changed the way knowledge was spread.
+= 印刷术的发明改变了知识传播的方式。
+printing = 印刷术
+⑭ He handed me a printout of the figures for the last three months.
+= 他递给我一份打印出来的近三个月的数字。
+a printout = 打印出来的一份
+⑮ The page offers a printable version of the map without the advertisements.
+= 那个网页提供不带广告的可打印版地图。
+printable = 可以打印的
+⑯ The first print run of five thousand sold out in a week.
+= 首印的五千册一个星期就卖完了。
+a print run = 一次的印数
+⑰ My letter is still waiting in the print queue behind a hundred pages of somebody else's report.
+= 我的信还排在打印队列里，前面是别人一百页的报告。
+a print queue = 打印队列
+⑱ The printmaker cut the design into a block of wood with a small knife.
+= 那位版画家用一把小刀把图样刻在一块木头上。
+a printmaker = 版画家
+printmaking = 版画制作
+⑲ The old printworks by the river has been turned into flats.
+= 河边那座旧印染厂已经改成了公寓。
+a printworks = 印染厂
+
+printer
+/ˈprɪntə(r)/
+核心：两支，可数。一是打印机；二是印刷工、印刷商、印刷厂。
+① The printer in the office has run out of ink again.
+= 办公室的打印机又没墨了。
+a printer = 打印机
+② The book is at the printer's and will be in the shops next month.
+= 那本书在印刷厂，下个月上架。
+at the printer's = 在印刷厂
+③ His grandfather was a printer who set every page by hand.
+= 他爷爷是印刷工，每一页都是手工排的。
+a printer = 印刷工
+
 prion
 /ˈpriːɒn/
 核心：（生物）朊病毒、朊粒：一种异常折叠的蛋白质，会引起疯牛病一类的脑部疾病。可数。
@@ -430,54 +511,3 @@ be proactive in doing something = 主动做某事
 ③ The firm deals proactively with faults before customers notice them.
 = 那家公司抢在顾客发现之前主动处理故障。
 proactively = 主动地
-
-probability
-/ˌprɒbəˈbɪləti/
-核心：三支。一是可能性：某事发生的可能有多大，不可数或单数：the probability of、that；二是很可能发生的事，可数；
-三是（数学）概率，可数也可不可数。in all probability 是十有八九、很可能。形容词 probabilistic 是概率的、基于概率的。并入本条。
-① There is a strong probability that the match will be postponed.
-= 那场比赛很可能推迟。
-a probability that = ……的可能性
-② The probability of winning the lottery is less than one in a million.
-= 中彩票的概率不到百万分之一。
-the probability of something = 某事的概率
-③ A fall in prices is now a probability rather than a mere possibility.
-= 物价下跌如今是很可能的事，不只是有可能。
-a probability = 很可能发生的事
-④ In all probability he missed the train and will arrive on the next one.
-= 他十有八九误了火车，会坐下一班来。
-in all probability = 十有八九
-⑤ Weather forecasts are probabilistic and can never promise a dry afternoon.
-= 天气预报是基于概率的，没法保证下午不下雨。
-probabilistic = 基于概率的
-
-probable
-/ˈprɒbəbl/
-核心：形容词：很可能的、大概的：比 possible 把握大，比 certain 小：It is probable that、the probable cause。
-名词：很有希望入选、获胜的人，可数。反义是 improbable。
-① It is probable that the fire was started by a cigarette.
-= 那场火很可能是一个烟头引起的。
-it is probable that = 很可能
-② The police have not yet named the probable cause of the crash.
-= 警方还没公布撞车的可能原因。
-the probable cause = 可能的原因
-③ She is one of the probables for the national team this summer.
-= 她是今年夏天很有希望入选国家队的人之一。
-a probable = 很有希望入选的人
-possible 是「有这个可能」，probable 是「多半如此」。
-
-probably
-/ˈprɒbəbli/
-核心：副词：很可能、大概、多半。位置在助动词之后、实义动词之前；否定句里放在 not、won't 之前。
-① It will probably rain this afternoon, so take an umbrella.
-= 今天下午多半会下雨，带把伞吧。
-will probably do something = 多半会做某事
-② She probably forgot to post the letter before she left for the airport.
-= 她大概是去机场前忘了寄那封信。
-probably forgot = 大概是忘了
-③ "Are you coming to the meeting?" "Probably not, because I have too much to do."
-= 「你来开会吗？」「多半不来，我事太多。」
-Probably not. = 多半不。
-④ He probably will not arrive before midnight if the roads are icy.
-= 路上结了冰的话，他多半半夜前到不了。
-probably will not = 多半不会

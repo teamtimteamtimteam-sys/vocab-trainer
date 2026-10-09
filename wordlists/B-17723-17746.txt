@@ -1,3 +1,54 @@
+probability
+/ˌprɒbəˈbɪləti/
+核心：三支。一是可能性：某事发生的可能有多大，不可数或单数：the probability of、that；二是很可能发生的事，可数；
+三是（数学）概率，可数也可不可数。in all probability 是十有八九、很可能。形容词 probabilistic 是概率的、基于概率的。并入本条。
+① There is a strong probability that the match will be postponed.
+= 那场比赛很可能推迟。
+a probability that = ……的可能性
+② The probability of winning the lottery is less than one in a million.
+= 中彩票的概率不到百万分之一。
+the probability of something = 某事的概率
+③ A fall in prices is now a probability rather than a mere possibility.
+= 物价下跌如今是很可能的事，不只是有可能。
+a probability = 很可能发生的事
+④ In all probability he missed the train and will arrive on the next one.
+= 他十有八九误了火车，会坐下一班来。
+in all probability = 十有八九
+⑤ Weather forecasts are probabilistic and can never promise a dry afternoon.
+= 天气预报是基于概率的，没法保证下午不下雨。
+probabilistic = 基于概率的
+
+probable
+/ˈprɒbəbl/
+核心：形容词：很可能的、大概的：比 possible 把握大，比 certain 小：It is probable that、the probable cause。
+名词：很有希望入选、获胜的人，可数。反义是 improbable。
+① It is probable that the fire was started by a cigarette.
+= 那场火很可能是一个烟头引起的。
+it is probable that = 很可能
+② The police have not yet named the probable cause of the crash.
+= 警方还没公布撞车的可能原因。
+the probable cause = 可能的原因
+③ She is one of the probables for the national team this summer.
+= 她是今年夏天很有希望入选国家队的人之一。
+a probable = 很有希望入选的人
+possible 是「有这个可能」，probable 是「多半如此」。
+
+probably
+/ˈprɒbəbli/
+核心：副词：很可能、大概、多半。位置在助动词之后、实义动词之前；否定句里放在 not、won't 之前。
+① It will probably rain this afternoon, so take an umbrella.
+= 今天下午多半会下雨，带把伞吧。
+will probably do something = 多半会做某事
+② She probably forgot to post the letter before she left for the airport.
+= 她大概是去机场前忘了寄那封信。
+probably forgot = 大概是忘了
+③ "Are you coming to the meeting?" "Probably not, because I have too much to do."
+= 「你来开会吗？」「多半不来，我事太多。」
+Probably not. = 多半不。
+④ He probably will not arrive before midnight if the roads are icy.
+= 路上结了冰的话，他多半半夜前到不了。
+probably will not = 多半不会
+
 probate
 /ˈprəʊbeɪt/
 核心：（法律）名词：遗嘱认证：由法院正式确认一份遗嘱有效的手续，不可数。动词：（美式）认证（遗嘱）。
@@ -347,56 +398,3 @@ a Procrustean bed = 削足适履的框框
 ② Teachers complain about the Procrustean rules that treat every child alike.
 = 教师们抱怨那些把每个孩子一样对待的强求一律的规定。
 Procrustean rules = 强求一律的规定
-
-proctor
-/ˈprɒktə(r)/
-核心：名词，可数：（美式）监考人，英式叫 invigilator；（牛津、剑桥等大学里）学监：管学生纪律的官员。动词：（美式）监考。
-① The proctor collected the papers as soon as the bell rang.
-= 铃一响，监考人就把卷子收了。
-a proctor = 监考人
-② Two graduate students proctored the exam in the main hall.
-= 两名研究生在大厅里监考。
-proctor an exam = 监考
-③ The students were fined by the proctors for climbing on the college roof.
-= 那些学生爬上学院的屋顶，被学监罚了款。
-the proctors = 学监
-
-procure
-/prəˈkjʊə(r)/
-核心：（正式）两支，及物。一是（设法、费力地）取得、弄到、采购：procure something for somebody；二是（给嫖客）介绍妓女、拉皮条。
-名词 procurement：（政府、机构的）采购，不可数。并入本条。
-① She managed to procure two tickets for the final from a friend at the club.
-= 她设法从俱乐部的一位朋友那儿弄到了两张决赛的票。
-procure tickets = 弄到票
-② The agent was paid to procure supplies for the army.
-= 那个代理人受雇为军队采购物资。
-procure supplies for somebody = 为某方采购物资
-③ He was jailed for procuring young women for wealthy clients.
-= 他因给有钱的客人介绍年轻女子入狱。
-procure somebody for somebody = 给某人拉皮条介绍某人
-④ The ministry has changed its rules on the procurement of weapons.
-= 部里改了武器采购的规定。
-procurement = 采购
-
-prod
-/prɒd/
-核心：动词：（用手指、棍子）戳、捅：prod somebody、prod at something；催促、督促、提醒：prod somebody into doing。过去式 prodded。
-名词，可数：一戳、一捅；一次催促、提醒；（赶牲口的）刺棒：a cattle prod。名词 prodding 是催促，不可数。并入本条。
-① She prodded him in the back to make him move forward.
-= 她在他背上捅了一下，让他往前走。
-prod somebody in the back = 在某人背上捅一下
-② The child prodded at the fish on his plate with a fork.
-= 那孩子用叉子戳着盘子里的鱼。
-prod at something = 戳某物
-③ The newspapers finally prodded the council into mending the road.
-= 报纸终于把镇议会催得动手修路了。
-prod somebody into doing something = 催得某人做某事
-④ He gave the sleeping dog a gentle prod with his foot.
-= 他用脚轻轻捅了一下睡着的狗。
-a gentle prod = 轻轻一捅
-⑤ I will write the letter tonight, but I may need a prod if I forget.
-= 那封信我今晚写，万一忘了，得有人提醒我一下。
-need a prod = 需要人提醒
-⑥ After much prodding from his wife, he went to see the doctor.
-= 妻子催了又催，他才去看了医生。
-prodding = 催促
