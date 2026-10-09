@@ -379,6 +379,10 @@ circuit training = 循环训练
 ⑫ Closed-circuit television caught the theft and nobody watched the tape for a month.
 = 闭路电视拍下了盗窃过程，可录像一个月没人看。
 closed-circuit television = 闭路电视
+⑬ The engineer replaced the printed circuit board at the back of the old radio.
+= 工程师换掉了旧收音机后面的印刷电路板。
+a printed circuit = 印刷电路
+a printed circuit board = 印刷电路板
 构词：拉丁语 circuitus 绕行
 注意用法：电路与巡回两支最常读到。
 

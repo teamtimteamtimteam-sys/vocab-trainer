@@ -41542,6 +41542,10 @@ a military installation = 军事设施
 ⑦ The gallery's main room is filled with an installation made of old bicycles.
 = 画廊的主厅里是一件用旧自行车做成的装置艺术作品。
 an installation = 装置艺术
+⑧ The laptop comes with all the software you need already pre-installed by the maker.
+= 那台笔记本电脑出厂时厂家已经把你要用的软件全装好了。
+pre-install = 预先安装
+pre-installed software = 预装的软件
 
 instalment
 /ɪnˈstɔːlmənt/

@@ -1762,6 +1762,10 @@ collect a prescription = 取处方药
 ④ Cutting taxes and spending more at the same time is a prescription for disaster.
 = 一边减税一边增加开支，是自找灾祸。
 a prescription for disaster = 自找灾祸的做法
+⑤ The prescription charge has gone up again, to almost ten pounds for each item.
+= 处方费又涨了，每一样药差不多要十英镑。
+a prescription charge = （英国）处方费
+在英国凭处方取药时交的一笔定额的钱。
 
 prescriptive
 /prɪˈskrɪptɪv/
@@ -2016,6 +2020,10 @@ the preservation of meat = 肉的保存
 ④ Preservationists are fighting to save the old station from being pulled down.
 = 保护人士正在力争不让旧车站被拆掉。
 a preservationist = 主张保护的人
+⑤ The council has placed a preservation order on the old oak tree by the church.
+= 镇议会给教堂旁边那棵老橡树下了保护令。
+a preservation order = （英国）保护令
+下了保护令的树、建筑不得砍伐、拆改。
 
 preservative
 /prɪˈzɜːvətɪv/
@@ -2232,6 +2240,28 @@ a press secretary = 新闻秘书
 ㉛ The pressmen waited outside the court for the verdict.
 = 记者们在法院外面等判决。
 a pressman = 记者、印刷工
+㉜ The story was sent round the world by a press agency in Paris.
+= 那条消息是巴黎的一家通讯社发往全世界的。
+a press agency = 通讯社
+也说 news agency。
+㉝ The singer's press agent refused to answer any questions about the divorce.
+= 那位歌手的新闻代理人不肯回答任何关于离婚的问题。
+a press agent = 新闻代理人、宣传员
+替名人、机构跟媒体打交道的人。
+㉞ The reporters watched the match from the press box above the main stand.
+= 记者们在主看台上方的记者席上看了那场比赛。
+the press box = （体育场的）记者席
+㉟ The press gallery was full for the Prime Minister's statement on the crisis.
+= 首相就那场危机发表声明时，记者旁听席座无虚席。
+the press gallery = （议会、法庭的）记者旁听席
+㊱ In those days a press gang could seize any man in the port for the navy.
+= 那年头，抓丁队可以把港口里任何一个男人抓去当海军。
+a press gang = （旧时的）抓丁队
+动词 press-gang somebody into doing something 是硬逼某人做某事。
+㊲ All enquiries from journalists should be sent to the press office at the ministry.
+= 记者的一切询问请转给部里的新闻处。
+a press office = 新闻处、新闻办公室
+a press officer = 新闻官
 
 pressure
 /ˈpreʃə(r)/
@@ -2307,6 +2337,9 @@ a pressure washer = 高压清洗机
 ⑱ The pilot wore a pressure suit for the flight to the edge of space.
 = 飞往太空边缘的那次飞行，飞行员穿着增压服。
 a pressure suit = 增压服
+⑲ The men cleaned the mud off the lorries with a pressure hose in the yard.
+= 那些人在院子里用高压水管冲掉卡车上的泥。
+a pressure hose = 高压水管
 
 prestige
 /preˈstiːʒ/
@@ -3517,6 +3550,10 @@ printmaking = 版画制作
 ⑲ The old printworks by the river has been turned into flats.
 = 河边那座旧印染厂已经改成了公寓。
 a printworks = 印染厂
+⑳ The publisher keeps its older titles available through print on demand.
+= 那家出版社靠按需印刷让旧书一直买得到。
+print on demand = 按需印刷
+有人订一本才印一本。
 
 printer
 /ˈprɪntə(r)/
@@ -3665,6 +3702,9 @@ a prison visitor = 义务探访囚犯的人
 ⑥ The prison officers found a mobile phone hidden in a bar of soap.
 = 狱警在一块肥皂里搜出了一部藏着的手机。
 a prison officer = 狱警
+⑦ He spent three years in a prison camp after his plane was shot down.
+= 飞机被打下来以后，他在战俘营里关了三年。
+a prison camp = 战俘营、集中营
 
 prisoner
 /ˈprɪznə(r)/
@@ -3788,6 +3828,41 @@ private enterprise = 私营企业
 ⑰ We were invited to the private view of the exhibition the evening before it opened.
 = 我们受邀参加那个展览开幕前一晚的内部预展。
 a private view = 内部预展
+⑱ The reform began as a private bill introduced by a single member of the house.
+= 那项改革起初是一位议员自己提出的私人法案。
+a private bill = 私人法案
+只涉及某个人、某个机构的法案。
+⑲ The business is a private company owned by the family that founded it.
+= 那家企业是私人公司，归创办它的那一家人所有。
+a private company = 私人公司、不上市的公司
+股票不向公众出售。
+⑳ The chain of shops was bought by a private equity firm and split into three.
+= 那家连锁店被一家私募股权公司买下，拆成了三块。
+private equity = 私募股权
+a private equity firm = 私募股权公司
+㉑ He left the army after four years with the rank of private first class.
+= 他当了四年兵，退伍时军衔是一等兵。
+a private first class = （美国陆军的）一等兵
+㉒ Disputes between neighbours over a fence are a matter of private law.
+= 邻居之间为篱笆起的纠纷属于私法的范围。
+private law = 私法
+管个人之间关系的法律，跟 public law（公法）相对。
+㉓ The business was turned into a private limited company when the founder retired.
+= 创办人退休时，那家企业改成了私人有限公司。
+a private limited company = 私人有限公司
+英国公司名后面缩写作 Ltd。
+㉔ The law was introduced by a private member and not by the government.
+= 那项法律是一位普通议员提出的，不是政府提的。
+a private member = （英国议会里不任政府职务的）普通议员
+a private member's bill = 普通议员提出的法案
+㉕ He paid to be treated as a private patient and had the operation within a week.
+= 他自己掏钱当自费病人，不出一个星期就做了手术。
+a private patient = 自费病人
+在英国指不走公费医疗的病人。
+㉖ After ten years in a hospital she left to set up in private practice.
+= 在医院干了十年之后，她出来自己开业了。
+private practice = 私人开业
+in private practice = 自己开业
 
 privateer
 /ˌpraɪvəˈtɪə(r)/
@@ -3950,6 +4025,21 @@ pro rata = 按比例的
 ⑨ She was made manager pro tem until a permanent replacement could be found.
 = 找到正式接替的人之前，她被任命为临时经理。
 pro tem = 暂时的、临时的
+⑩ The two friends entered a pro-am golf tournament for charity in the summer.
+= 那两个朋友夏天参加了一场职业与业余选手同场的慈善高尔夫球赛。
+pro-am = 职业与业余选手同场的
+a pro-am = 职业与业余选手同场的比赛
+⑪ The senator has always been pro-choice and voted against the new restrictions.
+= 那位参议员一向主张妇女有权选择堕胎，对新的限制投了反对票。
+pro-choice = 主张妇女有权选择堕胎的
+⑫ Pro-life groups held a silent vigil outside the clinic every Saturday morning.
+= 反堕胎团体每个星期六上午在那家诊所外面静默守候。
+pro-life = 反对堕胎的
+跟 pro-choice 相对。
+⑬ In the answer "Yes, I do", the word "do" is a pro-verb standing for the whole verb phrase.
+= 在「Yes, I do」这句回答里，「do」是代动词，代替整个动词短语。
+a pro-verb = （语法）代动词
+别跟 proverb（谚语）混：这里有连字符。
 
 proactive
 /ˌprəʊˈæktɪv/
@@ -4519,6 +4609,10 @@ the product of something = 某事的结果
 ⑤ The product of six and seven is forty-two.
 = 六和七的乘积是四十二。
 the product of six and seven = 六乘七的积
+⑥ The film is full of product placement, with the same watch in almost every scene.
+= 那部片子里到处是植入广告，同一块表几乎每场戏都出现。
+product placement = 植入广告
+厂商付钱让产品出现在影视里。
 
 production
 /prəˈdʌkʃn/
@@ -4555,6 +4649,10 @@ production values = 制作水准
 ⑨ The show ends with a big production number for the whole cast.
 = 那场演出以全体演员的一大段歌舞收尾。
 a production number = 大场面的歌舞段落
+⑩ The film spent two years in pre-production before a single scene was shot.
+= 那部片子光前期筹备就花了两年，一场戏都还没拍。
+pre-production = （影视的）前期筹备
+拍完之后的剪辑、配音叫 post-production。
 
 productive
 /prəˈdʌktɪv/
@@ -4675,6 +4773,10 @@ professionalism = 专业水准、职业操守
 = 那项运动是一九九〇年代职业化的。
 professionalize = 使职业化
 professionalization = 职业化
+⑨ The defender was sent off for a professional foul on the edge of the penalty area.
+= 那名后卫在禁区边上故意犯规，被罚下了场。
+a professional foul = 故意犯规
+为了不让对方得分而存心犯的规。
 
 professor
 /prəˈfesə(r)/
@@ -4798,6 +4900,14 @@ profit-taking = 获利回吐
 ⑪ The company's shares dropped by a fifth after it issued a profit warning.
 = 那家公司发出盈利预警后，股价跌了五分之一。
 a profit warning = 盈利预警
+⑫ The accountant asked to see the profit and loss account for the last three years.
+= 会计要看近三年的损益表。
+a profit and loss account = 损益表
+列出一段时间里的收入、开支和盈亏。
+⑬ The railway has never been a profit-making business and depends on public money.
+= 那条铁路从来不是赚钱的买卖，靠公家的钱维持。
+profit-making = 赚钱的、营利的
+反过来是 non-profit-making（非营利的）。
 
 profiteer
 /ˌprɒfɪˈtɪə(r)/
@@ -5804,6 +5914,10 @@ pronounce something excellent = 断言某物极好
 = 那家公司想要一个短的、哪种语言都好读的名字。
 pronounceable = 读得出来的
 easily pronounceable = 好读的
+⑦ The minister refused to pronounce on the case while it was still before the courts.
+= 案子还在法院审着，部长不肯对它发表意见。
+pronounce on something = 对某事发表意见、作出判断
+pronounce upon something = 对某事发表意见
 注意名词拼作 pronunciation，中间没有 o。
 
 pronounced
@@ -7140,6 +7254,9 @@ a high-protein diet = 高蛋白饮食
 = 科学家找到了一种帮病毒进入细胞的蛋白质。
 a protein = 一种蛋白质
 这样用可数。
+④ He drinks a protein shake after every session in the gym.
+= 他每次在健身房练完都喝一杯蛋白质奶昔。
+a protein shake = 蛋白质奶昔
 
 protest
 /ˈprəʊtest/（名）/prəˈtest/（动）
@@ -7176,6 +7293,10 @@ protest that… = 坚决地说……
 ⑧ I paid the fine under protest and wrote to the council the same day.
 = 我心里不服地交了罚款，当天就给镇议会写了信。
 under protest = 心里不服地、勉强地
+⑨ Many people cast a protest vote for the small party to punish the government.
+= 许多人为了惩罚政府，把抗议票投给了那个小党。
+a protest vote = 抗议票
+不是真支持那一方，只为表示不满。
 
 Protestant
 /ˈprɒtɪstənt/
@@ -7662,6 +7783,10 @@ a provisional date = 暂定的日期
 = 会议暂定在三月三日。
 provisionally = 暂时地、暂定地
 be provisionally arranged = 暂定
+④ She passed her test at the first attempt and tore up her provisional licence.
+= 她一次就考过了，把实习驾照撕了。
+a provisional licence = （英国）实习驾照
+学车的人拿的驾照；美式叫 learner's permit。
 
 proviso
 /prəˈvaɪzəʊ/

@@ -1451,3 +1451,8 @@ promethium           # 窄专业（同上）
 protactinium         # 窄专业（同上）
 proclitic            # 窄专业（语言学）
 procaine             # 窄专业（局部麻醉药名）
+procter-gamble      # 清单伪影（公司名）
+pretty-boy-floyd      # 清单伪影（人名）
+prick-teaser      # 冒犯性粗话，不收
+preferred provider organization      # 美国医疗保险的窄术语
+professional development day      # 北美学校行政用语，窄

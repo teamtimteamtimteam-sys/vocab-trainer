@@ -7262,6 +7262,10 @@ blue crane = 蓝鹤（南非的国鸟）
 ㉗ The track has a bluesy feel that the rest of the album lacks.
 = 那首曲子有股布鲁斯味，专辑里别的曲子都没有。
 bluesy = 布鲁斯风味的
+㉘ The soldiers in the painting wear coats of deep Prussian blue with red collars.
+= 画里的士兵穿着深普鲁士蓝的外套，领子是红的。
+Prussian blue = 普鲁士蓝
+一种很深的蓝色颜料。
 构词：古法语 bleu
 词族：
 bluish = 略带蓝色的
@@ -10847,6 +10851,10 @@ a cookery book = 菜谱、烹饪书（英式）
 The cookery book falls open at the same four pages.
 = 那本菜谱一翻就是同样四页。
 美式说 cookbook；英式两种说法都有，cookery book 偏旧一点。
+㉞ You are advised to pre-book your seats, because the train is always crowded in August.
+= 建议您提前订座，八月里那趟车总是很挤。
+pre-book = 提前预订
+pre-book seats = 提前订座
 构词：古英语 boc
 词族：
 booking = 预订
@@ -41940,6 +41948,10 @@ circuit training = 循环训练
 ⑫ Closed-circuit television caught the theft and nobody watched the tape for a month.
 = 闭路电视拍下了盗窃过程，可录像一个月没人看。
 closed-circuit television = 闭路电视
+⑬ The engineer replaced the printed circuit board at the back of the old radio.
+= 工程师换掉了旧收音机后面的印刷电路板。
+a printed circuit = 印刷电路
+a printed circuit board = 印刷电路板
 构词：拉丁语 circuitus 绕行
 注意用法：电路与巡回两支最常读到。
 

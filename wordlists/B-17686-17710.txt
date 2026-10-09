@@ -433,6 +433,10 @@ printmaking = 版画制作
 ⑲ The old printworks by the river has been turned into flats.
 = 河边那座旧印染厂已经改成了公寓。
 a printworks = 印染厂
+⑳ The publisher keeps its older titles available through print on demand.
+= 那家出版社靠按需印刷让旧书一直买得到。
+print on demand = 按需印刷
+有人订一本才印一本。
 
 printer
 /ˈprɪntə(r)/

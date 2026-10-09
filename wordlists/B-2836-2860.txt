@@ -137,6 +137,10 @@ blue crane = 蓝鹤（南非的国鸟）
 ㉗ The track has a bluesy feel that the rest of the album lacks.
 = 那首曲子有股布鲁斯味，专辑里别的曲子都没有。
 bluesy = 布鲁斯风味的
+㉘ The soldiers in the painting wear coats of deep Prussian blue with red collars.
+= 画里的士兵穿着深普鲁士蓝的外套，领子是红的。
+Prussian blue = 普鲁士蓝
+一种很深的蓝色颜料。
 构词：古法语 bleu
 词族：
 bluish = 略带蓝色的
