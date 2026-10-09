@@ -363,3 +363,4 @@ prezzie      present        # 同上
 prez         president      # 口语截短
 prob         problem        # 口语截短
 probs        problem        # 口语截短
+program      programme      # 美式拼法；电脑程序英式也拼 program，在 programme 条讲
