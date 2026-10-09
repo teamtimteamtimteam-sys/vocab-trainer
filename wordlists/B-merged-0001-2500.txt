@@ -3278,6 +3278,9 @@ access time = 存取时间
 = 图书馆的目录运行在一套多用户系统上，几百名读者可以同时检索。
 a multi-access system = 多用户同时使用的系统
 计算机用语：允许多人同时接入。
+⑩ The beach has public access by a footpath that runs down from the car park.
+= 那片海滩有公共通道：一条从停车场下去的小路。
+public access = 公众通行权、对公众开放
 
 accessibility
 /ˌæksesɪˈbɪlɪti/
@@ -6762,6 +6765,10 @@ addressable = 可寻址的、可触达的
 forwarding address = 转寄地址
 They left no forwarding address and the post still arrives weekly.
 = 他们没留转寄地址，信件照样每周寄来。
+⑩ The names of the winners were read out over the public address system.
+= 获奖者的名字是用扩音设备念出来的。
+a public address system = 扩音设备、广播系统
+缩写作 PA system。
 
 addressee
 /ˌædreˈsiː/
@@ -42605,6 +42612,9 @@ bar mitzvah = 犹太男孩成年礼（十三岁）
 = 那道肤色门槛当年写进了地方法律，花了几十年才废除。
 a color bar = 按肤色设的进入门槛（美式拼法）
 英式拼 colour bar；旧词，今天只在讲种族隔离那段历史时用。
+㉙ The farmers drank in the public bar, and the visitors sat in the lounge.
+= 农民们在大众酒吧间喝酒，游客坐在雅座。
+the public bar = （英国酒馆里陈设较简单的）大众酒吧间
 
 barb
 /bɑːb/
@@ -51900,6 +51910,10 @@ bill of sale = 买卖契据（动产过户凭证）
 词族：
 billing = 计费；排名次序
 billboard = 广告牌
+⑰ The government introduced a public bill to change the law on school meals.
+= 政府提出了一项修改学校供餐法律的公共法案。
+a public bill = 公共法案
+涉及全体公众的法案，跟 private bill 相对。
 
 billable
 /ˈbɪləbəl/

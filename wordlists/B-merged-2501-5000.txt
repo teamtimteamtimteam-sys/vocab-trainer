@@ -18199,6 +18199,10 @@ regulate = 监管
 ③ Live broadcasting needs a delay of a few seconds for safety.
 = 直播出于安全考虑要留几秒延时。
 delay = 延时
+④ The licence fee pays for public service broadcasting without advertisements.
+= 收视费用来支撑不插广告的公共广播电视。
+public service broadcasting = 公共广播电视
+不靠广告、为公众利益办的广播电视。
 构词：broadcast 播出 + -ing
 近义对照：
 broadcasting = 广播（同一信号同时发给所有人）
@@ -50498,6 +50502,9 @@ a company sergeant major = 连队军士长（英军）
 = 这里曾是家企业城，直到工厂关门带走了一切。
 a company town = 企业城（住房与生计都归一家企业）
 多带负面意味，说的是一家独大、居民没有别的选择。
+⑫ Any member of the public can buy shares in a public company.
+= 任何人都可以买上市公司的股票。
+a public company = 上市公司、公众公司
 构词：拉丁语 com- 共 + panis 面包
 注意用法：作陪伴与客人讲时不可数。
 

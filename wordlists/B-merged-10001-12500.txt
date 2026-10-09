@@ -28246,6 +28246,10 @@ home = 家（在里面生活的归属感）
 ㊹ The hop farm still has an oast house with a white cone on its roof, built for drying the crop.
 = 那座啤酒花农场还留着一座烘房，屋顶上有个白色的圆锥，是烘干啤酒花用的。
 an oast house = 啤酒花烘房
+㊺ The old public house on the corner has been turned into flats.
+= 街角那家老酒馆改成了公寓。
+a public house = （英国）酒馆
+是 pub 的全称，正式场合才用。
 
 houseboat
 /ˈhaʊsbəʊt/
@@ -28514,6 +28518,10 @@ a housing project = 公共住房区（美式）
 = 那台相机掉到石头上，塑料外壳摔裂了。
 a housing = 外壳、护套
 另一支：包住机器零件的壳。
+⑧ The city plans to build two thousand units of public housing by next year.
+= 那座城市计划明年以前建两千套公共住房。
+public housing = （政府建的）公共住房
+这是美式说法；英式说 council housing。
 
 hovel
 /ˈhɒvəl/
