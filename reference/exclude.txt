@@ -1434,7 +1434,7 @@ potheen              # 地区变体（同上的另一拼法）
 poutine              # 地区变体（加拿大：肉汁奶酪薯条）
 posteriori           # 清单伪影（a posteriori 的残片，a 段已收）
 poesy                # 整词已废的古旧词（诗歌）
-poof                 # 冒犯性蔑称（对男同性恋；照「冒犯性标签不收」办）
+poof                 # 冒犯性蔑称（对男同性恋）；用户 2026-10-09 裁定不收
 pom                  # 地区变体（澳新：对英国人的称呼，同 pommy）
 poker machine        # 地区变体（澳新：老虎机）
 Poor Richard's Almanack   # 纯专名（书名）

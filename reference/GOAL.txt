@@ -28,11 +28,12 @@ B 词表 17774 条、义项 65874 条，词典序 a → profusion。A 表 3002 �
     **ph- 段收完**（五批，coverage 100%）。
     **pi- 段收完**（九批；coverage 只剩 pigmy 等写到 pygmy 时并进去）。
     **pl- 段收完**（七批；coverage 只剩 placer mining、planter's punch 待推迟）。
-    **po- 段收完**（十五批；coverage 只剩 pogo stick 待推迟）。poof 照「冒犯性标签不收」排除，问过用户，尚无回话。
+    **po- 段收完**（十五批；coverage 只剩 pogo stick 待推迟）。**poof 用户 2026-10-09 裁定不收**（对男同性恋的蔑称；连它的拟声义也不单为它立条）。
     **pr- 段**（清单 916 条）：开段准备做了第一部分（exclude：pre、priori、prepone、prithee、prescind、prana、三个稀土元素名、proclitic、procaine；
     inflections：practise、praesidium、primaeval、pretense、pressie / prezzie、prez、prob / probs；audit-idioms 登 practice → price 十四个大词）；写了十四批，到 profusion。
     **Paki、Polack 用户 2026-10-07 裁定不收**，已从 keep 名单撤掉、登进 exclude。
     **蔑称的规矩**：nigger 是用户点名要收的唯一一个；别的种族、族群蔑称（冒犯性标签）照旧不收，不要外推那次裁定，也不用再逐个问。
+    用户已明确说不收的有 Paki、Polack（2026-10-07）、poof（2026-10-09，这一条是针对性取向的蔑称）。我的理解（不是用户原话）：针对某一群人的蔑称都照此办；ponce 这类本义不是蔑称、只有一支冒犯用法的词照常收，那一支只注明不配例句。
   **下一批从 progenitor 起（pr- 段还剩二十一批左右）**：progenitor、progeny、progesterone、prognosis（并 prognostic、prognostication）、programme（英式词头；并 program、programmable、
     programmatic(ally)、programmer、programming）、progress（两条习语）、progression、progressive（并 -ly、progressivism）、prohibit（并 prohibited）、prohibition（并 prohibitionist）、
     prohibitive（并 -ly）、project（并 project onto、projection、projectionist、projector 视情况单立）、projectile、prolapse、prole、proletarian、proliferate（并 proliferation）、prolific(ally)、
