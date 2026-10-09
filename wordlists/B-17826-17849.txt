@@ -564,15 +564,3 @@ proposition somebody = 向某人提出性要求
 = 那门课从命题逻辑的规则讲起。
 propositional logic = 命题逻辑
 propositional = 命题的
-
-propound
-/prəˈpaʊnd/
-核心：（正式）提出（一种理论、主张）供人考虑、讨论。及物。
-① The theory was first propounded by a Greek thinker two thousand years ago.
-= 那个理论最早是两千年前一位希腊思想家提出的。
-propound a theory = 提出一种理论
-be propounded by somebody = 由某人提出
-② He used the lecture to propound his own views on education.
-= 他借那场讲座宣讲自己对教育的看法。
-propound your views = 提出自己的看法
-日常说 put forward。

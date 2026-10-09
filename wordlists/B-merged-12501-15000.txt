@@ -26519,6 +26519,9 @@ a markdown = 降价
 ㊱ The markup on a cup of coffee is very high.
 = 一杯咖啡的加价幅度非常高。
 the markup = 加价幅度
+㊲ A full stop is the punctuation mark that ends a sentence.
+= 句号是结束一句话的标点符号。
+a punctuation mark = 标点符号
 
 market
 /ˈmɑːkɪt/

@@ -5753,6 +5753,10 @@ action stations = 战斗岗位（军事支线的固定说法）
 = 这是部扎实的动作片，说什么就给什么。
 actioner = 动作片（影评行话）
 词族：active、activity、activate
+⑳ The guard carried a pump-action shotgun under his long coat.
+= 警卫的长大衣底下揣着一支泵动式霰弹枪。
+pump-action = 泵动式的
+靠前后拉动护木上膛、压出液体的。
 
 actionable
 /ˈækʃənəbəl/
@@ -40497,6 +40501,10 @@ a diplomatic bag = 外交邮袋
 ⑲ He packs a duffel bag for anything under a week and checks nothing.
 = 一周以内的行程他就装个帆布旅行袋，什么也不托运。
 a duffel bag = 圆筒形帆布旅行袋
+⑳ He trained by hitting a punching bag in his father's garage every evening.
+= 他每天晚上在父亲的车库里打沙袋练拳。
+a punching bag = （美式）沙袋
+英式说 punchbag。
 注意语域：
 说女人 old bag 是明确的侮辱，不要用。
 注意地域：

@@ -69,6 +69,10 @@ action stations = 战斗岗位（军事支线的固定说法）
 = 这是部扎实的动作片，说什么就给什么。
 actioner = 动作片（影评行话）
 词族：active、activity、activate
+⑳ The guard carried a pump-action shotgun under his long coat.
+= 警卫的长大衣底下揣着一支泵动式霰弹枪。
+pump-action = 泵动式的
+靠前后拉动护木上膛、压出液体的。
 
 actionable
 /ˈækʃənəbəl/
