@@ -39170,6 +39170,9 @@ mother's ruin = 杜松子酒
 ㉒ The baby needed constant mothering during its first weeks at home.
 = 那个婴儿回家后的头几个星期需要无微不至的照料。
 mothering = 母亲般的照料
+㉓ Crowds lined the streets for the funeral of the Queen Mother.
+= 太后出殡时，人群站满了街道两旁。
+the Queen Mother = 太后
 
 motherboard
 /ˈmʌðəbɔːd/

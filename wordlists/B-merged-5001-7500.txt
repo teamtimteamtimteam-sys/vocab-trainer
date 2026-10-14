@@ -7963,6 +7963,10 @@ counseling = 心理咨询（美式拼法）
 = 一位学生辅导员见了她两次，把她转介到了别处。
 a counsellor = 辅导员、顾问
 counselor = 辅导员（美式拼法）
+⑦ The defence was led by a famous Queen's Counsel.
+= 辩方由一位著名的王室法律顾问领衔。
+a Queen's Counsel = （英国）王室法律顾问
+缩写作 QC。
 构词：拉丁语 consilium 商议
 注意别混：跟 council 同音，那个是「议会」。
 
@@ -18446,6 +18450,9 @@ Day camp runs from nine to four and the parents queue from half past three.
 = 学校办了个睡衣日，为儿童医院募款。
 a pyjama day = 睡衣日
 学生、员工这天穿睡衣来，交一点钱做善事。
+㊶ The rent on the farm was paid on each quarter day.
+= 那座农场的租金是每个季度结账日交的。
+a quarter day = （英国）季度结账日
 构词：古英语 dæg
 注意用法：
 说「在某一天」用 on：on Monday、on that day

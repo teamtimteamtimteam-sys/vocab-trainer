@@ -46736,6 +46736,9 @@ beehive = 蜂箱、蜂巢
 ⑧ That is none of your beeswax and you have been told so twice.
 = 那不关你的事，已经跟你说过两遍了。
 none of your beeswax = 不关你事（戏谑，由 business 拗来）
+⑨ The queen bee lays all the eggs in the hive.
+= 蜂巢里的卵全是蜂王产的。
+a queen bee = 蜂王
 注意语域：
 最后那句是儿语式的玩笑话。
 
@@ -48502,6 +48505,10 @@ benchwarmer = 长期坐冷板凳的人
 ⑧ They bench tested the engine for a fortnight before it went in the car.
 = 发动机装车前，他们在台架上试了两星期。
 bench test = 台架测试
+⑨ He was a judge in the Queen's Bench for twenty years.
+= 他在王座法庭当了二十年法官。
+the Queen's Bench = （英国）王座法庭
+国王在位时叫 King's Bench。
 
 bend
 /bend/
