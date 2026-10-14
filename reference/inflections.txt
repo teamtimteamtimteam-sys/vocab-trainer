@@ -369,3 +369,5 @@ pummelo      pomelo         # 拼法变体
 pud          pudding        # 英式口语截短，在 pudding 条配等式
 pubes        pubic          # 并进 pubic
 pubis        pubic          # 并进 pubic
+pyjama       pyjamas        # 作定语的单数形；在 pyjamas 条配等式
+pyro         pyromania      # 口语截短，指 pyromaniac；在 pyromania 条配等式
