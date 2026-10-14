@@ -1,3 +1,27 @@
+punter
+/ˈpʌntə(r)/
+核心：（英式口语）两支，可数。一是顾客、主顾；二是赌客、赌马的人。
+① The new bar is trying to attract younger punters with live music.
+= 那家新酒吧想用现场音乐招揽年轻些的顾客。
+attract punters = 招揽顾客
+the punters = 顾客们
+② Most punters lost their money when the favourite fell at the last fence.
+= 大热门在最后一道栏摔了，大多数赌客都赔了钱。
+a punter = 赌客
+这是英式口语。
+
+puny
+/ˈpjuːni/
+核心：（含贬义）两支。一是瘦小的、弱不禁风的；二是微不足道的、不顶用的、可怜巴巴的。比较级 punier。
+① He was a puny child who was always ill in the winter.
+= 他小时候瘦弱，一到冬天就生病。
+a puny child = 瘦弱的孩子
+puny arms = 细瘦的胳膊
+② The firm made a puny attempt to answer its critics.
+= 那家公司对批评作了一点微不足道的回应。
+a puny attempt = 微不足道的努力
+a puny sum = 可怜巴巴的一点钱
+
 pup
 /pʌp/
 核心：两支，可数。一是小狗，等于 puppy；二是（海豹、水獭、狼等的）幼崽。习语 sell somebody a pup 是（英式旧式口语）卖给某人不值钱的东西、让某人上当。
@@ -403,98 +427,3 @@ deep purple = 深紫色
 ⑤ The bruise on her arm had turned a purplish colour by the morning.
 = 到早上，她胳膊上那块瘀伤已经变得发紫了。
 purplish = 带点紫的、发紫的
-
-purport
-/pəˈpɔːt/（动）/ˈpɜːpɔːt/（名）
-核心：（正式）动词：声称、自称、据说是：purport to be、purport to do，常含「未必是真的」的意思。名词：大意、主旨，不可数。
-分词 purported 作形容词：据称的、所谓的，只放在名词前；副词 purportedly。并入本条。
-① The document purports to be a letter written by the queen herself.
-= 那份文件自称是女王亲笔写的信。
-purport to be something = 自称是某物
-purport to do something = 声称做某事
-② The book purports to tell the true story of the robbery.
-= 那本书声称讲的是那起抢劫案的真相。
-purport to tell the truth = 声称讲的是真相
-常含怀疑：未必真是那么回事。
-③ I could not follow every word, but the purport of the speech was clear.
-= 我没能字字听懂，但那篇讲话的大意是清楚的。
-the purport of something = 某事的大意
-这一支是名词，重音在前。
-④ The police are examining the purported confession found in his room.
-= 警方正在查验在他房间里找到的那份据称是供词的东西。
-purported = 据称的、所谓的
-⑤ The painting was purportedly bought in Paris before the war.
-= 那幅画据称是战前在巴黎买的。
-purportedly = 据称
-
-purpose
-/ˈpɜːpəs/
-核心：名词：目的、意图、用途，可数：the purpose of、for the purpose of；purposes 是（某种）需要、用途，复数：for tax purposes；
-（人生的）意义、目标，不可数：a sense of purpose；决心、意志，不可数。
-习语：on purpose 是故意地；to no purpose 是（正式）白白地、毫无结果；serve a purpose 是有用、派得上用场；
-for all practical purposes 是实际上、事实上，也说 to all intents and purposes；at cross purposes 是各说各的、互相误会；
-for the purposes of 是为了……、就……而言；to little purpose 是没什么用。
-派生：purposeful 是有目标的、坚定的，副词 purposefully，名词 purposefulness；purposeless 是没有目的的、无意义的；
-purposely 是故意地；purposive 是（正式）有目的的。并入本条。
-① The purpose of the meeting is to choose a new chairman.
-= 开这个会的目的是选一位新主席。
-the purpose of something = 某事的目的
-a purpose = 目的、用途
-② The building is no longer used for its original purpose.
-= 那栋楼已经不作原先的用途了。
-its original purpose = 原先的用途
-for this purpose = 为此
-③ He went to Paris for the purpose of buying paintings for the gallery.
-= 他去巴黎是为了给画廊买画。
-for the purpose of doing something = 为了做某事
-④ The house is treated as an office for tax purposes.
-= 为报税起见，那栋房子算作办公室。
-for tax purposes = 为报税起见
-for the purposes of something = 为了某事、就某事而言
-⑤ Since she retired, she has lost her sense of purpose.
-= 退休以后，她觉得日子没了奔头。
-a sense of purpose = 目标感、奔头
-give somebody a purpose = 给某人一个奔头
-⑥ She walked into the room with an air of great purpose.
-= 她一副打定主意的样子走进屋来。
-with purpose = 坚决地
-这一支说的是决心，不可数。
-⑦ He broke the window on purpose to get into the house.
-= 他是故意砸窗户好进屋的。
-on purpose = 故意地
-反过来是 by accident。
-⑧ We argued with the manager for an hour, but to no purpose.
-= 我们跟经理争了一个小时，却毫无结果。
-to no purpose = 白白地、毫无结果
-to little purpose = 没什么用
-⑨ The old shed is ugly, but it serves a purpose in the winter.
-= 那间旧棚子难看，可是冬天派得上用场。
-serve a purpose = 有用、派得上用场
-serve no purpose = 毫无用处
-⑩ The two towns have grown together and are, for all practical purposes, one city.
-= 那两座城已经连成一片，实际上就是一座城。
-for all practical purposes = 实际上、事实上
-to all intents and purposes = 实际上
-⑪ We were talking at cross purposes, for I meant the son and she meant the father.
-= 我们各说各的：我说的是儿子，她说的是父亲。
-at cross purposes = 各说各的、互相误会
-⑫ She walked with a purposeful stride towards the manager's office.
-= 她迈着坚定的步子朝经理办公室走去。
-purposeful = 有目标的、坚定的
-a purposeful stride = 坚定的步子
-⑬ He moved purposefully through the crowd towards the stage.
-= 他目标明确地穿过人群朝舞台走去。
-purposefully = 目标明确地、坚定地
-⑭ There was a new purposefulness about the team after the change of manager.
-= 换了主教练之后，那支球队有了一股新的劲头。
-purposefulness = 目标明确、坚定
-⑮ The film is full of purposeless violence that adds nothing to the story.
-= 那部片子里满是无谓的暴力，对故事毫无帮助。
-purposeless = 没有目的的、无谓的
-⑯ He purposely left the door unlocked so that she could get in.
-= 他故意没锁门，好让她进得来。
-purposely = 故意地
-⑰ The study treats play as a purposive activity and not as a waste of time.
-= 那项研究把玩耍看成有目的的活动，而不是浪费时间。
-purposive = 有目的的
-这是正式、学术用词。
