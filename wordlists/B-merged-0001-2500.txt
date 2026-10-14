@@ -20355,6 +20355,10 @@ data analyst = 数据分析师
 词族：
 analyse = 分析
 analysis = 分析
+④ He works as a quantitative analyst for a bank in the City of London.
+= 他在伦敦金融城的一家银行当量化分析师。
+a quantitative analyst = 量化分析师
+口语简称 quant。
 注意：psychoanalyst 是精神分析师，
 口语里 analyst 有时也指心理治疗师。
 
@@ -32587,6 +32591,9 @@ with assurance = 有把握地
 life assurance = 人寿保险（英式）
 词族：
 assure = 保证
+④ The firm employs ten people in quality assurance to check every product.
+= 那家公司在质量保证部门雇了十个人，每件产品都要检查。
+quality assurance = 质量保证
 注意英美差别：
 life assurance = 人寿保险（英式）
 life insurance = 人寿保险（美式）

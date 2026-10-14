@@ -5118,6 +5118,9 @@ a newspaperman = 报人
 ⑥ She became the first newspaperwoman to edit a national daily.
 = 她成了头一位主编全国性日报的女报人。
 a newspaperwoman = 女报人
+⑦ The story was reported in every quality newspaper on Sunday.
+= 星期天每家严肃大报都报道了那件事。
+a quality newspaper = （英式）严肃大报
 
 newspeak
 /ˈnjuːspiːk/
@@ -33280,6 +33283,9 @@ physics = 物理学
 = 物理定律不允许任何东西跑得比光快。
 the laws of physics = 物理定律
 形式上是复数，当单数用。
+③ Quantum physics describes how very small particles behave.
+= 量子物理描述极微小的粒子怎样运动。
+quantum physics = 量子物理
 
 physio
 /ˈfɪziəʊ/
