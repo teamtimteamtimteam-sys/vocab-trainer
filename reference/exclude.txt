@@ -1465,3 +1465,4 @@ puri         # 印度食物名
 punchboard   # 美国旧时博彩用具，窄
 pulling guard      # 美式橄榄球术语，窄
 public access channel      # 美国电视业术语，窄；public access 并进 access
+push technology      # 计算机窄术语
