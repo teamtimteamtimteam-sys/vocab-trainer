@@ -371,3 +371,7 @@ pubes        pubic          # 并进 pubic
 pubis        pubic          # 并进 pubic
 pyjama       pyjamas        # 作定语的单数形；在 pyjamas 条配等式
 pyro         pyromania      # 口语截短，指 pyromaniac；在 pyromania 条配等式
+qur-an       Koran          # 拼法变体（Qur'an）；在 Koran 条配等式
+quadrophonic quadraphonic   # 拼法变体
+quads        quad           # 复数
+quanta       quantum        # 复数
