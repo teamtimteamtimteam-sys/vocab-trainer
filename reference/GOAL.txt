@@ -19,8 +19,8 @@ B 10000
   **app 2.1.0 已于 2026-10-06 推送**（用户同意的那一次）；之后的提交照旧本地攒着，push 等用户开口。
   **「继续」现在指什么要看用户上一句在说哪件事**：音标已经补完，「继续」就是接着写词表（n 字母开段）。拿不准就问。
 
-═══ 现状（2026-10-15，第一百五十九轮收尾）═══
-B 词表 18260 条、义项 67876 条，词典序 a → raceway。A 表 3002 条。A、B 两表每条都有音标行。
+═══ 现状（2026-10-15，第一百六十轮收尾）═══
+B 词表 18292 条、义项 67989 条，词典序 a → radon。A 表 3002 条。A、B 两表每条都有音标行。
   **a–q 十七个字母收完**（各字母余下的只有「待推迟」条目；audit-prefix 的 EXPECT 已登到 q）。
   **p 字母收完**（2026-10-14；清单 4169 条；pa 762、pe 581、ph 195、pi 331、pl 315、po 620、pr 918、ps 51、pu 358、py 19）：大写词头整个字母已判完。
     **pa- 段收完**（十八批；coverage 只剩 pajamas 等 pyjamas、packing density 待推迟；pa-todo.txt 已删）。
@@ -38,7 +38,8 @@ B 词表 18260 条、义项 67876 条，词典序 a → raceway。A 表 3002 条
   pu- 段（清单 360 条，约十四批）：准备已做（exclude：pube、puja、pujari、pulao、puri、punchboard、pulling guard、public access channel；inflections：put、pummelo、pud、pubes、pubis；audit-idioms 登 public → puzzle 十四个大词）；写了九批加收尾，**pu- 段收完**（coverage 只剩 puffed wheat 待推迟；push technology 进了 exclude）。py- 段一批收完（coverage 只剩 Pyrrhic victory、Pythagoras' theorem 待推迟；inflections 登 pyjama→pyjamas、pyro→pyromania）。public 名下「待并入」十三条已并进各自主条。
   **q 字母收完**（2026-10-15；七批加收尾，coverage 100%；qur-an 是清单伪影进了 exclude）。
   **r 字母在写**（清单约 2500 条：ra 373、re 1318、rh 40、ri 222、ro 326、ru 192，约一百一十批）：准备第一部分只做了 ra- 段（exclude：rabi、raita、ragi、rasam、rangoli、rakyat、rath、rata、raki、radio-free-europe…、raster image processor、rasterize、racket / racquet abuse、radiochemical、radiochemistry、radiometric(ally)；inflections：racoon、radii、raggamuffin→ragga；audit-idioms 登 race → ray 十六个词）。raja 照 maharaja 的例收（rani、ranee 并进去）。ran、rang 要等 run、ring 写了再登 inflections。
-  **下一批从 racial 起**：racial（并 racially、racialism、racialist；racial profiling）、racing（racing car 已并进 car、racing bike 并进 bike）、racism、racist、rack（三条习语；rack up、rack rate）、racket（并 racketeer、racketeering）、raconteur、racquet（racquetball）、racy、rad、radar（radar trap）、raddled、radial(ly)、radian、radiant（并 radiance、radiantly）、radiate、radiation（radiation belt 并进 belt）、radiator、radical（并 -ism、-ization、-ize、-ly；radical chic 并进 chic）、radicchio、radio（radio button、radio jockey 并进 button、jockey）… 照 scratchpad 的 ra.txt 往下；写 re- 段之前再做准备第二部分。
+  ra- 段写了三批，到 radon。
+  **下一批从 raffia 起**：raffia、raffish、raffle、raft、rafter、rafting、rag（三条习语；rag-and-bone man 并进 bone、rag doll 并进 doll；rag on、rag rug）、raga、ragamuffin、ragbag、rage（两条习语）、ragga（并 raggamuffin）、ragged（并 -ly、-ness、raggedy）、raging、raglan、ragout、ragtag、ragtime、ragweed、ragwort、rah-rah、raid（并 raider）、rail（go off the rails；并 railing、railcar、railcard 视情况）… 照 scratchpad 的 ra.txt 往下。
   **A 表措辞要照登**：audit-ab 认 A 表等式的原样写法（pull oneself together、take someone's pulse、keep a finger on the pulse），B 里用 yourself / somebody 写的不算，得把 A 的写法也配一行等式。
   **pr- 段收尾已做**（2026-10-09）：并了 47 条复合词；procter-gamble、pretty-boy-floyd、prick-teaser、preferred provider organization、professional development day 进了 exclude。
   **流水线偶尔变慢**：2026-10-09 有两趟闸门加判重超过十分钟，前台 Bash 被挪到后台——等它自己跑完再看退出码，别重跑；之后又恢复正常。
@@ -67,7 +68,7 @@ B 词表 18260 条、义项 67876 条，词典序 a → raceway。A 表 3002 条
 交付文件（按台账 reference/B-delivered.txt，每 2500 条一份）：
   已交付六份：B-merged-0001-2500 … 10001-12500（用户已导入 app），**第六份 12501-15000 于 2026-10-06 用 SendUserFile 发给用户**，
     并提醒了「先让 iPad 升到 2.1.0 再导入」（带音标行）。
-  **第七份 15001–17500（Mr → prawn）于 2026-10-08 用 SendUserFile 发给用户**，并提醒了 app 需 2.1.0。第八份在攒：现为 B-merged-17501-18260（760 条），满 2500 条时照旧主动发。
+  **第七份 15001–17500（Mr → prawn）于 2026-10-08 用 SendUserFile 发给用户**，并提醒了 app 需 2.1.0。第八份在攒：现为 B-merged-17501-18292（792 条），满 2500 条时照旧主动发。
   新增条目会让 resplit 的均分块整体改名，那是它按总数均分的正常行为。
   **origin 在 2026-10-06 推过两次**（音标补齐那批、此前的 app 2.1.0）；之后的提交照旧本地攒着，push 等用户开口。
 
