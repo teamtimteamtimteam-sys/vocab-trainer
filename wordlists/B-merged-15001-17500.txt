@@ -9287,6 +9287,10 @@ a number cruncher = 成天跟数字打交道的人
 ㉘ Most of the number crunching is now done overnight by a computer.
 = 现在大部分的数字运算，都由一台电脑在夜里做完。
 number crunching = 繁重的数字运算
+㉙ A rational number can be written as one whole number divided by another.
+= 有理数可以写成一个整数除以另一个整数。
+a rational number = 有理数
+反过来是 irrational number（无理数）。
 
 numbskull
 /ˈnʌmskʌl/
