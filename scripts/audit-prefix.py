@@ -67,6 +67,8 @@ EXPECT = {
     'o': ['oa','ob','oc','od','oe','of','og','oh','oi','oj','ok','ol','om','on','oo','op','or','os','ot','ou','ov','ow','ox','oy','oz'],
     # p 收完后登记（2026-10-14）：清单里 pb pc pd pf pg pj pk pm pn pp pq pv pw px pz 只有缩写或本来无词。
     'p': ['pa','pe','ph','pi','pl','po','pr','ps','pt','pu','py'],
+    # q 收完后登记（2026-10-15）：qa qt qv 等只有缩写，按收词边界剔除。
+    'q': ['qi','qu'],
 }
 
 KEY = sort_key   # 共用排序键，见 scripts/wordkey.py
