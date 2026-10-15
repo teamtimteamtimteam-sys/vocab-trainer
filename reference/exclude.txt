@@ -1476,3 +1476,4 @@ quahog       # 北美地区的蛤名，窄
 quila        # 清单伪影
 quim         # 粗俗俚语，不收
 quoll        # 澳洲动物名，窄
+qur-an       # 清单伪影（Qur'an 的撇号被换成连字符）；Koran 条已讲 Quran、Qur'an 两种拼法
