@@ -11037,6 +11037,9 @@ language engineering = 语言工程
 = 语言迁移解释了为什么说德语的人说英语时常把动词放在句尾。
 language transfer = 语言迁移
 母语的习惯被带进外语。
+⑭ The database uses a simple query language that most staff can learn in a day.
+= 那个数据库用的查询语言很简单，大多数员工一天就能学会。
+a query language = 查询语言
 
 languid
 /ˈlæŋɡwɪd/
@@ -26535,6 +26538,9 @@ the markup = 加价幅度
 ㊲ A full stop is the punctuation mark that ends a sentence.
 = 句号是结束一句话的标点符号。
 a punctuation mark = 标点符号
+㊳ There is a question mark over the future of the factory.
+= 那家工厂的前途是个问号。
+a question mark = 问号；疑问
 
 market
 /ˈmɑːkɪt/
@@ -27525,6 +27531,10 @@ a master race = （纳粹所谓的）优等种族
 ㉑ The old general was the puppet master who controlled the young king.
 = 那位老将军是操纵年轻国王的幕后人。
 a puppet master = 操纵木偶的人、幕后操纵者
+㉒ The question master on the radio quiz was a famous actor.
+= 那个电台问答节目的主持人是位著名演员。
+a question master = （英式）问答节目主持人
+美式说 quizmaster。
 
 mastermind
 /ˈmɑːstəmaɪnd/
