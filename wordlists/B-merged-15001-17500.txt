@@ -9291,6 +9291,9 @@ number crunching = 繁重的数字运算
 = 有理数可以写成一个整数除以另一个整数。
 a rational number = 有理数
 反过来是 irrational number（无理数）。
+㉚ Every point on the line stands for a real number.
+= 直线上的每一个点代表一个实数。
+a real number = 实数
 
 numbskull
 /ˈnʌmskʌl/
