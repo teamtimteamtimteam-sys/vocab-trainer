@@ -1,3 +1,26 @@
+raconteur
+/ˌrækɒnˈtɜː(r)/
+核心：健谈的人、会讲故事的人：讲趣事、讲故事讲得引人入胜的人。可数。
+① Her grandfather was a fine raconteur who kept the whole table laughing.
+= 她爷爷很会讲故事，逗得一桌人笑个不停。
+a fine raconteur = 很会讲故事的人
+a raconteur = 健谈的人
+② As a raconteur he had few equals, and his stories were famous in the club.
+= 论讲故事，他少有对手，他的故事在俱乐部里出了名。
+as a raconteur = 论讲故事
+是法语借词。
+
+racquet
+/ˈrækɪt/
+核心：（网球、羽毛球、壁球的）球拍。可数。也拼作 racket。
+① She bounced the ball on her racquet while she waited to serve.
+= 她一边等着发球，一边用球拍颠球。
+a racquet = 球拍
+a squash racquet = 壁球拍
+② He broke the strings of his badminton racquet in the first game.
+= 他第一局就把羽毛球拍的线打断了。
+a badminton racquet = 羽毛球拍
+
 racquetball
 /ˈrækɪtbɔːl/
 核心：（美式）短柄墙球：两到四个人在四面有墙的场地里用短柄球拍打一个空心橡皮球的运动。不可数。
@@ -344,28 +367,3 @@ radium = 镭
 ② The numbers on the old watch were painted with radium so that they glowed in the dark.
 = 那块老表上的数字涂了镭，在黑暗里会发光。
 be painted with radium = 涂了镭
-
-radius
-/ˈreɪdiəs/
-核心：三支，可数，复数 radii。一是半径：从圆心到圆周的直线长度；二是（以某处为中心的）半径范围：within a radius of；三是（解剖学）桡骨：前臂靠大拇指一侧的骨头。
-① The radius of the circle is five centimetres.
-= 那个圆的半径是五厘米。
-the radius of a circle = 圆的半径
-radii = 半径（复数形式）
-② The police searched every house within a radius of two miles.
-= 警察搜查了方圆两英里内的每一栋房子。
-within a radius of two miles = 方圆两英里内
-③ She broke her radius when she fell on her outstretched hand.
-= 她摔倒时伸手撑地，摔断了桡骨。
-the radius = 桡骨
-
-radon
-/ˈreɪdɒn/
-核心：氡：一种无色的放射性气体，会从某些岩石、土壤里渗出来，积在屋里对健康有害。不可数。
-① The council tested the houses in the village for radon.
-= 镇议会给村里的房子检测了氡。
-test for radon = 检测氡
-radon = 氡
-② High levels of radon gas can increase the risk of lung cancer.
-= 高浓度的氡气会增加患肺癌的风险。
-radon gas = 氡气
