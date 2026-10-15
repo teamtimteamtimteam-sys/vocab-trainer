@@ -377,3 +377,6 @@ quanta       quantum        # 复数
 racoon       raccoon        # 拼法变体
 radii        radius         # 复数
 raggamuffin  ragga          # 音乐类型名的全称；在 ragga 条配等式
+rapist       rape           # 并进 rape
+rani         raja           # 并进 raja
+ranee        raja           # 并进 raja
