@@ -374,3 +374,6 @@ pyro         pyromania      # 口语截短，指 pyromaniac；在 pyromania 条�
 quadrophonic quadraphonic   # 拼法变体
 quads        quad           # 复数
 quanta       quantum        # 复数
+racoon       raccoon        # 拼法变体
+radii        radius         # 复数
+raggamuffin  ragga          # 音乐类型名的全称；在 ragga 条配等式

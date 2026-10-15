@@ -1477,3 +1477,21 @@ quila        # 清单伪影
 quim         # 粗俗俚语，不收
 quoll        # 澳洲动物名，窄
 qur-an       # 清单伪影（Qur'an 的撇号被换成连字符）；Koran 条已讲 Quran、Qur'an 两种拼法
+rabi         # 印度英语（冬播作物季）
+raita        # 印度食物名
+ragi         # 印度谷物名
+rasam        # 印度食物名
+rangoli      # 印度民俗图案
+rakyat       # 马来语借词，窄
+rath         # 印度（战车、神车）
+rata         # 清单伪影（pro rata 的残片）
+raki         # 土耳其等地的烈酒名，窄
+radio-free-europe-radio-liberty      # 清单伪影（机构名）
+raster image processor      # 印刷技术窄术语
+rasterize    # 计算机图形窄术语
+racket abuse      # 网球规则窄术语
+racquet abuse     # 网球规则窄术语
+radiochemical      # 窄专业
+radiochemistry     # 窄专业
+radiometric        # 窄专业
+radiometrically    # 窄专业
