@@ -3291,6 +3291,10 @@ a multi-access system = 多用户同时使用的系统
 ⑩ The beach has public access by a footpath that runs down from the car park.
 = 那片海滩有公共通道：一条从停车场下去的小路。
 public access = 公众通行权、对公众开放
+⑪ Random access memory is lost when the computer is switched off.
+= 电脑一关机，随机存取存储器里的东西就没了。
+random access = （计算机）随机存取
+random-access memory = 随机存取存储器
 
 accessibility
 /ˌæksesɪˈbɪlɪti/
@@ -11097,6 +11101,9 @@ be up against = 面对（难处）
 ⑬ They worked against the clock and finished with four minutes to spare.
 = 他们争分夺秒地干，提前四分钟完工。
 against the clock = 争分夺秒
+⑭ The opposition parties ranged themselves against the government.
+= 各反对党联合起来反对政府。
+range yourself against somebody = 联合起来反对某人
 
 agape
 /əˈɡeɪp/
