@@ -73,6 +73,9 @@ actioner = 动作片（影评行话）
 = 警卫的长大衣底下揣着一支泵动式霰弹枪。
 pump-action = 泵动式的
 靠前后拉动护木上膛、压出液体的。
+㉑ The minister fought a rearguard action to save the old hospital.
+= 部长为保住那家老医院做了最后的抵抗。
+a rearguard action = 后卫战；（比喻）最后的抵抗
 
 actionable
 /ˈækʃənəbəl/
