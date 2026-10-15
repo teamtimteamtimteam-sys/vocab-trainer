@@ -12462,6 +12462,10 @@ a level crossing = 铁路平交道口（英式）
 ③ Use the pedestrian crossing forty metres up, not this corner.
 = 走上面四十米处的人行横道，别在这个路口穿。
 a pedestrian crossing = 人行横道
+④ The car stopped at the railroad crossing to let the train go by.
+= 那辆车在铁路道口停下，让火车先过。
+a railroad crossing = （美式）铁路道口
+英式说 level crossing。
 构词：cross 穿过 + -ing
 注意英美差别：英式的 level crossing 美式叫 grade crossing。
 
@@ -17124,6 +17128,9 @@ Dance-hall reggae came out of one street and went round the world.
 = 五月一日，村民们腿上系着铃铛，在酒馆外面跳莫里斯舞。
 a morris dance = 莫里斯舞
 英格兰的一种传统民间舞，由一队人挥着手帕或棍子跳。
+⑨ The villagers performed a rain dance in the hope of ending the drought.
+= 村民们跳了一场祈雨舞，盼着旱灾结束。
+a rain dance = 祈雨舞
 构词：古法语 dancier
 注意用法：名词动词同形，舞蹈这门艺术不可数。
 
@@ -18040,6 +18047,9 @@ date rape = 约会性侵（施暴者是认识的人）
 = 买牛奶前先看看盒子上的下架日期。
 a pull date = （美式）下架日期
 英式说 sell-by date。
+⑳ The concert is on Saturday, with Sunday as the rain date.
+= 音乐会定在星期六，星期天作为雨天延期日。
+a rain date = （美式）雨天延期日
 构词：日期义来自拉丁语 data「给定的日子」；果实义来自希腊语 daktylos 手指
 注意别混：
 date = 日期（哪一天）
