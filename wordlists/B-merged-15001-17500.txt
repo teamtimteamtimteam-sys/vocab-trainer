@@ -13794,6 +13794,10 @@ not only = 不但
 = 我愿意借钱给你，只是我自己也没有。
 only = 只是、不过
 这里是连词，口语用法。
+⑮ Read-only memory keeps its contents when the power is switched off.
+= 断电之后，只读存储器里的内容还在。
+read-only = 只读的
+read-only memory = 只读存储器
 
 onomatopoeia
 /ˌɒnəˌmætəˈpiːə/
