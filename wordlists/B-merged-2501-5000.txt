@@ -24433,6 +24433,9 @@ push-button = 按钮式的、按键式的
 ⑪ Choose one option by clicking the radio button beside it.
 = 点选项旁边的单选按钮，选一项。
 a radio button = 单选按钮
+⑫ If the machine stops working, press the reset button on the back.
+= 机器要是不动了，按后面的复位键。
+a reset button = 复位键
 构词：古法语 boton 芽、纽扣
 注意用法：两个习语都很高频。
 

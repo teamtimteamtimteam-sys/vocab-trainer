@@ -39989,6 +39989,10 @@ a policyholder = 投保人
 = 首都的决策者很少去受他们决定影响的那些村子。
 a policymaker = 决策者
 policymaking = 政策制定
+⑦ The university has a reservation policy that keeps places for students from poor areas.
+= 那所大学有一项保留名额政策，为贫困地区的学生预留名额。
+a reservation policy = 保留名额政策
+多指印度的配额制度。
 
 polio
 /ˈpəʊliəʊ/
