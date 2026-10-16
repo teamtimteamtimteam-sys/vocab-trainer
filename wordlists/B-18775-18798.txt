@@ -1,3 +1,20 @@
+reinforce
+/ˌriːɪnˈfɔːs/
+核心：及物。一是加强、强化（感情、观点、印象）：reinforce the view that；二是加固（建筑、结构）；三是增援、增派（军队、人员）。
+① The new evidence reinforces the view that the fire was started on purpose.
+= 新证据强化了火是有人故意放的这一看法。
+reinforce the view that… = 强化……的看法
+reinforce = 强化
+② The film reinforces old ideas about women and men.
+= 那部片子强化了关于男人和女人的老观念。
+reinforce ideas = 强化观念
+③ The engineers reinforced the old bridge with steel beams.
+= 工程师们用钢梁加固了那座旧桥。
+reinforce a bridge = 加固桥梁
+④ The general sent two more regiments to reinforce the troops at the front.
+= 将军又派了两个团去增援前线的部队。
+reinforce the troops = 增援部队
+
 reinforcement
 /ˌriːɪnˈfɔːsmənt/
 核心：可数也可不可数。一是加强、加固、强化：the reinforcement of；二是 reinforcements 是援军、增援部队，复数。
@@ -323,32 +340,3 @@ a close relation = 近亲
 ⑤ The firm has made a lot of money in relation to its size.
 = 就规模而言，那家公司赚了很多钱。
 in relation to something = 与某事相比、关于某事
-
-relational
-/rɪˈleɪʃənl/
-核心：（正式）关系的、相关的；（计算机）关系型的。
-① The book looks at the relational problems in large families.
-= 那本书探讨大家庭中的关系问题。
-relational problems = 关系问题
-relational = 关系的
-② She designs relational systems for storing large amounts of data.
-= 她设计用来储存大量数据的关系型系统。
-relational systems = 关系型系统
-
-relationship
-/rɪˈleɪʃnʃɪp/
-核心：可数。一是（人与人之间的）关系、交往：a relationship with、between；二是恋爱关系、婚恋关系：be in a relationship；
-三是（事物之间的）关系、关联：the relationship between A and B；四是亲属关系。
-① Even as a teenager she had a good relationship with her parents.
-= 她十几岁时跟父母的关系就很好。
-a relationship with somebody = 与某人的关系
-relationship = 人际关系
-② The relationship between the two leaders was never easy.
-= 两位领导人之间的关系从来就不融洽。
-the relationship between A and B = 甲乙之间的关系
-③ He has been in a relationship with a teacher from the next village for three years.
-= 他跟邻村的一位老师谈恋爱三年了。
-be in a relationship = 在谈恋爱
-④ There is a clear relationship between smoking and heart disease.
-= 吸烟和心脏病之间有明显的关联。
-a relationship between A and B = 甲乙之间的关联

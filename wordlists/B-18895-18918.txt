@@ -1,3 +1,87 @@
+rent
+/rent/
+核心：名词：租金、房租：pay the rent，可数也可不可数；（布、纸上的）裂口、破洞。动词：租用（房子、车）：rent something from somebody；出租：rent something to somebody、rent out。
+rend 的过去式、过去分词也是 rent。
+① The rent for the flat is six hundred pounds a month.
+= 那套公寓的租金是每月六百英镑。
+the rent for something = 某物的租金
+rent = 租金
+② They rent a small house near the beach every summer.
+= 他们每年夏天在海滩附近租一座小房子。
+rent a house = 租房子
+rent = 租
+③ We rented the flat from an old couple who had moved to Spain.
+= 我们从一对搬到西班牙去的老夫妇那里租了那套公寓。
+rent from somebody = 从某人处租入
+④ She rents rooms to students from the university.
+= 她把房间租给大学的学生。
+rent to somebody = 租给某人
+⑤ They rent out the cottage to tourists in the summer.
+= 他们夏天把那座小屋租给游客。
+rent out something = 出租某物
+⑥ There was a long rent in the sail after the storm.
+= 暴风雨过后，船帆上有一道长长的裂口。
+a rent = 裂口
+
+rental
+/ˈrentl/
+核心：可数也可不可数。一是租金、租费；二是出租、租赁：car rental；（美式）出租的东西（房子、车）。也作形容词：出租的、租赁的。
+① The monthly rental for the van is three hundred pounds.
+= 那辆货车每月租金三百英镑。
+the rental for something = 某物的租金
+rental = 租金
+② We picked up our rental car at the airport.
+= 我们在机场取了租来的车。
+a rental car = 租来的车
+car rental = 汽车租赁
+③ They stayed in a beach rental for the whole of August.
+= 他们整个八月都住在海边一处出租房里。
+a beach rental = 海边的出租房
+
+rented
+/ˈrentɪd/
+核心：租来的、租用的。只放在名词前。
+① They have lived in rented flats all their lives and never owned a house.
+= 他们一辈子住的都是租来的公寓，从没有过自己的房子。
+a rented flat = 租来的公寓
+rented = 租来的
+② More and more young people live in rented homes in the city.
+= 越来越多的年轻人在城里住租来的房子。
+rented homes = 租来的房子
+
+renter
+/ˈrentə(r)/
+核心：租户、承租人：租用房子、车等的人。可数。
+① Renters in the city are paying more than ever for small flats.
+= 城里的租户为小公寓付的租金比以往都高。
+renters = 租户
+a renter = 承租人
+② The new law gives renters more protection against high rents.
+= 新法律给租户提供了更多保护，防止租金过高。
+protection for renters = 对租户的保护
+
+rentier
+/ˈrɒntieɪ/
+核心：（正式）靠收租金、利息生活的人、食利者。可数。是法语借词。
+① He lived as a rentier on the income from his father's houses.
+= 他靠父亲那些房子的收入过着食利者的生活。
+live as a rentier = 过食利者的生活
+a rentier = 食利者
+② The book attacks the rentier class who do no work but grow rich.
+= 那本书抨击不干活却越来越富的食利阶层。
+the rentier class = 食利阶层
+
+reoccur
+/ˌriːəˈkɜː(r)/
+核心：再次发生、重新出现。不及物，过去式 reoccurred。比 recur 少用。
+① The doctor told her to come back at once if the pain reoccurred.
+= 医生告诉她，疼痛再出现的话就马上回来。
+the pain reoccurred = 疼痛再次出现
+reoccur = 再次发生
+② The firm took steps to make sure that the mistake would not reoccur.
+= 那家公司采取措施，确保那个错误不再发生。
+not reoccur = 不再发生
+
 reoffend
 /ˌriːəˈfend/
 核心：（出狱后）再次犯罪、重新犯罪。不及物。再犯的人叫 reoffender，可数。并入本条。
@@ -230,97 +314,3 @@ repeal = 废除
 ② The protesters called for the repeal of the law on public meetings.
 = 抗议者要求废除那项关于公众集会的法律。
 the repeal of a law = 法律的废除
-
-repeat
-/rɪˈpiːt/
-核心：动词：重复、重说、重做：repeat something、repeat yourself；（跟着）复述、跟读；（事情）再次发生、重演；（课程）重修、留级。
-名词，可数：重复、重演；（电视、广播的）重播节目：a repeat of。名词 repetition 是重复，见另条；副词 repeatedly 是反复地。
-① Could you repeat the question, please, because I did not hear it?
-= 请把问题再说一遍好吗？我没听见。
-repeat the question = 重复问题
-repeat = 重复
-② The teacher said each word slowly, and the children repeated it after her.
-= 老师慢慢说出每个词，孩子们跟着她念。
-repeat something after somebody = 跟着某人念
-③ The old man keeps repeating himself, telling the same stories every day.
-= 那个老人老是说车轱辘话，天天讲同样的故事。
-repeat yourself = 重复自己说过的话
-④ The police do not want the violence of last year to be repeated.
-= 警方不希望去年的暴力事件重演。
-be repeated = 重演
-⑤ We do not want a repeat of the trouble we had at the last match.
-= 我们不希望上一场比赛的麻烦再出现。
-a repeat of something = 某事的重演
-⑥ There is nothing on television tonight except repeats of old comedies.
-= 今晚电视上除了老喜剧的重播没什么可看的。
-repeats = 重播节目
-⑦ Learning a language takes a lot of repetition of the same words.
-= 学语言需要把同样的词反复说很多遍。
-repetition = 重复（名词）
-⑧ He was warned repeatedly about his behaviour but would not listen.
-= 他一再被警告注意行为，却就是不听。
-repeatedly = 反复地
-
-repeatable
-/rɪˈpiːtəbl/
-核心：可重复的、能再做一次的；（话）说得出口的、可以转述的：多用于否定。
-① A good experiment must be repeatable by other scientists.
-= 一个好的实验必须能让其他科学家重复得出结果。
-be repeatable = 可重复
-repeatable = 可重复的
-② What he said to the referee was not repeatable in front of the children.
-= 他对裁判说的话当着孩子们的面说不出口。
-not repeatable = 说不出口的
-
-repeated
-/rɪˈpiːtɪd/
-核心：反复的、多次的、一再的。只放在名词前。副词 repeatedly，并入本条。
-① In spite of repeated warnings, the children went on playing near the river.
-= 尽管一再受到警告，孩子们还是在河边玩。
-repeated warnings = 一再的警告
-repeated = 反复的
-② The firm has repeatedly failed to pay its workers on time.
-= 那家公司一再不能按时给工人发工资。
-repeatedly = 一再地
-
-repeater
-/rɪˈpiːtə(r)/
-核心：可数。一是连发枪、连发手枪；二是（信号的）中继器、转发器；三是（美式）留级生、重修生。
-① The cowboy in the film carried an old repeater rifle on his horse.
-= 片子里的牛仔马背上带着一支老式连发步枪。
-a repeater rifle = 连发步枪
-a repeater = 连发枪
-② The signal is sent across the hills by a chain of repeaters.
-= 信号通过一串中继器传过山区。
-a chain of repeaters = 一串中继器
-
-repel
-/rɪˈpel/
-核心：及物，过去式 repelled。一是击退、驱逐（进攻者）；二是驱除、防（虫、水）：repel insects；三是使厌恶、使反感；四是（物理）排斥（磁极）。反义 attract 是吸引。
-① The soldiers repelled the attack and held the bridge.
-= 士兵们击退了进攻，守住了桥。
-repel an attack = 击退进攻
-repel = 排斥
-② This spray will repel insects for up to eight hours.
-= 这种喷雾能驱虫长达八小时。
-repel insects = 驱虫
-③ She was repelled by the smell of the old meat in the fridge.
-= 冰箱里那块旧肉的气味让她作呕。
-be repelled by something = 对某物感到厌恶
-④ Two magnets repel each other if you put the same poles together, but opposite poles attract.
-= 两块磁铁同极相斥，异极相吸。
-attract = 吸引
-
-repellent
-/rɪˈpelənt/
-核心：名词，可数也可不可数：驱虫剂、防……剂：insect repellent。形容词：令人厌恶的、讨厌的；防……的、驱……的：water-repellent。
-① Take some insect repellent with you, for the mosquitoes are terrible in the evening.
-= 带点驱虫剂，傍晚蚊子很厉害。
-insect repellent = 驱虫剂
-repellent = 驱虫剂、令人厌恶的
-② She found his views on women quite repellent.
-= 她觉得他对女人的看法很令人厌恶。
-repellent = 令人厌恶的
-③ The jacket is made of a water-repellent cloth that keeps you dry in the rain.
-= 那件夹克用防水布做成，下雨也不会湿。
-water-repellent = 防水的

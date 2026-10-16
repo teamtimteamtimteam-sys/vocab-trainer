@@ -1,3 +1,67 @@
+removable
+/rɪˈmuːvəbl/
+核心：可移动的、可拆卸的、可去掉的。
+① The seats in the back of the car are removable, so you can carry large boxes.
+= 车后排座椅可以拆下来，能装大箱子。
+be removable = 可拆卸
+removable = 可拆卸的
+② The jacket has a removable lining that you can take out in the summer.
+= 那件外套的衬里可以拆，夏天能取出来。
+a removable lining = 可拆卸的衬里
+
+removal
+/rɪˈmuːvl/
+核心：可数也可不可数。一是移走、去除、拆除：the removal of；二是免职、撤职；三是（英式）搬家、迁居：removal van 是搬家车。
+① The removal of the old trees made the garden much brighter.
+= 移走那几棵老树之后，园子亮堂多了。
+the removal of something = 某物的移走
+removal = 去除
+② The workers called for the removal of the manager after the accident.
+= 那次事故之后，工人们要求撤掉经理。
+the removal of somebody = 撤去某人
+③ The removal van arrived at seven in the morning to take our furniture to the new house.
+= 搬家车早上七点到了，把我们的家具运到新房子去。
+a removal van = 搬家车
+
+remove
+/rɪˈmuːv/
+核心：及物。一是移走、拿走、搬开：remove something from；二是脱掉（衣服）、摘下；三是去掉、除掉、消除（污渍、怀疑、障碍）；四是（正式）免职、开除：remove somebody from office。
+① Please remove your shoes before you come into the house.
+= 进屋前请脱鞋。
+remove your shoes = 脱鞋
+remove = 移走、脱掉
+② The workers removed the old carpet from the floor of the bedroom.
+= 工人们把卧室地上的旧地毯拿走了。
+remove something from something = 把某物从某处拿走
+③ This powder will remove most stains from your clothes in one wash.
+= 这种洗衣粉洗一次就能去掉衣服上的大部分污渍。
+remove stains = 去污渍
+④ The judge was removed from office for taking money from a criminal.
+= 那个法官因收受罪犯钱财被免职了。
+be removed from office = 被免职
+
+removed
+/rɪˈmuːvd/
+核心：两支。一是 removed from 是远离的、与……大不相同的：far removed from；二是（表兄弟姐妹）隔……代的：a cousin once removed。
+① The life of the rich family was far removed from the lives of the people in the village.
+= 那家富人的生活跟村里人的生活相去甚远。
+far removed from something = 与某事相去甚远
+removed = 远离的
+② She is my cousin once removed, the daughter of my mother's cousin.
+= 她是我隔一代的表亲，是我母亲表姐的女儿。
+a cousin once removed = 隔一代的表亲
+
+remover
+/rɪˈmuːvə(r)/
+核心：可数也可不可数。一是去除剂、清除剂：nail polish remover、stain remover；二是（英式）搬家工人、搬运公司。
+① She used a little nail polish remover to clean the paint off the window.
+= 她用一点洗甲水把窗户上的油漆擦掉了。
+nail polish remover = 洗甲水
+a remover = 去除剂
+② The removers carried the piano carefully down the narrow stairs.
+= 搬家工人小心地把钢琴从窄楼梯上抬了下来。
+the removers = 搬家工人
+
 remunerate
 /rɪˈmjuːnəreɪt/
 核心：（正式）给……报酬、酬劳：remunerate somebody for。及物，多用被动。
@@ -258,87 +322,3 @@ renowned = 著名的
 ③ He was renowned as one of the finest surgeons in Europe.
 = 他是公认的欧洲最好的外科医生之一。
 be renowned as something = 作为某种人而闻名
-
-rent
-/rent/
-核心：名词：租金、房租：pay the rent，可数也可不可数；（布、纸上的）裂口、破洞。动词：租用（房子、车）：rent something from somebody；出租：rent something to somebody、rent out。
-rend 的过去式、过去分词也是 rent。
-① The rent for the flat is six hundred pounds a month.
-= 那套公寓的租金是每月六百英镑。
-the rent for something = 某物的租金
-rent = 租金
-② They rent a small house near the beach every summer.
-= 他们每年夏天在海滩附近租一座小房子。
-rent a house = 租房子
-rent = 租
-③ We rented the flat from an old couple who had moved to Spain.
-= 我们从一对搬到西班牙去的老夫妇那里租了那套公寓。
-rent from somebody = 从某人处租入
-④ She rents rooms to students from the university.
-= 她把房间租给大学的学生。
-rent to somebody = 租给某人
-⑤ They rent out the cottage to tourists in the summer.
-= 他们夏天把那座小屋租给游客。
-rent out something = 出租某物
-⑥ There was a long rent in the sail after the storm.
-= 暴风雨过后，船帆上有一道长长的裂口。
-a rent = 裂口
-
-rental
-/ˈrentl/
-核心：可数也可不可数。一是租金、租费；二是出租、租赁：car rental；（美式）出租的东西（房子、车）。也作形容词：出租的、租赁的。
-① The monthly rental for the van is three hundred pounds.
-= 那辆货车每月租金三百英镑。
-the rental for something = 某物的租金
-rental = 租金
-② We picked up our rental car at the airport.
-= 我们在机场取了租来的车。
-a rental car = 租来的车
-car rental = 汽车租赁
-③ They stayed in a beach rental for the whole of August.
-= 他们整个八月都住在海边一处出租房里。
-a beach rental = 海边的出租房
-
-rented
-/ˈrentɪd/
-核心：租来的、租用的。只放在名词前。
-① They have lived in rented flats all their lives and never owned a house.
-= 他们一辈子住的都是租来的公寓，从没有过自己的房子。
-a rented flat = 租来的公寓
-rented = 租来的
-② More and more young people live in rented homes in the city.
-= 越来越多的年轻人在城里住租来的房子。
-rented homes = 租来的房子
-
-renter
-/ˈrentə(r)/
-核心：租户、承租人：租用房子、车等的人。可数。
-① Renters in the city are paying more than ever for small flats.
-= 城里的租户为小公寓付的租金比以往都高。
-renters = 租户
-a renter = 承租人
-② The new law gives renters more protection against high rents.
-= 新法律给租户提供了更多保护，防止租金过高。
-protection for renters = 对租户的保护
-
-rentier
-/ˈrɒntieɪ/
-核心：（正式）靠收租金、利息生活的人、食利者。可数。是法语借词。
-① He lived as a rentier on the income from his father's houses.
-= 他靠父亲那些房子的收入过着食利者的生活。
-live as a rentier = 过食利者的生活
-a rentier = 食利者
-② The book attacks the rentier class who do no work but grow rich.
-= 那本书抨击不干活却越来越富的食利阶层。
-the rentier class = 食利阶层
-
-reoccur
-/ˌriːəˈkɜː(r)/
-核心：再次发生、重新出现。不及物，过去式 reoccurred。比 recur 少用。
-① The doctor told her to come back at once if the pain reoccurred.
-= 医生告诉她，疼痛再出现的话就马上回来。
-the pain reoccurred = 疼痛再次出现
-reoccur = 再次发生
-② The firm took steps to make sure that the mistake would not reoccur.
-= 那家公司采取措施，确保那个错误不再发生。
-not reoccur = 不再发生
