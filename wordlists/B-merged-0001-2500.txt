@@ -3295,6 +3295,9 @@ public access = 公众通行权、对公众开放
 = 电脑一关机，随机存取存储器里的东西就没了。
 random access = （计算机）随机存取
 random-access memory = 随机存取存储器
+⑫ Staff can use remote access to read their emails when they are away from the office.
+= 员工不在办公室时可以用远程访问看邮件。
+remote access = 远程访问
 
 accessibility
 /ˌæksesɪˈbɪlɪti/
