@@ -36475,6 +36475,9 @@ a place kick = 定位球
 ㊴ The board was packed with placemen who never questioned the chairman.
 = 董事会里塞满了靠关系进来的人，从不质疑主席。
 a placeman = 靠关系安插的人
+㊵ The old church is the last resting place of the king.
+= 那座老教堂是国王最后的安息之地。
+a resting place = 安息处、坟墓
 
 placebo
 /pləˈsiːbəʊ/
