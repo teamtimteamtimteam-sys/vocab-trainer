@@ -1,14 +1,3 @@
-respiration
-/ˌrespəˈreɪʃn/
-核心：（正式）呼吸、呼吸作用：吸进氧气、呼出二氧化碳的过程。不可数。
-① The doctor checked the patient's pulse and respiration every hour.
-= 医生每小时检查一次病人的脉搏和呼吸。
-pulse and respiration = 脉搏和呼吸
-respiration = 呼吸
-② Plants use respiration to turn sugar into energy.
-= 植物通过呼吸作用把糖转化为能量。
-use respiration = 通过呼吸作用
-
 respirator
 /ˈrespəreɪtə(r)/
 核心：可数。一是人工呼吸器、呼吸机：帮病人呼吸的机器：on a respirator；二是防毒面具、口罩：防止吸入烟尘、毒气。
@@ -345,3 +334,28 @@ restock = 重新进货
 ② The river was restocked with young fish after the pollution was cleared.
 = 污染清除之后，那条河里重新放养了小鱼。
 be restocked with something = 重新放养某物
+
+restoration
+/ˌrestəˈreɪʃn/
+核心：可数也可不可数。一是修复、整修：the restoration of；二是恢复、复原：the restoration of peace；三是归还；四是 the Restoration：（英国）王政复辟（一六六〇年）。
+① The restoration of the old church took ten years.
+= 那座老教堂的修复花了十年。
+the restoration of something = 某物的修复
+restoration = 修复
+② The people want the restoration of peace and order to the country.
+= 人民希望国家恢复和平与秩序。
+the restoration of peace = 恢复和平
+③ The play was written during the Restoration.
+= 那出戏写于王政复辟时期。
+the Restoration = 王政复辟
+
+restorative
+/rɪˈstɒrətɪv/
+核心：形容词：（正式）恢复健康的、滋补的、有助于恢复体力的。名词，可数：补药、滋补品。
+① A week by the sea had a restorative effect on her health.
+= 在海边待了一个星期，她的身体恢复了不少。
+a restorative effect = 恢复作用
+restorative = 恢复健康的
+② He took a glass of brandy as a restorative after the cold walk.
+= 走了那段寒冷的路之后，他喝了一杯白兰地提提神。
+a restorative = 补药

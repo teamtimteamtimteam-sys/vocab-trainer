@@ -283,6 +283,9 @@ house = 房子（一栋建筑）
 = 那个老太太不能独居之后，住进了养老院。
 a rest home = 养老院
 也说 retirement home。
+㊺ After his wife died he moved into a retirement home by the sea.
+= 妻子死后，他住进了海边的一家养老院。
+a retirement home = 养老院
 
 homebody
 /ˈhəʊmbɒdi/

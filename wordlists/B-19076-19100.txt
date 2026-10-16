@@ -1,28 +1,3 @@
-restoration
-/ˌrestəˈreɪʃn/
-核心：可数也可不可数。一是修复、整修：the restoration of；二是恢复、复原：the restoration of peace；三是归还；四是 the Restoration：（英国）王政复辟（一六六〇年）。
-① The restoration of the old church took ten years.
-= 那座老教堂的修复花了十年。
-the restoration of something = 某物的修复
-restoration = 修复
-② The people want the restoration of peace and order to the country.
-= 人民希望国家恢复和平与秩序。
-the restoration of peace = 恢复和平
-③ The play was written during the Restoration.
-= 那出戏写于王政复辟时期。
-the Restoration = 王政复辟
-
-restorative
-/rɪˈstɒrətɪv/
-核心：形容词：（正式）恢复健康的、滋补的、有助于恢复体力的。名词，可数：补药、滋补品。
-① A week by the sea had a restorative effect on her health.
-= 在海边待了一个星期，她的身体恢复了不少。
-a restorative effect = 恢复作用
-restorative = 恢复健康的
-② He took a glass of brandy as a restorative after the cold walk.
-= 走了那段寒冷的路之后，他喝了一杯白兰地提提神。
-a restorative = 补药
-
 restore
 /rɪˈstɔː(r)/
 核心：及物。一是修复、整修（旧建筑、画作）使恢复原样；二是恢复、使复原（秩序、健康、信心）：restore order；三是（正式）归还（失物）：restore something to somebody；四是使复位、使恢复（原职）。
@@ -343,3 +318,62 @@ resuscitate a business = 使公司重振
 ③ The nurses are trained in resuscitation and first aid.
 = 护士们接受过心肺复苏和急救的培训。
 resuscitation = 复苏、抢救
+
+retail
+/ˈriːteɪl/
+核心：名词：零售，不可数。动词：零售、以……价格零售：retail at、for。形容词、副词：零售的、以零售方式。
+零售商叫 retailer，可数；零售业叫 retailing，不可数。并入本条。
+① She has worked in retail for twenty years, first in a shoe shop and then in a bookshop.
+= 她在零售业干了二十年，先在鞋店，后来在书店。
+work in retail = 在零售业工作
+retail = 零售
+② The new phone will retail at about five hundred pounds.
+= 那款新手机零售价约五百英镑。
+retail at something = 以某价格零售
+③ Most people buy their food from large retail chains.
+= 大多数人从大型零售连锁店买食品。
+a retail chain = 零售连锁店
+④ The retailer had to lower its prices because sales were so poor.
+= 销量太差，那家零售商只好降价。
+a retailer = 零售商
+⑤ Retailing has changed since people began to shop online.
+= 自从人们开始网购，零售业就变了。
+retailing = 零售业
+
+retain
+/rɪˈteɪn/
+核心：及物。一是（正式）保留、保持、保住：retain control、retain your title；二是记住；三是（容器、土壤）保持（水、热量）；四是聘请（律师）。
+名词 retention 是保留、保持，见另条。分词 retaining 作形容词：用于支撑的：a retaining wall。并入本条。
+① The champion retained her title by winning the final in two sets.
+= 那位冠军以两盘取胜赢得决赛，卫冕成功。
+retain your title = 卫冕
+retain = 保留
+② Old people often retain clear memories of their childhood.
+= 老人往往对童年还记得很清楚。
+retain memories = 记住往事
+③ The thick walls of the cottage retain the heat in winter.
+= 小屋的厚墙冬天能保暖。
+retain the heat = 保持热量
+④ The firm retains a lawyer to deal with its contracts.
+= 那家公司聘了一位律师处理合同。
+retain a lawyer = 聘请律师
+⑤ Schools that retain good teachers do better, so the retention of staff matters a great deal.
+= 能留住好老师的学校办得更好，所以留住员工非常重要。
+retention = 保留
+⑥ A low retaining wall holds back the earth at the bottom of the garden.
+= 园子尽头一道矮挡土墙挡住了泥土。
+a retaining wall = 挡土墙
+
+retainer
+/rɪˈteɪnə(r)/
+核心：可数。一是（付给律师、顾问的）定金、聘用费：on a retainer；二是（旧式）家臣、仆人；三是（牙齿的）保持器。
+① The firm pays the lawyer a monthly retainer so that she is always available.
+= 那家公司每月付给律师一笔聘用费，让她随叫随到。
+a monthly retainer = 每月的聘用费
+a retainer = 聘用费
+② The old lord was followed by a crowd of loyal retainers.
+= 那位老勋爵后面跟着一群忠心的家仆。
+loyal retainers = 忠心的家仆
+③ After her braces came off, she had to wear a retainer at night.
+= 牙套摘掉之后，她晚上得戴保持器。
+wear a retainer = 戴保持器
