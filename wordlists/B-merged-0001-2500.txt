@@ -15372,6 +15372,9 @@ alienate = 使疏远
 ④ The right is not alienable and cannot be signed away in any contract.
 = 这项权利不可转让，任何合同都签不掉。
 alienable = 可转让的（法律，多用于否定）
+⑤ As a resident alien she can live and work in the country but cannot vote.
+= 作为外籍居民，她能在那个国家生活工作，但不能投票。
+a resident alien = （美国）外籍居民
 
 alienate
 /ˈeɪliəneɪt/
@@ -32469,6 +32472,9 @@ associate = 联系；同事
 ⑤ Associationism explains learning by linked ideas and fell out of favour a century ago.
 = 联想主义用观念的连结来解释学习，一百年前就不吃香了。
 associationism = 联想主义（心理学与哲学学说）
+⑥ The residents' association has asked the council to put in speed bumps.
+= 居民协会要求镇议会装减速带。
+a residents' association = 居民协会
 
 assonance
 /ˈæsənəns/
