@@ -1,3 +1,114 @@
+recursion
+/rɪˈkɜːʃn/
+核心：（数学、计算机）递归：一个过程、函数在其中调用自身。不可数。形容词 recursive 是递归的。并入本条。
+① The program uses recursion to search through the folders inside folders.
+= 那个程序用递归来搜索文件夹里套着的文件夹。
+use recursion = 用递归
+recursion = 递归
+② A recursive function is one that calls itself until a simple case is reached.
+= 递归函数会不断调用自身，直到遇到一个简单的情形。
+a recursive function = 递归函数
+recursive = 递归的
+
+recuse
+/rɪˈkjuːz/
+核心：（法律，尤其美式）recuse yourself 是（法官、官员因有利害关系而）回避、不参与审理或决定。
+① The judge recused himself from the case because he knew one of the lawyers.
+= 那位法官认识其中一位律师，便回避了那个案子。
+recuse yourself from something = 回避某事
+recuse = 回避
+② Two members of the committee recused themselves from the vote on the contract.
+= 委员会的两名成员回避了对那份合同的表决。
+recuse themselves from the vote = 回避表决
+
+recyclable
+/riːˈsaɪkləbl/
+核心：形容词：可回收的、可再利用的。名词 recyclables 是可回收物，复数。
+① Most of the packaging is made of recyclable plastic.
+= 大部分包装是用可回收塑料做的。
+recyclable plastic = 可回收塑料
+recyclable = 可回收的
+② Put the recyclables in the green box outside the back door.
+= 把可回收物放进后门外的绿箱子里。
+recyclables = 可回收物
+
+recycle
+/ˌriːˈsaɪkl/
+核心：两支，及物。一是回收利用、再循环（废纸、玻璃、塑料等）；二是（贬义）重复使用、翻炒（旧想法、旧材料）。名词 recycling 是回收利用，不可数，也指可回收的废品。并入本条。
+① In our street we recycle all our bottles, tins and newspapers every week.
+= 我们这条街每周都把瓶子、罐头和报纸全部回收利用。
+recycle bottles = 回收瓶子
+recycle = 回收利用
+② The paper in this book has been recycled from old magazines.
+= 这本书用的纸是用旧杂志回收制成的。
+be recycled from something = 由某物回收制成
+③ The new film simply recycles old jokes from television shows of the nineteen eighties.
+= 那部新片不过是把一九八〇年代电视节目里的老笑话翻炒了一遍。
+recycle old jokes = 翻炒老笑话
+④ The council collects the recycling from every house in the village every Tuesday morning.
+= 镇议会每星期二上午到村里每户人家收可回收垃圾。
+the recycling = 可回收垃圾
+recycling = 回收利用
+
+red
+/red/
+核心：形容词，比较级 redder：红色的；（脸）红的、涨红的：go red；（头发）红褐色的；（口语，旧式，常含贬义）左派的、共产主义的。
+名词：红色，可数也可不可数；红葡萄酒，不可数；（口语，贬义）左派分子，可数。
+习语：in the red 是赤字、亏损、欠款；see red 是（口语）大怒；be caught red-handed 是被当场抓住；paint the town red 是（口语）外出狂欢；
+red tape 是繁文缛节、官僚作风；a red herring 是转移注意力的东西、障眼法；roll out the red carpet 是隆重欢迎。
+复合词：red-blooded 是精力旺盛的、有男子气概的；red-faced 是（因窘迫、生气）脸涨红的；red-headed 是红头发的；red-top 是（英式）通俗小报；red wine 是红葡萄酒；red zone 是危险区、禁区。
+① She wore a bright red dress to the party.
+= 她穿了一条鲜红的裙子去参加派对。
+a red dress = 红裙子
+red = 红色的
+② He went red when the teacher read out his poem.
+= 老师念出他写的诗时，他脸红了。
+go red = 脸红
+③ The baby has red hair like her grandmother.
+= 那个婴儿跟她奶奶一样长着红头发。
+red hair = 红褐色头发
+④ Would you like red or white with your dinner?
+= 晚饭你想配红葡萄酒还是白葡萄酒？
+red = 红葡萄酒
+red wine = 红葡萄酒
+⑤ The firm has been in the red for three years.
+= 那家公司已经亏损三年了。
+in the red = 赤字、亏损
+⑥ When he saw the scratch on his new car, he saw red.
+= 看见新车上的划痕，他勃然大怒。
+see red = 大怒
+⑦ The thief was caught red-handed with the jewels in his pocket.
+= 那个窃贼被当场抓住，口袋里还装着珠宝。
+be caught red-handed = 被当场抓住
+red-handed = 当场
+⑧ After the exams the students went out to paint the town red.
+= 考完试，学生们出去狂欢了。
+paint the town red = 外出狂欢
+⑨ It took six months of red tape to get permission to build the garage.
+= 申请盖车库的许可，光繁琐手续就花了半年。
+red tape = 繁文缛节
+⑩ The clue about the missing letter turned out to be a red herring.
+= 关于那封丢失的信的线索，后来证明是个障眼法。
+a red herring = 转移注意力的东西
+⑪ The village rolled out the red carpet for the visiting queen.
+= 全村人隆重欢迎来访的女王。
+roll out the red carpet = 隆重欢迎
+⑫ The red-faced minister had to admit that he had made a mistake.
+= 那位部长满脸通红，只好承认自己犯了错。
+red-faced = 脸涨红的
+⑬ The story was on the front page of every red-top in the country.
+= 那件事上了全国每一份通俗小报的头版。
+a red-top = （英式）通俗小报
+⑭ The area around the volcano has been declared a red zone.
+= 火山周围被划为危险区。
+a red zone = 危险区
+⑮ He was a red-blooded young man who loved fast cars and football.
+= 他是个血气方刚的年轻人，爱快车，爱足球。
+red-blooded = 血气方刚的
+⑯ A red-headed boy sat at the back of the class.
+= 一个红头发的男孩坐在教室后排。
+red-headed = 红头发的
+
 redact
 /rɪˈdækt/
 核心：（正式）编辑、删改（文件）：尤指公开之前把机密、敏感的部分涂掉。及物。名词 redaction，可数也可不可数。并入本条。
@@ -252,71 +363,3 @@ redness = 发红
 ② The redness of his eyes showed that he had been crying.
 = 他眼睛发红，看得出他哭过。
 the redness of something = 某物的发红
-
-redo
-/ˌriːˈduː/
-核心：重做、重新装修。及物，过去式 redid，过去分词 redone。
-① The teacher made me redo my homework because it was so untidy.
-= 我的作业太乱，老师让我重做。
-redo your homework = 重做作业
-redo = 重做
-② They are redoing the kitchen and will eat out for a month.
-= 他们在重新装修厨房，要在外面吃一个月饭。
-redo the kitchen = 重新装修厨房
-
-redolent
-/ˈredələnt/
-核心：（正式）一是 redolent of、with 是使人想起……的、带有……的气息；二是有……气味的、散发着……香味的。名词 redolence，不可数。并入本条。
-① The old house is redolent of the past, with its dark rooms and heavy furniture.
-= 那座老房子房间幽暗、家具笨重，让人想起过去。
-redolent of something = 使人想起某事
-redolent = 带有……气息的
-② The kitchen was redolent with the smell of fresh bread.
-= 厨房里散发着新鲜面包的香味。
-redolent with the smell of something = 散发着某物的香味
-③ The redolence of the pine woods filled the evening air.
-= 松林的香气弥漫在傍晚的空气里。
-redolence = 香气
-
-redouble
-/riːˈdʌbl/
-核心：加倍、进一步加强（努力）：redouble your efforts。及物。
-① The police have redoubled their efforts to find the missing girl.
-= 警方加大了寻找那个失踪女孩的力度。
-redouble your efforts = 加倍努力
-redouble = 加倍
-② After losing the first game, the team redoubled its attack in the second half.
-= 输了第一局之后，那支球队下半场加强了进攻。
-redouble an attack = 加强进攻
-
-redoubt
-/rɪˈdaʊt/
-核心：（军事）防御工事、堡垒；（比喻）最后的据点、堡垒：思想、生活方式还保存着的地方。可数。
-① The soldiers held the redoubt on the hill for three days.
-= 士兵们守住山上的堡垒三天。
-a redoubt = 堡垒
-② The village is one of the last redoubts of the old language.
-= 那个村子是那种古老语言最后的据点之一。
-one of the last redoubts = 最后的据点之一
-
-redoubtable
-/rɪˈdaʊtəbl/
-核心：（正式）可敬畏的、令人敬畏的、厉害的：因能力强、性格硬而让人敬佩又有点怕。
-① The school was run by a redoubtable headmistress who knew every pupil by name.
-= 那所学校由一位令人敬畏的女校长掌管，她叫得出每个学生的名字。
-a redoubtable headmistress = 令人敬畏的女校长
-redoubtable = 令人敬畏的
-② The team faces a redoubtable opponent in the final.
-= 那支球队在决赛中遇上了一个难缠的对手。
-a redoubtable opponent = 难缠的对手
-
-redound
-/rɪˈdaʊnd/
-核心：（正式）redound to 是增进、有助于（名誉、利益）：redound to somebody's credit 是为某人增光。
-① His honesty in the affair redounds to his credit.
-= 他在那件事上的诚实为他增了光。
-redound to somebody's credit = 为某人增光
-redound to = 增进、有助于
-② The new policy will redound to the benefit of small farmers.
-= 新政策会有利于小农。
-redound to the benefit of somebody = 有利于某人

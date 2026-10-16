@@ -1,3 +1,13 @@
+rebus
+/ˈriːbəs/
+核心：画谜：用图画、符号、字母拼出一个词或一句话的字谜。可数。
+① The children worked out the rebus: a picture of an eye, a heart and a sheep meant "I love you".
+= 孩子们猜出了那个画谜：一只眼睛、一颗心和一只母羊，意思是「我爱你」。
+a rebus = 画谜
+② The puzzle page in the newspaper has a rebus every Saturday.
+= 报纸的谜语版每个星期六都有一道画谜。
+a rebus every Saturday = 每星期六一道画谜
+
 rebut
 /rɪˈbʌt/
 核心：（正式）反驳、驳斥：证明（指控、说法）不对。及物，过去式 rebutted。名词 rebuttal，可数也可不可数。并入本条。
@@ -377,30 +387,3 @@ during the recession = 经济衰退期间
 = 那家银行警告说，加税会产生导致衰退的效果。
 a recessionary effect = 导致衰退的效果
 recessionary = 衰退的
-
-recessive
-/rɪˈsesɪv/
-核心：（生物）（基因）隐性的：只有从父母双方都遗传到才会表现出来的。对着说的是 dominant。
-① Blue eyes are caused by a recessive gene.
-= 蓝眼睛是由一个隐性基因造成的。
-a recessive gene = 隐性基因
-recessive = 隐性的
-② The disease is passed on through a recessive gene that both parents must carry.
-= 那种病通过一个隐性基因遗传，父母双方都得携带。
-passed on through a recessive gene = 通过隐性基因遗传
-
-recharge
-/ˌriːˈtʃɑːdʒ/
-核心：两支。一是给（电池、设备）充电，及物也可不及物；二是 recharge your batteries 是（口语）休息一下、恢复精力。
-形容词 rechargeable 是可充电的。并入本条。
-① Remember to recharge your phone before the long journey.
-= 长途旅行之前记得给手机充电。
-recharge your phone = 给手机充电
-recharge = 充电
-② After a hard year at work, she went to the coast to recharge her batteries.
-= 辛苦工作了一年，她去海边休整，恢复精力。
-recharge your batteries = 恢复精力
-③ The torch uses rechargeable batteries that last for years.
-= 那支手电用的是能用好多年的充电电池。
-rechargeable batteries = 充电电池
-rechargeable = 可充电的

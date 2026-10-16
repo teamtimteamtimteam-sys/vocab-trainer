@@ -1,3 +1,45 @@
+recoil
+/rɪˈkɔɪl/（动）/ˈriːkɔɪl/（名）
+核心：动词：（因害怕、厌恶）退缩、往后缩：recoil from、at；（对想法）畏缩、讨厌；（枪炮）向后坐。名词：（枪炮的）后坐力，不可数也可单数。
+① She recoiled in horror when she saw the snake lying across the garden path.
+= 看见那条蛇横在园中小路上，她吓得往后一缩。
+recoil in horror = 吓得往后缩
+recoil = 退缩
+② He recoiled from the idea of asking his rich father for money to pay his debts.
+= 一想到要向有钱的父亲要钱还债，他就退缩了。
+recoil from something = 对某事退缩
+③ The recoil of the old rifle bruised his shoulder.
+= 那支旧步枪的后坐力把他的肩膀撞青了。
+the recoil of a gun = 枪的后坐力
+
+recollect
+/ˌrekəˈlekt/
+核心：（正式）回忆起、想起：recollect that、recollect doing。及物也可不及物。名词 recollection 是回忆、记忆，可数也可不可数：have no recollection of。并入本条。
+① I do not recollect seeing your brother at the party in the garden that night.
+= 我不记得那天晚上在园子里的派对上见过你哥哥。
+recollect doing something = 记得做过某事
+recollect = 回忆起
+② As far as I can recollect, the meeting with the bank manager was on a Tuesday in March.
+= 据我回忆，跟银行经理的那次会面是在三月的一个星期二。
+as far as I can recollect = 据我回忆
+③ The driver has no recollection of what happened after the car left the road.
+= 车冲出公路之后发生了什么，司机一点都记不得了。
+have no recollection of something = 记不得某事
+④ My grandmother has happy recollections of her childhood in a fishing village by the sea.
+= 我奶奶对她在海边渔村度过的童年有着快乐的回忆。
+recollections of something = 对某事的回忆
+
+recommence
+/ˌriːkəˈmens/
+核心：（正式）重新开始、恢复。及物也可不及物。
+① Work on the bridge will recommence in the spring.
+= 那座桥的工程将在春天恢复。
+work recommences = 工程恢复
+recommence = 重新开始
+② The two sides agreed to recommence talks after the holiday.
+= 双方同意假期后重新开始谈判。
+recommence talks = 重新开始谈判
+
 recommend
 /ˌrekəˈmend/
 核心：及物。一是推荐、举荐：recommend somebody for、as、recommend something to somebody；二是建议、劝告：recommend that、recommend doing；
@@ -337,63 +379,3 @@ recount stories = 讲故事
 ③ The losing candidate demanded a recount of the votes.
 = 落选的候选人要求重新计票。
 a recount = 重新计票
-
-recoup
-/rɪˈkuːp/
-核心：收回、补偿（损失、花掉的钱）：recoup the cost、recoup losses。及物。
-① It took the firm three years to recoup the cost of the new machines.
-= 那家公司花了三年才收回新机器的成本。
-recoup the cost = 收回成本
-recoup = 收回
-② The gambler went on playing in the hope of recouping his losses.
-= 那个赌徒继续玩下去，希望把输的钱捞回来。
-recoup your losses = 捞回损失
-
-recourse
-/rɪˈkɔːs/
-核心：（正式）求助、依靠：遇到困难时可以借助的办法、人。不可数。常说 have recourse to、without recourse to。
-① The patients had no recourse to doctors in the remote villages.
-= 偏远村子里的病人找不到医生求助。
-have recourse to something = 求助于某事
-recourse = 求助
-② The two sides settled the dispute without recourse to the courts.
-= 双方没有诉诸法院就解决了纠纷。
-without recourse to something = 不求助于某事
-
-recover
-/rɪˈkʌvə(r)/
-核心：动词。一是（病后、伤后）恢复健康、痊愈：recover from；二是（从打击、困境中）恢复、复原；（经济、价格）回升；
-三是找回、寻回（丢失、被偷的东西）；四是收回、挽回（钱、损失）：recover losses、recover the cost；五是恢复（知觉、能力）：recover consciousness、recover your balance。
-① It took her six weeks to recover from the operation.
-= 她花了六个星期才从手术中恢复过来。
-recover from something = 从某事中恢复
-recover from = 从…中恢复
-② The town has never really recovered from the closing of the mine.
-= 自从矿关了以后，那个镇一直没真正缓过来。
-recover from a blow = 从打击中恢复
-③ The economy began to recover slowly in the second half of the year.
-= 下半年经济开始缓慢回升。
-the economy recovers = 经济回升
-④ The police recovered the stolen paintings from a house in the country.
-= 警方在乡下一栋房子里找回了被盗的画。
-recover stolen goods = 找回失窃物品
-recover = 找回
-⑤ The firm hopes to recover its losses by selling the old factory.
-= 那家公司希望卖掉老厂房来挽回损失。
-recover losses = 挽回损失
-recover the cost = 收回成本
-⑥ He recovered consciousness two days after the accident.
-= 事故两天后他恢复了知觉。
-recover consciousness = 恢复知觉
-recover your balance = 恢复平衡
-
-recoverable
-/rɪˈkʌvərəbl/
-核心：能找回的、能收回的、能恢复的：多说钱、数据、资源。
-① The money he lent to the firm is not recoverable now that it has closed.
-= 那家公司关了门，他借给它的钱收不回来了。
-not recoverable = 收不回来的
-recoverable = 能收回的
-② The files on the damaged disc are still recoverable by an expert.
-= 那张受损光盘上的文件，行家还是能恢复的。
-recoverable by somebody = 某人能恢复的

@@ -10858,6 +10858,9 @@ The cookery book falls open at the same four pages.
 = 建议您提前订座，八月里那趟车总是很挤。
 pre-book = 提前预订
 pre-book seats = 提前订座
+㉟ A dictionary is a reference book, not a book to read from beginning to end.
+= 词典是工具书，不是从头读到尾的书。
+a reference book = 工具书、参考书
 构词：古英语 boc
 词族：
 booking = 预订
