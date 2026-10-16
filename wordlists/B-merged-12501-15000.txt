@@ -23644,6 +23644,10 @@ a mail drop = （美）收信处
 = 收发室发现邮件炸弹后，那间办公室关闭了。
 a mail bomb = 邮件炸弹
 另有同形词 mail：铠甲（chain mail 锁子甲）。
+㉒ Send the documents by registered mail so that they cannot be lost.
+= 那些文件要用挂号信寄，免得丢了。
+registered mail = 挂号信
+英式多说 registered post。
 
 maim
 /meɪm/
@@ -29986,6 +29990,9 @@ the Member for an area = 某选区的议员
 = 那家博物馆星期天对公众免费开放。
 members of the public = 公众
 正式场合指普通人。
+⑤ Each regional member of the council speaks for a different part of the country.
+= 议会的每位地区议员代表国家的一个不同地区。
+a regional member = 地区议员
 
 membership
 /ˈmembəʃɪp/
