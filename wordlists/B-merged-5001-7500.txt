@@ -20075,6 +20075,10 @@ decimalization = 十进制化
 = 那个量具只精确到小数点后一位，所以最后一位数字没有意义。
 one decimal place = 小数点后一位
 说精度用 accurate to … decimal place(s)，是实验与工程报告里的固定说法。
+⑥ One third written as a decimal is a recurring decimal, nought point three three three.
+= 三分之一写成小数就是一个循环小数：零点三三三……
+a recurring decimal = 循环小数
+美式说 repeating decimal。
 构词：拉丁语 decimus 第十
 注意用法：英式用句点作小数点、逗号作千位分隔；有些国家正好相反。
 
