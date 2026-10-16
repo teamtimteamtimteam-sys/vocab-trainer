@@ -33820,6 +33820,9 @@ atomic theory = 原子学说
 ⑧ Atomicity means an operation cannot be split, however the machine fails.
 = 原子性意味着操作不可分割，不管机器怎么出故障。
 atomicity = 原子性（也指化学的原子价）
+⑨ The relative atomic mass of carbon is twelve.
+= 碳的相对原子质量是十二。
+relative atomic mass = 相对原子质量
 
 atonal
 /eɪˈtəʊnəl/

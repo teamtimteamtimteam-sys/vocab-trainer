@@ -17975,6 +17975,9 @@ build a database of something = 建一个……的数据库
 ③ Their database management system fell over on the first morning of the sale.
 = 促销头一个上午，他们的数据库管理系统就垮了。
 a database management system = 数据库管理系统（缩写 DBMS）
+④ The library uses a relational database to keep track of every book.
+= 那家图书馆用关系数据库记录每一本书。
+a relational database = 关系数据库
 构词：data 加 base
 注意别混：
 a database = 有结构、可检索的数据库

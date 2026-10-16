@@ -27908,6 +27908,9 @@ candidacy = 参选、候选资格
 ⑤ Her candidature was withdrawn over a form nobody had asked her to sign.
 = 她的候选资格因一份没人要求她签的表格被撤回了。
 candidature = 候选资格（英式）
+⑥ The team released a release candidate to its testers on Friday.
+= 团队星期五向测试人员发布了一个候选发布版本。
+a release candidate = （软件的）候选发布版本
 构词：拉丁语 candidatus 穿白袍的，古罗马求职者穿白袍
 注意用法：candidacy 通用，candidature 偏英式。
 
