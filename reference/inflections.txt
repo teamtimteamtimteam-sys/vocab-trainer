@@ -386,3 +386,4 @@ repaid       repay          # 过去式、过去分词
 retold       retell         # 过去式、过去分词
 reflexion    reflection     # 旧拼法
 remold       remould        # 美式拼法
+renunciation renounce       # 名词，并进 renounce
