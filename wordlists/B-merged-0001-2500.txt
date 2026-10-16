@@ -6244,6 +6244,10 @@ advert = 广告（英式口语）
 ⑤ I installed an ad blocker and half the pages stopped loading properly.
 = 我装了个广告拦截插件，一半网页从此加载不全。
 ad blocker = 广告拦截插件
+⑥ He used a reductio ad absurdum to show that the argument made no sense.
+= 他用归谬法证明那个论点说不通。
+a reductio ad absurdum = 归谬法
+拉丁语短语。
 
 ad hoc
 /ˌæd ˈhɒk/
