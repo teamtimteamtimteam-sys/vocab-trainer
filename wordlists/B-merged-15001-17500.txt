@@ -15506,6 +15506,9 @@ a protection order = 保护令
 = 那部小说五月出版，已经有一万多名读者预订了。
 pre-order = 预订、预购
 a pre-order = 一份预订
+㉞ The court gave her a restraining order to keep her former husband away from the house.
+= 法院给她下了一道限制令，不许她前夫靠近那栋房子。
+a restraining order = 限制令
 
 orderly
 /ˈɔːdəli/
