@@ -24436,6 +24436,9 @@ a radio button = 单选按钮
 ⑫ If the machine stops working, press the reset button on the back.
 = 机器要是不动了，按后面的复位键。
 a reset button = 复位键
+⑬ Press the rewind button to go back to the start of the song.
+= 按倒回键回到歌曲开头。
+a rewind button = 倒回键
 构词：古法语 boton 芽、纽扣
 注意用法：两个习语都很高频。
 
