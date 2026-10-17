@@ -1542,3 +1542,13 @@ r.h.         # 缩写（right hand）
 rheme        # 语言学窄术语
 rhenium      # 化学元素名，窄
 rhotic       # 语音学窄术语
+ria          # 地理窄术语
+rinderpest   # 兽医窄术语
+ringette     # 加拿大的冰上运动，窄
+rightsize    # 商业行话，窄
+rightmost    # 计算机窄术语
+righty-ho    # 英式旧式口语，清单伪影
+richard-d-oyly-carte      # 清单伪影（人名）
+ring-a-ring-o-roses       # 儿歌名，清单伪影
+ring-a-ring o’ roses      # 儿歌名，清单伪影
+rinky-dink   # 美式俚语，窄
