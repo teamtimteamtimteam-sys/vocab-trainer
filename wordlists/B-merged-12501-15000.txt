@@ -23733,6 +23733,9 @@ the mainsail = 主帆
 = 好奇心是她一切研究的原动力。
 the mainspring = 主要动力
 本义是钟表的主发条。
+⑮ The houses in the street are all connected to the ring main.
+= 那条街上的房子都接在环形干线上。
+the ring main = （英式）环形电路干线
 
 mainframe
 /ˈmeɪnfreɪm/
