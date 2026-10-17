@@ -16730,6 +16730,9 @@ The field house takes four teams in winter and none in July.
 field sports = 野外运动
 Field sports pay three wages in that parish and divide every dinner.
 = 野外运动在那个教区养着三份工钱，也把每一场晚宴分成两派。
+⑭ He plays right field for the school baseball team.
+= 他在学校棒球队打右外场。
+right field = （棒球）右外场
 
 fieldcraft
 /ˈfiːldkrɑːft/
@@ -16749,6 +16752,9 @@ fielder
 a fielder = 守场员
 ② Two fielders were moved and the next ball went exactly where they had been.
 = 两名守场员被调了位置，下一个球正好落在他们原来站的地方。
+③ The right fielder caught the ball near the wall.
+= 右外野手在墙边接住了球。
+a right fielder = （棒球）右外野手
 
 fielding
 /ˈfiːldɪŋ/
