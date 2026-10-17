@@ -1,3 +1,31 @@
+repellent
+/rɪˈpelənt/
+核心：名词，可数也可不可数：驱虫剂、防……剂：insect repellent。形容词：令人厌恶的、讨厌的；防……的、驱……的：water-repellent。
+① Take some insect repellent with you, for the mosquitoes are terrible in the evening.
+= 带点驱虫剂，傍晚蚊子很厉害。
+insect repellent = 驱虫剂
+repellent = 驱虫剂、令人厌恶的
+② She found his views on women quite repellent.
+= 她觉得他对女人的看法很令人厌恶。
+repellent = 令人厌恶的
+③ The jacket is made of a water-repellent cloth that keeps you dry in the rain.
+= 那件夹克用防水布做成，下雨也不会湿。
+water-repellent = 防水的
+
+repent
+/rɪˈpent/
+核心：（正式）悔悟、忏悔、后悔：repent of something。及物也可不及物。名词 repentance，不可数；形容词 repentant 是悔悟的。并入本条。
+① The priest told him to repent of his sins before it was too late.
+= 神父叫他趁早忏悔自己的罪过。
+repent of something = 为某事忏悔
+repent = 忏悔
+② He showed no sign of repentance for what he had done to his family.
+= 他对自己对家人的所作所为毫无悔意。
+repentance = 悔悟
+③ The repentant thief returned the money he had stolen.
+= 那个悔悟的小偷把偷的钱还了回去。
+repentant = 悔悟的
+
 repercussion
 /ˌriːpəˈkʌʃn/
 核心：（不好的）影响、后果、反响：多用复数：repercussions for。可数。
@@ -155,6 +183,9 @@ replayability = 可反复玩的程度
 ⑤ The old cassette was no longer replayable after it got wet.
 = 那盘旧磁带受潮之后就没法再放了。
 replayable = 可重放的
+⑥ Board games with a high replay value are a good buy for families who play every weekend.
+= 对每个周末都玩的家庭来说，耐玩度高的桌游很值得买。
+replay value = 耐玩度
 
 replenish
 /rɪˈplenɪʃ/
@@ -274,6 +305,9 @@ it is reported that… = 据报道……
 ⑥ The boy's school report said that he worked hard in every subject.
 = 那个男孩的成绩报告单上说他每门课都很用功。
 a school report = 成绩报告单
+⑦ The bill will be discussed again at the report stage next week.
+= 下星期那项议案将在报告阶段再次讨论。
+the report stage = （英国议会的）报告阶段
 
 reportage
 /ˌrepɔːˈtɑːʒ/
@@ -318,31 +352,3 @@ reporting = 新闻报道
 ② Fair reporting is important in a free society.
 = 在一个自由的社会里，公正的报道很重要。
 fair reporting = 公正的报道
-
-repose
-/rɪˈpəʊz/
-核心：（正式，文学）名词：休息、睡眠、安宁、平静，不可数：in repose。动词：躺着、休息；（东西）放置、存放：repose on。
-① Her face looked calm and young in repose.
-= 她安睡时脸显得平静而年轻。
-in repose = 安睡时、平静时
-repose = 休息、安宁
-② The old man found repose at last in a little cottage by the sea.
-= 那个老人终于在海边的一座小屋里找到了安宁。
-find repose = 找到安宁
-③ The body of the king reposes in a tomb under the cathedral.
-= 国王的遗体安放在大教堂下面的一座墓里。
-repose in something = 安放在某处
-
-repository
-/rɪˈpɒzətri/
-核心：可数，复数 repositories。一是仓库、贮藏处、存放处：a repository for；二是（知识、信息的）宝库、汇集处：a repository of；三是（计算机）代码库、资源库。
-① The old church is used as a repository for the town's records.
-= 那座老教堂用作存放镇上档案的地方。
-a repository for something = 存放某物的地方
-repository = 仓库
-② His grandmother was a repository of stories about the village.
-= 他奶奶肚子里装满了关于那个村子的故事。
-a repository of something = 某物的宝库
-③ The programmers keep all their code in a shared online repository.
-= 程序员们把所有代码都存在一个共享的在线代码库里。
-an online repository = 在线代码库

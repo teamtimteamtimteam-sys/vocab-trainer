@@ -1,3 +1,32 @@
+relational
+/rɪˈleɪʃənl/
+核心：（正式）关系的、相关的；（计算机）关系型的。
+① The book looks at the relational problems in large families.
+= 那本书探讨大家庭中的关系问题。
+relational problems = 关系问题
+relational = 关系的
+② She designs relational systems for storing large amounts of data.
+= 她设计用来储存大量数据的关系型系统。
+relational systems = 关系型系统
+
+relationship
+/rɪˈleɪʃnʃɪp/
+核心：可数。一是（人与人之间的）关系、交往：a relationship with、between；二是恋爱关系、婚恋关系：be in a relationship；
+三是（事物之间的）关系、关联：the relationship between A and B；四是亲属关系。
+① Even as a teenager she had a good relationship with her parents.
+= 她十几岁时跟父母的关系就很好。
+a relationship with somebody = 与某人的关系
+relationship = 人际关系
+② The relationship between the two leaders was never easy.
+= 两位领导人之间的关系从来就不融洽。
+the relationship between A and B = 甲乙之间的关系
+③ He has been in a relationship with a teacher from the next village for three years.
+= 他跟邻村的一位老师谈恋爱三年了。
+be in a relationship = 在谈恋爱
+④ There is a clear relationship between smoking and heart disease.
+= 吸烟和心脏病之间有明显的关联。
+a relationship between A and B = 甲乙之间的关联
+
 relative
 /ˈrelətɪv/
 核心：名词，可数：亲戚、亲属：a close relative；（同属一类的）动物、植物。形容词：相对的、比较而言的：relative to；（语法）关系的：relative clause、relative pronoun。
@@ -345,6 +374,9 @@ be relieved = 被接班
 ⑤ Before bed the old dog went out into the garden to relieve itself.
 = 睡觉前，那条老狗到园子里去解手了。
 relieve yourself = 解手
+⑥ A young man offered to relieve her of her heavy suitcase.
+= 一个年轻人主动帮她提那只沉箱子。
+relieve of = 帮……拿走、解除
 
 relieved
 /rɪˈliːvd/
@@ -367,30 +399,3 @@ a reliever = 缓解物
 ② Walking the dog is a good stress reliever after a long day at work.
 = 上了一整天班之后，遛狗是很好的减压办法。
 a stress reliever = 减压办法
-
-religion
-/rɪˈlɪdʒən/
-核心：可数也可不可数。一是宗教、宗教信仰：信仰神、按一定教规生活；二是（某种）宗教、教派：world religions；三是（比喻）像宗教一样热衷的事。
-① Religion plays an important part in the lives of the people there.
-= 宗教在那里人们的生活中起着重要作用。
-religion = 宗教
-② Christianity and Islam are two of the world's great religions.
-= 基督教和伊斯兰教是世界上两大宗教。
-the world's religions = 世界各大宗教
-③ Football is a kind of religion in that town.
-= 足球在那个镇上像宗教一样受人追捧。
-a kind of religion = 像宗教一样的事
-④ The town has a long religious history, with seven old churches in its narrow streets.
-= 那座城有悠久的宗教历史，窄街上有七座老教堂。
-religious = 宗教的、虔诚的
-
-religiosity
-/rɪˌlɪdʒiˈɒsəti/
-核心：（正式，常含贬义）笃信宗教、宗教狂热、虔诚过头。不可数。
-① The religiosity of the family made the visitors feel uncomfortable.
-= 那家人宗教狂热，让来客觉得不自在。
-the religiosity of somebody = 某人的宗教狂热
-religiosity = 宗教狂热
-② The book examines the religiosity of American politics.
-= 那本书考察美国政治中的宗教色彩。
-the religiosity of politics = 政治中的宗教色彩

@@ -41,6 +41,9 @@ profit = 利润（扣成本后）
 ④ The shop's revenue is high, but her own income as the owner is quite small.
 = 那家店的营业收入很高，她作为店主的个人收入却很少。
 income = 收入（个人常用）
+⑤ Advertising is the main revenue stream for the website.
+= 广告是那个网站的主要收入来源。
+a revenue stream = 收入来源
 
 reverb
 /ˈriːvɜːb/
@@ -175,6 +178,9 @@ the reverse effect = 相反的效果
 ⑦ The coin has the queen's head on one side and a ship on the reverse.
 = 那枚硬币一面是女王头像，背面是一艘船。
 the reverse = 背面
+⑧ Some people say that giving jobs only to women is reverse discrimination.
+= 有人说只把工作给女性是逆向歧视。
+reverse discrimination = 逆向歧视
 
 reversibility
 /rɪˌvɜːsəˈbɪləti/

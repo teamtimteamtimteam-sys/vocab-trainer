@@ -93,6 +93,9 @@ reserved = 拘谨的
 = 窗边的桌子都给婚礼宾客预留了。
 be reserved for somebody = 给某人预留
 reserved = 预留的
+③ "If" is a reserved word in the program and cannot be used as a name.
+= 在那个程序里「if」是保留字，不能用作名字。
+a reserved word = （计算机）保留字
 
 reservist
 /rɪˈzɜːvɪst/
