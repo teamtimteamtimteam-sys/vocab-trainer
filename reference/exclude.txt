@@ -1534,3 +1534,11 @@ redneck      # 对美国南方农村白人的蔑称，照「冒犯性标签不�
 regent's park      # 清单伪影（伦敦地名）
 reflectance  # 光学窄术语
 residents-association      # 清单伪影（已按 residents' association 并进 association）
+rb           # 缩写
+rd           # 缩写（road）
+rpm          # 缩写（每分钟转数）
+rr           # 缩写
+r.h.         # 缩写（right hand）
+rheme        # 语言学窄术语
+rhenium      # 化学元素名，窄
+rhotic       # 语音学窄术语

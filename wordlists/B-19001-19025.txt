@@ -362,3 +362,29 @@ a plastic resin = 塑料树脂
 = 松林里的空气有一股清新的树脂味。
 a resinous smell = 树脂味
 resinous = 树脂的
+
+resist
+/rɪˈzɪst/
+核心：及物。一是抵抗、反抗、抵挡：resist an attack；二是抵制、反对（变化、计划）；三是忍住、克制：resist the temptation to do、can't resist doing；四是（材料）耐、抗：resist heat。
+① The soldiers resisted the attack for three days before they were forced to retreat.
+= 士兵们抵挡进攻三天，才被迫撤退。
+resist an attack = 抵挡进攻
+resist = 抵挡
+② The workers resisted all attempts to change their hours.
+= 工人们抵制一切改变工时的企图。
+resist attempts = 抵制企图
+③ I could not resist eating another piece of the chocolate cake.
+= 我忍不住又吃了一块巧克力蛋糕。
+can't resist = 忍不住
+④ She resisted the temptation to tell him what she really thought.
+= 她克制住了想把真实想法告诉他的冲动。
+resist temptation = 抵御诱惑
+⑤ The new paint resists heat and will not crack in the sun.
+= 那种新油漆耐热，太阳晒了也不会开裂。
+resist heat = 耐热
+⑥ The resistance of the people forced the army to leave the town.
+= 人民的抵抗迫使军队撤出了那座城镇。
+resistance = 抵抗
+⑦ The new kind of wheat is resistant to disease.
+= 那种新小麦有抗病能力。
+resistant = 有抵抗力的
