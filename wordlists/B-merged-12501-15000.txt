@@ -16645,6 +16645,9 @@ light-footed = 脚步轻快的
 ㊺ The lightness of the new bike makes it easy to carry up the stairs.
 = 新自行车很轻，拎上楼很方便。
 lightness = 轻
+㊻ Check that your reversing light works before the car's test.
+= 汽车年检前，检查一下倒车灯亮不亮。
+a reversing light = （英式）倒车灯
 
 lighten
 /ˈlaɪtən/
