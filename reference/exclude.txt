@@ -1552,3 +1552,5 @@ richard-d-oyly-carte      # 清单伪影（人名）
 ring-a-ring-o-roses       # 儿歌名，清单伪影
 ring-a-ring o’ roses      # 儿歌名，清单伪影
 rinky-dink   # 美式俚语，窄
+roko         # 印度英语（rasta roko 拦路抗议），窄
+roentgenium  # 化学元素，同 rhenium 照不收

@@ -390,3 +390,4 @@ renunciation renounce       # 名词，并进 renounce
 rigamarole   rigmarole      # 拼法变体
 ridden       ride           # 过去分词
 rang         ring           # 过去式
+rode         ride           # 过去式

@@ -15284,6 +15284,9 @@ hardscape = 硬景观（园林里铺装与砌筑的部分）
 = 硬顶隔噪音，收起来要多花十秒。
 a hardtop = 硬顶（可折收的金属车顶）
 对着说的是 a soft top：帆布顶篷。
+⓴ The bread had been left out all night and was rock-hard by the morning.
+= 面包在外面放了一夜，早上已经硬得像石头。
+rock-hard = 硬得像石头
 
 harden
 /ˈhɑːdən/
