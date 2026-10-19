@@ -1,3 +1,31 @@
+ringer
+/ˈrɪŋə(r)/
+核心：可数。一是敲钟人：bell-ringer；二是（口语）（冒名顶替、替别人参赛的）替身、冒牌货；三是 be a dead ringer for 是（口语）跟……长得一模一样。
+① The ringers practise in the church tower every Thursday evening.
+= 敲钟人每个星期四晚上在教堂钟楼里练习。
+the ringers = 敲钟人
+a ringer = 敲钟人
+② The horse that won was a ringer, not the horse on the race card.
+= 赢的那匹马是冒名顶替的，不是赛马节目单上那匹。
+a ringer = 冒名顶替者
+③ He is a dead ringer for his grandfather at the same age.
+= 他跟他爷爷同岁时长得一模一样。
+be a dead ringer for somebody = 跟某人长得一模一样
+
+ringing
+/ˈrɪŋɪŋ/
+核心：名词：（铃的）响声，单数；（耳朵的）鸣响，单数或不可数。形容词：响亮的、清亮的；（话）坚定有力的：a ringing endorsement。
+① The ringing of the church bells woke us early on Sunday.
+= 星期天教堂的钟声一早就把我们吵醒了。
+the ringing of the bells = 钟声
+ringing = 响声
+② After the explosion he had a ringing in his ears for days.
+= 爆炸之后，他耳鸣了好几天。
+a ringing in your ears = 耳鸣
+③ The plan got a ringing endorsement from the minister.
+= 那个计划得到了部长的大力支持。
+a ringing endorsement = 大力支持
+
 ringleader
 /ˈrɪŋliːdə(r)/
 核心：（贬义）（犯罪、闹事的）头目、首领、带头人。可数。
@@ -299,92 +327,3 @@ the Ripper = 开膛手
 ② Tourists in London can join a guided walk about the crimes of Jack the Ripper.
 = 伦敦的游客可以参加讲述开膛手杰克罪案的导游步行游。
 Jack the Ripper = 开膛手杰克
-
-ripping
-/ˈrɪpɪŋ/
-核心：（英式，旧式口语）极好的、精彩的：a ripping yarn。
-① My grandfather loved to tell ripping yarns about his adventures at sea.
-= 我爷爷爱讲他在海上冒险的精彩故事。
-a ripping yarn = 精彩的故事
-ripping = 极好的
-② "What a ripping idea!" said the old colonel when we suggested a picnic by the lake.
-= 我们提议去湖边野餐，老上校说：“这主意妙极了！”
-a ripping idea = 妙极了的主意
-
-ripple
-/ˈrɪpl/
-核心：名词，可数：涟漪、细浪、波纹；（一阵）低低的（笑声、掌声）：a ripple of laughter；（情绪、影响的）扩散。
-动词：（使）起涟漪、（使）泛起微波；（感情、声音）扩散、荡漾。
-① The stone hit the water and sent ripples across the surface of the pond.
-= 石头落进水里，池面荡起一圈圈涟漪。
-a ripple = 涟漪
-② A ripple of laughter went round the room when the baby began to sing.
-= 婴儿一开口唱，房间里就响起一阵笑声。
-a ripple of laughter = 一阵笑声
-③ The wind rippled the surface of the lake and the boats rocked gently.
-= 风吹皱了湖面，船轻轻摇晃。
-ripple = 起涟漪
-④ Fear rippled through the crowd when the lights suddenly went out.
-= 灯突然灭了，人群中一阵惊慌蔓延开来。
-ripple through something = 在某处扩散
-
-rise
-/raɪz/
-核心：动词，过去式 rose，过去分词 risen，不及物：（太阳、月亮）升起；上升、升高；（数量、价格）上涨、增长；（正式）起床、站起来；（地势）升高、耸立；（风）变大；（河水）上涨；起义、反抗：rise up；（地位）升迁、发迹：rise to fame；（面团）发起来。
-名词：上升、增长，可数：a rise in prices；（英式）加薪：a pay rise；（地位、权力的）提高、兴起，单数；小山坡，可数。
-习语：give rise to 是引起、导致；get a rise out of somebody 是故意惹恼某人；rise and shine 是（口语）起床啦。
-① The sun rises in the east and sets in the west.
-= 太阳从东方升起，在西方落下。
-rise = 升起
-② You raise your hand to ask a question, but the price of bread rises all by itself.
-= 提问要把手举起来，可面包价格是自己往上涨的。
-rise = 自己上升（不及物）
-raise = 举起某物（及物）
-③ The price of petrol has risen by ten per cent since the start of the year.
-= 从年初到现在，汽油价格上涨了百分之十。
-rise by ten per cent = 上涨百分之十
-④ The audience rose to their feet and clapped for five minutes at the end of the show.
-= 演出结束时，观众起立鼓掌五分钟。
-rise to your feet = 站起来
-⑤ On the farm we used to rise at five o'clock to milk the cows.
-= 在农场时，我们总是五点起床挤牛奶。
-rise = （正式）起床
-⑥ Behind the village the hills rise steeply towards the mountains.
-= 村子后面，山丘陡峭地向群山升高。
-rise = （地势）升高
-⑦ After the heavy rain, the river rose so high that it flooded the main road.
-= 大雨之后，河水涨得很高，淹没了大路。
-the river rose = 河水上涨
-⑧ The people rose up against the cruel king and drove him out of the country.
-= 人民起来反抗残暴的国王，把他赶出了国。
-rise up = 起义、反抗
-⑨ She rose to fame as a singer when she was only seventeen.
-= 她十七岁就成了著名歌手。
-rise to fame = 成名
-⑩ Leave the dough in a warm place for an hour so that the bread will rise.
-= 把面团放在暖和的地方一个小时，让面包发起来。
-rise = （面团）发起来
-⑪ There has been a sharp rise in the number of people working from home.
-= 在家办公的人数急剧增加。
-a rise in something = 某方面的增长
-⑫ She asked her boss for a pay rise after three years in the same job.
-= 同一份工作干了三年，她向老板提出加薪。
-a pay rise = 加薪
-⑬ The book tells the story of the rise of the Roman Empire.
-= 那本书讲述罗马帝国的兴起。
-the rise of something = 某事物的兴起
-⑭ From the top of the rise we could see the sea in the distance.
-= 从小山坡顶上，我们能看到远处的大海。
-a rise = 小山坡
-⑮ The new tax gave rise to angry protests across the country.
-= 新税在全国各地引发了愤怒的抗议。
-give rise to something = 引起某事
-⑯ He only says those things to get a rise out of you, so do not answer him.
-= 他说那些话只是为了惹你生气，别理他。
-get a rise out of somebody = 故意惹恼某人
-⑰ "Rise and shine!" my father shouted as he opened the curtains at seven.
-= 七点钟父亲拉开窗帘喊道：“起床啦！”
-rise and shine = 起床啦
-⑱ Crime in the city centre is on the rise again, so the police have put more officers on the streets.
-= 市中心的犯罪又在增加，所以警方在街上加派了警力。
-be on the rise = 在增加、在上升

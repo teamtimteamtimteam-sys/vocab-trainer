@@ -391,3 +391,5 @@ rigamarole   rigmarole      # 拼法变体
 ridden       ride           # 过去分词
 rang         ring           # 过去式
 rode         ride           # 过去式
+# --- ro- 段（2026-10-19）---
+ruble        rouble         # 美式拼法；本表以 rouble 为词头，在 rouble 条配例句
