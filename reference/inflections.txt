@@ -393,3 +393,5 @@ rang         ring           # 过去式
 rode         ride           # 过去式
 # --- ro- 段（2026-10-19）---
 ruble        rouble         # 美式拼法；本表以 rouble 为词头，在 rouble 条配例句
+# --- ru- 段（2026-10-19）---
+ran          run            # 过去式；run 写后登记（ra- 段 coverage 里一直挂着它）
