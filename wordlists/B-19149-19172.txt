@@ -1,3 +1,59 @@
+return
+/rɪˈtɜːn/
+核心：动词：回来、回去、返回：return to、return from；归还、送回、放回：return something to；（感觉、病）复发、再出现；回报、报答：return a favour；
+（体育）回球；（法官、陪审团）作出（裁决）；（英式）选出（议员）。
+名词：回来、返回，单数；归还、退回，不可数；（投资的）收益、利润，可数也可不可数；（英式）往返票：a return ticket；（电脑键盘的）回车键。
+习语：in return 是作为回报；many happy returns 是生日快乐、长命百岁；the point of no return 是无法回头的地步。
+① She returned to the town where she was born after thirty years abroad.
+= 在国外三十年后，她回到了自己出生的那个小镇。
+return to somewhere = 回到某处
+return = 返回
+② Please return the books to the library by Friday.
+= 请在星期五前把书还给图书馆。
+return something to somebody = 把某物归还某人
+return = 归还
+③ The pain returned a week after the operation.
+= 手术一个星期后，疼痛又出现了。
+the pain returned = 疼痛复发
+④ He helped me with the move, so I returned the favour by painting his kitchen.
+= 他帮我搬家，我就帮他刷厨房作为回报。
+return the favour = 回报好意
+⑤ The jury returned a verdict of not guilty.
+= 陪审团作出了无罪裁决。
+return a verdict = 作出裁决
+⑥ Everyone was waiting for her return from the hospital.
+= 大家都在等她从医院回来。
+somebody's return = 某人的归来
+⑦ The investment gave them a good return in the first year.
+= 那笔投资第一年就给他们带来了不错的收益。
+a good return = 不错的收益
+⑧ A return ticket to London costs forty pounds.
+= 去伦敦的往返票四十英镑。
+a return ticket = 往返票
+⑨ She looked after the children, and in return he cooked dinner every night.
+= 她照看孩子们，作为回报，他每天晚上做饭。
+in return = 作为回报
+⑩ When grandmother cut her birthday cake, we all wished her many happy returns of the day.
+= 奶奶切生日蛋糕时，我们都祝她生日快乐、长命百岁。
+many happy returns = 生日快乐
+⑪ Once the plane had left the runway, they had passed the point of no return.
+= 飞机一离开跑道，他们就到了无法回头的地步。
+the point of no return = 无法回头的地步
+⑫ The queen made a return visit to the country ten years later.
+= 十年后，女王对那个国家进行了回访。
+a return visit = 回访
+
+returnable
+/rɪˈtɜːnəbl/
+核心：可退还的、可退回的、可回收的：returnable bottles、a returnable deposit。
+① The deposit is returnable when you give the keys back.
+= 交还钥匙时押金可以退还。
+be returnable = 可退还
+returnable = 可退还的
+② The shop sells milk in returnable glass bottles.
+= 那家店的牛奶用可回收的玻璃瓶装。
+returnable bottles = 可回收的瓶子
+
 returnee
 /rɪˌtɜːˈniː/
 核心：归来者、回国者：（在国外、外地待了很久后）回来的人。可数。
@@ -291,40 +347,3 @@ reverb = 混响
 ② The singer's voice was recorded with too much reverb.
 = 那位歌手的声音录得混响太重了。
 too much reverb = 混响太重
-
-reverberate
-/rɪˈvɜːbəreɪt/
-核心：不及物。一是（声音）回响、回荡；（地方）响彻：reverberate with；二是（事件、消息）产生广泛影响、反响。名词 reverberation，可数也可不可数。并入本条。
-① Her voice reverberated around the empty church.
-= 她的声音在空荡荡的教堂里回荡。
-reverberate around somewhere = 在某处回荡
-reverberate = 回响
-② The news of his death reverberated around the world.
-= 他去世的消息在全世界引起了反响。
-reverberate around the world = 在全世界引起反响
-③ The reverberations of the crisis were felt in every country in Europe.
-= 那场危机的影响波及欧洲每一个国家。
-reverberations = 影响、反响
-reverberation = 回响
-
-revere
-/rɪˈvɪə(r)/
-核心：（正式）尊敬、崇敬、敬畏：revere somebody as。及物，多用被动。名词 reverence 见另条。
-① The old doctor was revered by everyone in the village.
-= 村里人人都敬重那位老医生。
-be revered = 受人尊敬
-revere = 崇敬
-② She is revered as one of the greatest writers of the century.
-= 她被尊为本世纪最伟大的作家之一。
-be revered as something = 被尊为某种人
-
-reverence
-/ˈrevərəns/
-核心：（正式）崇敬、敬畏、尊敬：reverence for。不可数。
-① The people of the island treat the old trees with great reverence.
-= 岛上的人对那些古树怀着极大的敬畏。
-with great reverence = 怀着极大的敬畏
-reverence = 崇敬
-② She had a deep reverence for her father's memory.
-= 她对父亲的怀念满怀崇敬。
-reverence for something = 对某事的崇敬
