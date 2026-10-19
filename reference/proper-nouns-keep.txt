@@ -1193,3 +1193,36 @@ Punjabi
 Purim
 Pyrrhic victory
 Pythagoras’ theorem
+# ── R（2026-10-19 整个字母一次判完，清单大写词头约 190 条；ra- 到 ro- 写的时候漏了这一步，ru- 开段时补判）──
+# 收：国名形容词与民族语言名（Romanian、Russian、Rwandan、Romani）、已进词汇的宗教与历史词（Ramadan、Rastafarian、Roundhead、Roman、Romanesque）、
+#     由人名来的文学形容词（Rabelaisian、Rubenesque、Ruritanian，同 Procrustean / Promethean）、带专名的普通搭配（Renaissance man、Roman nose、
+#     Roman numeral、Rorschach test、Russian doll、Russian roulette）、狗种名 Rottweiler、电影分级 R-rated、新闻常用的 Remainer、
+#     称谓缩写 Rev.、Rep.（同 Prof.）。
+# 不收：全大写缩写（RAF / RNA / ROM / RSVP / RSPCA / RV …）、纯人名地名国名（Rachel / Robert / Rome / Reno / Russia / Rwanda / Runnymede …）、商标与商号
+#     （Rolex / Rollerblade / Ritalin / Reebok / Ryanair / Routemaster …）、机构、报刊与节目名（Reuters / Rangers / RADA / Radio 1 / Riverdance / Rumpole）、
+#     地址缩写（Rd / Rte.）、构词成分（Romano- / Russo-）、冷僻专名搭配（Rafferty's rules / Reuben sandwich / Rhodes scholar / Roman law /
+#     Restoration comedy / Russian salad / Route 66）、组织成员名（Rotarian、Rotary club）、政治贬称 Remoaner、经济学造词 Reaganomics。
+Rabelaisian
+Ramadan
+Rastafarian
+Rastafarianism
+Remainer
+Renaissance man
+Rep.
+Rev.
+Roman
+Romanesque
+Romani
+Romanian
+Roman nose
+Roman numeral
+Rorschach test
+Rottweiler
+Roundhead
+R-rated
+Rubenesque
+Ruritanian
+Russian
+Russian doll
+Russian roulette
+Rwandan

@@ -1554,3 +1554,10 @@ ring-a-ring o’ roses      # 儿歌名，清单伪影
 rinky-dink   # 美式俚语，窄
 roko         # 印度英语（rasta roko 拦路抗议），窄
 roentgenium  # 化学元素，同 rhenium 照不收
+# --- ru- 段（2026-10-19 开段时扫完三张清单）---
+rubidium        # 化学元素，同 rhenium 照不收
+ruthenium       # 化学元素，同 rhenium 照不收
+rutherfordium   # 人工合成的超重元素，同 bohrium
+rugger-bugger   # 英式俚语，窄（橄榄球圈子里的粗汉）
+rudolph-the-red-nosed-reindeer   # 儿歌名，清单伪影
+rule-britannia  # 歌名，清单伪影
