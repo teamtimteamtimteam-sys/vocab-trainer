@@ -267,6 +267,10 @@ beer tent = 啤酒帐篷（露天活动上的）
 ⑪ His breath was beery at ten in the morning, which nobody mentioned.
 = 早上十点他一嘴啤酒味，没人点破。
 beery = 一股啤酒味的
+⑫ The kids ordered two tall glasses of root beer with their burgers at the roadside diner.
+= 孩子们在路边小餐馆点了汉堡，配了两大杯根汁汽水。
+root beer = 根汁汽水
+（北美）用植物根茎、树皮调味的无酒精甜汽水，名字里有 beer 却不含酒精。
 
 beet
 /biːt/
