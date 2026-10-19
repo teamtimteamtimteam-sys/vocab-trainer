@@ -5859,6 +5859,9 @@ a gold farmer = 打金者（游戏）
 gold farming = 打金（刷游戏货币换钱）
 Gold farming pays for servers in one country and rent in another.
 = 打金这门生意，在一个国家付服务器钱，在另一个国家付房租。
+⑰ The watch is not solid gold but rolled gold, so it was quite cheap.
+= 那块表不是纯金的，是包金的，所以挺便宜。
+rolled gold = 包金
 
 goldcrest
 /ˈɡəʊldkrest/
@@ -26204,6 +26207,9 @@ an honour code = 荣誉准则
 = 警方把那名年轻女子的死当作荣誉谋杀案处理。
 an honour killing = 荣誉谋杀
 说的是以「维护家族名誉」为名杀害家族成员的罪行。
+㉒ His grandfather's name is on the roll of honour in the village church, among the men who died in the war.
+= 他爷爷的名字刻在村教堂的荣誉名单上，跟战争中牺牲的人列在一起。
+a roll of honour = 荣誉名单、阵亡者名单
 
 honourable
 /ˈɒnərəbəl/
