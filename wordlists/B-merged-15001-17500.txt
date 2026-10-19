@@ -37018,6 +37018,9 @@ a plant pot = 花盆
 = 那座花园是一位从亚洲各地搜集玫瑰的著名园艺行家建的。
 a plantswoman = 女园艺行家
 a plantsman = 园艺行家
+⑯ A tall rubber plant with big shiny leaves stood in the corner of the waiting room.
+= 候诊室的角落里立着一棵高高的橡皮树，叶子又大又亮。
+a rubber plant = 橡皮树（室内盆栽）
 
 Plantagenet
 /plænˈtædʒənət/

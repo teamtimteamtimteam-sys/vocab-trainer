@@ -319,24 +319,61 @@ the rozzers = 条子
 = 在老犯罪片里，小偷总把警察叫作条子，还想从屋顶上逃走。
 a rozzer = 条子
 
-rye
-/raɪ/
-核心：不可数。一是黑麦：一种耐寒的谷物，用来做面包、威士忌；二是（美式）黑麦威士忌。也作定语：rye bread。
-① The farmers grow rye on the poor soil of the hills.
-= 农民们在山上的贫瘠土地上种黑麦。
-grow rye = 种黑麦
-rye = 黑麦
-② She bought a dark rye bread from the German bakery.
-= 她在那家德国面包店买了一个黑麦面包。
-rye bread = 黑麦面包
+rub
+/rʌb/
+核心：动词：擦、揉、搓：rub your eyes、rub your hands together；（来回）摩擦：rub against；把（药膏等）抹上、揉进：rub cream into your skin；擦亮、擦掉：rub something clean；（鞋等）磨（脚）。名词，单数：擦、揉：give something a rub。
+习语：rub shoulders with 是和（名人等）打交道、厮混；rub somebody up the wrong way 是惹恼某人；rub salt into the wound 是在伤口上撒盐；there's the rub（书面）是难就难在这里。
+① She yawned and rubbed her eyes as she came downstairs for breakfast on Monday morning.
+= 星期一早上她下楼吃早饭，一边打哈欠一边揉眼睛。
+rub = 擦、揉
+rub your eyes = 揉眼睛
+② The old men stood at the bus stop, rubbing their hands together to keep warm in the frosty air.
+= 老人们站在公交车站，在冰冷的空气里搓着手取暖。
+rub your hands together = 搓手
+③ The cat rubbed against my legs and purred until I gave it something to eat.
+= 那只猫蹭着我的腿呼噜呼噜叫，直到我给它吃的。
+rub against something = 在某物上蹭
+不及物用法，主语是来回蹭的那一方，多说猫狗、衣领、鞋子。
+④ Rub a little of the cream into your skin twice a day until the rash goes away.
+= 每天两次把一点药膏揉进皮肤里，直到疹子消退。
+rub cream into your skin = 把药膏揉进皮肤
+结构是 rub A into / on B：A 是油、膏、粉，B 是皮肤、肉、表面。
+⑤ My new boots rubbed my heels so badly that I had blisters by the end of the walk.
+= 我的新靴子把脚后跟磨得很厉害，走完一趟就起了水泡。
+shoes rub = 鞋磨脚
+⑥ Give the table a good rub with a soft cloth, and the old wood will start to shine again.
+= 用软布把桌子好好擦一擦，那老木头就又会发亮。
+give something a rub = 把某物擦一擦
+⑦ As a journalist in the capital, she rubbed shoulders with film stars and politicians every week.
+= 作为首都的记者，她每周都和影星、政客打交道。
+rub shoulders with somebody = 和某人打交道
+⑧ He has a habit of rubbing people up the wrong way, so he is not very popular in the office.
+= 他总是惹人恼火，所以在办公室里人缘不太好。
+rub somebody up the wrong way = 惹恼某人
+⑨ Losing the final was bad enough, but hearing the other team laugh at us really rubbed salt into the wound.
+= 输掉决赛已经够难受了，听到对方嘲笑我们更是在伤口上撒盐。
+rub salt into the wound = 在伤口上撒盐
+⑩ We would love to move to the country, but there's the rub: neither of us could find work there.
+= 我们很想搬到乡下去，可难就难在这里：我们俩在那儿都找不到工作。
+there's the rub = 难就难在这里
+这句来自莎士比亚，口气偏书面、带点戏谑。
 
-ryegrass
-/ˈraɪɡrɑːs/
-核心：黑麦草：一种生长快的草，用来做牧草、铺草坪。不可数。
-① The farmer sowed ryegrass in the field to feed his cows.
-= 那个农民在地里种了黑麦草喂牛。
-sow ryegrass = 种黑麦草
-ryegrass = 黑麦草
-② The new lawn was made with a mixture of ryegrass and other grasses.
-= 新草坪用黑麦草和其他草混种而成。
-a mixture of ryegrass = 黑麦草混种
+rubber
+/ˈrʌbə(r)/
+核心：名词：橡胶（不可数）：made of rubber；（英式）橡皮擦（可数），北美多说 eraser；（北美口语）避孕套（可数）；（桥牌等）三局两胜的一盘。形容词用法（作定语）：橡胶的：rubber gloves。
+① The soles of these walking boots are made of thick rubber, so they do not slip on wet rocks.
+= 这双登山靴的鞋底是厚橡胶做的，在湿石头上也不打滑。
+rubber = 橡胶
+be made of rubber = 橡胶制成
+② Always wear rubber gloves when you use strong cleaning products in the kitchen.
+= 在厨房里用强效清洁剂时一定要戴橡胶手套。
+rubber gloves = 橡胶手套
+③ Can I borrow your rubber? I made a mistake in my drawing and need to fix it before the lesson ends.
+= 能借你的橡皮用一下吗？我画错了，得在下课前改好。
+a rubber = （英式）橡皮擦
+④ The pharmacist kept the rubbers on a high shelf behind the counter.
+= 药剂师把避孕套放在柜台后面的高架子上。
+a rubber = （北美口语）避孕套
+⑤ After two hours of cards we had each won one game, so we played a third to decide the rubber.
+= 打了两个小时牌，我们各赢了一局，就打第三局来决出这一盘的胜负。
+the rubber = （桥牌等）三局两胜的一盘
