@@ -69,6 +69,8 @@ EXPECT = {
     'p': ['pa','pe','ph','pi','pl','po','pr','ps','pt','pu','py'],
     # q 收完后登记（2026-10-15）：qa qt qv 等只有缩写，按收词边界剔除。
     'q': ['qi','qu'],
+    # r 收完后登记（2026-10-19）：rb rd rr 等只有缩写，rw 只有 Rwandan。
+    'r': ['ra','re','rh','ri','ro','ru','rw','ry'],
 }
 
 KEY = sort_key   # 共用排序键，见 scripts/wordkey.py
