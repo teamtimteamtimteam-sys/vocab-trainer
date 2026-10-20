@@ -406,3 +406,8 @@ saber        sabre          # 美式拼法；本表以 sabre 为词头
 salable      saleable       # 另一种拼法；在 saleable 条配等式
 savory       savoury        # 美式拼法；本表以 savoury 为词头（香草义也写在 savoury 条）
 sanitarium   sanatorium     # 美式拼法；在 sanatorium 条配等式
+# --- sc- 段（2026-10-20）---
+scarves      scarf          # 复数（f→ves），前四字母 scar 对不上 scarf；在 scarf 条配例句
+scepter      sceptre        # 美式拼法；本表以 sceptre 为词头
+scalawag     scallywag      # 美式拼法；本表以 scallywag 为词头，在该条配等式
+scootch      scooch         # 另一种拼法；在 scooch 条配等式
