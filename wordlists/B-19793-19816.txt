@@ -1,3 +1,83 @@
+samovar
+/ˈsæməvɑː(r)/
+核心：名词，可数：（俄式）茶炊：一种带龙头的大金属茶壶，内有加热管，用来烧水泡茶。
+① An old brass samovar stood on the table, and my grandmother poured tea from it for every guest.
+= 桌上放着一只旧黄铜茶炊，祖母从里面给每位客人倒茶。
+a samovar = 茶炊
+② In old Russian homes the family kept the samovar hot all day, so there was always tea for visitors.
+= 在旧时的俄罗斯人家里，一家人整天让茶炊烧着，客人来了总有茶喝。
+keep the samovar hot = 让茶炊一直烧着
+
+sampan
+/ˈsæmpæn/
+核心：名词，可数：舢板：东亚、东南亚沿海和河上用的平底小木船。
+① Old women in straw hats sold fruit from their sampans on the river.
+= 戴草帽的老妇人在河上的舢板里卖水果。
+a sampan = 舢板
+② We crossed the harbour in a small sampan rowed by a man standing at the back.
+= 我们坐着一条小舢板过港，船尾站着一个人摇橹。
+a small sampan = 小舢板
+
+samphire
+/ˈsæmfaɪə(r)/
+核心：名词，不可数：海蓬子、海茴香：长在海边岩石和盐沼上、带咸味的植物，可做蔬菜。
+① The restaurant served the fish with a little butter and some fresh samphire from the marshes.
+= 那家餐馆的鱼配一点黄油和一些盐沼里采的新鲜海蓬子。
+samphire = 海蓬子
+② We picked samphire on the beach in summer and boiled it for a few minutes before eating it.
+= 夏天我们在海滩上采海蓬子，煮几分钟就吃。
+pick samphire = 采海蓬子
+
+sample
+/ˈsɑːmpl/
+核心：名词，可数：样品、试样：a free sample；（化验用的）样本：a blood sample；（调查的）样本：a sample of 1000 people、sample size；（音乐）采样。动词：品尝、试用：sample the food；抽样调查；（音乐）采样。
+① The shop was giving away free samples of a new chocolate, so we each took two.
+= 那家店在派送新巧克力的免费样品，我们每人拿了两块。
+free sample = 免费样品
+商店、展会里派发，让人试用试吃。
+② Please bring a sample of the material so that we can match the colour.
+= 请带一块布料样品来，我们好配颜色。
+sample = 样品
+③ The nurse took a blood sample and told me the results would be ready in a week.
+= 护士抽了血样，告诉我一周后出结果。
+a blood sample = 血样
+④ The survey used a sample of two thousand adults from all over the country.
+= 那项调查在全国抽取了两千名成年人作样本。
+a sample of people = 一个人群样本
+⑤ The sample size was too small, so the results of the study cannot be trusted.
+= 样本量太小，所以那项研究的结果不可信。
+sample size = 样本量
+统计、调查用语，样本量越大结果越可靠。
+⑥ We spent the afternoon at the market sampling local cheeses and wines.
+= 我们一下午都在集市上品尝当地的奶酪和葡萄酒。
+sample something = 品尝某物
+⑦ The song samples a famous guitar line from a band of the 1970s.
+= 那首歌采样了一支二十世纪七十年代乐队的著名吉他段落。
+sample = （音乐）采样
+
+sampler
+/ˈsɑːmplə(r)/
+核心：名词，可数：刺绣样品：旧时女孩练针线绣的字母、图案；（尤北美）什锦拼盘、样品集：a sampler of; （音乐）采样器。
+① My great-grandmother made this sampler when she was nine, with the alphabet and her name in red thread.
+= 这块刺绣样品是我曾祖母九岁时绣的，用红线绣着字母表和她的名字。
+a sampler = 刺绣样品
+② The restaurant offers a sampler of five small desserts so that you can try them all.
+= 那家餐馆有一道五样小甜点的拼盘，让你每样都尝尝。
+a sampler of something = 某物的什锦拼盘
+
+sampling
+/ˈsɑːmplɪŋ/
+核心：名词，不可数：抽样、取样；（音乐）采样；（可数）抽样所得的样本。sampling error 是抽样误差。
+① Careful sampling of the river water showed that the factory was not to blame for the dead fish.
+= 对河水的仔细取样表明，死鱼不能怪那家工厂。
+sampling = 抽样、取样
+② Some musicians complain that sampling lets other people make money from their old songs.
+= 有些音乐人抱怨，采样让别人拿他们的老歌赚钱。
+sampling = （音乐）采样
+③ The survey has a sampling error of three per cent, so the two parties are really level.
+= 那项民调有百分之三的抽样误差，所以两党其实不相上下。
+sampling error = 抽样误差
+
 samurai
 /ˈsæmuraɪ/
 核心：名词，可数，复数也是 samurai：（日本封建时代的）武士。也作定语：a samurai sword。
@@ -228,63 +308,3 @@ sandblast something = 喷砂清洗某物
 ② The glass doors were sandblasted with a pattern of leaves so that nobody could see through them.
 = 那几扇玻璃门喷砂打出了树叶图案，谁都看不透。
 be sandblasted with a pattern = 喷砂打出图案
-
-sandbox
-/ˈsændbɒks/
-核心：名词，可数：（北美）（儿童玩沙的）沙箱、沙坑，英式说 sandpit；（计算机）沙盒：与系统隔离、用来安全测试程序的环境。
-① The little children played in the sandbox at the park while their parents talked on the bench.
-= 小孩子们在公园的沙坑里玩，家长们坐在长椅上聊天。
-a sandbox = 沙箱、沙坑
-② The developers tested the new program in a sandbox so that it could not damage the real system.
-= 开发人员在沙盒里测试新程序，免得它损坏真实系统。
-a sandbox = （计算机）沙盒
-
-sandcastle
-/ˈsændkɑːsl/
-核心：名词，可数：（孩子在海滩上堆的）沙堡。
-① The children built a huge sandcastle on the beach and watched the sea wash it away.
-= 孩子们在海滩上堆了一座大沙堡，看着海水把它冲走。
-build a sandcastle = 堆沙堡
-② My father decorated our sandcastle with shells and a little paper flag on the top.
-= 我爸用贝壳和顶上一面小纸旗装饰我们的沙堡。
-a sandcastle = 沙堡
-
-sander
-/ˈsændə(r)/
-核心：名词，可数：砂磨机、打磨机：用砂纸或砂轮打磨表面的电动工具。
-① He used an electric sander to smooth the old table before he painted it.
-= 他用电动打磨机把旧桌子磨光，然后再刷漆。
-an electric sander = 电动打磨机
-② The sander made so much noise and dust that we had to leave the house for the afternoon.
-= 打磨机噪音和灰尘太大，我们只好整个下午都离开家。
-the sander = 打磨机
-
-sandlot
-/ˈsændlɒt/
-核心：名词，可数（北美）：（城里孩子玩球的）空地。也作定语：sandlot baseball（野球、业余棒球）。
-① As boys, they played baseball every evening on the sandlot behind the factory.
-= 他们小时候每天傍晚都在工厂后面的空地上打棒球。
-a sandlot = （孩子玩球的）空地
-② He learned the game in sandlot baseball long before he joined a real team.
-= 他在加入正式球队之前很久，就在空地野球中学会了打球。
-sandlot baseball = 空地野球
-
-sandpaper
-/ˈsændpeɪpə(r)/
-核心：名词，不可数：砂纸。动词：用砂纸打磨。
-① Rub the edges of the shelf with sandpaper until they are smooth and safe to touch.
-= 用砂纸磨架子的边，直到摸上去光滑不扎手。
-sandpaper = 砂纸
-② Last weekend we sandpapered the old front door and then painted it a bright shade of blue.
-= 上周末我们用砂纸把旧前门打磨了一遍，然后刷成了亮蓝色。
-sandpaper something = 用砂纸打磨某物
-
-sandpiper
-/ˈsændpaɪpə(r)/
-核心：名词，可数：鹬：一种长腿长嘴、在海边和河边泥滩上觅食的小鸟。
-① Small grey sandpipers ran along the edge of the waves, looking for food in the wet sand.
-= 灰色的小鹬沿着浪边奔跑，在湿沙里找食。
-sandpipers = 鹬
-② The birdwatchers waited for hours by the lake to see a rare sandpiper from the Arctic.
-= 观鸟人在湖边等了好几个小时，想看一只来自北极的稀有鹬。
-a rare sandpiper = 稀有的鹬
