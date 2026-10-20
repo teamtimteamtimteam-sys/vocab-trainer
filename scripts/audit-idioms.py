@@ -1416,7 +1416,7 @@ CHECK = {
  'same': ['all the same', 'at the same time', 'by the same token', 'same here', 'one and the same', 'in the same boat'],
  'sand': ['bury your head in the sand'],
  'save': ['save face', 'save the day', 'save your breath', 'save your skin'],
- 'say': ['that is to say', 'needless to say', 'you can say that again', 'to say the least', 'go without saying', 'have a say', 'when all is said and done'],
+ 'say': ['that is to say', 'needless to say', 'you can say that again', 'to say the least', 'goes without saying', 'have a say', 'when all is said and done'],
  'image': ['the spitting image of', 'in the image of', 'be the image of', 'public image'],
  'imagination': ['use your imagination', 'capture the imagination', 'by no stretch of the imagination',
                  'a figment of', 'leave nothing to the imagination'],
