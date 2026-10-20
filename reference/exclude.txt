@@ -1565,3 +1565,45 @@ rule-britannia  # 歌名，清单伪影
 rogan josh      # 印度菜名，同 raita、pulao 照不收；coverage 把它挂到不相干的 josh 名下
 rowdy sheet     # 印度英语（警方的滋事者档案），窄
 rowdy sheeter   # 印度英语，同上
+# --- sa- 段（2026-10-20 开段时扫完三张清单）---
+saag         # 印度英语（菜名），同 raita
+sabji        # 印度英语（蔬菜菜肴）
+sabzi        # 印度英语，同上
+sadhana      # 印度英语（修行），窄
+sadhu        # 印度英语（苦行僧），同 puja、pujari
+sagar        # 印度英语，窄
+sahib        # 印度英语（殖民时代的敬称）
+sahitya      # 印度英语，窄
+sahukar      # 印度英语（放债人），窄
+salwar       # 印度英语（服饰）
+samadhi      # 印度英语（宗教术语），窄
+samiti       # 印度英语（委员会），窄
+sambar       # 印度英语（菜名）
+sambo        # 种族蔑称，照「冒犯性标签不收」
+samfu        # 马来西亚、新加坡英语（服饰），窄
+samp         # 南非英语（玉米粥），窄
+sangam       # 印度英语，窄
+sangeet      # 印度英语，窄
+sangh        # 印度英语，窄
+sangoma      # 南非英语（巫医），窄
+sansa        # 地区用语，窄
+sarkar       # 印度英语（政府），窄
+sarpanch     # 印度英语（村长），窄
+sarvodaya    # 印度英语，窄
+sati         # 印度英语（殉夫习俗），窄
+satsang      # 印度英语，窄
+sawm         # 伊斯兰教术语（斋戒），窄
+salat        # 伊斯兰教术语（礼拜），窄
+samarium     # 稀土元素，同 rhenium
+sadler's wells   # 专名残片（剧院名），清单伪影
+sainsbury's  # 商号，清洗时丢了大写
+sae          # 小写缩写（stamped addressed envelope）
+saith        # 古旧动词变形（says），窄
+satcom       # 窄专业缩略
+salbutamol   # 药名，窄专业
+saxhorn      # 窄（乐器名）
+saurian      # 窄（动物学）
+sapodilla    # 窄（热带水果名）
+salmonberry  # 窄（北美浆果名）
+saltbox      # 美式窄（房屋式样）
+sandshoe     # 地区用语（澳新、苏格兰）

@@ -395,3 +395,13 @@ rode         ride           # 过去式
 ruble        rouble         # 美式拼法；本表以 rouble 为词头，在 rouble 条配例句
 # --- ru- 段（2026-10-19）---
 ran          run            # 过去式；run 写后登记（ra- 段 coverage 里一直挂着它）
+# --- s 字母开段（2026-10-20）---
+Sunnite      Sunni          # 异体；本表以 Sunni 为词头
+Succoth      Sukkot         # 异体拼法；本表以 Sukkot 为词头
+said         say            # 过去式；在 say 条配例句
+sang         sing           # 过去式；写到 si- 段的 sing 时配例句
+sank         sink           # 过去式；写到 si- 段的 sink 时配例句
+sat          sit            # 过去式；写到 si- 段的 sit 时配例句
+saber        sabre          # 美式拼法；本表以 sabre 为词头
+salable      saleable       # 另一种拼法；在 saleable 条配等式
+savory       savoury        # 美式拼法；本表以 savoury 为词头（香草义也写在 savoury 条）

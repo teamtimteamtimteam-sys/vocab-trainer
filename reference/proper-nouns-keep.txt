@@ -1226,3 +1226,105 @@ Russian
 Russian doll
 Russian roulette
 Rwandan
+# ── S（2026-10-20 整个字母一次判完，清单大写词头 361 条）──
+# 收：国名形容词与民族语言名（Saudi、Scottish、Spanish、Swahili、Swiss …）、北美原住民族名（Seminole、Shawnee、Shoshone、Sioux，同 Apache / Paiute）、
+#     已进词汇的宗教与历史词（Satan、Seder、Shia、Sikh、Sufi、Sunni、Stalinism、Sukkot、Shavuoth …）、星座行星与星期月份、由人名来的文学形容词与普通名词
+#     （Shavian、Sisyphean、Stygian、Scrooge、Shylock、Svengali）、带专名的普通搭配（Scotch egg、Seville orange、Siamese twin、Swiss roll、Sunday school …）、
+#     狗种马种猫种（Shetland pony、Siamese cat、Staffordshire bull terrier，同 Dalmatian / Persian cat）、日常词 SIM card、Spanglish、Scouse、Sasquatch，
+#     称谓缩写 Sen.（同 R 段的 Rep.）。
+# 不收：全大写缩写（SARS / SAS / SOS / SUV / SMS / STD / SWAT team / SWOT analysis …）、纯人名地名国名（Sam / Sarah / Seattle / Spain / Sweden …）、
+#     商标与商号（Sellotape / Scrabble / Skype / Starbucks / Stanley knife / Styrofoam …）、机构、报刊与节目名（Sotheby's / Spurs / Seinfeld / Superman）、
+#     称谓缩写 Sgt / Supt / Sr / Snr（同 Jr / Maj.）、印度敬称 Shri / Sri / Shrimati / Srimati（地区用语）、构词成分 Sino-、
+#     冷僻专名搭配（Salisbury steak / Scotch mist / Scotch pancake / Sheffield plate / Spanish fly / Stepford wife / Sydenham's chorea / Singapore sling …）、
+#     地区俚语（Strine、Sassenach、Scandi、Sloane）、窄学科名（Sinology、Septuagint、Saturnalia）、日期 September 11、异体（Sunnite、Succoth 登 inflections）。
+Sagittarian
+Sagittarius
+Salvadoran
+Samaritan
+Samoan
+Sanskrit
+Sasquatch
+Satan
+Saturday
+Saturn
+Saudi
+Saxon
+Scandinavian
+Scorpio
+Scot
+Scotch broth
+Scotch egg
+Scots
+Scots pine
+Scottish
+Scottish terrier
+Scouse
+Scrooge
+Seder
+Seminole
+Semite
+Semitic
+Sen.
+Senegalese
+Sephardi
+Sephardic
+September
+Serb
+Serbian
+Seville orange
+Seychellois
+Shavian
+Shavuoth
+Shawnee
+Sherpa
+Shetland pony
+Shia
+Shiite
+Shinto
+Shona
+Shoshone
+Shylock
+Siamese cat
+Siamese twin
+Sikh
+SIM card
+Simon says
+Sindhi
+Singaporean
+Sinhalese
+Sioux
+Sisyphean
+Slav
+Slavic
+Slavonic
+Slovak
+Slovakian
+Slovene
+Slovenian
+Somali
+Spanglish
+Spaniard
+Spanish
+Stalinism
+Stalinist
+Staffordshire bull terrier
+Stygian
+Sudanese
+Sufi
+Sufism
+Sukkot
+Sunday
+Sunday roast
+Sunday school
+Sunday trading
+Sunni
+Surinamese
+Svengali
+Swahili
+Swazi
+Swedish
+Swiss
+Swiss chard
+Swiss cheese
+Swiss roll
+Syrian
