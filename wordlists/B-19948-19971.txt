@@ -1,3 +1,33 @@
+scaffold
+/ˈskæfəʊld/
+核心：名词，可数：（旧时的）绞刑台、断头台；（建筑工地的）脚手架。
+① In the old days, criminals were hanged on a scaffold in front of huge crowds in the town square.
+= 旧时，犯人在镇广场上当着大群人的面被处以绞刑。
+a scaffold = 绞刑台
+② The workers put up a scaffold around the church tower so that they could repair the clock.
+= 工人们在教堂塔楼周围搭起脚手架，好修理大钟。
+put up a scaffold = 搭脚手架
+
+scaffolding
+/ˈskæfəldɪŋ/
+核心：名词，不可数：脚手架（总称）：建筑工地上用金属管和木板搭成的架子。
+① The front of the building was covered in scaffolding for six months while it was being cleaned.
+= 那栋楼清洗期间，正面被脚手架包了六个月。
+scaffolding = 脚手架
+② A worker fell from the scaffolding but was saved by a safety net below.
+= 一名工人从脚手架上摔下来，被下面的安全网接住了。
+fall from the scaffolding = 从脚手架上摔下
+
+scalability
+/ˌskeɪləˈbɪləti/
+核心：名词，不可数：（系统、业务的）可扩展性、可扩容性。
+① The engineers chose the new software because of its scalability as the company grows.
+= 工程师们选了那款新软件，因为它能随公司的发展而扩展。
+scalability = 可扩展性
+② Investors are worried about the scalability of the business outside its home country.
+= 投资者担心这项业务在本国以外能否扩大规模。
+the scalability of something = 某事的可扩展性
+
 scalable
 /ˈskeɪləbl/
 核心：形容词：（系统、业务）可扩展的、能扩大规模的；（山、墙）可攀登的。
@@ -292,48 +322,3 @@ a scandalmonger = 搬弄是非的人
 ② Don't listen to that scandalmonger; most of her stories are completely untrue.
 = 别听那个爱造谣的人的，她讲的大多纯属捏造。
 that scandalmonger = 那个爱造谣的人
-
-scandalous
-/ˈskændələs/
-核心：形容词：可耻的、令人愤慨的：a scandalous waste of money；（话语、故事）诽谤的、丑闻性的。副词 scandalously 是可耻地、令人愤慨地。
-① It is scandalous that the government has spent so much money on a building nobody uses.
-= 政府在一栋没人用的楼上花了那么多钱，真令人愤慨。
-scandalous = 可耻的、令人愤慨的
-② The magazine printed scandalous stories about the private lives of famous actors.
-= 那份杂志刊登了关于名演员私生活的丑闻故事。
-scandalous stories = 丑闻故事
-③ Nurses in the city are scandalously underpaid for the hard work they do.
-= 城里的护士干那么辛苦的活，报酬却低得令人愤慨。
-scandalously = 令人愤慨地
-
-Scandinavian
-/ˌskændɪˈneɪviən/
-核心：形容词：斯堪的纳维亚的：北欧的挪威、瑞典、丹麦（常也包括芬兰、冰岛）的。名词，可数：斯堪的纳维亚人。
-① We bought some simple Scandinavian furniture made of pale wood for our new flat.
-= 我们为新公寓买了几件浅色木头做的简约北欧家具。
-Scandinavian furniture = 北欧家具
-Scandinavian = 斯堪的纳维亚的
-② Many Scandinavians speak excellent English because they watch so many films in it.
-= 许多斯堪的纳维亚人英语说得很好，因为他们看了很多英语电影。
-Scandinavians = 斯堪的纳维亚人
-
-scanner
-/ˈskænə(r)/
-核心：名词，可数：扫描仪：把图片、文件转成电脑文件的设备；（医学）扫描仪：a body scanner；（超市的）扫码器。
-① I put the old letter on the scanner and saved a copy on my computer.
-= 我把那封旧信放到扫描仪上，在电脑里存了一份。
-a scanner = 扫描仪
-② At the airport, all passengers have to walk through a body scanner before they board the plane.
-= 在机场，所有乘客登机前都得走过一台人体扫描仪。
-a body scanner = 人体扫描仪
-
-scansion
-/ˈskænʃn/
-核心：名词，不可数：（诗歌的）格律分析、韵律划分；格律。
-① Our English teacher explained the scansion of the poem by tapping out the rhythm on the desk.
-= 英语老师在桌上敲出节奏，讲解那首诗的格律。
-the scansion of a poem = 诗的格律
-scansion = 格律分析
-② The scansion of the last line is irregular, which gives the poem a surprising ending.
-= 最后一行的格律不规则，让这首诗有个出人意料的结尾。
-irregular scansion = 不规则的格律

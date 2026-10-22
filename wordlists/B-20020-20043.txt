@@ -1,3 +1,67 @@
+sceptre
+/ˈseptə(r)/
+核心：名词，可数：（帝王的）权杖：象征王权的装饰杖。美式拼作 scepter。
+① The queen held a golden sceptre in one hand and a jewelled orb in the other.
+= 女王一手握着金权杖，一手托着镶宝石的宝球。
+a sceptre = 权杖
+② The museum shows the old American scepter that was carried at the governor's ceremonies.
+= 博物馆展出了那根在总督仪式上使用的老式美国权杖。
+scepter = 权杖（sceptre 的美式拼法）
+
+schadenfreude
+/ˈʃɑːdnfrɔɪdə/
+核心：名词，不可数：幸灾乐祸：看到别人倒霉时暗自高兴的心情。来自德语，英语里也常大写。
+① I felt a little schadenfreude when the man who had pushed in front of us missed his train.
+= 那个插队到我们前面的人没赶上火车时，我有点幸灾乐祸。
+schadenfreude = 幸灾乐祸
+② When the rich banker lost his fortune, the newspapers reported his problems with obvious schadenfreude.
+= 那位富有的银行家破产时，报纸带着明显的幸灾乐祸报道了他的麻烦。
+with obvious schadenfreude = 带着明显的幸灾乐祸
+
+schedule
+/ˈʃedjuːl/
+核心：名词：日程安排、计划表（可数或不可数）：a busy schedule、on / behind / ahead of schedule；（北美）时刻表：a train schedule；（正式文件的）附表。动词：安排、预定（时间）：be scheduled for / to do something。形容词 scheduled 是预定的：scheduled flight 是定期航班（与包机相对）。北美读 /ˈskedʒuːl/。
+① The new manager has a very busy schedule, so you will have to wait until next week to see her.
+= 新经理日程排得很满，你得等到下周才能见她。
+schedule = 日程
+a busy schedule = 繁忙的日程
+② The building work is on schedule and should be finished by the end of May.
+= 施工按计划进行，五月底前应该能完工。
+on schedule = 按计划
+③ The new bridge is three months behind schedule because of the bad weather.
+= 由于天气恶劣，新桥工期比计划晚了三个月。
+behind schedule = 落后于计划
+④ Check the train schedule before you leave, because there are fewer trains on Sundays.
+= 出发前查一下火车时刻表，星期天车次少一些。
+a train schedule = （北美）火车时刻表
+⑤ The meeting with the new owners has been scheduled for Thursday afternoon at three o'clock.
+= 和新业主的会议定在星期四下午三点。
+be scheduled for = 定于……
+⑥ We took a scheduled flight to Rome because the charter flights were all full.
+= 包机都满了，我们只好坐定期航班去罗马。
+a scheduled flight = 定期航班
+
+scheduler
+/ˈʃedjuːlə(r)/
+核心：名词，可数：（工作、运输的）调度员、排程员；（计算机）调度程序。
+① The scheduler at the bus company plans which drivers work on each route every day.
+= 公交公司的调度员每天安排哪些司机跑哪条线路。
+a scheduler = 调度员
+② The computer's scheduler decides which program gets to use the processor next.
+= 电脑的调度程序决定下一个由哪个程序使用处理器。
+the scheduler = 调度程序
+
+schema
+/ˈskiːmə/
+核心：名词，可数，复数 schemas 或 schemata（正式）：图式、纲要、框架；（心理学）认知图式；（计算机）（数据库的）结构、模式。
+① The database schema shows how the tables of customers and orders are linked.
+= 数据库模式显示了客户表和订单表是如何关联的。
+a database schema = 数据库模式
+a schema = 结构、模式
+② Psychologists say that children build a schema for each new idea they learn about the world.
+= 心理学家说，孩子们每认识到世界的一个新概念，就建立一个认知图式。
+build a schema = 建立认知图式
+
 schematic
 /skiːˈmætɪk/
 核心：形容词：示意性的、概略的：a schematic diagram。名词，可数：（电路等的）示意图。副词 schematically 是示意地、概略地。
@@ -207,56 +271,3 @@ schmaltz = 过分伤感的东西
 ② The singer avoided schmaltz and sang the old love song in a simple, honest way.
 = 那位歌手不煽情，用朴实真挚的方式唱了那首老情歌。
 avoid schmaltz = 不煽情
-
-schmaltzy
-/ˈʃmɔːltsi/
-核心：形容词（口语，贬义）：过分伤感的、煽情的、甜腻的。
-① The ending of the book is a bit schmaltzy, but I still cried when I read it.
-= 那本书的结尾有点煽情，可我读的时候还是哭了。
-a bit schmaltzy = 有点煽情
-schmaltzy = 煽情的
-② The department store in town plays schmaltzy Christmas songs from the first of November.
-= 镇上那家百货商店从十一月一号就开始放甜腻腻的圣诞歌。
-schmaltzy songs = 甜腻的歌曲
-
-schmo
-/ʃməʊ/
-核心：名词，可数，复数 schmoes（北美俚语）：笨蛋、傻瓜；普通人、平头百姓：some poor schmo。
-① Some poor schmo left his wallet on the train, and the guard found it at the end of the line.
-= 有个倒霉蛋把钱包落在了火车上，列车员在终点站找到了它。
-some poor schmo = 某个倒霉蛋
-② "Don't be such a schmo — of course she likes you," said his sister.
-= 「别那么傻了，她当然喜欢你。」他姐姐说。
-a schmo = 傻瓜
-
-schmooze
-/ʃmuːz/
-核心：动词，不及物（口语）：（为拉关系）闲聊、套近乎：schmooze with somebody。名词，单数：闲聊、套近乎。
-① At the party, the young actor schmoozed with film directors, hoping to get a part.
-= 聚会上，那个年轻演员和电影导演们套近乎，希望能得到个角色。
-schmooze with somebody = 和某人套近乎
-schmooze = 闲聊、套近乎
-② The conference is really just a chance for businessmen to have a schmooze over free drinks.
-= 那场会议其实就是让生意人借着免费酒水拉关系的机会。
-have a schmooze = 闲聊拉关系
-
-schmoozer
-/ˈʃmuːzə(r)/
-核心：名词，可数（口语）：善于套近乎、拉关系的人。
-① He is a great schmoozer who seems to know everyone in the industry.
-= 他很会拉关系，好像认识这一行里的每一个人。
-a schmoozer = 善于拉关系的人
-② The company sent its best schmoozer to the trade fair to meet new customers.
-= 那家公司派最会套近乎的人去交易会结识新客户。
-the best schmoozer = 最会套近乎的人
-
-schmuck
-/ʃmʌk/
-核心：名词，可数（北美俚语，冒犯）：蠢货、混蛋。来自意第绪语，原义粗俗，当面说很不礼貌。
-① Some schmuck parked his car right in front of our garage, so we could not get out.
-= 不知哪个混蛋把车正停在我们车库门口，我们出不去了。
-some schmuck = 某个混蛋
-schmuck = 蠢货、混蛋
-② I felt like a real schmuck when I realized I had been talking to the boss's wife the whole time.
-= 我意识到自己一直在跟老板的太太聊天，觉得自己真是个蠢货。
-feel like a schmuck = 觉得自己是个蠢货
