@@ -19601,6 +19601,10 @@ brush down = 把衣服刷干净
 ⑩ The bowler sent down a brushback and the batsman said nothing at all.
 = 投手投了个逼退球，击球手一声没吭。
 brushback = 故意投向打者身侧逼其后退的球（棒球）
+⑪ My grandmother cleaned the stone floor every Saturday with a stiff scrubbing brush and soapy water.
+= 我祖母每个星期六都用一把硬板刷和肥皂水擦洗石头地板。
+a scrubbing brush = 硬毛刷、板刷
+美式也说 scrub brush。
 构词：古法语 broisse
 词族：
 brushwork = 笔法
