@@ -1644,3 +1644,4 @@ servitor     # 古旧（仆从）
 semtex       # 商标，清洗时丢了大写
 sellotape    # 商标，清洗时丢了大写
 selkie       # 苏格兰民间传说，地区词
+sears-roebuck-and-company   # 公司名残片，清单伪影
