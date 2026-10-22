@@ -411,3 +411,10 @@ scarves      scarf          # 复数（f→ves），前四字母 scar 对不上 
 scepter      sceptre        # 美式拼法；本表以 sceptre 为词头
 scalawag     scallywag      # 美式拼法；本表以 scallywag 为词头，在该条配等式
 scootch      scooch         # 另一种拼法；在 scooch 条配等式
+# --- se- 段（2026-10-22）---
+seen         see            # 过去分词；在 see 条配例句
+sent         send           # 过去式、过去分词；在 send 条配例句
+sewn         sew            # 过去分词；在 sew 条配例句
+selves       self           # 复数（f→ves）；在 self 条配例句
+sera         serum          # 复数；在 serum 条配等式
+seviche      ceviche        # 另一种拼法；在 ceviche 条配等式
