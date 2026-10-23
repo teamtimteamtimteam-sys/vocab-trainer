@@ -1,3 +1,25 @@
+sect
+/sekt/
+核心：名词，可数：（宗教的）派别、教派；（常含贬义）邪教团体；（政治）派系、宗派。
+① The village was home to a small religious sect whose members wore only black clothes.
+= 那个村子住着一个小教派，教徒们只穿黑衣服。
+a religious sect = 教派
+a sect = 派别
+② The police were worried that the sect was keeping its members away from their families.
+= 警方担心那个邪教团体在阻止成员与家人接触。
+the sect = 邪教团体
+
+sectarian
+/sekˈteəriən/
+核心：形容词：宗派的、教派之间的：sectarian violence；（贬义）宗派主义的、狭隘排外的。
+① Years of sectarian violence divided the city into two parts that rarely met.
+= 多年的教派暴力把那座城市分成了两半，彼此很少往来。
+sectarian violence = 教派暴力
+sectarian = 宗派的
+② The new leader promised to end the sectarian divisions in the party.
+= 新领导人承诺消除党内的宗派分歧。
+sectarian divisions = 宗派分歧
+
 sectarianism
 /sekˈteəriənɪzəm/
 核心：名词，不可数：宗派主义、教派偏见。
@@ -299,25 +321,3 @@ sedimentation = 沉积
 ② The water is cleaned by sedimentation before it is filtered and sent to homes.
 = 水先经过沉淀处理，再过滤后送到各家各户。
 clean water by sedimentation = 用沉淀法净化水
-
-sedition
-/sɪˈdɪʃn/
-核心：名词，不可数（正式）：煽动叛乱（的言行）：煽动人们反抗政府的言论或文字。形容词 seditious 另立条。
-① The journalist was arrested and charged with sedition after he wrote an article attacking the king.
-= 那位记者写了一篇抨击国王的文章，随后被捕，被控煽动叛乱。
-be charged with sedition = 被控煽动叛乱
-sedition = 煽动叛乱
-② Under the old laws, criticizing the government in public could be treated as sedition.
-= 在旧法律下，公开批评政府可能被当作煽动叛乱。
-be treated as sedition = 被当作煽动叛乱
-
-seditious
-/sɪˈdɪʃəs/
-核心：形容词（正式）：煽动叛乱的、煽动性的：seditious speeches。
-① The police seized thousands of seditious leaflets calling on soldiers to refuse orders.
-= 警方查获了数千份号召士兵抗命的煽动性传单。
-seditious leaflets = 煽动性传单
-seditious = 煽动叛乱的
-② The poet was sent to prison for writing seditious songs about the president.
-= 那位诗人因写了关于总统的煽动性歌曲而入狱。
-seditious songs = 煽动性歌曲
