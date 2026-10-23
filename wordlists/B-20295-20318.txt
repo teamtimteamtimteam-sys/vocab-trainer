@@ -1,3 +1,57 @@
+seaworthy
+/ˈsiːwɜːði/
+核心：形容词：（船只）适于航海的、经得起风浪的。
+① The old fishing boat was no longer seaworthy, so they turned it into a garden bench.
+= 那条旧渔船已经不能出海了，他们就把它改成了一张花园长椅。
+seaworthy = 适于航海的
+no longer seaworthy = 不再适航
+② The engineers worked for weeks to make the damaged ship seaworthy again.
+= 工程师们干了几个星期，才让那艘受损的船重新能出海。
+make a ship seaworthy = 使船适航
+
+sebaceous
+/sɪˈbeɪʃəs/
+核心：形容词（解剖）：皮脂的、分泌皮脂的：sebaceous glands（皮脂腺）。
+① Spots appear when the sebaceous glands in the skin become blocked with oil.
+= 皮肤里的皮脂腺被油脂堵住时，就会长痘痘。
+sebaceous glands = 皮脂腺
+sebaceous = 皮脂的
+② The doctor removed a small sebaceous cyst from the back of his neck.
+= 医生从他后颈切除了一个小皮脂腺囊肿。
+a sebaceous cyst = 皮脂腺囊肿
+
+sebum
+/ˈsiːbəm/
+核心：名词，不可数（医学）：皮脂：皮脂腺分泌、保护皮肤和头发的油脂。
+① Teenagers often have oily skin and spots because their bodies produce more sebum.
+= 青少年的皮肤常常很油、爱长痘，因为他们分泌的皮脂更多。
+sebum = 皮脂
+② Washing your face too often removes the natural sebum that protects your skin.
+= 洗脸太勤会洗掉保护皮肤的天然皮脂。
+the natural sebum = 天然皮脂
+
+sec
+/sek/
+核心：名词，单数（口语）：一会儿、片刻：wait a sec、just a sec。形容词：（葡萄酒、香槟）干的、不甜的。
+① Wait a sec, I can't find my keys, and I think I left them in the kitchen.
+= 等一下，我找不到钥匙了，我想是落在厨房里了。
+wait a sec = 等一下
+a sec = 一会儿
+② We ordered a bottle of demi-sec champagne, which was a little sweet, to go with the cake.
+= 我们点了一瓶半干型香槟配蛋糕，有一点甜味。
+demi-sec = 半干型的
+
+secateurs
+/ˌsekəˈtɜːz/
+核心：名词，复数（英式）：修枝剪：园艺用的小剪刀。说一把要用 a pair of secateurs。
+① My grandmother always carries a pair of secateurs in her pocket when she walks around the garden.
+= 我祖母在花园里转悠时，口袋里总揣着一把修枝剪。
+a pair of secateurs = 一把修枝剪
+secateurs = 修枝剪
+② Cut the dead flowers off the rose bush with sharp secateurs to help new ones grow.
+= 用锋利的修枝剪把玫瑰丛上的枯花剪掉，有助于长出新花。
+sharp secateurs = 锋利的修枝剪
+
 secede
 /sɪˈsiːd/
 核心：动词，不及物（正式）：（地区、组织）脱离、退出（国家、联盟）：secede from something。名词 secession。
@@ -346,75 +400,3 @@ secretiveness = 遮遮掩掩
 ② The secretiveness of the company made journalists even more curious about its plans.
 = 那家公司的守口如瓶让记者们对它的计划更加好奇。
 the secretiveness of something = 某机构的守口如瓶
-
-sect
-/sekt/
-核心：名词，可数：（宗教的）派别、教派；（常含贬义）邪教团体；（政治）派系、宗派。
-① The village was home to a small religious sect whose members wore only black clothes.
-= 那个村子住着一个小教派，教徒们只穿黑衣服。
-a religious sect = 教派
-a sect = 派别
-② The police were worried that the sect was keeping its members away from their families.
-= 警方担心那个邪教团体在阻止成员与家人接触。
-the sect = 邪教团体
-
-sectarian
-/sekˈteəriən/
-核心：形容词：宗派的、教派之间的：sectarian violence；（贬义）宗派主义的、狭隘排外的。
-① Years of sectarian violence divided the city into two parts that rarely met.
-= 多年的教派暴力把那座城市分成了两半，彼此很少往来。
-sectarian violence = 教派暴力
-sectarian = 宗派的
-② The new leader promised to end the sectarian divisions in the party.
-= 新领导人承诺消除党内的宗派分歧。
-sectarian divisions = 宗派分歧
-
-sectarianism
-/sekˈteəriənɪzəm/
-核心：名词，不可数：宗派主义、教派偏见。
-① The charity works with young people to fight sectarianism in the city's schools.
-= 那家慈善机构和年轻人一起在城里的学校反对宗派主义。
-fight sectarianism = 反对宗派主义
-sectarianism = 宗派主义
-② Sectarianism has divided the small community on the island for more than a hundred years.
-= 宗派偏见已经让岛上那个小社区分裂了一百多年。
-sectarianism divides somebody = 宗派偏见使人分裂
-
-section
-/ˈsekʃn/
-核心：名词，可数：部分、段：a section of the road；（文章、书的）章节、节：section by section；（机构的）部门、科；（乐团的）声部：the string section；（报纸的）版面：the sports section；剖面、截面：cross section。动词：把……分成段；（医学）切开；section off 是把……隔开。
-① The second section of the book explains how the city grew in the nineteenth century.
-= 那本书的第二章讲那座城市在十九世纪是如何发展起来的。
-section = 章节
-② We read the contract section by section to make sure we understood everything.
-= 我们逐节读了合同，确保每处都弄懂了。
-section by section = 逐节地
-③ The drawing in the biology book shows a cross section of the human heart.
-= 生物书里那幅图展示的是人类心脏的横截面。
-cross section = 横截面
-④ The survey asked a cross section of people from all over the country.
-= 那项调查询问了来自全国各地的有代表性的人群。
-a cross section of something = 有代表性的样本
-⑤ A long section of the motorway near the airport is closed this weekend for repairs.
-= 这个周末，机场附近高速公路有很长一段封闭维修。
-a section of something = 某物的一段
-⑥ She plays the violin in the string section of the city orchestra.
-= 她在市交响乐团弦乐声部拉小提琴。
-the string section = 弦乐声部
-⑦ At breakfast my father always reads the sports section of the newspaper first.
-= 吃早饭时，我父亲看报纸总是先看体育版。
-the sports section = 体育版
-⑧ The police sectioned off the area around the house with red and white tape.
-= 警察用红白相间的胶带把房子周围的区域隔开了。
-section off = 把……隔开
-
-sectional
-/ˈsekʃənl/
-核心：形容词：（社会中）某一部分人的、局部的：sectional interests；组合式的、可拆装的：a sectional sofa；剖面的：a sectional drawing。
-① The new law protects sectional interests rather than the good of the whole country.
-= 那项新法律保护的是局部利益，而不是全国的利益。
-sectional interests = 局部利益
-sectional = 局部的
-② We bought a big sectional sofa that can be arranged in different ways.
-= 我们买了一张大组合沙发，可以用不同方式摆放。
-a sectional sofa = 组合沙发
