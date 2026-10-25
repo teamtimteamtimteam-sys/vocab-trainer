@@ -1645,3 +1645,34 @@ semtex       # 商标，清洗时丢了大写
 sellotape    # 商标，清洗时丢了大写
 selkie       # 苏格兰民间传说，地区词
 sears-roebuck-and-company   # 公司名残片，清单伪影
+# sh- 段（2026-10-25）
+shaadi       # 印度英语（婚礼），窄
+shabash      # 印度英语（好样的），窄
+shamiana     # 印度英语（帐篷），窄
+sher         # 印度英语（老虎、诗句），窄
+sherwani     # 印度英语（服饰），同 salwar
+shalwar      # 印度英语（服饰），同 salwar
+shikar       # 印度英语（狩猎），窄
+shikara      # 印度英语（克什米尔小船），窄
+shikhara     # 印度英语（神庙塔顶），窄
+shanti       # 印度英语（安宁），窄
+shroff       # 印度英语（银钱商），窄
+shuttler     # 印度英语（羽毛球运动员），窄
+shamba       # 东非英语（小农田），窄
+shauri       # 东非英语（事情、问题），窄
+shuka        # 东非英语（马赛人披布），窄
+shophouse    # 马来西亚、新加坡英语（店屋），窄
+shoplot      # 马来西亚英语（店面），窄
+shonky       # 澳新俚语，窄
+sheila       # 澳新俚语（女人，旧、含轻视）
+shebeen      # 爱尔兰、南非英语（无照酒馆），地区词
+shinty       # 苏格兰运动名，地区词
+shahada      # 伊斯兰教术语（清真言），同 salat
+sheitel      # 犹太教窄（假发）
+shtup        # 意第绪粗俗俚语，窄
+shonen       # 日本漫画类型名，窄
+shojo        # 日本漫画类型名，窄
+shootaround  # 美式篮球窄（赛前投篮练习）
+shotmaking   # 体育窄（击球技术）
+shithouse    # 粗俗窄（厕所）
+she-male     # 对跨性别者的蔑称，照「冒犯性标签不收」

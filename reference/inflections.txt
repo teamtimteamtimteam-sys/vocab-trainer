@@ -419,3 +419,29 @@ sexily       sexy           # 副词并进形容词后，前四字母对不上
 selves       self           # 复数（f→ves）；在 self 条配例句
 sera         serum          # 复数；在 serum 条配等式
 seviche      ceviche        # 另一种拼法；在 ceviche 条配等式
+shook        shake          # 过去式；在 shake 条配例句
+shaken       shake          # 过去分词；在 shake 条配例句（另有「受了惊吓的」形容词用法，一并写进 shake）
+shone        shine          # 过去式、过去分词；在 shine 条配例句
+shrank       shrink         # 过去式；在 shrink 条配例句
+shrunk       shrink         # 过去分词；在 shrink 条配例句
+shrunken     shrink         # 形容词化的过去分词，前四字母对不上，在 shrink 条配例句
+shorn        shear          # 过去分词；在 shear 条配例句
+shod         shoe           # 过去式、过去分词（及形容词 well-shod），在 shoe 条配例句
+shied        shy            # 过去式；在 shy 条配例句
+shown        show           # 过去分词；在 show 条配例句
+shat         shit           # 过去式（粗俗）；在 shit 条配例句
+shalt        shall          # 古旧第二人称单数；在 shall 条配例句
+shan't       shall          # 缩略式（shall not）；在 shall 条配例句
+she'd        she            # 缩略式（she had / she would），词根只有三个字母，前缀判定认不出
+she'll       she            # 缩略式（she will）
+she's        she            # 缩略式（she is / she has）
+shelves      shelf          # 复数；在 shelf 条配例句
+sheaves      sheaf          # 复数；在 sheaf 条配例句
+shaikh       sheikh         # 拼法变体
+shitake      shiitake       # 拼法变体
+sherd        shard          # 拼法变体
+shortie      shorty         # 拼法变体
+shammy       chamois        # 拼法变体（chamois leather 的俗写）
+shwa         schwa          # 拼法变体
+shite        shit           # 英式变体（粗俗）
+shaly        shale          # 形容词，并进 shale
