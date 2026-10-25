@@ -1440,7 +1440,7 @@ CHECK = {
  'set': ['set fire to', 'set foot in', 'set an example', 'all set', 'set in your ways'],
  'shake': ['shake hands', 'shake your head', 'shake a leg', 'in two shakes'],
  'shame': ["what a shame", 'shame on you', 'put somebody to shame'],
- 'shape': ['in shape', 'out of shape', 'take shape', 'in good shape', 'knock into shape'],
+ 'shape': ['in shape', 'out of shape', 'take shape', 'in good shape', 'into shape'],
  'share': ['share and share alike', 'the lion\'s share', 'fair share'],
  'sharp': ['at ten o\'clock sharp', 'look sharp'],
  'shelf': ['off the shelf', 'on the shelf'],

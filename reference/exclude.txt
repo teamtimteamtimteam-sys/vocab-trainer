@@ -1677,3 +1677,4 @@ shotmaking   # 体育窄（击球技术）
 shithouse    # 粗俗窄（厕所）
 she-male     # 对跨性别者的蔑称，照「冒犯性标签不收」
 shwa         # schwa 的拼法变体，清单里的重复写法
+sharp sharp  # 南非英语俚语（好的、再见），地区词
