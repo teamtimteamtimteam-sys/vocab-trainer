@@ -261,9 +261,9 @@ feebleness = 无力
 
 feed
 /fiːd/
-核心：四支。一是喂、给……吃：feed the cat；二是以……为食、靠……供给：
-feed on something；三是名词，饲料：cattle feed；四是（数据）推送：a news feed。
-过去式与过去分词都是 fed。
+核心：四支。一是喂、给……吃：feed the cat；二是以……为食、
+靠……供给，后接 on；三是名词，饲料：cattle feed；四是（数
+据）推送：a news feed。过去式与过去分词都是 fed。
 ① Feed the cat before you unpack anything or you will not be allowed to.
 = 先喂猫再拆行李，不然它不会让你拆。
 feed the cat = 喂猫
@@ -327,7 +327,7 @@ a feedbag = 饲料袋
 feeder
 /ˈfiːdə(r)/
 核心：三支。一是喂食器：a bird feeder；二是进食的人或动物：a fussy feeder；
-三是支线、支流：a feeder road、a feeder school。
+三是支线、支流：a feeder road。
 ① The bird feeder empties in a day and the squirrels take the credit.
 = 那个喂鸟器一天就空，功劳归松鼠。
 a bird feeder = 喂鸟器

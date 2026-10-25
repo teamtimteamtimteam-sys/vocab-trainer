@@ -111,7 +111,6 @@ network
 a network of friends；三是互相连接的计算机组成的网络：be on the network；四是（广播、电视）联播网。
 动词一是把计算机联网；二是（为了事业）结交人脉；三是（电视）联播。
 名词 networking 一是建立人脉，二是计算机联网；networker 是善于结交人脉的人，也指远程联网办公的人。
-network effect 指用的人越多、对每个用户越有价值的效应；network neutrality 同 net neutrality。并入本条。
 ① The country has a dense rail network that reaches every town.
 = 该国有稠密的铁路网，通到每一座城镇。
 a rail network = 铁路网
@@ -145,7 +144,6 @@ network neutrality = 网络中立
 neural
 /ˈnjʊərəl/
 核心：神经的、神经系统的。只作定语，科学用语：neural pathways（神经通路）、neural activity（神经活动）。
-neural network 是神经网络：一是大脑里的，二是计算机上模仿它搭建的，后者如今更常见。并入本条。
 ① Learning a language as a child lays down neural pathways that last for life.
 = 儿时学语言所铺下的神经通路，会保持一辈子。
 neural pathways = 神经通路

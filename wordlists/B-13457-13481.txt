@@ -17,9 +17,7 @@ let
 /let/
 核心：让、允许 —— let somebody do something（不带 to）；let's（咱们…吧，let us 的缩略）；（英）出租（房屋）。
 过去式、过去分词都是 let。不用被动，被动说 be allowed to。
-短语动词：let down（让人失望；放下；放气）、let off（放过、从轻发落；放（烟花、枪））、let out（放出去；发出（叫声）；
-把衣服放大；英：出租）、let in（放进来）、let in on（让…知道内情）、let in for（让…惹上麻烦）、
-let into（放进；让…知道（秘密））、let on（泄露、说出去）、let up（减弱、停歇）。
+短语动词 let in（放进来）。
 习语：let alone（更不用说）、let go（松手；放开；解雇）、let me see（让我想想）、let somebody know（告诉某人）、
 let yourself go（放开玩；不修边幅）、let it be（随它去）。
 名词 letting（英：出租的房屋；出租）并入本条。
@@ -108,6 +106,7 @@ lethal
 ① The snake's bite contains a lethal dose of poison.
 = 那种蛇咬一口，毒液的量足以致命。
 a lethal dose = 致死剂量
+多见于医学、法律等正式语境。
 ② The police found a knife and other lethal weapons in the car.
 = 警察在车里搜出一把刀和其他致命武器。
 a lethal weapon = 致命武器
@@ -128,6 +127,7 @@ lethargy
 ① The heat filled everyone with lethargy, and the streets were empty by noon.
 = 炎热让人人昏昏沉沉，到中午街上已空无一人。
 fill somebody with lethargy = 让某人昏昏沉沉
+不可数名词，前面不加 a。
 ② It took him weeks to shake off the lethargy that followed the illness.
 = 他花了好几个星期才摆脱病后的那种无精打采。
 shake off the lethargy = 摆脱无精打采
@@ -142,9 +142,7 @@ letter
 /ˈletə(r)/
 核心：信、函件；字母。动词（多用被动）：在…上写字、印字。
 习语：to the letter（一丝不苟、不折不扣地）、the letter of the law（法律的字面条文，与 the spirit 相对）。
-并入本条：letterbox（英：门上的投信口；邮筒）、letterhead（信笺抬头）、lettering（书写、印刷的字体）、
-letter bomb（信件炸弹）、letter carrier（美：邮递员）、letter opener（拆信刀）、letter of credit（信用证）、
-letter-perfect（美：一字不差的）、letter-size（美：信纸尺寸的）。也写作两个词的 letter box 意思相同。
+并入本条：letterbox（英：门上的投信口；邮筒）、letterhead（信笺抬头）、lettering（书写、印刷的字体）。
 ① I wrote a letter to the bank to complain about the charges.
 = 我给银行写了封信，投诉那些收费。
 write a letter to somebody = 给某人写信
@@ -202,6 +200,7 @@ lettuce
 ① Wash the lettuce and dry the leaves before you make the salad.
 = 拌沙拉之前先把生菜洗净，把叶子弄干。
 wash the lettuce = 洗生菜
+当菜吃、作食材讲时不可数。
 ② I'd like a cheese sandwich with lettuce and tomato, please.
 = 请给我一个奶酪三明治，加生菜和番茄。
 with lettuce and tomato = 加生菜和番茄
@@ -233,10 +232,8 @@ level
 /ˈlevəl/
 核心：水平、程度、级别；（水、地面的）高度；（楼的）层。形容词：平的、水平的；同样高的、齐平的；（比分）持平的。
 动词：弄平；夷平；使持平；把（枪、批评）对准。英式过去式 levelled，美式 leveled。
-短语动词：level off / level out（趋于平稳；变平）、level with（口语：对…说实话）、level at（把（枪）对准）、
-level against（把（指责）对准，也说 level at）、level up（拉高到同一水平）、level down（拉低到同一水平）。
 习语：on the level（口语：老实的、正当的）、a level playing field（公平的竞争环境）、do your level best（竭尽全力）。
-形容词 level-headed（头脑冷静的）、副词 levelly（平静地、不动声色地）、名词 leveller（让人人平等的东西）并入本条。
+副词 levelly（平静地、不动声色地）与名词 leveller（让人人平等的东西）并入本条。
 ① The level of noise in the factory is dangerous for the workers' hearing.
 = 那家工厂的噪音水平对工人的听力有危险。
 the level of noise = 噪音水平
@@ -389,6 +386,7 @@ levity
 ① The judge said that this was no time for levity.
 = 法官说，这不是开玩笑的时候。
 no time for levity = 不是开玩笑的时候
+不可数名词，多用于否定或批评的语境。
 ② His jokes brought a moment of levity to the long and difficult meeting.
 = 他的笑话给那场漫长而艰难的会议带来了片刻轻松。
 a moment of levity = 片刻轻松
@@ -400,6 +398,7 @@ levy
 ① The government levied a new tax on sugary drinks.
 = 政府对含糖饮料开征了一项新税。
 levy a tax on something = 对…征税
+主语多是政府、法院等机构，属正式用语。
 ② The court levied a fine of five thousand pounds on the company.
 = 法院对那家公司处以五千英镑罚款。
 levy a fine = 处以罚款
@@ -413,6 +412,7 @@ lewd
 ① He was thrown out of the bar for making lewd remarks to the staff.
 = 他因对店员说下流话被赶出了酒吧。
 lewd remarks = 下流话
+只说与性有关的下流，不用于一般的粗鲁。
 ② The drunk men sang lewd songs on the last train home.
 = 那几个醉汉在回家的末班火车上唱下流歌曲。
 lewd songs = 下流歌曲
@@ -425,8 +425,7 @@ public lewdness = 公然猥亵、有伤风化
 
 lexical
 /ˈleksɪkəl/
-核心：（语言学）词汇的、与词有关的。副词 lexically 与名词 lexis（一门语言的全部词汇）并入本条；
-术语 lexical meaning（词汇意义）、lexical unit（词汇单位）也并在这里。
+核心：（语言学）词汇的、与词有关的。副词 lexically 与名词 lexis（一门语言的全部词汇）并入本条。
 ① The two dialects have the same grammar but many lexical differences.
 = 那两种方言语法相同，但词汇上差异很多。
 lexical differences = 词汇差异
@@ -450,6 +449,7 @@ lexicography
 ① She has worked in lexicography for thirty years, mostly on learners' dictionaries.
 = 她做了三十年词典编纂，主要是编学习词典。
 work in lexicography = 从事词典编纂
+不可数名词，指这门学问或这一行工作。
 ② Computers have changed lexicography by giving editors millions of real examples.
 = 计算机给编者提供了几百万条真实例句，改变了词典编纂。
 change lexicography = 改变词典编纂
@@ -513,7 +513,7 @@ liaise between A and B = 在两方之间联络
 
 liaison
 /lɪˈeɪzən/
-核心：联络、协作；联络人；（文）私通、暧昧关系。liaison officer（联络官）并入本条。
+核心：联络、协作；联络人；（文）私通、暧昧关系。
 ① There is close liaison between the police and the local schools.
 = 警方与当地学校之间联络密切。
 liaison between A and B = 两方之间的联络
@@ -533,6 +533,7 @@ liar
 ① He called me a liar in front of the whole class.
 = 他当着全班的面说我撒谎。
 call somebody a liar = 说某人撒谎
+语气很重，当面说人是 liar 相当冒犯。
 ② She is a good liar, and nobody guessed that the story was invented.
 = 她很会撒谎，谁也没猜到那个故事是编的。
 a good liar = 很会撒谎的人

@@ -79,7 +79,7 @@ database
 跟 databank 的分别在于：database 强调有结构、可检索，
 databank 偏指存放着的那批资料本身。
 常见搭配：build / set up a database、search a database、
-a database of names、a database management system（缩写 DBMS）。
+a database of names。
 ① The police searched the database of stolen vehicles and matched the plate within seconds.
 = 警方在被盗车辆的数据库里一查，几秒钟就比中了那个车牌。
 search a database = 检索数据库
@@ -105,7 +105,7 @@ date
 二是约会：a date 既指那场约会，也指约会的对象；date somebody 是跟某人交往。
 三是枣，跟前两支毫无关系，来自另一个词源（希腊语「手指」，说的是果子的形状）。
 一族固定说法要一起记：out of date 过时、up to date 最新、to date 到目前为止、
-date back to 与 date from 追溯到某年代、a blind date 事先没见过面的约会。
+a blind date 事先没见过面的约会。
 派生：dated 过时的，dateable（也拼 datable）可定年代的，datebook 记事本（美式）。
 ① The date on the letter was three weeks earlier than the postmark on the envelope.
 = 信上的日期比信封上的邮戳早了三周。
@@ -250,7 +250,6 @@ daughter
 核心：女儿。除本义外还有一支比喻要知道：凡是「从母体分出来的」都能用它 ——
 生物学的 daughter cell 子细胞、商业的 daughter company 子公司、
 计算机的 daughterboard 子板，跟性别毫无关系。
-亲属称谓 daughter-in-law 是儿媳，复数加在前一个词上：daughters-in-law。
 ① Their eldest daughter runs the farm now and the other two have moved to the city.
 = 如今是他们的大女儿在管农场，另外两个都进城去了。
 somebody's daughter = 某人的女儿
@@ -348,10 +347,11 @@ loiter = 闲荡逗留（常带可疑的意味）
 
 dawn
 /dɔːn/
-核心：底层是「天开始亮」。三支：名词的黎明（at dawn）；比喻的「开端」
-（the dawn of an age）；动词，说天亮，也说 dawn on somebody
-「某人渐渐明白过来」—— 这一支日常用得最多。
-两个搭配：from dawn to dusk 从早到晚，the dawn chorus 清晨的鸟鸣（英式）。
+核心：底层是「天开始亮」。三支：名词的黎明（at dawn）；
+比喻的「开端」（the dawn of an age）；动词，说天亮，也说
+后接 on 加人，指「某人渐渐明白过来」—— 这一支日常用得最
+多。两个搭配：from dawn to dusk 从早到晚，the dawn
+chorus 清晨的鸟鸣（英式）。
 ① They set off at dawn to get over the pass before the wind picked up.
 = 他们天一亮就动身，好赶在起风前翻过山口。
 at dawn = 黎明时分
@@ -653,7 +653,6 @@ daylight
 in broad daylight 是「光天化日之下」，说的多是本该藏着做的事；
 daylight robbery 是英式的骂价钱离谱；the living daylights 只活在
 scare 或 knock the living daylights out of somebody 里。
-另有 daylight saving time 夏时制。
 ① The room gets almost no daylight until the middle of the afternoon.
 = 那个房间要到下午过半才有一点天光。
 daylight = 天光、自然光

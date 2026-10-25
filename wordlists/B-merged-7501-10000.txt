@@ -129,9 +129,9 @@ the quiet enjoyment of something = 对某物的安宁享用（法律用语）
 
 enlarge
 /ɪnˈlɑːdʒ/
-核心：三支。一是扩大：把东西弄大；二是（照片）放大；
-三是 enlarge on something，就某一点详加说明。
-名词 enlargement，放大机是 enlarger。
+核心：三支。一是扩大：把东西弄大；二是（照片）放大；三是
+后接 on，就某一点详加说明。名词 enlargement，放大机是
+enlarger。
 ① They enlarged the kitchen and lost the only quiet room in the house.
 = 他们把厨房扩大了，也失掉了家里唯一安静的房间。
 enlarge something = 扩大某物
@@ -753,10 +753,10 @@ the entente cordiale = 挚诚协定（英法一九〇四年的谅解）
 
 enter
 /ˈentə(r)/
-核心：六支。一是进入（地方）：enter a room，后面不加 into；
-二是参加、报名（比赛、考试）；三是加入（行业、机构）；
-四是录入、写进（数据、姓名）；五是（新阶段）进入；
-六是 enter into something，正式开始（谈判、协议）或深入谈某事。
+核心：六支。一是进入（地方）：enter a room，后面不加
+into；二是参加、报名（比赛、考试）；三是加入（行业、机构）；
+四是录入、写进（数据、姓名）；五是（新阶段）进入；六是后
+接 into，正式开始（谈判、协议）或深入谈某事。
 ① He entered the room and every conversation changed subject.
 = 他一进屋，所有的谈话都换了话题。
 enter a room = 进入房间
@@ -3537,7 +3537,7 @@ Eskimo
 /ˈeskɪməʊ/
 核心：（旧称，现多避用）爱斯基摩人、爱斯基摩语：加拿大与格陵兰如今用 Inuit，
 阿拉斯加部分族群自称 Yupik；这个词被许多人视为外人强加的称呼。
-可数；只有 an Eskimo roll（皮划艇翻滚）这个说法仍在通用。
+可数。
 ① The museum has relabelled its Eskimo collection and reprinted every card.
 = 博物馆把那批「爱斯基摩」藏品重新标注，卡片全部重印。
 an Eskimo = 爱斯基摩人（旧称）
@@ -4503,8 +4503,7 @@ You change the ethos by changing who gets thanked in public.
 
 ethyl
 /ˈeθɪl/
-核心：（化学）乙基：由两个碳一个氢链构成的基团，
-ethyl alcohol 就是乙醇。只作定语。
+核心：（化学）乙基：由两个碳一个氢链构成的基团。只作定语。
 ① Ethyl acetate smells of pear drops and takes varnish off in seconds.
 = 乙酸乙酯闻着像梨味糖，几秒钟就能把清漆卸掉。
 ethyl acetate = 乙酸乙酯
@@ -4912,7 +4911,7 @@ a Eurasian otter = 欧亚水獭
 eureka
 /jʊˈriːkə/
 核心：（感叹）我想到了：表示忽然找到答案的欢呼，
-希腊语借词，据说出自阿基米德。也作定语：a eureka moment。
+希腊语借词，据说出自阿基米德。也作定语。
 ① Eureka, said nobody in that laboratory, and the work went on.
 = 那间实验室里没人喊「我想到了」，活还接着干。
 eureka = 我想到了（欢呼）
@@ -6088,9 +6087,9 @@ eww = 好恶心
 
 ex
 /eks/
-核心：三支。一是（口语）前任：前夫、前妻或前男女友，可数，复数 exes；
-二是写成 ex- 作前缀，表示「原来的」：her ex-husband、ex-service、ex-directory；
-三是照搬拉丁语的一组书面说法：ex officio、ex gratia、ex cathedra、ex libris。
+核心：三支。一是（口语）前任：前夫、前妻或前男女友，可数，
+复数 exes；二是写成 ex- 作前缀，表示「原来的」：her
+ex-husband；三是照搬拉丁语的一组书面说法。
 ① Her ex still comes to the family Christmas and carves the meat.
 = 她的前任还来过家里的圣诞节，负责切肉。
 an ex = 前任
@@ -6642,7 +6641,7 @@ excess
 /ɪkˈses/（名）/ˈekses/（形）
 核心：三支。一是过量、过度：不可数，to excess 是过度地；
 二是超出的部分：an excess of something；
-三是（英式保险）免赔额：the excess on a policy。也作定语：excess baggage。
+三是（英式保险）免赔额：the excess on a policy。也作定语。
 ① Excess salt is the reason that soup tastes of one thing.
 = 盐放多了，那锅汤就只剩一个味道。
 excess = 过量
@@ -6864,7 +6863,7 @@ exclaim at something = 对某事惊叫
 exclamation
 /ˌekskləˈmeɪʃən/
 核心：两支。一是惊叫、感叹（的话）；
-二是感叹号：an exclamation mark（美式 exclamation point）。可数。
+二是感叹号（美式 exclamation point）。可数。
 ① The exclamation was in Welsh and the meaning was clear to everyone.
 = 那声惊叫是威尔士语，意思人人都懂。
 an exclamation = 一声惊叫
@@ -7947,8 +7946,6 @@ exit
 核心：名词三支、动词两支。名词一是出口：the fire exit；
 二是离开、退场：make an exit；三是（高速公路的）出口匝道。
 动词一是离开、退出；二是（戏剧指示）（一人）下场。
-exit 还能压在别的名词前面，指「离开时的那一下」：an exit poll、an exit interview、
-an exit exam、an exit visa、an exit wound。
 ① The exit is behind the stage and marked in two languages.
 = 出口在舞台后面，用两种语言标着。
 an exit = 出口
@@ -8203,9 +8200,9 @@ the exoticism of something = 某物的异域风情
 
 expand
 /ɪkˈspænd/
-核心：三支。一是膨胀、扩大：说体积、数量、范围变大，及物不及物都行；
-二是扩张业务、扩充规模；三是 expand on something，把话展开细说。
-反义是 contract；名词 expansion。
+核心：三支。一是膨胀、扩大：说体积、数量、范围变大，及物
+不及物都行；二是扩张业务、扩充规模；三是后接 on，把话展
+开细说。反义是 contract；名词 expansion。
 ① Warm air expands and the roof timbers creak all afternoon.
 = 空气受热膨胀，屋顶的木梁整个下午吱吱作响。
 expand = 膨胀、扩大
@@ -8348,8 +8345,8 @@ an expat = 侨居国外的人
 
 expatiate
 /ɪkˈspeɪʃieɪt/
-核心：（正式，常带调侃）长篇大论、详说：几乎只用 expatiate on 或 upon something，
-言下之意是讲得比听众想听的多。
+核心：（正式，常带调侃）长篇大论、详说：几乎总是后接 on
+或 upon，言下之意是讲得比听众想听的多。
 ① The chairman expatiated on the history of the site until the caterers arrived.
 = 主席就那块地的来历长篇大论，一直讲到送餐的人来了。
 expatiate on something = 就某事长篇大论
@@ -8875,7 +8872,7 @@ expired medicines = 过期药品
 expiry
 /ɪkˈspaɪəri/
 核心：（英式）期满、到期：证件或合同失效这件事，不可数。
-最常用的说法是 the expiry date；美式多说 expiration。
+美式多说 expiration。
 ① The expiry of the contract caught both sides without a plan.
 = 合同到期，两边都没备下一步的打算。
 the expiry of something = 某物的期满
@@ -8887,8 +8884,7 @@ explain
 /ɪkˈspleɪn/
 核心：三支。一是解释、说明：explain something to somebody ——
 介词用 to，不能说 explain somebody something；二是说明原因、解释得通；
-三是两个习语：explain yourself 是把自己的所作所为交代清楚，
-explain away 是把不利的事轻描淡写地圆过去。名词 explanation。
+三是习语 explain yourself：把自己的所作所为交代清楚。名词 explanation。
 ① Could you explain the charge to me before I sign anything at all?
 = 我签任何字之前，你能不能把这笔费用解释给我听？
 explain something to somebody = 向某人解释某事
@@ -9668,8 +9664,8 @@ extendable = 可延长的
 
 extended
 /ɪkˈstendɪd/
-核心：三支。一是长时间的：an extended stay；二是加长的、扩充的：
-an extended version；三是固定说法 an extended family，三代同堂的大家庭。
+核心：两支。一是长时间的：an extended stay；二是加长的、扩充的：
+an extended version。
 ① An extended stay costs less per night and a good deal more in total.
 = 长住每晚便宜，总数却贵不少。
 an extended stay = 长期逗留
@@ -10213,9 +10209,9 @@ extraordinaire = 出类拔萃的
 
 extraordinary
 /ɪkˈstrɔːdɪnəri/
-核心：四支。一是非凡的、了不起的：an extraordinary achievement；
+核心：三支。一是非凡的、了不起的：an extraordinary achievement；
 二是离谱的、不寻常的，褒贬都能用；三是（正式）临时的、特别的：
-an extraordinary general meeting；四是固定说法 extraordinary rendition。
+an extraordinary general meeting。
 副词 extraordinarily。
 ① It is an extraordinary achievement for a club with one full-time employee.
 = 对一个只有一名全职员工的俱乐部来说，这是了不起的成就。
@@ -11464,8 +11460,7 @@ factorize a number = 分解质因数
 
 factory
 /ˈfæktəri/
-核心：工厂，可数。常见搭配 a car factory、factory workers；
-the factory floor 指车间，factory farming 指集约化养殖。
+核心：工厂，可数。常见搭配 a car factory、factory workers。
 ① The factory ran three shifts and closed in the year the new road opened.
 = 那家工厂开三个班，新公路通车那年却关了门。
 a car factory = 汽车厂
@@ -11562,8 +11557,7 @@ be faddy about something = 对某物挑剔
 
 fade
 /feɪd/
-核心：三支。一是（颜色、光线）褪去、变淡；二是（声音、记忆）渐渐消失；
-三是影视用语 fade in（淡入）与 fade out（淡出）。
+核心：两支。一是（颜色、光线）褪去、变淡；二是（声音、记忆）渐渐消失。
 ① The curtains have faded on the side that gets the afternoon sun.
 = 窗帘朝着下午太阳的那一面褪了色。
 fade = 褪色
@@ -11613,8 +11607,8 @@ animal faeces = 动物粪便
 
 faff
 /fæf/
-核心：（英式，非正式）瞎忙、磨蹭：动词说 faff about 或 faff around，
-指忙活半天没弄出什么；名词指麻烦事，a bit of a faff。
+核心：（英式，非正式）瞎忙、磨蹭：动词指忙活半天没弄出什么；
+名词指麻烦事，a bit of a faff。
 ① They faffed about with the tent until the light went completely.
 = 他们摆弄那顶帐篷，一直磨蹭到天全黑。
 faff about = 瞎忙、磨蹭
@@ -11710,7 +11704,7 @@ fail-safe = 失效安全的
 
 failed
 /feɪld/
-核心：失败了的、没成的：多作定语 —— a failed attempt、a failed state。
+核心：失败了的、没成的：多作定语 —— a failed attempt。
 ① A failed attempt at the record still got him onto the evening news.
 = 冲击纪录没成，还是让他上了晚间新闻。
 a failed attempt = 未遂的尝试
@@ -11912,8 +11906,7 @@ a fairway = 航道
 fairy
 /ˈfeəri/
 核心：仙子、小精灵：故事里生翅膀的小人儿。可数。
-一串搭配：a fairy tale（童话）、fairy lights（小彩灯）、
-a fairy godmother（贵人）、fairy cakes（英式纸杯蛋糕）。
+另有 fairy cakes，英式指纸杯蛋糕。
 注意语域：旧时也用作对男同性恋的贬称，如今避用。
 ① The fairy at the end of the garden was her grandmother's story, not hers.
 = 花园尽头住着仙子，那是她祖母的故事，不是她的。
@@ -12132,12 +12125,13 @@ a falconry display = 放鹰表演
 
 fall
 /fɔːl/
-核心：动词多支，另有名词。动词一是落下、跌倒；二是（数量、温度）下降；
-三是（城市、政权）陷落；四是进入某种状态：fall asleep、fall ill、fall in love；
-五是（日期）适逢：fall on a Tuesday。名词一是跌落、下降；二是（美式）秋天；
-三是复数 falls，瀑布。过去式 fell、过去分词 fallen。
-习语：fall short of 达不到，fall into place 各就各位，fall flat 砸了，
-fall apart 散架、垮掉。
+核心：动词五支，另有名词。动词一是落下、跌倒；二是（数量、
+温度）下降；三是（城市、政权）陷落；四是进入某种状态：
+fall asleep、fall ill、fall in love；五是（日期）适逢：
+fall on a Tuesday。名词一是跌落、下降；二是（美式）秋天；
+三是复数 falls，瀑布。过去式 fell、过去分词 fallen。习语：
+fall short of 达不到，fall into place 各就各位，fall
+flat 砸了。
 ① He fell off the ladder and landed on the one soft thing in the whole yard.
 = 他从梯子上摔下来，正好落在院里唯一软和的东西上。
 fall off something = 从某处摔下来
@@ -12340,8 +12334,8 @@ a fallow deer = 黇鹿
 
 false
 /fɔːls/
-核心：四支。一是不真实的、错的：a false statement；二是假的、人造的：false teeth；
-三是虚伪的：a false smile；四是一串搭配：a false alarm、a false economy、
+核心：四支。一是不真实的、错的：a false statement；二是假的、人造的；
+三是虚伪的：a false smile；四是一串搭配：a false economy、
 under false pretences。副词 falsely，名词 falsehood 与 falsity。
 ① A false statement on that form is a criminal offence and the box is tiny.
 = 那张表上填不实信息属刑事犯罪，可那个格子小得可怜。
@@ -12594,8 +12588,7 @@ family
 /ˈfæmli/
 核心：三支。一是家庭、家人：可当单数也可当复数；二是家族、门第；
 三是（生物）科：the cat family。
-习语：run in the family 是家里遗传的，start a family 是开始生儿育女，
-a family tree 是家谱。
+习语：run in the family 是家里遗传的，start a family 是开始生儿育女。
 ① The family sits down at seven and argues until the plates go cold.
 = 一家人七点坐下吃饭，争到盘子都凉了。
 a family = 家庭
@@ -12826,7 +12819,7 @@ fancy
 核心：四支。一是动词（英式，非正式）想要、看上：fancy a cup of tea；
 二是名词，一时的喜好：take a fancy to something；
 三是形容词，花哨的、高档的：a fancy restaurant；
-四是感叹语 fancy that，表示意外。另有 fancy dress，指化装舞会的行头。
+四是感叹语 fancy that，表示意外。
 ① Do you fancy a cup of tea before the meeting starts?
 = 开会之前想喝杯茶吗？
 fancy something = 想要某物
@@ -12920,9 +12913,9 @@ a fanlight = 扇形气窗
 
 fanny
 /ˈfæni/
-核心：隔着大西洋差别极大，务必当心。美式英语里是（委婉、略旧）屁股，
-常见于 a fanny pack（腰包，英式叫 bum bag）；
-英式英语里是粗俗的女性生殖器用语，说出口会严重冒犯人。
+核心：隔着大西洋差别极大，务必当心。美式英语里是（委婉、
+略旧）屁股，常见于腰包的叫法（英式叫 bum bag）；英式英语
+里是粗俗的女性生殖器用语，说出口会严重冒犯人。
 ① He wore a fanny pack on each hip and called the arrangement a system.
 = 他两边胯上各挂一个腰包，还管这套搭配叫「系统」。
 a fanny pack = 腰包（美式）
@@ -12985,8 +12978,8 @@ fantastically expensive = 贵得惊人
 
 fantasy
 /ˈfæntəsi/
-核心：三支。一是幻想，可数不可数都行；二是（文学、影视的）奇幻类型：
-a fantasy novel；三是定语用法 fantasy football，指按真实球员选阵的游戏。
+核心：两支。一是幻想，可数不可数都行；二是（文学、影视的）奇幻类型：
+a fantasy novel。
 ① The plan is a fantasy and the budget behind it is worse.
 = 那个计划是幻想，背后那份预算更离谱。
 a fantasy = 幻想
@@ -13610,8 +13603,9 @@ throw a fastball = 投出快速球
 
 fasten
 /ˈfɑːsən/
-核心：三支。一是扣紧、系上：fasten your seat belt；二是闩牢门窗；
-三是 fasten on something，盯住某一点不放。名词 fastener 与 fastening。
+核心：三支。一是扣紧、系上：fasten your seat belt；二是
+闩牢门窗；三是后接 on，盯住某一点不放。名词 fastener 与
+fastening。
 ① Fasten your seat belt before the sign goes off, not after it.
 = 安全带要在指示灯灭之前系好，不是灭了才系。
 fasten your seat belt = 系好安全带
@@ -14103,7 +14097,7 @@ turn off the faucet = 关掉水龙头
 fault
 /fɔːlt/
 核心：四支。一是过错、责任：somebody's fault；二是缺点、毛病；
-三是（地质）断层：a fault line；四是（网球）发球失误。
+三是（地质）断层；四是（网球）发球失误。
 动词是挑毛病，多用否定：you cannot fault it。
 习语：find fault with 是挑刺，at fault 是有过错，to a fault 是过分地。
 ① The delay was nobody's fault and everybody apologised anyway.
@@ -14218,8 +14212,7 @@ Fauvism = 野兽主义
 
 faux
 /fəʊ/
-核心：（源自法语）假的、人造的：多作定语，faux fur、faux marble；
-另有固定说法 a faux pas，指失礼之举。
+核心：（源自法语）假的、人造的：多作定语，faux fur、faux marble。
 ① The coat is faux fur and warmer than the real thing ever was.
 = 那件大衣是人造毛皮的，比真皮草还暖和。
 faux fur = 人造毛皮
@@ -14415,7 +14408,7 @@ fealty = 效忠
 fear
 /fɪə(r)/
 核心：三支。一是恐惧、害怕：fear of heights；二是担忧：fears for somebody；
-三是动词，害怕、担心：fear the worst、fear for somebody。
+三是动词，害怕、担心：fear the worst。
 习语：for fear of 是唯恐，no fear 是英式口语里的「才不呢」。
 形容词 fearful 与 fearless。
 ① Her fear of heights begins somewhere around the third rung of the ladder.
@@ -14523,7 +14516,7 @@ it is feasible to do something = 做某事是可行的
 
 feast
 /fiːst/
-核心：三支。一是盛宴、大餐：a wedding feast；二是（宗教）节庆日：a feast day；
+核心：三支。一是盛宴、大餐：a wedding feast；二是（宗教）节庆日；
 三是动词，尽情享用：feast on something。习语 feast your eyes on 是大饱眼福。
 ① The wedding feast ran to nine courses and one very short speech.
 = 那场婚宴上了九道菜，讲话只有短短一段。
@@ -14856,9 +14849,9 @@ feebleness = 无力
 
 feed
 /fiːd/
-核心：四支。一是喂、给……吃：feed the cat；二是以……为食、靠……供给：
-feed on something；三是名词，饲料：cattle feed；四是（数据）推送：a news feed。
-过去式与过去分词都是 fed。
+核心：四支。一是喂、给……吃：feed the cat；二是以……为食、
+靠……供给，后接 on；三是名词，饲料：cattle feed；四是（数
+据）推送：a news feed。过去式与过去分词都是 fed。
 ① Feed the cat before you unpack anything or you will not be allowed to.
 = 先喂猫再拆行李，不然它不会让你拆。
 feed the cat = 喂猫
@@ -14922,7 +14915,7 @@ a feedbag = 饲料袋
 feeder
 /ˈfiːdə(r)/
 核心：三支。一是喂食器：a bird feeder；二是进食的人或动物：a fussy feeder；
-三是支线、支流：a feeder road、a feeder school。
+三是支线、支流：a feeder road。
 ① The bird feeder empties in a day and the squirrels take the credit.
 = 那个喂鸟器一天就空，功劳归松鼠。
 a bird feeder = 喂鸟器
@@ -14938,7 +14931,7 @@ A feeder school sends thirty children a year and knows every one.
 
 feeding
 /ˈfiːdɪŋ/
-核心：喂养、进食：不可数；也作定语，feeding time、a feeding frenzy。
+核心：喂养、进食：不可数；也作定语，feeding time。
 ① Feeding time at that zoo draws a bigger crowd than the animals do.
 = 那家动物园的喂食时间，招来的人比动物本身还多。
 feeding time = 喂食时间
@@ -15238,8 +15231,7 @@ commit a felony = 犯重罪
 
 felt
 /felt/
-核心：两支，都跟 feel 的过去式无关。一是毡子：羊毛压成的厚布，不可数；
-二是 a felt-tip pen，就是毡头的彩色笔。
+核心：毡子：羊毛压成的厚布，不可数；跟 feel 的过去式无关。
 ① The felt under the piano legs saved a floor that had been sanded twice already.
 = 钢琴腿下那块毡垫，救了一块已经打磨过两回的地板。
 felt = 毡子
@@ -15345,7 +15337,7 @@ feminize something = 把某物做成女性化的
 femme
 /fem/
 核心：（非正式，多用于同志语境）气质偏女性化的一方：跟 butch 相对，
-截短形是 fem；另有来自法语的 a femme fatale，指以魅力惑人的女子。可数。
+截短形是 fem。可数。
 ① She reads as femme at work and as nothing in particular at the weekend.
 = 上班时她显得偏女性化，周末就说不上像什么了。
 femme = 气质偏女性化的一方
@@ -15443,8 +15435,7 @@ wire fencing = 铁丝围栏
 
 fend
 /fend/
-核心：两支。一是 fend for yourself，自己照顾自己、自谋生路；
-二是 fend something off，挡开、招架攻击或追问。
+核心：多用在 fend something off，挡开、招架攻击或追问。
 ① The kittens are old enough to fend for themselves and behave otherwise.
 = 那几只小猫已经能自己养活自己，行为上却不像。
 fend for yourself = 自谋生路
@@ -15802,7 +15793,7 @@ with fervour = 满怀热忱地
 
 fess
 /fes/
-核心：（非正式，多为美式）坦白、招认：几乎只用 fess up。
+核心：（非正式，多为美式）坦白、招认：本身几乎不单用。
 ① He fessed up about the window before anybody had thought to ask.
 = 还没人想到要问，他就主动招了窗子的事。
 fess up = 坦白、招认
@@ -16537,9 +16528,10 @@ A fictive world needs one rule the reader can rely on.
 
 fiddle
 /ˈfɪdəl/
-核心：四支。一是（非正式）小提琴：play the fiddle；二是动词，摆弄、拨弄：
-fiddle with something；三是（英式，非正式）做手脚捞钱：be on the fiddle；
-四是习语 play second fiddle，甘居次位。形容词 fiddly。
+核心：四支。一是（非正式）小提琴：play the fiddle；二是
+动词，摆弄、拨弄，后接 with；三是（英式，非正式）做手脚
+捞钱：be on the fiddle；四是习语 play second fiddle，甘
+居次位。形容词 fiddly。
 ① He plays the fiddle at weddings and the violin nowhere at all.
 = 他在婚礼上拉提琴，正经场合一次也不拉。
 play the fiddle = 拉小提琴
@@ -16980,9 +16972,9 @@ a fig leaf = 遮羞布
 
 fight
 /faɪt/
-核心：五支。一是打架、搏斗：get into a fight；二是（拳击等）比赛；
+核心：四支。一是打架、搏斗：get into a fight；二是（拳击等）比赛；
 三是斗争：fight for something、fight against something；四是名词，斗志：
-put up a fight；五是短语动词 fight back 与 fight off。
+put up a fight。
 过去式与过去分词都是 fought。
 ① Two boys got into a fight over a bicycle that belonged to neither of them.
 = 两个男孩为一辆谁的都不是的自行车打了一架。
@@ -17085,7 +17077,7 @@ figure
 /ˈfɪɡə(r)/
 核心：五支。一是数字、数目：sales figures；二是身材；三是人物：a public figure；
 四是（远处的）人影；五是动词，想明白：figure something out。
-习语 a figure of speech 是修辞说法，cut a figure 是显出某种模样。
+习语 cut a figure 是显出某种模样。
 ① Sales figures for June arrived in August and changed twice after that.
 = 六月的销售数字八月才到，之后又改了两回。
 sales figures = 销售数字
@@ -17320,8 +17312,8 @@ Filipino = 菲律宾语
 
 fill
 /fɪl/
-核心：四支。一是装满、填满：fill a glass；二是填补空缺：fill a vacancy；
-三是名词，足量：eat your fill；四是短语动词 fill in 与 fill up。
+核心：三支。一是装满、填满：fill a glass；二是填补空缺：fill a vacancy；
+三是名词，足量：eat your fill。
 习语 fill the bill 是「正合适」。
 ① Fill the glass to the line and not to the top.
 = 倒到那条线为止，别倒满。
@@ -17416,7 +17408,7 @@ A two-year-old filly sold for more than the whole yard was worth.
 
 film
 /fɪlm/
-核心：四支。一是电影：a film star、see a film；二是胶卷：a roll of film；
+核心：四支。一是电影：see a film；二是胶卷：a roll of film；
 三是薄膜、一层：a film of dust；四是动词，拍摄。
 ① A film star opened the shop and the queue went round two corners.
 = 一位电影明星给那家店剪彩，队伍拐了两个弯。
@@ -17513,7 +17505,7 @@ filmy cloud = 薄云
 filter
 /ˈfɪltə(r)/
 核心：三支。一是滤器、滤芯：a coffee filter；二是动词，过滤：filter water；
-三是（信息、消息）筛除与渗透：filter out、filter through。
+三是（信息、消息）渗透：filter through。
 ① The coffee filter is paper and that machine takes a different size.
 = 那种咖啡滤纸是纸的，那台机器要的却是另一个尺寸。
 a coffee filter = 咖啡滤纸
@@ -17727,7 +17719,7 @@ a finance company = 财务公司
 
 financial
 /ˌfaɪˈnænʃəl/
-核心：财政的、金融的、财务的：the financial year、financial difficulties。
+核心：财政的、金融的、财务的：financial difficulties。
 副词 financially。
 ① The financial year ends in March and the panic starts in February.
 = 财政年度三月结束，恐慌二月就开始了。
@@ -17786,9 +17778,9 @@ a finch = 雀类小鸟
 
 find
 /faɪnd/
-核心：五支。一是找到、发现：find a seat；二是发觉、觉得：find it hard to do something；
-三是（法律）裁定：find somebody guilty；四是名词，发现物：a lucky find；
-五是短语动词 find out。习语 find your feet 是适应下来。
+核心：四支。一是找到、发现：find a seat；二是发觉、觉得：find it hard to do something；
+三是（法律）裁定：find somebody guilty；四是名词，发现物：a lucky find。
+习语 find your feet 是适应下来。
 过去式与过去分词都是 found。
 ① Find a seat near the door and you can leave when the speeches start.
 = 找个靠门的座位，一开始致辞你就能溜。
@@ -18069,8 +18061,8 @@ add finings = 加入澄清剂
 
 finish
 /ˈfɪnɪʃ/
-核心：四支。一是完成、结束：finish the job；二是（比赛的）冲线与名次：a close finish；
-三是（表面的）漆面、饰面：a matt finish；四是短语动词 finish off 与 finish up。
+核心：三支。一是完成、结束：finish the job；二是（比赛的）冲线与名次：a close finish；
+三是（表面的）漆面、饰面：a matt finish。
 ① Finish the job before the light goes and the ladder can stay out.
 = 天黑之前把活干完，梯子就能搁在外头。
 finish the job = 把活干完
@@ -18092,6 +18084,9 @@ He set out to mend a gate and finished up rebuilding the wall.
 ⑤ She finished with that job before it could finish with her.
 = 她先跟那份工作了断，没等它先了断她。
 finish with something = 跟某事了断
+⑥ We finished off the last of the birthday cake for breakfast the next morning, sitting in the garden.
+= 第二天早上，我们坐在花园里，把最后一点生日蛋糕当早饭吃完了。
+finish off = 吃完、做完
 
 finished
 /ˈfɪnɪʃt/
@@ -18508,8 +18503,9 @@ a fireman = 消防员（旧称）
 
 firing
 /ˈfaɪərɪŋ/
-核心：三支。一是射击：firing practice；二是解雇：the firing of three managers；
-三是（陶瓷的）烧制。不可数为主。习语 in the firing line 是首当其冲。
+核心：三支。一是射击：firing practice；二是解雇：the
+firing of three managers；三是（陶瓷的）烧制。不可数为主。
+习语 in the firing line 是首当其冲。
 ① Firing practice happens at dawn and the sheep have got used to it.
 = 打靶训练在天亮时进行，羊群已经习惯了。
 firing practice = 打靶训练
@@ -18767,7 +18763,7 @@ They cross the firth by ferry in winter and by bridge in summer.
 
 fiscal
 /ˈfɪskəl/
-核心：（正式）财政的、税收的：fiscal policy、the fiscal year。副词 fiscally。
+核心：（正式）财政的、税收的：fiscal policy。副词 fiscally。
 ① Fiscal policy moves slowly and everybody feels it at the same moment.
 = 财政政策动得慢，人人却在同一刻感觉到。
 fiscal policy = 财政政策
@@ -18791,8 +18787,9 @@ the procurator fiscal = （苏格兰的）地方检察官
 
 fish
 /fɪʃ/
-核心：四支。一是鱼：单复数同形，说不同种类时用 fishes；二是鱼肉：fish and chips；
-三是动词，钓鱼、捕鱼；四是习语：a fish out of water 是浑身不自在的人。
+核心：四支。一是鱼：单复数同形，说不同种类时用 fishes；
+二是鱼肉；三是动词，钓鱼、捕鱼；四是习语：a fish out of
+water 是浑身不自在的人。
 ① Three fish came out of that pond in a summer and two went back in.
 = 那口塘一夏天钓上来三条鱼，放回去两条。
 a fish = 一条鱼
@@ -18903,7 +18900,7 @@ a fisheye view = 鱼眼视角
 
 fishing
 /ˈfɪʃɪŋ/
-核心：钓鱼、捕鱼：不可数 —— go fishing、a fishing rod、fishing rights。
+核心：钓鱼、捕鱼：不可数 —— go fishing、fishing rights。
 ① Fishing on that stretch needs a permit and a great deal of patience.
 = 在那一段钓鱼，要有许可证，还要极大的耐心。
 a fishing rod = 钓竿
@@ -19085,7 +19082,7 @@ fit
 /fɪt/
 核心：五支。一是（尺寸）合身：the coat fits；二是健康结实的：keep fit；
 三是适合的：fit for purpose；四是名词，（病或情绪的）发作：a coughing fit；
-五是习语：see fit 是认为合适，fit in 是融入。
+五是习语：see fit 是认为合适。
 过去式与过去分词英式用 fitted、美式用 fit。
 ① The coat fits everywhere except across the shoulders.
 = 那件大衣哪儿都合身，就是肩那儿不行。
@@ -19447,7 +19444,7 @@ turn out to be a fizzer = 结果落了空
 
 fizzle
 /ˈfɪzəl/
-核心：（非正式）虎头蛇尾地收场：多说 fizzle out。
+核心：（非正式）虎头蛇尾地收场、渐渐没了声息。
 ① The protest fizzled out in the rain and reconvened on a sunnier Tuesday.
 = 那场抗议在雨里不了了之，换到一个晴些的周二重来。
 fizzle out = 虎头蛇尾地结束
@@ -19531,8 +19528,8 @@ get flack = 挨骂
 
 flag
 /flæɡ/
-核心：四支。一是旗：fly the flag、raise a flag；二是动词，标出、提请注意；
-三是动词，（兴致、体力）减退；四是 flag down，招手拦车。
+核心：三支。一是旗：fly the flag、raise a flag；二是动词，标出、提请注意；
+三是动词，（兴致、体力）减退。
 ① They fly the flag on four days a year and take it in when it rains.
 = 他们一年挂四天旗，下雨就收进来。
 fly the flag = 挂旗、扬旗
@@ -19689,7 +19686,7 @@ with flair = 有派头地
 
 flak
 /flæk/
-核心：两支。一是高射炮火：a flak jacket 是防弹背心；
+核心：两支。一是高射炮火；
 二是（非正式）猛烈批评：take flak、get flak。不可数。
 ① He took a lot of flak for a decision that had been made above him.
 = 一个上头做的决定，让他挨了不少批评。
@@ -19969,7 +19966,7 @@ The flapper era lasted nine years and supplied a century of costume parties.
 
 flare
 /fleə(r)/
-核心：四支。一是（火）突然蹿旺：flare up；二是（脾气、病情）突然发作：tempers flare；
+核心：四支。一是（火）突然蹿旺；二是（脾气、病情）突然发作：tempers flare；
 三是名词，信号弹、照明弹；四是（裤腿、裙摆）张开。形容词 flared。
 ① The fire flared up when the door opened and died down again.
 = 门一开火苗蹿了起来，随后又落下去。
@@ -20647,8 +20644,7 @@ flay somebody = 严厉抨击某人
 
 flea
 /fliː/
-核心：跳蚤。可数。习语 a flea in your ear 是被人抢白一顿；
-a flea market 是跳蚤市场。
+核心：跳蚤。可数。习语 a flea in your ear 是被人抢白一顿。
 ① One flea in a carpet becomes ninety within a fortnight.
 = 地毯里一只跳蚤，两个星期就变成九十只。
 a flea = 跳蚤
@@ -20981,8 +20977,8 @@ a flic = 条子
 
 flick
 /flɪk/
-核心：三支。一是轻弹、轻甩：flick a switch；二是快速翻动：flick through something；
-三是（非正式）电影。
+核心：三支。一是轻弹、轻甩：flick a switch；二是快速翻动，
+后接 through；三是（非正式）电影。
 ① Flick the switch twice and the light decides for itself.
 = 把开关拨两下，灯自己决定亮不亮。
 flick a switch = 拨开关
@@ -21125,8 +21121,8 @@ be flimsily dressed = 穿得单薄
 
 flinch
 /flɪntʃ/
-核心：两支。一是（因痛或惊）瑟缩、退一下：flinch at something；
-二是引申，回避：not flinch from something。
+核心：两支。一是（因痛或惊）瑟缩、退一下：flinch at
+something；二是引申，回避，多用于否定。
 ① He flinched at the needle and told the nurse it was the light.
 = 针一扎他就瑟缩了一下，跟护士说是灯晃的。
 flinch at something = 见某物而瑟缩
@@ -21193,8 +21189,8 @@ a flinty look = 冷硬的目光
 
 flip
 /flɪp/
-核心：四支。一是快速翻转：flip a coin；二是 flip through，快速翻阅；
-三是（非正式）flip out，突然发作、失控；四是形容词，轻浮不当真的。
+核心：三支。一是快速翻转：flip a coin；
+二是（非正式）flip out，突然发作、失控；三是形容词，轻浮不当真的。
 名词 flippancy，形容词 flippant。
 ① They flipped a coin and the coin went straight down a drain.
 = 他们抛硬币决定，硬币径直掉进了下水道。
@@ -21274,8 +21270,8 @@ flipping cold = 冷得要命
 
 flirt
 /flɜːt/
-核心：两支。一是调情、卖俏：flirt with somebody；
-二是引申，对某个念头动过心思：flirt with an idea。名词 flirtation。
+核心：两支。一是调情、卖俏；二是引申，对某个念头动过心思：
+flirt with an idea。名词 flirtation。
 ① He flirts with the whole queue at the bakery and means none of it.
 = 他跟面包房排队的人挨个调笑，一句都不当真。
 flirt with somebody = 跟某人调情
@@ -21624,7 +21620,7 @@ a flophouse = 廉价旅舍
 
 floppy
 /ˈflɒpi/
-核心：两支。一是松软下垂的：a floppy hat；二是（旧，计算机）软盘：a floppy disk。
+核心：两支。一是松软下垂的：a floppy hat；二是（旧，计算机）软盘。
 ① A floppy hat keeps the sun off and blocks the view of everybody behind.
 = 一顶软边帽能遮太阳，也挡住后面所有人的视线。
 a floppy hat = 软边帽
@@ -22535,7 +22531,7 @@ take a flyer on something = 冒险押注
 flying
 /ˈflaɪɪŋ/
 核心：三支。一是飞行（名词）：be afraid of flying；二是飞行的、会飞的；
-三是短暂而匆忙的：a flying visit。习语 with flying colours 指出色地通过。
+三是短暂而匆忙的。习语 with flying colours 指出色地通过。
 ① He is afraid of flying and takes the train even as far as Naples.
 = 他怕坐飞机，远到那不勒斯也坐火车。
 be afraid of flying = 怕坐飞机
@@ -22760,7 +22756,7 @@ a slab of focaccia = 一大块佛卡夏
 
 focal
 /ˈfəʊkəl/
-核心：三支。一是（光学）焦点的：focal length；二是中心的、关键的：a focal role；
+核心：三支。一是（光学）焦点的；二是中心的、关键的：a focal role；
 三是（医学）局灶的、集中在一小块的：a focal seizure。
 ① The focal length of that lens is printed on the ring in tiny figures.
 = 那只镜头的焦距印在镜圈上，字很小。
@@ -23163,8 +23159,7 @@ a folder = 折页宣传单
 
 folding
 /ˈfəʊldɪŋ/
-核心：三支。一是能折叠的：a folding chair；二是折叠这道工序、这个动作；
-三是（英，旧俚）folding money，指纸币。
+核心：两支。一是能折叠的：a folding chair；二是折叠这道工序、这个动作。
 ① Twenty folding chairs came out of the cupboard and eighteen of them worked.
 = 柜子里搬出二十把折叠椅，十八把还能用。
 a folding chair = 折叠椅
@@ -23223,7 +23218,7 @@ on the same folio = 记在同一页上
 folk
 /fəʊk/
 核心：四支。一是（复数）人们、大伙儿：country folk；二是（非正式）家里人：my folks；
-三是民间的：a folk dance；四是民谣音乐。
+三是民间的；四是民谣音乐。
 ① Country folk come in on the bus and go home before the shops shut.
 = 乡下人坐班车进城，趁店没关门就回去了。
 country folk = 乡下人
@@ -23726,8 +23721,8 @@ be foody = 馋嘴好吃
 
 fool
 /fuːl/
-核心：四支。一是傻瓜、蠢人；二是动词，愚弄、骗过；
-三是动词短语 fool around，瞎混胡闹；四是（英）一种果泥奶油甜点。
+核心：三支。一是傻瓜、蠢人；二是动词，愚弄、骗过；
+三是（英）一种果泥奶油甜点。
 习语：make a fool of yourself 出洋相；play the fool 装傻胡闹；
 fool's gold 黄铁矿，引申指中看不中用的东西；a fool's paradise 虚幻的安乐窝。
 ① Only a fool signs a lease without reading the last page.
@@ -25650,7 +25645,6 @@ forge
 /fɔːdʒ/
 核心：四支。一是（金属）锻造：forge iron；二是伪造：forge a signature；
 三是缔结、打造（关系）：forge a partnership；四是锻炉、铁匠铺。
-习语 forge ahead 大步前进、突飞猛进。
 ① They forge iron here the way it was done two hundred years ago.
 = 这里锻铁的法子跟两百年前一样。
 forge iron = 锻铁
@@ -25852,7 +25846,7 @@ fork
 /fɔːk/
 核心：五支。一是餐叉：a knife and fork；二是园艺叉：a garden fork；
 三是（路、河的）岔口：a fork in the road；四是动词，分岔；
-五是自行车的前叉。习语 fork out 是不情愿地掏钱。
+五是自行车的前叉。
 ① He eats with a fork alone and keeps the knife for the bread.
 = 他只用叉子吃，刀留着切面包。
 a knife and fork = 刀叉
@@ -25885,7 +25879,7 @@ throw a forkball = 投叉指球
 
 forked
 /fɔːkt/
-核心：三支。一是分叉的：a forked branch；二是（闪电）叉状的：forked lightning；
+核心：三支。一是分叉的：a forked branch；二是（闪电）叉状的；
 三是（舌头）分岔的。
 ① A forked branch holds the fence up where the post rotted away.
 = 柱子烂掉的地方，一根分叉的树枝撑住了围栏。
@@ -26870,9 +26864,9 @@ foster a hope = 怀着希望
 
 foul
 /faʊl/
-核心：五支。一是（气味、天气）恶臭的、恶劣的：foul weather；
+核心：四支。一是（气味、天气）恶臭的、恶劣的：foul weather；
 二是（语言）下流的：foul language；三是（体育）犯规：commit a foul；
-四是动词，弄脏、缠住；五是习语 foul play，犯规或不正当行为。
+四是动词，弄脏、缠住。
 副词 foully 并入本条。
 ① Foul weather kept both boats in the harbour for nine days.
 = 恶劣天气把两条船困在港里九天。
@@ -27669,7 +27663,6 @@ frame
 核心：五支。一是框、画框：a picture frame；二是（建筑、车辆的）骨架；
 三是体格：a small frame；四是动词，给…加框、构造；
 五是动词，栽赃陷害：frame somebody。
-习语：frame of mind 心情、心境；frame of reference 参照系；a frame-up 栽赃。
 ① The picture frame is worth more than the picture inside it.
 = 那个画框比里头的画还值钱。
 a picture frame = 画框
@@ -28552,7 +28545,7 @@ freeborn men = 生而自由的人
 
 freedom
 /ˈfriːdəm/
-核心：四支。一是自由：freedom of speech；二是摆脱某种痛苦的状态：freedom from pain；
+核心：四支。一是自由；二是摆脱某种痛苦的状态：freedom from pain；
 三是做某事的自由度：the freedom to choose；四是某城授予的荣誉市民身份。
 ① Freedom of speech is written into the charter and tested twice a year.
 = 言论自由写进了章程，一年被检验两次。
@@ -28939,7 +28932,6 @@ freeze
 /friːz/
 核心：五支。一是结冰、冻住：the pond freezes；二是冷冻（食物）：freeze the bread；
 三是冻得受不了；四是（动作）僵住不动；五是冻结（工资、账户）：a pay freeze。
-习语 freeze over 是水面整个冻上。
 注意：三态是 freeze / froze / frozen。
 ① The pond freezes every January and one person always tests it.
 = 那个池塘每年一月结冰，总有一个人去试冰面。
@@ -28982,8 +28974,8 @@ the freezer aisle = 冷冻食品区
 
 freezing
 /ˈfriːzɪŋ/
-核心：三支。一是冷得要命的：be freezing；二是冰点的：freezing point；
-三是冷冻这个处理过程。
+核心：两支。一是冷得要命的：be freezing；
+二是冷冻这个处理过程。
 ① It is freezing in that hall and the heating comes on in December.
 = 那个厅里冷得要命，供暖十二月才开。
 be freezing = 冷得要命
@@ -29301,8 +29293,7 @@ A fresh-faced recruit signed for three years and stayed for thirty.
 
 freshen
 /ˈfreʃən/
-核心：三支。一是使清新、换气：freshen the room；二是（风）变强：the wind freshens；
-三是 freshen up，梳洗一下。
+核心：两支。一是使清新、换气：freshen the room；二是（风）变强：the wind freshens。
 ① Open both windows for ten minutes and the room freshens by itself.
 = 两扇窗开十分钟，屋里自己就清爽了。
 freshen the room = 让屋里清爽
@@ -29466,8 +29457,8 @@ a fretwork of branches = 交错的枝影
 
 Freudian
 /ˈfrɔɪdiən/
-核心：三支。一是弗洛伊德学说的：a Freudian reading；
-二是习语 a Freudian slip，说漏嘴；三是弗洛伊德学派的人。
+核心：两支。一是弗洛伊德学说的：a Freudian reading；
+二是弗洛伊德学派的人。
 ① A Freudian reading of that poem says more about the reader.
 = 对那首诗做弗洛伊德式解读，说出的多半是读者自己。
 a Freudian reading = 弗洛伊德式解读
@@ -29761,8 +29752,7 @@ make a frieze = 做一幅长条画
 
 frigate
 /ˈfrɪɡət/
-核心：三支。一是护卫舰；二是（历史）三桅快速帆船；
-三是 a frigate bird，军舰鸟。
+核心：两支。一是护卫舰；二是（历史）三桅快速帆船。
 ① A frigate escorted the convoy and left it twelve miles out.
 = 一艘护卫舰护送船队，到十二海里外就走了。
 a frigate = 护卫舰
@@ -29980,7 +29970,6 @@ fringe
 /frɪndʒ/
 核心：四支。一是（英）刘海：cut your fringe；二是（衣物、地毯的）流苏；
 三是边缘、外围：on the fringe of something；四是（团体、剧场的）边缘、非主流。
-习语 a fringe benefit 是附加福利。
 ① She cuts her own fringe and blames the mirror twice a year.
 = 她自己剪刘海，一年怪两次镜子。
 cut your fringe = 剪刘海
@@ -30114,8 +30103,8 @@ count fritillaries = 清点贝母花
 
 fritter
 /ˈfrɪtə(r)/
-核心：三支。一是油炸馅饼、炸块：an apple fritter；
-二是动词短语 fritter away，一点点浪费掉（钱、时间）；三是（复数）一盘炸块。
+核心：两支。一是油炸馅饼、炸块：an apple fritter；
+二是（复数）一盘炸块。
 ① An apple fritter costs a pound and is mostly batter.
 = 一个苹果炸饼一镑，大半是面糊。
 an apple fritter = 苹果炸饼
@@ -30230,8 +30219,8 @@ the to and fro = 来回往复
 
 frock
 /frɒk/
-核心：三支（略旧）。一是连衣裙：a summer frock；
-二是（教士的）长袍：a priest's frock；三是 frock coat，男式礼服长外套。
+核心：两支（略旧）。一是连衣裙：a summer frock；
+二是（教士的）长袍：a priest's frock。
 ① A summer frock hangs in the wardrobe from October to May.
 = 一条夏天的连衣裙，从十月到五月挂在衣柜里。
 a summer frock = 夏天的连衣裙
@@ -30423,10 +30412,10 @@ fronds of seaweed = 海藻的叶片
 
 front
 /frʌnt/
-核心：五支。一是前面：in front of；二是（建筑的）正面：the front of a house；
-三是（气象）锋面：a cold front；四是掩人耳目的幌子：a front for something；
-五是形容词，前面的：the front row。
-习语：up front 预先付、也指直截了当；a front runner 领跑者、热门人选。
+核心：五支。一是前面：in front of；二是（建筑的）正面：
+the front of a house；三是（气象）锋面：a cold front；四
+是掩人耳目的幌子，后接 for；五是形容词，前面的：the
+front row。习语：up front 预先付、也指直截了当。
 ① He parked in front of the gate and blocked it for two hours.
 = 他停在门前，把门堵了两个钟头。
 in front of = 在…前面
@@ -30498,7 +30487,7 @@ The frontage road runs beside the motorway and serves four petrol stations.
 
 frontal
 /ˈfrʌntəl/
-核心：三支。一是正面的：a frontal attack；二是（解剖）额部的：the frontal lobe；
+核心：三支。一是正面的：a frontal attack；二是（解剖）额部的；
 三是（气象）锋面的。副词 frontally 并入本条。
 ① A frontal attack on that position costs more than going round it.
 = 正面强攻那个阵地，代价比绕过去大。
@@ -30723,8 +30712,8 @@ be frothy = 轻飘没分量
 
 frown
 /fraʊn/
-核心：三支。一是皱眉：frown at somebody；二是名词，皱起的眉头：a deep frown；
-三是 frown on something，不赞成。
+核心：三支。一是皱眉：frown at somebody；二是名词，皱起
+的眉头：a deep frown；三是后接 on，不赞成。
 ① She frowned at the bill and paid it without a word.
 = 她对着账单皱了皱眉，一句话没说就付了。
 frown at somebody = 对某人皱眉
@@ -31132,9 +31121,8 @@ fuchsia pink = 紫红色
 
 fuck
 /fʌk/
-核心：三支（最粗的一级，认得出即可，日常写作避用）。
-一是 fuck off，叫人滚开；二是 fuck up，搞砸；三是单用作发泄的感叹。
-它同时也是指性交的粗词。
+核心：最粗的一级，认得出即可，日常写作避用。
+单用作发泄的感叹；它同时也是指性交的粗词。
 ① He told them to fuck off and lost the contract that same morning.
 = 他叫他们滚，当天上午就丢了合同。
 fuck off = 滚开
@@ -32530,9 +32518,8 @@ go furry = 发涩发毛
 
 further
 /ˈfɜːðə(r)/
-核心：四支。一是更远（far 的比较级）：walk further；
-二是进一步的、更多的：further information；三是动词，促进：further a career；
-四是 further to，（公文）关于前述。
+核心：三支。一是更远（far 的比较级）：walk further；
+二是进一步的、更多的：further information；三是动词，促进：further a career。
 ① They walked further than the map suggested and arrived in the dark.
 = 他们走得比地图上远，天黑才到。
 walk further = 走得更远
@@ -32781,8 +32768,9 @@ a fusionist argument = 主张融合的论点
 
 fuss
 /fʌs/
-核心：三支。一是大惊小怪、无谓的忙乱：make a fuss；
-二是抗议、闹一场：kick up a fuss；三是 fuss over somebody，过分张罗照顾。
+核心：三支。一是大惊小怪、无谓的忙乱：make a fuss；二是
+抗议、闹一场：kick up a fuss；三是后接 over 加人，过分张
+罗照顾。
 ① She made a fuss about the seat and moved twice more anyway.
 = 她为座位闹了一通，后来还是又换了两次。
 make a fuss = 大惊小怪
@@ -33091,7 +33079,7 @@ the fuzziness of a leaf = 叶片的绒毛
 fuzzy
 /ˈfʌzi/
 核心：三支。一是毛茸茸的：a fuzzy blanket；二是模糊不清的：a fuzzy picture；
-三是（概念、逻辑）不精确的：fuzzy logic。副词 fuzzily 并入本条。
+三是（概念、逻辑）不精确的。副词 fuzzily 并入本条。
 ① A fuzzy blanket picks up everything the cat has ever walked on.
 = 一条毛茸茸的毯子，会粘上猫走过的一切。
 a fuzzy blanket = 毛茸茸的毯子
@@ -33249,8 +33237,8 @@ a gaboon viper = 加蓬咝蝰
 
 gad
 /ɡæd/
-核心：三支（非正式，略旧）。一是 gad about，四处闲逛玩乐；
-二是（贬）不着家地乱跑；三是感叹词 by gad，天哪。
+核心：两支（非正式，略旧）。一是（贬）不着家地乱跑；
+二是感叹词 by gad，天哪。
 ① They gad about all summer and settle down in the wet months.
 = 他们整个夏天四处玩，到雨季才安定下来。
 gad about = 四处闲逛
@@ -33914,8 +33902,8 @@ a galloping infection = 来势凶猛的感染
 
 gallows
 /ˈɡæləʊz/
-核心：三支。一是绞刑架：send somebody to the gallows；
-二是绞刑这种刑罚；三是 gallows humour，苦中作乐的黑色幽默。
+核心：两支。一是绞刑架：send somebody to the gallows；
+二是绞刑这种刑罚。
 ① The gallows stood in that square and the square is now a car park.
 = 绞刑架当年立在那个广场上，广场如今是停车场。
 the gallows = 绞刑架
@@ -34026,8 +34014,8 @@ a gambit = 一着棋
 
 gamble
 /ˈɡæmbəl/
-核心：三支。一是赌博：gamble on horses；二是冒险一搏：a gamble on something；
-三是 gamble away，赌光输掉。
+核心：三支。一是赌博：gamble on horses；二是名词，冒险一
+搏；三是后接 away，赌光输掉。
 ① He gambles on horses and keeps a notebook nobody is allowed to read.
 = 他赌马，记着一个不许别人看的本子。
 gamble on something = 赌某事
@@ -34431,8 +34419,9 @@ the goose and the gander = 母鹅与公鹅
 
 gang
 /ɡæŋ/
-核心：四支。一是帮派、团伙：a street gang；二是（一伙）朋友：the whole gang；
-三是（工人的）班组：a gang of labourers；四是 gang up on somebody，联合起来对付某人。
+核心：四支。一是帮派、团伙：a street gang；二是（一伙）
+朋友：the whole gang；三是（工人的）班组：a gang of
+labourers；四是后接 up on 加人，联合起来对付某人。
 ① A street gang runs that estate and the police come twice a year.
 = 一个街头帮派把持着那片小区，警察一年来两回。
 a street gang = 街头帮派
@@ -34684,7 +34673,7 @@ the gaoler's room = 狱卒的房间
 
 gap
 /ɡæp/
-核心：四支。一是缺口、空隙：a gap in the hedge；二是（时间上的）间隔：a gap year；
+核心：四支。一是缺口、空隙：a gap in the hedge；二是（时间上的）间隔；
 三是差距：the gap between two things；四是（知识、记录上的）空白。
 习语：bridge the gap 弥合差距；a generation gap 代沟。
 ① A gap in the hedge is how everything gets into that garden.
@@ -35056,7 +35045,7 @@ a garland = 荣誉
 garlic
 /ˈɡɑːlɪk/
 核心：三支。一是大蒜：a clove of garlic；二是蒜味；
-三是形容词性用法，蒜味的：garlic bread。
+三是形容词性用法，蒜味的。
 ① A clove of garlic in that dish is doing all of the work.
 = 那道菜里一瓣蒜，把活儿全干了。
 a clove of garlic = 一瓣蒜
@@ -35716,7 +35705,7 @@ be a gatecrasher = 硬挤进来的人
 
 gated
 /ˈɡeɪtɪd/
-核心：三支。一是设门禁的：a gated community；
+核心：三支。一是设门禁的；
 二是（道路）设闸口的；三是（学生）被禁足的。
 ① A gated community keeps out everybody except the people who live there.
 = 封闭式小区把除住户外的所有人都挡在外面。
@@ -36399,8 +36388,8 @@ geckos = 壁虎
 
 gee
 /dʒiː/
-核心：三支（非正式）。一是表示惊讶或赞叹的感叹：gee, that was quick；
-二是 gee up，催马快走；三是（美）gee whizz 那类温和的惊叹。
+核心：两支（非正式）。一是表示惊讶或赞叹的感叹：gee, that was quick；
+二是（美）gee whizz 那类温和的惊叹。
 ① Gee, that was quicker than anybody expected.
 = 哎呀，这比谁想的都快。
 gee = 哎呀
@@ -36604,8 +36593,8 @@ geminates = 叠音形式
 
 gen
 /dʒen/
-核心：三支（英，非正式）。一是内情、要点：the gen on something；
-二是动词短语 gen up，事先弄清楚；三是（军队用语）情况通报。
+核心：两支（英，非正式）。一是内情、要点：the gen on something；
+二是（军队用语）情况通报。
 ① Give me the gen on that supplier before I ring them.
 = 我给那家供应商打电话之前，先跟我说说他们的底细。
 the gen on something = 关于某事的内情

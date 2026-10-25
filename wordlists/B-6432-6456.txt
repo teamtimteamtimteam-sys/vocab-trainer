@@ -69,7 +69,7 @@ a disjunction = 析取式（逻辑）
 
 disk
 /dɪsk/
-核心：计算机存储那一支的写法：a hard disk 硬盘，a disk drive 驱动器。
+核心：计算机存储那一支的写法：a hard disk 硬盘。
 可数。英式在别的义项上写 disc（唱片、椎间盘），存储这一支两边都写 disk。
 软盘叫 a diskette，也叫 a floppy disk，如今只在旧设备与档案里见得到。
 ① The hard disk failed on a Friday and the backup was three weeks old.

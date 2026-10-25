@@ -17,12 +17,10 @@ lead
 核心：两个不同的词，拼法相同。
 其一读如 leed：带领、领路；通向；导致（lead to）；领先；过（某种生活）；领导。过去式、过去分词 led。
 名词：领先地位（in the lead、take the lead）；榜样、带头；线索；主角；（英）牵狗的绳子；（英）电线。
-短语动词：lead to（导致；通向）、lead up to（是…的前奏；把话引向）、lead on（哄骗、让人抱空想）、
-lead off（开头、打头阵）、lead with（把…放在头条；以…开头）。
+短语动词 lead to（导致；通向）。
 习语：lead the way（带路；领先）、lead astray（带坏、引入歧途）。
-搭配：lead story（头条新闻）、lead time（从下单到交货的周期）、lead-in（开场白、引子）、lead guitar（主音吉他）。
 其二读如 led：铅 —— 一种重而软的灰色金属；铅笔芯。
-形容词 leaded（含铅的；镶铅条的）与 lead-free（无铅的）、lead shot（铅弹丸）、leaded light（铅条镶嵌的小窗格）并入本条。
+形容词 leaded（含铅的；镶铅条的）与 leaded light（铅条镶嵌的小窗格）并入本条。
 ① The guide led us through the forest to the waterfall.
 = 向导带我们穿过森林去看瀑布。
 lead somebody to a place = 带某人去某处
@@ -125,6 +123,7 @@ leaden
 ① Snow began to fall from a leaden sky in the late afternoon.
 = 傍晚时分，雪从铅灰色的天空中落下来。
 a leaden sky = 铅灰色的天空
+多放在名词前作定语。
 ② She climbed the stairs with leaden feet after the long shift.
 = 上完漫长的一班，她拖着灌了铅似的双脚爬上楼梯。
 leaden feet = 灌了铅似的脚
@@ -136,7 +135,7 @@ leaden dialogue = 沉闷的对白
 leader
 /ˈliːdə(r)/
 核心：领导者、领袖；（比赛、行业里）领先的人或公司；（英）报纸的社论。
-形容词 leaderless（群龙无首的）与 leader board（比赛的排行榜）并入本条。
+形容词 leaderless（群龙无首的）并入本条。
 ① She was elected leader of the party at the age of forty.
 = 她四十岁当选为该党领袖。
 the leader of a party = 党的领袖
@@ -181,9 +180,6 @@ the party leadership = 党的领导层
 leading
 /ˈliːdɪŋ/
 核心：最重要的、一流的；领先的、最前面的 —— 只用在名词前。
-搭配：leading lady / man（女主角 / 男主角）、leading light（重要人物、骨干）、leading question（诱导性问题）、
-leading edge（最前沿）、leading article（英：社论）；
-军衔 leading seaman（海军上等兵）、leading aircraftman / aircraftwoman（英国空军一等兵）。
 ① She is one of the country's leading experts on heart disease.
 = 她是该国心脏病方面的顶尖专家之一。
 a leading expert = 顶尖专家
@@ -221,9 +217,8 @@ a leading aircraftman = （英国空军）一等兵
 leaf
 /liːf/
 核心：叶子；（书的）一张、一页（正反两面）；（桌子的）活动面板。复数 leaves。
-短语动词 leaf through（匆匆翻阅）。
 习语：turn over a new leaf（改过自新、翻开新的一页）、take a leaf out of somebody's book（学某人的样）。
-形容词 leafy（多叶的；绿树成荫的）、leafless（光秃秃没有叶子的）与 leaf mould（腐叶土）并入本条。
+形容词 leafy（多叶的；绿树成荫的）与 leafless（光秃秃没有叶子的）并入本条。
 ① A single yellow leaf fell from the tree onto the path.
 = 一片黄叶从树上飘落到小路上。
 a leaf = 一片叶子
@@ -269,12 +264,12 @@ the leaflet that comes with the medicine = 随药附的说明书
 = 选举前，志愿者给那一带的每户人家都发了传单。
 leaflet an area = 在某地区发传单
 -let 表示「小」：小叶子，引申为小单张。
+作动词时是及物的，宾语是地区或住户。
 
 league
 /liːɡ/
 核心：（体育）联赛、联盟；（国家、团体结成的）联盟、同盟；（口语）水平、档次。
 习语：in league with（与…勾结）、out of your league（高攀不上、不是一个档次）、not in the same league（不能相提并论）。
-league table（英：联赛积分榜；各机构的排名表）并入本条。
 ① The club was promoted to the top league last season.
 = 那家俱乐部上赛季升入了顶级联赛。
 the top league = 顶级联赛
@@ -302,7 +297,7 @@ league tables of schools = 学校排名表
 leak
 /liːk/
 核心：漏 —— （容器、屋顶）漏水漏气；（液体、气体）漏出来；泄露（机密）。名词：漏洞、裂缝；泄漏；泄密。
-短语动词 leak out（消息走漏）。名词 leakage（泄漏、漏出量）与形容词 leaky（漏的）并入本条。
+名词 leakage（泄漏、漏出量）与形容词 leaky（漏的）并入本条。
 ① The roof leaks every time it rains hard.
 = 一下大雨，屋顶就漏。
 the roof leaks = 屋顶漏水
@@ -336,7 +331,6 @@ lean
 /liːn/
 核心：倾斜、探身、弯腰；倚、靠（lean against / on）。过去式 leaned，英式也用 leant。
 形容词：（人）精瘦的；（肉）瘦的；（时期）不景气的、歉收的；（机构）精简的。
-短语动词：lean on（依靠；口语：施压）、lean towards（倾向于，美式多写 lean toward）、lean to（偏向）。
 名词 leaning（倾向、偏好）与 leanness（精瘦）并入本条。
 ① She leaned out of the window to wave goodbye.
 = 她探出窗外挥手告别。
@@ -385,9 +379,8 @@ leanness = 精瘦
 leap
 /liːp/
 核心：跳、跃 —— 跳得高或远；猛地一动；（数量、价格）猛增。过去式 leapt 或 leaped。名词：跳跃；飞跃、剧增。
-短语动词 leap at（迫不及待地抓住机会）。
 习语：by leaps and bounds（突飞猛进）、a leap in the dark（冒险之举）、a leap of faith（放手一搏、姑且一信）、
-your heart leaps（心头一喜）。leap year（闰年）并入本条。
+your heart leaps（心头一喜）。
 ① The dog leapt over the fence and ran across the field.
 = 那条狗跃过篱笆，跑过了田野。
 leap over a fence = 跃过篱笆
@@ -489,6 +482,7 @@ learned
 ① She is a learned woman who has written books on Greek history.
 = 她是位博学的女士，写过希腊史方面的书。
 a learned woman = 博学的女士
+这一支多放在名词前作定语。
 ② The article first appeared in a learned journal.
 = 那篇文章最早发表在一份学术期刊上。
 a learned journal = 学术期刊
@@ -499,8 +493,7 @@ a learned response = 后天习得的反应
 
 learning
 /ˈlɜːnɪŋ/
-核心：学习（这一过程）；学问、学识。
-搭配 learning disability（学习障碍）、learning difficulties（英：学习困难）并入本条；习语 a learning curve（学习曲线、上手的难度）。
+核心：学习（这一过程）；通过学习得来的学问、学识。
 ① The school uses games to make learning fun for the youngest pupils.
 = 那所学校用游戏让最小的学生觉得学习有趣。
 make learning fun = 让学习有趣
@@ -582,7 +575,6 @@ least
 核心：最少的、最小的（little 的最高级）；副词：最不。
 习语：at least（至少；起码）、not in the least（一点也不）、least of all（尤其不）、
 to say the least（说得客气点、至少可以这么说）、the least you can do（起码该做的）。
-数学术语 least common multiple（最小公倍数）、least common denominator（最小公分母）并入本条。
 ① He did the least work of anyone in the group but took most of the praise.
 = 组里就数他干的活最少，夸奖却大半归了他。
 the least work = 最少的活
@@ -647,11 +639,9 @@ leave
 /liːv/
 核心：离开；留下、丢下、忘带；让…保持某状态；把…留给、交给；剩下；遗赠。过去式、过去分词 left。
 名词：假期、休假（on leave）；（正式）许可。
-短语动词：leave behind（丢下；把…甩在后面）、leave out（漏掉、不包括）、leave off（停止；英：不再穿）、
-leave aside（撇开不谈）。
 习语：leave alone（别碰、别打扰）、leave it at that（到此为止）、leave a lot to be desired（很不理想）、
 take your leave（正式：告辞）。
-名词 leaver（离校生）、leavings（残羹剩饭）、leave-taking（告别）并入本条。
+名词 leaver（离校生）与 leavings（残羹剩饭）并入本条。
 ① The train leaves at six, so we should be at the station by half past five.
 = 火车六点开，我们应该五点半前到车站。
 the train leaves = 火车开出
@@ -746,10 +736,11 @@ a Lebanese restaurant = 黎巴嫩餐馆
 ② Many Lebanese moved to Brazil and West Africa in the last century.
 = 上个世纪，许多黎巴嫩人迁到了巴西和西非。
 the Lebanese = 黎巴嫩人
+the Lebanese 指全体黎巴嫩人，谓语动词用复数。
 
 lech
 /letʃ/
-核心：（英，口语，贬）色鬼；动词 lech after（色眯眯地打…的主意）。
+核心：（英，口语，贬）色鬼。
 名词 lecher（好色之徒）、lechery（好色）与形容词 lecherous（好色的）并入本条。
 ① The women in the office all knew that the manager was an old lech.
 = 办公室里的女人都知道经理是个老色鬼。
@@ -773,6 +764,7 @@ lectern
 ① The speaker put her notes on the lectern and waited for silence.
 = 讲演者把讲稿放在讲台上，等大家安静下来。
 on the lectern = 放在讲台上
+讲台是斜面的架子，讲话的人站在它后面。
 ② The Bible lay open on a brass lectern shaped like an eagle.
 = 《圣经》摊开放在一个鹰形的黄铜诵经台上。
 a brass lectern = 黄铜诵经台

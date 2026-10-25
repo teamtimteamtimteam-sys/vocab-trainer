@@ -1,7 +1,6 @@
 litter
 /ˈlɪtə(r)/
 核心：（公共场所乱扔的）垃圾、废弃物；（猫、狗等的）一窝幼崽；猫砂。动词：乱扔垃圾；（东西）散落在…上。
-litter bin（英：街上的垃圾箱）与 litter lout（英，口语：乱扔垃圾的人）并入本条。
 ① The park was full of litter after the concert.
 = 音乐会之后，公园里满是垃圾。
 full of litter = 满是垃圾
@@ -29,8 +28,7 @@ little
 核心：小的；年幼的；（时间、距离）短的；不重要的。带感情色彩（可爱、可怜），这是它和 small 的不同。
 限定词、代词：a little（一点，肯定）；little（几乎没有，否定）。副词：很少、几乎不。比较级 less，最高级 least。
 习语：a little bit（一点点）、little by little（一点一点地）、little did I know（我一点也没想到）。
-搭配：little finger（小指）、the little people（小人物、平民百姓；传说里的小精灵）、little person（身材矮小的人，中性说法）、
-little black dress（小黑裙）、little owl（纵纹腹小鸮）。名词 littleness（小）并入本条。
+名词 littleness（小）并入本条。
 ① They live in a little house at the end of the lane.
 = 他们住在小路尽头的一座小房子里。
 a little house = 小房子
@@ -88,6 +86,7 @@ littoral
 ① The littoral states met to discuss fishing rights in the sea.
 = 沿海各国开会讨论那片海域的捕鱼权。
 littoral states = 沿海国家
+只作定语，多见于地理、军事等专业语境。
 ② Most of the country's people live on the narrow littoral between the mountains and the sea.
 = 那个国家的人大多住在山海之间狭窄的沿海地带。
 the littoral = 沿海地带
@@ -99,6 +98,7 @@ liturgy
 ① The liturgy was sung in Latin until the 1960s.
 = 直到二十世纪六十年代，礼拜仪式都用拉丁语咏唱。
 the liturgy = 礼拜仪式
+也可数，指某一教会的一整套礼仪。
 ② The choir sings liturgical music by composers of the sixteenth century.
 = 唱诗班演唱十六世纪作曲家的礼仪音乐。
 liturgical music = 礼仪音乐
@@ -110,13 +110,8 @@ live
 /lɪv/（动）/laɪv/（形、副）
 核心：两个读音。
 动词读如 liv：住、居住；活着；过（某种生活）。
-短语动词：live on（靠…过活；以…为食；继续存在）、live off（靠…养活）、live by（靠…谋生，live by doing；
-遵循（原则））、live for（为…而活）、live with（和…同住；忍受、接受）、live together（同居；一起住）、
-live in（住在工作、学习的地方）、live out（不住在工作的地方；过完（余生）；实现（梦想））、
-live through（经历过、熬过）、live down（让人淡忘（丑事））、live up to（不辜负、达到）。
 习语：live and let live（互相宽容、各过各的）、live it up（口语：尽情享乐）。
 形容词、副词读如 laiv：活的；现场直播的、现场演出的；带电的；实弹的。
-搭配：live action（真人实拍）、live blog（实时博客）、live feed（实时信号、直播流）、live stream（网络直播）。
 ① She lives in a small flat near the university.
 = 她住在大学附近的一套小公寓里。
 live in a flat = 住在公寓里
@@ -223,6 +218,7 @@ liveable
 ① The new park has made the city centre more liveable.
 = 新公园让市中心更宜居了。
 a liveable city = 宜居的城市
+常见于城市规划、城市排名类报道。
 ② The house is old and cold, but it is liveable.
 = 那座房子又旧又冷，不过还住得了人。
 be liveable = 住得了人
@@ -247,6 +243,7 @@ livelihood
 ① Fishing is the main livelihood of the people on the island.
 = 捕鱼是岛上居民的主要生计。
 the main livelihood = 主要生计
+正式用语，多见于新闻和经济发展类报道。
 ② Thousands of farmers lost their livelihoods when the dam was built.
 = 修大坝时，成千上万的农民失去了生计。
 lose your livelihood = 失去生计
@@ -287,10 +284,11 @@ liveliness = 活泼、欢快
 
 liven
 /ˈlaɪvən/
-核心：liven up —— （使）活跃起来、热闹起来、有生气。
+核心：（使）活跃起来、热闹起来、有生气。
 ① A few jokes about your school days will liven up the wedding speech.
 = 讲几个你上学时的笑话，会让那篇婚礼致辞生动起来。
 liven up = 使活跃起来
+几乎总和 up 连用，很少单独出现。
 ② The party was quiet at first but livened up when the band arrived.
 = 聚会起初冷冷清清，乐队一到就热闹起来了。
 the party livens up = 聚会热闹起来
@@ -300,10 +298,11 @@ liven up a room = 让屋子有生气
 
 liver
 /ˈlɪvə(r)/
-核心：肝脏；（食用的）动物肝。liver sausage（英：肝肠）与 liver spot（老年斑）并入本条。
+核心：肝脏，人和动物体内的器官；（食用的）动物肝。
 ① Drinking too much alcohol over many years damages the liver and the heart.
 = 多年饮酒过量会伤肝伤心脏。
 damage the liver = 伤肝
+说器官时可数，说食物时不可数。
 ② We had liver and onions with mashed potato for dinner at my grandmother's house.
 = 我们在奶奶家晚饭吃的是洋葱炒肝配土豆泥。
 liver and onions = 洋葱炒肝
@@ -329,7 +328,6 @@ a Liverpudlian accent = 利物浦口音
 livery
 /ˈlɪvəri/
 核心：（仆人、侍从的）制服；（公司车辆、飞机的）统一涂装。形容词 liveried（穿制服的）并入本条。
-搭配：livery stable / livery yard（寄养、出租马匹的马房）、livery company（伦敦的同业公会）。
 ① A doorman in green livery opened the door of the hotel.
 = 一位身穿绿色制服的门童打开了酒店的门。
 in livery = 穿着制服
@@ -353,6 +351,7 @@ livestock
 ① The farmer keeps livestock on the hills as well as growing wheat in the valley.
 = 那位农夫既在山谷里种小麦，也在山上养牲畜。
 keep livestock = 养牲畜
+词尾不加 -s，没有单数形式，说一头要用具体的畜名。
 ② Many livestock were lost when the floods covered the fields beside the river.
 = 洪水淹没河边的田地时，损失了许多牲畜。
 lose livestock = 损失牲畜
@@ -364,6 +363,7 @@ livid
 ① Dad was livid when he saw the scratch on the car.
 = 老爸看见车上的划痕，气得发疯。
 be livid = 怒不可遏
+这一支多作表语，不放在名词前。
 ② She had a livid bruise on her arm where the ball had hit her.
 = 她胳膊上被球砸中的地方有一块青紫的瘀伤。
 a livid bruise = 青紫的瘀伤
@@ -374,8 +374,6 @@ living
 核心：活着的、现存的；名词：生计、谋生的收入；生活方式；the living（活着的人）。
 习语：make a living（谋生）、earn a living（挣钱糊口）、in living memory（在人们的记忆里）、
 the cost of living（生活费用）、the standard of living（生活水平）。
-搭配：living room（客厅）、living wage（够生活的工资）、living will（生前预嘱）、living roof（绿植屋顶）、
-living wall（绿植墙）、a living death（生不如死的日子）。
 ① She is one of the greatest living writers in the Spanish language.
 = 她是在世的最伟大的西班牙语作家之一。
 a living writer = 在世的作家
@@ -447,7 +445,7 @@ llamas spit = 大羊驼吐口水
 lo
 /ləʊ/
 核心：（古）看哪 —— 今天只用于 lo and behold（谑：你瞧、说来也巧）。
-另有前缀 lo-：low 的非正式拼法，见于 lo-cal（低热量的）、lo-res（低分辨率的）、lo-tech（技术含量低的）。
+另有前缀 lo-：low 的非正式拼法。
 ① I had just sat down to eat when, lo and behold, the telephone rang.
 = 我刚坐下来吃饭，你瞧，电话响了。
 lo and behold = 你瞧、说来也巧
@@ -469,7 +467,7 @@ load
 核心：（车、船、人运载的）货物、一车（一船）的量；负担、工作量；（口语）大量。动词：装（货）、装载；
 给（枪）装子弹、给（相机）装胶卷；（计算机）加载。
 习语：a load of / loads of（口语：很多）、a load of rubbish（英，口语：一派胡言）、get a load of（口语：瞧瞧）、
-a load off your mind（心头一块石头落地）。短语动词 load down（使负重、压得喘不过气），也说 load up。
+a load off your mind（心头一块石头落地）。短语动词 load up（使负重、压得喘不过气）。
 形容词 loaded（装满的；上了膛的；话里有话的；口语：很有钱的）与名词 loading（装载）并入本条。
 ① The lorry was carrying a load of bricks to the building site by the river.
 = 那辆卡车拉着一车砖去河边的建筑工地。
@@ -560,7 +558,7 @@ loamy soil = 壤质土
 loan
 /ləʊn/
 核心：贷款、借款；借出、出借。动词：借出（美式常用；英式多说 lend）。习语 on loan（借来的、借调的）。
-名词 loanword（外来词、借词）、loaner（美：修车期间借给顾客用的车）与 loan shark（放高利贷的人）并入本条。
+名词 loanword（外来词、借词）与 loaner（美：修车期间借给顾客用的车）并入本条。
 ① They took out a loan to buy the car.
 = 他们贷款买了那辆车。
 take out a loan = 贷款

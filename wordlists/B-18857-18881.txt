@@ -149,7 +149,7 @@ remission of fees = 免除费用
 
 remit
 /ˈriːmɪt/（名）/rɪˈmɪt/（动）
-核心：名词，单数，重音在前：（英式）职权范围、职责：within the remit of。动词，过去式 remitted，重音在后：（正式）汇款、寄钱；免除（债务、处罚）；remit to 是把（问题、案子）提交给（机构）。
+核心：名词，单数，重音在前：（英式）职权范围、职责：within the remit of。动词，过去式 remitted，重音在后：（正式）汇款、寄钱；免除（债务、处罚）。
 名词 remittance 是汇款，见另条。
 ① Questions of pay are outside the remit of this committee.
 = 薪酬问题不在本委员会职权范围之内。
@@ -270,8 +270,8 @@ remortgage = 重新办按揭
 remote
 /rɪˈməʊt/
 核心：形容词，比较级 remoter 或 more remote。一是偏远的、遥远的：a remote village；二是（时间上）久远的：the remote past；三是（关系）远的、关系不大的；
-四是（可能性）极小的、微乎其微的：a remote chance；五是冷淡的、疏远的：a remote manner；六是远程的、遥控的：remote control。名词，可数：（口语）遥控器。
-复合词：remote control 是遥控、遥控器；remote work 是远程办公；remote-controlled 是遥控的；remote sensing 是遥感。
+四是（可能性）极小的、微乎其微的：a remote chance；五是冷淡的、疏远的：a remote manner；六是远程的、遥控的。名词，可数：（口语）遥控器。
+复合词 remote work 是远程办公。
 ① They live in a remote village high in the mountains, two hours from the nearest town.
 = 他们住在高山上一个偏远的村子里，离最近的镇子两个小时。
 a remote village = 偏远的村子
@@ -355,7 +355,7 @@ a removable lining = 可拆卸的衬里
 
 removal
 /rɪˈmuːvl/
-核心：可数也可不可数。一是移走、去除、拆除：the removal of；二是免职、撤职；三是（英式）搬家、迁居：removal van 是搬家车。
+核心：可数也可不可数。一是移走、去除、拆除：the removal of；二是免职、撤职；三是（英式）搬家、迁居。
 ① The removal of the old trees made the garden much brighter.
 = 移走那几棵老树之后，园子亮堂多了。
 the removal of something = 某物的移走

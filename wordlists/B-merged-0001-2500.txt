@@ -975,8 +975,8 @@ abhor = 憎恶（人的动作）
 
 abide
 /əˈbaɪd/
-核心：现在主要活在两个搭配里：abide by（遵守规则）和 can't abide
-（受不了）。单独作"居住"讲已经很古旧，只在文学里出现。
+核心：现在主要活在 can't abide（受不了）这个搭配里。
+单独作"居住"讲已经很古旧，只在文学里出现。
 ① You must abide by the rules even where they make no sense at all.
 = 规则再没道理你也必须遵守。
 abide by = 遵守
@@ -2003,8 +2003,7 @@ a leave of absence = 请假
 absent
 /ˈæbsənt/（形）/æbˈsent/（动）
 核心：形容词义是"缺席的、不在的"；另有一个动词用法 absent
-oneself，很正式，指"故意不出席"。还有一层"心不在焉"的意思，
-常写成 absent-minded。
+oneself，很正式，指"故意不出席"。还有一层"心不在焉"的意思。
 ① Three students were absent today and two of them are always absent.
 = 今天有三名学生缺席，其中两个是常缺的。
 be absent from = 缺席
@@ -2046,8 +2045,7 @@ distracted = 分心（一时）
 
 absentee
 /ˌæbsənˈtiː/
-核心：指该到而没到的人。三个高频搭配：absentee landlord（不住在
-当地的房东）、absentee ballot（缺席选票，美式）、absentee rate。
+核心：指该到而没到的人。常见搭配是 absentee rate。
 ① The absentee was marked down in a register nobody ever checked.
 = 缺席者被记在一本从没人查的名册上。
 ② He is an absentee landlord and has seen the building twice.
@@ -3860,7 +3858,7 @@ account
 /əˈkaʊnt/
 核心：底层是"把事情一条条交代清楚"，交代的对象不同就分出两大支。
 交代钱，就是账户、账目、账单；交代事，就是叙述、说明、解释。
-动词只走"交代"这一支：account for 是给出交代，交代数量就成了
+动词只走"交代"这一支：给出交代，交代数量就成了
 "占多少比例"。第三支是从"客户的账"引申出的行业用法，指客户本身。
 ① I opened a bank account with the twelve pounds I had on me.
 = 我用身上仅有的十二镑开了个银行账户。
@@ -4595,8 +4593,7 @@ acetic = 醋酸的
 
 acetic
 /əˈsiːtɪk/
-核心：化学形容词，"醋酸的"。最常见的搭配是 acetic acid
-（醋酸，食醋的主要成分）。
+核心：化学形容词，"醋酸的"。用来说跟醋酸有关的物质与反应。
 ① Vinegar contains acetic acid and about ninety-five per cent water.
 = 醋含有醋酸，还有大约百分之九十五的水。
 acetic acid = 醋酸
@@ -4826,8 +4823,7 @@ acid
 核心：一个化学概念长出三条线。化学本义是"酸"，与碱相对，性质是
 "腐蚀"。腐蚀这个性质往两头走：往物质走是形容词"酸的、有腐蚀性的"，
 往人走就是比喻义"说话尖刻"——话像酸一样蚀人。第三条线是俚语，
-指迷幻药 LSD，六十年代由此带出 acid house、acid rock 一整族词，
-那一族里的 acid 都指"迷幻感"，跟化学没关系。
+指迷幻药 LSD，这条线里的 acid 都指"迷幻感"，跟化学没关系。
 ① Acid burns the skin and eats through cloth before you notice it.
 = 酸会灼伤皮肤，还没等你察觉就把布腐蚀穿了。
 化学本义，不可数；腐蚀性是后面所有引申的起点。
@@ -6531,9 +6527,7 @@ The old graphics adapter cannot drive two screens at that resolution.
 add
 /æd/
 核心：底层是"加上去"，加的是什么就分出哪一支。加数目是相加，
-加实物是添加，加话是"补充一句"。短语里最容易错的是 add up 一族：
-add up 是"加起来"，引申为"说得通"（数目对得上才合理）；
-add up to 后面必须跟结果，是"总计为、结果等于"。
+加实物是添加，加话是"补充一句"。
 ① Add two and three and you have the number of people who turned up.
 = 二加三，就是到场的人数。
 最本义：数目相加。
@@ -6973,7 +6967,7 @@ inadequately = 不充分地
 
 adhere
 /ədˈhɪə(r)/
-核心：两条线：物理上"粘附"，和抽象上"遵守、坚持"（adhere to）。
+核心：两条线：物理上"粘附"，和抽象上"遵守、坚持"。
 后者在正式文体里更常用，宾语是规则、原则、计划。
 ① The label adheres to the bottle but paint will not adhere to a wet wall.
 = 标签能粘在瓶子上，油漆却粘不住湿墙。
@@ -8401,8 +8395,8 @@ advance
 /ədˈvɑːns/
 核心：底层是"往前走"，走的是谁就分出哪一支。军队往前是"推进"，
 技术学问往前是"进步"，钱先走一步是"预付"。形容词义也从这里来：
-事先做的事就是走在前面的事，所以 advance copy 是样书、
-advance guard 是先头部队。in advance 就是"走在事情前面"，即提前。
+事先做的事就是走在前面的事，所以 advance copy 是样书。
+in advance 就是"走在事情前面"，即提前。
 ① The army advanced slowly and gave up the ground again by nightfall.
 = 军队缓慢推进，入夜前又把地盘丢了回去。
 军事本义。
@@ -9957,8 +9951,7 @@ negation = 否定
 affirmative
 /əˈfɜːmətɪv/
 核心：指"表示肯定的"。语法上与 negative 相对；口语里
-in the affirmative 是正式的"回答说是"。美式的
-affirmative action 指扶助弱势群体的政策。
+in the affirmative 是正式的"回答说是"。
 ① She answered in the affirmative and the clerk wrote it down word for word.
 = 她作了肯定答复，书记员一字不差记了下来。
 in the affirmative = 肯定地
@@ -10110,7 +10103,6 @@ affordably = 在价格上负担得起地
 affordable
 /əˈfɔːdəbəl/
 核心：指价格"负担得起的"，是房产、医疗、教育政策讨论的核心词。
-affordable housing 是高频固定搭配。
 ① They need affordable housing and the definition of it changes every few years.
 = 他们需要经济适用房，而这个词的定义每隔几年就变。
 affordable housing = 保障性住房
@@ -12180,7 +12172,7 @@ agonizing = 折磨人的（美式拼法）
 agony
 /ˈæɡəni/
 核心：指极度的痛苦，身体上或精神上都可以，程度比 pain 重得多。
-不可数为主。英式还有 agony aunt（报刊情感专栏作者）这个说法。
+不可数为主。
 ① He was in agony for three hours before anyone found the painkillers.
 = 他痛苦不堪熬了三个钟头，才有人找到止痛药。
 in agony = 极度痛苦中
@@ -12610,7 +12602,6 @@ ahem = 咳咳（清嗓子提醒别人）
 aha
 /ˌɑːˈhɑː/
 核心：感叹词，表示突然明白过来或抓到了什么。
-常见搭配 an aha moment（恍然大悟的一刻）。
 ① Aha! I found it — it was behind the books the whole time.
 = 啊哈，我找到了，原来一直在书后面。
 ② Aha, so that's why the second key never fitted anything.
@@ -12643,7 +12634,7 @@ atishoo = 阿嚏（英式）
 ahead
 /əˈhed/
 核心：底层是"在前面"。位置上在前，时间上在前（提前），排名上在前
-（领先）。ahead of 后面接名词，ahead 单用是副词。
+（领先）。ahead 单用是副词。
 ① Go straight ahead until the road runs out and then turn left.
 = 一直往前走，走到路尽头再左转。
 ② There's trouble ahead and everybody at this table can see it.
@@ -17072,8 +17063,8 @@ almshouse = 救济院（旧时收容贫老的房舍）
 
 aloe
 /ˈæləʊ/
-核心：一种叶片肥厚多汁的多肉植物，割开流出透明凝胶。最有名的是
-aloe vera，凝胶用来涂晒伤和做护肤品。可数也可不可数。
+核心：一种叶片肥厚多汁的多肉植物，割开流出透明凝胶，
+凝胶用来涂晒伤和做护肤品。可数也可不可数。
 ① She grows aloe on the windowsill and breaks a leaf off when anyone burns themselves.
 = 她在窗台上养着芦荟，谁烫着了就掰下一片叶子。
 ② Aloe gel soothes burns and does almost nothing for a deep wound.
@@ -17287,8 +17278,8 @@ alphorn = 阿尔卑斯长号（较短的拼法）
 alpha
 /ˈælfə/
 核心：底层是"打头的那一个"。它是希腊字母表的第一个字母，由此派生
-出一连串用法：群体里最强势的那个（alpha male）、软件最早放出的那版
-（alpha version）、统计里先定下的那个门槛（显著性水平）、放射性
+出一连串用法：群体里最强势的那个、软件最早放出的那版、
+统计里先定下的那个门槛（显著性水平）、放射性
 衰变里最先被发现的那种粒子。固定说法 alpha and omega 指始与终。
 ① Alpha is the first Greek letter and gives its name to the whole alphabet.
 = 那是希腊字母表的头一个字母，整个字母表的名字就从它来。
@@ -17840,7 +17831,6 @@ meter = 计量仪表
 altitude
 /ˈæltɪtjuːd/
 核心：指海拔高度或飞行高度。不可数为主，具体数值时可数。
-高原反应叫 altitude sickness。
 ① The plane climbed to high altitude to get above the weather.
 = 飞机爬升到高空，好越过那片天气。
 high altitude = 高海拔、高空
@@ -18661,7 +18651,6 @@ ambulance
 核心：指运送伤病员的急救车。词源是法语的"移动医院"——最早指
 随军的野战医院，后来才缩到车上，所以这个词的底子是"把救治送到
 现场去"。英式呼救说 call an ambulance，美式常直接说 call 911。
-派生的 ambulance chaser 是贬义行话，指专盯事故揽官司的律师。
 ① Call an ambulance and keep him talking until it gets here.
 = 快叫救护车，车到之前一直跟他说话。
 call an ambulance = 叫救护车
@@ -19492,8 +19481,7 @@ amortise = 摊销（英式）
 amount
 /əˈmaʊnt/
 核心：指不可数事物的"量"（金钱、时间、水），可数的东西要用
-number——an amount of people 是错的。动词 amount to 意为
-"总计、等同于"。
+number——an amount of people 是错的。
 ① A large amount of money was spent and the amount of work was huge.
 = 花掉了一大笔钱，工作量也极大。
 an amount of + 不可数名词
@@ -19510,7 +19498,7 @@ number of + 可数（people、books）
 amour
 /əˈmʊə(r)/
 核心：法语借词，指"风流韵事"——多半是秘密的、不正当的恋情，
-带点旧派或戏谑的口气。固定短语 amour propre 指"自尊心"。
+带点旧派或戏谑的口气。
 ① The diary hints at an old amour but never once gives the man a name.
 = 那本日记暗示过一段旧情，却始终没提那个人的名字。
 an old amour = 一段旧日情事
@@ -21314,7 +21302,7 @@ angle
 看出去的那条线就不同，于是本义直接长出"拍摄角度"和比喻的"视角"。
 动词有两支：一支是把东西"斜着放"（做出一个角），一支是"从某个
 角度做文章"，报道 angled at 某类读者就是这一支。另有一个同形异源的
-angle，意思是"钓鱼"，angle for 拐着弯谋求就是从钓鱼来的。
+angle，意思是"钓鱼"。
 ① The angle is 45 degrees and the whole roof depends on getting it right.
 = 这个角是四十五度，整个屋顶全看它准不准。
 几何本义。
@@ -22763,8 +22751,7 @@ answer
 核心：底层是"回应"，回应什么就分出哪一支。回应问题是"回答"，
 回应门铃电话是"应门、接电话"，回应难题是"解决办法"，回应指控
 是"辩解"。语法上有个硬点：answer 直接接宾语，不加 to——
-说 answer the question 不说 answer to it；answer to 是另一回事，
-意思是"对某人负责"。
+说 answer the question；加了 to 是另一回事，意思是"对某人负责"。
 ① Answer the question that was asked, not the one you would rather answer.
 = 回答问的那个问题，别答你更想答的那个。
 及物，中间不加介词。
@@ -23474,8 +23461,7 @@ anti
 核心：底层是"对着干、朝相反方向"。由此长出三种词性：作介词表示
 反对某事，作形容词表示持反对态度，作名词（多用复数）指反对的一方。
 它同时是构词能力极强的前缀，拼在别的词前面，视对象分成三路——
-反对某种主张（anti-Semitism）、抵抗某种东西（anti-inflammatory）、
-防住某种情况（anti-lock）。
+反对某种主张、抵抗某种东西、防住某种情况。
 ① She's anti the whole idea and has been from the start.
 = 她对整个想法都反对，从一开始就是。
 be anti something = 反对某事（介词用法）
@@ -24153,8 +24139,7 @@ opposed = 反对的（态度上）
 antitrust
 /ˌæntiˈtrʌst/
 核心：美式法律用语，指"反垄断的"——防止企业靠合并、串通或滥用
-支配地位来消灭竞争。英式说 competition law。名词化说法是
-antitrust legislation。
+支配地位来消灭竞争。英式说 competition law。
 ① The firm faces an antitrust suit brought by eleven states at once.
 = 那家公司面临一桩反垄断诉讼，十一个州一齐提起。
 antitrust suit = 反垄断诉讼
@@ -24632,8 +24617,6 @@ apart
 /əˈpɑːt/
 核心：底层是"分开、彼此有距离"。距离可以是空间上的（住得分开）、
 感情上的（疏远）、也可以是把整体拆散（拆开、散架）。
-apart from 是高频短语，两个方向都有：一是"除某项之外（不算它）"，
-二是"除某项之外（还有别的）"，靠句子的正负号判断。
 ① They live apart and have done for years without either of them minding.
 = 他们分居多年，两人都不在意。
 空间上有距离。
@@ -24698,7 +24681,7 @@ segregation = 隔离（通用）
 apartment
 /əˈpɑːtmənt/
 核心：美式英语的"公寓"，英式叫 flat。英式里用 apartment 时通常
-指高档或度假的公寓。apartment block / building 指整栋楼。
+指高档或度假的公寓。apartment building 指整栋楼。
 ① They rent a small apartment above a bakery that opens at four.
 = 他们租了一间小公寓，楼下面包房四点就开门。
 ② She lives in a luxury apartment with a view of three car parks.
@@ -25440,8 +25423,7 @@ app
 /æp/
 核心：application 的缩略，指装在手机、平板或电脑上的"应用程序"。
 它跟传统软件的区别在于：小、专做一件事、从统一的商店下载。
-围绕它长出一整套说法，商店叫 app store，手机上放图标的那一屏
-叫 app drawer 或 app tray。
+围绕它长出一套说法，比如商店叫 app store。
 ① Download the app from the store and let it update before you fly.
 = 从商店里下载那个应用，上飞机前让它更新完。
 download an app = 下载应用
@@ -25926,7 +25908,7 @@ appendicitis = 阑尾炎
 
 appertain
 /ˌæpəˈteɪn/
-核心：正式动词，指"属于、与…有关"，固定接介词说 appertain to。
+核心：正式动词，指"属于、与…有关"。
 多出现在法律文书里，说某项权利、义务或职责归属于谁。
 日常几乎不用。
 ① The rights appertaining to the title are listed in the second schedule.
@@ -26041,8 +26023,8 @@ apple
 /ˈæpəl/
 核心：本义单一，就是苹果，但它的构词与习语能力极强，值钱的地方
 全在这里。习语里的 apple 走两个方向：一是"珍贵之物"（the apple
-of one's eye），一是"整齐的一篮子"，动一动就乱（upset the apple
-cart、apple-pie order）。复合词多数是照字面来的食品名。
+of one's eye），一是"整齐的一篮子"，动一动就乱（upset the apple cart）。
+复合词多数是照字面来的食品名。
 ① She ate an apple on the walk and threw the core into the hedge.
 = 她一路走一路吃苹果，把果核扔进了树篱。
 本义，可数。
@@ -26191,7 +26173,7 @@ applicator = 涂敷器、施药器
 applied
 /əˈplaɪd/
 核心：指学科"应用型的"，与 pure（纯理论的）相对。
-只作定语。applied science、applied linguistics。
+只作定语，如 applied science。
 ① She studies applied mathematics and spends more time on aircraft wings than on proofs.
 = 她学应用数学，花在机翼上的时间比花在证明上的还多。
 applied mathematics = 应用数学
@@ -27366,8 +27348,7 @@ Arab = 阿拉伯人的（族群）
 Arabic
 /ˈærəbɪk/
 核心：专指"阿拉伯语、阿拉伯文"，以及跟这套文字有关的东西。它从右
-往左写，是全球第五大语言。我们今天用的 0 到 9 这套数字叫
-Arabic numeral，是经阿拉伯人传到欧洲的，源头其实在印度。
+往左写，是全球第五大语言。
 ① She speaks fluent Arabic and learned most of it from her grandmother.
 = 她阿拉伯语说得很流利，大半是跟祖母学的。
 speak Arabic = 说阿拉伯语
@@ -27827,8 +27808,8 @@ arch
 核心：一个形状撑起全部用法：中间高、两头落地的弧。建筑上的拱、
 脚底的足弓、猫弓起的背，都是这个形状；动词就是"做出这个形状"。
 另有两个来路完全不同的 arch，别跟形状混：一是形容词"调皮狡黠的"，
-二是构词成分 arch-，意思是"头号的、最高阶的"，所以 arch-enemy
-是头号敌人、archangel 是大天使、archduke 是大公。
+二是构词成分 arch-，意思是"头号的、最高阶的"，所以 archangel
+是大天使、archduke 是大公。
 ① The bridge has three arches and the middle one is the oldest.
 = 这座桥有三个拱，中间那个最老。
 本义，可数；注意复数加 -es。
@@ -28514,8 +28495,8 @@ arguably the best = 堪称最佳
 
 argue
 /ˈɑːɡjuː/
-核心：两条线，情绪上差得很远。一条是"吵架"——argue with 某人
-about 某事，带火气；另一条是"论证"——argue that、argue for，
+核心：两条线，情绪上差得很远。一条是"吵架"——跟某人为某事争执，
+带火气；另一条是"论证"——argue that、argue for，
 不带情绪，只是摆出理由主张。学术写作里几乎只用第二条。
 还有一族 argue somebody into / out of doing，意思是靠讲道理
 把人说动或劝住，落点在"说服"而不在"争"。
@@ -29313,7 +29294,7 @@ headrest 头枕 / footrest 脚踏
 arms
 /ɑːmz/
 核心：指武器，永远用复数，是正式和法律用语。
-习语很多：take up arms、up in arms、arms race。
+习语如 take up arms、up in arms。
 ① They laid down their arms at the church gate and walked home unarmed.
 = 他们在教堂门口缴了械，空着手走回家。
 lay down arms = 缴械
@@ -29745,8 +29726,7 @@ arrive = 到达
 arrive
 /əˈraɪv/
 核心：不及物动词，后面必须加介词：大地方用 in，小地方用 at。
-不能说 arrive a place——这是最高频的错误之一。抽象义指
-"达成（结论、决定）"，用 arrive at。
+不能说 arrive a place——这是最高频的错误之一。
 ① We arrived in Beijing at midnight and slept through the whole first day.
 = 我们半夜抵达北京，第一天整天都在睡。
 大地方用 in。
@@ -29902,9 +29882,8 @@ wadi = 干河谷（阿拉伯地区）
 
 arse
 /ɑːs/
-核心：英式粗话，指"屁股"，也骂人"蠢货"。它构出一大批固定说法，
-都很粗俗：arse about 和 arse around 是"瞎混、不干正事"，
-arse-licker 是"马屁精"，can't be arsed 是"懒得动弹"。
+核心：英式粗话，指"屁股"，也骂人"蠢货"。它构成的固定说法
+都很粗俗，比如 can't be arsed 是"懒得动弹"。
 美式对应的词是 ass。
 ① He fell on his arse in front of about forty people.
 = 他当着大约四十个人的面一屁股摔在地上。
@@ -30390,8 +30369,7 @@ guile = 狡诈（贬义）
 artificial
 /ˌɑːtɪˈfɪʃəl/
 核心：指"人造的，不是天然的"。用于物是中性（人造材料），用于人的
-表情态度是贬义（虚假的）。artificial intelligence 是现在最高频的
-搭配。
+表情态度是贬义（虚假的）。
 ① It's an artificial lake and the village underneath it still has a church.
 = 那是个人工湖，湖底的村子里还立着一座教堂。
 ② She gave an artificial smile that lasted exactly as long as the camera did.
@@ -31184,8 +31162,7 @@ aside
 核心：字面是 a + side，"到旁边去"。放到旁边可以是搁置不管，也可以
 是特意留出来备用——put aside 和 set aside 的两个方向都从这里来。
 名词义是戏剧里的"旁白"：演员转到台侧对观众说的话，别的角色听不见；
-引申指谈话里插的一句题外话。aside from 是美式说法，等于英式的
-apart from。
+引申指谈话里插的一句题外话。
 ① He put the book aside and did not pick it up again for a year.
 = 他把书搁在一边，一年没再拿起来。
 put aside = 搁置；也指存起来
@@ -31234,7 +31211,6 @@ ask
 /ɑːsk/
 核心：底层是"提出请求"，请求的东西不同就分出各义。请求信息是
 "问"，请求行动是"要求"，请求到场是"邀请"，请求钱是"要价"。
-两个搭配最容易混：ask for 是要东西（要来归自己），
 ask about 是打听情况（要的是信息）。
 ① May I ask a question that has nothing to do with the agenda?
 = 我能问个跟议程无关的问题吗？
@@ -31985,7 +31961,7 @@ assembler = 汇编器；装配工
 assembly
 /əˈsembli/
 核心：三条线：立法或议事的"议会、大会"、学校的"晨会"、
-以及工业上的"装配"。assembly line 是高频搭配。
+以及工业上的"装配"。
 ① The National Assembly voted at four in the morning with half the seats empty.
 = 国民议会凌晨四点表决，一半席位空着。
 National Assembly = 国民议会
@@ -32385,8 +32361,7 @@ assistant
 核心：从 assist（帮忙）来，指"打下手的人"。这个词的用法值得单记的
 不是意思，而是两个位置：单用是名词"助手"；放在职位名前面就成了
 定语"副的、助理的"，assistant manager 是副经理，不是"经理的助手"。
-英美的职级切法不同：英式的 shop assistant 是店员，美式学界的
-assistant professor 是终身轨的最低一级，不是"教授的助手"。
+英式的 shop assistant 是店员。
 ① She is my assistant and knows where everything in this office is.
 = 她是我的助手，这办公室里什么在哪儿她都清楚。
 名词单用。
@@ -32604,7 +32579,7 @@ assuming that = 假设、假定
 
 assumed
 /əˈsjuːmd/
-核心：两条线：身份"假的、化名的"（an assumed name），
+核心：两条线：身份"假的、化名的"，
 和"被认定的、假定的"。只作定语居多。
 ① He travelled under an assumed name for two years and was caught by a dentist.
 = 他用化名旅行了两年，最后败露在一位牙医手里。
@@ -34319,7 +34294,7 @@ make an attempt = 作出尝试
 
 attend
 /əˈtend/
-核心：三条线：出席（及物，不加 to）、照料（attend to）、以及正式的
+核心：三条线：出席（及物，不加 to）、照料（后接 to）、以及正式的
 "陪同"。第一条最常用，注意它是及物动词——不说 attend to a meeting。
 ① She attended the meeting and the local school in the same building.
 = 她参加会议的地方，跟她上过的小学在同一栋楼。
@@ -35761,7 +35736,7 @@ Austrian
 /ˈɒstriən/
 核心：指"奥地利的、奥地利人"。奥地利说德语，但口音与用词跟德国
 不同。经济学上另有个专名 the Austrian School，指以门格尔、
-哈耶克为代表的那一派。窗帘里的 Austrian blind 也用这个词。
+哈耶克为代表的那一派。
 ① He is an Austrian conductor who has worked in the same house for thirty years.
 = 他是奥地利指挥家，在同一家剧院干了三十年。
 ② Austrian German differs from the standard in the words for food above all.
@@ -36071,7 +36046,7 @@ autistic 作形容词是中性描述，
 auto
 /ˈɔːtəʊ/
 核心：北美说法，指"汽车"，多作定语用在行业词里：auto industry、
-auto parts、auto racing。它同时是构词能力极强的前缀，
+auto parts。它同时是构词能力极强的前缀，
 表示"自动的"或"自己的"，一大批词都从它来。
 ① The auto industry shed thousands of jobs in a town built around one plant.
 = 汽车业裁掉了成千上万个岗位，而那个镇整个是围着一家厂建起来的。
@@ -36326,9 +36301,8 @@ manual focus = 手动对焦
 
 autogenic
 /ˌɔːtəʊˈdʒenɪk/
-核心：形容词，指"自我产生的"，几乎只出现在
-autogenic training 这个搭配里——一套自我放松法：默念
-"我的手臂很沉、很暖"这类句子，引导身体进入放松状态。
+核心：形容词，指"自我产生的"，即由自身而非外力引起的，
+正式或术语用词。
 ① She learned autogenic training from a book and practised it for twenty years.
 = 她照着一本书学了自律训练法，练了二十年。
 autogenic training = 自律训练法（自我放松技术）
@@ -37094,7 +37068,7 @@ average
 /ˈævrɪdʒ/
 核心：数学本义是"把总量摊平"，摊平之后得到的那个数就是平均数。
 摊平这个动作解释了它的全部引申：说人 average 是"跟大多数一样"，
-所以带点淡淡的贬义——不出众；average out 是让高低互相抵掉。
+所以带点淡淡的贬义——不出众。
 名词、形容词、动词三个身份同形，看位置分辨。
 ① The average is 25 and not one person in the room is anywhere near it.
 = 平均数是二十五，屋里没一个人接近这个数。
@@ -37150,7 +37124,6 @@ adverse = 不利的（adverse effects）
 aversion
 /əˈvɜːʃən/
 核心：指强烈的"厌恶、反感"，介词用 to。
-医学上 aversion therapy 指厌恶疗法。
 ① He has an aversion to crowds and books the first train of the day.
 = 他厌恶人多的地方，总订当天第一班车。
 an aversion to = 对…的反感
@@ -37187,9 +37160,7 @@ ward off = 挡开（威胁）
 
 avian
 /ˈeɪviən/
-核心：形容词，指"鸟的、禽类的"，正式或科学用语。最常见的搭配是
-avian flu（禽流感）——那是由禽类间流行的流感病毒引起的，
-偶尔跨物种传给人，所以是公共卫生的长期关注点。
+核心：形容词，指"鸟的、禽类的"，正式或科学用语。
 ① Avian species vary enormously in size, from two grams to over a hundred kilos.
 = 鸟类物种体型差别极大，从两克到一百多公斤。
 avian species = 鸟类物种
@@ -37763,7 +37734,7 @@ rust away = 锈烂、锈蚀殆尽
 awe
 /ɔː/
 核心：指混合着敬畏与惊叹的情绪——既震撼又有点怯。
-不可数。核心搭配 in awe of、awe-inspiring。
+不可数。核心搭配 in awe of。
 ① They stood in awe at the back of the nave and said nothing.
 = 他们肃然起敬地站在中殿后头，一句话没说。
 in awe = 敬畏地
@@ -38779,9 +38750,8 @@ bach = 简朴度假小屋（新西兰英语）
 
 bachelor
 /ˈbætʃələ(r)/
-核心：底层是"未婚男子"。由此长出一族说法：单身汉住的地方叫
-bachelor pad，婚前那场闹腾叫 bachelor party，女方对应的是
-bachelorette 与 bachelorette party。另有一层完全不相干：
+核心：底层是"未婚男子"，女方对应的是 bachelorette，
+还有 bachelorette party 一说。另有一层完全不相干：
 大学的第一级学位叫 bachelor's degree。
 ① He remained a bachelor all his life and had lodgers for company.
 = 他终身未婚，靠房客做伴。
@@ -40818,7 +40788,7 @@ bail
 核心：三个来源不同的义项挤在一个词形里，别当成一个词的引申。
 一是法律上的"保释"——交一笔钱担保被告到时出庭，钱本身和这个
 制度都叫它，动词是 bail somebody out。二是从船里"往外舀水"，
-引申成给陷入困境的机构"纾困"，也是 bail out。三是板球里横搁在
+引申成给陷入困境的机构"纾困"。三是板球里横搁在
 三柱门上的那两根小横木。
 ① She was released on bail and left the country within a fortnight.
 = 她被保释出狱，两周内就出了国。
@@ -41077,9 +41047,6 @@ baking
 /ˈbeɪkɪŋ/
 核心：bake 的名词与形容词形式。作名词指"烘焙"这件事，
 也指一炉烤出来的东西；作形容词指天气"热得烤人"。
-一族东西名字都带它：baking powder 是泡打粉，
-baking soda 是小苏打，baking sheet 是平烤盘，
-baking flour 是烘焙专用面粉。
 ① She enjoys baking at weekends and gives most of it to the neighbours.
 = 她周末喜欢烘焙，做的大半都送了邻居。
 ② A whole baking of bread cooled on the rack until somebody moved it.
@@ -41324,7 +41291,7 @@ bale
 /beɪl/
 核心：底层是"捆扎成一大块"。干草、棉花、废纸压紧打捆就是它，
 名词是那一捆，动词是打捆，打捆机叫 baler。
-另有一路：bale out 是 bail out 的英式异拼，
+另有一路：动词也是 bail 的英式异拼，
 指跳伞逃生或舀水，两种拼法都通行。
 ① Tractors stacked bales of hay four high along the edge of the field.
 = 拖拉机把干草捆沿着地边摞了四层高。
@@ -41605,8 +41572,7 @@ balletomane = 芭蕾迷
 ballistic
 /bəˈlɪstɪk/
 核心：弹道学的形容词，说的是物体被抛出去之后只受重力和空气阻力
-支配的那段轨迹。ballistic missile 就是这个意思：推进段之后
-全靠惯性飞完。口语借它造了个夸张说法 go ballistic，
+支配的那段轨迹。口语借它造了个夸张说法 go ballistic，
 指人"暴跳如雷"，像导弹一样窜起来。
 ① They tracked the ballistic trajectory from launch to the point of impact.
 = 他们追踪了那条弹道，从发射一直到落点。
@@ -41699,8 +41665,7 @@ in the ballpark = 大致不离谱
 ballroom
 /ˈbɔːlruːm/
 核心：专供跳舞的大厅——酒店、宫殿或会馆里那间铺着木地板、
-挑高带吊灯的厅。ballroom dancing 指双人握持的社交舞，
-华尔兹、探戈、狐步都算，跟拉丁舞合起来是标准舞比赛的两大类。
+挑高带吊灯的厅。
 ① The hotel has a grand ballroom that is used four times a year.
 = 那家酒店有个大宴会厅，一年用四次。
 a grand ballroom = 大宴会厅
@@ -41936,10 +41901,8 @@ profound = 深刻的（反面）
 
 banana
 /bəˈnɑːnə/
-核心：热带水果，长条弯曲、黄皮软肉。它构出一批固定说法：
-banana republic 指经济靠单一出口作物、政治不稳的小国，
-banana skin 指让人栽跟头的隐患，
-go bananas 指发疯或暴怒。
+核心：热带水果，长条弯曲、黄皮软肉。口语里 go bananas
+指发疯或暴怒。
 ① She peeled a banana and sliced it thinly over her morning porridge.
 = 她剥了根香蕉，切成薄片撒在早餐麦片粥上。
 ② Critics dismissed the country as a banana republic run by a handful of families.
@@ -41971,7 +41934,7 @@ band
 再往平面上推是"一道色带、一条条纹"，
 往数值上推是"一个区间"（税级、频段、年龄段）。
 第二支是"一伙人"——本义是绑在一起的一群，所以是"一帮、一队"，
-乐队是其中最常见的一种。动词 band together 就是"抱成团"。
+乐队是其中最常见的一种。
 判断哪一支：它在说一条东西，还是一群人。
 ① Put a rubber band round it or the whole lot will come apart.
 = 用橡皮筋捆一下，不然整摞都会散开。
@@ -42131,8 +42094,7 @@ bandwagon effect = 从众效应
 bandy
 /ˈbændi/
 核心：两层，来源不同。作形容词指腿"向外弯的"——两膝并不拢，
-全称 bandy-legged。作动词指"把话来回抛"：bandy words 是斗嘴，
-bandy about 是让某个名字或说法到处流传，多半带不负责任的意味。
+全称 bandy-legged。作动词指"把话来回抛"：bandy words 是斗嘴。
 ① He walks with bandy legs and has done since a childhood illness.
 = 他走路罗圈腿，从小生过一场病之后就这样。
 bandy-legged = 罗圈腿的
@@ -42313,8 +42275,7 @@ bank
 /bæŋk/
 核心：三个来源不同的词长成了同一个形，别硬往一处扯。
 第一支是"堆起来的一道土"——河岸、路边的土坡、云堆、雪堆。
-飞机转弯时机身侧倾也归它，因为那个姿态像贴着斜坡跑；
-把火煨着让它慢慢烧叫 bank up，也是"往上堆"。
+飞机转弯时机身侧倾也归它，因为那个姿态像贴着斜坡跑。
 第二支来自意大利语的"长凳"——中世纪钱商在长凳上兑钱，
 凳子的名字成了银行。存钱、银行卡、破产这一大族全从这里来。
 血库、数据库跟着这一支走，因为都是"存起来备用的地方"。
@@ -42417,7 +42378,7 @@ banner
 /ˈbænə(r)/
 核心：底层是"张开的一幅旗布"。游行队伍举的横幅是本义；
 网页上那条长条广告借了这个形状；作定语时另有一层
-"格外出色的"，说的是 banner year 这种"丰收的一年"。
+"格外出色的"。
 习语 under the banner of 指打着某个旗号。
 ① Protesters carried a banner that took four people to hold up.
 = 抗议者举着一条要四个人才撑得住的横幅。
@@ -42859,7 +42820,6 @@ barbecue
 /ˈbɑːbɪkjuː/
 核心：三层：户外烤肉的那个炉具、那种烹饪方式、以及一场烤肉聚会。
 动词是"烤"。缩写常写作 BBQ，澳式口语叫 barbie。
-配的那种甜辣酱叫 barbecue sauce。
 ① They lit the barbecue an hour early so the coals would be white by six.
 = 他们提前一小时点着烤炉，好让炭到六点烧成白灰。
 light the barbecue = 点烤炉
@@ -43080,7 +43040,7 @@ bargain
 /ˈbɑːɡɪn/
 核心：两条线，都从"讨价还价"来。名词第一层是"谈成的那笔交易、
 约定"；由此第二层是"买得划算的东西"——谈下来的好价钱。
-动词是"讨价还价"，bargain for 引申成"预料到"，
+动词是"讨价还价"，后接 for 时引申成"预料到"，
 多用否定：more than I bargained for 就是"没料到会这么麻烦"。
 习语 into the bargain 指"而且还外加"。
 ① They struck a bargain that neither side has ever described the same way.
@@ -43134,7 +43094,7 @@ barge
 /bɑːdʒ/
 核心：底层是"平底的运货船"——吃水浅、走内河运河、多半靠拖带，
 所以又慢又笨重。动词那一支正是从这个"笨重地挤过去"的印象来的：
-barge in 是不打招呼硬闯进来，barge into 是撞上人。
+barge into 是撞上人。
 习语 wouldn't touch it with a bargepole 指嫌弃到根本不想沾。
 ① Coal came down the canal by barge until the railway undercut the freight rates.
 = 煤一直靠驳船走运河运来，直到铁路把运费压了下去。
@@ -43195,8 +43155,7 @@ bass = 男低音
 barium
 /ˈbeəriəm/
 核心：一种碱土金属元素，银白柔软、在空气中迅速氧化。
-可溶的钡盐有毒，但不溶的硫酸钡不被人体吸收，
-所以做成 barium meal 让病人吞下去，在 X 光下把消化道显影出来。
+可溶的钡盐有毒，但不溶的硫酸钡不被人体吸收。
 ① The patient swallowed a barium meal and was told not to eat till noon.
 = 患者吞服了钡餐，被交代中午前不许进食。
 barium meal = 钡餐（消化道造影用）
@@ -43256,8 +43215,6 @@ barley
 /ˈbɑːli/
 核心：一种谷物，是最早被驯化的作物之一。今天主要用途有三：
 酿啤酒和威士忌用它发麦芽、做饲料、煮汤煮粥。
-派生的几样东西名字都带它：barley water 是大麦水，
-barley sugar 是麦芽糖块，barley wine 是一种高度浓啤。
 ① Barley ripens before wheat, which spreads the harvest over two months.
 = 大麦比小麦熟得早，收割因此摊在两个月里。
 ② Beer is brewed from malted barley and four other ingredients at most.
@@ -43297,8 +43254,7 @@ barn
 /bɑːn/
 核心：农场上存放谷物、干草和农机的大房子，有的也关牲口。
 特点是空间大、门大。比喻着用说房子"大而空荡"。
-一批固定说法从它来：barn dance 是仓房里办的乡村舞会，
-barn owl 是仓鸮，barnstorm 原指巡回到各村仓房演出，
+barnstorm 原指巡回到各村仓房演出，
 后来指政客做旋风式巡回竞选。
 ① They stored hay in the barn until the roof gave way in February.
 = 他们把干草存在谷仓里，直到二月屋顶塌了。
@@ -43326,8 +43282,6 @@ barnacle
 /ˈbɑːnəkəl/
 核心：一种附着在船底、礁石和鲸皮上的甲壳动物，一旦粘住就
 一辈子不动，还极难铲掉。比喻着用形容"甩不掉的人或事"。
-另有一种 barnacle goose（白颊黑雁），得名于中世纪那个
-以为它由藤壶变来的传说。
 ① Barnacles slow the ship down and add a fortune to the annual fuel bill.
 = 藤壶会拖慢船速，一年的油钱要多出一大笔。
 ② The hull was scraped clear of barnacles in a dry dock over three days.
@@ -43664,8 +43618,7 @@ hair slide = 发夹（英式）
 barricade
 /ˌbærɪˈkeɪd/
 核心：临时垒起来堵住通路的东西——街垒、路障，多半是抗议或巷战时
-用手边的东西堆的。动词指设障封路；反身用法
-barricade yourself in 指把自己堵在里面不让人进来。
+用手边的东西堆的。动词指设障封路。
 ① Protesters built a barricade out of café furniture in about ten minutes.
 = 抗议者用咖啡馆的桌椅十分钟就垒起了街垒。
 build a barricade = 垒街垒
@@ -43772,7 +43725,7 @@ brief a barrister = 委聘出庭律师
 barrow
 /ˈbærəʊ/
 核心：两层，来源不同。一是"手推车"——独轮的叫 wheelbarrow，
-街上摆摊卖水果的那种平板车叫 barrow，推车小贩叫 barrow boy。
+街上摆摊卖水果的那种平板车叫 barrow。
 二是考古学上的"古坟"——史前人堆起来的圆形或长条形土冢。
 ① He wheeled a barrow of bricks up a plank and tipped the lot.
 = 他推着一车砖上跳板，结果整车翻了。
@@ -43870,7 +43823,7 @@ base
 /beɪs/
 核心：底层是底下承托的那一层。往实物上说是底座、底部；
 往军事上说是基地——部队的立足处；往组织上说是总部；
-往抽象上说是"依据、基础"，动词 base on 就是"把它架在…之上"。
+往抽象上说是"依据、基础"，作动词就是"把它架在…之上"。
 从"立足点"再引申：棒球场上四个立足点是垒；
 化妆打底那一层是粉底；化学上跟酸对立的那一支叫碱，
 也是因为它是盐的"底"。
@@ -44001,8 +43954,7 @@ bash
 核心：底层是"重重地一下"。名词是那一击，也指撞出来的凹痕；
 动词是狠敲、猛撞，引申指"猛烈抨击"（bash the government）。
 英式口语另有两层：have a bash 是"试一把"，
-a bash 也指一场热闹的派对。短语动词一族都从"使劲"来：
-bash out 是赶工做出来，bash on 是硬着头皮接着干。
+a bash 也指一场热闹的派对。
 ① He gave the lid a bash and it came off along with the handle.
 = 他砸了盖子一下，盖子连着把手一起掉了。
 give something a bash = 狠敲一下
@@ -44215,8 +44167,7 @@ basket
 篮球的那个篮圈也叫 basket，投进一球同样说 a basket。
 比喻着用指"一组东西"，经济学里的 basket of currencies
 就是一篮子货币。习语 put all your eggs in one basket
-是把宝全押一处。basket case 原指四肢尽失的伤员，
-今天指"彻底垮掉的人或经济体"，用时要当心。
+是把宝全押一处。
 ① She carried a wicker basket that had belonged to her mother.
 = 她提着一只柳条篮，那是她母亲留下的。
 wicker basket = 柳条筐
@@ -44327,7 +44278,7 @@ basset
 /ˈbæsɪt/
 核心：一种猎犬，全称 basset hound——腿极短、身子长、耳朵
 垂到地面、皮肤松弛下垂。腿短是为了让猎人步行跟得上，
-嗅觉仅次于寻血猎犬。另有 basset horn 是一种中音单簧管。
+嗅觉仅次于寻血猎犬。
 ① A basset hound has very short legs and ears that get into its food.
 = 巴吉度猎犬腿特别短，耳朵总掉进食盆里。
 basset hound = 巴吉度猎犬
@@ -44494,8 +44445,6 @@ batch
 /bætʃ/
 核心：底层是"一炉烤出来的量"——面包一次进烤箱烤一批，
 于是引申成"一批、一组"，凡是同时处理、同时产出的都能这么说。
-计算机里的 batch processing 指攒够一批再一次性跑完，
-跟随到随处理的实时方式相对。
 ① She baked a batch of scones and the tray was empty within the hour.
 = 她烤了一炉司康，不到一小时盘子就空了。
 a batch of = 一批、一炉
@@ -44641,7 +44590,6 @@ baton
 核心：一根短棒，四种用处各不相干：乐队指挥手里那根；
 接力赛里传递的那根；警察的警棍；仪仗队抛接的那根。
 习语 pass the baton 从接力赛来，指"交棒、把责任传下去"。
-另有 baton round 是防暴用的塑胶弹。
 ① The conductor raised her baton and the hall went quiet at once.
 = 指挥举起指挥棒，全场立刻安静下来。
 ② He dropped the baton at the handover and threw away a certain medal.
@@ -44690,9 +44638,9 @@ brigade = 旅
 batten
 /ˈbætən/
 核心：一根窄木条，用来压住、固定或加固。名词是那根条；
-动词 batten down 指用木条把东西钉牢封住，
+动词指用木条把东西钉牢封住，
 习语 batten down the hatches 从航海来——暴风雨前把舱口封死，
-今天指"做好硬扛的准备"。另有一支 batten on 指"依附别人过活"，
+今天指"做好硬扛的准备"。另有一支动词用法指"依附别人过活"，
 带贬义。
 ① Nail a batten across the join and the whole panel stops flexing.
 = 在接缝上钉一根压条，整块板就不晃了。
@@ -45035,7 +44983,7 @@ bay
 一是海湾——海岸凹进去的那一块；二是建筑或空间里"隔出来的
 一格"，装货区、停车位、病房隔间都叫 bay；三是猎犬追猎物时那种
 拖长的吠叫，习语 at bay 由此而来——猎物被逼到墙角、犬围着叫
-却不敢近前；四是月桂树，bay leaf 就是它的叶子。
+却不敢近前；四是月桂树。
 ① They anchored in a sheltered bay and waited for the gale to blow itself out.
 = 他们在一处避风的海湾抛锚，等大风自己刮过去。
 第一支：海湾。
@@ -45771,7 +45719,6 @@ bean
 形状像豆的东西（beanbag、beanie）跟着走。
 口语里它还表示"极少的一点"，多用于否定：
 not know beans 是一无所知，not worth a bean 是一文不值。
-另有一路：bean counter 是"只会算账的人"，带贬义。
 ① Soak the beans overnight or you will be boiling them until midnight.
 = 豆子要泡一夜，否则你得煮到半夜。
 干豆下锅前要泡，鲜豆不用；作蔬菜讲多用复数。
@@ -45847,7 +45794,7 @@ a runner bean = （英式）红花菜豆
 bear
 /beə(r)/
 核心：两个词长成了同一个形。名词那支是熊，另有股市上的
-"看跌者"（bear market 熊市）——据说来自"还没打到熊就先卖熊皮"
+"看跌者"——据说来自"还没打到熊就先卖熊皮"
 这句老话。动词那支的底层是扛住、承受，从这一个意思长出全部用法：
 扛住重量是"支撑"，扛住痛苦是"忍受"，扛着东西走是"携带"，
 身上带着标记是"印有"，把果实和孩子"带出来"是"结出、生育"，
@@ -46321,7 +46268,7 @@ beaver
 /ˈbiːvə(r)/
 核心：一种啮齿动物，会啃倒树木筑坝造池，是少数能大幅改造地貌的
 动物。它干活不停，所以有 eager beaver（干劲十足的人）
-和 beaver away（埋头苦干）这两个说法。
+这个说法。
 ① Beavers dam the stream and flood half the meadow within a season.
 = 河狸把溪流拦起来，一季之内就淹掉半片草地。
 ② A beaver fells trees with its teeth and drags the trunks into the water.
@@ -46368,7 +46315,7 @@ becalmed = 停滞不前（比喻）
 because
 /bɪˈkɒz/
 核心：从属连词，引出原因。它跟别的表因果的词分工很清楚：
-because 后面接完整的句子，because of 后面接名词或动名词——
+because 后面接完整的句子，要接名词或动名词就得加 of——
 这是中文母语者最常写错的一处。
 语气上它是最直白的一个：不像 since 和 as 那样把原因当成
 双方已知的背景，而是把原因当成新信息、当成回答"为什么"。
@@ -46794,10 +46741,9 @@ the bedrock of = …的根基
 
 bedside
 /ˈbedsaɪd/
-核心：床边那一块地方。最常见的搭配是 bedside table（床头柜）
-和 bedside manner——后者专指医生跟病人打交道的方式，
-说一位医生 has a good bedside manner，
-是说他会安抚人、让人安心，跟医术无关。
+核心：床边那一块地方；作定语时指"放在床边的、
+在床边进行的"。说一位医生 has a good bedside manner，
+是说他跟病人打交道时会安抚人、让人安心，跟医术无关。
 ① A lamp stood on the bedside table beside a book she had not opened.
 = 床头柜上放着一盏灯，旁边是一本她没打开过的书。
 bedside table = 床头柜
@@ -46898,8 +46844,8 @@ beach = 沙滩（同音，另一个词）
 
 beef
 /biːf/
-核心：底层是"牛肉"。由此三路：口语里指"块头、肌肉"
-（beefy 是壮实的）；动词 beef up 是"加强、充实"；
+核心：底层是"牛肉"。由此两路：口语里指"块头、肌肉"
+（beefy 是壮实的）；
 另有一路毫不相干的口语义："不满、牢骚"，
 have a beef with somebody 是跟某人有过节。
 ① They ate roast beef every Sunday for about thirty years running.
@@ -47007,10 +46953,8 @@ beeper = 蜂鸣器
 beer
 /bɪə(r)/
 核心：底层是"啤酒"——用麦芽发酵酿的酒。作不可数指这种酒，
-作可数指"一杯、一瓶"。围绕它有一批固定说法：
-beer belly 是啤酒肚，beer money 是不多的零花钱，
-beer goggles 是喝多了看谁都顺眼，
-small beer 指"小事一桩、无足轻重"。
+作可数指"一杯、一瓶"。另有固定说法
+small beer，指"小事一桩、无足轻重"。
 ① He ordered two beers and drank both before the food arrived.
 = 他要了两杯啤酒，菜还没上就都喝完了。
 可数用法：指杯或瓶。
@@ -48175,8 +48119,7 @@ Belizean reefs = 伯利兹的珊瑚礁
 bell
 /bel/
 核心：底层是"敲响报信的那个器物"。教堂钟、门铃、自行车铃
-都是它。往形状上推：凡是像钟那样上窄下阔的都能这么说
-（bell-bottoms 喇叭裤、bell pepper 甜椒）。
+都是它。往形状上推：凡是像钟那样上窄下阔的都能这么说。
 习语围绕"响不响"：ring a bell 是听着耳熟，
 sound the alarm bells 是敲警钟，
 saved by the bell 是关键时刻被铃声救了（来自拳击）。
@@ -48257,8 +48200,7 @@ belle
 /bel/
 核心：法语借词，指"美人"，尤其是社交场合最受瞩目的那位。
 固定说法 the belle of the ball 指舞会上的焦点人物。
-偏旧且带一点浪漫腔。另有 belle époque 指十九世纪末到
-一战前那段被追忆为太平繁荣的年月。
+偏旧且带一点浪漫腔。
 ① She was the belle of the ball and left before the band finished.
 = 她是全场的焦点，乐队还没收尾她就走了。
 the belle of the ball = 舞会上最耀眼的人
@@ -48351,8 +48293,7 @@ belly
 核心：底层是"肚子"。它比 stomach 口语、比 abdomen 随意，
 也可以说动物和物体的"腹部、下鼓的那一面"（船腹、山腹）。
 动词 belly out 是"鼓起来"，说帆和衣服被风吹胀。
-一批说法从它来：belly laugh 是从肚子里笑出来的大笑，
-bellyache 既是肚子疼也是"发牢骚"，
+一批说法从它来：bellyache 既是肚子疼也是"发牢骚"，
 go belly up 是"翻肚皮"，指企业倒闭。
 ① He lay on his belly in the long grass and waited for the light to go.
 = 他趴在深草里，等着天黑。
@@ -48493,8 +48434,8 @@ belt
 /belt/
 核心：底层是"一条围起来的带子"。裤腰带是本义；
 机器上传动的皮带、地理上成条的地带（rust belt 铁锈地带）
-都从这个形象来。动词有两路：belt out 是"扯着嗓子唱"，
-belt along 是"飞快地跑"，另有口语的"狠揍一下"。
+都从这个形象来。动词有两路：belt along 是"飞快地跑"，
+另有口语的"狠揍一下"。
 习语 tighten your belt 是勒紧裤腰带过日子，
 below the belt 是拳击里的犯规部位，引申指"下作、不光明"。
 ① He tightened his belt a notch and said nothing about the missing lunch.
@@ -49729,11 +49670,8 @@ bet / bet / bet 三态同形；
 
 beta
 /ˈbiːtə/
-核心：希腊字母表的第二个字母，由此派生出一族说法。
-软件上指"公测版"——比 alpha 晚一步、放给外部用户试用的版本；
-物理上指 beta particle（贝塔粒子，即高速电子）
-与 beta decay（贝塔衰变）；医学上 beta blocker 是降心率的药；
-营养上 beta-carotene 是胡萝卜素。
+核心：希腊字母表的第二个字母。
+软件上借指"公测版"——比 alpha 晚一步、放给外部用户试用的版本。
 ① The app is still in beta and crashes whenever you rotate the screen.
 = 那个应用还在公测，一转屏幕就崩。
 beta version = 公测版本
@@ -49808,7 +49746,7 @@ one's bête noire = 某人最厌恶的人或事
 betel
 /ˈbiːtəl/
 核心：一种藤本植物的叶子，在南亚与东南亚广泛用来包裹槟榔
-（betel nut）咀嚼，有轻微提神作用，嚼久了会把牙齿和唾液
+咀嚼，有轻微提神作用，嚼久了会把牙齿和唾液
 染成红色。世界卫生组织已确认它致癌。
 ① Betel leaves wrap the nut along with lime and a little spice.
 = 蒌叶把槟榔连同石灰和少许香料一起包起来。
@@ -50315,8 +50253,8 @@ bias
 /ˈbaɪəs/
 核心：底层是"偏向一边"，不居中。落在人的判断上是"偏见、成见"，
 不一定是恶意，只是先有了倾向；落在统计上是"系统偏差"——测量总是
-朝一个方向偏；落在布料上是"斜纹方向"，沿斜向裁开的布有弹性，
-所以有 bias-cut 的裙子；落在电路上是"偏压"。动词是"使有偏向"。
+朝一个方向偏；落在布料上是"斜纹方向"，沿斜向裁开的布有弹性；
+落在电路上是"偏压"。动词是"使有偏向"。
 ① The report shows a clear bias and was written by the people it clears.
 = 这份报告偏向明显，写它的正是被它开脱的那些人。
 可数不可数都行，指判断上的偏向。
@@ -50640,7 +50578,6 @@ bicarbonate
 /ˌbaɪˈkɑːbənət/
 核心：化学名，指碳酸氢盐——碳酸里的两个氢只被换掉一个，
 剩下的那个氢让它显弱碱性又能跟酸反应，所以既能发面又能中和胃酸。
-日常说的小苏打是碳酸氢钠，全称 bicarbonate of soda。
 构词里的 bi- 在这里不是"两次"，而是化学命名里的旧写法。
 ① Sodium bicarbonate is a mild base and will not burn the skin.
 = 碳酸氢钠是一种弱碱，不会灼伤皮肤。
@@ -50802,8 +50739,6 @@ bicycle
 核心：两个轮子的脚踏车。构词就是 bi-（二）加 cycle（轮），一看就懂。
 日常口语一律说 bike，bicycle 偏正式，多见于书面、路牌和法规。
 动词用法指"骑车去某地"，也偏正式，日常说 cycle 或 ride a bike。
-围绕它的复合词多半照字面来：bicycle lane 是自行车道，
-bicycle clip 是骑车时夹住裤脚的金属环。
 ① He rides a bicycle to work along a route the council has never gritted.
 = 他骑车上班，走的那条路市政从没撒过融雪盐。
 ride a bicycle = 骑自行车
@@ -51835,8 +51770,8 @@ bilateral
 /ˌbaɪˈlætərəl/
 核心：底层是"两边的"。国际事务里指"双边的"——只有两方参加，
 跟 multilateral（多边）相对；解剖与医学上指"两侧的"，
-bilateral symmetry 是左右对称，bilateral hearing loss 是两耳
-都受影响。构词是 bi-（二）加 lateral（侧的）。
+bilateral hearing loss 是两耳都受影响。
+构词是 bi-（二）加 lateral（侧的）。
 ① They signed a bilateral agreement covering fishing rights and little else.
 = 他们签了一份双边协议，除了捕鱼权几乎没别的内容。
 bilateral agreement = 双边协议
@@ -52374,8 +52309,7 @@ billy
 /ˈbɪli/
 核心：两条线，来路不同。澳新英语里指野外烧水的"铁皮罐"——
 挂在火上煮茶，boil the billy 就是烧水泡茶，是丛林生活的标志。
-美式里 billy 指警棍，全称 billy club。另有 billy goat 指公山羊，
-那是把人名 Billy 用在动物身上的老习惯。
+美式里 billy 指警棍。
 ① They boiled the billy for tea while the horses drank at the creek.
 = 马在溪边饮水的工夫，他们烧水泡了茶。
 boil the billy = 烧水泡茶（澳新）

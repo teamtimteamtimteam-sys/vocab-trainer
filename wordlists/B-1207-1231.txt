@@ -432,8 +432,7 @@ app
 /æp/
 核心：application 的缩略，指装在手机、平板或电脑上的"应用程序"。
 它跟传统软件的区别在于：小、专做一件事、从统一的商店下载。
-围绕它长出一整套说法，商店叫 app store，手机上放图标的那一屏
-叫 app drawer 或 app tray。
+围绕它长出一套说法，比如商店叫 app store。
 ① Download the app from the store and let it update before you fly.
 = 从商店里下载那个应用，上飞机前让它更新完。
 download an app = 下载应用

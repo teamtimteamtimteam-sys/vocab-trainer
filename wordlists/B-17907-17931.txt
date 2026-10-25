@@ -41,8 +41,6 @@ provide
 /prəˈvaɪd/
 核心：及物。一是提供、供给：provide something、provide somebody with something、provide something for somebody；
 二是（正式）（法律、规定）规定：provide that。
-短语动词：provide for somebody 是供养、养活；provide for something 是为（可能发生的事）预作安排，也指（法律）对……作出规定；
-provide against something 是（正式）预防、防备。
 连词 provided (that)、providing (that) 是只要、在……的条件下。提供者、供应商叫 provider，也指养家的人。并入本条。
 ① The hotel provides a free bus to the airport every half hour.
 = 那家旅馆每半小时有一班去机场的免费大巴。
@@ -389,7 +387,7 @@ proxy
 /ˈprɒksi/
 核心：三支。一是代理权、委托代理：by proxy 是由人代办，不可数；二是代理人、代表，可数，复数 proxies；
 三是（正式，术语）a proxy for：可以用来代表、衡量另一样东西的东西，可数。
-复合词：proxy vote 是委托投票；proxy war 是代理人战争；proxy server 是（计算机）代理服务器。
+复合词：proxy vote 是委托投票。
 ① You can vote by proxy if you are abroad on the day of the election.
 = 选举当天你在国外的话，可以委托别人代投。
 by proxy = 由人代办

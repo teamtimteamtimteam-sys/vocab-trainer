@@ -51,7 +51,7 @@ intrastate trade = 州内贸易
 
 intrauterine
 /ˌɪntrəˈjuːtəraɪn/
-核心：（医学）子宫内的 —— intrauterine device（宫内节育器，缩写「IUD」）并入本条。
+核心：（医学）子宫内的 —— 位于或发生在子宫里面的。
 ① Doctors monitor the baby's intrauterine growth with regular scans.
 = 医生通过定期扫描监测胎儿在子宫内的生长情况。
 intrauterine growth = 宫内生长
@@ -353,13 +353,15 @@ inundation = 淹没
 inure
 /ɪˈnjʊə(r)/
 核心：（正式）使习惯于（困难、痛苦）—— 多用被动 be inured to something：已经习惯到不再觉得难受。
-inure to 并入本条。
 ① Years of living in the city had inured her to the noise of the traffic.
 = 多年城市生活让她对车流噪音已经习以为常。
 inure somebody to something = 使某人习惯于…
 ② Nurses become inured to the sight of blood.
 = 护士们对见血已经习以为常。
 be inured to something = 对…习以为常
+③ Years of working in the busy hospital had inured the nurse to the sight of blood.
+= 在繁忙的医院工作多年，那位护士早已对血见怪不怪了。
+inure to = 使习惯于（多用被动：be inured to something）
 
 invade
 /ɪnˈveɪd/
@@ -483,7 +485,7 @@ personal invective = 人身攻击
 
 inveigh
 /ɪnˈveɪ/
-核心：（正式）痛斥、猛烈抨击 —— 几乎只用 inveigh against something。inveigh against 并入本条。
+核心：（正式）痛斥、猛烈抨击 —— 几乎只用 inveigh against something。
 ① The preacher inveighed against the evils of gambling.
 = 传教士痛斥赌博之恶。
 inveigh against something = 痛斥…
@@ -619,7 +621,7 @@ invest
 /ɪnˈvest/
 核心：投资；投入（时间、精力）；（正式）授予。几支：把钱放进能生利的地方（invest in shares）；
 为得到回报而花时间精力（invest time in）；给人正式授予权力、称号（invest somebody with）。
-invest in、invest with 并入本条；名词 investment、investor 另立。
+名词 investment、investor 另立。
 ① She invested all her savings in a small restaurant.
 = 她把全部积蓄投资在一家小餐馆上。
 invest in something = 投资于…
@@ -635,6 +637,9 @@ invest in something = （口语，谑）花钱买…
 ⑤ The new constitution invests the president with the power to dismiss the government.
 = 新宪法赋予总统解散政府的权力。
 invest somebody with something = 授予某人…
+⑥ The new law invests the police with the power to stop any car on the motorway.
+= 新法赋予警察在高速公路上拦停任何车辆的权力。
+invest with = 授予（权力等）（常拆开用：invest somebody with something）
 
 investigate
 /ɪnˈvestɪɡeɪt/
@@ -696,7 +701,6 @@ an investiture ceremony = 授勋仪式
 investment
 /ɪnˈvestmənt/
 核心：投资；投资额；投资物；（时间精力的）投入。可数不可数都用。
-investment bank（投资银行）、investment banker（投资银行家）、investment banking（投资银行业务）并入本条。
 ① The country needs more foreign investment to create jobs.
 = 那个国家需要更多外国投资来创造就业。
 foreign investment = 外国投资
@@ -958,7 +962,7 @@ involuntarily = 不由自主地
 involve
 /ɪnˈvɒlv/
 核心：包含、涉及；使参与、牵涉。几支：一件事必然包括某部分（The job involves travelling）；
-让人参与进来（involve somebody in）；把人牵连进（麻烦、罪行）。involve in 并入本条；
+让人参与进来（involve somebody in）；把人牵连进（麻烦、罪行）。
 形容词 involved、名词 involvement 另立。
 ① The job involves a lot of travelling, so she is rarely at home.
 = 那份工作需要经常出差，所以她很少在家。
@@ -973,6 +977,9 @@ involve somebody in a problem = 把某人牵扯进麻烦
 ④ The accident involved three cars and a lorry.
 = 那起事故涉及三辆汽车和一辆卡车。
 involve something = 涉及…
+⑤ My daughter got involved in the school play and now she spends every evening learning her lines.
+= 我女儿参加了学校的话剧演出，现在每天晚上都在背台词。
+involve in = 使参与（多用被动：be involved in something）
 
 involved
 /ɪnˈvɒlvd/
@@ -1022,7 +1029,7 @@ a sense of invulnerability = 自己不会受伤的感觉
 inward
 /ˈɪnwəd/
 核心：内心的；向内的；输入的。几支：心里的（inward feelings）；朝里的（an inward curve）；
-进入一国的（inward investment，外来投资）。也作副词，同 inwards。
+进入一国的（如外来投资）。也作副词，同 inwards。
 副词 inwardly（在心里）与名词 inwardness（内在性、精神性）并入本条。
 ① She felt a sense of inward calm after making the decision.
 = 做出决定后，她感到内心一片平静。
@@ -1194,7 +1201,6 @@ an iris = 鸢尾花
 Irish
 /ˈaɪrɪʃ/
 核心：爱尔兰的；爱尔兰人（the Irish，复数）；爱尔兰语。
-Irish coffee（爱尔兰咖啡，加威士忌和奶油的咖啡）并入本条。
 ① She has an Irish accent and grew up near Cork.
 = 她有爱尔兰口音，在科克附近长大。
 an Irish accent = 爱尔兰口音
@@ -1239,8 +1245,8 @@ find something irksome = 觉得…烦人
 iron
 /ˈaɪən/
 核心：铁；熨斗；熨烫。本义是铁这种金属（an iron gate）；由「铁」长出几支：
-坚强、严厉的（an iron will、rule with an iron fist）；铁制的工具 —— 熨斗（动词 iron = 熨）、
-（高尔夫）铁头球杆；复数 irons 指镣铐。短语与习语：iron out（解决、消除问题）、pump iron（练举重）、
+坚强、严厉的（an iron will、rule with an iron fist）；铁制的工具 —— 熨斗（动词 iron 即熨）、
+（高尔夫）铁头球杆；复数 irons 指镣铐。短语与习语：pump iron（练举重）、
 strike while the iron is hot（趁热打铁）、have too many irons in the fire（同时做太多事）。
 动名词 ironing 另立。
 ① The old farmhouse has a heavy iron gate at the entrance.
@@ -1316,7 +1322,6 @@ ironically = 讽刺的是
 ironing
 /ˈaɪənɪŋ/
 核心：熨衣服；（要熨或熨好的）衣物。不可数：do the ironing（熨衣服）。
-ironing board（熨衣板）并入本条。
 ① I usually do the ironing on Sunday evening while listening to the radio.
 = 我通常星期天晚上一边听收音机一边熨衣服。
 do the ironing = 熨衣服
@@ -1403,7 +1408,7 @@ irradiation = 辐照
 
 irrational
 /ɪˈræʃənəl/
-核心：不合理的、失去理智的 —— 不是根据道理而是凭感情、恐惧。数学上另指无理数（an irrational number）。
+核心：不合理的、失去理智的 —— 不是根据道理而是凭感情、恐惧。
 名词 irrationality 与副词 irrationally 并入本条。
 ① She has an irrational fear of birds and will not walk through the park alone.
 = 她莫名其妙地怕鸟，不敢一个人穿过公园。
@@ -1736,8 +1741,7 @@ an irrigation system = 灌溉系统
 
 irritable
 /ˈɪrɪtəbəl/
-核心：易怒的、烦躁的；（医学）过敏的、易受刺激的。名词 irritability 与副词 irritably 并入本条；
-irritable bowel syndrome（肠易激综合征，缩写「IBS」）也并在这里。
+核心：易怒的、烦躁的；（医学）过敏的、易受刺激的。名词 irritability 与副词 irritably 并入本条。
 ① He is always irritable in the morning until he has had his first cup of coffee.
 = 他早上没喝第一杯咖啡之前总是脾气很躁。
 be irritable = 烦躁、易怒
@@ -1864,7 +1868,7 @@ an Islamist = 伊斯兰主义者
 island
 /ˈaɪlənd/
 核心：岛；（比喻）孤立的地方或群体。本义是四面环水的陆地；比喻被周围隔开的地方（a traffic island，道路中间的安全岛）。
-岛民 islander 与跳岛游 island-hopping 并入本条。
+岛民 islander 并入本条。
 ① They spent their holiday on a small island with no cars and only one shop.
 = 他们在一个没有汽车、只有一家商店的小岛上度假。
 on an island = 在岛上
@@ -2067,7 +2071,7 @@ issue
 一是名词「议题、问题」—— 大家要讨论、有争议的事（a political issue、the issue of…），口语里也指「毛病、麻烦」（have issues with）；
 at issue（争论中的）、take issue with（对…提出异议）、make an issue of（小题大做）；
 二是「发出、发行」—— 动词：正式发出、分发（issue a statement / passports）；名词：一期（杂志、报纸）、一次发行（an issue of stamps）；
-（旧，法律）子女、后代。issue from（从…流出、源于）与发行人 issuer 并入本条。
+（旧，法律）子女、后代。发行人 issuer 并入本条。
 ① Climate change has become a major political issue in many countries.
 = 在许多国家，气候变化已经成为一个重大的政治议题。
 a political issue = 政治议题
@@ -2336,7 +2340,7 @@ an Ivorian = 科特迪瓦人
 ivory
 /ˈaɪvəri/
 核心：象牙；象牙色。本义是大象、海象的长牙材料（the ivory trade）；也指乳白色（ivory paint）；
-复数 ivories（口语）指钢琴键（tickle the ivories = 弹钢琴）。ivory tower（象牙塔）并入本条。
+复数 ivories（口语）指钢琴键（tickle the ivories 即弹钢琴）。
 ① Selling ivory has been illegal in most countries since 1990.
 = 自一九九〇年以来，在大多数国家出售象牙都是违法的。
 ivory = 象牙
@@ -2411,11 +2415,8 @@ a jacaranda = 一棵蓝花楹
 jack
 /dʒæk/
 核心：本义是男子名 Jack，由「普通男人、干粗活的人」长出一串指工具、小东西的名词：
-千斤顶（a car jack）；（纸牌）J（the jack of spades）；（电）插座、插孔（a phone jack），jack plug 是插头；
-（滚木球）目标小球；（美，俚）一点也不（jack shit，粗俗）。
-动词：jack up（用千斤顶顶起；抬高价格）、jack in（英，俚：放弃工作）、jack into（接入网络）、
-jack off（粗俗：手淫）、jack around（美，俚：瞎混；耍弄某人）。
-复合词 jack-in-the-box（玩偶匣）、jack-o'-lantern（南瓜灯）、Jack cheese（美，蒙特雷杰克奶酪）并入本条；
+千斤顶（a car jack）；（纸牌）J（the jack of spades）；（电）插座、插孔（a phone jack）；
+（滚木球）目标小球。
 习语 jack of all trades（样样通、样样松的人）。
 ① He used a jack to lift the car and change the flat tyre.
 = 他用千斤顶把车顶起来，换了那个瘪了的轮胎。
@@ -2461,6 +2462,9 @@ Jack cheese = （美）蒙特雷杰克奶酪
 ⑭ My uncle can fix anything, but he's a jack of all trades and master of none.
 = 我叔叔什么都会修，可样样通、样样松。
 a jack of all trades = 样样都会一点的人
+⑮ The company kept jacking us around for months, promising to fix the heating and never sending anyone.
+= 那家公司耍了我们好几个月，一直答应修暖气，却从没派人来。
+jack around = （美式口语）耍弄、刁难（常拆开用：jack somebody around）
 
 jackal
 /ˈdʒækəl/
@@ -2525,8 +2529,7 @@ be jacked (up) for something = 为…兴奋
 jacket
 /ˈdʒækɪt/
 核心：夹克、短外套；（书的）护封；（土豆的）皮；（机器的）外罩。本义是短上衣；
-由「包在外面的一层」长出：书的护封（dust jacket）、烤土豆的皮（jacket potato）、救生衣（life jacket）。
-jacket potato（英，带皮烤土豆）并入本条。
+由「包在外面的一层」长出：书的护封（dust jacket）、烤土豆的皮、救生衣（life jacket）。
 ① She took off her jacket and hung it on the back of the chair.
 = 她脱下外套，挂在椅背上。
 take off your jacket = 脱掉外套
@@ -2782,9 +2785,8 @@ a rusty jalopy = 锈迹斑斑的破车
 jam
 /dʒæm/
 核心：两个来源的意思。一是果酱（strawberry jam）；二是本义「挤、塞」：
-挤满、堵塞（a traffic jam；jam-packed 挤得满满的）；卡住（the door jammed）；用力塞（jam something into）；
-干扰（无线电信号）；（口语）困境（be in a jam）；（音乐）即兴合奏（a jam session）。
-jam jar（果酱瓶）并入本条。
+挤满、堵塞（a traffic jam）；卡住（the door jammed）；用力塞（jam something into）；
+干扰（无线电信号）；（口语）困境（be in a jam）；（音乐）即兴合奏。
 ① She spread strawberry jam on her toast.
 = 她在吐司上抹了草莓酱。
 strawberry jam = 草莓酱
@@ -3077,7 +3079,7 @@ jaw
 /dʒɔː/
 核心：下巴、颌；（复数）口、钳口；险境。几支：人或动物的上下颌（a broken jaw）；
 动物的大嘴、机器的夹口（the jaws of a shark）；比喻危险的境地（from the jaws of death）；
-（口语）说个没完。jaw-dropping（令人瞠目结舌的）与 jaw-droppingly 并入本条。
+（口语）说个没完。
 ① He broke his jaw in a fight and could only drink through a straw for weeks.
 = 他打架打断了下巴，好几个星期只能用吸管喝东西。
 break your jaw = 打断下巴
@@ -3146,8 +3148,8 @@ a jaywalker = 乱穿马路的人
 jazz
 /dʒæz/
 核心：爵士乐；（口语）空话、那一套。本义是源于美国黑人音乐的一种乐风；
-口语里 and all that jazz（诸如此类）；jazz up（使更有趣、更花哨）；
-形容词 jazzy（爵士风格的；花哨的）、jazzed（美，口语：兴奋的）与 jazz funk（爵士放克）并入本条。
+口语里 and all that jazz（诸如此类）；
+形容词 jazzy（爵士风格的；花哨的）、jazzed（美，口语：兴奋的）并入本条。
 ① My father listens to jazz on the radio every Sunday morning.
 = 我父亲每个星期天早上都听电台里的爵士乐。
 listen to jazz = 听爵士乐
@@ -3166,6 +3168,9 @@ be jazzed about something = （美）对…兴奋
 ⑥ The band plays a mix of soul and jazz funk.
 = 那支乐队演奏灵魂乐和爵士放克的混搭。
 jazz funk = 爵士放克
+⑦ She jazzed up her old black dress with a bright red belt and a pair of silver earrings.
+= 她用一条鲜红的腰带和一对银耳环，给那条旧黑裙增色不少。
+jazz up = 使更有生气、装点
 
 je ne sais quoi
 /ˌʒə nə seɪ ˈkwɑː/
@@ -3326,7 +3331,7 @@ jelly
 /ˈdʒeli/
 核心：（英）果冻；（美）果酱；胶状物。英式里是甜点果冻（美式 jello）；美式里是果冻状的果酱（peanut butter and jelly）；
 也指任何半透明的胶状物质（petroleum jelly）；比喻腿软（legs turned to jelly）。
-形容词 jellied（做成冻的）与 jelly baby（英，胶糖小人）、jelly bean（软心豆粒糖）、jelly roll（美，果酱卷）并入本条。
+形容词 jellied（做成冻的）并入本条。
 ① The children had jelly and ice cream at the birthday party.
 = 生日聚会上孩子们吃了果冻和冰淇淋。
 jelly = （英）果冻
@@ -3454,8 +3459,7 @@ a jeremiad against something = 对…的哀叹
 jerk
 /dʒɜːk/
 核心：猛地一拉、一动；（口语，贬）蠢货、混蛋。动词：突然地拉、推、动（jerk the door open）；
-名词：一下急动（with a jerk）；骂人的话（a jerk）。短语：jerk around（美，俚：耍弄某人）、
-jerk off（粗俗：手淫）、jerk out（结结巴巴地说出）。副词 jerkily（一颠一颠地）并入本条。
+名词：一下急动（with a jerk）；骂人的话（a jerk）。副词 jerkily（一颠一颠地）并入本条。
 ① She jerked the door open and ran out into the rain.
 = 她猛地拉开门，跑进了雨里。
 jerk something open = 猛地拉开…
@@ -3484,6 +3488,9 @@ jerk out something = 结结巴巴地说出…
 = 那辆旧公交车在山路上一颠一颠地往前开。
 jerkily = 一颠一颠地
 说动作不平稳、一顿一顿。
+⑧ I am tired of being jerked around by the bank, so I am moving my money somewhere else.
+= 我受够了被那家银行耍来耍去，所以要把钱转到别处去。
+jerk around = （美式口语）耍弄（常拆开用：jerk somebody around）
 
 jerkin
 /ˈdʒɜːkɪn/
@@ -3623,9 +3630,7 @@ jet
 /dʒet/
 核心：喷气式飞机；（液体、气体的）喷射；煤玉（黑色宝石）。几支：喷气式飞机（fly by jet）；
 从小孔喷出的一股水或气（a jet of water）；动词 jet：乘飞机到处飞（jet around the world）；
-黑得发亮的煤玉，jet black 即「乌黑」。
-一串复合词并入本条：jet engine（喷气发动机）、jet lag / jet-lagged（时差反应）、jet propulsion / jet-propelled（喷气推进）、
-jet stream（急流）、jet-setter / jet-setting（出入上流社会、到处飞的富人）、jet-skiing（水上摩托运动）。
+黑得发亮的煤玉。
 ① The jet took off and disappeared into the clouds.
 = 喷气式飞机起飞了，消失在云层里。
 a jet = 喷气式飞机
@@ -3746,7 +3751,7 @@ play the Jew's harp = 弹口簧琴
 jewel
 /ˈdʒuːəl/
 核心：宝石、珠宝；（比喻）珍宝、最宝贵的人或物；（手表里的）钻（轴承用的小宝石）。
-形容词 jewelled（镶宝石的）与 jewel case（CD 盒）并入本条；the jewel in the crown 是「皇冠上的明珠」。
+形容词 jewelled（镶宝石的）并入本条；the jewel in the crown 是「皇冠上的明珠」。
 ① The thieves escaped with jewels worth millions of pounds.
 = 窃贼带着价值数百万英镑的珠宝逃走了。
 jewels = 珠宝
@@ -4113,8 +4118,7 @@ job
 （口语）某样特定的东西或一次处理（a nose job、a paint job）；（计算机）一项作业。
 习语：do the job（管用）、a good job / it's a good job（英：幸好）、make a good job of（把…做好）、
 just the job（英：正合适）。跟 work 的分别：job 可数，指一个职位；work 不可数，指工作这件事。
-一族复合词并入本条：job description、job satisfaction、job creation、job seeker、job-share / job-sharing、job lot、
-job action（美，劳工行动）、jobseeker's allowance（英，求职者津贴）。
+jobseeker's allowance（英，求职者津贴）并入本条。
 ① She got a job as a nurse at the local hospital after she left college.
 = 大学毕业后，她在本地医院找到了一份护士的工作。
 get a job = 找到工作
@@ -4237,7 +4241,6 @@ be a jobsworth = 死板、不肯通融
 jock
 /dʒɒk/
 核心：（美，口语）运动健将（常贬：四肢发达的学生运动员）；（英，口语，可能冒犯）苏格兰人。
-jock itch（股癣）并入本条。
 ① In high school he was a jock who cared more about football than books.
 = 上高中时他是个体育生，对橄榄球比对书本更上心。
 a jock = （美）运动健将
@@ -4335,7 +4338,7 @@ a joey = （有袋动物的）幼崽
 jog
 /dʒɒɡ/
 核心：慢跑；轻推、轻碰；唤起（记忆）。几支：为锻炼而慢跑（go jogging）；不小心碰一下（jog somebody's elbow）；
-jog somebody's memory（唤起某人的记忆）；jog along / on（英：不紧不慢地进行）。
+jog somebody's memory（唤起某人的记忆）。
 慢跑者 jogger、名词 jogging 与 jogging suit（慢跑运动服）并入本条。
 ① She jogs around the park every morning before work.
 = 她每天上班前绕着公园慢跑。
@@ -4416,7 +4419,7 @@ join
 核心：连接；加入。本义是把两样东西接在一起（join the two pipes），由此长出：
 加入一个组织、一群人（join a club、join the army）；跟某人一起做某事（Will you join us?）；
 （路、河）汇合（the two rivers join）；排进（队伍）（join the queue）。
-短语：join in（参加进来）、join up（参军；会合）、join forces（联手）、join the club（彼此彼此）。
+短语：join forces（联手）、join the club（彼此彼此）。
 形容词 joined-up（英：连写的；协调一致的）并入本条。
 ① Use strong glue to join the two pieces of wood together.
 = 用强力胶把两块木头粘在一起。
@@ -4467,8 +4470,7 @@ joint
 核心：连接处、接头；关节；共同的。名词：两样东西接合的地方（a joint in a pipe）；人体的关节（the knee joint）；
 （英）一大块带骨的烤肉（a joint of beef）；（口语）便宜的小馆子、场所；（俚）大麻烟卷。
 形容词：共同的、共有的（a joint account、a joint effort）。习语 out of joint（脱臼；乱了套）。
-形容词 jointed（有关节的）、副词 jointly，以及 joint venture（合资企业）、joint degree（联合学位）、
-joint family（联合家庭）、joint resolution（联合决议）、joint-stock company（股份公司）并入本条。
+形容词 jointed（有关节的）与副词 jointly 并入本条。
 ① Water was leaking from a joint in the pipe under the sink.
 = 水正从洗涤槽底下管子的一个接头处漏出来。
 a joint in a pipe = 管道接头
@@ -4683,7 +4685,7 @@ joss sticks = 线香
 
 jostle
 /ˈdʒɒsəl/
-核心：推挤、挤撞；争夺 —— 在人群里推来挤去；jostle for（争夺位置、注意力）。
+核心：推挤、挤撞；争夺 —— 在人群里推来挤去，或争夺位置、注意力。
 ① Shoppers jostled each other to get to the cheap televisions.
 = 购物者你推我挤地抢着去买便宜电视。
 jostle somebody = 推挤某人
@@ -4693,7 +4695,7 @@ jostle for something = 争夺…
 
 jot
 /dʒɒt/
-核心：草草记下；一点点。动词多用 jot down（匆匆写下）；名词用在否定句：not a jot（一点也不）。
+核心：草草记下；一点点。动词指匆匆写下；名词用在否定句：not a jot（一点也不）。
 名词 jotter（英：便条本）与 jottings（随手写下的笔记）并入本条。
 ① I jotted down her phone number on the back of an envelope.
 = 我把她的电话号码草草记在一个信封背面。
@@ -5051,8 +5053,7 @@ judgement
 /ˈdʒʌdʒmənt/
 核心：判断力；看法、判断；判决。几支：正确判断的能力（good judgement）；经过考虑得出的意见（in my judgement）；
 法院的判决（the court's judgement）。法律文书和美式多拼 judgment。
-judgement call（需要凭个人判断作的决定）并入本条；习语 against your better judgement（明知不妥却还是）、
-pass judgement on（对…下判断）、sit in judgement on（评判别人）。
+习语 against your better judgement（明知不妥却还是）、pass judgement on（对…下判断）、sit in judgement on（评判别人）。
 ① She showed good judgement in refusing the offer.
 = 她拒绝那个提议，显示出良好的判断力。
 good judgement = 良好的判断力
@@ -5099,7 +5100,6 @@ the judicature = 法官、司法界（总称）
 judicial
 /dʒuːˈdɪʃəl/
 核心：司法的、法庭的、法官的 —— 说制度、程序、裁决。副词 judicially 并入本条。
-一组法律术语并入本条：judicial review（司法审查）、judicial activism（司法能动主义）、judicial restraint（司法克制）。
 ① The country has an independent judicial system.
 = 那个国家有独立的司法制度。
 the judicial system = 司法制度
@@ -5205,8 +5205,8 @@ juice
 /dʒuːs/
 核心：汁、果汁；（复数）体液、肉汁；（口语）电、汽油、能量。本义是水果蔬菜里的汁（orange juice）；
 肉烤出来的汁（meat juices）、消化液（digestive juices）；口语里指电力或燃料。
-动词：榨汁；juice up（美，口语：使更带劲、更有趣）。
-榨汁机 juicer、形容词 juiced（美，俚：兴奋的；醉的）与 juice bar（果汁吧）并入本条；juicy 另立。
+动词：榨汁。
+榨汁机 juicer、形容词 juiced（美，俚：兴奋的；醉的）并入本条；juicy 另立。
 ① She drinks a glass of orange juice with her breakfast every morning.
 = 她每天早上吃早饭时喝一杯橙汁。
 orange juice = 橙汁
@@ -5258,7 +5258,7 @@ bad juju = （口语）晦气
 
 juke
 /dʒuːk/
-核心：（美，体育）假动作晃过；急转闪避。juke joint（美，旧：有点唱机、可跳舞喝酒的小酒馆）并入本条。
+核心：（美，体育）假动作晃过；急转闪避。
 ① The running back juked past two defenders and scored.
 = 那名跑卫用假动作晃过两名防守队员，得了分。
 juke past somebody = 晃过某人
@@ -5319,7 +5319,7 @@ the fourth of July = 七月四日（美国独立日）
 jumble
 /ˈdʒʌmbəl/
 核心：杂乱的一堆；（英）旧货。动词：弄乱（常说 jumble up）。
-形容词 jumbled（杂乱的）与 jumble sale（英，旧货义卖；美式 rummage sale）并入本条。
+形容词 jumbled（杂乱的）并入本条。
 ① There was a jumble of shoes and coats by the front door.
 = 前门口乱糟糟地堆着鞋子和外套。
 a jumble of something = 一堆杂乱的…
@@ -5353,10 +5353,7 @@ jump
 因吃惊而猛地一动（make somebody jump）；数量、价格突然猛增（jump by ten per cent）；
 跳过、略过（jump a page）；插队（jump the queue）；急着下结论（jump to conclusions）；
 闯（红灯）（jump the lights）；名词：一跳、猛增、（赛马、滑雪的）障碍。
-短语：jump at（欣然抓住机会）、jump in（贸然插话或行动）、jump on（口语：猛烈批评）、jump out at（一下子引起注意）。
-一族复合词并入本条：jump-start、jump lead（英，跨接线）、jump rope（美，跳绳）、jump shot、jump ball（篮球）、
-jump cut（电影跳切）、jump jet（垂直起降喷气机）、jump-off（障碍赛加赛）、jumping jack（开合跳）、
-jumping bean（跳豆）、jumping-off point（起点）。
+一族复合词并入本条：jumping jack（开合跳）、jumping bean（跳豆）、jumping-off point（起点）。
 ① The children jumped up and down with excitement.
 = 孩子们兴奋得蹦蹦跳跳。
 jump up and down = 蹦蹦跳跳
@@ -5437,7 +5434,7 @@ jumped-up = 自以为了不起的
 
 jumper
 /ˈdʒʌmpə(r)/
-核心：（英）套头毛衣；（美）无袖连衣裙；跳跃者。jumper cable（美，跨接线）并入本条。
+核心：（英）套头毛衣；（美）无袖连衣裙；跳跃者。
 ① She put on a warm woollen jumper before going out into the snow.
 = 她出门走进雪里之前，套了一件暖和的羊毛衫。
 a woollen jumper = （英）羊毛衫
@@ -5511,7 +5508,7 @@ the twenty-first of June = 六月二十一日
 jungle
 /ˈdʒʌŋɡəl/
 核心：热带丛林；（比喻）混乱复杂、竞争激烈的地方。习语 the law of the jungle（弱肉强食的丛林法则）；
-the concrete jungle（钢筋水泥的城市丛林）。jungle gym（美，攀爬架；英式 climbing frame）并入本条。
+the concrete jungle（钢筋水泥的城市丛林）。
 ① The explorers cut their way through thick jungle for three weeks.
 = 探险者们在茂密的丛林里砍路前进了三个星期。
 thick jungle = 茂密的丛林
@@ -5531,10 +5528,8 @@ a jungle gym = （美）攀爬架
 junior
 /ˈdʒuːnjə(r)/
 核心：级别较低的、资历较浅的；年少的；（美）大学三年级的。形容词：职位低（a junior manager）、年纪小（junior members）；
-名词：下级、年少者（three years my junior = 比我小三岁）；美式指高中或大学三年级学生；
+名词：下级、年少者（three years my junior，比我小三岁）；美式指高中或大学三年级学生；
 放在人名后（缩写 Jr / Jnr）表示同名父子里的儿子。
-一组复合词并入本条：junior school（英，七到十一岁的小学）、junior high school（美，初中）、
-junior college（美，两年制专科）、junior doctor（英，初级医生）、junior varsity（美，校二队）、junior technician（英，空军军衔）。
 ① She started as a junior clerk and became a director within ten years.
 = 她从初级职员做起，十年内当上了董事。
 a junior clerk = 初级职员
@@ -5576,8 +5571,6 @@ a juniper = 刺柏
 junk
 /dʒʌŋk/
 核心：废旧杂物、破烂；（中国式）平底帆船。本义是没用的旧东西（a pile of junk）；动词（口语）：扔掉、丢弃。
-一组复合词并入本条：junk food（垃圾食品）、junk mail（垃圾邮件）、junk shop（旧货店）、
-junk bond（垃圾债券）、junk science（伪科学）。
 ① The garage is full of old junk that we never use.
 = 车库里塞满了我们从来不用的旧破烂。
 old junk = 旧破烂
@@ -5733,8 +5726,7 @@ each juror = 每位陪审员
 jury
 /ˈdʒʊəri/
 核心：陪审团；（比赛的）评委会。集合名词，谓语可单可复。常见 sit on a jury（当陪审员）；
-习语 the jury is still out（尚无定论）。jury duty（美，陪审义务；英式 jury service）、
-juryman / jurywoman（旧，男 / 女陪审员）并入本条。
+习语 the jury is still out（尚无定论）。juryman / jurywoman（旧，男 / 女陪审员）并入本条。
 ① The jury found him not guilty after three days of discussion.
 = 经过三天的商议，陪审团裁定他无罪。
 the jury = 陪审团
@@ -5785,7 +5777,6 @@ just
 「正好、恰好」（just what I wanted、just as）；「勉强、刚好」（only just）；加强语气「简直、就是」（just wonderful）；
 口语里软化请求（Could you just…）。常用短语：just about（差不多）、just now（刚才；此刻）、just in case（以防万一）。
 形容词（正式）：公正的、正当的（a just war）；副词 justly（公正地；当之无愧地）并入本条。
-just-in-time（准时制的，企业按需即时供货的生产方式）并入本条。
 ① I've just finished the report, so I can send it to you now.
 = 我刚写完报告，现在就可以发给你。
 have just done something = 刚刚做完…
@@ -5882,7 +5873,6 @@ a justiciary = （历史）最高司法官
 justifiable
 /ˌdʒʌstɪˈfaɪəbəl/
 核心：有正当理由的、情有可原的 —— 可以被证明是合理的。副词 justifiably 并入本条。
-justifiable homicide（正当杀人，如自卫）也并在这里。
 ① Her anger was justifiable, given how badly she had been treated.
 = 考虑到她受到的恶劣对待，她的愤怒是情有可原的。
 be justifiable = 情有可原
@@ -5956,7 +5946,6 @@ a jute sack = 麻袋
 juvenile
 /ˈdʒuːvənaɪl/
 核心：青少年的、未成年人的；（贬）幼稚的。名词：未成年人；（动物）幼体。
-juvenile court（少年法庭）与 juvenile delinquency（青少年犯罪）并入本条。
 ① The case was heard in a juvenile court because the boy was only fifteen.
 = 因为那男孩只有十五岁，案子由少年法庭审理。
 a juvenile court = 少年法庭
@@ -6220,7 +6209,7 @@ a kanban board = 看板
 
 kangaroo
 /ˌkæŋɡəˈruː/
-核心：袋鼠。kangaroo court（私设公堂、不合法的非正式法庭）并入本条。
+核心：袋鼠 —— 澳大利亚特有、用后腿跳跃、母兽腹部有育儿袋的有袋动物。
 ① A kangaroo jumped across the road in front of the car.
 = 一只袋鼠在车前跳过了马路。
 a kangaroo = 袋鼠
@@ -6498,7 +6487,7 @@ make kedgeree = 做鱼蛋烩饭
 
 keel
 /kiːl/
-核心：（船的）龙骨；keel over（船倾覆；人突然倒下）。习语 on an even keel（平稳、稳定）。
+核心：（船的）龙骨。习语 on an even keel（平稳、稳定）。
 动词 keelhaul（旧：把人拖过船底作惩罚；谑：严厉训斥）并入本条。
 ① The boat's keel scraped the rocks as we came into the harbour.
 = 我们进港时，船的龙骨刮到了礁石。
@@ -6555,8 +6544,7 @@ keep
 存放在某处（keep the keys in a drawer）；遵守、履行（keep a promise）；保守（keep a secret）；
 持续记录（keep a diary）；饲养、经营（keep hens、keep a shop）；（食物）保鲜（The milk will keep）；
 耽搁（What kept you?）；供养（keep a family）。名词：生活费（earn your keep）；for keeps（永久地）。
-一大族短语动词都从「保持在某个位置」来：keep away / back / down / off / out（离开、压住）、
-keep on / up（继续）、keep to（遵守、不偏离）、keep up with（跟上）。过去式、过去分词 kept。
+过去式、过去分词 kept。
 ① Please keep quiet while the baby is asleep.
 = 宝宝睡觉时请保持安静。
 keep quiet = 保持安静
@@ -6729,7 +6717,7 @@ a kaffiyeh = 阿拉伯头巾（另一种拼法）
 
 keg
 /keɡ/
-核心：（装啤酒的）小桶。keg beer（英，桶装加压啤酒）并入本条。
+核心：（装啤酒等的）小桶 —— 金属或木制的小圆桶，多用来盛装啤酒。
 ① They rolled a keg of beer into the garden for the party.
 = 他们把一桶啤酒滚进花园，准备开派对。
 a keg of beer = 一桶啤酒
@@ -6841,7 +6829,7 @@ a keratin treatment = 角蛋白护理
 kerb
 /kɜːb/
 核心：（英）路缘、马路牙子 —— 人行道与车行道之间的石头边沿；美式拼 curb。
-名词 kerbside（路边）、kerbstone（路缘石）与 kerb-crawler / kerb-crawling（英：开车沿街招妓的人 / 行为）并入本条。
+名词 kerbside（路边）与 kerbstone（路缘石）并入本条。
 ① The taxi pulled up at the kerb outside the hotel.
 = 出租车在酒店外的路边停了下来。
 at the kerb = 在路边
@@ -6998,9 +6986,7 @@ key
 核心：钥匙。由「打开门的东西」长出几支：解决问题的关键（the key to success）；
 关键的、最重要的（a key factor，形容词）；（键盘、钢琴的）键；（音乐的）调；（地图、练习的）图例、答案。
 动词 key：用键盘输入（key in）；keyed up 另立。
-习语 under lock and key（锁着、严加看管）。一族复合词并入本条：key ring（钥匙圈）、key card（门卡）、
-key worker（英：关键岗位工作者）、key signature（调号）、key light（主光）、key grip（影视：场务领班）、
-Key lime pie（青柠派）。
+习语 under lock and key（锁着、严加看管）。
 ① I can't find my car keys anywhere, and the taxi is already waiting outside.
 = 我到处都找不到车钥匙，出租车已经在外面等着了。
 car keys = 车钥匙
@@ -7052,8 +7038,7 @@ Key lime pie = 青柠派
 keyboard
 /ˈkiːbɔːd/
 核心：键盘；键盘乐器。名词：电脑、打字机上的一排排键；钢琴的琴键；（常用复数）电子键盘乐器。
-动词：用键盘输入。键盘手 keyboardist、录入员 keyboarder、名词 keyboarding（键盘录入）与
-keyboard warrior（键盘侠）并入本条。
+动词：用键盘输入。键盘手 keyboardist、录入员 keyboarder 与名词 keyboarding（键盘录入）并入本条。
 ① I spilled coffee on my keyboard, and now half the keys don't work.
 = 我把咖啡洒在了键盘上，现在一半的键都不灵了。
 a keyboard = 键盘
@@ -7095,7 +7080,7 @@ too keyed up to do something = 紧张得没法…
 
 keyhole
 /ˈkiːhəʊl/
-核心：钥匙孔、锁眼。keyhole surgery（英：微创手术、锁孔手术）并入本条。
+核心：钥匙孔、锁眼 —— 门锁上供插入钥匙的小孔。
 ① The child looked through the keyhole to see who was in the room.
 = 那孩子从锁眼往里看，想知道屋里是谁。
 look through the keyhole = 从锁眼往里看
@@ -7301,10 +7286,6 @@ kick
 戒掉（恶习）（kick the habit）；懊恼得想踢自己（kick yourself）。名词：一脚；（口语）快感、刺激（get a kick out of、for kicks）；
 （酒、药的）冲劲（a drink with a kick）。习语：kick the bucket（口语：死、翘辫子）、a kick in the teeth（沉重的打击）、
 kick up a fuss（大吵大闹）。
-短语动词：kick off（开球；开始）、kick out（赶出去）、kick in（开始起作用）、kick back（放松休息）、
-kick about / around（闲置；随意讨论；到处闲逛）、kick against（反抗）、kick up（踢起、掀起）。
-复合词并入本条：kick-start（脚踏启动；使迅速启动）、kick-boxing（踢拳、自由搏击）、kick drum（底鼓）、
-kick turn（滑雪、滑板的踢转）、kick-ass（美，俚：厉害的、强硬的）。
 ① The boys were kicking a ball around in the yard.
 = 男孩们在院子里踢球玩。
 kick a ball = 踢球
@@ -7440,8 +7421,8 @@ kick the kickstand down = 踢下脚撑
 
 kid
 /kɪd/
-核心：（口语）小孩；年轻人；小山羊。动词：开玩笑、哄骗（I'm only kidding；No kidding!；kid yourself = 自欺）。
-kid around（美：闹着玩）并入本条；亲昵称呼 kiddo 与 kiddie（小孩子）也并入本条。
+核心：（口语）小孩；年轻人；小山羊。动词：开玩笑、哄骗（I'm only kidding；No kidding!；kid yourself，自欺）。
+亲昵称呼 kiddo 与 kiddie（小孩子）并入本条。
 ① They have three kids, and the youngest has just started school.
 = 他们有三个孩子，最小的刚上学。
 kids = 孩子（口语）
@@ -7488,7 +7469,6 @@ kidnapping = 绑架
 kidney
 /ˈkɪdni/
 核心：肾、肾脏；（动物的）腰子（作食物）。
-kidney bean（芸豆、腰豆）与 kidney machine（肾透析机）并入本条。
 ① The kidneys remove waste from the blood.
 = 肾脏清除血液里的废物。
 the kidneys = 肾脏
@@ -7568,10 +7548,9 @@ kill
 /kɪl/
 核心：杀死、致死。本义是让人或动物、植物失去生命，由此引申：让某事停止、完蛋（kill the deal）；
 让人疼得、累得要命（my feet are killing me）；消磨（时间）（kill time）；（口语）让人笑死、气死。
-名词：猎杀；猎获的动物（move in for the kill = 下手置于死地）。
+名词：猎杀；猎获的动物（move in for the kill，下手置于死地）。
 习语：kill two birds with one stone（一石二鸟）、dressed to kill（打扮得光彩照人）、kill yourself laughing（笑死）、
-if it kills me（拼了命也要）。短语动词 kill off（全部杀光；使彻底消失）；kill switch（紧急关停开关）并入本条。
-killer、killing 另立。
+if it kills me（拼了命也要）。killer、killing 另立。
 ① Three people were killed when the bus crashed into the bridge.
 = 公交车撞上桥，造成三人死亡。
 be killed = 丧生
@@ -7617,8 +7596,6 @@ kill yourself laughing = 笑得要死
 killer
 /ˈkɪlə(r)/
 核心：杀手、凶手；致命的东西；（口语）极难、极累人的事；（口语，作定语）极棒的。
-一组复合词并入本条：killer whale（虎鲸）、killer bee（杀人蜂）、killer cell（杀伤细胞）、
-killer instinct（必胜的狠劲）、killer app（杀手级应用）。
 ① Three months after the murder, the police are still looking for the killer.
 = 谋杀案发生三个月后，警方仍在追捕凶手。
 the killer = 凶手
@@ -7648,7 +7625,7 @@ a killer app = 杀手级应用
 killing
 /ˈkɪlɪŋ/
 核心：杀害、谋杀；（口语，形容词）累死人的、笑死人的。
-习语 make a killing（发大财、大赚一笔）；the killing fields（杀戮场）并入本条。
+习语 make a killing（发大财、大赚一笔）。
 ① The killing of the two journalists shocked the whole country.
 = 两名记者遇害震惊了全国。
 the killing of somebody = 某人遇害
@@ -7752,7 +7729,7 @@ kilometres an hour = 每小时…公里
 
 kilowatt
 /ˈkɪləwɒt/
-核心：千瓦 —— 功率单位，等于一千瓦。kilowatt-hour（千瓦时，即一度电）并入本条。
+核心：千瓦 —— 功率单位，等于一千瓦。
 ① The electric heater uses two kilowatts of power.
 = 那台电暖器的功率是两千瓦。
 two kilowatts = 两千瓦
@@ -7834,9 +7811,9 @@ damage somebody's kinaesthesia = 损害某人的动觉
 kind
 /kaɪnd/
 核心：两个来源相同的词：名词「种类」与形容词「友好的」（古英语里都跟「族类、天性」有关）。
-名词：一类、一种（a kind of、all kinds of）；口语 kind of 当副词用 = 有点儿（I'm kind of tired）；
+名词：一类、一种（a kind of、all kinds of）；口语 kind of 当副词用，意思是有点儿（I'm kind of tired）；
 of a kind（勉强算是；同一类的）、one of a kind（独一无二）、in kind（以实物；以同样方式回敬）。
-形容词：体贴、和善（be kind to、It's kind of you to…）。比较级 kinder 与 kind-hearted（好心肠的）并入本条；
+形容词：体贴、和善（be kind to、It's kind of you to…）。比较级 kinder 并入本条；
 kindly、kindness 另立。
 ① What kind of music do you like?
 = 你喜欢哪种音乐？
@@ -7968,7 +7945,7 @@ somebody's kindred = 某人的亲属（旧）
 
 kinetic
 /kɪˈnetɪk/
-核心：运动的、动力的 —— 物理学上指与运动有关的（kinetic energy，动能）。kinetic art（动态艺术）并入本条。
+核心：运动的、动力的 —— 物理学上指与运动有关的（kinetic energy，动能）。
 ① A moving car has kinetic energy, which turns into heat when it brakes.
 = 行驶中的汽车具有动能，刹车时动能转化为热。
 kinetic energy = 动能
@@ -7980,9 +7957,9 @@ kinetic art = 动态艺术
 king
 /kɪŋ/
 核心：国王；（某领域的）大王、最重要的一个；（国际象棋的）王；（纸牌的）K。
-一组复合词与习语并入本条：king-size（特大号的）、a king's ransom（一大笔钱）、
+一组复合词与习语并入本条：a king's ransom（一大笔钱）、
 King's evidence（英：供出同伙以减刑的证词，女王在位时叫 Queen's evidence）、King's Counsel（英：王室法律顾问，资深大律师）、
-the King's Bench（英：高等法院王座庭）、king of the castle（山大王、最有权势的人）。
+the King's Bench（英：高等法院王座庭）。
 形容词 kingly（国王般的）与名词 kingship（王位、王权）并入本条。
 ① The king ruled the country for more than forty years.
 = 那位国王统治了这个国家四十多年。
@@ -8165,7 +8142,7 @@ white kippas = 白色圆顶小帽
 
 kipper
 /ˈkɪpə(r)/
-核心：腌熏鲱鱼 —— 剖开、盐腌、烟熏的鲱鱼，英国传统早餐。kipper tie（英：又宽又花的领带，流行于一九七〇年代）并入本条。
+核心：腌熏鲱鱼 —— 剖开、盐腌、烟熏的鲱鱼，英国传统早餐。
 ① He had kippers and toast for breakfast at the seaside hotel.
 = 他在海边酒店的早餐吃了熏鲱鱼和吐司。
 kippers = 腌熏鲱鱼
@@ -8212,8 +8189,7 @@ kiss
 核心：吻、亲吻；（比喻）轻轻触碰。
 习语：kiss goodbye to（口语：别指望再得到、跟…说再见）、the kiss of death（看似好事、实则致命的东西）、
 kiss and make up（和好如初）、the kiss of life（英：人工呼吸）。
-短语 kiss something away（用吻消除眼泪、烦恼）；kiss-off（美，口语：粗暴的打发、解雇）并入本条；
-口语 kisser（接吻的人；俚：嘴巴）也并入本条。
+短语 kiss something away（用吻消除眼泪、烦恼）；口语 kisser（接吻的人；俚：嘴巴）并入本条。
 ① She kissed the children goodnight and switched off the light.
 = 她亲了亲孩子们，道了晚安，关了灯。
 kiss somebody goodnight = 亲吻某人道晚安
@@ -8283,9 +8259,8 @@ a kitbag = 行军包
 kitchen
 /ˈkɪtʃən/
 核心：厨房。习语 everything but the kitchen sink（能带的全带上了）。
-一组复合词并入本条：kitchen garden（菜园）、kitchen paper（英：厨房纸巾）、kitchen porter（英：厨房杂工）、
-kitchen police（美，军：帮厨勤务）、kitchen-sink（英：描写底层家庭生活的，如 kitchen-sink drama）；
-名词 kitchenette（小厨房）与 kitchenware（厨具）也并入本条。
+kitchen-sink drama（英：描写底层家庭生活的戏剧）；
+名词 kitchenette（小厨房）与 kitchenware（厨具）并入本条。
 ① We usually eat breakfast in the kitchen.
 = 我们通常在厨房吃早饭。
 in the kitchen = 在厨房
@@ -8355,7 +8330,7 @@ collect kitsch = 收藏媚俗小玩意
 kitten
 /ˈkɪtən/
 核心：小猫。习语 have kittens（英，口语：急得团团转）。
-形容词 kittenish（像小猫的；娇俏的）与 kitten heels（猫跟鞋、细矮跟鞋）并入本条。
+形容词 kittenish（像小猫的；娇俏的）并入本条。
 ① The cat had five kittens in a box under the stairs.
 = 那只猫在楼梯下的箱子里生了五只小猫。
 a kitten = 小猫
@@ -8405,7 +8380,7 @@ kitty-cornered = （美）斜对面的
 
 kiwi
 /ˈkiːwi/
-核心：几维鸟（新西兰的一种不会飞的鸟）；（口语，大写 Kiwi）新西兰人；猕猴桃。kiwi fruit（猕猴桃）并入本条。
+核心：几维鸟（新西兰的一种不会飞的鸟）；（口语，大写 Kiwi）新西兰人；猕猴桃。
 ① The kiwi is a shy bird that comes out only at night.
 = 几维鸟是一种害羞的鸟，只在夜里出来。
 a kiwi = 几维鸟
@@ -8557,8 +8532,7 @@ knee
 /niː/
 核心：膝盖；（裤子的）膝部。动词：用膝盖顶。
 习语：on your knees（跪着；濒于垮掉）、bring somebody to their knees（使屈服、使瘫痪）、
-weak at the knees（腿软）。一组复合词并入本条：knee-deep（齐膝深的；深陷于）、knee-high（及膝高的）、
-knee-length（长及膝盖的）、knee-jerk（膝跳反射的；不假思索的）。
+weak at the knees（腿软）。
 ① He hurt his knee playing football and couldn't walk for a week.
 = 他踢足球伤了膝盖，一个星期走不了路。
 hurt your knee = 伤了膝盖
@@ -8672,8 +8646,8 @@ knicker elastic = 内裤松紧带
 knife
 /naɪf/
 核心：刀；（动词）用刀捅。复数 knives。
-习语：under the knife（口语：做手术）、twist the knife（往伤口上撒盐）、like a knife through butter（毫不费力）；
-knife-edge（刀刃；on a knife-edge = 处于千钧一发、结果难料）与 knifepoint（at knifepoint = 在刀尖威逼下）并入本条。
+习语：under the knife（口语：做手术）、twist the knife（往伤口上撒盐）、like a knife through butter（毫不费力）、
+on a knife-edge（处于千钧一发、结果难料）；knifepoint（at knifepoint：在刀尖威逼下）并入本条。
 ① Cut the bread with a sharp knife.
 = 用一把快刀切面包。
 a sharp knife = 快刀
@@ -8775,13 +8749,9 @@ knobbly knees = 骨节突出的膝盖
 knock
 /nɒk/
 核心：敲、撞、碰 —— 敲门；撞到、碰倒；（口语）批评、挑毛病。名词：敲门声；撞击；打击、挫折。
-短语动词一大族：knock down（撞倒；拆除；压价）、knock out（打昏；淘汰）、knock over（碰倒）、
-knock off（下班；减价；英俚：偷）、knock back（一口喝下；使受挫）、knock up（英：赶做出来）、
-knock together（草草拼成）、knock around（闲逛；常在一起；粗暴对待）。
 习语：knock on wood（美：但愿走运，英式说 touch wood）、knock it off（住手、别闹了）、
 knock some sense into（让…清醒过来）、knock somebody's socks off（口语：让人惊艳）。
-复合词并在这里：knock-on（连锁的）、knock-kneed 与 knock knees（膝内翻）、knocking copy（贬低对手的广告）、
-knocking shop（英俚：妓院）、knock-knock joke（「敲敲门」笑话）、knock-down-drag-out（美：激烈不留情的）。
+复合词并在这里：knocking copy（贬低对手的广告）、knocking shop（英俚：妓院）。
 ① Somebody knocked on the door three times while we were having dinner.
 = 我们吃晚饭的时候，有人敲了三下门。
 knock on the door = 敲门
@@ -8991,7 +8961,6 @@ know
 you never know（说不定）、know better（懂事、不至于那么傻）、in the know（知情的）、
 know something inside out（了如指掌）、before you know it（转眼间）、God knows（天晓得）、
 there's no knowing（没法知道）。
-复合词 know-how（实际本领、技术诀窍）、know-all 与美式 know-it-all（自以为无所不知的人）并入本条。
 ① I know that she is angry, but I don't know why.
 = 我知道她在生气，可不知道为什么。
 know that… = 知道…
@@ -9159,9 +9128,7 @@ make it known that… = 把…公之于众
 knuckle
 /ˈnʌkəl/
 核心：指关节；（猪、小牛的）肘子、蹄膀。
-短语动词：knuckle down（开始认真干）、knuckle under（屈服）。习语：a rap on the knuckles（一顿训斥）、
-near the knuckle（英，口语：近乎下流）。口语复合词 knuckle sandwich（一拳打在嘴上）与
-knuckle-dragger（粗野的蠢汉）并入本条。
+习语：a rap on the knuckles（一顿训斥）、near the knuckle（英，口语：近乎下流）。
 ① He hit the wall so hard that he cut his knuckles.
 = 他狠狠地捶了一下墙，把指关节都蹭破了。
 your knuckles = 指关节
@@ -9676,9 +9643,8 @@ labour
 /ˈleɪbə(r)/
 核心：劳动、（尤指）体力活；劳动力、工人（总称）；分娩。动词：辛苦干活；吃力地行进。美式拼 labor。
 英国的工党叫 Labour。名词 labourer（体力劳动者）、形容词 laboured（吃力的；不自然的）、labouring（干体力活的）并入本条。
-习语：a labour of love（心甘情愿做的苦差）、labour the point（把一点说个没完）、labour under（受…之苦；抱着错误想法）。
-搭配：labour force（劳动力）、labour market（劳动力市场）、labour camp（劳改营）、labour-intensive（劳动密集的）、
-labour-saving（省力的）、（美）labor union（工会）。
+习语：a labour of love（心甘情愿做的苦差）、labour the point（把一点说个没完）。
+美式还有 labor union（工会）。
 ① The price includes the cost of parts and labour.
 = 这个价钱包括零件和人工费。
 parts and labour = 零件和人工
@@ -9786,7 +9752,6 @@ labyrinthine = 迷宫般的、错综复杂的
 lace
 /leɪs/
 核心：蕾丝、花边；鞋带。动词：系（鞋带）；往（饮料、食物）里掺（酒、药、毒）。
-复合词 lace-up（系带的；系带鞋）并入本条。
 ① The bride wore a long dress trimmed with white lace.
 = 新娘穿着一件镶白色蕾丝的长裙。
 trimmed with lace = 镶着蕾丝
@@ -10075,7 +10040,7 @@ receive the bill of lading = 收到提单
 
 ladle
 /ˈleɪdəl/
-核心：长柄勺、汤勺。动词：用勺舀；ladle out（大量地给、滥发）。
+核心：长柄勺、汤勺。动词：用勺舀。
 ① She served the soup with a large metal ladle.
 = 她用一把大号金属长柄勺盛汤。
 a soup ladle = 汤勺
@@ -10089,7 +10054,7 @@ ladle out = 大量地给、滥发
 lady
 /ˈleɪdi/
 核心：女士（比 woman 客气）；淑女；（英）Lady（贵族夫人、小姐的称号）。
-固定说法：ladies and gentlemen（女士们、先生们）、the ladies（英：女厕所）、lady-in-waiting（侍女、女官）、
+固定说法：ladies and gentlemen（女士们、先生们）、the ladies（英：女厕所）、
 ladies' man（爱在女人堆里献殷勤的男人，也写 lady's man）、Ladies' Day（赛马会的女士日）。
 ① There is an old lady at the door asking for you.
 = 门口有位老太太找你。
@@ -10219,7 +10184,7 @@ a laggard = 落后者
 
 lager
 /ˈlɑːɡə(r)/
-核心：拉格啤酒、淡啤 —— 色浅、气足、冰着喝的啤酒；一杯这种啤酒。lager lout（英：喝多了闹事的小伙子）并入本条。
+核心：拉格啤酒、淡啤 —— 色浅、气足、冰着喝的啤酒；一杯这种啤酒。
 ① He ordered a pint of lager and a packet of crisps.
 = 他点了一品脱淡啤和一包薯片。
 a pint of lager = 一品脱淡啤
@@ -10316,7 +10281,7 @@ a ribbon lake = 带状湖、狭长湖
 
 lam
 /læm/
-核心：on the lam（美，口语：在逃）；动词（英，口语）：狠揍，lam into（痛打；痛骂）。
+核心：on the lam（美，口语：在逃）；动词（英，口语）：狠揍。
 ① The two robbers spent three weeks on the lam before the police caught them in Texas.
 = 那两个劫匪在逃了三个星期，才被警察在得克萨斯抓住。
 on the lam = （美，口语）在逃
@@ -10411,7 +10376,7 @@ the letter lambda = 希腊字母 lambda
 lame
 /leɪm/
 核心：瘸的、跛的；（借口、理由）站不住脚的；（美，口语）没劲的、逊的。
-副词 lamely（无力地）与名词 lameness（跛）并入本条。固定说法 a lame duck（跛脚鸭：任期将满、没了实权的官员；不中用的人或企业）。
+副词 lamely（无力地）与名词 lameness（跛）并入本条。
 ① The horse went lame after jumping the last fence.
 = 那匹马跳过最后一道栏后瘸了。
 go lame = 瘸了
@@ -10495,7 +10460,7 @@ laminated glass = 夹层玻璃
 lamp
 /læmp/
 核心：灯 —— 台灯、落地灯、路灯；（医疗、取暖用的）灯。
-复合词 lamplight（灯光）、lamplit（灯光照着的）、lampshade（灯罩）、lamp post（路灯柱）并入本条。
+复合词 lamplight（灯光）、lamplit（灯光照着的）、lampshade（灯罩）并入本条。
 ① She switched on the lamp beside the bed and picked up her book.
 = 她打开床边的台灯，拿起书。
 switch on the lamp = 开灯
@@ -10546,8 +10511,7 @@ lampreys as a dish = 当菜肴的七鳃鳗
 lance
 /lɑːns/
 核心：长矛 —— 旧时骑兵骑马冲刺用的武器；动词：（医）切开（脓肿）放脓。
-名词 lancer（枪骑兵）、lancers（一种旧式方阵舞）并入本条；军衔 lance corporal（一等兵）、
-lance bombardier（炮兵一等兵）、lance sergeant（近卫团的代理中士）也并在这里。
+名词 lancer（枪骑兵）、lancers（一种旧式方阵舞）并入本条。
 ① The knight lowered his lance and charged at his opponent.
 = 那位骑士放平长矛，向对手冲去。
 lower your lance = 放平长矛
@@ -10588,12 +10552,9 @@ land
 /lænd/
 核心：陆地（与海、空相对）；土地、田地；（文）国土、国度。动词：（飞机、人）着陆、降落；（船）靠岸；落到；
 （口语）弄到（工作、合同）；使（某人）陷入（麻烦）。
-短语动词：land up（英，口语：最后落到某处、某境地，常接 in / at / on / with）、land in（使陷入）、
-land with（把苦差、麻烦事塞给）。
-习语：by land（走陆路）、dry land（陆地）、land on your feet（逢凶化吉）、the lie of the land（地形；形势）。
-搭配：land mass（大陆块）、land bridge（陆桥）、land reform（土地改革）、land registry（土地登记处）、land agent（地产管家）、
-land grab（抢地、圈地，人称 land grabber，行为又叫 land grabbing）、land-based（陆基的）、land yacht（陆地帆车）、
-（美）land office（土地局；a land-office business 指兴隆的生意）。
+短语动词 land up（英，口语：最后落到某处、某境地，常接 in / at / on / with）。
+习语：by land（走陆路）、dry land（陆地）、land on your feet（逢凶化吉）、the lie of the land（地形；形势）；
+（美）a land-office business（兴隆的生意）。
 ① After three weeks at sea, the sailors were glad to be back on land.
 = 在海上漂了三个星期，水手们很高兴回到陆地上。
 on land = 在陆地上
@@ -10706,7 +10667,7 @@ a landau = 兰道马车
 
 landed
 /ˈlændɪd/
-核心：拥有大片土地的；由土地构成的 —— 只用在名词前。加拿大说法 landed immigrant（获永久居留权的移民）并入本条。
+核心：拥有大片土地的；由土地构成的 —— 只用在名词前。
 ① The landed gentry lost much of their power in the nineteenth century.
 = 十九世纪，有地的乡绅失去了大部分权势。
 the landed gentry = 有地的乡绅
@@ -10768,8 +10729,6 @@ a landholding = 持有的土地
 landing
 /ˈlændɪŋ/
 核心：（飞机）降落、着陆；（部队）登陆；楼梯平台、楼梯口的过道。
-搭配：landing gear（起落架）、landing strip（简易跑道）、landing lights（着陆灯）、landing craft（登陆艇）、
-landing stage（栈桥码头）、landing page（网站的落地页）。
 ① The pilot made an emergency landing on a motorway.
 = 飞行员在一条高速公路上紧急降落。
 an emergency landing = 紧急降落
@@ -10916,8 +10875,7 @@ a landowning family = 地主家庭
 landscape
 /ˈlænskeɪp/
 核心：风景、地貌 —— 一眼望去的整片乡野；风景画；（比喻）局面、格局；（纸张、图片）横向。
-动词：对（园地）做景观美化。名词 landscaping（景观美化）并入本条；
-搭配 landscape gardener / gardening（园林设计师；园林设计）、landscape architect / architecture（景观设计师；景观设计）。
+动词：对（园地）做景观美化。名词 landscaping（景观美化）并入本条。
 ① The landscape changes from flat fields to steep hills as you drive north.
 = 往北开，风景从平坦的田野变成陡峭的山丘。
 the landscape = 风景、地貌
@@ -11025,7 +10983,6 @@ language
 核心：语言 —— 人类说和写的交流系统；某一种语言；某种说话的方式、措辞；（计算机）编程语言。
 习语：bad language（脏话）、body language（肢体语言）、mind your language（注意你的言辞）、
 speak the same language（有共同语言）。
-搭配：language laboratory（语言实验室）、language engineering（语言工程）、language transfer（语言迁移）。
 ① She speaks three languages and is learning a fourth.
 = 她会说三种语言，正在学第四种。
 speak a language = 说一种语言
@@ -11151,7 +11108,6 @@ lanolin in wool = 羊毛里的油脂
 lantern
 /ˈlæntənt/
 核心：灯笼、提灯 —— 有透明罩子、可以提着走的灯。
-lantern jaw（又长又瘦的下巴）与形容词 lantern-jawed 并入本条。
 ① The farmer carried a lantern as he crossed the dark yard to the barn.
 = 农夫提着一盏灯穿过漆黑的院子去谷仓。
 carry a lantern = 提着灯
@@ -11210,9 +11166,9 @@ a Laotian = 老挝人
 lap
 /læp/
 核心：（坐着时的）大腿面；（跑道、泳池的）一圈；（行程的）一段。动词：（动物）舔着喝；（波浪）轻轻拍打；
-（比赛中）领先一整圈。短语动词 lap up（舔光；欣然照单全收）。
+（比赛中）领先一整圈。
 习语：in the lap of luxury（养尊处优）、in the lap of the gods（听天由命）、a lap of honour（英：胜利者绕场一周）。
-复合词 lapdog（哈巴狗；唯命是从的人）、lap belt（腰式安全带）、lap dancing（膝上艳舞）并入本条。
+复合词 lapdog（哈巴狗；唯命是从的人）并入本条。
 ① The little girl sat on her grandmother's lap and listened to the story.
 = 小女孩坐在奶奶腿上听故事。
 on somebody's lap = 坐在某人腿上
@@ -11325,7 +11281,7 @@ the smoky taste of lapsang souchong = 正山小种的烟熏味
 lapse
 /læps/
 核心：一时的疏忽、失误；（两件事之间的）间隔；（一时的）失态、行为不检。
-动词：（合同、会员资格）失效、期满终止；渐渐停止；lapse into（陷入、滑入某种状态）。
+动词：（合同、会员资格）失效、期满终止；渐渐停止。
 形容词 lapsed（已失效的；不再信教的）并入本条。
 ① A momentary lapse of concentration by the driver caused the crash.
 = 司机一瞬间走神，造成了那起撞车事故。
@@ -11406,8 +11362,8 @@ made of larch = 落叶松木做的
 
 lard
 /lɑːd/
-核心：猪油 —— 白色的固体猪脂肪，用来煎炸、做酥皮。动词：lard with（往讲话、文章里塞满某种词句）。
-相关的 lardon（熏肉丁）、英式糕点 lardy cake（猪油甜面包）、美式粗话 lard-ass（大胖子，冒犯）并入本条。
+核心：猪油 —— 白色的固体猪脂肪，用来煎炸、做酥皮。
+相关的 lardon（熏肉丁）与英式糕点 lardy cake（猪油甜面包）并入本条。
 ① My grandmother always fried potatoes in lard, not in oil.
 = 我奶奶炸土豆总是用猪油，不用油。
 fry something in lard = 用猪油炸
@@ -11445,7 +11401,7 @@ large
 /lɑːdʒ/
 核心：大的 —— 尺寸、数量、范围大；比 big 稍正式，不用来说「重要」。
 习语：at large（逍遥法外；总体上）、by and large（大体上）、larger than life（个性张扬、引人注目的）。
-派生词 largish（偏大的）、largeness（大）与复合词 large-scale（大规模的）并入本条。
+派生词 largish（偏大的）与 largeness（大）并入本条。
 ① They live in a large house with a garden on the edge of town.
 = 他们住在城边一座带花园的大房子里。
 a large house = 大房子
@@ -11533,7 +11489,7 @@ a coiled lariat = 一盘套索
 lark
 /lɑːk/
 核心：云雀、百灵 —— 清晨高飞鸣唱的褐色小鸟；（口语）闹着玩的事、乐子。
-动词：lark about / around（英，口语：嬉闹、胡闹）。习语 be up with the lark（一大早起床）。
+动词（英，口语）：嬉闹、胡闹。习语 be up with the lark（一大早起床）。
 ① We heard a lark singing high above the field.
 = 我们听见一只云雀在田野上空高处歌唱。
 a lark sings = 云雀歌唱
@@ -11628,7 +11584,7 @@ lasciviousness = 好色、淫荡
 laser
 /ˈleɪzə(r)/
 核心：激光；激光器 —— 发出极强极细光束的装置，用于切割、手术、读光盘。
-搭配 laser printer（激光打印机）、laser gun（激光枪）；旧时的 laserdisc（激光视盘）也并入本条。
+旧时的 laserdisc（激光视盘）并入本条。
 ① The surgeon used a laser to repair the back of her eye.
 = 外科医生用激光修复了她的眼底。
 use a laser = 用激光
@@ -11650,7 +11606,6 @@ DVD 之前的大号光盘。
 lash
 /læʃ/
 核心：猛烈抽打、拍打 —— 鞭打；（雨、浪）猛击；（尾巴）猛甩；用绳子捆紧。名词：鞭打的一下；鞭梢；睫毛。
-短语动词 lash out（突然猛击；厉声斥责；英口语 lash out on：大手大脚地花钱买）。
 名词 lashing 并入本条：一顿鞭打；lashings of（英，口语：大量的）。
 ① The rain lashed against the windows all night.
 = 雨整夜猛打着窗户。
@@ -11728,8 +11683,6 @@ last
 习语：at last（终于）、at long last（好不容易终于）、last but not least（最后但同样重要的）、
 the last straw（压垮人的最后一根稻草）、the last word（最后一句话、定论；最新式的东西）、
 have the last laugh（笑到最后）。
-搭配：last name（姓）、last-minute（最后一刻的）、last-ditch（最后一搏的）、
-last orders（英：酒馆打烊前最后一次点酒）、last call（美：同上；登机的最后一次广播）。
 ① We caught the last train home with two minutes to spare.
 = 我们赶上了回家的末班火车，只富余两分钟。
 the last train = 末班火车
@@ -11843,7 +11796,6 @@ and lastly = 最后是
 latch
 /lætʃ/
 核心：门闩、插销；碰锁（关上自动锁住、外面要钥匙开的锁）。动词：闩上。
-短语动词 latch on（英，口语：明白过来）、latch onto（缠住、黏上；对…产生浓厚兴趣）。
 形容词 latchkey（脖子上挂钥匙的）并入本条：a latchkey kid（放学后独自在家的孩子）。
 ① He lifted the latch and pushed the garden gate open.
 = 他抬起门闩，推开了花园的门。
@@ -11874,7 +11826,7 @@ late
 核心：迟的、晚于预定时间的；（一天、一段时期）晚的、末段的；已故的（只用在名词前，带 the 或 my）。
 副词：迟、晚。注意 lately 是「最近」，不是「迟」。
 习语：too late（太晚了、来不及了）、better late than never（迟做总比不做好）、of late（正式：近来）、
-late in the day（为时已晚）、at the latest（最迟）。名词 lateness（迟到）与搭配 late night（熬夜；商店延长营业的晚上）并入本条。
+late in the day（为时已晚）、at the latest（最迟）。名词 lateness（迟到）并入本条。
 ① I was ten minutes late for the meeting because of the traffic.
 = 因为堵车，我开会迟到了十分钟。
 be late for something = …迟到
@@ -11994,7 +11946,6 @@ no later than = 不迟于
 lateral
 /ˈlætərəl/
 核心：侧面的、横向的 —— 朝向或位于旁边的。副词 laterally 并入本条。
-固定说法 lateral thinking（横向思维、换个角度想问题）。
 ① The plant sends out lateral shoots from the main stem.
 = 那种植物从主茎上长出侧枝。
 lateral shoots = 侧枝
@@ -12083,8 +12034,7 @@ get into a lather = （英，口语）急得团团转
 Latin
 /ˈlætɪn/
 核心：拉丁语 —— 古罗马人的语言，法语、意大利语、西班牙语的祖先；拉丁语的；
-拉丁民族的、拉丁美洲的。形容词 Latinate（源自拉丁语的、拉丁味浓的）并入本条；
-旧式说法 a Latin lover（拉丁情人：南欧或拉美的浪漫多情男子，带刻板印象）也并在这里。
+拉丁民族的、拉丁美洲的。形容词 Latinate（源自拉丁语的、拉丁味浓的）并入本条。
 ① She studied Latin at school and can still read the words on old church walls.
 = 她在学校学过拉丁语，至今还能读懂老教堂墙上的字。
 study Latin = 学拉丁语
@@ -12160,7 +12110,7 @@ make a latte = 做一杯拿铁
 latter
 /ˈlætə(r)/
 核心：the latter —— （刚提到的两者中的）后者；（形容词）后面的、后半的。与 the former（前者）相对。
-副词 latterly（正式：近来；后期）与形容词 latter-day（当今的、现代版的）并入本条。
+副词 latterly（正式：近来；后期）并入本条。
 ① He offered tea or coffee, and I chose the latter.
 = 他问我要茶还是咖啡，我选了后者。
 the latter = 后者
@@ -12182,7 +12132,7 @@ latter-day + 历史人物：今天的某某。
 lattice
 /ˈlætɪs/
 核心：格子 —— 木条或金属条交叉成菱形格的结构，用来做栅栏、窗格、花架。
-形容词 latticed（格子的）与 lattice window（小块菱形玻璃拼成的格子窗）并入本条。
+形容词 latticed（格子的）并入本条。
 ① Roses climbed over the wooden lattice beside the front door.
 = 玫瑰爬满了大门旁边的木格架。
 a wooden lattice = 木格架
@@ -12247,11 +12197,9 @@ dependent on laudanum = 对鸦片酊上瘾
 laugh
 /lɑːf/
 核心：笑、发笑 —— 出声的笑。名词：笑声；（口语）好玩的事、有趣的人。
-短语动词：laugh at（因…发笑；嘲笑）、laugh off（一笑置之）。
 习语：burst out laughing（突然大笑起来）、for a laugh（为了好玩）、no laughing matter（不是闹着玩的）、
 have the last laugh（笑到最后）、be laughing all the way to the bank（口语：赚得盆满钵满）。
-并入本条：laughing stock（笑柄）、laughing gas（笑气）、laugh track（美：情景喜剧里的罐头笑声）、
-laugh-out-loud（让人笑出声的）、形容词 laughing（笑着的）与副词 laughingly（笑着；可笑地）。
+并入本条：laughing stock（笑柄）、laughing gas（笑气）、形容词 laughing（笑着的）与副词 laughingly（笑着；可笑地）。
 ① The children laughed so hard that they could not finish the song.
 = 孩子们笑得太厉害，歌都唱不完了。
 laugh hard = 大笑
@@ -12341,9 +12289,7 @@ burst into laughter = 放声大笑
 launch
 /lɔːntʃ/
 核心：发射（火箭、导弹）；使（船）下水；发起、发动（行动、攻击）；推出（新产品）。名词：发射；推出、发布会；汽艇。
-短语动词：launch into（突然开始、一头扎进）、launch out（大胆开始新事业）；
-launch yourself into（全身心投入；猛扑向）。
-名词 launcher（发射器）与 launch pad（发射台；跳板）并入本条。
+名词 launcher（发射器）并入本条。
 ① The rocket was launched from a base in the desert.
 = 那枚火箭是从沙漠里的一个基地发射的。
 launch a rocket = 发射火箭
@@ -12410,7 +12356,7 @@ in the launderette = 在自助洗衣店里
 
 laundry
 /ˈlɔːndri/
-核心：要洗或刚洗好的衣物；洗衣店、洗衣房。a laundry list（一长串、冗长的清单）并入本条。
+核心：要洗或刚洗好的衣物；洗衣店、洗衣房。
 ① There is a pile of dirty laundry on the bathroom floor.
 = 浴室地板上有一堆脏衣服。
 dirty laundry = 脏衣服
@@ -12440,7 +12386,6 @@ laurel
 /ˈlɒrəl/
 核心：月桂树 —— 叶子常绿发亮；（复数）荣誉、殊荣。
 习语：rest on your laurels（躺在功劳簿上）、look to your laurels（小心被人超过）。
-a laurel wreath（月桂花环）并入本条。
 ① A laurel hedge hides the house from the road.
 = 一道月桂树篱把房子挡住，从路上看不见。
 a laurel hedge = 月桂树篱
@@ -12468,7 +12413,7 @@ an outside lav = 屋外的厕所
 
 lava
 /ˈlɑːvə/
-核心：熔岩 —— 火山喷出的炽热岩浆；也指它冷却后形成的岩石。lava lamp（熔岩灯）并入本条。
+核心：熔岩 —— 火山喷出的炽热岩浆；也指它冷却后形成的岩石。
 ① Red-hot lava poured down the side of the volcano towards the village.
 = 炽热的熔岩顺着火山的山坡朝村子流去。
 red-hot lava = 炽热的熔岩
@@ -12511,7 +12456,7 @@ pale lavender = 淡紫色
 
 lavish
 /ˈlævɪʃ/
-核心：奢华的、铺张的；（人）慷慨的、出手大方的。动词：lavish on / upon（把…大量地给予）。副词 lavishly 并入本条。
+核心：奢华的、铺张的；（人）慷慨的、出手大方的。动词：把…大量地给予、慷慨施与（后接 on / upon）。副词 lavishly 并入本条。
 ① They held a lavish wedding with five hundred guests.
 = 他们办了一场有五百位宾客的奢华婚礼。
 a lavish wedding = 奢华的婚礼
@@ -12535,7 +12480,6 @@ law
 习语：against the law（违法）、break the law（犯法）、by law（依法、按法律规定）、above the law（凌驾于法律之上）、
 law and order（治安、法治秩序）、take the law into your own hands（私自执法、自行报复）、
 lay down the law（发号施令）、be a law unto yourself（我行我素）。
-搭配 law court（法庭）、law school（法学院）并入本条。
 ① It is against the law to drive without insurance.
 = 无保险驾车是违法的。
 against the law = 违法
@@ -12662,8 +12606,7 @@ two lawmen = 两名执法者
 lawn
 /lɔːn/
 核心：草坪 —— 花园、公园里修剪整齐的草地。
-并入本条：lawnmower（割草机）、lawn tennis（正式：草地网球，即网球）、lawn bowling（美：草地滚球，英式说 bowls）、
-lawn chair（美：草坪折叠椅）、lawn sign（美：插在自家草坪上的竞选牌）。
+lawnmower（割草机）并入本条。
 ① He mows the lawn every Sunday morning in summer.
 = 夏天他每个星期天上午修剪草坪。
 mow the lawn = 修剪草坪
@@ -12740,11 +12683,8 @@ lay
 /leɪ/
 核心：放、搁 —— 小心地平放下来；铺设；摆（餐桌）；下（蛋）。过去式、过去分词 laid。及物，后面要有宾语。
 注意：lie（躺）的过去式也是 lay，两个词常被混用。形容词 lay 另指「非神职的；外行的」。
-短语动词：lay down（放下；规定）、lay off（解雇；口语：别再…）、lay out（摆开；布局；口语：花一大笔钱）、
-lay aside（搁置；存起来）、lay in（储备）、lay into（痛打、痛骂）、lay on（英：提供、安排）、
-lay over（美：中途停留）、lay up（使卧床；储存）、lay about（挥拳乱打，常说 lay about you）。
 习语：lay the table（摆餐桌）、lay the blame on（归咎于）、lay claim to（声称对…有权）、
-lay a finger on（碰…一下）、lay eyes on（看见）。lay-by（英：路边停车带）与 laid-back（悠闲的）并入本条。
+lay a finger on（碰…一下）、lay eyes on（看见）。laid-back（悠闲的）并入本条。
 ① She laid the baby gently in the cot and turned off the light.
 = 她把婴儿轻轻放进小床，关了灯。
 lay something in a place = 把…放在某处
@@ -12858,7 +12798,7 @@ offer layaway = 提供预付留货
 
 layer
 /ˈleɪə(r)/
-核心：层 —— 一层东西盖在另一层上；（机构、体系里的）层级。动词：把…分层叠放。layer cake（夹层蛋糕）并入本条。
+核心：层 —— 一层东西盖在另一层上；（机构、体系里的）层级。动词：把…分层叠放。
 ① A thin layer of dust covered the piano.
 = 钢琴上蒙着薄薄一层灰。
 a layer of dust = 一层灰
@@ -12953,7 +12893,7 @@ a laywoman in medical matters = 医学上的女外行
 
 laze
 /leɪz/
-核心：懒散地消磨时间、闲躺着 —— 常说 laze around / about；laze away（把时间懒洋洋地打发掉）。
+核心：懒散地消磨时间、闲躺着 —— 常说 laze around / about。
 ① We spent the day lazing around on the beach.
 = 我们一整天都在海滩上懒洋洋地躺着。
 laze around = 懒散地闲待着
@@ -12967,8 +12907,7 @@ laze away = 懒洋洋地打发掉
 lazy
 /ˈleɪzi/
 核心：懒的、懒惰的；（时光）悠闲的、懒洋洋的；（做法）不肯花力气的、偷懒的。
-副词 lazily、名词 laziness 与 lazybones（口语：懒骨头）并入本条；
-搭配 lazy eye（弱视眼）、lazy Susan（餐桌转盘）也并在这里。
+副词 lazily、名词 laziness 与 lazybones（口语：懒骨头）并入本条。
 ① He is too lazy to walk to the shop, so he takes the car.
 = 他懒得走去商店，所以开车去。
 too lazy to do something = 懒得做…
@@ -13027,12 +12966,10 @@ lead
 核心：两个不同的词，拼法相同。
 其一读如 leed：带领、领路；通向；导致（lead to）；领先；过（某种生活）；领导。过去式、过去分词 led。
 名词：领先地位（in the lead、take the lead）；榜样、带头；线索；主角；（英）牵狗的绳子；（英）电线。
-短语动词：lead to（导致；通向）、lead up to（是…的前奏；把话引向）、lead on（哄骗、让人抱空想）、
-lead off（开头、打头阵）、lead with（把…放在头条；以…开头）。
+短语动词 lead to（导致；通向）。
 习语：lead the way（带路；领先）、lead astray（带坏、引入歧途）。
-搭配：lead story（头条新闻）、lead time（从下单到交货的周期）、lead-in（开场白、引子）、lead guitar（主音吉他）。
 其二读如 led：铅 —— 一种重而软的灰色金属；铅笔芯。
-形容词 leaded（含铅的；镶铅条的）与 lead-free（无铅的）、lead shot（铅弹丸）、leaded light（铅条镶嵌的小窗格）并入本条。
+形容词 leaded（含铅的；镶铅条的）与 leaded light（铅条镶嵌的小窗格）并入本条。
 ① The guide led us through the forest to the waterfall.
 = 向导带我们穿过森林去看瀑布。
 lead somebody to a place = 带某人去某处
@@ -13135,6 +13072,7 @@ leaden
 ① Snow began to fall from a leaden sky in the late afternoon.
 = 傍晚时分，雪从铅灰色的天空中落下来。
 a leaden sky = 铅灰色的天空
+多放在名词前作定语。
 ② She climbed the stairs with leaden feet after the long shift.
 = 上完漫长的一班，她拖着灌了铅似的双脚爬上楼梯。
 leaden feet = 灌了铅似的脚
@@ -13146,7 +13084,7 @@ leaden dialogue = 沉闷的对白
 leader
 /ˈliːdə(r)/
 核心：领导者、领袖；（比赛、行业里）领先的人或公司；（英）报纸的社论。
-形容词 leaderless（群龙无首的）与 leader board（比赛的排行榜）并入本条。
+形容词 leaderless（群龙无首的）并入本条。
 ① She was elected leader of the party at the age of forty.
 = 她四十岁当选为该党领袖。
 the leader of a party = 党的领袖
@@ -13191,9 +13129,6 @@ the party leadership = 党的领导层
 leading
 /ˈliːdɪŋ/
 核心：最重要的、一流的；领先的、最前面的 —— 只用在名词前。
-搭配：leading lady / man（女主角 / 男主角）、leading light（重要人物、骨干）、leading question（诱导性问题）、
-leading edge（最前沿）、leading article（英：社论）；
-军衔 leading seaman（海军上等兵）、leading aircraftman / aircraftwoman（英国空军一等兵）。
 ① She is one of the country's leading experts on heart disease.
 = 她是该国心脏病方面的顶尖专家之一。
 a leading expert = 顶尖专家
@@ -13231,9 +13166,8 @@ a leading aircraftman = （英国空军）一等兵
 leaf
 /liːf/
 核心：叶子；（书的）一张、一页（正反两面）；（桌子的）活动面板。复数 leaves。
-短语动词 leaf through（匆匆翻阅）。
 习语：turn over a new leaf（改过自新、翻开新的一页）、take a leaf out of somebody's book（学某人的样）。
-形容词 leafy（多叶的；绿树成荫的）、leafless（光秃秃没有叶子的）与 leaf mould（腐叶土）并入本条。
+形容词 leafy（多叶的；绿树成荫的）与 leafless（光秃秃没有叶子的）并入本条。
 ① A single yellow leaf fell from the tree onto the path.
 = 一片黄叶从树上飘落到小路上。
 a leaf = 一片叶子
@@ -13279,12 +13213,12 @@ the leaflet that comes with the medicine = 随药附的说明书
 = 选举前，志愿者给那一带的每户人家都发了传单。
 leaflet an area = 在某地区发传单
 -let 表示「小」：小叶子，引申为小单张。
+作动词时是及物的，宾语是地区或住户。
 
 league
 /liːɡ/
 核心：（体育）联赛、联盟；（国家、团体结成的）联盟、同盟；（口语）水平、档次。
 习语：in league with（与…勾结）、out of your league（高攀不上、不是一个档次）、not in the same league（不能相提并论）。
-league table（英：联赛积分榜；各机构的排名表）并入本条。
 ① The club was promoted to the top league last season.
 = 那家俱乐部上赛季升入了顶级联赛。
 the top league = 顶级联赛
@@ -13312,7 +13246,7 @@ league tables of schools = 学校排名表
 leak
 /liːk/
 核心：漏 —— （容器、屋顶）漏水漏气；（液体、气体）漏出来；泄露（机密）。名词：漏洞、裂缝；泄漏；泄密。
-短语动词 leak out（消息走漏）。名词 leakage（泄漏、漏出量）与形容词 leaky（漏的）并入本条。
+名词 leakage（泄漏、漏出量）与形容词 leaky（漏的）并入本条。
 ① The roof leaks every time it rains hard.
 = 一下大雨，屋顶就漏。
 the roof leaks = 屋顶漏水
@@ -13346,7 +13280,6 @@ lean
 /liːn/
 核心：倾斜、探身、弯腰；倚、靠（lean against / on）。过去式 leaned，英式也用 leant。
 形容词：（人）精瘦的；（肉）瘦的；（时期）不景气的、歉收的；（机构）精简的。
-短语动词：lean on（依靠；口语：施压）、lean towards（倾向于，美式多写 lean toward）、lean to（偏向）。
 名词 leaning（倾向、偏好）与 leanness（精瘦）并入本条。
 ① She leaned out of the window to wave goodbye.
 = 她探出窗外挥手告别。
@@ -13395,9 +13328,8 @@ leanness = 精瘦
 leap
 /liːp/
 核心：跳、跃 —— 跳得高或远；猛地一动；（数量、价格）猛增。过去式 leapt 或 leaped。名词：跳跃；飞跃、剧增。
-短语动词 leap at（迫不及待地抓住机会）。
 习语：by leaps and bounds（突飞猛进）、a leap in the dark（冒险之举）、a leap of faith（放手一搏、姑且一信）、
-your heart leaps（心头一喜）。leap year（闰年）并入本条。
+your heart leaps（心头一喜）。
 ① The dog leapt over the fence and ran across the field.
 = 那条狗跃过篱笆，跑过了田野。
 leap over a fence = 跃过篱笆
@@ -13499,6 +13431,7 @@ learned
 ① She is a learned woman who has written books on Greek history.
 = 她是位博学的女士，写过希腊史方面的书。
 a learned woman = 博学的女士
+这一支多放在名词前作定语。
 ② The article first appeared in a learned journal.
 = 那篇文章最早发表在一份学术期刊上。
 a learned journal = 学术期刊
@@ -13509,8 +13442,7 @@ a learned response = 后天习得的反应
 
 learning
 /ˈlɜːnɪŋ/
-核心：学习（这一过程）；学问、学识。
-搭配 learning disability（学习障碍）、learning difficulties（英：学习困难）并入本条；习语 a learning curve（学习曲线、上手的难度）。
+核心：学习（这一过程）；通过学习得来的学问、学识。
 ① The school uses games to make learning fun for the youngest pupils.
 = 那所学校用游戏让最小的学生觉得学习有趣。
 make learning fun = 让学习有趣
@@ -13592,7 +13524,6 @@ least
 核心：最少的、最小的（little 的最高级）；副词：最不。
 习语：at least（至少；起码）、not in the least（一点也不）、least of all（尤其不）、
 to say the least（说得客气点、至少可以这么说）、the least you can do（起码该做的）。
-数学术语 least common multiple（最小公倍数）、least common denominator（最小公分母）并入本条。
 ① He did the least work of anyone in the group but took most of the praise.
 = 组里就数他干的活最少，夸奖却大半归了他。
 the least work = 最少的活
@@ -13657,11 +13588,9 @@ leave
 /liːv/
 核心：离开；留下、丢下、忘带；让…保持某状态；把…留给、交给；剩下；遗赠。过去式、过去分词 left。
 名词：假期、休假（on leave）；（正式）许可。
-短语动词：leave behind（丢下；把…甩在后面）、leave out（漏掉、不包括）、leave off（停止；英：不再穿）、
-leave aside（撇开不谈）。
 习语：leave alone（别碰、别打扰）、leave it at that（到此为止）、leave a lot to be desired（很不理想）、
 take your leave（正式：告辞）。
-名词 leaver（离校生）、leavings（残羹剩饭）、leave-taking（告别）并入本条。
+名词 leaver（离校生）与 leavings（残羹剩饭）并入本条。
 ① The train leaves at six, so we should be at the station by half past five.
 = 火车六点开，我们应该五点半前到车站。
 the train leaves = 火车开出
@@ -13756,10 +13685,11 @@ a Lebanese restaurant = 黎巴嫩餐馆
 ② Many Lebanese moved to Brazil and West Africa in the last century.
 = 上个世纪，许多黎巴嫩人迁到了巴西和西非。
 the Lebanese = 黎巴嫩人
+the Lebanese 指全体黎巴嫩人，谓语动词用复数。
 
 lech
 /letʃ/
-核心：（英，口语，贬）色鬼；动词 lech after（色眯眯地打…的主意）。
+核心：（英，口语，贬）色鬼。
 名词 lecher（好色之徒）、lechery（好色）与形容词 lecherous（好色的）并入本条。
 ① The women in the office all knew that the manager was an old lech.
 = 办公室里的女人都知道经理是个老色鬼。
@@ -13783,6 +13713,7 @@ lectern
 ① The speaker put her notes on the lectern and waited for silence.
 = 讲演者把讲稿放在讲台上，等大家安静下来。
 on the lectern = 放在讲台上
+讲台是斜面的架子，讲话的人站在它后面。
 ② The Bible lay open on a brass lectern shaped like an eagle.
 = 《圣经》摊开放在一个鹰形的黄铜诵经台上。
 a brass lectern = 黄铜诵经台
@@ -13791,7 +13722,7 @@ a brass lectern = 黄铜诵经台
 lecture
 /ˈlektʃə(r)/
 核心：（大学的）讲课、讲座；（长篇的）训斥、说教。动词：讲课；训斥。
-名词 lecturer（讲师）、lectureship（讲师职位）并入本条；搭配 lecture hall（讲堂）、lecture theatre（阶梯教室）。
+名词 lecturer（讲师）、lectureship（讲师职位）并入本条。
 ① She gave a lecture on climate change to two hundred students.
 = 她给两百名学生做了一场关于气候变化的讲座。
 give a lecture on something = 做关于…的讲座
@@ -13928,10 +13859,7 @@ left
 /left/
 核心：左边的；向左；左边、左侧；the left / the Left（政治上的左派）。与 right 相对。
 （left 也是 leave 的过去式，见 leave 条。）
-搭配与派生：left-hand（左手边的）、left-hand drive（方向盘在左的）、left-handed（左撇子的；用左手的）、
-left-handedness（左撇子）、left-hander（左撇子；左手的一击）、left wing（左翼；左边锋位置）、left-winger（左翼人士；左边锋）、
-left-of-centre（中间偏左的）、left field（美：棒球左外场；out of left field = 出人意料）、
-left luggage office（英：行李寄存处）。
+习语 out of left field（出人意料）。
 ① She writes with her left hand but throws a ball with her right.
 = 她用左手写字，却用右手扔球。
 your left hand = 左手
@@ -14052,7 +13980,6 @@ leg
 习语：pull somebody's leg（跟某人开玩笑、逗某人）、not have a leg to stand on（站不住脚、毫无根据）、
 on its last legs（快不行了、快散架了）、stretch your legs（活动活动腿脚）、break a leg（祝演出成功）、
 cost an arm and a leg（贵得要命）。
-并入本条：leg-up（托一把；帮一把）、leg-pull（英：玩笑、捉弄）、leg warmer（暖腿套）。
 ① He broke his leg skiing and was on crutches for six weeks.
 = 他滑雪摔断了腿，拄了六个星期拐杖。
 break your leg = 摔断腿
@@ -14121,9 +14048,6 @@ legacy systems = （计算机）遗留的老系统
 legal
 /ˈliːɡəl/
 核心：法律上的、与法律有关的；合法的、法律许可的。副词 legally 并入本条。
-搭配：legal aid（法律援助）、legal age（法定年龄）、legal tender（法定货币）、legal proceedings（诉讼）、
-legal holiday（美：法定假日）、legal eagle（口语：精明能干的律师）、legal high（合法兴奋剂）、
-（美）legal pad（黄色横格拍纸簿）、legal-size（美：法律文书尺寸的）。
 ① You should take legal advice before you sign anything.
 = 签任何东西之前，你都应该先听听律师的意见。
 legal advice = 法律意见
@@ -14475,8 +14399,7 @@ take off the lei = 摘下花环
 leisure
 /ˈleʒə(r)/
 核心：闲暇、空闲时间。习语 at leisure（有空时；从容地）、at your leisure（等你有空时、不必着急）。
-形容词 leisured（有闲的）、名词 leisurewear（休闲服）并入本条；
-搭配 leisure centre（英：休闲健身中心）、leisure suit（休闲套装）。
+形容词 leisured（有闲的）、名词 leisurewear（休闲服）并入本条。
 ① She has little time for leisure since she started the new job.
 = 自从干上新工作，她几乎没有闲暇。
 time for leisure = 闲暇
@@ -14538,8 +14461,7 @@ like lemmings = 像旅鼠一样盲目跟风
 lemon
 /ˈlemən/
 核心：柠檬；柠檬黄；（美，口语）老出毛病的次品（尤指汽车）；（英，口语）笨蛋。
-形容词 lemony（有柠檬味的）并入本条；搭配 lemon-squeezer（榨柠檬器）、lemon sole（檬鲽）、
-lemon balm（香蜂草）、lemon verbena（柠檬马鞭草）、（美）lemon law（次品车退换法）。
+形容词 lemony（有柠檬味的）并入本条。
 ① Squeeze the juice of half a lemon over the fish.
 = 把半个柠檬的汁挤在鱼上。
 half a lemon = 半个柠檬
@@ -14610,7 +14532,7 @@ lend
 /lend/
 核心：借给、借出；（银行）贷款给；（正式）给…增添（某种气氛、分量）。过去式、过去分词 lent。
 注意方向：lend 是「借出去」，borrow 是「借进来」。
-习语：lend a hand（帮个忙）、lend an ear（听人诉说）、lend itself to（适合于、便于）、
+习语：lend a hand（帮个忙）、lend an ear（听人诉说）、
 lend support to（支持）、lend your name to（挂名支持）。
 名词 lender（出借人、放款机构）、lending（放贷）并入本条；搭配 lending rate（贷款利率）、lending library（可外借的图书馆）。
 ① Could you lend me ten pounds until Friday?
@@ -15058,9 +14980,7 @@ let
 /let/
 核心：让、允许 —— let somebody do something（不带 to）；let's（咱们…吧，let us 的缩略）；（英）出租（房屋）。
 过去式、过去分词都是 let。不用被动，被动说 be allowed to。
-短语动词：let down（让人失望；放下；放气）、let off（放过、从轻发落；放（烟花、枪））、let out（放出去；发出（叫声）；
-把衣服放大；英：出租）、let in（放进来）、let in on（让…知道内情）、let in for（让…惹上麻烦）、
-let into（放进；让…知道（秘密））、let on（泄露、说出去）、let up（减弱、停歇）。
+短语动词 let in（放进来）。
 习语：let alone（更不用说）、let go（松手；放开；解雇）、let me see（让我想想）、let somebody know（告诉某人）、
 let yourself go（放开玩；不修边幅）、let it be（随它去）。
 名词 letting（英：出租的房屋；出租）并入本条。
@@ -15149,6 +15069,7 @@ lethal
 ① The snake's bite contains a lethal dose of poison.
 = 那种蛇咬一口，毒液的量足以致命。
 a lethal dose = 致死剂量
+多见于医学、法律等正式语境。
 ② The police found a knife and other lethal weapons in the car.
 = 警察在车里搜出一把刀和其他致命武器。
 a lethal weapon = 致命武器
@@ -15169,6 +15090,7 @@ lethargy
 ① The heat filled everyone with lethargy, and the streets were empty by noon.
 = 炎热让人人昏昏沉沉，到中午街上已空无一人。
 fill somebody with lethargy = 让某人昏昏沉沉
+不可数名词，前面不加 a。
 ② It took him weeks to shake off the lethargy that followed the illness.
 = 他花了好几个星期才摆脱病后的那种无精打采。
 shake off the lethargy = 摆脱无精打采
@@ -15183,9 +15105,7 @@ letter
 /ˈletə(r)/
 核心：信、函件；字母。动词（多用被动）：在…上写字、印字。
 习语：to the letter（一丝不苟、不折不扣地）、the letter of the law（法律的字面条文，与 the spirit 相对）。
-并入本条：letterbox（英：门上的投信口；邮筒）、letterhead（信笺抬头）、lettering（书写、印刷的字体）、
-letter bomb（信件炸弹）、letter carrier（美：邮递员）、letter opener（拆信刀）、letter of credit（信用证）、
-letter-perfect（美：一字不差的）、letter-size（美：信纸尺寸的）。也写作两个词的 letter box 意思相同。
+并入本条：letterbox（英：门上的投信口；邮筒）、letterhead（信笺抬头）、lettering（书写、印刷的字体）。
 ① I wrote a letter to the bank to complain about the charges.
 = 我给银行写了封信，投诉那些收费。
 write a letter to somebody = 给某人写信
@@ -15243,6 +15163,7 @@ lettuce
 ① Wash the lettuce and dry the leaves before you make the salad.
 = 拌沙拉之前先把生菜洗净，把叶子弄干。
 wash the lettuce = 洗生菜
+当菜吃、作食材讲时不可数。
 ② I'd like a cheese sandwich with lettuce and tomato, please.
 = 请给我一个奶酪三明治，加生菜和番茄。
 with lettuce and tomato = 加生菜和番茄
@@ -15274,10 +15195,8 @@ level
 /ˈlevəl/
 核心：水平、程度、级别；（水、地面的）高度；（楼的）层。形容词：平的、水平的；同样高的、齐平的；（比分）持平的。
 动词：弄平；夷平；使持平；把（枪、批评）对准。英式过去式 levelled，美式 leveled。
-短语动词：level off / level out（趋于平稳；变平）、level with（口语：对…说实话）、level at（把（枪）对准）、
-level against（把（指责）对准，也说 level at）、level up（拉高到同一水平）、level down（拉低到同一水平）。
 习语：on the level（口语：老实的、正当的）、a level playing field（公平的竞争环境）、do your level best（竭尽全力）。
-形容词 level-headed（头脑冷静的）、副词 levelly（平静地、不动声色地）、名词 leveller（让人人平等的东西）并入本条。
+副词 levelly（平静地、不动声色地）与名词 leveller（让人人平等的东西）并入本条。
 ① The level of noise in the factory is dangerous for the workers' hearing.
 = 那家工厂的噪音水平对工人的听力有危险。
 the level of noise = 噪音水平
@@ -15430,6 +15349,7 @@ levity
 ① The judge said that this was no time for levity.
 = 法官说，这不是开玩笑的时候。
 no time for levity = 不是开玩笑的时候
+不可数名词，多用于否定或批评的语境。
 ② His jokes brought a moment of levity to the long and difficult meeting.
 = 他的笑话给那场漫长而艰难的会议带来了片刻轻松。
 a moment of levity = 片刻轻松
@@ -15441,6 +15361,7 @@ levy
 ① The government levied a new tax on sugary drinks.
 = 政府对含糖饮料开征了一项新税。
 levy a tax on something = 对…征税
+主语多是政府、法院等机构，属正式用语。
 ② The court levied a fine of five thousand pounds on the company.
 = 法院对那家公司处以五千英镑罚款。
 levy a fine = 处以罚款
@@ -15454,6 +15375,7 @@ lewd
 ① He was thrown out of the bar for making lewd remarks to the staff.
 = 他因对店员说下流话被赶出了酒吧。
 lewd remarks = 下流话
+只说与性有关的下流，不用于一般的粗鲁。
 ② The drunk men sang lewd songs on the last train home.
 = 那几个醉汉在回家的末班火车上唱下流歌曲。
 lewd songs = 下流歌曲
@@ -15466,8 +15388,7 @@ public lewdness = 公然猥亵、有伤风化
 
 lexical
 /ˈleksɪkəl/
-核心：（语言学）词汇的、与词有关的。副词 lexically 与名词 lexis（一门语言的全部词汇）并入本条；
-术语 lexical meaning（词汇意义）、lexical unit（词汇单位）也并在这里。
+核心：（语言学）词汇的、与词有关的。副词 lexically 与名词 lexis（一门语言的全部词汇）并入本条。
 ① The two dialects have the same grammar but many lexical differences.
 = 那两种方言语法相同，但词汇上差异很多。
 lexical differences = 词汇差异
@@ -15491,6 +15412,7 @@ lexicography
 ① She has worked in lexicography for thirty years, mostly on learners' dictionaries.
 = 她做了三十年词典编纂，主要是编学习词典。
 work in lexicography = 从事词典编纂
+不可数名词，指这门学问或这一行工作。
 ② Computers have changed lexicography by giving editors millions of real examples.
 = 计算机给编者提供了几百万条真实例句，改变了词典编纂。
 change lexicography = 改变词典编纂
@@ -15554,7 +15476,7 @@ liaise between A and B = 在两方之间联络
 
 liaison
 /lɪˈeɪzən/
-核心：联络、协作；联络人；（文）私通、暧昧关系。liaison officer（联络官）并入本条。
+核心：联络、协作；联络人；（文）私通、暧昧关系。
 ① There is close liaison between the police and the local schools.
 = 警方与当地学校之间联络密切。
 liaison between A and B = 两方之间的联络
@@ -15574,6 +15496,7 @@ liar
 ① He called me a liar in front of the whole class.
 = 他当着全班的面说我撒谎。
 call somebody a liar = 说某人撒谎
+语气很重，当面说人是 liar 相当冒犯。
 ② She is a good liar, and nobody guessed that the story was invented.
 = 她很会撒谎，谁也没猜到那个故事是编的。
 a good liar = 很会撒谎的人
@@ -15618,7 +15541,7 @@ libellous statements = 诽谤性的话
 liberal
 /ˈlɪbrəl/
 核心：开明的、思想开放的；（政治上）自由派的；大方的、大量的；（教育）通识的。名词：自由派人士。
-副词 liberally（大量地；开明地）、名词 liberality（慷慨；开明）与 liberal arts（文科、通识学科）并入本条。
+副词 liberally（大量地；开明地）与名词 liberality（慷慨；开明）并入本条。
 ① Her parents have a liberal attitude to what she wears.
 = 她父母对她的穿着态度开明。
 a liberal attitude = 开明的态度
@@ -15833,8 +15756,7 @@ license
 /ˈlaɪsəns/
 核心：（动词）给…发许可证、批准。名词 licence（许可证、执照）英式拼 licence，美式名词动词都拼 license。
 形容词 licensed（有执照的；获准卖酒的）、名词 licensee（持照人，尤指酒馆老板）并入本条；
-搭配 licensing laws（英：售酒法规）、license plate（美：车牌）、license number（美：车牌号）、
-licensed victualler（英，正式：持照卖酒的店主）。
+搭配 licensing laws（英：售酒法规）、licensed victualler（英，正式：持照卖酒的店主）。
 ① The restaurant is licensed to sell wine and beer.
 = 那家餐馆获准出售葡萄酒和啤酒。
 be licensed to do something = 获准做…
@@ -15966,11 +15888,10 @@ lie
 核心：两个不同的词，拼法相同。
 其一：躺、平卧；（东西）平放着；位于；处于某种状态；（问题、责任）在于。过去式 lay，过去分词 lain，现在分词 lying。
 不及物，后面不带宾语 —— 别和 lay（放，laid）弄混。
-短语动词：lie down（躺下）、lie back（向后躺、靠着歇息）、lie in（英：睡懒觉）、lie around（随处乱放；懒散地待着）、
-lie ahead（在前头等着）、lie behind（是…背后的原因）、lie with（责任、决定权在于）。
+短语动词 lie ahead（在前头等着）。
 习语：lie low（躲起来、不露面）、lie in wait（埋伏着等）。
 其二：说谎、撒谎；谎话。过去式、过去分词 lied，现在分词 lying。
-常说 tell a lie（撒谎）、a white lie（善意的小谎）、lie detector（测谎仪）。
+常说 tell a lie（撒谎）、a white lie（善意的小谎）。
 ① She lay on the sofa all afternoon reading a novel.
 = 她整个下午躺在沙发上看小说。
 lie on the sofa = 躺在沙发上
@@ -16083,8 +16004,6 @@ lieutenant
 /lefˈtenənt/
 核心：（陆军）中尉；（海军）上尉；（美）警察、消防的副队长；副手、助手。
 英式读如 lef-tenant，美式读如 loo-tenant。
-军衔与官职并入本条：lieutenant colonel（中校）、lieutenant commander（海军少校）、lieutenant general（中将）、
-lieutenant governor（美：副州长；加：省督）。
 ① He joined the army at eighteen and became a lieutenant at twenty-two.
 = 他十八岁参军，二十二岁当上中尉。
 a lieutenant = 中尉
@@ -16114,13 +16033,7 @@ life
 习语：come to life（活跃起来、有了生气）、bring to life（使生动起来）、for life（终身）、way of life（生活方式）、
 lose your life（丧生）、save somebody's life（救某人的命）、the time of your life（玩得痛快极了）、
 that's life（生活就是这样）、full of life（充满活力）、a matter of life and death（生死攸关的事）。
-搭配：life insurance（人寿保险，英式也说 life cover）、life sentence（无期徒刑）、life cycle（生命周期）、
-life form（生命形态）、life force（生命力）、life history（生活史）、life story（生平）、life's work（毕生的事业）、
-life coach（人生教练，这一行叫 life coaching）、life skill（生活技能）、life science（生命科学）、
-life drawing（人体写生）、life peer（英：终身贵族）、life support（生命维持）、life support machine（生命维持机）、
-life raft（救生筏）、life vest（美：救生衣）、life preserver（美：救生用具）；
-形容词 life-size（与实物一样大的）、life-saving（救命的）、life-threatening（危及生命的）、life-or-death（生死攸关的）、
-life-giving（赋予生命的）、life-affirming（让人感到活着真好的）、life-enhancing（提升生活品质的）。
+另有 life's work（毕生的事业）。
 ① The doctors worked all night to save her life.
 = 医生们忙了一整夜救她的命。
 save somebody's life = 救某人的命
@@ -16436,7 +16349,7 @@ lift
 /lɪft/
 核心：举起、抬起、提起；（雾、情绪）消散、好转；解除（禁令、限制）；（口语）偷、抄袭。
 名词：（英）电梯；搭便车；提升、鼓舞。
-短语动词 lift off（火箭升空）。习语：give somebody a lift（让某人搭车；让某人精神一振）、not lift a finger（一点忙都不帮）。
+习语：give somebody a lift（让某人搭车；让某人精神一振）、not lift a finger（一点忙都不帮）。
 ① He lifted the box onto the table with both hands.
 = 他用双手把箱子举到桌子上。
 lift something onto the table = 把…举到桌上
@@ -16505,16 +16418,10 @@ light
 /laɪt/
 核心：两个不同的词，拼法相同。
 其一：光、光线；灯；（点烟的）火。动词：点燃；照亮。形容词：明亮的；（颜色）浅的。过去式 lit，也用 lighted（多作定语）。
-短语动词：light up（点亮；点烟；（脸）亮起来）、light on / light upon（文：偶然发现）。
 习语：come to light（暴露、为人所知）、bring to light（揭露）、shed light on（阐明）、in the light of（鉴于）、
 see the light（恍然大悟）、set light to（点着、放火烧）、the light at the end of the tunnel（隧道尽头的光、希望）。
-搭配：light bulb（灯泡）、light year（光年）、light show（灯光秀）、light meter（测光表）、light pen（光笔）、
-light stick（荧光棒）、light pollution（光污染）、light-coloured（浅色的）。
 其二：轻的；少量的、轻微的；轻松的；（食物）清淡的；（睡眠）浅的。名词 lightness（轻；明亮）并入本条。
 习语 make light of（不当回事）。
-搭配：light aircraft（轻型飞机）、light industry（轻工业）、light railway（轻轨）、light ale（淡色麦酒）、
-light cream（美：稀奶油）；形容词 light-hearted（轻松愉快的，副词 light-heartedly）、light-headed（头晕的）、
-light-fingered（爱小偷小摸的）、light-footed（脚步轻快的）。
 ① Light from the street lamp came in through the curtains.
 = 路灯的光透过窗帘照进来。
 light from the lamp = 灯光
@@ -16678,7 +16585,7 @@ a reversing light = （英式）倒车灯
 
 lighten
 /ˈlaɪtən/
-核心：减轻（负担、工作量）；使变亮、变浅；（心情、气氛）轻松起来。短语动词 lighten up（口语：放轻松、别那么严肃）。
+核心：减轻（负担、工作量）；使变亮、变浅；（心情、气氛）轻松起来。
 ① The new lifting machine has lightened the work of the nurses on the night shift.
 = 新的升降机减轻了夜班护士的工作。
 lighten the work = 减轻工作
@@ -16724,7 +16631,7 @@ a lighthouse keeper = 灯塔看守人
 
 lighting
 /ˈlaɪtɪŋ/
-核心：照明、灯光（的布置和效果）；舞台灯光。lighting engineer（灯光师）并入本条。
+核心：照明、灯光（的布置和效果）；舞台灯光。
 ① The lighting in the restaurant is soft and warm.
 = 那家餐馆的灯光柔和温暖。
 the lighting = 照明、灯光
@@ -16759,8 +16666,7 @@ walk lightly = 走路轻
 lightning
 /ˈlaɪtnɪŋ/
 核心：闪电。形容词：闪电般的、极快的。
-搭配：lightning conductor（英：避雷针；美式说 lightning rod，也比喻招来批评的人）、lightning strike（雷击；英：突击罢工）、
-lightning bug（美：萤火虫）。习语 like lightning（闪电般地）。
+习语 like lightning（闪电般地）。
 ① A flash of lightning lit up the whole valley.
 = 一道闪电照亮了整个山谷。
 a flash of lightning = 一道闪电
@@ -16812,7 +16718,7 @@ like
 口语里还当填充语和引语标记用（I was like, …）。
 句型与习语：like doing / like to do（喜欢做）、would like（想要，比 want 客气）、if you like（如果你愿意）、
 look like（看起来像）、feel like（想要；摸起来像）、what is it like（…怎么样）、and the like（诸如此类）、
-the likes of（像…这样的人）、like-minded（志趣相投的）、like father, like son（有其父必有其子）。
+the likes of（像…这样的人）、like father, like son（有其父必有其子）。
 ① She likes walking in the hills with her two dogs at the weekend.
 = 她周末喜欢带着两条狗去山里走走。
 like doing something = 喜欢做…
@@ -16932,7 +16838,7 @@ not likely = （口语）才不呢
 
 liken
 /ˈlaɪkən/
-核心：把…比作 —— 常说 liken to，多用被动。
+核心：把…比作、把…说成像 —— 拿一样东西跟另一样相比，多用被动。
 ① The writer likens the city to a huge machine that never stops.
 = 作者把那座城市比作一台永不停转的巨大机器。
 liken to = 把…比作
@@ -17026,8 +16932,7 @@ a lilting voice = 抑扬悦耳的嗓音
 lily
 /ˈlɪli/
 核心：百合 —— 长茎上开大朵喇叭形花的植物，白色最常见。
-并入本条：lily of the valley（铃兰）、lily pad（睡莲浮叶）、lily-white（雪白的；纯洁无瑕的）、
-lily-livered（旧：胆小的）。习语 gild the lily（画蛇添足）。
+习语 gild the lily（画蛇添足）。
 ① She carried a bunch of white lilies at her wedding.
 = 她在婚礼上捧着一束白百合。
 white lilies = 白百合
@@ -17071,7 +16976,7 @@ life and limb = 性命和肢体
 
 limber
 /ˈlɪmbə(r)/
-核心：limber up（比赛、运动前）做热身活动。形容词（旧）：柔软灵活的。
+核心：（旧）柔软灵活的 —— 形容身体、动作轻柔灵便。
 ① The runners were limbering up beside the track.
 = 跑步选手们在跑道边做热身。
 limber up = 做热身活动
@@ -17099,7 +17004,7 @@ dance the limbo = 跳林波舞
 lime
 /laɪm/
 核心：青柠 —— 绿色的小柑橘类水果，比柠檬酸；酸橙绿；石灰；椴树。
-并入本条：lime green（酸橙绿）、limeade（青柠汽水）、lime water（石灰水）。
+limeade（青柠汽水）并入本条。
 ① Squeeze the juice of a lime over the grilled fish.
 = 在烤鱼上挤一个青柠的汁。
 a lime = 青柠
@@ -17242,7 +17147,6 @@ know your limitations = 知道自己的不足
 limited
 /ˈlɪmɪtɪd/
 核心：有限的、不多的；受限制的。常说 be limited to（限于）。
-搭配 limited company（英：有限公司，缩写 Ltd）、limited liability（有限责任）、a limited edition（限量版）并入本条。
 ① We have only a limited amount of time to finish the work.
 = 我们完成这项工作的时间有限。
 a limited amount = 有限的量
@@ -17308,7 +17212,7 @@ hang limply = 软塌塌地垂着
 
 limpet
 /ˈlɪmpɪt/
-核心：帽贝 —— 紧紧吸附在礁石上的圆锥形小贝；常用来比喻死死抓住不放。limpet mine（吸附式水雷）并入本条。
+核心：帽贝 —— 紧紧吸附在礁石上的圆锥形小贝；常用来比喻死死抓住不放。
 ① The rocks at low tide were covered with limpets.
 = 退潮时，礁石上附满了帽贝。
 covered with limpets = 附满帽贝
@@ -17368,14 +17272,10 @@ line
 核心：线、线条；界线；一排、一行；（美）排的队；（文字的）一行；电话线路；铁路线；绳、钓线；皱纹；
 （台词的）一句；（公司的）一个产品系列；行当；方针、路线；（家族的）一脉。
 动词：沿…排成行；给（衣服、容器）加衬里。形容词 lined（有横格的；有皱纹的；有衬里的）并入本条。
-短语动词 line up（排队；排成行；安排好）。
 习语：in line with（与…一致）、out of line（出格、不守规矩）、on the line（冒着风险；在电话上）、
 draw the line（划定界限、不肯越过）、read between the lines（读出言外之意）、along the lines of（类似于）、
 the bottom line（最关键的一点；账本底线）、hold the line（别挂电话；坚守立场）、
 drop somebody a line（给某人写封短信）、toe the line（听话、守规矩）。
-搭配：line manager（英：直属上司，这种管理叫 line management）、line of credit（信贷额度）、line of sight（视线）、
-line item（预算、账单上的单项，美国另有 line-item veto 单项否决权）、line drawing（线描）、line dancing（排舞）、
-line drive（棒球：平直球）、line printer（行式打印机）、line-out（橄榄球：界外争球）、line-caught（钓线捕的）。
 ① Draw a straight line from the top of the page to the bottom.
 = 从页面顶端到底端画一条直线。
 a straight line = 直线
@@ -17598,7 +17498,7 @@ wash your dirty linen in public = 家丑外扬
 
 liner
 /ˌlaɪnə(r)/
-核心：大型客轮、邮轮；（容器、衣物的）衬垫、衬里；眼线笔（eyeliner 的简称）。liner note（唱片内页说明）并入本条。
+核心：大型客轮、邮轮；（容器、衣物的）衬垫、衬里；眼线笔（eyeliner 的简称）。
 ① They crossed the Atlantic on an ocean liner in 1936.
 = 一九三六年，他们乘远洋客轮横渡了大西洋。
 an ocean liner = 远洋客轮
@@ -17752,9 +17652,7 @@ every cloud has a silver lining = 黑暗中总有一线光明
 link
 /lɪŋk/
 核心：联系、关联；（交通、通信的）连接线路；（链条的）一环；（网页的）链接。动词：把…连接起来；把…联系起来。
-短语动词 link up（连接起来；会合、联手）。
-名词 linkage（联系；联动装置）、linkman（英：节目串联人）并入本条；
-搭配 link road（英：连接路）、linking verb（系动词）、link sausage（美：一节一节的香肠）。
+名词 linkage（联系；联动装置）、linkman（英：节目串联人）并入本条；另有 linking verb（系动词）。
 ① Police believe there is a link between the two robberies.
 = 警方认为这两起抢劫案之间有关联。
 a link between A and B = 两者之间的关联
@@ -17836,7 +17734,7 @@ a linocut = 油毡版画
 
 linseed
 /ˈlɪnsiːd/
-核心：亚麻籽 —— 亚麻（flax）的种子。linseed oil（亚麻籽油）并入本条。
+核心：亚麻籽 —— 亚麻（flax）的种子。
 ① She adds a spoonful of linseed to her porridge every morning.
 = 她每天早上往粥里加一勺亚麻籽。
 a spoonful of linseed = 一勺亚麻籽
@@ -17893,8 +17791,6 @@ lip
 核心：嘴唇；（杯、壶、坑的）边、口；（口语）顶嘴的话。
 习语：bite your lip（咬住嘴唇忍着）、my lips are sealed（我守口如瓶）、pay lip service to（口头上支持）、
 a stiff upper lip（咬牙不露感情）。
-并入本条：lip-read（读唇）与 lip-reading（唇读）、lip-sync（对口型）、lip gloss（唇彩）、lip liner（唇线笔）、
-lip salve（英：润唇膏）、lip service（口惠而实不至的支持）。
 ① She put her finger to her lips to tell us to be quiet.
 = 她把手指放在嘴唇上，示意我们安静。
 your lips = 嘴唇
@@ -18017,7 +17913,6 @@ cherry liqueur = 樱桃利口酒
 liquid
 /ˈlɪkwɪd/
 核心：液体；液态的；（声音）清亮流畅的；（资产）易变现的。
-搭配 liquid crystal display（液晶显示屏，缩写 LCD）、liquid paraffin（英：液体石蜡，一种通便药）并入本条。
 ① Water is a liquid at room temperature.
 = 水在室温下是液体。
 a liquid = 液体
@@ -18080,7 +17975,7 @@ a liquidizer = （英）搅拌机
 
 liquor
 /ˈlɪkə(r)/
-核心：（美）烈酒；（英，正式）酒类。liquor store（美：卖酒的店）并入本条。
+核心：（美）烈酒；（英，正式）酒类。
 ① He does not drink hard liquor, only beer.
 = 他不喝烈酒，只喝啤酒。
 hard liquor = 烈酒
@@ -18094,7 +17989,7 @@ hold your liquor = 酒量好
 
 liquorice
 /ˈlɪkərɪʃ/
-核心：甘草；甘草糖 —— 黑色、有嚼劲的糖。美式拼 licorice。liquorice allsorts（英：什锦甘草糖）并入本条。
+核心：甘草；甘草糖 —— 黑色、有嚼劲的糖。美式拼 licorice。
 ① The old man always had a stick of liquorice in his pocket.
 = 那位老人口袋里总有一根甘草糖。
 a stick of liquorice = 一根甘草糖
@@ -18139,7 +18034,7 @@ list
 /lɪst/
 核心：清单、名单、一览表；动词：列出、列举；把…列入名单。另指（船）倾斜。
 名词 listing（列表里的一项；节目、活动一览）、listicle（清单体文章）并入本条；
-搭配 list price（标价、目录价）、listed building（英：受保护的登录建筑）、list box（计算机：列表框）。
+另有 listed building（英：受保护的登录建筑）。
 ① I made a list of the things we need for the trip.
 = 我列了一张旅行要用的东西的清单。
 make a list = 列清单
@@ -18177,8 +18072,7 @@ listen
 /ˈlɪsən/
 核心：听、留神听 —— 有意识地去听；听从、听劝。常说 listen to。名词 listener（听的人；听众）与
 形容词 listenable（口语：好听的）并入本条。
-短语动词：listen in（偷听；收听）、listen for（留神听有没有）、listen out for（英：留神听着等）、
-listen up（美，口语：注意听了）。listening post（监听站）也并在这里。
+listening post（监听站）也并在这里。
 ① She listens to the radio while she cooks.
 = 她做饭时听收音机。
 listen to = 听
@@ -18304,7 +18198,7 @@ literally = （口语）简直
 
 literary
 /ˈlɪtərəri/
-核心：文学的；文学性的、书面语的。literary agent（作家经纪人）并入本条。
+核心：文学的；文学性的、书面语的。
 ① She won a literary prize for her first novel.
 = 她凭头一部小说得了文学奖。
 a literary prize = 文学奖
@@ -18430,7 +18324,6 @@ litigiousness = 好打官司
 litmus
 /ˈlɪtməs/
 核心：石蕊 —— 遇酸变红、遇碱变蓝的物质；litmus paper（石蕊试纸）。
-litmus test（石蕊试验；比喻：试金石）并入本条。
 ① The litmus paper turned red when it touched the lemon juice.
 = 石蕊试纸一碰柠檬汁就变红了。
 litmus paper = 石蕊试纸
@@ -18453,7 +18346,6 @@ liter = （美式拼法）升
 litter
 /ˈlɪtə(r)/
 核心：（公共场所乱扔的）垃圾、废弃物；（猫、狗等的）一窝幼崽；猫砂。动词：乱扔垃圾；（东西）散落在…上。
-litter bin（英：街上的垃圾箱）与 litter lout（英，口语：乱扔垃圾的人）并入本条。
 ① The park was full of litter after the concert.
 = 音乐会之后，公园里满是垃圾。
 full of litter = 满是垃圾
@@ -18481,8 +18373,7 @@ little
 核心：小的；年幼的；（时间、距离）短的；不重要的。带感情色彩（可爱、可怜），这是它和 small 的不同。
 限定词、代词：a little（一点，肯定）；little（几乎没有，否定）。副词：很少、几乎不。比较级 less，最高级 least。
 习语：a little bit（一点点）、little by little（一点一点地）、little did I know（我一点也没想到）。
-搭配：little finger（小指）、the little people（小人物、平民百姓；传说里的小精灵）、little person（身材矮小的人，中性说法）、
-little black dress（小黑裙）、little owl（纵纹腹小鸮）。名词 littleness（小）并入本条。
+名词 littleness（小）并入本条。
 ① They live in a little house at the end of the lane.
 = 他们住在小路尽头的一座小房子里。
 a little house = 小房子
@@ -18540,6 +18431,7 @@ littoral
 ① The littoral states met to discuss fishing rights in the sea.
 = 沿海各国开会讨论那片海域的捕鱼权。
 littoral states = 沿海国家
+只作定语，多见于地理、军事等专业语境。
 ② Most of the country's people live on the narrow littoral between the mountains and the sea.
 = 那个国家的人大多住在山海之间狭窄的沿海地带。
 the littoral = 沿海地带
@@ -18551,6 +18443,7 @@ liturgy
 ① The liturgy was sung in Latin until the 1960s.
 = 直到二十世纪六十年代，礼拜仪式都用拉丁语咏唱。
 the liturgy = 礼拜仪式
+也可数，指某一教会的一整套礼仪。
 ② The choir sings liturgical music by composers of the sixteenth century.
 = 唱诗班演唱十六世纪作曲家的礼仪音乐。
 liturgical music = 礼仪音乐
@@ -18562,13 +18455,8 @@ live
 /lɪv/（动）/laɪv/（形、副）
 核心：两个读音。
 动词读如 liv：住、居住；活着；过（某种生活）。
-短语动词：live on（靠…过活；以…为食；继续存在）、live off（靠…养活）、live by（靠…谋生，live by doing；
-遵循（原则））、live for（为…而活）、live with（和…同住；忍受、接受）、live together（同居；一起住）、
-live in（住在工作、学习的地方）、live out（不住在工作的地方；过完（余生）；实现（梦想））、
-live through（经历过、熬过）、live down（让人淡忘（丑事））、live up to（不辜负、达到）。
 习语：live and let live（互相宽容、各过各的）、live it up（口语：尽情享乐）。
 形容词、副词读如 laiv：活的；现场直播的、现场演出的；带电的；实弹的。
-搭配：live action（真人实拍）、live blog（实时博客）、live feed（实时信号、直播流）、live stream（网络直播）。
 ① She lives in a small flat near the university.
 = 她住在大学附近的一套小公寓里。
 live in a flat = 住在公寓里
@@ -18675,6 +18563,7 @@ liveable
 ① The new park has made the city centre more liveable.
 = 新公园让市中心更宜居了。
 a liveable city = 宜居的城市
+常见于城市规划、城市排名类报道。
 ② The house is old and cold, but it is liveable.
 = 那座房子又旧又冷，不过还住得了人。
 be liveable = 住得了人
@@ -18699,6 +18588,7 @@ livelihood
 ① Fishing is the main livelihood of the people on the island.
 = 捕鱼是岛上居民的主要生计。
 the main livelihood = 主要生计
+正式用语，多见于新闻和经济发展类报道。
 ② Thousands of farmers lost their livelihoods when the dam was built.
 = 修大坝时，成千上万的农民失去了生计。
 lose your livelihood = 失去生计
@@ -18739,10 +18629,11 @@ liveliness = 活泼、欢快
 
 liven
 /ˈlaɪvən/
-核心：liven up —— （使）活跃起来、热闹起来、有生气。
+核心：（使）活跃起来、热闹起来、有生气。
 ① A few jokes about your school days will liven up the wedding speech.
 = 讲几个你上学时的笑话，会让那篇婚礼致辞生动起来。
 liven up = 使活跃起来
+几乎总和 up 连用，很少单独出现。
 ② The party was quiet at first but livened up when the band arrived.
 = 聚会起初冷冷清清，乐队一到就热闹起来了。
 the party livens up = 聚会热闹起来
@@ -18752,10 +18643,11 @@ liven up a room = 让屋子有生气
 
 liver
 /ˈlɪvə(r)/
-核心：肝脏；（食用的）动物肝。liver sausage（英：肝肠）与 liver spot（老年斑）并入本条。
+核心：肝脏，人和动物体内的器官；（食用的）动物肝。
 ① Drinking too much alcohol over many years damages the liver and the heart.
 = 多年饮酒过量会伤肝伤心脏。
 damage the liver = 伤肝
+说器官时可数，说食物时不可数。
 ② We had liver and onions with mashed potato for dinner at my grandmother's house.
 = 我们在奶奶家晚饭吃的是洋葱炒肝配土豆泥。
 liver and onions = 洋葱炒肝
@@ -18781,7 +18673,6 @@ a Liverpudlian accent = 利物浦口音
 livery
 /ˈlɪvəri/
 核心：（仆人、侍从的）制服；（公司车辆、飞机的）统一涂装。形容词 liveried（穿制服的）并入本条。
-搭配：livery stable / livery yard（寄养、出租马匹的马房）、livery company（伦敦的同业公会）。
 ① A doorman in green livery opened the door of the hotel.
 = 一位身穿绿色制服的门童打开了酒店的门。
 in livery = 穿着制服
@@ -18805,6 +18696,7 @@ livestock
 ① The farmer keeps livestock on the hills as well as growing wheat in the valley.
 = 那位农夫既在山谷里种小麦，也在山上养牲畜。
 keep livestock = 养牲畜
+词尾不加 -s，没有单数形式，说一头要用具体的畜名。
 ② Many livestock were lost when the floods covered the fields beside the river.
 = 洪水淹没河边的田地时，损失了许多牲畜。
 lose livestock = 损失牲畜
@@ -18816,6 +18708,7 @@ livid
 ① Dad was livid when he saw the scratch on the car.
 = 老爸看见车上的划痕，气得发疯。
 be livid = 怒不可遏
+这一支多作表语，不放在名词前。
 ② She had a livid bruise on her arm where the ball had hit her.
 = 她胳膊上被球砸中的地方有一块青紫的瘀伤。
 a livid bruise = 青紫的瘀伤
@@ -18826,8 +18719,6 @@ living
 核心：活着的、现存的；名词：生计、谋生的收入；生活方式；the living（活着的人）。
 习语：make a living（谋生）、earn a living（挣钱糊口）、in living memory（在人们的记忆里）、
 the cost of living（生活费用）、the standard of living（生活水平）。
-搭配：living room（客厅）、living wage（够生活的工资）、living will（生前预嘱）、living roof（绿植屋顶）、
-living wall（绿植墙）、a living death（生不如死的日子）。
 ① She is one of the greatest living writers in the Spanish language.
 = 她是在世的最伟大的西班牙语作家之一。
 a living writer = 在世的作家
@@ -18899,7 +18790,7 @@ llamas spit = 大羊驼吐口水
 lo
 /ləʊ/
 核心：（古）看哪 —— 今天只用于 lo and behold（谑：你瞧、说来也巧）。
-另有前缀 lo-：low 的非正式拼法，见于 lo-cal（低热量的）、lo-res（低分辨率的）、lo-tech（技术含量低的）。
+另有前缀 lo-：low 的非正式拼法。
 ① I had just sat down to eat when, lo and behold, the telephone rang.
 = 我刚坐下来吃饭，你瞧，电话响了。
 lo and behold = 你瞧、说来也巧
@@ -18921,7 +18812,7 @@ load
 核心：（车、船、人运载的）货物、一车（一船）的量；负担、工作量；（口语）大量。动词：装（货）、装载；
 给（枪）装子弹、给（相机）装胶卷；（计算机）加载。
 习语：a load of / loads of（口语：很多）、a load of rubbish（英，口语：一派胡言）、get a load of（口语：瞧瞧）、
-a load off your mind（心头一块石头落地）。短语动词 load down（使负重、压得喘不过气），也说 load up。
+a load off your mind（心头一块石头落地）。短语动词 load up（使负重、压得喘不过气）。
 形容词 loaded（装满的；上了膛的；话里有话的；口语：很有钱的）与名词 loading（装载）并入本条。
 ① The lorry was carrying a load of bricks to the building site by the river.
 = 那辆卡车拉着一车砖去河边的建筑工地。
@@ -19012,7 +18903,7 @@ loamy soil = 壤质土
 loan
 /ləʊn/
 核心：贷款、借款；借出、出借。动词：借出（美式常用；英式多说 lend）。习语 on loan（借来的、借调的）。
-名词 loanword（外来词、借词）、loaner（美：修车期间借给顾客用的车）与 loan shark（放高利贷的人）并入本条。
+名词 loanword（外来词、借词）与 loaner（美：修车期间借给顾客用的车）并入本条。
 ① They took out a loan to buy the car.
 = 他们贷款买了那辆车。
 take out a loan = 贷款
@@ -19138,7 +19029,7 @@ feel lobotomized = （口语）脑子木了
 
 lobster
 /ˈlɒbstə(r)/
-核心：龙虾；龙虾肉。lobster pot（捕龙虾的笼子）并入本条。
+核心：龙虾 —— 海里一种带大螯的甲壳动物；也指龙虾肉。
 ① The fisherman pulled up a large lobster with its claws tied.
 = 渔夫拉上来一只大龙虾，螯已经捆住了。
 a lobster = 龙虾
@@ -19156,8 +19047,7 @@ as red as a lobster = 晒得通红
 local
 /ˈləʊkəl/
 核心：当地的、本地的；（医）局部的。名词：当地人；（英，口语）家附近常去的酒馆。副词 locally 并入本条。
-搭配：local authority（英：地方政府）、local time（当地时间）、local call（市内电话）、local radio（地方电台）、
-local bus（美：站站停的普通公交）、local area network（局域网，缩写 LAN）、local anaesthetic（局部麻醉）。
+搭配 local anaesthetic（局部麻醉）。
 ① Our children go to the local school at the end of the street.
 = 我们的孩子上街尾那所本地学校。
 the local school = 本地的学校
@@ -19285,11 +19175,9 @@ ch 读作喉音，英格兰人常读成 lock。
 lock
 /lɒk/
 核心：锁；（运河的）船闸；一绺头发。动词：锁上；卡住、固定住。
-短语动词：lock up（锁好门窗；把…关起来）、lock in（把…锁在里面；锁定）、lock out（把…锁在外面）、
-lock away（把…锁起来收好）、lock onto（（导弹、雷达）锁定目标）。
 习语：under lock and key（锁着、严加看管）、lock, stock and barrel（全部、一股脑儿）、lock horns（争执、较劲）。
-并入本条：lockable（可上锁的）、lockbox（美：带锁的箱子）、lockdown（封锁、封控）、lockstep（美：in lockstep = 步调一致）、
-lock-keeper（船闸看守人）。
+并入本条：lockable（可上锁的）、lockbox（美：带锁的箱子）、lockdown（封锁、封控）、
+lockstep（美：in lockstep 意为步调一致）。
 ① She turned the key in the lock and opened the door.
 = 她把钥匙在锁里一转，打开了门。
 a lock = 锁
@@ -19354,7 +19242,7 @@ a lock-keeper = 船闸看守人
 
 locker
 /ˈlɒkə(r)/
-核心：（学校、健身房、车站里的）储物柜、带锁的小柜。locker room（更衣室）并入本条。
+核心：（学校、健身房、车站里的）储物柜、带锁的小柜。
 ① She left her bag in a locker at the swimming pool.
 = 她把包放在了游泳池的储物柜里。
 a locker = 储物柜
@@ -19548,7 +19436,7 @@ loftiness = 崇高；高傲
 log
 /lɒɡ/
 核心：（截下的）原木、木柴；航海日志、（工作、行车的）记录。动词：把…记入日志；砍伐（树木）；（飞行、行驶）累计达到。
-短语动词：log in / log on（登录）、log off / log out（退出登录）。习语 sleep like a log（睡得很沉）。
+习语 sleep like a log（睡得很沉）。
 名词 login（登录；登录名，也写 logon）、logoff 与 logout（退出登录）、logger（伐木工）、logging（伐木业）并入本条。
 ① He put another log on the fire.
 = 他往火里又添了一根木柴。
@@ -19653,8 +19541,7 @@ a long loggia = 长凉廊
 
 logic
 /ˈlɒdʒɪk/
-核心：逻辑、道理；逻辑学；（计算机）逻辑运算。名词 logician（逻辑学家）并入本条；
-计算机术语 logic gate（逻辑门）、logic circuit（逻辑电路）、logic bomb（逻辑炸弹）也并在这里。
+核心：逻辑、道理；逻辑学；（计算机）逻辑运算。名词 logician（逻辑学家）并入本条。
 ① I cannot follow the logic of his argument.
 = 我跟不上他论证的逻辑。
 the logic of an argument = 论证的逻辑
@@ -19782,7 +19669,7 @@ your head lolls = 头耷拉着
 
 lollipop
 /ˈlɒlɪpɒp/
-核心：棒棒糖。lollipop lady / lollipop man（英，口语：手持圆牌护送学童过马路的人）并入本条。
+核心：棒棒糖 —— 插在小棍上的硬糖。
 ① The dentist gave the little boy a lollipop for being brave.
 = 牙医因为小男孩勇敢，给了他一根棒棒糖。
 a lollipop = 棒棒糖
@@ -19831,8 +19718,7 @@ a Londoner born and bred = 土生土长的伦敦人
 
 lone
 /ləʊn/
-核心：单独的、独自的 —— 只用在名词前，偏书面。lone parent（英：单亲）与 lone-parent family（单亲家庭）并入本条；
-a lone wolf（独来独往的人）。
+核心：单独的、独自的 —— 只用在名词前，偏书面；a lone wolf（独来独往的人）。
 ① A lone walker was crossing the beach in the rain.
 = 一个孤零零的行人冒雨走过海滩。
 a lone walker = 孤零零的行人
@@ -19852,7 +19738,7 @@ a lone wolf = 独来独往的人
 lonely
 /ˈləʊnli/
 核心：孤独的、寂寞的；（地方）偏僻的、人迹罕至的。名词 loneliness 并入本条；
-lonely heart（寻找伴侣的单身者）、lonely hearts column（征友栏）。
+另有 lonely hearts column（征友栏）。
 ① She felt lonely in the big city during her first winter there.
 = 在那座大城市的头一个冬天，她感到孤独。
 feel lonely = 感到孤独
@@ -19900,13 +19786,6 @@ long
 习语：as long as / so long as（只要）、no longer（不再）、before long（不久）、for long（很久，多用于否定、疑问）、
 long ago（很久以前）、all day long（一整天）、in the long run（从长远看）、at long last（终于）、
 the long and the short of it（总而言之）。
-复合词：long-term（长期的）、long-distance（长途的；long distance 长途）、long-range（远程的；长远的）、
-long-standing（由来已久的）、long-running（持续多年的）、long-lasting（持久的）、long-lived（长寿的）、
-long-life（英：可长期保存的）、long-serving（任职多年的）、long-time（多年的）、long-stay（长期停留的）、
-long-awaited（期待已久的）、long-lost（失散多年的）、long-drawn-out（拖得太久的）、long-winded（啰嗦的）、
-long-suffering（长期忍受的）、long-sighted（英：远视的；名词 long-sightedness）。
-搭配：long jump（跳远）、long weekend（连休的长周末）、long wave（长波）、long division（长除法）、
-long johns（秋裤）、long drink（大杯饮料）、long ball（足球：长传）、long-distance footpath（英：长距离步道）。
 ① She has long dark hair and green eyes.
 = 她有一头长长的黑发和一双绿眼睛。
 long hair = 长发
@@ -20185,15 +20064,10 @@ a loofah is… = 丝瓜络是…
 
 look
 /lʊk/
-核心：看、瞧（look at）；看起来、显得（look + 形容词、look like）；（房屋）朝向；找（look for）。
+核心：看、瞧；看起来、显得（look + 形容词、look like）；（房屋）朝向；找；指望、依靠（look to somebody for / to do）。
 名词：看一眼；神情、样子；外表；（复数 looks）相貌。感叹：Look!（听着、你看）。
-短语动词：look after（照顾、照管）、look ahead（展望将来）、look around / look round（四下看看；参观；look around for = 四处找）、
-look at（看；考虑、研究）、look back（回头看；回顾）、look down on（看不起）、look for（找）、look forward to（期待）、
-look in（顺道看望）、look into（调查）、look on（旁观；look on as = 把…看作；look on with = 以…眼光看待）、
-look out（当心）、look out for（留神找；留意）、look over（过目、检查一遍）、look through（翻阅、浏览；视而不见）、
-look to（指望、依靠；look to somebody for / to do）、look up（抬头看；查阅；好转；看望）、look up to（敬仰）。
 习语：have a look（看一下）、by the look of（看样子）、look somebody in the eye（直视某人）、look the other way（装没看见）。
-名词 look-see（口语：看一眼）、旧词 looking glass（镜子）并入本条。
+旧词 looking glass（镜子）并入本条。
 ① Look at the map on the wall and tell me where we are now.
 = 看看墙上的地图，告诉我我们现在在哪儿。
 look at = 看
@@ -20415,7 +20289,7 @@ like a loon = 像个疯子
 
 loony
 /ˈluːni/
-核心：（口语，可能冒犯）疯狂的、荒唐的；疯子。loony bin（旧，俚，冒犯：疯人院）并入本条。
+核心：（口语，可能冒犯）疯狂的、荒唐的；疯子。
 ① She has some loony idea about sailing to France in a bath.
 = 她有个疯狂的念头，要坐浴缸漂到法国去。
 a loony idea = 疯狂的念头
@@ -20490,8 +20364,6 @@ loose
 动词（正式）：放开、释放。副词 loosely（松松地；大致地）与名词 looseness 并入本条。
 习语：on the loose（在逃、逍遥在外）、at a loose end（英：闲着没事干）、let loose（放开；放任）、
 break loose（挣脱）、cut loose（摆脱束缚；放开玩）。
-搭配：loose change（零钱）、loose end（没了结的零碎事）、loose cover（英：可拆洗的沙发套）、loose box（英：单间马厩）、
-loose-leaf（活页的）、loose-fitting（宽松的）、loose-limbed（四肢灵活的）。
 ① One of my front teeth is loose and moves when I eat.
 = 我有一颗门牙松了，一吃东西就晃。
 a loose tooth = 松动的牙
@@ -20560,7 +20432,7 @@ looseness = 松、不严
 
 loosen
 /ˈluːsən/
-核心：松开、放松；变松。短语动词 loosen up（放松；活动筋骨；放宽）。
+核心：松开、放松；变松 —— 让绑紧、拧紧或绷紧的东西松下来。
 ① He loosened his tie, took off his jacket and sat down with a sigh.
 = 他松了松领带，脱下外套，叹了口气坐下。
 loosen your tie = 松开领带
@@ -20601,8 +20473,7 @@ looting = 抢劫（行为）
 
 lop
 /lɒp/
-核心：砍掉、剪掉（树枝）—— 常说 lop off（砍掉；削减掉一部分）。
-另有 lop-eared（垂耳的）与 lop ears（下垂的耳朵）并入本条。
+核心：砍掉、剪掉 —— 多指修剪树枝，把多余的部分去掉。
 ① He lopped the lower branches from the apple tree.
 = 他把苹果树下面的枝子砍掉了。
 lop the branches = 砍掉树枝
@@ -20731,10 +20602,9 @@ lose
 /luːz/
 核心：丢失、遗失；失去（工作、亲人、能力）；输掉（比赛、官司）；减少（体重）；浪费、错过（时间、机会）；
 （钟表）走慢。过去式、过去分词 lost。
-短语动词 lose out（吃亏、落空；lose out to = 输给）。
 习语：lose your way（迷路）、lose your temper（发脾气）、lose weight（体重减轻）、lose touch（失去联系）、
 lose face（丢面子）、lose heart（灰心）、lose your mind（发疯）、lose track of（记不清、忘了）、
-lose sight of（看不见了；忽略）、lose yourself in（沉浸在…里）、have nothing to lose（没什么可损失的）。
+lose sight of（看不见了；忽略）、have nothing to lose（没什么可损失的）。
 名词 loser（输家；失败者）并入本条。
 ① I have lost my passport and cannot find it anywhere.
 = 我把护照弄丢了，哪儿也找不着。
@@ -20811,8 +20681,7 @@ loss
 核心：丧失、失去；损失、亏损；（亲人的）去世；失利。
 习语：at a loss（不知所措；亏本）、make a loss（亏损）、cut your losses（及时止损）、a dead loss（英，口语：
 一无是处的人或物）、loss of life（人员死亡）、be a great loss to（对…是一大损失）。
-搭配：loss-making（亏损的）、loss-leader（亏本赚吆喝的商品）、loss adjuster（英：保险理赔员）；
-计算机术语 lossless（无损的）与 lossy（有损的）也并入本条。
+计算机术语 lossless（无损的）与 lossy（有损的）并入本条。
 ① The loss of his sight changed his whole life.
 = 失明改变了他的整个生活。
 the loss of something = 失去…
@@ -20861,7 +20730,6 @@ lost
 核心：（lose 的过去分词作形容词）迷路的；丢失的、找不着的；茫然的、不知所措的；失去的、错过的。
 习语：get lost（迷路；口语：滚开）、be lost on（对…不起作用、白费）、be lost in thought（陷入沉思）、
 be lost for words（说不出话来）。
-搭配：a lost cause（没指望的事）、lost property（英：失物；失物招领处）、lost and found（美：失物招领处）。
 ① We got lost in the old town and had to ask the way.
 = 我们在老城里迷了路，只好问路。
 get lost = 迷路
@@ -20982,7 +20850,6 @@ play the lotto = 买乐透彩
 lotus
 /ˈləʊtəs/
 核心：莲、荷花 —— 开在水面上的大朵花，在亚洲宗教里是圣洁的象征；（希腊神话里）吃了让人忘忧的果子。
-lotus position（莲花坐，盘腿打坐的姿势）并入本条。
 ① Pink lotus flowers covered the surface of the lake.
 = 粉红色的荷花盖满了湖面。
 lotus flowers = 荷花
@@ -21010,7 +20877,7 @@ loud
 /laʊd/
 核心：响亮的、大声的；（人）吵吵嚷嚷的；（颜色、衣着）扎眼的、俗艳的。副词：大声地（口语里常用，尤其比较级 louder）。
 习语：out loud（出声地）、loud and clear（清清楚楚）。
-副词 loudly、名词 loudness 并入本条；loudmouth（大嗓门、多嘴的人，形容词 loud-mouthed）、
+副词 loudly、名词 loudness 并入本条；loudmouth（大嗓门、多嘴的人）、
 loudhailer（英：手提扩音器，美式说 bullhorn）也并在这里。
 ① The music was so loud that we could not hear each other speak.
 = 音乐太响，我们互相听不见对方说话。
@@ -21069,8 +20936,7 @@ the loudspeakers = 喇叭、扩音器
 lounge
 /laʊndʒ/
 核心：（酒店、机场的）休息室；（英）客厅。动词：懒洋洋地坐着、靠着（lounge around / about）。
-名词 lounger（躺椅）并入本条；搭配 lounge bar（英：酒馆里较舒适的雅座间）、lounge chair（美：躺椅）、
-lounge suit（英：日常西装）、lounge lizard（旧：混迹社交场所勾搭有钱女人的男人）。
+名词 lounger（躺椅）并入本条。
 ① We waited in the departure lounge for three hours.
 = 我们在候机室等了三个小时。
 the departure lounge = 候机室
@@ -21102,7 +20968,7 @@ a lounge lizard = （旧）混迹社交场所的浪子
 
 louse
 /laʊs/
-核心：虱子。复数 lice。（口语）卑鄙的人，这一义复数是 louses。短语动词 louse up（美，口语：搞砸）。
+核心：虱子。复数 lice。（口语）卑鄙的人，这一义复数是 louses。
 ① The nurse checked the children's hair for lice.
 = 护士检查了孩子们头发里有没有虱子。
 lice = louse 的复数
@@ -21174,11 +21040,8 @@ love
 句型 love doing / love to do（很喜欢做）、would love to（很想）。
 习语：fall in love（爱上）、in love with（爱着）、love at first sight（一见钟情）、make love（做爱）、
 for the love of God（看在老天的分上）、not for love or money（无论如何也不）、no love lost between（彼此不和）。
-搭配：love affair（恋情；婚外情）、love life（感情生活）、love letter（情书）、love story（爱情故事）、
-love triangle（三角恋）、love interest（戏里的恋爱对象）、love match（因爱而结的婚姻）、love child（私生子）、
-love nest（爱巢）、love bite（英：吻痕）、love seat（双人小沙发）、love handles（口语：腰间赘肉）、
-love-hate relationship（爱恨交织的关系）、love-in（旧：嬉皮士的爱之聚会；讽：互相吹捧的场合）；
-形容词 loved-up（口语：沉浸在爱里的）、lovey-dovey（口语：卿卿我我的）与称呼 lovey（英，口语：亲爱的）并入本条。
+搭配 love story（爱情故事）；形容词 loved-up（口语：沉浸在爱里的）、lovey-dovey（口语：卿卿我我的）
+与称呼 lovey（英，口语：亲爱的）并入本条。
 ① A mother's love for her children never changes.
 = 母亲对孩子的爱永远不变。
 love for somebody = 对某人的爱
@@ -21383,7 +21246,7 @@ be lovesick = 害相思病
 
 loving
 /ˈlʌvɪŋ/
-核心：充满爱的、慈爱的；（作后一成分）爱…的。副词 lovingly 并入本条；loving cup（旧时宴会上轮流喝的双耳大酒杯）也在这里。
+核心：充满爱的、慈爱的；（作后一成分）爱…的。副词 lovingly 并入本条。
 ① She grew up in a warm and loving family.
 = 她在一个温暖有爱的家庭里长大。
 a loving family = 有爱的家庭
@@ -21404,15 +21267,8 @@ low
 副词：低；向低处。名词：低点、低谷。与 high 相对。
 习语：lie low（躲起来、不露面）、run low（快用完了）、an all-time low（历史最低点）、keep a low profile（保持低调）、
 the highs and lows（起起落落）。
-low- 复合词很多：low-key（低调的）、low-profile（低调的、不引人注意的）、low-cost（低成本的、廉价的）、low-budget（小成本的）、
-low-paid（低收入的）、low-fat（低脂的）、low-cal（低热量的）、low-risk（低风险的）、low-impact（冲击小的、影响小的）、
-low-maintenance（省心的、不用多打理的）、low-tech（技术含量低的）、low-resolution（低分辨率的）、low-level（低层的；低级别的）、
-low-ranking（级别低的）、low-grade（劣质的；轻度的）、low-end（低端的）、low-class（下层的；低档的）、low-rent（租金低的；低档的）、
-low-born（旧：出身低微的）、low-lying（地势低洼的）、low-rise（低层的）、low-slung（底盘低的；挂得低的）、low-cut（低领的）、
-low-pitched（音调低的）、low-down（卑鄙的；the low-down = 内幕）。
-搭配：low tide（低潮）、low water（低水位）、low-water mark（低水位线；最低谷）、low season（淡季）、low pressure（低气压）、
-low point（最低点、低谷）、low life（下层社会的生活；lowlife = 下三滥）、low beams（美：近光灯）、low-hanging fruit（唾手可得的成果）。
-派生词 lowly（地位低微的）、lowbrow（品位不高的、通俗的）、lowball（美，口语：故意报低价）、lowland（低地）与 lowlander（低地人）并入本条。
+派生词 lowly（地位低微的）、lowbrow（品位不高的、通俗的）、lowball（美，口语：故意报低价）、lowland（低地）、
+lowlander（低地人）与 lowlife（下三滥）并入本条。
 ① There is a low wall around the garden.
 = 花园周围有一道矮墙。
 a low wall = 矮墙
@@ -21609,8 +21465,7 @@ a lowlander = 低地人
 lower
 /ˈləʊə(r)/
 核心：较低的、下面的、下部的（low 的比较级，常只用在名词前）；动词：放低、降下；降低、减少。
-搭配：lower case（小写字母）、lower class（下层阶级）、lower house / lower chamber（议会下院）、lower school（英：低年级部）、
-lowest common multiple（最小公倍数）。
+搭配 lowest common multiple（最小公倍数）。
 ① The lower floors of the building are offices.
 = 那座楼的低层是办公室。
 the lower floors = 低层
@@ -21674,7 +21529,7 @@ a loyalist = 忠于现政权的人
 
 loyalty
 /ˈlɔɪəlti/
-核心：忠诚、忠心；（复数）效忠的对象、情分。loyalty card（英：会员积分卡）并入本条。
+核心：忠诚、忠心；（复数）效忠的对象、情分。
 ① The company rewards the loyalty of its oldest workers with extra holidays.
 = 那家公司用额外的假期奖励老员工的忠诚。
 the loyalty of somebody = 某人的忠诚
@@ -21756,7 +21611,7 @@ luck
 核心：运气；好运。不可数。
 习语：good luck（祝你好运；好运气）、bad luck（倒霉）、in luck（走运）、out of luck（不走运）、with any luck（运气好的话）、
 no such luck（可惜没那么好的事）、just my luck（我就这么倒霉）、push your luck（得寸进尺、再冒险）、try your luck（碰碰运气）。
-短语动词 luck out（美，口语：走了大运）。形容词 luckless（不走运的）并入本条。
+形容词 luckless（不走运的）并入本条。
 ① Good luck with your driving test tomorrow.
 = 祝你明天驾照考试顺利。
 good luck = 祝你好运
@@ -21801,7 +21656,6 @@ lucky
 /ˈlʌki/
 核心：幸运的、走运的；带来好运的。副词 luckily（幸亏）并入本条。
 习语：a lucky break（好运气、转机）、you should be so lucky（想得美）、third time lucky（事不过三，第三次准成）。
-lucky dip（英：摸彩袋；碰运气的事）也并在这里。
 ① You are lucky to have such a kind sister.
 = 你有这么好的姐姐，真幸运。
 be lucky to do something = 有幸…
@@ -21892,7 +21746,7 @@ cheat at ludo = 下飞行棋耍赖
 
 lug
 /lʌɡ/
-核心：（口语）费力地拖、拉、搬（重物）。名词：（器物上的）突耳、把手；lug nut（美：车轮螺母）并入本条。
+核心：（口语）费力地拖、拉、搬（重物）。名词：（器物上的）突耳、把手。
 ① She lugged the heavy suitcase up three flights of stairs.
 = 她把沉重的手提箱费力地拖上了三层楼。
 lug a suitcase = 费力地拖手提箱
@@ -21917,7 +21771,7 @@ a luge = 无舵雪橇
 luggage
 /ˈlʌɡɪdʒ/
 核心：行李。不可数，说一件用 a piece of luggage。美式多说 baggage。
-搭配 luggage rack（行李架）、luggage van（英：行李车厢）、hand luggage（随身行李）并入本条。
+搭配 hand luggage（随身行李）并入本条。
 ① We left our luggage at the hotel and went out to see the city.
 = 我们把行李留在酒店，出去逛城了。
 leave your luggage = 寄放行李
@@ -21954,7 +21808,7 @@ a lukewarm response = 冷淡的反应
 
 lull
 /lʌl/
-核心：（活动、风暴、战斗中的）暂时平静、间歇。动词：使平静、哄…入睡；lull into（使…不知不觉陷入某种状态）。
+核心：（活动、风暴、战斗中的）暂时平静、间歇。动词：使平静、哄…入睡。
 ① There was a lull in the fighting during the night, and the villagers came out to find water.
 = 夜里战斗暂时平息了一阵，村民们出来找水。
 a lull in the fighting = 战斗的间歇
@@ -21991,7 +21845,7 @@ ease your lumbago = 缓解腰痛
 
 lumbar
 /ˈlʌmbə(r)/
-核心：（医）腰部的、腰椎的。lumbar puncture（腰椎穿刺）并入本条。
+核心：（医）腰部的、腰椎的 —— 指背部下段、肋骨与骨盆之间那一段。
 ① The pain is in the lumbar region of the back.
 = 疼痛在后背的腰部。
 the lumbar region = 腰部
@@ -22071,7 +21925,7 @@ lump
 /lʌmp/
 核心：（不成形的）块、团；肿块、包；（英，口语）笨重的人。动词：把…混为一谈、归在一起（lump together）。
 习语：a lump in your throat（哽咽）、like it or lump it（口语：不喜欢也得忍着）。
-搭配 lump sum（一次性付的一笔钱）与形容词 lumpish（笨重迟钝的）并入本条。
+形容词 lumpish（笨重迟钝的）并入本条。
 ① She put two lumps of sugar in her tea.
 = 她往茶里放了两块方糖。
 a lump of sugar = 一块方糖
@@ -22132,7 +21986,7 @@ sheer lunacy = 纯属发疯
 lunar
 /ˈluːnə(r)/
 核心：月球的、月亮的；按月亮运行计算的。
-搭配：lunar month（太阴月）、lunar year（太阴年）、lunar cycle（月相周期）、lunar day（太阴日）、lunar calendar（阴历）。
+搭配 lunar calendar（阴历）。
 ① The astronauts collected rocks from the lunar surface.
 = 宇航员从月球表面采集了岩石。
 the lunar surface = 月球表面
@@ -22173,8 +22027,7 @@ lunch
 /lʌntʃ/
 核心：午饭、午餐。动词（正式）：吃午饭。
 习语：out to lunch（口语：神志不清、不靠谱）、there is no such thing as a free lunch（天下没有免费的午餐）。
-并入本条：lunchtime（午饭时间）、lunch hour（午休）、lunch box（午餐盒）、lunchroom（美：学校、公司的餐厅）、
-lunch lady（美，口语：学校食堂的阿姨）、lunch meat（美：午餐肉、冷切肉）。
+并入本条：lunchtime（午饭时间）、lunchroom（美：学校、公司的餐厅）。
 ① We had lunch at a small cafe near the station before catching the two o'clock train.
 = 赶两点钟的火车之前，我们在车站附近的一家小咖啡馆吃了午饭。
 have lunch = 吃午饭
@@ -22214,7 +22067,7 @@ lunch meat = （美）冷切肉、午餐肉
 luncheon
 /ˈlʌntʃən/
 核心：（正式）午宴、午餐会。
-搭配 luncheon meat（英：午餐肉）、luncheon voucher（英：午餐券）与旧式美语 luncheonette（小吃店）并入本条。
+旧式美语 luncheonette（小吃店）并入本条。
 ① The mayor gave a luncheon for the visiting team.
 = 市长为来访的球队设了午宴。
 give a luncheon = 设午宴
@@ -22235,7 +22088,7 @@ a luncheonette = （美，旧）小吃店
 lung
 /lʌŋ/
 核心：肺。习语 at the top of your lungs（扯着嗓子、声嘶力竭地）。
-名词 lungful（一大口气）与形容词 lung-busting（口语：累得喘不上气的）并入本条。
+名词 lungful（一大口气）并入本条。
 ① Smoking damages the lungs and the heart.
 = 吸烟损害肺和心脏。
 damage the lungs = 伤肺
@@ -22386,7 +22239,7 @@ a lush = （美，口语）酒鬼
 
 lust
 /lʌst/
-核心：强烈的性欲、色欲；（对权力、金钱等的）强烈欲望。动词：lust after / lust for（贪恋、渴望）。
+核心：强烈的性欲、色欲；（对权力、金钱等的）强烈欲望。
 形容词 lustful（好色的）并入本条。
 ① The novel is a story of lust and jealousy in a small town.
 = 那部小说讲的是小城里的色欲与嫉妒。
@@ -22484,7 +22337,7 @@ luxuriance = 繁茂
 
 luxuriate
 /lʌɡˈʒʊərieɪt/
-核心：尽情享受 —— luxuriate in（沉浸在舒适、惬意的事物里）。
+核心：尽情享受 —— 沉浸在舒适、惬意的事物里。
 ① She luxuriated in a hot bath after the long walk.
 = 走了那么远的路之后，她尽情泡了个热水澡。
 luxuriate in = 尽情享受
@@ -22559,7 +22412,7 @@ handle lye = 接触碱液
 
 lymph
 /lɪmf/
-核心：淋巴（液）。形容词 lymphatic（淋巴的）与 lymph node（淋巴结）并入本条。
+核心：淋巴（液）。形容词 lymphatic（淋巴的）并入本条。
 ① Lymph carries white blood cells around the body to fight infection.
 = 淋巴把白细胞运到全身各处对抗感染。
 lymph = 淋巴液
@@ -22584,7 +22437,7 @@ a form of lymphoma = 一种淋巴瘤
 
 lynch
 /lɪntʃ/
-核心：（暴民）私刑处死 —— 不经审判把人吊死。名词 lynching（私刑处死）与 lynch mob（施私刑的暴民；比喻围攻的人群）并入本条。
+核心：（暴民）私刑处死 —— 不经审判把人吊死。名词 lynching（私刑处死）并入本条。
 ① The prisoner was dragged from the jail and lynched by an angry crowd.
 = 那名囚犯被愤怒的人群从牢里拖出来，私刑处死了。
 be lynched = 被私刑处死
@@ -22741,7 +22594,7 @@ the macaques of Japan = 日本的猕猴
 
 macaroni
 /ˌmækəˈrəʊni/
-核心：通心粉 —— 短而弯的空心管状意大利面。macaroni cheese（英：奶酪通心粉，美式说 macaroni and cheese）并入本条。
+核心：通心粉 —— 短而弯的空心管状意大利面。
 ① Boil the macaroni for eight minutes and drain it well.
 = 把通心粉煮八分钟，沥干水。
 boil the macaroni = 煮通心粉
@@ -22864,8 +22717,7 @@ the machinations of his rivals = 对手的算计
 machine
 /məˈʃiːn/
 核心：机器、机械装置；（口语）电脑、洗衣机等具体的机器；（政党、组织的）机器、班底。动词：用机器加工、缝制。
-搭配：machine gun（机关枪）、machine code（机器码）、machine learning（机器学习）、machine-readable（机器可读的）、
-washing machine（洗衣机）、vending machine（自动售货机）。名词 machinist（机械工；缝纫工）并入本条。
+搭配：washing machine（洗衣机）、vending machine（自动售货机）。名词 machinist（机械工；缝纫工）并入本条。
 ① The factory has bought a new machine for cutting cloth.
 = 那家工厂买了一台裁布的新机器。
 a machine = 机器
@@ -23020,7 +22872,7 @@ mad
 狂乱的、猛烈的。
 习语：go mad（发疯；气疯；乐疯）、like mad（拼命地）、drive somebody mad（把某人逼疯）。
 派生词 madly（疯狂地；非常）、madness（疯狂）、madman / madwoman（疯子）、madhouse（乱哄哄的地方；旧：疯人院）并入本条；
-mad cow disease（疯牛病）与 the madding crowd（文：喧嚣的人群）也在这里。
+the madding crowd（文：喧嚣的人群）也在这里。
 ① You must be mad to drive in this fog.
 = 这么大的雾还开车，你准是疯了。
 be mad to do something = 做…是疯了
@@ -23115,7 +22967,7 @@ maddeningly slowly = 慢得让人抓狂
 
 Madeira
 /məˈdɪərə/
-核心：马德拉酒 —— 葡萄牙马德拉岛产的加烈葡萄酒，颜色深、带甜味。Madeira cake（英：马德拉蛋糕，一种黄油海绵蛋糕）并入本条。
+核心：马德拉酒 —— 葡萄牙马德拉岛产的加烈葡萄酒，颜色深、带甜味。
 ① He poured two small glasses of Madeira after dinner and put the bottle back in the cupboard.
 = 晚饭后他倒了两小杯马德拉酒，又把瓶子放回了柜子。
 a glass of Madeira = 一杯马德拉酒
@@ -23255,9 +23107,7 @@ magic 一词和它同源。
 magic
 /ˈmædʒɪk/
 核心：魔法、法术；魔术、戏法；魔力、魅力。形容词：有魔力的；（口语）棒极了。
-习语：like magic / as if by magic（神奇地、一下子）、magic wand（魔杖；wave a magic wand = 一下子把问题解决）。
-搭配：magic carpet（飞毯）、magic bullet（灵丹妙药）、magic number（关键数字）、magic mushroom（迷幻蘑菇）、
-magic lantern（旧：幻灯机）、magic realism（魔幻现实主义，也说 magical realism）。
+习语：like magic / as if by magic（神奇地、一下子）、wave a magic wand（一下子把问题解决）。
 形容词 magical（有魔力的；美妙的）与副词 magically 并入本条。
 ① The witch used magic to turn the prince into a frog.
 = 女巫用魔法把王子变成了青蛙。
@@ -23389,8 +23239,7 @@ magnet
 核心：磁铁、磁体；（比喻）有吸引力的人、地方或事物。
 形容词 magnetic（有磁性的；有吸引力的）、副词 magnetically、名词 magnetism（磁性；魅力）、动词 magnetize（使磁化；吸引住）并入本条。
 搭配：magnetic field（磁场）、magnetic north（磁北）、magnetic pole（磁极）、magnetic compass（指南针）、
-magnetic strip（磁条）、magnetic tape（磁带）、magnetic media（磁性存储介质）、magnetic storm（磁暴）、
-（美）magnet school（特色公立学校）。
+magnetic strip（磁条）、magnetic tape（磁带）、magnetic media（磁性存储介质）、magnetic storm（磁暴）。
 ① The magnet picked up all the pins from the floor.
 = 那块磁铁把地板上的大头针全吸了起来。
 a magnet = 磁铁
@@ -23502,7 +23351,7 @@ magnolia = （英）浅米白色
 
 magnum
 /ˈmæɡnəm/
-核心：大酒瓶 —— 容量一点五升，是普通瓶的两倍；一种大口径左轮手枪。magnum opus（代表作、巨著）并入本条。
+核心：大酒瓶 —— 容量一点五升，是普通瓶的两倍；一种大口径左轮手枪。
 ① They opened a magnum of champagne to celebrate the birth of their first grandchild.
 = 他们开了一大瓶香槟，庆祝头一个孙辈出生。
 a magnum of champagne = 一大瓶香槟
@@ -23586,7 +23435,6 @@ a maidservant = （旧）女仆
 maiden
 /ˈmeɪdən/
 核心：（文）少女、未婚女子；形容词：首次的、处女…的（maiden voyage 首航、maiden speech 首次演说）。
-搭配 maiden name（女子婚前的姓）与 maiden aunt（旧：终身未嫁的姑姑、姨妈）并入本条。
 ① The story tells of a knight who rescues a maiden from a tower.
 = 那个故事讲的是一位骑士从塔里救出一个少女。
 a maiden = （文）少女
@@ -23607,9 +23455,8 @@ a maiden aunt = （旧）终身未嫁的姑姑、姨妈
 
 mail
 /meɪl/
-核心：邮政、邮递系统；邮件、信件（美式常用，英式多说 post）；电子邮件。动词：邮寄；发电子邮件；mail out（成批寄发）。
-搭配：by mail（用邮寄方式）、mail order（邮购）、mail merge（邮件合并）、mailing list（邮寄名单；邮件列表）、
-（美）mail carrier / mailman（邮递员）、mail slot（投信口）、mail drop（收信处）、mail bomb（邮件炸弹）。
+核心：邮政、邮递系统；邮件、信件（美式常用，英式多说 post）；电子邮件。动词：邮寄；发电子邮件。
+搭配：by mail（用邮寄方式）、mailing list（邮寄名单；邮件列表）、（美）mailman（邮递员）。
 名词 mailbox（美：信箱、邮筒；电子邮箱）、mailbag（邮袋；来信）、mailroom（收发室）、mailshot（英：广告邮件）、
 mailer（美：邮寄用的信封盒子；广告邮件）、mailing（寄发的一批邮件）并入本条。
 ① The parcel arrived in the mail this morning.
@@ -23706,9 +23553,7 @@ main
 /meɪn/
 核心：主要的、最重要的 —— 只用在名词前。名词：（输水、输气、输电的）总管、干线；（英）the mains（电源、自来水总管）。
 习语 in the main（大体上）。副词 mainly（主要地）并入本条。
-搭配：main road（主干道）、main street（美：小城的主街）、main course（主菜）、main line（铁路干线）、
-main clause（主句）、main verb（主要动词）、（美，口语）main man（最铁的哥们儿）；
-名词 mainsail（主帆）与 mainspring（主发条；主要动力）也并在这里。
+搭配 main road（主干道）；名词 mainsail（主帆）与 mainspring（主发条；主要动力）也并在这里。
 ① The main reason for the delay was the bad weather.
 = 延误的主要原因是天气恶劣。
 the main reason = 主要原因
@@ -23814,7 +23659,6 @@ the mainstay of the choir = 合唱团的中坚
 mainstream
 /ˈmeɪnstriːm/
 核心：the mainstream —— 主流（多数人接受的思想、做法）；主流的。动词：使成为主流；（美）让（特殊需要的孩子）进普通班。
-mainstream media（主流媒体）并入本条。
 ① His ideas are a long way from the mainstream of political thought.
 = 他的主张离政治思想的主流很远。
 the mainstream = 主流
@@ -23927,10 +23771,8 @@ Your Majesty = 陛下（当面称呼）
 
 major
 /ˈmeɪdʒə(r)/
-核心：主要的、重大的、较大的；（音乐）大调的。名词：（陆军）少校；（美）主修专业、主修某专业的学生。
-动词：major in（美：主修）、major on（英：把重点放在）。与 minor 相对。
-搭配：major general（少将）、major league（美：职业体育的大联盟；一流的）；
-并入本条：majorly（口语：极其）、majorette（行进乐队前挥舞指挥棒的女孩）、major-domo（大管家）。
+核心：主要的、重大的、较大的；（音乐）大调的。名词：（陆军）少校；（美）主修专业、主修某专业的学生。与 minor 相对。
+并入本条：majorly（口语：极其）、majorette（行进乐队前挥舞指挥棒的女孩）。
 ① The city has a major problem with traffic at the two bridges every morning.
 = 那座城市每天早上在两座桥那儿交通问题严重。
 a major problem = 重大问题
@@ -23974,7 +23816,6 @@ a major-domo = 大管家
 majority
 /məˈdʒɒrɪti/
 核心：大多数、多数（the majority of）；（选举、表决中）超出的票数；（法律）成年、法定年龄。常作定语。
-搭配：majority rule（多数决定原则）、majority verdict（多数裁决）、（美）majority leader（多数党领袖）、majority whip（多数党党鞭）。
 习语 be in the majority（占多数）、the silent majority（沉默的大多数）。
 ① The majority of the students at the college live at home and travel in by bus.
 = 那所学院的大多数学生住在家里，坐公交车上学。
@@ -24016,15 +23857,10 @@ make
 等于、合计；成为、适合当；赶上、到达、办成（make it）。过去式、过去分词 made。名词：牌子、型号。
 常见结构：be made of（由…做成，看得出原料）、be made from（由…制成，原料已变样）、be made into（被做成）、
 be made to do（被迫做，被动式要加 to）。
-短语动词：make for（朝…走去；有助于）、make towards（朝…走去）、make of（对…怎么看）、make into（把…变成）、
-make off（匆匆逃走；make off with = 偷了…逃走）、make out（看清、听清、弄懂；开（支票）；声称；口语：进展）、
-make over（把…转让给；彻底改造）、make up（编造；组成；化妆；和好；补足）、make up for（弥补）、
-make up to（英，口语：巴结；make it up to = 补偿某人）。
 习语：make sure（确保）、make sense（讲得通）、make a difference（有影响）、make do（凑合）、make it（办成、赶到）、
 make up your mind（拿定主意）、make fun of（取笑）、make the most of（充分利用）、make way（让路）、
-make ends meet（勉强维持生计）、make believe（假装）。
-并入本条：made-up（编造的；化了妆的）、made to measure（量身定做的）、made to order（定做的）、
-make-believe（假装、幻想）、make-work（美：没事找事的活儿）。
+make ends meet（勉强维持生计）、make it up to（补偿某人）。
+并入本条：made-up（编造的；化了妆的）、made to measure（量身定做的）、made to order（定做的）。
 ① She made a cake for her daughter's birthday.
 = 她为女儿的生日做了一个蛋糕。
 make a cake = 做蛋糕
@@ -24440,7 +24276,7 @@ a Maldivian = 马尔代夫人
 male
 /meɪl/
 核心：男性的、雄性的；男性、雄性动物。与 female 相对。名词 maleness（男性特质）并入本条；
-搭配 male chauvinist（大男子主义者）、male menopause（男性更年期）、male-dominated（男性主导的）。
+搭配 male-dominated（男性主导的）。
 ① The male bird has bright red feathers on its head.
 = 那种鸟雄的头上有鲜红的羽毛。
 the male bird = 雄鸟
@@ -24608,7 +24444,7 @@ a malingerer = 装病的人
 
 mall
 /mɔːl/
-核心：（尤美）购物中心、商场 —— 也说 shopping mall。mall rat（美，口语：整天泡在商场里的青少年）并入本条。
+核心：（尤美）购物中心、商场 —— 也说 shopping mall。
 ① We spent Saturday afternoon at the mall buying clothes for the children.
 = 星期六下午我们在商场给孩子们买衣服。
 at the mall = 在商场
@@ -24702,7 +24538,7 @@ guilty of malpractice = 被认定失职
 malt
 /mɔːlt/
 核心：麦芽 —— 发芽后烘干的大麦，用来酿啤酒、威士忌；麦芽威士忌；（美）麦乳精饮料。形容词 malted（加麦芽的）并入本条。
-搭配：malt whisky（麦芽威士忌）、malt vinegar（麦芽醋）、malted milk（麦乳精）。
+搭配 malted milk（麦乳精）。
 ① The beer is made from malt, hops and water from the local spring.
 = 那种啤酒是用麦芽、啤酒花和当地的泉水酿的。
 made from malt = 用麦芽酿的
@@ -24729,7 +24565,7 @@ malt liquor = （美）麦芽酒
 
 Maltese
 /ˌmɔːlˈtiːz/
-核心：马耳他的；马耳他人（复数不变）；马耳他语。Maltese cross（马耳他十字：四臂末端呈 V 形的十字）并入本条。
+核心：马耳他的；马耳他人（复数不变）；马耳他语。
 ① The Maltese capital is a small walled city above the harbour.
 = 马耳他的首都是港口上方一座有城墙的小城。
 the Maltese capital = 马耳他首都
@@ -24889,10 +24725,7 @@ man
 （口语）老兄（称呼）、丈夫或男友；棋子。复数 men。动词：给…配备人手、操纵、值守。感叹（美，口语）：天哪。
 习语：the man in the street（普通人、老百姓）、to a man（无一例外、全体）、man to man（男人对男人、坦率地）、
 be your own man（自己作主、不受人摆布）、be man enough to（有胆量做）、a man of his word（说话算数的人）、
-the man of the house（一家之主）。短语动词 man up（口语：拿出男子汉的样子）。
-复合词：man-made（人造的）、man-hour（工时）、man-sized（大号的、成人份的）、man-eater（吃人的野兽；谑：专吃男人的女人）、
-man-eating（吃人的）、man-of-war（旧：军舰）、man of letters（文人）、man Friday（得力的男助手）、
-man cave（口语：男人的私人天地）、man bag（男用挎包）、man flu（谑：男人的小感冒大惊小怪）、man boobs（口语：男人发福的胸）。
+the man of the house（一家之主）。复合词 man boobs（口语：男人发福的胸）。
 形容词 manned（有人驾驶的、有人值守的）并入本条；man management（英：对人的管理）也在这里。
 ① A tall man in a grey coat was waiting at the door.
 = 一个穿灰大衣的高个男人等在门口。
@@ -25062,7 +24895,6 @@ managed care = （美）管理式医疗
 management
 /ˈmænɪdʒmənt/
 核心：管理、经营；管理层、资方（总称）；（对情况的）处理、应对。
-搭配 management consultant（管理顾问）与 management summary（管理摘要）并入本条。
 ① The shop has done much better under new management.
 = 那家店换了经营者之后好多了。
 under new management = 换了经营者
@@ -25153,7 +24985,7 @@ draw a mandala = 画曼荼罗
 mandarin
 /ˈmændərɪn/
 核心：Mandarin —— 普通话、官话；mandarin —— 柑橘、小橘子（也说 mandarin orange）；（旧时中国的）官员；
-（英）权力很大的高级文官。mandarin collar（立领）并入本条。
+（英）权力很大的高级文官。
 ① She is learning Mandarin because her company has an office in Shanghai.
 = 她在学普通话，因为公司在上海有办事处。
 learn Mandarin = 学普通话
@@ -25412,7 +25244,6 @@ grin maniacally = 疯了似的咧嘴笑
 manic
 /ˈmænɪk/
 核心：（口语）忙乱的、狂热的、兴奋过头的；（医）躁狂的。副词 manically 并入本条。
-旧称 manic depression（躁郁症，今天叫 bipolar disorder）与 manic-depressive（躁郁症的；躁郁症患者）也在这里。
 ① It has been a manic week at the office, with three people off sick.
 = 办公室这个星期忙疯了，有三个人请了病假。
 a manic week = 忙疯了的一周
@@ -25452,7 +25283,7 @@ a manicurist = 美甲师
 manifest
 /ˈmænɪfest/
 核心：（正式）明显的、显而易见的；动词：表明、显示；（症状、情绪）表现出来（manifest itself）。
-名词：（船、飞机的）货单、旅客名单。副词 manifestly 并入本条；历史用语 manifest destiny（昭昭天命）也在这里。
+名词：（船、飞机的）货单、旅客名单。副词 manifestly 并入本条。
 ① His relief was manifest to everyone in the room.
 = 他松了一口气，屋里的人都看得出来。
 be manifest = 明显
@@ -25906,7 +25737,7 @@ manure the bed = 给花圃施粪肥
 
 manuscript
 /ˈmænjʊskrɪpt/
-核心：手稿、原稿（尚未印成书的稿子）；（印刷术出现前的）手抄本。manuscript paper（五线谱纸）并入本条。
+核心：手稿、原稿（尚未印成书的稿子）；（印刷术出现前的）手抄本。
 ① She sent the manuscript of her first novel to twenty publishers.
 = 她把头一部小说的稿子寄给了二十家出版社。
 the manuscript of a novel = 小说的手稿
@@ -25924,7 +25755,7 @@ manuscript paper = 五线谱纸
 
 Manx
 /mæŋks/
-核心：马恩岛的；马恩岛人；马恩语。Manx cat（马恩岛猫：一种没有尾巴的猫）并入本条。
+核心：马恩岛的；马恩岛人；马恩语。
 ① The Manx parliament is one of the oldest in the world.
 = 马恩岛的议会是世界上最古老的议会之一。
 the Manx parliament = 马恩岛议会
@@ -26016,8 +25847,8 @@ a Maori dance = 毛利舞
 map
 /mæp/
 核心：地图；（星空、基因等的）分布图。动词：绘制…的地图；摸清、测定。
-短语动词：map out（详细规划）、map onto / map on（把…对应到）。习语 put somebody / something on the map（使出名）、
-off the map（偏僻的；消失的）。名词 mapping（绘图；对应关系）并入本条。
+习语 put somebody / something on the map（使出名）、off the map（偏僻的；消失的）。
+名词 mapping（绘图；对应关系）并入本条。
 ① Can you find the village on the map?
 = 你能在地图上找到那个村子吗？
 on the map = 在地图上
@@ -26060,7 +25891,7 @@ a road map = （达到目标的）路线图、计划
 
 maple
 /ˈmeɪpəl/
-核心：枫树、槭树；枫木。搭配 maple syrup（枫糖浆）、maple sugar（枫糖）、maple leaf（枫叶，加拿大的象征）并入本条。
+核心：枫树、槭树 —— 叶子秋天变红的一类树；也指枫木。
 ① The maples along the road turn red and gold in autumn.
 = 路边的枫树秋天变成红色和金色。
 a maple = 枫树
@@ -26141,7 +25972,7 @@ marauding foxes = 到处偷袭的狐狸
 marble
 /ˈmɑːbəl/
 核心：大理石；（玩的）弹珠；（复数 marbles）弹珠游戏。习语 lose your marbles（口语：脑子糊涂了、疯了）。
-形容词 marbled（有大理石花纹的；（肉）肥瘦相间的）、名词 marbling（大理石花纹）与 marble cake（大理石蛋糕）并入本条。
+形容词 marbled（有大理石花纹的；（肉）肥瘦相间的）与名词 marbling（大理石花纹）并入本条。
 ① The floor of the hall is made of white marble.
 = 大厅的地板是白色大理石的。
 white marble = 白色大理石
@@ -26168,8 +25999,8 @@ a marble cake = 大理石蛋糕
 march
 /mɑːtʃ/
 核心：齐步走、行军；（示威者）游行；大步坚定地走；押着（某人）走。名词：行军；游行；进行曲；（事态的）进展。
-短语动词 march on（向…进军；继续前进）。习语 on the march（在行军中；在迅速发展）。
-名词 marcher（游行者）、march-past（分列式）、marching band（行进乐队）、marching season（北爱尔兰的游行季）并入本条。
+习语 on the march（在行军中；在迅速发展）。
+名词 marcher（游行者）、marching band（行进乐队）、marching season（北爱尔兰的游行季）并入本条。
 ① The soldiers marched thirty miles in a single day.
 = 士兵们一天行军三十英里。
 march thirty miles = 行军三十英里
@@ -26451,7 +26282,7 @@ a marionette show = 提线木偶戏
 
 marital
 /ˈmærɪtəl/
-核心：婚姻的、夫妻间的。marital status（婚姻状况）并入本条。
+核心：婚姻的、夫妻间的 —— 与婚姻关系有关的。
 ① They are having marital problems and have gone to see a counsellor.
 = 他们的婚姻出了问题，去看了婚姻咨询师。
 marital problems = 婚姻问题
@@ -26488,8 +26319,6 @@ mark
 /mɑːk/
 核心：痕迹、污点、斑点；记号、符号；（英）（作业、考试的）分数；标志、表示；水平、标准；（旧）德国马克。
 动词：做记号、标出；留下痕迹；（英）给…打分、批改；标志着；纪念、庆祝；（英，体育）盯防。
-短语动词：mark down（降价；记下；给低分；mark down as = 把…看作）、mark up（加价；在…上批注）、
-mark off（划线隔开；在清单上勾掉）、mark out（划出界线；mark out as = 使…显得与众不同）、mark for（选定…去承受）。
 习语：make your mark（出名、留下印记）、leave a mark（留下痕迹、影响）、on your marks（各就各位）、
 wide of the mark（离谱、不准）、up to the mark（达到标准）、mark my words（记住我的话）、full marks（满分）。
 派生词 marked（明显的）、markedly（明显地）、marker（记号笔；标志物）、marking（斑纹；批改作业）、
@@ -26630,9 +26459,7 @@ market
 核心：市场、集市；（买卖某类商品的）市场、行情；销路、需求；（the market）股市。动词：推销、营销。
 习语：on the market（在售）、in the market for（想买）、the black market（黑市）、the stock market（股市）、
 play the market（炒股）。
-搭配：market share（市场份额）、market research（市场调查）、market forces（市场力量）、market price（市价）、
-market value（市值、市场价值）、market leader（市场领先者）、market capitalization（市值总额）、market town（英：集镇）、
-market garden（英：商品菜园，经营者 market gardener，这一行 market gardening）、mass-market（面向大众的）。
+搭配 mass-market（面向大众的）。
 派生词 marketing（营销；marketing mix 营销组合）、marketer（营销人员）、marketeer（主张某种市场的人，如 free marketeer）、
 marketable（有销路的）、marketability、marketplace（集市；市场）并入本条。
 ① We buy our vegetables at the market on Saturday mornings.
@@ -26762,7 +26589,7 @@ a great marlin = 一条大马林鱼
 
 marmalade
 /ˈmɑːməleɪd/
-核心：（柑橘类水果做的）果酱，尤指橙子酱 —— 带果皮丝，英式早餐抹吐司。marmalade cat（橘猫）并入本条。
+核心：（柑橘类水果做的）果酱，尤指橙子酱 —— 带果皮丝，英式早餐抹吐司。
 ① He has toast and marmalade for breakfast every morning.
 = 他每天早饭吃吐司抹橙子酱。
 toast and marmalade = 吐司抹橙子酱
@@ -26856,8 +26683,7 @@ a marquise = 侯爵夫人
 marriage
 /ˈmærɪdʒ/
 核心：婚姻、婚姻生活；结婚、婚礼；（比喻）紧密的结合。
-习语与搭配：by marriage（姻亲关系上的）、a marriage of convenience（权宜婚姻；权宜的结合）、
-marriage licence（结婚许可证，美式 marriage license）、marriage counselling（婚姻咨询）、a proposal of marriage（求婚）。
+习语与搭配：by marriage（姻亲关系上的）、a proposal of marriage（求婚）。
 形容词 marriageable（旧：到了适婚年龄的）并入本条。
 ① They have had a long and happy marriage.
 = 他们的婚姻长久而幸福。
@@ -26946,7 +26772,6 @@ a marrowfat pea = 一粒大粒豌豆
 marry
 /ˈmæri/
 核心：和…结婚、娶、嫁；（牧师、官员）为…主持婚礼；（比喻）把…结合起来。
-短语动词：marry into（嫁入、通过结婚进入）、marry off（把（子女）嫁出去）、marry up（英：对得上、配得起来）。
 习语 marry money（嫁给有钱人）。
 ① She married a man she had met at university.
 = 她嫁给了一个大学里认识的男人。
@@ -27082,7 +26907,7 @@ martens = 貂
 
 martial
 /ˈmɑːʃəl/
-核心：军事的、战争的、尚武的。搭配 martial art（武术）、martial law（戒严、军事管制）、court martial（军事法庭）。
+核心：军事的、战争的、尚武的。搭配 court martial（军事法庭）。
 ① He has studied martial arts such as judo and karate since he was six.
 = 他从六岁起就学柔道、空手道之类的武术。
 a martial art = 武术
@@ -27249,7 +27074,7 @@ masculinize something = 使…男性化
 mash
 /mæʃ/
 核心：把（煮熟的食物）捣成泥；名词：（英，口语）土豆泥；糊状物；（酿酒的）麦芽浆。
-形容词 mashed（捣成泥的）与 mashed potato（土豆泥）并入本条；mash-up（混搭作品）也在这里。
+形容词 mashed（捣成泥的）与 mashed potato（土豆泥）并入本条。
 ① Mash the bananas with a fork and stir them into the cake mixture.
 = 用叉子把香蕉捣成泥，搅进蛋糕糊里。
 mash the bananas = 把香蕉捣成泥
@@ -27317,7 +27142,7 @@ a masochistic pleasure = 自虐般的快感
 
 mason
 /ˈmeɪsən/
-核心：石匠；Mason —— 共济会会员（Freemason 的简称）。Mason jar（美：螺口玻璃储物罐）并入本条。
+核心：石匠；Mason —— 共济会会员（Freemason 的简称）。
 ① The mason cut each stone by hand to fit the old wall.
 = 石匠一块一块手工凿石，好与老墙吻合。
 a mason = 石匠
@@ -27378,8 +27203,7 @@ mass
 /mæs/
 核心：大量、许多（a mass of / masses of）；一团、一堆；（物理）质量；the masses（群众、民众）；Mass —— （天主教的）弥撒。
 形容词：大规模的、大众的。动词：聚集、集结。形容词 massed（聚集的、成群的）并入本条。
-搭配：mass media（大众传媒）、mass production（大规模生产，动词 mass-produce，形容词 mass-produced）、
-mass transit（美：公共交通）、mass noun（不可数名词）、mass number（质量数）。
+搭配 mass media（大众传媒）。
 ① A mass of dark clouds was moving in from the west.
 = 一大团乌云正从西边压过来。
 a mass of clouds = 一大团云
@@ -27455,7 +27279,7 @@ be massacred = （口语）被打得惨败
 massage
 /məˈsɑːʒ/
 核心：按摩、推拿。动词：给…按摩；（贬）对（数字、事实）做手脚使之好看；massage somebody's ego（吹捧某人）。
-名词 masseur（男按摩师）、masseuse（女按摩师）与 massage parlour（按摩院；委婉语：色情场所）并入本条。
+名词 masseur（男按摩师）与 masseuse（女按摩师）并入本条。
 ① She had a back massage after the long flight.
 = 长途飞行之后，她做了一次背部按摩。
 a back massage = 背部按摩
@@ -27542,8 +27366,7 @@ a full mastectomy = 全乳切除
 master
 /ˈmɑːstə(r)/
 核心：主人；（旧）雇主、男教师；大师、能手；（船的）船长；硕士；原版、母带。动词：掌握、精通；控制住。形容词：技艺精湛的；主要的、总的。
-搭配：master's degree（硕士学位）、master plan（总体规划）、master key（万能钥匙）、master bedroom（主卧）、
-master of ceremonies（司仪）、master sergeant（美：军士长）、master race（纳粹所谓的优等种族）、be your own master（自己作主）。
+搭配：master's degree（硕士学位）、master bedroom（主卧）、be your own master（自己作主）。
 派生词 masterly（技艺高超的）、masterful（有驾驭力的；技艺高超的）及副词 masterfully、
 masterclass（大师班）、masterstroke（妙招、高招）、masterwork（杰作）并入本条。
 ① The dog ran to its master when he whistled.
@@ -27730,11 +27553,10 @@ a young matador = 年轻的斗牛士
 match
 /mætʃ/
 核心：比赛；火柴；对手、敌手；相配的人或物；（旧）婚姻、亲事。动词：与…相配、相称；与…一致；比得上；使较量、使对上。
-短语动词：match up（相符、对得上；match up to = 达到、比得上）、match against（使与…较量）、match with（使与…配对）。
+常说 match up to（达到、比得上）。
 习语：no match for（不是…的对手）、meet your match（遇到对手）、a good match（很般配）。
-搭配：match point（赛点）、match play（高尔夫：比洞赛）、match-fixing（操纵比赛）。
 派生词 matching（相配的）、matchless（无与伦比的）、matchup（美：对阵）、matchbox（火柴盒）、matchbook（美：纸板火柴）、
-matchstick（火柴棍；matchstick figure = 火柴人）并入本条。
+matchstick（火柴棍；matchstick figure 指火柴人）并入本条。
 ① We watched the football match on television last night.
 = 昨晚我们在电视上看了那场足球赛。
 a football match = 足球赛
@@ -27955,7 +27777,7 @@ maternally = 像母亲一样地
 
 maternity
 /məˈtɜːnɪti/
-核心：母亲身份、怀孕生育 —— 多作定语：maternity leave（产假）、maternity ward（产科病房）、maternity dress（孕妇裙）。
+核心：母亲身份、怀孕生育 —— 多作定语：maternity ward（产科病房）、maternity dress（孕妇裙）。
 ① She is taking six months' maternity leave.
 = 她要休六个月产假。
 maternity leave = 产假
@@ -28003,7 +27825,7 @@ do the maths = 算一算
 
 matinee
 /ˈmætɪneɪ/
-核心：（戏剧、电影的）午后场、日场。matinee idol（旧：受女观众追捧的男影星）并入本条。
+核心：（戏剧、电影的）午后场、日场。
 ① We took the children to the Saturday matinee.
 = 我们带孩子们去看了星期六的午后场。
 a matinee = 午后场
@@ -28103,7 +27925,7 @@ the matrix = 母体、环境
 matron
 /ˈmeɪtrən/
 核心：（旧，英）护士长；（寄宿学校的）女舍监；（文）上了年纪的已婚妇女。
-形容词 matronly（中年妇人般的、富态的）与 matron of honour（已婚的首席伴娘）并入本条。
+形容词 matronly（中年妇人般的、富态的）并入本条。
 ① The matron walked through the ward every morning at eight.
 = 护士长每天早上八点巡视病房。
 the matron = 护士长
@@ -28135,7 +27957,7 @@ matter
 习语：what is the matter（怎么了）、it does not matter（没关系）、no matter（不管、无论）、as a matter of fact（事实上、其实）、
 a matter of（…的问题；大约）、for that matter（就此而言、说到这个）、as a matter of course（理所当然地、照例）、
 to make matters worse（更糟的是）、a matter of life and death（生死攸关的事）、a matter of opinion（见仁见智的事）、
-no laughing matter（不是闹着玩的）。形容词 matter-of-fact（就事论事的、不动感情的）与副词 matter-of-factly 并入本条。
+no laughing matter（不是闹着玩的）。
 ① I need to speak to you about a private matter before the others arrive.
 = 趁别人还没来，我有件私事要跟你谈。
 a private matter = 私事
@@ -28214,8 +28036,7 @@ an air mattress = 充气床垫
 mature
 /məˈtʃʊə(r)/
 核心：成熟的、懂事的；（生物）成年的、长成的；（奶酪、酒）陈熟的；（保单、债券）到期的。动词：成熟；陈熟；到期。
-副词 maturely、名词 maturity（成熟；到期）、maturation（成熟的过程，形容词 maturational）并入本条；
-（英）mature student（成人学生、大龄学生）也在这里。
+副词 maturely、名词 maturity（成熟；到期）、maturation（成熟的过程，形容词 maturational）并入本条。
 ① She is very mature for a girl of fourteen.
 = 作为一个十四岁的女孩，她很成熟懂事。
 be mature = 成熟懂事
@@ -28372,7 +28193,7 @@ mawkishness = 滥情、矫情的伤感
 
 max
 /mæks/
-核心：（口语）最大值、最多 —— maximum 的缩略；to the max（到极限）。动词：max out（美，口语：达到极限；刷爆信用卡）。
+核心：（口语）最大值、最多 —— maximum 的缩略；to the max（到极限）。
 ① The village hall holds two hundred people max, so we must limit the tickets.
 = 村礼堂最多容纳两百人，所以我们得限票。
 two hundred max = 最多两百
@@ -28616,8 +28437,7 @@ taste the real McCoy = 尝到正宗的
 
 me
 /miː/
-核心：我（I 的宾格）—— 作动词、介词的宾语；口语里也用在 be 后面（It's me）和单独回答（Me too）。
-复合词 me-time（留给自己的时间）与 me-too（跟风的、仿效的；也指反性骚扰的 MeToo 运动）并入本条。
+核心：我（I 的宾格）—— 作动词、介词的宾语；口语里也用在 be 后面（It's me）和单独回答时。
 ① Can you help me carry these boxes upstairs?
 = 你能帮我把这些箱子搬上楼吗？
 help me = 帮我
@@ -28687,7 +28507,7 @@ a meagre meal = 少得可怜的一顿饭
 meal
 /miːl/
 核心：一餐、一顿饭；（磨成的）粗粉。习语 make a meal of（把…搞得过分复杂、小题大做）。
-并入本条：mealtime（吃饭时间）、meal ticket（饭票；摇钱树、靠山）、meals on wheels（英：给老弱病人送饭上门的服务）。
+并入本条：mealtime（吃饭时间）、meals on wheels（英：给老弱病人送饭上门的服务）。
 ① We usually have our main meal in the evening.
 = 我们通常晚上吃正餐。
 the main meal = 正餐
@@ -28718,7 +28538,7 @@ a ready meal = （英式）现成饭、速食餐
 
 mealy
 /ˈmiːli/
-核心：（水果、土豆）粉质的、面的；像粗粉的。mealy-mouthed（贬：说话吞吞吐吐、不肯直说的）并入本条。
+核心：（水果、土豆）粉质的、面的；像粗粉的。
 ① The apples had been stored too long and were soft and mealy.
 = 那些苹果存得太久，又软又面。
 mealy apples = 发面的苹果
@@ -28882,7 +28702,6 @@ means
 核心：方法、手段（单复数同形）；（复数）钱财、收入。
 习语：by means of（借助、用）、by all means（当然可以）、by no means（绝不、一点也不）、a means to an end（达到目的的手段）、
 live within your means（量入为出）、a man of means（有钱人）。
-means test（收入审查）与形容词 means-tested（须经收入审查的）并入本条。
 ① The bicycle is a cheap means of transport.
 = 自行车是一种便宜的交通工具。
 a means of transport = 交通工具
@@ -28965,7 +28784,7 @@ a measly sandwich = 一个可怜的三明治
 measure
 /ˈmeʒə(r)/
 核心：测量、量；尺寸是…；衡量、评估。名词：措施、办法；（一定的）量、程度；衡量的标准；量具；（音乐）小节。
-短语动词：measure up（合格、达标；measure up to = 比得上）、measure out（量出）、measure against（把…与…相比）。
+常说 measure up to（比得上）。
 习语：take measures（采取措施）、for good measure（另外再加一点）、beyond measure（无法估量地、极其）、
 in large measure（在很大程度上）、get the measure of（摸清底细）。
 形容词 measured（慎重的、从容的）、measurable（可测量的；明显的）、副词 measurably、形容词 measureless（文：无法估量的）并入本条；
@@ -29059,8 +28878,6 @@ the measurements of a room = 房间的尺寸
 meat
 /miːt/
 核心：肉、肉类；（讲话、书的）实质内容、干货。
-习语与搭配：meat and potatoes（美：最基本、最重要的部分）、meat and two veg（英：一肉两菜的家常饭）、
-meat loaf（肉糕）、meat market（肉市；贬：把人当货色打量的地方）、meat grinder（美：绞肉机）、meat packing（美：肉类加工业）。
 名词 meatball（肉丸）与形容词 meaty（多肉的；内容充实的）并入本条。
 ① She does not eat meat or fish.
 = 她不吃肉也不吃鱼。
@@ -29126,7 +28943,6 @@ the mechanics of something = …的具体运作方式
 mechanical
 /mɪˈkænɪkəl/
 核心：机械的、与机器有关的；（动作、回答）机械般的、不走心的。副词 mechanically 并入本条。
-搭配：mechanical engineering（机械工程）、mechanical engineer（机械工程师）、mechanical pencil（美：自动铅笔）。
 ① The flight was delayed by a mechanical problem with one of the engines.
 = 那趟航班因一台发动机出了机械故障而延误。
 a mechanical problem = 机械故障
@@ -29184,7 +29000,7 @@ the mechanization of something = …的机械化
 
 medal
 /ˈmedəl/
-核心：奖牌、奖章、勋章。动词：获得奖牌。名词 medallist（奖牌获得者，美式拼 medalist）并入本条；高尔夫的 medal play（比杆赛）也在这里。
+核心：奖牌、奖章、勋章。动词：获得奖牌。名词 medallist（奖牌获得者，美式拼 medalist）并入本条。
 ① She won a gold medal in the hundred metres.
 = 她在一百米比赛中赢得了金牌。
 win a gold medal = 赢得金牌
@@ -29254,7 +29070,7 @@ medical 加 evacuation 的拼合词。
 media
 /ˈmiːdiə/
 核心：the media —— 媒体、新闻界（报纸、电视、广播、网络的总称）；本是 medium 的复数，今天单复数动词都接。
-搭配 social media（社交媒体）、media studies（传媒研究）、media-savvy（懂得怎么和媒体打交道的）并入本条。
+搭配 social media（社交媒体）并入本条。
 ① The story was reported by the media all over the world.
 = 那件事被全世界的媒体报道了。
 the media = 媒体
@@ -29331,8 +29147,7 @@ spend on Medicaid = 花在医疗补助上
 medical
 /ˈmedɪkəl/
 核心：医学的、医疗的；（英）名词：体格检查。副词 medically 并入本条；口语缩略 med 也在这里。
-搭配：medical school（医学院，口语 med school）、medical officer（医务官、军医）、medical examiner（美：法医）、
-medical tourism（医疗旅游）、medical record（病历）。
+搭配 medical record（病历）。
 ① She needs urgent medical treatment for the wound.
 = 她的伤口需要紧急治疗。
 medical treatment = 治疗
@@ -29418,7 +29233,6 @@ medicine
 核心：药（尤指药水）；医学、医术。
 习语：a taste of your own medicine（以其人之道还治其人之身）、take your medicine（咬牙认罚）、
 laughter is the best medicine（笑是最好的良药）。
-medicine ball（健身实心球）与 medicine man（巫医）并入本条。
 ① Take a spoonful of the medicine three times a day.
 = 这药水每天三次，每次一勺。
 take medicine = 吃药
@@ -29504,7 +29318,7 @@ medium
 /ˈmiːdiəm/
 核心：中等的、中号的；（牛排）五分熟的。名词：媒介、手段；（艺术的）材料、表现形式；（通灵的）灵媒。
 复数 media（指传播媒介）或 mediums（指灵媒等）。习语 a happy medium（折中办法、适中的状态）。
-搭配：medium-sized（中等大小的）、medium-term（中期的）、medium wave（中波）、medium-rare（三分熟）。
+搭配 medium-rare（三分熟）。
 ① He is a man of medium height with dark hair.
 = 他中等身材，黑头发。
 of medium height = 中等身材
@@ -29582,10 +29396,9 @@ meet
 /miːt/
 核心：遇见、碰到；（约好）见面、会面；结识、初次见面；迎接；开会；（路、线、河）交会；满足（要求、条件）；
 支付（费用）；应对（挑战）；遭遇（不好的事）。过去式、过去分词 met。名词：（美）运动会、（英）狩猎集会。
-短语动词：meet up（碰头、会面）、meet with（美：与…会晤；遭遇、得到（某种反应））。
-习语：meet somebody halfway（各让一步）、meet the eye（more than meets the eye = 没有看上去那么简单）、
+习语：meet somebody halfway（各让一步）、meet the eye（more than meets the eye：没有看上去那么简单）、
 meet your match（遇到对手）、make ends meet（勉强维持生计）、pleased to meet you（幸会）。
-并入本条：meetup（非正式的聚会、线下见面会）、meet and greet（见面会）。
+并入本条：meetup（非正式的聚会、线下见面会）。
 ① I met an old school friend in the supermarket yesterday.
 = 昨天我在超市碰见了一位老同学。
 met = meet 的过去式
@@ -29653,7 +29466,6 @@ a meet and greet = 见面会
 meeting
 /ˈmiːtɪŋ/
 核心：会议；（两人或多人的）会面、相遇；（体育）运动会、赛马会。
-meeting place（会面的地点）与 meeting house（贵格会等教派的礼拜堂）并入本条。
 ① We have a staff meeting at nine every Monday.
 = 我们每个星期一九点开员工会议。
 a staff meeting = 员工会议
@@ -29908,7 +29720,7 @@ a mellifluous sound = 甜美流畅的声音
 mellow
 /ˈmeləʊ/
 核心：（颜色、声音、光线）柔和的；（酒、水果）醇厚的、熟透的；（人）因年纪、阅历而温和的；（口语）放松的、微醺的。
-动词：变得柔和、温和；mellow out（口语：放松下来）。
+动词：变得柔和、温和。
 ① The room was filled with the mellow light of the evening sun.
 = 屋里洒满了夕阳柔和的光。
 mellow light = 柔和的光
@@ -29999,7 +29811,6 @@ slices of melon = 几片甜瓜
 melt
 /melt/
 核心：（使）融化、熔化；（心、怒气）软化、消融；渐渐消失、融入。
-短语动词：melt away（渐渐消失、散去）、melt down（把（金属）熔化重铸）、melt into（渐渐融入、消失在）。
 习语：melt in your mouth（入口即化）、a melting pot（熔炉）、in the melting pot（英：尚未定局）。
 并入本条：meltdown（核反应堆的熔毁；崩溃、垮台）、melting point（熔点）、形容词 melting（令人心软的）与副词 meltingly。
 ① The snow melted in the morning sun.
@@ -30113,7 +29924,6 @@ a meme = 模因
 memento
 /məˈmentəʊ/
 核心：纪念品 —— 留作纪念的小物件。复数 mementoes 或 mementos。
-memento mori（提醒人终有一死的物件、图像，如骷髅）并入本条。
 ① She kept the ticket as a memento of her first concert.
 = 她把那张票留着，作为头一回听音乐会的纪念。
 a memento of something = …的纪念品
@@ -30222,7 +30032,6 @@ memory
 核心：记忆力；记忆、回忆；（对死者的）怀念；（计算机）内存、存储器。
 习语：from memory（凭记忆）、in memory of（为纪念）、in living memory（在人们的记忆里）、if memory serves（如果我没记错）、
 a trip down memory lane（重温往事）、have a memory like a sieve（记性极差）、commit to memory（记住、背下）。
-搭配 memory card（存储卡）与 memory bank（存储库；记忆库）并入本条。
 ① She has a good memory for names and faces.
 = 她记人名和长相记得很牢。
 a good memory = 好记性
@@ -30292,7 +30101,7 @@ menacingly = 气势汹汹地
 
 ménage
 /meɪˈnɑːʒ/
-核心：（正式或谑）一家人、家庭（的成员）。法语短语 ménage à trois（三人同居的关系）并入本条。
+核心：（正式或谑）一家人、家庭（的成员）。
 ① The whole ménage, including two dogs and a parrot, moved to the country.
 = 那一大家子，连同两条狗和一只鹦鹉，都搬到了乡下。
 the whole ménage = 一大家子
@@ -30453,8 +30262,7 @@ design menswear = 设计男装
 mental
 /ˈmentəl/
 核心：思想的、精神的、心理的；脑力的；（英，俚）疯了的。副词 mentally 并入本条。
-搭配：mental health（心理健康）、mental illness（精神疾病）、mental age（智力年龄）、mental arithmetic（心算）、
-make a mental note（记在心里）。
+搭配：mental illness（精神疾病）、make a mental note（记在心里）。
 ① The job puts a great mental strain on the nurses.
 = 那份工作给护士们带来很大的精神压力。
 mental strain = 精神压力
@@ -30566,7 +30374,7 @@ mentorship = 指导关系、导师制
 
 menu
 /ˈmenjuː/
-核心：菜单；（计算机）菜单、选项单。menu bar（菜单栏）并入本条。
+核心：菜单；（计算机）菜单、选项单。
 ① The waiter brought the menu and a jug of water as soon as we sat down.
 = 我们一坐下，服务员就拿来了菜单和一壶水。
 the menu = 菜单
@@ -30651,8 +30459,6 @@ merchandising = 周边产品经营
 merchant
 /ˈmɜːtʃənt/
 核心：商人、批发商（尤指做进出口大宗买卖的）；（美）零售店主；（英，口语，贬）热衷于某事的家伙。形容词：商船的、海上贸易的。
-搭配：merchant bank（英：商人银行、投资银行，从业者 merchant banker，这一行 merchant banking）、
-merchant navy（英：商船队，美式 merchant marine）。
 ① His grandfather was a wine merchant in Bristol.
 = 他祖父是布里斯托尔的葡萄酒商。
 a wine merchant = 葡萄酒商
@@ -30734,7 +30540,7 @@ mercy
 核心：仁慈、宽恕、怜悯；（口语）幸事。
 习语：at the mercy of（任由…摆布）、have mercy on（可怜、饶了）、show no mercy（毫不留情）、beg for mercy（求饶）、
 throw yourself on somebody's mercy（恳求某人开恩）、be thankful for small mercies（知足吧）。
-搭配 mercy killing（安乐死）、a mercy mission（救援任务）并入本条。
+搭配 a mercy mission（救援任务）并入本条。
 ① The prisoners begged the judge for mercy.
 = 囚犯们恳求法官开恩。
 beg for mercy = 求饶、恳求开恩
@@ -30863,7 +30669,7 @@ a merino jumper = 美利奴羊毛衫
 merit
 /ˈmerɪt/
 核心：优点、长处；价值、功绩；（学校的）优良成绩。动词（正式）：值得、应得。
-习语：on its merits（根据本身的是非优劣）、on merit（凭本事）。merit badge（美：童子军的技能章）并入本条。
+习语：on its merits（根据本身的是非优劣）、on merit（凭本事）。
 ① The plan has the merit of being cheap and quick.
 = 那个方案的优点是又便宜又快。
 the merit of something = …的优点
@@ -30922,7 +30728,7 @@ merry
 /ˈmeri/
 核心：欢乐的、愉快的；（英，口语）微醉的。Merry Christmas（圣诞快乐）。
 习语 the more the merrier（人越多越热闹）、make merry（旧：寻欢作乐）。
-副词 merrily、名词 merriment（欢乐）、merrymaking（寻欢作乐）与 merry-go-round（旋转木马；走马灯似的一连串事）并入本条。
+副词 merrily、名词 merriment（欢乐）与 merrymaking（寻欢作乐）并入本条。
 ① Merry Christmas and a happy New Year to you all!
 = 祝大家圣诞快乐、新年幸福！
 Merry Christmas = 圣诞快乐
@@ -30986,10 +30792,7 @@ a mesmeric voice = 有催眠般魔力的嗓音
 mess
 /mes/
 核心：脏乱、乱七八糟；困境、烂摊子；（口语）邋遢的人、一团糟的人；（军队的）食堂。动词（口语）：弄乱、弄脏。
-短语动词：mess up（搞砸；弄乱）、mess about / mess around（瞎混、胡闹；mess around with = 瞎摆弄；和…鬼混）、
-mess with（招惹；乱动）。
-习语：make a mess（弄得一团糟；make a mess of = 把…搞砸）、in a mess（乱七八糟；陷入困境）。
-搭配 mess kit（美：行军餐具）、mess tin（英：行军饭盒）并入本条。
+习语：make a mess（弄得一团糟；make a mess of 指把…搞砸）、in a mess（乱七八糟；陷入困境）。
 ① The kitchen was a mess after the children had made a cake.
 = 孩子们做完蛋糕，厨房一片狼藉。
 be a mess = 一片狼藉
@@ -31044,7 +30847,7 @@ message
 /ˈmesɪdʒ/
 核心：口信、消息、信息；（手机、网络上的）一条消息；（书、电影、演讲的）要旨、寓意。动词：给…发消息。
 习语：get the message（明白对方的意思）、on message（与官方口径一致）。
-名词 messaging（发消息、即时通讯）与 message board（网上留言板）并入本条。
+名词 messaging（发消息、即时通讯）并入本条。
 ① She is out at the moment; can I take a message?
 = 她现在不在，要我带个口信吗？
 take a message = 带口信
@@ -31163,7 +30966,7 @@ meta- 表示「关于…的」。
 metal
 /ˈmetəl/
 核心：金属。形容词 metallic（金属的、像金属的）并入本条；
-并入的还有 metalwork（金属制品；金属工艺）、metalworker（金属工）、metal detector（金属探测器）、（英）metalled（（路）铺了碎石的）。
+并入的还有 metalwork（金属制品；金属工艺）、metalworker（金属工）、（英）metalled（（路）铺了碎石的）。
 ① The gate is made of metal and painted black.
 = 那扇大门是金属做的，漆成了黑色。
 made of metal = 金属做的
@@ -31263,7 +31066,7 @@ metastatic cancer = 转移性癌
 
 mete
 /miːt/
-核心：只用于 mete out（正式）—— 给予、施加（惩罚、苦头）。
+核心：（正式）给予、施加（惩罚、苦头）。
 ① The judge meted out heavy sentences to all five men.
 = 法官对那五个人都判了重刑。
 mete out = 给予、施加（惩罚）
@@ -31390,8 +31193,7 @@ methought = （古）我曾觉得
 method
 /ˈmeθəd/
 核心：方法、办法；条理、章法。习语 there is method in somebody's madness（看似疯狂，其实自有道理）。
-形容词 methodical（有条理的、按部就班的）与副词 methodically 并入本条；
-戏剧上的 method acting（方法派表演）及 method actor 也在这里。
+形容词 methodical（有条理的、按部就班的）与副词 methodically 并入本条。
 ① The school uses a new method of teaching children to read.
 = 那所学校用一种新方法教孩子识字。
 a method of doing something = 做…的方法
@@ -31475,7 +31277,7 @@ his métier = 他的本行
 metric
 /ˈmetrɪk/
 核心：公制的、米制的；名词（商业用语）：衡量指标。
-形容词 metrical（诗的格律的）与名词 metrication（改用公制）并入本条；metric ton（公吨，一千公斤）也在这里。
+形容词 metrical（诗的格律的）与名词 metrication（改用公制）并入本条。
 ① Most of the world uses the metric system of weights and measures.
 = 世界上大多数国家使用公制度量衡。
 the metric system = 公制
@@ -31588,7 +31390,7 @@ a mewling baby = 哼唧啼哭的婴儿
 
 mews
 /mjuːz/
-核心：（英）马厩巷 —— 由旧马厩改成住宅的小街或院落。单复数同形。mews house（马厩改建的住宅）并入本条。
+核心：（英）马厩巷 —— 由旧马厩改成住宅的小街或院落。单复数同形。
 ① They live in a quiet mews behind the main road.
 = 他们住在主路后面一条安静的马厩巷里。
 a mews = 马厩巷
@@ -31599,7 +31401,7 @@ a mews house = 马厩改建的住宅
 
 Mexican
 /ˈmeksɪkən/
-核心：墨西哥的；墨西哥人。Mexican wave（英：人浪，观众依次起立举手形成的波浪）并入本条。
+核心：墨西哥的；墨西哥人；也指与墨西哥有关的事物。
 ① We had dinner at a Mexican restaurant near the station.
 = 我们在车站附近的一家墨西哥餐馆吃了晚饭。
 a Mexican restaurant = 墨西哥餐馆
@@ -31645,7 +31447,7 @@ a miasma of rumour = 谣言四起的乌烟瘴气
 
 mic
 /mɪk/
-核心：（口语）麦克风 —— microphone 的简称，读如 mike，也拼 mike。mic drop（演讲完把麦克风一扔的动作；漂亮的收尾）并入本条。
+核心：（口语）麦克风 —— microphone 的简称，读如 mike，也拼 mike。
 ① The singer walked to the front of the stage and picked up the mic.
 = 歌手走到台前，拿起了麦克风。
 pick up the mic = 拿起麦克风
@@ -31662,7 +31464,6 @@ a mic drop = 漂亮的收尾
 Michaelmas
 /ˈmɪkəlməs/
 核心：米迦勒节 —— 九月二十九日的基督教节日；在英国也指这一时节。
-搭配 Michaelmas term（英国一些大学、法院的秋季学期、开庭期）与 Michaelmas daisy（紫菀）并入本条。
 ① The rent on the farm was paid twice a year, at Easter and at Michaelmas.
 = 那座农场的地租一年交两次，复活节一次，米迦勒节一次。
 at Michaelmas = 在米迦勒节
@@ -31921,7 +31722,6 @@ microwaveable = 可用微波炉加热的
 mid
 /mɪd/
 核心：中间的、中部的 —— 多作前缀 mid-：在…中间、在…中期（mid-June、mid-morning、in his mid-thirties）。
-复合词 mid-air（半空）、mid-range（中档的）、mid-sized（中等大小的）、mid-Atlantic（大西洋中部的；带英美混合口音的）并入本条。
 ① The house was built in the mid-nineteenth century.
 = 那座房子建于十九世纪中叶。
 the mid-nineteenth century = 十九世纪中叶
@@ -31957,10 +31757,7 @@ the midday sun = 正午的太阳
 middle
 /ˈmɪdəl/
 核心：中间、中部、当中；（口语）腰部。形容词：中间的、中等的。常说 in the middle of（在…中间；正忙着…）。
-习语：in the middle of nowhere（在前不着村后不着店的地方）、the middle ground（中间立场）、middle-of-the-road（中间路线的、不偏激的）。
-搭配：middle age（中年，形容词 middle-aged；middle-age spread = 中年发福）、middle class（中产阶级；形容词也写 middle-class）、
-middle name（中间名）、middle finger（中指）、middle ear（中耳）、middle school（美：初中）、middle management（中层管理人员，
-个人叫 middle manager）、middle-ranking（中级的）、middle-distance（中距离的）、middle C（中央 C）。
+习语 in the middle of nowhere（在前不着村后不着店的地方）。
 ① There is a table in the middle of the room.
 = 房间中央有一张桌子。
 in the middle of the room = 在房间中央
@@ -32113,7 +31910,7 @@ a midget submarine = 袖珍潜艇
 
 midlife
 /ˌmɪdˈlaɪf/
-核心：中年（约四十到六十岁）。midlife crisis（中年危机）并入本条。
+核心：中年 —— 人生的中段，约四十到六十岁。
 ① Many people change careers in midlife.
 = 许多人在中年转行。
 in midlife = 在中年
@@ -32124,7 +31921,7 @@ a midlife crisis = 中年危机
 
 midnight
 /ˈmɪdnaɪt/
-核心：午夜、半夜十二点。习语 burn the midnight oil（开夜车）。midnight blue（深蓝色）并入本条。
+核心：午夜、半夜十二点。习语 burn the midnight oil（开夜车）。
 ① The party went on until after midnight, and the neighbours complained about the music.
 = 聚会一直开到半夜以后，邻居们投诉音乐太吵。
 after midnight = 半夜以后
@@ -32326,7 +32123,7 @@ might
 核心：情态动词 —— 也许、可能（比 may 把握更小）；may 的过去式；（客气地）可以；（提建议）不妨；（责备）本该。
 另一个词（名词）：力量、威力。
 习语：might as well（不妨、还不如）、might have（本来可能；本该）、with all your might（使出全身力气）、
-might is right（强权即公理）。名词 might-have-been（本可成事而未成的人或事）并入本条。
+might is right（强权即公理）。
 ① It might rain later in the afternoon, so take a coat and an umbrella.
 = 下午晚些时候也许会下雨，带件外套和一把伞吧。
 it might rain = 也许会下雨
@@ -32433,8 +32230,7 @@ migratory birds = 候鸟
 mild
 /maɪld/
 核心：温和的、不严厉的；（天气）温暖的、不冷的；（病、药）轻微的；（味道）淡的、不辣的；（人）温和的。
-副词 mildly（稍微；温和地；to put it mildly = 说得客气点）、名词 mildness 并入本条；
-mild-mannered（性情温和的）与 mild steel（低碳钢）也在这里。
+副词 mildly（稍微；温和地；to put it mildly 指说得客气点）、名词 mildness 并入本条。
 ① We had a mild winter with hardly any snow, and the roses flowered in January.
 = 我们过了一个暖冬，几乎没下雪，玫瑰一月就开了。
 a mild winter = 暖冬
@@ -32612,7 +32408,7 @@ the militarization of something = …的军事化
 military
 /ˈmɪlɪtəri/
 核心：军事的、军队的；the military（军队、军方）。副词 militarily 并入本条。
-搭配：military service（兵役）、military police（宪兵）、military band（军乐队）、military base（军事基地）。
+搭配：military base（军事基地）。
 ① The country spends a tenth of its budget on military equipment.
 = 那个国家把预算的十分之一花在军事装备上。
 military equipment = 军事装备
@@ -32640,7 +32436,7 @@ militarily = 在军事上
 
 militate
 /ˈmɪlɪteɪt/
-核心：militate against（正式）—— 妨碍、不利于、使难以实现。
+核心：（正式）妨碍、不利于、使难以实现。
 ① The high cost of housing militates against young people who want to start a family.
 = 高昂的住房成本对想成家的年轻人很不利。
 militate against = 妨碍、不利于
@@ -32667,9 +32463,7 @@ milk
 /mɪlk/
 核心：奶、牛奶；（椰子、植物的）乳白色汁液。动词：挤奶；（贬）榨取、从…身上捞好处。
 习语：cry over spilt milk（为无可挽回的事懊恼）、the milk of human kindness（恻隐之心）、milk something for all it is worth（把…利用到极点）。
-搭配：milk chocolate（牛奶巧克力）、milk powder（奶粉）、milk pudding（英：牛奶布丁）、milk tooth（英：乳牙）、
-milk float（英：送奶电瓶车）、milk round（英：送奶路线；大公司到各大学招聘的巡回）、milk run（常走的例行路线）、
-milch cow（奶牛；摇钱树）。
+搭配：milch cow（奶牛；摇钱树）。
 派生词 milky（乳白色的；含奶多的）、milkshake（奶昔）、milkman（送奶工）、milkmaid（旧：挤奶女工）、milking（挤奶）并入本条。
 ① She drinks a glass of milk every night before bed.
 = 她每晚睡前喝一杯牛奶。
@@ -32746,10 +32540,10 @@ milking = 挤奶
 
 mill
 /mɪl/
-核心：磨坊；（纺织、造纸、炼钢的）工厂；（咖啡、胡椒的）研磨器。动词：磨（粉）；mill around / about（（人群）乱转）。
+核心：磨坊；（纺织、造纸、炼钢的）工厂；（咖啡、胡椒的）研磨器。动词：磨（粉）。
 习语：put somebody through the mill（让某人吃尽苦头）、run-of-the-mill（平平常常的）、grist to the mill（可资利用的东西）。
-并入本条：miller（磨坊主）、milling（碾磨；（人群）乱转的）、millpond（磨坊水池；like a millpond = 平静如镜）、
-millstream（推动水车的水流）、mill wheel（磨坊水车轮）。
+并入本条：miller（磨坊主）、milling（碾磨；（人群）乱转的）、millpond（磨坊水池；like a millpond 是平静如镜）、
+millstream（推动水车的水流）。
 ① The old mill by the river still grinds flour for the village.
 = 河边的老磨坊还在给村里磨面粉。
 the old mill = 老磨坊
@@ -33010,7 +32804,7 @@ white minarets = 白色的尖塔
 mince
 /mɪns/
 核心：（英）肉末、绞肉；动词：把（肉）绞碎；迈着做作的小碎步走。习语 not mince your words（直言不讳）。
-并入本条：mincemeat（做甜馅饼的干果碎馅；make mincemeat of = 把…打得落花流水）、mince pie（圣诞节吃的干果馅小饼）、
+并入本条：mincemeat（做甜馅饼的干果碎馅；make mincemeat of 是把…打得落花流水）、
 mincer（英：绞肉机）、mincing（步态做作的）。
 ① Fry the mince with onions until it is brown.
 = 把肉末和洋葱一起炒到变色。
@@ -33049,10 +32843,8 @@ have in mind（心里想着、打算）、come to mind（浮现在脑海）、cr
 speak your mind（直言不讳）、in two minds（拿不定主意）、out of your mind（疯了）、on your mind（挂在心上）、
 peace of mind（心安）、state of mind（心境）、take your mind off（让…不去想）。
 （动词）：do you mind / would you mind（你介意…吗）、I don't mind（我无所谓）、never mind（没关系；别管了）、
-mind your own business（少管闲事）、mind out（英：当心）、mind the gap（小心站台间隙）、mind you（请注意、不过话说回来）。
-并入本条：minded（有…想法的、倾向于…的）、minder（照看者；保镖）、mind game（心理战）、mind map（思维导图）、
-mind reader（能读心的人）；形容词 mind-blowing（令人震撼的）、mind-boggling（难以想象的）、mind-bending（烧脑的）、
-mind-numbing（无聊得让人发木的，副词 mind-numbingly）。
+mind your own business（少管闲事）、mind the gap（小心站台间隙）、mind you（请注意、不过话说回来）。
+并入本条：minded（有…想法的、倾向于…的）、minder（照看者；保镖）。
 ① He has a sharp mind and learns quickly.
 = 他头脑敏锐，学得快。
 a sharp mind = 敏锐的头脑
@@ -33226,7 +33018,7 @@ mine
 核心：两个词。其一（代词）：我的（东西）—— 后面不再接名词；a friend of mine（我的一个朋友）。
 其二（名词）：矿、矿井；地雷、水雷；a mine of information（知识宝库）。动词：开采（矿）；在…布雷。
 并入本条：miner（矿工）、mining（采矿业）、mineworker（矿工，正式说法）、mineshaft（矿井的竖井）、minefield（雷区；
-（比喻）危机四伏的局面）、minesweeper（扫雷艇）、mine detector（探雷器）。
+（比喻）危机四伏的局面）、minesweeper（扫雷艇）。
 ① That bag is mine, and the blue one is yours.
 = 那个包是我的，蓝色那个是你的。
 be mine = 是我的
@@ -33279,7 +33071,7 @@ a mine detector = 探雷器
 
 mineral
 /ˈmɪnərəl/
-核心：矿物、矿物质；（复数，英，旧）汽水。搭配 mineral water（矿泉水）与 mineral oil（矿物油）并入本条。
+核心：矿物、矿物质；（复数，英，旧）汽水。
 ① The region is rich in minerals such as copper and tin.
 = 那个地区盛产铜、锡等矿物。
 rich in minerals = 盛产矿物
@@ -33323,7 +33115,6 @@ mingle with the guests = 与宾客交际
 mini
 /ˈmɪni/
 核心：迷你裙；形容词：迷你的、小型的。前缀 mini-：小的、短的。
-搭配 mini-roundabout（英：小环岛）与 mini-pill（低剂量避孕药）并入本条。
 ① She wore a red mini and long white boots.
 = 她穿着一条红色迷你裙和一双白色长靴。
 a mini = 迷你裙
@@ -33341,8 +33132,7 @@ the mini-pill = 低剂量避孕药
 miniature
 /ˈmɪnɪtʃə(r)/
 核心：微型的、小型的；名词：微型画（尤指小幅肖像）；缩微模型；in miniature（缩小版的）。
-并入本条：miniaturist（微型画画家）、miniaturize（使微型化）、miniaturized（微型化的）、miniaturization（微型化）、
-miniature golf（美：迷你高尔夫）。
+并入本条：miniaturist（微型画画家）、miniaturize（使微型化）、miniaturized（微型化的）、miniaturization（微型化）。
 ① The child has a miniature railway that runs around the garden.
 = 那个孩子有一条绕着花园跑的微型铁路。
 a miniature railway = 微型铁路
@@ -33469,7 +33259,6 @@ minimization = 最小化
 minimum
 /ˈmɪnɪməm/
 核心：最低的、最小的、最少的（只用在名词前）；最低限度、最小量。与 maximum 相对。
-搭配 minimum wage（最低工资）与（美）minimum security prison（低度戒备监狱）并入本条。
 ① The minimum age for voting is eighteen.
 = 最低投票年龄是十八岁。
 the minimum age = 最低年龄
@@ -33520,7 +33309,7 @@ the miniskirt = 那条迷你裙
 
 minister
 /ˈmɪnɪstə(r)/
-核心：（政府的）部长、大臣；（新教的）牧师；公使。动词：minister to（正式：照料、服侍）。
+核心：（政府的）部长、大臣；（新教的）牧师；公使。动词（正式）：照料、服侍。
 形容词 ministerial（部长的）、名词 ministrations（正式或谑：照料）、形容词 ministering（照料人的，如 a ministering angel）并入本条。
 ① The minister of health promised more money for hospitals.
 = 卫生部长承诺给医院增加拨款。
@@ -33593,8 +33382,8 @@ minnows = 弱队、小角色
 
 minor
 /ˈmaɪnə(r)/
-核心：较小的、次要的、不严重的；（音乐）小调的。名词：未成年人；（美）辅修专业。动词：minor in（美：辅修）。与 major 相对。
-搭配 minor league（美：职业体育的小联盟；二流的）、Asia Minor（小亚细亚）。
+核心：较小的、次要的、不严重的；（音乐）小调的。名词：未成年人；（美）辅修专业。动词（美）：辅修。与 major 相对。
+搭配 Asia Minor（小亚细亚）。
 ① The car has only minor damage to the front bumper.
 = 那辆车只是前保险杠有点小损伤。
 minor damage = 小损伤
@@ -33622,7 +33411,6 @@ minority
 /maɪˈnɒrɪti/
 核心：少数、少数派；少数民族、少数群体；（法律）未成年。常作定语。
 习语 be in the minority（占少数）、a minority of one（唯一持异议的人）。
-搭配：minority government（少数派政府）、（美）minority leader（少数党领袖）、minority report（少数派报告）。
 ① Only a small minority of the students voted against the plan.
 = 只有一小部分学生投票反对那个方案。
 a minority of = 少数的
@@ -33818,7 +33606,6 @@ the minutiae = 琐碎的细节
 miracle
 /ˈmɪrəkəl/
 核心：奇迹、不可思议的事；（宗教上的）神迹。常作定语。习语 work miracles（创造奇迹、有奇效）。
-miracle play（中世纪的神迹剧）并入本条。
 ① It is a miracle that nobody was killed in the crash.
 = 那起撞车事故中竟无人丧生，真是奇迹。
 it is a miracle that… = …真是奇迹
@@ -33881,8 +33668,7 @@ be mired in something = 深陷于…
 mirror
 /ˈmɪrə(r)/
 核心：镜子；（比喻）真实反映某事物的东西。动词：反映；与…极其相似；映出。
-形容词 mirrored（装了镜子的、镜面的）并入本条；搭配 mirror image（镜像；一模一样而左右相反的东西）、
-mirror site（计算机：镜像站点）、a rear-view mirror（后视镜）。
+形容词 mirrored（装了镜子的、镜面的）并入本条；搭配 a rear-view mirror（后视镜）。
 ① She looked at herself in the mirror and brushed her hair.
 = 她照着镜子梳了梳头。
 look in the mirror = 照镜子
@@ -34075,7 +33861,7 @@ a serious miscalculation = 严重的失算
 miscarriage
 /mɪˈskærɪdʒ/
 核心：流产，指胎儿还不能存活时自然流掉，可数也可不数，搭配 have a miscarriage。
-人工终止妊娠是另一个词 abortion。固定说法 a miscarriage of justice 指误判、冤案：该有的公正没能生出来。
+人工终止妊娠是另一个词 abortion。
 ① She had a miscarriage at twelve weeks and took a month off work to recover.
 = 她怀孕十二周时流产了，请了一个月假休养。
 have a miscarriage = 流产
@@ -34152,7 +33938,7 @@ mischief
 /ˈmɪstʃɪf/
 核心：三支。一是淘气、恶作剧，多说孩子，不算大错；二是眼神、笑容里那股顽皮劲儿；
 三是存心惹出来的麻烦、损害：make mischief 是搬弄是非，do yourself a mischief 是英式口语「把自己弄伤」。
-不可数。名词 mischief-making（搬弄是非、挑拨离间）并入本条。
+不可数。
 ① The twins are far too quiet upstairs, so they must be up to some mischief.
 = 双胞胎在楼上安静得出奇，准是在搞什么鬼。
 be up to mischief = 在捣鬼
@@ -34394,7 +34180,6 @@ misery
 核心：四支。一是极大的痛苦、苦难（不可数）；二是穷困；三是具体的苦事（可数，常用复数）；
 四是（英，口语）老是愁眉苦脸、爱抱怨的人。
 习语 put somebody out of their misery 有两层：别让人再悬着心；给受苦的动物一个痛快。
-misery memoir（讲述苦难童年的自传）并入本条。
 ① Fame brought her nothing but misery, and she retired from the stage at thirty.
 = 名气带给她的只有痛苦，她三十岁就告别了舞台。
 bring misery = 带来痛苦
@@ -34799,7 +34584,7 @@ miss
 核心：底子是「没碰上」：该打中、接住、赶上、看见、到场的，结果落了空。
 由此长出几支：没打中、没接住；没看见、没听见、没领会；没赶上车、错过机会；没到场、没顾上做；侥幸躲过坏事。
 另一支转到心里：人或东西不在跟前，觉得空落落的，就是「想念」；发觉东西不见了也用它。
-后面接动词要用 -ing 形式。短语动词 miss out on 是错过好事，英式的 miss something out 是漏掉。
+后面接动词要用 -ing 形式。英式的 miss something out 是漏掉。
 名词是「一次没打中」，由它生出 a near miss、give something a miss、hit-and-miss。
 大写的 Miss 是另一个来路的词，用在未婚女子的姓前，也是学生对女教师的称呼。
 ① The bullet missed his head by inches and buried itself in the door frame.
@@ -34930,7 +34715,6 @@ missing
 /ˈmɪsɪŋ/
 核心：三支。一是不见了的、找不到的；二是（人）失踪的、下落不明的；三是缺掉的，本该有却没有。
 缺的那一块作主语用 be missing from，整体作主语用 be missing something。
-missing link（缺失的一环）、missing person（失踪者）并入本条。
 ① My keys have gone missing again, and I am sure that I left them on the table.
 = 我的钥匙又不见了，我明明记得放在桌上的。
 go missing = 不见了
@@ -34963,7 +34747,6 @@ mission
 核心：从拉丁语的「派出去」来：被派去办的事，和被派去的那批人。
 几支都由此生出：外交或公务上的使命、代表团；军事或航天的一次任务；传教活动与传教的地方；
 个人认定非做不可的事，也就是「天职」。
-mission statement（宗旨声明）、mission-critical（关乎成败的）并入本条。
 ① The minister flew to Geneva on a secret mission to restart the peace talks.
 = 那位部长负有秘密使命飞往日内瓦，要重启和谈。
 on a secret mission = 负有秘密使命
@@ -35141,7 +34924,7 @@ mistake what somebody means = 误会某人的意思
 mistaken
 /mɪˈsteɪkən/
 核心：弄错了的、想错了的。说人时只作表语：be mistaken about；说想法时放在名词前：a mistaken belief。
-if I am not mistaken 是客气话，其实表示自己相当有把握。mistaken identity 是认错了人。
+if I am not mistaken 是客气话，其实表示自己相当有把握。
 副词 mistakenly 并入本条。
 ① You are mistaken about the date: the meeting is on Thursday, not Tuesday.
 = 你把日期弄错了：会议是星期四，不是星期二。
@@ -35264,7 +35047,6 @@ mistrustfully = 满腹狐疑地
 misty
 /ˈmɪsti/
 核心：有薄雾的；（眼睛）含泪而模糊的；（轮廓、记忆）朦胧不清的。
-misty-eyed 是泪眼蒙眬，也说人一提往事就动感情。
 ① It was a cold, misty morning, and the far bank of the river was invisible.
 = 那是个寒冷多雾的早晨，河对岸根本看不见。
 a misty morning = 雾蒙蒙的早晨
@@ -35397,7 +35179,7 @@ mix
 核心：底子是「把不同的东西掺到一起」。及物是把几样东西搅匀、调配出某物；不及物是能不能掺到一起。
 引申到人，是跟人交往、合群；引申到事，是把两样事搁在一块；录音上是混音。
 名词：混合的一批（a mix of）、现成的配料粉、混音版本。
-短语动词 mix up 两义：弄混认错、弄乱。get mixed up in 是卷进不好的事。mix and match 是自由搭配，mix it 是口语的较量。
+get mixed up in 是卷进不好的事。mix and match 是自由搭配，mix it 是口语的较量。
 形容词 mixed 另有词条，mixed feelings、mixed up 的形容词用法在那里。mixing bowl、mixing desk 并入本条。
 ① Mix the flour and the butter together with your fingertips until no lumps are left.
 = 用指尖把面粉和黄油拌在一起，直到没有疙瘩。
@@ -35482,7 +35264,6 @@ a mixing desk = 调音台
 mixed
 /mɪkst/
 核心：混合的：由不同种类凑成的。几支：好坏参半、褒贬不一的；各色人等都有的；男女混合的；不同种族的。
-mixed up 作形容词，说人心里乱、情绪上有困扰。a mixed bag、a mixed blessing 是两个常用的固定说法。
 以它打头的复合词并入本条。
 ① The film opened to mixed reviews, though audiences seemed to love it.
 = 那部影片上映后评价褒贬不一，观众倒似乎很喜欢。
@@ -35652,7 +35433,7 @@ mob
 /mɒb/
 核心：名词：一群闹事的人、暴民，贬义；非正式地也说「那一伙人」；the Mob 专指黑手党一类的犯罪集团。
 动词：（人群）团团围住，出于喜爱或愤怒都行，常用被动；也说一群鸟围攻猛禽。
-作定语：mob rule 是暴民当道、无法无天。mob cap（旧时妇女在室内戴的软帽）并入本条。
+作定语：mob rule 是暴民当道、无法无天。
 ① An angry mob gathered outside the prison and began throwing stones at the gates.
 = 一群愤怒的暴民聚集在监狱外面，开始朝大门扔石头。
 an angry mob = 愤怒的暴民
@@ -35681,7 +35462,7 @@ mobile
 /ˈməʊbaɪl/
 核心：底子是「能动的」。形容词几支：可移动的、流动的（装在车上到处去的）；（人）行动方便的、走得了的；
 （社会阶层）能上下流动的；（脸）表情多变的；跟手机和移动上网有关的。
-名词两个：英式的「手机」，全称 mobile phone，美式说 cell phone；另一个是悬挂的活动饰物。
+名词两个：英式的「手机」，美式说 cell phone；另一个是悬挂的活动饰物。
 英式末音节读成 mile 的韵。以它打头的复合词并入本条。
 ① A mobile library visits the village every second Thursday and parks outside the church.
 = 流动图书馆每隔一周的星期四到村里来，停在教堂外面。
@@ -35722,7 +35503,7 @@ a mobile = 悬挂的活动饰物
 mobility
 /məʊˈbɪlɪti/
 核心：两支。一是流动性：在社会阶层、职业、地区之间移动的能力，social mobility 是最常见的搭配；
-二是行动能力：人走得动、物移得动。不可数。mobility scooter（老年人、残疾人用的电动代步车）并入本条。
+二是行动能力：人走得动、物移得动。不可数。
 ① Education was once seen as the surest route to social mobility for working-class children.
 = 教育曾被看作工人家庭的孩子改变社会地位最可靠的途径。
 social mobility = 社会流动
@@ -35792,8 +35573,7 @@ mock
 /mɒk/
 核心：动词：嘲笑、嘲弄，常常是学着对方的样子取笑；（正式）使显得徒劳、不放在眼里。
 形容词只放在名词前，两支：假装的、并非真心的（mock horror）；模拟的、仿制的（a mock exam）。
-名词 mocks 是英式口语的「模拟考试」。形容词 mocking、副词 mockingly、名词 mocker 并入本条；
-mock-up（实体模型）、mock turtle soup（仿甲鱼汤）也并入本条。
+名词 mocks 是英式口语的「模拟考试」。形容词 mocking、副词 mockingly、名词 mocker 并入本条。
 ① The other children mocked him for his old-fashioned clothes and his country accent.
 = 别的孩子嘲笑他衣服土气、说话带乡下口音。
 mock somebody for something = 因某事嘲笑某人
@@ -35882,7 +35662,6 @@ mod
 /mɒd/
 核心：几个缩短形式凑成的一条。一是二十世纪六十年代英国的摩登派青年，穿着讲究、骑小型摩托，跟摇滚派是对头；
 二是（非正式）对软件、游戏、汽车做的改装和改动，也作动词，名词 modding 并入本条；三是（非正式）网上论坛的版主。
-mod con 是英式说法，指住宅里的现代化设施，多用复数，房屋广告里写 all mod cons。
 ① In 1964 mods and rockers fought on the beach at Brighton in front of the cameras.
 = 一九六四年，摩登派和摇滚派在布赖顿的海滩上当着镜头打了起来。
 a mod = 摩登派青年
@@ -35956,7 +35735,7 @@ model
 用来说明、推算一件复杂事情的模型（数学的、计算机的）；值得照着做的样板、典范，作定语就是「模范的」；
 还有两种「供人看着画、看着买」的人：时装模特与画家的模特。
 动词跟着走：当模特展示衣服；建模、模拟；用黏土之类塑形；model A on B 是照乙的样子做甲。
-英式变形双写 l，美式不双写。名词 modeller、modelling 与 model home、model village 并入本条。
+英式变形双写 l，美式不双写。名词 modeller、modelling 并入本条。
 ① The boys spent the whole holiday building a model of the cathedral out of matchsticks.
 = 男孩们花了整个假期，用火柴棍搭了一座大教堂的模型。
 a model of something = …的模型
@@ -36114,7 +35893,6 @@ modern
 核心：现代的。两层意思要分开：一是时间上的，属于当今或不久以前这个时代（modern history）；
 二是评价上的，新式的、用了最新办法的（modern equipment）。
 艺术上专指摆脱传统样式的那一路；说观念、做派，是「新派的」。
-modern dance、modern-day、modern English、modern language 并入本条。
 ① Stress is one of the commonest health problems in modern life.
 = 压力是现代生活中最常见的健康问题之一。
 modern life = 现代生活
@@ -36692,7 +36470,7 @@ mom
 /mɒm/
 核心：（美，非正式）妈妈，英式说 mum。当称呼用时常大写。
 更亲昵、孩子气的说法是 mommy 和 momma，并入本条。
-mom-and-pop 作定语，指夫妻俩自己经营的小店；mommy track 指为照顾孩子而放慢的职业道路。
+mommy track 指为照顾孩子而放慢的职业道路。
 ① My mom drove me to practice every morning before she went to work.
 = 我妈每天早上先开车送我去训练，然后才去上班。
 my mom = 我妈
@@ -36830,7 +36608,6 @@ the momentum of the lorry = 卡车的冲力
 monarch
 /ˈmɒnək/
 核心：君主：国王、女王、皇帝一类世袭的国家元首。正式用词，不分男女。
-monarch butterfly（黑脉金斑蝶，北美一种橙黑相间的大蝴蝶）并入本条。
 ① She became the longest-reigning monarch in the country's history.
 = 她成了那个国家历史上在位时间最长的君主。
 the longest-reigning monarch = 在位最久的君主
@@ -36887,7 +36664,6 @@ Monday
 /ˈmʌndi/
 核心：星期一。首字母永远大写，缩写 Mon。介词用 on；on Mondays 是每逢星期一；
 英式 on Monday week 是下下个星期一。字面是「月亮日」。
-美式的 Monday morning quarterback 指事后诸葛亮：周日球赛打完，周一早上才来指点该怎么打。
 ① The museum is closed on Monday, so we will have to go on Tuesday instead.
 = 博物馆星期一闭馆，我们只好改到星期二去。
 on Monday = 在星期一
@@ -37243,7 +37019,7 @@ monkey
 /ˈmʌŋki/
 核心：猴子：通常指有尾巴的那些，没尾巴的大型种类叫 ape。
 引申到人：淘气的孩子（亲昵的责备）。动词只见于短语：monkey around 是胡闹，monkey with 是乱动、瞎摆弄。
-习语多取猴子「捣蛋、被人耍」的形象：monkey business、make a monkey of somebody。英式俚语里还指五百英镑。
+习语多取猴子「捣蛋、被人耍」的形象，如 make a monkey of somebody。英式俚语里还指五百英镑。
 以它打头的复合词并入本条。
 ① A monkey snatched the banana from her hand and ran up the nearest tree.
 = 一只猴子从她手里抢走香蕉，蹿上了最近的一棵树。
@@ -37663,7 +37439,7 @@ monster
 /ˈmɒnstə(r)/
 核心：怪物：故事里又大又丑、吓人的生物。引申到人，是残忍得不像人的恶人；说孩子是玩笑话，「小魔头」。
 引申到物，是大得出奇的东西；作定语就是「巨大的」，非正式。
-the green-eyed monster 是嫉妒。monster truck（装着巨型轮子的表演用卡车）并入本条。
+the green-eyed monster 是嫉妒。
 ① The children believed that a monster lived at the bottom of the lake.
 = 孩子们相信湖底住着一个怪物。
 a monster = 怪物
@@ -37873,7 +37649,7 @@ mood
 be in the mood for 是「有兴致」，be in no mood for 是「没那个心思」。
 单说 be in a mood 就是在闹情绪、不高兴。引申到一群人、一个场合，是「气氛」。
 语法上另有一义：动词的「式」，陈述、祈使、虚拟。
-mood swings、mood music、mood board、mood-altering 并入本条。
+mood swings 并入本条。
 ① She came home in a very good mood after the interview and sang in the kitchen.
 = 面试回来她心情很好，在厨房里唱起了歌。
 in a good mood = 心情好
@@ -37951,7 +37727,7 @@ moon
 核心：月亮。说地球的这一颗，前面加 the；说它某个晚上的样子，用不定冠词加形容词：a full moon、a new moon。
 其他行星的卫星也叫 moon，可数。
 习语多借它的「高远」和「难得一见」：over the moon 是高兴极了，once in a blue moon 是千载难逢，ask for the moon 是要天上的月亮。
-动词是口语：光着屁股对人，是恶作剧；moon about / around 是没精打采地闲晃，moon over 是痴痴地想着某人。
+动词是口语：光着屁股对人，是恶作剧。
 ① The moon rose above the trees and lit up the whole valley.
 = 月亮升上树梢，照亮了整个山谷。
 the moon rises = 月亮升起
@@ -38167,7 +37943,7 @@ eleven moose = 十一头驼鹿
 moot
 /muːt/
 核心：形容词：a moot point 是尚无定论、可以争的问题；美式里意思偏了，指「已无实际意义、不必再争的」。
-动词多用被动，正式：提出来供讨论。moot court 是法学院学生练习辩论的模拟法庭。
+动词多用被动，正式：提出来供讨论。
 ① Whether the new road will actually reduce traffic is a moot point.
 = 新路到底能不能减少车流，还是个有争议的问题。
 a moot point = 有争议的问题
@@ -38185,8 +37961,7 @@ a moot court = 模拟法庭
 mop
 /mɒp/
 核心：拖把：长柄一头扎着布条或海绵，用来擦地。引申为一头又厚又乱的头发：a mop of hair。
-动词：用拖把拖；用布擦去脸上的汗、泪。短语动词 mop up 是把洒出来的液体擦干，
-引申为收拾残局、肃清残余的敌人。
+动词：用拖把拖；用布擦去脸上的汗、泪。
 ① She fetched a mop and a bucket and cleaned the kitchen floor before the guests arrived.
 = 她拿来拖把和水桶，赶在客人到之前把厨房地板拖干净了。
 a mop and a bucket = 拖把和水桶
@@ -38212,7 +37987,6 @@ mop up the rebels = 肃清叛军
 mope
 /məʊp/
 核心：闷闷不乐、无精打采：为一点事窝着不肯动，带责备，嫌人自怜。
-mope about、mope around 是垂头丧气地到处晃。
 ① There is no point in moping at home just because you did not get the job.
 = 就因为没得到那份工作，窝在家里闷闷不乐是没有用的。
 mope at home = 窝在家里闷闷不乐
@@ -38271,10 +38045,10 @@ loose moraine = 松散的冰碛
 moral
 /ˈmɒrəl/
 核心：形容词：道德的，关乎对与错的。几支：涉及是非的（a moral issue）；出于良心而不是法律的（a moral duty）；
-品行端正的；精神上的、道义上的，不是实际的（moral support、a moral victory）。
+品行端正的；精神上的、道义上的，不是实际的。
 名词：一个故事的寓意，the moral of the story；复数 morals 指一个人的品行、道德准则。
 别跟 morale 混：那个是「士气」，重音在后。
-副词 morally 与 moral compass、moral hazard、moral philosophy 并入本条。
+副词 morally 并入本条。
 ① Whether to tell a dying patient the truth is a difficult moral question.
 = 要不要把实情告诉临终的病人，是个很难的道德问题。
 a moral question = 道德问题
@@ -38352,7 +38126,6 @@ a moralistic tone = 说教的口气
 morality
 /məˈrælɪti/
 核心：道德：是非善恶的准则；某件事合不合道德；某一套道德体系。
-morality play（中世纪的道德剧，角色是「善」「恶」这类抽象品质的化身）并入本条。
 ① The debate was about the morality of using animals in medical research.
 = 那场辩论谈的是用动物做医学研究合不合道德。
 the morality of something = 某事合不合道德
@@ -38643,7 +38416,6 @@ morning
 介词是关键：泛指用 in the morning；指定哪一天就换成 on，on Monday morning、on the morning of the wedding；
 this、tomorrow、yesterday、every 前面什么介词都不加。
 in the morning 还能指「明天上午」。问候语 Good morning 用到中午为止。
-morning coat、morning dress、morning suit、morning glory、morning room、morning sickness 与 morning-after、morning-after pill 并入本条。
 ① She goes for a run every morning before the rest of the family is awake.
 = 她每天早晨趁家里人还没醒就出去跑步。
 every morning = 每天早晨
@@ -38832,7 +38604,7 @@ mortal
 /ˈmɔːtəl/
 核心：来自拉丁语的「死」。形容词：终有一死的，反义是 immortal；致命的（文）；不共戴天的；极度的（mortal fear）。
 名词：凡人，常带玩笑口气：ordinary mortals、lesser mortals。
-副词 mortally 与 mortal sin 并入本条。
+副词 mortally 并入本条。
 ① All human beings are mortal, whatever their wealth or power.
 = 人不论多么有钱有势，终有一死。
 be mortal = 终有一死
@@ -38878,7 +38650,7 @@ the mortality rate = 死亡率
 mortar
 /ˈmɔːtə(r)/
 核心：三个义项。一是砂浆、灰浆，砌砖用的；二是迫击炮，也指它打出的炮弹；三是研钵，跟研杵配成 a pestle and mortar。
-bricks and mortar 借指房产、实体店。mortar board（学位帽）并入本条。
+bricks and mortar 借指房产、实体店。
 ① The bricklayer mixed sand, cement and water to make mortar.
 = 泥瓦匠把沙子、水泥和水拌成砂浆。
 make mortar = 拌砂浆
@@ -38899,7 +38671,7 @@ a mortar board = 学位帽
 mortgage
 /ˈmɔːɡɪdʒ/
 核心：按揭、抵押贷款：以房产作抵押向银行借的钱。动词是把房产抵押出去。中间的 t 不发音。
-借钱的一方是 mortgagor，放贷的一方是 mortgagee，都是法律用语，并入本条；mortgage bond 也并入本条。
+借钱的一方是 mortgagor，放贷的一方是 mortgagee，都是法律用语，并入本条。
 ① They took out a mortgage of two hundred thousand pounds to buy the flat.
 = 他们办了二十万英镑的按揭买下那套公寓。
 take out a mortgage = 办按揭
@@ -38959,7 +38731,6 @@ mortify the flesh = 苦修克己
 mortise
 /ˈmɔːtɪs/
 核心：（木工）榫眼：木料上凿出的方孔，另一块木料的榫头插进去。也拼 mortice。
-mortise lock（嵌进门边里的插锁）并入本条。
 ① He cut a mortise in the leg of the table to take the end of the rail.
 = 他在桌腿上凿了一个榫眼，好接横档的一头。
 cut a mortise = 凿一个榫眼
@@ -39007,7 +38778,7 @@ mosey along = 慢悠悠地走了
 
 mosh
 /mɒʃ/
-核心：在摇滚音乐会上挤在台前猛烈地蹦跳、互相冲撞。mosh pit 是台前专供这样跳的那块地方，并入本条。
+核心：在摇滚音乐会上挤在台前猛烈地蹦跳、互相冲撞。
 ① Hundreds of teenagers were moshing in front of the stage by the second song.
 = 才唱到第二首歌，就有几百个少年在台前蹦跳冲撞起来。
 mosh in front of the stage = 在台前蹦跳冲撞
@@ -39029,7 +38800,6 @@ the dome of the mosque = 清真寺的圆顶
 mosquito
 /məˈskiːtəʊ/
 核心：蚊子。复数 mosquitoes，也可以只加 s。借自西班牙语的「小飞虫」。
-mosquito net（蚊帐）并入本条。
 ① A single mosquito kept me awake for half the night with its whining.
 = 一只蚊子嗡嗡地叫，害我半夜没睡着。
 a mosquito = 一只蚊子
@@ -39074,7 +38844,6 @@ most
 作限定词和代词两个意思要分开：加 the 是「最多的」；不加 the 是「大多数」，most people、most of the people。
 作副词：放在多音节形容词、副词前构成最高级；自己修饰动词，「最」；正式用法里不加 the、放在形容词前，等于 very。
 固定说法：at most、for the most part、make the most of、most of all。比较级是 more。
-most valuable player（最有价值球员）并入本条。
 ① Whoever collects the most money for the charity will win a prize.
 = 谁为慈善募到的钱最多，谁就得奖。
 the most money = 最多的钱
@@ -39181,7 +38950,6 @@ moth
 /mɒθ/
 核心：蛾子：多在夜间飞、会扑灯的昆虫。也专指幼虫蛀衣服的那种衣蛾。
 like a moth to a flame 是飞蛾扑火：明知危险也忍不住凑上去。
-形容词 moth-eaten（被虫蛀了的；破旧过时的）并入本条。
 ① A large brown moth was beating its wings against the lamp.
 = 一只褐色的大蛾子扑打着翅膀往灯上撞。
 a moth = 蛾子
@@ -39220,7 +38988,7 @@ mothball a ship = 封存一艘舰艇
 mother
 /ˈmʌðə(r)/
 核心：母亲。正式场合和书面用这个词，家里叫 mum、mom。当称呼用时大写。
-引申两路：一是「源头、养育者」，mother country、mother tongue、necessity is the mother of invention 都从这里来；
+引申两路：一是「源头、养育者」，necessity is the mother of invention 就从这里来；
 二是口语的 the mother of all，「最大的、头号的」。大写的 Mother 还用来称呼女修道院的院长。
 动词：像母亲那样照顾，常带「管得太细、护得太紧」的意思。
 以它打头的复合词与名词 mothering 并入本条。
@@ -39407,7 +39175,6 @@ motion
 会议上提请表决的动议；英式正式用语里指排便。
 动词：打手势示意，motion to somebody、motion somebody to do something。
 习语：set something in motion 是让事情开动起来；go through the motions 是走过场、敷衍了事。
-motion picture、motion sickness 并入本条。
 ① The gentle motion of the boat soon sent the children to sleep.
 = 船轻轻地摇晃，孩子们很快就睡着了。
 the motion of the boat = 船的摇晃
@@ -39550,8 +39317,8 @@ a motocross track = 越野摩托赛道
 motor
 /ˈməʊtə(r)/
 核心：来自拉丁语的「使动者」。名词：发动机、马达，尤指电动的；英式旧说法里也指汽车。
-作定语三层：装了发动机的（motor vehicle）；英式指跟汽车有关的（the motor industry）；
-医学上指管肌肉运动的（motor skills、motor neuron）。
+作定语三层：装了发动机的；英式指跟汽车有关的（the motor industry）；
+医学上指管肌肉运动的（motor skills）。
 动词是英式旧说法：开车出行；口语里指飞快地走。
 跟 engine 的分工：烧油的多叫 engine，用电的多叫 motor。以它打头的复合词并入本条。
 ① The fan is driven by a small electric motor hidden in the base.
@@ -39753,7 +39520,7 @@ motorway services = 高速公路服务区
 
 motte
 /mɒt/
-核心：（历史）城堡土丘：中世纪早期堆起来的土墩，顶上建木塔或石塔。常见于 motte-and-bailey castle。
+核心：（历史）城堡土丘：中世纪早期堆起来的土墩，顶上建木塔或石塔。
 ① The Normans threw up a motte beside the river within weeks of their arrival.
 = 诺曼人到来后没几个星期，就在河边堆起了一座城堡土丘。
 a motte = 城堡土丘
@@ -39910,7 +39677,7 @@ the mound = （棒球）投手丘
 
 mount
 /maʊnt/
-核心：底子是「上去」。动词几支：登上（楼梯、讲台），正式；骑上（马、自行车）；数量、情绪一步步上升，也说 mount up；
+核心：底子是「上去」。动词几支：登上（楼梯、讲台），正式；骑上（马、自行车）；数量、情绪一步步上升；
 把东西固定在某处、装裱；由「架起来」再引申为发起、组织一场行动（mount a campaign）。
 名词：坐骑（文）；照片、画的衬纸、底座；大写的 Mount 用在山名前，缩写 Mt。
 形容词 mounted（骑马的；装好的）与 mounting（不断增加的；名词指支架）并入本条。
@@ -39973,7 +39740,6 @@ mountain
 核心：山、高山：比 hill 高而陡。山名前用 Mount，不用这个词。
 引申为「一大堆」：a mountain of work；欧洲新闻里还指卖不掉的过剩农产品。
 习语 make a mountain out of a molehill 是小题大做，move mountains 是排除万难、创造奇迹。
-mountain ash、mountain bike、mountain lion、mountain man 并入本条。
 ① They climbed the highest mountain in Wales in thick fog.
 = 他们冒着浓雾登上了威尔士最高的山。
 climb a mountain = 登山
@@ -40137,8 +39903,8 @@ mouse
 /maʊs/
 核心：老鼠，指小的那类，大的是 rat。复数不规则：mice。
 电脑的鼠标也是它，得名于形状；这个义项的复数 mice、mouses 都有人用。引申为胆小怕事的人。
-动词 mouse over 是把鼠标指针移到某处上方，名词写成一个词 mouseover。
-习语 play cat and mouse 是像猫戏老鼠那样耍弄人。mouse mat、mouse potato 并入本条。
+名词 mouseover 指把鼠标指针移到某处上方。
+习语 play cat and mouse 是像猫戏老鼠那样耍弄人。
 ① A mouse ran across the kitchen floor and vanished under the cooker.
 = 一只老鼠蹿过厨房地板，钻到灶具底下不见了。
 a mouse = 老鼠
@@ -40261,7 +40027,7 @@ mouth
 /maʊθ/（名）/maʊð/（动）
 核心：嘴。由「开口」这个形象引申出各种口子：河口、洞口、瓶口。由「吃」引申为要养活的人口；
 由「说」引申为说话的方式：a big mouth 是嘴不严、爱吹牛的人。复数 mouths 的词尾读浊音。
-动词的 th 也读浊音：不出声地动嘴唇说；空口说些自己并不当真的话。mouth off 是口语的大放厥词、顶嘴。
+动词的 th 也读浊音：不出声地动嘴唇说；空口说些自己并不当真的话。
 以它打头的复合词并入本条。
 ① The dentist asked him to open his mouth as wide as he could.
 = 牙医让他把嘴尽量张大。
@@ -40408,7 +40174,6 @@ get mouthy = 管不住嘴
 movable
 /ˈmuːvəbəl/
 核心：可移动的、活动的。法律上 movable property 指动产。也拼 moveable。
-a movable feast 本指日期逐年变动的宗教节日，像复活节；玩笑里指时间不固定的事。
 ① The stage is built from movable platforms that can be arranged in several ways.
 = 舞台用可移动的平台搭成，可以摆出好几种样子。
 movable platforms = 可移动的平台
@@ -40427,7 +40192,6 @@ move
 由位置的变化引申出一串意思：搬家、换工作；事情有进展；把会议、日期挪个时间；采取行动；
 下棋走一步；感情被「推动」，就是感动；会议上「推」出一个提议，就是动议。
 名词相应是：一个动作、一步棋、一次搬家、为达到目的走的一步。
-短语动词成族：move in / out 是搬进搬出，move on 是往前走、换话题，move over 是挪开让位，move off 是起步。
 习语：get a move on 是赶快，on the move 是在路上、在奔波，move the goalposts 是中途改规则。
 ① Do not move, because there is a wasp on your collar.
 = 别动，你衣领上有只黄蜂。
@@ -40594,7 +40358,7 @@ the mover of the motion = 动议的提出者
 movie
 /ˈmuːvi/
 核心：（尤美）电影，英式多说 film。the movies 指电影院，也指电影业。
-movie star、movie theater、movie rating 与名词 moviegoer 并入本条。
+名词 moviegoer 并入本条。
 ① We stayed at home and watched an old movie on television.
 = 我们待在家里，在电视上看了一部老电影。
 watch a movie = 看电影
@@ -40625,7 +40389,7 @@ a road movie = 公路片
 moving
 /ˈmuːvɪŋ/
 核心：两支。一是感人的、打动人的；二是活动的、在动的，只放在名词前：moving parts。
-副词 movingly 只取「感人地」一义；美式的 moving van 是搬家卡车。都并入本条。
+副词 movingly 只取「感人地」一义，并入本条。
 ① She gave a moving speech about her years as a refugee.
 = 她讲述自己的难民岁月，讲得十分感人。
 a moving speech = 感人的讲话
@@ -40650,7 +40414,6 @@ a moving van = 搬家卡车
 mow
 /məʊ/
 核心：割草、修剪草坪。过去分词 mown 或 mowed。
-mow down 是成片地射倒、撞倒，像割草一样。
 ① He mows the lawn every Saturday morning, whatever the weather.
 = 不管什么天气，他每周六上午都修剪草坪。
 mow the lawn = 修剪草坪
@@ -40811,8 +40574,7 @@ be all much of a muchness = 全都差不多
 muck
 /mʌk/
 核心：粪肥，尤指牲口的；英式口语里泛指脏东西、烂泥，以及质量很差的东西。不可数。
-动词只见于短语：muck about / around 是胡闹、瞎混；muck somebody about 是耍弄人、不给准话；
-muck in 是大家一起动手；muck out 是清理马厩、畜栏；muck up 是搞砸。都是英式口语。
+动词只见于短语：muck somebody about 是耍弄人、不给准话，是英式口语。
 ① The farmer spread muck on the fields before the spring ploughing.
 = 春耕之前，农民在地里撒了粪肥。
 spread muck = 撒粪肥
@@ -40887,7 +40649,6 @@ a mucky magazine = 黄色杂志
 mucous
 /ˈmjuːkəs/
 核心：黏液的、分泌黏液的。是形容词；名词是 mucus，少一个 o，别混。
-几乎只见于 mucous membrane（黏膜）。
 ① The virus enters the body through the mucous membranes of the nose and throat.
 = 那种病毒经由鼻子和喉咙的黏膜进入人体。
 a mucous membrane = 黏膜
@@ -40910,7 +40671,6 @@ mud
 核心：泥、烂泥：湿透的软土。不可数。
 习语多取「脏、看不清」：as clear as mud 是反话，「糊涂得很」；mud sticks 是泼上的脏水洗不掉；
 drag somebody's name through the mud 是败坏名声；somebody's name is mud 是名声臭了。
-mud bath、mud pack、mud pie、mud-slinging 并入本条。
 ① The car got stuck in the mud at the entrance to the field.
 = 汽车陷在了田地入口的烂泥里。
 get stuck in the mud = 陷在烂泥里
@@ -40948,9 +40708,8 @@ a mud pie = 泥巴饼
 muddle
 /ˈmʌdəl/
 核心：混乱、一团糟，脑子里的或东西上的都算。名词常说 in a muddle、get into a muddle。
-动词：把东西弄乱（muddle up）；把两样弄混；把人弄糊涂。
-muddle along 是得过且过，muddle through 是稀里糊涂地对付过去。英式用得多。
-形容词 muddled、muddling 与 muddle-headed 并入本条。
+动词：把东西弄乱（muddle up）；把两样弄混；把人弄糊涂。英式用得多。
+形容词 muddled、muddling 并入本条。
 ① My papers are in a muddle, and I cannot find the letter from the bank.
 = 我的文件一团糟，找不到银行来的那封信了。
 in a muddle = 一团糟
@@ -41097,7 +40856,7 @@ muff your lines = 念错台词
 muffin
 /ˈmʌfɪn/
 核心：英美指的不是同一样东西。英式是一种扁圆的发面小饼，切开烤热抹黄油吃；
-美式是杯子形的小甜糕，常加蓝莓、巧克力。口语里 muffin top 指裤腰上勒出来的一圈赘肉。
+美式是杯子形的小甜糕，常加蓝莓、巧克力。
 ① She split a muffin, toasted it and spread it thickly with butter.
 = 她把一个松饼掰开烤了烤，厚厚地抹上黄油。
 toast a muffin = 烤松饼
@@ -41153,7 +40912,7 @@ mug
 核心：几个义项来路不一。名词：带柄的大杯子，直筒、厚壁、不配茶碟，喝茶喝咖啡用；（俚）脸；（英，非正式）容易上当的傻瓜。
 a mug's game 是英式口语：吃力不讨好、只有傻子才干的事。
 动词：行凶抢劫，在街上打人抢钱，常用被动；美式口语里指对着镜头做鬼脸。
-英式口语 mug up、mug up on 是临时抱佛脚地突击复习。名词 mugger、mugging 并入本条。
+名词 mugger、mugging 并入本条。
 ① She drinks her tea from a chipped blue mug that she has had since college.
 = 她喝茶用的是一只磕了口的蓝色马克杯，从上大学用到现在。
 a mug = 马克杯
@@ -41340,7 +41099,7 @@ a mulish look = 一副犟相
 
 mull
 /mʌl/
-核心：两个词同形。一是 mull over：反复琢磨、仔细考虑。二是把葡萄酒加糖和香料煮热，
+核心：两个词同形。一是反复琢磨、仔细考虑。二是把葡萄酒加糖和香料煮热，
 形容词 mulled 几乎只见于 mulled wine，是冬天和圣诞节的热饮。
 ① I need a few days to mull over the offer before I give you an answer.
 = 这个条件我得琢磨几天，才能答复你。
@@ -41643,7 +41402,6 @@ multiple
 /ˈmʌltɪpəl/
 核心：形容词：多个的、多重的，只放在名词前，比 many 正式，强调「不止一个、种类不一」。
 名词：数学上的倍数；英式商业里指连锁店。
-multiple-choice、multiple sclerosis、multiple personality disorder 并入本条。
 ① The driver was taken to hospital with multiple injuries.
 = 那名司机多处受伤，被送进医院。
 multiple injuries = 多处受伤
@@ -41685,7 +41443,6 @@ the multiplex arrives = 多厅影院开张
 multiplication
 /ˌmʌltɪplɪˈkeɪʃən/
 核心：乘法；也指数量的大量增加、繁殖。不可数。
-multiplication table（乘法表）并入本条，英式也叫 times table。
 ① The children are learning multiplication and division this term.
 = 孩子们这学期在学乘法和除法。
 multiplication and division = 乘法和除法
@@ -42201,8 +41958,8 @@ muscle
 /ˈmʌsəl/
 核心：字母 c 不发音。名词底子是「肌肉」：说某一块时可数（a calf muscle），说肌肉这种组织、说一身力气时不可数。
 由力气引申为实力、势力，不可数，前面加定语：financial muscle、political muscle。
-动词只用在短语里：muscle in 是硬挤进来分一份，muscle your way 是凭力气或势力挤过去。
-形容词 muscled（肌肉发达的）与 muscle-bound（肌肉发达得僵硬的）并入本条。
+动词只用在短语里：muscle your way 是凭力气或势力挤过去。
+形容词 muscled（肌肉发达的）并入本条。
 ① He pulled a muscle in his back lifting boxes on moving day.
 = 搬家那天他抬箱子，把背上的一块肌肉拉伤了。
 pull a muscle = 拉伤肌肉
@@ -42322,7 +42079,6 @@ museum
 /mjuˈziːəm/
 核心：博物馆：收藏并陈列有历史、科学、艺术价值的东西的地方。可数。
 英式里陈列绘画的多叫 gallery，这个词偏指文物与科学藏品。
-museum piece 一是够格进博物馆的珍品，二是取笑早该淘汰的老古董，并入本条。
 ① We spent a wet afternoon in the science museum and still saw only one floor.
 = 我们在科学博物馆里消磨了一个下雨的下午，还是只看了一层楼。
 a science museum = 科学博物馆
@@ -42369,7 +42125,6 @@ mushroom
 /ˈmʌʃrʊm/
 核心：名词是蘑菇，可数。动词有两支：一是像雨后蘑菇那样迅速增多、扩大，常带「快得出乎意料」的意思；
 二是 go mushrooming，去采蘑菇。
-mushroom cloud 是核爆炸后的蘑菇云，并入本条。
 ① She fried a handful of sliced mushrooms in butter and piled them on toast.
 = 她用黄油煎了一把切片的蘑菇，堆在烤面包上。
 sliced mushrooms = 切片的蘑菇
@@ -42389,7 +42144,6 @@ a mushroom cloud = 蘑菇云
 mushy
 /ˈmʌʃi/
 核心：两支。一是糊状的、烂糊的；二是（贬，口语）滥情的、肉麻的。
-mushy peas 是英国的豌豆糊，配炸鱼薯条吃，并入本条。
 ① Cook the apples gently until they are soft but not mushy.
 = 用小火煮苹果，煮到软而不烂。
 soft but not mushy = 软而不烂
@@ -42408,8 +42162,6 @@ music
 核心：音乐。不可数：一首曲子说 a piece of music，不说 a music。
 另一支是乐谱：read music 是识谱，sheet music 是散页乐谱。
 习语 face the music 是硬着头皮承担后果；music to your ears 是正想听到的好消息；set something to music 是给诗文谱曲。
-以它打头的复合词并入本条：music box（美式的八音盒）、music hall（旧时的歌舞杂耍剧场，也指那种表演）、
-music stand（谱架）、music video（音乐短片）。
 ① She puts on some music as soon as she gets home from work.
 = 她下班一到家就放点音乐。
 put on some music = 放点音乐
@@ -42465,10 +42217,8 @@ rock music = 摇滚乐
 musical
 /ˈmjuːzɪkəl/
 核心：形容词三支。一是音乐的、与音乐有关的，只作定语；二是有音乐天赋的、爱好音乐的；三是（声音）悦耳的。
-名词是音乐剧，可数，旧称 musical comedy。
+名词是音乐剧，可数。
 副词 musically 与名词 musicality（乐感）并入本条。
-以它打头的复合词也并入：musical box（英式的八音盒）、musical bumps 与 musical chairs（两种音乐一停就抢位的儿童游戏，
-后者引申指人员职位频繁对调）、musical director（音乐总监）、musical saw（当乐器拉的锯琴）。
 ① The school lends musical instruments to pupils who cannot afford to buy one.
 = 学校把乐器借给买不起的学生。
 a musical instrument = 乐器
@@ -42545,7 +42295,7 @@ a musicologist = 音乐学家
 musk
 /mʌsk/
 核心：两支。一是麝香：取自雄麝的一种气味浓烈的物质，用来制香水，不可数；二是类似的浓重气味。
-形容词 musky（有麝香味的）并入本条；musk ox（麝牛）与 musk rose（麝香蔷薇）是两种因气味得名的动植物，也并入。
+形容词 musky（有麝香味的）并入本条。
 ① Most perfume houses now use synthetic musk rather than the natural kind.
 = 现在多数香水厂用的是合成麝香，不用天然的。
 synthetic musk = 合成麝香

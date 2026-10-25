@@ -34,7 +34,7 @@ prayer
 核心：名词：祷词、祈祷文，可数：say a prayer；祈祷（这件事），不可数：kneel in prayer；prayers 是祈祷仪式；也指心里极盼的事。
 习语：not have a prayer 是（口语）毫无成功的希望；on a wing and a prayer 是全凭侥幸、勉强撑着；the answer to somebody's prayers 是某人求之不得的人、物。
 形容词 prayerful 是虔诚祈祷的。
-复合词：prayer book 是祈祷书；prayer meeting 是祷告会；prayer rug、prayer mat 是（穆斯林的）礼拜毯；prayer wheel 是（藏传佛教的）转经筒。并入本条。
+复合词：prayer mat 是（穆斯林的）礼拜毯。并入本条。
 ① The children say their prayers before they go to bed.
 = 孩子们睡前做祷告。
 say your prayers = 做祷告
@@ -357,7 +357,7 @@ the precincts of a place = 某处的院内
 
 precious
 /ˈpreʃəs/
-核心：形容词：贵重的、值钱的：precious metals、precious stone 是宝石；宝贵的、珍贵的：因为稀少、要紧而不能浪费；珍爱的、心爱的；
+核心：形容词：贵重的、值钱的：precious metals；宝贵的、珍贵的：因为稀少、要紧而不能浪费；珍爱的、心爱的；
 （贬）矫揉造作的、过分讲究的；（口语，只作定语）表示不屑、恼火：your precious car。
 副词：（口语）precious little、precious few 是少得可怜。名词：（口语）宝贝，用作称呼。
 派生：preciousness、preciosity 是矫揉造作，后者是书面词。并入本条。
@@ -1215,6 +1215,7 @@ premature
 ① Smoking is a common cause of premature death.
 = 吸烟是早死的常见原因。
 premature death = 早死
+常修饰不好的事，如死亡、衰老。
 ② The baby was six weeks premature and spent a month in hospital.
 = 那婴儿早产六个星期，在医院住了一个月。
 six weeks premature = 早产六个星期
@@ -1241,6 +1242,7 @@ premeditated
 ① The judge said that the attack was premeditated and showed no mercy.
 = 法官说那次袭击是预谋的，量刑毫不留情。
 be premeditated = 是预谋的
+法律语境常用，是否预谋关系到定罪轻重。
 ② He was found guilty of premeditated murder.
 = 他被判蓄意谋杀罪成立。
 premeditated murder = 蓄意谋杀
@@ -1265,6 +1267,7 @@ premier
 ① The two premiers signed the trade agreement at a ceremony in the capital.
 = 两国总理在首都的一个仪式上签了贸易协定。
 a premier = 总理
+新闻标题里常用，因为比较简短。
 ② The town is the premier holiday resort on the south coast.
 = 那座城是南岸首屈一指的度假胜地。
 the premier resort = 首屈一指的度假地
@@ -1287,6 +1290,7 @@ the world premiere = 全球首演
 ③ The play premiered in a tiny theatre above a pub before it moved to the capital.
 = 那出戏先在一家酒吧楼上的小剧场首演，后来才进了首都。
 premiere = 首演
+作动词多见于新闻和娱乐报道。
 
 premise
 /ˈpremɪs/
@@ -1424,7 +1428,6 @@ prep
 /prep/
 核心：几个截短的口语词。名词，不可数：（英式）（寄宿学校的）家庭作业、自习时间；（美式）准备工作。
 动词：（美式）为……作准备：给（病人）做术前准备、预备（食材）；也指作准备。过去式 prepped。
-prep school 是 preparatory school 的简称。并入本条。
 ① The boys do their prep in the library between six and eight every evening.
 = 男孩子们每天晚上六点到八点在图书馆做作业。
 do your prep = 做作业
@@ -1471,7 +1474,6 @@ a preparation = 制剂
 preparatory
 /prɪˈpærətri/
 核心：（正式）预备的、准备性的：为后面的事作准备的。只作定语；preparatory to 是在……之前、为……作准备。
-preparatory school 是预备学校：在英国是为七到十三岁孩子办的私立小学，在美国是为上大学作准备的私立中学。并入本条。
 ① The committee held a preparatory meeting to agree on the agenda.
 = 委员会开了一次预备会议，商定议程。
 a preparatory meeting = 预备会议
@@ -1481,6 +1483,7 @@ preparatory to doing something = 在做某事之前、为做某事作准备
 ③ Both brothers went to the same preparatory school in the hills.
 = 兄弟俩上的是山里的同一所预备学校。
 a preparatory school = 预备学校
+英美所指不同：英式多指升入私立中学前的小学，美式多指升大学前的私立中学。
 
 prepare
 /prɪˈpeə(r)/
@@ -1564,6 +1567,7 @@ preposterous
 ① The idea that the earth is flat seems preposterous to us now.
 = 地球是平的这种想法，如今在我们看来荒谬透顶。
 seem preposterous = 显得荒谬
+语气很重，常带愤慨或嘲讽。
 ② It is preposterous to suggest that the nurses caused the delay.
 = 说延误是护士造成的，简直荒唐。
 it is preposterous to do something = 做某事是荒唐的
@@ -1806,7 +1810,7 @@ presence
 核心：名词：在场、出席、存在：某人在某处这件事，跟 absence 相对，不可数：in the presence of 是当着……的面；
 （某物在某处的）存在，不可数：the presence of gas；（一国军队、警察在某地的）驻扎、势力，单数：a military presence；
 （人的）仪态、气场、风度，不可数：stage presence；（感觉得到却看不见的）鬼魂、神灵，可数。
-习语：presence of mind 是镇定、临危不乱的机智；make your presence felt 是让人感到你的存在、显出你的分量。
+习语 make your presence felt 是让人感到你的存在、显出你的分量。
 ① Your presence is requested at the meeting on Friday.
 = 请您出席星期五的会议。
 your presence = 您的出席
@@ -2139,12 +2143,10 @@ press
 握紧（手、胳膊）表示亲热；（人群）挤着往前：press forward；催促、逼迫：press somebody to do、press somebody for；坚持（要求、主张）：press a claim。
 名词：the press 是报界、新闻界、记者们，单数，动词单复数都行：the freedom of the press；（报刊上的）报道、评价，单数或不可数：get a good press；
 印刷机，也指出版社，可数；压榨机、熨平机，可数；一按、一压，单数；（英式）人群的拥挤，单数。
-短语动词：press on、press ahead (with) 是不顾困难坚决干下去；press for 是迫切要求、力争。
 习语：press charges (against) 是起诉、提出指控；be pressed for time、money 是时间紧、手头紧；press the flesh 是（政客）跟民众握手拉票；
 go to press 是付印；hot off the press 是刚印出来的、刚出炉的；press something home 是把（观点、优势）贯彻到底。
-派生与复合词：pressed 是压制的：pressed flowers；pressing 是紧迫的，也指压制出来的一批（唱片）；press-up 是（英式）俯卧撑，美式说 push-up；
-press stud 是（英式）按扣；press conference 是记者招待会；press release 是新闻稿；press cutting 是（英式）剪报；
-press secretary 是新闻秘书；pressman 是（英式）记者，也指印刷工。并入本条。
+派生与复合词：pressed 是压制的：pressed flowers；pressing 是紧迫的，也指压制出来的一批（唱片）；
+pressman 是（英式）记者，也指印刷工。并入本条。
 ① Press the green button to start the machine.
 = 按绿色按钮开机。
 press a button = 按按钮
@@ -2269,9 +2271,7 @@ pressure
 按、压的力，不可数：apply pressure to；（让人做某事的）催逼、压力，不可数或用复数：pressure to do、pressure from；（工作、生活的）紧张、压力，不可数或用复数：the pressures of work。
 动词：（美式用得多）对……施压、逼迫：pressure somebody into doing，英式多说 pressurize。
 习语：under pressure 是受到压力、被逼着，也指（气体、液体）受压；put pressure on 是对……施压；pile on the pressure 是加大压力、步步紧逼。
-派生与复合词：pressurize 是对……施压，也指给（机舱等）增压，英式也拼作 pressurise，名词 pressurization；
-pressure cooker 是高压锅，比喻让人喘不过气的紧张环境；pressure group 是压力集团；pressure point 是（身体上的）压痛点、止血点，也指矛盾的焦点；
-pressure washer 是高压清洗机；pressure suit 是（飞行员、宇航员穿的）增压服。并入本条。
+派生词：pressurize 是对……施压，也指给（机舱等）增压，英式也拼作 pressurise，名词 pressurization。并入本条。
 ① The nurse checked his blood pressure twice a day.
 = 护士每天给他量两次血压。
 blood pressure = 血压
@@ -2393,7 +2393,6 @@ have presumably done something = 想必已经做了某事
 presume
 /prɪˈzjuːm/
 核心：动词：推测、假定、以为：没有确证就认定：presume that、be presumed dead、innocent；（正式）擅自、冒昧地做：presume to do。
-presume on、upon 是（正式）利用（别人的好意、交情）得寸进尺。
 ① I presume that you have already eaten, since it is past nine.
 = 已经九点多了，我想你吃过了。
 presume that = 推测
@@ -2796,7 +2795,7 @@ preview a letter = 预览信件
 previous
 /ˈpriːviəs/
 核心：先前的、以前的：时间、顺序上在前的。只作定语：previous experience；the previous day 是前一天。
-副词 previously 是先前、以前。previous to 是（正式）在……以前。并入本条。
+副词 previously 是先前、以前。并入本条。
 ① No previous experience is needed for the job, because training is given.
 = 那份工作不需要以前的经验，会给培训。
 previous experience = 以前的经验
@@ -2813,7 +2812,7 @@ previous to = 在……以前
 prey
 /preɪ/
 核心：名词，不可数或单数：猎物、被捕食的动物；（容易受骗、受害的）牺牲品：easy prey。bird of prey 是猛禽。
-动词只用在 prey on、upon 里：捕食；专门坑害、欺骗（弱者）；prey on somebody's mind 是（烦心事）萦绕在某人心头、折磨某人。
+动词只跟 on、upon 连用：捕食；专门坑害、欺骗（弱者）；prey on somebody's mind 是（烦心事）萦绕在某人心头、折磨某人。
 习语 fall prey to、be prey to 是成为……的牺牲品、深受……之害。读音跟 pray 一样。
 ① The lion crept through the long grass towards its prey.
 = 狮子穿过高高的草丛，悄悄逼近猎物。
@@ -2859,8 +2858,7 @@ price
 习语：at a price 是要花大价钱、要付代价；at any price 是不惜任何代价，not at any price 是无论如何也不；a price on somebody's head 是悬赏捉拿某人的赏金；
 pay the price 是付出代价；What price …? 是（英式）……还有什么指望、……又算什么；everyone has their price 是人人都有个价、谁都能被收买；
 beyond price、without price 是无价的。
-派生与复合词：pricing 是定价；price tag 是价签，引申为要花的钱；price list 是价目表；price point 是（商业）价位；
-price war 是价格战；price-fixing 是（几家公司串通）操纵价格；price controls 是物价管制。并入本条。
+派生与复合词：pricing 是定价；price list 是价目表。并入本条。
 ① The price of bread has doubled in the last three years.
 = 面包的价钱三年里翻了一番。
 the price of bread = 面包的价钱
@@ -3009,7 +3007,6 @@ pride
 /praɪd/
 核心：名词：自豪、得意：因为自己、自己人做得好而高兴，不可数：take pride in、with pride；引以为豪的人、事物，单数：the pride of；
 自尊心，不可数：hurt somebody's pride；（贬）骄傲、傲慢，不可数；一群（狮子），可数：a pride of lions。
-动词只用在 pride yourself on 里：以……自豪、自夸。
 习语：pride of place 是最显眼、最重要的位置；swallow your pride 是放下架子、忍气吞声；somebody's pride and joy 是某人的心肝宝贝、最得意的东西；
 pride comes before a fall 是骄者必败。
 ① She looked at her daughter's painting with pride.
@@ -3111,6 +3108,7 @@ a prima donna = 首席女歌手
 ② The team has too many prima donnas and not enough players who will run.
 = 那支球队耍大牌的人太多，肯跑的球员太少。
 a prima donna = 耍大牌、使性子的人
+这一支也可说男性，常用于体育界和职场。
 ③ She joined the company at seventeen and became its prima ballerina at twenty-five.
 = 她十七岁进团，二十五岁成了首席女演员。
 a prima ballerina = 首席芭蕾女演员
@@ -3124,6 +3122,7 @@ prima facie evidence = 初步证据
 ② There is a prima facie case against the driver, and the matter will go to court.
 = 对那名司机的指控表面证据成立，案子将上法庭。
 a prima facie case = 表面证据成立的案件
+多见于法庭报道和法律文书。
 
 primacy
 /ˈpraɪməsi/
@@ -3131,6 +3130,7 @@ primacy
 ① The court upheld the primacy of the constitution over all other laws.
 = 法庭维护了宪法高于其他一切法律的至上地位。
 the primacy of something = 某物的首要地位
+多见于政治、法律、宗教方面的讨论。
 ② The school gives primacy to reading and writing in the first three years.
 = 那所学校头三年把读和写放在首位。
 give primacy to something = 把某事放在首位
@@ -3141,6 +3141,7 @@ primal
 ① The noise in the dark woke a primal fear that he could not explain.
 = 黑暗里的那阵响动唤起了他说不清的一种原始的恐惧。
 a primal fear = 原始的恐惧
+多修饰恐惧、本能、需要这类名词。
 ② The need to protect a child is one of the most primal human instincts.
 = 保护孩子的需要是人最根本的本能之一。
 primal instincts = 最根本的本能
@@ -3149,8 +3150,6 @@ primary
 /ˈpraɪməri/
 核心：形容词：首要的、主要的，只作定语：the primary reason；最初的、原始的、基本的；（英式）初等教育的、小学的：a primary teacher。副词 primarily 是主要地、首先。
 名词：（美国的）初选：党内选出候选人的选举，可数，复数 primaries，也说 primary election。
-复合词：primary school 是（英式）小学；primary colour 是原色：红、黄、蓝；primary source 是第一手资料；primary care 是初级医疗、基层医疗，也说 primary health care，
-美国的 primary care physician、primary care provider 是基层家庭医生；primary industry 是第一产业：农、林、渔、矿；primary stress 是（语音）主重音。并入本条。
 ① The primary aim of the course is to improve your spoken English.
 = 那门课的首要目标是提高你的英语口语。
 the primary aim = 首要目标
@@ -3209,9 +3208,8 @@ prime
 核心：形容词，只作定语：首要的、最重要的：a prime suspect 是头号嫌疑人；最好的、第一流的：prime beef、a prime site；最典型的：a prime example。
 名词：盛年、全盛期，单数：in your prime、past your prime。
 动词：事先指点、让……有所准备：prime somebody with；给（木头）上底漆；给（泵、炸弹）装填好使它能用。
-习语：prime the pump 是注入资金刺激（经济、生意）起步，本指给水泵灌引水；prime time 是（电视、广播的）黄金时段。
-复合词：prime minister 是首相、总理，英国下院每星期的首相答问叫 Prime Minister's Questions；prime number 是质数、素数；prime mover 是原动力、发起人；
-prime rate 是（美国银行的）最优惠利率；prime rib 是（美式）上等肋排；prime cost 是主要成本、直接成本。并入本条。
+习语 prime the pump 是注入资金刺激（经济、生意）起步，本指给水泵灌引水。
+英国下院每星期的首相答问叫 Prime Minister's Questions。
 ① My prime concern is the safety of the children on the bus.
 = 我最关心的是车上孩子们的安全。
 a prime concern = 最关心的事
@@ -3274,6 +3272,7 @@ a primer = 启蒙读本
 ③ The book is a useful primer on the law for people who rent their homes.
 = 那本书对租房住的人来说是一本有用的法律入门。
 a primer on something = 某题目的入门书
+这一支常用在书名里。
 
 primeval
 /praɪˈmiːvl/
@@ -3281,6 +3280,7 @@ primeval
 ① The road ends at the edge of a primeval forest that has never been cut.
 = 那条路到一片从没砍伐过的原始森林边上就断了。
 a primeval forest = 原始森林
+多修饰森林、沼泽等自然景象。
 ② The sound of the wolves stirred a primeval fear in the travellers.
 = 狼嚎在旅人心里搅起了一种出于原始本能的恐惧。
 a primeval fear = 出于本能的恐惧
@@ -3322,6 +3322,7 @@ the rule of primogeniture = 长子继承的规矩
 ② Primogeniture kept the great houses together and sent the younger sons into the army.
 = 长子继承制保住了大家族的产业，把小儿子们送进了军队。
 primogeniture = 长子继承制
+多见于历史、法律著作。
 
 primordial
 /praɪˈmɔːdiəl/
@@ -3351,6 +3352,7 @@ primrose
 ① The banks of the lane were covered with primroses in April.
 = 四月里，小路两边的土坡上开满了报春花。
 a primrose = 报春花
+在英国是乡间春天的象征。
 ② The kitchen walls were painted a pale primrose.
 = 厨房的墙刷成了淡淡的樱草黄。
 a pale primrose = 淡樱草黄
@@ -3412,7 +3414,6 @@ principal
 核心：形容词，只作定语：主要的、最重要的、首要的。副词 principally 是主要地。
 名词，可数：（中小学、学院的）校长、院长：美式用得多，英式里多指学院院长；（戏、芭蕾舞团的）主要演员；（金融）本金，单数；（法律）委托人、当事人。
 别跟 principle（原则）混：读音相同。
-英国圣诞童话剧里的 principal boy 是由女演员反串的男主角，principal girl 是女主角；principal parts 是（语法）动词的主要变化形式。并入本条。
 ① The principal reason for the delay was a shortage of drivers.
 = 延误的主要原因是司机短缺。
 the principal reason = 主要原因
@@ -3497,10 +3498,9 @@ print
 /prɪnt/
 核心：本义是「压出印子」。动词：印、印刷（书、报、图案）；刊登、发表；打印；（照相）洗印；用印刷体写：print your name。
 名词：印刷出来的字，不可数：in large print；印痕、印子，可数：a footprint，prints 常指指纹；（照片）洗出的一张，可数；版画，可数；印花布、印花图案，可数。
-短语动词：print out、print off 是（从电脑）打印出来。
 习语：in print 一是（书）还在印行、买得到，二是登出来了、成了铅字；out of print 是绝版的；the small print、美式 the fine print 是（合同里）小字印的细则。
 派生与复合词：printing 是印刷、印刷术，也指一次印的数量；printout 是打印出来的一份；printable 是可以打印的、适合刊登的；printworks 是印染厂；
-print run 是一次的印数；print queue 是打印队列；printmaker 是版画家，这门艺术叫 printmaking。并入本条。
+printmaker 是版画家，这门艺术叫 printmaking。并入本条。
 ① The firm prints ten thousand copies of the magazine every month.
 = 那家公司每月印一万份那本杂志。
 print copies = 印若干份
@@ -3574,6 +3574,7 @@ a printer = 打印机
 ② The book is at the printer's and will be in the shops next month.
 = 那本书在印刷厂，下个月上架。
 at the printer's = 在印刷厂
+at the printer's 里的 's 指印刷厂这个地方。
 ③ His grandfather was a printer who set every page by hand.
 = 他爷爷是印刷工，每一页都是手工排的。
 a printer = 印刷工
@@ -3693,7 +3694,7 @@ prison
 /ˈprɪzn/
 核心：监狱，可数；坐牢、监禁，不可数：in prison、go to prison、send somebody to prison。比喻让人觉得被困住的地方、处境。
 作为「坐牢」这件事不加冠词：be in prison；说那座楼、去探访才加：visit the prison。
-prison visitor 是（英国）义务探访囚犯的人；prison officer 是狱警。并入本条。
+prison officer 是狱警。并入本条。
 ① He spent five years in prison for his part in the robbery.
 = 他因参与那起抢劫坐了五年牢。
 in prison = 在坐牢
@@ -3719,7 +3720,6 @@ a prison camp = 战俘营、集中营
 prisoner
 /ˈprɪznə(r)/
 核心：两支，可数。一是犯人、囚犯：关在监狱里的人；二是俘虏、被抓起来关着的人：take somebody prisoner、hold somebody prisoner。
-prisoner of war 是战俘，简称 POW；prisoner of conscience 是良心犯：因信仰、政见被关押的人。
 习语 take no prisoners 是毫不留情、不给人留余地。
 ① The prisoners are allowed one visit a month from their families.
 = 犯人每月可以让家人探视一次。
@@ -3779,12 +3779,11 @@ an invasion of privacy = 侵犯隐私
 private
 /ˈpraɪvət/
 核心：本义是「属于个人、不向公众开放」。形容词：私人的、私有的、个人专用的：private property；不对外的、不公开的：a private meeting；
-私营的、民办的、不归政府管的：a private school、the private sector；私事的、跟工作无关的：private life；秘密的、不愿让人知道的；
+私营的、民办的、不归政府管的：the private sector；私事的、跟工作无关的：private life；秘密的、不愿让人知道的；
 （地方）僻静的、没人打扰的；（人）不爱谈自己的、内向的。副词 privately。
-名词：（陆军的）列兵、二等兵：军衔最低的士兵，可数，也说 private soldier；口语的 privates 是阴部，同 private parts。
+名词：（陆军的）列兵、二等兵：军衔最低的士兵，可数；口语的 privates 是阴部。
 习语 in private 是私下里、没有别人在场。
-复合词：private road 是私家路；private secretary 是私人秘书；private detective、private eye 是私家侦探；private enterprise 是私营企业；
-private view 是（画展开幕前的）内部预展。并入本条。
+复合词：private eye 是私家侦探。并入本条。
 ① The sign on the gate says "Private property: keep out".
 = 大门上的牌子写着「私人领地，不得入内」。
 private property = 私人财产
@@ -3965,7 +3964,7 @@ prize
 形容词，只作定语：获奖的、够得奖的：a prize bull；（口语）十足的、头号的：a prize idiot。
 动词：珍视、看重，多用被动：be prized for；分词 prized 作形容词：a prized possession。美式里 prize 也是「撬」，同英式的 prise。
 习语 (there are) no prizes for guessing 是不用猜也知道。
-派生与复合词：prizewinner 是获奖者，形容词 prizewinning；prize-giving 是（英式）（学校的）颁奖典礼；
+派生与复合词：prizewinner 是获奖者，形容词 prizewinning；
 prizefight 是（为奖金打的）职业拳击赛，尤指旧时不戴手套的，拳手叫 prizefighter，这一行叫 prizefighting。并入本条。
 ① She won first prize in the poetry competition at the age of twelve.
 = 她十二岁在诗歌比赛里拿了一等奖。
@@ -4004,9 +4003,7 @@ prizefighting = 职业拳击
 pro
 /prəʊ/
 核心：两个词。一是（口语）一个截短的说法：名词：职业选手、行家，可数，复数 pros；形容词：职业的。
-pro shop 是（高尔夫、网球俱乐部里的）器材专卖店。
 二是来自拉丁语的「赞成」：名词：the pros and cons 是利弊、正反两面的理由；介词、形容词：（口语）赞成、支持。
-拉丁短语：pro bono 是（律师）义务提供的、不收费的；pro forma 是形式上的、例行的，也指形式发票；pro rata 是按比例的；pro tem 是暂时的、临时的。并入本条。
 ① He turned pro at eighteen and won his first tournament a year later.
 = 他十八岁转为职业选手，一年后赢了头一个锦标赛。
 turn pro = 转为职业选手
@@ -4089,7 +4086,7 @@ probabilistic = 基于概率的
 
 probable
 /ˈprɒbəbl/
-核心：形容词：很可能的、大概的：比 possible 把握大，比 certain 小：It is probable that、the probable cause。
+核心：形容词：很可能的、大概的：比 possible 把握大，比 certain 小：It is probable that。
 名词：很有希望入选、获胜的人，可数。反义是 improbable。
 ① It is probable that the fire was started by a cigarette.
 = 那场火很可能是一个烟头引起的。
@@ -4132,7 +4129,7 @@ probation
 /prəˈbeɪʃn/
 核心：两支，不可数。一是（法律）缓刑：犯了罪的人不进监狱，在规定期限内守规矩并定期向缓刑官报到：on probation；
 二是试用期：新员工先干一段看合不合适：a period of probation。美式里也指（学生的）留校察看。
-形容词 probationary 是试用的、缓刑的；probationer 是处于试用期的人、缓刑犯；probation officer 是缓刑监督官。并入本条。
+形容词 probationary 是试用的、缓刑的；probationer 是处于试用期的人、缓刑犯。并入本条。
 ① He was put on probation for two years for stealing a car.
 = 他偷了一辆车，被判缓刑两年。
 on probation = 在缓刑中
@@ -4197,7 +4194,6 @@ problem
 形容词，只作定语：成问题的、难管的：a problem child。
 口语习语：no problem 一是没问题、行，二是别客气；have a problem with 是对……有意见、不能接受；that's your problem 是那是你的事；
 What's the problem? 是怎么了、出了什么事。口语里截短成 prob：no probs。
-problem-solving 是解决问题（的能力、过程），不可数。并入本条。
 ① The main problem is that we do not have enough money to finish the roof.
 = 主要的问题是我们的钱不够把屋顶盖完。
 the main problem = 主要的问题
@@ -4280,7 +4276,7 @@ procedural = 程序上的
 proceed
 /prəˈsiːd/
 核心：（正式）动词，不及物：继续进行、接着做：proceed with；接着（去做另一件事）：proceed to do；（向某个方向）前进、行进：proceed to、along。
-proceed from 是（正式）出自、起因于；proceed against 是（法律）起诉。别跟 precede（在……之前）混。
+别跟 precede（在……之前）混。
 ① The work is proceeding according to plan in spite of the rain.
 = 尽管下雨，工程仍在按计划进行。
 proceed according to plan = 按计划进行
@@ -4632,7 +4628,6 @@ production
 核心：名词：生产、制造、产量，不可数：in production、go into production；（自然的）产生、分泌，不可数；
 （电影、戏剧、节目的）制作，不可数，也指上演的一出戏、摄制的一部片子，可数。
 习语：on production of 是（正式）出示……后；make a production of 是把一件小事弄得小题大做。
-复合词：production line 是生产线；production values 是（电影、演出的）制作水准；production number 是（歌舞片里场面大的）歌舞段落。并入本条。
 ① The production of steel has fallen by a third in ten years.
 = 钢产量十年里下降了三分之一。
 the production of steel = 钢的生产
@@ -4876,8 +4871,7 @@ profit
 核心：名词：利润、盈利：赚的钱超过花的钱的那部分，可数也可不可数：make a profit；（正式）好处、益处，不可数。
 动词：（正式）得益、获利：profit from、by；对……有好处。
 习语 at a profit 是赚了钱地、高于成本地。
-派生与复合词：profitable 是有利润的、有益的，副词 profitably，名词 profitability；profitless 是无利可图的、无益的；
-profit margin 是利润率；profit-sharing 是分红制；profit-taking 是（股市上）获利回吐；profit warning 是盈利预警。并入本条。
+派生与复合词：profitable 是有利润的、有益的，副词 profitably，名词 profitability；profitless 是无利可图的、无益的。并入本条。
 ① The firm made a profit of two million pounds last year.
 = 那家公司去年盈利两百万英镑。
 make a profit = 盈利
@@ -5520,7 +5514,6 @@ a prom = 站席音乐会
 promenade
 /ˌprɒməˈnɑːd/
 核心：名词，可数：（英式）海滨步道：沿海修的供人散步的宽路；（旧式）（在公共场所的）散步、漫步。动词：（旧式）（在公共场所）散步、漫步。
-英式 promenade concert 是站席音乐会：一部分听众站着听的古典音乐会。并入本条。
 ① The hotel stands on the promenade, facing the pier and the sea.
 = 那家旅馆在海滨步道上，对着栈桥和大海。
 on the promenade = 在海滨步道上
@@ -6060,8 +6053,7 @@ work as a proofreader = 做校对
 prop
 /prɒp/
 核心：名词，可数：支柱、支撑物；比喻靠山、精神支柱；（戏剧、电影的）道具，多用复数；（橄榄球）支柱前锋；（口语）螺旋桨：propeller 的截短。
-动词：把……靠在、支在：prop something against、on；用东西把……撑住：prop the door open。
-短语动词 prop up 是撑住、支起，也指扶持、支撑（快垮的政权、行业）。过去式 propped。
+动词：把……靠在、支在：prop something against、on；用东西把……撑住：prop the door open。过去式 propped。
 （口语）props 是应得的称赞、敬意：give somebody props。
 ① The roof of the old mine was held up by wooden props.
 = 那座旧矿井的顶是用木头支柱撑着的。
@@ -6213,7 +6205,6 @@ proper
 （社会上、道德上）得体的、规矩的、正派的；放在名词后：严格意义上的、本身：the city proper；
 （英式口语）十足的、彻底的：a proper fool；proper to 是（正式）为……所特有的。
 副词 properly：正确地、恰当地、好好地；得体地；（英式口语）十足地、真正地。习语 properly speaking 是严格说来。并入本条。
-（语法）proper noun、proper name 是专有名词。
 ① We have not had a proper holiday since the children were born.
 = 自打孩子出生，我们就没正经度过一次假。
 a proper holiday = 像样的假期
@@ -7645,8 +7636,6 @@ provide
 /prəˈvaɪd/
 核心：及物。一是提供、供给：provide something、provide somebody with something、provide something for somebody；
 二是（正式）（法律、规定）规定：provide that。
-短语动词：provide for somebody 是供养、养活；provide for something 是为（可能发生的事）预作安排，也指（法律）对……作出规定；
-provide against something 是（正式）预防、防备。
 连词 provided (that)、providing (that) 是只要、在……的条件下。提供者、供应商叫 provider，也指养家的人。并入本条。
 ① The hotel provides a free bus to the airport every half hour.
 = 那家旅馆每半小时有一班去机场的免费大巴。
@@ -7993,7 +7982,7 @@ proxy
 /ˈprɒksi/
 核心：三支。一是代理权、委托代理：by proxy 是由人代办，不可数；二是代理人、代表，可数，复数 proxies；
 三是（正式，术语）a proxy for：可以用来代表、衡量另一样东西的东西，可数。
-复合词：proxy vote 是委托投票；proxy war 是代理人战争；proxy server 是（计算机）代理服务器。
+复合词：proxy vote 是委托投票。
 ① You can vote by proxy if you are abroad on the day of the election.
 = 选举当天你在国外的话，可以委托别人代投。
 by proxy = 由人代办
@@ -8448,7 +8437,7 @@ psycholinguistic = 心理语言学的
 psychological
 /ˌsaɪkəˈlɒdʒɪkl/
 核心：两支。一是心理的、精神上的：跟人的内心有关，而不是身体的；二是心理学的，只放在名词前。副词 psychologically，并入本条。
-习语 the psychological moment 是最恰当的时机；psychological warfare 是心理战。
+习语 the psychological moment 是最恰当的时机。
 ① The doctors could find no physical cause, and thought the pain was psychological.
 = 医生们找不出身体上的原因，认为那种疼是心理作用。
 be psychological = 是心理作用
@@ -8644,7 +8633,7 @@ a pterodactyl with huge wings = 翅膀巨大的翼手龙
 pub
 /pʌb/
 核心：（英国、爱尔兰的）酒馆、酒吧：卖啤酒等饮料、常常也供饭的店，是街坊聚会的地方。可数。
-英式 pub crawl 是一晚上连串几家酒馆喝酒；pub quiz 是酒馆里办的知识竞猜；pub lunch 是在酒馆吃的午饭。
+英式 pub quiz 是酒馆里办的知识竞猜；pub lunch 是在酒馆吃的午饭。
 ① They went to the pub for a drink after the match on Saturday.
 = 星期六比赛完了，他们去酒馆喝了一杯。
 go to the pub = 去酒馆
@@ -8706,14 +8695,13 @@ the pubes = 阴部
 
 public
 /ˈpʌblɪk/
-核心：形容词：公众的、大众的，只放在名词前：public opinion；公共的、公用的：供大家用的：a public library；政府的、公家的、国家办的：public money；
+核心：形容词：公众的、大众的，只放在名词前；公共的、公用的：供大家用的：a public library；政府的、公家的、国家办的：public money；
 公开的、当众的：a public apology；众所周知的；人多眼杂的：反义都是 private。
 名词：the public 是公众、民众，单数，动词单复数都行；（某一类的）一群人、（作家、艺人的）读者、观众：the reading public。
 副词 publicly：公开地、当众；由公家地。并入本条。
 习语：in public 是当众、公开地；go public 是把事情公开，也指（公司）上市；in the public eye 是常在公众视线里、是公众人物；
 public enemy number one 是头号公敌；make something public 是把某事公之于众。
-复合词：public holiday 是法定假日；public opinion 是舆论；public transport 是公共交通；public relations 是公关；
-public sector 是公营部门；public school 在英国是（收费的）私立中学，在美国、苏格兰是公立学校；public speaking 是当众演讲。
+复合词：public sector 是公营部门；public speaking 是当众演讲。
 ① The government had to change its plans because of public opinion.
 = 迫于舆论，政府不得不改了计划。
 public opinion = 舆论
@@ -9108,7 +9096,7 @@ puff
 /pʌf/
 核心：动词：puff (at、on) 是一口一口地抽（烟、烟斗）；（烟、蒸汽）一股一股地冒、喷出；（口语）气喘吁吁、喘粗气；喘着气走。
 名词：（抽的）一口烟，可数；（风、烟、气的）一小股，可数；（英式口语）气、呼吸，不可数；酥皮点心：a cream puff，可数；
-（口语）吹捧的文字，可数。短语动词 puff out、puff up 是（使）鼓起、胀起。
+（口语）吹捧的文字，可数。
 习语：huff and puff 是气喘吁吁，也指大声抱怨却不动真格；（英式口语）out of puff 是喘不上气；
 be puffed up with pride 是骄傲得忘乎所以。
 派生：puffed 是（英式口语）喘不上气的，不放在名词前；puffy 是（眼睛、脸）浮肿的，名词 puffiness；
@@ -9306,10 +9294,6 @@ pull
 （英式口语）勾搭上（异性）；（口语）取消、撤下（活动、广告）。
 名词：拉、拽，可数；（自然的）引力、拉力，单数：the pull of the moon；吸引力、诱惑，可数，多用单数；（口语）门路、影响力，不可数；
 （对烟、酒的）一大口，可数。
-短语动词：pull ahead 是领先、超到前面；pull apart 是拉开、拆开；pull at 是一下一下地拽；pull away 是（车）开动、开走，也指甩开；pull back 是后撤、退缩；
-pull down 是拆毁（建筑）；pull in 是（火车）进站、（车）靠边停，也指吸引、挣到；pull off 是做成（难事），也指驶离大路；pull on 是匆匆穿上；
-pull out 是（车）驶出、（火车）出站，也指退出、撤出；pull over 是靠路边停车；pull through 是挺过（大病、难关）；
-pull together 是齐心协力，pull yourself together 是振作起来、控制住自己；pull up 是（车）停下，也指拔起、拉过来（椅子）。
 习语：pull your weight 是尽自己的一份力；pull strings 是走门路、托关系；pull a fast one 是耍花招骗人；pull the plug on 是终止、掐断；
 pull out all the stops 是使出浑身解数；pull somebody's leg 是跟某人开玩笑、逗某人；pull your socks up 是（英式口语）加把劲、振作起来；
 pull rank 是摆官架子、拿职位压人；pull a face 是做鬼脸；pull your punches 是手下留情；pull to pieces 是批得体无完肤。
@@ -9719,7 +9703,6 @@ pump
 /pʌmp/
 核心：名词，可数：泵、抽水机、打气筒：a petrol pump、a bicycle pump；（英式）pumps 是轻便的帆布鞋、胶底鞋，（美式）是浅口的女式高跟鞋。
 动词：用泵抽、送（液体、气体）：pump water out of；（液体）一股股地涌出；一上一下地快速摇动；（口语）盘问、套（某人的）话：pump somebody for information。
-短语动词：pump in、pump into 是大量投入（钱）；pump out 是大量生产、源源不断地送出；pump up 是给……打气，也指（口语）给……鼓劲。
 习语：pump iron 是（口语）举重健身；pump somebody's hand 是使劲跟某人握手；pump bullets into 是朝……连开几枪。
 分词 pumped 作形容词：（口语）兴奋的、劲头十足的，也说 pumped up。并入本条。
 ① The villagers still draw their water from a pump in the square.
@@ -9834,7 +9817,7 @@ punch
 /pʌntʃ/
 核心：动词：用拳猛击、打一拳；（用工具）在……上打孔：punch a hole in、punch a ticket；按（键、钮）。
 名词：一拳，可数；（文字、讲话的）感染力、冲击力，不可数；打孔器，可数；潘趣酒：用酒、果汁、糖、香料调的饮料，不可数。
-短语动词：punch in、punch out 是（美式）上班、下班打卡；punch something in 是把（数字）按键输进去；punch somebody out 是（美式口语）把某人打倒。
+短语动词：punch something in 是把（数字）按键输进去；punch somebody out 是（美式口语）把某人打倒。
 习语：pull your punches 是手下留情，多用在否定句里；pack a punch 是很有力道、很有冲击力；beat somebody to the punch 是抢在某人前头；
 roll with the punches 是顺势应变、逆来顺受；punch above your weight 是做超出自己分量的事；not pull any punches 是毫不留情。
 派生与复合：puncher 是打拳的人；punchcard、punched card 是（旧时电脑用的）穿孔卡片。并入本条。
@@ -10938,13 +10921,10 @@ full of pus = 全是脓
 
 push
 /pʊʃ/
-核心：动词：推、搡：朝离开自己的方向用力，反义 pull；挤、推开人往前走：push past、push through；按（钮、键）；
+核心：动词：推、搡：朝离开自己的方向用力，反义 pull；挤、推开人往前走：push past；按（钮、键）；
 逼迫、催促、鞭策：push somebody to do、into doing，push yourself 是逼自己加把劲；力推、力争、推销（主张、产品）；把（价钱、数字）推高、压低；
 （口语）贩卖（毒品）。
-名词，可数：推、按；（军队的）大举推进；（为达到目的作的）大力一搏、攻势：a push for。
-短语动词：push about、push around 是把（某人）呼来喝去、摆布；push ahead、push forward、push on 是（不顾困难）继续推进、继续往前走；
-push aside 是把……推到一边、不去想；push back 是把……往后推，也指（美式）顶回去、反对；push for 是力争、一再要求；
-push in 是（英式）插队；push off 是（英式口语）走开、滚开；push out 是把（某人）排挤出去；push over 是推倒；push through 是使（法案、计划）强行通过。
+名词，可数：推、按；（军队的）大举推进；（为达到目的作的）大力一搏、攻势。
 习语：push your luck 是得寸进尺、再冒一次险；push the boat out 是（英式口语）不惜花钱大办一场；when push comes to shove 是到了紧要关头、真到了那一步；
 give somebody the push 是（英式口语）把某人解雇、把某人甩了；at a push 是（英式口语）非要不可的话、勉强；push the envelope 是突破常规、挑战极限；
 push somebody's buttons 是故意惹某人、专戳某人的痛处；be pushing forty 是快四十岁了。
@@ -11080,6 +11060,12 @@ a push-start = 推车发动
 = 他每天早饭前做五十个俯卧撑。
 a push-up = （美式）俯卧撑
 英式多说 press-up。
+㉟ The older boys at the bus stop used to push him around until his big sister came to meet him.
+= 车站那几个大点的男孩以前老欺负他，直到他姐姐来接他。
+push around = 欺负、对（某人）指手画脚（常拆开用：push somebody around）
+㊱ He was pushed about from one office to another all morning, and nobody could answer his question.
+= 他一上午被支来支去，从一个办公室到另一个办公室，谁也答不了他的问题。
+push about = 把（某人）支来支去（常拆开用：push somebody about）
 
 pushback
 /ˈpʊʃbæk/
@@ -11275,15 +11261,6 @@ put
 由此引出：使处于（某种状态、处境）：put somebody at risk、put something right；写、标上：put your name on；说、表达：put it、put something into words；
 提出（问题、建议、方案）：put a question to somebody；估计、估价：put the cost at；把（钱、精力、时间）投到：put money into、put effort into；
 （体育）推（铅球）。
-短语动词（只列最常用的）：put about 是传播（谣言），也指（船）掉头；put across、put over 是把（想法）讲清楚、让人明白；put aside 是搁置、存下（钱）；
-put away 是收起来、存（钱）；put back 是放回原处，也指推迟；put before 是把……提交给（某人考虑），也指把……看得比……重；put behind you 是把（不快的事）抛到脑后；
-put by 是存下（钱）；put down 是放下，也指镇压、（给生病的动物）实施安乐死、记下、当众贬低；put down to 是把……归因于；put down as 是把……看作；
-put down for 是给……报名；put forth 是（正式）提出、（植物）长出；put forward 是提出（建议），也指推荐（某人）、把（钟）拨快；
-put in 是安装、投入（时间、精力）、提出（申请）；put in for 是正式申请；put into 是把（时间、钱、精力）投进；put off 是推迟，也指让人反感、扫兴、打扰；
-put on 是穿上、戴上，也指打开（灯、电器）、长（体重）、上演、装出（某种样子）；put out 是熄灭（火、灯），也指出版、发布、给人添麻烦；
-put yourself out 是特地费事帮人；put through 是给……接通电话，也指让（某人）经受（磨难）；put to 是向……提出；put together 是组装、拼凑、编成；
-put towards 是把（钱）用来支付一部分；put up 是举起、搭起、建造、张贴、提高（价格），也指留（人）住宿；put up for 是把……拿出来（出售）；
-put up to 是唆使；put up with 是忍受、容忍；put upon 是占……的便宜，put-upon 是被人欺负的、被占便宜的。
 习语：put it 是这么说吧、换个说法：to put it another way；not put it past somebody 是认为某人做得出来；put a stop to 是制止；
 put your foot down 是坚决反对、说一不二，也指踩油门加速；put paid to 是（英式）断送、使落空；put somebody to the test 是考验某人；
 put somebody in their place 是让某人知道自己的分量；put two and two together 是根据所见推断出来；put your feet up 是歇一歇；put down roots 是扎根、定居。
@@ -11692,7 +11669,7 @@ putz around = 瞎忙、闲荡
 puzzle
 /ˈpʌzl/
 核心：名词，可数：智力游戏、谜、拼图：a crossword puzzle、a jigsaw puzzle；谜一般的事、费解的人，多用单数：be a puzzle to somebody。
-动词：使困惑、使摸不着头脑；puzzle over、about 是苦苦思索；puzzle out 是琢磨出、想明白。
+动词：使困惑、使摸不着头脑；后接 over、about 是苦苦思索。
 习语 a piece of the puzzle 是（弄清全局要的）一条线索、其中的一块。
 派生：puzzled 是困惑的、摸不着头脑的；puzzling 是令人费解的；puzzlement 是困惑，不可数；puzzler 是（口语）难题、让人费解的事。并入本条。
 ① My grandfather does the crossword puzzle in the paper every morning.
@@ -11801,7 +11778,6 @@ pyramid
 /ˈpɪrəmɪd/
 核心：三支，可数。一是金字塔：古埃及等地方底、四个三角形侧面的巨大石砌陵墓；二是（几何）棱锥、角锥；也指金字塔形的一堆东西；
 三是金字塔式的结构：上面少、下面多的组织。形容词 pyramidal 是金字塔形的、角锥状的。
-pyramid scheme、pyramid selling 是金字塔式传销骗局。并入本条。
 ① The great pyramids of Egypt were built more than four thousand years ago.
 = 埃及的大金字塔建于四千多年前。
 the pyramids of Egypt = 埃及金字塔
@@ -11948,7 +11924,6 @@ quackery = 江湖骗术
 quad
 /kwɒd/
 核心：（口语）三支，可数。一是（大学里的）四方院子：quadrangle 的截短；二是四胞胎之一：quadruplet 的截短；三是 quads：股四头肌：quadriceps 的截短。
-复合词 quad bike 是（英式）四轮摩托。
 ① The students sat on the grass in the quad, waiting for their results.
 = 学生们坐在四方院的草地上等着成绩。
 the quad = 四方院子
@@ -12287,8 +12262,7 @@ quality
 /ˈkwɒləti/
 核心：名词：质量、品质，不可数，也可数：good、poor quality；上乘、优质，不可数：a sign of quality；（人的）品质、素质，可数；（物的）特性、特点，可数。
 形容词：优质的、高质量的，只放在名词前：quality goods。
-复合词：quality control 是质量控制；quality assurance 是质量保证；quality of life 是生活质量；quality time 是专心陪伴的时间；
-（英式）quality newspapers、the quality papers 是严肃大报。
+复合词：（英式）quality newspapers、the quality papers 是严肃大报。
 ① The quality of the food at the hotel has improved a great deal.
 = 那家旅馆的饭菜质量好多了。
 the quality of something = 某物的质量
@@ -12395,7 +12369,6 @@ a quantifier = 数量词
 quantitative
 /ˈkwɒntɪtətɪv/
 核心：数量的、定量的：跟多少、数量有关的。对着说的是 qualitative。副词 quantitatively，并入本条。
-复合词：quantitative easing 是量化宽松：央行大量印钱买债券、刺激经济。
 ① The government has set quantitative targets for the number of new homes to be built each year.
 = 政府给每年要建的新房数定了数量指标。
 quantitative targets = 数量指标
@@ -12414,7 +12387,7 @@ quantitatively = 定量地
 quantity
 /ˈkwɒntəti/
 核心：三支。一是数量、量，可数也可不可数：a small quantity of；二是大量、大批，不可数，也用复数：in quantity、quantities of；三是（对着质量说的）数量，不可数。
-习语 an unknown quantity 是摸不透的人、情况不明的事。复合词 quantity surveyor 是（英式）工料测量师、估算师。
+习语 an unknown quantity 是摸不透的人、情况不明的事。
 ① Add a small quantity of salt to the water before you boil the rice.
 = 煮米饭前往水里加少量的盐。
 a small quantity of something = 少量的某物
@@ -12440,7 +12413,6 @@ a quantity surveyor = 工料测量师
 quantum
 /ˈkwɒntəm/
 核心：名词：（物理）量子：能量的最小单位，可数，复数 quanta；（正式）数量、份额，单数。形容词：（物理）量子的。
-复合词：quantum leap 是巨大的飞跃、突破；quantum physics、quantum mechanics 是量子物理、量子力学；quantum theory 是量子理论。
 ① Light is made up of tiny packets of energy called quanta.
 = 光由叫作量子的微小能量包组成。
 quanta = 量子
@@ -12489,7 +12461,7 @@ quark = 夸克奶酪
 quarrel
 /ˈkwɒrəl/
 核心：名词，可数：争吵、吵架：a quarrel with somebody、about、over something；（不满的）理由、意见：have no quarrel with。
-动词：争吵、吵架：quarrel with somebody about、over something；quarrel with 也指不同意、对……有异议。过去式英式 quarrelled，美式 quarreled。
+动词：争吵、吵架：quarrel with somebody about、over something；也指不同意、对……有异议，后接 with。过去式英式 quarrelled，美式 quarreled。
 形容词 quarrelsome 是爱吵架的。并入本条。
 ① The two brothers had a quarrel about money and did not speak for years.
 = 兄弟俩为钱吵了一架，好几年不说话。
@@ -12553,7 +12525,6 @@ quarter
 （城市里的）区、地段：the old quarter；（某个）方面、方向、人士，多用复数：from all quarters；quarters 是（士兵、仆人的）住处、营房，复数；
 （体育）（比赛的）一节；（文学）宽恕、饶命：give no quarter。动词：把……分成四份；（正式）（给士兵）安排住处，多用被动。
 习语：at close quarters 是近距离地；give no quarter 是毫不留情；from all quarters 是从四面八方。
-复合词：quarter-final 是四分之一决赛，进了这一轮的人叫 quarter-finalist；quarter day 是（英国）季度结账日；quarter note 是（美式）四分音符。
 ① Cut the apple into quarters and take out the core.
 = 把苹果切成四瓣，挖掉核。
 cut something into quarters = 把某物切成四份
@@ -12814,8 +12785,8 @@ queen
 /kwiːn/
 核心：名词，可数：女王、女君主；王后：国王的妻子；（某方面的）女王、最出色的女人：the queen of crime；（蜜蜂、蚂蚁的）蜂王、蚁后；
 （国际象棋）王后；（纸牌）王后、Q。形容词 queenly 是女王般的、高贵的。并入本条。
-复合词：queen bee 是蜂王，也比喻（某个圈子里）最有势力的女人；queen mother 是太后；
-（英国，女王在位时）Queen's Counsel 是王室法律顾问（资深出庭律师），Queen's Bench 是王座法庭，turn Queen's evidence 是（同案犯）转作控方证人。
+复合词：（英国，女王在位时）Queen's Counsel 是王室法律顾问（资深出庭律师），Queen's Bench 是王座法庭，
+turn Queen's evidence 是（同案犯）转作控方证人。
 ① Queen Victoria ruled for more than sixty years.
 = 维多利亚女王统治了六十多年。
 Queen Victoria = 维多利亚女王
@@ -12943,7 +12914,7 @@ querulously = 发着牢骚地
 query
 /ˈkwɪəri/
 核心：名词，可数：疑问、询问、问题：尤指向官方、机构提出的；（计算机）查询。动词：询问、质疑、对……提出疑问：query whether、query something with somebody。
-过去式 queried。复合词 query language 是（计算机）查询语言。
+过去式 queried。
 ① If you have any queries about your bill, please ring this number.
 = 对账单有任何疑问，请拨这个电话。
 a query about something = 对某事的疑问
@@ -12999,7 +12970,6 @@ question
 call something into question 是对某事提出质疑；beg the question 是回避要害、让人不禁要问；pop the question 是（口语）求婚；
 without question 是毫无疑问、毫无异议地；there is no question of 是不可能有……；a question of 是……的问题、关乎……。
 派生：questioner 是提问的人；questioning 是讯问，不可数，也作形容词：怀疑的、探询的，副词 questioningly。
-复合词：question mark 是问号；question master 是（英式）问答节目主持人；question tag 是（语法）附加疑问句。并入本条。
 ① Can I ask you a question about the maths homework before the lesson starts?
 = 上课前我能问你一个关于数学作业的问题吗？
 ask a question = 问问题
@@ -13113,7 +13083,7 @@ complete a questionnaire = 填完调查表
 queue
 /kjuː/
 核心：名词，可数：（英式）（排着等的）队、行列：a queue of people、a queue for；（车辆的）长龙；（计算机）（等待处理的）队列。美式多说 line。
-动词：（英式）排队：queue (up) for、queue to do。习语 jump the queue 是插队，名词 queue-jumping 是插队，不可数。
+动词：（英式）排队：queue (up) for、queue to do。习语 jump the queue 是插队。
 ① There was a long queue outside the cinema.
 = 电影院外面排着长队。
 a long queue = 长队
@@ -13180,8 +13150,7 @@ quick
 （脾气）急的：a quick temper。副词：（口语）快地：Come quick!。名词：the quick 是（指甲下面的）嫩肉。
 副词 quickly 是快地、迅速地、马上；名词 quickness 是迅速、敏捷，不可数。并入本条。
 习语：(as) quick as a flash 是一眨眼、飞快地；cut somebody to the quick 是深深刺痛某人；quick off the mark 是起步快、反应快；
-quick on the uptake 是领会得快；a quick one 是（口语）匆匆喝一杯；in quick succession 是接二连三地。
-复合词：quick-fire 是连珠炮似的；quick-tempered 是急性子的；quick-witted 是机敏的、脑子快的。
+quick on the uptake 是领会得快；in quick succession 是接二连三地。
 ① I had a quick look at the report before the meeting started.
 = 会议开始前我匆匆看了一眼报告。
 a quick look = 匆匆一看
@@ -13319,7 +13288,7 @@ a quickstep = 快步舞曲
 quid
 /kwɪd/
 核心：两支。一是（英式口语）英镑：复数也是 quid：fifty quid；二是（嚼的）一块烟草，可数。
-习语 be quids in 是（英式口语）赚了一笔、占了便宜；quid pro quo 是交换条件、等价交换，拉丁语借词。
+习语 be quids in 是（英式口语）赚了一笔、占了便宜。
 ① He sold the old bike for twenty quid.
 = 他把旧自行车卖了二十英镑。
 twenty quid = 二十英镑
@@ -13815,7 +13784,7 @@ something quixotic about something = 某事有点堂吉诃德式
 quiz
 /kwɪz/
 核心：名词，可数，复数 quizzes：知识竞赛、智力问答：a quiz on、about；（美式）小测验、随堂考。动词：盘问、查问：quiz somebody about；（美式）小测验。
-过去式 quizzed。主持问答节目的人叫 quizmaster。quiz show 是电视问答节目。并入本条。
+过去式 quizzed。主持问答节目的人叫 quizmaster。并入本条。
 ① Our team won the general knowledge quiz at the pub.
 = 我们队在酒馆里的常识竞猜中赢了。
 a general knowledge quiz = 常识竞猜
@@ -13882,7 +13851,6 @@ have a quorum = 有法定人数
 quota
 /ˈkwəʊtə/
 核心：两支，可数。一是（官方规定的）限额、配额：允许进口、捕捞、录取的数量；二是定额、份额：应当得到或完成的那一份。
-quota system 是配额制度。
 ① The government has set a strict quota on the number of fish that can be caught.
 = 政府对可以捕捞的鱼的数量定了严格的配额。
 a quota on something = 对某物的配额
@@ -13913,7 +13881,6 @@ be always quotable = 说的话总是值得一引
 quotation
 /kwəʊˈteɪʃn/
 核心：三支。一是引文、引语，可数：从书、讲话里引来的一段话：a quotation from；二是引用，不可数；三是报价、估价，可数：a quotation for。
-quotation marks 是引号，复数。
 ① The essay begins with a quotation from Shakespeare.
 = 那篇文章开头引了莎士比亚的一段话。
 a quotation from somebody = 引自某人的一段话
@@ -14033,9 +14000,8 @@ rabbinical = 拉比的
 rabbit
 /ˈræbɪt/
 核心：名词：兔子：一种长耳朵、短尾巴、在地下打洞住的小动物，可数；兔肉，不可数；（美式）也泛指野兔。
-动词：rabbit on 是（英式口语）唠叨个没完、絮絮叨叨：rabbit on about。
+动词（英式口语）：唠叨个没完、絮絮叨叨，后接 on：rabbit on about。
 习语：breed like rabbits 是（含贬义）生得多、繁殖极快；go down the rabbit hole 是越陷越深、钻进一件越来越离奇的事里；pull a rabbit out of the hat 是变戏法似的拿出办法。
-复合词：rabbit warren 是兔子窝（地下的一大片兔子洞），也比喻（房屋、街道）迷宫似的地方。
 ① The children keep two rabbits in a hutch in the garden.
 = 孩子们在园子里的兔笼里养了两只兔子。
 a rabbit = 兔子
@@ -14066,7 +14032,6 @@ a rabbit warren = 兔子窝；迷宫似的地方
 rabble
 /ˈræbl/
 核心：（含贬义）乌合之众、闹哄哄的一群人；the rabble 是下层民众、老百姓（看不起的口气）。可数，多用单数。
-复合词 rabble-rouser 是煽动群众的人，rabble-rousing 是煽动群众（的）。
 ① A rabble of drunken fans gathered outside the station.
 = 一群喝醉的球迷聚在车站外面闹哄哄的。
 a rabble of something = 一群闹哄哄的某种人
@@ -14132,7 +14097,7 @@ race
 种族、人种，可数也可不可数；（动植物的）类、种，可数。动词：（和……）赛跑、比赛：race somebody、race against；让（马、车）参赛；
 飞奔、快速移动、急送；（心跳、思绪）急速、狂乱；（发动机）空转。
 习语：a race against time 是跟时间赛跑；the rat race 是（大城市里）激烈的生存竞争；the human race 是人类。
-复合词：race car、racing car 是赛车；race relations 是种族关系；race riot 是种族骚乱。
+复合词 racing car 是赛车。
 ① She ran in the hundred-metre race and came second.
 = 她跑了百米赛，得了第二名。
 a race = 赛跑、比赛
@@ -14271,7 +14236,7 @@ a raceway = 引水渠、水道
 racial
 /ˈreɪʃl/
 核心：种族的、种族之间的；种族歧视的、出于种族偏见的。只放在名词前。副词 racially。
-racialism、racialist 是（英式，旧式）种族主义、种族主义者，如今多说 racism、racist。racial profiling 是种族定性：警察按种族挑人盘查。并入本条。
+racialism、racialist 是（英式，旧式）种族主义、种族主义者，如今多说 racism、racist。并入本条。
 ① The law forbids racial discrimination in jobs and housing.
 = 法律禁止在就业和住房上搞种族歧视。
 racial discrimination = 种族歧视
@@ -14297,7 +14262,7 @@ racial profiling = 种族定性
 
 racing
 /ˈreɪsɪŋ/
-核心：竞赛、赛跑：尤指赛马、赛车，不可数：horse racing、motor racing。也作定语：a racing car、a racing driver。
+核心：竞赛、赛跑：尤指赛马、赛车，不可数：horse racing、motor racing。也作定语：a racing driver。
 ① He spends every Saturday watching the racing on television.
 = 他每个星期六都在电视上看赛马。
 the racing = 赛马
@@ -14342,7 +14307,6 @@ rack
 核心：名词，可数：架子、搁架：挂、放东西的架子：a luggage rack、a plate rack；（烤）一扇肋排：a rack of lamb；the rack 是（旧时的）拷问台。
 动词：（使）受折磨、（病痛、怀疑）折磨，多用被动：be racked with。
 习语：rack your brains 是绞尽脑汁；go to rack and ruin 是破败不堪、毁于一旦；off the rack 是（美式）现成的（衣服），英式说 off the peg。
-短语动词 rack up 是（口语）积累、取得（分数、利润、损失）。rack rate 是（旅馆）门市价、挂牌价。
 ① She put her bag on the luggage rack above her seat.
 = 她把包放在座位上方的行李架上。
 a luggage rack = 行李架
@@ -14467,7 +14431,7 @@ a rad = 拉德
 radar
 /ˈreɪdɑː(r)/
 核心：雷达：用无线电波探测远处飞机、船只等位置和速度的系统；也指雷达装置。不可数。
-习语：on somebody's radar 是在某人关注的范围内；under the radar、below the radar 是不引人注意地、悄悄地。radar trap 是（警察的）雷达测速区。
+习语：on somebody's radar 是在某人关注的范围内；under the radar、below the radar 是不引人注意地、悄悄地。
 ① The plane disappeared from the radar screen over the sea.
 = 那架飞机在海面上空从雷达屏幕上消失了。
 the radar screen = 雷达屏幕
@@ -14600,7 +14564,6 @@ radical
 核心：形容词：根本的、彻底的、基本的：radical change；激进的、极端的、主张彻底改革的；（美式俚语，旧式）棒极了的。
 名词，可数：激进分子、激进派；（化学）基、根；（数学）根号、根式。
 派生：radically 是根本上、彻底地；radicalism 是激进主义，不可数；radicalize 是使激进化，英式也拼 radicalise，名词 radicalization。
-radical chic 是（贬义）时髦的激进派作风：有钱人赶时髦、装出激进的样子。并入本条。
 ① The new manager made radical changes to the way the firm was run.
 = 新经理对公司的经营方式作了彻底的改变。
 radical changes = 彻底的改变
@@ -14652,8 +14615,6 @@ radio
 /ˈreɪdiəʊ/
 核心：名词：广播、电台：the radio，不可数，也可数：on the radio、a radio station；收音机，可数；无线电、无线电通信，不可数：by radio；无线电台、对讲机，可数。
 动词，过去式 radioed：用无线电发送、用无线电联系：radio for help。
-复合词：radio button 是（电脑屏幕上的）单选按钮；radio-controlled 是无线电遥控的；
-radio telescope 是射电望远镜；radio wave 是无线电波；radio-telephone 是无线电话。
 ① I heard the news on the radio this morning.
 = 今天早上我在广播里听到了那条新闻。
 on the radio = 在广播里
@@ -14704,7 +14665,7 @@ radioactivity = 放射性
 
 radiocarbon
 /ˌreɪdiəʊˈkɑːbən/
-核心：放射性碳、碳十四：碳的一种放射性同位素，用来测定古物的年代。不可数。radiocarbon dating 是放射性碳定年法。
+核心：放射性碳、碳十四：碳的一种放射性同位素，用来测定古物的年代。不可数。
 ① Radiocarbon dating showed that the bones were four thousand years old.
 = 放射性碳定年显示那些骨头有四千年了。
 radiocarbon dating = 放射性碳定年
@@ -14880,9 +14841,8 @@ rafting = 漂流
 rag
 /ræɡ/
 核心：名词：破布、抹布，可数；rags 是破衣服、破烂衣衫，复数；（口语，含贬义）低劣的报纸、小报，可数；（英式）（大学生为慈善办的）募捐游行周，可数，也作定语：rag week；
-拉格泰姆乐曲：ragtime 风格的曲子，可数。动词：rag on somebody 是（美式口语）取笑、数落某人；（英式旧式）戏弄、捉弄。
+拉格泰姆乐曲：ragtime 风格的曲子，可数。动词：（美式口语）取笑、数落，后接 on；（英式旧式）戏弄、捉弄。
 习语：lose your rag 是（英式口语）发火；from rags to riches 是从赤贫到暴富；glad rags 是（口语）最好的衣服、盛装；like a red rag to a bull 是（英式）让人火冒三丈。
-复合词：rag doll 是布娃娃；rag rug 是碎布地毯。
 ① He wiped the oil off his hands with an old rag.
 = 他用一块旧抹布擦掉手上的油。
 an old rag = 一块旧抹布
@@ -15148,7 +15108,7 @@ a raider = 突袭者、抢劫者
 rail
 /reɪl/
 核心：名词，可数：栏杆、扶手：a handrail；（挂东西的）横杆：a towel rail、a curtain rail；钢轨、铁轨，多用复数；铁路、铁路交通，不可数：by rail。
-动词：rail against、at 是（正式）怒斥、抱怨；rail in、rail off 是用栏杆围起、用栏杆隔开。
+动词：rail against、at 是（正式）怒斥、抱怨。
 习语 go off the rails 是（口语）（人）走上歪路、行为失常，也指（事情）出轨、失控。
 ① Hold on to the rail as you go down the stairs.
 = 下楼梯时抓住扶手。
@@ -15352,7 +15312,6 @@ it never rains but it pours = 祸不单行
 rainbow
 /ˈreɪnbəʊ/
 核心：彩虹：雨后天空出现的七色弧形光带。可数。也比喻五颜六色、各式各样：a rainbow of colours。
-复合词 rainbow trout 是虹鳟。
 ① A rainbow appeared over the hills after the storm.
 = 暴风雨过后，山那边出现了一道彩虹。
 a rainbow = 彩虹
@@ -15551,7 +15510,7 @@ raise a glass = 举杯祝酒
 
 raised
 /reɪzd/
-核心：两支。一是高出来的、凸起的、比周围高的：a raised platform；二是（声音、程度）提高了的、升高的：a raised voice。复合词 raised bed 是高出地面的种植床。
+核心：两支。一是高出来的、凸起的、比周围高的：a raised platform；二是（声音、程度）提高了的、升高的：a raised voice。
 ① The speakers sat on a raised platform at the front of the hall.
 = 发言人坐在大厅前面一个高出来的台子上。
 a raised platform = 高台
@@ -15621,7 +15580,6 @@ rake
 /reɪk/
 核心：名词，可数：耙子：长柄、末端带齿、用来耙树叶、平整土地的工具；（旧式）浪荡子、放荡的人。
 动词：（用耙子）耙、耙平；搜寻、翻找：rake through；（用枪、光）扫射、扫过。
-短语动词：rake in 是（口语）大把地赚（钱）；rake over 是重提（旧事）；rake up 是翻（旧账）、重提（不愉快的事），也指凑集。名词 rake-off 是（口语）（非法的）回扣、分成。
 ① He swept the dead leaves into a pile with a rake.
 = 他用耙子把落叶拢成一堆。
 a rake = 耙子
@@ -15689,7 +15647,7 @@ play something rallentando = 渐慢演奏某段
 rally
 /ˈræli/
 核心：名词，可数：（政治、抗议的）集会、大会：a peace rally；（汽车、摩托车的）拉力赛；（网球等的）一个回合；（病情、价格、比分的）回升、好转。
-动词：（使）集合、团结起来：rally support；（病情、价格）恢复、回升；rally round、rally around 是团结起来支持、齐心协力帮助。过去式 rallied。
+动词：（使）集合、团结起来：rally support；（病情、价格）恢复、回升。过去式 rallied。
 ① Thousands of people attended the rally in the main square.
 = 成千上万的人参加了主广场上的集会。
 attend a rally = 参加集会
@@ -15744,8 +15702,7 @@ a rallying call = 团结的号召
 ram
 /ræm/
 核心：名词，可数：公羊：没阉过的雄羊；撞锤：a battering ram。
-动词，过去式 rammed：猛撞、撞击：ram into；硬塞、使劲推：ram something into；（口语）ram something home 是反复强调、把……讲透。
-复合词 ram-raid 是（英式）开车撞开商店橱窗抢劫，干这种事的人叫 ram-raider，名词 ram-raiding。
+动词，过去式 rammed：猛撞、撞击；硬塞、使劲推：ram something into；（口语）ram something home 是反复强调、把……讲透。
 ① The ram stood on the hill watching over the sheep.
 = 那只公羊站在山上看着羊群。
 a ram = 公羊
@@ -15873,7 +15830,6 @@ a problem ramifies = 问题扩散变复杂
 ramp
 /ræmp/
 核心：名词，可数：坡道、斜坡：连接高低两处的斜面，方便轮椅、车辆上下；（英式）（路上的）减速坎；（美式）（高速公路的）匝道：an exit ramp；（飞机的）舷梯。
-短语动词 ramp up 是（口语）提高、增加（产量、力度）。
 ① There is a ramp at the side door for people in wheelchairs.
 = 侧门有一条给坐轮椅的人用的坡道。
 a ramp = 坡道
@@ -15953,7 +15909,6 @@ a ramshackle government = 松散混乱的政府
 ranch
 /rɑːntʃ/
 核心：（美国、加拿大的）大农场、牧场：养牛、马、羊的大片土地。可数。经营牧场的人叫 rancher；这一行叫 ranching，不可数。
-复合词 ranch dressing 是（美式）牧场沙拉酱。并入本条。
 ① He grew up on a cattle ranch in Texas and learned to ride before he could read.
 = 他在得克萨斯的一个养牛场长大，还不识字就学会了骑马。
 a cattle ranch = 养牛场
@@ -16050,7 +16005,7 @@ range
 /reɪndʒ/
 核心：名词：范围、幅度，可数：a range of、an age range；（同类东西的）一系列、种类：a wide range of；（武器、视力、声音所及的）距离、射程，不可数也可数：out of range；
 （一排）山脉：a mountain range；（射击、导弹的）靶场；（美式）大牧场、牧区；（旧式）炉灶。
-动词：（在一定范围内）变动、分布：range from A to B；（话题）涉及、包括：range over；（正式）排列、使对阵：range against；漫游、徘徊。
+动词：（在一定范围内）变动、分布：range from A to B；漫游、徘徊。
 习语：out of range 是在范围外、够不着；within range 是在范围内、够得着。
 派生、复合：rangefinder 是测距仪；ranger 见另条。
 ① The price range of the houses is from two to five hundred thousand pounds.
@@ -16134,7 +16089,7 @@ rank
 the ranks 是士兵、普通成员（对着军官、领导说），复数；（某个团体的）成员：join the ranks of。
 动词：（使）位列、把……排名：rank as、rank among、be ranked third；（美式）级别高于。形容词：（植物）长得过密的；（气味）极难闻的、恶臭的；十足的、绝对的：a rank outsider。
 习语：break ranks 是（成员）不再步调一致、公开唱反调；close ranks 是团结一致（尤指为了自保）；the rank and file 是普通成员、普通士兵；pull rank 见 pull。
-派生：top-ranked 是排名靠前的。rank correlation 是（统计）等级相关。
+派生：top-ranked 是排名靠前的。
 ① He rose to the rank of colonel before he retired.
 = 他退役前升到了上校军衔。
 the rank of colonel = 上校军衔
@@ -16274,7 +16229,6 @@ rap
 核心：名词：说唱乐、饶舌：一种节奏强、词句押韵、快速念出来的流行音乐，不可数；（快速的）敲击、叩击声，可数：a rap at the door；（美式口语）罪名、指控；名声。
 动词：（快速地）敲、叩：rap on、at；说唱；（口语）公开批评、指责，多用于新闻标题。过去式 rapped。
 习语：take the rap 是（口语）背黑锅、代人受过；a rap on the knuckles 是（口语）轻微的惩罚、训斥；beat the rap 是（美式）逃脱罪责。
-rap sheet 是（美式口语）犯罪记录。
 ① My younger brother listens to rap and hip-hop on his headphones all day.
 = 我弟弟整天戴着耳机听说唱和嘻哈。
 rap = 说唱乐
@@ -16347,7 +16301,6 @@ rapeseed oil = 菜籽油
 rapid
 /ˈræpɪd/
 核心：迅速的、快速的、急促的：多说变化、增长、动作。副词 rapidly；名词 rapidity，不可数。并入本条。
-复合词：rapid transit 是（城市的）快速交通；rapid-response 是快速反应的。
 ① Over the last twenty years the country has seen a rapid growth in its population.
 = 近二十年来那个国家人口增长迅速。
 rapid growth = 迅速的增长
@@ -16676,10 +16629,10 @@ the ideas of Rastafarianism = 拉斯塔法里教的理念
 
 rat
 /ræt/
-核心：名词，可数：大老鼠、耗子；（口语，含贬义）卑鄙小人、叛徒、告密者。动词，过去式 ratted：rat on 是（口语）告发、出卖；rat out 是（美式口语）告发、出卖。
+核心：名词，可数：大老鼠、耗子；（口语，含贬义）卑鄙小人、叛徒、告密者。
+动词（口语）：告发、出卖，后接 on，美式也接 out。过去式 ratted。
 感叹词 rats 是（旧式口语）真倒霉、讨厌。
 习语：smell a rat 是觉得有诈、起疑心；like rats leaving a sinking ship 是（贬义）像老鼠逃离沉船一样各自逃命。
-复合词：rat-a-tat 是（敲门等）咚咚声；rat run 是（英式口语）（司机为避开拥堵抄的）小路捷径；rat-arsed 是（英式粗俗俚语）烂醉的。
 ① The barn was full of rats, so the farmer got a cat.
 = 谷仓里全是耗子，农民就弄了一只猫。
 a rat = 大老鼠
@@ -16712,6 +16665,9 @@ rat-arsed = （粗俗）烂醉的
 = 我们家满地都是玩具，因为有两个不到四岁的小娃娃。
 a rug rat = （北美口语）小娃娃、小孩
 戏谑说法，指还在地上爬的幼儿。
+⑪ The thief was caught after one of his friends ratted him out to the police for a reward.
+= 那个小偷被抓了，因为他的一个朋友为了赏金向警方告发了他。
+rat out = （美式口语）告发（常拆开用：rat somebody out）
 
 ratatouille
 /ˌrætəˈtuːi/
@@ -16736,7 +16692,7 @@ a lazy ratbag = 懒鬼
 
 ratchet
 /ˈrætʃɪt/
-核心：名词，可数：棘轮：只能朝一个方向转动、带齿的机械装置。动词：ratchet up 是（使）逐步增加、步步加码；ratchet down 是逐步减少。
+核心：名词，可数：棘轮：只能朝一个方向转动、带齿的机械装置。动词：ratchet down 是逐步减少。
 ① The spanner has a ratchet, so you can turn the nut without lifting it off.
 = 那把扳手带棘轮，不用拿下来就能拧螺母。
 a ratchet = 棘轮
@@ -16993,7 +16949,6 @@ rattle
 /ˈrætl/
 核心：动词：（使）咯咯作响、嘎嘎地响：rattle the door；（车）咔嗒咔嗒地开过：rattle along；（口语）使紧张不安、使慌乱。
 名词，可数：咯咯声、嘎嘎声，单数；（婴儿玩的）拨浪鼓；（旧时球迷用的）木制摇响器。
-短语动词：rattle around 是（在大地方里）空荡荡地过；rattle off 是一口气说出、背出；rattle on 是喋喋不休地讲。
 习语 rattle somebody's cage 是（口语）惹恼某人、故意激怒某人。
 ① The wind rattled the windows all night.
 = 风把窗户吹得整夜咯咯作响。
@@ -17109,7 +17064,7 @@ rave
 /reɪv/
 核心：动词：rave about、over 是（口语）热烈赞扬、极力夸奖；（因发怒、发疯）胡言乱语、咆哮：rant and rave。
 名词，可数：（英式）锐舞派对：通宵放电子舞曲的大型聚会；也作形容词：热烈赞扬的：rave reviews。
-复合词：rave review 是热烈的好评；rave-up 是（英式旧式口语）狂欢派对。参加锐舞派对的人叫 raver，见另条。
+参加锐舞派对的人叫 raver，见另条。
 ① Everyone is raving about the new Italian restaurant in the high street.
 = 人人都在夸大街上那家新开的意大利餐馆。
 rave about something = 热烈夸奖某物
@@ -17130,7 +17085,7 @@ a rave-up = 狂欢派对
 
 ravel
 /ˈrævl/
-核心：（旧式）两支。一是（使）缠结、纠缠；二是 ravel out 是解开、理清，也指（毛线）松开散掉。过去式英式 ravelled，美式 raveled。反义 unravel 更常用。
+核心：（旧式）（使）缠结、纠缠。过去式英式 ravelled，美式 raveled。反义 unravel 更常用。
 ① The kitten played with the wool until it was hopelessly ravelled.
 = 小猫玩那团毛线，玩得乱成一团没法理了。
 be ravelled = 缠结在一起
@@ -17250,10 +17205,9 @@ ravishingly beautiful = 美得让人陶醉
 
 raw
 /rɔː/
-核心：形容词。一是（食物）生的、没煮过的；二是（材料）未加工的、天然的：raw material、raw cotton；（数据）未经处理的；三是（伤口、皮肤）擦破的、红肿疼痛的；
+核心：形容词。一是（食物）生的、没煮过的；二是（材料）未加工的、天然的：raw cotton；（数据）未经处理的；三是（伤口、皮肤）擦破的、红肿疼痛的；
 四是（感情）强烈而露骨的、未加掩饰的；五是（人）没经验的、生手的：a raw recruit；六是（天气）阴冷潮湿的。名词 rawness，不可数。并入本条。
 习语：a raw deal 是不公平的待遇；touch a raw nerve、hit a raw nerve 是触到痛处；in the raw 是（口语）赤裸的、原汁原味的。
-复合词 raw-boned 是骨瘦如柴的、骨架大的。
 ① In Japan it is common to eat raw fish.
 = 在日本吃生鱼很普遍。
 raw fish = 生鱼
@@ -17352,8 +17306,7 @@ razor
 /ˈreɪzə(r)/
 核心：剃刀、剃须刀：刮胡子、剃毛用的工具。可数。
 习语 on a razor's edge、on the razor's edge 是处在危险的边缘、千钧一发。
-复合词：razor blade 是剃须刀片；razor-sharp 是锋利无比的，也指（头脑）极敏锐的；razor-thin 是极薄的、极微小的；razor wire 是带刺的铁丝网；
-razor shell 是（英式）竹蛏；razorbill 是刀嘴海雀。
+复合词：razorbill 是刀嘴海雀。
 ① He shaved with an old-fashioned razor that had belonged to his grandfather.
 = 他用一把祖父留下来的老式剃刀刮胡子。
 an old-fashioned razor = 老式剃刀
@@ -17416,10 +17369,9 @@ the razzmatazz of something = 某事的热闹排场
 
 reach
 /riːtʃ/
-核心：动词：到达、抵达（某地）：reach the coast；（伸手）够到、够得着：reach the top shelf；伸手去拿：reach for、reach out；（数量、程度）达到：reach a hundred；
+核心：动词：到达、抵达（某地）：reach the coast；（伸手）够到、够得着：reach the top shelf；伸手去拿：reach for；（数量、程度）达到：reach a hundred；
 （经过讨论）达成（协议、决定）：reach an agreement；（用电话等）联系上：reach somebody；（信息、节目）传到、影响到（人）。
 名词：（手臂、能力、影响的）所及范围，不可数或单数：within reach、out of reach；the reaches 是（河流的）河段、（组织的）层级，复数。
-短语动词 reach out 是伸出手，也指主动接触、伸出援手：reach out to somebody。
 习语：out of reach 是够不着、力所不及；within reach 是够得着、力所能及；within easy reach 是很近、很方便到达。
 ① We reached the coast just as the sun was going down.
 = 太阳快落山时，我们到了海边。
@@ -17486,7 +17438,7 @@ reacquaint yourself with somewhere = 重新熟悉某处
 
 react
 /riˈækt/
-核心：不及物。一是（对……）作出反应：react to；二是（因不满而）反抗、反对：react against；三是（化学）起反应：react with；四是（身体对药物、食物）过敏、起不良反应：react to。
+核心：不及物。一是（对……）作出反应：react to；二是（化学）起反应：react with；三是（身体对药物、食物）过敏、起不良反应：react to。
 ① How did your parents react to the news?
 = 你父母听到这个消息有什么反应？
 react to something = 对某事作出反应
@@ -17507,7 +17459,7 @@ react badly to something = 对某物反应很大
 reaction
 /riˈækʃn/
 核心：名词：反应：react 的名词，可数也可不可数：a reaction to；反感、抵制，单数：a reaction against；（化学）反应，可数；（身体的）不良反应、过敏，可数；
-reactions 是反应能力、反应速度，复数：quick reactions；（政治上的）保守、反动，不可数。复合词 reaction time 是反应时间。
+reactions 是反应能力、反应速度，复数：quick reactions；（政治上的）保守、反动，不可数。
 ① What was his reaction when you told him?
 = 你告诉他的时候，他什么反应？
 somebody's reaction = 某人的反应
@@ -17591,10 +17543,8 @@ read
 核心：动词，过去式、过去分词 read /red/：读、阅读：read a book、read about；朗读、念：read aloud、read something to somebody；看懂（文字、乐谱、地图、表情）：read music、read a map；
 （仪表）显示、读数为；（英式）（在大学）攻读：read history；（文字）读起来、写着：read well、the sign reads；理解、解读：read something as；（电脑）读取；（英式）（议会）审读（议案）。
 名词：（口语）读物：a good read，单数；阅读，单数：have a read。
-短语动词：read back 是复述、回读；read into 是（对话语）过度解读；read on 是接着往下读；read out 是大声读出；read over、read through 是从头到尾读一遍；
-read up on 是（为了解某事）研读、查资料。
 习语：read between the lines 是体会言外之意；read somebody's mind 是看透某人的心思；take something as read 是（英式）认为某事理所当然、无须再提；
-read somebody like a book 是对某人了如指掌。复合词 read-only 是只读的；read-write 是可读写的；read-in 是（数据）读入。
+read somebody like a book 是对某人了如指掌。
 ① She reads a book every week on the train to work.
 = 她每周坐火车上班的路上读一本书。
 read a book = 读书
@@ -17777,7 +17727,6 @@ reading
 /ˈriːdɪŋ/
 核心：名词：阅读、读书，不可数：reading and writing；读物、阅读材料，不可数：light reading；（公开的）朗诵会、宣读，可数：a poetry reading；
 （仪表的）读数，可数：a meter reading；理解、解读，可数：my reading of the situation；（英国议会对议案的）一读、二读、三读，可数。形容词：阅读的、阅读用的。
-复合词 reading room 是阅览室。
 ① Reading is her favourite way to relax after work.
 = 读书是她下班后最喜欢的放松方式。
 reading = 阅读
@@ -17838,7 +17787,6 @@ ready
 就要、快要：ready to cry、ready to drop。放在名词前：迅速的、现成的、随时可用的：a ready answer、ready cash。
 动词：（正式）使作好准备：ready yourself for。名词 the ready 是（英式口语）现金。
 习语：ready and waiting 是准备就绪、只等着；get ready 是作准备。
-复合词：ready-made 是现成的；ready reckoner 是（英式）计算便查表；ready-to-wear 是（衣服）成衣的、现成的。
 ① Are you ready to go, or do you need more time?
 = 你准备好走了吗，还是要再等一会儿？
 be ready to do = 准备好做某事
@@ -17922,7 +17870,6 @@ real
 核心：形容词：真的、真正的、真实的：存在的、不是想象的；真心的、实实在在的：real friends；纯正的、不是仿造的：real leather；（用来强调）十足的、真正的：a real problem；
 （经济）实际的、扣除物价因素后的：real wages。副词：（美式口语）非常、真：real good。
 习语：for real 是（口语）真的、当真的；get real 是（口语）现实点吧、别做梦了；the real thing 是真货、真爱。
-复合词 real tennis 是（英式）室内网球；real time 是实时：in real time；real-world 是现实世界的。
 ① Is this a real diamond or a piece of glass?
 = 这是真钻石还是一块玻璃？
 a real diamond = 真钻石
@@ -18033,7 +17980,6 @@ realistically = 实事求是地说、现实地
 reality
 /riˈæləti/
 核心：两支。一是现实、实际情况，不可数：face reality；二是事实、现实情况，可数：the realities of life、become a reality。习语 in reality 是实际上、事实上。
-复合词 reality TV、reality television 是真人秀节目。
 ① He refused to face reality and went on spending money he did not have.
 = 他不肯面对现实，继续花他没有的钱。
 face reality = 面对现实
@@ -18370,7 +18316,7 @@ face rearward = 朝后
 reason
 /ˈriːzn/
 核心：名词：理由、原因，可数：the reason for、the reason why、the reason that；理智、理性、道理，不可数：lose your reason、listen to reason。
-动词：推理、推断：reason that；reason with 是跟……讲道理、劝说；reason out 是（通过思考）想出、推究出。
+动词：推理、推断：reason that。
 习语：within reason 是在合理范围内；it stands to reason 是显而易见、理所当然；for some reason 是不知为什么；see reason 是听人劝、明白过来；
 by reason of 是（正式）由于；with good reason 是有充分理由。
 ① What was the reason for his sudden decision to leave?
@@ -19032,7 +18978,6 @@ reception
 /rɪˈsepʃn/
 核心：可数也可不可数。一是（旅馆、办公楼的）接待处、前台，不可数：at reception；二是招待会、欢迎会：a wedding reception；
 三是（对人、作品的）反应、接受：a warm reception；四是（收音机、电视、手机的）接收效果、信号，不可数；五是接纳、接待。
-复合词 reception room 是（英式）客厅、起居室（房地产用语）。
 ① Leave your key at reception when you go out.
 = 出门时把钥匙留在前台。
 at reception = 在前台
@@ -19209,7 +19154,7 @@ recipients = 受者
 
 reciprocal
 /rɪˈsɪprəkl/
-核心：相互的、互惠的、对等的：双方都给、都做的。副词 reciprocally。（语法）reciprocal verb、reciprocal pronoun 是相互动词、相互代词：如 each other。并入本条。
+核心：相互的、互惠的、对等的：双方都给、都做的。副词 reciprocally。（语法）reciprocal pronoun 是相互代词：如 each other。并入本条。
 ① The two countries signed a reciprocal agreement on health care.
 = 两国签订了一项互惠的医疗协议。
 a reciprocal agreement = 互惠协议
@@ -19315,8 +19260,7 @@ recklessness = 鲁莽
 reckon
 /ˈrekən/
 核心：动词。一是（口语）认为、觉得、猜想：reckon that；二是（正式）估计、估算：reckon something at、be reckoned to be；三是被看作、被认为：be reckoned as、among；四是计算、算出。
-短语动词：reckon on 是指望、预料到；reckon up 是（英式）算出总数；reckon with 是认真对付、把……考虑在内，也说 a force to be reckoned with（不可小觑的力量）；
-reckon without 是没料到、没有考虑到。
+习语 a force to be reckoned with 是不可小觑的力量。
 ① I reckon it will rain before the end of the afternoon.
 = 我估计傍晚以前会下雨。
 reckon that… = 认为……
@@ -19751,7 +19695,7 @@ record
 唱片，可数。也作形容词：创纪录的：a record number。
 动词，重音在后：记录、记载、登记；录音、录像、录制：record a song；（仪器）显示、记录。
 习语：off the record 是不得公开的、私下说的；on record 是有记录的、公开表态的；for the record 是为了记录在案、郑重说明；set the record straight 是澄清事实；
-break a record 是打破纪录。复合词：record-breaker 是打破纪录的人或事物；record holder 是纪录保持者；record-breaking 是破纪录的。
+break a record 是打破纪录。
 ① The school keeps a record of every pupil's marks.
 = 学校记录着每个学生的成绩。
 keep a record of something = 记录某事
@@ -19979,7 +19923,6 @@ recreate the atmosphere = 重现氛围
 recreation
 /ˌrekriˈeɪʃn/
 核心：消遣、娱乐、休闲活动：工作之余做来放松、取乐的事。不可数，也可数。
-复合词 recreation room 是（美式）娱乐室、活动室。
 ① Walking in the hills is his favourite form of recreation.
 = 在山间散步是他最喜欢的消遣。
 a form of recreation = 一种消遣
@@ -19993,7 +19936,7 @@ a recreation room = 娱乐室
 
 recreational
 /ˌrekriˈeɪʃənl/
-核心：消遣的、娱乐的、休闲的。只放在名词前。复合词 recreational vehicle 是（美式）房车，缩写 RV。
+核心：消遣的、娱乐的、休闲的。只放在名词前。
 ① The park offers recreational activities such as boating and fishing.
 = 那个公园提供划船、钓鱼这类休闲活动。
 recreational activities = 休闲活动
@@ -20262,9 +20205,7 @@ red
 /red/
 核心：形容词，比较级 redder：红色的；（脸）红的、涨红的：go red；（头发）红褐色的；（口语，旧式，常含贬义）左派的、共产主义的。
 名词：红色，可数也可不可数；红葡萄酒，不可数；（口语，贬义）左派分子，可数。
-习语：in the red 是赤字、亏损、欠款；see red 是（口语）大怒；be caught red-handed 是被当场抓住；paint the town red 是（口语）外出狂欢；
-red tape 是繁文缛节、官僚作风；a red herring 是转移注意力的东西、障眼法；roll out the red carpet 是隆重欢迎。
-复合词：red-blooded 是精力旺盛的、有男子气概的；red-faced 是（因窘迫、生气）脸涨红的；red-headed 是红头发的；red-top 是（英式）通俗小报；red wine 是红葡萄酒；red zone 是危险区、禁区。
+习语：in the red 是赤字、亏损、欠款；see red 是（口语）大怒；be caught red-handed 是被当场抓住；paint the town red 是（口语）外出狂欢；roll out the red carpet 是隆重欢迎。
 ① She wore a bright red dress to the party.
 = 她穿了一条鲜红的裙子去参加派对。
 a red dress = 红裙子
@@ -20698,7 +20639,7 @@ a redoubtable opponent = 难缠的对手
 
 redound
 /rɪˈdaʊnd/
-核心：（正式）redound to 是增进、有助于（名誉、利益）：redound to somebody's credit 是为某人增光。
+核心：（正式）动词，后接 to：增进、有助于（名誉、利益）：redound to somebody's credit 是为某人增光。
 ① His honesty in the affair redounds to his credit.
 = 他在那件事上的诚实为他增了光。
 redound to somebody's credit = 为某人增光
@@ -20769,7 +20710,7 @@ a redshirt = 延缓参赛的球员
 reduce
 /rɪˈdjuːs/
 核心：动词，及物。一是减少、降低、缩小（数量、价格、大小）：reduce something by、from、to；二是 reduce somebody、something to 是使沦为、使陷入（更坏的状态）：reduce somebody to tears；
-三是（烹饪）（通过煮沸）浓缩（汁、汤）；四是（化学）还原。习语 reduce to doing 是被迫做（某种丢脸的事）。
+三是（烹饪）（通过煮沸）浓缩（汁、汤）；四是（化学）还原。
 ① The company has reduced the price of its cars by ten per cent.
 = 那家公司把汽车降价百分之十。
 reduce the price = 降价
@@ -20975,7 +20916,6 @@ reel
 /riːl/
 核心：名词，可数：（缠线、胶片、钓鱼线的）卷轴、线轴；一卷（胶片、线）；里尔舞：苏格兰、爱尔兰的一种快步舞；也指它的舞曲。
 动词：（因受打击、头晕）站立不稳、摇晃、踉跄；（因震惊）发懵、晕头转向：reel from。
-短语动词：reel in 是用卷轴收（鱼线）、把（鱼）拉上来；reel off 是一口气说出、滔滔不绝地背出；reel out 是放出（线）。复合词 reel-to-reel 是（录音机）开盘式的。
 ① She bought a reel of cotton to mend the dress.
 = 她买了一轴棉线来补那条裙子。
 a reel of cotton = 一轴棉线
@@ -21038,7 +20978,7 @@ the old refectory = 老食堂
 
 refer
 /rɪˈfɜː(r)/
-核心：动词，过去式 referred。一是 refer to 是提到、谈到、指的是：refer to something、refer to somebody as；二是 refer to 是查阅、参考（书、笔记）；
+核心：动词，过去式 referred。一是提到、谈到、指的是，后接 to：refer to something、refer to somebody as；二是查阅、参考（书、笔记），也后接 to；
 三是 refer somebody、something to 是把（人）转介给、把（问题）提交给（专家、机构）：refer a patient to a specialist。
 ① She often refers to her childhood in Wales in her novels.
 = 她在小说里常常提到她在威尔士的童年。
@@ -21717,7 +21657,6 @@ first refusal = 优先购买权
 refuse
 /rɪˈfjuːz/（动）/ˈrefjuːs/（名）
 核心：动词，重音在后：拒绝、不肯：refuse to do；拒绝接受、拒绝给予：refuse an offer、refuse somebody something。名词，不可数，重音在前：（正式）垃圾、废物。
-复合词 refuse collector 是（正式，英式）垃圾清运工。
 ① My brother refused to lend me any money until I paid back what I already owed.
 = 我哥哥不肯再借我钱，除非我先把欠的还上。
 refuse to do = 拒绝做某事
@@ -21883,7 +21822,7 @@ information regarding something = 关于某事的信息
 
 regardless
 /rɪˈɡɑːdləs/
-核心：副词：不顾、不管怎样、无论如何：多放在句末。regardless of 是不管、不顾：介词短语。
+核心：副词：不顾、不管怎样、无论如何：多放在句末。
 ① The weather was terrible, but they went ahead with the match regardless.
 = 天气很糟，但他们不管不顾，照样比赛。
 regardless = 不管怎样
@@ -22457,7 +22396,7 @@ rehouse somebody = 给某人安排住房
 reign
 /reɪn/
 核心：名词，可数：（君主的）统治时期、在位期：during the reign of；（某人、某物的）支配时期、主宰。动词：统治、在位；（某种情况）占优势、盛行：silence reigned。
-reigning 作形容词：在位的、卫冕的：the reigning champion。习语 reign of terror 是恐怖统治。
+reigning 作形容词：在位的、卫冕的：the reigning champion。
 ① The castle was built during the reign of Queen Elizabeth the First.
 = 那座城堡建于伊丽莎白一世统治时期。
 during the reign of somebody = 在某人统治时期
@@ -22515,7 +22454,7 @@ reimbursement = 报销
 
 rein
 /reɪn/
-核心：名词，可数，多用复数：缰绳；the reins 是控制权、支配权：take the reins。动词：rein in 是勒住（马），也比喻控制、约束（开支、行为）。
+核心：名词，可数，多用复数：缰绳；the reins 是控制权、支配权：take the reins。
 习语：give free rein to 是给……自由、放手让……干；keep a tight rein on 是严格控制；take the reins 是掌权、接管。
 ① She pulled on the reins and the horse stopped.
 = 她拉了拉缰绳，马停了下来。
@@ -22839,7 +22778,7 @@ a relapse = 复发
 
 relate
 /rɪˈleɪt/
-核心：动词。一是 relate to、relate A to B 是（使）有关联、把……联系起来、涉及：relate to something；二是 relate to 是理解、体谅、有共鸣：relate to somebody；
+核心：动词。一是 relate A to B 是（使）有关联、把……联系起来、涉及，不带宾语时后接 to：relate to something；二是理解、体谅、有共鸣，也后接 to：relate to somebody；
 三是（正式）讲述、叙述（故事、经历）：relate something to somebody。
 ① The report relates to the period after the war.
 = 那份报告涉及战后那段时期。
@@ -22942,7 +22881,7 @@ a relationship between A and B = 甲乙之间的关联
 relative
 /ˈrelətɪv/
 核心：名词，可数：亲戚、亲属：a close relative；（同属一类的）动物、植物。形容词：相对的、比较而言的：relative to；（语法）关系的：relative clause、relative pronoun。
-副词 relatively 是相对地、比较而言。复合词 relative density 是（物理）相对密度。
+副词 relatively 是相对地、比较而言。
 ① She went to stay with relatives in Scotland for the summer.
 = 她去苏格兰的亲戚家过夏天。
 relatives = 亲戚
@@ -23239,7 +23178,6 @@ relief
 /rɪˈliːf/
 核心：名词。一是宽慰、轻松、如释重负，不可数也可单数：to somebody's relief、a sense of relief；二是（痛苦、焦虑的）缓解、解除：pain relief；
 三是救济、救援物资：famine relief；四是换班的人、接替者；五是（雕刻的）浮雕，不可数也可数；（地势的）高低起伏。
-复合词 relief road 是（英式）辅路、分流道路。
 ① It was a great relief to hear that everyone was safe.
 = 听说大家都平安，真让人松了一口气。
 a great relief = 大大的宽慰
@@ -23345,7 +23283,7 @@ the religiosity of politics = 政治中的宗教色彩
 religious
 /rɪˈlɪdʒəs/
 核心：三支。一是宗教的、宗教上的：religious beliefs；二是虔诚的、笃信宗教的；三是一丝不苟的、严谨认真的。
-副词 religiously 是虔诚地、一丝不苟地、雷打不动地；名词 religiousness，不可数。复合词 religious school 是宗教学校。并入本条。
+副词 religiously 是虔诚地、一丝不苟地、雷打不动地；名词 religiousness，不可数。并入本条。
 ① The law protects people's right to their religious beliefs.
 = 法律保护人们的宗教信仰权利。
 religious beliefs = 宗教信仰
@@ -23464,7 +23402,7 @@ with reluctance = 勉强地
 
 rely
 /rɪˈlaɪ/
-核心：rely on、rely upon 是依靠、依赖：rely on somebody for something；信赖、指望：rely on somebody to do。过去式 relied。
+核心：动词，后接 on 或 upon：依靠、依赖：rely on somebody for something；信赖、指望：rely on somebody to do。过去式 relied。
 相关词：reliable 是可靠的；reliance 是依赖。注意 rely 后面必须加 on 或 upon；depend on 也有「取决于」的意思。
 ① The old woman relies on her neighbours for help with the shopping.
 = 那个老太太买东西要靠邻居帮忙。
@@ -23842,7 +23780,7 @@ remission of fees = 免除费用
 
 remit
 /ˈriːmɪt/（名）/rɪˈmɪt/（动）
-核心：名词，单数，重音在前：（英式）职权范围、职责：within the remit of。动词，过去式 remitted，重音在后：（正式）汇款、寄钱；免除（债务、处罚）；remit to 是把（问题、案子）提交给（机构）。
+核心：名词，单数，重音在前：（英式）职权范围、职责：within the remit of。动词，过去式 remitted，重音在后：（正式）汇款、寄钱；免除（债务、处罚）。
 名词 remittance 是汇款，见另条。
 ① Questions of pay are outside the remit of this committee.
 = 薪酬问题不在本委员会职权范围之内。
@@ -23963,8 +23901,8 @@ remortgage = 重新办按揭
 remote
 /rɪˈməʊt/
 核心：形容词，比较级 remoter 或 more remote。一是偏远的、遥远的：a remote village；二是（时间上）久远的：the remote past；三是（关系）远的、关系不大的；
-四是（可能性）极小的、微乎其微的：a remote chance；五是冷淡的、疏远的：a remote manner；六是远程的、遥控的：remote control。名词，可数：（口语）遥控器。
-复合词：remote control 是遥控、遥控器；remote work 是远程办公；remote-controlled 是遥控的；remote sensing 是遥感。
+四是（可能性）极小的、微乎其微的：a remote chance；五是冷淡的、疏远的：a remote manner；六是远程的、遥控的。名词，可数：（口语）遥控器。
+复合词 remote work 是远程办公。
 ① They live in a remote village high in the mountains, two hours from the nearest town.
 = 他们住在高山上一个偏远的村子里，离最近的镇子两个小时。
 a remote village = 偏远的村子
@@ -24048,7 +23986,7 @@ a removable lining = 可拆卸的衬里
 
 removal
 /rɪˈmuːvl/
-核心：可数也可不可数。一是移走、去除、拆除：the removal of；二是免职、撤职；三是（英式）搬家、迁居：removal van 是搬家车。
+核心：可数也可不可数。一是移走、去除、拆除：the removal of；二是免职、撤职；三是（英式）搬家、迁居。
 ① The removal of the old trees made the garden much brighter.
 = 移走那几棵老树之后，园子亮堂多了。
 the removal of something = 某物的移走
@@ -25052,7 +24990,7 @@ no reply = 没有答复
 report
 /rɪˈpɔːt/
 核心：名词，可数：报告、报道：a report on；（学校的）成绩报告单；（枪的）爆炸声、枪声。动词：报道、报告：report on、report that；告发、举报：report somebody to；
-报到：report to somebody、report for duty；（下级）直属于、向……汇报：report to。
+报到：report to somebody、report for duty；（下级）直属于、向……汇报，后接 to。
 习语 it is reported that 是据报道。
 ① The newspaper published a report on the state of the city's schools.
 = 那份报纸发表了一篇关于城里学校状况的报道。
@@ -26037,7 +25975,7 @@ reshuffle the staff = 调整人事
 
 reside
 /rɪˈzaɪd/
-核心：（正式）不及物。一是居住、定居：reside in、at；二是 reside in、with 是（权力、权利）属于、归属于；（品质）存在于。
+核心：（正式）不及物。一是居住、定居；二是（权力、权利）属于、归属于，后接 with。
 相关词：resident 是居民；residence 是住所。
 ① The family now resides in a large house on the edge of the city.
 = 那家人现在住在城边的一座大房子里。
@@ -26146,7 +26084,7 @@ remainder = 剩下的部分（数学也用）
 
 resign
 /rɪˈzaɪn/
-核心：动词。一是辞职、辞去（职务）：resign from、resign as；二是 resign yourself to 是使自己（无奈地）接受、只好接受：be resigned to。名词 resignation 见另条。
+核心：动词。一是辞职、辞去（职务）：resign from、resign as；二是（反身用）使自己（无奈地）接受、只好接受：be resigned to。名词 resignation 见另条。
 ① The minister resigned after the newspapers printed the story.
 = 报纸登出那篇报道之后，那位部长辞职了。
 resign = 辞职
@@ -26390,7 +26328,7 @@ high resolution = 高分辨率
 
 resolve
 /rɪˈzɒlv/
-核心：动词。一是解决、解答（问题、困难、争端）；二是决心、决定：resolve to do、resolve that；三是（会议）正式决定、表决；四是 resolve into 是（使）分解成。
+核心：动词。一是解决、解答（问题、困难、争端）；二是决心、决定：resolve to do、resolve that；三是（会议）正式决定、表决。
 名词：决心、决意，不可数也可单数：strengthen somebody's resolve。名词 resolution 见另条。
 ① The two countries resolved their dispute without going to war.
 = 两国没有动武就解决了争端。
@@ -26479,7 +26417,7 @@ work as a resonator = 充当共鸣器
 resort
 /rɪˈzɔːt/
 核心：名词，可数：度假胜地、旅游胜地：a seaside resort、a ski resort；（采取的）手段、办法、凭借：as a last resort。
-动词：resort to 是诉诸、求助于（不好的、不得已的手段）：resort to violence。
+动词：诉诸、求助于（不好的、不得已的手段），后接 to：resort to violence。
 习语 as a last resort、in the last resort 是作为最后手段、万不得已时。
 ① The town is a popular seaside resort with a long sandy beach.
 = 那座城是一个受欢迎的海滨度假胜地，有一片长长的沙滩。
@@ -26849,7 +26787,7 @@ a full respray = 全车重新喷漆
 rest
 /rest/
 核心：名词：休息、歇息，可数也可不可数：have a rest、take a rest；the rest 是剩余部分、其余的人或物：the rest of；（东西的）支架、托架：an arm rest；（音乐）休止符。
-动词：休息、歇息；（使）靠在、搁在：rest something on、against；rest on 是基于、依赖于；（正式）（事情）由……决定：rest with。
+动词：休息、歇息；（使）靠在、搁在：rest something on、against。
 习语：at rest 是静止的、安息的；come to rest 是停下来；lay something to rest 是平息（谣言、担心），也指安葬；the rest is history 是后面的事大家都知道了。
 ① You look tired, so sit down and have a rest.
 = 你看上去累了，坐下歇一歇吧。
@@ -28003,7 +27941,7 @@ return
 /rɪˈtɜːn/
 核心：动词：回来、回去、返回：return to、return from；归还、送回、放回：return something to；（感觉、病）复发、再出现；回报、报答：return a favour；
 （体育）回球；（法官、陪审团）作出（裁决）；（英式）选出（议员）。
-名词：回来、返回，单数；归还、退回，不可数；（投资的）收益、利润，可数也可不可数；（英式）往返票：a return ticket；（电脑键盘的）回车键。
+名词：回来、返回，单数；归还、退回，不可数；（投资的）收益、利润，可数也可不可数；（电脑键盘的）回车键。
 习语：in return 是作为回报；many happy returns 是生日快乐、长命百岁；the point of no return 是无法回头的地步。
 ① She returned to the town where she was born after thirty years abroad.
 = 在国外三十年后，她回到了自己出生的那个小镇。
@@ -28247,7 +28185,7 @@ after reveille = 起床号之后
 
 revel
 /ˈrevl/
-核心：动词，过去式英式 revelled，美式 reveled：一是 revel in 是陶醉于、着迷于、尽情享受；二是狂欢、作乐。名词 revels 是狂欢、作乐，复数。
+核心：动词，过去式英式 revelled，美式 reveled：狂欢、作乐。名词 revels 是狂欢、作乐，复数。
 狂欢的人叫 reveller，美式 reveler；狂欢作乐叫 revelry，不可数。并入本条。
 ① She revels in the attention she gets as the star of the show.
 = 她作为演出的明星，很享受受人关注的感觉。
@@ -28303,7 +28241,7 @@ revenants = 幽灵
 
 revenge
 /rɪˈvendʒ/
-核心：名词：报仇、报复，不可数：take revenge on、in revenge for、get your revenge。动词：（正式）revenge yourself on 是向……报仇。
+核心：名词：报仇、报复，不可数：take revenge on、in revenge for、get your revenge。
 ① He swore to take revenge on the men who had killed his brother.
 = 他发誓要向杀死他兄弟的人报仇。
 take revenge on somebody = 向某人报仇
@@ -28510,7 +28448,7 @@ by reversion = 按复归权
 
 revert
 /rɪˈvɜːt/
-核心：不及物。一是 revert to 是恢复、回到（原来的状态、习惯）：revert to type；二是（正式）重新谈到、回到（原来的话题）；三是（法律）（财产）归还、复归：revert to。
+核心：不及物。一是恢复、回到（原来的状态、习惯），后接 to：revert to type；二是（正式）重新谈到、回到（原来的话题）；三是（法律）（财产）归还、复归。
 ① After the holiday the town reverted to its usual quiet life.
 = 假期过后，那个小镇又恢复了平常的宁静生活。
 revert to something = 恢复到某状态
@@ -28780,7 +28718,7 @@ revolutionize farming = 彻底改变农业
 
 revolve
 /rɪˈvɒlv/
-核心：不及物。一是旋转、转动：revolve around、round；二是 revolve around 是以……为中心、围绕……展开：her life revolves around her children。
+核心：不及物。一是旋转、转动，后接 around 或 round；二是以……为中心、围绕……展开：her life revolves around her children。
 分词 revolving 作形容词：旋转的：a revolving stage。
 ① The earth revolves around the sun once a year.
 = 地球每年绕太阳转一圈。
@@ -29225,7 +29163,6 @@ rhyming slang = 押韵俚语
 rhythm
 /ˈrɪðəm/
 核心：可数也可不可数。一是节奏、节拍、韵律：音乐、诗歌里有规律的强弱变化：a sense of rhythm；二是（有规律的）节律、规律：the rhythm of the seasons。
-复合词：rhythm and blues 是节奏布鲁斯；rhythm section 是节奏组。
 ① At the festival she danced barefoot on the grass to the rhythm of the drums.
 = 在节庆上，她光着脚在草地上随着鼓的节奏跳舞。
 the rhythm of something = 某物的节奏
@@ -29268,7 +29205,6 @@ the value of the rial = 里亚尔的币值
 rib
 /rɪb/
 核心：名词，可数：肋骨、肋骨部分的肉：spare ribs；（伞、船、叶子的）肋状物、骨架；（编织的）罗纹。动词：（口语）取笑、戏弄：rib somebody about，过去式 ribbed。
-复合词 rib-tickler 是（口语）令人捧腹的笑话、故事。
 ① He broke two ribs when he fell off his horse.
 = 他从马上摔下来，断了两根肋骨。
 break a rib = 断肋骨
@@ -29325,7 +29261,7 @@ ribbing at the wrists = 袖口的罗纹
 ribbon
 /ˈrɪbən/
 核心：可数也可不可数。一是缎带、丝带、饰带：a ribbon in her hair；二是（勋章的）绶带；三是（打字机、打印机的）色带；四是带状物、狭长的一条：a ribbon of road。
-习语 in ribbons 是破烂不堪、撕成碎片。复合词 ribbon development 是（英式）带状发展：沿公路两边建房。
+习语 in ribbons 是破烂不堪、撕成碎片。
 ① She wore a red ribbon in her hair for the party.
 = 她为了参加派对，在头发上系了一条红缎带。
 a ribbon in your hair = 头发上的缎带
@@ -29528,7 +29464,7 @@ a rictus smile = 僵硬的笑容
 
 rid
 /rɪd/
-核心：动词，过去式、过去分词 rid：rid A of B 是使甲摆脱乙、从甲中除去乙；rid yourself of 是摆脱、去掉。形容词：be rid of 是摆脱了、去掉了。
+核心：动词，过去式、过去分词 rid：rid A of B 是使甲摆脱乙、从甲中除去乙；也可反身用，指摆脱、去掉。也作形容词，指摆脱了、去掉了。
 习语：get rid of 是摆脱、去掉、扔掉、赶走；good riddance 见 riddance。
 ① We must get rid of all these old newspapers before we move.
 = 搬家之前我们得把这些旧报纸都扔掉。
@@ -29580,9 +29516,8 @@ be riddled with holes = 满是洞
 
 ride
 /raɪd/
-核心：动词，过去式 rode，过去分词 ridden：骑（马、自行车、摩托车）：ride a bike、ride a horse；乘坐（车、船）：ride in、on；（在水面、空中）漂浮、飘浮；ride on 是取决于、依赖于。
+核心：动词，过去式 rode，过去分词 ridden：骑（马、自行车、摩托车）：ride a bike、ride a horse；乘坐（车、船）：ride in、on；（在水面、空中）漂浮、飘浮。
 名词，可数：骑马、骑车、乘车（的旅程）：go for a ride、give somebody a ride；（游乐场的）游乐设施；（乘坐时的）感受：a smooth ride。
-短语动词：ride out 是安然度过（困难）；ride up 是（衣服）往上缩。名词 ride-off 是（马术）附加赛。
 习语：take somebody for a ride 是欺骗某人；a rough ride 是艰难的经历、受到严厉批评；go along for the ride 是跟着去凑热闹。
 ① My little brother is learning to ride a bike.
 = 我弟弟在学骑自行车。
@@ -29641,7 +29576,7 @@ add a rider = 加附加条款
 
 ridge
 /rɪdʒ/
-核心：可数。一是山脊、山岭：一长条高地；二是（屋顶的）屋脊；三是（表面上的）隆起、脊状物；四是（气象）高压脊。复合词 ridge tent 是屋脊式帐篷。
+核心：可数。一是山脊、山岭：一长条高地；二是（屋顶的）屋脊；三是（表面上的）隆起、脊状物；四是（气象）高压脊。
 ① We walked along the ridge with views of the sea on both sides.
 = 我们沿着山脊走，两边都能看到大海。
 along the ridge = 沿着山脊
@@ -29728,7 +29663,7 @@ be rife with something = 充满某物
 
 riff
 /rɪf/
-核心：可数。一是（流行音乐、爵士乐的）即兴重复段、连复段；二是（口语）（围绕某个话题的）即兴发挥、一番议论。复合词 riff-raff 是（贬义）乌合之众、下等人。
+核心：可数。一是（流行音乐、爵士乐的）即兴重复段、连复段；二是（口语）（围绕某个话题的）即兴发挥、一番议论。
 ① The song starts with a famous guitar riff.
 = 那首歌以一段有名的吉他连复段开头。
 a guitar riff = 吉他连复段
@@ -29766,7 +29701,7 @@ a rifleman = 步枪手
 
 rift
 /rɪft/
-核心：可数。一是（关系的）裂痕、不和：a rift between；二是（地面、岩石的）裂缝、裂口。复合词 rift valley 是裂谷。
+核心：可数。一是（关系的）裂痕、不和：a rift between；二是（地面、岩石的）裂缝、裂口。
 ① There is a deep rift between the two brothers over the money.
 = 兄弟俩为那笔钱产生了很深的裂痕。
 a rift between A and B = 甲乙之间的裂痕
@@ -29782,7 +29717,6 @@ rig
 /rɪɡ/
 核心：动词，过去式 rigged：（用不正当手段）操纵、作弊：rig an election；装配（船帆）；（临时）搭建。
 名词，可数：（石油、天然气的）钻井设备、钻塔：an oil rig；（船的）帆缆；（美式）大卡车。名词 rigging 是（船的）帆缆、索具，不可数。
-短语动词：rig out 是（口语）给……穿上（特别的衣服）；rig up 是临时搭建、凑合着装配。并入本条。
 ① The opposition said that the election had been rigged by the army.
 = 反对派说选举被军队操纵了。
 rig an election = 操纵选举
@@ -29818,8 +29752,6 @@ right
 名词：右边、右方，单数；正当、正义，不可数；权利，可数也可不可数：the right to do、human rights；the right 是（政治上的）右派、保守派，单数。
 动词：扶正、纠正、改正（错误）：right a wrong。副词 rightly 是正确地、理所当然地。
 习语：right away 是马上、立刻；serve somebody right 是活该；in your own right 是凭自身的条件、本身就是；by rights 是按理说；put something right 是纠正、修好。
-复合词：right-angled、right-angled triangle 是直角的、直角三角形，美式也说 right triangle；right-handed 是惯用右手的，right-hander 是惯用右手的人；
-right-minded、right-thinking 是正派的、明事理的；right of way 是通行权、先行权；right-on 是（口语）政治上正确的；right-wing 是右翼的，right-winger 是右翼分子。
 ① Is this the right way to the station?
 = 这是去车站的正确的路吗？
 the right way = 正确的路
@@ -30122,8 +30054,7 @@ ring
 核心：动词，过去式 rang，过去分词 rung：（铃、电话）响；按（铃）、打（钟）：ring the bell；（英式）给……打电话：ring somebody (up)；（耳朵）嗡嗡响；（地方）回响：ring with。
 动词，过去式、过去分词 ringed：包围、环绕；（在……周围）画圈。
 名词，可数：戒指、环：a wedding ring；圆圈、环形物；（拳击、摔跤的）台、（马戏团的）场子；（犯罪）团伙、集团：a drugs ring；铃声、（英式口语）打电话：give somebody a ring。
-短语动词：ring off 是挂断电话；ring in 是打电话到（电台、单位）；ring out 是（声音）响亮地传出；ring round 是给（几个人）打电话；ring through 是打电话联系；ring up 是打电话，也指（收银机上）记账、收款；ring around 是到处打电话。
-习语：ring a bell 是听着耳熟、使人想起什么；ring true 是听起来真实；give somebody a ring 是给某人打电话。复合词 ring road 是环城公路；ring bearer 是（婚礼的）戒童。
+习语：ring a bell 是听着耳熟、使人想起什么；ring true 是听起来真实；give somebody a ring 是给某人打电话。
 ① The phone rang just as I was getting into the bath.
 = 我刚要进浴缸，电话就响了。
 the phone rang = 电话响了
@@ -30348,7 +30279,7 @@ a rinse = 冲洗
 riot
 /ˈraɪət/
 核心：名词，可数：暴乱、骚乱；a riot of 是（颜色、声音的）缤纷、繁多。动词：参加暴乱、闹事。
-习语：run riot 是（人）撒野、失控，（植物）疯长，（想象）驰骋。复合词 riot shield 是防暴盾牌。
+习语：run riot 是（人）撒野、失控，（植物）疯长，（想象）驰骋。
 ① A riot broke out in the city after the football match.
 = 足球赛之后，城里发生了暴乱。
 a riot broke out = 发生了暴乱
@@ -30407,8 +30338,7 @@ rip
 /rɪp/
 核心：动词，过去式 ripped：撕破、扯破、撕裂：rip something open、rip something up；（猛地）扯下、扯掉：rip something off；（口语）（从光盘）拷贝（音乐）。
 名词，可数：（布、纸上的）裂口、破口。
-短语动词：rip at 是撕扯；rip into 是猛烈抨击、猛攻；rip off 是（口语）敲竹杠、诈骗，也指剽窃；rip through 是猛烈地冲过、席卷；rip up 是撕碎。
-习语 let rip 是（口语）放开手脚、尽情发泄、开足马力。复合词：rip-roaring 是（口语）喧闹的、狂欢的；rip tide 是激流、离岸流。
+习语 let rip 是（口语）放开手脚、尽情发泄、开足马力。
 ① She ripped open the letter and read it at once.
 = 她撕开信，立刻读了起来。
 rip something open = 把某物撕开
@@ -30790,7 +30720,7 @@ vegetable rissoles = 蔬菜炸饼
 rite
 /raɪt/
 核心：（宗教等的）仪式、典礼：funeral rites。可数。
-习语：rite of passage 是成年礼、人生重要关口；last rites 是（天主教为临终者举行的）临终圣事。
+习语 last rites 是（天主教为临终者举行的）临终圣事。
 ① The funeral rites lasted for three days, and the whole village took part.
 = 葬礼仪式持续了三天，全村人都参加了。
 funeral rites = 葬礼仪式
@@ -31665,7 +31595,7 @@ rocket
 /ˈrɒkɪt/
 核心：名词，可数：火箭；（烟花的）冲天炮、焰火；火箭弹、导弹；（英式口语）严厉的斥责：give somebody a rocket；（英式）芝麻菜，不可数。
 动词：（数量、价格）飞涨、猛增；飞快地移动、冲；（使）迅速成功：rocket to fame。
-习语：rocket science 是（口语）高深的学问，常说 It's not rocket science 是没那么难。
+习语：It's not rocket science 是（口语）没那么难。
 ① The rocket took off from the launch pad and carried the satellite into space.
 = 火箭从发射台起飞，把卫星送入了太空。
 rocket = 火箭
@@ -31887,7 +31817,7 @@ the roistering = 喧闹作乐
 role
 /rəʊl/
 核心：一是作用、职能、角色：play a role in、a key role；二是（戏剧、电影中的）角色：play the role of、a leading role。可数。
-复合词 role model 是榜样、模范；role reversal 是角色互换。
+复合词 role reversal 是角色互换。
 ① Parents play a role in their children's success at school, but teachers matter too.
 = 父母在孩子的学业成功中起作用，但老师也很重要。
 play a role = 起作用
@@ -31912,8 +31842,8 @@ role reversal = 角色互换
 
 roll
 /rəʊl/
-核心：动词：（使）滚动、打滚：roll over；（车辆）缓慢行驶；（船）左右摇晃；卷、把……卷成团：roll something up；（用擀面杖）擀平：roll out；（眼珠）转动：roll your eyes；（雷声、鼓声）隆隆作响；（摄影机）开拍。
-名词，可数：一卷、一筒：a roll of；小圆面包：a bread roll；名单、花名册：roll call；（雷、鼓的）隆隆声；滚动、翻滚。
+核心：动词：（使）滚动、打滚；（车辆）缓慢行驶；（船）左右摇晃；卷、把……卷成团：roll something up；（用擀面杖）擀平；（眼珠）转动：roll your eyes；（雷声、鼓声）隆隆作响；（摄影机）开拍。
+名词，可数：一卷、一筒：a roll of；小圆面包：a bread roll；名单、花名册；（雷、鼓的）隆隆声；滚动、翻滚。
 习语：be on a roll 是（口语）运气正好、接连成功；roll with the punches 是随机应变、经得起打击；roll up your sleeves 是卷起袖子准备大干；heads will roll 是有人要被撤职受罚。
 ① The ball rolled across the floor and stopped under the table.
 = 球滚过地板，停在桌子底下。
@@ -31984,6 +31914,9 @@ a roll-on = 滚珠式（止汗剂、香水）
 = 如今横渡北海的卡车大多搭滚装船，每到一个港口都能省下好几个小时的装卸时间。
 roll-on roll-off = 滚装式的（渡轮）
 缩写 ro-ro，车辆可以直接开上开下。
+㉒ The supermarket will roll out the new self-service tills in all its shops by the end of the year.
+= 那家超市年底前将在所有门店推出新的自助收银机。
+roll out = 推出（新产品、新服务）
 
 rollback
 /ˈrəʊlbæk/
@@ -32348,7 +32281,7 @@ roof
 /ruːf/
 核心：名词，可数，复数 roofs：屋顶、房顶；（车、隧道、洞穴等的）顶；the roof of your mouth 是上腭。
 动词：给……盖顶：be roofed with。
-习语：under the same roof 是同住一处；hit the roof / go through the roof 是大发雷霆，go through the roof 也指（价格）飞涨；a roof over your head 是栖身之所；raise the roof 是（欢呼声）响彻屋顶。复合词 roof garden 是屋顶花园。
+习语：under the same roof 是同住一处；hit the roof / go through the roof 是大发雷霆，go through the roof 也指（价格）飞涨；a roof over your head 是栖身之所；raise the roof 是（欢呼声）响彻屋顶。
 ① The storm blew several tiles off the roof, and rain came into the bedroom.
 = 暴风雨吹掉了屋顶上的几块瓦，雨水漏进了卧室。
 roof = 屋顶
@@ -35390,7 +35323,7 @@ a runner-up = 亚军、第二名
 
 running
 /ˈrʌnɪŋ/
-核心：名词，不可数：跑步、赛跑：go running；管理、经营：the running of something。形容词：流动的：running water；连续的：three days running；持续不断的：a running battle、a running joke；边做边说的：a running commentary。
+核心：名词，不可数：跑步、赛跑：go running；管理、经营：the running of something。形容词：流动的：running water；连续的：three days running；持续不断的：a running battle、a running joke。
 ① My father took up running when he was fifty and now goes out every morning before breakfast.
 = 我父亲五十岁开始跑步，现在每天早饭前都出去跑。
 go running = 去跑步
@@ -35545,7 +35478,7 @@ a clever ruse = 巧妙的花招
 rush
 /rʌʃ/
 核心：动词：冲、奔、赶：rush to the hospital；匆忙做、仓促行事：rush into something；催促：rush somebody；赶紧送：rush somebody to hospital；（体育）冲锋、冲抢。
-名词：匆忙、急忙（单数）：in a rush、be in no rush；（人或物的）涌动、蜂拥：a rush for tickets；（感情的）涌起：a rush of excitement；繁忙时段：rush hour、the Christmas rush；灯心草（可数）。形容词 rushed 是仓促的（另立条）。
+名词：匆忙、急忙（单数）：in a rush、be in no rush；（人或物的）涌动、蜂拥：a rush for tickets；（感情的）涌起：a rush of excitement；繁忙时段：the Christmas rush；灯心草（可数）。形容词 rushed 是仓促的（另立条）。
 ① When she heard the news, she rushed to the hospital to be with her son.
 = 一听到消息，她就赶到医院陪儿子。
 rush = 冲、赶
@@ -36102,7 +36035,7 @@ almost sacramental = 近乎仪式般神圣的
 
 sacred
 /ˈseɪkrɪd/
-核心：形容词：（宗教意义上）神圣的、受崇敬的：a sacred place、sacred music；（比喻）不可侵犯的、极受珍视的：nothing is sacred。和 holy 的分别：holy 偏宗教本身（神、圣人），sacred 多指因宗教或传统而受尊崇的地方、东西、规矩。习语：a sacred cow 是（不容批评的）神圣不可侵犯的事物。
+核心：形容词：（宗教意义上）神圣的、受崇敬的：a sacred place、sacred music；（比喻）不可侵犯的、极受珍视的：nothing is sacred。和 holy 的分别：holy 偏宗教本身（神、圣人），sacred 多指因宗教或传统而受尊崇的地方、东西、规矩。
 ① The mountain is sacred to the local people, and visitors are asked not to climb to the top.
 = 那座山对当地人来说是神圣的，游客被要求不要爬到山顶。
 sacred = 宗教意义上的神圣
@@ -36271,7 +36204,7 @@ it saddens somebody that = 某事令某人难过
 
 saddle
 /ˈsædl/
-核心：名词，可数：马鞍；（自行车、摩托车的）车座；（羊、鹿的）脊肉：a saddle of lamb；（地理）鞍部。动词：给（马）装鞍：saddle up；使负担（责任、麻烦）：saddle somebody with something。
+核心：名词，可数：马鞍；（自行车、摩托车的）车座；（羊、鹿的）脊肉：a saddle of lamb；（地理）鞍部。动词：给（马）装鞍；使负担（责任、麻烦）：saddle somebody with something。
 习语：in the saddle 是骑着马，也指掌权、主事。
 ① The rider checked that the saddle was tight before she climbed onto the horse.
 = 骑手确认马鞍系紧了，才骑上马去。
@@ -36416,7 +36349,7 @@ almost sadomasochistic = 近乎互相折磨的
 
 safari
 /səˈfɑːri/
-核心：名词，可数或不可数：（尤指在东非、南非）观赏或猎捕野生动物的旅行：go on safari、be on safari。来自斯瓦希里语「旅行」。复合词 safari park 是野生动物园（游客开车穿行观看），safari suit 是猎装（浅色、多口袋的短袖上衣配长裤）。
+核心：名词，可数或不可数：（尤指在东非、南非）观赏或猎捕野生动物的旅行：go on safari、be on safari。来自斯瓦希里语「旅行」。
 ① We went on safari in Kenya and saw lions, elephants and giraffes in the first two days.
 = 我们去肯尼亚野生动物观光，头两天就看到了狮子、大象和长颈鹿。
 go on safari = 去野生动物观光
@@ -36432,7 +36365,6 @@ safe
 /seɪf/
 核心：形容词，本义是「不受伤害、没有危险」：安全的：safe from、keep something safe；（人）平安的、无恙的：safe and sound；（地方、做法）不会出事的、稳妥的：a safe place、a safe bet、play it safe；（人）可靠的、可信赖的：in safe hands；（选择）保守的、不冒险的。副词 safely 是安全地、平安地；稳妥地。名词 safety 是安全（另立条）。名词 safe：保险箱、保险柜。
 习语：better safe than sorry 是小心为上；to be on the safe side 是为了保险起见；safe and sound 是安然无恙。
-复合词：safe house 是（特工、证人的）安全屋；safe conduct 是安全通行证；safe deposit box 是银行保险箱；safe mode 是（电脑的）安全模式；safe room 是（家中的）避难室；safe seat 是（某党）稳操胜券的选区；safe sex 是安全性行为；safe space 是安全空间。
 ① The castle walls kept the people safe from attack for more than two hundred years.
 = 城墙保护那里的人免遭攻击两百多年。
 safe = 安全的
@@ -36520,7 +36452,7 @@ safeguard against something = 预防某事
 safety
 /ˈseɪfti/
 核心：名词，不可数：安全、平安：for your own safety、safety first；安全性：road safety、food safety；安全的地方：reach safety、lead somebody to safety。
-作定语表示「保安全用的」，构成一大族复合词：safety belt（安全带）、safety catch（枪的保险栓）、safety curtain（剧院防火幕）、safety glass（安全玻璃）、safety island（马路中间的安全岛）、safety lamp（矿灯）、safety match（安全火柴）、safety measure（安全措施）、safety razor（安全剃刀）、safety valve（安全阀）。
+作定语表示「保安全用的」，构成一大族复合词。
 ① For your own safety, please keep your seat belt fastened until the plane has stopped.
 = 为了您自身的安全，飞机停稳前请系好安全带。
 for your own safety = 为了你自己的安全
@@ -36594,7 +36526,7 @@ saffron robes = 橙黄色袈裟
 
 sag
 /sæɡ/
-核心：动词，不及物：（中间）下垂、下陷：the roof sags、the bed sags；（价格、兴致）下跌、减弱：sales sagged。名词，单数或不可数：下垂、下陷；下跌。sag off（英式口语）是逃学、翘课。
+核心：动词，不及物：（中间）下垂、下陷：the roof sags、the bed sags；（价格、兴致）下跌、减弱：sales sagged。名词，单数或不可数：下垂、下陷；下跌。
 ① The old sofa sagged in the middle, so we put a board under the cushions.
 = 旧沙发中间塌了下去，所以我们在坐垫底下垫了块木板。
 sag = 下垂、下陷
@@ -36809,7 +36741,7 @@ made from sailcloth = 帆布做的
 
 sailing
 /ˈseɪlɪŋ/
-核心：名词：帆船运动、驾船（不可数）：go sailing；（客轮、渡轮的）班次、航班（可数）：the next sailing。习语 plain sailing 是一帆风顺、容易的事。复合词 sailing boat（英式）是帆船，sailing ship 是帆船（大型的、旧时的）。
+核心：名词：帆船运动、驾船（不可数）：go sailing；（客轮、渡轮的）班次、航班（可数）：the next sailing。习语 plain sailing 是一帆风顺、容易的事。
 ① My parents took up sailing when they retired, and now they spend every weekend at the coast.
 = 我父母退休后开始玩帆船，现在每个周末都在海边度过。
 sailing = 帆船运动
@@ -36850,7 +36782,7 @@ modern sailmaking = 现代制帆
 
 sailor
 /ˈseɪlə(r)/
-核心：名词，可数：水手、海员；水兵；驾帆船的人：a keen sailor。be a good / bad sailor 是不晕船 / 容易晕船。复合词 sailor suit 是（儿童穿的）水手服。
+核心：名词，可数：水手、海员；水兵；驾帆船的人：a keen sailor。be a good / bad sailor 是不晕船 / 容易晕船。
 ① The sailors worked all night to repair the ship before it reached the rocks.
 = 水手们干了一整夜，在船撞上礁石之前把它修好。
 sailor = 水手
@@ -36974,7 +36906,7 @@ salaciousness = 低俗、下流
 
 salad
 /ˈsæləd/
-核心：名词，可数或不可数：沙拉、色拉：生菜等生吃的蔬菜，或拌好的冷盘：a green salad、potato salad、fruit salad。salad dressing 是沙拉酱，salad cream（英式）是一种淡黄色的甜沙拉酱。习语 your salad days 是（旧式）少不更事的青葱岁月。
+核心：名词，可数或不可数：沙拉、色拉：生菜等生吃的蔬菜，或拌好的冷盘：a green salad、potato salad、fruit salad。习语 your salad days 是（旧式）少不更事的青葱岁月。
 ① I usually have a salad with cheese and tomatoes for lunch at my desk.
 = 我午饭通常在办公桌前吃一份配奶酪和番茄的沙拉。
 salad = 沙拉
@@ -37059,7 +36991,7 @@ a salaryman = 工薪族
 sale
 /seɪl/
 核心：名词：出售、卖（不可数或可数）：the sale of、for sale、on sale；（可数）一笔交易；（复数 sales）销售额、销量：sales rose；（复数 sales）销售部门、销售工作：work in sales；（可数）减价、促销：a sale、the January sales；拍卖（会）。
-for sale 是待售；on sale 英式指正在出售、上市，美式也指打折中。sale of work（英式）是（教会、慈善机构的）手工义卖。形容词 saleable 是好卖的（另立条）。
+for sale 是待售；on sale 英式指正在出售、上市，美式也指打折中。形容词 saleable 是好卖的（另立条）。
 ① The house next to ours has been for sale for six months, but nobody has bought it yet.
 = 我们隔壁的房子挂牌出售六个月了，还没人买。
 for sale = 出售中
@@ -37273,7 +37205,7 @@ a sallow = 黄华柳
 
 sally
 /ˈsæli/
-核心：名词，可数：（被围困者的）突围出击；（旧式）俏皮话、妙语；短途出行。动词：sally forth / out（幽默或文学）是出发、兴冲冲地出去。
+核心：名词，可数：（被围困者的）突围出击；（旧式）俏皮话、妙语；短途出行。动词（幽默或文学）：出发、兴冲冲地出去。
 ① The soldiers made a sally from the castle at night and captured the enemy's guns.
 = 士兵们夜里从城堡里突围出击，缴获了敌人的炮。
 make a sally = 突围出击
@@ -37289,7 +37221,7 @@ sally out = 冲出去
 
 salmon
 /ˈsæmən/
-核心：名词，可数或不可数，复数也是 salmon：鲑鱼、三文鱼；（作食物）鲑鱼肉，不可数；鲑肉色、橙粉色：salmon pink。字母 l 不发音。
+核心：名词，可数或不可数，复数也是 salmon：鲑鱼、三文鱼；（作食物）鲑鱼肉，不可数；鲑肉色、橙粉色。字母 l 不发音。
 ① The salmon swim hundreds of miles up the river every autumn to lay their eggs.
 = 每年秋天，鲑鱼逆流而上游几百英里去产卵。
 salmon = 鲑鱼
@@ -37369,9 +37301,8 @@ grow salsify = 种婆罗门参
 
 salt
 /sɔːlt/
-核心：名词：盐、食盐（不可数）：a pinch of salt、salt and pepper；（化学）盐类（可数）；（复数）药盐、浴盐：bath salts。动词：给……加盐、用盐腌：salt the soup、salted fish；（往路面上）撒盐化冰：salt the roads；salt away 是（偷偷）存钱、攒起来。形容词：咸的、腌制的：salt beef、salt water。形容词 salty 是咸的（另立条）。
+核心：名词：盐、食盐（不可数）：a pinch of salt；（化学）盐类（可数）；（复数）药盐、浴盐：bath salts。动词：给……加盐、用盐腌：salt the soup、salted fish；（往路面上）撒盐化冰：salt the roads。形容词：咸的、腌制的：salt beef。形容词 salty 是咸的（另立条）。
 习语：take something with a pinch of salt 是对某事半信半疑；the salt of the earth 是忠厚老实的好人；worth your salt 是称职的、名副其实的。
-复合词：salt cellar（英式）是盐瓶，美式说 salt shaker；salt marsh 是盐沼；salt pan 是盐田、盐滩；salt flats 是盐碱滩；salt fish 是咸鱼；salt truck 是（美式）撒盐车；salt-and-pepper 是（头发）花白的。
 ① Add a little salt to the water before you put the pasta in.
 = 下意面之前往水里加一点盐。
 salt = 盐（不可数）
@@ -37566,7 +37497,7 @@ a Salvadoran = 萨尔瓦多人
 
 salvage
 /ˈsælvɪdʒ/
-核心：动词：（从事故、火灾、沉船中）抢救、打捞（财物）：salvage something from；挽回、补救（局面、名声）：salvage a situation。名词，不可数：抢救、打捞；抢救出的物品。salvage yard 是旧货回收场、废品场。
+核心：动词：（从事故、火灾、沉船中）抢救、打捞（财物）：salvage something from；挽回、补救（局面、名声）：salvage a situation。名词，不可数：抢救、打捞；抢救出的物品。
 ① Divers were able to salvage some of the gold coins from the ship that sank two hundred years ago.
 = 潜水员从两百年前沉没的那艘船里打捞出了一些金币。
 salvage something from something = 从某处抢救出某物
@@ -37650,7 +37581,7 @@ a lively samba = 欢快的桑巴舞曲
 
 same
 /seɪm/
-核心：形容词、代词，前面几乎总带 the：同一个的、相同的、一样的：the same as、the same … that；（代词）同样的事物：do the same。副词：the same 是同样地：think the same。习语很多：all the same 是尽管如此；at the same time 是同时，也用来引出相反的一面；by the same token 是同理；same here 是我也是；one and the same 是同一个；in the same boat 是处境相同。名词 sameness 另立条。复合词 same-sex 是同性的。
+核心：形容词、代词，前面几乎总带 the：同一个的、相同的、一样的：the same as、the same … that；（代词）同样的事物：do the same。副词：the same 是同样地：think the same。习语很多：all the same 是尽管如此；at the same time 是同时，也用来引出相反的一面；by the same token 是同理；same here 是我也是；one and the same 是同一个；in the same boat 是处境相同。名词 sameness 另立条。
 ① My sister and I go to the same school, but we are in different classes.
 = 我和姐姐在同一所学校上学，但在不同的班。
 the same = 同一个的
@@ -37794,7 +37725,7 @@ a sampler of something = 某物的什锦拼盘
 
 sampling
 /ˈsɑːmplɪŋ/
-核心：名词，不可数：抽样、取样；（音乐）采样；（可数）抽样所得的样本。sampling error 是抽样误差。
+核心：名词，不可数：抽样、取样；（音乐）采样；（可数）抽样所得的样本。
 ① Careful sampling of the river water showed that the factory was not to blame for the dead fish.
 = 对河水的仔细取样表明，死鱼不能怪那家工厂。
 sampling = 抽样、取样
@@ -37929,7 +37860,6 @@ sand
 /sænd/
 核心：名词：沙、沙子（不可数）：a grain of sand；（复数 sands）沙滩、沙地、沙漠：the golden sands。动词：用砂纸打磨：sand the floor、sand something down。
 习语：bury your head in the sand 是逃避现实；the sands of time 是（文）时光流逝。
-复合词：sand iron / sand wedge（高尔夫）是沙坑杆；sand martin 是崖沙燕；sand trap（美式）是（高尔夫的）沙坑；sand yacht 是沙滩帆车。
 ① The children spent the whole morning on the beach, digging in the sand with their spades.
 = 孩子们整个上午都在海滩上用小铲子挖沙子。
 sand = 沙子
@@ -38130,7 +38060,6 @@ a huge sandstorm = 巨大的沙尘暴
 sandwich
 /ˈsænwɪtʃ/
 核心：名词，可数：三明治：两片面包中间夹肉、奶酪、蔬菜等：a cheese sandwich、make a sandwich；（英式）夹心蛋糕：a sponge sandwich。动词：把……夹在中间：be sandwiched between。来自英国一位伯爵的封号。
-复合词：sandwich board 是（人前后挂着的）夹板广告牌；sandwich course（英式）是工读交替课程：在校学习和到企业实习交替进行。
 ① I made a cheese and tomato sandwich and ate it on the train to work.
 = 我做了个奶酪番茄三明治，在上班的火车上吃。
 a sandwich = 三明治
@@ -38233,7 +38162,7 @@ sanguinely = 乐观地
 
 sanitary
 /ˈsænətri/
-核心：形容词：卫生的、清洁的：sanitary conditions；（公共）卫生的、与卫生设施有关的。复合词 sanitary towel（英式）是卫生巾，美式说 sanitary napkin。
+核心：形容词：卫生的、清洁的：sanitary conditions；（公共）卫生的、与卫生设施有关的。复合词 sanitary napkin（美式）是卫生巾。
 ① The refugees were living in crowded camps with very poor sanitary conditions.
 = 难民们住在拥挤的营地里，卫生条件极差。
 sanitary conditions = 卫生条件
@@ -38247,7 +38176,7 @@ a sanitary towel = （英式）卫生巾
 
 sanitation
 /ˌsænɪˈteɪʃn/
-核心：名词，不可数：卫生设施、公共卫生（尤指排水、垃圾处理系统）。复合词 sanitation worker（北美）是环卫工人。
+核心：名词，不可数：卫生设施、公共卫生（尤指排水、垃圾处理系统）。
 ① Poor sanitation in the slums causes many diseases, especially among young children.
 = 贫民窟卫生设施差，导致许多疾病，尤其是在幼儿中。
 poor sanitation = 卫生设施差
@@ -38283,7 +38212,7 @@ bring sanity back = 恢复理智
 
 sans
 /sænz/
-核心：介词（幽默、书面）：没有、缺少：来自法语，意思同 without。复合词 sans serif 是（字体）无衬线体。
+核心：介词（幽默、书面）：没有、缺少：来自法语，意思同 without。
 ① He arrived at the party sans tie and sans jacket, in an old T-shirt and jeans.
 = 他来参加聚会时没打领带也没穿外套，就穿着一件旧 T 恤和牛仔裤。
 sans = 没有
@@ -38579,7 +38508,7 @@ sartorially = 在穿着方面
 
 sash
 /sæʃ/
-核心：名词，可数：（礼服上的）饰带、绶带：斜挂在肩上或系在腰间的宽带子；（推拉窗的）窗框。复合词 sash window 是上下推拉窗，sash cord 是吊窗绳。
+核心：名词，可数：（礼服上的）饰带、绶带：斜挂在肩上或系在腰间的宽带子；（推拉窗的）窗框。
 ① The winner of the beauty contest wore a white sash with the name of her town on it.
 = 选美冠军披着一条白色绶带，上面写着她家乡的名字。
 a sash = 饰带、绶带
@@ -38740,7 +38669,7 @@ be sated with something = 对某物腻了
 
 satellite
 /ˈsætəlaɪt/
-核心：名词，可数：（人造）卫星：a communications satellite、by satellite；（天文）卫星：绕行星运转的天体；（比喻）卫星国、附属机构：a satellite town。作定语：卫星的、卫星传送的：satellite television、a satellite dish。复合词 satellite station 是卫星地面站。
+核心：名词，可数：（人造）卫星：a communications satellite、by satellite；（天文）卫星：绕行星运转的天体；（比喻）卫星国、附属机构：a satellite town。作定语：卫星的、卫星传送的：satellite television。
 ① The football match was shown live by satellite all over the world.
 = 那场足球赛通过卫星向全世界直播。
 by satellite = 通过卫星
@@ -38971,7 +38900,7 @@ saturate the market = 使市场饱和
 
 saturated
 /ˈsætʃəreɪtɪd/
-核心：形容词：湿透的；（市场）饱和的；（化学）饱和的；（颜色）浓的、纯的。saturated fat 是饱和脂肪。
+核心：形容词：湿透的；（市场）饱和的；（化学）饱和的；（颜色）浓的、纯的。
 ① We came back from the walk saturated, with rain running down our necks.
 = 我们散步回来浑身湿透，雨水顺着脖子往下流。
 saturated = 湿透的
@@ -38981,7 +38910,7 @@ saturated fat = 饱和脂肪
 
 saturation
 /ˌsætʃəˈreɪʃn/
-核心：名词，不可数：饱和、浸透；（市场的）饱和；saturation point 是饱和点：再也容纳不下更多的程度。作定语：saturation coverage 是（新闻的）铺天盖地的报道。
+核心：名词，不可数：饱和、浸透；（市场的）饱和。作定语：saturation coverage 是（新闻的）铺天盖地的报道。
 ① The town has reached saturation point, and there is no more room for new houses.
 = 那个镇已经饱和，再也没地方盖新房子了。
 saturation point = 饱和点
@@ -39047,7 +38976,7 @@ a satyr = 好色之徒
 
 sauce
 /sɔːs/
-核心：名词：酱、酱汁、调味汁（可数或不可数）：tomato sauce、soy sauce、cheese sauce；（英式旧式口语）无礼的话、放肆（不可数）；（北美俚语）the sauce 是酒。与 seasoning 的分别：sauce 是湿的、浇在菜上的；seasoning 是盐、胡椒这类干调料。复合词 sauce boat 是船形调味汁壶。
+核心：名词：酱、酱汁、调味汁（可数或不可数）：tomato sauce、soy sauce、cheese sauce；（英式旧式口语）无礼的话、放肆（不可数）；（北美俚语）the sauce 是酒。与 seasoning 的分别：sauce 是湿的、浇在菜上的；seasoning 是盐、胡椒这类干调料。
 ① My grandmother made a rich tomato sauce for the pasta with fresh basil from the garden.
 = 祖母用园子里的新鲜罗勒给意面做了浓浓的番茄酱汁。
 sauce = 酱汁
@@ -39157,7 +39086,7 @@ sauropods = 蜥脚类恐龙
 
 sausage
 /ˈsɒsɪdʒ/
-核心：名词，可数或不可数：香肠、腊肠：sausages and mash。复合词：sausage roll（英式）是香肠卷（酥皮裹香肠肉）；sausage meat 是香肠肉馅；sausage dog（英式口语）是腊肠狗；sausage link（北美）是一节节连着的小香肠；sausage tree 是吊瓜树（非洲的一种树）。习语 not a sausage（英式旧式口语）是什么都没有。
+核心：名词，可数或不可数：香肠、腊肠：sausages and mash。习语 not a sausage（英式旧式口语）是什么都没有。
 ① We had sausages and mashed potatoes with onion gravy for dinner on Friday.
 = 星期五晚饭我们吃了香肠配土豆泥和洋葱肉汁。
 sausages = 香肠
@@ -39318,7 +39247,7 @@ a time saver = 省时间的东西
 
 saving
 /ˈseɪvɪŋ/
-核心：名词：节省、节约（可数）：a saving of £10、make savings；（复数 savings）储蓄、存款：spend your savings、live on your savings。介词、连词（旧式）：除……之外。习语 saving grace 是（坏人坏事中）可取之处、唯一的优点。
+核心：名词：节省、节约（可数）：a saving of £10、make savings；（复数 savings）储蓄、存款：spend your savings、live on your savings。介词、连词（旧式）：除……之外。
 ① If you buy the bigger box, you make a saving of almost two pounds.
 = 买大盒装的话，能省下将近两英镑。
 a saving of something = 节省了多少
@@ -39336,7 +39265,7 @@ saving grace = 唯一的可取之处
 
 saviour
 /ˈseɪvjə(r)/
-核心：名词，可数：救星、救助者：the saviour of the team；the Saviour（基督教）救世主耶稣基督。美式拼作 savior。复合词 saviour sibling 是「救命兄弟姐妹」：为了给患病的哥哥姐姐提供可配型的骨髓等而特意孕育的孩子。
+核心：名词，可数：救星、救助者：the saviour of the team；the Saviour（基督教）救世主耶稣基督。美式拼作 savior。
 ① The new manager was seen as the saviour of the football club after it won the cup.
 = 球队夺杯之后，新经理被视为俱乐部的救星。
 the saviour of something = 某物的救星
@@ -39361,7 +39290,7 @@ lack savoir faire = 缺乏处世圆熟
 
 savour
 /ˈseɪvə(r)/
-核心：动词，及物：品尝、细细品味：savour the food、savour the moment；（正式）savour of something 是带有……的味道、有……之嫌。名词，单数或不可数：滋味、风味；趣味。美式拼作 savor。
+核心：动词，及物：品尝、细细品味：savour the food、savour the moment；（正式）带有……的味道、有……之嫌，后接 of：savour of something。名词，单数或不可数：滋味、风味；趣味。美式拼作 savor。
 ① My grandfather told us to eat slowly and savour every bite of the wonderful cheese he had brought from France.
 = 祖父叫我们慢慢吃，细细品味他从法国带回来的那块美味奶酪的每一口。
 savour = 品尝、品味
@@ -39422,7 +39351,7 @@ tech-savvy = 懂科技的
 
 saw
 /sɔː/
-核心：名词，可数：锯、锯子：a hand saw、an electric saw。动词（过去式 sawed，过去分词 sawn 或 sawed）：锯、锯开：saw wood、saw something in half；来回拉动（像拉锯一样）。短语动词：saw down 是锯倒；saw off 是锯掉；saw up 是锯成小块。复合词 sawn-off shotgun（英式，美式 sawed-off）是短筒猎枪。
+核心：名词，可数：锯、锯子：a hand saw、an electric saw。动词（过去式 sawed，过去分词 sawn 或 sawed）：锯、锯开：saw wood、saw something in half；来回拉动（像拉锯一样）。复合词 sawn-off shotgun（英式，美式 sawed-off）是短筒猎枪。
 （saw 也是 see 的过去式，见 see 条。）
 ① My father used an old saw to cut the branches into logs for the fire.
 = 我父亲用一把旧锯子把树枝锯成生火用的木柴。
@@ -39543,7 +39472,7 @@ jazz saxophonists = 爵士萨克斯手
 say
 /seɪ/
 核心：动词（过去式和过去分词 said）：说、讲：say something、say that…、say something to somebody；（文字、钟表、标志）写着、显示：the sign says…；（表示看法）认为、以为：I'd say…；（假设）假如、比方说：say you won…、let's say；（举例）比如：say, ten pounds。名词，单数或不可数：发言权、决定权：have a say in something、have your say。和 tell 的分别：say 后面直接接说的话，tell 后面接人：tell somebody something。
-习语：that is to say 是也就是说；needless to say 是不用说；you can say that again 是你说得太对了；to say the least 是至少可以这么说（往轻里说）；it goes without saying 是不言而喻；when all is said and done 是归根到底；I must say 是说真的、不得不说。say-so 是许可、一句话的授权：on somebody's say-so。形容词 said（法律）是上述的、该：the said property。
+习语：that is to say 是也就是说；needless to say 是不用说；you can say that again 是你说得太对了；to say the least 是至少可以这么说（往轻里说）；it goes without saying 是不言而喻；when all is said and done 是归根到底；I must say 是说真的、不得不说。on somebody's say-so 是凭某人一句话的许可、授权。形容词 said（法律）是上述的、该：the said property。
 ① "I'm really tired after the long journey," she said, and went straight to bed without eating.
 = 「长途旅行后我真的累了。」她说完，饭也没吃就直接上床了。
 say = 说
@@ -39770,7 +39699,7 @@ a scalding attack = 尖刻的抨击
 
 scale
 /skeɪl/
-核心：名词：规模、程度（单数或不可数）：the scale of the problem、on a large scale；（地图、模型的）比例、比例尺：a scale of 1:50,000、to scale；等级、级别、刻度（可数）：on a scale of 1 to 10、a pay scale；（复数 scales）秤、天平：bathroom scales；（音乐）音阶（可数）；（鱼、蛇的）鳞（可数）；水垢（不可数）。动词：攀登：scale a wall；scale down / up 是缩小 / 扩大（规模）。
+核心：名词：规模、程度（单数或不可数）：the scale of the problem、on a large scale；（地图、模型的）比例、比例尺：a scale of 1:50,000、to scale；等级、级别、刻度（可数）：on a scale of 1 to 10、a pay scale；（复数 scales）秤、天平：bathroom scales；（音乐）音阶（可数）；（鱼、蛇的）鳞（可数）；水垢（不可数）。动词：攀登：scale a wall；扩大（规模）。
 习语：tip the scales 是起决定性作用；economies of scale 是规模经济。
 ① Nobody understood the scale of the problem until the floods reached the city centre.
 = 直到洪水淹到市中心，人们才明白问题有多严重。
@@ -39888,7 +39817,7 @@ buy tickets from a scalper = 从票贩子手里买票
 
 scaly
 /ˈskeɪli/
-核心：形容词：有鳞的、鳞状的：scaly skin；（皮肤）起皮的、干裂脱皮的。比较级 scalier。复合词 scaly anteater 是穿山甲。
+核心：形容词：有鳞的、鳞状的：scaly skin；（皮肤）起皮的、干裂脱皮的。比较级 scalier。
 ① Lizards have dry scaly skin that helps them keep water in their bodies.
 = 蜥蜴的皮肤干燥有鳞，有助于在体内保住水分。
 scaly skin = 有鳞的皮肤
@@ -39945,7 +39874,7 @@ fresh scampi = 新鲜海螯虾
 
 scan
 /skæn/
-核心：动词：细看、审视：scan the horizon；浏览、快速看一遍：scan the newspaper；（用仪器）扫描：scan a document、scan a barcode；（医学）做扫描检查；（诗歌）合韵律。名词，可数：扫描、扫描检查：a brain scan；浏览。scan in / into 是把（图片、文件）扫描进电脑。
+核心：动词：细看、审视：scan the horizon；浏览、快速看一遍：scan the newspaper；（用仪器）扫描：scan a document、scan a barcode；（医学）做扫描检查；（诗歌）合韵律。名词，可数：扫描、扫描检查：a brain scan；浏览。
 ① The sailor scanned the horizon for any sign of land after five days at sea.
 = 在海上漂了五天后，水手仔细审视地平线，寻找陆地的踪迹。
 scan the horizon = 审视地平线
@@ -39971,7 +39900,7 @@ a line scans = 诗行合韵律
 
 scandal
 /ˈskændl/
-核心：名词：丑闻（可数）：a political scandal、a sex scandal、break a scandal；（不可数）流言蜚语、八卦；（单数）令人愤慨的事：it is a scandal that…。形容词 scandalous 是可耻的、令人愤慨的（另立条）。复合词 scandal sheet 是（专登丑闻的）小报。
+核心：名词：丑闻（可数）：a political scandal、a sex scandal、break a scandal；（不可数）流言蜚语、八卦；（单数）令人愤慨的事：it is a scandal that…。形容词 scandalous 是可耻的、令人愤慨的（另立条）。
 ① The minister resigned after a scandal about how he had spent public money.
 = 那位部长因一桩关于他如何花公款的丑闻而辞职。
 scandal = 丑闻
@@ -40171,7 +40100,7 @@ a scarcity = 短缺
 
 scare
 /skeə(r)/
-核心：动词：使害怕、吓唬：scare somebody；害怕、受惊：scare easily；scare away / off 是吓跑、吓走；scare up（北美口语）是设法凑出（钱、饭菜）；scare somebody into doing something 是吓得某人去做某事。名词：惊吓（单数）：give somebody a scare；（公众的）恐慌（可数）：a health scare、a bomb scare。形容词 scared（另立条）是害怕的；scary 是吓人的（另立条）。复合词 scare quotes 是表示讽刺、保留的引号；scaredy-cat（口语）是胆小鬼。
+核心：动词：使害怕、吓唬：scare somebody；害怕、受惊：scare easily；吓跑、吓走；scare somebody into doing something 是吓得某人去做某事。名词：惊吓（单数）：give somebody a scare；（公众的）恐慌（可数）：a health scare、a bomb scare。形容词 scared（另立条）是害怕的；scary 是吓人的（另立条）。复合词 scaredy-cat（口语）是胆小鬼。
 ① The loud bang from the street outside scared the baby, and she started to cry.
 = 外面街上那声巨响吓着了宝宝，她哭了起来。
 scare = 吓
@@ -40298,7 +40227,7 @@ scarify seeds = 在种子上划痕
 
 scarlet
 /ˈskɑːlət/
-核心：形容词：鲜红的、猩红的：a scarlet coat；（脸）涨红的：go scarlet。名词，不可数：鲜红色、猩红色。复合词 scarlet fever 是猩红热；scarlet woman（旧式，贬义）是（被认为作风不检的）荡妇。
+核心：形容词：鲜红的、猩红的：a scarlet coat；（脸）涨红的：go scarlet。名词，不可数：鲜红色、猩红色。
 ① The soldiers in the old painting are wearing scarlet coats with gold buttons.
 = 古画里的士兵穿着带金纽扣的猩红色外套。
 scarlet = 鲜红的、猩红的
@@ -40386,7 +40315,7 @@ scatological humour = 低俗幽默
 
 scatter
 /ˈskætə(r)/
-核心：动词：撒、撒播：scatter seeds、scatter something on / over；（使）四散、（使）分散：the crowd scattered。名词，单数：零星分布的少量东西：a scatter of houses。形容词 scattered 是分散的、零星的（另立条）。复合词 scatter cushion 是（沙发上随意摆放的）小靠垫；scatter diagram 是（统计）散点图。和 spread 的分别：spread 是铺开、摊开成一片，scatter 是向四面零散地撒开。
+核心：动词：撒、撒播：scatter seeds、scatter something on / over；（使）四散、（使）分散：the crowd scattered。名词，单数：零星分布的少量东西：a scatter of houses。形容词 scattered 是分散的、零星的（另立条）。和 spread 的分别：spread 是铺开、摊开成一片，scatter 是向四面零散地撒开。
 ① The farmer scattered the seeds over the field by hand, the way his grandfather had done.
 = 那个农民像他祖父那样，用手把种子撒在田里。
 scatter = 向四面撒开

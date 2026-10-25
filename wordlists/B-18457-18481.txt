@@ -1,6 +1,6 @@
 react
 /riˈækt/
-核心：不及物。一是（对……）作出反应：react to；二是（因不满而）反抗、反对：react against；三是（化学）起反应：react with；四是（身体对药物、食物）过敏、起不良反应：react to。
+核心：不及物。一是（对……）作出反应：react to；二是（化学）起反应：react with；三是（身体对药物、食物）过敏、起不良反应：react to。
 ① How did your parents react to the news?
 = 你父母听到这个消息有什么反应？
 react to something = 对某事作出反应
@@ -21,7 +21,7 @@ react badly to something = 对某物反应很大
 reaction
 /riˈækʃn/
 核心：名词：反应：react 的名词，可数也可不可数：a reaction to；反感、抵制，单数：a reaction against；（化学）反应，可数；（身体的）不良反应、过敏，可数；
-reactions 是反应能力、反应速度，复数：quick reactions；（政治上的）保守、反动，不可数。复合词 reaction time 是反应时间。
+reactions 是反应能力、反应速度，复数：quick reactions；（政治上的）保守、反动，不可数。
 ① What was his reaction when you told him?
 = 你告诉他的时候，他什么反应？
 somebody's reaction = 某人的反应
@@ -105,10 +105,8 @@ read
 核心：动词，过去式、过去分词 read /red/：读、阅读：read a book、read about；朗读、念：read aloud、read something to somebody；看懂（文字、乐谱、地图、表情）：read music、read a map；
 （仪表）显示、读数为；（英式）（在大学）攻读：read history；（文字）读起来、写着：read well、the sign reads；理解、解读：read something as；（电脑）读取；（英式）（议会）审读（议案）。
 名词：（口语）读物：a good read，单数；阅读，单数：have a read。
-短语动词：read back 是复述、回读；read into 是（对话语）过度解读；read on 是接着往下读；read out 是大声读出；read over、read through 是从头到尾读一遍；
-read up on 是（为了解某事）研读、查资料。
 习语：read between the lines 是体会言外之意；read somebody's mind 是看透某人的心思；take something as read 是（英式）认为某事理所当然、无须再提；
-read somebody like a book 是对某人了如指掌。复合词 read-only 是只读的；read-write 是可读写的；read-in 是（数据）读入。
+read somebody like a book 是对某人了如指掌。
 ① She reads a book every week on the train to work.
 = 她每周坐火车上班的路上读一本书。
 read a book = 读书
@@ -291,7 +289,6 @@ reading
 /ˈriːdɪŋ/
 核心：名词：阅读、读书，不可数：reading and writing；读物、阅读材料，不可数：light reading；（公开的）朗诵会、宣读，可数：a poetry reading；
 （仪表的）读数，可数：a meter reading；理解、解读，可数：my reading of the situation；（英国议会对议案的）一读、二读、三读，可数。形容词：阅读的、阅读用的。
-复合词 reading room 是阅览室。
 ① Reading is her favourite way to relax after work.
 = 读书是她下班后最喜欢的放松方式。
 reading = 阅读
@@ -352,7 +349,6 @@ ready
 就要、快要：ready to cry、ready to drop。放在名词前：迅速的、现成的、随时可用的：a ready answer、ready cash。
 动词：（正式）使作好准备：ready yourself for。名词 the ready 是（英式口语）现金。
 习语：ready and waiting 是准备就绪、只等着；get ready 是作准备。
-复合词：ready-made 是现成的；ready reckoner 是（英式）计算便查表；ready-to-wear 是（衣服）成衣的、现成的。
 ① Are you ready to go, or do you need more time?
 = 你准备好走了吗，还是要再等一会儿？
 be ready to do = 准备好做某事
@@ -436,7 +432,6 @@ real
 核心：形容词：真的、真正的、真实的：存在的、不是想象的；真心的、实实在在的：real friends；纯正的、不是仿造的：real leather；（用来强调）十足的、真正的：a real problem；
 （经济）实际的、扣除物价因素后的：real wages。副词：（美式口语）非常、真：real good。
 习语：for real 是（口语）真的、当真的；get real 是（口语）现实点吧、别做梦了；the real thing 是真货、真爱。
-复合词 real tennis 是（英式）室内网球；real time 是实时：in real time；real-world 是现实世界的。
 ① Is this a real diamond or a piece of glass?
 = 这是真钻石还是一块玻璃？
 a real diamond = 真钻石

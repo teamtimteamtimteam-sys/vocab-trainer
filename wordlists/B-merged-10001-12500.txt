@@ -2,7 +2,7 @@ Gaelic
 /ˈɡeɪlɪk/
 核心：两支，都得大写。一是盖尔语这一支凯尔特语言 —— 爱尔兰的那门平时说
 Irish 或 Gaelic，苏格兰的那门说 Scottish Gaelic，两者不能互换；
-二是形容词，盖尔语的、盖尔文化的，常见于 Gaelic football、Gaelic music。
+二是形容词，盖尔语的、盖尔文化的，常见于 Gaelic music。
 注意跟只差一个字母的 Gallic（法国的）毫不相干。
 ① Gaelic is taught in every school there and spoken in only a few homes.
 = 那里每所学校都教盖尔语，真正在家说的只有几户。
@@ -164,7 +164,7 @@ new genera = 新属
 general
 /ˈdʒenrəl/
 核心：五支。一是总体的、普遍的：a general rule；二是笼统的、不具体的；
-三是总的、全面的：general knowledge；四是（军衔）将军；
+三是总的、全面的；四是（军衔）将军；
 五是习语 in general，一般来说。副词 generally 并入本条。
 ① As a general rule they answer letters and never answer the phone.
 = 一般而言，他们回信，从不接电话。
@@ -368,7 +368,7 @@ be generational = 属于代际差异
 generative
 /ˈdʒenərətɪv/
 核心：三支。一是能生成的、有生成力的：a generative process；
-二是（语言学）生成的：generative grammar；三是（技术）生成式的。
+二是（语言学）生成的；三是（技术）生成式的。
 ① A generative process makes more of itself out of what it has already made.
 = 生成性的过程，会拿已经做出的东西再造出更多。
 a generative process = 生成性的过程
@@ -1785,12 +1785,11 @@ get
 四条主干都是它的变形：
 一是取得：拿到手里，对象可以是东西、消息、分数、病痛（get a letter、get flu）。
 二是变成：当系动词，后面接形容词，重心在「变」不在「是」（get cold）。
-三是到达：人或物挪到某处；home、there、here 直接跟，接名词要用 get to。
+三是到达：人或物挪到某处；home、there、here 直接跟，接名词要加 to。
 四是促成：让别人做、或让事情成（get somebody to do、get something done）。
 短语动词几乎全是这四支加一个方向词：往里 in / into，往外 out / away，
 往上 up，往下 down，穿过去 through / across，绕过去 round / around，
-跟上 on / along，落后 behind。认出方向词多半能推出意思；
-推不出的那三个（get at、get away with、get off on）另有来历，底下单列。
+跟上 on / along，落后 behind。认出方向词多半能推出意思。
 三态不规则：get / got / got，美式过去分词多用 gotten。
 ① I got a letter from the council and three from the same shop.
 = 我收到议会一封信，同一家店寄来三封。
@@ -2534,7 +2533,7 @@ giddy
 核心：形容词四支。一是头晕的、天旋地转的：feel giddy；二是（因兴奋而）
 飘飘然、晕头转向的：giddy with excitement；三是（旧，贬）轻浮不稳重的；
 四是固定说法 the giddy heights，说高得眩目的位置或成绩，多带调侃。
-副词 giddily 与名词 giddiness 并入本条；吆喝马前进的 giddy-up 也在这里。
+副词 giddily 与名词 giddiness 并入本条。
 ① She felt giddy at the top of the ladder and came down two rungs.
 = 她在梯子顶上一阵头晕，退下来两级。
 feel giddy = 觉得头晕
@@ -2602,7 +2601,7 @@ gig
 /ɡɪɡ/
 核心：三支，外加一个旧义。一是（乐队、喜剧演员的）一场演出：play a gig；
 二是（口语）一份活儿，多指临时的、按次算钱的；三是（计算机口语）吉字节，
-a gig 就是一 GB。旧义是双轮轻便马车。由第二支长出 the gig economy 零工经济。
+a gig 就是一 GB。旧义是双轮轻便马车。
 ① They play a gig every Friday in a pub that holds forty people.
 = 他们每周五在一家只装得下四十人的酒馆演一场。
 play a gig = 演一场
@@ -2838,8 +2837,7 @@ gilt
 /ɡɪlt/
 核心：三支。一是名词，镀金层、金箔；二是形容词，镀金的 —— 这是 gild
 的旧过去分词凝固下来的；三是（英，金融）金边债券，多用复数 gilts，
-指政府发行、风险最低的那类债。复合词 gilt-edged 兼有「烫金边的」
-与「最稳妥的」两义，金融义比字面义常见得多。
+指政府发行、风险最低的那类债。
 ① The gilt on that frame is thinner than paper and older than the painting.
 = 那个画框上的镀金比纸还薄，比画还老。
 the gilt on something = 某物上的镀金层
@@ -2919,9 +2917,8 @@ gimmickry = 一堆噱头
 
 gin
 /dʒɪn/
-核心：三支，外加两个复合词。一是杜松子酒、琴酒，不可数：a gin and tonic；
-二是轧棉机，cotton gin，把棉籽和纤维分开的机器；三是纸牌游戏 gin rummy
-的简称。另有 gin trap（旧式捕兽夹）与 gin sling（琴酒调的长饮）。
+核心：三支。一是杜松子酒、琴酒，不可数：a gin and tonic；
+二是轧棉机，cotton gin，把棉籽和纤维分开的机器；三是一种纸牌游戏的简称。
 第二支跟酒无关，来自 engine 的缩略。
 ① A gin and tonic with too much ice tastes of nothing by the second half.
 = 冰块放太多的琴汤力，喝到一半就没味了。
@@ -2941,10 +2938,8 @@ a gin sling = 琴司令（琴酒长饮）
 
 ginger
 /ˈdʒɪndʒə(r)/
-核心：四支。一是姜，不可数：fresh ginger；二是形容词，姜黄色的、红棕色的，
-多说头发与猫；三是动词短语 ginger something up，给…提提劲；
-四是做定语，带出一串饮料与点心：ginger ale、ginger beer、ginger wine、
-ginger nut。另有 ginger group，指团体内部推动改革的一小撮人。
+核心：三支。一是姜，不可数：fresh ginger；二是形容词，姜黄色的、红棕色的，
+多说头发与猫；三是动词短语 ginger something up，给…提提劲。
 形容词 gingery 并入本条。
 ① Fresh ginger keeps for a month in the fridge and much longer frozen.
 = 鲜姜冷藏能放一个月，冻起来能放得久得多。
@@ -3112,8 +3107,8 @@ feed a giraffe = 喂长颈鹿
 gird
 /ɡɜːd/
 核心：动词（书面、偏旧），束、缚、环绕 —— 本义是用带子把衣服或兵器系在身上。
-今天几乎只活在三处：gird your loins（严阵以待，出自圣经，多半带调侃）、
-gird for something（为某事做准备）、以及被动的「被…环绕」。
+今天几乎只活在两处：gird your loins（严阵以待，出自圣经，多半带调侃）与
+被动的「被…环绕」。
 过去式与过去分词 girded，古旧形式 girt 仍见于诗文。
 ① They told the staff to gird for a long winter of complaints.
 = 他们叫员工做好准备，迎接一个满是投诉的漫长冬天。
@@ -3161,10 +3156,9 @@ the pelvic girdle = 骨盆带
 
 girl
 /ɡɜːl/
-核心：四支。一是女孩、少女：a little girl；二是（口语，指成年女性）姑娘、
+核心：三支。一是女孩、少女：a little girl；二是（口语，指成年女性）姑娘、
 女的 —— 这一支要当心，工作场合称成年女同事为 girl 容易冒犯，正式说 woman；
-三是女儿：our eldest girl；四是一串搭配：a girl band、girl power、
-girl Friday（打杂的女助理，说法已旧且带轻视）。
+三是女儿：our eldest girl。
 名词 girlhood、形容词 girlish 与 girly 并入本条。
 ① A little girl in the front row asked the only difficult question.
 = 前排一个小女孩，问了唯一一个难回答的问题。
@@ -3476,10 +3470,10 @@ ask for a giveback = 要求对方让步
 
 given
 /ˈɡɪvən/
-核心：四支。形式上是 give 的过去分词，但这几支各有自己的用法，所以单立一条。
-一是介词，考虑到、鉴于：given the delays；二是连词 given that；
-三是形容词，指定的、事先定好的：at a given time，并构成 given name；
-四是名词，a given，不必再论证的前提。
+核心：三支。形式上是 give 的过去分词，但这几支各有自己的用法，所以单立一条。
+一是介词，考虑到、鉴于：given the delays；
+二是形容词，指定的、事先定好的：at a given time；
+三是名词，a given，不必再论证的前提。
 ① Given the delays, nobody expected the boat to leave that afternoon.
 = 考虑到这些延误，没人指望船那天下午能开。
 given something = 考虑到某事
@@ -3595,9 +3589,8 @@ glaciation = 冰川作用、冰期
 
 glad
 /ɡlæd/
-核心：三支。一是高兴的、乐意的：be glad to do something —— 只作表语，
-不说 a glad man；二是 glad of something，庆幸有某物；三是搭配 glad rags
-（出门穿的好衣裳，口语、略旧）与 glad-hand（热络地跟人握手拉近乎，贬义）。
+核心：两支。一是高兴的、乐意的：be glad to do something —— 只作表语，
+不说 a glad man；二是 glad of something，庆幸有某物。
 副词 gladly、动词 gladden 与名词 gladness 并入本条。
 ① I am glad to help and gladder still to be asked.
 = 我乐意帮忙，被人开口问更高兴。
@@ -3675,8 +3668,7 @@ glamour
 核心：名词，光鲜、魅力 —— 那种让人向往、带点不真实的吸引力，多说影视、时尚、
 远方与名利场。不可数。美式常拼作 glamor。
 动词 glamorize（把…美化得光鲜）、形容词 glamorous、副词 glamorously
-与口语的缩略形式 glam 并入本条；另有 glam rock（华丽摇滚）
-与 glamour model（以性感照片为业的模特）。
+与口语的缩略形式 glam 并入本条；另有 glam rock（华丽摇滚）。
 ① The glamour of that job lasted about three weeks.
 = 那份工作的光鲜劲儿，维持了大约三个星期。
 the glamour of something = 某事的光鲜
@@ -3716,9 +3708,8 @@ go glamping = 去豪华露营
 
 glance
 /ɡlɑːns/
-核心：三支。一是动词与名词，瞥一眼：glance at something、take a glance；
-二是 glance off，（物体）擦过某物后弹开；三是固定说法 at a glance
-（一眼就看出）与 at first glance（乍一看，后面多半跟着「其实不然」）。
+核心：两支。一是动词与名词，瞥一眼：glance at something、take a glance；
+二是固定说法 at a glance（一眼就看出）与 at first glance（乍一看，后面多半跟着「其实不然」）。
 形容词 glancing（擦过的、轻擦的）并入本条。
 ① She glanced at the clock twice and neither of us said anything.
 = 她瞟了两眼钟，我们俩谁也没说话。
@@ -3814,8 +3805,8 @@ glass
 /ɡlɑːs/
 核心：四支，外加一族复合词。一是玻璃这种材料，不可数：a pane of glass；
 二是玻璃杯，可数：a glass of water；三是复数的 glasses，眼镜；
-四是动词：glass something in（装玻璃封起来）、glass over（结上薄冰、蒙上一层）。
-习语 a glass ceiling 是看不见的晋升天花板，raise a glass 是举杯。
+四是动词：glass something in（装玻璃封起来）。
+习语 raise a glass 是举杯。
 名词 glassful、glassware、glasspaper 与形容词 glassy 并入本条。
 ① A pane of glass that size takes four people and two suction cups.
 = 那么大的一块玻璃，要四个人加两个吸盘才搬得动。
@@ -3994,9 +3985,8 @@ cross the glebe = 横穿圣职地
 
 glee
 /ɡliː/
-核心：两支。一是欢快 —— 而且多半是别人倒霉带来的那种痛快：with glee、
-rub your hands in glee；二是 glee club，本指唱多声部短歌的男声合唱团，
-今天多指学校里的合唱社团。形容词 gleeful 与副词 gleefully 并入本条。
+核心：欢快 —— 而且多半是别人倒霉带来的那种痛快：with glee、
+rub your hands in glee。形容词 gleeful 与副词 gleefully 并入本条。
 跟 joy 的分别：joy 是正大光明的喜悦，glee 往往幸灾乐祸。
 ① He read out the result with glee and nobody else in the room was smiling.
 = 他兴冲冲地念出结果，屋里别人谁也没笑。
@@ -4261,8 +4251,7 @@ global
 核心：三支。一是全球的：a global market；二是总体的、全面的：a global view ——
 这一支少见些，但正式文本里常出现；三是计算机里的「全局的」：a global variable。
 副词 globally，以及 globalism、globalist、globalization、globalize
-一族并入本条；另有 global warming、global heating、global village
-与 global positioning system。
+一族并入本条。
 ① A global market means a strike in one port empties shelves everywhere.
 = 全球化的市场意味着一个港口罢工，到处的货架都空。
 a global market = 全球市场
@@ -4307,7 +4296,7 @@ globe
 核心：三支。一是地球，多说 the globe，比 the world 略正式：around the globe；
 二是地球仪；三是球形的东西：a glass globe（灯罩、鱼缸那一类）。可数。
 形容词 globular、名词 globule（小滴、小球）、globetrotter 与 globetrotting
-并入本条；另有 globe artichoke（洋蓟）。
+并入本条。
 ① Orders come in from around the globe and ship from one small town.
 = 订单来自世界各地，发货却只从一个小镇。
 around the globe = 世界各地
@@ -4370,7 +4359,7 @@ the glockenspiel part = 钟琴声部
 glom
 /ɡlɒm/
 核心：动词（美式口语），两支。一是抢到手、顺走：glom something；
-二是更常用的 glom onto something —— 一把抓住不放，也说「黏上某人」
+二是更常用的，后接 onto —— 一把抓住不放，也说「黏上某人」
 或「一头扎进某个说法」。过去式与过去分词 glommed。
 ① He glommed the last seat by the window before anybody else moved.
 = 别人还没动，他就抢到了靠窗最后一个座位。
@@ -4477,10 +4466,9 @@ fail gloriously = 败得轰轰烈烈
 
 glory
 /ˈɡlɒri/
-核心：四支。一是荣耀、光荣：win glory；二是最出彩的东西、亮点：
-the glory of that garden；三是全盛的模样：in all its glory；
-四是动词 glory in something，以某事自得（多半带点张扬）。
-另有 glory days，指当年风光的日子。
+核心：三支。一是荣耀、光荣：win glory；二是最出彩的东西、亮点：
+the glory of that garden；三是全盛的模样：in all its glory。
+另作动词，后接 in，以某事自得（多半带点张扬）。
 ① They won glory in one season and spent the next ten years talking about it.
 = 他们一个赛季赢得荣耀，接下来十年都在讲这件事。
 win glory = 赢得荣耀
@@ -4507,10 +4495,10 @@ bask in reflected glory = 沾别人的光
 
 gloss
 /ɡlɒs/
-核心：四支。一是光泽、亮面：a high gloss；二是亮光漆 gloss paint，
-与 matt（哑光）相对；三是（词句的）注释、释义 —— 这一支跟 glossary 同源；
-四是动词 gloss over something，轻描淡写地带过。形容词 glossy 并入本条。
-第三支与第四支的关联值得记：本义是「加一句解释」，引申成「一句话带过」。
+核心：三支。一是光泽、亮面：a high gloss；二是亮光漆 gloss paint，
+与 matt（哑光）相对；三是（词句的）注释、释义 —— 这一支跟 glossary 同源。
+另作动词，后接 over，是轻描淡写地带过。形容词 glossy 并入本条。
+第三支与这个动词用法的关联值得记：本义是「加一句解释」，引申成「一句话带过」。
 ① A high gloss shows every mark and needs washing twice a week.
 = 高光面把每个印子都显出来，一周得擦两回。
 a high gloss = 高光泽
@@ -4546,9 +4534,9 @@ a term in the glossary = 术语表里的词条
 glottal
 /ˈɡlɒtəl/
 核心：形容词（语音学），声门的 —— 由声门造出来的音。声门就是两条声带之间
-那道缝，名词写作 glottis。最常说的是 glottal stop：气流在声门处被完全截断的
+那道缝，名词写作 glottis。最常说的是声门塞音：气流在声门处被完全截断的
 那一下，英式口语里 butter 中间的 tt 常读成它。
-名词 glottis 与 glottal fry（句尾那种吱嘎的低音）并入本条。
+名词 glottis 并入本条。
 ① A glottal stop replaces the t in that word across most of the city.
 = 那个词里的「t」，全城大半地方都读成了喉塞音。
 a glottal stop = 喉塞音
@@ -4564,11 +4552,10 @@ a glottal sound = 声门音
 
 glove
 /ɡlʌv/
-核心：三支，外加一族搭配。一是手套 —— 分指的那种，连指的叫 mitten；
+核心：三支。一是手套 —— 分指的那种，连指的叫 mitten；
 二是过去分词形式 gloved（戴着手套的），动词本身少用；
 三是三条习语：fit like a glove（严丝合缝）、the gloves are off（撕破脸）、
 hand in glove（密切勾结，贬义）。
-另有 glove compartment（车里的储物箱，也说 glovebox）与 glove puppet（手偶）。
 ① A pair of gloves lives in that coat pocket from October to April.
 = 从十月到四月，那件大衣口袋里总放着一副手套。
 a pair of gloves = 一副手套
@@ -4600,8 +4587,7 @@ glow
 核心：四支。一是不带火焰的光、余烬般的光：the glow of the fire；
 二是（脸、皮肤）泛红发热：a healthy glow；三是心里的一股暖意：a glow of pride；
 四是动词，发出这种光或这种感觉：glow with pride。
-形容词 glowing（发光的；热情称赞的）与副词 glowingly 并入本条；
-另有 glow stick（荧光棒）与 glow-worm（发光的雌萤）。
+形容词 glowing（发光的；热情称赞的）与副词 glowingly 并入本条。
 注意别混：glower（怒视）跟这个词不同源，另立一条。
 ① The glow of the fire lasted an hour after the last log fell apart.
 = 最后一块柴散开之后，炉火的余光还亮了一个钟头。
@@ -4661,8 +4647,7 @@ glue
 /ɡluː/
 核心：名词与动词。名词是胶水，不可数（说某一种胶时可以说 a glue）；
 动词是粘住，也比喻「眼睛黏在上面」：be glued to the screen。
-形容词 gluey 并入本条；另有 glue ear（儿童分泌性中耳炎，英式说法）
-与 glue-sniffing（吸胶毒）。
+形容词 gluey 并入本条。
 ① That glue holds paper to wood and holds nothing at all to plastic.
 = 那种胶粘得住纸和木头，粘塑料一点用没有。
 glue = 胶水
@@ -4888,7 +4873,7 @@ be a gnat next to something = 跟某事相比微不足道
 
 gnaw
 /nɔː/
-核心：三支。一是啃、咬（硬东西）：gnaw a bone；二是 gnaw at something，
+核心：三支。一是啃、咬（硬东西）：gnaw a bone；二是后接 at，
 一点一点蚀掉、磨掉；三是比喻，（忧虑、疑心）折磨人：doubt gnawed at him。
 形容词与名词 gnawing（折磨人的；隐隐作痛的）并入本条。
 注意读音：g 不发音，读作 naw；过去式 gnawed，过去分词也可写 gnawn（少见）。
@@ -5024,7 +5009,7 @@ go
 /ɡəʊ/
 核心：底层只有一句话 —— 离开此处、朝另一处去。位置、状态、过程三头都算，
 所有义项都是这一句的变形：
-一是移动：go to work、go home（home、there、abroad 直接跟，接名词要 go to）。
+一是移动：go to work、go home（home、there、abroad 直接跟，接名词要加 to）。
 二是离开：I must go —— 重心在「不在这儿了」，不在去哪儿。
 三是延伸：路、线、界限通到哪里：the road goes to the coast。
 四是变成，当系动词用，而且多半变坏：go bad、go grey、go mad
@@ -5033,7 +5018,7 @@ go
 六是耗掉：时间、钱、体力没了：the money goes on rent。
 七是归位：某样东西该放在哪儿：Where do the plates go?
 八是发出声音：the gun went bang。
-九是相配：these colours go、go with something。
+九是相配：these colours go。
 十是 be going to，表打算与预测。
 短语动词几乎全是这四支加一个方向词：出去 out，进去 in / into，回去 back，
 过去 over / through，下去 down，上去 up，绕着 around / round，跟着 along / with，
@@ -5301,9 +5286,8 @@ a goad = 赶牲口的尖棍
 
 goal
 /ɡəʊl/
-核心：四支。一是球门；二是进球、得分：score a goal；三是目标、目的：set a goal；
-四是做定语，带出一族足球用语：goal kick、goal line、goal area、goal difference、
-goal poacher。形容词 goalless 与名词 goalmouth、goalpost、goalscorer 并入本条。
+核心：三支。一是球门；二是进球、得分：score a goal；三是目标、目的：set a goal。
+形容词 goalless 与名词 goalmouth、goalpost、goalscorer 并入本条。
 第三支在日常英语里比前两支还常用，写目标时跟 aim、objective 大体通用。
 ① He put the ball into an empty goal from near the halfway line.
 = 他从靠近中线的地方，把球打进了空门。
@@ -5377,7 +5361,7 @@ goat
 核心：三支。一是山羊；二是（口语，贬）讨厌的老家伙：an old goat；
 三是新义 the GOAT —— greatest of all time 的首字母缩写，指史上最强的人，
 多写成大写。习语 get somebody's goat 是惹毛某人。
-名词 goatherd、goatskin 与搭配 goat cheese 并入本条。
+名词 goatherd 与 goatskin 并入本条。
 ① A goat will eat the labels off the tins if you leave the door open.
 = 门一开着，山羊连罐头上的标签都啃。
 a goat = 山羊
@@ -5566,8 +5550,7 @@ god
 核心：三支，外加一族搭配。一是大写的 God —— 一神教里的神，当专名用，不带冠词；
 二是小写的 a god，多神信仰里的神祇，可数；三是比喻，被奉若神明的人或东西。
 另有 the gods：英式剧院里最高最便宜的那层座位。
-搭配一族全从这里长出来：God-fearing（敬神守礼的）、God-given（天赋的）、
-godsend（天降的好事）、godforsaken（荒僻得像被神遗弃）、godhead（神性）、
+搭配一族全从这里长出来：godsend（天降的好事）、godforsaken（荒僻得像被神遗弃）、godhead（神性）、
 goddam 与 godawful（加重语气的骂法）。
 ① They pray to God twice a day and never mention it to anybody.
 = 他们一天向神祷告两次，从不对人提起。
@@ -5711,9 +5694,8 @@ be the gofer = 当跑腿的
 
 goggle
 /ˈɡɒɡəl/
-核心：两支，外加两个复合词。一是动词，瞪大眼睛看，多因惊讶：goggle at something；
+核心：两支。一是动词，瞪大眼睛看，多因惊讶：goggle at something；
 二是名词复数 goggles —— 护目镜、泳镜、风镜，永远用复数，说一副是 a pair of goggles。
-形容词 goggle-eyed（瞪着眼的）与英式旧称 goggle-box（电视机）并入本条。
 ① Two children goggled at the machine until somebody moved them along.
 = 两个孩子瞪着那台机器看，直到有人把他们赶开。
 goggle at something = 瞪着看某物
@@ -5763,7 +5745,7 @@ going
 核心：三支（动词 go 的现在分词用法见 go 条）。一是名词，路况、进展的难易：
 the going is hard；二是形容词，现行的：the going rate 是时价；
 三是名词性搭配 comings and goings，来来往往的人与事。
-名词 goings-on（乱七八糟的事）与 going-over（彻底检查；痛打一顿）并入本条。
+名词 goings-on（乱七八糟的事）并入本条。
 ① The going was hard for the first mile and easy after the bridge.
 = 头一英里路难走，过了桥就轻松了。
 the going is hard = 路不好走
@@ -5795,11 +5777,9 @@ look for goitre = 查甲状腺肿
 
 gold
 /ɡəʊld/
-核心：四支，外加一大族复合词。一是黄金，不可数：a gold ring；二是金色；
+核心：四支。一是黄金，不可数：a gold ring；二是金色；
 三是金牌：win gold；四是（口语）极宝贵的东西：that paragraph is gold。
-复合词：gold leaf、gold mine、gold rush、gold standard、gold medal 与
-gold medallist、gold reserve、gold plate 与 gold-plated、gold record、
-gold-digger、goldbrick。习语 a heart of gold 是心地极好。
+复合词 goldbrick 也并入本条。习语 a heart of gold 是心地极好。
 ① A gold ring found in that field is older than the church beside it.
 = 那块地里挖出的金戒指，比旁边的教堂还老。
 a gold ring = 金戒指
@@ -5879,12 +5859,8 @@ the goldcrest = 那只戴菊
 
 golden
 /ˈɡəʊldən/
-核心：三支，外加一大族搭配。一是金色的：golden hair；二是（书面）金制的；
+核心：三支。一是金色的：golden hair；二是（书面）金制的；
 三是比喻，极好的、千载难逢的：a golden opportunity —— 这一支最常用。
-搭配一族全从第三支来：golden age、golden rule、golden goal、golden handshake、
-golden hello、golden handcuffs、golden parachute、golden jubilee、golden wedding、
-golden oldie、golden ticket、golden thread、golden section、golden ager，
-以及三个跟颜色有关的：golden retriever、golden syrup、golden raisin。
 名词 goldenrod（一枝黄花）也并在这里。
 ① Golden hair in that painting is really nine different shades of brown.
 = 那幅画里的金发，其实是九种深浅不同的棕色。
@@ -5978,7 +5954,6 @@ twelve goldfinches = 十二只金翅雀
 goldfish
 /ˈɡəʊldfɪʃ/
 核心：名词，金鱼 —— 单复数同形，不说 goldfishes。养在缸里或池里。
-习语 a goldfish bowl 指毫无隐私的处境：一举一动都被看着。
 ① A goldfish outlived two cats and one marriage in that house.
 = 那家的一条金鱼，熬过了两只猫和一段婚姻。
 a goldfish = 金鱼
@@ -6038,8 +6013,6 @@ golf
 /ɡɒlf/
 核心：名词与动词。名词是高尔夫球运动：play golf —— 英语里说「打高尔夫」
 多半用 play golf，动词 golf 也说得通但少见。
-搭配一族：a golf course（球场）、golf links（海边的林克斯球场）、
-a golf club（球杆，也指球会）、a golf cart（球车）、a golf shirt（翻领短袖衫）。
 名词 golfer 与 golfing 并入本条。另外记一条：golf 在无线电字母表里代表 G。
 ① They play golf on a course that floods twice every winter.
 = 他们打球的那个球场，每个冬天要淹两回。
@@ -6240,10 +6213,7 @@ good
 七是有效、还作数：the ticket is good for a month。
 八是名词：好处与善本身：do good、for the good of everybody、for good（永远）。
 比较级与最高级不规则：good / better / best，各有独立词条，不在这里重复。
-复合词一大族：好看（good-looking、good looks）、好脾气（good-natured、
-good-tempered、good-humoured）、心地好（good-hearted）、没出息（good-for-nothing）、
-常识（good sense）、名声（good name）。问候语 good morning / good day /
-good evening 也归这一支：省略的是 I wish you a good morning。
+见面的问候语也从这里来：省略的是 I wish you a good morning。
 ① A good book and a bad chair ruined an otherwise excellent afternoon.
 = 一本好书配一把烂椅子，毁掉了一个本该极好的下午。
 a good book = 一本好书
@@ -6467,8 +6437,7 @@ a long goodnight = 冗长的道别
 goods
 /ɡʊdz/
 核心：名词，永远用复数。一是货物、商品：electrical goods；
-二是（英）铁路运的货：a goods train（美式说 freight train）；
-三是法律用语 goods and chattels，指全部动产。
+二是（英）铁路运的货，运货的列车美式说 freight train。
 习语 deliver the goods 是「拿出真东西、说到做到」。
 注意：说「商品」不用单数 good；单数的 good 是「好处」，见 good 条第八支。
 ① Electrical goods go back to the shop and never to the maker.
@@ -6505,8 +6474,6 @@ goody
 核心：三支（口语）。一是好吃的或好玩的小东西，多用复数 goodies，
 也拼作 goodie；二是（故事、电影里的）好人，跟 baddy 相对，英式；
 三是感叹词，好哇 —— 多为儿童，成年人说多半是打趣。
-搭配 a goody bag 是活动上发的礼品袋；goody-goody 与 goody two shoes
-都指装乖讨好的人，贬义。
 ① A tin of goodies came out whenever somebody in the house was ill.
 = 家里谁病了，那罐好吃的就会拿出来。
 goodies = 好吃好玩的小东西
@@ -6531,9 +6498,8 @@ She was called a goody two shoes for handing the wallet in.
 
 goof
 /ɡuːf/
-核心：三支（口语，尤美式）。一是动词，犯傻、搞砸：goof on something；
-二是名词，一处傻错，也指犯傻的人；三是两个短语：goof around（瞎混、胡闹）
-与 goof off（偷懒、开小差）。
+核心：两支（口语，尤美式）。一是动词，犯傻、搞砸：goof on something；
+二是名词，一处傻错，也指犯傻的人。
 名词 goofball（活宝、怪人）与形容词 goofy（傻气的、呆头呆脑的）并入本条。
 ① He goofed on the first take and the second one was the one they used.
 = 他第一条演砸了，最后用的是第二条。
@@ -6675,8 +6641,8 @@ goose
 /ɡuːs/
 核心：三支，外加一族搭配。一是鹅，复数不规则，是 geese；
 二是（旧，口语）傻瓜：a silly goose；三是动词（口语），冷不防戳人屁股。
-搭配一族：goosebumps、gooseflesh、goose pimples（鸡皮疙瘩，三种说法同义）、
-goose-step（正步走）、a goose egg（零分，美式）、gooseneck（鹅颈形的弯管或支架）。
+搭配一族：goosebumps、gooseflesh（鸡皮疙瘩，两种说法同义）、
+gooseneck（鹅颈形的弯管或支架）。
 两条习语：cook somebody's goose 是断送某人的好事；
 kill the golden goose 是为眼前小利毁掉长久财源。
 ① A goose will see you off a field faster than any dog.
@@ -6945,7 +6911,7 @@ gospel
 /ˈɡɒspəl/
 核心：四支。一是（大写）福音书 —— 新约头四卷；二是福音、教义：preach the gospel；
 三是（口语）不容怀疑的真话：the gospel truth、take something as gospel；
-四是福音音乐：gospel music、a gospel choir。
+四是福音音乐：a gospel choir。
 第三支是日常英语里最常用的一支，多半带着一点怀疑的口气。
 ① The Gospel of Mark is the shortest and probably also the earliest.
 = 《马可福音》最短，很可能也最早。
@@ -6987,8 +6953,7 @@ gossip
 /ˈɡɒsɪp/
 核心：三支。一是名词，闲话、八卦，不可数：idle gossip；
 二是名词，爱说闲话的人：a terrible gossip；三是动词：gossip about somebody。
-形容词 gossipy 并入本条；搭配 a gossip column（八卦专栏）与
-a gossip columnist（八卦专栏作者）也在这里。
+形容词 gossipy 并入本条。
 跟 rumour 的分别：rumour 是一条没证实的消息，gossip 是说这些消息这件事。
 ① Idle gossip in that office travels faster than any official notice.
 = 那间办公室里的闲话，传得比任何正式通知都快。
@@ -7043,7 +7008,7 @@ the Goths = 哥特人
 Gothic
 /ˈɡɒθɪk/
 核心：三支，都大写。一是（建筑）哥特式的 —— 尖拱、飞扶壁、高窗，
-十二世纪起的欧洲大教堂多是这一路；二是（文学）哥特式的：a Gothic novel，
+十二世纪起的欧洲大教堂多是这一路；二是（文学）哥特式的，
 写古堡、黑夜与恐惧；三是（排印）哥特体，也叫黑体字。
 作名词时 Gothic 还指哥特语，古代哥特人的语言。
 小写的 gothic 说的则是现代那种黑衣浓妆的风格，见 goth 条。
@@ -7105,10 +7070,9 @@ young Gouda = 嫩高达
 
 gouge
 /ɡaʊdʒ/
-核心：四支。一是动词，凿出、划出（深槽或深痕）：gouge a line；
-二是短语 gouge out，挖出、掏出，说眼睛时语气很重；
-三是名词，圆凿（木工用的弧形凿子），也指凿出来的那道痕；
-四是（美式口语）漫天要价：gouge customers。
+核心：三支。一是动词，凿出、划出（深槽或深痕）：gouge a line；
+二是名词，圆凿（木工用的弧形凿子），也指凿出来的那道痕；
+三是（美式口语）漫天要价：gouge customers。
 ① A branch gouged a line down the side of the car from front to back.
 = 一根树枝在车身侧面从头到尾划出一道深痕。
 gouge something = 凿出、划出深痕
@@ -7257,7 +7221,7 @@ government
 三是（不可数）统治这件事本身。形容词 governmental 并入本条。
 一条语法差别要记住：英式常把 the government 当复数用
 （the government have agreed），美式一律当单数。
-搭配：a coalition government、central government、a government health warning。
+搭配：a coalition government、central government。
 ① The government has decided to keep that road open for another winter.
 = 政府决定让那条路再开一个冬天。
 the government = 政府
@@ -7285,7 +7249,6 @@ governor
 二是（学校、医院、监狱的）董事、理事、典狱长：a school governor；
 三是（英，口语，旧）老板、老爷子，也写作 guv'nor；
 四是（机械）调速器 —— 限制发动机转速的装置。
-搭配 governor general 是总督，指英联邦国家里代表君主的那一位。
 ① The governor of that state pardoned four people on his last day in office.
 = 那个州的州长，在任期最后一天赦免了四个人。
 the governor of a state = 州长
@@ -7459,9 +7422,9 @@ the grackle = 那只拟八哥
 grad
 /ɡræd/
 核心：名词与形容词（口语，尤美式），是 graduate 的缩略：
-a grad（毕业生）、grad school（研究生院）、a grad student（研究生）。
+a grad（毕业生）、a grad student（研究生）。
 可数。正式文字里一律写 graduate。
-英式说研究生院多用 postgraduate，美式用 grad school，这是两岸最明显的差别之一。
+英式说研究生阶段多用 postgraduate，美式口语直接用 grad，这是两岸最明显的差别之一。
 ① A grad of that programme runs half the labs in the building.
 = 那个项目的一位毕业生，管着这栋楼里一半的实验室。
 a grad = 毕业生
@@ -7731,9 +7694,8 @@ Gram flour makes a batter that stays crisp for about a minute.
 
 grammar
 /ˈɡræmə(r)/
-核心：三支。一是语法，指一种语言的规则系统，不可数：English grammar；
-二是语法书：a grammar of Arabic；三是 a grammar school —— 英式指按考试
-择优录取的公立中学，美式却指小学，这一条英美差得远。
+核心：两支。一是语法，指一种语言的规则系统，不可数：English grammar；
+二是语法书：a grammar of Arabic。
 形容词 grammatical、副词 grammatically 与名词 grammarian 并入本条。
 ① English grammar has fewer endings and stricter word order than Latin.
 = 英语语法的词尾比拉丁语少，词序却更严。
@@ -7801,10 +7763,9 @@ granary bread = 麦粒褐面包
 
 grand
 /ɡrænd/
-核心：五支。一是宏伟气派的：a grand house；二是（计划、说法）堂皇的：grand plans；
+核心：四支。一是宏伟气派的：a grand house；二是（计划、说法）堂皇的：grand plans；
 三是（英与爱尔兰口语）好极了：That's grand；四是名词（口语），一千镑或一千元，
-单复数同形：five grand，不说 five grands；
-五是做定语构成一族：a grand piano、a grand slam、a grand jury、a grand total。
+单复数同形：five grand，不说 five grands。
 副词 grandly 与名词 grandness 并入本条。
 ① A grand house with eleven bedrooms costs more to heat than to buy.
 = 一栋十一间卧室的气派宅子，取暖比买下它还费钱。
@@ -7913,8 +7874,7 @@ grandfather
 /ˈɡrænfɑːðə(r)/
 核心：名词，祖父、外祖父。口语叫法一大串：grandad、granddad、grandpa，
 以及另立一条的 gramps。可数。
-两个搭配要记：a grandfather clock 是落地摆钟（因一首老歌得名）；
-动词用法 grandfather somebody in（多用被动，美式）指新规出台时让原有的人
+另有动词用法 grandfather somebody in（多用被动，美式）指新规出台时让原有的人
 或做法按老规矩照旧。
 ① Her grandfather kept every receipt from nineteen sixty onwards.
 = 她祖父把一九六〇年以来的每一张收据都留着。
@@ -8223,7 +8183,7 @@ graph
 /ɡrɑːf/
 核心：名词与动词。名词是图表 —— 用线、柱或点表示数量关系的图：a line graph；
 动词（尤美式）是把数据画成图。可数。
-搭配 graph paper 是方格纸；数学与计算机里的 graph 另指由点和边构成的「图」，
+数学与计算机里的 graph 另指由点和边构成的「图」，
 那是术语，跟日常这一支不是一回事。
 跟 chart 的分别：chart 泛指各种图表（连海图也算），graph 强调坐标轴上的量。
 ① A line graph shows the trend and hides every awkward month in it.
@@ -8396,9 +8356,9 @@ grasp at something = 急于抓住某物
 
 grass
 /ɡrɑːs/
-核心：五支，外加三条习语。一是草、草地，不可数：cut the grass；
+核心：四支，外加三条习语。一是草、草地，不可数：cut the grass；
 二是（口语）大麻；三是（英，俚）告密者，也作动词：grass on somebody；
-四是 grassroots，基层的；五是动词 grass over，铺上草。
+四是 grassroots，基层的。
 名词 grasshopper、grassland 与形容词 grassy、过去分词 grassed 并入本条。
 习语：the grass is always greener（这山望着那山高）、
 a snake in the grass（暗藏的小人）。
@@ -8735,9 +8695,8 @@ a side of gravlax = 一整片腌渍三文鱼
 
 gravy
 /ˈɡreɪvi/
-核心：三支。一是肉汁、肉汤调的酱汁 —— 英式烤肉必配，用烤盘里的汁加面粉调成；
+核心：两支。一是肉汁、肉汤调的酱汁 —— 英式烤肉必配，用烤盘里的汁加面粉调成；
 不可数。二是（美，口语）白来的好处：it is all gravy from here。
-三是习语 the gravy train，指不费力却油水足的差事。
 注意英美差别：英式的 gravy 是褐色肉汁；美式南方还有一种白色的 sausage gravy，
 两者只是同名。
 ① Gravy made from the pan is worth the extra ten minutes.
@@ -8909,8 +8868,7 @@ the grebe = 那只䴙䴘
 
 Grecian
 /ˈɡriːʃən/
-核心：形容词，古希腊式的 —— 只说样式与外形：a Grecian urn、Grecian style、
-a Grecian nose（鼻梁与额头连成一条直线）。大写。
+核心：形容词，古希腊式的 —— 只说样式与外形：a Grecian urn、Grecian style。大写。
 注意别混：说国籍、语言与现代希腊的一切都用 Greek；
 Grecian 只用于风格造型，而且多半带着古典艺术的联想。
 ① A Grecian urn on that shelf is a copy made in the nineteenth century.
@@ -8970,7 +8928,7 @@ green
 五是名词，草地、绿地 —— 村里的 the village green，高尔夫球场的果岭；
 六是复数 greens，绿叶菜。
 习语：give somebody the green light（放行）、green with envy（眼红）、
-have green fingers（英式的园艺好手，美式说 a green thumb）。
+have green fingers（英式的园艺好手）。
 名词 greenery、greenness、greenback、greenfield、greenfly、greengage、
 greensward、greenwash，形容词 greenish 与名词 greening、greenkeeper 并入本条。
 ① A green jacket in that photograph is the only colour on the whole page.
@@ -9259,8 +9217,8 @@ the cost of Grexit = 希腊脱欧的代价
 grey
 /ɡreɪ/
 核心：四支，外加一族派生词。一是灰色：a grey suit；二是（头发）花白：go grey；
-三是（天气）阴沉：a grey morning；四是比喻，界限不清的：a grey area。
-名词 greyness、形容词 greyish、grey-haired 与名词 greybeard、greyscale
+三是（天气）阴沉：a grey morning；四是比喻，界限不清的。
+名词 greyness、形容词 greyish 与名词 greybeard、greyscale
 并入本条；狗的品种 greyhound 也在这里。
 拼写：英式 grey，美式 gray（另立一条）；唯独 greyhound 两岸都写 grey。
 ① A grey suit and a blue shirt is the whole of his wardrobe.
@@ -9399,8 +9357,6 @@ grievous
 /ˈɡriːvəs/
 核心：形容词（正式），严重的、令人痛心的：a grievous mistake、grievous harm。
 副词 grievously 并入本条。
-法律上最常见的固定搭配是 grievous bodily harm（重伤害，缩写 GBH），
-那是英国刑法里的罪名。
 注意读音：只有两个音节，GREE-vus；读成三音节的 grievious 是错的，也拼不出。
 ① A grievous mistake in the first week cost them the whole season.
 = 头一周一个严重的失误，毁掉了他们整个赛季。
@@ -10436,14 +10392,11 @@ a grovelling apology = 卑躬屈膝的道歉
 
 grow
 /ɡrəʊ/
-核心：六支，外加一族短语动词。一是（生物）生长、长大；二是种植：grow tomatoes；
+核心：六支。一是（生物）生长、长大；二是种植：grow tomatoes；
 三是（数量、规模）增长；四是（逐渐）变成，作系动词：grow tired、grow old；
 五是留（头发、胡子）：grow your hair；六是（较新的及物用法）把生意做大：
 grow the business。
 三态不规则：grow / grew / grown。
-短语动词：grow up（长大；成熟点）、grow on somebody（越来越讨人喜欢）、
-grow out of（长大而不再适合；由…发展而来）、grow into（慢慢胜任、长成）、
-grow apart（渐行渐远）。
 名词 grower 与 growbag、形容词性的 growing 并入本条；growth 另有条目。
 ① Children grow out of shoes faster than they wear them out.
 = 孩子穿不坏鞋，却先把鞋穿小了。
@@ -10860,7 +10813,7 @@ guard
 /ɡɑːd/
 核心：五支，外加四条习语。一是动词，守卫、看守：guard the entrance；
 二是名词，卫兵、警卫：a security guard；三是名词，护具、防护罩：a mouth guard；
-四是（英，铁路）列车长；五是 guard against something，防范某事。
+四是（英，铁路）列车长；五是后接 against，防范某事。
 形容词 guarded（谨慎的）与副词 guardedly、名词 guardhouse / guardroom /
 guardsman 并入本条。
 习语：catch somebody off guard（打个措手不及）、be on your guard（提防着）、
@@ -10916,8 +10869,8 @@ A guard rail along that bend was put up after the second accident.
 
 guardian
 /ˈɡɑːdiən/
-核心：三支。一是（法律上的）监护人：a legal guardian；二是守护者、捍卫者：
-a guardian of something；三是（宗教与传说）守护天使 a guardian angel。
+核心：两支。一是（法律上的）监护人：a legal guardian；二是守护者、捍卫者：
+a guardian of something。
 名词 guardianship（监护权）并入本条。
 ① A legal guardian signs what a parent would sign and is not the parent.
 = 法定监护人签的是家长该签的东西，却不是家长。
@@ -11071,7 +11024,7 @@ guest
 核心：四支。一是客人：a guest at the wedding；二是（旅馆的）住客；
 三是（节目、演出的）嘉宾：a guest on that show；四是动词，客串：guest on something。
 习语 be my guest 是「请便」。
-搭配：a guest house（家庭旅馆）、a guest room（客房）、the guest of honour（贵宾）。
+另有 the guest of honour（贵宾）。
 ① A guest at that wedding wrote about it and was never invited again.
 = 那场婚礼上的一位客人写了篇文章，此后再没被请过。
 a guest = 客人
@@ -11318,10 +11271,9 @@ a guilty pleasure = 明知不该却享受的小乐子
 
 guinea
 /ˈɡɪni/
-核心：两支。一是几尼 —— 英国旧时的金币，值二十一先令。一八一三年后不再铸造，
+核心：几尼 —— 英国旧时的金币，值二十一先令。一八一三年后不再铸造，
 可直到二十世纪，律师费、艺术品与赛马仍按几尼报价：那多出来的一先令，
-按惯例是给中间人的。二是构成两个动物名：a guinea pig（豚鼠，引申指试验对象）、
-guinea fowl（珍珠鸡）。可数。
+按惯例是给中间人的。可数。
 ① Fees in that profession were quoted in guineas long after the coin vanished.
 = 那一行的收费，在那种金币消失很久之后仍按几尼报。
 guineas = 几尼
@@ -13036,7 +12988,7 @@ hail
 核心：四支。一是冰雹，不可数，也作动词：it hails；二是一阵劈头盖脸的东西：
 a hail of bullets；三是招呼、叫住：hail a taxi；四是（书面）称颂为：
 be hailed as something。
-名词 hailstone 与 hailstorm 并入本条；习语 hail from somewhere 是「来自某地」，
+名词 hailstone 与 hailstorm 并入本条；后接 from 是「来自某地」，
 偏书面或带调侃。
 ① Hail the size of peas took the roof of that greenhouse in four minutes.
 = 豌豆大的冰雹，四分钟就掀掉了那座温室的顶。
@@ -13854,7 +13806,7 @@ ham
 核心：三支。一是火腿，不可数：a slice of ham；二是（贬或自嘲）演过头的演员：
 a ham actor；三是业余无线电爱好者：a radio ham。
 形容词 hammy（演得夸张的）并入本条。
-习语 ham it up 是故意演得夸张；ham-fisted（英）与 ham-handed（美）指笨手笨脚。
+习语 ham it up 是故意演得夸张；ham-handed（美）指笨手笨脚。
 ① A slice of ham and two tomatoes was lunch for most of that year.
 = 那一年大半时候，午饭就是一片火腿加两个番茄。
 a slice of ham = 一片火腿
@@ -14544,13 +14496,11 @@ handy-dandy = 又小又巧、顺手好用的（美，口语，带点调侃）
 
 hang
 /hæŋ/
-核心：四支，外加八个短语动词与两条习语。
+核心：四支，外加两条习语。
 一是挂、吊：hang a picture；二是（绞刑）吊死 —— 这一支的过去式是 hanged，
 其余一律是 hung，这是英语里最常被考的不规则分工；
 三是（衣服、布料）垂下来的样子：the way it hangs；四是名词 the hang of something，
 窍门、门道。
-短语动词：hang about、hang around、hang back、hang on、hang out、hang up、
-hang over、hang together，全部并入本条。
 名词 hangdog（一脸愧疚的）、hanger、hanging、hangman、hangnail、hangover 也在这里。
 习语：get the hang of something（摸到窍门）、hang in there（撑住）。
 ① They hung the picture twice and left it crooked both times.
@@ -14694,8 +14644,6 @@ hanky
 /ˈhæŋki/
 核心：名词（口语），手帕 —— handkerchief 的缩略，也拼作 hankie。可数，
 复数 hankies。
-另有一个不相干的搭配 hanky-panky：指偷偷摸摸的事，多指男女之间的暧昧，
-也指小动作、猫腻；语气轻佻，带谑。
 ① A clean hanky in her sleeve was standard for that generation.
 = 袖口里塞一块干净手帕，是那一代人的标配。
 a hanky = 手帕
@@ -14820,8 +14768,8 @@ a haploid = 单倍体（世代、细胞）
 happen
 /ˈhæpən/
 核心：四支。一是发生：what happened；二是碰巧：happen to do something；
-三是 happen to somebody，（事情）落到某人头上；
-四是 happen on something（正式），偶然碰到。
+三是后接 to 加人，（事情）落到某人头上；
+四是后接 on（正式），偶然碰到。
 名词 happening（发生的事；六十年代那种即兴艺术活动）并入本条。
 句型要记：说「某事发生了」不用被动 —— 不说 it was happened。
 ① Nobody agrees about what happened in the four minutes after that.
@@ -14859,13 +14807,12 @@ a happenstance = 一桩巧合
 
 happy
 /ˈhæpi/
-核心：五支，外加两条搭配。一是高兴的：be happy about something；
+核心：四支，外加一条搭配。一是高兴的：be happy about something；
 二是满意的、乐意的：be happy to do something —— 这一支在服务与公文里极常见；
 三是（说法、选择）恰当的：a happy choice of words；
-四是节庆祝词：Happy birthday；五是复合词 happy-go-lucky（没心没肺、随遇而安的）。
+四是节庆祝词：Happy birthday。
 副词 happily 与名词 happiness 并入本条。
-搭配：many happy returns（生日祝词，祝还有很多个这样的日子）、
-happy hour（酒吧的优惠时段）。
+搭配 many happy returns 是生日祝词，祝还有很多个这样的日子。
 ① She was happy about the result and said nothing about the process.
 = 她对结果满意，对过程只字不提。
 be happy about something = 对某事满意
@@ -15020,24 +14967,17 @@ a harbour master = 港务长
 
 hard
 /hɑːd/
-核心：七支，外加一族复合词与六条习语。
+核心：七支，外加一族复合词与四条习语。
 一是硬的：a hard surface；二是难的：a hard question；三是辛苦的：hard work；
 四是（人）严厉无情的：a hard man；五是（水）硬的：hard water；
 六是副词，卖力地、使劲地：work hard；七是（证据、毒品）确凿的、烈性的：hard evidence。
-复合词一族极大，全部并入本条，分三堆记：
-  · 实物与术语：hardback、hardboard、hardware、hardwood、the hard shoulder、
-    a hard drive、hard hat、hard court、hardtop、hardcover、hardbound、hardscape；
-  · 成对记的（每个都有一个 soft 的对面）：hard copy／soft copy、
-    hard drug／soft drug、hard error／soft error、hard news／soft news、
-    hard porn／soft porn、hard power／soft power、hard science／soft science、
-    hard sell／soft sell、hardball／softball、hardtop／soft top、
+复合词一族全部并入本条，分三堆记：
+  · 实物与术语：hardback、hardboard、hardware、hardwood、hardtop、hardcover、
+    hardbound、hardscape；
+  · 成对记的（每个都有一个 soft 的对面）：hardball／softball、hardtop／soft top、
     hardscape／softscape；
-  · 形容词：hard-nosed、hard-boiled、hard-bitten、hard-earned、hard-won、
-    hard-working、hard-hitting、hard-pressed、hard-wearing、hard-fought、
-    hard-headed（褒：清醒务实）对 hard-hearted（贬：铁石心肠）、
-    hardwired、hardscrabble。
-习语：hard and fast、hard up、hard done by、no hard feelings、hard of hearing、
-give somebody a hard time。
+  · 形容词：hardwired、hardscrabble。
+习语：hard and fast、hard done by、no hard feelings、give somebody a hard time。
 最要紧的一条：hardly 不是 hard 的副词 —— hard 自己就是副词（work hard），
 hardly 意思是「几乎不」，另立一条。这是英语里最著名的陷阱之一。
 ① A hard surface under that carpet explains the noise.
@@ -15468,9 +15408,9 @@ harissa = 哈里萨辣酱（自制的）
 hark
 /hɑːk/
 核心：动词（古旧），听 —— 今天只活在两处：祈使的 hark（听！多见于旧诗与圣诞颂歌），
-以及短语 hark back to something（追溯到、让人想起从前）。
+以及后接 back 的用法（追溯到、让人想起从前）。
 第二支才是现代英语里真正用得上的：它既说「回溯从前」，也带点「老调重弹」的意味。
-说法来自猎犬：猎人喊 hark back 是让狗回头重新找气味。
+说法来自猎犬：猎人这样吆喝，是让狗回头重新找气味。
 ① Hark — the bells started four minutes early this year.
 = 听啊，今年的钟声早响了四分钟。
 hark = 听
@@ -15673,7 +15613,7 @@ in harness = 在岗、并肩干活
 harp
 /hɑːp/
 核心：两支。一是竖琴 —— 四十七根弦、七个踏板，是管弦乐队里最费事的乐器；
-二是动词 harp on about something，老调重弹、唠叨个没完，贬义。
+二是作动词，后接 on（常再带 about），老调重弹、唠叨个没完，贬义。
 名词 harpist 并入本条。
 第二支的来历就在第一支上：老拨同一根弦。
 ① A harp takes two people and a van to move across a city.
@@ -15893,7 +15833,7 @@ harvest
 核心：三支。一是收割、收获的时节：the harvest；二是收成（收上来的量）：
 a good harvest；三是动词，收割、采集 —— 今天也说采集数据与摘取器官：
 harvest data。名词 harvester（收割机；收割的人）并入本条。
-搭配：a harvest festival（丰收节）、a bumper harvest（大丰收）。
+搭配 a bumper harvest 是大丰收。
 ① The harvest starts when the weather says so and not when the calendar does.
 = 收割什么时候开始，看天说了算，不看日历。
 the harvest = 收割时节
@@ -16091,7 +16031,7 @@ hat
 take your hat off to somebody（佩服某人）、keep something under your hat（保密）、
 pass the hat round（凑份子）、throw your hat into the ring（宣布参选）、
 talk through your hat（信口开河）。
-复合词：a hat-trick、a hatstand、a hatbox。
+复合词：a hatstand、a hatbox。
 ① A hat that size needs one hand on it in any wind at all.
 = 那么大的一顶帽子，只要有点风就得用手按着。
 a hat = 帽子
@@ -16188,11 +16128,9 @@ a hatchway = 舱口、升降口
 hate
 /heɪt/
 核心：三支。一是恨、厌恶：hate somebody；二是（口语里弱化了的）不愿意、不喜欢：
-I hate to ask；三是名词，仇恨：hate speech、a hate crime。
+I hate to ask；三是名词，仇恨。
 名词 hatred 与形容词 hateful 并入本条。
-语气跨度很大：口语里 I hate mushrooms 只是「不爱吃」，
-可 hate speech 与 hate crime 里的 hate 是最重的那一支，是法律术语 ——
-同一个词，两头差得远。
+口语里语气常弱化：I hate mushrooms 只是「不爱吃」。
 ① They hated each other for a decade and worked in the same room.
 = 他们彼此厌恶了十年，还在同一间屋里上班。
 hate somebody = 厌恶某人
@@ -16364,8 +16302,8 @@ have
 身上发生（a cold、a baby、an accident）。
 三、使役：have something done 是让别人把事办了（谁动手不重要），
 have somebody do something 是指派某人去办（谁动手是重点）。
-四、have to 表外部强制的「不得不」，与 must（说话人自己的判断）分工，
-否定差得更远：don't have to 是不必，mustn't 是不许。
+四、后接 to 加动词原形，表外部强制的「不得不」，与 must（说话人自己的判断）分工，
+否定差得更远：这一用法的否定是「不必」，mustn't 才是「不许」。
 英式口语里 have got 顶替「有」，但只有现在时，过去只能说 had。
 三态 have－had－had，第三人称单数 has，现在分词 having；
 古体 hast（thou hast）、hath（he hath）；缩略否定 haven't、hasn't、hadn't。
@@ -16650,7 +16588,7 @@ hawala = （作定语）这套汇款系统的
 hawk
 /hɔːk/
 核心：三支。一是鹰、隼一类白天捕猎的猛禽 —— 视力极好，所以长出
-watch somebody like a hawk 与形容词 hawk-eyed；
+watch somebody like a hawk；
 二是政治上的主战派、强硬派，跟 dove（主和派）成对，后来扩用到央行
 （主张加息的那一派就是 hawk）；三是动词，两个不相干的义 ——
 沿街兜售（hawk something around），以及从喉咙里咳出痰来。
@@ -16744,8 +16682,7 @@ hay
 核心：不可数。割下晒干、留着冬天喂牲口的草 —— 青着长在地里的是 grass，
 晒干了才是 hay。没晒透就堆起来会闷出热甚至自燃，所以农事上极讲时机，
 make hay while the sun shines（趁晴天赶紧干）就是从这儿来的。
-hay fever 并在本条；hayloft、haystack、hayride、hayseed、haymaking、
-haywire 各自立条。
+hayloft、haystack、hayride、hayseed、haymaking、haywire 各自立条。
 ① They cut the hay on Friday and had it all in the barn by Sunday night.
 = 他们星期五割草，星期天夜里就全进了谷仓。
 cut the hay = 割草晒干
@@ -16857,7 +16794,6 @@ hazard
 最常见的是 a fire hazard、a health hazard、a safety hazard；
 二是动词，斗胆提出（hazard a guess）、拿某物去冒险；
 三是高尔夫球场上的障碍区（沙坑、水塘）。
-hazard lights（危险警示灯）与 hazard pay（危险津贴）并在本条；
 形容词 hazardous 另立词条。
 ① A pile of oily rags behind the door is a fire hazard and nothing else.
 = 门后那堆油抹布，除了是个火灾隐患别无用处。
@@ -17017,8 +16953,7 @@ head
 往四个方向推：
 一、位置上的顶端与前端：the head of the stairs、the head of the page、
 the head of the table、the head of a queue；河流最上游的那一段也这么叫。
-二、等级上的最高处：the head of the department、the head of state、
-head office、head teacher —— 作定语时不加冠词。
+二、等级上的最高处：the head of the department。
 三、里头装的东西，即头脑与心智：a good head for figures、keep your head、
 lose your head、go to somebody's head。
 四、形状像头的东西：啤酒的泡沫、脓包的头、录音磁头、大头针的帽。
@@ -17823,9 +17758,7 @@ health
 核心：不可数。两支。一是（人、动物的）健康状况 —— 好坏都算在内，
 所以 in poor health 跟 in good health 一样自然；
 二是引申的「良好状态」：the health of the economy、the health of a language。
-作定语的一大族要连着记：health card、health centre、health check、
-health club、health farm、health food 都并在本条；
-另外两条（国民医疗服务、上门访视的保健员）等它们的内容词轮到了再并。
+作定语的有两条（国民医疗服务、上门访视的保健员），等它们的内容词轮到了再并。
 干杯说 Your health!。形容词 healthful（多为美式，只说「有益健康的」）
 与副词 healthfully 也并入本条。
 ① Her health has been poor since the second winter in that flat.
@@ -17966,13 +17899,12 @@ listen 说的是有意去听（可以用进行时）。I can hear you 对，I am
 由这一句往五支推：
 一是听见（hear a noise；hear somebody do／doing something —— 不带 to，
 听全程用原形，只听到一截用分词）；
-二是听说、得知（hear that…、hear about、hear of）；
-三是收到消息（hear from somebody）；
+二是听说、得知（hear that…、hear about）；
+三是收到消息（后接 from 加人）；
 四是法律上的审理（the court will hear the case）；
 五是听取陈述（hear somebody out 让某人把话说完）。
 三态 hear－heard－heard，过去式读音变短，跟 herd 同音。
-习语：will not hear of it（根本不答应）、hear something on the grapevine
-（辗转听说）、I hear you（我明白你的意思，未必同意）。
+习语：will not hear of it（根本不答应）、hear something on the grapevine（辗转听说）、I hear you（我明白你的意思，未必同意）。
 派生的 a hearer（听者）并入本条；hearing 另立词条。
 ① She heard the gate from the back of the house and knew at once who it was.
 = 她在屋后就听见了大门的响动，立刻知道是谁。
@@ -18030,8 +17962,6 @@ hearing
 hard of hearing（耳背）、within hearing（在听得见的范围内）。
 二是（法律、行政的）听证会、审理，可数：a court hearing、a disciplinary hearing。
 三是「把话说出来的机会」：get a fair hearing。
-复合词 hearing aid（助听器）、hearing dog（助听犬）、hearing loop
-（听力感应线圈）与形容词 hearing-impaired（听力受损的）都并入本条。
 ① She lost most of her hearing in one ear and told nobody for a year.
 = 她一只耳朵听力大半没了，一年都没跟人说。
 lose your hearing = 失去听力
@@ -18114,10 +18044,6 @@ heart
 英语把感情、爱与善恶都安在这里，所以习语多到自成一族。
 三、勇气与心力（lose heart、take heart）—— 这一支中文常译成「气」不是「心」。
 另有两个专用义：纸牌的红桃（hearts）与心形图案。
-医学一族要连着记：heart attack、heart failure、heart rate、
-heart-lung machine，都并在本条。
-形容词一族靠「让心怎样」来推：heart-rending 是把心撕开，heart-warming
-是把心烘暖，heart-stopping 是让心停一下，heart-wrenching 是把心绞住。
 习语的数量在英语里排得上前几名，下面十七条是最常用的。
 ① The heart beats about two and a half billion times in an average life.
 = 一辈子里，心脏大约跳二十五亿次。
@@ -18484,15 +18410,11 @@ heat
 核心：以不可数为主。底层就是「热」，往四条线推：
 一、热、热量（物理与日常）：the heat from a stove、conduct heat；
 二、高温天气 —— the heat 单说就是暑气；
-三、动词：加热（heat the milk）、给房子供暖（heat a house），
-heat up 是变热、加热，也说形势升温；
+三、动词：加热（heat the milk）、给房子供暖（heat a house）；
 四、引申的「压力与激烈情绪」：in the heat of the moment、the heat is on、
 take the heat（顶着责难）。
 另有两个专用义：比赛的预赛轮次（a qualifying heat）、
 雌性动物的发情期（be in heat）。
-科技一族连着记，全部并入本条：heat capacity、heat exchanger、heat pump、
-heat index、heat map、heat lightning、heat exhaustion，
-以及形容词 heat-resistant 与 heat-seeking。
 ① The heat from that stove reaches the far wall in about ten minutes.
 = 那台炉子散出的热，大约十分钟就到得了对面墙。
 the heat from something = 某物散出的热
@@ -18729,15 +18651,14 @@ after a heatwave = 热浪过后
 
 heave
 /hiːv/
-核心：五支，共同点是「使大力气」。
+核心：四支，共同点是「使大力气」。
 一是用力举、拖、拽：heave something onto something；
 二是（胸膛、肩膀、海面）起伏抖动；
 三是口语的呕吐、作呕；
-四是发出（叹息、呻吟）：heave a sigh of relief；
-五是航海的 heave to：使船迎风停住。
-过去式分两套：一般义用 heaved，航海义用 hove ——
-hove into view（进入视野）是这一支最常见的说法。
-名词义是「一举、一拽」；the heave-ho 指被赶走、被甩掉。
+四是发出（叹息、呻吟）：heave a sigh of relief。
+过去式分两套：一般义用 heaved，航海上用 hove ——
+hove into view（进入视野）是最常见的说法。
+名词义是「一举、一拽」。
 ① Two of them heaved the piano onto a trolley and neither could walk on Monday.
 = 他们俩把钢琴抬上了推车，星期一两个都走不动路。
 heave something onto something = 把某物用力搬上某处
@@ -18832,11 +18753,8 @@ heavy drinking、a heavy cold、heavy losses；凡是「量大得让人吃不消
 三、（工作、书、日子）费力难当的：heavy going；
 四、（食物）不好消化的：a heavy meal；
 五、（情绪）沉重的：with a heavy heart；
-六、（工业、机械）重型的：heavy industry、heavy-duty。
+六、（工业、机械）重型的。
 副词 heavily 与名词 heaviness 并入本条；比较级 heavier、最高级 heaviest。
-复合词一族全在本条：heavy metal、heavy water、heavy cream、heavy lifting、
-heavy hitter、heavy-handed、heavy petting、heavy breather、
-heavy goods vehicle。
 习语：heavy going、with a heavy heart、make heavy weather of something。
 ① A heavy suitcase on that staircase is a two-person job.
 = 在那道楼梯上搬只沉箱子，是两个人的活。
@@ -19107,10 +19025,10 @@ hedge
 核心：名词与动词。名词是树篱 —— 修剪成行、当围墙用的灌木带；
 英国乡间的地界线多半就是它。
 动词三支：一是给…围上树篱；二是说话留一手、含糊其辞（stop hedging）；
-三是金融上的对冲（hedge against something）。
-由这第三支长出 hedge your bets（两边下注、留好退路）与 a hedge fund。
+三是金融上的对冲（后接 against）。
+由这第三支长出 hedge your bets（两边下注、留好退路）。
 短语动词 hedge somebody in 是「把某人围住、限制住」。
-同族的 hedgerow 与 hedgehog 各自立条，hedge trimmer 并在本条。
+同族的 hedgerow 与 hedgehog 各自立条。
 ① The hedge along that road was laid by hand and has not been cut since.
 = 那条路边的树篱是手工编的，此后再没修过。
 the hedge = 树篱
@@ -19412,8 +19330,6 @@ heir
 读音跟 air 完全一样，h 不发音，所以冠词要用 an heir，不是 a heir。
 女性继承人是 an heiress（今天多指继承巨富的女性，带点小报腔）；
 传家的物件是 an heirloom；两个都并入本条。
-王位继承里有两个术语要分清：an heir apparent 的地位不会被后出生的人顶掉，
-另一种则可能被顶掉。
 比喻用法很常见：the heir to a tradition。
 ① An heir was found in Canada eleven months after the funeral.
 = 葬礼之后十一个月，在加拿大找到了继承人。
@@ -19456,8 +19372,6 @@ helicopter
 核心：直升机：靠旋翼产生升力、能垂直起降与悬停的飞行器。可数。
 口语缩略为 chopper（美式），军中说 helo。
 也作动词：helicopter somebody somewhere。
-两个比喻说法一并记，都并入本条：a helicopter parent（事事盘旋在孩子头顶的家长）、
-a helicopter view（居高临下的总览视角）。
 ① A helicopter can hover, which is the one thing it does that a plane cannot.
 = 直升机能悬停 —— 这是它唯一做得到而飞机做不到的事。
 a helicopter = 直升机
@@ -19882,7 +19796,7 @@ with 后面只能接名词，不能接动词。
 二、忍住、避免 —— 只跟 can／cannot 连用：cannot help doing something、
 cannot help it、it cannot be helped。这一支跟「帮助」毫无关系。
 名词有不可数的「帮助」（ask for help）与可数的「一份帮忙」（a great help）。
-短语动词：help out、help yourself、help somebody on／off with something。
+短语动词：help yourself、help somebody on／off with something。
 ① She helped him with the forms and refused to sign anything herself.
 = 她帮他填了表，自己却一样都不肯签。
 help somebody with something = 在某事上帮某人
@@ -20206,7 +20120,7 @@ hen
 或 a rooster（美），小鸡是 a chick，阉过育肥的公鸡是 a capon。可数。
 有一处跟中文不同：hen 还泛指别的鸟类的雌性（a hen pheasant 雌雉），
 中文的「母鸡」不能这么用。
-英式的 a hen party 与 a hen night 是新娘婚前的女子聚会（男方那场叫 stag）。
+英式的 a hen night 是新娘婚前的女子聚会（男方那场叫 stag）。
 习语 as rare as hen's teeth 是「极其罕见」—— 鸡本来就没有牙。
 ① Four hens in that run lay about two eggs a day between them.
 = 那个围栏里的四只母鸡，一天一共下两个蛋左右。
@@ -20596,8 +20510,6 @@ herbaceous
 /hɜːˈbeɪʃəs/
 核心：草本的 —— 植物学上指茎柔软、不木质化、地上部分每年枯死的植物，
 跟 woody（木本的）相对。只作定语。
-园艺上最常见的搭配是 a herbaceous border：一条专种宿根草本花卉的花境，
-英国花园的典型样式 —— 一年一枯，年年从根上重来。
 ① A herbaceous border looks dead for five months and spectacular for three.
 = 草本花境有五个月像是死了，另有三个月极其好看。
 a herbaceous border = 草本花境
@@ -20627,8 +20539,8 @@ poor herbage = 草被不佳
 
 herbal
 /ˈhɜːbəl/
-核心：形容词与名词。形容词是「草药的、用草药的」：herbal tea、
-herbal remedies。名词是（旧）草药书 —— 按植物列出药性与用法的那种书。
+核心：形容词与名词。形容词是「草药的、用草药的」：herbal remedies。
+名词是（旧）草药书 —— 按植物列出药性与用法的那种书。
 这一族两条并入本条：herbalism 是草药疗法这门实践，a herbalist 是做这行的人。
 有一点值得说清：herbal 不等于无害 —— 草药里同样有活性成分，
 也同样会跟处方药相互作用。
@@ -20721,7 +20633,7 @@ herd
 核心：名词本义是「一群（同种的大型动物）」—— 牛、鹿、象、马这类吃草的
 大型群居动物用它；羊和鸟另用 flock。放在农场语境里，指一户人家养的全部牛。
 比喻义带贬义：the herd 指没有主见、随大流的大多数人，
-由此有 follow the herd（随大流）与 the herd instinct（从众心理）。
+由此有 follow the herd（随大流）。
 动词从名词来：赶（牲口）；用在人身上是「像赶牲口一样把人赶到一处」，
 带着被赶的一方没得选的意思。
 美式口语 ride herd on somebody 出自牧人骑马押着牛群走，意思是「严加看管」。
@@ -20903,7 +20815,7 @@ hereditary
 核心：来自拉丁语「继承人」一词，跟 heir、heritage 同源 —— 本意是「按继承传下来的」。
 两支：一是生物上的「遗传的」—— 病、特征由父母传给子女；
 二是社会与法律上的「世袭的」—— 头衔、职位、权利按血缘传给下一代：
-hereditary peer（世袭贵族）、the hereditary principle（世袭原则）。
+the hereditary principle（世袭原则）。
 跟 genetic 的分界：genetic 说「跟基因有关」，不一定传下来；
 这个词强调「是从上一代传来的」。名词是 heredity，另立词条。
 ① The eye condition is hereditary, so both of her children were tested soon after birth.
@@ -21076,8 +20988,7 @@ heritage
 多不可数。跟 inheritance 的分界：inheritance 是个人继承的钱财，
 这个词是集体的、文化意义上的遗产。
 也可以指个人的出身与文化背景（her Irish heritage）。
-作名词定语时（heritage site、heritage centre、heritage coast）意思偏「为保存或展示历史而划定的」；
-heritage language 则指移民家庭代代传下来的语言。
+作名词定语时（heritage site）意思偏「为保存或展示历史而划定的」。
 ① The old mills are part of the town's industrial heritage and cannot be pulled down.
 = 那些老磨坊是镇上工业遗产的一部分，不能拆。
 industrial heritage = 工业遗产
@@ -21156,7 +21067,6 @@ hermit
 两支：一是（宗教上的）隐士；二是泛指不愿跟人来往、独自过日子的人，
 口语常说 become a bit of a hermit。
 隐士住的地方叫 hermitage，并入本条。
-hermit crab（寄居蟹）也并在这里：它借别的贝壳藏身，名字取的就是「躲起来独居」的意思。
 ① A hermit lived in the cave above the village for thirty years and came down only at Easter.
 = 一位隐士在村子上方的山洞里住了三十年，只在复活节才下山。
 a hermit = 隐士
@@ -21192,7 +21102,7 @@ hero
 核心：来自希腊语，原指神与人所生的半神、传说中的勇士。复数加 -es：heroes。
 今天三支：一是因勇敢或做了大好事而受人敬佩的人；二是小说、电影里的男主人公；
 三是某人特别崇拜的偶像（my hero）。
-名词 heroism（英勇、英雄行为）并入本条；hero worship 指对偶像盲目的崇拜。
+名词 heroism（英勇、英雄行为）并入本条。
 这个词今天也常用于女性，尤其是第一、三支。
 美式口语里还指一种长条面包夹馅的三明治，跟英雄毫无关系。
 ① The firefighter who carried the children out was hailed as a hero by the local paper.
@@ -21232,7 +21142,7 @@ heroic
 核心：hero 的形容词。三支：
 一是英勇的、有英雄气概的：a heroic attempt、heroic efforts；
 二是规模宏大的、超出常人的：on a heroic scale；
-三是（文学）描写英雄的：heroic poetry、heroic couplet（英雄双韵体，一种押韵的双行诗体）。
+三是（文学）描写英雄的：heroic poetry。
 副词 heroically 并入本条。
 复数名词 heroics 也并在这里，意思却偏贬义：「逞英雄的举动」或「夸张做作的言辞」——
 是在嘲讽那份勇敢用错了地方。
@@ -21299,8 +21209,6 @@ herpes
 /ˈhɜːpiz/
 核心：疱疹：由病毒引起、在皮肤上起水疱的传染病。不可数，
 形式上以 s 结尾，却当单数用。
-两个医学名称并入本条：herpes simplex（单纯疱疹，嘴边的唇疱疹与生殖器疱疹都属这一类）；
-herpes zoster（带状疱疹），日常说法是 shingles。
 ① She gets herpes around her mouth whenever she is run down or out in strong sun.
 = 她一累着或者晒了大太阳，嘴边就会起疱疹。
 get herpes = 长疱疹
@@ -21319,9 +21227,8 @@ herring
 /ˈherɪŋ/
 核心：鲱鱼，一种北方海域的银色小海鱼，也指作为食物的鲱鱼肉。可数，
 作食物时也可不可数：pickled herring。
-两个复合词并入本条：red herring —— 字面是熏得发红的鲱鱼，
-比喻义是「转移注意力的东西、故意误导的线索」，推理小说里最常见；
-herring gull（银鸥）则以鲱鱼为名。
+复合词 red herring 并入本条 —— 字面是熏得发红的鲱鱼，
+比喻义是「转移注意力的东西、故意误导的线索」，推理小说里最常见。
 ① We had pickled herring and rye bread for breakfast at a café by the harbour.
 = 我们在港口边的一家咖啡馆吃了腌鲱鱼和黑麦面包当早饭。
 pickled herring = 腌鲱鱼
@@ -21716,7 +21623,6 @@ hey
 核心：（口语）感叹词，用途都是「开口先抓住对方」：
 叫住人、打招呼、表示吃惊或不满，还有耸耸肩说「算了」的 but hey。
 美式里作打招呼用极常见，相当于 hi。
-hey presto（英式）是变戏法时说的「瞧，变！」，也比喻事情一下子就办成了。
 ① Hey, you! That's my bike you're climbing on!
 = 喂，你！你爬上去的那辆是我的自行车！
 hey = 喂（叫住人、引起注意）
@@ -21848,8 +21754,6 @@ hiatus
 核心：来自拉丁语「裂口、缺口」。（正式）指活动或进程中的中断、间歇。
 可数，复数 hiatuses。常见说法：after a two-year hiatus、on hiatus（美式，暂停中）、
 a hiatus in something。
-医学上 hiatus hernia（食管裂孔疝）也并入本条：胃的一部分从横膈膜上的裂孔凸上去 ——
-用的正是「裂口」的本义。
 ① The band came back after a five-year hiatus with an album that nobody had expected.
 = 那支乐队中断五年之后复出，带来一张谁也没料到的专辑。
 after a hiatus = 中断一段时间之后
@@ -21968,7 +21872,7 @@ hidden
 /ˈhɪdən/
 核心：hide 的过去分词，这里单立的是它作形容词的用法：
 隐藏的、不外露的、别人不知道的。放在名词前最常见，
-有一批固定搭配：hidden costs、a hidden agenda、hidden depths、a hidden gem、a hidden camera。
+有一批固定搭配：hidden costs、hidden depths、a hidden gem、a hidden camera。
 作动词变形的用法（The key was hidden under the mat）归 hide 条。
 ① There are hidden costs in the contract that only show up after the first year.
 = 合同里有隐性成本，到第二年才会显现出来。
@@ -21993,8 +21897,7 @@ hide
 核心：两个来源不同的词。
 一是动词「藏、躲、隐瞒」，过去式 hid，过去分词 hidden（形容词用法另立词条）。
 从「把东西放到看不见的地方」长出：躲起来、挡住视线、掩饰感情、隐瞒真相；
-短语动词 hide out（藏匿），hide behind something（拿…当挡箭牌），
-have nothing to hide（问心无愧），以及孩子的游戏 hide-and-seek（捉迷藏）。
+短语动词 hide out（藏匿），以及 have nothing to hide（问心无愧）。
 二是名词「兽皮」—— 生皮、尤其是大型动物的皮；由此有 save your own hide（保全自己）、
 not see hide nor hair of somebody（连个人影都没见着）。
 英式里还有第三个名词：观鸟棚，美式叫 blind。
@@ -22105,8 +22008,7 @@ a secret hideout = 秘密小窝
 hiding
 /ˈhaɪdɪŋ/
 核心：两个来源。
-一是 hide（藏）的名词：躲藏的状态 —— in hiding、go into hiding、come out of hiding，
-藏东西或人的地方叫 hiding place。
+一是 hide（藏）的名词：躲藏的状态 —— in hiding、go into hiding、come out of hiding。
 二是（口语、偏旧）一顿痛打：来自 hide（兽皮）作动词「抽打」的旧用法 ——
 give somebody a good hiding；比喻比赛中惨败：take a hiding。
 英式习语 be on a hiding to nothing 意思是「注定白费力气」。
@@ -22206,15 +22108,14 @@ high
 一、空间：本身从底到顶尺寸大（a high wall），或位置离地面远（a high shelf、high up）。
 跟 tall 的分界：tall 说人、树和细长的东西，看的是个子；这个词说山、墙、天花板，
 也说位置高 —— a high window 是开得高，不是窗户本身长。
-二、数量与程度：把刻度往上看 —— high prices、a high temperature、high risk。
-这一支造出的复合形容词最多：high-speed、high-risk、high-end、high-performance……
-三、地位与等级：在上面的人和机构 —— high office、high-ranking、the High Court。
-四、品格与评价：高尚、看得起 —— high principles、high-minded、a high opinion of somebody；
+二、数量与程度：把刻度往上看 —— high prices、a high temperature。
+这一支造出的复合形容词最多。
+三、地位与等级：在上面的人和机构 —— high office。
+四、品格与评价：高尚、看得起 —— high principles、a high opinion of somebody；
 反过来也有摆架子的 high and mighty、get on your high horse。
-五、声音：音调高 —— the high notes、high-pitched。
+五、声音：音调高 —— the high notes。
 六、情绪与状态：兴奋、飘飘然 —— on a high、in high spirits、be high on something（嗑药后）。
-七、时间：一段时期的顶点 —— high summer、high season、high tide、high noon、it is high time。
-另有一支古义「主要的、正式的」只活在复合词里：high street、high road、high table。
+七、时间：一段时期的顶点 —— high summer、it is high time。
 词性上以形容词为主；副词只说实打实的高度（climb high、aim high）；
 名词 a high 指最高点（an all-time high）或气象上的高气压区。
 跟 highly 的分工：「非常、高度地」要用 highly，那个词另立一条；
@@ -22585,8 +22486,8 @@ a highbrow = 自命高雅的知识分子（贬义）
 higher
 /ˈhaɪə(r)/
 核心：high 的比较级，但另有 high 没有的义项，所以单立：
-一是「高等的、高级阶段的」—— higher education（高等教育）、a higher degree（研究生学位）；
-二是（生物）「构造更复杂的、进化程度高的」—— higher animals、higher plants；
+一是「高等的、高级阶段的」；
+二是（生物）「构造更复杂的、进化程度高的」；
 三是口语名词 higher-ups：上级、高层人物。
 作一般比较级时（越来越高）也收在这里一条。
 ① Fewer than a third of the town's teenagers go on to higher education.
@@ -22625,8 +22526,7 @@ too highfalutin = 太装腔作势
 highland
 /ˈhaɪlənd/
 核心：高地、山区 —— 多用复数 the highlands；形容词是「高地的、山区的」。
-首字母大写的 the Highlands 专指苏格兰北部的高地，由此有一批复合词：
-Highland cattle（高地牛）、Highland dress（苏格兰高地服装）、a Highland fling（高地舞）。
+首字母大写的 the Highlands 专指苏格兰北部的高地。
 住在那里的人叫 highlander，另立词条。
 ① The highlands of the north are cold and wet, and very few people live there all year.
 = 北方的山区又冷又湿，常年住在那里的人很少。
@@ -22714,7 +22614,6 @@ highly
 一是「非常、高度地」，修饰形容词与分词：highly unlikely、highly successful、highly skilled；
 二是「在高水平上」：highly paid、highly placed（身居高位的）；
 三是「赞许地」：think highly of、speak highly of —— 这一支只跟评价类动词连用。
-英式的 highly strung（神经紧张、容易激动）也并入本条，美式说 high-strung。
 跟 high 的分工：说真实的高度只用 high（jump high），不能说 jump highly。
 ① It is highly unlikely that the flight will leave on time in this fog.
 = 这么大的雾，航班准点起飞的可能性极小。
@@ -22859,7 +22758,6 @@ hike
 一是（在乡间、山里）远足、徒步 —— 名词 a hike、动词 hike、活动 go hiking；
 徒步的人叫 hiker，这项活动叫 hiking，两个都并入本条。美式口语 take a hike 是「滚开」。
 二是（价格、税、租金的）大幅上涨 —— 名词 a hike in something，动词 hike something（猛提）。
-另有短语动词 hike up：把衣服往上撩、往上提。
 ① We did a six-hour hike along the ridge and came down in the dark.
 = 我们沿着山脊走了六个钟头，天黑了才下山。
 a hike = 远足、徒步
@@ -22911,7 +22809,6 @@ hill
 head for the hills（赶紧躲开）、up hill and down dale（到处）、
 not worth a hill of beans（一文不值，美式）、king of the hill（霸主）。
 美式里 the Hill 专指国会山，转指美国国会。
-南亚山区的避暑小镇叫 hill station，也并在这里。
 ① They climbed the hill behind the village to watch the sun go down over the sea.
 = 他们爬上村后的小山，看太阳沉进海里。
 climb a hill = 爬山
@@ -23192,8 +23089,8 @@ Hindutva politics = 印度教民族主义政治
 hinge
 /hɪndʒ/
 核心：本义是铰链、合页 —— 门、盖子靠它转动。
-比喻义从「转动所靠的那一点」来：hinge on something（取决于某事），
-更正式的写法是 hinge upon something。形容词 hinged（带铰链的）并入本条。
+比喻义从「转动所靠的那一点」来：后接 on，是取决于某事，
+更正式的写法是接 upon。形容词 hinged（带铰链的）并入本条。
 ① The garden gate had come off its hinges and was lying in the long grass.
 = 花园的门从铰链上脱落，倒在长长的草丛里。
 come off its hinges = 脱了铰链
@@ -23267,8 +23164,7 @@ hip
 /hɪp/
 核心：两个词。
 一是名词「髋部、胯」—— 人体侧面腰以下、大腿以上的部位，常用复数 hips；
-由此有 hip joint（髋关节）、hip pocket（裤子后兜）、hip-huggers（美式，低腰裤），
-以及习语 shoot from the hip（不假思索地说话）、joined at the hip（形影不离）。
+由此有习语 shoot from the hip（不假思索地说话）、joined at the hip（形影不离）。
 二是（口语）形容词「时髦的、赶潮流的」。
 另有欢呼声 hip, hip, hooray。
 ① She put her hands on her hips and waited for somebody to explain the mess.
@@ -23390,9 +23286,9 @@ hire
 美式在这里一概说 rent。名词 hire（car hire）同义。
 二、雇用：hire somebody —— 美式里是「雇人」的普通说法，英式多说雇来做某件具体的事。
 美式名词 a new hire 指新雇员。
-三、反过来「把东西租给别人」是 hire something out；hire yourself out 是「受雇给人干活」。
-固定说法：for hire（供出租、可雇用）、hire and fire（用人与辞人）、
-英式 hire purchase（分期付款）。「雇来的帮工」那个说法收在 hand 条。
+三、反过来「把东西租给别人」是 hire something out。
+固定说法：for hire（供出租、可雇用）、hire and fire（用人与辞人）。
+「雇来的帮工」那个说法收在 hand 条。
 ① We hired a car at the airport and drove down the coast for a week.
 = 我们在机场租了一辆车，沿着海岸开了一个星期。
 hire a car = 租车（英式）
@@ -23590,7 +23486,7 @@ historical
 /hɪˈstɒrɪkəl/
 核心：跟历史有关的、历史上的 —— 说的是「属于过去、以过去为题材」，不管重要不重要。
 跟 historic 的分界见那一条：那个词说的是「重要、有历史意义」。
-副词 historically（从历史上看、历来）与学科名 historical linguistics（历史语言学）并入本条。
+副词 historically（从历史上看、历来）并入本条。
 ① The museum holds a large collection of historical documents from the civil war.
 = 那座博物馆藏有大量内战时期的历史文献。
 historical documents = 历史文献
@@ -23717,10 +23613,10 @@ hit
 二、撞上、击中：车撞树、子弹或导弹命中目标（a direct hit）；
 三、给…打击、造成损害：灾难、衰退、坏消息「砸」在人头上（hit somebody hard、be hard hit）；
 四、到达某一点：温度、数字、地方、状态 —— hit forty degrees、hit the headlines、hit rock bottom；
-五、心里「咯噔」一下：突然意识到（it hit me that…）、忽然想到（hit on / hit upon an idea）、
+五、心里「咯噔」一下：突然意识到（it hit me that…）、忽然想到（hit upon an idea）、
 触到痛处（hit a nerve、hit home）；
-六、名词 a hit：成功之作（a big hit、a hit single、be a hit with）、网络点击与搜索结果、
-黑话里的雇凶谋杀（a hit list、a hit squad）。
+六、名词 a hit：成功之作（a big hit、a hit single）、网络点击与搜索结果、
+黑话里的雇凶谋杀。
 口语里还有一整串 hit the + 名词，意思是「去做、去到」：hit the road、hit the sack、
 hit the books、hit the bottle、hit the deck。
 跟 beat 与 strike 的分工：beat 是反复地打；strike 更正式；这个词是日常说法，只打一下。
@@ -23994,8 +23890,6 @@ hive
 /haɪv/
 核心：蜂箱、蜂巢；也指一窝蜜蜂。
 比喻义：a hive of activity（一派忙碌的地方）、hive mind（群体思维）。
-英式短语动词 hive off：把公司的一部分分出去、单独经营或卖掉 ——
-像蜂群分巢一样。
 ① The farmer keeps twelve hives at the edge of the orchard.
 = 那位农场主在果园边上养着十二箱蜂。
 a hive = 蜂箱
@@ -24044,7 +23938,7 @@ hm = 嗯（hmm 的短写）
 ho
 /həʊ/
 核心：两个词。
-一是拟声感叹词：连用的 ho ho 是笑声，常带取笑的意思；ho ho ho 是圣诞老人的招牌笑声；
+一是拟声感叹词，可表示笑声；ho ho ho 是圣诞老人的招牌笑声；
 航海里的 land ho 是「看见陆地了」。
 二是（美式俚语，冒犯）对女性的侮辱称呼，由 whore 的读音缩来；认得即可，不要用。
 ① "Ho ho ho!" boomed the man in the red suit as the children lined up to meet him.
@@ -24189,7 +24083,7 @@ be hobbled by something = 受…掣肘
 hobby
 /ˈhɒbi/
 核心：业余爱好 —— 为了乐趣、不为挣钱而在空闲时做的事。可数。
-词源是 hobby horse（一根头上装着马头的木棍，孩子骑着玩的玩具），
+词源是孩子骑着玩的木马棍（一根头上装着马头的木棍），
 由此还有比喻：get on your hobby horse 是又讲起自己没完没了的那个话题。
 把某件事当爱好认真做的人叫 hobbyist，并入本条。
 ① Her hobbies include birdwatching, sailing and making furniture in the garage.
@@ -24490,8 +24384,7 @@ hold
 电话里等着（hold the line、be on hold），把事暂时搁下（put something on hold）。
 名词 hold：一把抓住（get hold of、take hold）、控制力（a hold over somebody）、
 船和飞机的货舱；比赛里的扭抱 —— no holds barred（毫无限制）就从这里来。
-短语动词十几个，都能从「不让动」推出来：hold back（拦住、忍住）、hold on（抓紧；等一下）、
-hold out（坚持住；伸出）、hold up（举起；耽搁；抢劫）、hold off（推迟；挡住）……
+短语动词十几个，都能从「不让动」推出来。
 ① She held the baby while her sister went back to the car for the bag.
 = 她姐姐回车里拿包的时候，她抱着孩子。
 hold something/somebody = 拿着、抱着
@@ -24763,9 +24656,6 @@ holding
 一是（在公司里的）持股：a holding in a company；
 二是租种或占有的一块地；
 三是复数 holdings：图书馆、博物馆的馆藏，或一个人名下的全部股票与资产。
-复合词三个并入本条：holding company（控股公司）、
-holding pattern（飞机盘旋等待的航线；比喻停滞不前）、
-holding operation（维持现状的权宜之计）。
 ① The family still has a forty per cent holding in the company their grandfather founded.
 = 那个家族在祖父创办的公司里仍持有百分之四十的股份。
 a holding in something = 在…中的持股
@@ -24801,14 +24691,12 @@ hole
 核心：洞、孔、坑 —— 东西表面或内部的一个空处。由此长出六支：
 一、窟窿与坑：a hole in the road、wear a hole in something；
 二、动物的洞；go down a rabbit hole 比喻越钻越深、停不下来；
-三、高尔夫的球洞、一个洞的赛程：play eighteen holes、a hole-in-one；
+三、高尔夫的球洞、一个洞的赛程：play eighteen holes；
 四、缺陷、漏洞：holes in an argument、pick holes in something；
 五、困境与亏空：in a hole（英式，陷入困境）、in the hole（美式，欠债）、
 dig yourself into a hole；
 六、口语里的「破地方」。
-动词用法：hole up（躲起来）、be holed（船被凿穿）。
-几个固定复合词并入本条：hole in the wall（英式口语的自动取款机）、
-hole in the heart（先天性心脏缺损）、hole-and-corner（英式，偷偷摸摸的）。
+动词用法：be holed（船被凿穿）。
 习语：a square peg in a round hole、need something like a hole in the head、
 burn a hole in your pocket、an ace in the hole。
 ① There's a hole in the road outside the school that nobody has fixed for months.
@@ -24889,7 +24777,7 @@ holiday
 两边都用它指法定假日：英式 bank holiday、通用 public holiday；
 美式 the holidays 专指感恩节到新年那一段节日季。
 英式还可作动词：holiday somewhere（在某地度假）。
-复合词 holiday camp（度假营，英式）与 holiday home（度假屋）并入本条；
+复合词 holiday home（度假屋）并入本条；
 度假的人叫 holidaymaker，另立词条。
 习语 a busman's holiday：休假时还干老本行。
 ① We're going on holiday to Greece next week and haven't packed a thing yet.
@@ -24974,7 +24862,7 @@ hollow
 核心：本义是「里面是空的」。由此长出：
 一、空心的（a hollow tree）；二、凹陷的（hollow cheeks）；
 三、（声音）空洞的、回响的；四、比喻空洞的、不真诚的 —— ring hollow、a hollow victory；
-名词 a hollow 是洼地、凹处；动词 hollow out 是挖空。
+名词 a hollow 是洼地、凹处。
 英式口语 beat somebody hollow：把某人打得落花流水。
 副词 hollowly 与名词 hollowness 并入本条。
 ① Owls nested in a hollow tree at the edge of the wood.
@@ -25097,8 +24985,7 @@ holy
 /ˈhəʊli/
 核心：神圣的 —— 跟神、宗教相关、因而受崇敬的；说人时是「虔诚的、圣洁的」。
 holiday 就是从 holy day 来的。跟 holey（满是洞的）、wholly（完全地）同音。
-复合词与习语：holy water（圣水）、take holy orders（受圣职）、
-holier-than-thou（自命清高的）、the holy of holies（至圣所；谐指禁地）；
+复合词与习语：take holy orders（受圣职）、holier-than-thou（自命清高的）、the holy of holies（至圣所；谐指禁地）；
 美式口语的感叹 holy cow、holy smoke（天哪）。
 ① Jerusalem is a holy city for three religions.
 = 耶路撒冷是三种宗教的圣城。
@@ -25164,14 +25051,13 @@ home
 house 是一栋建筑，这个词是住在里面的生活与归属感 —— 一栋 house 可以没人住，
 一个 home 可以是公寓、船，甚至一座城市。从「归属之地」长出七支：
 一、住处、家：at home、leave home、a home of your own；房产行业里复数 homes 就指住房；
-二、故乡、祖国：back home、home town、feel at home、the home front；
+二、故乡、祖国：back home、feel at home；
 三、收容照料人的机构：a care home、a children's home；
 四、发源地、栖息地：the home of jazz；
-五、体育里的主场：a home game、home ground、home run；
+五、体育里的主场：a home game；
 六、副词「到家、回家」—— 前面不加 to：go home、get home；由此比喻「打中、说到心里」：
 drive something home、strike home、bring something home to somebody；
-七、形容词「家里的、国内的」：home cooking、home affairs、home-made、home-grown。
-动词只有一个常用短语：home in on（瞄准、锁定）。
+七、形容词「家里的、国内的」：home cooking、home affairs。
 ① She works from home three days a week and goes into the office on Thursdays and Fridays.
 = 她一周有三天在家办公，星期四和星期五去办公室。
 work from home = 在家办公
@@ -25377,7 +25263,6 @@ homeland
 /ˈhəʊmlænd/
 核心：祖国、故土 —— 一个人或一个民族的出生地、根之所在。
 也指一个民族要求自治的家园：a homeland for the Kurds。
-美国的 homeland security（国土安全）从「本土」这层意思来，并入本条。
 ① They returned to their homeland after thirty years in exile.
 = 流亡三十年后，他们回到了祖国。
 somebody's homeland = 某人的祖国、故土
@@ -25653,7 +25538,6 @@ a homily on something = 关于…的说教
 homing
 /ˈhəʊmɪŋ/
 核心：归巢的；自动导向的 —— 动物能认路回家，武器能自动追踪目标。只放在名词前。
-复合词 homing pigeon（信鸽）并入本条。
 ① The missile has a homing device that locks on to the heat of an engine.
 = 那枚导弹装有自动导向装置，能锁定发动机的热源。
 a homing device = 自动导向装置
@@ -25696,8 +25580,7 @@ kernels of hominy = 去皮玉米粒
 
 Homo
 /ˈhəʊməʊ/
-核心：（生物）人属 —— 包括现代人和已灭绝的近亲的一个属，首字母大写，后面跟种名：
-Homo sapiens（智人，即现代人）、Homo erectus（直立人）、Homo habilis（能人）。
+核心：（生物）人属 —— 包括现代人和已灭绝的近亲的一个属，首字母大写，后面跟种名。
 小写的 homo 是对同性恋者的侮辱称呼，冒犯，认得即可。
 ① Homo sapiens is the only surviving species of its genus.
 = 智人是人属中唯一幸存的物种。
@@ -25879,8 +25762,7 @@ honest
 二、说态度：be honest with somebody（对某人坦诚）、your honest opinion；
 三、说行为本身正当：an honest mistake（无心之失）、make an honest living（正当谋生）；
 四、口语插入语：to be honest（说实话）、honest to God（我发誓）、单说 Honest!（真的！）。
-固定说法：an honest broker（公正的调停人）、honest-to-goodness（地道的），
-以及偏旧、带戏谑的 make an honest woman of somebody（娶她为妻）。
+固定说法：偏旧、带戏谑的 make an honest woman of somebody（娶她为妻）。
 副词 honestly 另立词条。
 ① He's an honest man who would never overcharge a customer, even a tourist.
 = 他是个老实人，从不多收顾客的钱，哪怕是游客。
@@ -25957,7 +25839,7 @@ honey
 核心：本义是蜂蜜，不可数。
 由「甜」长出两支口语用法：一是（美式为主）称呼亲近的人「亲爱的」；
 二是说一个人「可爱、讨人喜欢」：she's a honey。
-形容词 honeyed（甜言蜜语的）与 honey-tongued（巧舌如簧的）并入本条。
+形容词 honeyed（甜言蜜语的）并入本条。
 ① She stirred a spoonful of honey into her tea and sat down by the window.
 = 她往茶里搅了一勺蜂蜜，在窗边坐下。
 a spoonful of honey = 一勺蜂蜜
@@ -26141,8 +26023,8 @@ honour
 五、动词：给予荣誉、表彰（be honoured for something），
 以及兑现、履行（honour a promise、honour a cheque）—— 守住名誉就是说到做到；
 六、口语 do the honours：替大家主持切蛋糕、倒酒这类事。
-复合词并入本条：maid of honour（首席伴娘）、an honour code（荣誉准则）、
-an honour killing（荣誉谋杀），美式的 honor roll、honor society、honor system。
+复合词并入本条：maid of honour（首席伴娘），
+美式的 honor roll、honor society、honor system。
 ① He was a man of honour who never once went back on his word.
 = 他是个重名誉的人，从来没有食言过。
 a man of honour = 重名誉的人
@@ -26221,7 +26103,7 @@ honourable
 /ˈɒnərəbəl/
 核心：正直的、可敬的；体面的 —— 说人、行为、结局。美式拼作 honorable。
 大写的 the Honourable 是英国对议员、部分贵族子女的尊称。
-副词 honourably 与复合词 honourable mention（荣誉奖）并入本条；
+副词 honourably 并入本条；
 美式的 an honorable discharge 是光荣退役。
 ① He was an honourable man who paid back every penny he owed.
 = 他是个正直的人，欠的每一分钱都还清了。
@@ -26356,7 +26238,6 @@ hoof
 核心：蹄 —— 马、牛、鹿等动物的脚。复数 hooves 或 hoofs，前者更常见。
 英式习语 on the hoof：边走边、临时匆忙地（做决定）。
 口语 hoof it：步行、走着去。
-美式的 hoof-and-mouth disease（口蹄疫，英式说 foot-and-mouth）也并入本条。
 ① The horse had a stone stuck in its hoof and couldn't put any weight on it.
 = 那匹马的蹄子里卡了一块石头，那条腿不敢着力。
 a hoof = 蹄
@@ -26380,10 +26261,9 @@ hook
 二、鱼钩 —— 由此有 hook, line and sinker（全盘相信，像鱼连钩带线带坠一口吞下）；
 三、电话听筒的挂钩 —— off the hook 原指听筒没挂上，比喻「脱身、免责」：
 let somebody off the hook、be off the hook；电话 ring off the hook 是「响个不停」；
-四、拳击的勾拳（a left hook）、篮球的勾手投篮（hook shot）；
+四、拳击的勾拳（a left hook）、篮球的勾手投篮；
 五、吸引人的地方 —— 歌里让人记住的那一句、故事开头抓人的那一下；
-六、动词：钩住、挂上、钓到鱼、用胳膊勾住；hook up（连接设备；口语里指约会、上床），
-hook up with somebody（跟某人碰头、搭上）。
+六、动词：钩住、挂上、钓到鱼、用胳膊勾住。
 形容词 hooked（上瘾的、着迷的）另立词条。
 习语：by hook or by crook（不择手段）、英式 sling your hook（滚开）、
 get your hooks into somebody（缠住、控制某人）。
@@ -26615,7 +26495,6 @@ hoover
 /ˈhuːvə(r)/
 核心：（英式）真空吸尘器 —— 原是商标 Hoover，已通名化；也作动词「用吸尘器吸」。
 名词 hoovering 指吸尘这件家务：do the hoovering。
-短语动词 hoover up：把东西一扫而光（吃光、买光、吸走）。
 ① She bought a new hoover because the old one just pushed the dust around.
 = 她买了台新吸尘器，因为旧的只会把灰推来推去。
 a hoover = 吸尘器（英式）
@@ -26694,7 +26573,6 @@ give up hope、beyond hope。
 可数时 a hope 指寄托希望的人或事：somebody's best hope。
 习语：hope against hope（抱着一线希望）、hope for the best（往好处想）、
 live in hope（抱着希望，常带无奈）、英式反语 some hope 与 not a hope（没指望了）。
-美式的 hope chest（嫁妆箱）并入本条。
 ① I hope you have a good trip, and send us a postcard from Lisbon.
 = 祝你一路顺风，记得从里斯本给我们寄张明信片。
 hope (that) = 希望（可能实现的事）
@@ -26911,7 +26789,6 @@ hormone
 /ˈhɔːməʊn/
 核心：激素、荷尔蒙 —— 体内分泌、经血液调节各器官功能的化学物质。可数。
 形容词 hormonal 并入本条：说身体变化，也在口语里调侃人情绪起伏大（hormonal teenagers）。
-复合词 hormone replacement therapy（激素替代疗法，缩写 HRT）也收在这里。
 ① Stress raises the level of a hormone that keeps the body on alert.
 = 压力会提高一种让身体保持警觉的激素水平。
 a hormone = 激素
@@ -26932,8 +26809,7 @@ horn
 二是比喻「两只角对着顶」—— lock horns（发生冲突）、on the horns of a dilemma（进退两难）、
 take the bull by the horns（果断应对难题）、pull in your horns（收敛、节省开支）。
 美式 blow your own horn（自吹自擂）对应英式的 blow your own trumpet。
-美式口语 horn in on something 是「硬插一脚」。
-形容词 horned（长角的）与 horn-rimmed（角质框的）、复合词 horn of plenty（丰饶角）并入本条。
+形容词 horned（长角的）并入本条。
 ① The bull lowered its head and pointed its horns straight at us.
 = 那头公牛低下头，把角直直地对着我们。
 horns = （动物的）角
@@ -27118,9 +26994,8 @@ horror
 核心：恐惧、惊骇；也指可怕的事物本身。
 不可数时说那种感觉：in horror、to somebody's horror；
 可数复数 the horrors of something 说一连串可怕的事：the horrors of war。
-作定语是恐怖体裁：a horror film、a horror story（也比喻「糟糕的经历」）。
+作定语是恐怖体裁：a horror film。
 口语里 a little horror 是淘气包；horror of horrors 是半开玩笑的「最可怕的是」。
-形容词 horror-struck（吓呆了的）并入本条。
 ① She watched in horror as the car slid towards the edge of the cliff.
 = 她惊恐地看着那辆车往悬崖边滑去。
 in horror = 惊恐地
@@ -27171,17 +27046,13 @@ soldiers hors de combat = 失去战斗力的士兵
 horse
 /hɔːs/
 核心：马。从这个本义长出三支：
-一、骑马与赛马的一整套说法：ride a horse、fall off a horse、on horseback、
-horse riding（英式；美式说法收在「马背」那一条）、horse racing、a horse race、a horse show、
-horse-drawn（马拉的）、a horse trailer（美式运马拖车）；
+一、骑马与赛马的一整套说法：ride a horse、fall off a horse、on horseback；
 二、体操器械：跳马、鞍马，因形状像马而得名；
 三、一大批习语，几乎都从养马、买马、赛马的经验里来：straight from the horse's mouth、
 flog a dead horse、eat like a horse、a dark horse、put the cart before the horse、
 horses for courses、look a gift horse in the mouth、wild horses wouldn't…、
 change horses in midstream、a one-horse town。
-动词只有短语：horse around（英式也说 horse about），胡闹、嬉闹。
-horse-trading 从马市上的讨价还价来，比喻政治交易。
-俚语里 horse 还指海洛因；horse mackerel 是一种鱼，horse's neck 是一种鸡尾酒。
+俚语里 horse 还指海洛因；horse's neck 是一种鸡尾酒。
 ① She learned to ride a horse before she could read, on her uncle's farm.
 = 她在叔叔的农场上学会了骑马，那时她还不识字。
 ride a horse = 骑马
@@ -27279,7 +27150,6 @@ a saddle horse = 乘用马、骑乘用的马
 horseback
 /ˈhɔːsbæk/
 核心：马背 —— 多用在 on horseback（骑着马）里；也作形容词：骑马的。
-美式 horseback riding（骑马，英式说 horse riding）并入本条。
 ① The only way to reach the village in winter is on horseback, along the river path.
 = 冬天去那个村子唯一的办法，是沿着河边小路骑马进去。
 on horseback = 骑着马
@@ -27513,9 +27383,6 @@ hospital
 核心：医院。英美用法有一处要分清：
 英式说病人「住院」用 in hospital、go to hospital，不加冠词 —— 说的是治疗这件事；
 加 the 的 in the hospital 是「在那所医院里」，可能只是去探病或上班。美式两种情况都加 the。
-复合词并入本条：hospital corners（医院式的床角折法）、
-英式橄榄球与足球里的 hospital pass（害队友挨撞的传球）、
-英国的 hospital trust（医院信托，管理一片医院的机构）。
 ① She's been in hospital for a week with a broken hip.
 = 她因髋部骨折住院一个星期了。
 in hospital = 住院（英式，不加冠词）
@@ -27550,7 +27417,6 @@ hospitality
 /ˌhɒspɪˈtælɪti/
 核心：好客、热情款待 —— 对客人的招待。不可数。
 商业上也指招待客户的服务：corporate hospitality、the hospitality industry（酒店餐饮业）。
-英式的 hospitality tray 是酒店房间里放茶包、水壶的托盘。
 ① Thank you for your hospitality over the weekend, we felt completely at home.
 = 感谢你们周末的热情款待，我们完全像在自己家一样。
 somebody's hospitality = 某人的款待
@@ -27609,7 +27475,6 @@ hostage
 核心：人质。常见搭配：take somebody hostage（劫持某人为人质）、be held hostage。
 比喻：be (a) hostage to something —— 受制于某事、被某事绑住手脚；
 习语 a hostage to fortune：日后可能招来麻烦的话或承诺。
-复合词 hostage taker（劫持人质者）与 hostage-taking（劫持人质）并入本条。
 ① Gunmen took six people hostage in the bank and demanded a car.
 = 持枪歹徒在银行里劫持了六个人质，要求给他们一辆车。
 take somebody hostage = 劫持某人为人质
@@ -27662,7 +27527,7 @@ hostile
 /ˈhɒstaɪl/
 核心：敌对的、怀有敌意的；不友善的 —— 说人、态度、环境。
 be hostile to something 是「强烈反对」。
-商业上 a hostile takeover 是敌意收购；法律上 a hostile witness 是敌意证人（对传唤他的一方不利）。
+商业上 a hostile takeover 是敌意收购。
 ① The minister faced a hostile crowd when he visited the closed factory.
 = 部长去那家关闭的工厂时，面对的是一群怀有敌意的人。
 a hostile crowd = 怀有敌意的人群
@@ -27707,17 +27572,15 @@ hot
 核心：底层意思是「温度高」—— 热的、烫的。比较级 hotter、最高级 hottest。
 跟 warm 的分界：warm 是舒服的暖和，这个词是热到让人出汗、烫手。
 从「热」长出七支：
-一、温度：hot weather、a hot bath、I'm hot；复合词 hot-water bottle、hot tub、hot flush；
+一、温度：hot weather、a hot bath、I'm hot；
 二、味道辣：a hot curry —— 辣是一种「烧」的感觉；
-三、情绪激烈：hot-tempered、hot-headed、hot-blooded、hot under the collar、
-hot and bothered、blow hot and cold；
+三、情绪激烈：hot under the collar、hot and bothered、blow hot and cold；
 四、（口语）性感的、有性吸引力的 —— have the hots for somebody 是「迷上某人」；
 五、热门的、新鲜的：a hot topic、the hot favourite、hot off the press、sell like hot cakes；
-六、危险、棘手：a hot potato、too hot to handle、in hot water、in the hot seat；
+六、危险、棘手：too hot to handle、in hot water、in the hot seat；
 七、紧追不放：hot on the heels of、in hot pursuit。
 此外还有口语的「擅长」（be hot on something、not so hot）、赃物（hot goods）、
-电气与计算机里的「通电的、即时的」（hot-wire、a hot key、hot-swap、a hot shoe）。
-英式短语动词 hot up：变得更激烈、更热闹。
+电气与计算机里的「通电的、即时的」。
 ① It was too hot to sleep, so we sat on the balcony until two in the morning.
 = 热得睡不着，我们在阳台上一直坐到凌晨两点。
 too hot to do something = 热得没法做某事
@@ -28051,7 +27914,7 @@ a tub of houmous = 一盒鹰嘴豆泥
 
 hound
 /haʊnd/
-核心：本义是猎犬 —— 靠嗅觉追踪猎物的狗。复合词 hound dog（美式口语，猎犬、狗）并入本条。
+核心：本义是猎犬 —— 靠嗅觉追踪猎物的狗。
 由「猎犬追着不放」长出动词：hound somebody（纠缠、不停地骚扰）；
 hound somebody out of / from somewhere（逼得某人离开）。
 口语里 -hound 放在别的词后面指「热衷于某事的人」：a news hound、a publicity hound。
@@ -28157,16 +28020,13 @@ house
 house 是建筑本身，home 是在里面过日子的归属感 —— 一栋空房子仍是 house，却不是谁的 home。
 从「一栋房子」长出几支：
 一、住宅与住在里面的人：move house、set up house、keep house，the whole house（全家人）；
-一整串复合词说跟住房有关的人与事：house-hunting、a house-warming、a house guest、a house call、
-house-sit、a house husband、house-proud、house-trained、house arrest……
-二、有专门用途的建筑：an opera house、the house of God（教堂）；
+二、有专门用途的建筑：an opera house；
 三、议会的一院：the House of Commons、the House；
-四、公司、机构：a publishing house、a fashion house —— house style 是一家出版社自己的体例，
-a house organ 是机构的内部刊物；
+四、公司、机构：a publishing house、a fashion house；
 五、剧院里的观众：a full house、bring the house down；
 六、王室家族、王朝：the House of Windsor；
 七、英国寄宿学校里的分院。
-俚语 on the house 是「店家请客、免费」；house music 是一种电子舞曲。
+俚语 on the house 是「店家请客、免费」。
 动词 house 读音不同（尾音浊化），意思是给…提供住处、容纳：The museum houses…。
 ① They bought a three-bedroom house with a garden on the edge of town.
 = 他们在城边买了一栋带花园的三居室房子。
@@ -28403,7 +28263,6 @@ household
 /ˈhaʊshəʊld/
 核心：一户、家庭 —— 住在同一屋檐下的一群人，统计上的一个单位。
 也作定语：household goods、household chores（家务）。
-习语 a household name：家喻户晓的名字 —— A 表教过。
 跟 family 的分界：family 说血缘，这个词说同住一屋、同过日子。
 住户、户主叫 householder，另立词条。
 ① Nearly a third of households in the town have no car.
@@ -28570,8 +28429,6 @@ most of the housework = 大部分家务
 housing
 /ˈhaʊzɪŋ/
 核心：住房 —— 房屋的总称，也指提供住房这件事。不可数。
-英式有一串复合词：a housing estate（住宅区）、a housing association（住房协会，非营利的租房机构）、
-housing benefit（住房补贴）、a housing scheme（住房项目）；美式的 a housing project 指公共住房区。
 另一支：机器、零件的外壳、护套。
 ① There is a serious shortage of affordable housing in the city centre.
 = 市中心严重缺乏买得起的住房。
@@ -28663,7 +28520,6 @@ How do you do? 则是正式初次见面的客套话，回答也是 How do you do
 五、从句里的「…的方式、…这件事」：That's how it works、She told me how she'd lost her job；
 六、一批口语说法：how about（…怎么样、提建议）、how come（怎么会）、how so（为什么这么说）、
 how dare you（你竟敢）、how on earth（到底怎么）、and how（可不是嘛）、how about that（真没想到）。
-名词 how-to 指「操作指南」，作定语：a how-to guide。
 ① How do you spell your surname? Is it with one L or two?
 = 你的姓怎么拼？是一个 L 还是两个？
 how = 怎么、以什么方式
@@ -28796,7 +28652,6 @@ howl
 /haʊl/
 核心：本义是狼、狗的长嚎。由此长出：风呼啸；人因痛苦、愤怒或大笑而嚎叫；
 名词 howls of laughter / howls of protest。
-短语动词 howl down：用吼叫声把讲话的人压下去。
 ① Wolves howled in the hills all night, and nobody in the camp slept.
 = 狼在山里嚎了一整夜，营地里没人睡着。
 howl = （狼、狗）嚎叫
@@ -28815,6 +28670,9 @@ howls of laughter = 哄堂大笑
 ⑥ The minister was howled down before he could finish his first sentence.
 = 部长第一句话还没说完，就被一片嘘声压了下去。
 howl somebody down = 用吼叫声把某人压下去
+⑦ When the minister stood up to speak, the angry crowd howled him down and he had to leave the stage.
+= 部长起身讲话时，愤怒的人群用嘘声把他轰下了台，他只好离开。
+howl down = 用嘘声把（某人）轰下台（常拆开用：howl somebody down）
 
 howler
 /ˈhaʊlə(r)/
@@ -29123,8 +28981,7 @@ human
 形容词两支：一是属于人类的（the human body、the human race）；
 二是有人情味的、有人性弱点的 —— be only human（人非圣贤）、the human touch。
 跟 humane 的分界：human 只说「人的」，humane 说「仁慈的、人道的」，各立词条。
-一串复合词并入本条：human error、human nature、human rights、human resources、
-human capital、human geography、human interest、a human shield、human trafficking、human smuggling。
+复合词 human rights 也并入本条。
 ① The human body is about sixty per cent water.
 = 人体大约百分之六十是水。
 the human body = 人体
@@ -29550,8 +29407,7 @@ humped = 隆起的、拱形的
 
 humpback
 /ˈhʌmpbæk/
-核心：驼背（旧，今天多视为冒犯）；也用在复合词里：
-a humpback whale（座头鲸）、a humpback bridge（英式，驼峰桥：中间高高拱起的窄桥）。
+核心：驼背（旧，今天多视为冒犯）；也用在复合词里。
 ① A humpback whale breached right beside the boat.
 = 一头座头鲸就在船边跃出水面。
 a humpback whale = 座头鲸
@@ -29688,9 +29544,7 @@ a Hungarian = 匈牙利人
 
 hunger
 /ˈhʌŋɡə(r)/
-核心：饥饿（A 表教过）；饥荒、饥饿状态；比喻「渴望」—— a hunger for something。
-动词 hunger for / after something（渴望，书面）。
-复合词 hunger strike（绝食抗议）与 hunger striker 并入本条。
+核心：饥饿（A 表教过）；饥荒、饥饿状态；比喻「渴望」，后接 for。
 ① Thousands of children still die of hunger every year.
 = 每年仍有成千上万的儿童死于饥饿。
 die of hunger = 饿死
@@ -29752,8 +29606,8 @@ a hunk = 健壮性感的男人（口语）
 
 hunker
 /ˈhʌŋkə(r)/
-核心：几乎只用在 hunker down 里：一是蹲下；二是（为了躲避或熬过难关）缩在一处、坚守不出；
-三是埋头准备（hunker down for a long winter）。
+核心：几乎总跟 down 连用：本义是蹲下；也指（为了躲避或熬过难关）缩在一处、坚守不出，
+或埋头准备（hunker down for a long winter）。
 名词复数 hunkers 只用在 on your hunkers（蹲着）里。
 ① He hunkered down beside the fire to warm his hands.
 = 他在火边蹲下来烤手。
@@ -29767,7 +29621,7 @@ on your hunkers = 蹲着
 
 hunky
 /ˈhʌŋki/
-核心：（口语）健壮性感的 —— 说男人。美式的 hunky-dory（一切顺利、好得很）并入本条。
+核心：（口语）健壮性感的 —— 说男人。
 ① A hunky actor was cast as the new detective.
 = 一位健壮性感的演员被选来演新的侦探。
 hunky = 健壮性感的
@@ -29778,9 +29632,8 @@ hunky-dory = 一切顺利、好得很（口语）
 hunt
 /hʌnt/
 核心：本义是打猎 —— 追捕并猎杀野兽；由此长出「搜寻、寻找」：hunt for something、
-job-hunting（找工作，A 表教过）；以及「追捕（人）」：hunt down（追捕到）、a manhunt。
+job-hunting（找工作，A 表教过）；以及「追捕（人）」：a manhunt。
 名词 a hunt：一次打猎、一场搜寻；英式里 the hunt 还指猎狐的一伙人。
-短语：hunt out（翻找出来）、hunt-and-peck（一指禅打字）。
 ① They go hunting in the hills every autumn and come back with nothing.
 = 他们每年秋天都去山里打猎，每次都空手而归。
 go hunting = 去打猎
@@ -29820,7 +29673,6 @@ a hunted look = 惶恐不安的神情
 hunter
 /ˈhʌntə(r)/
 核心：猎人（A 表教过）；搜寻某物的人 —— bargain hunter、job hunter。
-复合词 hunter-gatherer（狩猎采集者）并入本条。
 ① The hunter waited in the trees for the deer to come down to the river.
 = 猎人在树林里等着鹿下到河边。
 a hunter = 猎人
@@ -29834,7 +29686,7 @@ a hunter-gatherer = 狩猎采集者
 hunting
 /ˈhʌntɪŋ/
 核心：打猎、狩猎；也指寻找（house-hunting、job-hunting）。不可数。
-英式里常专指猎狐。复合词 hunting ground（猎场；比喻「好去处」）并入本条。
+英式里常专指猎狐。
 ① Hunting with dogs was banned in England in 2005.
 = 在英格兰，带狗打猎于二〇〇五年被禁止。
 hunting = 打猎、狩猎
@@ -29944,7 +29796,7 @@ a last hurrah = 最后一次风光、谢幕之作
 hurricane
 /ˈhʌrɪkeɪn/
 核心：飓风 —— 大西洋、东太平洋上风速极高的热带风暴；在西太平洋同样的风暴叫 typhoon。
-常带名字：Hurricane Katrina。复合词 hurricane lamp（防风灯）并入本条。
+常带名字：Hurricane Katrina。
 ① The hurricane destroyed half the houses on the island.
 = 那场飓风摧毁了岛上一半的房子。
 a hurricane = 飓风
@@ -29974,7 +29826,7 @@ hurriedly = 急忙地
 hurry
 /ˈhʌri/
 核心：赶快、匆忙 —— 动词、名词同形（A 表教过）。
-动词：hurry（赶快）、hurry somebody（催）、hurry up（快点）、hurry on（赶紧接着说／做）；
+动词：hurry（赶快）、hurry somebody（催）；
 名词：in a hurry（匆忙）、in no hurry（不着急）、What's the hurry?（急什么？）。
 跟 rush 的分界：rush 更急、更带「仓促、草率」的意思。
 ① If you hurry, you'll still catch the last bus from the end of the high street.
@@ -30081,8 +29933,6 @@ hush
 /hʌʃ/
 核心：名词是一片寂静（a hush fell over…）；动词和感叹词是「嘘、别出声」。
 形容词 hushed（压低的、寂静的）并入本条：in a hushed voice。
-短语动词 hush up：掩盖、捂住（丑闻）；复合词 hush money（封口费）、
-hush-hush（口语，秘密的）；美式 hush puppies 是一种炸玉米小丸子；
 摇篮曲开头的 hush-a-bye baby 也收在这里。
 ① A hush fell over the room as the judge came in.
 = 法官进来时，屋里顿时一片寂静。
@@ -30308,7 +30158,6 @@ hydraulic
 /haɪˈdrɒlɪk/
 核心：液压的、水力的 —— 靠液体的压力传动：hydraulic brakes、a hydraulic lift。
 副词 hydraulically 与复数名词 hydraulics（液压系统；水力学）并入本条。
-复合词 hydraulic fracturing（水力压裂，常缩成 fracking）也收在这里。
 ① The truck's hydraulic arm lifted the container onto the ship.
 = 卡车的液压臂把集装箱吊上了船。
 hydraulic = 液压的
@@ -30399,8 +30248,7 @@ hydrofoils = 水翼
 hydrogen
 /ˈhaɪdrədʒən/
 核心：氢 —— 最轻的化学元素，符号 H。不可数。
-形容词 hydrogenated（氢化的，说油脂）与复合词 hydrogen bomb（氢弹）、
-hydrogen peroxide（过氧化氢，双氧水）并入本条。
+形容词 hydrogenated（氢化的，说油脂）并入本条。
 ① Water is made of hydrogen and oxygen.
 = 水由氢和氧组成。
 hydrogen = 氢
@@ -30578,7 +30426,6 @@ hymen tests = 处女膜检查
 hymn
 /hɪm/
 核心：赞美诗、圣歌 —— 教堂里会众同唱的颂神歌曲；比喻「颂歌」：a hymn to something。
-复合词 hymn book（赞美诗集）并入本条。
 ① The congregation stood to sing the last hymn.
 = 会众起立唱最后一首赞美诗。
 a hymn = 赞美诗
@@ -30630,7 +30477,7 @@ hyperactivity = 多动
 
 hyperbaric
 /ˌhaɪpəˈbærɪk/
-核心：高压的 —— 气压高于正常大气压的。复合词 hyperbaric chamber（高压氧舱）并入本条。
+核心：高压的 —— 气压高于正常大气压的。
 ① The diver was treated in a hyperbaric chamber after coming up too fast.
 = 那个潜水员上浮太快，被送进高压氧舱治疗。
 a hyperbaric chamber = 高压氧舱
@@ -31260,10 +31107,9 @@ on an empty stomach = 空腹
 ice
 /aɪs/
 核心：冰 —— 水冻成的固体，不可数：ice on the roads、two cubes of ice。从「冰」长出：
-一、冰块、冰饮与冰上的一切：一大串复合词 —— ice cream、ice cube、ice rink、ice skating、
-ice dancing、ice lolly、ice pack、ice cap、ice sheet、ice shelf、ice age……；
+一、冰块、冰饮与冰上的一切；
 二、英式里可数的 an ice 指一份冰淇淋、冰棍；
-三、动词：给蛋糕抹糖霜（ice a cake）；ice over / ice up（结冰、被冰封住）；
+三、动词：给蛋糕抹糖霜（ice a cake）；
 四、比喻「冷」：语气、眼神冷冰冰（ice in her voice）；
 五、习语：break the ice（打破沉默，A 表教过）、on thin ice（如履薄冰）、
 put something on ice（把事搁置）、cut no ice with somebody（打动不了某人）；
@@ -31379,7 +31225,6 @@ iceberg
 /ˈaɪsbɜːɡ/
 核心：冰山 —— 浮在海里的巨大冰块，大部分在水下。
 比喻 the tip of the iceberg：冰山一角 —— 看得见的只是一小部分。
-复合词 iceberg lettuce（球生菜、卷心生菜）并入本条。
 ① The ship changed course to avoid an iceberg the size of a cathedral.
 = 那条船改变航向，避开了一座大教堂那么大的冰山。
 an iceberg = 冰山
@@ -31413,7 +31258,6 @@ an icebreaker = 破冰游戏、开场活动
 iced
 /aɪst/
 核心：加了冰的、冰镇的（iced tea）；抹了糖霜的（an iced cake）。
-英式 iced water 是冰水。
 ① She ordered an iced coffee and sat outside in the sun.
 = 她点了一杯冰咖啡，坐在外面晒太阳。
 iced coffee = 冰咖啡
@@ -31467,7 +31311,7 @@ an icicle = 冰柱
 icing
 /ˈaɪsɪŋ/
 核心：糖霜 —— 抹在蛋糕上的糖衣，美式也叫 frosting。不可数。
-习语 the icing on the cake：锦上添花。复合词 icing sugar（糖粉，英式）并入本条。
+习语 the icing on the cake：锦上添花。
 ① The cake had thick white icing and candles shaped like numbers.
 = 蛋糕上有厚厚的白色糖霜和数字形状的蜡烛。
 icing = 糖霜
@@ -31720,7 +31564,7 @@ the ident runs = 台标片花播出
 identical
 /aɪˈdentɪkəl/
 核心：完全相同的、一模一样的 —— 常说 identical to / with something。
-副词 identically 与复合词 identical twin（同卵双胞胎）并入本条。
+副词 identically 并入本条。
 ① Her dress was identical to the one her sister had worn the week before.
 = 她的裙子跟她姐姐上周穿的那条一模一样。
 be identical to something = 跟…一模一样
@@ -31750,7 +31594,6 @@ easily identifiable = 容易辨认的
 identification
 /aɪˌdentɪfɪˈkeɪʃən/
 核心：一是身份证明（证件）—— 常缩写 ID；二是辨认、识别；三是（感情上的）认同。
-复合词 identification card（身份证）与 identification parade（英式，列队辨认嫌疑人）并入本条。
 ① The hotel won't let you check in without some identification, such as a passport or driving licence.
 = 没有身份证明，比如护照或驾照，那家酒店不让你入住。
 identification = 身份证明
@@ -31780,8 +31623,7 @@ identifiers = 标识符（复数）
 identify
 /aɪˈdentɪfaɪ/
 核心：辨认出、认出 —— 确认某人或某物是谁、是什么；找出、发现（问题、原因）。
-短语：identify with somebody（认同、同情某人）、identify yourself with something（与…站在一起、支持）、
-be identified with something（被视为跟…有关）。
+短语：后接 with 是认同、同情某人；be identified with something（被视为跟…有关）。
 ① She identified the man who had taken her bag from a set of photographs at the police station.
 = 她在警察局从一组照片里认出了拿走她包的那个男人。
 identify somebody = 认出某人
@@ -31813,8 +31655,7 @@ identity
 /aɪˈdentɪti/
 核心：一是身份 —— 某人是谁；二是个性、特质 —— 使人或群体与众不同的东西（national identity）；
 三是（数学）恒等式。
-复合词并入本条：identity card（身份证）、identity parade（列队辨认）、identity politics（身份政治）、
-identity theft（身份盗用）与 identity thief、an identity crisis（身份危机）、mistaken identity（认错人）。
+复合词并入本条：an identity crisis（身份危机）、mistaken identity（认错人）。
 ① The police have not yet released the identity of the victim.
 = 警方尚未公布遇难者的身份。
 the identity of somebody = 某人的身份
@@ -31935,8 +31776,7 @@ idiosyncratic = 独特的、怪异的
 idiot
 /ˈɪdiət/
 核心：白痴、傻瓜 —— 口语里常用来骂人，也常自嘲（I'm such an idiot!）。
-形容词 idiotic 与副词 idiotically 并入本条；复合词 idiot board（提词板，口语）、
-idiot savant（白痴学者：智力障碍却在某方面有惊人才能的人，旧称，今天多说 savant）也收在这里。
+形容词 idiotic 与副词 idiotically 并入本条。
 ① I'm such an idiot, I left my phone on the train.
 = 我真是个傻瓜，把手机落在火车上了。
 an idiot = 傻瓜
@@ -32154,7 +31994,7 @@ ignite a debate = 引发争论
 
 ignition
 /ɪɡˈnɪʃən/
-核心：点火装置（汽车）；点火、着火。复合词 ignition key（点火钥匙）并入本条。
+核心：点火装置（汽车）；点火、着火。
 ① He turned the key in the ignition, but the engine wouldn't start.
 = 他转动点火钥匙，可发动机就是不启动。
 the ignition = 点火开关
@@ -32322,14 +32162,13 @@ and others of their ilk = 以及他们那一类人
 ill
 /ɪl/
 核心：从古北欧语借来的「坏」，现代英语里长出四支。
-一是形容词作表语，身体坏了 = 生病：be ill、fall ill、be taken ill；这一支主要是英式，
+一是形容词作表语，身体坏了就是生病：be ill、fall ill、be taken ill；这一支主要是英式，
 美式多说 sick。英式里 sick 放在表语位置多指「想吐」：I feel sick 是恶心，I feel ill 是不舒服。
-二是形容词放在名词前，保留「坏、有害」的老意思：ill effects、ill health、ill will、ill feeling ——
+二是形容词放在名词前，保留「坏、有害」的老意思：ill effects、ill feeling ——
 这个位置上它不表示「生病的」，也不能换成 sick。
 三是副词「坏地、不足地」：speak ill of（说坏话）、can ill afford（几乎负担不起）、ill at ease（不自在）。
 四是名词，多用复数 ills（弊病、麻烦）。
-另外它当前缀造出一整族复合词，ill- 都是「不当地、不好地」：ill-advised、ill-conceived、ill-treat，
-跟以 well 打头的那一族一一成对，全部并入本条，按意思归组。
+另外它还当前缀 ill- 用，都是「不当地、不好地」，跟以 well 打头的那一族一一成对。
 比较级与最高级借用 worse、worst；名词是 illness。
 ① She was too ill to travel, so her sister flew out to the conference instead.
 = 她病得没法出门，只好由她妹妹飞去参加会议。
@@ -33365,8 +33204,8 @@ be immersed in something = 全神贯注于
 
 immersion
 /ɪˈmɜːʃən/
-核心：immerse 的名词。三支：浸没（在液体中，也指浸水式洗礼）；
-（语言学习）沉浸式 —— 整天只接触那门语言；英式 immersion heater（浸没式电热水器）。
+核心：immerse 的名词。两支：浸没（在液体中，也指浸水式洗礼）；
+（语言学习）沉浸式 —— 整天只接触那门语言。
 ① A month of total immersion in Spanish did more for her than three years of classes.
 = 一个月全身心沉浸在西班牙语环境里，比三年课堂学得还多。
 total immersion = 全沉浸式（学习）
@@ -33586,7 +33425,7 @@ immune
 核心：本义是（对疾病）免疫的 —— 身体挡得住。由「挡得住」长出两支：
 不受（批评、影响、诱惑）左右 —— immune to；免于（惩罚、起诉、税）—— immune from。
 介词是分支的标志：医学与「不受影响」用 to，「豁免」多用 from。
-immune system、immune response 两个复合词并入本条；名词 immunity 另立。
+名词 immunity 另立。
 ① Once you have had measles, you are usually immune to it for the rest of your life.
 = 得过一次麻疹，通常一辈子都对它免疫。
 be immune to a disease = 对某种病免疫
@@ -34199,7 +34038,7 @@ morally impermissible = 道德上不允许的
 impersonal
 /ɪmˈpɜːsənəl/
 核心：不带个人感情的；冷冰冰的。两支：中性的「客观、不针对个人」（an impersonal letter）；
-贬义的「缺乏人情味」（large impersonal hospitals）。语法上另有 impersonal pronoun（非人称代词），
+贬义的「缺乏人情味」（large impersonal hospitals）。语法上另有「非人称」一说，
 如 it rains 里的 it。名词 impersonality 与副词 impersonally 并入本条。
 ① Big city hospitals can feel cold and impersonal to elderly patients.
 = 大城市的医院对老年病人来说可能显得冰冷、没有人情味。
@@ -35007,7 +34846,7 @@ an impromptu = 即兴曲
 improper
 /ɪmˈprɒpə(r)/
 核心：不当的、不合适的 —— im- 加 proper。三支：不合规矩、不诚实（improper use of funds，常指违规违法）；
-不得体、有伤风化（improper suggestions，旧时说性方面）；数学上的「假分数」（improper fraction，分子大于分母）。
+不得体、有伤风化（improper suggestions，旧时说性方面）；数学上的「假分数」（分子大于分母）。
 副词 improperly 并入本条。
 ① The inquiry found no evidence of improper conduct by the police.
 = 调查没有发现警方有不当行为的证据。
@@ -35051,7 +34890,7 @@ improv = 即兴表演
 improve
 /ɪmˈpruːv/
 核心：变好、改进 —— 可及物（improve something）也可不及物（things improved）。
-另有两个常用搭配：improve on/upon（胜过、改进已有的东西）；improve yourself（自我提升）。
+另有两个常用搭配：后接 on 或 upon（胜过、改进已有的东西）；improve yourself（自我提升）。
 名词 improvement 另立一条。
 ① Her English improved a lot after she spent a year in London.
 = 在伦敦待了一年后，她的英语进步很大。
@@ -35153,7 +34992,7 @@ impulse
 /ˈɪmpʌls/
 核心：拉丁语「推动」。本质是一股推力，按推的是什么分三支：心里突然的冲动（an impulse to do、on impulse）；
 促使事情发生的动力（give an impulse to trade）；物理、生理上的脉冲（nerve impulses）。
-impulse buy / impulse buying（冲动购物）并入本条；形容词 impulsive 另立。
+形容词 impulsive 另立。
 ① Halfway through the meeting she felt a sudden impulse to call her mother.
 = 会开到一半，她突然有一股冲动想给妈妈打电话。
 an impulse to do something = 做…的冲动
@@ -35251,10 +35090,10 @@ in
 状态（in love、in danger）、形式与媒介（in pairs、in English、in ink）、方面（rich in vitamins）；
 时间上还有「再过多久」（in ten minutes）。
 副词 —— 从外面进到容器里（come in、get in）；人在家、在单位（Is she in?）；到站、到货、当选、入界（the ball was in）。
-形容词与名词 —— 在圈子里 = 时髦的（the in thing）；an in 是「门路」，ins and outs 是「来龙去脉」。
+形容词与名词 —— 在圈子里就是时髦的（the in thing）；an in（门路）、ins and outs 是「来龙去脉」。
 短语 be in for（要遭遇）、be in on（参与）、have it in for（跟某人过不去）、in that（因为）都从「在里面」来。
-以 in- 连字符打头的一串复合词（in-house、in-flight、in-joke、in-your-face…）都是「在…之内的」，并入本条。
-跟 at、on 的分工：in 看成有边界的空间或时间段；at 看成一个点；on 看成一个面或一天。
+以 in- 连字符打头的一串复合词都是「在…之内的」，并入本条。
+跟 at、on 的分工：有边界的空间或时间段用 in；一个点用 at；一个面或一天用 on。
 ① She keeps her passport in a drawer in the kitchen, under the tea towels.
 = 她把护照放在厨房一个抽屉里，压在茶巾底下。
 in a drawer = 在抽屉里
@@ -35983,7 +35822,7 @@ be incapacitated by something = 因…丧失行动能力
 
 incapacity
 /ˌɪnkəˈpæsɪti/
-核心：无能力；（英）因病丧失劳动能力 —— 不可数。incapacity benefit（英，旧称的伤残补助）并入本条。
+核心：无能力；（英）因病丧失劳动能力 —— 不可数。
 ① Their incapacity to deal with the crisis shocked the public.
 = 他们应对危机的无能让公众震惊。
 incapacity to do something = 无能力做…
@@ -36197,7 +36036,7 @@ incident
 /ˈɪnsɪdənt/
 核心：事件、事故 —— 一件发生了的事，常指不愉快的、暴力的或引起外交纠纷的事。
 新闻里爱用它把事情说得轻描淡写。形容词用法（正式）：be incident to（伴随…而来的）。
-incident room（警方的案件指挥室）并入本条；incidental 另立。
+incidental 另立。
 ① Police are investigating an incident in which a man was injured outside a bar.
 = 警方正在调查一名男子在酒吧外受伤的事件。
 an incident = 事件
@@ -36498,7 +36337,6 @@ income
 /ˈɪnkʌm/
 核心：收入 —— 定期从工作、投资等得到的钱。可数不可数都常用：a high income、income from rent。
 常见的是 on a low income（收入低）、live within your income（量入为出）。
-income tax（所得税）与 income support（英，收入补助）并入本条。
 ① Families on a low income will receive extra help with heating bills.
 = 低收入家庭将在取暖费上获得额外补助。
 on a low income = 收入低
@@ -37161,7 +36999,6 @@ indecent
 /ɪnˈdiːsənt/
 核心：下流的、猥亵的；不得体的。两支：跟性有关的不雅（indecent photographs）；
 （非正式）不合适、过分的（with indecent haste，迫不及待得不像话）。
-法律术语 indecent assault（猥亵罪）、indecent exposure（露阴罪）并入本条；
 名词 indecency 与副词 indecently 并入本条。
 ① He was arrested for sending indecent photographs to a colleague.
 = 他因给一位同事发送下流照片而被捕。
@@ -37288,8 +37125,7 @@ indefinably = 说不出地
 indefinite
 /ɪnˈdefɪnət/
 核心：无限期的；不确定的、模糊的。两支：时间没有定下终点（an indefinite period）；
-（数量、意思）不明确。语法上：the indefinite article（不定冠词 a/an）、indefinite pronoun（不定代词）并入本条。
-副词 indefinitely（无限期地）并入本条。
+（数量、意思）不明确。副词 indefinitely（无限期地）并入本条。
 ① The workers are on indefinite strike until the company agrees to talks.
 = 工人们在无限期罢工，直到公司同意谈判为止。
 an indefinite strike = 无限期罢工
@@ -37408,8 +37244,8 @@ independent
 /ˌɪndɪˈpendənt/
 核心：独立的；不偏不倚的；（英）私立的。几支：国家独立（an independent state）；个人自立（fiercely independent）；
 不受控制、中立（an independent inquiry）；互不相关的（two independent studies）；
-英式说学校、电视台「非公立的」（an independent school）。
-语法 independent clause（独立分句）、统计学 independent variable（自变量）并入本条；副词 independently 并入本条。
+英式说学校、电视台「非公立的」。
+副词 independently 并入本条。
 ① The island became an independent state after a peaceful vote.
 = 那个岛经过一次和平投票成为独立国家。
 an independent state = 独立国家
@@ -37473,8 +37309,7 @@ index
 /ˈɪndeks/
 核心：索引；指数；指标。本义是「指示」（同 indicate），由此三支：书后的索引、资料卡片目录；
 经济上的指数（price index）；一般的衡量指标（an index of success）。复数 indexes 或 indices（后者多用于科学、经济）。
-动词：编索引；（英）按物价指数调整（index-linked 与数据化的 indexation）。
-index card（索引卡片）、index finger（食指）、index-linked、index-linking 并入本条。
+动词：编索引；（英）按物价指数调整（名词 indexation）。
 ① Look up the word in the index at the back of the book.
 = 在书后的索引里查一下这个词。
 the index = 索引
@@ -37505,9 +37340,7 @@ the refractive index = 折射率
 Indian
 /ˈɪndiən/
 核心：印度的；印度人。另一支指美洲原住民（旧称，许多人认为冒犯，今多说 Native American）。
-一串以 Indian 打头的复合词并入本条：Indian summer（深秋回暖；晚年的好时光）、Indian ink（英，墨汁）、
-Indian corn（美，玉米）、Indian club（体操棒）、Indian red（印度红，一种红褐色）、Indian reservation
-（美，印第安人保留地）；India rubber（旧，橡皮）也并在这里。
+一串以 Indian 打头的复合词并入本条；India rubber（旧，橡皮）也并在这里。
 ① Indian food is popular all over Britain, and every town has a curry house.
 = 印度菜在全英国都很受欢迎，每个镇都有一家咖喱馆。
 Indian food = 印度菜
@@ -37620,7 +37453,7 @@ an indictment of something = 对…的控诉
 indie
 /ˈɪndi/
 核心：（口语）独立的 —— 由 independent 截短而来，多说不属于大公司的唱片公司、乐队、电影、游戏。
-也作名词。indie music（独立音乐）并入本条。
+也作名词。
 ① The band signed to a small indie label before they became famous.
 = 那支乐队出名之前签的是一家小型独立唱片公司。
 an indie label = 独立唱片公司
@@ -37750,8 +37583,7 @@ dye something with indigo = 用靛青染…
 indirect
 /ˌɪndɪˈrekt/
 核心：间接的；迂回的；不直截了当的。几支：不是直接造成的（indirect effects）；路线绕远的（an indirect route）；
-说话拐弯抹角（an indirect answer）。语法与财税上的一串术语并入本条：indirect speech（间接引语）、
-indirect object（间接宾语）、indirect question（间接问句）、indirect tax / indirect taxation（间接税）。
+说话拐弯抹角（an indirect answer）。
 副词 indirectly 与名词 indirectness 并入本条。
 ① The strike had an indirect effect on hundreds of small businesses.
 = 那场罢工间接影响了几百家小企业。
@@ -38115,9 +37947,8 @@ the inductance of something = …的电感
 induction
 /ɪnˈdʌkʃən/
 核心：入职培训；（逻辑）归纳法；（电学）感应；（医学）引产。几支都来自「引入」：
-把新人引入组织（an induction course）；从个例引出一般规律（跟 deduction 相对）；
-电磁感应（induction hob、induction loop）；医生引发分娩。
-induction course 与 induction loop 并入本条。
+把新人引入组织；从个例引出一般规律（跟 deduction 相对）；
+电磁感应（induction hob）；医生引发分娩。
 ① All new staff attend a two-day induction course before they start work on the wards.
 = 所有新员工在进病房工作之前，都要参加两天的入职培训课程。
 an induction course = 入职培训课程
@@ -38189,9 +38020,7 @@ industrial
 /ɪnˈdʌstriəl/
 核心：工业的、产业的 —— industry 的形容词。说工厂、生产（industrial production）、
 工业化的地区与国家（an industrial town）、劳资关系（industrial dispute）。
-一串复合词并入本条：industrial action（英，劳工行动，指罢工、怠工）、industrial relations（劳资关系）、
-industrial tribunal（英，劳资仲裁庭）、industrial park（工业园区）、industrial archaeology（工业考古）、
-industrial arts（美，工艺课）、industrial-strength（工业级的；谑，超强的）。副词 industrially 并入本条。
+一串以它打头的复合词与副词 industrially 并入本条。
 ① Industrial production fell by five per cent last year.
 = 去年工业产值下降了百分之五。
 industrial production = 工业生产
@@ -38475,8 +38304,8 @@ almost ineradicable = 几乎无法根除的
 
 inert
 /ɪˈnɜːt/
-核心：不动的；（化学）惰性的；迟钝的。三支：一动不动（lie inert）；不起化学反应的（inert gas）；
-（比喻）缺乏活力的。inert gas（惰性气体）并入本条。
+核心：不动的；（化学）惰性的；迟钝的。三支：一动不动（lie inert）；不起化学反应的；
+（比喻）缺乏活力的。
 ① He lay inert on the ground, and for a moment they thought he was dead.
 = 他一动不动地躺在地上，有一阵他们以为他死了。
 lie inert = 一动不动地躺着
@@ -38491,7 +38320,6 @@ remain inert = 毫无作为
 inertia
 /ɪˈnɜːʃə/
 核心：惰性、惯性 —— 物理上是物体保持原有运动状态的性质；比喻指人、组织不愿改变、懒得行动。
-inertia reel（惯性卷轴，安全带里的装置）并入本条。
 ① The government's inertia meant that nothing was done for years.
 = 政府的惰性导致多年来什么都没做。
 inertia = 惰性、不作为
@@ -38757,8 +38585,8 @@ in its infancy = 处于初期
 
 infant
 /ˈɪnfənt/
-核心：婴儿；幼儿 —— 正式或医学用语，日常说 baby。英式还指五到七岁上小学低年级的孩子（infant school）。
-作定语也表示「刚起步的」（an infant industry）。infant mortality、infant school 并入本条。
+核心：婴儿；幼儿 —— 正式或医学用语，日常说 baby。英式还指五到七岁上小学低年级的孩子。
+作定语也表示「刚起步的」（an infant industry）。
 ① The clinic offers free checks for pregnant women and infants.
 = 那家诊所为孕妇和婴儿提供免费检查。
 an infant = 婴儿
@@ -39112,7 +38940,6 @@ a split infinitive = 分裂不定式
 infinity
 /ɪnˈfɪnɪti/
 核心：无穷、无限；无穷远 —— 数学上的无穷大（符号是横躺的 8），也指望不到头的远处或数量（stretch into infinity）。
-infinity pool（无边泳池，边缘看上去与远景相接）并入本条。
 ① Parallel lines, in theory, meet only at infinity.
 = 理论上，平行线只在无穷远处相交。
 at infinity = 在无穷远处
@@ -39298,7 +39125,7 @@ an inflexible material = 不能弯曲的材料
 inflict
 /ɪnˈflɪkt/
 核心：使遭受、施加（打击、伤害、惩罚）—— 把不好的东西强加给人：inflict damage/pain on somebody。
-inflict on 并入本条；名词 infliction 并入本条。口语里还可以谑用：inflict yourself on somebody（硬去打扰别人）。
+名词 infliction 并入本条。口语里还可以谑用：inflict yourself on somebody（硬去打扰别人）。
 ① The storm inflicted serious damage on the coastal villages.
 = 那场暴风雨给沿海村庄造成了严重破坏。
 inflict damage on something = 对…造成破坏
@@ -39308,6 +39135,9 @@ inflict something on somebody = 把…强加给某人
 ③ The deliberate infliction of pain on animals is a crime.
 = 故意给动物施加痛苦是犯罪行为。
 the infliction of pain = 施加痛苦
+④ The storm inflicted serious damage on the old church, and the roof had to be completely rebuilt.
+= 那场暴风雨给老教堂造成了严重破坏，屋顶不得不全部重建。
+inflict on = 把（损害、痛苦）施加于（常拆开用：inflict damage on something）
 
 inflow
 /ˈɪnfləʊ/
@@ -39324,7 +39154,6 @@ influence
 核心：影响（力）；（对人）有影响的人或事物；势力。名词：对人或事的作用（have an influence on/over）；
 能左右别人的力量（political influence）；一个起影响作用的人或事物（a good influence）；
 under the influence（酒后，法律用语 under the influence of alcohol）。动词：影响、左右。
-influence peddling（利用影响力谋私）并入本条。
 ① Parents have a strong influence on their children's attitudes to money.
 = 父母对孩子的金钱观影响很大。
 have an influence on somebody = 对某人有影响
@@ -39422,7 +39251,7 @@ a thirty-minute infomercial = 三十分钟的专题广告片
 inform
 /ɪnˈfɔːm/
 核心：通知、告知；告发；（正式）影响、贯穿。几支：正式地把事情告诉某人（inform somebody of/about/that）；
-向警方告发（inform on/against somebody）；（正式）一种思想「塑造、渗透」某物（Her faith informs all her work）。
+向警方告发（inform against somebody）；（正式）一种思想「塑造、渗透」某物（Her faith informs all her work）。
 名词 information、informer 等另立。
 ① Please inform us of any change of address as soon as possible.
 = 如果地址有变，请尽快通知我们。
@@ -39444,7 +39273,6 @@ keep somebody informed = 随时通报某人
 informal
 /ɪnˈfɔːməl/
 核心：非正式的、随便的 —— 说场合、衣着、语言、安排。副词 informally 与名词 informality 并入本条。
-informal settlement（非正规住区，棚户区的委婉说法）也并入本条。
 ① The meeting was informal, and we sat on the floor with cups of tea.
 = 那次会议很随意，我们端着茶坐在地板上。
 an informal meeting = 非正式会议
@@ -39486,8 +39314,6 @@ information
 /ˌɪnfəˈmeɪʃən/
 核心：信息、资料、消息 —— 不可数，不说 an information 或 informations；
 要数的话说 a piece of information。常接 about/on。for your information（供你参考；口语里也带不满：告诉你吧）。
-information technology（信息技术）、information science、information security、information theory
-这一族复合词并入本条。
 ① Can you give me some information about train times to Edinburgh?
 = 你能给我一些去爱丁堡的火车时刻信息吗？
 information about something = 有关…的信息
@@ -39579,7 +39405,6 @@ an infotainment system = （车载）信息娱乐系统
 infra
 /ˈɪnfrə/
 核心：（拉丁语，正式）在下文 —— 书、文章里指引读者看后面的内容（see infra），跟 supra（见上文）相对。
-英式口语 infra dig（有失身份的，infra dignitatem 的缩略）并入本条。
 ① The case is discussed in detail infra, in the chapter on contract law.
 = 这个案例在下文合同法一章中有详细讨论。
 see infra = 见下文
@@ -39922,7 +39747,7 @@ an inharmonious sound = 不和谐的声音
 
 inhere
 /ɪnˈhɪə(r)/
-核心：（正式）存在于、内在于 —— 几乎只用 inhere in something，说某种品质天生就在某物里面。
+核心：（正式）存在于、内在于 —— 几乎总后接 in，说某种品质天生就在某物里面。
 形容词 inherent 是它最常见的相关词。
 ① Certain rights inhere in every citizen, whatever the government says.
 = 某些权利是每个公民与生俱来的，不管政府怎么说。
@@ -39971,7 +39796,6 @@ the inheritor of something = …的继承者
 inheritance
 /ɪnˈherɪtəns/
 核心：继承的财产、遗产；遗传；继承。可数时指一笔遗产；不可数时指继承、遗传这回事。
-inheritance tax（遗产税）并入本条。
 ① She used her inheritance to buy a small farm in Wales.
 = 她用继承来的遗产在威尔士买了个小农场。
 somebody's inheritance = 某人的遗产
@@ -40113,7 +39937,6 @@ initial
 核心：开头的、最初的；（名字的）首字母。形容词只放名词前：initial reaction、initial stages。
 名词多用复数 initials（姓名首字母）；动词 initial（签上首字母，表示认可）。
 副词 initially（起初）、initialize（计算机：初始化，英式也拼 -ise）与名词 initialization 并入本条。
-initial public offering（首次公开募股，缩写「IPO」）也并入本条。
 ① My initial reaction was to refuse, but I changed my mind the next day.
 = 我起初的反应是拒绝，可第二天就改主意了。
 somebody's initial reaction = 某人最初的反应
@@ -40206,9 +40029,8 @@ inject humour into something = 给…增添幽默
 
 injection
 /ɪnˈdʒekʃən/
-核心：注射、打针；（资金）注入；注塑。本义可数：打一针（have an injection）；
-比喻：一笔资金的注入（a cash injection）。工业上 injection moulding（注塑成型）与形容词
-injection-moulded（注塑成型的）并入本条。
+核心：注射、打针；（资金）注入。本义可数：打一针（have an injection）；
+比喻：一笔资金的注入（a cash injection）。
 ① The doctor gave her an injection to stop the pain.
 = 医生给她打了一针止痛。
 give somebody an injection = 给某人打针
@@ -40299,7 +40121,7 @@ injurious to somebody's reputation = 有损某人名誉的
 injury
 /ˈɪndʒəri/
 核心：伤害、损伤 —— 可数时指身体上一处伤（a head injury）；不可数时指受伤这回事（risk of injury）。
-也比喻对名誉、感情的伤害。injury time（英，足球：伤停补时）并入本条；习语 add insult to injury（雪上加霜）。
+也比喻对名誉、感情的伤害。习语 add insult to injury（雪上加霜）。
 ① He suffered serious head injuries in the crash.
 = 他在车祸中头部受了重伤。
 a head injury = 头部受伤
@@ -40330,8 +40152,8 @@ do somebody an injustice = 冤枉某人
 ink
 /ɪŋk/
 核心：墨水、油墨 —— 书写、印刷用的有色液体；也指章鱼、乌贼喷出的墨汁。不可数。
-动词 ink：（正式）签署（合同）、给…上墨；ink in 是用墨水描（先用铅笔画好的线）。
-ink pad（印台）、inkjet printer（喷墨打印机）、inkblot test（墨迹测验）并入本条。
+动词 ink：（正式）签署（合同）、给…上墨。
+inkjet printer（喷墨打印机）、inkblot test（墨迹测验）并入本条。
 ① Please fill in the form in black ink and use capital letters.
 = 请用黑色墨水填表，并用大写字母。
 in ink = 用墨水
@@ -40354,6 +40176,9 @@ an inkjet printer = 喷墨打印机
 ⑦ In an inkblot test, patients describe what they see in random shapes of ink.
 = 在墨迹测验中，病人描述自己从随机墨迹图形里看到了什么。
 an inkblot test = 墨迹测验
+⑧ The artist drew the comic in pencil first and then inked in the lines with a fine black pen.
+= 画家先用铅笔画出漫画，再用细黑笔把线条描上墨。
+ink in = 用墨水描（铅笔稿）；敲定（日期）
 
 inkling
 /ˈɪŋklɪŋ/
@@ -40482,8 +40307,7 @@ innately = 天生地
 inner
 /ˈɪnə(r)/
 核心：内部的、里面的；内心的。两支：位置上靠里的（an inner room）；心里的、私密的（inner feelings）。
-一串复合词并入本条：inner city（内城区，常指贫困的市中心）、inner circle（核心圈子）、
-inner ear（内耳）、inner tube（内胎）。
+一串复合词并入本条。
 ① The inner walls of the castle were much older than the outer ones.
 = 城堡的内墙比外墙古老得多。
 inner walls = 内墙
@@ -40742,7 +40566,6 @@ inordinately = 过分地
 inorganic
 /ˌɪnɔːˈɡænɪk/
 核心：无机的；非有机体的 —— 化学上指不含碳氢结构的物质；也指不是生物产生的。
-inorganic chemistry（无机化学）并入本条。
 ① Children learn at school that sand, salt and most rocks are inorganic substances.
 = 孩子们在学校学到，沙子、盐和大多数岩石都是无机物。
 inorganic substances = 无机物
@@ -41189,7 +41012,6 @@ inside
 副词：在里面、进屋（go inside）；（俚）坐牢（three years inside）。名词：the inside（内部；内侧车道）；
 insides（口语，肚子）。形容词：内部的；内部人员提供的（inside information）。
 短语：inside out（里朝外；彻底地）、on the inside（在内部；在狱中）、inside of（美，口语）。
-inside joke（圈内笑话）、inside leg（英，裤腿内长）、inside track（有利位置）并入本条。
 ① She kept the letters in a box inside her wardrobe.
 = 她把信放在衣柜里的一个盒子里。
 inside something = 在…里面
@@ -41238,7 +41060,6 @@ inside of something = （美，口语）在…里面
 insider
 /ɪnˈsaɪdə(r)/
 核心：内部人士、知情人 —— 在一个组织、团体内部、掌握内情的人。反义 outsider。
-insider trading（内幕交易）并入本条。
 ① According to one insider, the company is planning to cut five hundred jobs.
 = 据一位内部人士透露，公司计划裁员五百人。
 an insider = 内部人士
@@ -41354,8 +41175,8 @@ an insipid script = 乏味的剧本
 
 insist
 /ɪnˈsɪst/
-核心：坚持、坚决要求；坚称。两支：坚决要求做某事（insist on something / on doing / that）；
-不管别人信不信，坚持说某事是真的（insist that）。insist upon 更正式。
+核心：坚持、坚决要求；坚称。两支：坚决要求做某事（后接 on 加名词或 on doing，也可接 that）；
+不管别人信不信，坚持说某事是真的（insist that）。on 也可换成更正式的 upon。
 ① She insisted on paying for the meal, although it was my birthday.
 = 虽然是我生日，她还是坚持要付饭钱。
 insist on doing something = 坚持要做…
@@ -41523,7 +41344,6 @@ inspector
 /ɪnˈspektə(r)/
 核心：检查员、督察；（英）警督。几支：负责检查的官员（a health inspector）；
 英国警察的一个级别（Detective Inspector）；检票员（ticket inspector）。
-inspector of taxes（英，税务稽查员）并入本条。
 ① A health inspector visited the restaurant and closed the kitchen.
 = 一位卫生检查员来到餐馆，关停了厨房。
 a health inspector = 卫生检查员
@@ -41671,8 +41491,7 @@ in this instance = 在这个情况下
 instant
 /ˈɪnstənt/
 核心：立即的、即刻的；速溶的、即食的。形容词：马上发生的（an instant success）；
-食品做起来很快（instant coffee）。名词：刹那、瞬间（for an instant、the instant = 一…就）。
-instant message / instant messaging / instant messenger（即时通讯）与 instant replay（美，即时回放）并入本条；
+食品做起来很快（instant coffee）。名词：刹那、瞬间（for an instant；the instant 是「一…就」）。
 副词 instantly 另立。
 ① The book was an instant success and sold out in a week.
 = 那本书一炮而红，一周就卖光了。
@@ -41723,7 +41542,7 @@ instantly recognizable = 一眼就能认出的
 
 instead
 /ɪnˈsted/
-核心：代替、反而 —— 副词，放句末或句首：不做前面那件事，改做这件。instead of 后接名词或 -ing（instead of doing）。
+核心：代替、反而 —— 副词，放句末或句首：不做前面那件事，改做这件。要接名词或 -ing 时，后面先加 of。
 ① We didn't go to the beach; we stayed at home and watched films instead.
 = 我们没去海滩，而是待在家里看电影。
 instead = 反而、改为
@@ -42145,7 +41964,6 @@ insurance
 /ɪnˈʃɔːrəns/
 核心：保险；保险费；保险业；（比喻）防范措施。几支：为防损失而买的保障（car insurance、take out insurance）；
 为此付的钱；保险这一行；为以防万一而做的准备（as insurance against）。
-insurance policy（保单）与 insurance adjuster（美，理赔员）并入本条。
 ① You can't drive the car until you have arranged insurance.
 = 你办好保险之前不能开这辆车。
 arrange insurance = 办理保险
@@ -42374,7 +42192,7 @@ intellectual
 /ˌɪntəˈlektʃuəl/
 核心：智力的、理智的；知识分子。形容词：跟思考、知识有关的（intellectual development）；
 （人）有学问、爱思考的。名词：知识分子。副词 intellectually、名词 intellectualism（唯理智论；重理智）
-与动词 intellectualize（从理智上分析）并入本条。intellectual property（知识产权）也并在这里。
+与动词 intellectualize（从理智上分析）并入本条。
 ① Reading to children helps their intellectual development.
 = 给孩子读书有助于他们的智力发展。
 intellectual development = 智力发展
@@ -42398,7 +42216,6 @@ intelligence
 /ɪnˈtelɪdʒəns/
 核心：智力、智慧；情报；情报机构。两支：理解、学习、思考的能力（human intelligence、artificial intelligence）；
 （尤指军事、政治上的）秘密信息，以及搜集这些信息的机构（military intelligence）。
-intelligence quotient（智商，缩写「IQ」）与 intelligence test（智力测验）并入本条。
 ① Children of average intelligence can easily learn to play chess.
 = 智力一般的孩子也能轻松学会下国际象棋。
 average intelligence = 一般的智力
@@ -42572,7 +42389,7 @@ intensive
 /ɪnˈtensɪv/
 核心：集中的、密集的；（农业）集约的。说在短时间内投入大量精力、资源（an intensive course）；
 农业上用大量肥料、机器在小块地上高产（intensive farming）。
-intensive care（重症监护）与副词 intensively 并入本条。
+副词 intensively 并入本条。
 ① She did an intensive course in Spanish before moving to Madrid.
 = 搬到马德里之前，她上了一个西班牙语强化班。
 an intensive course = 强化课程
@@ -42642,7 +42459,6 @@ intentionally = 故意地
 inter
 /ɪnˈtɜː(r)/
 核心：（正式）埋葬 —— 把死者葬入墓中，多见于正式文字。过去式 interred。
-拉丁短语 inter alia（尤其、除了别的以外，正式）并入本条。
 ① The poet was interred in the village churchyard where he had played as a boy.
 = 那位诗人被安葬在他小时候玩耍过的村教堂墓地里。
 be interred = 被安葬
@@ -42675,7 +42491,7 @@ the interaction of A with B = A与B的相互作用
 interactive
 /ˌɪntəˈræktɪv/
 核心：互动的、交互式的 —— 人与人之间有来有往的；（电脑、电视）使用者能与之交互的。
-副词 interactively、名词 interactivity 与 interactive whiteboard（交互式电子白板）并入本条。
+副词 interactively 与名词 interactivity 并入本条。
 ① The museum has interactive displays that children can touch and play with.
 = 博物馆有互动展品，孩子们可以摸一摸、玩一玩。
 interactive displays = 互动展品
@@ -42920,12 +42736,11 @@ interdisciplinarity = 跨学科性
 interest
 /ˈɪntrɪst/
 核心：兴趣；利息；利益；股份。本义是「与…有关、对…有份」（拉丁语 interesse），由此长出几支：
-心里对某事有关心、想知道的感觉 —— 兴趣（take an interest in），以及让人感兴趣的东西（an interest = 爱好）；
+心里对某事有关心、想知道的感觉 —— 兴趣（take an interest in），以及让人感兴趣的东西（an interest，即爱好）；
 钱上有份 —— 借钱付出、存钱得到的利息（interest rates）；以及在企业里的股份、权益（an interest in a company）；
 事情对某人有好处 —— 利益（in somebody's interest、in the interest(s) of）；
-有共同利益的一群人（business interests、an interest group）。
-动词 interest：使感兴趣。interest in、interest-free（无息的）、interest group（利益集团）、
-conflict of interest（利益冲突）并入本条；形容词 interested、interesting 另立。
+有共同利益的一群人（business interests）。
+动词 interest：使感兴趣。conflict of interest（利益冲突）并入本条；形容词 interested、interesting 另立。
 ① She has always had a great interest in history and old buildings.
 = 她一向对历史和古建筑很感兴趣。
 an interest in something = 对…的兴趣
@@ -43035,7 +42850,7 @@ interfaith dialogue = 跨宗教对话
 interfere
 /ˌɪntəˈfɪə(r)/
 核心：干涉、干预；妨碍。两支：插手别人的事（interfere in）；
-阻碍事情顺利进行（interfere with）。interfere with 另有两个意思：乱动别人的东西；（英，委婉）猥亵。
+阻碍事情顺利进行。
 形容词 interfering（爱管闲事的）并入本条。
 ① I wish my mother would stop interfering in my private life.
 = 我希望我妈别再干涉我的私生活了。
@@ -43125,8 +42940,6 @@ interior
 /ɪnˈtɪəriə(r)/
 核心：内部；内部的；（国家的）内陆；内政。几支：建筑、车辆、物体的里面（the interior of the car）；
 一个国家远离海岸的地区（the interior）；内政（Minister of the Interior）。
-一串复合词并入本条：interior design / designer（室内设计 / 设计师）、interior decoration / decorator
-（室内装饰 / 装饰师）、interior angle（内角）、interior monologue（内心独白）。
 ① The interior of the church was cool and dark after the bright sun outside.
 = 外面阳光刺眼，教堂里面却阴凉昏暗。
 the interior of something = …的内部
@@ -43266,7 +43079,6 @@ intermediate
 /ˌɪntəˈmiːdiət/
 核心：中级的、中等程度的；中间的。两支：学习、技能处于初级与高级之间（intermediate level）；
 位置、阶段处在中间（an intermediate stage）。也作名词：中级学习者。
-intermediate technology（中间技术，适合发展中地区的简单实用技术）并入本条。
 ① The course is for students at intermediate level who already know basic grammar.
 = 这门课面向已经掌握基本语法的中级学生。
 intermediate level = 中级
@@ -43286,6 +43098,7 @@ interment
 ① The interment will take place in the family grave after a private service.
 = 私人追思礼拜之后，将在家族墓地安葬。
 the interment = 安葬
+多见于讣告、葬礼通知等正式场合。
 ② The cemetery has not accepted any new interments since 1950.
 = 那片墓地自一九五〇年以来就没再接收新的安葬。
 an interment = 一次安葬
@@ -43296,6 +43109,7 @@ intermesh
 ① Inside the old clock, the teeth of the brass gears intermesh smoothly after two hundred years.
 = 那座老钟里，黄铜齿轮的齿过了两百年仍然啮合得很顺畅。
 intermesh = 啮合
+多作不及物动词，主语常用复数。
 ② In the novel, the lives of the three families intermesh in unexpected ways.
 = 在那部小说里，三个家庭的生活以意想不到的方式交织在一起。
 intermesh = 相互交织
@@ -43316,6 +43130,7 @@ interminable
 ① We sat through an interminable speech about the history of the company.
 = 我们硬着头皮听完了一场关于公司历史的冗长讲话。
 an interminable speech = 冗长的讲话
+常修饰讲话、会议、等待这类持续进行的事。
 ② The meeting dragged on interminably, and nothing was decided.
 = 会议没完没了地拖着，什么也没决定。
 drag on interminably = 没完没了地拖着
@@ -43339,6 +43154,7 @@ during the intermission = 中场休息时
 ② The rain fell without intermission for three days, and the river burst its banks.
 = 雨接连下了三天没停过，河水漫过了堤岸。
 without intermission = 不间断地
+without intermission 偏书面，口语里少用。
 
 intermittent
 /ˌɪntəˈmɪtənt/
@@ -43389,8 +43205,6 @@ internal
 核心：内部的；体内的；国内的。几支：在一个东西、组织里面的（internal walls、an internal inquiry）；
 身体内部的（internal injuries）；国家内部的（internal affairs）；心里的（internal conflict）。
 副词 internally、动词 internalize（使内化，英式也拼 -ise）与名词 internalization 并入本条。
-internal market（内部市场）、internal medicine（内科学）、internal rhyme（行内韵）、
-internal-combustion engine（内燃机）也并在这里。
 ① The police have launched an internal inquiry into the missing money.
 = 警方已就失踪的钱展开内部调查。
 an internal inquiry = 内部调查
@@ -43465,7 +43279,6 @@ internecine struggles = 内斗
 internet
 /ˈɪntənet/
 核心：互联网、因特网 —— 前加 the；常大写为 the Internet。也作定语：internet access、internet café。
-internet dating（网上约会）与 internet service provider（互联网服务提供商，缩写「ISP」）并入本条。
 ① I found an old family recipe for apple cake on the internet last night.
 = 昨晚我在网上找到了一个苹果蛋糕的老家传食谱。
 on the internet = 在网上
@@ -43496,6 +43309,7 @@ interoffice
 ① The memo was sent by interoffice mail to every department.
 = 那份备忘录通过内部邮件发给了每个部门。
 interoffice mail = 内部邮件
+只作定语，放在名词前。
 ② An interoffice memo reminded staff about the new parking rules.
 = 一份内部备忘录提醒员工注意新的停车规定。
 an interoffice memo = 内部备忘录
@@ -43526,6 +43340,7 @@ interpersonal
 ① Working on a busy hospital ward requires good interpersonal skills and a lot of patience.
 = 在繁忙的医院病房工作，需要良好的人际交往能力和极大的耐心。
 interpersonal skills = 人际交往能力
+多见于招聘广告、简历和管理类文章。
 ② Many interpersonal problems in small offices come from poor communication between managers and staff.
 = 小办公室里的许多人际问题，都源于管理者和员工之间沟通不畅。
 interpersonal problems = 人际问题
@@ -43556,6 +43371,7 @@ Interpol
 ① Interpol issued a warrant for his arrest after he fled the country.
 = 他逃出国境后，国际刑警组织发出了逮捕令。
 Interpol = 国际刑警组织
+专有名词，首字母大写，前面不加 the。
 ② Police worked with Interpol to trace the stolen paintings.
 = 警方与国际刑警组织合作追查被盗的画作。
 work with Interpol = 与国际刑警组织合作
@@ -43854,7 +43670,6 @@ interval
 /ˈɪntəvəl/
 核心：间隔、间歇；（英）幕间休息；（音乐）音程。几支：两件事之间的时间或距离（at intervals of ten minutes）；
 演出中间的休息（美式说 intermission）；两个音之间的高低差。at intervals（每隔一段时间）是常用短语。
-interval training（间歇训练）并入本条。
 ① Buses leave the station at twenty-minute intervals.
 = 公交车每隔二十分钟从车站发一班。
 at intervals = 每隔一段时间

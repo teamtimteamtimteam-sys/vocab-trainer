@@ -73,7 +73,7 @@ scavenge on something = 以某物为食
 
 scavenger
 /ˈskævɪndʒə(r)/
-核心：名词，可数：食腐动物：吃动物尸体的鸟兽；拾荒者、捡破烂的人。复合词 scavenger hunt 是寻宝游戏（按清单找齐指定物品）。
+核心：名词，可数：食腐动物：吃动物尸体的鸟兽；拾荒者、捡破烂的人。
 ① On the African plains, vultures are scavengers that feed on the bodies of dead animals.
 = 在非洲草原上，秃鹫是以动物尸体为食的食腐动物。
 scavengers = 食腐动物
@@ -95,7 +95,7 @@ every possible scenario = 每一种可能的情况
 scene
 /siːn/
 核心：名词，可数：（事件发生的）现场、地点：the scene of the crime、on the scene；景象、情景：a scene of destruction；（戏剧、电影的）一场、一个场景、镜头；当众吵闹：make a scene；（单数）（某一领域的）圈子、领域：the music scene；（口语）not my scene 是不合我的胃口。名词 scenery 是风景（另立条）。
-习语：behind the scenes 是在幕后；set the scene 是铺垫、介绍背景。复合词 scene-shifter 是（舞台）换景工，scene-shifting 是换景；scene-stealer 是抢戏的演员；scene-of-crime 是（英式）犯罪现场勘查的。
+习语：behind the scenes 是在幕后；set the scene 是铺垫、介绍背景。
 ① The police arrived at the scene of the accident within ten minutes.
 = 警察十分钟内就赶到了事故现场。
 the scene of an accident = 事故现场
@@ -177,7 +177,7 @@ scenically = 在风景方面
 
 scent
 /sent/
-核心：名词：（愉悦的）香味、气味（可数或不可数）：the scent of roses；（动物留下的）气味、臭迹（可数）：follow the scent、lose the scent；（英式）香水（可数或不可数）。动词：（动物）嗅出；使充满香气；（比喻）察觉：scent danger。复合词 scent mark 是（动物）气味标记。
+核心：名词：（愉悦的）香味、气味（可数或不可数）：the scent of roses；（动物留下的）气味、臭迹（可数）：follow the scent、lose the scent；（英式）香水（可数或不可数）。动词：（动物）嗅出；使充满香气；（比喻）察觉：scent danger。
 ① The sweet scent of roses filled my grandmother's garden on warm summer evenings.
 = 温暖的夏夜，玫瑰的甜香弥漫了我祖母的整个花园。
 the scent of something = 某物的香味
@@ -674,7 +674,6 @@ school
 核心：名词，本义是「教人的地方」：学校（可数）：a primary school、a secondary school；上学、上课（不可数，不加冠词）：go to school、after school、leave school；（单数）全校师生：the whole school；（北美）大学（不可数）；（大学的）学院、系（可数）：the school of medicine；（艺术、思想的）流派、学派（可数）：school of thought；（鱼、海豚的）群（可数）：a school of fish。动词（正式）：训练、教育：be schooled in something。
 和 the 的分别：go to school 指去上学；go to the school 指为别的事去那栋楼。
 习语：school of thought 是（某种）观点、学派；of the old school 是老派的、守旧的。
-复合词：school age 是学龄；school-leaving age 是（法定）离校年龄；school-leaver（英式）是中学毕业生；school board 是学校董事会，school council 是学生会（英式）；school day 是上课日；school district 是（美国）学区；school friend 是同学、学校里的朋友；school uniform 是校服。
 ① The new school has a big library, a swimming pool and a garden where the children grow vegetables.
 = 那所新学校有一个大图书馆、一个游泳池和一个孩子们种菜的园子。
 school = 学校（建筑）
@@ -1028,7 +1027,7 @@ an attack of sciatica = 坐骨神经痛发作
 
 science
 /ˈsaɪəns/
-核心：名词：科学（不可数）：通过观察、实验研究自然世界的知识体系；（可数）一门学科：the natural sciences、a social science；（单数）（某种技术的）学问、窍门：the science of cooking。形容词 scientific 是科学的，人是 scientist（均另立条）。复合词 science fiction 是科幻小说、科幻作品；science fair 是（学校的）科学展览会。
+核心：名词：科学（不可数）：通过观察、实验研究自然世界的知识体系；（可数）一门学科：the natural sciences、a social science；（单数）（某种技术的）学问、窍门：the science of cooking。形容词 scientific 是科学的，人是 scientist（均另立条）。
 ① Modern science has helped doctors to cure many diseases that used to kill millions of people.
 = 现代科学帮助医生治愈了许多过去夺去数百万人生命的疾病。
 science = 科学
@@ -1144,7 +1143,7 @@ a scion = （嫁接用的）接穗
 
 scissor
 /ˈsɪzə(r)/
-核心：动词（较少用）：用剪刀剪：scissor something out of a newspaper；（腿）像剪刀一样交叉开合。作定语（单数形）：剪刀式的：scissor hold 是（摔跤）剪刀式锁腿，scissor kick 是（游泳、足球）剪刀腿、剪式踢。
+核心：动词（较少用）：用剪刀剪：scissor something out of a newspaper；（腿）像剪刀一样交叉开合。作定语（单数形）：剪刀式的。
 ① She scissored the recipe out of the magazine and stuck it on the fridge.
 = 她把食谱从杂志上剪下来，贴在冰箱上。
 scissor something out = 把某物剪下来
@@ -1273,7 +1272,7 @@ cheese scones = 奶酪司康饼
 
 scooch
 /skuːtʃ/
-核心：动词，不及物（北美口语）：挪一挪、挤一挤：scooch over / up 是往旁边挪一挪；scooch down 是往下挪、蹲低一点。也拼作 scootch。
+核心：动词，不及物（北美口语）：挪一挪、挤一挤：scooch over / up 是往旁边挪一挪。也拼作 scootch。
 ① Can you scooch over a bit so that I can sit next to you on the sofa?
 = 你能往边上挪一点吗？好让我坐在你旁边的沙发上。
 scooch over = 往旁边挪一挪
@@ -1361,7 +1360,7 @@ scope to do something = 做某事的空间
 
 scorch
 /skɔːtʃ/
-核心：动词：烧焦、烤焦：scorch a shirt；（阳光）晒枯、烤焦（草木）。名词，可数：焦痕：a scorch mark。形容词 scorching 是灼热的、炎热的（另立条），scorcher 是大热天（另立条）。
+核心：动词：烧焦、烤焦：scorch a shirt；（阳光）晒枯、烤焦（草木）。名词，可数：焦痕。形容词 scorching 是灼热的、炎热的（另立条），scorcher 是大热天（另立条）。
 ① I scorched my best white shirt because I left the iron on it for too long.
 = 我把熨斗在我最好的白衬衫上放得太久，把衬衫烫焦了。
 scorch something = 把某物烧焦
@@ -1401,7 +1400,6 @@ score
 （比赛的）比分、得分（可数）：the final score、keep score；（考试的）分数（可数）：a test score；（音乐）乐谱、（电影、戏剧的）配乐（可数）：the film score；（旧式）二十：a score of、scores of 是许多；（刻出的）划痕、刻痕（可数）。
 动词：得分、进球：score a goal；（考试）得……分；获得（成功）：score a success；（在表面）刻划：score a line；为（乐曲）配器。
 习语：settle a score 是算旧账、报复；on that score 是在那一点上；know the score 是心里有数、了解实情；keep score 是记分。
-复合词与短语动词：score draw（英式足球）是有进球的平局；score off somebody（英式）是驳倒某人、占上风；score out / score through 是划掉（字）；score sheet 是记分单。
 ① The final score was three goals to one, and the home fans sang all the way back to the station.
 = 最终比分是三比一，主队球迷一路唱着歌走回车站。
 score = 比分
@@ -1571,7 +1569,7 @@ get off scot-free = 逃脱惩罚
 
 scotch
 /skɒtʃ/
-核心：动词，及物：制止、平息（谣言、计划）：scotch rumours、scotch a plan。名词，可数或不可数：（常大写 Scotch）苏格兰威士忌：a glass of Scotch。作定语（常大写）：苏格兰的，只用于少数固定搭配：Scotch broth 是苏格兰浓汤（羊肉大麦汤），Scotch egg 是苏格兰蛋（肉馅裹鸡蛋油炸）。
+核心：动词，及物：制止、平息（谣言、计划）：scotch rumours、scotch a plan。名词，可数或不可数：（常大写 Scotch）苏格兰威士忌：a glass of Scotch。作定语（常大写）：苏格兰的，只用于少数固定搭配。
 ① The minister went on television to scotch rumours that he was going to resign.
 = 那位部长上电视辟谣，否认他要辞职。
 scotch rumours = 平息谣言
@@ -1591,7 +1589,7 @@ a Scotch egg = 苏格兰蛋
 
 Scots
 /skɒts/
-核心：形容词：苏格兰的、苏格兰人的（多用于人、法律、语言）：Scots law；名词，不可数：苏格兰语（苏格兰低地的一种英语方言）。复数名词 the Scots 是苏格兰人。复合词 Scots pine 是欧洲赤松。
+核心：形容词：苏格兰的、苏格兰人的（多用于人、法律、语言）：Scots law；名词，不可数：苏格兰语（苏格兰低地的一种英语方言）。复数名词 the Scots 是苏格兰人。
 ① Scots law is different from English law in many ways, including the age at which people can marry.
 = 苏格兰法律和英格兰法律在很多方面不同，包括结婚年龄。
 Scots law = 苏格兰法律
@@ -1605,7 +1603,7 @@ a Scots pine = 欧洲赤松
 
 Scottish
 /ˈskɒtɪʃ/
-核心：形容词：苏格兰的、苏格兰人的。最常用的说法，可指地方、人、事物：Scottish history、Scottish music。复合词 Scottish terrier（也叫 Scottie）是苏格兰㹴犬。
+核心：形容词：苏格兰的、苏格兰人的。最常用的说法，可指地方、人、事物：Scottish history、Scottish music。
 ① We spent a week walking in the Scottish Highlands and saw only a few other people.
 = 我们在苏格兰高地徒步了一个星期，只遇到了寥寥几个人。
 the Scottish Highlands = 苏格兰高地
@@ -1675,7 +1673,7 @@ a Scouse taxi driver = 利物浦出租车司机
 
 scout
 /skaʊt/
-核心：名词，可数：（体育、娱乐业的）星探、物色人才的人：a talent scout；侦察兵、侦察员；（常大写 the Scouts）童子军（成员）。动词：物色、寻找：scout for something；侦察、考察。scout out 是找到、探明。
+核心：名词，可数：（体育、娱乐业的）星探、物色人才的人：a talent scout；侦察兵、侦察员；（常大写 the Scouts）童子军（成员）。动词：物色、寻找：scout for something；侦察、考察。
 ① A scout from a big football club watched him play and offered him a trial.
 = 一家大足球俱乐部的球探看了他踢球，给了他一次试训机会。
 a scout = 星探、球探
@@ -1812,7 +1810,7 @@ take up scrambling = 开始玩越野摩托
 
 scrap
 /skræp/
-核心：名词：一小片、一点点（可数）：a scrap of paper、a scrap of evidence；（复数 scraps）残羹剩饭；废料、废品（不可数）：scrap metal、sell something for scrap；（口语）打架、争吵（可数）。动词：废弃、取消：scrap a plan；（口语）打架。复合词 scrap paper 是草稿纸、废纸。
+核心：名词：一小片、一点点（可数）：a scrap of paper、a scrap of evidence；（复数 scraps）残羹剩饭；废料、废品（不可数）：scrap metal、sell something for scrap；（口语）打架、争吵（可数）。动词：废弃、取消：scrap a plan；（口语）打架。
 ① He wrote her phone number on a scrap of paper and put it in his pocket.
 = 他把她的电话号码写在一小片纸上，放进了口袋。
 a scrap of paper = 一小片纸
@@ -1850,7 +1848,7 @@ scrape
 /skreɪp/
 核心：动词，本义是「用硬边刮」：刮、刮掉：scrape the mud off your boots；擦伤、刮破：scrape your knee；（与硬物摩擦）发出刺耳声；（比喻）勉强做到、艰难地得到。名词，可数：擦伤、刮痕；刮擦声；（口语）困境：get into a scrape。
 和 scrub、wipe 的分别：scrape 是用硬边刮；scrub 是用刷子或粗布使劲擦洗；wipe 是用布轻轻抹。
-短语动词：scrape by 是勉强维持生活；scrape in / into 是勉强进入、勉强考上；scrape out 是刮出、挖出；scrape through 是勉强通过；scrape together / up 是好不容易凑齐（钱、人）。习语 scrape the bottom of the barrel 是（没办法时）退而求其次、用最差的。
+习语 scrape the bottom of the barrel 是（没办法时）退而求其次、用最差的。
 ① Scrape the mud off your boots before you come into the kitchen.
 = 进厨房之前，先把靴子上的泥刮掉。
 scrape something off something = 把某物从某处刮掉
@@ -1962,7 +1960,6 @@ scratch
 /skrætʃ/
 核心：动词：抓、挠（痒处）：scratch your head；划伤、刮破：scratch the car；刮出（记号）；（比赛前）退出；（动物）扒、抓：scratch at the door。名词，可数：划痕、抓伤：a scratch on the paint；挠（单数）：have a scratch。
 习语：from scratch 是从头开始；up to scratch 是达到标准；scratch the surface 是触及皮毛。
-短语动词：scratch about / around 是四处搜寻、东翻西找；scratch out 是划掉、抓出。复合词：scratch card 是刮刮卡；scratch pad 是便笺本；scratch paper（北美）是草稿纸。
 ① He scratched his head and tried to remember where he had left his glasses.
 = 他挠挠头，努力回想眼镜放在哪儿了。
 scratch = 抓挠
@@ -2041,7 +2038,7 @@ scrawny chickens = 瘦巴巴的鸡
 
 scream
 /skriːm/
-核心：动词：尖叫、惊叫：scream with fear / pain / laughter；大声喊叫：scream at somebody；（风、机器）发出尖啸声。名词：尖叫声（可数）；（口语，单数）非常好笑的人或事：be a scream。scream out 是尖声喊出。副词 screamingly 是极其（好笑等）（另立条）。
+核心：动词：尖叫、惊叫：scream with fear / pain / laughter；大声喊叫：scream at somebody；（风、机器）发出尖啸声。名词：尖叫声（可数）；（口语，单数）非常好笑的人或事：be a scream。副词 screamingly 是极其（好笑等）（另立条）。
 ① My sister screamed when she saw a huge black spider in the bath this morning.
 = 我姐姐今天早上在浴缸里看见一只大黑蜘蛛，尖叫起来。
 scream = 尖叫
@@ -2109,9 +2106,8 @@ a screed of cement = 水泥找平层
 
 screen
 /skriːn/
-核心：名词，可数：（电视、电脑、手机的）屏幕：a computer screen、on screen；（电影院的）银幕，the big screen 指电影（与电视相对）；（隔开房间的）屏风、隔板；（门窗的）纱窗、纱门：a screen door；（比喻）掩护、幌子。
-动词：（为检查疾病）筛查：screen somebody for something；（对人）审查、甄别；播放、放映：screen a film；遮挡、掩护：screen something from view。screen off 是（用屏风）隔开；screen out 是筛除、过滤掉。
-复合词：screen time 是屏幕使用时间；screen test 是（演员的）试镜；screen dump / screen print（计算机）是屏幕截图、屏幕打印；screen name 是网名、艺名；screen saver 是屏幕保护程序；screen pass（美式橄榄球）是掩护传球。
+核心：名词，可数：（电视、电脑、手机的）屏幕：a computer screen、on screen；（电影院的）银幕，the big screen 指电影（与电视相对）；（隔开房间的）屏风、隔板；（门窗的）纱窗、纱门；（比喻）掩护、幌子。
+动词：（为检查疾病）筛查：screen somebody for something；（对人）审查、甄别；播放、放映：screen a film；遮挡、掩护：screen something from view。
 ① I spend eight hours a day looking at a computer screen, so my eyes are often tired.
 = 我每天盯着电脑屏幕八个小时，所以眼睛常常很累。
 screen = 屏幕
@@ -2234,7 +2230,7 @@ screw
 /skruː/
 核心：名词，可数：螺丝、螺钉：tighten a screw；（船的）螺旋桨；（英式俚语）狱警。动词：用螺丝固定：screw something to something；拧、旋：screw the lid on；（俚语）欺骗、敲诈：get screwed。另有一支粗俗用法，指性交，带冒犯性，这一义不配例句。
 习语：have a screw loose 是（口语）脑子有毛病；put the screws on somebody 是对某人施加压力。
-短语动词与复合词：screw up 是搞砸，screwed-up（另立条）是心理有问题的；screw your eyes up 是眯起眼睛；screw your face up 是皱起脸；screw around 是瞎混、胡闹；screw cap / screw top 是螺旋盖。
+形容词 screwed-up（另立条）是心理有问题的。
 ① He used a screwdriver to tighten the loose screw on the door handle.
 = 他用螺丝刀拧紧了门把手上松动的螺丝。
 a screw = 螺丝
@@ -2384,7 +2380,7 @@ receive scrip = 领取股票
 
 script
 /skrɪpt/
-核心：名词：（电影、戏剧、广播的）剧本、脚本（可数）；文字、字体（可数或不可数）：Arabic script；手写体（不可数）；（计算机）脚本（可数）。动词：为……写剧本；（比喻）事先安排好：a scripted answer。复合词 script kiddie 是（贬义）脚本小子：用别人写好的程序搞网络破坏的外行。
+核心：名词：（电影、戏剧、广播的）剧本、脚本（可数）；文字、字体（可数或不可数）：Arabic script；手写体（不可数）；（计算机）脚本（可数）。动词：为……写剧本；（比喻）事先安排好：a scripted answer。
 ① The actors sat round a big table and read through the script together before they started filming.
 = 开拍前，演员们围坐在一张大桌子旁，一起把剧本过了一遍。
 a script = 剧本
@@ -2463,7 +2459,7 @@ describe scrofula = 描述瘰疬
 
 scroll
 /skrəʊl/
-核心：名词，可数：卷轴、卷册：古时写字用的长卷；（建筑、家具上的）涡卷形装饰。动词：（在电脑、手机上）滚动、翻屏：scroll down / through something。复合词 scroll bar 是滚动条。
+核心：名词，可数：卷轴、卷册：古时写字用的长卷；（建筑、家具上的）涡卷形装饰。动词：（在电脑、手机上）滚动、翻屏：scroll down / through something。
 ① The museum has an ancient scroll that is more than two thousand years old.
 = 那座博物馆有一卷两千多年前的古代卷轴。
 a scroll = 卷轴
@@ -2522,7 +2518,6 @@ scroungers = 吃白食的
 scrub
 /skrʌb/
 核心：动词：（用刷子、粗布）用力擦洗、刷洗：scrub the floor；（口语）取消：scrub a plan。名词：擦洗（单数）：give something a scrub；灌木丛、矮树林（不可数）；磨砂膏（可数）。和 wipe 的分别：wipe 是用布轻轻抹，scrub 是使劲刷洗。
-短语动词：scrub off 是擦掉；scrub out 是把（锅、柜子）里面刷干净；scrub up 是（外科医生）手术前洗手。复合词：scrub nurse 是器械护士，scrub room 是（手术室旁的）洗手间。
 ① She scrubbed the kitchen floor on her hands and knees until it was clean.
 = 她跪在地上用力擦洗厨房地板，直到擦干净。
 scrub = 用力刷洗（要使劲）
@@ -2622,7 +2617,7 @@ scruffily dressed = 穿得邋里邋遢
 
 scrum
 /skrʌm/
-核心：名词，可数：（英式橄榄球）并列争球：双方前锋抱成一团争球；（口语）（人群的）推搡拥挤：a scrum of reporters。复合词 scrum half 是（橄榄球）传锋：把球送进并列争球、再传出的队员。
+核心：名词，可数：（英式橄榄球）并列争球：双方前锋抱成一团争球；（口语）（人群的）推搡拥挤：a scrum of reporters。
 ① The referee called a scrum after one of the players dropped the ball.
 = 一名球员掉球后，裁判判了一次并列争球。
 a scrum = 并列争球
@@ -2678,7 +2673,7 @@ the scrumpy = 农家苹果酒
 
 scrunch
 /skrʌntʃ/
-核心：动词：把……揉成一团：scrunch something up；（脚下）发出嘎吱声；皱起（脸）：scrunch up your face。名词，单数：嘎吱声。复合词 scrunch-dry 是（用手抓着）把头发吹出卷曲效果。
+核心：动词：把……揉成一团：scrunch something up；（脚下）发出嘎吱声；皱起（脸）：scrunch up your face。名词，单数：嘎吱声。
 ① She scrunched up the letter and threw it into the fire without reading it.
 = 她看都没看就把信揉成一团扔进了火里。
 scrunch something up = 把某物揉成一团
@@ -3060,7 +3055,6 @@ sea
 /siː/
 核心：名词：海、海洋（可数或不可数，常作 the sea）：swim in the sea、by the sea；（专名）……海：the Black Sea；（单数）（海面的）状况：a calm / rough sea；a sea of something 是大量的、一大片。和 ocean 的分别：ocean 指大洋，比 sea 更大。
 习语：at sea 是在海上航行（不加 the），也指茫然不知所措；by sea 是走海路；go to sea 是去当水手。
-复合词（作定语表示「海上的、海里的、近海的」）：sea level 是海平面；sea lion 是海狮；sea cow 是海牛；sea cucumber 是海参；sea urchin 是海胆；sea turtle 是海龟；sea fish 是海鱼；sea salt 是海盐；sea air 是海边的空气；sea breeze 是海风；sea fret 是（英式）海雾；sea green 是海绿色；sea lane 是航道；sea mile 是海里；sea power 是海上力量、海军强国；sea wall 是防波堤；sea captain 是船长；sea dog 是老水手；sea shanty / sea chantey 是水手号子；sea legs 是（不晕船的）适应能力；sea change 是巨变。
 ① The children ran across the sand and jumped into the sea, shouting with excitement.
 = 孩子们跑过沙滩跳进海里，兴奋地大喊大叫。
 sea = 海
@@ -3272,7 +3266,7 @@ a tank of seahorses = 一箱海马
 
 seal
 /siːl/
-核心：名词，可数：海豹；印章、图章：the royal seal；封条、封蜡；（防漏的）密封圈、密封层；（比喻）认可：seal of approval。动词：密封、封住：seal an envelope；（用封条）封闭（区域）：seal off；确定、使成定局：seal a deal、seal your fate；seal in 是把（香味、水分）封住。复合词 sealing wax 是封蜡。形容词 sealed 是密封的：a sealed envelope。
+核心：名词，可数：海豹；印章、图章：the royal seal；封条、封蜡；（防漏的）密封圈、密封层；（比喻）认可：seal of approval。动词：密封、封住：seal an envelope；（用封条）封闭（区域）；确定、使成定局：seal a deal、seal your fate。复合词 sealing wax 是封蜡。形容词 sealed 是密封的：a sealed envelope。
 ① We watched the seals lying on the rocks and swimming in the cold grey water.
 = 我们看着海豹躺在岩石上，在冰冷灰暗的海水里游动。
 seal = 海豹
@@ -3470,7 +3464,6 @@ be seared into your memory = 深深烙在记忆里
 search
 /sɜːtʃ/
 核心：动词：搜查、搜寻（某地、某人）：search a place、search somebody；寻找：search for something；（在电脑上）搜索：search the internet。名词，可数：搜寻、搜查：a search for、in search of；（电脑）搜索。和 search for 的分别：search 后直接接地方或人（被搜的对象），search for 后接要找的东西。
-短语动词与复合词：search out 是找出、搜寻到；search engine 是搜索引擎，search engine optimization 是搜索引擎优化；search term 是搜索词；search warrant 是搜查令。
 ① The police searched the whole house from top to bottom but found nothing at all.
 = 警察把整座房子从上到下搜了个遍，却一无所获。
 search = 搜查
@@ -3613,7 +3606,7 @@ pills for seasickness = 晕船药
 
 seaside
 /ˈsiːsaɪd/
-核心：名词，单数（常作 the seaside，尤英式）：海边、海滨（作为度假的地方）：go to the seaside。作定语：海滨的：a seaside town。复合词 seaside postcard 是（英式）海滨明信片，尤指画面俏皮、带点低俗笑料的那种。
+核心：名词，单数（常作 the seaside，尤英式）：海边、海滨（作为度假的地方）：go to the seaside。作定语：海滨的：a seaside town。
 ① Every summer when I was a child, we spent two weeks at the seaside.
 = 我小时候每年夏天都要在海边待两个星期。
 the seaside = 海边
@@ -3629,7 +3622,7 @@ season
 /ˈsiːzn/
 核心：名词，可数：季节：the four seasons；（某活动的）季、期：the rainy season、the holiday season；（体育）赛季：the football season；（电视剧的）一季（北美，英式多说 series）；（演出的）演出季。动词：给（食物）调味：season with salt and pepper。
 习语：in season 是（水果、蔬菜）当季的、（动物）发情期的；out of season 是不当季的、淡季的。
-复合词：season ticket 是季票、长期票；season finale 是（电视剧）季终集，season premiere 是季播首集。形容词 seasonal（另立条）是季节性的。
+形容词 seasonal（另立条）是季节性的。
 ① Autumn is my favourite season because of the colours of the leaves.
 = 秋天是我最喜欢的季节，因为树叶的颜色好看。
 season = 季节
@@ -3672,7 +3665,7 @@ seasonable for the time of year = 合乎时节
 
 seasonal
 /ˈsiːzənl/
-核心：形容词：季节性的、随季节变化的：seasonal work、seasonal fruit。副词 seasonally 是季节性地。复合词 seasonal affective disorder（缩写 SAD）是季节性情绪失调：冬季日照少而引起的抑郁。名词 seasonality 另立条。
+核心：形容词：季节性的、随季节变化的：seasonal work、seasonal fruit。副词 seasonally 是季节性地。名词 seasonality 另立条。
 ① Fruit picking is seasonal work, so most of the pickers move to other jobs in winter.
 = 摘水果是季节性工作，所以大多数采摘工冬天就换别的活儿了。
 seasonal work = 季节性工作
@@ -3726,7 +3719,7 @@ seat
 /siːt/
 核心：名词，可数：座位、座椅：a window seat、take a seat；（椅子的）座部、坐垫；（议会、委员会的）席位：win a seat；（自行车的）车座；（正式）所在地、中心：the seat of government。动词：使就座：be seated；（场所）可容纳……人：the hall seats 500。
 习语：take a seat 是请坐、就座；on the edge of your seat 是紧张兴奋地（看）；in the driving seat 是处于主导地位、掌控局面。
-复合词：seat belt 是安全带；seat sale（加拿大）是机票促销。名词 seating 另立条。
+名词 seating 另立条。
 ① Please take a seat; the doctor will see you in a few minutes.
 = 请坐，医生过几分钟就来看您。
 take a seat = 就座
@@ -3952,8 +3945,7 @@ second
 核心：一、序数词、形容词、副词：第二（的）；第二位、第二名：come second；次于……的：second only to；副词 secondly 是第二、其次（列举时）。
 二、名词，可数：秒；（口语）一会儿、片刻：in a second、a split second；（复数）（口语）第二份饭菜：have seconds；（复数）次品；（决斗、拳击中的）助手。
 三、动词：附议、支持（提议）；（英式，读 /sɪˈkɒnd/）借调、暂调（到别的部门）：be seconded to。
-习语：second to none 是首屈一指；on second thoughts 是转念一想；second nature 是第二天性、习以为常。
-复合词：second best 是次好的；second class 是二等；second hand / second-hand 是二手的，second-hand smoke 是二手烟；second home 是第二住所；second in command 是副指挥；second language 是第二语言，second language acquisition 是二语习得；second lieutenant 是少尉；second name 是姓、中间名；second screen 是第二屏幕；second-degree 是二级的；second-generation 是第二代的；second-guess 是事后批评、猜测；second sight 是预见力；second string 是替补；second wind 是重新振作；second banana 是配角；second chamber 是（议会）第二院、上院。
+习语：second to none 是首屈一指；on second thoughts 是转念一想。
 ① There are sixty seconds in a minute and sixty minutes in an hour.
 = 一分钟有六十秒，一小时有六十分钟。
 second = 秒
@@ -4050,8 +4042,7 @@ the second chamber = （议会）第二院
 
 secondary
 /ˈsekəndri/
-核心：形容词：次要的、第二位的：of secondary importance；（教育）中等的、中学的：secondary school、secondary education；（医学）继发的；次生的、间接的。副词 secondarily 是次要地、间接地。
-复合词：secondary education 是中等教育；secondary modern（英式旧时）是现代中学；secondary industry 是第二产业、制造业；secondary picketing 是（声援他厂的）间接纠察；secondary source 是二手资料；secondary stress（语音）是次重音。
+核心：形容词：次要的、第二位的：of secondary importance；（教育）中等的、中学的；（医学）继发的；次生的、间接的。副词 secondarily 是次要地、间接地。
 ① For him, money is of secondary importance; what matters is enjoying his work.
 = 对他来说，钱是次要的，重要的是喜欢自己的工作。
 of secondary importance = 次要的
@@ -4117,7 +4108,6 @@ secret
 /ˈsiːkrət/
 核心：名词，可数：秘密：keep a secret、tell somebody a secret；（单数）秘诀、诀窍：the secret of success；奥秘：the secrets of nature。形容词：秘密的、保密的：a secret meeting；（人）不公开的、暗中的：a secret admirer。副词 secretly 是秘密地、偷偷地。名词 secrecy 另立条。
 习语：in secret 是秘密地；an open secret 是公开的秘密。
-复合词：secret agent 是特工、密探；secret police 是秘密警察；secret service 是特工机构、情报机关。
 ① Can you keep a secret? I am going to ask her to marry me tonight.
 = 你能保密吗？我今晚要向她求婚。
 keep a secret = 保密
@@ -4170,7 +4160,7 @@ the party's secretariat = 党的书记处
 
 secretary
 /ˈsekrətri/
-核心：名词，可数：秘书：处理信件、电话、日程的职员；（俱乐部、协会的）干事、秘书；（英国）大臣：the Foreign Secretary；（美国）部长：the Secretary of State。复合词 secretary general 是（国际组织的）秘书长；secretary bird 是蛇鹫（一种非洲猛禽）。
+核心：名词，可数：秘书：处理信件、电话、日程的职员；（俱乐部、协会的）干事、秘书；（英国）大臣：the Foreign Secretary；（美国）部长：the Secretary of State。
 ① My secretary will send you the details of the meeting by email this afternoon.
 = 我的秘书今天下午会把会议详情用电子邮件发给你。
 secretary = 秘书
@@ -4266,7 +4256,7 @@ sectarianism divides somebody = 宗派偏见使人分裂
 
 section
 /ˈsekʃn/
-核心：名词，可数：部分、段：a section of the road；（文章、书的）章节、节：section by section；（机构的）部门、科；（乐团的）声部：the string section；（报纸的）版面：the sports section；剖面、截面：cross section。动词：把……分成段；（医学）切开；section off 是把……隔开。
+核心：名词，可数：部分、段：a section of the road；（文章、书的）章节、节：section by section；（机构的）部门、科；（乐团的）声部：the string section；（报纸的）版面：the sports section；剖面、截面：cross section。动词：把……分成段；（医学）切开。
 ① The second section of the book explains how the city grew in the nineteenth century.
 = 那本书的第二章讲那座城市在十九世纪是如何发展起来的。
 section = 章节
@@ -4386,7 +4376,7 @@ become secularized = 变得世俗化
 
 secure
 /sɪˈkjʊə(r)/
-核心：形容词：安全的、牢固的：a secure lock；可靠的、有保障的：a secure job；（心理上）有安全感的、自信的：feel secure；（地方）戒备森严的。反义是 insecure（不安全的、没安全感的）。动词：（正式）获得、争取到：secure a loan、secure a place；固定、系牢：secure something to something；保护、使安全。副词 securely 是牢固地、安全地。名词 security 另立条。复合词 secure training centre（英式）是少年犯教养中心。
+核心：形容词：安全的、牢固的：a secure lock；可靠的、有保障的：a secure job；（心理上）有安全感的、自信的：feel secure；（地方）戒备森严的。反义是 insecure（不安全的、没安全感的）。动词：（正式）获得、争取到：secure a loan、secure a place；固定、系牢：secure something to something；保护、使安全。副词 securely 是牢固地、安全地。名词 security 另立条。
 ① Make sure the ladder is secure before you climb up to the roof.
 = 爬上屋顶之前，一定要确认梯子放稳了。
 secure = 牢固的
@@ -4418,7 +4408,6 @@ a secure training centre = （英式）少年犯教养中心
 security
 /sɪˈkjʊərəti/
 核心：名词：安全、保安（不可数）：national security、airport security；（单数）安全感：a sense of security；保障（不可数）：job security；（单数）（机场、公司的）安检、保安部门：go through security；（贷款的）抵押品（不可数）；（复数 securities）证券。
-复合词：security forces 是（军警等）安全部队；security blanket 是（孩子离不开的）安心毯，比喻带来安全感的东西；security deposit 是押金；security hole 是（电脑系统的）安全漏洞。
 ① Security at the airport has been increased after last week's bomb threat.
 = 上周的炸弹威胁之后，机场加强了安保。
 security = 安全
@@ -4449,7 +4438,7 @@ a security hole = 安全漏洞
 
 sedan
 /sɪˈdæn/
-核心：名词，可数：（北美）轿车：英式说 saloon；（旧时的）轿子：sedan chair。
+核心：名词，可数：（北美）轿车：英式说 saloon；（旧时的）轿子。
 ① My father drove an old blue sedan for fifteen years before he bought a new car.
 = 我父亲开一辆蓝色旧轿车开了十五年，才买了新车。
 a sedan = 轿车
@@ -4509,6 +4498,7 @@ Seder
 ① Every spring, the whole family gathers at my grandmother's house for the Seder.
 = 每年春天，全家人都聚到我祖母家吃逾越节家宴。
 the Seder = 逾越节家宴
+首字母大写，前面常加 the。
 ② At the Seder, the youngest child asks four questions about the meaning of the evening.
 = 逾越节家宴上，最小的孩子会就那个晚上的意义问四个问题。
 at the Seder = 在逾越节家宴上
@@ -4554,6 +4544,7 @@ sedimentation = 沉积
 ② The water is cleaned by sedimentation before it is filtered and sent to homes.
 = 水先经过沉淀处理，再过滤后送到各家各户。
 clean water by sedimentation = 用沉淀法净化水
+多见于地理、环境和水处理的专业文字。
 
 sedition
 /sɪˈdɪʃn/
@@ -4562,6 +4553,7 @@ sedition
 = 那位记者写了一篇抨击国王的文章，随后被捕，被控煽动叛乱。
 be charged with sedition = 被控煽动叛乱
 sedition = 煽动叛乱
+多见于法律和历史语境。
 ② Under the old laws, criticizing the government in public could be treated as sedition.
 = 在旧法律下，公开批评政府可能被当作煽动叛乱。
 be treated as sedition = 被当作煽动叛乱
@@ -4597,6 +4589,7 @@ seducer
 ① The handsome seducer in the opera promises to marry every woman he meets.
 = 那部歌剧里英俊的勾引者对遇到的每个女人都许诺要娶她。
 a seducer = 勾引者
+带贬义，多见于文学作品。
 ② He was known in the town as a seducer of other men's wives.
 = 他在镇上出了名的专勾引别人的老婆。
 a seducer of somebody = 勾引某人的人
@@ -4654,6 +4647,7 @@ sedulous
 = 她是个勤勉的学生，每天晚上都待在图书馆。
 a sedulous student = 勤勉的学生
 sedulous = 勤勉的
+褒义词，比一般的勤奋更强调长期用心。
 ② During the long interview, the minister sedulously avoided any questions about his private life.
 = 在那次长时间的采访中，那位部长刻意回避任何关于他私生活的问题。
 sedulously avoid something = 刻意回避某事
@@ -4663,7 +4657,6 @@ see
 核心：动词（过去式 saw，过去分词 seen），本义是「眼睛看见」，由此长出一大族：
 看见：不是主动去看，是眼睛接收到，和 look、watch 不同；（电影、比赛）看；见面、会见：see a doctor；明白、理解：I see；认为、看待：see something as；发现、得知：I see that…；查看、弄清：see if / whether；确保、注意：see that…；陪伴、送：see somebody home；经历、目睹（时代、事件）：the year saw…；交往、谈恋爱：be seeing somebody。
 习语：see you 是再见；let me see 是让我想想；you see 是你知道、你明白吧；wait and see 是等着瞧；see eye to eye 是看法一致；see red 是大怒；as far as I can see 是依我看。
-短语动词：see about 是安排、处理；see in 是迎接（新年）；see off 是送行，也指击退；see out 是送……出门，也指坚持到底；see over 是察看（房子）；see through 是看穿，也指坚持到底；see to 是照料、处理；see to it that 是确保。复合词 see-saw（也作 seesaw）是跷跷板，比喻起伏不定。
 ① When I open the kitchen curtains in the morning, I often see a fox in the garden.
 = 我早上拉开厨房窗帘时，常常看见花园里有一只狐狸。
 see = 看见（不是主动去看，是眼睛接收到）
@@ -4725,7 +4718,7 @@ see about something = 处理某事
 see in = 迎接（新年）
 ⑳ When she left for Australia, the whole family came to the airport to see her off.
 = 她去澳大利亚时，全家人都到机场为她送行。
-see somebody off = 为某人送行
+see off = 为（某人）送行（常拆开用：see somebody off）
 多在车站、机场，宾语是人，代词要放在 see 和 off 中间。
 ㉑ My secretary will see you out when you are ready to leave.
 = 你准备走的时候，我的秘书会送你出去。
@@ -4745,12 +4738,14 @@ see to it that = 确保
 ㉖ The children took turns on the see-saw in the park until it got dark.
 = 孩子们在公园里轮流玩跷跷板，一直玩到天黑。
 a see-saw = 跷跷板
+㉗ The old man said he wanted to see out his last years in the village where he was born.
+= 那位老人说，他想在出生的村子里度过最后的岁月。
+see out = 度过（剩余的时间）
 
 seed
 /siːd/
 核心：名词：种子、籽（可数或不可数）：plant seeds、sunflower seeds；（比喻）根源、开端：the seeds of something；（体育）种子选手：the top seed。动词：播种；（植物）结籽；（体育）把……列为种子选手：be seeded；去籽。
 习语：go to seed / run to seed 是（植物）结籽而不再长叶，比喻（人、地方）走下坡路、衰败。
-复合词：seed money 是启动资金；seed cake 是香籽蛋糕（加葛缕子籽的蛋糕）；seed coat 是种皮；seed corn 是留作种子的谷物，比喻为将来所做的投资；seed pearl 是小粒珍珠。
 ① Plant the seeds in small pots and keep them in a warm place until they start to grow.
 = 把种子种在小花盆里，放在温暖的地方，直到发芽。
 seed = 种子
@@ -4859,7 +4854,7 @@ the seedy side of something = 某事的阴暗面
 
 seek
 /siːk/
-核心：动词（过去式和过去分词 sought），比 look for 正式：寻找、寻求：seek a job、seek shelter；请求、征求：seek advice、seek help、seek permission；试图、设法：seek to do something。复合词 job-seeker 是求职者。短语动词 seek out 是找出、搜寻到。名词 seeker（另立条）。复合词 seek time（计算机）是寻道时间。
+核心：动词（过去式和过去分词 sought），比 look for 正式：寻找、寻求：seek a job、seek shelter；请求、征求：seek advice、seek help、seek permission；试图、设法：seek to do something。复合词 job-seeker 是求职者。名词 seeker（另立条）。
 ① Thousands of people seek work in the city every year, but many of them cannot find it.
 = 每年有成千上万的人到城里找工作，可其中许多人找不到。
 seek = 寻求
@@ -5139,7 +5134,7 @@ advances in seismology = 地震学的进步
 seize
 /siːz/
 核心：动词：（突然用力）抓住、夺取：seize somebody by the arm；（武力）夺取、占领：seize power、seize control；（警方、海关）没收、查获：seize drugs；抓住（机会）：seize the opportunity；（情绪）突然侵袭：be seized by panic。和 hold 的分别：hold 是持续地握着，seize 是一下子用力抓住。
-习语：seize the day 是及时行乐、抓住今天。短语动词：seize on / seize upon 是抓住（机会、借口、错误）不放；seize up 是（机器、肌肉）卡住、僵住。名词 seizure 另立条。
+习语 seize the day 是及时行乐、抓住今天。名词 seizure 另立条。
 ① The man seized her bag and ran off down the street before she could shout.
 = 那个男人一把抓过她的包，没等她喊出声就顺着街跑掉了。
 seize = 抓住
@@ -5214,7 +5209,7 @@ a select group = 少数精选的人
 
 selection
 /sɪˈlekʃn/
-核心：名词：选择、挑选（不可数或可数）：the selection of players；（可数）选出的人或物、精选品：a selection of cheeses；（商店的）可选货品、品种：a wide selection。复合词 selection committee 是遴选委员会。
+核心：名词：选择、挑选（不可数或可数）：the selection of players；（可数）选出的人或物、精选品：a selection of cheeses；（商店的）可选货品、品种：a wide selection。
 ① The selection of the new team captain took the coach several weeks.
 = 挑选新队长花了教练好几个星期。
 selection = 选择、精选
@@ -5230,7 +5225,7 @@ a selection committee = 遴选委员会
 
 selective
 /sɪˈlektɪv/
-核心：形容词：选择性的、有选择的：selective schools；（人）挑剔的、精心挑选的：be selective about something。副词 selectively 是有选择地。复合词 selective service（美国）是义务兵役制。名词 selectivity 另立条。
+核心：形容词：选择性的、有选择的：selective schools；（人）挑剔的、精心挑选的：be selective about something。副词 selectively 是有选择地。名词 selectivity 另立条。
 ① She is very selective about the films she watches and only goes to see a few each year.
 = 她看电影很挑剔，每年只看几部。
 be selective about something = 对某事很挑剔
@@ -6810,7 +6805,7 @@ the loss of selfhood = 失去自我
 
 selfie
 /ˈselfi/
-核心：名词，可数（口语）：自拍照：take a selfie。复合词 selfie stick 是自拍杆。
+核心：名词，可数（口语）：自拍照：take a selfie。
 ① The tourists stopped on the bridge to take a selfie with the castle behind them.
 = 游客们在桥上停下，以城堡为背景自拍。
 take a selfie = 自拍
@@ -6883,7 +6878,7 @@ sell
 /sel/
 核心：动词（过去式和过去分词 sold）：卖、出售：sell something to somebody、sell somebody something、sell something for £10；（商品）有销路、卖得出：sell well；推销、使接受（想法）：sell an idea to somebody。反义是 buy（买）。
 习语：sell like hot cakes 是畅销、抢手；sell yourself short 是低估自己、贬低自己。
-短语动词与复合词：sell off 是廉价出售、变卖；sell on 是转卖；sell out 是卖光，也指（为利益）背叛原则；sell up 是（英式）卖掉全部家产；sell-through 是（零售的）售出率；selling point 是卖点；selling price 是售价。人是 seller（另立条）。
+复合词：selling point 是卖点；selling price 是售价。人是 seller（另立条）。
 ① We sold our old car to a young couple who lived in the next street.
 = 我们把旧车卖给了住在隔壁街的一对年轻夫妇。
 sell = 卖
@@ -6965,7 +6960,7 @@ a special selvedge = 特别的布边
 
 semantic
 /sɪˈmæntɪk/
-核心：形容词：语义的、词义的：semantic change。副词 semantically 是语义上。复合词 semantic field（语言学）是语义场。名词 semantics 另立条。
+核心：形容词：语义的、词义的：semantic change。副词 semantically 是语义上。名词 semantics 另立条。
 ① The two words look similar, but there is an important semantic difference between them.
 = 这两个词看着相似，但语义上有重要的差别。
 a semantic difference = 语义差别
@@ -7037,7 +7032,7 @@ spend a semester = 度过一个学期
 
 semi
 /ˈsemi/
-核心：名词，可数（口语）：（英式）半独立式住宅：semi-detached house 的简称；（北美）半挂车；（体育）半决赛：semi-final 的简称。复数 semis。
+核心：名词，可数（口语）：（英式）半独立式住宅：semi-detached house 的简称；（北美）半挂车；（体育）半决赛。复数 semis。
 ① They live in a three-bedroom semi on the edge of town, with a small garden at the back.
 = 他们住在镇边一套三居室的半独立式住宅里，后面有个小花园。
 a semi = 半独立式住宅
@@ -7459,7 +7454,6 @@ a senatorial voice = 参议员般庄重的语调
 send
 /send/
 核心：动词（过去式和过去分词 sent）：寄、发送：send a letter、send somebody something、send something to somebody；派、打发（某人去某处）：send somebody to bed、send for the doctor；使处于某种状态：send somebody to sleep、send prices up。
-短语动词：send away 是打发走；send down 是（英式）把……关进监狱、开除（学生）；send for 是派人去请、叫人送来；send forth 是（文学）发出；send in 是寄交、派遣（军队、警察）；send off 是寄出，也指（英式体育）罚下场；send on 是转寄；send out 是发出、发送；send out for 是叫外卖；send up 是（英式）模仿取笑。
 ① My grandmother sent me a long letter for my birthday with photos of the family.
 = 我祖母为我的生日寄来一封长信，附了全家的照片。
 send somebody something = 给某人发某物
@@ -7565,7 +7559,7 @@ senescent leaves = 老化的叶子
 
 senile
 /ˈsiːnaɪl/
-核心：形容词：衰老的、老糊涂的（指年老而记忆、思维衰退）。复合词 senile dementia 是老年痴呆。说人时有些冒犯，宜慎用。
+核心：形容词：衰老的、老糊涂的（指年老而记忆、思维衰退）。说人时有些冒犯，宜慎用。
 ① My grandfather became a little senile in his nineties and often forgot our names.
 = 我祖父九十多岁时有点老糊涂了，常常忘记我们的名字。
 become senile = 变得老糊涂
@@ -7590,7 +7584,6 @@ a sign of senility = 衰老的迹象
 senior
 /ˈsiːniə(r)/
 核心：形容词：（职位、级别）较高的、资深的：a senior manager；年长的（缩写 Sr、Snr）。名词，可数：年长者：be three years my senior；（北美）（高中、大学的）毕业班学生；（尤北美）老年人：senior citizens。反义 junior。
-复合词：senior moment（幽默）是（老人）一时糊涂、忘事；senior high school（美国）是高中；senior common room（英国大学）是教师休息室；senior chief petty officer、senior master sergeant、senior aircraftman / aircraftwoman 是军衔（高级军士长、空军一级兵等）。
 ① She is a senior manager at the bank and has fifty people working for her.
 = 她是那家银行的高级经理，手下有五十个人。
 a senior manager = 高级经理

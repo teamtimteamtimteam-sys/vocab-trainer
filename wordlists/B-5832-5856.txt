@@ -263,14 +263,13 @@ deafeningly loud = 吵得震耳欲聋
 
 deal
 /diːl/
-核心：两个来路不同的词长成了同一个形，先分开再记。
-一、发牌与分配那一支：把牌一张张分下去是本义，由此长出「分给」
-（deal out）、「给出一击」（deal a blow）、「贩卖」（deal in drugs）。
-二、名词的「一笔交易」与由它来的动词短语 deal with —— 处理、对付、
-涉及。这一支今天用得最多。
-另有 a great deal 那个量词说法：a good deal of 相当于 a lot of，
-后面接不可数名词。
-三态不规则：deal－dealt－dealt。
+核心：两个来路不同的词长成了同一个形，先分开再记。一、发
+牌与分配那一支：把牌一张张分下去是本义，由此长出「分给」、
+「给出一击」（deal a blow）与「贩卖」（deal in drugs）。
+二、名词的「一笔交易」与由它来的动词用法（后接 with）——
+处理、对付、涉及。这一支今天用得最多。另有 a great deal
+那个量词说法：a good deal of 相当于 a lot of，后面接不可
+数名词。三态不规则：deal－dealt－dealt。
 ① He dealt the cards badly and had to start the hand again.
 = 他牌发得很糟，只好重新开一局。
 deal the cards = 发牌
@@ -725,8 +724,7 @@ debility = （久病后的）虚弱
 debit
 /ˈdebɪt/
 核心：账上的支出方，跟 credit 收入方相对。名词指那笔支出记录，
-动词是从账户扣款。两个高频搭配：a debit card 借记卡（花自己账户里的钱，
-跟信用卡相对）、a direct debit（英式）授权对方定期扣款。
+动词是从账户扣款。高频搭配是 a direct debit（英式）：授权对方定期扣款。
 ① The bank debited the account twice for the same standing order.
 = 银行为同一笔定期付款，从账户里扣了两次钱。
 debit an account = 从账户扣款

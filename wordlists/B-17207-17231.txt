@@ -2,13 +2,13 @@ pocket
 /ˈpɒkɪt/
 核心：本义是「缝在衣服上的小袋」。名词，可数：（衣服的）口袋、衣兜；（包、车门、座椅背上的）袋、格；钱、财力：from your own pocket、to suit every pocket；
 （跟周围不同的）一小片、孤立的一小块：pockets of resistance；（台球桌的）球袋。
-形容词，只作定语：小型的、袖珍的：a pocket dictionary，也说 pocket-sized。
+形容词，只作定语：小型的、袖珍的：a pocket dictionary。
 动词：把……放进口袋；把（不该得的钱）装进腰包；（台球）把球打进袋。
 习语：be out of pocket 是赔了钱、自己垫了钱；be in somebody's pocket 是受某人控制、被收买了，live in each other's pockets 是（英式）形影不离；
 line your pockets 是中饱私囊；have deep pockets 是财力雄厚；dig deep (into your pocket) 是慷慨解囊；
 pick somebody's pocket 是扒某人的口袋；put your hand in your pocket 是（英式）掏钱。
-派生与复合词：pocketful 是一口袋的量；pocket money 是（英式）（给孩子的）零花钱；pocketknife 是（美式）小折刀；
-pocketbook 是（美式）钱包、手提包，也指财力，英式里指小笔记本；美国的 pocket veto 是搁置否决：总统把议案压着不签、等国会休会让它自动作废。并入本条。
+派生与复合词：pocketful 是一口袋的量；pocketknife 是（美式）小折刀；
+pocketbook 是（美式）钱包、手提包，也指财力，英式里指小笔记本。并入本条。
 ① He put the keys in his coat pocket and forgot about them.
 = 他把钥匙放进大衣口袋，就忘了。
 a coat pocket = 大衣口袋
@@ -180,7 +180,7 @@ a poetess = 女诗人
 poetic
 /pəʊˈetɪk/
 核心：两支。一是诗的、诗歌的，只作定语；二是有诗意的、优美而富于想象的。也说 poetical。副词 poetically。
-poetic justice 是恶有恶报、报应不爽；poetic licence 是诗人的破格：为了效果不守语法、不顾事实的自由。
+poetic licence 是诗人的破格：为了效果不守语法、不顾事实的自由。
 poetics 是诗学：研究诗歌原理的学问，不可数。并入本条。
 ① The collection contains all his poetic works in a single volume.
 = 那部集子把他的全部诗作收在一卷里。
@@ -260,18 +260,14 @@ point
 时刻、阶段：at this point、at some point；（程度上的）一点：boiling point、up to a point；地点、位置：a meeting point；（罗盘的）方位；
 （比赛的）分：win by two points；小数点：two point five；（尖东西的）尖；（光、色的）小点；（地名里）岬角；
 计量的单位：a percentage point；（英式）电源插座，也说 power point；（英式）points 是（铁路的）道岔。
-动词：（用手指、东西）指：point at、point to、point towards；把……对准：point a gun at；朝向、指向；
-point to 是表明、显示；point out 是指出、指给人看；point up 是（正式）突出、强调；（建筑）用灰浆勾（砖缝），这活儿叫 pointing。
-习语：point of view 是看法、立场、角度；the point of no return 是只能进不能退的那一步；up to a point 是在一定程度上；
+动词：（用手指、东西）指：point at、point towards；把……对准：point a gun at；朝向、指向；
+（建筑）用灰浆勾（砖缝），这活儿叫 pointing。
+习语：the point of no return 是只能进不能退的那一步；up to a point 是在一定程度上；
 beside the point 是无关紧要、离题；to the point 是切题、说到点子上，more to the point 是更要紧的是；on the point of 是正要、眼看就要；
 get the point 是明白了，take somebody's point 是认同某人说的在理，point taken 是说得对、我接受；
 make a point of doing 是特意、一定要做；in point of fact 是其实、事实上；a sore point 是痛处、别人不爱提的事；
-point the finger (at) 是指责；score points (off) 是（在争论里）占上风、驳倒；a case in point 是恰当的例子；
-point of order 是（会议上）关于议事规则的问题。
-复合词：point-blank 是近距离平射的，也指直截了当地；point of sale 是销售点：收款的地方；point of reference 是参照点；point of use 是使用的地方；
-point duty 是（英式）（交警在路口的）执勤；point man 是打头阵的人、牵头人；point guard 是（篮球）控球后卫；
-point-and-click 是（计算机）点选式的；point-and-shoot 是（相机）傻瓜式的；pointing device 是指点设备：鼠标一类；
-英国的 point-to-point 是业余越野赛马。并入本条。
+point the finger (at) 是指责；score points (off) 是（在争论里）占上风、驳倒；a case in point 是恰当的例子。
+复合词 pointing device 是指点设备：鼠标一类。并入本条。
 ① She made several interesting points about the cost of the scheme.
 = 关于那项计划的花费，她提了几点有意思的看法。
 make a point = 提出一点看法
@@ -478,7 +474,6 @@ pointer
 /ˈpɔɪntə(r)/
 核心：名词，可数：（口语）建议、指点：pointers on；迹象、线索：a pointer to；（仪表上的）指针；教鞭、指示棒；（电脑屏幕上的）光标、指针；
 指示犬：一种猎犬，发现猎物就站定、用鼻子指着方向。
-pointer finger 是（美式，儿语）食指。并入本条。
 ① The coach gave me a few pointers on how to hold the racket.
 = 教练就怎么握拍指点了我几句。
 pointers on something = 关于某事的指点
@@ -570,8 +565,7 @@ poison
 核心：名词：毒药、毒物，可数也可不可数；比喻毒害人的东西。
 动词：给……下毒、毒死；往（食物、水）里投毒；污染（土地、空气）；毒害、败坏（关系、气氛、人心）。
 习语 What's your poison? 是（旧式口语，玩笑）你喝点什么酒。
-派生与复合词：poisoning 是中毒、投毒：food poisoning 是食物中毒；poisoner 是投毒的人；poison ivy、poison oak 是毒藤、毒橡树：北美的两种植物，碰了皮肤会起疹子；
-poison pen letter 是（匿名的）恶毒中伤信；poison pill 是（商业）毒丸：公司为防被人收购而设的、让收购变得不划算的办法。并入本条。
+派生与复合词：poisoning 是中毒、投毒：food poisoning 是食物中毒；poisoner 是投毒的人。并入本条。
 ① The farmer put down rat poison in the barn.
 = 那个农民在谷仓里放了老鼠药。
 rat poison = 老鼠药
@@ -624,7 +618,6 @@ a poisonous atmosphere = 恶毒的气氛
 poke
 /pəʊk/
 核心：动词：（用手指、棍子）戳、捅；把……伸出、探出：poke your head out；（东西）伸出、露出：poke out of、poke through；戳出（洞）。
-poke around、poke about 是（口语）东翻西找、四处打探；poke at 是一下一下地戳、拨弄。
 习语：poke fun at 是取笑、拿……开玩笑；poke your nose into 是多管闲事、打探。
 名词：一戳、一捅，可数。
 ① She poked him in the ribs to wake him up.

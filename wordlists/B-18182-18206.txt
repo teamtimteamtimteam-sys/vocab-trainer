@@ -24,7 +24,7 @@ querulously = 发着牢骚地
 query
 /ˈkwɪəri/
 核心：名词，可数：疑问、询问、问题：尤指向官方、机构提出的；（计算机）查询。动词：询问、质疑、对……提出疑问：query whether、query something with somebody。
-过去式 queried。复合词 query language 是（计算机）查询语言。
+过去式 queried。
 ① If you have any queries about your bill, please ring this number.
 = 对账单有任何疑问，请拨这个电话。
 a query about something = 对某事的疑问
@@ -80,7 +80,6 @@ question
 call something into question 是对某事提出质疑；beg the question 是回避要害、让人不禁要问；pop the question 是（口语）求婚；
 without question 是毫无疑问、毫无异议地；there is no question of 是不可能有……；a question of 是……的问题、关乎……。
 派生：questioner 是提问的人；questioning 是讯问，不可数，也作形容词：怀疑的、探询的，副词 questioningly。
-复合词：question mark 是问号；question master 是（英式）问答节目主持人；question tag 是（语法）附加疑问句。并入本条。
 ① Can I ask you a question about the maths homework before the lesson starts?
 = 上课前我能问你一个关于数学作业的问题吗？
 ask a question = 问问题
@@ -194,7 +193,7 @@ complete a questionnaire = 填完调查表
 queue
 /kjuː/
 核心：名词，可数：（英式）（排着等的）队、行列：a queue of people、a queue for；（车辆的）长龙；（计算机）（等待处理的）队列。美式多说 line。
-动词：（英式）排队：queue (up) for、queue to do。习语 jump the queue 是插队，名词 queue-jumping 是插队，不可数。
+动词：（英式）排队：queue (up) for、queue to do。习语 jump the queue 是插队。
 ① There was a long queue outside the cinema.
 = 电影院外面排着长队。
 a long queue = 长队
@@ -261,8 +260,7 @@ quick
 （脾气）急的：a quick temper。副词：（口语）快地：Come quick!。名词：the quick 是（指甲下面的）嫩肉。
 副词 quickly 是快地、迅速地、马上；名词 quickness 是迅速、敏捷，不可数。并入本条。
 习语：(as) quick as a flash 是一眨眼、飞快地；cut somebody to the quick 是深深刺痛某人；quick off the mark 是起步快、反应快；
-quick on the uptake 是领会得快；a quick one 是（口语）匆匆喝一杯；in quick succession 是接二连三地。
-复合词：quick-fire 是连珠炮似的；quick-tempered 是急性子的；quick-witted 是机敏的、脑子快的。
+quick on the uptake 是领会得快；in quick succession 是接二连三地。
 ① I had a quick look at the report before the meeting started.
 = 会议开始前我匆匆看了一眼报告。
 a quick look = 匆匆一看
@@ -400,7 +398,7 @@ a quickstep = 快步舞曲
 quid
 /kwɪd/
 核心：两支。一是（英式口语）英镑：复数也是 quid：fifty quid；二是（嚼的）一块烟草，可数。
-习语 be quids in 是（英式口语）赚了一笔、占了便宜；quid pro quo 是交换条件、等价交换，拉丁语借词。
+习语 be quids in 是（英式口语）赚了一笔、占了便宜。
 ① He sold the old bike for twenty quid.
 = 他把旧自行车卖了二十英镑。
 twenty quid = 二十英镑

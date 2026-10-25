@@ -122,7 +122,7 @@ by reversion = 按复归权
 
 revert
 /rɪˈvɜːt/
-核心：不及物。一是 revert to 是恢复、回到（原来的状态、习惯）：revert to type；二是（正式）重新谈到、回到（原来的话题）；三是（法律）（财产）归还、复归：revert to。
+核心：不及物。一是恢复、回到（原来的状态、习惯），后接 to：revert to type；二是（正式）重新谈到、回到（原来的话题）；三是（法律）（财产）归还、复归。
 ① After the holiday the town reverted to its usual quiet life.
 = 假期过后，那个小镇又恢复了平常的宁静生活。
 revert to something = 恢复到某状态

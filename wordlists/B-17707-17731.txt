@@ -113,7 +113,7 @@ prison
 /ˈprɪzn/
 核心：监狱，可数；坐牢、监禁，不可数：in prison、go to prison、send somebody to prison。比喻让人觉得被困住的地方、处境。
 作为「坐牢」这件事不加冠词：be in prison；说那座楼、去探访才加：visit the prison。
-prison visitor 是（英国）义务探访囚犯的人；prison officer 是狱警。并入本条。
+prison officer 是狱警。并入本条。
 ① He spent five years in prison for his part in the robbery.
 = 他因参与那起抢劫坐了五年牢。
 in prison = 在坐牢
@@ -139,7 +139,6 @@ a prison camp = 战俘营、集中营
 prisoner
 /ˈprɪznə(r)/
 核心：两支，可数。一是犯人、囚犯：关在监狱里的人；二是俘虏、被抓起来关着的人：take somebody prisoner、hold somebody prisoner。
-prisoner of war 是战俘，简称 POW；prisoner of conscience 是良心犯：因信仰、政见被关押的人。
 习语 take no prisoners 是毫不留情、不给人留余地。
 ① The prisoners are allowed one visit a month from their families.
 = 犯人每月可以让家人探视一次。
@@ -199,12 +198,11 @@ an invasion of privacy = 侵犯隐私
 private
 /ˈpraɪvət/
 核心：本义是「属于个人、不向公众开放」。形容词：私人的、私有的、个人专用的：private property；不对外的、不公开的：a private meeting；
-私营的、民办的、不归政府管的：a private school、the private sector；私事的、跟工作无关的：private life；秘密的、不愿让人知道的；
+私营的、民办的、不归政府管的：the private sector；私事的、跟工作无关的：private life；秘密的、不愿让人知道的；
 （地方）僻静的、没人打扰的；（人）不爱谈自己的、内向的。副词 privately。
-名词：（陆军的）列兵、二等兵：军衔最低的士兵，可数，也说 private soldier；口语的 privates 是阴部，同 private parts。
+名词：（陆军的）列兵、二等兵：军衔最低的士兵，可数；口语的 privates 是阴部。
 习语 in private 是私下里、没有别人在场。
-复合词：private road 是私家路；private secretary 是私人秘书；private detective、private eye 是私家侦探；private enterprise 是私营企业；
-private view 是（画展开幕前的）内部预展。并入本条。
+复合词：private eye 是私家侦探。并入本条。
 ① The sign on the gate says "Private property: keep out".
 = 大门上的牌子写着「私人领地，不得入内」。
 private property = 私人财产
@@ -385,7 +383,7 @@ prize
 形容词，只作定语：获奖的、够得奖的：a prize bull；（口语）十足的、头号的：a prize idiot。
 动词：珍视、看重，多用被动：be prized for；分词 prized 作形容词：a prized possession。美式里 prize 也是「撬」，同英式的 prise。
 习语 (there are) no prizes for guessing 是不用猜也知道。
-派生与复合词：prizewinner 是获奖者，形容词 prizewinning；prize-giving 是（英式）（学校的）颁奖典礼；
+派生与复合词：prizewinner 是获奖者，形容词 prizewinning；
 prizefight 是（为奖金打的）职业拳击赛，尤指旧时不戴手套的，拳手叫 prizefighter，这一行叫 prizefighting。并入本条。
 ① She won first prize in the poetry competition at the age of twelve.
 = 她十二岁在诗歌比赛里拿了一等奖。
@@ -424,9 +422,7 @@ prizefighting = 职业拳击
 pro
 /prəʊ/
 核心：两个词。一是（口语）一个截短的说法：名词：职业选手、行家，可数，复数 pros；形容词：职业的。
-pro shop 是（高尔夫、网球俱乐部里的）器材专卖店。
 二是来自拉丁语的「赞成」：名词：the pros and cons 是利弊、正反两面的理由；介词、形容词：（口语）赞成、支持。
-拉丁短语：pro bono 是（律师）义务提供的、不收费的；pro forma 是形式上的、例行的，也指形式发票；pro rata 是按比例的；pro tem 是暂时的、临时的。并入本条。
 ① He turned pro at eighteen and won his first tournament a year later.
 = 他十八岁转为职业选手，一年后赢了头一个锦标赛。
 turn pro = 转为职业选手
@@ -509,7 +505,7 @@ probabilistic = 基于概率的
 
 probable
 /ˈprɒbəbl/
-核心：形容词：很可能的、大概的：比 possible 把握大，比 certain 小：It is probable that、the probable cause。
+核心：形容词：很可能的、大概的：比 possible 把握大，比 certain 小：It is probable that。
 名词：很有希望入选、获胜的人，可数。反义是 improbable。
 ① It is probable that the fire was started by a cigarette.
 = 那场火很可能是一个烟头引起的。

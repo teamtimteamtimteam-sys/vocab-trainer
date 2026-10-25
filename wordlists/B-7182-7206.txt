@@ -1,7 +1,6 @@
 electron
 /ɪˈlektrɒn/
 核心：电子：原子里带负电的基本粒子，绕核分布；电流就是它在动。可数。
-an electron microscope 是电子显微镜。
 ① An electron weighs about a two-thousandth of what a proton weighs.
 = 一个电子的质量大约是质子的两千分之一。
 an electron = 电子
@@ -187,7 +186,7 @@ elemental = 原始而强大的
 elementary
 /ˌelɪˈmentəri/
 核心：三支。一是初级的、基础的；二是简单的、显而易见的：an elementary mistake；
-三是（美式）小学的：elementary school。
+三是（美式）小学的。
 ① An elementary course covers the alphabet and stops at the first tense.
 = 初级课程教到字母表，讲到第一个时态就打住。
 an elementary course = 初级课程

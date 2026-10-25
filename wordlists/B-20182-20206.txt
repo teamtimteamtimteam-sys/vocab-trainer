@@ -11,7 +11,7 @@ receive scrip = 领取股票
 
 script
 /skrɪpt/
-核心：名词：（电影、戏剧、广播的）剧本、脚本（可数）；文字、字体（可数或不可数）：Arabic script；手写体（不可数）；（计算机）脚本（可数）。动词：为……写剧本；（比喻）事先安排好：a scripted answer。复合词 script kiddie 是（贬义）脚本小子：用别人写好的程序搞网络破坏的外行。
+核心：名词：（电影、戏剧、广播的）剧本、脚本（可数）；文字、字体（可数或不可数）：Arabic script；手写体（不可数）；（计算机）脚本（可数）。动词：为……写剧本；（比喻）事先安排好：a scripted answer。
 ① The actors sat round a big table and read through the script together before they started filming.
 = 开拍前，演员们围坐在一张大桌子旁，一起把剧本过了一遍。
 a script = 剧本
@@ -90,7 +90,7 @@ describe scrofula = 描述瘰疬
 
 scroll
 /skrəʊl/
-核心：名词，可数：卷轴、卷册：古时写字用的长卷；（建筑、家具上的）涡卷形装饰。动词：（在电脑、手机上）滚动、翻屏：scroll down / through something。复合词 scroll bar 是滚动条。
+核心：名词，可数：卷轴、卷册：古时写字用的长卷；（建筑、家具上的）涡卷形装饰。动词：（在电脑、手机上）滚动、翻屏：scroll down / through something。
 ① The museum has an ancient scroll that is more than two thousand years old.
 = 那座博物馆有一卷两千多年前的古代卷轴。
 a scroll = 卷轴
@@ -149,7 +149,6 @@ scroungers = 吃白食的
 scrub
 /skrʌb/
 核心：动词：（用刷子、粗布）用力擦洗、刷洗：scrub the floor；（口语）取消：scrub a plan。名词：擦洗（单数）：give something a scrub；灌木丛、矮树林（不可数）；磨砂膏（可数）。和 wipe 的分别：wipe 是用布轻轻抹，scrub 是使劲刷洗。
-短语动词：scrub off 是擦掉；scrub out 是把（锅、柜子）里面刷干净；scrub up 是（外科医生）手术前洗手。复合词：scrub nurse 是器械护士，scrub room 是（手术室旁的）洗手间。
 ① She scrubbed the kitchen floor on her hands and knees until it was clean.
 = 她跪在地上用力擦洗厨房地板，直到擦干净。
 scrub = 用力刷洗（要使劲）
@@ -249,7 +248,7 @@ scruffily dressed = 穿得邋里邋遢
 
 scrum
 /skrʌm/
-核心：名词，可数：（英式橄榄球）并列争球：双方前锋抱成一团争球；（口语）（人群的）推搡拥挤：a scrum of reporters。复合词 scrum half 是（橄榄球）传锋：把球送进并列争球、再传出的队员。
+核心：名词，可数：（英式橄榄球）并列争球：双方前锋抱成一团争球；（口语）（人群的）推搡拥挤：a scrum of reporters。
 ① The referee called a scrum after one of the players dropped the ball.
 = 一名球员掉球后，裁判判了一次并列争球。
 a scrum = 并列争球

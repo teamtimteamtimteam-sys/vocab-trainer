@@ -122,8 +122,6 @@ batch
 /bætʃ/
 核心：底层是"一炉烤出来的量"——面包一次进烤箱烤一批，
 于是引申成"一批、一组"，凡是同时处理、同时产出的都能这么说。
-计算机里的 batch processing 指攒够一批再一次性跑完，
-跟随到随处理的实时方式相对。
 ① She baked a batch of scones and the tray was empty within the hour.
 = 她烤了一炉司康，不到一小时盘子就空了。
 a batch of = 一批、一炉
@@ -269,7 +267,6 @@ baton
 核心：一根短棒，四种用处各不相干：乐队指挥手里那根；
 接力赛里传递的那根；警察的警棍；仪仗队抛接的那根。
 习语 pass the baton 从接力赛来，指"交棒、把责任传下去"。
-另有 baton round 是防暴用的塑胶弹。
 ① The conductor raised her baton and the hall went quiet at once.
 = 指挥举起指挥棒，全场立刻安静下来。
 ② He dropped the baton at the handover and threw away a certain medal.
@@ -318,9 +315,9 @@ brigade = 旅
 batten
 /ˈbætən/
 核心：一根窄木条，用来压住、固定或加固。名词是那根条；
-动词 batten down 指用木条把东西钉牢封住，
+动词指用木条把东西钉牢封住，
 习语 batten down the hatches 从航海来——暴风雨前把舱口封死，
-今天指"做好硬扛的准备"。另有一支 batten on 指"依附别人过活"，
+今天指"做好硬扛的准备"。另有一支动词用法指"依附别人过活"，
 带贬义。
 ① Nail a batten across the join and the whole panel stops flexing.
 = 在接缝上钉一根压条，整块板就不晃了。

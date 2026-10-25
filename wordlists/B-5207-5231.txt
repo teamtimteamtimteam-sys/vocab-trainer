@@ -327,9 +327,8 @@ convalescent = 康复中的
 convection
 /kənˈvekʃən/
 核心：对流：热靠流体本身的流动带走，热的往上冷的往下，
-跟传导 conduction 与辐射并列为三种传热方式。convection
-oven 是热风烤箱，英式取暖器 convector 靠的就是这个原理。
-不可数。
+跟传导 conduction 与辐射并列为三种传热方式。英式取暖器
+convector 靠的就是这个原理。不可数。
 ① Warm air rises by convection and takes the smell of dinner upstairs.
 = 暖空气靠对流上升，把饭菜味带上了楼。
 convection = 对流

@@ -2592,8 +2592,7 @@ black
 颜色本身 → 没有光的漆黑 → 咖啡不加奶也叫 black。一路是比喻上的黑，
 几乎全是负面的：脸色黑是发怒，前景黑是不妙，行径黑是邪恶，
 笑话黑是拿灾祸开玩笑。第三路指人，Black 指黑人，今天多写成大写，
-是中性的称谓。动词有一组 black out，三个意思并存：人昏过去、
-地方灯火全灭、把字涂掉。还有一支跟颜色反着来的会计用法：
+是中性的称谓。还有一支跟颜色反着来的会计用法：
 in the black 是有盈余，in the red 才是亏损——旧时账本拿红墨水记赤字，
 黑墨水记正常收支，两个说法都是从那儿来的。
 ① Her hair is black and so thick that no clip will hold it.
@@ -3717,8 +3716,8 @@ character = 特色、个性
 blank
 /blæŋk/
 核心：底层是"什么都没有"。纸上没字是空白的，表格上没填是空格，
-脑子里没反应是茫然（a blank look）。名词的空白处、动词的
-blank out（涂掉；也指脑子一片空白）都从这里来。另有一支专门用法：
+脑子里没反应是茫然（a blank look）。名词的空白处也从这里来。
+另有一支专门用法：
 blank 指空包弹，只有火药没有弹头，所以 fire blanks 是放空枪。
 习语 draw a blank 是一无所获，画面就是抽签抽到空白的那张。
 ① Leave that line blank and the system will fill it in for you.
@@ -4334,7 +4333,7 @@ bleary
 /ˈblɪəri/
 核心：形容眼睛因为困倦、哭过或喝多而发花看不清。它说的是眼睛的
 状态，不是视力本身有毛病——睡一觉就好了，这是它跟近视之类的
-根本分别。常写成 bleary-eyed。
+根本分别。
 ① His eyes were bleary from lack of sleep and two nights of driving.
 = 他睡眠不足又开了两夜车，眼睛发花。
 be bleary from = 因某事眼睛发花
@@ -4544,8 +4543,7 @@ blend
 /blend/
 核心：底层是"掺到一起分不出彼此"，这是它跟 mix 的分界：mix 掺完
 还看得出各是各，blend 掺完成了新的一样东西。名词指配出来的成品
-——茶叶、咖啡、威士忌的拼配都叫 blend。引申一支很常用：
-blend in 是融入周围、不显眼，说人也说颜色。
+——茶叶、咖啡、威士忌的拼配都叫 blend。
 ① Blend the butter and sugar until the colour changes completely.
 = 把黄油和糖打到颜色完全变了为止。
 ② The colours blend beautifully in daylight and clash under a lamp.
@@ -4822,8 +4820,8 @@ blind
 /blaɪnd/
 核心：底层是"看不见"，往三个方向长。一是生理上的失明，这是本义；
 二是判断上的看不见——盲目的信任、盲目的服从、看不到某件事
-（be blind to），这一支用得最多；三是位置上的看不见，
-车的盲区就是 blind spot。名词有两支：the blind 指盲人这个群体，
+（be blind to），这一支用得最多；三是位置上的看不见。
+名词有两支：the blind 指盲人这个群体，
 今天多改说 blind people；window blind 是遮光的百叶帘，跟眼睛
 无关，是"挡住光"那个意思。习语里 turn a blind eye 最有名，
 来历是纳尔逊把望远镜举到失明的那只眼上，装作没看见撤退令。
@@ -5180,8 +5178,7 @@ bliss
 /blɪs/
 核心：极致的幸福，比 happiness 更满更纯——那种什么都不缺、
 什么都不想的状态，所以宗教里拿它说天国的福乐。不可数。
-两个常用说法：ignorance is bliss 是"不知道反而快活"，
-bliss out 是舒服到忘了一切。
+常用说法 ignorance is bliss 是"不知道反而快活"。
 ① The first week was sheer bliss and the second brought the electricity bill.
 = 头一个星期真是幸福极了，第二个星期电费单就来了。
 sheer bliss = 十足的幸福
@@ -5235,8 +5232,7 @@ blister
 /ˈblɪstə(r)/
 核心：底层是"表皮下鼓起来的一个液泡"。长在皮肤上是水疱，
 多因摩擦或烫伤；漆面和贴膜下面鼓起来的泡也叫这个。名词动词同形。
-药片那种一颗一颗压在透明塑料泡里的包装叫 blister pack，
-名字也是从这个"泡"来的。可数。
+可数。
 ① New shoes gave her blisters before she had walked half the course.
 = 路走了不到一半，新鞋就把她脚磨出了水疱。
 give someone blisters = 把某人磨出水疱
@@ -5542,8 +5538,7 @@ block
 是冰块石块木块；房子按坨算是一栋楼，美国的街道按坨划是一个街区；
 抽象地按坨算是一批——a block of seats、a block of shares 都是
 成批地算。动词一路是"拿一坨堵住"：堵路、堵水管、挡住视线、
-否决提案，短语动词 block out、block off、block up 各管一头。
-还有一支很实用的比喻：脑子被堵住叫 mental block，
+否决提案。还有一支很实用的比喻：脑子被堵住叫 mental block，
 写不出东西叫 writer's block。
 ① He carved it from a block of stone that took four men to move.
 = 他用一整块石头刻成，那块石头四个人才抬得动。
@@ -6673,8 +6668,7 @@ blot
 核心：底层是纸上洇开的一团墨。从这里长出两支：一是名声上的污点，
 a blot on his record 是履历上的一块脏；二是煞风景的东西，
 a blot on the landscape 专指盖得难看、把一片风景毁了的建筑。
-动词有两个方向：blot 是拿吸墨纸把墨吸干，blot out 却是遮住、
-抹掉——挡住太阳、抹去记忆都用它。可数。
+动词 blot 是拿吸墨纸把墨吸干。可数。
 ① There was an ink blot on the page where his elbow had knocked the pen.
 = 那页上有一团墨渍，是他胳膊肘碰倒笔弄的。
 本义。
@@ -6813,8 +6807,7 @@ blow
 吹灭蜡烛、吹奏乐器、擤鼻涕，都是同一个动作换个对象。气流冲破
 东西就成了"爆掉"：保险丝烧断、轮胎爆掉都说 blow。再抽象一层是
 "一下子没了"：搞砸机会、把钱挥霍光。名词是另一条线，指打下去的
-那一下，引申成打击和挫折。短语动词成族：blow up 是炸毁也是充气
-还是发火，blow over 是风波平息，blow out 是吹灭也是爆胎。
+那一下，引申成打击和挫折。
 三态不规则：blow / blew / blown。
 ① The wind blew all night and took two slates off the roof.
 = 风刮了一整夜，把屋顶掀掉了两片瓦。
@@ -7606,8 +7599,8 @@ bluish grey = 蓝灰色
 blunder
 /ˈblʌndə(r)/
 核心：两支。一是名词的"重大失误"——不是小错，是本可以避免、
-后果不小的那种；二是动词的"跌跌撞撞地走"，摸黑乱撞，
-blunder into 是稀里糊涂闯进某个境地。两支的共通处在"没看清就动"。
+后果不小的那种；二是动词的"跌跌撞撞地走"，摸黑乱撞。
+两支的共通处在"没看清就动"。
 ① The report was a serious blunder that cost the department its entire research budget.
 = 那份报告是个严重失误，害得那个部门整笔科研经费都没了。
 a serious blunder = 严重的错误
@@ -7654,8 +7647,7 @@ blunt
 核心：底层是"不锋利"，两支引申都从这里来。刀钝、铅笔秃是本义；
 说人说话是"直得不留情面"——话不磨圆，直接顶过去，所以
 a blunt refusal 是一口回绝。动词是"使变钝、削弱"，
-blunt the impact 是把冲击力磨掉一些。还有一个固定说法
-a blunt instrument：字面是钝器，比喻是"粗糙的手段"。
+blunt the impact 是把冲击力磨掉一些。
 ① The knife is blunt and the only sharpener in the house is broken.
 = 刀钝了，家里唯一的磨刀器又坏了。
 本义。
@@ -7903,8 +7895,8 @@ tr = trillion 万亿
 
 boa
 /ˈbəʊə/
-核心：两支，来路一样。一是蟒蛇类的无毒大蛇，靠缠绕把猎物勒到窒息，
-boa constrictor 是最有名的一种；二是女式的长毛围脖，羽毛或毛皮做的
+核心：两支，来路一样。一是蟒蛇类的无毒大蛇，靠缠绕把猎物勒到窒息；
+二是女式的长毛围脖，羽毛或毛皮做的
 细长一条搭在肩上，因为形状像蛇缠着脖子而得名。可数。
 ① A boa can crush its prey without breaking a single bone.
 = 蟒蛇勒死猎物，能一根骨头都不弄断。
@@ -8037,7 +8029,7 @@ lodger = 只租房不搭伙的房客
 boarding
 /ˈbɔːdɪŋ/
 核心：三支，都从 board 长出来。一是登船登机这件事，机场广播里
-boarding 就是开始登机；二是寄宿，boarding school 是寄宿学校；
+boarding 就是开始登机；二是寄宿；
 三是钉板子封起来，boarding up 是拿木板把门窗封死。不可数。
 ① Boarding begins at gate twelve, which is at the far end of the terminal.
 = 十二号登机口开始登机，那个口在航站楼最远那头。
@@ -8362,7 +8354,7 @@ shipyard = 造远洋大船的船厂
 bob
 /bɒb/
 核心：底层是"短促地一上一下"。水上的东西随浪起伏是 bob，
-点头也是 bob，突然冒出来是 bob up。从"短"引申出发型的一支：
+点头也是 bob。从"短"引申出发型的一支：
 齐下巴剪平的短发叫 a bob。另有一支英式旧俚语：bob 指先令，
 十进制改革前的旧币，单复数同形，说 five bob 不加 s。
 ① The cork bobbed on the water for a moment and then went under with a jerk.
@@ -8439,8 +8431,8 @@ wind onto = 绕到……上
 
 bobble
 /ˈbɒbəl/
-核心：两支，分英美。英式指毛线球——帽子顶上那个圆绒球，
-带球的帽子叫 bobble hat。美式指球类比赛里没接稳、球在手上弹了
+核心：两支，分英美。英式指毛线球——帽子顶上那个圆绒球。
+美式指球类比赛里没接稳、球在手上弹了
 一下的那种失误，名词动词都用。可数。
 ① He wore a red bobble hat pulled right down over his ears.
 = 他戴着一顶带绒球的红毛线帽，一直拉到盖住耳朵。
@@ -8641,7 +8633,6 @@ bodice
 /ˈbɒdɪs/
 核心：两支。一是连衣裙腰线以上的那部分——上身的衣片，
 跟裙摆相对；二是紧身胸衣，从前女装外面束在腰上的那件。
-有个派生的调侃词 bodice-ripper，指情节香艳的历史言情小说。
 可数。
 ① The dress has a fitted bodice and a skirt that takes six metres of cloth.
 = 那条裙子上身收腰，裙摆用了六米布。
@@ -9054,8 +9045,7 @@ a boffo opening = 开画大卖
 bog
 /bɒɡ/
 核心：底层是长期积水的烂泥地——泥炭沼，脚踩下去会陷。
-从"陷住"引申出最常用的动词搭配 bog down：车陷进泥里是字面，
-谈判陷入僵局、项目卡住不动是比喻。英式口语另有一支：bog 指厕所，
+英式口语另有一支：bog 指厕所，
 语气粗俗。
 ① Peat is still cut from the bog by hand and stacked to dry all summer.
 = 泥炭至今还是从沼泽里手工挖出来，摞着晒一整个夏天。
@@ -9261,8 +9251,7 @@ boil
 /bɔɪl/
 核心：底层是"水到一百度翻滚"。从这里长出各支：动词的煮、名词的
 沸点（bring to the boil）、形容词的滚烫。引申一路管情绪和局面：
-boil over 是锅溢出来，也是火气爆发；boiling with rage 是气得冒烟。
-还有一支很实用：boil down to 是"熬到最后剩下什么"，即"归根结底是"。
+boiling with rage 是气得冒烟。
 另有一支跟水完全无关：boil 指皮肤上的疖子，一个红肿化脓的包。
 ① The water is boiling and has been for about ten minutes now.
 = 水开了，而且已经开了大概十分钟。
@@ -9542,7 +9531,7 @@ Bolivian lithium = 玻利维亚的锂
 boll
 /bəʊl/
 核心：棉花的果实，一个圆鼓鼓的荚，成熟时裂开露出里面的白棉絮。
-专钻这个荚的那种虫子因它得名，叫 boll weevil。可数。
+可数。
 ① The bolls burst open in autumn and the field turns white overnight.
 = 棉铃秋天裂开，一夜之间整片地就白了。
 burst open = 裂开
@@ -9961,8 +9950,7 @@ be bombed out = 房子被炸毁而无家可归
 bomber
 /ˈbɒmə(r)/
 核心：两支。一是轰炸机，专门用来投弹的飞机；二是放炸弹的人，
-新闻里指恐怖袭击的实施者。另有一个常见搭配 bomber jacket：
-腰口和袖口收紧的短夹克，样式来自二战飞行员的皮夹克。可数。
+新闻里指恐怖袭击的实施者。可数。
 ① The bomber turned for home with its load still aboard.
 = 那架轰炸机炸弹没投就掉头返航了。
 ② Police identified the bomber from a bus ticket in his coat.
@@ -10247,7 +10235,6 @@ bond = 纽带；粘合；债券
 bone
 /bəʊn/
 核心：底层是骨头，习语极多且几乎都从骨头这个画面来。
-干到骨头里是 bone dry（干透）；懒到骨头里是 bone idle（懒透）；
 两条狗抢一根骨头就是 a bone of contention（争执的焦点）；
 直觉从骨头里冒出来是 feel it in your bones；话说到贴着骨头
 是 close to the bone（太露骨、戳到痛处）。动词是剔骨。
@@ -10645,10 +10632,9 @@ boo-yah = 得意的欢呼（美式口语）
 
 boob
 /buːb/
-核心：三支，语域各不相同。英式口语里指出了个愚蠢的差错，
+核心：两支，语域各不相同。英式口语里指出了个愚蠢的差错，
 名词动词都用，语气偏旧偏轻。另一支是口语里指乳房，多用复数，
-随便但不算很粗，正式场合仍不用。还有个搭配 boob tube：
-美式指电视机，英式却指抹胸上衣，两地指的完全是两样东西。
+随便但不算很粗，正式场合仍不用。
 ① He made an embarrassing boob and read out the wrong name.
 = 他出了个尴尬的差错，把名字念错了。
 make a boob = 出个差错（英式，偏旧）
@@ -10662,10 +10648,8 @@ boob tube = 电视机（美式）；抹胸上衣（英式）
 
 booby
 /ˈbuːbi/
-核心：三支。一是笨蛋，偏旧的骂法，今天主要活在 booby prize
-里——发给最后一名的"安慰奖"，本身就是句玩笑。二是诡雷：
-booby trap 指伪装成寻常东西、一碰就炸的陷阱，也引申指坑人的圈套。
-三是鲣鸟，一种海鸟，蓝脚鲣鸟最有名；水手觉得它不怕人、容易抓，
+核心：两支。一是笨蛋，偏旧的骂法。
+二是鲣鸟，一种海鸟，蓝脚鲣鸟最有名；水手觉得它不怕人、容易抓，
 就拿"笨"给它起了名。
 ① He won the booby prize and held it up like a real trophy.
 = 他拿了个末位安慰奖，还举起来当真奖杯。
@@ -11147,8 +11131,7 @@ boomerang kid = 独立后又搬回父母家住的成年子女
 boon
 /buːn/
 核心：指帮了大忙的好东西——不是随手的小恩惠，是让人日子好过
-不少的那种。固定说法是 a boon to 或 a boon for someone。
-另有一个偏旧的搭配 boon companion，指亲密的酒肉朋友。可数。
+不少的那种。固定说法是 a boon to 或 a boon for someone。可数。
 ① The new bridge is a boon to the village and halved the school run.
 = 那座新桥给村子帮了大忙，送孩子上学的路程短了一半。
 a boon to = 对某方是大好事
@@ -11712,7 +11695,7 @@ border
 核心：底层是"两块地方之间的那条线"。国与国之间的是国界，
 这是最常用的一支；一块布、一张纸边上镶的一圈是边饰；
 花园里沿着墙或草坪的那条长形花坛也叫 border。动词是接壤：
-France borders Spain。有一个高频引申搭配 border on，
+France borders Spain。有一个高频引申：后接 on，
 指"接近到几乎是"——border on the absurd 是"简直荒唐"。
 ① They crossed the border at night in the back of a fruit lorry.
 = 他们夜里藏在一辆运水果的卡车后厢越了境。
@@ -12110,9 +12093,8 @@ Bosnian coffee = 波斯尼亚咖啡
 
 bosom
 /ˈbʊzəm/
-核心：三支。一是女性的胸部，偏文雅委婉的说法；二是胸怀、
-内心深处，in the bosom of the family 是"在家人的怀抱里"；
-三是那个高频搭配 bosom friend，指交心的挚友。
+核心：两支。一是女性的胸部，偏文雅委婉的说法；二是胸怀、
+内心深处，in the bosom of the family 是"在家人的怀抱里"。
 这个词整体偏文学，日常说胸部多用别的词。
 ① She clasped the child to her bosom and would not put him down.
 = 她把孩子搂在怀里，怎么也不肯放下。
@@ -12473,11 +12455,10 @@ the Botswanan government = 博茨瓦纳政府
 
 bottle
 /ˈbɒtəl/
-核心：本义是瓶子，动词是装瓶。引申两支很常用。
-一是英式口语的"胆量"：lose your bottle 是临阵怂了，
+核心：本义是瓶子，动词是装瓶。另有一支很常用的引申：
+英式口语的"胆量"：lose your bottle 是临阵怂了，
 bottle it 是关键时刻掉链子——这一支跟瓶子没关系，
-是伦敦俚语留下的。二是 bottle up：把情绪像塞进瓶子一样
-憋着不说。习语 hit the bottle 是借酒消愁、开始酗酒。
+是伦敦俚语留下的。习语 hit the bottle 是借酒消愁、开始酗酒。
 ① She opened a bottle of wine and put the cork back in at ten.
 = 她开了瓶酒，十点就把软木塞塞了回去。
 a bottle of = 一瓶
@@ -12561,8 +12542,7 @@ bottom
 核心：底层是"最下面那一层"，各支都从这里长。物体的底部、
 山脚、海底、页面的下端都是它；名次上的最末位也是
 （bottom of the class）。人身上那个部位叫 bottom，
-是相对文雅的说法。动词 bottom out 是跌到底后不再往下——
-说股价说行情。习语 get to the bottom of 是查清真相，
+是相对文雅的说法。习语 get to the bottom of 是查清真相，
 画面是一直挖到底。
 ① The coin sank to the bottom and lay there in plain sight for years.
 = 那枚硬币沉到底，多年就那么明晃晃地躺着。
@@ -12754,8 +12734,7 @@ bouillabaisse
 bouillon
 /ˈbuːjɒn/
 核心：清汤，肉或蔬菜久熬后滤出的那道清汤，比高汤 stock 更清、
-调过味可以直接喝。超市里的 bouillon cube 就是浓缩的汤块。
-不可数。
+调过味可以直接喝。不可数。
 ① Dissolve a bouillon cube in water and taste it before adding salt.
 = 把一块浓汤宝化在水里，先尝一口再放盐。
 bouillon cube = 浓缩汤块
@@ -12830,7 +12809,7 @@ bounce
 核心：底层是"撞上去又弹回来"。球弹地是本义；支票因为账上没钱
 被退回来也叫 bounce，邮件退信同理——都是"送出去又弹回来"。
 人身上的引申是活力：full of bounce 是精神头十足。
-bounce back 是从挫折里恢复过来；bounce ideas off someone
+bounce ideas off someone
 是把想法说给人听、看反弹回什么，即"碰想法"。
 ① The ball bounced twice on the line and the umpire gave it out.
 = 球在线上弹了两下，裁判判出界。
@@ -13279,8 +13258,8 @@ bovver
 /ˈbɒvə(r)/
 核心：英式旧俚语，指街头的找茬打架。它其实就是 bother 的
 伦敦口音写法——那个音把 th 读成 v，写下来就成了 bovver。
-七十年代跟球场闹事的青年连在一起，bovver boy 指那种人，
-bovver boots 是他们穿的大头靴。今天偏旧。不可数。
+七十年代跟球场闹事的青年连在一起，bovver boy 指那种人。
+今天偏旧。不可数。
 ① He was looking for bovver and picked the one pub with a doorman.
 = 他是来找茬的，偏偏挑了那家有看门保安的酒馆。
 look for bovver = 找茬打架
@@ -13301,8 +13280,7 @@ bow
 的一对。读作跟 now 押韵时，意思是弯腰鞠躬，名词是那个躬，
 take a bow 是谢幕；另外还指船头，the bow of the ship。
 读作跟 go 押韵时，意思全跟"弯曲的形状"有关：射箭的弓、
-拉琴的弓、系成两个圈的蝴蝶结，bow tie 是领结。
-习语 bow out 是退出、不干了。
+拉琴的弓、系成两个圈的蝴蝶结。
 ① He bowed to the audience and stayed down rather longer than was comfortable.
 = 他向观众鞠躬，躬得比让人自在的时间要久。
 读音跟 now 押韵。
@@ -13360,8 +13338,7 @@ be bowdlerized = 被删改净化
 
 bowel
 /ˈbaʊəl/
-核心：肠，尤指大肠。医学语境里多用复数 bowels，
-bowel movement 是排便这件事的正式说法。另有一支偏文学：
+核心：肠，尤指大肠。医学语境里多用复数 bowels。另有一支偏文学：
 the bowels of 指某物最深处，the bowels of the earth 是地心深处，
 画面是"最里头那一层"。可数。
 ① The doctor examined his bowels with a camera and found nothing at all.
@@ -13706,7 +13683,7 @@ boxer
 /ˈbɒksə(r)/
 核心：三支。一是拳击手。二是拳师犬：中等体型、短毛、方脸、
 性子活泼——名字据说来自它玩闹时爱用前爪拍打的样子。
-三是 boxer shorts 的简称，男式平角内裤，只用复数。可数。
+三是男式平角内裤，只用复数。可数。
 ① The boxer won on points after twelve rounds that nobody enjoyed watching.
 = 打完十二个回合，那名拳手靠点数取胜，那场比赛没人看得下去。
 win on points = 靠点数获胜
@@ -14388,7 +14365,7 @@ brain
 复数 brains 指聪明才智，也指出主意的那个人——
 the brains behind the plan 是那个计划的策划者。动词是打头部。
 习语密集：rack your brains 是绞尽脑汁，pick someone's brains
-是找人取经，brain drain 是人才外流，have something on the brain
+是找人取经，have something on the brain
 是满脑子都是那件事。
 ① The brain controls movement and uses a fifth of everything you eat.
 = 大脑控制运动，消耗你所吃食物的五分之一。
@@ -14808,8 +14785,7 @@ branch
 核心：底层是树上分出来的枝，其余各支都是这个"从主干上分出去"
 的画面。机构从总部分出去的是分支机构，银行分行、公司分部都是
 branch；学问从主干分出去的是学科分支；铁路和河流分出去的
-支线支流同理。动词是分岔，branch out 是拓展到新领域——
-画面就是树往外长出一枝。可数。
+支线支流同理。动词是分岔。可数。
 ① A branch broke off in the storm and took the phone line with it.
 = 一根树枝在暴风里折断，把电话线也带断了。
 本义。
@@ -14840,8 +14816,7 @@ brand
 归谁所有。从这个"标记归属"长出今天最常用的一支：品牌，
 一个牌子就是印在商品上的身份标记。动词一路：给牲畜打烙印是
 本义；给人贴标签是引申，brand someone a liar 是把"骗子"两个字
-烙到人身上，带强烈的贬义。brand new 是"全新的"，
-本义是"刚从火里烙出来"，热乎着。
+烙到人身上，带强烈的贬义。
 ① The company launched a new brand aimed squarely at shoppers under thirty.
 = 那家公司推出了一个新品牌，瞄准的就是三十岁以下的顾客。
 a brand = 品牌
@@ -15443,8 +15418,7 @@ breech = 枪炮的后膛（同音不同词）
 bread
 /bred/
 核心：底层是面包，引申都围着"活命的口粮"转。daily bread 是
-每天的口粮，引申指生计；bread and butter 是主要收入来源——
-黄油面包是最基本的一餐，所以拿它比喻饭碗。旧俚语里 bread
+每天的口粮，引申指生计。旧俚语里 bread
 直接指钱。习语 know which side your bread is buttered 是
 "知道好处在哪边"，the best thing since sliced bread 是
 "顶好的东西"，切片面包当年是了不得的新发明。不可数。
@@ -15650,9 +15624,7 @@ break
 核心：底层是"把整的弄成不整的"，几乎所有义项都是这个动作换个
 对象。弄坏东西、骨头断了是本义；把规矩打破是违反；
 把连续的时间打断就是休息；把纪录打破是超过；消息"破"出来是
-传开；夜色破开是天亮；男孩嗓子破了是变声。短语动词成族，
-都能从"打破"推出来：break down 是垮掉，break up 是散开，
-break in 是破门而入，break out 是冲出来，break through 是穿透。
+传开；夜色破开是天亮；男孩嗓子破了是变声。
 三态不规则：break / broke / broken。
 ① They broke the law knowingly and expected nobody to check.
 = 他们明知故犯，料定不会有人来查。
@@ -16224,8 +16196,7 @@ over the limit = 超过法定限值
 breathe
 /briːð/
 核心：动词，呼吸。跟名词 breath 只差一个字母，读音差得远——
-这里的元音长、结尾是浊音。基本用法是 breathe in 吸气、
-breathe out 呼气。习语好几个都很常用：
+这里的元音长、结尾是浊音。习语好几个都很常用：
 breathe down someone's neck 是紧盯着人不放，
 breathe a sigh of relief 是松一口气，
 not breathe a word 是一个字都不许说出去。
@@ -16269,9 +16240,7 @@ break = 休息（可长可短，通用）
 breathing
 /ˈbriːðɪŋ/
 核心：呼吸这件事，不可数。医学上说 breathing difficulties
-是呼吸困难。另有一个高频引申搭配 breathing space：
-喘息的余地——不是真的喘气，是指时间上或财务上让人缓一缓的
-空间，谈判和债务的语境里常用。
+是呼吸困难。
 ① His breathing became shallow and the nurse counted it from the door.
 = 他呼吸变浅，护士在门口数着他的呼吸。
 shallow = 浅的
@@ -16339,8 +16308,8 @@ breech
 /briːtʃ/
 核心：两支。一是枪炮的后膛：装弹药的那一头，跟枪口那头
 相对；breech-loading 是后膛装填，比从枪口塞进去的前膛枪
-快得多，是十九世纪的重要改进。二是产科术语：
-breech birth 是臀位分娩，胎儿脚或臀先出来而不是头先出来。
+快得多，是十九世纪的重要改进。二是产科术语，指胎位：
+胎儿脚或臀先出来而不是头先出来。
 注意它跟 breach（违反、缺口）同音，跟 breeches（马裤）
 也只差一个字母。可数。
 ① The rifle is breech-loading and reloads in a quarter of the time.
@@ -16450,7 +16419,7 @@ breeze
 核心：底层是微风——不冷不烈、吹着舒服的那种风。从"轻"引申出
 口语里最常用的一支：轻而易举的事，说 it was a breeze 是
 "那事一点不难"。动词也从"轻"来：breeze in 是不当回事地
-晃进来，breeze through 是轻轻松松过关。可数。
+晃进来。可数。
 ① A cool breeze came off the sea and cleared the smell of tar.
 = 一阵凉风从海上吹来，把柏油味吹散了。
 a cool breeze = 凉爽的微风
@@ -17182,7 +17151,6 @@ the ... brigade = 那一帮人（口语，带调侃）
 brigadier
 /ˌbrɪɡəˈdɪə(r)/
 核心：英式军衔，准将，在上校之上、少将之下，通常指挥一个旅。
-美军对应的军衔叫 brigadier general，两者不能混着说。
 可数。
 ① He was promoted to brigadier at forty-three and retired at forty-five.
 = 他四十三岁晋升准将，四十五岁就退了。
@@ -17479,9 +17447,7 @@ bring
 地方——这正是它跟 take 的分界：bring 是往这边带，
 take 是往那边拿走，中文两个都说"带"，所以最容易搞反。
 从"带来"引申出"引起"：bring happiness 是带来快乐。
-短语动词成族：bring up 是抚养也是提起话题，bring about 是
-促成，bring in 是引进也是带来收入，bring off 是漂亮地办成，
-bring round 是说服也是使苏醒。三态：bring / brought / brought。
+三态：bring / brought / brought。
 ① Bring your notes to the meeting; nobody else will have a copy.
 = 把你的笔记带到会上，别人不会有副本。
 本义：往说话人这边带。
@@ -17722,7 +17688,7 @@ bristle
 核心：底层是又短又硬的毛——猪鬃、刷子毛、下巴上没刮干净的
 胡茬都是。动词一路从"毛竖起来"来：猫狗受惊炸毛是本义，
 人被惹恼了浑身一紧也叫 bristle，后面跟 at。
-还有一支很常用：bristle with 是"布满"，
+还有一支很常用：后接 with 是"布满"，
 画面是密密麻麻立着一片，bristling with cameras 是到处架着相机。
 ① The brush has stiff bristles that take the paint off with the dirt.
 = 那把刷子毛很硬，刷掉脏东西时连漆一起刷掉了。
@@ -18522,8 +18488,8 @@ broken = 坏了的（说东西）
 broken
 /ˈbrəʊkən/
 核心：break 的过去分词，也独立作形容词，各支都从"断了、
-坏了"来。东西坏了、骨头断了是本义；家庭散了是 a broken home；
-承诺没兑现是 a broken promise；心碎是 a broken heart。
+坏了"来。东西坏了、骨头断了是本义；
+承诺没兑现是 a broken promise。
 还有一支很常用：说外语说得磕磕巴巴叫 broken English——
 话是断的、接不上，这个比喻很形象。
 ① The window is broken and has been boarded up since the spring.
@@ -19148,8 +19114,8 @@ persuade = 说服（讲道理）
 
 brown
 /braʊn/
-核心：底层是棕色。说皮肤是晒黑的；说食物是 brown bread、
-brown rice——保留了麸皮和外层，所以颜色深、纤维多。
+核心：底层是棕色。说皮肤是晒黑的；说食物是 brown bread——
+保留了麸皮和外层，所以颜色深、纤维多。
 动词是煎至上色：brown the meat 是把肉煎出焦褐的表面，
 那一步是为了出香。英式口语有个偏旧的说法 browned off，
 意思是烦透了。习语 in a brown study 是出神发呆，也偏旧。
@@ -19569,9 +19535,7 @@ brush
 核心：底层是"一束毛装在柄上"，各支都从它长出来。刷子画笔是
 本义，动词是刷。从"轻轻擦过"引申出两路：身体上的
 brush against 是蹭了一下；抽象的 a brush with 是短暂的遭遇，
-a brush with the law 是跟法律打过一次交道。短语动词成族：
-brush off 是不当回事地打发掉，brush aside 是把意见推开，
-brush up on 是把生疏的东西再温习。美式还有一支：
+a brush with the law 是跟法律打过一次交道。美式还有一支：
 灌木丛也叫 brush。
 ① She cleaned it with a stiff brush and took the paint off as well.
 = 她用硬毛刷刷洗，连漆也刷掉了。
@@ -20108,8 +20072,7 @@ bucket
 /ˈbʌkɪt/
 核心：提桶，也指一桶的量。它有几个常用习语：
 kick the bucket 是口语里说"蹬腿了"，即死掉，语气轻慢；
-a bucket list 是遗愿清单——死之前想做的事，
-名字正是从 kick the bucket 来的；英式说下大雨
+英式说下大雨
 it's raining buckets 或直接说 it's bucketing down。可数。
 ① She filled a bucket with water and carried it out to the horses in the yard.
 = 她打了一桶水，提到院子里给马喝。
@@ -20151,7 +20114,6 @@ buckle
 动词是扣上。另有一支意思完全不同：受力过大而弯曲变形，
 说金属、说桥梁、说腿脚发软都用它，the bridge buckled 是桥
 压弯了。从这一支再引申出 buckle under：顶不住压力垮下来。
-还有 buckle down：静下心来埋头干。
 ① The belt has a silver buckle that his grandfather brought back from Spain.
 = 那条皮带的银扣是他祖父从西班牙带回来的。
 ② She buckled the strap of her satchel and swung it onto her shoulder.
@@ -20523,8 +20485,8 @@ escape = 逃走
 buff
 /bʌf/
 核心：底层是浅黄褐色的软牛皮，从这里分出好几支。
-颜色义是米黄色；擦拭义来自拿那种皮子抛光，
-buff up 是擦亮。习语 in the buff 是光着身子——
+颜色义是米黄色；擦拭义来自拿那种皮子抛光。
+习语 in the buff 是光着身子——
 本指光皮子那个颜色，跟皮肤色近。另有两支很常用：
 a film buff 是电影迷，某方面的爱好者；
 口语里 buff 还形容人肌肉结实。
@@ -20758,8 +20720,7 @@ bugger
 核心：英式粗俗口语，用法很杂但都带那股糙劲。名词指"家伙"，
 语气随修饰语走：poor bugger 是同情，lucky bugger 是羡慕，
 单说才是骂。也指麻烦事：it's a bugger 是"这事真够呛"。
-动词一路：bugger up 是搞砸，bugger off 是滚开，
-bugger about 是瞎折腾。法律上另有一支正式义指鸡奸。
+法律上另有一支正式义指鸡奸。
 语气粗俗，正式场合一律不用。
 ① The poor bugger missed the train by seconds and had to wait two hours.
 = 那可怜的家伙差几秒没赶上车，只能等两个钟头。
@@ -20886,8 +20847,6 @@ build
 核心：底层是"一点一点搭起来"。盖房子是本义；抽象一路是
 逐步建立——建立名声、建立信任、积累经验都用它。
 名词那一支容易漏：指人的体格，a slim build 是身材瘦削。
-短语动词成族：build up 是积累增强，build on 是在已有基础上
-再往上加，build in 是把某样东西做进去、内置。
 三态不规则：build / built / built。
 ① They built a new bridge and closed the old one on the same day.
 = 他们建了座新桥，同一天把旧桥封了。
@@ -20957,8 +20916,8 @@ a builder of = 某事的建立者
 building
 /ˈbɪldɪŋ/
 核心：两支。一是建筑物，一栋有墙有顶的房子，这是最常用的。
-二是建造这件事本身，不可数——building work 是施工，
-building site 是工地。它跟 house 的分界：house 特指住人的，
+二是建造这件事本身，不可数——building work 是施工。
+它跟 house 的分界：house 特指住人的，
 building 什么用途都可以。
 ① The building has ten floors and a lift that serves only eight of them.
 = 那栋楼有十层，电梯只到得了其中八层。
@@ -21140,8 +21099,7 @@ bulk
 核心：底层是"很大的体量"。说物体是笨重的块头，his bulk
 filled the doorway 是他那身子把门堵满了。最常用的两支是搭配：
 the bulk of 是"大部分"，in bulk 是"大批量地"——
-buy in bulk 是整批买，便宜。动词是使显得庞大，
-bulk up 是练壮或把分量堆大。不可数。
+buy in bulk 是整批买，便宜。动词是使显得庞大。不可数。
 ① He lowered his bulk into the chair and the chair said something.
 = 他把庞大的身躯放进椅子，椅子响了一声。
 ② The bulk of the money is gone and nobody can say where.
@@ -21199,7 +21157,7 @@ bull
 /bʊl/
 核心：底层是公牛，也指象、鲸、海豹这些大兽的雄性——
 bull elephant 是公象。从公牛"猛冲上涨"的画面引申出金融义：
-bull market 是牛市，看涨的人叫 a bull。另有一支纯口语：
+看涨的人叫 a bull。另有一支纯口语：
 bull 是 bullshit 的委婉缩略，指胡说。习语几个都很常用：
 take the bull by the horns 是迎难而上，
 a bull in a china shop 是莽撞闯祸的人，
@@ -21297,8 +21255,7 @@ bulldoze = 推平；强行推进
 bullet
 /ˈbʊlɪt/
 核心：两支。一是枪弹的弹头，从枪口飞出去的那一颗。
-二是排版里的项目符号：列表每一条前面那个圆点，
-所以 bullet point 是"要点条目"，presentations 里最常见。
+二是排版里的项目符号：列表每一条前面那个圆点，presentations 里最常见。
 两个高频习语：bite the bullet 是硬着头皮扛下来，
 dodge a bullet 是险险躲过一劫。可数。
 ① The bullet missed him by inches and lodged in the door frame.
@@ -21771,8 +21728,8 @@ bum
 /bʌm/
 核心：英美两地差得远。英式口语里 bum 是屁股，语气随便但不算
 很粗。美式里它主要指两支：流浪汉，和游手好闲不肯干活的人，
-都带贬义。动词是白要、蹭：bum a cigarette 是跟人蹭根烟；
-bum around 是四处晃荡不干正事。形容词一支是"差劲的"，
+都带贬义。动词是白要、蹭：bum a cigarette 是跟人蹭根烟。
+形容词一支是"差劲的"，
 a bum deal 是吃亏的买卖。可数。
 ① He fell on his bum on the ice and everybody in the queue laughed.
 = 他在冰上一屁股摔坐下去，排队的人都笑了。
@@ -21926,8 +21883,7 @@ a real bummer = 真够扫兴的
 bump
 /bʌmp/
 核心：底层是"撞一下"。动词是碰撞，名词是那一下、也指撞出来的
-肿包和路面的凸起。引申几支都很常用：bump into 是偶然碰见某人，
-bump up 是把数字往上提，bump off 是俚语里的"做掉"。
+肿包和路面的凸起。
 皮肤起的鸡皮疙瘩叫 goosebumps。口语里孕肚也叫 a baby bump。
 可数。
 ① The car bumped over the kerb and something underneath started to rattle.
@@ -22101,7 +22057,7 @@ bundle
 柴火都行。口语里指一大笔钱：cost a bundle 是花了老鼻子钱。
 动词有两支：捆扎，和"把人急急忙忙塞进某处"，
 bundle someone into a car 是把人往车里一塞。
-bundle up 是裹上厚衣服。习语 a bundle of nerves 是紧张得不行
+习语 a bundle of nerves 是紧张得不行
 的人。可数。
 ① He carried a bundle of newspapers that came apart on the stairs.
 = 他抱着一捆报纸，在楼梯上散了。
@@ -22185,8 +22141,7 @@ stairs = 楼梯
 
 bungee
 /ˈbʌndʒi/
-核心：一根粗弹力绳。它今天几乎只活在一个搭配里：
-bungee jumping——人绑着这根绳从高处跳下去，绳绷到极限
+核心：一根粗弹力绳，供人绑着从高处跳下，绳绷到极限
 再把人弹回来。也指行李用的那种两头带钩的弹力绳。
 可数。
 ① They went bungee jumping off a bridge over a dry riverbed.
@@ -22981,7 +22936,7 @@ burn
 /bɜːn/
 核心：底层是"烧"。烧东西、着火、烧伤、晒伤都是它。
 引申几支很常用：消耗掉是 burn calories、burn fuel；
-刻录光盘是 burn a CD；耗尽精力是 burn out。
+刻录光盘是 burn a CD。
 三态有英美差异：英式多用 burnt，美式多用 burned，
 两种都对，但作形容词修饰名词时英美都倾向 burnt toast。
 可数不可数都行。
@@ -24203,7 +24158,7 @@ butt
 核心：四支来路不同。美式口语里 butt 是屁股，英式说 bum。
 烟抽剩下的那一截叫 cigarette butt。枪托那一头也叫 butt。
 最值得记的一支是"笑柄"：the butt of the joke 是被拿来
-开涮的那个人。动词是用头顶撞，butt in 是插嘴打断。可数。
+开涮的那个人。动词是用头顶撞。可数。
 ① He sat on his butt all day and complained about his back.
 = 他整天坐着不动，还抱怨腰疼。
 butt = 屁股（美式口语）
@@ -24542,9 +24497,7 @@ buy
 核心：底层是"花钱换东西"。除了本义，几支引申都很常用。
 口语里 buy 是"相信"：I don't buy it 是"我不信那套"。
 名词指买到的东西，a good buy 是划算的一笔。
-短语动词成族：buy into 是认同某种说法、也指买进股份；
-buy time 是拖一拖争取时间；buy off 是花钱把人摆平；
-buy out 是把别人的股份全买下来。
+还有 buy time 是拖一拖争取时间。
 三态：buy / bought / bought。
 ① That coat was a good buy and has been worn every winter since.
 = 那件大衣买得值，此后每个冬天都穿。
@@ -25212,7 +25165,7 @@ cabin
 /ˈkæbɪn/
 核心：三支，共同点是围起来的一小间。一是小木屋：山里
 林中那种简易住所，log cabin 是原木小屋。二是船上的舱房、
-飞机上的客舱，cabin crew 是客舱乘务组，cabin baggage 是
+飞机上的客舱，cabin baggage 是
 随身行李。三是驾驶舱的旧称，今天多说 cockpit。可数。
 ① They spent the summer in a log cabin with no running water and one stove.
 = 他们在一间没有自来水、只有一个炉子的原木小屋里过了一夏。
@@ -25746,7 +25699,7 @@ a proper Caesar salad = 正宗的凯撒沙拉
 
 caesarean
 /sɪˈzeəriən/
-核心：剖宫产。全称 caesarean section，口语常缩成
+核心：剖宫产。口语常说
 a caesarean 或 a C-section，动词说法是 deliver by
 caesarean。美式拼作 cesarean。名字来自凯撒，传说他是
 这样出生的，真伪难考，但词是这么来的。可数。
@@ -26231,7 +26184,7 @@ a vein of = 一道矿脉
 calcium
 /ˈkælsiəm/
 核心：钙，符号 Ca。日常英语里这个词出现在两处：营养
-（补钙、缺钙）和化学名（calcium carbonate 碳酸钙）。
+（补钙、缺钙）和化学名。
 形容词 calciferous 是含钙的，用在地质与生物的描述里。
 不可数。
 ① Milk is rich in calcium, and so are the greens most people leave on the plate.
@@ -26448,7 +26401,6 @@ calico
 /ˈkælɪkəʊ/
 核心：两支，英美说的不是一回事。英式指未染色的白棉布，
 粗平织，做衬里和样衣用；美式指印花棉布，带小碎花的那种。
-第三个常见用法是猫：a calico cat 指三色花猫，美式说法。
 布义不可数。
 ① The lining is plain calico and shows every mark it gets.
 = 里衬是素白棉布，什么印子都藏不住。
@@ -26869,8 +26821,8 @@ callused = 布满老茧的
 calm
 /kɑːm/
 核心：三支一个内核：没有起伏。一是人不慌，沉着；二是
-天气与海面无风无浪；三是局势不再动荡。动词是使平静，
-calm down 最高频。名词是平静的状态。副词 calmly，
+天气与海面无风无浪；三是局势不再动荡。动词是使平静。
+名词是平静的状态。副词 calmly，
 名词 calmness。说状态时不可数。
 ① Stay calm and wait here; somebody will come along in a minute.
 = 保持镇定，在这儿等着，马上就有人来。
@@ -27233,7 +27185,7 @@ camera
 是在镜头前、被拍下来，off camera 是镜头外，而 in
 camera 是法律用语，指不公开审理，那是拉丁文的在小室里，
 跟拍照无关。拍摄的人是 cameraman 或 camerawoman，
-中性说法是 camera operator，camerawork 指镜头的运用。
+camerawork 指镜头的运用。
 可数。
 ① Look into the camera and smile at somebody you cannot actually see.
 = 看着镜头，对一个你其实看不见的人微笑。
@@ -27808,9 +27760,9 @@ high kick = 高踢腿
 
 cancel
 /ˈkænsəl/
-核心：取消：把已经安排好的事撤掉。三处延伸：一是取消
-活动、订单、预约；二是在票证上盖注销章，让它不能再用；
-三是相消，cancel out 是互相抵销。名词 cancellation
+核心：取消：把已经安排好的事撤掉。两处延伸：一是取消
+活动、订单、预约；二是在票证上盖注销章，让它不能再用。
+名词 cancellation
 既指取消，也指别人退掉的那个名额。
 ① They cancelled the concert and refunded nobody who had booked by phone.
 = 他们取消了音乐会，电话订票的人一个也没退款。
@@ -28148,8 +28100,8 @@ seal with = 用……封住
 canker
 /ˈkæŋkə(r)/
 核心：三支，本义都是烂开的伤。一是植物病害：树皮上
-溃烂的斑。二是动物或人身上的溃疡，美式 canker sore
-指口腔溃疡。三是比喻：慢慢腐蚀一个群体的祸患，语气重。
+溃烂的斑。二是动物或人身上的溃疡。
+三是比喻：慢慢腐蚀一个群体的祸患，语气重。
 可数与不可数都有。
 ① Canker killed half the orchard before anyone identified what it was.
 = 还没人认出那是什么病，溃烂病害就毁了半个果园。
@@ -28911,8 +28863,7 @@ conservation work = 保护工作
 capillary
 /kəˈpɪləri/
 核心：毛细血管：最细的那一级血管，把血从动脉送到组织，
-再收进静脉。也作形容词，指细管里的现象：capillary
-action 是毛细作用，水靠它自己往上爬。可数。
+再收进静脉。也作形容词，指细管里的现象。可数。
 ① Oxygen passes through the capillary wall in a fraction of a second.
 = 氧气不到一秒就透过毛细血管壁。
 capillary = 毛细血管
@@ -28929,7 +28880,7 @@ capital
 /ˈkæpɪtəl/
 核心：五支，共同点是头等的、居首的，都从拉丁语的头来。
 一是首都；二是大写字母；三是资本：做生意的本钱，
-也指资方；四是死刑相关的，capital punishment 是死刑；
+也指资方；四是死刑相关的；
 五是建筑上的柱头。派生一族集中在资本那一支：capitalism
 资本主义、capitalist 资本家、capitalize 既是使大写也是
 利用与变现、capitalization 是大写或资本总额。习语
@@ -29703,9 +29654,8 @@ carbon
 /ˈkɑːbən/
 核心：碳，符号 C：有机化学的骨架元素，也指石墨、钻石
 这些单质形式。今天这个词最常出现在气候与能源的文字里，
-一大族说法都从排放多少碳来。旧办公用语里 carbon paper
-是复写纸，a carbon copy 是复写副本，引申指一模一样的人
-或物。动词 carbonize 是碳化，名词 carbonization；
+一大族说法都从排放多少碳来。
+动词 carbonize 是碳化，名词 carbonization；
 carbonate 是碳酸盐，carbonated 是充了气的；
 carboniferous 是含煤的。不可数。
 ① Carbon forms the backbone of every organic molecule we know of.
@@ -30058,8 +30008,7 @@ cardinal
 核心：三支，共同点是最要紧的。一是天主教的枢机主教，
 穿红袍，所以第二支是那种深红色。三是形容词，首要的、
 根本的。语法上 cardinal numbers 是基数词，跟序数词
-相对；地理上 the cardinal points 是东南西北四个基本
-方位。北美有一种红羽鸟也叫这个词。可数。
+相对。北美有一种红羽鸟也叫这个词。可数。
 ① The cardinal read the decree aloud in Latin to a silent congregation.
 = 那位枢机主教用拉丁文向鸦雀无声的会众宣读了教令。
 cardinal = 枢机主教
@@ -30122,7 +30071,7 @@ stand = 立着、设有
 care
 /keə(r)/
 核心：底层是在意。往里走是心里的挂念：care about 是把
-某事当回事，care for 既能是喜欢也能是照料；往外走是
+某事当回事；往外走是
 照料这件事本身，health care 医疗、take care of 负责
 照看。名词另有一支是小心：with care 小心地，take care
 也用作道别。派生分两拨：careful、carefully、
@@ -30321,8 +30270,7 @@ cargo
 /ˈkɑːɡəʊ/
 核心：船、飞机、卡车装运的货物。多不可数，也说
 a cargo of coal；复数 cargoes 或 cargos 都通行。
-作定语一族：cargo ship 货船、cargo plane 货机、
-cargo pants 是多口袋的工装裤。
+作定语一族：cargo ship 货船、cargo plane 货机。
 ① The ship carried a cargo of grain that had been sold twice before it arrived.
 = 那艘船装的是粮食，货还没到就已经转手卖了两遍。
 a cargo of = 一船的……
@@ -30508,8 +30456,7 @@ carnage = 一片狼藉（夸张的口语用法）
 carnal
 /ˈkɑːnəl/
 核心：肉体的、肉欲的，跟精神相对。书面语，多带道德评判
-的口气。最常见的两个搭配是 carnal desire 与法律上的
-carnal knowledge，后者是发生性关系的委婉说法。
+的口气。最常见的搭配是 carnal desire。
 副词 carnally。
 ① He warned against carnal desire in a sermon that ran for fifty minutes.
 = 他在一篇讲了五十分钟的道里告诫人不要纵欲。
@@ -30649,8 +30596,7 @@ carob tree = 角豆树
 carol
 /ˈkærəl/
 核心：圣诞颂歌：圣诞节前后唱的那些歌。动词是挨家挨户
-唱颂歌。carol singer 是唱颂歌的人，carol singing 是
-这项习俗，多为慈善募款。可数。
+唱颂歌，多为慈善募款。可数。
 ① They sang carols in the square and collected for the hospice afterwards.
 = 他们在广场上唱圣诞颂歌，唱完为临终关怀院募捐。
 sing carols = 唱圣诞颂歌
@@ -30771,8 +30717,7 @@ carpaccio = 切薄片的生食
 carpal
 /ˈkɑːpəl/
 核心：腕骨的：手腕那八块小骨的解剖形容词，也作名词指
-其中一块。最常读到的搭配是 carpal tunnel syndrome，
-腕部神经受压引起的麻痛。
+其中一块。
 ① The X-ray showed a carpal fracture that had been missed once already.
 = 片子显示腕骨骨折，之前已经漏诊过一次。
 a carpal fracture = 腕骨骨折
@@ -30841,7 +30786,7 @@ carpet
 carpeting。习语两个：sweep something under the carpet
 是把事情掩下去，the red carpet 是隆重接待。
 carpetbagger 是外来的投机者，本指美国内战后拎着毯子做的
-包南下捞钱的北方人。carpet-bomb 是地毯式轰炸。
+包南下捞钱的北方人。
 ① They laid a new carpet and the smell took three weeks to go.
 = 他们铺了新地毯，那股味道三周才散。
 lay a carpet = 铺地毯
@@ -30965,7 +30910,7 @@ a carrier pigeon = 信鸽
 carrion
 /ˈkæriən/
 核心：腐肉：动物死后腐烂的肉，秃鹫、乌鸦这类以它为食。
-作定语指以腐肉为食的，carrion crow 是小嘴乌鸦。带一股
+作定语指以腐肉为食的。带一股
 死气，文学里常用来营造荒凉。不可数。
 ① Vultures feed on carrion and find it from a mile up.
 = 秃鹫吃腐肉，在一英里高空就能找到。
@@ -31286,8 +31231,7 @@ cartridge
 /ˈkɑːtrɪdʒ/
 核心：装好一份东西的筒或盒，用完整只换掉。四支：一是
 子弹，弹壳加弹头装成一发；二是打印机墨盒；三是老式游戏
-卡带；四是唱针头。cartridge paper 是英式的厚绘图纸，
-本来是包弹药用的纸。可数。
+卡带；四是唱针头。可数。
 ① He loaded five cartridges and left the sixth chamber deliberately empty.
 = 他装了五发子弹，第六个弹膛故意空着。
 cartridge = 子弹
@@ -31518,7 +31462,7 @@ sash window = 上下推拉窗
 cash
 /kæʃ/
 核心：现钞与硬币，也泛指手上马上能动用的钱。动词是把
-票据兑成现金，cash in 是把东西变现，也引申成趁机捞好处。
+票据兑成现金。
 cashback 是刷卡时顺便取现，也指消费返现；cashless 是
 不用现金的。一大族固定说法都从钱字面来。不可数。
 ① Do you take cash, or is it card only after six?
@@ -31856,7 +31800,7 @@ cast
 /kɑːst/
 核心：底层是投、扔出去。分支：一是投掷，撒网、投下影子；
 二是投票；三是把眼光投过去；四是浇铸，把熔化的金属倒进
-模子，cast iron 是铸铁，引申成铁定不可动摇；五是选角，
+模子；五是选角，
 名词指全体演员；六是石膏固定。短语动词按方向推：off 是
 解缆放开也指抛弃，out 是逐出，around for 是四处找，
 aside 是弃置一旁。castaway 是漂流荒岛的人，casting 是
@@ -31986,8 +31930,7 @@ castellations = 城墙上的凹凸雉堞
 caster
 /ˈkɑːstə(r)/
 核心：两支。一是家具底下的小脚轮，装了它柜子能推着走，
-也拼 castor。二是撒调料的小瓶；英式的 caster sugar 是
-细砂糖，颗粒比普通白糖细，做蛋糕用。可数。
+也拼 castor。二是撒调料的小瓶。可数。
 ① Fit casters to the trolley or you will be dragging it across the tiles.
 = 给推车装上脚轮，不然只能拖着它在瓷砖上走。
 caster = 家具脚轮
@@ -32044,9 +31987,8 @@ a castle keep = 城堡的主塔
 
 castor
 /ˈkɑːstə(r)/
-核心：三支。一是家具脚轮，跟 caster 通用。二是
-castor oil 蓖麻油：既作泻药也作润滑油，味道很难闻。
-三是海狸香，香水原料。
+核心：两支。一是家具脚轮，跟 caster 通用。
+二是海狸香，香水原料。
 ① Screw the castors on the wrong way round and the wardrobe will only go sideways.
 = 脚轮装反了，那个衣柜就只能横着走。
 castor = 家具脚轮
@@ -32727,9 +32669,8 @@ categorically = 斩钉截铁地
 cater
 /ˈkeɪtə(r)/
 核心：两支。一是承办酒席：给活动供应饭菜，做这行的叫
-caterer，这门生意叫 catering。二是 cater for 与 cater
-to：满足、迎合某类人的需要，for 偏英式，to 偏美式且常带
-贬义，指一味迎合。
+caterer，这门生意叫 catering。二是满足、迎合某类人的需要，
+后接 for 或 to：for 偏英式，to 偏美式且常带贬义，指一味迎合。
 ① They catered the wedding and ran out of food before the speeches.
 = 他们承办了婚宴，致辞还没开始菜就没了。
 cater = 承办酒席
@@ -32894,7 +32835,7 @@ cathode
 /ˈkæθəʊd/
 核心：电极的一种，跟 anode 相对。电子器件里它是发射
 电子的那一极；至于对应正极还是负极，随装置类型而变，
-不能死记。cathode ray tube 是老式显像管。可数。
+不能死记。可数。
 ① Electrons leave the cathode as soon as it is hot enough.
 = 阴极一热到位，电子就射出来。
 cathode = 阴极
@@ -33069,8 +33010,6 @@ cattle
 /ˈkætəl/
 核心：牛：作为家畜的统称，永远用复数，没有单数形式，
 说一头要换词或用 head of cattle。cattleman 是养牛的人。
-cattle class 是挖苦经济舱像运牛，cattle grid 是英式的
-路面防牛栅。
 ① The cattle were driven to market along a road that is now a motorway.
 = 牛群被赶去集市，走的那条路如今是高速公路。
 cattle = 牛（家畜统称）
@@ -33183,9 +33122,7 @@ a cauldron of noise = 一片沸腾的声浪
 
 cauliflower
 /ˈkɔːlɪflaʊə(r)/
-核心：花椰菜：白色紧实的花球。两个固定说法：
-cauliflower cheese 是英式的芝士焗花菜，cauliflower ear
-是拳击手耳朵被打得肿厚变形的那种耳。
+核心：花椰菜：一种蔬菜，吃的是白色紧实的花球。
 ① Steam the cauliflower florets and keep the stalk for soup.
 = 花椰菜掰成小朵蒸，梗留着煮汤。
 floret = 小花朵
@@ -33288,7 +33225,7 @@ at low water = 在低潮时
 caustic
 /ˈkɔːstɪk/
 核心：两支，都从烧来。一是化学上有腐蚀性的：能烧穿皮肤
-与织物，caustic soda 是烧碱。二是比喻：说话尖刻带酸，
+与织物。二是比喻：说话尖刻带酸，
 一个烧皮肤，一个烧人。副词 caustically。
 ① Caustic soda burns the skin and eats through most kinds of cloth.
 = 烧碱会烧伤皮肤，多数布料也能被它蚀穿。
@@ -33452,9 +33389,9 @@ aria = 咏叹调
 
 cave
 /keɪv/
-核心：山体或地下的天然洞穴。动词的固定说法是 cave in：
+核心：山体或地下的天然洞穴。动词要带 in：
 一是塌下去，二是比喻扛不住而让步。玩洞穴探险叫 caving，
-玩的人是 caver。cave painting 是洞穴壁画。可数。
+玩的人是 caver。可数。
 ① They sheltered in a cave and came out to find the path gone.
 = 他们在洞里避雨，出来时发现小路没了。
 a cave = 洞穴
@@ -33479,8 +33416,7 @@ cave painting = 洞穴壁画
 caveat
 /ˈkævɪæt/
 核心：附带说明的但书：接受一件事之前先声明的限制条件。
-法律里也指要求暂缓程序的正式通告。拉丁短语
-caveat emptor 是买家自己当心，买卖里的免责原则。可数。
+法律里也指要求暂缓程序的正式通告。可数。
 ① I agree, with one caveat that I want written into the minutes.
 = 我同意，但有一点要说明，而且要写进纪要。
 with one caveat = 但有一点要说明
@@ -33579,8 +33515,8 @@ run = 举办
 
 cavity
 /ˈkævɪti/
-核心：两支。一是空腔：物体或身体里的空洞，建筑上的
-cavity wall 是双层中空墙。二是牙上的洞：龋齿蛀出来的
+核心：两支。一是空腔：物体或身体里的空洞。
+二是牙上的洞：龋齿蛀出来的
 那个洞，看牙时说的就是这一支。可数。
 ① The scan showed a cavity in the bone the size of a grape.
 = 扫描显示骨头里有个葡萄大的空腔。
@@ -33986,8 +33922,8 @@ celestial = 天上的、超凡的
 
 celiac
 /ˈsiːliæk/
-核心：coeliac 的美式拼法：指腹腔的。最常读到的是
-celiac disease 乳糜泻，患者吃了含麸质的食物就会伤肠道。
+核心：coeliac 的美式拼法：解剖上指腹腔的、
+跟腹腔有关的。
 ① Celiac disease runs in families and often shows up late.
 = 乳糜泻有家族性，还常常很晚才显出来。
 celiac disease = 乳糜泻
@@ -34599,9 +34535,7 @@ centre
 /ˈsentə(r)/
 核心：英式拼法，美式一族写 center。四支：一是中心点、
 正中；二是中心机构，a shopping centre 购物中心；三是
-政治上的中间派，centre-left 与 centre-right 是中间偏左
-与偏右；四是球类里的中路位置，centre forward 中锋、
-centre half 中卫、centre back 中后卫。动词是使居中，
+政治上的中间派；四是球类里的中路位置。动词是使居中，
 也说 centre on 以某事为重心。派生一族英美各拼一套：
 centred 与 centered、centrefold 与 centerfold、
 centrepiece 与 centerpiece、centreboard 与 centerboard。
@@ -34890,8 +34824,8 @@ sit below = 位于……下方
 
 cerebral
 /ˈserɪbrəl/
-核心：两支。一是解剖上的：脑的，cerebral palsy 是
-脑性瘫痪。二是形容人或作品重理智不重感情、偏思辨，
+核心：两支。一是解剖上的：脑的。
+二是形容人或作品重理智不重感情、偏思辨，
 有时带一点嫌它不动人的口气。
 ① He had a cerebral haemorrhage at fifty-one and was back at work by autumn.
 = 他五十一岁时脑出血，秋天就回去上班了。
@@ -35165,8 +35099,7 @@ remove = 清除
 cervical
 /ˈsɜːvɪkəl/
 核心：两支，因为词根颈在解剖里指两处。一是颈部的：
-cervical vertebrae 是颈椎。二是子宫颈的：cervical
-smear 是宫颈涂片。医学术语。
+cervical vertebrae 是颈椎。二是子宫颈的。医学术语。
 ① He injured a cervical vertebra and wore a collar for six weeks.
 = 他伤了一节颈椎，戴了六周颈托。
 cervical vertebrae = 颈椎
@@ -35522,8 +35455,7 @@ chain
 核心：链：一环扣一环的那串。分支都从连成一串来：一是
 实物的链条与项链；二是连锁店与连锁企业；三是一连串的
 事件与因果，the food chain 是食物链；四是化学上的分子
-链。动词是用链锁住。习语 chain reaction 是连锁反应，
-chain-smoke 是一支接一支地抽。可数。
+链。动词是用链锁住。可数。
 ① The gate is fastened with a chain that anyone could lift over the post.
 = 大门用一条链子拴着，谁都能把它从柱子上提下来。
 a chain = 链条
@@ -35653,9 +35585,7 @@ run = 运行
 
 chaise
 /ʃeɪz/
-核心：两支。一是旧式的轻便马车。二是法语借词组合
-chaise longue，字面是长椅子，指一头带靠背的长躺椅；
-美式常讹写成 chaise lounge。可数。
+核心：一种旧式的轻便马车，多为两轮、由一匹马拉。可数。
 ① She lay on the chaise longue with a book she had not opened in an hour.
 = 她躺在长躺椅上，手里那本书一个钟头没翻开过。
 a chaise longue = 长躺椅
@@ -35721,8 +35651,8 @@ a poisoned chalice = 看着体面实则害人的东西
 chalk
 /tʃɔːk/
 核心：两支。一是白垩：石灰质的软岩，英国南部的白崖就是
-它。二是粉笔，动词是用粉笔写。习语两个高频：chalk and
-cheese 是天差地别，chalk up 是记下、取得。形容词 chalky
+它。二是粉笔，动词是用粉笔写。习语 chalk and
+cheese 是天差地别，很高频。形容词 chalky
 是白垩似的；chalkboard 是美式的黑板。
 ① The cliffs are chalk and lose a few feet to the sea every winter.
 = 这些悬崖是白垩质的，每年冬天都被海水削去几英尺。
@@ -35815,8 +35745,8 @@ chamber
 upper chamber 是上院。二是律师与法官的办公室，英式的
 chambers 指大律师合租的办公室，也指法官私室，
 in chambers 是不公开审理。三是密闭的腔室：心脏的四个腔、
-枪的弹膛。四是旧义的卧房，留在 chamber music 室内乐、
-chamberlain 内侍这些词里。可数。
+枪的弹膛。四是旧义的卧房，留在
+chamberlain 内侍这类词里。可数。
 ① The chamber was packed for the vote and half empty an hour later.
 = 表决时议事厅坐得满满的，一小时后就空了一半。
 a chamber = 议事厅、议院
@@ -37240,8 +37170,8 @@ be chary with = 舍不得给出……
 chase
 /tʃeɪs/
 核心：追。分支：一是追赶。二是追求、争取。三是催办：
-chase somebody for 是催人给答复，英式的 chase up 是
-去催。四是名词的追逐，give chase 是追上去，
+chase somebody for 是催人给答复。
+四是名词的追逐，give chase 是追上去，
 cut to the chase 是直说重点，出自剪掉铺垫直接放追车戏。
 chaser 是追赶者，也指烈酒之后跟的那杯。
 ① The dog chased the ball into the road and stopped everything for a minute.
@@ -37455,7 +37385,7 @@ change with = 随……变换
 chat
 /tʃæt/
 核心：闲聊：轻松随便地说话，动词与名词同形。第二支是
-网上聊天：a chat room 是聊天室，chatline 是英式的付费
+网上聊天：chatline 是英式的付费
 聊天热线，chatbot 是自动应答的聊天机器人。形容词 chatty
 有两义：爱聊的、以及文风轻松像聊天的。
 ① We chatted for an hour about nothing either of us can now remember.
@@ -37688,11 +37618,10 @@ a cheater = 作弊者（美式多用）
 check
 /tʃek/
 核心：底层是拦一下看看。分支：一是核对、查看。二是制止、
-抑制，名词 a check on 是对……的制约，checks and
-balances 是权力的制衡。三是办手续：check in 与
-check out。四是国际象棋的将军，checkmate 是将死。
-五是格子花纹，checked 与英式 chequered 都是有格子的。
-六是美式的支票（英式 cheque）与餐馆账单。派生一族：
+抑制，名词指对……的制约，checks and
+balances 是权力的制衡。三是国际象棋的将军，checkmate 是将死。
+四是格子花纹，checked 与英式 chequered 都是有格子的。
+五是美式的支票（英式 cheque）与餐馆账单。派生一族：
 checkbook 支票本、checkbox 勾选框、checker 检查员、
 checkers 跳棋（美式）、checkerboard 棋盘格、checklist
 清单、checkout 收银台、checkpoint 检查站、checkroom
@@ -37884,8 +37813,8 @@ not a cheep = 一声不响
 
 cheer
 /tʃɪə(r)/
-核心：三支。一是欢呼、喝彩。二是使高兴：cheer up 是
-高兴起来。三是名词的欢乐气氛。cheers 在英式口语里有
+核心：三支。一是欢呼、喝彩。二是使高兴。
+三是名词的欢乐气氛。cheers 在英式口语里有
 三个用法：干杯、谢了、再见。派生一族：cheerful 与
 cheery 是开朗高兴的，cheerfully、cheerily、
 cheerfulness 跟着走；cheering 是令人振奋的；
@@ -38221,9 +38150,8 @@ be cut close = 剪裁贴身
 
 chequebook
 /ˈtʃekbʊk/
-核心：英式拼法：支票本，美式写 checkbook。报道里两个
-固定说法：chequebook diplomacy 是拿钱办外交，
-chequebook journalism 是花钱买爆料。可数。
+核心：英式拼法：支票本，美式写 checkbook。报道里有个
+固定说法：chequebook diplomacy 是拿钱办外交。可数。
 ① He tore a page from his chequebook and wrote the amount in words.
 = 他从支票本上撕下一页，把金额用文字写出来。
 a chequebook = 支票本（英式）
@@ -38303,8 +38231,7 @@ fill = 充满
 cherry
 /ˈtʃeri/
 核心：樱桃，也指樱花树与樱桃木，以及那种正红色。习语
-两个：cherry-pick 是只挑最合意、最有利的，带贬义，
-在评论与商业文字里极常用；a bite at the cherry 是
+a bite at the cherry 是
 一次机会，英式说法。复数 cherries。可数。
 ① The cherries are ripe and the birds got to them before we did.
 = 樱桃熟了，鸟比我们先下的手。
@@ -38410,7 +38337,7 @@ a game of chess = 一局棋；比喻互相算计
 chest
 /tʃest/
 核心：两支，共同点是围起来的空间。一是胸部、胸腔。
-二是箱子：a chest of drawers 是抽屉柜。习语两个都高频：
+二是箱子。习语两个都高频：
 get something off your chest 是把憋着的话说出来，
 play it close to your chest 是不露底牌。形容词 chesty
 是英式的痰多咳得重的。可数。
@@ -38731,8 +38658,8 @@ stay = 留着不走
 chicken
 /ˈtʃɪkən/
 核心：三支。一是鸡与鸡肉：作动物可数，作肉不可数。
-二是口语的胆小鬼，形容词也用；动词 chicken out 是
-临阵退缩。三是那个比胆量的游戏，引申指双方对着冲、
+二是口语的胆小鬼，形容词也用。
+三是那个比胆量的游戏，引申指双方对着冲、
 看谁先让。chickenpox 是水痘。习语 don't count your
 chickens 是别高兴太早。
 ① They keep six chickens and get about four eggs a week between them.
@@ -39155,10 +39082,9 @@ chill
 /tʃɪl/
 核心：四支。一是寒意，也指着凉。二是动词：冷藏、放凉。
 三是引申的让人心里一凉，形容词 chilling 是读来让人发冷
-的。四是口语的放松：chill out 是别急、歇一歇，
-chilled-out 是松弛的，chillax 是两个词拼出来的口语说法。
-形容词 chilly 有两义：天气微冷、以及待人冷淡；名词
-chilliness 跟着走。chiller 是冷藏设备，也指惊悚片。
+的。四是口语的放松：chilled-out 是松弛的，chillax 是两个词
+拼出来的口语说法。形容词 chilly 有两义：天气微冷、以及待人
+冷淡；名词 chilliness 跟着走。chiller 是冷藏设备，也指惊悚片。
 ① There is a chill in the air that was not there yesterday evening.
 = 空气里有股昨晚还没有的寒意。
 a chill = 寒意
@@ -39222,10 +39148,8 @@ chilli con carne = 辣豆牛肉
 
 chime
 /tʃaɪm/
-核心：三支。一是钟或钟组敲响的那种清亮声，动词是敲响、
-鸣响。二是名词的钟组本身：door chimes 是门铃那套音管。
-三是短语动词：chime in 是插话，chime with 是跟某事
-合得上，这两个都很常读到。可数。
+核心：两支。一是钟或钟组敲响的那种清亮声，动词是敲响、
+鸣响。二是名词的钟组本身：door chimes 是门铃那套音管。可数。
 ① The clock chimed midnight and nobody in the house was awake to hear it.
 = 钟敲了午夜十二点，屋里没一个人醒着听见。
 chime = 敲响、鸣响
@@ -39330,7 +39254,7 @@ chin
 /tʃɪn/
 核心：下巴：嘴以下那块骨头。习语两个都高频：keep your
 chin up 是别灰心、抬起头来，take it on the chin 是硬扛
-下来不抱怨。chin-up 是引体向上。可数。
+下来不抱怨。可数。
 ① He rested his chin on his hand and stayed like that for the whole hour.
 = 他把下巴搁在手上，整整一小时都那么坐着。
 a chin = 下巴
@@ -40716,9 +40640,8 @@ return to = 回到
 
 chow
 /tʃaʊ/
-核心：三支。一是口语的吃的、饭食，chow down 是美式口语
-的开吃。二是中国松狮犬，全称 chow chow。三是 chow mein
-炒面，这个音出自汉语方言。
+核心：两支。一是口语的吃的、饭食，chow down 是美式口语
+的开吃。二是中国松狮犬，全称 chow chow。
 ① The chow is good here and the queue at noon proves it.
 = 这儿的饭不错，中午那条队就是证明。
 chow = 吃的、饭食（口语）
@@ -40879,8 +40802,7 @@ Christmas
 /ˈkrɪsməs/
 核心：圣诞节：十二月二十五日纪念耶稣降生的节日，在英语世界也是
 一年里最大的家庭节日与消费季。用法上几点要记：说「在圣诞期间」用
-at Christmas，说具体那天用 on Christmas Day；作定语一大族，
-Christmas tree、Christmas card 都是；口语昵称 Chrimbo。可数。
+at Christmas，说具体那天用 on Christmas Day；口语昵称 Chrimbo。可数。
 ① They always go home at Christmas and argue about the same thing every year.
 = 他们圣诞总要回家，每年为同一件事吵一架。
 at Christmas = 在圣诞期间
@@ -41298,10 +41220,9 @@ chubbiness = 胖乎乎
 
 chuck
 /tʃʌk/
-核心：四支。一是口语的扔。二是短语动词：chuck out 是把
-人赶出去或把东西扔掉，chuck in 是英式口语的辞掉、放弃。
-三是名词：车床与电钻上夹住工件的夹头。四是旧口语里
-chucker out 指酒吧的看场人。
+核心：四支。一是口语的扔。二是短语动词：chuck in 是英式
+口语的辞掉、放弃。三是名词：车床与电钻上夹住工件的夹头。
+四是旧口语里 chucker out 指酒吧的看场人。
 ① Chuck it in the bin; nobody has looked at it since 2019.
 = 扔垃圾桶吧，二零一九年以来没人看过它。
 chuck = 扔（口语）
@@ -41554,8 +41475,7 @@ churn
 /tʃɜːn/
 核心：三支。一是搅乳器：把奶油搅成黄油的那个桶，动词是
 搅。二是引申的翻腾：胃里翻腾、水面翻涌。三是商业上的
-客户流失：churn rate 是流失率，churn out 是大批粗制地
-生产，带贬义，说文章与产品最多。可数。
+客户流失。可数。
 ① Butter was made in a churn that took an hour of steady work.
 = 黄油是在搅乳器里做的，要不停地搅上一个钟头。
 a churn = 搅乳器
@@ -42667,10 +42587,9 @@ a civic holiday = 市政假日（加拿大）
 
 civil
 /ˈsɪvəl/
-核心：四支。一是国家与公民事务的：civil rights 公民
-权利、a civil war 内战。二是法律上的民事的，跟刑事相对。
-三是非军方、非宗教的：a civil ceremony 是不带宗教的
-婚礼。四是客气但不热情的，只是最低限度的礼貌。派生：
+核心：四支。一是国家与公民事务的。二是法律上的民事的，
+跟刑事相对。三是非军方、非宗教的：a civil ceremony 是不带
+宗教的婚礼。四是客气但不热情的，只是最低限度的礼貌。派生：
 civilian 平民、civility 客套礼貌、civilization 文明、
 civilize 使文明、civilized 文明有教养的、civilly 客气地。
 ① Civil rights were won slowly and at a cost nobody had bargained for.
@@ -42871,7 +42790,7 @@ clairvoyant = 通灵的
 
 clam
 /klæm/
-核心：蛤：两片壳的可食贝类，埋在沙里。动词 clam up 是
+核心：蛤：两片壳的可食贝类，埋在沙里。动词要带 up，指
 一问就闭口不吭声，口语里很常读到。可数。
 ① They dug for clams at low tide and filled half a bucket.
 = 他们趁退潮挖蛤，装了半桶。
@@ -42959,8 +42878,8 @@ clamp
 /klæmp/
 核心：三支。一是夹钳：把两样东西夹紧的工具，动词是夹住、
 固定。二是英式的车轮锁：违停被锁轮就说 be clamped。
-三是 clamp down on 与名词 clampdown：严厉整治、收紧
-管制，这一支在新闻里极常读到。可数。
+三是名词 clampdown：严厉整治、收紧管制，这一支在新闻里
+极常读到。可数。
 ① Clamp the joint until it dries and leave it overnight to be safe.
 = 那个接缝夹住等它干，保险起见放一夜。
 clamp = 夹紧、固定
@@ -43582,7 +43501,7 @@ claw
 /klɔː/
 核心：三支。一是爪：猫、鸟的钩爪，蟹与虾的钳也叫它。
 二是动词：用爪抓、抓挠。三是引申的一点点夺回来：
-claw back 是把给出去的钱或优势收回来，名词 clawback，
+名词 clawback 是把给出去的钱或优势收回来，
 这一支在财经与政策文字里常读到。
 ① The cat sharpened its claws on the one chair nobody was allowed to sit in.
 = 猫专挑那把谁都不许坐的椅子磨爪子。
@@ -43654,12 +43573,11 @@ a claymore mine = 定向反步兵雷
 
 clean
 /kliːn/
-核心：五支。一是干净的。二是动词的打扫、清洗，clean up
-是收拾干净也引申成整顿。三是清白没污点的：a clean
-record 是没有前科，come clean 是全都说出来。四是利落
-一气呵成的：a clean break 是干净的了断，a clean sheet
-是英式足球的零封。五是不带脏话与色情的。派生：cleaner
-清洁工与清洁剂、cleaning 打扫、cleanly 利落地。
+核心：五支。一是干净的。二是动词的打扫、清洗。三是清白
+没污点的：a clean record 是没有前科，come clean 是全都
+说出来。四是利落一气呵成的：a clean break 是干净的了断，
+a clean sheet 是英式足球的零封。五是不带脏话与色情的。
+派生：cleaner 清洁工与清洁剂、cleaning 打扫、cleanly 利落地。
 ① The kitchen is spotlessly clean, which tells you nobody has cooked in it.
 = 厨房一尘不染，可见根本没人在里面做过饭。
 clean = 干净的
@@ -43930,9 +43848,7 @@ pitch = 音高
 cleft
 /kleft/
 核心：三支。一是裂缝：岩石与地面上的窄口。二是形容词的
-裂开的：cleft palate 腭裂与 cleft lip 唇裂是医学名，
-最常读到。三是习语 in a cleft stick：两头为难，英式。
-可数。
+裂开的。三是习语 in a cleft stick：两头为难，英式。可数。
 ① Water ran down the cleft and froze into a sheet by early evening.
 = 水顺着那道裂缝流下来，傍晚就冻成了一片。
 a cleft = 裂缝
@@ -44365,10 +44281,9 @@ the climax of = ……的顶点
 climb
 /klaɪm/
 核心：四支。一是往上爬。二是数值上升。三是名词的一段
-爬升。四是短语动词 climb down：既是爬下来，也引申成
-公开退让、认错，名词 climbdown，这一支在政治报道里常
-读到。climber 是登山者也指攀缘植物；climbing 是攀登
-这项活动。
+爬升。四是名词 climbdown：公开退让、认错，这一支在政治
+报道里常读到。climber 是登山者也指攀缘植物；climbing 是
+攀登这项活动。
 ① They climbed the north face in winter and turned back near the top.
 = 他们冬天攀登北壁，快到顶时折返了。
 climb = 攀登
@@ -44894,11 +44809,10 @@ close
 /kləʊz/（动、名）/kləʊs/（形、副）
 核心：这个拼法是两个词，读音不同：动词读得像 clohz，
 形容词与副词读得像 clohs，这是它最要紧的一点。动词那支
-是关上、结束、停业，close down 是关门停业。形容词那支
-是距离近的、关系亲的、势均力敌的、闷热不通风的。名词是
-结束，draw to a close 是接近结束。派生：closed 关着的、
-closely 仔细地、closeness 亲近、closing 收盘的、
-closeout 是美式的清仓甩卖。
+是关上、结束、停业。形容词那支是距离近的、关系亲的、
+势均力敌的、闷热不通风的。名词是结束，draw to a close 是
+接近结束。派生：closed 关着的、closely 仔细地、closeness
+亲近、closing 收盘的、closeout 是美式的清仓甩卖。
 ① Close the door behind you; the corridor is absolutely freezing.
 = 随手把门关上，走廊里冷得要命。
 close = 关上
@@ -45777,11 +45691,10 @@ coasteering = 海岸探险（沿岸攀爬、跳水、泅渡）
 
 coat
 /kəʊt/
-核心：四支。一是外套。二是动物的毛皮。三是一层：
+核心：三支。一是外套。二是动物的毛皮。三是一层：
 a coat of paint 是一道漆，动词是涂上一层，coated 是裹了
 一层的，coating 是涂层，这一支在工艺与说明书里常读到。
-四是 coat of arms 家族徽章。coatroom 是美式的存衣处。
-可数。
+coatroom 是美式的存衣处。可数。
 ① She hung up her coat and found the pockets full of last winter's receipts.
 = 她挂起大衣，发现口袋里全是去年冬天的收据。
 a coat = 外套
@@ -45908,10 +45821,9 @@ be mined with = 与……一起开采
 
 cobble
 /ˈkɒbəl/
-核心：两支。一是圆石路面石：cobbles 与 cobblestones 都
-指那种铺路圆石，cobbled 是铺圆石的。二是动词 cobble
-together：草草凑起来，带一点将就，这一支很常读到。
-cobbler 是修鞋匠，美式还指一种水果酥皮点心。
+核心：圆石路面石：cobbles 与 cobblestones 都指那种铺路
+圆石，cobbled 是铺圆石的。cobbler 是修鞋匠，美式还指一种
+水果酥皮点心。
 ① The lane is cobbled and shakes every bottle in the delivery van.
 = 那条巷子铺着圆石，送货车里的瓶子颠个不停。
 cobbled = 铺圆石的
@@ -46286,9 +46198,8 @@ cocksureness = 过分自信
 
 cocktail
 /ˈkɒkteɪl/
-核心：三支。一是鸡尾酒。二是引申的混合体：a cocktail of
-drugs 是几种药混着用，多带负面意味。三是作定语说社交
-场合：a cocktail party 是鸡尾酒会。可数。
+核心：两支。一是鸡尾酒。二是引申的混合体：a cocktail of
+drugs 是几种药混着用，多带负面意味。可数。
 ① She ordered a cocktail she could not pronounce and drank half of it.
 = 她点了杯自己念不出名字的鸡尾酒，喝了一半。
 a cocktail = 鸡尾酒
@@ -46403,8 +46314,7 @@ cocooning = 宁可待在家里的生活取向
 cod
 /kɒd/
 核心：鳕鱼：北大西洋的大型食用鱼，英国炸鱼薯条里最常用。
-单复数同形。cod liver oil 是鱼肝油。英式口语里它还作
-定语表示假的、装出来的。
+单复数同形。英式口语里它还作定语表示假的、装出来的。
 ① They landed two hundred cod and threw back everything under the legal size.
 = 他们捕了两百条鳕鱼，不够法定尺寸的都扔了回去。
 cod = 鳕鱼
@@ -46684,8 +46594,7 @@ be thought extinct = 被认为已灭绝
 
 coeliac
 /ˈsiːliæk/
-核心：英式拼法：腹腔的，最常读到的是 coeliac disease
-乳糜泻，吃了含麸质的食物就伤肠道。美式写 celiac。
+核心：英式拼法：腹腔的，医学用词。美式写 celiac。
 ① Coeliac disease is lifelong and the only treatment is the diet.
 = 乳糜泻是终身的，唯一的治法就是忌口。
 coeliac disease = 乳糜泻
@@ -46757,9 +46666,7 @@ peaceful coexistence = 和平共处
 coffee
 /ˈkɒfi/
 核心：咖啡：豆、粉与冲出来的饮料都用这个词，说一杯时
-可数。复合一族：coffee break 工间歇、coffee table 茶几、
-coffee morning 是英式的募款茶会。习语 wake up and
-smell the coffee 是清醒点、看清现实。
+可数。习语 wake up and smell the coffee 是清醒点、看清现实。
 ① She grinds her own coffee and will not touch anything from a jar.
 = 她自己磨咖啡，罐装的碰都不碰。
 coffee = 咖啡
@@ -47153,8 +47060,7 @@ resist = 耐得住
 coitus
 /ˈkəʊɪtəs/
 核心：性交的正式与医学用词：日常不用，只出现在医学、
-法律与学术文本里。coitus interruptus 是体外排精那种
-避孕做法。不可数。
+法律与学术文本里。不可数。
 ① Pain during coitus should be reported to a doctor rather than endured.
 = 性交时疼痛应当告诉医生，不该忍着。
 coitus = 性交（医学用词）
@@ -47247,11 +47153,9 @@ cold
 /kəʊld/
 核心：五支。一是冷的。二是感冒，这一支可数。三是待人
 冷淡的。四是名词的寒冷：out in the cold 是被撂在一边
-不受理睬。五是引申出的一族固定说法，都很高频：
+不受理睬。五是引申出的三个固定说法，都很高频：
 in cold blood 冷酷有预谋地、go cold turkey 骤然戒断、
-the cold shoulder 故意冷落、the cold war 冷战、
-a cold call 没打招呼的推销电话。副词 coldly，名词
-coldness。
+the cold shoulder 故意冷落。副词 coldly，名词 coldness。
 ① The water was ice cold and nobody stayed in for more than a minute.
 = 水冰凉，谁也没在里面待过一分钟。
 cold = 冷的
@@ -47598,9 +47502,7 @@ collation = 整理核对；也指轻餐
 collateral
 /kəˈlætərəl/
 核心：三支。一是抵押品：借钱时押给对方的东西，这一支在
-财经文字里最常读到。二是形容词的附带的：collateral
-damage 是军事上的附带伤害，指行动中波及的平民与民用
-设施，这个说法常被批评为掩饰性的。三是旁系的。
+财经文字里最常读到。二是形容词的附带的。三是旁系的。
 ① The loan needs collateral worth half again as much as the sum advanced.
 = 那笔贷款要有抵押品，价值是放款额的一倍半。
 collateral = 抵押品、担保物
@@ -49958,10 +49860,9 @@ be promoted to commodore = 晋升为海军准将
 common
 /ˈkɒmən/
 核心：底层是「大家共有、到处都是」。形容词几支：常见的；
-共有共同的，common ground 是共同点；一般普通的，the
-common cold 是普通感冒；英式还带阶层贬义，说人俗气没
-教养。名词是村镇上的公共草地。习语 have in common 是有
-共同点，common sense 是常识。副词 commonly。
+共有共同的；一般普通的，the common cold 是普通感冒；英式
+还带阶层贬义，说人俗气没教养。名词是村镇上的公共草地。
+习语 have in common 是有共同点。副词 commonly。
 ① Sparrows are common here and rarer every year fifty miles north.
 = 麻雀在这里很常见，往北五十英里就一年比一年少。
 common = 常见的
@@ -50066,8 +49967,7 @@ convert to commonhold = 转为共有产权
 commonplace
 /ˈkɒmənpleɪs/
 核心：形容词是司空见惯的、不新鲜的。名词一是老生常谈的
-套话，二是习以为常的事。旧时还有 a commonplace book，
-指把读到的好句子抄下来的本子。
+套话，二是习以为常的事。
 ① Mobile payment is now commonplace in shops that took cash only in 2019.
 = 二零一九年还只收现金的店，如今手机支付已稀松平常。
 commonplace = 司空见惯的
@@ -50350,8 +50250,7 @@ community
 /kəˈmjuːnɪti/
 核心：几支。一是社区：住在一处的一群人，也指那份归属感；
 二是有共同点的群体：the scientific community 科学界；
-三是生态学里的群落。复合搭配一大把：community centre
-社区活动中心、community service 社区服务。可数。
+三是生态学里的群落。可数。
 ① The whole community turned out and the hall could not hold half of them.
 = 全社区的人都来了，礼堂连一半都装不下。
 a community = 社区
@@ -50667,9 +50566,9 @@ comparability = 可比性
 
 comparative
 /kəmˈpærətɪv/
-核心：三支。一是比较研究的：comparative literature 是
-比较文学；二是相对的：跟别的情形比起来算怎样；三是语法
-上的比较级，前面加 the。副词 comparatively 是相对来说。
+核心：三支。一是比较研究的；二是相对的：跟别的情形比起来
+算怎样；三是语法上的比较级，前面加 the。副词 comparatively
+是相对来说。
 ① She teaches comparative literature to students who read only one language.
 = 她教比较文学，学生却只读得懂一种语言。
 comparative literature = 比较文学
@@ -50817,8 +50716,7 @@ out of compassion = 出于怜悯
 
 compassionate
 /kəmˈpæʃənət/
-核心：有怜悯心的、体恤的。英式有个固定说法 compassionate
-leave：因家人重病或去世准的假。副词 compassionately。
+核心：有怜悯心的、体恤的。副词 compassionately。
 ① She is a compassionate doctor who sits down before she speaks.
 = 她是位有恻隐之心的医生，说话前总先坐下来。
 compassionate = 有怜悯心的
@@ -51130,8 +51028,7 @@ complacently = 自得地
 complain
 /kəmˈpleɪn/
 核心：抱怨、投诉：把不满说出来。介词分工：内容用 about
-或 of，对象用 to。complain of 还专用在说身体不适。法律上
-提出控告的一方叫 complainant。不及物。
+或 of，对象用 to。法律上提出控告的一方叫 complainant。不及物。
 ① She complained about the noise for a year before anyone measured it.
 = 她抱怨噪音抱怨了一年，才有人去测。
 complain about = 抱怨
@@ -51569,8 +51466,7 @@ a compositor = 排字工
 compost
 /ˈkɒmpɒst/
 核心：堆肥：把菜叶草屑沤烂做成的肥；也作动词，指沤肥。
-院子里堆肥的地方叫 compost heap 或 compost bin。名词
-不可数。
+名词不可数。
 ① She spreads compost on the beds in November and forgets them until spring.
 = 她十一月往花畦上撒堆肥，之后到春天都不管。
 compost = 堆肥
@@ -51627,8 +51523,8 @@ serve compote with yoghurt = 炖果配酸奶
 compound
 /ˈkɒmpaʊnd/（名、形）/kəmˈpaʊnd/（动）
 核心：几支，重音分工清楚。名词一是化合物；二是复合词；
-三是有围墙的院区。形容词是复合的：compound interest 是
-复利。动词重音在后，意思是使本来就糟的事更严重。
+三是有围墙的院区。形容词是复合的。动词重音在后，意思是
+使本来就糟的事更严重。
 ① Water is a compound of hydrogen and oxygen and nothing else at all.
 = 水是氢和氧的化合物，此外别无他物。
 a compound of = ……的化合物
@@ -51713,10 +51609,9 @@ a comprehension = 阅读理解练习
 
 comprehensive
 /ˌkɒmprɪˈhensɪv/
-核心：全面的、无所不包的。英国教育里 a comprehensive
-school 是不按考试筛选、招收全区学生的中学，可以直接
-名词化。保险里 comprehensive cover 是全险。副词
-comprehensively。
+核心：全面的、无所不包的。英国教育里可以直接名词化：a
+comprehensive 指不按考试筛选、招收全区学生的中学。保险里
+comprehensive cover 是全险。副词 comprehensively。
 ① The report is comprehensive and nobody has read past the first page.
 = 这份报告很全面，却没人读过第一页以后。
 comprehensive = 全面的
@@ -51865,9 +51760,8 @@ compulsively = 强迫般地、忍不住地
 compulsory
 /kəmˈpʌlsəri/
 核心：强制的、必须的：法律或规定要求非做不可。英式教育
-与法律语境里最常用：compulsory education 义务教育、
-compulsory purchase 是政府强制征收私产。反义是 optional
-或 voluntary。
+与法律语境里最常用：compulsory education 义务教育。反义是
+optional 或 voluntary。
 ① Attendance is compulsory and the register goes straight to the regulator.
 = 出席是强制的，签到表直接送到监管机构。
 compulsory = 强制的
@@ -52020,7 +51914,7 @@ con
 骗局，行骗的人叫 a con artist；二是监狱俚语里的囚犯，
 刑满出来的叫 an ex-con；三是 pros and cons 里的反面理由；
 四根本不是英语词，是乐谱上意大利语的 con「带着」，
-底下一族表情记号（con brio 等）都由它带出。前三支可数。
+底下一族表情记号都由它带出。前三支可数。
 ① He conned her out of her savings and moved to another county.
 = 他把她的积蓄骗走，搬到了另一个郡。
 con somebody out of = 骗走某人的……

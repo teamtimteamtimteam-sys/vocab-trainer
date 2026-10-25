@@ -18,7 +18,6 @@ initial
 核心：开头的、最初的；（名字的）首字母。形容词只放名词前：initial reaction、initial stages。
 名词多用复数 initials（姓名首字母）；动词 initial（签上首字母，表示认可）。
 副词 initially（起初）、initialize（计算机：初始化，英式也拼 -ise）与名词 initialization 并入本条。
-initial public offering（首次公开募股，缩写「IPO」）也并入本条。
 ① My initial reaction was to refuse, but I changed my mind the next day.
 = 我起初的反应是拒绝，可第二天就改主意了。
 somebody's initial reaction = 某人最初的反应
@@ -111,9 +110,8 @@ inject humour into something = 给…增添幽默
 
 injection
 /ɪnˈdʒekʃən/
-核心：注射、打针；（资金）注入；注塑。本义可数：打一针（have an injection）；
-比喻：一笔资金的注入（a cash injection）。工业上 injection moulding（注塑成型）与形容词
-injection-moulded（注塑成型的）并入本条。
+核心：注射、打针；（资金）注入。本义可数：打一针（have an injection）；
+比喻：一笔资金的注入（a cash injection）。
 ① The doctor gave her an injection to stop the pain.
 = 医生给她打了一针止痛。
 give somebody an injection = 给某人打针
@@ -204,7 +202,7 @@ injurious to somebody's reputation = 有损某人名誉的
 injury
 /ˈɪndʒəri/
 核心：伤害、损伤 —— 可数时指身体上一处伤（a head injury）；不可数时指受伤这回事（risk of injury）。
-也比喻对名誉、感情的伤害。injury time（英，足球：伤停补时）并入本条；习语 add insult to injury（雪上加霜）。
+也比喻对名誉、感情的伤害。习语 add insult to injury（雪上加霜）。
 ① He suffered serious head injuries in the crash.
 = 他在车祸中头部受了重伤。
 a head injury = 头部受伤
@@ -235,8 +233,8 @@ do somebody an injustice = 冤枉某人
 ink
 /ɪŋk/
 核心：墨水、油墨 —— 书写、印刷用的有色液体；也指章鱼、乌贼喷出的墨汁。不可数。
-动词 ink：（正式）签署（合同）、给…上墨；ink in 是用墨水描（先用铅笔画好的线）。
-ink pad（印台）、inkjet printer（喷墨打印机）、inkblot test（墨迹测验）并入本条。
+动词 ink：（正式）签署（合同）、给…上墨。
+inkjet printer（喷墨打印机）、inkblot test（墨迹测验）并入本条。
 ① Please fill in the form in black ink and use capital letters.
 = 请用黑色墨水填表，并用大写字母。
 in ink = 用墨水
@@ -259,6 +257,9 @@ an inkjet printer = 喷墨打印机
 ⑦ In an inkblot test, patients describe what they see in random shapes of ink.
 = 在墨迹测验中，病人描述自己从随机墨迹图形里看到了什么。
 an inkblot test = 墨迹测验
+⑧ The artist drew the comic in pencil first and then inked in the lines with a fine black pen.
+= 画家先用铅笔画出漫画，再用细黑笔把线条描上墨。
+ink in = 用墨水描（铅笔稿）；敲定（日期）
 
 inkling
 /ˈɪŋklɪŋ/

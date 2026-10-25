@@ -73,7 +73,7 @@ jazz saxophonists = 爵士萨克斯手
 say
 /seɪ/
 核心：动词（过去式和过去分词 said）：说、讲：say something、say that…、say something to somebody；（文字、钟表、标志）写着、显示：the sign says…；（表示看法）认为、以为：I'd say…；（假设）假如、比方说：say you won…、let's say；（举例）比如：say, ten pounds。名词，单数或不可数：发言权、决定权：have a say in something、have your say。和 tell 的分别：say 后面直接接说的话，tell 后面接人：tell somebody something。
-习语：that is to say 是也就是说；needless to say 是不用说；you can say that again 是你说得太对了；to say the least 是至少可以这么说（往轻里说）；it goes without saying 是不言而喻；when all is said and done 是归根到底；I must say 是说真的、不得不说。say-so 是许可、一句话的授权：on somebody's say-so。形容词 said（法律）是上述的、该：the said property。
+习语：that is to say 是也就是说；needless to say 是不用说；you can say that again 是你说得太对了；to say the least 是至少可以这么说（往轻里说）；it goes without saying 是不言而喻；when all is said and done 是归根到底；I must say 是说真的、不得不说。on somebody's say-so 是凭某人一句话的许可、授权。形容词 said（法律）是上述的、该：the said property。
 ① "I'm really tired after the long journey," she said, and went straight to bed without eating.
 = 「长途旅行后我真的累了。」她说完，饭也没吃就直接上床了。
 say = 说
@@ -300,7 +300,7 @@ a scalding attack = 尖刻的抨击
 
 scale
 /skeɪl/
-核心：名词：规模、程度（单数或不可数）：the scale of the problem、on a large scale；（地图、模型的）比例、比例尺：a scale of 1:50,000、to scale；等级、级别、刻度（可数）：on a scale of 1 to 10、a pay scale；（复数 scales）秤、天平：bathroom scales；（音乐）音阶（可数）；（鱼、蛇的）鳞（可数）；水垢（不可数）。动词：攀登：scale a wall；scale down / up 是缩小 / 扩大（规模）。
+核心：名词：规模、程度（单数或不可数）：the scale of the problem、on a large scale；（地图、模型的）比例、比例尺：a scale of 1:50,000、to scale；等级、级别、刻度（可数）：on a scale of 1 to 10、a pay scale；（复数 scales）秤、天平：bathroom scales；（音乐）音阶（可数）；（鱼、蛇的）鳞（可数）；水垢（不可数）。动词：攀登：scale a wall；扩大（规模）。
 习语：tip the scales 是起决定性作用；economies of scale 是规模经济。
 ① Nobody understood the scale of the problem until the floods reached the city centre.
 = 直到洪水淹到市中心，人们才明白问题有多严重。

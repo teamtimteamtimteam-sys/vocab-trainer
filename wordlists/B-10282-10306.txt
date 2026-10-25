@@ -34,7 +34,7 @@ go
 /ɡəʊ/
 核心：底层只有一句话 —— 离开此处、朝另一处去。位置、状态、过程三头都算，
 所有义项都是这一句的变形：
-一是移动：go to work、go home（home、there、abroad 直接跟，接名词要 go to）。
+一是移动：go to work、go home（home、there、abroad 直接跟，接名词要加 to）。
 二是离开：I must go —— 重心在「不在这儿了」，不在去哪儿。
 三是延伸：路、线、界限通到哪里：the road goes to the coast。
 四是变成，当系动词用，而且多半变坏：go bad、go grey、go mad
@@ -43,7 +43,7 @@ go
 六是耗掉：时间、钱、体力没了：the money goes on rent。
 七是归位：某样东西该放在哪儿：Where do the plates go?
 八是发出声音：the gun went bang。
-九是相配：these colours go、go with something。
+九是相配：these colours go。
 十是 be going to，表打算与预测。
 短语动词几乎全是这四支加一个方向词：出去 out，进去 in / into，回去 back，
 过去 over / through，下去 down，上去 up，绕着 around / round，跟着 along / with，
@@ -311,9 +311,8 @@ a goad = 赶牲口的尖棍
 
 goal
 /ɡəʊl/
-核心：四支。一是球门；二是进球、得分：score a goal；三是目标、目的：set a goal；
-四是做定语，带出一族足球用语：goal kick、goal line、goal area、goal difference、
-goal poacher。形容词 goalless 与名词 goalmouth、goalpost、goalscorer 并入本条。
+核心：三支。一是球门；二是进球、得分：score a goal；三是目标、目的：set a goal。
+形容词 goalless 与名词 goalmouth、goalpost、goalscorer 并入本条。
 第三支在日常英语里比前两支还常用，写目标时跟 aim、objective 大体通用。
 ① He put the ball into an empty goal from near the halfway line.
 = 他从靠近中线的地方，把球打进了空门。
@@ -387,7 +386,7 @@ goat
 核心：三支。一是山羊；二是（口语，贬）讨厌的老家伙：an old goat；
 三是新义 the GOAT —— greatest of all time 的首字母缩写，指史上最强的人，
 多写成大写。习语 get somebody's goat 是惹毛某人。
-名词 goatherd、goatskin 与搭配 goat cheese 并入本条。
+名词 goatherd 与 goatskin 并入本条。
 ① A goat will eat the labels off the tins if you leave the door open.
 = 门一开着，山羊连罐头上的标签都啃。
 a goat = 山羊
@@ -576,8 +575,7 @@ god
 核心：三支，外加一族搭配。一是大写的 God —— 一神教里的神，当专名用，不带冠词；
 二是小写的 a god，多神信仰里的神祇，可数；三是比喻，被奉若神明的人或东西。
 另有 the gods：英式剧院里最高最便宜的那层座位。
-搭配一族全从这里长出来：God-fearing（敬神守礼的）、God-given（天赋的）、
-godsend（天降的好事）、godforsaken（荒僻得像被神遗弃）、godhead（神性）、
+搭配一族全从这里长出来：godsend（天降的好事）、godforsaken（荒僻得像被神遗弃）、godhead（神性）、
 goddam 与 godawful（加重语气的骂法）。
 ① They pray to God twice a day and never mention it to anybody.
 = 他们一天向神祷告两次，从不对人提起。

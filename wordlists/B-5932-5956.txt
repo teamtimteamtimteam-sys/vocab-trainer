@@ -302,9 +302,10 @@ defensive medicine = 防御性医疗
 
 defer
 /dɪˈfɜː(r)/
-核心：两支同形，来源也不同。一是推迟：defer a decision、defer payment，
-名词 deferral；二是听从、让着：defer to somebody，名词 deference 敬重顺从，
-形容词 deferential，副词 deferentially。双写 r：deferred、deferring。
+核心：两支同形，来源也不同。一是推迟：defer a decision、
+defer payment，名词 deferral；二是听从、让着（后接 to），
+名词 deference 敬重顺从，形容词 deferential，副词
+deferentially。双写 r：deferred、deferring。
 ① They deferred the decision twice and then made it in half an hour.
 = 那个决定他们推迟了两次，最后半小时就定了。
 defer a decision = 推迟决定
@@ -390,7 +391,7 @@ a defect = 缺陷（东西本身有毛病）
 deficit
 /ˈdefɪsɪt/
 核心：赤字、差额：支出多于收入的那一块，也说比赛里落后的分差。可数。
-反义是 surplus 盈余。财政语境里还有 deficit spending，指靠借钱来支出的做法。
+反义是 surplus 盈余。
 ① The budget deficit widened for the third year running and the rating agencies noticed.
 = 预算赤字连续第三年扩大，评级机构注意到了。
 a budget deficit = 预算赤字
@@ -450,7 +451,6 @@ definite
 /ˈdefɪnɪt/
 核心：确定的、明确的：说安排、答复、界限清楚无疑。
 副词 definitely 是口语里表示肯定的高频词。
-语法术语 the definite article 指定冠词。
 ① We need a definite date before anybody books flights.
 = 得先有个确定的日期，才谈得上有人订机票。
 a definite date = 确定的日期

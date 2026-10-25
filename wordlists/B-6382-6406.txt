@@ -1,8 +1,9 @@
 discourse
 /ˈdɪskɔːs/（名）/dɪsˈkɔːs/（动）
-核心：三支。一是（正式）论述、谈论：说一场正式的讲话或一篇论说
-（a discourse on something）；二是学术上的「话语」：某个领域里说话的整套方式
-（political discourse）；三是动词（重音在后）「长篇谈论」。
+核心：三支。一是（正式）论述、谈论：说一场正式的讲话或一
+篇论说，论题前用 on；二是学术上的「话语」：某个领域里说
+话的整套方式（political discourse）；三是动词（重音在后）
+「长篇谈论」。
 ① The book is a discourse on method and about a third of it is arithmetic.
 = 那本书是一篇方法论述，其中约三分之一是算术。
 a discourse on something = 关于某题的论述

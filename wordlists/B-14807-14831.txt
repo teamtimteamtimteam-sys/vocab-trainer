@@ -47,8 +47,8 @@ a motocross track = 越野摩托赛道
 motor
 /ˈməʊtə(r)/
 核心：来自拉丁语的「使动者」。名词：发动机、马达，尤指电动的；英式旧说法里也指汽车。
-作定语三层：装了发动机的（motor vehicle）；英式指跟汽车有关的（the motor industry）；
-医学上指管肌肉运动的（motor skills、motor neuron）。
+作定语三层：装了发动机的；英式指跟汽车有关的（the motor industry）；
+医学上指管肌肉运动的（motor skills）。
 动词是英式旧说法：开车出行；口语里指飞快地走。
 跟 engine 的分工：烧油的多叫 engine，用电的多叫 motor。以它打头的复合词并入本条。
 ① The fan is driven by a small electric motor hidden in the base.
@@ -250,7 +250,7 @@ motorway services = 高速公路服务区
 
 motte
 /mɒt/
-核心：（历史）城堡土丘：中世纪早期堆起来的土墩，顶上建木塔或石塔。常见于 motte-and-bailey castle。
+核心：（历史）城堡土丘：中世纪早期堆起来的土墩，顶上建木塔或石塔。
 ① The Normans threw up a motte beside the river within weeks of their arrival.
 = 诺曼人到来后没几个星期，就在河边堆起了一座城堡土丘。
 a motte = 城堡土丘

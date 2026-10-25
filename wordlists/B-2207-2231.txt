@@ -31,7 +31,7 @@ becalmed = 停滞不前（比喻）
 because
 /bɪˈkɒz/
 核心：从属连词，引出原因。它跟别的表因果的词分工很清楚：
-because 后面接完整的句子，because of 后面接名词或动名词——
+because 后面接完整的句子，要接名词或动名词就得加 of——
 这是中文母语者最常写错的一处。
 语气上它是最直白的一个：不像 since 和 as 那样把原因当成
 双方已知的背景，而是把原因当成新信息、当成回答"为什么"。
@@ -457,10 +457,9 @@ the bedrock of = …的根基
 
 bedside
 /ˈbedsaɪd/
-核心：床边那一块地方。最常见的搭配是 bedside table（床头柜）
-和 bedside manner——后者专指医生跟病人打交道的方式，
-说一位医生 has a good bedside manner，
-是说他会安抚人、让人安心，跟医术无关。
+核心：床边那一块地方；作定语时指"放在床边的、
+在床边进行的"。说一位医生 has a good bedside manner，
+是说他跟病人打交道时会安抚人、让人安心，跟医术无关。
 ① A lamp stood on the bedside table beside a book she had not opened.
 = 床头柜上放着一盏灯，旁边是一本她没打开过的书。
 bedside table = 床头柜
