@@ -415,6 +415,7 @@ scootch      scooch         # 另一种拼法；在 scooch 条配等式
 seen         see            # 过去分词；在 see 条配例句
 sent         send           # 过去式、过去分词；在 send 条配例句
 sewn         sew            # 过去分词；在 sew 条配例句
+sexily       sexy           # 副词并进形容词后，前四字母对不上
 selves       self           # 复数（f→ves）；在 self 条配例句
 sera         serum          # 复数；在 serum 条配等式
 seviche      ceviche        # 另一种拼法；在 ceviche 条配等式
