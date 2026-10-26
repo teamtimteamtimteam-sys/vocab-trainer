@@ -458,3 +458,7 @@ skillful     skilful        # 美式拼法；在 skilful 条配例句
 skillfully   skilful        # 美式拼法；副词并进 skilful
 skullduggery skulduggery    # 拼法变体
 skies        sky            # 复数；在 sky 条配例句
+slain        slay           # 过去分词；在 slay 条配例句
+slept        sleep          # 过去式、过去分词；在 sleep 条配例句
+slung        sling          # 过去式、过去分词；在 sling 条配例句
+slunk        slink          # 过去式、过去分词；在 slink 条配例句

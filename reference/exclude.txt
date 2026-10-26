@@ -1703,3 +1703,13 @@ skinnable    # 计算机窄术语（可换皮肤的）
 skipjack     # 窄（鱼名）
 skycap       # 美式窄（机场行李搬运工）
 skeeter      # 美式俚语（蚊子），窄
+# sl- 段（2026-10-26）
+slainte      # 爱尔兰、苏格兰祝酒词，地区词
+slub         # 纺织窄术语（粗节纱）
+slubbed      # 纺织窄术语，同上
+slapper      # 对女性的侮辱词，照「冒犯性标签不收」
+slut         # 对女性的侮辱词，照「冒犯性标签不收」
+sluttish     # 同上
+slant-eyed   # 种族蔑称，照「冒犯性标签不收」
+slit-eyed    # 种族蔑称，同上
+slitty-eyed  # 种族蔑称，同上
