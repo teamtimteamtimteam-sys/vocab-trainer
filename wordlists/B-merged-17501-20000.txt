@@ -1496,6 +1496,7 @@ prepare a room = 收拾出一间屋子
 ② She spent the whole afternoon preparing a meal for twelve people.
 = 她花了一下午给十二个人做饭。
 prepare a meal = 做饭
+说做饭比日常说法正式，菜谱、书面叙述里常见。
 ③ The students are preparing for their final examinations in June.
 = 学生们在为六月的期末考试作准备。
 prepare for something = 为某事作准备
@@ -1530,6 +1531,7 @@ a preponderance of something = 某类占多数
 ② The preponderance of the evidence suggests that the fire was an accident.
 = 证据大多表明那场火是意外。
 the preponderance of the evidence = 证据的大多数
+the preponderance of the evidence 是法律用语，指民事案件里证据占优的证明标准。
 ③ Wheat is the preponderant crop on the plains of the north.
 = 小麦是北方平原上最主要的庄稼。
 preponderant = 占优势的
@@ -2716,6 +2718,7 @@ prevaricate
 ① The minister prevaricated when he was asked whether taxes would rise.
 = 问到会不会加税，部长支吾搪塞。
 prevaricate = 支吾搪塞
+多用于政客、官员面对提问时，新闻报道里常见。
 ② Stop prevaricating and tell me whether you took the money or not.
 = 别绕弯子了，告诉我钱你到底拿没拿。
 stop prevaricating = 别绕弯子
@@ -3091,6 +3094,7 @@ a prim young woman = 拘谨的年轻女子
 ② Their aunt was very prim and proper and never sat with her legs crossed.
 = 他们的姑妈一本正经，从不跷着腿坐。
 prim and proper = 一本正经
+prim and proper 是固定搭配，顺序不能颠倒。
 ③ She wore a prim white blouse buttoned up to the neck.
 = 她穿一件扣子一直扣到脖子的规规矩矩的白衬衫。
 a prim blouse = 规规矩矩的衬衫
@@ -3196,6 +3200,7 @@ primate
 ① Humans share most of their genes with the other primates.
 = 人类的基因大部分跟别的灵长目动物相同。
 a primate = 灵长目动物
+生物学用语，日常说猴子、猿一般不用它。
 ② The zoo has a new house for monkeys and other small primates.
 = 那家动物园给猴子和别的小型灵长目动物盖了新馆。
 small primates = 小型灵长目动物
@@ -3616,6 +3621,7 @@ prioritize
 ① You have too much to do, so you must learn to prioritize.
 = 你要做的事太多，得学会分清轻重缓急。
 prioritize = 分清轻重缓急
+可以不带宾语单用，也可接要优先的事或人作宾语。
 ② The hospital prioritizes patients who have been waiting longest.
 = 那家医院优先处理等得最久的病人。
 prioritize somebody = 优先处理某人
@@ -3727,6 +3733,7 @@ a prisoner = 犯人
 ② The soldiers were taken prisoner on the second day of the battle.
 = 那些士兵在战役的第二天被俘。
 be taken prisoner = 被俘
+take、hold somebody prisoner 里 prisoner 不加冠词。
 ③ The gang held the banker prisoner in a farmhouse for a week.
 = 那伙人把那个银行家在一座农舍里关了一个星期。
 hold somebody prisoner = 把某人关着
@@ -3756,6 +3763,7 @@ pristine
 ① The car is forty years old but still in pristine condition.
 = 那辆车四十年了，车况仍然跟新的一样。
 in pristine condition = 完好如新
+多用于二手物品、旧车的描述，强调保养得好。
 ② She wore a pristine white apron that had clearly never been near a stove.
 = 她系着一条一尘不染的白围裙，显然从没靠近过炉子。
 a pristine apron = 一尘不染的围裙
@@ -4057,6 +4065,7 @@ proactive
 ① The school takes a proactive approach to bullying and does not wait for complaints.
 = 那所学校对欺凌采取主动出击的办法，不等有人投诉。
 a proactive approach = 主动出击的办法
+多见于管理、商务语境，口语里有时被嫌为套话。
 ② Managers must be proactive in finding out what their staff need.
 = 经理得主动去了解员工需要什么。
 be proactive in doing something = 主动做某事
@@ -4111,6 +4120,7 @@ probably forgot = 大概是忘了
 ③ "Are you coming to the meeting?" "Probably not, because I have too much to do."
 = 「你来开会吗？」「多半不来，我事太多。」
 Probably not. = 多半不。
+单独作答时 Probably 表示有七八成把握，比「也许」更有把握。
 ④ He probably will not arrive before midnight if the roads are icy.
 = 路上结了冰的话，他多半半夜前到不了。
 probably will not = 多半不会
@@ -4303,6 +4313,7 @@ proceeding
 ① She has started divorce proceedings against her husband.
 = 她已经对丈夫提起离婚诉讼。
 divorce proceedings = 离婚诉讼
+此义常说「提起」诉讼，对谁提起用 against somebody。
 ② The mayor opened the proceedings with a short speech of welcome.
 = 市长以一篇简短的欢迎词宣布活动开始。
 open the proceedings = 宣布活动开始
@@ -4389,6 +4400,7 @@ a fish processor = 鱼类加工厂
 ③ The new laptop has a faster processor and twice the memory.
 = 新笔记本电脑的处理器更快，内存是原来的两倍。
 a processor = 处理器
+比较好坏常说 faster，指运算速度。
 
 proclaim
 /prəˈkleɪm/
@@ -4405,6 +4417,7 @@ proclaim that = 声称
 ④ Her accent proclaimed that she came from the north.
 = 她的口音表明她是北方人。
 proclaim that = 表明
+此义主语是物，如口音、衣着、标志，表示「一看就知道」，书面语。
 
 proclamation
 /ˌprɒkləˈmeɪʃn/
@@ -4446,6 +4459,7 @@ procreate
 ① The salmon swim up the river to procreate in the place where they were born.
 = 三文鱼逆流而上，回到出生的地方繁殖。
 procreate = 繁殖
+多用于生物学或宗教、伦理讨论，日常说「生孩子」不用这个词。
 ② The church taught that the purpose of marriage was to procreate.
 = 那个教会教导说婚姻的目的是生儿育女。
 the purpose is to procreate = 目的是生儿育女
@@ -4470,6 +4484,7 @@ proctor
 ① The proctor collected the papers as soon as the bell rang.
 = 铃一响，监考人就把卷子收了。
 a proctor = 监考人
+只负责在考场看着考生、防止作弊，不出题也不判卷。
 ② Two graduate students proctored the exam in the main hall.
 = 两名研究生在大厅里监考。
 proctor an exam = 监考
@@ -4507,6 +4522,7 @@ prod at something = 戳某物
 ③ The newspapers finally prodded the council into mending the road.
 = 报纸终于把镇议会催得动手修路了。
 prod somebody into doing something = 催得某人做某事
+也可接 to do；指一再提醒、推一把，口气不算强迫。
 ④ He gave the sleeping dog a gentle prod with his foot.
 = 他用脚轻轻捅了一下睡着的狗。
 a gentle prod = 轻轻一捅
@@ -33519,6 +33535,7 @@ roundabout
 ① Take the second exit at the roundabout and the hotel is on your left after about a mile.
 = 在环岛走第二个出口，再走大约一英里，酒店就在你左手边。
 a roundabout = 环岛
+英国车靠左行，进环岛时要让右边来车，并顺时针绕行。
 ② The little children took turns on the roundabout in the park while their parents pushed it.
 = 小孩子们在公园里轮流坐转盘，家长们在旁边推。
 the roundabout in a playground = 游乐场的转盘
@@ -33538,6 +33555,7 @@ rounded edges = 圆角
 ② The school aims to give every pupil a rounded education with plenty of music, sport and art.
 = 那所学校的目标是给每个学生全面的教育，音乐、体育和美术都不少。
 a rounded education = 全面的教育
+多修饰教育、人格、经历等，带赞许口气。
 ③ After five years in the barrel, the wine has a rich, rounded flavour that goes well with lamb.
 = 在桶里放了五年之后，这款葡萄酒风味浓郁醇厚，很配羊肉。
 a rounded flavour = 醇厚的风味
@@ -33659,6 +33677,7 @@ rousing
 ① The captain gave a rousing speech in the dressing room, and the team went out and won the second half.
 = 队长在更衣室里作了一番鼓舞人心的讲话，球队出去后赢下了下半场。
 a rousing speech = 鼓舞人心的讲话
+多修饰讲话、歌曲、欢呼等能调动情绪的东西，褒义。
 ② The returning soldiers were given a rousing welcome by the whole town when their train arrived.
 = 归来的士兵们乘坐的火车到站时，全镇人热烈欢迎他们。
 a rousing welcome = 热烈的欢迎
@@ -34263,6 +34282,7 @@ the rubric of an exam paper = 试卷说明
 ② The teacher gave us a rubric that showed exactly how many marks each part of the essay was worth.
 = 老师给了我们一份评分标准，写明作文的每一部分各占多少分。
 a marking rubric = 评分标准
+这一义在美式教育里常见，指列出各项评分要点的表格。
 ③ Several very different projects were grouped together under the rubric of urban renewal.
 = 几个差别很大的项目被归在「城市更新」这个名目下。
 under the rubric of something = 在某名目下
@@ -34561,6 +34581,7 @@ rugged
 ① The rugged mountains in the north are difficult to cross, even in summer.
 = 北部的崎岖山区即使在夏天也很难翻越。
 rugged = 崎岖的
+这一义多修饰山地、海岸、乡野这类自然地形，带壮美的意味。
 ② We walked along the rugged coastline for three days, sleeping in small villages every night.
 = 我们沿着崎岖的海岸线走了三天，每晚都住在小村子里。
 a rugged coastline = 崎岖的海岸线
@@ -36310,6 +36331,7 @@ sadness
 ① There was great sadness in the village when the old doctor died after fifty years of work there.
 = 那位在村里行医五十年的老医生去世时，全村人都很悲伤。
 sadness = 悲伤
+不可数时前面不加 a；表示深重的悲伤常用 great 修饰。
 ② Leaving home for university was a mixture of excitement and sadness for both of us.
 = 离家上大学，对我们俩来说都是兴奋和伤感交织。
 a mixture of excitement and sadness = 兴奋与伤感交织
@@ -36373,6 +36395,7 @@ safe from 是「免受……伤害」，主语可以是人，也可以是东西�
 ② Is it safe to swim in the river, or is the water too dirty?
 = 在那条河里游泳安全吗？还是水太脏了？
 it is safe to do something = 做某事是安全的
+这个句型里也可加 for somebody，放在 to do 前面。
 ③ After three days lost in the mountains, the climbers came home safe and sound.
 = 在山里迷路三天之后，登山者们安然无恙地回到了家。
 safe and sound = 安然无恙
@@ -36408,6 +36431,7 @@ safety = 安全（名词）
 ⑬ The thieves broke into the office at night and opened the safe with a drill.
 = 窃贼夜里闯进办公室，用钻头撬开了保险柜。
 a safe = 保险柜
+名词 a safe 可数，指装贵重物品的铁箱、铁柜，常说 open the safe。
 ⑭ The witness was kept in a safe house in the country until the trial was over.
 = 那位证人一直被安置在乡下的一处安全屋里，直到审判结束。
 a safe house = 安全屋
@@ -36467,6 +36491,7 @@ safety 作定语前置于另一个名词，构成 food safety、fire safety、sa
 ④ The firefighters carried the old man to safety through the thick black smoke on the third floor.
 = 消防员穿过三楼浓浓的黑烟，把老人抬到了安全的地方。
 carry somebody to safety = 把某人送到安全的地方
+to safety 前多接表示移动的动词，说把人带到安全处。
 ⑤ A safe road is one you can cross safely, so the council built a crossing near the school.
 = 安全的路是能安全过马路的路，所以市政在学校附近修了人行横道。
 safe = 安全的（形容词）
@@ -36803,6 +36828,7 @@ a saint = 圣徒
 ② You have been a saint, looking after my children all week while I was in hospital.
 = 我住院那一个星期，你一直帮我照看孩子，真是个大好人。
 be a saint = 是个大好人
+此义口语，常用来感谢别人帮了大忙，带夸张语气。
 ③ The village holds a market on its saint's day every year in the middle of June.
 = 那个村子每年六月中旬的圣徒纪念日都有集市。
 a saint's day = 圣徒纪念日
@@ -36911,6 +36937,7 @@ salad
 = 我午饭通常在办公桌前吃一份配奶酪和番茄的沙拉。
 salad = 沙拉
 a green salad = 蔬菜沙拉
+泛指沙拉时不可数；说一份、一盘时可数，如本句 a salad。
 ② For dessert my mother served a big bowl of fruit salad with fresh cream.
 = 我妈妈端上一大碗水果沙拉配鲜奶油当甜点。
 fruit salad = 水果沙拉
@@ -37215,6 +37242,7 @@ a witty sally = 俏皮话
 ③ After breakfast we sallied forth to explore the old town with a map and an umbrella.
 = 早饭后，我们带着地图和雨伞兴冲冲地出发去逛老城。
 sally forth = 出发、兴冲冲地出去
+带幽默或文学色彩，常用于把一次普通出门说得像出征一样。
 ④ The children sallied out into the snow as soon as their mother opened the door.
 = 妈妈一开门，孩子们就冲到雪地里去了。
 sally out = 冲出去
@@ -37225,6 +37253,7 @@ salmon
 ① The salmon swim hundreds of miles up the river every autumn to lay their eggs.
 = 每年秋天，鲑鱼逆流而上游几百英里去产卵。
 salmon = 鲑鱼
+指一群鱼时谓语用复数，如例句中的 swim；指一条时才用单数。
 ② We had grilled salmon with new potatoes and green beans for dinner on Friday.
 = 星期五晚饭我们吃了烤三文鱼，配新土豆和四季豆。
 grilled salmon = 烤三文鱼
@@ -37265,6 +37294,7 @@ a saloon = （英式）轿车
 ② In the old western, the cowboys rode into town and went straight to the saloon for a drink.
 = 那部老西部片里，牛仔们骑马进城，直奔酒馆去喝酒。
 a saloon = （美国西部的）酒馆
+这一义带美国旧西部色彩，今天美国一般不再这样称酒吧。
 ③ Passengers sat in the ship's saloon, playing cards and drinking tea as the sea grew rough.
 = 海浪渐大，乘客们坐在客轮大厅里打牌喝茶。
 the ship's saloon = 客轮大厅
@@ -37419,6 +37449,7 @@ salty = 咸的
 ② The old sailor told salty stories about his years at sea that made everyone laugh.
 = 老水手讲起他在海上那些年的故事，粗俗又风趣，大家听得哈哈大笑。
 salty stories = 粗俗风趣的故事
+这一义多修饰语言、故事、幽默，常用来说水手、老兵一类人的谈吐。
 ③ The sea air was cold and salty, and we could hear the waves breaking on the rocks below.
 = 海风又冷又带咸味，我们听得见下面礁石上浪花拍打的声音。
 salty air = 带咸味的空气
@@ -37592,6 +37623,7 @@ the same as = 和…一样
 ③ He ordered fish and chips, and I decided to have the same.
 = 他点了炸鱼薯条，我决定也要一样的。
 have the same = 要一样的
+这里 same 是代词，the 不能省。
 ④ I know it was not your fault, but thank you all the same for saying sorry.
 = 我知道那不是你的错，不过还是谢谢你道歉。
 all the same = 尽管如此
@@ -37732,6 +37764,7 @@ sampling = 抽样、取样
 ② Some musicians complain that sampling lets other people make money from their old songs.
 = 有些音乐人抱怨，采样让别人拿他们的老歌赚钱。
 sampling = （音乐）采样
+指截取别人录音的片段用在新作品里，常涉及版权问题。
 ③ The survey has a sampling error of three per cent, so the two parties are really level.
 = 那项民调有百分之三的抽样误差，所以两党其实不相上下。
 sampling error = 抽样误差
@@ -37873,6 +37906,7 @@ the sands = 沙滩
 ④ Before we moved in, we sanded the old floorboards in every room and then painted them white.
 = 搬进去之前，我们用砂纸把每个房间的旧地板都打磨了一遍，然后刷成白色。
 sand something = 用砂纸打磨某物
+动词多用于木地板、木家具，打磨之后通常还要上漆。
 ⑤ You cannot just bury your head in the sand and hope that the debts will go away.
 = 你不能逃避现实，指望那些债务会自己消失。
 bury your head in the sand = 逃避现实
@@ -37935,6 +37969,7 @@ sandbag something = 用沙袋堵某物
 ③ He was accused of sandbagging, playing badly in the early rounds so that he would get an easier opponent later.
 = 他被指故意藏实力：前几轮打得很差，好让后面碰上容易的对手。
 sandbagging = （北美口语）故意隐藏实力
+多用于体育比赛和商业谈判，指为了后来占便宜而先示弱。
 
 sandbank
 /ˈsændbæŋk/
@@ -38070,6 +38105,7 @@ a packet of sandwiches = 一包三明治
 ③ My little car was sandwiched between two huge lorries in the traffic jam.
 = 堵车时，我的小车被夹在两辆大卡车中间。
 be sandwiched between = 被夹在……中间
+多用被动，含挤得很紧、几乎没有空隙的意思。
 ④ The tiny shop is sandwiched between a bank and a big supermarket on the high street.
 = 那家小店夹在大街上一家银行和一家大超市中间。
 sandwich between = 夹在……中间
@@ -39097,6 +39133,7 @@ a sausage roll = （英式）香肠卷
 ③ Mix the sausage meat with onions and herbs to make the stuffing for the turkey.
 = 把香肠肉馅和洋葱、香草拌在一起，做火鸡的填料。
 sausage meat = 香肠肉馅
+sausage meat 不可数，指还没灌进肠衣的肉馅。
 ④ Our neighbours have a little sausage dog that barks at every car that drives past.
 = 我们邻居养了一条小腊肠狗，见车经过就叫。
 a sausage dog = （英式口语）腊肠狗
@@ -39136,6 +39173,7 @@ savage cuts = 大幅削减
 ④ A woman was savaged by a dog in the park and needed thirty stitches.
 = 一名女子在公园里被狗撕咬，缝了三十针。
 be savaged by a dog = 被狗撕咬
+这一义多用被动，主语是被咬的人，施动者常是狗。
 ⑤ The critics savaged his new novel, calling it boring and badly written.
 = 评论家猛烈抨击他的新小说，说它乏味、写得差。
 savage something = 猛烈抨击某物
@@ -39707,6 +39745,7 @@ the scale of the problem = 问题的严重程度
 ② Farmers in the area grow rice on a large scale and sell it all over the country.
 = 那一带的农民大规模种植水稻，卖到全国各地。
 on a large scale = 大规模地
+介词用 on，不用 in。
 ③ The walking map we bought in the village has a scale of one centimetre to one kilometre.
 = 我们在村里买的那张徒步地图，比例是一厘米代表一公里。
 scale = 比例
@@ -39719,6 +39758,7 @@ on a scale of one to ten = 按一到十分
 ⑥ I stand on the bathroom scales every morning to check my weight.
 = 我每天早上站到浴室的秤上称体重。
 scales = 秤
+英式多用复数 scales，美式常用单数 a scale。
 ⑦ The children practise their scales on the piano for ten minutes before every lesson.
 = 孩子们每节课前都在钢琴上练十分钟音阶。
 practise scales = 练音阶
@@ -40105,6 +40145,7 @@ scare
 = 外面街上那声巨响吓着了宝宝，她哭了起来。
 scare = 吓
 scare somebody = 吓着某人
+多指突然一下的惊吓，口语常用；被吓到的人作宾语。
 ② She is scared of spiders and screams whenever she sees one in the bath.
 = 她怕蜘蛛，每次在浴缸里看到一只就尖叫。
 be scared of = 害怕

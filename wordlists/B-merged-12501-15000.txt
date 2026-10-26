@@ -405,6 +405,7 @@ invalidate
 ① Any handwritten change to the signed document will invalidate it in the eyes of the court.
 = 对签过字的文件做任何手写改动，在法庭看来都会使它失效。
 invalidate something = 使…无效
+多用于法律、合同、证件等正式语境；主语常是某个行为或事实，而不是人。
 ② New evidence from the ancient bones invalidated the old theory about the first farmers.
 = 那些古骨提供的新证据，推翻了关于最早农民的旧理论。
 invalidate a theory = 推翻一个理论
@@ -534,6 +535,7 @@ inventive
 ① She is an inventive cook who never follows a recipe exactly.
 = 她是个很有创意的厨师，从不照搬食谱。
 an inventive cook = 有创意的厨师
+既可形容人，也可形容做法、想法本身，表示新颖巧妙。
 ② The old warehouse has been inventively turned into a theatre.
 = 那座旧仓库被别出心裁地改成了剧院。
 inventively = 别出心裁地
@@ -710,6 +712,7 @@ an investment = 一项投资
 ③ Learning a language is a big investment of time and effort.
 = 学一门语言需要投入大量的时间和精力。
 an investment of time = 时间的投入
+暗含日后会有回报，不只是单纯花掉时间和精力。
 ④ He worked for an investment bank in London for ten years.
 = 他在伦敦一家投资银行工作了十年。
 an investment bank = 投资银行
@@ -1006,6 +1009,7 @@ involvement
 ① The police are investigating his involvement in the robbery.
 = 警方正在调查他与那起抢劫案的牵连。
 involvement in something = 参与…
+说参与犯罪等坏事时语气偏重，相当于「牵连、卷入」，新闻里常见。
 ② Research shows that parental involvement in primary schools helps children do better at reading.
 = 研究表明，家长参与小学事务能帮助孩子提高阅读能力。
 parental involvement = 家长参与
@@ -1019,6 +1023,7 @@ invulnerable
 ① In the legend, the hero is invulnerable except for one spot on his heel.
 = 传说中，那位英雄除了脚后跟上的一处以外刀枪不入。
 be invulnerable = 刀枪不入
+多作表语，后接 to something，表示「不受…伤害」。
 ② The party's huge majority makes it almost invulnerable at the next election.
 = 那个党的巨大多数席位让它在下次选举中几乎立于不败之地。
 almost invulnerable = 几乎无懈可击
@@ -1328,6 +1333,7 @@ do the ironing = 熨衣服
 ② There's a huge pile of ironing waiting for me in the bedroom.
 = 卧室里有一大堆衣服等着我熨。
 a pile of ironing = 一堆要熨的衣服
+这一义指一堆衣物，仍不可数，不说 ironings。
 ③ She set up the ironing board in the kitchen.
 = 她在厨房里支起了熨衣板。
 an ironing board = 熨衣板
@@ -1981,6 +1987,7 @@ isolationism
 ① American isolationism kept the country out of the war until 1941.
 = 美国的孤立主义让它直到一九四一年才参战。
 isolationism = 孤立主义
+不可数，前面不加 a；多用于讨论美国等国的外交史。
 ② Isolationists in parliament voted against sending troops abroad.
 = 议会里的孤立主义者投票反对向国外派兵。
 an isolationist = 孤立主义者
@@ -2011,6 +2018,7 @@ isometric exercises = 等长练习
 ② The architect showed us an isometric drawing of the new kitchen.
 = 建筑师给我们看了新厨房的等轴测图。
 an isometric drawing = 等轴测图
+绘图义里线条按同一比例画，不带透视，常见于建筑、工程图和游戏画面。
 ③ After the injury, her physiotherapist started her on gentle isometrics.
 = 受伤后，她的理疗师让她从轻柔的等长练习开始。
 isometrics = 等长练习
@@ -2093,6 +2101,7 @@ have issues with something = …有毛病（口语）
 ⑦ The government issued a warning about the heatwave.
 = 政府发出了热浪预警。
 issue a warning = 发出警告
+动词 issue 多用于官方、机构正式发出，主语常是政府、公司；日常说「发」一般不用它。
 ⑧ All visitors are issued with a pass at the front desk.
 = 所有访客都在前台领到一张通行证。
 be issued with something = 领到…
@@ -2186,6 +2195,7 @@ an Italian = 意大利人
 ③ She is learning Italian because she wants to study music in Rome.
 = 她在学意大利语，因为她想去罗马学音乐。
 Italian = 意大利语
+语言名不加冠词，首字母永远大写。
 
 Italianate
 /ɪˈtæliəneɪt/
@@ -2203,6 +2213,7 @@ italic
 ① The titles of books are usually printed in italic type.
 = 书名通常用斜体印刷。
 italic type = 斜体字
+英文排版里书名、外来词常用斜体，手写时可改为加下划线。
 ② The foreign words in the text are in italics.
 = 文中的外来词用的是斜体。
 in italics = 用斜体
@@ -2428,12 +2439,14 @@ the jack of hearts = 红桃J
 = 把耳机插进电脑侧面的插孔里。
 a headphone jack = 耳机插孔
 a jack plug = 插头
+指插孔的这一支可数，在电器、音响说明里很常见，前面常加表示用途的名词。
 ④ They jacked up the car so they could look underneath it.
 = 他们用千斤顶把车顶起来，好看看车底。
 jack up a car = 用千斤顶顶起汽车
 ⑤ The hotels jack up their prices during the festival.
 = 节日期间各家酒店都会抬高价格。
 jack up prices = 抬高价格
+这一用法带贬义，暗示涨得不合理、趁机抬价。
 ⑥ He jacked in his job at the bank to become a musician.
 = 他辞掉了银行的工作去当音乐人。
 jack something in = （英，俚）放弃
@@ -2796,6 +2809,7 @@ a traffic jam = 交通堵塞
 ③ The window has jammed, and I can't open it.
 = 窗户卡住了，我打不开。
 jam = 卡住
+这个义项多为不及物，主语是门、窗、机器；也常说 be jammed。
 ④ He jammed his clothes into a bag and ran for the train.
 = 他把衣服胡乱塞进包里，跑去赶火车。
 jam something into something = 把…硬塞进…
@@ -4084,6 +4098,7 @@ jitters
 ① I always get the jitters before I have to speak in public.
 = 我每次要在公众面前讲话前都会紧张。
 get the jitters = 紧张起来
+前面必须带 the，不说 get jitters；多指上场、考试、讲话前的紧张。
 ② The news of the crisis gave the markets the jitters.
 = 危机的消息让市场惶惶不安。
 give somebody the jitters = 使某人紧张不安
@@ -4221,6 +4236,7 @@ jobless
 ① The number of jobless people in the region has doubled in two years.
 = 那个地区的失业人数两年里翻了一番。
 jobless people = 失业者
+既可作定语放在名词前，也可作表语放在 be 后。
 ② The government announced new training schemes for the jobless.
 = 政府宣布了面向失业者的新培训计划。
 the jobless = 失业者（总称）
@@ -4288,6 +4304,7 @@ jocular
 ① He made a jocular remark about the boss's new haircut.
 = 他拿老板的新发型打了个趣。
 a jocular remark = 打趣的话
+多修饰说出的话和语气，带善意的打趣，不含挖苦。
 ② "You're late again," she said jocularly, pointing at her watch.
 = 「你又迟到了。」她指着手表打趣地说。
 jocularly = 打趣地
@@ -4483,6 +4500,7 @@ a joint of beef = （英）一大块带骨牛肉
 ④ They opened a joint account when they got married.
 = 他们结婚时开了一个联名账户。
 a joint account = 联名账户
+joint 作「共同的」只能放在名词前作定语，不能作表语。
 ⑤ The report was a joint effort by teachers and parents.
 = 那份报告是老师和家长共同努力的成果。
 a joint effort = 共同努力
@@ -4633,6 +4651,7 @@ jolt
 ① The bus jolted along the rough mountain road.
 = 公交车在崎岖的山路上颠簸前行。
 jolt along = 颠簸前行
+作不及物动词时主语是车辆本身；也可作及物动词，指把车上的人颠得一晃。
 ② The plane landed with a jolt that woke all the passengers.
 = 飞机着陆时猛地一震，把所有乘客都震醒了。
 with a jolt = 猛地一震
@@ -5103,6 +5122,7 @@ judicial
 ① The country has an independent judicial system.
 = 那个国家有独立的司法制度。
 the judicial system = 司法制度
+只作定语，放在名词前。
 ② The group asked for a judicial review of the government's decision.
 = 那个团体要求对政府的决定进行司法审查。
 a judicial review = 司法审查
@@ -5156,6 +5176,7 @@ a jug = 壶
 ② We ordered a jug of water for the table.
 = 我们给这桌点了一壶水。
 a jug of water = 一壶水
+可数，说几壶用 two jugs of water；比 jugful 更常用。
 ③ He drank two jugfuls of beer and fell asleep in his chair.
 = 他喝了两大壶啤酒，在椅子上睡着了。
 a jugful = 一壶的量
@@ -5183,6 +5204,7 @@ juggle balls = 抛接球
 ② She juggles a full-time job with looking after three children.
 = 她一边做全职工作，一边照顾三个孩子。
 juggle A with B = 同时应付A和B
+常带忙得团团转的意味；也可直接接复数宾语，不一定用 with。
 ③ The accountant had juggled the figures to hide the losses.
 = 那个会计篡改了数字来掩盖亏损。
 juggle the figures = 篡改数字
@@ -5372,6 +5394,7 @@ jump the queue = （英）插队
 ⑥ Don't jump to conclusions; we don't know yet who broke the window.
 = 别急着下结论，我们还不知道是谁打破了窗户。
 jump to conclusions = 急着下结论
+conclusions 用复数，前面不加 the。
 ⑦ She jumped at the chance to work in Paris for a year.
 = 她欣然抓住了去巴黎工作一年的机会。
 jump at something = 欣然接受…
@@ -5521,6 +5544,7 @@ the concrete jungle = 钢筋水泥的城市
 ④ The tax system is a jungle of rules that few people understand.
 = 税制是一团乱麻般的规则，没几个人弄得懂。
 a jungle of something = 乱麻般的…
+比喻义带贬义，多指规则、文件等多而乱，让人理不清。
 ⑤ The children were climbing on the jungle gym in the playground.
 = 孩子们在操场的攀爬架上爬来爬去。
 a jungle gym = （美）攀爬架
@@ -5533,9 +5557,11 @@ junior
 ① She started as a junior clerk and became a director within ten years.
 = 她从初级职员做起，十年内当上了董事。
 a junior clerk = 初级职员
+作定语多放在职位名词前，说的是级别，不是年龄。
 ② He is three years my junior but has much more experience.
 = 他比我小三岁，经验却丰富得多。
 be three years somebody's junior = 比某人小三岁
+这种说法较正式，口语里多直接说小几岁；注意用所有格 my 加 junior。
 ③ She is a junior at Yale, studying history.
 = 她在耶鲁读大三，学历史。
 a junior = （美）三年级学生
@@ -5574,6 +5600,7 @@ junk
 ① The garage is full of old junk that we never use.
 = 车库里塞满了我们从来不用的旧破烂。
 old junk = 旧破烂
+不可数，不加 a、不用复数；a junk 指的是帆船。
 ② We should junk these plans and start again.
 = 我们应该扔掉这些方案，重新开始。
 junk something = （口语）扔掉…
@@ -5595,6 +5622,7 @@ junk science = 伪科学
 ⑧ Chinese junks with red sails crossed the harbour.
 = 挂着红帆的中国式帆船驶过港湾。
 a junk = （中国式）平底帆船
+这个意思可数，复数 junks；与「破烂」义来源不同，不要混为一谈。
 
 junker
 /ˈdʒʌŋkə(r)/
@@ -5625,6 +5653,7 @@ a junkie = 吸毒成瘾者
 ② He's a real news junkie who checks the headlines every ten minutes.
 = 他是个十足的新闻迷，每十分钟就看一次头条。
 a news junkie = 新闻迷
+a news junkie 这类说法是名词加 junkie 的谑称，不带「吸毒」的贬义。
 ③ The old junky begged for change outside the station.
 = 那个老瘾君子在车站外讨零钱。
 a junky = 瘾君子（junkie 的另一种拼法）
@@ -6321,6 +6350,7 @@ a karaoke night = 卡拉OK之夜
 ③ He sang an old Elvis song at the office karaoke.
 = 他在公司的卡拉OK上唱了一首猫王的老歌。
 karaoke = 卡拉OK
+单独用时是不可数名词，说「去唱卡拉OK」不加 a。
 
 karat
 /ˈkærət/
@@ -6339,6 +6369,7 @@ karate
 ① After ten years of training three times a week, she has a black belt in karate.
 = 每周训练三次，练了十年，她拿到了空手道黑带。
 a black belt in karate = 空手道黑带
+作运动名称时不可数，前面不加 a 或 the。
 ② In front of the whole school, he broke the thick wooden board with a single karate chop.
 = 当着全校的面，他用一记空手道劈掌劈断了那块厚木板。
 a karate chop = 空手道劈掌
@@ -6372,6 +6403,7 @@ a kart = 卡丁车
 ② Many racing drivers started their careers in karting.
 = 许多赛车手的职业生涯是从卡丁车运动起步的。
 karting = 卡丁车运动
+指车本身时可数，karting 指这项运动时不可数，别混用。
 ③ He celebrated his birthday with a karting party for ten friends.
 = 他请了十个朋友开卡丁车来庆祝生日。
 a karting party = 卡丁车派对
@@ -6425,6 +6457,7 @@ paddle a kayak = 划皮划艇
 ② They kayaked down the river for three days.
 = 他们划皮划艇顺河而下，划了三天。
 kayak = 划皮划艇
+作动词时是不及物的，后面常接表示方向的介词短语，如 down the river。
 ③ Sea kayaking is popular along this part of the coast.
 = 海上皮划艇在这一带海岸很流行。
 kayaking = 皮划艇运动
@@ -6468,6 +6501,7 @@ a lamb kebab = 羊肉串
 ② He bought a doner kebab on the way home from the pub.
 = 他从酒馆回家的路上买了一份土耳其烤肉。
 a doner kebab = 土耳其烤肉
+在英国这是酒馆散场后典型的夜宵，口语里常省作 kebab。
 ③ The diner near the highway serves a beef kabob with rice and salad for nine dollars.
 = 公路边那家小餐馆卖牛肉串配米饭和沙拉，九美元一份。
 a kabob = （美）烤肉串
@@ -6694,6 +6728,7 @@ in keeping with something = 与…一致
 ③ She left her jewellery with a neighbour for safe keeping.
 = 她把首饰交给一位邻居代为保管。
 for safe keeping = 妥善保管
+keeping 在这里不可数，前面不加 a；常放句末说明交出某物的目的。
 
 keepsake
 /ˈkiːpseɪk/
@@ -8686,6 +8721,7 @@ a knight = （国际象棋）马
 ④ The actor was knighted by the queen in 2005.
 = 那位演员二〇〇五年被女王封为爵士。
 be knighted = 被封为爵士
+多用被动 be knighted；获封后称呼时 Sir 后接名字，不能只接姓。
 ⑤ He was given a knighthood for services to music.
 = 他因对音乐的贡献获封爵士。
 a knighthood = 爵士头衔
@@ -8742,6 +8778,7 @@ turn the knob = 拧旋钮
 ③ Add a knob of butter to the pan before you fry the eggs.
 = 煎鸡蛋之前先往锅里放一小块黄油。
 a knob of butter = （英）一小块黄油
+这一义只用于黄油这类软而能挖成小块的东西，常见于菜谱。
 ④ The old man had knobbly knees and thin legs.
 = 那位老人膝盖骨突出，腿很细。
 knobbly knees = 骨节突出的膝盖
@@ -8930,6 +8967,7 @@ a knot in your stomach = 胃里发紧
 = 那艘船触礁时正以二十节的速度航行。
 twenty knots = 二十节
 一节是每小时一海里。
+本身就是速度单位，后面不再加「每小时」。
 ⑦ She knotted a silk scarf around her neck before going out.
 = 她出门前在脖子上系了一条丝巾。
 knot a scarf = 系围巾
@@ -12661,6 +12699,7 @@ lax
 ① Security at the airport was lax, and nobody checked our bags.
 = 机场的安检很松，没人检查我们的包。
 lax security = 松懈的安保
+多修饰安保、管理、规定等，带批评口气。
 ② The school has a lax attitude to homework.
 = 那所学校对家庭作业的态度很松。
 a lax attitude = 松懈的态度
@@ -12874,6 +12913,7 @@ layperson
 ① The guide is written for the layperson, not the expert.
 = 那本指南是写给外行看的，不是给专家看的。
 the layperson = 外行
+the layperson 泛指一般外行人，跟 the expert 相对；常说 for the layperson。
 ② The committee is made up of three doctors and two laypeople.
 = 委员会由三名医生和两名非专业人士组成。
 laypeople = layperson 的复数
@@ -12897,6 +12937,7 @@ laze
 ① We spent the day lazing around on the beach.
 = 我们一整天都在海滩上懒洋洋地躺着。
 laze around = 懒散地闲待着
+不及物，后面常接表示地点的介词短语，如 on the beach。
 ② The cat lazed in the sun on the kitchen windowsill.
 = 那只猫在厨房窗台上晒着太阳犯懒。
 laze in the sun = 晒着太阳犯懒
@@ -13256,6 +13297,7 @@ leak from something = 从…里漏出来
 ③ Someone in the office leaked the report to a newspaper.
 = 办公室里有人把那份报告泄露给了一家报纸。
 leak something to somebody = 把…泄露给某人
+这一义主语是人，多是故意泄露；leak out 的主语则是消息本身。
 ④ News of the sale leaked out before the company was ready to announce it.
 = 公司还没准备好宣布，出售的消息就走漏了。
 leak out = （消息）走漏
@@ -13333,6 +13375,7 @@ your heart leaps（心头一喜）。
 ① The dog leapt over the fence and ran across the field.
 = 那条狗跃过篱笆，跑过了田野。
 leap over a fence = 跃过篱笆
+英式多用 leapt，美式多用 leaped。
 ② She leapt out of bed when she saw the time.
 = 她一看时间，从床上跳了起来。
 leap out of bed = 从床上跳起来
@@ -13351,6 +13394,7 @@ in a single leap = 一跃
 ⑦ There has been a big leap in the number of people working from home.
 = 在家办公的人数大幅增加。
 a leap in something = …的剧增
+a leap in 后接数字、数量，强调增得又快又猛，多用单数。
 ⑧ Her English has improved by leaps and bounds since she moved to London.
 = 自从搬到伦敦，她的英语突飞猛进。
 by leaps and bounds = 突飞猛进
@@ -13613,6 +13657,7 @@ leave something to somebody = 把…交给某人
 ⑦ There is only a little milk left in the fridge.
 = 冰箱里只剩一点牛奶了。
 be left = 剩下
+常用 there is ... left 句型，left 放在名词后面。
 ⑧ Her aunt left her the house and all the furniture.
 = 她姑妈把那座房子和全部家具都留给了她。
 leave somebody something = 把…遗赠给某人
@@ -13647,6 +13692,7 @@ leave a lot to be desired = 很不理想
 ⑱ Her brother is home on leave from the army for two weeks.
 = 她哥哥从部队休假回家两个星期。
 on leave = 在休假
+这里 leave 不可数，不说 a leave；多用于军人、公职人员。
 ⑲ She is taking six months' maternity leave after the baby is born.
 = 孩子出生后，她要休六个月产假。
 maternity leave = 产假
@@ -13732,6 +13778,7 @@ have a lecture = 有课
 ③ My father gave me a lecture about wasting money.
 = 我父亲训了我一顿，说我乱花钱。
 a lecture about something = 关于…的训斥
+带贬义，被训的人嫌对方啰嗦；常说 give somebody a lecture。
 ④ He lectures in history at the University of Leeds.
 = 他在利兹大学讲授历史。
 lecture in history = 讲授历史
@@ -14051,9 +14098,11 @@ legal
 ① You should take legal advice before you sign anything.
 = 签任何东西之前，你都应该先听听律师的意见。
 legal advice = 法律意见
+这个义项只放名词前，说的是「与法律有关」，和合法与否无关。
 ② Is it legal to park on this side of the street?
 = 在街的这一边停车合法吗？
 be legal = 合法
+常用 it is legal to do something 句型。
 ③ The company is legally required to keep the records for six years.
 = 法律要求那家公司把记录保存六年。
 legally required = 法律要求的
@@ -14167,6 +14216,7 @@ the legend of Robin Hood = 罗宾汉的传说
 ③ She became a legend in her own lifetime.
 = 她在世时就成了传奇人物。
 a legend = 传奇人物
+可用于在世的人，指某领域里人人知道的人物，如体育、音乐界。
 ④ The legend at the bottom of the map explains the symbols.
 = 地图底部的图例解释了各种符号。
 the legend of a map = 地图的图例
@@ -14266,6 +14316,7 @@ legislate against something = 立法禁止…
 ③ You cannot legislate for every possible accident.
 = 你不可能为每一种可能的事故都定好规矩。
 legislate for something = 为…立法、预先作规定
+常与 cannot 连用，表示法律管不到所有情况，带「不可能面面俱到」的语气。
 ④ State legislators voted to raise the age for buying cigarettes.
 = 州议员投票决定提高买香烟的年龄。
 a legislator = 立法者、议员
@@ -15200,6 +15251,7 @@ level
 ① The level of noise in the factory is dangerous for the workers' hearing.
 = 那家工厂的噪音水平对工人的听力有危险。
 the level of noise = 噪音水平
+说程度高低时不用 big、small 来修饰这一义。
 ② The river rose to its highest level for fifty years.
 = 那条河涨到了五十年来的最高水位。
 the highest level = 最高水位
@@ -15218,6 +15270,7 @@ level ground = 平地
 ⑦ The top of the wall is level with my shoulders.
 = 墙头和我的肩膀一样高。
 level with something = 与…齐平
+这里 level with 作表语，强调高度相同；与 ⑮ 的口语用法形同义别，要看上下文。
 ⑧ The two teams were level at half-time.
 = 中场休息时两队比分持平。
 be level = 比分持平
@@ -15283,6 +15336,7 @@ a lever = 撬棍、杠杆
 ③ The threat of a strike gave the union a lever in the pay talks.
 = 罢工的威胁让工会在工资谈判中有了施压的筹码。
 a lever in the talks = 谈判中的筹码
+比喻义偏书面，强调能迫使对方让步的手段，可数。
 ④ He levered the lid off the tin with a screwdriver.
 = 他用螺丝刀把罐头盖子撬开了。
 lever something off = 把…撬下来
@@ -15581,6 +15635,7 @@ liberalize
 ① The government plans to liberalize the laws on shop opening hours.
 = 政府打算放宽关于商店营业时间的法律。
 liberalize the laws = 放宽法律
+宾语多是法律、贸易、市场这类制度性的事，主语常是政府，不用于人。
 ② Trade between the two countries was liberalized in the 1990s.
 = 两国之间的贸易在二十世纪九十年代放开了。
 be liberalized = 被放开
@@ -15676,6 +15731,7 @@ libido
 ① Some drugs for high blood pressure can lower the libido.
 = 有些降压药会降低性欲。
 lower the libido = 降低性欲
+多用于医学、心理话题，语气中性，不粗俗；常带 the 或物主代词。
 ② Loss of libido is a common sign of depression.
 = 性欲减退是抑郁症的常见征兆。
 loss of libido = 性欲减退
@@ -15700,6 +15756,7 @@ librarian
 ① The librarian helped me find a book about the history of the town.
 = 图书馆员帮我找到了一本讲这座城历史的书。
 the librarian = 图书馆员
+重音在第二个音节，第一个音节读 /laɪ/，常被误读。
 ② She worked as a school librarian for thirty years.
 = 她当了三十年学校图书馆员。
 a school librarian = 学校图书馆员
@@ -15713,6 +15770,7 @@ library
 ① I borrowed three books from the library on Saturday.
 = 星期六我从图书馆借了三本书。
 borrow a book from the library = 从图书馆借书
+借书说 borrow … from the library，介词用 from；常见错误是用 to。
 ② The old house has a library with shelves from floor to ceiling.
 = 那座老房子有一间藏书室，书架从地板顶到天花板。
 a library = 藏书室
@@ -15841,6 +15899,7 @@ a lick of paint = 刷一层漆
 ⑨ Our team took a licking in the final and lost by six goals.
 = 我们队在决赛中惨败，输了六个球。
 take a licking = （口语）惨败
+licking 在这里是可数用法，前面常加 a；多用于体育报道和口语。
 ⑩ The boy ran home lickety-split when he heard the dinner bell.
 = 男孩一听见开饭的铃声，飞快地跑回了家。
 lickety-split = （美，口语）飞快地
@@ -16047,6 +16106,7 @@ all your life = 一辈子
 ④ Life in the city is fast and expensive.
 = 城里的生活节奏快、花销大。
 life in the city = 城里的生活
+泛指某处的生活时不可数，不加冠词；说某个人过的一种生活时可数，复数 lives。
 ⑤ Farming is a way of life, not just a job.
 = 务农是一种生活方式，不只是一份工作。
 a way of life = 生活方式
@@ -16074,6 +16134,7 @@ that's life = 生活就是这样
 ⑬ The judge gave him life for the murder of his business partner.
 = 法官因他谋杀生意伙伴判了他无期徒刑。
 get life = （口语）被判无期徒刑
+口语里单说 life 就指无期徒刑，前面不加冠词。
 ⑭ He is serving a life sentence for murder.
 = 他因谋杀正在服无期徒刑。
 a life sentence = 无期徒刑
@@ -18349,6 +18410,7 @@ litter
 ① The park was full of litter after the concert.
 = 音乐会之后，公园里满是垃圾。
 full of litter = 满是垃圾
+这一义不可数，不说 a litter 或 litters；指街上乱扔的纸屑、罐子一类。
 ② Our dog had a litter of six puppies in the spring.
 = 我们家的狗春天生了一窝六只小狗。
 a litter of puppies = 一窝小狗
@@ -18728,6 +18790,7 @@ living relatives = 在世的亲人
 ③ What do you do for a living, and do you enjoy the work?
 = 你是做什么工作的？喜欢这份工作吗？
 for a living = 以…为生
+问对方做什么工作，What do you do 后面加上 for a living 意思更明确。
 ④ She makes a living by selling her paintings to tourists in the market square.
 = 她靠在集市广场上向游客卖画谋生。
 make a living = 谋生
@@ -18740,6 +18803,7 @@ in living memory = 在人们的记忆里
 ⑦ Wages have not kept up with the cost of living.
 = 工资没有跟上生活费用的上涨。
 the cost of living = 生活费用
+常跟 the 连用，指一地日常开销的整体水平，不指某一笔花费。
 ⑧ The standard of living in the region has doubled in twenty years.
 = 那个地区的生活水平二十年里翻了一番。
 the standard of living = 生活水平
@@ -18907,6 +18971,7 @@ loan
 ① They took out a loan to buy the car.
 = 他们贷款买了那辆车。
 take out a loan = 贷款
+可数名词；多指向银行等机构借的钱，向朋友借点小钱一般不用这个词。
 ② She is paying back the loan at two hundred pounds a month.
 = 她每月还两百英镑的贷款。
 pay back a loan = 还贷款
@@ -18950,6 +19015,7 @@ loathe
 ① I loathe getting up early on cold winter mornings.
 = 我讨厌透了在寒冷的冬天早起。
 loathe doing something = 极讨厌做…
+不接 to do；表状态，一般不用进行时。
 ② The two brothers loathe each other and have not spoken for years.
 = 那两兄弟互相憎恨，多年不说话了。
 loathe each other = 互相憎恨
@@ -19051,6 +19117,7 @@ local
 ① Our children go to the local school at the end of the street.
 = 我们的孩子上街尾那所本地学校。
 the local school = 本地的学校
+不含「土气、偏僻」的意思，只说「本地区的、附近的」，常修饰学校、医院、商店。
 ② The story was on the front page of the local newspaper.
 = 那件事登在了当地报纸的头版。
 the local newspaper = 当地报纸
@@ -19157,6 +19224,7 @@ the exact location = 确切位置
 ③ The film was shot on location in Morocco.
 = 那部电影是在摩洛哥实地拍摄的。
 on location = 在外景地
+on location 中间不加 the 或 a；与在摄影棚里拍摄相对。
 ④ The location of the fault took the engineers three days.
 = 工程师们花了三天才查到故障在哪儿。
 the location of a fault = 查找故障
@@ -19181,6 +19249,7 @@ lockstep（美：in lockstep 意为步调一致）。
 ① She turned the key in the lock and opened the door.
 = 她把钥匙在锁里一转，打开了门。
 a lock = 锁
+钥匙孔也说 the lock，turn the key in the lock 是固定说法。
 ② Did you lock the back door before we left?
 = 我们出门前你锁后门了吗？
 lock the door = 锁门
@@ -19208,6 +19277,7 @@ lock in a price = 锁定价格
 ⑩ I locked myself out of the house and had to climb in through a window.
 = 我把自己锁在了屋外，只好从窗户爬进去。
 lock out = 把…锁在外面
+常用反身代词作宾语，指钥匙忘在屋里、自己进不去门。
 ⑪ She locks her jewellery away in a safe when she travels.
 = 她出门旅行时把首饰锁进保险箱收好。
 lock away = 把…锁起来收好
@@ -19423,6 +19493,7 @@ a lofty ceiling = 高高的天花板
 ② The party came to power with lofty ideals and little experience.
 = 那个党带着崇高的理想上台，却没什么经验。
 lofty ideals = 崇高的理想
+褒义，多修饰理想、目标、原则；有时略带「不切实际」的讽刺。
 ③ He spoke to the waiter in a lofty manner that made us all uncomfortable.
 = 他用高傲的态度跟服务员说话，弄得我们都不自在。
 a lofty manner = 高傲的态度
@@ -20272,6 +20343,7 @@ loom out of the fog = 从雾里赫然出现
 ③ The exams are looming, and I have hardly started to revise.
 = 考试临近了，我几乎还没开始复习。
 the exams loom = 考试迫近
+这一义多用进行时，主语是考试、危机等即将到来的坏事。
 ④ The fear of losing her job loomed large in her mind.
 = 丢掉工作的恐惧在她心头挥之不去。
 loom large = 显得突出、压在心头
@@ -20324,6 +20396,7 @@ loop something around your neck = 把…绕在脖子上
 ⑥ Keep me in the loop about any changes to the plan.
 = 方案有任何变动都告诉我一声。
 in the loop = 在知情的圈子里
+职场口语常用，宾语是人，表示随时把情况告诉他。
 ⑦ I have been out of the loop since I moved to another department.
 = 调到别的部门以后，我就不了解情况了。
 out of the loop = 不在知情的圈子里
@@ -20351,6 +20424,7 @@ loopy
 ① She has some loopy plan to keep goats on the balcony.
 = 她有个荒唐的打算，要在阳台上养山羊。
 a loopy plan = 荒唐的打算
+口语色彩浓，说人时带点亲昵的调侃，不算重话。
 ② Mum will go loopy when she sees the mud on the carpet.
 = 妈妈看见地毯上的泥会气疯的。
 go loopy = （英，口语）气疯了
@@ -20477,6 +20551,7 @@ lop
 ① He lopped the lower branches from the apple tree.
 = 他把苹果树下面的枝子砍掉了。
 lop the branches = 砍掉树枝
+过去式、过去分词双写 p，作 lopped。
 ② The new road will lop ten minutes off the journey to the coast.
 = 新路会把去海边的路程缩短十分钟。
 lop off = 削减掉
@@ -20513,6 +20588,7 @@ come out lopsided = 做出来是歪的
 ③ It was a lopsided match that ended eight goals to nil.
 = 那是一场一边倒的比赛，以八比零收场。
 a lopsided match = 一边倒的比赛
+这一义多用于比赛、选举、交易等，指双方力量悬殊。
 ④ The picture hung lopsidedly on the wall above the fireplace.
 = 那幅画歪歪斜斜地挂在壁炉上方的墙上。
 hang lopsidedly = 歪歪斜斜地挂着
@@ -20685,9 +20761,11 @@ loss
 ① The loss of his sight changed his whole life.
 = 失明改变了他的整个生活。
 the loss of something = 失去…
+表示失去某种能力或东西时多不可数，后面用 of 引出失去的对象。
 ② The company made a loss of two million pounds last year.
 = 那家公司去年亏损两百万英镑。
 make a loss = 亏损
+表示一笔亏损时可数，前加 a，后用 of 接金额。
 ③ She never got over the loss of her son.
 = 她始终没能从丧子之痛中走出来。
 the loss of a son = 丧子
@@ -20733,12 +20811,14 @@ be lost for words（说不出话来）。
 ① We got lost in the old town and had to ask the way.
 = 我们在老城里迷了路，只好问路。
 get lost = 迷路
+get lost 强调迷路这一变化，be lost 只说处于迷路状态。
 ② The lost dog was found three days later in a neighbour's shed.
 = 那条走失的狗三天后在邻居的棚屋里找到了。
 a lost dog = 走失的狗
 ③ I felt completely lost on my first day at the new school.
 = 到新学校的头一天，我完全不知所措。
 feel lost = 茫然、不知所措
+常跟在 feel 后面作表语，多指在陌生环境里摸不着头脑。
 ④ Tell your little brother to get lost; we are trying to talk.
 = 叫你弟弟走开，我们正想说话呢。
 get lost = （口语）滚开
@@ -21536,6 +21616,7 @@ the loyalty of somebody = 某人的忠诚
 ② Her loyalty to her family comes before everything else.
 = 她对家人的忠心高于一切。
 loyalty to somebody = 对某人的忠心
+介词用 to，不用 for；对国家、球队、品牌的忠心也这样说。
 ③ He felt divided loyalties when his two best friends quarrelled.
 = 两个最好的朋友吵架时，他感到左右为难。
 divided loyalties = 左右为难的情分
@@ -21588,6 +21669,7 @@ a lucid account = 清楚明白的叙述
 ② In his lucid moments, the old man still recognizes his daughter.
 = 神志清醒的时候，那位老人还认得出女儿。
 lucid moments = 神志清醒的时刻
+多指重病、年老的人一阵阵地清醒，常用复数 moments。
 ③ The professor explains difficult ideas lucidly and without long words.
 = 那位教授把难懂的道理讲得清楚明白，不用大词。
 explain lucidly = 讲得清楚明白
@@ -21645,6 +21727,7 @@ try your luck = 碰碰运气
 ⑪ We tried four hotels in the old town but had no luck finding a room.
 = 我们在老城问了四家旅馆，都没能找到房间。
 have no luck = 没成、运气不好
+后面接 doing，不接 to do：have no luck finding something。
 ⑫ We lucked out and got the last two seats on the plane.
 = 我们走了大运，拿到了飞机上最后两个座位。
 luck out = （美，口语）走了大运
@@ -21688,6 +21771,7 @@ lucrative
 ① She left teaching for a more lucrative job in a bank.
 = 她放弃教书，去银行干了一份更赚钱的工作。
 a lucrative job = 赚钱的工作
+只修饰工作、生意、合同等，不用来说人「有钱」。
 ② The firm won a lucrative contract to build the new airport.
 = 那家公司拿下了修建新机场的肥约。
 a lucrative contract = 利润丰厚的合同
@@ -21723,6 +21807,7 @@ ludicrous
 ① It is ludicrous to expect a child of six to walk ten miles.
 = 指望一个六岁的孩子走十英里，太荒唐了。
 it is ludicrous to do something = …很荒唐
+语气强，常带不满，多用于批评计划、价格、要求不合理。
 ② He looked ludicrous in a suit three sizes too big.
 = 他穿着大了三号的西装，样子滑稽可笑。
 look ludicrous = 样子滑稽可笑
@@ -23206,6 +23291,7 @@ magnanimous in victory = 胜而不骄、大度
 ② It was magnanimous of her to forgive the man who had robbed her.
 = 她原谅了抢过她的那个人，真是宽宏大量。
 it is magnanimous of somebody to… = 某人…真是大度
+这个句型里介词用 of，不用 for，因为说的是人的品格。
 ③ He showed great magnanimity towards his former enemies.
 = 他对昔日的敌人表现出了极大的宽容。
 magnanimity = 宽宏大量
@@ -23246,6 +23332,7 @@ a magnet = 磁铁
 ② The beach is a magnet for tourists in summer.
 = 那片海滩夏天对游客很有吸引力。
 a magnet for somebody = 吸引某人的地方
+这一义主语多是地方、城市，也可以是人，可褒可贬。
 ③ The earth has a magnetic field that protects it from the sun.
 = 地球有磁场，保护它不受太阳的伤害。
 a magnetic field = 磁场
@@ -23295,6 +23382,7 @@ a magnificent view = 壮丽的景色
 ② She gave a magnificent performance in the final and beat the champion in three sets.
 = 她在决赛中表现极为出色，三盘击败了卫冕冠军。
 a magnificent performance = 出色的表现
+本身已是极言，前面一般不再加表示程度的词。
 ③ The visitors were amazed by the magnificence of the palace.
 = 游客们为那座宫殿的宏伟而惊叹。
 magnificence = 宏伟、壮丽
@@ -23311,6 +23399,7 @@ magnify something five hundred times = 把…放大五百倍
 ② The newspapers magnified the risk and frightened parents.
 = 报纸夸大了风险，把家长们吓着了。
 magnify the risk = 夸大风险
+宾语常是风险、困难一类坏事，含贬义。
 ③ The drought magnified the effects of the war.
 = 旱灾加剧了战争的影响。
 magnify the effects = 加剧影响
@@ -26911,6 +27000,7 @@ martial
 ① He has studied martial arts such as judo and karate since he was six.
 = 他从六岁起就学柔道、空手道之类的武术。
 a martial art = 武术
+常用复数 martial arts，泛指各国的徒手或器械格斗术。
 ② The president declared martial law after the riots.
 = 骚乱之后，总统宣布戒严。
 martial law = 戒严、军事管制
@@ -26930,6 +27020,7 @@ the Martian surface = 火星表面
 ② In the old novel, Martians land in England and attack London.
 = 在那部老小说里，火星人在英格兰登陆，袭击了伦敦。
 a Martian = 火星人
+首字母大写，作名词、形容词都一样。
 ③ He stared at me as if I were a Martian.
 = 他盯着我看，好像我是个火星人。
 as if I were a Martian = 好像我是外星来的
@@ -28055,6 +28146,7 @@ mature in barrels = 在桶里陈熟
 ⑥ The savings plan matures after ten years.
 = 那份储蓄计划十年后到期。
 the plan matures = 计划到期
+这一义多用于保单、储蓄、债券等金融用语，作不及物动词。
 ⑦ The children behaved very maturely during the long funeral.
 = 在漫长的葬礼上，孩子们表现得很懂事。
 maturely = 成熟地、懂事地
@@ -29372,6 +29464,7 @@ meek
 ① He is a meek little man who never complains about anything.
 = 他是个温顺的小个子男人，什么事都不抱怨。
 a meek man = 温顺的人
+常带贬义，暗指软弱、不敢替自己说话。
 ② She meekly followed the nurse down the corridor to the ward.
 = 她顺从地跟着护士沿走廊去了病房。
 meekly = 顺从地
@@ -29475,6 +29568,7 @@ in a meeting = 在开会
 ③ Their first meeting was at a wedding in Scotland.
 = 他们初次相遇是在苏格兰的一场婚礼上。
 their first meeting = 他们的初次相遇
+这一义指某一次见面，多为偶然相遇或初次相识。
 ④ The cafe by the station is a popular meeting place for students.
 = 车站旁的那家咖啡馆是学生们爱去的碰头地点。
 a meeting place = 会面的地点
@@ -30381,6 +30475,7 @@ the menu = 菜单
 ② What is on the menu tonight, and is there anything without meat?
 = 今晚菜单上有什么？有没有不带肉的？
 on the menu = 在菜单上
+介词用 on，不说 in the menu。
 ③ Choose Print from the File menu at the top left of the screen.
 = 从屏幕左上角的「文件」菜单里选「打印」。
 the File menu = 「文件」菜单
@@ -30428,6 +30523,7 @@ be mercenary = 唯利是图
 ③ His interest in the old lady was purely mercenary.
 = 他对那位老太太感兴趣，纯粹是冲着钱。
 purely mercenary = 纯粹冲着钱
+形容词带强烈贬义，多用来说动机、关系或兴趣，常作表语。
 
 merch
 /mɜːtʃ/
@@ -30462,6 +30558,7 @@ merchant
 ① His grandfather was a wine merchant in Bristol.
 = 他祖父是布里斯托尔的葡萄酒商。
 a wine merchant = 葡萄酒商
+常前置货物名表示专营某类货的商人，如酒、煤、香料。
 ② The merchants of the city grew rich on the spice trade.
 = 那座城市的商人靠香料贸易发了财。
 the merchants of a city = 一座城的商人
@@ -30471,6 +30568,7 @@ a speed merchant = （英，口语）飙车狂
 ④ She works for a merchant bank in the City of London.
 = 她在伦敦金融城的一家商人银行工作。
 a merchant bank = （英）商人银行
+主要做企业融资、并购等业务，不面向普通储户。
 ⑤ The deal was arranged by a merchant banker who took a large fee.
 = 那笔交易是一位商人银行家安排的，他收了一大笔费用。
 a merchant banker = 商人银行家
@@ -30493,6 +30591,7 @@ be merciful = 仁慈
 ② After months of pain, her death came as a merciful release.
 = 受了几个月的痛苦之后，死亡对她是一种解脱。
 a merciful release = 一种解脱
+a merciful release 多用于久病后去世，是委婉体面的说法。
 ③ Mercifully, nobody was in the building when the roof fell in.
 = 幸好屋顶塌下来时楼里没有人。
 mercifully = 幸好
@@ -30617,6 +30716,7 @@ two banks merge = 两家银行合并
 ② The village school was merged with a larger one in the town.
 = 那所乡村学校并入了城里一所更大的学校。
 be merged with something = 并入…
+常用被动，被并入的一方作主语，并入的对象放在 with 后。
 ③ The two roads merge a mile before the bridge.
 = 两条路在离桥一英里的地方汇合。
 two roads merge = 两条路汇合
@@ -32977,6 +33077,7 @@ mindful
 ① Mindful of the danger, the climbers turned back before dark.
 = 登山者们惦记着危险，天黑前就折返了。
 mindful of something = 留心、记着…
+这个义项只作表语或放句首，不放名词前；of 后可接名词或 doing。
 ② The teacher was mindful that some of the children could not read yet.
 = 老师记着有些孩子还不识字。
 mindful that… = 记着…
@@ -32993,6 +33094,7 @@ mindless
 ① The bus shelter was destroyed in an act of mindless violence.
 = 那个公交站亭毁于一次毫无缘由的暴力行为。
 mindless violence = 毫无缘由的暴力
+带强烈贬义，多见于新闻里谴责无端的破坏、伤人。
 ② Putting letters into envelopes all day is mindless work.
 = 整天往信封里装信是不用动脑的活儿。
 mindless work = 不用动脑的活儿

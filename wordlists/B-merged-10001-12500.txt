@@ -28900,6 +28900,7 @@ something, huh? = …是吧？（寻求认同）
 ③ "He's getting married next spring." "Huh. I never thought he would settle down with anyone."
 = 「他明年春天要结婚了。」「哼，我从没想到他会跟谁安定下来。」
 huh = 哼（表示意外或不以为然）
+这里读降调，单独成句；没听清时的「啊？」读升调。
 
 hula
 /ˈhuːlə/
@@ -29238,6 +29239,7 @@ humid
 ① It was hot and humid, and our shirts stuck to our backs.
 = 天气又热又潮，衬衫都粘在背上。
 hot and humid = 闷热潮湿
+多形容天气和气候，带「又热又闷」的意味；单说冷而潮时不用它。
 ② Humidity was over ninety per cent and the paint wouldn't dry.
 = 湿度超过百分之九十，油漆怎么也干不了。
 humidity = 湿度
@@ -29548,6 +29550,7 @@ hunger
 ① Thousands of children still die of hunger every year.
 = 每年仍有成千上万的儿童死于饥饿。
 die of hunger = 饿死
+日常说「我饿了」用形容词，不用这个名词。
 ② By the evening they were weak with hunger.
 = 到了傍晚，他们饿得浑身无力。
 be weak with hunger = 饿得无力
@@ -29971,6 +29974,7 @@ an empty husk = 空壳（比喻）
 ③ They sat on the porch husking corn for the evening meal.
 = 他们坐在门廊上剥玉米，准备晚饭。
 husk corn = 剥玉米
+作动词时宾语是谷物本身，剥的是 corn，而不是把 husk 当宾语。
 
 husky
 /ˈhʌski/
@@ -31208,12 +31212,14 @@ ice in somebody's voice = 语气冰冷
 ㉙ He told a joke to break the ice at the start of the meeting.
 = 会议开始时，他讲了个笑话来打破沉默。
 break the ice = 打破沉默、打破僵局
+多用于陌生人初次见面或会议开场；主语可以是人，也可以是一个笑话、一件事。
 ㉚ You're on thin ice already, so don't be late again.
 = 你已经是如履薄冰了，别再迟到了。
 be on thin ice = 如履薄冰
 ㉛ The plans for the new stadium have been put on ice until next year.
 = 新体育场的计划被搁置到明年了。
 put something on ice = 把某事搁置
+常用被动 be put on ice；说计划、项目，不说人。
 ㉜ His excuses cut no ice with the judge.
 = 他的借口打动不了法官。
 cut no ice with somebody = 打动不了某人
@@ -31261,6 +31267,7 @@ iced
 ① She ordered an iced coffee and sat outside in the sun.
 = 她点了一杯冰咖啡，坐在外面晒太阳。
 iced coffee = 冰咖啡
+点一杯时可以说 an iced coffee，当可数名词用。
 ② A plate of iced buns sat on the counter.
 = 柜台上放着一盘抹了糖霜的小圆面包。
 iced buns = 抹糖霜的小圆面包
@@ -31426,6 +31433,7 @@ an icy wind = 刺骨的寒风
 ③ She gave him an icy stare and left the room.
 = 她冷冰冰地瞪了他一眼，离开了房间。
 an icy stare = 冷冰冰的目光
+比喻义多修饰目光、语气、态度，表示刻意摆出的冷淡，与天气无关。
 ④ "I don't think we've met," she said icily.
 = 「我想我们没见过吧。」她冷冷地说。
 icily = 冷冰冰地
@@ -31490,6 +31498,7 @@ ideal
 ① The weather was ideal for a picnic, warm but not too hot.
 = 天气非常适合野餐，暖和而不太热。
 be ideal for something = 非常适合…
+be ideal for 后接名词或 doing；它本身已含「最」，一般不再加比较级。
 ② In an ideal world, everyone would have a garden.
 = 在理想的世界里，每个人都会有个花园。
 in an ideal world = 理想情况下
@@ -31568,6 +31577,7 @@ identical
 ① Her dress was identical to the one her sister had worn the week before.
 = 她的裙子跟她姐姐上周穿的那条一模一样。
 be identical to something = 跟…一模一样
+作表语时介词多用 to，with 较少见；也常作定语放在名词前。
 ② The two signatures are almost identical.
 = 这两个签名几乎一模一样。
 almost identical = 几乎完全相同
@@ -31597,6 +31607,7 @@ identification
 ① The hotel won't let you check in without some identification, such as a passport or driving licence.
 = 没有身份证明，比如护照或驾照，那家酒店不让你入住。
 identification = 身份证明
+这一义不可数，前面不加 an，可说 some identification。
 ② Identification of the victims took several weeks because many of them had no papers.
 = 辨认遇难者花了好几个星期，因为其中许多人身上没有证件。
 identification of somebody = 辨认某人
@@ -31662,6 +31673,7 @@ the identity of somebody = 某人的身份
 ② The town has lost its identity since the factory closed.
 = 工厂关门后，那个小镇失去了它的特色。
 somebody's identity = 某人（某地）的特质
+这一义可指人，也常指城镇、群体、公司，多用单数。
 ③ Music is an important part of their national identity.
 = 音乐是他们民族认同的重要组成部分。
 national identity = 民族认同
@@ -36424,6 +36436,7 @@ incomparable
 ① The view from the top of the mountain was incomparable.
 = 山顶的景色无与伦比。
 incomparable beauty = 无与伦比的美
+本身已含「最好」之意，不再加程度副词修饰，也没有比较级。
 ② The new trains are incomparably faster and more comfortable than the old ones.
 = 新火车比旧火车快得多、舒服得多，简直没法比。
 incomparably better = 好得无法比拟
@@ -36474,6 +36487,7 @@ an incomplete form = 没填完整的表格
 ② The novel was left incomplete when the author died.
 = 作者去世时，那部小说还没写完。
 be left incomplete = 未完成
+be left incomplete 多指因故中断、再也没有完成，常见于作品、工程。
 ③ The disease is still incompletely understood by scientists.
 = 科学家对这种病的了解仍然不完整。
 incompletely understood = 了解得不完整
@@ -42089,6 +42103,7 @@ intangible
 ① There is an intangible sense of peace in the old monastery.
 = 那座古老的修道院里有一种难以言喻的宁静感。
 an intangible sense of something = 一种说不清的…
+这一义多用来描写气氛、感受，带点书面色彩，口语里更常直接说「说不清」。
 ② A company's reputation is one of its most important intangible assets.
 = 公司的声誉是它最重要的无形资产之一。
 intangible assets = 无形资产
@@ -43217,6 +43232,7 @@ internal affairs = 内政
 ④ The medicine is for external use only and must not be taken internally.
 = 此药仅限外用，切勿内服。
 internally = 内部地；内服地
+说药「内服」时常与 external use 对照出现，多见于药品说明。
 ⑤ Children internalize their parents' values long before they can explain them.
 = 孩子们早在能说出道理之前，就已经把父母的价值观内化了。
 internalize something = 使…内化
@@ -43282,6 +43298,7 @@ internet
 ① I found an old family recipe for apple cake on the internet last night.
 = 昨晚我在网上找到了一个苹果蛋糕的老家传食谱。
 on the internet = 在网上
+「在网上」要用介词 on，不能用 in。
 ② Most hotels now offer free internet access to their guests.
 = 如今大多数酒店都为客人提供免费上网。
 internet access = 上网
@@ -43486,6 +43503,7 @@ be interrelated = 相互关联
 ② The course shows how the different parts of the economy interrelate.
 = 这门课说明了经济的各个部分是如何相互关联的。
 interrelate = 相互关联
+不及物用法主语要是复数或并列的几样东西，表示彼此关联。
 ③ Scientists are studying the interrelationship between diet and disease.
 = 科学家们正在研究饮食与疾病之间的相互关系。
 the interrelationship between A and B = A与B之间的相互关系
@@ -43551,6 +43569,7 @@ interruption
 ① With the children at school, she worked on her novel for three hours without interruption.
 = 孩子们上学去了，她不间断地写了三个小时小说。
 without interruption = 不间断地
+without interruption 中不加冠词，此处不可数。
 ② I'm sorry for the interruption, but there's an urgent call for you.
 = 抱歉打扰一下，有你的紧急电话。
 sorry for the interruption = 抱歉打扰
@@ -43580,6 +43599,7 @@ be intersected by something = 被…贯穿、交错
 ③ Her interests intersect with mine only in our love of old films.
 = 她和我的兴趣只在爱看老电影这一点上有交集。
 intersect with something = 与…有交集
+比喻用法较正式，多用于兴趣、经历、话题等抽象事物。
 
 intersection
 /ˌɪntəˈsekʃən/
