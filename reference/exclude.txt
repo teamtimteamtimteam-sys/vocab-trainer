@@ -1691,3 +1691,15 @@ siemens      # 电导单位，窄专业
 sievert      # 辐射剂量单位，窄专业
 situ         # in situ 的残片，清单伪影
 singin-in-the-rain   # 电影名残片，清单伪影
+# sk- 段（2026-10-26）
+skean dhu    # 苏格兰（短剑），地区词
+skelm        # 南非英语（流氓），地区词
+skolly       # 南非英语（小流氓），地区词
+skinder      # 南非英语（闲话），地区词
+skerry       # 苏格兰（礁石），地区词
+skijoring    # 窄（雪橇拖曳运动）
+skimobile    # 窄（雪地摩托旧称），一般说 snowmobile
+skinnable    # 计算机窄术语（可换皮肤的）
+skipjack     # 窄（鱼名）
+skycap       # 美式窄（机场行李搬运工）
+skeeter      # 美式俚语（蚊子），窄

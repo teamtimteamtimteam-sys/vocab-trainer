@@ -450,3 +450,11 @@ shmo         schmo          # 拼法变体；在 schmo 条配例句
 sung         sing           # 过去分词；在 sing 条配例句
 sunk         sink           # 过去分词；在 sink 条配例句（sunken 另有形容词义，留到 su- 段）
 syphon       siphon         # 拼法变体；在 siphon 条配例句
+skeptic      sceptic        # 美式拼法；在 sceptic 条配例句
+skeptical    sceptical      # 美式拼法；在 sceptical 条配例句
+skeptically  sceptical      # 美式拼法；副词并进 sceptical
+skepticism   scepticism     # 美式拼法；在 scepticism 条配例句
+skillful     skilful        # 美式拼法；在 skilful 条配例句
+skillfully   skilful        # 美式拼法；副词并进 skilful
+skullduggery skulduggery    # 拼法变体
+skies        sky            # 复数；在 sky 条配例句
