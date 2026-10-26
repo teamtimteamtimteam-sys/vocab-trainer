@@ -1,3 +1,47 @@
+shingle
+/ˈʃɪŋɡl/
+核心：名词：（海滩上的）小圆石、卵石（不可数）：a shingle beach；（可数）（屋顶、墙上的）木瓦、墙面板。
+① The beach is covered in shingle, so you need shoes to walk down to the sea.
+= 海滩上满是卵石，所以走到海边得穿鞋。
+shingle = 卵石
+a shingle beach = 卵石海滩
+② Some of the wooden shingles blew off the roof during the storm.
+= 暴风雨中屋顶上有些木瓦被吹掉了。
+wooden shingles = 木瓦
+
+shingled
+/ˈʃɪŋɡld/
+核心：形容词：（屋顶、墙）铺着木瓦的。
+① We stayed in a little shingled cottage by the lake, with a green door and a stone chimney.
+= 我们住在湖边一座铺着木瓦的小屋里，绿色的门，石头烟囱。
+a shingled cottage = 铺木瓦的小屋
+shingled = 铺着木瓦的
+② The church has a shingled spire that has turned silver-grey over the years.
+= 那座教堂的尖塔铺着木瓦，多年下来已经变成了银灰色。
+a shingled spire = 铺木瓦的尖塔
+
+shingles
+/ˈʃɪŋɡlz/
+核心：名词，不可数：带状疱疹（一种沿神经出现成串水疱、非常疼痛的病毒性疾病）。
+① My grandmother had shingles last winter, and the pain in her side lasted for weeks.
+= 我奶奶去年冬天得了带状疱疹，腰侧疼了好几个星期。
+shingles = 带状疱疹
+have shingles = 得带状疱疹
+② Family doctors in our town now offer a vaccine against shingles to everyone over seventy.
+= 我们镇上的家庭医生现在为所有七十岁以上的人提供带状疱疹疫苗。
+a vaccine against shingles = 带状疱疹疫苗
+
+shingly
+/ˈʃɪŋɡli/
+核心：形容词：（海滩、河岸）多卵石的。
+① We walked along the shingly beach, and the stones crunched under our boots.
+= 我们沿着满是卵石的海滩走，石子在靴子底下咯吱作响。
+a shingly beach = 多卵石的海滩
+shingly = 多卵石的
+② The river runs over a shingly bed, so the water is very clear.
+= 那条河流过铺满卵石的河床，所以水很清。
+a shingly bed = 多卵石的河床
+
 shinny
 /ˈʃɪni/
 核心：动词（shinnied, shinnied）（美式口语）：（用手脚）攀爬（树、绳、旗杆等）。名词，不可数：（儿童玩的）简易曲棍球。
@@ -247,64 +291,3 @@ shirker = 逃避工作的人
 ② She is no shirker; she stayed late every night until the job was finished.
 = 她可不是偷懒的人，每天晚上都留到很晚，直到把活干完。
 be no shirker = 绝不偷懒
-
-shirt
-/ʃɜːt/
-核心：名词，可数：衬衫：a white shirt；（运动队的）队服、球衣。习语：keep your shirt on 是别着急、别发火；give somebody the shirt off your back 是倾其所有帮助某人。
-① He wore a white shirt and a blue tie to the job interview.
-= 他穿着白衬衫、打着蓝领带去面试。
-shirt = 衬衫
-② On hot summer days I usually wear an old T-shirt at home and in the garden.
-= 夏天热的时候，我在家里和花园里通常穿一件旧 T 恤。
-T-shirt = T 恤
-③ After dinner he rolled up his shirt sleeves and started washing the dishes in the sink.
-= 晚饭后他卷起衬衫袖子，开始在水槽里洗碗。
-shirt sleeve = 衬衫袖子
-④ The striker took off his shirt and threw it to the fans after the final whistle.
-= 终场哨响后，那名前锋脱下球衣扔给了球迷。
-his shirt = 他的球衣
-⑤ When her friend started shouting at the station, she laughed and said, "Keep your shirt on! I'm only five minutes late."
-= 朋友在车站嚷起来时，她笑着说：「别着急！我才晚了五分钟。」
-keep your shirt on = 别着急、别发火
-⑥ My grandfather was so kind that he would give you the shirt off his back if you needed it.
-= 我祖父心肠太好了，你要是有需要，他能把身上的衬衫脱给你。
-the shirt off your back = 倾其所有
-⑦ He spilled red wine down his shirt front during the dinner and spent the evening trying to hide it.
-= 他晚宴时把红酒洒在衬衫前襟上，整个晚上都在设法遮掩。
-a shirt front = 衬衫前襟
-⑧ His shirt tail was hanging out of his trousers when he ran for the bus.
-= 他追公交车时，衬衫下摆露在裤子外面。
-a shirt tail = 衬衫下摆
-
-shirtsleeve
-/ˈʃɜːtsliːv/
-核心：名词，可数：衬衫袖子；in (your) shirtsleeves 是只穿衬衫（不穿外套）。形容词：（天气）不用穿外套的：shirtsleeve weather。
-① It was so warm in the office that all the men were working in their shirtsleeves.
-= 办公室里太暖和了，男人们都只穿着衬衫干活。
-in your shirtsleeves = 只穿衬衫
-shirtsleeve = 衬衫袖子
-② After the long winter, the first day of shirtsleeve weather brought everyone out into the park.
-= 漫长的冬天过后，第一个不用穿外套的暖和日子把大家都吸引到了公园里。
-shirtsleeve weather = 不用穿外套的暖和天气
-
-shirty
-/ˈʃɜːti/
-核心：形容词（英式口语）：发火的、不高兴的、粗鲁的：get shirty with somebody。
-① There is no need to get shirty with me; I am only asking where you have been.
-= 犯不着冲我发火，我只是问问你去哪儿了。
-get shirty with somebody = 冲某人发火
-shirty = 发火的
-② The man at the ticket office was a bit shirty when I asked the same question twice.
-= 我把同一个问题问了两遍，售票处那个人有点不耐烦了。
-a bit shirty = 有点不耐烦
-
-shisha
-/ˈʃiːʃə/
-核心：名词，不可数：水烟（用水烟筒吸的加味烟草）；可数：水烟筒、水烟壶。
-① After dinner, the men sat outside the café smoking shisha and playing cards.
-= 晚饭后，男人们坐在咖啡馆外面抽水烟、打牌。
-smoke shisha = 抽水烟
-shisha = 水烟
-② The new shisha bar near the university is open until two in the morning.
-= 大学附近新开的那家水烟吧营业到凌晨两点。
-a shisha bar = 水烟吧
