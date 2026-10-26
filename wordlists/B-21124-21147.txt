@@ -1,3 +1,25 @@
+signally
+/ˈsɪɡnəli/
+核心：副词（书面）：显著地、明显地（多用于失败等坏事）：fail signally。
+① The government has signally failed to deal with the problem of homeless people.
+= 政府在解决无家可归者问题上明显失败了。
+signally fail = 明显失败
+signally = 显著地
+② The team's new tactics were signally unsuccessful, and they lost every game in March.
+= 球队的新战术显然不成功，三月份每场都输了。
+signally unsuccessful = 显然不成功
+
+signalman
+/ˈsɪɡnəlmən/
+核心：名词，可数（复数 signalmen）：（铁路的）信号员；（军队的）通信兵。
+① The signalman worked alone in the little box by the line, day and night.
+= 那位信号员日日夜夜独自在铁路边的小信号楼里工作。
+the signalman = 信号员
+signalman = 信号员
+② The old signalman knew the time of every train that passed through the village.
+= 那位老信号员知道每一趟经过村子的火车的时刻。
+the old signalman = 老信号员
+
 signatory
 /ˈsɪɡnətəri/
 核心：名词，可数：（协议、条约的）签署者、签约国：a signatory to something。
@@ -289,34 +311,3 @@ silica = 二氧化硅
 ② New shoes often come with a small bag of silica gel to keep them dry.
 = 新鞋常附有一小包硅胶，用来防潮。
 silica gel = 硅胶（干燥剂）
-
-silicate
-/ˈsɪlɪkeɪt/
-核心：名词，可数或不可数（化学）：硅酸盐（大多数岩石的主要成分）。
-① In the geology lesson, we learned that most of the rocks on Earth are made of silicates.
-= 地质课上我们学到，地球上大多数岩石由硅酸盐构成。
-silicates = 硅酸盐
-silicate = 硅酸盐
-② The old factory by the river makes a special glass from silicate and lead.
-= 河边那家老工厂用硅酸盐和铅制造一种特殊玻璃。
-make glass from silicate = 用硅酸盐造玻璃
-
-silicon
-/ˈsɪlɪkən/
-核心：名词，不可数（化学）：硅（一种元素，用于制造电脑芯片）。注意和 silicone（硅树脂、硅胶）区分。
-① Silicon is used to make the tiny chips inside computers and phones.
-= 硅用来制造电脑和手机里的微型芯片。
-silicon = 硅
-② The engineer explained that every phone has hundreds of silicon chips inside it.
-= 工程师解释说，每部手机里面都有几百个硅芯片。
-a silicon chip = 硅芯片
-
-silicone
-/ˈsɪlɪkəʊn/
-核心：名词，不可数：硅树脂、硅酮、硅胶（用于防水、密封、医疗植入物等）。注意和 silicon（硅）区分。
-① We filled the gap between the bath and the wall with white silicone so that water could not get through.
-= 我们用白色硅胶填了浴缸和墙之间的缝，防止渗水。
-silicone = 硅胶
-② She bought a set of silicone baking cases that do not need any oil.
-= 她买了一套不用抹油的硅胶烘焙模具。
-silicone baking cases = 硅胶烘焙模具
