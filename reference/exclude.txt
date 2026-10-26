@@ -1682,3 +1682,12 @@ sharp sharp  # 南非英语俚语（好的、再见），地区词
 shtick       # 已裁定不收
 shtum        # 已裁定不收
 shmo         # 已裁定不收
+# si- 段（2026-10-26）
+silkie       # 苏格兰、爱尔兰民间传说（同 selkie），地区词
+silvertail   # 澳新俚语（有钱人），窄
+simsim       # 地区用语（芝麻），窄
+sixer        # 印度英语（板球六分球），窄
+siemens      # 电导单位，窄专业
+sievert      # 辐射剂量单位，窄专业
+situ         # in situ 的残片，清单伪影
+singin-in-the-rain   # 电影名残片，清单伪影
