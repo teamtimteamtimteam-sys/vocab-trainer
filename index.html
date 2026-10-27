@@ -828,7 +828,8 @@ function parseVocab(text) {
                 raw: b.lines.map(l => l.t).join("\n") };
     const first = b.lines[0].t;
     e.word = first;
-    if (!/^[A-Za-z][A-Za-z0-9’'\-. ]*$/.test(first) || first.split(/\s+/).length > 4) {
+    // 和 scripts/check-wordlist.py 的 WORD_OK 一致：允许带重音的拉丁字母（glacé、habitué、idée fixe）
+    if (!/^[A-Za-z\u00C0-\u00FF0-9][A-Za-z\u00C0-\u00FF0-9’'\-./ ]*$/.test(first) || first.split(/\s+/).length > 4) {
       e.issues.push({ n: b.lines[0].n, msg: "首行不像单词：「" + first + "」" });
     }
     let sense = null, inSummary = false;
@@ -984,11 +985,13 @@ const HL_VOW = "aeiou";
 const HL_PH = new Set(["somebody","something","someone","sb","sth","somewhere","one's","oneself",
   "somebody's","someone's","something's","your","yourself","yourselves"]);
 const HL_TAIL = "(?:n['\u2019]t|['\u2019](?:t|s|ll|re|ve|d|m))?";
+// IRREG 是普通对象：constructor、toString 这类词会从原型上取到函数，只认自有属性
+const hlIrreg = w => Object.prototype.hasOwnProperty.call(IRREG, w) ? IRREG[w] : null;
 function hlForms(w) {
   const out = new Set([w]);
-  (IRREG[w] || []).forEach(f => out.add(f));
+  (hlIrreg(w) || []).forEach(f => out.add(f));
   // 带前缀的不规则词：befall→befell、uphold→upheld、outgrow→outgrew
-  if (w.length >= 5 && !IRREG[w]) for (const r in IRREG) {
+  if (w.length >= 5 && !hlIrreg(w)) for (const r in IRREG) {
     if (r.length >= 3 && w.length - r.length >= 2 && w.endsWith(r) && /^[a-z]+$/.test(r))
       IRREG[r].forEach(f => { if (/^[a-z]+$/.test(f)) out.add(w.slice(0, w.length - r.length) + f); });
   }
@@ -1077,6 +1080,19 @@ function hlSenseKey(notes, word) {
   const eq = (notes || []).find(n => n.t === "eq" && re.test(n.lhs));
   return eq ? eq.lhs : null;
 }
+// 例句里没有词头时（A-bomb 条里讲 H-bomb 的那一句），拿本义项里「真出现在例句中」的那条等式当后备，
+// 免得退到词干那一层只亮半个词（H-bomb 里的 bomb）。
+function hlSenseAlt(notes, sentence, word) {
+  // 词头（含各种词形）在例句里出现时不用后备，照旧亮词头
+  const own = hlRegex(word);
+  if (own && own.test(esc(sentence))) return null;
+  for (const n of (notes || [])) {
+    if (n.t !== "eq" || !n.lhs) continue;
+    const re = hlRegex(n.lhs);
+    if (re && re.test(esc(sentence))) return n.lhs;
+  }
+  return null;
+}
 function hl(sentence, word, fallback) {
   const out = esc(sentence);
   const tries = [word, fallback].filter(Boolean);
@@ -1157,7 +1173,7 @@ function renderWordFull(w) {
   w.senses.forEach(s => {
     h += '<div class="sense">' +
          '<p class="ex"><span class="snum">' + NUMS[s.no-1] + "</span> " +
-         (k => k ? hl(s.example, k, w.word) : hl(s.example, w.word))(hlSenseKey(s.notes, w.word)) +
+         (k => k ? hl(s.example, k, w.word) : hl(s.example, w.word, hlSenseAlt(s.notes, s.example, w.word)))(hlSenseKey(s.notes, w.word)) +
          " " + spkBtn(s.example, "inline") + "</p>" +
          (s.translation ? '<p class="tr">' + esc(s.translation) + "</p>" : "") +
          renderNotes(s.notes, w.word) +
